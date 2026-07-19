@@ -19,3 +19,5 @@ bud_fwb_2025_approx,fwb_gov,2025,15000000000,13500000000,15500000000,budgeted,sr
 bud_gg_interest_2025,gg_interest,2025,14282000000,,,esa,src_nbb_edp_2025_apr,strong,"NAI Table 1 interest expense 14282 m EUR"
 bud_defence_cofog_2025,mod_defensie,2025,8800000000,,,esa,src_nbb_edp_2025_apr,strong,"NAI COFOG defence 8.8 bn EUR 2025 (1.14% GDP)"
 
+bud_gent_income_2025_press,city_gent,2025,1420000000,,,budgeted,src_gent_debt_nb,medium,"Nieuwsblad: ~1.42bn income 2025 context; verify official MJP"
+bud_gent_culture_struct_2026,city_gent,2026,8000000,,,budgeted,src_gent_cultuur_8m,strong,"~8m structural culture subsidies 28 orgs"

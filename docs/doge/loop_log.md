@@ -93,4 +93,12 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_fed_cabinets_comms → ready (federal form; not sent)
 - Next: rq_008 City Ghent project subsidies
 
+### 2026-07-19T16:30:00Z — tick 10
+- Unit: rq_008 (Ghent L5 subsidies)
+- Found: **NTGent** werkings **€2,327,728** + investering **€260,000**/yr (HLN). Structural culture **~€8m/yr** for **28** orgs. Culture pot **~€10m/yr** after **€1.4m** cut. MJP: **€120m/yr** operating savings target + **€1bn** investments multi-year.
+- Wrote: commitments +4; budgets +2; leaderboard +2; FOI gap_gent_subsidies_top20 ready; sources; rq_008=done; ticks=10; mode sprint6_overhead
+- FOI: gap_gent_subsidies_top20 → ready (not sent)
+- Next: rq_009 dual-structure overhead catalogue
+
+
 

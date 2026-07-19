@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,sprint5_local,sprint5_local,2026-07-19T16:00:00Z,rq_007,9,no,"Next rq_008 Ghent L5. FOI ready: cjsm dienstencheques fed_cabinets."
+main,sprint6_overhead,sprint6_overhead,2026-07-19T16:30:00Z,rq_008,10,no,"Next rq_009 dual-structure overhead. FOI ready includes gap_gent_subsidies_top20."

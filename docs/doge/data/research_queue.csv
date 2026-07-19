@@ -10,6 +10,7 @@ rq_006,Flanders discretionary L5 sample (culture/equality/comms),sprint3_flander
 
 rq_007,Federal cabinet / communication cost map,sprint4_federal,7,done,overhead,sec_federal,"Estimate or source political cabinet and major comms budgets. overhead_nodes.csv. FOI if no public total.",gap_fed_cabinets_comms,2026-07-19T00:00:00Z,2026-07-19T16:00:00Z,"Implied cabinets ~70m from 30pct/21m claim medium; FTE 838->586; comms total unknown FOI ready"
 
-rq_008,City Ghent project subsidies scan,sprint5_local,7,open,L5,city_gent,"Scan Gent budget/subsidies for named projects. 3+ L5 candidates. FOI queue for missing breakdowns.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
+rq_008,City Ghent project subsidies scan,sprint5_local,7,done,L5,city_gent,"Scan Gent budget/subsidies for named projects. 3+ L5 candidates. FOI queue for missing breakdowns.",gap_gent_subsidies_top20,2026-07-19T00:00:00Z,2026-07-19T16:30:00Z,"NTGent 2.59m; culture 28 orgs ~8m; pot ~10m; savings target 120m/yr; FOI top20 ready"
+
 rq_009,Dual-structure overhead catalogue,sprint6_overhead,7,open,overhead,gg_belgium,"List >=5 dual NL/FR or multi-layer duplicate functions. overhead_nodes.csv with cost ranges or Unknown+FOI.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
 rq_010,Seed multi-year commitment examples,continuous,6,open,L5,gg_belgium,"Model >=5 multi-year commitments (real sourced). Demonstrate cash_by_year JSON pattern in commitments.csv.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
