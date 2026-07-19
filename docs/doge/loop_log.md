@@ -191,6 +191,22 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_022 Antwerp L5 sample
 
+### 2026-07-20T00:30:00Z — tick 24
+- Unit: rq_022 (Antwerp L5 sample)
+- Found: MJP **opex €2.2–2.4bn/yr**, **invest €2.4bn / 6y (€400m/yr)**. Gemeentefonds **€807.2m** (2024). Toneelhuis city subsidy **€2.74m/yr** (to 2025). Safety domain **~1/5 budget** (~€460m order, medium secondary).
+- Wrote: budgets; commitments; leaderboard lb_antwerp_opex; FOI gap_antwerp_subsidies_top20 ready; sources; rq_022=done; ticks=24
+- FOI: gap_antwerp_subsidies_top20 ready
+- Next: queue empty — spawn more continuous tasks or idle_waiting_foi
+- Note: tick 24 data was left uncommitted after research_queue wipe (permission error); restored queue + committed with tick 25.
+
+### 2026-07-20T00:40:00Z — tick 25
+- Unit: rq_023 (Federal toelagenregister + NMBS PSO financing)
+- Found: BOSA/VRT **federaal toelagenregister** — **8 993 items / €179.916 bn** federal transfers 2025 (not full federal spend). **Facultatieve subsidies ~€900m**; structural cut target **−€200m from 2029**. NMBS press 2025: **rail-sector savings €675m (2025–2029)**; debt €1.532 bn; EBITDA €54.2m; **annual state exploitatievergoeding EUR total still not in public press**. 2026 rail cut **€100m** (SNCB 60% / Infrabel 40%, Belga).
+- Wrote: entities nmbs+infrabel; budgets; commitments; leaderboard lb_fed_facultative + lb_nmbs_pso_opacity; FOI gap_nmbs_annual_toelage ready; sources; rq_022 marked done; rq_023=done; queued rq_024–026; ticks=25
+- FOI: gap_nmbs_annual_toelage ready (not sent)
+- Next: rq_024 De Lijn annual subsidy or rq_026 NBB 25bn enterprise subsidies
+
+
 
 
 

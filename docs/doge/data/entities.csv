@@ -36,8 +36,10 @@ city_luik,Stad Luik,Ville de LiÃ¨ge,City of LiÃ¨ge,local,sec_local,fr,https://ww
 city_brugge,Stad Brugge,Ville de Bruges,City of Bruges,local,sec_local,nl,https://www.brugge.be,,,Sprint 5 candidate
 rekenhof,Rekenhof,Cour des comptes,Court of Audit,other,gg_belgium,bi,https://www.ccrek.be,,,Audit source not a spend entity
 vdab,VDAB,VDAB,Flemish PES,parastatal,sec_flanders,nl,https://www.vdab.be,,,Public employment service Flanders
-forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia — budget TBD
+forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia ï¿½ budget TBD
 actiris,Actiris,Actiris,Brussels PES,parastatal,sec_brussels,bi,https://www.actiris.brussels,,,Public employment service Brussels
-hulpkas,Hulpkas van de Werkloosheidsuitkeringen,Caisse auxiliaire de paiement des allocations de chômage,Auxiliary unemployment payment fund,parastatal,sec_ss,bi,https://www.hvwrva.be,,,Public channel for jobseekers not using union payment funds
+hulpkas,Hulpkas van de Werkloosheidsuitkeringen,Caisse auxiliaire de paiement des allocations de chï¿½mage,Auxiliary unemployment payment fund,parastatal,sec_ss,bi,https://www.hvwrva.be,,,Public channel for jobseekers not using union payment funds
 onem_rva,RVA / ONEM,ONEM,National Employment Office,parastatal,sec_ss,bi,https://www.rva.be,,,Benefit rules control; payment often via unions or Hulpkas
 stib,STIB / MIVB,STIB,Brussels public transport operator,parastatal,sec_brussels,bi,https://www.stib-mivb.be,,,Large BCR subsidy line
+nmbs,NMBS / SNCB,SNCB,Belgian national passenger railway operator,parastatal,sec_federal,bi,https://www.belgiantrain.be,,,Federal PSO / openbare dienstverlening contract; annual toelage TBD FOI
+infrabel,Infrabel,Infrabel,Belgian railway infrastructure manager,parastatal,sec_federal,bi,https://infrabel.be,,,Shares rail-sector savings with NMBS
