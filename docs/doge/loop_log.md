@@ -227,6 +227,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none (primary FPS+Rekenhof)
 - Next: rq_025 Liège L5 or rq_028 bpost PSO
 
+### 2026-07-20T02:00:00Z — tick 29
+- Unit: rq_025 (Liège city L5 subsidy sample)
+- Found (Ville de Liège **budget service ordinaire 2026** PDF, strong): recettes **€710.2 m**, dépenses **€685.6 m**, surplus **€24.7 m** (ordinary perimeter — not consolidated). Culture dept total **€12.4 m**. Named L5 city subsidies 2026: **OPRL €795k** (flat 2024–26); **Opéra Royal de Wallonie €428k**; **Théâtre de Liège (Emulation) €263k**; **CIAC €180k**; Trianon/Art Wallon **€114.75k** (cut from €150k). Press 1.1–1.2 bn figures likely broader perimeter.
+- Wrote: budgets; 5 commitments; leaderboard; FOI gap_liege_subsidies_top20 ready; PDF raw; sources; rq_025=done; ticks=29
+- FOI: gap_liege_subsidies_top20 ready (not sent)
+- Next: rq_028 bpost PSO multi-year
+
 
 
 

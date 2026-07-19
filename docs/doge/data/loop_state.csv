@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T01:40:00Z,rq_027,28,no,"EIWT remittance package 4.356bn 2024 mapped L5. Next rq_025 Liège or rq_028 bpost. FOI ready stack large."
+main,continuous,continuous,2026-07-20T02:00:00Z,rq_025,29,no,"Liège L5 culture sample from official budget. Next rq_028 bpost. FOI ready stack large."
