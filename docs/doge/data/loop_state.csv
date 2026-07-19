@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T02:00:00Z,rq_025,29,no,"Liège L5 culture sample from official budget. Next rq_028 bpost. FOI ready stack large."
+main,continuous,continuous,2026-07-20T02:20:00Z,rq_028,30,no,"bpost press concession phase-out mapped. Next rq_030 offshore wind (prio7) or rq_029 city L5. FOI ready stack large."

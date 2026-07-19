@@ -234,6 +234,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_liege_subsidies_top20 ready (not sent)
 - Next: rq_028 bpost PSO multi-year
 
+### 2026-07-20T02:20:00Z — tick 30
+- Unit: rq_028 (bpost PSO multi-year subsidy path)
+- Found: **Press concession ~€125 m/yr** (was €175 m); government scrap saves **€125 m/yr from 2027**. Extension to **30 Jun 2024 budget €75.0 m** (bpost 4Q23 deck). NBB: bpost subsidies **>€300 m in 2023** (ESA package). Phase-out of newspaper delivery subsidy through **2027**. bpost: press revenues **~−€50 m in 2024** (~€35 m less favourable contracts). Overcompensation provision **€82.5 m** repay to State (fines/679/plates). Coalition **−€50 m** path on remaining bpost subsidies (NBB). Residual **USO compensation cash-by-year still opaque** → FOI.
+- Wrote: budgets; commitments; leaderboard; FOI gap_bpost_uso_split ready; sources; PDF raw; rq_028=done; queued rq_029–031; ticks=30
+- FOI: gap_bpost_uso_split ready (not sent)
+- Next: rq_030 offshore wind CfD (prio 7) or rq_029 city L5
+
 
 
 
