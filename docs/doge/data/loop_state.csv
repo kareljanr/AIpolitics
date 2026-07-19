@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T20:30:00Z,rq_016,18,no,"Next rq_017 Brussels total or rq_018 FOI batch. Human send ready FOI stack (cheques unemp cjsm etc)."
+main,continuous,continuous,2026-07-19T21:00:00Z,rq_017,19,no,"Next rq_018 FOI batch ready-up or rq_019 leaderboard recompute."

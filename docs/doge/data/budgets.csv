@@ -25,3 +25,7 @@ bud_actiris_2025,actiris,2025,727000000,,,budgeted,src_actiris_budget_2026,stron
 bud_actiris_2026,actiris,2026,689000000,,,budgeted,src_actiris_budget_2026,strong,"Validated budget 689 mEUR after 38m cut (BruxellesToday Apr 2026)"
 bud_vdab_est_2025,vdab,2025,790000000,700000000,900000000,estimate,src_vdab_10pct,medium,"Derived: Visie cites ~10pct cut / 79m next year ? order ~790m total; savings path 20m (2025) to 80m (2028) confirmed separately"
 bud_hulpkas_2025,hulpkas,2025,6084000,,,budgeted,src_hulpkas_budget_2025,strong,"Hulpkas van de Werkloosheidsuitkeringen 2025 budget EUR 6.084.000 — admin body for non-union unemployment payers (not benefit stock)"
+bud_bru_sgrbc_liq_2026,brussels_gov,2026,8000000000,,,budgeted,src_ccrek_bru_2026,strong,"Cour des comptes: SGRBC crédits de liquidation 8.0 mrd EUR budget initial 2026; engagement credits 8.9 mrd"
+bud_bru_sgrbc_eng_2026,brussels_gov,2026,8900000000,,,budgeted,src_ccrek_bru_2026,strong,"Cour des comptes: SGRBC crédits d engagement 8.9 mrd EUR 2026"
+bud_bru_stib_2026,stib,2026,1167619000,,,budgeted,src_ccrek_bru_2026,strong,"Programme 42.112 Financement STIB liquidation 1167619 kEUR"
+bud_bru_actiris_prog_2026,actiris,2026,648113000,,,budgeted,src_ccrek_bru_2026,strong,"Programme 44.111 Financement Actiris 648113 kEUR — note vs earlier 689m press figure (perimeter/year)"

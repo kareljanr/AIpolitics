@@ -156,6 +156,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_unemp_pay_unit_cost ready (not sent)
 - Next: queue empty of open research — spawn continuous tasks or work FOI draft backlog
 
+### 2026-07-19T21:00:00Z — tick 19
+- Unit: rq_017 (Brussels BCR total expenditure)
+- Found: Cour des comptes report 13 Mar 2026 — SGRBC **crédits de liquidation €8.0 bn**, **engagement €8.9 bn** (2026). Major liquidation lines: **STIB €1.168 bn**; pouvoirs locaux €758m; commissions communautaires €692m; **Actiris programme €648m**; dette €728m; titres-services €304m. SEC financing balance after ops **−€956.6 m**.
+- Wrote: budgets; entity_rank #12; commitments STIB + titres-services; leaderboard lb_stib; FOI gap_bru **answered**; raw PDF; sources; rq_017=done; ticks=19
+- FOI: gap_bru_total answered (OAA full consolidate still noted open)
+- Next: rq_018 FOI batch or rq_019 leaderboard recompute
+
+
 
 
 
