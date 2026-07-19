@@ -29,7 +29,11 @@ rq_016,Unemployment payment channel unit costs,continuous,9,done,L5,sec_ss,"ONEM
 
 rq_017,Brussels region total expenditure primary source,continuous,7,done,L1,brussels_gov,"Official BCR budget total expend 2025-2026; fill entity_rank #12; close or keep FOI gap_bru.",,2026-07-19T20:30:00Z,2026-07-19T21:00:00Z,"SGRBC liq 8.0bn eng 8.9bn Cour des comptes 2026; STIB 1.17bn Actiris prog 648m"
 rq_018,Finish FOI drafts prio7 to ready (batch),continuous,6,done,FOI,gg_belgium,"Complete letters+contacts for gap_bru gap_multi_parliaments gap_wal gap_forem gap_vdab to ready status.",,2026-07-19T20:30:00Z,2026-07-19T21:15:00Z,"4 drafts->ready; gap_bru already answered"
-rq_019,Leaderboard priority_index recompute top 15,continuous,5,open,L5,gg_belgium,"Recompute priority_index for all leaderboard rows; sort doc snapshot in loop_log or markdown table.",,2026-07-19T20:30:00Z,2026-07-19T20:30:00Z,
+rq_019,Leaderboard priority_index recompute top 15,continuous,5,done,L5,gg_belgium,"Recompute priority_index for all leaderboard rows; sort doc snapshot in loop_log or markdown table.",,2026-07-19T20:30:00Z,2026-07-19T21:30:00Z,"See leaderboard_top15.md"
 
 
 
+
+rq_020,Oosterweel multi-year total envelope,continuous,7,open,L5,vlaanderen_gov,"Find official multi-year total cost/commitment for Oosterweel beyond single BO2026 line; update commitments.",,2026-07-19T21:30:00Z,2026-07-19T21:30:00Z,
+rq_021,FPS inventory meal voucher microdata FOI or secondary,continuous,8,open,taxex,fod_finance,"Secondary literature for meal voucher fiscal cost €bn; update tx_cheques if found.",,2026-07-19T21:30:00Z,2026-07-19T21:30:00Z,
+rq_022,Antwerp city L5 subsidy sample,continuous,6,open,L5,city_antwerpen,"3+ named Antwerp subsidies with amounts; parallel Gent method.",,2026-07-19T21:30:00Z,2026-07-19T21:30:00Z,
