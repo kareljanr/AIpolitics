@@ -4,7 +4,7 @@ Recurring agent protocol. Goal: **each tick leaves the dataset richer** until pu
 
 ## Cadence
 
-- **Target:** every **30 minutes** while the project is in active discovery.  
+- **Target:** every **15 minutes** while the project is in active discovery.  
 - **Orchestration:** Grok scheduled task and/or manual `/doge-loop` run.  
 - **Tick time budget:** ~10–20 minutes of tool work; then stop and log (don’t thrash).
 

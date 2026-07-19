@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T21:00:00Z,rq_017,19,no,"Next rq_018 FOI batch ready-up or rq_019 leaderboard recompute."
+main,continuous,continuous,2026-07-19T21:00:00Z,rq_017,19,no,"Scheduler 019f7c315adb every 15m. Next rq_018 FOI batch or rq_019 leaderboard recompute."

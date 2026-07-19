@@ -164,13 +164,13 @@ Filter `status=ready`, sort by `priority`, export mail-merge list. Humans send; 
 
 ---
 
-## 8. Recurring research loop (every 30 minutes)
+## 8. Recurring research loop (every 15 minutes)
 
 Full agent protocol: [`doge/LOOP.md`](doge/LOOP.md).
 
 ```text
 ┌─────────────────────────────────────────────┐
-│  LOOP TICK (target: every 30 min)           │
+│  LOOP TICK (target: every 15 min)           │
 │  1. Load queues (research + FOI + sprint)   │
 │  2. Pick highest-priority open work unit    │
 │  3. Gather public sources (web/budget/PDF)  │

@@ -77,7 +77,7 @@ Append-only. Each tick adds a short entry.
 
 ### policy — commit/push each tick
 - LOOP.md §6 and doge-loop skill require **git commit + push** after every tick that changes files.
-- Old scheduler 019f7a359ff7 cancelled; new durable 30m task created with commit/push in prompt.
+- Old scheduler 019f7a359ff7 cancelled; then 019f7af13075 (30m); now **019f7c315adb every 15m** with commit/push.
 
 ### 2026-07-19T15:30:00Z — tick 8
 - Unit: gap_vl_dienstencheques_tco (FOI draft finish — priority 8)
