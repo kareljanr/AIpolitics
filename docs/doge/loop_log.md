@@ -213,6 +213,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_de_lijn_dotatie ready (not sent)
 - Next: rq_026 NBB 25bn enterprise subsidies (prio 7) or rq_025 Liège L5
 
+### 2026-07-20T01:20:00Z — tick 27
+- Unit: rq_026 (NBB enterprise subsidies 25bn deep dive)
+- Found (NBB Economic Review 2025/9, strong): **€25.1 bn** subsidies+investment grants to enterprises in **2024 (4.1% GDP)**. Split: **fed+SS subsidies €10.3 bn**; **C+R subsidies €11.3 bn**; **C+R inv. grants €2.1 bn**; **fed inv. grants ~€0.9 bn**. Flanders **~€6.8 bn** subsidies 2023; Wallonia **~€3.1 bn**; BCR **>~€1 bn**. Federal subsidies 2023 **€6.8 bn** (~2/3 tax remittance exemptions). SS wage **€3.5 bn** 2023. **~2/3 package = wage subsidies** (BV non-remittance, SSC targets, dienstencheques). Wallonia L5: APE **€543 m**, titres-services **€534 m**, green cert **~€323 m**. Bpost **>€300 m** 2023; coalition NMBS **−€250 m by 2029**, bpost **−€50 m**. BE subsidies ~double euro-area on D.3 path.
+- Wrote: entity bpost; budgets (package + regional L4 samples); commitments; leaderboard lb_nbb_ent_subsidies + wage block + bpost; PDF raw; sources; rq_026=done; queued rq_027–028; ticks=27
+- FOI: none new (primary source rich)
+- Next: rq_027 federal tax remittance exemption L5 or rq_025 Liège
+
 
 
 

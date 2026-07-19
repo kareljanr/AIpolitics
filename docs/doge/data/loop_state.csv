@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T01:00:00Z,rq_024,26,no,"De Lijn: ~1.14bn class + deltas/savings mapped. Next rq_026 NBB 25bn or rq_025 Liège. FOI ready stack large."
+main,continuous,continuous,2026-07-20T01:20:00Z,rq_026,27,no,"NBB 25.1bn enterprise subsidies mapped. Next rq_027 tax remittance or rq_025 Liège. FOI ready stack large."
