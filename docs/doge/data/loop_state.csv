@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T19:30:00Z,rq_014+middleman,16,no,"Middleman note live. rq_014 done. Next rq_015 cheques TE or rq_016 unemp pay costs (prio9). FOI drafts gap_cheque_te gap_unemp_pay."
+main,continuous,continuous,2026-07-19T20:00:00Z,rq_015,17,no,"Next rq_016 unemp pay unit costs prio9 or finish FOI drafts prio7-9. Cheque FOI ready."

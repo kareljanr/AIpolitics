@@ -142,6 +142,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gelijke kansen ready; cheque TE + unemp pay drafts
 - Next: rq_015 cheque TE deep dive (prio 9)
 
+### 2026-07-19T20:00:00Z — tick 17
+- Unit: rq_015 (cheque economy TE inventory)
+- Found: Meal vouchers **SSC+PIT exempt** (conditions); max **EUR 10/day from 2026** (employer to 8.91). Eco-cheques **max EUR 250/yr** tax+SSC free restricted. Market volume meal vouchers **~EUR 3bn/yr** (medium industry claim ~3m users). **Official fiscal TE still unknown** in FPS inventory export. Abolition of eco-cheques discussed in policy commentary.
+- Wrote: taxex rows; leaderboard update; FOI gap_cheque_te **ready**; notes-middleman findings table; sources; rq_015=done; ticks=17
+- FOI: gap_cheque_te ready (not sent)
+- Next: rq_016 unemployment payment unit costs
+
+
 
 
 

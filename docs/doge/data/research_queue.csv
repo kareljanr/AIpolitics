@@ -22,7 +22,8 @@ rq_012,VDAB FOREM Actiris budget totals,continuous,7,done,L2,sec_flanders,"Sourc
 rq_013,Company car tax expenditure deep dive,continuous,8,done,taxex,fod_finance,"Find company-car / mobility BIK lines in FPS inventory or other official source; leaderboard if material.",,2026-07-19T17:30:00Z,2026-07-19T18:00:00Z,"EUR 2.3bn 2024 Tax Foundation/EU-linked; FPS xlsx lacks full package line; lb_company_cars seeded"
 
 rq_014,Complete FOI draft gap_vl_gelijke_kansen to ready,continuous,7,done,FOI,vlaanderen_gov,"Finish letter with openbaarheid@vlaanderen.be; set foi_queue ready (do not send).",,2026-07-19T17:30:00Z,2026-07-19T19:30:00Z,ready not sent
-rq_015,Cheque economy tax expenditure inventory,continuous,9,open,taxex,fod_finance,"Map eco-cheques meal vouchers other cheques: FPS TE lines + SSC treatment; euro totals; leaderboard update.",,2026-07-19T19:30:00Z,2026-07-19T19:30:00Z,User priority middleman waste
+rq_015,Cheque economy tax expenditure inventory,continuous,9,done,taxex,fod_finance,"Map eco-cheques meal vouchers other cheques: FPS TE lines + SSC treatment; euro totals; leaderboard update.",gap_cheque_te,2026-07-19T19:30:00Z,2026-07-19T20:00:00Z,"Market vol ~3bn med; rules strong; official TE FOI ready"
 rq_016,Unemployment payment channel unit costs,continuous,9,open,L5,sec_ss,"ONEM/RVA or Rekenhof: cost per claim by union fund vs Hulpkas; public grants to payment organisms.",,2026-07-19T19:30:00Z,2026-07-19T19:30:00Z,User priority middleman waste
+
 
 

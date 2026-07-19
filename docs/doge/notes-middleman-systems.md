@@ -52,7 +52,18 @@ The state and/or tax system **subsidises or tax-favours** compensation paid thro
 | Industry capture / admin costs exist | **Strong** (mechanism); **€ magnitude case-by-case** |
 | Eco-cheques specifically low climate ROI | **Medium** (need evaluation literature) |
 
-**Open research:** exact TE € for meal vouchers / eco-cheques in latest FPS inventory (partial lines may exist under employment benefits).
+**Open research / findings (tick 17):**
+
+| Fact | Confidence | Source class |
+|------|------------|--------------|
+| Meal vouchers SSC + PIT exempt (conditions) | Strong | Payroll law / Partena |
+| Max meal voucher EUR 10/day from 2026 (employer up to 8.91) | Strong | Royal decree / Partena |
+| Eco-cheques up to EUR 250/yr tax+SSC free; restricted list | Strong | Payroll guides |
+| Meal voucher **market volume** ~EUR 3bn/yr | Medium | Industry claim (~3m users) |
+| **Official fiscal TE €** for meal/eco package | Weak / Unknown | Not in FPS inventory export → FOI `gap_cheque_te` |
+| Eco-cheques abolition discussed | Medium | Policy commentary — verify statute |
+
+**Open research:** exact TE € for meal vouchers / eco-cheques (FOI + inventory microdata).
 
 ---
 
