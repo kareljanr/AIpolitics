@@ -44,7 +44,7 @@ Method: [docs/00-north-star.md](docs/00-north-star.md) · [docs/04-policy-framew
 | 05 | [Programme](docs/05-programme.md) | Draft positions (federal / Flanders / local) |
 | 06 | [DOGE Belgium](docs/06-doge-belgium.md) | Waste leaderboard: subsidies, laws, absurd incentives |
 | 06b | [DOGE discovery strategy](docs/06b-doge-discovery-strategy.md) | Map all spending → L5 waste; FOI gaps; research loop |
-| — | [DOGE data & loop](docs/doge/README.md) | CSVs, FOI queue, 30-min loop protocol |
+| — | [DOGE data & loop](docs/doge/README.md) | CSVs, FOI queue, 15-min loop protocol |
 | 07 | [Coalitions & negotiation](docs/07-coalitions-negotiation.md) | Getting into government without selling the soul |
 | 08 | [Media & AI positioning](docs/08-media-attention.md) | Attention without becoming a joke |
 | 09 | [Naming](docs/naming.md) | Brand shortlist |
