@@ -1,0 +1,24 @@
+source_id,title,url,publisher,accessed_date,source_class,notes
+src_nbb_public_finance,NBB public finance / EDP statistics,https://www.nbb.be,National Bank of Belgium,2026-07-19,nbb,L0-L1 entry point
+src_nbb_edp_2025_apr,NAI Government accounts 2025 EDP press release (Table 1),https://www.nbb.be/doc/dq/e/dq3/neco.pdf,National Accounts Institute / NBB,2026-07-19,nbb,"Published 2026-04-20; total expenditure 2025 EUR 347956m (54.2% GDP); GDP 642015m; preliminary ESA estimate"
+src_eurostat_gov_10a_main_te,Eurostat gov_10a_main total expenditure (TE) by sector Belgium,https://ec.europa.eu/eurostat/databrowser/view/gov_10a_main/default/table?lang=en,Eurostat,2026-07-19,eurostat,"API dataset gov_10a_main; unit MIO_EUR; na_item=TE; geo=BE; updated 2026-04-22; 2024-2025 provisional. Subsector TE must NOT be summed to S.13 (transfers double-count)."
+src_vl_uitgaven_bo2026,Vlaanderen uitgaven begrotingsopmaak 2026,https://www.vlaanderen.be/departement-financien-en-begroting/begroting/in-cijfers/uitgaven,Departement Financiën en Begroting Vlaanderen,2026-07-19,budget,"Page states BO2026 uitgaven 66.0 miljard euro; last update 07/01/2026"
+src_wallonie_budget_2025,Budget 2025 Région wallonne (SPW Finances),https://finances.wallonie.be/home/finances-wallonnes/budget-wallon/budget-2025.html,SPW Finances,2026-07-19,budget,"Initial 2025: dépenses 22029416000 EUR; recettes 21802469000 EUR"
+src_riziv_budget_2025,RIZIV globale begroting ziekteverzekering 2025,https://www.riziv.fgov.be/nl/nieuws/de-begroting-van-de-ziekteverzekering-van-ruim-45-miljard-euro-in-2025-officieel-op-de-rails,RIZIV,2026-07-19,agency,"Global VGV budget ruim 45.222 bn EUR 2025"
+src_riziv_underspend_2025,RIZIV uitgaven geneeskundige verstrekkingen 2025,https://www.riziv.fgov.be/nl/pers/riziv-uitgaven-voor-geneeskundige-verstrekkingen-blijven-in-2025-binnen-het-begrotingskader,RIZIV,2026-07-19,agency,"Authorized 39.712 bn; underspend 201.2 m"
+src_fwb_budget_press_2025,FWB budget 2025 dépenses coverage,https://www.rtbf.be/article/federation-wallonie-bruxelles-le-budget-ajuste-pour-2025-valide-en-commission-du-parlement-11570580,RTBF / press class,2026-07-19,press,"~15 bn dépenses / 13.5 bn recettes; medium until decree primary source attached"
+
+src_fps_taxex_inventory,Inventory of federal tax expenditures (XLSX portal page),https://finance.belgium.be/en/figures_and_analysis/figures,FPS Finance,2026-07-19,fps,Portal for inventory download
+src_fps_taxex_xlsx,FPS inventory-of-federal-tax-expenditures.xlsx (downloaded),https://finance.belgium.be/sites/default/files/Statistieken_SD/Inventaris/inventory-of-federal-tax-expenditures.xlsx,FPS Finance,2026-07-19,fps,"Local copy docs/doge/data/raw/fps_taxex.xlsx; sheets PIT/CIT/WT/EIWT/VAT/EXC/NRT; latest year differs by sheet (PIT/WT 2026, EIWT/EXC 2024, CIT/VAT/NRT 2023); amounts EUR million in source"
+src_vl_centenboekje_bo2026,Vlaamse begroting 2026 centenboekje Septemberverklaring,https://www.vlaamsparlement.be/sites/default/files/2025-09/BO2026_Centenboekje_Septemberverklaring.pdf,Vlaams minister van Begroting / Vlaams Parlement,2026-07-19,budget,"Local copy docs/doge/data/raw/vl_bo2026.pdf; Tables 4-1 VAK and 4-2 VEK per beleidsdomein constant policy; dated 22.09.2025"
+src_vl_vrt_dotatie_pq,VRT basistoelage 2026 schriftelijke vraag Vlaams Parlement,https://docs.vlaamsparlement.be/pfile?id=2215524,Vlaams Parlement,2026-07-19,parliament,"Basistoelage 2026 = 296.400 kEUR per new BHO 2026-2030; corroborated Knack/HLN 296.4 mEUR"
+src_vl_subsidieregister,Vlaams Subsidieregister portal,https://subsidieregister.vlaanderen.be,Vlaamse overheid,2026-07-19,open_data,L5 beneficiary hunt portal; no bulk top-N extract this tick
+src_vl_openbaarheid_contact,Vlaanderen formeel verzoek openbaarmaking,https://www.vlaanderen.be/uw-overheid/werking-en-structuur/hoe-werkt-de-vlaamse-overheid/formeel-verzoek-om-openbaarmaking,Vlaamse overheid,2026-07-19,foi,"Team Openbaarheid: openbaarheid@vlaanderen.be; Herman Teirlinckgebouw Havenlaan 88 bus 20 1000 Brussel"
+
+
+
+
+src_data_gov_be,Belgian open data portal,https://data.gov.be,data.gov.be,2026-07-19,open_data,Discovery of datasets
+src_ccrek,Court of Audit Belgium,https://www.ccrek.be,Rekenhof,2026-07-19,audit,
+src_vlaanderen_begroting,Vlaanderen begroting (portal),https://www.vlaanderen.be,Vlaamse overheid,2026-07-19,budget,Sprint 3
+src_oecd_taxing_wages,OECD Taxing Wages,https://www.oecd.org,OECD,2026-07-19,oecd,Context not direct spend line

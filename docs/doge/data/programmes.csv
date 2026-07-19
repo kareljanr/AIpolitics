@@ -1,0 +1,13 @@
+programme_id,entity_id,parent_programme_id,code,name,cofog,year,amount_eur,source_id,confidence,hierarchy_path,notes
+vl_bo2026_vek_ov,vlaanderen_gov,,OV,Onderwijs en Vorming (beleidsdomein VEK),,2026,20265810000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>OV,"Table 4-2 VEK BO2026 constant policy excl new measures; thousand EUR 20265810"
+vl_bo2026_vek_wvg,vlaanderen_gov,,WVG,Welzijn Volksgezondheid en Gezin (beleidsdomein VEK),,2026,17970605000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>WVG,"Table 4-2; 17970605 kEUR; with OV = ~58% of Flanders spend (matches official site claim)"
+vl_bo2026_vek_kbbj,vlaanderen_gov,,KBBJ,Kanselarij Bestuur Buitenlandse Zaken en Justitie (VEK),,2026,6121075000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>KBBJ,"Table 4-2; 6121075 kEUR"
+vl_bo2026_vek_mow,vlaanderen_gov,,MOW,Mobiliteit en Openbare Werken (VEK),,2026,6030176000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>MOW,"Table 4-2; 6030176 kEUR; includes large infra e.g. Oosterweel components"
+vl_bo2026_vek_wewil,vlaanderen_gov,,WEWIL,Werk Economie Wetenschap Innovatie Landbouw Sociale Economie (VEK),,2026,6004185000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>WEWIL,"Table 4-2; 6004185 kEUR"
+vl_bo2026_vek_fb,vlaanderen_gov,,FB,Financien en Begroting (VEK),,2026,4758451000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>FB,"Table 4-2; 4758451 kEUR; includes debt service related"
+vl_bo2026_vek_omg,vlaanderen_gov,,OMG,Omgeving (VEK),,2026,3503778000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>OMG,"Table 4-2; 3503778 kEUR"
+vl_bo2026_vek_cjsm,vlaanderen_gov,,CJSM,Cultuur Jeugd Sport en Media (VEK),,2026,1738752000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>CJSM,"Table 4-2; 1738752 kEUR; discretionary L5 hunt target"
+vl_bo2026_vek_he,vlaanderen_gov,,HE,Hogere Entiteiten (VEK),,2026,178367000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>HE,"Table 4-2; 178367 kEUR"
+vl_bo2026_vek_total,vlaanderen_gov,,TOTAL,Totaal VEK constant policy (sum domains),,2026,66571199000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>TOTAL,"Table 4-2 total 66571199 kEUR; excl new measures; final political BO may differ slightly from DFB 66.0 bn headline"
+vl_bo2026_vak_ov,vlaanderen_gov,,OV,Onderwijs en Vorming (VAK),,2026,20027270000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>OV,"Table 4-1 VAK; 20027270 kEUR"
+vl_bo2026_oosterweel,vlaanderen_gov,vl_bo2026_vek_mow,OOST,Oosterweel hoofdwerken (correctie begrotingsdoelstelling),,2026,889859000,src_vl_centenboekje_bo2026,strong,Vlaanderen>BO2026>MOW>Oosterweel,"Table 2-1 line Oosterweel BO2026 889859 kEUR; multi-year mega project held outside balance target"

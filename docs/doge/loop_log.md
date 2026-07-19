@@ -1,0 +1,80 @@
+# DOGE loop log
+
+Append-only. Each tick adds a short entry.
+
+---
+
+## Template
+
+```text
+### YYYY-MM-DDTHH:MM:SSZ — tick N
+- Unit: [task_id / gap_id]
+- Found: …
+- Wrote: [files/rows]
+- FOI opened: [gap_id or none]
+- Next: …
+```
+
+---
+
+## Entries
+
+### 2026-07-19T00:00:00Z — bootstrap
+- Unit: scaffold
+- Found: strategy + schema + queues created
+- Wrote: docs/06b, docs/doge/*, data CSVs seeded
+- FOI opened: gap_example_001 (cancelled example only)
+- Next: rq_001 L0 general government total
+
+### 2026-07-19T12:00:00Z — tick 1
+- Unit: rq_001 (L0 general government expenditure)
+- Found: NAI/NBB EDP press release 2026-04-20 Table 1 — 2025 total expenditure **€347,956 million** (54.2% of GDP); primary **€333,675 million** (52.0% GDP); GDP €642,015 million. 2024 total €335,100 million (54.1% GDP). Strong confidence, preliminary ESA estimate.
+- Wrote: budgets.csv (4 rows); sources.csv (+src_nbb_edp_2025_apr); research_queue rq_001=done; loop_state ticks=1
+- FOI opened: none (L0 fully sourced from public EDP tables)
+- Next: rq_002 L1 split by subsector (EDP PR has deficits by subsector, not full expenditure — need NBB.Stat/COFOG)
+
+### 2026-07-19T12:30:00Z — tick 2
+- Unit: rq_002 (L1 expenditure by ESA subsector)
+- Found: Eurostat `gov_10a_main` TE MIO_EUR BE (updated 2026-04-22, provisional). **2025 unconsolidated TE:** S.1311 central **€181,526.1m**; S.1312 state **€128,623.8m**; S.1313 local **€44,986.7m**; S.1314 SS **€141,680.4m**. Sum ≈ €496.8bn vs consolidated S.13 **€347.956bn** — gap ≈ intergovernmental transfers (double-count if summed). 2024: 171675 / 125077 / 44491 / 135689 m EUR.
+- Wrote: budgets.csv (+8 L1 rows); entities.csv (sec_s1312 + parent links); sources.csv (+src_eurostat_gov_10a_main_te); rq_002=done; ticks=2
+- FOI opened: none (public Eurostat)
+- Next: rq_003 top 15 spending entities (L2)
+
+### 2026-07-19T13:00:00Z — tick 3
+- Unit: rq_003 (top 15 spending entities / holders)
+- Found (mixed metrics — do not sum): ESA sectors 181.5 / 141.7 / 128.6 / 45.0 bn (2025 TE); **Flanders BO2026 uitgaven €66.0 bn**; **RIZIV global €45.222 bn** / care auth. **€39.712 bn** (2025); **Wallonia initial 2025 €22.029 bn**; FWB ~**€15 bn** (medium); GG interest **€14.282 bn**; defence COFOG **€8.8 bn**. Ranks 12–15 Unknown (Brussels city/ministries).
+- Wrote: entity_rank_snapshot.csv; budgets.csv (+7); entities updates; sources (+5); rq_003=done; mode→sprint2_taxex; ticks=3
+- FOI opened: gap_bru_total_2025 (draft letter; not ready — missing recipient contacts)
+- Next: rq_004 FPS tax expenditure inventory
+
+### 2026-07-19T13:30:00Z — tick 4
+- Unit: rq_004 (FPS federal tax expenditure inventory)
+- Found: Downloaded official XLSX (123619 bytes). Parsed 171 measures with latest-year values. **Top by €m:** CIT DTR **21936**; VAT basic necessities **10589**; CIT FDI capital gains **7193**; PIT pensions **4679**; VAT construction **3261**; CIT losses **1355**; **excise heating gas oil 1333**; CIT innovation **1208**; VAT horeca **1199**; … (years differ: PIT/WT 2026, EIWT/EXC 2024, CIT/VAT 2023).
+- Wrote: tax_expenditures.csv (top 20); raw/fps_taxex.xlsx + parse + parsed csv; leaderboard 3 seeds (heat oil, horeca VAT, pro diesel); sources src_fps_taxex_xlsx; rq_004=done; ticks=4; mode sprint3_flanders
+- FOI opened: none
+- Next: rq_005 Flanders budget top 10 programmes
+
+### 2026-07-19T14:00:00Z — tick 5
+- Unit: rq_005 (Flanders top programmes / beleidsdomeinen)
+- Found: Centenboekje BO2026 (22.09.2025) Tables 4-1/4-2 **constant policy** VEK BO2026 (kEUR): **OV 20,265,810**; **WVG 17,970,605**; KBBJ 6,121,075; MOW 6,030,176; WEWIL 6,004,185; FB 4,758,451; Omgeving 3,503,778; CJSM 1,738,752; HE 178,367; **total VEK 66,571,199**. Oosterweel correctie **889,859** kEUR. Note: DFB site headline 66.0 bn after measures; table is excl. new measures.
+- Wrote: programmes.csv (12 rows); raw/vl_bo2026.pdf; sources src_vl_centenboekje_bo2026; rq_005=done; ticks=5
+- FOI opened: none (public PDF)
+- Next: rq_006 Flanders L5 discretionary (culture/equality/comms)
+
+### 2026-07-19T14:30:00Z — tick 6
+- Unit: rq_006 (Flanders L5 discretionary sample)
+- Found: **VRT basistoelage €296.4m/yr** (BHO 2026–2030; PQ 296.400 kEUR). **Jobbonus €228m** VEK BO2026. **Oosterweel €889.9m** BO2026 line. **Relance VV €436.4m**. Dienstencheques **€151.4m reform line** (not full TCO). Subsidy-efficiency package **€350m** cuts. Culture/equality L5 beneficiaries not in public top lists this tick.
+- Wrote: commitments.csv (6); leaderboard +3 (VRT, Jobbonus, VV); FOI drafts gap_vl_cjsm_l5, gap_vl_gelijke_kansen, gap_vl_dienstencheques_tco; sources; rq_006=done; ticks=6; mode sprint4_federal
+- FOI opened: 3 new drafts (not ready — contacts TBD)
+- Next: rq_007 federal cabinet / communication costs
+
+### 2026-07-19T15:00:00Z — tick 7
+- Unit: gap_vl_cjsm_l5 (FOI draft finish — priority 8 before research)
+- Found: Official Flanders FOI channel — **Team Openbaarheid van Bestuur**, **openbaarheid@vlaanderen.be**, Herman Teirlinckgebouw Havenlaan 88 bus 20, 1000 Brussel (vlaanderen.be openbaarheid page).
+- Wrote: complete send-ready letter `foi/drafts/gap_vl_cjsm_l5.md`; foi_queue status **ready** (not sent); sources src_vl_openbaarheid_contact; ticks=7
+- FOI opened/updated: gap_vl_cjsm_l5 → ready; human must fill identity and send
+- Next: other prio-8 FOI drafts (dienstencheques) or rq_007 federal cabinets
+
+### policy — commit/push each tick
+- LOOP.md §6 and doge-loop skill require **git commit + push** after every tick that changes files.
+- Old scheduler 019f7a359ff7 cancelled; new durable 30m task created with commit/push in prompt.

@@ -1,39 +1,43 @@
 # Contributing
 
-This is the **AIpolitics** planning repository. Anyone who shares the broad direction (smart, economically liberal, Ghent-focused) can contribute.
+This is the **AIpolitics** planning repository: truth-seeking policy and strategy for a Belgian political project.
 
-Canonical remote: `https://github.com/kareljanr/AIpolitics` — use that for clones, Cursor, and other tools.
+Canonical remote: `https://github.com/kareljanr/AIpolitics`
 
 ## How to contribute
 
-1. **Open an issue** for policy ideas, naming, or strategy — use labels if available
-2. **Fork and pull request** for concrete text improvements to docs
-3. **Discussions** (if enabled on GitHub) for debates that don't need a code change
+1. **Open an issue** for policy ideas, waste entries (DOGE leaderboard), strategy, or naming.
+2. **Pull request** for concrete doc improvements.
+3. Use the **truth-policy** skill (or its checklist in `docs/04-policy-framework.md`) for any policy text.
 
-## Guidelines
+## Standards (high bar)
 
-- Argue with **evidence and examples**, especially from Ghent or comparable cities
-- Distinguish **principles** (hard to change) from **policies** (open to revision)
-- Write primarily in **Dutch** for policy docs; English OK for README summaries
-- No personal attacks on politicians — critique policies and outcomes
-- Disclose conflicts of interest if proposing sector-specific rules
+- **Evidence first** — claim + confidence + source class.
+- **Incentives over vibes** — who wins, who loses, what behaviour is rewarded.
+- **Fiscal honesty** — show static cost *and* dynamic risk; no free lunch.
+- **Allow “abolish / do nothing”** as the best answer.
+- Distinguish **principles** (hard to change) from **policies** (open to revision).
+- Prefer **Belgian / Flemish / European** evidence over imported culture war.
+- Write programme text primarily in **Dutch**; strategy/methods may be English.
+- Critique policies and institutions — no personal attacks, no collective guilt by ethnicity.
+- Disclose conflicts of interest when proposing sector rules.
 
-## What we're looking for
+## What we need
 
-- Ghent residents with local knowledge (neighbourhoods, mobility, housing)
-- Entrepreneurs and freelancers with permit/tax horror stories
-- Public sector reformers who know what actually blocks change
-- Legal/electoral expertise for Belgian party formation
-- Designers and writers for when we go public
+- Fiscal / tax / social-security expertise (Belgium)
+- Electoral & party-finance lawyers
+- Data people (budget scraping, leaderboard scoring)
+- Entrepreneurs with horror stories of regulation
+- Writers who can be clear without being crude
+- Local organisers (Flanders first)
 
 ## Code of conduct
 
-Be direct. Be respectful. No harassment, discrimination, or bad-faith trolling.
-
-Violations: issue will be closed, repeat offenders blocked.
+Be direct. Be respectful. No harassment. Bad-faith trolling gets closed.
 
 ## Not ready for
 
-- Logo contests (until name is chosen)
-- Paid promotion or astroturfing
-- Imported US culture-war talking points with no local relevance
+- Logo contests before name decision
+- Paid astroturfing
+- Fake poll numbers or invented “members”
+- Publishing legal filings without counsel review

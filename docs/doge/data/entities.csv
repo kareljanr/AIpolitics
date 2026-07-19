@@ -1,0 +1,37 @@
+entity_id,name_nl,name_fr,name_en,level,parent_id,community_language,website,foi_email,foi_postal,notes
+gg_belgium,Overheid totaal (ESR),Ensemble des administrations publiques,General government,l0_general,,na,https://www.nbb.be,,,NBB/NAI ESA consolidation
+sec_federal,Federale overheid (ESA S.1311),Pouvoir fédéral (S.1311),Central/federal government S.1311,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated subsector total
+sec_ss,Sociale zekerheid (ESA S.1314),Sécurité sociale (S.1314),Social security funds S.1314,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated
+sec_s1312,Gemeenschappen en gewesten (ESA S.1312),Communautés et régions (S.1312),State government S.1312 (all communities/regions),l1_sector,gg_belgium,bi,,,,Aggregate only; do not sum with Flanders+Wallonia children
+sec_flanders,Vlaamse overheid,Autorité flamande,Flemish government,l1_sector,sec_s1312,nl,https://www.vlaanderen.be,,,Part of S.1312; needs own budget dive
+sec_wallonia,Waals Gewest,Région wallonne,Walloon Region,l1_sector,sec_s1312,fr,https://www.wallonie.be,,,Part of S.1312
+sec_brussels,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale,Brussels-Capital Region,l1_sector,sec_s1312,bi,https://be.brussels,,,Part of S.1312
+sec_fwb,Franse Gemeenschap (FWB),Fédération Wallonie-Bruxelles,French Community,l1_sector,sec_s1312,fr,https://www.federation-wallonie-bruxelles.be,,,Part of S.1312
+sec_dg,Duitstalige Gemeenschap,Ostbelgien,German-speaking Community,l1_sector,sec_s1312,de,https://www.ostbelgienlive.be,,,Part of S.1312
+sec_local,Lokale overheid (ESA S.1313),Pouvoirs locaux (S.1313),Local government S.1313,l1_sector,gg_belgium,bi,,,,Gemeenten + OCMW/CPAS + provincies; Eurostat TE
+sec_eu,EU-middelen in BE,Fonds UE en BE,EU funds in BE,l1_sector,gg_belgium,bi,,,,Co-financing; double-count risk
+fod_finance,FOD Financiën,SPF Finances,FPS Finance,federal,sec_federal,bi,https://finance.belgium.be,,,Tax expenditure inventory
+fod_bosa,FOD BOSA,SPF BOSA,FPS BOSA,federal,sec_federal,bi,https://bosa.belgium.be,,,Public sector organisation
+fod_economie,FOD Economie,SPF Economie,FPS Economy,federal,sec_federal,bi,https://economie.fgov.be,,,
+fod_justitie,FOD Justitie,SPF Justice,FPS Justice,federal,sec_federal,bi,https://justitie.belgium.be,,,
+fod_binnenland,FOD Binnenlandse Zaken,SPF Intérieur,FPS Interior,federal,sec_federal,bi,https://ibz.be,,,
+fod_sociale_zekerheid,FOD Sociale Zekerheid,SPF Sécurité sociale,FPS Social Security,federal,sec_federal,bi,https://socialsecurity.belgium.be,,,
+fod_volksgezondheid,FOD Volksgezondheid,SPF Santé publique,FPS Public Health,federal,sec_federal,bi,https://www.health.belgium.be,,,
+fod_mobiliteit,FOD Mobiliteit,SPF Mobilité,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
+mod_defensie,Defensie,Défense,Defence,federal,sec_federal,bi,https://www.mil.be,,,
+rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,
+riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Top named SS entity ~45bn class
+riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santé (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Subset of riziv global
+pensioenen_fed,Federale pensioenen (stelsels),Pensions fédérales,Federal pensions schemes,social_security,sec_ss,bi,,,,Map sub-entities in later ticks
+gg_interest,Interest expense general government,Charges d'intérêts S.13,GG interest expense (category),other,gg_belgium,bi,,,,Not an institution; ESA interest line
+vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BO2026 uitgaven 66.0 bn (budgeted)
+wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2025 dépenses 22.029 bn
+brussels_gov,Brusselse regering,Gouvernement bruxellois,Brussels government,region,sec_brussels,bi,https://be.brussels,,,Total expenditure TBD
+fwb_gov,FWB regering & diensten,Gouvernement FWB,FWB government,community,sec_fwb,fr,,,,~15 bn dépenses 2025 medium conf
+local_class,Gemeenten & OCMW (klasse),Communes & CPAS (classe),Municipalities class,local,sec_local,bi,,,,Instantiate cities as child entities when diving
+city_antwerpen,Stad Antwerpen,Ville d'Anvers,City of Antwerp,local,sec_local,nl,https://www.antwerpen.be,,,Sprint 5 candidate
+city_gent,Stad Gent,Ville de Gand,City of Ghent,local,sec_local,nl,https://stad.gent,,,Sprint 5 candidate
+city_brussel,Stad Brussel,Ville de Bruxelles,City of Brussels,local,sec_local,bi,https://www.brussel.be,,,Sprint 5 candidate
+city_luik,Stad Luik,Ville de Liège,City of Liège,local,sec_local,fr,https://www.liege.be,,,Sprint 5 candidate
+city_brugge,Stad Brugge,Ville de Bruges,City of Bruges,local,sec_local,nl,https://www.brugge.be,,,Sprint 5 candidate
+rekenhof,Rekenhof,Cour des comptes,Court of Audit,other,gg_belgium,bi,https://www.ccrek.be,,,Audit source not a spend entity

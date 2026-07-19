@@ -1,0 +1,16 @@
+rank,entity_id,name,amount_eur,year,metric,basis,confidence,source_id,nesting_note,notes
+1,sec_federal,ESA S.1311 Central/federal government (sector),181526100000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,Sector aggregate not a single ministry
+2,sec_ss,ESA S.1314 Social security funds (sector),141680400000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,Includes RIZIV pensions unemployment etc.
+3,sec_s1312,ESA S.1312 Communities and regions (sector),128623800000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,Flanders+Wallonia+Brussels+FWB+DG+commissions
+4,vlaanderen_gov,Vlaamse overheid (uitgavenbegroting),66000000000,2026,budgeted_expenditure,budgeted,strong,src_vl_uitgaven_bo2026,part_of_s1312,Official Flanders page: 66.0 bn at BO 2026; not ESA TE
+5,sec_local,ESA S.1313 Local government (sector),44986700000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,All municipalities provinces OCMW
+6,riziv,RIZIV/INAMI global health insurance budget,45222000000,2025,budgeted_expenditure,budgeted,strong,src_riziv_budget_2025,part_of_s1314,RIZIV: ruim 45.222 bn global VGV 2025
+7,riziv_care,RIZIV authorized medical benefits expenditure,39712000000,2025,budgeted_expenditure,budgeted,strong,src_riziv_underspend_2025,subset_of_riziv,Authorized geneeskundige verstrekkingen 39.712 bn; actual underspend 0.2 bn
+8,wallonie_gov,Région wallonne dépenses budget initial,22029416000,2025,budgeted_expenditure,budgeted,strong,src_wallonie_budget_2025,part_of_s1312,SPW Finances: 22.029416 bn dépenses initial 2025
+9,fwb_gov,Fédération Wallonie-Bruxelles dépenses (approx),15000000000,2025,budgeted_expenditure,budgeted,medium,src_fwb_budget_press_2025,part_of_s1312,Press/RTBF/MR ~15 bn dépenses vs 13.5 bn recettes; exact decree not parsed this tick
+10,gg_interest,General government interest expense (category),14282000000,2025,interest_expense,esa,strong,src_nbb_edp_2025_apr,not_an_entity,NAI Table 1 interest; spending category across levels
+11,mod_defensie,Defence expenditure COFOG (accounts basis),8800000000,2025,cofog_defence,esa,strong,src_nbb_edp_2025_apr,part_of_s1311,NAI: 8.8 bn COFOG defence 1.14% GDP; NATO cash basis higher
+12,brussels_gov,Brussels-Capital Region total expenditure,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1312,Public total not captured this tick — FOI/gap
+13,city_antwerpen,Stad Antwerpen total,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1313,City deep-dive later
+14,city_gent,Stad Gent total,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1313,rq_008
+15,fod_finance,FOD Financiën standalone total,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1311,Federal ministry line split not public in one number this tick

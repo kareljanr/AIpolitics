@@ -2,9 +2,7 @@
 
 **AIpolitics** is the canonical GitHub repo. Treat everything else as a checkout.
 
-## Canonical local layout (this machine)
-
-Keep all shared projects under one parent folder:
+## Canonical local layout
 
 ```text
 C:\Users\karel\dev\
@@ -12,7 +10,7 @@ C:\Users\karel\dev\
   <other-repos>\
 ```
 
-Same path for **Cursor** (Open Folder) and **Grok Build** (`grok` launched from that folder).
+Same path for **Cursor** and **Grok Build**.
 
 ## Setup on a new machine
 
@@ -31,54 +29,49 @@ git clone https://github.com/kareljanr/AIpolitics.git
 Set-Location AIpolitics
 ```
 
-Use HTTPS or SSH — whatever you already use for GitHub on that machine. Ensure `git` is on your PATH (Git for Windows: `C:\Program Files\Git\cmd`).
-
 ## Day-to-day
 
-1. `git pull origin main` before you start
-2. Work on a short-lived branch: `git checkout -b topic/short-name`
-3. Commit with a clear message
-4. `git push -u origin HEAD`
-5. Open a pull request on GitHub when the change is ready to merge
+1. `git pull origin main` before you start  
+2. Branch: `git checkout -b topic/short-name`  
+3. Commit clearly  
+4. `git push -u origin HEAD`  
+5. Open a PR for non-trivial changes  
 
-Prefer small PRs (one doc or one policy theme) over large dumps.
+Prefer small PRs (one doc or one DOGE theme).
+
+## Policy work
+
+1. Load skill **truth-policy** (`.grok/skills/truth-policy/`)  
+2. Follow [04-policy-framework.md](04-policy-framework.md)  
+3. Tag claims with confidence + source class  
+4. Never invent € savings  
 
 ## Cursor
 
-Open folder: `C:\Users\karel\dev\AIpolitics` (or your clone path).
-
-Point a Cursor cloud agent or local Cursor window at **this** repo (`kareljanr/AIpolitics`), not at the old Taxonomy fork.
+Open folder: `C:\Users\karel\dev\AIpolitics`  
+Remote: `kareljanr/AIpolitics` only.
 
 ## Grok Build
-
-From the repo root:
 
 ```powershell
 cd C:\Users\karel\dev\AIpolitics
 grok
 ```
 
-Or from anywhere:
-
 ```powershell
 grok --cwd C:\Users\karel\dev\AIpolitics
-```
-
-Confirm project rules load:
-
-```powershell
 grok inspect
 ```
 
-Grok reads root `AGENTS.md` automatically (and `.cursor/rules/` if present). Same rule as Cursor: edit files here, commit, push. Do not keep a parallel “source of truth” elsewhere.
+Grok loads root `AGENTS.md` and project skills under `.grok/skills/`.
 
-## Switching tools mid-task
+## Switching tools
 
-1. Commit or stash in the tool you leave
-2. `git pull` in the tool you open next
-3. Continue on the same branch
+1. Commit or stash  
+2. `git pull` in the next tool  
+3. Same branch  
 
-Optional: isolated Grok worktree while Cursor keeps the main checkout:
+Optional isolated worktree:
 
 ```powershell
 grok --worktree=topic-x --ref main "your task"
@@ -86,5 +79,6 @@ grok --worktree=topic-x --ref main "your task"
 
 ## What not to do
 
-- Do not continue party work in `kareljanr/Taxonomy` (that name/history is unrelated SEMIC public-service taxonomy)
-- Do not maintain long-lived unpushed local copies as the only version of a doc
+- Parallel “source of truth” outside this repo  
+- Fake membership / registration claims in docs  
+- Long unpushed local-only doctrine  

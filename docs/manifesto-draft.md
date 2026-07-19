@@ -1,48 +1,62 @@
-# Gent Manifesto (draft v0.1)
+# Manifest (ontwerp v0.2)
 
-*One page. Plain language. For circulation once the core group agrees.*
+*Eén scherpe pagina. Nederlands. Niet voor pers tot v1.0 door de kerngroep is goedgekeurd.*
 
 ---
 
-## Gent verdient beter bestuur
+## België verdient de waarheid
 
-We zijn economisch liberaal. We geloven in ondernemerschap, vrijheid, en een overheid die werkt. We wonen in Gent — de stad die brutaal genoeg zou moeten zijn om Vlaanderen te leiden, maar vaak vastloopt in procedures, politieke correctheid, en gebrek aan durf.
+We beloven geen magie. We beloven **rekenen**.
 
-Open VLD verloor zijn scherpte. Volt heeft energie maar geen economisch programma. Wij vullen dat gat.
+België combineert **bijna recordhoge lasten op arbeid** met een **structureel tekort** en een woud van subsidies en regels. Dat is geen mysterie. Dat is een prikkelmachine die werken straft, complexiteit beloont, en productieve mensen uitnodigt om te vertrekken — of nooit te komen.
+
+Wij bouwen een politiek project op één noordster: **de waarheid**.  
+Niet de waarheid van één stam. De waarheid van oorzaak en gevolg.
 
 ## Wat we willen
 
-**1. Bouwen, niet blokkeren**  
-Meer woningen near trams and stations. Snellere vergunningen. Minder PDF-formulieren.
+**1. Overvloed, niet toneel**  
+Meer woningen, energie, bedrijven, talent en koopkracht. Herverdelen van een krimpende taart is geen beschaving — dat is beheer van achteruitgang.
 
-**2. Ondernemen als norm**  
-Een bedrijf starten in Gent moet makkelijker zijn dan in Amsterdam. Punt.
+**2. Werken moet lonen**  
+Verlaag de wig op arbeid. Maak voltijds legaal werk altijd aantrekkelijker dan langdurige afhankelijkheid voor wie kan werken.
 
-**3. Mobiliteit met prijskaartje**  
-File = kosten. Tram = investering. Geen ideologie, wel data.
+**3. Vangnet zonder roofbouw**  
+Steun wie **niet kan**. Geen open eindes voor wie **niet wil**. Als je de productieven te hard belast, rennen ze — en dan valt het vangnet zelf kapot.
 
-**4. Slimme overheid**  
-Open budgets. Meetbare KPI's. AI voor routine, mensen voor complexiteit.
+**4. DOGE voor België**  
+Publieke ranglijst van absurde subsidies, fiscale cadeaus en nutteloze regels. Schrap wat geen baten haalt. Punt.
 
-**5. Klimaat via innovatie**  
-Renoveren, prijzen, technologie — niet verbieden als eerste reflex.
+**5. Veiligheid is vrijheid**  
+Zonder veilige straten is “vrijheid” een slogan voor wie het zich kan veroorloven om te vluchten.
 
-**6. Veiligheid en netheid**  
-Basisingredienten. Geen luxe.
+**6. Migratie op bijdrage**  
+Regels die bijdragers aantrekken en free-rider-systemen sluiten. Geen collectieve schuld per afkomst — wel eerlijke cijfers over uitkomsten.
+
+**7. Eenvoud**  
+Minder regimes, minder loketten, minder adviesraden. Als een beleid niet aantoonbaar werkt: **afschaffen**.
+
+**8. AI als methode, niet als god**  
+Machines om aannames te testen en boeken te openen. Mensen die verantwoording dragen.
 
 ## Wat we weigeren
 
-- Schuld maken alsof het gratis is
-- Subsidies zonder resultaat
-- Cultuuroorlog als vervanging van beleid
-- Brussel-bashing of Antwerpen-kopiëren
+- Tekorten alsof die “sociaal” zijn  
+- Subsidies zonder resultaat  
+- Cultuuroorlog als vervanging van begroting  
+- Liegen met cijfers om één verkiezing te winnen  
+- Coalities die structurele hervorming inruilen voor een ministertitel  
 
-## Hoe meedoen
+## Hoe we winnen
 
-Lees de docs in deze repo. Open een issue. Kom naar de volgende meetup.
+We organiseren nettokiezers en bouwers. We publiceren de boeken. We gaan van lokale bewijzen naar parlementaire hefboom. We onderhandelen hard — en stappen op als de compacte begrotingsafspraken sneuvelen.
 
-**Gent. Vrij. Vooruit — maar dan competenter.**
+## Doe mee
+
+Lees de docs. Verbeter de feiten. Meld verspilling. Bouw mee — of weerleg ons met betere data.
+
+**Eerst de waarheid. Dan het beleid. Dan de overvloed.**
 
 ---
 
-*Status: draft — not for press until v1.0 approved by core group.*
+*Status: ontwerp v0.2 — vervangt de Gent-only v0.1. Nog geen officiële partij, geen ledenaantallen, geen registratieclaims.*

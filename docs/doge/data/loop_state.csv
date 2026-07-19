@@ -1,0 +1,2 @@
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,sprint4_federal,sprint4_federal,2026-07-19T15:00:00Z,gap_vl_cjsm_l5,7,no,"FOI gap_vl_cjsm_l5 READY for human send. Next: FOI prio8 or rq_007. Scheduler: commit+push each tick (task recreated)."
