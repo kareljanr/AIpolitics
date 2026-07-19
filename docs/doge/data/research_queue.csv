@@ -1,4 +1,4 @@
-task_id,title,sprint,priority,status,hierarchy_target,entity_id,instructions,blocked_gap_id,created_utc,updated_utc,notes
+﻿task_id,title,sprint,priority,status,hierarchy_target,entity_id,instructions,blocked_gap_id,created_utc,updated_utc,notes
 rq_001,L0 general government expenditure latest year,sprint1_map,10,done,L0,gg_belgium,"Find latest NBB/ESA general government total expenditure (EUR and % GDP). Write budgets.csv row + source. Confidence tag.",,2026-07-19T00:00:00Z,2026-07-19T12:00:00Z,"2025 total exp 347956m EUR (54.2% GDP); primary 333675m (52.0%); source src_nbb_edp_2025_apr"
 rq_002,L1 split federal vs SS vs subnational,sprint1_map,10,done,L1,gg_belgium,"From NBB or Eurostat: split expenditure by subsector. budgets.csv per sec_* entity. Flag double-count method.",,2026-07-19T00:00:00Z,2026-07-19T12:30:00Z,"2025 TE unconsolidated: S1311 181526m; S1312 128624m; S1313 44987m; S1314 141680m; sum~496817m vs S13 347956m. Eurostat gov_10a_main"
 rq_003,List top 15 spending entities,sprint1_map,9,done,L2,gg_belgium,"Rank largest budget holders (incl SS). New entity rows if needed. Table in loop_log or programmes.",gap_bru_total_2025,2026-07-19T00:00:00Z,2026-07-19T13:00:00Z,"Snapshot entity_rank_snapshot.csv; ranks 1-11 sourced; 12-15 partial/Unknown; Brussels FOI draft"
@@ -21,5 +21,8 @@ rq_012,VDAB FOREM Actiris budget totals,continuous,7,done,L2,sec_flanders,"Sourc
 
 rq_013,Company car tax expenditure deep dive,continuous,8,done,taxex,fod_finance,"Find company-car / mobility BIK lines in FPS inventory or other official source; leaderboard if material.",,2026-07-19T17:30:00Z,2026-07-19T18:00:00Z,"EUR 2.3bn 2024 Tax Foundation/EU-linked; FPS xlsx lacks full package line; lb_company_cars seeded"
 
-rq_014,Complete FOI draft gap_vl_gelijke_kansen to ready,continuous,7,open,FOI,vlaanderen_gov,"Finish letter with openbaarheid@vlaanderen.be; set foi_queue ready (do not send).",,2026-07-19T17:30:00Z,2026-07-19T17:30:00Z,
+rq_014,Complete FOI draft gap_vl_gelijke_kansen to ready,continuous,7,done,FOI,vlaanderen_gov,"Finish letter with openbaarheid@vlaanderen.be; set foi_queue ready (do not send).",,2026-07-19T17:30:00Z,2026-07-19T19:30:00Z,ready not sent
+rq_015,Cheque economy tax expenditure inventory,continuous,9,open,taxex,fod_finance,"Map eco-cheques meal vouchers other cheques: FPS TE lines + SSC treatment; euro totals; leaderboard update.",,2026-07-19T19:30:00Z,2026-07-19T19:30:00Z,User priority middleman waste
+rq_016,Unemployment payment channel unit costs,continuous,9,open,L5,sec_ss,"ONEM/RVA or Rekenhof: cost per claim by union fund vs Hulpkas; public grants to payment organisms.",,2026-07-19T19:30:00Z,2026-07-19T19:30:00Z,User priority middleman waste
+
 

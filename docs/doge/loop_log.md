@@ -135,6 +135,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_forem_budget draft; gap_vdab_full_budget draft
 - Next: rq_014 FOI gelijke kansen
 
+### 2026-07-19T19:30:00Z — tick 16
+- Unit: user priority middleman systems + rq_014 FOI ready
+- Found/doctrine: **Cheque economy** (eco/meal/restricted vouchers) = state/tax favours pay that only buys limited goods + issuer sandwich — default should be **cash wages**. **Union-channelled chômage** = public benefit paid via multi-cashier private/associative channels — core state task; need unit-cost FOI. FPS inventory parse lacks clear meal/eco-cheque TE package line.
+- Wrote: `notes-middleman-systems.md`; leaderboard lb_cheque_economy + lb_union_unemp_pay; taxex stub tx_cheques_package_tbd; FOI gap_cheque_te + gap_unemp_pay_unit_cost drafts; gap_vl_gelijke_kansen **ready**; rq_014=done; rq_015/rq_016 queued prio9; link from 06-doge; ticks=16
+- FOI: gelijke kansen ready; cheque TE + unemp pay drafts
+- Next: rq_015 cheque TE deep dive (prio 9)
+
+
 
 
 

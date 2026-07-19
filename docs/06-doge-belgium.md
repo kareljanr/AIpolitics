@@ -16,6 +16,7 @@ If we ever hold executive power, this becomes a real office with a quarterly pub
 |------------|------|
 | [06b-doge-discovery-strategy.md](06b-doge-discovery-strategy.md) | Full map: hierarchy, sources, multi-year, overhead |
 | [doge/LOOP.md](doge/LOOP.md) | Recurring research loop (target every 30 min) |
+| [doge/notes-middleman-systems.md](doge/notes-middleman-systems.md) | Cheques + union unemployment payment (middleman waste) |
 | [doge/](doge/) | CSV data, FOI queue, letter drafts |
 | `/doge-loop` skill | One automated tick |
 

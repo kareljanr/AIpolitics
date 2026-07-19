@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T19:00:00Z,rq_012,15,no,"Next rq_014 FOI gelijke kansen prio7. PES partial: Actiris strong VDAB med FOREM FOI."
+main,continuous,continuous,2026-07-19T19:30:00Z,rq_014+middleman,16,no,"Middleman note live. rq_014 done. Next rq_015 cheques TE or rq_016 unemp pay costs (prio9). FOI drafts gap_cheque_te gap_unemp_pay."
