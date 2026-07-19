@@ -1,28 +1,46 @@
 # FOI draft — gap_multi_parliaments
 
-**Status:** draft (needs per-assembly addressees before ready)  
+**Status:** ready for human send (batch — one letter per assembly or Rekenhof secondary)  
 **gap_id:** gap_multi_parliaments  
 
-## Ask
+Send **separately** to each assembly openbaarheid/transparantie contact, or request synthesis via Court of Audit secondary sources if available.
 
-Total annual operating expenditure (staff + buildings + ops) for each:
+---
 
-1. Kamer / Chambre  
-2. Senaat / Sénat  
-3. Vlaams Parlement  
-4. Parlement wallon  
-5. Brussels Hoofdstedelijk Parlement  
-6. Parlement de la Fédération Wallonie-Bruxelles  
-7. Parlament der Deutschsprachigen Gemeinschaft  
+## Common ask (adapt header per assembly)
 
-Latest closed year + budget year. Prefer machine-readable.
+```text
+[NAME] / [EMAIL] / [DATE]
 
-## Why
+Subject: Access to documents — annual operating expenditure of [ASSEMBLY]
+Internal ref: gap_multi_parliaments (AIpolitics DOGE)
 
-DOGE dual-structure overhead: multiple assemblies without a published consolidated cost.
+Please provide for the latest closed year and current budget year:
 
-## Next
+1. Total operating expenditure (staff + buildings + operations) of
+   [ASSEMBLY NAME].
+2. Headcount (FTE) if published.
+3. Link to public annual accounts if already online.
 
-- [ ] Find FOI contact per assembly  
-- [ ] Or request via Rekenhof secondary sources  
-- [ ] Set ready when addressees filled  
+Assemblies in scope:
+- Kamer van volksvertegenwoordigers / Chambre
+- Senaat / Sénat
+- Vlaams Parlement
+- Parlement wallon
+- Brussels Hoofdstedelijk Parlement
+- Parlement FWB
+- Parlament der DG
+
+Identity: [TO COMPLETE]
+Ref: gap_multi_parliaments / [assembly short code]
+```
+
+## Checklist
+
+- [ ] Kamer  
+- [ ] Senaat  
+- [ ] Vlaams Parlement  
+- [ ] Parlement wallon  
+- [ ] Brussels Parlement  
+- [ ] FWB  
+- [ ] DG  

@@ -163,6 +163,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_bru_total answered (OAA full consolidate still noted open)
 - Next: rq_018 FOI batch or rq_019 leaderboard recompute
 
+### 2026-07-19T21:15:00Z — tick 20
+- Unit: rq_018 (FOI drafts → ready batch)
+- Found/done: Completed send-ready letters for **gap_multi_parliaments**, **gap_wal_l5_top_subsidies**, **gap_forem_budget**, **gap_vdab_full_budget**. gap_bru already answered. All high-value FOI now **ready** (not sent — human).
+- Wrote: 4 FOI draft files; foi_queue status updates; rq_018=done; ticks=20
+- FOI ready stack: cjsm, gelijke kansen, dienstencheques, cabinets, gent top20, multi-parliaments, wal L5, forem, vdab, cheque TE, unemp pay
+- Next: rq_019 leaderboard recompute
+
+
 
 
 
