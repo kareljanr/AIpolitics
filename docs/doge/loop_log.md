@@ -121,6 +121,14 @@ Append-only. Each tick adds a short entry.
 - FOI: none (secondary source strong enough for seed; FPS micro-lines documented)
 - Next: rq_011 / rq_012 / rq_014 (prio 7)
 
+### 2026-07-19T18:30:00Z — tick 14
+- Unit: rq_011 (Wallonia L5 sample)
+- Found: **AWEX €76m** constant budget; **facultative subsidies −€8m** (2026); **structural savings €270.4m** (2026); **TEC/OTW €45m** cited (medium); **APE savings ~€83m** order (medium understatement). Wallonia total dépenses initial 2025 already in budgets (€22.03bn).
+- Wrote: commitments +5; leaderboard lb_awex; FOI gap_wal_l5_top_subsidies draft; sources; rq_011=done; ticks=14
+- FOI: gap_wal_l5_top_subsidies draft
+- Next: rq_012 or rq_014
+
+
 
 
 

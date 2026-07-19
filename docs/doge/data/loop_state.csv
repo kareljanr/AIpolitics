@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T18:00:00Z,rq_013,13,no,"Next: rq_011 Wallonia L5 or rq_012 PES or rq_014 FOI gelijke kansen (prio7)."
+main,continuous,continuous,2026-07-19T18:30:00Z,rq_011,14,no,"Next rq_012 PES budgets or rq_014 FOI gelijke kansen (prio7)."
