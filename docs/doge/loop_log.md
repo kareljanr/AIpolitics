@@ -220,6 +220,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (primary source rich)
 - Next: rq_027 federal tax remittance exemption L5 or rq_025 Liège
 
+### 2026-07-20T01:40:00Z — tick 28
+- Unit: rq_027 (Federal tax remittance exemption EIWT L5)
+- Found (FPS inventory EIWT 2024, strong): **package sum €4.356 bn** (33 lines). Top: **night work €1.010 bn**; R&D masters €601m; construction nightshift €416m; continuous work €367m; PhD researchers €330m; scientific institutions €266m; **shift work €244m**; universities research €229m; structural €218m; overtime €186m. Clusters: **night/shift ~€2.04 bn**; **R&D researchers ~€1.60 bn**. Rekenhof Dec 2023: **€3.9 bn in 2021** (vs €2.9 bn 2017); control/Belspo gaps. Aligns with NBB ~2/3 of federal €6.8 bn enterprise subsidies.
+- Wrote: taxex package+clusters+major lines; budgets; commitment; leaderboard lb_eiwt_*; Rekenhof PDF raw; sources; rq_027=done; ticks=28
+- FOI: none (primary FPS+Rekenhof)
+- Next: rq_025 Liège L5 or rq_028 bpost PSO
+
 
 
 

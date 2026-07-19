@@ -41,7 +41,7 @@ rq_023,Federal toelagenregister + NMBS PSO financing,continuous,8,done,L2,sec_fe
 rq_024,De Lijn Flanders annual subsidy total,continuous,7,done,L2,sec_flanders,"Source De Lijn annual Vlaamse toelage/exploitatiedotatie 2024-2026; commitments + compare STIB/TEC.",gap_de_lijn_dotatie,2026-07-20T00:40:00Z,2026-07-20T01:00:00Z,"2023 ~1.14bn med; 2025 delta -27.5m strong; e-bus 400m; savings 35.5+45m; FOI full total"
 rq_025,Liège city L5 subsidy sample,continuous,6,open,L5,city_luik,"3+ named Liège subsidies/projects with amounts; parallel Gent/Antwerp method.",,2026-07-20T00:40:00Z,2026-07-20T00:40:00Z,
 rq_026,NBB enterprise subsidies 25bn deep dive,continuous,7,done,taxex,gg_belgium,"Parse NBB Oct 2025 note on ~25bn business subsidies (4% GDP); split categories; leaderboard seeds.",,2026-07-20T00:40:00Z,2026-07-20T01:20:00Z,"25.1bn 2024 strong; fed+SS 10.3 / C+R 11.3; FL 6.8 WAL 3.1 BRU ~1; wage ~2/3; PDF saved"
-rq_027,Federal tax remittance exemption L5 split,continuous,7,open,taxex,fod_finance,"NBB: ~2/3 of federal 6.8bn subsidies = partial non-remittance bedrijfsvoorheffing. Find official cash-by-year / night-shift lines.",,2026-07-20T01:20:00Z,2026-07-20T01:20:00Z,
+rq_027,Federal tax remittance exemption L5 split,continuous,7,done,taxex,fod_finance,"NBB: ~2/3 of federal 6.8bn subsidies = partial non-remittance bedrijfsvoorheffing. Find official cash-by-year / night-shift lines.",,2026-07-20T01:20:00Z,2026-07-20T01:40:00Z,"FPS EIWT sum 4.356bn 2024; night/shift cluster 2.04bn; R&D 1.60bn; Rekenhof 3.9bn 2021"
 rq_028,bpost PSO multi-year subsidy path,continuous,6,open,L5,bpost,"Map bpost federal subsidies 2023-2027; newspaper phase-out; coalition -50m.",,2026-07-20T01:20:00Z,2026-07-20T01:20:00Z,
 
 

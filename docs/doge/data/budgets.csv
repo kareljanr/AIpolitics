@@ -52,3 +52,5 @@ bud_bpost_subs_2023,bpost,2023,300000000,,,outturn,src_nbb_subsidies_ent_2025,st
 bud_wal_ape_2023,wallonie_gov,2023,543000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"Wallonia APE employment aid 543m 2023 (NBB)"
 bud_wal_titres_services_2023,wallonie_gov,2023,534000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"Wallonia service vouchers 534m 2023 wage subsidy (NBB)"
 bud_wal_green_cert_2023,wallonie_gov,2023,323000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"Wallonia green certificates ~323m 2023; ~288m 2024 (NBB)"
+bud_eiwt_package_2024,fod_finance,2024,4356060000,,,budgeted,src_fps_taxex_xlsx,strong,"FPS tax expenditure inventory EIWT sheet sum 2024 = 4356.06 mEUR partial remittance exemptions"
+bud_eiwt_package_2021,fod_finance,2021,3900000000,,,outturn,src_rekenhof_bv_2023,strong,"Court of Audit Dec 2023: BV remittance exemptions fiscal cost 3.9bn in 2021 (vs 2.9bn 2017)"
