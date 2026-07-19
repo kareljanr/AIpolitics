@@ -8,7 +8,8 @@ rq_005,Flanders budget top 10 programmes,sprint3_flanders,8,done,L3-L4,vlaandere
 
 rq_006,Flanders discretionary L5 sample (culture/equality/comms),sprint3_flanders,8,done,L5,vlaanderen_gov,"Find >=5 named grants/projects with amounts (multi-year if possible). commitments + leaderboard seeds. FOI if opaque.",gap_vl_cjsm_l5,2026-07-19T00:00:00Z,2026-07-19T14:30:00Z,"6 commitments (VRT Jobbonus Oosterweel VV dienstencheques cut pkg); 3 FOI drafts culture/equality/dienstencheques TCO; 3 leaderboard seeds"
 
-rq_007,Federal cabinet / communication cost map,sprint4_federal,7,open,overhead,sec_federal,"Estimate or source political cabinet and major comms budgets. overhead_nodes.csv. FOI if no public total.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
+rq_007,Federal cabinet / communication cost map,sprint4_federal,7,done,overhead,sec_federal,"Estimate or source political cabinet and major comms budgets. overhead_nodes.csv. FOI if no public total.",gap_fed_cabinets_comms,2026-07-19T00:00:00Z,2026-07-19T16:00:00Z,"Implied cabinets ~70m from 30pct/21m claim medium; FTE 838->586; comms total unknown FOI ready"
+
 rq_008,City Ghent project subsidies scan,sprint5_local,7,open,L5,city_gent,"Scan Gent budget/subsidies for named projects. 3+ L5 candidates. FOI queue for missing breakdowns.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
 rq_009,Dual-structure overhead catalogue,sprint6_overhead,7,open,overhead,gg_belgium,"List >=5 dual NL/FR or multi-layer duplicate functions. overhead_nodes.csv with cost ranges or Unknown+FOI.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
 rq_010,Seed multi-year commitment examples,continuous,6,open,L5,gg_belgium,"Model >=5 multi-year commitments (real sourced). Demonstrate cash_by_year JSON pattern in commitments.csv.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,

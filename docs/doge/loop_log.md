@@ -86,3 +86,11 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_vl_dienstencheques_tco → ready (not sent)
 - Next: rq_007 federal cabinet / communication costs
 
+### 2026-07-19T16:00:00Z — tick 9
+- Unit: rq_007 (federal cabinets + comms overhead)
+- Found: Belga/Brussels Times (2025-02-14): **30% cabinet cut ≈ €21m/yr** → implied baseline **~€70m** (medium). FTE **838 → 586** target. No consolidated federal **communication** total found.
+- Wrote: overhead_nodes.csv (3 rows); leaderboard lb_fed_cabinets; FOI gap_fed_cabinets_comms ready; sources; rq_007=done; ticks=9; mode sprint5_local
+- FOI: gap_fed_cabinets_comms → ready (federal form; not sent)
+- Next: rq_008 City Ghent project subsidies
+
+

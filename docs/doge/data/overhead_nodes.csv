@@ -1,1 +1,4 @@
 overhead_id,name,kind,entity_ids,estimated_cost_eur,cost_year,confidence,source_id,notes
+oh_fed_cabinets_baseline,Federal ministerial cabinets (ops+personnel credit) — implied baseline pre-30pct cut,cabinet,sec_federal,70000000,2025,medium,src_bt_cabinets_30pct,"Derived: Van Peteghem / Belga stated 30% cut saves ~EUR 21m/yr → baseline ~70m. Not official line-item table."
+oh_fed_cabinets_fte,Federal cabinet FTE count (staff size not euros),cabinet,sec_federal,,2025,medium,src_bt_cabinets_30pct,"De Croo start ~838 FTE vs target 586 FTE (De Standaard via Brussels Times). Cost UNKNOWN without unit cost."
+oh_fed_comms_total,Federal government communication / PR aggregate,other,sec_federal,,2024,weak,,No consolidated public total found this tick — FOI gap_fed_cabinets_comms

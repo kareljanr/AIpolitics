@@ -14,6 +14,9 @@ src_vl_centenboekje_bo2026,Vlaamse begroting 2026 centenboekje Septemberverklari
 src_vl_vrt_dotatie_pq,VRT basistoelage 2026 schriftelijke vraag Vlaams Parlement,https://docs.vlaamsparlement.be/pfile?id=2215524,Vlaams Parlement,2026-07-19,parliament,"Basistoelage 2026 = 296.400 kEUR per new BHO 2026-2030; corroborated Knack/HLN 296.4 mEUR"
 src_vl_subsidieregister,Vlaams Subsidieregister portal,https://subsidieregister.vlaanderen.be,Vlaamse overheid,2026-07-19,open_data,L5 beneficiary hunt portal; no bulk top-N extract this tick
 src_vl_openbaarheid_contact,Vlaanderen formeel verzoek openbaarmaking,https://www.vlaanderen.be/uw-overheid/werking-en-structuur/hoe-werkt-de-vlaamse-overheid/formeel-verzoek-om-openbaarmaking,Vlaamse overheid,2026-07-19,foi,"Team Openbaarheid: openbaarheid@vlaanderen.be; Herman Teirlinckgebouw Havenlaan 88 bus 20 1000 Brussel"
+src_bt_cabinets_30pct,Brussels Times/Belga: 30pct cabinet cut saves ~21m EUR,https://www.brusselstimes.com/1444064/changing-the-course-belgian-government-to-reduce-ministerial-cabinet-expenses-by-30,Brussels Times / Belga quoting Van Peteghem,2026-07-19,press,"2025-02-14; implies ~70m baseline; FTE 838→586 cited via De Standaard"
+src_fed_foi_ibz,Federal openbaarheid van bestuur portal,https://www.ibz.be/nl/openbaarheid-van-bestuur,FPS Interior,2026-07-19,foi,Online form channel for federal FOI
+
 
 
 
