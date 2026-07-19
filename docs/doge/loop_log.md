@@ -100,5 +100,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_gent_subsidies_top20 → ready (not sent)
 - Next: rq_009 dual-structure overhead catalogue
 
+### 2026-07-19T17:00:00Z — tick 11
+- Unit: rq_009 (dual-structure overhead catalogue)
+- Found: **VRT €296.4m + RTBF ordinary €350.8m ≈ €647.2m** dual PSB (strong). Dual education communities (Flanders OV ~€20.3bn; FWB total ~€15bn partial). Multi-parliaments (cost TBD). Dual PES VDAB/FOREM/Actiris (TBD). Multi-layer econ agencies (TBD). ESA unconsolidated subsector sum premium **~€148.9bn** vs S.13 (transfer double-count scale — not cash waste).
+- Wrote: overhead_nodes 9 rows; leaderboard lb_dual_psb; FOI gap_multi_parliaments draft; sources; rq_009=done; ticks=11
+- FOI: gap_multi_parliaments draft (not ready)
+- Next: rq_010 multi-year commitments seed check
+
+
 
 

@@ -12,5 +12,6 @@ rq_007,Federal cabinet / communication cost map,sprint4_federal,7,done,overhead,
 
 rq_008,City Ghent project subsidies scan,sprint5_local,7,done,L5,city_gent,"Scan Gent budget/subsidies for named projects. 3+ L5 candidates. FOI queue for missing breakdowns.",gap_gent_subsidies_top20,2026-07-19T00:00:00Z,2026-07-19T16:30:00Z,"NTGent 2.59m; culture 28 orgs ~8m; pot ~10m; savings target 120m/yr; FOI top20 ready"
 
-rq_009,Dual-structure overhead catalogue,sprint6_overhead,7,open,overhead,gg_belgium,"List >=5 dual NL/FR or multi-layer duplicate functions. overhead_nodes.csv with cost ranges or Unknown+FOI.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,
+rq_009,Dual-structure overhead catalogue,sprint6_overhead,7,done,overhead,gg_belgium,"List >=5 dual NL/FR or multi-layer duplicate functions. overhead_nodes.csv with cost ranges or Unknown+FOI.",gap_multi_parliaments,2026-07-19T00:00:00Z,2026-07-19T17:00:00Z,"6+ dual nodes; VRT+RTBF 647m strong; S1312 transfer wedge documented; PES/parliaments weak+FOI"
+
 rq_010,Seed multi-year commitment examples,continuous,6,open,L5,gg_belgium,"Model >=5 multi-year commitments (real sourced). Demonstrate cash_by_year JSON pattern in commitments.csv.",,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,

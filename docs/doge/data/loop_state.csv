@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,sprint6_overhead,sprint6_overhead,2026-07-19T16:30:00Z,rq_008,10,no,"Next rq_009 dual-structure overhead. FOI ready includes gap_gent_subsidies_top20."
+main,continuous,continuous,2026-07-19T17:00:00Z,rq_009,11,no,"Next rq_010 multi-year commitment seeds (many already exist — verify/complete). FOI backlog human-send."
