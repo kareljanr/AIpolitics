@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T21:45:00Z,rq_021,22,no,"Meal voucher fiscal ~1.4bn medium. Next rq_020 Oosterweel or rq_022 Antwerp. FOI ready stack human."
+main,continuous,continuous,2026-07-20T00:15:00Z,rq_020,23,no,"Oosterweel total 7.2bn. Next rq_022 Antwerp L5. FOI ready human send."

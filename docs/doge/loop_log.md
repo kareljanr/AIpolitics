@@ -184,6 +184,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_cheque_te remains ready
 - Next: rq_020 Oosterweel multi-year or rq_022 Antwerp
 
+### 2026-07-20T00:15:00Z — tick 23
+- Unit: rq_020 (Oosterweel multi-year envelope)
+- Found: Full project cost **~EUR 7.2 billion** (VRT NWS 2024 class / press consensus). Annual BO2026 correction line remains **€889.859m** (centenboekje) — not the full TCO.
+- Wrote: commitments cmt_oosterweel_total + refined annual line; leaderboard lb_oosterweel; sources; rq_020=done; ticks=23
+- FOI: none
+- Next: rq_022 Antwerp L5 sample
+
+
 
 
 

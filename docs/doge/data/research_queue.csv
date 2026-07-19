@@ -34,7 +34,9 @@ rq_019,Leaderboard priority_index recompute top 15,continuous,5,done,L5,gg_belgi
 
 
 
-rq_020,Oosterweel multi-year total envelope,continuous,7,open,L5,vlaanderen_gov,"Find official multi-year total cost/commitment for Oosterweel beyond single BO2026 line; update commitments.",,2026-07-19T21:30:00Z,2026-07-19T21:30:00Z,
+rq_020,Oosterweel multi-year total envelope,continuous,7,done,L5,vlaanderen_gov,"Find official multi-year total cost/commitment for Oosterweel beyond single BO2026 line; update commitments.",,2026-07-19T21:30:00Z,2026-07-20T00:00:00Z,"Total ~7.2bn VRT 2024; BO2026 line 889.859m kept separate"
 rq_021,FPS inventory meal voucher microdata FOI or secondary,continuous,8,done,taxex,fod_finance,"Secondary literature for meal voucher fiscal cost euro bn; update tx_cheques if found.",,2026-07-19T21:30:00Z,2026-07-19T21:45:00Z,"Thesis/press 1.4bn fiscal cost medium; FOI still for official"
 rq_022,Antwerp city L5 subsidy sample,continuous,6,open,L5,city_antwerpen,"3+ named Antwerp subsidies with amounts; parallel Gent method.",,2026-07-19T21:30:00Z,2026-07-19T21:30:00Z,
+
+
 
