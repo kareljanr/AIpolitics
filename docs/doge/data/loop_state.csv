@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T21:15:00Z,rq_018,20,no,"FOI backlog almost all ready for human send. Next rq_019 leaderboard recompute. Scheduler 15m."
+main,continuous,continuous,2026-07-19T21:30:00Z,rq_019,21,no,"Leaderboard recomputed. Next rq_021 meal voucher TE (prio8) or rq_020 Oosterweel. FOI ready for human send."

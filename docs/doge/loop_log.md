@@ -170,6 +170,14 @@ Append-only. Each tick adds a short entry.
 - FOI ready stack: cjsm, gelijke kansen, dienstencheques, cabinets, gent top20, multi-parliaments, wal L5, forem, vdab, cheque TE, unemp pay
 - Next: rq_019 leaderboard recompute
 
+### 2026-07-19T21:30:00Z — tick 21
+- Unit: rq_019 (leaderboard recompute)
+- Found: Recomputed cost_score from € bands + priority_index for all rows; sorted CSV. **Top 5:** cheque economy 8.68 · heating oil 8.33 · company cars 8.22 · VAT horeca 7.73 · pro diesel 7.22. Snapshot `data/leaderboard_top15.md`.
+- Wrote: leaderboard.csv sorted; leaderboard_top15.md; recompute script; rq_019=done; rq_020–022 queued; ticks=21
+- FOI: none
+- Next: rq_021 meal voucher TE secondary (prio 8)
+
+
 
 
 
