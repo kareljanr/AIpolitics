@@ -107,6 +107,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_multi_parliaments draft (not ready)
 - Next: rq_010 multi-year commitments seed check
 
+### 2026-07-19T17:30:00Z — tick 12
+- Unit: rq_010 (multi-year commitment models)
+- Found/modelled: Full **cash_by_year** JSON on multi-year rows — **VRT 2026–2030** flat 296.4m; **RTBF** 350.8m (3y illustrative); **RRF BE** 5.3bn planned / 3.3bn disbursed end-2025; **NTGent** + **Gent 28 orgs** 6y flat; Gent savings 120m×6. Single-year lines retained. Flat years tagged ILLUSTRATIVE where not year-stamped in source.
+- Wrote: commitments.csv rewrite (12 rows); rq_010=done; new queue rq_011–rq_014; ticks=12
+- FOI: none new
+- Next: rq_013 company-car taxex (prio 8) or rq_011 Wallonia L5
+
+
 
 
 

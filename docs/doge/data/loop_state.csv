@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T17:00:00Z,rq_009,11,no,"Next rq_010 multi-year commitment seeds (many already exist — verify/complete). FOI backlog human-send."
+main,continuous,continuous,2026-07-19T17:30:00Z,rq_010,12,no,"Initial sprint queue complete. Next highest open: rq_013 company car taxex prio8 or rq_011/012 prio7. Human FOI send backlog."
