@@ -107,7 +107,18 @@ The **core task** (income insurance for unemployment) is a **public social-secur
 | Parallel channels raise admin cost vs single payer | **Medium–Strong** (public finance theory; need Rekenhof/ONEM unit costs) |
 | Exact € waste of the dual/triple cashier model | **Weak–Medium** until unit-cost FOI |
 
-**Open research / FOI:** ONEM / RVA statistics on payment volumes by organism; public grants to payment institutions; unit cost comparisons.
+**Open research / findings (tick 18):**
+
+| Fact | Confidence | Source |
+|------|------------|--------|
+| Payment via union funds **or** Hulpkas/CAPAC | Strong | Institutional / RVA |
+| Hulpkas **admin budget 2025 = €6,084,000** | Strong | hvwrva.be budget page |
+| Union payment funds also receive public support for admin | Medium | Standard description; **€ TBD** |
+| Benefit stock (€bn unemployment) is **separate** from cashier admin | Strong | Accounting identity |
+| Unit cost / dossier by channel | Weak / Unknown | FOI `gap_unemp_pay_unit_cost` |
+
+**Open research / FOI:** ONEM/RVA volumes by organism; public grants to **all** payment institutions (not only Hulpkas); unit cost comparisons.
+
 
 ---
 

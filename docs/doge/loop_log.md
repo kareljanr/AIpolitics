@@ -149,6 +149,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_cheque_te ready (not sent)
 - Next: rq_016 unemployment payment unit costs
 
+### 2026-07-19T20:30:00Z — tick 18
+- Unit: rq_016 (unemployment payment channels)
+- Found: Architecture confirmed — benefits paid via **union payment funds** or **Hulpkas**. Hulpkas **admin budget 2025 = €6,084,000** (strong official). Benefit stock separate from cashier admin. Union-fund public admin grants and **unit cost/dossier** still unknown → FOI ready.
+- Wrote: entities hulpkas/onem_rva; budgets; commitment; leaderboard update; FOI gap_unemp_pay_unit_cost **ready**; notes update; sources; rq_016=done; ticks=18
+- FOI: gap_unemp_pay_unit_cost ready (not sent)
+- Next: queue empty of open research — spawn continuous tasks or work FOI draft backlog
+
+
 
 
 

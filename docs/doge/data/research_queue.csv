@@ -23,7 +23,11 @@ rq_013,Company car tax expenditure deep dive,continuous,8,done,taxex,fod_finance
 
 rq_014,Complete FOI draft gap_vl_gelijke_kansen to ready,continuous,7,done,FOI,vlaanderen_gov,"Finish letter with openbaarheid@vlaanderen.be; set foi_queue ready (do not send).",,2026-07-19T17:30:00Z,2026-07-19T19:30:00Z,ready not sent
 rq_015,Cheque economy tax expenditure inventory,continuous,9,done,taxex,fod_finance,"Map eco-cheques meal vouchers other cheques: FPS TE lines + SSC treatment; euro totals; leaderboard update.",gap_cheque_te,2026-07-19T19:30:00Z,2026-07-19T20:00:00Z,"Market vol ~3bn med; rules strong; official TE FOI ready"
-rq_016,Unemployment payment channel unit costs,continuous,9,open,L5,sec_ss,"ONEM/RVA or Rekenhof: cost per claim by union fund vs Hulpkas; public grants to payment organisms.",,2026-07-19T19:30:00Z,2026-07-19T19:30:00Z,User priority middleman waste
+rq_016,Unemployment payment channel unit costs,continuous,9,done,L5,sec_ss,"ONEM/RVA or Rekenhof: cost per claim by union fund vs Hulpkas; public grants to payment organisms.",gap_unemp_pay_unit_cost,2026-07-19T19:30:00Z,2026-07-19T20:30:00Z,"Hulpkas admin 6.084m 2025 strong; union channel grants/unit cost FOI ready"
 
 
+
+rq_017,Brussels region total expenditure primary source,continuous,7,open,L1,brussels_gov,"Official BCR budget total expend 2025-2026; fill entity_rank #12; close or keep FOI gap_bru.",,2026-07-19T20:30:00Z,2026-07-19T20:30:00Z,
+rq_018,Finish FOI drafts prio7 to ready (batch),continuous,6,open,FOI,gg_belgium,"Complete letters+contacts for gap_bru gap_multi_parliaments gap_wal gap_forem gap_vdab to ready status.",,2026-07-19T20:30:00Z,2026-07-19T20:30:00Z,
+rq_019,Leaderboard priority_index recompute top 15,continuous,5,open,L5,gg_belgium,"Recompute priority_index for all leaderboard rows; sort doc snapshot in loop_log or markdown table.",,2026-07-19T20:30:00Z,2026-07-19T20:30:00Z,
 

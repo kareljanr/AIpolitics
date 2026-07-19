@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T20:00:00Z,rq_015,17,no,"Next rq_016 unemp pay unit costs prio9 or finish FOI drafts prio7-9. Cheque FOI ready."
+main,continuous,continuous,2026-07-19T20:30:00Z,rq_016,18,no,"Next rq_017 Brussels total or rq_018 FOI batch. Human send ready FOI stack (cheques unemp cjsm etc)."
