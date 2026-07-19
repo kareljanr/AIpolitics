@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T00:40:00Z,rq_023,25,no,"Federal toelagenregister 179.9bn + facultative 900m + NMBS rail map. Next rq_024 De Lijn or rq_026 NBB 25bn. FOI ready stack + gap_nmbs."
+main,continuous,continuous,2026-07-20T01:00:00Z,rq_024,26,no,"De Lijn: ~1.14bn class + deltas/savings mapped. Next rq_026 NBB 25bn or rq_025 Liège. FOI ready stack large."

@@ -206,6 +206,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_nmbs_annual_toelage ready (not sent)
 - Next: rq_024 De Lijn annual subsidy or rq_026 NBB 25bn enterprise subsidies
 
+### 2026-07-20T01:00:00Z — tick 26
+- Unit: rq_024 (De Lijn Flanders annual subsidy)
+- Found: Official De Lijn press 2025: **dotatie −€27.5m** (absolute total not stated); surplus **€20k**; ticket revenue **+~10%**; passengers **372.9m**; Vlaamse extra **€400m e-buses** (652 ordered); imposed savings **€35.5m** + internal hefbomen **€45m** recurrent 2026; fare-control revenue target **€50m** 2026. Secondary press: **~€1.14 bn** dotatie “vorig jaar” (2023 class, medium). Jaarverslag PDF URL public but download **403** this tick.
+- Wrote: entity de_lijn; budgets; commitments; leaderboard lb_de_lijn_dotatie; FOI gap_de_lijn_dotatie ready; sources; rq_024=done; ticks=26
+- FOI: gap_de_lijn_dotatie ready (not sent)
+- Next: rq_026 NBB 25bn enterprise subsidies (prio 7) or rq_025 Liège L5
+
 
 
 

@@ -35,3 +35,6 @@ bud_antwerp_gemeentefonds_2024,city_antwerpen,2024,807244511,,,budgeted,src_antw
 bud_fed_toelagen_register_2025,sec_federal,2025,179916000000,,,budgeted,src_bosa_toelagenregister_2025,strong,"BOSA federal transfer register: 8993 items = 179.916 bn EUR 2025 (not full federal spend)"
 bud_fed_facultative_subsidies_2025,sec_federal,2025,900000000,,,budgeted,src_bosa_toelagenregister_2025,strong,"Facultatieve subsidies envelope ~900m EUR; cut target -200m structural from 2029"
 bud_rail_savings_path_2025_29,nmbs,2025,135000000,,,budgeted,src_nmbs_results_2025,medium,"NMBS press: 675m rail-sector savings demanded 2025-2029; illustrative 675/5=135m/yr not official annual split"
+bud_de_lijn_dotatie_2023,de_lijn,2023,1140000000,,,budgeted,src_delijn_dotatie_1_14bn,medium,"Nieuwsblad Oct 2024: last-year (2023) dotatie 1.14bn — secondary press; confirm in jaarverslag/FOI"
+bud_de_lijn_dotatie_drop_2025,de_lijn,2025,-27500000,,,budgeted,src_delijn_results_2025,strong,"Official De Lijn press: dotatie fell 27.5m EUR in 2025 vs prior (absolute total not stated)"
+bud_de_lijn_ebus_invest_extra,de_lijn,2025,400000000,,,budgeted,src_delijn_results_2025,strong,"Vlaamse Regering extra 400m for electric buses; 652 e-buses ordered 2025"
