@@ -60,7 +60,9 @@ The state and/or tax system **subsidises or tax-favours** compensation paid thro
 | Max meal voucher EUR 10/day from 2026 (employer up to 8.91) | Strong | Royal decree / Partena |
 | Eco-cheques up to EUR 250/yr tax+SSC free; restricted list | Strong | Payroll guides |
 | Meal voucher **market volume** ~EUR 3bn/yr | Medium | Industry claim (~3m users) |
-| **Official fiscal TE €** for meal/eco package | Weak / Unknown | Not in FPS inventory export → FOI `gap_cheque_te` |
+| Meal voucher **fiscal cost ~EUR 1.4bn/yr** | Medium | Sofie De Coster thesis via De Standaard (2024) |
+| Expansion of max voucher could cost treasury **~EUR 1bn extra** | Weak–Medium | Same press scenario |
+| **Official FPS inventory TE €** for meal/eco package | Weak / Unknown | Still FOI `gap_cheque_te` |
 | Eco-cheques abolition discussed | Medium | Policy commentary — verify statute |
 
 **Open research:** exact TE € for meal vouchers / eco-cheques (FOI + inventory microdata).

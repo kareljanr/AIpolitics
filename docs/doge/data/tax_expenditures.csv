@@ -24,7 +24,9 @@ tx_cit_business_cars_cg_2023,CIT: Capital gains on business cars,federal,2023,12
 tx_pit_electric_cars_2026,PIT: Electric cars measure,federal,2026,850000,PIT,src_fps_taxex_xlsx,strong,3,"FPS inventory 0.85 mEUR — residual line"
 tx_cheques_package_tbd,Restricted employment cheques (meal eco other) full fiscal package,federal,2024,,,multi,src_middleman_note,weak,9,"Fiscal TE € UNKNOWN in FPS inventory parse; mechanism high absurdity; FOI gap_cheque_te"
 tx_meal_vouchers_market_vol,Meal vouchers market volume (not fiscal cost),federal,2025,3000000000,,,src_meal_voucher_3bn,medium,7,"Industry/LinkedIn claim: ~3m people ~EUR 3bn/year market volume — NOT government TE; useful scale of scheme"
+tx_meal_vouchers_fiscal_1_4bn,Meal vouchers fiscal cost estimate ~1.4bn/yr,federal,2024,1400000000,,,src_meal_voucher_fiscal_1_4bn,medium,9,"Sofie De Coster thesis (cited in De Standaard 2024): yearly fiscal cost ~EUR 1.4bn; secondary academic/press — FOI still for official FPS"
 tx_ecocheques_cap,Eco-cheques max EUR 250/employee/year tax+SSC free,federal,2026,,,PIT_SSC,src_ecocheque_rules,strong,8,"Boundless/payroll guides: max 250/yr tax-free SSC-exempt; restricted spend; govt discussed abolish — aggregate TE still TBD"
+
 
 
 

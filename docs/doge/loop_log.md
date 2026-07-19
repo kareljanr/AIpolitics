@@ -177,6 +177,14 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_021 meal voucher TE secondary (prio 8)
 
+### 2026-07-19T21:45:00Z — tick 22
+- Unit: rq_021 (meal voucher fiscal cost secondary)
+- Found: Sofie De Coster thesis (via De Standaard): meal vouchers **~EUR 1.4bn/yr fiscal cost** (medium). Market volume still ~3bn. Expansion scenarios cited ~1bn extra. Official FPS TE still FOI.
+- Wrote: taxex tx_meal_vouchers_fiscal_1_4bn; leaderboard lb_cheque_economy annual=1.4bn; sources; notes update; rq_021=done; ticks=22
+- FOI: gap_cheque_te remains ready
+- Next: rq_020 Oosterweel multi-year or rq_022 Antwerp
+
+
 
 
 
