@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-19T18:30:00Z,rq_011,14,no,"Next rq_012 PES budgets or rq_014 FOI gelijke kansen (prio7)."
+main,continuous,continuous,2026-07-19T19:00:00Z,rq_012,15,no,"Next rq_014 FOI gelijke kansen prio7. PES partial: Actiris strong VDAB med FOREM FOI."

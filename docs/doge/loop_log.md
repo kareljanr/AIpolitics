@@ -128,6 +128,14 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_wal_l5_top_subsidies draft
 - Next: rq_012 or rq_014
 
+### 2026-07-19T19:00:00Z — tick 15
+- Unit: rq_012 (VDAB / FOREM / Actiris budgets)
+- Found: **Actiris €727m (2025) → €689m (2026)** after €38m cut (strong). **VDAB** savings path **€20m (2025) → €40m (2027 accelerated) → €80m by 2028**; total budget **~€790m medium** (10%/~€79m inference). **FOREM** total not found → FOI.
+- Wrote: entities vdab/forem/actiris; budgets; commitments; overhead dual PES partial; leaderboard lb_actiris; FOI gap_forem + gap_vdab_full; sources; rq_012=done; ticks=15
+- FOI: gap_forem_budget draft; gap_vdab_full_budget draft
+- Next: rq_014 FOI gelijke kansen
+
+
 
 
 

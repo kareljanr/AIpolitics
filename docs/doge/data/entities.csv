@@ -35,3 +35,6 @@ city_brussel,Stad Brussel,Ville de Bruxelles,City of Brussels,local,sec_local,bi
 city_luik,Stad Luik,Ville de Liège,City of Liège,local,sec_local,fr,https://www.liege.be,,,Sprint 5 candidate
 city_brugge,Stad Brugge,Ville de Bruges,City of Bruges,local,sec_local,nl,https://www.brugge.be,,,Sprint 5 candidate
 rekenhof,Rekenhof,Cour des comptes,Court of Audit,other,gg_belgium,bi,https://www.ccrek.be,,,Audit source not a spend entity
+vdab,VDAB,VDAB,Flemish PES,parastatal,sec_flanders,nl,https://www.vdab.be,,,Public employment service Flanders
+forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia � budget TBD
+actiris,Actiris,Actiris,Brussels PES,parastatal,sec_brussels,bi,https://www.actiris.brussels,,,Public employment service Brussels

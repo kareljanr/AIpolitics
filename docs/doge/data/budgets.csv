@@ -21,3 +21,6 @@ bud_defence_cofog_2025,mod_defensie,2025,8800000000,,,esa,src_nbb_edp_2025_apr,s
 
 bud_gent_income_2025_press,city_gent,2025,1420000000,,,budgeted,src_gent_debt_nb,medium,"Nieuwsblad: ~1.42bn income 2025 context; verify official MJP"
 bud_gent_culture_struct_2026,city_gent,2026,8000000,,,budgeted,src_gent_cultuur_8m,strong,"~8m structural culture subsidies 28 orgs"
+bud_actiris_2025,actiris,2025,727000000,,,budgeted,src_actiris_budget_2026,strong,"Le Soir via BruxellesToday: 727 mEUR 2025 before adjustment"
+bud_actiris_2026,actiris,2026,689000000,,,budgeted,src_actiris_budget_2026,strong,"Validated budget 689 mEUR after 38m cut (BruxellesToday Apr 2026)"
+bud_vdab_est_2025,vdab,2025,790000000,700000000,900000000,estimate,src_vdab_10pct,medium,"Derived: Visie cites ~10pct cut / 79m next year ? order ~790m total; savings path 20m (2025) to 80m (2028) confirmed separately"
