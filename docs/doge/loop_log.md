@@ -78,3 +78,11 @@ Append-only. Each tick adds a short entry.
 ### policy — commit/push each tick
 - LOOP.md §6 and doge-loop skill require **git commit + push** after every tick that changes files.
 - Old scheduler 019f7a359ff7 cancelled; new durable 30m task created with commit/push in prompt.
+
+### 2026-07-19T15:30:00Z — tick 8
+- Unit: gap_vl_dienstencheques_tco (FOI draft finish — priority 8)
+- Found: Public sources still lack a clean single **full TCO** figure (only reform lines e.g. 151.4m BO2026; measure tables for price/tax changes). Routed via **openbaarheid@vlaanderen.be**.
+- Wrote: full send-ready letter; foi_queue status **ready**; loop_state ticks=8
+- FOI: gap_vl_dienstencheques_tco → ready (not sent)
+- Next: rq_007 federal cabinet / communication costs
+

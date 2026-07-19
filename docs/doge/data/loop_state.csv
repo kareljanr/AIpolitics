@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,sprint4_federal,sprint4_federal,2026-07-19T15:00:00Z,gap_vl_cjsm_l5,7,no,"FOI gap_vl_cjsm_l5 READY. Scheduler 019f7af13075 every 30m: commit+push each tick. Next FOI prio8 or rq_007."
+main,sprint4_federal,sprint4_federal,2026-07-19T15:30:00Z,gap_vl_dienstencheques_tco,8,no,"FOI ready: cjsm_l5 + dienstencheques_tco. Next: rq_007 federal cabinets (no more prio8 draft FOI)."
