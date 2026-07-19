@@ -114,6 +114,14 @@ Append-only. Each tick adds a short entry.
 - FOI: none new
 - Next: rq_013 company-car taxex (prio 8) or rq_011 Wallonia L5
 
+### 2026-07-19T18:00:00Z — tick 13
+- Unit: rq_013 (company car tax expenditure)
+- Found: Tax Foundation Europe (2025 research citing EU data): Belgium company-car **tax expenditures €2.3 bn in 2024** (0.37% GDP; 3.2% of federal TE; 13.2% of labour TE). FPS inventory export lacks a single full package line (only residual e.g. CIT business-car CG €12.4m; PIT electric cars €0.85m).
+- Wrote: tax_expenditures +3; leaderboard **lb_company_cars** priority_index 8.15; sources; rq_013=done; ticks=13
+- FOI: none (secondary source strong enough for seed; FPS micro-lines documented)
+- Next: rq_011 / rq_012 / rq_014 (prio 7)
+
+
 
 
 

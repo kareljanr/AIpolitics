@@ -17,6 +17,7 @@ rq_009,Dual-structure overhead catalogue,sprint6_overhead,7,done,overhead,gg_bel
 rq_010,Seed multi-year commitment examples,continuous,6,done,L5,gg_belgium,"Model >=5 multi-year commitments (real sourced). Demonstrate cash_by_year JSON pattern in commitments.csv.",,2026-07-19T00:00:00Z,2026-07-19T17:30:00Z,">=5 multi-year with cash_by_year: VRT 5y RTBF RRF NTGent Gent28 Gent savings; flat years marked illustrative"
 rq_011,Wallonia L5 discretionary sample,continuous,7,open,L5,wallonie_gov,"Extract >=5 named Walloon subsidies/projects with amounts from official budget or press+source. commitments + FOI if opaque.",,2026-07-19T17:30:00Z,2026-07-19T17:30:00Z,Sprint continuous after map complete
 rq_012,VDAB FOREM Actiris budget totals,continuous,7,open,L2,sec_flanders,"Source annual budgets for dual PES agencies; overhead_nodes update; compare unit costs if possible.",,2026-07-19T17:30:00Z,2026-07-19T17:30:00Z,
-rq_013,Company car tax expenditure deep dive,continuous,8,open,taxex,fod_finance,"Find company-car / mobility BIK lines in FPS inventory or other official source; leaderboard if material.",,2026-07-19T17:30:00Z,2026-07-19T17:30:00Z,High policy relevance for DOGE brand
+rq_013,Company car tax expenditure deep dive,continuous,8,done,taxex,fod_finance,"Find company-car / mobility BIK lines in FPS inventory or other official source; leaderboard if material.",,2026-07-19T17:30:00Z,2026-07-19T18:00:00Z,"EUR 2.3bn 2024 Tax Foundation/EU-linked; FPS xlsx lacks full package line; lb_company_cars seeded"
+
 rq_014,Complete FOI draft gap_vl_gelijke_kansen to ready,continuous,7,open,FOI,vlaanderen_gov,"Finish letter with openbaarheid@vlaanderen.be; set foi_queue ready (do not send).",,2026-07-19T17:30:00Z,2026-07-19T17:30:00Z,
 

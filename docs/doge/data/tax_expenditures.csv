@@ -19,3 +19,7 @@ tx_pit_pension_save_2026,PIT: Pension saving,federal,2026,650110000,PIT,src_fps_
 tx_cit_invest_2023,CIT: Investment allowance,federal,2023,649090000,CIT,src_fps_taxex_xlsx,strong,4,"CIT; 649.09 mEUR"
 tx_eiwt_researchers_2024,EIWT: Researchers private companies Master list 2,federal,2024,600640000,EIWT,src_fps_taxex_xlsx,strong,5,"EIWT; 600.64 mEUR; R&D payroll incentive"
 tx_cit_sme_rate_2023,CIT: Reduced rates for small enterprises,federal,2023,582140000,CIT,src_fps_taxex_xlsx,strong,4,"CIT; 582.14 mEUR"
+tx_company_cars_2024,Company cars (salariswagens) tax expenditures aggregate,federal,2024,2300000000,multi,src_taxfound_company_cars_2024,strong,8,"Tax Foundation Europe / EU Commission-linked estimate: EUR 2.3bn in 2024; 0.37% GDP; 3.2% of federal tax expenditures; 13.2% of labour tax expenditures. NOT a single line in FPS inventory export (under-specified there — BIK/SSC package)."
+tx_cit_business_cars_cg_2023,CIT: Capital gains on business cars,federal,2023,12440000,CIT,src_fps_taxex_xlsx,strong,4,"FPS inventory only explicit car-adjacent CIT line 12.44 mEUR — tiny vs company-car package"
+tx_pit_electric_cars_2026,PIT: Electric cars measure,federal,2026,850000,PIT,src_fps_taxex_xlsx,strong,3,"FPS inventory 0.85 mEUR — residual line"
+
