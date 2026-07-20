@@ -262,6 +262,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none (nominative list public)
 - Next: rq_033 Charleroi L5 or rq_032 NBB annex
 
+### 2026-07-20T03:40:00Z — tick 34
+- Unit: rq_033 (Charleroi city L5 / budget map)
+- Found (council press medium): budget **~€567 m** balanced 2026; recettes propres **2025 €577.9 m**; **4P transfers €240.3 m** (~38% of spend, path to 50% by 2030); Plan Oxygène **~€48 m** Walloon aid; expenditure cut **~€40 m** (RTBF); invest borrowing only **€20 m**; BSCA profit claim **€25 m 2025** + passenger tax debate; PBA renovation request **€7.6 m** (higher-tier grant, not confirmed city L5). Named third-party culture lines still weak publicly → FOI.
+- Wrote: entity city_charleroi; budgets; commitments; leaderboard; FOI gap_charleroi_subsidies_top20 ready; sources; rq_033=done; ticks=34
+- FOI: gap_charleroi_subsidies_top20 ready (not sent)
+- Next: rq_032 NBB annex cross-check (only open research left)
+
 
 
 

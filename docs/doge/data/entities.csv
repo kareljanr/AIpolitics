@@ -34,6 +34,7 @@ city_gent,Stad Gent,Ville de Gand,City of Ghent,local,sec_local,nl,https://stad.
 city_brussel,Stad Brussel,Ville de Bruxelles,City of Brussels,local,sec_local,bi,https://www.brussel.be,,,Sprint 5 candidate
 city_luik,Stad Luik,Ville de Liège,City of Liège,local,sec_local,fr,https://www.liege.be,,,Sprint 5 candidate
 city_brugge,Stad Brugge,Ville de Bruges,City of Bruges,local,sec_local,nl,https://www.brugge.be,,,Sprint 5 candidate
+city_charleroi,Stad Charleroi,Ville de Charleroi,City of Charleroi,local,sec_local,fr,https://www.charleroi.be,,,Walloon largest city; Plan Oxygène constrained budget
 rekenhof,Rekenhof,Cour des comptes,Court of Audit,other,gg_belgium,bi,https://www.ccrek.be,,,Audit source not a spend entity
 vdab,VDAB,VDAB,Flemish PES,parastatal,sec_flanders,nl,https://www.vdab.be,,,Public employment service Flanders
 forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia � budget TBD

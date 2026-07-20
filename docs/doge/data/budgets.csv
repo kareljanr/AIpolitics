@@ -81,3 +81,7 @@ bud_brugge_opex_2026,city_brugge,2026,399873609,,,budgeted,src_brugge_mjp_2026,s
 bud_brugge_invest_2026,city_brugge,2026,69988210,,,budgeted,src_brugge_mjp_2026,strong,"M2 investering uitgaven 69988210 EUR 2026"
 bud_brugge_gemeentefonds_2026,city_brugge,2026,110432646,,,budgeted,src_brugge_mjp_2026,strong,"Gemeentefonds ontvangst 110432646 EUR 2026"
 bud_brugge_culture_bd10_2026,city_brugge,2026,22704113,,,budgeted,src_brugge_mjp_2026,strong,"BD10 Cultuur uitgaven 22704113 EUR 2026"
+bud_charleroi_rev_own_2025,city_charleroi,2025,577887104,,,budgeted,src_charleroi_budget_2026_press,medium,"Télésambre council report: recettes exercices propres 2025 = 577887104 EUR (-0.48pct vs 2024)"
+bud_charleroi_transfers_4p_2026,city_charleroi,2026,240303135,,,budgeted,src_charleroi_budget_2026_press,medium,"Dépenses de transfert 4P (police pompiers pensions pauvreté) 240303135 EUR; -4.32pct vs 2025"
+bud_charleroi_budget_total_2026,city_charleroi,2026,567000000,,,budgeted,src_charleroi_budget_567m,medium,"Press: budget 2026 ~567m EUR balanced (Oxygène); exact official PDF not retrieved this tick"
+bud_charleroi_invest_borrow_2026,city_charleroi,2026,20000000,,,budgeted,src_charleroi_budget_2026_press,medium,"Mayor: only 20m borrowed for investment 2026 (~3x less than usual)"
