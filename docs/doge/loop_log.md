@@ -339,6 +339,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_043 Debt Agency stock or rq_044 primary balance gap
 
+### 2026-07-20T07:20:00Z — tick 45
+- Unit: rq_043 (Federal Debt Agency Entity I stock)
+- Found (BDA Review 2025/Outlook 2026 PDF, strong): federal gross debt **€518.68 bn (end-2024)** → **€552.69 bn (end-2025)** **+€34.0 bn**. Composition end-2025: **OLO €462.8 bn**; TC **€42.9 bn**. **Avg life 10.38 → 9.98 years**; duration **8.43 → 7.27 y**; fixed rate **87.4%**; 12m refinancing risk **15.64%** (cap 17.5%); financial cost at issuance (EUR) **2.01%**. Gross borrow 2025 **€53.31 bn** / net **€28.35 bn**. Plan 2026: gross **€59.55 bn** / net **€26.37 bn** / OLO issue **€51.60 bn**. Live BDA site (medium): **€567.615 bn** on **2026-06-30**. Perimeter: federal BDA **~80%** of GG ESA **€692.7 bn** — do not double-count.
+- Wrote: budgets multi-year + OLO/TC/borrow; commitment; entity debt_agency_be; leaderboard; sources + raw PDF; rq_043=done; ticks=45
+- FOI: none
+- Next: rq_044 primary balance gap or rq_045 Flanders BA2026
+
 
 
 
