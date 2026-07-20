@@ -304,6 +304,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_037 pro diesel or rq_039 interest expense
 
+### 2026-07-20T05:40:00Z — tick 40
+- Unit: rq_037 (Professional diesel phase-out path)
+- Found: Refund rates **€0.1935/l (2024)** → **€0.1924 (2025)** → **€0.1913 (2026)** (slow). Peak path from **~€0.2476/l** (2020–21 class). **FPS taxex inventory 2024: €557.83 m**. **FPS FFS inventory 2026 (benchmark1): €831.2 m** professional diesel. **2021 revenue loss €905.8 m** (climat.be/FPS). Bonus same FFS table: **company cars €3,141.7 m (2024)** PIT+VAT+SSC official (supersedes 2.3bn secondary); fuel cards **€661.6 m**; total direct FFS **€10.78 bn (1.7% GDP)**.
+- Wrote: taxex multi-method pro diesel + FFS company cars/fuel cards/total; commitment phase-out; leaderboard updates; sources; PDF raw; FOI company cars deprioritised to components; rq_037=done; ticks=40
+- FOI: gap_company_cars components only (total answered)
+- Next: rq_039 interest expense (only open research left)
+
 
 
 
