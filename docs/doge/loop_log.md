@@ -409,6 +409,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_054 FWB total or rq_051 regional SWA assent
 
+### 2026-07-20T10:40:00Z — tick 55
+- Unit: rq_054 (FWB total expenditure 2026 primary source)
+- Found (DGBF éléments-clés official, strong): **initial 2026** recettes **€13.602 bn** / dépenses liquidation **€15.406879 bn** / solde brut **−€1.667 bn** / **SEC −€1.608 bn**. Breakdown: Education-Recherche-Formation **€10.929 bn**; Santé-Culture-Sport **€2.325 bn**; Services généraux **€1.185 bn**; dette publique **€0.393 bn**; dotations RW/COCOF **€0.575 bn**. Multiyear SEC path **−1.608 / −1.405 / −1.390 / −1.224 bn** (2026–29). **Adjusted 2026** (gov press 30 Apr): recettes **€13.67 bn** / dépenses **€15.59 bn** / deficit **€1.77 bn** (+€160 m vs initial 1.61). Supersedes medium ~€15 bn press estimate. Entity rank #9 updated strong.
+- Wrote: budgets init+adj+edu; commitment; entity+rank; sources; rq_054=done; queued rq_055 Brussels; ticks=55
+- FOI: none
+- Next: rq_055 Brussels total or rq_051 regional SWA assent
+
 
 
 
