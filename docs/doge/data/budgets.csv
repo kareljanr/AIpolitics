@@ -60,3 +60,8 @@ bud_liege_culture_dept_2026,city_luik,2026,12405976,,,budgeted,src_liege_budget_
 bud_bpost_subs_package_2023,bpost,2023,300000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"NBB: bpost subsidies over 300m 2023 (ESA package; includes press-related structural support)"
 bud_bpost_press_concession_125m,bpost,2023,125000000,,,budgeted,src_bpost_press_125m,strong,"Federal press distribution concession ~125m/yr (was 175m); government end path saves 125m/yr from 2027"
 bud_bpost_press_extension_h1_2024,bpost,2024,75000000,,,budgeted,src_bpost_analyst_4q23,strong,"bpost 4Q23 analyst deck: concession extended to 30 Jun 2024 with budget 75.0m"
+bud_offshore_prod_support_cum_2021,sec_federal,2021,3410000000,,,outturn,src_rekenhof_offshore_2023,strong,"Rekenhof Nov 2023: cumulative production support to eastern-zone parks through end-2021 = 3.41bn"
+bud_offshore_connect_support_cum_2021,sec_federal,2021,208980000,,,outturn,src_rekenhof_offshore_2023,strong,"Rekenhof: cumulative connection support 208.98m through end-2021"
+bud_offshore_support_total_cum_2021,sec_federal,2021,3620000000,,,outturn,src_rekenhof_offshore_2023,strong,"Rekenhof: production+connection support total 3.62bn through end-2021"
+bud_offshore_degressivity_fed_cum,sec_federal,2021,989648177,,,outturn,src_rekenhof_offshore_2023,strong,"Rekenhof: degressivity mechanism cost to federal general means 989.6m (Jul 2013-Dec 2021) = 29pct of offshore surcharge"
+bud_offshore_support_2023,sec_federal,2023,179400000,,,outturn,src_creg_ar_2023,strong,"CREG AR2023: cost of offshore park support 2023 = 179.4m (GSC purchase + advances + payment-obligation income)"

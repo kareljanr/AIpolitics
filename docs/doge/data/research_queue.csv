@@ -44,7 +44,7 @@ rq_026,NBB enterprise subsidies 25bn deep dive,continuous,7,done,taxex,gg_belgiu
 rq_027,Federal tax remittance exemption L5 split,continuous,7,done,taxex,fod_finance,"NBB: ~2/3 of federal 6.8bn subsidies = partial non-remittance bedrijfsvoorheffing. Find official cash-by-year / night-shift lines.",,2026-07-20T01:20:00Z,2026-07-20T01:40:00Z,"FPS EIWT sum 4.356bn 2024; night/shift cluster 2.04bn; R&D 1.60bn; Rekenhof 3.9bn 2021"
 rq_028,bpost PSO multi-year subsidy path,continuous,6,done,L5,bpost,"Map bpost federal subsidies 2023-2027; newspaper phase-out; coalition -50m.",gap_bpost_uso_split,2026-07-20T01:20:00Z,2026-07-20T02:20:00Z,"Press 125m/yr then 75m H1-24; scrap 125m save from 2027; NBB >300m 2023; overcomp 82.5m; FOI USO split"
 rq_029,Charleroi or Brugge city L5 sample,continuous,6,open,L5,sec_local,"Parallel Gent/Antwerp/Liège: city opex + 3+ named subsidies from official budget.",,2026-07-20T02:20:00Z,2026-07-20T02:20:00Z,
-rq_030,Offshore wind CfD federal subsidy path,continuous,7,open,L5,sec_federal,"NBB flags federal offshore wind as environmental subsidy/CfD. Find annual EUR 2022-2026.",,2026-07-20T02:20:00Z,2026-07-20T02:20:00Z,
+rq_030,Offshore wind CfD federal subsidy path,continuous,7,done,L5,sec_federal,"NBB flags federal offshore wind as environmental subsidy/CfD. Find annual EUR 2022-2026.",gap_offshore_annual_cash,2026-07-20T02:20:00Z,2026-07-20T02:40:00Z,"Cum 3.62bn to 2021; lifetime est 12.68bn; 2023 cost 179.4m CREG; FOI annual series"
 rq_031,Maribel Social Funds 1.5bn L5,continuous,6,open,L5,sec_ss,"NBB: Maribel Social Funds SS share ~1.5bn 2024. Confirm primary source + structure.",,2026-07-20T02:20:00Z,2026-07-20T02:20:00Z,
 
 

@@ -241,6 +241,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_bpost_uso_split ready (not sent)
 - Next: rq_030 offshore wind CfD (prio 7) or rq_029 city L5
 
+### 2026-07-20T02:40:00Z — tick 31
+- Unit: rq_030 (Offshore wind federal support path)
+- Found (Rekenhof Nov 2023, strong): eastern zone **2.26 GW / 9 parks**; cumulative **production support €3.41 bn** + **connection €209 m** = **€3.62 bn** through end-2021; lifetime estimate **€12.68 bn** (minister Feb 2020; EC notification had used €10 bn); degressivity cost to federal general means **€989.6 m** (2013–2021); household offshore surcharge 2021 **€49.49**; from 2022 financing via special excise + general means. CREG AR2023: **support cost 2023 = €179.4 m**; net production **8 020 GWh**. Variable FiP parks saw reduced/zero support in high-price 2022–23 years (cap/clawback).
+- Wrote: entity creg; budgets; commitments; leaderboard; FOI gap_offshore_annual_cash ready; PDFs raw; sources; rq_030=done; ticks=31
+- FOI: gap_offshore_annual_cash ready (not sent)
+- Next: rq_031 Maribel 1.5bn or rq_029 city L5
+
 
 
 

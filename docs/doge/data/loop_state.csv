@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T02:20:00Z,rq_028,30,no,"bpost press concession phase-out mapped. Next rq_030 offshore wind (prio7) or rq_029 city L5. FOI ready stack large."
+main,continuous,continuous,2026-07-20T02:40:00Z,rq_030,31,no,"Offshore wind: 3.62bn cum + 179.4m 2023 mapped. Next rq_031 Maribel or rq_029 city. FOI ready stack large."
