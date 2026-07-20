@@ -311,6 +311,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_company_cars components only (total answered)
 - Next: rq_039 interest expense (only open research left)
 
+### 2026-07-20T06:00:00Z — tick 41
+- Unit: rq_039 (GG interest expense multi-year)
+- Found (NAI EDP Table 1, strong, Apr 2026): interest expense **€8.581 bn (2021)** → **€8.755 bn (2022)** → **€11.677 bn (2023)** → **€13.524 bn (2024)** → **€14.282 bn (2025)** = **2.2% GDP** last two years. Fourth consecutive absolute rise. Context: deficit **5.2% GDP**, debt **107.9% GDP** end-2025. **FPB:** federal Entity I interest **€12.3 bn** in 2026 initial budget. Not waste — cost of past deficits; fix is primary surplus.
+- Wrote: multi-year budgets 2021–25 + federal 2026; commitment; leaderboard; EDP PDF raw; source note; rq_039=done; queued rq_040–042; ticks=41
+- FOI: none
+- Next: rq_040 fuel cards FFS or rq_041 debt path
+
 
 
 

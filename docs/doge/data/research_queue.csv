@@ -53,7 +53,10 @@ rq_035,Riziv care budget top-line latest year,continuous,7,done,L1,riziv,"Source
 rq_036,Company cars taxex FPS package deep lines,continuous,6,done,taxex,fod_finance,"Map remaining company-car related FPS inventory lines + BIK SSC package beyond 2.3bn secondary estimate.",gap_company_cars_te_package,2026-07-20T04:00:00Z,2026-07-20T05:00:00Z,"Package still 2.3bn secondary; FPS residual car-named ~13m; pro diesel 558m mapped; FOI package split"
 rq_037,Professional diesel phase-out path 2022-2026,continuous,6,done,taxex,fod_finance,"Map official phase-down of professional diesel reimbursement rates and annual TE 2022-2026 from FPS/Rekenhof.",,2026-07-20T05:00:00Z,2026-07-20T05:40:00Z,"Rates path to 0.1913€/l 2026; taxex 557.8m FFS 831.2m 2024; 905.8m 2021; bonus company cars FFS 3.14bn"
 rq_038,Defence expenditure latest NBB or budget,continuous,7,done,L1,mod_defensie,"Source latest official defence budget/outturn; FPB notes defence drives federal spending growth.",,2026-07-20T05:00:00Z,2026-07-20T05:20:00Z,"COFOG 8.8bn 2025; NATO path ~12.8bn 2pct; capacity 33.78bn commit / 24.66bn pay 2026-34; fed invest share 4.62bn 2026"
-rq_039,Interest expense GG latest year,continuous,6,open,L0,gg_interest,"Update general government interest expense from NBB EDP or Eurostat latest year.",,2026-07-20T05:00:00Z,2026-07-20T05:00:00Z,
+rq_039,Interest expense GG latest year,continuous,6,done,L0,gg_interest,"Update general government interest expense from NBB EDP or Eurostat latest year.",,2026-07-20T05:00:00Z,2026-07-20T06:00:00Z,"NAI EDP: 8.58 8.76 11.68 13.52 14.28 bn 2021-25; 2.2pct GDP; federal budget 12.3bn 2026"
+rq_040,Fuel cards FFS 661m deep dive,continuous,6,open,taxex,fod_finance,"Map fuel cards PIT/SSC/VAT FFS 661.6m 2024 path and electrification impact from FPS FFS inventory.",,2026-07-20T06:00:00Z,2026-07-20T06:00:00Z,
+rq_041,GG debt path and snowball risk note,continuous,5,open,L0,gg_belgium,"Document debt 107.9pct GDP 2025 and interest snowball risk from NBB EDP + FPB projections.",,2026-07-20T06:00:00Z,2026-07-20T06:00:00Z,
+rq_042,Flanders total expenditure BO2026 confirm,continuous,5,open,L1,vlaanderen_gov,"Confirm latest Flanders total expenditure figure and link entity rank.",,2026-07-20T06:00:00Z,2026-07-20T06:00:00Z,
 
 
 

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T05:40:00Z,rq_037,40,no,"Pro diesel phase path + FFS company cars 3.14bn. Next rq_039 interest expense. FOI stack large."
+main,continuous,continuous,2026-07-20T06:00:00Z,rq_039,41,no,"GG interest multi-year 8.6-14.3bn mapped. Next rq_040 fuel cards or rq_041 debt path. FOI stack large."
