@@ -332,6 +332,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_042 Flanders BO2026 confirm or rq_043 Debt Agency EUR stock
 
+### 2026-07-20T07:00:00Z — tick 44
+- Unit: rq_042 (Flanders total expenditure BO2026 confirm)
+- Found (strong): **DFB official page + parliament vote (Jan 2026):** BO2026 uitgaven **€66.0 bn**; **OV+WVG = 58%**. **Evaluatierapport:** consolidated **VEK €66.03 bn** (BA2025 **€66.47 bn**; constant-policy would be **€67.05 bn** → measures cut **~€1.01 bn**); **VAK €64.75 bn**. **Receipts €61.6 bn**; **ESR saldo −€2.9 bn** (−€1.7 bn after doelstelling corrections). Deltas: index **+€718.9 m**; VV **+€370.9 m**; rente **+€323.5 m**; retro premie **−€301.6 m**; subsidies **−€210 m**. Entity rank #4 reconfirmed (budgeted, not ESA TE).
+- Wrote: multi-year budgets; commitment; programmes final VEK; entity/rank notes; sources; rq_042=done; queued rq_045 BA2026; ticks=44
+- FOI: none
+- Next: rq_043 Debt Agency stock or rq_044 primary balance gap
+
 
 
 

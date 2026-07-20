@@ -2,7 +2,7 @@ rank,entity_id,name,amount_eur,year,metric,basis,confidence,source_id,nesting_no
 1,sec_federal,ESA S.1311 Central/federal government (sector),181526100000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,Sector aggregate not a single ministry
 2,sec_ss,ESA S.1314 Social security funds (sector),141680400000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,Includes RIZIV pensions unemployment etc.
 3,sec_s1312,ESA S.1312 Communities and regions (sector),128623800000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,Flanders+Wallonia+Brussels+FWB+DG+commissions
-4,vlaanderen_gov,Vlaamse overheid (uitgavenbegroting),66000000000,2026,budgeted_expenditure,budgeted,strong,src_vl_uitgaven_bo2026,part_of_s1312,Official Flanders page: 66.0 bn at BO 2026; not ESA TE
+4,vlaanderen_gov,Vlaamse overheid (uitgavenbegroting),66000000000,2026,budgeted_expenditure,budgeted,strong,src_vl_uitgaven_bo2026,part_of_s1312,DFB+vote BO2026 headline 66.0bn; eval VEK 66.03bn; BA2025 VEK 66.47bn; receipts 61.6bn; ESR -2.9bn; not ESA TE
 5,sec_local,ESA S.1313 Local government (sector),44986700000,2025,total_expenditure,esa,strong,src_eurostat_gov_10a_main_te,unconsolidated_sector,All municipalities provinces OCMW
 6,riziv,RIZIV/INAMI global health insurance budget,45222000000,2025,budgeted_expenditure,budgeted,strong,src_riziv_budget_2025,part_of_s1314,RIZIV: ruim 45.222 bn global VGV 2025
 7,riziv_care,RIZIV authorized medical benefits expenditure,39712000000,2025,budgeted_expenditure,budgeted,strong,src_riziv_underspend_2025,subset_of_riziv,Authorized geneeskundige verstrekkingen 39.712 bn; actual underspend 0.2 bn
