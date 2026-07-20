@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T12:30:00Z,rq_060,61,no,"WAL net-exp -2.09% vs HRF 0.92% (margin -3.01pp). Next rq_059 final SWA votes. FOI stack large."
+main,continuous,continuous,2026-07-20T12:45:00Z,rq_061,62,no,"FWB net-exp: HRF 0.74% cap; growth unpublished FOI. Next rq_062 Namur/Mons or rq_059 SWA votes."

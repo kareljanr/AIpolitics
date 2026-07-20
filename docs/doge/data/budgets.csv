@@ -221,3 +221,5 @@ bud_otw_internal_savings_target_2029,tec,2029,20000000,,,budgeted,src_desquesnes
 bud_otw_tad_2028_29,tec,2028,22000000,,,budgeted,src_desquesnes_csp_otw_2025,medium,Desquesnes: transport a la demande rural reinforced 22 mEUR over 2028-2029
 bud_hrf_netexp_wal_2026,wallonie_gov,2026,0.92,,,projection,src_hrf_mtfsp_split_2025,strong,HRF Apr2025 sleutel3 Waals Gewest plus locals max nominal net primary exp growth 0.92pct 2026 avg 2025-31 1.45pct 2025 2.65pct GROWTH CAP not EUR
 bud_wal_netexp_margin_2026,wallonie_gov,2026,-3.01,,,budgeted,src_wallonie_expgen_2026,strong,ExpGen Table3 net primary growth -2.09pct minus HRF CSF cap 0.92pct = margin -3.01pp compliant under cap stocks 19.463bn to 19.056bn
+bud_hrf_netexp_fwb_2026,fwb_gov,2026,0.74,,,projection,src_hrf_mtfsp_split_2025,strong,HRF Apr2025 sleutel3 Franse Gemeenschap max nominal net primary exp growth 0.74pct 2026 avg 2025-31 1.52pct 2025 2.75pct GROWTH CAP not EUR
+bud_fwb_netexp_growth_2026_unknown,fwb_gov,2026,,,budgeted,src_ccrek_fwb_netexp_gap,strong,Official FWB net primary growth 2025-2026 NOT published in elements-cles or exposé per Cour critique on 2025 adj; do not invent from gross dep 15.4bn

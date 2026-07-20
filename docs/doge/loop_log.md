@@ -458,6 +458,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_059 multi-parliament final SWA votes (only open public task) or seed new L5
 
+### 2026-07-20T12:45:00Z — tick 62
+- Unit: rq_061 (FWB net primary exp vs HRF 0.74%)
+- Found (strong cap; strong opacity): **HRF sleutel 3** Franse Gemeenschap: **2.75% (2025) / 0.74% (2026)** / avg **1.52%**. **DGBF éléments-clés 2026**: dep **€15.407 bn** / recettes **€13.602 bn** / SEC **−€1.608 bn** — **no** net-primary growth table. **Cour des comptes** (PFWB commission on adj 2025): exposé **omits** dépenses primaires nettes vs CSF **2.75%**; gov acknowledged and **postponed** integration / said would not compare to CSF given joint WAL–FWB path. Adjusted 2026 press: dep **€15.59 bn** deficit **€1.77 bn** — still not net-primary. **Cannot score compliance** without inventing euros (do not use gross dep growth as proxy). Parallel: Flanders/Wallonia published tables; Brussels FOI already.
+- Wrote: HRF 2026 cap budget; commitment; leaderboard opacity; sources + Cour PDF raw; FOI gap_fwb_net_primary **ready**; rq_061=done; ticks=62
+- FOI: gap_fwb_net_primary ready (not sent)
+- Next: rq_062 Namur/Mons L5 (prio 5) or rq_059 final SWA votes
+
 
 
 
