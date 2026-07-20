@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T03:40:00Z,rq_033,34,no,"Charleroi budget/4P mapped (medium press). Next rq_032 NBB annex. FOI ready stack large."
+main,continuous,continuous,2026-07-20T04:00:00Z,rq_032,35,no,"NBB A1 cash-by-year filled for NMBS/bpost/offshore. Next rq_035 RIZIV (prio7) or rq_034 NMBS FPS. FOI stack large."

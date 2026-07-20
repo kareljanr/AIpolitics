@@ -269,6 +269,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_charleroi_subsidies_top20 ready (not sent)
 - Next: rq_032 NBB annex cross-check (only open research left)
 
+### 2026-07-20T04:00:00Z — tick 35
+- Unit: rq_032 (NBB annex A1 multi-year fill + reconciliation)
+- Found (NBB Econ Review 2025/9 Table A1 NAI, strong): **NMBS D.31** €965m (2000) / **€1 284 m (2023)** / **€1 127 m (2024)**; **NMBS D.92** €784m / **€767 m** / **€830 m** → package **€2 051 m (2023)** / **€1 957 m (2024)**. **bpost D.31** €215m / **€324 m** / **€329 m**. **Offshore wind D.31** **€283 m (2023)** / **€592 m (2024)** — vs CREG cash support **€179.4 m (2023)** (perimeter gap). Federal public-enterprise D.3 total **€1 456 m (2024)**. FPS Kamer cash-line cross-check not found this tick → FOI remains + new rq_034.
+- Wrote: multi-year budgets; commitments cash_by_year; leaderboard NMBS package (opacity closed); FOI priority tweaks; rq_032=done; queued rq_034–036; ticks=35
+- FOI: gap_nmbs + gap_offshore updated notes (not sent)
+- Next: rq_035 RIZIV top-line (prio 7) or rq_034 NMBS FPS cash
+
 
 
 

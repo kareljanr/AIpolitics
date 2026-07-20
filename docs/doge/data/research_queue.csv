@@ -47,7 +47,10 @@ rq_029,Charleroi or Brugge city L5 sample,continuous,6,done,L5,city_brugge,"Para
 rq_033,Charleroi city L5 subsidy sample,continuous,6,done,L5,city_charleroi,"Walloon city parallel: Charleroi budget opex + 3+ named third-party subsidies.",gap_charleroi_subsidies_top20,2026-07-20T03:20:00Z,2026-07-20T03:40:00Z,"Budget ~567m; 4P 240m 38pct; Oxygène 48m; invest borrow 20m; FOI top20 — culture L5 weak public"
 rq_030,Offshore wind CfD federal subsidy path,continuous,7,done,L5,sec_federal,"NBB flags federal offshore wind as environmental subsidy/CfD. Find annual EUR 2022-2026.",gap_offshore_annual_cash,2026-07-20T02:20:00Z,2026-07-20T02:40:00Z,"Cum 3.62bn to 2021; lifetime est 12.68bn; 2023 cost 179.4m CREG; FOI annual series"
 rq_031,Maribel Social Funds 1.5bn L5,continuous,6,done,L5,sec_ss,"NBB: Maribel Social Funds SS share ~1.5bn 2024. Confirm primary source + structure.",gap_maribel_l5_split,2026-07-20T02:20:00Z,2026-07-20T03:00:00Z,"NBB A2: SS 1461m 2024 + fed 59m; ~half of SS subsidies; FOI L5 fund split"
-rq_032,NBB annex fill NMBS bpost offshore cash-by-year,continuous,5,open,L2,sec_federal,"Use NBB A1 figures already extracted: NMBS 1127m 2024; bpost 329m; offshore 592m — cross-check FPS budget docs.",,2026-07-20T03:00:00Z,2026-07-20T03:00:00Z,
+rq_032,NBB annex fill NMBS bpost offshore cash-by-year,continuous,5,done,L2,sec_federal,"Use NBB A1 figures already extracted: NMBS 1127m 2024; bpost 329m; offshore 592m — cross-check FPS budget docs.",gap_offshore_annual_cash,2026-07-20T03:00:00Z,2026-07-20T04:00:00Z,"NMBS D.31+D.92 1.957bn 2024; bpost 329m; offshore ESA 592m; CREG vs ESA gap remains FOI"
+rq_034,FPS federal budget NMBS line-item cross-check,continuous,6,open,L2,nmbs,"Find FPS/Kamer budget table cash lines for NMBS exploitatie+invest 2023-2026 vs NBB ESA 1.957bn package.",,2026-07-20T04:00:00Z,2026-07-20T04:00:00Z,
+rq_035,Riziv care budget top-line latest year,continuous,7,open,L1,riziv,"Source official RIZIV/INAMI geneeskundige verstrekkingen total latest year; entity already mapped ~45bn class.",,2026-07-20T04:00:00Z,2026-07-20T04:00:00Z,
+rq_036,Company cars taxex FPS package deep lines,continuous,6,open,taxex,fod_finance,"Map remaining company-car related FPS inventory lines + BIK SSC package beyond 2.3bn secondary estimate.",,2026-07-20T04:00:00Z,2026-07-20T04:00:00Z,
 
 
 
