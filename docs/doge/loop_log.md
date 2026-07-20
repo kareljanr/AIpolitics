@@ -367,6 +367,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_047 Flanders debt stock or rq_048 Entity I/II split
 
+### 2026-07-20T08:40:00Z — tick 49
+- Unit: rq_047 (Flanders consolidated Maastricht debt path)
+- Found (Rekenhof Table 14, strong): consolidated Maastricht debt **€50.172 bn (end-2025)** → **€56.552 bn (BO2026)** → **€56.971 bn (BA2026)** = **+€6.799 bn / +13.5%** y/y. **Direct MVG debt** **€42.397 → €49.802 bn** (+€7.405 bn). Components BA2026: consolidated entities financial **€7.17 bn**; PPS **€0.64 bn**; green certs **€0.55 bn**; intra/inter-sector holdings corrections **−€11.38 bn**. Debt/receipts **91.6%** (old schuldnorm target **<65%**). Netto-actief end-2024 **−€13.3 bn**. Ratings: Fitch **AA-** (stable); S&P **AA-**; Moody’s **A1**. Drivers: deficit, Oosterweel, relance, ESR 8/9 (Fluvius, social housing…). Non-Maastricht federal claims: hospital infra **€2.184 bn** + autonomiefactor **€0.474 bn** (not in stock).
+- Wrote: multi-year debt budgets; commitment; leaderboard; entity note; rq_047=done; queued rq_049 non-Maastricht claims; ticks=49
+- FOI: none
+- Next: rq_048 Entity I/II MTFSP split
+
 
 
 

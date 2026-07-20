@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T08:20:00Z,rq_046,48,no,"MTFSP SPB +2.4pp / net exp avg 2.56%. Next rq_047 VL debt or rq_048 Entity split. FOI stack large."
+main,continuous,continuous,2026-07-20T08:40:00Z,rq_047,49,no,"Flanders Maastricht debt 50.2→57.0bn. Next rq_048 Entity I/II split. FOI stack large."
