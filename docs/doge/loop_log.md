@@ -248,6 +248,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_offshore_annual_cash ready (not sent)
 - Next: rq_031 Maribel 1.5bn or rq_029 city L5
 
+### 2026-07-20T03:00:00Z — tick 32
+- Unit: rq_031 (Maribel Social Funds)
+- Found (NBB Econ Review 2025/9 Tables A1–A2, strong): **Maribel SS-sector €1 460 m (2023) / €1 461 m (2024)** — nearly half of all SS enterprise subsidies (€3 496 m total 2024). Federal Maribel add-on **€56 m / €59 m**. Package **~€1.52 bn 2024**. Purpose: extra jobs in non-profit healthcare/social/public services (late 1980s). Related SS wage lines: targeted SSC **€926 m**; hospital employees **€663 m**. Bonus same tables: **NMBS D.31 €1 127 m 2024** (was €1 284 m 2023); **bpost €329 m 2024**; **offshore ESA €592 m 2024** (vs CREG 179.4 m 2023 different perimeter).
+- Wrote: entity maribel_funds; budgets (Maribel+SS package+NMBS/bpost/offshore A1); commitment; leaderboard; FOI gap_maribel_l5_split ready; gap_nmbs priority lowered (partially answered); rq_031=done; rq_032 queued; ticks=32
+- FOI: gap_maribel_l5_split ready (not sent)
+- Next: rq_029 Charleroi/Brugge city L5
+
 
 
 

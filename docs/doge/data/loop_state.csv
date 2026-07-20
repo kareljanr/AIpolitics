@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T02:40:00Z,rq_030,31,no,"Offshore wind: 3.62bn cum + 179.4m 2023 mapped. Next rq_031 Maribel or rq_029 city. FOI ready stack large."
+main,continuous,continuous,2026-07-20T03:00:00Z,rq_031,32,no,"Maribel SS 1.461bn 2024 mapped (NBB A2). Next rq_029 city L5. FOI ready stack large."
