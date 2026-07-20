@@ -360,6 +360,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_046 MTFSP or rq_047 Flanders debt stock
 
+### 2026-07-20T08:20:00Z — tick 48
+- Unit: rq_046 (Belgium MTFSP structural primary + net expenditure path)
+- Found (official MTFSP PDF + Council rec Jun 2025, strong): **Structural primary balance** plan **−1.8 → −1.2 → −0.7 → 0.0 → +0.6% GDP (2025–29)** = **+2.4 pp** (matches EC country-report phrasing). **Net nationally financed primary expenditure growth**: **3.6 / 2.5 / 2.5 / 2.1 / 2.1%** → **5y avg 2.56%** (EC ref 2.53%). **Deficit path** to **−3.0% GDP by 2029**; plan debt peaks **107.3%** then **106.7%** — **actual 2025 already 107.9%** and NBB primary **−2.9%** worse than plan **−2.4%**. 7-year adjustment; Entity I/II split deferred (Overlegcomité Mar 2025 commitment). Delivery risk is the DOGE angle — not a waste line.
+- Wrote: MTFSP budget rows; commitment cmt_be_mtfsp; leaderboard; sources + PDFs; rq_046=done; queued rq_048 Entity split; ticks=48
+- FOI: none
+- Next: rq_047 Flanders debt stock or rq_048 Entity I/II split
+
 
 
 

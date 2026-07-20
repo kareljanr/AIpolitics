@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T08:00:00Z,rq_045,47,no,"Flanders BA2026 67.1bn exp / -3.6bn saldo. Next rq_046 MTFSP or rq_047 VL debt. FOI stack large."
+main,continuous,continuous,2026-07-20T08:20:00Z,rq_046,48,no,"MTFSP SPB +2.4pp / net exp avg 2.56%. Next rq_047 VL debt or rq_048 Entity split. FOI stack large."
