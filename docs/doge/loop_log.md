@@ -346,6 +346,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_044 primary balance gap or rq_045 Flanders BA2026
 
+### 2026-07-20T07:40:00Z — tick 46
+- Unit: rq_044 (Primary balance path vs debt-stabilising)
+- Found (strong): **NBB Jun 2026 projections** primary balance **−2.9% / −2.8% / −2.7% / −2.7%** GDP for **2025–28** while overall deficit widens **−5.2 → −5.7%** (interest wedge growing). Debt **107.9 → 114.8%**. **IMF Art IV 2025**: primary ~**3.1 ppt of GDP below** debt-stabilising primary of **+0.3% GDP** → gap ≈ **€19.9 bn** (0.031 × GDP €642.0 bn). **NBB Review 2025/11**: snowball = (r−g)×debt − primary; with **r>g** and primary deficit, debt path explosive unless primary improves. **EC/MTFSP**: planned structural primary improvement **+2.4 pp 2025–29** — delivery still open. Not L5 waste: the DOGE north star for fiscal math.
+- Wrote: primary multi-year budgets; gap estimate; commitment; leaderboard lb_primary_gap; sources + NBB PDF; rq_044=done; queued rq_046 MTFSP; ticks=46
+- FOI: none
+- Next: rq_045 Flanders BA2026 or rq_046 MTFSP path
+
 
 
 

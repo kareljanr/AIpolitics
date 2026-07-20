@@ -58,8 +58,9 @@ rq_040,Fuel cards FFS 661m deep dive,continuous,6,done,taxex,fod_finance,"Map fu
 rq_041,GG debt path and snowball risk note,continuous,5,done,L0,gg_belgium,"Document debt 107.9pct GDP 2025 and interest snowball risk from NBB EDP + FPB projections.",,2026-07-20T06:00:00Z,2026-07-20T06:40:00Z,"107.9pct 2025 ~692.7bn; NBB proj 111.3/112.9/114.8 2026-28; FPB ~120pct 2030; deficit -5.2→-5.7; interest 14.3bn flow"
 rq_042,Flanders total expenditure BO2026 confirm,continuous,5,done,L1,vlaanderen_gov,"Confirm latest Flanders total expenditure figure and link entity rank.",,2026-07-20T06:00:00Z,2026-07-20T07:00:00Z,"Confirmed 66.0bn DFB+vote; VEK 66.03bn eval; BA2025 66.47bn; receipts 61.6; ESR -2.9/-1.7bn; OV+WVG 58pct"
 rq_043,Federal Debt Agency stock multi-year EUR,continuous,4,done,L0,sec_federal,"Map Belgian Debt Agency federal (Entity I) debt stock EUR series vs GG ESA 692.7bn; average maturity/rate if public.",,2026-07-20T06:40:00Z,2026-07-20T07:20:00Z,"BDA 518.7→552.7bn 2024-25; 567.6bn 2026-06-30; avg life 9.98y; OLO 462.8; ~80pct of GG ESA 692.7bn"
-rq_044,Primary balance path vs debt-stabilising,continuous,4,open,L0,gg_belgium,"Source NBB/FPB/IMF primary balance vs debt-stabilising primary balance gap (snowball mechanics).",,2026-07-20T06:40:00Z,2026-07-20T06:40:00Z,
+rq_044,Primary balance path vs debt-stabilising,continuous,4,done,L0,gg_belgium,"Source NBB/FPB/IMF primary balance vs debt-stabilising primary balance gap (snowball mechanics).",,2026-07-20T06:40:00Z,2026-07-20T07:40:00Z,"NBB PB -2.9/-2.8/-2.7/-2.7 2025-28; IMF stabilising +0.3; gap ~3.1ppt ≈€19.9bn; snowball r-g"
 rq_045,Flanders BA2026 adaptation totals if published,continuous,4,open,L1,vlaanderen_gov,"If BA2026 (mid-year adaptation) published: update VEK/saldo vs BO2026 66.03bn; press cited -2.18bn deficit mid-2026.",,2026-07-20T07:00:00Z,2026-07-20T07:00:00Z,
+rq_046,MTFSP structural primary path 2.4pp 2025-2029,continuous,4,open,L0,gg_belgium,"Document Belgium medium-term fiscal structural plan: structural primary +2.4pp 2025-29 and net expenditure growth caps vs outturns.",,2026-07-20T07:40:00Z,2026-07-20T07:40:00Z,
 
 
 

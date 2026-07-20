@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T07:20:00Z,rq_043,45,no,"BDA federal debt 552.7bn end-2025. Next rq_044 primary balance or rq_045 Flanders BA2026. FOI stack large."
+main,continuous,continuous,2026-07-20T07:40:00Z,rq_044,46,no,"Primary gap ~3.1ppt GDP (~€20bn). Next rq_045 Flanders BA2026 or rq_046 MTFSP. FOI stack large."
