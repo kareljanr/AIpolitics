@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T13:00:00Z,rq_062,63,no,"Namur BI2026 301m opex; associatif 8.47m table. Next rq_063 Mons or rq_059 SWA votes."
+main,continuous,continuous,2026-07-20T13:15:00Z,rq_063,64,no,"Mons Mag 242.5m; L5 2025 sample; FOI full 2026 PDF. Next rq_059 SWA final votes only open public."

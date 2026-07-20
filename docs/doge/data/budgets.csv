@@ -242,3 +242,19 @@ bud_namur_otn_2026,city_namur,2026,397000,,,budgeted,src_namur_budget_2026_dgf,s
 bud_namur_cac_2026,city_namur,2026,360000,,,budgeted,src_namur_budget_2026_dgf,strong,Comite Animation Citadelle 360000 EUR (-39935)
 bud_namur_fabriques_2026,city_namur,2026,1418000,,,budgeted,src_namur_budget_2026_dgf,strong,Fabriques d eglise 1418000 EUR incl Maison de la Laicite 50000
 bud_namur_2030_cut_2026,city_namur,2026,-500000,,,budgeted,src_namur_budget_2026_dgf,strong,Full cut ASBL Namur 2030 -500000 EUR after Leuven won European Cap Culture 2030
+bud_mons_recettes_2026,city_mons,2026,242500000,,,budgeted,src_mons_mag_133_2026,medium,MonsMag official: recettes 242.5 mEUR BI2026; full PDF not online
+bud_mons_boni_2026,city_mons,2026,2100000,,,budgeted,src_mons_mag_133_2026,medium,MonsMag: boni 2.1 mEUR; implies dep ~240.4m if recettes 242.5m
+bud_mons_economies_2026,city_mons,2026,8000000,,,budgeted,src_mons_mag_133_2026,medium,Departmental economies 8 mEUR 2026 Mag
+bud_mons_oxygene_2026,city_mons,2026,27000000,,,budgeted,src_mons_mag_133_2026,medium,Final Plan Oxygene tranche 27 mEUR Mag; opposition RTBF ~26m
+bud_mons_invest_2026,city_mons,2026,12000000,,,budgeted,src_mons_mag_133_2026,medium,Invest envelope reduced to 12 mEUR 2026 Mag; mayor also cites 40m from prior budgets
+bud_mons_precarity_aid_2026,city_mons,2026,200000,,,budgeted,src_mons_mag_133_2026,strong,Exceptional 200000 EUR to local associations precarity homelessness food aid Mag+council
+bud_mons_wal_cut_2026,city_mons,2026,5000000,,,budgeted,src_mons_mag_133_2026,medium,Bourgmestre Mag: Region withdrew 5 mEUR from city 2026
+bud_mons_4p_burden_2026,city_mons,2026,25000000,,,budgeted,src_mons_mag_133_2026,medium,Annual ~25 mEUR class for police fire pensions CPAS RIS underfunding narrative Mag
+bud_mons_cpas_2026,city_mons,2026,27700000,,,budgeted,src_mons_rtbf_budget_2026,medium,CPAS dotation 27.7 mEUR (+2.1m) RTBF quoting collège; confirm in FOI
+bud_mons_recettes_2025,city_mons,2025,246241166,,,budgeted,src_mons_compte_ordi_2025,strong,Budget 2025 previsions recettes 246241165.81 EUR (compte/synth PDF)
+bud_mons_depenses_2025,city_mons,2025,244180818,,,budgeted,src_mons_compte_ordi_2025,strong,Budget 2025 previsions depenses 244180817.50 EUR
+bud_mons_mars_2025,city_mons,2025,400000,,,budgeted,src_mons_compte_ordi_2025,strong,MARS fonctionnement subside 400000 EUR budget 2025 adapted + musical 124k animations 150k separate lines
+bud_mons_basket_umh_2025,city_mons,2025,220000,,,budgeted,src_mons_compte_ordi_2025,strong,Basket Union Mons Hainaut sportive 220000 EUR 2025; plus sponsoring 250000 separate line
+bud_mons_basket_sponsor_2025,city_mons,2025,250000,,,budgeted,src_mons_compte_ordi_2025,strong,Basket UMH sponsoring 250000 EUR 2025
+bud_mons_rca_2025,city_mons,2025,380000,,,budgeted,src_mons_compte_ordi_2025,strong,Subside R.C.A. 380000 EUR 2025 sports line
+bud_mons_film_festival_2025,city_mons,2025,45000,,,budgeted,src_mons_compte_ordi_2025,strong,Festival International du Film de Mons 45000 EUR 2025

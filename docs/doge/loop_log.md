@@ -472,6 +472,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none (2026 L5 table public; open-data lag noted)
 - Next: rq_063 Mons L5 or rq_059 final SWA votes
 
+### 2026-07-20T13:15:00Z — tick 64
+- Unit: rq_063 (Mons city L5 subsidy sample)
+- Found (mixed): **MonsMag #133** (official Ville de Mons): BI2026 **recettes €242.5 m**, **boni €2.1 m**, departmental **economies €8 m**, Plan Oxygène **€27 m**, invest **€12 m**, exceptional precarity aid **€200k**, Walloon cut **€5 m**, **4P ~€25 m** narrative. **CPAS €27.7 m (+€2.1 m)** RTBF quoting collège (medium). **Official full BI2026 PDF not on mons.be** (archives stop at 2024 presentations; compte 2025 published). **Budget 2025 strong**: recettes **€246.24 m** / dépenses **€244.18 m**. **L5 2025** (article lines): MARS fonct **€400k** + music **€124k** + anim **€150k**; Basket UMH **€220k** + sponsor **€250k**; RCA **€380k**; Film festival **€45k**.
+- Wrote: entity city_mons; 16 budgets; 2 commitments; leaderboard; sources + Mag/compte PDFs; FOI gap_mons_budget_l5 **ready**; rq_063=done; ticks=64
+- FOI: gap_mons_budget_l5 ready (not sent)
+- Next: rq_059 multi-parliament final SWA votes (only remaining open public task) or seed new research
+
 
 
 
