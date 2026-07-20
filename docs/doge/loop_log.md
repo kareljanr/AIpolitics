@@ -297,6 +297,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_company_cars_te_package ready (not sent)
 - Next: rq_038 defence (prio 7) or rq_037 pro diesel phase-out
 
+### 2026-07-20T05:20:00Z — tick 39
+- Unit: rq_038 (Defence expenditure latest)
+- Found (Strategische Visie Defensie 2025 official, strong): **2% GDP defence effort from 2025** (halt any decline) → **2.5% by 2034**. Capacity portfolio **2026–2034**: vastlegging **€33.784 bn** / vereffening **€24.661 bn** (constant €2026). Structure target ~35% personnel / 40% ops / 25% investment by 2035. Existing **NAI COFOG €8.8 bn (2025, 1.14% GDP)** ≠ NATO cash perimeter. **FPB/BOSA 2026:** ~**71% of €6.5 bn federal invest → Defence = €4.615 bn**. Secondary: ~**€12.8 bn** NATO-path 2025 (press); SIPRI ~**$14.5 bn / ~2.0% GDP**. Core public good — procurement efficiency not crude cut.
+- Wrote: budgets; multi-year commitments; leaderboard; entity note; PDF raw; sources; rq_038=done; ticks=39
+- FOI: none
+- Next: rq_037 pro diesel or rq_039 interest expense
+
 
 
 

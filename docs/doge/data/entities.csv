@@ -18,7 +18,7 @@ fod_binnenland,FOD Binnenlandse Zaken,SPF Intérieur,FPS Interior,federal,sec_fe
 fod_sociale_zekerheid,FOD Sociale Zekerheid,SPF Sécurité sociale,FPS Social Security,federal,sec_federal,bi,https://socialsecurity.belgium.be,,,
 fod_volksgezondheid,FOD Volksgezondheid,SPF Santé publique,FPS Public Health,federal,sec_federal,bi,https://www.health.belgium.be,,,
 fod_mobiliteit,FOD Mobiliteit,SPF Mobilité,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
-mod_defensie,Defensie,Défense,Defence,federal,sec_federal,bi,https://www.mil.be,,,
+mod_defensie,Defensie,Défense,Defence,federal,sec_federal,bi,https://www.mil.be,,,NATO 2pct path from 2025; COFOG 8.8bn 2025; capacity 33.8bn commit 2026-34
 rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,
 riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Global VGV 46.775 bn 2026 (45.222 bn 2025)
 riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santé (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
