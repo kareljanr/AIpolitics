@@ -283,6 +283,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_034 NMBS FPS cash or rq_036 company cars
 
+### 2026-07-20T04:40:00Z — tick 37
+- Unit: rq_034 (FPS/BOSA federal budget NMBS cross-check)
+- Found: **Exact Kamer/FPS article codes for NMBS cash lines not in public summary this tick.** Best reconciliation remains **NBB ESA A1** (D.31+D.92 **€1.957 bn 2024**). **FPB (BOSA initial 2026):** federal **subsidies €7.9 bn**; **investments €6.5 bn** of which **~17% → Infrabel = €1.105 bn** (Infrabel in GG; NMBS outside). FPB cites NBB: NMBS+bpost top public-enterprise subsidy recipients. **Savings path** (VRT medium): **€188 m** next year → **€663 m** structural end legislature (not MR’s €2.1 bn). Standaard medium: NMBS personnel **€1.34 bn** ~half opex.
+- Wrote: budgets fed subs/invest/Infrabel; commitments; leaderboard lb_infrabel; sources; PDF raw; FOI gap_nmbs note; rq_034=done; ticks=37
+- FOI: gap_nmbs still ready (budget codes)
+- Next: rq_036 company cars taxex (only open research left)
+
 
 
 
