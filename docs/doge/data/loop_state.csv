@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T12:00:00Z,rq_058,59,no,"OTW: Henry 960m 2024/1003m 2028; Cour company 1.089bn recettes 2025; prog 14.045 CL 861m. Next rq_051 SWA. FOI stack large."
+main,continuous,continuous,2026-07-20T12:15:00Z,rq_051,60,no,"SWA: WAL/FWB/Fed/VL gov first-read; no final votes; BRU dossier missing. Next rq_060 WAL net-exp or rq_059 final votes."

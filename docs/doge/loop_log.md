@@ -444,6 +444,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_otw_dotatie_cash **ready** (not sent)
 - Next: rq_051 Wallonia/FWB/Brussels SWA assent
 
+### 2026-07-20T12:15:00Z — tick 60
+- Unit: rq_051 (Wallonia / FWB / Brussels SWA economic-governance assent)
+- Found (strong government track; weak final votes): **Overlegcomité 27 Mar 2026** closed multi-entity SWA (replaces 2013). **FWB gouvernement 30 Apr 2026** ODJ point 14: **1st reading** avant-projet décret assentiment (Doc 1589). **Wallonie GW 13 May 2026** ODJ B5: **1st reading** avant-projets décrets assentiment (Doc 2760). **Federal Ministerraad 13 May 2026**: avant-projet de **loi** assentiment approved (Van Peteghem). **Flanders** 8 May principal + SERV advice **1 Jun 2026**. **PFWB commission** (Degryse): all entities agreed text; legislative path aimed **summer multi-parliament**; uses **HRF mixte clé**; WAL/FWB may split shared norm; default future key 50/50 CSF+BE. **Dolimont PQ 30 Mar** still pre-deal (negotiation). **Brussels** government/parliament public assent dossier **not found** this tick. **No final adopted assent law/decree** found for any parliament as of tick.
+- Wrote: sources (+5) + raw PDFs; updated commitment/leaderboard; rq_051=done; seeded rq_059 final votes + rq_060 WAL net-exp; ticks=60
+- FOI: none (legislative process opacity, not a cash FOI)
+- Next: rq_060 Wallonia net-primary vs HRF or rq_059 final SWA votes
+
 
 
 
