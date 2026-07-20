@@ -395,6 +395,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_052 Flanders net-exp vs 2.17% cap (prio 4) or rq_051 regional SWA assent
 
+### 2026-07-20T10:00:00Z — tick 53
+- Unit: rq_052 (Flanders HRF net-exp compliance vs 2.17% cap)
+- Found (BO2026 Algemene Toelichting Table 10 via eval/SERV, strong): HRF-concept **finale primaire uitgaven €63.047 bn (2025) / €62.106 bn (2026)**; **netto-uitgaven €62.036 / €61.296 bn**; after DRM **€60.761 bn (2026)**; **growth −2.1%** vs **HRF sleutel 3 cap +2.17%** → **margin −4.23 pp** (clearly **compliant** at BO). SERV: “lijkt te voldoen”. **BA2026 (Rekenhof)**: calculation in Ch.VI still cited but **not on final BA numbers** (uses DBP/process estimates; admin lacks APR microdata) — method lag, not a re-computed growth % this tick. Do not invent BA growth.
+- Wrote: net-exp stock + growth budgets; commitment; leaderboard; source + eval PDF; rq_052=done; queued rq_053 Wallonia 2026; ticks=53
+- FOI: none
+- Next: rq_053 Wallonia 2026 total (prio 5) or rq_051 regional SWA assent
+
 
 
 
