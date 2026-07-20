@@ -10,7 +10,7 @@ rank,entity_id,name,amount_eur,year,metric,basis,confidence,source_id,nesting_no
 9,fwb_gov,Fédération Wallonie-Bruxelles dépenses budget,15406879000,2026,budgeted_expenditure,budgeted,strong,src_fwb_elements_cles_2026,part_of_s1312,Official DGBF initial 15.407bn liquidations; adjusted 15.59bn; SEC -1.61bn init / deficit 1.77bn adj
 10,gg_interest,General government interest expense (category),14282000000,2025,interest_expense,esa,strong,src_nbb_edp_2025_apr,not_an_entity,NAI Table 1 interest; spending category across levels
 11,mod_defensie,Defence expenditure COFOG (accounts basis),8800000000,2025,cofog_defence,esa,strong,src_nbb_edp_2025_apr,part_of_s1311,NAI: 8.8 bn COFOG defence 1.14% GDP; NATO cash basis higher
-12,brussels_gov,Brussels-Capital Region SGRBC liquidation credits,8000000000,2026,budgeted_expenditure,budgeted,strong,src_ccrek_bru_2026,part_of_s1312,Cour des comptes report Mar 2026: 8.0bn liquidation / 8.9bn engagement credits SGRBC (not full OAA consolidate)
+12,brussels_gov,Brussels-Capital Region SGRBC liquidation credits,8000000000,2026,budgeted_expenditure,budgeted,strong,src_ccrek_bru_2026,part_of_s1312,SGRBC liq 8.0bn eng 8.9bn; SEC -0.96bn; debt 16.1bn end-2025; not full OAA consolidate
 13,city_antwerpen,Stad Antwerpen total,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1313,City deep-dive later
 14,city_gent,Stad Gent total,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1313,rq_008
 15,fod_finance,FOD Financiën standalone total,UNKNOWN,2025,budgeted_expenditure,unknown,weak,,part_of_s1311,Federal ministry line split not public in one number this tick

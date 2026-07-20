@@ -416,6 +416,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_055 Brussels total or rq_051 regional SWA assent
 
+### 2026-07-20T11:00:00Z — tick 56
+- Unit: rq_055 (Brussels region 2026 total vs SGRBC 8bn)
+- Found (Cour des comptes Budgets RBC 2026, strong): reconfirmed **SGRBC crédits liquidation €8.0 bn** / **engagement €8.9 bn** (+1.2% / +6.0% vs crédits provisoires 2025). **Solde financement SEC** entité régionale **−€956.6 m** (gov; Cour content-diff **−€978.2 m**). **Solde net à financer** SGRBC **−€1.746 bn**. **Dette consolidée ~€16.1 bn** end-2025 (+€3.5 bn 2023–25); direct LT **€13.4 bn**; path cap +€3 bn to **>€19.1 bn** by 2029. Top lines: **STIB €1.168 bn**; Actiris **€648 m**; commissions communautaires **€692 m**; dettes service **€728 m** liq. HRF net primary path for BCR **−0.61% 2026** not reported in exposé → rq_056. Dual perimeter: SGRBC 8.0bn ≠ press “7.6/6.6 bn” manoeuvrable figures.
+- Wrote: SEC/debt/net-financer budgets; commitment; entity+rank notes; source update + PDF; rq_055=done; queued rq_056; ticks=56
+- FOI: none
+- Next: rq_056 Brussels net-exp vs HRF or rq_051 regional SWA assent
+
 
 
 
