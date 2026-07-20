@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T12:45:00Z,rq_061,62,no,"FWB net-exp: HRF 0.74% cap; growth unpublished FOI. Next rq_062 Namur/Mons or rq_059 SWA votes."
+main,continuous,continuous,2026-07-20T13:00:00Z,rq_062,63,no,"Namur BI2026 301m opex; associatif 8.47m table. Next rq_063 Mons or rq_059 SWA votes."

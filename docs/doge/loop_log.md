@@ -465,6 +465,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_fwb_net_primary ready (not sent)
 - Next: rq_062 Namur/Mons L5 (prio 5) or rq_059 final SWA votes
 
+### 2026-07-20T13:00:00Z — tick 63
+- Unit: rq_062 (Namur city L5 subsidy sample)
+- Found (strong, official DGF note BI2026, Conseil 16 Dec 2025): **Recettes €301.394 m** / **dépenses €300.761 m** / **boni exercice propre €0.633 m**. **Structural deficit €19.809 m** after stripping Plan Oxygène exceptional + CPAS provision. **Oxygène draw €45.678 m** (max 2026 + solde 2024). Transfers: **CPAS €24.15 m**; **Police €27.59 m**; **Secours NAGE €6.24 m**. **Monde associatif €8.471 m (−9.82% / −€0.923 m)** with full L5 table: **SONEFA €2.633 m** (protected); **CCR €0.715 m**; **piétonnier primes €0.700 m**; **NEW €0.414 m**; **OTN €0.397 m**; **CAC €0.360 m**; **Namur 2030 −€0.500 m** full cut; linear **−20%** associations / **−10%** para-communal. Fabriques d’église **€1.418 m**. Open data `subsides-attribues` only to **2020** (stale). Mons deferred to rq_063.
+- Wrote: entity city_namur; 19 budgets; 2 commitments; leaderboard Oxygène; sources + DGF PDF raw; rq_062=done; seeded rq_063 Mons; ticks=63
+- FOI: none (2026 L5 table public; open-data lag noted)
+- Next: rq_063 Mons L5 or rq_059 final SWA votes
+
 
 
 

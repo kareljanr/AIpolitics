@@ -223,3 +223,22 @@ bud_hrf_netexp_wal_2026,wallonie_gov,2026,0.92,,,projection,src_hrf_mtfsp_split_
 bud_wal_netexp_margin_2026,wallonie_gov,2026,-3.01,,,budgeted,src_wallonie_expgen_2026,strong,ExpGen Table3 net primary growth -2.09pct minus HRF CSF cap 0.92pct = margin -3.01pp compliant under cap stocks 19.463bn to 19.056bn
 bud_hrf_netexp_fwb_2026,fwb_gov,2026,0.74,,,projection,src_hrf_mtfsp_split_2025,strong,HRF Apr2025 sleutel3 Franse Gemeenschap max nominal net primary exp growth 0.74pct 2026 avg 2025-31 1.52pct 2025 2.75pct GROWTH CAP not EUR
 bud_fwb_netexp_growth_2026_unknown,fwb_gov,2026,,,budgeted,src_ccrek_fwb_netexp_gap,strong,Official FWB net primary growth 2025-2026 NOT published in elements-cles or exposé per Cour critique on 2025 adj; do not invent from gross dep 15.4bn
+bud_namur_recettes_2026,city_namur,2026,301393740,,,budgeted,src_namur_budget_2026_dgf,strong,BI2026 recettes exercice propre 301393740.31 EUR (+2.65pct vs MB2-2025)
+bud_namur_depenses_2026,city_namur,2026,300760933,,,budgeted,src_namur_budget_2026_dgf,strong,BI2026 depenses exercice propre 300760932.84 EUR (+3.08pct)
+bud_namur_boni_2026,city_namur,2026,632807,,,budgeted,src_namur_budget_2026_dgf,strong,Resultat exercice propre +632807.47 EUR; global result balanced to 0 via provisions
+bud_namur_structural_deficit_2026,city_namur,2026,19808690,,,budgeted,src_namur_budget_2026_dgf,strong,Structural deficit 19808690.17 EUR after stripping Oxygene exceptional flows and CPAS provision draw
+bud_namur_oxygene_2026,city_namur,2026,45678121,,,budgeted,src_namur_budget_2026_dgf,strong,Plan Oxygene droit de tirage 45678121.47 EUR 2026 max tranche + solde 2024 unpaid
+bud_namur_personnel_2026,city_namur,2026,112067581,,,budgeted,src_namur_budget_2026_dgf,strong,Personnel 112067581.48 EUR 37.26pct of opex
+bud_namur_transfers_2026,city_namur,2026,76303325,,,budgeted,src_namur_budget_2026_dgf,strong,Depenses de transferts total 76303324.76 EUR
+bud_namur_cpas_2026,city_namur,2026,24152717,,,budgeted,src_namur_budget_2026_dgf,strong,Dotation CPAS hors specifiques 24152717.33 EUR
+bud_namur_police_2026,city_namur,2026,27587286,,,budgeted,src_namur_budget_2026_dgf,strong,Dotation Zone Police hors Namur Capitale 27587285.95 EUR
+bud_namur_secours_2026,city_namur,2026,6240236,,,budgeted,src_namur_budget_2026_dgf,strong,Dotation Zone Secours NAGE 6240236.08 EUR 19.67pct of zone public financing
+bud_namur_associatif_2026,city_namur,2026,8470995,,,budgeted,src_namur_budget_2026_dgf,strong,Monde associatif subsidies total 8470994.73 EUR (-922549 -9.82pct vs MB2-2025)
+bud_namur_sonefa_2026,city_namur,2026,2632627,,,budgeted,src_namur_budget_2026_dgf,strong,SONEFA petite enfance 2632626.61 EUR protected from linear cut
+bud_namur_ccr_2026,city_namur,2026,714975,,,budgeted,src_namur_budget_2026_dgf,strong,Centre culturel regional ASBL 714975.48 EUR
+bud_namur_pietonnier_2026,city_namur,2026,700000,,,budgeted,src_namur_budget_2026_dgf,strong,Primes commercants extension pietonnier 700000 EUR maintained
+bud_namur_new_asbl_2026,city_namur,2026,414000,,,budgeted,src_namur_budget_2026_dgf,strong,NEW ASBL 414000 EUR (-46000 -10pct para-communal)
+bud_namur_otn_2026,city_namur,2026,397000,,,budgeted,src_namur_budget_2026_dgf,strong,Office du Tourisme 397000 EUR (-44110)
+bud_namur_cac_2026,city_namur,2026,360000,,,budgeted,src_namur_budget_2026_dgf,strong,Comite Animation Citadelle 360000 EUR (-39935)
+bud_namur_fabriques_2026,city_namur,2026,1418000,,,budgeted,src_namur_budget_2026_dgf,strong,Fabriques d eglise 1418000 EUR incl Maison de la Laicite 50000
+bud_namur_2030_cut_2026,city_namur,2026,-500000,,,budgeted,src_namur_budget_2026_dgf,strong,Full cut ASBL Namur 2030 -500000 EUR after Leuven won European Cap Culture 2030
