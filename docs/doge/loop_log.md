@@ -318,6 +318,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_040 fuel cards FFS or rq_041 debt path
 
+### 2026-07-20T06:20:00Z — tick 42
+- Unit: rq_040 (Fuel cards FFS multi-year)
+- Found (FPS FFS inventory 2026 Table 3, strong): **Fuel cards PIT+SSC** **€688.2 m (2021)** → **€1,119.3 m (2022 peak)** → **€852.8 m (2023)** → **€661.6 m (2024)** — decline attributed to **fleet electrification**. **VAT fuel cards €52.8 m (2024)**. **EV charging cards** rising **€20.8 → €59.4 m**. Full fuel+charge package **~€775 m (2024)**. Also filled **pro diesel FFS series** 1052/558/773/831 m 2021–24. Transport sector: fuel cards + pro diesel dominate direct FFS.
+- Wrote: taxex multi-year fuel/charging/VAT; commitment; leaderboard; pro diesel FFS years; rq_040=done; ticks=42
+- FOI: none
+- Next: rq_041 debt path or rq_042 Flanders BO2026
+
 
 
 
