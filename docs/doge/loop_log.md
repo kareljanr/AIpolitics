@@ -451,6 +451,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none (legislative process opacity, not a cash FOI)
 - Next: rq_060 Wallonia net-primary vs HRF or rq_059 final SWA votes
 
+### 2026-07-20T12:30:00Z — tick 61
+- Unit: rq_060 (Wallonia net primary exp vs HRF)
+- Found (strong): **HRF Apr 2025 sleutel 3** Waals Gewest (+locals): max net primary growth **2.65% (2025) / 0.92% (2026)** / avg **1.45% (2025–31)**. **ExpGen BI2026 Table 3**: dépenses primaires nettes **€19.463 bn (2025) → €19.056 bn (2026)**; growth **−2.09%** vs norme CSF/HRF **+0.92%** → **margin −3.01 pp** (clearly **compliant** / under cap). Breakdown: total exp 20.973→20.694; −interest −EU −cofin −DRM −one-off. ExpGen noted key still uncertain at budget drafting (pre-SWA); post-tick-60 SWA confirms mixte HRF key applies. Parallel Flanders BO: −2.1% vs 2.17% cap; Brussels still FOI opaque.
+- Wrote: HRF 2026 cap + margin budgets; commitment; leaderboard; rq_060=done; ticks=61
+- FOI: none
+- Next: rq_059 multi-parliament final SWA votes (only open public task) or seed new L5
+
 
 
 

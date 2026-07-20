@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T12:15:00Z,rq_051,60,no,"SWA: WAL/FWB/Fed/VL gov first-read; no final votes; BRU dossier missing. Next rq_060 WAL net-exp or rq_059 final votes."
+main,continuous,continuous,2026-07-20T12:30:00Z,rq_060,61,no,"WAL net-exp -2.09% vs HRF 0.92% (margin -3.01pp). Next rq_059 final SWA votes. FOI stack large."
