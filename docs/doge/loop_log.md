@@ -276,6 +276,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_nmbs + gap_offshore updated notes (not sent)
 - Next: rq_035 RIZIV top-line (prio 7) or rq_034 NMBS FPS cash
 
+### 2026-07-20T04:20:00Z — tick 36
+- Unit: rq_035 (RIZIV care budget top-line)
+- Found (RIZIV official 20 Oct 2025, strong): **2026 global VGV €46.775 bn**; **authorized geneeskundige verstrekkingen €40.986 bn** (+€1.274 bn / **+3.2%** vs 2025). Prior year anchors kept: global **€45.222 bn** / care **€39.712 bn** (2025). **Correction package €470.775 m** for 2026 (drugs €227.9 m, doctors €150 m, hospitals €50 m, …). Health index honoraria **2.72%**. Non-care effort **€33.5 m**. Core entitlement — efficiency audits not crude abolition.
+- Wrote: budgets 2026; multi-year commitments; leaderboard lb_riziv_care; source; entity notes; rq_035=done; ticks=36
+- FOI: none
+- Next: rq_034 NMBS FPS cash or rq_036 company cars
+
 
 
 

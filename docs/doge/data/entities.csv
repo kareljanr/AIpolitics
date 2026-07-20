@@ -20,8 +20,8 @@ fod_volksgezondheid,FOD Volksgezondheid,SPF Santé publique,FPS Public Health,fe
 fod_mobiliteit,FOD Mobiliteit,SPF Mobilité,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
 mod_defensie,Defensie,Défense,Defence,federal,sec_federal,bi,https://www.mil.be,,,
 rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,
-riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Top named SS entity ~45bn class
-riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santé (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Subset of riziv global
+riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Global VGV 46.775 bn 2026 (45.222 bn 2025)
+riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santé (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
 pensioenen_fed,Federale pensioenen (stelsels),Pensions fédérales,Federal pensions schemes,social_security,sec_ss,bi,,,,Map sub-entities in later ticks
 gg_interest,Interest expense general government,Charges d'intérêts S.13,GG interest expense (category),other,gg_belgium,bi,,,,Not an institution; ESA interest line
 vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BO2026 uitgaven 66.0 bn (budgeted)
