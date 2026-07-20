@@ -388,6 +388,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_vl_non_maastricht_claims ready — human send only
 - Next: rq_050 SWA ratification / control accounts
 
+### 2026-07-20T09:40:00Z — tick 52
+- Unit: rq_050 (SWA ratification + Entity control accounts)
+- Found (strong/medium): **SWA timeline** — Overlegcomité **27 Mar 2026** draft economic-governance SWA (replaces **13 Dec 2013**); **Flanders government 8 May 2026** principal OK + draft assent decree → SERV/RvS; **federal Ministerraad 13 May 2026** draft assent law (secondary reports); **SERV advice Jun 2026**; Rekenhof Jun 2026: still needs each entity government + **parliament** assent — **full multi-parliament ratification not confirmed** this tick. **Entity I control account** (Kamer 56K1468, budget-basis approx): net exp **€190.3 bn (2025) / €196.9 bn (2026)**; growth **4.6% / 2.3%** vs HRF **3.81% / 2.96%**; annual deviation **+€1.5 / −€1.3 bn**; cumul after defence flex **−0.30% / −0.71% GDP** (under norm). Official HRF multi-entity public ledgers not yet a complete published suite.
+- Wrote: Entity I net-exp + control budgets; commitment/leaderboard update; sources + Kamer PDF; rq_050=done; queued rq_051–052; ticks=52
+- FOI: none
+- Next: rq_052 Flanders net-exp vs 2.17% cap (prio 4) or rq_051 regional SWA assent
+
 
 
 
