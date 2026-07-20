@@ -27,7 +27,7 @@ gg_interest,Interest expense general government,Charges d'intérêts S.13,GG int
 gg_debt,Public debt stock general government,Dette publique S.13,GG consolidated gross debt (stock),other,gg_belgium,bi,,,,Not an institution; ESA EDPs debt; 107.9pct GDP end-2025 ~692.7bn
 debt_agency_be,Belgisch Agentschap van de Schuld,Agence de la Dette,Belgian Debt Agency,federal,sec_federal,bi,https://www.debtagency.be,,,Manages Entity I federal debt; stock 552.7bn end-2025 vs GG ESA 692.7bn
 vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BA2026 exp 67.1bn; Maastricht debt 57.0bn (from 50.2bn 2025); Fitch AA-
-wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2025 dépenses 22.029 bn
+wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2026 dépenses 21.336 bn / SEC -2.016 bn (2025 was 22.029 / -2.286)
 brussels_gov,Brusselse regering,Gouvernement bruxellois,Brussels government,region,sec_brussels,bi,https://be.brussels,,,Total expenditure TBD
 fwb_gov,FWB regering & diensten,Gouvernement FWB,FWB government,community,sec_fwb,fr,,,,~15 bn dépenses 2025 medium conf
 local_class,Gemeenten & OCMW (klasse),Communes & CPAS (classe),Municipalities class,local,sec_local,bi,,,,Instantiate cities as child entities when diving

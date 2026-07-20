@@ -402,6 +402,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_053 Wallonia 2026 total (prio 5) or rq_051 regional SWA assent
 
+### 2026-07-20T10:20:00Z — tick 54
+- Unit: rq_053 (Wallonia total expenditure 2026 initial)
+- Found (ExpGen budget initial 2026 official PDF, strong): **dépenses €21.335748 bn** (was €22.029416 bn 2025 init, **−€694 m**); **recettes €18.515734 bn**; **solde brut −€2.820 bn**; **solde SEC −€2.015736 bn** (path −2.015 / −1.124 / −0.600 / +0.039 bn 2026–29). Structural savings **€270.4 m**. Net primary exp **€19.463 → €19.056 bn** growth **−2.09%** vs CSF key cap **+0.92%** (~3 pp under, indicative). Entity rank #8 updated to 2026 envelope.
+- Wrote: budgets multi-line; commitment; entity+rank; sources + PDF; rq_053=done; queued rq_054 FWB; ticks=54
+- FOI: none
+- Next: rq_054 FWB total or rq_051 regional SWA assent
+
 
 
 
