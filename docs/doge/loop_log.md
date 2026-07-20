@@ -255,6 +255,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_maribel_l5_split ready (not sent)
 - Next: rq_029 Charleroi/Brugge city L5
 
+### 2026-07-20T03:20:00Z — tick 33
+- Unit: rq_029 (Brugge city L5 sample — chose Brugge over Charleroi for official MJP PDFs)
+- Found (Stad Brugge **MJP 2026–2031**, strong, consolidated Stad+OCMW): total uitgaven **€483.6 m** (2026); exploitatie **€399.9 m**; investeringen **€70.0 m**; Gemeentefonds **€110.4 m**; cultuur BD10 **€22.7 m**. Nominatieve L5 2026: **Politiezone €33.75 m**; **HVZ Zone 1 €10.03 m**; **Brugge Plus loon €2.76 m** (+ overhead €0.61 m + event lines); **Concertgebouw werk €705k** + **invest onderhoud €720k/yr** + gevelschil **~€6.4 m** multi-year; **Entrepot €894k**; Stadsmakers **€567k**; BMCC **€639k**; Cercle invest **€1.0 m** 2026.
+- Wrote: budgets; 6 commitments; leaderboard; PDFs raw; sources; rq_029=done; rq_033 Charleroi queued; ticks=33
+- FOI: none (nominative list public)
+- Next: rq_033 Charleroi L5 or rq_032 NBB annex
+
 
 
 

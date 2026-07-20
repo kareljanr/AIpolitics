@@ -76,3 +76,8 @@ bud_ss_hospital_wage_2024,sec_ss,2024,663000000,,,outturn,src_nbb_subsidies_ent_
 bud_nmbs_esa_subs_2024,nmbs,2024,1127000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"NBB Table A1: SNCB/NMBS D.31 subsidies 1127m 2024 (1284m 2023) — closes annual toelage gap partially"
 bud_bpost_esa_subs_2024,bpost,2024,329000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"NBB Table A1: Bpost D.31 subsidies 329m 2024 (324m 2023)"
 bud_offshore_nbb_2024,sec_federal,2024,592000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"NBB Table A1: offshore wind farms D.31 592m 2024 (283m 2023) — ESA path; vs CREG 179.4m 2023 support cost (different perimeter/year)"
+bud_brugge_total_exp_2026,city_brugge,2026,483629619,,,budgeted,src_brugge_mjp_2026,strong,"MJP M1 consolidated Stad+OCMW total uitgaven 483629619 EUR 2026"
+bud_brugge_opex_2026,city_brugge,2026,399873609,,,budgeted,src_brugge_mjp_2026,strong,"M2 exploitatie uitgaven 399873609 EUR 2026"
+bud_brugge_invest_2026,city_brugge,2026,69988210,,,budgeted,src_brugge_mjp_2026,strong,"M2 investering uitgaven 69988210 EUR 2026"
+bud_brugge_gemeentefonds_2026,city_brugge,2026,110432646,,,budgeted,src_brugge_mjp_2026,strong,"Gemeentefonds ontvangst 110432646 EUR 2026"
+bud_brugge_culture_bd10_2026,city_brugge,2026,22704113,,,budgeted,src_brugge_mjp_2026,strong,"BD10 Cultuur uitgaven 22704113 EUR 2026"

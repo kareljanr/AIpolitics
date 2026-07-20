@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T03:00:00Z,rq_031,32,no,"Maribel SS 1.461bn 2024 mapped (NBB A2). Next rq_029 city L5. FOI ready stack large."
+main,continuous,continuous,2026-07-20T03:20:00Z,rq_029,33,no,"Brugge MJP L5 mapped. Next rq_033 Charleroi or rq_032 NBB annex. FOI ready stack large."
