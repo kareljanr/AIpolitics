@@ -52,7 +52,10 @@ src_oosterweel_7_2bn,Oosterweel total cost ~7.2bn euro,https://www.vrt.be/vrtnws
 
 src_hulpkas_budget_2025,Hulpkas budget 2025 EUR 6.084m,https://www.hvwrva.be/nl/over-de-hulpkas/budget,Hulpkas van de Werkloosheidsuitkeringen,2026-07-19,agency,"Official page: 2025 budget 6.084.000 EUR"
 src_unemp_pay_channels,Belgium unemployment payment via unions + Hulpkas,https://www.rva.be,RVA / institutional fact,2026-07-19,agency,"Architecture: union payment funds or Hulpkas; unit costs by channel TBD FOI"
-src_ccrek_bru_2026,Cour des comptes budgets RBC 2026 report,https://www.ccrek.be/sites/default/files/Docs/2026_17_BudgetsRBC2026.pdf,Cour des comptes,2026-07-19,audit,"SGRBC liq 8.0bn eng 8.9bn; SEC -956.6m (Cour -978.2m); net financer -1.746bn; debt consol 16.1bn end-2025; STIB 1.168bn; raw ccrek_bru_budget_2026.pdf"
+src_ccrek_bru_2026,Cour des comptes budgets RBC 2026 report,https://www.ccrek.be/sites/default/files/Docs/2026_17_BudgetsRBC2026.pdf,Cour des comptes,2026-07-19,audit,"SGRBC 8.0/8.9bn; SEC -956.6m; STIB prog 1.167619bn +51.3m; PPI 591.5-724.4m 2026-29; cut 964.6m; raw ccrek_bru_budget_2026.pdf"
+src_stib_rf_2024,STIB rapport financier 2024,https://www.stib-mivb.be/files/live/sites/STIBMIVB/files/Corporate/STIB_RF_fr-compressed.pdf,STIB-MIVB,2026-07-20,agency,"Intervention RBC fonctionnement 546.086m 2023 / 633.118m 2024; invest prog 475m 2024; raw stib_rf_2024.pdf"
+src_stib_rf_2025,STIB rapport financier 2025,https://www.stib-mivb.be/files/live/sites/STIBMIVB/files/Corporate/Rapport%20annuel/Rapport%20annuel%202025/STIB_RF_FR.pdf,STIB-MIVB,2026-07-20,agency,"Intervention RBC fonctionnement 642.484m 2025; capital grants 348.9m; invest 427.4m; raw stib_rf_2025.pdf"
+src_stib_deficit_press_2025,STIB deficit 125m after subsidy cut 65m press,https://www.bruzz.be/mobiliteit/stib-zwarte-sneeuw-zwarte-cijfers-2025-06-18,Bruzz / STIB press class,2026-07-20,press,"2025 deficit ~125m after regional subsidy cut 65m; secondary"
 
 
 

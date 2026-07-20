@@ -430,6 +430,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_bru_net_primary ready (not sent)
 - Next: rq_057 STIB multi-year or rq_051 regional SWA assent
 
+### 2026-07-20T11:40:00Z — tick 58
+- Unit: rq_057 (STIB multi-year regional financing)
+- Found (strong): **Regional programme 42.112** budget 2026 **€1.167619 bn** (+€51.3 m vs 2025 provisional). **STIB statutory accounts — Intervention RBC fonctionnement**: **€546.1 m (2023)** → **€633.1 m (2024)** → **€642.5 m (2025)** (not equal to full 42.112 package). **Capital grants** recognized **€348.9 m (2025)**. **Investment programme** executed **€475 m (2024)** / **€427.4 m (2025)**; **PPI path** **€591.5 / 666.1 / 768.6 / 724.4 m (2026–29)** but Cour: must cut **€964.6 m** vs STIB 2025 PPI plan (Metro 3 + other arbitrages). Compare De Lijn: still **~€1.14 bn class medium** + FOI gap_de_lijn_dotatie. Dual perimeter: company opex intervention ≠ regional budget line.
+- Wrote: multi-year opex/invest/PPI budgets; commitment; leaderboard; sources + STIB PDFs; entity note; rq_057=done; queued rq_058 TEC; ticks=58
+- FOI: none new
+- Next: rq_058 TEC multi-year or rq_051 regional SWA assent
+
 
 
 
