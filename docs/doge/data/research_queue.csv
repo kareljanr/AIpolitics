@@ -72,7 +72,7 @@ rq_054,FWB total expenditure 2026 primary source,continuous,5,done,L1,fwb_gov,"R
 rq_055,Brussels region 2026 total update vs SGRBC 8bn,continuous,5,done,L1,brussels_gov,"Confirm BCR 2026 full consolidated total if published beyond Cour des comptes SGRBC 8.0bn liquidation credits.",,2026-07-20T10:40:00Z,2026-07-20T11:00:00Z,"Confirmed SGRBC 8.0/8.9bn; SEC -956.6m; net financer -1.75bn; debt consol 16.1bn end-2025; path balance 2029"
 rq_056,Brussels net primary exp growth vs HRF -0.61pct 2026,continuous,4,done,L1,brussels_gov,"Compute BCR 2026 net primary expenditure growth vs HRF -0.61pct cap (Cour notes exposé lacks this metric).",gap_bru_net_primary,2026-07-20T11:00:00Z,2026-07-20T11:20:00Z,"HRF cap -0.61% 2026 confirmed; official BCR net-primary growth not published (Cour); FOI ready; SGRBC liq +1.2% not substitute"
 rq_057,STIB multi-year subsidy cash path 2024-2027,continuous,5,done,L5,stib,"Map STIB regional financing multi-year beyond single 1.168bn 2026 programme line; compare De Lijn/TEC.",,2026-07-20T11:20:00Z,2026-07-20T11:40:00Z,"Opex intervention 546/633/642m 2023-25; prog 42.112 1.168bn 2026; PPI 592-724m + cut 965m; capital grants 349m 2025"
-rq_058,TEC Wallonia annual subsidy multi-year,continuous,5,open,L5,tec,"Parallel STIB/De Lijn: official Walloon TEC/SRWT toelage multi-year from budget or annual report.",,2026-07-20T11:40:00Z,2026-07-20T11:40:00Z,
+rq_058,TEC Wallonia annual subsidy multi-year,continuous,5,done,L5,tec,"Parallel STIB/De Lijn: official Walloon TEC/SRWT toelage multi-year from budget or annual report.",gap_otw_dotatie_cash,2026-07-20T11:40:00Z,2026-07-20T12:00:00Z,"Henry 960m 2024/1003m 2028; Cour company 1088.8/1200.6m 2025; prog 14.045 CL 861m; +45m hors PRW; FOI cash codes"
 
 
 

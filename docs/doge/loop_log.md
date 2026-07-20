@@ -437,6 +437,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none new
 - Next: rq_058 TEC multi-year or rq_051 regional SWA assent
 
+### 2026-07-20T12:00:00Z — tick 59
+- Unit: rq_058 (TEC/OTW Wallonia multi-year subsidy)
+- Found (strong dual-perimeter): **Minister Henry PQ 596** (Apr 2024): OTW **financing €960 m (2024)** → **€1.003 bn (2028)** indexation; **+€200 m** step 2023→24; **invest plan €1.586 bn (2024–28)**. **Cour des comptes RW BI2025**: OTW **company recettes €1.088.8 m / dépenses €1.200.6 m**; SEC recettes €1.018.4 m / solde **−€139.4 m**; regional **programme 14.045** CL **€813.7 m (2024) → €861.1 m (2025)**. **Dolimont** official: **+€45 m 2025 vs 2024 hors PRW** (corrects earlier “cut” mislabel). **Desquesnes CSP note Dec 2025**: rewrite 2026–29; coverage **10%→≥14% by 2030**; internal savings **€20 m by 2029**; TàD **€22 m 2028–29**. Absolute AB cash series 2023–26 + 2026 CSP socle still incomplete → FOI.
+- Wrote: entity `tec`; 14 budget rows; commitment multi-year; fixed cmt_tec +45m; leaderboard; 4 sources + Cour PDF raw; rq_058=done; ticks=59
+- FOI: gap_otw_dotatie_cash **ready** (not sent)
+- Next: rq_051 Wallonia/FWB/Brussels SWA assent
+
 
 
 

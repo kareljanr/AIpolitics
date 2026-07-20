@@ -205,3 +205,17 @@ bud_charleroi_rev_own_2025,city_charleroi,2025,577887104,,,budgeted,src_charlero
 bud_charleroi_transfers_4p_2026,city_charleroi,2026,240303135,,,budgeted,src_charleroi_budget_2026_press,medium,"Dépenses de transfert 4P (police pompiers pensions pauvreté) 240303135 EUR; -4.32pct vs 2025"
 bud_charleroi_budget_total_2026,city_charleroi,2026,567000000,,,budgeted,src_charleroi_budget_567m,medium,"Press: budget 2026 ~567m EUR balanced (Oxygène); exact official PDF not retrieved this tick"
 bud_charleroi_invest_borrow_2026,city_charleroi,2026,20000000,,,budgeted,src_charleroi_budget_2026_press,medium,"Mayor: only 20m borrowed for investment 2026 (~3x less than usual)"
+bud_otw_financing_2024,tec,2024,960000000,,,budgeted,src_pw_otw_pq_596,strong,Minister Henry PQ 596: financement OTW 960 mEUR 2024 refined validated; +200m vs 2023
+bud_otw_financing_2028,tec,2028,1003000000,,,budgeted,src_pw_otw_pq_596,strong,Minister Henry: besoins OTW 1003 mEUR 2028 indexation included CSP path stable after 2024 step
+bud_otw_company_recettes_2025,tec,2025,1088800000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour: OTW budget initial 2025 recettes 1088.8 mEUR company perimeter includes own rev + PRW + subsidies
+bud_otw_company_depenses_2025,tec,2025,1200600000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour: OTW budget initial 2025 depenses 1200.6 mEUR
+bud_otw_sec_recettes_2025,tec,2025,1018393670,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour annex: OTW SEC recettes 1018.4 mEUR BI2025; SEC solde -139.4 mEUR
+bud_otw_sec_depenses_2025,tec,2025,1157757270,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour annex: OTW SEC depenses 1157.8 mEUR BI2025
+bud_wal_prog_14_045_cl_2024,tec,2024,813657000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour Table27: programme 14.045 Transport urbain interurbain scolaire CL initial 2024 = 813.657 mEUR
+bud_wal_prog_14_045_cl_2025,tec,2025,861053000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour Table27: programme 14.045 CL initial 2025 = 861.053 mEUR (+6pct); dual perimeter vs company 1088m
+bud_wal_prog_14_045_ce_2025,tec,2025,895581000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour Table27: programme 14.045 CE initial 2025 = 895.581 mEUR (+10pct vs BI2024)
+bud_otw_delta_2025_hors_prw,tec,2025,45000000,,,budgeted,src_dolimont_budget_2025_otw,strong,Dolimont press: OTW means +45 mEUR 2025 vs 2024 hors plan de relance NOT a cut
+bud_otw_invest_plan_2024_28,tec,2024,1586000000,,,budgeted,src_pw_otw_pq_596,strong,Minister Henry: OTW investment envelope 1586 mEUR over 2024-2028 rolling stock 20pct Liege tram extensions 18pct buildings 14pct
+bud_otw_invest_spend_budget_2025,tec,2025,315900000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour: OTW investment spend budget 315.9 mEUR 2025 of which 146.8m PIMPT+PRW
+bud_otw_internal_savings_target_2029,tec,2029,20000000,,,budgeted,src_desquesnes_csp_otw_2025,medium,Desquesnes CSP note: OTW must achieve 20 mEUR internal efficiency savings by 2029
+bud_otw_tad_2028_29,tec,2028,22000000,,,budgeted,src_desquesnes_csp_otw_2025,medium,Desquesnes: transport a la demande rural reinforced 22 mEUR over 2028-2029
