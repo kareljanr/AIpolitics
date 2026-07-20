@@ -325,6 +325,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_041 debt path or rq_042 Flanders BO2026
 
+### 2026-07-20T06:40:00Z — tick 43
+- Unit: rq_041 (GG debt path and snowball risk)
+- Found (strong): **NAI EDP Apr 2026** debt **107.9% GDP** end-2025 → **~€692.7 bn** (0.1079 × GDP €642.015 bn). Deficit **−5.2% GDP**; interest flow **€14.282 bn** (2.2% GDP). **NBB Jun 2026 projections** (cut-off 22 May 2026): debt **111.3% / 112.9% / 114.8%** for 2026–28 (~**115%** by 2028); deficit path **−5.2 → −5.3 → −5.5 → −5.7%**. **FPB Jun 2025** (older horizon): deficit **5.4% → 6.5% by 2030**; debt **~120% GDP by 2030**. Snowball: primary deficit persists while interest rises → ratio climbs; fix is **primary surplus**, not labelling debt as L5 waste.
+- Wrote: budgets debt stock+ratio path+deficit; commitment cmt_gg_debt_path; leaderboard lb_gg_debt_stock; entity gg_debt; sources NBB/FPB; rq_041=done; queued rq_043–044; ticks=43
+- FOI: none
+- Next: rq_042 Flanders BO2026 confirm or rq_043 Debt Agency EUR stock
+
 
 
 

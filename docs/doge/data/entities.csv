@@ -24,6 +24,7 @@ riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,socia
 riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santé (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
 pensioenen_fed,Federale pensioenen (stelsels),Pensions fédérales,Federal pensions schemes,social_security,sec_ss,bi,,,,Map sub-entities in later ticks
 gg_interest,Interest expense general government,Charges d'intérêts S.13,GG interest expense (category),other,gg_belgium,bi,,,,Not an institution; ESA interest line
+gg_debt,Public debt stock general government,Dette publique S.13,GG consolidated gross debt (stock),other,gg_belgium,bi,,,,Not an institution; ESA EDPs debt; 107.9pct GDP end-2025 ~692.7bn
 vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BO2026 uitgaven 66.0 bn (budgeted)
 wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2025 dépenses 22.029 bn
 brussels_gov,Brusselse regering,Gouvernement bruxellois,Brussels government,region,sec_brussels,bi,https://be.brussels,,,Total expenditure TBD

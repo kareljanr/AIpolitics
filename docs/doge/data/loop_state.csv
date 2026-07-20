@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T06:20:00Z,rq_040,42,no,"Fuel cards multi-year FFS done. Next rq_041 debt path or rq_042 Flanders. FOI stack large."
+main,continuous,continuous,2026-07-20T06:40:00Z,rq_041,43,no,"Debt path 107.9→~115pct 2028 NBB; FPB ~120 2030. Next rq_042 Flanders or rq_043 Debt Agency. FOI stack large."
