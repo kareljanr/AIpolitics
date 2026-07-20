@@ -353,6 +353,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_045 Flanders BA2026 or rq_046 MTFSP path
 
+### 2026-07-20T08:00:00Z — tick 47
+- Unit: rq_045 (Flanders BA2026 adaptation)
+- Found (Rekenhof Jun 2026 + Vlaams Parlement, strong): BA2026 ESR **ontvangsten €62.2 bn** / **uitgaven €67.1 bn** → **vorderingensaldo −€3.6 bn** (BO was −€2.9 bn). Vs begrotingsdoelstelling (excl Oosterweel+relance): **−€2.18 bn** (was −€1.7 bn). Deltas vs BO: VEK **+€1.081 bn**, VAK **+€3.034 bn** (Lantis/Oosterweel VAK **+€2.514 bn**); index VEK **+€324.5 m**; Fluvius VEK **€1.1 bn**. OV **€20.2 bn VEK** / WVG **€17.8 bn VEK**. Schuld **+€6.8 bn** (+13.5% y/y); rating AA-. Entity rank #4 updated to **€67.1 bn**.
+- Wrote: budgets BA lines; commitment supersede; programmes OV/WVG/total; rank+entity; sources + raw PDFs; rq_045=done; queued rq_047 VL debt; ticks=47
+- FOI: none
+- Next: rq_046 MTFSP or rq_047 Flanders debt stock
+
 
 
 

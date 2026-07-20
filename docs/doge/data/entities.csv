@@ -26,7 +26,7 @@ pensioenen_fed,Federale pensioenen (stelsels),Pensions fédérales,Federal pensi
 gg_interest,Interest expense general government,Charges d'intérêts S.13,GG interest expense (category),other,gg_belgium,bi,,,,Not an institution; ESA interest line
 gg_debt,Public debt stock general government,Dette publique S.13,GG consolidated gross debt (stock),other,gg_belgium,bi,,,,Not an institution; ESA EDPs debt; 107.9pct GDP end-2025 ~692.7bn
 debt_agency_be,Belgisch Agentschap van de Schuld,Agence de la Dette,Belgian Debt Agency,federal,sec_federal,bi,https://www.debtagency.be,,,Manages Entity I federal debt; stock 552.7bn end-2025 vs GG ESA 692.7bn
-vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BO2026 uitgaven 66.0 bn headline / VEK 66.03 bn; BA2025 VEK 66.47 bn; ESR saldo -2.9 bn
+vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BA2026: uitgaven 67.1bn / ontvangsten 62.2bn / saldo -3.6bn (-2.18 vs doel); BO was 66.0/61.6/-2.9
 wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2025 dépenses 22.029 bn
 brussels_gov,Brusselse regering,Gouvernement bruxellois,Brussels government,region,sec_brussels,bi,https://be.brussels,,,Total expenditure TBD
 fwb_gov,FWB regering & diensten,Gouvernement FWB,FWB government,community,sec_fwb,fr,,,,~15 bn dépenses 2025 medium conf
