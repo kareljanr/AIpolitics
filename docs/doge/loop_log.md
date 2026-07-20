@@ -381,6 +381,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none (method+caps public)
 - Next: rq_049 Flanders non-Maastricht claims or rq_050 SWA ratification
 
+### 2026-07-20T09:20:00Z — tick 51
+- Unit: rq_049 (Flanders non-Maastricht federal claims)
+- Found (Rekenhof BA2026 §5.1, strong): Flanders owes federal government **€2.1843 bn** (ziekenhuisinfrastructuur) + **€473.8 m** (definitieve vaststelling **autonomiefactor**) = **€2.658 bn** total. **Excluded from Maastricht** consolidated debt (€56.97 bn). Rekenhof: these stocks are **no longer reported in de algemene toelichting**; recommends Vlaams Parlement be kept informed. Multi-year amortisation cash-by-year **not public** this tick → FOI.
+- Wrote: three budget rows; commitment; leaderboard; FOI gap_vl_non_maastricht_claims **ready** (not sent); rq_049=done; ticks=51
+- FOI: gap_vl_non_maastricht_claims ready — human send only
+- Next: rq_050 SWA ratification / control accounts
+
 
 
 
