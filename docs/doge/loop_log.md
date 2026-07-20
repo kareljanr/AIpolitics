@@ -374,6 +374,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_048 Entity I/II MTFSP split
 
+### 2026-07-20T09:00:00Z — tick 50
+- Unit: rq_048 (Entity I vs II MTFSP effort split)
+- Found (strong): **MTFSP Mar 2025** deferred Entity I/II split. **HRF Apr 2025** (recalc of Jul 2024): **verdeelsleutel 3** = share of (final primary expenditure + own receipts) — preferred key. Differentiated **max net primary exp growth %** (7y path): **Entity I avg 2.72%** (2025 **3.81%**, 2026 **2.96%**); **Flanders 2.68%** (3.63 / 2.17); **FWB 1.52%**; **Wallonia 1.45%**; **Brussels −0.22%** (very tight); **DG negative**. **Overlegcomité Mar 2026** SWA: uses sleutel 3 for current plan; **fallback binding targets** if no agreement; control accounts via HRF; **defence national escape clause fully to federal** (Rekenhof/APR). GG outturn path still **3.8% / 2.0%** net exp 2025–26 (cumul 5.9% < 6.1% cap, APR). Parliaments still ratifying SWA.
+- Wrote: entity growth-cap budgets; commitment; leaderboard; sources + HRF/APR PDFs; rq_048=done; queued rq_050 ratification; ticks=50
+- FOI: none (method+caps public)
+- Next: rq_049 Flanders non-Maastricht claims or rq_050 SWA ratification
+
 
 
 
