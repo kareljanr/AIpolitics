@@ -423,6 +423,13 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: rq_056 Brussels net-exp vs HRF or rq_051 regional SWA assent
 
+### 2026-07-20T11:20:00Z — tick 57
+- Unit: rq_056 (Brussels net primary exp vs HRF −0.61%)
+- Found (strong): **HRF Apr 2025** BCR (+locals) net primary growth caps: **+2.03% (2025)** / **−0.61% (2026)** / avg **−0.22% (2025–31)** — tightest large entity path. **Cour des comptes Budgets RBC 2026**: exposé confirms multi-year spending cuts narrative but **does not publish** the EU/HRF **dépenses primaires nettes** growth rate — compliance **cannot be scored** from public budget tables alone. **SGRBC liquidation +1.2%** (Cour) is a **different metric** (gross credits) — not a substitute for net-primary compliance (do not invent a verdict). FOI for official calculation.
+- Wrote: HRF cap budgets; leaderboard opacity; commitment note; FOI gap_bru_net_primary **ready**; rq_056=done; queued rq_057 STIB multi-year; ticks=57
+- FOI: gap_bru_net_primary ready (not sent)
+- Next: rq_057 STIB multi-year or rq_051 regional SWA assent
+
 
 
 

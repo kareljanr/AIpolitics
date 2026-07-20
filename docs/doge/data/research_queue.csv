@@ -70,7 +70,8 @@ rq_052,Flanders HRF net-exp compliance BA2026 vs 2.17pct cap,continuous,4,done,L
 rq_053,Wallonia total expenditure 2026 budget confirm,continuous,5,done,L1,wallonie_gov,"Source Walloon 2026 initial/adapted budget total dépenses and link entity rank (2025 was 22.0bn initial).",,2026-07-20T10:00:00Z,2026-07-20T10:20:00Z,"Initial 2026: dép 21.336bn rec 18.516bn SEC -2.016bn; savings 270m; net primary growth -2.09% vs CSF 0.92%"
 rq_054,FWB total expenditure 2026 primary source,continuous,5,done,L1,fwb_gov,"Replace ~15bn medium FWB total with official 2025-2026 décret/budget figure; entity rank #9.",,2026-07-20T10:20:00Z,2026-07-20T10:40:00Z,"Initial 15.407bn dep / 13.602bn rec / SEC -1.608bn; adjusted 15.59/13.67/deficit 1.77; edu 10.93bn"
 rq_055,Brussels region 2026 total update vs SGRBC 8bn,continuous,5,done,L1,brussels_gov,"Confirm BCR 2026 full consolidated total if published beyond Cour des comptes SGRBC 8.0bn liquidation credits.",,2026-07-20T10:40:00Z,2026-07-20T11:00:00Z,"Confirmed SGRBC 8.0/8.9bn; SEC -956.6m; net financer -1.75bn; debt consol 16.1bn end-2025; path balance 2029"
-rq_056,Brussels net primary exp growth vs HRF -0.61pct 2026,continuous,4,open,L1,brussels_gov,"Compute BCR 2026 net primary expenditure growth vs HRF -0.61pct cap (Cour notes exposé lacks this metric).",,2026-07-20T11:00:00Z,2026-07-20T11:00:00Z,
+rq_056,Brussels net primary exp growth vs HRF -0.61pct 2026,continuous,4,done,L1,brussels_gov,"Compute BCR 2026 net primary expenditure growth vs HRF -0.61pct cap (Cour notes exposé lacks this metric).",gap_bru_net_primary,2026-07-20T11:00:00Z,2026-07-20T11:20:00Z,"HRF cap -0.61% 2026 confirmed; official BCR net-primary growth not published (Cour); FOI ready; SGRBC liq +1.2% not substitute"
+rq_057,STIB multi-year subsidy cash path 2024-2027,continuous,5,open,L5,stib,"Map STIB regional financing multi-year beyond single 1.168bn 2026 programme line; compare De Lijn/TEC.",,2026-07-20T11:20:00Z,2026-07-20T11:20:00Z,
 
 
 
