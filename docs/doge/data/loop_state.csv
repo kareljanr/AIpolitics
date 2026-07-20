@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T04:40:00Z,rq_034,37,no,"NMBS cross-check: ESA+FPB Infrabel 1.105bn. Next rq_036 company cars. FOI stack large."
+main,continuous,continuous,2026-07-20T05:00:00Z,rq_036,38,no,"Company cars: FPS residual opacity FOI. Next rq_038 defence (prio7) or rq_037 pro diesel. FOI stack large."

@@ -290,6 +290,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_nmbs still ready (budget codes)
 - Next: rq_036 company cars taxex (only open research left)
 
+### 2026-07-20T05:00:00Z — tick 38
+- Unit: rq_036 (Company cars FPS package deep lines)
+- Found: **Full package still only secondary ~€2.3 bn (2024)** — not a single FPS inventory line. Explicit FPS **car-named residual** sum **~€13 m** (CIT business cars CG €12.44 m + electric cars €0.85 m + small VAT invalids). Related mobility taxex now mapped: **professional diesel €557.83 m**; industrial gas oil motor **€312.54 m**; commuting public **€376.84 m**; other commute **€155.33 m**; bike commute **€126.89 m**. Opacity of official BIK/SSC/PIT package decomposition → FOI prio 9.
+- Wrote: taxex residual sum + pro diesel + mobility lines; leaderboard note; FOI gap_company_cars_te_package ready; rq_036=done; queued rq_037–039; ticks=38
+- FOI: gap_company_cars_te_package ready (not sent)
+- Next: rq_038 defence (prio 7) or rq_037 pro diesel phase-out
+
 
 
 
