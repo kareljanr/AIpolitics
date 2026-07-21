@@ -479,6 +479,13 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_mons_budget_l5 ready (not sent)
 - Next: rq_059 multi-parliament final SWA votes (only remaining open public task) or seed new research
 
+### 2026-07-21T08:00:00Z — tick 65
+- Unit: rq_064 (Plan Oxygène multi-city envelope)
+- Found (strong dual track): **Collignon PQ Feb 2023**: 34 communes requested **€1.791 bn** cumul 2022–26; GW validated **tranche 2022 €302.1 m** for **21 communes** (interest full + 15% capital for 16/21). **Desquesnes Jul 2025**: first **2025 bank lot €66.1 m** / **15 communes** (ING **€40.86 m** 13c; Belfius **€25.29 m** Tournai+Verviers) with named amounts (e.g. Herstal **€8.52 m**, Verviers **€19.25 m**, Huy **€6.01 m**). **Desquesnes CRI Dec 2025**: 6 large cities without bank offer → **CRAC borrows €210 m** (2×€105 m) and on-lends **2025** draw rights; regional cost ~**€25 m/yr** for 21 communes. City samples already: Namur **€45.7 m** 2026 strong; Mons **€27 m** Mag; Charleroi ~**€48 m** medium. Full multi-year per-commune table still incomplete → FOI.
+- Wrote: budgets (envelope + 2025 named); commitment; leaderboard; sources + CRI PDF; FOI gap_plan_oxygene_cash **ready**; rq_064=done; ticks=65
+- FOI: gap_plan_oxygene_cash ready (not sent)
+- Next: rq_065 FEDER L5 (prio 4) or rq_059 final SWA votes (prio 3)
+
 
 
 

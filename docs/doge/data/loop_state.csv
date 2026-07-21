@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-20T13:15:00Z,rq_063,64,no,"Mons Mag 242.5m; L5 2025 sample; FOI full 2026 PDF. Next rq_059 SWA final votes only open public."
+main,continuous,continuous,2026-07-21T08:00:00Z,rq_064,65,no,"Plan Oxygene: 1.79bn request; 302m 2022; 66.1m+210m 2025 tracks; FOI full. Next rq_065 FEDER or rq_059 SWA."

@@ -258,3 +258,13 @@ bud_mons_basket_umh_2025,city_mons,2025,220000,,,budgeted,src_mons_compte_ordi_2
 bud_mons_basket_sponsor_2025,city_mons,2025,250000,,,budgeted,src_mons_compte_ordi_2025,strong,Basket UMH sponsoring 250000 EUR 2025
 bud_mons_rca_2025,city_mons,2025,380000,,,budgeted,src_mons_compte_ordi_2025,strong,Subside R.C.A. 380000 EUR 2025 sports line
 bud_mons_film_festival_2025,city_mons,2025,45000,,,budgeted,src_mons_compte_ordi_2025,strong,Festival International du Film de Mons 45000 EUR 2025
+bud_oxygene_request_cumul_2022_26,wallonie_gov,2022,1791040604,,,budgeted,src_pw_oxygene_collignon_2023,strong,34 communes cumulative request 1791040604 EUR for period 2022-2026 (Collignon PQ Feb 2023) — requested not all validated
+bud_oxygene_tranche_2022,wallonie_gov,2022,302113898,,,budgeted,src_pw_oxygene_collignon_2023,strong,GW 15 Dec 2022 validated tranche 2022 302113898 EUR for 21 communes
+bud_oxygene_lot1_2025,wallonie_gov,2025,66147024,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,First 2025 bank lot 66.1 mEUR for 15 communes (ING 40855585 + Belfius 25291439)
+bud_oxygene_crac_borrow_2025_six,wallonie_gov,2025,210000000,,,budgeted,src_pw_cri8_oxygene_210m,strong,CRAC bank borrow 210m (2x105m) to on-lend 2025 draw rights to 6 bank-refused cities Desquesnes CRI Dec 2025
+bud_oxygene_regional_cost_annual,wallonie_gov,2025,25000000,,,budgeted,src_pw_cri8_oxygene_210m,strong,Minister Desquesnes: Region pays ~25 mEUR this year interest+partial capital for 21 communes under Oxygene
+bud_oxygene_herstal_2025,city_herstal,2025,8521010,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Herstal Plan Oxygene 2025 lot ING 8521009.95 EUR
+bud_oxygene_verviers_2025,city_verviers,2025,19250574,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Verviers Plan Oxygene 2025 lot Belfius 19250574 EUR
+bud_oxygene_tournai_2025,city_tournai,2025,6040865,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Tournai Plan Oxygene 2025 lot Belfius 6040865.36 EUR
+bud_oxygene_huy_2025,city_huy,2025,6005284,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Huy Plan Oxygene 2025 lot ING 6005284.46 EUR
+bud_oxygene_sambreville_2025,city_sambreville,2025,6539707,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Sambreville Plan Oxygene 2025 lot ING 6539707.45 EUR
