@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T08:35:00Z,rq_059,67,no,"SWA final votes still none (Jul 2026). SERV VL filed 17 Jun. Next: rq_067 EFRO Flanders L5 or rq_066 SWA recheck."
+main,continuous,continuous,2026-07-21T08:50:00Z,rq_067,68,no,"EFRO VL 276m EU + GTI slices; Interreg VL-NL 205m; FOI L5 projects. Next: rq_068 Brussels EFRO or rq_066 SWA recheck."

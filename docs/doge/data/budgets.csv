@@ -282,3 +282,19 @@ bud_feder_idea_click_mons,wallonie_gov,2027,565534.08,,,commitment,src_wal_feder
 bud_feder_arlon_cyclo,city_arlon,2027,520668,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Arlon cyclo-pieton liaison 520668; FEDER 231408 Wallonie 289260
 bud_feder_cap_innove_id2green,wallonie_gov,2027,225725.77,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Cap Innove ID2GREEN circular economy support 225725.77; FEDER 90290.31 Wallonie 135435.46
 bud_feder_ice_louvain,wallonie_gov,2027,223057.8,,,commitment,src_wal_feder_resume_citoyen_2025,strong,ICE Louvain SME accompaniment 223057.80; FEDER 89223.12 Wallonie 133834.68
+bud_vl_efro_eu_2127,vlaanderen_gov,2027,276078230.77,,,commitment,src_vl_efro_themis_med_2022,strong,EFRO Vlaanderen EU support total 276078230.77 current prices 2021-27 (Themis)
+bud_vl_efro_eu_meer_ontwikkeld_2127,vlaanderen_gov,2027,163515597.9,,,commitment,src_vl_efro_themis_med_2022,strong,Meer ontwikkelde regio EFRO 163515597.90
+bud_vl_efro_eu_limburg_transitie_2127,vlaanderen_gov,2027,112562632.87,,,commitment,src_vl_efro_themis_med_2022,strong,Transitieregio Limburg EFRO 112562632.87
+bud_vl_efro_total_programme_2127,vlaanderen_gov,2027,596000000,,,commitment,src_vl_efro_themis_med_2022,medium,Total programme budget class ~596m at 40pct/60pct co-financing rates (Themis)
+bud_vl_efro_slim_2127,vlaanderen_gov,2027,160045351.17,,,commitment,src_vl_efro_themis_med_2022,strong,Priority Slim Vlaanderen EFRO 160045351.17
+bud_vl_efro_duurzaam_2127,vlaanderen_gov,2027,106696900.78,,,commitment,src_vl_efro_themis_med_2022,strong,Priority Duurzaam Vlaanderen EFRO 106696900.78 (~40pct programme)
+bud_vl_efro_gti_kempen_2127,vlaanderen_gov,2027,10884960.99,,,commitment,src_vl_efro_themis_med_2022,strong,Named GTI Kempen EFRO slice 10884960.99 current prices
+bud_vl_efro_gti_westvl_2127,vlaanderen_gov,2027,25728089.61,,,commitment,src_vl_efro_themis_med_2022,strong,Named GTI West-Vlaanderen EFRO slice 25728089.61
+bud_vl_efro_gti_stedelijk_ag_2127,vlaanderen_gov,2027,19790838.16,,,commitment,src_vl_efro_themis_med_2022,strong,Named GTI stedelijke ontwikkeling Antwerpen+Gent EFRO 19790838.16 (60/40 target)
+bud_interreg_vlaned_eu_2127,vlaanderen_gov,2027,205405605,,,commitment,src_keep_interreg_vlaned_2127,strong,Interreg VL-NL EU funding 205405605 incl TA (keep.eu); portal cites 205.5m allocated
+bud_interreg_vlaned_total_2127,vlaanderen_gov,2027,410811210,,,commitment,src_keep_interreg_vlaned_2127,strong,Interreg VL-NL total budget 410811210 incl TA (keep.eu)
+bud_interreg_vlaned_slim_allocated,vlaanderen_gov,2026,72500000,,,outturn,src_interreg_vlaned_home,strong,Theme Een slimmer Europa allocated/spent class 72.5m (portal Jul 2026)
+bud_interreg_vlaned_groen_allocated,vlaanderen_gov,2026,73600000,,,outturn,src_interreg_vlaned_home,strong,Theme Een groener Europa 73.6m (portal)
+bud_interreg_vlaned_sociaal_allocated,vlaanderen_gov,2026,47100000,,,outturn,src_interreg_vlaned_home,strong,Theme Een socialer Europa 47.1m (portal)
+bud_interreg_vlaned_grenzen_allocated,vlaanderen_gov,2026,7300000,,,outturn,src_interreg_vlaned_home,strong,Theme Een Europa zonder grenzen 7.3m (portal)
+bud_interreg_vlaned_projects_count,vlaanderen_gov,2026,110,,,outturn,src_interreg_vlaned_home,strong,COUNT not EUR: 110 approved Interreg VL-NL projects (portal)

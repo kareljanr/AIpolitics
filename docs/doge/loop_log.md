@@ -516,3 +516,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_059=done; seeded **rq_066** recheck + **rq_067** Flanders EFRO L5; ticks=67
 - FOI: none (parliamentary tracking, not budget opacity letter)
 - Next: **rq_067** Flanders EFRO named L5 (prio 4) or **rq_066** SWA recheck (prio 3)
+
+### 2026-07-21T08:50:00Z — tick 68
+- Unit: rq_067 (Flanders EFRO/Interreg 2021-27 named L5 sample)
+- Found (strong programme; partial L5): **EFRO Vlaanderen EU €276.078 m** (meer ontwikkeld **€163.516 m** + Limburg transitie **€112.563 m**); total programme budget class **~€596 m** (40%/60% co-financing). Priorities: Slim **€160.045 m** / Duurzaam **€106.697 m**. Named GTI slices: Kempen **€10.885 m**; West-Vlaanderen **€25.728 m**; stedelijke ontwikkeling Antwerpen+Gent **€19.791 m** (Themis VR mededeling). **Interreg VL-NL**: keep.eu total **€410.811 m** / EU **€205.406 m**; portal **110** projects, **€205.5 m** allocated; themes slim **€72.5 m** / groen **€73.6 m** / sociaal **€47.1 m** / grenzen **€7.3 m**. VLAIO bulk project portal **blocked/incomplete** for individual 2021-27 project EUR this tick; older 2014-20 L5 not used as 2021-27 sample.
+- Wrote: 16 budgets; 5 commitments; 3 leaderboard; 4 sources; entities vlaio+interreg_vlaned; FOI gap_vl_efro_l5 **ready**; rq_067=done; seeded rq_068 Brussels EFRO; ticks=68
+- FOI: gap_vl_efro_l5 ready (not sent)
+- Next: **rq_068** Brussels EFRO L5 (prio 4) or **rq_066** SWA recheck (prio 3)

@@ -58,3 +58,5 @@ city_verviers,Verviers,Verviers,City of Verviers,local,sec_wallonia,fr,,,,Plan O
 city_tournai,Doornik / Tournai,Tournai,City of Tournai,local,sec_wallonia,fr,,,,Plan Oxygene 2025 6.04m Desquesnes
 city_arlon,Aarlen / Arlon,Arlon,City of Arlon,local,sec_wallonia,fr,https://www.arlon.be,,,FEDER cyclo-pieton 0.521m resume 2025
 waleurope,WalEurope SPW,WalEurope SPW,Walloon EU funds management portal,agency,wallonie_gov,fr,https://europe.wallonie.be,,,FEDER/FTJ 2021-27 managing info portal
+vlaio,Agentschap Innoveren en Ondernemen (VLAIO),Agence Flamande pour l'Innovation et l'Entreprise,Flanders Innovation and Entrepreneurship Agency,agency,vlaanderen_gov,nl,https://www.vlaio.be,openbaarheid@vlaanderen.be,Ellipsgebouw Koning Albert II-laan 35 bus 12 1030 Brussel,EFRO Beheerautoriteit Flanders; FOI gap_vl_efro_l5
+interreg_vlaned,Interreg Vlaanderen-Nederland,Interreg Flandre-Pays-Bas,Interreg Flanders-Netherlands,programme,vlaanderen_gov,nl,https://interregvlaned.eu/,,,Cross-border Interreg VI-A; EU 205.4m total 410.8m 2021-27
