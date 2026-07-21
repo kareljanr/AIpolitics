@@ -298,3 +298,16 @@ bud_interreg_vlaned_groen_allocated,vlaanderen_gov,2026,73600000,,,outturn,src_i
 bud_interreg_vlaned_sociaal_allocated,vlaanderen_gov,2026,47100000,,,outturn,src_interreg_vlaned_home,strong,Theme Een socialer Europa 47.1m (portal)
 bud_interreg_vlaned_grenzen_allocated,vlaanderen_gov,2026,7300000,,,outturn,src_interreg_vlaned_home,strong,Theme Een Europa zonder grenzen 7.3m (portal)
 bud_interreg_vlaned_projects_count,vlaanderen_gov,2026,110,,,outturn,src_interreg_vlaned_home,strong,COUNT not EUR: 110 approved Interreg VL-NL projects (portal)
+bud_bru_feder_eu_2127,brussels_gov,2027,121284116,,,commitment,src_bru_feder_op_pdf_2127,strong,OP Table10/11 EU contribution EFRO Brussels 2021-27 EUR 121284116
+bud_bru_feder_national_2127,brussels_gov,2027,181926174,,,commitment,src_bru_feder_op_pdf_2127,strong,National contribution (public+private) 181926174
+bud_bru_feder_total_2127,brussels_gov,2027,303210290,,,commitment,src_bru_feder_op_pdf_2127,strong,Total programme financial allocation 303210290; 40pct EU co-financing rate
+bud_bru_feder_p1_total_2127,brussels_gov,2027,125832270,,,commitment,src_bru_feder_op_pdf_2127,strong,Priority P1 Innovation digitisation competitiveness total 125832270 (EU 50332908)
+bud_bru_feder_p2_total_2127,brussels_gov,2027,136444630,,,commitment,src_bru_feder_op_pdf_2127,strong,Priority P2 total 136444630 (EU 54577852)
+bud_bru_feder_p3_total_2127,brussels_gov,2027,13644465,,,commitment,src_bru_feder_op_pdf_2127,strong,Priority P3 total 13644465 (EU 5457786)
+bud_bru_feder_p4_total_2127,brussels_gov,2027,27288925,,,commitment,src_bru_feder_op_pdf_2127,strong,Priority P4 total 27288925 (EU 10915570)
+bud_bru_feder_projects_selected_2026,brussels_gov,2026,120,,,outturn,src_be_brussels_efro_results_2026,strong,COUNT not EUR: 120 projects selected under 2021-27 programme as of Jul 2026 article
+bud_bru_feder_call_digital_os12,brussels_gov,2023,29222400.99,,,budgeted,src_bru_feder_call_digital_1_2,strong,Named call OS1.2 digital development FEDER+RBC envelope 29222400.99
+bud_bru_feder_call_saut_qualitatif,brussels_gov,2023,15141919.79,,,budgeted,src_bru_feder_call_saut_qualitatif,strong,Named call 1.1 saut qualitatif FEDER+RBC 15141919.79
+bud_bru_feder_call_pme,brussels_gov,2023,6679415.08,,,budgeted,src_bru_feder_call_pme,strong,Named call accompagnement PME FEDER+RBC 6679415.08
+bud_bru_feder_2014_20_total,brussels_gov,2020,191000000,,,outturn,src_be_brussels_efro_results_2026,strong,2014-2020 programming results class 191m total EU+region; 68 projects — NOT 2021-27
+bud_bru_feder_2014_20_projects,brussels_gov,2020,68,,,outturn,src_be_brussels_efro_results_2026,strong,COUNT not EUR: 68 projects 2014-20 results article

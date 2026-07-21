@@ -523,3 +523,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 16 budgets; 5 commitments; 3 leaderboard; 4 sources; entities vlaio+interreg_vlaned; FOI gap_vl_efro_l5 **ready**; rq_067=done; seeded rq_068 Brussels EFRO; ticks=68
 - FOI: gap_vl_efro_l5 ready (not sent)
 - Next: **rq_068** Brussels EFRO L5 (prio 4) or **rq_066** SWA recheck (prio 3)
+
+### 2026-07-21T09:05:00Z — tick 69
+- Unit: rq_068 (Brussels EFRO/FEDER 2021-27 L5 sample)
+- Found (strong OP; reclassified press figure): Official OP PDF: **EU €121.284 m** + national **€181.926 m** = **total €303.210 m** (40% EU). Priorities totals: **P1 €125.832 m** / **P2 €136.445 m** / **P3 €13.644 m** / **P4 €27.289 m**. be.brussels (06.07.2026): **120 projects selected** under 2021-27; **€191 m / 68 projects is 2014-2020 results**, not current OP. Named **call envelopes** (FEDER+RBC): digital OS1.2 **€29.222 m**; saut qualitatif **€15.142 m**; accompagnement PME **€6.679 m**. Individual project EUR bulk incomplete ? FOI.
+- Wrote: 13 budgets; 5 commitments; 3 leaderboard; 5 sources; entity feder_brussels; FOI gap_bru_efro_l5 **ready**; rq_068=done; seeded rq_069 DG; ticks=69
+- FOI: gap_bru_efro_l5 ready (not sent)
+- Next: **rq_069** German-speaking Community budget (prio 4) or **rq_066** SWA recheck (prio 3)
