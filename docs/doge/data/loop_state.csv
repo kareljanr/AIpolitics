@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T09:35:00Z,rq_066,71,no,"SWA final votes still none (tick71). Next: rq_070 province Liege/Lux budget L1+L5."
+main,continuous,continuous,2026-07-21T09:50:00Z,rq_070,72,no,"Province Liege 2026 ord 563.6m + extra 68.1m. Next: rq_072 Lux province or rq_071 SWA."

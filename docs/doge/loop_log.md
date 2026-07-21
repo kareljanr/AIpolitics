@@ -544,3 +544,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_066=done; seeded **rq_071** lower-prio recheck; ticks=71
 - FOI: none (process tracking)
 - Next: **rq_070** Province Liège/Luxembourg budget L1+L5 (prio 3)
+
+### 2026-07-21T09:50:00Z — tick 72
+- Unit: rq_070 (Province de Liège budget L1 + L5 sample)
+- Found (strong, official Budget 2026 PDF 25-26/010): **Service ordinaire** recettes **€563.597 m** / dépenses **€563.574 m** (boni **€22.968**). **2025 après MB** ~**€696.4 m** dep. Compte **2024** dép. eng. **€664.5 m**. **Extraordinaire 2026** recettes **€68.151 m** / dép. **€68.140 m**. Combined dep. **~€631.7 m**. Named: **précompte immobilier €258.5 m** rec; **fonds des provinces €40.1 m**; **zones de secours provincial €45.600 m** (zones 1–5 **€44.428 m** + zone 6 DG **€1.172 m**); **enseignement secondaire €142.197 m**; **supérieur €69.302 m**; **sports €8.311 m**; **Opéra Royal Wallonie €150k**; **OPL €70k**.
+- Wrote: 17 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_liege; raw PDF; rq_070=done; seeded rq_072 Lux province; ticks=72
+- FOI: none (official full budget public)
+- Next: **rq_072** Province Luxembourg budget or **rq_071** SWA recheck (prio 2)

@@ -329,3 +329,20 @@ bud_dg_local_dots_2025,sec_dg,2025,3000000,,,budgeted,src_ccrek_dg_budget_2025,s
 bud_dg_savings_pack_annual,sec_dg,2026,23000000,,,projection,src_paasch_haushalt_2026,medium,Two DG savings packages total ~23m EUR per year (Paasch 20 Oct 2025 speech)
 bud_dg_infra_cut_path,sec_dg,2026,32000000,,,projection,src_paasch_haushalt_2026,medium,Infrastructure expenditure cut 32m (Paasch/BRF Oct 2025)
 bud_dg_hospital_invest_need,sec_dg,2026,150000000,,,estimate,src_paasch_haushalt_2026,medium,Minister: need at least 150m further invest in two hospitals vs federal norms
+bud_liege_prov_ord_dep_2026,prov_liege,2026,563573959.1,,,budgeted,src_liege_prov_budget_2026,strong,Service ordinaire depenses Budget 2026 563573959.10
+bud_liege_prov_ord_rec_2026,prov_liege,2026,563596927.57,,,budgeted,src_liege_prov_budget_2026,strong,Service ordinaire recettes Budget 2026 563596927.57; result 22968.47
+bud_liege_prov_ord_dep_2025_mod,prov_liege,2025,696423759.62,,,budgeted,src_liege_prov_budget_2026,strong,Service ordinaire depenses 2025 apres modifications 696423759.62
+bud_liege_prov_ord_rec_2025_mod,prov_liege,2025,696458510.81,,,budgeted,src_liege_prov_budget_2026,strong,Service ordinaire recettes 2025 apres modifications 696458510.81
+bud_liege_prov_ord_dep_2024,prov_liege,2024,664452047.52,,,outturn,src_liege_prov_budget_2026,strong,Compte 2024 depenses engagees 664452047.52; droits constatés nets 693328626
+bud_liege_prov_ext_dep_2026,prov_liege,2026,68140304.75,,,budgeted,src_liege_prov_budget_2026,strong,Service extraordinaire depenses 2026 total general 68140304.75
+bud_liege_prov_ext_rec_2026,prov_liege,2026,68151077.34,,,budgeted,src_liege_prov_budget_2026,strong,Service extraordinaire recettes 2026 68151077.34; result 10772.59
+bud_liege_prov_total_dep_2026,prov_liege,2026,631714263.85,,,budgeted,src_liege_prov_budget_2026,strong,Sum ordinaire+extraordinaire depenses 563573959.10+68140304.75
+bud_liege_prov_precompte_2026,prov_liege,2026,258500000,,,budgeted,src_liege_prov_budget_2026,strong,Recette precompte immobilier estimation 2026 258500000
+bud_liege_prov_fonds_provinces_2026,prov_liege,2026,40115103.6,,,budgeted,src_liege_prov_budget_2026,strong,Dotation fonds des provinces 2026 estimation 40115103.60
+bud_liege_prov_zones_secours_2026,prov_liege,2026,45599958,,,budgeted,src_liege_prov_budget_2026,strong,Financement provincial zones secours 44427789 zones1-5 + 1172169 zone6 DG
+bud_liege_prov_ens_secondaire_2026,prov_liege,2026,142197483,,,budgeted,src_liege_prov_budget_2026,strong,Fonction Enseignement secondaire total depenses 2026 142197483
+bud_liege_prov_ens_superieur_2026,prov_liege,2026,69302435,,,budgeted,src_liege_prov_budget_2026,strong,Fonction Enseignement superieur total depenses 2026 69302435
+bud_liege_prov_culture_2026,prov_liege,2026,22993615,,,budgeted,src_liege_prov_budget_2026,medium,Fonction Culture loisirs fetes depenses total class ~22993615 (recap line)
+bud_liege_prov_sports_2026,prov_liege,2026,8311069,,,budgeted,src_liege_prov_budget_2026,strong,Fonction Sports total depenses 2026 8311069
+bud_liege_prov_opera_2026,prov_liege,2026,150000,,,budgeted,src_liege_prov_budget_2026,strong,Subvention Opera Royal de Wallonie 150000
+bud_liege_prov_opl_2026,prov_liege,2026,70000,,,budgeted,src_liege_prov_budget_2026,strong,Subvention Orchestre philharmonique de Liege 70000
