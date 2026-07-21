@@ -530,3 +530,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 13 budgets; 5 commitments; 3 leaderboard; 5 sources; entity feder_brussels; FOI gap_bru_efro_l5 **ready**; rq_068=done; seeded rq_069 DG; ticks=69
 - FOI: gap_bru_efro_l5 ready (not sent)
 - Next: **rq_069** German-speaking Community budget (prio 4) or **rq_066** SWA recheck (prio 3)
+
+### 2026-07-21T09:20:00Z — tick 70
+- Unit: rq_069 (German-speaking Community / Ostbelgien budget + L5 sample)
+- Found (strong, Rechnungshof 13 Nov 2024 UHH 2025): **Hauptverwaltung Ausgaben AE €685.707 m** / VE **€687.602 m**; Einnahmen **€595.819 m**; **konsolidierter ESVG-Saldo -€113.878 m** (Investitionen **€104.4 m** im Defizitpfad). Einnahmen: **Bundesdotation €342.5 m** (allgemein 321.3 + zweckgeb. 21.2); **Wallonie-Transfer €93.1 m**; Anleihen **€111.2 m** (davon RRF ~€11.2 m). AE nach OB: **Unterricht €187.097 m**; **Gesundheit/Soziales €146.039 m**; **Infrastruktur €103.773 m**; **Kultur/Sport/Jugend €22.792 m**. Infrastrukturplan: **142 Projekte / €94.2 m**; IT **€6.5 m**; Kommunaldotationen Unterhalt **€3.0 m**. Paasch/BRF Okt 2025 (medium): Sparpakete **~€23 m/Jahr** + Infra-Kürzung **€32 m**; Krankenhaus-Investbedarf **=€150 m** (zwei Häuser).
+- Wrote: 18 budgets; 3 commitments; 3 leaderboard; 3 sources; entity dg_gov; rq_069=done; seeded rq_070 province; ticks=70
+- FOI: none (CoA tables public for totals + domain L4)
+- Next: **rq_066** SWA final votes recheck (prio 3) or **rq_070** province L1 (prio 3)

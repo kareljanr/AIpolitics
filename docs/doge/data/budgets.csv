@@ -311,3 +311,21 @@ bud_bru_feder_call_saut_qualitatif,brussels_gov,2023,15141919.79,,,budgeted,src_
 bud_bru_feder_call_pme,brussels_gov,2023,6679415.08,,,budgeted,src_bru_feder_call_pme,strong,Named call accompagnement PME FEDER+RBC 6679415.08
 bud_bru_feder_2014_20_total,brussels_gov,2020,191000000,,,outturn,src_be_brussels_efro_results_2026,strong,2014-2020 programming results class 191m total EU+region; 68 projects — NOT 2021-27
 bud_bru_feder_2014_20_projects,brussels_gov,2020,68,,,outturn,src_be_brussels_efro_results_2026,strong,COUNT not EUR: 68 projects 2014-20 results article
+bud_dg_hv_exp_ae_2025,sec_dg,2025,685707000,,,budgeted,src_ccrek_dg_budget_2025,strong,Hauptverwaltung Ausgabenermächtigungen UHH 2025 685707 Tsd EUR (Court of Audit Table7)
+bud_dg_hv_exp_ve_2025,sec_dg,2025,687602000,,,budgeted,src_ccrek_dg_budget_2025,strong,Hauptverwaltung Verpflichtungsermächtigungen UHH 2025 687602 Tsd EUR
+bud_dg_hv_rev_2025,sec_dg,2025,595819000,,,budgeted,src_ccrek_dg_budget_2025,strong,Hauptverwaltung Einnahmen UHH 2025 595819 Tsd EUR
+bud_dg_esvg_saldo_2025,sec_dg,2025,-113878000,,,budgeted,src_ccrek_dg_budget_2025,strong,Consolidated ESVG financing balance UHH 2025 -113878 Tsd EUR (-113.9m summary)
+bud_dg_invest_in_deficit_2025,sec_dg,2025,104400000,,,budgeted,src_ccrek_dg_budget_2025,strong,Investment expenditure included in ESVG deficit path 104.4m (summary)
+bud_dg_fed_dotation_2025,sec_dg,2025,342500000,,,budgeted,src_ccrek_dg_budget_2025,strong,Federal global dotation total 342.5m (general 321.3 + earmarked 21.2)
+bud_dg_wal_transfer_2025,sec_dg,2025,93100000,,,budgeted,src_ccrek_dg_budget_2025,strong,Walloon Region transfer for transferred competences 93.1m 2025
+bud_dg_borrowing_2025,sec_dg,2025,111194000,,,budgeted,src_ccrek_dg_budget_2025,strong,Anleihen/Leasing receipts 111194 Tsd of which RRF 11.2m class
+bud_dg_ae_unterricht_2025,sec_dg,2025,187097000,,,budgeted,src_ccrek_dg_budget_2025,strong,OB30 Unterricht Beschäftigung Ausbildung AE 187097 Tsd
+bud_dg_ae_gesundheit_2025,sec_dg,2025,146039000,,,budgeted,src_ccrek_dg_budget_2025,strong,OB50 Gesundheit und Soziales AE 146039 Tsd
+bud_dg_ae_infrastruktur_2025,sec_dg,2025,103773000,,,budgeted,src_ccrek_dg_budget_2025,strong,OB70 Infrastruktur AE 103773 Tsd
+bud_dg_ae_kultur_sport_2025,sec_dg,2025,22792000,,,budgeted,src_ccrek_dg_budget_2025,strong,OB40 Jugend Bildung Kultur Sport Tourismus AE 22792 Tsd
+bud_dg_infra_projects_plan_2025,sec_dg,2025,94200000,,,budgeted,src_ccrek_dg_budget_2025,strong,142 infrastructure projects in plan 94.2m VE class
+bud_dg_it_invest_2025,sec_dg,2025,6500000,,,budgeted,src_ccrek_dg_budget_2025,strong,IT investment programme 26 Informatik 6.5m within Infrastruktur
+bud_dg_local_dots_2025,sec_dg,2025,3000000,,,budgeted,src_ccrek_dg_budget_2025,strong,Municipal maintenance road dots 3.0m/yr class
+bud_dg_savings_pack_annual,sec_dg,2026,23000000,,,projection,src_paasch_haushalt_2026,medium,Two DG savings packages total ~23m EUR per year (Paasch 20 Oct 2025 speech)
+bud_dg_infra_cut_path,sec_dg,2026,32000000,,,projection,src_paasch_haushalt_2026,medium,Infrastructure expenditure cut 32m (Paasch/BRF Oct 2025)
+bud_dg_hospital_invest_need,sec_dg,2026,150000000,,,estimate,src_paasch_haushalt_2026,medium,Minister: need at least 150m further invest in two hospitals vs federal norms

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T09:05:00Z,rq_068,69,no,"Brussels FEDER 303.2m EU 121.3m; 120 projects; FOI L5. Next: rq_069 DG or rq_066 SWA recheck."
+main,continuous,continuous,2026-07-21T09:20:00Z,rq_069,70,no,"DG Ostbelgien HV AE 685.7m 2025 CoA; ESVG -113.9m. Next: rq_066 SWA recheck or rq_070 province."
