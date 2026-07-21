@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T08:20:00Z,rq_065,66,no,"FEDER/FTJ Wallonie: 1.488bn invest class; FTJ 456m; 8 named L5 (Campus4U 21.3m). Next: rq_059 SWA final votes or Flanders EFRO."
+main,continuous,continuous,2026-07-21T08:35:00Z,rq_059,67,no,"SWA final votes still none (Jul 2026). SERV VL filed 17 Jun. Next: rq_067 EFRO Flanders L5 or rq_066 SWA recheck."
