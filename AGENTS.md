@@ -22,7 +22,7 @@ This is **AIpolitics** — strategy and policy docs for a Belgian political proj
 | `docs/05-programme.md` | Positions |
 | `docs/06-doge-belgium.md` | Waste leaderboard |
 | `docs/06b-doge-discovery-strategy.md` | Spending discovery playbook |
-| `docs/doge/LOOP.md` | 30-min research loop |
+| `docs/doge/LOOP.md` | 15-min research loop |
 | `docs/doge/data/*` | DOGE CSVs + FOI queue |
 | `.grok/skills/doge-loop/SKILL.md` | `/doge-loop` tick |
 | `docs/07-coalitions-negotiation.md` | Coalition playbook |

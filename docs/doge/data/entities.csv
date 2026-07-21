@@ -56,3 +56,5 @@ city_mons,Stad Bergen / Ville de Mons,Ville de Mons,City of Mons,local,sec_wallo
 city_herstal,Herstal,Herstal,City of Herstal,local,sec_wallonia,fr,,,,Plan Oxygene 2025 8.52m Desquesnes
 city_verviers,Verviers,Verviers,City of Verviers,local,sec_wallonia,fr,,,,Plan Oxygene 2025 19.25m Desquesnes
 city_tournai,Doornik / Tournai,Tournai,City of Tournai,local,sec_wallonia,fr,,,,Plan Oxygene 2025 6.04m Desquesnes
+city_arlon,Aarlen / Arlon,Arlon,City of Arlon,local,sec_wallonia,fr,https://www.arlon.be,,,FEDER cyclo-pieton 0.521m resume 2025
+waleurope,WalEurope SPW,WalEurope SPW,Walloon EU funds management portal,agency,wallonie_gov,fr,https://europe.wallonie.be,,,FEDER/FTJ 2021-27 managing info portal

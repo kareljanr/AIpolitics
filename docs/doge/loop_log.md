@@ -502,3 +502,10 @@ Append-only. Each tick adds a short entry.
 
 
 
+
+### 2026-07-21T08:20:00Z — tick 66
+- Unit: rq_065 (FEDER Wallonia named project L5 sample)
+- Found (strong, official Résumé citoyen 2025 WalEurope PDF): **Programme invest class €1.488 bn** (EU **~€600 m**); **FTJ envelope €456 m** (EU **~€183 m**, Charleroi/Mons/Tournai); **374 FEDER + 62 FTJ** public projects retained. Named L5 grants (total / FEDER / Wallonie): **Campus4U Charleroi HELHa+UCLouvain €21.302 m / €8.521 m / €12.781 m**; **Liège Fontainebleau/Sainte-Marguerite €10.032 m / €4.459 m / €5.574 m**; **Namur ville apaisée portfolio €5.019 m / €2.231 m / €2.789 m**; **DUNE3S €3.989 m / €1.835 m / €2.154 m**; **IDEA CLICK Mons €0.566 m**; **Arlon cyclo-piéton €0.521 m**; **Cap Innove ID2GREEN €0.226 m**; **ICE Louvain €0.223 m**. Co-financed investment — **not pure waste**; residual issue is incomplete machine-readable full L5 cash list (resume samples only).
+- Wrote: 14 budgets; 9 commitments; 4 leaderboard; 2 sources; entities city_arlon + waleurope; rq_065=done; ticks=66
+- FOI: none new (named L5 public; full 374+62 register optional later)
+- Next: **rq_059** multi-parliament final SWA assent votes (only remaining open public task at prio 3) or seed Flanders EFRO 2021-27 L5

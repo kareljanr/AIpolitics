@@ -226,7 +226,7 @@ Full agent protocol: [`doge/LOOP.md`](doge/LOOP.md).
 
 | Role | Job |
 |------|-----|
-| Loop agent | 30-min ticks: fill data, draft FOI |
+| Loop agent | 15-min ticks: fill data, draft FOI |
 | FOI clerk (human) | Send letters, log replies |
 | Data lead | Schema integrity, no double-count |
 | Editor | Leaderboard narrative quality |
@@ -239,6 +239,6 @@ Full agent protocol: [`doge/LOOP.md`](doge/LOOP.md).
 | Assumption | Confidence | If wrong |
 |------------|------------|----------|
 | FOI yields usable L5 for high-€ opaque lines | Medium–Strong | Parliamentary questions + press |
-| 30-min loop beats big-bang research | Medium | Longer deep-work sessions for PDF budgets |
+| 15-min loop beats big-bang research | Medium | Longer deep-work sessions for PDF budgets |
 | CSV-first scales to thousands of rows | Medium | Move to SQLite later |
 | Completeness is asymptotic | Strong | — |

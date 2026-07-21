@@ -268,3 +268,17 @@ bud_oxygene_verviers_2025,city_verviers,2025,19250574,,,budgeted,src_desquesnes_
 bud_oxygene_tournai_2025,city_tournai,2025,6040865,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Tournai Plan Oxygene 2025 lot Belfius 6040865.36 EUR
 bud_oxygene_huy_2025,city_huy,2025,6005284,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Huy Plan Oxygene 2025 lot ING 6005284.46 EUR
 bud_oxygene_sambreville_2025,city_sambreville,2025,6539707,,,budgeted,src_desquesnes_oxygene_66m_2025,strong,Sambreville Plan Oxygene 2025 lot ING 6539707.45 EUR
+bud_wal_feder_total_invest_2127,wallonie_gov,2027,1488000000,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Programme FEDER/FTJ total public investment class EUR 1.488bn 2021-27 (resume p3); multi-year envelope not annual
+bud_wal_feder_eu_share_2127,wallonie_gov,2027,600000000,,,commitment,src_wal_feder_resume_citoyen_2025,medium,EU contribution nearly EUR 600m of the 1.488bn class (resume p3 approx)
+bud_wal_ftj_total_2127,wallonie_gov,2027,456000000,,,commitment,src_wal_feder_resume_citoyen_2025,strong,FTJ envelope EUR 456m incl EU ~183m; arrondissements Charleroi Mons Tournai (resume p3)
+bud_wal_ftj_eu_share_2127,wallonie_gov,2027,183000000,,,commitment,src_wal_feder_resume_citoyen_2025,medium,EU FTJ participation ~EUR 183m of 456m (resume p3)
+bud_wal_feder_projects_count,wallonie_gov,2025,374,,,outturn,src_wal_feder_resume_citoyen_2025,strong,COUNT not EUR: GW retained 374 FEDER public projects after first calls (resume p3)
+bud_wal_ftj_projects_count,wallonie_gov,2025,62,,,outturn,src_wal_feder_resume_citoyen_2025,strong,COUNT not EUR: 62 FTJ projects retained (resume p3)
+bud_feder_campus4u_charleroi,wallonie_gov,2027,21302481.25,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Campus4U Charleroi HELHa+UCLouvain total grant 21302481.25 of which FEDER 8520992.50 Wallonie 12781488.75
+bud_feder_liege_fontainebleau,city_luik,2027,10032316.88,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Liege Fontainebleau Sainte-Marguerite public space 10032316.88; FEDER 4458807.50 Wallonie 5573509.38
+bud_feder_namur_ville_apaisee,city_namur,2027,5019300,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Namur portefeuille ville apaisee vegetalisee conviviale 5019300; FEDER 2230800 Wallonie 2788500
+bud_feder_dune3s,wallonie_gov,2027,3988905.31,,,commitment,src_wal_feder_resume_citoyen_2025,strong,DUNE3S research portfolio 3988905.31; FEDER 1834942.39 Wallonie 2153962.92
+bud_feder_idea_click_mons,wallonie_gov,2027,565534.08,,,commitment,src_wal_feder_resume_citoyen_2025,strong,CLICK Hub by IDEA Mons accompaniment 565534.08; FEDER 226213.63 Wallonie 339320.45
+bud_feder_arlon_cyclo,city_arlon,2027,520668,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Arlon cyclo-pieton liaison 520668; FEDER 231408 Wallonie 289260
+bud_feder_cap_innove_id2green,wallonie_gov,2027,225725.77,,,commitment,src_wal_feder_resume_citoyen_2025,strong,Cap Innove ID2GREEN circular economy support 225725.77; FEDER 90290.31 Wallonie 135435.46
+bud_feder_ice_louvain,wallonie_gov,2027,223057.8,,,commitment,src_wal_feder_resume_citoyen_2025,strong,ICE Louvain SME accompaniment 223057.80; FEDER 89223.12 Wallonie 133834.68

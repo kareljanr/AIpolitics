@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T08:00:00Z,rq_064,65,no,"Plan Oxygene: 1.79bn request; 302m 2022; 66.1m+210m 2025 tracks; FOI full. Next rq_065 FEDER or rq_059 SWA."
+main,continuous,continuous,2026-07-21T08:20:00Z,rq_065,66,no,"FEDER/FTJ Wallonie: 1.488bn invest class; FTJ 456m; 8 named L5 (Campus4U 21.3m). Next: rq_059 SWA final votes or Flanders EFRO."

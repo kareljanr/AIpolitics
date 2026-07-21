@@ -5,7 +5,7 @@ Operational engine for the Belgium waste map.
 | Path | Purpose |
 |------|---------|
 | [../06b-doge-discovery-strategy.md](../06b-doge-discovery-strategy.md) | Full discovery strategy |
-| [LOOP.md](LOOP.md) | 30-minute research loop protocol |
+| [LOOP.md](LOOP.md) | 15-minute research loop protocol |
 | [schema.md](schema.md) | CSV schemas |
 | [foi-template-nl.md](foi-template-nl.md) | Openbaarheid letter template |
 | [data/](data/) | Live tables (queues, budgets, leaderboard, …) |
