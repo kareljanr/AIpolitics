@@ -537,3 +537,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 3 sources; entity dg_gov; rq_069=done; seeded rq_070 province; ticks=70
 - FOI: none (CoA tables public for totals + domain L4)
 - Next: **rq_066** SWA final votes recheck (prio 3) or **rq_070** province L1 (prio 3)
+
+### 2026-07-21T09:35:00Z — tick 71
+- Unit: rq_066 (SWA multi-parliament final assent recheck)
+- Found (strong process; **still no final votes**): Reconfirmed Overleg **27 Mar 2026** SWA (Van Peteghem historic announcement). Public track still maxes at **government first readings** (VL 8 May principal + SERV 1 Jun filed VP 17 Jun; Fed MR 13 May avant-projet; FWB 30 Apr; WAL 13 May). Searches Kamer / Vlaams Parlement / Wallonie / FWB / Brussels + BS class: **no final plenary assent law/decree and no BS publication** for this SWA as of **2026-07-21**. Brussels public dossier still missing. Summer multi-parliament path remains **not evidenced**.
+- Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_066=done; seeded **rq_071** lower-prio recheck; ticks=71
+- FOI: none (process tracking)
+- Next: **rq_070** Province Liège/Luxembourg budget L1+L5 (prio 3)

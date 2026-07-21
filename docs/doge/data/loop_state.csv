@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T09:20:00Z,rq_069,70,no,"DG Ostbelgien HV AE 685.7m 2025 CoA; ESVG -113.9m. Next: rq_066 SWA recheck or rq_070 province."
+main,continuous,continuous,2026-07-21T09:35:00Z,rq_066,71,no,"SWA final votes still none (tick71). Next: rq_070 province Liege/Lux budget L1+L5."
