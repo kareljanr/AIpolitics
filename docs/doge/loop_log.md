@@ -649,3 +649,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: flemish_provinces_2026_snapshot.md; 6 budgets; 2 commitments; 2 leaderboard; 1 source; rq_082=done; ticks=83
 - FOI: none (public gaps are extractability)
 - Next: **rq_071** SWA recheck (prio 2) or fill WVL/OVL full exp from T2
+
+### 2026-07-22T13:05:00Z — tick 84
+- Unit: rq_071 (SWA multi-parliament final assent recheck Q3 late)
+- Found (strong process; **still no final votes**): Reconfirmed Overlegcomité **27 Mar 2026** economic-governance SWA (replaces 2013). Public track still maxes at **government first readings**: **VL Regering 8 May 2026** principal OK voorontwerp instemmingsdecreet → SERV/RvS (portal unchanged); **SERV 1 Jun** advice; **Vlaams Parlement** still no plenary-adopted instemmingsdecreet found; **Federal MR 13 May** avant-projet de loi assentiment (news.belgium); **FWB 30 Apr** / **WAL 13 May** GW first readings (prior ticks). Kamer budget docs cite SWA content but **not** a adopted assent law. Searches Kamer / Vlaams Parlement / Wallonie / FWB / Brussels + BS class: **no final plenary assent law/decree and no Belgisch Staatsblad publication** for this SWA as of **2026-07-22**. Brussels public assent dossier still **not found**. Summer multi-parliament path remains **not evidenced**.
+- Wrote: 3 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_071=done; seeded **rq_083** WVL exp fill + **rq_084** SWA recheck; ticks=84
+- FOI: none (parliamentary process tracking)
+- Next: **rq_083** West-Vlaanderen full exp T2 (prio 3) or **rq_084** SWA recheck (prio 2)

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T12:50:00Z,rq_082,83,no,"Flemish 5-prov snapshot: cashout 3-prov ~835m. Next: rq_071 SWA or WVL/OVL exp fill."
+main,continuous,continuous,2026-07-22T13:05:00Z,rq_071,84,no,"SWA final votes still none (tick84). Next: rq_083 WVL exp fill or rq_084 SWA recheck."
