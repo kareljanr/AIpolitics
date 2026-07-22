@@ -815,3 +815,10 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (stack: Antwerp, Charleroi, Mons2026, Hainaut, Lux — human send)
 - Next: **rq_105** FPS TE / VLAIO recheck (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T18:25:00Z -- pause (user)
+- User requested pause. Set `loop_state.paused=yes`, mode=`paused`.
+- Last completed unit: **rq_104** (ticks_completed=104).
+- Scheduler task `019f7c315adb` cancelled so 15m fires stop; recreate on resume with 15m interval + same prompt.
+- No research unit this entry; commit pause state only.
+

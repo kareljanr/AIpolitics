@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T18:19:00Z,rq_104,104,no,"City L5 transparency tick104. Next: rq_105 higher-tier L5 or rq_089 SWA; human FOI Antwerp+Charleroi+Mons2026+Hainaut+Lux."
+main,paused,continuous,2026-07-22T18:19:00Z,rq_104,104,yes,"PAUSED by user. Last unit rq_104. Resume: set paused=no + recreate scheduler if cancelled. FOI stack human send."
