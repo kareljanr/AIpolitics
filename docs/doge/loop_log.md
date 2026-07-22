@@ -597,3 +597,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: walloon_provinces_2026_snapshot.md; 6 budgets; 2 commitments; 2 leaderboard; 1 source; rq_076=done; ticks=77
 - FOI: none
 - Next: **rq_077** Flemish province sample (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T11:35:00Z — tick 78
+- Unit: rq_077 (Provincie Antwerpen MJP 2026 L1 + L5 sample)
+- Found (strong, official Initieel meerjarenplan 2026-2031 begincrediet): **Exploitatie-uitgaven EUR 204,700,675** / ontvangsten **EUR 236,862,206** (saldo **EUR 32,161,531**). **Investeringsuitgaven EUR 60,420,600**. Financiering aflossingen **EUR 9,215,000**. Combined cash-out **~EUR 274.3 m**. Named: **bezoldigingen EUR 92,014,823**; **toegestane werkingssubsidies EUR 63,828,156** (APB **EUR 38,925,780** + andere **EUR 22,907,585**); **opcentiemen OV EUR 172,132,240** (aanslagvoet 160); **bedrijvenbelasting EUR 52,101,340** (gezinnen provinciebelasting afgeschaft 2026); **Mondiaal Beleid EUR 1,166,000**; waterlopen invest **EUR 5,000,000**; wegen/infra invest **EUR 23,900,000**; schuld EOY **EUR 19,895,000**. BBC structure (not Walloon ord/extra) — exp scale similar Namur/BW (~200m).
+- Wrote: 18 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_antwerpen; raw MJP PDF; rq_077=done; seeded rq_078 Oost/West-VL; ticks=78
+- FOI: none (official MJP public)
+- Next: **rq_078** second Flemish province (prio 3) or **rq_071** SWA recheck (prio 2)

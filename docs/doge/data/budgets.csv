@@ -444,3 +444,21 @@ bud_wal_provinces_zones_sum_2026,sec_wallonia,2026,188199958,,,budgeted,src_doge
 bud_wal_provinces_zones_sum_eff_2026,sec_wallonia,2026,194199958,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Zones sum + Hainaut 6m provision for tutelle Oct 2025 path
 bud_wal_provinces_precompte_sum_2026,sec_wallonia,2026,814300000,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum additionnels precompte immobilier 5 provinces 2026
 bud_wal_provinces_fonds_sum_2026,sec_wallonia,2026,164015104,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum fonds des provinces 5 provinces 2026
+bud_ant_prov_exp_uit_2026,prov_antwerpen,2026,204700675,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Totaal exploitatie-uitgaven 2026 M2/T2 MJP begincrediet
+bud_ant_prov_exp_ont_2026,prov_antwerpen,2026,236862206,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Totaal exploitatieontvangsten 2026 M2/T2
+bud_ant_prov_exp_saldo_2026,prov_antwerpen,2026,32161531,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Exploitatiesaldo 2026 32161531
+bud_ant_prov_inv_uit_2026,prov_antwerpen,2026,60420600,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Totaal investeringsuitgaven 2026 60420600
+bud_ant_prov_inv_ont_2026,prov_antwerpen,2026,28884118,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Totaal investeringsontvangsten 2026 28884118
+bud_ant_prov_fin_uit_2026,prov_antwerpen,2026,9215000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Financieringsuitgaven aflossingen 2026 9215000
+bud_ant_prov_total_cashout_2026,prov_antwerpen,2026,274336275,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Sum exploitatie+investering+financiering uitgaven 2026
+bud_ant_prov_personeel_2026,prov_antwerpen,2026,92014823,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Bezoldigingen 2026 92014823 T2
+bud_ant_prov_werkingssubsidies_2026,prov_antwerpen,2026,63828156,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Toegestane werkingssubsidies 63828156 (APB 38.9m + andere 22.9m + eredienst/niet-conf)
+bud_ant_prov_apb_subs_2026,prov_antwerpen,2026,38925780,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Werkingssubsidies aan eigen APB 38925780
+bud_ant_prov_andere_subs_2026,prov_antwerpen,2026,22907585,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Werkingssubsidies aan andere begunstigden 22907585 L5 pool
+bud_ant_prov_goederen_diensten_2026,prov_antwerpen,2026,46834515,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Goederen en diensten 46834515
+bud_ant_prov_opcentiemen_2026,prov_antwerpen,2026,172132240,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Opcentiemen onroerende voorheffing 172132240 aanslagvoet 160
+bud_ant_prov_bedrijvenbelasting_2026,prov_antwerpen,2026,52101340,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Algemene provinciebelasting bedrijven 52101340; gezinnen afgeschaft 2026
+bud_ant_prov_debt_eoy_2026,prov_antwerpen,2026,19895000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Financiele schulden 31 Dec 2026 geraamd 19895000 T3
+bud_ant_prov_mondiaal_2026,prov_antwerpen,2026,1166000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,AP Mondiaal Beleid projectsteun DAC/ODA 1166000 strategische nota
+bud_ant_prov_waterlopen_invest_2026,prov_antwerpen,2026,5000000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,DIW projecten en structureel onderhoud waterlopen invest 5000000
+bud_ant_prov_wegen_invest_2026,prov_antwerpen,2026,23900000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Wegen en andere infrastructuur invest 23900000 T2

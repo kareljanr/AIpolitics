@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T11:20:00Z,rq_076,77,no,"Walloon 5-prov ord sum ~1932m; zones ~188m. Next: rq_077 Flanders province or rq_071 SWA."
+main,continuous,continuous,2026-07-22T11:35:00Z,rq_077,78,no,"Prov Antwerpen MJP2026 exp 204.7m + invest 60.4m. Next: rq_078 Oost/West-VL or rq_071 SWA."
