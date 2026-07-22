@@ -695,3 +695,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none (public T2)
 - Next: **rq_090** named L5 werkingssubsidies sample (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T14:49:00Z -- tick 90
+- Unit: rq_090 (WVL/OVL named L5 werkingssubsidies sample)
+- Found (strong, official WVL MJP p60 + OVL documentatie p4-14): **WVL agencies 2026 dotaties:** POM **EUR 11,653,824**; Westtoer **EUR 11,052,567**; Inagro **EUR 10,839,292**; TUA WEST **EUR 385,000**; **sum EUR 33,930,683** (upgrades prior ~35m class; ~63pct of 54.4m werkingssubsidies). WFIV base **EUR 400,000**. Named landschappen: Westhoek 1.35m; Houtland-Polders 1.18m; WV hart 0.72m. UNIE-K kapitaal **EUR 1,160,258**. **OVL sample:** PIMD **EUR 1,220,850**; Toerisme OVL **EUR 600,176**; Centrum Ronde van Vlaanderen **EUR 230,000**; Huysmanhoeve **EUR 789,225**; RATO **EUR 482,694**; OVL total werkingssubsidies **EUR 30,667,884** reconfirmed.
+- Wrote: 16 budgets; 6 commitments; 3 leaderboard; sources; entities; rq_090=done; seeded rq_091; ticks=90
+- FOI: none (public tables)
+- Next: **rq_091** OVL L5 deepen (prio 2) or **rq_089** SWA Q4 (prio 1)
+

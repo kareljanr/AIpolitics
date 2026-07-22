@@ -478,7 +478,7 @@ bud_wvl_prov_resp_pensioen_2026,prov_west_vlaanderen,2026,2840000,,,budgeted,src
 bud_wvl_prov_second_home_relief,prov_west_vlaanderen,2025,9000000,,,budgeted,src_westvl_prov_mjp_2026,strong,Raad van State ambtshalve ontheffing 2e verblijven EUR 9m (reduces start buffer)
 bud_wvl_prov_start_buffer_2026,prov_west_vlaanderen,2026,67200000,,,budgeted,src_westvl_prov_mjp_2026,medium,Start available result after corrections class EUR 67.2m (54.7+21.5-9)
 bud_wvl_prov_werkingssubsidies_class_2026,prov_west_vlaanderen,2026,55000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Superseded by exact T2 54431043 tick89; keep as prior class estimate
-bud_wvl_prov_agency_subs_class_2026,prov_west_vlaanderen,2026,35000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Verzelfstandigde agentschappen (POM Inagro Westtoer) class ~EUR 35m/yr of werkingssubsidies
+bud_wvl_prov_agency_subs_class_2026,prov_west_vlaanderen,2026,35000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Superseded by exact sum 33930683 tick90; prior narrative ~35m
 bud_wvl_prov_wfiv_base_2026,prov_west_vlaanderen,2026,400000,,,budgeted,src_westvl_prov_mjp_2026,strong,WFIV basissubsidie constant EUR 400000 (+ annuity path separate)
 bud_ovl_prov_bbr_2026,prov_oost_vlaanderen,2026,24848155,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Beschikbaar budgettair resultaat 2026 24848155
 bud_ovl_prov_afm_2026,prov_oost_vlaanderen,2026,11072221,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Autofinancieringsmarge 2026 11072221
@@ -588,3 +588,19 @@ bud_wvl_prov_werkingssubsidies_2026,prov_west_vlaanderen,2026,54431043,,,budgete
 bud_wvl_prov_subs_apb_2026,prov_west_vlaanderen,2026,11631181,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 werkingssubsidies aan eigen APB 2026 EUR 11631180.88
 bud_wvl_prov_subs_andere_2026,prov_west_vlaanderen,2026,40732307,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 werkingssubsidies aan andere begunstigden 2026 EUR 40732307.02
 bud_wvl_prov_fin_rente_2026,prov_west_vlaanderen,2026,1921373,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 rente aan financiele instellingen 2026 EUR 1921373
+bud_wvl_pom_dotatie_2026,prov_west_vlaanderen,2026,11653824,,,budgeted,src_westvl_prov_mjp_2026,strong,POM West-Vlaanderen jaarlijkse dotatie 2026 EUR 11653824 (MJP p60 agentschappen table)
+bud_wvl_westtoer_dotatie_2026,prov_west_vlaanderen,2026,11052567,,,budgeted,src_westvl_prov_mjp_2026,strong,Westtoer APB jaarlijkse dotatie 2026 EUR 11052567
+bud_wvl_inagro_dotatie_2026,prov_west_vlaanderen,2026,10839292,,,budgeted,src_westvl_prov_mjp_2026,strong,Inagro vzw jaarlijkse dotatie 2026 EUR 10839292
+bud_wvl_tua_west_dotatie_2026,prov_west_vlaanderen,2026,385000,,,budgeted,src_westvl_prov_mjp_2026,strong,TUA WEST private stichting dotatie 2026 EUR 385000
+bud_wvl_agencies_dotatie_sum_2026,prov_west_vlaanderen,2026,33930683,,,budgeted,src_westvl_prov_mjp_2026,strong,Sum POM+Westtoer+Inagro+TUA WEST dotaties 2026 33930683 (upgrades ~35m class)
+bud_wvl_wfiv_base_2026_confirm,prov_west_vlaanderen,2026,400000,,,budgeted,src_westvl_prov_mjp_2026,strong,WFIV basissubsidie constant EUR 400000 (p124; already had bud_wvl_prov_wfiv_base_2026)
+bud_wvl_rl_westhoek_2026,prov_west_vlaanderen,2026,1346932,,,budgeted,src_westvl_prov_mjp_2026,strong,Regionaal landschap Westhoek werkingssubsidie 2026 EUR 1346932
+bud_wvl_rl_houtland_polders_2026,prov_west_vlaanderen,2026,1180131,,,budgeted,src_westvl_prov_mjp_2026,strong,Regionaal landschap Houtland en Polders 2026 EUR 1180131
+bud_wvl_rl_wv_hart_2026,prov_west_vlaanderen,2026,717863,,,budgeted,src_westvl_prov_mjp_2026,strong,Regionaal landschap West-Vlaamse hart 2026 EUR 717863
+bud_wvl_unie_k_kapitaal_2026,prov_west_vlaanderen,2026,1160258,,,budgeted,src_westvl_prov_mjp_2026,strong,UNIE-K vzw kapitaalaflossing geconsolideerde leningen 2026 EUR 1160258
+bud_ovl_pimd_2026,prov_oost_vlaanderen,2026,1220850,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,PIMD Oost-Vlaanderen werkingssubsidie 2026 EUR 1220850 (doc p14)
+bud_ovl_toerisme_ovl_2026,prov_oost_vlaanderen,2026,600176,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,vzw Toerisme Oost-Vlaanderen sector+expertise 2026 EUR 600175.53
+bud_ovl_crvv_2026,prov_oost_vlaanderen,2026,230000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Centrum Ronde van Vlaanderen werkingssubsidie 2026 EUR 230000
+bud_ovl_huysmanhoeve_2026,prov_oost_vlaanderen,2026,789225,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Plattelandscentrum Meetjesland Huysmanhoeve 2026 EUR 789225
+bud_ovl_rato_2026,prov_oost_vlaanderen,2026,482694,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,RATO vzw werkingssubsidie 2026 EUR 482693.58
+bud_ovl_werkingssubsidies_total_2026,prov_oost_vlaanderen,2026,30667884,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,TOTAAL WERKINGSSUBSIDIES documentatie p14 EUR 30667884.44 (matches T2)
