@@ -462,3 +462,21 @@ bud_ant_prov_debt_eoy_2026,prov_antwerpen,2026,19895000,,,budgeted,src_antwerpen
 bud_ant_prov_mondiaal_2026,prov_antwerpen,2026,1166000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,AP Mondiaal Beleid projectsteun DAC/ODA 1166000 strategische nota
 bud_ant_prov_waterlopen_invest_2026,prov_antwerpen,2026,5000000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,DIW projecten en structureel onderhoud waterlopen invest 5000000
 bud_ant_prov_wegen_invest_2026,prov_antwerpen,2026,23900000,,,budgeted,src_antwerpen_prov_mjp_2026,strong,Wegen en andere infrastructuur invest 23900000 T2
+bud_wvl_prov_debt_start_2026,prov_west_vlaanderen,2026,92341480,,,budgeted,src_westvl_prov_mjp_2026,strong,Financiele schuld 01/01/2026 EUR 92341480
+bud_wvl_prov_debt_eoy_2031,prov_west_vlaanderen,2031,207200000,,,budgeted,src_westvl_prov_mjp_2026,strong,Financiele schuld EOY 2031 class EUR 207.2m
+bud_wvl_prov_new_loans_2026_2031,prov_west_vlaanderen,2026,190000000,,,budgeted,src_westvl_prov_mjp_2026,strong,New bank loans planned legislatuur EUR 190m total 2026-2031
+bud_wvl_prov_new_loans_2026,prov_west_vlaanderen,2026,28250000,,,budgeted,src_westvl_prov_mjp_2026,strong,New loans chart MJP2026 EUR 28250000
+bud_wvl_prov_invest_period_2026_31,prov_west_vlaanderen,2026,363500000,,,budgeted,src_westvl_prov_mjp_2026,strong,Investment uitgaven total 2026-2031 EUR 363.5m (avg ~60m/yr)
+bud_wvl_prov_invest_subs_period,prov_west_vlaanderen,2026,116900000,,,budgeted,src_westvl_prov_mjp_2026,strong,Of which investeringssubsidies granted EUR 116.9m over 6y
+bud_wvl_prov_invest_own_period,prov_west_vlaanderen,2026,246500000,,,budgeted,src_westvl_prov_mjp_2026,strong,Own patrimoine investments EUR 246.5m over 6y
+bud_wvl_prov_invest_avg_yr,prov_west_vlaanderen,2026,60000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Average investment ~EUR 60m per year class narrative
+bud_wvl_prov_invest_ont_period,prov_west_vlaanderen,2026,52600000,,,budgeted,src_westvl_prov_mjp_2026,strong,Investment receipts (mainly VL fietsfonds etc) EUR 52.6m over 6y
+bud_wvl_prov_bbr_2026,prov_west_vlaanderen,2026,15204117,,,budgeted,src_westvl_prov_mjp_2026,strong,Beschikbaar budgettair resultaat 2026 chart EUR 15204117
+bud_wvl_prov_afm_2026,prov_west_vlaanderen,2026,10913984,,,budgeted,src_westvl_prov_mjp_2026,strong,Autofinancieringsmarge 2026 chart EUR 10913984
+bud_wvl_prov_afm_2031,prov_west_vlaanderen,2031,8697410,,,budgeted,src_westvl_prov_mjp_2026,strong,Autofinancieringsmarge 2031 chart EUR 8697410 (structural balance OK)
+bud_wvl_prov_resp_pensioen_2026,prov_west_vlaanderen,2026,2840000,,,budgeted,src_westvl_prov_mjp_2026,strong,Responsabiliseringsbijdrage pensioenen 2026 EUR 2.84m path to 4.89m 2030
+bud_wvl_prov_second_home_relief,prov_west_vlaanderen,2025,9000000,,,budgeted,src_westvl_prov_mjp_2026,strong,Raad van State ambtshalve ontheffing 2e verblijven EUR 9m (reduces start buffer)
+bud_wvl_prov_start_buffer_2026,prov_west_vlaanderen,2026,67200000,,,budgeted,src_westvl_prov_mjp_2026,medium,Start available result after corrections class EUR 67.2m (54.7+21.5-9)
+bud_wvl_prov_werkingssubsidies_class_2026,prov_west_vlaanderen,2026,55000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Werkingssubsidies class ~EUR 55m/yr ~quarter of exploitatie-uitgaven (T2 table image-only)
+bud_wvl_prov_agency_subs_class_2026,prov_west_vlaanderen,2026,35000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Verzelfstandigde agentschappen (POM Inagro Westtoer) class ~EUR 35m/yr of werkingssubsidies
+bud_wvl_prov_wfiv_base_2026,prov_west_vlaanderen,2026,400000,,,budgeted,src_westvl_prov_mjp_2026,strong,WFIV basissubsidie constant EUR 400000 (+ annuity path separate)

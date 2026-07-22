@@ -604,3 +604,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_antwerpen; raw MJP PDF; rq_077=done; seeded rq_078 Oost/West-VL; ticks=78
 - FOI: none (official MJP public)
 - Next: **rq_078** second Flemish province (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T11:50:00Z — tick 79
+- Unit: rq_078 (Provincie West-Vlaanderen MJP 2026-2031 L1 + L5 sample)
+- Found (strong debt/invest/AFM; medium subsidy class — M2/T2 tables largely image-only): Official fin-nota PDF PR **27 Nov 2025**. **Invest 2026-2031 EUR 363,500,000** (own patrim **EUR 246,500,000** + grants-out **EUR 116,900,000**; avg **~EUR 60m/yr**). **Invest receipts EUR 52,600,000** over 6y (Fietsfonds-heavy). **Debt 01/01/2026 EUR 92,341,480** → **EOY 2031 EUR 207,200,000**; new loans **EUR 190,000,000** (2026 chart **EUR 28,250,000**). **BBR 2026 EUR 15,204,117**; **AFM 2026 EUR 10,913,984** / 2031 **EUR 8,697,410** (structureel evenwicht OK). **Werkingssubsidies class ~EUR 55m/yr** (~1/4 exp; T2 not OCR); agencies **~EUR 35m** (POM/Inagro/Westtoer); **WFIV base EUR 400,000**. Opcentiemen rate **186.22** (VLABEL 13 Sep 2025; chart ~115-155m not digitised). Second-home tax RvS relief **EUR 9m**. Pension responsabilisering **EUR 2.84m** 2026 → 4.89m 2030. Full single-year exploitatie-uitgaven total **not text-extracted** (image tables).
+- Wrote: 18 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_west_vlaanderen; raw PDF; rq_078=done; seeded rq_079 Oost-VL; ticks=79
+- FOI: none (public MJP; residual gap is extractability not opacity)
+- Next: **rq_079** Oost-Vlaanderen (prio 3) or **rq_071** SWA recheck (prio 2)

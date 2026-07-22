@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T11:35:00Z,rq_077,78,no,"Prov Antwerpen MJP2026 exp 204.7m + invest 60.4m. Next: rq_078 Oost/West-VL or rq_071 SWA."
+main,continuous,continuous,2026-07-22T11:50:00Z,rq_078,79,no,"Prov West-VL MJP invest 363.5m/6y; debt 92.3m start. Next: rq_079 Oost-VL or rq_071 SWA."
