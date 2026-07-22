@@ -438,3 +438,9 @@ bud_bw_prov_ext_rec_global_2026,prov_brabant_wallon,2026,34202820,,,budgeted,src
 bud_bw_prov_ext_dep_global_2026,prov_brabant_wallon,2026,16331910,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Extraordinaire depenses exercice global 16331910
 bud_bw_prov_ext_invest_2026,prov_brabant_wallon,2026,13166910,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Investissements extraordinaire 13166910 Tableau 12
 bud_bw_prov_total_dep_propre_2026,prov_brabant_wallon,2026,215738697,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 199406787+16331910
+bud_wal_provinces_ord_dep_sum_2026,sec_wallonia,2026,1932150627,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum of 5 Walloon province ordinary dep 2026 from ticks72-76; Hainaut+Liege+Namur+BW+Lux
+bud_wal_provinces_total_dep_sum_2026,sec_wallonia,2026,2069243296,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum ord+extra 5 provinces 2026; mixed official Liege + CoA projet others
+bud_wal_provinces_zones_sum_2026,sec_wallonia,2026,188199958,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum zones de secours provincial financing 5 provinces; excludes Hainaut 6m provision
+bud_wal_provinces_zones_sum_eff_2026,sec_wallonia,2026,194199958,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Zones sum + Hainaut 6m provision for tutelle Oct 2025 path
+bud_wal_provinces_precompte_sum_2026,sec_wallonia,2026,814300000,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum additionnels precompte immobilier 5 provinces 2026
+bud_wal_provinces_fonds_sum_2026,sec_wallonia,2026,164015104,,,budgeted,src_doge_walloon_prov_compare_2026,strong,Sum fonds des provinces 5 provinces 2026

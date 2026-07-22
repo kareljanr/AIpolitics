@@ -579,3 +579,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: 24 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_brabant_wallon; raw CoA PDF; rq_075=done; seeded rq_076 compare + rq_077 Flanders province; ticks=76
 - FOI: none (CoA projet public)
 - Next: **rq_076** Walloon provinces compare (prio 3) or **rq_071** SWA recheck (prio 2) or **rq_077** Flemish province
+
+### 2026-07-22T11:20:00Z — tick 77
+- Unit: rq_076 (Walloon provinces 2026 comparative snapshot)
+- Found (strong synthesis, no new primary PDF): 5-province map from ticks 72-76.
+
+| Province | Ord dep | Total | Zones |
+|---|---:|---:|---:|
+| Hainaut | 830.6m | 854.1m | 78.2m (+6m prov) |
+| Liege | 563.6m | 631.7m | 45.6m |
+| Namur | 204.2m | 222.0m | 30.3m |
+| Brabant wallon | 199.4m | 215.7m | 16.1m |
+| Luxembourg | 134.3m | 145.6m | 18.0m |
+| **Sum** | **1932.2m** | **2069.2m** | **188.2m** |
+
+- Ord sum **EUR 1,932,150,627** (~EUR 1.93 bn); total ord+extra **EUR 2,069,243,296**; zones transfer sum **EUR 188,199,958** (+ Hainaut provision **EUR 6.0 m** → **EUR 194,199,958**). Précompte sum **EUR 814,300,000**; fonds des provinces sum **EUR 164,015,104**. Hainaut alone **43.0%** of ord dep. Zones/ord **9.7%**. Caveat: Liege = official province PDF; others = CoA projet.
+- Wrote: walloon_provinces_2026_snapshot.md; 6 budgets; 2 commitments; 2 leaderboard; 1 source; rq_076=done; ticks=77
+- FOI: none
+- Next: **rq_077** Flemish province sample (prio 3) or **rq_071** SWA recheck (prio 2)

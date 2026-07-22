@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T11:05:00Z,rq_075,76,no,"Province BW 2026 projet ord 199.4m + extra 16.3m; zones 16.1m. 5/5 Walloon provinces done. Next: rq_076 compare or rq_071 SWA."
+main,continuous,continuous,2026-07-22T11:20:00Z,rq_076,77,no,"Walloon 5-prov ord sum ~1932m; zones ~188m. Next: rq_077 Flanders province or rq_071 SWA."
