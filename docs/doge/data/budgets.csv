@@ -503,3 +503,23 @@ bud_ovl_prov_paulo_period,prov_oost_vlaanderen,2026,9081388,,,budgeted,src_oostv
 bud_ovl_prov_hamme_2026_31,prov_oost_vlaanderen,2026,14000000,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Masterplan Richtpunt campus Hamme 14000000
 bud_ovl_prov_eeklo_2026_31,prov_oost_vlaanderen,2026,10000000,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Masterplan Kiempunt campus Eeklo 10000000
 bud_ovl_prov_lokeren_dbfm,prov_oost_vlaanderen,2026,74031570,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Groeipunt Lokeren DBFM leasingkost 74031570 (~71.5pct AGION)
+bud_lim_prov_exp_uit_2026,prov_limburg,2026,247304270,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Exploitatie-uitgaven 2026 Nieuw M2 247304270
+bud_lim_prov_exp_ont_2026,prov_limburg,2026,258189615,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Exploitatieontvangsten 2026 Nieuw M2 258189615
+bud_lim_prov_exp_saldo_2026,prov_limburg,2026,10885344,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Exploitatiesaldo 2026 10885344
+bud_lim_prov_inv_uit_2026,prov_limburg,2026,106147542,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Investeringsuitgaven 2026 106147542
+bud_lim_prov_inv_ont_2026,prov_limburg,2026,18746936,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Investeringsontvangsten 2026 18746936
+bud_lim_prov_fin_uit_2026,prov_limburg,2026,6829363,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Financieringsuitgaven aflossingen 2026 6829363
+bud_lim_prov_fin_ont_2026,prov_limburg,2026,78713724,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Financieringsontvangsten 2026 78713724 (leningen)
+bud_lim_prov_total_cashout_2026,prov_limburg,2026,360281175,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Sum exp+inv+fin uitgaven 2026 360281175 (= M1 algemeen totaal)
+bud_lim_prov_bbr_2026,prov_limburg,2026,42156256,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Beschikbaar budgettair resultaat 2026 42156256
+bud_lim_prov_afm_2026,prov_limburg,2026,4953756,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Autofinancieringsmarge 2026 4953756
+bud_lim_prov_debt_2026,prov_limburg,2026,127017316,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Financiele schuld 2026 kencijfers 127017316
+bud_lim_prov_pers_2026,prov_limburg,2026,173828351,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Bezoldigingen 2026 173828351 T2
+bud_lim_prov_pers_onderwijs_2026,prov_limburg,2026,99304235,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Onderwijzend personeel ten laste andere overheden 99304235
+bud_lim_prov_werkingssubsidies_2026,prov_limburg,2026,25865989,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Toegestane werkingssubsidies 25865989
+bud_lim_prov_andere_subs_2026,prov_limburg,2026,23939516,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Werkingssubsidies aan andere begunstigden 23939516 L5 pool
+bud_lim_prov_gds_2026,prov_limburg,2026,43886374,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Goederen en diensten 43886374
+bud_lim_prov_opcentiemen_2026,prov_limburg,2026,90933687,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Opcentiemen OV 90933687; rate 214.52
+bud_lim_prov_spec_werksubs_in_2026,prov_limburg,2026,123008974,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Specifieke werkingssubsidies ontvangsten 123008974
+bud_lim_prov_inv_period_2026_31,prov_limburg,2026,272275476,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Sum invest uitgaven 2026-31 272275476 (~270m press)
+bud_lim_prov_bokrijk_winter_2026,prov_limburg,2026,250000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Nominatieve projectsubsidie Domein Bokrijk winterevenement 250000

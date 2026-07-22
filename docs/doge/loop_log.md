@@ -618,3 +618,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_oost_vlaanderen; raw beleidsverklaring PDF; rq_079=done; seeded rq_080 Limburg/VBR; ticks=80
 - FOI: none (official portal PDF public)
 - Next: **rq_080** Limburg or Vlaams-Brabant (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T12:20:00Z — tick 81
+- Unit: rq_080 (Provincie Limburg AMJP 2026 L1 + L5 sample)
+- Found (strong, official AMJP 2026-2031 aanpassing juni 2026, PR dossier; initieel 18 Dec 2025): **Exploitatie-uitgaven EUR 247,304,270** / ontvangsten **EUR 258,189,615** (saldo **EUR 10,885,344**). **Investeringsuitgaven EUR 106,147,542** / ontvangsten **EUR 18,746,936**. Financiering aflossingen **EUR 6,829,363**; leningsontvangsten **EUR 78,713,724**. **Cash-out EUR 360,281,175**. **BBR EUR 42,156,256**; **AFM EUR 4,953,756**; **schuld EUR 127,017,316**. **Personeel EUR 173,828,351** (onderwijs andere overheden **EUR 99,304,235**). **Werkingssubsidies EUR 25,865,989** (andere **EUR 23,939,516**). **Opcentiemen EUR 90,933,687** (rate **214.52**). **Invest period sum 2026-31 EUR 272,275,476** (~270m press). Named: Bokrijk winterevenement **EUR 250,000**. Inwoners **904,919**.
+- Wrote: 20 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_limburg; raw AMJP PDF; rq_080=done; seeded rq_081 Vlaams-Brabant; ticks=81
+- FOI: none (official smartcities dossier public)
+- Next: **rq_081** Vlaams-Brabant (prio 3) or **rq_071** SWA recheck (prio 2)

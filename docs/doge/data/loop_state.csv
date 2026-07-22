@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T12:05:00Z,rq_079,80,no,"Prov Oost-VL MJP invest ~400m/6y; 2026 inv 62.6m tax 181.6m. Next: rq_080 Limburg/VBR or rq_071 SWA."
+main,continuous,continuous,2026-07-22T12:20:00Z,rq_080,81,no,"Prov Limburg AMJP exp 247.3m invest 106.1m. Next: rq_081 Vlaams-Brabant or rq_071 SWA."
