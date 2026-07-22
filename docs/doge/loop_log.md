@@ -558,3 +558,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 22 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_luxembourg; raw CoA PDF; rq_072=done; seeded rq_073 Namur/Hainaut; ticks=73
 - FOI: none (CoA projet public; final adopted budget may differ slightly)
 - Next: **rq_073** Province Namur or Hainaut (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T10:35:00Z — tick 74
+- Unit: rq_073 (Province de Namur budget L1 + L5 sample)
+- Found (strong, Cour des comptes 2026_14 projet budget 2026, FR chamber 25 Nov 2025): **Ordinaire exercice propre** recettes **EUR 204,224,474** / depenses **EUR 204,222,043** (boni **EUR 2,431** near-zero); global boni **EUR 30.5 m**. **Extraordinaire propre** rec **EUR 11,303,046** / dep **EUR 17,789,888**; global dep **EUR 19,334,888**. Combined propre dep **~EUR 222.0 m** (between Lux ~135m and Liege ~564m ord). Named: **precompte prudent ~EUR 91.8 m** (tutelle 93.1m -1.4pct); **fonds des provinces ~EUR 24.4 m** (tutelle 24.9m -0.5m); **zones de secours EUR 30.3 m** (27.2m dotation + 3.1m complement RW; trajectory to 44m by 2030); **personnel EUR 125.7 m** (~60pct); **transferts EUR 45.3 m**; **supracommunalite communes +EUR 0.5 m** new line; invest extra **EUR 17.5 m**. CoA flags pension Ethias off-budget ~EUR 10m and debt-charge annex mismatches. ASBL consolidated list 10 entities — no aggregate EUR in CoA body.
+- Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_namur; raw CoA PDF; rq_073=done; seeded rq_074 Hainaut; ticks=74
+- FOI: none (CoA projet public)
+- Next: **rq_074** Province Hainaut (prio 3) or **rq_071** SWA recheck (prio 2)

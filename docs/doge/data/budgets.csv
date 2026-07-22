@@ -368,3 +368,26 @@ bud_lux_prov_ext_dep_global_2026,prov_luxembourg,2026,13345396,,,budgeted,src_cc
 bud_lux_prov_ext_invest_2026,prov_luxembourg,2026,9374396,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Depenses investissements extraordinaire propre 9374396 incl Maison culture Arlon roof 2.8m
 bud_lux_prov_total_dep_propre_2026,prov_luxembourg,2026,145645465,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 134300069+11345396
 bud_lux_prov_maison_culture_arlon_2026,prov_luxembourg,2026,2800000,,,budgeted,src_ccrek_lux_prov_budget_2026,medium,Toiture Maison de la culture Arlon 2.8m contingent on Ville d Arlon co-funding
+bud_namur_prov_ord_rec_2026,prov_namur,2026,204224474,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Service ordinaire recettes exercice propre projet 2026 Tableau 2 CoA
+bud_namur_prov_ord_dep_2026,prov_namur,2026,204222043,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Service ordinaire depenses exercice propre projet 2026 Tableau 2 CoA
+bud_namur_prov_ord_boni_propre_2026,prov_namur,2026,2431,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Boni exercice propre ordinaire 2431 near-zero balance
+bud_namur_prov_ord_rec_global_2026,prov_namur,2026,239882610,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Service ordinaire recettes exercice global 239882610
+bud_namur_prov_ord_dep_global_2026,prov_namur,2026,209398475,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Service ordinaire depenses exercice global 209398475
+bud_namur_prov_ord_boni_global_2026,prov_namur,2026,30484135,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Boni exercice global ordinaire 30484135
+bud_namur_prov_precompte_2026,prov_namur,2026,91800000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Additionnels precompte: tutelle 93.1m less 1.4pct prudence = 91.8m class CoA
+bud_namur_prov_fonds_provinces_2026,prov_namur,2026,24400000,,,budgeted,src_ccrek_namur_prov_budget_2026,medium,Fonds des provinces: tutelle 24.9m less 0.5m no-indexation prudence = 24.4m class CoA
+bud_namur_prov_taxes_prov_2026,prov_namur,2026,4700000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Taxes provinciales 4.7m class; GSM mast tax provision 1.5m
+bud_namur_prov_personnel_2026,prov_namur,2026,125703576,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Depenses personnel exercice propre 125703576 Tableau 5
+bud_namur_prov_fonctionnement_2026,prov_namur,2026,22317387,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Depenses fonctionnement exercice propre 22317387
+bud_namur_prov_transferts_2026,prov_namur,2026,45339528,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Depenses transferts exercice propre 45339528
+bud_namur_prov_dette_2026,prov_namur,2026,9273830,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Service de la dette exercice propre 9273830
+bud_namur_prov_zones_secours_2026,prov_namur,2026,30300000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Zones de secours 27.2m dotation + 3.1m complement RW = 30.3m
+bud_namur_prov_zones_dotation_2026,prov_namur,2026,27200000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Dotation zones de secours 27.2m
+bud_namur_prov_zones_complement_2026,prov_namur,2026,3100000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Budget complementaire RW zones 3.1m (also in recettes)
+bud_namur_prov_supracom_communes_2026,prov_namur,2026,500000,,,budgeted,src_ccrek_namur_prov_budget_2026,medium,New subsidies to communes supracommunalite transition territoriale +0.5m class
+bud_namur_prov_ext_rec_propre_2026,prov_namur,2026,11303046,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Extraordinaire recettes exercice propre 11303046 Tableau 11
+bud_namur_prov_ext_dep_propre_2026,prov_namur,2026,17789888,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Extraordinaire depenses exercice propre 17789888
+bud_namur_prov_ext_rec_global_2026,prov_namur,2026,34406707,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Extraordinaire recettes exercice global 34406707
+bud_namur_prov_ext_dep_global_2026,prov_namur,2026,19334888,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Extraordinaire depenses exercice global 19334888
+bud_namur_prov_ext_invest_2026,prov_namur,2026,17497688,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Investissements extraordinaire 17497688 Tableau 14
+bud_namur_prov_total_dep_propre_2026,prov_namur,2026,222011931,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 204222043+17789888
