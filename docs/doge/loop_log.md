@@ -775,3 +775,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (stack unchanged: gap_hainaut_asbl_list_2026, gap_lux_asbl_list_2026 ready)
 - Next: **rq_100** VL vs WAL province L5 opacity (prio 2) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T17:19:00Z -- tick 100
+- Unit: rq_100 (VL vs WAL province L5 opacity cross-compare)
+- Found (strong synthesis, **not additive**): Flanders **werkingssubsidies sum 5 = €194,175,471**; named POM+tourism 4 = **€38,472,193** (WVL 59%). Wallonia **known ASBL packages BW+Lux only = €14,300,000**; entity counts H+BW+N = **240**; Hainaut 199 FOI. L1 context: VL exp €1.11bn vs WAL ord €1.93bn (different systems). Mechanism: VL MJP/T2 named L5 stronger public; WAL CoA annex often body-missing amounts; dual accounting forbids “Belgian provincial subsidy” headline. Invalid claim: WAL ASBL < VL werksubs as total comparison.
+- Wrote: `provinces_vl_wal_l5_opacity_2026.md`; 4 budgets; 1 cmt; 1 lb; 1 source; rq_100=done; seeded rq_101 city L5 recheck; ticks=100
+- FOI: none new (Hainaut + Lux ready, human send)
+- Next: **rq_101** Gent/Antwerp city L5 recheck (prio 3) or **rq_089** SWA Q4 (prio 1)
+

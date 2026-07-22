@@ -103,3 +103,5 @@ Named invest (extra), not full ASBL list:
 4. Remaining money discovery for this layer is mostly **FOI / open-data publication**, not more PDF scraping of CoA bodies.
 
 Sources: `src_ccrek_hainaut_*`, `src_ccrek_bw_*`, `src_ccrek_namur_*`, `src_ccrek_lux_*`, `src_liege_prov_budget_*`, synthesis `src_doge_walloon_prov_l5_2026`.
+
+Cross-region L5 opacity (tick 100): `provinces_vl_wal_l5_opacity_2026.md`.

@@ -89,4 +89,5 @@ APB package is **larger than the entire 4-province POM sum** (38,925,780 vs 20,0
 
 src_westvl_prov_mjp_2026; src_limburg_prov_amjp_jun2026; src_oostvl_prov_mjp_documentatie_2026; src_vbr_prov_mjp_2026; src_antwerpen_prov_mjp_2026; src_doge_flemish_l5_compare_2026.
 
-Parallel L1 snapshot: `flemish_provinces_2026_snapshot.md`.
+Parallel L1 snapshot: `flemish_provinces_2026_snapshot.md`.  
+Cross-region L5 opacity (tick 100): `provinces_vl_wal_l5_opacity_2026.md`.

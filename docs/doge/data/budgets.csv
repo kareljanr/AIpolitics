@@ -716,3 +716,7 @@ bud_lux_prov_cancer_vehicle_2026,prov_luxembourg,2026,500000,,,budgeted,src_ccre
 bud_lux_prov_centres_sante_invest_2026,prov_luxembourg,2026,600000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Invest centres de sante acquisition construction amenagement 0.6m
 bud_lux_prov_palais_annex_2026,prov_luxembourg,2026,500000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Amenagement annexe palais provincial 0.5m
 bud_walloon_asbl_totals_known_2026,sec_wallonia,2026,14300000,,,budgeted,src_doge_walloon_prov_l5_2026,strong,Known ASBL package totals BW 10.0m + Lux 4.3m = 14.3m (Hainaut Namur Liege totals unknown)
+bud_vl_wal_l5_vl_werksubs_sum5_2026,sec_flanders,2026,194175471,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: VL 5-prov toegestane werkingssubsidies sum 2026 (from flemish L5 map)
+bud_vl_wal_l5_wal_known_asbl_2026,sec_wallonia,2026,14300000,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: WAL known ASBL package BW+Lux only 14.3m (NOT full WAL ASBL total)
+bud_vl_wal_l5_wal_entity_count_2026,sec_wallonia,2026,240,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: Hainaut 199 + BW 31 + Namur 10 entity counts ge50k
+bud_vl_wal_l5_vl_pom_tourism4_2026,sec_flanders,2026,38472193,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: VL POM+tourism named 4 provinces 38.5m
