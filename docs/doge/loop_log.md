@@ -711,3 +711,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none (full named register public in documentatie)
 - Next: **rq_092** Antwerpen or Limburg named L5 (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T15:19:00Z -- tick 92
+- Unit: rq_092 (Antwerpen/Limburg named L5 subsidies sample)
+- Found (strong): **Limburg** AMJP verbonden entiteiten p122-124: **Bokrijk EUR 6,500,000** (path to 2.0m 2031); **Diepenbeek campus EUR 5,000,000** (peaks 8.0m 2027); **POM Limburg EUR 4,850,000** (flat); **Toerisme Limburg EUR 4,750,000** (flat); **pcFruit EUR 1,500,000**; 3 regionale landschappen sum **EUR 2,101,998**; Dommelhof 150k; Dubolimburg 185k; PIBO 230k; PVL 200k. Top4 sum **EUR 21.1m** of total werkingssubsidies 25.9m. **Antwerpen** T2: **APB package EUR 38,925,780** (13 named APBs without per-line EUR); andere begunstigden **EUR 22,907,585**; eredienst 743k; niet-conf 1.25m; AP vrijetijd verzelfstandigde entiteiten **EUR 16,642,250**. POM Antwerpen loan guarantee class ~20m outstanding (medium narrative).
+- Wrote: 19 budgets; 6 commitments; 4 leaderboard; entities; source; rq_092=done; seeded rq_093 VBR L5; ticks=92
+- FOI: none for LIM names; ANT per-APB split still not public in main MJP (optional later FOI)
+- Next: **rq_093** Vlaams-Brabant named L5 (prio 2) or **rq_089** SWA Q4 (prio 1)
+

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T15:04:00Z,rq_091,91,no,"OVL L5 deepen POM 2.0m Erov 1.45m Polders 2.1m (tick91). Next: rq_092 ANT/LIM L5 or rq_089 SWA."
+main,continuous,continuous,2026-07-22T15:19:00Z,rq_092,92,no,"LIM L5 Bokrijk 6.5m POM 4.85m Toerisme 4.75m; ANT APB 38.9m (tick92). Next: rq_093 VBR L5 or rq_089 SWA."

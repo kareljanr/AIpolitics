@@ -624,3 +624,22 @@ bud_ovl_azorg_ahria_2026,prov_oost_vlaanderen,2026,350000,,,budgeted,src_oostvl_
 bud_ovl_bosgroep_werking_2026,prov_oost_vlaanderen,2026,332702,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Bosgroep Oost-Vlaanderen werkingssubsidie 2026 EUR 332701.60
 bud_ovl_domain_economie_subs_2026,prov_oost_vlaanderen,2026,20423228,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Beleidsdomein economie/landbouw/EU domain werkingssubsidies total 2026 EUR 20423228.46
 bud_ovl_domain_leefmilieu_subs_2026,prov_oost_vlaanderen,2026,4858494,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Beleidsdomein leefmilieu werkingssubsidies total 2026 EUR 4858494
+bud_lim_pom_2026,prov_limburg,2026,4850000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,POM Limburg verbonden entiteit 2026 EUR 4850000 (AMJP list p124)
+bud_lim_toerisme_2026,prov_limburg,2026,4750000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Toerisme Limburg 2026 EUR 4750000
+bud_lim_bokrijk_2026,prov_limburg,2026,6500000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Het Domein Bokrijk 2026 EUR 6500000 (path down to 2.0m 2031)
+bud_lim_diepenbeek_campus_2026,prov_limburg,2026,5000000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Limburg Diepenbeek campus 2026 EUR 5000000 (path 8m 2027 then down)
+bud_lim_pcfruit_2026,prov_limburg,2026,1500000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Proefcentrum Fruitteelt pcFruit 2026 EUR 1500000
+bud_lim_rl_haspengouw_2026,prov_limburg,2026,1150666,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Regionaal Landschap Haspengouw en Voeren 2026 EUR 1150666
+bud_lim_rl_kempen_maasland_2026,prov_limburg,2026,475666,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Regionaal Landschap Kempen en Maasland 2026 EUR 475666
+bud_lim_rl_lage_kempen_2026,prov_limburg,2026,475666,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Regionaal Landschap Lage Kempen 2026 EUR 475666
+bud_lim_rl_sum3_2026,prov_limburg,2026,2101998,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Sum 3 regionale landschappen Limburg 2026 EUR 2101998
+bud_lim_pibo_2026,prov_limburg,2026,230000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,PIBO-campus 2026 EUR 230000
+bud_lim_pvl_2026,prov_limburg,2026,200000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Proef- en Vormingscentrum Landbouw PVL 2026 EUR 200000
+bud_lim_dommelhof_2026,prov_limburg,2026,150000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Stichting Dommelhof EVA 2026 EUR 150000
+bud_lim_dubolimburg_2026,prov_limburg,2026,185000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Steunpunt Duurzaam Bouwen Dubolimburg 2026 EUR 185000
+bud_lim_top4_entities_2026,prov_limburg,2026,21100000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Sum Bokrijk+Diepenbeek+POM+Toerisme 2026 EUR 21100000 of total werkingssubsidies 25.9m
+bud_ant_apb_werkingssubsidies_2026,prov_antwerpen,2026,38925780,,,budgeted,src_antwerpen_prov_mjp_2026,strong,T2 werkingssubsidies aan eigen APB 2026 EUR 38925780 (13 APBs listed)
+bud_ant_subs_andere_2026,prov_antwerpen,2026,22907585,,,budgeted,src_antwerpen_prov_mjp_2026,strong,T2 werkingssubsidies aan andere begunstigden 2026 EUR 22907585
+bud_ant_subs_eredienst_2026,prov_antwerpen,2026,743381,,,budgeted,src_antwerpen_prov_mjp_2026,strong,T2 werkingssubsidies eredienst 2026 EUR 743381
+bud_ant_subs_nietconf_2026,prov_antwerpen,2026,1251410,,,budgeted,src_antwerpen_prov_mjp_2026,strong,T2 niet-confessionele gemeenschappen 2026 EUR 1251410
+bud_ant_vrijetijd_ap_entities_2026,prov_antwerpen,2026,16642250,,,budgeted,src_antwerpen_prov_mjp_2026,strong,AP000061 verzelfstandigde entiteiten vrijetijdsaanbod uitgaven 2026 EUR 16642250
