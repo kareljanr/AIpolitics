@@ -632,3 +632,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: 20 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_vlaams_brabant; raw MJP PDF; rq_081=done; seeded rq_082 VL compare; ticks=82
 - FOI: none
 - Next: **rq_082** Flemish 5-province compare (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T12:50:00Z — tick 83
+- Unit: rq_082 (Flemish 5 provinces 2026 comparative snapshot)
+- Found (strong synthesis; gaps flagged): 5-province map from ticks 78-82.
+
+| Province | Exp 2026 | Cash-out | Inv 2026 | Opcentiemen | Debt |
+|---|---:|---:|---:|---:|---:|
+| Limburg | 247.3m | 360.3m | 106.1m | 90.9m | 127.0m |
+| Antwerpen | 204.7m | 274.3m | 60.4m | 172.1m | 19.9m |
+| Vlaams-Brabant | 151.0m | 200.6m | 43.4m | 126.8m | 36.9m |
+| Oost-Vlaanderen | n/a | n/a | 62.6m | 110.5m | 17.4m |
+| West-Vlaanderen | n/a | n/a | ~60m/yr class | n/a | 92.3m start |
+
+- **Exp sum ANT+LIM+VBR EUR 602,988,534**; **cash-out sum EUR 835,202,216** (~EUR 0.84 bn); **opcent 4-prov EUR 500,421,882**; **inv 2026 4-prov EUR 272,595,891**; **inv period OVL+WVL+LIM+VBR EUR 1,290,558,167** (~EUR 1.29 bn). Debt 5-prov class **EUR 293,580,225**. Caveats: WVL/OVL full exp not extracted; OVL/LIM pers include onderwijs pass-through.
+- Wrote: flemish_provinces_2026_snapshot.md; 6 budgets; 2 commitments; 2 leaderboard; 1 source; rq_082=done; ticks=83
+- FOI: none (public gaps are extractability)
+- Next: **rq_071** SWA recheck (prio 2) or fill WVL/OVL full exp from T2

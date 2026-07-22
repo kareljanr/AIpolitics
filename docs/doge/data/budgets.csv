@@ -543,3 +543,9 @@ bud_vbr_prov_fiets_period,prov_vlaams_brabant,2026,66300000,,,budgeted,src_vbr_p
 bud_vbr_prov_fiets_2026,prov_vlaams_brabant,2026,11550000,,,budgeted,src_vbr_prov_mjp_2026,strong,Fietsinfrastructuur uitgaven 2026 11550000
 bud_vbr_prov_water_2026,prov_vlaams_brabant,2026,3294732,,,budgeted,src_vbr_prov_mjp_2026,strong,Waterrecreatie openluchtzwembaden uitgaven 2026 3294732
 bud_vbr_prov_gds_2026,prov_vlaams_brabant,2026,32713482,,,budgeted,src_vbr_prov_mjp_2026,strong,Goederen en diensten 2026 32713482
+bud_vl_provinces_exp_uit_sum3_2026,sec_flanders,2026,602988534,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum exp uitgaven ANT+LIM+VBR 2026 only (WVL/OVL full exp missing)
+bud_vl_provinces_cashout_sum3_2026,sec_flanders,2026,835202216,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum cash-out ANT+LIM+VBR 2026
+bud_vl_provinces_opcent_sum4_2026,sec_flanders,2026,500421882,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum opcentiemen ANT+OVL+LIM+VBR 2026 (WVL chart not digitised)
+bud_vl_provinces_inv2026_sum4,sec_flanders,2026,272595891,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum invest uitgaven 2026 ANT+OVL+LIM+VBR
+bud_vl_provinces_inv_period_sum4,sec_flanders,2026,1290558167,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum invest period 2026-31 OVL+LIM+VBR+WVL (ANT 6y not in CSV)
+bud_vl_provinces_debt_sum5_2026,sec_flanders,2026,293580225,,,budgeted,src_doge_flemish_prov_compare_2026,medium,Sum debt stocks 5 provinces; WVL uses 01/01/2026 start not EOY

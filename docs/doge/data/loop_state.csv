@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T12:35:00Z,rq_081,82,no,"Prov Vlaams-Brabant MJP exp 151m cashout 201m. 5/5 VL provinces done. Next: rq_082 compare or rq_071 SWA."
+main,continuous,continuous,2026-07-22T12:50:00Z,rq_082,83,no,"Flemish 5-prov snapshot: cashout 3-prov ~835m. Next: rq_071 SWA or WVL/OVL exp fill."
