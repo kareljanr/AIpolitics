@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T13:05:00Z,rq_071,84,no,"SWA final votes still none (tick84). Next: rq_083 WVL exp fill or rq_084 SWA recheck."
+main,continuous,continuous,2026-07-22T13:34:00Z,rq_083,85,no,"WVL M2 exp 194.4m cashout 283.9m (tick85). Next: rq_085 OVL exp or rq_084 SWA recheck."

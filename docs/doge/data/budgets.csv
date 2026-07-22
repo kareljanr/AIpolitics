@@ -549,3 +549,15 @@ bud_vl_provinces_opcent_sum4_2026,sec_flanders,2026,500421882,,,budgeted,src_dog
 bud_vl_provinces_inv2026_sum4,sec_flanders,2026,272595891,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum invest uitgaven 2026 ANT+OVL+LIM+VBR
 bud_vl_provinces_inv_period_sum4,sec_flanders,2026,1290558167,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum invest period 2026-31 OVL+LIM+VBR+WVL (ANT 6y not in CSV)
 bud_vl_provinces_debt_sum5_2026,sec_flanders,2026,293580225,,,budgeted,src_doge_flemish_prov_compare_2026,medium,Sum debt stocks 5 provinces; WVL uses 01/01/2026 start not EOY
+bud_wvl_prov_exp_uit_2026,prov_west_vlaanderen,2026,194441409,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 exploitatie-uitgaven 2026 EUR 194441408.86 (rounded)
+bud_wvl_prov_exp_ont_2026,prov_west_vlaanderen,2026,216640317,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 exploitatieontvangsten 2026 EUR 216640316.94
+bud_wvl_prov_exp_saldo_2026,prov_west_vlaanderen,2026,22198908,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 exploitatiesaldo 2026 EUR 22198908.08
+bud_wvl_prov_inv_uit_2026,prov_west_vlaanderen,2026,70132288,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 investeringsuitgaven 2026 EUR 70132287.74
+bud_wvl_prov_inv_ont_2026,prov_west_vlaanderen,2026,15237921,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 investeringsontvangsten 2026 EUR 15237920.80
+bud_wvl_prov_fin_uit_2026,prov_west_vlaanderen,2026,19371814,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 financieringsuitgaven 2026 EUR 19371814.00
+bud_wvl_prov_fin_ont_2026,prov_west_vlaanderen,2026,81390,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 financieringsontvangsten 2026 EUR 81390.00
+bud_wvl_prov_cashout_2026,prov_west_vlaanderen,2026,283945511,,,budgeted,src_westvl_prov_mjp_2026,strong,Cash-out 2026 exp+inv+fin uit = 194441409+70132288+19371814
+bud_wvl_prov_exp_uit_2031,prov_west_vlaanderen,2031,218519509,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 exploitatie-uitgaven 2031 EUR 218519508.56
+bud_wvl_prov_exp_ont_2031,prov_west_vlaanderen,2031,242172530,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 exploitatieontvangsten 2031 EUR 242172530.11
+bud_vl_provinces_exp_uit_sum4_2026,sec_flanders,2026,797429943,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum exp uit ANT+LIM+VBR+WVL 2026 after rq_083
+bud_vl_provinces_cashout_sum4_2026,sec_flanders,2026,1119147727,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum cash-out ANT+LIM+VBR+WVL 2026 after rq_083

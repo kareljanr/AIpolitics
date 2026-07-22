@@ -656,3 +656,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 3 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_071=done; seeded **rq_083** WVL exp fill + **rq_084** SWA recheck; ticks=84
 - FOI: none (parliamentary process tracking)
 - Next: **rq_083** West-Vlaanderen full exp T2 (prio 3) or **rq_084** SWA recheck (prio 2)
+### 2026-07-22T13:34:00Z — tick 85
+- Unit: rq_083 (West-Vlaanderen full exploitatie 2026 from Schema M2)
+- Found (strong, official Schema M2 p15 vision-read + press cross-check): **Exploitatie-uitgaven EUR 194,441,409** / ontvangsten **EUR 216,640,317** (saldo **EUR 22,198,908**). **Investeringsuitgaven EUR 70,132,288** / ontvangsten **EUR 15,237,921**. **Financieringsuitgaven EUR 19,371,814** / ontvangsten **EUR 81,390**. **Cash-out EUR 283,945,511**. BBR **EUR 15,204,117** and AFM **EUR 10,913,984** reconfirm prior chart reads. Path to 2031: exp uit **EUR 218,519,509** / ont **EUR 242,172,530**. Secondary press (Kelly De Tavernier / HLN) quotes 194.4m→218.5m and 216.6m→242.2m — aligns M2. Updated 4-province compare: exp sum **EUR 797,429,943**; cash-out sum **EUR 1,119,147,727**. Rank cash-out: LIM 360 > WVL 284 > ANT 274 > VBR 201. Werkingssubsidies name-level still medium ~55m class.
+- Wrote: 12 budgets; updated cmt_wvl + cmt_vl_provinces; flemish snapshot; 2 press sources; entity note; rq_083=done; seeded rq_085 OVL exp; ticks=85
+- FOI: none (public M2 extractable; residual is OVL T2 + WVL L5 subsidies)
+- Next: **rq_085** Oost-Vlaanderen full exp T2 (prio 3) or **rq_084** SWA recheck (prio 2)
+
