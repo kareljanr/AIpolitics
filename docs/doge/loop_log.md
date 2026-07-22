@@ -671,3 +671,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none (documentatie public on beleidsportaal)
 - Next: **rq_086** WVL opcentiemen (prio 2) or **rq_084** SWA recheck (prio 2)
 
+
+### 2026-07-22T14:04:00Z -- tick 87
+- Unit: rq_086 (West-Vlaanderen opcentiemen 2026 from Schema T2)
+- Found (strong, official Schema T2 p30-31 vision-read): **Opcentiemen OV 2026 EUR 128,769,361** (aanslagvoet **186,22**; VLABEL 13/09/2025). Path to **EUR 150,110,481** in 2031. **Andere/eigen belastingen EUR 57,843,000**. Fiscal sum (opcent+eigen+boetes 100) **EUR 186,612,461**. Completes **5/5 Flemish opcentiemen**. Opcent sum 5-prov **EUR 629,191,243**. Rank opcent: ANT 172 > WVL 129 > VBR 127 > OVL 111 > LIM 91. Chart p118 aligns ~129m->150m class.
+- Wrote: 5 budgets; cmt_wvl + cmt_vl; snapshot; sources; entity; rq_086=done; rq_087 snapshot refresh=done; ticks=87
+- FOI: none
+- Next: **rq_084** SWA recheck (prio 2) or seed new L5/continuous unit
+

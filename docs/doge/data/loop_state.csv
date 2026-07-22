@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T13:49:00Z,rq_085,86,no,"OVL exp 313.2m cashout 379.9m (tick86). Next: rq_086 WVL opcent or rq_084 SWA recheck."
+main,continuous,continuous,2026-07-22T14:04:00Z,rq_086,87,no,"WVL opcent 128.8m (tick87). Next: rq_084 SWA recheck or new L5 unit."

@@ -571,3 +571,8 @@ bud_ovl_prov_subs_granted_2026,prov_oost_vlaanderen,2026,30667884,,,budgeted,src
 bud_ovl_prov_exp_goederen_2026,prov_oost_vlaanderen,2026,63828447,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Exp goederen en diensten 2026 63828447.48
 bud_vl_provinces_exp_uit_sum5_2026,sec_flanders,2026,1110597112,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum exp uit all 5 Flemish provinces 2026 after rq_085
 bud_vl_provinces_cashout_sum5_2026,sec_flanders,2026,1499003428,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum cash-out all 5 Flemish provinces 2026 after rq_085
+bud_wvl_prov_opcentiemen_2026,prov_west_vlaanderen,2026,128769361,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema T2 p31 Opcentiemen OV 2026 EUR 128769361; rate 186.22; VLABEL 13/09/2025
+bud_wvl_prov_opcentiemen_2031,prov_west_vlaanderen,2031,150110481,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema T2 p31 Opcentiemen OV 2031 EUR 150110481
+bud_wvl_prov_eigen_belastingen_2026,prov_west_vlaanderen,2026,57843000,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema T2 p31 Andere belastingen (eigen) 2026 EUR 57843000
+bud_wvl_prov_fiscal_total_2026,prov_west_vlaanderen,2026,186612461,,,budgeted,src_westvl_prov_mjp_2026,strong,Opcent 128769361 + eigen 57843000 + boetes 100 = 186612461 (T2 p30/31)
+bud_vl_provinces_opcent_sum5_2026,sec_flanders,2026,629191243,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum opcentiemen all 5 Flemish provinces 2026 after rq_086
