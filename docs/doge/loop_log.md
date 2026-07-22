@@ -751,3 +751,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **gap_hainaut_asbl_list_2026** ready (not sent)
 - Next: **rq_097** Namur/Brabant wallon L5 (prio 2) or **rq_089** SWA Q4 (prio 1); human may send Hainaut FOI
 
+
+### 2026-07-22T16:34:00Z -- tick 97
+- Unit: rq_097 (Namur + Brabant wallon province L5 named/aggregate sample)
+- Found (strong, CoA primary): **Brabant wallon:** consolidated ASBL/FUP list **31 entities** with aids >=50k totaling **EUR 10,000,000**; motivations **explicit** (better than Hainaut). **34** management contracts 2024. Named invest: storm basins **EUR 3,100,000**; Helecine brewery **EUR 1,300,000**; points-noeuds **EUR 1,200,000**; IPES Wavre **EUR 800,000**. Aviq overpayment provision **EUR 1,800,000**. Transfers **EUR 27.5m**. **Namur:** only **10 entities** ge50k (3 **without** motivation); **21** management contracts 2024; Chevetogne regie dotation **-0.2m** path; BEP **-0.4m**; police academy federal receipt **EUR 1,600,000**; **pension cotisations debudgeted EUR 10,000,000** to fund (Ethias reserve path toward exhaustion ~2031); GSM tax provision 1.5m. Compare: Hainaut 199 unmotivated > BW 31/10m motivated > Namur 10 partial.
+- Wrote: 18 budgets; 5 commitments; 3 leaderboard; walloon snapshot ASBL table; entities; sources; rq_097=done; seeded rq_098 Lux; ticks=97
+- FOI: none new (Hainaut FOI already ready)
+- Next: **rq_098** Luxembourg ASBL deepen (prio 2) or **rq_089** SWA Q4 (prio 1)
+

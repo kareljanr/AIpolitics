@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T16:19:00Z,rq_096,96,no,"Hainaut ASBL FOI draft ready (tick96). Next: rq_097 Namur/BW L5 or rq_089 SWA; human may send FOI."
+main,continuous,continuous,2026-07-22T16:34:00Z,rq_097,97,no,"BW ASBL 10.0m/31 entities; Namur pension debudget 10m (tick97). Next: rq_098 Lux or rq_089 SWA."

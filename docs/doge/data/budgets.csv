@@ -686,3 +686,21 @@ bud_hainaut_tournai_cathedral_invest_2026,prov_hainaut,2026,3900000,,,budgeted,s
 bud_hainaut_transfers_hors_zones_2026,prov_hainaut,2026,15500000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Depenses transferts hors zones secours 15.5m 2026 CoA
 bud_hainaut_asbl_list_count_2026,prov_hainaut,2026,199,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,199 entities with provincial aids >=50k/yr (CoA; amounts not published in report)
 bud_hainaut_contrats_gestion_2024,prov_hainaut,2024,53,,,outturn,src_ccrek_hainaut_prov_budget_2026,strong,53 active management contracts 2024 (52 ASBL + regie Hainaut securite)
+bud_bw_prov_asbl_ge50k_sum_2026,prov_brabant_wallon,2026,10000000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,31 entities ASBL/FUP aids >=50k/yr total EUR 10.0m CoA 2026 annex
+bud_bw_prov_asbl_entity_count_2026,prov_brabant_wallon,2026,31,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,31 consolidated entities with motivation explicit CoA
+bud_bw_prov_contrats_gestion_2024,prov_brabant_wallon,2024,34,,,outturn,src_ccrek_bw_prov_budget_2026,strong,34 management contracts active 2024
+bud_bw_prov_aviq_provision_2026,prov_brabant_wallon,2026,1800000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Provision Aviq overpayment risk IMP fusion 1.8m triennat 2023-25
+bud_bw_prov_helecine_brasserie_2026,prov_brabant_wallon,2026,1300000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Invest Chateau Helecine new brewery visitors 1.3m extraordinaire
+bud_bw_prov_bassins_orage_2026,prov_brabant_wallon,2026,3100000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Invest storm basins land+works 3.1m (Beauvechain Forges 1.6m class)
+bud_bw_prov_points_noeuds_2026,prov_brabant_wallon,2026,1200000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Invest cycle network points-noeuds 1.2m
+bud_bw_prov_ipes_wavre_2026,prov_brabant_wallon,2026,800000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Invest IPES Wavre Quai aux Huitres renovation suite 0.8m
+bud_bw_prov_transferts_2026,prov_brabant_wallon,2026,27500000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Depenses transferts 27.5m 2026 CoA
+bud_namur_prov_asbl_entity_count_2026,prov_namur,2026,10,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,10 entities ASBL/FUP aids >=50k/yr CoA annex (vs Hainaut 199 BW 31)
+bud_namur_prov_asbl_unmotivated_count_2026,prov_namur,2026,3,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,3 of 10 entities lack explicit subsidisation motivation CoA
+bud_namur_prov_contrats_gestion_2024,prov_namur,2024,21,,,outturn,src_ccrek_namur_prov_budget_2026,strong,21 management contracts active 2024
+bud_namur_prov_chevetogne_regie_delta_2026,prov_namur,2026,-200000,,,budgeted,src_ccrek_namur_prov_budget_2026,medium,Dotation regie Domaine Valery Cousin Chevetogne -0.2m vs 2025 adjusted (responsabilisation path)
+bud_namur_prov_bep_delta_2026,prov_namur,2026,-400000,,,budgeted,src_ccrek_namur_prov_budget_2026,medium,BEP subsidy -0.4m vs 2025 adjusted CoA note
+bud_namur_prov_police_academy_fed_2026,prov_namur,2026,1600000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Federal functioning subsidy Academie de police 1.6m receipt estimate
+bud_namur_prov_pension_debudget_2026,prov_namur,2026,10000000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,ONSS pension cotisations partially debudgeted 10.0m to pension fund reserves
+bud_namur_prov_gsm_tax_provision_2026,prov_namur,2026,1500000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Provision GSM mast tax litigation 1.5m
+bud_walloon_asbl_entity_counts_compare,sec_wallonia,2026,240,,,budgeted,src_doge_walloon_prov_l5_2026,strong,Entity counts ge50k: Hainaut 199 + BW 31 + Namur 10 = 240 class (Lux 4.3m list separate metric)

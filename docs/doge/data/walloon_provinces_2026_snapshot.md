@@ -25,3 +25,17 @@ Synthesis only from DOGE ticks 72–76 primary rows. **No invented euros.**
 - Zones / ord dep (5-prov): **9.7%**
 
 Sources: src_liege_prov_budget_2026; src_ccrek_lux/namur/hainaut/bw_prov_budget_2026.
+
+
+## ASBL / extraprovincial L5 opacity (ticks 95–97)
+
+| Province | Entities ≥€50k | Total EUR in CoA text | Motivation in CoA |
+|----------|---------------:|----------------------:|-------------------|
+| Hainaut | 199 | n/a (FOI ready) | **None** (CoA flag) |
+| Brabant wallon | 31 | **€10,000,000** | **Explicit** |
+| Namur | 10 | n/a | 7/10 yes; **3 missing** |
+| Luxembourg | (list class) | **€4,300,000** (prior) | mapped earlier |
+| Liège | named sample | culture/tourism lines | per-article budget |
+
+**Best public total:** Brabant wallon €10.0m for 31 entities.  
+**Worst opacity:** Hainaut 199 entities without CoA-visible motivation or amounts → `gap_hainaut_asbl_list_2026`.
