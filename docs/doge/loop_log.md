@@ -565,3 +565,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_namur; raw CoA PDF; rq_073=done; seeded rq_074 Hainaut; ticks=74
 - FOI: none (CoA projet public)
 - Next: **rq_074** Province Hainaut (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T10:50:00Z — tick 75
+- Unit: rq_074 (Province de Hainaut budget L1 + L5 sample)
+- Found (strong, Cour des comptes 2026_13 projet budget 2026, FR chamber 16 Dec 2025): **Ordinaire exercice propre** recettes **EUR 831,167,239** / depenses **EUR 830,647,769** (boni **EUR 519,470**); global boni **EUR 27.0 m**. **Extraordinaire propre** rec **EUR 21,823,057** / dep **EUR 23,485,170**; global dep **EUR 24,302,283**. Combined propre dep **~EUR 854.1 m** — **largest Walloon province** (vs Liege ord ~564m). Named: **precompte ~EUR 286.7 m**; **fonds des provinces EUR 71.3 m**; **zones de secours EUR 78.2 m** transfer (6.9+7.1+64.2) **+ provision EUR 6.0 m** for tutelle Oct path (total effective ~84.2m; trajectory to **EUR 127.3 m by 2030**); **personnel EUR 621.4 m** (~75pct); **transferts EUR 93.6 m**; **ASBL Voies d eau EUR 2.3 m** (+1.8m severance); **Cathédrale Tournai invest EUR 3.9 m** (RW subside 3.7m); taxes provinciales **EUR 9.4 m** (new taxes 3.8m). Consolidated ASBL list **199** entities — no aggregate EUR. CoA: pension under-inscription 2.1m.
+- Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_hainaut; raw CoA PDF; rq_074=done; seeded rq_075 Brabant wallon; ticks=75
+- FOI: none (CoA projet public)
+- Next: **rq_075** Province Brabant wallon (prio 3) or **rq_071** SWA recheck (prio 2)

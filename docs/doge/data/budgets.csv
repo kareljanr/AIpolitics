@@ -391,3 +391,26 @@ bud_namur_prov_ext_rec_global_2026,prov_namur,2026,34406707,,,budgeted,src_ccrek
 bud_namur_prov_ext_dep_global_2026,prov_namur,2026,19334888,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Extraordinaire depenses exercice global 19334888
 bud_namur_prov_ext_invest_2026,prov_namur,2026,17497688,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Investissements extraordinaire 17497688 Tableau 14
 bud_namur_prov_total_dep_propre_2026,prov_namur,2026,222011931,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 204222043+17789888
+bud_hainaut_prov_ord_rec_2026,prov_hainaut,2026,831167239,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Service ordinaire recettes exercice propre projet 2026 Tableau 2 CoA
+bud_hainaut_prov_ord_dep_2026,prov_hainaut,2026,830647769,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Service ordinaire depenses exercice propre projet 2026 Tableau 2 CoA
+bud_hainaut_prov_ord_boni_propre_2026,prov_hainaut,2026,519470,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Boni exercice propre ordinaire 519470
+bud_hainaut_prov_ord_rec_global_2026,prov_hainaut,2026,878323448,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Service ordinaire recettes exercice global 878323448
+bud_hainaut_prov_ord_dep_global_2026,prov_hainaut,2026,851363153,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Service ordinaire depenses exercice global 851363153
+bud_hainaut_prov_ord_boni_global_2026,prov_hainaut,2026,26960295,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Boni exercice global ordinaire 26960295
+bud_hainaut_prov_precompte_2026,prov_hainaut,2026,286700000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Additionnels precompte immobilier SPW actualisation Oct 2025 286.7m class
+bud_hainaut_prov_fonds_provinces_2026,prov_hainaut,2026,71300000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Fonds des provinces 71.3m (no indexation vs tutelle 72.8m)
+bud_hainaut_prov_taxes_prov_2026,prov_hainaut,2026,9400000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Taxes provinciales 9.4m incl new taxes 3.8m + classified establishments 2.9m
+bud_hainaut_prov_personnel_2026,prov_hainaut,2026,621417088,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Depenses personnel exercice propre 621417088 Tableau 5 ~75pct
+bud_hainaut_prov_fonctionnement_2026,prov_hainaut,2026,78354840,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Depenses fonctionnement exercice propre 78354840
+bud_hainaut_prov_transferts_2026,prov_hainaut,2026,93644171,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Depenses transferts exercice propre 93644171
+bud_hainaut_prov_dette_2026,prov_hainaut,2026,37231670,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Service de la dette exercice propre 37231670
+bud_hainaut_prov_zones_secours_2026,prov_hainaut,2026,78200000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Zones secours transfer articles 78.2m (6.9 complement + 7.1 10pct fonds + 64.2 90pct fonds)
+bud_hainaut_prov_zones_provision_2026,prov_hainaut,2026,6000000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Provision zones secours 6.0m (tutelle Oct 2025 complementary path; reclass later)
+bud_hainaut_prov_voies_eau_2026,prov_hainaut,2026,2300000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,ASBL Voies d eau du Hainaut subside 2.3m 2026 incl +1.8m severance tourism stop
+bud_hainaut_prov_cathedrale_tournai_2026,prov_hainaut,2026,3900000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Cathédrale Notre-Dame Tournai invest 3.9m of which RW subside 3.7m (accord-cadre 2018)
+bud_hainaut_prov_ext_rec_propre_2026,prov_hainaut,2026,21823057,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Extraordinaire recettes exercice propre 21823057 Tableau 10
+bud_hainaut_prov_ext_dep_propre_2026,prov_hainaut,2026,23485170,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Extraordinaire depenses exercice propre 23485170
+bud_hainaut_prov_ext_rec_global_2026,prov_hainaut,2026,88773867,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Extraordinaire recettes exercice global 88773867
+bud_hainaut_prov_ext_dep_global_2026,prov_hainaut,2026,24302283,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Extraordinaire depenses exercice global 24302283
+bud_hainaut_prov_ext_invest_2026,prov_hainaut,2026,22774470,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Investissements extraordinaire 22774470 Tableau 13
+bud_hainaut_prov_total_dep_propre_2026,prov_hainaut,2026,854132939,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 830647769+23485170
