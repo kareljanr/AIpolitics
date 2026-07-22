@@ -727,3 +727,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: **rq_094** VL provinces L5 POM/tourism compare (prio 2) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T15:49:00Z -- tick 94
+- Unit: rq_094 (Flemish provinces L5 POM/tourism compare synthesis)
+- Found (strong synthesis, no new primary PDF): From ticks 90-93 only. **POM named sum 4 provinces EUR 20,079,246** (WVL 11,653,824 > LIM 4,850,000 > OVL 2,004,589 > VBR 1,570,833). **Tourism agency sum 4 EUR 18,392,947** (Westtoer 11,052,567 > LIM 4,750,000 > VBR 1,990,204 > OVL 600,176). **Combined POM+tourism 4 EUR 38,472,193** (WVL alone 59%). **Werkingssubsidies sum 5 EUR 194,175,471** (ANT 63,828,156 largest). **Antwerp APB package EUR 38,925,780** is **not** POM-equivalent (13 companies; larger than POM4 alone). Perimeter caveats documented.
+- Wrote: flemish_provinces_l5_agencies_2026.md; 5 budgets; 1 commitment; 2 leaderboard; snapshot update; source; rq_094=done; seeded rq_095 Walloon L5; ticks=94
+- FOI: none (synthesis of public extracts)
+- Next: **rq_095** Walloon province L5 sample (prio 3) or **rq_089** SWA Q4 (prio 1)
+

@@ -663,3 +663,8 @@ bud_vbr_de_rand_taal_ap_2026,prov_vlaams_brabant,2026,1202000,,,budgeted,src_vbr
 bud_vbr_apb_t2_total_2026,prov_vlaams_brabant,2026,1531315,,,budgeted,src_vbr_prov_mjp_2026,strong,T2 werkingssubsidies aan eigen APB 2026 EUR 1531315
 bud_vbr_subs_andere_2026,prov_vlaams_brabant,2026,15654473,,,budgeted,src_vbr_prov_mjp_2026,strong,T2 werkingssubsidies aan andere begunstigden 2026 EUR 15654473
 bud_vbr_top3_agencies_2026,prov_vlaams_brabant,2026,5236016,,,budgeted,src_vbr_prov_mjp_2026,strong,Sum Toerisme+Praktijkpunt+POM 2026 EUR 5236016
+bud_vl_pom_sum4_2026,sec_flanders,2026,20079246,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Sum named POM packages WVL+LIM+OVL+VBR 2026 (ANT not single POM line)
+bud_vl_tourism_agency_sum4_2026,sec_flanders,2026,18392947,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Sum named tourism agencies Westtoer+LIM+OVL+VBR 2026
+bud_vl_pom_tourism_sum4_2026,sec_flanders,2026,38472193,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Sum POM4+tourism4 named packages 2026
+bud_vl_werkingssubsidies_sum5_2026,sec_flanders,2026,194175471,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Sum toegestane werkingssubsidies 5 VL provinces 2026
+bud_vl_ant_apb_package_2026,sec_flanders,2026,38925780,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Antwerp APB package cross-ref (not POM-equivalent perimeter)

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T15:34:00Z,rq_093,93,no,"VBR L5 Toerisme 1.99m POM 1.57m; 5/5 VL L5 done (tick93). Next: rq_094 synthesize or rq_089 SWA."
+main,continuous,continuous,2026-07-22T15:49:00Z,rq_094,94,no,"VL L5 synthesize POM4 20.1m tourism4 18.4m (tick94). Next: rq_095 Walloon L5 or rq_089 SWA."

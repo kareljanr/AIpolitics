@@ -1,6 +1,6 @@
 # Flemish provinces budget 2026 — comparative snapshot
 
-Synthesis from DOGE ticks 78–87 primary rows. **No invented euros.**
+Synthesis from DOGE ticks 78–94 primary rows. **No invented euros.**
 
 ## Caveats
 
@@ -82,3 +82,19 @@ Parallel Walloon snapshot: `walloon_provinces_2026_snapshot.md` (rq_076).
 | Antwerpen | not single POM line | (inside APB 38.9m) | APB package 38,925,780 |
 
 **Completes 5/5 Flemish provinces** with named L5 samples (tick93).
+
+
+## Agency L5 compare (tick 94)
+
+See full table: [`flemish_provinces_l5_agencies_2026.md`](flemish_provinces_l5_agencies_2026.md).
+
+| Metric | Amount € |
+|--------|---------:|
+| POM named sum 4 provinces | 20,079,246 |
+| Tourism agency sum 4 provinces | 18,392,947 |
+| POM+tourism 4 provinces | 38,472,193 |
+| Werkingssubsidies sum 5 provinces | 194,175,471 |
+| Antwerpen APB package (separate perimeter) | 38,925,780 |
+
+**POM rank:** WVL €11.7m > LIM €4.85m > OVL €2.0m > VBR €1.57m.  
+**Tourism rank:** WVL €11.1m > LIM €4.75m > VBR €1.99m > OVL €0.60m.
