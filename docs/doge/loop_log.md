@@ -679,3 +679,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: **rq_084** SWA recheck (prio 2) or seed new L5/continuous unit
 
+
+### 2026-07-22T14:19:00Z -- tick 88
+- Unit: rq_084 (SWA multi-parliament final assent recheck Q3)
+- Found (strong process; **still no final votes**): Reconfirmed Overlegcomite **27 Mar 2026** SWA and VL Regering page **8 May 2026** still at **principiele goedkeuring** voorontwerp instemmingsdecreet -> SERV/RvS (page unchanged). SERV advice **1 Jun** / VL ingekomen **17 Jun** path unchanged. Federal MR draft **13 May** path unchanged. **New related signal:** Kamer dossier **56K1569** (Bertrand/Vander Elst, filed **22 May 2026**, inoverweging **4 Jun**) is a private-member **wetsvoorstel** for a statutory **terugvalregeling** interfederal budget coordination - **pending** Finance commission; **not** the SWA assent law and **not** adopted. Wallonie/FWB still max first-read class; Brussels assent dossier **not found**. **No** plenary-adopted assent law/decree and **no** Belgisch Staatsblad publication for the Mar 2026 SWA as of **2026-07-22**.
+- Wrote: 3 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_084=done; seeded **rq_088** WVL personeel T2 + **rq_089** SWA Q4 low-prio; ticks=88
+- FOI: none
+- Next: **rq_088** West-Vlaanderen bezoldigingen/personeel T2 (prio 3)
+

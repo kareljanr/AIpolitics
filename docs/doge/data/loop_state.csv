@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T14:04:00Z,rq_086,87,no,"WVL opcent 128.8m (tick87). Next: rq_084 SWA recheck or new L5 unit."
+main,continuous,continuous,2026-07-22T14:19:00Z,rq_084,88,no,"SWA still no final votes (tick88). Next: rq_088 WVL personeel T2."
