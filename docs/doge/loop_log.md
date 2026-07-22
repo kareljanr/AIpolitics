@@ -743,3 +743,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **not drafted this tick** — rq_096 opened for 199-entity EUR list if public annex missing
 - Next: **rq_096** Hainaut named ASBL list (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T16:19:00Z -- tick 96
+- Unit: rq_096 (Hainaut full named ASBL EUR list — public search + FOI)
+- Found (strong process; **public list still missing**): Re-checked CoA Hainaut budget 2026 PDF and web/portal search for a published annex of the **199 entities** with provincial aids >= EUR 50k/yr. **No machine-readable or PDF named EUR list** found on public portals this tick. CoA remains best primary evidence that the annex **exists** administratively and that **motivation for extraprovincialisation is missing**. Action: **FOI draft** `gap_hainaut_asbl_list_2026` (FR, publicite de l'administration) status **ready** — **human send only**.
+- Wrote: foi draft + foi_queue ready; sources note; rq_096=blocked_foi; lb/cmt notes; seeded rq_097 Namur/BW L5; ticks=96
+- FOI: **gap_hainaut_asbl_list_2026** ready (not sent)
+- Next: **rq_097** Namur/Brabant wallon L5 (prio 2) or **rq_089** SWA Q4 (prio 1); human may send Hainaut FOI
+
