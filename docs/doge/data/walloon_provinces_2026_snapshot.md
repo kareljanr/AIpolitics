@@ -27,20 +27,23 @@ Synthesis only from DOGE ticks 72–76 primary rows. **No invented euros.**
 Sources: src_liege_prov_budget_2026; src_ccrek_lux/namur/hainaut/bw_prov_budget_2026.
 
 
-## ASBL / extraprovincial L5 opacity (ticks 95–97)
+## ASBL / extraprovincial L5 opacity (ticks 95–99 synthesis)
 
-| Province | Entities ≥€50k | Total EUR in CoA text | Motivation in CoA |
-|----------|---------------:|----------------------:|-------------------|
-| Hainaut | 199 | n/a (FOI ready) | **None** (CoA flag) |
-| Brabant wallon | 31 | **€10,000,000** | **Explicit** |
-| Namur | 10 | n/a | 7/10 yes; **3 missing** |
-| Luxembourg | (count n/a) | **€4,300,000** (−17.8% vs 2025) | partial (contracts only in eval report); FOI ready |
-| Liège | named sample | culture/tourism lines | per-article budget |
+Full write-up: [`walloon_provinces_l5_asbl_2026.md`](walloon_provinces_l5_asbl_2026.md).
 
-**Best public total:** Brabant wallon €10.0m for 31 entities.  
-**Worst opacity:** Hainaut 199 entities without CoA-visible motivation or amounts → `gap_hainaut_asbl_list_2026`.
+| Province | Entities ≥€50k | Total EUR in CoA text | Motivation in CoA | FOI |
+|----------|---------------:|----------------------:|-------------------|-----|
+| Hainaut | 199 | n/a | **None** (CoA flag) | **ready** `gap_hainaut_asbl_list_2026` |
+| Brabant wallon | 31 | **€10,000,000** | **Explicit** | — |
+| Namur | 10 | n/a | 7/10; **3 missing** | — |
+| Luxembourg | (count n/a) | **€4,300,000** (−17.8%) | partial (contracts only) | **ready** `gap_lux_asbl_list_2026` |
+| Liège | named sample | culture/tourism lines | per-article budget | sample public |
 
+**Known package sum (BW+Lux only):** €14,300,000.  
+**Entity-count sum (Hainaut+BW+Namur):** 240.  
+**Best public total + motivation:** Brabant wallon.  
+**Worst opacity:** Hainaut 199 entities without public amounts/motivation.
 
-## Completes 5/5 Walloon provinces L5 map (tick 98)
+## Completes 5/5 Walloon provinces L5 map (ticks 98–99)
 
-All five Walloon provinces now have either named L5 lines, package totals, and/or FOI for full ASBL lists (Hainaut + Luxembourg FOI ready).
+All five Walloon provinces have named L5 lines, package totals, and/or FOI for full ASBL lists. Further L5 euros for Hainaut/Lux need human FOI send or open-data publication — not more CoA body scraping.

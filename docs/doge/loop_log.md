@@ -503,51 +503,51 @@ Append-only. Each tick adds a short entry.
 
 
 
-### 2026-07-21T08:20:00Z — tick 66
+### 2026-07-21T08:20:00Z ï¿½ tick 66
 - Unit: rq_065 (FEDER Wallonia named project L5 sample)
-- Found (strong, official Résumé citoyen 2025 WalEurope PDF): **Programme invest class €1.488 bn** (EU **~€600 m**); **FTJ envelope €456 m** (EU **~€183 m**, Charleroi/Mons/Tournai); **374 FEDER + 62 FTJ** public projects retained. Named L5 grants (total / FEDER / Wallonie): **Campus4U Charleroi HELHa+UCLouvain €21.302 m / €8.521 m / €12.781 m**; **Liège Fontainebleau/Sainte-Marguerite €10.032 m / €4.459 m / €5.574 m**; **Namur ville apaisée portfolio €5.019 m / €2.231 m / €2.789 m**; **DUNE3S €3.989 m / €1.835 m / €2.154 m**; **IDEA CLICK Mons €0.566 m**; **Arlon cyclo-piéton €0.521 m**; **Cap Innove ID2GREEN €0.226 m**; **ICE Louvain €0.223 m**. Co-financed investment — **not pure waste**; residual issue is incomplete machine-readable full L5 cash list (resume samples only).
+- Found (strong, official Rï¿½sumï¿½ citoyen 2025 WalEurope PDF): **Programme invest class ï¿½1.488 bn** (EU **~ï¿½600 m**); **FTJ envelope ï¿½456 m** (EU **~ï¿½183 m**, Charleroi/Mons/Tournai); **374 FEDER + 62 FTJ** public projects retained. Named L5 grants (total / FEDER / Wallonie): **Campus4U Charleroi HELHa+UCLouvain ï¿½21.302 m / ï¿½8.521 m / ï¿½12.781 m**; **Liï¿½ge Fontainebleau/Sainte-Marguerite ï¿½10.032 m / ï¿½4.459 m / ï¿½5.574 m**; **Namur ville apaisï¿½e portfolio ï¿½5.019 m / ï¿½2.231 m / ï¿½2.789 m**; **DUNE3S ï¿½3.989 m / ï¿½1.835 m / ï¿½2.154 m**; **IDEA CLICK Mons ï¿½0.566 m**; **Arlon cyclo-piï¿½ton ï¿½0.521 m**; **Cap Innove ID2GREEN ï¿½0.226 m**; **ICE Louvain ï¿½0.223 m**. Co-financed investment ï¿½ **not pure waste**; residual issue is incomplete machine-readable full L5 cash list (resume samples only).
 - Wrote: 14 budgets; 9 commitments; 4 leaderboard; 2 sources; entities city_arlon + waleurope; rq_065=done; ticks=66
 - FOI: none new (named L5 public; full 374+62 register optional later)
 - Next: **rq_059** multi-parliament final SWA assent votes (only remaining open public task at prio 3) or seed Flanders EFRO 2021-27 L5
 
-### 2026-07-21T08:35:00Z — tick 67
+### 2026-07-21T08:35:00Z ï¿½ tick 67
 - Unit: rq_059 (multi-parliament final SWA economic-governance assent votes)
-- Found (strong process; **no final votes**): Reconfirmed Overlegcomité **27 Mar 2026** SWA (replaces 2013); **VL Regering 8 May** principal OK voorontwerp decree; **SERV 1 Jun** advice; **Vlaams Parlement Ingekomen 60-Nr.33 (17 Jun 2026)** only registers SERV mededeling — **not** a plenary-adopted instemmingsdecreet. Federal **MR 13 May** avant-projet de loi; **FWB 30 Apr** / **WAL 13 May** GW first readings (tick60). **Brussels** public assent dossier still **not found**. Searches of Kamer/VP/PW/PFWB + BS class: **no final plenaire adoption dates** as of **2026-07-21**. Degryse summer multi-parliament target **not evidenced**.
+- Found (strong process; **no final votes**): Reconfirmed Overlegcomitï¿½ **27 Mar 2026** SWA (replaces 2013); **VL Regering 8 May** principal OK voorontwerp decree; **SERV 1 Jun** advice; **Vlaams Parlement Ingekomen 60-Nr.33 (17 Jun 2026)** only registers SERV mededeling ï¿½ **not** a plenary-adopted instemmingsdecreet. Federal **MR 13 May** avant-projet de loi; **FWB 30 Apr** / **WAL 13 May** GW first readings (tick60). **Brussels** public assent dossier still **not found**. Searches of Kamer/VP/PW/PFWB + BS class: **no final plenaire adoption dates** as of **2026-07-21**. Degryse summer multi-parliament target **not evidenced**.
 - Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_059=done; seeded **rq_066** recheck + **rq_067** Flanders EFRO L5; ticks=67
 - FOI: none (parliamentary tracking, not budget opacity letter)
 - Next: **rq_067** Flanders EFRO named L5 (prio 4) or **rq_066** SWA recheck (prio 3)
 
-### 2026-07-21T08:50:00Z — tick 68
+### 2026-07-21T08:50:00Z ï¿½ tick 68
 - Unit: rq_067 (Flanders EFRO/Interreg 2021-27 named L5 sample)
-- Found (strong programme; partial L5): **EFRO Vlaanderen EU €276.078 m** (meer ontwikkeld **€163.516 m** + Limburg transitie **€112.563 m**); total programme budget class **~€596 m** (40%/60% co-financing). Priorities: Slim **€160.045 m** / Duurzaam **€106.697 m**. Named GTI slices: Kempen **€10.885 m**; West-Vlaanderen **€25.728 m**; stedelijke ontwikkeling Antwerpen+Gent **€19.791 m** (Themis VR mededeling). **Interreg VL-NL**: keep.eu total **€410.811 m** / EU **€205.406 m**; portal **110** projects, **€205.5 m** allocated; themes slim **€72.5 m** / groen **€73.6 m** / sociaal **€47.1 m** / grenzen **€7.3 m**. VLAIO bulk project portal **blocked/incomplete** for individual 2021-27 project EUR this tick; older 2014-20 L5 not used as 2021-27 sample.
+- Found (strong programme; partial L5): **EFRO Vlaanderen EU ï¿½276.078 m** (meer ontwikkeld **ï¿½163.516 m** + Limburg transitie **ï¿½112.563 m**); total programme budget class **~ï¿½596 m** (40%/60% co-financing). Priorities: Slim **ï¿½160.045 m** / Duurzaam **ï¿½106.697 m**. Named GTI slices: Kempen **ï¿½10.885 m**; West-Vlaanderen **ï¿½25.728 m**; stedelijke ontwikkeling Antwerpen+Gent **ï¿½19.791 m** (Themis VR mededeling). **Interreg VL-NL**: keep.eu total **ï¿½410.811 m** / EU **ï¿½205.406 m**; portal **110** projects, **ï¿½205.5 m** allocated; themes slim **ï¿½72.5 m** / groen **ï¿½73.6 m** / sociaal **ï¿½47.1 m** / grenzen **ï¿½7.3 m**. VLAIO bulk project portal **blocked/incomplete** for individual 2021-27 project EUR this tick; older 2014-20 L5 not used as 2021-27 sample.
 - Wrote: 16 budgets; 5 commitments; 3 leaderboard; 4 sources; entities vlaio+interreg_vlaned; FOI gap_vl_efro_l5 **ready**; rq_067=done; seeded rq_068 Brussels EFRO; ticks=68
 - FOI: gap_vl_efro_l5 ready (not sent)
 - Next: **rq_068** Brussels EFRO L5 (prio 4) or **rq_066** SWA recheck (prio 3)
 
-### 2026-07-21T09:05:00Z — tick 69
+### 2026-07-21T09:05:00Z ï¿½ tick 69
 - Unit: rq_068 (Brussels EFRO/FEDER 2021-27 L5 sample)
-- Found (strong OP; reclassified press figure): Official OP PDF: **EU €121.284 m** + national **€181.926 m** = **total €303.210 m** (40% EU). Priorities totals: **P1 €125.832 m** / **P2 €136.445 m** / **P3 €13.644 m** / **P4 €27.289 m**. be.brussels (06.07.2026): **120 projects selected** under 2021-27; **€191 m / 68 projects is 2014-2020 results**, not current OP. Named **call envelopes** (FEDER+RBC): digital OS1.2 **€29.222 m**; saut qualitatif **€15.142 m**; accompagnement PME **€6.679 m**. Individual project EUR bulk incomplete ? FOI.
+- Found (strong OP; reclassified press figure): Official OP PDF: **EU ï¿½121.284 m** + national **ï¿½181.926 m** = **total ï¿½303.210 m** (40% EU). Priorities totals: **P1 ï¿½125.832 m** / **P2 ï¿½136.445 m** / **P3 ï¿½13.644 m** / **P4 ï¿½27.289 m**. be.brussels (06.07.2026): **120 projects selected** under 2021-27; **ï¿½191 m / 68 projects is 2014-2020 results**, not current OP. Named **call envelopes** (FEDER+RBC): digital OS1.2 **ï¿½29.222 m**; saut qualitatif **ï¿½15.142 m**; accompagnement PME **ï¿½6.679 m**. Individual project EUR bulk incomplete ? FOI.
 - Wrote: 13 budgets; 5 commitments; 3 leaderboard; 5 sources; entity feder_brussels; FOI gap_bru_efro_l5 **ready**; rq_068=done; seeded rq_069 DG; ticks=69
 - FOI: gap_bru_efro_l5 ready (not sent)
 - Next: **rq_069** German-speaking Community budget (prio 4) or **rq_066** SWA recheck (prio 3)
 
-### 2026-07-21T09:20:00Z — tick 70
+### 2026-07-21T09:20:00Z ï¿½ tick 70
 - Unit: rq_069 (German-speaking Community / Ostbelgien budget + L5 sample)
-- Found (strong, Rechnungshof 13 Nov 2024 UHH 2025): **Hauptverwaltung Ausgaben AE €685.707 m** / VE **€687.602 m**; Einnahmen **€595.819 m**; **konsolidierter ESVG-Saldo -€113.878 m** (Investitionen **€104.4 m** im Defizitpfad). Einnahmen: **Bundesdotation €342.5 m** (allgemein 321.3 + zweckgeb. 21.2); **Wallonie-Transfer €93.1 m**; Anleihen **€111.2 m** (davon RRF ~€11.2 m). AE nach OB: **Unterricht €187.097 m**; **Gesundheit/Soziales €146.039 m**; **Infrastruktur €103.773 m**; **Kultur/Sport/Jugend €22.792 m**. Infrastrukturplan: **142 Projekte / €94.2 m**; IT **€6.5 m**; Kommunaldotationen Unterhalt **€3.0 m**. Paasch/BRF Okt 2025 (medium): Sparpakete **~€23 m/Jahr** + Infra-Kürzung **€32 m**; Krankenhaus-Investbedarf **=€150 m** (zwei Häuser).
+- Found (strong, Rechnungshof 13 Nov 2024 UHH 2025): **Hauptverwaltung Ausgaben AE ï¿½685.707 m** / VE **ï¿½687.602 m**; Einnahmen **ï¿½595.819 m**; **konsolidierter ESVG-Saldo -ï¿½113.878 m** (Investitionen **ï¿½104.4 m** im Defizitpfad). Einnahmen: **Bundesdotation ï¿½342.5 m** (allgemein 321.3 + zweckgeb. 21.2); **Wallonie-Transfer ï¿½93.1 m**; Anleihen **ï¿½111.2 m** (davon RRF ~ï¿½11.2 m). AE nach OB: **Unterricht ï¿½187.097 m**; **Gesundheit/Soziales ï¿½146.039 m**; **Infrastruktur ï¿½103.773 m**; **Kultur/Sport/Jugend ï¿½22.792 m**. Infrastrukturplan: **142 Projekte / ï¿½94.2 m**; IT **ï¿½6.5 m**; Kommunaldotationen Unterhalt **ï¿½3.0 m**. Paasch/BRF Okt 2025 (medium): Sparpakete **~ï¿½23 m/Jahr** + Infra-Kï¿½rzung **ï¿½32 m**; Krankenhaus-Investbedarf **=ï¿½150 m** (zwei Hï¿½user).
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 3 sources; entity dg_gov; rq_069=done; seeded rq_070 province; ticks=70
 - FOI: none (CoA tables public for totals + domain L4)
 - Next: **rq_066** SWA final votes recheck (prio 3) or **rq_070** province L1 (prio 3)
 
-### 2026-07-21T09:35:00Z — tick 71
+### 2026-07-21T09:35:00Z ï¿½ tick 71
 - Unit: rq_066 (SWA multi-parliament final assent recheck)
 - Found (strong process; **still no final votes**): Reconfirmed Overleg **27 Mar 2026** SWA (Van Peteghem historic announcement). Public track still maxes at **government first readings** (VL 8 May principal + SERV 1 Jun filed VP 17 Jun; Fed MR 13 May avant-projet; FWB 30 Apr; WAL 13 May). Searches Kamer / Vlaams Parlement / Wallonie / FWB / Brussels + BS class: **no final plenary assent law/decree and no BS publication** for this SWA as of **2026-07-21**. Brussels public dossier still missing. Summer multi-parliament path remains **not evidenced**.
 - Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_066=done; seeded **rq_071** lower-prio recheck; ticks=71
 - FOI: none (process tracking)
-- Next: **rq_070** Province Liège/Luxembourg budget L1+L5 (prio 3)
+- Next: **rq_070** Province Liï¿½ge/Luxembourg budget L1+L5 (prio 3)
 
-### 2026-07-21T09:50:00Z — tick 72
-- Unit: rq_070 (Province de Liège budget L1 + L5 sample)
-- Found (strong, official Budget 2026 PDF 25-26/010): **Service ordinaire** recettes **€563.597 m** / dépenses **€563.574 m** (boni **€22.968**). **2025 après MB** ~**€696.4 m** dep. Compte **2024** dép. eng. **€664.5 m**. **Extraordinaire 2026** recettes **€68.151 m** / dép. **€68.140 m**. Combined dep. **~€631.7 m**. Named: **précompte immobilier €258.5 m** rec; **fonds des provinces €40.1 m**; **zones de secours provincial €45.600 m** (zones 1–5 **€44.428 m** + zone 6 DG **€1.172 m**); **enseignement secondaire €142.197 m**; **supérieur €69.302 m**; **sports €8.311 m**; **Opéra Royal Wallonie €150k**; **OPL €70k**.
+### 2026-07-21T09:50:00Z ï¿½ tick 72
+- Unit: rq_070 (Province de Liï¿½ge budget L1 + L5 sample)
+- Found (strong, official Budget 2026 PDF 25-26/010): **Service ordinaire** recettes **ï¿½563.597 m** / dï¿½penses **ï¿½563.574 m** (boni **ï¿½22.968**). **2025 aprï¿½s MB** ~**ï¿½696.4 m** dep. Compte **2024** dï¿½p. eng. **ï¿½664.5 m**. **Extraordinaire 2026** recettes **ï¿½68.151 m** / dï¿½p. **ï¿½68.140 m**. Combined dep. **~ï¿½631.7 m**. Named: **prï¿½compte immobilier ï¿½258.5 m** rec; **fonds des provinces ï¿½40.1 m**; **zones de secours provincial ï¿½45.600 m** (zones 1ï¿½5 **ï¿½44.428 m** + zone 6 DG **ï¿½1.172 m**); **enseignement secondaire ï¿½142.197 m**; **supï¿½rieur ï¿½69.302 m**; **sports ï¿½8.311 m**; **Opï¿½ra Royal Wallonie ï¿½150k**; **OPL ï¿½70k**.
 - Wrote: 17 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_liege; raw PDF; rq_070=done; seeded rq_072 Lux province; ticks=72
 - FOI: none (official full budget public)
 - Next: **rq_072** Province Luxembourg budget or **rq_071** SWA recheck (prio 2)
@@ -766,4 +766,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: 12 budgets; 3 commitments; 2 leaderboard; FOI draft+queue; snapshot; entities; sources; rq_098=blocked_foi; seeded rq_099 synthesis; ticks=98
 - FOI: **gap_lux_asbl_list_2026** ready (not sent); Hainaut FOI still ready
 - Next: **rq_099** Walloon L5 ASBL compare synthesis (prio 2) or **rq_089** SWA Q4 (prio 1)
+
+
+### 2026-07-22T17:04:00Z -- tick 99
+- Unit: rq_099 (Walloon 5 provinces L5 ASBL compare synthesis)
+- Found (strong synthesis, no new primary PDF): From ticks 95â€“98 only. **Known package EUR:** BW **â‚¬10,000,000** (31 entities, motivated) + Lux **â‚¬4,300,000** (âˆ’17.8% vs 2025) = **â‚¬14,300,000**. **Entity counts:** Hainaut **199** (unmotivated, FOI) + BW **31** + Namur **10** (3 unmotivated) = **240**. LiÃ¨ge: named sample (tourism 516k; culture 280k; FTPL cut to â‚¬1) not a CoA â‰¥50k package total. Opacity rank worstâ†’best total disclosure: **Hainaut > Lux names > Namur > LiÃ¨ge sample > BW**. FOI ready human-send: Hainaut + Lux.
+- Wrote: `walloon_provinces_l5_asbl_2026.md`; snapshot ASBL section; cmt/lb/source refresh; rq_099=done; seeded rq_100 VL/WAL L5 cross-compare; ticks=99
+- FOI: none new (stack unchanged: gap_hainaut_asbl_list_2026, gap_lux_asbl_list_2026 ready)
+- Next: **rq_100** VL vs WAL province L5 opacity (prio 2) or **rq_089** SWA Q4 (prio 1)
 

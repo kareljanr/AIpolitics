@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T16:49:00Z,rq_098,98,no,"Lux ASBL 4.3m FOI ready (tick98). Next: rq_099 Walloon L5 synthesize or rq_089 SWA; human FOI stack."
+main,continuous,continuous,2026-07-22T17:04:00Z,rq_099,99,no,"Walloon L5 ASBL 5/5 synthesis tick99. Next: rq_100 VL/WAL compare or rq_089 SWA; human FOI Hainaut+Lux."
