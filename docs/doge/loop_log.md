@@ -735,3 +735,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none (synthesis of public extracts)
 - Next: **rq_095** Walloon province L5 sample (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T16:04:00Z -- tick 95
+- Unit: rq_095 (Walloon province L5 named subsidies — Hainaut CoA + Liege budget)
+- Found (strong): **Hainaut** CoA 2026: **ASBL Voies d'eau du Hainaut EUR 2,300,000** (incl **+1.8m** severance after canal tourism stop); **ASBL Teralis cut to 0** (was 0.4m; French domains sold); transfers hors zones **EUR 15.5m**; **Cathédrale Tournai invest EUR 3,900,000** (3.7m external subsidy); **199 entities** with aids >=50k/yr (annex exists; **amounts not in CoA PDF**; CoA flags **no motivation** for extraprovincialisation); 53 management contracts 2024. **Liege** budget 2026 named: tourism sites paraprovinciaux **EUR 516,011**; MNEMA **EUR 150,000**; Service social agents **EUR 190,878**; GIG **EUR 110,000**; DG cooperation **EUR 871,000**; Opera **EUR 150,000**; OPL **EUR 70,000**; Theatre Liege **EUR 60,000**; BRF 90k; RTC sport 124k; Parc HFE 60k. **FTPL** (Federation Tourisme) line **EUR 1** obligatoire 2026 (was **1.2m** 2025 — major cut/restructure in table).
+- Wrote: 18 budgets; 6 commitments; 4 leaderboard; entities; 2 sources; rq_095=done; seeded rq_096 Hainaut annex/FOI; ticks=95
+- FOI: **not drafted this tick** — rq_096 opened for 199-entity EUR list if public annex missing
+- Next: **rq_096** Hainaut named ASBL list (prio 3) or **rq_089** SWA Q4 (prio 1)
+

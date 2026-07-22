@@ -668,3 +668,21 @@ bud_vl_tourism_agency_sum4_2026,sec_flanders,2026,18392947,,,budgeted,src_doge_f
 bud_vl_pom_tourism_sum4_2026,sec_flanders,2026,38472193,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Sum POM4+tourism4 named packages 2026
 bud_vl_werkingssubsidies_sum5_2026,sec_flanders,2026,194175471,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Sum toegestane werkingssubsidies 5 VL provinces 2026
 bud_vl_ant_apb_package_2026,sec_flanders,2026,38925780,,,budgeted,src_doge_flemish_l5_compare_2026,strong,Antwerp APB package cross-ref (not POM-equivalent perimeter)
+bud_liege_prov_tourism_sites_2026,prov_liege,2026,516011,,,budgeted,src_liege_prov_budget_2026,strong,Subvention sites touristiques paraprovinciaux Blegny-Mine/HFE/DTVL 2026 EUR 516011
+bud_liege_prov_parc_hfe_2026,prov_liege,2026,60000,,,budgeted,src_liege_prov_budget_2026,strong,ASBL Parc naturel Hautes Fagnes Eifel projects 2026 EUR 60000
+bud_liege_prov_mnema_2026,prov_liege,2026,150000,,,budgeted,src_liege_prov_budget_2026,strong,ASBL MNEMA cite miroir 2026 EUR 150000
+bud_liege_prov_service_social_agents_2026,prov_liege,2026,190878,,,budgeted,src_liege_prov_budget_2026,strong,ASBL Service social des agents provinciaux 2026 EUR 190878
+bud_liege_prov_gig_2026,prov_liege,2026,110000,,,budgeted,src_liege_prov_budget_2026,strong,ASBL GIG Groupement Informations Geographiques 2026 EUR 110000
+bud_liege_prov_dg_dotation_2026,prov_liege,2026,871000,,,budgeted,src_liege_prov_budget_2026,strong,Dotation cooperation Communaute germanophone 2026 EUR 871000
+bud_liege_prov_supracommunaux_2026,prov_liege,2026,200000,,,budgeted,src_liege_prov_budget_2026,strong,Subsides supracommunaux 2026 EUR 200000
+bud_liege_prov_theatre_liege_2026,prov_liege,2026,60000,,,budgeted,src_liege_prov_budget_2026,strong,ASBL Theatre de Liege 2026 EUR 60000
+bud_liege_prov_brf_2026,prov_liege,2026,90000,,,budgeted,src_liege_prov_budget_2026,strong,Subsides BRF cooperation germanophone 2026 EUR 90000
+bud_liege_prov_rtc_sport_2026,prov_liege,2026,124000,,,budgeted,src_liege_prov_budget_2026,strong,Partenariat RTC Liege-Huy-Waremme et Televesdre journal sportif 2026 EUR 124000
+bud_liege_prov_ftpl_2026_note,prov_liege,2026,1,,,budgeted,src_liege_prov_budget_2026,strong,Federation Tourisme Province Liege line 2026 obligatoire EUR 1 (was 1.2m 2025; major restructure/cut in budget table)
+bud_liege_prov_culture_named_sum_2026,prov_liege,2026,280000,,,budgeted,src_liege_prov_budget_2026,strong,Opera 150k + OPL 70k + Theatre Liege 60k = 280000 culture named
+bud_hainaut_voies_eau_2026_confirm,prov_hainaut,2026,2300000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,ASBL Voies d eau du Hainaut 2.3m 2026 (incl +1.8m severance tourism stop Canal du Centre)
+bud_hainaut_teralis_cut_2026,prov_hainaut,2026,0,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,ASBL Teralis financing suppressed 2026 (was 0.4m; French domains sold; liquidation)
+bud_hainaut_tournai_cathedral_invest_2026,prov_hainaut,2026,3900000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Cathédrale Notre-Dame Tournai invest dep 3.9m 2026 (3.7m subsidy received + provincial loan)
+bud_hainaut_transfers_hors_zones_2026,prov_hainaut,2026,15500000,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Depenses transferts hors zones secours 15.5m 2026 CoA
+bud_hainaut_asbl_list_count_2026,prov_hainaut,2026,199,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,199 entities with provincial aids >=50k/yr (CoA; amounts not published in report)
+bud_hainaut_contrats_gestion_2024,prov_hainaut,2024,53,,,outturn,src_ccrek_hainaut_prov_budget_2026,strong,53 active management contracts 2024 (52 ASBL + regie Hainaut securite)
