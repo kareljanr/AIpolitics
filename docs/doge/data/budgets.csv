@@ -604,3 +604,23 @@ bud_ovl_crvv_2026,prov_oost_vlaanderen,2026,230000,,,budgeted,src_oostvl_prov_mj
 bud_ovl_huysmanhoeve_2026,prov_oost_vlaanderen,2026,789225,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Plattelandscentrum Meetjesland Huysmanhoeve 2026 EUR 789225
 bud_ovl_rato_2026,prov_oost_vlaanderen,2026,482694,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,RATO vzw werkingssubsidie 2026 EUR 482693.58
 bud_ovl_werkingssubsidies_total_2026,prov_oost_vlaanderen,2026,30667884,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,TOTAAL WERKINGSSUBSIDIES documentatie p14 EUR 30667884.44 (matches T2)
+bud_ovl_pom_werking_sum_2026,prov_oost_vlaanderen,2026,2004589,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM Oost-Vlaanderen named werking lines sum 2026 EUR 2004588.94 (5 werking + 25k Scheldemond)
+bud_ovl_pom_kennis_2026,prov_oost_vlaanderen,2026,318780,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM werkingssubsidie kenniseconomie innovatie 2026 EUR 318780.49
+bud_ovl_pom_logistiek_2026,prov_oost_vlaanderen,2026,294662,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM werkingssubsidie logistiek 2026 EUR 294661.57
+bud_ovl_pom_bedrijvencentra_2026,prov_oost_vlaanderen,2026,386744,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM werkingssubsidie ontwikkelingsprojecten bedrijvencentra 2026 EUR 386744.23
+bud_ovl_pom_terreinen_2026,prov_oost_vlaanderen,2026,386744,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM werkingssubsidie bedrijventerreinenmanagement 2026 EUR 386744.23
+bud_ovl_pom_verduurzaming_2026,prov_oost_vlaanderen,2026,592658,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM werkingssubsidie verduurzamende participaties 2026 EUR 592658.42
+bud_ovl_pom_invest_2026,prov_oost_vlaanderen,2026,200000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,POM investeringssubsidie bedrijventerreinen 2026 EUR 200000
+bud_ovl_erov_sum_2026,prov_oost_vlaanderen,2026,1446227,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Erov vzw three werkingstoelagen sum 2026 EUR 1446227.40
+bud_ovl_erov_streekproducten_2026,prov_oost_vlaanderen,2026,867000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Erov streekproducten 2026 EUR 867000
+bud_ovl_erov_voeding_2026,prov_oost_vlaanderen,2026,375227,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Erov voedingsondernemers 2026 EUR 375227.40
+bud_ovl_politieke_partijen_2026,prov_oost_vlaanderen,2026,532093,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Subsidies politieke partijen provincieraad 2026 EUR 532093 (path to 0 in 2031)
+bud_ovl_fracties_2026,prov_oost_vlaanderen,2026,58687,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Erkende fracties provincieraad 2026 EUR 58687
+bud_ovl_polders_wateringen_2026,prov_oost_vlaanderen,2026,2100000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Polders en Wateringen onderhoud/pompkosten 2e cat 2026 EUR 2100000
+bud_ovl_interreg_2127_2026,prov_oost_vlaanderen,2026,1830896,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,EU Interreg cofinancing 2021-27 programme line 2026 EUR 1830896.24
+bud_ovl_pdpo_betaalorgaan_2026,prov_oost_vlaanderen,2026,708000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Vlaams Betaalorgaan PDPO cofinancing 2026 EUR 708000
+bud_ovl_noord_zuid_2026,prov_oost_vlaanderen,2026,620000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Regiogerichte noord-zuidsamenwerking 2026 EUR 620000
+bud_ovl_azorg_ahria_2026,prov_oost_vlaanderen,2026,350000,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,AZORG vzw AHRIA startup subsidy 2026 EUR 350000 (one-off)
+bud_ovl_bosgroep_werking_2026,prov_oost_vlaanderen,2026,332702,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Bosgroep Oost-Vlaanderen werkingssubsidie 2026 EUR 332701.60
+bud_ovl_domain_economie_subs_2026,prov_oost_vlaanderen,2026,20423228,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Beleidsdomein economie/landbouw/EU domain werkingssubsidies total 2026 EUR 20423228.46
+bud_ovl_domain_leefmilieu_subs_2026,prov_oost_vlaanderen,2026,4858494,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Beleidsdomein leefmilieu werkingssubsidies total 2026 EUR 4858494

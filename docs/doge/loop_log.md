@@ -703,3 +703,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none (public tables)
 - Next: **rq_091** OVL L5 deepen (prio 2) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T15:04:00Z -- tick 91
+- Unit: rq_091 (OVL top named werkingssubsidies deepen)
+- Found (strong, official Documentatie p4-14): **POM Oost-Vlaanderen package 2026 EUR 2,004,589** (kennis 319k; logistiek 295k; bedrijvencentra 387k; terreinen 387k; verduurzaming 593k; Scheldemond 25k) + invest terreinen **EUR 200,000**. **Erov vzw EUR 1,446,227** (streekproducten 867k; voeding 375k; ambacht 204k). **Polders en Wateringen EUR 2,100,000** (largest single named line; statutory Art18). **Political parties EUR 532,093** (path to **0 in 2031**); fracties 59k. **Interreg cofin 2021-27 EUR 1,830,896**; PDPO Betaalorgaan **EUR 708,000**; noord-zuid 620k; AZORG AHRIA 350k one-off; Bosgroep werking 333k. Domain economie/landbouw/EU werkingssubsidies **EUR 20,423,228**; leefmilieu **EUR 4,858,494**. Total werkingssubsidies **EUR 30,667,884** reconfirmed.
+- Wrote: 20 budgets; 5 commitments; 4 leaderboard; entity; sources; rq_091=done; seeded rq_092 ANT/LIM L5; ticks=91
+- FOI: none (full named register public in documentatie)
+- Next: **rq_092** Antwerpen or Limburg named L5 (prio 3) or **rq_089** SWA Q4 (prio 1)
+
