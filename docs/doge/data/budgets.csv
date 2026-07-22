@@ -747,3 +747,18 @@ bud_brugge_hvz1_2024,city_brugge,2024,10077985,,,outturn,src_brugge_subsidieregi
 bud_namur_od_subsides_total_2020,city_namur,2020,8144187.8,,,outturn,src_namur_subsides_attribues_od,strong,Open data subsides-attribues budget_final sum 2020 (STALE portal not updated post-2020)
 bud_namur_od_sonefa_2020,city_namur,2020,2134967.3,,,outturn,src_namur_subsides_attribues_od,strong,SONEFA ASBL 2020 open data; compare BI2026 2.63m separate source
 bud_namur_od_ccr_werking_2020,city_namur,2020,647575.35,,,outturn,src_namur_subsides_attribues_od,strong,Centre culturel regional ASBL werking 2020 open data
+bud_mons_ord_rec_2025,city_mons,2025,246241165.81,,,budgeted,src_mons_budget_ord_2025,strong,Budget 2025 previsions recettes service ordinaire page1 synthese
+bud_mons_ord_dep_2025,city_mons,2025,244180817.5,,,budgeted,src_mons_budget_ord_2025,strong,Budget 2025 previsions depenses service ordinaire page1 synthese
+bud_mons_result_presumed_eoy2025,city_mons,2025,2060348.31,,,budgeted,src_mons_budget_ord_2025,strong,Resultat budgetaire presume au 01/01/2026 (rec-dep 2025)
+bud_mons_rca_fonctionnement_2025,city_mons,2025,815000,,,budgeted,src_mons_budget_ord_2025,strong,RCA frais fonctionnement 12402/332-02 2025
+bud_mons_rca_piscine_2025,city_mons,2025,1900000,,,budgeted,src_mons_budget_ord_2025,strong,Subside exploitation piscine RCA 76436/332-02 2025
+bud_mons_mars_fonctionnement_2025,city_mons,2025,400000,,,budgeted,src_mons_budget_ord_2025,strong,MARS fonctionnement associations 76203/332-03 2025 (cut vs ~499k prior)
+bud_mons_mars_animations_2025,city_mons,2025,150000,,,budgeted,src_mons_budget_ord_2025,strong,MARS animations 76206/332-03 2025
+bud_mons_mars_musical_2025,city_mons,2025,124000,,,budgeted,src_mons_budget_ord_2025,strong,MARS volet musical 76205/332-03 2025
+bud_mons_fondation_mons_2025,city_mons,2025,110000,,,budgeted,src_mons_budget_ord_2025,strong,Fondation Mons 2025 associations 76202/332-02
+bud_mons_ot_personnel_2025,city_mons,2025,289204,,,budgeted,src_mons_budget_ord_2025,strong,Office du Tourisme personnel subside 56101/332-02 2025
+bud_mons_ot_fonctionnement_2025,city_mons,2025,273750,,,budgeted,src_mons_budget_ord_2025,strong,Office du Tourisme fonctionnement 56102/332-02 2025
+bud_mons_charte_activites_2025,city_mons,2025,100000,,,budgeted,src_mons_budget_ord_2025,strong,Charte vie associative activites 10001/332-02 2025
+bud_mons_charte_fonctionnement_2025,city_mons,2025,50000,,,budgeted,src_mons_budget_ord_2025,strong,Charte vie associative fonctionnement 10002/332-02 2025
+bud_mons_grandes_manif_2025,city_mons,2025,108000,,,budgeted,src_mons_budget_ord_2025,strong,Grandes manifestations conventionnees 10004/332-02 2025
+bud_mons_saint_georges_2025,city_mons,2025,55000,,,budgeted,src_mons_budget_ord_2025,strong,ASBL Saint Georges 2025

@@ -799,3 +799,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (Antwerp/Hainaut/Lux still ready human send; Namur OD lag noted not drafted)
 - Next: **rq_103** Charleroi/Mons L5 PDF (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T18:04:00Z -- tick 103
+- Unit: rq_103 (Charleroi/Mons named L5 public PDF)
+- Found (strong Mons ord 2025 PDF): recettes **€246,241,166** / dépenses **€244,180,818**; résultat présumé 01/01/2026 **€2,060,348**. Named: **RCA €1,156,471** + fonct €815k + piscine **€1,900,000**; **MARS package €674k** (fonct 400k + anim 150k + musical 124k); OT personnel €289k + fonct €274k; Fondation Mons €110k; charte activités €100k / fonct €50k; film festival €45k; Basket UMH €220k. **BI2026 PDF still not on mons.be**. Charleroi: only 2026 call forms — **no named EUR list**.
+- Wrote: `mons_city_l5_budget_2025.md`; extract JSON; budgets/cmt/lb/source; gap_mons notes updated; rq_103=done; seeded rq_104; ticks=103
+- FOI: gap_mons still ready (2026); gap_charleroi still ready; no new drafts
+- Next: **rq_104** city L5 transparency compare (prio 2) or **rq_089** SWA Q4 (prio 1)
+

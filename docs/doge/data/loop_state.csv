@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T17:49:00Z,rq_102,102,no,"Brugge OD L5 tick102. Next: rq_103 Charleroi/Mons or rq_089 SWA; FOI Antwerp+Hainaut+Lux."
+main,continuous,continuous,2026-07-22T18:04:00Z,rq_103,103,no,"Mons 2025 L5 PDF tick103. Next: rq_104 city L5 compare or rq_089 SWA; FOI Antwerp+Charleroi+Hainaut+Lux+Mons2026."

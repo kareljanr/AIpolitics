@@ -1,0 +1,778 @@
+{
+  "source": "https://www.mons.be/fr/ma-commune/vie-politique/budgets",
+  "file": "mons_budget_ord_2025.pdf",
+  "tick": 103,
+  "budget_2025_recettes": 246241165.81,
+  "budget_2025_depenses": 244180817.5,
+  "result_presumed_2026_start": 2060348.31,
+  "column_note": "Amounts columns typically: Compte 2023, Compte/Budget 2024 variants, Prévision Conseil 2025 (last filled used as y2025)",
+  "top_subsidy_lines_2025": [
+    {
+      "article": "76436/332-02",
+      "label": "SUBSIDES - SUBSIDE D EXPLOITATION PISCINE (R.C.A.)",
+      "eur_2025": 1900000.0,
+      "amounts": [
+        1750000.0,
+        1800000.0,
+        1800000.0,
+        1900000.0
+      ],
+      "page": 64
+    },
+    {
+      "article": "77101/111-02",
+      "label": "TRAITEMENTS DU PERSONNEL CONTRACTUEL SUBSIDIE - MUSEES",
+      "eur_2025": 1366635.66,
+      "amounts": [
+        1310023.06,
+        1616635.66,
+        1366635.66
+      ],
+      "page": 49
+    },
+    {
+      "article": "12401/332-02",
+      "label": "SUBSIDES - REGIE COMMUNAL AUTONOME (R.C.A.)",
+      "eur_2025": 1156470.97,
+      "amounts": [
+        1159135.92,
+        1159216.05,
+        1159216.05,
+        1156470.97
+      ],
+      "page": 19
+    },
+    {
+      "article": "77101/111-01",
+      "label": "TRAITEMENTS DU PERSONNEL COMMUNAL - MUSEES",
+      "eur_2025": 838832.56,
+      "amounts": [
+        577289.45,
+        644536.17,
+        709536.17,
+        838832.56
+      ],
+      "page": 49
+    },
+    {
+      "article": "12402/332-02",
+      "label": "SUBSIDES - REGIE COMMUNAL AUTONOME - FRAIS DE FONCTIONNEMENT (R.C.A.)",
+      "eur_2025": 815000.0,
+      "amounts": [
+        620000.0,
+        620000.0,
+        647967.0,
+        815000.0
+      ],
+      "page": 19
+    },
+    {
+      "article": "52901/321-01",
+      "label": "SUBSIDES ET PRIMES DIRECTS AUX ENTREPRISES - FONDS IMPULSION NOUVEAUX COMMERCES (Développement Eco)",
+      "eur_2025": 650000.0,
+      "amounts": [
+        504394.14,
+        738000.0,
+        692024.55,
+        650000.0
+      ],
+      "page": 38
+    },
+    {
+      "article": "76203/332-03",
+      "label": "SUBSIDES- MARS - FONCTIONNEMENT (Associations)",
+      "eur_2025": 400000.0,
+      "amounts": [
+        504102.59,
+        499102.59,
+        499102.59,
+        400000.0
+      ],
+      "page": 62
+    },
+    {
+      "article": "76422/332-02",
+      "label": "SUBSIDES - R.C.A. v 76422/163-01 (R.C.A.)",
+      "eur_2025": 380000.0,
+      "amounts": [
+        380000.0,
+        380000.0,
+        380000.0,
+        380000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "56101/332-02",
+      "label": "SUBSIDES - OFFICE DU TOURISME - PERSONNEL",
+      "eur_2025": 289204.0,
+      "amounts": [
+        289204.0,
+        289204.0,
+        357334.0,
+        289204.0
+      ],
+      "page": 38
+    },
+    {
+      "article": "84010/435-01",
+      "label": "CONTRIBUTION DANS CHARGES DE FONCTIONNEMENT - TFT SUBSIDE ESCALE (Plan Cohésion Sociale)",
+      "eur_2025": 275630.02,
+      "amounts": [
+        30300.0,
+        29900.0,
+        275630.02,
+        275630.02
+      ],
+      "page": 79
+    },
+    {
+      "article": "56102/332-02",
+      "label": "SUBSIDES - OFFICE DU TOURISME FONCTIONNEMENT",
+      "eur_2025": 273750.0,
+      "amounts": [
+        273750.0,
+        273750.0,
+        273750.0,
+        273750.0
+      ],
+      "page": 38
+    },
+    {
+      "article": "76449/332-02",
+      "label": "SUBSIDES - TERRAINS ENGAZONNES (Evénements/Sports)",
+      "eur_2025": 260000.0,
+      "amounts": [
+        72244.17,
+        172000.0,
+        172000.0,
+        260000.0
+      ],
+      "page": 64
+    },
+    {
+      "article": "78001/321-01",
+      "label": "SUBSIDES ET PRIMES DIRECTS AUX ENTREPRISES - REFINANCEMENT TELE MB (S.G.F.)",
+      "eur_2025": 235000.0,
+      "amounts": [
+        269914.55,
+        271019.71,
+        294855.48,
+        235000.0
+      ],
+      "page": 64
+    },
+    {
+      "article": "76411/332-02",
+      "label": "SUBSIDES - BASKET UNION MONS HAINAUT SPORTIVE (Evénements/Sports)",
+      "eur_2025": 220000.0,
+      "amounts": [
+        240000.0,
+        240000.0,
+        240000.0,
+        220000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "77101/113-01",
+      "label": "COTISATIONS PATRONALES A L'ONSSAPL - MUSEES",
+      "eur_2025": 204079.39,
+      "amounts": [
+        148712.83,
+        163899.64,
+        178899.64,
+        204079.39
+      ],
+      "page": 49
+    },
+    {
+      "article": "12404/332-02",
+      "label": "SUBSIDES - (T.V.A.-M.E.) (R.C.A.)",
+      "eur_2025": 183438.0,
+      "amounts": [
+        157824.0,
+        160824.0,
+        160824.0,
+        183438.0
+      ],
+      "page": 19
+    },
+    {
+      "article": "77101/123-04",
+      "label": "FOURNITURES ADMINISTRATIVES DESTINEES A LA REVENTE - MUSEES (Pôle muséal)",
+      "eur_2025": 170000.0,
+      "amounts": [
+        124261.85,
+        170000.0,
+        170000.0,
+        170000.0
+      ],
+      "page": 55
+    },
+    {
+      "article": "83503/332-02",
+      "label": "SUBSIDES - A.S.B.L. GARANCE --> ENFANT-PHARE (voir 83501/272-01) (Associations)",
+      "eur_2025": 170000.0,
+      "amounts": [
+        196881.1,
+        196881.1,
+        211647.18,
+        170000.0
+      ],
+      "page": 70
+    },
+    {
+      "article": "76206/332-03",
+      "label": "SUBSIDES - MARS - ANIMATIONS (Associations)",
+      "eur_2025": 150000.0,
+      "amounts": [
+        262712.17,
+        240712.17,
+        208527.92,
+        150000.0
+      ],
+      "page": 62
+    },
+    {
+      "article": "77108/124-06",
+      "label": "PRESTATIONS TECHNIQUES DE TIERS - MUSEES - EXPOSITIONS (Pôle muséal)",
+      "eur_2025": 130000.0,
+      "amounts": [
+        131244.07,
+        135000.0,
+        165000.0,
+        130000.0
+      ],
+      "page": 58
+    },
+    {
+      "article": "76403/332-02",
+      "label": "SUBSIDES - SPORTS - DEPENSES ENERGETIQUES DES INFRASTRUCTURES (Evénements/Sports)",
+      "eur_2025": 125000.0,
+      "amounts": [
+        124999.99,
+        125000.0,
+        125000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "50012/332-02",
+      "label": "SUBSIDES - INDEMNISATION EXCEPTIONNELLE COMMERCES (Développement Economique)",
+      "eur_2025": 124000.0,
+      "amounts": [
+        124000.0
+      ],
+      "page": 38
+    },
+    {
+      "article": "76205/332-03",
+      "label": "SUBSIDES - SUBSIDE MARS - VOLET MUSICAL (Associations)",
+      "eur_2025": 124000.0,
+      "amounts": [
+        92295.4,
+        92295.4,
+        92295.4,
+        124000.0
+      ],
+      "page": 62
+    },
+    {
+      "article": "77101/113-21",
+      "label": "COTISATIONS PATRONALES PENSION - MUSEES",
+      "eur_2025": 122304.2,
+      "amounts": [
+        43896.71,
+        52807.58,
+        72807.58,
+        122304.2
+      ],
+      "page": 49
+    },
+    {
+      "article": "76202/332-02",
+      "label": "SUBSIDES - FONDATION MONS 2025 (Associations)",
+      "eur_2025": 110000.0,
+      "amounts": [
+        110000.0,
+        110000.0,
+        110000.0
+      ],
+      "page": 62
+    },
+    {
+      "article": "10004/332-02",
+      "label": "SUBSIDES GRANDES MANIFESTATIONS CONVENTIONNEES (Associations)",
+      "eur_2025": 108000.0,
+      "amounts": [
+        58000.0,
+        64000.0,
+        58000.0,
+        108000.0
+      ],
+      "page": 18
+    },
+    {
+      "article": "77101/112-02",
+      "label": "PECULE DE VACANCES CONTRACTUELS SUBSIDIES - MUSEES",
+      "eur_2025": 102060.56,
+      "amounts": [
+        109248.21,
+        114501.13,
+        104629.04,
+        102060.56
+      ],
+      "page": 49
+    },
+    {
+      "article": "00001/214-02",
+      "label": "INTERETS DEBITEURS COMPTES ESCOMPTES DE SUBSIDES BELFIUS (S.G.F.)",
+      "eur_2025": 100000.0,
+      "amounts": [
+        186356.25,
+        220000.0,
+        70000.0,
+        100000.0
+      ],
+      "page": 9
+    },
+    {
+      "article": "10001/332-02",
+      "label": "SUBSIDES ACTIVITES - CHARTE DE LA VIE ASSOCIATIVE (Associations)",
+      "eur_2025": 100000.0,
+      "amounts": [
+        101750.0,
+        99640.0,
+        85390.0,
+        100000.0
+      ],
+      "page": 18
+    },
+    {
+      "article": "76305/124-06",
+      "label": "PRESTATIONS TECHNIQUES DE TIERS - MANIFESTATIONS CULTURELLES (Evénements/Projets culturels)",
+      "eur_2025": 100000.0,
+      "amounts": [
+        73302.74,
+        137000.0,
+        109000.0,
+        100000.0
+      ],
+      "page": 51
+    },
+    {
+      "article": "84905/332-03",
+      "label": "SUBSIDES - REGIE DES QUARTIERS (Associations)",
+      "eur_2025": 90000.0,
+      "amounts": [
+        108681.22,
+        112000.0,
+        112000.0,
+        90000.0
+      ],
+      "page": 79
+    },
+    {
+      "article": "12409/332-02",
+      "label": "SUBSIDES - REGIE COMMUNAL AUTONOME - PI CENTRE CONGRES (R.C.A.)",
+      "eur_2025": 80000.0,
+      "amounts": [
+        80000.0,
+        80000.0,
+        80000.0,
+        80000.0
+      ],
+      "page": 20
+    },
+    {
+      "article": "83203/123-48",
+      "label": "AUTRES FRAIS ADMINISTRATIFS - EGALITE DES CHANCES (Associations)",
+      "eur_2025": 76500.0,
+      "amounts": [
+        5755.5,
+        40000.0,
+        40000.0,
+        76500.0
+      ],
+      "page": 69
+    },
+    {
+      "article": "84009/380-06",
+      "label": "CONTRIBUTION ENTREPRISES ET ASBL CHARGES PERSONNEL DETACHE - RECUP. A.P.S.  (Service Prévention)",
+      "eur_2025": 69000.0,
+      "amounts": [
+        63214.21,
+        63500.0,
+        63500.0,
+        69000.0
+      ],
+      "page": 114
+    },
+    {
+      "article": "76418/332-02",
+      "label": "SUBSIDES - ASBL MONSPORTS - REMBOURSEMENT TRAITEMENT (Evénements/Sports)",
+      "eur_2025": 66000.0,
+      "amounts": [
+        66000.0,
+        66000.0,
+        66000.0,
+        66000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "74201/332-02",
+      "label": "SUBSIDES - UNIVERSITES POLITIQUE SOCIALE",
+      "eur_2025": 65000.0,
+      "amounts": [
+        60000.0,
+        60000.0,
+        65000.0,
+        65000.0
+      ],
+      "page": 46
+    },
+    {
+      "article": "77101/124-04",
+      "label": "FOURNITURES TECHNIQUES DESTINEES A LA REVENTE - MUSEES (Pôle Muséal)",
+      "eur_2025": 60000.0,
+      "amounts": [
+        46179.54,
+        75000.0,
+        39820.0,
+        60000.0
+      ],
+      "page": 56
+    },
+    {
+      "article": "76444/332-02",
+      "label": "SUBSIDES - SUBVENTION RCA/STADE - PRI ET ASSUR (R.C.A.)",
+      "eur_2025": 58500.0,
+      "amounts": [
+        66733.44,
+        62800.0,
+        62986.17,
+        58500.0
+      ],
+      "page": 64
+    },
+    {
+      "article": "50010/332-02",
+      "label": "SUBSIDES - SUBSIDES AUX ASSOCIATIONS DE COMMERCANTS (Associations)",
+      "eur_2025": 57500.0,
+      "amounts": [
+        69850.0,
+        71850.0,
+        72350.0,
+        57500.0
+      ],
+      "page": 38
+    },
+    {
+      "article": "77101/112-01",
+      "label": "PECULE DE VACANCES - MUSEES",
+      "eur_2025": 56634.56,
+      "amounts": [
+        42156.36,
+        47537.44,
+        50396.98,
+        56634.56
+      ],
+      "page": 49
+    },
+    {
+      "article": "76316/332-02",
+      "label": "SUBSIDES - ASBL SAINT GEORGES (Associations)",
+      "eur_2025": 55000.0,
+      "amounts": [
+        60000.0,
+        60000.0,
+        60000.0,
+        55000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "76401/332-02",
+      "label": "SUBSIDES - POLITIQUE EN MATIERE SOC. SPORTIVES (Evénements/Sports)",
+      "eur_2025": 55000.0,
+      "amounts": [
+        81405.0,
+        95000.0,
+        95000.0,
+        55000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "10002/332-02",
+      "label": "SUBSIDES DE FONCTIONNEMENT - CHARTE DE LA VIE ASSOCIATIVE (Associations)",
+      "eur_2025": 50000.0,
+      "amounts": [
+        87576.0,
+        93438.5,
+        98688.5,
+        50000.0
+      ],
+      "page": 18
+    },
+    {
+      "article": "77105/124-48",
+      "label": "AUTRES FRAIS TECHNIQUES - PROJETS MUSEES HORS MURS (Pôle muséal)",
+      "eur_2025": 50000.0,
+      "amounts": [
+        46765.47,
+        50000.0,
+        34500.0,
+        50000.0
+      ],
+      "page": 58
+    },
+    {
+      "article": "76428/332-02",
+      "label": "SUBSIDES - SPORTS ETUDES UMH SPORTIVE (Evénements/Sports)",
+      "eur_2025": 50000.0,
+      "amounts": [
+        50000.0,
+        50000.0,
+        50000.0,
+        50000.0
+      ],
+      "page": 63
+    },
+    {
+      "article": "77203/332-03",
+      "label": "SUBSIDES - ORCHESTRE ROYAL DE CHAMBRE DE WALLONIE (Associations)",
+      "eur_2025": 50000.0,
+      "amounts": [
+        61973.0,
+        61973.0,
+        61973.0,
+        50000.0
+      ],
+      "page": 64
+    },
+    {
+      "article": "77111/161-48",
+      "label": "PRODUITS ET RECUPERATIONS DIVERS - DYNAMUSEE (Pôle muséal)",
+      "eur_2025": 50000.0,
+      "amounts": [
+        61837.0,
+        50000.0,
+        50000.0,
+        50000.0
+      ],
+      "page": 109
+    },
+    {
+      "article": "56103/332-02",
+      "label": "SUBSIDES - MAISON DU TOURISME REGIONAL",
+      "eur_2025": 48027.5,
+      "amounts": [
+        48027.5,
+        48027.5,
+        48100.5,
+        48027.5
+      ],
+      "page": 38
+    },
+    {
+      "article": "76212/332-02",
+      "label": "SUBSIDES - FESTIVAL INTERNATIONAL DU FILM DE MONS (Associations)",
+      "eur_2025": 45000.0,
+      "amounts": [
+        45000.0,
+        45000.0,
+        45000.0,
+        45000.0
+      ],
+      "page": 62
+    },
+    {
+      "article": "76410/332-02",
+      "label": "SUBSIDES - SUBVENTIONS EN VUE DE PROMOUVOIR DES ACTIVITES D'INTERET GENERAL (Evénements/Sports)",
+      "eur_2025": 45000.0,
+      "amounts": [
+        61092.0,
+        75000.0,
+        59500.0,
+        45000.0
+      ],
+      "page": 63
+    }
+  ],
+  "culture_ish_sum_2025": 4333796.93,
+  "culture_ish_lines": [
+    {
+      "label": "TRAITEMENTS DU PERSONNEL CONTRACTUEL SUBSIDIE - MUSEES",
+      "eur_2025": 1366635.66,
+      "article": "77101/111-02"
+    },
+    {
+      "label": "TRAITEMENTS DU PERSONNEL COMMUNAL - MUSEES",
+      "eur_2025": 838832.56,
+      "article": "77101/111-01"
+    },
+    {
+      "label": "SUBSIDES- MARS - FONCTIONNEMENT (Associations)",
+      "eur_2025": 400000.0,
+      "article": "76203/332-03"
+    },
+    {
+      "label": "COTISATIONS PATRONALES A L'ONSSAPL - MUSEES",
+      "eur_2025": 204079.39,
+      "article": "77101/113-01"
+    },
+    {
+      "label": "FOURNITURES ADMINISTRATIVES DESTINEES A LA REVENTE - MUSEES (Pôle muséal)",
+      "eur_2025": 170000.0,
+      "article": "77101/123-04"
+    },
+    {
+      "label": "SUBSIDES - MARS - ANIMATIONS (Associations)",
+      "eur_2025": 150000.0,
+      "article": "76206/332-03"
+    },
+    {
+      "label": "PRESTATIONS TECHNIQUES DE TIERS - MUSEES - EXPOSITIONS (Pôle muséal)",
+      "eur_2025": 130000.0,
+      "article": "77108/124-06"
+    },
+    {
+      "label": "SUBSIDES - SUBSIDE MARS - VOLET MUSICAL (Associations)",
+      "eur_2025": 124000.0,
+      "article": "76205/332-03"
+    },
+    {
+      "label": "COTISATIONS PATRONALES PENSION - MUSEES",
+      "eur_2025": 122304.2,
+      "article": "77101/113-21"
+    },
+    {
+      "label": "SUBSIDES - FONDATION MONS 2025 (Associations)",
+      "eur_2025": 110000.0,
+      "article": "76202/332-02"
+    },
+    {
+      "label": "PECULE DE VACANCES CONTRACTUELS SUBSIDIES - MUSEES",
+      "eur_2025": 102060.56,
+      "article": "77101/112-02"
+    },
+    {
+      "label": "SUBSIDES ACTIVITES - CHARTE DE LA VIE ASSOCIATIVE (Associations)",
+      "eur_2025": 100000.0,
+      "article": "10001/332-02"
+    },
+    {
+      "label": "FOURNITURES TECHNIQUES DESTINEES A LA REVENTE - MUSEES (Pôle Muséal)",
+      "eur_2025": 60000.0,
+      "article": "77101/124-04"
+    },
+    {
+      "label": "PECULE DE VACANCES - MUSEES",
+      "eur_2025": 56634.56,
+      "article": "77101/112-01"
+    },
+    {
+      "label": "SUBSIDES - ASBL SAINT GEORGES (Associations)",
+      "eur_2025": 55000.0,
+      "article": "76316/332-02"
+    },
+    {
+      "label": "SUBSIDES DE FONCTIONNEMENT - CHARTE DE LA VIE ASSOCIATIVE (Associations)",
+      "eur_2025": 50000.0,
+      "article": "10002/332-02"
+    },
+    {
+      "label": "AUTRES FRAIS TECHNIQUES - PROJETS MUSEES HORS MURS (Pôle muséal)",
+      "eur_2025": 50000.0,
+      "article": "77105/124-48"
+    },
+    {
+      "label": "PRODUITS ET RECUPERATIONS DIVERS - DYNAMUSEE (Pôle muséal)",
+      "eur_2025": 50000.0,
+      "article": "77111/161-48"
+    },
+    {
+      "label": "SUBSIDES - FESTIVAL INTERNATIONAL DU FILM DE MONS (Associations)",
+      "eur_2025": 45000.0,
+      "article": "76212/332-02"
+    },
+    {
+      "label": "PRODUITS DES DROITS D ENTREE - MUSEE DU DOUDOU (Pôle muséal)",
+      "eur_2025": 37000.0,
+      "article": "77107/161-04"
+    },
+    {
+      "label": "SUBSIDES - PLAZA ART CENTRES EDUCATIFS (Associations)",
+      "eur_2025": 22000.0,
+      "article": "76214/332-02"
+    },
+    {
+      "label": "SUBSIDES EXCEPTIONNELS - CHARTE DE LA VIE ASSOCIATIVE (Associations)",
+      "eur_2025": 20000.0,
+      "article": "10003/332-02"
+    },
+    {
+      "label": "COTISATIONS DE MEMBRE - MUSEES (Pôle muséal)",
+      "eur_2025": 12500.0,
+      "article": "77101/332-01"
+    },
+    {
+      "label": "INDEMNITES DE FRAIS D'HABILLEMENT - GARDIENS DE MUSEES (G.R.H.)",
+      "eur_2025": 10000.0,
+      "article": "77101/121-03"
+    },
+    {
+      "label": "SUBSIDES - MARS - PERSONNEL (Associations)",
+      "eur_2025": 9750.0,
+      "article": "76215/332-02"
+    },
+    {
+      "label": "ACHATS LIVRES DOCUMENTATION ABONNEMENTS - MUSEES (Pôle muséal)",
+      "eur_2025": 8000.0,
+      "article": "77102/123-19"
+    },
+    {
+      "label": "PRESTATIONS TECHNIQUES DE TIERS - MUSEES (Travaux)",
+      "eur_2025": 7000.0,
+      "article": "77102/124-06"
+    },
+    {
+      "label": "AUTRES FRAIS ADMINISTRATIFS - ACHAT DE COLLECTIONS MUSEES (Pôle muséal)",
+      "eur_2025": 5000.0,
+      "article": "77101/123-48"
+    },
+    {
+      "label": "SUBSIDES - JUMELAGES (Associations)",
+      "eur_2025": 5000.0,
+      "article": "76321/332-02"
+    },
+    {
+      "label": "AUTRES CONTRIBUTIONS AUTORITE SUPERIEURE - FETES WALLONIE, THEATRE EN RUE (Ev./Projets culturels)",
+      "eur_2025": 5000.0,
+      "article": "76302/465-48"
+    },
+    {
+      "label": "FOURNITURE, ENTRETIEN, LOCATION VETEMENTS DE TRAVAIL - MUSEES (Pôle muséal)",
+      "eur_2025": 2900.0,
+      "article": "77101/124-05"
+    },
+    {
+      "label": "FRAIS DE VOYAGES SCOLAIRES, EXCURSIONS, CLASSES DE PLEIN AIR - DYNAMUSEE (Pôle muséal)",
+      "eur_2025": 2500.0,
+      "article": "77101/124-22"
+    },
+    {
+      "label": "PRESTATIONS ADMINISTRATIVES DE TIERS - REORGANISATION DES MUSEES (Pôle muséal)",
+      "eur_2025": 1600.0,
+      "article": "77101/123-06"
+    },
+    {
+      "label": "LOCATION ENTRETIEN FOURNITURES TECHNIQUES - MUSEES (Pôle muséal)",
+      "eur_2025": 1000.0,
+      "article": "77101/124-12"
+    }
+  ]
+}
