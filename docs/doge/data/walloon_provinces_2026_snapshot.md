@@ -34,8 +34,13 @@ Sources: src_liege_prov_budget_2026; src_ccrek_lux/namur/hainaut/bw_prov_budget_
 | Hainaut | 199 | n/a (FOI ready) | **None** (CoA flag) |
 | Brabant wallon | 31 | **€10,000,000** | **Explicit** |
 | Namur | 10 | n/a | 7/10 yes; **3 missing** |
-| Luxembourg | (list class) | **€4,300,000** (prior) | mapped earlier |
+| Luxembourg | (count n/a) | **€4,300,000** (−17.8% vs 2025) | partial (contracts only in eval report); FOI ready |
 | Liège | named sample | culture/tourism lines | per-article budget |
 
 **Best public total:** Brabant wallon €10.0m for 31 entities.  
 **Worst opacity:** Hainaut 199 entities without CoA-visible motivation or amounts → `gap_hainaut_asbl_list_2026`.
+
+
+## Completes 5/5 Walloon provinces L5 map (tick 98)
+
+All five Walloon provinces now have either named L5 lines, package totals, and/or FOI for full ASBL lists (Hainaut + Luxembourg FOI ready).

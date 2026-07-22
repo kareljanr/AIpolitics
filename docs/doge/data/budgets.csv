@@ -704,3 +704,15 @@ bud_namur_prov_police_academy_fed_2026,prov_namur,2026,1600000,,,budgeted,src_cc
 bud_namur_prov_pension_debudget_2026,prov_namur,2026,10000000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,ONSS pension cotisations partially debudgeted 10.0m to pension fund reserves
 bud_namur_prov_gsm_tax_provision_2026,prov_namur,2026,1500000,,,budgeted,src_ccrek_namur_prov_budget_2026,strong,Provision GSM mast tax litigation 1.5m
 bud_walloon_asbl_entity_counts_compare,sec_wallonia,2026,240,,,budgeted,src_doge_walloon_prov_l5_2026,strong,Entity counts ge50k: Hainaut 199 + BW 31 + Namur 10 = 240 class (Lux 4.3m list separate metric)
+bud_lux_prov_asbl_ge50k_sum_2026,prov_luxembourg,2026,4300000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,ASBL/FUP aids >=50k/yr total 4.3m 2026 CoA (-0.9m/-17.8pct vs 2025)
+bud_lux_prov_asbl_delta_vs_2025,prov_luxembourg,2026,-900000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,ASBL/FUP package change vs 2025 -0.9m CoA
+bud_lux_prov_contrats_gestion_2024,prov_luxembourg,2024,25,,,outturn,src_ccrek_lux_prov_budget_2026,strong,25 management contract evaluation reports 2024 received by CoA
+bud_lux_prov_pension_debudget_2026,prov_luxembourg,2026,3100000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,ONSS pension cotisations shortfall 3.1m covered by Ethias pension fund
+bud_lux_prov_gsm_tax_2026,prov_luxembourg,2026,600000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Taxe mats pylones GSM 0.6m 2026 with matching provision
+bud_lux_prov_zones_secours_2026_confirm,prov_luxembourg,2026,18000000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Zones secours 18.0m (16.0m securite civile + 2.0m budget complementaire)
+bud_lux_prov_arlon_culture_roof_2026,prov_luxembourg,2026,2800000,,,budgeted,src_ccrek_lux_prov_budget_2026,medium,Maison culture Arlon roof works 2.8m invest contingent on Ville Arlon 2.8m contribution (no justificatory piece CoA)
+bud_lux_prov_cours_eau_invest_2026,prov_luxembourg,2026,1300000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Invest aménagement entretien cours d eau 1.3m extraordinaire
+bud_lux_prov_cancer_vehicle_2026,prov_luxembourg,2026,500000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Vehicule depistage mobile cancer AVIQ-financed 0.5m
+bud_lux_prov_centres_sante_invest_2026,prov_luxembourg,2026,600000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Invest centres de sante acquisition construction amenagement 0.6m
+bud_lux_prov_palais_annex_2026,prov_luxembourg,2026,500000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Amenagement annexe palais provincial 0.5m
+bud_walloon_asbl_totals_known_2026,sec_wallonia,2026,14300000,,,budgeted,src_doge_walloon_prov_l5_2026,strong,Known ASBL package totals BW 10.0m + Lux 4.3m = 14.3m (Hainaut Namur Liege totals unknown)

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T16:34:00Z,rq_097,97,no,"BW ASBL 10.0m/31 entities; Namur pension debudget 10m (tick97). Next: rq_098 Lux or rq_089 SWA."
+main,continuous,continuous,2026-07-22T16:49:00Z,rq_098,98,no,"Lux ASBL 4.3m FOI ready (tick98). Next: rq_099 Walloon L5 synthesize or rq_089 SWA; human FOI stack."

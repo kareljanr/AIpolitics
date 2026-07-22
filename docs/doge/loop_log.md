@@ -759,3 +759,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (Hainaut FOI already ready)
 - Next: **rq_098** Luxembourg ASBL deepen (prio 2) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T16:49:00Z -- tick 98
+- Unit: rq_098 (Luxembourg province ASBL deepen + FOI)
+- Found (strong CoA; **named EUR list still not public**): ASBL/FUP package **EUR 4,300,000** 2026 (**-EUR 0.9m / -17.8%** vs 2025). **25** management-contract evaluation reports 2024. CoA: annual financial/eval annex covers only entities **with** management contracts — others with aids not in that report. Named invest: watercourses **EUR 1,300,000**; Maison culture Arlon roof **EUR 2,800,000** (contingent on Ville Arlon 2.8m match; **no justificatory piece**); cancer screening vehicle AVIQ **EUR 500,000**; health centres **EUR 600,000**; palace annex **EUR 500,000**. Zones secours **EUR 18,000,000**. Pension cotisations shortfall **EUR 3,100,000** to Ethias fund. GSM tax **EUR 600,000** + matching provision. Public search for named list: **negative**. **FOI draft** `gap_lux_asbl_list_2026` **ready** (human send). Completes 5/5 Walloon provinces L5 map (FOI where names missing).
+- Wrote: 12 budgets; 3 commitments; 2 leaderboard; FOI draft+queue; snapshot; entities; sources; rq_098=blocked_foi; seeded rq_099 synthesis; ticks=98
+- FOI: **gap_lux_asbl_list_2026** ready (not sent); Hainaut FOI still ready
+- Next: **rq_099** Walloon L5 ASBL compare synthesis (prio 2) or **rq_089** SWA Q4 (prio 1)
+
