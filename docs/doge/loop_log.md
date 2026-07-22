@@ -687,3 +687,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none
 - Next: **rq_088** West-Vlaanderen bezoldigingen/personeel T2 (prio 3)
 
+
+### 2026-07-22T14:34:00Z -- tick 89
+- Unit: rq_088 (West-Vlaanderen bezoldigingen/personeel + exp rubrics T2 p30)
+- Found (strong, official Schema T2 p30): **Bezoldigingen EUR 84,874,186** (politiek 1.20m; vast admin 31.63m; contract admin 41.79m; onderwijs andere overheden 10.61m; andere 2.37m; pensioenen net -2.68m). **Goederen en diensten EUR 51,954,729**. **Toegestane werkingssubsidies EUR 54,431,043** (upgrades prior ~55m medium) of which **APB EUR 11,631,181** + **andere begunstigden EUR 40,732,307**. Financiering rente **EUR 1,921,373**. WVL personnel much smaller than OVL 212m (OVL heavy onderwijs pass-through). Werkingssubsidies ~28pct of exp 194.4m.
+- Wrote: 12 budgets; cmt_wvl + cmt_subs; leaderboard upgrade; snapshot; entity; sources; rq_088=done; seeded rq_090 L5 sample; ticks=89
+- FOI: none (public T2)
+- Next: **rq_090** named L5 werkingssubsidies sample (prio 3) or **rq_089** SWA Q4 (prio 1)
+

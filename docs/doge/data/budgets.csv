@@ -477,7 +477,7 @@ bud_wvl_prov_afm_2031,prov_west_vlaanderen,2031,8697410,,,budgeted,src_westvl_pr
 bud_wvl_prov_resp_pensioen_2026,prov_west_vlaanderen,2026,2840000,,,budgeted,src_westvl_prov_mjp_2026,strong,Responsabiliseringsbijdrage pensioenen 2026 EUR 2.84m path to 4.89m 2030
 bud_wvl_prov_second_home_relief,prov_west_vlaanderen,2025,9000000,,,budgeted,src_westvl_prov_mjp_2026,strong,Raad van State ambtshalve ontheffing 2e verblijven EUR 9m (reduces start buffer)
 bud_wvl_prov_start_buffer_2026,prov_west_vlaanderen,2026,67200000,,,budgeted,src_westvl_prov_mjp_2026,medium,Start available result after corrections class EUR 67.2m (54.7+21.5-9)
-bud_wvl_prov_werkingssubsidies_class_2026,prov_west_vlaanderen,2026,55000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Werkingssubsidies class ~EUR 55m/yr ~quarter of exploitatie-uitgaven (T2 table image-only)
+bud_wvl_prov_werkingssubsidies_class_2026,prov_west_vlaanderen,2026,55000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Superseded by exact T2 54431043 tick89; keep as prior class estimate
 bud_wvl_prov_agency_subs_class_2026,prov_west_vlaanderen,2026,35000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Verzelfstandigde agentschappen (POM Inagro Westtoer) class ~EUR 35m/yr of werkingssubsidies
 bud_wvl_prov_wfiv_base_2026,prov_west_vlaanderen,2026,400000,,,budgeted,src_westvl_prov_mjp_2026,strong,WFIV basissubsidie constant EUR 400000 (+ annuity path separate)
 bud_ovl_prov_bbr_2026,prov_oost_vlaanderen,2026,24848155,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Beschikbaar budgettair resultaat 2026 24848155
@@ -576,3 +576,15 @@ bud_wvl_prov_opcentiemen_2031,prov_west_vlaanderen,2031,150110481,,,budgeted,src
 bud_wvl_prov_eigen_belastingen_2026,prov_west_vlaanderen,2026,57843000,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema T2 p31 Andere belastingen (eigen) 2026 EUR 57843000
 bud_wvl_prov_fiscal_total_2026,prov_west_vlaanderen,2026,186612461,,,budgeted,src_westvl_prov_mjp_2026,strong,Opcent 128769361 + eigen 57843000 + boetes 100 = 186612461 (T2 p30/31)
 bud_vl_provinces_opcent_sum5_2026,sec_flanders,2026,629191243,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum opcentiemen all 5 Flemish provinces 2026 after rq_086
+bud_wvl_prov_bezoldigingen_2026,prov_west_vlaanderen,2026,84874186,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema T2 p30 Bezoldigingen 2026 EUR 84874185.90 (personnel package incl pensioenen net)
+bud_wvl_prov_pers_politiek_2026,prov_west_vlaanderen,2026,1198481,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 politiek personeel 2026 EUR 1198480.90
+bud_wvl_prov_pers_vast_admin_2026,prov_west_vlaanderen,2026,31628427,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 vastbenoemd niet-onderwijzend 2026 EUR 31628427
+bud_wvl_prov_pers_contract_admin_2026,prov_west_vlaanderen,2026,41794498,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 niet-vastbenoemd niet-onderwijzend 2026 EUR 41794497.58
+bud_wvl_prov_pers_onderwijs_andere_2026,prov_west_vlaanderen,2026,10614542,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 onderwijzend ten laste andere overheden 2026 EUR 10614542.10
+bud_wvl_prov_pers_andere_2026,prov_west_vlaanderen,2026,2374326,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 andere personeelskosten 2026 EUR 2374326.22
+bud_wvl_prov_pensioenen_net_2026,prov_west_vlaanderen,2026,-2676129,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 pensioenen net line 2026 EUR -2676128.50 (credit within bezoldigingen)
+bud_wvl_prov_goederen_2026,prov_west_vlaanderen,2026,51954729,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 goederen en diensten 2026 EUR 51954728.92
+bud_wvl_prov_werkingssubsidies_2026,prov_west_vlaanderen,2026,54431043,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 toegestane werkingssubsidies 2026 EUR 54431042.70 (upgrades prior ~55m class)
+bud_wvl_prov_subs_apb_2026,prov_west_vlaanderen,2026,11631181,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 werkingssubsidies aan eigen APB 2026 EUR 11631180.88
+bud_wvl_prov_subs_andere_2026,prov_west_vlaanderen,2026,40732307,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 werkingssubsidies aan andere begunstigden 2026 EUR 40732307.02
+bud_wvl_prov_fin_rente_2026,prov_west_vlaanderen,2026,1921373,,,budgeted,src_westvl_prov_mjp_2026,strong,T2 p30 rente aan financiele instellingen 2026 EUR 1921373
