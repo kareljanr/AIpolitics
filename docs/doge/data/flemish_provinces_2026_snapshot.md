@@ -69,3 +69,16 @@ Synthesis from DOGE ticks 78–87 primary rows. **No invented euros.**
 src_antwerpen_prov_mjp_2026; src_westvl_prov_mjp_2026; src_oostvl_prov_mjp_beleidsverklaring_2026; src_oostvl_prov_mjp_documentatie_2026; src_limburg_prov_amjp_jun2026; src_vbr_prov_mjp_2026.
 
 Parallel Walloon snapshot: `walloon_provinces_2026_snapshot.md` (rq_076).
+
+
+## Named agency L5 snapshot (ticks 90–93)
+
+| Province | POM € | Tourism agency € | Other large named € |
+|----------|------:|-----------------:|--------------------:|
+| West-Vlaanderen | 11,653,824 | Westtoer 11,052,567 | Inagro 10,839,292 |
+| Limburg | 4,850,000 | Toerisme Limburg 4,750,000 | Bokrijk 6,500,000 |
+| Oost-Vlaanderen | ~2,004,589 (package) | Toerisme OVL 600,176 | Polders 2,100,000 |
+| Vlaams-Brabant | 1,570,833 | Toerisme VBR 1,990,204 | RL Pajottenland 4,335,140 (2026 spike) |
+| Antwerpen | not single POM line | (inside APB 38.9m) | APB package 38,925,780 |
+
+**Completes 5/5 Flemish provinces** with named L5 samples (tick93).

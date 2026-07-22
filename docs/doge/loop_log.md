@@ -719,3 +719,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none for LIM names; ANT per-APB split still not public in main MJP (optional later FOI)
 - Next: **rq_093** Vlaams-Brabant named L5 (prio 2) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T15:34:00Z -- tick 93
+- Unit: rq_093 (Vlaams-Brabant named L5 subsidies sample)
+- Found (strong, official MJP nominatieve verbonden entiteiten p70-73): **Toerisme Vlaams-Brabant vzw EUR 1,990,204**; **Praktijkpunt Landbouw EUR 1,674,979**; **POM Vlaams-Brabant EUR 1,570,833**; **APB Vera EUR 1,190,000**; **IMD EUR 1,200,000**; De Rand **EUR 675,400**; Erfgoedstichting 320k; Vlabinvest 133k. **Regionaal Landschap Pajottenland/Zennevallei EUR 4,335,140** (2026 spike; 2027 falls to 396k). Other RL: Kouters 445k; Dijleland/Noord-Hageland 357k each; Zuid-Hageland 343k; **RL sum5 EUR 5,835,948**. Streekproducten 358k; Bosgroep 175k. T2: APB total **EUR 1,531,315**; andere **EUR 15,654,473**; total werkingssubsidies **EUR 19,382,399**. **Completes 5/5 Flemish provinces** with named L5 samples. POM ladder: WVL 11.7m > LIM 4.85m > OVL 2.0m > VBR 1.57m (ANT APB-heavy 38.9m).
+- Wrote: 20 budgets; 6 commitments; 4 leaderboard; snapshot L5 table; entity; source; rq_093=done; seeded rq_094 synthesis; ticks=93
+- FOI: none
+- Next: **rq_094** VL provinces L5 POM/tourism compare (prio 2) or **rq_089** SWA Q4 (prio 1)
+

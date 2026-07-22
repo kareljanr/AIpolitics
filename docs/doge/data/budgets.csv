@@ -643,3 +643,23 @@ bud_ant_subs_andere_2026,prov_antwerpen,2026,22907585,,,budgeted,src_antwerpen_p
 bud_ant_subs_eredienst_2026,prov_antwerpen,2026,743381,,,budgeted,src_antwerpen_prov_mjp_2026,strong,T2 werkingssubsidies eredienst 2026 EUR 743381
 bud_ant_subs_nietconf_2026,prov_antwerpen,2026,1251410,,,budgeted,src_antwerpen_prov_mjp_2026,strong,T2 niet-confessionele gemeenschappen 2026 EUR 1251410
 bud_ant_vrijetijd_ap_entities_2026,prov_antwerpen,2026,16642250,,,budgeted,src_antwerpen_prov_mjp_2026,strong,AP000061 verzelfstandigde entiteiten vrijetijdsaanbod uitgaven 2026 EUR 16642250
+bud_vbr_toerisme_2026,prov_vlaams_brabant,2026,1990204,,,budgeted,src_vbr_prov_mjp_2026,strong,Toerisme Vlaams-Brabant vzw nominatief 2026 EUR 1990204
+bud_vbr_praktijkpunt_landbouw_2026,prov_vlaams_brabant,2026,1674979,,,budgeted,src_vbr_prov_mjp_2026,strong,Praktijkpunt Landbouw Vlaams-Brabant vzw 2026 EUR 1674979
+bud_vbr_pom_2026,prov_vlaams_brabant,2026,1570833,,,budgeted,src_vbr_prov_mjp_2026,strong,POM Vlaams-Brabant 2026 EUR 1570833 (path +2.5pct class)
+bud_vbr_apb_vera_2026,prov_vlaams_brabant,2026,1190000,,,budgeted,src_vbr_prov_mjp_2026,strong,APB Vera 2026 EUR 1190000
+bud_vbr_imd_2026,prov_vlaams_brabant,2026,1200000,,,budgeted,src_vbr_prov_mjp_2026,strong,Instelling voor Morele Dienstverlening 2026 EUR 1200000 (wettelijk)
+bud_vbr_de_rand_2026,prov_vlaams_brabant,2026,675400,,,budgeted,src_vbr_prov_mjp_2026,strong,vzw De Rand 2026 EUR 675400
+bud_vbr_erfgoedstichting_2026,prov_vlaams_brabant,2026,320384,,,budgeted,src_vbr_prov_mjp_2026,strong,Erfgoedstichting Vlaams-Brabant 2026 EUR 320384
+bud_vbr_apb_vlabinvest_2026,prov_vlaams_brabant,2026,132583,,,budgeted,src_vbr_prov_mjp_2026,strong,APB Vlabinvest 2026 EUR 132583
+bud_vbr_rl_pajottenland_zenne_2026,prov_vlaams_brabant,2026,4335140,,,budgeted,src_vbr_prov_mjp_2026,strong,Regionaal Landschap Pajottenland en Zennevallei 2026 EUR 4335140 (path drops to 396k 2027 - capital spike year)
+bud_vbr_rl_brabantse_kouters_2026,prov_vlaams_brabant,2026,444767,,,budgeted,src_vbr_prov_mjp_2026,strong,Regionaal Landschap Brabantse Kouters 2026 EUR 444767
+bud_vbr_rl_dijleland_2026,prov_vlaams_brabant,2026,356637,,,budgeted,src_vbr_prov_mjp_2026,strong,Regionaal Landschap Dijleland 2026 EUR 356637
+bud_vbr_rl_noord_hageland_2026,prov_vlaams_brabant,2026,356637,,,budgeted,src_vbr_prov_mjp_2026,strong,Regionaal Landschap Noord-Hageland 2026 EUR 356637
+bud_vbr_rl_zuid_hageland_2026,prov_vlaams_brabant,2026,342767,,,budgeted,src_vbr_prov_mjp_2026,strong,Regionaal Landschap Zuid-Hageland 2026 EUR 342767
+bud_vbr_rl_sum5_2026,prov_vlaams_brabant,2026,5835948,,,budgeted,src_vbr_prov_mjp_2026,strong,Sum 5 regionale landschappen VBR 2026 EUR 5835948
+bud_vbr_streekproducten_2026,prov_vlaams_brabant,2026,358489,,,budgeted,src_vbr_prov_mjp_2026,strong,Streekproducten Vlaams-Brabant vzw 2026 EUR 358489
+bud_vbr_bosgroep_2026,prov_vlaams_brabant,2026,175000,,,budgeted,src_vbr_prov_mjp_2026,strong,Bosgroep vzw 2026 EUR 175000
+bud_vbr_de_rand_taal_ap_2026,prov_vlaams_brabant,2026,1202000,,,budgeted,src_vbr_prov_mjp_2026,medium,Actieplan 304VLK01 taal/integratie uitgaven 2026 EUR 1202000 (broader than De Rand line alone)
+bud_vbr_apb_t2_total_2026,prov_vlaams_brabant,2026,1531315,,,budgeted,src_vbr_prov_mjp_2026,strong,T2 werkingssubsidies aan eigen APB 2026 EUR 1531315
+bud_vbr_subs_andere_2026,prov_vlaams_brabant,2026,15654473,,,budgeted,src_vbr_prov_mjp_2026,strong,T2 werkingssubsidies aan andere begunstigden 2026 EUR 15654473
+bud_vbr_top3_agencies_2026,prov_vlaams_brabant,2026,5236016,,,budgeted,src_vbr_prov_mjp_2026,strong,Sum Toerisme+Praktijkpunt+POM 2026 EUR 5236016

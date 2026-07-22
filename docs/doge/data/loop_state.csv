@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T15:19:00Z,rq_092,92,no,"LIM L5 Bokrijk 6.5m POM 4.85m Toerisme 4.75m; ANT APB 38.9m (tick92). Next: rq_093 VBR L5 or rq_089 SWA."
+main,continuous,continuous,2026-07-22T15:34:00Z,rq_093,93,no,"VBR L5 Toerisme 1.99m POM 1.57m; 5/5 VL L5 done (tick93). Next: rq_094 synthesize or rq_089 SWA."
