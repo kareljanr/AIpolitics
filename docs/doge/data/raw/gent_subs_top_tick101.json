@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "source": "data.stad.gent lijst-van-gesubsidieerde-derden-stad-gent",
+    "tick": 101,
+    "note": "2025 partial pre-03/04/2025 charged amounts per portal description"
+  },
+  "year_totals": {
+    "2020": {
+      "sum_eur": 285054985.5,
+      "rows": 2515
+    },
+    "2021": {
+      "sum_eur": 294186113.33,
+      "rows": 3440
+    },
+    "2022": {
+      "sum_eur": 280585781.81,
+      "rows": 3358
+    },
+    "2023": {
+      "sum_eur": 311721995.18,
+      "rows": 2146
+    },
+    "2024": {
+      "sum_eur": 331933746.42,
+      "rows": 1897
+    },
+    "2025": {
+      "sum_eur": 107354923.23,
+      "rows": 628
+    }
+  },
+  "top20_2024_all": [
+    {
+      "name": "Politiezone van Gent",
+      "eur": 110603827.38
+    },
+    {
+      "name": "Ivago",
+      "eur": 62685760.48
+    },
+    {
+      "name": "HULPVERLENINGSZONE  CENTRUM",
+      "eur": 42254533.07
+    },
+    {
+      "name": "Farys",
+      "eur": 10436502.25
+    },
+    {
+      "name": "Integratie en inburgering Gent",
+      "eur": 9749446.76
+    },
+    {
+      "name": "THUISPUNT GENT",
+      "eur": 9687680.54
+    },
+    {
+      "name": "Kunsten en Design",
+      "eur": 9024328.55
+    },
+    {
+      "name": "Stadsontwikkeling Gent (sogent)",
+      "eur": 6899716.2
+    },
+    {
+      "name": "Autonoom Gemeentebedrijf Erfgoed",
+      "eur": 4966698.63
+    },
+    {
+      "name": "S&R Gent",
+      "eur": 4278123.32
+    },
+    {
+      "name": "JEUGDWELZIJNSWERK ONDERSTEUNINGSNET",
+      "eur": 4086456.99
+    },
+    {
+      "name": "De Fietsambassade Gent",
+      "eur": 3091723.33
+    },
+    {
+      "name": "NTGent",
+      "eur": 2985450.76
+    },
+    {
+      "name": "Centrum Algemeen Welzijnswerk",
+      "eur": 2662179.85
+    },
+    {
+      "name": "Muziekcentrum De Bijloke Gent",
+      "eur": 2311716.22
+    },
+    {
+      "name": "De Centrale",
+      "eur": 1930531.46
+    },
+    {
+      "name": "Opera Ballet Vlaanderen",
+      "eur": 1459913.0
+    },
+    {
+      "name": "ALGEMEEN ZIEKENHUIS JAN PALFIJN",
+      "eur": 1420066.91
+    },
+    {
+      "name": "Kerkfabriek O.L.V. Presentatie Begi",
+      "eur": 1294589.13
+    },
+    {
+      "name": "VVM De Lijn - SSC Boekhouding",
+      "eur": 1233810.67
+    }
+  ],
+  "top20_2024_extern_werking": [
+    {
+      "name": "S&R Gent",
+      "eur": 4278123.32
+    },
+    {
+      "name": "JEUGDWELZIJNSWERK ONDERSTEUNINGSNET",
+      "eur": 4086456.99
+    },
+    {
+      "name": "NTGent",
+      "eur": 2725450.76
+    },
+    {
+      "name": "Centrum Algemeen Welzijnswerk",
+      "eur": 2621651.85
+    },
+    {
+      "name": "Opera Ballet Vlaanderen",
+      "eur": 1259913.0
+    },
+    {
+      "name": "VVM De Lijn - SSC Boekhouding",
+      "eur": 1233810.67
+    },
+    {
+      "name": "THUISPUNT GENT",
+      "eur": 1225445.72
+    },
+    {
+      "name": "SAAMO Gent",
+      "eur": 873694.32
+    },
+    {
+      "name": "ATELJEE",
+      "eur": 804077.94
+    },
+    {
+      "name": "TOPunt Gent",
+      "eur": 663122.36
+    },
+    {
+      "name": "Huuringent",
+      "eur": 649143.7
+    },
+    {
+      "name": "Kompas",
+      "eur": 628425.8
+    },
+    {
+      "name": "Vlaamse Vervoermaatschappij - De Li",
+      "eur": 622690.46
+    },
+    {
+      "name": "Voetbal in de stad",
+      "eur": 514661.84
+    },
+    {
+      "name": "Minard",
+      "eur": 510212.0
+    },
+    {
+      "name": "Universiteit Gent",
+      "eur": 491188.23
+    },
+    {
+      "name": "Psychiatrisch Centrum Gent-Sleiding",
+      "eur": 468958.91
+    },
+    {
+      "name": "Habbekrats, vormingsdienst voor",
+      "eur": 427827.5
+    },
+    {
+      "name": "Formaat",
+      "eur": 405569.85
+    },
+    {
+      "name": "Projecten Broeders van Liefde",
+      "eur": 404870.2
+    }
+  ],
+  "top20_2024_cultuurdienst": [
+    {
+      "name": "NTGent",
+      "eur": 2985450.76
+    },
+    {
+      "name": "Opera Ballet Vlaanderen",
+      "eur": 1459913.0
+    },
+    {
+      "name": "Muziekcentrum De Bijloke Gent",
+      "eur": 993259.0
+    },
+    {
+      "name": "Kunstencentrum VIERNULVIER",
+      "eur": 965374.3
+    },
+    {
+      "name": "Minard",
+      "eur": 550212.0
+    },
+    {
+      "name": "SPEELTEATER - KOPERGIETERY",
+      "eur": 336400.06
+    },
+    {
+      "name": "Kunsthal Gent vzw",
+      "eur": 328635.4
+    },
+    {
+      "name": "CAPITOLE",
+      "eur": 326000.0
+    },
+    {
+      "name": "Festival van Vlaanderen Gent en",
+      "eur": 278277.11
+    },
+    {
+      "name": "Internationaal Filmfestival van",
+      "eur": 278277.11
+    },
+    {
+      "name": "NUCLEO",
+      "eur": 194793.96
+    },
+    {
+      "name": "VRIJZINNIG CENTRUM - GEUZENHUIS",
+      "eur": 159191.34
+    },
+    {
+      "name": "Stadsontwikkeling Gent (sogent)",
+      "eur": 153191.49
+    },
+    {
+      "name": "GREENHOUSE TALENT",
+      "eur": 151147.5
+    },
+    {
+      "name": "Scala",
+      "eur": 142811.85
+    },
+    {
+      "name": "Manoeuvre",
+      "eur": 139963.15
+    },
+    {
+      "name": "Bij' De Vieze Gasten",
+      "eur": 139138.56
+    },
+    {
+      "name": "Victoria Deluxe",
+      "eur": 139138.56
+    },
+    {
+      "name": "THEATRE TINNENPOT KUNSTENCENTRUM VZ",
+      "eur": 138772.24
+    },
+    {
+      "name": "CIRCUSPLANEET",
+      "eur": 136217.53
+    }
+  ],
+  "ntgent": [
+    {
+      "dienst": "Cultuurdienst",
+      "budgetpositie_soort": "Werking",
+      "budgetplaats_omschrijving": "Structurele subsidies cultuursector",
+      "2023": 13234.69,
+      "2024": 13771.31,
+      "2025": null
+    },
+    {
+      "dienst": "Cultuurdienst",
+      "budgetpositie_soort": "Werking",
+      "budgetplaats_omschrijving": "Structurele subsidies cultuursector",
+      "2023": 2678193.11,
+      "2024": 2711679.45,
+      "2025": 1137836.42
+    },
+    {
+      "dienst": "Cultuurdienst",
+      "budgetpositie_soort": "Investering",
+      "budgetplaats_omschrijving": "Optimalisering  culturele infrastructuur",
+      "2023": 260000.0,
+      "2024": 260000.0,
+      "2025": 260000.0
+    }
+  ],
+  "extern_werking_2024_total": 47523699.32,
+  "cultuurdienst_2024_total": 11559532.52
+}

@@ -720,3 +720,15 @@ bud_vl_wal_l5_vl_werksubs_sum5_2026,sec_flanders,2026,194175471,,,budgeted,src_d
 bud_vl_wal_l5_wal_known_asbl_2026,sec_wallonia,2026,14300000,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: WAL known ASBL package BW+Lux only 14.3m (NOT full WAL ASBL total)
 bud_vl_wal_l5_wal_entity_count_2026,sec_wallonia,2026,240,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: Hainaut 199 + BW 31 + Namur 10 entity counts ge50k
 bud_vl_wal_l5_vl_pom_tourism4_2026,sec_flanders,2026,38472193,,,budgeted,src_doge_prov_vl_wal_l5_2026,strong,Cross-ref: VL POM+tourism named 4 provinces 38.5m
+bud_gent_subs_register_total_2024,city_gent,2024,331933746.42,,,outturn,src_gent_subsidieregister_od,strong,All groups charged subsidies sum 2024 open register (incl police Ivago zones intern)
+bud_gent_subs_extern_2024,city_gent,2024,63667129.92,,,outturn,src_gent_subsidieregister_od,strong,Extern group only 2024 charged sum
+bud_gent_subs_extern_werking_2024,city_gent,2024,47523699.32,,,outturn,src_gent_subsidieregister_od,strong,Extern + Werking only 2024 third-party ops L5 class
+bud_gent_subs_cultuurdienst_2024,city_gent,2024,11559532.52,,,outturn,src_gent_subsidieregister_od,strong,Cultuurdienst charged sum 2024 311 beneficiaries
+bud_gent_ntgent_2024,city_gent,2024,2985450.76,,,outturn,src_gent_subsidieregister_od,strong,NTGent 2024: werking 2725450.76 + invest 260000
+bud_gent_ntgent_werking_2024,city_gent,2024,2725450.76,,,outturn,src_gent_subsidieregister_od,strong,NTGent structurele werking 2024 (two nominative lines)
+bud_gent_opera_ballet_vl_2024,city_gent,2024,1459913,,,outturn,src_gent_subsidieregister_od,strong,Opera Ballet Vlaanderen city charged 2024
+bud_gent_viernulvier_2024,city_gent,2024,965374.3,,,outturn,src_gent_subsidieregister_od,strong,Kunstencentrum VIERNULVIER extern 2024
+bud_gent_politiezone_2024,city_gent,2024,110603827.38,,,outturn,src_gent_subsidieregister_od,strong,Politiezone van Gent charged via register 2024 (intern core financing not culture L5)
+bud_gent_ivago_2024,city_gent,2024,62685760.48,,,outturn,src_gent_subsidieregister_od,strong,Ivago waste utility charged 2024 intern
+bud_gent_hvz_centrum_2024,city_gent,2024,42254533.07,,,outturn,src_gent_subsidieregister_od,strong,Hulpverleningszone Centrum 2024 intern
+bud_gent_subs_register_total_2025_partial,city_gent,2025,107354923.23,,,outturn,src_gent_subsidieregister_od,medium,2025 PARTIAL only charged pre ~Apr 2025; not full year

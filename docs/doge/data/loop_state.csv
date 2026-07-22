@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T17:19:00Z,rq_100,100,no,"VL/WAL province L5 opacity tick100. Next: rq_101 city L5 recheck or rq_089 SWA; human FOI Hainaut+Lux."
+main,continuous,continuous,2026-07-22T17:34:00Z,rq_101,101,no,"Gent open register L5 tick101. Next: rq_102 city register scan or rq_089 SWA; human FOI Antwerp+Hainaut+Lux."

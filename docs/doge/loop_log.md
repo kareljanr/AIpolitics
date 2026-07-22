@@ -783,3 +783,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (Hainaut + Lux ready, human send)
 - Next: **rq_101** Gent/Antwerp city L5 recheck (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T17:34:00Z -- tick 101
+- Unit: rq_101 (Gent/Antwerp city L5 open-data recheck)
+- Found (strong, Stad Gent open **subsidieregister** 8718 rows): **2024 charged total €331,933,746** (intern €268.3m incl Politiezone €110.6m / Ivago €62.7m / HVZ €42.3m; **extern €63.7m**; **extern+werking €47.5m**). **Cultuurdienst 2024 €11,559,533** (311 orgs). Named culture: **NTGent €2,985,451** (werking €2,725,451 + invest €260k); Opera Ballet VL €1,459,913; VIERNULVIER €965,374; Minard €550k. **2025 partial** €107.4m only. Antwerp city: **no parallel open named EUR register** found this tick.
+- Wrote: `gent_city_l5_subsidies_2024.md`; raw top extract; 12 budgets; 2 cmt; 2 lb; 1 source; entity; gap_gent=answered; rq_101=done; seeded rq_102; ticks=101
+- FOI: gap_gent_subsidies_top20 **answered** via open data; gap_antwerp_subsidies_top20 still ready (human send)
+- Next: **rq_102** other city open register scan (prio 3) or **rq_089** SWA Q4 (prio 1)
+
