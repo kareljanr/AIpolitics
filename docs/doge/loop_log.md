@@ -572,3 +572,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_hainaut; raw CoA PDF; rq_074=done; seeded rq_075 Brabant wallon; ticks=75
 - FOI: none (CoA projet public)
 - Next: **rq_075** Province Brabant wallon (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T11:05:00Z — tick 76
+- Unit: rq_075 (Province du Brabant wallon budget L1 + L5 sample)
+- Found (strong, Cour des comptes 2026_11 projet budget 2026, FR chamber 25 Nov 2025): **Ordinaire exercice propre** recettes **EUR 200,776,958** / depenses **EUR 199,406,787** (boni **EUR 1,370,172**); global boni **EUR 2.7 m**. **Extraordinaire propre** rec **EUR 8,699,156** / dep **EUR 16,331,910** (= global dep). Combined propre dep **~EUR 215.7 m** (Namur-scale). Named: **precompte ~EUR 102.9 m**; **fonds des provinces EUR 13.9 m**; **zones de secours EUR 16.1 m** (flat vs 2025; RW path **17.5 m** 2026 / **28.8 m** 2030; province cites 4m provision + 3m reserve buffer); **personnel EUR 136.8 m** (~69pct); **transferts EUR 27.3 m**; **ASBL/FUP >=50k EUR 10.0 m** (31 entities with justifications); invest: bassins d orage **EUR 3.1 m**, Helecine brasserie **EUR 1.3 m**, cycle points-noeuds **EUR 1.2 m**. **Completes 5/5 Walloon provinces** CoA 2026 map (Hainaut 831m > Liege 564m > Namur 204m ~ BW 199m > Lux 134m ord dep).
+- Wrote: 24 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_brabant_wallon; raw CoA PDF; rq_075=done; seeded rq_076 compare + rq_077 Flanders province; ticks=76
+- FOI: none (CoA projet public)
+- Next: **rq_076** Walloon provinces compare (prio 3) or **rq_071** SWA recheck (prio 2) or **rq_077** Flemish province

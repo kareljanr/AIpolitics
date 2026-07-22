@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-22T10:50:00Z,rq_074,75,no,"Province Hainaut 2026 projet ord 830.6m + extra 23.5m; zones 78.2m+6m. Next: rq_075 Brabant wallon or rq_071 SWA."
+main,continuous,continuous,2026-07-22T11:05:00Z,rq_075,76,no,"Province BW 2026 projet ord 199.4m + extra 16.3m; zones 16.1m. 5/5 Walloon provinces done. Next: rq_076 compare or rq_071 SWA."

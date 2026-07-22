@@ -414,3 +414,27 @@ bud_hainaut_prov_ext_rec_global_2026,prov_hainaut,2026,88773867,,,budgeted,src_c
 bud_hainaut_prov_ext_dep_global_2026,prov_hainaut,2026,24302283,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Extraordinaire depenses exercice global 24302283
 bud_hainaut_prov_ext_invest_2026,prov_hainaut,2026,22774470,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Investissements extraordinaire 22774470 Tableau 13
 bud_hainaut_prov_total_dep_propre_2026,prov_hainaut,2026,854132939,,,budgeted,src_ccrek_hainaut_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 830647769+23485170
+bud_bw_prov_ord_rec_2026,prov_brabant_wallon,2026,200776958,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Service ordinaire recettes exercice propre projet 2026 Tableau 2 CoA
+bud_bw_prov_ord_dep_2026,prov_brabant_wallon,2026,199406787,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Service ordinaire depenses exercice propre projet 2026 Tableau 2 CoA
+bud_bw_prov_ord_boni_propre_2026,prov_brabant_wallon,2026,1370172,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Boni exercice propre ordinaire 1370172
+bud_bw_prov_ord_rec_global_2026,prov_brabant_wallon,2026,202312581,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Service ordinaire recettes exercice global 202312581
+bud_bw_prov_ord_dep_global_2026,prov_brabant_wallon,2026,199611104,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Service ordinaire depenses exercice global 199611104
+bud_bw_prov_ord_boni_global_2026,prov_brabant_wallon,2026,2701478,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Boni exercice global ordinaire 2701478
+bud_bw_prov_precompte_2026,prov_brabant_wallon,2026,102900000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Additionnels precompte immobilier SPW 102.9m class CoA
+bud_bw_prov_fonds_provinces_2026,prov_brabant_wallon,2026,13900000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Fonds des provinces 13.9m per tutelle 5 Sep 2025
+bud_bw_prov_taxes_prov_2026,prov_brabant_wallon,2026,600000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Taxes provinciales 0.6m (display panels banks landfill only)
+bud_bw_prov_personnel_2026,prov_brabant_wallon,2026,136825347,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Depenses personnel exercice propre 136825347 Tableau 5 ~69pct
+bud_bw_prov_fonctionnement_2026,prov_brabant_wallon,2026,22409581,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Depenses fonctionnement exercice propre 22409581
+bud_bw_prov_transferts_2026,prov_brabant_wallon,2026,27272539,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Depenses transferts exercice propre 27272539
+bud_bw_prov_dette_2026,prov_brabant_wallon,2026,11117866,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Service de la dette exercice propre 11117866
+bud_bw_prov_zones_secours_2026,prov_brabant_wallon,2026,16100000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Zones de secours 16.1m (same as 2025; RW trajectory 17.5m for 2026; path to 28.8m by 2030)
+bud_bw_prov_asbl_aids_2026,prov_brabant_wallon,2026,10000000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,ASBL/FUP aids >=50k 31 entities total 10.0m CoA
+bud_bw_prov_bassins_orage_2026,prov_brabant_wallon,2026,3100000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Invest bassins d orage terrains+travaux 3.1m (Beauvechain Forges 1.6m class)
+bud_bw_prov_helecine_brasserie_2026,prov_brabant_wallon,2026,1300000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Construction nouvelle brasserie Chateau d Helecine 1.3m
+bud_bw_prov_reseau_cyclable_2026,prov_brabant_wallon,2026,1200000,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Reseau cyclable points-noeuds voirie 1.2m (on communal roads provincial funded)
+bud_bw_prov_ext_rec_propre_2026,prov_brabant_wallon,2026,8699156,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Extraordinaire recettes exercice propre 8699156 Tableau 10
+bud_bw_prov_ext_dep_propre_2026,prov_brabant_wallon,2026,16331910,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Extraordinaire depenses exercice propre 16331910
+bud_bw_prov_ext_rec_global_2026,prov_brabant_wallon,2026,34202820,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Extraordinaire recettes exercice global 34202820
+bud_bw_prov_ext_dep_global_2026,prov_brabant_wallon,2026,16331910,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Extraordinaire depenses exercice global 16331910
+bud_bw_prov_ext_invest_2026,prov_brabant_wallon,2026,13166910,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Investissements extraordinaire 13166910 Tableau 12
+bud_bw_prov_total_dep_propre_2026,prov_brabant_wallon,2026,215738697,,,budgeted,src_ccrek_bw_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 199406787+16331910
