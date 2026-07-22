@@ -96,3 +96,5 @@ Upgrades prior tick-029 sample (Concertgebouw ~705k+720k medium press/MJP fragme
 - `raw/brugge_subs_top_tick102.json` (committed summary)
 - `raw/namur_subsides_top_tick102.json` (committed summary)
 - Full exports local only (Brugge ~3.5 MB not committed)
+
+Cross-city transparency (tick 104): `cities_l5_transparency_compare_2026.md`.

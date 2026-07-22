@@ -79,3 +79,5 @@ Public charleroi.be content found: **2026 call regulations and subsidy request f
 
 - Local PDF: `raw/mons_budget_ord_2025.pdf` (not necessarily committed if large)
 - Extract: `raw/mons_l5_top_tick103.json`
+
+Cross-city transparency (tick 104): `cities_l5_transparency_compare_2026.md`.

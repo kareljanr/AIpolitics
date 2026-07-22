@@ -762,3 +762,6 @@ bud_mons_charte_activites_2025,city_mons,2025,100000,,,budgeted,src_mons_budget_
 bud_mons_charte_fonctionnement_2025,city_mons,2025,50000,,,budgeted,src_mons_budget_ord_2025,strong,Charte vie associative fonctionnement 10002/332-02 2025
 bud_mons_grandes_manif_2025,city_mons,2025,108000,,,budgeted,src_mons_budget_ord_2025,strong,Grandes manifestations conventionnees 10004/332-02 2025
 bud_mons_saint_georges_2025,city_mons,2025,55000,,,budgeted,src_mons_budget_ord_2025,strong,ASBL Saint Georges 2025
+bud_city_l5_gent_extern_werking_xref_2024,city_gent,2024,47523699.32,,,outturn,src_doge_cities_l5_transparency_2026,strong,Cross-ref tick104: Gent extern+werking 2024 from open register
+bud_city_l5_brugge_register_xref_2024,city_brugge,2024,99253041.87,,,outturn,src_doge_cities_l5_transparency_2026,strong,Cross-ref tick104: Brugge register total 2024 (includes core police/Mintus/HVZ)
+bud_city_l5_mons_ord_dep_xref_2025,city_mons,2025,244180817.5,,,budgeted,src_doge_cities_l5_transparency_2026,strong,Cross-ref tick104: Mons ord depenses 2025 budget PDF (not register total)

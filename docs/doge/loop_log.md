@@ -807,3 +807,11 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_mons still ready (2026); gap_charleroi still ready; no new drafts
 - Next: **rq_104** city L5 transparency compare (prio 2) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T18:19:00Z -- tick 104
+- Unit: rq_104 (City L5 transparency compare Gent/Brugge/Mons + FOI peers)
+- Found (strong synthesis, **not additive**): Transparency ladder **Gent > Brugge > Mons PDF > Namur stale OD > Antwerp=Charleroi FOI**. Gent register 2024 **€331.9m** (extern+werking **€47.5m**; culture **€11.6m**; NTGent **€2.99m**). Brugge 2024 **€99.3m** (Brugge Plus **€7.32m**; Concertgebouw **€2.11m**). Mons ord 2025 dep **€244.2m** (MARS **€674k**; RCA package multi-m). Core police/zones dominate OD tops — not pure L5 waste pools. Invalid: sum cities or compare raw register totals without perimeter.
+- Wrote: `cities_l5_transparency_compare_2026.md`; 3 budget xrefs; 1 cmt; 1 lb; 1 source; rq_104=done; seeded rq_105; ticks=104
+- FOI: none new (stack: Antwerp, Charleroi, Mons2026, Hainaut, Lux — human send)
+- Next: **rq_105** FPS TE / VLAIO recheck (prio 3) or **rq_089** SWA Q4 (prio 1)
+

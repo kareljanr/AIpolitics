@@ -115,3 +115,5 @@ No parallel **city** open subsidieregister with named EUR amounts found this tic
 
 - Compact extract: `raw/gent_subs_top_tick101.json`
 - Full export local (not committed): `raw/gent_subs_full.json` (~5.8 MB)
+
+Cross-city transparency (tick 104): `cities_l5_transparency_compare_2026.md`.
