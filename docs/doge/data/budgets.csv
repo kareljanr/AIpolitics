@@ -480,3 +480,26 @@ bud_wvl_prov_start_buffer_2026,prov_west_vlaanderen,2026,67200000,,,budgeted,src
 bud_wvl_prov_werkingssubsidies_class_2026,prov_west_vlaanderen,2026,55000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Werkingssubsidies class ~EUR 55m/yr ~quarter of exploitatie-uitgaven (T2 table image-only)
 bud_wvl_prov_agency_subs_class_2026,prov_west_vlaanderen,2026,35000000,,,budgeted,src_westvl_prov_mjp_2026,medium,Verzelfstandigde agentschappen (POM Inagro Westtoer) class ~EUR 35m/yr of werkingssubsidies
 bud_wvl_prov_wfiv_base_2026,prov_west_vlaanderen,2026,400000,,,budgeted,src_westvl_prov_mjp_2026,strong,WFIV basissubsidie constant EUR 400000 (+ annuity path separate)
+bud_ovl_prov_bbr_2026,prov_oost_vlaanderen,2026,24848155,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Beschikbaar budgettair resultaat 2026 24848155
+bud_ovl_prov_afm_2026,prov_oost_vlaanderen,2026,11072221,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Autofinancieringsmarge 2026 11072221
+bud_ovl_prov_debt_eoy_2026,prov_oost_vlaanderen,2026,17380658,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Totale financiele schuld 31/12/2026 17380658
+bud_ovl_prov_debt_eoy_2031,prov_oost_vlaanderen,2031,193913424,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Totale financiele schuld 31/12/2031 193913424 (DBFM Lokeren spike)
+bud_ovl_prov_debt_bank_start_2026,prov_oost_vlaanderen,2026,11356366,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Uitstaande schuld kredietinstellingen 01/01/2026 11356366
+bud_ovl_prov_max_loans_period,prov_oost_vlaanderen,2026,130000000,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Maximale leningsopname MJP 130m (alleen indien nodig)
+bud_ovl_prov_inv_uit_2026,prov_oost_vlaanderen,2026,62639681,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Totaal investeringsuitgaven 2026 62639681
+bud_ovl_prov_inv_ont_2026,prov_oost_vlaanderen,2026,17664245,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Totaal investeringsontvangsten 2026 17664245
+bud_ovl_prov_inv_period_2026_31,prov_oost_vlaanderen,2026,399702621,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Sum invest uitgaven 2026-2031 399702621 (~400m press match)
+bud_ovl_prov_pers_total_2026,prov_oost_vlaanderen,2026,211963313,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Personeelsbudget totaal 2026 211963313 incl VL-gesubsidieerd onderwijs 86.8m
+bud_ovl_prov_pers_admin_2026,prov_oost_vlaanderen,2026,122978678,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Bezoldigingen administratief + niet-gesubsidieerd onderwijs 122978678
+bud_ovl_prov_pers_onderwijs_vl_2026,prov_oost_vlaanderen,2026,86831616,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Bezoldigingen gesubsidieerd onderwijs 86831616 (matched VL subsidy)
+bud_ovl_prov_tax_total_2026,prov_oost_vlaanderen,2026,181554643,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Totaal belastingontvangsten 2026 181554643
+bud_ovl_prov_opcentiemen_2026,prov_oost_vlaanderen,2026,110542196,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Opcentiemen OV 2026 110542196; rate 148.47
+bud_ovl_prov_apb_2026,prov_oost_vlaanderen,2026,70012447,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Algemene provinciebelasting 2026 70012447; -10pct gezinnen+bedrijven from 2028
+bud_ovl_prov_werksubs_in_2026,prov_oost_vlaanderen,2026,117036492,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Ontvangen werkingssubsidies totaal 2026 117036492 (mostly onderwijs VL)
+bud_ovl_prov_fiets_period,prov_oost_vlaanderen,2026,86728852,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Fietssnelwegen + bovenlokale routes invest 2026-31 86728852
+bud_ovl_prov_water_period,prov_oost_vlaanderen,2026,42479729,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Waterbouwkundige infrastructuur invest 2026-31 42479729
+bud_ovl_prov_domeinen_period,prov_oost_vlaanderen,2026,41590056,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Uitbouw recreatiedomeinen invest 2026-31 41590056
+bud_ovl_prov_paulo_period,prov_oost_vlaanderen,2026,9081388,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Masterplan PAULO invest 2026-31 9081388
+bud_ovl_prov_hamme_2026_31,prov_oost_vlaanderen,2026,14000000,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Masterplan Richtpunt campus Hamme 14000000
+bud_ovl_prov_eeklo_2026_31,prov_oost_vlaanderen,2026,10000000,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Masterplan Kiempunt campus Eeklo 10000000
+bud_ovl_prov_lokeren_dbfm,prov_oost_vlaanderen,2026,74031570,,,budgeted,src_oostvl_prov_mjp_beleidsverklaring_2026,strong,Groeipunt Lokeren DBFM leasingkost 74031570 (~71.5pct AGION)

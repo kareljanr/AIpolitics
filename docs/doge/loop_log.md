@@ -611,3 +611,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_west_vlaanderen; raw PDF; rq_078=done; seeded rq_079 Oost-VL; ticks=79
 - FOI: none (public MJP; residual gap is extractability not opacity)
 - Next: **rq_079** Oost-Vlaanderen (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T12:05:00Z — tick 80
+- Unit: rq_079 (Provincie Oost-Vlaanderen MJP 2026 L1 + L5 sample)
+- Found (strong, official Beleidsverklaring MJP 2026-2031, PR **3 Dec 2025**): **BBR 2026 EUR 24,848,155**; **AFM 2026 EUR 11,072,221**. **Invest uitgaven 2026 EUR 62,639,681** / ontvangsten **EUR 17,664,245**; **period sum 2026-31 EUR 399,702,621** (~400m). Named packages: **fiets EUR 86,728,852**; **water EUR 42,479,729**; **domeinen EUR 41,590,056**; **PAULO EUR 9,081,388**; Hamme **EUR 14,000,000**; Eeklo **EUR 10,000,000**; Zottegem **EUR 13,091,771**; Lokeren DBFM **EUR 74,031,570**. **Personeel 2026 EUR 211,963,313** (admin **EUR 122,978,678** + VL-gesub onderwijs **EUR 86,831,616**). **Belastingen 2026 EUR 181,554,643** (opcentiemen **EUR 110,542,196** rate **148.47**; APB **EUR 70,012,447**; APB **-10pct from 2028**). **Debt EOY 2026 EUR 17,380,658** → **2031 EUR 193,913,424**; bank start **EUR 11,356,366**; max loans **EUR 130,000,000**. Inwoners 1.01.2025: **1,602,532**. Full single-year exploitatie-uitgaven total not in this PDF (see T2 reference).
+- Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_oost_vlaanderen; raw beleidsverklaring PDF; rq_079=done; seeded rq_080 Limburg/VBR; ticks=80
+- FOI: none (official portal PDF public)
+- Next: **rq_080** Limburg or Vlaams-Brabant (prio 3) or **rq_071** SWA recheck (prio 2)
