@@ -551,3 +551,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 17 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_liege; raw PDF; rq_070=done; seeded rq_072 Lux province; ticks=72
 - FOI: none (official full budget public)
 - Next: **rq_072** Province Luxembourg budget or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T10:20:00Z — tick 73
+- Unit: rq_072 (Province de Luxembourg budget L1 + L5 sample)
+- Found (strong, Cour des comptes 2026_15 projet budget 2026, FR chamber 19 Nov 2025): **Ordinaire exercice propre** recettes **EUR 135,214,912** / depenses **EUR 134,300,069** (boni **EUR 914,843**); global boni **EUR 1,687,264**. **Extraordinaire propre** rec **EUR 11,993,107** / dep **EUR 11,345,396**; global dep **EUR 13,345,396** (incl 2m FRE Plan investissement). Combined propre dep **~EUR 145.6 m** (~4x smaller than Liege ord). Named: **precompte additionnels ~EUR 74.4 m**; **fonds des provinces EUR 14.3 m**; **zones de secours EUR 18.0 m** (16.0m securite civile + 2.0m complement supracommunal); **personnel EUR 79.2 m**; **transferts EUR 32.3 m**; **ASBL/FUP aids >=50k EUR 4.3 m** (-0.9m vs 2025); invest extra **EUR 9.4 m** incl **Maison culture Arlon roof EUR 2.8 m** (contingent Ville d Arlon). GSM mast tax 0.6m + matching provision dual-track honesty. Pension Ethias covers ~3.1m under-inscription vs SFP.
+- Wrote: 22 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_luxembourg; raw CoA PDF; rq_072=done; seeded rq_073 Namur/Hainaut; ticks=73
+- FOI: none (CoA projet public; final adopted budget may differ slightly)
+- Next: **rq_073** Province Namur or Hainaut (prio 3) or **rq_071** SWA recheck (prio 2)

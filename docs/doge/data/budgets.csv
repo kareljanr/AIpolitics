@@ -346,3 +346,25 @@ bud_liege_prov_culture_2026,prov_liege,2026,22993615,,,budgeted,src_liege_prov_b
 bud_liege_prov_sports_2026,prov_liege,2026,8311069,,,budgeted,src_liege_prov_budget_2026,strong,Fonction Sports total depenses 2026 8311069
 bud_liege_prov_opera_2026,prov_liege,2026,150000,,,budgeted,src_liege_prov_budget_2026,strong,Subvention Opera Royal de Wallonie 150000
 bud_liege_prov_opl_2026,prov_liege,2026,70000,,,budgeted,src_liege_prov_budget_2026,strong,Subvention Orchestre philharmonique de Liege 70000
+bud_lux_prov_ord_rec_2026,prov_luxembourg,2026,135214912,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Service ordinaire recettes exercice propre projet 2026 Tableau 2 CoA
+bud_lux_prov_ord_dep_2026,prov_luxembourg,2026,134300069,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Service ordinaire depenses exercice propre projet 2026 Tableau 2 CoA
+bud_lux_prov_ord_boni_propre_2026,prov_luxembourg,2026,914843,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Boni exercice propre ordinaire 914843
+bud_lux_prov_ord_rec_global_2026,prov_luxembourg,2026,136249116,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Service ordinaire recettes exercice global 136249116
+bud_lux_prov_ord_dep_global_2026,prov_luxembourg,2026,134561852,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Service ordinaire depenses exercice global 134561852
+bud_lux_prov_ord_boni_global_2026,prov_luxembourg,2026,1687264,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Boni exercice global ordinaire 1687264
+bud_lux_prov_precompte_2026,prov_luxembourg,2026,74400000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Additionnels precompte immobilier prevision tutelle 74.4m (class)
+bud_lux_prov_fonds_provinces_2026,prov_luxembourg,2026,14300000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Dotation fonds des provinces 14.3m per tutelle 5 Sep
+bud_lux_prov_taxes_prov_2026,prov_luxembourg,2026,1900000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Taxes provinciales total 1.9m incl GSM mast tax 0.6m with matching provision
+bud_lux_prov_personnel_2026,prov_luxembourg,2026,79241880,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Depenses personnel exercice propre 79241880 Tableau 5
+bud_lux_prov_fonctionnement_2026,prov_luxembourg,2026,12610774,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Depenses fonctionnement exercice propre 12610774
+bud_lux_prov_transferts_2026,prov_luxembourg,2026,32321658,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Depenses transferts exercice propre 32321658
+bud_lux_prov_dette_2026,prov_luxembourg,2026,9505757,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Service de la dette exercice propre 9505757
+bud_lux_prov_zones_secours_2026,prov_luxembourg,2026,18000000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Financement zones de secours 16.0m securite civile + 2.0m complement supracommunalité = 18.0m
+bud_lux_prov_asbl_aids_2026,prov_luxembourg,2026,4300000,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,ASBL/FUP aids >=50k/yr consolidated list total 4.3m CoA class
+bud_lux_prov_ext_rec_propre_2026,prov_luxembourg,2026,11993107,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Extraordinaire recettes exercice propre 11993107 Tableau 10
+bud_lux_prov_ext_dep_propre_2026,prov_luxembourg,2026,11345396,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Extraordinaire depenses exercice propre 11345396
+bud_lux_prov_ext_rec_global_2026,prov_luxembourg,2026,13908637,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Extraordinaire recettes exercice global 13908637
+bud_lux_prov_ext_dep_global_2026,prov_luxembourg,2026,13345396,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Extraordinaire depenses exercice global 13345396 incl 2m FRE Plan investissement
+bud_lux_prov_ext_invest_2026,prov_luxembourg,2026,9374396,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Depenses investissements extraordinaire propre 9374396 incl Maison culture Arlon roof 2.8m
+bud_lux_prov_total_dep_propre_2026,prov_luxembourg,2026,145645465,,,budgeted,src_ccrek_lux_prov_budget_2026,strong,Sum ord+extra depenses exercice propre 134300069+11345396
+bud_lux_prov_maison_culture_arlon_2026,prov_luxembourg,2026,2800000,,,budgeted,src_ccrek_lux_prov_budget_2026,medium,Toiture Maison de la culture Arlon 2.8m contingent on Ville d Arlon co-funding

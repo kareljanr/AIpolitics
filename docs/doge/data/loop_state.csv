@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-21T09:50:00Z,rq_070,72,no,"Province Liege 2026 ord 563.6m + extra 68.1m. Next: rq_072 Lux province or rq_071 SWA."
+main,continuous,continuous,2026-07-22T10:20:00Z,rq_072,73,no,"Province Luxembourg 2026 projet ord 134.3m + extra 11.3m; zones 18m. Next: rq_073 Namur/Hainaut or rq_071 SWA."
