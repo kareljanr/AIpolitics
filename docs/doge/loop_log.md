@@ -663,3 +663,11 @@ Append-only. Each tick adds a short entry.
 - FOI: none (public M2 extractable; residual is OVL T2 + WVL L5 subsidies)
 - Next: **rq_085** Oost-Vlaanderen full exp T2 (prio 3) or **rq_084** SWA recheck (prio 2)
 
+
+### 2026-07-22T13:49:00Z -- tick 86
+- Unit: rq_085 (Oost-Vlaanderen full exploitatie 2026 from documentatie T2)
+- Found (strong, official Documentatie PDF p37/p41/p44 Totalen budget 2026): **Exploitatie-uitgaven EUR 313,167,169** / ontvangsten **EUR 327,535,846** (saldo **EUR 14,368,677**). Breakdown uit: personeel **EUR 211,963,313**; goederen/diensten **EUR 63,828,447**; subsidies granted **EUR 30,667,884**; financiele **EUR 921,577**. Inv uit **EUR 62,639,681** / fin uit **EUR 4,048,851**. **Cash-out EUR 379,855,701**. Completes **5/5 Flemish provinces** full exp+cashout. Compare: exp sum **EUR 1,110,597,112**; cash-out sum **EUR 1,499,003,428**. Rank cash-out: OVL 380 > LIM 360 > WVL 284 > ANT 274 > VBR 201. VRT secondary ~330m/yr class near exp. OVL largest because onderwijs pass-through in personnel.
+- Wrote: 10 budgets; cmt_ovl + cmt_vl_provinces; snapshot; 2 sources; entity; rq_085=done; seeded rq_086 WVL opcent; ticks=86
+- FOI: none (documentatie public on beleidsportaal)
+- Next: **rq_086** WVL opcentiemen (prio 2) or **rq_084** SWA recheck (prio 2)
+

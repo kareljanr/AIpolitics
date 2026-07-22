@@ -561,3 +561,13 @@ bud_wvl_prov_exp_uit_2031,prov_west_vlaanderen,2031,218519509,,,budgeted,src_wes
 bud_wvl_prov_exp_ont_2031,prov_west_vlaanderen,2031,242172530,,,budgeted,src_westvl_prov_mjp_2026,strong,Schema M2 p15 exploitatieontvangsten 2031 EUR 242172530.11
 bud_vl_provinces_exp_uit_sum4_2026,sec_flanders,2026,797429943,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum exp uit ANT+LIM+VBR+WVL 2026 after rq_083
 bud_vl_provinces_cashout_sum4_2026,sec_flanders,2026,1119147727,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum cash-out ANT+LIM+VBR+WVL 2026 after rq_083
+bud_ovl_prov_exp_uit_2026,prov_oost_vlaanderen,2026,313167169,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Documentatie p41 Totalen budget 2026 exploitatie-uitgaven 313167169.01
+bud_ovl_prov_exp_ont_2026,prov_oost_vlaanderen,2026,327535846,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Documentatie p37 Totalen budget 2026 exploitatie-ontvangsten 327535845.71
+bud_ovl_prov_exp_saldo_2026,prov_oost_vlaanderen,2026,14368677,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Exploitatiesaldo 2026 327535846-313167169
+bud_ovl_prov_fin_uit_2026,prov_oost_vlaanderen,2026,4048851,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Documentatie p44 financieringsuitgaven 2026 4048851.44
+bud_ovl_prov_fin_ont_2026,prov_oost_vlaanderen,2026,448316,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Documentatie p44 financieringsontvangsten 2026 448316.04
+bud_ovl_prov_cashout_2026,prov_oost_vlaanderen,2026,379855701,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Cash-out 2026 exp+inv+fin uit 313167169+62639681+4048851
+bud_ovl_prov_subs_granted_2026,prov_oost_vlaanderen,2026,30667884,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Exploitatie subsidies granted (T2 col) 2026 30667884.44
+bud_ovl_prov_exp_goederen_2026,prov_oost_vlaanderen,2026,63828447,,,budgeted,src_oostvl_prov_mjp_documentatie_2026,strong,Exp goederen en diensten 2026 63828447.48
+bud_vl_provinces_exp_uit_sum5_2026,sec_flanders,2026,1110597112,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum exp uit all 5 Flemish provinces 2026 after rq_085
+bud_vl_provinces_cashout_sum5_2026,sec_flanders,2026,1499003428,,,budgeted,src_doge_flemish_prov_compare_2026,strong,Sum cash-out all 5 Flemish provinces 2026 after rq_085
