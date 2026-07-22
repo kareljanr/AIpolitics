@@ -1,0 +1,243 @@
+{
+  "source": "https://data.namur.be/explore/assets/subsides-attribues/",
+  "dataset": "subsides-attribues",
+  "tick": 102,
+  "rows": 156,
+  "years": {
+    "2019": {
+      "n": 39,
+      "budget_final_sum": 3159538.23,
+      "engagements_sum": 3084329.84,
+      "by_budget_type": {
+        "Ordinaire": 25,
+        "Extraordinaire": 14
+      }
+    },
+    "2020": {
+      "n": 117,
+      "budget_final_sum": 8144187.8,
+      "engagements_sum": 7968509.32,
+      "by_budget_type": {
+        "Ordinaire": 111,
+        "Extraordinaire": 6
+      }
+    }
+  },
+  "top15_by_year": {
+    "2019": [
+      {
+        "libelle": "Subside SONEFA ASBL",
+        "budget_final": 2082894.93,
+        "engagements": 2082894.93,
+        "budget": "Ordinaire",
+        "article": "844/332SO-02.2019"
+      },
+      {
+        "libelle": "Projets Casernes Acquisition du Corps de garde",
+        "budget_final": 520000.0,
+        "engagements": 519043.0,
+        "budget": "Extraordinaire",
+        "article": "922/522-53/  /     -20190008.2019"
+      },
+      {
+        "libelle": "Subsides fabriques d'Eglise",
+        "budget_final": 112069.21,
+        "engagements": 94902.94,
+        "budget": "Extraordinaire",
+        "article": "790/522-53/  /     -20190061.2019"
+      },
+      {
+        "libelle": "Subside a l'asbl Saint-Berthuin",
+        "budget_final": 65000.0,
+        "engagements": 65000.0,
+        "budget": "Extraordinaire",
+        "article": "762/522-53/  /     -20190095.2019"
+      },
+      {
+        "libelle": "Subside Gestion logement Namur ASBL",
+        "budget_final": 45000.0,
+        "engagements": 45000.0,
+        "budget": "Ordinaire",
+        "article": "844/332GL-02.2019"
+      },
+      {
+        "libelle": "Subside aux Amis de St-Loup",
+        "budget_final": 42000.0,
+        "engagements": 41914.88,
+        "budget": "Extraordinaire",
+        "article": "762/522-53/  /     -20190099.2019"
+      },
+      {
+        "libelle": "Subside a l'asbl Theatre jardin passion",
+        "budget_final": 30500.0,
+        "engagements": 30500.0,
+        "budget": "Extraordinaire",
+        "article": "762/522-53/  /     -20190097.2019"
+      },
+      {
+        "libelle": "Subsides au Amis de St loup",
+        "budget_final": 30000.0,
+        "engagements": 0.0,
+        "budget": "Extraordinaire",
+        "article": "762/522-53/  /     -20190078.2019"
+      },
+      {
+        "libelle": "Subsides RSUN",
+        "budget_final": 25000.0,
+        "engagements": 25000.0,
+        "budget": "Extraordinaire",
+        "article": "832/522-53/  /     -20190090.2019"
+      },
+      {
+        "libelle": "Subside investissement au CCR",
+        "budget_final": 20000.0,
+        "engagements": 20000.0,
+        "budget": "Extraordinaire",
+        "article": "772/522-53/  /     -20190059.2019"
+      },
+      {
+        "libelle": "Subside regie fonciere pour logements d'urgence et de transit",
+        "budget_final": 18000.0,
+        "engagements": 18000.0,
+        "budget": "Ordinaire",
+        "article": "922/332RF-02.2019"
+      },
+      {
+        "libelle": "Subside Restos du Coeur de Namur ASBL",
+        "budget_final": 17808.71,
+        "engagements": 17808.71,
+        "budget": "Ordinaire",
+        "article": "844/332RC-03.2019"
+      },
+      {
+        "libelle": "Subsides au collectif DRASH",
+        "budget_final": 15000.0,
+        "engagements": 0.0,
+        "budget": "Extraordinaire",
+        "article": "762/522-53/  /     -20190074.2019"
+      },
+      {
+        "libelle": "Subside a l'asbl Musee de la Fraise",
+        "budget_final": 15000.0,
+        "engagements": 15000.0,
+        "budget": "Extraordinaire",
+        "article": "762/522-53/  /     -20190098.2019"
+      },
+      {
+        "libelle": "Subsides Asbl Gamena",
+        "budget_final": 11040.0,
+        "engagements": 11040.0,
+        "budget": "Ordinaire",
+        "article": "871/332GM-03.2019"
+      }
+    ],
+    "2020": [
+      {
+        "libelle": "Subside SONEFA ASBL",
+        "budget_final": 2134967.3,
+        "engagements": 2134967.3,
+        "budget": "Ordinaire",
+        "article": "844/332SO-02.2020"
+      },
+      {
+        "libelle": "Subside Centre culturel regional ASBL",
+        "budget_final": 647575.35,
+        "engagements": 647575.35,
+        "budget": "Ordinaire",
+        "article": "762/332CR-03.2020"
+      },
+      {
+        "libelle": "Subside investissement au CCR",
+        "budget_final": 620000.0,
+        "engagements": 620000.0,
+        "budget": "Extraordinaire",
+        "article": "772/522-53/  /     -20200066.2020"
+      },
+      {
+        "libelle": "Subside Office du Tourisme ASBL",
+        "budget_final": 440792.19,
+        "engagements": 400792.19,
+        "budget": "Ordinaire",
+        "article": "762/332OT-03.2020"
+      },
+      {
+        "libelle": "Subsides NEW ASBL",
+        "budget_final": 403500.0,
+        "engagements": 403500.0,
+        "budget": "Ordinaire",
+        "article": "135/332-02.2020"
+      },
+      {
+        "libelle": "Subsides action culturelle",
+        "budget_final": 381650.0,
+        "engagements": 378050.0,
+        "budget": "Ordinaire",
+        "article": "762/332AC-02.2020"
+      },
+      {
+        "libelle": "Subs. conv. Comite animation citadelle",
+        "budget_final": 327000.0,
+        "engagements": 327000.0,
+        "budget": "Ordinaire",
+        "article": "124CI/332AC-03.2020"
+      },
+      {
+        "libelle": "Subside au CCR pour Centre culturel de Bomel (Abattoirs)",
+        "budget_final": 241037.31,
+        "engagements": 241037.31,
+        "budget": "Ordinaire",
+        "article": "762/332CRAB-03.2020"
+      },
+      {
+        "libelle": "Subsides associations sportives locales",
+        "budget_final": 230000.0,
+        "engagements": 230000.0,
+        "budget": "Ordinaire",
+        "article": "764/332AS-02.2020"
+      },
+      {
+        "libelle": "Subside Canal C ASBL",
+        "budget_final": 210000.0,
+        "engagements": 210000.0,
+        "budget": "Ordinaire",
+        "article": "780/332CC-03.2020"
+      },
+      {
+        "libelle": "Subside Centre d'art vocal et de musique ancienne ASBL",
+        "budget_final": 205555.0,
+        "engagements": 205555.0,
+        "budget": "Ordinaire",
+        "article": "762/332CC-03.2020"
+      },
+      {
+        "libelle": "Subside Festival international du film francophone ASBL",
+        "budget_final": 201333.99,
+        "engagements": 201333.99,
+        "budget": "Ordinaire",
+        "article": "762/332FF-03.2020"
+      },
+      {
+        "libelle": "Subside Asbl Les Grignoux",
+        "budget_final": 175818.62,
+        "engagements": 175818.62,
+        "budget": "Ordinaire",
+        "article": "762/332GR-03.2020"
+      },
+      {
+        "libelle": "Subsides ASBL G.A.U.",
+        "budget_final": 175000.0,
+        "engagements": 175000.0,
+        "budget": "Ordinaire",
+        "article": "561/332AU-02.2020"
+      },
+      {
+        "libelle": "Subsides projets sportifs",
+        "budget_final": 165000.0,
+        "engagements": 165000.0,
+        "budget": "Ordinaire",
+        "article": "764/332-02.2020"
+      }
+    ]
+  },
+  "latest_year": 2020
+}

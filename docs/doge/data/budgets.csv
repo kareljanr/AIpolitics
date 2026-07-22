@@ -732,3 +732,18 @@ bud_gent_politiezone_2024,city_gent,2024,110603827.38,,,outturn,src_gent_subsidi
 bud_gent_ivago_2024,city_gent,2024,62685760.48,,,outturn,src_gent_subsidieregister_od,strong,Ivago waste utility charged 2024 intern
 bud_gent_hvz_centrum_2024,city_gent,2024,42254533.07,,,outturn,src_gent_subsidieregister_od,strong,Hulpverleningszone Centrum 2024 intern
 bud_gent_subs_register_total_2025_partial,city_gent,2025,107354923.23,,,outturn,src_gent_subsidieregister_od,medium,2025 PARTIAL only charged pre ~Apr 2025; not full year
+bud_brugge_subs_register_total_2024,city_brugge,2024,99253041.87,,,outturn,src_brugge_subsidieregister_od,strong,Open subsidieregister sum bedrag 2024 all recipients
+bud_brugge_subs_register_total_2025,city_brugge,2025,97980016.2,,,outturn,src_brugge_subsidieregister_od,strong,Open subsidieregister sum bedrag 2025 all recipients
+bud_brugge_subs_register_total_2026_partial,city_brugge,2026,31179096.59,,,budgeted,src_brugge_subsidieregister_od,medium,2026 PARTIAL 252 rows only early loads not full year
+bud_brugge_plus_2024,city_brugge,2024,7317327.56,,,outturn,src_brugge_subsidieregister_od,strong,BRUGGE PLUS VZW charged sum 2024
+bud_brugge_plus_2025,city_brugge,2025,7025227.88,,,outturn,src_brugge_subsidieregister_od,strong,BRUGGE PLUS VZW charged sum 2025
+bud_brugge_concertgebouw_2024,city_brugge,2024,2110837.36,,,outturn,src_brugge_subsidieregister_od,strong,Concertgebouw Brugge VZW 2024 (upgrades prior medium sample)
+bud_brugge_concertgebouw_2025,city_brugge,2025,1263054.52,,,outturn,src_brugge_subsidieregister_od,strong,Concertgebouw Brugge VZW 2025
+bud_brugge_entrepot_2024,city_brugge,2024,1086176.25,,,outturn,src_brugge_subsidieregister_od,strong,Het Entrepot jongerencultuur 2024
+bud_brugge_entrepot_2025,city_brugge,2025,1019766.34,,,outturn,src_brugge_subsidieregister_od,strong,Het Entrepot 2025
+bud_brugge_politiezone_2024,city_brugge,2024,32933882.31,,,outturn,src_brugge_subsidieregister_od,strong,Politiezone van Brugge 2024 via register (core not L5 waste)
+bud_brugge_mintus_2024,city_brugge,2024,26186642.03,,,outturn,src_brugge_subsidieregister_od,strong,Mintus zorgvereniging 2024
+bud_brugge_hvz1_2024,city_brugge,2024,10077985,,,outturn,src_brugge_subsidieregister_od,strong,Hulpverleningszone 1 West-Vlaanderen 2024
+bud_namur_od_subsides_total_2020,city_namur,2020,8144187.8,,,outturn,src_namur_subsides_attribues_od,strong,Open data subsides-attribues budget_final sum 2020 (STALE portal not updated post-2020)
+bud_namur_od_sonefa_2020,city_namur,2020,2134967.3,,,outturn,src_namur_subsides_attribues_od,strong,SONEFA ASBL 2020 open data; compare BI2026 2.63m separate source
+bud_namur_od_ccr_werking_2020,city_namur,2020,647575.35,,,outturn,src_namur_subsides_attribues_od,strong,Centre culturel regional ASBL werking 2020 open data

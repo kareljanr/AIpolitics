@@ -1,0 +1,508 @@
+{
+  "source": "https://data.brugge.be/explore/dataset/subsidieregister/",
+  "dataset": "subsidieregister",
+  "tick": 102,
+  "rows": 5831,
+  "years": {
+    "2022": {
+      "n_rows": 1326,
+      "unique_recipients": 994,
+      "sum_eur": 88941813.36
+    },
+    "2023": {
+      "n_rows": 1530,
+      "unique_recipients": 1126,
+      "sum_eur": 94761863.53
+    },
+    "2024": {
+      "n_rows": 1389,
+      "unique_recipients": 1067,
+      "sum_eur": 99253041.87
+    },
+    "2025": {
+      "n_rows": 1334,
+      "unique_recipients": 1026,
+      "sum_eur": 97980016.2
+    },
+    "2026": {
+      "n_rows": 252,
+      "unique_recipients": 222,
+      "sum_eur": 31179096.59
+    }
+  },
+  "top20_by_year": {
+    "2022": [
+      {
+        "name": "Politiezone van Brugge",
+        "eur": 30750000.0
+      },
+      {
+        "name": "Mintus (Zorgvereniging Brugge)",
+        "eur": 25830001.06
+      },
+      {
+        "name": "Hulpverleningszone 1 West Vlaanderen",
+        "eur": 9114109.0
+      },
+      {
+        "name": "BRUGGE PLUS  VZW",
+        "eur": 5605771.82
+      },
+      {
+        "name": "Gezin/Particulier",
+        "eur": 2544032.56
+      },
+      {
+        "name": "Farys",
+        "eur": 1455012.97
+      },
+      {
+        "name": "Concertgebouw Brugge VZW",
+        "eur": 1316556.07
+      },
+      {
+        "name": "Stadmakers VZW",
+        "eur": 914358.0
+      },
+      {
+        "name": "Regionaal Centrum voor Jongerencultuur:  Het Entrepot",
+        "eur": 906442.55
+      },
+      {
+        "name": "De Blauwe Lelie",
+        "eur": 862567.11
+      },
+      {
+        "name": "CAW Noord-West Vlaanderen VZW",
+        "eur": 603076.41
+      },
+      {
+        "name": "Beurs-, Meeting- en Congrescentrum vzw BMCC",
+        "eur": 590000.0
+      },
+      {
+        "name": "Groep Intro VZW",
+        "eur": 455609.76
+      },
+      {
+        "name": "STRICTO TEMPO VZW",
+        "eur": 385000.0
+      },
+      {
+        "name": "De Sleutel VZW",
+        "eur": 349221.77
+      },
+      {
+        "name": "Cactus Muziekcentrum VZW",
+        "eur": 330000.0
+      },
+      {
+        "name": "KERKFABRIEK O.L.VROUW",
+        "eur": 278448.23
+      },
+      {
+        "name": "Cercle Brugge Koninklijke sportvereniging",
+        "eur": 260000.0
+      },
+      {
+        "name": "'t SAS VERENIGING",
+        "eur": 246719.98
+      },
+      {
+        "name": "Brugge. Inc VZW",
+        "eur": 239000.0
+      }
+    ],
+    "2023": [
+      {
+        "name": "Politiezone van Brugge",
+        "eur": 31116331.14
+      },
+      {
+        "name": "Mintus (Zorgvereniging Brugge)",
+        "eur": 26560897.12
+      },
+      {
+        "name": "Hulpverleningszone 1 West Vlaanderen",
+        "eur": 9460268.0
+      },
+      {
+        "name": "BRUGGE PLUS  VZW",
+        "eur": 7316835.35
+      },
+      {
+        "name": "Gezin/Particulier",
+        "eur": 3321170.11
+      },
+      {
+        "name": "Concertgebouw Brugge VZW",
+        "eur": 1849307.16
+      },
+      {
+        "name": "Farys",
+        "eur": 1559352.38
+      },
+      {
+        "name": "Stadmakers VZW",
+        "eur": 1064798.27
+      },
+      {
+        "name": "Regionaal Centrum voor Jongerencultuur:  Het Entrepot",
+        "eur": 965900.44
+      },
+      {
+        "name": "De Blauwe Lelie",
+        "eur": 881881.85
+      },
+      {
+        "name": "CAW Noord-West Vlaanderen VZW",
+        "eur": 609015.44
+      },
+      {
+        "name": "Beurs-, Meeting- en Congrescentrum vzw BMCC",
+        "eur": 601800.0
+      },
+      {
+        "name": "Groep Intro VZW",
+        "eur": 462187.81
+      },
+      {
+        "name": "Renners in Aantocht VZW",
+        "eur": 450000.0
+      },
+      {
+        "name": "De Sleutel VZW",
+        "eur": 409519.06
+      },
+      {
+        "name": "KERKFABRIEK O.L.VROUW Z.EM.KANUNNIK BEECKMAN",
+        "eur": 341832.93
+      },
+      {
+        "name": "Vivendo bv",
+        "eur": 316267.1
+      },
+      {
+        "name": "'t SAS VERENIGING",
+        "eur": 306445.04
+      },
+      {
+        "name": "Cactus Muziekcentrum VZW",
+        "eur": 305000.0
+      },
+      {
+        "name": "WESTTOER",
+        "eur": 208417.81
+      }
+    ],
+    "2024": [
+      {
+        "name": "Politiezone van Brugge",
+        "eur": 32933882.31
+      },
+      {
+        "name": "Mintus (Zorgvereniging Brugge)",
+        "eur": 26186642.03
+      },
+      {
+        "name": "Hulpverleningszone 1 West Vlaanderen",
+        "eur": 10077985.0
+      },
+      {
+        "name": "BRUGGE PLUS  VZW",
+        "eur": 7317327.56
+      },
+      {
+        "name": "Gezin/Particulier",
+        "eur": 3435463.54
+      },
+      {
+        "name": "Concertgebouw Brugge VZW",
+        "eur": 2110837.36
+      },
+      {
+        "name": "Farys",
+        "eur": 1660550.47
+      },
+      {
+        "name": "Regionaal Centrum voor Jongerencultuur:  Het Entrepot",
+        "eur": 1086176.25
+      },
+      {
+        "name": "De Blauwe Lelie",
+        "eur": 895906.12
+      },
+      {
+        "name": "Stadmakers VZW",
+        "eur": 871963.75
+      },
+      {
+        "name": "De Korrelatie VZW",
+        "eur": 795892.65
+      },
+      {
+        "name": "Sport Vlaanderen",
+        "eur": 694043.51
+      },
+      {
+        "name": "Beurs-, Meeting- en Congrescentrum vzw BMCC",
+        "eur": 613836.0
+      },
+      {
+        "name": "CAW Noord-West Vlaanderen VZW",
+        "eur": 539020.54
+      },
+      {
+        "name": "'t SAS VERENIGING",
+        "eur": 344180.0
+      },
+      {
+        "name": "De Sleutel VZW",
+        "eur": 340278.56
+      },
+      {
+        "name": "Cactus Muziekcentrum VZW",
+        "eur": 305031.0
+      },
+      {
+        "name": "KERKFABRIEK O.L.VROUW",
+        "eur": 284626.55
+      },
+      {
+        "name": "Oranje VZW",
+        "eur": 263244.23
+      },
+      {
+        "name": "KERKFABRIEK H. MAGDALENA EN H. CATHARINA",
+        "eur": 254767.25
+      }
+    ],
+    "2025": [
+      {
+        "name": "Politiezone van Brugge",
+        "eur": 29791979.14
+      },
+      {
+        "name": "Mintus (Zorgvereniging Brugge)",
+        "eur": 26386351.75
+      },
+      {
+        "name": "Hulpverleningszone 1 West Vlaanderen",
+        "eur": 9988875.29
+      },
+      {
+        "name": "BRUGGE PLUS  VZW",
+        "eur": 7025227.88
+      },
+      {
+        "name": "Gezin/Particulier",
+        "eur": 3989233.2
+      },
+      {
+        "name": "Farys",
+        "eur": 2447793.34
+      },
+      {
+        "name": "Cercle Brugge Koninklijke sportvereniging",
+        "eur": 1750093.2
+      },
+      {
+        "name": "Concertgebouw Brugge VZW",
+        "eur": 1263054.52
+      },
+      {
+        "name": "Regionaal Centrum voor Jongerencultuur:  Het Entrepot",
+        "eur": 1019766.34
+      },
+      {
+        "name": "De Blauwe Lelie",
+        "eur": 896406.12
+      },
+      {
+        "name": "Stadmakers VZW",
+        "eur": 862857.75
+      },
+      {
+        "name": "Beurs-, Meeting- en Congrescentrum vzw BMCC",
+        "eur": 626112.0
+      },
+      {
+        "name": "CAW Noord-West Vlaanderen VZW",
+        "eur": 523218.95
+      },
+      {
+        "name": "De Sleutel VZW",
+        "eur": 513687.41
+      },
+      {
+        "name": "Renners in Aantocht VZW",
+        "eur": 500000.0
+      },
+      {
+        "name": "Universiteit Gent",
+        "eur": 359455.36
+      },
+      {
+        "name": "'t SAS VERENIGING",
+        "eur": 344180.0
+      },
+      {
+        "name": "De Vlaamse Waterweg",
+        "eur": 317440.0
+      },
+      {
+        "name": "Cactus Muziekcentrum VZW",
+        "eur": 307689.4
+      },
+      {
+        "name": "Oranje VZW",
+        "eur": 302727.88
+      }
+    ],
+    "2026": [
+      {
+        "name": "Politiezone Van Brugge",
+        "eur": 16935000.0
+      },
+      {
+        "name": "HULPVERLENINGSZONE 1 (WEST-VLAANDEREN)",
+        "eur": 5013726.81
+      },
+      {
+        "name": "Brugge Plus",
+        "eur": 2458853.61
+      },
+      {
+        "name": "Concertgebouw Brugge",
+        "eur": 1425000.0
+      },
+      {
+        "name": "Stadmakers",
+        "eur": 741019.3
+      },
+      {
+        "name": "Het Entrepot",
+        "eur": 720000.0
+      },
+      {
+        "name": "Beurs-, Meeting- en Congrescentrum",
+        "eur": 638634.97
+      },
+      {
+        "name": "De Sleutel centrale diensten",
+        "eur": 333554.69
+      },
+      {
+        "name": "Koninklijke Veloclub Panne Sportief",
+        "eur": 260000.0
+      },
+      {
+        "name": "Centrum Algemeen Welzijnswerk Noord-West-Vlaanderen",
+        "eur": 217065.0
+      },
+      {
+        "name": "WESTTOER",
+        "eur": 208238.0
+      },
+      {
+        "name": "Oranje",
+        "eur": 164536.72
+      },
+      {
+        "name": "Kerkfabriek Onze-Lieve-Vrouwekerk (VL - Brugge)",
+        "eur": 148936.84
+      },
+      {
+        "name": "Gezin/Particulier",
+        "eur": 125047.82
+      },
+      {
+        "name": "Vereniging Spoor Brugge",
+        "eur": 118000.0
+      },
+      {
+        "name": "DE BLAUWE LELIE",
+        "eur": 113115.0
+      },
+      {
+        "name": "Komerbi",
+        "eur": 108032.0
+      },
+      {
+        "name": "Centrum voor geestelijke gezondheidszorg Noord-West-Vlaanderen",
+        "eur": 102010.0
+      },
+      {
+        "name": "Federatie Mondiale Democratische Organisaties",
+        "eur": 93780.0
+      },
+      {
+        "name": "Koninklijke Tennis Club Brugge",
+        "eur": 78078.68
+      }
+    ]
+  },
+  "top_beleidsveld_latest": [
+    {
+      "field": "Politiediensten",
+      "eur": 16830000.02
+    },
+    {
+      "field": "Brandweer",
+      "eur": 5013726.81
+    },
+    {
+      "field": "Overige culturele instellingen",
+      "eur": 4147626.83
+    },
+    {
+      "field": "Jeugdsector- en verenigingsondersteuning",
+      "eur": 1306795.44
+    },
+    {
+      "field": "Patrimonium zonder maatschappelijk doel",
+      "eur": 638634.97
+    },
+    {
+      "field": "Handel en middenstand",
+      "eur": 556892.3
+    },
+    {
+      "field": "Overige elementen van openbare orde en veiligheid",
+      "eur": 493780.28
+    },
+    {
+      "field": "Sportsector- en verenigingsondersteuning",
+      "eur": 462464.12
+    },
+    {
+      "field": "Erediensten",
+      "eur": 422156.16
+    },
+    {
+      "field": "Gemeentelijke dienstverlening gericht op kinderen & jongeren",
+      "eur": 307178.45
+    },
+    {
+      "field": "Toerisme - Sectorondersteuning",
+      "eur": 208238.0
+    },
+    {
+      "field": "Monumentenzorg",
+      "eur": 180430.26
+    },
+    {
+      "field": "Integratie van personen met vreemde herkomst",
+      "eur": 155230.98
+    },
+    {
+      "field": "Kinderopvang",
+      "eur": 113115.0
+    },
+    {
+      "field": "Bestuurlijke preventie (incl. GAS)",
+      "eur": 109999.98
+    }
+  ],
+  "latest_year": "2026"
+}

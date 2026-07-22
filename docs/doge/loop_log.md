@@ -791,3 +791,11 @@ Append-only. Each tick adds a short entry.
 - FOI: gap_gent_subsidies_top20 **answered** via open data; gap_antwerp_subsidies_top20 still ready (human send)
 - Next: **rq_102** other city open register scan (prio 3) or **rq_089** SWA Q4 (prio 1)
 
+
+### 2026-07-22T17:49:00Z -- tick 102
+- Unit: rq_102 (Brugge/Namur/… city open subsidy register scan)
+- Found (strong Brugge OD): **subsidieregister** 5831 rows 2022–2026. **2024 total €99,253,042**; **2025 €97,980,016**; 2026 partial €31.2m. Named: **Brugge Plus €7,317,328 (2024)** / €7.03m (2025); **Concertgebouw €2,110,837 (2024)** / €1.26m (2025); **Entrepot €1,086,176 (2024)**. Core top: Politiezone €32.9m; Mintus €26.2m; HVZ €10.1m. **Namur OD** `subsides-attribues`: **stale 2019–2020 only** (156 rows); SONEFA 2020 €2.13m — BI2026 associatif still from DGF not OD. Charleroi/Mons named OD not found this tick.
+- Wrote: `brugge_city_l5_subsidies_tick102.md`; Brugge+Namur top JSON; 15 budgets; 4 cmt; 3 lb; 2 sources; rq_102=done; seeded rq_103; ticks=102
+- FOI: none new (Antwerp/Hainaut/Lux still ready human send; Namur OD lag noted not drafted)
+- Next: **rq_103** Charleroi/Mons L5 PDF (prio 3) or **rq_089** SWA Q4 (prio 1)
+
