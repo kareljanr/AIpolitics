@@ -625,3 +625,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: 20 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_limburg; raw AMJP PDF; rq_080=done; seeded rq_081 Vlaams-Brabant; ticks=81
 - FOI: none (official smartcities dossier public)
 - Next: **rq_081** Vlaams-Brabant (prio 3) or **rq_071** SWA recheck (prio 2)
+
+### 2026-07-22T12:35:00Z — tick 82
+- Unit: rq_081 (Provincie Vlaams-Brabant MJP 2026 L1 + L5 sample)
+- Found (strong, official MJP 2026-2031 PR **14 Oct 2025** / pub 23 Oct): **Exploitatie-uitgaven EUR 150,983,589** / ontvangsten **EUR 175,453,134** (saldo **EUR 24,469,545**). **Invest EUR 43,388,068** / ontvangsten **EUR 13,092,337**. Financiering uitgaven **EUR 6,213,109**. **Cash-out EUR 200,584,766**. **BBR EUR 46,612,757**; **AFM EUR 22,650,349**; **schuld EUR 36,945,771**. **Personeel EUR 97,952,035**. **Werkingssubsidies EUR 19,382,399** (andere **EUR 15,654,473**). **Opcentiemen EUR 126,813,759** (rate **171.75**); **eigen belastingen afgeschaft 2026**. Named: **fiets period EUR 66,300,000** (2026 **EUR 11,550,000**); **waterrecreatie/openluchtzwembaden period EUR 37,464,204**. Invest period sum **EUR 255,080,070**. Inwoners **1,198,638**. **Completes 5/5 Flemish provinces** (ANT WVL OVL LIM VBR).
+- Wrote: 20 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_vlaams_brabant; raw MJP PDF; rq_081=done; seeded rq_082 VL compare; ticks=82
+- FOI: none
+- Next: **rq_082** Flemish 5-province compare (prio 3) or **rq_071** SWA recheck (prio 2)

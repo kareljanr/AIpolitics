@@ -523,3 +523,23 @@ bud_lim_prov_opcentiemen_2026,prov_limburg,2026,90933687,,,budgeted,src_limburg_
 bud_lim_prov_spec_werksubs_in_2026,prov_limburg,2026,123008974,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Specifieke werkingssubsidies ontvangsten 123008974
 bud_lim_prov_inv_period_2026_31,prov_limburg,2026,272275476,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Sum invest uitgaven 2026-31 272275476 (~270m press)
 bud_lim_prov_bokrijk_winter_2026,prov_limburg,2026,250000,,,budgeted,src_limburg_prov_amjp_jun2026,strong,Nominatieve projectsubsidie Domein Bokrijk winterevenement 250000
+bud_vbr_prov_exp_uit_2026,prov_vlaams_brabant,2026,150983589,,,budgeted,src_vbr_prov_mjp_2026,strong,Exploitatie-uitgaven 2026 T2/M2 150983589
+bud_vbr_prov_exp_ont_2026,prov_vlaams_brabant,2026,175453134,,,budgeted,src_vbr_prov_mjp_2026,strong,Exploitatieontvangsten 2026 175453134
+bud_vbr_prov_exp_saldo_2026,prov_vlaams_brabant,2026,24469545,,,budgeted,src_vbr_prov_mjp_2026,strong,Exploitatiesaldo 2026 24469545
+bud_vbr_prov_inv_uit_2026,prov_vlaams_brabant,2026,43388068,,,budgeted,src_vbr_prov_mjp_2026,strong,Investeringsuitgaven 2026 43388068
+bud_vbr_prov_inv_ont_2026,prov_vlaams_brabant,2026,13092337,,,budgeted,src_vbr_prov_mjp_2026,strong,Investeringsontvangsten 2026 13092337 (incl asset sales 11.6m)
+bud_vbr_prov_fin_uit_2026,prov_vlaams_brabant,2026,6213109,,,budgeted,src_vbr_prov_mjp_2026,strong,Financieringsuitgaven 2026 6213109
+bud_vbr_prov_total_cashout_2026,prov_vlaams_brabant,2026,200584766,,,budgeted,src_vbr_prov_mjp_2026,strong,Sum exp+inv+fin uitgaven 2026 200584766
+bud_vbr_prov_bbr_2026,prov_vlaams_brabant,2026,46612757,,,budgeted,src_vbr_prov_mjp_2026,strong,Beschikbaar budgettair resultaat 2026 46612757
+bud_vbr_prov_afm_2026,prov_vlaams_brabant,2026,22650349,,,budgeted,src_vbr_prov_mjp_2026,strong,Autofinancieringsmarge 2026 22650349
+bud_vbr_prov_debt_2026,prov_vlaams_brabant,2026,36945771,,,budgeted,src_vbr_prov_mjp_2026,strong,Financiele schuld 2026 36945771
+bud_vbr_prov_pers_2026,prov_vlaams_brabant,2026,97952035,,,budgeted,src_vbr_prov_mjp_2026,strong,Personeelsuitgaven 2026 97952035
+bud_vbr_prov_werkingssubsidies_2026,prov_vlaams_brabant,2026,19382399,,,budgeted,src_vbr_prov_mjp_2026,strong,Toegestane werkingssubsidies 19382399
+bud_vbr_prov_andere_subs_2026,prov_vlaams_brabant,2026,15654473,,,budgeted,src_vbr_prov_mjp_2026,strong,Werkingssubsidies andere begunstigden 15654473 L5 pool
+bud_vbr_prov_opcentiemen_2026,prov_vlaams_brabant,2026,126813759,,,budgeted,src_vbr_prov_mjp_2026,strong,Opcentiemen OV 126813759; rate 171.75; own taxes abolished 2026
+bud_vbr_prov_inv_period_2026_31,prov_vlaams_brabant,2026,255080070,,,budgeted,src_vbr_prov_mjp_2026,strong,Sum invest uitgaven 2026-31 255080070
+bud_vbr_prov_water_rec_period,prov_vlaams_brabant,2026,37464204,,,budgeted,src_vbr_prov_mjp_2026,strong,Openluchtzwembaden waterspeelplekken uitgaven 2026-31 37464204
+bud_vbr_prov_fiets_period,prov_vlaams_brabant,2026,66300000,,,budgeted,src_vbr_prov_mjp_2026,strong,Fietssnelwegen/fietsGEN actieplan uitgaven 2026-31 66300000
+bud_vbr_prov_fiets_2026,prov_vlaams_brabant,2026,11550000,,,budgeted,src_vbr_prov_mjp_2026,strong,Fietsinfrastructuur uitgaven 2026 11550000
+bud_vbr_prov_water_2026,prov_vlaams_brabant,2026,3294732,,,budgeted,src_vbr_prov_mjp_2026,strong,Waterrecreatie openluchtzwembaden uitgaven 2026 3294732
+bud_vbr_prov_gds_2026,prov_vlaams_brabant,2026,32713482,,,budgeted,src_vbr_prov_mjp_2026,strong,Goederen en diensten 2026 32713482
