@@ -62,3 +62,4 @@ tx_eiwt_rd_cluster_2024,EIWT: R&D researcher exemptions cluster,federal,2024,160
 
 
 
+tx_fps_inventory_recheck_20260727,FPS federal tax expenditure inventory recheck (no new year sheets),federal,2026,0,multi,src_fps_taxex_xlsx_recheck_20260727,strong,0,"Tick105: re-downloaded inventory-of-federal-tax-expenditures.xlsx MD5 identical to 2026-07-19 copy; top20 and EIWT/EXC series unchanged; amount 0 = no delta"

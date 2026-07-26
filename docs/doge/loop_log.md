@@ -828,3 +828,15 @@ Append-only. Each tick adds a short entry.
 - Recreated durable scheduler every **15 minutes**: **019fa06d7ee0** (replaces cancelled 019f7c315adb).
 - Still at ticks_completed=104, last_unit=rq_104. Next queue head: **rq_105** or **rq_089**.
 
+
+### 2026-07-27T00:20:00Z — tick 105
+- Unit: **rq_105** (Federal/Flanders L5 recheck — FPS TE + VLAIO)
+- Found:
+  - **FPS taxex inventory XLSX re-download**: size 123619 bytes; MD5 `cb04adbe94e0fd27e25a511c100878be` **identical** to tick4 copy — **no new year sheets**. Existing tax_expenditures top20 still valid.
+  - **VLAIO.be** still Akamai-blocked for agents; used primary **Speurgids 2025** (Departement WEWIS, Mar 2026, BO2025 vastlegging) instead.
+  - Speurgids Table 1 (strong): EWI broad **€5,289.65m**; economisch beleid **€619.32m** (via FIO/VLAIO); wetenschap+innovatie **€4,669.33m** of which FIO/VLAIO WIB **€437.03m**.
+  - Table 36 FIO Innovatie: **bedrijfssteun O&O €210.90m**; clusters **€82.55m**; Moonshot **€20m**.
+  - Table 11/13 L5 instruments: **Kmo-portefeuille 2024 outturn €42.716m** (province split); BO2025 **€40m**; Kmo-groei outturn **€11.869m**; STS 2024 **€12.216m** (line zeroed BO2025 → Transitie en Transformatie; STS cut ~€20m); **Carbon leakage CIE BO2025 €261.59m** (largest single econ instrument); imec **€155.4m** VIB **€87.97m** Flanders Make **€54.94m**.
+- Wrote: sources (+2); programmes (+13 Speurgids lines); commitments (+6); tax_expenditures recheck row; leaderboard (+3 CIE/kmo/FIO-OO); raw speurgids2025_full.pdf + deel1_ch1.pdf; rq_105=done; ticks=105
+- FOI opened: none new (gap_vl_efro_l5 still covers project L5 opacity; Speurgids fills envelope not full beneficiary cash)
+- Next: **rq_089** SWA Q4 recheck (prio1) or spawn next public L5; human send ready FOI stack (Antwerp/Charleroi/Mons2026/Hainaut/Lux + federal)
