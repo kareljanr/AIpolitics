@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T01:40:00Z,rq_109,109,no,tick109 FFS+TE totals refreshed. Next: rq_110 kerosene/VAT gas or rq_107 SWA; human FOI stack.
+main,continuous,continuous,2026-07-27T02:00:00Z,rq_110,110,no,tick110 kerosene+VAT gas multi-year. Next: rq_111 stookolie/ag or rq_107 SWA; human FOI.

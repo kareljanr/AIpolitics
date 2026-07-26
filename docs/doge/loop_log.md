@@ -886,3 +886,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; tax_expenditures +12; commitments +2; leaderboard +3 + refresh 3 fossil rows; budgets +2; rq_109=done; spawned **rq_110**; raw FFS full+summary + taxex PDF; ticks=109
 - FOI opened: none (public inventories sufficient for this unit)
 - Next: **rq_110** kerosene/VAT gas deepen or low **rq_107** SWA
+
+### 2026-07-27T02:00:00Z — tick 110
+- Unit: **rq_110** (Kerosene aviation + VAT gas HH multi-year / reform notes)
+- Found (strong FFS 2026 primary):
+  - **Aviation kerosene** (Table 20, ETD min €330/1000l): **2019–24 €677.0 / 471.8 / 594.2 / 687.7 / 689.5 / 754.6 m** — rising post-COVID; sum **€3.875bn**. FFS eval: unjustified economically and environmentally; unilateral national tax weak; EU ETD proposal higher rate after 10y transition still blocked; coalition 2025–29 cites Chicago Convention revision.
+  - **VAT gas households 6%**: **2021–24 €0 / 610.1 / 694.3 / 635.2 m**; electricity HH fossil-share **0 / 277.1 / 285.6 / 226.9 m**. Crisis cut made permanent class.
+  - **VAT air tickets** (indirect): **87.5 / 180.4 / 208.8 / 224.5 m** 2021–24; stacks on kerosene.
+  - **Boarding tax** (separate instrument, not kerosene): budget/programme law path €5→€10 from 2027 class; later press scaled to €7 — **medium secondary**, not FFS inventory.
+- Wrote: sources +3; tax_expenditures multi-year series (kerosene 6y + VAT gas/elec/tickets); commitments +3; leaderboard refresh kerosene +2 seeds; rq_110=done; spawned **rq_111**; ticks=110
+- FOI opened: none
+- Next: **rq_111** stookolie/agriculture FFS or low **rq_107** SWA
