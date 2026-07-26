@@ -875,3 +875,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; programmes +5; commitments +6 L5; leaderboard +3; **FOI gap_vl_fio_project_l5 ready**; rq_108=done; spawned rq_109; raw PQs; ticks=108
 - FOI opened: **gap_vl_fio_project_l5** → ready (human send; complements gap_vl_cie_l5)
 - Next: **rq_109** federal TE/FFS recheck or **rq_107** SWA year-end (low)
+
+### 2026-07-27T01:40:00Z — tick 109
+- Unit: **rq_109** (FPS FFS / taxex inventory micro-update)
+- Found (strong primary Jul 2026 editions):
+  - **FFS 5th inventory** (FPS Finance+Health, data cut 1 Jan 2026, pub Jul 2026): **direct fossil subsidies 2024 €10,781.9m** (1.7% GDP); path 12.09 / 13.45 / 11.66 / 10.78 bn 2021–24. Confirms prior EN summary: company cars EHS **€3,141.7m**; fuel cards **€661.6m**; pro diesel FFS **€831.2m**; aviation kerosene **€754.6m**; VAT reduced gas HH **€635.2m**; agriculture intermediate **€378.5m**. International air+sea **€1,006.5m**. Broad sum direct+intl+indirect+EHS ≈ **€15.15bn** (press “15bn” class).
+  - **Inventory of Federal Tax Expenditures (2024)** PDF: quantified total **2023 €39,402.01m** (6.74% GDP); path 28.9→39.4 bn 2018–23 (+6.37%/yr avg). By tax 2023: VAT **16.20bn**; PIT federal **9.67bn**; EIWT **4.42bn**; CIT **3.81bn**; excise **2.44bn**. Social objective **42.4%** of quantified.
+  - Taxex XLSX recheck already identical earlier; this PDF adds **official global aggregates** not fully seeded before.
+  - Method note (strong): FFS ≠ cash budget gain if abolished; TE inventory ≠ ESA spending; do not double-count FFS into TE total.
+- Wrote: sources +3; tax_expenditures +12; commitments +2; leaderboard +3 + refresh 3 fossil rows; budgets +2; rq_109=done; spawned **rq_110**; raw FFS full+summary + taxex PDF; ticks=109
+- FOI opened: none (public inventories sufficient for this unit)
+- Next: **rq_110** kerosene/VAT gas deepen or low **rq_107** SWA

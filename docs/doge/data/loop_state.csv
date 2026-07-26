@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T01:20:00Z,rq_108,108,no,tick108 VLAIO innovatiesteun L5 sample; FOI bulk ready. Next: rq_109 or rq_107; human FOI CIE+FIO.
+main,continuous,continuous,2026-07-27T01:40:00Z,rq_109,109,no,tick109 FFS+TE totals refreshed. Next: rq_110 kerosene/VAT gas or rq_107 SWA; human FOI stack.

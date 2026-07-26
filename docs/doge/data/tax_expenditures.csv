@@ -63,3 +63,15 @@ tx_eiwt_rd_cluster_2024,EIWT: R&D researcher exemptions cluster,federal,2024,160
 
 
 tx_fps_inventory_recheck_20260727,FPS federal tax expenditure inventory recheck (no new year sheets),federal,2026,0,multi,src_fps_taxex_xlsx_recheck_20260727,strong,0,"Tick105: re-downloaded inventory-of-federal-tax-expenditures.xlsx MD5 identical to 2026-07-19 copy; top20 and EIWT/EXC series unchanged; amount 0 = no delta"
+tx_fed_total_2023,Federal tax expenditures total quantified (inventory),federal,2023,39402010000,multi,src_fps_taxex_inventory_2026_pdf,strong,6,"Table1: 39402.01 mEUR 2023; 6.74pct GDP; avg annual growth 6.37pct 2018-23; NOT cash spending"
+tx_fed_total_2022,Federal tax expenditures total quantified,federal,2022,36914740000,multi,src_fps_taxex_inventory_2026_pdf,strong,6,"Table1: 36914.74 mEUR 2022"
+tx_vat_package_2023,VAT tax expenditures aggregate,federal,2023,16198200000,VAT,src_fps_taxex_inventory_2026_pdf,strong,5,"Table1: 16198.20 mEUR; 43.3pct of VAT yield; largest tax class"
+tx_pit_fed_package_2023,PIT federal tax expenditures aggregate,federal,2023,9671010000,PIT,src_fps_taxex_inventory_2026_pdf,strong,4,"Table1: 9671.01 mEUR federal PIT measures"
+tx_eiwt_package_2023,EIWT earned income withholding tax expenditures aggregate,federal,2023,4415480000,EIWT,src_fps_taxex_inventory_2026_pdf,strong,6,"Table1: 4415.48 mEUR 2023; path up from 3175m 2018; aligns with EIWT 4.356bn 2024 xlsx sum"
+tx_cit_package_2023,CIT tax expenditures aggregate,federal,2023,3809420000,CIT,src_fps_taxex_inventory_2026_pdf,strong,4,"Table1: 3809.42 mEUR 2023"
+tx_exc_package_2023,Excise tax expenditures aggregate (inventory method),federal,2023,2440760000,EXC,src_fps_taxex_inventory_2026_pdf,strong,7,"Table1: 2440.76 mEUR; product-specific benchmark differs from FFS gasoline-toe method"
+tx_ffs_direct_2024,Direct fossil fuel subsidies total FFS benchmark1,federal,2024,10781900000,multi,src_fps_ffs_2026_summary_nl,strong,8,"Table3: 10781.9 mEUR 1.7pct GDP; path 12092.8/13445.9/11661.9/10781.9 2021-24"
+tx_ffs_kerosene_air_2024,Excise exemption kerosene international aviation FFS,federal,2024,754600000,EXC,src_fps_ffs_2026_summary_nl,strong,8,"Table3: 754.6 mEUR 2024 rising path; international aviation"
+tx_ffs_vat_gas_hh_2024,VAT reduced rate gas households FFS,federal,2024,635200000,VAT,src_fps_ffs_2026_summary_nl,strong,6,"Table3: 635.2 mEUR 2024 permanent crisis-era reduced rate"
+tx_ffs_agriculture_exc_2024,Agriculture intermediate consumption excise FFS,federal,2024,378500000,EXC,src_fps_ffs_2026_summary_nl,strong,7,"Table3 intermediate: land/garden/fish/forestry 378.5 mEUR 2024"
+tx_ffs_package_broad_2024,FFS broad package direct+intl+indirect+company_cars EHS,federal,2024,15154700000,multi,src_fps_ffs_2026_summary_nl,strong,8,"Sum 10781.9+1006.5+224.5+3141.7=15154.6 mEUR ~press 15bn class; do not double-count with pure TE inventory"
