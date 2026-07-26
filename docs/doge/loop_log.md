@@ -897,3 +897,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; tax_expenditures multi-year series (kerosene 6y + VAT gas/elec/tickets); commitments +3; leaderboard refresh kerosene +2 seeds; rq_110=done; spawned **rq_111**; ticks=110
 - FOI opened: none
 - Next: **rq_111** stookolie/agriculture FFS or low **rq_107** SWA
+
+### 2026-07-27T02:20:00Z — tick 111
+- Unit: **rq_111** (Stookolie / agriculture intermediate FFS multi-year)
+- Found (strong FFS 2026 Tables 16+19):
+  - **Huisbrandolie total** (bench1): **2019–24 €2,129.8 / 2,263.3 / 2,096.5 / 1,856.8 / 1,798.2 / 1,836.4 m**. 2024 split low-S **€1,526.7m** + high-S **€309.7m**. Long-run volume −3.7%/yr. FFS eval: **not justified environmentally or socially** (heating oil users not concentrated in lowest income quartile; 87% homeowners in HBS).
+  - Taxex inventory product-specific line (~**€1,333m** prior seed) remains separate method — FFS gasoline-TOE higher.
+  - **Agriculture intermediate** total: **2020–24 €548.9 / 562.6 / 629.9 / 442.8 / 378.5 m** (mostly product rate diffs, not pure exemption).
+  - **Sociaal Verwarmingsfonds** cash: **€12.6m** 2024 / **70,112** households — targeted contrast to €1.8bn untargeted excise preference.
+  - Binnenvaart **€84.3m** / bagger **€24.7m** 2024 intermediate package.
+- Wrote: sources +2; taxex multi-year stookolie+ag; commitments +3; leaderboard refresh heatoil + ag seed; rq_111=done; spawned **rq_112**; ticks=111
+- FOI opened: none
+- Next: **rq_112** industrial reduced gas rate (€903m) or low **rq_107** SWA

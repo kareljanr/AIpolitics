@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T02:00:00Z,rq_110,110,no,tick110 kerosene+VAT gas multi-year. Next: rq_111 stookolie/ag or rq_107 SWA; human FOI.
+main,continuous,continuous,2026-07-27T02:20:00Z,rq_111,111,no,tick111 stookolie+ag FFS. Next: rq_112 industrial gas or rq_107 SWA; human FOI stack.
