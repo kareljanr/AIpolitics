@@ -28,3 +28,6 @@ sg2025_imec,vlaanderen_gov,,IMEC,Subsidie imec vzw BO2025,,2025,155400000,src_sp
 sg2025_vib,vlaanderen_gov,,VIB,Subsidie VIB BO2025,,2025,87970000,src_speurgids_2025,strong,Vlaanderen>WEWIS>VIB,"Table 36: 87.97 mEUR"
 sg2025_vito,vlaanderen_gov,,VITO,Dotatie VITO + referentietaken BO2025,,2025,73300000,src_speurgids_2025,strong,Vlaanderen>WEWIS>VITO,"Table 36: 64.95+8.35=73.30 mEUR excl invest"
 sg2025_flanders_make,vlaanderen_gov,,FL_MAKE,Subsidie Flanders Make BO2025,,2025,54940000,src_speurgids_2025,strong,Vlaanderen>WEWIS>Flanders_Make,"Table 36: 54.94 mEUR"
+cie_fio_vek_2024,vlaio,,CIE,Compensatie indirecte emissiekosten FIO VEK 2024,,2024,250234000,src_vl_bo2026_ewi_tech_icl,strong,Vlaanderen>VLAIO>CIE,"Tech vragen BO2026: FIO-uitgaven 250.234 mEUR VEK 2024"
+cie_fio_vek_2025,vlaio,,CIE,Compensatie indirecte emissiekosten FIO VEK 2025,,2025,261588000,src_vl_bo2026_ewi_tech_icl,strong,Vlaanderen>VLAIO>CIE,"Tech vragen: 261.588 mEUR matches Speurgids 261.59m; PQ251: 258m awarded for EY2024"
+cie_fio_vek_2026,vlaio,,CIE,Compensatie indirecte emissiekosten FIO VEK BO2026,,2026,216609000,src_vl_bo2026_ewi_tech_icl,strong,Vlaanderen>VLAIO>CIE,"Tech vragen + PQ251: 216.609 mEUR BO2026 / 216m minister answer"

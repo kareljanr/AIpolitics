@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T00:40:00Z,rq_089,106,no,tick106 SWA still no final votes; APR year-end path. Next: rq_106 CIE L5; human FOI stack ready.
+main,continuous,continuous,2026-07-27T01:00:00Z,rq_106,107,no,tick107 CIE path filled; L5 FOI ready. Next: rq_108 FIO O&O L5; human FOI incl CIE.

@@ -851,3 +851,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+src_apr_2026_bosa, recheck note); commitments **cmt_swa_econ_governance_2026** (status pending_assent; €0 not a spend envelope); rq_089=done; spawned **rq_106** CIE L5 (prio4) + **rq_107** SWA year-end recheck (prio1); raw apr_2026_bosa.pdf; ticks=106
 - FOI opened: none
 - Next: **rq_106** carbon leakage CIE L5 beneficiaries (Speurgids €261.59m); human FOI stack unchanged
+
+### 2026-07-27T01:00:00Z — tick 107
+- Unit: **rq_106** (Carbon leakage CIE L5 beneficiaries / evaluation)
+- Found (strong totals; L5 names still opaque):
+  - **FIO VEK ICL** (BO2026 tech vragen, keuro): **2024 250.234m** / **2025 261.588m** / **2026 BO 216.609m** — matches Speurgids 261.59m for 2025.
+  - **PQ 251** (Diependaele 20 Feb 2026): **€258m** toegekend in 2025 voor emissiejaar 2024; **+€40m** uitzonderingsmechanisme EY 2022–23; budget **€216m** 2026.
+  - **PQ 28** (2 Oct 2025): CIE = **grootste VLAIO-bedrijfssubsidie**; cite **€229m in 2024**; investeringsplicht-controles nog niet gestart (tot 2028 voor EY2021); **14 bedrijven** missen product-elektriciteitsbenchmark (50% herinvestering); terugvorderingen **€19.898.396** (2020–24).
+  - Tech vragen: raming **~40 bedrijven** 2026; 75% standaard; **geen publieke naam+EUR-lijst**.
+  - Steelman: EU-toegelaten carbon-leakage correctie; opacity L5 is the DOGE issue.
+- Wrote: sources +3; programmes CIE 2024–26; commitments cash path + exception cmt; leaderboard refresh; **FOI gap_vl_cie_l5_beneficiaries ready**; rq_106=blocked_foi; spawned **rq_108** FIO O&O L5; raw PQs + tech PDF; ticks=107
+- FOI opened: **gap_vl_cie_l5_beneficiaries** → ready (human send only)
+- Next: **rq_108** VLAIO FIO bedrijfssteun O&O L5 sample; human FOI stack includes CIE
