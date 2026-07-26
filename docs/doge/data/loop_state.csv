@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T02:20:00Z,rq_111,111,no,tick111 stookolie+ag FFS. Next: rq_112 industrial gas or rq_107 SWA; human FOI stack.
+main,continuous,continuous,2026-07-27T02:40:00Z,rq_112,112,no,tick112 industrial gas reduced 903m. Next: rq_113 gas product-diff or rq_107 SWA; FOI firm list ready.

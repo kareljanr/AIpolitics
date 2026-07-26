@@ -909,3 +909,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; taxex multi-year stookolie+ag; commitments +3; leaderboard refresh heatoil + ag seed; rq_111=done; spawned **rq_112**; ticks=111
 - FOI opened: none
 - Next: **rq_112** industrial reduced gas rate (€903m) or low **rq_107** SWA
+
+### 2026-07-27T02:40:00Z — tick 112
+- Unit: **rq_112** (Industrial reduced gas rate + inland waterways FFS)
+- Found (strong FFS 2026 Table16/19 + §4.3.3):
+  - **Aardgas verlaagd tarief** (EBO/sector agreements, bench1): **2019–24 €1,091 / 1,031 / 1,191 / 1,295 / 1,052 / 903 m**. Peak energy-crisis 2022; declining 2023–24.
+  - **2024**: **13.54 TWh** declared at reduced rate; **~352 firms** with permit (PQ 2019).
+  - FFS eval: sector agreements give static efficiency; reduced rate weakens dynamic price signal; dual-use + CHP full exemptions stack on top. NEKP 2025 continues refined EBO support with FFS phase-out language.
+  - **Binnenvaart** intermediate: **€84.3m** 2024 (path 84–91m).
+  - Gasolie industrial/commercial: **€365.9m** 2024 (path ~366–416m).
+- Wrote: sources +1; taxex multi-year gas reduced + gasolie + binnenvaart; commitments +2; leaderboard +2; **FOI gap_fed_gas_reduced_firms ready**; rq_112=done; spawned **rq_113**; ticks=112
+- FOI opened: **gap_fed_gas_reduced_firms** → ready (human send)
+- Next: **rq_113** aardgas product-diff €4.09bn or low **rq_107** SWA
