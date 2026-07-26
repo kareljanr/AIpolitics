@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,paused,continuous,2026-07-22T18:19:00Z,rq_104,104,yes,"PAUSED by user. Last unit rq_104. Resume: set paused=no + recreate scheduler if cancelled. FOI stack human send."
+main,continuous,continuous,2026-07-22T18:19:00Z,rq_104,104,no,"RESUMED by user 2026-07-26. Next: rq_105 FPS TE/VLAIO or rq_089 SWA; human FOI Antwerp+Charleroi+Mons2026+Hainaut+Lux."

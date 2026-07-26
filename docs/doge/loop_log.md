@@ -822,3 +822,9 @@ Append-only. Each tick adds a short entry.
 - Scheduler task `019f7c315adb` cancelled so 15m fires stop; recreate on resume with 15m interval + same prompt.
 - No research unit this entry; commit pause state only.
 
+
+### 2026-07-26T12:00:00Z -- resume (user)
+- User set `paused=no`. Mode=`continuous`.
+- Recreated durable scheduler every **15 minutes**: **019fa06d7ee0** (replaces cancelled 019f7c315adb).
+- Still at ticks_completed=104, last_unit=rq_104. Next queue head: **rq_105** or **rq_089**.
+
