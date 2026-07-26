@@ -840,3 +840,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); programmes (+13 Speurgids lines); commitments (+6); tax_expenditures recheck row; leaderboard (+3 CIE/kmo/FIO-OO); raw speurgids2025_full.pdf + deel1_ch1.pdf; rq_105=done; ticks=105
 - FOI opened: none new (gap_vl_efro_l5 still covers project L5 opacity; Speurgids fills envelope not full beneficiary cash)
 - Next: **rq_089** SWA Q4 recheck (prio1) or spawn next public L5; human send ready FOI stack (Antwerp/Charleroi/Mons2026/Hainaut/Lux + federal)
+
+### 2026-07-27T00:40:00Z — tick 106
+- Unit: **rq_089** (SWA multi-parliament final assent recheck Q4)
+- Found (strong process; negative on final votes):
+  - **No final** Kamer/Senaat / Vlaams Parlement / Wallonie / FWB / Brussels plenaire assent law/decree and **no BS/Moniteur** publication found for the Mar 2026 multi-entity economic-governance SWA (fifth dedicated recheck; search as of 2026-07-27).
+  - Process still maxes at: Overleg **27 Mar 2026** → VL gov **8 May** principal + SERV **1 Jun** filed → federal MR **13 May** avant-projet loi → WAL/FWB **1st reading** ODJs; **Brussels** still thin.
+  - New primary **APR 2026** (BOSA, **30 Apr 2026**) ch.5: reform of 2013 interfederal budget SWA; after signature, SWA + assent acts → **Raad van State** advice **by summer**; then entity **parliaments by year-end**. Matches stalled public track mid/late July.
+  - Kamer PDF 56K1569 blocked (WAF); not used as source this tick.
+- Wrote: sources (+src_apr_2026_bosa, recheck note); commitments **cmt_swa_econ_governance_2026** (status pending_assent; €0 not a spend envelope); rq_089=done; spawned **rq_106** CIE L5 (prio4) + **rq_107** SWA year-end recheck (prio1); raw apr_2026_bosa.pdf; ticks=106
+- FOI opened: none
+- Next: **rq_106** carbon leakage CIE L5 beneficiaries (Speurgids €261.59m); human FOI stack unchanged

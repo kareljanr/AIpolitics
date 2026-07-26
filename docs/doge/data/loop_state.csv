@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T00:20:00Z,rq_105,105,no,tick105 Speurgids2025 VLAIO map; FPS TE unchanged. Next: rq_089 SWA Q4 low or spawn new L5; human FOI stack still ready.
+main,continuous,continuous,2026-07-27T00:40:00Z,rq_089,106,no,tick106 SWA still no final votes; APR year-end path. Next: rq_106 CIE L5; human FOI stack ready.
