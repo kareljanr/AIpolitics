@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T01:00:00Z,rq_106,107,no,tick107 CIE path filled; L5 FOI ready. Next: rq_108 FIO O&O L5; human FOI incl CIE.
+main,continuous,continuous,2026-07-27T01:20:00Z,rq_108,108,no,tick108 VLAIO innovatiesteun L5 sample; FOI bulk ready. Next: rq_109 or rq_107; human FOI CIE+FIO.

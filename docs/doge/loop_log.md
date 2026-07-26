@@ -863,3 +863,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; programmes CIE 2024–26; commitments cash path + exception cmt; leaderboard refresh; **FOI gap_vl_cie_l5_beneficiaries ready**; rq_106=blocked_foi; spawned **rq_108** FIO O&O L5; raw PQs + tech PDF; ticks=107
 - FOI opened: **gap_vl_cie_l5_beneficiaries** → ready (human send only)
 - Next: **rq_108** VLAIO FIO bedrijfssteun O&O L5 sample; human FOI stack includes CIE
+
+### 2026-07-27T01:20:00Z — tick 108
+- Unit: **rq_108** (VLAIO FIO bedrijfssteun O&O named L5 / open data)
+- Found (strong aggregates + partial named L5; bulk list FOI):
+  - **PQ177** innovatiesteun OND+ONTW+ICON decision-year: Flanders **2025 €196.90m** (388 firms / 390 projects); multi-year path 2020–25 public; full portfolio incl ISS/Schaalklaar/haalbaarheid **€214.15m** 2025.
+  - **PQ209** ontwikkelingsprojecten only: **€443m** 2021–25 on **€1.275bn** project cost (~35% avg); 918/1093 approved 2023–25; province split ANT 110.9 / OV 132.5 / WVL 79.3 / VBR 70.3 / LIM 38.0 / other 12.0 mEUR. Individual project names **withheld for confidentiality** (Excel bijlage not in PDF).
+  - **PQ351 named L5 Woosh**: KMOGS €50k; ONTW €158.3k + €376.0k; haalbaarheid €46.2k; Schaalklaar €350k (codes public).
+  - **Speurgids 2025**: speerpuntcluster geoormerkt **€54.2m** / 38 projects 2024 (Catalisti 5.31 … Intercluster 14.2); **Moonshot €24.54m** / 10 projects; Edtech Station **€1.8m**/3y.
+  - VLAIO.be jaarverslag annex media/3057 still **403 blocked** for agent download.
+- Wrote: sources +4; programmes +5; commitments +6 L5; leaderboard +3; **FOI gap_vl_fio_project_l5 ready**; rq_108=done; spawned rq_109; raw PQs; ticks=108
+- FOI opened: **gap_vl_fio_project_l5** → ready (human send; complements gap_vl_cie_l5)
+- Next: **rq_109** federal TE/FFS recheck or **rq_107** SWA year-end (low)
