@@ -2701,3 +2701,8 @@ bud_wal_divico_nordlux_2026,wal_egalite_chances,2026,60000,,,budgeted,src_wal_ep
 bud_wal_divico_uplift_total_2026,wal_egalite_chances,2026,115000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DIVICO network extension +115k total (via 094.028 path) ExpGen/EP
 bud_wal_pluriann_094109_eng_2026,wal_egalite_chances,2026,4155000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DF 094.109 facultatives pluriannuelles eng 4155k 2026-2030 (Pole ARCA CAIPS CODEF Observatoire Volontariat Financite)
 bud_wal_pluriann_094109_liq_2026,wal_egalite_chances,2026,831000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DF 094.109 liq 831k 2026 of multi-year package
+bud_fed_mdj_dot_total_2026,gg_belgium,2026,147338161,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Federal LSF art47/10 justitiehuizen total three communities 147.338161m Kamer 56K1470
+bud_fed_mdj_dot_vl_2026,vl_justitiehuizen,2026,90571934,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Federal art47/10 VL 90.571934m (cross-check BO2026 receipt 90.357m close)
+bud_fed_mdj_dot_fwb_2026,fwb_maisons_justice,2026,55834914,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Federal art47/10 FWB 55.834914m (cross-check ExpGen 55.7m close)
+bud_fed_mdj_dot_dg_2026,dg_justizhaus,2026,931313,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Federal art47/10 DG Justizhaus 0.931313m; closes receipt side of gap_dg_justizhaus_budget
+bud_fed_mdj_dot_bru_zero_2026,brussels_gov,2026,0,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Kamer table column 0.000 for third community line (BRU not separate recipient of art47/10 justice houses)

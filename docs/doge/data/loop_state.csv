@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T12:30:00Z,rq_242,251,no,Scheduler 60s. Next prio5 rq_243; rq_116 SWA deferred. FOI ready human send. tick251 equal.brussels ~2m + WAL DIVICO named.
+main,continuous,hole_fill,2026-07-29T13:00:00Z,rq_243,252,no,Scheduler 60s. Next prio5 rq_244; rq_116 SWA deferred. FOI ready human send. tick252 MDJ fed triple 147.3m DG 0.93m.

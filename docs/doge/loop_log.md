@@ -2694,3 +2694,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities equal_brussels + pole; budgets +10; cmt +2; lb +4; FOI gap_equal_brussels_budget_l5 ready + gap_wal_egalite_l5 narrowed; drafts; rq_242=done; spawn rq_243; ticks=251
 - FOI: equal.brussels full budget + awards human send
 - Next: prio5 **rq_243**; deferred **rq_116** SWA
+
+### 2026-07-29T13:00:00Z — tick 252
+- Unit: **rq_243** (FOI-adjacent hole-fill — **federal art.47/10 MDJ triple VL/FWB/DG**)
+- Found (strong primary Kamer 56K1470 middelenbegroting table, indexed FLWB; PDF download blocked agent-side):
+  - **Total EUR 147.338161m** = **VL 90.571934m** + **FWB 55.834914m** + **DG 0.931313m** (+ BRU column 0).
+  - Cross-check: VL BO2026 receipt 90.357m; FWB ExpGen 55.7m — close class.
+  - Completes triple financing map; **DG spend still FOI** (CoA UHH silent).
+- Wrote: sources +1; entity dg notes; budgets +5; cmt +1; lb +3; FOI gap_dg_justizhaus_budget narrowed to spend; draft update; rq_243=done; spawn rq_244; ticks=252
+- FOI: DG Justizhaus spend/FTE residual human send
+- Next: prio5 **rq_244**; deferred **rq_116** SWA

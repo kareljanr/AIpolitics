@@ -86,4 +86,8 @@ Mit freundlichen Grüßen
 - [x] Konkrete Dokumente  
 - [x] Zeitraum 2024-2026  
 - [ ] Kontaktdaten Antragsteller (Mensch)  
-- [x] `foi_queue.csv` ready  
+- [x] `foi_queue.csv` ready
+
+## Update tick252 (2026-07-29)
+
+**Federal receipt filled (strong):** Kamer 56K1470 art. 47/10 DG line **EUR 931,313** (VL 90.571934m + FWB 55.834914m + DG 0.931313m = **147.338161m** total). Residual FOI = **spend + FTE** only.
