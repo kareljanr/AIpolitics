@@ -4574,3 +4574,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~65; cmt +5; lb +8; FOI **gap_entity1_functional_l5** + **gap_social_economy_50m_l5** ready; rq_390=done; spawn **rq_391 progress@400**; ticks=399
 - FOI: Entity I workbook + social economy places human send only
 - Next: **MANDATORY progress@400 rq_391**; deferred **rq_116** SWA
+
+### 2026-08-01T14:45:00Z - tick 400
+- Unit: **rq_391** (**progress milestone @400** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~97-99%** (up from ~96-99% @390) - Entity I 244.1/268.7 · SS consol 148 · fed cash fiscal 157.9 · NATO 13.1 · LPM 33.8 eng
+  - **D L5:** **~22-33%** generous (LPM named packages; chomage waves; VAT rate lines; RTW tables; residual FOI)
+  - **E FOI ready:** **~210** (answered ~5; total FOI rows ~216)
+- Inventory: budgets ~5670 · cmt ~706 · lb ~1037 · entities ~357 · sources ~729
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT mega items; **lb_taxex_fed_29_7bn** (29.7bn) just outside #11 at prio 8.05
+- Dual/off-TE map: Entity I 268.7 != ESA TE 2025; ETS blocked 1.8bn stock; IPP reform 5.6bn path; return-effects soft
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_391=done; spawn **rq_392**; ticks=400
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_392** hole-fill; deferred **rq_116** SWA
