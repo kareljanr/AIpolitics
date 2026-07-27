@@ -2457,3 +2457,31 @@ bud_bruss_help_2026,bruss_help,2026,3324000,,,budgeted,src_cocom_budget_2026_coa
 bud_cocom_oaa_sum_2026,cocom,2026,1901639000,,,budgeted,src_cocom_budget_2026_coa,strong,OAA sum Iriscare+Samusocial+BrussHelp 1901.639m not additive to SCR
 bud_cocom_samusocial_dot_scr_2026,cocom,2026,27400000,,,budgeted,src_cocom_budget_2026_coa,strong,SCR subvention fonctionnement New Samusocial 27.4m (+1.2m)
 bud_cocom_fsas_2026,cocom,2026,39626000,,,budgeted,src_cocom_budget_2026_coa,strong,Fonds special action sociale 39.626m matched by SPRB receipt
+bud_cocof_decret_rec_2026,cocof,2026,625624000,,,budgeted,src_cocof_budget_2026_coa,strong,Decret voies et moyens 625.624m: RBC 352.4 FWB 166.8 federal 94.8 divers 7.6 Actiris 3.5
+bud_cocof_decret_dep_eng_2026,cocof,2026,667610000,,,budgeted,src_cocof_budget_2026_coa,strong,Decret eng 667.610m table8
+bud_cocof_decret_dep_liq_2026,cocof,2026,677505000,,,budgeted,src_cocof_budget_2026_coa,strong,Decret liquidation 677.505m headline
+bud_cocof_regl_rec_2026,cocof,2026,16112000,,,budgeted,src_cocof_budget_2026_coa,strong,Reglement rec 16.112m (RBC culture 5.6 CF 10.1 divers 0.4)
+bud_cocof_regl_dep_liq_2026,cocof,2026,24305000,,,budgeted,src_cocof_budget_2026_coa,strong,Reglement dep liq 24.305m eng 24.232m
+bud_cocof_combined_dep_liq_2026,cocof,2026,701810000,,,budgeted,src_cocof_budget_2026_coa,strong,Decret+reglement liq sum 701.810m; not full dual with COCOM/VGC
+bud_cocof_sec_solde_2026,cocof,2026,-22708000,,,budgeted,src_cocof_budget_2026_coa,strong,SEC -22.708m after sous-util 35.758m; path 0 by 2029
+bud_cocof_solde_brut_2026,cocof,2026,-60074000,,,budgeted,src_cocof_budget_2026_coa,strong,Solde budgetaire brut decret+reglement -60.074m
+bud_cocof_phare_liq_2026,cocof,2026,210270000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 32 Phare liq 210.270m eng 210.047m ~31.5pct of decret
+bud_cocof_aide_liq_2026,cocof,2026,113898000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 22 Aide aux personnes liq 113.898m
+bud_cocof_formation_liq_2026,cocof,2026,91766000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 26 formation pro liq 91.766m incl BF dot 63.2m
+bud_cocof_sante_liq_2026,cocof,2026,56992000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 23 Sante liq 56.992m
+bud_cocof_admin_liq_2026,cocof,2026,58442000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 21 Administration liq 58.442m
+bud_cocof_enseignement_liq_2026,cocof,2026,51664000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 29 Enseignement liq 51.664m
+bud_cocof_infra_liq_2026,cocof,2026,36757000,,,budgeted,src_cocof_budget_2026_coa,strong,Mission 31 Infrastructures liq 36.757m
+bud_cocof_debt_eoy_2026,cocof,2026,203700000,,,budgeted,src_cocof_budget_2026_coa,strong,Debt stock est EOY 2026 203.7m (from 182.7m EOY25); SPABS soudure 180.3m
+bud_bruxelles_formation_2026,bruxelles_formation,2026,96200000,,,budgeted,src_cocof_budget_2026_coa,strong,Bruxelles Formation balanced 96.2m 2026; dual VDAB/Actiris
+bud_vgc_exp_uit_2025,vgc,2025,173627909,,,outturn,src_vgc_jaarrekening_2025,strong,Exploitatie uitgaven rek 173.627909m schema J2
+bud_vgc_exp_ont_2025,vgc,2025,224963076,,,outturn,src_vgc_jaarrekening_2025,strong,Exploitatie ontvangsten 224.963076m
+bud_vgc_exp_saldo_2025,vgc,2025,51335168,,,outturn,src_vgc_jaarrekening_2025,strong,Exploitatiesaldo 51.335m
+bud_vgc_op_ont_2025,vgc,2025,219418853,,,outturn,src_vgc_jaarrekening_2025,strong,Operationele ontvangsten 219.419m of which dots 171.0m (BCR 96.8 VL 50.8 fed 23.4)
+bud_vgc_werksubs_2025,vgc,2025,53883069,,,outturn,src_vgc_jaarrekening_2025,strong,Toegestane werkingssubsidies 53.883m L4 class
+bud_vgc_personeel_2025,vgc,2025,89016045,,,outturn,src_vgc_jaarrekening_2025,strong,Bezoldigingen 89.016m
+bud_vgc_inv_uit_2025,vgc,2025,99527437,,,outturn,src_vgc_jaarrekening_2025,strong,Investeringsuitgaven 99.527m incl invsubs granted 17.57m
+bud_vgc_debt_eoy_2025,vgc,2025,242125466,,,outturn,src_vgc_jaarrekening_2025,strong,Financiele schulden LT+ST class ~242.1m EOY25 (LT 230.9 + within year 11.2)
+bud_vgc_afm_2025,vgc,2025,41818619,,,outturn,src_vgc_jaarrekening_2025,strong,Autofinancieringsmarge 41.819m strong surplus
+bud_vgc_bbr_2025,vgc,2025,207790290,,,outturn,src_vgc_jaarrekening_2025,strong,Beschikbaar budgettair resultaat 207.79m before bestemde; after 107.76m
+bud_vgc_cashout_class_2025,vgc,2025,273155346,,,outturn,src_vgc_jaarrekening_2025,strong,Exp+inv uit class 173.6+99.5=273.2m same-year; not full financing

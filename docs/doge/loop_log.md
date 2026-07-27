@@ -2483,3 +2483,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entities 4; budgets 25; cmt 3; lb 4; FOI draft gap_cocom_oaa_accounts **ready**; raw PDF; rq_225=done; seeded **rq_226**.
 - FOI: gap_cocom_oaa_accounts ready human send (accounts + L5); prior Mons ASBL residual still ready.
 - Next: prio5 **rq_226** (COCOF/VGC dual or other); deferred **rq_116** SWA.
+
+### 2026-07-29T04:35:00Z - tick 235
+- Unit: **rq_226** (FOI-adjacent hole-fill - **COCOF 2026 + VGC 2025 dual to COCOM**)
+- Found (strong primary):
+  - **COCOF CoA BI2026 (31 Mar 2026):** decret rec **625.624m** / dep eng **667.610m** / liq **677.505m**; reglement rec **16.112m** / liq **24.305m**; **combined liq ~701.8m**.
+  - **SEC solde −22.708m** after sous-util **35.758m** (path 0 by 2029: −22.7/−15/−7.5/0).
+  - Missions liq: **Phare 210.270m** (~31.5%); Aide 113.9m; Formation 91.8m (BF dot **63.2m**); Admin 58.4m; Sante 57.0m; Enseignement 51.7m.
+  - **Bruxelles Formation OAA 96.2m** balanced; debt path **182.7→203.7m** EOY25-26 (SPABS soudure 180.3m).
+  - HRF net primary cap **2.88% 2026** / avg **2.97%**; CoA: expose omits net-primary series.
+  - **VGC Jaarrekening 2025 (strong):** exp uit **173.628m** / ont **224.963m** / saldo **51.335m**; op ont **219.4m** (BCR dots 96.8 + VL 50.8 + fed 23.4); **werksubs 53.883m**; personeel **89.016m**; inv uit **99.527m**; debt **~242.1m**; AFM **41.819m**.
+  - Dual stack map: COCOM SCR 2.04bn + COCOF 0.70bn + VGC exp 0.17bn class (**do not sum** — inter-dotations).
+- Wrote: sources 2; entities 4; budgets 28; cmt 3; lb 4; FOI draft gap_cocof_phare_vgc_l5 **ready**; raw PDFs; rq_226=done; seeded **rq_227**.
+- FOI: Phare named L5 + VGC top20 werksubs + COCOF net primary human send.
+- Next: prio5 **rq_227**; deferred **rq_116** SWA.
