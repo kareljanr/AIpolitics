@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T03:45:00Z,rq_369,378,no,Scheduler 60s. Next prio5 rq_370; rq_116 SWA deferred. FOI ready. tick378 Samusocial 72.4m multi-funder.
+main,continuous,hole_fill,2026-08-01T04:15:00Z,rq_370,379,no,Scheduler 60s. Next: progress@380 then rq_371; rq_116 SWA deferred. FOI ready. tick379 ONSS gestion 301m.

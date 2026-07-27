@@ -4300,3 +4300,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +17; cmt +1; lb +6; entity note; FOI **gap_samusocial_accounts_l5** ready + draft; rq_369=done; spawn **rq_370**; ticks=378
 - FOI: general accounts 2020-25 + FTE + cash codes human send only
 - Next: prio5 **rq_370**; deferred **rq_116** SWA
+
+### 2026-08-01T04:15:00Z - tick 379
+- Unit: **rq_370** (FOI-adjacent hole-fill - **ONSS/RSZ RA2025 budget de gestion L5 + financing headlines**)
+- Found (strong primary ONSS Rapport annuel 2025):
+  - **Gestion 2025 EUR 301.211m** (pers 172.571 + fonct 123.651 + invest 4.989)
+  - Personnel **57pct**; path 158.1 / 167.4 / 172.6m 2023-25
+  - **Smals** IT fonct **108.957m** + invest **1.949m** = **110.906m** (~37pct gestion)
+  - Cotisations **83.4bn** - financement alternatif **22.7bn** - subventions Etat **11.8bn**
+  - 95.89pct on-time; 251734 employers; ~4m workers; headcount ~1668
+- Wrote: sources +1; budgets +24; cmt +1; lb +6; entity note; FOI **gap_onss_mission_l5** ready + draft; rq_370=done; spawn **rq_371** (progress@380 next); ticks=379
+- FOI: mission budget branch split + FPS codes for 11.8bn/22.7bn human send only
+- Next: **mandatory progress@380** then prio5 rq_371; deferred **rq_116** SWA
