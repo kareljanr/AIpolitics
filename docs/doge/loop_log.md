@@ -1188,3 +1188,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 25; commitments 4; leaderboard 3; rq_126=done; gap_wal residual ASBL note.
 - FOI: gap_wal_l5 remains **ready** for pure ASBL top-20 (UAP/programme filled).
 - Next: prio7 **rq_127 FWB** / **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**.
+
+### 2026-07-27T18:20:00Z — tick 135
+- Unit: **rq_127** (FWB budget 2026 named culture education transfers L5)
+- Found (strong ExpGen + GW CP; medium sector savings path):
+  - Totals already mapped: dep ~15.4bn; edu ~10.9bn class; deficit **€1.6bn** 2026 ? path **€1.2bn** 2029; net structural ~**€500m** to 2029.
+  - Named: **debt cost €357m** · **DO45 Recherche €262.6m** (FNRS Loterie 7.1m; -1.5m index cut) · **WBI €42.9m** · **WBE €39.7m** · **presse quotidienne €12.9m** · **médias proximité €10m** · **sport CL €67.9m** · **FP traitements €437.6m**.
+  - **ONE**: structural +**€43m** (Cigogne/contrat) vs IT -3m + non-index actors **€7.84m**; MILAC not implemented.
+  - **Culture**: non-index **€3.7m** + moratoria non-spend **€10.2m**; Grignoux -200k of 409k; Point Culture phase-out path.
+  - **Supérieur** savings package **€14m** 2026 (minerval compensations 9m; CHU Liège capital stop 2.8m).
+  - **RTBF**: no new cut 2026 (stabilised; -700k parastatal pool only); prior ordinary ~350.8m kept.
+  - Party-linked OJ/EP/archives recognitions **end Dec 2026** (named institutes).
+- Wrote: sources 3; budgets 21; commitments 3; leaderboard 3; rq_127=done.
+- FOI: none new (culture pure ASBL top20 still thin but moratoria map + existing multi-entity FOI stack).
+- Next: prio7 **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**.

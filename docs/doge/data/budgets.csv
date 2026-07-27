@@ -944,3 +944,24 @@ bud_wal_marshall_comp_2026,wallonie_gov,2026,58000000,,,budgeted,src_wal_budget_
 bud_wal_feri_grandes_villes_2026,wallonie_gov,2026,35000000,,,budgeted,src_wal_budget_2026_cp,strong,Dotation Grandes Villes 35m within FERI reform
 bud_wal_biodiv_2026,wallonie_gov,2026,5540000,,,budgeted,src_wal_budget_2026_cp,strong,Biodiversity recurrent envelope 5.54m 2026
 bud_wal_garanties_1st_2024,wallonie_gov,2024,8822170620,,,outturn,src_wal_expgen_2026,strong,Dette garantie 1er rang stock end-2024 8.822bn (SWCS 2.94 CRAC 2.21 FLFNW 1.45 SWL 0.97 SOFICO 0.53 OTW 0.30)
+bud_fwb_debt_cost_2026,fwb_gov,2026,357000000,,,budgeted,src_fwb_expgen_2026,strong,Net debt cost 357m 2026 (interest 343m + swap net); Agence de la Dette
+bud_fwb_recherche_do45_2026,fwb_gov,2026,262646000,,,budgeted,src_fwb_expgen_2026,strong,DO45 Recherche scientifique CE 262.646m / CL 262.655m 2026
+bud_fwb_fnrs_loterie_2026,fwb_gov,2026,7100000,,,budgeted,src_fwb_expgen_2026,strong,Subvention Loterie Nationale to FRS-FNRS 7.1m (ex fonds loterie)
+bud_fwb_wbi_2026,fwb_gov,2026,42900000,,,budgeted,src_fwb_expgen_2026,strong,WBI Wallonie-Bruxelles International 42.9m 2026 (was 44.9m initial prior)
+bud_fwb_wbe_dot_2026,fwb_gov,2026,39700000,,,budgeted,src_fwb_expgen_2026,strong,Dotation Wallonie-Bruxelles Enseignement WBE 39.7m 2026
+bud_fwb_presse_quotidienne_2026,fwb_gov,2026,12900000,,,budgeted,src_fwb_expgen_2026,strong,Subvention presse écrite quotidienne ~12.9m 2026 (+213k index)
+bud_fwb_medias_proximite_2026,fwb_gov,2026,10000000,,,budgeted,src_fwb_expgen_2026,strong,Dotation medias de proximité stagée 10m 2026
+bud_fwb_sport_cl_2026,fwb_gov,2026,67941000,,,budgeted,src_fwb_expgen_2026,strong,Sport DO CL 67.941m 2026 (CE 66.276m)
+bud_fwb_eap_fwb_share_2026,fwb_gov,2026,2592000,,,budgeted,src_fwb_expgen_2026,strong,EAP FWB share 2.592m (35pct of dual RW/FWB)
+bud_fwb_fp_traitements_2026,fwb_gov,2026,437600000,,,budgeted,src_fwb_expgen_2026,strong,Fonction publique traitements AB 11.03+11.04 total 437.6m 2026
+bud_fwb_masterplan_infra_2026,fwb_gov,2026,32100000,,,budgeted,src_fwb_expgen_2026,strong,Masterplan infrastructures FWB 32.1m 2026
+bud_fwb_one_structural_2026,fwb_gov,2026,43000000,,,budgeted,src_fwb_expgen_2026,strong,ONE structural underfunding correction +43m contrat gestion / Plan Cigogne
+bud_fwb_one_nonindex_2026,fwb_gov,2026,7840000,,,budgeted,src_fwb_expgen_2026,strong,ONE non-indexation subventions acteurs 7.84m 2026 (savings)
+bud_fwb_one_it_cut_2026,fwb_gov,2026,3000000,,,budgeted,src_fwb_expgen_2026,strong,ONE dotation informatique -3m BI2026
+bud_fwb_culture_nonindex_2026,fwb_gov,2026,3700000,,,budgeted,src_fwb_expgen_2026,strong,Culture non-indexation AB 2026 economy 3.7m
+bud_fwb_culture_moratoire_2026,fwb_gov,2026,10200000,,,budgeted,src_fwb_expgen_2026,strong,Culture moratoria new recognitions non-spend estimate 10.2m 2026
+bud_fwb_grignoux_cut_2026,fwb_gov,2026,200000,,,budgeted,src_fwb_expgen_2026,strong,ASBL Les Grignoux historical extra subsidy phasing out 200k of 409k 2026
+bud_fwb_superieur_savings_2026,fwb_gov,2026,14000000,,,budgeted,src_fwb_expgen_2026,strong,Enseignement supérieur savings package 14m 2026 (minerval compensations 9m etc)
+bud_fwb_enseignant_traitements_delta_2026,fwb_gov,2026,90300000,,,budgeted,src_fwb_expgen_2026,strong,AB traitements personnel enseignant +90.3m y/y initial
+bud_fwb_fonds_ecureuil_prr_2026,fwb_gov,2026,105000000,,,budgeted,src_fwb_expgen_2026,strong,Dotation complémentaire Fonds Ecureuil +105m PRR school credits
+bud_fwb_medias_portfolio_cl_2026,fwb_gov,2026,1249525000,,,budgeted,src_fwb_expgen_2026,strong,Sports FP Simplification Médias portfolio CL 1249.525m 2026 (includes RTBF path)
