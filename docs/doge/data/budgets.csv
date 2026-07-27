@@ -4193,3 +4193,13 @@ bud_wallimage_gaming_budget_2026,wallimage,2026,2000000,,,budgeted,src_wallimage
 bud_wallimage_gaming_cumul_preprod_prod,wallimage,2024,3806274,,,outturn,src_wallimage_bilan_2024,medium,Gaming preprod+prod cumulative engagements 3.806m generating 14.500m Walloon spend (since launch to bilan 2024)
 bud_screen_flanders_annual_budget,screen_flanders,2025,3500000,,,budgeted,src_vaf_screen_flanders_page,strong,Screen Flanders annual budget 3.5m EUR from VLAIO Hermesfonds (VAF page; ongoing rate)
 bud_av_econ_dual_sf_wallimage_class_2024,wallimage,2024,14314764,,,budgeted,src_wallimage_bilan_2024,medium,Illustrative dual economic AV class Wallimage Coprod+Ent 10.815m + Screen Flanders 3.5m ~14.3m 2024 not additive TE
+bud_screen_brussels_invest_2025,screen_brussels,2025,2900000,,,budgeted,src_screen_brussels_bilan_2025,strong,"Bilan 2025: nearly 3m invest; 2.9m allocated by format (37pct LM 30 anim 30 series 3 doc); 26 projects"
+bud_screen_brussels_invest_2025_class,screen_brussels,2025,3000000,,,budgeted,src_screen_brussels_bilan_2025,strong,"Class ~3m annual invest 2025 (pres de 3 millions); use 2.9m allocated for format split precision"
+bud_screen_brussels_spend_claim_2025,screen_brussels,2025,27300000,,,outturn,src_screen_brussels_bilan_2025,medium,"Claimed expected AV spend return 27.3m 2025 (not public cash subsidy)"
+bud_screen_brussels_invest_2024,screen_brussels,2024,3000000,,,budgeted,src_screen_brussels_2024_nutshel,strong,"2024 invest 3m in 27 projects (official nutshell)"
+bud_screen_brussels_spend_claim_2024,screen_brussels,2024,34122000,,,outturn,src_screen_brussels_2024_nutshel,medium,"Claimed expected AV spend return 34.122m 2024"
+bud_screen_brussels_invest_2023,screen_brussels,2023,3000000,,,budgeted,src_screen_brussels_results_2023,strong,"2023 >3m invest in 29 projects; available budget 3.1m stated"
+bud_screen_brussels_budget_available_2023,screen_brussels,2023,3100000,,,budgeted,src_screen_brussels_results_2023,strong,"Available budget 3.1m 2023; applications 6.3m for 78 requests"
+bud_screen_brussels_spend_claim_2023,screen_brussels,2023,24000000,,,outturn,src_screen_brussels_results_2023,medium,"Claimed at least 24m direct AV expenditure 2023"
+bud_screen_brussels_session28_2025,screen_brussels,2025,960000,,,budgeted,src_screen_brussels_session28,strong,"Session 28 final 2025: 960k in 8 projects (partial year; cross-check bilan)"
+bud_av_econ_triple_class_2024,screen_brussels,2024,17314764,,,budgeted,src_screen_brussels_2024_nutshel,medium,"Illustrative triple economic AV 2024: Wallimage Coprod+Ent 10.815m + SF 3.5m + SB 3.0m ~17.3m; not additive TE"

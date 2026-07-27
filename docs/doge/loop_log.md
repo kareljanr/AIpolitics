@@ -3840,3 +3840,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities +2; budgets +15; cmt +2; lb +3; FOI gap_wallimage_sf_econ_l5 ready; rq_335=done; spawn rq_336; ticks=344
 - FOI: named awards L5 both funds + Hermes cash path ready human send
 - Next: prio5 **rq_336**; deferred **rq_116** SWA
+
+### 2026-07-31T11:15:00Z - tick 345
+- Unit: **rq_336** (FOI-adjacent hole-fill - **screen.brussels triple economic AV**)
+- Found (strong primary screen.brussels Bilan 2025 + 2024 nutshell + Results 2023 + CineRegio):
+  - **2025:** nearly **€3m** / allocated **€2.9m** in **26** projects; claimed return **€27.3m**; ratio **9.2x** (2016-2025).
+  - Format split 2025 of €2.9m: LM 37% · anim 30% · series 30% · doc 3%.
+  - **2024:** **€3.0m** in **27** projects; claimed return **€34.122m**; ratio **9.5x**.
+  - **2023:** **>€3m** / available **€3.1m** in **29** projects; claimed **≥€24m** spend; apps **€6.3m**.
+  - CineRegio: annual **€3m**; max **€500k** refundable advances; min BCR spend **€250k**.
+  - **Triple economic AV 2024-class ~€17.3m:** Wallimage Coprod+Ent ~€10.8m + Screen Flanders €3.5m + screen.brussels €3.0m (not TE-additive).
+  - Stack still separate: culture VAF ~€30.7m + CCA >€44m + federal Tax Shelter TE.
+- Wrote: sources +5; entity screen_brussels; budgets +10; cmt +1; lb +2; FOI gap_screen_brussels_l5 ready; rq_336=done; spawn rq_337; ticks=345
+- FOI: named awards L5 + BCR budget codes + recoup ready human send
+- Next: prio5 **rq_337**; deferred **rq_116** SWA

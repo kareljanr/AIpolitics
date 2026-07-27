@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:45:00Z,rq_335,344,no,Scheduler 60s. Next prio5 rq_336; rq_116 SWA deferred. FOI ready. tick344 Wallimage+SF dual econ AV.
+main,continuous,hole_fill,2026-07-31T11:15:00Z,rq_336,345,no,Scheduler 60s. Next prio5 rq_337; rq_116 SWA deferred. FOI ready. tick345 screen.brussels triple econ AV.
