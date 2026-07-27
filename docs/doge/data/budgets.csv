@@ -3984,3 +3984,13 @@ bud_proximus_capex_2024,proximus,2024,1355000000,,,outturn,src_proximus_fy2025_p
 bud_proximus_capex_2025,proximus,2025,1249000000,,,outturn,src_proximus_fy2025_press,strong,Accrued CapEx 1249m 2025
 bud_proximus_organic_fcf_2025,proximus,2025,130000000,,,outturn,src_proximus_fy2025_press,strong,Organic FCF 130m 2025 (reported FCF 480m incl asset sales)
 bud_proximus_div_per_share_2025,proximus,2025,0.60,,,outturn,src_proximus_fy2025_press,strong,Gross dividend proposed 0.60 EUR per share over 2025
+bud_bpost_opinc_2024,bpost,2024,4341300000,,,outturn,src_bnode_fy2025_press,strong,Group total operating income 4341.3m 2024
+bud_bpost_opinc_2025,bpost,2025,4482300000,,,outturn,src_bnode_fy2025_press,strong,Group total operating income 4482.3m 2025 (+3.2pct Staci full year)
+bud_bpost_adj_ebit_2024,bpost,2024,224900000,,,outturn,src_bnode_ar2025_key,strong,Adjusted EBIT 224.9m 2024
+bud_bpost_adj_ebit_2025,bpost,2025,179700000,,,outturn,src_bnode_fy2025_press,strong,Adjusted EBIT 179.7m 2025 high end of guidance (-20.1pct)
+bud_bpost_net_2025,bpost,2025,-39400000,,,outturn,src_bnode_fy2025_press,strong,Reported net loss 39.4m 2025 (one-offs 55.5m + interest Staci financing)
+bud_bpost_adj_result_2025,bpost,2025,51000000,,,outturn,src_bnode_ar2025_key,strong,Adjusted result of the year 51.0m 2025 (vs 127.8m 2024)
+bud_bpost_bu_bpost_ebit_2025,bpost,2025,67000000,,,outturn,src_bnode_fy2025_press,strong,Bpost BeNe last-mile adj EBIT 67.0m 2025 (mail -10pct parcels +2pct)
+bud_bpost_bu_paxon_ebit_2025,bpost,2025,58600000,,,outturn,src_bnode_fy2025_press,strong,Paxon 3PL adj EBIT 58.6m 2025 (Staci + Fast Track)
+bud_bpost_bu_landmark_ebit_2025,bpost,2025,85300000,,,outturn,src_bnode_fy2025_press,strong,Landmark Global adj EBIT 85.3m 2025 (+5.5m)
+bud_bpost_div_2025,bpost,2025,0,,,outturn,src_bnode_fy2025_press,strong,No dividend proposed over 2025 (net loss + policy)

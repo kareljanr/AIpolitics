@@ -3591,3 +3591,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity proximus; budgets +15; cmt +1; lb +2; FOI gap_proximus_sfpim_dividend_l5 ready; draft; rq_316=done; spawn rq_317; ticks=325
 - FOI: SFPIM dividend cash multi-year + any public co-financing residual ready human send
 - Next: prio5 **rq_317**; deferred **rq_116** SWA
+
+### 2026-07-31T01:45:00Z - tick 326
+- Unit: **rq_317** (FOI-adjacent hole-fill - **Bnode/bpost 2025 dual Proximus listed state SOE**)
+- Found (strong official Bnode press 6 Mar 2026 + AR2025 key figures):
+  - Op income **€4,341.3m ? €4,482.3m** 2024-25 (+3.2%; Staci full year).
+  - Adj EBIT **€224.9m ? €179.7m** (high end of ~180m guidance).
+  - Reported **net loss €39.4m** (one-offs €55.5m + Staci interest); adj result still **+€51.0m**.
+  - **No dividend** 2025; Belgian State via SFPIM **51.04%** (102.1m shares).
+  - BU: Bpost last-mile adj EBIT **€67.0m** (mail -10% parcels +2%); Paxon **€58.6m**; Landmark **€85.3m**.
+  - Rebrand **bpostgroup ? Bnode**; 8th management contract under negotiation; dual Proximus listed majority-state SOE.
+  - Prior SGEI **€227.8m 2024** still residual for 2025 cash FOI.
+- Wrote: sources +2; entity bpost update; budgets +10; cmt +1; lb +2; FOI gap_bpost_sgei_2025_mgmt8 ready; draft; rq_317=done; spawn rq_318; ticks=326
+- FOI: SGEI 2025 cash + 8th contract envelope ready human send (alongside prior gap_bpost_uso_split)
+- Next: prio5 **rq_318**; deferred **rq_116** SWA

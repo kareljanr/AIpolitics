@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T01:15:00Z,rq_316,325,no,Scheduler 60s. Next prio5 rq_317; rq_116 SWA deferred. FOI ready. tick325 Proximus rev 6.62bn SFPIM majority dual telecom.
+main,continuous,hole_fill,2026-07-31T01:45:00Z,rq_317,326,no,Scheduler 60s. Next prio5 rq_318; rq_116 SWA deferred. FOI ready. tick326 Bnode bpost opinc 4.48bn dual Proximus.

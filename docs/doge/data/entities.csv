@@ -47,7 +47,7 @@ stib,STIB / MIVB,STIB,Brussels public transport operator,parastatal,sec_brussels
 nmbs,NMBS / SNCB,SNCB,Belgian national passenger railway operator,parastatal,sec_federal,bi,https://www.belgiantrain.be,,,Federal PSO / openbare dienstverlening contract; annual toelage TBD FOI
 infrabel,Infrabel,Infrabel,Belgian railway infrastructure manager,parastatal,sec_federal,bi,https://infrabel.be,,,Shares rail-sector savings with NMBS
 de_lijn,De Lijn (VVM),De Lijn,Flemish public bus and tram operator,parastatal,sec_flanders,nl,https://www.delijn.be,,,Vlaamse Gewest majority; omzet 1.42bn VL tussenkomst 1.21bn 2025 JV; tick175
-bpost,bpost,bpost,Belgian postal operator,parastatal,sec_federal,bi,https://www.bpost.be,,,Federal PSO subsidies; newspaper contract phase-out
+bpost,Bnode (ex-bpostgroup) / bpost NV,Bnode (ex-bpostgroup) / bpost SA,Belgian postal+logistics group majority state SFPIM,parastatal,sec_federal,bi,https://www.bnode.com,,,Op income 4.48bn adj EBIT 179.7m net loss 39.4m 2025; State 51.04pct; rebrand Bnode; dual Proximus; SGEI prior 227.8m 2024; tick164+326
 creg,CREG,CREG,Commission for Electricity and Gas Regulation,other,sec_federal,bi,https://www.creg.be,,,Energy regulator; offshore GSC support
 maribel_funds,Fonds Sociale Maribel,Fonds Maribel social,Maribel Social Funds (multi-sector non-profit employment),parastatal,sec_ss,bi,https://www.socialsecurity.be,,,Wage subsidies for extra non-profit jobs; SS ~1.46bn 2024 NBB
 tec,OTW / TEC (Groupe TEC),Operateur de Transport de Wallonie (OTW),Walloon public transport operator (TEC),parastatal,wallonie_gov,fr,https://www.letec.be,,,CSP 2024-28 then rewrite 2026-29; regional financing ~960m 2024 Henry; company budget recettes 1.089bn 2025 Cour
