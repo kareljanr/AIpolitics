@@ -4164,3 +4164,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3; sources +1; budgets +15; cmt +1; lb +5; FOI **gap_vl_ggz_cgg_l5** ready + draft; rq_359=done; spawn **rq_360**; ticks=368
 - FOI: per-CGG + OPZ split + BO2026 human send only
 - Next: prio5 **rq_360**; deferred **rq_116** SWA
+
+### 2026-07-31T23:15:00Z - tick 369
+- Unit: **rq_360** (FOI-adjacent hole-fill - **Flanders ISE Armoedebeleid L5 + Preventie package**)
+- Found (strong primary VL BBT WVG BU2025):
+  - **ISE Armoedebeleid** BA VEK **EUR 46.547m** / BU **28.802m** (under-exec)
+    - GCF2CA BA **21.414m** / BU **20.542m**: samenlevingsopbouw 8 reg **13.755m**; verenigingen armen **4.514m**; Netwerk **0.986m**; De Link **0.797m**; Caritas **0.250m**
+    - GCF2CB BA **25.133m** / BU only **8.260m** (Gezonde Voeding op School path)
+  - **ISE Preventie** BA VEK **103.607m** / BU **80.360m**
+    - GDF2JA ramingen: vaccins **29m** · partners **19.5m** · terrein **16m** · gezondheidsmakers **9m** · uitbreiding **10m**
+- Wrote: entities +3; sources +1; budgets +26; cmt +2; lb +7; FOI **gap_vl_armoede_prev_l5** ready + draft; rq_360=done; spawn **rq_361**; ticks=369
+- FOI: named L5 + under-exec cash path human send only
+- Next: prio5 **rq_361**; deferred **rq_116** SWA
