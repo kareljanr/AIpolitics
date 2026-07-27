@@ -20,41 +20,40 @@
 
 ---
 
-## Snapshot at **tick 270** (2026-07-29)
+## Snapshot at **tick 280** (2026-07-30)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
-| **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~82–90%** (order of magnitude) | Up from ~81–89% @260: **FWO VAK ~448–470m** + **FNRS public ~254m**; **Sciensano 135.7m**; **FAVV** financing path ~174–187m class; **finance.brussels 131m** flow; **Innoviris 44.6m**; residual SS bulk + many communes + operator L5 |
-| **D. L5 named end-receivers** | **~13–21%** of TE (generous) | Innoviris full L5 2024 (n=325) + Mons ASBL sample 7.5m lift pure L5; FWO/FNRS still mostly aggregates; payroll/pensions/debt not L5-able |
-| **E. FOI-ready gaps** | **~98** drafts ready | Human send only; answered ~5; APEFE fonct partial public fill |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
+| **C. L2 entity totals** | **~84–92%** (order of magnitude) | Up from ~82–90% @270: **SS consol 139.3bn** + **pensioenen 66.8bn** + **FPD/RSZ/RVA beheer**; **Smals 579m** + **KSZ 19.8m** + health stack (Sciensano/FAVV/AFMPS/KCE/e-health/FAM); **CREG 22.4m** + **BIPT 79.8m**; residual many communes + operator L5 |
+| **D. L5 named end-receivers** | **~14–22%** of TE (generous) | Still thin: OISZ/Smals/KSZ mostly aggregates; Innoviris L5 sample remains best pure L5 lift; payroll/pensions/debt not L5-able |
+| **E. FOI-ready gaps** | **~106** drafts ready | Human send only; answered ~5 |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE — waste map, **not cash TE**.
 
-### Inventory (tick 270)
+### Inventory (tick 280)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,938 |
-| commitments.csv | ~485 |
-| leaderboard.csv | ~518 |
-| entities.csv | ~197 |
-| sources.csv | ~547 |
-| FOI ready | ~98 |
+| budgets.csv | ~3,081 |
+| commitments.csv | ~503 |
+| leaderboard.csv | ~558 |
+| entities.csv | ~216 |
+| sources.csv | ~561 |
+| FOI ready | ~106 |
 | FOI answered | ~5 |
-| FOI total rows | ~104 |
-| research_queue | ~261 (open: rq_116 deferred + post-progress hole-fill) |
+| FOI total rows | ~112 |
+| research_queue | ~272 (open: rq_116 deferred + rq_272 hole-fill) |
 
-### What improved since tick 260
+### What improved since tick 270
 
-- **Research dual filled:** FWO VL VAK **448–470m** + FNRS public subs **242–254m** (community fundamental research stack).  
-- **Holdings / investment:** finance&invest.brussels interventions **131.2m** 2024 dual PMV/WE.  
-- **Innovation dual:** Innoviris engagements **44.6m** 2024 with **full named L5** (n=325) + 2025 **43.7m** aggregate dual VLAIO.  
-- **Health science:** Sciensano annex **135.7m** 2024 / **133.2m** path 2025–29 dual FAVV control.  
-- **Food chain:** FAVV heffingen **51.9m** 2024 + BP path totals **173–187m** + savings method **1.8%/yr** on dotatie.  
-- **APEFE:** public fonctionment dots **€981k** 2025 (partial FOI close).  
-- **Mons L5:** named ASBL/RCA sample **~€7.5m** BI2025.  
+- **SS CoA map:** consolidated **€139.3 / 139.8 bn** 2024; **beheers 2.8 bn**; pensioenen multi-regime **€66.8 bn** 2024.  
+- **OISZ beheer:** FPD **287.7m**, RSZ **282.8m**, RVA **277.9m**, RSVZ **106.9m**, FEDRIS **54.2m**, HZIV **38.8m**, HVW **47.9m**; loonmatrix sample **~848m**.  
+- **Digital SS stack:** Smals omzet **€578.9m** 2025; KSZ **€19.8m** (ICT **13.4m**); eHealth institutional **15.9m** dual INAMI e-health **132.5m** (not additive).  
+- **Health federal:** AFMPS real **115.6m**; KCE RIZIV **22.5m**; FAM **26.5m** + cum indemn **101.1m**; CDZ **8.0m** + VI admin **1.38bn** 2023.  
+- **Regulators dual:** CREG lasten **22.4m** 2023 + BIPT exp **79.8m** 2024 (sector-fee financed).  
+- **HDA:** staff 13 + RRF 7m seed; annual EUR residual FOI.  
 
 ---
 
@@ -77,7 +76,8 @@
 | 240 | 100% | 100% | ~78–86% | ~10–18% | ~77 | WVG IVAs + AViQ + AF duals + COCOM/COCOF/VGC |
 | 250 | 100% | 100% | ~79–87% | ~11–19% | ~87 | AJH dual justice + equality triple + fossil off-TE + Charleroi L5 |
 | 260 | 100% | 100% | ~81–89% | ~12–20% | ~92 | Export+tourism+WBI duals; FIT/WBI FOI public closes |
-| **270** | **100%** | **100%** | **~82–90%** | **~13–21%** | **~98** | **Current** (FWO/FNRS + Sciensano/FAVV + Innoviris L5 + FIB) |
+| 270 | 100% | 100% | ~82–90% | ~13–21% | ~98 | FWO/FNRS + Sciensano/FAVV + Innoviris L5 + FIB |
+| **280** | **100%** | **100%** | **~84–92%** | **~14–22%** | **~106** | **Current** (SS CoA + Smals/KSZ + health stack + CREG/BIPT) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 

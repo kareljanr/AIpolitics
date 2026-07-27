@@ -3033,3 +3033,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities creg+bipt; budgets +19; cmt +2; lb +5; FOI gap_creg_bipt ready; draft; raw ARs; rq_271=done; elevate rq_270; spawn rq_272; ticks=279
 - FOI: CREG/BIPT multi-year human send; AGMJ residual still ready
 - Next: **MANDATORY progress rq_270 @ tick 280**; then rq_272
+
+### 2026-07-30T02:45:00Z - tick 280 (progress milestone)
+- Unit: **rq_270** (mandatory progress@280 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~84-92%** (up from ~82-90% @270) — SS CoA 139.3bn + pensions 66.8bn + OISZ beheer (FPD/RSZ/RVA) + Smals 579m + KSZ + health stack + CREG/BIPT
+  - **D L5:** **~14-22%** still thin structural; OISZ/Smals mostly aggregates
+  - **E FOI ready:** **~106** drafts (answered ~5)
+- Waste top10: **stable** cheque/fossil/company cars/EIWT (pi 8.83-8.08); dual hole-fills are core public goods not pure waste
+- Inventory: budgets ~3081 · commitments ~503 · leaderboard ~558 · entities ~216 · sources ~561 · FOI rows ~112
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_270=done; ticks=280
+- Next: prio5 **rq_272**; deferred **rq_116** SWA; human FOI send stack
