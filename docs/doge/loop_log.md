@@ -2180,3 +2180,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 5; cmt 3; lb 3; rq_203=done; seeded **rq_204**.
 - FOI: residual CAW lines + Zorgbedrijf full package + Mons BI2026 + culture partners human send.
 - Next: **tick 210 progress coverage % + waste top10** then prio5 **rq_204**; deferred **rq_116** SWA.
+
+### 2026-07-28T20:05:00Z - tick 210 — progress coverage % + waste top10
+- Unit: **progress@210** (mandatory every-10-ticks refresh; no new research unit)
+- Coverage (order-of-magnitude vs €347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~70–78%** (up from ~68–76% @200) — Fedasil 929m, MDK GIP, PZA 321m, Enabel
+  - **D L5:** **~8–15%** still thin structural — Antwerp culture sample 7.4m, CAW 2.3m, FreeClinic 0.97m
+  - **E FOI ready:** **~71** (total FOI rows ~75)
+- Inventory: budgets ~2227 · commitments ~369 · leaderboard ~337 · entities ~138 · sources ~433
+- Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? gas product ~7.98 class); new city L5 not pure-waste top
+- Wrote: `progress_every_10_ticks.md`, `doge_waste_top10_current.md`, loop_state, loop_log
+- Next: prio5 **rq_204** (Zorgbedrijf/Mons/Digipolis hole-fill); deferred **rq_116** SWA
