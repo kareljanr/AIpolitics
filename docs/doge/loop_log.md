@@ -1822,3 +1822,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 25; cmt 1; lb 1; rq_176=done; seeded **rq_177**.
 - FOI: Antwerp/Mons + other ready stack human send; Farys ov gap closed by public fill.
 - Next: prio5 **rq_177**; deferred **rq_116** SWA.
+
+### 2026-07-27T11:26:51Z - tick 182
+- Unit: **rq_178 seed** (user flag — aircon + fridge subsidies high clown)
+- Found: **NOT previously L5-mapped** (only aggregate heat-pump/MVP). Primary portals:
+  - **Mijn Kortingsbon** 250 EUR means-tested fridge/washer/freezer; new apps stopped 2026-01-01; annual cash paid Unknown.
+  - **MVP lucht-lucht warmtepomp** 300-600 EUR (income band); dual-use AC rules; pure cooling excluded on paper; cash split vs other WP Unknown.
+- Wrote: research_queue **rq_178** prio9 open; sources 2; leaderboard **lb_vl_mijn_kortingsbon_appliances** abs 8.5 / **lb_vl_airco_mvp_luchtlucht** abs 9.0; FOI draft gap_vl_odv_mvp_cash + items 4-5 air-air + kortingsbon.
+- FOI: expanded ready letter (human send); no invent euros.
+- Next: execute **rq_178** cash hunt (VEKA/Fluvius/CoA) OR concurrent prio5 **rq_177**.

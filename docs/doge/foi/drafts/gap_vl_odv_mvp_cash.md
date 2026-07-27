@@ -2,7 +2,7 @@
 
 **gap_id:** `gap_vl_odv_mvp_cash`  
 **Status:** ready (human send only)  
-**Linked:** rq_148 · cmt_vl_res_support_2014_23 · lb_vl_gsc_support
+**Linked:** rq_148 · rq_178 · cmt_vl_res_support_2014_23 · lb_vl_gsc_support · lb_vl_mijn_kortingsbon_appliances · lb_vl_airco_mvp_luchtlucht
 
 ---
 
@@ -34,7 +34,11 @@ Op grond van het Bestuursdecreet dien ik hierbij een verzoek in tot openbaarmaki
    (VNR-figuren 5 en 7).
 3. Mijn VerbouwPremie: totale uitbetaalde premies 2023-2026, met split warmtepomp /
    isolatie / overige, en aandeel begroting vs Energiefonds vs nettarief.
-4. VEKA jaarlijkse steuntabel 2024-2025 in dezelfde structuur als Rekenhof T10 (2014-2023).
+4. Binnen warmtepomp: split lucht-lucht (airco dual-use) vs lucht-water vs geothermisch
+   vs hybride — uitbetaalde EUR en aantal dossiers per jaar 2023-2026.
+5. Mijn Kortingsbon / Fluvius witgoedbon 250 EUR: uitbetaalde EUR en aantal bonnen
+   2021-2025, split koelkast / wasmachine / diepvriezer / droogkast (indien nog).
+6. VEKA jaarlijkse steuntabel 2024-2025 in dezelfde structuur als Rekenhof T10 (2014-2023).
 
 Periode: 2021-01-01 tot meest recente stand.
 
