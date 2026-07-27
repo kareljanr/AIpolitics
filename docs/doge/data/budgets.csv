@@ -4867,3 +4867,41 @@ bud_riziv_gfb_salaries_2025,riziv_care,2025,27275397000,,,,budgeted,src_inami_ob
 bud_riziv_gfb_selfemp_2025,riziv_care,2025,2671742000,,,,budgeted,src_inami_objectifs_partiels_2025,strong,"Globaal beheer self-employed 2671.742m"
 bud_riziv_gfb_alt_salaries_2025,riziv_care,2025,7318632000,,,,budgeted,src_inami_objectifs_partiels_2025,strong,"Globaal beheer alt finance salaries 7318.632m"
 bud_riziv_gfb_alt_self_2025,riziv_care,2025,716891000,,,,budgeted,src_inami_objectifs_partiels_2025,strong,"Globaal beheer alt finance self-employed 716.891m"
+bud_pension_legal_total_2019,fpd,2019,48292082943,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 48.292bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_legal_total_2020,fpd,2020,50053777862,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 50.054bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_legal_total_2021,fpd,2021,51763305375,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 51.763bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_legal_total_2022,fpd,2022,57405837331,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 57.406bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_legal_total_2023,fpd,2023,62783328907,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 62.783bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_legal_total_2024,fpd,2024,66475420983,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 66.475bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_legal_total_2025,fpd,2025,69047091066,,,outturn,src_pensionstat_depenses_2025,strong,PensionStat depenses annuelles 3 regimes sum EUR 69.047bn; rights-based legal pensions (not Ethias/IGO full package)
+bud_pension_sal_2024,fpd,2024,38370440000,,,outturn,src_pensionstat_depenses_2025,strong,Salaries/werknemers legal pensions 38370.4m PensionStat
+bud_pension_fonct_2024,fpd,2024,22517466000,,,outturn,src_pensionstat_depenses_2025,strong,Fonctionnaires/ambtenaren legal pensions 22517.5m PensionStat
+bud_pension_ind_2024,fpd,2024,5587515000,,,outturn,src_pensionstat_depenses_2025,strong,Independants/zelfstandigen legal pensions 5587.5m PensionStat
+bud_pension_sal_2025,fpd,2025,39880868000,,,outturn,src_pensionstat_depenses_2025,strong,Salaries/werknemers legal pensions 39880.9m PensionStat
+bud_pension_fonct_2025,fpd,2025,23428508000,,,outturn,src_pensionstat_depenses_2025,strong,Fonctionnaires/ambtenaren legal pensions 23428.5m PensionStat
+bud_pension_ind_2025,fpd,2025,5737715000,,,outturn,src_pensionstat_depenses_2025,strong,Independants/zelfstandigen legal pensions 5737.7m PensionStat
+bud_pension_retraite_2024,fpd,2024,57985249000,,,outturn,src_pensionstat_depenses_2025,strong,Retirement pensions all regimes 57985.2m PensionStat
+bud_pension_survie_2024,fpd,2024,8490172000,,,outturn,src_pensionstat_depenses_2025,strong,Survivor + transition pensions all regimes 8490.2m PensionStat
+bud_pension_retraite_2025,fpd,2025,60519012000,,,outturn,src_pensionstat_depenses_2025,strong,Retirement pensions all regimes 60519.0m PensionStat
+bud_pension_survie_2025,fpd,2025,8528079000,,,outturn,src_pensionstat_depenses_2025,strong,Survivor + transition pensions all regimes 8528.1m PensionStat
+bud_pension_l5_sal_retraite_2025,fpd,2025,34046283000,,,outturn,src_pensionstat_depenses_2025,strong,Pension de retraite salarie 34046.3m
+bud_pension_l5_fonct_retraite_2025,fpd,2025,21444264000,,,outturn,src_pensionstat_depenses_2025,strong,Pension de retraite fonctionnaire 21444.3m
+bud_pension_l5_sal_survie_2025,fpd,2025,5410607000,,,outturn,src_pensionstat_depenses_2025,strong,Pension de survie salarie 5410.6m
+bud_pension_l5_ind_retraite_2025,fpd,2025,4485835000,,,outturn,src_pensionstat_depenses_2025,strong,Pension de retraite independant 4485.8m
+bud_pension_l5_fonct_survie_2025,fpd,2025,1977215000,,,outturn,src_pensionstat_depenses_2025,strong,Pension de survie fonctionnaire 1977.2m
+bud_pension_l5_ind_survie_2025,fpd,2025,1039566000,,,outturn,src_pensionstat_depenses_2025,strong,Pension de survie independant 1039.6m
+bud_pension_l5_autres_2025,fpd,2025,580014000,,,outturn,src_pensionstat_depenses_2025,strong,Autres prestations 580.0m
+bud_pension_l5_alloc_trans_sal_2025,fpd,2025,49375000,,,outturn,src_pensionstat_depenses_2025,strong,Allocation de transition salarie 49.4m
+bud_pension_min_beneficiary_spend_2024,fpd,2024,20292733000,,,outturn,src_pensionstat_depenses_2025,strong,Total pension spend for min-pension beneficiaries 20292.7m (sheet PensionsMin_depenses; subset not additive to total)
+bud_pension_min_beneficiary_spend_2025,fpd,2025,20751917000,,,outturn,src_pensionstat_depenses_2025,strong,Total pension spend for min-pension beneficiaries 20751.9m (sheet PensionsMin_depenses; subset not additive to total)
+bud_fpd_paid_pensions_2024,fpd,2024,68244925000,,,outturn,src_fpd_jv2024_kerncijfers,strong,FPD JV2024 paid rust+overleving 68.245bn to >2.6m pensioners (method differs from PensionStat 66.475bn)
+bud_fpd_paid_wn_2024,fpd,2024,40200140000,,,outturn,src_fpd_jv2024_kerncijfers,strong,Werknemers 40.200bn JV2024
+bud_fpd_paid_ambt_2024,fpd,2024,22451291000,,,outturn,src_fpd_jv2024_kerncijfers,strong,Ambtenaren 22.451bn JV2024
+bud_fpd_paid_zs_2024,fpd,2024,5593494000,,,outturn,src_fpd_jv2024_kerncijfers,strong,Zelfstandigen 5.593bn JV2024 (RSVZ berekent/toekent; FPD betaalt)
+bud_fpd_budgetary_package_2024,fpd,2024,69400000000,,,outturn,src_fpd_jv2024_kerncijfers,strong,Totale budgettaire uitgave 69.4bn = 68.2 paid + Ethias municipal/prov + IGO + AO/oorlogsrenten residual FOI split
+bud_fpd_staff_headcount_2024,fpd,2024,2165,,,outturn,src_fpd_jv2024_kerncijfers,strong,Headcount 2165 EOY 2024 (not EUR; count unit) — 2013.75 FTE; NL 1040 FR 1125; women 1381 men 847
+bud_fpd_staff_fte_2024,fpd,2024,2014,,,outturn,src_fpd_jv2024_kerncijfers,strong,FTE 2013.75 rounded 2014 (count unit not EUR)
+bud_fpd_smals_staff_2024,fpd,2024,174,,,outturn,src_fpd_jv2024_kerncijfers,strong,Smals staff seconded 174 (count unit); dual ONSS/RVA Smals path
+bud_fpd_min_pension_beneficiaries_2024,fpd,2024,997562,,,outturn,src_fpd_jv2024_kerncijfers,strong,997562 pensioners on minimum (Jan2024 / 2023 figures class) = 41pct of cohort (count unit)
+bud_fpd_pension_rights_count_2024,fpd,2024,4300000,,,outturn,src_fpd_jv2024_kerncijfers,medium,4.3m pension rights paid to 2.62m persons (mixed careers dual rights; count unit)
+bud_pension_cadastre_y_2025,fpd,2025,2097295000,,,outturn,src_pensionstat_depenses_2025,strong,Cadastre=Y share 2097.3m 2025 (Fonct 1785.2 + Sal 312.0 + Ind 0.07) residual class vs core N

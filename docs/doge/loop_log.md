@@ -4375,3 +4375,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +48; cmt +1; lb +9; FOI gap_riziv note residual narrowed; rq_375=done; spawn **rq_376**; ticks=384
 - FOI: mid-year delivery + landsbond split still human send (partial objectifs largely public-filled)
 - Next: prio5 **rq_376**; deferred **rq_116** SWA
+
+### 2026-08-01T07:15:00Z - tick 385
+- Unit: **rq_376** (FOI-adjacent hole-fill - **FPD/SFP legal pensions L5 PensionStat + JV2024**)
+- Found (strong primary PensionStat XLSX + FPD jaarverslag 2024):
+  - Legal pensions **EUR 69,047.1m 2025** / **66,475.4m 2024** (path 48.3->69.0bn 2019-25)
+  - **Sal 39,880.9** · **Fonct 23,428.5** · **Ind 5,737.7** m (2025)
+  - Retraite **60,519.0** · Survie **8,528.1** m; min-benef spend **20,751.9** m
+  - FPD paid **68,244.9m 2024** (WN 40.2 / Ambt 22.45 / ZS 5.59); package **69.4bn**
+  - Staff **2,165** HC / **2,013.75 FTE** / Smals **174**; min pensioners **997,562** (41pct)
+- Wrote: sources +2; budgets +38; cmt +1; lb +7; entity note; FOI **gap_fpd_beheer_igo_l5** ready + draft; rq_376=done; spawn **rq_377**; ticks=385
+- FOI: beheer 2024-25 + IGO + Ethias/rents inside 69.4bn human send only
+- Next: prio5 **rq_377**; deferred **rq_116** SWA
