@@ -2285,3 +2285,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 12; cmt 2; lb 3; entities 2; foi note; rq_211=done; seeded **rq_212**.
 - FOI: dual VL Integratie residual + Digipolis 2026 personnel + Mons BI2026 human send.
 - Next: prio5 **rq_212**; deferred **rq_116** SWA.
+
+### 2026-07-28T23:05:00Z - tick 219
+- Unit: **rq_212** (FOI-adjacent hole-fill - culture/youth/work L5 ebesluit)
+- Found (strong ebesluit college 16 Jan 2026):
+  - **FAMEUS 2026 EUR 523k** (culture 495k + youth 28k); 6y max **1.594m** 2026-2031.
+  - **Youth**: Wereld van Rayaan **100k** 2026; YWCA Girls In The City **150k** 2026 (max 457k 2026-28).
+  - **STW package EUR 280k**: Techniekbad+ **90k** + Spoorzoeker **190k** (dual VDAB/Mtech).
+  - **Rataplan invest EUR 600k** building retrofit (agreement 2025-28; budgetperiode 2026).
+  - Culture L5 sample **8 houses EUR 7.922m** of ~35m envelope class (prior 7.40 + FAMEUS).
+  - Digipolis 2026 personnel + Mons BI2026 still residual public search negative this tick.
+- Wrote: sources 4; budgets 11; cmt 5; lb 4; foi note; rq_212=done; seeded **rq_213**.
+- FOI: residual culture partners + Digipolis personnel + Mons BI2026 human send.
+- Next: prio5 **rq_213**; **tick 220 progress coverage % + waste top10**; deferred **rq_116** SWA.

@@ -2313,3 +2313,14 @@ bud_beschut_risk_2026,city_antwerpen,2026,163924,,,budgeted,src_ebesluit_beschut
 bud_beschut_homeless_prev_2026,city_antwerpen,2026,154000,,,budgeted,src_ebesluit_beschut_wonen_2026,strong,Beschut Wonen dakloosheid preventie 0.154m 2026
 bud_antwerp_social_integration_batch_2026,city_antwerpen,2026,26795477.84,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie+Beschut locked sum 26.796m 2026
 bud_antwerp_agb_mega_stack_with_integratie_2026,city_antwerpen,2026,630993856.36,,,budgeted,src_ebesluit_integratie_2026,strong,Mega stack +Integratie+Beschut ~631.0m (prior 604.2 + 26.8)
+bud_fameus_2026_total,city_antwerpen,2026,523000,,,budgeted,src_ebesluit_fameus_2026,strong,FAMEUS 523k 2026 (culture 495k + youth 28k)
+bud_fameus_culture_2026,city_antwerpen,2026,495000,,,budgeted,src_ebesluit_fameus_2026,strong,FAMEUS culture amateur arts 495k 2026
+bud_fameus_youth_2026,city_antwerpen,2026,28000,,,budgeted,src_ebesluit_fameus_2026,strong,FAMEUS youth line 28k 2026
+bud_rayaan_2026,city_antwerpen,2026,100000,,,budgeted,src_ebesluit_jeugdwerk_2026,strong,Wereld van Rayaan disability youth leisure 100k 2026
+bud_ywca_2026,city_antwerpen,2026,150000,,,budgeted,src_ebesluit_jeugdwerk_2026,strong,YWCA Girls In The City 150k 2026
+bud_stw_package_2026,city_antwerpen,2026,280000,,,budgeted,src_ebesluit_stw_2026,strong,STW package 280k 2026 Techniekbad+90k Spoorzoeker190k
+bud_stw_techniekbad_2026,city_antwerpen,2026,90000,,,budgeted,src_ebesluit_stw_2026,strong,STW Techniekbad+ 90k 2026 dual VDAB Mtech
+bud_stw_spoorzoeker_2026,city_antwerpen,2026,190000,,,budgeted,src_ebesluit_stw_2026,strong,STW Spoorzoeker NEET youth 190k H1-2026
+bud_rataplan_invest_2026bp,city_antwerpen,2026,600000,,,budgeted,src_ebesluit_rataplan_invest_2026,strong,Rataplan invest 600k building works budgetperiode 2026
+bud_antwerp_culture_l5_sample_8houses_2026,city_antwerpen,2026,7921900,,,budgeted,src_ebesluit_fameus_2026,strong,Culture L5 sample 8 houses 7.922m (prior 7.399 + FAMEUS 0.523)
+bud_antwerp_l5_culture_youth_work_tick219,city_antwerpen,2026,1653000,,,budgeted,src_ebesluit_fameus_2026,strong,Tick219 L5 batch FAMEUS0.523+youth0.25+STW0.28+Rataplan0.6 = 1.653m
