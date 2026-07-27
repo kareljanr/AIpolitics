@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T09:05:00Z,rq_172,177,no,"Scheduler 60s. Next prio5 rq_173 hole-fill Antwerp/Mons/taxex/Farys; rq_116 SWA deferred. FOI ready human send. tick177 Aquafin 673m SPGE 418m."
+main,continuous,hole_fill,2026-07-28T09:25:00Z,rq_173,178,no,"Scheduler 60s. Next prio5 rq_174 hole-fill Farys ov/Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick178 De Watergroep omzet 838m."

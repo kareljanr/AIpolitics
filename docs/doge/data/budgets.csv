@@ -1799,3 +1799,23 @@ bud_spge_ca_2024,spge,2024,418000000,,,outturn,src_spge_ra_2024_en_bref,strong,S
 bud_spge_debt_2024,spge,2024,1581000000,,,outturn,src_spge_ra_2024_en_bref,strong,SPGE endettement 1.581bn end-2024 Moody A3
 bud_spge_assets_2024,spge,2024,3738000000,,,outturn,src_spge_ra_2024_en_bref,strong,SPGE pieds de bilan 3.738bn end-2024
 bud_spge_invest_2024,spge,2024,200000000,,,outturn,src_spge_ra_2024_en_bref,medium,SPGE investissements >200m 2024 (en bref class floor)
+bud_dwg_omzet_2024,de_watergroep,2024,838334000,,,outturn,src_dewatergroep_jv_2024,strong,Omzet statutair 838.334m 2024 (793.683m 2023)
+bud_dwg_omzet_2023,de_watergroep,2023,793683000,,,outturn,src_dewatergroep_jv_2024,strong,Omzet statutair 793.683m 2023
+bud_dwg_bedrijfsopbr_2024,de_watergroep,2024,955234000,,,outturn,src_dewatergroep_jv_2024,strong,Bedrijfsopbrengsten 955.234m 2024
+bud_dwg_bedrijfskosten_2024,de_watergroep,2024,954114000,,,outturn,src_dewatergroep_jv_2024,strong,Bedrijfskosten 954.114m 2024
+bud_dwg_op_result_2024,de_watergroep,2024,1120000,,,outturn,src_dewatergroep_jv_2024,strong,Bedrijfsresultaat 1.120m 2024
+bud_dwg_net_result_2024,de_watergroep,2024,-6678000,,,outturn,src_dewatergroep_jv_2024,strong,Verlies boekjaar -6.678m 2024 (-20.425m 2023)
+bud_dwg_ebitda_2024,de_watergroep,2024,97296000,,,outturn,src_dewatergroep_jv_2024,strong,EBITDA 97.296m 2024 (67.522m 2023)
+bud_dwg_assets_2024,de_watergroep,2024,2248376000,,,outturn,src_dewatergroep_jv_2024,strong,Totaal activa statutair 2248.376m end-2024
+bud_dwg_equity_2024,de_watergroep,2024,1255969000,,,outturn,src_dewatergroep_jv_2024,strong,Eigen vermogen 1255.969m end-2024
+bud_dwg_capital_2024,de_watergroep,2024,750765000,,,outturn,src_dewatergroep_jv_2024,strong,Kapitaal 750.765m end-2024
+bud_dwg_capital_subsidies_2024,de_watergroep,2024,97555000,,,outturn,src_dewatergroep_jv_2024,strong,Kapitaalsubsidies 97.555m end-2024
+bud_dwg_fin_debt_2024,de_watergroep,2024,711398000,,,outturn,src_dewatergroep_jv_2024,strong,Financiele schulden LT 686.898m + ST 24.5m = 711.398m
+bud_dwg_net_debt_2024,de_watergroep,2024,706086000,,,outturn,src_dewatergroep_jv_2024,strong,Nettoschuld 706.086m end-2024 (schuldgraad 7.26x EBITDA)
+bud_dwg_personnel_2024,de_watergroep,2024,159806000,,,outturn,src_dewatergroep_jv_2024,strong,Bezoldigingen sociale lasten pensioenen 159.806m 2024
+bud_dwg_services_2024,de_watergroep,2024,665872000,,,outturn,src_dewatergroep_jv_2024,strong,Diensten en diverse goederen 665.872m 2024
+bud_dwg_da_2024,de_watergroep,2024,93352000,,,outturn,src_dewatergroep_jv_2024,strong,Afschrijvingen 93.352m 2024
+bud_dwg_fin_costs_2024,de_watergroep,2024,14136000,,,outturn,src_dewatergroep_jv_2024,strong,Financiele kosten 14.136m 2024
+bud_dwg_conso_assets_2024,de_watergroep,2024,2247407000,,,outturn,src_dewatergroep_jv_2024,strong,Geconsolideerd totaal activa 2247.407m end-2024
+bud_dwg_conso_net_2024,de_watergroep,2024,-8731000,,,outturn,src_dewatergroep_jv_2024,strong,Geconsolideerd resultaat -8.731m 2024
+bud_dwg_eib_facility_class,de_watergroep,2024,350000000,,,commitment,src_dewatergroep_jv_2024,strong,EIB investeringskredietprogramma 350m (facility class not draw)

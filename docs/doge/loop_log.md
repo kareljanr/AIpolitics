@@ -1763,3 +1763,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1+update; budgets 21; cmt 2; lb 2; FOI note; rq_172=done; seeded **rq_173**.
 - FOI: residual Fluvius municipal L5 + BCR capital + SPGE OAA top-20 human send.
 - Next: prio5 **rq_173**; deferred **rq_116** SWA.
+
+### 2026-07-28T09:25:00Z — tick 178
+- Unit: **rq_173** (FOI-adjacent hole-fill — **De Watergroep JV 2024**)
+- Found (strong primary integrated annual report / statutaire jaarrekening):
+  - **Omzet EUR 838.3m 2024** (793.7m 2023) · bedrijfsopbrengsten **955.2m** · bedrijfskosten **954.1m**.
+  - **EBITDA 97.3m** · op. result **+1.1m** · **net loss -6.7m** (third consecutive loss; -20.4m 2023).
+  - Assets **2.248bn** · equity **1.256bn** · capital **750.8m** · capital subsidies **97.6m**.
+  - Fin. debt **711.4m** (LT **686.9m** + ST **24.5m**) · net debt **706.1m** · schuldgraad **7.26x** EBITDA.
+  - Personnel **159.8m** · services **665.9m** · D&A **93.4m** · FTE **1_651** · **177** municipalities.
+  - EIB investment credit facility **350m** class · drinkwater div result **-16.1m** · afvalwater **+9.5m**.
+  - Dual water map: **De Watergroep VL** (+ Farys/Pidpa/water-link residual) + **SWDE WAL** + **Vivaqua BCR**.
+- Note: public Farys files found only Creat Services DV (omzet 70–89m service co), not Farys ov full utility accounts — residual for next tick.
+- Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; rq_173=done; seeded **rq_174**.
+- FOI: residual Fluvius munis + BCR capital + SPGE OAA + Farys ov if still opaque; human send.
+- Next: prio5 **rq_174**; deferred **rq_116** SWA.
