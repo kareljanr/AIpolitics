@@ -3305,3 +3305,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities +3; budgets +pack; cmt +3; lb +3; FOI gap_consumer_adr_outturn ready low prio; draft; rq_293=done; spawn rq_294; ticks=302
 - Note: FPS Economy Kamer 55K2933 largely mined — next prefer new primary PDFs
 - Next: prio5 **rq_294**; deferred **rq_116** SWA
+
+### 2026-07-30T14:15:00Z - tick 303
+- Unit: **rq_294** (FOI-adjacent hole-fill - **Kansspelcommissie KSC AR2024**)
+- Found (strong primary KSC Jaarverslag 2024):
+  - NBB play-limit checks paid **€453,878** 2024; **~€700k** est 2025 = **8.6%** of total budget → total budget class **~€8.14m** (medium derived).
+  - FTE **38.3** eoy2024 vs plan **57** (later **32.8** at publication); fee-financed by licensees.
+  - **285,783** persons raised online play limits (monthly recheck cost growth).
+  - Dual: Justice afd62 special services **55.3m** wider perimeter; FANC fee model; surendettement/EPIS.
+- Wrote: sources +1; entity kansspelcommissie; budgets +7; cmt +2; lb +3; FOI gap_ksc_accounts ready; draft; raw AR PDF; rq_294=done; spawn rq_295; ticks=303
+- FOI: full KSC P&L human send
+- Next: prio5 **rq_295**; deferred **rq_116** SWA
