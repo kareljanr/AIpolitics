@@ -3552,3 +3552,16 @@ Append-only. Each tick adds a short entry.
 - FOI: triple recon residual ready human send
 - Next: prio5 **rq_314**; deferred **rq_116** SWA
 
+
+### 2026-07-31T00:15:00Z - tick 323
+- Unit: **rq_314** (FOI-adjacent hole-fill - **skeyes 2025 statutory dual airports**)
+- Found (strong NBB/Companyweb KBO 0206.048.091):
+  - Omzet **306.1 / 309.6 / 335.2 / 352.9m** 2022-25 (+5.3pct 2025).
+  - Net **18.8 / 9.1 / 15.8 / 18.6m**; equity **281 → 328m**.
+  - FTE **894.5 → 966.3**.
+  - Closes 2025 full statutory residual of gap_skeyes; dual BAC/BSCA prior.
+  - Residual FOI: RP3 correction cash + unit rates multi-year + CAPEX.
+- Wrote: sources +1; entity skeyes update; budgets +12; cmt +1; lb +2; FOI gap+draft update; rq_314=done; spawn rq_315; ticks=323
+- FOI: RP3/unit-rate residual ready human send
+- Next: prio5 **rq_315**; deferred **rq_116** SWA
+

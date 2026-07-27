@@ -3940,3 +3940,15 @@ bud_astrid_equity_2025,astrid,2025,166640503,,,outturn,src_astrid_companyweb_nbb
 bud_astrid_fte_2025,astrid,2025,136,,,outturn,src_astrid_companyweb_nbb,strong,FTE 136.2 2025 (132 2024; 126.2 2023; 121.3 2022)
 bud_astrid_brutomarge_2025,astrid,2025,-25735122,,,outturn,src_astrid_companyweb_nbb,strong,Negative brutomarge -25.7m 2025 (omzet below COGS/services class; other income/subsidies residual)
 bud_astrid_wedge_ibz_vs_omzet_2025,astrid,2025,49357371,,,estimate,src_astrid_companyweb_nbb,medium,IBZ toelage 76.517m - statutory omzet 27.160m = residual 49.4m class not hitting omzet line; recon FOI
+bud_skeyes_omzet_2022,skeyes,2022,306060923,,,outturn,src_skeyes_companyweb_nbb_2025,strong,skeyes statutory omzet 306060923 EUR 2022
+bud_skeyes_omzet_2023,skeyes,2023,309568223,,,outturn,src_skeyes_companyweb_nbb_2025,strong,skeyes statutory omzet 309568223 EUR 2023
+bud_skeyes_omzet_2024_nbb,skeyes,2024,335191054,,,outturn,src_skeyes_companyweb_nbb_2025,strong,skeyes statutory omzet 335191054 EUR 2024 NBB (matches JV 335.2m)
+bud_skeyes_omzet_2025,skeyes,2025,352850957,,,outturn,src_skeyes_companyweb_nbb_2025,strong,skeyes statutory omzet 352850957 EUR 2025 (+5.3pct)
+bud_skeyes_net_2022,skeyes,2022,18840905,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Net 18840905 EUR 2022
+bud_skeyes_net_2023,skeyes,2023,9068544,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Net 9068544 EUR 2023
+bud_skeyes_net_2024_nbb,skeyes,2024,15832485,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Net 15832485 EUR 2024 NBB (JV profit 15.4m class)
+bud_skeyes_net_2025,skeyes,2025,18600526,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Net 18600526 EUR 2025 (+17.5pct)
+bud_skeyes_equity_2024_nbb,skeyes,2024,308819414,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Equity 308819414 EUR YE2024 NBB (matches prior est 308.4m)
+bud_skeyes_equity_2025,skeyes,2025,327517497,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Equity 327517497 EUR YE2025
+bud_skeyes_fte_2024,skeyes,2024,951,,,outturn,src_skeyes_companyweb_nbb_2025,strong,FTE 950.9 2024 statutory
+bud_skeyes_fte_2025,skeyes,2025,966,,,outturn,src_skeyes_companyweb_nbb_2025,strong,FTE 966.3 2025 (media headcount 1006 class different metric)

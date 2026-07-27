@@ -1,7 +1,19 @@
-# Sjabloon — verzoek openbaarheid van bestuur
+# FOI draft — gap_skeyes_bs_2025
 
-**Verzenden:** menselijke stap. Agents markeren niet `sent` zonder bevestiging.  
-Dit is **geen juridisch advies**.
+**Status:** ready (not sent) — **partial public fill tick 323**  
+**Verzenden:** menselijke stap. Agents markeren niet `sent` zonder bevestiging.
+
+### Public fill (strong NBB tick 323)
+
+| Item | 2022 | 2023 | 2024 | 2025 |
+|------|-----:|-----:|-----:|-----:|
+| Omzet | 306.1m | 309.6m | 335.2m | **352.9m** |
+| Net | 18.8m | 9.1m | 15.8m | **18.6m** |
+| Equity | 281.3m | 290.3m | 308.8m | **327.5m** |
+| FTE | 894.5 | 934.2 | 950.9 | **966.3** |
+
+Prior: en-route/terminal split 2024, COVID loan 110m, correction asset 195m (JV2024).  
+**Residual:** RP3 recovery cash series; unit rates multi-year; digital tower CAPEX; free NBB PDF.
 
 ---
 
