@@ -3463,3 +3463,16 @@ Append-only. Each tick adds a short entry.
 - FOI: client L5 + sale proceeds human send (private NV limits noted; Cipal dv primary)
 - Next: prio5 **rq_307** (HR Rail deepen dual candidate); deferred **rq_116** SWA
 
+
+### 2026-07-30T20:45:00Z - tick 316
+- Unit: **rq_307** (FOI-adjacent hole-fill - **HR Rail dual deepen via Infrabel AR2024**)
+- Found:
+  - **HR Rail** refresh (strong-medium Companyweb/NBB): omzet **2.078/2.206/2.305/2.368 bn** 2022-25; FTE **27.4k-27.8k**; net **1.57m** 2025.
+  - **Infrabel AR2024 strong:** YE FTE **9,402.1** (9,536 YE2023); avg FTE salary **8,966** 2024.
+  - **Payroll under Services** **EUR 809.61m** 2024 / **775.76m** 2023 (HR re-invoice path).
+  - Implied residual NMBS class: FTE **~18.2k**; omzet share **~1.50 bn** (medium residual).
+  - Infrabel owns **49%** HR Rail; group ~10k employees note.
+- Wrote: sources +2; entity hr_rail note; budgets +10; cmt +1; lb +3; FOI gap_hr_rail update partial; draft refresh; raw AR PDF; rq_307=done; spawn rq_308; ticks=316
+- FOI: official NMBS matrix + free NBB PDF still ready human send
+- Next: prio5 **rq_308** (NMBS FTE dual HR candidate); deferred **rq_116** SWA
+

@@ -3883,3 +3883,13 @@ bud_cipal_consol_staff_2024,cipal_schaubroeck,2024,600,,,outturn,src_cipal_csmar
 bud_cipal_dv_omzet_2024,cipal_dv,2024,3764587,,,outturn,src_cipal_csmart_jv2024,strong,Cipal dv omzet 3764587 EUR 2024; bedrijfsopbrengsten 5768910
 bud_cipal_dv_pension_prov_2024,cipal_dv,2024,31000000,,,stock,src_cipal_csmart_jv2024,strong,Pension responsabilisering provision 31m on Cipal dv balance YE2024 class
 bud_cipal_acq_rev_claim_2024,cipal_schaubroeck,2024,110000000,,,estimate,src_topicus_cipal_acq_2025,medium,Topicus acquirer claim approx 110m gross revenues 2024 (vs consol 114.4m strong)
+bud_infrabel_fte_ye_2024,infrabel,2024,9402,,,outturn,src_infrabel_ar2024_en_fte,strong,Infrabel staff YE 31/12/2024 9402.1 FTE (9536 YE2023) AR2024 key figures
+bud_infrabel_fte_ye_2023,infrabel,2023,9536,,,outturn,src_infrabel_ar2024_en_fte,strong,Infrabel staff YE 31/12/2023 9536 FTE AR2024
+bud_infrabel_fte_avg_2024,infrabel,2024,8966,,,outturn,src_infrabel_ar2024_en_fte,strong,Infrabel average FTE for salary calc 8966.13 2024 (series 9399.84/8947.67/8736.07/8864.56/8966.13 2020-24)
+bud_infrabel_payroll_services_2024,infrabel,2024,809610000,,,outturn,src_infrabel_ar2024_en_fte,strong,Payroll costs under Services and other goods 809.61m 2024 (HR Rail recharge path)
+bud_infrabel_payroll_services_2023,infrabel,2023,775760000,,,outturn,src_infrabel_ar2024_en_fte,strong,Payroll costs under Services 775.76m 2023 AR2024 income statement
+bud_hr_rail_omzet_2025_refresh,hr_rail,2025,2368227721,,,outturn,src_hr_rail_companyweb_nbb_2025_refresh,strong-medium,HR Rail omzet 2368227721 EUR 2025 NBB-derived Companyweb confirmed tick316
+bud_hr_rail_fte_2025_refresh,hr_rail,2025,27811,,,outturn,src_hr_rail_companyweb_nbb_2025_refresh,strong-medium,HR Rail FTE 27811 2025 confirmed
+bud_hr_rail_profit_2025_refresh,hr_rail,2025,1568042,,,outturn,src_hr_rail_companyweb_nbb_2025_refresh,strong-medium,HR Rail net 1568042 EUR 2025 (pass-through near-zero)
+bud_hr_rail_nmbs_fte_residual_2024,hr_rail,2024,18166,,,estimate,src_infrabel_ar2024_en_fte,medium,Implied residual FTE class 27568.5 HR - 9402 Infrabel YE ~18166 NMBS+HR-core class 2024; not official split
+bud_hr_rail_infrabel_share_omzet_2024,hr_rail,2024,809610000,,,estimate,src_infrabel_ar2024_en_fte,medium,Infrabel payroll-in-services 809.61m as proxy HR re-invoice share 2024; residual HR omzet 2305m-810m~1495m NMBS class

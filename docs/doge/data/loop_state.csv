@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T20:15:00Z,rq_306,315,no,Scheduler 60s. Next prio5 rq_307; rq_116 SWA deferred. FOI ready. tick315 Cipal Schaubroeck ~96-114m dual Digipolis.
+main,continuous,hole_fill,2026-07-30T20:45:00Z,rq_307,316,no,Scheduler 60s. Next prio5 rq_308; rq_116 SWA deferred. FOI ready. tick316 HR Rail dual Infrabel 9402 FTE + 809.6m payroll.
