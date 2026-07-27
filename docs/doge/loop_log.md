@@ -2682,3 +2682,15 @@ Append-only. Each tick adds a short entry.
 - Waste top10: **changed** — fossil 4e inventaire enters #2 (13.3bn), #4 accises 10.5bn, #6 company cars EHS 3.43bn, #7 mazout 1.86bn; cheque still #1 (8.83)
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_241=done
 - Next: prio5 **rq_242**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-29T12:30:00Z — tick 251
+- Unit: **rq_242** (FOI-adjacent hole-fill — **equal.brussels call + WAL DIVICO named L5**)
+- Found (strong/medium primary):
+  - **equal.brussels appel 2026** envelope **~EUR 2m** (FAQ; min **25k**/project; period Sep2026–Nov2027) — dual FWB/VL/WAL equality map.
+  - **WAL Pôle ressources violences ASBL ~616k/yr** (was 551k 2024); co-finance COCOF+FWB.
+  - **DIVICO named:** Liège **115k**, Namur **60k**, BW **115k** (+55), Nord-Lux **60k** (Hainaut exploratory); uplift **+115k**.
+  - DF **094.109** pluriann eng **4.155m** / liq **0.831m** (named: Pôle, ARCA, CAIPS, CODEF, Observatoire, Volontariat, Financité).
+  - Pack nouveau départ: policy only (no dedicated cash line yet).
+- Wrote: sources +2; entities equal_brussels + pole; budgets +10; cmt +2; lb +4; FOI gap_equal_brussels_budget_l5 ready + gap_wal_egalite_l5 narrowed; drafts; rq_242=done; spawn rq_243; ticks=251
+- FOI: equal.brussels full budget + awards human send
+- Next: prio5 **rq_243**; deferred **rq_116** SWA

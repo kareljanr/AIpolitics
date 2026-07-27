@@ -2691,3 +2691,13 @@ bud_charleroi_yernaux_entries_2026,city_charleroi,2026,600000,,,budgeted,src_cha
 bud_charleroi_zpl_delta_2026,city_charleroi,2026,-5600000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,Dotation ZPL -5.6m BI2026 vs BI2025 (federal sectoral interventions integrated)
 bud_charleroi_zohe_delta_2026,city_charleroi,2026,-5300000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,Dotation ZOHE -5.3m BI2026 vs BI2025 (province financing rise)
 bud_charleroi_cpas_delta_2026,city_charleroi,2026,700000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,Dotation CPAS +0.7m (+0.71pct) BI2026 vs BI2025
+bud_equal_brussels_call_2026,equal_brussels,2026,2000000,1800000,2200000,budgeted,src_equal_brussels_faq_2026,medium,Appel 2026 continuite services essentiels envelope estimee autour de 2m EUR (FAQ; may vary with decisions)
+bud_equal_brussels_min_project_2026,equal_brussels,2026,25000,,,budgeted,src_equal_brussels_faq_2026,strong,Minimum subside par projet 25000 EUR appel 2026
+bud_wal_pole_ressources_2026,wal_pole_ressources_violences,2026,616000,,,budgeted,src_wal_epco_divico_pole_2026,strong,ASBL Pole ressources violences conjugales ~616k/yr DF 094.108 (was 551k 2024); co-finance COCOF+FWB
+bud_wal_divico_liege_2026,wal_egalite_chances,2026,115000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DIVICO Liege 115k 2026 unchanged
+bud_wal_divico_namur_2026,wal_egalite_chances,2026,60000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DIVICO Namur 60k 2026 unchanged
+bud_wal_divico_bw_2026,wal_egalite_chances,2026,115000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DIVICO Brabant wallon 115k 2026 (+55k to match territorial extension)
+bud_wal_divico_nordlux_2026,wal_egalite_chances,2026,60000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DIVICO Nord-Lux launch 2026 60k
+bud_wal_divico_uplift_total_2026,wal_egalite_chances,2026,115000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DIVICO network extension +115k total (via 094.028 path) ExpGen/EP
+bud_wal_pluriann_094109_eng_2026,wal_egalite_chances,2026,4155000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DF 094.109 facultatives pluriannuelles eng 4155k 2026-2030 (Pole ARCA CAIPS CODEF Observatoire Volontariat Financite)
+bud_wal_pluriann_094109_liq_2026,wal_egalite_chances,2026,831000,,,budgeted,src_wal_epco_divico_pole_2026,strong,DF 094.109 liq 831k 2026 of multi-year package

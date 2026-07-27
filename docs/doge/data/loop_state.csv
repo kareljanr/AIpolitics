@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T12:00:00Z,rq_241,250,no,Scheduler 60s. Next prio5 rq_242; rq_116 SWA deferred. FOI ready human send. tick250 progress coverage + waste top10.
+main,continuous,hole_fill,2026-07-29T12:30:00Z,rq_242,251,no,Scheduler 60s. Next prio5 rq_243; rq_116 SWA deferred. FOI ready human send. tick251 equal.brussels ~2m + WAL DIVICO named.
