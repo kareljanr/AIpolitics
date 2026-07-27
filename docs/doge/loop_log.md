@@ -954,3 +954,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: leaderboard.csv sorted; leaderboard_top15.md; rq_115=done; ticks=115
 - FOI opened: none
 - Next: low **rq_107** SWA recheck or human FOI stack (many ready); public open queue thin
+
+### 2026-07-27T03:50:00Z — tick 116
+- Unit: **rq_107** (SWA multi-parliament final assent recheck — sixth)
+- Found (strong process; **still no final votes** as of **2026-07-27**):
+  - **Rekenhof Kamer 56K1469/002** (BA2026 comments): SWA Overleg **25/27 Mar 2026** improves entity-level net-primary paths + fallback; EC positive; **\"moet evenwel nog ter goedkeuring worden voorgelegd aan de diverse parlementen\"** — still not multi-parliament approved.
+  - Public track maxes at: **VL** 8 May principal + **SERV 1 Jun** filed VP 17 Jun; **Fed MR 13 May** avant-projet; **FWB 30 Apr** / **WAL 13 May** first reads. **Brussels** public assent dossier still missing. **No BS publication** / no plenary-adopted instemmingswet or -decreet found.
+  - APR2026 path: parliament assent by **year-end** — mid-year recheck correctly negative.
+- Wrote: rq_107=done; spawned low **rq_116** (Q4 2026 recheck); **lb_entity_split_opacity** notes refreshed; **mode=idle_waiting_foi** (only deferred SWA open; FOI ready stack is human work).
+- FOI opened: none
+- Next: human send FOI stack; **rq_116** only after Oct 2026 unless news breaks
