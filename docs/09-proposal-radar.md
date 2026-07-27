@@ -296,7 +296,7 @@ New pillar:
 
 | Mode | Cadence | Who |
 |------|---------|-----|
-| **Radar tick** | Manual `/proposal-radar` or scheduled (e.g. 6–24h) | Agent |
+| **Radar tick** | Manual `/proposal-radar` **or daily durable scheduler** `019fa3e112ab` (1d) | Agent |
 | **Ingest seed** | Anytime URL lands | Human or agent |
 | **Weekly public pack** | Monday or Friday | Agent draft → human publish OK |
 | **Re-score** | On adoption / major amend | Agent |

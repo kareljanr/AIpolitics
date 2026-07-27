@@ -1,13 +1,18 @@
 # Proposal Radar scripts
 
-Full auto path (no human required for ingest + export):
+## Live schedule
+
+- **Daily Grok durable task:** `019fa3e112ab` (interval `1d`) — RSS harvest + one Proposal Radar tick (score/seed/weekly), then commit/push.
+- Pause: set `data/loop_state.csv` → `paused=yes`.
+- Manual anytime: `/proposal-radar` or pipeline below.
+
+## Full auto path (ingest + export)
 
 ```powershell
 cd C:\Users\karel\dev\AIpolitics
 pip install feedparser requests   # once
 python docs/proposal-radar/scripts/run_pipeline.py
-# scoring of top candidates: agent /proposal-radar OR
-python docs/proposal-radar/scripts/seed_score_batch.py   # calibration batch writer
+# scoring: agent /proposal-radar (or daily scheduler)
 python docs/proposal-radar/scripts/export_leaderboard.py
 ```
 

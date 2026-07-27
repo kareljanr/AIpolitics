@@ -7,7 +7,11 @@ Sister of [`docs/doge/LOOP.md`](../doge/LOOP.md). Design: [`docs/09-proposal-rad
 ## Cadence
 
 - **Manual:** `/proposal-radar` anytime.  
-- **Scheduled (optional):** 6h–24h interval once DOGE-style thrash is understood. Not 60s — analysis is heavier than one budget line.  
+- **Scheduled (live):** Grok **durable** task every **1 day** — id `019fa3e112ab` (created 2026-07-27).  
+  - Each fire: RSS `run_pipeline.py` when possible → **one** LOOP unit → commit/push if dirty.  
+  - Cancel/pause: set `loop_state.csv` `paused=yes` **and/or** delete scheduler id.  
+  - Recreate: same interval `1d` + prompt in skill/LOOP if id lost.  
+- **Not 60s:** analysis is heavier than one DOGE budget line.  
 - **Tick budget:** one primary unit; stop after ~20–25 min.
 
 ## Pause rule

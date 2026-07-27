@@ -68,3 +68,13 @@ Append-only. Newest ticks at bottom.
 - Unit: avg single FT employee labour tax ~€19.4k/yr; net ~€29.5k (Statbel gross + OECD TW 2025).
 - Schema/template/skill/LOOP/export updated; future analyses must hit depth + pain.
 - Pain filled where € known; blank for unquantified (UI, CGT, centenindex, hybrid delta).
+
+---
+
+## 2026-07-27 — daily scheduler armed
+
+- Created durable Grok task **019fa3e112ab** interval **1d** (Proposal Radar).
+- Fire: run_pipeline RSS when possible + one LOOP unit + commit/push.
+- fire_immediately=false (first run after ~24h).
+- Radar system already on main (Werkminuten + 10 v2 memos). This commit documents scheduler only.
+- Pause: loop_state paused=yes and/or scheduler_delete 019fa3e112ab.
