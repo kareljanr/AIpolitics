@@ -1045,3 +1045,17 @@ bud_iefh_exp_projects_2024,iefh,2024,2735000,,,outturn,src_iefh_ra_2024,strong,P
 bud_iefh_exp_total_2023,iefh,2023,22931000,,,outturn,src_iefh_ra_2024,strong,Total annual accounts expenditure 2023
 bud_iefh_exp_total_2022,iefh,2022,14650000,,,outturn,src_iefh_ra_2024,strong,Total annual accounts expenditure 2022
 bud_iefh_exp_cpvs_2023,iefh,2023,8845000,,,outturn,src_iefh_ra_2024,strong,CPVS project expenditure 2023
+bud_firm_dotation_2023,firm_ifdh,2023,2776000,,,budgeted,src_firm_ra_2024,strong,Kamer grant / dotatie 2023
+bud_firm_funding_2023,firm_ifdh,2023,2867733.51,,,budgeted,src_firm_ra_2024,strong,Grant + surplus carried; other 0
+bud_firm_exp_2023,firm_ifdh,2023,1652638.76,,,outturn,src_firm_ra_2024,strong,Actual expenditure accounts 2023
+bud_firm_balance_2023,firm_ifdh,2023,1215094.75,,,outturn,src_firm_ra_2024,strong,Year-end surplus balance 2023
+bud_firm_dotation_2024,firm_ifdh,2024,4111000,,,budgeted,src_firm_ra_2025,strong,Kamer grant / dotatie 2024
+bud_firm_funding_2024,firm_ifdh,2024,4348732.78,,,budgeted,src_firm_ra_2025,strong,Grant 4.111m + surplus 0.238m
+bud_firm_exp_2024,firm_ifdh,2024,2488783.46,,,outturn,src_firm_ra_2025,strong,Actual expenditure rekeningen 2024
+bud_firm_balance_2024,firm_ifdh,2024,1859949.32,,,outturn,src_firm_ra_2025,strong,Year-end surplus balance 2024
+bud_firm_dotation_2025,firm_ifdh,2025,3769000,,,budgeted,src_firm_ra_2025,strong,Kamer grant / dotatie 2025 (RA2025)
+bud_firm_funding_2025,firm_ifdh,2025,4984094.75,,,budgeted,src_firm_ra_2025,strong,Grant 3.769m + surplus 1.215m
+bud_firm_exp_2025,firm_ifdh,2025,3516071.02,,,outturn,src_firm_ra_2025,strong,Actual expenditure 2025
+bud_firm_balance_2025,firm_ifdh,2025,1468023.73,,,outturn,src_firm_ra_2025,strong,Year-end surplus balance 2025
+bud_firm_dotation_2026,firm_ifdh,2026,3223000,,,budgeted,src_firm_ra_2025,strong,Kamer approved budget 2026 grant
+bud_firm_funding_2026,firm_ifdh,2026,5082949.32,,,budgeted,src_firm_ra_2025,strong,Grant 3.223m + surplus 1.860m; exp not yet

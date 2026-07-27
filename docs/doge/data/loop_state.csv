@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T21:10:00Z,rq_118,143,no,"Scheduler 60s. Next prio6 FIRM/Myria RTBF/VRT; FOI ready human send. rq_118 IEFH funding done."
+main,continuous,hole_fill,2026-07-27T21:30:00Z,rq_119,144,no,"Scheduler 60s. Next prio6 Myria RTBF/VRT Actiris; FOI ready human send. rq_119 FIRM done."

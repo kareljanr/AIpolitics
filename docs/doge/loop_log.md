@@ -1307,3 +1307,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 21; cmt_iefh_funding_2024; lb 2; entity iefh; rq_118=done; FOI gap_iefh_funding_detail ready.
 - FOI: residual 2025-26 + CPVS?INAMI + L5 structural names (human send).
 - Next: prio6 **rq_119 FIRM** / **rq_120 Myria** / RTBF-VRT.
+
+### 2026-07-27T21:30:00Z ? tick 144
+- Unit: **rq_119** (FIRM-IFDH federal human rights institute funding)
+- Found (strong FIRM annual reports 2024 EN + 2025 NL primary):
+  - **Grant path:** 2023 **EUR 2.776m** -> 2024 **EUR 4.111m** -> 2025 **EUR 3.769m** -> 2026 **EUR 3.223m** (Kamer dotatie).
+  - **Expenditure:** 2023 **EUR 1.653m** · 2024 **EUR 2.489m** · 2025 **EUR 3.516m**.
+  - **Total budget 2025: EUR 4.984m** (grant + surplus **EUR 1.215m**); 2026 finance **EUR 5.083m** (grant 3.223 + surplus 1.860).
+  - Large **surplus buffer** (balance end-2024 **EUR 1.860m** · end-2025 **EUR 1.468m**).
+  - Staff end-2025: **26** (24 statutory + 2 temp); growth path 7->27 class.
+  - Dual architecture note: residual federal NHRI alongside Unia / VMRI / IEFH.
+- Wrote: sources 2; budgets 14; cmt_firm_dotation_path; lb_firm; entity firm_ifdh; rq_119=done; FOI residual ready.
+- FOI: gap_firm_funding_detail (codes + L5 ops) human send only.
+- Next: prio6 **rq_120 Myria** / **rq_135 RTBF** / **rq_136 VRT** / Actiris L5.
