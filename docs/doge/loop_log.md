@@ -3667,3 +3667,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity esa_be_contrib + belspo note; budgets +11; cmt +1; lb +2; FOI gap_esa_be_optional_l5 ready; draft; rq_322=done; spawn rq_323; ticks=331
 - FOI: optional vs mandatory + top20 beneficiaries ready human send
 - Next: prio5 **rq_323**; deferred **rq_116** SWA
+
+### 2026-07-31T04:45:00Z - tick 332
+- Unit: **rq_323** (FOI-adjacent hole-fill - **RV Belgica II federal marine research dual Belspo**)
+- Found (strong BELSPO NewRV timeline + financing study class):
+  - CM **28 Oct 2016** budget **€54.45m** (incl VAT) for replacement vessel.
+  - CM **22 Dec 2017** award Freire Shipyard (Vigo) **€53.7m**.
+  - Launch press **11 Feb 2020**: project cost **~€54m** VAT included.
+  - Delivery Zeebrugge **Dec 2021**; baptism **25 Jun 2022** (Princess Elisabeth).
+  - Operator **Genavir** (FR oceanographic fleet) from **Nov 2021**.
+  - Financing study class ops **€4.3m/yr** for **300 days** (2 crews) — medium, not outturn.
+  - Dual: BELSPO ownership + RBINS science + Defence base; complementary **VLIZ Simon Stevin**.
+- Wrote: sources +3; entity rv_belgica (+belspo note); budgets +4; cmt +1; lb +1; FOI gap_belgica_ops_l5 ready; draft; rq_323=done; spawn rq_324; ticks=332
+- FOI: CAPEX cash path + Genavir ops L5 ready human send
+- Next: prio5 **rq_324**; deferred **rq_116** SWA
