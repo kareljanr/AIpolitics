@@ -3629,3 +3629,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity belnet; budgets +16; cmt +1; lb +2; FOI gap_belnet_2025_l5 ready; draft; rq_319=done; spawn rq_320; ticks=328
 - FOI: 2025 accounts + member L5 + FedWAN multi-year ready human send
 - Next: prio5 **rq_320**; **progress@330 in 2 ticks**; deferred **rq_116** SWA
+
+### 2026-07-31T03:15:00Z - tick 329
+- Unit: **rq_320** (FOI-adjacent hole-fill - **BELSPO federal science dual community research**)
+- Found (strong FRWB/CFPS advisory 30 Jan 2025 + Kamer 56K0827/001):
+  - BELSPO managed budget **~€570m** current (FRWB) / **€630m 2024** class (resolution).
+  - Split: ESA/international **~57%** (floor **>€250m**); FWI base financing **~25%**; national RDI **~13%**.
+  - Coalition specific cut **€93m (−15%)** on department; resolution notes plan **>20%** class.
+  - 10 FWI + Belnet **>2400** staff; heritage value class **€3.5bn**; museums **1.5m** visitors/yr.
+  - Federal RDI fiscal incentives **€2.0–2.2bn** class (FPS Finance; off BELSPO cash).
+  - Dual: federal science/museums vs community university research; Belnet filled prior tick.
+- Wrote: sources +2; entity belspo; budgets +7; cmt +1; lb +2; FOI gap_belspo_fwi_l5_cut ready; draft; rq_320=done; spawn rq_321 progress@330; ticks=329
+- FOI: FWI L5 envelopes + post-cut path ready human send
+- Next: **MANDATORY rq_321 progress@330**; deferred **rq_116** SWA

@@ -4029,3 +4029,10 @@ bud_belnet_net_assets_2024,belnet,2024,10604809,,,outturn,src_belnet_ar2024_acco
 bud_belnet_budget_exp_2024,belnet,2024,27335000,,,outturn,src_belnet_ar2024_accounts,strong,Budget accounts total expenditure 27335k EUR 2024
 bud_belnet_fedwan_fund_2024,belnet,2024,2686000,,,outturn,src_belnet_ar2024_accounts,strong,Funds allocated FedWAN implementation 2686000 EUR YE2024
 bud_belnet_fedosc_fund_2024,belnet,2024,1840000,,,outturn,src_belnet_ar2024_accounts,strong,Funds reserved FedOSC project 1840000 EUR YE2024
+bud_belspo_managed_2024_class,belspo,2024,630000000,,,budgeted,src_kamer_56k0827_001_science,strong,Belspo POD budget 2024 class 630m (resolution claim)
+bud_belspo_managed_current_class,belspo,2025,570000000,,,budgeted,src_frwb_cfps_advice_2025_01,medium,BELSPO managed budget approx 570m current FRWB/CFPS (perimeter may differ 630m claim)
+bud_belspo_esa_int_class,belspo,2024,250000000,,,budgeted,src_kamer_56k0827_001_science,medium,ESA and international programmes >250m of 630m 2024 (resolution); FRWB says ~57pct of 570m
+bud_belspo_fwi_base_class,belspo,2025,142500000,,,budgeted,src_frwb_cfps_advice_2025_01,medium,Base financing 10 FWI approx 25pct of 570m = 142.5m class
+bud_belspo_national_rdi_class,belspo,2025,74100000,,,budgeted,src_frwb_cfps_advice_2025_01,medium,National research programmes and infrastructure approx 13pct of 570m
+bud_belspo_cut_93m_path,belspo,2025,93000000,,,budgeted,src_frwb_cfps_advice_2025_01,strong,Coalition specific budget reduction 93m for department (-15pct) FRWB/CFPS
+bud_fed_rdi_tax_incentives_class,fod_finance,2024,2100000000,,,budgeted,src_frwb_cfps_advice_2025_01,medium,Federal RDI fiscal incentives 2.0-2.2bn class FPS Finance (not BELSPO cash)
