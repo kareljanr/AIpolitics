@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T19:45:00Z,rq_353,362,no,Scheduler 60s. Next prio5 rq_354; rq_116 SWA deferred. FOI ready. tick362 territorial culture dual.
+main,continuous,hole_fill,2026-07-31T20:15:00Z,rq_354,363,no,Scheduler 60s. Next prio5 rq_355; rq_116 SWA deferred. FOI ready. tick363 PSB dual 2026 RTBF/VRT.

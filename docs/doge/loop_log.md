@@ -4079,3 +4079,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +2; budgets +14; cmt +1; lb +5; FOI **gap_territorial_culture_dual_vl_fwb_l5** ready + draft; rq_353=done; spawn **rq_354**; ticks=362
 - FOI: top IGS/CC/biblio L5 + VL leenrecht path human send only
 - Next: prio5 **rq_354**; deferred **rq_116** SWA
+
+### 2026-07-31T20:15:00Z - tick 363
+- Unit: **rq_354** (FOI-adjacent hole-fill - **dual PSB media 2026 refresh RTBF official BI + VRT basistoelage**)
+- Found (strong primary FWB exp. particulier DO25 + existing VRT BHO path):
+  - FWB **DO25** Medias CL **EUR 426.353m** / CE **424.988m** 2026.
+  - Prog3 Radio-TV CL **402.971m**.
+  - **RTBF official 2026 L5:** ordinary **350.819m** · access **4.050m** · pension pool **13.956m** · TV5 frais **1.230m** + soutien **8.310m** · SEC **10.897m** = package **389.262m** (vs RA2025 package ~378m prior).
+  - Medias de proximite class **~12.4m** · Presse **14.775m** · CSA **3.751m**.
+  - VRT basistoelage **296.4m** 2026 dual ordinary **647.2m**; package dual order **~686m** (not TE-additive).
+- Wrote: entities +1; sources +1; budgets +16; cmt +1; lb +5; FOI **gap_psb_dual_vl_fwb_l5_2026** ready + draft; rq_354=done; spawn **rq_355**; ticks=363
+- FOI: RTBF RA vs budget + VRT side-envelopes L5 human send only
+- Next: prio5 **rq_355**; deferred **rq_116** SWA

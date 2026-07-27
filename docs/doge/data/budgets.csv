@@ -4448,3 +4448,19 @@ bud_fwb_cec_amateurs_cl_2026,fwb_culture_do20,2026,5292000,,,budgeted,src_fwb_ex
 bud_fwb_pointculture_2026,fwb_lecture_publique,2026,3640000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,ASBL PointCulture 3.640m CE=CL 2026
 bud_fwb_biblio_it_2026,fwb_lecture_publique,2026,125000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,Bibliotheques IT equipment 0.125m
 bud_territorial_culture_dual_2026,vl_bovenlokaal_cultuur,2026,82844000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,medium,Illustrative dual: FWB prog7 CL 67.383 + VL bovenlokaal VEK 15.461 ~82.8m; not TE-additive; VL municipal library spend residual FOI
+bud_fwb_do25_medias_cl_2026,fwb_medias_do25,2026,426353000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,DO25 Audiovisuel Multimedias CL 426.353m 2026
+bud_fwb_do25_medias_ce_2026,fwb_medias_do25,2026,424988000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,DO25 CE 424.988m 2026
+bud_fwb_do25_radiotv_cl_2026,fwb_medias_do25,2026,402971000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,DO25 prog3 Radio et television CL 402.971m 2026
+bud_rtbf_ordinary_2026,rtbf,2026,350819000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF dotation ordinaire 41.01 CE=CL 350.819m 2026 (flat vs 2025 initial)
+bud_rtbf_access_2026,rtbf,2026,4050000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF accessibilite programmes 41.02 4.050m
+bud_rtbf_pension_pool_2026,rtbf,2026,13956000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF cotisation pool parastataux 41.03 13.956m (was 14.673m)
+bud_rtbf_tv5_frais_2026,rtbf,2026,1230000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF frais specifiques TV5 41.05 1.230m
+bud_rtbf_sec_2026,rtbf,2026,10897000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF SEC responsabilisation 41.07 10.897m
+bud_rtbf_tv5_soutien_2026,rtbf,2026,8310000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF soutien projet TV5 81.05 8.310m
+bud_rtbf_public_package_2026,rtbf,2026,389262000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,RTBF public package sum ordinary+access+pension+TV5x2+SEC 389.262m 2026
+bud_fwb_mdp_proximite_cl_2026,fwb_medias_do25,2026,12417000,,,budgeted,src_fwb_exp_part_dep_2026_medias,medium,Medias de proximite CL class ~12.417m (10.185+0.255+0.139+1.091+0.347+0.400)
+bud_fwb_presse_cl_2026,fwb_medias_do25,2026,14775000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,DO25 prog4 Presse CL 14.775m 2026
+bud_fwb_csa_2026,fwb_medias_do25,2026,3751000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,CSA dotation 3.751m 2026
+bud_vrt_basistoelage_2026_refresh,vrt,2026,296400000,,,budgeted,src_vl_vrt_dotatie_pq,strong,VRT basistoelage 296.4m 2026 (existing commitment; dual RTBF ordinary 350.8m)
+bud_psb_dual_ordinary_2026,vrt,2026,647219000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,Dual PSB ordinary: VRT 296.4 + RTBF ordinary 350.819 = 647.219m 2026
+bud_psb_dual_package_2026,vrt,2026,685662000,,,budgeted,src_fwb_exp_part_dep_2026_medias,medium,Dual PSB packages: VRT base 296.4 + RTBF full public 389.262 ~685.7m; not TE-additive
