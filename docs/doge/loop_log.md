@@ -3009,3 +3009,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities +7; budgets +28; cmt +4; lb +7; FOI gap_oisz_jaarrekeningen ready; draft; raw CoA PDF; rq_268=done; spawn rq_269; ticks=277
 - FOI: OISZ 2024-25 jaarrekeningen human send; eHealth/unemp FOI notes updated; AGMJ residual still ready
 - Next: prio5 **rq_269**; deferred **rq_116** SWA
+
+### 2026-07-30T01:45:00Z - tick 278
+- Unit: **rq_269** (FOI-adjacent hole-fill - **FPD + RSZ beheer + pensioenen + loonmatrix**)
+- Found (strong primary CoA 182e):
+  - **FPD beheer EUR 287.7m 2023** (222.3m 2022); opdrachten **67.95bn**; lonen **171.3m**.
+  - **RSZ beheer EUR 282.8m 2023** (251.9m 2022); opdrachten **106.87bn**; lonen **158.1m**; Smals voorschot residual 2.4m CoA.
+  - **Pensioenen 2024 total EUR 66.764bn** (werkn 40.1 + overheid 21.0 + zelfst 5.6).
+  - OISZ loonmatrix sample **~848m** (RVA 211 FPD 171 RSZ 158 RIZIV 118 …).
+  - SS saldo **+537m** 2024.
+- Wrote: sources +1; entities fpd+rsz; budgets +21; cmt +4; lb +5; FOI notes; rq_269=done; spawn rq_271 + progress@280; ticks=278
+- FOI: OISZ 2024-25 still ready; Smals advances note; AGMJ residual still ready
+- Next: prio5 **rq_271** (before progress@280); deferred **rq_116** SWA

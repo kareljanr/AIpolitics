@@ -3040,3 +3040,24 @@ bud_fso_rec_2024,fso,2024,522900000,,,outturn,src_ccrek_ss_182e_2025,strong,FSO 
 bud_fso_beheer_2023,fso,2023,7700000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 7.7m 2023
 bud_rsvz_beheer_2023,rsvz,2023,106900000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 106.9m 2023
 bud_ksz_beheer_2023_coa,ksz,2023,17400000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA KSZ beheer 17.4m 2023; dual site 19.8m 2025 path
+bud_fpd_beheer_2022,fpd,2022,222300000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA tabel29: beheer uitgaven 222.3m 2022
+bud_fpd_beheer_2023,fpd,2023,287700000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: beheer 287.7m 2023 (+29.4pct)
+bud_fpd_opdrachten_2022,fpd,2022,61753300000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: opdrachten 61.7533bn 2022
+bud_fpd_opdrachten_2023,fpd,2023,67947600000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: opdrachten 67.9476bn 2023
+bud_fpd_lonen_class,fpd,2023,171300000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA tabel22 loonmatrix: FPD lonen 171.3m (rubriek 621 class)
+bud_rsz_beheer_2022,rsz,2022,251900000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA tabel28: beheer 251.9m 2022
+bud_rsz_beheer_2023,rsz,2023,282800000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: beheer 282.8m 2023
+bud_rsz_opdrachten_2022,rsz,2022,99492800000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: opdrachten 99.4928bn 2022
+bud_rsz_opdrachten_2023,rsz,2023,106869700000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: opdrachten 106.8697bn 2023
+bud_rsz_lonen_class,rsz,2023,158100000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA loonmatrix: RSZ lonen 158.1m
+bud_pensioen_werknemers_2024,sec_ss,2024,40125200000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA tabel3: werknemerspensioenen 40.1252bn 2024
+bud_pensioen_overheid_2024,sec_ss,2024,21041000000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: overheidspensioenen 21.041bn 2024
+bud_pensioen_zelfstandigen_2024,sec_ss,2024,5597800000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: zelfstandigenpensioenen 5.5978bn 2024
+bud_pensioen_total_2024,sec_ss,2024,66764000000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: total pensioenen 66.764bn 2024 (+6.09pct)
+bud_pensioen_total_2023,sec_ss,2023,62931400000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA: total pensioenen 62.9314bn 2023
+bud_ss_saldo_2024,sec_ss,2024,537300000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA tabel1: SS saldo +537.3m 2024 (was +1322m 2023)
+bud_oisz_lonen_rva,rva,2023,210900000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA loonmatrix RVA 210.9m
+bud_oisz_lonen_riziv,sec_ss,2023,118200000,,,outturn,src_ccrek_ss_182e_fpd_rsz,medium,CoA loonmatrix RIZIV 118.2m (2023 unaudited note)
+bud_oisz_lonen_rsvz,rsvz,2023,66900000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA loonmatrix RSVZ 66.9m
+bud_oisz_lonen_hziv,hziv,2023,27300000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA loonmatrix HZIV 27.3m
+bud_oisz_lonen_sum_sample,sec_ss,2023,848000000,,,outturn,src_ccrek_ss_182e_fpd_rsz,medium,Sum CoA loonmatrix sample ~848m (RSZ RVA Fedris HVW RJV HZIV FPD RSVZ KSZ eHealth RIZIV); not full SS wage bill
