@@ -2634,3 +2634,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity fwb_egalite_chances; budgets +22; cmt +1; lb +4; FOI gap_fwb_egalite_l5 ready; draft; rq_237=done; spawn rq_238; ticks=246
 - FOI: equality L5 operators human send
 - Next: prio5 **rq_238**; deferred **rq_116** SWA
+
+### 2026-07-29T10:30:00Z — tick 247
+- Unit: **rq_238** (FOI-adjacent hole-fill — **FPS taxex / fossil energy subsidies inventory**)
+- Found (strong primary climat.be 4e Inventaire federal energies fossiles 2025, Benchmark 1):
+  - **Direct fossil subsidies 2022 EUR 13.268 bn** (2.4% GDP); path 11.68→13.27bn 2018-22.
+  - **Accises** 10.536bn (main instrument); gaz product gaps **4.854bn**; mazout **1.857bn**; diesel pro **0.742bn** (was 1.221bn 2020); gaz taux reduit **1.295bn**.
+  - **Fuel cards** IR **0.794bn**; permanent social transfers **0.757bn**; temporary crisis **1.176bn**.
+  - **Air+marine** **0.976bn** (kero aviation **0.688bn**); VAT air tickets **0.180bn**.
+  - **Company cars EHS** **3.434bn** 2022 (path 2.63→3.43); dual FPS/FPB methods.
+  - Sectors: transport class **6.69bn**; industry **3.93bn**; buildings permanent **4.91bn**.
+- Wrote: sources +1; entity fed_fossil_subs_inventory; budgets +26; cmt +1; lb +5; FOI gap_fed_fossil_subs_2023_24 ready; draft; raw PDF; rq_238=done; spawn rq_239; ticks=247
+- FOI: 2023-24 consol series human send
+- Next: prio5 **rq_239**; **progress@250 in 3 ticks**; deferred **rq_116** SWA

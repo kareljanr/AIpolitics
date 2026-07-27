@@ -2630,3 +2630,29 @@ bud_fwb_evras_2026,fwb_egalite_chances,2026,100000,,,budgeted,src_fwb_exp_part_e
 bud_fwb_local_gender_apw_2026,fwb_egalite_chances,2026,49000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.41.01 APW local gender equality protocol 49k/yr
 bud_fwb_racisme_camp_cl_2026,fwb_egalite_chances,2026,90000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.01.03 lutte racisme campaign CL 90k (CE 0 after multi-year commit)
 bud_fwb_coppieters_cabinet_2026,fwb_gov,2026,371000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Cabinet Coppieters sante/droits femmes/egalite DO06 prog5 371k 2026
+bud_fed_fossil_direct_2022,fed_fossil_subs_inventory,2022,13267800000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Direct fossil subsidies total bench1 13267.8m EUR 2022 (2.4pct GDP)
+bud_fed_fossil_direct_2021,fed_fossil_subs_inventory,2021,12029200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Direct fossil subsidies 12029.2m 2021
+bud_fed_fossil_direct_2020,fed_fossil_subs_inventory,2020,11351200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Direct fossil subsidies 11351.2m 2020
+bud_fed_fossil_direct_2019,fed_fossil_subs_inventory,2019,11480900000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Direct fossil subsidies 11480.9m 2019
+bud_fed_fossil_direct_2018,fed_fossil_subs_inventory,2018,11678400000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Direct fossil subsidies 11678.4m 2018
+bud_fed_fossil_accises_2022,fed_fossil_subs_inventory,2022,10536000000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Accises exemptions+rate gaps 10536m 2022 (main instrument)
+bud_fed_fossil_gaz_ecarts_2022,fed_fossil_subs_inventory,2022,4854200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Natural gas product-rate gaps vs petrol energy benchmark 4854.2m 2022
+bud_fed_fossil_mazout_2022,fed_fossil_subs_inventory,2022,1856800000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Heating gasoil mazout same-product rate gap 1856.8m 2022
+bud_fed_fossil_diesel_pro_2022,fed_fossil_subs_inventory,2022,742400000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Professional diesel reimbursement 742.4m 2022 (path down from 1220.5m 2020)
+bud_fed_fossil_gaz_taux_reduit_2022,fed_fossil_subs_inventory,2022,1295200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Natural gas reduced rate same-product gap 1295.2m 2022
+bud_fed_fossil_gasoil_ecarts_2022,fed_fossil_subs_inventory,2022,382400000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Gasoil product-rate gaps 382.4m 2022
+bud_fed_fossil_agri_intermed_2022,fed_fossil_subs_inventory,2022,620500000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Intermediate consumption agri/horti/fish/forestry 620.5m 2022
+bud_fed_fossil_fuel_cards_2022,fed_fossil_subs_inventory,2022,793900000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Fuel cards PIT package 793.9m 2022 (IR instrument)
+bud_fed_fossil_transfers_perm_2022,fed_fossil_subs_inventory,2022,756800000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Permanent social energy transfers 756.8m 2022 (social tariffs partial fossil share)
+bud_fed_fossil_transfers_temp_2022,fed_fossil_subs_inventory,2022,1175900000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Temporary energy-crisis transfers 1175.9m 2022 (BIM social tariff extension)
+bud_fed_fossil_tarif_social_gaz_2022,fed_fossil_subs_inventory,2022,428200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Classic social tariff natural gas 428.2m 2022
+bud_fed_fossil_air_marine_2022,fed_fossil_subs_inventory,2022,975700000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,International air+marine fuel accise exemptions 975.7m 2022
+bud_fed_fossil_kero_aviation_2022,fed_fossil_subs_inventory,2022,687700000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Kerosene aviation accise exemption 687.7m 2022
+bud_fed_fossil_marine_hfo_2022,fed_fossil_subs_inventory,2022,232800000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Marine heavy fuel oil exemption 232.8m 2022
+bud_fed_fossil_marine_diesel_2022,fed_fossil_subs_inventory,2022,55200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Marine diesel exemption 55.2m 2022
+bud_fed_fossil_company_cars_ehs_2022,fed_fossil_subs_inventory,2022,3434200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Company cars environmental harmful subsidy EHS 3434.2m 2022 (path up from 2627m 2018)
+bud_fed_fossil_vat_air_tickets_2022,fed_fossil_subs_inventory,2022,180200000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,VAT exemption air tickets indirect subsidy 180.2m 2022
+bud_fed_fossil_sector_transport_2022,fed_fossil_subs_inventory,2022,6687000000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Sector transport total class 6687m 2022 (direct+air/marine+indirect+EHS cars)
+bud_fed_fossil_sector_industry_2022,fed_fossil_subs_inventory,2022,3926400000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Sector industry direct 3926.4m 2022
+bud_fed_fossil_sector_buildings_perm_2022,fed_fossil_subs_inventory,2022,4912900000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Sector buildings permanent measures 4912.9m 2022
+bud_fed_fossil_diesel_pro_2020,fed_fossil_subs_inventory,2020,1220500000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Professional diesel peak 1220.5m 2020 before phase-down path

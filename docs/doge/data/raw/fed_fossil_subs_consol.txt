@@ -1,0 +1,1312 @@
+
+---PAGE 66---
+La prise en compte des usages  
+non-énergétiques (feedstocks)
+6.1.  Contexte
+L’utilisation des produits fossiles est soit à usage de combustion (application énergétique, comme 
+dans une centrale électrique) soit comme feedstock (application non énergétique, comme 
+l’utilisation de naphta dans la pétrochimie pour la fabrication de matières premières pour le 
+plastique).
+Les produits fossiles sont non seulement des produits secondaires, raffinés ou transformés 
+(diesel, essence, kérosène et électricité d’origine fossile) mais aussi des matières premières 
+primaires (pétrole, gaz naturel et charbon). Les produits à usage non-énergétiques sont repris 
+dans les inventaires nationaux des gaz à effet de serre101.
+Les subventions, mesurées en écart de taux par rapport au taux de référence, liées à l’usage non-
+énergétique des matières fossiles font partie intégrante des termes du débat sur la trajectoire 
+pour atteindre la neutralité carbone.
+D’ailleurs, le rapport des institutions de référence aux Pays-Bas102 intègre les feedstocks dans 
+l’estimation des dispositions ayant trait aux énergies fossiles (« fiscale regelingen ») en utilisant 
+l’approche des coûts externes. Selon le ministère néerlandais des Finances103, le montant de 
+la subvention y relative s’élèvait en 2023 à 14,211 milliards €, soit 1,4 % du PIB de 2023, et 
+représentait près de 33 % du total des subsides aux énergies fossiles. Ce montant est calculé 
+en multipliant les volumes de matières premières utilisées par les principales installations de 
+pétrochimie du pays par le taux d’accises en vigueur pour le naphta. En effet, le naphta est de loin 
+le principal dérivé du pétrole utilisé dans ces usines dans lesquelles se déroule le vapocraquage104. 
+Dans le cadre du budget 2025, les Pays-Bas ont décidé de retirer le montant du subside aux 
+produits non-énergétiques de la liste des incitants fiscaux figurant dans le budget car l’approche 
+par les coûts externes utilise une autre méthodologie que celle utilisée dans les documents 
+budgétaires et que donc, les montants des subsides ne sont pas comparables105.
+101 2006 IPCC Guidelines for National Greenhouse Gas Inventories - Volume 3: IPPU - Chapter 5: Non-energy products from 
+fuels and solvent use, https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_5_Ch5_Non_Energy_Products.pdf
+102 Centraal Planbureau en Planbureau voor de Leefomgeving, 2023, afschaffing fossiele energiesubsidies: eerder een 
+hersenkraker dan een no-brainer, oktober, https://www.pbl.nl/uploads/default/downloads/cpb-pbl-2023_afschaffing-fossiele-
+energiesubsidies-eerder-een-hersenkraker-dan-een-no-brainer_5237_0.pdf 
+103 Brief regering, 2023, Fiscale ramingstoelichting bij Miljoenennota 2024 bijlage 25 – fiscale fossiele regelingen, Wijziging van 
+enkele belastingwetten en enige andere wetten (Belastingplan 2024) | Tweede Kamer der Staten-Generaal 
+104 Le vapocraquage est un procédé pétrochimique qui consiste à obtenir, à partir d’une coupe pétrolière telle que le 
+naphta, ou d’alcanes légers, des alcènes (éthylène, propylène) mieux valorisés. Ces alcènes sont principalement à la base 
+de l’industrie des matières plastiques (polyéthylène, polypropylène, etc.) source : https://www.euro-petrole.com/re_05_
+details_mot.php?idMot=43
+105 Ministerie van Finaniciën, 2024, Miljoenennota 2025, Box 23.2 Optelling van fossiele voordelen inventarisatie- en externe 
+kostenbenadering, https://www.rijksfinancien.nl/miljoenennota/2025/bijlage/3096805 
+6
+66
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 67---
+6.2.  Quantités dans consommation finale d’énergie
+L’usage non-énergétique des matières premières d’origine fossile n’est pas soumis aux droits 
+d’accise et sort donc du champ de la Directive sur la taxation des produits énergétiques. 
+En l’absence d’un taux de référence comparable à celui utilisé pour mesurer les écarts de taux 
+en matière d’accises, aucun montant n’est repris de cette section. Le Tableau 21 reprend les 
+quantités pour les produits fossiles utilisés à des fins non-énergétiques. 
+Tableau 21 Produits fossiles à usage non-énergétique dans consommation finale d’énergie 
+(2018-2023, en kilotonne d’équivalent pétrole)
+2018 2019 2020 2021 2022 2023
+Goudron de houille 262,7 258,2 243,5 214,1 219,4 199,6
+GPL 2.054,1 2.161,5 2.000,1 2.086,3 2.146,2 2.502,3
+Naphta 3.036,3 2.534,6 2.582,8 2.929,1 2.265,0 1.800,5
+Fioul lourd 17,4 18,2 18,0 25,4 22,5 22,2
+White spirit  
+et essences spéciales 7,9 4,4 6,5 4,1 4,2 7,8
+Lubrifiants 80,7 77,1 53,9 58,9 63,1 59,0
+Bitume 298,8 278,1 247,0 288,2 274,7 268,7
+Coke de pétrole 18,3 18,8 22,7 23,0 21,7 13,5
+Paraffines 16,5 16,1 17,7 21,0 21,7 18,9
+Autres produits pétroliers 976,7 868,7 769,4 869,1 666,3 825,3
+Gaz naturel 1.074,9 1.050,5 1.181,0 1.046,4 836,2 853,5
+Total 7.581,6 7.027,9 6.899,1 7.351,6 6.321,4 6.371,6
+Sources : Stabel 
+Ces chiffres sont loin d’être négligeables. En effet, les quantités de matières premières fossiles 
+consommées à des fins non-énergétiques représentent en 2023 l’équivalent de 68,7 % de la 
+consommation finale d’énergie utilisée par le secteur industriel en Belgique ou 91,5 % de la 
+consommation finale d’énergie utilisée par les ménages. Le naphta représentait le principal dérivé 
+du pétrole dans ce groupe jusqu’en 2022. Cependant, comme le montre le Graphique 16, les 
+quantités de naphta consommées en Belgique sont en recul constant depuis 2005 et connaissent 
+en 2023 un niveau historiquement bas. Parallèlement, les quantités de GPL sont en constante 
+progression sur la même période. En 2023, les quantités de GPL ont dépassé pour la première 
+fois celles de naphta. La somme de ces deux produits connait des variations annuelles de plus 
+faible ampleur. On notera cependant une baisse annuelle de 12,1 % en 2022 par rapport à 2021, 
+baisse la plus importante des dix dernières années. Ces deux produits représentent depuis 2005 
+au moins 59 % du total avec un pic à 69,8 % en 2022. Avec une part de 13,4 % des quantités 
+consommées en 2023, le gaz naturel représente le troisième produit, suivi par une catégorie mixte 
+dénommée « autres produits pétroliers » (13,0 %). Le bitume et le goudron de houille se situent 
+plus bas dans ce classement avec respectivement 4,2 % et 3,1 % du total. Ces six catégories de 
+produits pèsent ensemble 98,1 % du total des produits fossiles à usage non-énergétique.
+67
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 68---
+Graphique 16 GPL et Naphta utilisés à des fin non-énergétiques  
+(en kilotonne d’équivalent pétrole, 2005-2023) 
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Quantité d'énergie (ktep)
+GPL Naphta Total
+Source : Stabel 
+68
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 69---
+Discussion de quelques  
+cas limites
+7.1.  Mécanisme de rémunération de la capacité  
+(CRM ou Capacity Remuneration Mechanism)106
+7.1.1.  Contexte 
+En lien avec la stratégie énergétique fédérale, un mécanisme de rémunération de la capacité 
+(CRM) a été mis en place sur le marché belge, afin de garantir la sécurité d’approvisionnement 
+du pays, notamment dans le contexte de la fermeture du parc nucléaire, tout en soutenant la 
+transition énergétique. 
+Il existe plusieurs mécanismes de rémunération de la capacité. En ce qui concerne le mécanisme 
+belge, le volume recherché n’est pas seulement un déficit identifié (comme dans le cas d’une 
+réserve stratégique), mais le volume total nécessaire pour assurer la sécurité d’approvisionnement. 
+Le mécanisme attire donc de nouveaux investissements pour combler un déficit, mais incite 
+également les unités existantes à investir et/ou à rester sur le marché. Cela garantit un accès 
+équitable aux aides accordées tant aux unités existantes à moderniser qu’aux nouvelles unités au 
+coût le plus bas possible, grâce à la concurrence entre ces unités lors des enchères. Il est ouvert 
+à toutes les technologies, c’est-à-dire aux différents façons d’assurer la capacité supplémentaire 
+qui serait nécessaire : la production, la gestion de la demande et le stockage ont donc été retenus. 
+Concernant les capacités de production, celles-ci couvrent notamment les centrales au gaz ainsi 
+que les capacités recourant aux sources d’énergie renouvelables107. 
+Le CRM fonctionne depuis 2021 via un système d’enchères organisées chaque année, 
+en octobre108. La capacité doit être disponible quatre ans plus tard pour la sécurité 
+d’approvisionnement, et reçoit un subside en contrepartie 109. A partir de 2024, une deuxième 
+vente aux enchères est organisée chaque année, avec disponibilité des unités un an plus tard. 
+Ceci permet d’investir dans des technologies dont le temps de préparation est plus long (par 
+exemple, les nouvelles centrales électriques au gaz) ou plus court (par exemple, la gestion de 
+la demande). Cela permet également d’ajuster le volume total sur la base des données les plus 
+récentes, garantissant ainsi la sécurité d’approvisionnement au coût le plus bas possible.
+106 https://economie.fgov.be/fr/themes/energie/securite-dapprovisionnement/mecanisme-de-remuneration-de
+107 Cf aussi PNEC, p. 393 : Outre la construction de nouvelles centrales au gaz ou la prolongation de l’exploitation des 
+centrales au gaz existantes, ce mécanisme permet la mise en œuvre à grande échelle de solutions de stockage et de 
+gestion de la demande.
+108 Pour chaque année de livraison (i.e. l’année où la capacité doit être disponible), deux enchères sont organisées : la 
+première quatre ans avant l’année de livraison, la seconde un an avant l’année de livraison. Chaque enchère est précédée 
+de la détermination du volume et des paramètres de l’enchère et par une période de préqualification des participants à 
+l’enchère. 
+109 De plus amples informations sont disponibles sur le site du SPF Économie (lien supra). 
+7
+69
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 70---
+En 2016, la Commission avait réalisé une première enquête sectorielle sur les mécanismes de 
+capacité. Selon elle, « Les mécanismes de capacité doivent répondre aux problèmes survenus sur 
+le marché et être ouverts à toutes les technologies et aux opérateurs d’autres pays de l’UE. Ils ne 
+doivent pas constituer une subvention déguisée en faveur d’une technologie spécifique, comme 
+les combustibles fossiles, ou gonfler exagérément le prix de l’électricité pour les consommateurs. 
+Le rapport de l’enquête sectorielle aidera la Commission et les États membres à instaurer des 
+mécanismes de capacité mieux ciblés et uniquement si un besoin véritable se fait sentir. »110 
+En août 2021, la Commission européenne, après une nouvelle enquête approfondie de 
+la Direction générale de la Concurrence, a estimé que le CRM était conforme aux règles 
+européennes111. L’enquête de la DG Concurrence a porté notamment sur les sujets suivants : 
+la démonstration et la quantification des problèmes futurs liés à l’adéquation des ressources, 
+l’ouverture du mécanisme, en particulier pour les capacités renouvelables et les capacités 
+étrangères et enfin l’allocation des recettes provenant de la congestion. 
+Suite à cette décision positive de la Commission européenne, la Belgique a procédé à une 
+première mise aux enchères en 2021 pour l’année de livraison 2025.
+7.1.2.  Estimation du montant maximal du subside éventuel
+Le CRM doit être considéré comme un cas limite pour au moins trois raisons.
+• Le mécanisme est ouvert à toutes les technologies et pas uniquement à celles qui recourent 
+à l’énergie fossile. De ce point de vue, il n’y aurait pas de discrimination en faveur des 
+énergies fossiles.
+• Même si des centrales au gaz sont soutenues par ce mécanisme, c’est le choix du 
+combustible qui est déterminant. Ainsi, le soutien de centrales ayant recours à du biogaz ou à 
+d’autres sources d’énergie décarbonées n’est pas nécessairement problématique d’un point 
+de vue environnemental.
+• Même s’il recourt (en partie) à des énergies fossiles, le CRM contribue au développement des 
+sources d’énergies renouvelables en favorisant la gestion de l’intermittence qui caractérise 
+les énergies éoliennes et solaires. 
+Dans tous les cas, étant donné que le mécanisme fait appel à différentes technologies, il faudrait 
+estimer le subside accordé aux capacités de production ayant spécifiquement recours aux 
+énergies fossiles. Quant au montant du subside total accordé dans le cadre du mécanisme, il a fait 
+l’objet de différentes estimations ex ante 112. L’estimation des coûts de Haulogy (2021), basée sur 
+l’expertise de la CREG et d’Elia, estime une moyenne de 257 millions €/an de coût nominal sur les 
+15 premières années de rémunération. Le coût s’étend en réalité jusqu’en 2040 car des contrats 
+de refurbishment sont conclus pour l’année de livraison 2026 avec des durées de contrat de 15 
+ans. Ainsi, la moyenne de coût sur les 16 premières années de rémunération est de 245 millions 
+€/an. La moyenne sur les 10 premières années de rémunération est égale à 307 millions €/an.
+110 https://ec.europa.eu/commission/presscorner/detail/fr/IP_16_4021 
+111 Commission européenne, 27 août 2021 decision, C(2021) 6431 final https://ec.europa.eu/competition/state_aid/cas
+es1/202137/288236_2313671_226_2.pdf 
+112 Ainsi, selon CLIMACT (2019), le subside total serait de l’ordre de 350 à 400 millions €/an. Sur base du modèle développé 
+par PWC (2018), le coût total actualisé du CRM sur 15 années (durée du mécanisme) s’élève à 5,4 milliards €, soit 345 
+millions €/an. En 2018, la CREG avait quant à elle estimé un coût compris entre 614 et 940 millions €. Elia tablait sur 
+un coût annuel situé entre 300 à 500 millions €/an. Des analyses plus récentes aboutissent à un coût annuel estimé à 
+environ 300 millions €/an entre 2025 et 2032 et 257 millions € pour 2033 et 2034 et 109 millions € entre 2035 et 2039. 
+Cf Haulogy, 2021, CRM Cost calculation, https://economie.fgov.be/sites/default/files/Files/Energy/Haulogy-Cost-calculation-
+20210128-presentation.pdf
+70
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 71---
+Lors de l’attribution de la première enchère réalisée en octobre 2021 (année de livraison 2025), 
+le prix moyen pondéré a été de 31.672 €/MW/an pour une capacité totale de 4.457 MW. Lors de 
+l’enchère d’octobre 2022 (année de livraison 2026), 6.417 MW ont été mises à prix, mais aucune 
+capacité n’a été attribuée. En octobre 2023 (année de livraison 2027), 1.576 MW ont été mis aux 
+enchères avec un prix moyen pondéré de 36.373 €/MW/an. En octobre 2024, 1.926 MW ont été 
+mis aux enchères pour l’année de livraison 2028 avec un prix moyen pondéré de 28.026 €/MW/an 
+et 2.659 MW pour l’année de livraison 2025 avec un prix moyen pondéré de 15.695 €/MW/an113.
+En outre, les émissions de CO2 de ces centrales à gaz sont incluses dans le système ETS 
+d’échange de quotas d’émission de l’UE qui plafonne les émissions totales au niveau européen 
+pour les secteurs de l’industrie et de la production d’électricité. Les émissions qui seraient liées à 
+l’activation du CRM n’ont donc pas d’impact direct sur le climat. Par ailleurs, les objectifs nationaux 
+sont définis uniquement sur le périmètre des émissions hors ETS (ETS1) dans le cadre de l’Effort 
+Sharing Regulation (ESR). 
+Au sein du CRM, un certain nombre de mesures sont cependant prévues pour limiter 
+les émissions de CO2 et atteindre l’objectif de zéro émissions d’ici 2050. D’une part, les 
+réglementations européennes imposent une valeur maximale pour les émissions de CO2. D’autre 
+part, le CRM est conçu pour être bénéfique pour les technologies neutres en CO2. Selon un 
+rapport du ministre de l’Énergie114, 287 MW avaient déjà été alloués à la gestion de la demande 
+fin 2021 et 41 MW à des projets de batteries. Le nombre de nouvelles centrales au gaz est limité 
+à deux. Les centrales à gaz qui font finalement partie du CRM devront pouvoir démontrer qu’elles 
+atteindront des émissions nulles ou négatives en 2050 sur base d’une feuille de route et d’une 
+étude de faisabilité d’ici fin 2026 et un plan de réduction des émissions d’ici fin 2027, avec des 
+objectifs intermédiaires en 2035 et 2045.
+En septembre 2023, la Commission européenne a approuvé des amendements au CRM belge. 
+Dans l’approbation, la Commission européenne a explicitement mentionné cette clause de 
+durabilité comme un élément important pour garantir la cohérence avec le Green Deal et les 
+objectifs climatiques. Ces amendements ont également renforcé les valeur maximale pour les 
+émissions de CO2 pour les bénéficiaires du régime. Le régime modifié sera en vigueur jusqu’en 
+octobre 2031.
+7.2.  Fonds BOFAS (2004-2019)
+Ce cas-limite est désormais repris pour mémoire en annexe 13.8, étant donné qu’il n’est plus 
+d’application. 
+113  Elia, CRM rapport de mise aux enchères 2021, 2022, 2023 et 2024, voir : Résultats de l’enchère CRM (elia.be)
+114 https://economie.fgov.be/sites/default/files/Files/Energy/Rapport-sur-la-securite-de-l-approvisionnement-abordabilite-et-
+durabilite.pdf
+71
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 72---
+7.3.  Fonds PROMAZ115
+Ce fonds sectoriel est actif depuis le 1er avril 2022 et fait suite au fonds BOFAS. 
+Le fonds Promaz fait l’objet, comme le précédent, d’un accord de coopération entre autorités 
+fédérales et régionales116. Le mécanisme a pour objectif de contribuer à la réalisation des objectifs 
+des législations régionales en matière d’assainissement des sols117.
+Est ici visé l’assainissement des sols pollués lors d’épanchements de réservoirs de mazout de 
+chauffage. En Région bruxelloise, selon les chiffres avancés par Bruxelles Environnement, 40 % de 
+la pollution des sols seraient à imputer au mazout. Le coût élevé de l’assainissement de ces sols 
+peut constituer un frein à leur dépollution, d’où la mise en place de ce fonds sectoriel.
+Le financement du fonds Promaz s’opère de deux manières. D’une part, par un transfert des 
+surplus financiers du fonds Bofas, et d’autre part par une cotisation de 0,01 €/litre inclue dans le 
+prix maximum du mazout. Un budget de maximum 512 millions € est estimé nécessaire pour son 
+fonctionnement pendant 20 ans, avec un arrêt automatique de la perception lorsque ce montant 
+est atteint. 
+Le fonds Promaz prévoit une intervention financière. Les bénéficiaires du fonds sont tout 
+propriétaire ou utilisateur final d’un réservoir à mazout présentant un problème d’étanchéité 
+induisant, ou ayant induit, une pollution avérée du sol. Les citernes à mazout ayant été mises 
+hors service peuvent également en bénéficier. Aussi bien les bâtiments résidentiels que les autres 
+bâtiments sont concernés. Le montant des aides financières varie selon le type de bâtiment : 
+jusqu’à 200.000 € pour l’habitation d’un particulier, jusqu’à 100.000 € pour un bâtiment d’un autre 
+type (écoles, immeubles de bureaux, hôpitaux...). 
+L’objectif n’étant pas de remplacer le recours au mazout par un autre mode de chauffage qui ne 
+soit pas d’origine fossile, le fonds peut dès lors être considéré comme une subvention indirecte 
+aux combustibles fossiles. La subvention couvre par ailleurs un coût externe généré par le 
+particulier utilisant une citerne au mazout et la réparation du dommage qui, normalement, lui 
+incomberait.
+115 https://promaz.be/
+116 Accord de coopération du 25 juillet 2018 entre l’Etat fédéral, la Région flamande, la Région wallonne et la Région de 
+Bruxelles-Capitale relatif à l’exécution et au financement de l’assainissement du sol des stations-service et des citernes 
+de gasoil à des fins de chauffage. Remplace l’accord de coopération du 13 décembre 2002 relatif à l’exécution et au 
+financement de l’assainissement du sol des stations-services.
+117 Les obligations relatives à l’utilisation des citernes de gasoil, de même que les obligations de prévention et 
+d’assainissement du sol diffèrent entre régions. 
+72
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 73---
+7.4. Dispenses partielles de versement du précompte 
+professionnel
+Par dispenses de versement du précompte professionnel, sont visés des revenus qui sont 
+imposables et qui doivent donc en principe être soumis au précompte professionnel, mais pour 
+lesquels le législateur a adopté des dispositions qui dispensent le débiteur de verser au Trésor le 
+précompte professionnel retenu sur ces revenus. Les critères d’octroi de ces dispenses varient 
+selon le type de dispense.
+Ce système de dispenses de précompte professionnel ne cible pas un secteur d’activité 
+économique spécifique. Dès lors, on ne peut parler d’avantage sectoriel qui serait d’ailleurs 
+contraire aux règles européennes en matière d’Etat. Cependant, on peut se poser la question 
+de l’octroi de certaines de ces dispenses de versement à un ou plusieurs secteurs fortement 
+polluants, de par leur consommation énergétique d’origine fossile. Ce qui pourrait être considéré 
+comme une subvention indirecte. 
+Nous nous limitons cependant dans le cadre de ce Rapport à signaler ce cas-limite de subvention. 
+En effet, nous ne disposons malheureusement pas d’un niveau de granularité suffisant des 
+données pour mener l’analyse à bien. Ce qui ne nous permet pas d’identifier avec suffisamment 
+de précision les secteurs bénéficiaires de cette subvention. 
+7.5.  Soutien au financement des énergies fossiles
+7.5.1.  Société Fédérale de Participations et d’Investissement (SFPIM)
+La Société Fédérale de Participations et d’Investissement (SFPIM) est une société anonyme 
+d’intérêt public dont l’État belge est l’unique actionnaire. La SFPIM conduit la gestion centralisée 
+des participations des autorités fédérales, coopère avec les autorités sur des projets spécifiques 
+et mène sa propre politique d’investissement dans l’intérêt de l’économie belge.
+La SFPIM assure trois activités principales :
+• assurer une participation dans des entreprises publiques et privées ayant un intérêt 
+stratégique pour l’Etat fédéral ;
+• investir dans des entreprises présentant une valeur sociétale intéressante dans l’un des 
+secteurs prioritaires faisant partie des objectifs de la SFPIM ;
+• collaborer à la politique des autorités fédérales et assurer la réalisation, pour leur compte, de 
+projets spécifiques.
+Les prises de participations de la SFPIM s’articulent autour de 6 secteurs d’activités : dont 3 
+secteurs d’activités dits « historiques » (la finance, l’aéronautique, la santé) et trois nouveaux 
+secteurs (les investissements d’impact, l’énergie et les services publics, le transport et la mobilité). 
+Des prises de participations de la SFPIM dans certains secteurs spécifiques pourraient être 
+qualifiées de cas limites en termes de subventions indirectes aux énergies fossiles. 
+73
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 74---
+Ainsi, dans les secteurs prioritaires historiques de la SFPIM, on retrouve le secteur aéronautique. 
+On peut ainsi lire dans le Rapport annuel 2021 les motivations de l’investissement dans ce 
+secteur: « L’aérien subit de plein fouet les conséquences de la crise sanitaire et doit par ailleurs 
+faire face aux enjeux de la durabilité. C’est donc un secteur en profonde mutation qu’il y lieu de 
+soutenir à tous les niveaux de sa chaine de valeur. 118» 
+Si l’on se réfère à la répartition sectorielle du portefeuille d’investissement (au 31/12/2023), 7,2 % 
+est relatif au secteur aéronautique. Sur les 174 sociétés en portefeuille, 16 sont dans le secteur 
+aéronautique. 
+Une partie des investissements de la SFPIM dans le secteur de l’énergie pourrait également 
+être considérée comme des subsides indirects aux énergies fossiles. Ainsi, parmi les sociétés en 
+portefeuille actives dans le secteur de l’énergie, on peut constater que la SFPIM détient 2,13 % 
+du capital du groupe d’infrastructures de transport de gaz naturel, Fluxys. 
+Graphique 17 SFPI Répartition sectorielle
+16
+48 11
+11
+13
+22 53
+€ 559.283.454€ 545.146.694
+€ 438.322.537
+€ 91.268.892
+€ 180.326.956
+€ 204.300.117
+€ 5.714.119.505
+Aeronautics
+Energy & Utilities
+Finance
+Health
+Impact Other
+Portfolio in number
+of participations: 174
+Portfolio in assets
+ € 7.732.768.156
+Transport & Mobility
+Source : SFPIM
+118  SFPIM, rapport annuel 2021,p 12, https://sfpim.be/uploads/2023/12/SFPIM_RA2021_FINAL_compressed.pdf
+74
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 75---
+L’accord de gouvernement fédéral (2025-2029) précise que : « Le rôle et la stratégie de la SFPIM 
+seront actualisés, en mettant l’accent sur une coopération structurelle encore plus poussée 
+avec les sociétés régionales d’investissement lorsque cela s’avère pertinent et sur davantage 
+d’investissements propres dans l’ancrage stratégique et dans des secteurs essentiels de la 
+politique fédérale tels que la défense, l’aéronautique, spatial, l’énergie, la santé publique, les 
+services financiers et la cybersécurité. (…) Pour mener à bien ces travaux, la SFPIM maintiendra 
+une structure opérationnelle légère, permettant d’optimiser le ratio coûts/actifs gérés. Dans ce 
+contexte, des modalités plus efficaces pourront également être explorées dans le déploiement 
+des investissements des filiales « Relaunch for the future » et « SFPIM Immobilier », ainsi que sur 
+l’Enveloppe de transition écologique»119.
+Le 14 décembre 2021, la SFPIM a adopté sa première charte de responsabilité sociétale 
+d’entreprise (CSR)120. On peut y lire que la SFPIM ne réalise pas davantage d’investissement dans 
+une entreprise dont les activités sont liées à : 
+ - l’extraction de charbon ; 
+ - l’extraction de pétrole ;
+ - l’extraction de gaz ; 
+ - la recherche ou le développement d’applications techniques visant à soutenir toute activité 
+visée ci-avant. 
+La charte CSR mentionne également que la SFPI doit aussi adopter une approche de précaution 
+vis-à-vis des entreprises qui sont actives dans la production d’énergie fossiles. 
+Enfin, ce document prévoit que pour la fin 2026, les entreprises doivent rapporter sur les actions 
+envisagées pour se conformer aux restrictions d’investissements mentionnées ci-dessus, et 
+que pour la fin 2035, toutes les entreprises du portefeuille de la SFPI doivent se conformer sans 
+réserve aux restrictions d’investissement précitées. 
+119 https://www.belgium.be/fr/publications/accord_de_gouvernement_du_gouvernement_federal_bart_de_wever
+120 https://sfpim.be/uploads/2023/01/2023.01.11-Charte-CSR-FR.pdf
+75
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 76---
+7.5.2.  Credendo
+La section sur Credendo n’a pu être mise à jour à cause d’un manque de données.
+Credendo, l’assureur-crédit à l’exportation belge, a formulé une politique sur le soutien des 
+pouvoirs publics à la transition des combustibles fossiles vers les énergies propres (Fossil 
+Fuel Policy121), qui est pleinement applicable depuis le 1er janvier 2023. La Fossil Fuel Policy de 
+Credendo s’applique à l’ensemble de la chaîne d’approvisionnement en combustibles fossiles du 
+secteur de l’énergie.
+Cette politique repose sur la signature par la Belgique de la Déclaration de la COP26122 sur le 
+soutien public international à la transition vers l’énergie propre, qui exigeait que les nouvelles 
+aides publiques directes au secteur international de l’énergie basée sur les combustibles fossiles 
+et non réduite cessent dans l’année suivant la signature, sauf dans des circonstances limitées 
+et clairement définies compatibles avec une limite de réchauffement de 1,5°C et les objectifs de 
+l’Accord de Paris.
+L’engagement ci-dessus signifie qu’à partir du 1er janvier 2023, Credendo - Agence de crédit à 
+l’exportation fournira un soutien à l’exportation pour des projets dans le secteur international des 
+énergies fossiles, y compris l’exploration, la production, le transport, le stockage, le raffinage et la 
+distribution de charbon, de pétrole brut et de gaz naturel, ainsi que la production d’électricité non 
+régulée, uniquement dans des circonstances exceptionnelles. Credendo s’est toutefois engagé à 
+ne pas émettre de gaz à effet de serre d’ici 2050, tant pour sa stratégie d’investissement que pour 
+ses produits de financement et d’assurance à l’exportation123.
+Sur la base de la réponse du ministre Van Peteghem à plusieurs questions parlementaires124, 125 
+les données suivantes peuvent être déduites :
+• la part des investissements fossiles assurés par Credendo dans son portefeuille total est de 
+17,4 %, soit 3,4 milliards €126, sur la période de juillet 2016 à juillet 2021 pour le portefeuille 
+d’assurance-crédit classique de Credendo-ECA. 
+La ventilation supplémentaire des 3,4 milliards €, basée sur les montants contractuels des 
+transactions soumises au Conseil d’administration pour décision entre juillet 2016 et juillet 2021 :
+• Upstream : 3,17 % (613 millions €) ; 
+• Midstream : 12,11 % (2.340 millions €) ; 
+• Downstream : 2,1 % (404 millions €). 
+Il s’agit toutefois d’une estimation maximale car elle inclut des projets liés à des champs pétroliers 
+et gaziers déjà en production, des champs pétroliers dont le développement a déjà été approuvé 
+et des champs gaziers déjà en cours de développement avant 2022, pour lesquels la couverture 
+est encore autorisée, ainsi que de nouvelles centrales électriques basées sur le gaz naturel sans 
+captage, utilisation et stockage du carbone (la couverture est encore autorisée jusqu’en 2025).
+121 https://credendo.com/sites/default/files/media/files/2022-07/Public %20communication %20on %20the %20
+alignment %20of %20Credendos %20policy %20with %20the %20COP26 %20statement %20FIN.pdf
+122 https://webarchive.nationalarchives.gov.uk/ukgwa/20230313124743/https://ukcop26.org/statement-on-international-
+public-support-for-the-clean-energy-transition/
+123 https://credendo.com/en/knowledge-hub/practical-implementation-cop26-statement-credendo-0
+124 Réponse de Vincent Van Peteghem, Vice-Premier et Ministre des Finances, chargé de la Coordination de la lutte contre la 
+fraude, à la question écrite no. 950 de Dieter Vanbesien, concernant l’ “Impact du IPSCET sur Credendo”. 
+125 Réponse du Vice-Premier Ministre et Ministre des Finances, chargé de la Coordination de la lutte contre la fraude, 
+du 6 octobre 2022, à la question no. 1144 de Dieter Vanbesien du 10 août 2022 (N.) https://www.dekamer.be/QRVA/
+pdf/55/55K0094.pdf p.327 
+126 Il s’agit d’une estimation. 
+76
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 77---
+7.5.3.  BIO Invest
+BIO est l’institution belge de financement du développement, une société privée dont le capital est 
+détenu par l’État belge. Dans le cadre de sa lutte contre le changement climatique, BIO a décidé 
+de limiter ses investissements énergétiques aux projets d’énergies renouvelables et aux projets 
+contribuant à la transition vers une économie bas carbone. BIO ne financera pas les entreprises 
+qui produisent de l’énergie à partir de combustibles fossiles et de biocarburants de première 
+génération. Les seules exceptions sont (1) les projets qui produisent de l’énergie à base de gaz 
+grâce auxquels l’efficacité énergétique des centrales existantes est augmentée, et (2) la production 
+d’énergie basée sur le biogaz ou par extraction de méthane. Cette liste d’exclusions s’applique tant 
+au financement direct de projets qu’aux projets financés par des intermédiaires.
+Depuis 2021, la liste harmonisée d’exclusions de l’EDFI (European Development Finance 
+Institutions) pour les combustibles fossiles est appliquée127. BIO n’a jamais investi dans le charbon 
+et a officiellement cessé d’investir dans le pétrole en 2015. Par la déclaration de l’EDFI sur le 
+financement du climat et de l’énergie128, BIO vise à aligner tous les nouveaux investissements 
+sur les objectifs de l’Accord de Paris et BIO travaille à la réduction des émissions de CO2 de son 
+portefeuille d’investissement pour contribuer à la transition de l’économie mondiale vers la 
+neutralité carbone d’ici 2050.
+Tableau 22 BIO INVEST : Projets d’investissements dans les énergies fossiles  
+(décembre 2024)
+Nom du projet Pays Date Type 
+d’investissement Activité fossile
+Azito Energie129 Côte d’Ivoire 2011, 2012, 
+2019
+Prêt (direct et 
+indirect via fonds) Centrale au gaz
+Kivuwatt Ltd.130 Rwanda 2011 Prêt (direct) Extraction de méthane
+Takoradi (TICO) 
+Thermal power plant Ghana 2011 Prêt  
+(indirect via fonds)
+Centrale thermique avec 
+cogénération (CHP)
+Summit Meghnaghat 
+Power Company 
+Limited131
+Bangladesh 2014 Prêt (direct) Centrale thermique avec 
+cogénération (CHP)
+XpressGas Limited132 Ghana 2019, 2021
+Actions (indirect 
+via fonds) + lening 
+(direct)
+Transport, 
+commercialisation et 
+distribution LPG
+Baj Petrol Stations Ouganda 2020 Actions  
+(indirect via fonds)
+Transport, 
+commercialisation et 
+distribution combustible
+127 https://edfi-website-v1.s3.fr-par.scw.cloud/uploads/2021/02/EDFI-Fossil-Fuel-Exclusion-List-October-2020.pdf
+128 https://edfi-website-v1.s3.fr-par.scw.cloud/uploads/2020/11/1.-EDFI-Statement-on-Climate-and-Energy-Finance-Final.pdf
+129 Azito Energie | BIO (bio-invest.be)
+130 https://www.bio-invest.be/en/investments/kivuwatt-ltd 
+131 Summit Meghnaghat Power Company Ltd | BIO (bio-invest.be)
+132 https://www.bio-invest.be/en/investments/xpress-gas-limited
+77
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 78---
+Consolidation  
+des résultats
+Le Tableau 23 liste les subventions et écarts de taux recensées dans ce rapport jusqu’en 2022, 
+à l’exception des cas-limites et des produits à usage non-énergétique (feedstocks). Nous avons 
+visé à être autant que possible exhaustifs pour les subventions directes. Pour les subventions 
+indirectes, nous n’avons pu être exhaustifs et le choix des cas traités ne doit pas être interprété 
+comme un ordre de priorité. Il a davantage été dicté par les données disponibles et par la 
+complexité des différents cas, notamment pour le transport. Est également repris la dépense 
+fiscale pour les voiture de sociétés reprise comme un subside préjudiciable à l’environnement 
+(EHS).
+Les tableaux et graphiques présentent des chiffres pour les cinq dernières années. Pour certaines 
+rubriques, les données n’étant pas disponibles pour toute la période, des extrapolations ont été 
+faites133.
+Les subventions directes s’élèvent selon le benchmark 1 à 13.268 millions € pour l’année 2022, 
+soit 2,4 points de pourcentage de PIB . Elles étaient évaluées à 2,5 % du PIB en 2018, soit une 
+baisse de près de 0,1 point de pourcentage du PIB sur 5 ans. Cette baisse en pourcentage du PIB 
+n’est cependant pas une baisse en montants absolus car le montant des subventions est reparti 
+à la hausse en 2021, contrastant avec la tendance observée les quatre années précédentes. On 
+observe également une hausse en 2022 mais celle-ci est liée aux mesures temporaires prises en 
+réponse à la hausse du prix de l’énergie. Les tableaux et graphiques ci-après en donnent le détail 
+par instrument et par produit selon le benchmark 1.
+Les subventions au transport aérien et maritime international s’élèvent à 976 millions € en 2022, 
+soit 0,2 % du PIB. Pour le secteur aérien, le montant de l’exonération sur le kérosène est estimé à 
+688 millions € en 2022, en légère hausse par rapport à 2019 après une baisse due à l’impact de la 
+crise covid sur le secteur aérien. L’exonération pour le transport maritime est estimée en 2022 à 
+233 millions € pour le fioul lourd et à 55 millions € pour le diesel. Ces montants sont en baisse par 
+rapport à 2020 et 2021. Le niveau des subventions en 2022 reste cependant inférieur au niveau 
+de 2019.
+Les subventions indirectes s’élèvent à 0,03 % du PIB et le poste principal est constitué par 
+l’exonération de TVA sur les billets d’avion dont le niveau de 2022 reste sous le niveau de 2019 du 
+à l’impact de la crise Covid sur le secteur du transport aérien.
+Le régime fiscal des voitures de société est désormais repris comme subside préjudiciable à 
+l’environnement (EHS). Le montant est en croissance continue sur la période observée.
+Le Tableau 23 détaille l’ensemble des subventions et écarts de taux repris dans cet inventaire. 
+133 Il s’agit des postes repris sous la rubrique « subventions sur consommation intermédiaires » ainsi que pour les voitures 
+de sociétés et pour l’exonération de TVA sur les billets d’avion. Pour les autres postes d’exonérations portant sur la 
+consommation intermédiaire, les méthodes d’extrapolation ont été mentionnées ci-dessus (voir p 47). Pour les voitures 
+de société, l’extrapolation à partir de 2016 est faite sur base d’un indice des prix des voitures (fourni par Stabel) et de 
+l’évolution du nombre de véhicules. Le montant de l’exonération de TVA sur les billets d’avion est extrapolé sur 2016-2021 
+sur base de l’évolution du nombre de passagers. 
+8
+78
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 79---
+Les subventions octroyées sous forme de transferts s’élèvent à 757 millions € en 2022 et 
+connaissent un pic suite à l’augmentation du coût du tarif social. Il s’agit de transferts aux 
+particuliers et ces subventions ont des objectifs sociaux. Certaines de ces subventions ont connu 
+un élargissement dans le cadre des mesures de soutien à la crise énergétique (octroi du tarif 
+social aux bénéficiaires BIM) €). Le total de ces subventions temporaires s’élève à 1.176 millions € 
+en 2022.
+Il est à noter que, dans le Tableau 23, les subventions relatives à l’électricité ne sont pas reprises 
+pour leur intégralité, mais seulement à concurrence de la proportion des énergies fossiles dans le 
+mix énergétique, estimée à 31,6 % en 2022134. Le montant des subventions octroyées sous forme 
+de transferts diffère donc de celui indiqué au Tableau 1 où les subventions relatives à l’électricité 
+sont reprises pour leur intégralité.
+Les cartes carburant sont la seule subvention directe recensée qui est octroyée par les impôts sur 
+les revenus. Le montant estimé est de 794 millions € en 2022 et il s’inscrit en hausse sur les cinq 
+dernières années, non seulement du fait du nombre croissant de voitures de société. En 2021 et 
+2022, ce montant estimé est sensiblement plus élevé du fait de la hausse continue du nombre de 
+voitures de sociétés mais surtout de la hausse très importante du prix des carburants.
+Pour la TVA, la seule subvention directe à recenser est le taux réduit appliqué sur la 
+consommation finale de charbon et le montant est dérisoire, du fait de la très faible utilisation de 
+ce vecteur énergétique. 
+Les accises sont clairement l’instrument majeur utilisé pour octroyer les subventions aux énergies 
+fossiles. Les exonérations et taux réduits d’accises sont évalués à 10.536 millions € en 2022 et 
+sont en diminution par rapport à 2021 suite à une baisse des volumes consommés. L’alignement 
+des taux d’accises entre le diesel et l’essence qui est à l’origine de la baisse observée depuis 2015 
+a été achevé en 2019. La période 2020-2021 est marquée par le COVID et la reprise qui a suivi. 
+En 2022, on constate les conséquences de l’éclatement du conflit en Ukraine.
+Le Graphique 18 classe les subventions directes selon l’instrument utilisé.
+Comme pour toutes les dépenses fiscales, le montant estimé est fonction du point de référence 
+retenu, le benchmark. Comme indiqué ci-dessus, pour le benchmark 1, nous avons considéré qu’il 
+n’y avait pas d’arguments justifiant des écarts de taux de taxation entre produits énergétiques. 
+Nous avons alors retenu comme point de référence le taux de taxation de l’essence sans plomb 
+et réalisé la comparaison des taux en exprimant ceux-ci en unité énergétique. Ce benchmark se 
+justifie dans le cadre d’une comparaison des taux entre tous les vecteurs énergétiques au niveau 
+national. .Ce benchmark n’est pas utilisé pour le transport aérien ou maritime pour lesquels un 
+taux figurant dans la Directive européenne sur la taxation des produits énergétiques a été retenu 
+étant donné le caractère international des ces activités. C’est pour cette raison que le transport 
+aérien et maritime international fait l’objet d’un classement spécifique. 
+134  Source: OECD (2021 b). Le taux de 2022 n’étant pas connu au moment d’écrire ces lignes, c’est le taux 2021 qui a été utilisé.
+79
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 80---
+Tableau 23 Détail des subventions aux énergies fossiles  
+(en millions €) – Benchmark 1
+2018 2019 2020 2021 2022
+Subventions directes
+Transferts - mesures permanentes 156,7 178,2 165,6 173,1 756,8
+Tarif social - Gaz naturel 74,0 89,0 79,0 95,3 428,2
+Tarif social - Electricité (*) 33,8 36,7 35,2 28,0 241,5
+Fonds CPAS de support d’accès à l’énergie - 
+gaz naturel 22,0 25,0 25,1 25,2 24,1
+Fonds CPAS de support d’accès à l’énergie - 
+électricité (*) 10,0 10,9 11,7 10,8 42,0
+Fonds Mazout 16,9 16,6 14,6 13,8 21,1
+Transferts - mesures temporaires       215,8 1.175,9
+Tarif social élargi - gaz naturel (BIM)       154,8 717,2
+Tarif social élargi - électricité (BIM) (*)       38,3 458,7
+Prime unique de 80€ (*)       22,7 0,0
+Impôts sur le revenu 472,4 512,8 521,9 618,9 793,9
+Cartes carburant 472,4 512,8 521,9 618,9 793,9
+TVA 3,6 2,9 2,4 2,4 5,1
+Taux réduit sur le charbon 3,6 2,9 2,4 2,4 5,1
+Accises 11.045,7 10.786,9 10.661,3 11.019,0 10.536,0
+Ecarts de taux entre produits
+Gasoil 696,0 429,7 252,0 368,9 382,4
+Kérosène 0,0 0,0 0,0 0,0 0,0
+Fioul lourd 26,0 20,1 52,8 16,9 20,1
+LPG 6,7 5,4 6,0 9,7 9,2
+Gaz naturel 4.848,1 4.741,5 4.538,0 5.124,3 4.854,2
+Houille et coke 10,6 57,4 0,3 0,2 0,7
+Sous-total 5.587,4 5.254,1 4.849,2 5.520,1 5.266,6
+80
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 81---
+2018 2019 2020 2021 2022
+Taux particuliers pour un même produit
+Mazout de chauffage 2.266,0 2.129,8 2.263,3 2.096,5 1.856,8
+Gasoil - utilisations industrielles et 
+commerciales 386,3 415,6 383,7 375,0 412,5
+Remboursement de diesel professionnel 668,2 939,3 1.220,5 905,5 742,4
+Kérosène utilisé comme combustible 37,0 34,9 32,5 41,5 36,9
+Kérosène utilisé comme carburant 4,6 3,4 2,3 2,4 1,3
+LPG utilisé comme combustible 120,3 108,6 138,8 140,0 120,3
+Gaz naturel au taux réduit 1.250,2 1.091,0 1.031,1 1.190,6 1.295,2
+Houille et coke- exonération pour les 
+ménages 50,6 27,8 20,8 22,1 16,5
+Sous-total 4.783,2 4.750,4 5.093,0 4.773,7 4.482,0
+Subventions sur consommation intermédiaire
+Fabrication, développement, essais et 
+entretien aéronefs et navires 28,8 36,9 10,0 7,5 9,0
+Transport ferroviaire 23,0 17,7 15,6 16,0 15,7
+Navigation intérieure 93,1 86,6 84,3 86,1 90,7
+Activités de dragage 70,3 75,0 51,5 45,9 51,6
+Travaux agricoles et horticoles, pisciculture 
+et sylviculture 459,9 566,3 557,6 569,8 620,5
+Sous-total 675,1 782,4 719,1 725,3 787,4
+Total des subventions directes 11.678,4 11.480,9 11.351,2 12.029,2 13.267,8
+En % PIB 2,5 % 2,4 % 2,5 % 2,4 % 2,4 %
+Subventions au transport aérien et maritime international
+Exemption accises kérosène – aviation 673,0 677,0 471,8 594,2 687,7
+Exemption accises fioul lourd -  
+transport maritime international 304,3 268,1 188,1 241,9 232,8
+Exemption accises diesel -  
+transport maritime international 49,8 44,6 52,1 57,6 55,2
+Total transport aérien et maritime 
+international 1.027,0 989,6 712,0 893,7 975,7
+En % PIB 0,2 % 0,2 % 0,2 % 0,2 % 0,2 %
+81
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 82---
+2018 2019 2020 2021 2022
+Subventions indirectes
+TVA - exonération billets d’avion 222,2 228,3 61,9 86,8 180,2
+Total des subventions indirectes 222,2 228,3 61,9 86,8 180,2
+En % PIB 0,05 % 0,05 % 0,01 % 0,02 % 0,03 %
+Subventions préjudiciables à l’environnement (EHS)
+Voitures de sociétés 2.627,2 2.780,3 3.226,3 3.307,5 3.434,2
+Total des subventions préjudiciables à 
+l’environnement 2.627,2 2.780,3 3.226,3 3.307,5 3.434,2
+En % PIB 0,5 % 0,6 % 0,6 % 0,6 % 0,6 %
+(*) Tarif social électricité, tarif social élargi électricité, fonds CPAS de support à l’énergie – électricité et forfait unique de 80 € : prise en 
+compte du production mix.
+Graphique 18 Subventions directes aux énergies fossiles, par instrument  
+(2018-2022, en millions €) – Benchmark 1
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+12.000
+2018 2019 2020 2021 2022
+Millions €
+Transferts - mesures permanentes Transferts - mesures temporaires
+Impôts sur le revenu TVA
+Accises 
+82
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 83---
+Graphique 19 Subventions directes aux énergies fossiles, accises,  
+par catégorie de subventions (2018-2022, en millions €) – Benchmark 1
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+2018 2019 2020 2021 2022
+Millions €
+Subventions sur consommation intermédiaire
+Ecarts de taux entre produits
+Taux particuliers pour un même produit
+Le Graphique 19 détaille les subventions « accises » en plusieurs rubriques. 
+• La première provient des écarts de taux entre produits. Le montant correspondant 
+est de 5.267 millions € en 2022, en baisse par rapport à 2021. La diminution observée 
+jusqu’en 2019 s’explique par la hausse des accises sur le diesel qui ont convergé vers celles 
+appliquées à l’essence sans plomb, qui constituent ici le point de référence135. La part plus 
+importante des subventions provenant des écarts de taux entre produits provient toutefois 
+de la faible taxation du gaz naturel. Depuis 2020, le montant du subside est principalement 
+influencé par les quantités consommées que ce soit pour le gaz naturel ou le gasoil. Celles-ci 
+sont en forte baisse en 2020 et 2022 et en forte hausse en 2021 suite à la crise du Covid et 
+la reprise qui l’a suivie et également à l’éclatement du conflit en Ukraine.
+• Les taux particuliers pour un même produit font l’objet de la deuxième rubrique136. 
+Le montant de cette catégorie de subventions est estimé à 4.482 millions € en 2022 
+et s’inscrit lui en baisse par rapport à 2020 et 2021. Les trois principaux postes sont 
+l’exonération d’accises sur le mazout de chauffage, le taux réduit pour le gaz naturel et les 
+remboursements de diesel professionnel.
+• Une troisième catégorie reprend les écarts de taux sur la consommation intermédiaire qui ne 
+sont pas reprises dans l’Inventaire fédéral des dépenses fiscales et dont l’estimation repose 
+donc sur d’autres sources. Le montant de ces subventions est ainsi estimé à 787 millions 
+€ en 2022. L’agriculture (et autres activités) est le poste principal, suivi par la navigation 
+intérieure.
+135 A noter toutefois que l’égalisation n’est pas réalisée en unité énergétique (Tep) mais bien en volume, ce qui laisse 
+subsister un montant de subvention au diesel en fin de période.
+136 Ces subventions sont recensées dans l’Inventaire fédéral des dépenses fiscales mais le montant de la subvention n’est 
+pas le même que dans ce rapport, du fait de points de référence différents.
+83
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 84---
+Les écarts de taux sur les accises sont catégorisés par produit au Graphique 20. L’essentiel de ces 
+écarts porte sur le diesel et sur le gaz naturel. 
+Pour le diesel, une part provient de l’écart de taxation qui subsiste (en unité énergétique) 
+par rapport à l’essence sans plomb (benchmark 1). L’essentiel provient toutefois des régimes 
+particuliers dont bénéficient le mazout de chauffage, le diesel professionnel et le secteur de 
+l’agriculture et de la sylviculture. Pour le gaz naturel, la différence provient de l’écart de taux, par 
+rapport au point de référence de l’essence sans plomb (benchmark 1), et du taux réduit appliqué 
+à ce vecteur d’énergie dans le cadre d’accords de branche. A titre de comparaison, les écarts de 
+taux sont aussi comparés plus haut dans ce document (voir 4 et 5) à un benchmark dénommé 
+benchmark 2 qui tient compte de l’usage fait des produits et qui fait donc la différence entre 
+les carburants et les autres usages repris sous la dénomination générale de combustibles. Les 
+estimations des écarts de taux sur base du benchmark 2 ne sont pas reprises dans cette section 
+car les données ne sont pas disponibles sur une période de 5 ans.
+L’ensemble des subventions peut être réparti entre les grands secteurs que sont le transport, 
+l’industrie, le bâtiment et le secteur de l’agriculture et autres activités. Le Graphique 21 donne 
+le résultat de cette ventilation pour l’année 2022 d’après le benchmark 1. Il reprend tant les 
+subventions directes que les subventions indirectes ainsi que les voitures de sociétés reprises 
+comme subvention préjudiciable à l’environnement (EHS).
+Le secteur du transport bénéficie de 2.097 millions € de subventions directes, soit 17,4 % du total 
+de celles-ci. Les subventions indirectes dont bénéficie ce secteur s’élèvent à 180 millions € et les 
+subventions préjudiciables à l’environnement (EHS) à 3.434 millions. Les subventions au transport 
+aérien et maritime international s’élèvent à 976 millions €. Les autres secteurs ne bénéficient que 
+de subventions directes, l’industrie pour 3.926 millions € (32,5 % des subventions directes), les 
+bâtiments pour 4.913 millions € (40,7 %), l’agriculture (et autres activités) pour 1.136 millions € 
+(9,4 %) Ces montants et ratios doivent être mis en rapport avec l’importance relative des différents 
+secteurs ou activités concernées. Il faut ainsi se rappeler que l’agriculture ne représente, en 2022, 
+que 0,7 % de la valeur ajoutée produite par l’ensemble de l’économie.
+84
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 85---
+Graphique 20 Subventions aux énergies fossiles - accises par produit  
+(2018-2022, en millions €) – Benchmark 1
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+12.000
+2018 2019 2020 2021 2022
+Millions €
+Kérosène Fioul  lourd LPG Gaz naturel Houille et cokeEssence Gasoil 
+Graphique 21  Répartition des subventions par secteur  
+(2022, en millions €) – Benchmark 1
+2.097
+180
+3.434
+3.9264913
+1.176
+1.136
+976
+Transport (direct)
+Transport (indirect)
+Transport (EHS)
+Industrie
+Bâtiments (mesures permanentes)
+Bâtiments (mesures temporaires)
+Agriculture et autres activités
+Transport aérien et maritime international
+Le Tableau 24 donne le détail des principaux postes, pour chacun de ces secteurs, pour l’année 
+2022.
+85
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 86---
+Tableau 24 Détail des principaux postes de subventions par secteur (2022) – Benchmark 1
+millions €  % sous-total
+Transport
+Cartes carburant 793,9 37,9 %
+Ecart de taux de base entre produits 401,4 19,1 %
+Remboursements de diesel professionnel 742,4 35,4 %
+Exonération navigation intérieure 90,7 4,3 %
+Exonération dragage 51,6 2,5 %
+Autres 17,0 0,8 %
+Sous-total subventions directes 2.097,0 100,0 %
+Exonération accises kérosène aviation 687,7 70,5 %
+Exonération accises navigation maritime 288,0 29,5 %
+Sous-total subventions au transport aérien et maritime international 975,7 100,0 %
+TVA - Exonération des billets d’avion 180,2 100,0 %
+Sous-total subventions indirectes 180,2 100,0 %
+Voitures de sociétés 3.434,2 100,0 %
+Sous-total subventions préjudiciables à l’environnement (EHS) 3.434,2 100,0 %
+Total Transport 6.687  
+Industrie
+Ecart de taux de base entre produits 2.052,5 52,3 %
+Taux réduit gasoil 412,5 10,5 %
+Taux réduit gaz naturel 1.295,2 33,0 %
+Autres 166,2 4,2 %
+Total Industrie 3.926,4 100,0 %
+Bâtiments
+Transferts aux particuliers (tarifs sociaux e.a) (*) 756,8 15,4 %
+Ecart de taux de base entre produits 2.524,6 51,4 %
+Exonération mazout de chauffage 1.609,8 32,8 %
+Autres 21,7 0,4 %
+Total Bâtiments - mesures permanentes 4.912,9 100,0 %
+Tarif social élargi - gaz naturel (BIM) 717,2 61,0 %
+Tarif social élargi - électricité (BIM) (*) 458,7 39,0 %
+Total Bâtiments - mesures temporaires 1.175,9 100,0 %
+86
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 87---
+Agriculture et autres activités
+Ecart de taux de base entre produits 268,0 23,6 %
+Exonération pour tracteurs tracteurs agricoles, horticoles et forestiers 247,0 21,8 %
+Exonérations sur consommation intermédiaire 620,5 54,6 %
+Total Agriculture et autres activités 1.135,5 100,0 %
+Total des subventions directes 13.247,7  
+(*) Tarif social électricité, tarif social élargi électricité et fonds CPAS de support à l’énergie – électricité prise en compte du production 
+mix.
+(**) 0,1 % des subventions directes n’ont pas pu être attribuées à un secteur spécifique, il y a donc une différence entre le total du 
+tableau par secteur et le total des subventions directes.
+Dans le secteur du transport, les deux postes les plus importants des subventions directes sont 
+les cartes carburant des voitures de sociétés et le remboursement du diesel professionnel avec 
+respectivement 37,9 % et 35,4 % du total des subventions directes dont ce secteur bénéficie. 
+Vient ensuite l’exonération d’accises sur le kérosène dont bénéficie l’aviation. Les exonérations 
+sectorielles ne forment qu’une faible part du total des subventions, mais peuvent être 
+relativement importantes par rapport à l’activité de ces secteurs. L’impact des écarts de taux entre 
+produits est ici relativement limité vu le faible écart de taxation entre essence et diesel qui sont les 
+deux principaux carburants concernés. 
+Dans l’industrie, plus de la moitié (56 %) des subventions directes proviennent des écarts de taux 
+entre produits et plus particulièrement de la faible taxation du gaz naturel. Le taux réduit appliqué 
+à celui-ci pour certaines entreprises forme le deuxième poste en importance. Notons également 
+que les subventions liées aux usages non énergétiques (feedstocks), qui ne sont pas incluses 
+dans le tableau ci-dessus, représentent un montant nettement supérieur à toutes les autres 
+subventions accordées à l’industrie.
+Dans le secteur des bâtiments, les deux postes principaux sont les subventions provenant des 
+écarts de taux entre produits et l’exonération du mazout de chauffage. Le premier concerne 
+essentiellement le gaz naturel. L’année 2022 se caractérise également par une forte augmentation 
+des transferts aux particuliers, constitués principalement par les tarifs sociaux sur le gaz et 
+l’électricité.
+Enfin, deux postes sont à mentionner pour l’agriculture et autres activités. La sous-taxation du gaz 
+naturel (écarts de taux entre produits) représente près de 23,6 % du total et les régimes sectoriels 
+76,4 %. 
+87
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 88---
+Conclusion
+Pour le recensement des subventions opéré dans ce Rapport, le critère d’identification est le fait 
+de subventionner, directement ou indirectement, le recours aux énergies fossiles.
+Certains constats posés lors des éditions précédentes de l’Inventaire fédéral des subsides aux 
+énergies fossiles restent d’actualité. Il en est ainsi, d’une part, du problème de transparence. 
+La plus grande part des subventions sont en effet octroyées par la voie fiscale. Or, les écarts de 
+taux ne sont pas directement identifiables, à l’inverse des dépenses budgétaires, car les recettes 
+fiscales sont exprimées nettes des pertes en recettes provenant des dépenses fiscales. D’autre 
+part, une part substantielle des subventions octroyées par la voie fiscale n’est pas quantifiée 
+dans l’Inventaire fédéral des dépenses fiscales. 
+La contribution fédérale137 à la mise à jour du Plan national Energie Climat, dont la remise à la 
+Commission européenne était prévue pour le 30 mai 2024, réaffirme la nécessité et l’urgence 
+du phasing out des subsides aux énergies fossiles, sous la forme d’une trajectoire claire de 
+disparition progressive de ces subsides. 
+Lors des discussions portant sur le phasing out de ces subventions, il y aura lieu de tenir 
+compte des objectifs particuliers de certaines subventions, notamment des objectifs sociaux. 
+Leur réforme doit concilier la suppression des effets dommageables à l’environnement avec 
+l’atteinte par d’autres moyens, non néfastes à l’environnement, des objectifs particuliers 
+identifiés. Les aspects de transition juste sont en effet indissociables des discussions portant sur 
+les pistes de réforme. 
+137 Plan fédéral Energie-Climat, 2024, https://climat.be/doc/pfec-2024-mise-a-jour-definitive.pdf
+88
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 89---
+Bibliographie
+Bachus K. (2016), Vergroening van het belastingstelsel in Vlaanderen, studie uitgevoerd in opdracht van 
+de Vlaamse Milieumaatschappij. MIRA. Leuven: HIVA-KU Leuven.
+Bureau fédéral du Plan (2019), Quelle priorité pour un développement durable ? Rapport sur le 
+développement durable 2019. État des lieux et évaluation. 
+dauBresse c., hoornaert B., francKx l., laine B et Van steenBergen a. (2018), Description et utilisation du 
+modèle PLANET, Bureau fédéral du Plan, WP 6 DC2019. 
+castaigne M., cornelis e., de Witte a., Macharis c., Pauly, x., raMe effers, K., toint, Ph. Wets, g. (2009), 
+Professional mobility and company car ownership, « Romoco » final report, Belgian Science Policy, 
+Research Programme Science for a Sustainable Development, Brussels; 126 p.
+ce delft (2011), Blends in beeld. Een analysis van de bunkerolieketen. 
+ce delft (2019), Taxes in the field of aviation and their impact, Final Report.
+cleMents B. e.a. (2013), Energy Subsidy Reform: Lessons and Implications. Washington: International 
+Monetary Fund. 
+chaMBre des rePrésentants (2021), Inventaire 2020 des exonérations, abattements et réductions qui 
+influencent les recettes de l’État, Doc 55 2291/002. 
+chaMBre des rePrésentants (2022), Inventaire 2021 des exonérations, abattements et réductions qui 
+influencent les recettes de l’État, Doc 55 2931/008. 
+chaMBre des rePrésentants (2023), Inventaire 2022 des exonérations, abattements et réductions qui 
+influencent les recettes de l’État, Doc 55 3646/002. 
+chaMBre des rePrésentants (2025), Inventaire 2023 des exonérations, abattements et réductions qui 
+influencent les recettes de l’État 
+cliMact (2019), Fossil fuel subsidies: hidden impediments on Belgian climate objectives.
+coady d., Parry i., sears l., shang B. (2015), How large are global energy subsidies, Working Paper 
+15/105, Washington DC: International Monetary Fund.
+conseil suPérieur des finances (2009), La politique fiscale et l’environnement, SPF Finances, Bruxelles. 
+https://www.conseilsuperieurdesfinances.be/sites/default/files/public/publications/csf_
+fisc_2009_09.pdf 
+conseil suPérieur des finances (2020), Réduction des prélèvements sur le travail et possibilités de 
+financement, SPF Finances, Bruxelles. - https://www.conseilsuperieurdesfinances.be/fr/publication/
+avis-reduction-des-prelevements-sur-le-travail-et-les-possibilites-de-financement 
+coPenhagen econoMics (2009), Company car taxation – subsidies, welfare, and environment. Taxation 
+Paper No. 22, Directorate – General for Taxation and Customs Union. 
+coMMission de régulation de l’électricité et du gaz (2019), Étude sur le poids de la facture d’électricité et de 
+gaz naturel dans le budget des ménages belges en 2018. Étude (F)2012.
+Comité de monitoring, 2022, actualisation 2022, estimation 2023, estimation pluriannuelle 
+2024-2027, 14 juillet 2022, SPF Bosa, https://bosa.belgium.be/sites/default/files/content/
+documents/220714 %20rapport %20Monitoringcomit %C3 %A9 %20- %202022-2027 %20- %20
+DEFINITIEF.pdf 
+9
+89
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 90---
+Comité de monitoring, 2022, actualisation 2022-2023 sur base du budget économique de septembre 
+2022, SPF Bosa, https://bosa.belgium.be/sites/default/files/content/documents/220714 %20
+rapport %20Monitoringcomit %C3 %A9 %20- %202022-2027 %20- %20DEFINITIEF.pdf 
+CREG (2019), Etude sur le poids de facture d’électricité et de gaz naturel dans le budget 
+des ménages belges en 2018, 14 novembre, https://www.creg.be/sites/default/files/assets/
+Publications/Studies/F2012FR.pdf
+elia (2019), Étude de l’adéquation et estimation du besoin de flexibilité du système électrique belge. 
+Période 2020-2030.
+euroPean coMMission (2019), Taxes in the Field of Aviation and Their impact: final report, Publications 
+Office of the European Union, Luxembourg. https://op.europa.eu/en/publication-detail/-/
+publication/0b1c6cdd-88d3-11e9-9369-01aa75ed71a1 
+euroPean coMMission (2020), Communication to the European Parliament and the Council. An action 
+plan for fair and simple taxation supporting the recovery strategy. 2020_tax_package_tax_action_plan_
+en.pdf (europa.eu)
+euroPean coMMission (2021), Directorate-General for Energy, Lee, L., Rademaekers, K., Bovy, P., et 
+al., Study on energy subsidies and other government interventions in the European Union : final report, 
+Publications Office, 2021.
+euroPean coMMission, taxes in euroPe dataBase TEDB - “Taxes in Europe” database (europa.eu)
+eurostat (2019), Energy balance guide Methodology guide for the construction of energy 
+balances & Operational guide or the energy balance builder tool, https://ec.europa.eu/eurostat/
+documents/38154/4956218/ENERGY-BALANCE-GUIDE.pdf/de76d0d2-8b17-b47c-f6f5-
+415bd09b7750?t=1632139948586
+fondation roi Baudouin (2024), Baromètre de la précarité énergétique, 10ème édition.
+francKx l. (2022), Ex ante evaluation of the reform of company car taxation in Belgium, in : Working 
+paper n° 6-22, Bureau fédéral du Plan. 
+harding M. (2014), Personal Tax Treatment of Company Cars and Commuting Expenses: Estimating the 
+Fiscal and Environmental Costs, OECD Taxation Working Papers, No. 20, OECD Publishing, Paris.
+heMMings B., Pache e., forsyth P., Mundaca g., strand J. and Kågeson, P. Taxing aviation fuel : back to 
+the future?, Transport and Environment 2020. https://www.transportenvironment.org/uploads/
+files/2020_06_Study_for_TE_Taxing_aviation_fuel_final.pdf
+international institute for sustainaBle deVeloPMent (2009), Measuring Energy Subsidies using the price-gap 
+approach. What does it leave out?
+laine B. et Van steenBergen a. (2016), The fiscal treatment of company cars in Belgium: effects on car 
+demand, travel behaviour and external costs. In: Working paper. No 3-16, Bureau fédéral du Plan. 
+laine B. et Van steenBergen a. (2016), Commuting subsidies in Belgium. Implementation in the PLANET 
+model. In: Working Paper. No 11-16, Bureau fédéral du Plan.
+laine B. et Van steenBergen a. (2017), Tax Expenditure and the Cost of Labour Taxation: An application to 
+company car taxation. In: Working paper. No 7-17, Bureau fédéral du Plan.
+May x. (2017), L’épineuse question du nombre de voitures de société en Belgique. In: Brussels Studies. 
+Fact Sheets, No 113. 
+90
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 91---
+May x. (2019), Les voitures de société. Diagnostics et enjeux d’un régime fiscal, In: Brussels Studies, Notes 
+de synthèse. 
+ocde (2020), Études économiques de l’OCDE : Belgique, OECD Publishing, Paris. 
+oecd (2021a), Environmental Performance Review: Belgium, OECD Publishing, Paris.
+oecd (2021b), Companion to the Inventory of Support Measures For Fossil Fuels, OECD Publishing, 
+Paris.
+oecd (2022), Why governments should target support amidst high energy prices. OECD Policy 
+Responses on the Impacts of the War in Ukraine. 
+oecd (2024a), Taxing wages 2024, OECD Publishing, Paris.
+oecd (2024b), Inventory of support measures for fossil fuels, OECD Publishing, Paris. 
+onss (2025), Monitoring ONSS sur le verdissement du parc des voitures de fonction (travailleurs 
+salariés), https://www.onss.be/stats/monitoring-sur-le-verdissement-du-parc-des-voitures-de-
+fonction
+Parry i. (2014), Getting Energy Prices Right: From Principle to Practice. Washington: International 
+Monetary Fund.
+Plan national énergie climat 2021-2030 https://www.plannationalenergieclimat.be/fr
+Plan fédéral énergie et climat, 2024, https://climat.be/doc/pfec-2024-mise-a-jour-definitive.pdf
+Princen s. (2017), Taxation of Company Cars in Belgium – Room to Reduce their Favourable Treatment. 
+In: European Economy Economic Brief. European Commission. 05/2017. No 26. 
+PWc (2018), Détermination du mécanisme de rémunération de la capacité belge et préparation du cadre 
+législatif. 
+soMo, Oil Change International en Milieudefensie (2023), Rechtvaardig afbouwen van fossiele 
+subsidies. Minder CO2 en meer inkomsten. 
+sPf MoBilité (2023), Le nombre de voitures de sociétés en Belgique en 2024, https://mobilit.belgium.be/
+fr/publications/les-voitures-de-societe-en-belgique-en-2024
+transPort and enVironMent (2019), EU Shipping’s € 24 billion/year fossil tax holidays Maritime ETS 
+is urgent to cut on shipping’s fuel subsidies, https://www.transportenvironment.org/wp-content/
+uploads/2021/07/2019_09_EU_Shipping_24bn_fossil_tax_holiday.pdf 
+transPort and enVironMent (2020), Kerosene taxation. How to implement it in Europe today?
+transPort and enVironMent (2023), Aviation’s tax gap, https://www.transportenvironment.org/wp-
+content/uploads/2023/07/tax_gap_report_July_2023.pdf 
+TransporT and MobiliTy leuven (2022), Proposal for a green tax reform, https://finances.belgium.be/fr/
+statistiques_et_analyses/analyses/publications 
+Wto (1994), Agreement on Subsidies and Countervailing Measures, Geneva: World Trade 
+Organization.
+91
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 92---
+Liste  
+des graphiques10
+Graphique 1 Tarif social et tarif moyen commercial (all in)  
+(2019-2024, en c€/kWh) 11
+Graphique 2 Evolution du nombre de bénéficiaires du tarif social fédéral  
+gaz et électricité (janvier 2022 – novembre 2024)  
+suite à l’élargissement temporaire à la catégorie BIM 13
+Graphique 3 Répartition par catégorie de bénéficiaires (2023) 20
+Graphique 4 Répartition par type de combustible (2023) 21
+Graphique 5 Taux d’accises (en € par tonne équivalent pétrole, 2023) 32
+Graphique 6 Subventions produits énergétiques : écarts de taux entre produits  
+(en millions €) – Benchmark 1 35
+Graphique 7 Subventions sur les produits énergétiques :  
+taux réduits et exemptions (en millions €) – Benchmark 1 37
+Graphique 8 Mazout de chauffage : évolution des volumes (en 1000l) 38
+Graphique 9 Mazout de chauffage: décomposition de la croissance  
+(volume et écart de taux) 39
+Graphique 10 Tarification du diesel professionnel (en €/1000l) 41
+Graphique 11 Prix du diesel routier – Belgique et pays limitrophes (2024, en €/1000l) 43
+Graphique 12 Exonération d’accises sur la consommation intermédiaire, 
+ résultats par produits énergétiques (2022, en millions €) 51
+Graphique 13 % de détention d’une voiture de société et ATN moyen salariés  
+et dirigeants d’entreprises par décile de revenus 62
+Graphique 14 Distribution du revenu imposable et des voitures de société 63
+Graphique 15 % de détenteurs de voitures de sociétés, par classe d’âge 63
+Graphique 16 GPL et Naphta utilisés à des fin non-énergétiques  
+(en kilotonne d’équivalent pétrole, 2005-2023)  68
+Graphique 17 SFPI Répartition sectorielle 74
+Graphique 18 Subventions directes aux énergies fossiles, par instrument  
+(2018-2022, en millions €) – Benchmark 1 82
+Graphique 19 Subventions directes aux énergies fossiles, accises, par catégorie  
+de subventions (2018-2022, en millions €) – Benchmark 1 83
+Graphique 20 Subventions aux énergies fossiles - accises par produit  
+(2018-2022, en millions €) – Benchmark 1 85
+Graphique 21  Répartition des subventions par secteur  
+(2022, en millions €) – Benchmark 1 85
+Graphique 22 Subvention des énergies fossiles : l’approche par les prix 97
+Graphique 23 Fixation de l’avantage de toute nature du détenteur  
+d’une voiture de société - coefficient CO2  113
+92
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 93---
+Liste  
+des tableaux11
+Tableau 1 Les subventions directes (en millions €) 8
+Tableau 2 Coût estimé par année de consommation de l’extension  
+du tarif social à la clientèle BIM (en millions €) 10
+Tableau 3 Montant des tarifs sociaux – 2024Q4 (en c€/kWh) 11
+Tableau 4 Bénéficiaires du tarif social – Électricité 12
+Tableau 5 Bénéficiaires du tarif social – Gaz 12
+Tableau 6 Précarité énergétique et tarif social (2024)  14
+Tableau 7 Nombre de bénéficiaires du Fonds social Chauffage  
+(données 2019-2023) 20
+Tableau 8 Subvention provenant des cartes carburant –  
+mise à jour méthode Climact  25
+Tableau 9 Taux réduit de TVA sur la livraison de combustibles solides  
+(en millions €) 27
+Tableau 10 Taux de TVA applicable au transport international de passagers  
+(situation au 1er janvier 2024, en %) 29
+Tableau 11 Taux de TVA applicable aux vols passagers intérieurs  
+(situation au 1er janvier 2024, en %) 30
+Tableau 12 Ecarts de taux entre produits (en millions €)  34
+Tableau 13 Différence de taux pour un même produit (en millions €) 36
+Tableau 14 Dépenses de mazout par ménage et nombre de ménages,  
+par quartile 40
+Tableau 15 Exemptions d’accises sur la consommation intermédiaire 48
+Tableau 16 Subvention sur les consommations intermédiaires  
+(2018-2022, en millions €) 50
+93
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 94---
+Tableau 17 Estimation du montant de l’exonération d’accises sur le kérosène  
+pour l’aviation (en millions €) 54
+Tableau 18 Estimation du montant de l’exonération d’accises  
+pour la navigation maritime (en millions €) 57
+Tableau 19 Nombre de voitures de sociétés sur base des chiffres  
+du SPF Mobilité et du SPF Finances (moyenne annuelle, en milliers) 60
+Tableau 20 Estimation de la dépense fiscale pour le régime  
+des voitures de sociétés (extrapolations 2024, en millions €) 61
+Tableau 21 Produits fossiles à usage non-énergétique dans consommation finale 
+d’énergie (2018-2023, en kilotonne d’équivalent pétrole) 67
+Tableau 22 BIO INVEST : Projets d’investissements dans les énergies fossiles  
+(décembre 2024) 77
+Tableau 23 Détail des subventions aux énergies fossiles  
+(en millions €) – Benchmark 1 80
+Tableau 24 Détail des principaux postes de subventions par secteur  
+(2022) – Benchmark 1 86
+Tableau 25 Accises exprimées en TEP et GJ (2023) 103
+Tableau 26 Les taux de subvention sur base des équivalents énergétiques :  
+benchmark 1 105
+Tableau 27 Les taux de subvention sur base des équivalents énergétiques :  
+benchmark 2 106
+Tableau 28 Imposition effective des salaires : taux moyen et marginal (2023) 108
+Tableau 29 Subvention des voitures de sociétés (études externes) 118
+Tableau 30 Régime fiscal comparé des salaires et des voitures de société  127
+94
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 95---
+Liste  
+des abréviations
+ASA  Air Service Agreement
+ATN Avantage de toute nature
+BIM Bénéficiaires de l’intervention majorée de l’assurance maladie-invalidité
+BRUGEL  Commission de régulation bruxelloise pour les marchés du gaz et de l’électricité
+CORSIA Carbon Offsetting and Reduction Scheme for International Aviation
+CREG  Commission de Régulation du Gaz et de l’Électricité
+CRM  Capacity Remuneration Mechanism
+CSF Conseil supérieur des Finances
+CSR Corporate Social Responsibility 
+CWaPE  Commission wallonne pour l’Énergie
+EBM Enquête sur les budgets des ménages
+EHS  Environmentally Harmful Subsidies/ Subsides préjudiciables à l’environnement
+EU ETS EU Emissions Trading System
+FMI Fonds monétaire international
+GJ Gigajoule
+GRD  Gestionnaire de réseau de distribution
+IEW Inter-Environnement Wallonie
+IPP Impôt sur le revenu des personnes physiques
+ISoc Impôt des sociétés
+LPG  Liquefied Petroleum Gas
+OACI Organisation de l’aviation civile internationale
+OMC Organisation mondiale du commerce
+PFEC  Plan fédéral énergie climat
+PNEC Plan national énergie climat
+RWADE  Réseau wallon pour l’accès durable à l’énergie
+SDG Sustainable Development Goals Indicators
+SILC European Union Statistics on Income and Living Conditions (EU SILC)
+TCO Total Cost of Ownership
+TEP Tonne équivalent pétrole
+TVA Taxe sur la valeur ajoutée 
+UNFCCC United Nations Framework Convention on Climate Change
+VREG Vlaamse Regulator van de Elektriciteits- en Gasmarkt
+12
+95
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 96---
+Annexes
+13.1  La démarche conceptuelle
+Il convient d’abord de préciser le champ d’application de ce rapport. Si la notion d’énergie fossile 
+est claire138, celle de subvention l’est moins : il y a différentes façons de mesurer une subvention, 
+les modes de subvention sont différents et une subvention peut être directe, en ce sens qu’elle 
+est octroyée sur base des quantités d’énergie fossile, ou indirecte en ce sens qu’elle subventionne 
+une activité qui repose largement sur l’utilisation des énergies fossiles. Cette activité peut être une 
+activité de production, de consommation ou d’investissement.
+13.1.1.   L’approche par les prix
+Cette méthodologie est celle qui est utilisée par le FMI dans Coady e.a (2015). Cette approche, 
+dite price-gap repose sur trois niveaux de prix : le coût de production, le prix à la consommation 
+et le prix efficient. 
+• Le coût de production (supply cost) correspond au coût d’opportunité pour un pays donné 
+d’offrir les produits énergétiques aux consommateurs intermédiaires ou finaux. Il est estimé 
+sur base du hub price, du coût de transport et des marges bénéficiaires (Coady e.a, 2015, 
+p. 34). 
+• Le prix à la consommation est le prix payé par l’utilisateur des énergies fossiles.
+• Le prix efficient comprend une taxe pigouvienne qui intègre les externalités liées à la 
+production et à la mise en consommation des énergies fossiles. Ces externalités peuvent 
+comprendre les nuisances locales liées à la pollution de l’air (notamment les dommages 
+provenant des particules fines), les émissions de CO2 et des externalités plus larges, telles 
+que celles provenant de la congestion routière, des accidents de la route et des dégâts liés 
+à l’infrastructure routière. 
+Les auteurs font une distinction entre le « subside avant impôt » qui provient de l’écart entre le 
+coût de production et le prix à la consommation et le « subside après impôt » qui provient de 
+l’écart entre le prix efficient et le coût de production. La notion d’impôt renvoie donc à la taxe 
+pigouvienne, et non pas à d’autres impôts comme la TVA. 
+Ce cadre conceptuel est représenté au Graphique 22 ci-après.
+L’intersection de la droite de demande et de l’offre (ici, infinie et donc horizontale) au prix 
+consommateur donne les quantités échangées Q0. La subvention avant impôt s’obtient en 
+multipliant les quantités échangées par l’écart entre le prix du marché et le coût de production 
+(le rectangle bleu) tandis que la subvention après impôt s’obtient en multipliant celles-ci par 
+l’écart entre le prix efficient et le montant le plus élevé du prix à la consommation et du coût 
+de production (ici, le coût de production, donc le rectangle rouge).
+138 On appelle énergie fossile l’énergie produite par la combustion du charbon, du pétrole ou du gaz naturel. 
+Ces combustibles riches en carbone sont issus de la transformation de matières organiques enfouies dans le sol pendant 
+des millions d’années.
+13
+96
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 97---
+Graphique 22 Subvention des énergies fossiles : l’approche par les prix
+Q1’ Q1 Q0 Q
+p
+Demande
+Prix eﬃcient
+Prix consommateur
+Coût de production
+Subvention après impôt
+Subvention avant impôt
+La mesure de la subvention avant impôt est donc indirecte. Elle ne repose pas sur les 
+subventions elles-mêmes, mais sur un écart de prix. Il s’agit donc plutôt d’une approche top down. 
+La subvention après impôt est quant à elle dépendante de la méthode retenue pour évaluer les 
+coûts externes.
+L’avantage de cette approche est qu’elle permet de mesurer l’effet du démantèlement des 
+subventions sur les surplus du producteur et du consommateur, et donc sur le bien-être139 : 
+c’est d’ailleurs ce que font Coady e.a (2015). L’inconvénient est qu’elle ne se base pas directement 
+sur les subventions et que l’évaluation quantitative des coûts externes est particulièrement 
+problématique. 
+13.1.2.  L’approche de type “Inventaire”
+D’autre part, l’OCDE (2021b) utilise une approche bottom-up de type “Inventaire” en recensant 
+les aides directes et les aides fiscales dont bénéficient la production et la mise en consommation 
+d’énergies fossiles. Un point important à préciser est que ce sont les pays membres qui 
+définissent eux-mêmes le champ d’application. L’inventaire est en effet défini comme suit 
+“a database of specific governments measures (including direct budgetary support and tax expenditures) 
+that support fossil fuels and provides estimates for the amount of support provided by these measures. 
+OECD’s members can choose the amounts and subsidies they send to the OECD and limited information 
+is available on the calculations behind the estimations.”140 
+Dans le cas de la Belgique, cet inventaire comprend
+• en subventions directes : le fonds mazout, les tarifs sociaux pour le gaz naturel et l’électricité, 
+et le fonds CPAS de support d’accès à l’énergie ;
+• les dépenses fiscales portant sur les accises appliquées aux produits énergétiques, selon 
+l’optique retenue dans l’Inventaire fédéral des dépenses fiscales141.
+139 Les quantités échangées reviennent de Q0 à Q1 si le prix du marché revient au niveau du coût de production et à Q1’ si le 
+prix du marché est fixé au niveau du prix efficient. 
+140 Climact (2019), p. 6.
+141 Voir Chambre des représentants (2025) pour la dernière édition. 
+97
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 98---
+Il ne comprend donc pas les mesures d’ordre fiscal qui sont octroyées en dehors des accises, 
+dont par exemple le régime fiscal des voitures de société. 
+Cette approche n’intègre donc pas la taxe pigouvienne en tant que telle. Elle se limite aux 
+transferts budgétaires directs et aux dépenses fiscales fournissant un avantage ou une préférence 
+pour la production ou la consommation d’énergies fossiles, soit en termes absolus, soit en rapport 
+à d’autres activités ou produits. Il faut se rappeler que la notion de dépense fiscale se définit 
+par rapport à un système de référence (Benchmark tax system) et qu’il n’existe pas de norme 
+internationale en cette matière. Ceci réduit évidemment la comparabilité entre les chiffres fournis 
+par les différents pays. Le problème est particulièrement préoccupant pour les accises. À l’inverse 
+de l’impôt des personnes physiques, de l’impôt des sociétés ou de la TVA qui sont des impôts 
+généraux, les accises sont par nature des taxes sur certains produits spécifiques. S’il est logique 
+que dans un système de référence, tout bien ou service supporte le même taux de TVA, rien 
+n’oblige en matière d’accises à ce que les taux soient égaux entre produits différents142.
+La classification de ces mesures de soutien ne tient pas compte de l’objectif initial de mise en 
+place ou de leurs effets environnementaux et économiques. 
+Par ailleurs, l’indicateur ‘Fossil fuel subsidies’ figure dans la liste des indicateurs de développement 
+durable (SDG ou Sustainable Development Goals) adoptés en 2015 par les Nations Unies. Il est 
+utilisé dans ce cadre pour mesurer le progrès vers le SDG 12.c.1. Celui-ci est libellé comme suit 
+“Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market 
+distortions, in accordance with national circumstances, including by restructuring taxation and phasing 
+out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into 
+account the specific needs and conditions of developing countries and minimizing the possible adverse 
+impacts on their development in a manner that protects the poor and the affected communities.”143
+13.1.3.  L’approche OMC 
+Dans l’approche de l’Organisation mondiale du commerce (WTO, 1994), sont à considérer comme 
+des subventions :
+• les transferts directs de fonds (ex. subsides directs, prêts) et les transferts directs potentiels 
+de fonds (garanties de prêts) ;
+• les pertes en recettes du gouvernement (par exemple, du fait d’incitants fiscaux) ;
+• la fourniture par les pouvoirs publics de biens ou services autres que l’infrastructure 
+générale, ou l’achat de biens, en dessous de la valeur du marché ; 
+• l’aide au revenu ou au prix (transferts induits).
+142 Cf 13.1.5 la discussion sur le benchmark à retenir en matière d’accises. 
+143 https://unstats.un.org/sdgs/metadata/?Text=&Goal=12&Target=12.c  
+L’objectif de développement durable 12 étant d’établir des modes de consommation et de production durables. 
+Le Bureau fédéral du Plan (2019) a d’ailleurs évalué les tendances d’un certain nombre de ces indicateurs SDG quant à 
+l’évolution de la Belgique vers les objectifs de développement durable
+98
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 99---
+On retrouve cette subdivision notamment dans les catégories de subsides répertoriées 
+par UN Environnement144. Climact (2019) et l’Overseas Development Institute utilisent une 
+approche basée sur la définition OMC des subventions. Cela inclut les mesures retenues dans 
+l’Inventaire OCDE, mais également d’autres mesures mises en évidence dans des documents 
+gouvernementaux (i.e. l’Inventaire fédéral des dépenses fiscales) et dans des études externes145.
+Il s’agit toutefois là d’une définition d’ordre général qu’il faut adapter à la problématique 
+particulière des subventions aux énergies fossiles.
+Dans ce cadre particulier,
+• La prise en compte des deux premières rubriques va de soi.
+• La prise en compte de la troisième rubrique est parfaitement justifiée s’il s’agit d’avantages 
+obtenus par des entreprises actives dans l’exploitation ou la livraison d’énergies fossiles. 
+Leur prise en compte est plus discutable quand il s’agit d’activités qui utilisent des énergies 
+fossiles. Cela peut être par exemple le cas d’installations aéroportuaires qui disposent de 
+certains services (par exemple les services de sécurité) à un tarif préférentiel. Il s’agit ici 
+tout au plus d’une subvention indirecte : elle ne porte pas sur directement sur l’utilisation 
+d’énergie fossile (le kérosène, ici), mais elle réduit les coûts de production d’une entreprise 
+qui, pour exercer son activité, doit recourir aux énergies fossiles. 
+• La prise en compte de la quatrième rubrique se justifie pour les aides portant sur les prix. 
+Une aide en revenu de portée générale ne doit pas être prise en compte. Par contre, si l’aide 
+en revenu est liée à la consommation d’énergie fossile (c’est le cas des chèques-mazout, par 
+exemple) elle doit être prise en compte.
+À titre d’exemple, on peut citer l’approche suivie par le groupe d’experts réunis par l’UNFCCC 
+(Convention-cadre des Nations unies sur le changement climatique) lors des discussions sur le 
+suivi de l’indicateur SDG 12.c.1. Il y est recommandé de suivre les principes suivants146 : “(a) Select 
+an internationally-used definition (e.g. OECD) of what constitutes a fossil fuel; (b) Select a widely-accepted 
+definition of a subsidy (e.g. WTO); (c) Include transfers and revenues foregone as a minimum, and (d) 
+consider risk transfers to government and induced transfers to be comprehensive.”
+144 Présentation par J. CAMPBELL, Un Environment, SDG and Environment statistics Unit. September-2018, 
+https://unstats.un.org/sdgs/files/meetings/webex-6sep2018/7.%20UNEP%2012.c.1%20Presentation.pdf
+145 Voir Transport & Environment (2018), Princen (2017), Courbe (2011), Bachus (2016). Le rapport de Climact (2019) inclut la 
+non-taxation du kérosène et la subvention liée aux cartes-carburant. 
+146 https://uneplive.unep.org/media/docs/statistics/egm/egm_on_ffs_indicator_sdg12c1_sep29_rome_summary.pdf
+99
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 100---
+13.1.4.  Le choix opéré dans cet inventaire
+Dans cet inventaire, nous retenons une approche bottom-up. L’approche par les prix ne nous 
+semble pas opportune, et ce pour les raisons suivantes :
+• Elle ne recense pas directement les subventions et leur mesure indirecte dépend des 
+hypothèses faites pour l’estimation du coût de production ;
+• Elle est également très dépendante de l’évaluation des effets externes.
+• La non-prise en compte des effets externes peut certes être considérée comme une 
+subvention d’un point de vue économique, mais pas d’un point de vue politique. Octroyer un 
+subside, sous forme d’aide directe ou d‘aide fiscale, est une décision politique et il en est de 
+même des décisions visant à corriger à la baisse les prix du marché. Par contre, la non-prise 
+en compte des coûts externes équivaut à une absence de décision politique. 
+Notre approche combine donc les approches 1.2 et 1.3 décrites ci-dessus. Toutefois, dans la 
+typologie des subventions OMC, la troisième catégorie est considérée comme une subvention 
+indirecte. 
+Certaines subventions peuvent être directes en ce sens qu’elles sont liées directement à 
+l’utilisation d’une énergie fossile : c’est le cas par exemple, d’un taux préférentiel pour certains 
+usages d’un produit pétrolier ou encore d’une TVA à taux réduit sur la consommation d’un tel bien. 
+D’autres subventions peuvent être indirectes en ce sens qu’elles favorisent la consommation d’un 
+bien ou d’un service qui implique un recours aux énergies fossiles : c’est le cas des subventions 
+aux différents modes de transport. Ce rapport vise à être autant que possible exhaustif pour les 
+subventions directes. Pour les subventions indirectes, nous n’avons pu être exhaustifs et le choix 
+des cas traités ne doit pas être interprété comme un ordre de priorité. Il a davantage été dicté par 
+les données disponibles et par la complexité des différents cas, notamment pour le transport.
+Nous répertorions les subventions en les classant selon la nature de l’instrument utilisé. Nous 
+distinguons donc celles qui sont octroyées sous la forme de dépenses budgétaires et celles qui 
+sont octroyées par la voie fiscale, en recourant alors à des dépenses fiscales. Dans le volet fiscal, 
+nous procédons par impôt, sauf lorsque la subvention fait intervenir plusieurs types d’impôt. Si 
+catégoriser une dépense budgétaire en subvention va généralement de soi, ce n’est pas le cas en 
+matière fiscale : il faut préalablement définir un système de référence. 
+Depuis la troisième édition, les véhicules du gouvernement fédéral et leurs activités de 
+financement des combustibles fossiles sont également inclus dans l’Inventaire. Ces activités 
+relèvent de la première catégorie de l’approche de l’OMC, à savoir un transfert direct (potentiel) 
+de fonds publics. Ces activités de financement offrent aux entreprises des meilleures conditions 
+de financement plus avantageuses que les prêts privés, étant donné que le risque est (en partie) 
+assuré par l’État. Cela permet de réduire les coûts pour l’investisseur privé.
+100
+Inventaire fédéral des subventions aux énergies fossiles  I  2025

@@ -1,0 +1,1400 @@
+
+---PAGE 1---
+Inventaire fédéral  
+des subventions aux 
+énergies fossiles
+2025 – RAPPORT
+
+---PAGE 2---
+  
+Ce rapport est rédigé par et disponible auprès des services publics fédéraux 
+(SPF) suivants : 
+SPF Finances  
+Expertise et Support stratégiques - Service d’Etudes - Direction Politique fiscale 
+générale, Boulevard du Roi Albert II 33 bte 22, 1030 Bruxelles
+SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement 
+DG Environnement - Service Changements climatiques,  
+Avenue Galilée 5/2, 1210 Bruxelles
+Personnes de contact : 
+Samantha Haulotte : samantha.haulotte@minfin.fed.be 
+Jean-Baptiste Traversa : giovanbattista.traversa@minfin.fed.be 
+Justine Soete : justine.soete@health.fgov.be
+Ce rapport a été élaboré sur la base des informations disponibles au 1er janvier 2025 
+Date de publication : juin 2025  
+Dépôt légal : D/2025/2196/17
+Une copie électronique de ce rapport (également en néerlandais) et de son 
+résumé (également en néerlandais et anglais) peuvent être téléchargées sur : 
+https://finances.belgium.be/fr/statistiques_et_analyses/analyses/inventaire-des-
+subventions-aux-energies-fossiles
+https://climat.be/2050-fr/analyses-complementaires 
+2
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 3---
+  
+Table des matières
+Introduction 5
+1. Les subventions attribuées sous forme de dépenses budgétaires 8
+1.1.  Les tarifs sociaux fédéraux gaz et électricité 9
+1.2.  Fonds CPAS de support d’accès à l’énergie (ou fonds gaz électricité) 18
+1.3. Le Fonds social Chauffage (ou fonds social mazout) 19
+1.4.  Rationaliser et recentrer les dispositifs ?  22
+2. Les dépenses fiscales à l’impôt sur le revenu 23
+2.1.  Le régime fiscal des cartes-carburant 23
+3. Les dépenses fiscales liées à des dispositions de TVA 27
+3.1.  La TVA sur la consommation d’énergie 27
+3.2.  La TVA sur les services de transport 28
+4. Les écarts de taux et exemptions dans le domaine des accises 32
+4.1.  Les taux de référence  32
+4.2.  Les écarts de taux entre produits 34
+4.3.  Les écarts de taux entre utilisations d’un même produit 36
+4.4.  Les exemptions d’accises sur la consommation intermédiaire 48
+4.5.  Le transport aérien international 52
+4.6.  La navigation maritime internationale 56
+5. Le régime fiscal des voitures de société  59
+5.1.  Le régime fiscal des voitures de société  59
+6. La prise en compte des usages non-énergétiques (feedstocks) 66
+6.1.  Contexte 66
+6.2.  Quantités dans consommation finale d’énergie 67
+3
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 4---
+  
+7. Discussion de quelques cas limites 69
+7.1.  Mécanisme de rémunération de la capacité  
+(CRM ou Capacity Remuneration Mechanism) 69
+7.2.  Fonds BOFAS (2004-2019) 71
+7.3.  Fonds PROMAZ 72
+7.4. Dispenses partielles de versement du précompte professionnel 73
+7.5.  Soutien au financement des énergies fossiles 73
+8. Consolidation des résultats 78
+9. Bibliographie 89
+10. Liste des graphiques 92
+11. Liste des tableaux 93
+12. Liste des abréviations 95
+13. Annexes 96
+13.1  La démarche conceptuelle 96
+13.2.  Les mesures de lutte contre la hausse des prix de l’énergie  
+en 2022 et 2023 107
+13.3.  Le régime fiscal des voitures de sociétés : méthodologie  108
+13.4.  Les bénéficiaires du tarif social : critères fédéraux 121
+13.5.  Tarifs sociaux et catégories d’ayants droits supplémentaires  
+en Région wallonne et bruxelloise 123
+13.6.  La prime tarif social pour les installations collectives 125
+13.7.  Le budget mobilité en alternative à la voiture de société 125
+13.8.  Fonds BOFAS (2004-2019) 128
+4
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 5---
+Introduction
+Les mesures de soutien mondial aux énergies fossiles restent considérables, et ce malgré 
+les objectifs de neutralité climatique à long terme de la plupart des grands pays et le fait que 
+le déploiement des énergies renouvelables et des économies d’énergie soient plébiscités. 
+En 2023, le coût budgétaire du soutien public aux combustibles fossiles s’élevait à 1,1 billion USD, 
+selon l’OCDE (2024b). Malgré une baisse de près d’un tiers par rapport à l’année record de 2022, 
+cela signifie que le soutien des gouvernements aux combustibles fossiles reste nettement plus 
+élevé qu’au cours de la dernière décennie.
+Parmi les Etats européens ayant annoncé des engagements de phasing out des subsides aux 
+énergies fossiles, très peu d’entre eux avaient développé des plans spécifiques ou des feuilles 
+de route à cet effet en 2021 (Commission européenne, 2021). En outre, la crise énergétique 
+de 2021-2022 a été propice à la mise en place rapide de mesures de soutien, pour la plupart 
+temporaires, visant à contenir la hausse des prix de l’énergie, y compris des énergies fossiles 
+(voir annexe 13.2). Cependant, la crise énergétique met clairement en évidence la nécessité de 
+réduire les consommations énergétiques et d’accélérer la transition vers des sources d’énergie 
+renouvelables. Dans ce sens, la crise incite à renforcer les comportements et les politiques visant 
+à diminuer la consommation des énergies fossiles. 
+Des développements qui ont eu lieu à différents niveaux indiquent la volonté d’aller dans le sens 
+d’un abandon progressif des soutiens aux énergies fossiles.
+Au niveau international, la Belgique fait partie de la Coalition on Phasing Out Fossil Fuel Incentives 
+Including Subsidies (COFFIS)1 qui vise (1) à accroître la transparence en se fondant sur une 
+méthodologie exhaustive, (2) à évaluer les accords internationaux existants qui constituent 
+des obstacles à la réforme et (3) à élaborer des stratégies nationales d’élimination progressive 
+des subsides aux énergies fossiles. Cependant, aucun progrès n’a été réalisé au niveau de la 
+suppression des subsides aux énergies fossiles au sommet international sur le climat de 2024 
+(COP29).
+Au niveau européen, la révision de la Directive sur la taxation des produits énergétiques est en 
+cours de discussion depuis 2021. La Directive actuelle ne prévoit pas la perception de taxes sur 
+les produits énergétiques dans certains cas spécifiques tels que le transport maritime et l’aviation. 
+Dans le contexte du 8ème programme d’action pour l’environnement de l’UE, le rapportage des 
+subsides préjudiciables à l’environnement a été développé (voir encadré ci-dessous).
+Au niveau belge, les négociations relatives à une réforme fiscale ont été interrompues en juillet 
+2023. Néanmoins, des modifications législatives allant dans le sens d’une suppression progressive 
+ont été approuvées récemment. Parmi celles-ci, on peut citer la première étape franchie avec de 
+premières limitations, étalées de 2022 à 2026, du remboursement du diesel professionnel, ainsi 
+que la fin de la déductibilité fiscale pour les voitures de société essence ou diesel.
+1 La Belgique a signé le Joint Statement on Fossil Fuel Subsidie à la COP28 (2023). Cette initiative des Pays-Bas a été 
+renommée la Coalition on Phasing Out Fossil Fuel Incentives Including Subsidies (COFFIS). 
+5
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 6---
+Par ailleurs, l’accord de gouvernement fédéral (2025-2029) mentionne que le gouvernement 
+examinera « quelles subventions fossiles peuvent être réduites, sur quel délai réaliste un phasing-
+out peut avoir lieu, et ce sans générer d’impact économique négatif et sans avoir d’impact 
+négatif sur le pouvoir d’achat ou sur les charges des entreprises ». La contribution fédérale 
+à l’actualisation du PNEC (2024)2 reprend l’intention d’établir un roadmap pour la suppression 
+des subsides.
+Ce quatrième rapport intègre une évaluation systématique des subsides aux énergies fossiles 
+jusqu’à et y compris 2022 et vise donc une mise à jour des inventaires précédents. Il s’avère 
+particulièrement important de mettre régulièrement à jour un inventaire des mesures 
+fédérales de soutien aux énergies fossiles, vu l’évolution des données d’une année à l’autre d’une 
+part et les changements législatifs de certaines mesures d’autre part. 
+Suite aux réactions reçues à propos de la précédente édition, ce quatrième rapport d’inventaire 
+introduit des clarifications quant à la méthodologie utilisée. En effet, les incitants à la 
+consommation des dérivés du pétrole tels les subsides et les écarts de taux d’accises mesurés 
+dans ce document ne constituent pas une estimation de recettes budgétaires potentielles 
+qui découleraient de leur suppression. Pour ce faire, il faudrait tenir compte des effets de 
+comportement engendrés par les modifications législatives envisagées. Par ailleurs, les écarts 
+de taux dépendent fortement du taux de référence choisi. Jusqu’à présent, nous avons opté 
+pour l’essence sans plomb (désormais dénommé benchmark 1) . Cette édition reprend également 
+à titre de comparaison un autre taux de référence qui fait la distinction sur base de l’usage, 
+à savoir comme carburant ou combustible (benchmark 2).
+La première section traite des subventions données sous forme de dépenses budgétaires. 
+Les trois sections suivantes traitent des subventions octroyées par la voie fiscale, sur base d’un 
+benchmark détaillé impôt par impôt. Une distinction est également opérée entre les subventions 
+directes, qui s’appliquent à la consommation d’énergie fossile, et les subventions indirectes qui 
+s’appliquent à la production de services ayant un large recours aux énergies fossiles, comme c’est 
+le cas du transport. La cinquième section a pour objet le régime fiscal des voitures de sociétés. 
+Précédemment classé comme subvention indirecte, cet incitant fiscal est désormais repris sous 
+la catégorie de subsides préjudiciables à l’environnement (EHS). Dans la sixième section, nous 
+présentons les subventions pour les usages non-énergétiques ou feedstocks. Enfin, quelques 
+cas limites de subventions aux énergies fossiles sont abordés dans la dernière section.
+2 https://climat.be/doc/pfec-2024-mise-a-jour-definitive.pdf
+6
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 7---
+Obligations de rapportage liées aux subsides  
+aux énergies fossiles
+L’établissement d’un inventaire des subventions fédérales aux énergies fossiles s’inscrit dans 
+un contexte européen d’obligation de rapportage. Il existe également désormais des obligations 
+de rapportage pour d’autres subventions préjudiciables à l’environnement (EHS).
+• Dans le Plan National Energie et Climat (PNEC), l’état fédéral s’engage à dresser un 
+inventaire concernant tous les subsides aux énergies fossiles et établir un plan d’action 
+d’ici 2021 pour faire disparaître petit à petit les subsides pour les combustibles fossiles, 
+compte tenu notamment de la garantie de la sécurité d’approvisionnement et des 
+mesures de correction sociale. Dans ce contexte, le premier inventaire fédéral a été 
+publié en mai 2021.
+• Le Règlement européen sur la gouvernance de l’union de l’énergie et de l’action pour 
+le climat 2018/19993 exige que chaque Etat membre fasse état à la Commission du stade 
+de mise en œuvre de son PNEC au moyen d’un rapport d’avancement national. Ce rapport 
+doit notamment faire état des objectifs généraux nationaux visant l’élimination progressive 
+des subventions à l’énergie, en particulier aux combustibles fossiles. Dans ce contexte, le 
+deuxième inventaire fédéral a été publié en mai 2023. Dès lors, cet inventaire est remis 
+à jour chaque année.
+• Un des objectifs du 8ème programme d’action pour l’environnement de l’UE est de 
+mesurer et d’abandonner les subsides préjudiciables à l’environnement (EHS). En 2025, 
+un premier rapportage de ces subsides est attendu des états membres, sur base d’une 
+méthodologie développée à cet effet. Les subsides aux énergies fossiles sont exclus de 
+ce rapportage afin de ne pas avoir un double comptage avec le rapportage dans le cadre 
+du Règlement européen de la gouvernance.
+• Dans le contexte de la loi sur la restauration de la nature de juin 20244, les états 
+membres doivent inclure une indication des subventions qui ont une incidence négative 
+sur la réalisation des objectifs de la loi sur la restauration de la nature dans leur plan 
+national de restauration.
+3 Règlement (UE) 2018/1999 sur la gouvernance de l’union de l’énergie et de l’action pour le climat, art 17 § 1,  
+https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex %3A32018R1999
+4 Règlement (UE) 2024/1991 relatif à la restauration de la nature et modifiant le règlement (UE) 2022/869,  
+https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=OJ:L_202401991
+7
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 8---
+Les subventions attribuées 
+sous forme de dépenses 
+budgétaires
+On recense trois programmes de subventions : le tarif social, le fonds de support géré par 
+les CPAS et le fonds mazout. On dispose, pour les deux premiers, de données séparées pour les 
+interventions relatives au gaz et celles relatives à l’électricité. Si les subventions à la consommation 
+de gaz sont clairement des subventions aux énergies fossiles, ce n’est pas le cas pour l’électricité. 
+Idéalement, il faudrait pondérer par le poids du fossile dans la production de l’électricité. Pour 
+souci de transparence, nous reprenons toutefois ici la totalité des interventions contrairement au 
+Tableau 23 où elles ne sont reprises qu’à concurrence de la proportion des énergies fossiles dans 
+le mix énergétique.
+Le Tableau 1 donne le montant de ces différentes subventions pour les cinq dernières années 
+disponibles. Pour le tarif social, la subvention correspond aux montants remboursés par la CREG 
+aux fournisseurs d’énergie. Les montants sont affectés à l’année de la consommation, selon 
+le principe du « fait générateur », et non pas à l’année pendant laquelle la CREG a remboursé 
+les fournisseurs d’énergie. Pour les fonds CPAS et le fonds mazout, les subventions sont 
+comptabilisées sur base de l’année pendant laquelle la dépense a été effectuée.
+Tableau 1 Les subventions directes (en millions €)
+  2018  2019 2020 2021 2022
+Tarif social classique - Gaz naturel  74 89 79 95 428
+Tarif social classique - Électricité 105 114 103 89 241
+Fonds CPAS de support d’accès à l’énergie -  
+Gaz naturel  22 25 25 25 24
+Fonds CPAS de support d’accès à l’énergie - 
+Électricité 31 34 34 34 42
+Fonds Mazout  17 17 15 14 21
+Total mesures permanentes 249 279 256 257 757
+Tarif social élargi (catégorie BIM) : gaz naturel - - - 155 717
+Tarif social élargi (catégorie BIM) : électricité - - - 121 459
+Prime unique de 80 € - - - 72 -
+Total mesures temporaires  
+(crise énergétique)       348 1.176
+Source : CREG, Rapports annuels ; ASBL Fonds social Chauffage. 
+Le montant forfaitaire unique de 80 € concerne la fourniture d’électricité. Il a été octroyé aux bénéficiaires du tarif social électricité en 
+date du 30 septembre 2021.
+Remarque : les subventions relatives à l’électricité sont reprises ici pour leur intégralité, contrairement au Tableau 23 où elles ne sont 
+reprises qu’à concurrence de la proportion des énergies fossiles dans le mix énergétique. 
+1
+8
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 9---
+1.1.  Les tarifs sociaux fédéraux gaz et électricité
+Nouveautés
+• Le tarif social élargi à la catégorie BIM est supprimé depuis le 1er juillet 2023. La mesure était 
+en vigueur depuis le 1er février 2021.
+• La Plateforme de lutte contre la précarité énergétique a émis des recommandations (mars 
+2023). Selon ces dernières, le tarif social pourrait être amélioré tant en termes d’équité que 
+d’efficacité.
+Afin de garantir le droit d’accès à l’énergie, et de protéger les ménages en situation précaire, le 
+législateur a instauré le tarif social électricité et gaz naturel en 2003. Il a aussi une composante 
+régionale, non au niveau du tarif, mais en ce qui concerne les ayants droit.
+1.1.1.  Les ayants droit au tarif social
+Le tarif social fédéral pour l’électricité et/ou le gaz naturel est un tarif plus favorable que le tarif 
+normal octroyé à des personnes ou des ménages appartenant à certaines catégories. Il entend 
+viser des clients se trouvant dans une situation précaire. Il n’y a pas de critères génériques, 
+mais une liste de catégories bénéficiaires qui est en fait une liste de statuts particuliers. Ceux-
+ci sont essentiellement les bénéficiaires d’une allocation octroyée par le Service public fédéral 
+Sécurité sociale (allocation de remplacement de revenus...), certains bénéficiaires d’une allocation 
+octroyée par le Service fédéral des Pensions (revenu garanti aux personnes âgées...) ainsi que les 
+bénéficiaires du droit à l’intégration sociale auprès d’un CPAS. Cette liste est détaillée en annexe 
+13.4 . Le tarif social est identique chez tous les fournisseurs d’énergie et gestionnaires de réseau 
+de distribution. Les personnes qui y ont droit sont également dispensées du paiement de la 
+location de leur compteur d’électricité ou de gaz naturel. 
+La liste des catégories sociales susceptibles de bénéficier de l’application de tarifs sociaux pour 
+la fourniture de gaz et d’électricité a été précisée et l’accès au tarif social gaz a été élargi aux 
+chaudières collectives se situant dans les immeubles sociaux des CPAS, des fonds du logement 
+et des agences immobilières sociales5. 
+Par ailleurs, l’accord de gouvernement (2020-2024) prévoyait, dans le cadre de la lutte contre la 
+précarité énergétique, la possibilité d‘une extension du groupe cible du tarif social à tous ceux 
+qui ont droit à l’intervention majorée, conformément à la réglementation européenne. Cette 
+extension aux personnes bénéficiant d’une intervention majorée et qui ont conclu un contrat pour 
+l’achat d’électricité et de gaz naturel pour leur propre usage (clients résidentiels) a été décidée au 
+1er février 20216. Comme mentionné supra, la mesure d’élargissement à la catégorie BIM a pris fin 
+au 1er juillet 2023. Dans son dernier rapport de monitoring7 concernant l’extension de l’application 
+des tarifs sociaux aux bénéficiaires de l’intervention majorée, la CREG évalue le coût réel net 
+à 1.666,6 millions € pour les années 2021 à 2023.
+5 Changements introduits par la loi du 2 mai 2019 (MB 23 mai 2019). 
+6 La CREG établit chaque trimestre un rapport de monitoring concernant l’extension de l’application des tarifs sociaux aux 
+bénéficiaires de l’intervention majorée. 
+7 CREG, 2023, Neuvième rapport de monitoring concernant l’extension de l’application des tarifs sociaux électricité et gaz 
+naturel aux bénéficiaires de l’intervention majorée, 15 mai
+9
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 10---
+Tableau 2 Coût estimé par année de consommation de l’extension  
+du tarif social à la clientèle BIM (en millions €)
+Année de consommation Electricité Gaz naturel TOTAL
+2021 110,2 155,3 265,5
+2022 400,4 672,2 1.072,6
+2023 98,5 230 328,5
+Total 609,1 1.057,5 1.666,6
+Source : CREG, Rapport annuel de monitoring concernant l’extension de l’application des tarifs sociaux électricité et gaz 
+naturel aux bénéficiaires de l’intervention majorée, octobre 2023 et CREG, 2024, rapport annuel 2023
+Les Régions peuvent étendre le bénéfice du tarif social à d’autres catégories de ménages 
+bénéficiaires8. Seules les Régions wallonne et bruxelloise ont jusqu’à présent fait usage de cette. 
+possibilité (voir Annexe 13.5).
+1.1.2.  Détermination du tarif social
+Le tarif social est calculé et publié tous les trois mois par la CREG9. Dans son calcul, la CREG se 
+base sur les tarifs commerciaux les plus bas sur le marché des fournisseurs d’électricité et de gaz 
+naturel.
+Le tarif social est identique pour l’ensemble du territoire belge, quel que soit le fournisseur ou 
+le gestionnaire de réseau. En outre, les bénéficiaires du tarif social bénéficient également de 
+mesures de protection si leur alimentation électrique est coupée. 
+Le tarif social intègre la composante énergétique, ainsi que les tarifs des réseaux de transport 
+et de distribution. Les bénéficiaires du tarif social ne sont pas exemptés du paiement de la TVA et 
+de la cotisation fédérale sur l’électricité et le gaz (applicable jusqu’au 31 décembre 2021), ainsi que 
+de la redevance pour le raccordement au réseau en Wallonie et de la cotisation au fonds énergie 
+en Flandre. 
+Son caractère de subvention pourrait être remis en question dès lors qu’il consisterait à 
+appliquer simplement le tarif commercial le plus bas. Certains éléments du calcul du tarif social 
+vont cependant plus loin. Ainsi en est-il de l’application du tarif de distribution le plus favorable, 
+indépendamment de la localisation du consommateur, et également d’un mécanisme de 
+plafonnement qui limite l’impact des hausses du prix de l’électricité et du gaz. 
+On pourrait donc considérer que le montant de l’intervention, tel que repris au Tableau 1, n’est 
+une subvention que pour une partie. Isoler cette composante est complexe. Nous prenons donc 
+en compte l’intégralité de la subvention, comme le fait l’Inventaire OCDE. 
+8 Les sources d’information au niveau régional sont la CWaPE, BRUGEL et VREG, respectivement pour les Régions wallonne, 
+bruxelloise et flamande.
+9 https://www.creg.be/fr/consommateur/tarifs-et-prix/tarif-social
+10
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 11---
+Sur base des chiffres de novembre 2024, le tarif social électricité était 21,5 cents par kWh (soit 
+54 %) moins cher que le prix moyen all in de l’électricité et le tarif social gaz était 5,4 cents par kWh 
+(soit 59 %) moins cher que le prix moyen all in du gaz naturel 10 Il s’agit là d’un retour à des chiffres 
+plus proches de ceux de 2019 après le pic d’octobre 2022 où le tarif social électricité était 42,7 
+cents par kWh (soit 160 %) moins cher que le prix moyen all in de l’électricité et le tarif social gaz 
+était 17,6 cents par kWh (soit 517 %) moins cher que le prix moyen all in du gaz naturel11.
+Tableau 3 Montant des tarifs sociaux – 2024Q4 (en c€/kWh)
+Catégorie Hors TVA TVA comprise
+Électricité, mono-horaire, par kWh 17,852 18,923
+Électricité, bi-horaire – jour, par kWh 18,236 19,330
+Électricité, bi-horaire – nuit, par kWh 17,552 18,605
+Tarif social exclusif de nuit, par kWh 15,122 16,029
+Gaz 4,836 5,126
+Source : CREG, tarif social, 2024Q4
+Graphique 1 Tarif social et tarif moyen commercial (all in)  
+(2019-2024, en c€/kWh)
+70
+60
+50
+40
+30
+c€/kWh
+01/01/2019
+01/04/2019
+01/07/2019
+01/10/2019
+01/01/2020
+01/04/2020
+01/07/2020
+01/10/2020
+01/01/2021
+01/04/2021
+01/07/2021
+01/10/2021
+01/01/2022
+01/04/2022
+01/07/2022
+01/10/2022
+01/01/2023
+01/04/2023
+01/07/2023
+01/10/2023
+01/01/2024
+01/04/2024
+01/07/2024
+01/10/2024
+20
+10
+0
+Electricité – tarif social
+Electricité – tarif moyen commercial (all in)
+Gaz – tarif social
+Gaz – tarif moyen commercial (all-in)
+Source : CREG, tableau de bord mensuel pour électricité et gaz naturel, novembre 2024
+10 https://www.creg.be/sites/default/files/assets/Prices/Dashboard/tableaudebord202411.pdf
+11 https://www.creg.be/sites/default/files/assets/Prices/Dashboard/tableaudebord201909.pdf
+11
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 12---
+1.1.3.  Nombre de bénéficiaires
+La CREG publie sur base régulière le nombre de bénéficiaires du tarif social12. Le nombre 
+de clients est adapté une fois par an dans les tableaux de bord mensuels. 
+Tableau 4 Bénéficiaires du tarif social – Électricité
+Électricité Belgique Flandre Bruxelles Wallonie
+Nombre de clients sociaux 498.388 234.691 73.659 190.038
+Nombre de clients sociaux fédéraux 482.278 234.691 71.877 175.710
+Nombre de clients sociaux régionaux (*) 16.110 0 1.782 14.328
+En % du nombre de clients résidentiels 9,9 % 8,2 % 13,8 % 11,6 %
+(*) Chez les gestionnaires de réseau de distribution 
+Source : CREG, Tableau de bord mensuel Électricité et Gaz naturel, novembre 2024. 
+Tableau 5 Bénéficiaires du tarif social – Gaz
+Gaz naturel Belgique Flandre Bruxelles Wallonie
+Nombre de clients sociaux 317.140 164.722 51.947 100.471
+Dont critères fédéraux 307.255 164.722 50.636 91.897
+Dont clients sociaux régionaux (*) 9.885 0 1.311 8.574
+En % du nombre de clients résidentiels 10,4 % 8,3 % 14,2 % 14,6 %
+(*) Chez les gestionnaires de réseau de distribution
+Source : CREG, Tableau de bord mensuel Électricité et Gaz naturel, novembre 2024
+Il est important de préciser que le nombre de clients protégés repris dans les tableaux de bord 
+mensuels de la CREG est adapté une seule fois par an. 
+En novembre 2024, environ 10 % des clients résidentiels bénéficiaient des tarifs sociaux, que 
+ce soit pour le gaz ou pour l’électricité. Pour le gaz naturel, le tarif social est octroyé à 307.255 
+ménages sur base des critères fédéraux et 317.140 ménages en prenant en compte les clients 
+sociaux régionaux. Pour l’électricité, il est octroyé à 482.278 ménages sur base des critères 
+fédéraux et plus globalement à 498.388 ménages en tenant compte des clients sociaux régionaux. 
+Qu’il s’agisse du gaz ou de l’électricité, le pourcentage de clients bénéficiant du tarif social est 
+nettement plus élevé à Bruxelles et en Wallonie et ceci vaut également à égalité de critères d’accès 
+en ne prenant en compte que les clients sociaux fédéraux. 
+Selon une étude de la CREG (2019), 11 % des ménages isolés, 8 % des couples sans enfant à 
+charge, 4 % des couples avec enfant(s) et 10 % des familles monoparentales bénéficiaient du 
+tarif social spécifique en Belgique en 2018 (uniquement pour l’électricité ou le gaz naturel, 
+ou pour le gaz naturel et l’électricité simultanément).
+12 Le SPF Économie dispose également de données relatives au nombre de bénéficiaires pour lesquels le tarif social est 
+octroyé automatiquement.
+12
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 13---
+Graphique 2 Evolution du nombre de bénéficiaires du tarif social fédéral gaz et électricité 
+(janvier 2022 – novembre 2024) suite à l’élargissement temporaire  
+à la catégorie BIM
+0
+100.000
+200.000
+300.000
+400.000
+500.000
+600.000
+700.000
+800.000
+900.000
+1.000.000
+jan 2022 août 2022 nov 2022 nov 2023 nov 2024déc 2023
+Bénéﬁciaires du tarif social Electricité Bénéﬁcaires du tarif social Gaz
+Source : CREG, Tableaux de bord mensuels Électricité et Gaz naturel
+Pour rappel, la mesure d’élargissement du bénéfice du tarif social gaz et électricité à la catégorie 
+BIM a été en vigueur du 1er février 2021 au 30 juin 2023. Dès le moment de la prise en compte 
+de cette catégorie BIM dans les tableaux de bord mensuels de la CREG (en août 2022), 
+on constate une forte augmentation du nombre de bénéficiaires du tarif social, respectivement 
+de 10,24 % à 18,62 % du nombre de clients résidentiels pour l’électricité, et de 11 % à 19,09 % 
+pour le gaz. 
+Dès la fin de la prise en compte dans les tableaux de bord de la catégorie BIM en décembre 2023, 
+les niveaux retombent, respectivement pour l’électricité et le gaz, à 9,9 % et 10,4 % du nombre 
+de clients résidentiels, soit légèrement inférieurs au niveau pré-élargissement ‘BIM’.
+13
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 14---
+1.1.4.  Évaluation
+Qu’il s’agisse des taux réduits sur le mazout de chauffage ou des tarifs sociaux gaz et électricité, 
+ces mesures n’atteignent que partiellement les ménages les plus vulnérables, comme le montre 
+le Tableau 6. 
+Tableau 6 Précarité énergétique et tarif social (2024) 
+  Belgique Bruxelles Flandre Wallonie
+% de ménages en situation  
+de précarité énergétique 21,8 % 27,6 % 16,4 % 29,2 %
+% de bénéficiaires  
+du tarif social électricité (nov 2022) (*) 18,7 % 23,1 % 16,6 % 20,8 %
+% de bénéficiaires  
+du tarif social gaz (nov 2022) (*) 19,3 % 24,1 % 16,3 % 25,4 %
+% de bénéficiaires  
+du tarif social électricité (nov 2024) 9,9 % 13,8 % 8,2 % 11,6 %
+% de bénéficiaires  
+du tarif social gaz naturel (nov 2024) 10,4 % 14,2 % 8,3 % 14,6 %
+(*) L’octroi du tarif social à la catégorie temporaire BIM est prise en compte. 
+Sources : Fondation Roi Baudouin (2024) ; CREG, Tableaux de bord mensuels (novembre 2022 et 2024)
+L’extension du dispositif aux bénéficiaires de l’intervention majorée dans le contexte des mesures 
+gouvernementales liées à la crise énergétique a légèrement atténué ce constat, mais il s’agissait 
+seulement d’une mesure temporaire comme indiqué précédemment. 
+L’efficience des tarifs sociaux peut être évaluée au regard du concept de précarité énergétique.
+14
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 15---
+La mesure de la précarité énergétique
+Actuellement, nous ne disposons pas d’une définition précise et unique de la précarité 
+énergétique, que ce soit au niveau belge ou européen. Le concept de précarité énergétique 
+est en outre un concept relatif, qui varie fortement en fonction des contextes. 
+Afin de capturer les différentes dimensions de la précarité énergétique, la Fondation 
+Roi Baudouin a cependant développé trois indicateurs complémentaires : la précarité 
+énergétique mesurée (PEm), la précarité énergétique cachée (PEc) et la précarité 
+énergétique ressentie (PEr). Ces indicateurs sont présentés dans le Baromètre de la précarité 
+énergétique, publié annuellement par la Fondation Roi Baudouin.
+Les deux premiers indicateurs sont calculés sur la base des dépenses énergétiques des 
+ménages, tandis que le troisième indicateur se base sur la perception qu’ont les ménages 
+de leur capacité à accéder aux services énergétiques essentiels.
+La précarité énergétique mesurée et la précarité énergétique ressentie se distinguent en ce 
+sens que la PEm évalue le nombre de ménages qui consacrent une part trop importante de 
+leur revenu (après déduction du coût du logement) aux factures d’énergie, tandis que la PEr 
+estime le nombre de ménages qui ont des factures énergétiques anormalement basses et 
+restreignent dès lors potentiellement leur consommation d’énergie en dessous des besoins 
+fondamentaux. 
+Le Baromètre de la précarité énergétique ne considère que les ménages des cinq premiers 
+déciles de revenu.
+15
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 16---
+Selon les données du dernier Baromètre de la précarité énergétique, en 2022, 21,8 % des 
+ménages belges étaient confrontés à au moins l’une des trois formes de précarité énergétique 
+(mesurée, ressentie ou cachée). Les ménages sont touchés différemment selon les Régions. 
+Toutes formes de précarité énergétique confondues, la Flandre compte 16,4 % de ménages en 
+précarité énergétique, Bruxelles-Capitale 28,2 % et la Wallonie 29,2 %13 (soit une augmentation 
+dans les trois Régions par rapport à 2021).
+Les raisons peuvent être multiples. Il se peut que certains ménages ne fassent pas valoir leurs 
+droits. D’autre part, les critères d’accès sont liés au statut des personnes et non à leur revenu14. 
+De nombreux acteurs dont les principaux partis politiques, la Région wallonne, le RWADE, la CREG 
+et BRUGEL, ont appelé à un élargissement des critères d’accès au tarif social afin de prendre en 
+compte le niveau de revenu à l’instar du Fonds mazout. Selon eux, cette mesure permettrait de 
+mieux faire correspondre les bénéficiaires du tarif social à la catégorie des personnes en précarité 
+énergétique. De plus, lier un avantage social à une situation de non-emploi peut contribuer à la 
+création d’un piège à l’emploi en limitant le gain de revenu net que procurerait le retour sur le 
+marché du travail. 
+La plateforme de lutte contre la précarité énergétique, gérée par la Fondation Roi Baudouin, 
+a émis en septembre 2021 un ensemble de recommandations pour une optimalisation du 
+tarif social15. Parmi celles-ci, on peut notamment citer l’utilisation d’un critère de revenus pour 
+garantir l’équité d’accès, en complément l’octroi sur base de statuts sociaux, ou encore la réflexion 
+conjointe à mener sur tarif social d’une part et évolutions liées à la transition énergétique d’autre 
+part. Ces recommandations ont d’ailleurs fait l’objet d’une actualisation en 2023. Ainsi, le groupe 
+de travail rappelle notamment que le tarif social ne peut être considéré comme le seul levier et 
+que la rénovation des logements est primordiale. 
+Les tarifs sociaux modifient le signal-prix : ils introduisent des distorsions de prix entre les 
+différents vecteurs d’énergie et ils n’incitent pas les ménages à économiser l’énergie. Ils agissent 
+donc à contresens par rapport à l’objectif d’intégration des coûts externes. Les conséquences 
+doivent s’apprécier en fonction de la situation des bénéficiaires, selon qu’ils sont locataires ou 
+propriétaires. Les premiers n’ont pas le choix du mode de chauffage et ont moins de moyens 
+d’action pour réduire leur consommation d’énergie. Les travaux d’isolation relèvent en effet du 
+bailleur. Les conséquences négatives de la modification du signal-prix doivent être fortement 
+relativisées dans le cas des locataires. Elles sont par contre bien présentes dans le cas des 
+propriétaires. On ne dispose pas de données sur l’importance relative des uns et des autres, 
+mais on peut présumer que les locataires sont majoritaires parmi les bénéficiaires du tarif social. 
+Si nous analysons la part de locataires et de propriétaires par décile de revenu, nous observons 
+une proportion très importante de locataires parmi les premiers déciles, en comparaison aux 
+déciles supérieurs. Ainsi, le premier décile compte 52 % de locataires, tandis que le dixième décile 
+n’en compte que 8,3 %16.
+13 Fondation Roi Baudouin, Baromètre de la précarité énergétique, 2009-2022. Les résultats à partir de 2019 ne peuvent 
+être comparés directement aux années antérieures étant donné les modifications méthodologiques intervenues dans la 
+récolte des données des enquêtes SILC à partir de 2019.
+14 Voir https://www.socialsecurity.be/citizen/fr/aide-cpas/aide-aux-frais-d-energie/tarif-social-gaz-electricite.
+15 Énergie : pour une optimalisation du tarif social | Koning Boudewijnstichting (kbs-frb.be)
+16 Données issues de l’enquête sur le budget des ménages de Statbel, 2022
+16
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 17---
+Les locataires, et plus particulièrement les locataires sociaux, semblent aussi plus vulnérables à la 
+précarité énergétique. En 2022, alors que 15 % de propriétaires (avec ou sans hypothèque) sont 
+touchés par l’une ou l’autre forme de précarité énergétique, 33 % des locataires du parc privé et 
+45,5 % des locataires sociaux sont concernés par ce problème17. 
+Comme le note la CREG (2019), « l’existence des tarifs sociaux électricité et gaz naturel permet 
+de contenir partiellement le poids de la facture énergétique sur le budget des ménages qui en 
+bénéficient. Ils représentent une réduction de près de 40 % des factures moyennes cumulées 
+d’électricité et de gaz naturel. Néanmoins, ils ne permettent pas de toucher tous les ménages avec 
+les revenus les plus bas. En effet, ils dépendent du statut des personnes (bénéficiaires du droit à 
+l’intégration sociale, bénéficiaires du revenu garanti aux personnes âgées...) et non pas du niveau 
+de revenus. Par ailleurs, même pour ceux qui en bénéficient, le poids de la facture énergétique 
+sur le budget des ménages reste important, voire très important, en particulier pour les ménages 
+des déciles inférieurs. »
+Quelques constats selon les catégories de ménages, tirés de la dernière édition du Baromètre 
+(2024) : 
+• Par rapport à 2021, le taux de précarité énergétique des ménages du premier décile de 
+revenus équivalents a diminué mais celui des ménages des deuxième à cinquième décile 
+a augmenté. 
+• Le taux de précarité énergétique de la classe moyenne « basse » enregistre une hausse 
+significative. 
+• La situation des familles monoparentales, où les femmes sont surreprésentées, s’est 
+aggravée avec un taux de précarité énergétique qui passe de 24,8 % à 37,4 % en 2022. 
+17 Fondation Roi Baudouin, Baromètre de la précarité énergétique. Sources : BE-SILC 2022 et Statbel. 
+17
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 18---
+1.2.  Fonds CPAS de support d’accès à l’énergie  
+(ou fonds gaz électricité)
+1.2.1.  Description du dispositif
+Le fonds CPAS de support d’accès à l’énergie a été instauré en 200218. Il fait partie des fonds 
+énergétiques sociaux, avec les tarifs sociaux et le fonds social chauffage. 
+Cette mesure est mise en œuvre par des transferts effectués par la Commission de Régulation 
+de l’Électricité et du Gaz (CREG) vers les CPAS afin de soutenir leurs efforts financiers pour assurer 
+l’accès à l’énergie aux ménages à faibles revenus et fortement endettés. Le paiement aux CPAS est 
+effectué par la CREG en plusieurs tranches égales au cours de l’année qui suit la présentation des 
+comptes. 
+Concrètement, le Fonds finance les services de médiation des dettes et d’accompagnement 
+budgétaire des CPAS ou intervient directement pour apurer des dettes. Le CPAS peut accorder 
+une aide pour le remplacement d’un chauffage électrique ou au charbon par un chauffage au gaz. 
+Cependant, cette mesure connaît un faible succès étant donné que le public cible de cette mesure 
+n’est généralement pas propriétaire de son logement. 
+Au niveau curatif, le fonds intervient en négociant des plans d’apurement avec les fournisseurs 
+ou en apurant certaines factures. 
+Au niveau préventif, le CPAS intervient notamment dans l’achat d’appareils moins énergivores 
+ou l’entretien ou la mise en conformité d’appareils énergétiques. 
+1.2.2.  Montant et nombre d’interventions
+Entre 2012 et 2018, les montants du Fonds Gaz et Électricité ont été gelés. Depuis 2019, les 
+montants sont de nouveau indexés. 
+Pour l’année 2020, 52,9 millions €19 majorés de 6,4 millions € supplémentaires suite à l’indexation 
+du montant avaient été prévus pour aider les CPAS dans leur mission de guidance et d’aide sociale 
+financière en matière d’énergie. 
+Pour l’année 2021, le même montant de base (soit 52,9 millions €) majoré cette fois de 6,66 
+millions € supplémentaires suite à l’indexation du montant avaient été prévus. Le gouvernement 
+a également débloqué 16 millions € supplémentaires en 2021 pour aider les CPAS, ce qui porte 
+le total à 69 millions €. 
+Pour l’année 2022, une indexation supplémentaire de 3,4 millions € a été décidée en faveur 
+du Fonds Gaz-Electricité dans le cadre des mesures visant à lutter contre la crise énergétique. 
+Pour l’année 2023, un subside de 37 millions € a été accordé aux CPAS par l’Etat fédéral20 sous 
+la forme d’une subvention et non directement via le Fonds.
+Pour l’année 2024, un montant de 20 millions € a été ajouté au montant global du Fonds.
+18 Loi du 4 septembre 2002 visant à confier aux CPAS la mission de guidance et d’aide sociale financière dans le cadre de 
+la fourniture d’énergie aux personnes les plus démunies.
+19 Soit 30,8 millions € provenant du secteur électrique et 22,1 millions € du secteur du gaz naturel.
+20 SPP Intégration Sociale, Circulaire du 23 janvier 2023 concernant une subvention complémentaire de 37 millions € dans 
+le cadre du fonds gaz et électricité
+18
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 19---
+Nous ne disposons cependant pas d’informations sur le nombre total de bénéficiaires du 
+Fonds Gaz-Electricité, étant donné que différents types d’interventions sont prévus (dossiers 
+de médiation de dettes, dossiers convecteurs au gaz, etc.), et qu’il s’agit potentiellement, dans 
+certains cas, des mêmes bénéficiaires. 
+1.2.3.  Évaluation
+À l’inverse du tarif social, ce dispositif n’agit pas directement sur le prix. D’un point de vue 
+environnemental, ceci réduit le caractère dommageable d’une subvention par ailleurs amplement 
+justifiée sur le plan social. 
+La Plateforme de lutte contre la précarité énergétique, gérée par la Fondation Roi Baudouin, 
+recommande une révision du mécanisme d’indexation, afin de tenir compte de l’évolution de la 
+facture d’énergie et de la précarité énergétique. Ceci conforterait les objectifs sociaux poursuivis. 
+Elle recommande également de mieux identifier les publics cibles pouvant bénéficier du Fonds, 
+étant donné l’évolution de ces potentiels bénéficiaires suite à la crise énergétique (i.e. également 
+désormais une partie de la classe moyenne). 
+1.3. Le Fonds social Chauffage (ou fonds social mazout)
+1.3.1.  Description du dispositif
+Outre l’octroi des tarifs sociaux gaz et électricité, les ménages à faibles revenus bénéficient 
+également, depuis 2004, d’un autre mécanisme de support direct afin de les aider à payer leurs 
+factures, le Fonds social chauffage21. Le Fonds social chauffage a été créé, lors d’une période de 
+forte augmentation des prix du mazout, pour les citoyens qui se trouvent dans une situation 
+difficile et qui chauffent leur habitation au mazout. Il a été étendu au gaz propane. Le Fonds 
+Social Chauffage est une collaboration entre les pouvoirs publics, les CPAS et le secteur pétrolier. 
+Le fonds social n’intervient pas pour les autres combustibles22.
+Ce fonds contribue partiellement au paiement de la facture de chauffage des personnes 
+appartenant à certains groupes cibles. Les catégories de bénéficiaires de cette intervention 
+partielle sont les personnes bénéficiant de l’intervention majorée de l’INAMI, les bénéficiaires du 
+revenu d’intégration et les personnes en situation de surendettement en médiation. La grande 
+majorité des bénéficiaires sont ceux appartenant à la première catégorie (voir Graphique 3). 
+Le Fonds intervient, via le CPAS, pour un maximum de 1.500 litres avec un total maximum de 
+300 € par ménage et par période de chauffe pour le gasoil de chauffage, le pétrole lampant 
+(type c) et le gaz propane en vrac.
+Le montant de l’allocation varie entre 14 cents et 20 cents par litre, selon le prix au litre facturé, 
+TVA comprise. 
+Dans le contexte de la crise énergétique, les allocations du Fonds social chauffage ont été 
+augmentées, pour les livraisons effectuées à partir du 1er juillet 2022. Le montant de l’allocation 
+varie désormais entre 14 cent et 36 cent par litre. Le maximum a été augmenté de 1.500 à 2.000 
+litres par ménage et période de chauffe. Quant à l’allocation maximale par ménage, elle passe 
+de 300 à 720 €. 
+21 https://www.fondschauffage.be/index.php
+22 Soit le gaz naturel ou de ville, l’électricité, le gaz propane ou butane en bouteille, le pellet, le bois ou le charbon. 
+19
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 20---
+1.3.2.  Bénéficiaires et montant des interventions
+Au total, 80.155 ménages en ont bénéficié en 2022, pour un total d’environ 21,4 millions € 
+de subsides. Selon l’enquête BE-SILC 2020 de Statbel, en 2020, 22,5 % des ménages belges 
+déclaraient le mazout comme principale source d’énergie pour chauffer leur habitation. 
+L’utilisation du mazout comme vecteur d’énergie n’est pas concentrée dans le bas de la 
+distribution des revenus23 : nous reviendrons sur ce point lors de la discussion de la subvention 
+provenant de l’exemption d’accises sur le mazout de chauffage (voir 4.3.2). Entre 2021 et 2022, 
+on constate une augmentation de près de 11 % du nombre de bénéficiaires. 
+Tableau 7 Nombre de bénéficiaires du Fonds social Chauffage (données 2019-2023)
+2019 2020 2021 2022 2023
+Flandre 35.389 30.898 29.044 35.320 30.307
+Wallonie 49.987 43.004 42.981 44.814 40.457
+Bruxelles 422 359 290 322 213
+TOTAL 85.813 74.261 72.315 80.456 70.977
+Source : Fonds social chauffage, Rapport annuel 2023 
+Graphique 3 Répartition par catégorie de bénéficiaires (2023)
+89,4%
+9,2%
+1,4%
+Bénéﬁciaires de catégorie 1 (intervention majorée)
+Bénéﬁciaires de catégorie 2 (revenu limité)
+Bénéﬁciaires de catégorie 3 (surendettement)
+Source : Fonds social Chauffage, Rapport annuel 2023
+Comme l’indique le Graphique 3, près de 90 % du montant total des allocations versées 
+pour 2023 l’ont été aux bénéficiaires de catégorie 1, à savoir les personnes ayant droit à une 
+intervention majorée de l’assurance maladie-invalidité. 
+23 Voir Tableau 16
+20
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 21---
+Graphique 4 Répartition par type de combustible (2023)
+11,0%
+82,0%
+4,0%
+3,0%
+Gasoil de chauﬀage (vrac) Propane (vrac)
+Gasoil de chauﬀage (à la pompe) Pétrole lampant (type c) à la pompe
+Source : Fonds social Chauffage, Rapport annuel 2023
+La majorité des allocations versées s’opèrent en faveur du gasoil de chauffage. Ainsi, en 2023, 
+environ 86 millions de litres de combustibles ont été subventionnés par le Fonds social chauffage.
+1.3.3.  Évaluation
+Les aides apportées consistent en un remboursement d’une tranche donnée et plafonnée de 
+consommation d’énergie. Elles réduisent le montant total de la facture, mais, à l’inverse du tarif 
+social, elles ne modifient le coût marginal de la consommation d’énergie qu’à partir du moment où 
+celle-ci excède le plafond de l’intervention. Du point de vue environnemental, l’impact négatif est 
+donc moindre.
+Le fait que l’accès aux aides soit lié à certains combustibles peut s’expliquer par son origine, liée 
+comme indiqué ci-dessus à une hausse du prix du mazout du chauffage. Laisser perdurer ce lien 
+n’est sans doute pas justifié. le montre les données de l’enquête sur le budget des ménages de 
+Statbel (lien vers 4.3.2), le n’est pas « le chauffage des pauvres ». De plus, ce dispositif réduit les 
+incitations à se diriger vers d’autres sources d’énergie plus respectueuses de l’environnement.
+21
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 22---
+1.4.  Rationaliser et recentrer les dispositifs ? 
+Les évaluations des trois dispositifs 24 ont indiqué dans quelle mesure ils sont dommageables du 
+point de vue de l’environnement. De ce point de vue, le critère de la correction du signal-prix est 
+important : en réduisant celui-ci, on nuit à l’objectif environnemental. Tous les dispositifs prennent 
+comme une donnée le vecteur d’énergie et à ce titre, ils subventionnent le recours aux énergies 
+fossiles lorsque celles-ci sont utilisées. Ils n’incorporent pas d’incitants à sortir de l’utilisation des 
+énergies fossiles et peuvent même contraindre à maintenir l’usage de celles-ci. 
+Ces constats doivent être mis en balance avec l’objectif social commun aux trois dispositifs. 
+Parmi les trois dispositifs examinés, le tarif social est le seul qui affecte intégralement le signal-prix. 
+C’est également celui dont le coût budgétaire est le plus élevé. Le fonds CPAS ne modifie pas le 
+signal-prix et le fonds mazout ne le fait pas au-delà du plafond d’intervention. 
+Au-delà des évaluations spécifiques de chaque dispositif, il apparaît que l’ensemble formé par 
+les trois dispositifs manque de cohérence : il y a, d’une part, pour deux vecteurs d’énergie (le 
+gaz et l’électricité), un tarif social et d’autre part, pour deux autres vecteurs (le mazout et le gaz 
+propane), un fonds avec d’autres critères d’intervention. Ces différences ne sont justifiées ni 
+du point de vue environnemental ni du point de vue social. Le fonds mazout pose le problème 
+du maintien d’un outil conçu dans des circonstances très particulières, sans qu’une réévaluation 
+ou simplement une adaptation à l’évolution du contexte ait été faite. Le fonds CPAS se distingue 
+par des modalités d’intervention de nature beaucoup plus large et doit davantage être vu comme 
+un complément, très utile au regard de l’objectif social, aux deux autres dispositifs qui sont de 
+nature strictement financière.
+Malgré la pluralité des dispositifs, l’objectif commun, qui est d’ordre social, n’est pas entièrement 
+atteint : en témoigne l’écart constaté entre les bénéficiaires des tarifs sociaux et l’étendue de la 
+précarité énergétique. 
+L’OCDE plaide par ailleurs pour un meilleur ciblage du support offert dans le contexte de prix de 
+l’énergie élevés: «Targeting of support should use criteria beyond income to include other factors that 
+determine the degree of a household’s financial vulnerability, e.g. housing location and quality, and 
+household composition» 25. L’amélioration de ce ciblage passe par l’amélioration nécessaire des 
+mécanismes de transfert à l’œuvre actuellement : «[…] even in countries where social benefits systems 
+are more sophisticated, effective targeting would still require more than simply increasing existing 
+transfers. Innovations in transfer mechanisms may be needed to ensure that groups that are most 
+vulnerable to the energy price shock are reached ».
+Le nouvel accord de coalition fédérale 2025-2029 prévoit une réforme budgétairement neutre 
+du tarif social et des interventions du Fonds social de chauffage « vers une intervention forfaitaire 
+plus transparente, basée sur les revenus et le patrimoine, et neutre sur le plan technologique ». 
+24 Cf également SPP Intégration sociale, Evaluation des fonds sociaux en matière d’énergie, Juin 2017. 
+25 OECD (2022), As energy price hikes persist better targeting of support becomes imperative. 
+22
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 23---
+Les dépenses fiscales  
+à l’impôt sur le revenu
+Sont ici concernés l’impôt des personnes physiques et l’impôt des sociétés26. Nous prendrons 
+également en compte les aspects liés aux cotisations sociales : celles-ci ne sont pas des impôts au 
+sens strict, mais sont perçues sur les revenus du travail.
+2.1.  Le régime fiscal des cartes-carburant
+2.1.1.  En quoi le régime des cartes-carburant est-il une subvention ?
+Les frais d’utilisation du véhicule – dont font partie les dépenses de carburant – sont des 
+dépenses à charge de l’employé pour la partie qui concerne l’utilisation privée et le déplacement 
+du domicile ou lieu de travail. Pour ces déplacements, leur prise en charge par l’employeur 
+devrait donc être assimilée à un complément de rémunération et traité comme tel, tant pour 
+les cotisations que pour les impôts sur le revenu. 
+Le régime fiscal en vigueur s’écarte sur plusieurs points de ces principes.
+• L’avantage obtenu n’est pas soumis aux cotisations sociales
+• Si l’employeur met à disposition une voiture de société dont il supporte une partie ou 
+la totalité des dépenses de carburant, 40 % de l’avantage imposable sont non déductibles 
+à l’impôt des sociétés : ils sont inclus dans les dépenses non admises.
+• Aucune imposition n’a lieu dans le chef du salarié
+2.1.2.  Mesure de la subvention
+Différentes études indiquent que la grande majorité des bénéficiaires d’une voiture de société 
+bénéficient en effet également de l’octroi d’une carte essence : ils sont 89 % dans cette situation 
+selon une enquête de la société de consultance Hay Group27, 88 % selon SD Worx28 et 76 % selon 
+le bureau d’études Indigov29.
+Il n’existe malheureusement pas de données administratives au sujet du nombre de conducteurs 
+de voitures de société qui bénéficient de telles cartes. 
+26 Nous ne traiterons pas de l’impôt des personnes morales dont l’importance est marginale. 
+27 Enquête réalisée en 2014 sur un échantillon de 500 sociétés.
+28 VENNEMAN, L., VANDERBEUREN, R. et CATTHOOR, P., Fleet & Mobility Survey – Tendances en matière de mobilité. Centre de 
+connaissances de SD Worx, 2012.
+29  KPMG, Rapport d’étude Company Vehicles – Une notion aux multiples facettes. Bruxelles, 2012.
+2
+23
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 24---
+Climact (2019) estime le subside relatif à l’octroi de cartes carburant à 222,4 millions € pour la 
+période 2014-2016. Cette estimation se base sur les éléments suivants.
+• Le benchmark utilisé dans ce cas est le traitement fiscal et parafiscal d’un montant de 
+salaire équivalent à la dépense en carburant. Climact additionne ainsi les cotisations 
+sociales employeur et employé non perçues et l’impôt des personnes physiques non perçu. 
+En soustraction, est pris en compte l’effet à l’impôt des sociétés de la moindre déductibilité 
+des dépenses de carburant par rapport aux charges salariales. 
+• Pour l’impôt des personnes physiques, un taux de 28 % est appliqué. Pour les cotisations 
+sociales et l’impôt des sociétés, ce sont les taux nominaux qui sont d’application. 
+• Climact pose l’hypothèse de 424.557 voitures de société pour les salariés et 150.000 pour 
+les dirigeants d’entreprise. 
+• Le nombre de kilomètres parcourus à titre privé est repris d’une étude externe30
+Nous avons actualisé ces calculs en intégrant les évolutions des paramètres suivants :
+• une correction pour le taux marginal de l’IPP31 
+• la prise en compte de l’évolution du prix des carburants32 et de l’électricité33
+• le nombre de voitures de sociétés (cf. Tableau 19)
+• la répartition des voitures de sociétés en fonction de la motorisation34
+• le taux de détention de carte essence ou de recharge selon le bureau d’études Indigov35
+• la consommation moyenne d’une voiture en ville, le prix moyen d’une nouvelle voiture diesel 
+ou essence36
+• le prix moyen d’une nouvelle voiture électrique37
+30 COURBE P., 2011, Voitures de sociétés: osez la réforme, fédération inter-environnement wallonie
+31 Climact reprenait un taux de 28 % et nous l’avons remplacé par le taux marginal moyen des détenteurs de voitures 
+de sociétés, calculé par le modèle de micro-simulation SIRe du service d’études du SPF Finances. Ce taux est de 50 %, 
+y compris 7 % d’additionnels communaux. 
+32 Statbel, 2024, Tarif officiel moyen des produits pétroliers en euros, essence E95, diesel B7
+33 CREG, 2024, tableaux de bord mensuels électricité et gaz naturel, moyenne annuelle prix moyen commercial (all in)
+34 VITO, 2024, Statistics of the Belgian vehicle fleet (2008-2023), https://ecoscore.be/fiches
+35 KPMG, Rapport d’étude Company Vehicles – Une notion aux multiples facettes. Bruxelles, 2012.
+36 ICCT, European vehicle market statistics, 2023/2024
+37 Acerta, 2022, combien coûte réellement une voiture de société (électrique), https://www.acerta.be/fr/insights/
+blog/employeurs/combien-coute-reellement-une-voiture-de-societe-electrique#:~:text=Une %20analyse %20
+r %C3 %A9alis %C3 %A9e %20par %20Acerta,autour %20des %2034 %20500 %20euros.
+24
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 25---
+Tableau 8 Subvention provenant des cartes carburant – mise à jour méthode Climact 
+Estimation Climact Réestimation SPF Finances 
+année 2016 2024
+nombre de voitures salariés 424.557 626.600
+nombre voitures dirigeants entreprises 150.000 204.525
+voitures diesel 100 % 34,7 %
+voitures essence 0 % 51,1 %
+voitures 100 % électriques 0 % 12,2 %
+Prix moyen annuel TVA incluse diesel B7 (€/l) 1,187 1,791
+Prix moyen annuelTVA incluse essence 95 
+E10(€/l)   1,722
+prix électricité moyenne annuelle (all-in) (c€/kWh)   21,25
+taux de détention carte essence ou de recharge 95 % 76 %
+nombre de kilomètres parcourus à titre privé 22.000 22.000
+consommation moyenne (urbaine) (l/100 km) 5,7 6,2
+cotisation ONSS patronale 32,39 % 25,00 %
+cotisation ONSS personnelle 13,07 % 13,07 %
+taux précompte professionnel 28 % 50 %
+taux impôt des sociétés 33,99 % 25 %
+taux d’émission moyen (gCO2/km) diesel 117 118,4
+taux d’émission moyen (gCO2/km) essence   114,4
+prix d’une nouvelle voiture diesel ou essence 26.626 € 40.286 €
+prix d’une nouvelle voiture électrique   45.990 €
+montant du subside relatif aux cartes carburants 
+(millions €) 222,4 678,9
+Afin de tenir compte du nombre croissant de véhicules électriques, ceux-ci sont soustraits du 
+calcul à concurrence de la part du mix électrique belge produit par les énergies renouvelables et 
+nucléaire38. 
+Depuis 2016, les taux d’imposition ont baissé au cours de la période : le tax shift a réduit le taux 
+de base des cotisations patronales de 32,40 % à 25,00 % en deux étapes et la réforme de l’impôt 
+des sociétés a réduit le taux nominal de 34,0 % à 29,6 % en 2018 et à 25 % en 2020. Le tax 
+shift n’ayant pas d’effet sur les taux marginaux appliqués dans le haut du barème, nous avons 
+maintenu le taux marginal moyen de l’IPP constant. 
+38 Elia, 2025, Mix électrique 2024, 2 janvier 
+25
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 26---
+Les estimations de la subvention provenant du régime fiscal des voitures de sociétés qui ont été 
+présentées au Tableau 20 comprennent une estimation des cartes-carburant, selon des modalités 
+propres à chacun des auteurs. Il ne faut donc pas additionner les chiffres obtenus au Tableau 
+8 à ceux du Tableau 20. Dans la partie de ce rapport relative à la consolidation des résultats, 
+l’estimation du coût des voitures de sociétés sera reprise « hors carte carburant »39. 
+2.1.3.  Évaluation
+La déductibilité des frais de carburant est particulièrement dommageable, car elle aboutit à ce 
+que l’employeur couvre les dépenses de carburant consommé à des fins privées. Le paiement 
+du carburant par l’employeur est un des éléments qui rend nul le coût marginal du kilomètre 
+privé. Il encourage l’utilisation des voitures de société à des fins privées et va à l’encontre 
+des incitations fournies par la fiscalité sur l’énergie et sur les véhicules, qui visent à réduire la 
+consommation de carburant.
+39 Dans l’estimation de MAY (2019), reprise au Tableau 9, la composante carte-carburant représente 89 millions € sur un 
+total de 1.871 millions €. Pour rappel, le benchmark retenu par l’auteur est l’utilisation de la voiture personnelle avec 
+compensation par l’indemnité kilométrique. 
+26
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 27---
+Les dépenses fiscales liées à  
+des dispositions de TVA
+3.1.  La TVA sur la consommation d’énergie
+3.1.1.  Taux réduit sur les combustibles solides
+Le seul cas de dépense fiscale est celui du taux réduit appliqué à la livraison de « combustibles 
+solides », donc le charbon, le coke, le lignite et combustibles assimilés. 
+Ces opérations bénéficient d’un taux réduit de TVA de 12 %40. Historiquement, c’était le taux 
+de TVA le plus bas (6 %) qui était appliqué. L’accord européen qui a accompagné la création du 
+marché intérieur en 1992 a permis le maintien d’un taux réduit qui a dû toutefois être porté à 
+12 % : les États membres qui, au 1er janvier 1991, appliquaient un taux réduit ont pu continuer à 
+l’appliquer à condition que ce taux ne soit pas inférieur à 12 %.
+L’Inventaire fédéral des dépenses fiscales n’identifie pas séparément le coût de cette dépense 
+fiscale : elle est comprise dans le coût total des taux réduits. Nous nous sommes donc tournés 
+vers d’autres sources.
+Selon l’inventaire national des gaz à effet de serre41, le charbon représentait, en 2022, 0,3 % de 
+la consommation en énergie du secteur résidentiel en Belgique. Nous appliquons ce ratio sur 
+la dépense totale de la rubrique « électricité, gaz et autres combustibles » dans le détail de la 
+consommation finale des ménages tel que publié dans les comptes nationaux et nous calculons 
+ensuite le coût de la dépense fiscale. Celle-ci est estimée à 4,8 millions € pour l’année 2022. 
+Tableau 9 Taux réduit de TVA sur la livraison de combustibles solides  
+(en millions €)
+2017 2018 2019 2020 2021 2022
+Dépenses « électricité, gaz 
+et autres combustibles » 
+(CN)
+10.042,9 10.571,9 10.339,4 9.371,4 11.586,4 18.993,7
+Dont charbon (INV GES) 44,0 42,3 33,5 27,5 34,9 60,2
+Dépense fiscale 3,5 3,4 2,7 2,2 2,8 4,8
+Sources : ICN – Comptes nationaux ; climat.be inventaire des gaz à effet de serre – calculs propres
+Le montant peu élevé de la dépense fiscale s’explique essentiellement par le faible nombre 
+de ménages utilisant encore ce mode de chauffage. Dans l’enquête sur le budget des ménages 
+de Statbel, très peu déclarent des dépenses sous ce poste. Ceux qui le font sont concentrés 
+dans le bas de la distribution.
+L’accord de gouvernement (2025-2029) prévoit que le taux de TVA sur le charbon passe à 21 %.
+40 Ce taux réduit est repris à l’Annexe B de l’Arrêté royal n°20, du 20 juillet 1970 fixant les taux de la taxe sur la valeur 
+ajoutée.
+41 Inventaire national des émissions de gaz à effet de serre, climat.be
+3
+27
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 28---
+3.1.2.  Taux réduit sur l’électricité et le gaz
+En réponse à la hausse importante et soudaine des prix de l’énergie, le gouvernement a décidé 
+d’introduire de façon provisoire un taux réduit de TVA de 6 % sur la livraison d’électricité, de gaz 
+naturel et de chaleur via les réseaux de chaleur.
+Le rapport du comité de monitoring de juillet 2022 a estimé le coût de l’instauration d’un taux 
+réduit pour les clients résidentiels :
+• pour l’électricité entre le 1er mars et le 31 décembre 2022 à 992,7 millions 
+• pour le gaz entre le 1er avril et le 31 décembre 2022 à 610,1 millions
+Le rapport du comité de monitoring de septembre 2022 a estimé le coût de la prolongation de ce 
+taux réduit jusqu’au 31 mars 2023 à 346 millions pour l’électricité et à 266 millions pour le gaz.
+Depuis le 1er avril 2023, le taux réduit de TVA est devenu permanent. 
+3.2.  La TVA sur les services de transport
+3.2.1.  Considérations générales
+Dans le cas du transport, un taux réduit de TVA ne procure pas une subvention directe, mais 
+une subvention indirecte. La dépense fiscale ne concerne pas directement l’utilisation d’une 
+énergie fossile, mais un service dont la production requiert inévitablement une source d’énergie. 
+Toutefois, dès lors qu’il y a recours à une énergie fossile et que celle-ci est subventionnée, il y a 
+pour cette forme de transport un avantage compétitif, qui peut déboucher sur une utilisation 
+accrue des énergies fossiles. 
+Une distinction doit en outre être faite entre le transport de passagers et le transport 
+de marchandises. Le premier constitue dans la toute grande majorité des cas une consommation 
+finale, ce qui n’est pas le cas du transport de marchandises. Ce dernier étant une étape 
+intermédiaire dans la chaîne de production, la TVA est déductible chez l’acheteur du service 
+de transport et la TVA appliquée en bout de chaîne est celle qui s’applique à la livraison du bien 
+transporté. 
+28
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 29---
+3.2.2. La TVA sur le transport international de passagers 
+Le Tableau 10 détaille les taux de TVA applicable en Belgique et dans les pays limitrophes pour 
+le transport international de passagers42. 
+Tableau 10 Taux de TVA applicable au transport international de passagers  
+(situation au 1er janvier 2024, en %)
+Belgique Allemagne France Pays-Bas
+Air 0 0 0 0
+Mer 0 0 0 0
+Voies navigables intérieures 6 0/7 10 9
+Rail 6 7/19 0 9
+Route 6 7/19 Ex/10 9
+Source : SPF Finances, Belastingdienst.nl , bofip.impots.gouv.fr, www.bundesfinanzministerium.de
+Les services de transport bénéficient de taux réduits ou sont exonérés. Dans la plupart des cas, 
+l’exonération maintient le droit à la déduction des taxes acquittées en amont, ce qui revient à 
+appliquer un taux zéro. 
+Alors que le transport aérien et le transport maritime sont exonérés dans tous les pays, le 
+transport ferroviaire, qui - en Belgique particulièrement - ne recourt que très partiellement aux 
+énergies fossiles, est soumis à la TVA non seulement chez nous, mais aussi aux Pays-Bas et en 
+Allemagne. 
+Il y a donc potentiellement une source de distorsion de concurrence. En ce qui nous concerne, 
+on pourrait considérer qu’elle est de faible portée dès lors que c’est le taux de 6 % qui s’applique 
+pour le transport ferroviaire. On pourrait aussi objecter que la concurrence entre transport 
+aérien et transport ferroviaire est faible, les marchés ne se recoupant que très partiellement. 
+D’une manière plus prospective, elle prendrait cependant de l’importance dès lors que l’Europe a 
+l’ambition d’agrandir son réseau ferroviaire à grande vitesse : ceci créerait un recoupement plus 
+large des marchés.
+Notre benchmark étant celui d’un taux unique, il y aurait donc subvention pour la toute grande 
+majorité des cas. 
+Dans la suite de ce paragraphe, nous nous limiterons au transport aérien. Ce choix se justifie 
+comme suit.
+• Il faut d’abord faire une distinction entre le subventionnement du transport et 
+le subventionnement de certains modes de transport. Seul le second crée une distorsion 
+de concurrence dans le choix du mode de transport. Dès lors que le taux réduit est 
+d’application très générale quand le transport est soumis à la TVA, cela revient à limiter 
+le champ d’investigation aux cas où il y a exonération (ou taux zéro).
+• Restent alors le transport aérien et le transport maritime. S’agissant des passagers, 
+le premier est nettement plus important que le second. De plus, l’avantage ici octroyé 
+au transport aérien s’ajoute à d’autres avantages, dont la non-taxation du kérosène43.
+42 Une précision doit être apportée quant au champ d’application de la TVA. Pour les services de transport international, la base imposable 
+est localisée là où s’effectue le transport. Il y a donc un prorata sur base du nombre de kilomètres.
+43 Voir 4.5
+29
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 30---
+3.2.3.  Le cas particulier du transport aérien
+A. DESCRIPTION DE LA PROBLÉMATIQUE
+Le secteur aérien, et en particulier l’aviation civile internationale, bénéficie d’un régime particulier.
+• Le transport international est exonéré avec maintien du droit à la déduction des taxes payées 
+en amont. Il s’agit donc d’un taux zéro. Lorsque les États ont adhéré à l’Union européenne, 
+les exemptions alors existantes de TVA sur les billets pour les vols internationaux ont fait 
+l’objet d’un droit acquis sur une base « temporaire » (clause de grandfathering), mais ces 
+exemptions ont continué à s’appliquer44. Cette exemption se retrouve en droit belge à l’article 
+41, §1, 1er, du Code TVA45.
+• La TVA sur les billets d’avion pour les vols intérieurs est appliquée dans certains États 
+membres, mais de nombreux autres États membres continuent à appliquer un taux zéro 
+pour ces vols. Pour la Belgique, cet aspect n’a qu’une portée purement théorique. 
+Tableau 11 Taux de TVA applicable aux vols passagers intérieurs  
+(situation au 1er janvier 2024, en %)
+Pays Taux de TVA applicable  
+sur les vols intérieurs Nature du taux
+Belgique 6  Réduit
+Allemagne 19  Normal
+France 10  Réduit
+Pays-Bas 21  Normal
+Source : SPF Finances, Belastingdienst.nl , bofip.impots.gouv.fr, www.bundesfinanzministerium.de
+Des propositions de réforme TVA sont actuellement en cours de discussion au niveau de l’UE, afin 
+de simplifier la règle du « lieu des prestations ». Le but serait d’utiliser le principe de « destination » 
+(au sens de la TVA) pour déterminer la TVA à payer. Ce qui signifie que le lieu de la prestation pour 
+le transport des passagers serait dès lors le pays de départ. La TVA s’appliquerait dès lors sur la 
+valeur intégrale des tickets d’avion au taux de TVA du pays de départ. 
+Cependant, le contenu exact de la proposition concrète et, plus précisément, la règle de 
+positionnement visée par la Commission, reste à voir. Il est possible qu’à cette occasion, la règle 
+qui attribue la recette de TVA sur base de la distance parcourue dans chaque pays soit modifiée. 
+En 2022 et 2023, la Commission a procédé à une analyse d’impact qui pourrait se traduire par 
+une initiative législative sous la forme d’une proposition de la Commission pour une directive du 
+Conseil modifiant la directive TVA. 
+Cependant, étant donné les fortes oppositions de certains secteurs dont le secteur aérien, ces 
+tentatives de réformes concernant le lieu des prestations n’ont jamais abouti jusqu’à présent. 
+44 Directive 2006/116/CE du Conseil du 28.11.2006 relative au système commun de taxe sur la valeur ajoutée. 
+45 Sont exemptés de la taxe […] les transports maritimes de personnes ; les transports aériens internationaux de 
+personnes ; les transports de bagages et de voitures automobiles, accompagnés de voyageurs dans le cas des transports 
+visés au présent 1° ; […]. 
+30
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 31---
+B. ESTIMATION DE LA SUBVENTION
+L’étude de CE Delft envisage l’assujettissement des billets d’avion à la TVA pour toutes 
+destinations, avec application du taux de 6 % pour les tickets de transport international. L’impact 
+budgétaire est estimé à 202 millions € pour l’année 2015. Ceci réduirait les émissions de CO2 de 
+6 %. Tant l’emploi global que le PIB resteraient pratiquement inchangés46.
+C. ÉVALUATION
+Selon le Conseil supérieur des Finances (2020), ces exonérations n’ont pas de justification 
+économique ni sociale et sont contreproductives par rapport à la politique climatique belge et 
+européenne47. Il indique toutefois qu’une initiative isolée de la Belgique n’a pas de sens et qu’une 
+réforme doit se faire dans un cadre européen.
+Dans sa communication du 15 juillet 202048, la Commission propose une réforme du traitement 
+TVA des services de transport de passagers qui s’inscrit dans son objectif de simplifier et de 
+faciliter le respect des règles fiscales de l’UE et aussi dans l’objectif d’assurer ainsi une plus grande 
+compétitivité sur le marché. En particulier, en ce qui concerne les règles de TVA sur le transport de 
+passagers, l’objectif sera de (i) les mettre en conformité avec la politique fiscale développée dans 
+le cadre du Green Deal et (ii) de lutter pour l’égalité de traitement, quelle que soit la nature du 
+moyen de transport.
+La Commission considère en effet que le traitement actuel de la TVA, du fait des exonérations 
+existantes et en particulier pour le transport international de passagers par air et par mer, est 
+en contradiction avec les principes de base de la politique fiscale dans le cadre du Green Deal, 
+car ils reviennent de facto à la non-imposition. Par conséquent, un ajustement des règles de 
+positionnement est envisagé, car les règles de positionnement actuelles, qui sont basées sur 
+la distance parcourue par chaque passager individuellement, ne sont plus tenables, car elles 
+conduisent de facto à une non-imposition et à une exonération du transport maritime et aérien 
+international.
+46 European Commission (2019), p. 65.
+47 CSF (2020), p. 334.
+48 European Commission (2020), Action plan for fair and simple taxation supporting the recovery strategy. Disponible sous 
+2020_tax_package_tax_action_plan_en.pdf (europa.eu)
+31
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 32---
+Les écarts de taux et 
+exemptions  
+dans le domaine des accises
+4.1.  Les taux de référence 
+Graphique 5 Taux d’accises (en € par tonne équivalent pétrole, 2023)
+800
+700
+600
+500
+400
+300
+200
+100
+0
+Combustibles : consommation professionnelle
+Electricité 1ère tranche – benchmark 2
+Gasoil - utilisations
+industrielles et commerciales
+Gaz naturel :
+entreprises avec accord de branche
+Kérosène
+Fioul lourd
+GPL
+Houille et coke
+Lignite
+Gaz naturel
+Combustibles :
+consommation 
+non-professionnelleElectricité 1ère tranche – Benchmark 2
+Mazout de chauﬀage
+haute teneur en soufre
+Mazout de chauﬀage
+basse teneur en soufre
+Gaz naturel
+Carburants
+Essence sans plomb – Benchmark 1
+Diesel haute teneur en soufre
+Diesel basse teneur en soufre
+Diesel professionnel
+€ par tep
+En matière d’accises, comme le montre le Graphique 5, les taux varient tant en fonction du produit 
+utilisé que de l’usage qui en est fait. La législation distingue deux catégories en fonction de l’usage. 
+D’un côté les carburants et de l’autre, les combustibles et autres usages. Les carburants sont taxés 
+à un taux plus élevé. Cette distinction par catégorie se retrouve dans la législation européenne y 
+compris dans la dernière proposition de Directive sur la taxation de l’énergie de la Commission 
+européenne49. Sur le plan environnemental, cette distinction ne se justifie pas nécessairement 
+car ces différences de taux n’ont pas de lien avec les impacts environnementaux générés par le 
+produit. Le gasoil est un bon exemple. Lorsqu’il est utilisé comme carburant, il est appelé diesel 
+et taxé à un taux élevé comparé à au taux auquel est taxé ce même produit lorsqu’il est utilisé 
+comme combustible. On parle alors de mazout. Cependant, mazout et diesel partagent les mêmes 
+caractéristiques. C’est pour cette raison que le mazout est coloré avec une teinte rouge afin de 
+pouvoir distinguer les deux produits. 
+49 Commission européenne, 2021, proposition de Directive (refonte), COM(2021) 563 final.
+4
+32
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 33---
+Cette section a trait aux écarts de taux d’accises par rapport à une valeur de référence. Le terme 
+« écart de taux » est utilisé car il est plus spécifique que le terme « subside » qui peut laisser 
+penser à tort qu’il s’agit de transferts financiers et que la suppression de ces dispositifs engendre 
+des recettes fiscales complémentaires. Etant donné que la mesure des écarts de taux ne prend 
+pas en compte les effets de comportements, la suppression de ceux-ci peut même, dans certains 
+cas, ne rapporter aucune recette fiscale complémentaire. Cette précision a également été faite 
+dans l’inventaire réalisé aux Pays-Bas, qui constitue une annexe au Budget annuel50. Le terme 
+« subsides » comprenant également les écarts de taux reste cependant le terme de référence au 
+niveau international, il est donc conservé dans ce rapport.
+Comme indiqué dans la partie méthodologique (voir annexe 13.1.5), l’approche retenue ici est de 
+prendre pour point de référence le taux d’accises, exprimé en TEP, sur l’essence sans plomb, et 
+ceci pour tous les usages (carburant ou combustible). Cette approche est désormais dénommée 
+benchmark 1. Les écarts de taux sont alors calculés comme dans la formule [3] (voir annexe 
+13.1.5). 
+Cette édition de l’inventaire introduit également un benchmark alternatif : le benchmark 2. Dans 
+le benchmark 2, l’essence sans plomb est toujours le taux de référence des carburants mais pour 
+les autres usages repris sous l’appellation combustibles, c’est le taux d’accise sur la première 
+tranche de l’électricité qui a été choisi en faisant la distinction entre usage professionnel et usage 
+non-professionnel.
+Cette façon de procéder diffère de celle utilisée dans l’Inventaire fédéral des dépenses fiscales, 
+qui constitue cependant la principale source d’information pour les subventions octroyées par les 
+accises. Comme nous l’avons expliqué ci-dessus, l’Inventaire fédéral des dépenses fiscales définit 
+un taux de référence par produit, dans l’unité spécifique pour ce produit, alors que nous avons 
+opté dans le benchmark 1 pour une référence appliquée de façon généralisée à tous les produits 
+pétroliers et exprimée en TEP. 
+Nous ferons donc une distinction entre les subventions provenant des écarts de taux de 
+référence entre produits et celles provenant de « dépenses fiscales stricto sensu », à savoir 
+de différenciations pour un même produit. Dans une troisième section, nous traiterons de 
+l’exemption d’accises sur le kérosène. 
+50 Nota over de toestand van ’s rijks financiën, 2024, vergaderjaar 2024-2025, tweede kamer der Staten-Generaal, 36600 
+n°2, 17 september, blz 398
+33
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 34---
+4.2.  Les écarts de taux entre produits
+Le Tableau 12 donne le résultat de ces calculs pour les six dernières années pour le benchmark 1 
+et pour les deux dernières années pour le benchmark 251.
+Tableau 12 Ecarts de taux entre produits (en millions €) 
+  2018 2019 2020 2021 2022 2023
+  Carburants : benchmark 1
+Essence sans plomb 0,0 0,0 0,0 0,0 0,0 0,0
+Gasoil haute teneur en soufre 0,1 0,2 0,7 0,0 0,1 0,0
+Gasoil faible teneur en soufre 696,0 429,7 252,0 368,9 382,4 356,7
+Total carburants 696,0 429,9 252,8 368,9 382,5 356,7
+  Combustibles : benchmark 1
+Kérosène (hors aviation) 0,0 0,0 0,0 0,0 0,0 0,0
+Fioul lourd 26,0 20,1 52,8 16,9 20,1 10,2
+LPG 6,7 5,4 6,0 9,7 9,2 6,1
+Gaz naturel 4.848,1 4.741,5 4.538,0 5.124,3 4.854,2* 3.722,4*
+Houille et coke 10,6 57,4 0,3 0,2 0,7 0,2
+Total combustibles 
+benchmark 1 4.891,4 4.824,4 4.597,2 5.151,2 4.884,2 3.738,8
+  Combustibles : benchmark 2
+Kérosène (hors aviation)         0,0 0,0
+Fioul lourd         4,4 2,3
+LPG         1,8 1,2
+Gaz naturel : professionnel         900,5 690,3
+Gaz naturel : non-
+professionnel         520,3 1.202,3
+Houille et coke         0,2 0,0
+Total combustibles 
+benchmark 2         1.427,2 1.896,1
+Source : SPF Finances – calculs propres
+*Les chiffres du gaz naturel à partir de 2022 prennent en compte l’instauration de droits d’accises. Les chiffres antérieurs à 2022 ne 
+prennent pas en compte la cotisation fédérale sur le gaz et les contributions pour obligations de service public fédéral.
+51 Pour le diesel, les montants repris ici ne comprennent pas le diesel qui est sous le régime du « diesel professionnel ». 
+Comme pour les autres dépenses fiscales, cette subvention est calculée au point 4.3.3.
+34
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 35---
+En 2023, les subventions provenant de la tarification différenciée des produits énergétiques 
+s’élèvent à 356,7 millions € pour les carburants et à 3.738,8 millions € pour les combustibles 
+selon le benchmark 1 ou 1.896,1 millions € selon le benchmark 2. Ces chiffres proviennent quasi 
+exclusivement des écarts de tarification (exprimée en TEP) dont bénéficient encore le gasoil 
+à faible teneur en soufre et surtout le gaz naturel. Le mouvement d’égalisation des accises 
+entre essence et diesel sur la période 2015-2019 a réduit considérablement le montant de ces 
+subventions (voir Graphique 6). En 2020, le montant du subside a connu une baisse due à la 
+réduction de la consommation suite à la crise du covid. En 2021, on observe une augmentation 
+due principalement à la hausse des volumes de gaz consommés. En 2022, les volumes de 
+gaz et de diesel consommés sont repartis à la baisse suite à la forte augmentation des prix. 
+Cette baisse des volumes s’est poursuivie en 2023. Outre la baisse des volumes, les chiffres du 
+Tableau 12 prennent en compte à partir de 2022 l’instauration de droits d’accises. Cependant, la 
+comparaison avec les années antérieures n’est pas possible car la cotisation fédérale sur le gaz et 
+les contributions pour obligations de service public fédéral supprimées en 2022 n’est pas intégrée 
+dans le Tableau 12 faute de données disponibles. 
+L’essentiel du subside reste donc imputable à la taxation plus faible du gaz naturel. La 
+consommation finale de gaz naturel se répartit comme suit : 57,2 % pour l’industrie, 24,8 % pour 
+le résidentiel, 13,6 % pour le commerce, 4,0 % pour l’agriculture et 1,1 % pour le transport52.
+Graphique 6 Subventions produits énergétiques : écarts de taux entre produits  
+(en millions €) – Benchmark 1
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022* 2023*
+Gasoil Gaz naturel Houille et charbon Autres
+Millions €
+Source : SPF Finances – calculs propres
+* Les chiffres du gaz naturel à partir de 2022 prennent en compte l’instauration de droits d’accises. Les chiffres antérieurs à 2022 ne 
+prennent pas en compte la cotisation fédérale sur le gaz et les contributions pour obligations de service public fédéral.
+52 European Environment Agency, 2024 , Belgium’s greenhouse gas inventory-2022, 19 september 2024 Submission,  
+https://cdr.eionet.europa.eu/be/eu/govreg/inventory/
+35
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 36---
+4.3.  Les écarts de taux entre utilisations d’un même produit
+4.3.1.  Résultats globaux
+La même méthode est utilisée pour calculer les écarts de taux pour des utilisations différentes 
+du même produit. Ces écarts de taux sont recensés et quantifiés dans l’Inventaire fédéral des 
+dépenses fiscales, mais le montant calculé ici sera différent. En effet, nous avons retenu un point 
+de référence commun entre produits tandis que l’Inventaire fédéral des dépenses fiscales prend 
+pour point de référence la taxation normale de chaque produit. Pour tous les autres que le 
+kérosène, nous aurons un montant de subvention plus élevé (voir Tableau 26).
+Le Tableau 13 donne le détail des subventions pour les six dernières années et le Graphique 7 
+donne leur évolution depuis 2005.
+Tableau 13 Différence de taux pour un même produit (en millions €)
+  2018 2019 2020 2021 2022 2023
+  Carburants : benchmark 1
+Remboursement de diesel 
+professionnel 668,2 939,3 1.220,5 905,5 742,4 660,8
+Kérosène utilisé comme carburant 4,6 3,4 2,3 2,4 1,3 1,3
+Total carburants 672,8 942,7 1.222,8 907,9 743,8 662,1
+  Combustibles : benchmark 1
+Gasoil - utilisations industrielles et 
+commerciales 386,3 415,6 383,7 375,0 412,5 377,1
+Kérosène utilisé comme combustible 37,0 34,9 32,5 41,5 36,9 34,8
+Gaz naturel au taux réduit (*) 1.250,2 1.091,0 1.031,1 1.190,6 993,9 963,1
+Mazout de chauffage -  
+haute teneur en soufre 963,9 769,4 750,9 820,3 988,7 911,0
+Mazout de chauffage -  
+faible teneur en soufre 1.302,2 1.360,4 1.512,4 1.276,2 868,1 887,3
+Mazout de chauffage – total 2.266,0 2.129,8 2.263,3 2.096,5 1.856,8 1.798,2
+LPG utilisé comme combustible 120,3 108,6 138,8 140,0 120,3 117,8
+Houille et coke - exonération pour les 
+ménages 50,6 27,8 20,8 22,1 16,5 11,1
+Total combustibles benchmark 1 4.110,4 3.807,8 3.870,2 3.865,7 3.436,9 3.302,1
+Combustibles : benchmark 2
+  Usage professionnel
+Gasoil - utilisations industrielles et 
+commerciales         87,3 79,8
+Kérosène utilisé comme combustible         7,9 7,4
+Gaz naturel au taux réduit (*)         291,2 236,8
+36
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 37---
+  Usage non-professionnel
+Mazout de chauffage - haute teneur 
+en soufre         205,0 588,9
+Mazout de chauffage - faible teneur 
+en soufre         181,5 574,2
+Mazout de chauffage – total         386,5 1.163,0
+LPG utilisé comme combustible         25,5 76,4
+Houille et coke - exonération pour les 
+ménages         3,8 7,3
+Total combustibles benchmark 2         802,2 1.570,7
+Source : SPF Finances – calculs propres
+(*) Les chiffres du gaz naturel à partir de 2022 prennent en compte l’instauration de droits d’accises. Les chiffres antérieurs à 2022 ne 
+prennent pas en compte la cotisation fédérale sur le gaz et les contributions pour obligations de service public fédéral.
+Graphique 7 Subventions sur les produits énergétiques : taux réduits et exemptions  
+(en millions €) – Benchmark 1
+!
+1.000
+0
+2.000
+3.000
+4.000
+5.000
+6.000
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Millions €
+Mazout de chauﬀage - total Gasoil - utilisations industrielles et commercialest
+Remboursement de diesel professionnel Kérosène utilisé comme combustible
+Kérosène utilisé comme carburant LPG utilisé comme combustible
+Gaz naturel au taux réduit
+Source : SPF Finances – calculs propres
+Ces écarts de taux s’élèvent en 2023 à 662,1 millions € pour les carburants et à 3.302,1 millions 
+€ pour les combustibles selon le benchmark 1 ou 1.570,7 millions € selon le benchmark 2. 
+Ce montant doit être considéré comme un minimum vu que certaines dépenses fiscales ne sont 
+pas quantifiées. Trois postes importants se dégagent : le taux réduit sur le mazout de chauffage, 
+les remboursements de diesel professionnel et le taux réduit sur le gaz naturel. Comme nous le 
+verrons ci-après, le dernier poste concerne essentiellement l’industrie et plus particulièrement 
+certains secteurs ayant conclu des accords de branche. 
+37
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 38---
+4.3.2.  Le mazout de chauffage
+A. DESCRIPTION DU DISPOSITIF
+Le mazout de chauffage est exempté d’accises, au sens strict. Il était uniquement soumis à 
+une « redevance de contrôle » qui a la forme d’une accise ainsi qu’à la cotisation sur l’énergie . 
+Pour l’année 2023, le montant de ces deux prélèvements était de 17,2564 €/1000l de mazout 
+à faible teneur en soufre alors que les accises normales sur le diesel à faible teneur en soufre 
+correspondant sont de 600,1586 €/1000l. Pour le gasoil à haute teneur en soufre, les taux 
+correspondants sont de 18,6521 € pour la redevance de contrôle sur le mazout et de 615,8682 € 
+pour le diesel. 
+B. ANALYSE DU DISPOSITIF
+L’évolution du montant de la subvention dépend de l’évolution des volumes et de l’évolution des 
+taux d’accises. Le Graphique 8 détaille l’évolution des volumes et le Graphique 9 décompose 
+l’évolution de la subvention (en taux de croissance annuel) entre la composante volume et 
+l’évolution du taux de subvention.
+Graphique 8 Mazout de chauffage : évolution des volumes (en 1000l)
+0
+1.000.000
+2.000.000
+3.000.000
+4.000.000
+5.000.000
+6.000.000
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Mazout haute teneur en soufre Mazout faible teneur en soufre
+Volumes (1000 l)
+Source : SPF Finances – calculs propres
+38
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 39---
+Graphique 9 Mazout de chauffage: décomposition de la croissance  
+(volume et écart de taux)
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+20062006 20072007 20082008 20092009 20102010 20112011 20122012 20132013 20142014 20152015 20162016 20172017 20182018 20192019 20202020 20212021 20222022 20232023
+Volume Taux Total
+Source : SPF Finances – calculs propres
+Plusieurs constats peuvent être faits :
+• Il y a d’abord une variabilité assez forte d’une année à l’autre (Graphique 9) qui est elle-même 
+liée aux conditions climatiques.
+• Globalement, l’évolution de l’écart de taux total est corrélée avec l’évolution des volumes. 
+• On note une substitution du gasoil à forte teneur en soufre vers le gasoil à faible teneur en 
+soufre ce (Graphique 8). A partir du 1er avril 2024, le gasoil à forte teneur en soufre ne peut 
+plus être vendu.
+• Enfin, globalement, la tendance est décroissante. Le taux de croissance annuel moyen entre 
+2005 et 2023 est de -4 % pour les volumes et de -3,9 % pour les subventions. Ceci peut 
+s’expliquer par un glissement progressif vers d’autres modes de chauffage. 
+En plus de ses effets dommageables sur l’environnement, cet écart de taux pose deux problèmes. 
+• Il introduit une différence de prix relatif entre les différents vecteurs d’énergie qui manque de 
+justification. 
+• On ne peut pas davantage argumenter sur base d’un objectif social : les données provenant 
+des enquêtes sur le budget des ménages sont assez éclairantes à cet égard. 
+39
+Inventaire fédéral des subventions aux énergies fossiles  I  2025
+---PAGE 40---
+Selon l’enquête sur le budget des ménages 2022 (voir Tableau 14), les ménages qui se chauffent 
+au mazout sont concentrés dans les troisième et quatrième quartiles : ils représentent 
+respectivement 28,3 % et 26,9 % des ménages se chauffant au mazout. Il s’agit principalement 
+de propriétaires : 85,5 % du total des ménages de l’échantillon ayant déclaré des dépenses en 
+mazout de chauffage le sont. La dépense moyenne augmente également sur l’axe des revenus : 
+celle des deux premiers quartiles est inférieure à la moyenne au niveau de l’ensemble de 
+l’échantillon 2022 de l’enquête (363 € de dépenses moyennes par ménage par an). 
+Tableau 14 Dépenses de mazout par ménage et nombre de ménages, par quartile
+Quartiles Dépenses moyennes par ménage  
+et par an (€)
+Nombre de ménages  
+( % ménages se chauffant au mazout)
+1 297 21,8 %
+2 305  23,0 % 
+3 419  28,3 % 
+4 432 26,9 % 
+Total 363  100,0 % 
+Source : SPF Économie – Enquête sur les budgets des ménages 2022 – calculs propres
+C. ÉVALUATION
+L’exemption d’accises (hors redevance de contrôle et cotisation sur l’énergie) est une subvention 
+d’ampleur importante. D’un point de vue énergétique et environnemental, elle n’a pas de 
+justification : le mazout de chauffage n’a aucune caractéristique qui puisse justifier un traitement 
+de faveur, bien au contraire. Elle est particulièrement dommageable du fait de son effet très net 
+sur le signal-prix. 
+Elle n’est pas non plus justifiée d’un point de vue social, étant donné qu’on n’observe pas de 
+concentration des ménages se chauffant au mazout dans le bas de l’échelle des revenus. 
+Il reste le problème de la relation entre le revenu et la facture énergétique : celle-ci est 
+relativement plus importante dans le bas de l’échelle des revenus. En conséquence, une taxation 
+plus élevée du mazout de chauffage reviendrait à une imposition régressive. Ceci ne justifie 
+toutefois en rien une dépense fiscale en faveur d’un mode d’énergie particulier qui n’est pas 
+moins polluant qu’un autre.
+Le problème du caractère régressif de la taxation des produits énergétiques requiert une réforme 
+globale, qui concilie mieux les objectifs environnementaux et sociaux. Cette réforme devrait 
+également prendre en considération les modifications à apporter aux tarifs sociaux et autres 
+modalités de soutien examinées dans la deuxième section de ce rapport. 
+40
+Inventaire fédéral des subventions aux énergies fossiles  I  2025

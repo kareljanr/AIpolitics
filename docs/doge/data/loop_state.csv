@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T10:00:00Z,rq_237,246,no,Scheduler 60s. Next prio5 rq_238; rq_116 SWA deferred. FOI ready human send. tick246 FWB egalite CL 7.85m dual VL GK 15.2m.
+main,continuous,hole_fill,2026-07-29T10:30:00Z,rq_238,247,no,Scheduler 60s. Next prio5 rq_239; progress@250 in 3 ticks; rq_116 SWA deferred. tick247 fossil direct 13.3bn 2022.
