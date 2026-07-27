@@ -1934,3 +1934,24 @@ bud_sfpim_nonrec_income_2025,sfpim,2025,112000000,,,outturn,src_sfpim_figures_20
 bud_sfpim_portfolio_companies_2025,sfpim,2025,189,,,outturn,src_sfpim_figures_2025,strong,Companies in portfolio 189 end-2025
 bud_sfpim_staff_2025,sfpim,2025,39,,,outturn,src_sfpim_figures_2025,strong,Team headcount 39 2025
 bud_sfpim_key_profit_highlight_2025,sfpim,2025,211200000,,,outturn,src_sfpim_figures_2025,medium,Key-figure highlight 211.2m profit (may differ from table net 291m; definition not on page)
+bud_bio_assets_2025,bio_invest,2025,1196000000,,,outturn,src_bio_ar2025_financials,strong,Total assets 1.196bn end-2025 (+1pct narrative AR)
+bud_bio_equity_2025,bio_invest,2025,1176262036,,,outturn,src_bio_ar2025_pdf,strong,Equity 1.176bn end-2025 extracted chart (delta +16.7m vs 2024)
+bud_bio_equity_2024,bio_invest,2024,1159485666,,,outturn,src_bio_ar2025_pdf,strong,Equity 1.159bn end-2024 extracted chart
+bud_bio_income_2025,bio_invest,2025,55310567,,,outturn,src_bio_ar2025_pdf,strong,Total income 55.311m 2025
+bud_bio_income_2024,bio_invest,2024,53072059,,,outturn,src_bio_ar2025_pdf,strong,Total income 53.072m 2024
+bud_bio_gross_margin_2025,bio_invest,2025,54470049,,,outturn,src_bio_ar2025_pdf,strong,Gross margin 54.470m 2025
+bud_bio_opex_2025,bio_invest,2025,14303383,,,outturn,src_bio_ar2025_pdf,strong,Operating costs net of mgmt fees 14.303m 2025
+bud_bio_opex_2024,bio_invest,2024,11456095,,,outturn,src_bio_ar2025_pdf,strong,Operating costs 11.456m 2024
+bud_bio_cost_of_risk_2025,bio_invest,2025,20108344,,,outturn,src_bio_ar2025_pdf,strong,Provisions write-offs cost of risk 20.108m 2025
+bud_bio_cost_of_risk_2024,bio_invest,2024,17180279,,,outturn,src_bio_ar2025_pdf,strong,Cost of risk 17.180m 2024
+bud_bio_op_result_2025,bio_invest,2025,20058322,,,outturn,src_bio_ar2025_pdf,strong,Operating result 20.058m 2025
+bud_bio_fx_2025,bio_invest,2025,-5947383,,,outturn,src_bio_ar2025_pdf,strong,FX result -5.947m 2025
+bud_bio_pretax_2025,bio_invest,2025,14110939,,,outturn,src_bio_ar2025_pdf,strong,Result before taxes 14.111m 2025
+bud_bio_net_2025,bio_invest,2025,8970780,,,outturn,src_bio_ar2025_pdf,strong,Net result 8.971m 2025
+bud_bio_net_2024,bio_invest,2024,19198990,,,outturn,src_bio_ar2025_pdf,strong,Net result 19.199m 2024
+bud_bio_dividend_2025,bio_invest,2025,4500000,,,budgeted,src_bio_ar2025_financials,strong,Proposed dividend to Belgian State 4.5m FY2025
+bud_bio_retained_2025,bio_invest,2025,34900000,,,outturn,src_bio_ar2025_financials,strong,Retained earnings 34.9m end-2025 narrative
+bud_bio_approvals_2025,bio_invest,2025,235000000,,,outturn,src_bio_ar2025_numbers,strong,New financing approvals 235m across 30 projects 2025 record
+bud_bio_approvals_projects_2025,bio_invest,2025,30,,,outturn,src_bio_ar2025_numbers,strong,30 projects approved 2025 (22 in 2024)
+bud_bio_signed_count_2025,bio_invest,2025,21,,,outturn,src_bio_ar2025_numbers,strong,21 investments signed 2025
+bud_bio_jobs_direct_eoy2024,bio_invest,2024,388000,,,outturn,src_bio_ar2025_numbers,medium,Direct jobs supported ~388000 end-2024 impact figure

@@ -1872,3 +1872,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 23; cmt 1; lb 2; FOI **gap_sfpim_l5_stakes** ready; rq_179=done; seeded **rq_180**.
 - FOI: L5 stakes top50 + impairments human send only.
 - Next: prio5 **rq_180**; deferred **rq_116** SWA.
+
+### 2026-07-28T11:45:00Z - tick 185
+- Unit: **rq_180** (FOI-adjacent hole-fill - **BIO DFI Annual Report 2025 financials**)
+- Found (strong primary AR2025 financials + PDF income table):
+  - **Total assets EUR 1.196bn** end-2025 (+1%) · **equity 1.176bn** (1.159bn 2024; +16.7m).
+  - **Income 55.311m** · gross margin 54.470m · opex **14.303m** · cost of risk **20.108m**.
+  - Operating result 20.058m · FX -5.947m · pretax 14.111m · **net 8.971m** (19.2m 2024).
+  - **Dividend to Belgian State 4.5m** · retained earnings 34.9m.
+  - **Approvals record 235m / 30 projects** (signed 21) · Africa **55%** · jobs ~388k direct end-2024.
+  - Dual map: **BIO DFI** + **Enabel** implementer + **DGD** ODA (prior ticks).
+- Port of Antwerp-Bruges: cargo throughput public; **authority financial accounts still thin** on open press (factsheet cargo-only) — residual for next tick.
+- Antwerp register / Mons BI2026: still no bulk L5 public.
+- Wrote: sources 3; entity update; budgets 21; cmt 1; lb 2; FOI **gap_bio_l5_portfolio** ready; rq_180=done; seeded **rq_181**.
+- FOI: L5 investee list + impairments + State capital path — human send only.
+- Next: prio5 **rq_181**; deferred **rq_116** SWA.

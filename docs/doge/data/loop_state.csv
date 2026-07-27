@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T11:25:00Z,rq_179,184,no,"Scheduler 60s. Next prio5 rq_180 Antwerp/Mons/Port/taxex; rq_116 SWA deferred. FOI ready human send. tick184 SFPIM 11.7bn assets net 291m dividend 78m; gap_sfpim_l5_stakes ready."
+main,continuous,hole_fill,2026-07-28T11:45:00Z,rq_180,185,no,"Scheduler 60s. Next prio5 rq_181 Port/Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick185 BIO assets 1.196bn approvals 235m dual Enabel; gap_bio_l5_portfolio ready."
