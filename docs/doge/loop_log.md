@@ -4148,3 +4148,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +2; budgets +15; cmt +1; lb +5; FOI **gap_vl_caw_l5_per_centre** ready + draft; rq_358=done; spawn **rq_359**; ticks=367
 - FOI: per-CAW matrix + BO2026 human send only
 - Next: prio5 **rq_359**; deferred **rq_116** SWA
+
+### 2026-07-31T22:45:00Z - tick 368
+- Unit: **rq_359** (FOI-adjacent hole-fill - **Flanders ISE Gespecialiseerde zorg / GGZ L5**)
+- Found (strong primary VL BBT WVG BU2025 GDF2LA):
+  - **ISE Gespecialiseerde zorg** BA VEK **EUR 142.027m** / BU **145.724m**
+  - Named L5 inside GDF2LA:
+    - **CGG** overeenkomst **102.508m**
+    - **OPZ Geel + OPZC Rekem** **27.997m** (+ IFIC herverdeling +2m path)
+    - Psyche VZW **2.716m** · erfelijkheid 4 centra **2.696m**
+    - Vroegdetectie KJ **4.235m** · aanklampende zorg **1.324m**
+    - Tandem **0.658m** · intersectorale teams JV **0.967m**
+    - Familieplatform **0.541m** · VIKZ **0.690m**
+  - Dual note: WAL centres de sante mentale residual FOI.
+- Wrote: entities +3; sources +1; budgets +15; cmt +1; lb +5; FOI **gap_vl_ggz_cgg_l5** ready + draft; rq_359=done; spawn **rq_360**; ticks=368
+- FOI: per-CGG + OPZ split + BO2026 human send only
+- Next: prio5 **rq_360**; deferred **rq_116** SWA
