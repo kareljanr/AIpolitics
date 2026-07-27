@@ -20,40 +20,40 @@
 
 ---
 
-## Snapshot at **tick 280** (2026-07-30)
+## Snapshot at **tick 290** (2026-07-30)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~84–92%** (order of magnitude) | Up from ~82–90% @270: **SS consol 139.3bn** + **pensioenen 66.8bn** + **FPD/RSZ/RVA beheer**; **Smals 579m** + **KSZ 19.8m** + health stack (Sciensano/FAVV/AFMPS/KCE/e-health/FAM); **CREG 22.4m** + **BIPT 79.8m**; residual many communes + operator L5 |
-| **D. L5 named end-receivers** | **~14–22%** of TE (generous) | Still thin: OISZ/Smals/KSZ mostly aggregates; Innoviris L5 sample remains best pure L5 lift; payroll/pensions/debt not L5-able |
-| **E. FOI-ready gaps** | **~106** drafts ready | Human send only; answered ~5 |
+| **C. L2 entity totals** | **~86–94%** (order of magnitude) | Up from ~84–92% @280: **FSMA 107m** + **NBB ops 487m** + **CGVS 57m** + **DVZ Env2 155m** + **RVV 30m** + **NIRAS omzet 316m** + **Bel V 16m** + **SCK 292m** + **MYRRHA path** + **ASEVA 212m levy**; **Hedera CAP 15bn** mapped as **stock** (S.1311 transfer, not annual TE flow) |
+| **D. L5 named end-receivers** | **~14–22%** of TE (generous) | Still thin structural; MYRRHA BA lines + nuclear duals are mostly L2–L3; pure ASBL/contractor L5 residual FOI |
+| **E. FOI-ready gaps** | **~115** drafts ready | Human send only; answered ~5 |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE — waste map, **not cash TE**.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**.
 
-### Inventory (tick 280)
+### Inventory (tick 290)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~3,081 |
-| commitments.csv | ~503 |
-| leaderboard.csv | ~558 |
-| entities.csv | ~216 |
-| sources.csv | ~561 |
-| FOI ready | ~106 |
+| budgets.csv | ~3,277 |
+| commitments.csv | ~522 |
+| leaderboard.csv | ~604 |
+| entities.csv | ~232 |
+| sources.csv | ~579 |
+| FOI ready | ~115 |
 | FOI answered | ~5 |
-| FOI total rows | ~112 |
-| research_queue | ~272 (open: rq_116 deferred + rq_272 hole-fill) |
+| FOI total rows | ~122 |
+| research_queue | ~282 (open: rq_116 deferred + rq_282 hole-fill) |
 
-### What improved since tick 270
+### What improved since tick 280
 
-- **SS CoA map:** consolidated **€139.3 / 139.8 bn** 2024; **beheers 2.8 bn**; pensioenen multi-regime **€66.8 bn** 2024.  
-- **OISZ beheer:** FPD **287.7m**, RSZ **282.8m**, RVA **277.9m**, RSVZ **106.9m**, FEDRIS **54.2m**, HZIV **38.8m**, HVW **47.9m**; loonmatrix sample **~848m**.  
-- **Digital SS stack:** Smals omzet **€578.9m** 2025; KSZ **€19.8m** (ICT **13.4m**); eHealth institutional **15.9m** dual INAMI e-health **132.5m** (not additive).  
-- **Health federal:** AFMPS real **115.6m**; KCE RIZIV **22.5m**; FAM **26.5m** + cum indemn **101.1m**; CDZ **8.0m** + VI admin **1.38bn** 2023.  
-- **Regulators dual:** CREG lasten **22.4m** 2023 + BIPT exp **79.8m** 2024 (sector-fee financed).  
-- **HDA:** staff 13 + RRF 7m seed; annual EUR residual FOI.  
+- **Financial/regulators dual:** FSMA werkings **107.5m**; NBB ops **486.6m** + prudential **134.1m**.  
+- **Asylum chain dual:** CGVS spend **57.0m** / VTE **601**; DVZ Env2 personnel **154.8m** / VTE ~**2 218**; RVV **30.2m**; Fedasil host **826m** 2025; IBZ global **2.51bn** VL.  
+- **Nuclear stack dual:** NIRAS omzet **315.6m** 2025 / assets **1.78bn**; Bel V TSO **16.0m**; SCK charges **291.5m** / staff **999**; MYRRHA envelope **>550m** 2019–38 + phase1 path; SMR ~**100m** 2023–26.  
+- **Nuclear finance stock:** Hedera Phoenix CAP **15bn** (tranche1 **12.2bn** paid Mar2025); SYNATOM assets **12.9bn** eoy2024; interest **146.4m** 2025.  
+- **Energy security dual:** ASEVA/APETRA oil levy **211.8m** 2023 / ESR **~188m** / assets **2.29bn** 2022; dual Hedera nuclear.  
+- **ASTRID:** contract ops **46.5m/yr** vs IBZ **76.5m** (FOI reconcile).  
 
 ---
 
@@ -77,15 +77,5 @@
 | 250 | 100% | 100% | ~79–87% | ~11–19% | ~87 | AJH dual justice + equality triple + fossil off-TE + Charleroi L5 |
 | 260 | 100% | 100% | ~81–89% | ~12–20% | ~92 | Export+tourism+WBI duals; FIT/WBI FOI public closes |
 | 270 | 100% | 100% | ~82–90% | ~13–21% | ~98 | FWO/FNRS + Sciensano/FAVV + Innoviris L5 + FIB |
-| **280** | **100%** | **100%** | **~84–92%** | **~14–22%** | **~106** | **Current** (SS CoA + Smals/KSZ + health stack + CREG/BIPT) |
-
-*(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
-
----
-
-## Agent checklist (every 10 ticks)
-
-1. Re-read `loop_state.ticks_completed` (if `N % 10 == 0` or human request).  
-2. Update this file’s milestone row + inventory counts.  
-3. Re-run leaderboard top 10 into `doge_waste_top10_current.md`.  
-4. Append 5–10 lines to `loop_log.md`.  
+| 280 | 100% | 100% | ~84–92% | ~14–22% | ~106 | SS CoA + Smals/KSZ + health + CREG/BIPT |
+| **290** | **100%** | **100%** | **~86–94%** | **~14–22%** | **~115** | **Current** (nuclear dual + asylum chain + Hedera stock + ASEVA) |

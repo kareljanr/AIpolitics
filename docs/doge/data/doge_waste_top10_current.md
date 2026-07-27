@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **280** (2026-07-30) · **~558** leaderboard rows  
+**As-of:** tick **290** (2026-07-30) · **~604** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -10,7 +10,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 ---
 
-## Top 10 (all-time current)
+## Top 10 (all-time current — annual flow / TE-adjacent)
 
 | # | ID | Name | Annual € (class) | Abs | Cost | Diff | **Priority** | Why it ranks |
 |---|-----|------|------------------:|----:|-----:|-----:|-------------:|--------------|
@@ -35,6 +35,14 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 14 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Natural gas product rate-diff vs gasoline TOE |
 | 15 | `lb_union_pay_admin_169m` | **169.0 m** | 7.9 | Union unemployment payment admin grants ~169m |
 
+### Large stock / off-TE (not in annual top 10)
+
+| ID | Stock / envelope | Note |
+|-----|------------------:|------|
+| `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock (S.1311); not annual TE flow |
+| `lb_synatom_assets_12_9bn` | **12.9 bn** | Pre/post CAP provision assets |
+| `lb_myrrha_envelope_550m` | **>550 m** multi-year | Research infra envelope 2019–38 |
+
 ---
 
 ## “Clown / high absurdity” shortlist (not pure size)
@@ -48,4 +56,4 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_union_pay_admin_169m` | 8.5 | **169.0 m** | Union unemployment payment admin grants |
 | 6 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | **3.7 m** | Mijn Kortingsbon fridge/washer/freezer |
 
-*Top 10 **stable** vs @270 on pure-waste mega items (cheque, fossil, company cars, EIWT). Hole-fill ticks 271–279 raised **L2 SS/digital/regulator coverage** (Smals, KSZ, CoA OISZ, health stack, CREG/BIPT) — high map value, lower pure-waste priority. Core public goods (pension admin, energy/telecom regulation, food safety) are **not clown waste** unless dual unit-cost or L5 FOI fails.*
+*Top 10 **stable** vs @280 on pure-waste mega items (cheque, fossil, company cars, EIWT). Hole-fill ticks 281–289 raised **L2 nuclear + asylum + energy-security map** (FSMA/NBB, CGVS/DVZ/RVV, NIRAS/Bel V/SCK/MYRRHA, Hedera CAP stock, ASEVA) — high map value, not pure clown waste. Core public goods (strategic oil stocks, nuclear waste finance, asylum decisions) are **not ranked as waste** unless dual unit-cost or L5 opacity fails.*

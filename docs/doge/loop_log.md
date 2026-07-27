@@ -3160,3 +3160,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity aseva; budgets +25; cmt +1; lb +5; FOI gap_aseva_2024 ready; draft; raw CoA+BV; rq_281=done; spawn rq_282; ticks=289
 - FOI: ASEVA 2024 accounts + storage L5 human send
 - Next: **MANDATORY progress rq_280 @ tick 290**; then rq_282; deferred **rq_116** SWA
+
+### 2026-07-30T07:45:00Z - tick 290 (progress milestone)
+- Unit: **rq_280** (mandatory progress@290 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~86-94%** (up from ~84-92% @280) — FSMA/NBB + asylum chain DVZ/CGVS/RVV + nuclear NIRAS/Bel V/SCK/MYRRHA + ASEVA; Hedera CAP 15bn **stock** off pure TE pie
+  - **D L5:** **~14-22%** still thin structural
+  - **E FOI ready:** **~115** drafts (answered ~5)
+- Waste top10: **stable** cheque/fossil/company cars/EIWT (pi 8.83-8.08); Hedera CAP stock noted off annual top10
+- Inventory: budgets ~3277 · commitments ~522 · leaderboard ~604 · entities ~232 · sources ~579 · FOI rows ~122
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_280=done; spawn continue; ticks=290
+- Next: prio5 **rq_282**; deferred **rq_116** SWA; human FOI send stack

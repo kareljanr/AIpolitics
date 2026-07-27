@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T07:15:00Z,rq_281,289,no,Scheduler 60s. NEXT MANDATORY rq_280 progress@290; then rq_282. rq_116 SWA deferred. tick289 ASEVA 212m.
+main,continuous,hole_fill,2026-07-30T07:45:00Z,rq_280,290,no,Scheduler 60s. Next prio5 rq_282; rq_116 SWA deferred. FOI ready human send. tick290 progress@290 L2 86-94.
