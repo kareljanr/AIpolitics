@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T00:55:00Z,rq_217,225,no,"Scheduler 60s. Next prio5 rq_218 Mons/member-share/social; rq_116 SWA deferred. FOI ready human send. tick225 Digipolis AGB 245.6m personnel 45.46m."
+main,continuous,hole_fill,2026-07-29T01:15:00Z,rq_218,226,no,"Scheduler 60s. Next prio5 rq_219 Mons/social/CAW; rq_116 SWA deferred. FOI ready human send. tick226 Digipolis member matrix 245.07m stad 138 LPA 69.5."

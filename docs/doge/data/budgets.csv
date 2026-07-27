@@ -2357,3 +2357,17 @@ bud_digipolis_personnel_2026,digipolis_antwerpen,2026,45457636,,,budgeted,src_di
 bud_digipolis_personnel_contract_2026,digipolis_antwerpen,2026,43715012,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis contract personnel 43.715m of 45.458m 2026
 bud_digipolis_goods_services_2026,digipolis_antwerpen,2026,198877840,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis goederen en diensten 198.878m 2026
 bud_digipolis_debt_stock_2026,digipolis_antwerpen,2026,15062689,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis financial debt stock 15.063m EOY2026 class (member treasury)
+bud_digipolis_member_total_2026,digipolis_antwerpen,2026,245070047.84,,,budgeted,src_digipolis_markup_2026,strong,Digipolis member omzet sum 245.070m 2026 (markup matrix; ~AGB total 245.6m)
+bud_digipolis_member_total_2025,digipolis_antwerpen,2025,221899608.67,,,budgeted,src_digipolis_markup_2026,strong,Digipolis member omzet sum 221.900m 2025 (markup matrix)
+bud_digipolis_member_agso_2026,digipolis_antwerpen,2026,11083813.08,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge AG Stedelijk Onderwijs 2026 11083813.08
+bud_digipolis_member_cia_2026,digipolis_antwerpen,2026,363222.9,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge AG CIA/Erfgoed 2026 363222.9
+bud_digipolis_member_hvz_2026,digipolis_antwerpen,2026,6994093.78,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Brandweerzone Antwerpen HVZ 2026 6994093.78
+bud_digipolis_member_inti_2026,digipolis_antwerpen,2026,1209516.37,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Integratie en Inburgering 2026 1209516.37
+bud_digipolis_member_lpa_2026,digipolis_antwerpen,2026,69468352.01,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Politiezone Antwerpen LPA 2026 69468352.01
+bud_digipolis_member_mpa_2026,digipolis_antwerpen,2026,9456558.4,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Mobiliteit en Parkeren MPA 2026 9456558.4
+bud_digipolis_member_ove_2026,digipolis_antwerpen,2026,403081.68,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge OVE residual member 2026 403081.68
+bud_digipolis_member_stad_2026,digipolis_antwerpen,2026,138020830.69,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Stad Antwerpen 2026 138020830.69
+bud_digipolis_member_vespa_2026,digipolis_antwerpen,2026,3603271.13,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge AG VESPA 2026 3603271.13
+bud_digipolis_member_zba_2026,digipolis_antwerpen,2026,4467307.79,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Zorgbedrijf Antwerpen ZBA 2026 4467307.79
+bud_digipolis_stad_recharge_2026,city_antwerpen,2026,138020830.69,,,budgeted,src_digipolis_markup_2026,strong,Stad Antwerpen Digipolis omzet recharge 138.021m 2026 (full city IT via AGB; vs partial lock 38.8m)
+bud_digipolis_pza_lpa_recharge_2026,city_antwerpen,2026,69468352.01,,,budgeted,src_digipolis_markup_2026,strong,PZA LPA Digipolis omzet recharge 69.468m 2026 (vs prior PZA Digipolis package 53.5m 2025 class)

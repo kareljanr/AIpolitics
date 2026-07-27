@@ -2371,3 +2371,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 7; cmt 2; lb 2; entity note; foi note; rq_217=done; seeded **rq_218**.
 - FOI: Digipolis member-share matrix + Mons BI2026 + dual VL + register human send.
 - Next: prio5 **rq_218**; deferred **rq_116** SWA.
+
+### 2026-07-29T01:15:00Z - tick 226
+- Unit: **rq_218** (FOI-adjacent hole-fill - **Digipolis member-share omzet matrix**)
+- Found (strong markup annex ebesluit PDF):
+  - **Member omzet sum 2026 EUR 245.070m** (2025: 221.900m); markup **4.14%** (from 4.29%).
+  - **Stad 138.021m** | **LPA/PZA 69.468m** | AGSO 11.084m | MPA 9.457m | HVZ 6.994m | ZBA 4.467m | VESPA 3.603m | INTI 1.210m | OVE 0.403m | CIA 0.363m.
+  - Closes Digipolis member-share residual; aligns with AGB total 245.6m (recharges fund AGB).
+  - Note: stad omzet 138m ≠ city ebesluit partial lock 38.8m (subset/timing); not double-count AGB as pure city opex.
+  - Mons BI2026 still not public this tick (FOI ready).
+- Wrote: sources 1; budgets 13; cmt 1; lb 3; foi note; rq_218=done; seeded **rq_219**.
+- FOI: project L5 within Digipolis + Mons BI2026 + dual VL + register human send.
+- Next: prio5 **rq_219**; deferred **rq_116** SWA.
