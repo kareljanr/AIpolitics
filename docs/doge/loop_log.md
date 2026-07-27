@@ -837,7 +837,7 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-27T12:00:00Z -- resume + tick 122 (user hole-fill)
 - User: restart loop; start with **Unia**; fill holes; only pause when every material euro is sourced **or** FOI-ready (no auto-idle pause).
-- Recreated scheduler **15m** durable; mode=`continuous` / sprint=`hole_fill`; `LOOP.md` pause rule tightened.
+- Recreated scheduler **15m** durable **019fa288382e**; mode=`continuous` / sprint=`hole_fill`; `LOOP.md` pause rule tightened.
 - **Unit rq_117 Unia funding (strong primary RA 2024–2025):**
   - 2024 subsidies **€9,454,426** = federal **€8,170,698** + federated **€1,283,728** (WAL **€761,698**; FWB **€354,971**; BXL **€145,867**; DG **€21,192**; Flanders **€0**).
   - 2025 subsidies **€9,628,106** = federal **€8,304,698** + federated aggregate **€1,323,408**.
