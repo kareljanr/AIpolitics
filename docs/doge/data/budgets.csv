@@ -2003,3 +2003,21 @@ bud_credendo_net_ins_fin_result_2023,credendo,2023,191700000,,,outturn,src_crede
 bud_credendo_comprehensive_income_2024,credendo,2024,257200000,,,outturn,src_credendo_mgmt_2024,strong,Total comprehensive income 257.2m profit 2024
 bud_credendo_comprehensive_income_2023,credendo,2023,135500000,,,outturn,src_credendo_mgmt_2024,strong,Total comprehensive income 135.5m profit 2023
 bud_credendo_cover_capacity,credendo,2024,33000000000,,,outturn,src_credendo_eca_about,medium,Cover capacity EUR 33bn class (portal AA S&P)
+bud_skeyes_omzet_2024,skeyes,2024,335200000,,,outturn,src_skeyes_jv2024_nl,strong,Turnover omzet 335.2m 2024
+bud_skeyes_invest_2024,skeyes,2024,36400000,,,outturn,src_skeyes_jv2024_nl,strong,Investments 36.4m 2024
+bud_skeyes_profit_2024,skeyes,2024,15400000,,,outturn,src_skeyes_jv2024_nl,strong,Profit of the year 15.4m 2024 (added to available reserves)
+bud_skeyes_enroute_omzet_2024,skeyes,2024,261714000,,,outturn,src_skeyes_jv2024_nl,strong,En-route revenue jaarrekening 261.714m 2024
+bud_skeyes_terminal_ebbr_2024,skeyes,2024,66191000,,,outturn,src_skeyes_jv2024_nl,strong,Terminal EBBR revenue 66.191m 2024
+bud_skeyes_enroute_unit_rate_2024,skeyes,2024,112.08,,,outturn,src_skeyes_jv2024_nl,strong,En-route unit rate EUR 112.08 per service unit 2024
+bud_skeyes_capital_2024,skeyes,2024,170000000,,,outturn,src_skeyes_jv2024_nl,strong,Share capital 170m end-2024
+bud_skeyes_equity_est_2024,skeyes,2024,308369000,,,outturn,src_skeyes_jv2024_nl,strong,Equity sum components 308.369m (capital 170 + legal 17 + avail 118.472 + cap sub 2.897); table total OCR ambiguous
+bud_skeyes_equity_2023,skeyes,2023,290251000,,,outturn,src_skeyes_jv2024_nl,strong,Equity total 290.251m end-2023 from EV table
+bud_skeyes_state_loan_covid,skeyes,2021,110000000,,,outturn,src_skeyes_jv2024_nl,strong,Non-convertible COVID continuity loan from Belgian State 110m 2021
+bud_skeyes_state_loan_repay_2024,skeyes,2024,15700000,,,outturn,src_skeyes_jv2024_nl,strong,First tranche state loan repaid Dec 2024 15.7m (7y schedule)
+bud_skeyes_correction_asset_2024,skeyes,2024,195392000,,,outturn,src_skeyes_jv2024_nl,strong,Accrued assets RP3 correction mechanisms 195.392m end-2024 (airline receivables deferred into unit rates to 2030)
+bud_skeyes_correction_liab_2024,skeyes,2024,18609000,,,outturn,src_skeyes_jv2024_nl,strong,Accrued liabilities correction mechanisms 18.609m end-2024
+bud_skeyes_flights_2024,skeyes,2024,946768,,,outturn,src_skeyes_jv2024_nl,strong,Flights managed 946768 2024 (+4pct)
+bud_skeyes_flights_2025,skeyes,2025,1035084,,,outturn,src_skeyes_media_kf2025,strong,Flights managed 1035084 2025 (+4pct vs 2024)
+bud_skeyes_staff_2024,skeyes,2024,982,,,outturn,src_skeyes_jv2024_nl,strong,Employees 982 2024
+bud_skeyes_staff_2025,skeyes,2025,1006,,,outturn,src_skeyes_media_kf2025,strong,Employees 1006 end-2025
+bud_skeyes_state_subsidy_green_energy,skeyes,2022,9450000,,,budgeted,src_skeyes_jv2024_nl,strong,State subsidies 2.7m green aviation + 6.75m energy transition (avenants 9-10 third contract)

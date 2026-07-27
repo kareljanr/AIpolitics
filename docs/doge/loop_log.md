@@ -1930,3 +1930,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; entity 1; budgets 20; cmt 1; lb 2; FOI **gap_credendo_l5_claims** ready; rq_183=done; seeded **rq_184**.
 - FOI: L5 claims + state guarantee perimeter human send only.
 - Next: prio5 **rq_184**; deferred **rq_116** SWA.
+
+### 2026-07-28T13:05:00Z - tick 189
+- Unit: **rq_184** (FOI-adjacent hole-fill - **skeyes ANS / ex-Belgocontrol 2024**)
+- Found (strong primary Jaarverslag 2024 NL PDF + media KF2025):
+  - **Omzet EUR 335.2m 2024** · En-route **261.7m** · Terminal EBBR **66.2m** · invest **36.4m**.
+  - **Profit 15.4m** · equity components sum **~308.4m** (capital 170m + reserves) · 2023 EV **290.3m**.
+  - En-route unit rate **EUR 112.08** · 4th management contract May 2024 with Belgian State.
+  - **COVID state loan 110m** (first repay **15.7m** Dec 2024; 7y path).
+  - RP3 correction receivables **195.4m** deferred into unit rates **2024-2030**.
+  - Flights **946_768** 2024 / **1_035_084** 2025 (+4%) · staff **982** / **1006**.
+  - Dual map: **skeyes ANS** + **BAC/BSCA airports** (prior ticks).
+- Port of Antwerp-Bruges authority P&L still thin public — residual **rq_185**.
+- Wrote: sources 2; entity 1; budgets 18; cmt 1; lb 2; FOI **gap_skeyes_bs_2025** ready; rq_184=done; seeded **rq_185**.
+- FOI: 2025 full BS + multi-year correction schedule human send only.
+- Next: prio5 **rq_185**; deferred **rq_116** SWA.
