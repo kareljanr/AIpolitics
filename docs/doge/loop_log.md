@@ -2016,3 +2016,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; entity 1; budgets 12; cmt 1; lb 2; FOI **gap_liege_airport_subsidy_l5** ready; rq_189=done; seeded **rq_190**.
 - FOI: 2024-25 subsidy cash + contracts + full dividends human send only; Antwerp/Mons still residual.
 - Next: prio5 **rq_190**; deferred **rq_116** SWA.
+### 2026-07-28T15:05:00Z - tick 195
+- Unit: **rq_190** (FOI-adjacent hole-fill - **Wallonie Entreprendre** dual PMV/SFPIM)
+- Found (strong official WE press AR2024+AR2025 + medium-strong NBB/Companyweb):
+  - **Equity EUR 4.905bn 2024 / 4.981bn 2025** (NBB); ops omzet thin ~3m (holding).
+  - **Net 279.8m 2024 / 151.2m 2025** (press 278/151; exits+dividends; write-downs 76m 2024).
+  - **New investments 492m 2024 / 613m 2025** (1253 / 1330 projects).
+  - **Guarantees granted 228m 2024 / 208m 2025** (1588 firms 2025); dual Gigarant 695m VL.
+  - **Dividend 55.3m 2024 / 70.3m 2025** to Wallonie + Belfius.
+  - Roadmap 2025-29: invest **2.5bn**, guarantees **1.25bn**, cum profit **750m**.
+  - Dual map: **WE Wallonie ~5bn equity** + **PMV Flanders 1.94bn managed** + **SFPIM federal 11.7bn**.
+- Wrote: sources 3; entity 1; budgets 12; cmt 1; lb 3; FOI **gap_we_l5_stakes** ready; rq_190=done; seeded **rq_191**.
+- FOI: L5 stakes + guarantee claims human send only; Antwerp register / Mons BI2026 still residual.
+- Next: prio5 **rq_191**; deferred **rq_116** SWA.

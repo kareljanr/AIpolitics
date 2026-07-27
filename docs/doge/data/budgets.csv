@@ -2101,3 +2101,15 @@ bud_liege_wal_sub_total_2021,liege_airport,2021,29044000,,,outturn,src_pw_airpor
 bud_liege_div_sowaer_2023,liege_airport,2023,1421015,,,outturn,src_pw_neven_airports_2024,strong,Dividend to SOWAER only published path
 bud_liege_div_sowaer_2022,liege_airport,2022,1231412,,,outturn,src_pw_neven_airports_2024,strong,Dividend to SOWAER
 bud_liege_div_sowaer_2021,liege_airport,2021,1269068,,,outturn,src_pw_neven_airports_2024,strong,Dividend to SOWAER
+bud_we_net_2025,wallonie_entreprendre,2025,151221809,,,outturn,src_we_companyweb_nbb,medium-strong,NBB-derived net matches official press 151m
+bud_we_net_2024,wallonie_entreprendre,2024,279800852,,,outturn,src_we_companyweb_nbb,medium-strong,NBB 279.8m vs press 278m class
+bud_we_equity_2025,wallonie_entreprendre,2025,4981089497,,,stock,src_we_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025 ~5.0bn
+bud_we_equity_2024,wallonie_entreprendre,2024,4904559025,,,stock,src_we_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024 ~4.9bn
+bud_we_invest_2025,wallonie_entreprendre,2025,613000000,,,outturn,src_we_press_ar2025,strong,Official press new investments 613m 1330 projects
+bud_we_invest_2024,wallonie_entreprendre,2024,492000000,,,outturn,src_we_press_ar2024,strong,Official press new investments 492m 1253 firms
+bud_we_guarantees_2025,wallonie_entreprendre,2025,208000000,,,outturn,src_we_press_ar2025,strong,Guarantees granted 208m to 1588 firms
+bud_we_guarantees_2024,wallonie_entreprendre,2024,228000000,,,outturn,src_we_press_ar2024,strong,Guarantees granted 228m 2024
+bud_we_dividend_2025,wallonie_entreprendre,2025,70300000,,,outturn,src_we_press_ar2025,strong,Dividend 70.3m to Wallonie+Belfius
+bud_we_dividend_2024,wallonie_entreprendre,2024,55300000,,,outturn,src_we_press_ar2024,strong,Dividend 55.3m to Wallonie+Belfius
+bud_we_write_downs_2024,wallonie_entreprendre,2024,76000000,,,outturn,src_we_press_ar2024,strong,Reductions de valeur 76m in 2024 result
+bud_we_roadmap_invest_5y,wallonie_entreprendre,2029,2500000000,,,commitment,src_we_press_ar2025,strong,Strategy 2025-2029 invest envelope 2.5bn class
