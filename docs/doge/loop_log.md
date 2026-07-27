@@ -1701,3 +1701,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 28; cmt 2; lb 2; FOI gap_interco note; rq_168=done; seeded **rq_169**.
 - FOI: residual L5 municipal dividends Fluvius/RESA + BCR capital calendar human send.
 - Next: prio5 **rq_169** (RESA/Antwerp/Mons/De Lijn/taxex); deferred **rq_116** SWA.
+
+### 2026-07-28T08:05:00Z — tick 174
+- Unit: **rq_169** (FOI-adjacent hole-fill — **RESA SA Intercommunale comptes 2024**)
+- Found (strong primary NBB annual accounts, AG 04-06-2025, PwC):
+  - **Chiffre d'affaires EUR 383.881m 2024** (392.969m 2023) · ventes/prestations **500.682m** (incl prod. immobilisée **94.6m**).
+  - **Op. profit 76.915m** · pre-tax **63.501m** · **net 48.250m** (51.113m 2023).
+  - Assets **1.955bn** · fixed **1.594bn** · equity **955.6m** · capital **657.9m**.
+  - LT financial debt **759.6m** (bonds **500m** + credit **259.6m**) · total dettes **977.2m**.
+  - **Dividend (rémunération de l'apport) 18.8m** (same 2023) · bénéfice à distribuer **18.95m**.
+  - Capital subsidies BS **39.762m** (was **7.792m** 2023) · personnel **107.3m** · D&A **57.4m**.
+  - Completes **Walloon dual DSO map**: ORES **1.068bn** + RESA **384m** vs Fluvius single VL + Sibelga BCR.
+- Mons BI2026 / Antwerp bulk register still open.
+- Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; FOI gap_interco note; rq_169=done; seeded **rq_170**.
+- FOI: residual Fluvius municipal L5 + BCR capital calendar human send; RESA entity dividend filled.
+- Next: prio5 **rq_170**; deferred **rq_116** SWA.

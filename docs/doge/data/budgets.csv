@@ -1718,3 +1718,23 @@ bud_ores_ifrs_profit_2024,ores,2024,66890000,,,outturn,src_ores_ifrs_2024,strong
 bud_ores_ifrs_assets_2024,ores,2024,5145532000,,,outturn,src_ores_ifrs_2024,strong,IFRS total assets incl regulatory 5145.532m end-2024
 bud_ores_wacc_pct_2025_29,ores,2025,4.027,,,projection,src_ores_investor_2025,strong,WACC pct NOT EUR: 4.027pct 2025-29 tariff methodology (cost equity 5.071 cost debt 3.0815); amount stores 4.027
 bud_ores_funding_need_2025,ores,2025,530000000,,,budgeted,src_ores_investor_2025,strong,Estimated funding needs 2025 530m (400m new + 130m bridge repayment)
+bud_resa_ca_2024,resa,2024,383881317,,,outturn,src_resa_comptes_2024,strong,RESA SA chiffre d affaires 383.881m 2024 (392.969m 2023)
+bud_resa_ca_2023,resa,2023,392969197,,,outturn,src_resa_comptes_2024,strong,RESA SA chiffre d affaires 392.969m 2023
+bud_resa_ventes_total_2024,resa,2024,500681503,,,outturn,src_resa_comptes_2024,strong,Ventes et prestations 500.682m 2024 (CA+prod immobilisee 94.6m+autres)
+bud_resa_op_profit_2024,resa,2024,76915462,,,outturn,src_resa_comptes_2024,strong,Benefice d exploitation 76.915m 2024
+bud_resa_net_profit_2024,resa,2024,48250350,,,outturn,src_resa_comptes_2024,strong,Benefice de l exercice 48.250m 2024 (51.113m 2023)
+bud_resa_net_profit_2023,resa,2023,51112939,,,outturn,src_resa_comptes_2024,strong,Benefice de l exercice 51.113m 2023
+bud_resa_pre_tax_2024,resa,2024,63500517,,,outturn,src_resa_comptes_2024,strong,Benefice avant impots 63.501m 2024
+bud_resa_assets_2024,resa,2024,1954576445,,,outturn,src_resa_comptes_2024,strong,Total actif 1.9546bn end-2024
+bud_resa_fixed_assets_2024,resa,2024,1593723798,,,outturn,src_resa_comptes_2024,strong,Actifs immobilises 1.5937bn end-2024
+bud_resa_equity_2024,resa,2024,955584514,,,outturn,src_resa_comptes_2024,strong,Capitaux propres 955.585m end-2024
+bud_resa_capital_2024,resa,2024,657880492,,,outturn,src_resa_comptes_2024,strong,Capital souscrit 657.880m
+bud_resa_lt_debt_2024,resa,2024,759632455,,,outturn,src_resa_comptes_2024,strong,Dettes financieres LT 759.632m (bonds 500m + credit 259.6m)
+bud_resa_total_debt_2024,resa,2024,977196170,,,outturn,src_resa_comptes_2024,strong,Total dettes 977.196m end-2024
+bud_resa_dividend_apport_2024,resa,2024,18800000,,,outturn,src_resa_comptes_2024,strong,Remuneration de l apport (dividend) 18.8m 2024 same as 2023
+bud_resa_benefice_distribuer_2024,resa,2024,18950000,,,outturn,src_resa_comptes_2024,strong,Benefice a distribuer 18.95m (apport 18.8m + autres 0.15m)
+bud_resa_capital_subsidies_2024,resa,2024,39762041,,,outturn,src_resa_comptes_2024,strong,Subsides en capital 39.762m end-2024 (was 7.792m 2023)
+bud_resa_personnel_2024,resa,2024,107299107,,,outturn,src_resa_comptes_2024,strong,Remunerations charges sociales pensions 107.299m 2024
+bud_resa_da_2024,resa,2024,57392434,,,outturn,src_resa_comptes_2024,strong,Amortissements et reductions de valeur 57.392m 2024
+bud_resa_prod_immob_2024,resa,2024,94578645,,,outturn,src_resa_comptes_2024,strong,Production immobilisee 94.579m 2024 (own CAPEX production)
+bud_resa_fin_charges_2024,resa,2024,14723466,,,outturn,src_resa_comptes_2024,strong,Charges financieres recurrentes 14.723m 2024
