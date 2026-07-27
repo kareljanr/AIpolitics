@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T05:15:00Z,rq_276,285,no,Scheduler 60s. Next prio5 rq_277; rq_116 SWA deferred. FOI ready human send. tick285 NIRAS 316m dual Bel V 16m.
+main,continuous,hole_fill,2026-07-30T05:45:00Z,rq_277,286,no,Scheduler 60s. Next prio5 rq_278; rq_116 SWA deferred. FOI ready human send. tick286 SCK 292m dual nuclear.

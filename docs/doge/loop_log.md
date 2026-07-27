@@ -3109,3 +3109,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities niras+bel_v+astrid+fanc; budgets +35; cmt +4; lb +6; FOI gap_astrid + gap_fanc ready; drafts; raw NIRAS+BelV; rq_276=done; spawn rq_277; ticks=285
 - FOI: ASTRID reconcile + FANC budget human send; AGMJ residual still ready
 - Next: prio5 **rq_277**; deferred **rq_116** SWA
+
+### 2026-07-30T05:45:00Z - tick 286
+- Unit: **rq_277** (FOI-adjacent hole-fill - **SCK CEN dual NIRAS/FANC/Bel V nuclear R&D**)
+- Found (strong primary Highlights 2024/2025 charts + financiering page):
+  - **Charges EUR 256.9 / 268.4 / 291.5m** 2023-25; **income 274.5 / 282.6 / 280.2m**.
+  - Personnel **123.9m 2024 / 132.4m 2025**; purchases **132.6 / 133.5m**; staff **990 -> 999**.
+  - Gov subsidies+grants **94.2 / 98.8m**; turnover **107.2 / 102.3m**.
+  - Financing pie 2024 class: eigen **44%** / specific BE **31%** / general dotatie **21%** / EU **4%**.
+  - Dual nuclear stack with NIRAS 316m + Bel V 16m + FANC FOI.
+- Wrote: sources +3; entity sck_cen; budgets +29; cmt +1; lb +5; FOI gap_sck_dotatie ready; draft; chart extracts; rq_277=done; spawn rq_278; ticks=286
+- FOI: SCK general vs mission cash human send; AGMJ residual still ready
+- Next: prio5 **rq_278**; deferred **rq_116** SWA

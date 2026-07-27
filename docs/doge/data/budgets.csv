@@ -3182,3 +3182,33 @@ bud_belv_equity_2024,bel_v,2024,16962000,,,outturn,src_belv_jv_2024,strong,Equit
 bud_astrid_ops_contract_2023_27,astrid,2025,46500000,,,budgeted,src_astrid_legal_framework,strong,Management contract annual ops allocation 46.5m each year 2023-27 from FOD IBZ
 bud_astrid_invest_subscriptions,astrid,2025,117000000,,,commitment,src_astrid_legal_framework,strong,Investment activity covered by user subscriptions total 117m (contract envelope)
 bud_astrid_ibz_toelage_2025,astrid,2025,76517000,,,budgeted,src_ibz_strat_plan_2025_29,strong,IBZ toelage line NV ASTRID 76.517m 2025; residual reconcile vs 46.5m contract
+bud_sck_charges_2023,sck_cen,2023,256934000,,,outturn,src_sck_key_figures_2024,strong,Total charges 256.934m kEUR chart Highlights 2024
+bud_sck_charges_2024,sck_cen,2024,268399000,,,outturn,src_sck_key_figures_2024,strong,Total charges 268.399m 2024
+bud_sck_charges_2025,sck_cen,2025,291538000,,,outturn,src_sck_key_figures_2025,strong,Total charges 291.538m 2025
+bud_sck_personnel_2023,sck_cen,2023,119225000,,,outturn,src_sck_key_figures_2024,strong,Personnel costs 119.225m 2023
+bud_sck_personnel_2024,sck_cen,2024,123862000,,,outturn,src_sck_key_figures_2024,strong,Personnel costs 123.862m 2024 (~46pct charges)
+bud_sck_personnel_2025,sck_cen,2025,132433000,,,outturn,src_sck_key_figures_2025,strong,Personnel costs 132.433m 2025 (derived total-other components)
+bud_sck_purchases_2023,sck_cen,2023,108082000,,,outturn,src_sck_key_figures_2024,strong,Purchases services 108.082m 2023
+bud_sck_purchases_2024,sck_cen,2024,132551000,,,outturn,src_sck_key_figures_2024,strong,Purchases services 132.551m 2024 (~49pct)
+bud_sck_purchases_2025,sck_cen,2025,133471000,,,outturn,src_sck_key_figures_2025,strong,Purchases services 133.471m 2025
+bud_sck_depreciation_2024,sck_cen,2024,13353000,,,outturn,src_sck_key_figures_2024,strong,Depreciation 13.353m 2024
+bud_sck_depreciation_2025,sck_cen,2025,14090000,,,outturn,src_sck_key_figures_2025,strong,Depreciation 14.090m 2025
+bud_sck_provisions_2024,sck_cen,2024,-1366000,,,outturn,src_sck_key_figures_2024,strong,Provisions net -1.366m 2024 (release)
+bud_sck_provisions_2025,sck_cen,2025,11544000,,,outturn,src_sck_key_figures_2025,strong,Provisions 11.544m 2025
+bud_sck_income_2023,sck_cen,2023,274505000,,,outturn,src_sck_key_figures_2024,strong,Total income 274.505m 2023
+bud_sck_income_2024,sck_cen,2024,282620000,,,outturn,src_sck_key_figures_2024,strong,Total income 282.620m 2024
+bud_sck_income_2025,sck_cen,2025,280178000,,,outturn,src_sck_key_figures_2025,strong,Total income 280.178m 2025 (below charges 291.5m)
+bud_sck_turnover_2023,sck_cen,2023,104361000,,,outturn,src_sck_key_figures_2024,strong,Turnover 104.361m 2023
+bud_sck_turnover_2024,sck_cen,2024,107158000,,,outturn,src_sck_key_figures_2024,strong,Turnover 107.158m 2024 (~38pct income)
+bud_sck_turnover_2025,sck_cen,2025,102291000,,,outturn,src_sck_key_figures_2025,strong,Turnover 102.291m 2025 (~37pct)
+bud_sck_gov_subsidies_2023,sck_cen,2023,88714000,,,outturn,src_sck_key_figures_2024,strong,Subsidies from government grants 88.714m 2023
+bud_sck_gov_subsidies_2024,sck_cen,2024,94205000,,,outturn,src_sck_key_figures_2024,strong,Subsidies from government grants 94.205m 2024 (~33pct)
+bud_sck_gov_subsidies_2025,sck_cen,2025,98759000,,,outturn,src_sck_key_figures_2025,strong,Subsidies from government grants 98.759m 2025 (~35pct)
+bud_sck_other_income_2024,sck_cen,2024,68972000,,,outturn,src_sck_key_figures_2024,strong,Other income 68.972m 2024 (~24pct)
+bud_sck_other_income_2025,sck_cen,2025,76354000,,,outturn,src_sck_key_figures_2025,strong,Other income 76.354m 2025 (~27pct)
+bud_sck_staff_2024,sck_cen,2024,990,,,outturn,src_sck_key_figures_2024,strong,Employees 990 end-2024 class; amount is headcount
+bud_sck_staff_2025,sck_cen,2025,999,,,outturn,src_sck_key_figures_2025,strong,Employees 999 2025; amount is headcount
+bud_sck_eigen_inkomsten_2024_class,sck_cen,2024,124353000,,,estimate,src_sck_financiering_page,medium,Eigen inkomsten ~44pct of 282.620m income pie 2024 class
+bud_sck_spec_be_opdrachten_2024_class,sck_cen,2024,87612000,,,estimate,src_sck_financiering_page,medium,Specifieke Belgische opdrachten ~31pct of 282.620m 2024 class MYRRHA RECUMO SMR
+bud_sck_algemene_dotatie_2024_class,sck_cen,2024,59350000,,,estimate,src_sck_financiering_page,medium,Algemene werkingsdotatie ~21pct of 282.620m 2024 class; FOI exact cash
+bud_sck_eu_projects_2024_class,sck_cen,2024,11305000,,,estimate,src_sck_financiering_page,medium,Europese projecten ~4pct of 282.620m 2024 class
