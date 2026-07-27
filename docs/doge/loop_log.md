@@ -2549,3 +2549,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 7; cmt 2; lb 4; FOI gap_vl_groeipakket_bo2026_line **ready**; raw BBT PDF; rq_230=done; seeded **rq_231** (progress@240 prio6) + **rq_232**.
 - FOI: exact GEF2QY BO line + unit costs human send.
 - Next: **rq_231 progress@240 mandatory**; then rq_232; deferred **rq_116** SWA.
+
+### 2026-07-29T07:00:00Z - tick 240 - progress coverage % + waste top10
+- Unit: **progress@240** (mandatory every-10-ticks; **rq_231**)
+- Coverage (order-of-magnitude vs EUR 347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~78-86%** (up from ~74-82% @230) — WVG IVAs VAPH 2.87 + VSB 4.75 + Opgroeien 7.61; AViQ 6.81; COCOM 2.04 + COCOF 0.70 + VGC 0.17; Mons Ville/CPAS; AF channels
+  - **D L5:** **~10-18%** still thin — AF multi-caisse named + prior Antwerp culture/social; operator L5 FOI stack
+  - **E FOI ready:** **~77** (total FOI rows ~81)
+- Inventory: budgets ~2537; commitments ~448; leaderboard ~427; entities ~946; sources ~504
+- Waste top10: **unchanged** taxex/FFS/cheque dominate (cheque 8.83; company cars FPB 8.5; heat oil 8.43); new L2 social is core duty not pure-waste top
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_231=done
+- Next: prio5 **rq_232**; deferred **rq_116** SWA; human FOI send stack

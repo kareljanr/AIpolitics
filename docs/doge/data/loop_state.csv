@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T06:35:00Z,rq_230,239,no,Scheduler 60s. Next: progress@240 (rq_231 prio6) then rq_232. rq_116 SWA deferred. tick239 Groeipakket 4.7bn dual AF.
+main,continuous,hole_fill,2026-07-29T07:00:00Z,progress@240,240,no,Scheduler 60s. Next prio5 rq_232; rq_116 SWA deferred. FOI ready human send. tick240 progress L2 78-86pct FOI~77.

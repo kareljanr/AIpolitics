@@ -20,40 +20,39 @@
 
 ---
 
-## Snapshot at **tick 230** (2026-07-29)
+## Snapshot at **tick 240** (2026-07-29)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~74–82%** (order of magnitude) | Prior AGB/zone stack ~631m + **Digipolis AGB full 245.6m** + **member matrix 245.07m** (recharge not pure additive city) + culture/social city L5 depth; residual SS bulk + many communes + **Mons BI2026** |
-| **D. L5 named end-receivers** | **~9–17%** of TE (generous) | Antwerp culture **16/16 houses 14.58m**; social+youth **~15 orgs ~31.8m** (CAW full 16.92m, Kras 4.26m, JES 2.39m, …); still thin vs TE |
-| **E. FOI-ready gaps** | **~71** drafts ready | Human send only — closes D when answered |
+| **C. L2 entity totals** | **~78–86%** (order of magnitude) | Up from ~74–82% @230: **COCOM SCR 2.04bn** + Iriscare 1.83bn; **COCOF ~0.70bn** + VGC exp 0.17bn; **VAPH 2.87bn** + **VSB 4.75bn** + **Opgroeien 7.61bn**; **AViQ dots 6.81bn**; Mons Ville 242m + CPAS 149m; residual SS bulk + many communes + L5 opacity |
+| **D. L5 named end-receivers** | **~10–18%** of TE (generous) | AF multi-caisse L5 (Famiwal/Parentia/Camille/KidsLife) + prior Antwerp culture/social; still thin vs TE; Phare/VAPH/AViQ operator L5 FOI |
+| **E. FOI-ready gaps** | **~77** drafts ready | Human send only — closes D when answered |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
 
-### Inventory (tick 230)
+### Inventory (tick 240)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,400 |
-| commitments.csv | ~429 |
-| leaderboard.csv | ~394 |
-| entities.csv | ~309 |
-| sources.csv | ~489 |
-| FOI ready | ~71 |
-| FOI total rows | ~75 |
-| research_queue | ~222 (open: 2) |
+| budgets.csv | ~2,537 |
+| commitments.csv | ~448 |
+| leaderboard.csv | ~427 |
+| entities.csv | ~946 |
+| sources.csv | ~504 |
+| FOI ready | ~77 |
+| FOI total rows | ~81 |
+| research_queue | ~232 (open: rq_116 deferred + rq_232) |
 
-### What improved since tick 220
+### What improved since tick 230
 
-- **Culture L5 complete 16/16** named houses **14.58m** of ~35m envelope (~41.7% class) — DeRoma 936k, Trix 705k, DeStudio 153k, AAW 97.5k, HETPALEIS 3.41m, …  
-- **AG Digipolis full MJP 245.6m** 2026 + **personnel residual closed 45.46m**  
-- **Digipolis member omzet matrix 245.07m** (stad 138.0 + LPA/PZA 69.5 + AGSO 11.1 + …)  
-- **CAW full MJP 16.92m** (prior ebesluit sample 2.27m was subset)  
-- Social/youth wave: FreeClinic MJP 2.44m, VAGGA 0.94m, ADIC 0.74m, Kras 4.26m, JES 2.39m, Elegast 1.28m, Posthof 1.27m + residual mid-tier **1.56m**  
-- Combined Antwerp social+youth sample class **~31.8m** (~15 orgs)  
-- Mons BI2026 still FOI-ready (no public PDF)  
+- **Mons stack:** Ville MB1 ord **241.8m** + extra **63.2m**; CPAS **149.4m**; IDEA **441m** bilan; HYGEA **7.76m** (totals filled; ASBL L5 residual FOI).  
+- **Brussels dual commissions:** **COCOM SCR 2.04bn** + Iriscare **1.83bn** (AF 1.08bn); **COCOF decret+regl ~702m** (Phare **210m**); **VGC exp 173.6m** 2025.  
+- **Flanders WVG IVAs:** **VAPH VEK 2.87bn** dual Phare; **VSB 4.75bn**; **Opgroeien regie 7.61bn**.  
+- **Wallonie AViQ:** pure regional dots **~6.81bn** (AF **3.01bn** inside); inexec 2024 **317m**.  
+- **AF payment duals:** WAL 4-CAF prest **3.01bn** (Famiwal **1.08bn** public); VL **Groeipakket ~4.7bn** 2025 awards + VUTG admin **42.6m**; BRU Iriscare AF **1.08bn** — triple map (do not sum years).  
+- FOI stack +6 ready (COCOM OAA, COCOF/VGC L5, VAPH PVB, AViQ branch, WAL CAF unit cost, VL GP BO line).  
 
 ---
 
@@ -72,7 +71,8 @@
 | 200 | 100% | 100% | ~68–76% | ~7–14% | ~68 | Holdings+ports+rail dual |
 | 210 | 100% | 100% | ~70–78% | ~8–15% | ~71 | Fedasil+MDK+Antwerp L5+PZA+CAW |
 | 220 | 100% | 100% | ~72–80% | ~8–16% | ~71 | Antwerp AGB mega stack ~631m |
-| **230** | **100%** | **100%** | **~74–82%** | **~9–17%** | **~71** | **Current** (Digipolis 246m + culture 16/16 + social ~32m) |
+| 230 | 100% | 100% | ~74–82% | ~9–17% | ~71 | Digipolis 246m + culture 16/16 + social ~32m |
+| **240** | **100%** | **100%** | **~78–86%** | **~10–18%** | **~77** | **Current** (WVG IVAs + AViQ + AF duals + COCOM/COCOF/VGC) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 

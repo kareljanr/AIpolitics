@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **230** (2026-07-29) · **394** leaderboard rows  
+**As-of:** tick **240** (2026-07-29) · **427** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -32,8 +32,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 11 | `lb_union_pay_admin_169m` | **169.0 m** | 7.9 | Union unemployment payment admin grants ~169m 2024 |
 | 12 | `lb_vl_non_maastricht` | **2.66 bn** | 7.83 | Flanders non-Maastricht federal claims |
 | 13 | `lb_credendo_cover_capacity_33bn` | **33.00 bn** | 7.75 | Credendo cover capacity 33bn class contingent |
-| 14 | `lb_maribel_social_funds` | **1.52 bn** | 7.73 | Maribel Social Funds wage subsidies |
-| 15 | `lb_wal_feder_ftj_envelope` | **1.49 bn** | 7.73 | Wallonie FEDER/FTJ 2021-27 envelope |
+| 14 | `lb_vat_horeca` | **1.20 bn** | 7.73 | VAT reduced Horeca |
+| 15 | `lb_maribel_social_funds` | **1.52 bn** | 7.73 | Maribel Social Funds wage subsidies |
 
 ---
 
@@ -48,4 +48,4 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | ~3.7 m | Mijn Kortingsbon fridge/washer vouchers |
 | 6 | `lb_company_cars_fpb` | 8.5 | 4.70 bn | Company cars TE package FPB |
 
-*Top 10 by priority_index still dominated by taxex/FFS/cheque packages. New Antwerp depth (Digipolis 246m, culture 16/16 14.58m, social+youth ~32m) is mostly **core service** — lower pure-waste priority unless unit-cost or dual VL opacity fails.*
+*Top 10 by priority_index unchanged since @230 — still taxex/FFS/cheque. New L2 mass (VAPH/VSB/Opgroeien/AViQ/COCOM/AF duals) is mostly **core social duty** — high coverage value, lower pure-waste priority unless dual unit-cost or operator L5 fails FOI.*
