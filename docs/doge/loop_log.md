@@ -2358,3 +2358,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 7; cmt 5; lb 5; foi note; rq_216=done; seeded **rq_217**.
 - FOI: Digipolis 2026 personnel + Mons BI2026 + dual VL residual + Gent-style register human send.
 - Next: prio5 **rq_217**; deferred **rq_116** SWA.
+
+### 2026-07-29T00:55:00Z - tick 225
+- Unit: **rq_217** (FOI-adjacent hole-fill - **AG Digipolis MJP 2026 personnel residual**)
+- Found (strong Digipolis MJP 2026-2031 ebesluit PDF):
+  - **AG Digipolis total uitgaven 2026 EUR 245.610m** (exp **244.879m** + invest **0.731m**).
+  - **Personnel residual closed: EUR 45.458m** 2026 (contract 43.715 + vast 0.152 + other 1.591); path to **52.749m** 2031.
+  - Goederen/diensten **198.878m**; debt stock **15.063m**; city treasury advance **22m** 2026 (from 25m 2025).
+  - VTE max kader 329; internalisation savings path **7.3m** legislatuur (claim in MJP).
+  - Note: city ebesluit lock **38.8m** is city-share only; AGB 245.6m is multi-member cost-sharing (not pure additive city opex).
+  - Mons BI2026 public PDF still not found this tick (FOI remains ready).
+- Wrote: sources 1; budgets 7; cmt 2; lb 2; entity note; foi note; rq_217=done; seeded **rq_218**.
+- FOI: Digipolis member-share matrix + Mons BI2026 + dual VL + register human send.
+- Next: prio5 **rq_218**; deferred **rq_116** SWA.

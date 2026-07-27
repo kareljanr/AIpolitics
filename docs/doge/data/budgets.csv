@@ -2350,3 +2350,10 @@ bud_trix_package_2026,city_antwerpen,2026,705000,,,budgeted,src_antwerp_mjp_2026
 bud_destudio_2026,city_antwerpen,2026,153000,,,budgeted,src_ebesluit_destudio_2026,strong,De Studio Villanella culture 153k 2026 college+MJP
 bud_antwerp_art_2026,city_antwerpen,2026,97500,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Antwerp Art vzw culture 97.5k 2026 MJP
 bud_antwerp_culture_l5_sample_16houses_2026,city_antwerpen,2026,14583700,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Culture L5 sample 16/16 houses complete 14.584m of ~35m envelope (~41.7pct)
+bud_digipolis_agb_total_2026,digipolis_antwerpen,2026,245610183,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis full MJP total uitgaven 245.610m 2026 (cost-sharing entity not city-only)
+bud_digipolis_agb_exp_2026,digipolis_antwerpen,2026,244878864,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis exploitatie-uitgaven 244.879m 2026
+bud_digipolis_agb_invest_2026,digipolis_antwerpen,2026,731319,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis immateriele invest 0.731m 2026
+bud_digipolis_personnel_2026,digipolis_antwerpen,2026,45457636,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis personnel (bezoldigingen) 45.458m 2026 residual filled
+bud_digipolis_personnel_contract_2026,digipolis_antwerpen,2026,43715012,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis contract personnel 43.715m of 45.458m 2026
+bud_digipolis_goods_services_2026,digipolis_antwerpen,2026,198877840,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis goederen en diensten 198.878m 2026
+bud_digipolis_debt_stock_2026,digipolis_antwerpen,2026,15062689,,,budgeted,src_digipolis_mjp_2026,strong,AG Digipolis financial debt stock 15.063m EOY2026 class (member treasury)

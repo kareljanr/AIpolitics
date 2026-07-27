@@ -1,155 +1,310 @@
 entity_id,name_nl,name_fr,name_en,level,parent_id,community_language,website,foi_email,foi_postal,notes
+
 gg_belgium,Overheid totaal (ESR),Ensemble des administrations publiques,General government,l0_general,,na,https://www.nbb.be,,,NBB/NAI ESA consolidation
-sec_federal,Federale overheid (ESA S.1311),Pouvoir fédéral (S.1311),Central/federal government S.1311,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated subsector total
-sec_ss,Sociale zekerheid (ESA S.1314),Sécurité sociale (S.1314),Social security funds S.1314,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated
-sec_s1312,Gemeenschappen en gewesten (ESA S.1312),Communautés et régions (S.1312),State government S.1312 (all communities/regions),l1_sector,gg_belgium,bi,,,,Aggregate only; do not sum with Flanders+Wallonia children
-sec_flanders,Vlaamse overheid,Autorité flamande,Flemish government,l1_sector,sec_s1312,nl,https://www.vlaanderen.be,,,Part of S.1312; needs own budget dive
-sec_wallonia,Waals Gewest,Région wallonne,Walloon Region,l1_sector,sec_s1312,fr,https://www.wallonie.be,,,Part of S.1312
-sec_brussels,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale,Brussels-Capital Region,l1_sector,sec_s1312,bi,https://be.brussels,,,Part of S.1312
-sec_fwb,Franse Gemeenschap (FWB),Fédération Wallonie-Bruxelles,French Community,l1_sector,sec_s1312,fr,https://www.federation-wallonie-bruxelles.be,,,Part of S.1312
+
+sec_federal,Federale overheid (ESA S.1311),Pouvoir fÃ©dÃ©ral (S.1311),Central/federal government S.1311,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated subsector total
+
+sec_ss,Sociale zekerheid (ESA S.1314),SÃ©curitÃ© sociale (S.1314),Social security funds S.1314,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated
+
+sec_s1312,Gemeenschappen en gewesten (ESA S.1312),CommunautÃ©s et rÃ©gions (S.1312),State government S.1312 (all communities/regions),l1_sector,gg_belgium,bi,,,,Aggregate only; do not sum with Flanders+Wallonia children
+
+sec_flanders,Vlaamse overheid,AutoritÃ© flamande,Flemish government,l1_sector,sec_s1312,nl,https://www.vlaanderen.be,,,Part of S.1312; needs own budget dive
+
+sec_wallonia,Waals Gewest,RÃ©gion wallonne,Walloon Region,l1_sector,sec_s1312,fr,https://www.wallonie.be,,,Part of S.1312
+
+sec_brussels,Brussels Hoofdstedelijk Gewest,RÃ©gion de Bruxelles-Capitale,Brussels-Capital Region,l1_sector,sec_s1312,bi,https://be.brussels,,,Part of S.1312
+
+sec_fwb,Franse Gemeenschap (FWB),FÃ©dÃ©ration Wallonie-Bruxelles,French Community,l1_sector,sec_s1312,fr,https://www.federation-wallonie-bruxelles.be,,,Part of S.1312
+
 sec_dg,Duitstalige Gemeenschap,Ostbelgien,German-speaking Community,l1_sector,sec_s1312,de,https://www.ostbelgienlive.be,,,Part of S.1312
+
 sec_local,Lokale overheid (ESA S.1313),Pouvoirs locaux (S.1313),Local government S.1313,l1_sector,gg_belgium,bi,,,,Gemeenten + OCMW/CPAS + provincies; Eurostat TE
+
 sec_eu,EU-middelen in BE,Fonds UE en BE,EU funds in BE,l1_sector,gg_belgium,bi,,,,Co-financing; double-count risk
-fod_finance,FOD Financiën,SPF Finances,FPS Finance,federal,sec_federal,bi,https://finance.belgium.be,,,Tax expenditure inventory
+
+fod_finance,FOD FinanciÃ«n,SPF Finances,FPS Finance,federal,sec_federal,bi,https://finance.belgium.be,,,Tax expenditure inventory
+
 fod_bosa,FOD BOSA,SPF BOSA,FPS BOSA,federal,sec_federal,bi,https://bosa.belgium.be,,,Public sector organisation
+
 fod_economie,FOD Economie,SPF Economie,FPS Economy,federal,sec_federal,bi,https://economie.fgov.be,,,
+
 fod_justitie,FOD Justitie,SPF Justice,FPS Justice,federal,sec_federal,bi,https://justitie.belgium.be,,,
-fod_binnenland,FOD Binnenlandse Zaken,SPF Intérieur,FPS Interior,federal,sec_federal,bi,https://ibz.be,,,
-fod_sociale_zekerheid,FOD Sociale Zekerheid,SPF Sécurité sociale,FPS Social Security,federal,sec_federal,bi,https://socialsecurity.belgium.be,,,
-fod_volksgezondheid,FOD Volksgezondheid,SPF Santé publique,FPS Public Health,federal,sec_federal,bi,https://www.health.belgium.be,,,
-fod_mobiliteit,FOD Mobiliteit,SPF Mobilité,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
-mod_defensie,Defensie,Défense,Defence,federal,sec_federal,bi,https://www.mil.be,,,NATO 2pct path from 2025; COFOG 8.8bn 2025; capacity 33.8bn commit 2026-34
+
+fod_binnenland,FOD Binnenlandse Zaken,SPF IntÃ©rieur,FPS Interior,federal,sec_federal,bi,https://ibz.be,,,
+
+fod_sociale_zekerheid,FOD Sociale Zekerheid,SPF SÃ©curitÃ© sociale,FPS Social Security,federal,sec_federal,bi,https://socialsecurity.belgium.be,,,
+
+fod_volksgezondheid,FOD Volksgezondheid,SPF SantÃ© publique,FPS Public Health,federal,sec_federal,bi,https://www.health.belgium.be,,,
+
+fod_mobiliteit,FOD Mobiliteit,SPF MobilitÃ©,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
+
+mod_defensie,Defensie,DÃ©fense,Defence,federal,sec_federal,bi,https://www.mil.be,,,NATO 2pct path from 2025; COFOG 8.8bn 2025; capacity 33.8bn commit 2026-34
+
 rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,
+
 riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Global VGV 46.775 bn 2026 (45.222 bn 2025)
-riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santé (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
-pensioenen_fed,Federale pensioenen (stelsels),Pensions fédérales,Federal pensions schemes,social_security,sec_ss,bi,,,,Map sub-entities in later ticks
-gg_interest,Interest expense general government,Charges d'intérêts S.13,GG interest expense (category),other,gg_belgium,bi,,,,Not an institution; ESA interest line
+
+riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santÃ© (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
+
+pensioenen_fed,Federale pensioenen (stelsels),Pensions fÃ©dÃ©rales,Federal pensions schemes,social_security,sec_ss,bi,,,,Map sub-entities in later ticks
+
+gg_interest,Interest expense general government,Charges d'intÃ©rÃªts S.13,GG interest expense (category),other,gg_belgium,bi,,,,Not an institution; ESA interest line
+
 gg_debt,Public debt stock general government,Dette publique S.13,GG consolidated gross debt (stock),other,gg_belgium,bi,,,,Not an institution; ESA EDPs debt; 107.9pct GDP end-2025 ~692.7bn
+
 debt_agency_be,Belgisch Agentschap van de Schuld,Agence de la Dette,Belgian Debt Agency,federal,sec_federal,bi,https://www.debtagency.be,,,Manages Entity I federal debt; stock 552.7bn end-2025 vs GG ESA 692.7bn
+
 vlaanderen_gov,Vlaamse regering & departementen,Gouvernement flamand,Flemish government departments,region,sec_flanders,nl,https://www.vlaanderen.be,,,BA2026 exp 67.1bn; Maastricht debt 57.0bn (from 50.2bn 2025); Fitch AA-
-wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2026 dépenses 21.336 bn / SEC -2.016 bn (2025 was 22.029 / -2.286)
+
+wallonie_gov,Waalse regering & SPW,Gouvernement wallon / SPW,Walloon government,region,sec_wallonia,fr,https://www.wallonie.be,,,Initial 2026 dÃ©penses 21.336 bn / SEC -2.016 bn (2025 was 22.029 / -2.286)
+
 brussels_gov,Brusselse regering,Gouvernement bruxellois,Brussels government,region,sec_brussels,bi,https://be.brussels,,,SGRBC 2026 liq 8.0bn eng 8.9bn; SEC -0.96bn; debt consol ~16.1bn end-2025
-fwb_gov,FWB regering & diensten,Gouvernement FWB,FWB government,community,sec_fwb,fr,https://budget-finances.cfwb.be,,,Initial 2026 dépenses 15.407 bn / SEC -1.608 bn; adjusted 15.59 / deficit 1.77
+
+fwb_gov,FWB regering & diensten,Gouvernement FWB,FWB government,community,sec_fwb,fr,https://budget-finances.cfwb.be,,,Initial 2026 dÃ©penses 15.407 bn / SEC -1.608 bn; adjusted 15.59 / deficit 1.77
+
 local_class,Gemeenten & OCMW (klasse),Communes & CPAS (classe),Municipalities class,local,sec_local,bi,,,,Instantiate cities as child entities when diving
+
 city_antwerpen,Stad Antwerpen,Ville d'Anvers,City of Antwerp,local,sec_local,nl,https://www.antwerpen.be,,,Sprint 5 candidate
+
 city_gent,Stad Gent,Ville de Gand,City of Ghent,local,sec_local,nl,https://stad.gent,,,Open subsidieregister: 2024 total 331.9m (extern werk 47.5m; cultuur 11.6m; NTGent 2.99m); tick101
+
 city_brussel,Stad Brussel,Ville de Bruxelles,City of Brussels,local,sec_local,bi,https://www.brussel.be,,,Sprint 5 candidate
-city_luik,Stad Luik,Ville de Liège,City of Liège,local,sec_local,fr,https://www.liege.be,,,Sprint 5 candidate
+
+city_luik,Stad Luik,Ville de LiÃ¨ge,City of LiÃ¨ge,local,sec_local,fr,https://www.liege.be,,,Sprint 5 candidate
+
 city_brugge,Stad Brugge,Ville de Bruges,City of Bruges,local,sec_local,nl,https://www.brugge.be,,,Open subsidieregister: 2024 total 99.3m; Brugge Plus 7.3m; Concertgebouw 2.1m; Entrepot 1.1m; tick102
-city_charleroi,Stad Charleroi,Ville de Charleroi,City of Charleroi,local,sec_local,fr,https://www.charleroi.be,,,Walloon largest city; Plan Oxygène constrained budget
+
+city_charleroi,Stad Charleroi,Ville de Charleroi,City of Charleroi,local,sec_local,fr,https://www.charleroi.be,,,Walloon largest city; Plan OxygÃ¨ne constrained budget
+
 rekenhof,Rekenhof,Cour des comptes,Court of Audit,other,gg_belgium,bi,https://www.ccrek.be,,,Audit source not a spend entity
+
 vdab,VDAB,VDAB,Flemish PES,parastatal,sec_flanders,nl,https://www.vdab.be,,,Public employment service Flanders; BBT BO2026 VEK 750.7m; 2024 total class 962m FOI jaarrekening
-forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia � budget TBD; RA2023 global 3.09bn internal exp 2.76bn RW subvention 2.66bn; dual PES vs VDAB
+
+forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia ï¿½ budget TBD; RA2023 global 3.09bn internal exp 2.76bn RW subvention 2.66bn; dual PES vs VDAB
+
 actiris,Actiris,Actiris,Brussels PES,parastatal,sec_brussels,bi,https://www.actiris.brussels,,,Public employment service Brussels
-hulpkas,Hulpkas van de Werkloosheidsuitkeringen,Caisse auxiliaire de paiement des allocations de ch�mage,Auxiliary unemployment payment fund,parastatal,sec_ss,bi,https://www.hvwrva.be,,,Public channel for jobseekers not using union payment funds
+
+hulpkas,Hulpkas van de Werkloosheidsuitkeringen,Caisse auxiliaire de paiement des allocations de chï¿½mage,Auxiliary unemployment payment fund,parastatal,sec_ss,bi,https://www.hvwrva.be,,,Public channel for jobseekers not using union payment funds
+
 onem_rva,RVA / ONEM,ONEM,National Employment Office,parastatal,sec_ss,bi,https://www.rva.be,,,Benefit rules control; payment often via unions or Hulpkas
+
 stib,STIB / MIVB,STIB,Brussels public transport operator,parastatal,sec_brussels,bi,https://www.stib-mivb.be,,,Regional prog 42.112 EUR 1.168bn 2026; opex intervention 642m 2025; PPI path cut 965m 2026-29
+
 nmbs,NMBS / SNCB,SNCB,Belgian national passenger railway operator,parastatal,sec_federal,bi,https://www.belgiantrain.be,,,Federal PSO / openbare dienstverlening contract; annual toelage TBD FOI
+
 infrabel,Infrabel,Infrabel,Belgian railway infrastructure manager,parastatal,sec_federal,bi,https://infrabel.be,,,Shares rail-sector savings with NMBS
+
 de_lijn,De Lijn (VVM),De Lijn,Flemish public bus and tram operator,parastatal,sec_flanders,nl,https://www.delijn.be,,,Vlaamse Gewest majority; omzet 1.42bn VL tussenkomst 1.21bn 2025 JV; tick175
+
 bpost,bpost,bpost,Belgian postal operator,parastatal,sec_federal,bi,https://www.bpost.be,,,Federal PSO subsidies; newspaper contract phase-out
+
 creg,CREG,CREG,Commission for Electricity and Gas Regulation,other,sec_federal,bi,https://www.creg.be,,,Energy regulator; offshore GSC support
+
 maribel_funds,Fonds Sociale Maribel,Fonds Maribel social,Maribel Social Funds (multi-sector non-profit employment),parastatal,sec_ss,bi,https://www.socialsecurity.be,,,Wage subsidies for extra non-profit jobs; SS ~1.46bn 2024 NBB
+
 tec,OTW / TEC (Groupe TEC),Operateur de Transport de Wallonie (OTW),Walloon public transport operator (TEC),parastatal,wallonie_gov,fr,https://www.letec.be,,,CSP 2024-28 then rewrite 2026-29; regional financing ~960m 2024 Henry; company budget recettes 1.089bn 2025 Cour
+
 city_namur,Stad Namen / Ville de Namur,Ville de Namur,City of Namur,local,sec_wallonia,fr,https://www.namur.be,,,Capital Wallonia; BI2026 opex ~301m; Plan Oxygene structural; open data subsides stale to 2020
+
 city_mons,Stad Bergen / Ville de Mons,Ville de Mons,City of Mons,local,sec_wallonia,fr,https://www.mons.be,,,Ord 2025 PDF: rec 246.2m dep 244.2m; MARS 674k; RCA package; BI2026 PDF still missing FOI
+
 city_herstal,Herstal,Herstal,City of Herstal,local,sec_wallonia,fr,,,,Plan Oxygene 2025 8.52m Desquesnes
+
 city_verviers,Verviers,Verviers,City of Verviers,local,sec_wallonia,fr,,,,Plan Oxygene 2025 19.25m Desquesnes
+
 city_tournai,Doornik / Tournai,Tournai,City of Tournai,local,sec_wallonia,fr,,,,Plan Oxygene 2025 6.04m Desquesnes
+
 city_arlon,Aarlen / Arlon,Arlon,City of Arlon,local,sec_wallonia,fr,https://www.arlon.be,,,FEDER cyclo-pieton 0.521m resume 2025
+
 waleurope,WalEurope SPW,WalEurope SPW,Walloon EU funds management portal,agency,wallonie_gov,fr,https://europe.wallonie.be,,,FEDER/FTJ 2021-27 managing info portal
+
 vlaio,Agentschap Innoveren en Ondernemen (VLAIO),Agence Flamande pour l'Innovation et l'Entreprise,Flanders Innovation and Entrepreneurship Agency,agency,vlaanderen_gov,nl,https://www.vlaio.be,openbaarheid@vlaanderen.be,Ellipsgebouw Koning Albert II-laan 35 bus 12 1030 Brussel,EFRO Beheerautoriteit Flanders; FOI gap_vl_efro_l5
+
 interreg_vlaned,Interreg Vlaanderen-Nederland,Interreg Flandre-Pays-Bas,Interreg Flanders-Netherlands,programme,vlaanderen_gov,nl,https://interregvlaned.eu/,,,Cross-border Interreg VI-A; EU 205.4m total 410.8m 2021-27
+
 feder_brussels,Direction FEDER / EFRO Brussel,Direction FEDER Bruxelles,Brussels ERDF Managing Authority,agency,brussels_gov,bi,https://feder.brussels/,transparence@sprb.brussels,,OP 2021-27 total 303.2m EU 121.3m; FOI gap_bru_efro_l5
+
 dg_gov,Regierung der Deutschsprachigen Gemeinschaft,Gouvernement de la Communaute germanophone,Government of the German-speaking Community,region,sec_dg,de,https://www.ostbelgienlive.be,,,HV AE 2025 685.7m CoA; capital Eupen
+
 prov_liege,Provincie Luik / Province de Liege,Province de Liege,Province of Liege,province,sec_wallonia,fr,https://www.provincedeliege.be,,Place Saint-Lambert 18a 4000 Liege,Budget 2026: ord 563.6m; tourism sites 516k; Opera 150k OPL 70k; MNEMA 150k; FTPL line cut to 1 EUR
+
 prov_luxembourg,Provincie Luxemburg / Province de Luxembourg,Province de Luxembourg,Province of Luxembourg (BE),province,sec_wallonia,fr,https://www.province.luxembourg.be,,Place Leopold 1 6700 Arlon,CoA 2026: ord 134.3m; zones 18.0m; ASBL package 4.3m (-17.8pct); pension shortfall 3.1m Ethias; FOI named list ready
+
 prov_namur,Provincie Namen / Province de Namur,Province de Namur,Province of Namur,province,sec_wallonia,fr,https://www.province.namur.be,,,CoA 2026: ord 204.2m; zones 30.3m; 10 ASBL ge50k (3 unmotivated); pension debudget 10m
+
 prov_hainaut,Provincie Henegouwen / Province de Hainaut,Province de Hainaut,Province of Hainaut,province,sec_wallonia,fr,https://www.hainaut.be,,,CoA 2026: ord 830.6m; zones 78.2m; Voies d eau 2.3m; Tournai cathedral 3.9m; 199 entities >=50k opacity
+
 prov_brabant_wallon,Provincie Waals-Brabant / Province du Brabant wallon,Province du Brabant wallon,Province of Walloon Brabant,province,sec_wallonia,fr,https://www.brabantwallon.be,,,CoA 2026: ord 199.4m; zones 16.1m; ASBL package 10.0m (31 entities motivated); Aviq provision 1.8m
+
 prov_antwerpen,Provincie Antwerpen,Province d Anvers,Province of Antwerp,province,sec_flanders,nl,https://www.provincieantwerpen.be,,Koningin Elisabethlei 22 2018 Antwerpen,MJP 2026: exp 205m; APB package 38.9m (13 APBs); andere subs 22.9m; werkingssubsidies 63.8m
+
 prov_west_vlaanderen,Provincie West-Vlaanderen,Province de Flandre occidentale,Province of West Flanders,province,sec_flanders,nl,https://www.west-vlaanderen.be,,,MJP 2026-2031; exp 194.4m; agencies POM+Westtoer+Inagro+TUA 33.9m; werkingssubsidies 54.4m; bezold 84.9m
+
 prov_oost_vlaanderen,Provincie Oost-Vlaanderen,Province de Flandre orientale,Province of East Flanders,province,sec_flanders,nl,https://oost-vlaanderen.be,,,MJP 2026-2031; exp 313.2m; werkingssubsidies 30.7m; POM package ~2.0m; Erov 1.45m; Polders 2.1m; pers 212m
+
 prov_limburg,Provincie Limburg,Province de Limbourg,Province of Limburg (BE),province,sec_flanders,nl,https://www.limburg.be,,Universiteitslaan 1 3500 Hasselt,AMJP 2026: exp 247m cashout 360m; Bokrijk 6.5m; Diepenbeek 5m; POM 4.85m; Toerisme 4.75m; werkingssubsidies 25.9m
+
 prov_vlaams_brabant,Provincie Vlaams-Brabant,Province du Brabant flamand,Province of Flemish Brabant,province,sec_flanders,nl,https://www.vlaamsbrabant.be,,Provincieplein 1 3010 Leuven,MJP 2026: exp 151m; Toerisme 1.99m; Praktijkpunt 1.67m; POM 1.57m; RL Pajottenland spike 4.34m; werkingssubsidies 19.4m
+
 unia_interfederal,Unia (Interfederaal Gelijkekansencentrum),Unia (Centre interfederal pour l egalite des chances),Unia Interfederal Centre for Equal Opportunities,agency,gg_belgium,bi,https://www.unia.be,,,Interfederal; Flanders exit 2023; subsidies 2024 9.45m 2025 9.63m; federal ~8.2-8.3m
+
 vmri_vlaanderen,Vlaams Mensenrechteninstituut,Institut flamand des droits de l homme,Flemish Human Rights Institute,agency,sec_flanders,nl,https://www.vlaamsmensenrechteninstituut.be,,,Flanders successor after Unia exit; budget class ~5.3-5.6m 2025-26 VP docs
+
 iefh,Instituut voor de gelijkheid van vrouwen en mannen (IGVM),Institut pour l egalite des femmes et des hommes (IEFH),Institute for the Equality of Women and Men,agency,sec_federal,bi,https://igvm-iefh.belgium.be,,Place Victor Horta 40 1060 Bruxelles,Parastatal B; 2024 exp 24.8m (CPVS 10.9m); federal dotation 33.9m budgeted; FTE 75; Flanders no protocol
+
 firm_ifdh,Federaal Instituut voor de rechten van de mens (FIRM),Institut federal des droits humains (IFDH),Federal Institute for Human Rights,agency,sec_federal,bi,https://institutfederaldroitshumains.be,,Brussels,Kamer-dotated NHRI residual federal mandate; exp 2025 3.52m grant 3.77m; staff 26; dual Unia/VMRI/IEFH
+
 rtbf,RTBF,RTBF,Radio-Television belge de la Communaute francaise,agency,fwb_gov,fr,https://www.rtbf.be,,,PSB FWB; 2025 public package 378.1m ordinary 350.8; recettes 479.7m; dual VRT
+
 vrt,VRT,VRT,Vlaamse Radio- en Televisieomroeporganisatie,agency,vlaanderen_gov,nl,https://www.vrt.be,,,PSB Flanders; 2025 gov 306m total rev 528.4m; basistoelage 2026 296.4m; dual RTBF
+
 vipa,Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden,Fonds flamand d infrastructure pour les matieres personnalisables,Flemish Infrastructure Fund for Person-related Matters,agency,vlaanderen_gov,nl,https://www.departementzorg.be/nl/vipa-0,,,Hospital and care infrastructure subsidies; D.92 ~192-280m/yr hospitals
+
 ku_leuven,KU Leuven,KU Leuven,Katholieke Universiteit Leuven,university,sec_flanders,nl,https://www.kuleuven.be,,,Largest VL uni; 1st stream 546.5m 2024 / 567.9m 2025; research exp ~782m 2025
+
 fluvius,Fluvius Economic Group / System Operator,Fluvius,Flemish multi-utility DSO intercommunale group,intercommunale,sec_flanders,nl,https://over.fluvius.be,,,Ops rev 4.6bn 2025; CAPEX 1.78bn; equity strengthen path 1.56bn
+
 spge,Societe Publique de Gestion de l Eau,Societe Publique de Gestion de l Eau,Walloon public wastewater company,intercommunale,sec_wallonia,fr,https://www.spge.be,,,CA 418m 2024; cum invest 5.22bn; debt 1.58bn
+
 aquafin,Aquafin NV,Aquafin NV,Flemish wastewater treatment company,parastatal,sec_flanders,nl,https://www.aquafin.be,,,Omzet 673m assets 4.13bn LT debt 2.21bn 2024 JV; PMV 100pct; Lokaal Pact 500m; dual SPGE; tick177
+
 vivaqua,Vivaqua SC,Vivaqua,Brussels water production distribution sanitation intercommunale,intercommunale,brussels_gov,bi,https://www.vivaqua.be,,Brussels,CA 326m 2024 net loss 0.86m; assets 1.8bn equity 559m LT debt 1.02bn; no dividend (IPM); BCR finops capital path 180m; MFC tariff self-finance; dual Aquafin/SPGE water stack; tick172
+
 myria,Myria Federaal Migratiecentrum,Myria Centre federal Migration,Myria Belgian Federal Migration Centre,agency,sec_federal,bi,https://www.myria.be,,Brussels,Independent public body; federal AB 41.10.414003 path 1.579-1.614-1.600m 2024-26; mandates migration flows fundamental rights trafficking; Paris Principles class; equality/HR stack with Unia VMRI IEFH FIRM; tick153
+
 vmsw,Vlaamse Maatschappij voor Sociaal Wonen (VMSW),Societe flamande de logement social,Flemish Social Housing Company,agency,vlaanderen_gov,nl,https://www.vlaanderen.be,,Brussels/Flanders,Financial intermediary inside Wonen in Vlaanderen; FS3 loan auth 1bn 2026; SSI GSC budgethuren channels; tick154
+
 vwf,Vlaams Woningfonds,Fonds flamand du logement,Flemish Housing Fund,agency,vlaanderen_gov,nl,https://www.vlaamswoningfonds.be,,Flanders,BSL/Woonlening auth 1.7bn + HWL 20m 2026; werkings toelage 41.763m; tick154
+
 swl,Societe wallonne du Logement (SWL),Societe wallonne du Logement,Walloon Housing Company,agency,wallonie_gov,fr,https://www.swl.be,,Charleroi/Wallonia,UAP financing SLSP; DO16 2026 PEI+Impulsion+PRW+PIVERT ~114m eng; Agence Habitation reform pending; tick154
+
 swcs,Societe wallonne du Credit social (SWCS),Societe wallonne du Credit social,Walloon Social Credit Company,agency,wallonie_gov,fr,https://www.swcs.be,,Wallonia,Social loans + Renopack channel; DO16 23.3m social loans + Renopack ops/primes; tick154
+
 city_ixelles,Commune d Ixelles,Gemeente Elsene,Municipality of Ixelles,local,brussels_gov,bi,https://www.ixelles.be,,1050 Brussels,Ord rec ~253m dep ~258m+ 2026 medium; invest 46.2m; debt ~210m; tick155
+
 city_schaerbeek,Commune de Schaerbeek,Gemeente Schaarbeek,Municipality of Schaerbeek,local,brussels_gov,bi,https://www.1030.be,,1030 Brussels,Invest 60m 2026; balance path 2027; CPAS +17m class federal; tick155
+
 city_anderlecht,Commune d Anderlecht,Gemeente Anderlecht,Municipality of Anderlecht,local,brussels_gov,bi,https://www.anderlecht.be,,1070 Brussels,Budget 2026 equilibrium claimed; voirie 2.05m named invest; full opex FOI; tick155
+
 dgd,Direction generale Cooperation au developpement et Aide humanitaire (DGD),Directoraat-generaal Ontwikkelingssamenwerking en Humanitaire Hulp,Directorate-General for Development Cooperation and Humanitarian Aid,agency,sec_federal,bi,https://diplomatie.belgium.be,,Brussels,Federal ODA manager; total 1117.97m 2025; -25pct path 2027; tick156
+
 enabel,Enabel Agence belge de developpement,Enabel Belgisch ontwikkelingsagentschap,Enabel Belgian development agency,agency,sec_federal,bi,https://www.enabel.be,,Brussels,Public SA implementing governmental coop; turnover 407m 2025; >40pct EU resources; tick156
+
 bio_invest,BIO Belgian Investment Company for Developing Countries,BIO Belgische Investeringsmaatschappij,BIO development finance institution,agency,sec_federal,bi,https://www.bio-invest.be,,Brussels,DFI 100pct Belgian State; assets 1.196bn equity 1.176bn net 9.0m dividend 4.5m approvals 235m 2025; dual Enabel/DGD; tick156+185
+
 fod_justice,FOD Justitie / SPF Justice,Service public federal Justice,Federal Public Service Justice,ministry,sec_federal,bi,https://justitie.belgium.be,,Brussels,Annual budget ~2.7bn; courts 1.43bn prisons 0.80bn; bilingual federal justice; tick158
+
 dg_epi,DG Penitentiaire Inrichtingen / DG Etablissements penitentiaires,DG EPI,Directorate-General Penitentiary Institutions,agency,fod_justice,bi,https://justitie.belgium.be,,Belgium,Prison administration; 799m 2025 line; overcrowding 121pct; tick158
+
 ugent,Universiteit Gent,Universite de Gand,Ghent University,university,sec_flanders,nl,https://www.ugent.be,,,2nd VL uni; CRC 2024: result -32.3m bedrijfs -43.6m; students 46128; VTE 8938; implied 1st stream ~428m medium; tick163
+
 uantwerpen,Universiteit Antwerpen,Universite d Anvers,University of Antwerp,university,sec_flanders,nl,https://www.uantwerpen.be,,,CRC 2024: result +2.4m bedrijfs -24.8m; students 20414; VTE 4019; implied 1st ~207m medium; tick163
+
 uhasselt,Universiteit Hasselt,Universite de Hasselt,Hasselt University,university,sec_flanders,nl,https://www.uhasselt.be,,,CRC 2024: result +9.5m; students 7303; VTE 1494; implied 1st ~94m medium; tick163
+
 vub,Vrije Universiteit Brussel,Vrije Universiteit Brussel,Free University of Brussels (Dutch),university,sec_flanders,nl,https://www.vub.be,,,CRC 2024: result -0.2m bedrijfs -16.0m; students 19889; VTE 3618; implied 1st ~166m medium; tick163
-uliege,Universite de Liege,Université de Liège,University of Liège,university,fwb_gov,fr,https://www.uliege.be,,,FWB community uni; alloc fonct 249.252m 2026 / 241.118m 2025; tick165
-umons,Universite de Mons,Université de Mons,University of Mons,university,fwb_gov,fr,https://web.umons.ac.be,,,FWB community uni; alloc fonct 89.797m 2026; tick165
-uclouvain,UCLouvain,Université catholique de Louvain,UCLouvain,university,fwb_gov,fr,https://uclouvain.be,,,Largest FWB free uni; alloc fonct 330.911m 2026; Saint-Louis merged 0 line; tick165
-ulb,Universite libre de Bruxelles,Université libre de Bruxelles,ULB,university,fwb_gov,fr,https://www.ulb.be,,,FWB free uni; alloc fonct 275.862m 2026; dual capital with VUB; tick165
-unamur,Universite de Namur,Université de Namur,University of Namur,university,fwb_gov,fr,https://www.unamur.be,,,FWB free uni; alloc fonct 72.197m 2026; tick165
+
+uliege,Universite de Liege,UniversitÃ© de LiÃ¨ge,University of LiÃ¨ge,university,fwb_gov,fr,https://www.uliege.be,,,FWB community uni; alloc fonct 249.252m 2026 / 241.118m 2025; tick165
+
+umons,Universite de Mons,UniversitÃ© de Mons,University of Mons,university,fwb_gov,fr,https://web.umons.ac.be,,,FWB community uni; alloc fonct 89.797m 2026; tick165
+
+uclouvain,UCLouvain,UniversitÃ© catholique de Louvain,UCLouvain,university,fwb_gov,fr,https://uclouvain.be,,,Largest FWB free uni; alloc fonct 330.911m 2026; Saint-Louis merged 0 line; tick165
+
+ulb,Universite libre de Bruxelles,UniversitÃ© libre de Bruxelles,ULB,university,fwb_gov,fr,https://www.ulb.be,,,FWB free uni; alloc fonct 275.862m 2026; dual capital with VUB; tick165
+
+unamur,Universite de Namur,UniversitÃ© de Namur,University of Namur,university,fwb_gov,fr,https://www.unamur.be,,,FWB free uni; alloc fonct 72.197m 2026; tick165
+
 hr_rail,HR Rail NV van publiek recht,HR Rail SA de droit public,HR Rail public limited company,parastatal,sec_federal,bi,https://www.hr-rail.be,,Frankrijkstraat 85 1060 Sint-Gillis,Legal employer all NMBS+Infrabel staff (KB 11 Dec 2013); omzet ~2.37bn 2025 pass-through payroll; FTE 27811; dual rail structure; tick166
+
 elia,Elia Transmission Belgium,Elia Transmission Belgium,Elia Belgian TSO,parastatal,sec_federal,bi,https://www.elia.be,,Brussels,Federal electricity TSO; hosts CRM auctions and federal GC OSP cash; tick169
+
 sibelga,Sibelga,Sibelga,Brussels electricity and gas DSO intercommunale,intercommunale,brussels_gov,bi,https://www.sibelga.be,,Brussels,BCR DSO 100pct public; turnover 415m profit 49m 2024; dual Fluvius Flanders + Elia TSO; tick171
+
 ores,ORES / ORES Assets,ORES / ORES Assets,ORES Walloon electricity and gas DSO,intercommunale,wallonie_gov,fr,https://www.ores.be,,,Walloon DSO >75pct munis; turnover BGAAP 1.068bn net 72.4m dividend 76.1m 2024; dual Fluvius VL + Sibelga BCR + RESA; tick173
+
 resa,RESA SA Intercommunale,RESA SA Intercommunale,RESA Liege-area electricity and gas DSO,intercommunale,wallonie_gov,fr,https://www.resa.be,,,Walloon DSO residual vs ORES; CA 384m net 48m dividend 18.8m 2024; dual ORES Fluvius Sibelga; tick174
+
 swde,SWDE Societe wallonne des eaux,SWDE Societe wallonne des eaux,Walloon public drinking water producer-distributor,parastatal,wallonie_gov,fr,https://www.swde.be,,,WAL water DSO 65pct volumes; CA 568m assets 2.37bn 2024; dual Vivaqua Aquafin; tick176
+
 spge,SPGE Societe publique de gestion de l eau,SPGE Societe publique de gestion de l eau,Walloon public wastewater sanitation finance operator,parastatal,wallonie_gov,fr,https://www.spge.be,,,WAL assainissement CA 418m debt 1.58bn 2024; dual Aquafin VL; tick177
+
 de_watergroep,De Watergroep,De Watergroep,Flemish public drinking water company,parastatal,sec_flanders,nl,https://www.dewatergroep.be,,,Largest VL drinkwater; omzet 838m assets 2.25bn 2024; 177 munis; dual SWDE Farys Pidpa; tick178
+
 pidpa,Pidpa,Pidpa,Antwerp province public drinking water and sewerage,parastatal,sec_flanders,nl,https://www.pidpa.be,,,Antwerp province water; omzet total 403m 2025 assets 1.59bn; dual DWG Farys SWDE; tick179
+
 water_link,Water-link OV,Water-link,Antwerp region public water and sewer intercommunal,parastatal,sec_flanders,nl,https://www.water-link.be,,,Antwerp metro drink+sewer+industry; omzet 254.5m op.rev 426.9m assets 571.5m 2025 KBO 0204923881; dual DWG Pidpa Farys; tick180
+
 farys,Farys OV,Farys,East/West Flanders public water sewer sport intercommunal,parastatal,sec_flanders,nl,https://www.farys.be,,,ex-TMVW; omzet 506m op.rev 598m assets 3.66bn 2024; dual DWG Pidpa Water-link SWDE; includes sport division; tick181
+
 fluxys_belgium,Fluxys Belgium NV/SA,Fluxys Belgium SA,Belgian natural gas TSO + LNG terminal,parastatal,sec_federal,bi,https://www.fluxys.com,,Brussels,Federal gas TSO dual Elia electricity; rev 650.5m profit 74.9m CAPEX 261.8m assets 3.17bn 2025; tick183
-sfpim,SFPIM Federale Participatie- en Investeringsmaatschappij,SFPIM Soci�t� f�d�rale de Participations et d'Investissement,Federal Holding and Investment Company (SFPI-FPIM),parastatal,sec_federal,bi,https://sfpim.be,,,Federal portfolio holding; assets 11.7bn equity 11.4bn net 291m 2025; 189 companies; dual PMV/WE regional; tick184
+
+sfpim,SFPIM Federale Participatie- en Investeringsmaatschappij,SFPIM Sociï¿½tï¿½ fï¿½dï¿½rale de Participations et d'Investissement,Federal Holding and Investment Company (SFPI-FPIM),parastatal,sec_federal,bi,https://sfpim.be,,,Federal portfolio holding; assets 11.7bn equity 11.4bn net 291m 2025; 189 companies; dual PMV/WE regional; tick184
+
+
 
 brussels_airport,Brussels Airport Company,Brussels Airport Company,Brussels Airport operator (Zaventem),parastatal,sec_federal,bi,https://www.brusselsairport.be,,Zaventem,Airport monopoly; rev 828m EBITDA 356m net 84m CAPEX 302m 2025; SFPIM 25pct + PMV/private 75pct; tick186
 
+
+
 bsca,BSCA Brussels South Charleroi Airport,BSCA Aeroport de Charleroi,Charleroi airport operator,parastatal,wallonie_gov,fr,https://www.brussels-charleroi-airport.com,,Charleroi,Low-cost dual to BAC; omzet 126.9m EBITDA 28.6m net 21.4m 2024; SOWAER 35.9pct Belgian Airport 48pct; tick187
+
 sowaer,SOWAER Societe wallonne des Aeroports,SOWAER Societe wallonne des Aeroports,Walloon airports holding infrastructure,parastatal,wallonie_gov,fr,https://www.sowaer.be,,,Assets 491.7m equity 366.9m ventes 47.0m net 0.30m 2025; BSCA stake 35.9pct; dual SFPIM airports; tick187+190; Liege Airport stake 24.1pct + dividends 1.2-1.4m; tick194
+
+
 
 credendo,Credendo Export Credit Agency / Group,Credendo Agence belge du credit a l exportation,Belgian official export credit agency group,parastatal,sec_federal,bi,https://credendo.com,,Brussels,State-backed ECA; consol assets 3.92bn equity 3.30bn GWP 481m 2024; cover capacity 33bn class; tick188
 
+
+
 skeyes,skeyes (ex-Belgocontrol),skeyes (ex-Belgocontrol),Belgian air navigation service provider ANS,parastatal,sec_federal,bi,https://www.skeyes.be,,Steenokkerzeel,State-owned ANS; omzet 335.2m profit 15.4m equity ~308m 2024; COVID loan 110m; dual airports BAC/BSCA; tick189
+
+
 
 sofico,SOFICO Societe wallonne de financement complementaire des infrastructures,SOFICO,Walloon structural road waterways telecom infra financier-operator,parastatal,wallonie_gov,fr,https://sofico.org,,,Op. rev 495.1m net 100.7m invest 265m assets under mgmt 2.58bn equity 2.17bn 2024; PKPL 347m; dual VL roads; tick191
 
+
+
 pmv,PMV Participatiemaatschappij Vlaanderen,PMV,Flemish public investment company,parastatal,sec_flanders,nl,https://www.pmv.eu,,,Managed portfolio 1.94bn invested 1.33bn net 32.5m invest 393m 2024; dual SFPIM; Aquafin 100pct; BAC stake; tick192
+
 port_antwerp_bruges,Haven van Antwerpen-Brugge NV PR,Port d'Anvers-Bruges,Port of Antwerp-Bruges,parastatal,sec_flanders,nl,https://www.portofantwerpbruges.com,,,City-owned 80.2pct Antwerp 19.8pct Bruges; omzet 500.8m 2024 / 507.0m 2025; net -38.5m 2024 / +80.3m 2025; equity ~2.31-2.36bn; dual North Sea Port; tick193
+
 north_sea_port,North Sea Port SE,North Sea Port SE,North Sea Port cross-border port authority,parastatal,sec_flanders,bi,https://www.northseaport.com,,,Cross-border BE/NL; Gent 48.52pct + Zeeland 25pct etc; omzet net 115.0m 2023 result 37.8m assets 945m equity ~639m; no dividend while guarantees; dual POAB; tick193
+
 liege_airport,Liege Airport SA,Liege Airport SA,Liege Airport cargo operator,parastatal,wallonie_gov,fr,https://www.liegeairport.com,,Grace-Hollogne,Cargo airport dual BSCA/BAC; omzet 56.2m 2024 / 65.0m 2025; net 14.3/17.5m; equity 75-86m; SOWAER 24.1pct NEB 50.4 ADP 25.5; WAL subsidies ~30m/yr class; tick194
+
 wallonie_entreprendre,Wallonie Entreprendre SA,Wallonie Entreprendre SA,Walloon public investment holding (WE),parastatal,wallonie_gov,fr,https://www.wallonie-entreprendre.be,,,Merger SOGEPA/SRIW/etc 2022; equity ~4.9-5.0bn; net 279.8m 2024 / 151.2m 2025; invest 492/613m; guarantees 228/208m; dual PMV+SFPIM; tick195
+
 vlaamse_waterweg,De Vlaamse Waterweg NV PR,De Vlaamse Waterweg NV PR,Flemish waterways authority,parastatal,sec_flanders,nl,https://www.vlaamsewaterweg.be,,,Omzet 59-62m equity 3.1-3.2bn net -6.8/-30.1m 2024-25; GIP invest 288-384m; dual SOFICO locks/waterways; tick196
+
 awv,Agentschap Wegen en Verkeer,Agence Routes et Circulation,Flanders roads agency AWV,agency,sec_flanders,nl,https://www.wegenenverkeer.be,,,GIP invest 708/680/685m 2025-27; dual SOFICO roads; full opex residual FOI; tick196
+
 lantis,Lantis (BAM NV PR),Lantis (BAM NV PR),Leefbaar Antwerpen door Innovatief Samenwerken Oosterweel SPV,parastatal,sec_flanders,nl,https://www.lantis.be,,,ex-BAM; equity 828-835m 2024-25; net -93.6/-7.3m; GIP 96-277m; Oosterweel BO2026 890m line; tick197
+
 de_werkvennootschap,De Werkvennootschap NV,De Werkvennootschap NV,Flanders multi-project mobility works company,parastatal,sec_flanders,nl,https://www.dewerkvennootschap.be,,,Omzet 124.5/143.3m 2024-25; equity ~40-41m; GIP ~244-249m; dual Lantis/AWV; tick197
+
 fedasil,Fedasil Federaal agentschap voor de opvang van asielzoekers,Fedasil Agence federale pour l'accueil des demandeurs d'asile,Federal asylum reception agency,agency,sec_federal,bi,https://www.fedasil.be,,,Dotatie 929m 2024 uitgaven 943m third-party 559m; path 2015-24; tick202
-mdk,Agentschap voor Maritieme Dienstverlening en Kust (MDK),Agence pour les Services maritimes et la C�te,Flanders Maritime Services and Coast Agency MDK,agency,sec_flanders,nl,https://www.agentschapmdk.be,openbaarheid@vlaanderen.be,Havenlaan 88 bus 20 1000 Brussel,IVA without legal personality MOW; 4 DAB Kust Loodswezen Scheepvaartbegeleiding Vloot; GIP invest 72.5/92.1/92.2m 2025-27; full opex residual FOI; tick203
+
+mdk,Agentschap voor Maritieme Dienstverlening en Kust (MDK),Agence pour les Services maritimes et la Cï¿½te,Flanders Maritime Services and Coast Agency MDK,agency,sec_flanders,nl,https://www.agentschapmdk.be,openbaarheid@vlaanderen.be,Havenlaan 88 bus 20 1000 Brussel,IVA without legal personality MOW; 4 DAB Kust Loodswezen Scheepvaartbegeleiding Vloot; GIP invest 72.5/92.1/92.2m 2025-27; full opex residual FOI; tick203
+
 police_zone_antwerpen,Politiezone Antwerpen,Zone de police d'Anvers,Antwerp local police zone,parastatal,city_antwerpen,nl,https://www.politieantwerpen.be,,,Eengemeentezone; city toelage 320.7m 2026 / 318.1m 2025; staff 306m; dual federal base residual FOI; tick207
+
 brandweerzone_antwerpen,Brandweerzone Antwerpen (HVZ),Zone de secours Anvers,Antwerp fire rescue zone,parastatal,city_antwerpen,nl,https://www.brandweerzone-antwerpen.be,,,Multi-commune Antwerpen Wijnegem 2026-31; city package locked ~87.5m 2026 / ~81.5m 2025; dual PZA 321m; tick215
+
 zorgbedrijf_antwerpen,Zorgbedrijf Antwerpen,Entreprise de soins Anvers,Antwerp public care company seniors,parastatal,city_antwerpen,nl,https://www.zorgbedrijf.antwerpen.be,,,City package locked ~89.288m 2026 / ~65.0m 2025 / ~66.2m 2024; dual CAW FreeClinic; side-PC residual FOI; tick214
-digipolis_antwerpen,AG Digipolis Antwerpen,Digipolis Anvers,Antwerp municipal ICT AGB cost-sharing,parastatal,city_antwerpen,nl,https://www.digipolis.be,,,City IT AGB; 2025 city package class ~75.2m + PZA ~53.5m dual; 2024 city 57.6m; tick213
+
+digipolis_antwerpen,AG Digipolis Antwerpen,Digipolis Anvers,Antwerp municipal ICT AGB cost-sharing,parastatal,city_antwerpen,nl,https://www.digipolis.be,,,AGB MJP 2026 total 245.6m personnel 45.5m; city lock 38.8m partial; 2025 city~75.2m+PZA~53.5m; tick225
+
 ag_stedelijk_onderwijs_antwerpen,AG Stedelijk Onderwijs Antwerpen,Autonome entreprise communale Enseignement Anvers,Antwerp municipal education AGB,parastatal,city_antwerpen,nl,https://www.stedelijkonderwijs.be,,,City package locked ~88.152m 2026 (werk 52.9 respons 7.2 invest 28.1); dual VL residual; tick216
-mpa_antwerpen,AG Mobiliteit en Parkeren Antwerpen,Mobilit� et Stationnement Anvers,Antwerp parking and mobility AGB (ex-GAPA),parastatal,city_antwerpen,nl,https://www.parkereninantwerpen.be,,,City werk locked ~4.054m 2026 (parkeer 3.125 + LEZ 0.929); capital residual FOI; tick216
+
+mpa_antwerpen,AG Mobiliteit en Parkeren Antwerpen,Mobilité et Stationnement Anvers,Antwerp parking and mobility AGB (ex-GAPA),parastatal,city_antwerpen,nl,https://www.parkereninantwerpen.be,,,City werk locked ~4.054m 2026 (parkeer 3.125 + LEZ 0.929); capital residual FOI; tick216
+
 ag_vespa_antwerpen,AG VESPA Antwerpen,AG VESPA Anvers,Antwerp municipal real estate development AGB,parastatal,city_antwerpen,nl,https://www.vespa.antwerpen.be,,,City package locked ~6.011m 2026 (werk 3.47 invest 2.54); affordable housing; tick217
+
 ag_cia_erfgoed_antwerpen,AG Culturele Instellingen Antwerpen/Erfgoed,AG Institutions culturelles Anvers/Patrimoine,Antwerp museums heritage culture AGB,parastatal,city_antwerpen,nl,,,City package locked ~7.935m 2026 (musea 6.51 + geletterde 1.42); tick217
+
 ag_energiebesparingsfonds_antwerpen,AG Energiebesparingsfonds Antwerpen,AG Fonds economies energie Anvers,Antwerp energy-savings fund AGB,parastatal,city_antwerpen,nl,,,City werk locked ~0.592m 2026 renovatiegolf climate; tick217
+
 integratie_inburgering_antwerpen,Integratie en Inburgering Antwerpen vzw,Integration et Citoyennete Anvers asbl,Antwerp civic integration EVA-vzw (ex-CISO),parastatal,city_antwerpen,nl,,,City package locked ~25.826m 2026 (werk 24.7 invest 1.1); dual VL residual; tick218
+
 beschut_wonen_antwerpen,Beschut Wonen Antwerpen,Habitat protege Anvers,Antwerp supported housing welzijnsvereniging,parastatal,city_antwerpen,nl,,,City werk locked ~0.970m 2026 psych risk homeless prevention; tick218
+
