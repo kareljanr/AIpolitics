@@ -3854,3 +3854,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; entity screen_brussels; budgets +10; cmt +1; lb +2; FOI gap_screen_brussels_l5 ready; rq_336=done; spawn rq_337; ticks=345
 - FOI: named awards L5 + BCR budget codes + recoup ready human send
 - Next: prio5 **rq_337**; deferred **rq_116** SWA
+
+### 2026-07-31T11:45:00Z - tick 346
+- Unit: **rq_337** (FOI-adjacent hole-fill - **Sport Vlaanderen + ADEPS dual community sport**)
+- Found (strong primary VL BBT Sport BO2026 + ADEPS RA2025):
+  - **Sport Vlaanderen prog HF BO2026:** VAK **€177.121m** · VEK **€167.136m** (excl DAB/apparaat/prog B).
+  - **BA2025 same perimeter:** VAK **€183.884m** · VEK **€185.264m**.
+  - **Toelage IS 2026:** VAK **€175.934m** · VEK **€165.949m** (HB0-1HFH2NY-IS + HB0-1HFH5NY-IS).
+  - **ISE BO2026:** Sport voor allen VEK **€125.546m** · Infra **€30.876m** · Topsport **€31.659m** · Antidoping **€1.445m**.
+  - **ADEPS / FWB sport 2025:** **€49.891m** (0.3% FWB total; ordinaire + SACA/Loterie).
+  - Subventions 2025: federations forfait **€8.320m** + plan-programme **€12.932m** · CSL **€5.593m** · SHN **€1.251m** · jeunes **€3.262m** · ASL used **€2.555m**.
+  - Staff: **587** agents + **1,215** occasional (8,142 contracts); **64** federations / **6,846** clubs / **813,207** affiliates.
+  - **Dual class ~€235m** 2025 (VL VEK 185.3 + ADEPS 49.9; not TE-additive).
+- Wrote: sources +3; entities +2; budgets +19; cmt +1; lb +3; FOI gap_sport_vl_adeps_l5 ready; rq_337=done; spawn rq_338; ticks=346
+- FOI: L5 federations both sides + ADEPS SACA/Loterie ready human send
+- Next: prio5 **rq_338**; deferred **rq_116** SWA
