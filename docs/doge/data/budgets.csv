@@ -1467,3 +1467,34 @@ bud_forem_prog12_2025,forem,2025,370072000,,,budgeted,src_wal_ep_jeholet_2026,st
 bud_forem_titres_services_2025,forem,2025,567614000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 17 Titres services FOREM 567.614m 2025 MA/MP
 bud_forem_formation_prog22_2025,forem,2025,344624000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 22 Forem Formation 344.624m 2025 MA/MP (folded into 130 in 2026)
 bud_forem_reductions_groupes_2025,forem,2025,187610000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 18 reductions cotisations groupes cibles FOREM 187.610m 2025
+bud_ugent_result_2024,ugent,2024,-32276371,,,outturn,src_vl_crc_ho_2024,strong,UGent boekjaar resultaat 2024 CRC T44
+bud_ugent_bedrijfs_2024,ugent,2024,-43628570,,,outturn,src_vl_crc_ho_2024,strong,UGent bedrijfsoverschot/-tekort 2024
+bud_ugent_invest_2024,ugent,2024,57627449,,,outturn,src_vl_crc_ho_2024,strong,UGent bruto investeringen 2024
+bud_ugent_1st_implied_2024,ugent,2024,427731078,,,outturn,src_vl_crc_ho_2024,medium,Implied 1st stream = |bedrijfs|/0.1020 from CRC ratio table; sum-checks to sector 1.441bn
+bud_ugent_students_2024,ugent,2024,46128,,,outturn,src_vl_crc_ho_2024,strong,UGent unique diplomacontract students 2024 (AJ 2023-24)
+bud_ugent_vte_2024,ugent,2024,8938,,,outturn,src_vl_crc_ho_2024,strong,UGent total VTE 1 Feb 2024 VLIR (8937.74 rounded)
+bud_ua_result_2024,uantwerpen,2024,2372772,,,outturn,src_vl_crc_ho_2024,strong,UA boekjaar resultaat 2024
+bud_ua_bedrijfs_2024,uantwerpen,2024,-24830724,,,outturn,src_vl_crc_ho_2024,strong,UA bedrijfstekort 2024
+bud_ua_invest_2024,uantwerpen,2024,24689084,,,outturn,src_vl_crc_ho_2024,strong,UA bruto investeringen 2024
+bud_ua_1st_implied_2024,uantwerpen,2024,206922700,,,outturn,src_vl_crc_ho_2024,medium,Implied 1st stream = |bedrijfs|/0.12 CRC ratio
+bud_ua_students_2024,uantwerpen,2024,20414,,,outturn,src_vl_crc_ho_2024,strong,UA students diplomacontract 2024
+bud_ua_vte_2024,uantwerpen,2024,4019,,,outturn,src_vl_crc_ho_2024,strong,UA total VTE 1 Feb 2024 (4018.70)
+bud_uhasselt_result_2024,uhasselt,2024,9542578,,,outturn,src_vl_crc_ho_2024,strong,UHasselt boekjaar resultaat 2024
+bud_uhasselt_bedrijfs_2024,uhasselt,2024,1041489,,,outturn,src_vl_crc_ho_2024,strong,UHasselt bedrijfsoverschot 2024
+bud_uhasselt_invest_2024,uhasselt,2024,15222510,,,outturn,src_vl_crc_ho_2024,strong,UHasselt bruto investeringen 2024
+bud_uhasselt_1st_implied_2024,uhasselt,2024,93827838,,,outturn,src_vl_crc_ho_2024,medium,Implied 1st stream = bedrijfs/0.0111 CRC ratio
+bud_uhasselt_students_2024,uhasselt,2024,7303,,,outturn,src_vl_crc_ho_2024,strong,UHasselt students 2024
+bud_uhasselt_vte_2024,uhasselt,2024,1494,,,outturn,src_vl_crc_ho_2024,strong,UHasselt VTE 1 Feb 2024 (1494.45)
+bud_vub_result_2024,vub,2024,-205275,,,outturn,src_vl_crc_ho_2024,strong,VUB boekjaar resultaat 2024
+bud_vub_bedrijfs_2024,vub,2024,-16040711,,,outturn,src_vl_crc_ho_2024,strong,VUB bedrijfstekort 2024
+bud_vub_invest_2024,vub,2024,54568904,,,outturn,src_vl_crc_ho_2024,strong,VUB bruto investeringen 2024
+bud_vub_1st_implied_2024,vub,2024,165709824,,,outturn,src_vl_crc_ho_2024,medium,Implied 1st stream = |bedrijfs|/0.0968 CRC ratio
+bud_vub_students_2024,vub,2024,19889,,,outturn,src_vl_crc_ho_2024,strong,VUB students 2024
+bud_vub_vte_2024,vub,2024,3618,,,outturn,src_vl_crc_ho_2024,strong,VUB VTE 1 Feb 2024 (3617.53)
+bud_vl_univ_bedrijfsopbr_2024,sec_flanders,2024,3504303465,,,outturn,src_vl_crc_ho_2024,strong,VL universities aggregate bedrijfsopbrengsten 2024
+bud_vl_univ_bedrijfskosten_2024,sec_flanders,2024,3467306197,,,outturn,src_vl_crc_ho_2024,strong,VL universities aggregate bedrijfskosten 2024
+bud_vl_univ_bedrijfsresult_2024,sec_flanders,2024,36997268,,,outturn,src_vl_crc_ho_2024,strong,VL universities aggregate bedrijfsoverschot 37.0m 2024 (was 131.4m 2023)
+bud_vl_univ_result_2024,sec_flanders,2024,159621522,,,outturn,src_vl_crc_ho_2024,strong,VL universities aggregate resultaat boekjaar 159.6m 2024
+bud_vl_univ_personnel_cost_2024,sec_flanders,2024,2198487462,,,outturn,src_vl_crc_ho_2024,strong,VL universities personnel costs 2.198bn 2024
+bud_vl_univ_invest_agg_2024,sec_flanders,2024,260172025,,,outturn,src_vl_crc_ho_2024,strong,VL universities bruto investeringen aggregate 260.2m 2024
+bud_vl_univ_vte_2024,sec_flanders,2024,30419,,,outturn,src_vl_crc_ho_2024,strong,VL universities total VTE 30418.53 on 1 Feb 2024

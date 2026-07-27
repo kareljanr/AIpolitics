@@ -1547,3 +1547,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets ~18; cmt 1; lb 4; programmes 4; gap_forem notes partial; rq_157=done; seeded **rq_158**.
 - FOI: gap_forem residual RA2024-25 + APE beneficiary L5 still **ready** human send.
 - Next: prio5 **rq_158**; deferred **rq_116** SWA.
+
+### 2026-07-28T04:25:00Z — tick 163
+- Unit: **rq_158** (FOI-adjacent hole-fill — **VL universities per-institution CRC HO 2024**)
+- Found (strong primary CRC PDF; 1st-stream reverse-engineered medium):
+  - Sector: bedrijfsopbr **3.504bn** · kosten **3.467bn** · bedrijfsresult **37.0m** (was 131m) · resultaat **159.6m** · personnel **2.198bn** · invest **260.2m** · VTE **30 419**.
+  - **Results 2024:** KUL **+180.2m** · UGent **−32.3m** · UA **+2.4m** · UHasselt **+9.5m** · VUB **−0.2m**.
+  - **Invest:** KUL **108.1m** · UGent **57.6m** · VUB **54.6m** · UA **24.7m** · UHasselt **15.2m**.
+  - **Students:** KUL 56 114 · UGent 46 128 · UA 20 414 · VUB 19 889 · UHasselt 7 303 (sum 149 848).
+  - **VTE:** KUL 12 350 · UGent 8 938 · UA 4 019 · VUB 3 618 · UHasselt 1 494.
+  - **1st stream implied (medium):** UGent **~428m** · UA **~207m** · VUB **~166m** · UHasselt **~94m** (+ KUL **546.5m strong JV**); sum ≈ sector **1.441bn**.
+  - Method: CRC official bedrijfsresult / basisfinanciering ratios (T48); not AHOVOKS cash lines.
+- Wrote: entities 4; sources 1; budgets ~31; cmt 5; lb 5; gap_univ notes partial; rq_158=done; seeded **rq_159**.
+- FOI: gap_univ residual AHOVOKS exact matrix + FWB institutional still **ready** human send (prio 6).
+- Next: prio5 **rq_159**; deferred **rq_116** SWA.
