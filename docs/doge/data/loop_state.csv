@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T13:30:00Z,rq_244,253,no,Scheduler 60s. Next prio5 rq_245; rq_116 SWA deferred. FOI ready human send. tick253 AWEX 76.8m dual FIT.
+main,continuous,hole_fill,2026-07-29T14:00:00Z,rq_245,254,no,Scheduler 60s. Next prio5 rq_246; rq_116 SWA deferred. FOI ready human send. tick254 hub.brussels 46.2m dual AWEX/FIT.

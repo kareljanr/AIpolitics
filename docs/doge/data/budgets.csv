@@ -2714,3 +2714,16 @@ bud_awex_missions_spec_2026,awex,2026,445000,,,budgeted,src_wal_ep_jeholet_awex_
 bud_awex_ace_contrib_2026,ace_federal,2026,438000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,WAL contribution Agence Commerce Exterieur ACE 438k 2026 (+10k vs path)
 bud_awex_ace_contrib_2025,ace_federal,2025,428000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,WAL ACE contribution 428k 2025
 bud_awex_treasury_remonte_2025,awex,2025,9000000,,,outturn,src_wal_ep_jeholet_awex_2026,strong,Treasury remonte 9m EUR 2025 reducing cash dotation that year (not repeated 2026)
+bud_hub_brussels_total_2024,hub_brussels,2024,46166000,,,outturn,src_hub_brussels_rapport_2024,strong,Rapport activite 2024 Annexe 2: recettes=depenses total 46.166m; dual AWEX/FIT export stack
+bud_hub_brussels_dotation_2024,hub_brussels,2024,42007000,,,outturn,src_hub_brussels_rapport_2024,strong,Regional dotation 42.007m of total 46.166m (~91pct)
+bud_hub_brussels_eu_fin_2024,hub_brussels,2024,1353000,,,outturn,src_hub_brussels_rapport_2024,strong,Financement EU 1.353m
+bud_hub_brussels_rbc_fin_2024,hub_brussels,2024,1040000,,,outturn,src_hub_brussels_rapport_2024,strong,Financement RBC other regional 1.040m
+bud_hub_brussels_feder_2024,hub_brussels,2024,762000,,,outturn,src_hub_brussels_rapport_2024,strong,Financement FEDER 0.762m
+bud_hub_brussels_autres_rec_2024,hub_brussels,2024,604000,,,outturn,src_hub_brussels_rapport_2024,strong,Autres recettes 0.604m
+bud_hub_brussels_propres_2024,hub_brussels,2024,400000,,,outturn,src_hub_brussels_rapport_2024,strong,Recettes propres 0.400m
+bud_hub_brussels_remun_2024,hub_brussels,2024,31875000,,,outturn,src_hub_brussels_rapport_2024,strong,Remunerations 31.875m (~69pct of total spend)
+bud_hub_brussels_actions_2024,hub_brussels,2024,6186000,,,outturn,src_hub_brussels_rapport_2024,strong,Frais d actions 6.186m
+bud_hub_brussels_fonct_2024,hub_brussels,2024,5897000,,,outturn,src_hub_brussels_rapport_2024,strong,Fonctionnement 5.897m
+bud_hub_brussels_loyers_2024,hub_brussels,2024,1383000,,,outturn,src_hub_brussels_rapport_2024,strong,Loyers 1.383m
+bud_hub_brussels_invest_2024,hub_brussels,2024,305000,,,outturn,src_hub_brussels_rapport_2024,strong,Investissements 0.305m
+bud_hub_brussels_transferts_2024,hub_brussels,2024,509000,,,outturn,src_hub_brussels_rapport_2024,strong,Transferts 0.509m

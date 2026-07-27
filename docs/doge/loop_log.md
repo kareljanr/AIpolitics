@@ -2714,3 +2714,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities awex/ace/fit; budgets +8; cmt +1; lb +3; FOI gap_fit_budget_2026 ready; draft; rq_244=done; spawn rq_245; ticks=253
 - FOI: FIT VEK dual human send
 - Next: prio5 **rq_245**; deferred **rq_116** SWA
+
+### 2026-07-29T14:00:00Z — tick 254
+- Unit: **rq_245** (FOI-adjacent hole-fill — **hub.brussels dual AWEX/FIT export**)
+- Found (strong primary hub.brussels Rapport activite 2024 Annexe 2):
+  - **hub.brussels TOTAL recettes=depenses EUR 46.166m** 2024.
+  - Dotation **42.007m** (~91%); EU 1.353 + RBC 1.040 + FEDER 0.762 + autres 0.604 + propres 0.400.
+  - Spend: remun **31.875m** (~69%); actions 6.186; fonct 5.897; loyers 1.383; invest 0.305; transferts 0.509.
+  - Dual/triple: AWEX **76.843m** 2026 | hub **46.166m** 2024 | FIT residual FOI (years differ — not additive).
+  - 2026 blog: intl offices **33?21**; EUR cut amount residual FOI.
+- Wrote: sources +1; entity hub_brussels; budgets +13; cmt +1; lb +3; FOI gap_hub_brussels_budget_2025_26 ready; draft; raw PDF; rq_245=done; spawn rq_246; ticks=254
+- FOI: hub 2025-26 package + cut EUR human send; FIT still ready
+- Next: prio5 **rq_246**; deferred **rq_116** SWA
