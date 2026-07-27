@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T21:45:00Z,rq_357,366,no,Scheduler 60s. Next prio5 rq_358; rq_116 SWA deferred. FOI ready. tick366 youth protect dual ~1.44bn.
+main,continuous,hole_fill,2026-07-31T22:15:00Z,rq_358,367,no,Scheduler 60s. Next prio5 rq_359; rq_116 SWA deferred. FOI ready. tick367 CAW 130m + welzijnswerk 160m.

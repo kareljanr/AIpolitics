@@ -4134,3 +4134,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +1 (note +1); sources +2; budgets +9; cmt +1; lb +4; FOI **gap_youth_protect_dual_vl_fwb_l5** ready + draft; rq_357=done; spawn **rq_358**; ticks=366
 - FOI: BO2026 ISE table + top operators both sides human send only
 - Next: prio5 **rq_358**; deferred **rq_116** SWA
+
+### 2026-07-31T22:15:00Z - tick 367
+- Unit: **rq_358** (FOI-adjacent hole-fill - **Flanders ISE Welzijnswerk + CAW L5 package**)
+- Found (strong primary VL BBT WVG BU2025):
+  - **ISE Welzijnswerk** BA VEK **EUR 154.417m** / BU VEK **159.634m**
+  - GCF2EA article BA VEK **141.740m** / BU **147.053m**:
+    - **CAW 130.138m** · bis **1.240m** · teleonthaal **3.923m** · schuldhulp **1.498m**
+  - Bonus same source: ISE **Sociale Bescherming** BA VEK **5.274bn** / BU **5.332bn** (toelagen IS ~3.95-4.02bn)
+  - GHF2TG thuis/ouderenzorg BA VEK **81.034m** / BU **77.519m**
+  - ISE Gespecialiseerde zorg BU VEK **145.724m**; Woonzorg+EL BA total VEK **67.675m**
+  - Dual note: WAL relais sociaux much smaller scale (FOI/unit-cost residual).
+- Wrote: entities +2; sources +2; budgets +15; cmt +1; lb +5; FOI **gap_vl_caw_l5_per_centre** ready + draft; rq_358=done; spawn **rq_359**; ticks=367
+- FOI: per-CAW matrix + BO2026 human send only
+- Next: prio5 **rq_359**; deferred **rq_116** SWA
