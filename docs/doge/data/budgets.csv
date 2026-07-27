@@ -2727,3 +2727,16 @@ bud_hub_brussels_fonct_2024,hub_brussels,2024,5897000,,,outturn,src_hub_brussels
 bud_hub_brussels_loyers_2024,hub_brussels,2024,1383000,,,outturn,src_hub_brussels_rapport_2024,strong,Loyers 1.383m
 bud_hub_brussels_invest_2024,hub_brussels,2024,305000,,,outturn,src_hub_brussels_rapport_2024,strong,Investissements 0.305m
 bud_hub_brussels_transferts_2024,hub_brussels,2024,509000,,,outturn,src_hub_brussels_rapport_2024,strong,Transferts 0.509m
+bud_tv_werkingstoelage_class,toerisme_vlaanderen,2025,39357000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,BBT presentation werkings toelage 39.357m; year class 2025-26 post-regeerakkoord EventFlanders 7.5m path
+bud_tv_investeringstoelage_class,toerisme_vlaanderen,2025,32333000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,BBT presentation investerings toelage 32.333m; year class 2025-26
+bud_tv_toelage_package_class,toerisme_vlaanderen,2025,71690000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,Sum werkings+invest toelage 71.690m; dual Visit.brussels; not full TCO with own receipts
+bud_tv_lonen_class,toerisme_vlaanderen,2025,19967000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,Lonen 19.967m presentation class year
+bud_tv_werking_class,toerisme_vlaanderen,2025,5026000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,Werking 5.026m presentation class year
+bud_tv_eventflanders_ops_class,toerisme_vlaanderen,2025,1000000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,EventFlanders loon+werking 1.0m
+bud_tv_eventflanders_topevents_class,toerisme_vlaanderen,2025,7500000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,Topevenementen 7.5m recurrent regeerakkoord path; legislatuur min 37.5m
+bud_tv_saldo_desaffect_class,toerisme_vlaanderen,2025,80208000,,,budgeted,src_vl_toerisme_bbt_presentation,medium,Saldo 80.208m desaffect to algemene middelen; no daily ops impact claimed
+bud_tv_sq_vak_bo2024,toerisme_vlaanderen,2024,66466000,,,budgeted,src_vl_toerisme_bbt_bo2024,strong,Programme SQ Toerisme BO2024 VAK 66.466m excl apparaat
+bud_tv_sq_vek_bo2024,toerisme_vlaanderen,2024,74816000,,,budgeted,src_vl_toerisme_bbt_bo2024,strong,Programme SQ Toerisme BO2024 VEK 74.816m excl apparaat
+bud_tv_eventflanders_vak_bo2024,toerisme_vlaanderen,2024,3500000,,,budgeted,src_vl_toerisme_bbt_bo2024,strong,EventFlanders invest VAK 3.5m BO2024 (+0.5m VAK-ruiter possible)
+bud_tv_eventflanders_vek_bo2024,toerisme_vlaanderen,2024,4357000,,,budgeted,src_vl_toerisme_bbt_bo2024,strong,EventFlanders invest VEK 4.357m BO2024; werk 1.0m separate
+bud_visit_brussels_prog302_2024,visit_brussels,2024,14900000,,,budgeted,src_ccrek_bru_credits_prov_2025_visit,strong,Cour: VISIT.39.302.08 Soutenir le tourisme BI2024 initial 14.9m; partial not full agency package

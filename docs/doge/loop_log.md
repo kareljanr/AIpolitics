@@ -2726,3 +2726,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity hub_brussels; budgets +13; cmt +1; lb +3; FOI gap_hub_brussels_budget_2025_26 ready; draft; raw PDF; rq_245=done; spawn rq_246; ticks=254
 - FOI: hub 2025-26 package + cut EUR human send; FIT still ready
 - Next: prio5 **rq_246**; deferred **rq_116** SWA
+
+### 2026-07-29T14:30:00Z — tick 255
+- Unit: **rq_246** (FOI-adjacent hole-fill — **dual tourism Toerisme VL + visit.brussels; AGMJ ETP**)
+- Found (strong/medium primary):
+  - **Toerisme Vlaanderen programme SQ BO2024**: VAK **€66.466m** / VEK **€74.816m** (excl apparaat) — BBT 13-R strong.
+  - Presentation (pfile 2086302, year class 2025-26): werkings-toelage **39.357m** + invest **32.333m** (=**71.690m**); lonen **19.967m**; werking **5.026m**; EventFlanders ops **1.0m** + topevents **7.5m**; saldo desaffect **80.208m**.
+  - **visit.brussels** Cour VISIT.39.302.08 prog 302 **€14.9m** BI2024 (partial — not full ASBL).
+  - Dual tourism: VL ~75m vs Visit 14.9m partial (scopes differ; not additive).
+  - **AGMJ 801 ETP** 30/06/2025 ExpGen strong; wage bill residual FOI.
+  - FIT public primary still incomplete (gap_fit ready).
+- Wrote: sources +4; entities TV+Visit; budgets +13; cmt +3; lb +5; FOI gap_visit_brussels_budget_full + gap_tv_presentation_year_confirm ready; drafts; raw PDFs; rq_246=done; spawn rq_247; ticks=255
+- FOI: Visit full package + optional TV year stamp human send
+- Next: prio5 **rq_247**; deferred **rq_116** SWA
