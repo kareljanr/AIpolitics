@@ -85,3 +85,7 @@ forem_global_2023,forem,,FOREM,FOREM budget global 2023,10.5,2023,3091398800,src
 forem_aides_2023,forem,forem_global_2023,FOREM-AIDES,FOREM aides emploi et formation,10.5,2023,2066942833,src_forem_ra_2023,strong,Wallonie>FOREM>aides,75pct of internal; APE titres-services dominant
 forem_fonctionnement_2023,forem,forem_global_2023,FOREM-OPS,FOREM fonctionnement,10.5,2023,513942338,src_forem_ra_2023,strong,Wallonie>FOREM>ops,19pct personnel IT real estate
 forem_rw_subv_2023,forem,,FOREM-RW,Subvention Region wallonne to FOREM,10.5,2023,2661601000,src_forem_ra_2023,strong,Wallonie>FOREM>dotation,Primary RW financing
+forem_prog130_2026,forem,,FOREM-130,FOREM programme 130 consolidated 2026,10.5,2026,2833619000,src_wal_ep_jeholet_2026,strong,Wallonie>FOREM,Rationalised single programme initial 2026
+forem_ape_2026,forem,forem_prog130_2026,FOREM-APE,APE employment promotion device,10.5,2026,1279282000,src_wal_ep_jeholet_2026,strong,Wallonie>FOREM>APE,Largest L5 block 45pct of prog
+forem_titres_2026,forem,forem_prog130_2026,FOREM-TS,Titres-services subsidies,10.5,2026,568406000,src_wal_ep_jeholet_2026,strong,Wallonie>FOREM>titres,20pct of prog
+forem_ops_2026,forem,forem_prog130_2026,FOREM-OPS,Fonctionnement FOREM,10.5,2026,419714000,src_wal_ep_jeholet_2026,strong,Wallonie>FOREM>ops,15pct of prog; contrat gestion

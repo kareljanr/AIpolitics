@@ -1535,3 +1535,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets ~22; cmt 2; lb 3; FOI **gap_infrabel_dotatie_cash** ready; rq_156=done; seeded **rq_157**.
 - FOI: gap_infrabel (FPS cash codes + invest L5 + Liefkenshoek series) human send only; gap_de_lijn residual note.
 - Next: prio5 **rq_157** FOREM/De Lijn perimeter/Antwerp/univ; deferred **rq_116** SWA.
+
+### 2026-07-28T04:05:00Z — tick 162
+- Unit: **rq_157** (FOI-adjacent hole-fill — **FOREM Wallonie budget 2026 programme 130 L5**)
+- Found (strong primary EP Jeholet DO18, kEUR table eng=liq):
+  - **Total prog 130: EUR 2.833619bn** (sum of 20 AB lines; matches ExpGen 18.130).
+  - **APE 1.279bn** (45%) · **titres-services 568.4m** · **fonctionnement FOREM 419.7m** · SESAM **106.9m** · ONSS draw **136.8m** · CISP **104.3m** · activation **76.2m**.
+  - 2025 legacy: prog12 **370.1m** · titres **567.6m** · formation prog22 **344.6m** (folded into 130 in 2026).
+  - Dual PES: pure ops ~420m vs VDAB VL krediet ~0.75bn; total 2.83bn is aids-heavy (not apples-to-apples).
+  - FOREM RA 2024-25 still not public this tick.
+- Wrote: sources 1; budgets ~18; cmt 1; lb 4; programmes 4; gap_forem notes partial; rq_157=done; seeded **rq_158**.
+- FOI: gap_forem residual RA2024-25 + APE beneficiary L5 still **ready** human send.
+- Next: prio5 **rq_158**; deferred **rq_116** SWA.

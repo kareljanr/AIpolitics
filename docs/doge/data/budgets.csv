@@ -928,7 +928,7 @@ bud_wal_sante_fam_dot_2026,wallonie_gov,2026,7026601000,,,budgeted,src_wal_expge
 bud_wal_action_sociale_2026,wallonie_gov,2026,329598000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.094 Action sociale 329.598m 2026
 bud_wal_creches_2026,wallonie_gov,2026,16250000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.095 Crèches petite enfance 16.250m 2026
 bud_wal_affaires_int_2026,wallonie_gov,2026,2682359000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.091 Affaires intérieures 2682.359m 2026 (communes CRAC class)
-bud_wal_forem_prog_2026,forem,2026,2833619000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.130 Nouveau FOREM consolidated eng/liq 2833.619m 2026 (replaces split lines)
+bud_wal_forem_prog_2026,forem,2026,2833619000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 18.130/130 Nouveau FOREM eng=liq 2.833619bn 2026 confirmed EP Jeholet L5 sum (was ExpGen same total)
 bud_wal_ifapme_2026,wallonie_gov,2026,88299000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.112 IFAPME 88.299m 2026
 bud_wal_eco_outils_2026,wallonie_gov,2026,132452000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.097 ENTREPRISES Outils économiques et financiers 132.452m eng 2026 (WE path inside)
 bud_wal_eco_aides_inv_2026,wallonie_gov,2026,161605000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.096 Aides à l investissement 161.605m 2026
@@ -1449,3 +1449,21 @@ bud_infrabel_liefkenshoek_pps_annual,infrabel,2024,50610000,,,budgeted,src_infra
 bud_infrabel_creditline_invest_2025_29,infrabel,2025,1000000000,,,commitment,src_infrabel_jv2024,strong,Government credit line up to 1bn current for investments 2025-2029 (performantiecontract note)
 bud_infrabel_alstom_switches_80m,infrabel,2024,80000000,,,commitment,src_infrabel_jv2024,medium,Alstom contract ~80m for ~10000 ultralight switches (editorial markante gebeurtenissen)
 bud_infrabel_thales_cyber_20m,infrabel,2024,20000000,,,commitment,src_infrabel_jv2024,medium,Thales cybersecurity 5y contract 20m (editorial)
+bud_forem_prog130_total_2026,forem,2026,2833619000,,,budgeted,src_wal_ep_jeholet_2026,strong,EP Jeholet prog 130 sum of 20 AB lines eng=liq 2.833619bn 2026 (matches ExpGen 18.130; dual PES)
+bud_forem_ape_2026,forem,2026,1279282000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.006 Aides emploi Dispositif APE 1.279282bn 2026 (largest L5 block)
+bud_forem_titres_services_2026,forem,2026,568406000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.007 Titres-services subventions 568.406m 2026
+bud_forem_fonctionnement_2026,forem,2026,419714000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.012 Depenses fonctionnement FOREM 419.714m 2026 (contrat de gestion)
+bud_forem_sesam_2026,forem,2026,106945000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.001 SESAM primes entreprises 106.945m 2026
+bud_forem_droits_tirage_onss_2026,forem,2026,136777000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.018 Droits de tirage reductions cotisations ONSS groupes cibles 136.777m 2026
+bud_forem_partenariat_cisp_2026,forem,2026,104325000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.016 Partenariat CISP 104.325m 2026
+bud_forem_allocation_activation_2026,forem,2026,76237000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.004 Allocation activation 76.237m 2026
+bud_forem_fonctionnement_autres_2026,forem,2026,27867000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.013 Fonctionnement autres 27.867m 2026
+bud_forem_aides_formation_forem_2026,forem,2026,26735000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.010 Aides formation FOREM 26.735m 2026
+bud_forem_partenariat_general_2026,forem,2026,24669000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.014 Partenariat general 24.669m 2026
+bud_forem_cep_2026,forem,2026,21000000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.009 Congé education paye 21.0m 2026
+bud_forem_aides_formation_autres_2026,forem,2026,13055000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.011 Aides formation autres (cheques formation etc) 13.055m 2026
+bud_forem_invest_total_2026,forem,2026,8430000,,,budgeted,src_wal_ep_jeholet_2026,strong,AB 130.019+130.020 invest 6.813+1.617=8.430m 2026
+bud_forem_prog12_2025,forem,2025,370072000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 12 FOREM 2025 MA/MP 370.072m (2026 lines zeroed transferred to prog 130)
+bud_forem_titres_services_2025,forem,2025,567614000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 17 Titres services FOREM 567.614m 2025 MA/MP
+bud_forem_formation_prog22_2025,forem,2025,344624000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 22 Forem Formation 344.624m 2025 MA/MP (folded into 130 in 2026)
+bud_forem_reductions_groupes_2025,forem,2025,187610000,,,budgeted,src_wal_ep_jeholet_2026,strong,Prog 18 reductions cotisations groupes cibles FOREM 187.610m 2025
