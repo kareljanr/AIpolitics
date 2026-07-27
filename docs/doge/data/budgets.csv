@@ -5246,3 +5246,33 @@ bud_finance_ccei_scanners_2026,fod_finance,2026,22600000,,,budgeted,src_ccrek_bu
 bud_esm_capital_2026,fod_finance,2026,216200000,,,budgeted,src_ccrek_budget2026_police_defence,medium,ESM capital key adjustment extra 216.2m 2026 (underestimation risk CoA)
 bud_antifraud_fiscal_target_2026,fod_finance,2026,300000000,,,budgeted,src_ccrek_budget2026_police_defence,weak,Fiscal fraud fight revenue target 300m 2026 (to 600m 2029; plan not yet finalised)
 bud_admin_reform_save_path,sec_federal,2026,300000000,,,budgeted,src_ccrek_budget2026_police_defence,weak,Federal admin reorganisation savings path 300m by end legislature (not objectified CoA)
+bud_bosa_prov_interdept_eng_2026,fod_bosa,2026,2125800000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,BOSA programme 06.90.1 interdept provisions engagement 2125.8m 2026 (5 credit lines)
+bud_bosa_prov_interdept_liq_2026,fod_bosa,2026,2128000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,BOSA interdept provisions liquidation 2128.0m 2026
+bud_bosa_prov_generale_init_2025,fod_bosa,2025,607300000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Provision generale initial 607.3m 2025
+bud_bosa_prov_generale_adj_2025,fod_bosa,2025,599700000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Provision generale adjusted 599.7m 2025
+bud_bosa_prov_generale_2026,fod_bosa,2026,829800000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Provision generale 829.8m 2026 (+230.1 vs adj 2025)
+bud_bosa_prov_gen_justice_divers_2026,fod_bosa,2026,618300000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Generale: Frais de justice et divers 618.3m 2026 (was 131.7 adj 2025)
+bud_bosa_prov_gen_fedasil_2026,fod_bosa,2026,100000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Generale: Fedasil line 100.0m 2026 (dual package tick391)
+bud_bosa_prov_gen_bpost_2026,fod_bosa,2026,78000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Generale: Nouveaux contrats bpost 78.0m 2026 (from 85.4)
+bud_bosa_prov_gen_vulnerables_2026,fod_bosa,2026,33500000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Generale: Bien-etre groupes vulnerables + cohesion sociale 33.5m 2026
+bud_bosa_prov_gen_pecule_2025,fod_bosa,2025,66000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Generale adj 2025: Pecule de vacances 66.0m (0 in 2026 init)
+bud_bosa_prov_gen_decom_2025,fod_bosa,2025,190000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Generale adj 2025: Decommissioning dyssinergies 190m (0 in 2026 init)
+bud_bosa_prov_gen_prison_infra_2026,fod_bosa,2026,259000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Within justice divers: prison infra/ops overcrowding 259m 2026
+bud_bosa_prov_gen_esa_2026,fod_bosa,2026,176000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Within justice divers: ESA participation 176m 2026
+bud_bosa_prov_gen_econ_sociale_2026,fod_bosa,2026,50000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Within justice divers: economie sociale 50m 2026
+bud_bosa_prov_gen_admin_reorg_2026,fod_bosa,2026,36000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Within justice divers: federal admin reorg + support centralisation 36m 2026
+bud_bosa_prov_gen_tria_2026,fod_bosa,2026,5300000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Within justice divers: Tria handicap IT SPF SZ 5.3m 2026
+bud_bosa_prov_gen_cpl_modules_2026,fod_bosa,2026,2700000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Within justice divers: modular units forensic psychiatry CPL 2.7m 2026
+bud_bosa_prov_generale_2027,fod_bosa,2027,630700000,,,budgeted,src_ccrek_budget2026_bosa_provisions,medium,Provision generale path 630.7m 2027
+bud_bosa_prov_generale_2028,fod_bosa,2028,1374700000,,,budgeted,src_ccrek_budget2026_bosa_provisions,medium,Provision generale path 1374.7m 2028 (justice divers spike 1206.7)
+bud_bosa_prov_generale_2029,fod_bosa,2029,1005200000,,,budgeted,src_ccrek_budget2026_bosa_provisions,medium,Provision generale path 1005.2m 2029
+bud_bosa_prov_gen_justice_divers_2028,fod_bosa,2028,1206700000,,,budgeted,src_ccrek_budget2026_bosa_provisions,medium,Frais justice et divers line 1206.7m 2028
+bud_bosa_prov_gen_justice_divers_2029,fod_bosa,2029,812200000,,,budgeted,src_ccrek_budget2026_bosa_provisions,medium,Frais justice et divers line 812.2m 2029
+bud_bosa_prov_securite_2026,fod_bosa,2026,366900000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Provision securite+retour 366.9m 2026
+bud_bosa_prov_pack_gen_sec_2026,fod_bosa,2026,1196700000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Sum generale+securite provisions 829.8+366.9=1196.7m 2026 (subset of 2.13bn)
+bud_credit_redistrib_2024,fod_bosa,2024,454000000,,,outturn,src_ccrek_budget2026_bosa_provisions,strong,Inter-programme credit redistributions 454m engagement 2024 (specialty erosion)
+bud_defence_eng_redistributable_2026,mod_defensie,2026,20100000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Defence s16 engagement credits redistributable freely 20.1bn 2026 (ex cells/fonds)
+bud_justice_eng_redistributable_2026,fod_justice,2026,2500000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Justice s12 personnel/ops/invest redistributable freely 2.5bn class 2026
+bud_police_eng_redistributable_2026,police_federale,2026,1600000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,Police s17 personnel/ops/invest redistributable freely 1.6bn 2026
+bud_bpost_new_contracts_prov_2026,sec_federal,2026,78000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,strong,bpost new contracts via generale provision 78m 2026
+bud_bosa_prov_ukraine_epf_2026,fod_bosa,2026,120000000,,,budgeted,src_ccrek_budget2026_bosa_provisions,medium,Ukraine interdept provision for EPF 120m class (Affaires etrangeres EPF dual Defence 8.2m military)

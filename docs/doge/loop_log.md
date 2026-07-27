@@ -4476,3 +4476,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +56; cmt +2; lb +8; entity police_federale; FOI **gap_ipolice_claim_l5** ready prio8; rq_383=done; spawn **rq_384**; ticks=392
 - FOI: I-Police claim/settlement human send only
 - Next: prio5 **rq_384**; deferred **rq_116** SWA
+
+### 2026-08-01T11:15:00Z - tick 393
+- Unit: **rq_384** (FOI-adjacent hole-fill - **BOSA interdept provisions 2.13bn L5 + specialty derogations**)
+- Found (strong primary CoA Budget 2026):
+  - Interdept provisions **eng EUR 2,125.8m** / **liq 2,128.0m** (prog 06.90.1)
+  - **Generale 829.8m**: justice divers **618.3** (prison infra **259** · ESA **176** · econ sociale **50** · admin reorg **36** · Tria **5.3** · CPL **2.7**) · Fedasil **100** · bpost **78** · vulnerables **33.5**
+  - **Securite 366.9m** (already dual Justice/Police/Migration)
+  - Path generale **630.7 / 1,374.7 / 1,005.2** 2027-29; justice divers spike **1,206.7** 2028
+  - Specialty hollowed: Defence eng redistributable **20.1bn**; Justice **2.5bn**; Police **1.6bn**; 2024 redistribs **454m**
+- Wrote: sources +1; budgets +30; cmt +1; lb +8; entity fod_bosa; FOI **gap_bosa_provisions_l5_2026** ready prio7; rq_384=done; spawn **rq_385**; ticks=393
+- FOI: residual provision lines + CM transfer log human send only
+- Next: prio5 **rq_385**; deferred **rq_116** SWA

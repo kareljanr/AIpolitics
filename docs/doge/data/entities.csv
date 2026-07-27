@@ -11,7 +11,7 @@ sec_dg,Duitstalige Gemeenschap,Ostbelgien,German-speaking Community,l1_sector,se
 sec_local,Lokale overheid (ESA S.1313),Pouvoirs locaux (S.1313),Local government S.1313,l1_sector,gg_belgium,bi,,,,Gemeenten + OCMW/CPAS + provincies; Eurostat TE
 sec_eu,EU-middelen in BE,Fonds UE en BE,EU funds in BE,l1_sector,gg_belgium,bi,,,,Co-financing; double-count risk
 fod_finance,FOD FinanciÃƒÂ«n,SPF Finances,FPS Finance,federal,sec_federal,bi,https://finance.belgium.be,,,Tax expenditure inventory
-fod_bosa,FOD BOSA,SPF BOSA,FPS BOSA,federal,sec_federal,bi,https://bosa.belgium.be,,,Public sector organisation
+fod_bosa,FOD BOSA,SPF BOSA,FPS BOSA,federal,sec_federal,bi,https://bosa.belgium.be,,,Hosts interdept provisions eng 2.13bn liq 2.13bn 2026; generale 829.8; securite 366.9; FOI gap_bosa_provisions_l5_2026; tick393
 fod_economie,FOD Economie,SPF Economie,FPS Economy,federal,sec_federal,bi,https://economie.fgov.be,,,
 fod_justitie,FOD Justitie,SPF Justice,FPS Justice,federal,sec_federal,bi,https://justitie.belgium.be,,,Annual budget section ~2.84bn 2026 + provisions 465.5m; prisons overcrowding envelope 840m 2026-29; courts/prisons dual; FOI gap_justice_provisions_l5_2026; tick391
 fod_binnenland,FOD Binnenlandse Zaken,SPF IntÃƒÂ©rieur,FPS Interior,federal,sec_federal,bi,https://ibz.be,,,
