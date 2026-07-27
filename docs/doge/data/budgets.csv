@@ -144,7 +144,7 @@ bud_antwerp_gemeentefonds_2024,city_antwerpen,2024,807244511,,,budgeted,src_antw
 bud_fed_toelagen_register_2025,sec_federal,2025,179916000000,,,budgeted,src_bosa_toelagenregister_2025,strong,"BOSA federal transfer register: 8993 items = 179.916 bn EUR 2025 (not full federal spend)"
 bud_fed_facultative_subsidies_2025,sec_federal,2025,900000000,,,budgeted,src_bosa_toelagenregister_2025,strong,"Facultatieve subsidies envelope ~900m EUR; cut target -200m structural from 2029"
 bud_rail_savings_path_2025_29,nmbs,2025,135000000,,,budgeted,src_nmbs_results_2025,medium,"NMBS press: 675m rail-sector savings demanded 2025-2029; illustrative 675/5=135m/yr not official annual split"
-bud_de_lijn_dotatie_2023,de_lijn,2023,1140000000,,,budgeted,src_delijn_dotatie_1_14bn,medium,"Nieuwsblad Oct 2024: last-year (2023) dotatie 1.14bn — secondary press; confirm in jaarverslag/FOI"
+bud_de_lijn_dotatie_2023,de_lijn,2023,1164150000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,"PQ955 table: exploitatie toelage 2023 EUR 1.16415bn (was press ~1.14bn medium); total with invest 1.443468bn"
 bud_de_lijn_dotatie_drop_2025,de_lijn,2025,-27500000,,,budgeted,src_delijn_results_2025,strong,"Official De Lijn press: dotatie fell 27.5m EUR in 2025 vs prior (absolute total not stated)"
 bud_de_lijn_ebus_invest_extra,de_lijn,2025,400000000,,,budgeted,src_delijn_results_2025,strong,"Vlaamse Regering extra 400m for electric buses; 652 e-buses ordered 2025"
 bud_nbb_ent_subs_inv_2024,gg_belgium,2024,25100000000,,,outturn,src_nbb_subsidies_ent_2025,strong,"NBB Econ Review 2025/9: subsidies+investment grants to enterprises 25.1bn (4.1% GDP) 2024"
@@ -796,3 +796,25 @@ bud_vl_gk_expertendatabank_eval,vlaanderen_gov,2026,45000,,,budgeted,src_vl_bbt_
 bud_vl_inter_toelage_2025,vlaanderen_gov,2025,1333000,,,outturn,src_vl_bbt_gk_2026_openvld,strong,Inter accessibility body toelage 1.333m EUR 2025 (BBT answer)
 bud_vl_inter_toelage_2026,vlaanderen_gov,2026,1354000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Inter toelage 1.354m EUR 2026 (+21k index vs 2025)
 bud_vl_iedereenoveral_topup_2024_25,vlaanderen_gov,2024,163000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Inter extra 163k Jul2024-Dec2025 IedereenOveral sanitary data; booked in 2024 budget
+bud_de_lijn_exp_2019,de_lijn,2019,862341000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Vervoersautoriteit via PQ955: exploitatie toelage 862.341m
+bud_de_lijn_inv_2019,de_lijn,2019,166550000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Investeringen toelage 166.550m; total 1029.143m
+bud_de_lijn_total_2019,de_lijn,2019,1029143000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Exploitatie+investeringen 1.029143bn
+bud_de_lijn_exp_2020,de_lijn,2020,944624000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Exploitatie 944.624m
+bud_de_lijn_total_2020,de_lijn,2020,1124520000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Total exp+inv 1.124520bn
+bud_de_lijn_exp_2021,de_lijn,2021,994468000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Exploitatie 994.468m
+bud_de_lijn_total_2021,de_lijn,2021,1206134000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Total 1.206134bn
+bud_de_lijn_exp_2022,de_lijn,2022,1068880000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Exploitatie 1.068880bn
+bud_de_lijn_total_2022,de_lijn,2022,1314614000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Total 1.314614bn
+bud_de_lijn_exp_2023,de_lijn,2023,1164150000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Exploitatie 1.164150bn (replaces press 1.14bn medium)
+bud_de_lijn_inv_2023,de_lijn,2023,279318000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Investeringen 279.318m
+bud_de_lijn_total_2023,de_lijn,2023,1443468000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Total exp+inv 1.443468bn
+bud_de_lijn_exp_2024,de_lijn,2024,1228474000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Exploitatie 1.228474bn
+bud_de_lijn_inv_2024,de_lijn,2024,269209000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Investeringen 269.209m
+bud_de_lijn_total_2024,de_lijn,2024,1497683000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Total exp+inv 1.497683bn (+3.76pct y/y)
+bud_de_lijn_basistoelage_base,de_lijn,2023,938700000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,ODC 2023-2027 basistoelage vertrekbasis 938.7m (kernnet+anet+leerlingen+minder hinder+beschikbaarheid+NMVB kapitaal)
+bud_de_lijn_kn_an_vom_2025_pre,de_lijn,2025,955331659,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,Budgettair target kernnet+aanvullend net+VoM 955331659 EUR before savings
+bud_de_lijn_kn_an_vom_2025_post,de_lijn,2025,919831649,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,After besparingstarget 919831649 EUR; measures still being designed mid-2026
+bud_de_lijn_own_rev_2025,de_lijn,2025,255098000,,,outturn,src_vl_pq_955_de_lijn_2026,strong,Eigen ontvangsten ESR 255.098m (tickets/abo 212.063 + boetes 10.444 + commercial 31.854 + other 0.737) kEUR table
+bud_de_lijn_gip_invest_2025,de_lijn,2025,661025000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,GIP2025 invest total 661.025m: vergroening 460.857 + instandhouding 159.238 + strategic 26.819 + uitbreiding 11.891 + stations 2.220 (kEUR)
+bud_de_lijn_beschikbaar_2025,de_lijn,2025,52592000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,Beschikbaarheidsvergoedingen projects sum 52.592m 2025 (Brabo 26.0m largest)
+bud_de_lijn_beschikbaar_2026,de_lijn,2026,54760000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,BO2026 beschikbaarheidsvergoedingen 54.760m

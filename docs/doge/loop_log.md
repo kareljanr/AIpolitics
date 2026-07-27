@@ -848,6 +848,18 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T15:20:00Z -- tick 126
+- Unit: **rq_131** (De Lijn full dotatie series primary) — prio 8 / FOI-adjacent
+- Found (primary SV 955 Peeters→De Ridder 26 Feb 2026; **no invent euros**):
+  - **Strong multi-year toelage** (Vervoersautoriteit via PQ): exp+inv **2019–2024** ends at **€1.497683 bn 2024** (exp **€1.228474 bn** + inv **€0.269209 bn**); 2023 exp **€1.164150 bn** (supersedes press ~1.14bn medium).
+  - ODC **basistoelage base €938.7 m**; 2025 KN+AN+VoM **€955.331659 m → €919.831649 m** after savings target.
+  - 2025 own revenues **€255.098 m**; GIP invest **€661.025 m** (vergroening €460.9 m); availability fees **€52.592 m** (2025) / **€54.760 m** BO2026.
+  - Minister deferred full 2025–26 exp+inv total to BBT (Q1–2) — **FOI residual** for comparable 2025–26 row.
+- Wrote: sources +1; budgets ~20 lines; cmt + lb upgraded strong; FOI draft residual; raw PDF; rq_131=**done**; ticks=126
+- FOI: gap_de_lijn_dotatie still **ready** (priority 6; 2019–24 filled)
+- Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_130** NMBS / **rq_154** cheques
+
+
 ### 2026-07-27T15:00:00Z -- tick 125
 - Unit: **rq_123** (VL gelijke kansen full programme L5 beyond Wassalon) — prio 8
 - Found (primary; **no invent euros**):

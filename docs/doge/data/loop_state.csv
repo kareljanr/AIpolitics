@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T15:00:00Z,rq_123,125,no,"Scheduler 60s. Next prio8: rq_124/125/130/131/154; prio7 equality IEFH/FIRM/PES; FOI ready human send."
+main,continuous,hole_fill,2026-07-27T15:20:00Z,rq_131,126,no,"Scheduler 60s. Next prio8: rq_124/125/130/154; prio7 equality/PES; FOI ready human send."
