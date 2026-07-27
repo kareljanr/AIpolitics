@@ -4204,3 +4204,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3; sources +1; budgets +27; cmt +2; lb +8; FOI **gap_vl_via_soc_akkoorden_l5** ready + draft; rq_362=done; spawn **rq_363**; ticks=371
 - FOI: VIA BVR outturn + soc-akkoorden component split human send only
 - Next: prio5 **rq_363**; deferred **rq_116** SWA
+
+### 2026-08-01T00:45:00Z - tick 372
+- Unit: **rq_363** (FOI-adjacent hole-fill - **Flanders eerstelijn GDF2KA + Impulseo L5**)
+- Found (strong primary VL BBT WVG BU2025):
+  - **ISE Woonzorg en eerste lijn** BA total VEK **EUR 67.675m** / BU **63.257m**
+  - **GDF2KA** eerstelijnsgezondheidszorg BA VEK **37.155m** / BU **34.539m**
+    - VV116 EPD herverdeling path **6.220m** VEK
+  - **Impulseo GDF2KB** BA **27.000m** / BU **26.658m** (98.7pct):
+    - Impulseo 2 groepering **23.329m** (963 dossiers)
+    - Impulseo 3 solo **2.013m** (268 dossiers)
+  - Impulsfonds loan receipts AO BU **2.195m**
+- Wrote: entities +2; sources +1; budgets +12; cmt +1; lb +6; FOI **gap_vl_eerstelijn_impulseo_l5** ready + draft; rq_363=done; spawn **rq_364**; ticks=372
+- FOI: GDF2KA projects + Impulseo multi-year + Impulsfonds stock human send only
+- Next: prio5 **rq_364**; deferred **rq_116** SWA
