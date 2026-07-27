@@ -2937,3 +2937,19 @@ bud_favv_total_real_2019,favv,2019,179303000,,,outturn,src_favv_heffingen_rc_202
 bud_favv_total_real_2020,favv,2020,173918000,,,outturn,src_favv_heffingen_rc_2025,strong,BP total 173.918m 2020
 bud_favv_total_ib_2021,favv,2021,186886000,,,budgeted,src_favv_heffingen_rc_2025,strong,BP IB total 186.886m 2021 (~185m class)
 bud_favv_retributies_ib_2021,favv,2021,48921000,,,budgeted,src_favv_heffingen_rc_2025,strong,BP retributies IB 48.921m 2021
+bud_afmps_budget_2024,afmps,2024,128745298,,,budgeted,src_afmps_ra_2024,strong,Budget total recettes=depenses 128.745m 2024
+bud_afmps_real_2024,afmps,2024,115559854,,,outturn,src_afmps_ra_2024,strong,Realisations 115.560m 2024 (90pct of budget)
+bud_afmps_personnel_budget_2024,afmps,2024,74551080,,,budgeted,src_afmps_ra_2024,strong,Frais de personnel budget 74.551m
+bud_afmps_personnel_real_2024,afmps,2024,63373939,,,outturn,src_afmps_ra_2024,strong,Frais de personnel real 63.374m (85pct)
+bud_afmps_dotation_2024,afmps,2024,28650590,,,outturn,src_afmps_ra_2024,strong,Federal dotation real 28.651m (=budget 28.651m 100pct)
+bud_afmps_sciensano_expertise_2024,afmps,2024,7054383,,,outturn,src_afmps_ra_2024,strong,Expertise Sciensano real 7.054m (budget 9.194m) dual Sciensano
+bud_afmps_ict_real_2024,afmps,2024,14084675,,,outturn,src_afmps_ra_2024,strong,ICT real 14.085m (107pct of budget 13.204m)
+bud_afmps_nat_subs_2024,afmps,2024,9387265,,,outturn,src_afmps_ra_2024,strong,Subsides tests sanguins NAT 9.387m
+bud_afmps_redev_packaging_2024,afmps,2024,18315105,,,outturn,src_afmps_ra_2024,strong,Redevances conditionnements 18.315m
+bud_afmps_redev_dm_2024,afmps,2024,13258060,,,outturn,src_afmps_ra_2024,strong,Redevances dispositifs medicaux 13.258m (75pct of 17.733m)
+bud_afmps_redev_amm_2024,afmps,2024,6273711,,,outturn,src_afmps_ra_2024,strong,Redevances AMM 6.274m (only 38pct of budget 16.640m)
+bud_afmps_ema_rec_2024,afmps,2024,8712444,,,outturn,src_afmps_ra_2024,strong,Recettes EMA 8.712m
+bud_afmps_essais_clin_2024,afmps,2024,5715425,,,outturn,src_afmps_ra_2024,strong,Recettes essais cliniques 5.715m (285pct of budget)
+bud_afmps_inami_rec_2024,afmps,2024,3677479,,,outturn,src_afmps_ra_2024,strong,Recettes INAMI 3.677m
+bud_afmps_staff_2024,afmps,2024,0,,,outturn,src_afmps_ra_2024,strong,Collaborateurs NL290+FR274=564; F/H 385/179; amount 0 headcount
+bud_afmps_budget_2025,afmps,2025,141000000,,,budgeted,src_afmps_dc_ct_2025_04,medium,DC-CT: budget 141m 2025 (path 70/86/92m 2015/18/20); medium vs RA outturn precision

@@ -2920,3 +2920,16 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets ~2938 · commitments ~485 · leaderboard ~518 · entities ~197 · sources ~547 · FOI rows ~104
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_261=done; spawn rq_262; ticks=270
 - Next: prio5 **rq_262**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-29T22:30:00Z — tick 271
+- Unit: **rq_262** (FOI-adjacent hole-fill — **AFMPS medicines dual Sciensano/FAVV**)
+- Found (strong primary RA2024 + medium DC-CT 2025 path):
+  - Budget **€128.745m** / realisations **€115.560m** 2024 (**90%**).
+  - Personnel real **€63.374m** (budget 74.6m); federal **dotation €28.651m** (~25% of real).
+  - **Sciensano expertise €7.054m** paid (dual); ICT **14.1m**; NAT blood **9.4m**.
+  - Fees: packaging **18.3m**; DM **13.3m**; AMM only **6.3m of 16.6m** (38% shortfall).
+  - Staff **564** (NL 290 + FR 274); DC-CT path budget **€141m** 2025 (70?92?141m 2015-25 class).
+  - Health federal triple: Sciensano **136m** + FAVV path **~175m** + AFMPS **116m** (not additive).
+- Wrote: sources +2; entity afmps; budgets +16; cmt +1; lb +4; FOI gap_afmps_budget_2025_26 ready; draft; raw PDFs; rq_262=done; spawn rq_263; ticks=271
+- FOI: AFMPS 2025-26 + AMM shortfall human send; AGMJ residual still ready
+- Next: prio5 **rq_263**; deferred **rq_116** SWA
