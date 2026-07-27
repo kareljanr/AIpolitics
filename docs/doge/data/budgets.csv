@@ -1321,3 +1321,38 @@ bud_schaerbeek_cpas_as_2026,city_schaerbeek,2026,945853,,,budgeted,src_schaerbee
 bud_anderlecht_voirie_asphalt_2026,city_anderlecht,2026,1200000,,,budgeted,src_anderlecht_cp_budget_2026,strong,Communal road asphalt 1.2m official CP
 bud_anderlecht_trottoirs_2026,city_anderlecht,2026,850000,,,budgeted,src_anderlecht_cp_budget_2026,strong,Sidewalks 850k official CP
 bud_anderlecht_voirie_sum_2026,city_anderlecht,2026,2050000,,,budgeted,src_anderlecht_cp_budget_2026,strong,Named public-space invest sum 1.2+0.85=2.05m
+bud_dgd_total_2025,dgd,2025,1117970000,,,outturn,src_dgd_ar_2025,strong,DGD total Official Development Assistance channel 1117.97m EUR 2025 AR table
+bud_dgd_total_2024,dgd,2024,1440920000,,,outturn,src_dgd_ar_2025,strong,DGD total 1440.92m 2024
+bud_dgd_total_2023,dgd,2023,1285900000,,,outturn,src_dgd_ar_2025,strong,DGD total 1285.90m 2023
+bud_dgd_cut_2025,dgd,2025,-106000000,,,budgeted,src_dgd_ar_2025,strong,Budget reduced by 106m in 2025 first year of progressive -25pct path to 2027
+bud_dgd_enabel_2025,enabel,2025,212020000,,,outturn,src_dgd_ar_2025,strong,DGD line Belgian Development Agency Enabel 212.02m 2025
+bud_dgd_enabel_mgmt_2025,enabel,2025,25570000,,,outturn,src_dgd_ar_2025,strong,Management costs of Enabel 25.57m 2025
+bud_dgd_gov_subtotal_2025,dgd,2025,250350000,,,outturn,src_dgd_ar_2025,strong,Sub-total governmental cooperation 250.35m 2025
+bud_dgd_humanitarian_2025,dgd,2025,170000000,,,outturn,src_dgd_ar_2025,strong,Humanitarian programmes 170m 2025 exempt from cuts 70pct flexible
+bud_dgd_climate_policy_2025,dgd,2025,102180000,,,outturn,src_dgd_ar_2025,medium,Climate policy line ~102.18m 2025 from AR table (OCR-adjacent years 100.82/101.51)
+bud_dgd_theme_climate_2025,dgd,2025,365300000,,,outturn,src_dgd_ar_2025,strong,Theme climate and environment 365.3m 32.5pct of DGD 2025
+bud_dgd_theme_stability_2025,dgd,2025,301800000,,,outturn,src_dgd_ar_2025,strong,Theme stability 301.8m 26.9pct
+bud_dgd_theme_humanitarian_2025,dgd,2025,181500000,,,outturn,src_dgd_ar_2025,medium,Theme humanitarian 181.5m 16.2pct (vs line item 170m; provisional dual series)
+bud_dgd_theme_other_2025,dgd,2025,175000000,,,outturn,src_dgd_ar_2025,strong,Theme other mainly skills/education 175.0m 15.6pct
+bud_dgd_theme_health_2025,dgd,2025,98800000,,,outturn,src_dgd_ar_2025,strong,Theme health 98.8m 8.8pct
+bud_dgd_drc_2025,dgd,2025,104490000,,,outturn,src_dgd_ar_2025,strong,Top recipient DR Congo 104.49m DGD ODA 2025
+bud_dgd_burkina_2025,dgd,2025,28020000,,,outturn,src_dgd_ar_2025,strong,Burkina Faso 28.02m
+bud_dgd_uganda_2025,dgd,2025,27800000,,,outturn,src_dgd_ar_2025,strong,Uganda 27.80m
+bud_dgd_burundi_2025,dgd,2025,27180000,,,outturn,src_dgd_ar_2025,strong,Burundi 27.18m
+bud_dgd_niger_2025,dgd,2025,26290000,,,outturn,src_dgd_ar_2025,strong,Niger 26.29m
+bud_dgd_palestine_2025,dgd,2025,24710000,,,outturn,src_dgd_ar_2025,strong,Palestine 24.71m
+bud_dgd_senegal_2025,dgd,2025,20060000,,,outturn,src_dgd_ar_2025,strong,Senegal 20.06m
+bud_dgd_ukraine_2025,dgd,2025,18160000,,,outturn,src_dgd_ar_2025,strong,Ukraine 18.16m
+bud_dgd_benin_2025,dgd,2025,17820000,,,outturn,src_dgd_ar_2025,strong,Benin 17.82m
+bud_dgd_mali_2025,dgd,2025,14590000,,,outturn,src_dgd_ar_2025,strong,Mali 14.59m
+bud_dgd_ldcf_2025,dgd,2025,18500000,,,outturn,src_dgd_ar_2025,strong,LDCF contribution 18.5m 2025 Belgium 2nd largest donor
+bud_dgd_sahel_climate_2025,dgd,2025,50000000,,,outturn,src_dgd_ar_2025,strong,Belgium investing 50m in Sahel climate/stability package cited AR
+bud_dgd_soff_extra_2025,dgd,2025,8300000,,,outturn,src_dgd_ar_2025,strong,SOFF initiative additional 8.3m on top of prior 11m total >19m
+bud_enabel_turnover_2025,enabel,2025,407097008,,,outturn,src_enabel_ra_2025_26,strong,Chiffre d affaires 407097008 EUR 2025 (329159608 in 2024)
+bud_enabel_op_products_2025,enabel,2025,435600343,,,outturn,src_enabel_ra_2025_26,strong,Produits d exploitation 435.6m 2025
+bud_enabel_op_charges_2025,enabel,2025,438055645,,,outturn,src_enabel_ra_2025_26,strong,Charges d exploitation 438.1m 2025
+bud_enabel_personnel_2025,enabel,2025,91021649,,,outturn,src_enabel_ra_2025_26,strong,Personnel costs 91.02m 2025
+bud_enabel_assets_2025,enabel,2025,217367384,,,outturn,src_enabel_ra_2025_26,strong,Balance sheet total assets 217.4m EOY2025
+bud_enabel_eu_contracts_2025,enabel,2025,152000000,,,commitment,src_enabel_ra_2025_26,strong,EU/Team Europe 22 contracts +2 budget increases total 152m signed 2025
+bud_enabel_intl_finance_2025,enabel,2025,182000000,,,commitment,src_enabel_ra_2025_26,strong,Contracts with international financial partners 182m 2025 of which 80pct public mandate
+bud_enabel_activity_target_2025,enabel,2025,400000000,,,budgeted,src_enabel_ra_2025_26,medium,Organisational target approaching 400m annual activities 2025

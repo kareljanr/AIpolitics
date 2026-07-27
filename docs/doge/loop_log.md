@@ -1462,3 +1462,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 5; entities 3; budgets ~27; cmt 3; lb 4; rq_145=done; FOI residual ready.
 - FOI: gap_bru_communes_subsidies_top20 (full BI PDFs + ASBL top20 ×3) human send only.
 - Next: prio5 **rq_146 DGD** / **rq_147 defence** / **rq_150 justice** / **rq_121 hole-fill**.
+
+### 2026-07-28T01:40:00Z — tick 156
+- Unit: **rq_146** (Federal development cooperation DGD / Enabel L5 envelopes)
+- Found (strong primary DGD AR 2025 + Enabel RA 2025-26):
+  - **DGD total:** **EUR 1,117.97m 2025** (1,440.92m 2024; 1,285.90m 2023); cut **−106m** year1 of **−25% by 2027**.
+  - **Channels:** Enabel line **212.02m** · gov subtotal **250.35m** · humanitarian **170m** (protected).
+  - **Themes:** climate **365.3m** · stability **301.8m** · humanitarian theme **181.5m** · other **175.0m** · health **98.8m**.
+  - **Top recipients:** DRC **104.49m** · Burkina **28.0** · Uganda **27.8** · Burundi **27.2** · Niger **26.3** · Palestine **24.7** · Senegal **20.1** · Ukraine **18.2** · Benin **17.8** · Mali **14.6**.
+  - **Named samples:** LDCF **18.5m** · Sahel package **50m** · SOFF +**8.3m**.
+  - **Enabel:** turnover **407.1m** (was 329.2m) · charges **438.1m** · personnel **91.0m** · EU contracts **152m** · intl finance **182m** · assets **217.4m**.
+- Wrote: sources 4; entities 3; budgets ~35; cmt 3; lb 4; rq_146=done; FOI residual ready.
+- FOI: gap_dgd_l5_projects (top50 projects + Enabel reconcile) human send only.
+- Next: prio5 **rq_147 defence** / **rq_150 justice** / **rq_151 police** / **rq_121 hole-fill**.

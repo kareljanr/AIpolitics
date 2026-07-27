@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T01:15:00Z,rq_145,155,no,"Scheduler 60s. Next prio5 DGD defence justice; FOI ready human send. rq_145 Brussels communes L5 sample done."
+main,continuous,hole_fill,2026-07-28T01:40:00Z,rq_146,156,no,"Scheduler 60s. Next prio5 defence justice police; FOI ready human send. rq_146 DGD ODA 1.12bn done."
