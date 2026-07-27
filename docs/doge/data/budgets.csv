@@ -4351,3 +4351,23 @@ bud_wal_fonds_energie_16_089_2026,spw_energie,2026,7986000,,,budgeted,src_wal_ep
 bud_awac_dep_2025,awac,2025,37376000,,,budgeted,src_wal_epne_energie_2026,strong,AWAC budget annex Art.90 depenses 37.376m recettes 17.471m (year class 2025 approved in BI2026)
 bud_wal_climate_intl_2026,wallonie_gov,2026,13000000,,,budgeted,src_wal_epne_energie_2026,strong,Financement climatique international 13m 2026 (same as 2025)
 bud_energy_dual_vl_wal_class_2026,veka,2026,1336205000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,medium,Illustrative dual E&K class: VL VEK 1104.825 + WAL 16.083 CL 28.360 + Kyoto 158 + Fonds Energie 7.986 + AWAC 37.376 ~1336m; not additive TE; Renopack housing excluded
+bud_vl_inburgering_bo2026_vak,agii,2026,115644000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,BBT Integratie en Inburgering excl apparaatrek BO2026 VAK 115.644m
+bud_vl_inburgering_bo2026_vek,agii,2026,116647000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,BBT Integratie en Inburgering excl apparaatrek BO2026 VEK 116.647m
+bud_vl_inburgering_ba2025_vak,agii,2025,120145000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,BA2025 VAK 120.145m
+bud_vl_inburgering_ba2025_vek,agii,2025,121148000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,BA2025 VEK 121.148m
+bud_vl_agii_toelage_2026,agii,2026,64611000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,SJ0-1SFC2DY-IS Agentschap Integratie en Inburgering toelage VAK=VEK 64.611m
+bud_vl_agii_toelage_2025,agii,2025,63617000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,AgII toelage BA2025 63.617m
+bud_vl_inburgering_wt_2026_vak,agii,2026,51033000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,SJ0-1SFC2DA-WT uitbouw beleid ESR VAK 51.033m (Atlas Amal projects local)
+bud_vl_inburgering_wt_2026_vek,agii,2026,52036000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,SJ0-1SFC2DA-WT VEK 52.036m
+bud_vl_atlas_amal_class_2026,atlas_amal,2026,51000000,,,budgeted,src_vl_bbt_inburgering_bo2026,medium,BBT text: stedelijke agentschappen Atlas en Amal 51m class within WT/SD1-3 (not pure line split)
+bud_vl_b1_mondeling_2026,agii,2026,7000000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,Versterking Nederlands volwassenen B1 Mondeling +7.0m BO2026
+bud_vl_turboplan_cut_2026,agii,2026,-10000000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,Geleidelijke afbouw turboplan inburgering en activering -10.0m
+bud_vl_inburgering_subsidy_cut_2026,agii,2026,-2817000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,Generieke maatregel subsidies integratie share -2.817m
+bud_vl_agii_lonen_2026,agii,2026,54767000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,AgII institutional lonen SM0-ASFC2DA-LO 54.767m VAK=VEK
+bud_vl_agii_werking_vak_2026,agii,2026,15500000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,AgII werking en toelagen VAK 15.500m
+bud_vl_agii_werking_vek_2026,agii,2026,15775000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,AgII werking en toelagen VEK 15.775m
+bud_vl_agii_own_rec_2026,agii,2026,5778000,,,budgeted,src_vl_bbt_inburgering_bo2026,strong,AgII other receipts BO2026 5.778m (tolken retributies Maribel projects)
+bud_wal_integration_2020,wallonie_gov,2020,22498145,,,outturn,src_ccrek_parcours_integration_wal_2022,strong,CoA GCOM: WAL integration policy eng total 22.498m 2020 (CRI 6.9 ILI agree 3.8 ILI non 10.3 Setis 0.8 FOREM 0.7)
+bud_wal_integration_2019,wallonie_gov,2019,21063590,,,outturn,src_ccrek_parcours_integration_wal_2022,strong,CoA: 21.064m eng 2019
+bud_wal_ili_2025,wallonie_gov,2025,3600000,,,budgeted,src_wal_ili_2025_coppieters,strong,ILI 2025 call total >3.6m 140 operators (press floor; full parcours residual)
+bud_integration_dual_vl_wal_class_2026,agii,2026,120000000,,,budgeted,src_vl_bbt_inburgering_bo2026,medium,Illustrative dual: VL VEK 116.6m + WAL ILI 3.6m floor + historical CRI/ILI ~22m class 2020; not TE-additive; WAL 2026 full FOI

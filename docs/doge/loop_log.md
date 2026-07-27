@@ -3983,3 +3983,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +3 (veka spw_energie awac); budgets +28; cmt +1; lb +5; FOI **gap_energy_dual_veka_wal_l5** ready + draft; rq_346=done; spawn **rq_347**; ticks=355
 - FOI: MVP/ICL/retro L5 + Kyoto projects + AWAC path human send only
 - Next: prio5 **rq_347**; deferred **rq_116** SWA
+
+### 2026-07-31T16:45:00Z - tick 356
+- Unit: **rq_347** (FOI-adjacent hole-fill - **dual civic integration AgII Flanders + WAL CRI/ILI**)
+- Found (strong primary BBT Inburgering BO2026 + CoA 2022 + ILI press):
+  - Flanders BBT excl apparaatrek: VAK **EUR 115.644m** · VEK **EUR 116.647m** BO2026 (BA2025 120.145 / 121.148).
+  - **AgII toelage** SJ0-1SFC2DY-IS: **EUR 64.611m** (2025: 63.617m); institutional lonen **54.767m** · werking VAK **15.500m** · own rec **5.778m**.
+  - WT uitbouw: VAK **51.033m** / VEK **52.036m**; Atlas+Amal class **EUR 51m**; B1 Mondeling **+7.0m**; turboplan **-10.0m**; generic cut **-2.817m**.
+  - WAL: CoA GCOM 2020 eng **EUR 22.498m** (CRI 6.9 + ILI agr 3.8 + ILI non 10.3 + Setis 0.8 + FOREM 0.7); ILI 2025 call **>EUR 3.6m** / 140 ops.
+  - Dual civic-integration class **~EUR 120m** (VL-dominant; not TE-additive).
+- Wrote: sources +3; entities +2; budgets +20; cmt +1; lb +4; FOI **gap_integration_dual_vl_wal_l5** ready + draft; rq_347=done; spawn **rq_348**; ticks=356
+- FOI: AgII/Atlas L5 + WAL 2026 full CRI/ILI path human send only
+- Next: prio5 **rq_348**; deferred **rq_116** SWA
