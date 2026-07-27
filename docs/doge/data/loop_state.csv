@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T15:15:00Z,rq_296,305,no,Scheduler 60s. Next prio5 rq_297; rq_116 SWA deferred. FOI ready. tick305 Fed Ombuds ~8.0-8.3m budget + outturn 6.61m.
+main,continuous,hole_fill,2026-07-30T15:45:00Z,rq_297,306,no,Scheduler 60s. Next prio5 rq_298; rq_116 SWA deferred. FOI ready. tick306 Kamer-dotatie pack ~115m (Rekenhof 71m).

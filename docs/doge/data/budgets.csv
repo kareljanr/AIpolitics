@@ -3749,3 +3749,29 @@ bud_fed_ombuds_dotatie_2025,fed_ombudsman,2025,6917000,,,budgeted,src_fed_ombuds
 bud_fed_ombuds_dotatie_2026,fed_ombudsman,2026,6753000,,,budgeted,src_kamer_56k0983_fed_ombuds,strong,Kamer 2026 requested dotatie 6.753.000 (-164k vs 2025); + boni 2024 1.515m
 bud_fed_ombuds_boni_2024,fed_ombudsman,2024,1515477,,,outturn,src_kamer_56k0983_fed_ombuds,strong,Kamer global result 2024 1.515.47714 (budget result 926736 + carried 588741)
 bud_fed_ombuds_staff_2024,fed_ombudsman,2024,52,,,outturn,src_fed_ombuds_jaarverslag_2024,strong,Headcount 52 (48 FT + 4 PT); 35 statutaire 17 contractueel; FR27 NL25; not EUR
+bud_gwh_kred_2025,grondwettelijk_hof,2025,14236000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Kamer: credits/uitgavenbegroting 14.236m 2025 (after -150k commission cut)
+bud_gwh_kred_2026,grondwettelijk_hof,2026,14593000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Kamer ontwerp 2026 credits 14.593m (+2.5pct); personnel ~87.7pct
+bud_gwh_dotatie_2025,grondwettelijk_hof,2025,13573000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 2025 13.573m used as freeze baseline in deficit calc
+bud_gwh_boni_for_2026,grondwettelijk_hof,2024,768164,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Cumul result eoy2024 1.431m less 663.2k for 2025 = 768.164k available for 2026
+bud_gwh_staff_admin_2024,grondwettelijk_hof,2024,57,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Admin effectifs eoy2024 57 (29 statut 26 contract 2 detaches); total with function holders 96
+bud_gwh_regie_fee,grondwettelijk_hof,2026,238000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Occupation fee Regie des Batiments 238k; only Hof+Rekenhof still pay among dotatie institutions
+bud_rekenhof_exp_2024,rekenhof,2024,64847000,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Kamer: 2024 expenses 64.847m (+8.6pct vs 2023)
+bud_rekenhof_receipts_2024,rekenhof,2024,65375100,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Kamer: 2024 receipts 65.3751m (+7.0pct vs 2023)
+bud_rekenhof_boni_2024,rekenhof,2024,4709200,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Boni 4.7092m fully applied to finance 2026
+bud_rekenhof_kred_2026,rekenhof,2026,70999700,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,2026 expenditure credits 70.9997m; payroll 58.198m (82pct)
+bud_rekenhof_dotatie_freeze_2025,rekenhof,2025,64562800,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie frozen at 2025 level 64.5628m (Moesen); requested raise to 65.5525m for 2026
+bud_rekenhof_dotatie_request_2026,rekenhof,2026,65552500,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Requested dotatie 65.5525m to close ~0.99m deficit class under freeze
+bud_rekenhof_regie_fee_2026,rekenhof,2026,2041600,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Regie des Batiments occupation fee 2.0416m 2026
+bud_hrj_surplus_2024,hrj_csj,2024,633649,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Comptes 2024 positive balance 633648.88; 150k to 2025 then 483648 for 2026
+bud_hrj_kred_2024,hrj_csj,2024,7225000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Credits 7.225m 2024 (baseline in Kamer narrative)
+bud_hrj_kred_2026,hrj_csj,2026,7411000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,2026 requested credits 7.411m (+2.5pct vs 2024)
+bud_hrj_dotatie_2026,hrj_csj,2026,6915000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 6.915m + boni 483.648k + divers 12.351k
+bud_comite_p_surplus_2024,comite_p,2024,245171,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Comptes 2024 surplus 245170.79; personnel 93.88pct of exp
+bud_comite_p_exp_2026,comite_p,2026,14961000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,2026 total exp estimated 14.961m
+bud_comite_p_dotatie_2026,comite_p,2026,14715829,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 14.715829m + boni 245.171k; includes littera C underbudget correction
+bud_comite_p_late_billing_2024,comite_p,2024,1088244,,,outturn,src_kamer_56k0983_peer_dotaties,strong,Late salary billing detaches: federal police 706728.48 + local zone 372782.50 = 1088244 littera C
+bud_comite_i_surplus_2024,comite_i,2024,2069890,,,outturn,src_kamer_56k0983_peer_dotaties,strong,2024 positive balance 2.06989m (recruitment lag / underspend)
+bud_comite_i_exp_2025,comite_i,2025,6393803,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,2025 expenditure baseline 6.393803m
+bud_comite_i_exp_2026,comite_i,2026,6937100,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,2026 exp 6.9371m incl digitisation tranche 850k
+bud_comite_i_dotatie_2025,comite_i,2025,5180000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 2025 5.180m
+bud_comite_i_dotatie_2026,comite_i,2026,4867210,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 2026 4.86721m (-6.4pct) + boni 2.069889m

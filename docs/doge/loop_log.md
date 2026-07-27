@@ -3341,3 +3341,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity fed_ombudsman; budgets +11; cmt +2; lb +3; FOI gap_fed_ombuds_l5_pnl ready; draft; raw AR+Kamer; rq_296=done; spawn rq_297; ticks=305
 - FOI: L5 littera P&L + FTE human send
 - Next: prio5 **rq_297** (Kamer 56K0983 peer institutions); deferred **rq_116** SWA
+
+### 2026-07-30T15:45:00Z - tick 306
+- Unit: **rq_297** (FOI-adjacent hole-fill - **Kamer 56K0983 peer dotatie pack**)
+- Found (strong primary Kamer Comptabiliteit DOC 56 0983/001):
+  - **Rekenhof**: 2024 exp **64.847m** / 2026 kred **71.0m**; freeze dot **64.563m**; payroll **82%**; Regie fee **2.04m**.
+  - **Comite P**: 2026 **14.961m**; pers **93.88%**; late detach billing **1.088m** 2024.
+  - **Grondwettelijk Hof**: 2025/26 **14.236 / 14.593m**; dot **13.573m**; staff **96** (admin 57); Regie **238k**.
+  - **HRJ/CSJ**: 2026 **7.411m**; dot **6.915m**; surplus 2024 **0.634m**.
+  - **Comite I**: 2026 **6.937m**; dot **4.867m** + boni **2.07m**.
+  - Pack sum **~114.9m** 2026 (excl GBA/Ombuds/FIRM already mapped).
+- Wrote: sources +1; entities +4 + rekenhof update; budgets +28; cmt +6; lb +6; FOI gap_kamer_dotatie_pack_l5 ready; draft; rq_297=done; spawn rq_298; ticks=306
+- FOI: consolidated L5 table human send
+- Next: prio5 **rq_298** (FIRM/CTRG residual or Raad van State); deferred **rq_116** SWA
