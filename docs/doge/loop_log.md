@@ -932,3 +932,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; taxex multi-year gas product-diff + social/RVT + diesel residual; commitments +2; leaderboard +2; budgets +1; rq_113=done; spawned **rq_114**; ticks=113
 - FOI opened: none (aggregates fully public)
 - Next: **rq_114** FFS synthesis/LPG or low **rq_107** SWA
+
+### 2026-07-27T03:20:00Z — tick 114
+- Unit: **rq_114** (FFS synthesis snapshot + LPG/coal residual lines)
+- Found / wrote:
+  - **Synthesis** `docs/doge/data/ffs_federal_top_lines_2024.md`: package totals (direct **€10.78bn**, broad ~**€15.2bn**) + mapped high-EUR lines already in CSVs — **no invented euros**, explicit non-additive warning.
+  - **LPG heating** Table16 multi-year: **2019–24 €108.6 / 138.8 / 140.0 / 120.3 / 117.8 / 127.6 m**.
+  - **Coal HH** exemption: **27.8 → 10.8 m** 2019–24 (declining); FFS notes reduced VAT solid fuels abolished Jul 2025.
+- Wrote: sources +2; taxex LPG+coal series; commitments +2; leaderboard LPG seed; snapshot md; rq_114=done; spawned **rq_115**; ticks=114
+- FOI opened: none
+- Next: **rq_115** leaderboard recompute (prio2) or low **rq_107** SWA; FFS top-line map largely complete

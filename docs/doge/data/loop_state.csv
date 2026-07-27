@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T03:00:00Z,rq_113,113,no,tick113 gas product-diff 4.09bn. Next: rq_114 FFS synth/LPG or rq_107 SWA; human FOI stack.
+main,continuous,continuous,2026-07-27T03:20:00Z,rq_114,114,no,tick114 FFS snapshot+LPG. Next: rq_115 leaderboard recompute or rq_107 SWA; human FOI.
