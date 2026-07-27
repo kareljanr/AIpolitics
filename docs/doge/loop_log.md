@@ -3738,3 +3738,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities +2; budgets +7; cmt +2; lb +2; FOI gap_s4policy + gap_proba3 ready drafts; rq_327=done; spawn rq_328; ticks=336
 - FOI: S4Policy awards L5 + PROBA-3 GSTP/PRODEX cash ready human send
 - Next: prio5 **rq_328**; deferred **rq_116** SWA
+
+### 2026-07-31T07:15:00Z - tick 337
+- Unit: **rq_328** (FOI-adjacent hole-fill - **STEREO IV Earth observation dual community RS**)
+- Found (strong BELSPO STEREO IV InfoFile call 2025 + EO portal):
+  - CM **22 Nov 2019** approved multi-annual STEREO IV **2022-2029**.
+  - Programme budget **€28.15m**.
+  - Call 2025 thematic network projects tentatively **~€7.4m** (subject to final budget).
+  - Eighth EO phase since 1985 (TELSAT/STEREO I–III continuity).
+  - Dual: partnerships **highly recommended** both Flemish and French community teams; foreign teams max **20%** of project budget.
+  - Themes: climate EO · hazards · biodiversity/health · green cities.
+- Wrote: sources +2; entity stereo_iv; budgets +3; cmt +1; lb +1; FOI gap_stereo_iv ready draft; rq_328=done (seeded); spawn rq_329; ticks=337
+- FOI: awards + cash path vs 28.15m ready human send
+- Next: prio5 **rq_329**; deferred **rq_116** SWA

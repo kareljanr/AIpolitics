@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T06:45:00Z,rq_327,336,no,Scheduler 60s. Next prio5 rq_328; rq_116 SWA deferred. FOI ready. tick336 S4Policy PROBA-3.
+main,continuous,hole_fill,2026-07-31T07:15:00Z,rq_328,337,no,Scheduler 60s. Next prio5 rq_329; rq_116 SWA deferred. FOI ready. tick337 STEREO IV 28.15m.

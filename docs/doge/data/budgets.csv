@@ -4098,3 +4098,6 @@ bud_s4policy_call3_2028_29,s4policy_belspo,2029,8791270,,,budgeted,src_belspo_s4
 bud_s4policy_call4_2030_31,s4policy_belspo,2031,11358080,,,budgeted,src_belspo_s4policy_call_2024_25,strong,S4Policy Call4 Policy Driven 2030-2031 11.35808m
 bud_proba3_total_mission,proba3_be,2024,166000000,,,budgeted,src_belspo_proba3_ar2024,strong,PROBA-3 total mission cost 166m euro ESA/partners
 bud_proba3_be_contrib,proba3_be,2024,63400000,,,budgeted,src_belspo_proba3_ar2024,strong,Belgium contribution 63.4m via BELSPO GSTP+PRODEX programmes
+bud_stereo_iv_total_2022_29,stereo_iv_belspo,2029,28150000,,,budgeted,src_belspo_stereo_iv_call2025,strong,STEREO IV programme 2022-2029 allocated budget 28.15m EUR (CM 22 Nov 2019)
+bud_stereo_iv_call2025_class,stereo_iv_belspo,2025,7400000,,,budgeted,src_belspo_stereo_iv_call2025,medium,Call 2025 thematic network projects tentatively ~7.4 MEURO subject to final budget approval
+bud_stereo_iv_annual_class,stereo_iv_belspo,2025,3518750,,,budgeted,src_belspo_stereo_iv_call2025,medium,Illustrative annual class 28.15m/8y ~3.52m if flat; not cash outturn
