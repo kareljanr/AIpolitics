@@ -3450,3 +3450,16 @@ Append-only. Each tick adds a short entry.
 - FOI: ETNIC L5 vendors + FTE outturn human send
 - Next: prio5 **rq_306** (Cipal Schaubroeck dual Digipolis candidate); deferred **rq_116** SWA
 
+
+### 2026-07-30T20:15:00Z - tick 315
+- Unit: **rq_306** (FOI-adjacent hole-fill - **Cipal Schaubroeck dual Digipolis**)
+- Found:
+  - **Statutory omzet** (strong NBB/Companyweb): **69.8 / 81.5 / 94.7 / 95.7m** 2022-25; FTE **~376**; net **10.1m 2024 / 2.37m 2025**.
+  - **Equity** **28.4m → 14.4m** YE25 (−49pct extraction/sale watch).
+  - **Consol** (strong C-smart JV2024): omzet **114.4m**; bedrijfswinst **14.7m**; net **10.5m**; staff **>600**; **276** members.
+  - **Sale 2025** to Topicus/TSS (Constellation): acquirer claim **~110m** gross rev 2024 medium.
+  - Dual: Digipolis public AGB **~246m** vs Cipal commercial Flanders-wide **114m** consol.
+- Wrote: sources +3; entities cipal_schaubroeck+cipal_dv; budgets +15; cmt +3; lb +4; FOI gap_cipal_l5_clients_sale ready; draft; raw JV PDF; rq_306=done; spawn rq_307; ticks=315
+- FOI: client L5 + sale proceeds human send (private NV limits noted; Cipal dv primary)
+- Next: prio5 **rq_307** (HR Rail deepen dual candidate); deferred **rq_116** SWA
+

@@ -3868,3 +3868,18 @@ bud_etnic_eng_2025,etnic,2025,200355745,,,budgeted,src_ccrek_fwb_etnic_budget_20
 bud_etnic_reserve_repay_2025,etnic,2025,11500000,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Remboursement reserves Etnic a FWB 11.5m 2025 (deficit driver)
 bud_etnic_solde_2025,etnic,2025,-10900000,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Solde budgetaire deficit 10.9m 2025 after reserve repay; without repay +0.6m
 bud_etnic_staff_2024,etnic,2024,380,,,outturn,src_rtbf_etnic_reset_2025,medium,Minister Galant via RTBF: 380 agents 2024 class; official FTE FOI
+bud_cipal_omzet_2022,cipal_schaubroeck,2022,69825042,,,outturn,src_cipal_companyweb_nbb,strong,Cipal Schaubroeck statutory omzet 69825042 EUR 2022 NBB-derived
+bud_cipal_omzet_2023,cipal_schaubroeck,2023,81460788,,,outturn,src_cipal_companyweb_nbb,strong,Cipal Schaubroeck statutory omzet 81460788 EUR 2023
+bud_cipal_omzet_2024,cipal_schaubroeck,2024,94722421,,,outturn,src_cipal_companyweb_nbb,strong,Cipal Schaubroeck statutory omzet 94722421 EUR 2024
+bud_cipal_omzet_2025,cipal_schaubroeck,2025,95688598,,,outturn,src_cipal_companyweb_nbb,strong,Cipal Schaubroeck statutory omzet 95688598 EUR 2025
+bud_cipal_net_2024,cipal_schaubroeck,2024,10109241,,,outturn,src_cipal_companyweb_nbb,strong,Statutory net result 10109241 EUR 2024
+bud_cipal_net_2025,cipal_schaubroeck,2025,2369578,,,outturn,src_cipal_companyweb_nbb,strong,Statutory net result 2369578 EUR 2025 (-76.6pct YoY)
+bud_cipal_equity_2024,cipal_schaubroeck,2024,28352502,,,outturn,src_cipal_companyweb_nbb,strong,Equity 28352502 EUR YE2024
+bud_cipal_equity_2025,cipal_schaubroeck,2025,14437522,,,outturn,src_cipal_companyweb_nbb,strong,Equity 14437522 EUR YE2025 (-49pct; extraction/sale structure watch)
+bud_cipal_fte_2025,cipal_schaubroeck,2025,376,,,outturn,src_cipal_companyweb_nbb,strong,FTE 375.9 2025 statutory (377.7 2024; 385.4 2023); not EUR
+bud_cipal_consol_omzet_2024,cipal_schaubroeck,2024,114400000,,,outturn,src_cipal_csmart_jv2024,strong,Consol omzet Cipal Schaubroeck 114.4m 2024 C-smart JV primary
+bud_cipal_consol_net_2024,cipal_schaubroeck,2024,10500000,,,outturn,src_cipal_csmart_jv2024,strong,Consol nettowinst 10.5m 2024; bedrijfswinst 14.7m C-smart JV
+bud_cipal_consol_staff_2024,cipal_schaubroeck,2024,600,,,outturn,src_cipal_csmart_jv2024,medium,More than 600 employees consol class C-smart JV (vs statutory FTE ~378)
+bud_cipal_dv_omzet_2024,cipal_dv,2024,3764587,,,outturn,src_cipal_csmart_jv2024,strong,Cipal dv omzet 3764587 EUR 2024; bedrijfsopbrengsten 5768910
+bud_cipal_dv_pension_prov_2024,cipal_dv,2024,31000000,,,stock,src_cipal_csmart_jv2024,strong,Pension responsabilisering provision 31m on Cipal dv balance YE2024 class
+bud_cipal_acq_rev_claim_2024,cipal_schaubroeck,2024,110000000,,,estimate,src_topicus_cipal_acq_2025,medium,Topicus acquirer claim approx 110m gross revenues 2024 (vs consol 114.4m strong)
