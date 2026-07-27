@@ -21,21 +21,22 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_cheque_economy` | Cheque economy meal vouchers (para)fiscal + restricted  | **1.07 bn** | 8.5 | 9.5 | 8 | **8.4** | CoA TE layer B; face=wages; pure waste admin+DWL only |
 | 6 | `lb_fed_fossil_company_cars_ehs_3_4bn` | Company cars EHS fossil inventory 3.43bn 2022 | **3.43 bn** | 8 | 9.0 | 7 | **8.35** | fossil inventory |
 | 7 | `lb_fed_fossil_mazout_1_86bn` | Heating oil accise gap 1.86bn 2022 fossil inv | **1.86 bn** | 8 | 9.0 | 6 | **8.3** | fossil inventory |
-| 8 | `lb_hedera_cap_15bn` | Hedera Phoenix CAP ~15bn nuclear waste finance | **0** | 6 | 10.0 | 7 | **8.25** | tick288 stock |
-| 9 | `lb_company_cars` | Company cars tax expenditure package | **3.14 bn** | 8 | 9.5 | 8 | **8.22** | Official FFS package |
-| 10 | `lb_eiwt_package` | EIWT partial remittance bedrijfsvoorheffing package | **4.36 bn** | 7 | 9.5 | 6 | **8.08** | Top wage-subsidy instrument |
+| 8 | `lb_company_cars` | Company cars tax expenditure package | **3.14 bn** | 8 | 9.5 | 8 | **8.22** | Official FFS package |
+| 9 | `lb_eiwt_package` | EIWT partial remittance bedrijfsvoorheffing package | **4.36 bn** | 7 | 9.5 | 6 | **8.08** | Top wage-subsidy instrument |
+| 10 | `lb_eiwt_night_shift_cluster` | EIWT night+shift+continuous+construction cluster | **2.04 bn** | 7 | 9.5 | 6 | **8.08** | ~2.04bn 2024 cluster |
 
-**Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.
+**Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
+**Stock filter:** Hedera CAP (~15bn, pi 8.25 if mis-sorted as annual) stays **off** pure annual top10.
 
 ### Just outside top 10 (often relevant)
 
 | # | ID | Annual € | Priority | Note |
 |---|-----|----------:|---------:|------|
-| 11 | `lb_eiwt_night_shift_cluster` | **2.04 bn** | 8.08 | EIWT night+shift+continuous+construction clus |
-| 12 | `lb_vl_gsc_support` | **822.00 m** | 8.0 | Flanders green electricity certificates GSC ~ |
-| 13 | `lb_wage_subsidies_block` | **16.70 bn** | 7.98 | Wage subsidies block (~2/3 of enterprise pack |
-| 14 | `lb_ffs_direct_total` | **10.78 bn** | 7.98 | Federal direct fossil fuel subsidies total FF |
-| 15 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Natural gas product rate-diff vs gasoline TOE |
+| 11 | `lb_vl_gsc_support` | **822.0 m** | 8.0 | Flanders green electricity certificates GSC |
+| 12 | `lb_wage_subsidies_block` | **16.70 bn** | 7.98 | Wage subsidies block (~2/3 of enterprise package) |
+| 13 | `lb_ffs_direct_total` | **10.78 bn** | 7.98 | Federal direct fossil fuel subsidies total FFS |
+| 14 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Natural gas product rate-diff vs gasoline TOE |
+| 15 | `lb_union_pay_admin_169m` | **169.0 m** | 7.9 | Union unemployment payment admin grants ~169m |
 
 ### Large stock / off-TE / temporary / procurement map (not pure annual waste top 10)
 
