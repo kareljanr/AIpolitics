@@ -4244,3 +4244,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +1; sources +1; budgets +16; cmt +1; lb +6; FOI **gap_vaph_provider_pvb_l5** ready + draft; rq_365=done; spawn **rq_366**; ticks=374
 - FOI: provider top + PAB EUR + BO2026 human send only
 - Next: prio5 **rq_366**; deferred **rq_116** SWA
+
+### 2026-08-01T02:15:00Z - tick 375
+- Unit: **rq_366** (FOI-adjacent hole-fill - **Flanders Groeipakket + Geintegreerd gezinsbeleid BU2025 L5**)
+- Found (strong primary BBT WVG BU2025):
+  - **ISE Groeipakket** VEK BU **EUR 4,906.672m** (BA 4,906.129m)
+    - GEF2QX Opgroeien policy **4,797.102m** (VAK=VEK BA=BU)
+    - GEF2QY VUTG toelage VEK BU **109.570m**
+    - Agency exp AGEF2QB+QY+QW **4,859.865m** (+32.1m vs credit); recoveries **32.972m**
+  - VUTG L5: private UA admin **67.082m** (Kidslife/Infino/MyFamily/Parentia) - lonen **38.047m** - invest **4.342m**
+  - VUTG/Fons benefits channel **1,147.696m**; toelage Opgroeien **1,131.694m**
+  - **ISE Geintegreerd gezinsbeleid** VEK BU **1,369.467m** (GEF2UX)
+    - Parent fees KO **233.463m** (raming 249.4m); AGEF2UA-LO **100.986m**; WT surplus **79.2m**
+- Wrote: entities +3; sources +1; budgets +26; cmt +2; lb +7; FOI **gap_vl_gp_gezinsbeleid_l5** ready + draft; rq_366=done; spawn **rq_367**; ticks=375
+- FOI: per-UA admin + AGEF2QB channel + KO provider top human send only
+- Next: prio5 **rq_367**; deferred **rq_116** SWA
