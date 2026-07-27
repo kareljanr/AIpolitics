@@ -3789,3 +3789,15 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets ~4121 / cmt ~622 / lb ~739 / entities ~290 / sources ~644
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_331=done; spawn rq_332; ticks=340
 - Next: prio5 **rq_332**; deferred **rq_116** SWA; human FOI send stack ~153 ready
+
+### 2026-07-31T09:15:00Z - tick 341
+- Unit: **rq_332** (FOI-adjacent hole-fill - **VAF Flanders dual community AV fund**)
+- Found (strong VAF Jaarverslag 2024 + 2025 primary):
+  - **2024 VL dots:** Film Culture **€20.490m** · Media **€7.450m** · Game **€2.768m** → **€30.708m**.
+  - Filmfonds total budget **€20.535m** (creatie **€11.753m**: fictie 7.753 / doc 1.575 / anim 1.575); spend **€21.576m**.
+  - Mediafonds available **€8.894m** (incl dienstenverdelers/OTT **€0.781m**); spend **€8.554m**.
+  - **2025 VL dots:** Film **€20.820m** · Media **€7.173m** · Game **€2.800m** → **€30.793m**.
+  - Dual: Flanders VAF vs Wallonia CCA vs federal CINEMATEK (Belspo); Screen Flanders tax-shelter class separate.
+- Wrote: sources +2; entity vaf; budgets +14; cmt +1; lb +1; FOI gap_vaf_cca ready; rq_332=done; spawn rq_333; ticks=341
+- FOI: CCA dual + Cinematek base + VAF top awards L5 ready human send
+- Next: prio5 **rq_333**; deferred **rq_116** SWA

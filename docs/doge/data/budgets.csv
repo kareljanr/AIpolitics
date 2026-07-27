@@ -4120,3 +4120,17 @@ bud_eumetsat_be_2024,eumetsat_be,2024,13480000,,,outturn,src_eumetsat_ar2024,str
 bud_eumetsat_ms_total_2024,eumetsat_be,2024,506037000,,,outturn,src_eumetsat_ar2024,strong,Total EUMETSAT Member State contributions 506.037m EUR 2024
 bud_eumetsat_exp_total_2024,eumetsat_be,2024,763200000,,,budgeted,src_eumetsat_ar2024,strong,EUMETSAT total expenditure budgets 2024 763.2m (GB 91 EPS-SG 254.3 MTG 219.1 Copernicus 111.4 etc)
 bud_eumetsat_be_share_pct_2024,eumetsat_be,2024,2.66,,,outturn,src_eumetsat_ar2024,strong,BE share of MS contributions 13.480/506.037 ~2.66pct 2024
+bud_vaf_film_dot_culture_2024,vaf,2024,20490000,,,budgeted,src_vaf_jv_2024,strong,VAF/Filmfonds VL Culture dotatie excl Screen Flanders promo 20.490m 2024
+bud_vaf_film_total_budget_2024,vaf,2024,20535000,,,budgeted,src_vaf_jv_2024,strong,VAF/Filmfonds available total budget 20.535m (creatie 11.753 promo 0.825 talent 0.6 publiek 5.176 werk 2.136 SF promo 0.045)
+bud_vaf_film_creatie_2024,vaf,2024,11753000,,,budgeted,src_vaf_jv_2024,strong,Filmfonds steun creatie envelope 11.753m (fictie 7.753 doc 1.575 anim 1.575 filmlab 0.45 innov 0.4)
+bud_vaf_film_spend_2024,vaf,2024,21575521,,,outturn,src_vaf_jv_2024,strong,Filmfonds total spend 21.575521m 2024 (creatie approvals 12.82m)
+bud_vaf_media_dot_2024,vaf,2024,7449720,,,budgeted,src_vaf_jv_2024,strong,VAF/Mediafonds VL Media dotatie incl excedent 7.44972m 2024
+bud_vaf_media_total_budget_2024,vaf,2024,8894175,,,budgeted,src_vaf_jv_2024,strong,Mediafonds available total 8.894m incl dienstenverdelers/OTT 0.781m
+bud_vaf_media_spend_2024,vaf,2024,8554066,,,outturn,src_vaf_jv_2024,strong,Mediafonds total spend 8.554m 2024
+bud_vaf_game_dot_2024,vaf,2024,2768280,,,budgeted,src_vaf_jv_2024,strong,VAF/Gamefonds VL Media+Onderwijs dotatie 2.76828m 2024
+bud_vaf_vl_dots_sum_2024,vaf,2024,30708000,,,budgeted,src_vaf_jv_2024,strong,Sum VL government dots Film+Media+Game 20.490+7.450+2.768=30.708m 2024
+bud_vaf_film_dot_culture_2025,vaf,2025,20820000,,,budgeted,src_vaf_jv_2025,strong,VAF/Filmfonds VL Culture dotatie excl Screen Flanders promo 20.820m 2025
+bud_vaf_film_creatie_2025,vaf,2025,11900000,,,budgeted,src_vaf_jv_2025,strong,Filmfonds steun creatie total 11.900m 2025
+bud_vaf_media_dot_2025,vaf,2025,7173000,,,budgeted,src_vaf_jv_2025,strong,VAF/Mediafonds VL Media dotatie 7.173m 2025
+bud_vaf_game_dot_2025,vaf,2025,2800000,,,budgeted,src_vaf_jv_2025,strong,VAF/Gamefonds VL Media+Onderwijs 2.800m 2025
+bud_vaf_vl_dots_sum_2025,vaf,2025,30793000,,,budgeted,src_vaf_jv_2025,strong,Sum VL government dots Film+Media+Game 20.820+7.173+2.800=30.793m 2025
