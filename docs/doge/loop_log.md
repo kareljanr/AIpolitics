@@ -4326,3 +4326,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_371=done; spawn **rq_372**; ticks=380
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_372** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-01T05:15:00Z - tick 381
+- Unit: **rq_372** (FOI-adjacent hole-fill - **RVA/ONEM JV2025 budget L5 opdrachten+beheer**)
+- Found (strong primary RVA Jaarverslag 2025 vol.1 tables 1.4.6):
+  - Global exp **EUR 7,371.035m** / rec **7,343.783m** (saldo -27.3m)
+  - Opdrachten exp **6,950.791m**: sociale prestaties **6,383.351m** - UI vergoedingen **233.604m** - diverse **333.837m**
+  - Beheer **306.638m**: personeel **236.021m** (77pct) - werking **65.826m** - invest **4.352m**
+  - Gewestelijk activation **113.594m**; staff **2,959 FE** / 2,622 VTE + 336 external
+  - Path beheer 277.9/295.2/306.6 2023-25 (CoA 2023 match)
+- Wrote: sources +1; budgets +26; cmt +1; lb +6; FOI **gap_rva_werking_smals_l5** ready; unemp FOI note; rq_372=done; spawn **rq_373**; ticks=381
+- FOI: werking/Smals L5 + residual per-union UI human send only
+- Next: prio5 **rq_373**; deferred **rq_116** SWA
