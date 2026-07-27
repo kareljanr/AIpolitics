@@ -20,40 +20,44 @@
 
 ---
 
-## Snapshot at **tick 290** (2026-07-30)
+## Snapshot at **tick 300** (2026-07-30)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~86–94%** (order of magnitude) | Up from ~84–92% @280: **FSMA 107m** + **NBB ops 487m** + **CGVS 57m** + **DVZ Env2 155m** + **RVV 30m** + **NIRAS omzet 316m** + **Bel V 16m** + **SCK 292m** + **MYRRHA path** + **ASEVA 212m levy**; **Hedera CAP 15bn** mapped as **stock** (S.1311 transfer, not annual TE flow) |
-| **D. L5 named end-receivers** | **~14–22%** of TE (generous) | Still thin structural; MYRRHA BA lines + nuclear duals are mostly L2–L3; pure ASBL/contractor L5 residual FOI |
-| **E. FOI-ready gaps** | **~115** drafts ready | Human send only; answered ~5 |
+| **C. L2 entity totals** | **~87–95%** (order of magnitude) | Up from ~86–94% @290: FPS Economy hole-fill **CREG crisis pack** peak **~2.09bn** 2023 + **H2 RRF eng ~316m** + **press concession BA ~176m** + **telecom connectivity 66.2m** + **Airbus/Clean Aviation 45m** + **ETF awards 129m** + **quality infra ~11m** + **BMA/FPB** + **surendettement 6.2m**; nuclear/asylum/ASEVA/Hedera already @290 |
+| **D. L5 named end-receivers** | **~15–23%** of TE (generous) | Slight uptick: ETF **140** named projects (EUR matrix FOI); H2/telecom/Airbus L5 FOI; pure ASBL/contractor bulk still residual |
+| **E. FOI-ready gaps** | **~124** drafts ready | Human send only; answered **~5** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**. Energy-crisis CREG channels (**~2bn** peak 2023) are **temporary TE-adjacent** social support, not permanent waste.
 
-### Inventory (tick 290)
+### Inventory (tick 300)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~3,277 |
-| commitments.csv | ~522 |
-| leaderboard.csv | ~604 |
-| entities.csv | ~232 |
-| sources.csv | ~579 |
-| FOI ready | ~115 |
+| budgets.csv | ~3,626 |
+| commitments.csv | ~557 |
+| leaderboard.csv | ~645 |
+| entities.csv | ~249 |
+| sources.csv | ~588 |
+| FOI ready | ~124 |
 | FOI answered | ~5 |
-| FOI total rows | ~122 |
-| research_queue | ~282 (open: rq_116 deferred + rq_282 hole-fill) |
+| FOI total rows | ~131 |
+| research_queue | ~292 (open: rq_116 deferred + rq_292 hole-fill) |
 
-### What improved since tick 280
+### What improved since tick 290
 
-- **Financial/regulators dual:** FSMA werkings **107.5m**; NBB ops **486.6m** + prudential **134.1m**.  
-- **Asylum chain dual:** CGVS spend **57.0m** / VTE **601**; DVZ Env2 personnel **154.8m** / VTE ~**2 218**; RVV **30.2m**; Fedasil host **826m** 2025; IBZ global **2.51bn** VL.  
-- **Nuclear stack dual:** NIRAS omzet **315.6m** 2025 / assets **1.78bn**; Bel V TSO **16.0m**; SCK charges **291.5m** / staff **999**; MYRRHA envelope **>550m** 2019–38 + phase1 path; SMR ~**100m** 2023–26.  
-- **Nuclear finance stock:** Hedera Phoenix CAP **15bn** (tranche1 **12.2bn** paid Mar2025); SYNATOM assets **12.9bn** eoy2024; interest **146.4m** 2025.  
-- **Energy security dual:** ASEVA/APETRA oil levy **211.8m** 2023 / ESR **~188m** / assets **2.29bn** 2022; dual Hedera nuclear.  
-- **ASTRID:** contract ops **46.5m/yr** vs IBZ **76.5m** (FOI reconcile).  
+- **Energy crisis CREG channel:** social tariff enlargement peak **733m** 2022 / pack **~2.09bn** 2023 + basisfonds **1.45bn**; dual mazout/heating fund (tick291–294).  
+- **H2 RRF:** eng class **300m** call/backbone + import **10m** + green steel **6m**; L5 FOI.  
+- **Press concession BA:** liq path **~168–176m** then **129–138m** (strong FPS path).  
+- **Telecom:** connectivity eng **66.2m** (5G 24 / white zones 40.7 / 6G 1.5) + DG admin **~2.4m**.  
+- **Aerospace:** Airbus recoverable advances **45m** eng + Clean Aviation residual.  
+- **ETF deepen:** calls I–VI awards **€129.1m** / 84 projects; **140** named projects Jul2026 overzicht; Doel LTO fee **20m/yr** financing.  
+- **Quality infra:** BELAC **~3.6m** + NBN pack **~7.1m** + EMPIR/EPM **0.32m**.  
+- **Consumer:** surendettement mediator fees **~6.2m/yr**.  
+- **Institutions:** CCE **~5.4m**; INR **~1.3m**; BMA **~9.1m**; FPB **~11.9m** (mapped earlier path refined).  
+- **Intl energy:** CERN **31.3m**; DK RES transfer path; small IEA/IRENA pack (@293).  
 
 ---
 
@@ -78,4 +82,5 @@
 | 260 | 100% | 100% | ~81–89% | ~12–20% | ~92 | Export+tourism+WBI duals; FIT/WBI FOI public closes |
 | 270 | 100% | 100% | ~82–90% | ~13–21% | ~98 | FWO/FNRS + Sciensano/FAVV + Innoviris L5 + FIB |
 | 280 | 100% | 100% | ~84–92% | ~14–22% | ~106 | SS CoA + Smals/KSZ + health + CREG/BIPT |
-| **290** | **100%** | **100%** | **~86–94%** | **~14–22%** | **~115** | **Current** (nuclear dual + asylum chain + Hedera stock + ASEVA) |
+| 290 | 100% | 100% | ~86–94% | ~14–22% | ~115 | Nuclear dual + asylum + Hedera stock + ASEVA |
+| **300** | **100%** | **100%** | **~87–95%** | **~15–23%** | **~124** | **Current** (FPS Economy energy/crisis/H2/telecom/ETF/quality + press) |

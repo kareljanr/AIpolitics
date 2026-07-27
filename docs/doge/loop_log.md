@@ -3274,3 +3274,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities +2; budgets +pack; cmt +2; lb +2; FOI gap_surendettement_unit_cost ready; draft; rq_291=done; spawn rq_292; ticks=299
 - FOI: unit cost/cases human send
 - Next: **MANDATORY rq_290 progress@300**; then rq_292; deferred **rq_116** SWA
+
+### 2026-07-30T12:45:00Z - tick 300 (progress milestone)
+- Unit: **rq_290** (mandatory progress@300 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~87-95%** (up from ~86-94% @290) — FPS Economy energy crisis CREG ~2bn peak + H2 RRF 316m eng + press concession + telecom 66m + Airbus 45m + ETF 129m awards + quality infra 11m + surendettement 6.2m
+  - **D L5:** **~15-23%** — ETF 140 named projects (EUR FOI); H2/telecom/Airbus L5 residual
+  - **E FOI ready:** **~124** drafts (answered ~5)
+- Waste top10: **stable** cheque/fossil/company cars/EIWT (pi 8.83-8.08); Hedera CAP stock off annual top10; CREG crisis pack temporary noted off pure-waste top10
+- Inventory: budgets ~3626 · commitments ~557 · leaderboard ~645 · entities ~249 · sources ~588 · FOI rows ~131
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_290=done; ticks=300
+- Next: prio5 **rq_292**; deferred **rq_116** SWA; human FOI send stack

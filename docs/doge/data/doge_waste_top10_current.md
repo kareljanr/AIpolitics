@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **290** (2026-07-30) · **~604** leaderboard rows  
+**As-of:** tick **300** (2026-07-30) · **~645** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -35,13 +35,16 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 14 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Natural gas product rate-diff vs gasoline TOE |
 | 15 | `lb_union_pay_admin_169m` | **169.0 m** | 7.9 | Union unemployment payment admin grants ~169m |
 
-### Large stock / off-TE (not in annual top 10)
+### Large stock / off-TE / temporary crisis (not in annual pure-waste top 10)
 
-| ID | Stock / envelope | Note |
+| ID | Stock / envelope / peak | Note |
 |-----|------------------:|------|
-| `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock (S.1311); not annual TE flow |
+| `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock (S.1311); not annual TE flow (pi ~8.25 if mis-sorted as annual) |
 | `lb_synatom_assets_12_9bn` | **12.9 bn** | Pre/post CAP provision assets |
+| `lb_creg_crisis_pack_2bn_2023` | **~2.09 bn** peak 2023 | Temporary energy-crisis CREG social+basisfonds; dual mazout |
+| `lb_h2_rrf_300m_eng` | **300 m** eng class | RRF H2 call/backbone; L5 FOI |
 | `lb_myrrha_envelope_550m` | **>550 m** multi-year | Research infra envelope 2019–38 |
+| `lb_press_concession_ba_176m` | **~176 m** peak path | Press distribution concession BA (phase path dual bpost) |
 
 ---
 
@@ -56,4 +59,4 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_union_pay_admin_169m` | 8.5 | **169.0 m** | Union unemployment payment admin grants |
 | 6 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | **3.7 m** | Mijn Kortingsbon fridge/washer/freezer |
 
-*Top 10 **stable** vs @280 on pure-waste mega items (cheque, fossil, company cars, EIWT). Hole-fill ticks 281–289 raised **L2 nuclear + asylum + energy-security map** (FSMA/NBB, CGVS/DVZ/RVV, NIRAS/Bel V/SCK/MYRRHA, Hedera CAP stock, ASEVA) — high map value, not pure clown waste. Core public goods (strategic oil stocks, nuclear waste finance, asylum decisions) are **not ranked as waste** unless dual unit-cost or L5 opacity fails.*
+*Top 10 **stable** vs @290 on pure-waste mega items (cheque, fossil, company cars, EIWT). Ticks 291–299 raised **FPS Economy map**: energy-crisis CREG, H2 RRF, press concession, telecom, Airbus, ETF L5 names, quality infra, surendettement — high **coverage** value; crisis support and core institutions (BMA, FPB, BELAC, NBN, debt mediation) are **not pure clown waste**. ETF **140** named projects public; per-project EUR still FOI.*

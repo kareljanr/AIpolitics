@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T12:15:00Z,rq_291,299,no,Scheduler 60s. NEXT MANDATORY rq_290 progress@300. Then rq_292. rq_116 SWA deferred. tick299 surendettement 6.2m + telecom admin 2.4m.
+main,continuous,hole_fill,2026-07-30T12:45:00Z,rq_290,300,no,Scheduler 60s. Next prio5 rq_292; rq_116 SWA deferred. FOI ready ~124. tick300 progress L2~87-95 L5~15-23.
