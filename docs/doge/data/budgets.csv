@@ -1509,3 +1509,28 @@ bud_bpost_overcomp_provision_2023,bpost,2023,75000000,,,outturn,src_bpost_ar2024
 bud_bpost_sgei_receivable_eoy2023,bpost,2023,74600000,,,outturn,src_bpost_ar2024_consol,strong,SGEI receivable outstanding end-2023 74.6m; fully settled end-2024
 bud_bpost_esa_d31_minus_sgei_2024,bpost,2024,101200000,,,outturn,src_bpost_ar2024_consol,medium,Implied residual: NBB ESA D.31 329m minus SGEI rem 227.8m = 101.2m perimeter gap 2024
 bud_bpost_esa_d31_minus_sgei_2023,bpost,2023,12100000,,,outturn,src_bpost_ar2024_consol,medium,Implied residual: NBB ESA D.31 324m minus SGEI rem 311.9m = 12.1m 2023
+bud_uliege_alloc_fonct_2025,uliege,2025,241118000,,,budgeted,src_fwb_budget_dep_2026,strong,ULiege allocation fonctionnement DO54 AB41.12 2025 eng=liq
+bud_uliege_alloc_fonct_2026,uliege,2026,249252000,,,budgeted,src_fwb_budget_dep_2026,strong,ULiege allocation fonctionnement 2026 eng=liq
+bud_umons_alloc_fonct_2025,umons,2025,84931000,,,budgeted,src_fwb_budget_dep_2026,strong,UMons allocation fonctionnement 2025
+bud_umons_alloc_fonct_2026,umons,2026,89797000,,,budgeted,src_fwb_budget_dep_2026,strong,UMons allocation fonctionnement 2026
+bud_uclouvain_alloc_fonct_2025,uclouvain,2025,318821000,,,budgeted,src_fwb_budget_dep_2026,strong,UCLouvain allocation fonctionnement 2025
+bud_uclouvain_alloc_fonct_2026,uclouvain,2026,330911000,,,budgeted,src_fwb_budget_dep_2026,strong,UCLouvain allocation fonctionnement 2026 largest FWB
+bud_ulb_alloc_fonct_2025,ulb,2025,264900000,,,budgeted,src_fwb_budget_dep_2026,strong,ULB allocation fonctionnement 2025
+bud_ulb_alloc_fonct_2026,ulb,2026,275862000,,,budgeted,src_fwb_budget_dep_2026,strong,ULB allocation fonctionnement 2026
+bud_unamur_alloc_fonct_2025,unamur,2025,69042000,,,budgeted,src_fwb_budget_dep_2026,strong,UNamur allocation fonctionnement 2025
+bud_unamur_alloc_fonct_2026,unamur,2026,72197000,,,budgeted,src_fwb_budget_dep_2026,strong,UNamur allocation fonctionnement 2026
+bud_fwb_univ_alloc_sum_2025,fwb_gov,2025,978812000,,,budgeted,src_fwb_budget_dep_2026,strong,Sum 5 FWB unis alloc fonctionnement 2025 978.812m
+bud_fwb_univ_alloc_sum_2026,fwb_gov,2026,1018019000,,,budgeted,src_fwb_budget_dep_2026,strong,Sum 5 FWB unis alloc fonctionnement 2026 1018.019m
+bud_fwb_do54_cell_2026,fwb_gov,2026,1153192000,,,budgeted,src_fwb_budget_dep_2026,strong,DO54 Enseignement universitaire CELL total 1153.192m 2026
+bud_fwb_do54_prog1_2026,fwb_gov,2026,360972000,,,budgeted,src_fwb_budget_dep_2026,strong,DO54 Prog1 Universites Communaute 360.972m 2026
+bud_fwb_do54_prog2_2026,fwb_gov,2026,718808000,,,budgeted,src_fwb_budget_dep_2026,strong,DO54 Prog2 Universites libres 718.808m 2026
+bud_fwb_univ_social_comm_2026,fwb_gov,2026,12199000,,,budgeted,src_fwb_budget_dep_2026,strong,Subventions sociales unis Communaute 12.199m 2026
+bud_fwb_univ_social_libres_2026,fwb_gov,2026,28276000,,,budgeted,src_fwb_budget_dep_2026,strong,Subventions sociales unis libres 28.276m 2026
+bud_fwb_minerval_comp_2025,fwb_gov,2025,56466000,,,budgeted,src_fwb_budget_dep_2026,strong,Compensations droits inscription reduits unis 56.466m 2025
+bud_fwb_minerval_comp_2026,fwb_gov,2026,52422000,,,budgeted,src_fwb_budget_dep_2026,strong,Compensations minerval reduits 52.422m 2026 (cut path)
+bud_fwb_aides_reussite_univ_2026,fwb_gov,2026,14904000,,,budgeted,src_fwb_budget_dep_2026,strong,Allocations aides a la reussite unis 14.904m 2026
+bud_fwb_art34_univ_libres_2026,fwb_gov,2026,11410000,,,budgeted,src_fwb_budget_dep_2026,strong,Intervention art.34 loi 1971 unis libres 11.410m 2026
+bud_fwb_chu_liege_charges_2026,fwb_gov,2026,8924000,,,budgeted,src_fwb_budget_dep_2026,strong,CHU Liege charges exceptionnelles 8.924m 2026
+bud_fwb_chu_liege_capital_2025,fwb_gov,2025,2785000,,,budgeted,src_fwb_budget_dep_2026,strong,CHU Liege constitution capital 2.785m 2025 cut to 0 in 2026
+bud_fwb_he_cf_alloc_2026,fwb_gov,2026,122543000,,,budgeted,src_fwb_budget_dep_2026,strong,Hautes Ecoles Communaute allocations globales 122.543m 2026 DO55
+bud_fwb_he_social_2026,fwb_gov,2026,41280000,,,budgeted,src_fwb_budget_dep_2026,strong,Subventions sociales Hautes Ecoles 41.280m 2026

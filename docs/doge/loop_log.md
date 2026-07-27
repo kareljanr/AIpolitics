@@ -1574,3 +1574,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 11; cmt 1; lb 2; gap_bpost notes partial prio7; rq_159=done; seeded **rq_160**.
 - FOI: gap_bpost residual L5 SGEI components + ESA residual still **ready** human send.
 - Next: prio5 **rq_160**; deferred **rq_116** SWA.
+
+### 2026-07-28T05:05:00Z — tick 165
+- Unit: **rq_160** (FOI-adjacent hole-fill — **FWB universities DO54 BI2026 per-institution L5**)
+- Found (strong primary Budget des dépenses 2026, *en milliers d'euros*, eng=liq):
+  - **Alloc fonctionnement 2026:** UCLouvain **330.911m** · ULB **275.862m** · ULiège **249.252m** · UMons **89.797m** · UNamur **72.197m** · **sum 1.018bn** (2025 sum **978.8m**).
+  - **DO54 CELL total 1.153bn** 2026 (prog1 Communauté **361.0m** · prog2 libres **718.8m** · prog4 **69.8m**).
+  - Social unis: Comm **12.2m** · libres **28.3m** · minerval compensations **52.4m** (was 56.5m) · aides réussite **14.9m** · art.34 **11.4m**.
+  - CHU Liège capital line **2.785m → 0** 2026 (matches ExpGen savings note).
+  - Hautes Écoles CF allocations globales **122.5m** + social HE **41.3m** (DO55 sample).
+  - Dual HE: FWB ~1.02bn pure alloc vs VL 1st stream **1.44bn** (different perimeter/students).
+- Wrote: sources 1; entities 5; budgets 25; cmt 1; lb 4; gap_univ FWB filled residual VL AHOVOKS; rq_160=done; seeded **rq_161**.
+- FOI: gap_univ still **ready** for VL AHOVOKS exact only (prio 5).
+- Next: prio5 **rq_161**; deferred **rq_116** SWA.

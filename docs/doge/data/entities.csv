@@ -101,3 +101,8 @@ ugent,Universiteit Gent,Universite de Gand,Ghent University,university,sec_fland
 uantwerpen,Universiteit Antwerpen,Universite d Anvers,University of Antwerp,university,sec_flanders,nl,https://www.uantwerpen.be,,,CRC 2024: result +2.4m bedrijfs -24.8m; students 20414; VTE 4019; implied 1st ~207m medium; tick163
 uhasselt,Universiteit Hasselt,Universite de Hasselt,Hasselt University,university,sec_flanders,nl,https://www.uhasselt.be,,,CRC 2024: result +9.5m; students 7303; VTE 1494; implied 1st ~94m medium; tick163
 vub,Vrije Universiteit Brussel,Vrije Universiteit Brussel,Free University of Brussels (Dutch),university,sec_flanders,nl,https://www.vub.be,,,CRC 2024: result -0.2m bedrijfs -16.0m; students 19889; VTE 3618; implied 1st ~166m medium; tick163
+uliege,Universite de Liege,Université de Liège,University of Liège,university,fwb_gov,fr,https://www.uliege.be,,,FWB community uni; alloc fonct 249.252m 2026 / 241.118m 2025; tick165
+umons,Universite de Mons,Université de Mons,University of Mons,university,fwb_gov,fr,https://web.umons.ac.be,,,FWB community uni; alloc fonct 89.797m 2026; tick165
+uclouvain,UCLouvain,Université catholique de Louvain,UCLouvain,university,fwb_gov,fr,https://uclouvain.be,,,Largest FWB free uni; alloc fonct 330.911m 2026; Saint-Louis merged 0 line; tick165
+ulb,Universite libre de Bruxelles,Université libre de Bruxelles,ULB,university,fwb_gov,fr,https://www.ulb.be,,,FWB free uni; alloc fonct 275.862m 2026; dual capital with VUB; tick165
+unamur,Universite de Namur,Université de Namur,University of Namur,university,fwb_gov,fr,https://www.unamur.be,,,FWB free uni; alloc fonct 72.197m 2026; tick165
