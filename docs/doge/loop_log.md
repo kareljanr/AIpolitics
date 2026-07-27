@@ -2051,3 +2051,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entities 2; budgets 12; cmt 2; lb 2; FOI **gap_lantis_oosterweel_cash** ready; rq_192=done; seeded **rq_193**.
 - FOI: Oosterweel cash-by-year recon human send only; Antwerp register / Mons BI2026 still residual.
 - Next: prio5 **rq_193**; deferred **rq_116** SWA.
+### 2026-07-28T16:05:00Z - tick 198
+- Unit: **rq_193** (FOI-adjacent hole-fill - **Infrabel** dual NMBS)
+- Found (medium-strong NBB/Companyweb + strong official press 2024):
+  - **Omzet EUR 1.369bn 2024 / 1.426bn 2025** (1.438bn 2023; 1.219bn 2022).
+  - **Net 50.8m 2024 / 95.0m 2025** (press 50m 2024); **equity 19.96 ? 20.54bn**.
+  - **Invest 1bn 2024** network; multi-year plan **6.5bn 2025-2029**.
+  - Punctuality **90.1%** 2024; State **100%**; TUC RAIL 100%.
+  - Dual map: **Infrabel net** + **NMBS ops** (ESA package prior; FOI toelage split residual).
+- Wrote: sources 2; entity 1; budgets 8; cmt 1; lb 2; FOI **gap_infrabel_state_toelage** ready; rq_193=done; seeded **rq_194**.
+- FOI: state toelage cash-by-year + CAPEX L5 human send only; Antwerp/Mons still residual.
+- Next: prio5 **rq_194**; deferred **rq_116** SWA.

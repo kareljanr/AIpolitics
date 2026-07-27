@@ -2138,3 +2138,10 @@ bud_dwv_omzet_2024,de_werkvennootschap,2024,124526477,,,outturn,src_dwv_companyw
 bud_dwv_gip_2025,de_werkvennootschap,2025,243832863,,,budgeted,src_mora_gip_2025_27,strong,GIP De Werkvennootschap 2025
 bud_dwv_gip_2026,de_werkvennootschap,2026,247792937,,,budgeted,src_mora_gip_2025_27,strong,GIP DWV 2026
 bud_dwv_gip_2027,de_werkvennootschap,2027,248774581,,,budgeted,src_mora_gip_2025_27,strong,GIP DWV 2027
+bud_infrabel_omzet_2025,infrabel,2025,1425563381,,,outturn,src_infrabel_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2025
+bud_infrabel_net_2025,infrabel,2025,95010852,,,outturn,src_infrabel_companyweb_nbb,medium-strong,Net profit 2025
+bud_infrabel_net_2024,infrabel,2024,50812709,,,outturn,src_infrabel_companyweb_nbb,medium-strong,Net profit 2024 matches press 50m
+bud_infrabel_equity_2025,infrabel,2025,20536315294,,,stock,src_infrabel_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025 ~20.5bn
+bud_infrabel_equity_2024,infrabel,2024,19955972173,,,stock,src_infrabel_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024 ~20.0bn
+bud_infrabel_invest_2024,infrabel,2024,1000000000,,,outturn,src_infrabel_press_2024_results,strong,Official press invest 1bn in network 2024
+bud_infrabel_plan_invest_2025_29,infrabel,2029,6500000000,,,commitment,src_infrabel_press_2024_results,strong,Multi-year invest plan 6.5bn 2025-2029
