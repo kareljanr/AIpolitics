@@ -2205,3 +2205,14 @@ bud_zomer_antwerpen_2026,city_antwerpen,2026,1210000,,,budgeted,src_ebesluit_zom
 bud_zomer_antwerpen_max_2026_27,city_antwerpen,2027,7435480,,,commitment,src_ebesluit_zomer_antwerpen_2026,strong,Zomer max package 7.435m for 2026-2027 contract only
 bud_extra_city_2026,city_antwerpen,2026,150000,,,budgeted,src_ebesluit_extra_city_2026,strong,Kunsthal Extra City city exp 150k 2026
 bud_extra_city_max_2026_31,city_antwerpen,2031,921752,,,commitment,src_ebesluit_extra_city_2026,strong,Extra City max package 921752 EUR 2026-2031
+bud_pza_city_toelage_2026,city_antwerpen,2026,320676678,,,budgeted,src_ebesluit_pza_budget_2026,strong,Municipal toelage total Politiezone Antwerpen 2026
+bud_pza_city_toelage_gewone_2026,city_antwerpen,2026,301387647,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA city toelage ordinary service 2026
+bud_pza_city_toelage_extra_2026,city_antwerpen,2026,19289031,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA city toelage extraordinary service 2026
+bud_pza_ord_exp_2026,police_zone_antwerpen,2026,396401602.12,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA ordinary expenditures own year 2026
+bud_pza_staff_2026,police_zone_antwerpen,2026,305996463.12,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA personnel 306.0m 2026
+bud_pza_ops_2026,police_zone_antwerpen,2026,86429155,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA operating costs 86.4m 2026
+bud_pza_invest_2026,police_zone_antwerpen,2026,44886534.25,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA extraordinary investment spend 44.9m 2026
+bud_pza_ord_receipts_2026,police_zone_antwerpen,2026,408265256.75,,,budgeted,src_ebesluit_pza_budget_2026,strong,PZA ordinary receipts own year 408.3m 2026
+bud_pza_city_toelage_2025,city_antwerpen,2025,318098023.72,,,budgeted,src_ebesluit_pza_budget_2025,strong,Municipal toelage PZA 2025 total
+bud_pza_city_toelage_gewone_2025,city_antwerpen,2025,280084407.38,,,budgeted,src_ebesluit_pza_budget_2025,strong,PZA city toelage ordinary 2025
+bud_pza_city_toelage_extra_2025,city_antwerpen,2025,38013616.34,,,budgeted,src_ebesluit_pza_budget_2025,strong,PZA city toelage extraordinary 2025

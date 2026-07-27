@@ -2148,3 +2148,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 4; cmt 3; lb 3; foi notes; rq_200=done; seeded **rq_201**.
 - FOI: residual partners (hetpaleis AMUZ JEF De Roma Morpho Tutti Fameus …) + full register human send; Mons BI2026 residual; police zone toelage ebesluit candidate.
 - Next: prio5 **rq_201**; deferred **rq_116** SWA.
+
+### 2026-07-28T19:05:00Z - tick 207
+- Unit: **rq_201** (FOI-adjacent hole-fill - **Politiezone Antwerpen** city toelage)
+- Found (strong ebesluit politiebegroting 2026 + 2025 path):
+  - **City toelage 2026 EUR 320.677m** (gewone **301.388m** + buitengewoon **19.289m**).
+  - **2025 city toelage 318.098m** (280.084 + 38.014).
+  - Ordinary exp **396.4m**: staff **306.0m**; ops **86.4m**; transfers 3.85m.
+  - Ordinary receipts **408.3m**; invest spend **44.9m**; transfer ord?extra **22.3m**.
+  - Dual map: city ~80pct of ord receipts class; federal share residual FOI; largest city transfer vs culture sample 7m.
+- Wrote: sources 2; entity 1; budgets 11; cmt 2; lb 2; foi police notes; rq_201=done; seeded **rq_202**.
+- FOI: federal per-zone matrix still human send (gap_police_zones); culture residual partners + Mons BI2026 residual.
+- Next: prio5 **rq_202**; deferred **rq_116** SWA.
