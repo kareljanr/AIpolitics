@@ -1778,3 +1778,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; rq_173=done; seeded **rq_174**.
 - FOI: residual Fluvius munis + BCR capital + SPGE OAA + Farys ov if still opaque; human send.
 - Next: prio5 **rq_174**; deferred **rq_116** SWA.
+
+### 2026-07-28T09:45:00Z — tick 179
+- Unit: **rq_174** (FOI-adjacent hole-fill — **Pidpa Financieel jaarverslag 2025**)
+- Found (strong primary financial annual report):
+  - **Omzet water EUR 382.8m 2025** (+31.8% vs 2024) · total omzet **402.7m** (+27.8%).
+  - Water 2024 series: BGS **73.0m** + GS **99.1m** + WATER **118.4m** = **290.5m**.
+  - **Net profit 31.321m** (Water **14.4m** + HidroRio **9.4m** + HidroGem **7.6m**).
+  - Assets **1.595bn** · equity **859.3m** · solvability **53.9%** · invest **~183m** (riolering ~96m).
+  - 46 sewer municipalities · mandate extended +18y Mar 2025 · Antwerp Borsbeek exit 2026-01-01.
+  - Dual water map: **De Watergroep 838m** + **Pidpa 403m** + SWDE/Vivaqua; Farys ov still public-opaque.
+- Wrote: sources 1; entity 1; budgets 15; cmt 1; lb 1; rq_174=done; seeded **rq_175**.
+- FOI: residual Farys ov full accounts + Antwerp/Mons FOIs human send.
+- Next: prio5 **rq_175**; deferred **rq_116** SWA.

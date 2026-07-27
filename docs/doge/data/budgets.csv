@@ -1819,3 +1819,18 @@ bud_dwg_fin_costs_2024,de_watergroep,2024,14136000,,,outturn,src_dewatergroep_jv
 bud_dwg_conso_assets_2024,de_watergroep,2024,2247407000,,,outturn,src_dewatergroep_jv_2024,strong,Geconsolideerd totaal activa 2247.407m end-2024
 bud_dwg_conso_net_2024,de_watergroep,2024,-8731000,,,outturn,src_dewatergroep_jv_2024,strong,Geconsolideerd resultaat -8.731m 2024
 bud_dwg_eib_facility_class,de_watergroep,2024,350000000,,,commitment,src_dewatergroep_jv_2024,strong,EIB investeringskredietprogramma 350m (facility class not draw)
+bud_pidpa_omzet_water_2025,pidpa,2025,382797623,,,outturn,src_pidpa_fin_2025,strong,Omzet uit water (drink+sanering) 382.798m 2025 (+31.8pct vs 2024)
+bud_pidpa_omzet_total_2025,pidpa,2025,402730385,,,outturn,src_pidpa_fin_2025,strong,Totale omzet incl werken en vergoedingen 402.730m 2025
+bud_pidpa_omzet_water_2024,pidpa,2024,290520938,,,outturn,src_pidpa_fin_2025,strong,Omzet water 2024 sum BGS 73.0+GS 99.1+WATER 118.4 = 290.521m
+bud_pidpa_omzet_water_2023,pidpa,2023,284184119,,,outturn,src_pidpa_fin_2025,strong,Omzet water 2023 sum BGS 72.2+GS 93.6+WATER 118.4 = 284.184m
+bud_pidpa_omzet_bgs_2025,pidpa,2025,104818041,,,outturn,src_pidpa_fin_2025,strong,Bovengemeentelijke sanering BGS omzet 104.818m 2025
+bud_pidpa_omzet_gs_2025,pidpa,2025,122067666,,,outturn,src_pidpa_fin_2025,strong,Gemeentelijke sanering GS omzet 122.068m 2025
+bud_pidpa_omzet_drinkwater_2025,pidpa,2025,155911916,,,outturn,src_pidpa_fin_2025,strong,Drinkwater WATER component omzet 155.912m 2025
+bud_pidpa_net_profit_2025,pidpa,2025,31321123,,,outturn,src_pidpa_fin_2025,strong,Winst boekjaar 31.321m 2025 (Water 14.4 + HidroRio 9.4 + HidroGem 7.6)
+bud_pidpa_assets_2025,pidpa,2025,1594848019,,,outturn,src_pidpa_fin_2025,strong,Balanstotaal 1594.848m end-2025
+bud_pidpa_equity_2025,pidpa,2025,859347279,,,outturn,src_pidpa_fin_2025,strong,Eigen vermogen 859.347m end-2025 solvabiliteit 53.9pct
+bud_pidpa_invest_2025,pidpa,2025,183000000,,,outturn,src_pidpa_fin_2025,strong,Investeringen ongeveer 183m 2025 (riolering ~96m netten ~46m meters ~11m klimaat ~18m)
+bud_pidpa_result_water_2025,pidpa,2025,14350806,,,outturn,src_pidpa_fin_2025,strong,Resultaat activiteit Water 14.351m 2025
+bud_pidpa_result_hidrorio_2025,pidpa,2025,9378693,,,outturn,src_pidpa_fin_2025,strong,Resultaat HidroRio 9.379m 2025
+bud_pidpa_result_hidrogem_2025,pidpa,2025,7591624,,,outturn,src_pidpa_fin_2025,strong,Resultaat HidroGem 7.592m 2025
+bud_pidpa_omzet_total_2024_est,pidpa,2024,315125496,,,outturn,src_pidpa_fin_2025,medium,Totale omzet 2024 implied from +27.8pct to 402.7m = ~315.1m medium
