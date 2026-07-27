@@ -4488,3 +4488,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +30; cmt +1; lb +8; entity fod_bosa; FOI **gap_bosa_provisions_l5_2026** ready prio7; rq_384=done; spawn **rq_385**; ticks=393
 - FOI: residual provision lines + CM transfer log human send only
 - Next: prio5 **rq_385**; deferred **rq_116** SWA
+
+### 2026-08-01T11:45:00Z - tick 394
+- Unit: **rq_385** (FOI-adjacent hole-fill - **LPM militaire 2026-2034 investissements 33.784bn L5**)
+- Found (strong primary Kamer 56K1143):
+  - **Engagement plafond art.8: EUR 33,784.15m** constants 2026 for major equipment 2026-2034
+  - Staff 2034: **34,500** active · **12,800** reserve · **8,500** civil; recruit 2026: 2800/1050/960
+  - Largest packages: Combat Manoeuvre **6,003.8m** · SBAMD **4,014.0m** · F-35+11 **3,387.4m** · ASWF-3 **1,918.2m** · CSS **1,352.6m** · Joint land **1,535.5m** · mine warfare **1,170.9m**
+  - Mapped named packages sum **~27.1bn** of 33.8bn (residual RPAS/SOF/refuel/medical etc)
+  - DIRS: 3pct defence budget + complements **35-51m/yr** const26
+- Wrote: sources +1; budgets +68; cmt +1; lb +7; entity; FOI **gap_lpm_contract_cash_2026_34** ready prio7; rq_385=done; spawn **rq_386**; ticks=394
+- FOI: signed contract cash-by-year human send only
+- Next: prio5 **rq_386**; deferred **rq_116** SWA
