@@ -2773,3 +2773,19 @@ bud_vl_dkbuza_sn_bbt_2026,vlaanderen_gov,2026,8971000,,,budgeted,src_vl_bbt_fit_
 bud_wbi_wal_dot_2026,wbi,2026,30098000,,,budgeted,src_wal_bud27_wbi_dot_2026,strong,DF 019.003 Relations exterieures: WAL dotation WBI 30.098m 2026
 bud_wbi_wal_dot_2025,wbi,2025,30698000,,,budgeted,src_wal_bud27_wbi_dot_2026,strong,Implied: 2026 30.098 + 0.600 cut = 30.698m 2025 base (Dolimont -600k vs 2025)
 bud_wbi_fwb_wal_dots_sum_2026,wbi,2026,73043000,,,budgeted,src_wal_bud27_wbi_dot_2026,strong,Derived: FWB 42.945 + WAL 30.098 = 73.043m dual dots 2026; residual to total liq class own/EU/COCOF
+bud_enabel_op_rev_2025,enabel,2025,435600343,,,outturn,src_enabel_ar_2025_26,strong,AR: operating revenue 435.600m 2025
+bud_enabel_op_rev_2024,enabel,2024,357089576,,,outturn,src_enabel_ar_2025_26,strong,AR: operating revenue 357.090m 2024
+bud_enabel_turnover_2025,enabel,2025,407097008,,,outturn,src_enabel_ar_2025_26,strong,Turnover 407.097m 2025
+bud_enabel_turnover_2024,enabel,2024,329159608,,,outturn,src_enabel_ar_2025_26,strong,Turnover 329.160m 2024
+bud_enabel_op_costs_2025,enabel,2025,438055645,,,outturn,src_enabel_ar_2025_26,strong,Operating costs 438.056m 2025
+bud_enabel_op_costs_2024,enabel,2024,363720256,,,outturn,src_enabel_ar_2025_26,strong,Operating costs 363.720m 2024
+bud_enabel_staff_costs_2025,enabel,2025,91021649,,,outturn,src_enabel_ar_2025_26,strong,Staff costs 91.022m 2025 (~21pct of op costs)
+bud_enabel_staff_costs_2024,enabel,2024,80167734,,,outturn,src_enabel_ar_2025_26,strong,Staff costs 80.168m 2024
+bud_enabel_volume_2021,enabel,2021,303000000,,,outturn,src_enabel_ar_2025_26,strong,Volume chart 303m 2021
+bud_enabel_volume_2022,enabel,2022,340000000,,,outturn,src_enabel_ar_2025_26,strong,Volume chart 340m 2022
+bud_enabel_volume_2023,enabel,2023,335000000,,,outturn,src_enabel_ar_2025_26,strong,Volume chart 335m 2023
+bud_enabel_volume_2024_chart,enabel,2024,357000000,,,outturn,src_enabel_ar_2025_26,strong,Volume chart 357m 2024 (matches op rev class)
+bud_enabel_volume_2025_chart,enabel,2025,435000000,,,outturn,src_enabel_ar_2025_26,strong,Volume chart +435m 2025
+bud_enabel_staff_headcount_2026,enabel,2026,2369,,,outturn,src_enabel_ar_2025_26,strong,Staff 2369 at 1/1/2026 path (2385 peak 2025)
+bud_enabel_assets_2025,enabel,2025,217367384,,,outturn,src_enabel_ar_2025_26,strong,Total assets 217.367m end-2025
+bud_enabel_assets_2024,enabel,2024,221899107,,,outturn,src_enabel_ar_2025_26,strong,Total assets 221.899m end-2024

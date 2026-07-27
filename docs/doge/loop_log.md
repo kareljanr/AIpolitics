@@ -2798,3 +2798,15 @@ Append-only. Each tick adds a short entry.
 - Waste top10: **stable** cheque/fossil/company cars/EIWT; dual hole-fills are core economic not pure waste
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_251=done
 - Next: prio5 **rq_252**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-29T17:30:00Z — tick 261
+- Unit: **rq_252** (FOI-adjacent hole-fill — **Enabel dual APEFE development cooperation**)
+- Found (strong primary Enabel AR 2025-26):
+  - **Enabel operating revenue EUR 435.600m** 2025 (357.090m 2024; +22pct).
+  - Turnover **407.097m**; op costs **438.056m**; staff costs **91.022m**; staff **2,369**.
+  - Volume path 2021-25: 303 / 340 / 335 / 357 / **435** m; 200 ongoing projects.
+  - Dual **APEFE** regional: structure public (20 HQ + 52 abroad + 6 expats; linked WBI AG); full budget residual FOI.
+  - Partners include Flanders, BCR, Walloon Region + large EU share class.
+- Wrote: sources +2; entities enabel+apefe; budgets +16; cmt +2; lb +3; FOI gap_apefe_budget_total ready; draft; raw PDFs; rq_252=done; spawn rq_253; ticks=261
+- FOI: APEFE total budget human send
+- Next: prio5 **rq_253**; deferred **rq_116** SWA
