@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T23:00:00Z,rq_263,272,no,Scheduler 60s. Next prio5 rq_264; rq_116 SWA deferred. FOI ready human send. tick272 KCE RIZIV 22.5m.
+main,continuous,hole_fill,2026-07-29T23:30:00Z,rq_264,273,no,Scheduler 60s. Next prio5 rq_265; rq_116 SWA deferred. FOI ready human send. tick273 e-health 132.5m + FAM.

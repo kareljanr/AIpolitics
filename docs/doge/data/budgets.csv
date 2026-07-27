@@ -2957,3 +2957,13 @@ bud_kce_riziv_transfer_2025,kce,2025,22483000,,,budgeted,src_inami_kce_transfer_
 bud_kce_toelage_2025_exact,kce,2025,22482228,,,budgeted,src_kce_toelage_2026_press,medium,Press exact 22.482228m 2025 RIZIV admin toelage (reconciles 22.483k table)
 bud_kce_toelage_2026,kce,2026,26447351,,,budgeted,src_kce_toelage_2026_press,medium,Ministerraad KB draft 26.447351m 2026 (+3.965m +17.6pct vs 2025); medium pending BS
 bud_kce_delta_2025_26,kce,2026,3965123,,,budgeted,src_kce_toelage_2026_press,medium,Delta 2026-2025 = 3.965123m
+bud_inami_esante_2025,ehealth_platform,2025,113436000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI diverse uitgaven e-gezondheid / e-sante 113.436 kEUR 2025
+bud_inami_ehealth_dot_2025,ehealth_platform,2025,19112000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI Dotatie e-health 19.112 kEUR 2025
+bud_inami_ehealth_stack_2025,ehealth_platform,2025,132548000,,,budgeted,src_inami_ehealth_fam_2025,strong,Derived e-sante + e-health dot 113.436+19.112=132.548m 2025
+bud_fam_dotation_2025,fam_med_accidents,2025,26516000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI Dotatie fonds medische ongevallen 26.516 kEUR 2025
+bud_fam_cum_indemn_2024,fam_med_accidents,2024,101100000,,,outturn,src_inami_ehealth_fam_2025,strong,CoA: cum indemnities paid 101.1m end-2024 (was 16.3m end-2018)
+bud_fam_ops_cost_2023,fam_med_accidents,2023,12400000,,,outturn,src_inami_ehealth_fam_2025,strong,CoA: total cost excl indemnities 12.4m 2023 (was 6.4m end-2018)
+bud_fam_open_cases_2024,fam_med_accidents,2024,0,,,outturn,src_inami_ehealth_fam_2025,strong,Open cases 989 end-2024 (was 2445 end-2019 1066 end-2023); amount 0 count
+bud_inami_afmps_dot_2025,afmps,2025,3443000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI Dotatie FAGG/AFMPS 3.443 kEUR 2025 (vs AFMPS RA INAMI recettes 3.677m 2024)
+bud_inami_beheers_total_2025,sec_ss,2025,1188516000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI beheerskosten total 1.188516 bn 2025 (OA admin 988m + KCE 22.5m + other)
+bud_inami_oa_admin_2025,sec_ss,2025,988052000,,,budgeted,src_inami_ehealth_fam_2025,strong,Administratiekosten VIs / OA 988.052m 2025 (dual mutual admin map)

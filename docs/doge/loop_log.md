@@ -2944,3 +2944,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity kce; budgets +4; cmt +1; lb +3; FOI gap_kce_jaarrekening_2024_26 ready; draft; raw INAMI PDF; rq_263=done; spawn rq_264; ticks=272
 - FOI: KCE jaarrekening + 2026 BS human send; AGMJ residual still ready
 - Next: prio5 **rq_264**; deferred **rq_116** SWA
+
+### 2026-07-29T23:30:00Z — tick 273
+- Unit: **rq_264** (FOI-adjacent hole-fill — **INAMI e-health stack + FAM dual health SS**)
+- Found (strong primary INAMI 2025 + CoA FAM Nov 2025):
+  - **e-gezondheid / e-santé €113.436m** + **Dotatie e-health €19.112m** = **€132.548m** stack 2025.
+  - **FAM** INAMI dotatie **€26.516m** 2025; CoA: cum indemn **€101.1m** end-2024; ops excl indemn **€12.4m** 2023; open cases **989** (was 2445 end-2019).
+  - INAMI OA admin **€988.052m**; AFMPS INAMI line **€3.443m** 2025 cross-check.
+  - Dual digital health + patient safety next to KCE/AFMPS/Sciensano/FAVV map.
+- Wrote: sources +1; entities ehealth+fam; budgets +10; cmt +2; lb +4; FOI gap_ehealth_l5_vendors ready; draft; raw CoA PDF; rq_264=done; spawn rq_265; ticks=273
+- FOI: e-health L5 vendors human send; AGMJ residual still ready
+- Next: prio5 **rq_265**; deferred **rq_116** SWA
