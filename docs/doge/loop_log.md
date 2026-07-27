@@ -3869,3 +3869,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +2; budgets +19; cmt +1; lb +3; FOI gap_sport_vl_adeps_l5 ready; rq_337=done; spawn rq_338; ticks=346
 - FOI: L5 federations both sides + ADEPS SACA/Loterie ready human send
 - Next: prio5 **rq_338**; deferred **rq_116** SWA
+
+### 2026-07-31T12:15:00Z - tick 347
+- Unit: **rq_338** (FOI-adjacent hole-fill - **FWO + FNRS dual community research**)
+- Found (strong primary FWO JV2024/2025 + FNRS RA2024):
+  - **FWO VL vastlegging:** **€470.342m** BA2024 · **€448.182m** BA2025.
+  - **FWO vereffening total:** **€436.818m** 2024 · **€464.623m** 2025.
+  - FO projects vast 2024 **€180.070m** / mandaten **€109.378m**; SBO proj **€51.460m** + mand **€43.005m**; infra **€66.176m**.
+  - Beheerskosten **€19.324m** (4.11% 2024) · **€23.107m** (5.16% 2025).
+  - **FNRS public subsidies 2024:** **€241.818m** (FWB **€173.540m** · fed IISN/FRSM **€40.327m** · WAL **€19.932m** · LN **€8.020m**).
+  - FNRS total resources **€262.183m** (incl Telvie **€10.871m** + dons **€8.997m**).
+  - Spend: mandats **€152.957m** · projets **€93.259m** · admin **€15.271m**.
+  - **Dual class 2024 ~€712m** (FWO vast 470.3 + FNRS public 241.8; not TE-additive).
+- Wrote: sources +3; entities +2; budgets +24; cmt +1; lb +3; FOI gap_fwo_fnrs_l5 ready; rq_338=done; spawn rq_339; ticks=347
+- FOI: L5 awards both funds + federal cash path ready human send
+- Next: prio5 **rq_339**; deferred **rq_116** SWA

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:45:00Z,rq_337,346,no,Scheduler 60s. Next prio5 rq_338; rq_116 SWA deferred. FOI ready. tick346 Sport VL+ADEPS dual.
+main,continuous,hole_fill,2026-07-31T12:15:00Z,rq_338,347,no,Scheduler 60s. Next prio5 rq_339; rq_116 SWA deferred. FOI ready. tick347 FWO+FNRS dual research.
