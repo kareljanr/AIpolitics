@@ -3094,3 +3094,19 @@ bud_fsma_surplus_return_2024,fsma,2024,7907000,,,outturn,src_fsma_jv_2024,strong
 bud_fsma_assets_2024,fsma,2024,80226000,,,outturn,src_fsma_jv_2024,strong,Balanstotaal 80.226 kEUR end-2024
 bud_fsma_staff_2024,fsma,2024,375,,,outturn,src_fsma_jv_2024,strong,Headcount 375 end-2024 (353 VTE register; 350.5 operational VTE); amount is count
 bud_fsma_staff_max_vte,fsma,2024,399,,,outturn,src_fsma_jv_2024,strong,Max operational VTE ceiling 399 (KB financing)
+bud_nbb_personeel_2024,nbb,2024,335693000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,P&L personeelskosten 335.693m 2024 (kEUR table)
+bud_nbb_personeel_2023,nbb,2023,451341000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Personeelskosten 451.341m 2023 (elevated vs 320m 2022 path)
+bud_nbb_personeel_2022,nbb,2022,319980000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Personeelskosten 319.980m 2022
+bud_nbb_beheers_2024,nbb,2024,131305000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Beheerskosten 131.305m 2024 (ICT/admin 43.9 building 12.7 third parties 37.9 tax 6.4)
+bud_nbb_beheers_2023,nbb,2023,120397000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Beheerskosten 120.397m 2023
+bud_nbb_afschrijvingen_2024,nbb,2024,10009000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Afschrijvingen 10.009m 2024
+bud_nbb_biljetten_2024,nbb,2024,9620000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Productiekosten bankbiljetten 9.620m 2024
+bud_nbb_ops_pack_2024,nbb,2024,486627000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Ops pack personeel+beheers+afschr+biljetten 335.7+131.3+10.0+9.6=486.6m 2024
+bud_nbb_loss_2024,nbb,2024,3678961000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Boekjaarverlies 3.678961bn 2024 (monetary policy not ops waste)
+bud_nbb_loss_2023,nbb,2023,3370413000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Verlies 3.370bn 2023
+bud_nbb_overige_baten_2024,nbb,2024,220485000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Overige baten 220.485m incl recoveries
+bud_nbb_prudential_recovery_2024,nbb,2024,134100000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Prudentieel toezicht recovery 134.1m from supervised (art12bis); dual FSMA
+bud_nbb_prudential_banks_2024,nbb,2024,85800000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Prudential costs banks+beursvennootschappen 85.8m 2024
+bud_nbb_prudential_ins_2024,nbb,2024,46800000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Prudential costs verzekeraars 46.8m 2024
+bud_nbb_prudential_other_2024,nbb,2024,1500000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Other supervised institutions 1.5m 2024
+bud_nbb_balanscentrale_pack_2024,nbb,2024,55500000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Balanscentrale+credit centrales+CAP recoveries 55.5m 2024

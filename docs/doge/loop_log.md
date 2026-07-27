@@ -3057,3 +3057,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity fsma; budgets +14; cmt +1; lb +4; FOI gap_fsma_budget_2025_26 ready; draft; raw JV; rq_272=done; spawn rq_273; ticks=281
 - FOI: FSMA 2025 budget detail human send; AGMJ residual still ready
 - Next: prio5 **rq_273**; deferred **rq_116** SWA
+
+### 2026-07-30T03:45:00Z - tick 282
+- Unit: **rq_273** (FOI-adjacent hole-fill - **NBB ops dual FSMA prudential**)
+- Found (strong primary NBB Ondernemingsverslag 2024):
+  - Personeelskosten **EUR 335.7m 2024** (451.3m 2023 spike; 320.0m 2022).
+  - Beheerskosten **131.3m** (ICT 43.9 + third parties 37.9 + building 12.7 + tax 6.4).
+  - Ops pack **486.6m** 2024; biljetten 9.6m; afschr 10.0m.
+  - **Prudentieel recovery EUR 134.1m** (banks 85.8 + ins 46.8 + other 1.5) dual FSMA.
+  - Overige baten 220.5m (balanscentrale pack 55.5m).
+  - Boekjaarverlies **3.679bn** monetary (not ops waste); reserves depleted.
+- Wrote: sources +1; entity nbb; budgets +16; cmt +1; lb +5; FOI gap_nbb_fte ready; draft; raw OV; rq_273=done; spawn rq_274; ticks=282
+- FOI: NBB FTE/ops-split human send; AGMJ residual still ready
+- Next: prio5 **rq_274**; deferred **rq_116** SWA
