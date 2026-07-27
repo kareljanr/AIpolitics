@@ -1561,3 +1561,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities 4; sources 1; budgets ~31; cmt 5; lb 5; gap_univ notes partial; rq_158=done; seeded **rq_159**.
 - FOI: gap_univ residual AHOVOKS exact matrix + FWB institutional still **ready** human send (prio 6).
 - Next: prio5 **rq_159**; deferred **rq_116** SWA.
+
+### 2026-07-28T04:45:00Z — tick 164
+- Unit: **rq_159** (FOI-adjacent hole-fill — **bpost Consolidated AR 2024 SGEI package**)
+- Found (strong primary consol AR PDF, note 6.7 + related-party):
+  - **SGEI remuneration:** **EUR 227.8m 2024** / **311.9m 2023** (−84.1m y/y).
+  - Method: net avoided cost (NAC); 7th management contract SGEIs (retail network ≥1300 points, cash-at-counter, pensions, ad-hoc) + press newspapers/periodicals **until 2024-06-30**.
+  - **USO:** dedicated management contract signed **2023-11-09**, USO provider to **2028-12-31** (tariff/regulatory; not equal to SGEI cash line).
+  - Op. income **4.341bn**; rev ex-SGEI **4.101bn** / 3.946bn; State share **9.5%** of op. income incl SGEI.
+  - Overcompensation provision **75.0m** (prior years, 3 services); SGEI receivable **74.6m** eoy2023 → **0** eoy2024.
+  - Dual series: NBB ESA D.31 **329m** 2024 vs SGEI **227.8m** → residual **~101m** medium perimeter gap (2023 gap only ~12m).
+- Wrote: sources 1; budgets 11; cmt 1; lb 2; gap_bpost notes partial prio7; rq_159=done; seeded **rq_160**.
+- FOI: gap_bpost residual L5 SGEI components + ESA residual still **ready** human send.
+- Next: prio5 **rq_160**; deferred **rq_116** SWA.
