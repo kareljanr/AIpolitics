@@ -3404,3 +3404,15 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets/commitments/leaderboard/entities/sources refreshed in progress file
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_300=done; ticks=310
 - Next: prio5 **rq_302**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-30T18:15:00Z - tick 311
+- Unit: **rq_302** (FOI-adjacent hole-fill - **Smals CoA deepen external IT + omzet split**)
+- Found (strong primary Rekenhof consultancy 2025 ch5):
+  - Smals omzet **573.6m 2024**: SS **62.9% (~361m)** / fed admin **25.4% (~146m)** / other **11.7% (~67m)**.
+  - External IT specialists billed to members **>EUR 206m 2024** (ProUnity broker path).
+  - Staff Dec2024 **2251** (1143 internal + 1108 detached); IT **77.9%** of headcount.
+  - External consultancy share of omzet **17.8%->36%** 2014-24; sole broker bidder risk.
+  - **Egov Select**: federal non-SS IT detachments dual Smals; absolute EUR FOI.
+- Wrote: sources +1; entity egov_select + smals note; budgets +7; cmt +3; lb +3; FOI gap_egov_select_budget ready; draft; gap_smals note; rq_302=done; spawn rq_303; ticks=311
+- FOI: Egov EUR + residual Smals L5 human send
+- Next: prio5 **rq_303** (Ypto NMBS IT dual candidate); deferred **rq_116** SWA

@@ -3832,3 +3832,10 @@ bud_fed_consultancy_niras_2020_22,niras,2022,129100000,,,estimate,src_ccrek_cons
 bud_fed_consultancy_smals_buy_2020_22,smals,2022,126100000,,,estimate,src_ccrek_consultancy_2025,strong,Smals as buyer 126.1m (79pct of its purchase budget) mainly external IT re-sold
 bud_fed_consultancy_riziv_2020_22,riziv,2022,115500000,,,estimate,src_ccrek_consultancy_2025,strong,RIZIV 115.5m (IH 27.7 + AO 87.9) = 48pct purchase budget
 bud_fed_cabinets_consultancy_2020_22,sec_federal,2022,6900000,,,estimate,src_ccrek_consultancy_2025,strong,Beleidsorganen cabinets: 6.9m over 3y; 5.9m from one Energy minister cabinets alone
+bud_smals_omzet_ss_share_2024,smals,2024,360794400,,,estimate,src_ccrek_smals_egov_2025,strong,CoA: 62.9pct of 573.6m omzet to social security institutions ~360.8m
+bud_smals_omzet_fed_admin_share_2024,smals,2024,145694400,,,estimate,src_ccrek_smals_egov_2025,strong,CoA: 25.4pct of omzet to federal administrations ~145.7m
+bud_smals_omzet_other_share_2024,smals,2024,67111200,,,estimate,src_ccrek_smals_egov_2025,strong,CoA: 11.7pct other members ~67.1m
+bud_smals_external_it_specialists_2024,smals,2024,206000000,,,outturn,src_ccrek_smals_egov_2025,strong,CoA: Smals billed members >206m EUR 2024 for external IT specialists (ProUnity broker path)
+bud_smals_staff_dec_2024,smals,2024,2251,,,outturn,src_ccrek_smals_egov_2025,strong,CoA Dec2024: 2251 employees (1143 internal + 1108 detached); IT 77.9pct of headcount; not EUR
+bud_smals_detached_dec_2024,smals,2024,1108,,,outturn,src_ccrek_smals_egov_2025,strong,Detached at members 1108 eoy2024; not EUR
+bud_smals_ext_consultancy_share_omzet_2024,smals,2024,36,,,outturn,src_ccrek_smals_egov_2025,strong,External IT consultancy share of Smals omzet 36pct 2024 (was 17.8pct 2014); amount is percent not EUR
