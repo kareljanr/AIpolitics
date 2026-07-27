@@ -3437,3 +3437,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity tuc_rail; budgets +9; cmt +2; lb +3; FOI gap_tuc_rail_clients_l5 ready; draft; rq_304=done; spawn rq_305; ticks=313
 - FOI: client mix + subcontractors human send
 - Next: prio5 **rq_305** (HR Rail deepen dual candidate); deferred **rq_116** SWA
+
+### 2026-07-30T19:45:00Z - tick 314
+- Unit: **rq_305** (FOI-adjacent hole-fill - **ETNIC FWB ICT dual Digipolis/Smals/Ypto**)
+- Found (strong primary CoA FWB Budget 2024A/2025I + medium RTBF minister):
+  - **Recettes** adj2024 **EUR 124.058m** / init2025 **132.841m**.
+  - **Liquidation** 124.058m / **143.729m**; **engagement** 180.024m / **200.356m**.
+  - Reserve repay to FWB **11.5m** (only OAP type1/2) drives deficit **10.9m** else **+0.6m**.
+  - Staff **~380** medium (Galant/RTBF); OAP type1 WBFin II.
+  - Dual ICT stack map: Smals **579m** / Digipolis **246m** / ETNIC **124-144m** / Ypto **140m** (not additive TE).
+- Wrote: sources +2; entity etnic; budgets +9; cmt +3; lb +3; FOI gap_etnic_l5_vendors ready; draft; raw CoA PDF; rq_305=done; spawn rq_306; ticks=314
+- FOI: ETNIC L5 vendors + FTE outturn human send
+- Next: prio5 **rq_306** (Cipal Schaubroeck dual Digipolis candidate); deferred **rq_116** SWA
+

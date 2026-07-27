@@ -3859,3 +3859,12 @@ bud_tuc_net_2025,tuc_rail,2025,-2228139,,,outturn,src_tuc_rail_companyweb_nbb,st
 bud_tuc_equity_2025,tuc_rail,2025,24876841,,,outturn,src_tuc_rail_companyweb_nbb,strong,Equity 24.876841m eoy2025
 bud_tuc_gross_margin_2025,tuc_rail,2025,82545934,,,outturn,src_tuc_rail_companyweb_nbb,strong,Gross margin 82.545934m 2025
 bud_tuc_fte_2025,tuc_rail,2025,731,,,outturn,src_tuc_rail_companyweb_nbb,strong,FTE 730.6 2025 (727 2024; 716.4 2023; 716.8 2022); not EUR
+bud_etnic_recettes_2024,etnic,2024,124058426,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Etnic recettes projet budget ajuste 2024 124058426 EUR CoA
+bud_etnic_liq_2024,etnic,2024,124058426,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Etnic credits de liquidation ajuste 2024 124058426 EUR
+bud_etnic_eng_2024,etnic,2024,180024224,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Etnic credits d engagement ajuste 2024 180024224 EUR
+bud_etnic_recettes_2025,etnic,2025,132840803,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Etnic recettes projet budget initial 2025 132840803 EUR CoA
+bud_etnic_liq_2025,etnic,2025,143728841,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Etnic credits de liquidation initial 2025 143728841 EUR
+bud_etnic_eng_2025,etnic,2025,200355745,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Etnic credits d engagement initial 2025 200355745 EUR
+bud_etnic_reserve_repay_2025,etnic,2025,11500000,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Remboursement reserves Etnic a FWB 11.5m 2025 (deficit driver)
+bud_etnic_solde_2025,etnic,2025,-10900000,,,budgeted,src_ccrek_fwb_etnic_budget_2024_25,strong,Solde budgetaire deficit 10.9m 2025 after reserve repay; without repay +0.6m
+bud_etnic_staff_2024,etnic,2024,380,,,outturn,src_rtbf_etnic_reset_2025,medium,Minister Galant via RTBF: 380 agents 2024 class; official FTE FOI
