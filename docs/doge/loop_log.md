@@ -3426,3 +3426,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity ypto; budgets +11; cmt +2; lb +3; FOI gap_ypto_external_l5 ready; draft; rq_303=done; spawn rq_304; ticks=312
 - FOI: Ypto external L5 + NMBS recharge human send
 - Next: prio5 **rq_304** (TUC Rail dual candidate); deferred **rq_116** SWA
+
+### 2026-07-30T19:15:00Z - tick 313
+- Unit: **rq_304** (FOI-adjacent hole-fill - **TUC Rail dual Ypto/Smals**)
+- Found (strong NBB/Companyweb + TUC site):
+  - Omzet **173.4 / 190.3 / 184.5 / 182.1m** 2022-25; site **184m** 2024.
+  - FTE **731** 2025; net **+1.11m 2024 / -2.23m 2025**.
+  - Owner **Infrabel 100%**; rail engineering studies (CoA top service provider with Smals/Ypto).
+  - Dual stack: Ypto **140m** + TUC **182m** ~**322m** 2025 statutory pair; Smals SS **579m** separate.
+- Wrote: sources +1; entity tuc_rail; budgets +9; cmt +2; lb +3; FOI gap_tuc_rail_clients_l5 ready; draft; rq_304=done; spawn rq_305; ticks=313
+- FOI: client mix + subcontractors human send
+- Next: prio5 **rq_305** (HR Rail deepen dual candidate); deferred **rq_116** SWA

@@ -3850,3 +3850,12 @@ bud_ypto_gross_margin_2025,ypto,2025,64107057,,,outturn,src_ypto_companyweb_nbb,
 bud_ypto_fte_2025,ypto,2025,445,,,outturn,src_ypto_companyweb_nbb,strong,FTE 445 2025 (391.3 2024; 341.7 2023; 291.2 2022); not EUR
 bud_ypto_nmbs_ih_staff_coa,ypto,2022,104200000,,,estimate,src_ccrek_ypto_nmbs_ih,strong,CoA 2020-22 survey: Ypto internal staff performances 104.2m counted as in-house
 bud_ypto_nmbs_total_claim_coa,ypto,2022,296700000,,,estimate,src_ccrek_ypto_nmbs_ih,medium,NMBS classification: all Ypto services to NMBS 296.7m as IH (includes Ypto-procured external); CoA disputes full IH label
+bud_tuc_omzet_2022,tuc_rail,2022,173410436,,,outturn,src_tuc_rail_companyweb_nbb,strong,NBB-derived omzet 173.410436m 2022
+bud_tuc_omzet_2023,tuc_rail,2023,190323429,,,outturn,src_tuc_rail_companyweb_nbb,strong,NBB-derived omzet 190.323429m 2023
+bud_tuc_omzet_2024,tuc_rail,2024,184493746,,,outturn,src_tuc_rail_companyweb_nbb,strong,NBB-derived omzet 184.493746m 2024; site key figure 184m
+bud_tuc_omzet_2025,tuc_rail,2025,182065313,,,outturn,src_tuc_rail_companyweb_nbb,strong,NBB-derived omzet 182.065313m 2025 (-1.3pct)
+bud_tuc_net_2024,tuc_rail,2024,1113241,,,outturn,src_tuc_rail_companyweb_nbb,strong,Net result 1.113241m 2024
+bud_tuc_net_2025,tuc_rail,2025,-2228139,,,outturn,src_tuc_rail_companyweb_nbb,strong,Net result -2.228139m 2025 (loss)
+bud_tuc_equity_2025,tuc_rail,2025,24876841,,,outturn,src_tuc_rail_companyweb_nbb,strong,Equity 24.876841m eoy2025
+bud_tuc_gross_margin_2025,tuc_rail,2025,82545934,,,outturn,src_tuc_rail_companyweb_nbb,strong,Gross margin 82.545934m 2025
+bud_tuc_fte_2025,tuc_rail,2025,731,,,outturn,src_tuc_rail_companyweb_nbb,strong,FTE 730.6 2025 (727 2024; 716.4 2023; 716.8 2022); not EUR
