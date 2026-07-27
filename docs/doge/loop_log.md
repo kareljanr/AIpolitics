@@ -4053,3 +4053,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: `progress_every_10_ticks.md` + `doge_waste_top10_current.md`; rq_351=done; spawn **rq_352**; ticks=360
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_352** hole-fill; deferred **rq_116** SWA
+
+### 2026-07-31T19:15:00Z - tick 361
+- Unit: **rq_352** (FOI-adjacent hole-fill - **dual adult formal education FWB DO56 + VL volwassenenonderwijs/DKO residual**)
+- Found (strong primary FWB exp. particulier + VL commissie Onderwijs 15-7-H):
+  - FWB **DO56 Enseignement pour adultes** CE=CL **EUR 267.547m** 2026 (2025: 261.751m):
+    - personnel **251.737m** (~94%) · fonctionnement ecoles **9.132m**
+    - initiatives emploi **2.372m** · transversales **2.368m** · echec **1.830m**
+  - FWB **DO58** distance **2.372m**; **DO57** artistique horaire reduit **142.473m** + superieur artistique **119.128m** (dual DKO/conservatories class).
+  - VL Onderwijs total VEK **EUR 17.24bn** / VAK **17.25bn**; DKO+VO **+44.2m / +4.7%** (VO alone +5.5%); absolute VO/DKO ISE residual FOI.
+  - Dual adult formal floor **FWB 267.5m** strong; VL absolute residual (not invented dual sum).
+- Wrote: entities +3; sources +2; budgets +14; cmt +1; lb +5; FOI **gap_adult_edu_dual_vl_fwb_l5** ready + draft; rq_352=done; spawn **rq_353**; ticks=361
+- FOI: VL VO/DKO ISE absolute + FWB school L5 human send only
+- Next: prio5 **rq_353**; deferred **rq_116** SWA

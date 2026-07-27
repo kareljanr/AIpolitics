@@ -4420,3 +4420,17 @@ bud_fwb_org_jeunesse_2026,fwb_jeunesse_do23,2026,26822000,,,budgeted,src_fwb_exp
 bud_fwb_centres_jeunes_2026,fwb_jeunesse_do23,2026,34811000,,,budgeted,src_fwb_exp_part_dep_2026_jeunesse,strong,Subventions centres de jeunes CL 34.811m 2026 (CE 35.473m)
 bud_fwb_ep_do23_cl_2026,fwb_jeunesse_do23,2026,44604000,,,budgeted,src_fwb_exp_part_dep_2026_jeunesse,strong,DO23 prog 3 Education permanente CL 44.604m (dual VL SCW not dual youth core)
 bud_youth_dual_vl_fwb_2026,jeugd_cjm_vl,2026,139598000,,,budgeted,src_vl_bbt_jeugd_bo2026,medium,Illustrative dual recreational youth: VL ISE 72.461 + FWB DO23 Jeunesse CL 67.137 ~139.6m; not TE-additive; excludes Aide a la Jeunesse 470m and VL jeugdhulp
+bud_fwb_epa_do56_2026,fwb_enseignement_adultes,2026,267547000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 Enseignement pour adultes CE=CL 267.547m 2026
+bud_fwb_epa_do56_2025,fwb_enseignement_adultes,2025,261751000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 CE=CL 261.751m 2025
+bud_fwb_epa_personnel_2026,fwb_enseignement_adultes,2026,251737000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 prog4 personnel 251.737m 2026 (~94pct)
+bud_fwb_epa_fonctionnement_2026,fwb_enseignement_adultes,2026,9132000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 prog5 fonctionnement ecoles 9.132m
+bud_fwb_epa_initiatives_emploi_2026,fwb_enseignement_adultes,2026,2372000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 prog6 initiatives RW/RBC emploi 2.372m
+bud_fwb_epa_transversal_2026,fwb_enseignement_adultes,2026,2368000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 prog8 initiatives transversales 2.368m
+bud_fwb_epa_echec_2026,fwb_enseignement_adultes,2026,1830000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO56 prog7 lutte echec scolaire 1.830m
+bud_fwb_ead_do58_2026,fwb_enseignement_adultes,2026,2372000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO58 Enseignement a distance CE=CL 2.372m 2026
+bud_fwb_artistique_horaire_reduit_2026,fwb_enseignement_artistique,2026,142473000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO57 enseignement a horaire reduit total 142.473m (personnel 136.871 fonct 5.102) dual VL DKO class
+bud_fwb_artistique_superieur_2026,fwb_enseignement_artistique,2026,119128000,,,budgeted,src_fwb_exp_part_dep_2026_epa,strong,DO57 etablissements enseignement superieur artistique 119.128m (personnel 98.651 fonct 20.291)
+bud_vl_onderwijs_total_vek_2026,vlaanderen_gov,2026,17240000000,,,budgeted,src_vl_commissie_onderwijs_2026,strong,Onderwijs en Vorming total VEK 17.24bn BO2026 (VAK 17.25bn)
+bud_vl_onderwijs_total_vak_2026,vlaanderen_gov,2026,17250000000,,,budgeted,src_vl_commissie_onderwijs_2026,strong,Onderwijs en Vorming total VAK 17.25bn BO2026
+bud_vl_dko_vo_delta_2026,vl_volwassenenonderwijs,2026,44200000,,,budgeted,src_vl_commissie_onderwijs_2026,strong,DKO+volwassenenonderwijs combined +44.2m (+4.7pct) BO2026 vs BA2025; absolute ISE residual FOI
+bud_adult_edu_dual_class_2026,fwb_enseignement_adultes,2026,267547000,,,budgeted,src_fwb_exp_part_dep_2026_epa,medium,Dual floor: FWB DO56 267.5m strong; VL VO absolute residual FOI (DKO+VO class order ~1bn from +4.7pct on 44.2m rise); not TE-additive
