@@ -3172,3 +3172,15 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets ~3277 · commitments ~522 · leaderboard ~604 · entities ~232 · sources ~579 · FOI rows ~122
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_280=done; spawn continue; ticks=290
 - Next: prio5 **rq_282**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-30T08:15:00Z - tick 291
+- Unit: **rq_282** (FOI-adjacent hole-fill - **energy crisis social premiums + IRE/SCK nuclear passive**)
+- Found (strong primary Kamer 55K2933/016 FOD Economie Energie):
+  - **Mazout cheque EUR 207.9m 2022 / 143.85m 2023**; collective social tariff **113m** 2023.
+  - Social heating fund **~21m** path 2023-27 (38m 2022); pack 2023 sum **~278m**.
+  - **IRE passive waste+U ~8.7m/yr** BA 42.30.41.40.22; decom 62k; class need 14.9m.
+  - **SCK technical passive:** spend 11-14m/yr 2018-21; fund ~16m eoy2021; 5y need **95m**; propose **20m** liq from 2023; engagement residual **231.6m**.
+  - Dual ASEVA oil levy structural + Hedera nuclear CAP stock.
+- Wrote: sources +1; entities ire+heating fund (+fod_economy); budgets +23; cmt +3; lb +6; FOI gap_sck_ire_passive ready; draft; rq_282=done; ticks=291
+- FOI: SCK/IRE passive cash outturn human send; AGMJ residual still ready
+- Next: prio5 **rq_283**; deferred **rq_116** SWA

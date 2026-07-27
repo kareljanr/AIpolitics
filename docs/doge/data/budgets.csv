@@ -3276,3 +3276,26 @@ bud_aseva_heating_oil_sales_2023,aseva,2023,44600000,,,outturn,src_aseva_beleids
 bud_aseva_inventory_reval_2023,aseva,2023,-11000000,,,outturn,src_aseva_beleidsverslag_2023,strong,Voorraadherwaardering -11.0m 2023
 bud_aseva_obligation_ton_2023,aseva,2023,3307130,,,outturn,src_aseva_beleidsverslag_2023,strong,Voorraadplicht 3.307.130 ton rae year 2023; amount is tonnes
 bud_aseva_stock_days_2023,aseva,2023,90.58,,,outturn,src_aseva_beleidsverslag_2023,strong,Coverage 90.58 days end-2023; amount is days
+bud_mazout_cheque_2022,fod_economy,2022,207900000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.344103 prime mazout 300e + pellets eng=liq 207.9m 2022
+bud_mazout_cheque_2023,fod_economy,2023,143850000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.344103 143.85m 2023 (CM energy package)
+bud_social_tarif_collectif_2023,fod_economy,2023,113000000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.344104 social tariff collective heating installations 113m 2023
+bud_social_heating_fund_2021,fonds_social_chauffage,2021,12568000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.414001 eng 12.568m liq 8.746m
+bud_social_heating_fund_2022,fonds_social_chauffage,2022,38000000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.414001 38.0m eng=liq 2022
+bud_social_heating_fund_2023,fonds_social_chauffage,2023,21004000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.414001 21.004m 2023
+bud_social_heating_fund_2024,fonds_social_chauffage,2024,20999000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.414001 path ~21.0m 2024-27
+bud_social_heating_fund_2025,fonds_social_chauffage,2025,20994000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.40.414001 ~20.994m
+bud_ire_passive_waste_2021,ire_radioelements,2021,9065000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.30.41.40.22 IRE passive waste+U liq 9.065m eng 8.706m
+bud_ire_passive_waste_2022,ire_radioelements,2022,8685000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.30.41.40.22 liq 8.685m
+bud_ire_passive_waste_2023,ire_radioelements,2023,8607000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.30.41.40.22 liq 8.607m (eng 8.697m)
+bud_ire_passive_waste_2024,ire_radioelements,2024,8669000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.30.41.40.22 path ~8.67m liq 2024-27
+bud_ire_passive_waste_2025,ire_radioelements,2025,8669000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.30.41.40.22 ~8.669m
+bud_ire_passive_decom_annual,ire_radioelements,2023,62000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,BA 42.30.41.40.24 IRE decommissioning 62k/yr path
+bud_sck_passive_fund_eoy2021,sck_cen,2021,16000000,,,outturn,src_kamer_55k2933_energy_crisis_passive,strong,SCK technical passive fund at NIRAS ~16.0m eoy2021
+bud_sck_passive_5y_need_2021_25,sck_cen,2021,95000000,,,estimate,src_kamer_55k2933_energy_crisis_passive,medium,SCK 5y plan 2021-25 financing need 95m (SCK/NIRAS committee)
+bud_sck_passive_propose_liq_2023,sck_cen,2023,20000000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,medium,Proposed liquidation credit 20m/yr from 2023 for SCK passive (table shows 0 path may lag)
+bud_sck_passive_spend_2018,sck_cen,2018,11400000,,,outturn,src_kamer_55k2933_energy_crisis_passive,strong,SCK passive spend 11.4m 2018
+bud_sck_passive_spend_2019,sck_cen,2019,14300000,,,outturn,src_kamer_55k2933_energy_crisis_passive,strong,14.3m 2019
+bud_sck_passive_spend_2020,sck_cen,2020,12400000,,,outturn,src_kamer_55k2933_energy_crisis_passive,strong,12.4m 2020
+bud_sck_passive_spend_2021,sck_cen,2021,11100000,,,outturn,src_kamer_55k2933_energy_crisis_passive,strong,11.1m 2021
+bud_sck_passive_engagement_remaining,sck_cen,2022,231644000,,,commitment,src_kamer_55k2933_energy_crisis_passive,strong,Remaining engagement credit 231.644m; updated cap 161.379m
+bud_energy_crisis_social_pack_2023,fod_economy,2023,277854000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,Sum 2023: mazout 143.85 + collective 113 + heating fund 21.0 = 277.85m crisis social energy
