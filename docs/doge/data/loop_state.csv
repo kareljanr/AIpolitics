@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T10:45:00Z,rq_287,296,no,Scheduler 60s. Next prio5 rq_288; rq_116 SWA deferred. FOI ready. tick296 telecom 66.2m + Airbus 45m + BMA/FPB.
+main,continuous,hole_fill,2026-07-30T11:15:00Z,rq_288,297,no,Scheduler 60s. Next prio5 rq_289; progress@300 in 3 ticks; rq_116 SWA deferred. tick297 ETF awards 129.1m + 140 projects named.

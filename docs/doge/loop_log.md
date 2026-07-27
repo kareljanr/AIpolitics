@@ -3242,3 +3242,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities +4; budgets +~30; cmt +4; lb +5; FOI gap_telecom_airbus_l5 ready; draft; rq_287=done; spawn rq_288; ticks=296
 - FOI: telecom+Airbus L5 human send
 - Next: prio5 **rq_288**; deferred **rq_116** SWA
+
+### 2026-07-30T11:15:00Z - tick 297
+- Unit: **rq_288** (FOI-adjacent hole-fill - **Energy Transition Fund deepen**)
+- Found (strong primary Kamer 55K2933/016 + FOD overzicht Jul2026):
+  - Calls **I–VI** awards sum **€129.146m** / **84** projects (0.22+27.9+29.1+23.0+24.4+24.5m).
+  - BA **24.75m/yr** + ops **250k**; financed by Doel1&2 LTO fee **20m/yr** 2016–25.
+  - Public overzicht: **140** named projects calls I–X (Jul 2026); sample Elia/SCK/Fluxys/BASF/INOVYN SMR.
+  - Per-project EUR still opaque → FOI.
+- Wrote: sources +1; entity etf; budgets +calls/financing; cmt +3; lb +4; FOI gap_etf_project_eur_matrix ready; draft; raw PDF; rq_288=done; spawn rq_289; ticks=297
+- FOI: ETF EUR matrix human send
+- Next: prio5 **rq_289**; **progress@300 in 3 ticks**; deferred **rq_116** SWA

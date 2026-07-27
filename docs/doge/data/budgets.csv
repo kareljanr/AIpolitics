@@ -3508,3 +3508,35 @@ bud_fpb_dotatie_2024,fpb_planbureau,2024,11798000,,,budgeted,src_kamer_55k2933_t
 bud_fpb_dotatie_2025,fpb_planbureau,2025,11828000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
 bud_fpb_dotatie_2026,fpb_planbureau,2026,11858000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
 bud_fpb_dotatie_2027,fpb_planbureau,2027,11888000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_etf_ba_2021,etf_energy_transition_fund,2021,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ba_2022,etf_energy_transition_fund,2022,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ba_2023,etf_energy_transition_fund,2023,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ba_2024,etf_energy_transition_fund,2024,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ba_2025,etf_energy_transition_fund,2025,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ba_2026,etf_energy_transition_fund,2026,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ba_2027,etf_energy_transition_fund,2027,24750000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.313201 eng=liq flat 24.75m path Kamer 2023 multi-year
+bud_etf_ops_2022,etf_energy_transition_fund,2022,250000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 ETF operating costs external auditor+technical experts path 250k
+bud_etf_ops_2023,etf_energy_transition_fund,2023,250000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 ETF operating costs external auditor+technical experts path 250k
+bud_etf_ops_2024,etf_energy_transition_fund,2024,250000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 ETF operating costs external auditor+technical experts path 250k
+bud_etf_ops_2025,etf_energy_transition_fund,2025,250000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 ETF operating costs external auditor+technical experts path 250k
+bud_etf_ops_2026,etf_energy_transition_fund,2026,250000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 ETF operating costs external auditor+technical experts path 250k
+bud_etf_ops_2027,etf_energy_transition_fund,2027,250000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 ETF operating costs external auditor+technical experts path 250k
+bud_etf_ops_2021,etf_energy_transition_fund,2021,155000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,BA 42.90.121101 liq 155k 2021 (eng 224k)
+bud_etf_call1_award,etf_energy_transition_fund,2017,221827,,,outturn,src_kamer_etf_deepen_2023_26,strong,Call 1 total subsidy awarded to 1 projects; Jun2017 award 2017; Kamer 55K2933/016
+bud_etf_call2_award,etf_energy_transition_fund,2017,27912262,,,outturn,src_kamer_etf_deepen_2023_26,strong,Call 2 total subsidy awarded to 17 projects; Dec2017 award Jul2018; Kamer 55K2933/016
+bud_etf_call3_award,etf_energy_transition_fund,2018,29112383,,,outturn,src_kamer_etf_deepen_2023_26,strong,Call 3 total subsidy awarded to 17 projects; Aug2018 award Sep2019; Kamer 55K2933/016
+bud_etf_call4_award,etf_energy_transition_fund,2019,23006075,,,outturn,src_kamer_etf_deepen_2023_26,strong,Call 4 total subsidy awarded to 15 projects; Oct2019 award Jun2020; Kamer 55K2933/016
+bud_etf_call5_award,etf_energy_transition_fund,2020,24357268,,,outturn,src_kamer_etf_deepen_2023_26,strong,Call 5 total subsidy awarded to 14 projects; Nov2020 award Jun2021; Kamer 55K2933/016
+bud_etf_call6_award,etf_energy_transition_fund,2021,24536176,,,outturn,src_kamer_etf_deepen_2023_26,strong,Call 6 total subsidy awarded to 20 projects; Nov2021 award Jun2022; Kamer 55K2933/016
+bud_etf_calls_I_VI_sum,etf_energy_transition_fund,2022,129145991,,,outturn,src_kamer_etf_deepen_2023_26,strong,Sum awards calls I-VI 129.145991m across 84 projects (Kamer tables)
+bud_etf_call7_budget_2023,etf_energy_transition_fund,2023,25000000,,,budgeted,src_kamer_etf_deepen_2023_26,strong,Call VII Nov2022 planned budget 25m 2023 (Kamer text)
+bud_etf_doel12_lto_fee_2016,etf_energy_transition_fund,2016,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2017,etf_energy_transition_fund,2017,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2018,etf_energy_transition_fund,2018,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2019,etf_energy_transition_fund,2019,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2020,etf_energy_transition_fund,2020,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2021,etf_energy_transition_fund,2021,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2022,etf_energy_transition_fund,2022,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2023,etf_energy_transition_fund,2023,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2024,etf_energy_transition_fund,2024,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_etf_doel12_lto_fee_2025,etf_energy_transition_fund,2025,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
