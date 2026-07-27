@@ -2263,3 +2263,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 12; cmt 3; lb 3; entities 2; foi note; rq_209=done; seeded **rq_210**.
 - FOI: AG SO side-PC + MPA capital + VESPA/CIA/Energie + Digipolis personnel + Mons BI2026 human send.
 - Next: prio5 **rq_210**; deferred **rq_116** SWA.
+
+### 2026-07-28T22:25:00Z - tick 217
+- Unit: **rq_210** (FOI-adjacent hole-fill - **AG VESPA + CIA/Erfgoed + Energiebesparingsfonds** 2026)
+- Found (strong ebesluit college 13 Feb 2026 batch):
+  - **VESPA package locked EUR 6.011m**: werk **3.469m** (project 2.589 + housing lines 0.88) + invest **2.543m**; register 0.1m not locked.
+  - **CIA/Erfgoed package locked EUR 7.935m**: musea **6.507m** + Geletterde Stad **1.422m** + cyber invest **6.1k**.
+  - **Energiebesparingsfonds locked EUR 0.592m** (MJP 0.607 - index 0.016).
+  - Feb batch sum **14.538m**; mega AGB/zone stack refresh **~604.2m** (prior 589.6 + 14.5).
+- Wrote: sources 3; budgets 11; cmt 3; lb 4; entities 3; foi note; rq_210=done; seeded **rq_211**.
+- FOI: Integratie/Beschut Wonen next; Digipolis 2026 personnel + Mons BI2026 residual human send.
+- Next: prio5 **rq_211**; deferred **rq_116** SWA.

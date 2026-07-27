@@ -2290,3 +2290,14 @@ bud_mpa_package_locked_2026,city_antwerpen,2026,4054381.18,,,budgeted,src_ebeslu
 bud_mpa_parkeer_2026,city_antwerpen,2026,3124999.99,,,budgeted,src_ebesluit_mpa_2026,strong,MPA parkeermanagement locked 3.125m 2026
 bud_mpa_lez_2026,city_antwerpen,2026,929381.19,,,budgeted,src_ebesluit_mpa_2026,strong,MPA Budget LEZ locked 0.929m 2026
 bud_antwerp_agb_mega_stack_2026,city_antwerpen,2026,589630578.51,,,budgeted,src_ebesluit_agso_2026,strong,City AGB/zone stack class 2026: ZBA89.3+PZA320.7+BZA87.5+AGSO88.2+MPA4.1 ~589.6m
+bud_vespa_package_locked_2026,city_antwerpen,2026,6011446.17,,,budgeted,src_ebesluit_vespa_2026,strong,AG VESPA package locked 6.011m 2026 (werk 3.469 + invest 2.543)
+bud_vespa_werk_locked_2026,city_antwerpen,2026,3468834.17,,,budgeted,src_ebesluit_vespa_2026,strong,AG VESPA werk locked 3.469m 2026
+bud_vespa_project_2026,city_antwerpen,2026,2588834.17,,,budgeted,src_ebesluit_vespa_2026,strong,AG VESPA projectbegeleiding locked 2.589m after index
+bud_vespa_invest_2026,city_antwerpen,2026,2542612,,,budgeted,src_ebesluit_vespa_2026,strong,AG VESPA invest betaalbare huur 2.543m 2026
+bud_cia_package_locked_2026,city_antwerpen,2026,7934669.94,,,budgeted,src_ebesluit_cia_2026,strong,AG CIA/Erfgoed package locked 7.935m 2026 (werk 7.929 + cyber invest 0.006)
+bud_cia_werk_locked_2026,city_antwerpen,2026,7928573.07,,,budgeted,src_ebesluit_cia_2026,strong,AG CIA werk locked 7.929m 2026
+bud_cia_musea_2026,city_antwerpen,2026,6506973.07,,,budgeted,src_ebesluit_cia_2026,strong,AG CIA musea en erfgoed locked 6.507m 2026
+bud_cia_geletterde_2026,city_antwerpen,2026,1421600,,,budgeted,src_ebesluit_cia_2026,strong,AG CIA Antwerpen Geletterde Stad 1.422m 2026
+bud_energie_werk_locked_2026,city_antwerpen,2026,591520.40,,,budgeted,src_ebesluit_energie_2026,strong,AG Energiebesparingsfonds werk locked 0.592m 2026
+bud_antwerp_agb_batch_feb_2026,city_antwerpen,2026,14537636.51,,,budgeted,src_ebesluit_vespa_2026,strong,Feb batch VESPA+CIA+Energie locked sum 14.538m 2026
+bud_antwerp_agb_mega_stack_refresh_2026,city_antwerpen,2026,604168215.02,,,budgeted,src_ebesluit_vespa_2026,strong,Mega stack +VESPA+CIA+Energie ~604.2m (prior 589.6 + 14.5)
