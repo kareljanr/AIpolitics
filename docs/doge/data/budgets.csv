@@ -2196,3 +2196,8 @@ bud_toneelhuis_2026_invest,city_antwerpen,2026,382500,,,budgeted,src_ebesluit_to
 bud_antwerp_culture_envelope_2026,city_antwerpen,2026,35000000,,,budgeted,src_vrt_antwerp_culture_35m,medium,Culture envelope 35m/yr from 25m prior; VRT secondary
 bud_antwerp_makers_fund_leg,city_antwerpen,2031,9200000,,,budgeted,src_vrt_antwerp_culture_35m,medium,New+existing culture trajectories 9.2m over legislatuur ~1.5m/yr avg
 bud_geitestoet_package_2026_31,city_antwerpen,2031,150000,,,budgeted,src_vrt_antwerp_culture_35m,medium,Geitestoet package cut to 150k over 6y from 370k prior legislatuur
+bud_obv_antwerp_2026,city_antwerpen,2026,1786000,,,budgeted,src_ebesluit_obv_aso_2026,strong,Opera Ballet Vlaanderen city exp support 2026
+bud_aso_antwerp_2026,city_antwerpen,2026,611000,,,budgeted,src_ebesluit_obv_aso_2026,strong,Antwerp Symphony Orchestra city exp support 2026
+bud_obv_aso_sum_2026,city_antwerpen,2026,2397000,,,budgeted,src_ebesluit_obv_aso_2026,strong,OBV+ASO combined city 2.397m 2026 pending fusion
+bud_desingel_2026,city_antwerpen,2026,100000,,,budgeted,src_ebesluit_desingel_2026,strong,DeSingel city exp 100k 2026 (urban anchoring line)
+bud_desingel_max_2026_31,city_antwerpen,2031,614504,,,commitment,src_ebesluit_desingel_2026,strong,DeSingel max package 614504 EUR 2026-2031

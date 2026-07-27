@@ -2127,3 +2127,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 11; cmt 3; lb 2; foi gap_antwerp notes; rq_198=done; seeded **rq_199**.
 - FOI: full machine-readable top20 register still human send; Mons BI2026 residual.
 - Next: prio5 **rq_199**; deferred **rq_116** SWA.
+
+### 2026-07-28T18:25:00Z - tick 205
+- Unit: **rq_199** (FOI-adjacent hole-fill - **Antwerp culture L5** OBV/ASO/DeSingel)
+- Found (strong ebesluit primary):
+  - **Opera Ballet Vlaanderen 2026 EUR 1.786m** exp; contracts extended to fusion 2026.
+  - **Antwerp Symphony Orchestra 2026 EUR 611k** exp; dual fusion path with OBV.
+  - **DeSingel 2026 EUR 100k** exp; max **614.5k** 2026-31 (100/101.6/103.2 path).
+  - Culture L5 sample sum **Toneelhuis 3.30 + OBV 1.79 + ASO 0.61 + DeSingel 0.10 = 5.80m** of ~35m envelope class.
+- Wrote: sources 2; budgets 5; cmt 3; lb 4; foi gap_antwerp notes; rq_199=done; seeded **rq_200**.
+- FOI: residual 12+ culture partners + full register still human send; Mons BI2026 residual.
+- Next: prio5 **rq_200**; deferred **rq_116** SWA.
