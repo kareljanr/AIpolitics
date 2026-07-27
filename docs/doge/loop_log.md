@@ -4338,3 +4338,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +26; cmt +1; lb +6; FOI **gap_rva_werking_smals_l5** ready; unemp FOI note; rq_372=done; spawn **rq_373**; ticks=381
 - FOI: werking/Smals L5 + residual per-union UI human send only
 - Next: prio5 **rq_373**; deferred **rq_116** SWA
+
+### 2026-08-01T05:45:00Z - tick 382
+- Unit: **rq_373** (FOI-adjacent hole-fill - **FSO Fonds Sluiting 2025 L5 dual RVA**)
+- Found (strong primary RVA JV2025 ch.5):
+  - Receipts **EUR 516.683m** (+67pct): TW contrib **237.8m** - classic **215.0m** - bijzonder **24.8m** - recoveries **32.9m**
+  - Compensations **371.944m** (+54pct): contractueel **338.7m** - sluiting **23.9m** - overbrug **3.0m** - toeslag **0.8m** + socialprofit **5.6m**
+  - TW share to RVA **178.699m** (+35pct)
+  - Beheer **8.478m**; 27,626 beneficiaries; Van Hool largest dossier
+  - Package class **~559m** (comp+TW+beheer)
+- Wrote: sources +1; budgets +21; cmt +1; lb +6; entity note; FOI **gap_fso_top_dossiers_l5** ready; rq_373=done; spawn **rq_374**; ticks=382
+- FOI: top-20 employer dossiers EUR human send only
+- Next: prio5 **rq_374**; deferred **rq_116** SWA
