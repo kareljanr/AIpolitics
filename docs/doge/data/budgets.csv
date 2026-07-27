@@ -1059,3 +1059,30 @@ bud_firm_exp_2025,firm_ifdh,2025,3516071.02,,,outturn,src_firm_ra_2025,strong,Ac
 bud_firm_balance_2025,firm_ifdh,2025,1468023.73,,,outturn,src_firm_ra_2025,strong,Year-end surplus balance 2025
 bud_firm_dotation_2026,firm_ifdh,2026,3223000,,,budgeted,src_firm_ra_2025,strong,Kamer approved budget 2026 grant
 bud_firm_funding_2026,firm_ifdh,2026,5082949.32,,,budgeted,src_firm_ra_2025,strong,Grant 3.223m + surplus 1.860m; exp not yet
+bud_rtbf_ordinary_2023,rtbf,2023,332793782,,,outturn,src_csa_rtbf_controle_2023,strong,Dotation ordinaire FWB 2023 CSA
+bud_rtbf_total_dots_2023,rtbf,2023,366900000,,,outturn,src_csa_rtbf_controle_2023,strong,All public dots 2023: ordinary+TV5 9.4+pension 14.5+SEC 10.2
+bud_rtbf_tv5_2023,rtbf,2023,9400000,,,outturn,src_csa_rtbf_controle_2023,strong,TV5 Monde participation cover 2023
+bud_rtbf_pension_2023,rtbf,2023,14500000,,,outturn,src_csa_rtbf_controle_2023,strong,Pension pool complementary 2023
+bud_rtbf_sec_2023,rtbf,2023,10200000,,,outturn,src_csa_rtbf_controle_2023,strong,Subvention responsabilisation SEC 2010 2023
+bud_rtbf_ads_2023,rtbf,2023,66000000,,,outturn,src_csa_rtbf_controle_2023,strong,Net advertising revenue 2023
+bud_rtbf_exp_2023,rtbf,2023,464400000,,,outturn,src_csa_rtbf_controle_2023,strong,Total expenses 2023 CSA
+bud_rtbf_net_cost_pso_2023,rtbf,2023,370100000,,,outturn,src_csa_rtbf_controle_2023,strong,Net cost of public service mission 2023
+bud_rtbf_ordinary_2025,rtbf,2025,350800000,,,outturn,src_rtbf_ra_2025_finances,strong,Dotation ordinaire avenant contrat 2023-2027
+bud_rtbf_pension_2025,rtbf,2025,13700000,,,outturn,src_rtbf_ra_2025_finances,strong,Complementary pension subsidy 2025 (-1.5m vs 2024)
+bud_rtbf_pension_2024,rtbf,2024,15200000,,,outturn,src_rtbf_ra_2025_finances,strong,Implied 2024 pension = 13.7+1.5 from RA2025 delta
+bud_rtbf_tv5_2025,rtbf,2025,9500000,,,outturn,src_rtbf_ra_2025_finances,strong,TV5 dotation 2025
+bud_rtbf_access_2025,rtbf,2025,4100000,,,outturn,src_rtbf_ra_2025_finances,strong,Accessibilite dotation 2025
+bud_rtbf_public_package_2025,rtbf,2025,378100000,,,outturn,src_rtbf_ra_2025_finances,strong,Sum ordinary+pension+TV5+access 350.8+13.7+9.5+4.1
+bud_rtbf_recettes_2025,rtbf,2025,479700000,,,outturn,src_rtbf_ra_2025_finances,strong,Total operating receipts 2025 (-0.8pct vs 2024)
+bud_rtbf_ads_2025,rtbf,2025,61400000,,,outturn,src_rtbf_ra_2025_finances,strong,Advertising 2025 (-9pct)
+bud_rtbf_other_2025,rtbf,2025,29300000,,,outturn,src_rtbf_ra_2025_finances,strong,Other receipts 2025 incl cable 12.6m
+bud_rtbf_cable_2025,rtbf,2025,12600000,,,outturn,src_rtbf_ra_2025_finances,strong,Cable operator receipts subset of other
+bud_rtbf_foregone_index_2025,rtbf,2025,15900000,,,budgeted,src_rtbf_ra_2025_finances,strong,Foregone vs initial contrat (no index + no +2pct maj)
+bud_rtbf_cash_2025,rtbf,2025,92800000,,,outturn,src_rtbf_ra_2025_finances,strong,Net cash position end-2025
+bud_rtbf_ltdebt_2025,rtbf,2025,46700000,,,outturn,src_rtbf_ra_2025_finances,strong,Long-term bank debt end-2025
+bud_rtbf_total_dots_2017,rtbf,2017,260500000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
+bud_rtbf_total_dots_2018,rtbf,2018,270500000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
+bud_rtbf_total_dots_2019,rtbf,2019,284600000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
+bud_rtbf_total_dots_2020,rtbf,2020,297700000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
+bud_rtbf_total_dots_2021,rtbf,2021,305600000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
+bud_rtbf_total_dots_2022,rtbf,2022,334800000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table

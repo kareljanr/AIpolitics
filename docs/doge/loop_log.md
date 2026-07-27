@@ -1320,3 +1320,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 14; cmt_firm_dotation_path; lb_firm; entity firm_ifdh; rq_119=done; FOI residual ready.
 - FOI: gap_firm_funding_detail (codes + L5 ops) human send only.
 - Next: prio6 **rq_120 Myria** / **rq_135 RTBF** / **rq_136 VRT** / Actiris L5.
+
+### 2026-07-27T21:50:00Z ? tick 145
+- Unit: **rq_135** (RTBF multi-year full public financing primary)
+- Found (strong CSA 2023 control + RTBF RA 2025 finances page):
+  - **2025 public package: EUR 378.1m** = ordinary **350.8** + pension **13.7** + TV5 **9.5** + access **4.1**.
+  - **Total recettes 2025: EUR 479.7m** (?0.8%); ads **61.4m** (?9%); other **29.3m** (cable 12.6).
+  - **2023 total dots: EUR 366.9m** (ordinary **332.8m** + TV5 9.4 + pension 14.5 + SEC 10.2); ads 66.0; exp 464.4; net PSO cost 370.1.
+  - Dots series 2017-23: 260.5 ? 366.9m; **foregone 2025 vs contract 15.9m** (no index/+2%).
+  - Savings plan **EUR 132m 2025-28** (55.2m in 2028); cash **92.8m**; LT debt **46.7m**.
+  - Dual PSB: VRT ordinary ~296.4 + RTBF package ~378 ? **~674m** class (updates prior 647m ordinary-only dual).
+- Wrote: sources 3; budgets 27; cmt_rtbf_public_package; lb_rtbf; rq_135=done; FOI residual ready.
+- FOI: gap_rtbf_complement_split (2024 split + codes + savings cash) human send.
+- Next: prio6 **rq_136 VRT** / **rq_134 Actiris** / **rq_120 Myria**.
