@@ -848,6 +848,19 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T15:00:00Z -- tick 125
+- Unit: **rq_123** (VL gelijke kansen full programme L5 beyond Wassalon) — prio 8
+- Found (primary; **no invent euros**):
+  - **Strong (VP BBT Open Vld 7 Nov 2025, pfile 2247885):** Gelijke Kansen **werkingsbudget 2026 €15.162m** (−€18k y/y order); **projectsubsidies €4.361m** reserved; **VEK +€1.888m** rebalance; staff **10.3 VTE / €1,000,767.29** budgetlast.
+  - **Named research L5:** Rode vlaggen KH Vives **€119,018.50** incl BTW; non-binariteit UGent **€119,634**; expertendatabank eval **€45,000** (17,424+27,611 Ipsos).
+  - **Campaign:** BBT confirms **€800,000** mensenrechtencampagne via **LDV United** raamcontract (upgrades Wassalon contractor from medium claim → **strong** parliament answer).
+  - **Inter:** toelage **€1.333m 2025 / €1.354m 2026**; IedereenOveral top-up **€163k** (2024 budget, Jul24–Dec25).
+  - **Portal strong names / no EUR:** dozens of lopende projecten (Pride 6 orgs, Safe spaces, GAMS/Plan/Zij-Kant, Turboplan, etc.) — amounts still FOI.
+- Wrote: sources +3; budgets +10; programmes +7; commitments +3; lb Wassalon LDV upgrade; FOI draft gap_vl_gelijke_kansen updated residual; raw PDF; rq_123=**done**; ticks=125
+- FOI: gap_vl_gelijke_kansen remains **ready** (per-project EUR list); human send
+- Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_130–131** NMBS/De Lijn / **rq_154** cheques
+
+
 ### 2026-07-27T14:40:00Z -- tick 124
 - Unit: **rq_152** (GG expenditure bridge % of ~€348bn tagged) — prio 9 open
 - Found (synthesis from prior primary rows; **no invent euros**):

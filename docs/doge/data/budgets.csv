@@ -786,3 +786,13 @@ bud_vmri_budget_2025_class,vmri_vlaanderen,2025,5279000,,,budgeted,src_vmri_vp_b
 bud_vmri_request_2026_class,vmri_vlaanderen,2026,5598000,,,budgeted,src_vmri_vp_budget_2025_26,medium,VP doc: 2026 request total 5.598m
 bud_vl_wassalon_campaign_3y,vlaanderen_gov,2026,800000,,,budgeted,src_vrt_wassalon_800k,medium,Gennez commissie Welzijn Jul 2026: envelope 800000 EUR over 3 years full campagne creatie+productie+marketing+middenveld; ABB; raamcontract
 bud_vl_wassalon_annual_avg,vlaanderen_gov,2026,266667,,,budgeted,src_vrt_wassalon_800k,medium,Illustrative 800000/3 annual average; actual cash-by-year FOI; not official yearly split
+bud_vl_gk_werking_2026,vlaanderen_gov,2026,15162000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,BBT GK 2026: werkingsbudget 15.162m EUR same order as prior year (-18k)
+bud_vl_gk_projectsubs_2026,vlaanderen_gov,2026,4361000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Of werkingsbudget 4.361m reserved for projectsubsidies; 2025 L5 list not exhaustive at Nov2025 answer
+bud_vl_gk_vek_uplift_2026,vlaanderen_gov,2026,1888000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,VEK +1.888m to correct historic VAK-VEK imbalance since BO2023 relance digital
+bud_vl_gk_personnel_2026,vlaanderen_gov,2026,1000767.29,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Theoretical annual budgetlast staff team Gelijke Kansen 11 koppen 10.3 VTE 1000767.29 EUR
+bud_vl_gk_research_rode_vlaggen,vlaanderen_gov,2025,119018.50,,,commitment,src_vl_bbt_gk_2026_openvld,strong,KH Vives Zuid research Rode vlaggen en vapeurs 119018.50 EUR incl BTW Jan2025-Apr2026
+bud_vl_gk_research_nonbinair,vlaanderen_gov,2024,119634,,,commitment,src_vl_bbt_gk_2026_openvld,strong,UGent research non-binariteit 119634 EUR incl BTW Dec2024-Feb2026
+bud_vl_gk_expertendatabank_eval,vlaanderen_gov,2026,45000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Expertendatabank eval total 45k: Start2Connect 17424 + Ipsos 27611; due Apr2026
+bud_vl_inter_toelage_2025,vlaanderen_gov,2025,1333000,,,outturn,src_vl_bbt_gk_2026_openvld,strong,Inter accessibility body toelage 1.333m EUR 2025 (BBT answer)
+bud_vl_inter_toelage_2026,vlaanderen_gov,2026,1354000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Inter toelage 1.354m EUR 2026 (+21k index vs 2025)
+bud_vl_iedereenoveral_topup_2024_25,vlaanderen_gov,2024,163000,,,budgeted,src_vl_bbt_gk_2026_openvld,strong,Inter extra 163k Jul2024-Dec2025 IedereenOveral sanitary data; booked in 2024 budget
