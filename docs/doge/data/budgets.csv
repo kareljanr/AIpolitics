@@ -1834,3 +1834,25 @@ bud_pidpa_result_water_2025,pidpa,2025,14350806,,,outturn,src_pidpa_fin_2025,str
 bud_pidpa_result_hidrorio_2025,pidpa,2025,9378693,,,outturn,src_pidpa_fin_2025,strong,Resultaat HidroRio 9.379m 2025
 bud_pidpa_result_hidrogem_2025,pidpa,2025,7591624,,,outturn,src_pidpa_fin_2025,strong,Resultaat HidroGem 7.592m 2025
 bud_pidpa_omzet_total_2024_est,pidpa,2024,315125496,,,outturn,src_pidpa_fin_2025,medium,Totale omzet 2024 implied from +27.8pct to 402.7m = ~315.1m medium
+bud_waterlink_omzet_2025,water_link,2025,254546322,,,outturn,src_waterlink_jr_2025,strong,Omzet code 70 254.546m 2025
+bud_waterlink_omzet_2024,water_link,2024,225867491,,,outturn,src_waterlink_jr_2025,strong,Omzet code 70 225.867m 2024
+bud_waterlink_bedrijfsopbr_2025,water_link,2025,426904160,,,outturn,src_waterlink_jr_2025,strong,Bedrijfsopbrengsten 70/76A 426.904m 2025 incl geprod VA 82.6m andere 89.7m
+bud_waterlink_bedrijfsopbr_2024,water_link,2024,379527688,,,outturn,src_waterlink_jr_2025,strong,Bedrijfsopbrengsten 379.528m 2024
+bud_waterlink_bedrijfskosten_2025,water_link,2025,406667574,,,outturn,src_waterlink_jr_2025,strong,Bedrijfskosten 406.668m 2025
+bud_waterlink_ebit_2025,water_link,2025,20236586,,,outturn,src_waterlink_jr_2025,strong,Bedrijfswinst 20.237m 2025 (13.509m 2024)
+bud_waterlink_net_profit_2025,water_link,2025,16509006,,,outturn,src_waterlink_jr_2025,strong,Winst boekjaar 16.509m 2025 code 9904
+bud_waterlink_net_profit_2024,water_link,2024,16917021,,,outturn,src_waterlink_jr_2025,strong,Winst boekjaar 16.917m 2024
+bud_waterlink_pbt_2025,water_link,2025,23150163,,,outturn,src_waterlink_jr_2025,strong,Winst voor belasting 23.150m 2025
+bud_waterlink_tax_2025,water_link,2025,6686574,,,outturn,src_waterlink_jr_2025,strong,Belastingen op resultaat 6.687m 2025
+bud_waterlink_assets_2025,water_link,2025,571527021,,,outturn,src_waterlink_jr_2025,strong,Balanstotaal 571.527m end-2025
+bud_waterlink_assets_2024,water_link,2024,540413698,,,outturn,src_waterlink_jr_2025,strong,Balanstotaal 540.414m end-2024
+bud_waterlink_equity_2025,water_link,2025,313680510,,,outturn,src_waterlink_jr_2025,strong,Eigen vermogen 313.681m end-2025
+bud_waterlink_equity_2024,water_link,2024,299741405,,,outturn,src_waterlink_jr_2025,strong,Eigen vermogen 299.741m end-2024
+bud_waterlink_debt_total_2025,water_link,2025,250160647,,,outturn,src_waterlink_jr_2025,strong,Schulden totaal 250.161m end-2025
+bud_waterlink_fin_debt_lt_2025,water_link,2025,37746967,,,outturn,src_waterlink_jr_2025,strong,Financiele schulden LT kredietinstellingen 37.747m end-2025
+bud_waterlink_dividend_2025,water_link,2025,4160297,,,outturn,src_waterlink_jr_2025,strong,Uit te keren winst vergoeding inbreng 4.160m 2025 (dividend-like to munis)
+bud_waterlink_cap_subsidies_2025,water_link,2025,1767056,,,outturn,src_waterlink_jr_2025,strong,Kapitaalsubsidies passief 1.767m end-2025 (was 0.177m 2024)
+bud_waterlink_personnel_2025,water_link,2025,57585141,,,outturn,src_waterlink_jr_2025,strong,Bezoldigingen sociale lasten pensioenen 57.585m 2025
+bud_waterlink_invest_water_2025,water_link,2025,15400000,,,outturn,src_waterlink_jv_2025,strong,JV kern: 15.4m invest drinkwater vervanging/uitbreiding 2025
+bud_waterlink_invest_sewer_2025,water_link,2025,57000000,,,outturn,src_waterlink_jv_2025,strong,JV kern: 57m invest riolering vervanging/uitbreiding 2025
+bud_waterlink_geprod_va_2025,water_link,2025,82643584,,,outturn,src_waterlink_jr_2025,strong,Geproduceerde vaste activa code 72 82.644m 2025 (capitalised production)

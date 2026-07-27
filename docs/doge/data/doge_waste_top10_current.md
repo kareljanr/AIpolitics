@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **176** (2026-07-28) · **272** leaderboard rows  
+**As-of:** tick **180** (2026-07-28) · **278** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** &lt;1m→1.5 · &lt;10m→3.5 · &lt;100m→5.5 · &lt;1bn→7.5 · ≥1bn→9.5  

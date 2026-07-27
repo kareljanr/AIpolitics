@@ -20,25 +20,25 @@
 
 ---
 
-## Snapshot at **tick 176** (2026-07-28)
+## Snapshot at **tick 180** (2026-07-28)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~55–65%** (order of magnitude) | Strong samples for VL/WAL/FWB/BRU, major SOEs, PES, unis, grids, water, defence, ODA; residual SS pensions/unemployment bulk + many local |
+| **C. L2 entity totals** | **~60–68%** (order of magnitude) | Strong samples for VL/WAL/FWB/BRU, major SOEs, PES, unis, grids, **full dual water stack**, defence, ODA; residual SS pensions/unemployment bulk + many local |
 | **D. L5 named end-receivers** | **~5–12%** of TE (generous) | Named L5 + large named packages (e.g. ASBL lines, univ per-inst, some city L5); **not** near-complete |
 | **E. FOI-ready gaps** | **~55** drafts ready | Human send only — closes D when answered |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
 
-### Inventory (tick 176)
+### Inventory (tick 180)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~1,780 |
-| commitments.csv | ~320 |
-| leaderboard.csv | ~270 |
+| budgets.csv | ~1,857 |
+| commitments.csv | ~327 |
+| leaderboard.csv | ~278 |
 | FOI ready | ~55 |
 
 ### What improved since tick 120 (idle pause)
@@ -48,7 +48,8 @@
 - PES dual VDAB + FOREM L5 · Actiris L5  
 - De Lijn full JV · NMBS/Infrabel/HR Rail · RTBF/VRT  
 - Universities VL+FWB per-institution  
-- DSO stack Fluvius / ORES / RESA / Sibelga · water SWDE/Vivaqua/Aquafin  
+- DSO stack Fluvius / ORES / RESA / Sibelga  
+- **Water dual:** SWDE · Vivaqua · Aquafin/SPGE · De Watergroep · Pidpa · **Water-link** (Farys ov residual)  
 - Defence portfolio L5 · justice/prisons · party + union admin + mutualities  
 - Taxex wave + FFS multi-year  
 
@@ -63,8 +64,9 @@
 | 140 | 100% | 100% | ~50% | ~6–10% | ~45 | Antwerp/mutualities |
 | 150 | 100% | 100% | ~55% | ~7–11% | ~50 | Fluvius + housing |
 | 160 | 100% | 100% | ~58% | ~8–11% | ~52 | NMBS JV hole-fill |
-| **170** | **100%** | **100%** | **~60%** | **~8–12%** | **~55** | Elia energy stack |
-| **176** | **100%** | **100%** | **~60–65%** | **~8–12%** | **~55** | **Current** (SWDE water) |
+| 170 | 100% | 100% | ~60% | ~8–12% | ~55 | Elia energy stack |
+| 176 | 100% | 100% | ~60–65% | ~8–12% | ~55 | SWDE water |
+| **180** | **100%** | **100%** | **~60–68%** | **~8–12%** | **~55** | **Current** (Water-link + VL water stack) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 

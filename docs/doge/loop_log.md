@@ -1791,3 +1791,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 15; cmt 1; lb 1; rq_174=done; seeded **rq_175**.
 - FOI: residual Farys ov full accounts + Antwerp/Mons FOIs human send.
 - Next: prio5 **rq_175**; deferred **rq_116** SWA.
+
+### 2026-07-28T10:05:00Z - tick 180
+- Unit: **rq_175** (FOI-adjacent hole-fill - **Water-link OV jaarrekening 2025**)
+- Found (strong primary statutaire jaarrekening VOL; vector-rendered pages):
+  - **Omzet EUR 254.546m 2025** (225.867m 2024) · bedrijfsopbrengsten **426.904m** · bedrijfskosten **406.668m**.
+  - **Bedrijfswinst 20.237m** · PBT **23.150m** · tax **6.687m** · **net profit 16.509m** (16.917m 2024).
+  - Assets **571.527m** · equity **313.681m** · inbreng **189.275m** · reserves **120.613m**.
+  - Debt total **250.161m** · LT fin debt **37.747m** · capital subsidies **1.767m**.
+  - Uit te keren winst (vergoeding inbreng) **4.160m** · personnel **57.585m**.
+  - JV ops: produce **154.2m m3** · staff **488** · invest water **15.4m** + sewer **57m**.
+  - KBO **0204.923.881** · Grant Thornton unqualified · dual VL water with DWG/Pidpa; Farys ov residual.
+- Wrote: sources 2; entity 1; budgets 22; cmt 1; lb 1; rq_175=done; seeded **rq_176**.
+- FOI: residual Farys ov full accounts + Antwerp/Mons FOIs human send.
+- Next: prio5 **rq_176**; deferred **rq_116** SWA.
+
+### 2026-07-28T10:05:00Z - progress@180
+- Refreshed **progress_every_10_ticks.md**: L2 ~60-68% (VL water stack closed: DWG+Pidpa+Water-link+Farys residual); inventory budgets~1857 cmt~327 lb~278 FOI ready~55.
+- Refreshed **doge_waste_top10_current.md**: top10 unchanged (cheque economy 8.83 ... gas product 7.98); n_lb=278.
