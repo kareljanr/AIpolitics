@@ -848,6 +848,21 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T15:40:00Z -- tick 127
+- Unit: **rq_130** (NMBS PSO cash-by-year primary) — prio 8 / FOI-adjacent
+- Found (primary **Openbaredienstcontract NMBS–Staat 2023–2032** Art.115–116; **no invent euros**):
+  - **Compensatie = invest + variable (57% ODV tickets) + specific + fixed exp**
+  - **Betalingstraject courante m€ (Art.116 table):**  
+    2023 core3 **1 985.3** (663.5+490.3+831.5); 2024 **2 016.2**; 2025 **2 383.1**; 2026 **2 265.8**  
+    (excl. specific comps + woon-werk Art.40; saldi/overdrachten excl.)
+  - Deferred **€536.513 m/yr** non-indexed from last monthly advances (var+fixed).
+  - Cross-check: NBB ESA D.31+D.92 **€1.957 bn 2024** ≈ order of core3 2.016.
+  - FPS/BOSA **budget article cash codes still unknown** → FOI residual.
+- Wrote: sources +1; budgets ~21; cmt ODC path; lb upgraded; FOI draft residual; raw ODC PDF; rq_130=**done**; ticks=127
+- FOI: gap_nmbs_annual_toelage remains **ready** (FPS codes + outturn)
+- Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_154** cheques
+
+
 ### 2026-07-27T15:20:00Z -- tick 126
 - Unit: **rq_131** (De Lijn full dotatie series primary) — prio 8 / FOI-adjacent
 - Found (primary SV 955 Peeters→De Ridder 26 Feb 2026; **no invent euros**):

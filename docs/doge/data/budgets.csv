@@ -818,3 +818,24 @@ bud_de_lijn_own_rev_2025,de_lijn,2025,255098000,,,outturn,src_vl_pq_955_de_lijn_
 bud_de_lijn_gip_invest_2025,de_lijn,2025,661025000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,GIP2025 invest total 661.025m: vergroening 460.857 + instandhouding 159.238 + strategic 26.819 + uitbreiding 11.891 + stations 2.220 (kEUR)
 bud_de_lijn_beschikbaar_2025,de_lijn,2025,52592000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,Beschikbaarheidsvergoedingen projects sum 52.592m 2025 (Brabo 26.0m largest)
 bud_de_lijn_beschikbaar_2026,de_lijn,2026,54760000,,,budgeted,src_vl_pq_955_de_lijn_2026,strong,BO2026 beschikbaarheidsvergoedingen 54.760m
+bud_nmbs_odc_invest_pay_2023,nmbs,2023,663500000,,,budgeted,src_nmbs_odc_2023_2032,strong,ODC Art.116 Betalingstraject Investeringscompensatie 663.5m courante EUR 2023 (const 663.5)
+bud_nmbs_odc_invest_pay_2024,nmbs,2024,794500000,,,budgeted,src_nmbs_odc_2023_2032,strong,Invest pay path 794.5m courante 2024 (const 778.9)
+bud_nmbs_odc_invest_pay_2025,nmbs,2025,1023300000,,,budgeted,src_nmbs_odc_2023_2032,strong,Invest pay path 1023.3m courante 2025 (const 983.5) — peak year
+bud_nmbs_odc_invest_pay_2026,nmbs,2026,937600000,,,budgeted,src_nmbs_odc_2023_2032,strong,Invest pay path 937.6m courante 2026 (const 883.5)
+bud_nmbs_odc_var_2023,nmbs,2023,490300000,,,budgeted,src_nmbs_odc_2023_2032,strong,Variabele Compensatie 490.3m courante 2023; formula 57pct of ODV ticket revenue
+bud_nmbs_odc_var_2024,nmbs,2024,545200000,,,budgeted,src_nmbs_odc_2023_2032,strong,Variable 545.2m courante 2024 (const 506.3)
+bud_nmbs_odc_var_2025,nmbs,2025,578100000,,,budgeted,src_nmbs_odc_2023_2032,strong,Variable 578.1m courante 2025
+bud_nmbs_odc_var_2026,nmbs,2026,597600000,,,budgeted,src_nmbs_odc_2023_2032,strong,Variable 597.6m courante 2026
+bud_nmbs_odc_fixed_exp_2023,nmbs,2023,831500000,,,budgeted,src_nmbs_odc_2023_2032,strong,Vaste Exploitatiecompensatie 831.5m courante 2023 (const 832.2); excl woon-werk Art.40
+bud_nmbs_odc_fixed_exp_2024,nmbs,2024,676500000,,,budgeted,src_nmbs_odc_2023_2032,strong,Fixed exp 676.5m courante 2024 (const 662.4)
+bud_nmbs_odc_fixed_exp_2025,nmbs,2025,781700000,,,budgeted,src_nmbs_odc_2023_2032,strong,Fixed exp 781.7m courante 2025
+bud_nmbs_odc_fixed_exp_2026,nmbs,2026,730600000,,,budgeted,src_nmbs_odc_2023_2032,strong,Fixed exp 730.6m courante 2026
+bud_nmbs_odc_core3_sum_2023,nmbs,2023,1985300000,,,budgeted,src_nmbs_odc_2023_2032,strong,Sum invest+variable+fixed exp ODC Art.116 2023 1985.3m excl specific+woonwerk; vs NBB ESA package timing differs
+bud_nmbs_odc_core3_sum_2024,nmbs,2024,2016200000,,,budgeted,src_nmbs_odc_2023_2032,strong,Core3 sum 2016.2m 2024 courante; NBB ESA D31+D92 1957m 2024 close order
+bud_nmbs_odc_core3_sum_2025,nmbs,2025,2383100000,,,budgeted,src_nmbs_odc_2023_2032,strong,Core3 sum 2383.1m 2025 courante contractual path
+bud_nmbs_odc_core3_sum_2026,nmbs,2026,2265800000,,,budgeted,src_nmbs_odc_2023_2032,strong,Core3 sum 2265.8m 2026 courante path before coalition cuts path
+bud_nmbs_odc_defer_annual,nmbs,2023,536513000,,,budgeted,src_nmbs_odc_2023_2032,strong,Art.123: 536.513m EUR non-indexed deferred from last monthly advances variable+fixed each year T then paid later
+bud_nmbs_odc_woonwerk_2023,nmbs,2023,34400000,,,budgeted,src_nmbs_odc_2023_2032,medium,Art.40 woon-werk compensatie table 34.4m 2023 (lopende EUR; ter informatie path)
+bud_nmbs_odc_woonwerk_2024,nmbs,2024,40000000,,,budgeted,src_nmbs_odc_2023_2032,medium,Woon-werk 40.0m 2024
+bud_nmbs_odc_woonwerk_2025,nmbs,2025,42300000,,,budgeted,src_nmbs_odc_2023_2032,medium,Woon-werk 42.3m 2025
+bud_nmbs_odc_woonwerk_2026,nmbs,2026,43700000,,,budgeted,src_nmbs_odc_2023_2032,medium,Woon-werk 43.7m 2026
