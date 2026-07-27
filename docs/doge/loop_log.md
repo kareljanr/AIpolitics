@@ -2226,3 +2226,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 7; entity 1; budgets 15; cmt 3; lb 3; rq_206=done; seeded **rq_207**; gap_antwerp note.
 - FOI: Digipolis 2026 full personnel + group-member shares (ZBA/SO/Vespa) + Mons BI2026 residual human send.
 - Next: prio5 **rq_207**; deferred **rq_116** SWA.
+
+### 2026-07-28T21:25:00Z - tick 214
+- Unit: **rq_207** (FOI-adjacent hole-fill - **Zorgbedrijf Antwerpen** city toelage 2026)
+- Found (strong ebesluit 2026_CBS_00260 college 16 Jan 2026):
+  - **Package locked EUR 89.288m**: werk **48.811m** + respons **25.977m** + invest **14.500m**.
+  - MJP werk envelope **49.412m** before index withhold **0.601m** (package class if released **89.889m**).
+  - Werk split: Sociale vrede pers **17.239m** + Art60 **5.289m** + service flats **11.058m** + dienstencentra **8.996m** + extramuraal **4.662m** + jeugdzorg **1.567m**.
+  - Vs **2025 package 65.0m** — jump **+24.3m** (+37%); structure shift (personnel surplus + discounts explicit).
+  - Dual stack with **PZA 320.7m** + **BZA 81.5m** ? care+safety class **~491.5m** (mixed years).
+  - Side Finance-PC and other business-unit toelagen via separate decisions (residual FOI).
+- Wrote: sources 1; budgets 13; cmt 2; lb 2; entity note; foi note; rq_207=done; seeded **rq_208**.
+- FOI: ZBA side-PC residual + Digipolis 2026 personnel + Mons BI2026 + culture register human send.
+- Next: prio5 **rq_208**; deferred **rq_116** SWA.

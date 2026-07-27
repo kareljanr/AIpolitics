@@ -2257,3 +2257,16 @@ bud_digipolis_pza_werk_2025,city_antwerpen,2025,19649324.45,,,budgeted,src_ebesl
 bud_digipolis_city_regular_2026,city_antwerpen,2026,38813888.41,,,budgeted,src_ebesluit_digipolis_2026_main,strong,Digipolis city locked regular 38.814m 2026 (werk 37.750 + cam invest 1.064); personnel residual
 bud_digipolis_city_werk_2026,city_antwerpen,2026,37749888.41,,,budgeted,src_ebesluit_digipolis_2026_main,strong,Digipolis city werk 37.750m 2026 (eigen+contracts+cam maint)
 bud_digipolis_city_pza_dual_2025,city_antwerpen,2025,128729081.09,,,budgeted,src_ebesluit_digipolis_2025_main,strong,Dual Digipolis city 75.2m + PZA 53.5m class 128.7m 2025; not full group members
+bud_zorgbedrijf_package_locked_2026,city_antwerpen,2026,89288149.81,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA Finance-PC package locked 89.288m 2026 (werk 48.811 + respons 25.977 + invest 14.500)
+bud_zorgbedrijf_werk_locked_2026,city_antwerpen,2026,48811187.81,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA werkingstoelagen locked 48.811m 2026 after index withhold
+bud_zorgbedrijf_werk_mjp_2026,city_antwerpen,2026,49412457.05,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA MJP werk envelope 49.412m 2026 before index withhold 0.601m
+bud_zorgbedrijf_werk_sociale_vrede_2026,city_antwerpen,2026,17239201.44,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA meerkost overgenomen personeel Sociale vrede locked 17.239m 2026
+bud_zorgbedrijf_werk_art60_2026,city_antwerpen,2026,5288859.37,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA meerkost Artikel 60ers locked 5.289m 2026
+bud_zorgbedrijf_werk_serviceflats_2026,city_antwerpen,2026,11057838,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA kortingen service flats 11.058m 2026
+bud_zorgbedrijf_werk_dienstencentra_2026,city_antwerpen,2026,8995706,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA kortingen dienstencentra 8.996m 2026
+bud_zorgbedrijf_werk_extramuraal_2026,city_antwerpen,2026,4662203,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA kortingen extramurale diensten 4.662m 2026
+bud_zorgbedrijf_werk_jeugdzorg_2026,city_antwerpen,2026,1567380,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA jeugdzorg veilige plekken 1.567m 2026
+bud_zorgbedrijf_respons_2026,city_antwerpen,2026,25976962,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA responsabiliseringsbijdrage 25.977m 2026
+bud_zorgbedrijf_invest_2026,city_antwerpen,2026,14500000,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA investeringstoelage 14.500m 2026
+bud_zorgbedrijf_package_mjp_class_2026,city_antwerpen,2026,89889419.05,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA package class if index released 89.889m (MJP werk 49.412 + respons 25.977 + invest 14.500)
+bud_antwerp_care_safety_stack_2026_class,city_antwerpen,2026,491499372,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,Care+safety stack class ZBA89.3 + PZA320.7 + BZA81.5 mixed years ~491.5m
