@@ -4613,3 +4613,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~70; cmt +3; lb +8; FOI **gap_fpb_entity1_split_jun2026** ready; rq_393=done; spawn **rq_394**; ticks=402
 - FOI: Entity I/II split from full FPB Jun report human send only
 - Next: prio5 **rq_394**; deferred **rq_116** SWA
+
+### 2026-08-01T16:15:00Z - tick 403
+- Unit: **rq_394** (FOI-adjacent hole-fill - **CEV Ageing 2026 + regional economic outlooks 2026-2031**)
+- Found (strong primary BFP/CEV/IWEPS press):
+  - **CEV2026:** social exp **25.7%→27.2% GDP** 2025-50; ageing cost **+1.5pp** to 2070; health **+2.1pp** · pens **+0.7pp**; reform saves **1.4pp** pens; low-prod cost **3.3pp**; benefit ratio **-13%** by 2070; pensioner poverty **8.5%** 2024
+  - **Regional 2026:** GDP VL **0.7** WAL **0.8** BRU **0.5**; 2027-31 avg VL **1.4** WAL **1.1** BRU **0.8**
+  - Emp rates 2031: VL **79.0** WAL **70.4** BRU **65.6** (from 77.3/67.9/63.9)
+  - Deficits end: VL **~€2bn** · WAL **€1.6bn** · FWB **€1.2bn** 2029 · BRU **€0.8bn** 2029
+  - Savings rates 2031: VL **14.1%** WAL **9.8%** BRU **4.4%**
+- Wrote: sources +2; budgets ~45; cmt +2; lb +8; FOI **gap_cev_2026_table_l5** + **gap_reg_outlook_deficit_series** ready; rq_394=done; spawn **rq_395**; ticks=403
+- FOI: CEV full tables + regional deficit EUR series human send only
+- Next: prio5 **rq_395**; deferred **rq_116** SWA

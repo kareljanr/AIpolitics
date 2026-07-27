@@ -5787,3 +5787,43 @@ bud_fpb_jun_jobs_2027_31,gg_belgium,2031,230000,,,projection,src_fpb_outlook_jun
 bud_fpb_jun_emp_rate_2031,gg_belgium,2031,74.8,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun employment rate 74.8pct 2031 (vs 75.2 Feb)
 bud_fpb_jun_unemp_admin_delta,gg_belgium,2031,-34000,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun admin unemployment -~34000 over 2026-2031 (vs -53000 Feb)
 bud_fpb_jun_eurozone_gdp_2026,gg_belgium,2026,0.9,,,projection,src_fpb_outlook_jun2026,medium,Eurozone GDP growth 0.9pct 2026 (FPB Jun international context)
+bud_cev_social_exp_pct_2025,gg_belgium,2025,25.7,,,projection,src_cev_ageing_2026,strong,CEV2026 social expenditure 25.7pct GDP 2025
+bud_cev_social_exp_pct_2050,gg_belgium,2050,27.2,,,projection,src_cev_ageing_2026,strong,CEV2026 social expenditure 27.2pct GDP 2050 then stabilise to 2070
+bud_cev_ageing_cost_pp_2025_70,gg_belgium,2070,1.5,,,projection,src_cev_ageing_2026,strong,Budgetary cost of ageing +1.5pp GDP 2025-2070 (social exp variation)
+bud_cev_health_pp_2025_70,gg_belgium,2070,2.1,,,projection,src_cev_ageing_2026,strong,Health expenditure +2.1pp GDP 2025-2070 (main driver of ageing cost)
+bud_cev_pension_pp_2025_70,gg_belgium,2070,0.7,,,projection,src_cev_ageing_2026,strong,Pension expenditure +0.7pp GDP 2025-2070 (contained by reform)
+bud_cev_pension_reform_save_pp,gg_belgium,2070,1.4,,,projection,src_cev_ageing_2026,strong,Pension reform reduces pension budgetary cost by 1.4pp GDP over 2025-2070 vs no-reform
+bud_cev_low_prod_cost_pp,gg_belgium,2070,3.3,,,projection,src_cev_ageing_2026,medium,Low productivity scenario 0.9pct/yr: ageing cost 3.3pp GDP vs 1.5 reference (1.1pct prod)
+bud_cev_prod_ref_pct,gg_belgium,2070,1.1,,,projection,src_cev_ageing_2026,strong,CEV reference average annual productivity growth 1.1pct 2025-2070
+bud_cev_poverty_pensioners_2021,gg_belgium,2021,15.6,,,outturn,src_cev_ageing_2026,strong,SILC poverty risk pensioners 15.6pct 2021
+bud_cev_poverty_pensioners_2024,gg_belgium,2024,8.5,,,outturn,src_cev_ageing_2026,strong,SILC poverty risk pensioners 8.5pct 2024 (below population 10.9)
+bud_cev_poverty_pop_2024,gg_belgium,2024,10.9,,,outturn,src_cev_ageing_2026,strong,SILC poverty risk whole population 10.9pct 2024 (from 13.1 2021)
+bud_cev_benefit_ratio_drop_2070,gg_belgium,2070,-13,,,projection,src_cev_ageing_2026,medium,Benefit ratio (avg gross pension / avg gross wage) ~13pct below 2025 level by 2070; amount_eur blank pct
+bud_reg_gdp_bru_2025,brussels_gov,2025,0.5,,,projection,src_fpb_regional_outlook_2026_31,strong,BRU GDP volume growth 0.5pct 2025
+bud_reg_gdp_bru_2026,brussels_gov,2026,0.5,,,projection,src_fpb_regional_outlook_2026_31,strong,BRU GDP growth 0.5pct 2026 (stable)
+bud_reg_gdp_bru_avg_27_31,brussels_gov,2029,0.8,,,projection,src_fpb_regional_outlook_2026_31,strong,BRU GDP avg growth 0.8pct/yr 2027-2031
+bud_reg_gdp_vl_2025,vlaanderen_gov,2025,1.1,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders GDP growth 1.1pct 2025
+bud_reg_gdp_vl_2026,vlaanderen_gov,2026,0.7,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders GDP growth 0.7pct 2026 (slows with real income)
+bud_reg_gdp_vl_avg_27_31,vlaanderen_gov,2029,1.4,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders GDP avg 1.4pct/yr 2027-2031 (highest of 3 regions)
+bud_reg_gdp_wal_2025,wallonie_gov,2025,1.1,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia GDP growth 1.1pct 2025
+bud_reg_gdp_wal_2026,wallonie_gov,2026,0.8,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia GDP growth 0.8pct 2026
+bud_reg_gdp_wal_avg_27_31,wallonie_gov,2029,1.1,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia GDP avg 1.1pct/yr 2027-2031
+bud_reg_emp_rate_vl_2025,vlaanderen_gov,2025,77.3,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders EU2020 employment rate 77.3pct 2025
+bud_reg_emp_rate_vl_2031,vlaanderen_gov,2031,79.0,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders employment rate 79.0pct 2031 (+1.7pp)
+bud_reg_emp_rate_wal_2025,wallonie_gov,2025,67.9,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia employment rate 67.9pct 2025
+bud_reg_emp_rate_wal_2031,wallonie_gov,2031,70.4,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia employment rate 70.4pct 2031 (+2.4pp largest rise)
+bud_reg_emp_rate_bru_2025,brussels_gov,2025,63.9,,,projection,src_fpb_regional_outlook_2026_31,strong,Brussels employment rate 63.9pct 2025
+bud_reg_emp_rate_bru_2031,brussels_gov,2031,65.6,,,projection,src_fpb_regional_outlook_2026_31,strong,Brussels employment rate 65.6pct 2031 (+1.7pp)
+bud_reg_emp_interior_vl_avg_27_31,vlaanderen_gov,2029,1.0,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders interior employment growth avg +1.0pct/yr 2027-2031
+bud_reg_emp_interior_wal_avg_27_31,wallonie_gov,2029,0.9,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia interior employment avg +0.9pct/yr 2027-2031
+bud_reg_emp_interior_bru_avg_27_31,brussels_gov,2029,0.5,,,projection,src_fpb_regional_outlook_2026_31,strong,Brussels interior employment avg +0.5pct/yr 2027-2031
+bud_reg_emp_interior_avg_24_26_bru,brussels_gov,2025,0.2,,,projection,src_fpb_regional_outlook_2026_31,strong,BRU interior employment avg +0.2pct/yr 2024-2026
+bud_reg_emp_interior_avg_24_26_vl,vlaanderen_gov,2025,0.3,,,projection,src_fpb_regional_outlook_2026_31,strong,VL interior employment avg +0.3pct/yr 2024-2026
+bud_reg_emp_interior_avg_24_26_wal,wallonie_gov,2025,0.4,,,projection,src_fpb_regional_outlook_2026_31,strong,WAL interior employment avg +0.4pct/yr 2024-2026
+bud_reg_savings_rate_vl_2031,vlaanderen_gov,2031,14.1,,,projection,src_fpb_regional_outlook_2026_31,strong,Flanders household savings rate 14.1pct of income 2031
+bud_reg_savings_rate_wal_2031,wallonie_gov,2031,9.8,,,projection,src_fpb_regional_outlook_2026_31,strong,Wallonia household savings rate 9.8pct 2031
+bud_reg_savings_rate_bru_2031,brussels_gov,2031,4.4,,,projection,src_fpb_regional_outlook_2026_31,strong,Brussels household savings rate 4.4pct 2031
+bud_vl_deficit_end_legis,vlaanderen_gov,2029,2000000000,,,projection,src_fpb_regional_outlook_2026_31,medium,Flanders finances to balance 2027 (ex Oosterweel) then deteriorate to nearly 2bn deficit end legislature
+bud_fwb_deficit_2029,fwb_gov,2029,1200000000,,,projection,src_fpb_regional_outlook_2026_31,medium,FWB deficit falls from 2027 to 1.2bn EUR in 2029
+bud_bru_deficit_2029,brussels_gov,2029,800000000,,,projection,src_fpb_regional_outlook_2026_31,medium,BCR+COCOM deficit 0.8bn EUR in 2029 (slight decline from 2027)
+bud_wal_deficit_end_legis,wallonie_gov,2029,1600000000,,,projection,src_fpb_regional_outlook_2026_31,medium,Wallonia deficit improves 2026 then stabilises 1.6bn EUR end legislature
