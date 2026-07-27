@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T20:05:00Z,progress@210,210,no,"Scheduler 60s. Next prio5 rq_204 Zorgbedrijf/Mons; rq_116 SWA deferred. FOI ready human send. tick210 progress L2~70-78 L5~8-15 FOI ready~71."
+main,continuous,hole_fill,2026-07-28T20:25:00Z,rq_204,211,no,"Scheduler 60s. Next prio5 rq_205 Zorgbedrijf2026/Mons; rq_116 SWA deferred. FOI ready human send. tick211 Brandweerzone 81.5m dual PZA 321m safety stack."

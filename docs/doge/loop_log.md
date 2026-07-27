@@ -2192,3 +2192,14 @@ Append-only. Each tick adds a short entry.
 - Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? gas product ~7.98 class); new city L5 not pure-waste top
 - Wrote: `progress_every_10_ticks.md`, `doge_waste_top10_current.md`, loop_state, loop_log
 - Next: prio5 **rq_204** (Zorgbedrijf/Mons/Digipolis hole-fill); deferred **rq_116** SWA
+
+### 2026-07-28T20:25:00Z - tick 211
+- Unit: **rq_204** (FOI-adjacent hole-fill - **Brandweerzone Antwerpen** city toelage)
+- Found (strong ebesluit Toelagen 2025):
+  - **City package locked EUR 81.535m**: werking **76.438m** + respons **3.343m** + invest **1.753m**.
+  - Algemene werking **76.325m** after index (**3.44m**) + cyber (**0.17m**) withhold; MJP werk envelope **83.393m**.
+  - Multi-commune zone: **Antwerpen + Wijnegem + Zwijndrecht**.
+  - Dual safety stack with **PZA 320.7m 2026** ? city safety transfers class **~402m** (mixed years).
+- Wrote: sources 1; entity 1; budgets 7; cmt 2; lb 2; rq_204=done; seeded **rq_205**.
+- FOI: 2026 BZA package + federal fire base residual; Zorgbedrijf 2026 full; Mons BI2026 residual.
+- Next: prio5 **rq_205**; deferred **rq_116** SWA.
