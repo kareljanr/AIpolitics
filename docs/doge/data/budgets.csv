@@ -767,3 +767,4 @@ bud_city_l5_brugge_register_xref_2024,city_brugge,2024,99253041.87,,,outturn,src
 bud_city_l5_mons_ord_dep_xref_2025,city_mons,2025,244180817.5,,,budgeted,src_doge_cities_l5_transparency_2026,strong,Cross-ref tick104: Mons ord depenses 2025 budget PDF (not register total)
 bud_fed_taxex_total_2023,fod_finance,2023,39402010000,,,estimated,src_fps_taxex_inventory_2026_pdf,strong,"Federal tax expenditure inventory quantified total 39.402bn (not ESA expenditure)"
 bud_ffs_direct_2024,fod_finance,2024,10781900000,,,estimated,src_fps_ffs_2026_summary_nl,strong,"FFS 5th inv direct subsidies benchmark1 10.782bn 1.7pct GDP"
+bud_ffs_gas_product_diff_2024,fod_finance,2024,4089400000,,,estimated,src_fps_ffs_2026_gas_product_t15,strong,"FFS product rate-diff gas 4.089bn opportunity cost vs gasoline TOE"

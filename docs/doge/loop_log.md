@@ -921,3 +921,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; taxex multi-year gas reduced + gasolie + binnenvaart; commitments +2; leaderboard +2; **FOI gap_fed_gas_reduced_firms ready**; rq_112=done; spawned **rq_113**; ticks=112
 - FOI opened: **gap_fed_gas_reduced_firms** → ready (human send)
 - Next: **rq_113** aardgas product-diff €4.09bn or low **rq_107** SWA
+
+### 2026-07-27T03:00:00Z — tick 113
+- Unit: **rq_113** (Natural gas product rate-diff FFS + social tariff path)
+- Found (strong FFS 2026 Tables 15+1):
+  - **Aardgas product rate-diff** (bench1 vs gasoline TOE): **2019–24 €4,741.5 / 4,538.0 / 5,124.3 / 4,854.2 / 3,722.4 / 4,089.4 m**. Largest single product-diff line. End-use: industry **55.8%**, housing **25.2%**, commercial **12.8%**, agriculture **4.9%**, transport **1.4%**. Bench2 2024 split: business **€470.3m** + non-business **€1,353.3m**. Pre-2022 series exclude federal gas contribution (method break).
+  - **Not double-count** with EBO reduced rate (€903m) or VAT 6% gas HH (€635m) — different instruments.
+  - **Sociaal tarief gas** (permanent CREG cash): **89 / 79 / 95 / 428 / 268 / 96 m** 2019–24. **RVT extension** peak **€462.2m** 2023 then **€27.7m** 2024. Targeted contrast to untargeted €4.09bn product gap.
+  - Diesel product residual after petrol equalisation: **€273.3m** 2024.
+- Wrote: sources +2; taxex multi-year gas product-diff + social/RVT + diesel residual; commitments +2; leaderboard +2; budgets +1; rq_113=done; spawned **rq_114**; ticks=113
+- FOI opened: none (aggregates fully public)
+- Next: **rq_114** FFS synthesis/LPG or low **rq_107** SWA
