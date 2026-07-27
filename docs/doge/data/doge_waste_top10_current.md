@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **210** (2026-07-28) · **337** leaderboard rows  
+**As-of:** tick **220** (2026-07-28) · **363** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -48,4 +48,4 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | ~3.7 m | Mijn Kortingsbon fridge/washer vouchers |
 | 6 | `lb_company_cars_fpb` | 8.5 | 4.70 bn | Company cars TE package FPB |
 
-*Top 10 by priority_index still dominated by taxex/FFS/cheque packages. New L2 (PZA 321m, Fedasil 929m, Antwerp culture/CAW L5) are core service/infra — lower pure-waste priority unless unit-cost fails.*
+*Top 10 by priority_index still dominated by taxex/FFS/cheque packages. New Antwerp L2 (AGB mega stack ~631m, Integratie 25.8m, culture sample 7.92m) are core service/infra — lower pure-waste priority unless unit-cost fails.*

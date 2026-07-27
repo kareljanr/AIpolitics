@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T23:05:00Z,rq_212,219,no,"Scheduler 60s. Next prio5 rq_213 Digipolis/Mons/remaining L5; rq_116 SWA deferred. FOI ready human send. tick219 FAMEUS523k culture sample 7.92m STW280k. Next tick 220 progress@10."
+main,continuous,hole_fill,2026-07-28T23:20:00Z,progress@220,220,no,"Scheduler 60s. Next prio5 rq_213 Digipolis/Mons/remaining L5; rq_116 SWA deferred. FOI ready human send. tick220 progress L2~72-80% L5~8-16% AGB stack~631m."

@@ -2298,3 +2298,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; budgets 11; cmt 5; lb 4; foi note; rq_212=done; seeded **rq_213**.
 - FOI: residual culture partners + Digipolis personnel + Mons BI2026 human send.
 - Next: prio5 **rq_213**; **tick 220 progress coverage % + waste top10**; deferred **rq_116** SWA.
+
+### 2026-07-28T23:20:00Z - tick 220 — progress coverage % + waste top10
+- Unit: **progress@220** (mandatory every-10-ticks refresh; no new research unit)
+- Coverage (order-of-magnitude vs €347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~72–80%** (up from ~70–78% @210) — Antwerp mega AGB/zone stack **~631m** same-year 2026 (PZA+ZBA+AGSO+BZA+Integratie+…)
+  - **D L5:** **~8–16%** still thin structural — culture sample **7.92m** (8 houses), CAW 2.3m, FreeClinic 0.97m, FAMEUS/STW/Rataplan
+  - **E FOI ready:** **~71** (total FOI rows ~75)
+- Inventory: budgets ~2324 · commitments ~394 · leaderboard ~363 · entities ~148 · sources ~456
+- Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 · company cars FPB ~8.5); new city AGB L2 not pure-waste top
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log
+- Next: prio5 **rq_213** (Digipolis/Mons/remaining L5); deferred **rq_116** SWA

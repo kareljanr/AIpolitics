@@ -20,39 +20,40 @@
 
 ---
 
-## Snapshot at **tick 210** (2026-07-28)
+## Snapshot at **tick 220** (2026-07-28)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~70–78%** (order of magnitude) | Strong: prior holdings/ports/rail + **Fedasil 929m**, **MDK GIP 72–92m**, **PZA city toelage 321m**, **Enabel 407m**; residual SS bulk + many local ASBL + Mons BI2026 + Zorgbedrijf full |
-| **D. L5 named end-receivers** | **~8–15%** of TE (generous) | Antwerp culture 7-house sample **7.4m**, CAW **2.3m**, FreeClinic **0.97m**; still thin vs TE |
+| **C. L2 entity totals** | **~72–80%** (order of magnitude) | Strong: prior holdings + **Antwerp mega AGB/zone stack ~631m** same-year 2026 (PZA 321 + ZBA 89 + AG SO 88 + BZA 87 + Integratie 26 + …); residual SS bulk + many local ASBL + Mons BI2026 + Digipolis full personnel |
+| **D. L5 named end-receivers** | **~8–16%** of TE (generous) | Antwerp culture **8-house sample 7.92m**, CAW **2.3m**, FreeClinic **0.97m**, FAMEUS **0.52m**, STW **0.28m**; still thin vs TE |
 | **E. FOI-ready gaps** | **~71** drafts ready | Human send only — closes D when answered |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
 
-### Inventory (tick 210)
+### Inventory (tick 220)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,227 |
-| commitments.csv | ~369 |
-| leaderboard.csv | ~337 |
-| entities.csv | ~138 |
-| sources.csv | ~433 |
+| budgets.csv | ~2,324 |
+| commitments.csv | ~394 |
+| leaderboard.csv | ~363 |
+| entities.csv | ~148 |
+| sources.csv | ~456 |
 | FOI ready | ~71 |
 | FOI total rows | ~75 |
-| research_queue | ~204 (open: 2) |
+| research_queue | ~213 (open: 2) |
 
-### What improved since tick 200
+### What improved since tick 210
 
-- **Fedasil** federal asylum: dotation **929m**, third-party **559m** 2024; L5 partners FOI  
-- **MDK** GIP invest **72.5 / 92.1 / 92.2m** 2025–27 dual AWV/DVW  
-- **Antwerp culture L5** ebesluit: Toneelhuis **3.30m**, OBV **1.79m**, ASO **0.61m**, Zomer **1.21m**, ExtraCity **0.15m**, DeSingel **0.10m**, JEF **0.24m** (sample **7.40m** of ~35m envelope)  
-- **Politiezone Antwerpen** city toelage **320.7m** 2026 (staff **306m**) — largest city transfer mapped  
-- **CAW** Kwadraat **1.28m** + Parkours **0.99m**; **Free Clinic** drug package **0.97m**  
-- **Enabel** omzet **407m** dual BIO (tick 201)  
+- **Zorgbedrijf Antwerpen** city package **89.3m** 2026 (vs 65.0m 2025) — structure shift personnel/discounts  
+- **Brandweerzone Antwerpen** city package **87.5m** 2026; same-year safety PZA+BZA **408m**  
+- **AG Stedelijk Onderwijs** **88.2m** + **MPA** **4.05m** 2026  
+- **VESPA 6.0m** + **CIA/Erfgoed 7.9m** + **Energie 0.59m** Feb AGB batch  
+- **Integratie en Inburgering** **25.8m** + **Beschut Wonen 0.97m**  
+- **Mega AGB/zone stack ~631m** same-year 2026 city parastatal class  
+- Culture L5 sample **7.40 → 7.92m** (+FAMEUS); STW **280k**; Rataplan invest **600k**  
 
 ---
 
@@ -69,7 +70,8 @@
 | 180 | 100% | 100% | ~60–68% | ~8–12% | ~55 | VL water stack |
 | 190 | 100% | 100% | ~62–70% | ~6–13% | ~60 | SFPIM+airports+Credendo |
 | 200 | 100% | 100% | ~68–76% | ~7–14% | ~68 | Holdings+ports+rail dual |
-| **210** | **100%** | **100%** | **~70–78%** | **~8–15%** | **~71** | **Current** (Fedasil+MDK+Antwerp L5+PZA+CAW) |
+| 210 | 100% | 100% | ~70–78% | ~8–15% | ~71 | Fedasil+MDK+Antwerp L5+PZA+CAW |
+| **220** | **100%** | **100%** | **~72–80%** | **~8–16%** | **~71** | **Current** (Antwerp AGB mega stack ~631m) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 
