@@ -1242,3 +1242,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; budgets 8; cmt_unemp_pay_org_admin_2024; lb_union_pay_admin_169m; rq_138=done; FOI residual L5 split priority 8.
 - FOI: gap_unemp_pay_unit_cost updated (aggregates filled; per-union unit cost still ready).
 - Next: prio7 **rq_139 mutualities** / **rq_143 Antwerp** / **rq_155 company cars**.
+
+### 2026-07-27T19:50:00Z — tick 139
+- Unit: **rq_139** (Mutualities RIZIV public financing — admin package)
+- Found (strong KB-cited; medium 2025):
+  - **5 landsbonden admin envelope:** **€1.195bn 2023** · **€1.285bn 2024** (KB 9 Apr 2024 BS) · **€1.375bn 2025** medium (+7% y/y; +15% in 2y).
+  - **HR Rail Care:** **€22.8m 2024** / €21.2m 2023.
+  - Total 5+rail 2024 ˜ **€1.308bn**.
+  - Members end-2022 (proportional split base): CM 4.59m · Solidaris 3.28m · Helan 2.26m · Neutral 0.59m · Liberal 0.54m.
+  - vs RIZIV care authorized **€40.99bn 2026** ? admin class ~**3.4%** of care package.
+  - Accountability reform path: **€25m 2026 ? €100m 2029** (medium reform motives).
+  - Architecture: multi-cashier VI parallel to unemployment union payment organisms; Rekenhof 2017 method audit.
+- Wrote: sources 4; budgets 9; cmt_mutual_admin_package; lb_mutual_admin_1_3bn; FOI gap_mutual_admin_l5 **ready**; rq_139=done.
+- FOI: L5 per-landsbond draft ready (human send).
+- Next: prio7 **rq_143 Antwerp** / **rq_129 SS** / **rq_155 company cars**.

@@ -991,3 +991,12 @@ bud_unemp_pay_org_path_2027,sec_ss,2027,192000000,,,estimate,src_kamer_56k1296_u
 bud_dermagne_formula_bonus_2025,sec_ss,2025,13000000,,,estimate,src_kamer_56k1296_uitbetaling,medium,2022 KB formula change effect +13m by 2025 vs pre-2022 formula
 bud_dermagne_formula_bonus_2022,sec_ss,2022,7600000,,,outturn,src_kamer_56k1296_uitbetaling,medium,2022 KB one-year extra 7.6m to payment organisms
 bud_hulpkas_admin_share_2024,hulpkas,2024,50000000,,,estimate,src_kamer_56k1296_uitbetaling,medium,Implied HVW share of 219-169=50m ONEM admin 2024; differs from HVW site institutional budget 6.084m — dual perimeter
+bud_mutual_admin_landsbonden_2023,sec_ss,2023,1194981000,,,budgeted,src_kb_admin_mutualites_2024,strong,5 landsbonden sickness-fund admin costs 1194.981m 2023 (KB envelope)
+bud_mutual_admin_landsbonden_2024,sec_ss,2024,1285441000,,,budgeted,src_kb_admin_mutualites_2024,strong,5 landsbonden admin costs 1285.441m 2024 (KB 9 Apr 2024 BS)
+bud_mutual_admin_hr_rail_2024,sec_ss,2024,22804000,,,budgeted,src_kb_admin_mutualites_2024,strong,HR Rail Care (NMBS mutuality) admin 22.804m 2024
+bud_mutual_admin_hr_rail_2023,sec_ss,2023,21199000,,,budgeted,src_kb_admin_mutualites_2024,strong,HR Rail Care admin 21.199m 2023
+bud_mutual_admin_total_5plus_rail_2024,sec_ss,2024,1308245000,,,budgeted,src_kb_admin_mutualites_2024,strong,Landsbonden+HR Rail admin sum 1308.245m 2024
+bud_mutual_admin_landsbonden_2025,sec_ss,2025,1375165000,,,budgeted,src_medisphere_mutual_admin_2025,medium,5 landsbonden admin 1375.165m 2025 (+7pct) trade press citing official
+bud_mutual_admin_share_care_2026,sec_ss,2026,1375165000,,,estimate,src_medisphere_mutual_admin_2025,medium,Admin class ~1.375bn vs RIZIV care authorized 40.986bn 2026 (~3.4pct of care package; admin year may lag)
+bud_mutual_responsabilisation_2026,sec_ss,2026,25000000,,,planned,src_medisphere_mutual_admin_2025,medium,Reform path mutualité financial accountability 25m 2026 (class 1.8pct of admin envelope)
+bud_mutual_responsabilisation_2029,sec_ss,2029,100000000,,,planned,src_medisphere_mutual_admin_2025,medium,Reform path accountability 100m 2029 (class 7.3pct of current admin)
