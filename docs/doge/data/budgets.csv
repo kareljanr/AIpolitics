@@ -2740,3 +2740,12 @@ bud_tv_sq_vek_bo2024,toerisme_vlaanderen,2024,74816000,,,budgeted,src_vl_toerism
 bud_tv_eventflanders_vak_bo2024,toerisme_vlaanderen,2024,3500000,,,budgeted,src_vl_toerisme_bbt_bo2024,strong,EventFlanders invest VAK 3.5m BO2024 (+0.5m VAK-ruiter possible)
 bud_tv_eventflanders_vek_bo2024,toerisme_vlaanderen,2024,4357000,,,budgeted,src_vl_toerisme_bbt_bo2024,strong,EventFlanders invest VEK 4.357m BO2024; werk 1.0m separate
 bud_visit_brussels_prog302_2024,visit_brussels,2024,14900000,,,budgeted,src_ccrek_bru_credits_prov_2025_visit,strong,Cour: VISIT.39.302.08 Soutenir le tourisme BI2024 initial 14.9m; partial not full agency package
+bud_wal_prog_09018_tourisme_2026,wallonie_gov,2026,65632000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,EP Lescrenier prog 09.018 Tourisme CE=CL 65.632m 2026 (was 69.868m 2025)
+bud_wal_prog_09018_tourisme_2025,wallonie_gov,2025,69868000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,EP: prog 09.018 2025 ini CE=CL 69.868m
+bud_tourisme_wallonie_dot_2026,tourisme_wallonie,2026,48578000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,DF 018.003 subvention fonctionnement Tourisme Wallonie ex-CGT 48.578m CE=CL
+bud_tourisme_wallonie_dot_2025,tourisme_wallonie,2025,49080000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,DF 018.003 2025 ini 49.080m
+bud_visitwallonia_subvention_2026,visitwallonia,2026,13054000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,DF 018.007 subvention WBT-VISITWallonia fonctionnement 13.054m CE=CL
+bud_visitwallonia_subvention_2025,visitwallonia,2025,12934000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,DF 018.007 2025 ini 12.934m
+bud_visitwallonia_global_dep_2026,visitwallonia,2026,15400000,,,budgeted,src_wal_bud37_visitwallonia_2026,strong,bud37 OIP: depenses globales 15.4m initial 2026 no BA adjustment; > regional subvention 13.054m
+bud_wal_crac_tourisme_2026,wallonie_gov,2026,4000000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,DF 018.002 CRAC tourisme financement alternatif 4.000m (was 7.854m 2025)
+bud_wal_crac_tourisme_2025,wallonie_gov,2025,7854000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,CRAC tourisme 2025 ini 7.854m

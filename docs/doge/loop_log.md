@@ -2739,3 +2739,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities TV+Visit; budgets +13; cmt +3; lb +5; FOI gap_visit_brussels_budget_full + gap_tv_presentation_year_confirm ready; drafts; raw PDFs; rq_246=done; spawn rq_247; ticks=255
 - FOI: Visit full package + optional TV year stamp human send
 - Next: prio5 **rq_247**; deferred **rq_116** SWA
+
+### 2026-07-29T15:00:00Z — tick 256
+- Unit: **rq_247** (FOI-adjacent hole-fill — **VISITWallonia dual tourism + Tourisme Wallonie**)
+- Found (strong primary EP Lescrenier BI2026 + bud37):
+  - **Prog 09.018 Tourisme TOTAL CE=CL EUR 65.632m** 2026 (was 69.868m 2025).
+  - **Tourisme Wallonie** (ex-CGT) fonctionnement **48.578m** (49.080m 2025).
+  - **VISITWallonia** (ex-WBT) subvention **13.054m**; **global depenses 15.4m** initial 2026 (bud37).
+  - CRAC tourisme **4.000m** (was 7.854m).
+  - Triple promo: TV SQ VEK **74.8m** | Visit prog302 **14.9m** partial | VW global **15.4m** (years/scopes differ — not additive).
+  - WAL also runs dual admin+promo (TW 48.6 + VW 15.4) vs VL single Toerisme agency.
+- Wrote: sources +2; entities visitwallonia + tourisme_wallonie; budgets +9; cmt +3; lb +4; raw PDFs; rq_247=done; spawn rq_248; ticks=256
+- FOI: none new (material euros sourced); prior Visit full + FIT still human send
+- Next: prio5 **rq_248**; deferred **rq_116** SWA
