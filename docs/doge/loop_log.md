@@ -1475,3 +1475,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; entities 3; budgets ~35; cmt 3; lb 4; rq_146=done; FOI residual ready.
 - FOI: gap_dgd_l5_projects (top50 projects + Enabel reconcile) human send only.
 - Next: prio5 **rq_147 defence** / **rq_150 justice** / **rq_151 police** / **rq_121 hole-fill**.
+
+### 2026-07-28T02:05:00Z — tick 157
+- Unit: **rq_147** (Defence major contracts L5 named)
+- Found (strong primary SV2025 + Rekenhof 2025_16):
+  - **Portfolio 2026-34 (Cst26):** commit **EUR 33.784bn** · pay **24.661bn** (Land 13.9 · Air 10.3 · Maritime 3.4 · ICI 3.5 · Comdo 2.7).
+  - **Named L5 (SV):** F-35 **+11** **1.672bn** (+ support **445m**) · 3rd **ASWF** **1.270bn** · **NASAMS** 10 FU **2.032bn** · SBAMD long 3 FU **1.982bn** · MCM toolboxes **657m** · SAR heli 4 **193m**.
+  - **Camo (CoA):** 382 Griffon + 60 Jaguar **1.575bn** invest · lifecycle TCO **≥14.7bn**/25y · STAR motorized extra **4.78bn** · STAR law **+11.176bn** 2023-30.
+  - **Budget 2025 draft (CoA):** commit **12.9bn** / pay **10.5bn**; 2% GDP path from 2025.
+- Wrote: sources 2; budgets ~25; cmt 4; lb 5; rq_147=done; FOI residual ready.
+- FOI: gap_defence_contract_cash (signed cash-by-year major contracts) human send only.
+- Next: prio5 **rq_150 justice** / **rq_151 police** / **rq_121 hole-fill**.

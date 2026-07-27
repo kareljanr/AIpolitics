@@ -1356,3 +1356,29 @@ bud_enabel_assets_2025,enabel,2025,217367384,,,outturn,src_enabel_ra_2025_26,str
 bud_enabel_eu_contracts_2025,enabel,2025,152000000,,,commitment,src_enabel_ra_2025_26,strong,EU/Team Europe 22 contracts +2 budget increases total 152m signed 2025
 bud_enabel_intl_finance_2025,enabel,2025,182000000,,,commitment,src_enabel_ra_2025_26,strong,Contracts with international financial partners 182m 2025 of which 80pct public mandate
 bud_enabel_activity_target_2025,enabel,2025,400000000,,,budgeted,src_enabel_ra_2025_26,medium,Organisational target approaching 400m annual activities 2025
+bud_def_capacity_commit_2026_34,mod_defensie,2026,33784153531,,,commitment,src_defensie_sv_2025,strong,SV2025 annex C total vastlegging 2026-2034 EUR 33.784bn constant 2026
+bud_def_capacity_pay_2026_34,mod_defensie,2026,24661004760,,,budgeted,src_defensie_sv_2025,strong,SV2025 total vereffening 2026-2034 EUR 24.661bn Cst26
+bud_def_air_commit_2026_34,mod_defensie,2026,10280805049,,,commitment,src_defensie_sv_2025,strong,Air dimension commit 10.281bn 2026-34
+bud_def_land_commit_2026_34,mod_defensie,2026,13862344826,,,commitment,src_defensie_sv_2025,strong,Land dimension commit 13.862bn
+bud_def_maritime_commit_2026_34,mod_defensie,2026,3429737355,,,commitment,src_defensie_sv_2025,strong,Maritime commit 3.430bn
+bud_def_ici_commit_2026_34,mod_defensie,2026,3527691311,,,commitment,src_defensie_sv_2025,strong,ICI cyber-intel commit 3.528bn
+bud_def_comdo_commit_2026_34,mod_defensie,2026,2683574990,,,commitment,src_defensie_sv_2025,strong,Command and ops support commit 2.684bn
+bud_def_f35_extra11_2026,mod_defensie,2026,1672258720,,,commitment,src_defensie_sv_2025,strong,Air combat multirole 11EA F-35 incl mission equipment 1.672bn Cst26 first year 2026
+bud_def_f35_support_2026,mod_defensie,2026,445104480,,,commitment,src_defensie_sv_2025,strong,F-35 support equipment spare parts config updates 445.1m
+bud_def_nasams_10fu_2026,mod_defensie,2026,2032400000,,,commitment,src_defensie_sv_2025,strong,SBAMD short/medium NASAMS 10 firing units 2.032bn
+bud_def_sbamd_long_3fu_2029,mod_defensie,2029,1981590000,,,commitment,src_defensie_sv_2025,strong,SBAMD long-range 3 firing units 1.982bn first year 2029
+bud_def_sar_heli4_2026,mod_defensie,2026,193071489,,,commitment,src_defensie_sv_2025,strong,SAR helicopters 4EA 193.1m
+bud_def_afsc_awacs_2026,mod_defensie,2026,580443033,,,commitment,src_defensie_sv_2025,strong,Alliance Future Surveillance Control incl AWACS update 580.4m
+bud_def_aswf3_2026,mod_defensie,2026,1270250000,,,commitment,src_defensie_sv_2025,strong,3rd Anti-Submarine Warfare Frigate ASWF 1.270bn commit / 1.223bn pay
+bud_def_aswf_updates_2029,mod_defensie,2029,545213400,,,commitment,src_defensie_sv_2025,strong,ASWF updates upgrades support 545.2m
+bud_def_mcm_toolboxes_2026,mod_defensie,2026,656987876,,,commitment,src_defensie_sv_2025,strong,MCM Toolboxes 657.0m
+bud_def_mcmv_updates_2026,mod_defensie,2026,211877700,,,commitment,src_defensie_sv_2025,strong,MCMV updates upgrades additional material 211.9m
+bud_def_logistics_ship_2033,mod_defensie,2033,274374000,,,commitment,src_defensie_sv_2025,strong,Logistic Support Ship 274.4m first year 2033
+bud_def_camo_griffon_jaguar_2018,mod_defensie,2018,1575000000,,,commitment,src_coa_wederuitrusting_2025,strong,Camo contract 18LP100 382 Griffon + 60 Jaguar 1.575bn current EUR investment
+bud_def_motorized_lifecycle_25y,mod_defensie,2024,14700000000,,,estimate,src_coa_wederuitrusting_2025,strong,Lifecycle cost motorized capacity investments 2018+2022 min 14.7bn over 25y 2024 prices incl ops munition infra
+bud_def_star_extra_2023_30,mod_defensie,2023,11176070000,,,commitment,src_coa_wederuitrusting_2025,strong,STAR military programming law +11.176bn constant 2022 for investments 2023-2030
+bud_def_star_motorized_extra,mod_defensie,2023,4780000000,,,commitment,src_coa_wederuitrusting_2025,strong,STAR extra motorized capacity envelope 4.78bn
+bud_def_sv2016_weapons_9_2bn,mod_defensie,2016,9200000000,,,commitment,src_coa_wederuitrusting_2025,strong,SV2016 weapons systems envelope 9.2bn class
+bud_def_budget_2025_commit,mod_defensie,2025,12900000000,,,budgeted,src_coa_wederuitrusting_2025,strong,Draft budget 2025 Defensie 12.9bn vastleggingen / 10.5bn vereffeningen (CoA)
+bud_def_budget_2025_pay,mod_defensie,2025,10500000000,,,budgeted,src_coa_wederuitrusting_2025,strong,Draft budget 2025 liquidation credits 10.5bn
+bud_def_knds_maint_to_2055,mod_defensie,2025,1488000000,,,commitment,src_coa_wederuitrusting_2025,medium,KNDS maintenance related path class 1.488bn to 2055 incl 248m spare stock 2025-28
