@@ -4287,3 +4287,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +1; budgets +14; cmt +1; lb +6; FOI **gap_iriscare_l5_2024** ready + draft; rq_368=done; spawn **rq_369**; ticks=377
 - FOI: private AF caisses + MR operators + payroll L5 human send only
 - Next: prio5 **rq_369**; deferred **rq_116** SWA
+
+### 2026-08-01T03:45:00Z - tick 378
+- Unit: **rq_369** (FOI-adjacent hole-fill - **New Samusocial RA2025 multi-funder budget L5**)
+- Found (strong primary Samusocial Rapport activite 2025 p125):
+  - **Budget 2025 EUR 72.444781m** (calendar)
+  - Financing: **COCOM 38.8% (~28.1m)** - **Fedasil 36.7% (~26.6m)** - **RBC 17.6% (~12.8m)** - INAMI 3.3 - Iriscare 1.3 - BrussHelp 0.7 - Maribel 0.5 - Actiris 0.1
+  - Missions: **urgence 50.5% (~36.6m)** - **Fedasil DPI 34.6% (~25.1m)** - support 11% - maraudes 2.5 - housing 1.4
+  - Dons collected 2025 **0.530m**; 2024 carry **0.201m**
+  - Activity: 11383 hosted / 56951 shelter requests / 23402 street / 2159 exits
+  - Dual COCOM BI2026 71.9m; CoA prior 41.8m narrower class; accounts 2020-24 still FOI
+- Wrote: sources +1; budgets +17; cmt +1; lb +6; entity note; FOI **gap_samusocial_accounts_l5** ready + draft; rq_369=done; spawn **rq_370**; ticks=378
+- FOI: general accounts 2020-25 + FTE + cash codes human send only
+- Next: prio5 **rq_370**; deferred **rq_116** SWA
