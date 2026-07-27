@@ -3392,3 +3392,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity fed_consultancy_stack; budgets +14; cmt +2; lb +4; FOI gap_fed_consultancy_annual_post2022 ready; draft; raw CoA PDF; rq_301=done; spawn rq_302; ticks=309
 - FOI: annual series 2023-26 human send
 - Next: **MANDATORY rq_300 progress@310**; then rq_302; deferred **rq_116** SWA
+
+### 2026-07-30T17:45:00Z - tick 310 (progress milestone)
+- Unit: **rq_300** (mandatory progress@310 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~88-96%** (up from ~87-95% @300) — Kamer-dotatie 9-inst pack **149.3m** kred 2026; RvS **~50m** IBZ-hosted dual Hof; CoA consultancy **~0.84bn/yr** class; KSC/GBA/Ombuds mapped
+  - **D L5:** **~15-24%** — consultancy top buyers named (NMBS/Infrabel/Finances 3y); ETF EUR FOI residual
+  - **E FOI ready:** see progress file (answered ~5)
+- Waste top10: **stable** fossil/company cars/cheque TE/EIWT; consultancy high-pi mechanism noted off pure annual top10 unless surpasses
+- Inventory: budgets/commitments/leaderboard/entities/sources refreshed in progress file
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_300=done; ticks=310
+- Next: prio5 **rq_302**; deferred **rq_116** SWA; human FOI send stack

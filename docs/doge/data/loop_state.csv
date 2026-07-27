@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T17:15:00Z,rq_301,309,no,Scheduler 60s. NEXT MANDATORY rq_300 progress@310; then rq_302. rq_116 SWA deferred. tick309 CoA consultancy 2.52bn 2020-22.
+main,continuous,hole_fill,2026-07-30T17:45:00Z,rq_300,310,no,Scheduler 60s. Next prio5 rq_302; rq_116 SWA deferred. FOI ready. tick310 progress L2~88-96 L5~15-24 FOI~132; consultancy map.

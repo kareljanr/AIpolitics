@@ -20,44 +20,41 @@
 
 ---
 
-## Snapshot at **tick 300** (2026-07-30)
+## Snapshot at **tick 310** (2026-07-30)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~87–95%** (order of magnitude) | Up from ~86–94% @290: FPS Economy hole-fill **CREG crisis pack** peak **~2.09bn** 2023 + **H2 RRF eng ~316m** + **press concession BA ~176m** + **telecom connectivity 66.2m** + **Airbus/Clean Aviation 45m** + **ETF awards 129m** + **quality infra ~11m** + **BMA/FPB** + **surendettement 6.2m**; nuclear/asylum/ASEVA/Hedera already @290 |
-| **D. L5 named end-receivers** | **~15–23%** of TE (generous) | Slight uptick: ETF **140** named projects (EUR matrix FOI); H2/telecom/Airbus L5 FOI; pure ASBL/contractor bulk still residual |
-| **E. FOI-ready gaps** | **~124** drafts ready | Human send only; answered **~5** |
+| **C. L2 entity totals** | **~88–96%** (order of magnitude) | Up from ~87–95% @300: **Kamer-dotatie 9-inst pack** approved kred **€149.3m** (Rekenhof €71m + GBA €15.9m + Comité P €14.3m + Hof €14.5m + Ombuds €8.3m + HRJ €7.4m + CTRG €6.7m + Comité I €6.2m + FIRM €5.1m); **Raad van State ~€50m** IBZ-hosted dual Hof; AIG €9m + OCAD €4.1m; **CoA federal consultancy ~€0.84bn/yr class** (2.52bn 2020–22, IT 81%) |
+| **D. L5 named end-receivers** | **~15–24%** of TE (generous) | Slight uptick: consultancy **top buyers named** (NMBS €465m / Infrabel €319m / Finances €185m 3y); ETF 140 projects still EUR FOI; pure ASBL/contractor bulk residual |
+| **E. FOI-ready gaps** | **~132** drafts ready | Human send only; answered **~5** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**. Energy-crisis CREG channels (**~2bn** peak 2023) are **temporary TE-adjacent** social support, not permanent waste.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**. CoA consultancy **€2.52 bn / 3y** is **procurement-adjacent TE** (ops support), not pure taxex; annual class ~**€0.84 bn** for waste ranking.
 
-### Inventory (tick 300)
+### Inventory (tick 310)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~3,626 |
-| commitments.csv | ~557 |
-| leaderboard.csv | ~645 |
-| entities.csv | ~249 |
-| sources.csv | ~588 |
-| FOI ready | ~124 |
+| budgets.csv | ~3833 |
+| commitments.csv | ~583 |
+| leaderboard.csv | ~677 |
+| entities.csv | ~265 |
+| sources.csv | ~599 |
+| FOI ready | ~132 |
 | FOI answered | ~5 |
-| FOI total rows | ~131 |
-| research_queue | ~292 (open: rq_116 deferred + rq_292 hole-fill) |
+| FOI total rows | ~139 |
+| research_queue | ~302 (open: rq_116 deferred + rq_302 hole-fill) |
 
-### What improved since tick 290
+### What improved since tick 300
 
-- **Energy crisis CREG channel:** social tariff enlargement peak **733m** 2022 / pack **~2.09bn** 2023 + basisfonds **1.45bn**; dual mazout/heating fund (tick291–294).  
-- **H2 RRF:** eng class **300m** call/backbone + import **10m** + green steel **6m**; L5 FOI.  
-- **Press concession BA:** liq path **~168–176m** then **129–138m** (strong FPS path).  
-- **Telecom:** connectivity eng **66.2m** (5G 24 / white zones 40.7 / 6G 1.5) + DG admin **~2.4m**.  
-- **Aerospace:** Airbus recoverable advances **45m** eng + Clean Aviation residual.  
-- **ETF deepen:** calls I–VI awards **€129.1m** / 84 projects; **140** named projects Jul2026 overzicht; Doel LTO fee **20m/yr** financing.  
-- **Quality infra:** BELAC **~3.6m** + NBN pack **~7.1m** + EMPIR/EPM **0.32m**.  
-- **Consumer:** surendettement mediator fees **~6.2m/yr**.  
-- **Institutions:** CCE **~5.4m**; INR **~1.3m**; BMA **~9.1m**; FPB **~11.9m** (mapped earlier path refined).  
-- **Intl energy:** CERN **31.3m**; DK RES transfer path; small IEA/IRENA pack (@293).  
+- **Regulators fee-financed:** KSC budget class **~€8.1m** + NBB checks **€454k** (tick303); FANC fee model refined earlier.  
+- **GBA privacy regulator:** werkings **€15.1–15.3m** 2024–25; staff **84→96**; toewijzing cut via reserves (tick304).  
+- **Federale Ombudsman:** budget **€8.0–8.3m**; outturn 2024 **~€6.61m** util 83%; dots decline via boni X→X+2 (tick305).  
+- **Kamer-dotatie pack:** full **9 institutions** approved 2026 kred **€149.28m** / dots **€133.13m** (Moesen +0.78% dots); Rekenhof **€71m** reclassified as spend entity (tick306–307).  
+- **FIRM + CTRG:** approved **€5.08m** / **€6.69m** 2026 (tick307).  
+- **Raad van State dual finance:** IBZ-hosted **~€50m** 2025 vs Hof Kamer-dotatie **~€14.5m**; AIG **€9.05m**; OCAD **€4.12m** (tick308).  
+- **Federal consultancy CoA:** **€2.525bn** 2020–22 (IT **€2.03bn**); top NMBS/Infrabel/Finances; no central inventory — high waste-priority seed (tick309).  
 
 ---
 
@@ -83,4 +80,5 @@
 | 270 | 100% | 100% | ~82–90% | ~13–21% | ~98 | FWO/FNRS + Sciensano/FAVV + Innoviris L5 + FIB |
 | 280 | 100% | 100% | ~84–92% | ~14–22% | ~106 | SS CoA + Smals/KSZ + health + CREG/BIPT |
 | 290 | 100% | 100% | ~86–94% | ~14–22% | ~115 | Nuclear dual + asylum + Hedera stock + ASEVA |
-| **300** | **100%** | **100%** | **~87–95%** | **~15–23%** | **~124** | **Current** (FPS Economy energy/crisis/H2/telecom/ETF/quality + press) |
+| 300 | 100% | 100% | ~87–95% | ~15–23% | ~124 | FPS Economy energy/crisis/H2/telecom/ETF/quality |
+| **310** | **100%** | **100%** | **~88–96%** | **~15–24%** | **~132** | **Current** (Kamer-dotatie pack + RvS dual + CoA consultancy 2.52bn) |
