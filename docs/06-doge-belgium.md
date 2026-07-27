@@ -134,6 +134,20 @@ Sort leaderboard by `priority` descending.
 
 ---
 
+## Historical Waste Hall of Fame (past mega-disasters)
+
+Current DOGE scores **ongoing** budgets. The **Hall of Fame** scores **history**: ghost metro stations, bailouts, IT flops, multi-year taxex packages, waffle-iron infrastructure, policy design failures — with the same **taxpayer pain** columns as Proposal Radar (Belasting-FTE, nettoloon-jaren, werkminuten).
+
+| | |
+|--|--|
+| Public board | [doge/historical_waste_hall_of_fame.md](doge/historical_waste_hall_of_fame.md) |
+| CSV | [doge/data/historical_waste_hall.csv](doge/data/historical_waste_hall.csv) |
+| Rebuild | `python docs/doge/scripts/build_historical_waste_hall.py` |
+
+Seed v1 (~100+ rows). Ranges + confidence; **do not sum** overlapping multi-year rows.
+
+---
+
 ## Product: public leaderboard site (later)
 
 Minimum viable:
@@ -142,7 +156,8 @@ Minimum viable:
 2. One-page autopsy per top 25  
 3. “Submit a waste” form → GitHub issue  
 4. API dump (CSV)  
-5. Party voting tracker: did MPs protect the waste?
+5. Party voting tracker: did MPs protect the waste?  
+6. Historical Hall of Fame tab (past disasters + pain unit)
 
 Repo can start as markdown; site later.
 

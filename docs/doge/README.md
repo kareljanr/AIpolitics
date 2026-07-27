@@ -12,6 +12,9 @@ Operational engine for the Belgium waste map.
 | [foi/drafts/](foi/drafts/) | Letters ready to human-send |
 | [foi/archive/](foi/archive/) | Sent + answered copies |
 | [loop_log.md](loop_log.md) | Tick diary |
+| [historical_waste_hall_of_fame.md](historical_waste_hall_of_fame.md) | Historical Top 100+ waste decisions (pain metrics) |
+| [data/historical_waste_hall.csv](data/historical_waste_hall.csv) | Hall of Fame data |
+| [scripts/build_historical_waste_hall.py](scripts/build_historical_waste_hall.py) | Rebuild hall CSV + MD |
 
 ## Quick start
 
