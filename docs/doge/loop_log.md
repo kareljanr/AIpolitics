@@ -3184,3 +3184,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities ire+heating fund (+fod_economy); budgets +23; cmt +3; lb +6; FOI gap_sck_ire_passive ready; draft; rq_282=done; ticks=291
 - FOI: SCK/IRE passive cash outturn human send; AGMJ residual still ready
 - Next: prio5 **rq_283**; deferred **rq_116** SWA
+
+### 2026-07-30T08:45:00Z - tick 292
+- Unit: **rq_283** (FOI-adjacent hole-fill - **IRE-SCK partnership / SMART / SCK phys prot / FAPETRO / fusion / ETF**)
+- Found (strong primary Kamer 55K2933/016 FOD Economie Energie BA tables kEUR):
+  - **IRE-SCK partnership** BA 42.50.51.11.01: path **8.77 / 8.94 / 39.12 / 9.30 / 9.49 / 9.68 / 9.87m** 2021-27; CM Apr2017 **18.235m** 2017-18 + **8.1m/yr const-2017 to 2045**; request **65.842m** 2023-26.
+  - **SMART** BA 42.50.51.11.05: **13.5m** 2021 then 0 (to RRF); envelope **52m** 2019-20; add request **22.85m** const2020.
+  - **IRE invest** BA 42.50.51.11.07: **~4.0-4.4m/yr** 2021-26.
+  - **SCK phys prot** BA 42.50.61.41.05: **7.60 / 9.17 / 9.35 / 9.54 / 9.73 / 9.92m** 2021-26; dossier **50.483m** const2019.
+  - **SCK invest** BA 42.50.61.41.03: flat **4.111m/yr**.
+  - **FAPETRO**: personnel **0.635m** + control **2.44m** (levy **0.22 EUR/1000L**); ~3.1m class.
+  - **Fusion pack**: ERM research **686k** + unis **268k** + SCK **67k** = **~1.02m**; F4E direct **160k**; AGORIA **104k**; ETF **24.75m/yr**.
+- Wrote: sources +1; entity fapetro; budgets +69; cmt +6; lb +6; FOI gap_ire_sck_partnership_smart_cash ready; draft; rq_283=done; spawn rq_284; ticks=292
+- FOI: partnership/SMART/ETF L5 human send; dual passive + SCK dotatie still ready
+- Next: prio5 **rq_284**; deferred **rq_116** SWA

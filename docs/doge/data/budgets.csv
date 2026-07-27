@@ -3299,3 +3299,72 @@ bud_sck_passive_spend_2020,sck_cen,2020,12400000,,,outturn,src_kamer_55k2933_ene
 bud_sck_passive_spend_2021,sck_cen,2021,11100000,,,outturn,src_kamer_55k2933_energy_crisis_passive,strong,11.1m 2021
 bud_sck_passive_engagement_remaining,sck_cen,2022,231644000,,,commitment,src_kamer_55k2933_energy_crisis_passive,strong,Remaining engagement credit 231.644m; updated cap 161.379m
 bud_energy_crisis_social_pack_2023,fod_economy,2023,277854000,,,budgeted,src_kamer_55k2933_energy_crisis_passive,strong,Sum 2023: mazout 143.85 + collective 113 + heating fund 21.0 = 277.85m crisis social energy
+bud_ire_uranium_partnership_2021,ire_radioelements,2021,8768000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 8.768m; 2023 spike multi-year engagement class
+bud_ire_uranium_partnership_2022,ire_radioelements,2022,8943000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 8.943m; 2023 spike multi-year engagement class
+bud_ire_uranium_partnership_2023,ire_radioelements,2023,39122000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 39.122m; 2023 spike multi-year engagement class
+bud_ire_uranium_partnership_2024,ire_radioelements,2024,9304000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 9.304m; 2023 spike multi-year engagement class
+bud_ire_uranium_partnership_2025,ire_radioelements,2025,9490000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 9.490m; 2023 spike multi-year engagement class
+bud_ire_uranium_partnership_2026,ire_radioelements,2026,9680000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 9.680m; 2023 spike multi-year engagement class
+bud_ire_uranium_partnership_2027,ire_radioelements,2027,9874000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.01 IRE U enriched treatment + SCK public-public partnership liq 9.874m; 2023 spike multi-year engagement class
+bud_ire_sck_partnership_cm_2017_18,ire_radioelements,2017,18235000,,,commitment,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,CM 21 Apr 2017: 18.235 MEUR constant 2017 for years 2017+2018 partnership IRE-SCK
+bud_ire_sck_partnership_annual_const2017,ire_radioelements,2019,8100000,,,commitment,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,CM Apr 2017: 8.1 MEUR/yr constant 2017 from 2019 through 2045 inclusive partnership
+bud_ire_sck_partnership_request_2023_26,ire_radioelements,2023,65842000,,,estimate,src_kamer_55k2933_ire_sck_fusion_fapetro,medium,IRE+SCK dossier to DG Energy total 65.842m for years 2023-2026 (text Kamer p117)
+bud_ire_smart_2021,ire_radioelements,2021,13500000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.05 Projet SMART 13.5m eng+liq 2021; 0 thereafter on this BA (moved RRF)
+bud_ire_smart_envelope_2019_20,ire_radioelements,2019,52000000,,,commitment,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,SMART project financing decision 52 MEUR for 2019-2020 period (text)
+bud_ire_smart_add_request_2020,ire_radioelements,2020,22850000,,,estimate,src_kamer_55k2933_ire_sck_fusion_fapetro,medium,IRE request 22.850 MEUR constant 2020 complementary (EKOL/scol/020/L-028); then RRF
+bud_ire_invest_2021,ire_radioelements,2021,3978000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.07 IRE investments liq 3.978m; CM 5 Feb 2021 extra means 2021-26; ~3.9m/yr constant need
+bud_ire_invest_2022,ire_radioelements,2022,4058000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.07 IRE investments liq 4.058m; CM 5 Feb 2021 extra means 2021-26; ~3.9m/yr constant need
+bud_ire_invest_2023,ire_radioelements,2023,4139000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.07 IRE investments liq 4.139m; CM 5 Feb 2021 extra means 2021-26; ~3.9m/yr constant need
+bud_ire_invest_2024,ire_radioelements,2024,4221000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.07 IRE investments liq 4.221m; CM 5 Feb 2021 extra means 2021-26; ~3.9m/yr constant need
+bud_ire_invest_2025,ire_radioelements,2025,4306000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.07 IRE investments liq 4.306m; CM 5 Feb 2021 extra means 2021-26; ~3.9m/yr constant need
+bud_ire_invest_2026,ire_radioelements,2026,4392000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.51.11.07 IRE investments liq 4.392m; CM 5 Feb 2021 extra means 2021-26; ~3.9m/yr constant need
+bud_sck_invest_2021,sck_cen,2021,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_invest_2022,sck_cen,2022,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_invest_2023,sck_cen,2023,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_invest_2024,sck_cen,2024,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_invest_2025,sck_cen,2025,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_invest_2026,sck_cen,2026,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_invest_2027,sck_cen,2027,4111000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.03 SCK invest subsidy flat 4.111m/yr path 2021-27
+bud_sck_phys_prot_2021,sck_cen,2021,7595000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.05 SCK physical protection liq 7.595m
+bud_sck_phys_prot_2022,sck_cen,2022,9166000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.05 SCK physical protection liq 9.166m
+bud_sck_phys_prot_2023,sck_cen,2023,9349000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.05 SCK physical protection liq 9.349m
+bud_sck_phys_prot_2024,sck_cen,2024,9536000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.05 SCK physical protection liq 9.536m
+bud_sck_phys_prot_2025,sck_cen,2025,9727000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.05 SCK physical protection liq 9.727m
+bud_sck_phys_prot_2026,sck_cen,2026,9921000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.05 SCK physical protection liq 9.921m
+bud_sck_phys_prot_dossier_2020_25,sck_cen,2020,50483000,,,commitment,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,SCK dossier phys prot 2020-2025 total 50.483m constant 2019; CM 5 Feb 2021 approved extra to 2025
+bud_sck_phys_prot_prior_24_8m,sck_cen,2015,24800000,,,commitment,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,Prior multi-year phys prot financing total 24.8 MEUR (~26m current); started 2012
+bud_fapetro_personnel_2023,fapetro,2023,635000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 FAPETRO personnel 635k eng=liq path 2023-27 (569k 2021-22)
+bud_fapetro_personnel_2024,fapetro,2024,635000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 FAPETRO personnel 635k eng=liq path 2023-27 (569k 2021-22)
+bud_fapetro_personnel_2025,fapetro,2025,635000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 FAPETRO personnel 635k eng=liq path 2023-27 (569k 2021-22)
+bud_fapetro_personnel_2026,fapetro,2026,635000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 FAPETRO personnel 635k eng=liq path 2023-27 (569k 2021-22)
+bud_fapetro_personnel_2027,fapetro,2027,635000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 FAPETRO personnel 635k eng=liq path 2023-27 (569k 2021-22)
+bud_fapetro_personnel_2021,fapetro,2021,569000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 personnel 569k
+bud_fapetro_personnel_2022,fapetro,2022,569000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.110004 personnel 569k
+bud_fapetro_control_2021,fapetro,2021,2240000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.240m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_control_2022,fapetro,2022,2240000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.240m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_control_2023,fapetro,2023,2440000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.440m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_control_2024,fapetro,2024,2440000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.440m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_control_2025,fapetro,2025,2440000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.440m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_control_2026,fapetro,2026,2440000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.440m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_control_2027,fapetro,2027,2440000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121155 FAPETRO control/analysis liq 2.440m; levy 0.22 EUR/1000L since 2019
+bud_fapetro_it_2021,fapetro,2021,49000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121104 IT costs 49k 2021-22 table
+bud_fapetro_it_2022,fapetro,2022,49000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121104 IT 49k
+bud_fapetro_indemnities_2023,fapetro,2023,15000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 forfaitaire vergoedingen 15k path
+bud_fapetro_indemnities_2024,fapetro,2024,15000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 forfaitaire vergoedingen 15k path
+bud_fapetro_indemnities_2025,fapetro,2025,15000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 forfaitaire vergoedingen 15k path
+bud_fapetro_indemnities_2026,fapetro,2026,15000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 forfaitaire vergoedingen 15k path
+bud_fapetro_indemnities_2027,fapetro,2027,15000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 forfaitaire vergoedingen 15k path
+bud_fapetro_indemnities_2021,fapetro,2021,16000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 16k
+bud_fapetro_indemnities_2022,fapetro,2022,16000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.10.121199 16k
+bud_agoria_iterbelgium_2023,fod_economy,2023,104000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.32.00.01 AGORIA ITERBelgium contact cell 104k path
+bud_iter_f4e_direct_2023,fod_economy,2023,160000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.35.40.01 direct F4E/ITER + other fusion 160k path (131k 2021)
+bud_erm_iter_support_2023,fod_economy,2023,162000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.41.40.01 ERM/KMS support ITER 162k eng path
+bud_erm_iter_prototypes_2023,fod_economy,2023,267000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.41.40.02 ERM ITER ICRH prototypes 267k
+bud_sck_fusion_research_2023,sck_cen,2023,67000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.41.40.11 SCK fusion research 67k/yr
+bud_erm_fusion_research_2023,fod_economy,2023,686000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.41.40.12 ERM/KMS fusion research 686k/yr
+bud_ucl_ulb_fusion_2023,fod_economy,2023,134000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.45.24.01 FR unis UCL+ULB fusion 134k
+bud_nl_unis_fusion_2023,fod_economy,2023,134000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.45.25.01 NL unis fusion 134k
+bud_fusion_labs_pack_2023,fod_economy,2023,1021000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,Sum fusion lab BA 2023: ERM 686 + SCK 67 + FR 134 + NL 134 = 1.021m EUROfusion co-fund class
+bud_etf_transition_2023,fod_economy,2023,24750000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.90.313201 Energy Transition Fund 24.75m/yr path; call VII ~25m 2023 text
+bud_ire_phys_prot_ba_zero_2023,ire_radioelements,2023,0,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.04 IRE phys prot investments: multi-year table all 0 (transferred/inactive)
+bud_broader_approach_zero_2023,fod_economy,2023,0,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.41.40.03 Broader Approach Japan: 0 path 2021-27; federal historic cap 7 MEUR text
