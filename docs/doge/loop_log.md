@@ -2857,3 +2857,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity innoviris; budgets +24; cmt +1; lb +4; FOI gap_innoviris_l5_2025_26 ready; draft; raw PDFs+xlsx; rq_256=done; spawn rq_257; ticks=265
 - FOI: Innoviris 2025 L5 + 2026 BCR codes human send; AGMJ/APEFE residual still ready
 - Next: prio5 **rq_257**; deferred **rq_116** SWA
+
+### 2026-07-29T20:00:00Z — tick 266
+- Unit: **rq_257** (FOI-adjacent hole-fill — **FWO dual FNRS fundamental research funds**)
+- Found (strong primary JV/RA/Resultats):
+  - **FWO VL VAK** **€470.3m** 2024 / **€448.2m** 2025; **VEK** **436.8m** / **464.6m**.
+  - Fund projects **180?201m**; fund mandaten **109?112m**; SBO pack ~**94–95m**; infra **66.2?19.6m** (one-off timing).
+  - Beheers **19.3m (4.11%)** ? **23.1m (5.16%)**; agency bezold **9.0?9.3m**; federal package class **€44m**.
+  - **FNRS public subs** **€241.8m** 2024 / **€253.7m** 2025; global **262/279m**.
+  - FNRS split 2025: FWB **182.8m**; fed **40.8m**; WAL **22.8m**; Loterie **7.3m**; dons/Télévie class **~24.7m**.
+  - Doctorants remun **€58.3m** 2025; dual community research (not Innoviris/VLAIO applied).
+- Wrote: sources +1; entities fwo+fnrs; budgets +35; cmt +2; lb +4; FOI gap_fnrs_l5_grants_2024_25 ready; draft; raw PDFs; rq_257=done; spawn rq_258; ticks=266
+- FOI: FNRS L5 matrix human send; AGMJ/APEFE residual still ready
+- Next: prio5 **rq_258**; deferred **rq_116** SWA

@@ -2860,3 +2860,38 @@ bud_innoviris_produits_2025,innoviris,2025,28018881.95,,,outturn,src_innoviris_c
 bud_innoviris_remun_2025,innoviris,2025,7536269.18,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Remunerations 7.536m 2025
 bud_innoviris_assets_2025,innoviris,2025,74159136.27,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Total actif 74.159m end-2025
 bud_innoviris_result_2025,innoviris,2025,-24486622.01,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Resultat exercice -24.487m 2025 (draw on reserves/reported retained earnings)
+bud_fwo_vastlegging_2024,fwo,2024,470342148,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,VL vastleggingskrediet total BA2024 470.342m
+bud_fwo_vereffening_2024,fwo,2024,436818302,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,VL vereffeningskrediet total 436.818m 2024
+bud_fwo_fund_projects_2024,fwo,2024,180070272,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Fundamenteel onderzoek projecten 180.070m
+bud_fwo_fund_mandaten_2024,fwo,2024,109378331,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Fundamenteel mandaten net 109.378m (after fed/EU offset)
+bud_fwo_sbo_projects_2024,fwo,2024,51459910,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,SBO projects package 51.460m
+bud_fwo_sbo_mandaten_2024,fwo,2024,43004632,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,SBO mandaten 43.005m
+bud_fwo_klinisch_2024,fwo,2024,20252820,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Klinisch TBM+mandaten 14.073+6.180=20.253m
+bud_fwo_infra_2024,fwo,2024,66176183,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Infrastructuur package 66.176m (VSC+mid/zwaar+opstap)
+bud_fwo_beheers_2024,fwo,2024,19324422,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Beheerskosten 19.324m =4.11pct of VL vastlegging
+bud_fwo_bezold_agency_2024,fwo,2024,8950922,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Agency bezoldigingen personeel 8.951m of beheers
+bud_fwo_fed_package_2024,fwo,2024,44000000,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Federal package IIKW2+Maribel22.5+RSZ7.5+BV12=44m class
+bud_fwo_vastlegging_2025,fwo,2025,448182376,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,VL vastleggingskrediet total BA2025 448.182m
+bud_fwo_vereffening_2025,fwo,2025,464623314,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,VL vereffeningskrediet total 464.623m 2025
+bud_fwo_fund_projects_2025,fwo,2025,201394065,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Fundamenteel projecten 201.394m
+bud_fwo_fund_mandaten_2025,fwo,2025,111703492,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Fundamenteel mandaten net 111.703m
+bud_fwo_sbo_projects_2025,fwo,2025,50756663,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,SBO projects 50.757m
+bud_fwo_sbo_mandaten_2025,fwo,2025,43938867,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,SBO mandaten 43.939m
+bud_fwo_klinisch_2025,fwo,2025,20793069,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Klinisch TBM+mandaten 14.623+6.170=20.793m
+bud_fwo_infra_2025,fwo,2025,19596220,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Infrastructuur 19.596m (lower one-off vs 2024)
+bud_fwo_beheers_2025,fwo,2025,23107000,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Beheerskosten 23.107m =5.16pct of VL vastlegging
+bud_fwo_bezold_agency_2025,fwo,2025,9332000,,,budgeted,src_fwo_fnrs_jv_2024_25,strong,Agency bezoldigingen 9.332m
+bud_fnrs_public_subs_2024,fnrs,2024,241818225,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Subventions publiques 241.818m 2024
+bud_fnrs_global_2024,fnrs,2024,262182669,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Ressources globales 262.183m 2024
+bud_fnrs_fwb_2024,fnrs,2024,173540160,,,outturn,src_fwo_fnrs_jv_2024_25,strong,FWB contribution 173.540m 2024
+bud_fnrs_federal_2024,fnrs,2024,40326857,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Federal (IISN+FRSM) 40.327m 2024
+bud_fnrs_wal_2024,fnrs,2024,19931591,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Region wallonne 19.932m 2024
+bud_fnrs_loterie_2024,fnrs,2024,8019617,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Loterie Nationale 8.020m 2024
+bud_fnrs_dons_televie_2024,fnrs,2024,19868594,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Dons/legs 9.0m + Televie 10.9m class 2024
+bud_fnrs_public_subs_2025,fnrs,2025,253681971,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Subventions publiques 253.682m 2025
+bud_fnrs_global_2025,fnrs,2025,278871020,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Ressources globales 278.871m 2025
+bud_fnrs_fwb_2025,fnrs,2025,182779016,,,outturn,src_fwo_fnrs_jv_2024_25,strong,FWB contribution 182.779m 2025
+bud_fnrs_federal_2025,fnrs,2025,40783724,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Federal 40.784m 2025
+bud_fnrs_wal_2025,fnrs,2025,22773231,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Region wallonne 22.773m 2025
+bud_fnrs_loterie_2025,fnrs,2025,7346000,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Loterie Nationale 7.346m 2025
+bud_fnrs_doctorant_remun_2025,fnrs,2025,58279864,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Doctorants remun total in function 58.280m 2025
