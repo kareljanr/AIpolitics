@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T14:05:00Z,seed_wassalon_rq,122,no,"Scheduler 60s (platform min). No chain-on-complete. Next: rq_122 Wassalon or rq_152 GG bridge; mass queue open."
+main,continuous,hole_fill,2026-07-27T14:25:00Z,rq_122,123,no,"Scheduler 60s. Next open prio9: rq_152 GG bridge; then rq_123/124/125/130/131 prio8; FOI ready stack human send."

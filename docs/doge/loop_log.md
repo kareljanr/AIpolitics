@@ -848,6 +848,19 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T14:25:00Z -- tick 123
+- Unit: **rq_122** (VL Het Wassalon 800k deepen tender L5) — prio 9 open
+- Found (primary / sourced; no invent euros):
+  - **Strong (official):** ABB vlaanderen.be 17 Jun 2026 — campaign **3 years**, **2 seasons/year**; host Daphne Agten; themes LGBTQI+ / disability / gender; YT+Spotify+IG+FB; Mechelen launch.
+  - **Medium–strong (minister via VRT):** Gennez commissie Welzijn — full package **€800,000 / 3y** (creatie+productie+marketing+middenveld); **raamcontract** prijsafspraken; **Sept 2026** evaluation.
+  - **Medium (VRT press metrics):** YT top episode ~**2,300** views/month; IG ~**636** followers; IG clips often **10k+**; Spotify listens not public.
+  - **Medium (secondary claims, not tender PDF):** LDV United via VL raam “strategische en creatieve communicatiepartners” (Doorbraak quoting VB MP); **NoStrezz** portfolio self-claim “fully produced”.
+  - Cash-by-year and gunningsbedragen **still Unknown** → FOI residual.
+- Wrote: sources +4; commitments cmt_vl_wassalon updated; leaderboard + budgets notes; FOI draft + gap row residual; rq_122=**done**; ticks=123
+- FOI: gap_vl_wassalon_tender remains **ready** (human send); draft refined with named contractor claims to confirm/deny
+- Next: **rq_152** GG bridge prio9; or rq_123/124/125/130/131 prio8; do not idle
+
+
 ### 2026-07-27T14:20:00Z -- cadence: 60s scheduler (user)
 - User: drop timer; prefer chain-on-complete or 30s/1m.
 - Platform: durable scheduler is **interval-only** (no native on-complete chain); **min interval 60s** (30s not available).
