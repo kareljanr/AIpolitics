@@ -3818,3 +3818,17 @@ bud_ocad_vl_2025,ocad_cuta,2025,4121000,,,budgeted,src_ibz_rvs_hosted_2025,stron
 bud_ocad_ve_2025,ocad_cuta,2025,4123000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ hosted OCAD VE 4.123m 2025
 bud_ibz_hosted_judicial_pack_2025,gg_belgium,2025,139009000,,,budgeted,src_ibz_rvs_hosted_2025,strong,Sum VE 2025: RvS 49.971 + CGVS 58.801 + RVV 30.236 = 139.008m class judicial/admin independents hosted IBZ
 bud_ibz_hosted_oversight_pack_2025,gg_belgium,2025,63139000,,,budgeted,src_ibz_rvs_hosted_2025,strong,Sum VE: RvS 49.971 + AIG 9.045 + OCAD 4.123 = 63.139m non-asylum oversight/judicial hosted IBZ
+bud_fed_consultancy_total_2020_22,fed_consultancy_stack,2022,2524700000,,,estimate,src_ccrek_consultancy_2025,strong,CoA survey 137 orgs: total 2.5247bn incl VAT over 2020-2022 (3y cumulative)
+bud_fed_consultancy_annual_class,fed_consultancy_stack,2021,841566667,,,estimate,src_ccrek_consultancy_2025,medium,Derived annual class 2.5247bn/3 ~841.6m/yr average 2020-22; not year-specific outturn
+bud_fed_consultancy_it_2020_22,fed_consultancy_stack,2022,2032300000,,,estimate,src_ccrek_consultancy_2025,strong,IT 2.0323bn of which IH 576.9m + AO/OO 1455.4m
+bud_fed_consultancy_nonit_2020_22,fed_consultancy_stack,2022,492400000,,,estimate,src_ccrek_consultancy_2025,strong,Non-IT 492.4m of which IH 42.2m + AO/OO 450.1m
+bud_fed_consultancy_it_ih_2020_22,fed_consultancy_stack,2022,576900000,,,estimate,src_ccrek_consultancy_2025,strong,IT in-house Smals/Egov-class detachments 576.9m 2020-22
+bud_fed_consultancy_it_external_2020_22,fed_consultancy_stack,2022,1455400000,,,estimate,src_ccrek_consultancy_2025,strong,IT external contracts/public procurement 1.4554bn 2020-22
+bud_fed_consultancy_nmbs_2020_22,nmbs,2022,465100000,,,estimate,src_ccrek_consultancy_2025,strong,NMBS top buyer 465.1m (IH 104.2 + AO 360.9) = 9pct of NMBS purchase budget
+bud_fed_consultancy_infrabel_2020_22,nmbs,2022,318500000,,,estimate,src_ccrek_consultancy_2025,strong,Infrabel 318.5m (IH 40 + AO 278.5) = 12pct purchase budget; entity under rail dual
+bud_fed_consultancy_finances_2020_22,fod_finance,2022,185300000,,,estimate,src_ccrek_consultancy_2025,strong,FPS Finance 185.3m (IH 32.8 + AO 152.5) = 22pct purchase budget
+bud_fed_consultancy_bosa_2020_22,sec_federal,2022,134200000,,,estimate,src_ccrek_consultancy_2025,strong,FPS BOSA 134.2m (IH 30.8 + AO 103.4) = 45pct purchase budget
+bud_fed_consultancy_niras_2020_22,niras,2022,129100000,,,estimate,src_ccrek_consultancy_2025,strong,NIRAS 129.1m (IH 25.7 + AO 103.4) = 16pct purchase budget
+bud_fed_consultancy_smals_buy_2020_22,smals,2022,126100000,,,estimate,src_ccrek_consultancy_2025,strong,Smals as buyer 126.1m (79pct of its purchase budget) mainly external IT re-sold
+bud_fed_consultancy_riziv_2020_22,riziv,2022,115500000,,,estimate,src_ccrek_consultancy_2025,strong,RIZIV 115.5m (IH 27.7 + AO 87.9) = 48pct purchase budget
+bud_fed_cabinets_consultancy_2020_22,sec_federal,2022,6900000,,,estimate,src_ccrek_consultancy_2025,strong,Beleidsorganen cabinets: 6.9m over 3y; 5.9m from one Energy minister cabinets alone

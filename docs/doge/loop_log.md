@@ -3379,3 +3379,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities rvs+aig+ocad; budgets +8; cmt +4; lb +4; FOI gap_rvs_accounts_l5 ready; draft; rq_299=done; spawn rq_300 progress@310 + rq_301; ticks=308
 - FOI: RvS multi-year L5 human send
 - Next: prio5 **rq_301** hole-fill; **rq_300 progress@310** at tick 310; deferred **rq_116** SWA
+
+### 2026-07-30T17:15:00Z - tick 309
+- Unit: **rq_301** (FOI-adjacent hole-fill - **Rekenhof federal consultancy 2.52bn**)
+- Found (strong primary CoA 2025_39 Oct 2025, survey 137 orgs):
+  - Total consultancy **2020-2022: EUR 2.5247bn** incl VAT (~**0.84bn/yr** class).
+  - **IT 2.032bn (81%)** / non-IT **0.492bn**; IT IH **576.9m** + external **1.455bn**.
+  - Top buyers: **NMBS 465m** / Infrabel **319m** / Finances **185m** / BOSA **134m** / NIRAS **129m** / Smals **126m** / RIZIV **116m**.
+  - Cabinets beleidsorganen **6.9m** (85% one Energy minister).
+  - Smals external share of omzet **18%->36%** 2014-24; FTE **1395->2072**.
+  - No central inventory; no federal strategy (govt Jan 2025 commits to cut).
+- Wrote: sources +1; entity fed_consultancy_stack; budgets +14; cmt +2; lb +4; FOI gap_fed_consultancy_annual_post2022 ready; draft; raw CoA PDF; rq_301=done; spawn rq_302; ticks=309
+- FOI: annual series 2023-26 human send
+- Next: **MANDATORY rq_300 progress@310**; then rq_302; deferred **rq_116** SWA
