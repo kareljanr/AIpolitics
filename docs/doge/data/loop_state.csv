@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T11:45:00Z,rq_289,298,no,Scheduler 60s. Next: progress rq_290 @300 then rq_291. rq_116 SWA deferred. tick298 quality infra ~11m BELAC+NBN+metrology.
+main,continuous,hole_fill,2026-07-30T12:15:00Z,rq_291,299,no,Scheduler 60s. NEXT MANDATORY rq_290 progress@300. Then rq_292. rq_116 SWA deferred. tick299 surendettement 6.2m + telecom admin 2.4m.

@@ -3591,3 +3591,37 @@ bud_epm_contrib_2026,fod_economy,2026,200000,,,budgeted,src_kamer_55k2933_belac_
 bud_empir_contrib_2027,fod_economy,2027,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
 bud_epm_contrib_2027,fod_economy,2027,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
 bud_quality_infra_pack_2023,fod_economy,2023,10780000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Sum class 2023: BELAC 3.603 + Antennes 4.462 + patent 0.541 + NBN 2.074 + EMPIR 0.12 + EPM 0.20 = ~11.0m
+bud_surendettement_mediator_fees_2021,fed_surendettement,2021,6930000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_mediator_fees_2022,fed_surendettement,2022,5993000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_mediator_fees_2023,fed_surendettement,2023,6193000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_mediator_fees_2024,fed_surendettement,2024,6193000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_mediator_fees_2025,fed_surendettement,2025,6193000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_mediator_fees_2026,fed_surendettement,2026,6193000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_mediator_fees_2027,fed_surendettement,2027,6193000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.12.11.58 legal expenses honoraria fees debt mediators eng=liq
+bud_surendettement_staff_a_2021,fed_surendettement,2021,66000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_a_2022,fed_surendettement,2022,186000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_a_2023,fed_surendettement,2023,186000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_a_2024,fed_surendettement,2024,186000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_a_2025,fed_surendettement,2025,186000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_a_2026,fed_surendettement,2026,186000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_a_2027,fed_surendettement,2027,186000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.03 personnel administrative cell surendettement
+bud_surendettement_staff_b_2022,fed_surendettement,2022,128000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.04 personnel administrative cell surendettement
+bud_surendettement_staff_b_2023,fed_surendettement,2023,128000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.04 personnel administrative cell surendettement
+bud_surendettement_staff_b_2024,fed_surendettement,2024,128000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.04 personnel administrative cell surendettement
+bud_surendettement_staff_b_2025,fed_surendettement,2025,128000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.04 personnel administrative cell surendettement
+bud_surendettement_staff_b_2026,fed_surendettement,2026,128000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.04 personnel administrative cell surendettement
+bud_surendettement_staff_b_2027,fed_surendettement,2027,128000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 49.40.11.00.04 personnel administrative cell surendettement
+bud_surendettement_pack_2023,fed_surendettement,2023,6507000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,Sum 2023: mediator fees 6.193 + staff 0.186+0.128 = 6.507m
+bud_dg_telecom_personnel_2022,dg_telecom,2022,738000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.01.11.00.03 statutory personnel DG Telecom / BCO broadband plan
+bud_dg_telecom_personnel_2023,dg_telecom,2023,1048000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.01.11.00.03 statutory personnel DG Telecom / BCO broadband plan
+bud_dg_telecom_personnel_2024,dg_telecom,2024,1048000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.01.11.00.03 statutory personnel DG Telecom / BCO broadband plan
+bud_dg_telecom_personnel_2025,dg_telecom,2025,1048000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.01.11.00.03 statutory personnel DG Telecom / BCO broadband plan
+bud_dg_telecom_personnel_2026,dg_telecom,2026,1048000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.01.11.00.03 statutory personnel DG Telecom / BCO broadband plan
+bud_dg_telecom_personnel_2027,dg_telecom,2027,1048000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.01.11.00.03 statutory personnel DG Telecom / BCO broadband plan
+bud_dg_telecom_ops_2022,dg_telecom,2022,1669000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
+bud_dg_telecom_ops_2023,dg_telecom,2023,1386000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
+bud_dg_telecom_ops_2024,dg_telecom,2024,886000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
+bud_dg_telecom_ops_2025,dg_telecom,2025,886000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
+bud_dg_telecom_ops_2026,dg_telecom,2026,886000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
+bud_dg_telecom_ops_2027,dg_telecom,2027,886000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
+bud_dg_telecom_admin_pack_2023,dg_telecom,2023,2434000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,Sum 2023 admin: personnel 1.048 + ops 1.386 = 2.434m (excl connectivity subsidies 66.2m)

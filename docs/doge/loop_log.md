@@ -3265,3 +3265,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities belac+nbn; budgets +pack; cmt +4; lb +4; FOI gap_nbn_antennes_l5 ready low prio; draft; rq_289=done; spawn **rq_290 progress@300** + rq_291; ticks=298
 - FOI: NBN L5 low prio human send
 - Next: **rq_290 progress@300** then rq_291; deferred **rq_116** SWA
+
+### 2026-07-30T12:15:00Z - tick 299
+- Unit: **rq_291** (FOI-adjacent hole-fill before progress - **surendettement + telecom DG admin**)
+- Found (strong primary Kamer 55K2933/016):
+  - **Debt mediator fees** BA 49.40.12.11.58: **6.93 / 5.99 / 6.19m** path then flat **6.19m**; staff **~0.31m**; pack **~6.51m** 2023.
+  - **DG Telecom admin**: personnel **1.05m** + ops **1.39m** = **~2.43m** 2023 (dual connectivity subsidies 66.2m).
+- Wrote: sources +1; entities +2; budgets +pack; cmt +2; lb +2; FOI gap_surendettement_unit_cost ready; draft; rq_291=done; spawn rq_292; ticks=299
+- FOI: unit cost/cases human send
+- Next: **MANDATORY rq_290 progress@300**; then rq_292; deferred **rq_116** SWA
