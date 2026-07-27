@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,idle_waiting_foi,continuous,2026-07-27T05:05:00Z,idle,121,no,tick121 idle: no public open work; rq_116 Q4; FOI human-only.
+main,paused,continuous,2026-07-27T04:35:00Z,idle,120,yes,"AUTO-PAUSED after idle_waiting_foi ticks 117-120 (no public open work). Resume: paused=no + recreate 15m scheduler. FOI stack human-send."

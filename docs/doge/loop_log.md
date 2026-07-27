@@ -829,6 +829,12 @@ Append-only. Each tick adds a short entry.
 - Still at ticks_completed=104, last_unit=rq_104. Next queue head: **rq_105** or **rq_089**.
 
 
+### 2026-07-27T04:50:00Z -- auto-pause (idle_waiting_foi)
+- After ticks 117–120 idle (no public open work; FOI ready human-only), auto-pause to stop 15m idle fires.
+- Set `paused=yes`, mode=`paused`. Cancel scheduler **019fa06d7ee0**.
+- Resume: `paused=no` + recreate 15m DOGE scheduler; or seed research_queue / send FOIs.
+
+
 ### 2026-07-27T00:20:00Z — tick 105
 - Unit: **rq_105** (Federal/Flanders L5 recheck — FPS TE + VLAIO)
 - Found:
