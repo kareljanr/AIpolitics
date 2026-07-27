@@ -2706,3 +2706,11 @@ bud_fed_mdj_dot_vl_2026,vl_justitiehuizen,2026,90571934,,,budgeted,src_kamer_56k
 bud_fed_mdj_dot_fwb_2026,fwb_maisons_justice,2026,55834914,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Federal art47/10 FWB 55.834914m (cross-check ExpGen 55.7m close)
 bud_fed_mdj_dot_dg_2026,dg_justizhaus,2026,931313,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Federal art47/10 DG Justizhaus 0.931313m; closes receipt side of gap_dg_justizhaus_budget
 bud_fed_mdj_dot_bru_zero_2026,brussels_gov,2026,0,,,budgeted,src_kamer_56k1470_mdj_dot_2026,strong,Kamer table column 0.000 for third community line (BRU not separate recipient of art47/10 justice houses)
+bud_awex_package_2026,awex,2026,76843000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,AWEX programme TOTAL eng=liq 76843k EUR 2026 (dot+missions+ACE)
+bud_awex_package_2025,awex,2025,67547000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,AWEX programme TOTAL 67547k 2025 (lower due 9m treasury remonte)
+bud_awex_dotation_2026,awex,2026,75960000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,Dotation AWEX AB 41.01.40 75960k eng=liq 2026 (return to classic after 2025 remonte)
+bud_awex_dotation_2025,awex,2025,66664000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,Dotation AWEX 66664k 2025
+bud_awex_missions_spec_2026,awex,2026,445000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,Subvention AWEX missions economiques specifiques 445k 2026
+bud_awex_ace_contrib_2026,ace_federal,2026,438000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,WAL contribution Agence Commerce Exterieur ACE 438k 2026 (+10k vs path)
+bud_awex_ace_contrib_2025,ace_federal,2025,428000,,,budgeted,src_wal_ep_jeholet_awex_2026,strong,WAL ACE contribution 428k 2025
+bud_awex_treasury_remonte_2025,awex,2025,9000000,,,outturn,src_wal_ep_jeholet_awex_2026,strong,Treasury remonte 9m EUR 2025 reducing cash dotation that year (not repeated 2026)

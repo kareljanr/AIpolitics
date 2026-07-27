@@ -2704,3 +2704,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity dg notes; budgets +5; cmt +1; lb +3; FOI gap_dg_justizhaus_budget narrowed to spend; draft update; rq_243=done; spawn rq_244; ticks=252
 - FOI: DG Justizhaus spend/FTE residual human send
 - Next: prio5 **rq_244**; deferred **rq_116** SWA
+
+### 2026-07-29T13:30:00Z — tick 253
+- Unit: **rq_244** (FOI-adjacent hole-fill — **AWEX dual FIT export agencies**)
+- Found (strong primary EP Jeholet BI2026 table milliers EUR):
+  - **AWEX package TOTAL eng=liq EUR 76.843m** 2026 (dotation **75.960m** + missions spec **0.445m** + ACE **0.438m**).
+  - 2025 package **67.547m** (dot **66.664m**) — **treasury remonte 9m** not repeated 2026.
+  - Strategy 2026-2029 feuille de route; dual FIT Flanders residual FOI; ACE federal-regional co-finance.
+- Wrote: sources +1; entities awex/ace/fit; budgets +8; cmt +1; lb +3; FOI gap_fit_budget_2026 ready; draft; rq_244=done; spawn rq_245; ticks=253
+- FOI: FIT VEK dual human send
+- Next: prio5 **rq_245**; deferred **rq_116** SWA
