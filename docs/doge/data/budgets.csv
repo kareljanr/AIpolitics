@@ -2573,3 +2573,28 @@ bud_fwb_mdj_se_aide_detenus_2026,fwb_maisons_justice,2026,3203000,,,budgeted,src
 bud_fwb_infra_saj_mdj_2026,fwb_maisons_justice,2026,10595000,,,budgeted,src_fwb_budget_do18_mdj_2026,medium,DO15 act14 infra SAJ-SPJ + Maisons de justice 10.595m (shared not pure MDJ)
 bud_vl_justitiehuizen_dotatie_rec_2026,vl_justitiehuizen,2026,90357000,,,budgeted,src_vl_bbt_fb_bo2026_justitiehuizen_dotatie,strong,Federal BFW art47/10 receipt Dotatie Justitiehuizen BO2026 90.357m (not full AJH spend)
 bud_vl_justitiehuizen_dotatie_rec_2025,vl_justitiehuizen,2025,88767000,,,budgeted,src_vl_bbt_fb_bo2026_justitiehuizen_dotatie,strong,BA2025 Dotatie Justitiehuizen 88.767m receipt compare
+bud_vl_ajh_total_vak_2026,vl_ajh,2026,240015000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,AJH Eindtotaal VAK 240.015m 2026 uitgavendecreet; includes lonen+beleid+jeugd+handhaving
+bud_vl_ajh_lonen_2026,vl_ajh,2026,164868000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,SL0-1SAE2ZZ-LO lonen 164.868m (reg 156.722 + VIN 0.120 + wet18/07 8.026)
+bud_vl_ajh_werking_2026,vl_ajh,2026,21628000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,SL0-1SAE2ZZ-WT werking 21.628m (IT 11.863 + non-IT 6.267 + wet IT 1.290 + wet non-IT 2.208)
+bud_vl_ajh_jh_et_2026,vl_justitiehuizen,2026,7022000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,SL0-1SDE2JA-WT Justitiehuizen en elektronisch toezicht kosten 7.022m VAK (policy line not personnel)
+bud_vl_ajh_jh_et_huur_2026,vl_justitiehuizen,2026,2700000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Werkingskosten ET (enkelbanden huur) 2.700m
+bud_vl_ajh_jh_et_leef_2026,vl_justitiehuizen,2026,2770000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Leefvergoedingen personen onder ET 2.770m
+bud_vl_ajh_jh_et_tolk_2026,vl_justitiehuizen,2026,205000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Tolken justitiabelen 0.205m
+bud_vl_ajh_jh_et_wet_extra_2026,vl_justitiehuizen,2026,1347000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Wet 18/07/2025 extras: ET werk 0.675 + leef 0.650 + tolk 0.022 = 1.347m
+bud_vl_ajh_justitieel_beleid_2026,vl_ajh,2026,4190000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,SL0-1SDE2JB-WT justitieel beleid 4.190m (subs 2.954 + opdrachten JH/ET 1.236)
+bud_vl_ajh_forens_subs_class_2026,vl_ajh,2026,2954000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Subsidies justitieel beleid 2.954m; BU2025 forensische zorg class ~2.677m named residual
+bud_vl_ajh_gedetineerden_2026,vl_ajh,2026,2303000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Hulp-dienstverlening gedetineerden 2.303m (cultuur/sport subs 2.253)
+bud_vl_ajh_beleidsontw_2026,vl_ajh,2026,3412000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Beleidsontwikkeling 3.412m (incl herstelbemiddeling subs 2.402)
+bud_vl_ajh_gender_2026,vl_ajh,2026,1058000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Gendergerelateerd geweld 1.058m
+bud_vl_ajh_handhaving_2026,vl_ajh,2026,175000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Handhaving N-project coordinatie 0.175m
+bud_vl_ajh_jeugd_wt_2026,vl_ajh,2026,24444000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Jeugddelinquentie WT 24.444m (herstelgerichte diensten 15.907 + gebouwen 5.365 + werking GI 2.712 + zakgeld 0.460)
+bud_vl_ajh_jeugd_pr_2026,vl_ajh,2026,9750000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Provisioneel krediet jeugddelinquentie 9.750m
+bud_vl_ajh_herstel_subs_2026,vl_ajh,2026,15907000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,Subsidies herstelgerichte constructieve afhandeling 15.907m (decreet 12 jul 2013); L5 operators residual
+bud_vl_ajh_cjb_2026,vl_ajh,2026,1165000,,,budgeted,src_vl_ajh_ondernemingsplan_2026,strong,13 commissies juridische eerstelijnsbijstand 1.165m
+bud_vl_ajh_sa_vak_ba2025,vl_ajh,2025,100549000,,,budgeted,src_vl_bbt_jh_bu2025,strong,PROGRAMMA SA AJH BA2025 VAK 100.549m (apparaat; pre-jeugd transfer scale)
+bud_vl_ajh_sa_vek_ba2025,vl_ajh,2025,102608000,,,budgeted,src_vl_bbt_jh_bu2025,strong,PROGRAMMA SA AJH BA2025 VEK 102.608m
+bud_vl_ajh_sa_vak_bu2025,vl_ajh,2025,98890000,,,outturn,src_vl_bbt_jh_bu2025,strong,PROGRAMMA SA AJH BU2025 VAK 98.890m
+bud_vl_ajh_sa_vek_bu2025,vl_ajh,2025,108156000,,,outturn,src_vl_bbt_jh_bu2025,strong,PROGRAMMA SA AJH BU2025 VEK 108.156m
+bud_vl_ajh_lonen_ba2025,vl_ajh,2025,83098000,,,budgeted,src_vl_bbt_jh_bu2025,strong,Lonen BA2025 83.098m; BU reg 82.671 + wet 0.800 + provisie Opgroeien 2.868 class
+bud_vl_ajh_beleid_vak_ba2025,vl_ajh,2025,15640000,,,budgeted,src_vl_bbt_jh_bu2025,strong,Beleidskredieten TOTAAL JH excl DAB/apparaat/prog B BA2025 VAK 15.640m VEK 16.560m
+bud_vl_ajh_beleid_vek_bu2025,vl_ajh,2025,15092000,,,outturn,src_vl_bbt_jh_bu2025,strong,Beleidskredieten BU2025 VEK 15.092m (95pct use class)

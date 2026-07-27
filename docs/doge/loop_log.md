@@ -2596,3 +2596,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); entities fwb_maisons_justice + vl_justitiehuizen; budgets (+14); commitments (+2); leaderboard (+3); foi_queue ready gap_fwb_mdj_partner_l5 + gap_vl_justitiehuizen_spend; drafts; rq_234=done; spawn rq_235; loop_state ticks=243
 - FOI opened: gap_fwb_mdj_partner_l5, gap_vl_justitiehuizen_spend (ready, human send)
 - Next: rq_235 hole-fill; rq_116 SWA deferred Oct–Dec 2026
+
+### 2026-07-29T09:00:00Z — tick 244
+- Unit: **rq_235** (FOI-adjacent hole-fill — **VL AJH full spend** closes gap_vl_justitiehuizen_spend public side)
+- Found (strong primary OP2026 + BBT BU2025):
+  - **AJH Eindtotaal VAK 2026 EUR 240.015m** (uitgavendecreet 19 dec 2025; Ondernemingsplan AJH).
+  - Lonen **164.868m** (reg 156.722 + VIN 0.120 + wet 18/07 8.026); werking **21.628m**.
+  - JH+ET policy **7.022m** (huur ET 2.70 + leef 2.77 + tolk 0.205 + wet extras 1.347).
+  - Justitieel beleid **4.190m**; herstelgerichte subs **15.907m**; jeugd WT **24.444m** + PR **9.750m**; CJB **1.165m**.
+  - BU2025 SA AJH: VAK BA **100.549m** / VEK **102.608m**; lonen BA **83.098m**; plan **1.220,5 VTE**; eoy **1.171,8 VTE** / 1.281 heads; dossiers JH **39.100** new 2025.
+  - Federal JH receipt still **90.357m** BO2026 — agency broader than JH (youth transfer drives 2026 jump).
+  - Dual: FWB DO18 MDJ **30.1m** vs VL AJH **240m** vs receipt **90.4m** — **not additive** (perimeters differ; FWB personnel may be outside DO18; Fonds JH partners still federal Globaal Plan).
+- Wrote: sources +2; entity vl_ajh + notes; budgets +25; cmt +2; lb +4; FOI gap_vl_justitiehuizen_spend narrowed + gap_vl_ajh_partner_l5 ready; drafts; rq_235=done; spawn rq_236; loop_state ticks=244
+- FOI: partner L5 + JH FTE slice human send (not full agency total)
+- Next: prio5 **rq_236**; deferred **rq_116** SWA

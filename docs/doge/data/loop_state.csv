@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T08:30:00Z,rq_234,243,no,Scheduler 60s. Next prio5 rq_235; rq_116 SWA deferred. FOI ready human send. tick243 FWB MDJ 30.1m dual VL receipt 90.4m.
+main,continuous,hole_fill,2026-07-29T09:00:00Z,rq_235,244,no,Scheduler 60s. Next prio5 rq_236; rq_116 SWA deferred. FOI ready human send. tick244 VL AJH VAK 240.0m dual FWB MDJ 30m.
