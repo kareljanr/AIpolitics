@@ -1519,3 +1519,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets ~18; cmt 2; lb 3; FOI gaps nmbs/vdab notes partial; rq_121=done; seeded **rq_152**.
 - FOI: gap_nmbs / gap_vdab still **ready** residual human send; FOREM/De Lijn ready.
 - Next: prio5 **rq_152** · deferred **rq_116** SWA.
+
+### 2026-07-28T03:45:00Z — tick 161
+- Unit: **rq_156** (FOI-adjacent hole-fill — **Infrabel geconsolideerd JV 2024** rail dual NMBS)
+- Found (strong primary PDF 4.4 MB, 53 pp):
+  - **Omzet** EUR **843.2m** 2024 (875.2m 2023).
+  - **Exploitatiesubsidies** **560.9m** (583.9m) — −23.0m y/y.
+  - **Kapitaalsubsidies** P&L recognition **794.9m** (774.7m); **stock** LT+ST **18.589bn**.
+  - Bedrijfsopbrengsten vóór kap. **1.967bn**; EBITDA-like **114.4m**; bedrijfsresultaat **82.0m**; **resultaat 33.6m**.
+  - Balanstotaal **25.231bn**; materiële VA **20.323bn** (+452.7m invest effect); fin. debt **~3.24bn**; cash **625m**.
+  - **Liefkenshoek PPS:** annual specific State subsidy **50.61m (2008 €)** through 2032; LT receivable restatement **416.6m**.
+  - Credit line up to **1bn** invest 2025-29; Alstom switches **~80m**; Thales cyber **20m/5y** (editorial medium).
+  - Note: P&L personnel only **75.7m** — bulk staff via **HR Rail** inside **diensten 1.508bn**.
+- De Lijn 2025 JV PDF still **403** on ctfassets; press metrics already in DB (surplus 20k; pax 372.9m; −27.5m dotatie).
+- Wrote: sources 2; budgets ~22; cmt 2; lb 3; FOI **gap_infrabel_dotatie_cash** ready; rq_156=done; seeded **rq_157**.
+- FOI: gap_infrabel (FPS cash codes + invest L5 + Liefkenshoek series) human send only; gap_de_lijn residual note.
+- Next: prio5 **rq_157** FOREM/De Lijn perimeter/Antwerp/univ; deferred **rq_116** SWA.

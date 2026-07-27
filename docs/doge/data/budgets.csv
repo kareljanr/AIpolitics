@@ -1427,3 +1427,25 @@ bud_nmbs_mr30_order_180,nmbs,2025,0,,,commitment,src_nmbs_results_2025_page,medi
 bud_vdab_staff_2024,vdab,2024,4761,,,outturn,src_vdab_jv_2024,strong,Staff 4761 eoy2024 (-230 vs 2023) meets savings norm
 bud_vdab_vl_dotatie_2024_class,vdab,2024,783000000,,,budgeted,src_vl_pq_vdab_budget_52_2025,medium,VP question 783m VL dotations of 962m 2024; residual jaarrekening FOI
 bud_vdab_pmo_portfolio_cum,vdab,2024,160000000,,,outturn,src_vdab_jv_2024,strong,PMO managed about 160m project means since 2019 (~382 projects)
+bud_infrabel_omzet_2024,infrabel,2024,843157343,,,outturn,src_infrabel_jv2024,strong,Consolidated omzet 843.157m 2024 (875.187m 2023)
+bud_infrabel_omzet_2023,infrabel,2023,875187323,,,outturn,src_infrabel_jv2024,strong,Consolidated omzet 875.187m 2023 restated base
+bud_infrabel_exploitatiesubsidies_2024,infrabel,2024,560883870,,,outturn,src_infrabel_jv2024,strong,Exploitatiesubsidies 560.884m 2024 (-23.0m y/y)
+bud_infrabel_exploitatiesubsidies_2023,infrabel,2023,583890503,,,outturn,src_infrabel_jv2024,strong,Exploitatiesubsidies 583.891m 2023
+bud_infrabel_kapitaalsubsidies_pl_2024,infrabel,2024,794869024,,,outturn,src_infrabel_jv2024,strong,Kapitaalsubsidies taken to P&L 794.869m 2024 (amortisation matching)
+bud_infrabel_kapitaalsubsidies_pl_2023,infrabel,2023,774723608,,,outturn,src_infrabel_jv2024,strong,Kapitaalsubsidies P&L 774.724m 2023
+bud_infrabel_bedrijfsopbr_pre_kap_2024,infrabel,2024,1966752090,,,outturn,src_infrabel_jv2024,strong,Bedrijfsopbrengsten voor kapitaalsubsidies 1.966752bn 2024
+bud_infrabel_ebitda_like_2024,infrabel,2024,114402842,,,outturn,src_infrabel_jv2024,strong,Bedrijfsresultaat voor kapitaalsubsidies afschrijvingen en impairments 114.403m 2024 (132.0m 2023)
+bud_infrabel_bedrijfsresultaat_2024,infrabel,2024,82037562,,,outturn,src_infrabel_jv2024,strong,Bedrijfsresultaat 82.038m 2024 (99.964m 2023)
+bud_infrabel_resultaat_2024,infrabel,2024,33562813,,,outturn,src_infrabel_jv2024,strong,Resultaat van het boekjaar 33.563m 2024 (44.260m 2023)
+bud_infrabel_afschrijvingen_2024,infrabel,2024,827234304,,,outturn,src_infrabel_jv2024,strong,Afschrijvingen en impairments 827.234m 2024
+bud_infrabel_diensten_2024,infrabel,2024,1507648300,,,outturn,src_infrabel_jv2024,strong,Diensten en diverse goederen 1.507648bn 2024 (includes HR Rail staff charge)
+bud_infrabel_personeelskosten_pl_2024,infrabel,2024,75746666,,,outturn,src_infrabel_jv2024,strong,Personeelskosten on Infrabel P&L only 75.747m (most staff via HR Rail in services)
+bud_infrabel_balans_totaal_2024,infrabel,2024,25230729323,,,outturn,src_infrabel_jv2024,strong,Balanstotaal 25.230729bn eoy2024
+bud_infrabel_materiele_va_2024,infrabel,2024,20322718064,,,outturn,src_infrabel_jv2024,strong,Materiele vaste activa 20.322718bn eoy2024 (+452.7m invest effect)
+bud_infrabel_kapitaalsubsidies_stock_2024,infrabel,2024,18589038347,,,outturn,src_infrabel_jv2024,strong,Kapitaalsubsidies LT 17.829bn + ST 0.760bn = 18.589bn stock eoy2024
+bud_infrabel_fin_schulden_2024,infrabel,2024,3241530827,,,outturn,src_infrabel_jv2024,strong,Financiele schulden incl derivatives ~3.2415bn eoy2024 (LT 3.166 + ST 0.049 + derivatives 0.027)
+bud_infrabel_cash_2024,infrabel,2024,625160520,,,outturn,src_infrabel_jv2024,strong,Geldmiddelen en kasequivalenten 625.161m eoy2024
+bud_infrabel_liefkenshoek_pps_annual,infrabel,2024,50610000,,,budgeted,src_infrabel_jv2024,strong,PPS Liefkenshoek Rail Link specific annual State subsidy 50.61m in 2008 euros through 2032 performance contract
+bud_infrabel_creditline_invest_2025_29,infrabel,2025,1000000000,,,commitment,src_infrabel_jv2024,strong,Government credit line up to 1bn current for investments 2025-2029 (performantiecontract note)
+bud_infrabel_alstom_switches_80m,infrabel,2024,80000000,,,commitment,src_infrabel_jv2024,medium,Alstom contract ~80m for ~10000 ultralight switches (editorial markante gebeurtenissen)
+bud_infrabel_thales_cyber_20m,infrabel,2024,20000000,,,commitment,src_infrabel_jv2024,medium,Thales cybersecurity 5y contract 20m (editorial)
