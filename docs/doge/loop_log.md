@@ -2622,3 +2622,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity dg_justizhaus + fwb_mdj notes; budgets +10; cmt +2; lb +3; FOI gap_fwb_mdj_personnel_total + gap_dg_justizhaus_budget ready; drafts; rq_236=done; spawn rq_237; ticks=245
 - FOI: AGMJ wage stock + DG Justizhaus human send
 - Next: prio5 **rq_237**; deferred **rq_116** SWA
+
+### 2026-07-29T10:00:00Z — tick 246
+- Unit: **rq_237** (FOI-adjacent hole-fill — **FWB Egalite des chances dual VL Gelijke Kansen**)
+- Found (strong Exp. particulier depenses 2026 Coppieters DO11 table):
+  - Package TOTAL **CE €14.494m / CL €7.850m** 2026 (2025: 12.742 / 9.548).
+  - Named: violences femmes coll **CE 2.50 / CL 0.532m**; egalite initiatives **2.283 / 0.870**; droits femmes pluriann **4.624 / 1.474**; pauvrete ann **1.162** CL; interculturalite plur **1.004** CL.
+  - Dual institutes: **Unia FWB 369k**; **IEFH protocol 59k**.
+  - Dual VL: GK werkings **15.162m** (projectsubs **4.361m**) — different perimeter; do not sum.
+  - AGMJ full wage bill still not in public DO18/ExpPart (FOI already open).
+- Wrote: sources +1; entity fwb_egalite_chances; budgets +22; cmt +1; lb +4; FOI gap_fwb_egalite_l5 ready; draft; rq_237=done; spawn rq_238; ticks=246
+- FOI: equality L5 operators human send
+- Next: prio5 **rq_238**; deferred **rq_116** SWA

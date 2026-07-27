@@ -2608,3 +2608,25 @@ bud_fwb_mdj_aj_personnel_new_pack_2026,fwb_gov,2026,8900000,,,budgeted,src_fwb_e
 bud_fwb_fp_traitements_total_2026,fwb_gov,2026,437600000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,DO11 AB 11.03+11.04 traitements fonction publique total 437.6m 2026 (MDJ staff subset residual)
 bud_dg_fed_dot_total_2026,sec_dg,2026,351100000,,,budgeted,src_ccrek_dg_budget_2026,strong,DG federal global dotation total 351.1m 2026 (general 334.1 + earmarked 17.0)
 bud_dg_fed_dot_earmarked_2026,sec_dg,2026,17000000,,,budgeted,src_ccrek_dg_budget_2026,strong,DG federal earmarked share of global dot 17.0m 2026 (Justizhaus share not published)
+bud_fwb_egalite_pack_ce_2026,fwb_egalite_chances,2026,14494000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,DO11 equality/poverty/interculturality programme TOTAL CE 14.494m 2026 (table kEUR)
+bud_fwb_egalite_pack_cl_2026,fwb_egalite_chances,2026,7850000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Same package TOTAL CL 7.850m 2026 (cash-side class)
+bud_fwb_egalite_pack_ce_2025,fwb_egalite_chances,2025,12742000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Package TOTAL CE 12.742m 2025 initial
+bud_fwb_egalite_pack_cl_2025,fwb_egalite_chances,2025,9548000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Package TOTAL CL 9.548m 2025 initial
+bud_fwb_unia_dot_2026,unia_interfederal,2026,369000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,FWB AB 32.45.01 Unia interfederal functioning dotation CE=CL 369k 2026 (360k 2025)
+bud_fwb_iefh_protocol_2026,iefh,2026,59000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,FWB AB 31.41.01 IEFH anti-discrimination protocol retribution 59k 2026
+bud_fwb_violences_femmes_coll_ce_2026,fwb_egalite_chances,2026,2500000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.33.01 collectifs violences femmes CE 2.500m 2026 (CL 0.532m)
+bud_fwb_violences_femmes_coll_cl_2026,fwb_egalite_chances,2026,532000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Collectifs violences femmes CL 532k 2026
+bud_fwb_egalite_initiatives_ce_2026,fwb_egalite_chances,2026,2283000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.33.02 egalite/discrimination/interculturalite pluriann CE 2.283m CL 0.870m
+bud_fwb_egalite_initiatives_cl_2026,fwb_egalite_chances,2026,870000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Equality initiatives pluriann CL 870k 2026
+bud_fwb_egalite_annuelles_cl_2026,fwb_egalite_chances,2026,521000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.33.03 egalite subventions annuelles CL 521k 2026
+bud_fwb_droits_femmes_plur_ce_2026,fwb_egalite_chances,2026,4624000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.33.08 droits des femmes pluriann CE 4.624m CL 1.474m
+bud_fwb_droits_femmes_plur_cl_2026,fwb_egalite_chances,2026,1474000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Droits des femmes pluriann CL 1.474m 2026
+bud_fwb_droits_femmes_ann_cl_2026,fwb_egalite_chances,2026,170000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.33.09 droits des femmes annuelles CL 170k
+bud_fwb_pauvrete_ann_cl_2026,fwb_egalite_chances,2026,1162000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 31.33.12 decret pauvrete subventions annuelles CL 1.162m
+bud_fwb_pauvrete_plur_cl_2026,fwb_egalite_chances,2026,238000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 31.33.10 decret pauvrete pluriann CL 238k
+bud_fwb_interculturalite_plur_cl_2026,fwb_egalite_chances,2026,1004000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 31.33.02 droits culturels interculturalite pluriann CL 1.004m
+bud_fwb_interculturalite_ann_cl_2026,fwb_egalite_chances,2026,761000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 31.33.03 interculturalite annuelles CL 761k
+bud_fwb_evras_2026,fwb_egalite_chances,2026,100000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.33.06 EVRAS projects 100k CE=CL
+bud_fwb_local_gender_apw_2026,fwb_egalite_chances,2026,49000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.41.01 APW local gender equality protocol 49k/yr
+bud_fwb_racisme_camp_cl_2026,fwb_egalite_chances,2026,90000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,AB 32.01.03 lutte racisme campaign CL 90k (CE 0 after multi-year commit)
+bud_fwb_coppieters_cabinet_2026,fwb_gov,2026,371000,,,budgeted,src_fwb_exp_part_egalite_2026,strong,Cabinet Coppieters sante/droits femmes/egalite DO06 prog5 371k 2026
