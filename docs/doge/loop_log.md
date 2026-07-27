@@ -3765,3 +3765,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity esa_cm25_be; budgets +15; cmt +2; lb +3; FOI gap_be_space_cm25 ready; rq_329=done; spawn rq_330; ticks=338
 - FOI: cash-by-year civil vs MoD + TBA confirmation ready human send
 - Next: prio5 **rq_330**; **progress@340 in 2 ticks**; deferred **rq_116** SWA
+
+### 2026-07-31T08:15:00Z - tick 339
+- Unit: **rq_330** (FOI-adjacent hole-fill - **EUMETSAT Belgium dual intergov meteo space**)
+- Found (strong EUMETSAT Annual Report 2024 audited accounts extract):
+  - Belgium Member State contribution **€13.480m** 2024 (table 13.480 kEUR).
+  - Total MS contributions **€506.037m**; BE share **~2.66%**.
+  - EUMETSAT expenditure budgets 2024 total **€763.2m** (EPS-SG 254.3 · MTG 219.1 · Copernicus 111.4 · GB 91 · EPS 37.4 · DestinE 24.3 · MSG 23.3 · Jason-CS 2.4).
+  - Dual: KMI/IRM meteorological user + BELSPO intergov space path.
+  - Aligns CM25 intergov class **~€25m/y** (EUMETSAT + ECMWF + ESO); residual ECMWF/ESO FOI.
+- Wrote: sources +1; entity eumetsat_be; budgets +4; cmt +1; lb +1; FOI gap_be_intergov ready; rq_330=done; spawn rq_331 progress@340; ticks=339
+- FOI: ECMWF+ESO cash residual ready human send
+- Next: **MANDATORY rq_331 progress@340**; deferred **rq_116** SWA

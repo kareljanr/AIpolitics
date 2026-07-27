@@ -4116,3 +4116,7 @@ bud_be_basic_act_cm25_52_2m,esa_cm25_be,2030,52200000,,,budgeted,src_belspo_cm25
 bud_be_mod_space_invest_2026_34,esa_cm25_be,2034,617000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,Belgian Defence important investment programmes space 2026-2034 617m
 bud_be_intergov_space_class_25m,esa_cm25_be,2026,25000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,medium,Intergovernmental Eumetsat ECMWF ESO class ~25m/y of BE space path
 bud_be_eu_bilat_nat_space_class_10m,esa_cm25_be,2026,10000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,medium,EU bilateral national space activities class ~10m/y
+bud_eumetsat_be_2024,eumetsat_be,2024,13480000,,,outturn,src_eumetsat_ar2024,strong,Belgium Member State contribution to EUMETSAT 13.480m EUR 2024 (table KEUR 13480)
+bud_eumetsat_ms_total_2024,eumetsat_be,2024,506037000,,,outturn,src_eumetsat_ar2024,strong,Total EUMETSAT Member State contributions 506.037m EUR 2024
+bud_eumetsat_exp_total_2024,eumetsat_be,2024,763200000,,,budgeted,src_eumetsat_ar2024,strong,EUMETSAT total expenditure budgets 2024 763.2m (GB 91 EPS-SG 254.3 MTG 219.1 Copernicus 111.4 etc)
+bud_eumetsat_be_share_pct_2024,eumetsat_be,2024,2.66,,,outturn,src_eumetsat_ar2024,strong,BE share of MS contributions 13.480/506.037 ~2.66pct 2024

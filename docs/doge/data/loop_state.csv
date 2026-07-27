@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T07:45:00Z,rq_329,338,no,Scheduler 60s. Next prio5 rq_330; progress@340 in 2 ticks; rq_116 SWA deferred. tick338 CM25 space 1845m.
+main,continuous,hole_fill,2026-07-31T08:15:00Z,rq_330,339,no,Scheduler 60s. Next MANDATORY rq_331 progress@340; rq_116 SWA deferred. tick339 EUMETSAT 13.48m.
