@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T16:05:00Z,rq_193,198,no,"Scheduler 60s. Next prio5 rq_194 Antwerp/Mons/MDK; rq_116 SWA deferred. FOI ready human send. tick198 Infrabel omzet 1.4bn equity 20bn dual NMBS; gap_infrabel_state_toelage ready."
+main,continuous,hole_fill,2026-07-28T16:25:00Z,rq_194,199,no,"Scheduler 60s. Next tick200 progress % + rq_195; rq_116 SWA deferred. FOI ready human send. tick199 NMBS omzet 2.6bn equity 8bn dual Infrabel; gap_nmbs_consol_vs_statutory ready."

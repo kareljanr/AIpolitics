@@ -2145,3 +2145,9 @@ bud_infrabel_equity_2025,infrabel,2025,20536315294,,,stock,src_infrabel_companyw
 bud_infrabel_equity_2024,infrabel,2024,19955972173,,,stock,src_infrabel_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024 ~20.0bn
 bud_infrabel_invest_2024,infrabel,2024,1000000000,,,outturn,src_infrabel_press_2024_results,strong,Official press invest 1bn in network 2024
 bud_infrabel_plan_invest_2025_29,infrabel,2029,6500000000,,,commitment,src_infrabel_press_2024_results,strong,Multi-year invest plan 6.5bn 2025-2029
+bud_nmbs_omzet_2025,nmbs,2025,2615368485,,,outturn,src_nmbs_companyweb_nbb,medium-strong,Statutory NBB-derived omzet 2025
+bud_nmbs_omzet_2024,nmbs,2024,2560213824,,,outturn,src_nmbs_companyweb_nbb,medium-strong,Statutory NBB-derived omzet 2024
+bud_nmbs_net_2025,nmbs,2025,10813925,,,outturn,src_nmbs_companyweb_nbb,medium-strong,Statutory net 2025 (press consol class 53.1m separate)
+bud_nmbs_net_2024,nmbs,2024,53085911,,,outturn,src_nmbs_companyweb_nbb,medium-strong,Statutory net 2024 53.1m
+bud_nmbs_equity_2025,nmbs,2025,8054100819,,,stock,src_nmbs_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025 ~8.05bn
+bud_nmbs_equity_2024,nmbs,2024,7719302672,,,stock,src_nmbs_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024 ~7.72bn

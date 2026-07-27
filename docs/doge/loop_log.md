@@ -2062,3 +2062,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 8; cmt 1; lb 2; FOI **gap_infrabel_state_toelage** ready; rq_193=done; seeded **rq_194**.
 - FOI: state toelage cash-by-year + CAPEX L5 human send only; Antwerp/Mons still residual.
 - Next: prio5 **rq_194**; deferred **rq_116** SWA.
+### 2026-07-28T16:25:00Z - tick 199
+- Unit: **rq_194** (FOI-adjacent hole-fill - **NMBS** dual Infrabel)
+- Found (medium-strong NBB/Companyweb statutory; press consol class medium recon):
+  - **Statutory omzet EUR 2.560bn 2024 / 2.615bn 2025** (2.563bn 2023; 2.215bn 2022).
+  - **Statutory net 53.1m 2024 / 10.8m 2025** (67.1m 2023); **equity 7.72 ? 8.05bn**.
+  - Press/consol class (secondary): omzet **~3.022bn** / net **~53.1m** / EBITDA **~370m** / CAPEX **~1.13bn** ? **recon FOI** vs statutory.
+  - Dual map: **NMBS ops equity ~8bn omzet ~2.6bn** + **Infrabel net equity ~20bn omzet ~1.4bn**.
+- Wrote: sources 2; budgets 6; cmt 1; lb 1; FOI **gap_nmbs_consol_vs_statutory** ready; rq_194=done; seeded **rq_195**.
+- FOI: toelage cash + consol recon human send only; Antwerp/Mons still residual.
+- Next: **tick 200 progress coverage % + waste top10** then prio5 **rq_195**; deferred **rq_116** SWA.
