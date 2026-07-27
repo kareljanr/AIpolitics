@@ -1955,3 +1955,17 @@ bud_bio_approvals_2025,bio_invest,2025,235000000,,,outturn,src_bio_ar2025_number
 bud_bio_approvals_projects_2025,bio_invest,2025,30,,,outturn,src_bio_ar2025_numbers,strong,30 projects approved 2025 (22 in 2024)
 bud_bio_signed_count_2025,bio_invest,2025,21,,,outturn,src_bio_ar2025_numbers,strong,21 investments signed 2025
 bud_bio_jobs_direct_eoy2024,bio_invest,2024,388000,,,outturn,src_bio_ar2025_numbers,medium,Direct jobs supported ~388000 end-2024 impact figure
+bud_bac_revenue_2025,brussels_airport,2025,828000000,,,outturn,src_bac_results_2025_press,strong,Revenue record 828m 2025 (+6pct vs 2024)
+bud_bac_revenue_2024,brussels_airport,2024,780000000,,,outturn,src_bac_results_2025_press,medium,Revenue 2024 implied ~780m from +6pct to 828m (828/1.06)
+bud_bac_expenses_2025,brussels_airport,2025,472000000,,,outturn,src_bac_results_2025_press,strong,Expenses 472m 2025
+bud_bac_expenses_2024,brussels_airport,2024,439000000,,,outturn,src_bac_results_2025_press,strong,Expenses 439m 2024
+bud_bac_ebitda_2025,brussels_airport,2025,356000000,,,outturn,src_bac_results_2025_press,strong,EBITDA 356m 2025 (+3pct)
+bud_bac_ebitda_2024,brussels_airport,2024,345000000,,,outturn,src_bac_results_2025_press,strong,EBITDA 345m 2024
+bud_bac_net_2025,brussels_airport,2025,84000000,,,outturn,src_bac_results_2025_press,strong,Net profit 84m 2025 (-7m vs 2024 due higher tax)
+bud_bac_net_2024,brussels_airport,2024,91000000,,,outturn,src_bac_results_2025_press,strong,Net profit 91m 2024 (84+7)
+bud_bac_capex_2025,brussels_airport,2025,302000000,,,outturn,src_bac_results_2025_press,strong,Record investment CAPEX 302m 2025
+bud_bac_dividend_2025,brussels_airport,2025,41000000,,,budgeted,src_bac_results_2025_press,strong,Dividend to shareholders 41m first since 2019
+bud_bac_pax_2025,brussels_airport,2025,24400000,,,outturn,src_bac_results_2025_press,strong,Passengers 24.4m 2025 (+3.3pct)
+bud_bac_cargo_tonnes_2025,brussels_airport,2025,795000,,,outturn,src_bac_results_2025_press,strong,Cargo 795000 tonnes 2025 (+8.5pct)
+bud_bac_movements_2025,brussels_airport,2025,198000,,,outturn,src_bac_results_2025_press,strong,Commercial aircraft movements 198000 2025
+bud_bac_jobs_indirect_class,brussels_airport,2025,64000,,,outturn,src_bac_results_2025_press,medium,Direct+indirect jobs class 64000 (press About)

@@ -1887,3 +1887,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; entity update; budgets 21; cmt 1; lb 2; FOI **gap_bio_l5_portfolio** ready; rq_180=done; seeded **rq_181**.
 - FOI: L5 investee list + impairments + State capital path — human send only.
 - Next: prio5 **rq_181**; deferred **rq_116** SWA.
+
+### 2026-07-28T12:05:00Z - tick 186
+- Unit: **rq_181** (FOI-adjacent hole-fill - **Brussels Airport Company 2025 results**)
+- Found (strong primary official press 2026-05-08):
+  - **Revenue EUR 828m 2025** (+6%) · expenses **472m** (439m 2024) · **EBITDA 356m** (345m).
+  - **Net profit 84m** (91m 2024; -7m higher tax) · **dividend 41m** first since 2019.
+  - **CAPEX record 302m** (Brucargo, P30, runway 25L, lounge).
+  - Traffic: **pax 24.4m** (+3.3%) · cargo **795kt** (+8.5%) · movements **198k**.
+  - Ownership: **SFPIM/FPIM 25%** + PMV/private consortium **75%** — links tick184 SFPIM.
+  - Jobs class **64k** direct+indirect · noise-efficient flights **42%** (was 20% 2016).
+  - Dual: national hub vs Charleroi BSCA residual.
+- Port of Antwerp-Bruges authority P&L still not in open press (cargo-only) — residual **rq_182**.
+- Wrote: sources 1; entity 1; budgets 14; cmt 1; lb 2; FOI **gap_bac_balance_sheet** ready; rq_181=done; seeded **rq_182**.
+- FOI: full BS/debt/RAB human send only.
+- Next: prio5 **rq_182**; deferred **rq_116** SWA.
