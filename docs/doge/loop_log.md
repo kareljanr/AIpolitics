@@ -3654,3 +3654,16 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets ~4036 / cmt ~609 / lb ~724 / entities ~280 / sources ~611
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_321=done; spawn rq_322; ticks=330
 - Next: prio5 **rq_322**; deferred **rq_116** SWA; human FOI send stack ~145 ready
+
+### 2026-07-31T04:15:00Z - tick 331
+- Unit: **rq_322** (FOI-adjacent hole-fill - **Belgium ESA contribution dual Belspo space**)
+- Found (strong BELSPO MERI Statistics in Brief No. 8, 2025):
+  - BE ESA contribution **~€190m 2015 → €284m 2025**; avg **~€194m** 2021-24 (vs €179m 2016-20 / €156m 2011-15).
+  - Of avg 2021-24: private industry **€148.2m**; public research **€23.1m**; universities **€22.7m**.
+  - Private space turnover **€713.5m** 2024 (multiplier ~6x); ESA-backed **4,016 FTE** (2,257 R&D).
+  - ~**90%** of federal public space funding via ESA; geo-return principle.
+  - CM25 press: **€1.109bn / 5y** pledge class (medium).
+  - Closes major Belspo ESA residual of gap_belspo; optional/L5 still FOI.
+- Wrote: sources +2; entity esa_be_contrib + belspo note; budgets +11; cmt +1; lb +2; FOI gap_esa_be_optional_l5 ready; draft; rq_322=done; spawn rq_323; ticks=331
+- FOI: optional vs mandatory + top20 beneficiaries ready human send
+- Next: prio5 **rq_323**; deferred **rq_116** SWA

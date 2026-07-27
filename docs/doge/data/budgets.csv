@@ -4036,3 +4036,14 @@ bud_belspo_fwi_base_class,belspo,2025,142500000,,,budgeted,src_frwb_cfps_advice_
 bud_belspo_national_rdi_class,belspo,2025,74100000,,,budgeted,src_frwb_cfps_advice_2025_01,medium,National research programmes and infrastructure approx 13pct of 570m
 bud_belspo_cut_93m_path,belspo,2025,93000000,,,budgeted,src_frwb_cfps_advice_2025_01,strong,Coalition specific budget reduction 93m for department (-15pct) FRWB/CFPS
 bud_fed_rdi_tax_incentives_class,fod_finance,2024,2100000000,,,budgeted,src_frwb_cfps_advice_2025_01,medium,Federal RDI fiscal incentives 2.0-2.2bn class FPS Finance (not BELSPO cash)
+bud_esa_be_contrib_2015_class,esa_be_contrib,2015,190000000,,,budgeted,src_belspo_meri_sib8_esa_2025,strong,Belgium ESA contribution approx 190m 2015
+bud_esa_be_contrib_avg_2011_15,esa_be_contrib,2013,156000000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Average annual ESA contribution 156m 2011-2015 period
+bud_esa_be_contrib_avg_2016_20,esa_be_contrib,2018,179000000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Average annual ESA contribution 179m 2016-2020 period
+bud_esa_be_contrib_avg_2021_24,esa_be_contrib,2023,194000000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Average annual ESA contribution nearly 194m 2021-2024
+bud_esa_be_contrib_2025,esa_be_contrib,2025,284000000,,,budgeted,src_belspo_meri_sib8_esa_2025,strong,Belgium ESA contribution 284m 2025
+bud_esa_be_private_share_avg_2124,esa_be_contrib,2023,148200000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Of avg 194m ESA support 148.2m allocated private industry 2021-24
+bud_esa_be_public_ri_avg_2124,esa_be_contrib,2023,23100000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Of avg ESA support 23.1m to semi-public research institutes 2021-24
+bud_esa_be_univ_avg_2124,esa_be_contrib,2023,22700000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Of avg ESA support 22.7m to universities 2021-24
+bud_esa_be_space_turnover_private_2024,esa_be_contrib,2024,713500000,,,outturn,src_belspo_meri_sib8_esa_2025,strong,Private sector space turnover 713.5m 2024 (multiplier near six on ESA funding)
+bud_esa_be_fte_backed_2024,esa_be_contrib,2024,4016,,,outturn,src_belspo_meri_sib8_esa_2025,strong,ESA-backed employment 4016 FTE of which 2257 R&D
+bud_esa_be_cm25_5y_class,esa_be_contrib,2026,1109000000,,,budgeted,src_vrt_esa_cm25_be_1109m,medium,CM25 Bremen pledge 1.109bn over next five years class (press)
