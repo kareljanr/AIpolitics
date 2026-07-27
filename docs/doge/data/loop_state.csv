@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T16:15:00Z,rq_298,307,no,Scheduler 60s. Next prio5 rq_299; progress@310 in 3 ticks; rq_116 SWA deferred. tick307 Kamer 9-inst pack approved kred 149.3m.
+main,continuous,hole_fill,2026-07-30T16:45:00Z,rq_299,308,no,Scheduler 60s. Next rq_301 hole-fill (or progress@310 at tick 310 via rq_300); rq_116 SWA deferred. tick308 RvS ~50m IBZ-hosted dual Hof.

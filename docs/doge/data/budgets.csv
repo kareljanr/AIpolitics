@@ -3810,3 +3810,11 @@ bud_comite_i_kred_approved_2026,comite_i,2026,6187100,,,budgeted,src_kamer_56k09
 bud_comite_i_dotatie_approved_2026,comite_i,2026,4118000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved dotatie 4.118m after -750k digitisation holdback
 bud_fed_ombuds_kred_approved_2026,fed_ombudsman,2026,8268000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved=requested 8.268m
 bud_fed_ombuds_dotatie_approved_2026,fed_ombudsman,2026,6753000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved=requested 6.753m
+bud_rvs_vl_2025,raad_van_state,2025,49978000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ INI2025 VL 49.978m hosted under FOD Binnenlandse Zaken
+bud_rvs_ve_2025,raad_van_state,2025,49971000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ INI2025 VE 49.971m; matches prior bud_ibz_raad_van_state_2025 on sec_federal
+bud_aig_vl_2025,aig_politie,2025,9052000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ hosted AIG VL 9.052m 2025
+bud_aig_ve_2025,aig_politie,2025,9045000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ hosted AIG VE 9.045m 2025
+bud_ocad_vl_2025,ocad_cuta,2025,4121000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ hosted OCAD VL 4.121m 2025
+bud_ocad_ve_2025,ocad_cuta,2025,4123000,,,budgeted,src_ibz_rvs_hosted_2025,strong,IBZ hosted OCAD VE 4.123m 2025
+bud_ibz_hosted_judicial_pack_2025,gg_belgium,2025,139009000,,,budgeted,src_ibz_rvs_hosted_2025,strong,Sum VE 2025: RvS 49.971 + CGVS 58.801 + RVV 30.236 = 139.008m class judicial/admin independents hosted IBZ
+bud_ibz_hosted_oversight_pack_2025,gg_belgium,2025,63139000,,,budgeted,src_ibz_rvs_hosted_2025,strong,Sum VE: RvS 49.971 + AIG 9.045 + OCAD 4.123 = 63.139m non-asylum oversight/judicial hosted IBZ

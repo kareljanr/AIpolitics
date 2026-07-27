@@ -3367,3 +3367,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity CTRG + FIRM update; budgets +35; cmt +3; lb +4; FOI gap note update; rq_298=done; spawn rq_299; ticks=307
 - FOI: consolidated multi-year still ready human send
 - Next: prio5 **rq_299** (Raad van State candidate); **progress@310 in 3 ticks**; deferred **rq_116** SWA
+
+### 2026-07-30T16:45:00Z - tick 308
+- Unit: **rq_299** (FOI-adjacent hole-fill - **Raad van State + IBZ-hosted independents**)
+- Found (strong primary IBZ Strategisch plan 2025-2029 INI2025 26Jun2025):
+  - **Raad van State**: VL **49.978m** / VE **49.971m** 2025 (IBZ-hosted, not Kamer-dotatie).
+  - **AIG** police inspectorate: **9.052 / 9.045m**.
+  - **OCAD** threat analysis: **4.121 / 4.123m**.
+  - Dual finance: RvS ~50m IBZ vs **Grondwettelijk Hof** ~14.5m Kamer-dotatie; dual AIG vs Comite P ~14.3m; dual OCAD vs Comite I ~6.2m.
+  - Judicial hosted stack class: RvS+CGVS+RVV **~139m** VE 2025.
+- Wrote: sources +1; entities rvs+aig+ocad; budgets +8; cmt +4; lb +4; FOI gap_rvs_accounts_l5 ready; draft; rq_299=done; spawn rq_300 progress@310 + rq_301; ticks=308
+- FOI: RvS multi-year L5 human send
+- Next: prio5 **rq_301** hole-fill; **rq_300 progress@310** at tick 310; deferred **rq_116** SWA
