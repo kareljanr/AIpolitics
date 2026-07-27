@@ -2169,3 +2169,19 @@ bud_fedasil_housing_2024,fedasil,2024,73928970,,,outturn,src_fedasil_budget_page
 bud_fedasil_dot_2023,fedasil,2023,838063376,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2023
 bud_fedasil_dot_2022,fedasil,2022,702083651,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2022
 bud_fedasil_dot_2021,fedasil,2021,530767789,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2021
+bud_mdk_gip_2025,mdk,2025,72475000,,,budgeted,src_mora_gip_mdk_entity,strong,GIP invest MDK 2025 MORA Table1
+bud_mdk_gip_2026,mdk,2026,92081000,,,budgeted,src_mora_gip_mdk_entity,strong,GIP invest MDK 2026
+bud_mdk_gip_2027,mdk,2027,92214000,,,budgeted,src_mora_gip_mdk_entity,strong,GIP invest MDK 2027
+bud_mdk_bagger_jachthavens_2025,mdk,2025,16107000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Onderhoudsbaggerwerken kustjachthavens Nieuwpoort Blankenberge Oostende Zeebrugge 2025
+bud_mdk_bagger_jachthavens_2026,mdk,2026,15107000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Bagger jachthavens 2026
+bud_mdk_bagger_jachthavens_2027,mdk,2027,15107000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Bagger jachthavens 2027
+bud_mdk_beloodsing_schepen_2025,mdk,2025,20000000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Bouw schepen ihkv beloodsing GIP 2025
+bud_mdk_beloodsing_schepen_2026,mdk,2026,20000000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Bouw schepen beloodsing 2026
+bud_mdk_veerboot_antwerpen_2025,mdk,2025,7965000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Bouw nieuwe veerboot Antwerpen 2025
+bud_mdk_hkd_2025,mdk,2025,2435000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Havenkapiteindiensten HKD 2025
+bud_mdk_regulier_onderhoud_2025,mdk,2025,5000000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Regulier onderhoud MDK GIP 2025 (path 5m/yr)
+bud_mdk_cyber_2025,mdk,2025,2154000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Investeringen cybersecurity NIS2 2025
+bud_mdk_kmi_2025,mdk,2025,865000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Samenwerkingsovereenkomst KMI kustweerbericht 2025
+bud_mdk_glooiing_nieuwpoort_2025,mdk,2025,10000000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Glooiing linker- en rechterhavenoever Nieuwpoort fase2 2025
+bud_mdk_stormvloed_nieuwpoort_2025,mdk,2025,2100000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Stormvloedkering Nieuwpoort wijzigingen/prijsherzieningen 2025
+bud_mdk_stormvloed_nieuwpoort_2026,mdk,2026,8500000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Stormvloedkering Nieuwpoort 2026

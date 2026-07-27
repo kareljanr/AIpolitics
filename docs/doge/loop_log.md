@@ -2105,3 +2105,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 10; cmt 1; lb 2; FOI **gap_fedasil_l5_partners** ready; rq_196=done; seeded **rq_197**.
 - FOI: L5 partner EUR list human send only; Antwerp/Mons still residual.
 - Next: prio5 **rq_197**; deferred **rq_116** SWA.
+
+### 2026-07-28T17:45:00Z - tick 203
+- Unit: **rq_197** (FOI-adjacent hole-fill - **MDK** maritime dual AWV/DVW)
+- Found (strong MORA GIP Table1 + strong GIP annex L5 + ONP structure):
+  - **MDK GIP invest EUR 72.475m 2025 / 92.081m 2026 / 92.214m 2027** (smallest MOW entity after buffer).
+  - L5 sample: **bagger jachthavens 16.1/15.1/15.1m**; **beloodsing schepen 20+20m**; **veerboot Antwerpen 7.965m**; **HKD 2.435m/yr**; **regulier 5m/yr**; **cyber 2.154m**; **glooiing Nieuwpoort 10m**; **stormvloedkering 2.1/8.5m**.
+  - Structure: IVA MOW **4 DAB** (Kust, Loodswezen, Scheepvaartbegeleiding, Vloot) + Staf; ONP has no numeric total opex.
+  - Dual map: **MDK coast/ports/pilotage** + **AWV roads** + **DVW inland waterways** (prior ticks).
+- Wrote: sources 3; entity 1; budgets 16; cmt 1; lb 2; FOI **gap_mdk_opex_l5** ready; rq_197=done; seeded **rq_198**.
+- FOI: full MDK opex+DAB+loodsgelden+GIP outturn human send only; Antwerp register / Mons BI2026 still residual.
+- Next: prio5 **rq_198**; deferred **rq_116** SWA.
