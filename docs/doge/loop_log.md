@@ -3912,3 +3912,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities +2; budgets +19; cmt +1; lb +2; FOI gap_oe_awap_dual_l5 ready; rq_340=done; spawn **rq_341 progress@350**; ticks=349
 - FOI: OE premie L5 + waitlist + AWaP total ready human send
 - Next: **MANDATORY rq_341 progress@350**; deferred **rq_116** SWA
+
+### 2026-07-31T13:45:00Z - tick 350 (progress milestone)
+- Unit: **rq_341** (mandatory progress@350 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~92-98%** (up from ~91-98% @340) — FWO 470/448m + FNRS public 242m dual research; AWV VEK 1.19bn dual SOFICO 495m; Sport VL 167m dual ADEPS 50m; VAF/CCA + economic AV triple; OE heritage 128m; prior Belspo/CM25/EUMETSAT
+  - **D L5:** **~17-28%** — OE premies 83-93m envelope; dual-stack awards residual FOI
+  - **E FOI ready:** **~161** (answered ~5; total rows ~168)
+- Waste top10: **stable** fossil/company cars/cheque TE/EIWT (Hedera stock filtered off pure annual)
+- Inventory: budgets ~4282 / cmt ~632 / lb ~760 / entities ~302 / sources ~666
+- Improved since 340: AV dual+Tax Shelter TE 255m; economic AV triple; sport dual 235m; FWO/FNRS 712m; AWV/SOFICO roads; OE heritage 128m
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_341=done; spawn rq_342; ticks=350
+- Next: prio5 **rq_342**; deferred **rq_116** SWA; human FOI send stack ~161 ready
