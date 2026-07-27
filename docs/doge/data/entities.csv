@@ -18,7 +18,7 @@ fod_binnenland,FOD Binnenlandse Zaken,SPF IntÃƒÂ©rieur,FPS Interior,federal,
 fod_sociale_zekerheid,FOD Sociale Zekerheid,SPF SÃƒÂ©curitÃƒÂ© sociale,FPS Social Security,federal,sec_federal,bi,https://socialsecurity.belgium.be,,,
 fod_volksgezondheid,FOD Volksgezondheid,SPF SantÃƒÂ© publique,FPS Public Health,federal,sec_federal,bi,https://www.health.belgium.be,,,
 fod_mobiliteit,FOD Mobiliteit,SPF MobilitÃƒÂ©,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
-mod_defensie,Defensie,DÃƒÂ©fense,Defence,federal,sec_federal,bi,https://www.mil.be,,,NATO 2pct path from 2025; COFOG 8.8bn 2025; capacity 33.8bn commit 2026-34
+mod_defensie,Defensie,DÃƒÂ©fense,Defence,federal,sec_federal,bi,https://www.mil.be,,,NATO 2pct path; s16 liq 10.77bn 2026 of effort 13.10bn; extra package 16.78bn 2025-29; capacity 33.8bn commit prior; tick392
 rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,ONSS/RSZ employee SS; GG sal prest 60.515bn cotis 65.77bn dots 9.49 altfin 21.37 2024 strong CoA; beheer path prior; dual indep RSVZ; FOI gap_onss_gg_transfer_l5; tick388
 riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Global 45.222bn 2025 (beheer 1.189bn corrections 217m); 46.775bn 2026; tick383
 riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santÃƒÂ© (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
@@ -353,3 +353,4 @@ vl_zorginfra,ISE Zorginfrastructuur VIPA Vlaanderen,Infrastructure de soins VIPA
 famiris,Famiris caisse publique allocations familiales Bruxelles,Famiris caisse publique AF Bruxelles,Brussels public family benefits payment caisse under Iriscare,agency,iriscare,bi,https://www.famiris.brussels,,,Public AF channel 427m 2024; 122524 children; tick377
 vivalis,Vivalis administration COCOM Bruxelles,Vivalis administration COCOM,Brussels bicommunal administration funding Iriscare dots,agency,cocom,bi,https://www.vivalis.brussels,,,Dot Iriscare missions+fonct 1660.923m 2024; tick377
 spp_is,POD Maatschappelijke Integratie,SPP Integration sociale,PPS Social Integration,agency,sec_federal,bi,https://www.mi-is.be,,,Federal RIS to CPAS 2.2bn 2026 + Ukraine 299m + compensation 300m; tick389
+police_federale,Federale Politie,Police federale,Federal Police,agency,sec_federal,bi,https://www.police.be,,,Section 17; FTE 13980 end-2025 (~flat since 2021); ops +87.5m from provision; I-Police cancelled 76.7/299m spent claim 228.1m; FOI gap_ipolice_claim_l5; tick392

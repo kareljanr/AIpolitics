@@ -4462,3 +4462,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +39; cmt +2; lb +8; entities; FOI **gap_justice_provisions_l5_2026** ready; rq_382=done; spawn **rq_383**; ticks=391
 - FOI: Justice provision project list human send only
 - Next: prio5 **rq_383**; deferred **rq_116** SWA
+
+### 2026-08-01T10:45:00Z - tick 392
+- Unit: **rq_383** (FOI-adjacent hole-fill - **Federal police I-Police cancel + NATO 2pct defence path**)
+- Found (strong primary CoA Budget 2026):
+  - **I-Police cancelled:** liquidated **EUR 76.7m** of **299m**; claim **228.1m** (49.9 invoices + 178.5 damages of which lost-gain **149m** soft)
+  - Residual prog 17.80.4 eng **7.8** / liq **15.1m** 2026 (Focus/digitalisation)
+  - Police FTE **13,980** end-2025 (~flat vs 13,962 2021); target **14,280**; ops +**87.5m** from security provision
+  - Grandes Villes police **43.6m** 2025-29; eng **9.9** / liq **13.2m** 2026
+  - **NATO effort 2026 EUR 13,095.8m** (s16 liq **10,769.6**; external **2,326**; mil pens **1,688**)
+  - Extra defence package **16,783m** 2025-29; temp fin CIT Russia **1,163** + Belfius **500**
+  - DGD liq **1,040.3m** 2026; SPF Finance **2.4bn** (personnel 1.56)
+- Wrote: sources +1; budgets +56; cmt +2; lb +8; entity police_federale; FOI **gap_ipolice_claim_l5** ready prio8; rq_383=done; spawn **rq_384**; ticks=392
+- FOI: I-Police claim/settlement human send only
+- Next: prio5 **rq_384**; deferred **rq_116** SWA

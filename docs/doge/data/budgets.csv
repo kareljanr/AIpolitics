@@ -5190,3 +5190,59 @@ bud_ris_dis_2026,spp_is,2026,2084500000,,,budgeted,src_ccrek_budget2026_justice_
 bud_ris_loi1965_2026,spp_is,2026,156400000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Loi 1965 aide indigence CPAS 156.4m 2026
 bud_ris_dis_base_2026,spp_is,2026,1841700000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,DIS base before corrections 1841.7m 2026 (CM Jul 2025)
 bud_ris_comp_chomage_2026,spp_is,2026,300000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,CPAS compensation unemployment spillover +300m 2026
+bud_police_fed_fte_2021,police_federale,2021,13962,,,outturn,src_ccrek_budget2026_police_defence,strong,Federal police FTE 13962 end-2021 (COUNT)
+bud_police_fed_fte_2025,police_federale,2025,13980,,,outturn,src_ccrek_budget2026_police_defence,strong,Federal police FTE 13980 end-2025 (COUNT; +18 vs 2021 despite +600 ETP votes)
+bud_police_fed_fte_target_2026,police_federale,2026,14280,,,budgeted,src_ccrek_budget2026_police_defence,medium,Strategic FTE target 14280 2026 (+300 net; 115 fraud+federal prosecutor finance)
+bud_police_fed_napap_2026,police_federale,2026,15600000,,,budgeted,src_ccrek_budget2026_police_defence,medium,Napap early-career police federal 15.6m 2026 (underfund >3m non-indexed since 2022)
+bud_police_fed_napap_under_2026,police_federale,2026,3000000,,,budgeted,src_ccrek_budget2026_police_defence,medium,Napap underfunding >3m 2026 class
+bud_police_fed_ops_from_prov_2026,police_federale,2026,87500000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Ops credits +87.5m from security provision 2026 (structural underfunding ops)
+bud_police_fed_ops_prov_engaged_2025,police_federale,2025,60700000,,,outturn,src_ccrek_budget2026_police_defence,strong,Engaged from security provision ops 60.7m 2025 (IT vehicles grandes villes)
+bud_police_fed_ops_prov_residual_2025,police_federale,2025,26800000,,,outturn,src_ccrek_budget2026_police_defence,strong,Unspent security provision ops residual 26.8m 2025 carryable
+bud_police_grandes_villes_cumul_2025_29,police_federale,2026,43600000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Plan Grandes Villes federal police needs 43.6m cumul 2025-2029 (11 need types)
+bud_police_grandes_villes_eng_2026,police_federale,2026,9900000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Grandes Villes engagement 9.9m 2026
+bud_police_grandes_villes_liq_2026,police_federale,2026,13200000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Grandes Villes liquidation 13.2m 2026
+bud_ipolice_initial_envelope,police_federale,2026,299000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,I-Police initial planned envelope 299m (cancelled end-2025)
+bud_ipolice_liquidated_202601,police_federale,2026,76700000,,,outturn,src_ccrek_budget2026_police_defence,strong,I-Police liquidated 76.7m of 299m as of Fedcom 26 Jan 2026 (outturn)
+bud_ipolice_claim_total_2026,police_federale,2026,228100000,,,estimate,src_ccrek_budget2026_police_defence,medium,Police claim on vendor 228.1m 2026 (49.9 invoices + 178.5 damages) — claim not cash
+bud_ipolice_claim_invoices_2026,police_federale,2026,49900000,,,estimate,src_ccrek_budget2026_police_defence,medium,Claim: resolution paid invoices 49.9m
+bud_ipolice_claim_damages_2026,police_federale,2026,178500000,,,estimate,src_ccrek_budget2026_police_defence,medium,Claim: additional damages severe failings 178.5m
+bud_ipolice_claim_consultants_2026,police_federale,2026,20600000,,,estimate,src_ccrek_budget2026_police_defence,medium,Damages breakdown: external consultants 20.6m
+bud_ipolice_claim_infra_2026,police_federale,2026,7900000,,,estimate,src_ccrek_budget2026_police_defence,medium,Damages: infrastructure 7.9m
+bud_ipolice_claim_staff_2026,police_federale,2026,1000000,,,estimate,src_ccrek_budget2026_police_defence,medium,Damages: judicial police staff treatments 1.0m
+bud_ipolice_claim_lost_gain_2026,police_federale,2026,149000000,,,estimate,src_ccrek_budget2026_police_defence,weak,Damages: lost expected programme gain 149m (largest; soft)
+bud_ipolice_prog_eng_2026,police_federale,2026,7800000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Prog 17.80.4 residual eng 7.8m 2026 (other digitalisation Focus etc after cancel)
+bud_ipolice_prog_liq_2026,police_federale,2026,15100000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Prog 17.80.4 residual liq 15.1m 2026
+bud_nato_effort_2025,mod_defensie,2025,12725700000,,,outturn,src_ccrek_budget2026_police_defence,strong,NATO defence effort total 12725.7m 2025 (~2.0pct GDP)
+bud_nato_effort_2026,mod_defensie,2026,13095800000,,,budgeted,src_ccrek_budget2026_police_defence,strong,NATO defence effort total 13095.8m 2026 (99.9pct of 2pct)
+bud_nato_effort_2027,mod_defensie,2027,13573100000,,,budgeted,src_ccrek_budget2026_police_defence,medium,NATO effort 13573.1m 2027
+bud_nato_effort_2028,mod_defensie,2028,13950000000,,,budgeted,src_ccrek_budget2026_police_defence,medium,NATO effort 13950.0m 2028
+bud_nato_effort_2029,mod_defensie,2029,14289700000,,,budgeted,src_ccrek_budget2026_police_defence,medium,NATO effort 14289.7m 2029
+bud_defence_s16_liq_2025,mod_defensie,2025,10485800000,,,outturn,src_ccrek_budget2026_police_defence,strong,Defence section 16 liquidations 10485.8m 2025
+bud_defence_s16_liq_2026,mod_defensie,2026,10769600000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Defence section 16 liquidations 10769.6m 2026
+bud_nato_external_2025,mod_defensie,2025,2239900000,,,outturn,src_ccrek_budget2026_police_defence,strong,External defence effort 2239.9m 2025 (pensions+other depts+std)
+bud_nato_external_2026,mod_defensie,2026,2326200000,,,budgeted,src_ccrek_budget2026_police_defence,strong,External defence effort 2326.2m 2026
+bud_nato_pens_military_2026,fpd,2026,1688000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Military pensions in NATO effort 1688m 2026
+bud_nato_pens_civil_2026,fpd,2026,73000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Civil defence pensions 73m 2026
+bud_nato_pens_survivor_2026,fpd,2026,267000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Survivor defence pensions 267m 2026
+bud_nato_other_depts_2026,mod_defensie,2026,130700000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Other departments military spend 130.7m 2026
+bud_nato_standardisation_2026,mod_defensie,2026,167500000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Standardisation (incl conscript pensions 167.5m) 2026
+bud_nato_norm_2pct_2025,mod_defensie,2025,12726400000,,,outturn,src_ccrek_budget2026_police_defence,strong,NATO 2pct of GDP target 12726.4m 2025
+bud_nato_norm_2pct_2026,mod_defensie,2026,13107100000,,,budgeted,src_ccrek_budget2026_police_defence,strong,NATO 2pct target 13107.1m 2026
+bud_nato_extra_spend_2026,mod_defensie,2026,3522000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Additional defence spend plan 3522m 2026 (of 16783 total 2025-29)
+bud_nato_extra_spend_2025_29,mod_defensie,2025,16783000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Additional defence spend package 16783m 2025-2029
+bud_nato_temp_fin_2026,mod_defensie,2026,1663000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Temporary financing 1663m 2026 (CIT Russian assets 1163 + Belfius div 500)
+bud_nato_cit_russian_2026,sec_federal,2026,1163000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,CIT on frozen Russian assets financing 1163m 2026
+bud_nato_belfius_div_2026,sec_federal,2026,500000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Belfius exceptional dividend 500m 2026 defence financing
+bud_nato_struct_fin_2026,mod_defensie,2026,400000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Structural financing defence 400m 2026 (of path to 1750 in 2029)
+bud_nato_deficit_temp_2026,mod_defensie,2026,1459000000,,,budgeted,src_ccrek_budget2026_police_defence,medium,Temporarily higher deficit for defence 1459m 2026
+bud_dgd_liq_2025,sec_federal,2025,1129300000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Development coop liquidation credits 1129.3m 2025
+bud_dgd_liq_2026,sec_federal,2026,1040300000,,,budgeted,src_ccrek_budget2026_police_defence,strong,Development coop liq 1040.3m 2026 (-89m)
+bud_dgd_liq_2027,sec_federal,2027,957000000,,,budgeted,src_ccrek_budget2026_police_defence,medium,Development coop liq path 957m 2027
+bud_dgd_fad17_2026,sec_federal,2026,64200000,,,budgeted,src_ccrek_budget2026_police_defence,strong,African Development Fund 17th replenishment voluntary 64.2m engage 2026 pay over 10y
+bud_finance_credits_2026,fod_finance,2026,2400000000,,,budgeted,src_ccrek_budget2026_police_defence,strong,SPF Finances credits 2.4bn 2026 (-2.8bn vs prior; IMF quota one-off ends)
+bud_finance_personnel_2026,fod_finance,2026,1561500000,,,budgeted,src_ccrek_budget2026_police_defence,strong,SPF Finances personnel 1561.5m 2026
+bud_finance_it_delta_2026,fod_finance,2026,68800000,,,budgeted,src_ccrek_budget2026_police_defence,strong,SPF Finances IT increase +68.8m 2026 (compliance 20.8 + e-com/customs 42.5)
+bud_finance_ccei_scanners_2026,fod_finance,2026,22600000,,,budgeted,src_ccrek_budget2026_police_defence,strong,CCEI new-gen scanners 22.6m 2026 (EU cofinance; 9m prepay 2025)
+bud_esm_capital_2026,fod_finance,2026,216200000,,,budgeted,src_ccrek_budget2026_police_defence,medium,ESM capital key adjustment extra 216.2m 2026 (underestimation risk CoA)
+bud_antifraud_fiscal_target_2026,fod_finance,2026,300000000,,,budgeted,src_ccrek_budget2026_police_defence,weak,Fiscal fraud fight revenue target 300m 2026 (to 600m 2029; plan not yet finalised)
+bud_admin_reform_save_path,sec_federal,2026,300000000,,,budgeted,src_ccrek_budget2026_police_defence,weak,Federal admin reorganisation savings path 300m by end legislature (not objectified CoA)
