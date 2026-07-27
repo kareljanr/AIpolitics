@@ -1371,3 +1371,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 6; budgets 12; cmt 3; lb 3; entities vipa+fod_volksgezondheid; rq_140=done; FOI residual ready.
 - FOI: gap_vipa_named_l5 (top named list + cash calendar) human send.
 - Next: prio6 **rq_141 universities** / **rq_142 intercommunales** / **rq_120 Myria**.
+
+### 2026-07-27T23:15:00Z ? tick 149
+- Unit: **rq_141** (Universities public operating grants by institution)
+- Found (strong CRC HO 2024 + KU Leuven JV 2025):
+  - **VL universities 1st stream 2024: EUR 1.441bn** (werking **1.355bn** · invest **45.6m** · STUVO **30.4m**); path 1.167?1.441bn 2020-24.
+  - **AHOVOKS effectieve werkingsmiddelen 2024: EUR 1.224bn**; **EUR 8,286/student**; 149,848 students.
+  - **2nd/3rd/4th streams 2024:** 460m · 712m · 378m (research).
+  - **Named L5 KU Leuven:** 1st stream **EUR 546.5m 2024 / 567.9m 2025**; werking **515.1 / 536.1m** (~38% of VL 1st).
+  - **FWB:** education class **EUR 10.93bn 2026** (not uni-only); superieur savings **14m** ? per-uni FOI.
+- Wrote: sources 3; budgets 20; cmt 2; lb 2; entity ku_leuven; rq_141=done; FOI residual ready.
+- FOI: gap_univ_per_institution (4 remaining VL unis + FWB) human send.
+- Next: prio6 **rq_142 intercommunales** / **rq_148 climate** / **rq_120 Myria**.

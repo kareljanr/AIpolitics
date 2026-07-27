@@ -1145,3 +1145,23 @@ bud_fwb_chu_liege_2023,fwb_gov,2023,9000000,,,outturn,src_nbb_subsidies_ent_2025
 bud_fwb_other_uz_2023,fwb_gov,2023,7000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,FWB D.31 other university hospitals 7m 2023
 bud_vipa_strategic_cash_2024,vipa,2024,4476693.98,,,outturn,src_artsenkrant_vipa_2024,medium,VIPA strategic forfaits cash paid 2024 only 4.48m (multi-year commitments larger)
 bud_jessa_vipa_envelope,vipa,2026,500000000,,,commitment,src_vrt_jessa_vipa_500m,strong,Jessa Hasselt VIPA strategic forfait package ~500m over 40y after opening (not single-year cash)
+bud_vl_univ_1st_stream_2024,sec_flanders,2024,1440744600,,,outturn,src_vl_crc_ho_2024,strong,VL universities basisfinanciering 1st geldstroom total 2024
+bud_vl_univ_werking_2024,sec_flanders,2024,1354798125,,,outturn,src_vl_crc_ho_2024,strong,VL universities werkingsuitkeringen code 7000 2024
+bud_vl_univ_invest_uitk_2024,sec_flanders,2024,45623950,,,outturn,src_vl_crc_ho_2024,strong,VL universities investeringsuitkeringen 2024
+bud_vl_univ_stuvo_2024,sec_flanders,2024,30359491,,,outturn,src_vl_crc_ho_2024,strong,VL universities sociale toelagen STUVO 2024
+bud_vl_univ_ahovoks_werking_2024,sec_flanders,2024,1224240771,,,outturn,src_vl_crc_ho_2024,strong,AHOVOKS effectieve werkingsmiddelen paid 2024 (excl some components)
+bud_vl_univ_2nd_stream_2024,sec_flanders,2024,460276480,,,outturn,src_vl_crc_ho_2024,strong,2nd stream fundamental research gov (BOF+FWO class) 2024
+bud_vl_univ_3rd_stream_2024,sec_flanders,2024,711880167,,,outturn,src_vl_crc_ho_2024,strong,3rd stream applied research gov 2024
+bud_vl_univ_4th_stream_2024,sec_flanders,2024,378276220,,,outturn,src_vl_crc_ho_2024,strong,4th stream private research + valorisatie 2024
+bud_vl_univ_total_edu_research_rev_2024,sec_flanders,2024,3331395347,,,outturn,src_vl_crc_ho_2024,strong,All 4 streams + other edu/research related revenue 2024
+bud_vl_univ_per_student_werking_2024,sec_flanders,2024,8286,,,outturn,src_vl_crc_ho_2024,strong,Werkingsmiddelen per student under diplomacontract 2024 EUR
+bud_kuleuven_1st_2024,ku_leuven,2024,546506062,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven 1st stream basisfinanciering 2024
+bud_kuleuven_werking_2024,ku_leuven,2024,515120013,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven werkingsuitkeringen 2024 (~38pct of VL univ 1st stream)
+bud_kuleuven_invest_2024,ku_leuven,2024,19364877,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven investeringsuitkeringen 2024
+bud_kuleuven_stuvo_2024,ku_leuven,2024,11843756,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven sociale toelagen 2024
+bud_kuleuven_1st_2025,ku_leuven,2025,567940708,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven 1st stream 2025
+bud_kuleuven_werking_2025,ku_leuven,2025,536061091,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven werkingsuitkeringen 2025 (+20.9m vs 2024)
+bud_kuleuven_research_exp_2024,ku_leuven,2024,749200000,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven total research expenditure 2024
+bud_kuleuven_research_exp_2025,ku_leuven,2025,781880000,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven total research expenditure 2025
+bud_fwb_edu_class_2026,fwb_gov,2026,10928638000,,,budgeted,src_fwb_expgen_2026,strong,FWB education class envelope 10.928bn 2026 (schools+HE; not university-only)
+bud_fwb_superieur_savings_2026,fwb_gov,2026,14000000,,,budgeted,src_fwb_expgen_2026,strong,FWB superieur savings line 14m 2026
