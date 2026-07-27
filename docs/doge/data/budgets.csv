@@ -1010,3 +1010,6 @@ bud_antwerp_zorgbedrijf_invest_2024,city_antwerpen,2024,11970847.95,,,budgeted,s
 bud_antwerp_zorgbedrijf_werk_2023,city_antwerpen,2023,36303606.73,,,budgeted,src_ebesluit_zorgbedrijf_2023,strong,Zorgbedrijf werking 36.304m 2023
 bud_antwerp_zorgbedrijf_resp_2023,city_antwerpen,2023,15775617,,,budgeted,src_ebesluit_zorgbedrijf_2023,strong,Zorgbedrijf responsabilisering 15.776m 2023
 bud_antwerp_zorgbedrijf_invest_2023,city_antwerpen,2023,14509456.80,,,budgeted,src_ebesluit_zorgbedrijf_2023,strong,Zorgbedrijf invest 14.509m 2023
+bud_company_cars_te_fpb_2025,fod_finance,2025,4700000000,,,estimate,src_fpb_company_cars_te_2025,strong,FPB company car TE package central 4.7bn 2025
+bud_company_cars_te_fpb_2028,fod_finance,2028,5200000000,,,estimate,src_fpb_company_cars_te_2025,strong,FPB company car TE package central 5.2bn 2028
+bud_company_cars_te_vat_2028,fod_finance,2028,600000000,,,estimate,src_fpb_company_cars_te_2025,medium,FPB non-recovered VAT component ~0.6bn 2028

@@ -1269,3 +1269,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 5; budgets 10; commitments 3; leaderboard 2; rq_143=done; FOI note updated.
 - FOI: residual ready (partial fill does not close full top20).
 - Next: prio7 **rq_129 SS funds** / **rq_155 company cars** / prio6 IEFH.
+
+### 2026-07-27T20:30:00Z — tick 141
+- Unit: **rq_155** (Company cars TE component split primary)
+- Found (strong FPB WP 202504 Jun 2025; FFS prior):
+  - **FPB central TE: ~€4.7bn (2025) ? ~€5.2bn (2028)** if BIK taxed as wage (CASMO); sensitivity **€3–6bn**.
+  - **Components (direction):** private-use cluster (PIT + SSC on availability dominant) ˜ **€4.2bn** of 2025 gap; **non-recovered VAT ~€0.6bn** (2028); **CIT offset -€0.1bn**.
+  - Named TE categories: SS contribution on availability · income tax on availability · VAT on energy · income tax+SS on fuel/electricity · disallowed expenses.
+  - **FFS inventory 2024 €3.142bn** remains narrower official inventory line; dual methods kept (not force-reconcile).
+  - Exact FPS inventory cash-by-year PIT/VAT/SSC series still not public ? FOI residual priority 6.
+- Wrote: sources 2; taxex 5; budgets 3; cmt_company_cars_te_fpb; lb_company_cars_fpb; rq_155=done; FOI note updated.
+- FOI: gap_company_cars residual ready (FPS official split).
+- Next: prio7 **rq_129 Maribel L5**; prio6 **IEFH/FIRM**.
