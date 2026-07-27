@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T02:15:00Z,rq_221,229,no,"Scheduler 60s. NEXT tick230 MANDATORY progress coverage % + waste top10; then rq_222. rq_116 SWA deferred. FOI ready human send. tick229 residual social 1.56m combined ~31.79m."
+main,continuous,hole_fill,2026-07-29T02:30:00Z,progress@230,230,no,"Scheduler 60s. Next prio5 rq_222 Mons/utilities; rq_116 SWA deferred. FOI ready human send. tick230 progress: L2~74-82 L5~9-17 culture16/16 Digipolis246m social~32m."

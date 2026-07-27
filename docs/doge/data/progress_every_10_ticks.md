@@ -20,40 +20,40 @@
 
 ---
 
-## Snapshot at **tick 220** (2026-07-28)
+## Snapshot at **tick 230** (2026-07-29)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~72–80%** (order of magnitude) | Strong: prior holdings + **Antwerp mega AGB/zone stack ~631m** same-year 2026 (PZA 321 + ZBA 89 + AG SO 88 + BZA 87 + Integratie 26 + …); residual SS bulk + many local ASBL + Mons BI2026 + Digipolis full personnel |
-| **D. L5 named end-receivers** | **~8–16%** of TE (generous) | Antwerp culture **8-house sample 7.92m**, CAW **2.3m**, FreeClinic **0.97m**, FAMEUS **0.52m**, STW **0.28m**; still thin vs TE |
+| **C. L2 entity totals** | **~74–82%** (order of magnitude) | Prior AGB/zone stack ~631m + **Digipolis AGB full 245.6m** + **member matrix 245.07m** (recharge not pure additive city) + culture/social city L5 depth; residual SS bulk + many communes + **Mons BI2026** |
+| **D. L5 named end-receivers** | **~9–17%** of TE (generous) | Antwerp culture **16/16 houses 14.58m**; social+youth **~15 orgs ~31.8m** (CAW full 16.92m, Kras 4.26m, JES 2.39m, …); still thin vs TE |
 | **E. FOI-ready gaps** | **~71** drafts ready | Human send only — closes D when answered |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
 
-### Inventory (tick 220)
+### Inventory (tick 230)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,324 |
-| commitments.csv | ~394 |
-| leaderboard.csv | ~363 |
-| entities.csv | ~148 |
-| sources.csv | ~456 |
+| budgets.csv | ~2,400 |
+| commitments.csv | ~429 |
+| leaderboard.csv | ~394 |
+| entities.csv | ~309 |
+| sources.csv | ~489 |
 | FOI ready | ~71 |
 | FOI total rows | ~75 |
-| research_queue | ~213 (open: 2) |
+| research_queue | ~222 (open: 2) |
 
-### What improved since tick 210
+### What improved since tick 220
 
-- **Zorgbedrijf Antwerpen** city package **89.3m** 2026 (vs 65.0m 2025) — structure shift personnel/discounts  
-- **Brandweerzone Antwerpen** city package **87.5m** 2026; same-year safety PZA+BZA **408m**  
-- **AG Stedelijk Onderwijs** **88.2m** + **MPA** **4.05m** 2026  
-- **VESPA 6.0m** + **CIA/Erfgoed 7.9m** + **Energie 0.59m** Feb AGB batch  
-- **Integratie en Inburgering** **25.8m** + **Beschut Wonen 0.97m**  
-- **Mega AGB/zone stack ~631m** same-year 2026 city parastatal class  
-- Culture L5 sample **7.40 → 7.92m** (+FAMEUS); STW **280k**; Rataplan invest **600k**  
+- **Culture L5 complete 16/16** named houses **14.58m** of ~35m envelope (~41.7% class) — DeRoma 936k, Trix 705k, DeStudio 153k, AAW 97.5k, HETPALEIS 3.41m, …  
+- **AG Digipolis full MJP 245.6m** 2026 + **personnel residual closed 45.46m**  
+- **Digipolis member omzet matrix 245.07m** (stad 138.0 + LPA/PZA 69.5 + AGSO 11.1 + …)  
+- **CAW full MJP 16.92m** (prior ebesluit sample 2.27m was subset)  
+- Social/youth wave: FreeClinic MJP 2.44m, VAGGA 0.94m, ADIC 0.74m, Kras 4.26m, JES 2.39m, Elegast 1.28m, Posthof 1.27m + residual mid-tier **1.56m**  
+- Combined Antwerp social+youth sample class **~31.8m** (~15 orgs)  
+- Mons BI2026 still FOI-ready (no public PDF)  
 
 ---
 
@@ -71,7 +71,8 @@
 | 190 | 100% | 100% | ~62–70% | ~6–13% | ~60 | SFPIM+airports+Credendo |
 | 200 | 100% | 100% | ~68–76% | ~7–14% | ~68 | Holdings+ports+rail dual |
 | 210 | 100% | 100% | ~70–78% | ~8–15% | ~71 | Fedasil+MDK+Antwerp L5+PZA+CAW |
-| **220** | **100%** | **100%** | **~72–80%** | **~8–16%** | **~71** | **Current** (Antwerp AGB mega stack ~631m) |
+| 220 | 100% | 100% | ~72–80% | ~8–16% | ~71 | Antwerp AGB mega stack ~631m |
+| **230** | **100%** | **100%** | **~74–82%** | **~9–17%** | **~71** | **Current** (Digipolis 246m + culture 16/16 + social ~32m) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 
