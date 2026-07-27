@@ -2497,3 +2497,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entities 4; budgets 28; cmt 3; lb 4; FOI draft gap_cocof_phare_vgc_l5 **ready**; raw PDFs; rq_226=done; seeded **rq_227**.
 - FOI: Phare named L5 + VGC top20 werksubs + COCOF net primary human send.
 - Next: prio5 **rq_227**; deferred **rq_116** SWA.
+
+### 2026-07-29T05:05:00Z - tick 236
+- Unit: **rq_227** (FOI-adjacent hole-fill - **VAPH dual Phare + VSB + Opgroeien 2026**)
+- Found (strong Vlaamse uitgavenbegroting decree 2026 primary / Themis PDF):
+  - **VAPH IVA:** ontvangsten **EUR 2,865.400m** = VEK **2,865.400m**; VAK **3,151.217m** (art.37).
+  - Programme **GG Personen met een beperking** VAK **3,121.780m** / VEK **2,819.590m** (kEUR table).
+  - **Dual Phare COCOF 210.3m** — VAPH VEK ~**14x** Phare (not unit-cost adjusted; dual AViQ residual).
+  - **VSB IVA:** rec=VEK **4,748.450m**; VAK **4,381.513m** (art.35) — care WZC open-end class.
+  - **Opgroeien regie IVA:** rec=VEK **7,611.411m**; VAK **7,578.928m** (art.36) — Groeipakket open-end.
+  - Triple WVG IVA VEK class **~15.225bn** (do not double-count with WVG programme lines).
+- Wrote: sources 1; entities 3; budgets 12; cmt 3; lb 4; FOI gap_vaph_pvb_l5 **ready**; raw PDF; rq_227=done; seeded **rq_228**.
+- FOI: VAPH PVB top operators L5 + underbenutting path human send.
+- Next: prio5 **rq_228** (AViQ dual); deferred **rq_116** SWA; progress@240 due in 4 ticks.

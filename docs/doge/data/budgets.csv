@@ -2485,3 +2485,15 @@ bud_vgc_debt_eoy_2025,vgc,2025,242125466,,,outturn,src_vgc_jaarrekening_2025,str
 bud_vgc_afm_2025,vgc,2025,41818619,,,outturn,src_vgc_jaarrekening_2025,strong,Autofinancieringsmarge 41.819m strong surplus
 bud_vgc_bbr_2025,vgc,2025,207790290,,,outturn,src_vgc_jaarrekening_2025,strong,Beschikbaar budgettair resultaat 207.79m before bestemde; after 107.76m
 bud_vgc_cashout_class_2025,vgc,2025,273155346,,,outturn,src_vgc_jaarrekening_2025,strong,Exp+inv uit class 173.6+99.5=273.2m same-year; not full financing
+bud_vaph_rec_2026,vaph,2026,2865400000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,VAPH ontvangsten 2865.4m decree art37
+bud_vaph_vak_2026,vaph,2026,3151217000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,VAPH uitgaven vastleggingen 3151.217m
+bud_vaph_vek_2026,vaph,2026,2865400000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,VAPH uitgaven vereffeningen 2865.4m (=rec balanced cash class)
+bud_vl_pr_gg_beperking_vak_2026,vaph,2026,3121780000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,PR GG Personen met een beperking VAK 3121.780m kEUR programme perimeter may exceed pure VAPH
+bud_vl_pr_gg_beperking_vek_2026,vaph,2026,2819590000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,PR GG Personen met een beperking VEK 2819.590m kEUR
+bud_vsb_rec_2026,vsb,2026,4748450000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,VSB ontvangsten 4748.45m art35
+bud_vsb_vak_2026,vsb,2026,4381513000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,VSB uitgaven VAK 4381.513m
+bud_vsb_vek_2026,vsb,2026,4748450000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,VSB uitgaven VEK 4748.45m
+bud_opgroeien_rec_2026,opgroeien,2026,7611411000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Opgroeien regie ontvangsten 7611.411m art36
+bud_opgroeien_vak_2026,opgroeien,2026,7578928000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Opgroeien regie VAK 7578.928m
+bud_opgroeien_vek_2026,opgroeien,2026,7611411000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Opgroeien regie VEK 7611.411m
+bud_vl_wvg_triple_iva_vek_2026,sec_flanders,2026,15225261000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Sum VEK VAPH+VSB+Opgroeien 2.865+4.748+7.611=15.225bn class; not additive with WVG programme double-count caution

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T04:35:00Z,rq_226,235,no,Scheduler 60s. Next prio5 rq_227; rq_116 SWA deferred. FOI ready human send. tick235 COCOF 702m Phare 210m VGC exp 174m.
+main,continuous,hole_fill,2026-07-29T05:05:00Z,rq_227,236,no,Scheduler 60s. Next prio5 rq_228; rq_116 SWA deferred. FOI ready human send. tick236 VAPH 2.87bn VSB 4.75bn Opgroeien 7.61bn dual Phare.
