@@ -1165,3 +1165,22 @@ bud_kuleuven_research_exp_2024,ku_leuven,2024,749200000,,,outturn,src_kuleuven_j
 bud_kuleuven_research_exp_2025,ku_leuven,2025,781880000,,,outturn,src_kuleuven_jv_2025,strong,KU Leuven total research expenditure 2025
 bud_fwb_edu_class_2026,fwb_gov,2026,10928638000,,,budgeted,src_fwb_expgen_2026,strong,FWB education class envelope 10.928bn 2026 (schools+HE; not university-only)
 bud_fwb_superieur_savings_2026,fwb_gov,2026,14000000,,,budgeted,src_fwb_expgen_2026,strong,FWB superieur savings line 14m 2026
+bud_fluvius_ops_rev_2024,fluvius,2024,3797000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG operating revenue 2024
+bud_fluvius_ops_rev_2025,fluvius,2025,4597000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG operating revenue 2025 (+799m tariffs)
+bud_fluvius_ebitda_2025,fluvius,2025,1107000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG EBITDA 2025
+bud_fluvius_capex_2024,fluvius,2024,1557000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG CAPEX 2024
+bud_fluvius_capex_2025,fluvius,2025,1780000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG CAPEX 2025
+bud_fluvius_result_2025,fluvius,2025,182000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG net result 2025
+bud_fluvius_equity_2025,fluvius,2025,7270000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG equity end-2025
+bud_fluvius_debt_2025,fluvius,2025,10361000000,,,outturn,src_fluvius_investor_2025,strong,Fluvius EG interest-bearing loans end-2025
+bud_fluvius_equity_strengthen_vl,fluvius,2026,1560000000,,,budgeted,src_fluvius_investor_2025,strong,VL Gov commit equity strengthen DSOs up to 1.56bn (PMV/municipal path; BA2026 VEK 1.1bn related)
+bud_spge_ca_2024,spge,2024,418000000,,,outturn,src_spge_rapport_2024,strong,SPGE chiffre d affaires 2024
+bud_spge_invest_2024,spge,2024,200000000,,,outturn,src_spge_rapport_2024,strong,SPGE investments >200m 2024
+bud_spge_debt_2024,spge,2024,1581000000,,,outturn,src_spge_rapport_2024,strong,SPGE endettement end-2024 Moody A3
+bud_spge_cum_invest,spge,2024,5221000000,,,outturn,src_spge_rapport_2024,strong,SPGE cumulative invest since creation 5.221bn
+bud_aquafin_project_delivery_2024,aquafin,2024,174000000,,,outturn,src_aquafin_jv_esg_2024,strong,Aquafin investment+optimisation project delivery budget realized 174m 2024
+bud_aquafin_project_target_2025,aquafin,2025,180000000,,,budgeted,src_aquafin_jv_esg_2024,strong,Aquafin project delivery target 180m 2025
+bud_aquafin_asset_mgmt_2024,aquafin,2024,54300000,,,outturn,src_aquafin_jv_esg_2024,strong,Aquafin asset management projects delivered 54.3m 2024
+bud_aquafin_lokaal_pact_2026_30,aquafin,2026,500000000,,,commitment,src_vl_aquafin_lokaal_pact_500m,strong,Lokaal Pact municipal sewers Aquafin takeover 500m 2026-2030
+bud_vivaqua_capital_bru_path,vivaqua,2026,180000000,,,budgeted,src_bru_vivaqua_180m,medium,BCR capital injection/stake Vivaqua 180m path (finops + press 49pct)
+bud_fl_wastewater_d92_2024,vlaanderen_gov,2024,82000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders D.92 wastewater investment grants non-public 82m 2024 (NBB A4)

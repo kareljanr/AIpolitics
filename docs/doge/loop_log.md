@@ -1383,3 +1383,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 20; cmt 2; lb 2; entity ku_leuven; rq_141=done; FOI residual ready.
 - FOI: gap_univ_per_institution (4 remaining VL unis + FWB) human send.
 - Next: prio6 **rq_142 intercommunales** / **rq_148 climate** / **rq_120 Myria**.
+
+### 2026-07-27T23:35:00Z ? tick 150
+- Unit: **rq_142** (Intercommunales top public transfers sample)
+- Found (strong Fluvius investor + SPGE + Aquafin + BCR path):
+  - **Fluvius EG:** ops rev **EUR 3.80bn 2024 / 4.60bn 2025**; CAPEX **1.56 / 1.78bn**; EBITDA **1.11bn**; result **182m**; debt **10.4bn**; equity strengthen path **up to 1.56bn** VL/PMV; 10y invest plan **~11bn**.
+  - **SPGE (WAL water):** CA **EUR 418m 2024**; invest **>200m**; cum invest **5.22bn**; debt **1.58bn**.
+  - **Aquafin (VL water):** project delivery **174m 2024 / target 180m 2025**; asset mgmt **54.3m**; **Lokaal Pact 500m 2026-30**.
+  - **Vivaqua (BRU):** capital path **EUR 180m** (finops + 49pct stake claim medium).
+  - NBB FL wastewater D.92 **82m 2024**.
+- Wrote: sources 5; budgets 19; cmt 4; lb 2; entities 4; rq_142=done; FOI residual ready.
+- FOI: gap_interco_dividends_l5 (municipal dividends + equity cash) human send.
+- Next: prio6 **rq_148 climate** / **rq_144 Charleroi** / **rq_120 Myria**.
