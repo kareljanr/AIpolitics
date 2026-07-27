@@ -3147,3 +3147,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities hedera+synatom+cpn; budgets +14; cmt +3; lb +6; FOI gap_hedera_budget ready; draft; raw Kamer+Synatom; rq_279=done; spawn progress@290 + rq_281; ticks=288
 - FOI: Hedera 2026 ops table human send; AGMJ residual still ready
 - Next: prio5 **rq_281**; mandatory **rq_280 progress@290** when ticks hit 290; deferred **rq_116** SWA
+
+### 2026-07-30T07:15:00Z - tick 289
+- Unit: **rq_281** (FOI-adjacent hole-fill - **ASEVA/APETRA strategic oil stocks dual Hedera energy security**)
+- Found (strong primary CoA 2022 + Beleidsverslag 2023 OCR):
+  - **Bijdrage EUR 175.2m 2022 / 211.8m 2023** (oil-product levy).
+  - **ESR 103.0m 2022 / ~188.4m 2023**; accounting profit 271.8 / ~155.1m.
+  - Opslag **63.8m** 2022; tickets **3.8 / 20.4m**; debt **1015 -> 935m** (all FAS).
+  - Assets **2.286bn** stock book **2.193bn** (market ~2.75bn) 2022; stock days **93.8 / 90.58**.
+  - VTE **4.4** end-2022 (+2 hires 2023); APETRA renamed ASEVA law 21Dec2023.
+  - Dual energy security with Hedera nuclear CAP 15bn (not TE-additive).
+- Wrote: sources +2; entity aseva; budgets +25; cmt +1; lb +5; FOI gap_aseva_2024 ready; draft; raw CoA+BV; rq_281=done; spawn rq_282; ticks=289
+- FOI: ASEVA 2024 accounts + storage L5 human send
+- Next: **MANDATORY progress rq_280 @ tick 290**; then rq_282; deferred **rq_116** SWA

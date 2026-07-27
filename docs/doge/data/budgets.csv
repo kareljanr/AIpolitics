@@ -3251,3 +3251,28 @@ bud_phoenix_volume_adj_to_2035,hedera,2025,553600000,,,commitment,src_kamer_56k1
 bud_hedera_aif_fees_2026_class,hedera,2026,2300000,,,budgeted,src_kamer_56k1202_hedera,medium,AIF ManCo depositary architecture fees ~2.3m announced (Kamer)
 bud_hedera_interest_2025,hedera,2025,146400000,,,outturn,src_kamer_56k1202_hedera,strong,Interest received 146.4m 2025 (Kamer member question)
 bud_synatom_electrabel_loan_repay_2024,synatom,2024,1960000000,,,outturn,src_synatom_ar_2024,strong,Electrabel loan repayments to SYNATOM 1.960bn 2024
+bud_aseva_bijdrage_2022,aseva,2022,175200000,,,outturn,src_ccrek_apetra_2022,strong,APETRA-bijdragen 175.2m 2022 (+54.2pct yoy)
+bud_aseva_bedrijfsopbrengsten_2022,aseva,2022,286000000,,,outturn,src_ccrek_apetra_2022,strong,Bedrijfsopbrengsten 286.0m (bijdrage+verkoop+tickets+subsidie)
+bud_aseva_product_sales_2022,aseva,2022,70600000,,,outturn,src_ccrek_apetra_2022,strong,Verkoop aardolieproducten verversing 70.6m
+bud_aseva_tickets_2022,aseva,2022,3800000,,,outturn,src_ccrek_apetra_2022,strong,Ticket sales 3.8m
+bud_aseva_subsidy_ukraine_2022,aseva,2022,36400000,,,outturn,src_ccrek_apetra_2022,strong,FOD Economie subsidy recognized 36.4m of 41.4m for Ukraine restock
+bud_aseva_purchases_2022,aseva,2022,105900000,,,outturn,src_ccrek_apetra_2022,strong,Aankoop aardolieproducten 105.9m
+bud_aseva_storage_2022,aseva,2022,63800000,,,outturn,src_ccrek_apetra_2022,strong,Opslagkosten 63.8m (~1.4 EUR/ton/month)
+bud_aseva_inventory_writeup_2022,aseva,2022,157400000,,,outturn,src_ccrek_apetra_2022,strong,Terugname afwaardering voorraad 157.4m
+bud_aseva_profit_2022,aseva,2022,271800000,,,outturn,src_ccrek_apetra_2022,strong,Boekhoudkundige winst 271.8m (ex writeup 114.4m)
+bud_aseva_esr_2022,aseva,2022,103000000,,,outturn,src_ccrek_apetra_2022,strong,ESR-resultaat 103.0m (excl stock reval)
+bud_aseva_assets_2022,aseva,2022,2285900000,,,outturn,src_ccrek_apetra_2022,strong,Balanstotaal 2.285.9m
+bud_aseva_stock_book_2022,aseva,2022,2192600000,,,outturn,src_ccrek_apetra_2022,strong,Voorraden boekwaarde 2.192.6m; market ~2.746.1m
+bud_aseva_equity_2022,aseva,2022,1217400000,,,outturn,src_ccrek_apetra_2022,strong,Eigen vermogen 1.217.4m
+bud_aseva_debt_2022,aseva,2022,1015000000,,,outturn,src_ccrek_apetra_2022,strong,Financiele schuld 1.015.0m; repaid 80m of initial loan
+bud_aseva_vte_2022,aseva,2022,4.4,,,outturn,src_ccrek_apetra_2022,strong,VTE 4.4 end-2022 (5 staff); amount is FTE
+bud_aseva_stock_days_2022,aseva,2022,93.8,,,outturn,src_ccrek_apetra_2022,strong,Strategic stock 3.329.727 ton rae = 93.8 days; amount is days
+bud_aseva_bijdrage_2023,aseva,2023,211800000,,,outturn,src_aseva_beleidsverslag_2023,strong,ASEVA-bijdrage ontvangsten 211.8m 2023
+bud_aseva_tickets_2023,aseva,2023,20400000,,,outturn,src_aseva_beleidsverslag_2023,strong,Ticketverkoop 20.4m 2023 (vs 3.8m 2022)
+bud_aseva_profit_2023,aseva,2023,155080000,,,outturn,src_aseva_beleidsverslag_2023,strong,Boekhoudkundig resultaat ~155.08m incl inventory -11.0m + heating oil sales 44.6m
+bud_aseva_esr_2023,aseva,2023,188400000,,,outturn,src_aseva_beleidsverslag_2023,strong,ESR-resultaat ~188.4m 2023
+bud_aseva_debt_2023,aseva,2023,935000000,,,outturn,src_aseva_beleidsverslag_2023,strong,Totale schuld 935m fully at Federal Debt Agency; repaid 80m 2023
+bud_aseva_heating_oil_sales_2023,aseva,2023,44600000,,,outturn,src_aseva_beleidsverslag_2023,strong,Verkoop gasolie-verwarming 50ppm 44.6m year-end 2023
+bud_aseva_inventory_reval_2023,aseva,2023,-11000000,,,outturn,src_aseva_beleidsverslag_2023,strong,Voorraadherwaardering -11.0m 2023
+bud_aseva_obligation_ton_2023,aseva,2023,3307130,,,outturn,src_aseva_beleidsverslag_2023,strong,Voorraadplicht 3.307.130 ton rae year 2023; amount is tonnes
+bud_aseva_stock_days_2023,aseva,2023,90.58,,,outturn,src_aseva_beleidsverslag_2023,strong,Coverage 90.58 days end-2023; amount is days
