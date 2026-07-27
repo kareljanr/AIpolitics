@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T06:15:00Z,rq_278,287,no,Scheduler 60s. Next prio5 rq_279; rq_116 SWA deferred. FOI ready human send. tick287 MYRRHA 550m SMR 100m.
+main,continuous,hole_fill,2026-07-30T06:45:00Z,rq_279,288,no,Scheduler 60s. Next prio5 rq_281 or progress rq_280@290; rq_116 SWA deferred. FOI ready. tick288 Hedera CAP 15bn.

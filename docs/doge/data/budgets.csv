@@ -3237,3 +3237,17 @@ bud_smr_fps_liq_2025,sck_cen,2025,12500000,,,budgeted,src_kamer_55k2933_016_sck,
 bud_smr_fps_liq_2026,sck_cen,2026,21500000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.31.32.01 21.500m liq
 bud_sck_invest_fps_recurring,sck_cen,2023,4111000,,,budgeted,src_kamer_55k2933_016_sck,strong,SCK investment subsidy line ~4.111m/yr path in justification
 bud_myrrha_envelope_2019_38,myrrha_ivzw,2019,550000000,,,commitment,src_kamer_55k2933_016_sck,strong,CM Sept2018 structural financing >550m EUR 2019-2038 MINERVA invest+ops; amount is envelope floor
+bud_hedera_cap_tranche1_2025,hedera,2025,12200000000,,,outturn,src_kamer_56k1202_hedera,strong,First CAP payment 12.2bn EUR 14 Mar 2025 (INR/Kamer; Synatom ~12bn)
+bud_hedera_cap_tranche2_est_2025,hedera,2025,3700000000,,,estimate,src_kamer_56k1202_hedera,medium,Second CAP est ~3.7bn end-2025 LTO restart (contract 3.5bn 2022eur + index)
+bud_hedera_cap_total_15bn_2022eur,hedera,2024,15000000000,,,commitment,src_synatom_ar_2024,strong,Phoenix fixed CAP 15bn EUR 2022 prices 3pct index from 2023 for ENGIE waste A+B+C
+bud_synatom_cap_portfolio_eoy2024,synatom,2024,9494000000,,,outturn,src_synatom_ar_2024,strong,CAP-related assets liquidated eoy2024 9.494bn return 3.55pct
+bud_synatom_residual_portfolio_eoy2024,synatom,2024,3400000000,,,outturn,src_synatom_ar_2024,strong,Residual dismantling+SF portfolio 3.4bn eoy2024 return 8.62pct
+bud_synatom_total_invest_eoy2024,synatom,2024,12900000000,,,outturn,src_synatom_ar_2024,strong,Total SYNATOM investments eoy2024 12.9bn
+bud_synatom_provisions_increase_2024,synatom,2024,488000000,,,outturn,src_synatom_ar_2024,strong,Provisions increase 488m 2024 of which accretion 407m
+bud_phoenix_dismantling_dissynergy_state,hedera,2025,154400000,,,commitment,src_synatom_ar_2024,strong,State bears dismantling dissynergy 154.4m from LTO Doel4 Tihange3 vs serial plan (NPC)
+bud_niras_5y_plan_2026_30,niras,2026,511000000,,,budgeted,src_kamer_56k1202_hedera,medium,NIRAS five-year plan 2026-2030 total 511m (Kamer debate; dual Hedera)
+bud_niras_budget_2026_kamer,niras,2026,92700000,,,budgeted,src_kamer_56k1202_hedera,medium,NIRAS 2026 budget 92.7m cited in Kamer Hedera hearing (likely federal/ops slice not full omzet)
+bud_phoenix_volume_adj_to_2035,hedera,2025,553600000,,,commitment,src_kamer_56k1202_hedera,strong,Volume adjustment indemnities to 2035 total 553.6m
+bud_hedera_aif_fees_2026_class,hedera,2026,2300000,,,budgeted,src_kamer_56k1202_hedera,medium,AIF ManCo depositary architecture fees ~2.3m announced (Kamer)
+bud_hedera_interest_2025,hedera,2025,146400000,,,outturn,src_kamer_56k1202_hedera,strong,Interest received 146.4m 2025 (Kamer member question)
+bud_synatom_electrabel_loan_repay_2024,synatom,2024,1960000000,,,outturn,src_synatom_ar_2024,strong,Electrabel loan repayments to SYNATOM 1.960bn 2024

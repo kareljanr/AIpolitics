@@ -3134,3 +3134,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity myrrha_ivzw; budgets +25; cmt +3; lb +5; FOI gap_myrrha_belspo ready; draft; raw Kamer PDF; rq_278=done; spawn rq_279; ticks=287
 - FOI: Belspo MYRRHA + SMR full cash human send; gap_sck note updated partial fill
 - Next: prio5 **rq_279**; deferred **rq_116** SWA
+
+### 2026-07-30T06:45:00Z - tick 288
+- Unit: **rq_279** (FOI-adjacent hole-fill - **Hedera CAP nuclear provisions dual Synatom/NIRAS**)
+- Found (strong primary Kamer 56K1202 + Synatom AR2024 + CPN note + INR annex):
+  - Phoenix **CAP 15bn EUR** (2022 prices, 3pct index): tranche1 **12.2bn** paid 14 Mar 2025; tranche2 **~3.7bn** at LTO restart.
+  - SYNATOM eoy2024 assets **12.9bn** (CAP portfolio 9.494bn + residual 3.4bn); Electrabel repay **1.96bn** 2024.
+  - Provisions +**488m** 2024 (accretion 407m); state dismantling dissynergy **154.4m**.
+  - Hedera: interest **146.4m** 2025; AIF fees ~**2.3m**; yield target 3pct vs actuarial 2.86pct.
+  - NIRAS 5y plan **511m** 2026-30; volume adj **553.6m** to 2035; INR classifies Hedera **S.1311**.
+  - CAP is **stock/transfer** not annual TE waste.
+- Wrote: sources +3; entities hedera+synatom+cpn; budgets +14; cmt +3; lb +6; FOI gap_hedera_budget ready; draft; raw Kamer+Synatom; rq_279=done; spawn progress@290 + rq_281; ticks=288
+- FOI: Hedera 2026 ops table human send; AGMJ residual still ready
+- Next: prio5 **rq_281**; mandatory **rq_280 progress@290** when ticks hit 290; deferred **rq_116** SWA
