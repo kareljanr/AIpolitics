@@ -5713,3 +5713,77 @@ bud_entity2_mtfs_pct_2027,sec_s1312,2027,-0.6,,,projection,src_ccrek_budget2026_
 bud_entity2_mtfs_pct_2028,sec_s1312,2028,-0.6,,,projection,src_ccrek_budget2026_pluriannuel,weak,Entity II MTFS indicative -0.6pct 2028
 bud_entity2_mtfs_pct_2029,sec_s1312,2029,-0.7,,,projection,src_ccrek_budget2026_pluriannuel,weak,Entity II MTFS indicative -0.7pct 2029
 bud_eu_military_escape_clause,mod_defensie,2025,0,,,estimate,src_ccrek_budget2026_pluriannuel,strong,EU temporary military escape from net primary exp path endorsed 8 Jul 2025 until 2028; amount_eur blank flag
+bud_fpb_feb_gdp_2024,gg_belgium,2024,1.1,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP volume growth 1.1pct 2024
+bud_fpb_feb_gdp_2025,gg_belgium,2025,1.0,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.0pct 2025
+bud_fpb_feb_gdp_2026,gg_belgium,2026,1.1,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.1pct 2026
+bud_fpb_feb_gdp_2027,gg_belgium,2027,1.1,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.1pct 2027
+bud_fpb_feb_gdp_2028,gg_belgium,2028,1.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.2pct 2028
+bud_fpb_feb_gdp_2029,gg_belgium,2029,1.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.2pct 2029
+bud_fpb_feb_gdp_2030,gg_belgium,2030,1.4,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.4pct 2030
+bud_fpb_feb_gdp_2031,gg_belgium,2031,1.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb2026 GDP growth 1.2pct 2031
+bud_fpb_feb_cpi_2025,gg_belgium,2025,2.5,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb CPI inflation 2.5pct 2025
+bud_fpb_feb_cpi_2026,gg_belgium,2026,1.9,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb CPI 1.9pct 2026 (ETS2 spike 2.2 in 2028)
+bud_fpb_feb_cpi_2028,gg_belgium,2028,2.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb CPI 2.2pct 2028 temporary ETS2
+bud_fpb_feb_cpi_2031,gg_belgium,2031,1.7,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb CPI 1.7pct 2031
+bud_fpb_feb_health_idx_2026,gg_belgium,2026,2.1,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb health index 2.1pct 2026 (from 2.6 2025)
+bud_fpb_feb_deficit_pct_2024,gg_belgium,2024,-4.4,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG financing balance -4.4pct GDP 2024
+bud_fpb_feb_deficit_pct_2025,gg_belgium,2025,-5.3,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -5.3pct GDP 2025 provisional
+bud_fpb_feb_deficit_pct_2026,gg_belgium,2026,-4.9,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -4.9pct GDP 2026 (= DBP)
+bud_fpb_feb_deficit_pct_2027,gg_belgium,2027,-5.1,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -5.1pct GDP 2027
+bud_fpb_feb_deficit_pct_2028,gg_belgium,2028,-5.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -5.2pct GDP 2028
+bud_fpb_feb_deficit_pct_2029,gg_belgium,2029,-5.7,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -5.7pct GDP 2029
+bud_fpb_feb_deficit_pct_2030,gg_belgium,2030,-6.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -6.2pct GDP 2030
+bud_fpb_feb_deficit_pct_2031,gg_belgium,2031,-6.3,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG deficit -6.3pct GDP 2031
+bud_fpb_feb_debt_pct_2024,gg_belgium,2024,103.9,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 103.9pct GDP 2024
+bud_fpb_feb_debt_pct_2025,gg_belgium,2025,107.4,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 107.4pct GDP 2025
+bud_fpb_feb_debt_pct_2026,gg_belgium,2026,109.4,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 109.4pct GDP 2026
+bud_fpb_feb_debt_pct_2027,gg_belgium,2027,111.9,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 111.9pct GDP 2027
+bud_fpb_feb_debt_pct_2028,gg_belgium,2028,114.0,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 114.0pct GDP 2028
+bud_fpb_feb_debt_pct_2029,gg_belgium,2029,116.6,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 116.6pct GDP 2029
+bud_fpb_feb_debt_pct_2030,gg_belgium,2030,119.3,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 119.3pct GDP 2030
+bud_fpb_feb_debt_pct_2031,gg_belgium,2031,122.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb GG debt 122.2pct GDP 2031
+bud_fpb_feb_emp_rate_2025,gg_belgium,2025,72.8,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb employment rate EU2020 72.8pct 2025
+bud_fpb_feb_emp_rate_2026,gg_belgium,2026,72.9,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb employment rate 72.9pct 2026
+bud_fpb_feb_emp_rate_2031,gg_belgium,2031,75.2,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb employment rate 75.2pct 2031 (vs coalition 78 2029 goal)
+bud_fpb_feb_u_rate_2026,gg_belgium,2026,6.5,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb unemployment rate 6.5pct 2026
+bud_fpb_feb_u_rate_2031,gg_belgium,2031,5.6,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb unemployment rate 5.6pct 2031
+bud_fpb_feb_real_income_2026,gg_belgium,2026,0.4,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb real household disposable income +0.4pct 2026
+bud_fpb_feb_real_income_avg_27_31,gg_belgium,2029,1.2,,,projection,src_fpb_outlook_feb2026,medium,FPB Feb real disposable income avg +1.2pct/yr 2027-2031
+bud_fpb_feb_jobs_private_2026_31,gg_belgium,2031,273000,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb private employment (salaried+self) +273000 over 2026-2031
+bud_fpb_feb_jobs_public_2026_31,gg_belgium,2031,3000,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb public employment +3000 over 2026-2031 (almost flat after 2026)
+bud_fpb_feb_jobs_total_2026_31,gg_belgium,2031,276000,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb total interior employment +276000 over projection period
+bud_fpb_feb_unemp_admin_delta,gg_belgium,2031,-53000,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb admin unemployment stock -53000 over 2026-2031
+bud_fpb_feb_onem_benef_delta,rva,2031,-138000,,,projection,src_fpb_outlook_feb2026,strong,FPB Feb ONEM benefit recipients -138000 (partially offset by RIS + non-benefit jobseekers)
+bud_fpb_jun_gdp_2026,gg_belgium,2026,0.7,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun2026 GDP growth 0.7pct 2026 (ME energy shock; vs 1.1 Feb)
+bud_fpb_jun_gdp_2027,gg_belgium,2027,1.0,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GDP 1.0pct 2027
+bud_fpb_jun_gdp_2028,gg_belgium,2028,1.2,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GDP 1.2pct 2028
+bud_fpb_jun_gdp_2029,gg_belgium,2029,1.4,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GDP 1.4pct 2029
+bud_fpb_jun_gdp_2030,gg_belgium,2030,1.3,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GDP 1.3pct 2030
+bud_fpb_jun_gdp_2031,gg_belgium,2031,1.2,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GDP 1.2pct 2031
+bud_fpb_jun_cpi_2026,gg_belgium,2026,3.4,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun CPI 3.4pct 2026 (energy spike; vs 1.9 Feb)
+bud_fpb_jun_cpi_2027,gg_belgium,2027,2.9,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun CPI 2.9pct 2027
+bud_fpb_jun_cpi_2028,gg_belgium,2028,2.3,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun CPI 2.3pct 2028
+bud_fpb_jun_cpi_2031,gg_belgium,2031,1.7,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun CPI 1.7pct 2031
+bud_fpb_jun_health_idx_2026,gg_belgium,2026,3.2,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun health index 3.2pct 2026
+bud_fpb_jun_real_income_2026,gg_belgium,2026,-0.7,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun real disposable income -0.7pct 2026
+bud_fpb_jun_real_income_avg_27_31,gg_belgium,2029,1.3,,,projection,src_fpb_outlook_jun2026,medium,FPB Jun real income avg +1.3pct/yr from 2027
+bud_fpb_jun_deficit_pct_2025,gg_belgium,2025,-5.1,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit -5.1pct GDP 2025 (vs -5.3 Feb)
+bud_fpb_jun_deficit_pct_2026,gg_belgium,2026,-5.1,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit stabilises -5.1pct 2026 (vs -4.9 Feb / DBP)
+bud_fpb_jun_deficit_pct_2027,gg_belgium,2027,-5.2,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit -5.2pct 2027
+bud_fpb_jun_deficit_pct_2028,gg_belgium,2028,-5.4,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit -5.4pct 2028
+bud_fpb_jun_deficit_pct_2029,gg_belgium,2029,-6.0,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit -6.0pct 2029 (vs -5.7 Feb)
+bud_fpb_jun_deficit_pct_2030,gg_belgium,2030,-6.2,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit -6.2pct 2030
+bud_fpb_jun_deficit_pct_2031,gg_belgium,2031,-6.4,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG deficit -6.4pct GDP 2031 (vs -6.3 Feb)
+bud_fpb_jun_debt_pct_2025,gg_belgium,2025,107.9,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 107.9pct GDP 2025
+bud_fpb_jun_debt_pct_2026,gg_belgium,2026,109.9,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 109.9pct GDP 2026
+bud_fpb_jun_debt_pct_2027,gg_belgium,2027,111.8,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 111.8pct 2027
+bud_fpb_jun_debt_pct_2028,gg_belgium,2028,114.0,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 114.0pct 2028
+bud_fpb_jun_debt_pct_2029,gg_belgium,2029,116.5,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 116.5pct 2029
+bud_fpb_jun_debt_pct_2030,gg_belgium,2030,119.2,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 119.2pct 2030
+bud_fpb_jun_debt_pct_2031,gg_belgium,2031,122.3,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun GG debt 122.3pct GDP 2031; snowball risk
+bud_fpb_jun_interest_pct_2031,gg_interest,2031,3.5,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun interest charges 3.5pct GDP 2031
+bud_fpb_jun_jobs_2026,gg_belgium,2026,20000,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun employment +20000 in 2026 (mostly self-employed)
+bud_fpb_jun_jobs_2027_31,gg_belgium,2031,230000,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun employment +~230000 over 2027-2031
+bud_fpb_jun_emp_rate_2031,gg_belgium,2031,74.8,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun employment rate 74.8pct 2031 (vs 75.2 Feb)
+bud_fpb_jun_unemp_admin_delta,gg_belgium,2031,-34000,,,projection,src_fpb_outlook_jun2026,strong,FPB Jun admin unemployment -~34000 over 2026-2031 (vs -53000 Feb)
+bud_fpb_jun_eurozone_gdp_2026,gg_belgium,2026,0.9,,,projection,src_fpb_outlook_jun2026,medium,Eurozone GDP growth 0.9pct 2026 (FPB Jun international context)

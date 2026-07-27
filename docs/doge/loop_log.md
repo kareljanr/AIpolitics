@@ -4603,3 +4603,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~40; cmt +3; lb +8; FOI **gap_entity1_pluriannuel_workbook** + **gap_regions_eu_500m_agreement** ready; rq_392=done; spawn **rq_393**; ticks=401
 - FOI: pluriannuel workbook + regions EU 500m agreement human send only
 - Next: prio5 **rq_393**; deferred **rq_116** SWA
+
+### 2026-08-01T15:45:00Z - tick 402
+- Unit: **rq_393** (FOI-adjacent hole-fill - **FPB dual outlooks Feb+Jun 2026 deficit/debt/employment**)
+- Found (strong primary FPB press tables):
+  - **Feb2026:** GDP **1.1** 2026; deficit **-4.9 → -6.3** 2026-31; debt **107.4 → 122.2**; emp rate **72.8→75.2**; jobs **+276k**; ONEM benef **-138k**; admin U **-53k**; CPI **1.9** (ETS2 2.2 in 2028)
+  - **Jun2026 (ME shock):** GDP **0.7** 2026; CPI **3.4**; deficit stabilise **-5.1** then **-6.4** 2031; debt **107.9→122.3**; interest **3.5pct GDP** 2031; jobs **+20k** 2026 / **+230k** 2027-31; emp rate **74.8** 2031; admin U **-34k**; real income **-0.7** 2026
+  - Dual vs DBP/CoA: Jun **worsens** 2026 deficit by **0.2pp** vs Feb/DBP -4.9; employment goal 78 still far
+- Wrote: sources +2; budgets ~70; cmt +3; lb +8; FOI **gap_fpb_entity1_split_jun2026** ready; rq_393=done; spawn **rq_394**; ticks=402
+- FOI: Entity I/II split from full FPB Jun report human send only
+- Next: prio5 **rq_394**; deferred **rq_116** SWA
