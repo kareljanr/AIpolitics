@@ -2,7 +2,7 @@
 
 Status: **ready** (human send only)  
 Internal ref: `gap_fwb_mdj_personnel_total`  
-Tick: 245
+Tick: 245 + partial fill tick 318
 
 ### Public (strong)
 
@@ -11,12 +11,16 @@ Tick: 245
 | Federal LSF art. 47/10 Dotation Maisons de justice FWB 2026 INI | **€55.7m** | ExpGen BI2026 |
 | Same 2025 AJU / INI | €54.7m / €54.5m | same |
 | DO18 Maisons de Justice liq 2026 | €30.124m | Budget DO18 |
-| DO11 traitements FP total 2026 | €437.6m | ExpGen |
-| New 2026 remun: AGMJ+AGAJ | €5.4m (combined) | ExpGen |
-| New 2026 remun: MDJ carceral reform | €3.4m | ExpGen |
-| Brussels MDJ 12 ETP retained | (no stock €) | ExpGen |
+| DO11 traitements FP total 2026 | **€437.6m** | ExpGen 2026 |
+| New 2026 remun: AGMJ+AGAJ | **€5.4m** (combined) | ExpGen |
+| New 2026 remun: MDJ carceral reform | **€3.4m** | ExpGen |
+| **AGMJ ETP** | **801** (30/06/2025) | ExpGen 2026 Partie III |
+| AGAJ ETP / admin total | 2,018 / 6,427 | same |
+| Partner non-indexation cut | **−€449k** | ExpGen MDJ section |
+| Formation cuts | **−€321k** class | ExpGen |
 
-**Missing:** stock wage bill + FTE for AGMJ / Maisons de Justice only.
+**Filled tick318:** ETP stock AGMJ 801.  
+**Still missing:** AGMJ-only **wage cash** series (stock) inside DO11 437.6m; dual unit-cost vs VL AJH lonen €164.9m.
 
 ---
 

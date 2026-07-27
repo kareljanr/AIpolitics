@@ -3489,3 +3489,16 @@ Append-only. Each tick adds a short entry.
 - FOI: NMBS official payroll EUR charge series still ready human send
 - Next: prio5 **rq_309**; **progress@320 in 3 ticks**; deferred **rq_116** SWA
 
+
+### 2026-07-30T21:45:00Z - tick 318
+- Unit: **rq_309** (FOI-adjacent hole-fill - **AGMJ ETP + FWB DO11 traitements Expose 2026**)
+- Found (strong primary Expose general depenses FWB 2026):
+  - **AGMJ 801 ETP** 30/06/2025 (102+535+149+15); AGAJ **2,018**; admin total **6,427**.
+  - **DO11 AB 11.03+11.04 traitements 437.6m** BI2026 (+10.9m vs init2025) ministry-wide.
+  - New: AGMJ+AGAJ **5.4m** + MDJ carceral **3.4m**; partner non-index **−449k**; formation cuts **−321k** class.
+  - ETNIC moyens BI2026 **123m** (119.4→123; perimeter may differ CoA full recettes).
+  - Residual: AGMJ-only wage cash stock still FOI (not invent pro-rata of 437.6m).
+- Wrote: sources +1; entities agmj + notes; budgets +9; cmt +1; lb +3; FOI draft+queue update; raw PDF; rq_309=done; spawn rq_310 progress@320 + rq_311; ticks=318
+- FOI: AGMJ wage cash residual ready human send
+- Next: prio5 **rq_311** hole-fill; **rq_310 progress@320** in 2 ticks; deferred **rq_116** SWA
+
