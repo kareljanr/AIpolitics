@@ -3916,3 +3916,15 @@ bud_rail_fac_net_2024,rail_facilities,2024,149041,,,outturn,src_rail_facilities_
 bud_rail_fac_net_2025,rail_facilities,2025,111719,,,outturn,src_rail_facilities_companyweb_nbb,strong,Net result 111719 EUR 2025
 bud_rail_fac_equity_2025,rail_facilities,2025,11008963,,,outturn,src_rail_facilities_companyweb_nbb,strong,Equity 11008963 EUR YE2025
 bud_rail_fac_fte_2025,rail_facilities,2025,0,,,outturn,src_rail_facilities_companyweb_nbb,strong,Statutory FTE 0 2025 (legal employment via HR Rail dual; same pattern as NMBS)
+bud_egov_omzet_2021,egov_select,2021,73022796,,,outturn,src_egov_select_companyweb_nbb,strong,Egov Select omzet 73022796 EUR 2021 NBB-derived
+bud_egov_omzet_2022,egov_select,2022,71435229,,,outturn,src_egov_select_companyweb_nbb,strong,Egov Select omzet 71435229 EUR 2022
+bud_egov_omzet_2023,egov_select,2023,92016018,,,outturn,src_egov_select_companyweb_nbb,strong,Egov Select omzet 92016018 EUR 2023 (+28.8pct)
+bud_egov_omzet_2024,egov_select,2024,111943142,,,outturn,src_egov_select_companyweb_nbb,strong,Egov Select omzet 111943142 EUR 2024 (+21.7pct)
+bud_egov_net_2023,egov_select,2023,2813217,,,outturn,src_egov_select_companyweb_nbb,strong,Net result 2813217 EUR 2023
+bud_egov_net_2024,egov_select,2024,1275859,,,outturn,src_egov_select_companyweb_nbb,strong,Net result 1275859 EUR 2024
+bud_egov_equity_2024,egov_select,2024,8368095,,,outturn,src_egov_select_companyweb_nbb,strong,Equity 8368095 EUR YE2024
+bud_egov_fte_2021,egov_select,2021,545,,,outturn,src_egov_select_companyweb_nbb,strong,FTE 544.6 2021
+bud_egov_fte_2022,egov_select,2022,661,,,outturn,src_egov_select_companyweb_nbb,strong,FTE 660.8 2022
+bud_egov_fte_2023,egov_select,2023,772,,,outturn,src_egov_select_companyweb_nbb,strong,FTE 772.4 2023
+bud_egov_fte_2024,egov_select,2024,908,,,outturn,src_egov_select_companyweb_nbb,strong,FTE 907.7 2024 (rapid growth dual Smals headcount path)
+bud_egov_unit_omzet_fte_2024,egov_select,2024,123300,,,estimate,src_egov_select_companyweb_nbb,medium,Implied omzet/FTE ~123k 2024 (111.9m/907.7); recharge/billing class not pure wage

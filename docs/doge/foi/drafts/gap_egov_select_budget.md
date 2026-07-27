@@ -1,19 +1,24 @@
 # FOI draft — gap_egov_select_budget
 
-**Status:** ready (not sent)  
+**Status:** ready (not sent) — **partial public fill tick 321**  
 **Gap ID:** `gap_egov_select_budget`  
-**Linked:** `cmt_egov_select_model`  
-**Tick:** 311  
+**Linked:** `cmt_egov_select_omzet_2021_24` / `lb_egov_select_omzet_112m`  
+**Tick:** 311 + 321  
 
-Public fill (Rekenhof consultancy audit Oct 2025 ch.5):
+### Public fill
 
-| Item | Value | Confidence |
-|------|-------|------------|
-| Role | Recruit/select/detach IT to FODs, police, defence, scientific/cultural federal bodies | strong |
-| Pay scale | Private-sector comparable (same CAO family as Smals) | strong |
-| Dual Smals | Smals = mainly SS + frameworks/broker; Egov = federal non-SS detachments | strong |
-| Absolute EUR / FTE | **Unknown** | — |
-| Smals external IT billed 2024 | **>€206m** (dual channel) | strong |
+| Item | Value | Confidence | Source |
+|------|-------|------------|--------|
+| Role | Recruit/select/detach IT to FODs, police, defence, scientific/cultural federal bodies | strong | CoA + site |
+| Pay scale | Private-sector comparable (same CAO family as Smals) | strong | CoA |
+| Dual Smals | Smals = mainly SS + frameworks/broker; Egov = federal non-SS detachments | strong | CoA |
+| **Omzet** | **€73.0 → 71.4 → 92.0 → 111.9m** 2021–24 | **strong** | Companyweb/NBB |
+| **FTE** | **544.6 → 660.8 → 772.4 → 907.7** | **strong** | same |
+| Net / equity 2024 | **€1.28m / €8.37m** | strong | same |
+| Smals dual omzet | **€579m** 2025 class | strong | prior DOGE |
+| Smals external IT 2024 | **>€206m** | strong | CoA |
+
+**Residual FOI:** top-15 client FODs by EUR; wage bill recon; 2025–26 path.
 
 ---
 

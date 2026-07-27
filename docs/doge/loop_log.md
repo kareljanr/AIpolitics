@@ -3527,3 +3527,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_310=done; ticks=320
 - Next: prio5 **rq_312**; deferred **rq_116** SWA; human FOI send stack ~138 ready
 
+
+### 2026-07-30T23:15:00Z - tick 321
+- Unit: **rq_312** (FOI-adjacent hole-fill - **Egov Select dual Smals institutional EUR**)
+- Found (strong NBB/Companyweb KBO 0475.479.251):
+  - Omzet **73.0 / 71.4 / 92.0 / 111.9m** 2021-24 (+22pct 2024).
+  - FTE **544.6 / 660.8 / 772.4 / 907.7** (rapid +67pct 2021-24).
+  - Net **1.28m** 2024; equity **8.37m**.
+  - Dual: Smals **~579m** SS-focused vs Egov federal detachments **112m**; not additive.
+  - Closes institutional EUR residual of gap_egov_select_budget; L5 client FODs still FOI.
+- Wrote: sources +1; entity egov_select update; budgets +12; cmt +1; lb +3; FOI gap update+draft; rq_312=done; spawn rq_313; ticks=321
+- FOI: top FOD recharges residual ready human send
+- Next: prio5 **rq_313**; deferred **rq_116** SWA
+
