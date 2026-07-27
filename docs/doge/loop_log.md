@@ -3936,3 +3936,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +3; cmt +1; lb +2; FOI gap_oe_awap_dual_l5 refresh (total filled, L5 residual); rq_342=done; spawn rq_343; ticks=351
 - FOI: OE+AWaP named awards L5 still ready human send
 - Next: prio5 **rq_343**; deferred **rq_116** SWA
+
+### 2026-07-31T14:45:00Z - tick 352
+- Unit: **rq_343** (FOI-adjacent hole-fill — **dual regional agriculture VL Landbouw + WAL Aides/OPW**)
+- Found (strong primary):
+  - Flanders BBT Landbouw BO2026 (pfile 2227524): **VAK €157.880m** · **VEK €140.849m** excl. apparaatrek/prog B; TJ VEK **€135.190m**; TK promotie **€5.659m**.
+  - Wallonie Budget 2026 DO15 prog **15.058** Aides: CE **€93.325m** · CL **€93.225m**; OPW Missions **€45.049m** + Fonct **€16.747m** + capital **€20.017m** = package **€81.813m** (nested); calamités agricoles **€9.300m**.
+  - Dual class regional agri policy **~€234m** (VL VEK + WAL aides) — **excludes bulk EU CAP** direct payments via paying agencies.
+  - DO15 total CL **€570.184m** (ARNE combined agri+nature+env; not pure agri).
+- Wrote: entities +2 (landbouw_vl, opw_wallonie); sources +2; budgets +15; cmt +1; lb +3; FOI **gap_agri_dual_l5_cap** ready + draft; rq_343=done; spawn **rq_344**; ticks=352
+- FOI: CAP cash dual + top schemes L5 human send only
+- Next: prio5 **rq_344**; deferred **rq_116** SWA

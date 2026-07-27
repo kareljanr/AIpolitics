@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T14:15:00Z,rq_342,351,no,Scheduler 60s. Next prio5 rq_343; rq_116 SWA deferred. FOI ready. tick351 AWaP 46.2m dual OE.
+main,continuous,hole_fill,2026-07-31T14:45:00Z,rq_343,352,no,Scheduler 60s. Next prio5 rq_344; rq_116 SWA deferred. FOI ready. tick352 agri dual VL/WAL.
