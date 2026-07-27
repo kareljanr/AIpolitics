@@ -1983,3 +1983,23 @@ bud_bsca_jobs_indirect_class,bsca,2024,4650,,,outturn,src_bsca_ar2024_en,medium,
 bud_bsca_sowaer_share_pct,sowaer,2024,35.9,,,outturn,src_bsca_ar2024_en,strong,SOWAER Class A holding 35.9pct of BSCA shares
 bud_bsca_belgian_airport_share_pct,bsca,2024,48.32,,,outturn,src_bsca_ar2024_en,strong,Belgian Airport SA Class C 48.32pct private operator stake
 bud_airport_dual_rev_bac_bsca,gg_belgium,2024,906859889,,,outturn,src_bsca_ar2024_en,medium,Dual BAC 2025 828m + BSCA 2024 126.9m illustrative non-same-year sum not additive TE
+bud_credendo_assets_2024,credendo,2024,3920600000,,,outturn,src_credendo_mgmt_2024,strong,Total consol balance sheet 3.9206bn end-2024
+bud_credendo_assets_2023,credendo,2023,3695800000,,,outturn,src_credendo_mgmt_2024,strong,Total consol balance 3.6958bn end-2023
+bud_credendo_equity_ex_nci_2024,credendo,2024,3302100000,,,outturn,src_credendo_mgmt_2024,strong,Total equity excluding NCI 3.3021bn end-2024
+bud_credendo_equity_total_2024,credendo,2024,3272000000,,,outturn,src_credendo_equity_path,medium,Total equity 3.272bn end-2024 (knowledge hub; vs 3.302bn ex-NCI mgmt)
+bud_credendo_equity_total_2023,credendo,2023,3045200000,,,outturn,src_credendo_equity_path,medium,Total equity 3.0452bn end-2023 knowledge hub
+bud_credendo_fin_invest_2024,credendo,2024,3086100000,,,outturn,src_credendo_mgmt_2024,strong,Financial investment portfolio 3.0861bn end-2024
+bud_credendo_fin_invest_2023,credendo,2023,2900900000,,,outturn,src_credendo_mgmt_2024,strong,Financial investment portfolio 2.9009bn end-2023
+bud_credendo_cash_2024,credendo,2024,446100000,,,outturn,src_credendo_mgmt_2024,strong,Cash and cash equivalents 446.1m end-2024
+bud_credendo_cash_2023,credendo,2023,365000000,,,outturn,src_credendo_mgmt_2024,strong,Cash 365.0m end-2023
+bud_credendo_ins_liab_2024,credendo,2024,492100000,,,outturn,src_credendo_mgmt_2024,strong,Liabilities from insurance contracts 492.1m end-2024 (-53.1m)
+bud_credendo_gwp_group_2024,credendo,2024,481000000,,,outturn,src_credendo_mgmt_2024,strong,Group gross written premium after rebates record 481m (+6pct)
+bud_credendo_gwp_eca_2024,credendo,2024,291000000,,,outturn,src_credendo_mgmt_2024,strong,ECA entity GWP after rebates 291m (+13pct)
+bud_credendo_insured_trans_2024,credendo,2024,8900000000,,,outturn,src_credendo_mgmt_2024,strong,ECA insured transactions 8.9bn (+46pct)
+bud_credendo_ins_service_result_2024,credendo,2024,174100000,,,outturn,src_credendo_mgmt_2024,strong,Insurance service result 174.1m 2024 (74.0m 2023)
+bud_credendo_ins_service_result_2023,credendo,2023,74000000,,,outturn,src_credendo_mgmt_2024,strong,Insurance service result 74.0m 2023
+bud_credendo_net_ins_fin_result_2024,credendo,2024,324000000,,,outturn,src_credendo_mgmt_2024,strong,Net insurance and financial result 324.0m 2024
+bud_credendo_net_ins_fin_result_2023,credendo,2023,191700000,,,outturn,src_credendo_mgmt_2024,strong,Net insurance and financial result 191.7m 2023
+bud_credendo_comprehensive_income_2024,credendo,2024,257200000,,,outturn,src_credendo_mgmt_2024,strong,Total comprehensive income 257.2m profit 2024
+bud_credendo_comprehensive_income_2023,credendo,2023,135500000,,,outturn,src_credendo_mgmt_2024,strong,Total comprehensive income 135.5m profit 2023
+bud_credendo_cover_capacity,credendo,2024,33000000000,,,outturn,src_credendo_eca_about,medium,Cover capacity EUR 33bn class (portal AA S&P)

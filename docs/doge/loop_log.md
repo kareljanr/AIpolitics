@@ -1915,3 +1915,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entities 2; budgets 14; cmt 1; lb 2; FOI **gap_sowaer_accounts** ready; rq_182=done; seeded **rq_183**.
 - FOI: SOWAER full accounts human send only.
 - Next: prio5 **rq_183**; deferred **rq_116** SWA.
+
+### 2026-07-28T12:45:00Z - tick 188
+- Unit: **rq_183** (FOI-adjacent hole-fill - **Credendo ECA group consol 2024**)
+- Found (strong primary management report on 2024 consol FS):
+  - **Total assets EUR 3.9206bn** end-2024 (3.696bn 2023) · **equity ex-NCI 3.3021bn**.
+  - Financial investments **3.086bn** · cash **446.1m** · insurance liabilities **492.1m**.
+  - Group GWP after rebates **481m** (+6% record) · ECA GWP **291m** (+13%) · insured transactions **8.9bn** (+46%).
+  - Insurance service result **174.1m** (74.0m 2023) · net ins+fin result **324.0m** (191.7m).
+  - Total comprehensive income **257.2m** profit (135.5m 2023).
+  - Cover capacity **33bn** class medium (portal AA S&P) — contingent sovereign-linked risk.
+  - Official Belgian export credit agency state-backed; dual private short-term credit arms.
+- Port of Antwerp-Bruges authority P&L still residual.
+- Wrote: sources 3; entity 1; budgets 20; cmt 1; lb 2; FOI **gap_credendo_l5_claims** ready; rq_183=done; seeded **rq_184**.
+- FOI: L5 claims + state guarantee perimeter human send only.
+- Next: prio5 **rq_184**; deferred **rq_116** SWA.
