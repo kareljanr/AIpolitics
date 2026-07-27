@@ -5401,3 +5401,81 @@ bud_justice_patronale_impact_2026,fod_justice,2026,3300000,,,estimate,src_ccrek_
 bud_justice_patronale_impact_2029,fod_justice,2029,101000000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Justice employer SSC impact 101m by 2029 (~1859 FTE incl 622 judiciary)
 bud_defence_patronale_2026,mod_defensie,2026,3700000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Defence employer SSC on new statutaires 3.7m 2026 (path 297.3m 2034)
 bud_defence_patronale_2034,mod_defensie,2034,297300000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Defence employer SSC path 297.3m 2034 (not in LPM wage bill)
+bud_ss_consol_rec_2026,sec_ss,2026,148017200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS consolidated receipts initial 2026 148017.2m (+2686.2 / +1.8pct vs BA2025)
+bud_ss_consol_rec_2025,sec_ss,2025,145331000000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS consolidated receipts BA2025 145331.0m
+bud_ss_consol_rec_2024,sec_ss,2024,139794800000,,,outturn,src_ccrek_budget2026_ss_part3,strong,SS consolidated receipts realized 2024 139794.8m
+bud_ss_cotis_2026,sec_ss,2026,85525300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS cotisations 85525.3m 2026 (57.8pct of rec; +2365.7)
+bud_ss_subventions_pp_2026,sec_ss,2026,27678700000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS subventions pouvoirs publics 27678.7m 2026 (-622.9)
+bud_ss_altfin_2026,sec_ss,2026,27221600000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS financement alternatif 27221.6m 2026 (+1002.5)
+bud_ss_autres_rec_2026,sec_ss,2026,7591600000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS autres recettes 7591.6m 2026
+bud_ss_consol_dep_2026,sec_ss,2026,147858500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS consolidated expenditure initial 2026 147858.5m (+1101.3 / +0.8pct)
+bud_ss_consol_dep_2025,sec_ss,2025,146757200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS consolidated expenditure BA2025 146757.2m
+bud_ss_prestations_2026,sec_ss,2026,135492300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS prestations sociales 135492.3m 2026 (+2612.9)
+bud_ss_gg_sal_prest_2026,rsz,2026,63342000000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,GG salaries prestations 63342.0m 2026 (pens 43270.7 MI 14879.4 chom 4637.9 autres 554)
+bud_ss_gg_sal_pens_2026,rsz,2026,43270700000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,GG salaries pensions 43270.7m 2026 (+1471.7)
+bud_ss_gg_sal_mi_2026,rsz,2026,14879400000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,GG salaries maladie-invalidite 14879.4m 2026 (+672.5)
+bud_ss_gg_sal_chom_2026,rva,2026,4637900000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONEM GG chomage prestations 4637.9m 2026 (-1820.8 / -28.2pct vs 6458.7 updated 2025)
+bud_ss_gg_indep_prest_2026,rsvz,2026,7012100000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,GG independants prestations 7012.1m 2026 (pens 5919.9 MI 1070 autres 22.2)
+bud_ss_gg_indep_pens_2026,rsvz,2026,5919900000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,GG indep pensions 5919.9m 2026
+bud_ss_sante_obj_2026,riziv,2026,41297200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,INAMI objectif budgetaire sante 41297.2m 2026 (+1485.1 / +3.73pct; growth norm 2pct +756.2 index +808.5)
+bud_ss_sante_authorized_2026,riziv,2026,40961100000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,INAMI depenses autorisees 40961.1m 2026 (obj minus non-affectable 336m; 496.4m below estimated spend)
+bud_ss_pens_pub_2026,fpd,2026,22827500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Pensions publiques 22827.5m 2026 (+674.4)
+bud_ss_gestion_frais_2026,sec_ss,2026,2996300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS frais de gestion et paiement 2996.3m 2026
+bud_ss_autres_dep_2026,sec_ss,2026,9369900000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,SS autres depenses 9369.9m 2026 (-1597.9)
+bud_onss_cotis_2026,rsz,2026,69591500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS cotisations sociales 69591.5m 2026 (+1697.6 / +2.5pct; 99.9pct of employee-regime cotis)
+bud_onss_red_recettes_2026,rsz,2026,4290300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS reductions de recettes federal policy-unchanged 4290.3m 2026 (+361.8 / +9.2pct)
+bud_onss_red_structurelles_2026,rsz,2026,2427300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Reductions structurelles patronales 2427.3m 2026 (+259.2)
+bud_onss_bonus_emploi_2026,rsz,2026,1822300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Bonus a l emploi personal SSC reduction 1822.3m 2026 (+109.2)
+bud_onss_red_ciblees_dep_2026,rsz,2026,879500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Reductions ciblees booked as social expenditure 879.5m 2026 (first hires class; -24.8)
+bud_onss_red_total_pack_2026,rsz,2026,5169800000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Total federal SSC reduction package rec+dep 5169.8m 2026 (+336.9)
+bud_onss_red_structurelles_priv_pub_2026,rsz,2026,4165200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Reductions recettes private+public sectors 4165.2m 2026
+bud_onss_red_structurelles_local_2026,rsz,2026,125100000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Reductions recettes pouvoirs locaux 125.1m 2026
+bud_onss_measures_net_2026,rsz,2026,51600000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Net CM 2026 measures on ONSS cotis +51.6m (OT -43; maladie-pension cotis +51; horeca/RTT cut +28; sports plafond +10; OA/INAMI +5.6)
+bud_onss_heures_sup_cost_2026,rsz,2026,43000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Voluntary overtime SSC cost 43m/yr from 2026 (ONSS 43.9; CoA overstated full-year vs Apr1 start)
+bud_onss_horeca_rtt_save_2026,rsz,2026,28000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,End RTT+Horeca target reductions +28m 2026 (ONSS full-year 32; CoA 3Q ~24)
+bud_onss_sports_plafond_2026,rsz,2026,10000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Exclude pro athletes from employer SSC ceiling +10m 2026
+bud_onss_it_boost_2026,rsz,2026,27500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS IT modernisation extra 27.5m 2026 (+2.8m inspection 34 FTE = package 30.3)
+bud_onss_inspection_fte_2026,rsz,2026,2800000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS social inspection reinforce 2.8m / 34 FTE 2026
+bud_tour_midi_total,rsz,2026,177700000,,,commitment,src_ccrek_budget2026_ss_part3,strong,Tour du Midi renovation total 177.7m of which ONSS GG 168.8 + FPD 0.6 + Fedris optional 8.3
+bud_tour_midi_onss,rsz,2026,168800000,,,commitment,src_ccrek_budget2026_ss_part3,strong,Tour du Midi ONSS-GG share 168.8m 2027-2031 from financial asset sales
+bud_tour_midi_sec_2026,rsz,2026,6000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Tour du Midi SEC financing balance hit 6m 2026 (works 2.5; CoA path mismatch)
+bud_onss_dots_pp_2026,rsz,2026,8851100000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS GG public dots/subs 8851.1m 2026 (-1116.6): equilibre 5653.5 globale 2665.6 spec 207.3 federated 324.8
+bud_onss_dot_equilibre_2026,rsz,2026,5653500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS dotation equilibre 5653.5m 2026 (-1097.6)
+bud_onss_subv_globale_2026,rsz,2026,2665600000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS subvention globale Etat 2665.6m 2026 (+33)
+bud_onss_subv_spec_2026,rsz,2026,207300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS subvention specifique Etat 207.3m 2026
+bud_onss_subv_federated_2026,rsz,2026,324800000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,ONSS subventions entites federees 324.8m 2026 (-55)
+bud_altfin_onss_2026,rsz,2026,23392200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Altfin ONSS GG 23392.2m 2026 (TVA base 9343.8 sante 7645.2 PM 6403.2)
+bud_altfin_inasti_2026,rsvz,2026,3829400000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Altfin INASTI GG 3829.4m 2026 (TVA base 1876.5 sante 714.1 PM 1238.8)
+bud_altfin_tva_sante_2026,sec_ss,2026,8359300000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Altfin TVA earmarked health 8359.3m 2026 (ONSS 7645.2 + Inasti 714.1)
+bud_altfin_tva_total_proxy_2026,sec_ss,2026,19579600000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Altfin from TVA receipts 19579.6m 2026 (shortfall covered by tobacco 2.8bn + PP 0.9bn per law 2017)
+bud_altfin_pm_total_2026,sec_ss,2026,7642000000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Altfin from precompte mobilier 7642m 2026
+bud_plans_plus_reform_2026,rsz,2026,53000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Plans-plus reform budgeted yield 53m 2026 (ONSS reest 64.2; understated in expose)
+bud_plans_plus_reform_2027,rsz,2027,67000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Plans-plus reform budgeted 67m 2027 (ONSS 85.1)
+bud_special_ssc_cut_path,rsz,2028,415000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Special SSC reduction -415m advanced to 2028 (was 2029); 2025 special SSC mass 1430.1m
+bud_bonus_emploi_boost_2028,rsz,2028,357500000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Bonus emploi reinforce -357.5m 2028 (fiscal 210.5 + social 147; advanced from 2029)
+bud_structural_lowwage_2026,rsz,2026,584000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Structural low/mid wage employer SSC cut path 584m 2026 (was 563 +21 reallocated)
+bud_pens_reform_save_2027,fpd,2027,807000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Pension reform estimated savings 807m 2027 (cabinet; legislation risk)
+bud_pens_reform_save_2028,fpd,2028,1304000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Pension reform estimated savings 1304m 2028
+bud_pens_reform_save_2029,fpd,2029,1787000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Pension reform estimated savings 1787m 2029
+bud_pens_reform_save_2030,fpd,2030,2229000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Pension reform estimated savings 2229m 2030
+bud_pens_reform_delay_2026,fpd,2026,64000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Pension reform 2026 yield cut 64m (laws not yet at Kamer; sal33 indep5 pub26)
+bud_inami_savings_pack_2026,riziv,2026,764500000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,INAMI savings package 764.5m 2026 (drugs 401.9 doctors 213.2 hospitals 50 other 73.8 reserved 25.6)
+bud_inami_save_drugs_2026,riziv,2026,401900000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,INAMI pharma savings 401.9m 2026 (17.3pct cap; residual 148.9m measures still to design)
+bud_inami_save_doctors_2026,riziv,2026,213200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,INAMI physician fees savings 213.2m 2026 (lab 70.8 imaging 68.5 surgery 63.7; 41.5m delay risk)
+bud_inami_save_hospitals_2026,riziv,2026,50000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,INAMI hospital savings 50m 2026 (day hospital 47.1 linear advance cut = cash shift not true 2026 cut)
+bud_inami_ticket_mod_2026,riziv,2026,62500000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Higher physician co-pay ticket moderateur 62.5m 2026 of 125 annual from Jul1 (funds new initiatives)
+bud_rtw_save_2026,riziv,2026,202900000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Return-to-work plan indemnity savings 202.9m 2026 (path 1928.7 by 2029; most measures not yet law)
+bud_rtw_save_2027,riziv,2027,643800000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,RTW plan savings 643.8m 2027
+bud_rtw_save_2028,riziv,2028,1198300000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,RTW plan savings 1198.3m 2028
+bud_rtw_save_2029,riziv,2029,1928700000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,RTW plan savings 1928.7m 2029
+bud_rtw_recontrol_2026,riziv,2026,38700000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Mutuality/INAMI recontrols net 38.7m 2026 (path 1065.6 by 2029; sample-based; CoA overstate risk)
+bud_rtw_recontrol_2029,riziv,2029,1065600000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Recontrols net savings+receipts 1065.6m 2029 (43k exclusions cumulative)
+bud_rtw_annual_ext_2026,riziv,2026,126900000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Annual incapacity extension obligation save 126.9m 2026 (path 868.8 / 47k exits by 2029)
+bud_rtw_annual_ext_2029,riziv,2029,868800000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Annual extension save 868.8m 2029
+bud_rtw_solidarity_2027,riziv,2027,72000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Employer solidarity cotis months 2-5 sickness 72m 2027 (path 75/77; CoA partial-year risk)
+bud_rtw_work_bonus_cost_2026,riziv,2026,28000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Work resumption prime cost 28m 2026 (prime to 3000 EUR; 5x uptake assumption)
+bud_maladie_pens_inami_cost_2026,riziv,2026,16500000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Public-sector maladie-pension extinction INAMI cost 16.5m 2026 (path 124.3 2029; dual FPD save 26m 9mo)
+bud_maladie_pens_respons_2026,riziv,2026,51000000,,,budgeted,src_ccrek_budget2026_ss_part3,medium,Entity responsabilisation cotis on long-term sick officials 51m 2026 (INAMI calc 47.2; dual FPD)
+bud_chom_volume_delta_2026,rva,2026,-364600000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Chomage volume effect excl time-limit -364.6m 2026 vs updated 2025
+bud_chom_measures_delta_2026,rva,2026,-1675700000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Chomage measures net -1675.7m 2026 of which time-limit+degressivity -1685.2
+bud_chom_timelimit_save_2026,rva,2026,1685200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Unemployment time-limit + stronger degressivity save 1685.2m 2026 (main driver -28pct path)

@@ -4516,3 +4516,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +57; cmt +4; lb +8; entities +2; FOI **gap_ets_blocked_kyoto_l5** + **gap_bpost_overcomp_claim_89m** ready; rq_386=done; spawn **rq_387**; ticks=395
 - FOI: ETS 1.8bn unlock + ranking human send; bpost claim legal report human send only
 - Next: prio5 **rq_387**; deferred **rq_116** SWA
+
+### 2026-08-01T12:45:00Z - tick 396
+- Unit: **rq_387** (FOI-adjacent hole-fill - **SS Part III CoA 2026: consol 148bn + ONSS red 5.17bn + Tour Midi + pens/INAMI/RTW/chom**)
+- Found (strong primary CoA Budget 2026 Part III):
+  - SS consol **rec 148,017.2m** / **dep 147,858.5m**; cotis **85,525** · subv PP **27,679** · altfin **27,222**
+  - Prest **135,492**; GG sal **63,342** (pens 43,271 MI 14,879 chom **4,638**); sante obj **41,297**; pens pub **22,828**
+  - ONSS cotis **69,592**; red recettes **4,290** (struct 2,427 + bonus emploi 1,822) + ciblees dep **880** = pack **5,170m**
+  - ONSS dots PP **8,851** (equilibre **5,654** -1.1bn); altfin ONSS **23,392** / INASTI **3,829**
+  - **Tour du Midi** total **177.7m** (ONSS **168.8** 2027-31; SEC -6m 2026)
+  - Pension reform save path **807/1304/1787/2229** 2027-30 (2026 delayed -64m)
+  - INAMI savings pack **764.5** (drugs 401.9 doctors 213.2 hosp 50); ticket mod **62.5** of 125
+  - RTW invalidite save **202.9 -> 1,928.7** by 2029 (recontrol 1,066; annual ext 869)
+  - Chomage time-limit **1,685.2m** save; prest -28.2pct to 4,638m
+- Wrote: sources +1; budgets +75; cmt +7; lb +8; FOI **gap_tour_midi_contracts_l5** + **gap_rtw_invalidite_method_l5** ready; rq_387=done; spawn **rq_388**; ticks=396
+- FOI: Tour Midi contracts + RTW method notes human send only
+- Next: prio5 **rq_388**; deferred **rq_116** SWA
