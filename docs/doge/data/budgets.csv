@@ -4371,3 +4371,13 @@ bud_wal_integration_2020,wallonie_gov,2020,22498145,,,outturn,src_ccrek_parcours
 bud_wal_integration_2019,wallonie_gov,2019,21063590,,,outturn,src_ccrek_parcours_integration_wal_2022,strong,CoA: 21.064m eng 2019
 bud_wal_ili_2025,wallonie_gov,2025,3600000,,,budgeted,src_wal_ili_2025_coppieters,strong,ILI 2025 call total >3.6m 140 operators (press floor; full parcours residual)
 bud_integration_dual_vl_wal_class_2026,agii,2026,120000000,,,budgeted,src_vl_bbt_inburgering_bo2026,medium,Illustrative dual: VL VEK 116.6m + WAL ILI 3.6m floor + historical CRI/ILI ~22m class 2020; not TE-additive; WAL 2026 full FOI
+bud_vl_syntra_package_2026_27,syntra_vl,2026,49700000,,,budgeted,src_vl_vr_syntra_2026_27,strong,VR package Syntrum+Syntra cursusjaar 2026-2027 49.7m (transitional reform year; calendar-year allocation residual FOI)
+bud_wal_ifapme_2026_detail,ifapme,2026,88299000,,,budgeted,src_wal_epje_ifapme_2026,strong,Prog 112 IFAPME total CE=CL 88.299m 2026 (replaces aggregate bud_wal_ifapme_2026 entity wallonie_gov)
+bud_wal_ifapme_2025,ifapme,2025,82253000,,,budgeted,src_wal_epje_ifapme_2026,strong,Prog 112 IFAPME 2025 CE 82.253m CL 82.252m
+bud_wal_ifapme_fonct_2026,ifapme,2026,39582000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.002 subventions fonctionnement 39.582m CE=CL (was 29.829m 2025; statutarisering + PRW RH)
+bud_wal_ifapme_form_ind_2026,ifapme,2026,40661000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.003 formation des independants 40.661m CE=CL (was 43.849m 2025)
+bud_wal_ifapme_contrat_2026,ifapme,2026,2684000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.004 contrat de gestion actions 2.684m
+bud_wal_ifapme_numerique_2026,ifapme,2026,1375000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.005 strategie numerique 1.375m
+bud_wal_ifapme_accrochage_2026,ifapme,2026,857000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.006 accrochage public 0.857m
+bud_wal_ifapme_invest_2026,ifapme,2026,3140000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.019 investissements centres formation 3.140m capital
+bud_vocational_dual_syntra_ifapme_2026,syntra_vl,2026,138000000,,,budgeted,src_vl_vr_syntra_2026_27,medium,Illustrative dual: VL Syntra 49.7m + WAL IFAPME 88.3m ~138m; not TE-additive; excludes FOREM/VDAB/18.109/18.25 croisees

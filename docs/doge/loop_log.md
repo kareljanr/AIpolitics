@@ -3995,3 +3995,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +2; budgets +20; cmt +1; lb +4; FOI **gap_integration_dual_vl_wal_l5** ready + draft; rq_347=done; spawn **rq_348**; ticks=356
 - FOI: AgII/Atlas L5 + WAL 2026 full CRI/ILI path human send only
 - Next: prio5 **rq_348**; deferred **rq_116** SWA
+
+### 2026-07-31T17:15:00Z - tick 357
+- Unit: **rq_348** (FOI-adjacent hole-fill - **dual vocational SME training SYNTRA Flanders + IFAPME Wallonia**)
+- Found (strong primary VR 17 Jul 2026 + EPJE DO18 prog 112):
+  - Flanders: Syntrum + Syntra package **EUR 49.7m** cursusjaar 2026-2027 (transitional reform year; per-centre L5 residual).
+  - Wallonia IFAPME prog 112 CE=CL **EUR 88.299m** 2026 (2025 **82.253m**):
+    - fonctionnement 112.002 **39.582m** (was 29.829; statutarisering + PRW RH)
+    - formation independants 112.003 **40.661m**
+    - contrat de gestion 112.004 **2.684m**
+    - strategie numerique 112.005 **1.375m**
+    - accrochage 112.006 **0.857m**
+    - investissements centres 112.019 **3.140m**
+  - Dual vocational class **~EUR 138m** (not TE-additive; excludes VDAB/FOREM/18.109/18.25 croisees).
+- Wrote: entities +2 (syntra_vl, ifapme); sources +2; budgets +10; cmt +1; lb +3; FOI **gap_vocational_dual_syntra_ifapme_l5** ready + draft; rq_348=done; spawn **rq_349**; ticks=357
+- FOI: Syntra per-centre L5 + IFAPME centre network grants human send only
+- Next: prio5 **rq_349**; deferred **rq_116** SWA
