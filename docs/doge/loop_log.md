@@ -1843,3 +1843,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources portals+2 PQ; budgets face-issued series; cmt 1; lb 2; rq_178=done; FOI note.
 - FOI: **gap_vl_odv_mvp_cash** ready (redeemed cash by appliance + air-air split) â€” human send only.
 - Next: prio5 **rq_177**; deferred **rq_116** SWA.
+
+### 2026-07-28T11:05:00Z - tick 183
+- Unit: **rq_177** (FOI-adjacent hole-fill - **Fluxys Belgium gas TSO AR2025**)
+- Found (strong primary regulated press 2026-03-31; dual electricity Elia):
+  - **Operating revenue EUR 650.453m 2025** (608.789m 2024) · **EBITDA 320.111m** · EBIT 133.916m · **net profit 74.897m** (82.061m 2024).
+  - **CAPEX 261.751m** (92.1m 2024): transmission **246.2m** (Knokke–Evergem **68.5m**) · storage 11.5m · LNG 4.1m.
+  - Assets **3.174bn** · PPE **1.862bn** · equity **592.8m** · **net fin debt 326.9m** (was 159.8m).
+  - Dividend proposed **1.40 EUR/share** · payout **98.4m** · statutory SA profit **85.5m** · staff **994** (+102).
+  - H2/CO2 construction start; Fluxys c-grid appointed CO2 operator FL+WAL (SFPIM partner).
+  - **Federal Nov2025 budget intent: withdraw 300m** from Fluxys regulatory-account positive balances (medium; Fluxys contests legality; not cash outturn).
+  - Dual map: **Elia electricity TSO** + **Fluxys gas TSO** + DSO stack (Fluvius/ORES/RESA/Sibelga).
+- Antwerp register / Mons BI2026: still no public bulk L5 (rechecked search negative).
+- Wrote: sources 2; entity 1; budgets 22; cmt 1; lb 2; rq_177=done; seeded **rq_179**.
+- FOI: Antwerp/Mons + ready stack human send; no new FOI (Fluxys figures public).
+- Next: prio5 **rq_179**; deferred **rq_116** SWA.

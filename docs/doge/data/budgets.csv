@@ -1889,3 +1889,25 @@ bud_vl_kortingsbon_face_unit,vlaanderen_gov,2025,250,,,budgeted,src_vl_mijn_kort
 bud_vl_mvp_airair_rate_low,vlaanderen_gov,2025,300,,,budgeted,src_vl_mvp_warmtepomp_airair,strong,MVP lucht-lucht low income-band rate 300 EUR (portal)
 bud_vl_mvp_airair_rate_high,vlaanderen_gov,2025,600,,,budgeted,src_vl_mvp_warmtepomp_airair,strong,MVP lucht-lucht higher band rate up to 600 EUR (portal)
 bud_vl_heat_premiums_2023_coa,vlaanderen_gov,2023,22000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,CoA heat pump/boiler premiums ~22m 2023 (all WP types; air-air share unknown FOI)
+bud_fluxys_revenue_2025,fluxys_belgium,2025,650453000,,,outturn,src_fluxys_ar2025_press,strong,Operating revenue consol 650.453m 2025
+bud_fluxys_revenue_2024,fluxys_belgium,2024,608789000,,,outturn,src_fluxys_ar2025_press,strong,Operating revenue consol 608.789m 2024
+bud_fluxys_ebitda_2025,fluxys_belgium,2025,320111000,,,outturn,src_fluxys_ar2025_press,strong,EBITDA 320.111m 2025
+bud_fluxys_ebitda_2024,fluxys_belgium,2024,302283000,,,outturn,src_fluxys_ar2025_press,strong,EBITDA 302.283m 2024
+bud_fluxys_ebit_2025,fluxys_belgium,2025,133916000,,,outturn,src_fluxys_ar2025_press,strong,EBIT 133.916m 2025
+bud_fluxys_ebit_2024,fluxys_belgium,2024,133931000,,,outturn,src_fluxys_ar2025_press,strong,EBIT 133.931m 2024
+bud_fluxys_profit_2025,fluxys_belgium,2025,74897000,,,outturn,src_fluxys_ar2025_press,strong,Consol net profit 74.897m 2025
+bud_fluxys_profit_2024,fluxys_belgium,2024,82061000,,,outturn,src_fluxys_ar2025_press,strong,Consol net profit 82.061m 2024
+bud_fluxys_capex_2025,fluxys_belgium,2025,261751000,,,outturn,src_fluxys_ar2025_press,strong,PPE investments 261.751m 2025 (LNG 4.1m storage 11.5m transmission 246.2m)
+bud_fluxys_capex_2024,fluxys_belgium,2024,92122000,,,outturn,src_fluxys_ar2025_press,strong,PPE investments 92.122m 2024
+bud_fluxys_ppe_2025,fluxys_belgium,2025,1862241000,,,outturn,src_fluxys_ar2025_press,strong,Total PPE 1.862bn end-2025
+bud_fluxys_equity_2025,fluxys_belgium,2025,592792000,,,outturn,src_fluxys_ar2025_press,strong,Equity 592.792m end-2025
+bud_fluxys_equity_2024,fluxys_belgium,2024,603813000,,,outturn,src_fluxys_ar2025_press,strong,Equity 603.813m end-2024
+bud_fluxys_nfd_2025,fluxys_belgium,2025,326904000,,,outturn,src_fluxys_ar2025_press,strong,Net financial debt 326.904m end-2025
+bud_fluxys_nfd_2024,fluxys_belgium,2024,159750000,,,outturn,src_fluxys_ar2025_press,strong,Net financial debt 159.750m end-2024
+bud_fluxys_assets_2025,fluxys_belgium,2025,3173685000,,,outturn,src_fluxys_ar2025_press,strong,Total consol balance sheet 3.174bn end-2025
+bud_fluxys_assets_2024,fluxys_belgium,2024,3310096000,,,outturn,src_fluxys_ar2025_press,strong,Total consol balance sheet 3.310bn end-2024
+bud_fluxys_dividend_payout_2025,fluxys_belgium,2025,98400000,,,budgeted,src_fluxys_ar2025_press,strong,Proposed dividend payout 98.4m (1.40 EUR/share) FY2025
+bud_fluxys_statutory_profit_2025,fluxys_belgium,2025,85500000,,,outturn,src_fluxys_ar2025_press,strong,Statutory BGAAP SA net profit 85.5m 2025
+bud_fluxys_staff_2025,fluxys_belgium,2025,994,,,outturn,src_fluxys_ar2025_press,strong,Active employees 994 end-2025 (+102 hires)
+bud_fluxys_capex_transmission_2025,fluxys_belgium,2025,246200000,,,outturn,src_fluxys_ar2025_press,strong,Transmission CAPEX 246.2m of which Knokke-Evergem 68.5m
+bud_fluxys_reg_buffer_claim_300m,sec_federal,2025,300000000,,,budgeted,src_fluxys_ar2025_press,medium,Federal Nov2025 budget agreement intent to withdraw 300m from Fluxys regulatory account positive balances; legality contested by Fluxys; not cash outturn

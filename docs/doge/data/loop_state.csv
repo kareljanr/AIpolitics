@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T10:45:00Z,rq_178,182,no,"Scheduler 60s. Next prio5 rq_177 Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick182 Mijn Kortingsbon face issued ~3.7m 2021; air-air MVP rates; cash L5 FOI."
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-28T11:05:00Z,rq_177,183,no,"Scheduler 60s. Next prio5 rq_179 Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick183 Fluxys rev 650.5m CAPEX 261.8m dual Elia; reg buffer 300m claim medium."
