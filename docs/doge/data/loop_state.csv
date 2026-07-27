@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T00:15:00Z,rq_144,152,no,"Scheduler 60s. Next prio6 Myria housing Brussels communes; FOI ready human send. rq_144 Charleroi BI2026 official+ASBL done."
+main,continuous,hole_fill,2026-07-28T00:30:00Z,rq_120,153,no,"Scheduler 60s. Next prio5 housing Brussels communes DGD; FOI ready human send. rq_120 Myria AB 1.6m 2026 done."

@@ -7,481 +7,481 @@ Append-only. Each tick adds a short entry.
 ## Template
 
 ```text
-### YYYY-MM-DDTHH:MM:SSZ — tick N
+### YYYY-MM-DDTHH:MM:SSZ â tick N
 - Unit: [task_id / gap_id]
-- Found: …
+- Found: â¦
 - Wrote: [files/rows]
 - FOI opened: [gap_id or none]
-- Next: …
+- Next: â¦
 ```
 
 ---
 
 ## Entries
 
-### 2026-07-19T00:00:00Z — bootstrap
+### 2026-07-19T00:00:00Z â bootstrap
 - Unit: scaffold
 - Found: strategy + schema + queues created
 - Wrote: docs/06b, docs/doge/*, data CSVs seeded
 - FOI opened: gap_example_001 (cancelled example only)
 - Next: rq_001 L0 general government total
 
-### 2026-07-19T12:00:00Z — tick 1
+### 2026-07-19T12:00:00Z â tick 1
 - Unit: rq_001 (L0 general government expenditure)
-- Found: NAI/NBB EDP press release 2026-04-20 Table 1 — 2025 total expenditure **€347,956 million** (54.2% of GDP); primary **€333,675 million** (52.0% GDP); GDP €642,015 million. 2024 total €335,100 million (54.1% GDP). Strong confidence, preliminary ESA estimate.
+- Found: NAI/NBB EDP press release 2026-04-20 Table 1 â 2025 total expenditure **â¬347,956 million** (54.2% of GDP); primary **â¬333,675 million** (52.0% GDP); GDP â¬642,015 million. 2024 total â¬335,100 million (54.1% GDP). Strong confidence, preliminary ESA estimate.
 - Wrote: budgets.csv (4 rows); sources.csv (+src_nbb_edp_2025_apr); research_queue rq_001=done; loop_state ticks=1
 - FOI opened: none (L0 fully sourced from public EDP tables)
-- Next: rq_002 L1 split by subsector (EDP PR has deficits by subsector, not full expenditure — need NBB.Stat/COFOG)
+- Next: rq_002 L1 split by subsector (EDP PR has deficits by subsector, not full expenditure â need NBB.Stat/COFOG)
 
-### 2026-07-19T12:30:00Z — tick 2
+### 2026-07-19T12:30:00Z â tick 2
 - Unit: rq_002 (L1 expenditure by ESA subsector)
-- Found: Eurostat `gov_10a_main` TE MIO_EUR BE (updated 2026-04-22, provisional). **2025 unconsolidated TE:** S.1311 central **€181,526.1m**; S.1312 state **€128,623.8m**; S.1313 local **€44,986.7m**; S.1314 SS **€141,680.4m**. Sum ≈ €496.8bn vs consolidated S.13 **€347.956bn** — gap ≈ intergovernmental transfers (double-count if summed). 2024: 171675 / 125077 / 44491 / 135689 m EUR.
+- Found: Eurostat `gov_10a_main` TE MIO_EUR BE (updated 2026-04-22, provisional). **2025 unconsolidated TE:** S.1311 central **â¬181,526.1m**; S.1312 state **â¬128,623.8m**; S.1313 local **â¬44,986.7m**; S.1314 SS **â¬141,680.4m**. Sum â â¬496.8bn vs consolidated S.13 **â¬347.956bn** â gap â intergovernmental transfers (double-count if summed). 2024: 171675 / 125077 / 44491 / 135689 m EUR.
 - Wrote: budgets.csv (+8 L1 rows); entities.csv (sec_s1312 + parent links); sources.csv (+src_eurostat_gov_10a_main_te); rq_002=done; ticks=2
 - FOI opened: none (public Eurostat)
 - Next: rq_003 top 15 spending entities (L2)
 
-### 2026-07-19T13:00:00Z — tick 3
+### 2026-07-19T13:00:00Z â tick 3
 - Unit: rq_003 (top 15 spending entities / holders)
-- Found (mixed metrics — do not sum): ESA sectors 181.5 / 141.7 / 128.6 / 45.0 bn (2025 TE); **Flanders BO2026 uitgaven €66.0 bn**; **RIZIV global €45.222 bn** / care auth. **€39.712 bn** (2025); **Wallonia initial 2025 €22.029 bn**; FWB ~**€15 bn** (medium); GG interest **€14.282 bn**; defence COFOG **€8.8 bn**. Ranks 12–15 Unknown (Brussels city/ministries).
-- Wrote: entity_rank_snapshot.csv; budgets.csv (+7); entities updates; sources (+5); rq_003=done; mode→sprint2_taxex; ticks=3
-- FOI opened: gap_bru_total_2025 (draft letter; not ready — missing recipient contacts)
+- Found (mixed metrics â do not sum): ESA sectors 181.5 / 141.7 / 128.6 / 45.0 bn (2025 TE); **Flanders BO2026 uitgaven â¬66.0 bn**; **RIZIV global â¬45.222 bn** / care auth. **â¬39.712 bn** (2025); **Wallonia initial 2025 â¬22.029 bn**; FWB ~**â¬15 bn** (medium); GG interest **â¬14.282 bn**; defence COFOG **â¬8.8 bn**. Ranks 12â15 Unknown (Brussels city/ministries).
+- Wrote: entity_rank_snapshot.csv; budgets.csv (+7); entities updates; sources (+5); rq_003=done; modeâsprint2_taxex; ticks=3
+- FOI opened: gap_bru_total_2025 (draft letter; not ready â missing recipient contacts)
 - Next: rq_004 FPS tax expenditure inventory
 
-### 2026-07-19T13:30:00Z — tick 4
+### 2026-07-19T13:30:00Z â tick 4
 - Unit: rq_004 (FPS federal tax expenditure inventory)
-- Found: Downloaded official XLSX (123619 bytes). Parsed 171 measures with latest-year values. **Top by €m:** CIT DTR **21936**; VAT basic necessities **10589**; CIT FDI capital gains **7193**; PIT pensions **4679**; VAT construction **3261**; CIT losses **1355**; **excise heating gas oil 1333**; CIT innovation **1208**; VAT horeca **1199**; … (years differ: PIT/WT 2026, EIWT/EXC 2024, CIT/VAT 2023).
+- Found: Downloaded official XLSX (123619 bytes). Parsed 171 measures with latest-year values. **Top by â¬m:** CIT DTR **21936**; VAT basic necessities **10589**; CIT FDI capital gains **7193**; PIT pensions **4679**; VAT construction **3261**; CIT losses **1355**; **excise heating gas oil 1333**; CIT innovation **1208**; VAT horeca **1199**; â¦ (years differ: PIT/WT 2026, EIWT/EXC 2024, CIT/VAT 2023).
 - Wrote: tax_expenditures.csv (top 20); raw/fps_taxex.xlsx + parse + parsed csv; leaderboard 3 seeds (heat oil, horeca VAT, pro diesel); sources src_fps_taxex_xlsx; rq_004=done; ticks=4; mode sprint3_flanders
 - FOI opened: none
 - Next: rq_005 Flanders budget top 10 programmes
 
-### 2026-07-19T14:00:00Z — tick 5
+### 2026-07-19T14:00:00Z â tick 5
 - Unit: rq_005 (Flanders top programmes / beleidsdomeinen)
 - Found: Centenboekje BO2026 (22.09.2025) Tables 4-1/4-2 **constant policy** VEK BO2026 (kEUR): **OV 20,265,810**; **WVG 17,970,605**; KBBJ 6,121,075; MOW 6,030,176; WEWIL 6,004,185; FB 4,758,451; Omgeving 3,503,778; CJSM 1,738,752; HE 178,367; **total VEK 66,571,199**. Oosterweel correctie **889,859** kEUR. Note: DFB site headline 66.0 bn after measures; table is excl. new measures.
 - Wrote: programmes.csv (12 rows); raw/vl_bo2026.pdf; sources src_vl_centenboekje_bo2026; rq_005=done; ticks=5
 - FOI opened: none (public PDF)
 - Next: rq_006 Flanders L5 discretionary (culture/equality/comms)
 
-### 2026-07-19T14:30:00Z — tick 6
+### 2026-07-19T14:30:00Z â tick 6
 - Unit: rq_006 (Flanders L5 discretionary sample)
-- Found: **VRT basistoelage €296.4m/yr** (BHO 2026–2030; PQ 296.400 kEUR). **Jobbonus €228m** VEK BO2026. **Oosterweel €889.9m** BO2026 line. **Relance VV €436.4m**. Dienstencheques **€151.4m reform line** (not full TCO). Subsidy-efficiency package **€350m** cuts. Culture/equality L5 beneficiaries not in public top lists this tick.
+- Found: **VRT basistoelage â¬296.4m/yr** (BHO 2026â2030; PQ 296.400 kEUR). **Jobbonus â¬228m** VEK BO2026. **Oosterweel â¬889.9m** BO2026 line. **Relance VV â¬436.4m**. Dienstencheques **â¬151.4m reform line** (not full TCO). Subsidy-efficiency package **â¬350m** cuts. Culture/equality L5 beneficiaries not in public top lists this tick.
 - Wrote: commitments.csv (6); leaderboard +3 (VRT, Jobbonus, VV); FOI drafts gap_vl_cjsm_l5, gap_vl_gelijke_kansen, gap_vl_dienstencheques_tco; sources; rq_006=done; ticks=6; mode sprint4_federal
-- FOI opened: 3 new drafts (not ready — contacts TBD)
+- FOI opened: 3 new drafts (not ready â contacts TBD)
 - Next: rq_007 federal cabinet / communication costs
 
-### 2026-07-19T15:00:00Z — tick 7
-- Unit: gap_vl_cjsm_l5 (FOI draft finish — priority 8 before research)
-- Found: Official Flanders FOI channel — **Team Openbaarheid van Bestuur**, **openbaarheid@vlaanderen.be**, Herman Teirlinckgebouw Havenlaan 88 bus 20, 1000 Brussel (vlaanderen.be openbaarheid page).
+### 2026-07-19T15:00:00Z â tick 7
+- Unit: gap_vl_cjsm_l5 (FOI draft finish â priority 8 before research)
+- Found: Official Flanders FOI channel â **Team Openbaarheid van Bestuur**, **openbaarheid@vlaanderen.be**, Herman Teirlinckgebouw Havenlaan 88 bus 20, 1000 Brussel (vlaanderen.be openbaarheid page).
 - Wrote: complete send-ready letter `foi/drafts/gap_vl_cjsm_l5.md`; foi_queue status **ready** (not sent); sources src_vl_openbaarheid_contact; ticks=7
-- FOI opened/updated: gap_vl_cjsm_l5 → ready; human must fill identity and send
+- FOI opened/updated: gap_vl_cjsm_l5 â ready; human must fill identity and send
 - Next: other prio-8 FOI drafts (dienstencheques) or rq_007 federal cabinets
 
-### policy — commit/push each tick
-- LOOP.md §6 and doge-loop skill require **git commit + push** after every tick that changes files.
+### policy â commit/push each tick
+- LOOP.md Â§6 and doge-loop skill require **git commit + push** after every tick that changes files.
 - Old scheduler 019f7a359ff7 cancelled; then 019f7af13075 (30m); now **019f7c315adb every 15m** with commit/push.
 
-### 2026-07-19T15:30:00Z — tick 8
-- Unit: gap_vl_dienstencheques_tco (FOI draft finish — priority 8)
+### 2026-07-19T15:30:00Z â tick 8
+- Unit: gap_vl_dienstencheques_tco (FOI draft finish â priority 8)
 - Found: Public sources still lack a clean single **full TCO** figure (only reform lines e.g. 151.4m BO2026; measure tables for price/tax changes). Routed via **openbaarheid@vlaanderen.be**.
 - Wrote: full send-ready letter; foi_queue status **ready**; loop_state ticks=8
-- FOI: gap_vl_dienstencheques_tco → ready (not sent)
+- FOI: gap_vl_dienstencheques_tco â ready (not sent)
 - Next: rq_007 federal cabinet / communication costs
 
-### 2026-07-19T16:00:00Z — tick 9
+### 2026-07-19T16:00:00Z â tick 9
 - Unit: rq_007 (federal cabinets + comms overhead)
-- Found: Belga/Brussels Times (2025-02-14): **30% cabinet cut ≈ €21m/yr** → implied baseline **~€70m** (medium). FTE **838 → 586** target. No consolidated federal **communication** total found.
+- Found: Belga/Brussels Times (2025-02-14): **30% cabinet cut â â¬21m/yr** â implied baseline **~â¬70m** (medium). FTE **838 â 586** target. No consolidated federal **communication** total found.
 - Wrote: overhead_nodes.csv (3 rows); leaderboard lb_fed_cabinets; FOI gap_fed_cabinets_comms ready; sources; rq_007=done; ticks=9; mode sprint5_local
-- FOI: gap_fed_cabinets_comms → ready (federal form; not sent)
+- FOI: gap_fed_cabinets_comms â ready (federal form; not sent)
 - Next: rq_008 City Ghent project subsidies
 
-### 2026-07-19T16:30:00Z — tick 10
+### 2026-07-19T16:30:00Z â tick 10
 - Unit: rq_008 (Ghent L5 subsidies)
-- Found: **NTGent** werkings **€2,327,728** + investering **€260,000**/yr (HLN). Structural culture **~€8m/yr** for **28** orgs. Culture pot **~€10m/yr** after **€1.4m** cut. MJP: **€120m/yr** operating savings target + **€1bn** investments multi-year.
+- Found: **NTGent** werkings **â¬2,327,728** + investering **â¬260,000**/yr (HLN). Structural culture **~â¬8m/yr** for **28** orgs. Culture pot **~â¬10m/yr** after **â¬1.4m** cut. MJP: **â¬120m/yr** operating savings target + **â¬1bn** investments multi-year.
 - Wrote: commitments +4; budgets +2; leaderboard +2; FOI gap_gent_subsidies_top20 ready; sources; rq_008=done; ticks=10; mode sprint6_overhead
-- FOI: gap_gent_subsidies_top20 → ready (not sent)
+- FOI: gap_gent_subsidies_top20 â ready (not sent)
 - Next: rq_009 dual-structure overhead catalogue
 
-### 2026-07-19T17:00:00Z — tick 11
+### 2026-07-19T17:00:00Z â tick 11
 - Unit: rq_009 (dual-structure overhead catalogue)
-- Found: **VRT €296.4m + RTBF ordinary €350.8m ≈ €647.2m** dual PSB (strong). Dual education communities (Flanders OV ~€20.3bn; FWB total ~€15bn partial). Multi-parliaments (cost TBD). Dual PES VDAB/FOREM/Actiris (TBD). Multi-layer econ agencies (TBD). ESA unconsolidated subsector sum premium **~€148.9bn** vs S.13 (transfer double-count scale — not cash waste).
+- Found: **VRT â¬296.4m + RTBF ordinary â¬350.8m â â¬647.2m** dual PSB (strong). Dual education communities (Flanders OV ~â¬20.3bn; FWB total ~â¬15bn partial). Multi-parliaments (cost TBD). Dual PES VDAB/FOREM/Actiris (TBD). Multi-layer econ agencies (TBD). ESA unconsolidated subsector sum premium **~â¬148.9bn** vs S.13 (transfer double-count scale â not cash waste).
 - Wrote: overhead_nodes 9 rows; leaderboard lb_dual_psb; FOI gap_multi_parliaments draft; sources; rq_009=done; ticks=11
 - FOI: gap_multi_parliaments draft (not ready)
 - Next: rq_010 multi-year commitments seed check
 
-### 2026-07-19T17:30:00Z — tick 12
+### 2026-07-19T17:30:00Z â tick 12
 - Unit: rq_010 (multi-year commitment models)
-- Found/modelled: Full **cash_by_year** JSON on multi-year rows — **VRT 2026–2030** flat 296.4m; **RTBF** 350.8m (3y illustrative); **RRF BE** 5.3bn planned / 3.3bn disbursed end-2025; **NTGent** + **Gent 28 orgs** 6y flat; Gent savings 120m×6. Single-year lines retained. Flat years tagged ILLUSTRATIVE where not year-stamped in source.
-- Wrote: commitments.csv rewrite (12 rows); rq_010=done; new queue rq_011–rq_014; ticks=12
+- Found/modelled: Full **cash_by_year** JSON on multi-year rows â **VRT 2026â2030** flat 296.4m; **RTBF** 350.8m (3y illustrative); **RRF BE** 5.3bn planned / 3.3bn disbursed end-2025; **NTGent** + **Gent 28 orgs** 6y flat; Gent savings 120mÃ6. Single-year lines retained. Flat years tagged ILLUSTRATIVE where not year-stamped in source.
+- Wrote: commitments.csv rewrite (12 rows); rq_010=done; new queue rq_011ârq_014; ticks=12
 - FOI: none new
 - Next: rq_013 company-car taxex (prio 8) or rq_011 Wallonia L5
 
-### 2026-07-19T18:00:00Z — tick 13
+### 2026-07-19T18:00:00Z â tick 13
 - Unit: rq_013 (company car tax expenditure)
-- Found: Tax Foundation Europe (2025 research citing EU data): Belgium company-car **tax expenditures €2.3 bn in 2024** (0.37% GDP; 3.2% of federal TE; 13.2% of labour TE). FPS inventory export lacks a single full package line (only residual e.g. CIT business-car CG €12.4m; PIT electric cars €0.85m).
+- Found: Tax Foundation Europe (2025 research citing EU data): Belgium company-car **tax expenditures â¬2.3 bn in 2024** (0.37% GDP; 3.2% of federal TE; 13.2% of labour TE). FPS inventory export lacks a single full package line (only residual e.g. CIT business-car CG â¬12.4m; PIT electric cars â¬0.85m).
 - Wrote: tax_expenditures +3; leaderboard **lb_company_cars** priority_index 8.15; sources; rq_013=done; ticks=13
 - FOI: none (secondary source strong enough for seed; FPS micro-lines documented)
 - Next: rq_011 / rq_012 / rq_014 (prio 7)
 
-### 2026-07-19T18:30:00Z — tick 14
+### 2026-07-19T18:30:00Z â tick 14
 - Unit: rq_011 (Wallonia L5 sample)
-- Found: **AWEX €76m** constant budget; **facultative subsidies −€8m** (2026); **structural savings €270.4m** (2026); **TEC/OTW €45m** cited (medium); **APE savings ~€83m** order (medium understatement). Wallonia total dépenses initial 2025 already in budgets (€22.03bn).
+- Found: **AWEX â¬76m** constant budget; **facultative subsidies ââ¬8m** (2026); **structural savings â¬270.4m** (2026); **TEC/OTW â¬45m** cited (medium); **APE savings ~â¬83m** order (medium understatement). Wallonia total dÃ©penses initial 2025 already in budgets (â¬22.03bn).
 - Wrote: commitments +5; leaderboard lb_awex; FOI gap_wal_l5_top_subsidies draft; sources; rq_011=done; ticks=14
 - FOI: gap_wal_l5_top_subsidies draft
 - Next: rq_012 or rq_014
 
-### 2026-07-19T19:00:00Z — tick 15
+### 2026-07-19T19:00:00Z â tick 15
 - Unit: rq_012 (VDAB / FOREM / Actiris budgets)
-- Found: **Actiris €727m (2025) → €689m (2026)** after €38m cut (strong). **VDAB** savings path **€20m (2025) → €40m (2027 accelerated) → €80m by 2028**; total budget **~€790m medium** (10%/~€79m inference). **FOREM** total not found → FOI.
+- Found: **Actiris â¬727m (2025) â â¬689m (2026)** after â¬38m cut (strong). **VDAB** savings path **â¬20m (2025) â â¬40m (2027 accelerated) â â¬80m by 2028**; total budget **~â¬790m medium** (10%/~â¬79m inference). **FOREM** total not found â FOI.
 - Wrote: entities vdab/forem/actiris; budgets; commitments; overhead dual PES partial; leaderboard lb_actiris; FOI gap_forem + gap_vdab_full; sources; rq_012=done; ticks=15
 - FOI: gap_forem_budget draft; gap_vdab_full_budget draft
 - Next: rq_014 FOI gelijke kansen
 
-### 2026-07-19T19:30:00Z — tick 16
+### 2026-07-19T19:30:00Z â tick 16
 - Unit: user priority middleman systems + rq_014 FOI ready
-- Found/doctrine: **Cheque economy** (eco/meal/restricted vouchers) = state/tax favours pay that only buys limited goods + issuer sandwich — default should be **cash wages**. **Union-channelled chômage** = public benefit paid via multi-cashier private/associative channels — core state task; need unit-cost FOI. FPS inventory parse lacks clear meal/eco-cheque TE package line.
+- Found/doctrine: **Cheque economy** (eco/meal/restricted vouchers) = state/tax favours pay that only buys limited goods + issuer sandwich â default should be **cash wages**. **Union-channelled chÃ´mage** = public benefit paid via multi-cashier private/associative channels â core state task; need unit-cost FOI. FPS inventory parse lacks clear meal/eco-cheque TE package line.
 - Wrote: `notes-middleman-systems.md`; leaderboard lb_cheque_economy + lb_union_unemp_pay; taxex stub tx_cheques_package_tbd; FOI gap_cheque_te + gap_unemp_pay_unit_cost drafts; gap_vl_gelijke_kansen **ready**; rq_014=done; rq_015/rq_016 queued prio9; link from 06-doge; ticks=16
 - FOI: gelijke kansen ready; cheque TE + unemp pay drafts
 - Next: rq_015 cheque TE deep dive (prio 9)
 
-### 2026-07-19T20:00:00Z — tick 17
+### 2026-07-19T20:00:00Z â tick 17
 - Unit: rq_015 (cheque economy TE inventory)
 - Found: Meal vouchers **SSC+PIT exempt** (conditions); max **EUR 10/day from 2026** (employer to 8.91). Eco-cheques **max EUR 250/yr** tax+SSC free restricted. Market volume meal vouchers **~EUR 3bn/yr** (medium industry claim ~3m users). **Official fiscal TE still unknown** in FPS inventory export. Abolition of eco-cheques discussed in policy commentary.
 - Wrote: taxex rows; leaderboard update; FOI gap_cheque_te **ready**; notes-middleman findings table; sources; rq_015=done; ticks=17
 - FOI: gap_cheque_te ready (not sent)
 - Next: rq_016 unemployment payment unit costs
 
-### 2026-07-19T20:30:00Z — tick 18
+### 2026-07-19T20:30:00Z â tick 18
 - Unit: rq_016 (unemployment payment channels)
-- Found: Architecture confirmed — benefits paid via **union payment funds** or **Hulpkas**. Hulpkas **admin budget 2025 = €6,084,000** (strong official). Benefit stock separate from cashier admin. Union-fund public admin grants and **unit cost/dossier** still unknown → FOI ready.
+- Found: Architecture confirmed â benefits paid via **union payment funds** or **Hulpkas**. Hulpkas **admin budget 2025 = â¬6,084,000** (strong official). Benefit stock separate from cashier admin. Union-fund public admin grants and **unit cost/dossier** still unknown â FOI ready.
 - Wrote: entities hulpkas/onem_rva; budgets; commitment; leaderboard update; FOI gap_unemp_pay_unit_cost **ready**; notes update; sources; rq_016=done; ticks=18
 - FOI: gap_unemp_pay_unit_cost ready (not sent)
-- Next: queue empty of open research — spawn continuous tasks or work FOI draft backlog
+- Next: queue empty of open research â spawn continuous tasks or work FOI draft backlog
 
-### 2026-07-19T21:00:00Z — tick 19
+### 2026-07-19T21:00:00Z â tick 19
 - Unit: rq_017 (Brussels BCR total expenditure)
-- Found: Cour des comptes report 13 Mar 2026 — SGRBC **crédits de liquidation €8.0 bn**, **engagement €8.9 bn** (2026). Major liquidation lines: **STIB €1.168 bn**; pouvoirs locaux €758m; commissions communautaires €692m; **Actiris programme €648m**; dette €728m; titres-services €304m. SEC financing balance after ops **−€956.6 m**.
+- Found: Cour des comptes report 13 Mar 2026 â SGRBC **crÃ©dits de liquidation â¬8.0 bn**, **engagement â¬8.9 bn** (2026). Major liquidation lines: **STIB â¬1.168 bn**; pouvoirs locaux â¬758m; commissions communautaires â¬692m; **Actiris programme â¬648m**; dette â¬728m; titres-services â¬304m. SEC financing balance after ops **ââ¬956.6 m**.
 - Wrote: budgets; entity_rank #12; commitments STIB + titres-services; leaderboard lb_stib; FOI gap_bru **answered**; raw PDF; sources; rq_017=done; ticks=19
 - FOI: gap_bru_total answered (OAA full consolidate still noted open)
 - Next: rq_018 FOI batch or rq_019 leaderboard recompute
 
-### 2026-07-19T21:15:00Z — tick 20
-- Unit: rq_018 (FOI drafts → ready batch)
-- Found/done: Completed send-ready letters for **gap_multi_parliaments**, **gap_wal_l5_top_subsidies**, **gap_forem_budget**, **gap_vdab_full_budget**. gap_bru already answered. All high-value FOI now **ready** (not sent — human).
+### 2026-07-19T21:15:00Z â tick 20
+- Unit: rq_018 (FOI drafts â ready batch)
+- Found/done: Completed send-ready letters for **gap_multi_parliaments**, **gap_wal_l5_top_subsidies**, **gap_forem_budget**, **gap_vdab_full_budget**. gap_bru already answered. All high-value FOI now **ready** (not sent â human).
 - Wrote: 4 FOI draft files; foi_queue status updates; rq_018=done; ticks=20
 - FOI ready stack: cjsm, gelijke kansen, dienstencheques, cabinets, gent top20, multi-parliaments, wal L5, forem, vdab, cheque TE, unemp pay
 - Next: rq_019 leaderboard recompute
 
-### 2026-07-19T21:30:00Z — tick 21
+### 2026-07-19T21:30:00Z â tick 21
 - Unit: rq_019 (leaderboard recompute)
-- Found: Recomputed cost_score from € bands + priority_index for all rows; sorted CSV. **Top 5:** cheque economy 8.68 · heating oil 8.33 · company cars 8.22 · VAT horeca 7.73 · pro diesel 7.22. Snapshot `data/leaderboard_top15.md`.
-- Wrote: leaderboard.csv sorted; leaderboard_top15.md; recompute script; rq_019=done; rq_020–022 queued; ticks=21
+- Found: Recomputed cost_score from â¬ bands + priority_index for all rows; sorted CSV. **Top 5:** cheque economy 8.68 Â· heating oil 8.33 Â· company cars 8.22 Â· VAT horeca 7.73 Â· pro diesel 7.22. Snapshot `data/leaderboard_top15.md`.
+- Wrote: leaderboard.csv sorted; leaderboard_top15.md; recompute script; rq_019=done; rq_020â022 queued; ticks=21
 - FOI: none
 - Next: rq_021 meal voucher TE secondary (prio 8)
 
-### 2026-07-19T21:45:00Z — tick 22
+### 2026-07-19T21:45:00Z â tick 22
 - Unit: rq_021 (meal voucher fiscal cost secondary)
 - Found: Sofie De Coster thesis (via De Standaard): meal vouchers **~EUR 1.4bn/yr fiscal cost** (medium). Market volume still ~3bn. Expansion scenarios cited ~1bn extra. Official FPS TE still FOI.
 - Wrote: taxex tx_meal_vouchers_fiscal_1_4bn; leaderboard lb_cheque_economy annual=1.4bn; sources; notes update; rq_021=done; ticks=22
 - FOI: gap_cheque_te remains ready
 - Next: rq_020 Oosterweel multi-year or rq_022 Antwerp
 
-### 2026-07-20T00:15:00Z — tick 23
+### 2026-07-20T00:15:00Z â tick 23
 - Unit: rq_020 (Oosterweel multi-year envelope)
-- Found: Full project cost **~EUR 7.2 billion** (VRT NWS 2024 class / press consensus). Annual BO2026 correction line remains **€889.859m** (centenboekje) — not the full TCO.
+- Found: Full project cost **~EUR 7.2 billion** (VRT NWS 2024 class / press consensus). Annual BO2026 correction line remains **â¬889.859m** (centenboekje) â not the full TCO.
 - Wrote: commitments cmt_oosterweel_total + refined annual line; leaderboard lb_oosterweel; sources; rq_020=done; ticks=23
 - FOI: none
 - Next: rq_022 Antwerp L5 sample
 
-### 2026-07-20T00:30:00Z — tick 24
+### 2026-07-20T00:30:00Z â tick 24
 - Unit: rq_022 (Antwerp L5 sample)
-- Found: MJP **opex €2.2–2.4bn/yr**, **invest €2.4bn / 6y (€400m/yr)**. Gemeentefonds **€807.2m** (2024). Toneelhuis city subsidy **€2.74m/yr** (to 2025). Safety domain **~1/5 budget** (~€460m order, medium secondary).
+- Found: MJP **opex â¬2.2â2.4bn/yr**, **invest â¬2.4bn / 6y (â¬400m/yr)**. Gemeentefonds **â¬807.2m** (2024). Toneelhuis city subsidy **â¬2.74m/yr** (to 2025). Safety domain **~1/5 budget** (~â¬460m order, medium secondary).
 - Wrote: budgets; commitments; leaderboard lb_antwerp_opex; FOI gap_antwerp_subsidies_top20 ready; sources; rq_022=done; ticks=24
 - FOI: gap_antwerp_subsidies_top20 ready
-- Next: queue empty — spawn more continuous tasks or idle_waiting_foi
+- Next: queue empty â spawn more continuous tasks or idle_waiting_foi
 - Note: tick 24 data was left uncommitted after research_queue wipe (permission error); restored queue + committed with tick 25.
 
-### 2026-07-20T00:40:00Z — tick 25
+### 2026-07-20T00:40:00Z â tick 25
 - Unit: rq_023 (Federal toelagenregister + NMBS PSO financing)
-- Found: BOSA/VRT **federaal toelagenregister** — **8 993 items / €179.916 bn** federal transfers 2025 (not full federal spend). **Facultatieve subsidies ~€900m**; structural cut target **−€200m from 2029**. NMBS press 2025: **rail-sector savings €675m (2025–2029)**; debt €1.532 bn; EBITDA €54.2m; **annual state exploitatievergoeding EUR total still not in public press**. 2026 rail cut **€100m** (SNCB 60% / Infrabel 40%, Belga).
-- Wrote: entities nmbs+infrabel; budgets; commitments; leaderboard lb_fed_facultative + lb_nmbs_pso_opacity; FOI gap_nmbs_annual_toelage ready; sources; rq_022 marked done; rq_023=done; queued rq_024–026; ticks=25
+- Found: BOSA/VRT **federaal toelagenregister** â **8â¯993 items / â¬179.916 bn** federal transfers 2025 (not full federal spend). **Facultatieve subsidies ~â¬900m**; structural cut target **ââ¬200m from 2029**. NMBS press 2025: **rail-sector savings â¬675m (2025â2029)**; debt â¬1.532 bn; EBITDA â¬54.2m; **annual state exploitatievergoeding EUR total still not in public press**. 2026 rail cut **â¬100m** (SNCB 60% / Infrabel 40%, Belga).
+- Wrote: entities nmbs+infrabel; budgets; commitments; leaderboard lb_fed_facultative + lb_nmbs_pso_opacity; FOI gap_nmbs_annual_toelage ready; sources; rq_022 marked done; rq_023=done; queued rq_024â026; ticks=25
 - FOI: gap_nmbs_annual_toelage ready (not sent)
 - Next: rq_024 De Lijn annual subsidy or rq_026 NBB 25bn enterprise subsidies
 
-### 2026-07-20T01:00:00Z — tick 26
+### 2026-07-20T01:00:00Z â tick 26
 - Unit: rq_024 (De Lijn Flanders annual subsidy)
-- Found: Official De Lijn press 2025: **dotatie −€27.5m** (absolute total not stated); surplus **€20k**; ticket revenue **+~10%**; passengers **372.9m**; Vlaamse extra **€400m e-buses** (652 ordered); imposed savings **€35.5m** + internal hefbomen **€45m** recurrent 2026; fare-control revenue target **€50m** 2026. Secondary press: **~€1.14 bn** dotatie “vorig jaar” (2023 class, medium). Jaarverslag PDF URL public but download **403** this tick.
+- Found: Official De Lijn press 2025: **dotatie ââ¬27.5m** (absolute total not stated); surplus **â¬20k**; ticket revenue **+~10%**; passengers **372.9m**; Vlaamse extra **â¬400m e-buses** (652 ordered); imposed savings **â¬35.5m** + internal hefbomen **â¬45m** recurrent 2026; fare-control revenue target **â¬50m** 2026. Secondary press: **~â¬1.14 bn** dotatie âvorig jaarâ (2023 class, medium). Jaarverslag PDF URL public but download **403** this tick.
 - Wrote: entity de_lijn; budgets; commitments; leaderboard lb_de_lijn_dotatie; FOI gap_de_lijn_dotatie ready; sources; rq_024=done; ticks=26
 - FOI: gap_de_lijn_dotatie ready (not sent)
-- Next: rq_026 NBB 25bn enterprise subsidies (prio 7) or rq_025 Liège L5
+- Next: rq_026 NBB 25bn enterprise subsidies (prio 7) or rq_025 LiÃ¨ge L5
 
-### 2026-07-20T01:20:00Z — tick 27
+### 2026-07-20T01:20:00Z â tick 27
 - Unit: rq_026 (NBB enterprise subsidies 25bn deep dive)
-- Found (NBB Economic Review 2025/9, strong): **€25.1 bn** subsidies+investment grants to enterprises in **2024 (4.1% GDP)**. Split: **fed+SS subsidies €10.3 bn**; **C+R subsidies €11.3 bn**; **C+R inv. grants €2.1 bn**; **fed inv. grants ~€0.9 bn**. Flanders **~€6.8 bn** subsidies 2023; Wallonia **~€3.1 bn**; BCR **>~€1 bn**. Federal subsidies 2023 **€6.8 bn** (~2/3 tax remittance exemptions). SS wage **€3.5 bn** 2023. **~2/3 package = wage subsidies** (BV non-remittance, SSC targets, dienstencheques). Wallonia L5: APE **€543 m**, titres-services **€534 m**, green cert **~€323 m**. Bpost **>€300 m** 2023; coalition NMBS **−€250 m by 2029**, bpost **−€50 m**. BE subsidies ~double euro-area on D.3 path.
-- Wrote: entity bpost; budgets (package + regional L4 samples); commitments; leaderboard lb_nbb_ent_subsidies + wage block + bpost; PDF raw; sources; rq_026=done; queued rq_027–028; ticks=27
+- Found (NBB Economic Review 2025/9, strong): **â¬25.1 bn** subsidies+investment grants to enterprises in **2024 (4.1% GDP)**. Split: **fed+SS subsidies â¬10.3 bn**; **C+R subsidies â¬11.3 bn**; **C+R inv. grants â¬2.1 bn**; **fed inv. grants ~â¬0.9 bn**. Flanders **~â¬6.8 bn** subsidies 2023; Wallonia **~â¬3.1 bn**; BCR **>~â¬1 bn**. Federal subsidies 2023 **â¬6.8 bn** (~2/3 tax remittance exemptions). SS wage **â¬3.5 bn** 2023. **~2/3 package = wage subsidies** (BV non-remittance, SSC targets, dienstencheques). Wallonia L5: APE **â¬543 m**, titres-services **â¬534 m**, green cert **~â¬323 m**. Bpost **>â¬300 m** 2023; coalition NMBS **ââ¬250 m by 2029**, bpost **ââ¬50 m**. BE subsidies ~double euro-area on D.3 path.
+- Wrote: entity bpost; budgets (package + regional L4 samples); commitments; leaderboard lb_nbb_ent_subsidies + wage block + bpost; PDF raw; sources; rq_026=done; queued rq_027â028; ticks=27
 - FOI: none new (primary source rich)
-- Next: rq_027 federal tax remittance exemption L5 or rq_025 Liège
+- Next: rq_027 federal tax remittance exemption L5 or rq_025 LiÃ¨ge
 
-### 2026-07-20T01:40:00Z — tick 28
+### 2026-07-20T01:40:00Z â tick 28
 - Unit: rq_027 (Federal tax remittance exemption EIWT L5)
-- Found (FPS inventory EIWT 2024, strong): **package sum €4.356 bn** (33 lines). Top: **night work €1.010 bn**; R&D masters €601m; construction nightshift €416m; continuous work €367m; PhD researchers €330m; scientific institutions €266m; **shift work €244m**; universities research €229m; structural €218m; overtime €186m. Clusters: **night/shift ~€2.04 bn**; **R&D researchers ~€1.60 bn**. Rekenhof Dec 2023: **€3.9 bn in 2021** (vs €2.9 bn 2017); control/Belspo gaps. Aligns with NBB ~2/3 of federal €6.8 bn enterprise subsidies.
+- Found (FPS inventory EIWT 2024, strong): **package sum â¬4.356 bn** (33 lines). Top: **night work â¬1.010 bn**; R&D masters â¬601m; construction nightshift â¬416m; continuous work â¬367m; PhD researchers â¬330m; scientific institutions â¬266m; **shift work â¬244m**; universities research â¬229m; structural â¬218m; overtime â¬186m. Clusters: **night/shift ~â¬2.04 bn**; **R&D researchers ~â¬1.60 bn**. Rekenhof Dec 2023: **â¬3.9 bn in 2021** (vs â¬2.9 bn 2017); control/Belspo gaps. Aligns with NBB ~2/3 of federal â¬6.8 bn enterprise subsidies.
 - Wrote: taxex package+clusters+major lines; budgets; commitment; leaderboard lb_eiwt_*; Rekenhof PDF raw; sources; rq_027=done; ticks=28
 - FOI: none (primary FPS+Rekenhof)
-- Next: rq_025 Liège L5 or rq_028 bpost PSO
+- Next: rq_025 LiÃ¨ge L5 or rq_028 bpost PSO
 
-### 2026-07-20T02:00:00Z — tick 29
-- Unit: rq_025 (Liège city L5 subsidy sample)
-- Found (Ville de Liège **budget service ordinaire 2026** PDF, strong): recettes **€710.2 m**, dépenses **€685.6 m**, surplus **€24.7 m** (ordinary perimeter — not consolidated). Culture dept total **€12.4 m**. Named L5 city subsidies 2026: **OPRL €795k** (flat 2024–26); **Opéra Royal de Wallonie €428k**; **Théâtre de Liège (Emulation) €263k**; **CIAC €180k**; Trianon/Art Wallon **€114.75k** (cut from €150k). Press 1.1–1.2 bn figures likely broader perimeter.
+### 2026-07-20T02:00:00Z â tick 29
+- Unit: rq_025 (LiÃ¨ge city L5 subsidy sample)
+- Found (Ville de LiÃ¨ge **budget service ordinaire 2026** PDF, strong): recettes **â¬710.2 m**, dÃ©penses **â¬685.6 m**, surplus **â¬24.7 m** (ordinary perimeter â not consolidated). Culture dept total **â¬12.4 m**. Named L5 city subsidies 2026: **OPRL â¬795k** (flat 2024â26); **OpÃ©ra Royal de Wallonie â¬428k**; **ThÃ©Ã¢tre de LiÃ¨ge (Emulation) â¬263k**; **CIAC â¬180k**; Trianon/Art Wallon **â¬114.75k** (cut from â¬150k). Press 1.1â1.2 bn figures likely broader perimeter.
 - Wrote: budgets; 5 commitments; leaderboard; FOI gap_liege_subsidies_top20 ready; PDF raw; sources; rq_025=done; ticks=29
 - FOI: gap_liege_subsidies_top20 ready (not sent)
 - Next: rq_028 bpost PSO multi-year
 
-### 2026-07-20T02:20:00Z — tick 30
+### 2026-07-20T02:20:00Z â tick 30
 - Unit: rq_028 (bpost PSO multi-year subsidy path)
-- Found: **Press concession ~€125 m/yr** (was €175 m); government scrap saves **€125 m/yr from 2027**. Extension to **30 Jun 2024 budget €75.0 m** (bpost 4Q23 deck). NBB: bpost subsidies **>€300 m in 2023** (ESA package). Phase-out of newspaper delivery subsidy through **2027**. bpost: press revenues **~−€50 m in 2024** (~€35 m less favourable contracts). Overcompensation provision **€82.5 m** repay to State (fines/679/plates). Coalition **−€50 m** path on remaining bpost subsidies (NBB). Residual **USO compensation cash-by-year still opaque** → FOI.
-- Wrote: budgets; commitments; leaderboard; FOI gap_bpost_uso_split ready; sources; PDF raw; rq_028=done; queued rq_029–031; ticks=30
+- Found: **Press concession ~â¬125 m/yr** (was â¬175 m); government scrap saves **â¬125 m/yr from 2027**. Extension to **30 Jun 2024 budget â¬75.0 m** (bpost 4Q23 deck). NBB: bpost subsidies **>â¬300 m in 2023** (ESA package). Phase-out of newspaper delivery subsidy through **2027**. bpost: press revenues **~ââ¬50 m in 2024** (~â¬35 m less favourable contracts). Overcompensation provision **â¬82.5 m** repay to State (fines/679/plates). Coalition **ââ¬50 m** path on remaining bpost subsidies (NBB). Residual **USO compensation cash-by-year still opaque** â FOI.
+- Wrote: budgets; commitments; leaderboard; FOI gap_bpost_uso_split ready; sources; PDF raw; rq_028=done; queued rq_029â031; ticks=30
 - FOI: gap_bpost_uso_split ready (not sent)
 - Next: rq_030 offshore wind CfD (prio 7) or rq_029 city L5
 
-### 2026-07-20T02:40:00Z — tick 31
+### 2026-07-20T02:40:00Z â tick 31
 - Unit: rq_030 (Offshore wind federal support path)
-- Found (Rekenhof Nov 2023, strong): eastern zone **2.26 GW / 9 parks**; cumulative **production support €3.41 bn** + **connection €209 m** = **€3.62 bn** through end-2021; lifetime estimate **€12.68 bn** (minister Feb 2020; EC notification had used €10 bn); degressivity cost to federal general means **€989.6 m** (2013–2021); household offshore surcharge 2021 **€49.49**; from 2022 financing via special excise + general means. CREG AR2023: **support cost 2023 = €179.4 m**; net production **8 020 GWh**. Variable FiP parks saw reduced/zero support in high-price 2022–23 years (cap/clawback).
+- Found (Rekenhof Nov 2023, strong): eastern zone **2.26 GW / 9 parks**; cumulative **production support â¬3.41 bn** + **connection â¬209 m** = **â¬3.62 bn** through end-2021; lifetime estimate **â¬12.68 bn** (minister Feb 2020; EC notification had used â¬10 bn); degressivity cost to federal general means **â¬989.6 m** (2013â2021); household offshore surcharge 2021 **â¬49.49**; from 2022 financing via special excise + general means. CREG AR2023: **support cost 2023 = â¬179.4 m**; net production **8â¯020 GWh**. Variable FiP parks saw reduced/zero support in high-price 2022â23 years (cap/clawback).
 - Wrote: entity creg; budgets; commitments; leaderboard; FOI gap_offshore_annual_cash ready; PDFs raw; sources; rq_030=done; ticks=31
 - FOI: gap_offshore_annual_cash ready (not sent)
 - Next: rq_031 Maribel 1.5bn or rq_029 city L5
 
-### 2026-07-20T03:00:00Z — tick 32
+### 2026-07-20T03:00:00Z â tick 32
 - Unit: rq_031 (Maribel Social Funds)
-- Found (NBB Econ Review 2025/9 Tables A1–A2, strong): **Maribel SS-sector €1 460 m (2023) / €1 461 m (2024)** — nearly half of all SS enterprise subsidies (€3 496 m total 2024). Federal Maribel add-on **€56 m / €59 m**. Package **~€1.52 bn 2024**. Purpose: extra jobs in non-profit healthcare/social/public services (late 1980s). Related SS wage lines: targeted SSC **€926 m**; hospital employees **€663 m**. Bonus same tables: **NMBS D.31 €1 127 m 2024** (was €1 284 m 2023); **bpost €329 m 2024**; **offshore ESA €592 m 2024** (vs CREG 179.4 m 2023 different perimeter).
+- Found (NBB Econ Review 2025/9 Tables A1âA2, strong): **Maribel SS-sector â¬1â¯460 m (2023) / â¬1â¯461 m (2024)** â nearly half of all SS enterprise subsidies (â¬3â¯496 m total 2024). Federal Maribel add-on **â¬56 m / â¬59 m**. Package **~â¬1.52 bn 2024**. Purpose: extra jobs in non-profit healthcare/social/public services (late 1980s). Related SS wage lines: targeted SSC **â¬926 m**; hospital employees **â¬663 m**. Bonus same tables: **NMBS D.31 â¬1â¯127 m 2024** (was â¬1â¯284 m 2023); **bpost â¬329 m 2024**; **offshore ESA â¬592 m 2024** (vs CREG 179.4 m 2023 different perimeter).
 - Wrote: entity maribel_funds; budgets (Maribel+SS package+NMBS/bpost/offshore A1); commitment; leaderboard; FOI gap_maribel_l5_split ready; gap_nmbs priority lowered (partially answered); rq_031=done; rq_032 queued; ticks=32
 - FOI: gap_maribel_l5_split ready (not sent)
 - Next: rq_029 Charleroi/Brugge city L5
 
-### 2026-07-20T03:20:00Z — tick 33
-- Unit: rq_029 (Brugge city L5 sample — chose Brugge over Charleroi for official MJP PDFs)
-- Found (Stad Brugge **MJP 2026–2031**, strong, consolidated Stad+OCMW): total uitgaven **€483.6 m** (2026); exploitatie **€399.9 m**; investeringen **€70.0 m**; Gemeentefonds **€110.4 m**; cultuur BD10 **€22.7 m**. Nominatieve L5 2026: **Politiezone €33.75 m**; **HVZ Zone 1 €10.03 m**; **Brugge Plus loon €2.76 m** (+ overhead €0.61 m + event lines); **Concertgebouw werk €705k** + **invest onderhoud €720k/yr** + gevelschil **~€6.4 m** multi-year; **Entrepot €894k**; Stadsmakers **€567k**; BMCC **€639k**; Cercle invest **€1.0 m** 2026.
+### 2026-07-20T03:20:00Z â tick 33
+- Unit: rq_029 (Brugge city L5 sample â chose Brugge over Charleroi for official MJP PDFs)
+- Found (Stad Brugge **MJP 2026â2031**, strong, consolidated Stad+OCMW): total uitgaven **â¬483.6 m** (2026); exploitatie **â¬399.9 m**; investeringen **â¬70.0 m**; Gemeentefonds **â¬110.4 m**; cultuur BD10 **â¬22.7 m**. Nominatieve L5 2026: **Politiezone â¬33.75 m**; **HVZ Zone 1 â¬10.03 m**; **Brugge Plus loon â¬2.76 m** (+ overhead â¬0.61 m + event lines); **Concertgebouw werk â¬705k** + **invest onderhoud â¬720k/yr** + gevelschil **~â¬6.4 m** multi-year; **Entrepot â¬894k**; Stadsmakers **â¬567k**; BMCC **â¬639k**; Cercle invest **â¬1.0 m** 2026.
 - Wrote: budgets; 6 commitments; leaderboard; PDFs raw; sources; rq_029=done; rq_033 Charleroi queued; ticks=33
 - FOI: none (nominative list public)
 - Next: rq_033 Charleroi L5 or rq_032 NBB annex
 
-### 2026-07-20T03:40:00Z — tick 34
+### 2026-07-20T03:40:00Z â tick 34
 - Unit: rq_033 (Charleroi city L5 / budget map)
-- Found (council press medium): budget **~€567 m** balanced 2026; recettes propres **2025 €577.9 m**; **4P transfers €240.3 m** (~38% of spend, path to 50% by 2030); Plan Oxygène **~€48 m** Walloon aid; expenditure cut **~€40 m** (RTBF); invest borrowing only **€20 m**; BSCA profit claim **€25 m 2025** + passenger tax debate; PBA renovation request **€7.6 m** (higher-tier grant, not confirmed city L5). Named third-party culture lines still weak publicly → FOI.
+- Found (council press medium): budget **~â¬567 m** balanced 2026; recettes propres **2025 â¬577.9 m**; **4P transfers â¬240.3 m** (~38% of spend, path to 50% by 2030); Plan OxygÃ¨ne **~â¬48 m** Walloon aid; expenditure cut **~â¬40 m** (RTBF); invest borrowing only **â¬20 m**; BSCA profit claim **â¬25 m 2025** + passenger tax debate; PBA renovation request **â¬7.6 m** (higher-tier grant, not confirmed city L5). Named third-party culture lines still weak publicly â FOI.
 - Wrote: entity city_charleroi; budgets; commitments; leaderboard; FOI gap_charleroi_subsidies_top20 ready; sources; rq_033=done; ticks=34
 - FOI: gap_charleroi_subsidies_top20 ready (not sent)
 - Next: rq_032 NBB annex cross-check (only open research left)
 
-### 2026-07-20T04:00:00Z — tick 35
+### 2026-07-20T04:00:00Z â tick 35
 - Unit: rq_032 (NBB annex A1 multi-year fill + reconciliation)
-- Found (NBB Econ Review 2025/9 Table A1 NAI, strong): **NMBS D.31** €965m (2000) / **€1 284 m (2023)** / **€1 127 m (2024)**; **NMBS D.92** €784m / **€767 m** / **€830 m** → package **€2 051 m (2023)** / **€1 957 m (2024)**. **bpost D.31** €215m / **€324 m** / **€329 m**. **Offshore wind D.31** **€283 m (2023)** / **€592 m (2024)** — vs CREG cash support **€179.4 m (2023)** (perimeter gap). Federal public-enterprise D.3 total **€1 456 m (2024)**. FPS Kamer cash-line cross-check not found this tick → FOI remains + new rq_034.
-- Wrote: multi-year budgets; commitments cash_by_year; leaderboard NMBS package (opacity closed); FOI priority tweaks; rq_032=done; queued rq_034–036; ticks=35
+- Found (NBB Econ Review 2025/9 Table A1 NAI, strong): **NMBS D.31** â¬965m (2000) / **â¬1â¯284 m (2023)** / **â¬1â¯127 m (2024)**; **NMBS D.92** â¬784m / **â¬767 m** / **â¬830 m** â package **â¬2â¯051 m (2023)** / **â¬1â¯957 m (2024)**. **bpost D.31** â¬215m / **â¬324 m** / **â¬329 m**. **Offshore wind D.31** **â¬283 m (2023)** / **â¬592 m (2024)** â vs CREG cash support **â¬179.4 m (2023)** (perimeter gap). Federal public-enterprise D.3 total **â¬1â¯456 m (2024)**. FPS Kamer cash-line cross-check not found this tick â FOI remains + new rq_034.
+- Wrote: multi-year budgets; commitments cash_by_year; leaderboard NMBS package (opacity closed); FOI priority tweaks; rq_032=done; queued rq_034â036; ticks=35
 - FOI: gap_nmbs + gap_offshore updated notes (not sent)
 - Next: rq_035 RIZIV top-line (prio 7) or rq_034 NMBS FPS cash
 
-### 2026-07-20T04:20:00Z — tick 36
+### 2026-07-20T04:20:00Z â tick 36
 - Unit: rq_035 (RIZIV care budget top-line)
-- Found (RIZIV official 20 Oct 2025, strong): **2026 global VGV €46.775 bn**; **authorized geneeskundige verstrekkingen €40.986 bn** (+€1.274 bn / **+3.2%** vs 2025). Prior year anchors kept: global **€45.222 bn** / care **€39.712 bn** (2025). **Correction package €470.775 m** for 2026 (drugs €227.9 m, doctors €150 m, hospitals €50 m, …). Health index honoraria **2.72%**. Non-care effort **€33.5 m**. Core entitlement — efficiency audits not crude abolition.
+- Found (RIZIV official 20 Oct 2025, strong): **2026 global VGV â¬46.775 bn**; **authorized geneeskundige verstrekkingen â¬40.986 bn** (+â¬1.274 bn / **+3.2%** vs 2025). Prior year anchors kept: global **â¬45.222 bn** / care **â¬39.712 bn** (2025). **Correction package â¬470.775 m** for 2026 (drugs â¬227.9 m, doctors â¬150 m, hospitals â¬50 m, â¦). Health index honoraria **2.72%**. Non-care effort **â¬33.5 m**. Core entitlement â efficiency audits not crude abolition.
 - Wrote: budgets 2026; multi-year commitments; leaderboard lb_riziv_care; source; entity notes; rq_035=done; ticks=36
 - FOI: none
 - Next: rq_034 NMBS FPS cash or rq_036 company cars
 
-### 2026-07-20T04:40:00Z — tick 37
+### 2026-07-20T04:40:00Z â tick 37
 - Unit: rq_034 (FPS/BOSA federal budget NMBS cross-check)
-- Found: **Exact Kamer/FPS article codes for NMBS cash lines not in public summary this tick.** Best reconciliation remains **NBB ESA A1** (D.31+D.92 **€1.957 bn 2024**). **FPB (BOSA initial 2026):** federal **subsidies €7.9 bn**; **investments €6.5 bn** of which **~17% → Infrabel = €1.105 bn** (Infrabel in GG; NMBS outside). FPB cites NBB: NMBS+bpost top public-enterprise subsidy recipients. **Savings path** (VRT medium): **€188 m** next year → **€663 m** structural end legislature (not MR’s €2.1 bn). Standaard medium: NMBS personnel **€1.34 bn** ~half opex.
+- Found: **Exact Kamer/FPS article codes for NMBS cash lines not in public summary this tick.** Best reconciliation remains **NBB ESA A1** (D.31+D.92 **â¬1.957 bn 2024**). **FPB (BOSA initial 2026):** federal **subsidies â¬7.9 bn**; **investments â¬6.5 bn** of which **~17% â Infrabel = â¬1.105 bn** (Infrabel in GG; NMBS outside). FPB cites NBB: NMBS+bpost top public-enterprise subsidy recipients. **Savings path** (VRT medium): **â¬188 m** next year â **â¬663 m** structural end legislature (not MRâs â¬2.1 bn). Standaard medium: NMBS personnel **â¬1.34 bn** ~half opex.
 - Wrote: budgets fed subs/invest/Infrabel; commitments; leaderboard lb_infrabel; sources; PDF raw; FOI gap_nmbs note; rq_034=done; ticks=37
 - FOI: gap_nmbs still ready (budget codes)
 - Next: rq_036 company cars taxex (only open research left)
 
-### 2026-07-20T05:00:00Z — tick 38
+### 2026-07-20T05:00:00Z â tick 38
 - Unit: rq_036 (Company cars FPS package deep lines)
-- Found: **Full package still only secondary ~€2.3 bn (2024)** — not a single FPS inventory line. Explicit FPS **car-named residual** sum **~€13 m** (CIT business cars CG €12.44 m + electric cars €0.85 m + small VAT invalids). Related mobility taxex now mapped: **professional diesel €557.83 m**; industrial gas oil motor **€312.54 m**; commuting public **€376.84 m**; other commute **€155.33 m**; bike commute **€126.89 m**. Opacity of official BIK/SSC/PIT package decomposition → FOI prio 9.
-- Wrote: taxex residual sum + pro diesel + mobility lines; leaderboard note; FOI gap_company_cars_te_package ready; rq_036=done; queued rq_037–039; ticks=38
+- Found: **Full package still only secondary ~â¬2.3 bn (2024)** â not a single FPS inventory line. Explicit FPS **car-named residual** sum **~â¬13 m** (CIT business cars CG â¬12.44 m + electric cars â¬0.85 m + small VAT invalids). Related mobility taxex now mapped: **professional diesel â¬557.83 m**; industrial gas oil motor **â¬312.54 m**; commuting public **â¬376.84 m**; other commute **â¬155.33 m**; bike commute **â¬126.89 m**. Opacity of official BIK/SSC/PIT package decomposition â FOI prio 9.
+- Wrote: taxex residual sum + pro diesel + mobility lines; leaderboard note; FOI gap_company_cars_te_package ready; rq_036=done; queued rq_037â039; ticks=38
 - FOI: gap_company_cars_te_package ready (not sent)
 - Next: rq_038 defence (prio 7) or rq_037 pro diesel phase-out
 
-### 2026-07-20T05:20:00Z — tick 39
+### 2026-07-20T05:20:00Z â tick 39
 - Unit: rq_038 (Defence expenditure latest)
-- Found (Strategische Visie Defensie 2025 official, strong): **2% GDP defence effort from 2025** (halt any decline) → **2.5% by 2034**. Capacity portfolio **2026–2034**: vastlegging **€33.784 bn** / vereffening **€24.661 bn** (constant €2026). Structure target ~35% personnel / 40% ops / 25% investment by 2035. Existing **NAI COFOG €8.8 bn (2025, 1.14% GDP)** ≠ NATO cash perimeter. **FPB/BOSA 2026:** ~**71% of €6.5 bn federal invest → Defence = €4.615 bn**. Secondary: ~**€12.8 bn** NATO-path 2025 (press); SIPRI ~**$14.5 bn / ~2.0% GDP**. Core public good — procurement efficiency not crude cut.
+- Found (Strategische Visie Defensie 2025 official, strong): **2% GDP defence effort from 2025** (halt any decline) â **2.5% by 2034**. Capacity portfolio **2026â2034**: vastlegging **â¬33.784 bn** / vereffening **â¬24.661 bn** (constant â¬2026). Structure target ~35% personnel / 40% ops / 25% investment by 2035. Existing **NAI COFOG â¬8.8 bn (2025, 1.14% GDP)** â  NATO cash perimeter. **FPB/BOSA 2026:** ~**71% of â¬6.5 bn federal invest â Defence = â¬4.615 bn**. Secondary: ~**â¬12.8 bn** NATO-path 2025 (press); SIPRI ~**$14.5 bn / ~2.0% GDP**. Core public good â procurement efficiency not crude cut.
 - Wrote: budgets; multi-year commitments; leaderboard; entity note; PDF raw; sources; rq_038=done; ticks=39
 - FOI: none
 - Next: rq_037 pro diesel or rq_039 interest expense
 
-### 2026-07-20T05:40:00Z — tick 40
+### 2026-07-20T05:40:00Z â tick 40
 - Unit: rq_037 (Professional diesel phase-out path)
-- Found: Refund rates **€0.1935/l (2024)** → **€0.1924 (2025)** → **€0.1913 (2026)** (slow). Peak path from **~€0.2476/l** (2020–21 class). **FPS taxex inventory 2024: €557.83 m**. **FPS FFS inventory 2026 (benchmark1): €831.2 m** professional diesel. **2021 revenue loss €905.8 m** (climat.be/FPS). Bonus same FFS table: **company cars €3,141.7 m (2024)** PIT+VAT+SSC official (supersedes 2.3bn secondary); fuel cards **€661.6 m**; total direct FFS **€10.78 bn (1.7% GDP)**.
+- Found: Refund rates **â¬0.1935/l (2024)** â **â¬0.1924 (2025)** â **â¬0.1913 (2026)** (slow). Peak path from **~â¬0.2476/l** (2020â21 class). **FPS taxex inventory 2024: â¬557.83 m**. **FPS FFS inventory 2026 (benchmark1): â¬831.2 m** professional diesel. **2021 revenue loss â¬905.8 m** (climat.be/FPS). Bonus same FFS table: **company cars â¬3,141.7 m (2024)** PIT+VAT+SSC official (supersedes 2.3bn secondary); fuel cards **â¬661.6 m**; total direct FFS **â¬10.78 bn (1.7% GDP)**.
 - Wrote: taxex multi-method pro diesel + FFS company cars/fuel cards/total; commitment phase-out; leaderboard updates; sources; PDF raw; FOI company cars deprioritised to components; rq_037=done; ticks=40
 - FOI: gap_company_cars components only (total answered)
 - Next: rq_039 interest expense (only open research left)
 
-### 2026-07-20T06:00:00Z — tick 41
+### 2026-07-20T06:00:00Z â tick 41
 - Unit: rq_039 (GG interest expense multi-year)
-- Found (NAI EDP Table 1, strong, Apr 2026): interest expense **€8.581 bn (2021)** → **€8.755 bn (2022)** → **€11.677 bn (2023)** → **€13.524 bn (2024)** → **€14.282 bn (2025)** = **2.2% GDP** last two years. Fourth consecutive absolute rise. Context: deficit **5.2% GDP**, debt **107.9% GDP** end-2025. **FPB:** federal Entity I interest **€12.3 bn** in 2026 initial budget. Not waste — cost of past deficits; fix is primary surplus.
-- Wrote: multi-year budgets 2021–25 + federal 2026; commitment; leaderboard; EDP PDF raw; source note; rq_039=done; queued rq_040–042; ticks=41
+- Found (NAI EDP Table 1, strong, Apr 2026): interest expense **â¬8.581 bn (2021)** â **â¬8.755 bn (2022)** â **â¬11.677 bn (2023)** â **â¬13.524 bn (2024)** â **â¬14.282 bn (2025)** = **2.2% GDP** last two years. Fourth consecutive absolute rise. Context: deficit **5.2% GDP**, debt **107.9% GDP** end-2025. **FPB:** federal Entity I interest **â¬12.3 bn** in 2026 initial budget. Not waste â cost of past deficits; fix is primary surplus.
+- Wrote: multi-year budgets 2021â25 + federal 2026; commitment; leaderboard; EDP PDF raw; source note; rq_039=done; queued rq_040â042; ticks=41
 - FOI: none
 - Next: rq_040 fuel cards FFS or rq_041 debt path
 
-### 2026-07-20T06:20:00Z — tick 42
+### 2026-07-20T06:20:00Z â tick 42
 - Unit: rq_040 (Fuel cards FFS multi-year)
-- Found (FPS FFS inventory 2026 Table 3, strong): **Fuel cards PIT+SSC** **€688.2 m (2021)** → **€1,119.3 m (2022 peak)** → **€852.8 m (2023)** → **€661.6 m (2024)** — decline attributed to **fleet electrification**. **VAT fuel cards €52.8 m (2024)**. **EV charging cards** rising **€20.8 → €59.4 m**. Full fuel+charge package **~€775 m (2024)**. Also filled **pro diesel FFS series** 1052/558/773/831 m 2021–24. Transport sector: fuel cards + pro diesel dominate direct FFS.
+- Found (FPS FFS inventory 2026 Table 3, strong): **Fuel cards PIT+SSC** **â¬688.2 m (2021)** â **â¬1,119.3 m (2022 peak)** â **â¬852.8 m (2023)** â **â¬661.6 m (2024)** â decline attributed to **fleet electrification**. **VAT fuel cards â¬52.8 m (2024)**. **EV charging cards** rising **â¬20.8 â â¬59.4 m**. Full fuel+charge package **~â¬775 m (2024)**. Also filled **pro diesel FFS series** 1052/558/773/831 m 2021â24. Transport sector: fuel cards + pro diesel dominate direct FFS.
 - Wrote: taxex multi-year fuel/charging/VAT; commitment; leaderboard; pro diesel FFS years; rq_040=done; ticks=42
 - FOI: none
 - Next: rq_041 debt path or rq_042 Flanders BO2026
 
-### 2026-07-20T06:40:00Z — tick 43
+### 2026-07-20T06:40:00Z â tick 43
 - Unit: rq_041 (GG debt path and snowball risk)
-- Found (strong): **NAI EDP Apr 2026** debt **107.9% GDP** end-2025 → **~€692.7 bn** (0.1079 × GDP €642.015 bn). Deficit **−5.2% GDP**; interest flow **€14.282 bn** (2.2% GDP). **NBB Jun 2026 projections** (cut-off 22 May 2026): debt **111.3% / 112.9% / 114.8%** for 2026–28 (~**115%** by 2028); deficit path **−5.2 → −5.3 → −5.5 → −5.7%**. **FPB Jun 2025** (older horizon): deficit **5.4% → 6.5% by 2030**; debt **~120% GDP by 2030**. Snowball: primary deficit persists while interest rises → ratio climbs; fix is **primary surplus**, not labelling debt as L5 waste.
-- Wrote: budgets debt stock+ratio path+deficit; commitment cmt_gg_debt_path; leaderboard lb_gg_debt_stock; entity gg_debt; sources NBB/FPB; rq_041=done; queued rq_043–044; ticks=43
+- Found (strong): **NAI EDP Apr 2026** debt **107.9% GDP** end-2025 â **~â¬692.7 bn** (0.1079 Ã GDP â¬642.015 bn). Deficit **â5.2% GDP**; interest flow **â¬14.282 bn** (2.2% GDP). **NBB Jun 2026 projections** (cut-off 22 May 2026): debt **111.3% / 112.9% / 114.8%** for 2026â28 (~**115%** by 2028); deficit path **â5.2 â â5.3 â â5.5 â â5.7%**. **FPB Jun 2025** (older horizon): deficit **5.4% â 6.5% by 2030**; debt **~120% GDP by 2030**. Snowball: primary deficit persists while interest rises â ratio climbs; fix is **primary surplus**, not labelling debt as L5 waste.
+- Wrote: budgets debt stock+ratio path+deficit; commitment cmt_gg_debt_path; leaderboard lb_gg_debt_stock; entity gg_debt; sources NBB/FPB; rq_041=done; queued rq_043â044; ticks=43
 - FOI: none
 - Next: rq_042 Flanders BO2026 confirm or rq_043 Debt Agency EUR stock
 
-### 2026-07-20T07:00:00Z — tick 44
+### 2026-07-20T07:00:00Z â tick 44
 - Unit: rq_042 (Flanders total expenditure BO2026 confirm)
-- Found (strong): **DFB official page + parliament vote (Jan 2026):** BO2026 uitgaven **€66.0 bn**; **OV+WVG = 58%**. **Evaluatierapport:** consolidated **VEK €66.03 bn** (BA2025 **€66.47 bn**; constant-policy would be **€67.05 bn** → measures cut **~€1.01 bn**); **VAK €64.75 bn**. **Receipts €61.6 bn**; **ESR saldo −€2.9 bn** (−€1.7 bn after doelstelling corrections). Deltas: index **+€718.9 m**; VV **+€370.9 m**; rente **+€323.5 m**; retro premie **−€301.6 m**; subsidies **−€210 m**. Entity rank #4 reconfirmed (budgeted, not ESA TE).
+- Found (strong): **DFB official page + parliament vote (Jan 2026):** BO2026 uitgaven **â¬66.0 bn**; **OV+WVG = 58%**. **Evaluatierapport:** consolidated **VEK â¬66.03 bn** (BA2025 **â¬66.47 bn**; constant-policy would be **â¬67.05 bn** â measures cut **~â¬1.01 bn**); **VAK â¬64.75 bn**. **Receipts â¬61.6 bn**; **ESR saldo ââ¬2.9 bn** (ââ¬1.7 bn after doelstelling corrections). Deltas: index **+â¬718.9 m**; VV **+â¬370.9 m**; rente **+â¬323.5 m**; retro premie **ââ¬301.6 m**; subsidies **ââ¬210 m**. Entity rank #4 reconfirmed (budgeted, not ESA TE).
 - Wrote: multi-year budgets; commitment; programmes final VEK; entity/rank notes; sources; rq_042=done; queued rq_045 BA2026; ticks=44
 - FOI: none
 - Next: rq_043 Debt Agency stock or rq_044 primary balance gap
 
-### 2026-07-20T07:20:00Z — tick 45
+### 2026-07-20T07:20:00Z â tick 45
 - Unit: rq_043 (Federal Debt Agency Entity I stock)
-- Found (BDA Review 2025/Outlook 2026 PDF, strong): federal gross debt **€518.68 bn (end-2024)** → **€552.69 bn (end-2025)** **+€34.0 bn**. Composition end-2025: **OLO €462.8 bn**; TC **€42.9 bn**. **Avg life 10.38 → 9.98 years**; duration **8.43 → 7.27 y**; fixed rate **87.4%**; 12m refinancing risk **15.64%** (cap 17.5%); financial cost at issuance (EUR) **2.01%**. Gross borrow 2025 **€53.31 bn** / net **€28.35 bn**. Plan 2026: gross **€59.55 bn** / net **€26.37 bn** / OLO issue **€51.60 bn**. Live BDA site (medium): **€567.615 bn** on **2026-06-30**. Perimeter: federal BDA **~80%** of GG ESA **€692.7 bn** — do not double-count.
+- Found (BDA Review 2025/Outlook 2026 PDF, strong): federal gross debt **â¬518.68 bn (end-2024)** â **â¬552.69 bn (end-2025)** **+â¬34.0 bn**. Composition end-2025: **OLO â¬462.8 bn**; TC **â¬42.9 bn**. **Avg life 10.38 â 9.98 years**; duration **8.43 â 7.27 y**; fixed rate **87.4%**; 12m refinancing risk **15.64%** (cap 17.5%); financial cost at issuance (EUR) **2.01%**. Gross borrow 2025 **â¬53.31 bn** / net **â¬28.35 bn**. Plan 2026: gross **â¬59.55 bn** / net **â¬26.37 bn** / OLO issue **â¬51.60 bn**. Live BDA site (medium): **â¬567.615 bn** on **2026-06-30**. Perimeter: federal BDA **~80%** of GG ESA **â¬692.7 bn** â do not double-count.
 - Wrote: budgets multi-year + OLO/TC/borrow; commitment; entity debt_agency_be; leaderboard; sources + raw PDF; rq_043=done; ticks=45
 - FOI: none
 - Next: rq_044 primary balance gap or rq_045 Flanders BA2026
 
-### 2026-07-20T07:40:00Z — tick 46
+### 2026-07-20T07:40:00Z â tick 46
 - Unit: rq_044 (Primary balance path vs debt-stabilising)
-- Found (strong): **NBB Jun 2026 projections** primary balance **−2.9% / −2.8% / −2.7% / −2.7%** GDP for **2025–28** while overall deficit widens **−5.2 → −5.7%** (interest wedge growing). Debt **107.9 → 114.8%**. **IMF Art IV 2025**: primary ~**3.1 ppt of GDP below** debt-stabilising primary of **+0.3% GDP** → gap ≈ **€19.9 bn** (0.031 × GDP €642.0 bn). **NBB Review 2025/11**: snowball = (r−g)×debt − primary; with **r>g** and primary deficit, debt path explosive unless primary improves. **EC/MTFSP**: planned structural primary improvement **+2.4 pp 2025–29** — delivery still open. Not L5 waste: the DOGE north star for fiscal math.
+- Found (strong): **NBB Jun 2026 projections** primary balance **â2.9% / â2.8% / â2.7% / â2.7%** GDP for **2025â28** while overall deficit widens **â5.2 â â5.7%** (interest wedge growing). Debt **107.9 â 114.8%**. **IMF Art IV 2025**: primary ~**3.1 ppt of GDP below** debt-stabilising primary of **+0.3% GDP** â gap â **â¬19.9 bn** (0.031 Ã GDP â¬642.0 bn). **NBB Review 2025/11**: snowball = (râg)Ãdebt â primary; with **r>g** and primary deficit, debt path explosive unless primary improves. **EC/MTFSP**: planned structural primary improvement **+2.4 pp 2025â29** â delivery still open. Not L5 waste: the DOGE north star for fiscal math.
 - Wrote: primary multi-year budgets; gap estimate; commitment; leaderboard lb_primary_gap; sources + NBB PDF; rq_044=done; queued rq_046 MTFSP; ticks=46
 - FOI: none
 - Next: rq_045 Flanders BA2026 or rq_046 MTFSP path
 
-### 2026-07-20T08:00:00Z — tick 47
+### 2026-07-20T08:00:00Z â tick 47
 - Unit: rq_045 (Flanders BA2026 adaptation)
-- Found (Rekenhof Jun 2026 + Vlaams Parlement, strong): BA2026 ESR **ontvangsten €62.2 bn** / **uitgaven €67.1 bn** → **vorderingensaldo −€3.6 bn** (BO was −€2.9 bn). Vs begrotingsdoelstelling (excl Oosterweel+relance): **−€2.18 bn** (was −€1.7 bn). Deltas vs BO: VEK **+€1.081 bn**, VAK **+€3.034 bn** (Lantis/Oosterweel VAK **+€2.514 bn**); index VEK **+€324.5 m**; Fluvius VEK **€1.1 bn**. OV **€20.2 bn VEK** / WVG **€17.8 bn VEK**. Schuld **+€6.8 bn** (+13.5% y/y); rating AA-. Entity rank #4 updated to **€67.1 bn**.
+- Found (Rekenhof Jun 2026 + Vlaams Parlement, strong): BA2026 ESR **ontvangsten â¬62.2 bn** / **uitgaven â¬67.1 bn** â **vorderingensaldo ââ¬3.6 bn** (BO was ââ¬2.9 bn). Vs begrotingsdoelstelling (excl Oosterweel+relance): **ââ¬2.18 bn** (was ââ¬1.7 bn). Deltas vs BO: VEK **+â¬1.081 bn**, VAK **+â¬3.034 bn** (Lantis/Oosterweel VAK **+â¬2.514 bn**); index VEK **+â¬324.5 m**; Fluvius VEK **â¬1.1 bn**. OV **â¬20.2 bn VEK** / WVG **â¬17.8 bn VEK**. Schuld **+â¬6.8 bn** (+13.5% y/y); rating AA-. Entity rank #4 updated to **â¬67.1 bn**.
 - Wrote: budgets BA lines; commitment supersede; programmes OV/WVG/total; rank+entity; sources + raw PDFs; rq_045=done; queued rq_047 VL debt; ticks=47
 - FOI: none
 - Next: rq_046 MTFSP or rq_047 Flanders debt stock
 
-### 2026-07-20T08:20:00Z — tick 48
+### 2026-07-20T08:20:00Z â tick 48
 - Unit: rq_046 (Belgium MTFSP structural primary + net expenditure path)
-- Found (official MTFSP PDF + Council rec Jun 2025, strong): **Structural primary balance** plan **−1.8 → −1.2 → −0.7 → 0.0 → +0.6% GDP (2025–29)** = **+2.4 pp** (matches EC country-report phrasing). **Net nationally financed primary expenditure growth**: **3.6 / 2.5 / 2.5 / 2.1 / 2.1%** → **5y avg 2.56%** (EC ref 2.53%). **Deficit path** to **−3.0% GDP by 2029**; plan debt peaks **107.3%** then **106.7%** — **actual 2025 already 107.9%** and NBB primary **−2.9%** worse than plan **−2.4%**. 7-year adjustment; Entity I/II split deferred (Overlegcomité Mar 2025 commitment). Delivery risk is the DOGE angle — not a waste line.
+- Found (official MTFSP PDF + Council rec Jun 2025, strong): **Structural primary balance** plan **â1.8 â â1.2 â â0.7 â 0.0 â +0.6% GDP (2025â29)** = **+2.4 pp** (matches EC country-report phrasing). **Net nationally financed primary expenditure growth**: **3.6 / 2.5 / 2.5 / 2.1 / 2.1%** â **5y avg 2.56%** (EC ref 2.53%). **Deficit path** to **â3.0% GDP by 2029**; plan debt peaks **107.3%** then **106.7%** â **actual 2025 already 107.9%** and NBB primary **â2.9%** worse than plan **â2.4%**. 7-year adjustment; Entity I/II split deferred (OverlegcomitÃ© Mar 2025 commitment). Delivery risk is the DOGE angle â not a waste line.
 - Wrote: MTFSP budget rows; commitment cmt_be_mtfsp; leaderboard; sources + PDFs; rq_046=done; queued rq_048 Entity split; ticks=48
 - FOI: none
 - Next: rq_047 Flanders debt stock or rq_048 Entity I/II split
 
-### 2026-07-20T08:40:00Z — tick 49
+### 2026-07-20T08:40:00Z â tick 49
 - Unit: rq_047 (Flanders consolidated Maastricht debt path)
-- Found (Rekenhof Table 14, strong): consolidated Maastricht debt **€50.172 bn (end-2025)** → **€56.552 bn (BO2026)** → **€56.971 bn (BA2026)** = **+€6.799 bn / +13.5%** y/y. **Direct MVG debt** **€42.397 → €49.802 bn** (+€7.405 bn). Components BA2026: consolidated entities financial **€7.17 bn**; PPS **€0.64 bn**; green certs **€0.55 bn**; intra/inter-sector holdings corrections **−€11.38 bn**. Debt/receipts **91.6%** (old schuldnorm target **<65%**). Netto-actief end-2024 **−€13.3 bn**. Ratings: Fitch **AA-** (stable); S&P **AA-**; Moody’s **A1**. Drivers: deficit, Oosterweel, relance, ESR 8/9 (Fluvius, social housing…). Non-Maastricht federal claims: hospital infra **€2.184 bn** + autonomiefactor **€0.474 bn** (not in stock).
+- Found (Rekenhof Table 14, strong): consolidated Maastricht debt **â¬50.172 bn (end-2025)** â **â¬56.552 bn (BO2026)** â **â¬56.971 bn (BA2026)** = **+â¬6.799 bn / +13.5%** y/y. **Direct MVG debt** **â¬42.397 â â¬49.802 bn** (+â¬7.405 bn). Components BA2026: consolidated entities financial **â¬7.17 bn**; PPS **â¬0.64 bn**; green certs **â¬0.55 bn**; intra/inter-sector holdings corrections **ââ¬11.38 bn**. Debt/receipts **91.6%** (old schuldnorm target **<65%**). Netto-actief end-2024 **ââ¬13.3 bn**. Ratings: Fitch **AA-** (stable); S&P **AA-**; Moodyâs **A1**. Drivers: deficit, Oosterweel, relance, ESR 8/9 (Fluvius, social housingâ¦). Non-Maastricht federal claims: hospital infra **â¬2.184 bn** + autonomiefactor **â¬0.474 bn** (not in stock).
 - Wrote: multi-year debt budgets; commitment; leaderboard; entity note; rq_047=done; queued rq_049 non-Maastricht claims; ticks=49
 - FOI: none
 - Next: rq_048 Entity I/II MTFSP split
 
-### 2026-07-20T09:00:00Z — tick 50
+### 2026-07-20T09:00:00Z â tick 50
 - Unit: rq_048 (Entity I vs II MTFSP effort split)
-- Found (strong): **MTFSP Mar 2025** deferred Entity I/II split. **HRF Apr 2025** (recalc of Jul 2024): **verdeelsleutel 3** = share of (final primary expenditure + own receipts) — preferred key. Differentiated **max net primary exp growth %** (7y path): **Entity I avg 2.72%** (2025 **3.81%**, 2026 **2.96%**); **Flanders 2.68%** (3.63 / 2.17); **FWB 1.52%**; **Wallonia 1.45%**; **Brussels −0.22%** (very tight); **DG negative**. **Overlegcomité Mar 2026** SWA: uses sleutel 3 for current plan; **fallback binding targets** if no agreement; control accounts via HRF; **defence national escape clause fully to federal** (Rekenhof/APR). GG outturn path still **3.8% / 2.0%** net exp 2025–26 (cumul 5.9% < 6.1% cap, APR). Parliaments still ratifying SWA.
+- Found (strong): **MTFSP Mar 2025** deferred Entity I/II split. **HRF Apr 2025** (recalc of Jul 2024): **verdeelsleutel 3** = share of (final primary expenditure + own receipts) â preferred key. Differentiated **max net primary exp growth %** (7y path): **Entity I avg 2.72%** (2025 **3.81%**, 2026 **2.96%**); **Flanders 2.68%** (3.63 / 2.17); **FWB 1.52%**; **Wallonia 1.45%**; **Brussels â0.22%** (very tight); **DG negative**. **OverlegcomitÃ© Mar 2026** SWA: uses sleutel 3 for current plan; **fallback binding targets** if no agreement; control accounts via HRF; **defence national escape clause fully to federal** (Rekenhof/APR). GG outturn path still **3.8% / 2.0%** net exp 2025â26 (cumul 5.9% < 6.1% cap, APR). Parliaments still ratifying SWA.
 - Wrote: entity growth-cap budgets; commitment; leaderboard; sources + HRF/APR PDFs; rq_048=done; queued rq_050 ratification; ticks=50
 - FOI: none (method+caps public)
 - Next: rq_049 Flanders non-Maastricht claims or rq_050 SWA ratification
 
-### 2026-07-20T09:20:00Z — tick 51
+### 2026-07-20T09:20:00Z â tick 51
 - Unit: rq_049 (Flanders non-Maastricht federal claims)
-- Found (Rekenhof BA2026 §5.1, strong): Flanders owes federal government **€2.1843 bn** (ziekenhuisinfrastructuur) + **€473.8 m** (definitieve vaststelling **autonomiefactor**) = **€2.658 bn** total. **Excluded from Maastricht** consolidated debt (€56.97 bn). Rekenhof: these stocks are **no longer reported in de algemene toelichting**; recommends Vlaams Parlement be kept informed. Multi-year amortisation cash-by-year **not public** this tick → FOI.
+- Found (Rekenhof BA2026 Â§5.1, strong): Flanders owes federal government **â¬2.1843 bn** (ziekenhuisinfrastructuur) + **â¬473.8 m** (definitieve vaststelling **autonomiefactor**) = **â¬2.658 bn** total. **Excluded from Maastricht** consolidated debt (â¬56.97 bn). Rekenhof: these stocks are **no longer reported in de algemene toelichting**; recommends Vlaams Parlement be kept informed. Multi-year amortisation cash-by-year **not public** this tick â FOI.
 - Wrote: three budget rows; commitment; leaderboard; FOI gap_vl_non_maastricht_claims **ready** (not sent); rq_049=done; ticks=51
-- FOI: gap_vl_non_maastricht_claims ready — human send only
+- FOI: gap_vl_non_maastricht_claims ready â human send only
 - Next: rq_050 SWA ratification / control accounts
 
-### 2026-07-20T09:40:00Z — tick 52
+### 2026-07-20T09:40:00Z â tick 52
 - Unit: rq_050 (SWA ratification + Entity control accounts)
-- Found (strong/medium): **SWA timeline** — Overlegcomité **27 Mar 2026** draft economic-governance SWA (replaces **13 Dec 2013**); **Flanders government 8 May 2026** principal OK + draft assent decree → SERV/RvS; **federal Ministerraad 13 May 2026** draft assent law (secondary reports); **SERV advice Jun 2026**; Rekenhof Jun 2026: still needs each entity government + **parliament** assent — **full multi-parliament ratification not confirmed** this tick. **Entity I control account** (Kamer 56K1468, budget-basis approx): net exp **€190.3 bn (2025) / €196.9 bn (2026)**; growth **4.6% / 2.3%** vs HRF **3.81% / 2.96%**; annual deviation **+€1.5 / −€1.3 bn**; cumul after defence flex **−0.30% / −0.71% GDP** (under norm). Official HRF multi-entity public ledgers not yet a complete published suite.
-- Wrote: Entity I net-exp + control budgets; commitment/leaderboard update; sources + Kamer PDF; rq_050=done; queued rq_051–052; ticks=52
+- Found (strong/medium): **SWA timeline** â OverlegcomitÃ© **27 Mar 2026** draft economic-governance SWA (replaces **13 Dec 2013**); **Flanders government 8 May 2026** principal OK + draft assent decree â SERV/RvS; **federal Ministerraad 13 May 2026** draft assent law (secondary reports); **SERV advice Jun 2026**; Rekenhof Jun 2026: still needs each entity government + **parliament** assent â **full multi-parliament ratification not confirmed** this tick. **Entity I control account** (Kamer 56K1468, budget-basis approx): net exp **â¬190.3 bn (2025) / â¬196.9 bn (2026)**; growth **4.6% / 2.3%** vs HRF **3.81% / 2.96%**; annual deviation **+â¬1.5 / ââ¬1.3 bn**; cumul after defence flex **â0.30% / â0.71% GDP** (under norm). Official HRF multi-entity public ledgers not yet a complete published suite.
+- Wrote: Entity I net-exp + control budgets; commitment/leaderboard update; sources + Kamer PDF; rq_050=done; queued rq_051â052; ticks=52
 - FOI: none
 - Next: rq_052 Flanders net-exp vs 2.17% cap (prio 4) or rq_051 regional SWA assent
 
-### 2026-07-20T10:00:00Z — tick 53
+### 2026-07-20T10:00:00Z â tick 53
 - Unit: rq_052 (Flanders HRF net-exp compliance vs 2.17% cap)
-- Found (BO2026 Algemene Toelichting Table 10 via eval/SERV, strong): HRF-concept **finale primaire uitgaven €63.047 bn (2025) / €62.106 bn (2026)**; **netto-uitgaven €62.036 / €61.296 bn**; after DRM **€60.761 bn (2026)**; **growth −2.1%** vs **HRF sleutel 3 cap +2.17%** → **margin −4.23 pp** (clearly **compliant** at BO). SERV: “lijkt te voldoen”. **BA2026 (Rekenhof)**: calculation in Ch.VI still cited but **not on final BA numbers** (uses DBP/process estimates; admin lacks APR microdata) — method lag, not a re-computed growth % this tick. Do not invent BA growth.
+- Found (BO2026 Algemene Toelichting Table 10 via eval/SERV, strong): HRF-concept **finale primaire uitgaven â¬63.047 bn (2025) / â¬62.106 bn (2026)**; **netto-uitgaven â¬62.036 / â¬61.296 bn**; after DRM **â¬60.761 bn (2026)**; **growth â2.1%** vs **HRF sleutel 3 cap +2.17%** â **margin â4.23 pp** (clearly **compliant** at BO). SERV: âlijkt te voldoenâ. **BA2026 (Rekenhof)**: calculation in Ch.VI still cited but **not on final BA numbers** (uses DBP/process estimates; admin lacks APR microdata) â method lag, not a re-computed growth % this tick. Do not invent BA growth.
 - Wrote: net-exp stock + growth budgets; commitment; leaderboard; source + eval PDF; rq_052=done; queued rq_053 Wallonia 2026; ticks=53
 - FOI: none
 - Next: rq_053 Wallonia 2026 total (prio 5) or rq_051 regional SWA assent
 
-### 2026-07-20T10:20:00Z — tick 54
+### 2026-07-20T10:20:00Z â tick 54
 - Unit: rq_053 (Wallonia total expenditure 2026 initial)
-- Found (ExpGen budget initial 2026 official PDF, strong): **dépenses €21.335748 bn** (was €22.029416 bn 2025 init, **−€694 m**); **recettes €18.515734 bn**; **solde brut −€2.820 bn**; **solde SEC −€2.015736 bn** (path −2.015 / −1.124 / −0.600 / +0.039 bn 2026–29). Structural savings **€270.4 m**. Net primary exp **€19.463 → €19.056 bn** growth **−2.09%** vs CSF key cap **+0.92%** (~3 pp under, indicative). Entity rank #8 updated to 2026 envelope.
+- Found (ExpGen budget initial 2026 official PDF, strong): **dÃ©penses â¬21.335748 bn** (was â¬22.029416 bn 2025 init, **ââ¬694 m**); **recettes â¬18.515734 bn**; **solde brut ââ¬2.820 bn**; **solde SEC ââ¬2.015736 bn** (path â2.015 / â1.124 / â0.600 / +0.039 bn 2026â29). Structural savings **â¬270.4 m**. Net primary exp **â¬19.463 â â¬19.056 bn** growth **â2.09%** vs CSF key cap **+0.92%** (~3 pp under, indicative). Entity rank #8 updated to 2026 envelope.
 - Wrote: budgets multi-line; commitment; entity+rank; sources + PDF; rq_053=done; queued rq_054 FWB; ticks=54
 - FOI: none
 - Next: rq_054 FWB total or rq_051 regional SWA assent
 
-### 2026-07-20T10:40:00Z — tick 55
+### 2026-07-20T10:40:00Z â tick 55
 - Unit: rq_054 (FWB total expenditure 2026 primary source)
-- Found (DGBF éléments-clés official, strong): **initial 2026** recettes **€13.602 bn** / dépenses liquidation **€15.406879 bn** / solde brut **−€1.667 bn** / **SEC −€1.608 bn**. Breakdown: Education-Recherche-Formation **€10.929 bn**; Santé-Culture-Sport **€2.325 bn**; Services généraux **€1.185 bn**; dette publique **€0.393 bn**; dotations RW/COCOF **€0.575 bn**. Multiyear SEC path **−1.608 / −1.405 / −1.390 / −1.224 bn** (2026–29). **Adjusted 2026** (gov press 30 Apr): recettes **€13.67 bn** / dépenses **€15.59 bn** / deficit **€1.77 bn** (+€160 m vs initial 1.61). Supersedes medium ~€15 bn press estimate. Entity rank #9 updated strong.
+- Found (DGBF Ã©lÃ©ments-clÃ©s official, strong): **initial 2026** recettes **â¬13.602 bn** / dÃ©penses liquidation **â¬15.406879 bn** / solde brut **ââ¬1.667 bn** / **SEC ââ¬1.608 bn**. Breakdown: Education-Recherche-Formation **â¬10.929 bn**; SantÃ©-Culture-Sport **â¬2.325 bn**; Services gÃ©nÃ©raux **â¬1.185 bn**; dette publique **â¬0.393 bn**; dotations RW/COCOF **â¬0.575 bn**. Multiyear SEC path **â1.608 / â1.405 / â1.390 / â1.224 bn** (2026â29). **Adjusted 2026** (gov press 30 Apr): recettes **â¬13.67 bn** / dÃ©penses **â¬15.59 bn** / deficit **â¬1.77 bn** (+â¬160 m vs initial 1.61). Supersedes medium ~â¬15 bn press estimate. Entity rank #9 updated strong.
 - Wrote: budgets init+adj+edu; commitment; entity+rank; sources; rq_054=done; queued rq_055 Brussels; ticks=55
 - FOI: none
 - Next: rq_055 Brussels total or rq_051 regional SWA assent
 
-### 2026-07-20T11:00:00Z — tick 56
+### 2026-07-20T11:00:00Z â tick 56
 - Unit: rq_055 (Brussels region 2026 total vs SGRBC 8bn)
-- Found (Cour des comptes Budgets RBC 2026, strong): reconfirmed **SGRBC crédits liquidation €8.0 bn** / **engagement €8.9 bn** (+1.2% / +6.0% vs crédits provisoires 2025). **Solde financement SEC** entité régionale **−€956.6 m** (gov; Cour content-diff **−€978.2 m**). **Solde net à financer** SGRBC **−€1.746 bn**. **Dette consolidée ~€16.1 bn** end-2025 (+€3.5 bn 2023–25); direct LT **€13.4 bn**; path cap +€3 bn to **>€19.1 bn** by 2029. Top lines: **STIB €1.168 bn**; Actiris **€648 m**; commissions communautaires **€692 m**; dettes service **€728 m** liq. HRF net primary path for BCR **−0.61% 2026** not reported in exposé → rq_056. Dual perimeter: SGRBC 8.0bn ≠ press “7.6/6.6 bn” manoeuvrable figures.
+- Found (Cour des comptes Budgets RBC 2026, strong): reconfirmed **SGRBC crÃ©dits liquidation â¬8.0 bn** / **engagement â¬8.9 bn** (+1.2% / +6.0% vs crÃ©dits provisoires 2025). **Solde financement SEC** entitÃ© rÃ©gionale **ââ¬956.6 m** (gov; Cour content-diff **ââ¬978.2 m**). **Solde net Ã  financer** SGRBC **ââ¬1.746 bn**. **Dette consolidÃ©e ~â¬16.1 bn** end-2025 (+â¬3.5 bn 2023â25); direct LT **â¬13.4 bn**; path cap +â¬3 bn to **>â¬19.1 bn** by 2029. Top lines: **STIB â¬1.168 bn**; Actiris **â¬648 m**; commissions communautaires **â¬692 m**; dettes service **â¬728 m** liq. HRF net primary path for BCR **â0.61% 2026** not reported in exposÃ© â rq_056. Dual perimeter: SGRBC 8.0bn â  press â7.6/6.6 bnâ manoeuvrable figures.
 - Wrote: SEC/debt/net-financer budgets; commitment; entity+rank notes; source update + PDF; rq_055=done; queued rq_056; ticks=56
 - FOI: none
 - Next: rq_056 Brussels net-exp vs HRF or rq_051 regional SWA assent
 
-### 2026-07-20T11:20:00Z — tick 57
-- Unit: rq_056 (Brussels net primary exp vs HRF −0.61%)
-- Found (strong): **HRF Apr 2025** BCR (+locals) net primary growth caps: **+2.03% (2025)** / **−0.61% (2026)** / avg **−0.22% (2025–31)** — tightest large entity path. **Cour des comptes Budgets RBC 2026**: exposé confirms multi-year spending cuts narrative but **does not publish** the EU/HRF **dépenses primaires nettes** growth rate — compliance **cannot be scored** from public budget tables alone. **SGRBC liquidation +1.2%** (Cour) is a **different metric** (gross credits) — not a substitute for net-primary compliance (do not invent a verdict). FOI for official calculation.
+### 2026-07-20T11:20:00Z â tick 57
+- Unit: rq_056 (Brussels net primary exp vs HRF â0.61%)
+- Found (strong): **HRF Apr 2025** BCR (+locals) net primary growth caps: **+2.03% (2025)** / **â0.61% (2026)** / avg **â0.22% (2025â31)** â tightest large entity path. **Cour des comptes Budgets RBC 2026**: exposÃ© confirms multi-year spending cuts narrative but **does not publish** the EU/HRF **dÃ©penses primaires nettes** growth rate â compliance **cannot be scored** from public budget tables alone. **SGRBC liquidation +1.2%** (Cour) is a **different metric** (gross credits) â not a substitute for net-primary compliance (do not invent a verdict). FOI for official calculation.
 - Wrote: HRF cap budgets; leaderboard opacity; commitment note; FOI gap_bru_net_primary **ready**; rq_056=done; queued rq_057 STIB multi-year; ticks=57
 - FOI: gap_bru_net_primary ready (not sent)
 - Next: rq_057 STIB multi-year or rq_051 regional SWA assent
 
-### 2026-07-20T11:40:00Z — tick 58
+### 2026-07-20T11:40:00Z â tick 58
 - Unit: rq_057 (STIB multi-year regional financing)
-- Found (strong): **Regional programme 42.112** budget 2026 **€1.167619 bn** (+€51.3 m vs 2025 provisional). **STIB statutory accounts — Intervention RBC fonctionnement**: **€546.1 m (2023)** → **€633.1 m (2024)** → **€642.5 m (2025)** (not equal to full 42.112 package). **Capital grants** recognized **€348.9 m (2025)**. **Investment programme** executed **€475 m (2024)** / **€427.4 m (2025)**; **PPI path** **€591.5 / 666.1 / 768.6 / 724.4 m (2026–29)** but Cour: must cut **€964.6 m** vs STIB 2025 PPI plan (Metro 3 + other arbitrages). Compare De Lijn: still **~€1.14 bn class medium** + FOI gap_de_lijn_dotatie. Dual perimeter: company opex intervention ≠ regional budget line.
+- Found (strong): **Regional programme 42.112** budget 2026 **â¬1.167619 bn** (+â¬51.3 m vs 2025 provisional). **STIB statutory accounts â Intervention RBC fonctionnement**: **â¬546.1 m (2023)** â **â¬633.1 m (2024)** â **â¬642.5 m (2025)** (not equal to full 42.112 package). **Capital grants** recognized **â¬348.9 m (2025)**. **Investment programme** executed **â¬475 m (2024)** / **â¬427.4 m (2025)**; **PPI path** **â¬591.5 / 666.1 / 768.6 / 724.4 m (2026â29)** but Cour: must cut **â¬964.6 m** vs STIB 2025 PPI plan (Metro 3 + other arbitrages). Compare De Lijn: still **~â¬1.14 bn class medium** + FOI gap_de_lijn_dotatie. Dual perimeter: company opex intervention â  regional budget line.
 - Wrote: multi-year opex/invest/PPI budgets; commitment; leaderboard; sources + STIB PDFs; entity note; rq_057=done; queued rq_058 TEC; ticks=58
 - FOI: none new
 - Next: rq_058 TEC multi-year or rq_051 regional SWA assent
 
-### 2026-07-20T12:00:00Z — tick 59
+### 2026-07-20T12:00:00Z â tick 59
 - Unit: rq_058 (TEC/OTW Wallonia multi-year subsidy)
-- Found (strong dual-perimeter): **Minister Henry PQ 596** (Apr 2024): OTW **financing €960 m (2024)** → **€1.003 bn (2028)** indexation; **+€200 m** step 2023→24; **invest plan €1.586 bn (2024–28)**. **Cour des comptes RW BI2025**: OTW **company recettes €1.088.8 m / dépenses €1.200.6 m**; SEC recettes €1.018.4 m / solde **−€139.4 m**; regional **programme 14.045** CL **€813.7 m (2024) → €861.1 m (2025)**. **Dolimont** official: **+€45 m 2025 vs 2024 hors PRW** (corrects earlier “cut” mislabel). **Desquesnes CSP note Dec 2025**: rewrite 2026–29; coverage **10%→≥14% by 2030**; internal savings **€20 m by 2029**; TàD **€22 m 2028–29**. Absolute AB cash series 2023–26 + 2026 CSP socle still incomplete → FOI.
+- Found (strong dual-perimeter): **Minister Henry PQ 596** (Apr 2024): OTW **financing â¬960 m (2024)** â **â¬1.003 bn (2028)** indexation; **+â¬200 m** step 2023â24; **invest plan â¬1.586 bn (2024â28)**. **Cour des comptes RW BI2025**: OTW **company recettes â¬1.088.8 m / dÃ©penses â¬1.200.6 m**; SEC recettes â¬1.018.4 m / solde **ââ¬139.4 m**; regional **programme 14.045** CL **â¬813.7 m (2024) â â¬861.1 m (2025)**. **Dolimont** official: **+â¬45 m 2025 vs 2024 hors PRW** (corrects earlier âcutâ mislabel). **Desquesnes CSP note Dec 2025**: rewrite 2026â29; coverage **10%ââ¥14% by 2030**; internal savings **â¬20 m by 2029**; TÃ D **â¬22 m 2028â29**. Absolute AB cash series 2023â26 + 2026 CSP socle still incomplete â FOI.
 - Wrote: entity `tec`; 14 budget rows; commitment multi-year; fixed cmt_tec +45m; leaderboard; 4 sources + Cour PDF raw; rq_058=done; ticks=59
 - FOI: gap_otw_dotatie_cash **ready** (not sent)
 - Next: rq_051 Wallonia/FWB/Brussels SWA assent
 
-### 2026-07-20T12:15:00Z — tick 60
+### 2026-07-20T12:15:00Z â tick 60
 - Unit: rq_051 (Wallonia / FWB / Brussels SWA economic-governance assent)
-- Found (strong government track; weak final votes): **Overlegcomité 27 Mar 2026** closed multi-entity SWA (replaces 2013). **FWB gouvernement 30 Apr 2026** ODJ point 14: **1st reading** avant-projet décret assentiment (Doc 1589). **Wallonie GW 13 May 2026** ODJ B5: **1st reading** avant-projets décrets assentiment (Doc 2760). **Federal Ministerraad 13 May 2026**: avant-projet de **loi** assentiment approved (Van Peteghem). **Flanders** 8 May principal + SERV advice **1 Jun 2026**. **PFWB commission** (Degryse): all entities agreed text; legislative path aimed **summer multi-parliament**; uses **HRF mixte clé**; WAL/FWB may split shared norm; default future key 50/50 CSF+BE. **Dolimont PQ 30 Mar** still pre-deal (negotiation). **Brussels** government/parliament public assent dossier **not found** this tick. **No final adopted assent law/decree** found for any parliament as of tick.
+- Found (strong government track; weak final votes): **OverlegcomitÃ© 27 Mar 2026** closed multi-entity SWA (replaces 2013). **FWB gouvernement 30 Apr 2026** ODJ point 14: **1st reading** avant-projet dÃ©cret assentiment (Doc 1589). **Wallonie GW 13 May 2026** ODJ B5: **1st reading** avant-projets dÃ©crets assentiment (Doc 2760). **Federal Ministerraad 13 May 2026**: avant-projet de **loi** assentiment approved (Van Peteghem). **Flanders** 8 May principal + SERV advice **1 Jun 2026**. **PFWB commission** (Degryse): all entities agreed text; legislative path aimed **summer multi-parliament**; uses **HRF mixte clÃ©**; WAL/FWB may split shared norm; default future key 50/50 CSF+BE. **Dolimont PQ 30 Mar** still pre-deal (negotiation). **Brussels** government/parliament public assent dossier **not found** this tick. **No final adopted assent law/decree** found for any parliament as of tick.
 - Wrote: sources (+5) + raw PDFs; updated commitment/leaderboard; rq_051=done; seeded rq_059 final votes + rq_060 WAL net-exp; ticks=60
 - FOI: none (legislative process opacity, not a cash FOI)
 - Next: rq_060 Wallonia net-primary vs HRF or rq_059 final SWA votes
 
-### 2026-07-20T12:30:00Z — tick 61
+### 2026-07-20T12:30:00Z â tick 61
 - Unit: rq_060 (Wallonia net primary exp vs HRF)
-- Found (strong): **HRF Apr 2025 sleutel 3** Waals Gewest (+locals): max net primary growth **2.65% (2025) / 0.92% (2026)** / avg **1.45% (2025–31)**. **ExpGen BI2026 Table 3**: dépenses primaires nettes **€19.463 bn (2025) → €19.056 bn (2026)**; growth **−2.09%** vs norme CSF/HRF **+0.92%** → **margin −3.01 pp** (clearly **compliant** / under cap). Breakdown: total exp 20.973→20.694; −interest −EU −cofin −DRM −one-off. ExpGen noted key still uncertain at budget drafting (pre-SWA); post-tick-60 SWA confirms mixte HRF key applies. Parallel Flanders BO: −2.1% vs 2.17% cap; Brussels still FOI opaque.
+- Found (strong): **HRF Apr 2025 sleutel 3** Waals Gewest (+locals): max net primary growth **2.65% (2025) / 0.92% (2026)** / avg **1.45% (2025â31)**. **ExpGen BI2026 Table 3**: dÃ©penses primaires nettes **â¬19.463 bn (2025) â â¬19.056 bn (2026)**; growth **â2.09%** vs norme CSF/HRF **+0.92%** â **margin â3.01 pp** (clearly **compliant** / under cap). Breakdown: total exp 20.973â20.694; âinterest âEU âcofin âDRM âone-off. ExpGen noted key still uncertain at budget drafting (pre-SWA); post-tick-60 SWA confirms mixte HRF key applies. Parallel Flanders BO: â2.1% vs 2.17% cap; Brussels still FOI opaque.
 - Wrote: HRF 2026 cap + margin budgets; commitment; leaderboard; rq_060=done; ticks=61
 - FOI: none
 - Next: rq_059 multi-parliament final SWA votes (only open public task) or seed new L5
 
-### 2026-07-20T12:45:00Z — tick 62
+### 2026-07-20T12:45:00Z â tick 62
 - Unit: rq_061 (FWB net primary exp vs HRF 0.74%)
-- Found (strong cap; strong opacity): **HRF sleutel 3** Franse Gemeenschap: **2.75% (2025) / 0.74% (2026)** / avg **1.52%**. **DGBF éléments-clés 2026**: dep **€15.407 bn** / recettes **€13.602 bn** / SEC **−€1.608 bn** — **no** net-primary growth table. **Cour des comptes** (PFWB commission on adj 2025): exposé **omits** dépenses primaires nettes vs CSF **2.75%**; gov acknowledged and **postponed** integration / said would not compare to CSF given joint WAL–FWB path. Adjusted 2026 press: dep **€15.59 bn** deficit **€1.77 bn** — still not net-primary. **Cannot score compliance** without inventing euros (do not use gross dep growth as proxy). Parallel: Flanders/Wallonia published tables; Brussels FOI already.
+- Found (strong cap; strong opacity): **HRF sleutel 3** Franse Gemeenschap: **2.75% (2025) / 0.74% (2026)** / avg **1.52%**. **DGBF Ã©lÃ©ments-clÃ©s 2026**: dep **â¬15.407 bn** / recettes **â¬13.602 bn** / SEC **ââ¬1.608 bn** â **no** net-primary growth table. **Cour des comptes** (PFWB commission on adj 2025): exposÃ© **omits** dÃ©penses primaires nettes vs CSF **2.75%**; gov acknowledged and **postponed** integration / said would not compare to CSF given joint WALâFWB path. Adjusted 2026 press: dep **â¬15.59 bn** deficit **â¬1.77 bn** â still not net-primary. **Cannot score compliance** without inventing euros (do not use gross dep growth as proxy). Parallel: Flanders/Wallonia published tables; Brussels FOI already.
 - Wrote: HRF 2026 cap budget; commitment; leaderboard opacity; sources + Cour PDF raw; FOI gap_fwb_net_primary **ready**; rq_061=done; ticks=62
 - FOI: gap_fwb_net_primary ready (not sent)
 - Next: rq_062 Namur/Mons L5 (prio 5) or rq_059 final SWA votes
 
-### 2026-07-20T13:00:00Z — tick 63
+### 2026-07-20T13:00:00Z â tick 63
 - Unit: rq_062 (Namur city L5 subsidy sample)
-- Found (strong, official DGF note BI2026, Conseil 16 Dec 2025): **Recettes €301.394 m** / **dépenses €300.761 m** / **boni exercice propre €0.633 m**. **Structural deficit €19.809 m** after stripping Plan Oxygène exceptional + CPAS provision. **Oxygène draw €45.678 m** (max 2026 + solde 2024). Transfers: **CPAS €24.15 m**; **Police €27.59 m**; **Secours NAGE €6.24 m**. **Monde associatif €8.471 m (−9.82% / −€0.923 m)** with full L5 table: **SONEFA €2.633 m** (protected); **CCR €0.715 m**; **piétonnier primes €0.700 m**; **NEW €0.414 m**; **OTN €0.397 m**; **CAC €0.360 m**; **Namur 2030 −€0.500 m** full cut; linear **−20%** associations / **−10%** para-communal. Fabriques d’église **€1.418 m**. Open data `subsides-attribues` only to **2020** (stale). Mons deferred to rq_063.
-- Wrote: entity city_namur; 19 budgets; 2 commitments; leaderboard Oxygène; sources + DGF PDF raw; rq_062=done; seeded rq_063 Mons; ticks=63
+- Found (strong, official DGF note BI2026, Conseil 16 Dec 2025): **Recettes â¬301.394 m** / **dÃ©penses â¬300.761 m** / **boni exercice propre â¬0.633 m**. **Structural deficit â¬19.809 m** after stripping Plan OxygÃ¨ne exceptional + CPAS provision. **OxygÃ¨ne draw â¬45.678 m** (max 2026 + solde 2024). Transfers: **CPAS â¬24.15 m**; **Police â¬27.59 m**; **Secours NAGE â¬6.24 m**. **Monde associatif â¬8.471 m (â9.82% / ââ¬0.923 m)** with full L5 table: **SONEFA â¬2.633 m** (protected); **CCR â¬0.715 m**; **piÃ©tonnier primes â¬0.700 m**; **NEW â¬0.414 m**; **OTN â¬0.397 m**; **CAC â¬0.360 m**; **Namur 2030 ââ¬0.500 m** full cut; linear **â20%** associations / **â10%** para-communal. Fabriques dâÃ©glise **â¬1.418 m**. Open data `subsides-attribues` only to **2020** (stale). Mons deferred to rq_063.
+- Wrote: entity city_namur; 19 budgets; 2 commitments; leaderboard OxygÃ¨ne; sources + DGF PDF raw; rq_062=done; seeded rq_063 Mons; ticks=63
 - FOI: none (2026 L5 table public; open-data lag noted)
 - Next: rq_063 Mons L5 or rq_059 final SWA votes
 
-### 2026-07-20T13:15:00Z — tick 64
+### 2026-07-20T13:15:00Z â tick 64
 - Unit: rq_063 (Mons city L5 subsidy sample)
-- Found (mixed): **MonsMag #133** (official Ville de Mons): BI2026 **recettes €242.5 m**, **boni €2.1 m**, departmental **economies €8 m**, Plan Oxygène **€27 m**, invest **€12 m**, exceptional precarity aid **€200k**, Walloon cut **€5 m**, **4P ~€25 m** narrative. **CPAS €27.7 m (+€2.1 m)** RTBF quoting collège (medium). **Official full BI2026 PDF not on mons.be** (archives stop at 2024 presentations; compte 2025 published). **Budget 2025 strong**: recettes **€246.24 m** / dépenses **€244.18 m**. **L5 2025** (article lines): MARS fonct **€400k** + music **€124k** + anim **€150k**; Basket UMH **€220k** + sponsor **€250k**; RCA **€380k**; Film festival **€45k**.
+- Found (mixed): **MonsMag #133** (official Ville de Mons): BI2026 **recettes â¬242.5 m**, **boni â¬2.1 m**, departmental **economies â¬8 m**, Plan OxygÃ¨ne **â¬27 m**, invest **â¬12 m**, exceptional precarity aid **â¬200k**, Walloon cut **â¬5 m**, **4P ~â¬25 m** narrative. **CPAS â¬27.7 m (+â¬2.1 m)** RTBF quoting collÃ¨ge (medium). **Official full BI2026 PDF not on mons.be** (archives stop at 2024 presentations; compte 2025 published). **Budget 2025 strong**: recettes **â¬246.24 m** / dÃ©penses **â¬244.18 m**. **L5 2025** (article lines): MARS fonct **â¬400k** + music **â¬124k** + anim **â¬150k**; Basket UMH **â¬220k** + sponsor **â¬250k**; RCA **â¬380k**; Film festival **â¬45k**.
 - Wrote: entity city_mons; 16 budgets; 2 commitments; leaderboard; sources + Mag/compte PDFs; FOI gap_mons_budget_l5 **ready**; rq_063=done; ticks=64
 - FOI: gap_mons_budget_l5 ready (not sent)
 - Next: rq_059 multi-parliament final SWA votes (only remaining open public task) or seed new research
 
-### 2026-07-21T08:00:00Z — tick 65
-- Unit: rq_064 (Plan Oxygène multi-city envelope)
-- Found (strong dual track): **Collignon PQ Feb 2023**: 34 communes requested **€1.791 bn** cumul 2022–26; GW validated **tranche 2022 €302.1 m** for **21 communes** (interest full + 15% capital for 16/21). **Desquesnes Jul 2025**: first **2025 bank lot €66.1 m** / **15 communes** (ING **€40.86 m** 13c; Belfius **€25.29 m** Tournai+Verviers) with named amounts (e.g. Herstal **€8.52 m**, Verviers **€19.25 m**, Huy **€6.01 m**). **Desquesnes CRI Dec 2025**: 6 large cities without bank offer → **CRAC borrows €210 m** (2×€105 m) and on-lends **2025** draw rights; regional cost ~**€25 m/yr** for 21 communes. City samples already: Namur **€45.7 m** 2026 strong; Mons **€27 m** Mag; Charleroi ~**€48 m** medium. Full multi-year per-commune table still incomplete → FOI.
+### 2026-07-21T08:00:00Z â tick 65
+- Unit: rq_064 (Plan OxygÃ¨ne multi-city envelope)
+- Found (strong dual track): **Collignon PQ Feb 2023**: 34 communes requested **â¬1.791 bn** cumul 2022â26; GW validated **tranche 2022 â¬302.1 m** for **21 communes** (interest full + 15% capital for 16/21). **Desquesnes Jul 2025**: first **2025 bank lot â¬66.1 m** / **15 communes** (ING **â¬40.86 m** 13c; Belfius **â¬25.29 m** Tournai+Verviers) with named amounts (e.g. Herstal **â¬8.52 m**, Verviers **â¬19.25 m**, Huy **â¬6.01 m**). **Desquesnes CRI Dec 2025**: 6 large cities without bank offer â **CRAC borrows â¬210 m** (2Ãâ¬105 m) and on-lends **2025** draw rights; regional cost ~**â¬25 m/yr** for 21 communes. City samples already: Namur **â¬45.7 m** 2026 strong; Mons **â¬27 m** Mag; Charleroi ~**â¬48 m** medium. Full multi-year per-commune table still incomplete â FOI.
 - Wrote: budgets (envelope + 2025 named); commitment; leaderboard; sources + CRI PDF; FOI gap_plan_oxygene_cash **ready**; rq_064=done; ticks=65
 - FOI: gap_plan_oxygene_cash ready (not sent)
 - Next: rq_065 FEDER L5 (prio 4) or rq_059 final SWA votes (prio 3)
@@ -503,84 +503,84 @@ Append-only. Each tick adds a short entry.
 
 
 
-### 2026-07-21T08:20:00Z � tick 66
+### 2026-07-21T08:20:00Z ï¿½ tick 66
 - Unit: rq_065 (FEDER Wallonia named project L5 sample)
-- Found (strong, official R�sum� citoyen 2025 WalEurope PDF): **Programme invest class �1.488 bn** (EU **~�600 m**); **FTJ envelope �456 m** (EU **~�183 m**, Charleroi/Mons/Tournai); **374 FEDER + 62 FTJ** public projects retained. Named L5 grants (total / FEDER / Wallonie): **Campus4U Charleroi HELHa+UCLouvain �21.302 m / �8.521 m / �12.781 m**; **Li�ge Fontainebleau/Sainte-Marguerite �10.032 m / �4.459 m / �5.574 m**; **Namur ville apais�e portfolio �5.019 m / �2.231 m / �2.789 m**; **DUNE3S �3.989 m / �1.835 m / �2.154 m**; **IDEA CLICK Mons �0.566 m**; **Arlon cyclo-pi�ton �0.521 m**; **Cap Innove ID2GREEN �0.226 m**; **ICE Louvain �0.223 m**. Co-financed investment � **not pure waste**; residual issue is incomplete machine-readable full L5 cash list (resume samples only).
+- Found (strong, official Rï¿½sumï¿½ citoyen 2025 WalEurope PDF): **Programme invest class ï¿½1.488 bn** (EU **~ï¿½600 m**); **FTJ envelope ï¿½456 m** (EU **~ï¿½183 m**, Charleroi/Mons/Tournai); **374 FEDER + 62 FTJ** public projects retained. Named L5 grants (total / FEDER / Wallonie): **Campus4U Charleroi HELHa+UCLouvain ï¿½21.302 m / ï¿½8.521 m / ï¿½12.781 m**; **Liï¿½ge Fontainebleau/Sainte-Marguerite ï¿½10.032 m / ï¿½4.459 m / ï¿½5.574 m**; **Namur ville apaisï¿½e portfolio ï¿½5.019 m / ï¿½2.231 m / ï¿½2.789 m**; **DUNE3S ï¿½3.989 m / ï¿½1.835 m / ï¿½2.154 m**; **IDEA CLICK Mons ï¿½0.566 m**; **Arlon cyclo-piï¿½ton ï¿½0.521 m**; **Cap Innove ID2GREEN ï¿½0.226 m**; **ICE Louvain ï¿½0.223 m**. Co-financed investment ï¿½ **not pure waste**; residual issue is incomplete machine-readable full L5 cash list (resume samples only).
 - Wrote: 14 budgets; 9 commitments; 4 leaderboard; 2 sources; entities city_arlon + waleurope; rq_065=done; ticks=66
 - FOI: none new (named L5 public; full 374+62 register optional later)
 - Next: **rq_059** multi-parliament final SWA assent votes (only remaining open public task at prio 3) or seed Flanders EFRO 2021-27 L5
 
-### 2026-07-21T08:35:00Z � tick 67
+### 2026-07-21T08:35:00Z ï¿½ tick 67
 - Unit: rq_059 (multi-parliament final SWA economic-governance assent votes)
-- Found (strong process; **no final votes**): Reconfirmed Overlegcomit� **27 Mar 2026** SWA (replaces 2013); **VL Regering 8 May** principal OK voorontwerp decree; **SERV 1 Jun** advice; **Vlaams Parlement Ingekomen 60-Nr.33 (17 Jun 2026)** only registers SERV mededeling � **not** a plenary-adopted instemmingsdecreet. Federal **MR 13 May** avant-projet de loi; **FWB 30 Apr** / **WAL 13 May** GW first readings (tick60). **Brussels** public assent dossier still **not found**. Searches of Kamer/VP/PW/PFWB + BS class: **no final plenaire adoption dates** as of **2026-07-21**. Degryse summer multi-parliament target **not evidenced**.
+- Found (strong process; **no final votes**): Reconfirmed Overlegcomitï¿½ **27 Mar 2026** SWA (replaces 2013); **VL Regering 8 May** principal OK voorontwerp decree; **SERV 1 Jun** advice; **Vlaams Parlement Ingekomen 60-Nr.33 (17 Jun 2026)** only registers SERV mededeling ï¿½ **not** a plenary-adopted instemmingsdecreet. Federal **MR 13 May** avant-projet de loi; **FWB 30 Apr** / **WAL 13 May** GW first readings (tick60). **Brussels** public assent dossier still **not found**. Searches of Kamer/VP/PW/PFWB + BS class: **no final plenaire adoption dates** as of **2026-07-21**. Degryse summer multi-parliament target **not evidenced**.
 - Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_059=done; seeded **rq_066** recheck + **rq_067** Flanders EFRO L5; ticks=67
 - FOI: none (parliamentary tracking, not budget opacity letter)
 - Next: **rq_067** Flanders EFRO named L5 (prio 4) or **rq_066** SWA recheck (prio 3)
 
-### 2026-07-21T08:50:00Z � tick 68
+### 2026-07-21T08:50:00Z ï¿½ tick 68
 - Unit: rq_067 (Flanders EFRO/Interreg 2021-27 named L5 sample)
-- Found (strong programme; partial L5): **EFRO Vlaanderen EU �276.078 m** (meer ontwikkeld **�163.516 m** + Limburg transitie **�112.563 m**); total programme budget class **~�596 m** (40%/60% co-financing). Priorities: Slim **�160.045 m** / Duurzaam **�106.697 m**. Named GTI slices: Kempen **�10.885 m**; West-Vlaanderen **�25.728 m**; stedelijke ontwikkeling Antwerpen+Gent **�19.791 m** (Themis VR mededeling). **Interreg VL-NL**: keep.eu total **�410.811 m** / EU **�205.406 m**; portal **110** projects, **�205.5 m** allocated; themes slim **�72.5 m** / groen **�73.6 m** / sociaal **�47.1 m** / grenzen **�7.3 m**. VLAIO bulk project portal **blocked/incomplete** for individual 2021-27 project EUR this tick; older 2014-20 L5 not used as 2021-27 sample.
+- Found (strong programme; partial L5): **EFRO Vlaanderen EU ï¿½276.078 m** (meer ontwikkeld **ï¿½163.516 m** + Limburg transitie **ï¿½112.563 m**); total programme budget class **~ï¿½596 m** (40%/60% co-financing). Priorities: Slim **ï¿½160.045 m** / Duurzaam **ï¿½106.697 m**. Named GTI slices: Kempen **ï¿½10.885 m**; West-Vlaanderen **ï¿½25.728 m**; stedelijke ontwikkeling Antwerpen+Gent **ï¿½19.791 m** (Themis VR mededeling). **Interreg VL-NL**: keep.eu total **ï¿½410.811 m** / EU **ï¿½205.406 m**; portal **110** projects, **ï¿½205.5 m** allocated; themes slim **ï¿½72.5 m** / groen **ï¿½73.6 m** / sociaal **ï¿½47.1 m** / grenzen **ï¿½7.3 m**. VLAIO bulk project portal **blocked/incomplete** for individual 2021-27 project EUR this tick; older 2014-20 L5 not used as 2021-27 sample.
 - Wrote: 16 budgets; 5 commitments; 3 leaderboard; 4 sources; entities vlaio+interreg_vlaned; FOI gap_vl_efro_l5 **ready**; rq_067=done; seeded rq_068 Brussels EFRO; ticks=68
 - FOI: gap_vl_efro_l5 ready (not sent)
 - Next: **rq_068** Brussels EFRO L5 (prio 4) or **rq_066** SWA recheck (prio 3)
 
-### 2026-07-21T09:05:00Z � tick 69
+### 2026-07-21T09:05:00Z ï¿½ tick 69
 - Unit: rq_068 (Brussels EFRO/FEDER 2021-27 L5 sample)
-- Found (strong OP; reclassified press figure): Official OP PDF: **EU �121.284 m** + national **�181.926 m** = **total �303.210 m** (40% EU). Priorities totals: **P1 �125.832 m** / **P2 �136.445 m** / **P3 �13.644 m** / **P4 �27.289 m**. be.brussels (06.07.2026): **120 projects selected** under 2021-27; **�191 m / 68 projects is 2014-2020 results**, not current OP. Named **call envelopes** (FEDER+RBC): digital OS1.2 **�29.222 m**; saut qualitatif **�15.142 m**; accompagnement PME **�6.679 m**. Individual project EUR bulk incomplete ? FOI.
+- Found (strong OP; reclassified press figure): Official OP PDF: **EU ï¿½121.284 m** + national **ï¿½181.926 m** = **total ï¿½303.210 m** (40% EU). Priorities totals: **P1 ï¿½125.832 m** / **P2 ï¿½136.445 m** / **P3 ï¿½13.644 m** / **P4 ï¿½27.289 m**. be.brussels (06.07.2026): **120 projects selected** under 2021-27; **ï¿½191 m / 68 projects is 2014-2020 results**, not current OP. Named **call envelopes** (FEDER+RBC): digital OS1.2 **ï¿½29.222 m**; saut qualitatif **ï¿½15.142 m**; accompagnement PME **ï¿½6.679 m**. Individual project EUR bulk incomplete ? FOI.
 - Wrote: 13 budgets; 5 commitments; 3 leaderboard; 5 sources; entity feder_brussels; FOI gap_bru_efro_l5 **ready**; rq_068=done; seeded rq_069 DG; ticks=69
 - FOI: gap_bru_efro_l5 ready (not sent)
 - Next: **rq_069** German-speaking Community budget (prio 4) or **rq_066** SWA recheck (prio 3)
 
-### 2026-07-21T09:20:00Z � tick 70
+### 2026-07-21T09:20:00Z ï¿½ tick 70
 - Unit: rq_069 (German-speaking Community / Ostbelgien budget + L5 sample)
-- Found (strong, Rechnungshof 13 Nov 2024 UHH 2025): **Hauptverwaltung Ausgaben AE �685.707 m** / VE **�687.602 m**; Einnahmen **�595.819 m**; **konsolidierter ESVG-Saldo -�113.878 m** (Investitionen **�104.4 m** im Defizitpfad). Einnahmen: **Bundesdotation �342.5 m** (allgemein 321.3 + zweckgeb. 21.2); **Wallonie-Transfer �93.1 m**; Anleihen **�111.2 m** (davon RRF ~�11.2 m). AE nach OB: **Unterricht �187.097 m**; **Gesundheit/Soziales �146.039 m**; **Infrastruktur �103.773 m**; **Kultur/Sport/Jugend �22.792 m**. Infrastrukturplan: **142 Projekte / �94.2 m**; IT **�6.5 m**; Kommunaldotationen Unterhalt **�3.0 m**. Paasch/BRF Okt 2025 (medium): Sparpakete **~�23 m/Jahr** + Infra-K�rzung **�32 m**; Krankenhaus-Investbedarf **=�150 m** (zwei H�user).
+- Found (strong, Rechnungshof 13 Nov 2024 UHH 2025): **Hauptverwaltung Ausgaben AE ï¿½685.707 m** / VE **ï¿½687.602 m**; Einnahmen **ï¿½595.819 m**; **konsolidierter ESVG-Saldo -ï¿½113.878 m** (Investitionen **ï¿½104.4 m** im Defizitpfad). Einnahmen: **Bundesdotation ï¿½342.5 m** (allgemein 321.3 + zweckgeb. 21.2); **Wallonie-Transfer ï¿½93.1 m**; Anleihen **ï¿½111.2 m** (davon RRF ~ï¿½11.2 m). AE nach OB: **Unterricht ï¿½187.097 m**; **Gesundheit/Soziales ï¿½146.039 m**; **Infrastruktur ï¿½103.773 m**; **Kultur/Sport/Jugend ï¿½22.792 m**. Infrastrukturplan: **142 Projekte / ï¿½94.2 m**; IT **ï¿½6.5 m**; Kommunaldotationen Unterhalt **ï¿½3.0 m**. Paasch/BRF Okt 2025 (medium): Sparpakete **~ï¿½23 m/Jahr** + Infra-Kï¿½rzung **ï¿½32 m**; Krankenhaus-Investbedarf **=ï¿½150 m** (zwei Hï¿½user).
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 3 sources; entity dg_gov; rq_069=done; seeded rq_070 province; ticks=70
 - FOI: none (CoA tables public for totals + domain L4)
 - Next: **rq_066** SWA final votes recheck (prio 3) or **rq_070** province L1 (prio 3)
 
-### 2026-07-21T09:35:00Z � tick 71
+### 2026-07-21T09:35:00Z ï¿½ tick 71
 - Unit: rq_066 (SWA multi-parliament final assent recheck)
 - Found (strong process; **still no final votes**): Reconfirmed Overleg **27 Mar 2026** SWA (Van Peteghem historic announcement). Public track still maxes at **government first readings** (VL 8 May principal + SERV 1 Jun filed VP 17 Jun; Fed MR 13 May avant-projet; FWB 30 Apr; WAL 13 May). Searches Kamer / Vlaams Parlement / Wallonie / FWB / Brussels + BS class: **no final plenary assent law/decree and no BS publication** for this SWA as of **2026-07-21**. Brussels public dossier still missing. Summer multi-parliament path remains **not evidenced**.
 - Wrote: 2 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_066=done; seeded **rq_071** lower-prio recheck; ticks=71
 - FOI: none (process tracking)
-- Next: **rq_070** Province Li�ge/Luxembourg budget L1+L5 (prio 3)
+- Next: **rq_070** Province Liï¿½ge/Luxembourg budget L1+L5 (prio 3)
 
-### 2026-07-21T09:50:00Z � tick 72
-- Unit: rq_070 (Province de Li�ge budget L1 + L5 sample)
-- Found (strong, official Budget 2026 PDF 25-26/010): **Service ordinaire** recettes **�563.597 m** / d�penses **�563.574 m** (boni **�22.968**). **2025 apr�s MB** ~**�696.4 m** dep. Compte **2024** d�p. eng. **�664.5 m**. **Extraordinaire 2026** recettes **�68.151 m** / d�p. **�68.140 m**. Combined dep. **~�631.7 m**. Named: **pr�compte immobilier �258.5 m** rec; **fonds des provinces �40.1 m**; **zones de secours provincial �45.600 m** (zones 1�5 **�44.428 m** + zone 6 DG **�1.172 m**); **enseignement secondaire �142.197 m**; **sup�rieur �69.302 m**; **sports �8.311 m**; **Op�ra Royal Wallonie �150k**; **OPL �70k**.
+### 2026-07-21T09:50:00Z ï¿½ tick 72
+- Unit: rq_070 (Province de Liï¿½ge budget L1 + L5 sample)
+- Found (strong, official Budget 2026 PDF 25-26/010): **Service ordinaire** recettes **ï¿½563.597 m** / dï¿½penses **ï¿½563.574 m** (boni **ï¿½22.968**). **2025 aprï¿½s MB** ~**ï¿½696.4 m** dep. Compte **2024** dï¿½p. eng. **ï¿½664.5 m**. **Extraordinaire 2026** recettes **ï¿½68.151 m** / dï¿½p. **ï¿½68.140 m**. Combined dep. **~ï¿½631.7 m**. Named: **prï¿½compte immobilier ï¿½258.5 m** rec; **fonds des provinces ï¿½40.1 m**; **zones de secours provincial ï¿½45.600 m** (zones 1ï¿½5 **ï¿½44.428 m** + zone 6 DG **ï¿½1.172 m**); **enseignement secondaire ï¿½142.197 m**; **supï¿½rieur ï¿½69.302 m**; **sports ï¿½8.311 m**; **Opï¿½ra Royal Wallonie ï¿½150k**; **OPL ï¿½70k**.
 - Wrote: 17 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_liege; raw PDF; rq_070=done; seeded rq_072 Lux province; ticks=72
 - FOI: none (official full budget public)
 - Next: **rq_072** Province Luxembourg budget or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T10:20:00Z — tick 73
+### 2026-07-22T10:20:00Z â tick 73
 - Unit: rq_072 (Province de Luxembourg budget L1 + L5 sample)
 - Found (strong, Cour des comptes 2026_15 projet budget 2026, FR chamber 19 Nov 2025): **Ordinaire exercice propre** recettes **EUR 135,214,912** / depenses **EUR 134,300,069** (boni **EUR 914,843**); global boni **EUR 1,687,264**. **Extraordinaire propre** rec **EUR 11,993,107** / dep **EUR 11,345,396**; global dep **EUR 13,345,396** (incl 2m FRE Plan investissement). Combined propre dep **~EUR 145.6 m** (~4x smaller than Liege ord). Named: **precompte additionnels ~EUR 74.4 m**; **fonds des provinces EUR 14.3 m**; **zones de secours EUR 18.0 m** (16.0m securite civile + 2.0m complement supracommunal); **personnel EUR 79.2 m**; **transferts EUR 32.3 m**; **ASBL/FUP aids >=50k EUR 4.3 m** (-0.9m vs 2025); invest extra **EUR 9.4 m** incl **Maison culture Arlon roof EUR 2.8 m** (contingent Ville d Arlon). GSM mast tax 0.6m + matching provision dual-track honesty. Pension Ethias covers ~3.1m under-inscription vs SFP.
 - Wrote: 22 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_luxembourg; raw CoA PDF; rq_072=done; seeded rq_073 Namur/Hainaut; ticks=73
 - FOI: none (CoA projet public; final adopted budget may differ slightly)
 - Next: **rq_073** Province Namur or Hainaut (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T10:35:00Z — tick 74
+### 2026-07-22T10:35:00Z â tick 74
 - Unit: rq_073 (Province de Namur budget L1 + L5 sample)
-- Found (strong, Cour des comptes 2026_14 projet budget 2026, FR chamber 25 Nov 2025): **Ordinaire exercice propre** recettes **EUR 204,224,474** / depenses **EUR 204,222,043** (boni **EUR 2,431** near-zero); global boni **EUR 30.5 m**. **Extraordinaire propre** rec **EUR 11,303,046** / dep **EUR 17,789,888**; global dep **EUR 19,334,888**. Combined propre dep **~EUR 222.0 m** (between Lux ~135m and Liege ~564m ord). Named: **precompte prudent ~EUR 91.8 m** (tutelle 93.1m -1.4pct); **fonds des provinces ~EUR 24.4 m** (tutelle 24.9m -0.5m); **zones de secours EUR 30.3 m** (27.2m dotation + 3.1m complement RW; trajectory to 44m by 2030); **personnel EUR 125.7 m** (~60pct); **transferts EUR 45.3 m**; **supracommunalite communes +EUR 0.5 m** new line; invest extra **EUR 17.5 m**. CoA flags pension Ethias off-budget ~EUR 10m and debt-charge annex mismatches. ASBL consolidated list 10 entities — no aggregate EUR in CoA body.
+- Found (strong, Cour des comptes 2026_14 projet budget 2026, FR chamber 25 Nov 2025): **Ordinaire exercice propre** recettes **EUR 204,224,474** / depenses **EUR 204,222,043** (boni **EUR 2,431** near-zero); global boni **EUR 30.5 m**. **Extraordinaire propre** rec **EUR 11,303,046** / dep **EUR 17,789,888**; global dep **EUR 19,334,888**. Combined propre dep **~EUR 222.0 m** (between Lux ~135m and Liege ~564m ord). Named: **precompte prudent ~EUR 91.8 m** (tutelle 93.1m -1.4pct); **fonds des provinces ~EUR 24.4 m** (tutelle 24.9m -0.5m); **zones de secours EUR 30.3 m** (27.2m dotation + 3.1m complement RW; trajectory to 44m by 2030); **personnel EUR 125.7 m** (~60pct); **transferts EUR 45.3 m**; **supracommunalite communes +EUR 0.5 m** new line; invest extra **EUR 17.5 m**. CoA flags pension Ethias off-budget ~EUR 10m and debt-charge annex mismatches. ASBL consolidated list 10 entities â no aggregate EUR in CoA body.
 - Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_namur; raw CoA PDF; rq_073=done; seeded rq_074 Hainaut; ticks=74
 - FOI: none (CoA projet public)
 - Next: **rq_074** Province Hainaut (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T10:50:00Z — tick 75
+### 2026-07-22T10:50:00Z â tick 75
 - Unit: rq_074 (Province de Hainaut budget L1 + L5 sample)
-- Found (strong, Cour des comptes 2026_13 projet budget 2026, FR chamber 16 Dec 2025): **Ordinaire exercice propre** recettes **EUR 831,167,239** / depenses **EUR 830,647,769** (boni **EUR 519,470**); global boni **EUR 27.0 m**. **Extraordinaire propre** rec **EUR 21,823,057** / dep **EUR 23,485,170**; global dep **EUR 24,302,283**. Combined propre dep **~EUR 854.1 m** — **largest Walloon province** (vs Liege ord ~564m). Named: **precompte ~EUR 286.7 m**; **fonds des provinces EUR 71.3 m**; **zones de secours EUR 78.2 m** transfer (6.9+7.1+64.2) **+ provision EUR 6.0 m** for tutelle Oct path (total effective ~84.2m; trajectory to **EUR 127.3 m by 2030**); **personnel EUR 621.4 m** (~75pct); **transferts EUR 93.6 m**; **ASBL Voies d eau EUR 2.3 m** (+1.8m severance); **Cathédrale Tournai invest EUR 3.9 m** (RW subside 3.7m); taxes provinciales **EUR 9.4 m** (new taxes 3.8m). Consolidated ASBL list **199** entities — no aggregate EUR. CoA: pension under-inscription 2.1m.
+- Found (strong, Cour des comptes 2026_13 projet budget 2026, FR chamber 16 Dec 2025): **Ordinaire exercice propre** recettes **EUR 831,167,239** / depenses **EUR 830,647,769** (boni **EUR 519,470**); global boni **EUR 27.0 m**. **Extraordinaire propre** rec **EUR 21,823,057** / dep **EUR 23,485,170**; global dep **EUR 24,302,283**. Combined propre dep **~EUR 854.1 m** â **largest Walloon province** (vs Liege ord ~564m). Named: **precompte ~EUR 286.7 m**; **fonds des provinces EUR 71.3 m**; **zones de secours EUR 78.2 m** transfer (6.9+7.1+64.2) **+ provision EUR 6.0 m** for tutelle Oct path (total effective ~84.2m; trajectory to **EUR 127.3 m by 2030**); **personnel EUR 621.4 m** (~75pct); **transferts EUR 93.6 m**; **ASBL Voies d eau EUR 2.3 m** (+1.8m severance); **CathÃ©drale Tournai invest EUR 3.9 m** (RW subside 3.7m); taxes provinciales **EUR 9.4 m** (new taxes 3.8m). Consolidated ASBL list **199** entities â no aggregate EUR. CoA: pension under-inscription 2.1m.
 - Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_hainaut; raw CoA PDF; rq_074=done; seeded rq_075 Brabant wallon; ticks=75
 - FOI: none (CoA projet public)
 - Next: **rq_075** Province Brabant wallon (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T11:05:00Z — tick 76
+### 2026-07-22T11:05:00Z â tick 76
 - Unit: rq_075 (Province du Brabant wallon budget L1 + L5 sample)
 - Found (strong, Cour des comptes 2026_11 projet budget 2026, FR chamber 25 Nov 2025): **Ordinaire exercice propre** recettes **EUR 200,776,958** / depenses **EUR 199,406,787** (boni **EUR 1,370,172**); global boni **EUR 2.7 m**. **Extraordinaire propre** rec **EUR 8,699,156** / dep **EUR 16,331,910** (= global dep). Combined propre dep **~EUR 215.7 m** (Namur-scale). Named: **precompte ~EUR 102.9 m**; **fonds des provinces EUR 13.9 m**; **zones de secours EUR 16.1 m** (flat vs 2025; RW path **17.5 m** 2026 / **28.8 m** 2030; province cites 4m provision + 3m reserve buffer); **personnel EUR 136.8 m** (~69pct); **transferts EUR 27.3 m**; **ASBL/FUP >=50k EUR 10.0 m** (31 entities with justifications); invest: bassins d orage **EUR 3.1 m**, Helecine brasserie **EUR 1.3 m**, cycle points-noeuds **EUR 1.2 m**. **Completes 5/5 Walloon provinces** CoA 2026 map (Hainaut 831m > Liege 564m > Namur 204m ~ BW 199m > Lux 134m ord dep).
 - Wrote: 24 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_brabant_wallon; raw CoA PDF; rq_075=done; seeded rq_076 compare + rq_077 Flanders province; ticks=76
 - FOI: none (CoA projet public)
 - Next: **rq_076** Walloon provinces compare (prio 3) or **rq_071** SWA recheck (prio 2) or **rq_077** Flemish province
 
-### 2026-07-22T11:20:00Z — tick 77
+### 2026-07-22T11:20:00Z â tick 77
 - Unit: rq_076 (Walloon provinces 2026 comparative snapshot)
 - Found (strong synthesis, no new primary PDF): 5-province map from ticks 72-76.
 
@@ -593,47 +593,47 @@ Append-only. Each tick adds a short entry.
 | Luxembourg | 134.3m | 145.6m | 18.0m |
 | **Sum** | **1932.2m** | **2069.2m** | **188.2m** |
 
-- Ord sum **EUR 1,932,150,627** (~EUR 1.93 bn); total ord+extra **EUR 2,069,243,296**; zones transfer sum **EUR 188,199,958** (+ Hainaut provision **EUR 6.0 m** → **EUR 194,199,958**). Précompte sum **EUR 814,300,000**; fonds des provinces sum **EUR 164,015,104**. Hainaut alone **43.0%** of ord dep. Zones/ord **9.7%**. Caveat: Liege = official province PDF; others = CoA projet.
+- Ord sum **EUR 1,932,150,627** (~EUR 1.93 bn); total ord+extra **EUR 2,069,243,296**; zones transfer sum **EUR 188,199,958** (+ Hainaut provision **EUR 6.0 m** â **EUR 194,199,958**). PrÃ©compte sum **EUR 814,300,000**; fonds des provinces sum **EUR 164,015,104**. Hainaut alone **43.0%** of ord dep. Zones/ord **9.7%**. Caveat: Liege = official province PDF; others = CoA projet.
 - Wrote: walloon_provinces_2026_snapshot.md; 6 budgets; 2 commitments; 2 leaderboard; 1 source; rq_076=done; ticks=77
 - FOI: none
 - Next: **rq_077** Flemish province sample (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T11:35:00Z — tick 78
+### 2026-07-22T11:35:00Z â tick 78
 - Unit: rq_077 (Provincie Antwerpen MJP 2026 L1 + L5 sample)
-- Found (strong, official Initieel meerjarenplan 2026-2031 begincrediet): **Exploitatie-uitgaven EUR 204,700,675** / ontvangsten **EUR 236,862,206** (saldo **EUR 32,161,531**). **Investeringsuitgaven EUR 60,420,600**. Financiering aflossingen **EUR 9,215,000**. Combined cash-out **~EUR 274.3 m**. Named: **bezoldigingen EUR 92,014,823**; **toegestane werkingssubsidies EUR 63,828,156** (APB **EUR 38,925,780** + andere **EUR 22,907,585**); **opcentiemen OV EUR 172,132,240** (aanslagvoet 160); **bedrijvenbelasting EUR 52,101,340** (gezinnen provinciebelasting afgeschaft 2026); **Mondiaal Beleid EUR 1,166,000**; waterlopen invest **EUR 5,000,000**; wegen/infra invest **EUR 23,900,000**; schuld EOY **EUR 19,895,000**. BBC structure (not Walloon ord/extra) — exp scale similar Namur/BW (~200m).
+- Found (strong, official Initieel meerjarenplan 2026-2031 begincrediet): **Exploitatie-uitgaven EUR 204,700,675** / ontvangsten **EUR 236,862,206** (saldo **EUR 32,161,531**). **Investeringsuitgaven EUR 60,420,600**. Financiering aflossingen **EUR 9,215,000**. Combined cash-out **~EUR 274.3 m**. Named: **bezoldigingen EUR 92,014,823**; **toegestane werkingssubsidies EUR 63,828,156** (APB **EUR 38,925,780** + andere **EUR 22,907,585**); **opcentiemen OV EUR 172,132,240** (aanslagvoet 160); **bedrijvenbelasting EUR 52,101,340** (gezinnen provinciebelasting afgeschaft 2026); **Mondiaal Beleid EUR 1,166,000**; waterlopen invest **EUR 5,000,000**; wegen/infra invest **EUR 23,900,000**; schuld EOY **EUR 19,895,000**. BBC structure (not Walloon ord/extra) â exp scale similar Namur/BW (~200m).
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_antwerpen; raw MJP PDF; rq_077=done; seeded rq_078 Oost/West-VL; ticks=78
 - FOI: none (official MJP public)
 - Next: **rq_078** second Flemish province (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T11:50:00Z — tick 79
+### 2026-07-22T11:50:00Z â tick 79
 - Unit: rq_078 (Provincie West-Vlaanderen MJP 2026-2031 L1 + L5 sample)
-- Found (strong debt/invest/AFM; medium subsidy class — M2/T2 tables largely image-only): Official fin-nota PDF PR **27 Nov 2025**. **Invest 2026-2031 EUR 363,500,000** (own patrim **EUR 246,500,000** + grants-out **EUR 116,900,000**; avg **~EUR 60m/yr**). **Invest receipts EUR 52,600,000** over 6y (Fietsfonds-heavy). **Debt 01/01/2026 EUR 92,341,480** → **EOY 2031 EUR 207,200,000**; new loans **EUR 190,000,000** (2026 chart **EUR 28,250,000**). **BBR 2026 EUR 15,204,117**; **AFM 2026 EUR 10,913,984** / 2031 **EUR 8,697,410** (structureel evenwicht OK). **Werkingssubsidies class ~EUR 55m/yr** (~1/4 exp; T2 not OCR); agencies **~EUR 35m** (POM/Inagro/Westtoer); **WFIV base EUR 400,000**. Opcentiemen rate **186.22** (VLABEL 13 Sep 2025; chart ~115-155m not digitised). Second-home tax RvS relief **EUR 9m**. Pension responsabilisering **EUR 2.84m** 2026 → 4.89m 2030. Full single-year exploitatie-uitgaven total **not text-extracted** (image tables).
+- Found (strong debt/invest/AFM; medium subsidy class â M2/T2 tables largely image-only): Official fin-nota PDF PR **27 Nov 2025**. **Invest 2026-2031 EUR 363,500,000** (own patrim **EUR 246,500,000** + grants-out **EUR 116,900,000**; avg **~EUR 60m/yr**). **Invest receipts EUR 52,600,000** over 6y (Fietsfonds-heavy). **Debt 01/01/2026 EUR 92,341,480** â **EOY 2031 EUR 207,200,000**; new loans **EUR 190,000,000** (2026 chart **EUR 28,250,000**). **BBR 2026 EUR 15,204,117**; **AFM 2026 EUR 10,913,984** / 2031 **EUR 8,697,410** (structureel evenwicht OK). **Werkingssubsidies class ~EUR 55m/yr** (~1/4 exp; T2 not OCR); agencies **~EUR 35m** (POM/Inagro/Westtoer); **WFIV base EUR 400,000**. Opcentiemen rate **186.22** (VLABEL 13 Sep 2025; chart ~115-155m not digitised). Second-home tax RvS relief **EUR 9m**. Pension responsabilisering **EUR 2.84m** 2026 â 4.89m 2030. Full single-year exploitatie-uitgaven total **not text-extracted** (image tables).
 - Wrote: 18 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_west_vlaanderen; raw PDF; rq_078=done; seeded rq_079 Oost-VL; ticks=79
 - FOI: none (public MJP; residual gap is extractability not opacity)
 - Next: **rq_079** Oost-Vlaanderen (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T12:05:00Z — tick 80
+### 2026-07-22T12:05:00Z â tick 80
 - Unit: rq_079 (Provincie Oost-Vlaanderen MJP 2026 L1 + L5 sample)
-- Found (strong, official Beleidsverklaring MJP 2026-2031, PR **3 Dec 2025**): **BBR 2026 EUR 24,848,155**; **AFM 2026 EUR 11,072,221**. **Invest uitgaven 2026 EUR 62,639,681** / ontvangsten **EUR 17,664,245**; **period sum 2026-31 EUR 399,702,621** (~400m). Named packages: **fiets EUR 86,728,852**; **water EUR 42,479,729**; **domeinen EUR 41,590,056**; **PAULO EUR 9,081,388**; Hamme **EUR 14,000,000**; Eeklo **EUR 10,000,000**; Zottegem **EUR 13,091,771**; Lokeren DBFM **EUR 74,031,570**. **Personeel 2026 EUR 211,963,313** (admin **EUR 122,978,678** + VL-gesub onderwijs **EUR 86,831,616**). **Belastingen 2026 EUR 181,554,643** (opcentiemen **EUR 110,542,196** rate **148.47**; APB **EUR 70,012,447**; APB **-10pct from 2028**). **Debt EOY 2026 EUR 17,380,658** → **2031 EUR 193,913,424**; bank start **EUR 11,356,366**; max loans **EUR 130,000,000**. Inwoners 1.01.2025: **1,602,532**. Full single-year exploitatie-uitgaven total not in this PDF (see T2 reference).
+- Found (strong, official Beleidsverklaring MJP 2026-2031, PR **3 Dec 2025**): **BBR 2026 EUR 24,848,155**; **AFM 2026 EUR 11,072,221**. **Invest uitgaven 2026 EUR 62,639,681** / ontvangsten **EUR 17,664,245**; **period sum 2026-31 EUR 399,702,621** (~400m). Named packages: **fiets EUR 86,728,852**; **water EUR 42,479,729**; **domeinen EUR 41,590,056**; **PAULO EUR 9,081,388**; Hamme **EUR 14,000,000**; Eeklo **EUR 10,000,000**; Zottegem **EUR 13,091,771**; Lokeren DBFM **EUR 74,031,570**. **Personeel 2026 EUR 211,963,313** (admin **EUR 122,978,678** + VL-gesub onderwijs **EUR 86,831,616**). **Belastingen 2026 EUR 181,554,643** (opcentiemen **EUR 110,542,196** rate **148.47**; APB **EUR 70,012,447**; APB **-10pct from 2028**). **Debt EOY 2026 EUR 17,380,658** â **2031 EUR 193,913,424**; bank start **EUR 11,356,366**; max loans **EUR 130,000,000**. Inwoners 1.01.2025: **1,602,532**. Full single-year exploitatie-uitgaven total not in this PDF (see T2 reference).
 - Wrote: 23 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_oost_vlaanderen; raw beleidsverklaring PDF; rq_079=done; seeded rq_080 Limburg/VBR; ticks=80
 - FOI: none (official portal PDF public)
 - Next: **rq_080** Limburg or Vlaams-Brabant (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T12:20:00Z — tick 81
+### 2026-07-22T12:20:00Z â tick 81
 - Unit: rq_080 (Provincie Limburg AMJP 2026 L1 + L5 sample)
 - Found (strong, official AMJP 2026-2031 aanpassing juni 2026, PR dossier; initieel 18 Dec 2025): **Exploitatie-uitgaven EUR 247,304,270** / ontvangsten **EUR 258,189,615** (saldo **EUR 10,885,344**). **Investeringsuitgaven EUR 106,147,542** / ontvangsten **EUR 18,746,936**. Financiering aflossingen **EUR 6,829,363**; leningsontvangsten **EUR 78,713,724**. **Cash-out EUR 360,281,175**. **BBR EUR 42,156,256**; **AFM EUR 4,953,756**; **schuld EUR 127,017,316**. **Personeel EUR 173,828,351** (onderwijs andere overheden **EUR 99,304,235**). **Werkingssubsidies EUR 25,865,989** (andere **EUR 23,939,516**). **Opcentiemen EUR 90,933,687** (rate **214.52**). **Invest period sum 2026-31 EUR 272,275,476** (~270m press). Named: Bokrijk winterevenement **EUR 250,000**. Inwoners **904,919**.
 - Wrote: 20 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_limburg; raw AMJP PDF; rq_080=done; seeded rq_081 Vlaams-Brabant; ticks=81
 - FOI: none (official smartcities dossier public)
 - Next: **rq_081** Vlaams-Brabant (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T12:35:00Z — tick 82
+### 2026-07-22T12:35:00Z â tick 82
 - Unit: rq_081 (Provincie Vlaams-Brabant MJP 2026 L1 + L5 sample)
 - Found (strong, official MJP 2026-2031 PR **14 Oct 2025** / pub 23 Oct): **Exploitatie-uitgaven EUR 150,983,589** / ontvangsten **EUR 175,453,134** (saldo **EUR 24,469,545**). **Invest EUR 43,388,068** / ontvangsten **EUR 13,092,337**. Financiering uitgaven **EUR 6,213,109**. **Cash-out EUR 200,584,766**. **BBR EUR 46,612,757**; **AFM EUR 22,650,349**; **schuld EUR 36,945,771**. **Personeel EUR 97,952,035**. **Werkingssubsidies EUR 19,382,399** (andere **EUR 15,654,473**). **Opcentiemen EUR 126,813,759** (rate **171.75**); **eigen belastingen afgeschaft 2026**. Named: **fiets period EUR 66,300,000** (2026 **EUR 11,550,000**); **waterrecreatie/openluchtzwembaden period EUR 37,464,204**. Invest period sum **EUR 255,080,070**. Inwoners **1,198,638**. **Completes 5/5 Flemish provinces** (ANT WVL OVL LIM VBR).
 - Wrote: 20 budgets; 3 commitments; 3 leaderboard; 2 sources; entity prov_vlaams_brabant; raw MJP PDF; rq_081=done; seeded rq_082 VL compare; ticks=82
 - FOI: none
 - Next: **rq_082** Flemish 5-province compare (prio 3) or **rq_071** SWA recheck (prio 2)
 
-### 2026-07-22T12:50:00Z — tick 83
+### 2026-07-22T12:50:00Z â tick 83
 - Unit: rq_082 (Flemish 5 provinces 2026 comparative snapshot)
 - Found (strong synthesis; gaps flagged): 5-province map from ticks 78-82.
 
@@ -650,15 +650,15 @@ Append-only. Each tick adds a short entry.
 - FOI: none (public gaps are extractability)
 - Next: **rq_071** SWA recheck (prio 2) or fill WVL/OVL full exp from T2
 
-### 2026-07-22T13:05:00Z — tick 84
+### 2026-07-22T13:05:00Z â tick 84
 - Unit: rq_071 (SWA multi-parliament final assent recheck Q3 late)
-- Found (strong process; **still no final votes**): Reconfirmed Overlegcomité **27 Mar 2026** economic-governance SWA (replaces 2013). Public track still maxes at **government first readings**: **VL Regering 8 May 2026** principal OK voorontwerp instemmingsdecreet → SERV/RvS (portal unchanged); **SERV 1 Jun** advice; **Vlaams Parlement** still no plenary-adopted instemmingsdecreet found; **Federal MR 13 May** avant-projet de loi assentiment (news.belgium); **FWB 30 Apr** / **WAL 13 May** GW first readings (prior ticks). Kamer budget docs cite SWA content but **not** a adopted assent law. Searches Kamer / Vlaams Parlement / Wallonie / FWB / Brussels + BS class: **no final plenary assent law/decree and no Belgisch Staatsblad publication** for this SWA as of **2026-07-22**. Brussels public assent dossier still **not found**. Summer multi-parliament path remains **not evidenced**.
+- Found (strong process; **still no final votes**): Reconfirmed OverlegcomitÃ© **27 Mar 2026** economic-governance SWA (replaces 2013). Public track still maxes at **government first readings**: **VL Regering 8 May 2026** principal OK voorontwerp instemmingsdecreet â SERV/RvS (portal unchanged); **SERV 1 Jun** advice; **Vlaams Parlement** still no plenary-adopted instemmingsdecreet found; **Federal MR 13 May** avant-projet de loi assentiment (news.belgium); **FWB 30 Apr** / **WAL 13 May** GW first readings (prior ticks). Kamer budget docs cite SWA content but **not** a adopted assent law. Searches Kamer / Vlaams Parlement / Wallonie / FWB / Brussels + BS class: **no final plenary assent law/decree and no Belgisch Staatsblad publication** for this SWA as of **2026-07-22**. Brussels public assent dossier still **not found**. Summer multi-parliament path remains **not evidenced**.
 - Wrote: 3 sources; updated cmt_entity_mtfsp_split + lb_entity_split_opacity; rq_071=done; seeded **rq_083** WVL exp fill + **rq_084** SWA recheck; ticks=84
 - FOI: none (parliamentary process tracking)
 - Next: **rq_083** West-Vlaanderen full exp T2 (prio 3) or **rq_084** SWA recheck (prio 2)
-### 2026-07-22T13:34:00Z — tick 85
+### 2026-07-22T13:34:00Z â tick 85
 - Unit: rq_083 (West-Vlaanderen full exploitatie 2026 from Schema M2)
-- Found (strong, official Schema M2 p15 vision-read + press cross-check): **Exploitatie-uitgaven EUR 194,441,409** / ontvangsten **EUR 216,640,317** (saldo **EUR 22,198,908**). **Investeringsuitgaven EUR 70,132,288** / ontvangsten **EUR 15,237,921**. **Financieringsuitgaven EUR 19,371,814** / ontvangsten **EUR 81,390**. **Cash-out EUR 283,945,511**. BBR **EUR 15,204,117** and AFM **EUR 10,913,984** reconfirm prior chart reads. Path to 2031: exp uit **EUR 218,519,509** / ont **EUR 242,172,530**. Secondary press (Kelly De Tavernier / HLN) quotes 194.4m→218.5m and 216.6m→242.2m — aligns M2. Updated 4-province compare: exp sum **EUR 797,429,943**; cash-out sum **EUR 1,119,147,727**. Rank cash-out: LIM 360 > WVL 284 > ANT 274 > VBR 201. Werkingssubsidies name-level still medium ~55m class.
+- Found (strong, official Schema M2 p15 vision-read + press cross-check): **Exploitatie-uitgaven EUR 194,441,409** / ontvangsten **EUR 216,640,317** (saldo **EUR 22,198,908**). **Investeringsuitgaven EUR 70,132,288** / ontvangsten **EUR 15,237,921**. **Financieringsuitgaven EUR 19,371,814** / ontvangsten **EUR 81,390**. **Cash-out EUR 283,945,511**. BBR **EUR 15,204,117** and AFM **EUR 10,913,984** reconfirm prior chart reads. Path to 2031: exp uit **EUR 218,519,509** / ont **EUR 242,172,530**. Secondary press (Kelly De Tavernier / HLN) quotes 194.4mâ218.5m and 216.6mâ242.2m â aligns M2. Updated 4-province compare: exp sum **EUR 797,429,943**; cash-out sum **EUR 1,119,147,727**. Rank cash-out: LIM 360 > WVL 284 > ANT 274 > VBR 201. Werkingssubsidies name-level still medium ~55m class.
 - Wrote: 12 budgets; updated cmt_wvl + cmt_vl_provinces; flemish snapshot; 2 press sources; entity note; rq_083=done; seeded rq_085 OVL exp; ticks=85
 - FOI: none (public M2 extractable; residual is OVL T2 + WVL L5 subsidies)
 - Next: **rq_085** Oost-Vlaanderen full exp T2 (prio 3) or **rq_084** SWA recheck (prio 2)
@@ -737,16 +737,16 @@ Append-only. Each tick adds a short entry.
 
 
 ### 2026-07-22T16:04:00Z -- tick 95
-- Unit: rq_095 (Walloon province L5 named subsidies — Hainaut CoA + Liege budget)
-- Found (strong): **Hainaut** CoA 2026: **ASBL Voies d'eau du Hainaut EUR 2,300,000** (incl **+1.8m** severance after canal tourism stop); **ASBL Teralis cut to 0** (was 0.4m; French domains sold); transfers hors zones **EUR 15.5m**; **Cathédrale Tournai invest EUR 3,900,000** (3.7m external subsidy); **199 entities** with aids >=50k/yr (annex exists; **amounts not in CoA PDF**; CoA flags **no motivation** for extraprovincialisation); 53 management contracts 2024. **Liege** budget 2026 named: tourism sites paraprovinciaux **EUR 516,011**; MNEMA **EUR 150,000**; Service social agents **EUR 190,878**; GIG **EUR 110,000**; DG cooperation **EUR 871,000**; Opera **EUR 150,000**; OPL **EUR 70,000**; Theatre Liege **EUR 60,000**; BRF 90k; RTC sport 124k; Parc HFE 60k. **FTPL** (Federation Tourisme) line **EUR 1** obligatoire 2026 (was **1.2m** 2025 — major cut/restructure in table).
+- Unit: rq_095 (Walloon province L5 named subsidies â Hainaut CoA + Liege budget)
+- Found (strong): **Hainaut** CoA 2026: **ASBL Voies d'eau du Hainaut EUR 2,300,000** (incl **+1.8m** severance after canal tourism stop); **ASBL Teralis cut to 0** (was 0.4m; French domains sold); transfers hors zones **EUR 15.5m**; **CathÃ©drale Tournai invest EUR 3,900,000** (3.7m external subsidy); **199 entities** with aids >=50k/yr (annex exists; **amounts not in CoA PDF**; CoA flags **no motivation** for extraprovincialisation); 53 management contracts 2024. **Liege** budget 2026 named: tourism sites paraprovinciaux **EUR 516,011**; MNEMA **EUR 150,000**; Service social agents **EUR 190,878**; GIG **EUR 110,000**; DG cooperation **EUR 871,000**; Opera **EUR 150,000**; OPL **EUR 70,000**; Theatre Liege **EUR 60,000**; BRF 90k; RTC sport 124k; Parc HFE 60k. **FTPL** (Federation Tourisme) line **EUR 1** obligatoire 2026 (was **1.2m** 2025 â major cut/restructure in table).
 - Wrote: 18 budgets; 6 commitments; 4 leaderboard; entities; 2 sources; rq_095=done; seeded rq_096 Hainaut annex/FOI; ticks=95
-- FOI: **not drafted this tick** — rq_096 opened for 199-entity EUR list if public annex missing
+- FOI: **not drafted this tick** â rq_096 opened for 199-entity EUR list if public annex missing
 - Next: **rq_096** Hainaut named ASBL list (prio 3) or **rq_089** SWA Q4 (prio 1)
 
 
 ### 2026-07-22T16:19:00Z -- tick 96
-- Unit: rq_096 (Hainaut full named ASBL EUR list — public search + FOI)
-- Found (strong process; **public list still missing**): Re-checked CoA Hainaut budget 2026 PDF and web/portal search for a published annex of the **199 entities** with provincial aids >= EUR 50k/yr. **No machine-readable or PDF named EUR list** found on public portals this tick. CoA remains best primary evidence that the annex **exists** administratively and that **motivation for extraprovincialisation is missing**. Action: **FOI draft** `gap_hainaut_asbl_list_2026` (FR, publicite de l'administration) status **ready** — **human send only**.
+- Unit: rq_096 (Hainaut full named ASBL EUR list â public search + FOI)
+- Found (strong process; **public list still missing**): Re-checked CoA Hainaut budget 2026 PDF and web/portal search for a published annex of the **199 entities** with provincial aids >= EUR 50k/yr. **No machine-readable or PDF named EUR list** found on public portals this tick. CoA remains best primary evidence that the annex **exists** administratively and that **motivation for extraprovincialisation is missing**. Action: **FOI draft** `gap_hainaut_asbl_list_2026` (FR, publicite de l'administration) status **ready** â **human send only**.
 - Wrote: foi draft + foi_queue ready; sources note; rq_096=blocked_foi; lb/cmt notes; seeded rq_097 Namur/BW L5; ticks=96
 - FOI: **gap_hainaut_asbl_list_2026** ready (not sent)
 - Next: **rq_097** Namur/Brabant wallon L5 (prio 2) or **rq_089** SWA Q4 (prio 1); human may send Hainaut FOI
@@ -762,7 +762,7 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-22T16:49:00Z -- tick 98
 - Unit: rq_098 (Luxembourg province ASBL deepen + FOI)
-- Found (strong CoA; **named EUR list still not public**): ASBL/FUP package **EUR 4,300,000** 2026 (**-EUR 0.9m / -17.8%** vs 2025). **25** management-contract evaluation reports 2024. CoA: annual financial/eval annex covers only entities **with** management contracts — others with aids not in that report. Named invest: watercourses **EUR 1,300,000**; Maison culture Arlon roof **EUR 2,800,000** (contingent on Ville Arlon 2.8m match; **no justificatory piece**); cancer screening vehicle AVIQ **EUR 500,000**; health centres **EUR 600,000**; palace annex **EUR 500,000**. Zones secours **EUR 18,000,000**. Pension cotisations shortfall **EUR 3,100,000** to Ethias fund. GSM tax **EUR 600,000** + matching provision. Public search for named list: **negative**. **FOI draft** `gap_lux_asbl_list_2026` **ready** (human send). Completes 5/5 Walloon provinces L5 map (FOI where names missing).
+- Found (strong CoA; **named EUR list still not public**): ASBL/FUP package **EUR 4,300,000** 2026 (**-EUR 0.9m / -17.8%** vs 2025). **25** management-contract evaluation reports 2024. CoA: annual financial/eval annex covers only entities **with** management contracts â others with aids not in that report. Named invest: watercourses **EUR 1,300,000**; Maison culture Arlon roof **EUR 2,800,000** (contingent on Ville Arlon 2.8m match; **no justificatory piece**); cancer screening vehicle AVIQ **EUR 500,000**; health centres **EUR 600,000**; palace annex **EUR 500,000**. Zones secours **EUR 18,000,000**. Pension cotisations shortfall **EUR 3,100,000** to Ethias fund. GSM tax **EUR 600,000** + matching provision. Public search for named list: **negative**. **FOI draft** `gap_lux_asbl_list_2026` **ready** (human send). Completes 5/5 Walloon provinces L5 map (FOI where names missing).
 - Wrote: 12 budgets; 3 commitments; 2 leaderboard; FOI draft+queue; snapshot; entities; sources; rq_098=blocked_foi; seeded rq_099 synthesis; ticks=98
 - FOI: **gap_lux_asbl_list_2026** ready (not sent); Hainaut FOI still ready
 - Next: **rq_099** Walloon L5 ASBL compare synthesis (prio 2) or **rq_089** SWA Q4 (prio 1)
@@ -770,7 +770,7 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-22T17:04:00Z -- tick 99
 - Unit: rq_099 (Walloon 5 provinces L5 ASBL compare synthesis)
-- Found (strong synthesis, no new primary PDF): From ticks 95–98 only. **Known package EUR:** BW **€10,000,000** (31 entities, motivated) + Lux **€4,300,000** (−17.8% vs 2025) = **€14,300,000**. **Entity counts:** Hainaut **199** (unmotivated, FOI) + BW **31** + Namur **10** (3 unmotivated) = **240**. Liège: named sample (tourism 516k; culture 280k; FTPL cut to €1) not a CoA ≥50k package total. Opacity rank worst→best total disclosure: **Hainaut > Lux names > Namur > Liège sample > BW**. FOI ready human-send: Hainaut + Lux.
+- Found (strong synthesis, no new primary PDF): From ticks 95â98 only. **Known package EUR:** BW **â¬10,000,000** (31 entities, motivated) + Lux **â¬4,300,000** (â17.8% vs 2025) = **â¬14,300,000**. **Entity counts:** Hainaut **199** (unmotivated, FOI) + BW **31** + Namur **10** (3 unmotivated) = **240**. LiÃ¨ge: named sample (tourism 516k; culture 280k; FTPL cut to â¬1) not a CoA â¥50k package total. Opacity rank worstâbest total disclosure: **Hainaut > Lux names > Namur > LiÃ¨ge sample > BW**. FOI ready human-send: Hainaut + Lux.
 - Wrote: `walloon_provinces_l5_asbl_2026.md`; snapshot ASBL section; cmt/lb/source refresh; rq_099=done; seeded rq_100 VL/WAL L5 cross-compare; ticks=99
 - FOI: none new (stack unchanged: gap_hainaut_asbl_list_2026, gap_lux_asbl_list_2026 ready)
 - Next: **rq_100** VL vs WAL province L5 opacity (prio 2) or **rq_089** SWA Q4 (prio 1)
@@ -778,7 +778,7 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-22T17:19:00Z -- tick 100
 - Unit: rq_100 (VL vs WAL province L5 opacity cross-compare)
-- Found (strong synthesis, **not additive**): Flanders **werkingssubsidies sum 5 = €194,175,471**; named POM+tourism 4 = **€38,472,193** (WVL 59%). Wallonia **known ASBL packages BW+Lux only = €14,300,000**; entity counts H+BW+N = **240**; Hainaut 199 FOI. L1 context: VL exp €1.11bn vs WAL ord €1.93bn (different systems). Mechanism: VL MJP/T2 named L5 stronger public; WAL CoA annex often body-missing amounts; dual accounting forbids “Belgian provincial subsidy” headline. Invalid claim: WAL ASBL < VL werksubs as total comparison.
+- Found (strong synthesis, **not additive**): Flanders **werkingssubsidies sum 5 = â¬194,175,471**; named POM+tourism 4 = **â¬38,472,193** (WVL 59%). Wallonia **known ASBL packages BW+Lux only = â¬14,300,000**; entity counts H+BW+N = **240**; Hainaut 199 FOI. L1 context: VL exp â¬1.11bn vs WAL ord â¬1.93bn (different systems). Mechanism: VL MJP/T2 named L5 stronger public; WAL CoA annex often body-missing amounts; dual accounting forbids âBelgian provincial subsidyâ headline. Invalid claim: WAL ASBL < VL werksubs as total comparison.
 - Wrote: `provinces_vl_wal_l5_opacity_2026.md`; 4 budgets; 1 cmt; 1 lb; 1 source; rq_100=done; seeded rq_101 city L5 recheck; ticks=100
 - FOI: none new (Hainaut + Lux ready, human send)
 - Next: **rq_101** Gent/Antwerp city L5 recheck (prio 3) or **rq_089** SWA Q4 (prio 1)
@@ -786,15 +786,15 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-22T17:34:00Z -- tick 101
 - Unit: rq_101 (Gent/Antwerp city L5 open-data recheck)
-- Found (strong, Stad Gent open **subsidieregister** 8718 rows): **2024 charged total €331,933,746** (intern €268.3m incl Politiezone €110.6m / Ivago €62.7m / HVZ €42.3m; **extern €63.7m**; **extern+werking €47.5m**). **Cultuurdienst 2024 €11,559,533** (311 orgs). Named culture: **NTGent €2,985,451** (werking €2,725,451 + invest €260k); Opera Ballet VL €1,459,913; VIERNULVIER €965,374; Minard €550k. **2025 partial** €107.4m only. Antwerp city: **no parallel open named EUR register** found this tick.
+- Found (strong, Stad Gent open **subsidieregister** 8718 rows): **2024 charged total â¬331,933,746** (intern â¬268.3m incl Politiezone â¬110.6m / Ivago â¬62.7m / HVZ â¬42.3m; **extern â¬63.7m**; **extern+werking â¬47.5m**). **Cultuurdienst 2024 â¬11,559,533** (311 orgs). Named culture: **NTGent â¬2,985,451** (werking â¬2,725,451 + invest â¬260k); Opera Ballet VL â¬1,459,913; VIERNULVIER â¬965,374; Minard â¬550k. **2025 partial** â¬107.4m only. Antwerp city: **no parallel open named EUR register** found this tick.
 - Wrote: `gent_city_l5_subsidies_2024.md`; raw top extract; 12 budgets; 2 cmt; 2 lb; 1 source; entity; gap_gent=answered; rq_101=done; seeded rq_102; ticks=101
 - FOI: gap_gent_subsidies_top20 **answered** via open data; gap_antwerp_subsidies_top20 still ready (human send)
 - Next: **rq_102** other city open register scan (prio 3) or **rq_089** SWA Q4 (prio 1)
 
 
 ### 2026-07-22T17:49:00Z -- tick 102
-- Unit: rq_102 (Brugge/Namur/… city open subsidy register scan)
-- Found (strong Brugge OD): **subsidieregister** 5831 rows 2022–2026. **2024 total €99,253,042**; **2025 €97,980,016**; 2026 partial €31.2m. Named: **Brugge Plus €7,317,328 (2024)** / €7.03m (2025); **Concertgebouw €2,110,837 (2024)** / €1.26m (2025); **Entrepot €1,086,176 (2024)**. Core top: Politiezone €32.9m; Mintus €26.2m; HVZ €10.1m. **Namur OD** `subsides-attribues`: **stale 2019–2020 only** (156 rows); SONEFA 2020 €2.13m — BI2026 associatif still from DGF not OD. Charleroi/Mons named OD not found this tick.
+- Unit: rq_102 (Brugge/Namur/â¦ city open subsidy register scan)
+- Found (strong Brugge OD): **subsidieregister** 5831 rows 2022â2026. **2024 total â¬99,253,042**; **2025 â¬97,980,016**; 2026 partial â¬31.2m. Named: **Brugge Plus â¬7,317,328 (2024)** / â¬7.03m (2025); **Concertgebouw â¬2,110,837 (2024)** / â¬1.26m (2025); **Entrepot â¬1,086,176 (2024)**. Core top: Politiezone â¬32.9m; Mintus â¬26.2m; HVZ â¬10.1m. **Namur OD** `subsides-attribues`: **stale 2019â2020 only** (156 rows); SONEFA 2020 â¬2.13m â BI2026 associatif still from DGF not OD. Charleroi/Mons named OD not found this tick.
 - Wrote: `brugge_city_l5_subsidies_tick102.md`; Brugge+Namur top JSON; 15 budgets; 4 cmt; 3 lb; 2 sources; rq_102=done; seeded rq_103; ticks=102
 - FOI: none new (Antwerp/Hainaut/Lux still ready human send; Namur OD lag noted not drafted)
 - Next: **rq_103** Charleroi/Mons L5 PDF (prio 3) or **rq_089** SWA Q4 (prio 1)
@@ -802,7 +802,7 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-22T18:04:00Z -- tick 103
 - Unit: rq_103 (Charleroi/Mons named L5 public PDF)
-- Found (strong Mons ord 2025 PDF): recettes **€246,241,166** / dépenses **€244,180,818**; résultat présumé 01/01/2026 **€2,060,348**. Named: **RCA €1,156,471** + fonct €815k + piscine **€1,900,000**; **MARS package €674k** (fonct 400k + anim 150k + musical 124k); OT personnel €289k + fonct €274k; Fondation Mons €110k; charte activités €100k / fonct €50k; film festival €45k; Basket UMH €220k. **BI2026 PDF still not on mons.be**. Charleroi: only 2026 call forms — **no named EUR list**.
+- Found (strong Mons ord 2025 PDF): recettes **â¬246,241,166** / dÃ©penses **â¬244,180,818**; rÃ©sultat prÃ©sumÃ© 01/01/2026 **â¬2,060,348**. Named: **RCA â¬1,156,471** + fonct â¬815k + piscine **â¬1,900,000**; **MARS package â¬674k** (fonct 400k + anim 150k + musical 124k); OT personnel â¬289k + fonct â¬274k; Fondation Mons â¬110k; charte activitÃ©s â¬100k / fonct â¬50k; film festival â¬45k; Basket UMH â¬220k. **BI2026 PDF still not on mons.be**. Charleroi: only 2026 call forms â **no named EUR list**.
 - Wrote: `mons_city_l5_budget_2025.md`; extract JSON; budgets/cmt/lb/source; gap_mons notes updated; rq_103=done; seeded rq_104; ticks=103
 - FOI: gap_mons still ready (2026); gap_charleroi still ready; no new drafts
 - Next: **rq_104** city L5 transparency compare (prio 2) or **rq_089** SWA Q4 (prio 1)
@@ -810,9 +810,9 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-22T18:19:00Z -- tick 104
 - Unit: rq_104 (City L5 transparency compare Gent/Brugge/Mons + FOI peers)
-- Found (strong synthesis, **not additive**): Transparency ladder **Gent > Brugge > Mons PDF > Namur stale OD > Antwerp=Charleroi FOI**. Gent register 2024 **€331.9m** (extern+werking **€47.5m**; culture **€11.6m**; NTGent **€2.99m**). Brugge 2024 **€99.3m** (Brugge Plus **€7.32m**; Concertgebouw **€2.11m**). Mons ord 2025 dep **€244.2m** (MARS **€674k**; RCA package multi-m). Core police/zones dominate OD tops — not pure L5 waste pools. Invalid: sum cities or compare raw register totals without perimeter.
+- Found (strong synthesis, **not additive**): Transparency ladder **Gent > Brugge > Mons PDF > Namur stale OD > Antwerp=Charleroi FOI**. Gent register 2024 **â¬331.9m** (extern+werking **â¬47.5m**; culture **â¬11.6m**; NTGent **â¬2.99m**). Brugge 2024 **â¬99.3m** (Brugge Plus **â¬7.32m**; Concertgebouw **â¬2.11m**). Mons ord 2025 dep **â¬244.2m** (MARS **â¬674k**; RCA package multi-m). Core police/zones dominate OD tops â not pure L5 waste pools. Invalid: sum cities or compare raw register totals without perimeter.
 - Wrote: `cities_l5_transparency_compare_2026.md`; 3 budget xrefs; 1 cmt; 1 lb; 1 source; rq_104=done; seeded rq_105; ticks=104
-- FOI: none new (stack: Antwerp, Charleroi, Mons2026, Hainaut, Lux — human send)
+- FOI: none new (stack: Antwerp, Charleroi, Mons2026, Hainaut, Lux â human send)
 - Next: **rq_105** FPS TE / VLAIO recheck (prio 3) or **rq_089** SWA Q4 (prio 1)
 
 
@@ -830,7 +830,7 @@ Append-only. Each tick adds a short entry.
 
 
 ### 2026-07-27T04:50:00Z -- auto-pause (idle_waiting_foi)
-- After ticks 117–120 idle (no public open work; FOI ready human-only), auto-pause to stop 15m idle fires.
+- After ticks 117â120 idle (no public open work; FOI ready human-only), auto-pause to stop 15m idle fires.
 - Set `paused=yes`, mode=`paused`. Cancel scheduler **019fa06d7ee0**.
 - Resume: `paused=no` + recreate 15m DOGE scheduler; or seed research_queue / send FOIs.
 
@@ -838,128 +838,128 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-27T12:00:00Z -- resume + tick 122 (user hole-fill)
 - User: restart loop; start with **Unia**; fill holes; only pause when every material euro is sourced **or** FOI-ready (no auto-idle pause).
 - Recreated scheduler **15m** durable **019fa288382e**; mode=`continuous` / sprint=`hole_fill`; `LOOP.md` pause rule tightened.
-- **Unit rq_117 Unia funding (strong primary RA 2024–2025):**
-  - 2024 subsidies **€9,454,426** = federal **€8,170,698** + federated **€1,283,728** (WAL **€761,698**; FWB **€354,971**; BXL **€145,867**; DG **€21,192**; Flanders **€0**).
-  - 2025 subsidies **€9,628,106** = federal **€8,304,698** + federated aggregate **€1,323,408**.
-  - Personnel 2025 **€9,050,949**. Coalition **−25% federal** path (not yet full cash outturn).
-  - Dual: **VMRI** Flanders budget class **~€5.279m (2025)** / request **~€5.598m (2026)** (medium VP).
-- Wrote: `unia_funding_map.md`; entities Unia+VMRI; 16 budgets; 2 cmt; 2 lb; 4 sources; FOI `gap_unia_funding_detail` ready; seeded rq_118–121 (IEFH, FIRM, Myria, hole-fill); ticks=122.
+- **Unit rq_117 Unia funding (strong primary RA 2024â2025):**
+  - 2024 subsidies **â¬9,454,426** = federal **â¬8,170,698** + federated **â¬1,283,728** (WAL **â¬761,698**; FWB **â¬354,971**; BXL **â¬145,867**; DG **â¬21,192**; Flanders **â¬0**).
+  - 2025 subsidies **â¬9,628,106** = federal **â¬8,304,698** + federated aggregate **â¬1,323,408**.
+  - Personnel 2025 **â¬9,050,949**. Coalition **â25% federal** path (not yet full cash outturn).
+  - Dual: **VMRI** Flanders budget class **~â¬5.279m (2025)** / request **~â¬5.598m (2026)** (medium VP).
+- Wrote: `unia_funding_map.md`; entities Unia+VMRI; 16 budgets; 2 cmt; 2 lb; 4 sources; FOI `gap_unia_funding_detail` ready; seeded rq_118â121 (IEFH, FIRM, Myria, hole-fill); ticks=122.
 - FOI: new Unia residual (BGD codes + 2025 federated split); prior stack still human-send.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
 ### 2026-07-27T17:20:00Z -- tick 132
-- Unit: **rq_133** (FOREM full budget primary) — prio 7 / PES dual with VDAB
+- Unit: **rq_133** (FOREM full budget primary) â prio 7 / PES dual with VDAB
 - Found (primary **FOREM RA 2023**; **no invent euros**):
-  - **Budget global €3.091 bn**; federal-managed slice €0.300 bn; **internal exp €2.763 bn**.
-  - **Aides emploi/formation €2.067 bn** (75%); **fonctionnement €0.514 bn** (19%); tiers €0.180 bn.
-  - **Subvention RW €2.662 bn**; other receipts €71.6 m; staff **4,919 / 3,992 FTE**.
-  - Dual PES honesty: FOREM mass includes APE/titres-services passthrough — **not apples-to-apples** with VDAB VL krediet ~€0.75 bn.
-  - 2024–26 RA still missing → FOI residual.
+  - **Budget global â¬3.091 bn**; federal-managed slice â¬0.300 bn; **internal exp â¬2.763 bn**.
+  - **Aides emploi/formation â¬2.067 bn** (75%); **fonctionnement â¬0.514 bn** (19%); tiers â¬0.180 bn.
+  - **Subvention RW â¬2.662 bn**; other receipts â¬71.6 m; staff **4,919 / 3,992 FTE**.
+  - Dual PES honesty: FOREM mass includes APE/titres-services passthrough â **not apples-to-apples** with VDAB VL krediet ~â¬0.75 bn.
+  - 2024â26 RA still missing â FOI residual.
 - Wrote: sources +2; budgets +12; programmes +4; cmt; lb_forem; FOI update; raw RA PDF; rq_133=**done**; ticks=132
 - FOI: gap_forem_budget ready (prio 5; 2023 filled)
 - Next: **rq_137 parties** or regional L5 / taxex prio7
 
 
 ### 2026-07-27T17:00:00Z -- tick 131
-- Unit: **rq_132** (VDAB full budget primary) — prio 7 / FOI-adjacent PES
+- Unit: **rq_132** (VDAB full budget primary) â prio 7 / FOI-adjacent PES
 - Found (primary **BBT BO2026 Werk** pfile 2250747; **no invent euros**):
-  - **Strong:** VDAB VL kredieten BA2025 **VEK €765.690 m** / VAK €760.621 m → BO2026 **VEK €750.702 m** / VAK €750.604 m.
-  - Split BO2026: activering **€561.009 m** VEK; competenties **€189.693 m** VEK.
-  - **−€20 m** werkings toelage cut; **+€3 m** index on competenties toelage.
-  - **Medium:** PQ52 premise **€962 m** total 2024 of which **€783 m** VL dotatie (minister deferred to jaarrekening); conceptnota **€945 m** werkings 2025 (81.2% VL).
-  - Residual: official jaarrekening institutional total (EU+own) + L5 splits → FOI.
+  - **Strong:** VDAB VL kredieten BA2025 **VEK â¬765.690 m** / VAK â¬760.621 m â BO2026 **VEK â¬750.702 m** / VAK â¬750.604 m.
+  - Split BO2026: activering **â¬561.009 m** VEK; competenties **â¬189.693 m** VEK.
+  - **ââ¬20 m** werkings toelage cut; **+â¬3 m** index on competenties toelage.
+  - **Medium:** PQ52 premise **â¬962 m** total 2024 of which **â¬783 m** VL dotatie (minister deferred to jaarrekening); conceptnota **â¬945 m** werkings 2025 (81.2% VL).
+  - Residual: official jaarrekening institutional total (EU+own) + L5 splits â FOI.
 - Wrote: sources +3; budgets +10; programmes +3; cmt; lb_vdab_toelage; FOI draft update; raw PDFs; rq_132=**done**; ticks=131
 - FOI: gap_vdab_full_budget remains ready (prio 5; partial fill)
 - Next: **rq_133 FOREM** (PES dual) or **rq_137 parties** or regional L5
 
 
 ### 2026-07-27T16:40:00Z -- tick 130
-- Unit: **rq_124** (Federal BGD / toelagen top discretionary L5) — prio 8 last
+- Unit: **rq_124** (Federal BGD / toelagen top discretionary L5) â prio 8 last
 - Found (primary **BOSA** register + dept/OISZ/AOI tables; **no invent euros**):
-  - Register **€179.916 bn / 8,993 items (2025)**; path 162.4 → 171.6 → 179.9 bn 2023–25.
-  - **By type 2025:** HH+ASBL **€141.915 bn**; regions **€19.443 bn**; firms **€4.777 bn**; local **€4.682 bn**; BV TE **€4.668 bn**; foreign **€2.592 bn**; Maribel **€0.894 bn**; SSC exempt **€0.943 bn**.
-  - **Dept 2025:** SS **€27.687 bn**; regions **€17.730 bn**; autonomous **€5.470 bn**; HH/ASBL **€4.968 bn**; companies **€3.075 bn**.
-  - **OISZ out €142.955 bn** (HH **€136.384 bn**); **AOI €0.774 bn**.
-  - Assignment funds **€83.552 bn**; 2023 TE inventory **€39.401 bn** (VAT 16.2 largest).
-  - Named L5 top-50: interactive only → FOI **gap_fed_register_l5_top50** ready.
+  - Register **â¬179.916 bn / 8,993 items (2025)**; path 162.4 â 171.6 â 179.9 bn 2023â25.
+  - **By type 2025:** HH+ASBL **â¬141.915 bn**; regions **â¬19.443 bn**; firms **â¬4.777 bn**; local **â¬4.682 bn**; BV TE **â¬4.668 bn**; foreign **â¬2.592 bn**; Maribel **â¬0.894 bn**; SSC exempt **â¬0.943 bn**.
+  - **Dept 2025:** SS **â¬27.687 bn**; regions **â¬17.730 bn**; autonomous **â¬5.470 bn**; HH/ASBL **â¬4.968 bn**; companies **â¬3.075 bn**.
+  - **OISZ out â¬142.955 bn** (HH **â¬136.384 bn**); **AOI â¬0.774 bn**.
+  - Assignment funds **â¬83.552 bn**; 2023 TE inventory **â¬39.401 bn** (VAT 16.2 largest).
+  - Named L5 top-50: interactive only â FOI **gap_fed_register_l5_top50** ready.
 - Wrote: sources +5; budgets +25; cmt; snapshot `fed_toelagen_register_2025.md`; FOI draft; rq_124=**done**; ticks=130
 - FOI: new gap_fed_register_l5_top50 ready (human send)
-- Next: **prio7** IEFH/FIRM, regional L5, VDAB/FOREM, parties, taxex remainder — **prio8 queue empty**
+- Next: **prio7** IEFH/FIRM, regional L5, VDAB/FOREM, parties, taxex remainder â **prio8 queue empty**
 
 
 ### 2026-07-27T16:20:00Z -- tick 129
-- Unit: **rq_154** (Cheque economy official TE line primary) — prio 8 / FOI-adjacent
+- Unit: **rq_154** (Cheque economy official TE line primary) â prio 8 / FOI-adjacent
 - Found (primary **Rekenhof advies** Kamer DOC 56 0785/004, 4 Mar 2026; **no invent euros**):
-  - **(Para)fiscale uitgave maaltijdcheques privé 2024: €1.07 bn** (SSC+PB net of VenB) — **strong CoA** from RSZ+VIA.
-  - **VIA market:** face issued **€3.550 bn 2024** (3.344 bn 2023); **3.142 m** beneficiaries; avg face €7.23; 156.3 cheques/person.
+  - **(Para)fiscale uitgave maaltijdcheques privÃ© 2024: â¬1.07 bn** (SSC+PB net of VenB) â **strong CoA** from RSZ+VIA.
+  - **VIA market:** face issued **â¬3.550 bn 2024** (3.344 bn 2023); **3.142 m** beneficiaries; avg face â¬7.23; 156.3 cheques/person.
   - **FPS inventaris fiscale uitgaven:** lists meal-voucher TE but **amount not estimated** (CoA explicit).
-  - **AABEO** CIT-only gov reform impact: **€55.8 / 62.7 / 65.6 m** 2026–28.
-  - Federal public direct cost class **€71.6 m**; **ecocheques aggregate still Unknown**.
+  - **AABEO** CIT-only gov reform impact: **â¬55.8 / 62.7 / 65.6 m** 2026â28.
+  - Federal public direct cost class **â¬71.6 m**; **ecocheques aggregate still Unknown**.
   - Supersedes thesis ~1.4 bn as best official meal estimate (keep medium triangulation).
-- Wrote: sources +2; taxex +budgets +cmt; lb_cheque_economy → 1.07bn strong; FOI residual eco+FPS euro; raw PDF; rq_154=**done**; ticks=129
+- Wrote: sources +2; taxex +budgets +cmt; lb_cheque_economy â 1.07bn strong; FOI residual eco+FPS euro; raw PDF; rq_154=**done**; ticks=129
 - FOI: gap_cheque_te still **ready** (prio 7; meal partial)
 - Next: last prio8 **rq_124** federal BGD top50; then prio7 equality/PES
 
 
 ### 2026-07-27T16:00:00Z -- tick 128
-- Unit: **rq_125** (Flanders BO2026 top 30 named subsidies L5) — prio 8
+- Unit: **rq_125** (Flanders BO2026 top 30 named subsidies L5) â prio 8
 - Found (primary Centenboekje BO2026 PDF; **no invent euros**):
-  - Domain VEK already mapped; extracted **30+ named measure lines** (Jobbonus 228m, Oosterweel 889.9m, VV 436.4m, subsidy cut pkg 350m, uitstel 370m, hervorm 462.7m, werk 229.0m, dienstencheques effort 151.4m, Warm 98.5m, Welvarend 206.9m, Gemeentefonds +115.1m, rente +330.6m, VRT +49.3m, De Lijn VEK −61.3m, retro premies −189.9/−111.7m, index 718.9m, …).
+  - Domain VEK already mapped; extracted **30+ named measure lines** (Jobbonus 228m, Oosterweel 889.9m, VV 436.4m, subsidy cut pkg 350m, uitstel 370m, hervorm 462.7m, werk 229.0m, dienstencheques effort 151.4m, Warm 98.5m, Welvarend 206.9m, Gemeentefonds +115.1m, rente +330.6m, VRT +49.3m, De Lijn VEK â61.3m, retro premies â189.9/â111.7m, index 718.9m, â¦).
   - Many rows are **deltas/effort packages**, not full L5 third-party registers.
   - Snapshot: `vl_bo2026_named_measures_top30.md`
 - Wrote: sources +1; programmes +35; budgets +15; snapshot md; rq_125=**done**; ticks=128
-- FOI: none new (centenboekje is L3–L4; L5 ASBL lists remain prior FOI stack)
+- FOI: none new (centenboekje is L3âL4; L5 ASBL lists remain prior FOI stack)
 - Next: prio8 **rq_124** federal BGD / **rq_154** cheques TE
 
 
 ### 2026-07-27T15:40:00Z -- tick 127
-- Unit: **rq_130** (NMBS PSO cash-by-year primary) — prio 8 / FOI-adjacent
-- Found (primary **Openbaredienstcontract NMBS–Staat 2023–2032** Art.115–116; **no invent euros**):
+- Unit: **rq_130** (NMBS PSO cash-by-year primary) â prio 8 / FOI-adjacent
+- Found (primary **Openbaredienstcontract NMBSâStaat 2023â2032** Art.115â116; **no invent euros**):
   - **Compensatie = invest + variable (57% ODV tickets) + specific + fixed exp**
-  - **Betalingstraject courante m€ (Art.116 table):**  
+  - **Betalingstraject courante mâ¬ (Art.116 table):**  
     2023 core3 **1 985.3** (663.5+490.3+831.5); 2024 **2 016.2**; 2025 **2 383.1**; 2026 **2 265.8**  
     (excl. specific comps + woon-werk Art.40; saldi/overdrachten excl.)
-  - Deferred **€536.513 m/yr** non-indexed from last monthly advances (var+fixed).
-  - Cross-check: NBB ESA D.31+D.92 **€1.957 bn 2024** ≈ order of core3 2.016.
-  - FPS/BOSA **budget article cash codes still unknown** → FOI residual.
+  - Deferred **â¬536.513 m/yr** non-indexed from last monthly advances (var+fixed).
+  - Cross-check: NBB ESA D.31+D.92 **â¬1.957 bn 2024** â order of core3 2.016.
+  - FPS/BOSA **budget article cash codes still unknown** â FOI residual.
 - Wrote: sources +1; budgets ~21; cmt ODC path; lb upgraded; FOI draft residual; raw ODC PDF; rq_130=**done**; ticks=127
 - FOI: gap_nmbs_annual_toelage remains **ready** (FPS codes + outturn)
 - Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_154** cheques
 
 
 ### 2026-07-27T15:20:00Z -- tick 126
-- Unit: **rq_131** (De Lijn full dotatie series primary) — prio 8 / FOI-adjacent
-- Found (primary SV 955 Peeters→De Ridder 26 Feb 2026; **no invent euros**):
-  - **Strong multi-year toelage** (Vervoersautoriteit via PQ): exp+inv **2019–2024** ends at **€1.497683 bn 2024** (exp **€1.228474 bn** + inv **€0.269209 bn**); 2023 exp **€1.164150 bn** (supersedes press ~1.14bn medium).
-  - ODC **basistoelage base €938.7 m**; 2025 KN+AN+VoM **€955.331659 m → €919.831649 m** after savings target.
-  - 2025 own revenues **€255.098 m**; GIP invest **€661.025 m** (vergroening €460.9 m); availability fees **€52.592 m** (2025) / **€54.760 m** BO2026.
-  - Minister deferred full 2025–26 exp+inv total to BBT (Q1–2) — **FOI residual** for comparable 2025–26 row.
+- Unit: **rq_131** (De Lijn full dotatie series primary) â prio 8 / FOI-adjacent
+- Found (primary SV 955 PeetersâDe Ridder 26 Feb 2026; **no invent euros**):
+  - **Strong multi-year toelage** (Vervoersautoriteit via PQ): exp+inv **2019â2024** ends at **â¬1.497683 bn 2024** (exp **â¬1.228474 bn** + inv **â¬0.269209 bn**); 2023 exp **â¬1.164150 bn** (supersedes press ~1.14bn medium).
+  - ODC **basistoelage base â¬938.7 m**; 2025 KN+AN+VoM **â¬955.331659 m â â¬919.831649 m** after savings target.
+  - 2025 own revenues **â¬255.098 m**; GIP invest **â¬661.025 m** (vergroening â¬460.9 m); availability fees **â¬52.592 m** (2025) / **â¬54.760 m** BO2026.
+  - Minister deferred full 2025â26 exp+inv total to BBT (Q1â2) â **FOI residual** for comparable 2025â26 row.
 - Wrote: sources +1; budgets ~20 lines; cmt + lb upgraded strong; FOI draft residual; raw PDF; rq_131=**done**; ticks=126
-- FOI: gap_de_lijn_dotatie still **ready** (priority 6; 2019–24 filled)
+- FOI: gap_de_lijn_dotatie still **ready** (priority 6; 2019â24 filled)
 - Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_130** NMBS / **rq_154** cheques
 
 
 ### 2026-07-27T15:00:00Z -- tick 125
-- Unit: **rq_123** (VL gelijke kansen full programme L5 beyond Wassalon) — prio 8
+- Unit: **rq_123** (VL gelijke kansen full programme L5 beyond Wassalon) â prio 8
 - Found (primary; **no invent euros**):
-  - **Strong (VP BBT Open Vld 7 Nov 2025, pfile 2247885):** Gelijke Kansen **werkingsbudget 2026 €15.162m** (−€18k y/y order); **projectsubsidies €4.361m** reserved; **VEK +€1.888m** rebalance; staff **10.3 VTE / €1,000,767.29** budgetlast.
-  - **Named research L5:** Rode vlaggen KH Vives **€119,018.50** incl BTW; non-binariteit UGent **€119,634**; expertendatabank eval **€45,000** (17,424+27,611 Ipsos).
-  - **Campaign:** BBT confirms **€800,000** mensenrechtencampagne via **LDV United** raamcontract (upgrades Wassalon contractor from medium claim → **strong** parliament answer).
-  - **Inter:** toelage **€1.333m 2025 / €1.354m 2026**; IedereenOveral top-up **€163k** (2024 budget, Jul24–Dec25).
-  - **Portal strong names / no EUR:** dozens of lopende projecten (Pride 6 orgs, Safe spaces, GAMS/Plan/Zij-Kant, Turboplan, etc.) — amounts still FOI.
+  - **Strong (VP BBT Open Vld 7 Nov 2025, pfile 2247885):** Gelijke Kansen **werkingsbudget 2026 â¬15.162m** (ââ¬18k y/y order); **projectsubsidies â¬4.361m** reserved; **VEK +â¬1.888m** rebalance; staff **10.3 VTE / â¬1,000,767.29** budgetlast.
+  - **Named research L5:** Rode vlaggen KH Vives **â¬119,018.50** incl BTW; non-binariteit UGent **â¬119,634**; expertendatabank eval **â¬45,000** (17,424+27,611 Ipsos).
+  - **Campaign:** BBT confirms **â¬800,000** mensenrechtencampagne via **LDV United** raamcontract (upgrades Wassalon contractor from medium claim â **strong** parliament answer).
+  - **Inter:** toelage **â¬1.333m 2025 / â¬1.354m 2026**; IedereenOveral top-up **â¬163k** (2024 budget, Jul24âDec25).
+  - **Portal strong names / no EUR:** dozens of lopende projecten (Pride 6 orgs, Safe spaces, GAMS/Plan/Zij-Kant, Turboplan, etc.) â amounts still FOI.
 - Wrote: sources +3; budgets +10; programmes +7; commitments +3; lb Wassalon LDV upgrade; FOI draft gap_vl_gelijke_kansen updated residual; raw PDF; rq_123=**done**; ticks=125
 - FOI: gap_vl_gelijke_kansen remains **ready** (per-project EUR list); human send
-- Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_130–131** NMBS/De Lijn / **rq_154** cheques
+- Next: prio8 **rq_124** BGD / **rq_125** VL subsidies / **rq_130â131** NMBS/De Lijn / **rq_154** cheques
 
 
 ### 2026-07-27T14:40:00Z -- tick 124
-- Unit: **rq_152** (GG expenditure bridge % of ~€348bn tagged) — prio 9 open
+- Unit: **rq_152** (GG expenditure bridge % of ~â¬348bn tagged) â prio 9 open
 - Found (synthesis from prior primary rows; **no invent euros**):
-  - **L0:** S.13 TE 2025 **€347.956 bn** (54.2% GDP) + primary €333.675 bn + interest €14.282 bn — **100% tagged** (strong NBB/Eurostat).
-  - **L1:** unconsol. S.1311 181.5 / S.1312 128.6 / S.1313 45.0 / S.1314 141.7 bn; sum €496.8 bn; transfer wedge **≈€148.9 bn** — **100% L1 map**.
-  - **L2 partial:** FL BA2025 66.5 + WAL 22.0 + FWB ~15 + BRU 8 + DG 0.7 ≈ **€112 bn** class vs S.1312 128.6 → **€15–20 bn residual** order in state layer (perimeter/year, not exact identity). RIZIV 45.2 bn ≈ **32%** of S.1314. Federal/local L5 thin.
-  - **L5 end-receivers:** samples only — **do not claim** near-complete naming of 348bn.
+  - **L0:** S.13 TE 2025 **â¬347.956 bn** (54.2% GDP) + primary â¬333.675 bn + interest â¬14.282 bn â **100% tagged** (strong NBB/Eurostat).
+  - **L1:** unconsol. S.1311 181.5 / S.1312 128.6 / S.1313 45.0 / S.1314 141.7 bn; sum â¬496.8 bn; transfer wedge **ââ¬148.9 bn** â **100% L1 map**.
+  - **L2 partial:** FL BA2025 66.5 + WAL 22.0 + FWB ~15 + BRU 8 + DG 0.7 â **â¬112 bn** class vs S.1312 128.6 â **â¬15â20 bn residual** order in state layer (perimeter/year, not exact identity). RIZIV 45.2 bn â **32%** of S.1314. Federal/local L5 thin.
+  - **L5 end-receivers:** samples only â **do not claim** near-complete naming of 348bn.
   - Inventory: budgets 786; cmt 228; lb 160; taxex 153; FOI ready **34**; rq open was 38.
 - Wrote: `docs/doge/data/gg_expenditure_bridge_2025.md`; sources `src_doge_gg_bridge_2025`; rq_152=**done**; ticks=124
 - FOI: none new (residual already in ready stack + open RQs)
@@ -967,13 +967,13 @@ Append-only. Each tick adds a short entry.
 
 
 ### 2026-07-27T14:25:00Z -- tick 123
-- Unit: **rq_122** (VL Het Wassalon 800k deepen tender L5) — prio 9 open
+- Unit: **rq_122** (VL Het Wassalon 800k deepen tender L5) â prio 9 open
 - Found (primary / sourced; no invent euros):
-  - **Strong (official):** ABB vlaanderen.be 17 Jun 2026 — campaign **3 years**, **2 seasons/year**; host Daphne Agten; themes LGBTQI+ / disability / gender; YT+Spotify+IG+FB; Mechelen launch.
-  - **Medium–strong (minister via VRT):** Gennez commissie Welzijn — full package **€800,000 / 3y** (creatie+productie+marketing+middenveld); **raamcontract** prijsafspraken; **Sept 2026** evaluation.
+  - **Strong (official):** ABB vlaanderen.be 17 Jun 2026 â campaign **3 years**, **2 seasons/year**; host Daphne Agten; themes LGBTQI+ / disability / gender; YT+Spotify+IG+FB; Mechelen launch.
+  - **Mediumâstrong (minister via VRT):** Gennez commissie Welzijn â full package **â¬800,000 / 3y** (creatie+productie+marketing+middenveld); **raamcontract** prijsafspraken; **Sept 2026** evaluation.
   - **Medium (VRT press metrics):** YT top episode ~**2,300** views/month; IG ~**636** followers; IG clips often **10k+**; Spotify listens not public.
-  - **Medium (secondary claims, not tender PDF):** LDV United via VL raam “strategische en creatieve communicatiepartners” (Doorbraak quoting VB MP); **NoStrezz** portfolio self-claim “fully produced”.
-  - Cash-by-year and gunningsbedragen **still Unknown** → FOI residual.
+  - **Medium (secondary claims, not tender PDF):** LDV United via VL raam âstrategische en creatieve communicatiepartnersâ (Doorbraak quoting VB MP); **NoStrezz** portfolio self-claim âfully producedâ.
+  - Cash-by-year and gunningsbedragen **still Unknown** â FOI residual.
 - Wrote: sources +4; commitments cmt_vl_wassalon updated; leaderboard + budgets notes; FOI draft + gap row residual; rq_122=**done**; ticks=123
 - FOI: gap_vl_wassalon_tender remains **ready** (human send); draft refined with named contractor claims to confirm/deny
 - Next: **rq_152** GG bridge prio9; or rq_123/124/125/130/131 prio8; do not idle
@@ -983,325 +983,325 @@ Append-only. Each tick adds a short entry.
 - User: drop timer; prefer chain-on-complete or 30s/1m.
 - Platform: durable scheduler is **interval-only** (no native on-complete chain); **min interval 60s** (30s not available).
 - Cancelled 15m task **019fa288382e**; created **60s** durable task (see scheduler list).
-- Trade-off: ticks often run 2–15 min → possible **concurrent** fires; one unit per fire still; no force-push.
+- Trade-off: ticks often run 2â15 min â possible **concurrent** fires; one unit per fire still; no force-push.
 - Updated `LOOP.md` cadence section.
 
 
 ### 2026-07-27T14:05:00Z -- seed (user): Wassalon + mass L5 queue
-- User: keep loop; **Het Wassalon** gelijke kansen **€800k / 3y** (news Jul 2026) not yet in dataset → add high absurdity; seed many RQs for end-receivers / every-cent map.
-- **Found (not in prior ticks):** Minister Gennez (VP, Jul 2026) — campaign+vodcast **Het Wassalon** (ABB) **€800,000 over three years** (~€267k/yr illustrative). Press (HLN): early views **~661** class (medium secondary). High clown/absurdity candidate (**abs 9.5**, priority_index **~7.4**).
+- User: keep loop; **Het Wassalon** gelijke kansen **â¬800k / 3y** (news Jul 2026) not yet in dataset â add high absurdity; seed many RQs for end-receivers / every-cent map.
+- **Found (not in prior ticks):** Minister Gennez (VP, Jul 2026) â campaign+vodcast **Het Wassalon** (ABB) **â¬800,000 over three years** (~â¬267k/yr illustrative). Press (HLN): early views **~661** class (medium secondary). High clown/absurdity candidate (**abs 9.5**, priority_index **~7.4**).
 - Wrote: budgets + cmt + **lb_vl_wassalon_podcast**; FOI **gap_vl_wassalon_tender** ready; sources VRT+HLN.
-- **Seeded open RQs rq_122–rq_155** (34 units): Wassalon deepen, gelijke kansen L5, federal BGD top50, VL/WAL/FWB/BRU L5, SS/NMBS/De Lijn/VDAB/FOREM, parties, unions, mutualities, hospitals, unis, intercommunales, cities, defence, energy, **rq_152 GG bridge % of ~€348bn tagged**, taxex remainder, cheques, company-cars split.
-- Honesty: GG **€348bn** will **not** be fully named L5 soon — map is L0 totals + samples + FOI residual; rq_152 will measure coverage gap.
+- **Seeded open RQs rq_122ârq_155** (34 units): Wassalon deepen, gelijke kansen L5, federal BGD top50, VL/WAL/FWB/BRU L5, SS/NMBS/De Lijn/VDAB/FOREM, parties, unions, mutualities, hospitals, unis, intercommunales, cities, defence, energy, **rq_152 GG bridge % of ~â¬348bn tagged**, taxex remainder, cheques, company-cars split.
+- Honesty: GG **â¬348bn** will **not** be fully named L5 soon â map is L0 totals + samples + FOI residual; rq_152 will measure coverage gap.
 - Next loop picks **rq_122** (prio 9) or **rq_152** (prio 9).
 
 
-### 2026-07-27T00:20:00Z — tick 105
-- Unit: **rq_105** (Federal/Flanders L5 recheck — FPS TE + VLAIO)
+### 2026-07-27T00:20:00Z â tick 105
+- Unit: **rq_105** (Federal/Flanders L5 recheck â FPS TE + VLAIO)
 - Found:
-  - **FPS taxex inventory XLSX re-download**: size 123619 bytes; MD5 `cb04adbe94e0fd27e25a511c100878be` **identical** to tick4 copy — **no new year sheets**. Existing tax_expenditures top20 still valid.
+  - **FPS taxex inventory XLSX re-download**: size 123619 bytes; MD5 `cb04adbe94e0fd27e25a511c100878be` **identical** to tick4 copy â **no new year sheets**. Existing tax_expenditures top20 still valid.
   - **VLAIO.be** still Akamai-blocked for agents; used primary **Speurgids 2025** (Departement WEWIS, Mar 2026, BO2025 vastlegging) instead.
-  - Speurgids Table 1 (strong): EWI broad **€5,289.65m**; economisch beleid **€619.32m** (via FIO/VLAIO); wetenschap+innovatie **€4,669.33m** of which FIO/VLAIO WIB **€437.03m**.
-  - Table 36 FIO Innovatie: **bedrijfssteun O&O €210.90m**; clusters **€82.55m**; Moonshot **€20m**.
-  - Table 11/13 L5 instruments: **Kmo-portefeuille 2024 outturn €42.716m** (province split); BO2025 **€40m**; Kmo-groei outturn **€11.869m**; STS 2024 **€12.216m** (line zeroed BO2025 → Transitie en Transformatie; STS cut ~€20m); **Carbon leakage CIE BO2025 €261.59m** (largest single econ instrument); imec **€155.4m** VIB **€87.97m** Flanders Make **€54.94m**.
+  - Speurgids Table 1 (strong): EWI broad **â¬5,289.65m**; economisch beleid **â¬619.32m** (via FIO/VLAIO); wetenschap+innovatie **â¬4,669.33m** of which FIO/VLAIO WIB **â¬437.03m**.
+  - Table 36 FIO Innovatie: **bedrijfssteun O&O â¬210.90m**; clusters **â¬82.55m**; Moonshot **â¬20m**.
+  - Table 11/13 L5 instruments: **Kmo-portefeuille 2024 outturn â¬42.716m** (province split); BO2025 **â¬40m**; Kmo-groei outturn **â¬11.869m**; STS 2024 **â¬12.216m** (line zeroed BO2025 â Transitie en Transformatie; STS cut ~â¬20m); **Carbon leakage CIE BO2025 â¬261.59m** (largest single econ instrument); imec **â¬155.4m** VIB **â¬87.97m** Flanders Make **â¬54.94m**.
 - Wrote: sources (+2); programmes (+13 Speurgids lines); commitments (+6); tax_expenditures recheck row; leaderboard (+3 CIE/kmo/FIO-OO); raw speurgids2025_full.pdf + deel1_ch1.pdf; rq_105=done; ticks=105
 - FOI opened: none new (gap_vl_efro_l5 still covers project L5 opacity; Speurgids fills envelope not full beneficiary cash)
 - Next: **rq_089** SWA Q4 recheck (prio1) or spawn next public L5; human send ready FOI stack (Antwerp/Charleroi/Mons2026/Hainaut/Lux + federal)
 
-### 2026-07-27T00:40:00Z — tick 106
+### 2026-07-27T00:40:00Z â tick 106
 - Unit: **rq_089** (SWA multi-parliament final assent recheck Q4)
 - Found (strong process; negative on final votes):
   - **No final** Kamer/Senaat / Vlaams Parlement / Wallonie / FWB / Brussels plenaire assent law/decree and **no BS/Moniteur** publication found for the Mar 2026 multi-entity economic-governance SWA (fifth dedicated recheck; search as of 2026-07-27).
-  - Process still maxes at: Overleg **27 Mar 2026** → VL gov **8 May** principal + SERV **1 Jun** filed → federal MR **13 May** avant-projet loi → WAL/FWB **1st reading** ODJs; **Brussels** still thin.
-  - New primary **APR 2026** (BOSA, **30 Apr 2026**) ch.5: reform of 2013 interfederal budget SWA; after signature, SWA + assent acts → **Raad van State** advice **by summer**; then entity **parliaments by year-end**. Matches stalled public track mid/late July.
+  - Process still maxes at: Overleg **27 Mar 2026** â VL gov **8 May** principal + SERV **1 Jun** filed â federal MR **13 May** avant-projet loi â WAL/FWB **1st reading** ODJs; **Brussels** still thin.
+  - New primary **APR 2026** (BOSA, **30 Apr 2026**) ch.5: reform of 2013 interfederal budget SWA; after signature, SWA + assent acts â **Raad van State** advice **by summer**; then entity **parliaments by year-end**. Matches stalled public track mid/late July.
   - Kamer PDF 56K1569 blocked (WAF); not used as source this tick.
-- Wrote: sources (+src_apr_2026_bosa, recheck note); commitments **cmt_swa_econ_governance_2026** (status pending_assent; €0 not a spend envelope); rq_089=done; spawned **rq_106** CIE L5 (prio4) + **rq_107** SWA year-end recheck (prio1); raw apr_2026_bosa.pdf; ticks=106
+- Wrote: sources (+src_apr_2026_bosa, recheck note); commitments **cmt_swa_econ_governance_2026** (status pending_assent; â¬0 not a spend envelope); rq_089=done; spawned **rq_106** CIE L5 (prio4) + **rq_107** SWA year-end recheck (prio1); raw apr_2026_bosa.pdf; ticks=106
 - FOI opened: none
-- Next: **rq_106** carbon leakage CIE L5 beneficiaries (Speurgids €261.59m); human FOI stack unchanged
+- Next: **rq_106** carbon leakage CIE L5 beneficiaries (Speurgids â¬261.59m); human FOI stack unchanged
 
-### 2026-07-27T01:00:00Z — tick 107
+### 2026-07-27T01:00:00Z â tick 107
 - Unit: **rq_106** (Carbon leakage CIE L5 beneficiaries / evaluation)
 - Found (strong totals; L5 names still opaque):
-  - **FIO VEK ICL** (BO2026 tech vragen, keuro): **2024 250.234m** / **2025 261.588m** / **2026 BO 216.609m** — matches Speurgids 261.59m for 2025.
-  - **PQ 251** (Diependaele 20 Feb 2026): **€258m** toegekend in 2025 voor emissiejaar 2024; **+€40m** uitzonderingsmechanisme EY 2022–23; budget **€216m** 2026.
-  - **PQ 28** (2 Oct 2025): CIE = **grootste VLAIO-bedrijfssubsidie**; cite **€229m in 2024**; investeringsplicht-controles nog niet gestart (tot 2028 voor EY2021); **14 bedrijven** missen product-elektriciteitsbenchmark (50% herinvestering); terugvorderingen **€19.898.396** (2020–24).
+  - **FIO VEK ICL** (BO2026 tech vragen, keuro): **2024 250.234m** / **2025 261.588m** / **2026 BO 216.609m** â matches Speurgids 261.59m for 2025.
+  - **PQ 251** (Diependaele 20 Feb 2026): **â¬258m** toegekend in 2025 voor emissiejaar 2024; **+â¬40m** uitzonderingsmechanisme EY 2022â23; budget **â¬216m** 2026.
+  - **PQ 28** (2 Oct 2025): CIE = **grootste VLAIO-bedrijfssubsidie**; cite **â¬229m in 2024**; investeringsplicht-controles nog niet gestart (tot 2028 voor EY2021); **14 bedrijven** missen product-elektriciteitsbenchmark (50% herinvestering); terugvorderingen **â¬19.898.396** (2020â24).
   - Tech vragen: raming **~40 bedrijven** 2026; 75% standaard; **geen publieke naam+EUR-lijst**.
   - Steelman: EU-toegelaten carbon-leakage correctie; opacity L5 is the DOGE issue.
-- Wrote: sources +3; programmes CIE 2024–26; commitments cash path + exception cmt; leaderboard refresh; **FOI gap_vl_cie_l5_beneficiaries ready**; rq_106=blocked_foi; spawned **rq_108** FIO O&O L5; raw PQs + tech PDF; ticks=107
-- FOI opened: **gap_vl_cie_l5_beneficiaries** → ready (human send only)
+- Wrote: sources +3; programmes CIE 2024â26; commitments cash path + exception cmt; leaderboard refresh; **FOI gap_vl_cie_l5_beneficiaries ready**; rq_106=blocked_foi; spawned **rq_108** FIO O&O L5; raw PQs + tech PDF; ticks=107
+- FOI opened: **gap_vl_cie_l5_beneficiaries** â ready (human send only)
 - Next: **rq_108** VLAIO FIO bedrijfssteun O&O L5 sample; human FOI stack includes CIE
 
-### 2026-07-27T01:20:00Z — tick 108
+### 2026-07-27T01:20:00Z â tick 108
 - Unit: **rq_108** (VLAIO FIO bedrijfssteun O&O named L5 / open data)
 - Found (strong aggregates + partial named L5; bulk list FOI):
-  - **PQ177** innovatiesteun OND+ONTW+ICON decision-year: Flanders **2025 €196.90m** (388 firms / 390 projects); multi-year path 2020–25 public; full portfolio incl ISS/Schaalklaar/haalbaarheid **€214.15m** 2025.
-  - **PQ209** ontwikkelingsprojecten only: **€443m** 2021–25 on **€1.275bn** project cost (~35% avg); 918/1093 approved 2023–25; province split ANT 110.9 / OV 132.5 / WVL 79.3 / VBR 70.3 / LIM 38.0 / other 12.0 mEUR. Individual project names **withheld for confidentiality** (Excel bijlage not in PDF).
-  - **PQ351 named L5 Woosh**: KMOGS €50k; ONTW €158.3k + €376.0k; haalbaarheid €46.2k; Schaalklaar €350k (codes public).
-  - **Speurgids 2025**: speerpuntcluster geoormerkt **€54.2m** / 38 projects 2024 (Catalisti 5.31 … Intercluster 14.2); **Moonshot €24.54m** / 10 projects; Edtech Station **€1.8m**/3y.
+  - **PQ177** innovatiesteun OND+ONTW+ICON decision-year: Flanders **2025 â¬196.90m** (388 firms / 390 projects); multi-year path 2020â25 public; full portfolio incl ISS/Schaalklaar/haalbaarheid **â¬214.15m** 2025.
+  - **PQ209** ontwikkelingsprojecten only: **â¬443m** 2021â25 on **â¬1.275bn** project cost (~35% avg); 918/1093 approved 2023â25; province split ANT 110.9 / OV 132.5 / WVL 79.3 / VBR 70.3 / LIM 38.0 / other 12.0 mEUR. Individual project names **withheld for confidentiality** (Excel bijlage not in PDF).
+  - **PQ351 named L5 Woosh**: KMOGS â¬50k; ONTW â¬158.3k + â¬376.0k; haalbaarheid â¬46.2k; Schaalklaar â¬350k (codes public).
+  - **Speurgids 2025**: speerpuntcluster geoormerkt **â¬54.2m** / 38 projects 2024 (Catalisti 5.31 â¦ Intercluster 14.2); **Moonshot â¬24.54m** / 10 projects; Edtech Station **â¬1.8m**/3y.
   - VLAIO.be jaarverslag annex media/3057 still **403 blocked** for agent download.
 - Wrote: sources +4; programmes +5; commitments +6 L5; leaderboard +3; **FOI gap_vl_fio_project_l5 ready**; rq_108=done; spawned rq_109; raw PQs; ticks=108
-- FOI opened: **gap_vl_fio_project_l5** → ready (human send; complements gap_vl_cie_l5)
+- FOI opened: **gap_vl_fio_project_l5** â ready (human send; complements gap_vl_cie_l5)
 - Next: **rq_109** federal TE/FFS recheck or **rq_107** SWA year-end (low)
 
-### 2026-07-27T01:40:00Z — tick 109
+### 2026-07-27T01:40:00Z â tick 109
 - Unit: **rq_109** (FPS FFS / taxex inventory micro-update)
 - Found (strong primary Jul 2026 editions):
-  - **FFS 5th inventory** (FPS Finance+Health, data cut 1 Jan 2026, pub Jul 2026): **direct fossil subsidies 2024 €10,781.9m** (1.7% GDP); path 12.09 / 13.45 / 11.66 / 10.78 bn 2021–24. Confirms prior EN summary: company cars EHS **€3,141.7m**; fuel cards **€661.6m**; pro diesel FFS **€831.2m**; aviation kerosene **€754.6m**; VAT reduced gas HH **€635.2m**; agriculture intermediate **€378.5m**. International air+sea **€1,006.5m**. Broad sum direct+intl+indirect+EHS ≈ **€15.15bn** (press “15bn” class).
-  - **Inventory of Federal Tax Expenditures (2024)** PDF: quantified total **2023 €39,402.01m** (6.74% GDP); path 28.9→39.4 bn 2018–23 (+6.37%/yr avg). By tax 2023: VAT **16.20bn**; PIT federal **9.67bn**; EIWT **4.42bn**; CIT **3.81bn**; excise **2.44bn**. Social objective **42.4%** of quantified.
+  - **FFS 5th inventory** (FPS Finance+Health, data cut 1 Jan 2026, pub Jul 2026): **direct fossil subsidies 2024 â¬10,781.9m** (1.7% GDP); path 12.09 / 13.45 / 11.66 / 10.78 bn 2021â24. Confirms prior EN summary: company cars EHS **â¬3,141.7m**; fuel cards **â¬661.6m**; pro diesel FFS **â¬831.2m**; aviation kerosene **â¬754.6m**; VAT reduced gas HH **â¬635.2m**; agriculture intermediate **â¬378.5m**. International air+sea **â¬1,006.5m**. Broad sum direct+intl+indirect+EHS â **â¬15.15bn** (press â15bnâ class).
+  - **Inventory of Federal Tax Expenditures (2024)** PDF: quantified total **2023 â¬39,402.01m** (6.74% GDP); path 28.9â39.4 bn 2018â23 (+6.37%/yr avg). By tax 2023: VAT **16.20bn**; PIT federal **9.67bn**; EIWT **4.42bn**; CIT **3.81bn**; excise **2.44bn**. Social objective **42.4%** of quantified.
   - Taxex XLSX recheck already identical earlier; this PDF adds **official global aggregates** not fully seeded before.
-  - Method note (strong): FFS ≠ cash budget gain if abolished; TE inventory ≠ ESA spending; do not double-count FFS into TE total.
+  - Method note (strong): FFS â  cash budget gain if abolished; TE inventory â  ESA spending; do not double-count FFS into TE total.
 - Wrote: sources +3; tax_expenditures +12; commitments +2; leaderboard +3 + refresh 3 fossil rows; budgets +2; rq_109=done; spawned **rq_110**; raw FFS full+summary + taxex PDF; ticks=109
 - FOI opened: none (public inventories sufficient for this unit)
 - Next: **rq_110** kerosene/VAT gas deepen or low **rq_107** SWA
 
-### 2026-07-27T02:00:00Z — tick 110
+### 2026-07-27T02:00:00Z â tick 110
 - Unit: **rq_110** (Kerosene aviation + VAT gas HH multi-year / reform notes)
 - Found (strong FFS 2026 primary):
-  - **Aviation kerosene** (Table 20, ETD min €330/1000l): **2019–24 €677.0 / 471.8 / 594.2 / 687.7 / 689.5 / 754.6 m** — rising post-COVID; sum **€3.875bn**. FFS eval: unjustified economically and environmentally; unilateral national tax weak; EU ETD proposal higher rate after 10y transition still blocked; coalition 2025–29 cites Chicago Convention revision.
-  - **VAT gas households 6%**: **2021–24 €0 / 610.1 / 694.3 / 635.2 m**; electricity HH fossil-share **0 / 277.1 / 285.6 / 226.9 m**. Crisis cut made permanent class.
-  - **VAT air tickets** (indirect): **87.5 / 180.4 / 208.8 / 224.5 m** 2021–24; stacks on kerosene.
-  - **Boarding tax** (separate instrument, not kerosene): budget/programme law path €5→€10 from 2027 class; later press scaled to €7 — **medium secondary**, not FFS inventory.
+  - **Aviation kerosene** (Table 20, ETD min â¬330/1000l): **2019â24 â¬677.0 / 471.8 / 594.2 / 687.7 / 689.5 / 754.6 m** â rising post-COVID; sum **â¬3.875bn**. FFS eval: unjustified economically and environmentally; unilateral national tax weak; EU ETD proposal higher rate after 10y transition still blocked; coalition 2025â29 cites Chicago Convention revision.
+  - **VAT gas households 6%**: **2021â24 â¬0 / 610.1 / 694.3 / 635.2 m**; electricity HH fossil-share **0 / 277.1 / 285.6 / 226.9 m**. Crisis cut made permanent class.
+  - **VAT air tickets** (indirect): **87.5 / 180.4 / 208.8 / 224.5 m** 2021â24; stacks on kerosene.
+  - **Boarding tax** (separate instrument, not kerosene): budget/programme law path â¬5ââ¬10 from 2027 class; later press scaled to â¬7 â **medium secondary**, not FFS inventory.
 - Wrote: sources +3; tax_expenditures multi-year series (kerosene 6y + VAT gas/elec/tickets); commitments +3; leaderboard refresh kerosene +2 seeds; rq_110=done; spawned **rq_111**; ticks=110
 - FOI opened: none
 - Next: **rq_111** stookolie/agriculture FFS or low **rq_107** SWA
 
-### 2026-07-27T02:20:00Z — tick 111
+### 2026-07-27T02:20:00Z â tick 111
 - Unit: **rq_111** (Stookolie / agriculture intermediate FFS multi-year)
 - Found (strong FFS 2026 Tables 16+19):
-  - **Huisbrandolie total** (bench1): **2019–24 €2,129.8 / 2,263.3 / 2,096.5 / 1,856.8 / 1,798.2 / 1,836.4 m**. 2024 split low-S **€1,526.7m** + high-S **€309.7m**. Long-run volume −3.7%/yr. FFS eval: **not justified environmentally or socially** (heating oil users not concentrated in lowest income quartile; 87% homeowners in HBS).
-  - Taxex inventory product-specific line (~**€1,333m** prior seed) remains separate method — FFS gasoline-TOE higher.
-  - **Agriculture intermediate** total: **2020–24 €548.9 / 562.6 / 629.9 / 442.8 / 378.5 m** (mostly product rate diffs, not pure exemption).
-  - **Sociaal Verwarmingsfonds** cash: **€12.6m** 2024 / **70,112** households — targeted contrast to €1.8bn untargeted excise preference.
-  - Binnenvaart **€84.3m** / bagger **€24.7m** 2024 intermediate package.
+  - **Huisbrandolie total** (bench1): **2019â24 â¬2,129.8 / 2,263.3 / 2,096.5 / 1,856.8 / 1,798.2 / 1,836.4 m**. 2024 split low-S **â¬1,526.7m** + high-S **â¬309.7m**. Long-run volume â3.7%/yr. FFS eval: **not justified environmentally or socially** (heating oil users not concentrated in lowest income quartile; 87% homeowners in HBS).
+  - Taxex inventory product-specific line (~**â¬1,333m** prior seed) remains separate method â FFS gasoline-TOE higher.
+  - **Agriculture intermediate** total: **2020â24 â¬548.9 / 562.6 / 629.9 / 442.8 / 378.5 m** (mostly product rate diffs, not pure exemption).
+  - **Sociaal Verwarmingsfonds** cash: **â¬12.6m** 2024 / **70,112** households â targeted contrast to â¬1.8bn untargeted excise preference.
+  - Binnenvaart **â¬84.3m** / bagger **â¬24.7m** 2024 intermediate package.
 - Wrote: sources +2; taxex multi-year stookolie+ag; commitments +3; leaderboard refresh heatoil + ag seed; rq_111=done; spawned **rq_112**; ticks=111
 - FOI opened: none
-- Next: **rq_112** industrial reduced gas rate (€903m) or low **rq_107** SWA
+- Next: **rq_112** industrial reduced gas rate (â¬903m) or low **rq_107** SWA
 
-### 2026-07-27T02:40:00Z — tick 112
+### 2026-07-27T02:40:00Z â tick 112
 - Unit: **rq_112** (Industrial reduced gas rate + inland waterways FFS)
-- Found (strong FFS 2026 Table16/19 + §4.3.3):
-  - **Aardgas verlaagd tarief** (EBO/sector agreements, bench1): **2019–24 €1,091 / 1,031 / 1,191 / 1,295 / 1,052 / 903 m**. Peak energy-crisis 2022; declining 2023–24.
+- Found (strong FFS 2026 Table16/19 + Â§4.3.3):
+  - **Aardgas verlaagd tarief** (EBO/sector agreements, bench1): **2019â24 â¬1,091 / 1,031 / 1,191 / 1,295 / 1,052 / 903 m**. Peak energy-crisis 2022; declining 2023â24.
   - **2024**: **13.54 TWh** declared at reduced rate; **~352 firms** with permit (PQ 2019).
   - FFS eval: sector agreements give static efficiency; reduced rate weakens dynamic price signal; dual-use + CHP full exemptions stack on top. NEKP 2025 continues refined EBO support with FFS phase-out language.
-  - **Binnenvaart** intermediate: **€84.3m** 2024 (path 84–91m).
-  - Gasolie industrial/commercial: **€365.9m** 2024 (path ~366–416m).
+  - **Binnenvaart** intermediate: **â¬84.3m** 2024 (path 84â91m).
+  - Gasolie industrial/commercial: **â¬365.9m** 2024 (path ~366â416m).
 - Wrote: sources +1; taxex multi-year gas reduced + gasolie + binnenvaart; commitments +2; leaderboard +2; **FOI gap_fed_gas_reduced_firms ready**; rq_112=done; spawned **rq_113**; ticks=112
-- FOI opened: **gap_fed_gas_reduced_firms** → ready (human send)
-- Next: **rq_113** aardgas product-diff €4.09bn or low **rq_107** SWA
+- FOI opened: **gap_fed_gas_reduced_firms** â ready (human send)
+- Next: **rq_113** aardgas product-diff â¬4.09bn or low **rq_107** SWA
 
-### 2026-07-27T03:00:00Z — tick 113
+### 2026-07-27T03:00:00Z â tick 113
 - Unit: **rq_113** (Natural gas product rate-diff FFS + social tariff path)
 - Found (strong FFS 2026 Tables 15+1):
-  - **Aardgas product rate-diff** (bench1 vs gasoline TOE): **2019–24 €4,741.5 / 4,538.0 / 5,124.3 / 4,854.2 / 3,722.4 / 4,089.4 m**. Largest single product-diff line. End-use: industry **55.8%**, housing **25.2%**, commercial **12.8%**, agriculture **4.9%**, transport **1.4%**. Bench2 2024 split: business **€470.3m** + non-business **€1,353.3m**. Pre-2022 series exclude federal gas contribution (method break).
-  - **Not double-count** with EBO reduced rate (€903m) or VAT 6% gas HH (€635m) — different instruments.
-  - **Sociaal tarief gas** (permanent CREG cash): **89 / 79 / 95 / 428 / 268 / 96 m** 2019–24. **RVT extension** peak **€462.2m** 2023 then **€27.7m** 2024. Targeted contrast to untargeted €4.09bn product gap.
-  - Diesel product residual after petrol equalisation: **€273.3m** 2024.
+  - **Aardgas product rate-diff** (bench1 vs gasoline TOE): **2019â24 â¬4,741.5 / 4,538.0 / 5,124.3 / 4,854.2 / 3,722.4 / 4,089.4 m**. Largest single product-diff line. End-use: industry **55.8%**, housing **25.2%**, commercial **12.8%**, agriculture **4.9%**, transport **1.4%**. Bench2 2024 split: business **â¬470.3m** + non-business **â¬1,353.3m**. Pre-2022 series exclude federal gas contribution (method break).
+  - **Not double-count** with EBO reduced rate (â¬903m) or VAT 6% gas HH (â¬635m) â different instruments.
+  - **Sociaal tarief gas** (permanent CREG cash): **89 / 79 / 95 / 428 / 268 / 96 m** 2019â24. **RVT extension** peak **â¬462.2m** 2023 then **â¬27.7m** 2024. Targeted contrast to untargeted â¬4.09bn product gap.
+  - Diesel product residual after petrol equalisation: **â¬273.3m** 2024.
 - Wrote: sources +2; taxex multi-year gas product-diff + social/RVT + diesel residual; commitments +2; leaderboard +2; budgets +1; rq_113=done; spawned **rq_114**; ticks=113
 - FOI opened: none (aggregates fully public)
 - Next: **rq_114** FFS synthesis/LPG or low **rq_107** SWA
 
-### 2026-07-27T03:20:00Z — tick 114
+### 2026-07-27T03:20:00Z â tick 114
 - Unit: **rq_114** (FFS synthesis snapshot + LPG/coal residual lines)
 - Found / wrote:
-  - **Synthesis** `docs/doge/data/ffs_federal_top_lines_2024.md`: package totals (direct **€10.78bn**, broad ~**€15.2bn**) + mapped high-EUR lines already in CSVs — **no invented euros**, explicit non-additive warning.
-  - **LPG heating** Table16 multi-year: **2019–24 €108.6 / 138.8 / 140.0 / 120.3 / 117.8 / 127.6 m**.
-  - **Coal HH** exemption: **27.8 → 10.8 m** 2019–24 (declining); FFS notes reduced VAT solid fuels abolished Jul 2025.
+  - **Synthesis** `docs/doge/data/ffs_federal_top_lines_2024.md`: package totals (direct **â¬10.78bn**, broad ~**â¬15.2bn**) + mapped high-EUR lines already in CSVs â **no invented euros**, explicit non-additive warning.
+  - **LPG heating** Table16 multi-year: **2019â24 â¬108.6 / 138.8 / 140.0 / 120.3 / 117.8 / 127.6 m**.
+  - **Coal HH** exemption: **27.8 â 10.8 m** 2019â24 (declining); FFS notes reduced VAT solid fuels abolished Jul 2025.
 - Wrote: sources +2; taxex LPG+coal series; commitments +2; leaderboard LPG seed; snapshot md; rq_114=done; spawned **rq_115**; ticks=114
 - FOI opened: none
 - Next: **rq_115** leaderboard recompute (prio2) or low **rq_107** SWA; FFS top-line map largely complete
 
-### 2026-07-27T03:35:00Z — tick 115
+### 2026-07-27T03:35:00Z â tick 115
 - Unit: **rq_115** (Leaderboard priority_index recompute after FFS wave)
-- Method: ran `raw/recompute_leaderboard.py` — cost_score from annual EUR bands; priority = 0.55*cost + 0.35*abs + 0.10*(10-diff); sorted 157 rows.
+- Method: ran `raw/recompute_leaderboard.py` â cost_score from annual EUR bands; priority = 0.55*cost + 0.35*abs + 0.10*(10-diff); sorted 157 rows.
 - Top 10 after recompute:
-  1. cheque economy **8.68** · 2. heating oil FFS **8.43** · 3. company cars **8.22**
-  4–5. EIWT package / night-shift cluster **8.08** · 6–8. wage block / FFS direct total / gas product-diff **7.98**
-  9. VL non-Maastricht claims **7.83** (stock-as-annual field) · 10. VAT horeca **7.73**
-- FFS wave impact: **lb_ffs_direct_total** + **lb_gas_product_diff** enter top 8; heatoil rises (cost_score 9→9.5 from €1.84bn); company cars stays #3.
+  1. cheque economy **8.68** Â· 2. heating oil FFS **8.43** Â· 3. company cars **8.22**
+  4â5. EIWT package / night-shift cluster **8.08** Â· 6â8. wage block / FFS direct total / gas product-diff **7.98**
+  9. VL non-Maastricht claims **7.83** (stock-as-annual field) Â· 10. VAT horeca **7.73**
+- FFS wave impact: **lb_ffs_direct_total** + **lb_gas_product_diff** enter top 8; heatoil rises (cost_score 9â9.5 from â¬1.84bn); company cars stays #3.
 - Wrote: leaderboard.csv sorted; leaderboard_top15.md; rq_115=done; ticks=115
 - FOI opened: none
 - Next: low **rq_107** SWA recheck or human FOI stack (many ready); public open queue thin
 
-### 2026-07-27T03:50:00Z — tick 116
-- Unit: **rq_107** (SWA multi-parliament final assent recheck — sixth)
+### 2026-07-27T03:50:00Z â tick 116
+- Unit: **rq_107** (SWA multi-parliament final assent recheck â sixth)
 - Found (strong process; **still no final votes** as of **2026-07-27**):
-  - **Rekenhof Kamer 56K1469/002** (BA2026 comments): SWA Overleg **25/27 Mar 2026** improves entity-level net-primary paths + fallback; EC positive; **\"moet evenwel nog ter goedkeuring worden voorgelegd aan de diverse parlementen\"** — still not multi-parliament approved.
+  - **Rekenhof Kamer 56K1469/002** (BA2026 comments): SWA Overleg **25/27 Mar 2026** improves entity-level net-primary paths + fallback; EC positive; **\"moet evenwel nog ter goedkeuring worden voorgelegd aan de diverse parlementen\"** â still not multi-parliament approved.
   - Public track maxes at: **VL** 8 May principal + **SERV 1 Jun** filed VP 17 Jun; **Fed MR 13 May** avant-projet; **FWB 30 Apr** / **WAL 13 May** first reads. **Brussels** public assent dossier still missing. **No BS publication** / no plenary-adopted instemmingswet or -decreet found.
-  - APR2026 path: parliament assent by **year-end** — mid-year recheck correctly negative.
+  - APR2026 path: parliament assent by **year-end** â mid-year recheck correctly negative.
 - Wrote: rq_107=done; spawned low **rq_116** (Q4 2026 recheck); **lb_entity_split_opacity** notes refreshed; **mode=idle_waiting_foi** (only deferred SWA open; FOI ready stack is human work).
 - FOI opened: none
 - Next: human send FOI stack; **rq_116** only after Oct 2026 unless news breaks
 
-### 2026-07-27T04:05:00Z — tick 117
+### 2026-07-27T04:05:00Z â tick 117
 - Unit: **idle** (mode already idle_waiting_foi)
-- Queues: no in_progress research; no FOI draft; only open research is **rq_116** (SWA Q4 2026 — skip mid-year per instructions). All material gaps are **FOI ready** awaiting human send.
+- Queues: no in_progress research; no FOI draft; only open research is **rq_116** (SWA Q4 2026 â skip mid-year per instructions). All material gaps are **FOI ready** awaiting human send.
 - Wrote: loop_state last_tick only; no CSV research writes; no FOI send.
 - Next: human FOI stack; resume public discovery on FOI answers or after Oct 2026 (**rq_116**); optional human can spawn new research_queue items.
 
-### 2026-07-27T04:20:00Z — tick 118
+### 2026-07-27T04:20:00Z â tick 118
 - Unit: **idle** (idle_waiting_foi)
 - No public open work: only **rq_116** (SWA Q4 mid-year skip). FOI all **ready** (human send). No drafts to finish.
 - Wrote: loop_state tick cursor only.
 - Next: human FOI; or spawn research; **rq_116** after Oct 2026.
 
-### 2026-07-27T04:35:00Z — tick 119
+### 2026-07-27T04:35:00Z â tick 119
 - Unit: **idle** (idle_waiting_foi)
 - No public open work (rq_116 mid-year skip). FOI ready human-only. No draft FOI.
 - Wrote: loop_state cursor only.
 - Next: human FOI or new research_queue; rq_116 after Oct 2026.
 
-### 2026-07-27T04:50:00Z — tick 120
+### 2026-07-27T04:50:00Z â tick 120
 - Unit: **idle** (idle_waiting_foi)
 - No public open work (rq_116 mid-year skip). FOI ready human-only.
 - Wrote: loop_state cursor only.
 - Next: human FOI or new research_queue; rq_116 after Oct 2026.
 
-### 2026-07-27T05:05:00Z — tick 121
+### 2026-07-27T05:05:00Z â tick 121
 - Unit: **idle** (idle_waiting_foi)
 - No public open work (rq_116 mid-year skip). FOI ready human-only.
 - Wrote: loop_state cursor only.
 - Next: human FOI or new research_queue; rq_116 after Oct 2026.
 
-### 2026-07-27T17:40:00Z � tick 133
+### 2026-07-27T17:40:00Z  tick 133
 - Unit: **rq_137** (Political party federal+regional financing L5)
 - Found (strong 2024; medium 2025):
-  - **Direct public subsidies 2024: �83.7m** (77% of party income �108.7m) � Maddens/KU Leuven from Kamer DOC 56 0961 party accounts.
-  - Split: **fed dotatie �36.7m** � **VL+WAL regional �16.1m** � **fractietoelagen �26.3m** � provincial **�3.5m** � FR connected inst **�1.2m**.
-  - Mandataris contributions **�11.1m** (indirect); private gifts only �1.0m (VB+PVDA).
-  - Off-books: parliamentary group **staff ~�104.6m** ? broad package **�188.3m**; all assemblies opex **�619m** of which ~29.7% to parties.
-  - Senate boost post-2024 **�10.6m** (28.9% of federal dot); abolish-without-rewrite party hit **�25.4m**.
-  - **2025 direct �86.5m** medium (press/Belga; vote-base rise offsets freeze narrative).
-  - Kamer formula primary: fixed + �/vote, public-sector index, -5.32% 2023-24 only (src_kamer_dotatie_method).
+  - **Direct public subsidies 2024: 83.7m** (77% of party income 108.7m)  Maddens/KU Leuven from Kamer DOC 56 0961 party accounts.
+  - Split: **fed dotatie 36.7m** · **VL+WAL regional 16.1m** · **fractietoelagen 26.3m** · provincial **3.5m** · FR connected inst **1.2m**.
+  - Mandataris contributions **11.1m** (indirect); private gifts only 1.0m (VB+PVDA).
+  - Off-books: parliamentary group **staff ~104.6m** ? broad package **188.3m**; all assemblies opex **619m** of which ~29.7% to parties.
+  - Senate boost post-2024 **10.6m** (28.9% of federal dot); abolish-without-rewrite party hit **25.4m**.
+  - **2025 direct 86.5m** medium (press/Belga; vote-base rise offsets freeze narrative).
+  - Kamer formula primary: fixed + /vote, public-sector index, -5.32% 2023-24 only (src_kamer_dotatie_method).
 - Wrote: sources (4); budgets (12); cmt_party_public_financing_2024; lb_party_public_financing; rq_137=done.
 - FOI opened: none (aggregates public; per-assembly cash codes residual low priority vs ready stack).
 - Next: prio7 **rq_126 WAL L5** / **rq_127 FWB** / **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**; prio6 IEFH/FIRM.
 
-### 2026-07-27T18:00:00Z � tick 134
+### 2026-07-27T18:00:00Z  tick 134
 - Unit: **rq_126** (Wallonie budget 2026 top named ASBL/dotations L5)
 - Found (strong primary ExpGen + GW CP):
-  - **FOREM prog 18.130 consolidated �2.8336bn** eng/liq 2026 (new single line).
-  - **17.093 Sant�/Familles/Handicap �7.027bn**; Action sociale 329.6m; Cr�ches 16.3m; Affaires int. 2.682bn.
-  - Named: **IFAPME 88.3m** � **Parlement 76.3m** � **CWaPE 9.3m** � **Cabinets 28.0m** � **CESE 7.9m** � **Recherche 247.5m** � **Eco outils 132.5m** � **Eco sociale 30.5m**.
+  - **FOREM prog 18.130 consolidated 2.8336bn** eng/liq 2026 (new single line).
+  - **17.093 Santé/Familles/Handicap 7.027bn**; Action sociale 329.6m; Crèches 16.3m; Affaires int. 2.682bn.
+  - Named: **IFAPME 88.3m** · **Parlement 76.3m** · **CWaPE 9.3m** · **Cabinets 28.0m** · **CESE 7.9m** · **Recherche 247.5m** · **Eco outils 132.5m** · **Eco sociale 30.5m**.
   - **WE**: credits **124?64m**; dividend **55?70m**. **SPW** plafond **736m**. Marshall communes **58m**; FERI GV **35m**.
   - Savings **270.4m** with official APE package **83.7m** line-split (communes 17.5; indus 15; formation 20; provinces suppress 7.3; etc.). AVIQ 5.6+28.3m. Facultatives -8m. Airports -7m.
-  - Garanties 1er rang stock end-2024 **�8.822bn** (SWCS/CRAC/FLFNW/SWL dominant).
+  - Garanties 1er rang stock end-2024 **8.822bn** (SWCS/CRAC/FLFNW/SWL dominant).
 - Wrote: sources 2; budgets 25; commitments 4; leaderboard 3; rq_126=done; gap_wal residual ASBL note.
 - FOI: gap_wal_l5 remains **ready** for pure ASBL top-20 (UAP/programme filled).
 - Next: prio7 **rq_127 FWB** / **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**.
 
-### 2026-07-27T18:20:00Z � tick 135
+### 2026-07-27T18:20:00Z  tick 135
 - Unit: **rq_127** (FWB budget 2026 named culture education transfers L5)
 - Found (strong ExpGen + GW CP; medium sector savings path):
-  - Totals already mapped: dep ~15.4bn; edu ~10.9bn class; deficit **�1.6bn** 2026 ? path **�1.2bn** 2029; net structural ~**�500m** to 2029.
-  - Named: **debt cost �357m** � **DO45 Recherche �262.6m** (FNRS Loterie 7.1m; -1.5m index cut) � **WBI �42.9m** � **WBE �39.7m** � **presse quotidienne �12.9m** � **m�dias proximit� �10m** � **sport CL �67.9m** � **FP traitements �437.6m**.
-  - **ONE**: structural +**�43m** (Cigogne/contrat) vs IT -3m + non-index actors **�7.84m**; MILAC not implemented.
-  - **Culture**: non-index **�3.7m** + moratoria non-spend **�10.2m**; Grignoux -200k of 409k; Point Culture phase-out path.
-  - **Sup�rieur** savings package **�14m** 2026 (minerval compensations 9m; CHU Li�ge capital stop 2.8m).
+  - Totals already mapped: dep ~15.4bn; edu ~10.9bn class; deficit **1.6bn** 2026 ? path **1.2bn** 2029; net structural ~**500m** to 2029.
+  - Named: **debt cost 357m** · **DO45 Recherche 262.6m** (FNRS Loterie 7.1m; -1.5m index cut) · **WBI 42.9m** · **WBE 39.7m** · **presse quotidienne 12.9m** · **médias proximité 10m** · **sport CL 67.9m** · **FP traitements 437.6m**.
+  - **ONE**: structural +**43m** (Cigogne/contrat) vs IT -3m + non-index actors **7.84m**; MILAC not implemented.
+  - **Culture**: non-index **3.7m** + moratoria non-spend **10.2m**; Grignoux -200k of 409k; Point Culture phase-out path.
+  - **Supérieur** savings package **14m** 2026 (minerval compensations 9m; CHU Liège capital stop 2.8m).
   - **RTBF**: no new cut 2026 (stabilised; -700k parastatal pool only); prior ordinary ~350.8m kept.
   - Party-linked OJ/EP/archives recognitions **end Dec 2026** (named institutes).
 - Wrote: sources 3; budgets 21; commitments 3; leaderboard 3; rq_127=done.
 - FOI: none new (culture pure ASBL top20 still thin but moratoria map + existing multi-entity FOI stack).
 - Next: prio7 **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**.
 
-### 2026-07-27T18:45:00Z � tick 136
+### 2026-07-27T18:45:00Z  tick 136
 - Unit: **rq_128** (Brussels SGRBC top named transfers STIB culture L5)
 - Found (strong CoA 13 Mar 2026; Visit medium press):
-  - SGRBC **eng �8.9bn / liq �8.0bn**; Table9 top programmes �71% of liq.
-  - **STIB �1.1676bn** � **Actiris �648.1m** (-78.2m) � **titres-services �303.8m** � **SLRB eng �687m / liq �418m** � **Bruxelles-Propret� liq �411.1m** � **commissions �691.7m** � **dette liq �727.8m** � **pouvoirs locaux �757.6m** � **routes liq �263.9m**.
-  - Culture flagship: **Kanal eng �86.7m** (+�60m participation/credit); CoA flags OAA2 list omission.
-  - Initiatives r�gionales **eng �330m / liq �130m** (Vivaqua+Confex); finops path SLRB 400 / Vivaqua 180 / Confex 150 / Kanal 60 within �1bn max.
-  - Facultatives **-�25m/yr** 2026-29; emploi BEE total **�983.6m**; PPI STIB cut path **�964.6m** 2026-29.
-  - Visit.brussels cut **~�5.7m** 2026 medium press only.
+  - SGRBC **eng 8.9bn / liq 8.0bn**; Table9 top programmes 71% of liq.
+  - **STIB 1.1676bn** · **Actiris 648.1m** (-78.2m) · **titres-services 303.8m** · **SLRB eng 687m / liq 418m** · **Bruxelles-Propreté liq 411.1m** · **commissions 691.7m** · **dette liq 727.8m** · **pouvoirs locaux 757.6m** · **routes liq 263.9m**.
+  - Culture flagship: **Kanal eng 86.7m** (+60m participation/credit); CoA flags OAA2 list omission.
+  - Initiatives régionales **eng 330m / liq 130m** (Vivaqua+Confex); finops path SLRB 400 / Vivaqua 180 / Confex 150 / Kanal 60 within 1bn max.
+  - Facultatives **-25m/yr** 2026-29; emploi BEE total **983.6m**; PPI STIB cut path **964.6m** 2026-29.
+  - Visit.brussels cut **~5.7m** 2026 medium press only.
 - Wrote: sources 2; budgets 18; commitments 4; leaderboard 3; rq_128=done.
 - FOI: none new (pure ASBL culture residual thin; Visit official cash path optional deepen later).
 - Next: prio7 **rq_153 taxex** / **rq_138 unions** / **rq_139 mutualities** / **rq_143 Antwerp**.
 
-### 2026-07-27T19:10:00Z � tick 137
+### 2026-07-27T19:10:00Z  tick 137
 - Unit: **rq_153** (FPS taxex remaining top 20 not yet imported)
 - Found (strong FPS inventory XLSX latest-year per sheet):
-  - Imported **20** measures previously missing from tax_expenditures.csv (sum latest-year � **�48.6bn** � not additive with prior top20; many structural design lines).
-  - Largest **current** additions: **PIT tax-free basic �18.058bn** (2023) � **professional expenses salaries �9.842bn** � **family allowances exemption �2.900bn** � **dependent-children tax-free �2.694bn** � **distinct taxation rates �2.665bn** � foreign-income 100% �2.271bn.
-  - Other: WT movable first-bracket �565m � marital quotient �545m � disability allow �420m � overtime credit �386m � unemployment TE �350m � flexi-jobs �314m � CIT intra-group �321m � R&D refundable credit �315m � industrial motor gas oil �313m.
-  - Historical peaks included for inventory completeness: venture capital old system **�5.375bn** (2011); owner-occupied housing 2008; imputed income 2013.
-  - Leaderboard: structural tax-free basic (low absurdity) � professional expenses � family allow � distinct taxation (higher reform interest).
+  - Imported **20** measures previously missing from tax_expenditures.csv (sum latest-year  **48.6bn**  not additive with prior top20; many structural design lines).
+  - Largest **current** additions: **PIT tax-free basic 18.058bn** (2023) · **professional expenses salaries 9.842bn** · **family allowances exemption 2.900bn** · **dependent-children tax-free 2.694bn** · **distinct taxation rates 2.665bn** · foreign-income 100% 2.271bn.
+  - Other: WT movable first-bracket 565m · marital quotient 545m · disability allow 420m · overtime credit 386m · unemployment TE 350m · flexi-jobs 314m · CIT intra-group 321m · R&D refundable credit 315m · industrial motor gas oil 313m.
+  - Historical peaks included for inventory completeness: venture capital old system **5.375bn** (2011); owner-occupied housing 2008; imputed income 2013.
+  - Leaderboard: structural tax-free basic (low absurdity) · professional expenses · family allow · distinct taxation (higher reform interest).
 - Wrote: tax_expenditures +20; sources 1; cmt_fps_taxex_next20; lb 4; rq_153=done.
 - FOI: none (inventory public; residual medium TE lines still parseable later).
 - Next: prio7 **rq_138 unions** / **rq_139 mutualities** / **rq_143 Antwerp** / **rq_155 company cars**.
 
-### 2026-07-27T19:30:00Z � tick 138
-- Unit: **rq_138** (Trade union public grants SS/federal � unemployment payment organisms)
+### 2026-07-27T19:30:00Z  tick 138
+- Unit: **rq_138** (Trade union public grants SS/federal  unemployment payment organisms)
 - Found (strong parliament; medium path):
   - Architecture strong: 3 private OP (ABVV/ACV/ACLVB-SYNOVA) + public **HVW/CAPAC**; private also charge membership; HVW free.
-  - **Private OP admin from ONEM 2024: �169m** (Kamer DOC 56 1296 cites official).
-  - **Total all OP incl HVW: ~�219m** (same bill + QRVA 56 028 citing minister: 219m for 333k werklozen/SWT).
-  - Implied HVW share ~�50m vs site institutional budget **�6.084m** � dual perimeter; keep both.
-  - Path Clarinval: envelope **-�20m 2026 / -�27m 2027** vs 2025 (~16% cut) while full-unemp dossiers path **-~63%** by 2027 (184k lose benefit).
-  - 2022 Dermagne formula change: **+�7.6m** that year; **+�13m** effect by 2025; softens cuts when unemployment falls.
+  - **Private OP admin from ONEM 2024: 169m** (Kamer DOC 56 1296 cites official).
+  - **Total all OP incl HVW: ~219m** (same bill + QRVA 56 028 citing minister: 219m for 333k werklozen/SWT).
+  - Implied HVW share ~50m vs site institutional budget **6.084m**  dual perimeter; keep both.
+  - Path Clarinval: envelope **-20m 2026 / -27m 2027** vs 2025 (~16% cut) while full-unemp dossiers path **-~63%** by 2027 (184k lose benefit).
+  - 2022 Dermagne formula change: **+7.6m** that year; **+13m** effect by 2025; softens cuts when unemployment falls.
   - Late/overdue dossiers **391,435** in 2024 (minister answer via PQ).
   - Legal: KB 16 Sep 1991; amended KB 15 May 2022 + KB 11 Oct 2023.
 - Wrote: sources 4; budgets 8; cmt_unemp_pay_org_admin_2024; lb_union_pay_admin_169m; rq_138=done; FOI residual L5 split priority 8.
 - FOI: gap_unemp_pay_unit_cost updated (aggregates filled; per-union unit cost still ready).
 - Next: prio7 **rq_139 mutualities** / **rq_143 Antwerp** / **rq_155 company cars**.
 
-### 2026-07-27T19:50:00Z � tick 139
-- Unit: **rq_139** (Mutualities RIZIV public financing � admin package)
+### 2026-07-27T19:50:00Z  tick 139
+- Unit: **rq_139** (Mutualities RIZIV public financing  admin package)
 - Found (strong KB-cited; medium 2025):
-  - **5 landsbonden admin envelope:** **�1.195bn 2023** � **�1.285bn 2024** (KB 9 Apr 2024 BS) � **�1.375bn 2025** medium (+7% y/y; +15% in 2y).
-  - **HR Rail Care:** **�22.8m 2024** / �21.2m 2023.
-  - Total 5+rail 2024 � **�1.308bn**.
-  - Members end-2022 (proportional split base): CM 4.59m � Solidaris 3.28m � Helan 2.26m � Neutral 0.59m � Liberal 0.54m.
-  - vs RIZIV care authorized **�40.99bn 2026** ? admin class ~**3.4%** of care package.
-  - Accountability reform path: **�25m 2026 ? �100m 2029** (medium reform motives).
+  - **5 landsbonden admin envelope:** **1.195bn 2023** · **1.285bn 2024** (KB 9 Apr 2024 BS) · **1.375bn 2025** medium (+7% y/y; +15% in 2y).
+  - **HR Rail Care:** **22.8m 2024** / 21.2m 2023.
+  - Total 5+rail 2024  **1.308bn**.
+  - Members end-2022 (proportional split base): CM 4.59m · Solidaris 3.28m · Helan 2.26m · Neutral 0.59m · Liberal 0.54m.
+  - vs RIZIV care authorized **40.99bn 2026** ? admin class ~**3.4%** of care package.
+  - Accountability reform path: **25m 2026 ? 100m 2029** (medium reform motives).
   - Architecture: multi-cashier VI parallel to unemployment union payment organisms; Rekenhof 2017 method audit.
 - Wrote: sources 4; budgets 9; cmt_mutual_admin_package; lb_mutual_admin_1_3bn; FOI gap_mutual_admin_l5 **ready**; rq_139=done.
 - FOI: L5 per-landsbond draft ready (human send).
 - Next: prio7 **rq_143 Antwerp** / **rq_129 SS** / **rq_155 company cars**.
 
-### 2026-07-27T20:10:00Z � tick 140
+### 2026-07-27T20:10:00Z  tick 140
 - Unit: **rq_143** (Antwerp city open data / ebesluit subsidy recheck)
 - Found (strong ebesluit primary; no Gent-style full register):
-  - **Toneelhuis 2025: �2.805m** (2.74m werking + 65k gebouwbeheerder) � college Dec 2024.
-  - **Opera Ballet Vlaanderen 2025: �1.9m** werk + **�0.508m** invest.
-  - **deSingel 2024: �0.100m** (talent/Dear Antwerp).
-  - **Zorgbedrijf 2024 package:** werk **�33.63m** + responsabilisering **�20.56m** + invest **�11.97m** � **�66.2m** (largest named city transfer); 2023 werk 36.3 + resp 15.8 + invest 14.5.
+  - **Toneelhuis 2025: 2.805m** (2.74m werking + 65k gebouwbeheerder)  college Dec 2024.
+  - **Opera Ballet Vlaanderen 2025: 1.9m** werk + **0.508m** invest.
+  - **deSingel 2024: 0.100m** (talent/Dear Antwerp).
+  - **Zorgbedrijf 2024 package:** werk **33.63m** + responsabilisering **20.56m** + invest **11.97m**  **66.2m** (largest named city transfer); 2023 werk 36.3 + resp 15.8 + invest 14.5.
   - Open data portal/arcgis: no machine-readable full third-party subsidy register (unlike Gent/Brugge).
   - FOI gap_antwerp priority 6 residual for complete top20 bulk.
 - Wrote: sources 5; budgets 10; commitments 3; leaderboard 2; rq_143=done; FOI note updated.
 - FOI: residual ready (partial fill does not close full top20).
 - Next: prio7 **rq_129 SS funds** / **rq_155 company cars** / prio6 IEFH.
 
-### 2026-07-27T20:30:00Z � tick 141
+### 2026-07-27T20:30:00Z  tick 141
 - Unit: **rq_155** (Company cars TE component split primary)
 - Found (strong FPB WP 202504 Jun 2025; FFS prior):
-  - **FPB central TE: ~�4.7bn (2025) ? ~�5.2bn (2028)** if BIK taxed as wage (CASMO); sensitivity **�3�6bn**.
-  - **Components (direction):** private-use cluster (PIT + SSC on availability dominant) � **�4.2bn** of 2025 gap; **non-recovered VAT ~�0.6bn** (2028); **CIT offset -�0.1bn**.
-  - Named TE categories: SS contribution on availability � income tax on availability � VAT on energy � income tax+SS on fuel/electricity � disallowed expenses.
-  - **FFS inventory 2024 �3.142bn** remains narrower official inventory line; dual methods kept (not force-reconcile).
+  - **FPB central TE: ~4.7bn (2025) ? ~5.2bn (2028)** if BIK taxed as wage (CASMO); sensitivity **36bn**.
+  - **Components (direction):** private-use cluster (PIT + SSC on availability dominant)  **4.2bn** of 2025 gap; **non-recovered VAT ~0.6bn** (2028); **CIT offset -0.1bn**.
+  - Named TE categories: SS contribution on availability · income tax on availability · VAT on energy · income tax+SS on fuel/electricity · disallowed expenses.
+  - **FFS inventory 2024 3.142bn** remains narrower official inventory line; dual methods kept (not force-reconcile).
   - Exact FPS inventory cash-by-year PIT/VAT/SSC series still not public ? FOI residual priority 6.
 - Wrote: sources 2; taxex 5; budgets 3; cmt_company_cars_te_fpb; lb_company_cars_fpb; rq_155=done; FOI note updated.
 - FOI: gap_company_cars residual ready (FPS official split).
 - Next: prio7 **rq_129 Maribel L5**; prio6 **IEFH/FIRM**.
 
-### 2026-07-27T20:50:00Z � tick 142
+### 2026-07-27T20:50:00Z  tick 142
 - Unit: **rq_129** (SS Maribel named fund L5 sample beyond NBB totals)
 - Found (strong fund jaarverslagen + FOD WASO):
-  - **FSM 319.01 Flanders** (VSPF 2023): social **�75.938m** + fiscal **�14.788m** = **�90.726m**; max �46.7k/VTE.
-  - **FSM socioculture Flanders** (VSPF 2023): social **�31.589m**; total social+fiscal **�38.012m** (~833 VTE; ~600 orgs).
-  - **FSM 319 bicommunal** (FeBi): social **�5.108m 2023 / �5.801m 2024**; fiscal **�0.941m / �1.037m**.
-  - **Public sector fund:** annual fiscal-substitute compensation **�38.72m** (FOD WASO).
-  - Sample sum class **~�174m** � **12%** of NBB SS Maribel **�1.461bn 2024** � residual especially **PC 330 health** bulk still FOI.
+  - **FSM 319.01 Flanders** (VSPF 2023): social **75.938m** + fiscal **14.788m** = **90.726m**; max 46.7k/VTE.
+  - **FSM socioculture Flanders** (VSPF 2023): social **31.589m**; total social+fiscal **38.012m** (~833 VTE; ~600 orgs).
+  - **FSM 319 bicommunal** (FeBi): social **5.108m 2023 / 5.801m 2024**; fiscal **0.941m / 1.037m**.
+  - **Public sector fund:** annual fiscal-substitute compensation **38.72m** (FOD WASO).
+  - Sample sum class **~174m**  **12%** of NBB SS Maribel **1.461bn 2024**  residual especially **PC 330 health** bulk still FOI.
 - Wrote: sources 4; budgets 11; cmt_maribel_l5_sample; lb 2; rq_129=done; FOI residual note.
 - FOI: gap_maribel priority 6 residual (health bulk).
 - Next: prio6 **rq_118 IEFH** / **rq_119 FIRM** / RTBF/VRT.
 
-### 2026-07-27T21:10:00Z � tick 143
+### 2026-07-27T21:10:00Z  tick 143
 - Unit: **rq_118** (IEFH/IGVM federal equality institute funding map)
 - Found (strong IEFH Rapport annuel 2024 primary):
-  - **Federal dotation 2024: �33.939m** (budget authority; may exceed cash).
-  - **Total expenditure 2024: �24.793m** � personnel �6.908m (28%) � ops �2.562m � **subsidies to orgs �1.609m** � **CPVS �10.926m (44%)** � projects �2.735m � inv �0.053m.
-  - Multi-year exp path (k�): 2020 12830 ? 2021 9841 ? 2022 14650 ? 2023 22931 ? 2024 24793.
-  - **Protocols 2024: �222.9k** (WAL 81.3 � FWB 33.5 � BXL 100.0 � DG 8.1 � **Flanders 0**).
-  - Lottery �150k; own �76k; EU Gender&Work �1.014m; COCOF/Actiris renewals �47.8k/�32.5k.
+  - **Federal dotation 2024: 33.939m** (budget authority; may exceed cash).
+  - **Total expenditure 2024: 24.793m**  personnel 6.908m (28%) · ops 2.562m · **subsidies to orgs 1.609m** · **CPVS 10.926m (44%)** · projects 2.735m · inv 0.053m.
+  - Multi-year exp path (k): 2020 12830 ? 2021 9841 ? 2022 14650 ? 2023 22931 ? 2024 24793.
+  - **Protocols 2024: 222.9k** (WAL 81.3 · FWB 33.5 · BXL 100.0 · DG 8.1 · **Flanders 0**).
+  - Lottery 150k; own 76k; EU Gender&Work 1.014m; COCOF/Actiris renewals 47.8k/32.5k.
   - Staff end-2024: **77 persons / 75 FTE**.
   - EIGE secondary 21.6m/14.4m kept as secondary; primary RA preferred.
 - Wrote: sources 2; budgets 21; cmt_iefh_funding_2024; lb 2; entity iefh; rq_118=done; FOI gap_iefh_funding_detail ready.
@@ -1312,9 +1312,9 @@ Append-only. Each tick adds a short entry.
 - Unit: **rq_119** (FIRM-IFDH federal human rights institute funding)
 - Found (strong FIRM annual reports 2024 EN + 2025 NL primary):
   - **Grant path:** 2023 **EUR 2.776m** -> 2024 **EUR 4.111m** -> 2025 **EUR 3.769m** -> 2026 **EUR 3.223m** (Kamer dotatie).
-  - **Expenditure:** 2023 **EUR 1.653m** � 2024 **EUR 2.489m** � 2025 **EUR 3.516m**.
+  - **Expenditure:** 2023 **EUR 1.653m** · 2024 **EUR 2.489m** · 2025 **EUR 3.516m**.
   - **Total budget 2025: EUR 4.984m** (grant + surplus **EUR 1.215m**); 2026 finance **EUR 5.083m** (grant 3.223 + surplus 1.860).
-  - Large **surplus buffer** (balance end-2024 **EUR 1.860m** � end-2025 **EUR 1.468m**).
+  - Large **surplus buffer** (balance end-2024 **EUR 1.860m** · end-2025 **EUR 1.468m**).
   - Staff end-2025: **26** (24 statutory + 2 temp); growth path 7->27 class.
   - Dual architecture note: residual federal NHRI alongside Unia / VMRI / IEFH.
 - Wrote: sources 2; budgets 14; cmt_firm_dotation_path; lb_firm; entity firm_ifdh; rq_119=done; FOI residual ready.
@@ -1337,10 +1337,10 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-27T22:10:00Z ? tick 146
 - Unit: **rq_136** (VRT BHO full public financing + side envelopes)
 - Found (strong JV2023 + JV2024 + JV2025 web + PQ130):
-  - **Overheidsfinanciering:** 2022 **EUR 290.6m** � 2023 **297.9m** � 2024 **304.4m** � 2025 **306m**.
+  - **Overheidsfinanciering:** 2022 **EUR 290.6m** · 2023 **297.9m** · 2024 **304.4m** · 2025 **306m**.
   - **2023 L5 split:** basisdot **287.2** + inflatie **7.1** + transform **1.1** + overige **2.5**.
   - **Basistoelage path:** 2025 **258.393m** ? 2026 **296.400m** (wage index +36.34; partial ops +1.49; MAX +0.10; energy ?0.28; digital +0.20; NL coop +0.15).
-  - **Eigen inkomsten:** 2023 **199.7** � 2024 **203.7** � 2025 **222.3**; total rev 2025 **528.4m**.
+  - **Eigen inkomsten:** 2023 **199.7** · 2024 **203.7** · 2025 **222.3**; total rev 2025 **528.4m**.
   - **BAN+comm 2025: EUR 83m** (plafond 90.8); external production invest **122.3m**.
   - Dual PSB 2025 class: VRT gov **306** + RTBF package **378** ? **~684m**.
 - Wrote: sources 5; budgets 27; cmt_vrt_public_package; lb_vrt; rq_136=done; FOI residual ready.
@@ -1350,9 +1350,9 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-27T22:30:00Z ? tick 147
 - Unit: **rq_134** (Actiris L5 named programmes beyond total)
 - Found (strong Actiris Rapport annuel 2024 Budget table):
-  - **Budget final 2024: EUR 767.506m** � **exp realized EUR 729.736m** (95.1%) � recettes **753.574m**.
-  - **Top L5 realized:** 6e reforme **EUR 225.0m** (30.8%) � **ACS jobs EUR 200.9m** (27.5%) � functioning **EUR 167.9m** (23.0%) � partnerships **EUR 57.7m** � economie sociale **EUR 34.5m**.
-  - Other named: jeunes 8.8 � contrats insertion 7.3 � Garantie Jeunes 7.1 � cheques 6.8 � reforme aide 4.7 � secteurs ref 4.9.
+  - **Budget final 2024: EUR 767.506m** · **exp realized EUR 729.736m** (95.1%) · recettes **753.574m**.
+  - **Top L5 realized:** 6e reforme **EUR 225.0m** (30.8%) · **ACS jobs EUR 200.9m** (27.5%) · functioning **EUR 167.9m** (23.0%) · partnerships **EUR 57.7m** · economie sociale **EUR 34.5m**.
+  - Other named: jeunes 8.8 · contrats insertion 7.3 · Garantie Jeunes 7.1 · cheques 6.8 · reforme aide 4.7 · secteurs ref 4.9.
   - Staff end-2024: **1,518 persons / 1,291 ETP**; DEI avg **91,628**.
   - Perimeter note: institutional ~730m vs BCR SGRBC programme line **648.1m 2026** (CoA) ? not same scope.
 - Wrote: source 1; budgets 20; cmt_actiris_l5_2024; lb ACS + 6th reform; rq_134=done; FOI residual ready.
@@ -1375,9 +1375,9 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-27T23:15:00Z ? tick 149
 - Unit: **rq_141** (Universities public operating grants by institution)
 - Found (strong CRC HO 2024 + KU Leuven JV 2025):
-  - **VL universities 1st stream 2024: EUR 1.441bn** (werking **1.355bn** � invest **45.6m** � STUVO **30.4m**); path 1.167?1.441bn 2020-24.
+  - **VL universities 1st stream 2024: EUR 1.441bn** (werking **1.355bn** · invest **45.6m** · STUVO **30.4m**); path 1.167?1.441bn 2020-24.
   - **AHOVOKS effectieve werkingsmiddelen 2024: EUR 1.224bn**; **EUR 8,286/student**; 149,848 students.
-  - **2nd/3rd/4th streams 2024:** 460m � 712m � 378m (research).
+  - **2nd/3rd/4th streams 2024:** 460m · 712m · 378m (research).
   - **Named L5 KU Leuven:** 1st stream **EUR 546.5m 2024 / 567.9m 2025**; werking **515.1 / 536.1m** (~38% of VL 1st).
   - **FWB:** education class **EUR 10.93bn 2026** (not uni-only); superieur savings **14m** ? per-uni FOI.
 - Wrote: sources 3; budgets 20; cmt 2; lb 2; entity ku_leuven; rq_141=done; FOI residual ready.
@@ -1400,10 +1400,10 @@ Append-only. Each tick adds a short entry.
 - Unit: **rq_148** (Climate/energy named subsidies beyond offshore)
 - Found (strong Rekenhof 2025 + VNR + Fluvius + NBB):
   - **Flanders RES support 2014-23: EUR 12.97bn** (~1.8bn on budget; rest on electricity bill).
-  - **GSC:** 2023 **EUR 822m** � cum **10.51bn**; NBB broader green cert **956/858m 2023-24**.
-  - **WKC CHP:** 2023 **EUR 174m** � cum **1.79bn**; Fluvius cert inventory **EUR 602m** EOY2025 (CHP 521m).
-  - **Heat premiums (warmtepomp etc):** 2023 **EUR 22m** � cum **112m** 2014-23 (netbeheerder).
-  - **Calls/ad hoc:** groene warmte **109m** � PV premie **158m** � retro **159m** � warmtenet **53.5m** � call stroom **37m**.
+  - **GSC:** 2023 **EUR 822m** · cum **10.51bn**; NBB broader green cert **956/858m 2023-24**.
+  - **WKC CHP:** 2023 **EUR 174m** · cum **1.79bn**; Fluvius cert inventory **EUR 602m** EOY2025 (CHP 521m).
+  - **Heat premiums (warmtepomp etc):** 2023 **EUR 22m** · cum **112m** 2014-23 (netbeheerder).
+  - **Calls/ad hoc:** groene warmte **109m** · PV premie **158m** · retro **159m** · warmtenet **53.5m** · call stroom **37m**.
   - **VL DSO vergoedingen:** GSC 91.5?148?148?**67m** 2021-24; WKC **25m 2024 / 60m 2025**.
   - WAL green cert already mapped **323/288m**; offshore already mapped separately.
 - Wrote: sources 3; budgets 26; cmt 2; lb 3; rq_148=done; FOI residual ready.
@@ -1419,3 +1419,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets ~40 (replace press totals + L5); cmt 2; lb 4 new + 2 update; rq_144=done; FOI residual still ready (ranked top20 CSV).
 - FOI: gap_charleroi_subsidies_top20 ready residual ? **human send only**.
 - Next: prio6/5 **rq_120 Myria** / **rq_149 housing** / **rq_145 Brussels communes**.
+
+### 2026-07-28T00:30:00Z — tick 153
+- Unit: **rq_120** (Myria federal migration centre funding)
+- Found (strong primary Kamer Doc 56 1281/004 sectie 07):
+  - **AB 41.10.414003** Myria federal dotation (engagement = liquidation, kEUR):
+    | Year | EUR |
+    |------|-----|
+    | 2024 | **1.579m** |
+    | 2025 | **1.614m** |
+    | 2026 | **1.600m** |
+    | 2027-29 path | 1.572 / 1.543 / **1.516m** |
+  - Organic AR 29 Jun 2014 art.15: base **1.5m** indexed health index from 2014-01-01.
+  - Same table context: Unia federal AB **4.034m 2026**; IEFH **31.101m 2026** (stack).
+  - Secondary social-media claim **EUR 2.213m** does **not** match Kamer AB (~1.6m) — **do not use** as official.
+- Wrote: sources 2; entity myria; budgets 6; cmt 1; lb 1; overhead stack note; rq_120=done; FOI residual ready.
+- FOI: gap_myria_other_income (outturn + lottery/other + FTE) human send only.
+- Next: prio5 **rq_149 housing** / **rq_145 Brussels communes** / **rq_146 DGD** / **rq_121 hole-fill**.
