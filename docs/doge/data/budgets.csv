@@ -3110,3 +3110,14 @@ bud_nbb_prudential_banks_2024,nbb,2024,85800000,,,outturn,src_nbb_ondernemingsve
 bud_nbb_prudential_ins_2024,nbb,2024,46800000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Prudential costs verzekeraars 46.8m 2024
 bud_nbb_prudential_other_2024,nbb,2024,1500000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Other supervised institutions 1.5m 2024
 bud_nbb_balanscentrale_pack_2024,nbb,2024,55500000,,,outturn,src_nbb_ondernemingsverslag_2024,strong,Balanscentrale+credit centrales+CAP recoveries 55.5m 2024
+bud_cgvs_budget_available_2024,cgvs,2024,61979079,,,budgeted,src_cgvs_jv_2024,strong,Beschikbaar budget 61.979.079 2024 (FOD IBZ)
+bud_cgvs_spend_2024,cgvs,2024,57032155,,,outturn,src_cgvs_jv_2024,strong,Gerealiseerde vereffeningskredieten 57.032.155 (92pct of available)
+bud_cgvs_statutair_2024,cgvs,2024,35927683,,,outturn,src_cgvs_jv_2024,strong,Statutair personeel 35.927.683
+bud_cgvs_contractueel_2024,cgvs,2024,11077167,,,outturn,src_cgvs_jv_2024,strong,Contractueel personeel 11.077.167
+bud_cgvs_personeel_total_2024,cgvs,2024,47004850,,,outturn,src_cgvs_jv_2024,strong,Personeel sum 47.004.850 (~82pct of spend)
+bud_cgvs_werking_2024,cgvs,2024,6920595,,,outturn,src_cgvs_jv_2024,strong,Algemene werkingsuitgaven 6.920.595
+bud_cgvs_ict_2024,cgvs,2024,744361,,,outturn,src_cgvs_jv_2024,strong,Werkingsuitgaven ICT 744.361
+bud_cgvs_telewerk_2024,cgvs,2024,369909,,,outturn,src_cgvs_jv_2024,strong,Forfaitaire onkosten telewerk 369.909
+bud_cgvs_smals_egov_2024,cgvs,2024,1809222,,,outturn,src_cgvs_jv_2024,strong,Personeel eGOV en Smals 1.809.222 dual Smals 579m
+bud_cgvs_invest_2024,cgvs,2024,183218,,,outturn,src_cgvs_jv_2024,strong,Invest general 102.463 + ICT 80.755 = 183.218
+bud_cgvs_vte_2024,cgvs,2024,600.9,,,outturn,src_cgvs_jv_2024,strong,VTE total 600.9 end-2024 (A 479.2 + other 121.7); amount is FTE count

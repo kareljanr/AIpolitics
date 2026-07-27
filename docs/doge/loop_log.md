@@ -3070,3 +3070,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity nbb; budgets +16; cmt +1; lb +5; FOI gap_nbb_fte ready; draft; raw OV; rq_273=done; spawn rq_274; ticks=282
 - FOI: NBB FTE/ops-split human send; AGMJ residual still ready
 - Next: prio5 **rq_274**; deferred **rq_116** SWA
+
+### 2026-07-30T04:15:00Z - tick 283
+- Unit: **rq_274** (FOI-adjacent hole-fill - **CGVS dual Fedasil asylum decisions**)
+- Found (strong primary CGVS JV2024):
+  - Budget available **EUR 61.979m**; spent **57.032m** (92%) 2024.
+  - Personeel **47.005m** (statutair 35.9 + contractueel 11.1); werking 6.9m; ICT 0.74m.
+  - **Smals/eGOV EUR 1.809m** dual Smals 579m.
+  - VTE **600.9** end-2024 (479 A + 122 other); hires 71 / leavers 57.
+  - Dual Fedasil reception **943m** 2024 (not additive full chain).
+  - AMIF 3 projects residual EUR FOI.
+- Wrote: sources +1; entity cgvs; budgets +11; cmt +1; lb +4; FOI gap_cgvs_amif ready; draft; raw JV; rq_274=done; spawn rq_275; ticks=283
+- FOI: CGVS AMIF cash human send; Fedasil L5 + Smals notes updated; AGMJ residual still ready
+- Next: prio5 **rq_275**; deferred **rq_116** SWA
