@@ -1663,3 +1663,30 @@ bud_fluvius_dividend_payout_policy,fluvius,2025,60,,,outturn,src_fluvius_investo
 bud_fluvius_assets_total_2025,fluvius,2025,19799000000,,,outturn,src_fluvius_investor_2025_deep,strong,Fluvius EG balance sheet total 19.799bn EOY 2025
 bud_fluvius_noncurrent_assets_2025,fluvius,2025,18055000000,,,outturn,src_fluvius_investor_2025_deep,strong,Non-current assets 18.055bn EOY 2025
 bud_fluvius_ops_cashflow_2025,fluvius,2025,1019000000,,,outturn,src_fluvius_investor_2025_deep,strong,Net cash flow from operating activities 1.019bn 2025
+bud_vivaqua_ca_2024,vivaqua,2024,325924635,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua chiffre d'affaires 325.925m 2024 (users 303.1m wholesale 41.8m FRT -20.6m)
+bud_vivaqua_ca_2023,vivaqua,2023,333958120,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua CA 333.958m 2023
+bud_vivaqua_ventes_2024,vivaqua,2024,469749318,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua ventes et prestations 469.749m 2024 (incl production immobilisee 114.1m)
+bud_vivaqua_ventes_2023,vivaqua,2023,448726844,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua ventes et prestations 448.727m 2023
+bud_vivaqua_prod_immob_2024,vivaqua,2024,114137080,,,outturn,src_vivaqua_rf_2024,strong,Production immobilisee 114.137m 2024 (assain 72.8m dist 24.1m prod 14.6m)
+bud_vivaqua_op_profit_2024,vivaqua,2024,25734873,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua benefice d'exploitation 25.735m 2024
+bud_vivaqua_op_profit_2023,vivaqua,2023,10820913,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua op profit 10.821m 2023
+bud_vivaqua_net_result_2024,vivaqua,2024,-860069,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua perte de l'exercice -0.860m 2024 (mainly FRT 2022-23 charge 20.646m)
+bud_vivaqua_net_result_2023,vivaqua,2023,-16561171,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua net loss -16.561m 2023
+bud_vivaqua_assets_2024,vivaqua,2024,1803925994,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua total actif 1.804bn EOY 2024
+bud_vivaqua_equity_2024,vivaqua,2024,559497068,,,outturn,src_vivaqua_rf_2024,strong,Vivaqua capitaux propres 559.497m EOY 2024
+bud_vivaqua_subsides_capital_2024,vivaqua,2024,127774095,,,outturn,src_vivaqua_rf_2024,strong,Subsides en capital net 127.774m (public BCR nets 26.7m + Modave 0.8m + tiers 100.3m)
+bud_vivaqua_subsides_public_cumul_2024,vivaqua,2024,26656000,,,outturn,src_vivaqua_rf_2024,strong,Subsides publics cumules nets reseaux distribution+assainissement RBC 26.656m
+bud_vivaqua_lt_fin_debt_2024,vivaqua,2024,1021261856,,,outturn,src_vivaqua_rf_2024,strong,Dettes financieres a plus d'un an 1.021bn EOY 2024
+bud_vivaqua_total_dettes_2024,vivaqua,2024,1214755927,,,outturn,src_vivaqua_rf_2024,strong,Total dettes 1.215bn EOY 2024
+bud_vivaqua_personnel_2024,vivaqua,2024,146156676,,,outturn,src_vivaqua_rf_2024,strong,Remunerations charges sociales pensions 146.157m 2024
+bud_vivaqua_fte_2024,vivaqua,2024,1262,,,outturn,src_vivaqua_rf_2024,strong,Effectif moyen ETP 1262.1 2024 (headcount 1287)
+bud_vivaqua_hydria_assain_2024,vivaqua,2024,34965000,,,outturn,src_vivaqua_rf_2024,strong,Redevances assainissement regional Hydria (ex-SBGE) 34.965m 2024
+bud_vivaqua_frt_charge_2024,vivaqua,2024,20646000,,,outturn,src_vivaqua_rf_2024,strong,Fonds regulation tarifaire 2022-23 charge in CA 20.646m 2024
+bud_vivaqua_mfc_2024,vivaqua,2024,24672000,,,budgeted,src_vivaqua_rf_2024,strong,Marge de Financement Consentie Brugel 24.672m in tariffs 2024
+bud_vivaqua_mfc_2025,vivaqua,2025,28687000,,,budgeted,src_vivaqua_rf_2024,strong,MFC Brugel 28.687m 2025 (path 2022-26: 16.2/21.6/24.7/28.7/27.8m)
+bud_vivaqua_mfc_2026,vivaqua,2026,27797000,,,budgeted,src_vivaqua_rf_2024,strong,MFC Brugel 27.797m 2026
+bud_vivaqua_bei_guarantee_2024,vivaqua,2024,206606048,,,outturn,src_vivaqua_rf_2024,strong,Garantie RBC pour BEI hors bilan 206.606m EOY 2024 (323.6m 2023)
+bud_vivaqua_subside_reg_deferred_2024,vivaqua,2024,15440000,,,outturn,src_vivaqua_rf_2024,strong,Solde subsides regionaux BEI ratio residual deferred 15.440m EOY 2024
+bud_vivaqua_pension_gap_hydralis_2024,vivaqua,2024,146990492,,,outturn,src_vivaqua_rf_2024,strong,Sous-couverture engagements pension Hydralis hors bilan 146.990m (coverage 83.8pct)
+bud_vivaqua_users_rev_2024,vivaqua,2024,303060000,,,outturn,src_vivaqua_rf_2024,strong,Vente eau+services usagers bruxellois 303.060m 2024
+bud_vivaqua_wholesale_2024,vivaqua,2024,41793000,,,outturn,src_vivaqua_rf_2024,strong,Vente eau en gros autres operateurs 41.793m 2024

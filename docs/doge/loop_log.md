@@ -1670,3 +1670,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 33; cmt 2; lb 2; rq_166=done; seeded **rq_167**.
 - FOI: residual municipal dividend L5 + local FOIs human send.
 - Next: prio5 **rq_167**; deferred **rq_116** SWA.
+
+### 2026-07-28T07:25:00Z — tick 172
+- Unit: **rq_167** (FOI-adjacent hole-fill — **Vivaqua SC Rapport Financier 2024**)
+- Found (strong primary annual accounts, RSM audit unqualified):
+  - **CA EUR 325.925m 2024** (333.958m 2023) · ventes/prestations **469.7m** · op. profit **25.7m** · **net loss −0.86m** (FRT 2022–23 charge **20.6m**).
+  - Users Brussels **303.1m** · wholesale **41.8m** · production immobilisée **114.1m** (assain **72.8m**).
+  - Assets **1.804bn** · equity **559.5m** · LT fin. debt **1.021bn** · total dettes **1.215bn**.
+  - **Subsides en capital net 127.8m** (public nets **26.7m** + Modave **0.8m** + tiers **100.3m**).
+  - **MFC Brugel path** 2022–26: **16.2 / 21.6 / 24.7 / 28.7 / 27.8m** (sum ~**119m** in tariffs).
+  - Hydria assainissement **35.0m** · BCR **BEI guarantee 206.6m** · Hydralis pension gap **147.0m** off-BS (cover **83.8%**).
+  - **No dividend** (IPM tax regime — profits to immunised reserves only). FTE **1 262**.
+  - Dual water stack: **Vivaqua BCR** + **Aquafin VL** + **SPGE WAL** (+ Hydria regional sanitation).
+- Mons BI2026 / Antwerp bulk register still not newly filled.
+- Wrote: sources 1; entity update; budgets 27; cmt 2; lb 2; FOI gap_interco note; rq_167=done; seeded **rq_168**.
+- FOI: residual L5 municipal dividends + BCR 180m capital cash calendar human send.
+- Next: prio5 **rq_168**; deferred **rq_116** SWA.
