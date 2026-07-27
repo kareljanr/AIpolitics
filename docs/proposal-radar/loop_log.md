@@ -48,3 +48,13 @@ Append-only. Newest ticks at bottom.
 - Human review of scores/rubric calibration
 - Fix empty RSS endpoints (De Tijd, news.belgium.be, RTBF)
 - Optional durable schedule 6â€“24h for harvest-only ticks
+
+---
+
+## 2026-07-27 — rescore unit prop_2022_smaakhaven_38m v2
+
+- Human feedback: clown 8 fair; analysis too short; fact-check ambition page.
+- Scraped https://www.smaakhaven.be/nl/ambitie (+ tijdlijn, gebouw).
+- Full steelman, claim-by-claim audit, ROI/break-even, options A–F, capture.
+- **Scores unchanged** (8.0 / 1.5 / -6.5); analysis_version=2.
+- Sources added: src_smaakhaven_ambitie, tijdlijn, gebouw.
