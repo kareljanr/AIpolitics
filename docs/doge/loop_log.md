@@ -1587,3 +1587,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entities 5; budgets 25; cmt 1; lb 4; gap_univ FWB filled residual VL AHOVOKS; rq_160=done; seeded **rq_161**.
 - FOI: gap_univ still **ready** for VL AHOVOKS exact only (prio 5).
 - Next: prio5 **rq_161**; deferred **rq_116** SWA.
+
+### 2026-07-28T05:25:00Z — tick 166
+- Unit: **rq_161** (FOI-adjacent hole-fill — **HR Rail NV PR institutional omzet/FTE**)
+- Found (medium: Companyweb citing **NBB CBSO** jaarrekening BE0541.691.352; filing class 2026-06-10):
+  - **Omzet:** **EUR 2.368bn 2025** (+2.75%) · **2.305bn 2024** · **2.206bn 2023** · **2.078bn 2022**.
+  - **FTE:** **27 811 (2025)** · 27 568.5 (2024) · 27 524.5 (2023) · 27 435 (2022).
+  - **Resultaat:** ~**1.57m 2025** (pass-through; not a profit centre) · equity **28.3m**.
+  - **Brutomarge** ≈ omzet (payroll re-invoice to NMBS+Infrabel under KB 11 Dec 2013).
+  - Dual rail stack: NMBS staff count 16 976 (2025 results) ⊂ HR Rail 27.8k (rest mostly Infrabel).
+  - Implied ~**85k EUR** omzet/FTE 2025.
+- De Lijn full 2025-26 JV / Mons BI2026 / Antwerp register still not newly filled this tick.
+- Wrote: sources 1; entity 1; budgets 21; cmt 1; lb 2; FOI **gap_hr_rail_charge_matrix** ready; gap_infrabel note; rq_161=done; seeded **rq_162**.
+- FOI: human send gap_hr_rail (NBB PDF + charge L5) + residual De Lijn/Infrabel/NMBS.
+- Next: prio5 **rq_162**; deferred **rq_116** SWA.

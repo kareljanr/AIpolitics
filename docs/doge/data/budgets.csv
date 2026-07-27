@@ -1534,3 +1534,24 @@ bud_fwb_chu_liege_charges_2026,fwb_gov,2026,8924000,,,budgeted,src_fwb_budget_de
 bud_fwb_chu_liege_capital_2025,fwb_gov,2025,2785000,,,budgeted,src_fwb_budget_dep_2026,strong,CHU Liege constitution capital 2.785m 2025 cut to 0 in 2026
 bud_fwb_he_cf_alloc_2026,fwb_gov,2026,122543000,,,budgeted,src_fwb_budget_dep_2026,strong,Hautes Ecoles Communaute allocations globales 122.543m 2026 DO55
 bud_fwb_he_social_2026,fwb_gov,2026,41280000,,,budgeted,src_fwb_budget_dep_2026,strong,Subventions sociales Hautes Ecoles 41.280m 2026
+bud_hr_rail_omzet_2022,hr_rail,2022,2077763226,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail turnover 2022 NBB filing via Companyweb (payroll re-invoice NMBS+Infrabel)
+bud_hr_rail_profit_2022,hr_rail,2022,9201712,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail net result 2022 (near-zero pass-through entity)
+bud_hr_rail_equity_2022,hr_rail,2022,23120618,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail equity EOY 2022
+bud_hr_rail_fte_2022,hr_rail,2022,27435,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail FTE average 2022 (27435.1)
+bud_hr_rail_gross_margin_2022,hr_rail,2022,2054039716,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail gross margin 2022 (nearly equals omzet)
+bud_hr_rail_omzet_2023,hr_rail,2023,2205907450,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail turnover 2023 NBB filing via Companyweb (payroll re-invoice NMBS+Infrabel)
+bud_hr_rail_profit_2023,hr_rail,2023,2960494,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail net result 2023 (near-zero pass-through entity)
+bud_hr_rail_equity_2023,hr_rail,2023,26069315,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail equity EOY 2023
+bud_hr_rail_fte_2023,hr_rail,2023,27524,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail FTE average 2023 (27524.5)
+bud_hr_rail_gross_margin_2023,hr_rail,2023,2180649199,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail gross margin 2023 (nearly equals omzet)
+bud_hr_rail_omzet_2024,hr_rail,2024,2304846457,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail turnover 2024 NBB filing via Companyweb (payroll re-invoice NMBS+Infrabel)
+bud_hr_rail_profit_2024,hr_rail,2024,693536,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail net result 2024 (near-zero pass-through entity)
+bud_hr_rail_equity_2024,hr_rail,2024,26754065,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail equity EOY 2024
+bud_hr_rail_fte_2024,hr_rail,2024,27568,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail FTE average 2024 (27568.5)
+bud_hr_rail_gross_margin_2024,hr_rail,2024,2277584166,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail gross margin 2024 (nearly equals omzet)
+bud_hr_rail_omzet_2025,hr_rail,2025,2368227721,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail turnover 2025 NBB filing via Companyweb (payroll re-invoice NMBS+Infrabel)
+bud_hr_rail_profit_2025,hr_rail,2025,1568042,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail net result 2025 (near-zero pass-through entity)
+bud_hr_rail_equity_2025,hr_rail,2025,28313321,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail equity EOY 2025
+bud_hr_rail_fte_2025,hr_rail,2025,27811,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail FTE average 2025 (27811)
+bud_hr_rail_gross_margin_2025,hr_rail,2025,2339082399,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail gross margin 2025 (nearly equals omzet)
+bud_hr_rail_omzet_per_fte_2025,hr_rail,2025,85154,,,outturn,src_hr_rail_companyweb_nbb,medium,Implied omzet/FTE 2025 ~85.2k EUR (2.368bn/27811)
