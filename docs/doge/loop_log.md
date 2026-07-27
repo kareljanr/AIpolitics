@@ -3925,3 +3925,14 @@ Append-only. Each tick adds a short entry.
 - Improved since 340: AV dual+Tax Shelter TE 255m; economic AV triple; sport dual 235m; FWO/FNRS 712m; AWV/SOFICO roads; OE heritage 128m
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_341=done; spawn rq_342; ticks=350
 - Next: prio5 **rq_342**; deferred **rq_116** SWA; human FOI send stack ~161 ready
+
+### 2026-07-31T14:15:00Z - tick 351
+- Unit: **rq_342** (FOI-adjacent hole-fill - **AWaP Wallonia dual OE Flanders heritage**)
+- Found (strong primary Wallonie Budget 2026 DO16):
+  - **Programme 16.082** Monuments, sites et fouilles: CE=CL **€46.215m**.
+  - Line **082.001** Subvention a l'Agence wallonne du Patrimoine: **€46.215m** eng=liq.
+  - EU programming line 082.002: **€0**.
+  - Dual Flanders OE VEK **€127.789m** / VAK **€121.823m** 2026 → dual class **~€174m**.
+- Wrote: sources +1; budgets +3; cmt +1; lb +2; FOI gap_oe_awap_dual_l5 refresh (total filled, L5 residual); rq_342=done; spawn rq_343; ticks=351
+- FOI: OE+AWaP named awards L5 still ready human send
+- Next: prio5 **rq_343**; deferred **rq_116** SWA

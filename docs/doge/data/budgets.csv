@@ -4281,3 +4281,6 @@ bud_oe_ise_thema_vek_2026,onroerend_erfgoed,2026,5547000,,,budgeted,src_vl_bbt_o
 bud_oe_prioritaire_partners_2026,onroerend_erfgoed,2026,1710000,,,budgeted,src_vl_bbt_oe_bo2026,strong,"Prioritaire onroerenderfgoedpartners QG0-1QGD2BC-WT 1.710m VAK=VEK"
 bud_oe_ioed_vak_2026,onroerend_erfgoed,2026,2587000,,,budgeted,src_vl_bbt_oe_bo2026,strong,"IOED intergemeentelijke diensten VAK 2.587m (30 recognised)"
 bud_oe_bourla_max_envelope,onroerend_erfgoed,2025,40170000,,,budgeted,src_vl_bbt_oe_bo2026,strong,"Max VL contribution Bourlaschouwburg Antwerp restoration 40.17m multi-year (VR 2020 path)"
+bud_awap_subvention_2026,awap,2026,46215000,,,budgeted,src_wal_do16_awap_2026,strong,"DO16 082.001 Subvention a l Agence wallonne du Patrimoine eng=liq 46.215m kEUR"
+bud_wal_prog16082_monuments_2026,awap,2026,46215000,,,budgeted,src_wal_do16_awap_2026,strong,"Programme 16.082 Monuments sites et fouilles total CE=CL 46.215m (AWaP only lines)"
+bud_heritage_dual_oe_awap_class_2026,onroerend_erfgoed,2026,174004000,,,budgeted,src_wal_do16_awap_2026,medium,"Illustrative dual 2026: OE VEK 127.789m + AWaP 46.215m = 174.004m; not additive TE; different perimeters"

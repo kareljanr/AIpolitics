@@ -38,15 +38,17 @@ Wallonië: décret transparence) vraag ik:
 
 ### B. AWaP (Wallonië)
 
-1. Officieel **totaalbudget 2024-2026** (ordinaire + invest + subventions)
-   parallel Vlaamse OE-envelope.
+1. ~~Officieel totaalbudget 2026~~ — **gevuld tick351**: DO16 prog 16.082 /
+   082.001 **Subvention AWaP €46,215,000** (CE=CL). Residual: multi-year
+   2023-2025 path + own receipts if any beyond régional toelage.
 2. Machineleesbare lijst **top-20 subventions patrimoine 2023-2025** met bedrag
-   en begunstigde.
+   en begunstigde (L5 end-receivers under the 46.2m envelope).
+3. Split **fonctionnement vs subventions aux tiers** binnen AWaP 2024-2026.
 
 ### C. Dual context
 
-Publiek (primaire bron tick349 — BBT OE BO2026):
-- Totaal excl. apparaat/prog B: **VAK €121,823 m** · **VEK €127,789 m** 2026
+Publiek (primaire bronnen tick349–351):
+- OE Flanders BO2026: **VAK €121,823 m** · **VEK €127,789 m** 2026
   (BA2025 VAK **€150,764 m** · VEK **€132,084 m**).
 - ISE Kwaliteit **82%** van beleidskredieten; premies leeuwendeel.
 - Standaardpremie max **€45,3 m** 2026; wachtlijst new base **€9 m**;
