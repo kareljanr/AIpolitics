@@ -2396,3 +2396,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 11; cmt 5; lb 5; foi note; rq_219=done; seeded **rq_220**.
 - FOI: CAW project L5 inside 12.7m + Mons BI2026 + dual VL + register human send.
 - Next: prio5 **rq_220**; deferred **rq_116** SWA.
+
+### 2026-07-29T01:55:00Z - tick 228
+- Unit: **rq_220** (FOI-adjacent hole-fill - **JES + Kras + Elegast + Posthof** youth/social MJP)
+- Found (strong MJP nominatief):
+  - **Kras Jeugdwerk 2026 EUR 4.260m** (jeugd 3.95 + sport 0.27 + veil 40k).
+  - **JES 2026 EUR 2.386m** (jeugd 2.35 + veil 36.4k).
+  - **Elegast 2026 EUR 1.278m** (veil 0.533 + onderw 0.41 + sam 0.28 + digi 55k).
+  - **Buurtwerk Posthof 2026 EUR 1.274m** (digi 0.909 spike + sam 0.28 + SE 85k).
+  - Youth/social sample **4 orgs EUR 9.199m**; combined with tick227 social **8 orgs ~EUR 30.23m**.
+  - Mons BI2026 still not public (FOI ready).
+- Wrote: sources 1; budgets 8; cmt 5; lb 5; foi note; rq_220=done; seeded **rq_221**.
+- FOI: register project L5 + Mons BI2026 + dual VL human send.
+- Next: prio5 **rq_221**; **tick 230 progress coverage** due; deferred **rq_116** SWA.

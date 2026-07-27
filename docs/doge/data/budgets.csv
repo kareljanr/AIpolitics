@@ -2382,3 +2382,11 @@ bud_freeclinic_mjp_total_2026,city_antwerpen,2026,2435715.2,,,budgeted,src_antwe
 bud_vagga_total_2026,city_antwerpen,2026,944949.63,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,VAGGA ambulatory mental health package 0.945m 2026
 bud_vagga_sociale_2026,city_antwerpen,2026,836950.81,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,VAGGA sociale zaken 0.837m 2026
 bud_antwerp_social_l5_sample_2026,city_antwerpen,2026,21031665.79,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,Social L5 sample CAW+ADIC+FreeClinic+VAGGA 21.031m 2026
+bud_jes_total_2026,city_antwerpen,2026,2386392.86,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,JES vzw package 2.386m 2026 (jeugd 2.35 + veil 36.4k)
+bud_jes_jeugd_2026,city_antwerpen,2026,2350000.0,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,JES jeugd 2.35m 2026
+bud_kras_total_2026,city_antwerpen,2026,4260000.0,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Kras Jeugdwerk package 4.26m 2026 (jeugd 3.95 + sport 0.27 + veil 40k)
+bud_kras_jeugd_2026,city_antwerpen,2026,3950000.0,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Kras jeugd 3.95m 2026
+bud_elegast_total_2026,city_antwerpen,2026,1278054.3,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Elegast package 1.278m 2026 (veil 0.533 + onderw 0.41 + sam 0.28 + digi 55k)
+bud_posthof_total_2026,city_antwerpen,2026,1274131.41,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Buurtwerk Posthof package 1.274m 2026 (digi 0.909 + sam 0.28 + SE 85k)
+bud_antwerp_youth_social_sample_2026,city_antwerpen,2026,9198578.569999998,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Youth/social L5 sample JES+Kras+Elegast+Posthof 9.199m 2026
+bud_antwerp_social_youth_combined_2026,city_antwerpen,2026,30230244.36,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Combined social+youth sample 8 orgs ~30.23m 2026 (CAW ADIC FC VAGGA + JES Kras Elegast Posthof)

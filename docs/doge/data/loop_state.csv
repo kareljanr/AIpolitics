@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T01:35:00Z,rq_219,227,no,"Scheduler 60s. Next prio5 rq_220 JES/Kras/Mons; rq_116 SWA deferred. FOI ready human send. tick227 CAW 16.92m social sample 21.01m."
+main,continuous,hole_fill,2026-07-29T01:55:00Z,rq_220,228,no,"Scheduler 60s. Next prio5 rq_221; tick230 progress due; rq_116 SWA deferred. FOI ready human send. tick228 Kras 4.26 JES 2.39 youth sample 9.20m combined 30.23m."
