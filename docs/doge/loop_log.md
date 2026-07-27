@@ -1281,3 +1281,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; taxex 5; budgets 3; cmt_company_cars_te_fpb; lb_company_cars_fpb; rq_155=done; FOI note updated.
 - FOI: gap_company_cars residual ready (FPS official split).
 - Next: prio7 **rq_129 Maribel L5**; prio6 **IEFH/FIRM**.
+
+### 2026-07-27T20:50:00Z — tick 142
+- Unit: **rq_129** (SS Maribel named fund L5 sample beyond NBB totals)
+- Found (strong fund jaarverslagen + FOD WASO):
+  - **FSM 319.01 Flanders** (VSPF 2023): social **€75.938m** + fiscal **€14.788m** = **€90.726m**; max €46.7k/VTE.
+  - **FSM socioculture Flanders** (VSPF 2023): social **€31.589m**; total social+fiscal **€38.012m** (~833 VTE; ~600 orgs).
+  - **FSM 319 bicommunal** (FeBi): social **€5.108m 2023 / €5.801m 2024**; fiscal **€0.941m / €1.037m**.
+  - **Public sector fund:** annual fiscal-substitute compensation **€38.72m** (FOD WASO).
+  - Sample sum class **~€174m** ˜ **12%** of NBB SS Maribel **€1.461bn 2024** — residual especially **PC 330 health** bulk still FOI.
+- Wrote: sources 4; budgets 11; cmt_maribel_l5_sample; lb 2; rq_129=done; FOI residual note.
+- FOI: gap_maribel priority 6 residual (health bulk).
+- Next: prio6 **rq_118 IEFH** / **rq_119 FIRM** / RTBF/VRT.

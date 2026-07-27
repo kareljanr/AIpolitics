@@ -1013,3 +1013,14 @@ bud_antwerp_zorgbedrijf_invest_2023,city_antwerpen,2023,14509456.80,,,budgeted,s
 bud_company_cars_te_fpb_2025,fod_finance,2025,4700000000,,,estimate,src_fpb_company_cars_te_2025,strong,FPB company car TE package central 4.7bn 2025
 bud_company_cars_te_fpb_2028,fod_finance,2028,5200000000,,,estimate,src_fpb_company_cars_te_2025,strong,FPB company car TE package central 5.2bn 2028
 bud_company_cars_te_vat_2028,fod_finance,2028,600000000,,,estimate,src_fpb_company_cars_te_2025,medium,FPB non-recovered VAT component ~0.6bn 2028
+bud_maribel_fsm319_01_social_2023,maribel_funds,2023,75938085.44,,,outturn,src_vspf_maribel_319_01_2023,strong,FSM 319.01 Flanders social Maribel dotatie 75.938m 2023
+bud_maribel_fsm319_01_fiscal_2023,maribel_funds,2023,14787724.13,,,outturn,src_vspf_maribel_319_01_2023,strong,FSM 319.01 Flanders fiscal Maribel 14.788m 2023
+bud_maribel_fsm319_01_total_2023,maribel_funds,2023,90725809.57,,,outturn,src_vspf_maribel_319_01_2023,strong,FSM 319.01 total social+fiscal ~90.726m 2023
+bud_maribel_socio_vl_social_2023,maribel_funds,2023,31588972.03,,,outturn,src_vspf_maribel_socio_2023,strong,FSM socioculture Flanders social Maribel 31.589m 2023
+bud_maribel_socio_vl_total_2023,maribel_funds,2023,38011922.92,,,outturn,src_vspf_maribel_socio_2023,strong,FSM socioculture Flanders social+fiscal total 38.012m 2023
+bud_maribel_socio_vl_fiscal_2023,maribel_funds,2023,6422950.89,,,outturn,src_vspf_maribel_socio_2023,strong,Implied fiscal Maribel ~6.423m (total-social)
+bud_maribel_febi319_social_2023,maribel_funds,2023,5108055.03,,,outturn,src_febi_maribel_319_2024,strong,FSM 319 bicommunal social Maribel 5.108m 2023
+bud_maribel_febi319_social_2024,maribel_funds,2024,5801291.07,,,outturn,src_febi_maribel_319_2024,strong,FSM 319 bicommunal social Maribel 5.801m 2024
+bud_maribel_febi319_fiscal_2023,maribel_funds,2023,941036.98,,,outturn,src_febi_maribel_319_2024,strong,FSM 319 bicommunal fiscal Maribel 0.941m 2023
+bud_maribel_febi319_fiscal_2024,maribel_funds,2024,1037020.93,,,outturn,src_febi_maribel_319_2024,strong,FSM 319 bicommunal fiscal Maribel 1.037m 2024
+bud_maribel_public_sector_comp,maribel_funds,2024,38720000,,,budgeted,src_fod_werk_maribel_fiscale,strong,Public sector Maribel fund annual fiscal compensation 38.72m (no fiscal Maribel)

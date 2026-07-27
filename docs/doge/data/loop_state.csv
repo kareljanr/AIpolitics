@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T20:30:00Z,rq_155,141,no,"Scheduler 60s. Next prio7: SS rq_129 Maribel L5; prio6 IEFH/FIRM/Myria equality; FOI ready human send."
+main,continuous,hole_fill,2026-07-27T20:50:00Z,rq_129,142,no,"Scheduler 60s. Next prio6 equality IEFH/FIRM/Myria; prio6 RTBF/VRT; FOI ready human send. rq_129 Maribel L5 sample done."
