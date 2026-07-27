@@ -2126,3 +2126,15 @@ bud_awv_gip_2027,awv,2027,685259495,,,budgeted,src_mora_gip_2025_27,strong,GIP i
 bud_gip_mow_total_2025,sec_flanders,2025,2585429000,,,budgeted,src_mora_gip_2025_27,strong,GIP MOW total ~2.58bn 2025
 bud_gip_mow_total_2026,sec_flanders,2026,2423647000,,,budgeted,src_mora_gip_2025_27,strong,GIP MOW total ~2.42bn 2026
 bud_gip_asset_mgmt_2025,sec_flanders,2025,733000000,,,budgeted,src_mora_gip_2025_27,strong,Asset management structureel onderhoud ~733m 28pct GIP 2025
+bud_lantis_equity_2025,lantis,2025,827608149,,,stock,src_lantis_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025
+bud_lantis_equity_2024,lantis,2024,834908956,,,stock,src_lantis_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024
+bud_lantis_net_2025,lantis,2025,-7300807,,,outturn,src_lantis_companyweb_nbb,medium-strong,Net loss 2025 after larger 2024 loss
+bud_lantis_net_2024,lantis,2024,-93569097,,,outturn,src_lantis_companyweb_nbb,medium-strong,Net loss 2024 93.6m
+bud_lantis_gip_2025,lantis,2025,95952000,,,budgeted,src_mora_gip_2025_27,strong,GIP Leefbaar Antwerpen / Lantis 2025
+bud_lantis_gip_2026,lantis,2026,235183000,,,budgeted,src_mora_gip_2025_27,strong,GIP Lantis 2026
+bud_lantis_gip_2027,lantis,2027,276681000,,,budgeted,src_mora_gip_2025_27,strong,GIP Lantis 2027
+bud_dwv_omzet_2025,de_werkvennootschap,2025,143279732,,,outturn,src_dwv_companyweb_nbb,medium-strong,Omzet 2025 works pass-through
+bud_dwv_omzet_2024,de_werkvennootschap,2024,124526477,,,outturn,src_dwv_companyweb_nbb,medium-strong,Omzet 2024
+bud_dwv_gip_2025,de_werkvennootschap,2025,243832863,,,budgeted,src_mora_gip_2025_27,strong,GIP De Werkvennootschap 2025
+bud_dwv_gip_2026,de_werkvennootschap,2026,247792937,,,budgeted,src_mora_gip_2025_27,strong,GIP DWV 2026
+bud_dwv_gip_2027,de_werkvennootschap,2027,248774581,,,budgeted,src_mora_gip_2025_27,strong,GIP DWV 2027

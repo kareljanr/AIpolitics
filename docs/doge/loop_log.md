@@ -2040,3 +2040,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entities 2; budgets 13; cmt 2; lb 3; FOI **gap_awv_opex_l5** ready; rq_191=done; seeded **rq_192**.
 - FOI: full AWV opex + GIP top30 L5 human send only; Antwerp register / Mons BI2026 still residual.
 - Next: prio5 **rq_192**; deferred **rq_116** SWA.
+### 2026-07-28T15:45:00Z - tick 197
+- Unit: **rq_192** (FOI-adjacent hole-fill - **Lantis + De Werkvennootschap** mobility SPVs)
+- Found (medium-strong NBB/Companyweb + strong GIP MORA Table1):
+  - **Lantis (BAM)**: equity **?990.7 ? 827.6m** 2022-25; net **-28.3 / -62.3 / -93.6 / -7.3m**; gross margin **53-63m**; FTE 126?182; no omzet published.
+  - **Lantis GIP** 2025-27: **?96.0 / 235.2 / 276.7m** (vs BO2026 Oosterweel line **?889.9m** ? channel recon FOI).
+  - **De Werkvennootschap**: omzet **?19.1 ? 143.3m** 2022-25; net **0.32 ? 0.87m**; equity **~41m**; FTE ~24.5.
+  - **DWV GIP** 2025-27: **?243.8 / 247.8 / 248.8m**.
+  - Dual map: Lantis Oosterweel SPV + DWV multi-project works + AWV/DVW/SOFICO infra stack.
+- Wrote: sources 2; entities 2; budgets 12; cmt 2; lb 2; FOI **gap_lantis_oosterweel_cash** ready; rq_192=done; seeded **rq_193**.
+- FOI: Oosterweel cash-by-year recon human send only; Antwerp register / Mons BI2026 still residual.
+- Next: prio5 **rq_193**; deferred **rq_116** SWA.
