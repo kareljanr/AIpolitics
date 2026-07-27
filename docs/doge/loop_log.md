@@ -1452,3 +1452,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; entities 4; budgets ~35; cmt 4; lb 4; rq_149=done; FOI residual ready.
 - FOI: gap_housing_l5_slsp_wm (per-WM / per-SLSP L5 + interest-subsidy cash) human send only.
 - Next: prio5 **rq_145 Brussels communes** / **rq_146 DGD** / **rq_147 defence** / **rq_121 hole-fill**.
+
+### 2026-07-28T01:15:00Z — tick 155
+- Unit: **rq_145** (Brussels communes Ixelles / Schaerbeek / Anderlecht L5 sample)
+- Found:
+  - **Ixelles (medium — DH quotes echevine Gilson):** ord rec **~EUR 253m** · ord dep **~EUR 258m+** · provisions **>5.5m** · invest **46.2m** (emprunt **26.9m**) · transfers **+9.4m** (CPAS **+6.07m** · Iris catch-up **4.75m** · police **+0.3m**) · debt path **119→210m** · participatif **0.17m strong**.
+  - **Schaerbeek (strong note + medium RTBF total):** invest **EUR 60m** · Brichaut creche **6.5m** (commune **1.3m**) · Hoogvorst **~6m** (commune **2m**) · RenovaS Dupont **5m** · Plantes **3m** · sport **>2m** · trottoirs **1.5m** · Terdelt **1.2m** · CPAS federal class **~17m** · AS hire **0.95m**.
+  - **Anderlecht (strong CP):** equilibrium claimed · asphalt **1.2m** · sidewalks **0.85m** · associative/sport maintained without EUR totals.
+- Wrote: sources 5; entities 3; budgets ~27; cmt 3; lb 4; rq_145=done; FOI residual ready.
+- FOI: gap_bru_communes_subsidies_top20 (full BI PDFs + ASBL top20 ×3) human send only.
+- Next: prio5 **rq_146 DGD** / **rq_147 defence** / **rq_150 justice** / **rq_121 hole-fill**.

@@ -1295,3 +1295,29 @@ bud_wal_flw_2026,wallonie_gov,2026,4332000,,,budgeted,src_wal_do16_budget2026,st
 bud_wal_renopack_primes_2026,swcs,2026,88632000,,,budgeted,src_wal_do16_budget2026,strong,DO16 084.014 Renopack primes SWCS/FLW 88632 kEUR
 bud_wal_renopack_ops_2026,swcs,2026,11712000,,,budgeted,src_wal_do16_budget2026,strong,DO16 084.013 Renopack functioning SWCS/FLW 11712 kEUR
 bud_wal_prog_16080_2026,wallonie_gov,2026,331634000,,,budgeted,src_wal_do16_budget2026,strong,Programme 16.080 Logement eng 331634 / liq 330319 kEUR broader housing
+bud_ixelles_ord_rec_2026,city_ixelles,2026,253000000,,,budgeted,src_ixelles_budget_2026_dh,medium,Ordinary receipts nearly 253m EUR quoted echevine Gilson DH May 2026
+bud_ixelles_ord_dep_2026,city_ixelles,2026,258000000,,,budgeted,src_ixelles_budget_2026_dh,medium,Ordinary dep functioning+personnel+transfers a bit over 258m EUR quoted
+bud_ixelles_provisions_2026,city_ixelles,2026,5500000,,,budgeted,src_ixelles_budget_2026_dh,medium,Provisions/prelevements >5.5m to balance ordinary; not sustainable indefinitely per quote
+bud_ixelles_invest_2026,city_ixelles,2026,46200000,,,budgeted,src_ixelles_budget_2026_dh,medium,Investment ambition 46.2m of which 26.9m emprunt
+bud_ixelles_invest_emprunt_2026,city_ixelles,2026,26900000,,,budgeted,src_ixelles_budget_2026_dh,medium,Borrowing share of invest 26.9m
+bud_ixelles_debt_2025,city_ixelles,2025,210000000,,,outturn_class,src_ixelles_budget_2026_dh,medium,Debt path previous legislature 119m to 210m (2018-2025 class)
+bud_ixelles_ord_delta_2026,city_ixelles,2026,11000000,,,budgeted,src_ixelles_budget_2026_dh,medium,Ordinary spending +11m vs prior of which transfers +9.4m
+bud_ixelles_cpas_delta_2026,city_ixelles,2026,6070000,,,budgeted,src_ixelles_budget_2026_dh,medium,CPAS transfer +6.07m 2026
+bud_ixelles_iris_deficit_2026,city_ixelles,2026,4750000,,,budgeted,src_ixelles_budget_2026_dh,medium,Iris hospital network deficit catch-up 4.75m for 2024-2025 exercises
+bud_ixelles_police_delta_2026,city_ixelles,2026,300000,,,budgeted,src_ixelles_budget_2026_dh,medium,Police zone +300k
+bud_ixelles_participatif_2026,city_ixelles,2026,170000,,,budgeted,src_ixelles_budget_participatif_2026,strong,Citizen participatory budget 170k official site
+bud_schaerbeek_invest_2026,city_schaerbeek,2026,60000000,,,budgeted,src_schaerbeek_budget_2026_rtbf,medium,Total investments 60m 2026 per echevin Vanhalewyn RTBF
+bud_schaerbeek_creche_brichaut_2026,city_schaerbeek,2026,6500000,,,budgeted,src_schaerbeek_note_budget_2026,strong,Creche Brichaut total invest 6.5m; commune cofinance 20pct ~1.3m
+bud_schaerbeek_creche_brichaut_commune_2026,city_schaerbeek,2026,1300000,,,budgeted,src_schaerbeek_note_budget_2026,strong,Commune 20pct of Brichaut 6.5m = 1.3m
+bud_schaerbeek_hoogvorst_2026,city_schaerbeek,2026,6000000,,,budgeted,src_schaerbeek_note_budget_2026,strong,Creche rue d Hoogvorst almost 6m 2026; commune cofinance 2m
+bud_schaerbeek_hoogvorst_commune_2026,city_schaerbeek,2026,2000000,,,budgeted,src_schaerbeek_note_budget_2026,strong,Commune cofinance Hoogvorst 2m
+bud_schaerbeek_trottoirs_2026,city_schaerbeek,2026,1500000,,,budgeted,src_schaerbeek_budget_2026_rtbf,medium,Plan trottoirs 1.5m RTBF quote
+bud_schaerbeek_terdelt_2026,city_schaerbeek,2026,1200000,,,budgeted,src_schaerbeek_budget_2026_rtbf,medium,Athletics track Terdelt 1.2m
+bud_schaerbeek_renovas_dupont_2026,city_schaerbeek,2026,5000000,,,budgeted,src_schaerbeek_note_budget_2026,strong,RenovaS health-youth equipment Dupont 5m
+bud_schaerbeek_plantes_2026,city_schaerbeek,2026,3000000,,,budgeted,src_schaerbeek_note_budget_2026,strong,Rue des Plantes renovation 3m of which 60pct commune
+bud_schaerbeek_sport_2026,city_schaerbeek,2026,2000000,,,budgeted,src_schaerbeek_note_budget_2026,strong,Sport renovations more than 2m 2026
+bud_schaerbeek_cpas_federal_2026,city_schaerbeek,2026,17000000,,,budgeted,src_schaerbeek_budget_2026_rtbf,medium,CPAS envelope +~17m federal means integrated (not all new communal cash)
+bud_schaerbeek_cpas_as_2026,city_schaerbeek,2026,945853,,,budgeted,src_schaerbeek_note_budget_2026,strong,CPAS personnel line 945853 EUR for social workers
+bud_anderlecht_voirie_asphalt_2026,city_anderlecht,2026,1200000,,,budgeted,src_anderlecht_cp_budget_2026,strong,Communal road asphalt 1.2m official CP
+bud_anderlecht_trottoirs_2026,city_anderlecht,2026,850000,,,budgeted,src_anderlecht_cp_budget_2026,strong,Sidewalks 850k official CP
+bud_anderlecht_voirie_sum_2026,city_anderlecht,2026,2050000,,,budgeted,src_anderlecht_cp_budget_2026,strong,Named public-space invest sum 1.2+0.85=2.05m
