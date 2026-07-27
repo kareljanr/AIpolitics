@@ -1259,3 +1259,39 @@ bud_myria_dot_2026,myria,2026,1600000,,,budgeted,src_kamer_56k1281_004_myria,str
 bud_myria_dot_2027,myria,2027,1572000,,,budgeted,src_kamer_56k1281_004_myria,strong,AB path 1572 kEUR multi-year table
 bud_myria_dot_2028,myria,2028,1543000,,,budgeted,src_kamer_56k1281_004_myria,strong,AB path 1543 kEUR
 bud_myria_dot_2029,myria,2029,1516000,,,budgeted,src_kamer_56k1281_004_myria,strong,AB path 1516 kEUR continuing mild decline
+bud_vl_wonen_qd_vak_2026,vlaanderen_gov,2026,3290673000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Programme QD WONEN BO2026 VAK 3290673 kEUR BBT p7
+bud_vl_wonen_qd_vek_2026,vlaanderen_gov,2026,348020000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Programme QD WONEN BO2026 VEK 348020 kEUR (cash-like); BA2025 VEK was 377775k
+bud_vl_wonen_qd_vak_2025,vlaanderen_gov,2025,3321435000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,BA2025 VAK 3321435 kEUR
+bud_vl_wonen_qd_vek_2025,vlaanderen_gov,2025,377775000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,BA2025 VEK 377775 kEUR
+bud_vl_huurtoelage_2026,vlaanderen_gov,2026,140968000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Joint huursubsidie+huurpremie 140968 kEUR BO2026 demand ISE; article QF0-1QDB2PA-WT
+bud_vl_qdb2pa_2026,vlaanderen_gov,2026,152085000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,QF0-1QDB2PA-WT full 152085 kEUR incl huurtoelagen + VGW 8357k + mediation
+bud_vl_vgw_2026,vlaanderen_gov,2026,8357000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Verzekering Gewaarborgd Wonen premiums 8357 kEUR after -850k tax cut
+bud_vl_vwf_werking_2026,vwf,2026,41763000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,VWF werkings/financieringstoelage QF0-1QDB2PJ-IS 41763 kEUR
+bud_vl_vwf_lening_auth_2026,vwf,2026,1720000000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,QF0-1QDB5PJ-IS loan authorization 1720m = 1.7bn Woonlening + 20m huurwaarborg; not cash grant
+bud_vl_fbuh_2026,vlaanderen_gov,2026,1741000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Fonds bestrijding uithuiszettingen toelage 1741 kEUR
+bud_vl_vmsw_is_vak_2026,vmsw,2026,68056000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,QF0-1QDB2QK-IS VMSW IS VAK 68056 kEUR (SSI GSC budgethuren etc)
+bud_vl_vmsw_is_vek_2026,vmsw,2026,71812000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,QF0-1QDB2QK-IS VMSW IS VEK 71812 kEUR
+bud_vl_vmsw_loan_auth_2026,vmsw,2026,1228907000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,QF0-1QDB5QK-IS VMSW loan authorizations VAK 1228907 kEUR; FS3 max 1bn + market 220m + student 100m class
+bud_vl_vmsw_fs3_auth_2026,vmsw,2026,1000000000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,FS3 programme loan auth max 1bn EUR 2026 (+ unused 2025); -1pct path shifting to -2pct financing reform
+bud_vl_gsc_2026,vmsw,2026,13500000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Gewestelijke Sociale Correctie GSC 13500 kEUR constant in VMSW table
+bud_vl_budgethuren_cap_2026,vmsw,2026,12800000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Budgethuren/SVKpro annual intervention cap 12.8m at cruise; VMSW table also notes 6m 2026 line
+bud_vl_ssi_assign_2026,vmsw,2026,54599000,,,budgeted,src_vl_bbt_wonen_bo2026,medium,SSI infrastructure assignment volume 54599 kEUR class (BO26 40301 + rider 15301 + shifts)
+bud_vl_mvp_cut_2026,vlaanderen_gov,2026,-70549000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Mijn VerbouwPremie new credits zero from 2026; saving 70549 kEUR vs BA2025 quality ISE
+bud_vl_expertisepool_2026,vlaanderen_gov,2026,500000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,Expertisepool woonmaatschappijen 500 kEUR QF0-1QDB2QA-WT
+bud_vl_igs_2026,vlaanderen_gov,2026,9300000,,,budgeted,src_vl_bbt_wonen_bo2026,strong,IGS local housing cooperation subsidy ~9.3m VAK on QDB2TA
+bud_eib_fl_housing_facility,vlaanderen_gov,2026,1700000000,,,commitment,src_eib_flanders_housing_2026,strong,EIB facility total 1.7bn multi-year; first tranche 700m signed Jan 2026; preferential loans not cash grant
+bud_wal_swl_pei_2026,swl,2026,55282000,,,budgeted,src_wal_do16_budget2026,strong,DO16 081.016 PEI engagement=liquidation 55282 kEUR
+bud_wal_swl_impulsion_2026,swl,2026,5000000,,,budgeted,src_wal_do16_budget2026,strong,DO16 081.020 Plan Impulsion Logement 5000 kEUR
+bud_wal_swl_prw_eng_2026,swl,2026,31146000,,,budgeted,src_wal_do16_budget2026,strong,DO16 081.038 PRW renovation plan eng 31146 kEUR liq 25529k
+bud_wal_swl_prw_liq_2026,swl,2026,25529000,,,budgeted,src_wal_do16_budget2026,strong,DO16 081.038 PRW liquidation 25529 kEUR
+bud_wal_swl_pivert_2026,swl,2026,22419000,,,budgeted,src_wal_do16_budget2026,strong,DO16 081.059 PIVERT 22419 kEUR eng=liq
+bud_wal_swl_ancrage_liq_2026,swl,2026,9784000,,,budgeted,src_wal_do16_budget2026,strong,DO16 081.021 Ancrage communal eng 0 liq 9784 kEUR
+bud_wal_swl_named_eng_sum_2026,swl,2026,113847000,,,budgeted,src_wal_do16_budget2026,strong,Sum named SWL capital dots eng PEI+Impulsion+PRW+PIVERT 113847 kEUR (excl ancrage eng0)
+bud_wal_swl_named_liq_sum_2026,swl,2026,118014000,,,budgeted,src_wal_do16_budget2026,strong,Sum named SWL liq PEI+Impulsion+Ancrage+PRW+PIVERT 118014 kEUR
+bud_wal_prog_16081_2026,wallonie_gov,2026,116179000,,,budgeted,src_wal_do16_budget2026,strong,Programme 16.081 investment plans eng 116179 / liq 120346 kEUR
+bud_wal_swcs_prets_2026,swcs,2026,23300000,,,budgeted,src_wal_do16_budget2026,strong,DO16 080.036 SWCS social loans dotation 23300 kEUR
+bud_wal_swcs_deficit_2026,swcs,2026,6048000,,,budgeted,src_wal_do16_budget2026,strong,DO16 080.062 SWCS special cash deficit capital 6048 kEUR
+bud_wal_flw_2026,wallonie_gov,2026,4332000,,,budgeted,src_wal_do16_budget2026,strong,DO16 080.037 Fonds du Logement renove/gestion eng 4332 liq 5632 kEUR
+bud_wal_renopack_primes_2026,swcs,2026,88632000,,,budgeted,src_wal_do16_budget2026,strong,DO16 084.014 Renopack primes SWCS/FLW 88632 kEUR
+bud_wal_renopack_ops_2026,swcs,2026,11712000,,,budgeted,src_wal_do16_budget2026,strong,DO16 084.013 Renopack functioning SWCS/FLW 11712 kEUR
+bud_wal_prog_16080_2026,wallonie_gov,2026,331634000,,,budgeted,src_wal_do16_budget2026,strong,Programme 16.080 Logement eng 331634 / liq 330319 kEUR broader housing

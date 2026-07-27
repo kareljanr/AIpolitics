@@ -1436,3 +1436,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity myria; budgets 6; cmt 1; lb 1; overhead stack note; rq_120=done; FOI residual ready.
 - FOI: gap_myria_other_income (outturn + lottery/other + FTE) human send only.
 - Next: prio5 **rq_149 housing** / **rq_145 Brussels communes** / **rq_146 DGD** / **rq_121 hole-fill**.
+
+### 2026-07-28T00:50:00Z — tick 154
+- Unit: **rq_149** (Housing regional subsidies — VL social housing + WAL SWL)
+- Found (strong primary BBT Wonen BO2026 + WAL DO16):
+  - **VL programme QD WONEN BO2026:** VAK **EUR 3.291bn** · VEK **EUR 348.0m** (BA2025 VEK 377.8m).
+  - **Huurtoelage joint** (huursubsidie+huurpremie): **EUR 141.0m**; full QDB2PA **152.1m** (incl VGW **8.36m**).
+  - **VWF loan auth:** **EUR 1.72bn** (1.7bn Woonlening + 20m HWL); werkings **41.8m**.
+  - **VMSW:** loan auth **EUR 1.229bn** (FS3 max **1.0bn** + market 220m + student 100m class); IS VEK **71.8m**; GSC **13.5m**; budgethuren cap **12.8m**.
+  - **MVP cut:** **-EUR 70.5m** new credits from 2026.
+  - **Social stock 31/12/2024:** **177.461** units; BSO path 45k+ voluntary to max **56k**.
+  - **EIB facility:** **EUR 1.7bn** (first tranche **700m**) preferential loans — not pure grant.
+  - **WAL SWL named liq sum ~EUR 118.0m:** PEI **55.3** · PRW liq **25.5** · PIVERT **22.4** · Ancrage **9.8** · Impulsion **5.0**.
+  - **WAL Renopack primes EUR 88.6m** + ops **11.7m**; SWCS social loans **23.3m**.
+- Wrote: sources 3; entities 4; budgets ~35; cmt 4; lb 4; rq_149=done; FOI residual ready.
+- FOI: gap_housing_l5_slsp_wm (per-WM / per-SLSP L5 + interest-subsidy cash) human send only.
+- Next: prio5 **rq_145 Brussels communes** / **rq_146 DGD** / **rq_147 defence** / **rq_121 hole-fill**.
