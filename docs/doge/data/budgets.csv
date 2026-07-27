@@ -2113,3 +2113,16 @@ bud_we_dividend_2025,wallonie_entreprendre,2025,70300000,,,outturn,src_we_press_
 bud_we_dividend_2024,wallonie_entreprendre,2024,55300000,,,outturn,src_we_press_ar2024,strong,Dividend 55.3m to Wallonie+Belfius
 bud_we_write_downs_2024,wallonie_entreprendre,2024,76000000,,,outturn,src_we_press_ar2024,strong,Reductions de valeur 76m in 2024 result
 bud_we_roadmap_invest_5y,wallonie_entreprendre,2029,2500000000,,,commitment,src_we_press_ar2025,strong,Strategy 2025-2029 invest envelope 2.5bn class
+bud_dvw_omzet_2025,vlaamse_waterweg,2025,61630530,,,outturn,src_dvw_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2025
+bud_dvw_omzet_2024,vlaamse_waterweg,2024,59187882,,,outturn,src_dvw_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2024
+bud_dvw_net_2025,vlaamse_waterweg,2025,-30057268,,,outturn,src_dvw_companyweb_nbb,medium-strong,Net loss 2025
+bud_dvw_net_2024,vlaamse_waterweg,2024,-6796760,,,outturn,src_dvw_companyweb_nbb,medium-strong,Net loss 2024
+bud_dvw_equity_2025,vlaamse_waterweg,2025,3210435127,,,stock,src_dvw_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025 ~3.21bn infra BS
+bud_dvw_gip_2025,vlaamse_waterweg,2025,288008796,,,budgeted,src_mora_gip_2025_27,strong,GIP invest envelope 2025 MORA Table1
+bud_dvw_gip_2026,vlaamse_waterweg,2026,380920447,,,budgeted,src_mora_gip_2025_27,strong,GIP invest envelope 2026
+bud_awv_gip_2025,awv,2025,708220493,,,budgeted,src_mora_gip_2025_27,strong,GIP invest AWV 2025 largest roads entity
+bud_awv_gip_2026,awv,2026,679711180,,,budgeted,src_mora_gip_2025_27,strong,GIP invest AWV 2026
+bud_awv_gip_2027,awv,2027,685259495,,,budgeted,src_mora_gip_2025_27,strong,GIP invest AWV 2027
+bud_gip_mow_total_2025,sec_flanders,2025,2585429000,,,budgeted,src_mora_gip_2025_27,strong,GIP MOW total ~2.58bn 2025
+bud_gip_mow_total_2026,sec_flanders,2026,2423647000,,,budgeted,src_mora_gip_2025_27,strong,GIP MOW total ~2.42bn 2026
+bud_gip_asset_mgmt_2025,sec_flanders,2025,733000000,,,budgeted,src_mora_gip_2025_27,strong,Asset management structureel onderhoud ~733m 28pct GIP 2025

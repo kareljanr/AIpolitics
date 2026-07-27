@@ -2029,3 +2029,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; entity 1; budgets 12; cmt 1; lb 3; FOI **gap_we_l5_stakes** ready; rq_190=done; seeded **rq_191**.
 - FOI: L5 stakes + guarantee claims human send only; Antwerp register / Mons BI2026 still residual.
 - Next: prio5 **rq_191**; deferred **rq_116** SWA.
+### 2026-07-28T15:25:00Z - tick 196
+- Unit: **rq_191** (FOI-adjacent hole-fill - **Vlaamse Waterweg + AWV GIP** dual SOFICO)
+- Found (medium-strong NBB/Companyweb DVW + strong MORA GIP Table1 from Dept MOW):
+  - **DVW omzet EUR 59.2m 2024 / 61.6m 2025**; **net -6.8m / -30.1m**; **equity 3.135 ? 3.210bn**; FTE ~1.23k.
+  - **DVW GIP invest 288.0 / 380.9 / 383.8m** 2025-27.
+  - **AWV GIP invest 708.2 / 679.7 / 685.3m** 2025-27 (largest roads entity).
+  - **MOW GIP total ~2.585 / 2.424 / 2.501bn**; asset management **~733m** 2025 (target **1.4bn** 2029).
+  - Dual map: **AWV+DVW Flanders** vs **SOFICO Wallonia** (op rev 495m / infra 2.58bn).
+- Wrote: sources 2; entities 2; budgets 13; cmt 2; lb 3; FOI **gap_awv_opex_l5** ready; rq_191=done; seeded **rq_192**.
+- FOI: full AWV opex + GIP top30 L5 human send only; Antwerp register / Mons BI2026 still residual.
+- Next: prio5 **rq_192**; deferred **rq_116** SWA.

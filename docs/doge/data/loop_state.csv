@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T15:05:00Z,rq_190,195,no,"Scheduler 60s. Next prio5 rq_191 Antwerp/Mons/AWV; rq_116 SWA deferred. FOI ready human send. tick195 WE equity 5bn invest 613m dual PMV/SFPIM; gap_we_l5_stakes ready."
+main,continuous,hole_fill,2026-07-28T15:25:00Z,rq_191,196,no,"Scheduler 60s. Next prio5 rq_192 Antwerp/Mons/Lantis; rq_116 SWA deferred. FOI ready human send. tick196 DVW equity 3.2bn AWV GIP 708m dual SOFICO; gap_awv_opex_l5 ready."
