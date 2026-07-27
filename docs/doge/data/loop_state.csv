@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T14:45:00Z,rq_391,400,no,Scheduler 60s. Next prio5 rq_392; rq_116 SWA deferred. FOI ready~210. tick400 progress.
+main,continuous,hole_fill,2026-08-01T15:15:00Z,rq_392,401,no,Scheduler 60s. Next prio5 rq_393; rq_116 SWA deferred. tick401 pluriannuel path.

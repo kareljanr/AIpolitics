@@ -5669,3 +5669,47 @@ bud_return_effects_2029_old,sec_federal,2029,7886200000,,,budgeted,src_ccrek_bud
 bud_employment_goal_2029_pct,gg_belgium,2029,0.78,,,estimate,src_ccrek_budget2026_entity1_overview,medium,Coalition employment rate goal 78pct 2029 vs BFP Feb2026 path ~74.3; amount_eur blank pct
 bud_growth_shock_05_entity1,sec_federal,2026,1400000000,,,estimate,src_ccrek_budget2026_entity1_overview,medium,0.5pp GDP growth slowdown hit Entity I ~1.4bn (0.2pct GDP); GG ~2bn
 bud_eu_payments_budget_2026,sec_federal,2026,190100000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,EU budget payment appropriations 190.1bn 2026 (vs 155.2 2025; drives BE GNI rise)
+bud_be_deficit_pct_2024,gg_belgium,2024,-4.4,,,outturn,src_ccrek_budget2026_pluriannuel,strong,Belgium financing balance -4.4pct GDP 2024 (DBP table; ICN Oct2025)
+bud_be_deficit_pct_2025_reest,gg_belgium,2025,-5.2,,,estimate,src_ccrek_budget2026_pluriannuel,strong,Belgium financing balance reest -5.2pct GDP 2025 (DBP 14 Jan 2026)
+bud_be_deficit_pct_2026_dbp,gg_belgium,2026,-4.9,,,budgeted,src_ccrek_budget2026_pluriannuel,strong,Belgium financing balance -4.9pct GDP 2026 (DBP 14 Jan + FPB 12 Feb + expose)
+bud_entity1_deficit_pct_2026,sec_federal,2026,-3.7,,,budgeted,src_ccrek_budget2026_pluriannuel,strong,Entity I financing balance -3.7pct GDP 2026 (+0.1pp vs 2025)
+bud_entity2_deficit_pct_2026,sec_s1312,2026,-1.2,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Entity II financing balance -1.2pct GDP 2026 (-0.4pp vs 2025; method thin CoA)
+bud_entity1_deficit_pct_2025_bosa,sec_federal,2025,-3.6,,,estimate,src_ccrek_budget2026_pluriannuel,medium,Entity I -3.6pct GDP 2025 (BOSA 4 Feb 2026 provisional)
+bud_entity2_deficit_pct_2025_bosa,sec_s1312,2025,-1.6,,,estimate,src_ccrek_budget2026_pluriannuel,medium,Entity II -1.6pct GDP 2025 (BOSA 4 Feb provisional)
+bud_mtfs_deficit_pct_2024,gg_belgium,2024,-4.6,,,projection,src_ccrek_budget2026_pluriannuel,strong,MTFS Mar2025 plan deficit path -4.6pct GDP 2024
+bud_mtfs_deficit_pct_2025,gg_belgium,2025,-4.7,,,projection,src_ccrek_budget2026_pluriannuel,strong,MTFS plan -4.7pct GDP 2025
+bud_mtfs_deficit_pct_2026,gg_belgium,2026,-4.6,,,projection,src_ccrek_budget2026_pluriannuel,strong,MTFS plan -4.6pct GDP 2026
+bud_mtfs_deficit_pct_2027,gg_belgium,2027,-4.1,,,projection,src_ccrek_budget2026_pluriannuel,strong,MTFS plan -4.1pct GDP 2027
+bud_mtfs_deficit_pct_2028,gg_belgium,2028,-3.5,,,projection,src_ccrek_budget2026_pluriannuel,strong,MTFS plan -3.5pct GDP 2028
+bud_mtfs_deficit_pct_2029,gg_belgium,2029,-3.0,,,projection,src_ccrek_budget2026_pluriannuel,strong,MTFS plan -3.0pct GDP 2029 (end target)
+bud_dbp_vs_mtfs_gap_2025_pp,gg_belgium,2025,0.5,,,estimate,src_ccrek_budget2026_pluriannuel,strong,DBP deficit worse than MTFS by 0.5pp GDP 2025 (-5.2 vs -4.7)
+bud_dbp_vs_mtfs_gap_2026_pp,gg_belgium,2026,0.3,,,estimate,src_ccrek_budget2026_pluriannuel,strong,DBP deficit worse than MTFS by 0.3pp GDP 2026 (-4.9 vs -4.6)
+bud_entity1_effort_2025_30,sec_federal,2025,35000000000,,,commitment,src_ccrek_budget2026_pluriannuel,medium,BI2025 multi-year effort 35bn 2025-2030 of which return effects 7.9bn (superseded by 2026 path)
+bud_entity1_return_effects_pack,sec_federal,2025,7900000000,,,budgeted,src_ccrek_budget2026_pluriannuel,weak,Return effects 7.9bn inside 35bn effort pack (no longer separate line 2026)
+bud_entity1_fpb_june_2030_pct,sec_federal,2030,-5.5,,,projection,src_ccrek_budget2026_pluriannuel,medium,FPB June2025 Entity I deficit -5.5pct GDP 2030 after then-known measures
+bud_entity1_monitor_sep_2030_pct,sec_federal,2030,-5.8,,,projection,src_ccrek_budget2026_pluriannuel,medium,Monitoring Sep2025 Entity I -5.8pct 2030 = +18.5bn vs 3pct goal
+bud_entity1_conclave_improve_2029,sec_federal,2029,9200000000,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Dec2025 conclave improves Entity I balance 9.2bn by 2029 (~half of 18.5bn overrun; dual prior)
+bud_entity1_monitor_understate_2029,sec_federal,2029,1000000000,,,estimate,src_ccrek_budget2026_pluriannuel,medium,Monitoring understated unchanged-policy deficit 39.1 vs 40.1bn 2029 (military structural fin)
+bud_entity1_deficit_end_legis,sec_federal,2029,31200000000,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Entity I deficit end legislature 31.2bn (4.3pct GDP) after conclave per expose
+bud_entity1_deficit_pct_end_legis,sec_federal,2029,-4.3,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Entity I deficit -4.3pct GDP end legislature after conclave
+bud_entity1_debt_pct_2026,sec_federal,2026,85.6,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Entity I debt 85.6pct GDP 2026 (expose path)
+bud_entity1_debt_pct_2029,sec_federal,2029,90.3,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Entity I debt 90.3pct GDP 2029 (still rising after conclave)
+bud_entity1_netprim_margin_2026,sec_federal,2026,900000000,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Entity I net primary exp ~0.9bn below CSF allowed path cumulative 2025-26
+bud_ipp_exempt_stretch_2029,fod_finance,2029,1000000000,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,IPP exempt tranche stretch 2029->2030 improves 2029 balance +1bn (shifts cost to 2030; dual reform)
+bud_nonfiscal_measures_2029,sec_federal,2029,737700000,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Non-fiscal measures yield 737.7m by 2029 (incl regions EU 500m from 2028 not yet agreed)
+bud_regions_eu_contrib_2028,sec_federal,2028,500000000,,,budgeted,src_ccrek_budget2026_pluriannuel,weak,Regional contribution to EU MFF 500m/yr from 2028 (needs interfederal agreement; not GG improvement)
+bud_fpb_entity1_deficit_2029,sec_federal,2029,36500000000,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB post-measures Entity I deficit 36.5bn 2029 (-5.0pct GDP) = 5.3bn worse than expose 31.2bn
+bud_fpb_entity1_deficit_pct_2029,sec_federal,2029,-5.0,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB Entity I -5.0pct GDP 2029 after multi-year measures
+bud_fpb_gg_debt_pct_2026,gg_belgium,2026,109.4,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB GG debt 109.4pct GDP 2026
+bud_fpb_gg_debt_pct_2029,gg_belgium,2029,116.6,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB GG debt 116.6pct GDP 2029
+bud_fpb_gg_debt_pct_2031,gg_belgium,2031,122.2,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB GG debt 122.2pct GDP 2031; snowball risk from 2031
+bud_fpb_gg_deficit_pct_2027,gg_belgium,2027,-5.1,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB GG deficit -5.1pct GDP 2027 after measures
+bud_fpb_gg_deficit_pct_2029,gg_belgium,2029,-5.7,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB GG deficit -5.7pct GDP 2029
+bud_fpb_gg_deficit_pct_2031,gg_belgium,2031,-6.3,,,projection,src_ccrek_budget2026_pluriannuel,strong,FPB GG deficit -6.3pct GDP 2031 (tax cuts amplify)
+bud_defence_sec_gdp_2026,mod_defensie,2026,1.7,,,budgeted,src_ccrek_budget2026_pluriannuel,medium,Defence SEC expenditure rises to 1.7pct GDP 2026 (+0.3pp path class)
+bud_et_prefin_sec_boost_2026,sec_federal,2026,18300000,,,budgeted,src_ccrek_budget2026_pluriannuel,strong,Electronic monitoring prefin 18.3m 2026 booked as recoverable advance Entity I (improves GG balance artificially vs communities definitive)
+bud_gov_goal_entity1_3pct_2030,sec_federal,2030,-3.0,,,projection,src_ccrek_budget2026_pluriannuel,medium,Coalition goal Entity I deficit under 3pct GDP by 2030 (not met under FPB/expose paths)
+bud_entity2_mtfs_pct_2027,sec_s1312,2027,-0.6,,,projection,src_ccrek_budget2026_pluriannuel,weak,Entity II MTFS indicative -0.6pct 2027 (footnote CoA; BE total would be -4.5 class)
+bud_entity2_mtfs_pct_2028,sec_s1312,2028,-0.6,,,projection,src_ccrek_budget2026_pluriannuel,weak,Entity II MTFS indicative -0.6pct 2028
+bud_entity2_mtfs_pct_2029,sec_s1312,2029,-0.7,,,projection,src_ccrek_budget2026_pluriannuel,weak,Entity II MTFS indicative -0.7pct 2029
+bud_eu_military_escape_clause,mod_defensie,2025,0,,,estimate,src_ccrek_budget2026_pluriannuel,strong,EU temporary military escape from net primary exp path endorsed 8 Jul 2025 until 2028; amount_eur blank flag

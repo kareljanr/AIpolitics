@@ -4588,3 +4588,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_391=done; spawn **rq_392**; ticks=400
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_392** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-01T15:15:00Z - tick 401
+- Unit: **rq_392** (FOI-adjacent hole-fill - **multi-year fiscal path BE/Entity I + EU net primary exp + FPB debt**)
+- Found (strong/medium primary CoA Budget 2026 Part I Ch.III + FPB Feb):
+  - BE deficit **-4.9pct** 2026 (vs -5.2 reest 2025); Entity I **-3.7** · Entity II **-1.2**
+  - MTFS path to **-3.0pct** 2029; DBP worse by **0.5/0.3pp** 2025-26
+  - Conclave improves Entity I **€9.2bn** by 2029 (~half of 18.5bn overrun vs 3pct)
+  - Expose end legislature Entity I deficit **€31.2bn** (4.3pct); debt **85.6→90.3pct**
+  - FPB post-measures Entity I **€36.5bn** (-5.0pct) = **€5.3bn** worse; GG debt **109.4 / 116.6 / 122.2** 2026-31
+  - Net primary margin Entity I **~€0.9bn** under CSF 2025-26; military escape to 2028
+  - IPP stretch **+€1bn** 2029 optical; regions EU **€500m**/yr from 2028 (no agreement)
+  - ET prefin SEC artefact **€18.3m** improves GG artificially
+- Wrote: sources +1; budgets ~40; cmt +3; lb +8; FOI **gap_entity1_pluriannuel_workbook** + **gap_regions_eu_500m_agreement** ready; rq_392=done; spawn **rq_393**; ticks=401
+- FOI: pluriannuel workbook + regions EU 500m agreement human send only
+- Next: prio5 **rq_393**; deferred **rq_116** SWA
