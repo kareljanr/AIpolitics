@@ -1690,3 +1690,31 @@ bud_vivaqua_subside_reg_deferred_2024,vivaqua,2024,15440000,,,outturn,src_vivaqu
 bud_vivaqua_pension_gap_hydralis_2024,vivaqua,2024,146990492,,,outturn,src_vivaqua_rf_2024,strong,Sous-couverture engagements pension Hydralis hors bilan 146.990m (coverage 83.8pct)
 bud_vivaqua_users_rev_2024,vivaqua,2024,303060000,,,outturn,src_vivaqua_rf_2024,strong,Vente eau+services usagers bruxellois 303.060m 2024
 bud_vivaqua_wholesale_2024,vivaqua,2024,41793000,,,outturn,src_vivaqua_rf_2024,strong,Vente eau en gros autres operateurs 41.793m 2024
+bud_ores_turnover_bgaap_2024,ores,2024,1067900000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP turnover 1067.9m 2024 incl regulatory balances
+bud_ores_turnover_bgaap_2023,ores,2023,1130300000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP turnover 1130.3m 2023
+bud_ores_ebitda_2024,ores,2024,322100000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP EBITDA 322.1m 2024 margin 30.2pct
+bud_ores_ebit_2024,ores,2024,151600000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP EBIT 151.6m 2024
+bud_ores_net_result_2024,ores,2024,72400000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP net result 72.4m 2024 (IFRS 66.89m)
+bud_ores_net_result_2023,ores,2023,106200000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP net result 106.2m 2023
+bud_ores_gridfee_total_2024,ores,2024,907600000,,,outturn,src_ores_investor_2025,strong,Gridfee billed 907.6m 2024 (elec 716.7m + gas 190.9m)
+bud_ores_gridfee_elec_2024,ores,2024,716700000,,,outturn,src_ores_investor_2025,strong,Electricity gridfee 716.7m 2024
+bud_ores_gridfee_gas_2024,ores,2024,190900000,,,outturn,src_ores_investor_2025,strong,Gas gridfee 190.9m 2024
+bud_ores_capex_2024,ores,2024,434000000,,,outturn,src_ores_investor_2025,strong,Gross CAPEX networks 434m 2024 (peak path 2019-24)
+bud_ores_capex_2023,ores,2023,384000000,,,outturn,src_ores_investor_2025,strong,Gross CAPEX 384m 2023
+bud_ores_assets_bgaap_2024,ores,2024,5057000000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP total assets 5057.0m end-2024
+bud_ores_equity_bgaap_2024,ores,2024,2050200000,,,outturn,src_ores_investor_2025,strong,ORES Assets consol BGAAP equity 2050.2m end-2024
+bud_ores_lt_debt_2024,ores,2024,2143300000,,,outturn,src_ores_investor_2025,strong,LT financial debts 2143.3m BGAAP consol 2024
+bud_ores_st_debt_2024,ores,2024,319000000,,,outturn,src_ores_investor_2025,strong,ST financial debts 319.0m BGAAP consol 2024
+bud_ores_rab_2024,ores,2024,4170000000,,,outturn,src_ores_investor_2025,strong,Remunerated RAB 4.17bn end-2024 (elec 2.77bn gas 1.40bn)
+bud_ores_dividend_associates_2024,ores,2024,76145000,,,outturn,src_ores_investor_2025,strong,Dividendes 2024 revenant aux associes 76.145m (AR 2024 note; vs 74.668m paid for 2023 result)
+bud_ores_dividend_paid_2023result,ores,2024,74668000,,,outturn,src_ores_ifrs_2024,strong,IFRS: dividends relating to previous year paid 2024: 74.668m
+bud_ores_auth_rev_elec_2025,ores,2025,630400000,,,budgeted,src_ores_investor_2025,strong,CWaPE approved authorized revenue electricity 2025 ex-ante 630.4m
+bud_ores_auth_rev_gas_2025,ores,2025,218500000,,,budgeted,src_ores_investor_2025,strong,CWaPE approved authorized revenue gas 2025 ex-ante 218.5m
+bud_ores_capital_subsidies_bs_2024,ores,2024,110100000,,,outturn,src_ores_investor_2025,strong,Capital subsidies on equity BS 110.1m end-2024 (BGAAP consol)
+bud_ores_reg_bal_elec_total,ores,2024,242500000,,,outturn,src_ores_investor_2025,strong,Electricity regulatory balances total 242.5m (48.9m passed + 193.6m to pass in tariffs)
+bud_ores_reg_bal_gas_total,ores,2024,67600000,,,outturn,src_ores_investor_2025,strong,Gas regulatory balances total 67.6m (8.0 passed + 67.6 to pass class)
+bud_ores_ifrs_turnover_2024,ores,2024,998800000,,,outturn,src_ores_ifrs_2024,strong,IFRS turnover 998.8m 2024 (excl full BGAAP reg-balance treatment difference)
+bud_ores_ifrs_profit_2024,ores,2024,66890000,,,outturn,src_ores_ifrs_2024,strong,IFRS profit for period 66.890m 2024
+bud_ores_ifrs_assets_2024,ores,2024,5145532000,,,outturn,src_ores_ifrs_2024,strong,IFRS total assets incl regulatory 5145.532m end-2024
+bud_ores_wacc_pct_2025_29,ores,2025,4.027,,,projection,src_ores_investor_2025,strong,WACC pct NOT EUR: 4.027pct 2025-29 tariff methodology (cost equity 5.071 cost debt 3.0815); amount stores 4.027
+bud_ores_funding_need_2025,ores,2025,530000000,,,budgeted,src_ores_investor_2025,strong,Estimated funding needs 2025 530m (400m new + 130m bridge repayment)

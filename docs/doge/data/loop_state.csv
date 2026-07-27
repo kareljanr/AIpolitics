@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T07:25:00Z,rq_167,172,no,"Scheduler 60s. Next prio5 rq_168 hole-fill Antwerp/Mons/De Lijn/ORES/taxex; rq_116 SWA deferred. FOI ready human send. tick172 Vivaqua RF2024 CA 326m."
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-28T07:45:00Z,rq_168,173,no,"Scheduler 60s. Next prio5 rq_169 hole-fill RESA/Antwerp/Mons/De Lijn/taxex; rq_116 SWA deferred. FOI ready human send. tick173 ORES 1.07bn turnover 76m div."

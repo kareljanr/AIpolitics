@@ -1686,3 +1686,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity update; budgets 27; cmt 2; lb 2; FOI gap_interco note; rq_167=done; seeded **rq_168**.
 - FOI: residual L5 municipal dividends + BCR 180m capital cash calendar human send.
 - Next: prio5 **rq_168**; deferred **rq_116** SWA.
+
+### 2026-07-28T07:45:00Z — tick 173
+- Unit: **rq_168** (FOI-adjacent hole-fill — **ORES Assets Walloon DSO 2024**)
+- Found (strong primary investor presentation BGAAP + IFRS consol accounts):
+  - **Turnover BGAAP EUR 1,067.9m 2024** (1,130.3m 2023) · **EBITDA 322.1m** (30.2% margin) · **EBIT 151.6m** · **net 72.4m** (IFRS profit **66.89m**).
+  - **Gridfee 907.6m** (elec **716.7m** + gas **190.9m**) · RAB **4.17bn** · CAPEX **434m** (2023: 384m).
+  - Assets BGAAP **5.057bn** · equity **2.050bn** · LT debt **2.143bn** · ST debt **319m** · capital subsidies BS **110.1m**.
+  - **Dividendes associés 76.145m** 2024 (AR; IFRS paid re 2023: **74.668m**) — municipal public transfer from regulated tariffs.
+  - CWaPE 2025 auth rev: elec **630.4m** + gas **218.5m** · WACC **4.027%** · funding need 2025 **~530m**.
+  - Elec regulatory balances total **242.5m** · gas **67.6m** · 100% Walloon municipal ownership via intercommunales.
+  - Dual/triple DSO stack: **Fluvius VL** + **ORES (+RESA residual) WAL** + **Sibelga BCR** + **Elia** federal TSO.
+- Mons BI2026 / Antwerp bulk register / RESA still open for next ticks.
+- Wrote: sources 2; entity 1; budgets 28; cmt 2; lb 2; FOI gap_interco note; rq_168=done; seeded **rq_169**.
+- FOI: residual L5 municipal dividends Fluvius/RESA + BCR capital calendar human send.
+- Next: prio5 **rq_169** (RESA/Antwerp/Mons/De Lijn/taxex); deferred **rq_116** SWA.
