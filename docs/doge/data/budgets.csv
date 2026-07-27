@@ -2994,3 +2994,21 @@ bud_vi_geneesk_verz_2023,sec_ss,2023,37301635426.91,,,outturn,src_cdz_jv_2025,st
 bud_vi_uitkeringen_2023,sec_ss,2023,13050464862.22,,,outturn,src_cdz_jv_2025,strong,CDZ: uitkeringen 13.050.464.86222 2023
 bud_hda_rrf_seed_2021,hda,2021,7000000,,,budgeted,src_hda_jv_2025,strong,EU-RRF Health Data Ecosystem programme 7m end-2021 (multi-year seed)
 bud_hda_staff_2025,hda,2025,13,,,outturn,src_hda_jv_2025,strong,13 medewerkers 2025; amount is headcount; +10 vacatures 2026
+bud_ksz_ontvangsten_2024,ksz,2024,19701131,,,outturn,src_ksz_financiele_middelen,strong,Toewijzing 17.171.277 + eigen 2.392.344 = 19.701.131
+bud_ksz_ontvangsten_2025,ksz,2025,19760665,,,outturn,src_ksz_financiele_middelen,strong,Toewijzing 17.030.811 + eigen 2.729.854 = 19.760.665
+bud_ksz_toewijzing_2024,ksz,2024,17171277,,,outturn,src_ksz_financiele_middelen,strong,Toewijzing 17.171.277 2024
+bud_ksz_toewijzing_2025,ksz,2025,17030811,,,outturn,src_ksz_financiele_middelen,strong,Toewijzing 17.030.811 2025
+bud_ksz_eigen_ontvangsten_2024,ksz,2024,2392344,,,outturn,src_ksz_financiele_middelen,strong,Eigen ontvangsten 2.392.344
+bud_ksz_eigen_ontvangsten_2025,ksz,2025,2729854,,,outturn,src_ksz_financiele_middelen,strong,Eigen ontvangsten 2.729.854
+bud_ksz_uitgaven_2024,ksz,2024,19701131,,,outturn,src_ksz_financiele_middelen,strong,Total uitgaven 19.701.131 matches receipts
+bud_ksz_uitgaven_2025,ksz,2025,19760665,,,outturn,src_ksz_financiele_middelen,strong,Total uitgaven 19.760.665 matches receipts
+bud_ksz_personeel_2024,ksz,2024,3770950,,,outturn,src_ksz_financiele_middelen,strong,Personeelsuitgaven 3.770.950
+bud_ksz_personeel_2025,ksz,2025,3895650,,,outturn,src_ksz_financiele_middelen,strong,Personeelsuitgaven 3.895.650
+bud_ksz_werking_gewoon_2024,ksz,2024,2302010,,,outturn,src_ksz_financiele_middelen,strong,Gewone werkingsuitgaven 2.302.010
+bud_ksz_werking_gewoon_2025,ksz,2025,2270884,,,outturn,src_ksz_financiele_middelen,strong,Gewone werkingsuitgaven 2.270.884
+bud_ksz_ict_werking_2024,ksz,2024,13452190,,,outturn,src_ksz_financiele_middelen,strong,Werkingsuitgaven informatica 13.452.190 dual Smals class
+bud_ksz_ict_werking_2025,ksz,2025,13436557,,,outturn,src_ksz_financiele_middelen,strong,Werkingsuitgaven informatica 13.436.557 dual Smals class
+bud_ksz_ict_invest_2024,ksz,2024,18000,,,outturn,src_ksz_financiele_middelen,strong,Investeringsuitgaven informatica 18.000
+bud_ksz_ict_invest_2025,ksz,2025,14104,,,outturn,src_ksz_financiele_middelen,strong,Investeringsuitgaven informatica 14.104
+bud_ksz_rsz_bijdrage_ib2025,ksz,2025,15102730,,,budgeted,src_ksz_financiele_middelen,strong,RSZ 90pct financieringsbijdrage IB2025 15.102.730
+bud_ksz_rsvz_bijdrage_ib2025,ksz,2025,1678081,,,budgeted,src_ksz_financiele_middelen,strong,RSVZ 10pct 1.678.081; sum 16.780.811

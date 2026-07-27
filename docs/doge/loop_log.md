@@ -2983,3 +2983,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities cdz+hda; budgets +18; cmt +2; lb +4; FOI gap_hda_budget ready; draft; raw PDFs; rq_266=done; spawn rq_267; ticks=275
 - FOI: HDA budget human send; mutual L5 residual updated CDZ 1.38bn; AGMJ residual still ready
 - Next: prio5 **rq_267**; deferred **rq_116** SWA
+
+### 2026-07-30T00:45:00Z - tick 276
+- Unit: **rq_267** (FOI-adjacent hole-fill - **KSZ dual Smals ICT**)
+- Found (strong primary KSZ financiele middelen site):
+  - Ontvangsten=uitgaven **EUR 19.701m 2024 / 19.761m 2025**.
+  - **ICT werking EUR 13.452m / 13.437m** (~68% of spend) dual Smals class.
+  - Personeel **3.771 / 3.896m**; gewone werking **2.302 / 2.271m**.
+  - IB2025 OISZ bijd: RSZ **15.103m** (90%) + RSVZ **1.678m** (10%) = **16.781m**.
+  - Toewijzing 17.171/17.031m + eigen 2.392/2.730m.
+  - Triple digital map: KSZ **19.8m** + Smals **578.9m** + INAMI e-health **132.5m** (not additive).
+- Wrote: sources +1; entity ksz; budgets +18; cmt +1; lb +4; FOI gap_ksz_ict_l5_smals ready; draft; raw HTML; rq_267=done; spawn rq_268; ticks=276
+- FOI: KSZ ICT L5 Smals share human send; Smals L5 residual updated; AGMJ residual still ready
+- Next: prio5 **rq_268**; deferred **rq_116** SWA

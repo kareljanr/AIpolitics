@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T00:15:00Z,rq_266,275,no,Scheduler 60s. Next prio5 rq_267; rq_116 SWA deferred. FOI ready human send. tick275 CDZ 8.0m + VI admin 1.38bn.
+main,continuous,hole_fill,2026-07-30T00:45:00Z,rq_267,276,no,Scheduler 60s. Next prio5 rq_268; rq_116 SWA deferred. FOI ready human send. tick276 KSZ 19.8m ICT 13.4m dual Smals.
