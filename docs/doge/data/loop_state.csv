@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T07:45:00Z,rq_377,386,no,Scheduler 60s. Next prio5 rq_378; rq_116 SWA deferred. FOI ready. tick386 RSVZ GG indep 6.52bn.
+main,continuous,hole_fill,2026-08-01T08:15:00Z,rq_378,387,no,Scheduler 60s. Next prio5 rq_379; rq_116 SWA deferred. FOI ready. tick387 ONVA 6.38bn dual CSV.

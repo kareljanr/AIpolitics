@@ -4399,3 +4399,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +64; cmt +1; lb +7; entity; FOI **gap_rsvz_cas_admin_l5** ready; rq_377=done; spawn **rq_378**; ticks=386
 - FOI: CAS admin fees + beheer 2024-25 + recovery path human send only
 - Next: prio5 **rq_378**; deferred **rq_116** SWA
+
+### 2026-08-01T08:15:00Z - tick 387
+- Unit: **rq_378** (FOI-adjacent hole-fill - **ONVA/RJV pecules vacances dual CSV + Fedris/CAAMI CoA L5**)
+- Found (strong primary CoA Cahier 2025 SS Tables 8/10/11/27):
+  - ONVA **dep EUR 6,381.2m** / rec **6,481.3m** / solde **+100.1m** 2024
+  - Pecules **6,338.5m**: ONVA-caisse **~64.1% (~4,063m)** · 9 private CSV **~2,276m**
+  - Cotis patronales **5,698.5m** · ONEM contrib **30.7m** · **FFE loan 200m** 0% 15y
+  - Beheer **23.6m** 2023; beneficiaires **1,661,304** ouvriers 2024
+  - Fedris **596.4m** (AT 327.1 MP 214.8 amiante 23.6) · CAAMI missions **642.6m**
+- Wrote: sources +1; budgets +44; cmt +2; lb +8; entities; FOI **gap_onva_csv_l5** ready; rq_378=done; spawn **rq_379**; ticks=387
+- FOI: named CSV cash + beheer 2024-25 + FFE contract human send only
+- Next: prio5 **rq_379**; deferred **rq_116** SWA

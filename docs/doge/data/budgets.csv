@@ -4969,3 +4969,47 @@ bud_cas_partena_aff_2024,rsvz,2024,136304,,,outturn,src_rsvz_chiffres_tendances_
 bud_cas_securex_aff_2024,rsvz,2024,138509,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS SECUREX INTEGRITY 138509 2024 (COUNT)
 bud_cas_ucm_aff_2024,rsvz,2024,118026,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS UCM Wallonne 118026 2024 (COUNT)
 bud_cas_cna_aff_2024,rsvz,2024,8721,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Caisse nationale auxiliaire CNA 8721 2024 public residual (COUNT)
+bud_onva_rec_2022,rjv,2022,5544700000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA recettes budgetaires 5544.7m 2022
+bud_onva_rec_2023,rjv,2023,6026100000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA recettes budgetaires 6026.1m 2023
+bud_onva_rec_2024,rjv,2024,6481300000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA recettes budgetaires 6481.3m 2024 (+7.55pct)
+bud_onva_dep_2022,rjv,2022,5654800000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA depenses budgetaires 5654.8m 2022
+bud_onva_dep_2023,rjv,2023,5983900000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA depenses budgetaires 5983.9m 2023
+bud_onva_dep_2024,rjv,2024,6381200000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA depenses budgetaires 6381.2m 2024 (+6.64pct)
+bud_onva_solde_2022,rjv,2022,-110100000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA solde budgetaire -110.1m 2022
+bud_onva_solde_2023,rjv,2023,42200000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA solde budgetaire +42.2m 2023
+bud_onva_solde_2024,rjv,2024,100100000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA solde budgetaire +100.1m 2024
+bud_onva_pecules_total_2024,rjv,2024,6338500000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Pecules ONVA-caisse + transferts CSV 6338.5m 2024
+bud_onva_caisse_pecules_2024,rjv,2024,4062978500,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA-caisse publique pecules 64.10pct = 4063.0m 2024 (+274m)
+bud_onva_csv_transfer_2024,rjv,2024,2275521500,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Transferts 9 caisses speciales vacances (CSV) privees 2275.5m 2024 (+134.9m)
+bud_onva_caisse_pecules_2023,rjv,2023,3788978500,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA-caisse pecules implied 2023 3789.0m (back from +274m delta strong)
+bud_onva_csv_transfer_2023,rjv,2023,2140621500,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CSV transfers implied 2023 2140.6m (back from +134.9m delta strong)
+bud_onva_cotis_patronales_2024,rjv,2024,5698500000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Cotisations patronales via ONSS 5698.5m 2024 (87.92pct recettes; 15.84pct of 108pct brut)
+bud_onva_onem_contrib_2024,rjv,2024,30700000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Contribution ONEM 6pct chomage assimile 30.7m 2024 (from 14.3m 2023)
+bud_onva_onem_contrib_2023,rjv,2023,14300000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Contribution ONEM 14.3m 2023
+bud_onva_ffe_loan_2024,rjv,2024,200000000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Pret FFE sans interets 200m 2024 (remboursement 15y from 2029 @20m/yr)
+bud_onva_beheer_2022,rjv,2022,22400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA depenses gestion 22.4m 2022 CoA Table27
+bud_onva_beheer_2023,rjv,2023,23600000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA depenses gestion 23.6m 2023
+bud_onva_missions_dep_2022,rjv,2022,5632400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA missions depenses 5632.4m 2022 comptes
+bud_onva_missions_dep_2023,rjv,2023,5960400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA missions depenses 5960.4m 2023
+bud_onva_missions_rec_2022,rjv,2022,5544700000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA missions recettes 5544.7m 2022
+bud_onva_missions_rec_2023,rjv,2023,6026100000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,ONVA missions recettes 6026.1m 2023
+bud_onva_dc_debt_pecules_2023,rjv,2023,6338500000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CoA droits constates: dettes pecules N impact -6338.5m on 2023 results (accounting not cash)
+bud_onva_dc_creance_cotis_2023,rjv,2023,3904400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CoA droits constates: creance cotisations +3904.4m impact 2023
+bud_onva_provision_unjustified_2023,rjv,2023,1754800000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CoA: provision risques unjustified 1754.8m to reverse (accounting)
+bud_onva_benef_ouvriers_2023,rjv,2023,1682104,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Ouvriers beneficiaires pecules 1682104 2023 (COUNT)
+bud_onva_benef_ouvriers_2024,rjv,2024,1661304,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Ouvriers beneficiaires pecules 1661304 2024 (-1.24pct; COUNT)
+bud_onva_csv_count_2024,rjv,2024,9,,,outturn,src_ccrek_ss_182e_onva_2025,strong,9 caisses speciales de vacances privees sectorielles + ONVA-caisse publique (COUNT entities)
+bud_fedris_total_2022,fedris,2022,568600000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Fedris depenses budgetaires 568.6m 2022 Table8
+bud_fedris_total_2023,fedris,2023,588000000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Fedris 588.0m 2023
+bud_fedris_total_2024,fedris,2024,596400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Fedris 596.4m 2024 (+1.43pct)
+bud_fedris_gg_2024,fedris,2024,541900000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Fedris Gestion globale 541.9m 2024
+bud_fedris_at_gg_2024,fedris,2024,327100000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Accidents travail GG 327.1m 2024
+bud_fedris_mp_gg_2024,fedris,2024,214800000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Maladies professionnelles GG 214.8m 2024
+bud_fedris_hors_gg_2024,fedris,2024,54500000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Fedris hors GG 54.5m 2024
+bud_fedris_amiante_2024,fedris,2024,23600000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,Fonds amiante 23.6m 2024
+bud_hziv_missions_2022,hziv,2022,537900000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI/HZIV missions 537.9m 2022
+bud_hziv_missions_2023,hziv,2023,593900000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI missions 593.9m 2023
+bud_hziv_missions_2024,hziv,2024,642600000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI missions 642.6m 2024
+bud_hziv_ami_2024,hziv,2024,534400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI AMI obligatoire 534.4m 2024 (83.16pct)
+bud_hziv_mediprima_2024,hziv,2024,95000000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI Mediprima 95.0m 2024
+bud_hziv_assures_2024,hziv,2024,166978,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI assures 166978 2024 (COUNT)
