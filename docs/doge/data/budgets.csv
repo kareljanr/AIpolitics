@@ -2967,3 +2967,12 @@ bud_fam_open_cases_2024,fam_med_accidents,2024,0,,,outturn,src_inami_ehealth_fam
 bud_inami_afmps_dot_2025,afmps,2025,3443000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI Dotatie FAGG/AFMPS 3.443 kEUR 2025 (vs AFMPS RA INAMI recettes 3.677m 2024)
 bud_inami_beheers_total_2025,sec_ss,2025,1188516000,,,budgeted,src_inami_ehealth_fam_2025,strong,INAMI beheerskosten total 1.188516 bn 2025 (OA admin 988m + KCE 22.5m + other)
 bud_inami_oa_admin_2025,sec_ss,2025,988052000,,,budgeted,src_inami_ehealth_fam_2025,strong,Administratiekosten VIs / OA 988.052m 2025 (dual mutual admin map)
+bud_smals_omzet_2021,smals,2021,407721909,,,outturn,src_smals_av_2025,strong,AV2025 kerncijfers omzet 407.721.909
+bud_smals_omzet_2022,smals,2022,439518806,,,outturn,src_smals_av_2025,strong,AV2025 kerncijfers omzet 439.518.806
+bud_smals_omzet_2023,smals,2023,515556116,,,outturn,src_smals_av_2025,strong,AV2025 kerncijfers omzet 515.556.116
+bud_smals_omzet_2024,smals,2024,573623499,,,outturn,src_smals_av_2025,strong,AV2025 kerncijfers omzet 573.623.499
+bud_smals_omzet_2025,smals,2025,578866778,,,outturn,src_smals_av_2025,strong,AV2025 kerncijfers omzet 578.866.778
+bud_smals_staff_headcount_2025,smals,2025,2350,,,outturn,src_smals_av_2025,strong,Headcount end-2025 2350 (FT 2026 + PT 324); amount is count not EUR
+bud_smals_private_partners_2025,smals,2025,333000000,,,outturn,src_smals_av_2025,strong,>57pct omzet ~333m to private sector partners (hardware software external specialists)
+bud_smals_gcloud_savings_claim_2025,smals,2025,54400000,,,estimate,src_smals_av_2025,medium,Self-reported G-Cloud common services savings 54.4m 2025 (not audited external)
+bud_smals_reuse_savings_claim_2025,smals,2025,45000000,,,estimate,src_smals_av_2025,medium,Self-reported ReUse project savings >45m 2025 (estimate not audited)

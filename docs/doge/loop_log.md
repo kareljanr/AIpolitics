@@ -2955,3 +2955,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities ehealth+fam; budgets +10; cmt +2; lb +4; FOI gap_ehealth_l5_vendors ready; draft; raw CoA PDF; rq_264=done; spawn rq_265; ticks=273
 - FOI: e-health L5 vendors human send; AGMJ residual still ready
 - Next: prio5 **rq_265**; deferred **rq_116** SWA
+
+### 2026-07-29T23:45:00Z - tick 274
+- Unit: **rq_265** (FOI-adjacent hole-fill - **Smals shared ICT dual e-health/SS**)
+- Found (strong primary Smals Activiteitenverslag 2025 kerncijfers):
+  - Omzet path **EUR 407.7 / 439.5 / 515.6 / 573.6 / 578.9m** 2021-2025 (exact 578.866.778 2025).
+  - Staff end-2025 **2350** (1174 internal + 1176 detached) + >1000 external ICT specialists class; ICT ~79%.
+  - Private-sector pass-through **>57% omzet ~EUR 333m** (hardware/software/externals).
+  - Self-reported G-Cloud savings **54.4m** + ReUse projects **>45m** 2025 (medium; not external audit).
+  - Members **345** (A15+B133+C197); cat A includes eHealth-platform RIZIV RSZ KSZ RVA CDZ etc.
+  - Dual: institutional Smals **578.9m** vs INAMI e-health stack **132.5m** (not additive; Smals is delivery vehicle class).
+  - Cost-sharing VZW in-house (Wet 15 jan 1990 art.17bis) - recharges not pure subsidy.
+- Wrote: sources +1; entity smals; budgets +9; cmt +1; lb +4; FOI gap_smals_l5_members ready; draft; raw AV PDF; rq_265=done; spawn rq_266; ticks=274
+- FOI: Smals L5 members + contractors human send; e-health L5 residual; AGMJ residual still ready
+- Next: prio5 **rq_266**; deferred **rq_116** SWA
