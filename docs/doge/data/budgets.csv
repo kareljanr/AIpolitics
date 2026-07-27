@@ -1631,3 +1631,35 @@ bud_elia_capex_plan_2025_28,elia,2025,7500000000,,,commitment,src_elia_etb_iar20
 bud_elia_invest_plan_2026,elia,2026,1700000000,,,budgeted,src_elia_etb_iar2025,strong,Planned investment 1.7bn in 2026 (management interview)
 bud_elia_baekeland_invest,elia,2026,400000000,,,commitment,src_elia_etb_iar2025,medium,Baekeland 380/150kV substation Ghent port investment 400m class
 bud_elia_green_bond_2025,elia,2025,500000000,,,outturn,src_elia_etb_iar2025,strong,EU Green Bond placement 500m 2025
+bud_sibelga_turnover_2024,sibelga,2024,415398290,,,outturn,src_sibelga_fin_2024,strong,Sibelga turnover 415.398m 2024
+bud_sibelga_turnover_2023,sibelga,2023,379624511,,,outturn,src_sibelga_fin_2024,strong,Sibelga turnover 379.625m 2023
+bud_sibelga_op_income_2024,sibelga,2024,441189629,,,outturn,src_sibelga_fin_2024,strong,Sibelga operating income 441.190m 2024
+bud_sibelga_op_profit_2024,sibelga,2024,74749119,,,outturn,src_sibelga_fin_2024,strong,Sibelga operating profit 74.749m 2024
+bud_sibelga_op_profit_2023,sibelga,2023,77639256,,,outturn,src_sibelga_fin_2024,strong,Sibelga operating profit 77.639m 2023
+bud_sibelga_profit_2024,sibelga,2024,49067501,,,outturn,src_sibelga_fin_2024,strong,Sibelga profit for period 49.068m 2024
+bud_sibelga_profit_2023,sibelga,2023,52565320,,,outturn,src_sibelga_fin_2024,strong,Sibelga profit for period 52.565m 2023
+bud_sibelga_dividend_2024,sibelga,2024,49124845,,,outturn,src_sibelga_fin_2024,strong,Sibelga profit distributed remuneration of contribution 49.125m 2024 (to municipalities)
+bud_sibelga_dividend_2023,sibelga,2023,52027706,,,outturn,src_sibelga_fin_2024,strong,Sibelga distributed 52.028m 2023
+bud_sibelga_assets_2024,sibelga,2024,1511461285,,,outturn,src_sibelga_fin_2024,strong,Sibelga total assets 1.511bn EOY 2024
+bud_sibelga_equity_2024,sibelga,2024,861150642,,,outturn,src_sibelga_fin_2024,strong,Sibelga equity 861.151m EOY 2024
+bud_sibelga_tangible_fa_2024,sibelga,2024,1326437624,,,outturn,src_sibelga_fin_2024,strong,Sibelga tangible fixed assets 1.326bn EOY 2024
+bud_sibelga_fin_debt_lt_2024,sibelga,2024,357016855,,,outturn,src_sibelga_fin_2024,strong,Sibelga LT financial debts 357.017m EOY 2024
+bud_sibelga_tariff_income_2024,sibelga,2024,347500000,,,budgeted,src_sibelga_fin_2024,strong,Tariff proposal total income electricity+gas 347.5m 2024
+bud_sibelga_fair_margin_2024,sibelga,2024,47900000,,,budgeted,src_sibelga_fin_2024,strong,Fair margin tariff proposal 47.9m 2024
+bud_sibelga_manageable_costs_2024,sibelga,2024,131400000,,,budgeted,src_sibelga_fin_2024,strong,Manageable costs tariff proposal 131.4m 2024 before index recalculation
+bud_sibelga_nonmanageable_costs_2024,sibelga,2024,216100000,,,budgeted,src_sibelga_fin_2024,strong,Non-manageable costs tariff proposal 216.1m 2024
+bud_sibelga_rab_init_2018,sibelga,2018,1197600000,,,outturn,src_sibelga_fin_2024,strong,Initial RAB approved Brugel end-2018 1.1976bn
+bud_fluvius_ops_result_2025,fluvius,2025,482000000,,,outturn,src_fluvius_investor_2025_deep,strong,Fluvius EG result from operations 482m 2025 (313m 2024)
+bud_fluvius_ops_result_2024,fluvius,2024,313000000,,,outturn,src_fluvius_investor_2025_deep,strong,Fluvius EG result from operations 313m 2024
+bud_fluvius_net_finance_2025,fluvius,2025,-207000000,,,outturn,src_fluvius_investor_2025_deep,strong,Fluvius EG net finance costs -207m 2025
+bud_fluvius_network_tariff_rev_2025,fluvius,2025,2931000000,,,outturn,src_fluvius_investor_2025_deep,strong,Distribution+transmission network tariff revenue 2.931bn 2025 (2.222bn 2024)
+bud_fluvius_network_tariff_rev_2024,fluvius,2024,2222000000,,,outturn,src_fluvius_investor_2025_deep,strong,Network tariff revenue 2.222bn 2024
+bud_fluvius_gec_chp_cost_delta_2025,fluvius,2025,149000000,,,outturn,src_fluvius_investor_2025_deep,strong,GEC+CHP certificate purchase cost increase +149m y/y 2025 (exogenous)
+bud_fluvius_staff_delta_2025,fluvius,2025,23000000,,,outturn,src_fluvius_investor_2025_deep,strong,Staff costs +23m y/y 2025
+bud_fluvius_employees_2025,fluvius,2025,5997,,,outturn,src_fluvius_investor_2025_deep,strong,Employees headcount 5997 EOY 2025 (5863 2024)
+bud_fluvius_eq_rab_2025,fluvius,2025,33,,,outturn,src_fluvius_investor_2025_deep,strong,EQ/RAB ELED+GASD 33pct 2025 (35pct 2024); target 40pct
+bud_fluvius_wacc_2025,fluvius,2025,5.2,,,outturn,src_fluvius_investor_2025_deep,strong,Allowed WACC 5.2pct 2025-28 tariff period (was 3.5pct 2024)
+bud_fluvius_dividend_payout_policy,fluvius,2025,60,,,outturn,src_fluvius_investor_2025_deep,strong,Dividend policy 60pct expected profit ELED/GASD 2025-28 (avg payout est 66pct)
+bud_fluvius_assets_total_2025,fluvius,2025,19799000000,,,outturn,src_fluvius_investor_2025_deep,strong,Fluvius EG balance sheet total 19.799bn EOY 2025
+bud_fluvius_noncurrent_assets_2025,fluvius,2025,18055000000,,,outturn,src_fluvius_investor_2025_deep,strong,Non-current assets 18.055bn EOY 2025
+bud_fluvius_ops_cashflow_2025,fluvius,2025,1019000000,,,outturn,src_fluvius_investor_2025_deep,strong,Net cash flow from operating activities 1.019bn 2025

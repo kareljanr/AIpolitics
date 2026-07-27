@@ -1657,3 +1657,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 28; cmt 1; lb 2; entity note; rq_165=done; seeded **rq_166**.
 - FOI: no new gap (regulated monopoly well disclosed); residual local FOIs human send.
 - Next: prio5 **rq_166**; deferred **rq_116** SWA.
+
+### 2026-07-28T07:05:00Z — tick 171
+- Unit: **rq_166** (FOI-adjacent hole-fill — **Sibelga BCR DSO 2024 + Fluvius EG deepen**)
+- Found (strong primary Sibelga accounts + Fluvius investor update):
+  - **Sibelga 2024:** turnover **EUR 415.4m** (379.6m 2023) · op. profit **74.7m** · profit **49.1m** · distributed to municipalities **49.1m**.
+  - Assets **1.511bn** · equity **861m** · LT fin. debt **357m** · tangible FA **1.326bn**.
+  - Tariff proposal: total income **347.5m** · fair margin **47.9m** · manageable **131.4m** · non-manageable **216.1m** · RAB init **1.198bn** (end-2018).
+  - **Fluvius deepen:** ops result **482m** · network tariff rev **2.931bn** · GEC/CHP cost **+149m** · WACC **5.2%** · EQ/RAB **33%** · staff **5 997** · dividend policy **60%** · assets **19.8bn**.
+  - Dual/triple grid stack: **Fluvius VL DSO** + **Elia federal TSO** + **Sibelga BCR DSO**.
+- Mons BI2026 / Antwerp bulk register still not newly filled.
+- Wrote: sources 2; entity 1; budgets 33; cmt 2; lb 2; rq_166=done; seeded **rq_167**.
+- FOI: residual municipal dividend L5 + local FOIs human send.
+- Next: prio5 **rq_167**; deferred **rq_116** SWA.
