@@ -2920,3 +2920,20 @@ bud_apefe_fonct_wal_2025,apefe,2025,510000,,,budgeted,src_fwb_wbi_apefe_dots_202
 bud_apefe_fonct_wal_2026,apefe,2026,490000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,WBI AB41.60.02 Subvention APEFE fonctionnement RW 490k 2026
 bud_apefe_fonct_sum_2025,apefe,2025,981000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,Derived CF+RW fonctionment 471+510=981k 2025
 bud_apefe_fonct_sum_2026,apefe,2026,961000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,Derived CF+RW fonctionment 471+490=961k 2026
+bud_favv_heffingen_2024,favv,2024,51931031,,,outturn,src_favv_heffingen_rc_2025,strong,Heffingen billed 2024 excl bonus 51.931m (sector redistribution base)
+bud_favv_fte_controllers_2024,favv,2024,0,,,outturn,src_favv_heffingen_rc_2025,strong,FTE controllers 142.34 2024 (amount_eur 0 = headcount not euros)
+bud_favv_dotatie_real_2018,favv,2018,95880000,,,outturn,src_favv_heffingen_rc_2025,strong,BP table: federal dotatie realisations 95.880m 2018
+bud_favv_dotatie_real_2019,favv,2019,96245000,,,outturn,src_favv_heffingen_rc_2025,strong,BP: dotatie 96.245m 2019
+bud_favv_dotatie_real_2020,favv,2020,98482000,,,outturn,src_favv_heffingen_rc_2025,strong,BP: dotatie 98.482m 2020
+bud_favv_dotatie_ib_2021,favv,2021,99317000,,,budgeted,src_favv_heffingen_rc_2025,strong,BP: dotatie IB 99.317m 2021
+bud_favv_heffingen_real_2018,favv,2018,25336000,,,outturn,src_favv_heffingen_rc_2025,strong,BP heffingen realisations 25.336m 2018
+bud_favv_heffingen_real_2019,favv,2019,34536000,,,outturn,src_favv_heffingen_rc_2025,strong,BP heffingen 34.536m 2019
+bud_favv_heffingen_real_2020,favv,2020,25132000,,,outturn,src_favv_heffingen_rc_2025,strong,BP heffingen 25.132m 2020
+bud_favv_retributies_real_2018,favv,2018,43866000,,,outturn,src_favv_heffingen_rc_2025,strong,BP retributies 43.866m 2018
+bud_favv_retributies_real_2019,favv,2019,40472000,,,outturn,src_favv_heffingen_rc_2025,strong,BP retributies 40.472m 2019
+bud_favv_retributies_real_2020,favv,2020,42326000,,,outturn,src_favv_heffingen_rc_2025,strong,BP retributies 42.326m 2020
+bud_favv_total_real_2018,favv,2018,173363000,,,outturn,src_favv_heffingen_rc_2025,strong,BP total income realisations 173.363m 2018
+bud_favv_total_real_2019,favv,2019,179303000,,,outturn,src_favv_heffingen_rc_2025,strong,BP total 179.303m 2019
+bud_favv_total_real_2020,favv,2020,173918000,,,outturn,src_favv_heffingen_rc_2025,strong,BP total 173.918m 2020
+bud_favv_total_ib_2021,favv,2021,186886000,,,budgeted,src_favv_heffingen_rc_2025,strong,BP IB total 186.886m 2021 (~185m class)
+bud_favv_retributies_ib_2021,favv,2021,48921000,,,budgeted,src_favv_heffingen_rc_2025,strong,BP retributies IB 48.921m 2021

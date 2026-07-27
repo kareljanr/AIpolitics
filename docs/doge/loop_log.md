@@ -2896,3 +2896,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +6; cmt +1; lb +2; entity apefe; FOI gap_apefe partial update; draft note; rq_259=done; spawn rq_260; ticks=268
 - FOI: APEFE full TCO+projects still ready human send; AGMJ residual still ready
 - Next: prio5 **rq_260**; deferred **rq_116** SWA; progress@270 in 2 ticks
+
+### 2026-07-29T21:30:00Z — tick 269
+- Unit: **rq_260** (FOI-adjacent hole-fill — **FAVV food chain dual Sciensano**)
+- Found (strong primary RC heffingen + BP 21-24 + minister savings note):
+  - **Heffingen 2024 excl bonus €51.931m**; FTE controllers **142.34**.
+  - Financing model: federal **dotatie** + heffingen + retributies + EU + other (wet 9 dec 2004).
+  - BP path: total realisations **173.4 / 179.3 / 173.9m** 2018-20; IB **186.9m** 2021; dotatie **95.9?99.3m**.
+  - Savings: minister clarification **not 24% FAVV-targeted**; linear **1.8%/yr** personnel + opex; cum **~4.5%** over 5y on **dotatie only** (heffingen/retributies protected).
+  - Dual **Sciensano** public health science (135.7m path) vs FAVV control agency.
+- Wrote: sources +2; entity favv; budgets +17; cmt +1; lb +3; FOI gap_favv_budget_2024_26 ready; draft; raw PDFs; rq_260=done; spawn rq_261 progress@270; ticks=269
+- FOI: FAVV 2024-26 totals human send; AGMJ residual still ready
+- Next: mandatory **progress@270** (rq_261); deferred **rq_116** SWA
