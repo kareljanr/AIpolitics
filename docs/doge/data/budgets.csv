@@ -2324,3 +2324,10 @@ bud_stw_spoorzoeker_2026,city_antwerpen,2026,190000,,,budgeted,src_ebesluit_stw_
 bud_rataplan_invest_2026bp,city_antwerpen,2026,600000,,,budgeted,src_ebesluit_rataplan_invest_2026,strong,Rataplan invest 600k building works budgetperiode 2026
 bud_antwerp_culture_l5_sample_8houses_2026,city_antwerpen,2026,7921900,,,budgeted,src_ebesluit_fameus_2026,strong,Culture L5 sample 8 houses 7.922m (prior 7.399 + FAMEUS 0.523)
 bud_antwerp_l5_culture_youth_work_tick219,city_antwerpen,2026,1653000,,,budgeted,src_ebesluit_fameus_2026,strong,Tick219 L5 batch FAMEUS0.523+youth0.25+STW0.28+Rataplan0.6 = 1.653m
+bud_morpho_2026,city_antwerpen,2026,287500,,,budgeted,src_ebesluit_morpho_2026,strong,MORPHO artist atelier support 287.5k 2026
+bud_tutti_fratelli_2026_total,city_antwerpen,2026,143400,,,budgeted,src_ebesluit_tutti_fratelli_2026,strong,Tutti Fratelli 143.4k 2026 (culture 98.4 + youth 45)
+bud_tutti_fratelli_culture_2026,city_antwerpen,2026,98400,,,budgeted,src_ebesluit_tutti_fratelli_2026,strong,Tutti Fratelli culture line 98.4k 2026
+bud_tutti_fratelli_youth_2026,city_antwerpen,2026,45000,,,budgeted,src_ebesluit_tutti_fratelli_2026,strong,Tutti Fratelli youth line 45k 2026
+bud_2020studios_2026,city_antwerpen,2026,100000,,,budgeted,src_ebesluit_2020studios_2026,strong,2020 Studios youth citizenship 100k 2026
+bud_vdab_werfkeet_2026,city_antwerpen,2026,12918.30,,,budgeted,src_ebesluit_vdab_werfkeet_2026,strong,VDAB Jobs Grote Verbinding werfkeet rent 12.9k 2026
+bud_antwerp_culture_l5_sample_10houses_2026,city_antwerpen,2026,8352800,,,budgeted,src_ebesluit_morpho_2026,strong,Culture L5 sample 10 houses 8.353m (prior 7.922 + MORPHO 0.288 + Tutti 0.143)

@@ -2310,3 +2310,16 @@ Append-only. Each tick adds a short entry.
 - Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 · company cars FPB ~8.5); new city AGB L2 not pure-waste top
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log
 - Next: prio5 **rq_213** (Digipolis/Mons/remaining L5); deferred **rq_116** SWA
+
+### 2026-07-28T23:35:00Z - tick 221
+- Unit: **rq_213** (FOI-adjacent hole-fill - culture/youth L5 ebesluit)
+- Found (strong ebesluit):
+  - **MORPHO 2026 EUR 287.5k**; 6y max **1.767m** 2026-2031 (artist ateliers dual VL residual).
+  - **Tutti Fratelli 2026 EUR 143.4k** (culture 98.4 + youth 45); 6y max **0.742m**.
+  - **2020 Studios EUR 100k** youth citizenship Apr2026-Mar2027.
+  - **VDAB werfkeet Jobs Grote Verbinding EUR 12.9k** 2026 (indexed rent via Vespa).
+  - Culture L5 sample **10 houses EUR 8.353m** of ~35m envelope (~24% class); residual ~6 of 16 partners.
+  - Digipolis personnel + Mons BI2026 still residual public search.
+- Wrote: sources 4; budgets 7; cmt 4; lb 3; foi note; rq_213=done; seeded **rq_214**.
+- FOI: residual culture partners DeRoma/Trix/paleis/AMUZ + Digipolis + Mons human send.
+- Next: prio5 **rq_214**; deferred **rq_116** SWA.
