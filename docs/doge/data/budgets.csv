@@ -3952,3 +3952,20 @@ bud_skeyes_equity_2024_nbb,skeyes,2024,308819414,,,outturn,src_skeyes_companyweb
 bud_skeyes_equity_2025,skeyes,2025,327517497,,,outturn,src_skeyes_companyweb_nbb_2025,strong,Equity 327517497 EUR YE2025
 bud_skeyes_fte_2024,skeyes,2024,951,,,outturn,src_skeyes_companyweb_nbb_2025,strong,FTE 950.9 2024 statutory
 bud_skeyes_fte_2025,skeyes,2025,966,,,outturn,src_skeyes_companyweb_nbb_2025,strong,FTE 966.3 2025 (media headcount 1006 class different metric)
+bud_natlot_omzet_2022,nationale_loterij,2022,1493654450,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Statutory omzet 1493654450 EUR 2022
+bud_natlot_omzet_2023,nationale_loterij,2023,1489570590,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Statutory omzet 1489570590 EUR 2023
+bud_natlot_omzet_2024,nationale_loterij,2024,1554745278,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Statutory omzet 1554745278 EUR 2024
+bud_natlot_omzet_2025,nationale_loterij,2025,1666542326,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Statutory omzet 1666542326 EUR 2025 record (+7.2pct)
+bud_natlot_net_2022,nationale_loterij,2022,9853072,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Net 9853072 EUR 2022
+bud_natlot_net_2023,nationale_loterij,2023,6495206,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Net 6495206 EUR 2023
+bud_natlot_net_2024,nationale_loterij,2024,1204586,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Net 1204586 EUR 2024 (thin after society transfers)
+bud_natlot_net_2025,nationale_loterij,2025,8009157,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Net 8009157 EUR 2025
+bud_natlot_equity_2024,nationale_loterij,2024,234740627,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Equity 234740627 EUR YE2024
+bud_natlot_equity_2025,nationale_loterij,2025,236906534,,,outturn,src_nationale_loterij_companyweb_nbb,strong,Equity 236906534 EUR YE2025
+bud_natlot_fte_2024,nationale_loterij,2024,433,,,outturn,src_nationale_loterij_companyweb_nbb,strong,FTE 432.8 2024
+bud_natlot_fte_2025,nationale_loterij,2025,447,,,outturn,src_nationale_loterij_companyweb_nbb,strong,FTE 447.3 2025
+bud_natlot_prizes_2025,nationale_loterij,2025,1266000000,,,outturn,src_nationale_loterij_press_2025,strong,Player prizes paid 1.266bn 2025 (press)
+bud_natlot_society_return_2024,nationale_loterij,2024,362500000,,,outturn,src_nationale_loterij_press_2025,strong,Maatschappelijk rendement 362.5m to society after 2024 results (state+goede doelen)
+bud_natlot_society_return_2025_target,nationale_loterij,2025,370000000,,,budgeted,src_nationale_loterij_press_2025,medium,Hoped society contribution 370m for 2025 results (not yet final definitive)
+bud_natlot_retail_2025,nationale_loterij,2025,1172000000,,,outturn,src_nationale_loterij_press_2025,strong,Retail sales 1172m 70.3pct of stakes 6748 points
+bud_natlot_online_2025,nationale_loterij,2025,494000000,,,outturn,src_nationale_loterij_press_2025,strong,Online sales 494m 29.7pct (+19.6pct)

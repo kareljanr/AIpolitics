@@ -3565,3 +3565,16 @@ Append-only. Each tick adds a short entry.
 - FOI: RP3/unit-rate residual ready human send
 - Next: prio5 **rq_315**; deferred **rq_116** SWA
 
+
+### 2026-07-31T00:45:00Z - tick 324
+- Unit: **rq_315** (FOI-adjacent hole-fill - **Nationale Loterij statutory dual private gambling**)
+- Found (strong NBB/Companyweb KBO 0223.967.357 + official press 16 Jan 2026):
+  - Omzet **1493.7 / 1489.6 / 1554.7 / 1666.5m** 2022-25 (+7.2pct 2025 record).
+  - Net **9.85 / 6.50 / 1.20 / 8.01m** (thin residual after society transfers).
+  - Equity **231 ? 237m**; FTE **422 ? 447**.
+  - Prizes paid **€1.266bn** 2025; retail **1172m** / online **494m**.
+  - Society return **€362.5m** after 2024 results; hope **€370m** for 2025; **1970** projects.
+  - Dual: state lottery monopoly vs private gambling (Kansspelcommissie); prior FNRS/IEFH lottery lines.
+- Wrote: sources +2; entity nationale_loterij; budgets +17; cmt +1; lb +2; FOI gap_natlot_society_l5 ready; draft; rq_315=done; spawn rq_316; ticks=324
+- FOI: L5 society return split + reconcilatie thin net vs ~363m ready human send
+- Next: prio5 **rq_316**; deferred **rq_116** SWA

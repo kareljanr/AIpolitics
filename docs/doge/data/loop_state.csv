@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T00:15:00Z,rq_314,323,no,Scheduler 60s. Next prio5 rq_315; rq_116 SWA deferred. FOI ready. tick323 skeyes omzet 353m 2025 dual airports.
+main,continuous,hole_fill,2026-07-31T00:45:00Z,rq_315,324,no,Scheduler 60s. Next prio5 rq_316; rq_116 SWA deferred. FOI ready. tick324 Nat Loterij omzet 1.667bn society ~363m dual gambling.
