@@ -3476,3 +3476,16 @@ Append-only. Each tick adds a short entry.
 - FOI: official NMBS matrix + free NBB PDF still ready human send
 - Next: prio5 **rq_308** (NMBS FTE dual HR candidate); deferred **rq_116** SWA
 
+
+### 2026-07-30T21:15:00Z - tick 317
+- Unit: **rq_308** (FOI-adjacent hole-fill - **NMBS FTE dual HR Rail recon**)
+- Found:
+  - **NMBS ops headcount** (strong official): **16,976** on 2026-01-01 after **1100+** hires 2025.
+  - **NMBS statutory FTE = 0** (strong Companyweb/NBB) — all legal employment via HR Rail.
+  - Dual map: NMBS **16,976** + Infrabel YE **9,402** = **26,378** vs HR **27,811** residual **~1.4k** class (HR admin + FTE/headcount/date mix).
+  - EUR residual: NMBS payroll-share class **~€1.50 bn** of HR **€2.305 bn** 2024 (after Infrabel **€809.6m** services).
+  - Unit-cost class ~**€86–88k**/head both sides (method-sensitive medium).
+- Wrote: sources +2; entity nmbs note; budgets +6; cmt +1; lb +3; FOI gap_hr_rail update; draft table; rq_308=done; spawn rq_309; ticks=317
+- FOI: NMBS official payroll EUR charge series still ready human send
+- Next: prio5 **rq_309**; **progress@320 in 3 ticks**; deferred **rq_116** SWA
+

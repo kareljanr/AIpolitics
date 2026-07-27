@@ -3893,3 +3893,9 @@ bud_hr_rail_fte_2025_refresh,hr_rail,2025,27811,,,outturn,src_hr_rail_companyweb
 bud_hr_rail_profit_2025_refresh,hr_rail,2025,1568042,,,outturn,src_hr_rail_companyweb_nbb_2025_refresh,strong-medium,HR Rail net 1568042 EUR 2025 (pass-through near-zero)
 bud_hr_rail_nmbs_fte_residual_2024,hr_rail,2024,18166,,,estimate,src_infrabel_ar2024_en_fte,medium,Implied residual FTE class 27568.5 HR - 9402 Infrabel YE ~18166 NMBS+HR-core class 2024; not official split
 bud_hr_rail_infrabel_share_omzet_2024,hr_rail,2024,809610000,,,estimate,src_infrabel_ar2024_en_fte,medium,Infrabel payroll-in-services 809.61m as proxy HR re-invoice share 2024; residual HR omzet 2305m-810m~1495m NMBS class
+bud_nmbs_statutory_fte_2025,nmbs,2025,0,,,outturn,src_nmbs_companyweb_fte_zero,strong,NMBS statutory jaarrekening FTE 0 (legal employer is HR Rail) Companyweb/NBB
+bud_nmbs_ops_headcount_2026_01,nmbs,2026,16976,,,outturn,src_nmbs_results_staff_2026_01,strong,NMBS operational headcount 16976 medewerkers 2026-01-01 official results (after 1100+ hires 2025)
+bud_rail_dual_fte_sum_class_2024,gg_belgium,2024,26378,,,estimate,src_nmbs_results_staff_2026_01,medium,Sum NMBS ops headcount 16976 (2026-01) + Infrabel YE FTE 9402 (2024) = 26378 vs HR FTE 27568 2024 residual ~1.2k class
+bud_rail_dual_fte_sum_class_2025,gg_belgium,2025,26378,,,estimate,src_nmbs_results_staff_2026_01,medium,Same sum 26378 vs HR FTE 27811 2025 residual ~1.4k (HR Rail own admin + FTE vs headcount + date mix)
+bud_nmbs_hr_payroll_share_class_2024,nmbs,2024,1495236457,,,estimate,src_infrabel_ar2024_en_fte,medium,HR omzet 2304.8m - Infrabel payroll-services 809.6m = residual 1495.2m class NMBS HR re-invoice 2024
+bud_nmbs_unit_cost_fte_class_2024,nmbs,2024,88100,,,estimate,src_nmbs_results_staff_2026_01,medium,Implied ~1.495bn / ~17k ~EUR 88k per head class 2024; Infrabel ~810m/9.4k ~86k; method-sensitive

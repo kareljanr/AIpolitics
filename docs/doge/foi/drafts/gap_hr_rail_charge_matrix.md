@@ -15,11 +15,14 @@
 | HR Rail net | **€1.57m** (near-zero pass-through) | 2025 | strong-medium | same |
 | Infrabel YE FTE | **9,402.1** (9,536 YE2023) | 2024 | **strong** | Infrabel AR2024 |
 | Infrabel payroll in Services | **€809.61m** (€775.76m 2023) | 2024 | **strong** | AR2024 P&L |
-| Implied NMBS residual FTE | **~18,166** class | 2024 | medium | 27,568 − 9,402 |
+| Implied NMBS residual FTE (pre-NMBS publish) | **~18,166** class | 2024 | medium | 27,568 − 9,402 |
+| **NMBS operational headcount** | **16,976** | 2026-01-01 | **strong** | NMBS Resultaten 2025 |
+| **NMBS statutory FTE** | **0** | 2025 | **strong** | Companyweb/NBB (legal employer HR Rail) |
+| Sum NMBS+Infrabel vs HR | **26,378 vs 27,811** residual **~1.4k** | 2025 class | medium | method/date mix + HR own admin |
 | Implied NMBS omzet share | **~€1.50 bn** class | 2024 | medium | 2.305 − 0.810 |
 | Infrabel stake in HR Rail | **49%** | 2024 | strong | AR2024 subsidiaries |
 
-Residual FOI: official NMBS charge EUR series; free NBB PDF; FTE by statute; HR Rail own admin overhead.
+Residual FOI: official NMBS **payroll EUR** re-invoice series (not only headcount); free NBB PDF; same-date FTE by statute; HR Rail own admin overhead.
 
 ---
 
