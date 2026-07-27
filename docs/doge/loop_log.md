@@ -2160,3 +2160,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 11; cmt 2; lb 2; foi police notes; rq_201=done; seeded **rq_202**.
 - FOI: federal per-zone matrix still human send (gap_police_zones); culture residual partners + Mons BI2026 residual.
 - Next: prio5 **rq_202**; deferred **rq_116** SWA.
+
+### 2026-07-28T19:25:00Z - tick 208
+- Unit: **rq_202** (FOI-adjacent hole-fill - **Antwerp JEF + Free Clinic drug L5**)
+- Found (strong ebesluit primary):
+  - **JEF 2026 EUR 239.2k**; max **1.470m** 2026-2031 (youth film festival; dual VAF residual).
+  - **Free Clinic package 2026 EUR 974.4k**: MSOC **203.7k** + GoiA **263.5k** (dual Zorgbedrijf) + De Nomaad **507.2k**.
+  - Culture L5 sample sum **7 houses = 7.40m** (prior 6 + JEF) of ~35m envelope class.
+- Wrote: sources 2; budgets 6; cmt 3; lb 3; foi notes; rq_202=done; seeded **rq_203**.
+- FOI: residual culture partners + full register + Mons BI2026 human send; CAW/Zorgbedrijf deepen next.
+- Next: prio5 **rq_203**; deferred **rq_116** SWA.

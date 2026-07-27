@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T19:05:00Z,rq_201,207,no,"Scheduler 60s. Next prio5 rq_202 Mons/culture residual; rq_116 SWA deferred. FOI ready human send. tick207 PZA city toelage 320.7m staff 306m."
+main,continuous,hole_fill,2026-07-28T19:25:00Z,rq_202,208,no,"Scheduler 60s. Next prio5 rq_203 Mons/CAW/Zorgbedrijf; rq_116 SWA deferred. FOI ready human send. tick208 JEF 0.24m FreeClinic 0.97m culture sample 7.40m."

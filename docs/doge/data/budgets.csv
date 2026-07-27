@@ -2216,3 +2216,9 @@ bud_pza_ord_receipts_2026,police_zone_antwerpen,2026,408265256.75,,,budgeted,src
 bud_pza_city_toelage_2025,city_antwerpen,2025,318098023.72,,,budgeted,src_ebesluit_pza_budget_2025,strong,Municipal toelage PZA 2025 total
 bud_pza_city_toelage_gewone_2025,city_antwerpen,2025,280084407.38,,,budgeted,src_ebesluit_pza_budget_2025,strong,PZA city toelage ordinary 2025
 bud_pza_city_toelage_extra_2025,city_antwerpen,2025,38013616.34,,,budgeted,src_ebesluit_pza_budget_2025,strong,PZA city toelage extraordinary 2025
+bud_jef_2026,city_antwerpen,2026,239200,,,budgeted,src_ebesluit_jef_2026,strong,JEF youth film festival city exp 239.2k 2026
+bud_jef_max_2026_31,city_antwerpen,2031,1469891,,,commitment,src_ebesluit_jef_2026,strong,JEF max package 1.470m 2026-2031
+bud_freeclinic_msoc_2026,city_antwerpen,2026,203698.39,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic MSOC addiction care city 203.7k 2026
+bud_freeclinic_goia_2026,city_antwerpen,2026,263509.37,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic GoiA families dual Zorgbedrijf 263.5k 2026
+bud_freeclinic_nomaad_2026,city_antwerpen,2026,507173.54,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic De Nomaad activation harm-reduction 507.2k 2026
+bud_freeclinic_package_2026,city_antwerpen,2026,974381.30,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic 3 projects sum 974.4k 2026
