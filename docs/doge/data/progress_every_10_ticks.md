@@ -20,38 +20,40 @@
 
 ---
 
-## Snapshot at **tick 250** (2026-07-29)
+## Snapshot at **tick 260** (2026-07-29)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~79–87%** (order of magnitude) | Up from ~78–86% @240: **VL AJH VAK 240m**; FWB MDJ DO18 **30.1m** + fed receipt **55.7m**; equality dual/triple FWB **7.85m** / VL GK **15.2m** / WAL core **~5.7m**; residual SS bulk + many communes + operator L5 opacity |
-| **D. L5 named end-receivers** | **~11–19%** of TE (generous) | Charleroi culture/sport sample **3.33m+1.34m**; equality category L5; prior AF multi-caisse + Antwerp; still thin vs TE |
-| **E. FOI-ready gaps** | **~87** drafts ready | Human send only — closes D when answered |
+| **C. L2 entity totals** | **~81–89%** (order of magnitude) | Up from ~79–87% @250: export triple **AWEX 76.8m + FIT 63.1m + hub 46.2m**; tourism triple **TV SQ 74.8m + Visit 14.9m partial + VW 15.4m + TW 48.6m**; **WBI 96.4m** + FWB/WAL dots **73.0m**; justice fed triple **147.3m**; residual SS bulk + many communes + operator L5 opacity |
+| **D. L5 named end-receivers** | **~12–20%** of TE (generous) | Still thin vs TE; agency packages improve C more than pure L5; FIT L5 residual optional; Visit full residual FOI |
+| **E. FOI-ready gaps** | **~92** drafts ready | Human send only — closes D when answered; several gaps answered public (FIT totals, WBI WAL) |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022 bench1) + FFS/company cars TE; cheque TE — waste map, **not cash TE**.
 
-### Inventory (tick 250)
+### Inventory (tick 260)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,691 |
-| commitments.csv | ~460 |
-| leaderboard.csv | ~459 |
-| entities.csv | ~957 lines (class; multi-line fields) |
-| sources.csv | ~501 |
-| FOI ready | ~87 |
-| FOI total rows | ~91 |
-| research_queue | ~242 (open: rq_116 deferred + rq_242) |
+| budgets.csv | ~2,773 |
+| commitments.csv | ~474 |
+| leaderboard.csv | ~490 |
+| entities.csv | ~190 |
+| sources.csv | ~518 |
+| FOI ready | ~92 |
+| FOI answered | ~5 |
+| FOI total rows | ~98 |
+| research_queue | ~252 (open: rq_116 deferred + rq_252) |
 
-### What improved since tick 240
+### What improved since tick 250
 
-- **Justice dual:** FWB MDJ DO18 **30.1m** + art.47/10 receipt **55.7m**; VL AJH full **240.0m** VAK (lonen **164.9m**) + federal JH receipt **90.4m** — dual not additive.  
-- **Equality dual/triple:** FWB pack CL **7.85m** (Unia **0.369m**); VL GK werkings **15.16m**; WAL violences **3.54m** + core sample **~5.7m liq**.  
-- **Fossil taxex map (off-TE):** 4e inventaire direct **13.27 bn** 2022; accises **10.5 bn**; company cars EHS **3.43 bn**.  
-- **Local L5:** Charleroi BI2024 PBA **1.34m** + culture sample **3.33m** + sport **1.34m**; BI2026 pox **−0.5m**.  
-- FOI stack +~10 ready (AJH partners, MDJ personnel, DG Justizhaus, FWB/WAL egalite L5, fossil 2023-24, Charleroi BI2026 named).  
+- **Export triple filled:** AWEX package **76.843m** 2026 + FIT BO2026 package VEK **63.142m** (JR2025 opbrengsten **71.867m**) + hub.brussels **46.166m** 2024 — years differ, not additive.  
+- **Tourism triple:** Toerisme VL SQ VEK **74.816m** BO2024 + visit.brussels prog302 **14.9m** partial + VISITWallonia global **15.4m** + Tourisme Wallonie admin **48.578m**.  
+- **International dual:** WBI liq **104.2/96.4m** 2024–25; FWB dot **42.945m** + WAL DF019.003 **30.098m** = **73.043m** 2026.  
+- **Justice fed triple:** art.47/10 **147.338m** (VL 90.572 + FWB 55.835 + DG 0.931).  
+- **FOI closures (public):** gap_fit_budget_2026 answered; gap_wbi_wal_contribution answered.  
+- FOI residual L5 still stack (FIT beneficiaries optional; Visit full; Mons ASBL; AGMJ wage).  
 
 ---
 
@@ -72,7 +74,8 @@
 | 220 | 100% | 100% | ~72–80% | ~8–16% | ~71 | Antwerp AGB mega stack ~631m |
 | 230 | 100% | 100% | ~74–82% | ~9–17% | ~71 | Digipolis 246m + culture 16/16 + social ~32m |
 | 240 | 100% | 100% | ~78–86% | ~10–18% | ~77 | WVG IVAs + AViQ + AF duals + COCOM/COCOF/VGC |
-| **250** | **100%** | **100%** | **~79–87%** | **~11–19%** | **~87** | **Current** (AJH dual justice + equality triple + fossil off-TE + Charleroi L5) |
+| 250 | 100% | 100% | ~79–87% | ~11–19% | ~87 | AJH dual justice + equality triple + fossil off-TE + Charleroi L5 |
+| **260** | **100%** | **100%** | **~81–89%** | **~12–20%** | **~92** | **Current** (export+tourism+WBI duals; FIT/WBI FOI public closes) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 

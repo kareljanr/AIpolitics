@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T16:30:00Z,rq_250,259,no,Scheduler 60s. Next **rq_251 progress@260 mandatory**; then rq_252. rq_116 SWA deferred. FOI ready human send. tick259 WAL WBI 30.1m dual filled.
+main,continuous,hole_fill,2026-07-29T17:00:00Z,rq_251,260,no,Scheduler 60s. Next prio5 rq_252; rq_116 SWA deferred. FOI ready ~92 human send. tick260 progress L2~81-89 L5~12-20 export+tourism+WBI duals.

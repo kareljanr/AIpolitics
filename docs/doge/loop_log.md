@@ -2787,3 +2787,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +3; cmt +1; lb +2; FOI answered; raw PDFs; rq_250=done; spawn rq_251 progress@260 + rq_252; ticks=259
 - FOI: WAL WBI closed public
 - Next: **rq_251 progress@260 mandatory**; then rq_252; deferred **rq_116** SWA
+
+### 2026-07-29T17:00:00Z - tick 260 - progress coverage % + waste top10
+- Unit: **progress@260** (mandatory every-10-ticks; **rq_251**)
+- Coverage (order-of-magnitude vs EUR 347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~81-89%** (up from ~79-87% @250) — export triple AWEX 76.8 + FIT 63.1 + hub 46.2; tourism TV 74.8 + VW 15.4 + TW 48.6; WBI 96.4 + FWB/WAL dots 73.0; justice fed 147.3
+  - **D L5:** **~12-20%** still thin — agency packages lift C more than pure L5
+  - **E FOI ready:** see progress file (several answered: FIT totals, WBI WAL)
+- Waste top10: **stable** cheque/fossil/company cars/EIWT; dual hole-fills are core economic not pure waste
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_251=done
+- Next: prio5 **rq_252**; deferred **rq_116** SWA; human FOI send stack
