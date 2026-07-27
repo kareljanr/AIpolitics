@@ -2844,3 +2844,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity finance_brussels; budgets +15; cmt +1; lb +3; FOI gap_fib_bilan_l5 ready; draft; raw JV PDF; rq_255=done; spawn rq_256; ticks=264
 - FOI: FIB bilan + L5 human send; APEFE/AGMJ residual still ready
 - Next: prio5 **rq_256**; deferred **rq_116** SWA
+
+### 2026-07-29T19:30:00Z — tick 265
+- Unit: **rq_256** (FOI-adjacent hole-fill — **Innoviris dual VLAIO R&I**)
+- Found (strong primary chiffres+compte+RA):
+  - **2024 engagements EUR 44.615m** / **325** projects / **215** orgs; full named L5 public xlsx.
+  - Axes: Journey **28.2m**; academic **8.87m**; science promo **3.79m**; policy knowledge **3.75m**.
+  - Top L5: SYENSQO FUSBAT **2.40m**; ULB KTO **1.66m**; Sirris **1.56m**; SYENSQO Hy-FUEL **1.38m**.
+  - Compte 2024: assets **92.6m**; remun **7.753m**; dots fonct+subs **11.28+44.13m**; financement recherche **46.6m**.
+  - **2025:** RA invest **43.7m** / **406** projects; assets **74.2m**; remun **7.536m**; dots **5.51+21.66m**; result **-24.5m**.
+  - Dual **VLAIO innovatiesteun ~221/197m** awards 2024-25 (much larger Flanders scale).
+- Wrote: sources +1; entity innoviris; budgets +24; cmt +1; lb +4; FOI gap_innoviris_l5_2025_26 ready; draft; raw PDFs+xlsx; rq_256=done; spawn rq_257; ticks=265
+- FOI: Innoviris 2025 L5 + 2026 BCR codes human send; AGMJ/APEFE residual still ready
+- Next: prio5 **rq_257**; deferred **rq_116** SWA

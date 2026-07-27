@@ -2836,3 +2836,27 @@ bud_fib_cum_financing_2018_24,finance_brussels,2024,416774000,,,outturn,src_fina
 bud_fib_latent_gains_2024,finance_brussels,2024,14846000,,,outturn,src_finance_brussels_jv_2024,strong,Latente meerwaarden 14.846m end-2024 (path 4.221->14.846)
 bud_fib_fte_2024,finance_brussels,2024,0,,,outturn,src_finance_brussels_jv_2024,strong,FTE ~40.7 end-2024 (path 37.1-42.0 2018-24); amount_eur 0 FTE not euros
 bud_fib_mgmt_cost_ratio_2024,finance_brussels,2024,0,,,outturn,src_finance_brussels_jv_2024,strong,Beheerskosten ratio 1.87pct 2024 (was 3.38pct 2018); amount 0 ratio
+bud_innoviris_engagements_2024,innoviris,2024,44615224,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,New project engagements 44.615m 325 projects 215 orgs (chiffres L5 sum)
+bud_innoviris_financement_recherche_2024,innoviris,2024,46618256.38,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Charge Financement de la Recherche 46.618m (cash/accounting vs 44.6m new engagements)
+bud_innoviris_dot_subsides_2024,innoviris,2024,44130170,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Dotation de subsides BCR 44.130m 2024
+bud_innoviris_dot_fonct_2024,innoviris,2024,11281000,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Dotation de fonctionnement 11.281m 2024
+bud_innoviris_produits_2024,innoviris,2024,56093982.41,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Total produits 56.094m 2024
+bud_innoviris_remun_2024,innoviris,2024,7753116.74,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Remunerations charges sociales pensions 7.753m 2024
+bud_innoviris_assets_2024,innoviris,2024,92592572.44,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Total actif 92.593m end-2024
+bud_innoviris_axe1_2024,innoviris,2024,28199172,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Axe1 Innovation Journey engagements 28.199m
+bud_innoviris_axe2_2024,innoviris,2024,8871674,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Axe2 recherche academique 8.872m
+bud_innoviris_axe3_2024,innoviris,2024,3753005,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Axe3 savoirs politiques societe 3.753m
+bud_innoviris_axe4_2024,innoviris,2024,3791373,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Axe4 promotion sciences 3.791m
+bud_innoviris_rd_projects_2024,innoviris,2024,16003005,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Programme R&D Projects 16.003m largest L4
+bud_innoviris_l5_syensqo_fusbat_2024,innoviris,2024,2403405,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,L5 top: SYENSQO FUSBAT 2.403m
+bud_innoviris_l5_ulb_kto_2024,innoviris,2024,1658852,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,L5: ULB structural KTO 1.659m
+bud_innoviris_l5_sirris_2024,innoviris,2024,1560947,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,L5: Sirris tech support 1.561m
+bud_innoviris_l5_syensqo_hyfuel_2024,innoviris,2024,1377440,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,L5: SYENSQO Hy-FUEL 1.377m
+bud_innoviris_invest_2025,innoviris,2025,43700000,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,RA2025: 43.7m invested in 406 projects (engagements class)
+bud_innoviris_financement_recherche_2025,innoviris,2025,42264637.37,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Charge Financement de la Recherche 42.265m 2025
+bud_innoviris_dot_subsides_2025,innoviris,2025,21655000,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Dotation de subsides 21.655m 2025 (sharp cut vs 44.1m 2024)
+bud_innoviris_dot_fonct_2025,innoviris,2025,5512000,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Dotation de fonctionnement 5.512m 2025 (was 11.281m)
+bud_innoviris_produits_2025,innoviris,2025,28018881.95,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Total produits 28.019m 2025
+bud_innoviris_remun_2025,innoviris,2025,7536269.18,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Remunerations 7.536m 2025
+bud_innoviris_assets_2025,innoviris,2025,74159136.27,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Total actif 74.159m end-2025
+bud_innoviris_result_2025,innoviris,2025,-24486622.01,,,outturn,src_innoviris_chiffres_compte_2024_25,strong,Resultat exercice -24.487m 2025 (draw on reserves/reported retained earnings)
