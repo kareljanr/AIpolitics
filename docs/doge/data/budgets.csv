@@ -5151,3 +5151,42 @@ bud_grapa_pr_2025,fpd,2025,56565,,,outturn,src_pensionstat_grapa_2025,strong,PR+
 bud_grapa_pr_pd_2025,fpd,2025,29792,,,outturn,src_pensionstat_grapa_2025,strong,PR+PD+GRAPA 29792 COUNT
 bud_ris_reform_integration_save_2026,sec_federal,2026,33500000,,,budgeted,src_ccrek_budget2026_social_assist,medium,Economie reforme RIS parcours integration 33.5m 2026 budgeted (CoA: delivery risk high)
 bud_ris_attente_5ans_save_2026,sec_federal,2026,6700000,,,budgeted,src_ccrek_budget2026_social_assist,medium,Economie delai attente 5 ans aide sociale 6.7m 2026 budgeted
+bud_justice_section_2026,fod_justice,2026,2843000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,SPF Justice section 12 engagement+liquidation credits 2843m 2026 (+82m vs prior year)
+bud_justice_prov_securite_2026,fod_justice,2026,112500000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Provision securite for Justice 112.5m 2026 (of 250m structural security/return policy)
+bud_justice_prov_surpop_struct_2026,fod_justice,2026,50000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Provision structural prison overcrowding Justice 50m/yr 2026 (of 240m 2026-29 package)
+bud_justice_prov_infra_surpop_2026,fod_justice,2026,259000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Provision infra+exploit overcrowding 259m 2026 (of 600m 2026-29; Justice+Regie des batiments)
+bud_justice_prov_efficiency_2026,fod_justice,2026,44000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Provision gains d efficacite Justice 44m 2026 (of 50.7m Justice+Interior add-on)
+bud_justice_provisions_sum_2026,fod_justice,2026,465500000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Sum dedicated provisions for Justice projects 465.5m 2026 (CoA: specialty principle breach)
+bud_justice_package_class_2026,fod_justice,2026,3308500000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Justice class section+provisions 2843+465.5=3308.5m 2026 (not pure additive outturn)
+bud_prison_envelope_2026_2029,fod_justice,2026,840000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Prison overcrowding envelope 840m engagement+liq 2026-2029 (CM Dec 2025)
+bud_prison_infra_package_600m,fod_justice,2026,600000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Prison infra+exploit package 600m 2026-29 (Regie+Justice; 259m in 2026)
+bud_prison_struct_package_240m,fod_justice,2026,240000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Prison structural package 240m 2026-29 (Justice 50/yr + Sante 5 + Migration 5)
+bud_prison_tf_needs_1_1bn,fod_justice,2026,1100000000,,,estimate,src_ccrek_budget2026_justice_fedasil,medium,Task-force estimated needs 1.1bn hors index (capacity+health+migration+foreign)
+bud_prison_places_2026,fod_justice,2026,1052,,,estimate,src_ccrek_budget2026_justice_fedasil,medium,Task force capacity: 1052 new detention places 2026 plan incl Antwerp (COUNT)
+bud_prison_capacity_budget_2026,fod_justice,2026,303800000,,,estimate,src_ccrek_budget2026_justice_fedasil,medium,Task force capacity budget example 303.8m for 1052 places 2026
+bud_prison_surpop_credit_2025,fod_justice,2025,55000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Prison overcrowding one-off credit 55m 2025 (made structural +5m to 60m path 2026)
+bud_prison_food_detainees_2026,fod_justice,2026,25200000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Frais nourriture et entretien detenus 25.2m 2026 (prog 11 DG EPI)
+bud_prison_food_detainees_2025,fod_justice,2025,24400000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Frais nourriture detenus engagement 24.4m 2025 class
+bud_prison_food_underfund_2026,fod_justice,2026,10180000,,,budgeted,src_ccrek_budget2026_justice_fedasil,medium,Estimated underfunding food/maintenance detainees 10.18m 2026 (to pull from provision)
+bud_prov_securite_total_2026,sec_federal,2026,366900000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Provision securite+return policy total 366.9m 2026 (250+60+6.2+50.7)
+bud_prov_securite_struct_2026,sec_federal,2026,250000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Structural security/return policy 250m 2026 (Justice 112.5 Police fed 87.5 Migration 50)
+bud_prov_securite_police_2026,sec_federal,2026,87500000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Police federale share of security provision 87.5m 2026
+bud_prov_securite_migration_2026,fod_ibz,2026,50000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Migration services share of security provision 50m 2026
+bud_prov_securite_report_justice_2026,fod_justice,2026,6200000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Report unused 2025 justice surpop 6.2m into 2026 provision
+bud_prov_securite_addon_2026,sec_federal,2026,50700000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Addon provision Justice+Interior 50.7m 2026 (Justice 44 Interior 6; purpose opaque CoA)
+bud_fedasil_dot_adj_2025,fedasil,2025,828900000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fedasil dotation adjusted budget 828.9m 2025
+bud_fedasil_dot_2026,fedasil,2026,702200000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fedasil dotation initial 702.2m 2026 (-126.7m vs adj 2025)
+bud_fedasil_prov_2025,fedasil,2025,126600000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fedasil interdept provision 126.6m 2025
+bud_fedasil_prov_2026,fedasil,2026,100000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fedasil interdept provision unavoidable reception costs 100m 2026
+bud_fedasil_package_2025,fedasil,2025,955600000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fedasil package dot+prov 955.6m 2025
+bud_fedasil_package_2026,fedasil,2026,802200000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fedasil package 802.2m 2026 (-153.4m)
+bud_fedasil_economy_2026,fedasil,2026,247000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,medium,Fedasil savings path 247m 2026 (part of 688m by 2029 asylum tightening)
+bud_fedasil_economy_2029,fedasil,2029,688000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,medium,Asylum policy savings target 688m 2029 (of which reception network 538m class)
+bud_bewatt_dot_2026,sec_federal,2026,487600000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,BE-Watt dotation 487.6m 2026 (federal shareholder BE-NUC Phoenix Doel4/Tihange3)
+bud_bewatt_prov_q1_2026,sec_federal,2026,146000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,BE-Watt provisional credits Q1 2026 obligations 146m
+bud_energy_norm_prov_2026,sec_federal,2026,249000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Provision norme energetique 249m 2026 (industry electricity cost competitiveness)
+bud_fluxys_energy_receipt_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Fluxys receipt earmarked to energy norm 100m 2026 (CoA: universality principle issue)
+bud_ris_dis_2026,spp_is,2026,2084500000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,DIS federal to CPAS 2084.5m 2026 (base 1841.7 -index +300 comp -reforms)
+bud_ris_loi1965_2026,spp_is,2026,156400000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,Loi 1965 aide indigence CPAS 156.4m 2026
+bud_ris_dis_base_2026,spp_is,2026,1841700000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,DIS base before corrections 1841.7m 2026 (CM Jul 2025)
+bud_ris_comp_chomage_2026,spp_is,2026,300000000,,,budgeted,src_ccrek_budget2026_justice_fedasil,strong,CPAS compensation unemployment spillover +300m 2026

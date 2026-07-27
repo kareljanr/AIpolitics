@@ -4449,3 +4449,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_381=done; spawn **rq_382**; ticks=390
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_382** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-01T10:15:00Z - tick 391
+- Unit: **rq_382** (FOI-adjacent hole-fill - **SPF Justice 2026 + prison envelope + Fedasil cut + BE-Watt**)
+- Found (strong primary CoA Budget 2026):
+  - Justice section **EUR 2,843m** (+82) + dedicated provisions **465.5m** (sec 112.5 · surpop 50 · infra 259 · effic 44)
+  - Prison overcrowding envelope **840m 2026-2029** (600 infra + 240 structural); TF needs **1.1bn** medium
+  - Food detainees **25.2m** underfund **10.18m**; security provision total **366.9m**
+  - Fedasil package **802.2m** 2026 (dot 702.2 + prov 100; -153 vs 2025); savings **247m** / **688m by 2029**
+  - BE-Watt Phoenix **487.6m** + Q1 prov **146m**; energy norm **249m**; Fluxys earmark **100m**
+  - RIS DIS detail **2,084.5** + loi1965 **156.4** = **2,240.9m**
+- Wrote: sources +1; budgets +39; cmt +2; lb +8; entities; FOI **gap_justice_provisions_l5_2026** ready; rq_382=done; spawn **rq_383**; ticks=391
+- FOI: Justice provision project list human send only
+- Next: prio5 **rq_383**; deferred **rq_116** SWA
