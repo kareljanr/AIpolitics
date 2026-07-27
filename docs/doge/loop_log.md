@@ -2969,3 +2969,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity smals; budgets +9; cmt +1; lb +4; FOI gap_smals_l5_members ready; draft; raw AV PDF; rq_265=done; spawn rq_266; ticks=274
 - FOI: Smals L5 members + contractors human send; e-health L5 residual; AGMJ residual still ready
 - Next: prio5 **rq_266**; deferred **rq_116** SWA
+
+### 2026-07-30T00:15:00Z - tick 275
+- Unit: **rq_266** (FOI-adjacent hole-fill - **CDZ Controledienst + HDA dual**)
+- Found (strong primary CDZ JV2025):
+  - **Uitvoering 2025:** ontvangsten **EUR 8.259m** / uitgaven **EUR 8.043m** (pers **6.029** + werking **1.953** + invest **0.061**); surplus **0.216m**.
+  - **Begroting 2026:** ont **8.679m** / uitg **9.863m** (pers 7.086 + werking 2.636); tekort **1.184m** from admin reserve.
+  - Sector charges: mut **5.139m** + VMOB **2.734m** + tussenpersonen **0.385m** 2025 (sector-financed not federal TE).
+  - Staff **46** + **3 Smals**; assets **4.753m**; admin reserve **3.475m**.
+  - **VI administratiekosten 2023 EUR 1.3768bn** (+4.18% vs 1.322bn 2022) dual INAMI OA 988m 2025 different perimeter.
+  - Geneesk. verzorging VI **37.30bn** / uitkeringen **13.05bn** 2023.
+- HDA JV2025 (medium euros): staff **13** +10 vac 2026; RRF seed **7m** 2021; no annual EUR outturn -> FOI.
+- Wrote: sources +2; entities cdz+hda; budgets +18; cmt +2; lb +4; FOI gap_hda_budget ready; draft; raw PDFs; rq_266=done; spawn rq_267; ticks=275
+- FOI: HDA budget human send; mutual L5 residual updated CDZ 1.38bn; AGMJ residual still ready
+- Next: prio5 **rq_267**; deferred **rq_116** SWA

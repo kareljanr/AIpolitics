@@ -2976,3 +2976,21 @@ bud_smals_staff_headcount_2025,smals,2025,2350,,,outturn,src_smals_av_2025,stron
 bud_smals_private_partners_2025,smals,2025,333000000,,,outturn,src_smals_av_2025,strong,>57pct omzet ~333m to private sector partners (hardware software external specialists)
 bud_smals_gcloud_savings_claim_2025,smals,2025,54400000,,,estimate,src_smals_av_2025,medium,Self-reported G-Cloud common services savings 54.4m 2025 (not audited external)
 bud_smals_reuse_savings_claim_2025,smals,2025,45000000,,,estimate,src_smals_av_2025,medium,Self-reported ReUse project savings >45m 2025 (estimate not audited)
+bud_cdz_ontvangsten_2025,cdz,2025,8258971.69,,,outturn,src_cdz_jv_2025,strong,AV: ontvangsten uitvoering 8.258.97169
+bud_cdz_uitgaven_2025,cdz,2025,8042831.77,,,outturn,src_cdz_jv_2025,strong,AV: uitgaven 8.042.83177 (pers 6.028.66859 + werking 1.952.75014 + invest 61.41304)
+bud_cdz_personeel_2025,cdz,2025,6028668.59,,,outturn,src_cdz_jv_2025,strong,Personeelskosten 6.028.66859
+bud_cdz_werking_2025,cdz,2025,1952750.14,,,outturn,src_cdz_jv_2025,strong,Werkingskosten 1.952.75014
+bud_cdz_invest_2025,cdz,2025,61413.04,,,outturn,src_cdz_jv_2025,strong,Investeringen 61.41304
+bud_cdz_surplus_2025,cdz,2025,216139.92,,,outturn,src_cdz_jv_2025,strong,Overschot boekjaar 216.13992
+bud_cdz_ontvangsten_2026,cdz,2026,8678895,,,budgeted,src_cdz_jv_2025,strong,Begroting 2026 ontvangsten 8.678.895
+bud_cdz_uitgaven_2026,cdz,2026,9862930,,,budgeted,src_cdz_jv_2025,strong,Begroting 2026 uitgaven 9.862.930 (pers 7.086.141 werking 2.636.189 invest 122.600); tekort 1.184.035 from reserve
+bud_cdz_mut_tussenkomst_2025,cdz,2025,5139048.80,,,outturn,src_cdz_jv_2025,strong,Tussenkomst mutualistische entiteiten 5.139.04880
+bud_cdz_vmob_tussenkomst_2025,cdz,2025,2734169.20,,,outturn,src_cdz_jv_2025,strong,Tussenkomst VMOB 2.734.16920
+bud_cdz_assets_2025,cdz,2025,4753060.12,,,outturn,src_cdz_jv_2025,strong,Totaal actief balans 4.753.06012; admin reserve 3.474.81265
+bud_cdz_staff_2025,cdz,2025,46,,,outturn,src_cdz_jv_2025,strong,46 personeelsleden + 3 Smals; amount is headcount
+bud_vi_admin_kosten_2022,sec_ss,2022,1321633904.29,,,outturn,src_cdz_jv_2025,strong,CDZ sector table: VI administratiekosten 1.321.633.90429 2022
+bud_vi_admin_kosten_2023,sec_ss,2023,1376818451.20,,,outturn,src_cdz_jv_2025,strong,CDZ sector table: VI administratiekosten 1.376.818.45120 2023 (+4.18pct)
+bud_vi_geneesk_verz_2023,sec_ss,2023,37301635426.91,,,outturn,src_cdz_jv_2025,strong,CDZ: geneeskundige verzorging VI 37.301.635.42691 2023
+bud_vi_uitkeringen_2023,sec_ss,2023,13050464862.22,,,outturn,src_cdz_jv_2025,strong,CDZ: uitkeringen 13.050.464.86222 2023
+bud_hda_rrf_seed_2021,hda,2021,7000000,,,budgeted,src_hda_jv_2025,strong,EU-RRF Health Data Ecosystem programme 7m end-2021 (multi-year seed)
+bud_hda_staff_2025,hda,2025,13,,,outturn,src_hda_jv_2025,strong,13 medewerkers 2025; amount is headcount; +10 vacatures 2026
