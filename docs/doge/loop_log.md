@@ -3958,3 +3958,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2 (anb_vl, inbo_vl); sources +1; budgets +10; cmt +1; lb +3; FOI **gap_nature_dual_anb_wal_l5** ready + draft; rq_344=done; spawn **rq_345**; ticks=353
 - FOI: MINA nature L5 + WAL 15.060 awards human send only
 - Next: prio5 **rq_345**; deferred **rq_116** SWA
+
+### 2026-07-31T15:45:00Z - tick 354
+- Unit: **rq_345** (FOI-adjacent hole-fill — **dual waste/remediation OVAM Flanders + SPAQuE/déchets Wallonia**)
+- Found (strong primary BBT Omgeving BO2026 + DO15):
+  - ISE Afval en materialen: **€105.9m** (MVG **€102.4m** + MINA **€3.5m**); UPV/zwerfvuil fonds TO **€74.045m** jump.
+  - OVAM dept toelage: **€28.349m**; MINA toelage VEK **€37.423m** / VAK **€35.926m**.
+  - ISE Bodem: **€41.1m** (MINA-dominant).
+  - SPAQuE dotation **€24.138m**; WAL 15.064 déchets CL **€9.859m**; 15.062 Air-Eau-Sol CL **€64.071m** (ISSeP **€23.783m** nested).
+  - Dual waste class **~€116m**; dual remediation class **~€65m** (Bodem+SPAQuE). VMM water class **~€132m** noted.
+- Wrote: entities +3 (ovam, spaque, vmm); sources +1; budgets +13; cmt +1; lb +3; FOI **gap_waste_dual_ovam_spaque_l5** ready + draft; rq_345=done; spawn **rq_346**; ticks=354
+- FOI: OVAM/SPAQuE L5 sites+grants human send only
+- Next: prio5 **rq_346**; deferred **rq_116** SWA
