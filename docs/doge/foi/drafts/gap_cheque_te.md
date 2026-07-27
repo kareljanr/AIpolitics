@@ -1,8 +1,20 @@
 # FOI draft — gap_cheque_te
 
-**Status:** ready for human send (fill identity; use federal FOI form)  
+**Status:** ready (human send) — **partial public fill tick129**  
 **gap_id:** gap_cheque_te  
-**Channel:** https://www.ibz.be/nl/openbaarheid-van-bestuur (and/or FOD Financiën if direct contact exists)
+**Channel:** https://www.ibz.be/nl/openbaarheid-van-bestuur (and/or FOD Financiën)
+
+## Known (public primary)
+
+| Fact | EUR / note | Conf. | Source |
+|------|------------|-------|--------|
+| Maaltijdcheques **(para)fiscale uitgave privé 2024** | **1,07 miljard** | **Strong** | Rekenhof advies Kamer DOC 56 0785/004 (4 mar 2026) |
+| Face value uitgegeven (markt) | 3,344 bn 2023 / **3,550 bn 2024** | Strong | VIA via Rekenhof |
+| Gerechtigden | 2,984 m / **3,142 m** | Strong | VIA |
+| FPS inventaris TE | vermeldt stelsel, **bedrag niet geraamd** | Strong | Rekenhof citeert inventaris |
+| AABEO VenB-impact hervorming 8→10 + aftrek 2→4 | 55,8 / 62,7 / 65,6 m (2026–28) | Strong | AABEO via Rekenhof |
+| Federale openbare sector directe kost | **71,6 m** (2024 class) | Strong | Rekenhof |
+| Ecocheques aggregate TE | **Unknown** | — | residual FOI |
 
 ---
 
@@ -13,7 +25,7 @@
 [ADRES / E-MAIL / TELEFOON]
 [DATUM]
 
-Betreft: Openbaarmaking — fiscale kost maaltijdcheques, ecocheques en andere cheques
+Betreft: Openbaarmaking — TE-codes maaltijd/ecocheques + post-2026 reeks
 Intern: gap_cheque_te (AIpolitics DOGE)
 
 Geachte,
@@ -24,19 +36,19 @@ sociale zekerheid waar relevant).
 
 ### 1. Voorwerp
 
-1. Officiële ramingen van de **fiscale en parafiscale kost** (derving
-   personenbelasting, vennootschapsbelasting, RSZ-werkgever en -werknemer)
-   van:
-   - maaltijdcheques / titres-repas;
-   - ecocheques / éco-chèques;
-   - andere nog geldende beperkte werkcheques (indien van toepassing);
-   voor de jaren **2022–2025** (en 2026-raming indien beschikbaar).
+Publiek bekend: Rekenhof (DOC 56 0785/004) raamde de (para)fiscale uitgave
+maaltijdcheques privé 2024 op **1,07 miljard euro**; inventaris fiscale
+uitgaven vermeldt het stelsel zonder bedrag.
 
-2. Methodologie en rechtsgrond van de vrijstellingen.
+Nog gevraagd:
 
-3. Indien opgenomen in de inventaris fiscale uitgaven: de **exacte codes /
-   regels** en bedragen; indien niet: de reden van niet-opname en eventuele
-   interne schattingen.
+1. De **exacte codes/regels** in de inventaris fiscale uitgaven voor
+   maaltijdcheques en ecocheques, en de **officiële bedragen** 2022–2026
+   indien intern berekend (ook als niet in inventaris gepubliceerd).
+2. Jaarlijkse (para)fiscale reeks maaltijdcheques **na** de hervorming
+   1 jan 2026 (face max 10 €; aftrek 4 €) — full SSC+PB+VenB, niet enkel AABEO VenB.
+3. Aggregate (para)fiscale kost **ecocheques** 2022–2026.
+4. Methodologie en bronbestanden (RSZ/VIA) gebruikt voor eventuele interne ramingen.
 
 ### 2. Context
 

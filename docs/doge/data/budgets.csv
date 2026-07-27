@@ -854,3 +854,9 @@ bud_vl_bo2026_eigen_overheid,vlaanderen_gov,2026,197822000,,,budgeted,src_vl_cen
 bud_vl_bo2026_uitstel,vlaanderen_gov,2026,370000000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Uitstel uitbreidingsbeleid 370m
 bud_vl_bo2026_hervorm,vlaanderen_gov,2026,462741000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Hervormingen punctueel 462.741m
 bud_vl_bo2026_retro_premie,vlaanderen_gov,2026,-189867000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Retro invest premie -189.867m
+bud_meal_vouchers_parafiscal_2024,fod_finance,2024,1070000000,,,estimate,src_rekenhof_maaltijdcheques_2026,strong,Rekenhof: (para)fiscal cost meal vouchers private employees+directors 1.07bn 2024 (SSC+PIT net of CIT)
+bud_meal_vouchers_face_2024,gg_belgium,2024,3550000000,,,outturn,src_via_meal_vouchers_2024,strong,VIA face value issued meal vouchers 3.550bn 2024 market volume not TE
+bud_meal_vouchers_face_2023,gg_belgium,2023,3344000000,,,outturn,src_via_meal_vouchers_2024,strong,VIA face 3.344bn 2023
+bud_meal_vouchers_beneficiaries_2024,gg_belgium,2024,3142016,,,outturn,src_via_meal_vouchers_2024,strong,COUNT not EUR: 3142016 beneficiaries 2024 VIA
+bud_meal_vouchers_fed_public_direct_2024,sec_federal,2024,71600000,,,estimate,src_rekenhof_maaltijdcheques_2026,strong,Federal public sector direct employer cost 71.6m (93266 x 156.3 x 4.91)
+bud_meal_vouchers_aabeo_cit_2026,fod_finance,2026,55800000,,,estimate,src_rekenhof_maaltijdcheques_2026,strong,AABEO CIT-only impact government reform 55.8m 2026

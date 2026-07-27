@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T16:00:00Z,rq_125,128,no,"Scheduler 60s. Next prio8: rq_124/154; prio7 equality/PES/parties; FOI ready human send."
+main,continuous,hole_fill,2026-07-27T16:20:00Z,rq_154,129,no,"Scheduler 60s. Next prio8: rq_124 BGD only; then prio7 equality/PES/parties; FOI ready human send."

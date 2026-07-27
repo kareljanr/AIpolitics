@@ -848,6 +848,20 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T16:20:00Z -- tick 129
+- Unit: **rq_154** (Cheque economy official TE line primary) — prio 8 / FOI-adjacent
+- Found (primary **Rekenhof advies** Kamer DOC 56 0785/004, 4 Mar 2026; **no invent euros**):
+  - **(Para)fiscale uitgave maaltijdcheques privé 2024: €1.07 bn** (SSC+PB net of VenB) — **strong CoA** from RSZ+VIA.
+  - **VIA market:** face issued **€3.550 bn 2024** (3.344 bn 2023); **3.142 m** beneficiaries; avg face €7.23; 156.3 cheques/person.
+  - **FPS inventaris fiscale uitgaven:** lists meal-voucher TE but **amount not estimated** (CoA explicit).
+  - **AABEO** CIT-only gov reform impact: **€55.8 / 62.7 / 65.6 m** 2026–28.
+  - Federal public direct cost class **€71.6 m**; **ecocheques aggregate still Unknown**.
+  - Supersedes thesis ~1.4 bn as best official meal estimate (keep medium triangulation).
+- Wrote: sources +2; taxex +budgets +cmt; lb_cheque_economy → 1.07bn strong; FOI residual eco+FPS euro; raw PDF; rq_154=**done**; ticks=129
+- FOI: gap_cheque_te still **ready** (prio 7; meal partial)
+- Next: last prio8 **rq_124** federal BGD top50; then prio7 equality/PES
+
+
 ### 2026-07-27T16:00:00Z -- tick 128
 - Unit: **rq_125** (Flanders BO2026 top 30 named subsidies L5) — prio 8
 - Found (primary Centenboekje BO2026 PDF; **no invent euros**):
