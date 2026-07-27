@@ -4652,3 +4652,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~90; cmt +5; lb +8; raw PDF+XLSX; FOI **gap_reg_outlook_deficit_series ? answered**; rq_396=done; spawn **rq_397**; ticks=405
 - FOI: closed public; optional residual Oosterweel-ex/DG only (not reopened)
 - Next: prio5 **rq_397**; deferred **rq_116** SWA
+
+### 2026-08-01T17:45:00Z - tick 406
+- Unit: **rq_397** (FOI-adjacent hole-fill - **CEV 2026 full PDF+XLSX social exp branch Entity I/II**)
+- Found (strong primary CEV Jul 2026 FOR_VERG2026 + DATA_FOR_VERG_FR.xlsx):
+  - **Total social** %GDP **25.7 (2025-26) ? 26.3 (2031) ? 27.0 (2040) ? 27.2 (2050-70)**; ageing cost **+1.5pp**
+  - **Pensions** 11.3?12.0 (+0.7); reform saves **1.4pp**; salarié 6.6?7.4 public 3.8?3.2 indep 0.9?1.4
+  - **Health** 8.0?10.2 (**+2.1**); acute 6.1?7.3; LTC 1.9?2.9 (Entity II LTC 1.5?2.2; zorgpremie 0.1)
+  - **UI** 1.0?0.4 (-0.6 time-limit); incap 2.3?2.2; family 1.3?1.0
+  - **Entity I** 21.6?22.8 / **Entity II** 4.1?4.5-4.7; dual HermReg cash
+  - **GDP const2025** 642/642/679/885/1169 bn 2025/26/31/50/70 ? total social ~**€165bn** 2025 class
+  - Stocks: salarié pensions **2.11m?3.11m**; public 0.50?0.65; GRAPA 0.12?0.13
+  - Poverty income2024: pop **11%** pensioners **8.5%** unemp **40%** workers 4%; threshold **€1565**/mo
+  - Benefit ratio **-13%** by 2070; low-prod sens ageing **3.3pp** / BR -4%
+- Wrote: sources +2; budgets ~50; cmt +3; lb +8; raw PDF+XLSX; FOI **gap_cev_2026_table_l5 ? answered**; rq_397=done; spawn **rq_398**; ticks=406
+- FOI: closed public; optional residual benefit-ratio annual vector only
+- Next: prio5 **rq_398**; deferred **rq_116** SWA

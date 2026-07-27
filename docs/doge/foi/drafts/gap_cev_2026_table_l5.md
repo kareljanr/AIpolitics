@@ -1,6 +1,6 @@
 # FOI draft — gap_cev_2026_table_l5
 
-Status: **ready** (human send only). Not legal advice.
+Status: **answered** via public CEV 2026 PDF + DATA_FOR_VERG_FR.xlsx (tick406). Residual optional: year-by-year benefit-ratio vector if not tabulated in annex. Not legal advice.
 
 ## Brief
 

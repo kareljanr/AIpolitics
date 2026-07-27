@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T17:15:00Z,rq_396,405,no,Scheduler 60s. Next prio5 rq_397; rq_116 SWA deferred. tick405 HermReg Entity II.
+main,continuous,hole_fill,2026-08-01T17:45:00Z,rq_397,406,no,Scheduler 60s. Next prio5 rq_398; rq_116 SWA deferred. tick406 CEV2026 full tables.
