@@ -3928,3 +3928,15 @@ bud_egov_fte_2022,egov_select,2022,661,,,outturn,src_egov_select_companyweb_nbb,
 bud_egov_fte_2023,egov_select,2023,772,,,outturn,src_egov_select_companyweb_nbb,strong,FTE 772.4 2023
 bud_egov_fte_2024,egov_select,2024,908,,,outturn,src_egov_select_companyweb_nbb,strong,FTE 907.7 2024 (rapid growth dual Smals headcount path)
 bud_egov_unit_omzet_fte_2024,egov_select,2024,123300,,,estimate,src_egov_select_companyweb_nbb,medium,Implied omzet/FTE ~123k 2024 (111.9m/907.7); recharge/billing class not pure wage
+bud_astrid_omzet_2022,astrid,2022,23568911,,,outturn,src_astrid_companyweb_nbb,strong,ASTRID statutory omzet 23568911 EUR 2022
+bud_astrid_omzet_2023,astrid,2023,25931259,,,outturn,src_astrid_companyweb_nbb,strong,ASTRID statutory omzet 25931259 EUR 2023
+bud_astrid_omzet_2024,astrid,2024,26204037,,,outturn,src_astrid_companyweb_nbb,strong,ASTRID statutory omzet 26204037 EUR 2024
+bud_astrid_omzet_2025,astrid,2025,27159629,,,outturn,src_astrid_companyweb_nbb,strong,ASTRID statutory omzet 27159629 EUR 2025
+bud_astrid_net_2022,astrid,2022,11834459,,,outturn,src_astrid_companyweb_nbb,strong,Net result 11834459 EUR 2022
+bud_astrid_net_2023,astrid,2023,14900284,,,outturn,src_astrid_companyweb_nbb,strong,Net result 14900284 EUR 2023
+bud_astrid_net_2024,astrid,2024,14044235,,,outturn,src_astrid_companyweb_nbb,strong,Net result 14044235 EUR 2024
+bud_astrid_net_2025,astrid,2025,14647241,,,outturn,src_astrid_companyweb_nbb,strong,Net result 14647241 EUR 2025
+bud_astrid_equity_2025,astrid,2025,166640503,,,outturn,src_astrid_companyweb_nbb,strong,Equity 166640503 EUR YE2025 (152.1m YE2024)
+bud_astrid_fte_2025,astrid,2025,136,,,outturn,src_astrid_companyweb_nbb,strong,FTE 136.2 2025 (132 2024; 126.2 2023; 121.3 2022)
+bud_astrid_brutomarge_2025,astrid,2025,-25735122,,,outturn,src_astrid_companyweb_nbb,strong,Negative brutomarge -25.7m 2025 (omzet below COGS/services class; other income/subsidies residual)
+bud_astrid_wedge_ibz_vs_omzet_2025,astrid,2025,49357371,,,estimate,src_astrid_companyweb_nbb,medium,IBZ toelage 76.517m - statutory omzet 27.160m = residual 49.4m class not hitting omzet line; recon FOI

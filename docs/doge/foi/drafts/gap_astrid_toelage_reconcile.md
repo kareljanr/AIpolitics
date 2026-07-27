@@ -1,15 +1,25 @@
 # FOI draft — gap_astrid_toelage_reconcile
 
-**Status:** ready (not sent)  
+**Status:** ready (not sent) — **partial public fill tick 322**  
 **Gap ID:** `gap_astrid_toelage_reconcile`  
-**Linked:** `cmt_astrid_financing_2023_27`, `lb_astrid_76m_vs_46m`  
-**Tick:** 285  
+**Linked:** `cmt_astrid_statutory_path_2022_25`, `lb_astrid_triple_wedge`  
+**Tick:** 285 + 322  
 
-Public fill already strong:
-- ASTRID management contract 2023–2027: annual ops allocation **EUR 46.5m**/yr from FOD IBZ; investment covered by user subscriptions **EUR 117m** total.
-- FOD IBZ Strategisch plan 2025–2029: toelage NV ASTRID **EUR 76.517m** 2025.
+### Public fill
 
-Residual: reconcile ~**EUR 30m** delta and full accounts.
+| Item | Amount | Year | Confidence |
+|------|-------:|------|------------|
+| IBZ toelage NV ASTRID | **€76.517m** | 2025 | strong IBZ plan |
+| Management contract ops | **€46.5m**/yr | 2023–27 | strong ASTRID legal |
+| Invest via subscriptions | **€117m** envelope | contract | strong |
+| **Statutory omzet** | **€23.6 → 25.9 → 26.2 → 27.2m** | 2022–25 | **strong NBB** |
+| **Net result** | **€11.8 → 14.9 → 14.0 → 14.6m** | 2022–25 | strong NBB |
+| **Equity** | **€167m** | YE2025 | strong NBB |
+| FTE | **136** | 2025 | strong NBB |
+| Brutomarge | **−€25.7m** | 2025 | strong (other income residual) |
+
+**Triple wedge:** IBZ **€76.5m** vs contract **€46.5m** vs omzet **€27.2m**.  
+**Residual FOI:** cash-by-year recon (other income / capital / zones); free NBB full PDF; ownership/dividends.
 
 ---
 

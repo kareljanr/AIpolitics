@@ -3540,3 +3540,15 @@ Append-only. Each tick adds a short entry.
 - FOI: top FOD recharges residual ready human send
 - Next: prio5 **rq_313**; deferred **rq_116** SWA
 
+
+### 2026-07-30T23:45:00Z - tick 322
+- Unit: **rq_313** (FOI-adjacent hole-fill - **ASTRID statutory dual IBZ toelage wedge**)
+- Found (strong NBB/Companyweb KBO 0263.893.151):
+  - Omzet **23.6 / 25.9 / 26.2 / 27.2m** 2022-25; net **~14-15m**/yr; equity **€167m** YE2025.
+  - FTE **136**; negative brutomarge **−€25.7m** 2025 (other income residual).
+  - **Triple wedge:** IBZ toelage **€76.5m** vs contract ops **€46.5m** vs statutory omzet **€27.2m**.
+  - Closes annual accounts residual of gap_astrid; cash recon of three perimeters still FOI.
+- Wrote: sources +1; entity astrid update; budgets +12; cmt +1; lb +3; FOI gap+draft update; rq_313=done; spawn rq_314; ticks=322
+- FOI: triple recon residual ready human send
+- Next: prio5 **rq_314**; deferred **rq_116** SWA
+

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T23:15:00Z,rq_312,321,no,Scheduler 60s. Next prio5 rq_313; rq_116 SWA deferred. FOI ready. tick321 Egov Select ~112m dual Smals.
+main,continuous,hole_fill,2026-07-30T23:45:00Z,rq_313,322,no,Scheduler 60s. Next prio5 rq_314; rq_116 SWA deferred. FOI ready. tick322 ASTRID omzet 27m triple wedge IBZ 76.5.
