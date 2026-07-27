@@ -3198,3 +3198,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity fapetro; budgets +69; cmt +6; lb +6; FOI gap_ire_sck_partnership_smart_cash ready; draft; rq_283=done; spawn rq_284; ticks=292
 - FOI: partnership/SMART/ETF L5 human send; dual passive + SCK dotatie still ready
 - Next: prio5 **rq_284**; deferred **rq_116** SWA
+
+### 2026-07-30T09:15:00Z - tick 293
+- Unit: **rq_284** (FOI-adjacent hole-fill - **CERN + Denmark RES statistical transfer + intl energy orgs**)
+- Found (strong primary Kamer 55K2933/016 FOD Economie):
+  - **CERN** BA 42.50.35.40.07: **29.87m** 2021 / **31.274m** path 2022-27; CHF **32.668m** BE share 2022.
+  - **DK RES statistical transfer** BA 42.50.352001: liq **22.3 / 0 / 16.8 / 14.6 / 13.1 / 14.3m** 2021-26; CM May2022 @ **12.5 EUR/MWh** indexed; period 2021-25.
+  - **IEA** vol **552k** 2021 (500k Africa one-off) then **52k**; **IRENA** 45k; IEF 33k; R&D energy 155k; UNSCEAR 15k.
+  - Pack class **~48.4m** 2023 (CERN+DK+small).
+- Wrote: sources +1; entity cern_be_contrib; budgets +59; cmt +3; lb +4; FOI gap_cern_return_dk_res_outturn ready; draft; rq_284=done; spawn rq_285; ticks=293
+- FOI: CERN return + DK MWh outturn human send
+- Next: prio5 **rq_285**; deferred **rq_116** SWA

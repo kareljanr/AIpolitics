@@ -3368,3 +3368,62 @@ bud_fusion_labs_pack_2023,fod_economy,2023,1021000,,,budgeted,src_kamer_55k2933_
 bud_etf_transition_2023,fod_economy,2023,24750000,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.90.313201 Energy Transition Fund 24.75m/yr path; call VII ~25m 2023 text
 bud_ire_phys_prot_ba_zero_2023,ire_radioelements,2023,0,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.50.61.41.04 IRE phys prot investments: multi-year table all 0 (transferred/inactive)
 bud_broader_approach_zero_2023,fod_economy,2023,0,,,budgeted,src_kamer_55k2933_ire_sck_fusion_fapetro,strong,BA 42.80.41.40.03 Broader Approach Japan: 0 path 2021-27; federal historic cap 7 MEUR text
+bud_cern_contrib_2021,cern_be_contrib,2021,29869000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 29.869m
+bud_cern_contrib_2022,cern_be_contrib,2022,31274000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 31.274m
+bud_cern_contrib_2023,cern_be_contrib,2023,31274000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 31.274m
+bud_cern_contrib_2024,cern_be_contrib,2024,31274000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 31.274m
+bud_cern_contrib_2025,cern_be_contrib,2025,31274000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 31.274m
+bud_cern_contrib_2026,cern_be_contrib,2026,31274000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 31.274m
+bud_cern_contrib_2027,cern_be_contrib,2027,31274000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.07 Belgian CERN Geneva contribution liq 31.274m
+bud_cern_chf_share_2022,cern_be_contrib,2022,32668100,,,outturn,src_kamer_55k2933_cern_res_intl,strong,Text: BE contribution CERN budget 2022 = CHF 32.668.100 (FX 1 EUR=1.0278 CHF circular for 2023 estimate)
+bud_dk_res_stat_transfer_2021,fod_economy,2021,22336000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer liq 22.336m; max fixed+optional at 12.5 EUR/MWh indexed
+bud_dk_res_stat_transfer_2022,fod_economy,2022,0,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer: 0 in 2022 table (CM 20 May 2022 agreement 2021-2025; price 12.5 EUR/MWh indexed DK CPI)
+bud_dk_res_stat_transfer_2023,fod_economy,2023,16800000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer liq 16.800m; max fixed+optional at 12.5 EUR/MWh indexed
+bud_dk_res_stat_transfer_2024,fod_economy,2024,14625000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer liq 14.625m; max fixed+optional at 12.5 EUR/MWh indexed
+bud_dk_res_stat_transfer_2025,fod_economy,2025,13125000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer liq 13.125m; max fixed+optional at 12.5 EUR/MWh indexed
+bud_dk_res_stat_transfer_2026,fod_economy,2026,14250000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer liq 14.250m; max fixed+optional at 12.5 EUR/MWh indexed
+bud_dk_res_stat_transfer_2027,fod_economy,2027,0,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 Denmark RES statistical transfer liq 0.000m; max fixed+optional at 12.5 EUR/MWh indexed
+bud_dk_res_stat_transfer_eng_2021,fod_economy,2021,29250000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.352001 eng 29.250m 2021 (liq 22.336m)
+bud_rd_energy_2021,fod_economy,2021,36000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 36000
+bud_rd_energy_2022,fod_economy,2022,155000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 155000
+bud_rd_energy_2023,fod_economy,2023,155000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 155k path
+bud_rd_energy_2024,fod_economy,2024,155000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 155k path
+bud_rd_energy_2025,fod_economy,2025,155000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 155k path
+bud_rd_energy_2026,fod_economy,2026,155000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 155k path
+bud_rd_energy_2027,fod_economy,2027,155000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354008 R&D Energie 155k path
+bud_iea_vol_2021,fod_economy,2021,552000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA: 552k 2021 includes 500k one-off voluntary Clean Energy Transition Africa CM 29 Oct 2021
+bud_iea_vol_2022,fod_economy,2022,52000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA voluntary/TCP class path 52k/yr after 2021 spike
+bud_iea_vol_2023,fod_economy,2023,52000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA voluntary/TCP class path 52k/yr after 2021 spike
+bud_iea_vol_2024,fod_economy,2024,52000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA voluntary/TCP class path 52k/yr after 2021 spike
+bud_iea_vol_2025,fod_economy,2025,52000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA voluntary/TCP class path 52k/yr after 2021 spike
+bud_iea_vol_2026,fod_economy,2026,52000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA voluntary/TCP class path 52k/yr after 2021 spike
+bud_iea_vol_2027,fod_economy,2027,52000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354009 IEA voluntary/TCP class path 52k/yr after 2021 spike
+bud_iea_tcp_pack_class,fod_economy,2021,35090,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,IEA TCPs pack DSM+Wind+OES+ISGAN total 35.090 EUR class (text p95)
+bud_irena_2021,fod_economy,2021,31000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA contribution 31k 2021
+bud_irena_2022,fod_economy,2022,45000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA 45k path 2022-27
+bud_irena_2023,fod_economy,2023,45000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA 45k path 2022-27
+bud_irena_2024,fod_economy,2024,45000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA 45k path 2022-27
+bud_irena_2025,fod_economy,2025,45000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA 45k path 2022-27
+bud_irena_2026,fod_economy,2026,45000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA 45k path 2022-27
+bud_irena_2027,fod_economy,2027,45000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354010 IRENA 45k path 2022-27
+bud_ief_2021,fod_economy,2021,24000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 24k 2021
+bud_ief_2022,fod_economy,2022,33000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 33k path
+bud_ief_2023,fod_economy,2023,33000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 33k path
+bud_ief_2024,fod_economy,2024,33000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 33k path
+bud_ief_2025,fod_economy,2025,33000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 33k path
+bud_ief_2026,fod_economy,2026,33000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 33k path
+bud_ief_2027,fod_economy,2027,33000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.354012 IEF 33k path
+bud_hlg_research_reactors_2021,fod_economy,2021,5000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.11 HLG research reactors contribution 5k/yr
+bud_hlg_research_reactors_2022,fod_economy,2022,5000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.11 HLG research reactors contribution 5k/yr
+bud_hlg_research_reactors_2023,fod_economy,2023,5000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.11 HLG research reactors contribution 5k/yr
+bud_hlg_research_reactors_2024,fod_economy,2024,5000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.11 HLG research reactors contribution 5k/yr
+bud_hlg_research_reactors_2025,fod_economy,2025,5000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.11 HLG research reactors contribution 5k/yr
+bud_hlg_research_reactors_2026,fod_economy,2026,5000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.11 HLG research reactors contribution 5k/yr
+bud_unscear_2021,fod_economy,2021,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_unscear_2022,fod_economy,2022,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_unscear_2023,fod_economy,2023,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_unscear_2024,fod_economy,2024,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_unscear_2025,fod_economy,2025,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_unscear_2026,fod_economy,2026,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_unscear_2027,fod_economy,2027,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
+bud_intl_energy_orgs_pack_2023,fod_economy,2023,48379000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,Sum 2023 class: CERN 31.274 + DK RES 16.8 + R&D 0.155 + IEA 0.052 + IRENA 0.045 + IEF 0.033 + HLG 0.005 + UNSCEAR 0.015 = ~48.4m
