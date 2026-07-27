@@ -4668,3 +4668,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~50; cmt +3; lb +8; raw PDF+XLSX; FOI **gap_cev_2026_table_l5 ? answered**; rq_397=done; spawn **rq_398**; ticks=406
 - FOI: closed public; optional residual benefit-ratio annual vector only
 - Next: prio5 **rq_398**; deferred **rq_116** SWA
+
+### 2026-08-01T18:15:00Z - tick 407
+- Unit: **rq_398** (FOI-adjacent hole-fill - **flexi-jobs CoA+BFP art.192 evaluation ONSS volume + HERMES fiscal**)
+- Found (strong primary REP_FLEXIJOBS / CoA+BFP Jan 2026 report):
+  - Volume end-2024: **184360** workers · **~14m** hours · Q4 FTE **29500** (<1pct of 3.4m RSZ FTE)
+  - **Wage mass EUR 220.071m** (from 4.769m early path); avg hour M **16.38** / F **15.00**; **~85pct Flanders**; 65+ share **18pct**
+  - Worker flexi: no PIT/SSC; employer special rate **28pct** legal SSC (table8)
+  - HERMES abolish **horeca** flexi from 2026 ? 2030 saldo **+105.8m (V1 supply kept)** / **+212.9m (V2 supply lost)** = **+0.01 / +0.03pp GDP**
+  - Ex ante 2026: flexi wage **-294m** ? regular/black **+386m** net **+92m**; employer SSC net **-43m**
+  - Goals: blackwork detections **not down** overall; event-sector abuse analysis **blocked** (short window + unclear improper-use definition)
+  - Non-pensioner tax-free cap **12k EUR/yr** (+125pct SSC penalty path)
+- Wrote: sources +1; budgets +7; cmt +2; lb +8; raw PDF; FOI **gap_flexi_te_multiyear** ready; rq_398=done; spawn **rq_399**; ticks=407
+- FOI: multi-year all-sector TE matrix human send only
+- Next: prio5 **rq_399**; deferred **rq_116** SWA

@@ -6043,3 +6043,11 @@ bud_cev2026_entity2_2031,sec_s1312,2031,27854293000,,,esa_outlook_pctgdp,src_cev
 bud_cev2026_entity2_2050,sec_s1312,2050,41598666000,,,esa_outlook_pctgdp,src_cev_2026_xlsx,strong,"CEV Entity II social exp %GDP 4.7pct GDP; EUR = pct * GDP_const2025 885078m (CEV row PIB); dual press 25.7-27.2; tick406"
 bud_cev2026_entity2_2070,sec_s1312,2070,52590060000,,,esa_outlook_pctgdp,src_cev_2026_xlsx,strong,"CEV Entity II social exp %GDP 4.5pct GDP; EUR = pct * GDP_const2025 1168668m (CEV row PIB); dual press 25.7-27.2; tick406"
 bud_cev2026_ageing_cost_2025_70,gg_belgium,2070,,,0,esa_outlook_delta,src_cev_2026_xlsx,strong,"CEV ageing cost +1.5pp GDP 2025-2070 (pens +0.7 health +2.1 UI -0.6 fam -0.4 incap -0.1 other -0.2); low-prod sens +3.3pp; pension reform saves 1.4pp pens; tick406"
+
+bud_flexi_wage_mass_2024,sec_ss,2024,220071000,,,outturn_onss,src_fpb_flexijobs_coa_2026,strong,"ONSS flexi total remun/wage mass end-2024 EUR 220.071m (from 4.769m early series); CoA+BFP p18/22 strong; tick407"
+bud_flexi_fte_q4_2024,sec_ss,2024,0,,,stock_fte,src_fpb_flexijobs_coa_2026,strong,"Q4-2024 flexi 29500 FTE vs RSZ total 3.4m FTE (<1pct incl student work); amount 0=stock not cash; strong; tick407"
+bud_flexi_horeca_abolish_v1_saldo_2030,sec_federal,2030,105800000,,,sim_hermes,src_fpb_flexijobs_coa_2026,strong,"HERMES abolish horeca flexi V1 (supply kept): public balance +105.8m 2030 prices = +0.01pp GDP; strong sim; tick407"
+bud_flexi_horeca_abolish_v2_saldo_2030,sec_federal,2030,212900000,,,sim_hermes,src_fpb_flexijobs_coa_2026,strong,"HERMES abolish horeca flexi V2 (supply lost UI pool): public balance +212.9m 2030 = +0.03pp GDP; strong sim; tick407"
+bud_flexi_exante_wage_mass_shift_2026,sec_ss,2026,92000000,,,sim_hermes_exante,src_fpb_flexijobs_coa_2026,strong,"Ex ante 2026 horeca: flexi wage mass -294m / regular+black +386m net +92m; employer SSC net -43m (flexi -82 +reg +39); strong; tick407"
+bud_flexi_v1_hh_income_2030,gg_belgium,2030,-161200000,,,sim_hermes,src_fpb_flexijobs_coa_2026,strong,"V1 available HH income -161.2m 2030; firm margins -47.4m; revenues +116.2m spend +8.6m; strong; tick407"
+bud_flexi_v2_hh_income_2030,gg_belgium,2030,-126600000,,,sim_hermes,src_fpb_flexijobs_coa_2026,strong,"V2 available HH income -126.6m; UI spend -108.3m; firm margins -105.0m; revenues +179.2m; strong; tick407"
