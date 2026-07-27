@@ -2914,3 +2914,9 @@ bud_sciensano_personnel_pack_2025,sciensano,2025,82200529,,,budgeted,src_sciensa
 bud_sciensano_total_2026,sciensano,2026,133191956,,,budgeted,src_sciensano_beheers_2024_29,strong,Path 133.192m balanced 2026-29 same as 2025 annex
 bud_sciensano_ra_budget_2024,sciensano,2024,132000000,,,outturn,src_sciensano_ra_2024,strong,RA2024 key figures: budget 132m of which 77m external financing (vs annex total 135.7m perimeter note)
 bud_sciensano_external_fin_2024,sciensano,2024,77000000,,,outturn,src_sciensano_ra_2024,strong,RA2024: 77m external financing class of 132m total
+bud_apefe_fonct_fwb_2025,apefe,2025,471000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,WBI AB41.60.01 Subvention APEFE fonctionnement CF 471k eng+liq 2025
+bud_apefe_fonct_fwb_2026,apefe,2026,471000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,WBI AB41.60.01 Subvention APEFE fonctionnement CF 471k eng+liq 2026
+bud_apefe_fonct_wal_2025,apefe,2025,510000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,WBI AB41.60.02 Subvention APEFE fonctionnement RW 510k 2025
+bud_apefe_fonct_wal_2026,apefe,2026,490000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,WBI AB41.60.02 Subvention APEFE fonctionnement RW 490k 2026
+bud_apefe_fonct_sum_2025,apefe,2025,981000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,Derived CF+RW fonctionment 471+510=981k 2025
+bud_apefe_fonct_sum_2026,apefe,2026,961000,,,budgeted,src_fwb_wbi_apefe_dots_2026,strong,Derived CF+RW fonctionment 471+490=961k 2026

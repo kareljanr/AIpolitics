@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T20:30:00Z,rq_258,267,no,Scheduler 60s. Next prio5 rq_259; rq_116 SWA deferred. FOI ready human send. tick267 Sciensano 135.7m path.
+main,continuous,hole_fill,2026-07-29T21:00:00Z,rq_259,268,no,Scheduler 60s. Next prio5 rq_260; rq_116 SWA deferred. FOI ready human send. tick268 APEFE fonct 981k.

@@ -2883,3 +2883,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity sciensano; budgets +19; cmt +1; lb +3; FOI gap_sciensano_outturn_l5 ready; draft; raw PDFs; rq_258=done; spawn rq_259; ticks=267
 - FOI: Sciensano outturn + L5 external human send; AGMJ/APEFE residual still ready
 - Next: prio5 **rq_259**; deferred **rq_116** SWA
+
+### 2026-07-29T21:00:00Z — tick 268
+- Unit: **rq_259** (FOI-adjacent hole-fill — **APEFE fonctionnement dots dual Enabel**)
+- Found (strong primary FWB/WBI budget BI2026 p699+justificatifs):
+  - **APEFE fonctionnement FWB** AB 41.60.01: **€471k** eng+liq 2025 and 2026.
+  - **APEFE fonctionnement WAL** AB 41.60.02: **€510k** 2025 / **€490k** 2026.
+  - Combined public fonct dots **€981k** 2025 / **€961k** 2026.
+  - WBI seconded staff to APEFE recovered via WBI recettes (not in APEFE fonct lines).
+  - Project financing via bilat/sectoriel programmes residual FOI (not named APEFE in project lines).
+  - Dual **Enabel €435.6m** 2025 vs APEFE public fonct **~€1m** (scale gap; not additive).
+- Wrote: sources +1; budgets +6; cmt +1; lb +2; entity apefe; FOI gap_apefe partial update; draft note; rq_259=done; spawn rq_260; ticks=268
+- FOI: APEFE full TCO+projects still ready human send; AGMJ residual still ready
+- Next: prio5 **rq_260**; deferred **rq_116** SWA; progress@270 in 2 ticks

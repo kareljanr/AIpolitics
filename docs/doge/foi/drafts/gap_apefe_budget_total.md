@@ -1,8 +1,8 @@
 # FOI draft — gap_apefe_budget_total
 
-Status: **ready** (human send only)  
+Status: **ready** (human send only) — partial public fill tick268  
 Internal ref: `gap_apefe_budget_total`  
-Tick: 261
+Tick: 261 (opened) · 268 (fonctionment dots filled)
 
 ### Dual public side filled
 
@@ -12,9 +12,12 @@ Tick: 261
 | Enabel staff costs | €91.022m | 2025 | same |
 | Enabel staff headcount | 2,369 | 2026-01 | same |
 | **APEFE** structure | ~20 HQ + 52 abroad + 6 expats | 2024 | RA2024 |
-| APEFE total budget | Unknown | 2024-26 | this FOI |
+| APEFE fonct. FWB (AB 41.60.01) | **€471k** eng+liq | 2025-26 | WBI budget BI2026 |
+| APEFE fonct. WAL (AB 41.60.02) | **€510k** / **€490k** | 2025 / 2026 | same |
+| APEFE fonct. sum | **€981k** / **€961k** | 2025 / 2026 | derived |
+| APEFE full institutional + projets | residual | 2024-26 | this FOI |
 
-APEFE is linked to WBI (shared administrateur délégué) and tutelle FWB + Wallonie + federal development minister.
+APEFE is linked to WBI (shared AG; WBI staff seconded to APEFE recovered via WBI recettes) and tutelle FWB + Wallonie + federal development minister.
 
 ---
 
@@ -44,10 +47,12 @@ je sollicite la communication des documents suivants :
 
 1. Budget / comptes de recettes et dépenses de l'APEFE pour les exercices
    2024, 2025 et 2026 (ou dernier arrêté disponible), avec ventilation :
-   - dotations FWB / Région wallonne / DGD fédérale / UE / autres
-   - personnel / fonctionnement / programmes pays
+   - au-delà des subventions de fonctionnement publiques déjà connues
+     (FWB €471k + WAL €510k/490k via WBI AB 41.60.01/02)
+   - financements de projets (bilatéral / sectoriel / UE / DGD)
+   - personnel propre vs agents WBI détachés (coût réel)
 
-2. Lien éventuel avec le budget WBI (dotations croisées, personnel partagé).
+2. Lien avec le budget WBI (dotations croisées, personnel partagé secondé).
 
 3. Top L5 projets/pays avec montants 2024-2026 si disponible en machine-readable.
 
