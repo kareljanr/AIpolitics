@@ -1395,3 +1395,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 5; budgets 19; cmt 4; lb 2; entities 4; rq_142=done; FOI residual ready.
 - FOI: gap_interco_dividends_l5 (municipal dividends + equity cash) human send.
 - Next: prio6 **rq_148 climate** / **rq_144 Charleroi** / **rq_120 Myria**.
+
+### 2026-07-27T23:55:00Z ? tick 151
+- Unit: **rq_148** (Climate/energy named subsidies beyond offshore)
+- Found (strong Rekenhof 2025 + VNR + Fluvius + NBB):
+  - **Flanders RES support 2014-23: EUR 12.97bn** (~1.8bn on budget; rest on electricity bill).
+  - **GSC:** 2023 **EUR 822m** · cum **10.51bn**; NBB broader green cert **956/858m 2023-24**.
+  - **WKC CHP:** 2023 **EUR 174m** · cum **1.79bn**; Fluvius cert inventory **EUR 602m** EOY2025 (CHP 521m).
+  - **Heat premiums (warmtepomp etc):** 2023 **EUR 22m** · cum **112m** 2014-23 (netbeheerder).
+  - **Calls/ad hoc:** groene warmte **109m** · PV premie **158m** · retro **159m** · warmtenet **53.5m** · call stroom **37m**.
+  - **VL DSO vergoedingen:** GSC 91.5?148?148?**67m** 2021-24; WKC **25m 2024 / 60m 2025**.
+  - WAL green cert already mapped **323/288m**; offshore already mapped separately.
+- Wrote: sources 3; budgets 26; cmt 2; lb 3; rq_148=done; FOI residual ready.
+- FOI: gap_vl_odv_mvp_cash (REG digit series + MVP total) human send.
+- Next: prio6 **rq_144 Charleroi** / **rq_120 Myria** / **rq_149 housing**.

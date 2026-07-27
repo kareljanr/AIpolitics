@@ -1184,3 +1184,29 @@ bud_aquafin_asset_mgmt_2024,aquafin,2024,54300000,,,outturn,src_aquafin_jv_esg_2
 bud_aquafin_lokaal_pact_2026_30,aquafin,2026,500000000,,,commitment,src_vl_aquafin_lokaal_pact_500m,strong,Lokaal Pact municipal sewers Aquafin takeover 500m 2026-2030
 bud_vivaqua_capital_bru_path,vivaqua,2026,180000000,,,budgeted,src_bru_vivaqua_180m,medium,BCR capital injection/stake Vivaqua 180m path (finops + press 49pct)
 bud_fl_wastewater_d92_2024,vlaanderen_gov,2024,82000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders D.92 wastewater investment grants non-public 82m 2024 (NBB A4)
+bud_vl_gsc_2021,vlaanderen_gov,2021,996000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders GSC support 996m 2021 CoA T10
+bud_vl_gsc_2022,vlaanderen_gov,2022,1030000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders GSC support 1030m 2022
+bud_vl_gsc_2023,vlaanderen_gov,2023,822000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders GSC support 822m 2023 CoA (NBB green cert 956m broader)
+bud_vl_gsc_cum_2014_23,vlaanderen_gov,2023,10508000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders GSC cumulative 10.508bn 2014-2023
+bud_vl_wkc_2021,vlaanderen_gov,2021,236000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders WKC CHP certificates 236m 2021
+bud_vl_wkc_2022,vlaanderen_gov,2022,185000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders WKC 185m 2022
+bud_vl_wkc_2023,vlaanderen_gov,2023,174000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders WKC 174m 2023
+bud_vl_wkc_cum_2014_23,vlaanderen_gov,2023,1785000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Flanders WKC cum 1.785bn 2014-2023
+bud_vl_heat_premiums_2023,vlaanderen_gov,2023,22000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Netbeheerder heat pump solar boiler boiler premiums 22m 2023
+bud_vl_heat_premiums_cum_2014_23,vlaanderen_gov,2023,112000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Netbeheerder heat premiums cum 112m 2014-2023 (incl warmtepomp)
+bud_vl_call_groene_warmte_cum,vlaanderen_gov,2023,109000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Call groene warmte cum 109m 2014-2023 (70.4m in 2021-23)
+bud_vl_call_groene_stroom_cum,vlaanderen_gov,2023,37000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Call groene stroom project support 37.1m 2018-2023
+bud_vl_pv_premie_cum,vlaanderen_gov,2023,158000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,PV premie cum 158m (spike 126m 2023 class)
+bud_vl_retro_invest_premie_cum,vlaanderen_gov,2023,159000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Retroactieve investeringspremie cum 159m
+bud_vl_warmtenet_adhoc_cum,vlaanderen_gov,2023,53500000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Ad hoc warmtenetten subsidies 53.5m 2017-2022
+bud_vl_res_support_total_2023,vlaanderen_gov,2023,1174000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Total Flanders renewable support 1.174bn 2023 CoA T10
+bud_vl_res_support_cum_2014_23,vlaanderen_gov,2023,12970000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,Total Flanders renewable support 12.97bn 2014-2023 (~1.8bn on budget rest on electricity bill)
+bud_vl_gsc_vergoeding_dso_2021,vlaanderen_gov,2021,91512000,,,outturn,src_vnr_odv_horch_2025,strong,VL Gewest vergoeding GSC to electricity DSOs art 6.4.14
+bud_vl_gsc_vergoeding_dso_2022,vlaanderen_gov,2022,148000050,,,outturn,src_vnr_odv_horch_2025,strong,VL GSC vergoeding DSO 148.0m 2022
+bud_vl_gsc_vergoeding_dso_2023,vlaanderen_gov,2023,148000000,,,outturn,src_vnr_odv_horch_2025,strong,VL GSC vergoeding DSO 148.0m 2023
+bud_vl_gsc_vergoeding_dso_2024,vlaanderen_gov,2024,67000000,,,outturn,src_vnr_odv_horch_2025,strong,VL GSC vergoeding DSO 67.0m 2024 (then 0 2025 announced)
+bud_vl_wkc_vergoeding_dso_2024,vlaanderen_gov,2024,25000000,,,outturn,src_vnr_odv_horch_2025,strong,VL WKC vergoeding DSO 25.0m 2024
+bud_vl_wkc_vergoeding_dso_2025,vlaanderen_gov,2025,60000000,,,budgeted,src_vnr_odv_horch_2025,medium,VL WKC vergoeding DSO 60.0m 2025 announced
+bud_fluvius_gec_chp_inventory_2025,fluvius,2025,602000000,,,outturn,src_fluvius_gsc_inventory_2025,strong,Fluvius GEC+CHP certificates inventory 602m EOY2025 (521m CHP)
+bud_fl_green_cert_nbb_2023,vlaanderen_gov,2023,956000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,NBB FL D.31 green certificates 956m 2023 (broader than CoA GSC 822m)
+bud_fl_green_cert_nbb_2024,vlaanderen_gov,2024,858000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,NBB FL D.31 green certificates 858m 2024
