@@ -2239,3 +2239,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 13; cmt 2; lb 2; entity note; foi note; rq_207=done; seeded **rq_208**.
 - FOI: ZBA side-PC residual + Digipolis 2026 personnel + Mons BI2026 + culture register human send.
 - Next: prio5 **rq_208**; deferred **rq_116** SWA.
+
+### 2026-07-28T21:45:00Z - tick 215
+- Unit: **rq_208** (FOI-adjacent hole-fill - **Brandweerzone Antwerpen** city toelage 2026)
+- Found (strong ebesluit 2026_CBS_01117 college 13 Feb 2026):
+  - **Package locked EUR 87.459m**: werk **80.885m** + respons **3.400m** + invest **3.174m**.
+  - MJP werk envelope **82.799m** before index withhold **1.914m** (package class if released **89.372m**).
+  - Vs **2025 locked 81.535m** — jump **+5.9m**; invest 3.17 vs 1.75; communes Antwerpen+Wijnegem 2026-31.
+  - **Same-year safety stack 2026**: PZA **320.677m** + BZA **87.459m** = **408.135m**.
+  - **Same-year care+safety**: ZBA **89.288** + PZA **320.677** + BZA **87.459** = **497.424m**.
+  - Side Finance-PC toelagen via separate decisions residual FOI.
+- Wrote: sources 1; budgets 8; cmt 3; lb 3; entity/foi notes; rq_208=done; seeded **rq_209**.
+- FOI: BZA side-PC + Digipolis 2026 personnel + Mons BI2026 + AG SO/VESPA/MPA/CIA packages next public fill.
+- Next: prio5 **rq_209**; deferred **rq_116** SWA.

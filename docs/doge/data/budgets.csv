@@ -2270,3 +2270,11 @@ bud_zorgbedrijf_respons_2026,city_antwerpen,2026,25976962,,,budgeted,src_ebeslui
 bud_zorgbedrijf_invest_2026,city_antwerpen,2026,14500000,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA investeringstoelage 14.500m 2026
 bud_zorgbedrijf_package_mjp_class_2026,city_antwerpen,2026,89889419.05,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,ZBA package class if index released 89.889m (MJP werk 49.412 + respons 25.977 + invest 14.500)
 bud_antwerp_care_safety_stack_2026_class,city_antwerpen,2026,491499372,,,budgeted,src_ebesluit_zorgbedrijf_2026,strong,Care+safety stack class ZBA89.3 + PZA320.7 + BZA81.5 mixed years ~491.5m
+bud_bza_city_package_locked_2026,city_antwerpen,2026,87458793.60,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA city package locked 87.459m 2026 (werk 80.885 + respons 3.400 + invest 3.174)
+bud_bza_werking_locked_2026,city_antwerpen,2026,80885164.52,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA werkingstoelage locked 80.885m 2026 after index withhold
+bud_bza_werking_mjp_2026,city_antwerpen,2026,82798774.14,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA MJP werking envelope 82.799m 2026 before index 1.914m
+bud_bza_respons_2026,city_antwerpen,2026,3399835,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA responsabiliseringsbijdrage 3.400m 2026
+bud_bza_invest_2026,city_antwerpen,2026,3173794.08,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA investeringstoelage 3.174m 2026
+bud_bza_package_mjp_class_2026,city_antwerpen,2026,89372403.22,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA package class if index released 89.372m (MJP werk+respons+invest)
+bud_antwerp_safety_stack_2026,city_antwerpen,2026,408135471.60,,,budgeted,src_ebesluit_bza_toelage_2026,strong,Same-year safety stack PZA 320.677 + BZA 87.459 = 408.135m 2026
+bud_antwerp_care_safety_stack_sameyear_2026,city_antwerpen,2026,497423621.41,,,budgeted,src_ebesluit_bza_toelage_2026,strong,Same-year care+safety ZBA89.288 + PZA320.677 + BZA87.459 = 497.424m 2026
