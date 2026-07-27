@@ -2222,3 +2222,8 @@ bud_freeclinic_msoc_2026,city_antwerpen,2026,203698.39,,,budgeted,src_ebesluit_f
 bud_freeclinic_goia_2026,city_antwerpen,2026,263509.37,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic GoiA families dual Zorgbedrijf 263.5k 2026
 bud_freeclinic_nomaad_2026,city_antwerpen,2026,507173.54,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic De Nomaad activation harm-reduction 507.2k 2026
 bud_freeclinic_package_2026,city_antwerpen,2026,974381.30,,,budgeted,src_ebesluit_freeclinic_2026,strong,Free Clinic 3 projects sum 974.4k 2026
+bud_caw_kwadraat_2026,city_antwerpen,2026,1280092.90,,,budgeted,src_ebesluit_caw_kwadraat_2026,strong,CAW Kwadraat risk-youth package 1.280m 2026
+bud_caw_kwadraat_max_2026_31,city_antwerpen,2031,7691179.54,,,commitment,src_ebesluit_caw_kwadraat_2026,strong,CAW Kwadraat max 7.691m 2026-2031
+bud_caw_parkours_2026,city_antwerpen,2026,993348.76,,,budgeted,src_ebesluit_caw_parkours_2026,strong,CAW Parkours homeless youth 18-25 993.3k 2026
+bud_caw_parkours_2027,city_antwerpen,2027,996326.69,,,budgeted,src_ebesluit_caw_parkours_2026,strong,CAW Parkours 996.3k 2027
+bud_caw_sample_2026,city_antwerpen,2026,2273441.66,,,budgeted,src_ebesluit_caw_kwadraat_2026,strong,CAW Kwadraat+Parkours sample sum 2.273m 2026

@@ -2170,3 +2170,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 6; cmt 3; lb 3; foi notes; rq_202=done; seeded **rq_203**.
 - FOI: residual culture partners + full register + Mons BI2026 human send; CAW/Zorgbedrijf deepen next.
 - Next: prio5 **rq_203**; deferred **rq_116** SWA.
+
+### 2026-07-28T19:45:00Z - tick 209
+- Unit: **rq_203** (FOI-adjacent hole-fill - **CAW Antwerpen** social L5)
+- Found (strong ebesluit primary):
+  - **CAW Kwadraat 2026 EUR 1.280m** (risk youth 9-21); max **7.691m** 2026-2031; split safety/education/health/stadsmarinier.
+  - **CAW Parkours 2026 EUR 993.3k** / **2027 996.3k** (homeless youth 18-25 shelter); 2y sum **1.990m**.
+  - CAW sample sum **2.273m** 2026 (+ FreeClinic 0.97m social third-party class ~3.25m).
+- Wrote: sources 2; budgets 5; cmt 3; lb 3; rq_203=done; seeded **rq_204**.
+- FOI: residual CAW lines + Zorgbedrijf full package + Mons BI2026 + culture partners human send.
+- Next: **tick 210 progress coverage % + waste top10** then prio5 **rq_204**; deferred **rq_116** SWA.
