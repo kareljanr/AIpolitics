@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T09:45:00Z,rq_285,294,no,Scheduler 60s. Next prio5 rq_286; rq_116 SWA deferred. FOI ready. tick294 CREG crisis pack ~2.09bn 2023 + CCE/INR.
+main,continuous,hole_fill,2026-07-30T10:15:00Z,rq_286,295,no,Scheduler 60s. Next prio5 rq_287; rq_116 SWA deferred. FOI ready. tick295 H2 RRF 300m eng + press concession BA path.

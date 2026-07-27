@@ -3454,3 +3454,27 @@ bud_icn_inr_dotatie_2024,icn_inr,2024,1291000,,,budgeted,src_kamer_55k2933_creg_
 bud_icn_inr_dotatie_2025,icn_inr,2025,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
 bud_icn_inr_dotatie_2026,icn_inr,2026,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
 bud_icn_inr_dotatie_2027,icn_inr,2027,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_h2_call_eng_2022,fed_h2_rrf,2022,300000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313203 (=31.32.03 compact) engagement H2 innovation call/backbone; text: 2022 credits blocked postponed to 2023 same amount — not additive double cash
+bud_h2_call_eng_2023,fed_h2_rrf,2023,300000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313203 (=31.32.03 compact) engagement H2 innovation call/backbone; text: 2022 credits blocked postponed to 2023 same amount — not additive double cash
+bud_h2_call_liq_2024,fed_h2_rrf,2024,4000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313203 liquidations path; RRF demo projects target -50kt CO2/yr from 2026
+bud_h2_call_liq_2025,fed_h2_rrf,2025,4000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313203 liquidations path; RRF demo projects target -50kt CO2/yr from 2026
+bud_h2_call_liq_2026,fed_h2_rrf,2026,24000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313203 liquidations path; RRF demo projects target -50kt CO2/yr from 2026
+bud_h2_call_liq_2027,fed_h2_rrf,2027,86000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313203 liquidations path; RRF demo projects target -50kt CO2/yr from 2026
+bud_h2_import_infra_eng_2023,fed_h2_rrf,2023,10000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313204 eng 10m CM 20Oct2021 axis5 H2 import infrastructure call
+bud_h2_import_infra_liq_2023,fed_h2_rrf,2023,2000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313204 liquidations H2 import infrastructure
+bud_h2_import_infra_liq_2024,fed_h2_rrf,2024,3000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313204 liquidations H2 import infrastructure
+bud_h2_import_infra_liq_2025,fed_h2_rrf,2025,3000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313204 liquidations H2 import infrastructure
+bud_h2_import_infra_liq_2026,fed_h2_rrf,2026,2000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313204 liquidations H2 import infrastructure
+bud_h2_green_steel_electrolyser_eng_2023,fed_h2_rrf,2023,6000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313205 eng 6m CM 20Oct2021 flexible electrolyser for green steel axis5
+bud_h2_green_steel_electrolyser_liq_2023,fed_h2_rrf,2023,1000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313205 liquidations flexible electrolyser green steel
+bud_h2_green_steel_electrolyser_liq_2024,fed_h2_rrf,2024,2000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313205 liquidations flexible electrolyser green steel
+bud_h2_green_steel_electrolyser_liq_2025,fed_h2_rrf,2025,2000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313205 liquidations flexible electrolyser green steel
+bud_h2_green_steel_electrolyser_liq_2026,fed_h2_rrf,2026,1000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 42.50.313205 liquidations flexible electrolyser green steel
+bud_h2_rrf_pack_eng_2023,fed_h2_rrf,2023,316000000,,,budgeted,src_kamer_55k2933_h2_press,strong,Sum eng class 2023: 300m H2 call/backbone + 10m import + 6m electrolyser = 316m (300m may be re-inscription of 2022 blocked credits)
+bud_press_concession_ba_2021,bpost,2021,167993000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 170000000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_press_concession_ba_2022,bpost,2022,175700000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 178593000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_press_concession_ba_2023,bpost,2023,175700000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 178593000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_press_concession_ba_2024,bpost,2024,129000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 129000000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_press_concession_ba_2025,bpost,2025,132000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 132000000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_press_concession_ba_2026,bpost,2026,135000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 135000000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_press_concession_ba_2027,bpost,2027,138000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 138000000; CM 25Mar2021; amounts still provisional in 2023 doc

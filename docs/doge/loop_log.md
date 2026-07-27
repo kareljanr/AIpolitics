@@ -3220,3 +3220,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities cce_crb+icn_inr; budgets +27; cmt +5; lb +5; FOI gap_creg_crisis_outturn ready; draft; rq_285=done; spawn rq_286; ticks=294
 - FOI: CREG crisis BA outturn + FFS dual recon human send
 - Next: prio5 **rq_286**; deferred **rq_116** SWA
+
+### 2026-07-30T10:15:00Z - tick 295
+- Unit: **rq_286** (FOI-adjacent hole-fill - **federal H2 RRF pack + press concession BA**)
+- Found (strong primary Kamer 55K2933/016):
+  - **BA 42.50.313203** H2 call/backbone: eng **300m** 2022+2023 (re-inscription class); liq **4/4/24/86m** 2024-27; RRF -50kt CO2 target.
+  - **BA 313204** H2 import infra: eng **10m**; liq **2/3/3/2m**.
+  - **BA 313205** green steel electrolyser: eng **6m**; liq **1/2/2/1m**.
+  - Pack eng class **~316m**; dual SMR 100m separate.
+  - **BA 43.40.31.22.01** press concession: liq **168/175.7/175.7** then **129-138m** path 2021-27 (upgrades 125m secondary).
+- Wrote: sources +1; entity fed_h2_rrf; budgets +25; cmt +5; lb +5; FOI gap_h2_rrf_l5_winners ready; draft; rq_286=done; spawn rq_287; ticks=295
+- FOI: H2 L5 winners human send; bpost press dual already ready
+- Next: prio5 **rq_287**; deferred **rq_116** SWA
