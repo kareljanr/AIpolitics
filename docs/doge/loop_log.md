@@ -3827,3 +3827,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity tax_shelter_av; budgets +31 series; tax_expenditures +4; cmt +1; lb +2; FOI gap_taxshelter L5 ready; rq_334=done; spawn rq_335; ticks=343
 - FOI: top beneficiaries L5 ready human send
 - Next: prio5 **rq_335**; deferred **rq_116** SWA
+
+### 2026-07-31T10:45:00Z - tick 344
+- Unit: **rq_335** (FOI-adjacent hole-fill - **Wallimage + Screen Flanders dual economic AV**)
+- Found (strong Wallimage Bilan 2024/2025 PDF + VAF Screen Flanders page + Gaming page):
+  - **Wallimage Coproductions invest:** **€7.0948m** 2024 (49 projects) · **€6.686m** 2025 (47 projects).
+  - **Walloon spend generated:** **€46.232m** 2024 (~652%) · **€51.436m** 2025 (**769%** record).
+  - **Wallimage Entreprises:** **€3.720m** (12 deals 2024) · **€4.191m** (19 deals 2025); stock **€13.59m** EOY24 → **€10.23m** EOY25.
+  - **Production volant** capacity **€6.5m/yr** since 2018; **Gaming** FY2026 budget **€2.0m**.
+  - **Screen Flanders:** VLAIO Hermes **€3.5m/yr**; max **€400k** recoupable advances; VAF admin.
+  - Dual stack: economic (Wallimage~€10.8m + SF €3.5m) on top of culture (VAF ~€30.7m + CCA >€44m) + federal Tax Shelter TE.
+- Wrote: sources +4; entities +2; budgets +15; cmt +2; lb +3; FOI gap_wallimage_sf_econ_l5 ready; rq_335=done; spawn rq_336; ticks=344
+- FOI: named awards L5 both funds + Hermes cash path ready human send
+- Next: prio5 **rq_336**; deferred **rq_116** SWA
