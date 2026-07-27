@@ -2335,3 +2335,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 6; cmt 3; lb 2; foi note; rq_214=done; seeded **rq_215**.
 - FOI: residual culture partners + Digipolis + Mons human send.
 - Next: prio5 **rq_215**; deferred **rq_116** SWA.
+
+### 2026-07-29T00:15:00Z - tick 223
+- Unit: **rq_215** (FOI-adjacent hole-fill - **HETPALEIS** + Rataplan werk + Koraal)
+- Found (strong ebesluit):
+  - **HETPALEIS 2026 EUR 3.412m**: exp **2.922m** + invest **0.490m**; 6y max **18.938m**; invest plan 0.98m 2026-27.
+  - **Rataplan werk EUR 278.5k** 2026 (culture 193.5 + buurt 85); 3y sum 674.8k (invest 600k prior separate).
+  - **Koraal youth EUR 655k** college lock (of 662k afsprakennota; 7k Vast Bureau residual).
+  - Culture L5 sample **12 houses EUR 12.692m** of ~35m envelope (~36% class); residual ~4 partners (DeRoma Trix DeStudio AAW).
+- Wrote: sources 3; budgets 6; cmt 4; lb 3; foi note; rq_215=done; seeded **rq_216**.
+- FOI: residual culture partners + Digipolis + Mons human send.
+- Next: prio5 **rq_216**; deferred **rq_116** SWA.

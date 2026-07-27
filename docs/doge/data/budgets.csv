@@ -2337,3 +2337,9 @@ bud_amuz_invest_2026,city_antwerpen,2026,175000,,,budgeted,src_ebesluit_amuz_202
 bud_cultuurweken_package_2026,city_antwerpen,2026,24826.40,,,budgeted,src_ebesluit_cultuurweken_2026,strong,Cultuurweken summer package 24.8k 2026 three orgs
 bud_das_kunst_cultuurweken_2026,city_antwerpen,2026,19200,,,budgeted,src_ebesluit_cultuurweken_2026,strong,das Kunst cultuurweken 19.2k 2026
 bud_antwerp_culture_l5_sample_11houses_2026,city_antwerpen,2026,9279800,,,budgeted,src_ebesluit_amuz_2026,strong,Culture L5 sample 11 houses 9.280m (prior 8.353 + AMUZ 0.927)
+bud_hetpaleis_2026_total,city_antwerpen,2026,3412400,,,budgeted,src_ebesluit_hetpaleis_2026,strong,HETPALEIS package 3.412m 2026 (exp 2.922 + invest 0.490)
+bud_hetpaleis_exp_2026,city_antwerpen,2026,2922400,,,budgeted,src_ebesluit_hetpaleis_2026,strong,HETPALEIS exploitatie 2.922m 2026
+bud_hetpaleis_invest_2026,city_antwerpen,2026,490000,,,budgeted,src_ebesluit_hetpaleis_2026,strong,HETPALEIS invest Stadsschouwburg 0.490m 2026
+bud_rataplan_werk_2026,city_antwerpen,2026,278500,,,budgeted,src_ebesluit_rataplan_werk_2026,strong,Rataplan werk 278.5k 2026 (culture 193.5 + buurt 85)
+bud_koraal_college_2026,city_antwerpen,2026,655000,,,budgeted,src_ebesluit_koraal_2026,strong,Koraal youth package college lock 655k 2026
+bud_antwerp_culture_l5_sample_12houses_2026,city_antwerpen,2026,12692200,,,budgeted,src_ebesluit_hetpaleis_2026,strong,Culture L5 sample 12 houses 12.692m (prior 9.280 + HETPALEIS 3.412)
