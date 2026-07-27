@@ -2185,3 +2185,14 @@ bud_mdk_kmi_2025,mdk,2025,865000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Sam
 bud_mdk_glooiing_nieuwpoort_2025,mdk,2025,10000000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Glooiing linker- en rechterhavenoever Nieuwpoort fase2 2025
 bud_mdk_stormvloed_nieuwpoort_2025,mdk,2025,2100000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Stormvloedkering Nieuwpoort wijzigingen/prijsherzieningen 2025
 bud_mdk_stormvloed_nieuwpoort_2026,mdk,2026,8500000,,,budgeted,src_gip_mow_2025_annex_l5,strong,Stormvloedkering Nieuwpoort 2026
+bud_antwerp_opex_exp_2026,city_antwerpen,2026,2300000000,2200000000,2400000000,budgeted,src_antwerp_mjp_pr_2026_31,strong,MJP PR opex uitgaven 2.2-2.4bn/yr mid 2.3bn
+bud_antwerp_opex_rec_2026,city_antwerpen,2026,2400000000,2300000000,2500000000,budgeted,src_antwerp_mjp_pr_2026_31,strong,MJP PR opex inkomsten 2.3-2.5bn/yr mid 2.4bn
+bud_antwerp_exploitatiesaldo_2026,city_antwerpen,2026,115000000,110000000,120000000,budgeted,src_antwerp_mjp_pr_2026_31,strong,MJP PR exploitatiesaldo 110-120m/yr
+bud_antwerp_invest_2026,city_antwerpen,2026,400000000,,,budgeted,src_antwerp_mjp_pr_2026_31,strong,MJP invest 400m/yr of 2.4bn 2026-2031
+bud_antwerp_invest_mjp_total,city_antwerpen,2031,2400000000,,,commitment,src_antwerp_mjp_pr_2026_31,strong,Record invest envelope 2.4bn over 2026-2031
+bud_toneelhuis_2026_total,city_antwerpen,2026,3299700,,,budgeted,src_ebesluit_toneelhuis_2026,strong,Toneelhuis 2026 exp+invest 3.2997m ebesluit
+bud_toneelhuis_2026_exp,city_antwerpen,2026,2917200,,,budgeted,src_ebesluit_toneelhuis_2026,strong,Toneelhuis exploitatie 2.9172m 2026
+bud_toneelhuis_2026_invest,city_antwerpen,2026,382500,,,budgeted,src_ebesluit_toneelhuis_2026,strong,Toneelhuis invest Bourla/Schermenhuis 0.3825m 2026 (plan 2026-27)
+bud_antwerp_culture_envelope_2026,city_antwerpen,2026,35000000,,,budgeted,src_vrt_antwerp_culture_35m,medium,Culture envelope 35m/yr from 25m prior; VRT secondary
+bud_antwerp_makers_fund_leg,city_antwerpen,2031,9200000,,,budgeted,src_vrt_antwerp_culture_35m,medium,New+existing culture trajectories 9.2m over legislatuur ~1.5m/yr avg
+bud_geitestoet_package_2026_31,city_antwerpen,2031,150000,,,budgeted,src_vrt_antwerp_culture_35m,medium,Geitestoet package cut to 150k over 6y from 370k prior legislatuur

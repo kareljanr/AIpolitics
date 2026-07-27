@@ -2116,3 +2116,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; entity 1; budgets 16; cmt 1; lb 2; FOI **gap_mdk_opex_l5** ready; rq_197=done; seeded **rq_198**.
 - FOI: full MDK opex+DAB+loodsgelden+GIP outturn human send only; Antwerp register / Mons BI2026 still residual.
 - Next: prio5 **rq_198**; deferred **rq_116** SWA.
+
+### 2026-07-28T18:05:00Z - tick 204
+- Unit: **rq_198** (FOI-adjacent hole-fill - **Antwerp culture L5 + MJP**)
+- Found (strong ebesluit Toneelhuis + strong MJP PR + medium VRT culture):
+  - **Toneelhuis 2026 EUR 3.2997m** (exp **2.9172m** + invest **0.3825m**); max package **18.309m** 2026-2031.
+  - Culture envelope **25 ? 35m/yr** (medium); **16** named structural partners; makers trajectories **9.2m/6y**.
+  - MJP: invest **2.4bn/6y** (**400m/yr**); opex exp **2.2-2.4bn**; rec **2.3-2.5bn**; saldo **110-120m**.
+  - Geitestoet package cut **370k ? 150k/6y** (medium).
+- Wrote: sources 3; budgets 11; cmt 3; lb 2; foi gap_antwerp notes; rq_198=done; seeded **rq_199**.
+- FOI: full machine-readable top20 register still human send; Mons BI2026 residual.
+- Next: prio5 **rq_199**; deferred **rq_116** SWA.

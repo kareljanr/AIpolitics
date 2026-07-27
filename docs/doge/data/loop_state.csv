@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T17:45:00Z,rq_197,203,no,"Scheduler 60s. Next prio5 rq_198 Antwerp/Mons; rq_116 SWA deferred. FOI ready human send. tick203 MDK GIP 72-92m L5 beloodsing/bagger; gap_mdk_opex_l5 ready."
+main,continuous,hole_fill,2026-07-28T18:05:00Z,rq_198,204,no,"Scheduler 60s. Next prio5 rq_199 Mons/other; rq_116 SWA deferred. FOI ready human send. tick204 Antwerp Toneelhuis 3.30m culture 35m; gap_antwerp residual register."
