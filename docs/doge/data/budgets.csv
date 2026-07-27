@@ -3994,3 +3994,22 @@ bud_bpost_bu_bpost_ebit_2025,bpost,2025,67000000,,,outturn,src_bnode_fy2025_pres
 bud_bpost_bu_paxon_ebit_2025,bpost,2025,58600000,,,outturn,src_bnode_fy2025_press,strong,Paxon 3PL adj EBIT 58.6m 2025 (Staci + Fast Track)
 bud_bpost_bu_landmark_ebit_2025,bpost,2025,85300000,,,outturn,src_bnode_fy2025_press,strong,Landmark Global adj EBIT 85.3m 2025 (+5.5m)
 bud_bpost_div_2025,bpost,2025,0,,,outturn,src_bnode_fy2025_press,strong,No dividend proposed over 2025 (net loss + policy)
+bud_bozar_dot_2024,bozar,2024,15529000,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Federal endowment BOZAR 15529000 EUR 2024
+bud_bozar_dot_2025,bozar,2025,15798079,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Federal endowment BOZAR initial 15798079 EUR 2025 (pre 1.8pct cut review)
+bud_bozar_lottery_2024,bozar,2024,3095000,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Nationale Loterij provisional to BOZAR 3095000 EUR 2024
+bud_bozar_omzet_2022,bozar,2022,5902162,,,outturn,src_bozar_companyweb_nbb,strong,Statutory omzet 5902162 EUR 2022
+bud_bozar_omzet_2023,bozar,2023,7304052,,,outturn,src_bozar_companyweb_nbb,strong,Statutory omzet 7304052 EUR 2023
+bud_bozar_omzet_2024,bozar,2024,8156088,,,outturn,src_bozar_companyweb_nbb,strong,Statutory omzet 8156088 EUR 2024
+bud_bozar_omzet_2025,bozar,2025,8945473,,,outturn,src_bozar_companyweb_nbb,strong,Statutory omzet 8945473 EUR 2025
+bud_bozar_net_2025,bozar,2025,421983,,,outturn,src_bozar_companyweb_nbb,strong,Net 421983 EUR 2025
+bud_bozar_equity_2025,bozar,2025,50815494,,,outturn,src_bozar_companyweb_nbb,strong,Equity 50815494 EUR YE2025
+bud_bozar_fte_2025,bozar,2025,227,,,outturn,src_bozar_companyweb_nbb,strong,FTE 227.4 2025
+bud_monnaie_dot_2024,la_monnaie,2024,42173000,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Federal endowment La Monnaie 42173000 EUR 2024
+bud_monnaie_dot_2025,la_monnaie,2025,42957297,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Federal endowment La Monnaie initial 42957297 EUR 2025
+bud_monnaie_lottery_2024,la_monnaie,2024,1488750,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Nationale Loterij provisional La Monnaie 1488750 EUR 2024
+bud_nob_dot_2024,nob_orchestre,2024,10896000,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Federal endowment NOB 10896000 EUR 2024
+bud_nob_dot_2025,nob_orchestre,2025,11094472,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Federal endowment NOB initial 11094472 EUR 2025
+bud_nob_lottery_2024,nob_orchestre,2024,1483500,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Nationale Loterij provisional NOB 1483500 EUR 2024
+bud_fed_culture_triple_dot_2024,sec_federal,2024,68598000,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Sum federal dots BOZAR+Monnaie+NOB 68598000 EUR 2024
+bud_fed_culture_triple_dot_2025,sec_federal,2025,69849848,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Sum federal dots initial 69849848 EUR 2025 pre 1.8pct linear cut
+bud_fed_culture_lottery_2024,sec_federal,2024,6067250,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Sum lottery provisional three inst 6067250 EUR 2024

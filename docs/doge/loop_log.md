@@ -3605,3 +3605,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity bpost update; budgets +10; cmt +1; lb +2; FOI gap_bpost_sgei_2025_mgmt8 ready; draft; rq_317=done; spawn rq_318; ticks=326
 - FOI: SGEI 2025 cash + 8th contract envelope ready human send (alongside prior gap_bpost_uso_split)
 - Next: prio5 **rq_318**; deferred **rq_116** SWA
+
+### 2026-07-31T02:15:00Z - tick 327
+- Unit: **rq_318** (FOI-adjacent hole-fill - **federal culture triple BOZAR/Monnaie/NOB dual communities**)
+- Found (strong Kamer 56K0856/016 24 Apr 2025 + NBB/Companyweb BOZAR):
+  - Federal dots 2024/init2025: **BOZAR €15.529m / €15.798m**; **Monnaie €42.173m / €42.957m**; **NOB €10.896m / €11.094m**.
+  - Sum **€68.598m ? €69.850m** (pre 1.8% linear cut review).
+  - Nationale Loterij provisional 2024: BOZAR **€3.095m**; Monnaie **€1.489m**; NOB **€1.484m** (sum **€6.067m**).
+  - BOZAR statutory omzet **€5.90 / 7.30 / 8.16 / 8.95m** 2022-25; net **€0.42m**; equity **€50.8m**; FTE **227**.
+  - Management contracts expired **31 Dec 2024**; renewals planned 2025; dual community culture stacks.
+- Wrote: sources +2; entities +3; budgets +19; cmt +1; lb +2; FOI gap_fed_culture_contracts_2025 ready; draft; rq_318=done; spawn rq_319; ticks=327
+- FOI: post-cut 2025 cash + new management contracts ready human send
+- Next: prio5 **rq_319**; deferred **rq_116** SWA
