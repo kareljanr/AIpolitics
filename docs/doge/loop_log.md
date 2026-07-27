@@ -4435,3 +4435,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +36; cmt +1; lb +7; entity spp_is; FOI **gap_igo_handicap_ris_cash_codes** ready; rq_380=done; spawn **rq_381** progress@390; ticks=389
 - FOI: AB cash codes handicap/IGO/RIS human send only
 - Next: **mandatory progress@390** (rq_381); deferred **rq_116** SWA
+
+### 2026-08-01T09:45:00Z - tick 390
+- Unit: **rq_381** (**progress milestone @390** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~96-99%** (up from ~95-98% @380) - GG sal 60.5bn + FPD 69bn + RIZIV 45bn + RSVZ 6.52 + ONVA 6.38 + social assist 6.5 + Entity I social 155 class
+  - **D L5:** **~21-32%** generous (RIZIV objectifs sector L5; dual CAS/CSV counts; GRAPA stock; residual FOI)
+  - **E FOI ready:** **~195** (answered ~5; total FOI rows ~202)
+- Inventory: budgets ~5151 - cmt ~673 - lb ~966 - entities ~354 - sources ~702
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT mega items (entitlement megas lower absurdity)
+- Dual/off-TE map: ONSS cotis financing, Entity I 268.7bn perimeter != ESA TE 2025
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_381=done; spawn **rq_382**; ticks=390
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_382** hole-fill; deferred **rq_116** SWA

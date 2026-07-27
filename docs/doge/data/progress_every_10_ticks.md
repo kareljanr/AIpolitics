@@ -20,43 +20,43 @@
 
 ---
 
-## Snapshot at **tick 380** (2026-08-01)
+## Snapshot at **tick 390** (2026-08-01)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~95–98%** (order of magnitude) | Up from ~94–98% @370: **VSB pillars €4.02bn** · **VAPH €2.76bn** · **Groeipakket ISE €4.91bn** · **Gezinsbeleid €1.37bn** · **Zorginfra/VIPA €727m** · **Iriscare outturn €1.73bn** · **ONSS gestion €301m** · Samusocial multi-fund €72.4m |
-| **D. L5 named end-receivers** | **~20–31%** of TE (generous) | Uptick: VSB pillar matrix; VAPH PVB cash/third split; VUTG private UA admin €67m; GCF2BA named sample; Samusocial funder+mission %; ONSS Smals €111m; residual provider/MR/private-caisse FOI |
-| **E. FOI-ready gaps** | **~187** drafts ready | Human send only; answered **~5**; total FOI rows **~194** |
+| **C. L2 entity totals** | **~96–99%** (order of magnitude) | Up from ~95–98% @380: **GG sal prest €60.5bn** · **FPD legal pens €69.0bn** · **RIZIV 45.2bn + objectifs** · **RSVZ GG indep €6.52bn** · **ONVA €6.38bn** · **Entity I social €155.5bn / SS prest €135.5bn 2026 class** · social assist **€6.5bn** (handicap 3.3 · IGO 1.0 · RIS 2.2) |
+| **D. L5 named end-receivers** | **~21–32%** of TE (generous) | Uptick: RIZIV partial objectifs (doctors 11.6 / hospital 8.5 / pharma 7.0) · dual CAS/CSV counts · GRAPA 120k stock · residual FOI still dominates pure named third parties |
+| **E. FOI-ready gaps** | **~195** drafts ready | Human send only; answered **~5**; total FOI rows **~202** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **Tax Shelter AV package €255m 2023**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock**; **ONSS cotisations €83.4 bn** are SS financing flows not GG TE slice; dual class composites (**childcare €2.32bn**, youth protect €1.44bn, energy €1.34bn, culture €794m, PSB €647m, AF triple map) are **not TE-additive**.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; fossil/company cars/cheque TE; **Entity I 2026 class €268.7bn** is budget perimeter not identical to ESA TE 2025; **ONSS cotisations €65.8bn GG sal / €83.4bn class** financing flows; dual composites not TE-additive.
 
-### Inventory (tick 380)
+### Inventory (tick 390)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~4748 |
-| commitments.csv | ~663 |
-| leaderboard.csv | ~901 |
-| entities.csv | ~353 |
-| sources.csv | ~707 |
-| FOI ready | ~187 |
+| budgets.csv | ~5151 |
+| commitments.csv | ~673 |
+| leaderboard.csv | ~966 |
+| entities.csv | ~354 |
+| sources.csv | ~702 |
+| FOI ready | ~195 |
 | FOI answered | ~5 |
-| FOI total rows | ~194 |
-| research_queue | ~366 (open: rq_116 deferred + rq_372 hole-fill after progress) |
+| FOI total rows | ~202 |
+| research_queue | ~376 (open: rq_116 deferred + rq_382 hole-fill after progress) |
 
-### What improved since tick 370
+### What improved since tick 380
 
-- **VIA + sociale akkoorden:** GCF2FA **€142m** · GHF2TR **€227m** (tick371).  
-- **Eerstelijn + Impulseo:** ISE **€68m** · Impulseo **€26.7m** (tick372).  
-- **VSB pillars 2025:** toelage **€4.021bn** · ROZ **€2.893bn** full matrix (tick373).  
-- **VAPH L5:** toelage **€2.762bn** · PVB **€1.518bn** (third **€1.208bn** / cash **€310m**) (tick374).  
-- **Groeipakket + Gezinsbeleid:** ISE **€4.907bn** · GEF2QX **€4.797bn** · GEF2QY **€110m** · private UA **€67m** · Gezinsbeleid **€1.369bn** · parent fees **€233m** (tick375).  
-- **Beleidsondersteuning + Zorginfra:** ISE **€284m** (soc-akk **€275m**) · VIPA ISE **€727m** (tick376).  
-- **Iriscare dual BRU:** dep **€1.732bn** · AF **€1.055bn** · MR **€346m** · Famiris **€427m** (tick377).  
-- **Samusocial multi-funder:** budget **€72.4m** · COCOM/Fedasil/RBC L5 % (tick378).  
-- **ONSS gestion + financing:** gestion **€301m** · Smals **€111m** · cotis **€83.4bn** (tick379).  
+- **RVA JV2025:** global **€7.37bn** · beheer **€306.6m** · UI **€233.6m** (tick381).  
+- **FSO:** rec **€517m** · comp **€372m** · TW **€179m** (tick382).  
+- **RIZIV matrix 2025:** total **€45.22bn** · prestations **€39.81bn** · corrections **€217m** (tick383).  
+- **RIZIV objectifs L5:** doctors **€11.64bn** · hospital day **€8.51bn** · pharma **€6.98bn** · OA admin **€988m** (tick384).  
+- **FPD/PensionStat:** legal pens **€69.05bn 2025** · paid **€68.2bn 2024** · package **€69.4bn** (tick385).  
+- **RSVZ/INASTI GG indep:** dep **€6.52bn** · cotis **€5.63bn** · dual CAS · unpaid **€1.55bn** hors bilan (tick386).  
+- **ONVA:** dep **€6.38bn** · pecules **€6.34bn** dual CSV **~€2.28bn** · FFE loan **€200m** (tick387).  
+- **ONSS GG salaries:** prest **€60.51bn** · cotis **€65.77bn** · dots **€9.49bn** · altfin **€21.37bn** · pens pub **€21.04bn** (tick388).  
+- **Social assist + Entity I macro:** handicap **€3.3bn** · IGO **€1.0bn** · RIS **€2.2bn** · Entity I social **€155.5bn** (tick389).  
 
 ---
 
@@ -90,4 +90,5 @@
 | 350 | 100% | 100% | ~92–98% | ~17–28% | ~161 | AV dual+triple + Tax Shelter TE + sport dual + FWO/FNRS 712m + AWV/SOFICO + OE heritage |
 | 360 | 100% | 100% | ~93–98% | ~18–29% | ~170 | Dual sprint: heritage/agri/nature/waste/energy/integration/vocational/culture/youth |
 | 370 | 100% | 100% | ~94–98% | ~19–30% | ~178 | Childcare €2.32bn + youth protect €1.44bn + WVG L5 CAW/GGZ/armoede/preventie |
-| **380** | **100%** | **100%** | **~95–98%** | **~20–31%** | **~187** | **Current** (VSB/VAPH/Groeipakket mega + Iriscare dual + ONSS/Smals + Samusocial) |
+| 380 | 100% | 100% | ~95–98% | ~20–31% | ~187 | VSB/VAPH/Groeipakket mega + Iriscare dual + ONSS/Smals + Samusocial |
+| **390** | **100%** | **100%** | **~96–99%** | **~21–32%** | **~195** | **Current** (SS mega wave GG sal/FPD/RIZIV/RSVZ/ONVA + social assist 6.5bn) |
