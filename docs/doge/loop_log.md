@@ -4312,3 +4312,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +24; cmt +1; lb +6; entity note; FOI **gap_onss_mission_l5** ready + draft; rq_370=done; spawn **rq_371** (progress@380 next); ticks=379
 - FOI: mission budget branch split + FPS codes for 11.8bn/22.7bn human send only
 - Next: **mandatory progress@380** then prio5 rq_371; deferred **rq_116** SWA
+
+### 2026-08-01T04:45:00Z - tick 380
+- Unit: **rq_371** (**progress milestone @380** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~95-98%** (up from ~94-98% @370) - VSB 4.02bn + VAPH 2.76bn + Groeipakket 4.91bn + Gezinsbeleid 1.37bn + Zorginfra 727m + Iriscare 1.73bn + ONSS gestion 301m
+  - **D L5:** **~20-31%** generous (PVB split, VUTG UA 67m, Samusocial funder %, ONSS Smals 111m; residual FOI)
+  - **E FOI ready:** **~187** (answered ~5; total FOI rows ~194)
+- Inventory: budgets ~4748 - cmt ~663 - lb ~901 - entities ~353 - sources ~707
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT mega items (Hedera stock filtered)
+- Dual/off-TE map refreshed: childcare 2.32bn, youth protect 1.44bn, GP 4.91bn, Iriscare AF 1.06bn, ONSS cotis 83.4bn off-TE, ...
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_371=done; spawn **rq_372**; ticks=380
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_372** hole-fill; deferred **rq_116** SWA

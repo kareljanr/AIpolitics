@@ -1,7 +1,7 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **370** (2026-07-31) · **~838** leaderboard rows  
-**Sort:** `priority_index` desc (then absurdity, then annual €)  
+**As-of:** tick **380** (2026-08-01) · **~901** leaderboard rows  
+**Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
 
@@ -43,28 +43,21 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | ID | Stock / envelope / peak | Note |
 |-----|------------------:|------|
 | `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock; not annual TE flow |
-| `lb_childcare_dual_vl_one_2319m` | **~2.32 bn** class | Dual VL KO + FWB ONE (tick365; largest community dual) |
+| `lb_onss_cotisations_83_4bn_2025` | **83.4 bn** | ONSS contributions collected 2025 (financing flow, not TE slice) |
+| `lb_childcare_dual_vl_one_2319m` | **~2.32 bn** class | Dual VL KO + FWB ONE (tick365) |
 | `lb_youth_protect_dual_vl_fwb_1440m` | **~1.44 bn** class | Dual VL ISE Jeugdhulp + FWB AJ (tick366) |
-| `lb_energy_dual_vl_wal_1336m` | **~1.34 bn** class | Dual VL E&K + WAL Energie/Kyoto/AWAC (tick355) |
-| `lb_culture_dual_vl_fwb` | **~794 m** class | Dual VL Cultuur content + FWB DO20 (tick358) |
-| `lb_research_dual_fwo_fnrs_712m` | **~712 m** class | Dual FWO+FNRS community research |
-| `lb_psb_dual_ordinary_647m_2026` | **~647 m** | Dual VRT+RTBF ordinary 2026 (tick363) |
-| `lb_awv_vek_1p19bn` | **1.19 bn** | AWV Flanders roads VEK dual SOFICO |
-| `lb_agri_dual_vl_wal_234m` | **~234 m** | Dual VL Landbouw + WAL OPW (tick352) |
-| `lb_sport_dual_vl_adeps_235m` | **~235 m** class | Dual community sport VL+ADEPS |
-| `lb_adult_edu_dual_vl_fwb` | **~268 m** floor | FWB EPA DO56 (+ VL VO residual) (tick361) |
-| `lb_nature_dual_vl_wal_179m` | **~179 m** | Dual nature ANB/WAL (tick353) |
-| `lb_heritage_dual_oe_awap_174m` | **~174 m** | Dual OE/AWaP heritage (tick351) |
-| `lb_youth_dual_vl_fwb` | **~140 m** | Dual recreational youth VL/FWB (tick359; excl AJ) |
-| `lb_vocational_dual_syntra_ifapme` | **~138 m** | Dual Syntra+IFAPME (tick357) |
-| `lb_popular_edu_dual_vl_fwb` | **~128 m** | Dual SCW + EP (tick364) |
-| `lb_integration_dual_vl_wal` | **~120 m** | Dual civic integration VL/WAL (tick356) |
-| `lb_waste_dual_vl_wal_116m` | **~116 m** | Dual OVAM/SPAQuE waste (tick354) |
-| `lb_caw_vl_130m` | **130 m** | Flanders CAW subsidies (tick367) |
-| `lb_cgg_vl_102_5m` | **102.5 m** | Flanders CGG mental health (tick368) |
-| `lb_taxshelter_pack_255m` | **255 m** | AV+scenic+games Tax Shelter package 2023 |
-| `lb_fed_consultancy_2_5bn` | **~0.84 bn/yr** class | CoA 2.52bn 2020–22 IT-heavy; inventory FOI |
-| `lb_natlot_omzet_1667m` | **1.67 bn** omzet | State lottery monopoly; society return ~363m |
+| `lb_vl_groeipakket_ise_4_91bn` | **4.91 bn** | Flanders Groeipakket ISE 2025 (tick375) |
+| `lb_vsb_*` / pillars | **~4.02 bn** | VSB pillar matrix 2025 (tick373) |
+| `lb_vaph_toelage_2_76bn_2025` | **2.76 bn** | VAPH toelage 2025 (tick374) |
+| `lb_iriscare_dep_1_73bn_2024` | **1.73 bn** | Iriscare institutional outturn 2024 (tick377) |
+| `lb_energy_dual_vl_wal_1336m` | **~1.34 bn** class | Dual VL E&K + WAL Energie |
+| `lb_culture_dual_vl_fwb` | **~794 m** class | Dual VL Cultuur + FWB DO20 |
+| `lb_vl_zorginfra_ise_727m` | **727 m** | VIPA zorginfra ISE 2025 (tick376) |
+| `lb_psb_dual_ordinary_647m_2026` | **~647 m** | Dual VRT+RTBF ordinary |
+| `lb_onss_gestion_301m_2025` | **301 m** | ONSS operating budget 2025 (tick379) |
+| `lb_samusocial_budget_72m_2025` | **72.4 m** | Multi-funder Samusocial (tick378) |
+| `lb_fed_consultancy_2_5bn` | **~0.84 bn/yr** class | CoA 2.52bn 2020–22 IT-heavy |
+| `lb_natlot_omzet_1667m` | **1.67 bn** omzet | State lottery monopoly |
 
 ## “Clown / high absurdity” shortlist (not pure size)
 
@@ -77,5 +70,4 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_union_pay_admin_169m` | 8.5 | **169.00 m** | Union unemployment payment admin grants ~169m |
 | 6 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | **3.66 m** | Flanders Mijn Kortingsbon 250 EUR fridge/washer |
 | 7 | `lb_gcf2cb_under_exec_25m` | 7.0 | **8.3 m** BU / **25 m** BA | Armoede GCF2CB under-exec (school food path) |
-
-*Top 10 **stable** vs @360 on pure-waste mega items (fossil, company cars, cheque TE, EIWT). Ticks 361–369 extended dual/L5 map: adult edu → territorial culture → PSB → popular edu → **childcare €2.32bn** → **youth protection €1.44bn** → CAW €130m → GGZ CGG €102.5m → armoede/preventie under-exec. Dual class composites stay **off** pure annual waste top10. L5 residual remains FOI-ready for human send.*
+| 8 | `lb_gezinsbeleid_surplus_79m` | 6.0 | **79.2 m** | GEF2UX/AGEF2UA-WT VEK surplus expansion lag (tick375) |
