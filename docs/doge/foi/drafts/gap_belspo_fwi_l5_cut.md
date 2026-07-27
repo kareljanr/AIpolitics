@@ -99,3 +99,20 @@ BELSPO Jaarverslag 2024 (figures) primary:
 - Nat./int. R&D: **€56,5 m** (PRT €15,7 m aflopend 2024)
 - EU-fonds prog.5: **€26,9 m** (extra)
 - Residual FOI: L5 per FWI + cut path €93 m (−15%)
+
+
+## Update tick334 — P4Science project L5 partial public fill
+
+Source: BELSPO P4Science Information File call 2024-2025 (primary PDF).
+
+- Call total **€15.261.890** (covers two budget years).
+- Competitive **20%**: **€2.852.380** all FSI (+€250k already committed international).
+- Non-competitive **80%** allocated by FSI (repartition key for 10 BELSPO-FSI; flat rate Sciensano/NICC/WHI):
+  - KBIN-IRSNB **€1.883.060** · ARA-AGR **€1.696.340** · KMMA-MRAC **€1.220.590**
+  - KIK-IRPA **€1.185.650** · BIRA-IASB **€1.151.720** · KBS-ORB **€1.097.500**
+  - KMKG-MRAH **€962.520** · KMI-IRM **€959.290** · KMSKB-MRBAB **€594.530**
+  - Sciensano **€563.760** · KBR **€555.110** · NICC **€393.260** · WHI **€131.180**
+- **Not** base financing (ADBA+ION €162.6m residual FOI). Project R&D only.
+- CM approved programme **9 Feb 2024**.
+
+Residual FOI unchanged: base cash-by-year per FWI + cut €93m path.

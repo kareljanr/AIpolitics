@@ -3696,3 +3696,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +8; cmt +1; lb +1; entity belspo note; FOI gap_belspo refresh; draft note; rq_324=done; spawn rq_325; ticks=333
 - FOI: FWI L5 per institute + cut path still ready human send
 - Next: prio5 **rq_325**; deferred **rq_116** SWA
+
+### 2026-07-31T05:45:00Z - tick 334
+- Unit: **rq_325** (FOI-adjacent hole-fill - **BELSPO P4Science FSI L5 project envelopes**)
+- Found (strong BELSPO P4Science Information File call 2024-2025 primary PDF):
+  - CM **9 Feb 2024** approved multi-year P4Science (Policy for Science) for FSI.
+  - Call indicative total **€15.261.890** covering two budget years.
+  - Competitive **20%**: **€2.852.380** all FSI (+**€250k** already committed to international calls).
+  - Non-competitive **80%**: **€12.394.510** allocated by FSI (repartition key 10 BELSPO-FSI; flat rate Sciensano/NICC/WHI).
+  - Largest non-comp: **KBIN €1.883m** · **ARA €1.696m** · **KMMA €1.221m** · **KIK €1.186m** · **BIRA €1.152m**.
+  - Smaller: KBS 1.098 · KMKG 0.963 · KMI 0.959 · KMSKB 0.595 · Sciensano 0.564 · KBR 0.555 · NICC 0.393 · WHI 0.131.
+  - **Project R&D only** — not base ADBA+ION €162.6m financing (residual FOI).
+  - Dual: federal FSI projects vs community FWO/FNRS (~€450m / ~€250m class prior ticks).
+- Wrote: sources +1; entity p4science_belspo + belspo note; budgets +17; cmt +1; lb +1; FOI gap_belspo refresh; draft note; rq_325=done; spawn rq_326; ticks=334
+- FOI: base FWI cash-by-year + cut 93m path still ready human send (project L5 partial closed)
+- Next: prio5 **rq_326**; deferred **rq_116** SWA

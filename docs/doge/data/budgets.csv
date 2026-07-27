@@ -4059,3 +4059,20 @@ bud_belspo_mgmt_pers_2024,belspo,2024,16900000,,,outturn,src_belspo_ar2024_figur
 bud_belspo_rdi_nat_int_2024,belspo,2024,56500000,,,outturn,src_belspo_ar2024_figures,strong,Nationale en internationale R&D programma's en acties 56.5m ~10pct
 bud_belspo_prt_2024,belspo,2024,15700000,,,outturn,src_belspo_ar2024_figures,strong,PRT Herstart- en Transitieplan projecten ending 31Dec2024 15.7m (subset RDI)
 bud_belspo_eu_fund_prog5_2024,belspo,2024,26900000,,,outturn,src_belspo_ar2024_figures,strong,EU research programmes fund prog5 section 60 exp 26.9m 2024 (extra federal budget)
+bud_p4science_call_total_2024_25,p4science_belspo,2025,15261890,,,budgeted,src_belspo_p4science_call_2024_25,strong,P4Science call 2024-25 indicative total 15.26189m covers two budget years
+bud_p4science_competitive_2024_25,p4science_belspo,2025,2852380,,,budgeted,src_belspo_p4science_call_2024_25,strong,Competitive 20pct all FSI 2.85238m (+250k already committed international)
+bud_p4science_intl_committed_2024_25,p4science_belspo,2025,250000,,,budgeted,src_belspo_p4science_call_2024_25,strong,Competitive budget already committed to international calls 250k
+bud_p4science_kbin_irsnb_2024_25,p4science_belspo,2025,1883060,,,budgeted,src_belspo_p4science_call_2024_25,strong,KBIN-IRSNB non-competitive P4Science 2024-25 envelope
+bud_p4science_kmma_mrac_2024_25,p4science_belspo,2025,1220590,,,budgeted,src_belspo_p4science_call_2024_25,strong,KMMA-MRAC AfricaMuseum non-competitive P4Science envelope
+bud_p4science_kmi_irm_2024_25,p4science_belspo,2025,959290,,,budgeted,src_belspo_p4science_call_2024_25,strong,KMI-IRM non-competitive P4Science envelope
+bud_p4science_kbs_orb_2024_25,p4science_belspo,2025,1097500,,,budgeted,src_belspo_p4science_call_2024_25,strong,KBS-ORB non-competitive P4Science envelope
+bud_p4science_bira_iasb_2024_25,p4science_belspo,2025,1151720,,,budgeted,src_belspo_p4science_call_2024_25,strong,BIRA-IASB non-competitive P4Science envelope
+bud_p4science_kmkg_mrah_2024_25,p4science_belspo,2025,962520,,,budgeted,src_belspo_p4science_call_2024_25,strong,KMKG-MRAH non-competitive P4Science envelope
+bud_p4science_kmskb_mrbab_2024_25,p4science_belspo,2025,594530,,,budgeted,src_belspo_p4science_call_2024_25,strong,KMSKB-MRBAB non-competitive P4Science envelope
+bud_p4science_kik_irpa_2024_25,p4science_belspo,2025,1185650,,,budgeted,src_belspo_p4science_call_2024_25,strong,KIK-IRPA non-competitive P4Science envelope
+bud_p4science_ara_agr_2024_25,p4science_belspo,2025,1696340,,,budgeted,src_belspo_p4science_call_2024_25,strong,ARA-AGR State Archives non-competitive P4Science envelope
+bud_p4science_kbr_2024_25,p4science_belspo,2025,555110,,,budgeted,src_belspo_p4science_call_2024_25,strong,KBR Royal Library non-competitive P4Science envelope
+bud_p4science_sciensano_2024_25,p4science_belspo,2025,563760,,,budgeted,src_belspo_p4science_call_2024_25,strong,Sciensano non-competitive P4Science envelope (non-BELSPO FSI)
+bud_p4science_nicc_incc_2024_25,p4science_belspo,2025,393260,,,budgeted,src_belspo_p4science_call_2024_25,strong,NICC-INCC non-competitive P4Science envelope
+bud_p4science_whi_2024_25,p4science_belspo,2025,131180,,,budgeted,src_belspo_p4science_call_2024_25,strong,WHI non-competitive P4Science envelope
+bud_p4science_noncomp_sum_2024_25,p4science_belspo,2025,12394510,,,budgeted,src_belspo_p4science_call_2024_25,strong,Sum non-competitive FSI envelopes 12.39451m (~80pct of 15.26m)
