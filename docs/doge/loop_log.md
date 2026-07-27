@@ -3021,3 +3021,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities fpd+rsz; budgets +21; cmt +4; lb +5; FOI notes; rq_269=done; spawn rq_271 + progress@280; ticks=278
 - FOI: OISZ 2024-25 still ready; Smals advances note; AGMJ residual still ready
 - Next: prio5 **rq_271** (before progress@280); deferred **rq_116** SWA
+
+### 2026-07-30T02:15:00Z - tick 279
+- Unit: **rq_271** (FOI-adjacent hole-fill - **CREG + BIPT dual federal regulators**)
+- Found (strong primary AR):
+  - **CREG lasten EUR 22.409m 2023** (16.041m 2022); **personeel 14.685m**; overwinsten spent **2.161m** of 4.119m env; accijns finance.
+  - Kamer medium **CREG budget 2026 EUR 24.396m**.
+  - **BIPT exp EUR 79.755m / rev 78.463m 2024**; personnel pack **27.357m**; public licence fees **55.1m**; staff **251** (242 FTE).
+  - Ombuds postal **2.35m** + telecom **2.70m**.
+  - Dual energy/telecom regulators sector-fee financed not TE.
+- Wrote: sources +3; entities creg+bipt; budgets +19; cmt +2; lb +5; FOI gap_creg_bipt ready; draft; raw ARs; rq_271=done; elevate rq_270; spawn rq_272; ticks=279
+- FOI: CREG/BIPT multi-year human send; AGMJ residual still ready
+- Next: **MANDATORY progress rq_270 @ tick 280**; then rq_272

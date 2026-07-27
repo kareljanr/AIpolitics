@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T01:45:00Z,rq_269,278,no,Scheduler 60s. Next prio5 rq_271; progress rq_270 only at tick 280; rq_116 SWA deferred. tick278 FPD 287.7m RSZ 282.8m pensions 66.8bn.
+main,continuous,hole_fill,2026-07-30T02:15:00Z,rq_271,279,no,Scheduler 60s. Next MANDATORY progress rq_270@280; then rq_272. FOI ready human send. tick279 CREG 22.4m BIPT 79.8m.

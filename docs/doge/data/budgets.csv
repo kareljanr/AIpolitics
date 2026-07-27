@@ -3061,3 +3061,22 @@ bud_oisz_lonen_riziv,sec_ss,2023,118200000,,,outturn,src_ccrek_ss_182e_fpd_rsz,m
 bud_oisz_lonen_rsvz,rsvz,2023,66900000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA loonmatrix RSVZ 66.9m
 bud_oisz_lonen_hziv,hziv,2023,27300000,,,outturn,src_ccrek_ss_182e_fpd_rsz,strong,CoA loonmatrix HZIV 27.3m
 bud_oisz_lonen_sum_sample,sec_ss,2023,848000000,,,outturn,src_ccrek_ss_182e_fpd_rsz,medium,Sum CoA loonmatrix sample ~848m (RSZ RVA Fedris HVW RJV HZIV FPD RSVZ KSZ eHealth RIZIV); not full SS wage bill
+bud_creg_lasten_2022,creg,2022,16040616,,,outturn,src_creg_ar_2023,strong,AR: total lasten 16.040.616
+bud_creg_lasten_2023,creg,2023,22408653,,,outturn,src_creg_ar_2023,strong,AR: total lasten 22.408.653
+bud_creg_personeel_2022,creg,2022,12881408,,,outturn,src_creg_ar_2023,strong,Personeelskosten 12.881.408
+bud_creg_personeel_2023,creg,2023,14685471,,,outturn,src_creg_ar_2023,strong,Personeelskosten 14.685.471 (~65.5pct of lasten)
+bud_creg_externe_experts_2023,creg,2023,1736137,,,outturn,src_creg_ar_2023,strong,Externe experts 1.736.137
+bud_creg_algemene_kosten_2023,creg,2023,3603804,,,outturn,src_creg_ar_2023,strong,Algemene kosten 3.603.804
+bud_creg_overwinsten_spent_2023,creg,2023,2161354,,,outturn,src_creg_ar_2023,strong,Opdracht Overwinsten spent 2.161.354 of envelope 4.118.512
+bud_creg_accijnzen_gross_2023,creg,2023,26195311,,,outturn,src_creg_ar_2023,strong,Accijnzen elektriciteit en aardgas gross 26.195.311 before regularisaties
+bud_creg_budget_2026,creg,2026,24396072,,,budgeted,src_kamer_creg_budget_2026_press,medium,Kamer vote summary 24.396.072 2026; verify full PDF
+bud_bipt_rev_2024,bipt,2024,78463148,,,outturn,src_bipt_ar_2024,strong,AR: total revenues 78.463.148
+bud_bipt_exp_2024,bipt,2024,79754796,,,outturn,src_bipt_ar_2024,strong,AR: total expenditure 79.754.796
+bud_bipt_payroll_2024,bipt,2024,15853419,,,outturn,src_bipt_ar_2024,strong,Payroll 15.853.419
+bud_bipt_ssc_pensions_2024,bipt,2024,10604194,,,outturn,src_bipt_ar_2024,strong,SSC and pensions 10.604.194
+bud_bipt_pers_pack_2024,bipt,2024,27356499,,,outturn,src_bipt_ar_2024,strong,Payroll+SSC+benefits 15.853+10.604+0.899=27.356m
+bud_bipt_public_licence_fees_2024,bipt,2024,55123176,,,outturn,src_bipt_ar_2024,strong,Public licence fees 55.123.176
+bud_bipt_private_radio_fees_2024,bipt,2024,19419768,,,outturn,src_bipt_ar_2024,strong,Licence monitoring private radio 19.419.768
+bud_bipt_staff_2024,bipt,2024,251,,,outturn,src_bipt_ar_2024,strong,Staff 251 (242.2 FTE); amount is headcount
+bud_ombuds_postal_2024,bipt,2024,2354355,,,outturn,src_bipt_ar_2024,strong,Ombudsman postal sector exp 2.354.355 (sector contribution)
+bud_ombuds_telecom_2024,bipt,2024,2695248,,,outturn,src_bipt_ar_2024,strong,Ombudsman telecom exp 2.695.248
