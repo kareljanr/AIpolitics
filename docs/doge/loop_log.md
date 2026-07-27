@@ -2933,3 +2933,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity afmps; budgets +16; cmt +1; lb +4; FOI gap_afmps_budget_2025_26 ready; draft; raw PDFs; rq_262=done; spawn rq_263; ticks=271
 - FOI: AFMPS 2025-26 + AMM shortfall human send; AGMJ residual still ready
 - Next: prio5 **rq_263**; deferred **rq_116** SWA
+
+### 2026-07-29T23:00:00Z — tick 272
+- Unit: **rq_263** (FOI-adjacent hole-fill — **KCE dual health quad**)
+- Found:
+  - **Strong primary INAMI 2025:** transfert centre de connaissance **€22.483m** (kEUR table beheerskosten).
+  - Press exact **€22.482.228** 2025 RIZIV admin toelage (reconciles); **€26.447.351** 2026 (+**€3.965m** / **+17.6%**) medium ministerraad KB draft.
+  - Financing: charge on RIZIV/INAMI administratiekosten.
+  - Health federal **quad:** KCE **22.5m** + AFMPS **115.6m** + Sciensano **135.7m** + FAVV path **~175m** (not additive).
+- Wrote: sources +2; entity kce; budgets +4; cmt +1; lb +3; FOI gap_kce_jaarrekening_2024_26 ready; draft; raw INAMI PDF; rq_263=done; spawn rq_264; ticks=272
+- FOI: KCE jaarrekening + 2026 BS human send; AGMJ residual still ready
+- Next: prio5 **rq_264**; deferred **rq_116** SWA

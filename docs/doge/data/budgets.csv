@@ -2953,3 +2953,7 @@ bud_afmps_essais_clin_2024,afmps,2024,5715425,,,outturn,src_afmps_ra_2024,strong
 bud_afmps_inami_rec_2024,afmps,2024,3677479,,,outturn,src_afmps_ra_2024,strong,Recettes INAMI 3.677m
 bud_afmps_staff_2024,afmps,2024,0,,,outturn,src_afmps_ra_2024,strong,Collaborateurs NL290+FR274=564; F/H 385/179; amount 0 headcount
 bud_afmps_budget_2025,afmps,2025,141000000,,,budgeted,src_afmps_dc_ct_2025_04,medium,DC-CT: budget 141m 2025 (path 70/86/92m 2015/18/20); medium vs RA outturn precision
+bud_kce_riziv_transfer_2025,kce,2025,22483000,,,budgeted,src_inami_kce_transfer_2025,strong,INAMI budget sante 2025: transfert centre de connaissance 22.483 kEUR
+bud_kce_toelage_2025_exact,kce,2025,22482228,,,budgeted,src_kce_toelage_2026_press,medium,Press exact 22.482228m 2025 RIZIV admin toelage (reconciles 22.483k table)
+bud_kce_toelage_2026,kce,2026,26447351,,,budgeted,src_kce_toelage_2026_press,medium,Ministerraad KB draft 26.447351m 2026 (+3.965m +17.6pct vs 2025); medium pending BS
+bud_kce_delta_2025_26,kce,2026,3965123,,,budgeted,src_kce_toelage_2026_press,medium,Delta 2026-2025 = 3.965123m
