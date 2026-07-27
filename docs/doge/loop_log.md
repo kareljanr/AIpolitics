@@ -848,6 +848,19 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T14:40:00Z -- tick 124
+- Unit: **rq_152** (GG expenditure bridge % of ~€348bn tagged) — prio 9 open
+- Found (synthesis from prior primary rows; **no invent euros**):
+  - **L0:** S.13 TE 2025 **€347.956 bn** (54.2% GDP) + primary €333.675 bn + interest €14.282 bn — **100% tagged** (strong NBB/Eurostat).
+  - **L1:** unconsol. S.1311 181.5 / S.1312 128.6 / S.1313 45.0 / S.1314 141.7 bn; sum €496.8 bn; transfer wedge **≈€148.9 bn** — **100% L1 map**.
+  - **L2 partial:** FL BA2025 66.5 + WAL 22.0 + FWB ~15 + BRU 8 + DG 0.7 ≈ **€112 bn** class vs S.1312 128.6 → **€15–20 bn residual** order in state layer (perimeter/year, not exact identity). RIZIV 45.2 bn ≈ **32%** of S.1314. Federal/local L5 thin.
+  - **L5 end-receivers:** samples only — **do not claim** near-complete naming of 348bn.
+  - Inventory: budgets 786; cmt 228; lb 160; taxex 153; FOI ready **34**; rq open was 38.
+- Wrote: `docs/doge/data/gg_expenditure_bridge_2025.md`; sources `src_doge_gg_bridge_2025`; rq_152=**done**; ticks=124
+- FOI: none new (residual already in ready stack + open RQs)
+- Next: **prio8** rq_123 gelijke kansen L5 / rq_124 BGD top50 / rq_125 VL subsidies / rq_130 NMBS / rq_131 De Lijn / rq_154 cheques TE
+
+
 ### 2026-07-27T14:25:00Z -- tick 123
 - Unit: **rq_122** (VL Het Wassalon 800k deepen tender L5) — prio 9 open
 - Found (primary / sourced; no invent euros):

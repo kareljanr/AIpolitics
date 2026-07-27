@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T14:25:00Z,rq_122,123,no,"Scheduler 60s. Next open prio9: rq_152 GG bridge; then rq_123/124/125/130/131 prio8; FOI ready stack human send."
+main,continuous,hole_fill,2026-07-27T14:40:00Z,rq_152,124,no,"Scheduler 60s. Next open prio8: rq_123/124/125/130/131/154; then prio7 equality/PES/parties; 34 FOI ready human send."
