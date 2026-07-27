@@ -2138,3 +2138,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 5; cmt 3; lb 4; foi gap_antwerp notes; rq_199=done; seeded **rq_200**.
 - FOI: residual 12+ culture partners + full register still human send; Mons BI2026 residual.
 - Next: prio5 **rq_200**; deferred **rq_116** SWA.
+
+### 2026-07-28T18:45:00Z - tick 206
+- Unit: **rq_200** (FOI-adjacent hole-fill - **Antwerp culture L5** Zomer + Extra City)
+- Found (strong ebesluit primary):
+  - **Zomer van Antwerpen 2026 EUR 1.210m**; max package **7.435m** 2026-2027; future plan 2028-38 due end-2026.
+  - **Kunsthal Extra City 2026 EUR 150k**; max **921.8k** 2026-2031.
+  - Culture L5 sample sum **6 houses = 7.16m** (Toneelhuis 3.30 + OBV 1.79 + ASO 0.61 + DeSingel 0.10 + Zomer 1.21 + ExtraCity 0.15) of ~35m envelope class.
+- Wrote: sources 2; budgets 4; cmt 3; lb 3; foi notes; rq_200=done; seeded **rq_201**.
+- FOI: residual partners (hetpaleis AMUZ JEF De Roma Morpho Tutti Fameus …) + full register human send; Mons BI2026 residual; police zone toelage ebesluit candidate.
+- Next: prio5 **rq_201**; deferred **rq_116** SWA.

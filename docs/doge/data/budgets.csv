@@ -2201,3 +2201,7 @@ bud_aso_antwerp_2026,city_antwerpen,2026,611000,,,budgeted,src_ebesluit_obv_aso_
 bud_obv_aso_sum_2026,city_antwerpen,2026,2397000,,,budgeted,src_ebesluit_obv_aso_2026,strong,OBV+ASO combined city 2.397m 2026 pending fusion
 bud_desingel_2026,city_antwerpen,2026,100000,,,budgeted,src_ebesluit_desingel_2026,strong,DeSingel city exp 100k 2026 (urban anchoring line)
 bud_desingel_max_2026_31,city_antwerpen,2031,614504,,,commitment,src_ebesluit_desingel_2026,strong,DeSingel max package 614504 EUR 2026-2031
+bud_zomer_antwerpen_2026,city_antwerpen,2026,1210000,,,budgeted,src_ebesluit_zomer_antwerpen_2026,strong,Zomer van Antwerpen city exp 1.21m 2026
+bud_zomer_antwerpen_max_2026_27,city_antwerpen,2027,7435480,,,commitment,src_ebesluit_zomer_antwerpen_2026,strong,Zomer max package 7.435m for 2026-2027 contract only
+bud_extra_city_2026,city_antwerpen,2026,150000,,,budgeted,src_ebesluit_extra_city_2026,strong,Kunsthal Extra City city exp 150k 2026
+bud_extra_city_max_2026_31,city_antwerpen,2031,921752,,,commitment,src_ebesluit_extra_city_2026,strong,Extra City max package 921752 EUR 2026-2031
