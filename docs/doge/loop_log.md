@@ -1963,3 +1963,17 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T13:25:00Z - progress@190
 - Refreshed **progress_every_10_ticks.md**: L2 ~62-70% (SFPIM+airports+Credendo+skeyes+SOWAER since 180); FOI ready ~60.
 - Refreshed **doge_waste_top10_current.md**: top10 unchanged (cheque 8.83 … gas product 7.98); n_lb=296; Credendo cover just outside top10.
+
+### 2026-07-28T13:45:00Z - tick 191
+- Unit: **rq_186** (FOI-adjacent hole-fill - **SOFICO Walloon structural infra RA2024**)
+- Found (strong primary Rapport annuel 2024; NBB-deposited accounts):
+  - **Produits d'exploitation EUR 495.1m 2024** (465.7m 2023 / 417.9m 2022) · charges 397.6m.
+  - **Bénéfice net 100.7m** (97.8m / 47.4m) · **investissements record 265m**.
+  - **PKPL truck toll 347m** (+11.2%; 1.92bn paid-km stable) — main funding of structural network.
+  - Infra assets under management **2.581bn** · equity **2.174bn** · net cash 197m · **net debt 336.8m** (EIB 351.8 + MTN 182).
+  - Network ~2_700 km autoroutes+nationales; cum invest since 2010 ~**3.7bn** class (370.8m 2024).
+  - Dual map: **SOFICO WAL roads** vs Flanders AWV; locks Meuse; fibre; renewable concessions.
+- Port of Antwerp-Bruges authority P&L still residual.
+- Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; rq_186=done; seeded **rq_187**.
+- FOI: none new (public strong); residual optional CAPEX L5 project list.
+- Next: prio5 **rq_187**; deferred **rq_116** SWA.

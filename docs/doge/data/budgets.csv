@@ -2042,3 +2042,23 @@ bud_sowaer_cash_2025,sowaer,2025,49844955,,,outturn,src_sowaer_comptes_2020_25,s
 bud_sowaer_personnel_2025,sowaer,2025,7687686,,,outturn,src_sowaer_comptes_2020_25,strong,Remunerations et charges sociales 7.688m 2025
 bud_sowaer_da_2025,sowaer,2025,31011741,,,outturn,src_sowaer_comptes_2020_25,strong,Amortissements 31.012m 2025
 bud_sowaer_treasury_notes_program,sowaer,2025,85000000,,,budgeted,src_sowaer_comptes_2020_25,medium,Treasury notes programme ceiling 85m guaranteed by Walloon Region (portal publications; not year utilisation)
+bud_sofico_op_rev_2024,sofico,2024,495100000,,,outturn,src_sofico_ra_2024,strong,Produits d exploitation 495.1m 2024
+bud_sofico_op_rev_2023,sofico,2023,465700000,,,outturn,src_sofico_ra_2024,strong,Produits d exploitation 465.7m 2023
+bud_sofico_op_rev_2022,sofico,2022,417900000,,,outturn,src_sofico_ra_2024,strong,Produits d exploitation 417.9m 2022
+bud_sofico_op_charges_2024,sofico,2024,397600000,,,outturn,src_sofico_ra_2024,strong,Charges d exploitation 397.6m 2024
+bud_sofico_op_charges_2023,sofico,2023,361500000,,,outturn,src_sofico_ra_2024,strong,Charges d exploitation 361.5m 2023
+bud_sofico_net_2024,sofico,2024,100700000,,,outturn,src_sofico_ra_2024,strong,Benefice net 100.7m 2024
+bud_sofico_net_2023,sofico,2023,97800000,,,outturn,src_sofico_ra_2024,strong,Benefice net 97.8m 2023
+bud_sofico_net_2022,sofico,2022,47400000,,,outturn,src_sofico_ra_2024,strong,Benefice net 47.4m 2022
+bud_sofico_invest_2024,sofico,2024,265000000,,,outturn,src_sofico_ra_2024,strong,Investissements record 265m 2024
+bud_sofico_invest_2023,sofico,2023,225300000,,,outturn,src_sofico_ra_2024,strong,Investissements 225.3m 2023
+bud_sofico_pkpl_2024,sofico,2024,347000000,,,outturn,src_sofico_ra_2024,strong,Redevance kilometrique poids lourds PKPL recettes 347m 2024 (+11.2pct)
+bud_sofico_infra_assets_2024,sofico,2024,2580700000,,,outturn,src_sofico_ra_2024,strong,Actifs d infrastructure sous gestion 2.5807bn end-2024
+bud_sofico_infra_assets_2023,sofico,2023,2476200000,,,outturn,src_sofico_ra_2024,strong,Actifs d infrastructure sous gestion 2.4762bn end-2023
+bud_sofico_equity_2024,sofico,2024,2174400000,,,outturn,src_sofico_ra_2024,strong,Capitaux propres 2.1744bn end-2024
+bud_sofico_equity_2023,sofico,2023,2052700000,,,outturn,src_sofico_ra_2024,strong,Capitaux propres 2.0527bn end-2023
+bud_sofico_net_cash_2024,sofico,2024,197000000,,,outturn,src_sofico_ra_2024,strong,Tresorerie nette 197m end-2024
+bud_sofico_net_debt_2024,sofico,2024,336800000,,,outturn,src_sofico_ra_2024,strong,Dette nette 336.8m end-2024 (EIB 351.8 + MTN 182 - cash)
+bud_sofico_eib_debt_2024,sofico,2024,351800000,,,outturn,src_sofico_ra_2024,strong,Emprunts BEI 351.8m end-2024
+bud_sofico_mtn_2024,sofico,2024,182000000,,,outturn,src_sofico_ra_2024,strong,Emission obligations MTN 182m end-2024
+bud_sofico_struct_network_invest_cum,sofico,2024,3700000000,,,outturn,src_sofico_ra_2024,medium,Invest reseau structurant cum since 2010 ~3.7bn to end-2024 (of which 370.8m in 2024 class)

@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T13:25:00Z,rq_185,190,no,"Scheduler 60s. Next prio5 rq_186 Port/taxex; rq_116 SWA deferred. FOI ready human send. tick190 SOWAER assets 492m public fill + progress@190."
+main,continuous,hole_fill,2026-07-28T13:45:00Z,rq_186,191,no,"Scheduler 60s. Next prio5 rq_187 Port/PMV/Liege; rq_116 SWA deferred. FOI ready human send. tick191 SOFICO op rev 495m PKPL 347m invest 265m."
