@@ -1778,3 +1778,24 @@ bud_swde_da_2024,swde,2024,116410000,,,outturn,src_swde_rf_2024,strong,Amortisse
 bud_swde_prod_immob_2024,swde,2024,52710000,,,outturn,src_swde_rf_2024,strong,Production immobilisee 52.710m 2024
 bud_swde_nrb_gain_2024,swde,2024,24542000,,,outturn,src_swde_rf_2024,strong,Plus-value vente parts Network Research Belgium 24.542m non-recurrent fin 2024
 bud_swde_cvd_2024,swde,2024,2.80,,,outturn,src_swde_faits_2024,strong,CVD cost-truth distribution EUR per m3 NOT total EUR: 2.80; amount stores 2.80
+bud_aquafin_omzet_2024,aquafin,2024,673066000,,,outturn,src_aquafin_jv_2024_gaap,strong,Omzet 673.066m 2024 BE-GAAP JV
+bud_aquafin_omzet_2023,aquafin,2023,662058000,,,outturn,src_aquafin_jv_2024_gaap,strong,Omzet 662.058m 2023 comparative
+bud_aquafin_bedrijfsopbr_2024,aquafin,2024,724230000,,,outturn,src_aquafin_jv_2024_gaap,strong,Bedrijfsopbrengsten 724.230m 2024
+bud_aquafin_bedrijfskosten_2024,aquafin,2024,646559000,,,outturn,src_aquafin_jv_2024_gaap,strong,Bedrijfskosten 646.559m 2024
+bud_aquafin_op_profit_2024,aquafin,2024,77671000,,,outturn,src_aquafin_jv_2024_gaap,strong,Bedrijfswinst 77.671m 2024
+bud_aquafin_net_profit_2024,aquafin,2024,4435000,,,outturn,src_aquafin_jv_2024_gaap,strong,Winst boekjaar 4.435m 2024 (4.877m 2023)
+bud_aquafin_assets_2024,aquafin,2024,4125022000,,,outturn,src_aquafin_jv_2024_gaap,strong,Totaal activa 4125.022m end-2024
+bud_aquafin_equity_2024,aquafin,2024,1115850000,,,outturn,src_aquafin_jv_2024_gaap,strong,Eigen vermogen 1115.850m end-2024
+bud_aquafin_capital_2024,aquafin,2024,298400000,,,outturn,src_aquafin_jv_2024_gaap,strong,Geplaatst kapitaal 298.4m (PMV 100pct)
+bud_aquafin_capital_subsidies_2024,aquafin,2024,780498000,,,outturn,src_aquafin_jv_2024_gaap,strong,Kapitaalsubsidies 780.498m end-2024
+bud_aquafin_lt_debt_2024,aquafin,2024,2207596000,,,outturn,src_aquafin_jv_2024_gaap,strong,LT financiele schulden 2207.596m (bonds 540.3m + banks 1667.3m)
+bud_aquafin_st_fin_debt_2024,aquafin,2024,150102000,,,outturn,src_aquafin_jv_2024_gaap,strong,ST financiele schulden 150.102m end-2024 (CP 145.5m class)
+bud_aquafin_personnel_2024,aquafin,2024,119183000,,,outturn,src_aquafin_jv_2024_gaap,strong,Bezoldigingen sociale lasten pensioenen 119.183m 2024 FTE 1201
+bud_aquafin_services_2024,aquafin,2024,155486000,,,outturn,src_aquafin_jv_2024_gaap,strong,Diensten en diverse goederen 155.486m 2024
+bud_aquafin_da_2024,aquafin,2024,217887000,,,outturn,src_aquafin_jv_2024_gaap,strong,Afschrijvingen 217.887m 2024
+bud_aquafin_projects_delivered_2024,aquafin,2024,226000000,,,outturn,src_aquafin_jv_2024_gaap,strong,Nieuwe projecten opgeleverd 226m 2024 (commentaar materiele VA)
+bud_aquafin_fin_costs_2024,aquafin,2024,73527000,,,outturn,src_aquafin_jv_2024_gaap,strong,Financiele kosten 73.527m 2024
+bud_spge_ca_2024,spge,2024,418000000,,,outturn,src_spge_ra_2024_en_bref,strong,SPGE chiffre d affaires 418m 2024 (en bref)
+bud_spge_debt_2024,spge,2024,1581000000,,,outturn,src_spge_ra_2024_en_bref,strong,SPGE endettement 1.581bn end-2024 Moody A3
+bud_spge_assets_2024,spge,2024,3738000000,,,outturn,src_spge_ra_2024_en_bref,strong,SPGE pieds de bilan 3.738bn end-2024
+bud_spge_invest_2024,spge,2024,200000000,,,outturn,src_spge_ra_2024_en_bref,medium,SPGE investissements >200m 2024 (en bref class floor)

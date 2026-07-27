@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T08:45:00Z,rq_171,176,no,"Scheduler 60s. Next prio5 rq_172 hole-fill Antwerp/Mons/taxex/Aquafin; rq_116 SWA deferred. FOI ready human send. tick176 SWDE CA 568m assets 2.37bn."
+main,continuous,hole_fill,2026-07-28T09:05:00Z,rq_172,177,no,"Scheduler 60s. Next prio5 rq_173 hole-fill Antwerp/Mons/taxex/Farys; rq_116 SWA deferred. FOI ready human send. tick177 Aquafin 673m SPGE 418m."

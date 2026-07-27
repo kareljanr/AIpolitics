@@ -1749,3 +1749,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 19; cmt 1; lb 2; FOI note; rq_171=done; seeded **rq_172**.
 - FOI: residual Fluvius municipal L5 + BCR capital calendar human send.
 - Next: prio5 **rq_172**; deferred **rq_116** SWA.
+
+### 2026-07-28T09:05:00Z — tick 177
+- Unit: **rq_172** (FOI-adjacent hole-fill — **Aquafin JV BE-GAAP 2024 + SPGE en bref 2024**)
+- Found (strong primary Aquafin statutory; SPGE key figures official site):
+  - **Aquafin:** omzet **EUR 673.1m 2024** (662.1m 2023) · bedrijfsopbrengsten **724.2m** · op. profit **77.7m** · **net 4.435m**.
+  - Assets **4.125bn** · equity **1.116bn** · capital **298.4m** (PMV 100%) · capital subsidies **780.5m**.
+  - LT fin. debt **2.208bn** (bonds **540m** + banks **1.667bn**) · ST fin **150m** · D&A **217.9m** · personnel **119.2m** · FTE **1_201**.
+  - Projects delivered **226m** 2024 · Moody's **Aa3** · commercial paper open **145.5m**.
+  - **SPGE:** CA **418m** · debt **1.581bn** · bilan **3.738bn** · invest **>200m** · FTE **58** · Moody's **A3**.
+  - Completes dual sanitation: **Aquafin VL** + **SPGE WAL** (+ Vivaqua Hydria BCR) alongside drinking water SWDE/Vivaqua/Farys class.
+- Mons BI2026 / Antwerp register still open.
+- Wrote: sources 2; entity 1+update; budgets 21; cmt 2; lb 2; FOI note; rq_172=done; seeded **rq_173**.
+- FOI: residual Fluvius municipal L5 + BCR capital + SPGE OAA top-20 human send.
+- Next: prio5 **rq_173**; deferred **rq_116** SWA.
