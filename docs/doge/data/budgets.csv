@@ -2432,3 +2432,28 @@ bud_mons_fabriques_catholiques_2026,city_mons,2026,1014436.23,,,budgeted,src_mon
 bud_mons_fabriques_protestants_2026,city_mons,2026,58778.52,,,budgeted,src_mons_ville_mb1_2026,strong,Mons fabriques eglise protestants 58.8k 2026
 bud_mons_budget_participatif_2026,city_mons,2026,107742.0,,,budgeted,src_mons_ville_mb1_2026,strong,Mons budget participatif 107.7k 2026
 bud_mons_cpas_dotation_tutelle_2026,city_mons,2026,26944775.57,,,budgeted,src_mons_ville_mb1_2026,strong,Mons CPAS dotation tutelle-approved 26.945m in MB1 recap (vs interv 27.918m prior)
+bud_cocom_scr_rec_2026,cocom,2026,1978869000,,,budgeted,src_cocom_budget_2026_coa,strong,SCR recettes total 1978.869m kEUR table6: federal LSF 1648.591 + SPRB 275.735 + divers 54.543
+bud_cocom_scr_dep_eng_2026,cocom,2026,2027747000,,,budgeted,src_cocom_budget_2026_coa,strong,SCR general dep engagement credits 2027.747m table8
+bud_cocom_scr_dep_liq_2026,cocom,2026,2040467000,,,budgeted,src_cocom_budget_2026_coa,strong,SCR general dep liquidation 2040.467m table8; headline total spend
+bud_cocom_scr_solde_2026,cocom,2026,-61600000,,,budgeted,src_cocom_budget_2026_coa,strong,SCR solde budgetaire brut -61.6m (rec 1978.9 - dep liq 2040.5)
+bud_cocom_m05_iriscare_dots_liq_2026,cocom,2026,1627568000,,,budgeted,src_cocom_budget_2026_coa,strong,Mission 05 transferred competences Iriscare dots liq 1627.568m (eng 1628.038m)
+bud_cocom_m05_iriscare_sante_2026,cocom,2026,469600000,,,budgeted,src_cocom_budget_2026_coa,strong,Dotation Iriscare Sante 469.6m eng=liq class
+bud_cocom_m05_iriscare_familles_2026,cocom,2026,1057800000,,,budgeted,src_cocom_budget_2026_coa,strong,Dotation Iriscare Allocations familiales 1057.8m
+bud_cocom_m04_aide_liq_2026,cocom,2026,145381000,,,budgeted,src_cocom_budget_2026_coa,strong,Mission 04 Aide aux personnes liq 145.381m eng 141.131m
+bud_cocom_m03_sante_liq_2026,cocom,2026,140935000,,,budgeted,src_cocom_budget_2026_coa,strong,Mission 03 Sante liq 140.935m eng 130.241m
+bud_cocom_m06_oaa_liq_2026,cocom,2026,62827000,,,budgeted,src_cocom_budget_2026_coa,strong,Mission 06 OAA sante/aide liq 62.827m (Iriscare fonct+invest)
+bud_cocom_m02_admin_2026,cocom,2026,24322000,,,budgeted,src_cocom_budget_2026_coa,strong,Mission 02 admin general eng=liq 24.322m
+bud_cocom_m07_nonmarchand_liq_2026,cocom,2026,35347000,,,budgeted,src_cocom_budget_2026_coa,strong,Mission 07 non-marchand liq 35.347m
+bud_cocom_sec_solde_2026,cocom,2026,-35000000,,,budgeted,src_cocom_budget_2026_coa,strong,Solde financement SEC after sous-util 64.7m = -35.0m path balance 2029
+bud_iriscare_total_2026,iriscare,2026,1826390000,,,budgeted,src_cocom_budget_2026_coa,strong,Iriscare balanced 1826.390m rec=dep; funded largely by SCR dots do not sum with SCR
+bud_iriscare_menages_2026,iriscare,2026,1099171000,,,budgeted,src_cocom_budget_2026_coa,strong,Iriscare Menages/allocations liq 1099.171m of which family benefits 1081.4m
+bud_iriscare_soins_2026,iriscare,2026,477765000,,,budgeted,src_cocom_budget_2026_coa,strong,Iriscare Soins de sante 477.765m incl nursing home forfaits 353.7m
+bud_iriscare_aide_2026,iriscare,2026,102125000,,,budgeted,src_cocom_budget_2026_coa,strong,Iriscare Aide aux personnes liq 102.125m incl AAPA 37.6m
+bud_iriscare_fonct_2026,iriscare,2026,61517000,,,budgeted,src_cocom_budget_2026_coa,strong,Iriscare fonctionnement 61.517m liq
+bud_iriscare_mr_forfaits_2026,iriscare,2026,353700000,,,budgeted,src_cocom_budget_2026_coa,strong,Forfaits maisons de repos 353.7m; 11600 beds MRPA/MRS + 65 CSJ
+bud_iriscare_af_2026,iriscare,2026,1081400000,,,budgeted,src_cocom_budget_2026_coa,strong,Allocations familiales 1081.4m eng/liq
+bud_new_samusocial_2026,new_samusocial,2026,71925000,,,budgeted,src_cocom_budget_2026_coa,strong,New Samusocial balanced 71.925m (+72pct vs 41.8m 2025); multi-fund BCR Fedasil COCOM
+bud_bruss_help_2026,bruss_help,2026,3324000,,,budgeted,src_cocom_budget_2026_coa,strong,BrussHelp 3.324m (+59pct); CoA says should be outside CFP if <7m
+bud_cocom_oaa_sum_2026,cocom,2026,1901639000,,,budgeted,src_cocom_budget_2026_coa,strong,OAA sum Iriscare+Samusocial+BrussHelp 1901.639m not additive to SCR
+bud_cocom_samusocial_dot_scr_2026,cocom,2026,27400000,,,budgeted,src_cocom_budget_2026_coa,strong,SCR subvention fonctionnement New Samusocial 27.4m (+1.2m)
+bud_cocom_fsas_2026,cocom,2026,39626000,,,budgeted,src_cocom_budget_2026_coa,strong,Fonds special action sociale 39.626m matched by SPRB receipt

@@ -310,3 +310,7 @@ beschut_wonen_antwerpen,Beschut Wonen Antwerpen,Habitat protege Anvers,Antwerp s
 cpas_mons,CPAS de Mons,CPAS Mons,Mons public social assistance centre,parastatal,city_mons,fr,https://www.mons.be,,,BI2026 global 149.4m city intervention 27.9m; tick231
 idea_hainaut,IDEA Coeur du Hainaut,IDEA,27-commune territorial development water energy intercommunale,intercommunale,wallonie_gov,fr,https://www.idea.be,,,Bilan 441.3m 2025 equity 279.3m; tick232
 hygea,HYGEA,HYGEA,Walloon Hainaut waste intercommunale (ex IDEA proprete),intercommunale,wallonie_gov,fr,,,Mons package 7.76m 2026; tick232
+cocom,Gemeenschappelijke Gemeenschapscommissie GGC,Commission communautaire commune COCOM,Common Community Commission Brussels,community,brussels_gov,bi,https://www.ccc-ggc.brussels,transparence@sprb.brussels,,Bicommunal health social family benefits; SCR+OAA; dual VL/FR structures; tick234
+iriscare,Iriscare,Iriscare Office bicommunautaire sante aide personnes prestations familiales,Iriscare bicommunal social security office,parastatal,cocom,bi,https://www.iriscare.brussels,,,OAA of COCOM; family benefits 1081m nursing homes 354m 2026; tick234
+new_samusocial,New Samusocial,New Samusocial ASBL,Brussels homelessness emergency ASBL,asbl,cocom,fr,https://www.samusocial.be,,,COCOM OAA; budget 71.9m 2026; CoA flags missing general accounts 2020-24; tick234
+bruss_help,BrussHelp,Bruss Help ASBL,Brussels homelessness coordination ASBL,asbl,cocom,bi,https://www.brusshelp.org,,,COCOM perimeter ASBL 3.3m 2026; below 7m CFP threshold CoA notes; tick234

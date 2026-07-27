@@ -2468,3 +2468,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 11; cmt 1; lb 3; foi note; rq_224=done; seeded **rq_225**.
 - FOI: ASBL top20 L5 still ready human send.
 - Next: prio5 **rq_225**; deferred **rq_116** SWA.
+
+### 2026-07-29T04:05:00Z - tick 234
+- Unit: **rq_225** (FOI-adjacent hole-fill - **COCOM / GGC budget 2026 CoA primary**)
+- Found (strong Cour des comptes report 6 May 2026, 27pp PDF):
+  - **SCR recettes EUR 1,978.869m**; **dep eng 2,027.747m** / **liq 2,040.467m**; solde **−61.6m**.
+  - **SEC solde after sous-util 64.7m: −35.0m** (path 0 by 2029: −35/−23/−11/0).
+  - **Iriscare OAA EUR 1,826.390m** balanced: Menages **1,099.2m** (AF **1,081.4m**); Soins **477.8m** (MR forfaits **353.7m**, 11,600 beds); Aide **102.1m** (AAPA 37.6m).
+  - **New Samusocial EUR 71.925m** (+72% vs 41.8m): multi-fund BCR +14.8 / Fedasil +9.3 / COCOM +3.6; SCR dot **27.4m**.
+  - **Bruss'Help EUR 3.324m** (+59%); CoA: below 7m CFP threshold should be excluded.
+  - Mission 05 Iriscare dots liq **1,627.6m** (Sante 469.6 + Familles 1,057.8 class).
+  - HRF net primary cap **2.29% 2026** / avg **2.73% 2025-31**; CoA notes exposé omits net-primary series.
+  - **Opacity (CoA-flagged):** comptes generaux COCOM 2019-24 never transmitted; New Samusocial/Bruss'Help accounts 2020-24 never approved/sent; no justificatory fiches Iriscare/Samusocial/Bruss'Help.
+- Wrote: sources 1; entities 4; budgets 25; cmt 3; lb 4; FOI draft gap_cocom_oaa_accounts **ready**; raw PDF; rq_225=done; seeded **rq_226**.
+- FOI: gap_cocom_oaa_accounts ready human send (accounts + L5); prior Mons ASBL residual still ready.
+- Next: prio5 **rq_226** (COCOF/VGC dual or other); deferred **rq_116** SWA.

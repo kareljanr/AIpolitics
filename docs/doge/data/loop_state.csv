@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T03:40:00Z,rq_224,233,no,"Scheduler 60s. Next prio5 rq_225; rq_116 SWA deferred. FOI ready human send. tick233 Mons Ville MB1 ord 241.8m extra 63.2m police 27.3m."
+main,continuous,hole_fill,2026-07-29T04:05:00Z,rq_225,234,no,Scheduler 60s. Next prio5 rq_226; rq_116 SWA deferred. FOI ready human send. tick234 COCOM SCR 2.04bn Iriscare 1.83bn Samusocial 71.9m.
