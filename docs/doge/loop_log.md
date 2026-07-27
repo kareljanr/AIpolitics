@@ -2383,3 +2383,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 13; cmt 1; lb 3; foi note; rq_218=done; seeded **rq_219**.
 - FOI: project L5 within Digipolis + Mons BI2026 + dual VL + register human send.
 - Next: prio5 **rq_219**; deferred **rq_116** SWA.
+
+### 2026-07-29T01:35:00Z - tick 227
+- Unit: **rq_219** (FOI-adjacent hole-fill - **Antwerp social L5 MJP full CAW + ADIC + FreeClinic + VAGGA**)
+- Found (strong MJP nominatief):
+  - **CAW Antwerpen full package 2026 EUR 16.916m**: sociale **12.684m** + veiligheid **3.430m** + onderwijs **0.520m** + samenleving **0.171m** + gezondheid **0.110m** (prior ebesluit Kwadraat+Parkours 2.27m is subset).
+  - **Free Clinic MJP EUR 2.436m** (broader than drug ebesluit subset 0.974m).
+  - **VAGGA EUR 0.945m** (sociale 0.837 + SE 0.032 + veil 0.076).
+  - **ADIC EUR 0.735m** 2026 (path to 0.812m 2031).
+  - Social L5 sample **4 orgs EUR 21.013m** 2026.
+  - Residual large youth: JES ~2.39m, Kras ~4.26m, Elegast ~1.28m (next tick); Mons BI2026 still FOI.
+- Wrote: sources 1; budgets 11; cmt 5; lb 5; foi note; rq_219=done; seeded **rq_220**.
+- FOI: CAW project L5 inside 12.7m + Mons BI2026 + dual VL + register human send.
+- Next: prio5 **rq_220**; deferred **rq_116** SWA.

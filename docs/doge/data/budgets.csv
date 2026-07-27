@@ -2371,3 +2371,14 @@ bud_digipolis_member_vespa_2026,digipolis_antwerpen,2026,3603271.13,,,budgeted,s
 bud_digipolis_member_zba_2026,digipolis_antwerpen,2026,4467307.79,,,budgeted,src_digipolis_markup_2026,strong,Digipolis omzet recharge Zorgbedrijf Antwerpen ZBA 2026 4467307.79
 bud_digipolis_stad_recharge_2026,city_antwerpen,2026,138020830.69,,,budgeted,src_digipolis_markup_2026,strong,Stad Antwerpen Digipolis omzet recharge 138.021m 2026 (full city IT via AGB; vs partial lock 38.8m)
 bud_digipolis_pza_lpa_recharge_2026,city_antwerpen,2026,69468352.01,,,budgeted,src_digipolis_markup_2026,strong,PZA LPA Digipolis omzet recharge 69.468m 2026 (vs prior PZA Digipolis package 53.5m 2025 class)
+bud_caw_mjp_total_2026,city_antwerpen,2026,16915966.09,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,CAW Antwerpen full MJP nominatief package 16.916m 2026 (5 domains)
+bud_caw_mjp_sociale_2026,city_antwerpen,2026,12684459.99,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,CAW MJP sociale zaken 12.684m 2026
+bud_caw_mjp_veiligheid_2026,city_antwerpen,2026,3429991.1,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,CAW MJP veiligheid 3.430m 2026
+bud_caw_mjp_onderwijs_2026,city_antwerpen,2026,520367.0,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,CAW MJP onderwijs 0.520m 2026
+bud_caw_mjp_samenleving_2026,city_antwerpen,2026,171148.0,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,CAW MJP samenlevingsopbouw 0.171m 2026
+bud_caw_mjp_gezondheid_2026,city_antwerpen,2026,110000.0,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,CAW MJP gezondheidszorg 0.110m 2026
+bud_adic_2026,city_antwerpen,2026,735034.87,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,ADIC drug intervention centre 0.735m 2026 MJP
+bud_freeclinic_mjp_total_2026,city_antwerpen,2026,2435715.2,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,Free Clinic full MJP sociale 2.436m 2026 (broader than drug ebesluit 0.97m)
+bud_vagga_total_2026,city_antwerpen,2026,944949.63,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,VAGGA ambulatory mental health package 0.945m 2026
+bud_vagga_sociale_2026,city_antwerpen,2026,836950.81,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,VAGGA sociale zaken 0.837m 2026
+bud_antwerp_social_l5_sample_2026,city_antwerpen,2026,21031665.79,,,budgeted,src_antwerp_mjp_2026_social_nominatief,strong,Social L5 sample CAW+ADIC+FreeClinic+VAGGA 21.031m 2026
