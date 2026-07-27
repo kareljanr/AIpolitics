@@ -5551,3 +5551,56 @@ bud_career_break_harmon_2026,rva,2026,4700000,,,budgeted,src_ccrek_budget2026_tr
 bud_chom_measures_net_new_2026,rva,2026,-40500000,,,budgeted,src_ccrek_budget2026_transversal,medium,Dec2025 notified new+adapted chom measures net -40.5m 2026 (gestion costs outweigh small savings)
 bud_chom_pivot_impact_2026,rva,2026,115700000,,,budgeted,src_ccrek_budget2026_transversal,medium,Chomage pivot-index projection +115.7m 2026 (Jan vs Dec pivot mismatch not reest)
 bud_chom_other_impacts_2026,rva,2026,103800000,,,budgeted,src_ccrek_budget2026_transversal,medium,Chomage other impacts (daily rates arrears days category shifts) +103.8m 2026
+bud_fed_cash_total_2026,sec_federal,2026,164434000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Federal cash receipts total 164434m 2026 (+2.8pct; excl communal IPP additionals)
+bud_fed_cash_fiscal_2026,sec_federal,2026,157943000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Federal cash fiscal receipts 157943m 2026 (+4595 / +3.0pct)
+bud_fed_cash_nonfiscal_2026,sec_federal,2026,6491000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Federal cash non-fiscal 6491m 2026 (dual CoA nonfiscal 6470 V&M class)
+bud_fed_cash_total_2025,sec_federal,2025,159887000000,,,outturn,src_ccrek_budget2026_fiscal_ipp,strong,Federal cash total realizations 2025 159887m
+bud_fed_transfers_total_2026,sec_federal,2026,92528000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Transfers to other public powers 92528m 2026 (56.3pct of cash receipts; +1407)
+bud_fed_transfers_eu_2026,sec_federal,2026,4150000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Transfers to EU 4150m 2026 (+116)
+bud_fed_transfers_rc_2026,sec_federal,2026,59183000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Transfers regions and communities 59183m 2026 (+810)
+bud_fed_transfers_ss_2026,sec_ss,2026,27325000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Transfers to social security 27325m 2026 (+403; dual altfin)
+bud_fed_transfers_divers_2026,sec_federal,2026,1870000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Transfers divers 1870m 2026
+bud_fed_vm_2026,sec_federal,2026,71906000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Budget voies et moyens residual 71906m 2026 (43.7pct of cash; +3140)
+bud_fed_fiscal_sec_base_2026,fod_finance,2026,162559200000,,,estimate,src_ccrek_budget2026_fiscal_ipp,strong,FPS AGESS SEC fiscal base est 162559.2m 2026 (pre-conclave)
+bud_fed_fiscal_sec_cm_2026,fod_finance,2026,162667000000,,,estimate,src_ccrek_budget2026_fiscal_ipp,strong,SEC fiscal after monitoring committee tech +108m = 162667m 2026
+bud_fed_fiscal_sec_conclave_2026,fod_finance,2026,163805500000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,SEC fiscal after Dec conclave 163805.5m 2026 (+1138.5 new measures)
+bud_fed_cash_corrections_2026,fod_finance,2026,-5862600000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Cash vs SEC corrections -5862.6m 2026 (mostly withholding tax PP -4638.6)
+bud_fed_conclave_tax_measures_2026,fod_finance,2026,1384800000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Dec2025 conclave new fiscal measures +1384.8m SEC 2026 (cash lag 1-2mo CoA)
+bud_ipp_cash_delta_2026,fod_finance,2026,1156500000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,IPP cash +1156.5m 2026 (+2.1pct)
+bud_ipp_reform_phase1_2026,fod_finance,2026,-421000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,IPP reform phase1 incidence -421m 2026 (full-year class; half may defer to roles 2027-28)
+bud_ipp_reform_cum_2030,fod_finance,2030,-5600000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,IPP reform cumulative cost 5.6bn by 2030 (federal share 4.1bn; DOC 56/1243)
+bud_ipp_reform_fed_2030,fod_finance,2030,-4100000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,IPP reform federal power share cost 4.1bn cumulative 2030
+bud_ipp_reform_side_net_fed,fod_finance,2026,67400000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,IPP reform side measures net +104.4m total / federal +67.4m (conjugal quotient phase-out etc)
+bud_ipp_pp_reform_roles_2025,fod_finance,2026,220800000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Withholding-tax reform impact on EI2025 roles +220.8m in 2026 cash
+bud_ipp_h1_regional_defer,fod_finance,2026,37800000,,,estimate,src_ccrek_budget2026_fiscal_ipp,medium,Regional IPP prefinancing avoided H1 2026 if PP starts Jul 37.8m (plus communal 12.52m)
+bud_cit_cash_delta_2026,fod_finance,2026,649900000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,CIT cash +649.9m 2026 (+2.5pct); includes Russia frozen assets VA 1163m class
+bud_vat_cash_delta_2026,fod_finance,2026,1174600000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,VAT cash +1174.6m 2026 (+3.1pct); measures +511.2; 2025 chain effect -585
+bud_vat_measures_2026,fod_finance,2026,511200000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT government measures contribution +511.2m 2026
+bud_vat_chain_hit_2025,fod_finance,2025,-585000000,,,estimate,src_ccrek_budget2026_fiscal_ipp,medium,New VAT chain monthly credit refunds cash hit -585m 2025 first est
+bud_excise_cash_delta_2026,fod_finance,2026,-4800000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Excises cash almost flat -4.8m 2026 (energy +93.4 tobacco -20.7 other -77.5)
+bud_pm_cash_delta_2026,fod_finance,2026,334600000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,strong,Precompte mobilier cash +334.6m 2026 (+4.4pct dividends+interest)
+bud_cgt_pm_gross_2026,fod_finance,2026,236000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Capital gains tax intermediary PM gross 236m 2026 (no 10k exemption)
+bud_cgt_net_2026,fod_finance,2026,120000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,CGT real 2026 net 120m after 10k exemption (116m refunded via roles 2027-28)
+bud_cgt_cruise_2032,fod_finance,2032,600000000,,,estimate,src_ccrek_budget2026_fiscal_ipp,weak,CGT cruise yield 600m/yr from 2032 (uncertain params CoA)
+bud_excise_reform_net_2029,fod_finance,2029,273000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Environmental excise reform net cum +273m 2029 (gas+365 heat+28 fuels+50 elec-170; FPS gas calc only 170 → overstate 195 CoA)
+bud_excise_gas_budget_2029,fod_finance,2029,365000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,weak,Gas excise budgeted gain 365m cum 2029 (FPS note 170m; CoA overstate 195)
+bud_excise_elec_loss_2029,fod_finance,2029,-170000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Electricity excise cut loss 170m cum 2029
+bud_excise_social_tariff_elec,fod_finance,2026,36000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Social-tariff electricity excise to 1EUR/MWh cost 36m/yr financed Social Climate Fund (not in fiscal rec yet)
+bud_vat_rates_reform_2026,fod_finance,2026,580500000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT rate reform package +580.5m 2026 (from Mar1; Council of State timing risk)
+bud_vat_phytopharma_2026,fod_finance,2026,53000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT pesticides 12->21 +53m 2026
+bud_vat_hotels_2026,fod_finance,2026,158000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT hotels/camping 6->12 +158m 2026
+bud_vat_culture_sport_2026,fod_finance,2026,253000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT culture/sport/entertainment access 6->12 +253m budget (FPS 266.9; exceptions theatre opera classical)
+bud_vat_takeaway_2026,fod_finance,2026,362000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT takeaway food 6->12 +362m 2026
+bud_vat_drinks_resto_2026,fod_finance,2026,-140000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT soft drinks/resto/catering path -140m 2026
+bud_vat_transitional_conso_2026,fod_finance,2026,-105500000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VAT transitional consumption measures -105.5m 2026
+bud_accounts_tax_double_2026,fod_finance,2026,414000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Annual securities-account tax 0.15->0.30 +414m 2026 (89.5pct of double 462 base 2024; public bodies ~7pct)
+bud_vvpr_18pct_2026,fod_finance,2026,90000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,VVPR/liquidation reserves withholding 15->18 +90m 2026 (VVPR only; liquidation from 2029)
+bud_vvpr_anticipation_2025,fod_finance,2025,1209600000,,,outturn,src_ccrek_budget2026_fiscal_ipp,strong,VVPR-class PM distributions cash 1209.6m 2025 (+449.2; Dec spike +404.6 anticipation)
+bud_copyright_forfait_end_2026,fod_finance,2026,30000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,End copyright flat-cost deduction except arts certificate +30m 2026
+bud_alimony_deduct_2026,fod_finance,2026,26600000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Alimony deductibility phase-down +26.6m 2026 (late pub → mostly EI2027)
+bud_dlu_quinquies_2026,fod_finance,2026,126000000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,weak,Fiscal regularisation DLU quinquies 126m 2026 (2025 only 3.1m/14 files; coop federated pending)
+bud_dlu_quinquies_2025,fod_finance,2025,3100000,,,outturn,src_ccrek_budget2026_fiscal_ipp,strong,DLU quinquies outturn 3.1m 2025 (73 dossiers / 14 closed)
+bud_vat_heatpump_2026,fod_finance,2026,-10100000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Heat-pump VAT 21->6 in homes <10y cost -10.1m 2026 (7pct share understates CoA)
+bud_meal_voucher_reform_2026,fod_finance,2026,-55800000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Meal voucher face to 10EUR fiscal cost -55.8m FPS (expose -75.5)
+bud_auto_green_cost_2026,fod_finance,2026,58300000,,,estimate,src_ccrek_budget2026_fiscal_ipp,weak,Auto greening CIT cost 58.3m 2026 (2021 FPS est not in budget; not updated)
+bud_min_tax_roles_2026,fod_finance,2026,32200000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Minimum tax additional roles 32.2m 2026 (75.2m 2025; OECD side-by-side risk)

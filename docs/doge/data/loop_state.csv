@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T13:15:00Z,rq_388,397,no,Scheduler 60s. Next prio5 rq_389; rq_116 SWA deferred. FOI ready. tick397 transversal+chom.
+main,continuous,hole_fill,2026-08-01T13:45:00Z,rq_389,398,no,Scheduler 60s. Next prio5 rq_390; progress@400 mandatory; rq_116 SWA deferred. tick398 fiscal.

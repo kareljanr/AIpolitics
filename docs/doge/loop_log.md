@@ -4547,3 +4547,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~70; cmt +5; lb +8; FOI **gap_antifraud_method_l5** + **gap_centimes_impl_l5** ready; rq_388=done; spawn **rq_389**; ticks=397
 - FOI: antifraud method + centimes AR/IT human send only
 - Next: prio5 **rq_389**; deferred **rq_116** SWA
+
+### 2026-08-01T13:45:00Z - tick 398
+- Unit: **rq_389** (FOI-adjacent hole-fill - **federal fiscal cash/SEC + IPP reform 5.6bn + VAT rates + CGT + accounts tax**)
+- Found (strong/medium primary CoA Budget 2026 Part II Ch.I recettes):
+  - Cash total **164.4bn** · fiscal **157.9bn** · nonfiscal **6.5bn** · transfers **92.5bn** (R&C 59.2 · SS 27.3 · EU 4.15) · V&M **71.9bn**
+  - SEC after conclave **163.8bn**; cash corrections **-5.86bn**; new conclave measures **+1.38bn** SEC
+  - IPP +1.16bn cash; reform phase1 **-421m** 2026; cum cost **5.6bn** by 2030 (fed **4.1bn**)
+  - VAT rates reform **+580.5m** (hotels 158 culture 253 takeaway 362 phytopharma 53; resto -140)
+  - CGT net **120m** 2026 (gross PM 236; cruise **600m** 2032); accounts tax double **+414m**
+  - Excise env net **+273m** by 2029 (gas overstate 195 CoA); VVPR 18pct **+90m**; DLU **126m** soft (2025 only 3.1m)
+  - Meal vouchers **-55.8m**; heat-pump VAT **-10.1m**; copyright forfait **+30m**
+- Wrote: sources +1; budgets ~60; cmt +6; lb +8; FOI **gap_ipp_reform_aurora_l5** + **gap_cgt_method_l5** ready; rq_389=done; spawn **rq_390**; ticks=398
+- FOI: IPP Aurora L5 + CGT method human send only
+- Next: prio5 **rq_390**; **progress@400** mandatory next+2; deferred **rq_116** SWA
