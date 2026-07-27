@@ -2497,3 +2497,19 @@ bud_opgroeien_rec_2026,opgroeien,2026,7611411000,,,budgeted,src_vl_uitgaven_decr
 bud_opgroeien_vak_2026,opgroeien,2026,7578928000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Opgroeien regie VAK 7578.928m
 bud_opgroeien_vek_2026,opgroeien,2026,7611411000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Opgroeien regie VEK 7611.411m
 bud_vl_wvg_triple_iva_vek_2026,sec_flanders,2026,15225261000,,,budgeted,src_vl_uitgaven_decreet_2026_vaph,strong,Sum VEK VAPH+VSB+Opgroeien 2.865+4.748+7.611=15.225bn class; not additive with WVG programme double-count caution
+bud_aviq_dots_cl_2026,aviq,2026,6810832000,,,budgeted,src_wal_epco_coppieters_2026,strong,Sum pure AViQ DF 093.015-024 + capital CL = 6810832000; excludes federal hospital 179.6m Famiwal 36.4m CRAC WallonieSante
+bud_aviq_dots_ce_2026,aviq,2026,6784957000,,,budgeted,src_wal_epco_coppieters_2026,strong,Pure AViQ CE current+capital eng class 6784957000
+bud_aviq_fonct_2026,aviq,2026,88455000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.015 fonctionnement 88.455m (-3.5m vs 91.94m 2025 RH)
+bud_aviq_paritaires_2026,aviq,2026,1749566000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.016 missions paritaires 1749.566m
+bud_aviq_reglementees_2026,aviq,2026,1848969000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.017 missions reglementees 1848.969m (health disability aging class)
+bud_aviq_af_2026,aviq,2026,3008488000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.023 allocations familiales 3008.488m; dual Iriscare AF 1081m COCOM
+bud_aviq_caisses_af_2026,aviq,2026,41351000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.024 remuneration caisses privees AF 41.351m
+bud_aviq_fac_handicap_2026,aviq,2026,7799000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.019 facultatives handicap 7.799m
+bud_aviq_fac_sante_2026,aviq,2026,27719000,,,budgeted,src_wal_epco_coppieters_2026,strong,DF 093.018 facultatives sante bien-etre 27.719m (-5m)
+bud_prog_17093_ce_2026,wallonie_gov,2026,7026601000,,,budgeted,src_wal_epco_coppieters_2026,strong,Prog 17.093 total CE 7026.601m (AViQ + federal hospital + Famiwal + CRAC + WallonieSante)
+bud_prog_17093_cl_2026,wallonie_gov,2026,7062476000,,,budgeted,src_wal_epco_coppieters_2026,strong,Prog 17.093 total CL 7062.476m
+bud_aviq_inexec_2024,aviq,2024,316804606.96,,,outturn,src_wal_pq_aviq_inexec_2025,strong,Inexecution SEC 316.8m 4.43pct annex; implies budget base ~7.15bn
+bud_aviq_inexec_2023,aviq,2023,389908463.52,,,outturn,src_wal_pq_aviq_inexec_2025,strong,Inexecution SEC 389.9m 5.73pct annex; implies budget base ~6.80bn
+bud_aviq_budget_implied_2024,aviq,2024,7151345530,,,outturn,src_wal_pq_aviq_inexec_2025,medium,Implied total budget from inexec/pct = 7151345530; aligns minister ~7bn
+bud_aviq_treasury_refund_2026,aviq,2026,230000000,,,budgeted,src_wal_epco_coppieters_2026,strong,Region receives 230m treasury surplus refund from AViQ 2026 (335.3m in 2025)
+bud_aviq_effort_2026,aviq,2026,33900000,,,budgeted,src_wal_epco_coppieters_2026,strong,Effort package 33.9m class: fonct -3.5m + mission recentrage path (press 5.6+28.3); structural path 24.54m 2027 / 29.54m 2028

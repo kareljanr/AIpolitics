@@ -2510,3 +2510,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entities 3; budgets 12; cmt 3; lb 4; FOI gap_vaph_pvb_l5 **ready**; raw PDF; rq_227=done; seeded **rq_228**.
 - FOI: VAPH PVB top operators L5 + underbenutting path human send.
 - Next: prio5 **rq_228** (AViQ dual); deferred **rq_116** SWA; progress@240 due in 4 ticks.
+
+### 2026-07-29T05:35:00Z - tick 237
+- Unit: **rq_228** (FOI-adjacent hole-fill - **AViQ dual VAPH from EPCO 17.093 + PQ annex**)
+- Found (strong primary):
+  - **Pure AViQ regional dots 2026 CL ~EUR 6,810.8m** (CE current+cap class ~6,785.0m): fonct **88.5m**; paritaires **1,749.6m**; reglementees **1,849.0m**; **AF 3,008.5m**; caisses AF **41.4m**; fac sante/handicap/communes/EU ~41.0m; capital CL ~33.0m.
+  - Prog **17.093 total CE 7,026.6m / CL 7,062.5m** (includes federal hospital 179.6m, Famiwal 36.4m, CRAC, Wallonie Sante — not pure AViQ).
+  - **Inexecution annex:** 2023 **389.9m (5.73%)** → implied budget **~6.80bn**; 2024 **316.8m (4.43%)** → **~7.15bn**; recurring corrected **219m / 202m**.
+  - Branch liquidation rates 2024: protection 94.21%; sante 92.76%; **handicap 97.46%**; familles 98.46%; gestion 90.11%.
+  - Treasury refund to Region: **335.3m 2025** / **230m 2026**.
+  - Dual: VAPH disability **2.87bn** vs AViQ multi-branch **~6.81bn** vs Phare **0.21bn** (do not sum; handicap split inside AViQ residual FOI).
+- Wrote: sources 2; entity 1; budgets 16; cmt 1; lb 4; FOI gap_aviq_branch_l5 **ready**; raw epco; rq_228=done; seeded **rq_229**.
+- FOI: branch split + operator L5 human send.
+- Next: prio5 **rq_229**; progress@240 in 3 ticks; deferred **rq_116** SWA.
