@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T07:15:00Z,rq_376,385,no,Scheduler 60s. Next prio5 rq_377; rq_116 SWA deferred. FOI ready. tick385 FPD pensions PensionStat 69.05bn 2025.
+main,continuous,hole_fill,2026-08-01T07:45:00Z,rq_377,386,no,Scheduler 60s. Next prio5 rq_378; rq_116 SWA deferred. FOI ready. tick386 RSVZ GG indep 6.52bn.

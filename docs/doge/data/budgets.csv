@@ -4905,3 +4905,67 @@ bud_fpd_smals_staff_2024,fpd,2024,174,,,outturn,src_fpd_jv2024_kerncijfers,stron
 bud_fpd_min_pension_beneficiaries_2024,fpd,2024,997562,,,outturn,src_fpd_jv2024_kerncijfers,strong,997562 pensioners on minimum (Jan2024 / 2023 figures class) = 41pct of cohort (count unit)
 bud_fpd_pension_rights_count_2024,fpd,2024,4300000,,,outturn,src_fpd_jv2024_kerncijfers,medium,4.3m pension rights paid to 2.62m persons (mixed careers dual rights; count unit)
 bud_pension_cadastre_y_2025,fpd,2025,2097295000,,,outturn,src_pensionstat_depenses_2025,strong,Cadastre=Y share 2097.3m 2025 (Fonct 1785.2 + Sal 312.0 + Ind 0.07) residual class vs core N
+bud_gg_indep_dep_2022,rsvz,2022,5544200000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Gestion globale independants depenses consolidees 5544.2m CoA SPF SS
+bud_gg_indep_pens_2022,rsvz,2022,4698900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep pensions 4698.9m (paid via FPD dual)
+bud_gg_indep_invalidite_2022,rsvz,2022,722800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep invalidite/incapacite 722.8m
+bud_gg_indep_rec_2022,rsvz,2022,8615800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep recettes consolidees 8615.8m
+bud_gg_indep_cotis_2022,rsvz,2022,4843600000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep cotisations sociales 4843.6m
+bud_gg_indep_solde_2022,rsvz,2022,-884300000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep solde provisoire -884.3m
+bud_gg_indep_dep_2023,rsvz,2023,6011800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Gestion globale independants depenses consolidees 6011.8m CoA SPF SS
+bud_gg_indep_pens_2023,rsvz,2023,5211200000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep pensions 5211.2m (paid via FPD dual)
+bud_gg_indep_invalidite_2023,rsvz,2023,822100000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep invalidite/incapacite 822.1m
+bud_gg_indep_rec_2023,rsvz,2023,9757400000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep recettes consolidees 9757.4m
+bud_gg_indep_cotis_2023,rsvz,2023,5333700000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep cotisations sociales 5333.7m
+bud_gg_indep_solde_2023,rsvz,2023,425900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep solde provisoire 425.9m
+bud_gg_indep_dep_2024,rsvz,2024,6523100000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Gestion globale independants depenses consolidees 6523.1m CoA SPF SS
+bud_gg_indep_pens_2024,rsvz,2024,5597800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep pensions 5597.8m (paid via FPD dual)
+bud_gg_indep_invalidite_2024,rsvz,2024,915400000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep invalidite/incapacite 915.4m
+bud_gg_indep_rec_2024,rsvz,2024,10293000000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep recettes consolidees 10293.0m
+bud_gg_indep_cotis_2024,rsvz,2024,5627800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep cotisations sociales 5627.8m
+bud_gg_indep_solde_2024,rsvz,2024,-71400000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,GG indep solde provisoire -71.4m
+bud_gg_indep_cotis_personnes_2024,rsvz,2024,5322300000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Cotisations independants personnes 5322.3m 2024 (94.57pct)
+bud_gg_indep_cotis_societes_2024,rsvz,2024,297900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Cotisations societes 297.9m 2024 (5.29pct)
+bud_gg_indep_cotis_other_2024,rsvz,2024,7500000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Cotisations mandataires + 2e pilier 7.5m 2024
+bud_gg_indep_dot_ordinaire_2024,rsvz,2024,457600000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Dotation ordinaire Etat INASTI-GG 457.6m 2024
+bud_gg_indep_dot_equilibre_2024,rsvz,2024,477500000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Dotation equilibre Etat INASTI-GG 477.5m 2024
+bud_gg_indep_dot_total_2024,rsvz,2024,935100000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Dotations Etat total INASTI-GG 935.1m 2024
+bud_gg_indep_dot_total_2022,rsvz,2022,860000000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Dotations Etat INASTI-GG 860.0m 2022
+bud_gg_indep_dot_total_2023,rsvz,2023,1190900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Dotations Etat INASTI-GG 1190.9m 2023
+bud_gg_indep_altfin_2024,rsvz,2024,3650900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Financement alternatif INASTI-GG 3650.9m 2024
+bud_gg_indep_altfin_2022,rsvz,2022,2898500000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Altfin INASTI-GG 2898.5m 2022
+bud_gg_indep_altfin_2023,rsvz,2023,3180700000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Altfin INASTI-GG 3180.7m 2023
+bud_gg_indep_altfin_tva_base_2024,rsvz,2024,1794600000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Altfin TVA base 1794.6m 2024
+bud_gg_indep_altfin_pm_2024,rsvz,2024,1182400000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Altfin precompte mobilier 1182.4m 2024
+bud_gg_indep_altfin_sante_2024,rsvz,2024,673900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Altfin TVA soins sante 673.9m 2024
+bud_gg_indep_droit_passerelle_2024,rsvz,2024,4700000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Droit passerelle 4.7m 2024
+bud_gg_indep_encours_societes_2024,rsvz,2024,133500000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Encours cotisations societes 133.5m EOY 2024
+bud_inasti_missions_dep_2022,rsvz,2022,9550700000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI depenses missions 9550.7m 2022 CoA comptes
+bud_inasti_missions_dep_2023,rsvz,2023,9712400000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI depenses missions 9712.4m 2023
+bud_inasti_missions_rec_2022,rsvz,2022,8731000000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI recettes missions 8731.0m 2022
+bud_inasti_missions_rec_2023,rsvz,2023,9901000000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI recettes missions 9901.0m 2023
+bud_inasti_beheer_2022,rsvz,2022,92200000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI depenses gestion 92.2m 2022
+bud_inasti_beheer_2023,rsvz,2023,106900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI depenses gestion 106.9m 2023 (+16pct)
+bud_inasti_beheer_rec_2023,rsvz,2023,6800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,INASTI recettes gestion 6.8m 2023
+bud_inasti_unpaid_cotis_2023,rsvz,2023,1552600000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Cotisations impayees hors bilan 1552.6m EOY 2023
+bud_inasti_unpaid_ind_2023,rsvz,2023,104900000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,Indemnites non remboursees hors bilan 104.9m EOY 2023
+bud_ss_consol_dep_2024,rsvz,2024,139257400000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,SS depenses consolidees 139257.4m 2024
+bud_ss_consol_rec_2024,rsvz,2024,139794800000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,SS recettes consolidees 139794.8m 2024
+bud_ss_consol_solde_2024,rsvz,2024,537300000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,SS solde provisoire +537.3m 2024
+bud_ss_frais_gestion_2024,rsvz,2024,2790600000,,,outturn,src_ccrek_ss_182e_inasti_2025,strong,SS frais de gestion consolides 2790.6m 2024
+bud_rsvz_affilies_2024,rsvz,2024,1299825,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Independants affiliates 1299825 EOY 2024 (+20655; COUNT unit)
+bud_rsvz_act_principale_2024,rsvz,2024,801544,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Activite principale 801544 2024 (COUNT)
+bud_rsvz_act_compl_2024,rsvz,2024,341591,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Activite complementaire 341591 2024 (COUNT)
+bud_rsvz_apres_pension_2024,rsvz,2024,156690,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Actifs apres pension 156690 2024 (COUNT)
+bud_rsvz_societes_2024,rsvz,2024,707073,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Societes redevables cotisation 707073 2024 (COUNT)
+bud_rsvz_pensionnes_2024,rsvz,2024,611342,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Pensionnes regime indep 611342 1.1.2024 (COUNT)
+bud_rsvz_starters_2024,rsvz,2024,123088,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Starters 123088 2024 (COUNT)
+bud_rsvz_stoppers_2024,rsvz,2024,67188,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Stoppers 67188 2024 (COUNT)
+bud_rsvz_etudiants_2024,rsvz,2024,8716,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Etudiants-independants 8716 2024 (COUNT)
+bud_rsvz_conjoints_2024,rsvz,2024,15620,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Conjoints aidants 15620 2024 (COUNT)
+bud_cas_acerta_aff_2024,rsvz,2024,341015,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS ACERTA affiliates 341015 2024 largest private (COUNT)
+bud_cas_xerius_aff_2024,rsvz,2024,246581,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS XERIUS 246581 2024 (COUNT)
+bud_cas_liantis_aff_2024,rsvz,2024,241349,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS LIANTIS 241349 2024 (COUNT)
+bud_cas_partena_aff_2024,rsvz,2024,136304,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS PARTENA 136304 2024 (COUNT)
+bud_cas_securex_aff_2024,rsvz,2024,138509,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS SECUREX INTEGRITY 138509 2024 (COUNT)
+bud_cas_ucm_aff_2024,rsvz,2024,118026,,,outturn,src_rsvz_chiffres_tendances_2024,strong,CAS UCM Wallonne 118026 2024 (COUNT)
+bud_cas_cna_aff_2024,rsvz,2024,8721,,,outturn,src_rsvz_chiffres_tendances_2024,strong,Caisse nationale auxiliaire CNA 8721 2024 public residual (COUNT)

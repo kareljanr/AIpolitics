@@ -4387,3 +4387,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +38; cmt +1; lb +7; entity note; FOI **gap_fpd_beheer_igo_l5** ready + draft; rq_376=done; spawn **rq_377**; ticks=385
 - FOI: beheer 2024-25 + IGO + Ethias/rents inside 69.4bn human send only
 - Next: prio5 **rq_377**; deferred **rq_116** SWA
+
+### 2026-08-01T07:45:00Z - tick 386
+- Unit: **rq_377** (FOI-adjacent hole-fill - **RSVZ/INASTI gestion globale independants + dual CAS L5**)
+- Found (strong primary CoA Cahier 2025 SS + RSVZ Chiffres 2024):
+  - GG indep **dep EUR 6,523.1m 2024** (pens 5,597.8 · invalidite 915.4 · path 5.54/6.01/6.52)
+  - GG indep **rec 10,293.0m** · **cotis 5,627.8m** (personnes 5,322.3 · societes 297.9) · solde **-71.4m**
+  - Dotations Etat **935.1m** · altfin **3,650.9m** · unpaid hors bilan **1,552.6m** cotis + **104.9m**
+  - INASTI missions **9,712.4m** / beheer **106.9m** 2023
+  - Affiliates **1,299,825** · CAS top ACERTA 341k · XERIUS 247k · LIANTIS 241k · societes 707k
+- Wrote: sources +2; budgets +64; cmt +1; lb +7; entity; FOI **gap_rsvz_cas_admin_l5** ready; rq_377=done; spawn **rq_378**; ticks=386
+- FOI: CAS admin fees + beheer 2024-25 + recovery path human send only
+- Next: prio5 **rq_378**; deferred **rq_116** SWA
