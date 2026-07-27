@@ -848,6 +848,14 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T14:20:00Z -- cadence: 60s scheduler (user)
+- User: drop timer; prefer chain-on-complete or 30s/1m.
+- Platform: durable scheduler is **interval-only** (no native on-complete chain); **min interval 60s** (30s not available).
+- Cancelled 15m task **019fa288382e**; created **60s** durable task (see scheduler list).
+- Trade-off: ticks often run 2–15 min → possible **concurrent** fires; one unit per fire still; no force-push.
+- Updated `LOOP.md` cadence section.
+
+
 ### 2026-07-27T14:05:00Z -- seed (user): Wassalon + mass L5 queue
 - User: keep loop; **Het Wassalon** gelijke kansen **€800k / 3y** (news Jul 2026) not yet in dataset → add high absurdity; seed many RQs for end-receivers / every-cent map.
 - **Found (not in prior ticks):** Minister Gennez (VP, Jul 2026) — campaign+vodcast **Het Wassalon** (ABB) **€800,000 over three years** (~€267k/yr illustrative). Press (HLN): early views **~661** class (medium secondary). High clown/absurdity candidate (**abs 9.5**, priority_index **~7.4**).

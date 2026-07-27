@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T14:05:00Z,seed_wassalon_rq,122,no,"Hole-fill + mass queue. Wassalon 800k/3y seeded high abs. Next: rq_122 Wassalon deepen or rq_152 GG bridge; 30+ open RQs; do not idle."
+main,continuous,hole_fill,2026-07-27T14:05:00Z,seed_wassalon_rq,122,no,"Scheduler 60s (platform min). No chain-on-complete. Next: rq_122 Wassalon or rq_152 GG bridge; mass queue open."

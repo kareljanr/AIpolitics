@@ -4,9 +4,12 @@ Recurring agent protocol. Goal: **each tick leaves the dataset richer** until **
 
 ## Cadence
 
-- **Target:** every **15 minutes** while the project is in active discovery.  
-- **Orchestration:** Grok scheduled task and/or manual `/doge-loop` run.  
-- **Tick time budget:** ~10–20 minutes of tool work; then stop and log (don’t thrash).
+- **Orchestration:** Grok **durable scheduled task** (interval-based; there is no native “start next when previous finishes”).  
+- **Target interval:** **60 seconds** (scheduler minimum). Prefer this over 15m while hole-filling.  
+- **Not 30s:** platform min is **60s**.  
+- **Overlap:** a tick often needs 2–15 min of tools. If the previous tick is still running, the next fire may start a **second concurrent agent** — accept for throughput, or raise interval to 2–3m if git thrash appears.  
+- **Tick time budget:** still stop after **one primary unit** (don’t thrash 15 fronts in one fire).  
+- Manual `/doge-loop` anytime is fine and does not wait for the timer.
 
 ## Pause rule (strict)
 
