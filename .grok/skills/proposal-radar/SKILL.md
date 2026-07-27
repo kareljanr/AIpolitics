@@ -14,6 +14,8 @@ metadata:
 
 Work in the AIpolitics repo. Follow `docs/proposal-radar/LOOP.md` and doctrine in `docs/09-proposal-radar.md`.
 
+**Daily scheduler (durable):** task id `019fa3e112ab`, interval `1d`. On scheduled fire: run RSS pipeline when possible, then one LOOP unit, commit/push.
+
 Also apply **truth-policy** discipline (`.grok/skills/truth-policy/SKILL.md`) and the pipeline in `docs/04-policy-framework.md`.
 
 ## Do now
