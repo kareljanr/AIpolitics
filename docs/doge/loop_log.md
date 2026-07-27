@@ -3232,3 +3232,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity fed_h2_rrf; budgets +25; cmt +5; lb +5; FOI gap_h2_rrf_l5_winners ready; draft; rq_286=done; spawn rq_287; ticks=295
 - FOI: H2 L5 winners human send; bpost press dual already ready
 - Next: prio5 **rq_287**; deferred **rq_116** SWA
+
+### 2026-07-30T10:45:00Z - tick 296
+- Unit: **rq_287** (FOI-adjacent hole-fill - **telecom connectivity + Airbus/Clean Aviation + BMA + FPB**)
+- Found (strong primary Kamer 55K2933/016):
+  - **BA 59.02.32.00.01** telecom connectivity: eng **66.2m** 2023; liq **35 + 31.2m**; split **5G 24 / 6G 1.5 / white zones 40.7m**.
+  - **Airbus** BA 44.40.51.22.01 initial eng **45m**; Clean Aviation residual BA 51.22.03 eng **4.929m** 2022.
+  - **BMA** BA 41.10.414001 **~9.1m/yr**; **FPB** BA 60.10.414003 **~11.9m/yr**.
+- Wrote: sources +1; entities +4; budgets +~30; cmt +4; lb +5; FOI gap_telecom_airbus_l5 ready; draft; rq_287=done; spawn rq_288; ticks=296
+- FOI: telecom+Airbus L5 human send
+- Next: prio5 **rq_288**; deferred **rq_116** SWA

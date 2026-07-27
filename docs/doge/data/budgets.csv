@@ -3478,3 +3478,33 @@ bud_press_concession_ba_2024,bpost,2024,129000000,,,budgeted,src_kamer_55k2933_h
 bud_press_concession_ba_2025,bpost,2025,132000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 132000000; CM 25Mar2021; amounts still provisional in 2023 doc
 bud_press_concession_ba_2026,bpost,2026,135000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 135000000; CM 25Mar2021; amounts still provisional in 2023 doc
 bud_press_concession_ba_2027,bpost,2027,138000000,,,budgeted,src_kamer_55k2933_h2_press,strong,BA 43.40.31.22.01 press distribution concession compensation liq; eng 138000000; CM 25Mar2021; amounts still provisional in 2023 doc
+bud_telecom_connect_eng_2023,fed_telecom_connectivity,2023,66200000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 59.02.32.00.01 engagement 66.2m 2023 national broadband connectivity subsidies
+bud_telecom_connect_liq_2023,fed_telecom_connectivity,2023,35000000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 59.02.32.00.01 liquidation 35m 2023
+bud_telecom_connect_liq_2024,fed_telecom_connectivity,2024,31200000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 59.02.32.00.01 liquidation 31.2m 2024
+bud_telecom_5g_tests_envelope,fed_telecom_connectivity,2023,24000000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,Text split: 24m for 5G test project call co-financing
+bud_telecom_6g_research_envelope,fed_telecom_connectivity,2023,1500000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,Text split: 1.5m for 6G research
+bud_telecom_white_zones_envelope,fed_telecom_connectivity,2023,40700000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,Text split: 40.7m white zones connectivity co-financing
+bud_airbus_envelope_eng_45m,fed_airbus_clean_aviation,2016,45000000,,,commitment,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.01 initial engagement envelope 45m recoverable advances aeronautical firms CM 20Oct2016
+bud_airbus_eng_2023,fed_airbus_clean_aviation,2023,2250000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.01 engagement 2.25m 2023 (table)
+bud_airbus_liq_2023,fed_airbus_clean_aviation,2023,1512000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.01 liquidation 1.512m 2023
+bud_airbus_liq_2024,fed_airbus_clean_aviation,2024,738000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.01 liquidation 0.738m 2024
+bud_clean_aviation_eng_2022,fed_airbus_clean_aviation,2022,4929000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.03 Clean Aviation eng 4.929m 2022 from residual Airbus 45m envelope
+bud_clean_aviation_liq_2023,fed_airbus_clean_aviation,2023,739000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.03 Clean Aviation liquidations path
+bud_clean_aviation_liq_2024,fed_airbus_clean_aviation,2024,1232000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.03 Clean Aviation liquidations path
+bud_clean_aviation_liq_2025,fed_airbus_clean_aviation,2025,1479000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.03 Clean Aviation liquidations path
+bud_clean_aviation_liq_2026,fed_airbus_clean_aviation,2026,1479000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.03 Clean Aviation liquidations path
+bud_airbus_liq_2022_residual,fed_airbus_clean_aviation,2022,5057000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 44.40.51.22.01 multi-year residual liquidation table 5.057m 2022 (path continues lower)
+bud_bma_dotatie_2021,bma_abc,2021,7226000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_bma_dotatie_2022,bma_abc,2022,8962000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_bma_dotatie_2023,bma_abc,2023,9171000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_bma_dotatie_2024,bma_abc,2024,9076000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_bma_dotatie_2025,bma_abc,2025,9076000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_bma_dotatie_2026,bma_abc,2026,9076000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_bma_dotatie_2027,bma_abc,2027,9076000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 41.10.414001 autonomous competition authority eng=liq path
+bud_fpb_dotatie_2021,fpb_planbureau,2021,10750000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_fpb_dotatie_2022,fpb_planbureau,2022,11658000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_fpb_dotatie_2023,fpb_planbureau,2023,11916000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_fpb_dotatie_2024,fpb_planbureau,2024,11798000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_fpb_dotatie_2025,fpb_planbureau,2025,11828000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_fpb_dotatie_2026,fpb_planbureau,2026,11858000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
+bud_fpb_dotatie_2027,fpb_planbureau,2027,11888000,,,budgeted,src_kamer_55k2933_telecom_airbus_bma_fpb,strong,BA 60.10.414003 Federal Planning Bureau eng=liq path
