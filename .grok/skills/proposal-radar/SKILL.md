@@ -38,9 +38,10 @@ Also apply **truth-policy** discipline (`.grok/skills/truth-policy/SKILL.md`) an
 
 - `policy_index = genius_score − clownpoints`  
 - Clownpoints score the **instrument**, not the person’s identity.  
-- Same rubric for every party; steelman required.  
+- Same rubric for every party; **extensive** steelman + ambition/ROI fact-check (Smaakhaven v2 depth is the bar).  
 - Weak evidence → low `score_confidence`, not fake precision.  
-- “Do nothing / abolish” must appear in options.
+- “Do nothing / abolish” must appear in options.  
+- **Taxpayer pain (mandatory):** when public € known, fill `pain_tax_fte` (Belasting-FTE) and `pain_net_years` (Nettoloon-jaren) per `docs/proposal-radar/TAXPAYER_UNIT.md`. Savings → negative. Never invent € for pain.
 
 ## Hard rules
 

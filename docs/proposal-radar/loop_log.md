@@ -58,3 +58,13 @@ Append-only. Newest ticks at bottom.
 - Full steelman, claim-by-claim audit, ROI/break-even, options A–F, capture.
 - **Scores unchanged** (8.0 / 1.5 / -6.5); analysis_version=2.
 - Sources added: src_smaakhaven_ambitie, tijdlijn, gebouw.
+
+---
+
+## 2026-07-27 — all-10 deep v2 + taxpayer pain metrics
+
+- Deep memos (Smaakhaven bar) for all 10 proposals; scores held.
+- New doctrine TAXPAYER_UNIT.md: Belasting-FTE + Nettoloon-jaren (two different denominators).
+- Unit: avg single FT employee labour tax ~€19.4k/yr; net ~€29.5k (Statbel gross + OECD TW 2025).
+- Schema/template/skill/LOOP/export updated; future analyses must hit depth + pain.
+- Pain filled where € known; blank for unquantified (UI, CGT, centenindex, hybrid delta).

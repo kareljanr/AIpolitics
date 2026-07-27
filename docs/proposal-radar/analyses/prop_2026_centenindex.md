@@ -2,72 +2,77 @@
 
 | Field | Value |
 |-------|-------|
-| **Title** | Centenindex: temporary limit on automatic wage/pension indexation |
-| **Actor** | Federal programme law + Flemish implementation (government) |
-| **Party / body** | Arizona + Flanders execution |
+| **Title** | Centenindex — temporary limit on automatic wage/pension indexation |
+| **Actor** | Federal programmawet (May 2026) + regional staff implementation (e.g. Flanders VPS) |
 | **Jurisdiction** | multi |
-| **Instrument** | law |
+| **Instrument** | law / decree alignment |
 | **Status** | adopted |
-| **First seen** | 2026-05-30 |
-| **Analysis version** | 1 |
-| **Primary source** | src_vl_mr_20260717 |
+| **Analysis version** | **2** |
+| **Sources** | VL ministerraad 17 Jul 2026 (VPS alignment) · federal programme law trail · macro wage-index literature |
+
+**Scores (held):** clown **3.0** · genius **6.0** · index **+3.0** · rec **amend**
 
 ---
 
-## Steelman (proponent’s best case)
+## Taxpayer pain
 
-Steelman: automatic full indexation of wages/pensions in a high-debt open economy amplifies cost-push inflation and public wage bills; temporary brake buys consolidation space.
+| | |
+|--|--|
+| Nature | **Saving on public wage/pension bill** + private-sector moderation channel |
+| Quantified € | Not published as single clean line in our sources — **unknown** honest total |
+| Belasting-FTE | blank until envelope published |
+| Note | If public wage bill saves €S/year, that is **−S/19400** Belasting-FTE of burden avoided (same unit as spending, opposite sign) |
+
+---
+
+## Executive judgment
+
+Automatic full indexation of wages and many benefits in a high-debt, open economy is a **nominal anchor problem**. Temporarily braking indexation (especially at the top) is more honest than pretending growth will fill the hole. Genius is capped because distributional design and dual public/private application can go wrong; clown is low because the arithmetic is not fantasy.
+
+---
+
+## Steelman
+
+1. **Indexation feedback.** Wages → prices → wages amplifies cost-push inflation and public payroll.  
+2. **Public finance.** Partial freeze on public wages/pensions is one of few **fast** levers that hits levels, not just growth rates of programmes.  
+3. **Competitiveness.** Wage moderation vs neighbours matters for exposed sectors.  
+4. **Temporary rule better than stealth.** A named “centenindex” can be cleaner than ad-hoc freezes without law.
+
+---
+
+## Critique
 
 ### Problem
-Structural deficit + indexation feedback — **Medium/Strong**.
+
+Structural deficit + inflation pass-through: **Medium/Strong**.  
+Claim that *this* design is optimally progressive: **Weak** without incidence tables.
 
 ### Mechanism
-Nominal anchor / public wage moderation — **fit good**. Risk: if only public sector, dual market; if high earners only, fairness optics vs efficiency.
+
+| Channel | Fit |
+|---------|-----|
+| Public wage bill ↓ | High if applied to base pay |
+| Private wage norm ↓ | Medium — depends on social partners / automaticity in PC |
+| Inflation expectations | Medium |
+| Real income shock low earners | Risk if not protected |
 
 ### Options
-A full index · B temporary high-end freeze (this class) · C permanent reform of index basket · D VAT/excise only · E spending cuts without wage brake.
 
-### Rec
-**Amend** toward transparent temporary rule + protect bottom deciles; better than denying arithmetic. Solid not genius.
+A full index forever · B temporary high-end brake (this class) · C permanent reform of index basket · D only spending volume cuts · E VAT hikes instead · F multi-year wage norm law rewrite.
+
+### Distribution
+
+If freeze hits **high** salaries/pensions more: efficiency + fairness better.  
+If freeze is flat or hits low public grades: regressive pain + recruitment crisis in nursing/teaching.
+
+### Fiscal honesty
+
+Medium: mechanism real; **envelope** must be published with who is exempt.
 
 ---
-
-## Scores
-
-| Public | Score |
-|--------|-------|
-| **Clownpoints** | 3.0 |
-| **Genius score** | 6.0 |
-| **policy_index** | 3.0 |
-
-| Subscore | Score |
-|----------|-------|
-| truth_problem | 7.5 |
-| mechanism_fit | 7.0 |
-| abundance_ev | 6.0 |
-| fiscal_honesty | 6.0 |
-| incentive_quality | 5.5 |
-| competence_fit | 8.0 |
-| evidence_quality | 6.5 |
-| capture_risk | 4.0 |
-
-**score_confidence:** medium
 
 ## Recommendation
 
-`amend`
+**`amend`:** protect bottom deciles; publish incidence; keep temporary and automatic sunset; do not replace structural spending reform.
 
-## Falsifier
-
-> Reverse if real wage collapse for low earners exceeds inflation-protection goal without deficit improvement vs counterfactual within 2 years.
-
-## Fiscal
-
-€– (annual, confidence medium)
-
-## Notes
-
-Programmawet 30 May 2026; Flanders VPS alignment on agenda 17 Jul 2026. Temporary partial freeze is more honest than fake dynamic growth assumptions; distributional design matters.
-
----
-*Auto-scored calibration batch 2026-07-27. Review welcome.*
+**Falsifier:** real wages for low earners collapse without deficit improvement vs counterfactual within 2 years.

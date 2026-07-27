@@ -17,6 +17,23 @@ v2 exists because the *analysis* was too thin for a €38m multi-year public com
 
 ---
 
+## Taxpayer pain
+
+| Item | Value |
+|------|------:|
+| Public € | **€38,000,000** multi-year envelope — **Strong** |
+| Sign | cost (+) |
+| **Belasting-FTE** | **≈ 1,959** |
+| **Nettoloon-jaren** | **≈ 1,288** |
+| One-liner NL | *“Smaakhaven kost de **volledige jaarbelasting op arbeid** van ongeveer **2.000** doorsnee voltijdse werknemers — of **1.300 jaar nettoloon** van één persoon.”* |
+
+Unit: `be_avg_single_ft` v1 — €19,400 labour tax / €29,500 net (see `TAXPAYER_UNIT.md`).  
+€38m ÷ 19,400 ≈ 1,958.8; ÷ 29,500 ≈ 1,288.1.
+
+This is the visceral read of the same €38m: not “relance dust,” but **thousands of worker-years of labour tax**.
+
+---
+
 ## Executive judgment
 
 Smaakhaven packages three real things (heritage reuse of Loodswezen, tourism marketing of Flanders food, B2B networking for horeca/F&B) into one **prestige flagship** with a vocabulary of *ecosystem*, *innovation*, *talent*, *living database*, and *social fabric*—almost none of which, as stated on the official ambition page, is operationalised as a **measurable theory of change with ROI**.

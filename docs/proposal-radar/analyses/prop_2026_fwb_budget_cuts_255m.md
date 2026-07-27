@@ -2,66 +2,74 @@
 
 | Field | Value |
 |-------|-------|
-| **Title** | FWB 2026 budget: ~€255m savings package |
-| **Actor** | Gouvernement Fédération Wallonie-Bruxelles (government) |
-| **Party / body** | FWB government |
-| **Jurisdiction** | fwb |
-| **Instrument** | envelope |
-| **Status** | adopted |
-| **First seen** | 2025-12-17 |
-| **Analysis version** | 1 |
-| **Primary source** | src_fwb_budget_2026_press |
+| **Title** | FWB 2026 budget — ~€255m savings package |
+| **Actor** | Gouvernement Fédération Wallonie-Bruxelles |
+| **Jurisdiction** | fwb · education/culture community |
+| **Instrument** | budget package (envelope of cuts) |
+| **Status** | adopted (Dec 2025 press trail) |
+| **Analysis version** | **2** |
+| **Sources** | RTL/press on adoption · FWB multi-year budget communications |
+
+**Scores (held):** clown **3.5** · genius **5.0** · index **+1.5** · rec **amend**
 
 ---
 
-## Steelman (proponent’s best case)
+## Taxpayer pain (savings = negative burden *if real*)
 
-Steelman: FWB faces structural deficit; without consolidation, debt service crowds education quality later. Early package is responsible.
+| Item | Value |
+|------|------:|
+| Headline economies | **~€255 million** (2026 package class) — **Medium** (press; need official L5 list) |
+| Sign if cuts bind | **saving (−)** |
+| **Belasting-FTE** | **≈ −13,140** |
+| **Nettoloon-jaren** | **≈ −8,640** |
+| Caveat | Pain relief only if cuts are **cash-real**, not creative accounting; composition matters for abundance |
 
-### Critique
-Consolidation **direction right** (**truth_problem high**). Quality depends on *what* is cut: free meal optics vs admin dual structures vs tuition. Package opacity → mid genius. Raising minerval can be good price signal if paired with targeted grants; blunt culture cuts may be low ROI or high signal.
-
-### Rec
-**Amend** toward transparent L5 cut list and protect measurable learning outcomes.
+€255m ÷ 19,400 ≈ 13,144; ÷ 29,500 ≈ 8,644.
 
 ---
 
-## Scores
+## Executive judgment
 
-| Public | Score |
-|--------|-------|
-| **Clownpoints** | 3.5 |
-| **Genius score** | 5.0 |
-| **policy_index** | 1.5 |
+FWB faces structural deficit pressure; **some** consolidation is adult behaviour. Genius depends entirely on *what* is cut: admin dual structures and low-ROI culture middlemen → good; pure thinning of high-ROI skills/STEM or crude meal optics without admin reform → mediocre. Package opacity keeps score mid.
 
-| Subscore | Score |
-|----------|-------|
-| truth_problem | 8.0 |
-| mechanism_fit | 5.5 |
-| abundance_ev | 5.0 |
-| fiscal_honesty | 6.0 |
-| incentive_quality | 5.0 |
-| competence_fit | 8.0 |
-| evidence_quality | 5.5 |
-| capture_risk | 5.0 |
+---
 
-**score_confidence:** medium
+## Steelman
+
+1. Deficit without path → debt service crowds education later.  
+2. Multi-year epure better than annual crisis.  
+3. Tuition (minerval) signals can price demand if paired with targeted grants.  
+4. Community competence: only FWB can fix FWB books.
+
+---
+
+## Critique
+
+### Composition risk (the whole game)
+
+| Cut type | Abundance effect |
+|----------|------------------|
+| Overhead, duplicate agencies, soft grants | Positive |
+| Teacher quality / STEM capacity | Negative long-run |
+| Free meals / symbolic social | Mixed; target better than universal if fiscal crisis |
+| Culture clienteles | Often high clown, low productivity |
+
+Without L5 list, scoring the *package* is necessarily coarse.
+
+### Options
+
+A no cuts / deny · B **this package** · C admin-first cuts published · D revenue via higher minerval + protect instruction · E federal transfer politics only.
+
+Prefer **C+D** shape.
+
+### Fiscal honesty
+
+Medium: €255m headline exists in press; Rekenhof-grade validation and additionality of “économies” need primary docs.
+
+---
 
 ## Recommendation
 
-`amend`
+**`amend`:** publish L5 cut list; protect measurable learning outcomes; hit middlemen first.
 
-## Falsifier
-
-> Support more if cuts hit low-ROI admin/culture middlemen first and protect high-ROI skills/STEM while deficit path hits published targets 2026-27.
-
-## Fiscal
-
-€255000000–255000000 (annual, confidence medium)
-
-## Notes
-
-Press: €255m economies adopted Dec 2025. Package score — child measures differ; prefer cutting bureaucracy over pure human-capital thinning.
-
----
-*Auto-scored calibration batch 2026-07-27. Review welcome.*
+**Falsifier:** deficit path misses targets 2026–27 **or** learning metrics crater while overhead untouched.

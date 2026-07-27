@@ -64,10 +64,10 @@ Sister of [`docs/doge/LOOP.md`](../doge/LOOP.md). Design: [`docs/09-proposal-rad
 
 1. Load **truth-policy** discipline + template `templates/analysis-memo.md`.  
 2. Fill problem → mechanism → options A–F → evidence → distribution → fiscal → competence → recommendation → falsifier.  
-3. Compute subscores + `clownpoints` + `genius_score` + `policy_index`.  
-4. Steelman the proponent in writing.  
-5. Set `score_confidence`; if only press paraphrase → max `weak`.  
-6. `publish_ok=needs_human` until human has calibrated ~10 scores (then agents may set `yes` for medium+ confidence).  
+3. **Depth bar:** steelman + critique must be extensive; fact-check proponent ambition pages/claims vs ROI (Smaakhaven v2 is the quality floor — not a 15-line stub).  
+4. Compute subscores + `clownpoints` + `genius_score` + `policy_index`.  
+5. **Taxpayer pain:** if € known, set `pain_tax_fte` + `pain_net_years` via `TAXPAYER_UNIT.md` / `scripts/recompute_pain.py`.  
+6. Set `score_confidence`; if only press paraphrase → max `weak`.  
 7. Link `doge_item_ids` if relevant.
 
 ### 5. Write

@@ -260,11 +260,14 @@ If `weak` or lower: still score, but **do not** put in top public “worst/best 
 │  Actor · party · competence · date        │
 │  1-line steelman                          │
 │  1-line why it fails / works              │
-│  Fiscal: €X–Y /yr (confidence)            │
+│  Fiscal: €X–Y (confidence)                │
+│  Belasting-FTE: N   Nettoloon-jaren: M    │
 │  Falsifier: …                             │
 │  Sources: [1] [2]                         │
 └──────────────────────────────────────────┘
 ```
+
+**Pain metrics** (see [`proposal-radar/TAXPAYER_UNIT.md`](proposal-radar/TAXPAYER_UNIT.md)): convert public € into (1) average workers’ full annual **labour-tax** bills and (2) years of **net take-home** — two different denominators so both columns carry meaning.
 
 Visual direction (from [naming.md](naming.md)): high contrast, data-native, deep blue/black + one accent. **Score bars > cartoon clowns** in serious outlets; clown emoji OK on X only if the **substance** is already paid.
 

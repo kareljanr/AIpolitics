@@ -2,66 +2,65 @@
 
 | Field | Value |
 |-------|-------|
-| **Title** | Ban keeping cetaceans in captivity by end-2036 (Flanders) |
-| **Actor** | Ben Weyts / Vlaamse Regering (minister) |
-| **Party / body** | Flemish government |
-| **Jurisdiction** | flanders |
-| **Instrument** | ban |
-| **Status** | tabled |
-| **First seen** | 2026-07-17 |
-| **Analysis version** | 1 |
-| **Primary source** | src_vl_mr_20260717 |
+| **Title** | Ban keeping cetaceans in captivity by 31 Dec 2036 (Flanders) |
+| **Actor** | Ben Weyts / Vlaamse Regering |
+| **Jurisdiction** | flanders · animal welfare |
+| **Instrument** | ban (phase-out) + rehab exception for wild injured animals |
+| **Status** | principled approval / tabled path |
+| **Analysis version** | **2** |
+| **Sources** | Belga Share ministerraad 17 jul 2026 (Vlaamse Codex Dierenwelzijn change) |
+
+**Scores (held):** clown **3.5** · genius **3.5** · index **0.0** · rec **watch**
 
 ---
 
-## Steelman (proponent’s best case)
+## Taxpayer pain
 
-Steelman: cetaceans suffer in tanks; public values shifted; long sunset respects operators' capital while ending the practice.
+| Item | Value |
+|------|------:|
+| Direct public programme € | **Not the core** — ban is regulatory |
+| Possible public costs | Compensation claims, enforcement, rehab centres — **0–€5m class speculative** |
+| Mid if €2.5m | Belasting-FTE **≈ 129** · Nettoloon-jaren **≈ 85** |
+| Confidence | **Speculative** on euros — pain columns range-only |
 
-### Framing
-This is largely a **preference / ethics** policy, not a growth reform. Abundance impact near-zero. Mechanism (ban with sunset) fits the stated welfare goal better than sudden confiscation.
-
-### Rec
-**Watch** — acceptable if no large compensation circus; don't pretend it's an economic strategy. Mid scores.
+This is mainly a **values / welfare** regulation, not a fiscal programme. Pain metrics secondary.
 
 ---
 
-## Scores
+## Executive judgment
 
-| Public | Score |
-|--------|-------|
-| **Clownpoints** | 3.5 |
-| **Genius score** | 3.5 |
-| **policy_index** | 0.0 |
+Long sunset to 2036 is more serious than overnight confiscation cosplay. Abundance impact near zero. Score mid: not clown theatre, not an economic reform. Truth-seeking task is welfare science + transition path for existing animals, not GDP.
 
-| Subscore | Score |
-|----------|-------|
-| truth_problem | 6.0 |
-| mechanism_fit | 7.0 |
-| abundance_ev | 2.5 |
-| fiscal_honesty | 5.0 |
-| incentive_quality | 5.0 |
-| competence_fit | 8.5 |
-| evidence_quality | 5.5 |
-| capture_risk | 3.0 |
+---
 
-**score_confidence:** medium
+## Steelman
+
+1. Scientific/public consensus that cetaceans suffer in tanks (stress, stereotypic behaviour).  
+2. Tourism taste shifted; Boudewijn-class model loses legitimacy.  
+3. Long phase-out respects capital & animal transition better than abrupt ban.  
+4. Rehab exception avoids cruelty to wild stranded animals.
+
+---
+
+## Critique
+
+| Issue | Note |
+|-------|------|
+| Export loophole | Animals shipped outside Flanders/EU standards? |
+| Compensation politics | Quiet fiscal risk |
+| Substitution | Visitors shift to other attractions — welfare gain is the point, not GDP |
+| Slippery regulatory expansion | Monitor scope creep to other species without evidence |
+
+### Options
+
+A status quo · B welfare standards only · C **sunset ban (this)** · D immediate ban · E private accreditation without law.
+
+**C** acceptable if no large compensation circus and no export cruelty.
+
+---
 
 ## Recommendation
 
-`watch`
+**`watch`.** Publish animal transition plan; no blank-cheque compensation.
 
-## Falsifier
-
-> Reject if welfare science shows managed captivity superior for existing animals and ban causes worse outcomes (export/kill).
-
-## Fiscal
-
-€0–5000000 (unknown, confidence speculative)
-
-## Notes
-
-Preference/values policy more than abundance engine. Long phase-out (to 2036) reduces transition cruelty. Not fiscal core.
-
----
-*Auto-scored calibration batch 2026-07-27. Review welcome.*
+**Falsifier:** welfare science + transition shows ban worsens outcomes for existing animals (export/kill).

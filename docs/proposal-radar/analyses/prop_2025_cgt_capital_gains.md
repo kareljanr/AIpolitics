@@ -3,71 +3,101 @@
 | Field | Value |
 |-------|-------|
 | **Title** | Introduce capital gains tax (Arizona) |
-| **Actor** | Federal government De Wever I (government) |
-| **Party / body** | Arizona |
-| **Jurisdiction** | federal |
-| **Instrument** | tax |
-| **Status** | adopted |
-| **First seen** | 2025-01-31 |
-| **Analysis version** | 1 |
-| **Primary source** | src_ing_consol_2026 |
+| **Actor** | Federal government De Wever I |
+| **Jurisdiction** | federal tax |
+| **Instrument** | tax (new base) |
+| **Status** | adopted / implementing (design complexity ongoing) |
+| **Analysis version** | **2** |
+| **Sources** | ING Think / CoA commentary · Arizona tax briefings · public finance incidence theory |
+
+**Scores (held):** clown **4.5** · genius **4.0** · index **−0.5** · rec **amend**
 
 ---
 
-## Steelman (proponent’s best case)
+## Taxpayer pain
 
-Steelman: labour is over-taxed; capital gains often lightly taxed; a clean CGT can fund labour tax cuts and consolidation.
+| | |
+|--|--|
+| Nature | **Revenue instrument** (not a spending project). Incidence primarily on capital owners / realisation behaviour—not “average employee labour tax funds a building.” |
+| Quantified net revenue | **Unknown / disputed** — CoA & ING: forecasts too optimistic; complex base |
+| Belasting-FTE / Nettoloon-jaren | *blank* on revenue until realised path known; if net +€R/year, express as **−R/19400** Belasting-FTE of *fiscal space* (not “workers pay for it”) |
+| Pain framing note | Do **not** misuse labour-tax FTE for a capital tax as if wage-earners fund it. Separate incidence story. |
 
-### Reality check
-Problem of labour-biased tax mix is **Strong**. But Arizona design described as complex coalition camel; Court of Audit / ING flag revenue shortfall vs forecasts. Without published simple rate+base, **fiscal_honesty low**.
+---
 
-### Mechanism
-CGT can work if broad base, moderate rate, limited lock-in/exit. High exemptions + mobility → paper revenue, real distortion.
+## Executive judgment
+
+**Principle:** Belgium’s tax system overweights labour relative to many capital income streams. A **simple, broad, moderate** capital gains tax *can* be abundance-compatible if paired with labour-tax cuts and minimal lock-in/exemptions.
+
+**Practice (Arizona as described in secondary analyses):** coalition “camel” — complex base, ambiguous rules, implementation friction, revenue likely **below** brochure. That is why the score is **mixed**, not genius and not pure clown.
+
+---
+
+## Steelman
+
+1. **Horizontal equity / tax mix.** Two people with similar ability-to-pay should not face radically different bills because one earns wages and one realises gains.  
+2. **Efficiency vs alternatives.** Better than wealth taxes (valuation, liquidity, exit) and better than raising already-high labour wedges.  
+3. **Consolidation.** Structural deficit needs durable revenue or spending cuts; CGT can be part of a package **if** elasticities respected.  
+4. **Political economy steelman.** Without some capital taxation visible to median voters, labour-tax reform dies. Ugly second-best.
+
+---
+
+## Critique — ambition vs mechanism
+
+### What a good CGT looks like
+
+| Design rule | Why |
+|-------------|-----|
+| Broad base, few exemptions | Stops lobby carve-outs |
+| Moderate rate | Limits lock-in and emigration of mobile capital |
+| Clear realisation events | Admin feasibility |
+| Inflation adjustment or rate that assumes it | Avoids taxing phantom gains |
+| Integration with corporate tax | Limits double tax games |
+| Stable multi-year rules | Investment needs predictability |
+
+### What “camel” design does
+
+- Multiple special regimes → planning industry captures surplus  
+- Uncertain base → CoA cannot validate revenue  
+- Council of State friction on related tax measures (ING notes VAT piece rejected) signals legal fragility of complex packages  
+- If revenue fails, coalition raises **other** taxes or delays labour relief → abundance loss
 
 ### Options
-A status quo · B simple broad CGT + cut labour wedge · C this complex package · D wealth tax (worse) · E consumption tax shift · F pilot reporting only.
 
-### Rec
-**Amend** toward simplicity; do not celebrate revenue until realised. Mixed index: not pure clown, not genius.
+| ID | Option |
+|----|--------|
+| A | Status quo (patchwork of capital income rules) |
+| B | Abolish special privileges without new named CGT |
+| C | **Simple broad CGT + cut labour wedge** (first-best amend target) |
+| D | Arizona complex CGT (this) |
+| E | Wealth tax |
+| F | Higher VAT / consumption |
+
+**C ≫ D ≫ E.** Support the *direction* of taxing capital income; reject complexity theatre.
+
+### Distribution & exit
+
+High earners / firm owners / second-property investors face higher effective rates → **exit and lock-in** risks if rate/base botched. Mobile capital leaves; illiquid housing may lock. Labour remains trapped — worst of both worlds if design is bad.
+
+### Fiscal honesty
+
+ING: measures try to combine quick cash + structural reform + left-right balance → legislation “open to divergent interpretations.” Revenue grade: **Weak** until two full years of outturns.
 
 ---
 
 ## Scores
 
-| Public | Score |
-|--------|-------|
-| **Clownpoints** | 4.5 |
-| **Genius score** | 4.0 |
-| **policy_index** | -0.5 |
+| Score | Why |
+|------:|-----|
+| Clown 4.5 | Not pure circus; complexity + oversold yield is semi-clown |
+| Genius 4.0 | Principle middling-good; execution drags hard |
+| fiscal_honesty 3.5 | Core weakness |
+| capture_risk 5.0 | Carve-out lobby inevitable |
 
-| Subscore | Score |
-|----------|-------|
-| truth_problem | 7.0 |
-| mechanism_fit | 5.0 |
-| abundance_ev | 4.0 |
-| fiscal_honesty | 3.5 |
-| incentive_quality | 4.0 |
-| competence_fit | 8.0 |
-| evidence_quality | 5.5 |
-| capture_risk | 5.0 |
-
-**score_confidence:** medium
+---
 
 ## Recommendation
 
-`amend`
+**`amend`** toward simple broad CGT; publish statics/dynamics with confidence bands; pair every euro of CGT with labour-wedge relief where possible.
 
-## Falsifier
-
-> We reverse toward support if a simple broad CGT with low rate and few exemptions raises predicted revenue within 10% for 2 consecutive years without measurable exit of mobile capital (Medium evidence bar).
-
-## Fiscal
-
-€– (annual, confidence weak)
-
-## Notes
-
-ING: complex 'camel' design; CoA doubts yield. Principle of taxing capital income can be right; execution risk is the score drag.
-
----
-*Auto-scored calibration batch 2026-07-27. Review welcome.*
+**Falsifier:** simple design raises revenue within 10% of forecast for 2 years without measurable mobile-capital exit (Medium bar).

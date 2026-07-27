@@ -1,0 +1,2 @@
+unit_id,unit_version,profile,gross_eur_year,employee_tax_rate,employee_labor_tax_eur_year,net_wage_eur_year,tax_rounded_eur,net_rounded_eur,wedge_full_pct,wage_source,tax_source,notes,updated_utc
+be_avg_single_ft,1,OECD AW single no children FT,48912,0.397,19418,29494,19400,29500,52.6,Statbel FT gross monthly 4076 (2022 vintage),OECD Taxing Wages 2025 BE country note (2024 rates),Employee-side labour tax only for pain columns; full wedge contextual,2026-07-27T14:00:00Z

@@ -88,6 +88,20 @@ Does the instrument actually attack that mechanism?
 
 **fiscal_honesty (0–10):** how honest are proponent claims vs this table?
 
+### 6b. Taxpayer pain (mandatory when € known)
+
+Unit: `docs/proposal-radar/TAXPAYER_UNIT.md` + `data/taxpayer_unit.csv`  
+(Average single FT employee — **employee labour tax only** ≈ €19.4k/yr; net take-home ≈ €29.5k/yr.)
+
+| Metric | Value | Meaning |
+|--------|------:|---------|
+| **Belasting-FTE** (`pain_tax_fte`) | | Public € ÷ annual work-tax of one average employee. *“N workers’ full yearly labour-tax bill.”* Negative if saving. |
+| **Nettoloon-jaren** (`pain_net_years`) | | Public € ÷ annual net wage. *“Years of take-home pay equal to this.”* |
+
+- Do **not** invent € to fill pain columns.  
+- Do **not** use full tax wedge (employer SSC) for “what the worker pays.”  
+- Revenue instruments (new taxes): blank or separate incidence note — not fake labour-tax FTE.
+
 ---
 
 ## 7. Belgian competence & implementation
@@ -147,9 +161,12 @@ If amend: concrete minimum fix.
 
 ## 13. Publish checklist
 
-- [ ] Steelman written  
+- [ ] Steelman **extensive** (not 3 lines)  
+- [ ] Critique maps **stated ambition → mechanism → ROI/evidence**  
 - [ ] Abolish / do nothing considered  
 - [ ] Confidence tags on factual claims  
 - [ ] Transfer/exit constraint checked  
 - [ ] No invented euros  
+- [ ] Taxpayer pain filled or honestly blank  
 - [ ] Same rubric as other parties  
+- [ ] Falsifier written
