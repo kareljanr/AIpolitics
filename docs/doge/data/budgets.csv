@@ -201,10 +201,10 @@ bud_brugge_opex_2026,city_brugge,2026,399873609,,,budgeted,src_brugge_mjp_2026,s
 bud_brugge_invest_2026,city_brugge,2026,69988210,,,budgeted,src_brugge_mjp_2026,strong,"M2 investering uitgaven 69988210 EUR 2026"
 bud_brugge_gemeentefonds_2026,city_brugge,2026,110432646,,,budgeted,src_brugge_mjp_2026,strong,"Gemeentefonds ontvangst 110432646 EUR 2026"
 bud_brugge_culture_bd10_2026,city_brugge,2026,22704113,,,budgeted,src_brugge_mjp_2026,strong,"BD10 Cultuur uitgaven 22704113 EUR 2026"
-bud_charleroi_rev_own_2025,city_charleroi,2025,577887104,,,budgeted,src_charleroi_budget_2026_press,medium,"TÃ©lÃ©sambre council report: recettes exercices propres 2025 = 577887104 EUR (-0.48pct vs 2024)"
-bud_charleroi_transfers_4p_2026,city_charleroi,2026,240303135,,,budgeted,src_charleroi_budget_2026_press,medium,"DÃ©penses de transfert 4P (police pompiers pensions pauvretÃ©) 240303135 EUR; -4.32pct vs 2025"
-bud_charleroi_budget_total_2026,city_charleroi,2026,567000000,,,budgeted,src_charleroi_budget_567m,medium,"Press: budget 2026 ~567m EUR balanced (OxygÃ¨ne); exact official PDF not retrieved this tick"
-bud_charleroi_invest_borrow_2026,city_charleroi,2026,20000000,,,budgeted,src_charleroi_budget_2026_press,medium,"Mayor: only 20m borrowed for investment 2026 (~3x less than usual)"
+bud_charleroi_rev_own_2025,city_charleroi,2025,580698870.25,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2025 ord recettes exercice propre from BI2026 synthese comparative table
+bud_charleroi_transfers_4p_2026,city_charleroi,2026,240303135.19,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 depenses transferts ord 240303135.19; -10.85m vs BI2025; 4P-heavy block
+bud_charleroi_budget_total_2026,city_charleroi,2026,577887103.70,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 ord total exercice propre dep=rec 577887103.70 (not press 567m); gen 582521211.12
+bud_charleroi_invest_borrow_2026,city_charleroi,2026,20000000,,,budgeted,src_charleroi_synthese_bi2026,strong,Intro: financement par emprunts part communale investissements limite a 20m EUR
 bud_otw_financing_2024,tec,2024,960000000,,,budgeted,src_pw_otw_pq_596,strong,Minister Henry PQ 596: financement OTW 960 mEUR 2024 refined validated; +200m vs 2023
 bud_otw_financing_2028,tec,2028,1003000000,,,budgeted,src_pw_otw_pq_596,strong,Minister Henry: besoins OTW 1003 mEUR 2028 indexation included CSP path stable after 2024 step
 bud_otw_company_recettes_2025,tec,2025,1088800000,,,budgeted,src_ccrek_rw_2024a2025i,strong,Cour: OTW budget initial 2025 recettes 1088.8 mEUR company perimeter includes own rev + PRW + subsidies
@@ -1210,3 +1210,46 @@ bud_vl_wkc_vergoeding_dso_2025,vlaanderen_gov,2025,60000000,,,budgeted,src_vnr_o
 bud_fluvius_gec_chp_inventory_2025,fluvius,2025,602000000,,,outturn,src_fluvius_gsc_inventory_2025,strong,Fluvius GEC+CHP certificates inventory 602m EOY2025 (521m CHP)
 bud_fl_green_cert_nbb_2023,vlaanderen_gov,2023,956000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,NBB FL D.31 green certificates 956m 2023 (broader than CoA GSC 822m)
 bud_fl_green_cert_nbb_2024,vlaanderen_gov,2024,858000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,NBB FL D.31 green certificates 858m 2024
+bud_charleroi_personnel_2026,city_charleroi,2026,189695747.83,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 dep personnel ord 189695747.83 (+0.85m vs BI2025; no natural attrition replace beyond 30 FTE)
+bud_charleroi_fonctionnement_2026,city_charleroi,2026,48217554.16,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 dep fonctionnement 48217554.16
+bud_charleroi_dette_ord_2026,city_charleroi,2026,99153068.00,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 dep dette ord 99153068 incl Oxygene interest path
+bud_charleroi_ord_total_gen_2026,city_charleroi,2026,582521211.12,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 ord total general dep=rec 582521211.12
+bud_charleroi_rec_transferts_2026,city_charleroi,2026,468482566.69,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 recettes transferts ord 468482566.69
+bud_charleroi_rec_prestation_2026,city_charleroi,2026,36575988.20,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 recettes prestation 36575988.20
+bud_charleroi_extra_invest_2026,city_charleroi,2026,15460876.23,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 extra investissements exercice propre 15460876.23 (security continuity only)
+bud_charleroi_extra_dep_propre_2026,city_charleroi,2026,20446042.59,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 extra total exercice propre dep 20446042.59
+bud_charleroi_extra_total_gen_2026,city_charleroi,2026,118062628.68,,,budgeted,src_charleroi_synthese_bi2026,strong,BI2026 extra total general dep 118062628.68 (incl antérieurs+prélèvements)
+bud_charleroi_oxygene_tranche_2026,city_charleroi,2026,48600000,,,budgeted,src_charleroi_synthese_bi2026,medium,Synthese text: derniere tranche aides Oxygene 48.6m (-22.8m vs 2025); cahier prelevement Oxygene-class 48662457
+bud_charleroi_fonds_communes_2026,city_charleroi,2026,200080384.62,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier: Fonds des Communes dotation principale BI2026 200080384.62
+bud_charleroi_zpl_2026,city_charleroi,2026,82893812.02,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier art 33000/435.01/001 Intervention Zone de police locale BI2026 82893812.02 (MB2025 69.8m; BI2025 88.5m)
+bud_charleroi_cpas_dot_a_2026,city_charleroi,2026,71037637.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier 83101 CPAS charges fonctionnement path BI2026 71037637
+bud_charleroi_cpas_dot_b_2026,city_charleroi,2026,22144000.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier 83102 CPAS contributions path BI2026 22144000; sum A+B ~93.18m (+0.7m vs BI2025 class matches synthese)
+bud_charleroi_cpas_total_2026,city_charleroi,2026,93181637.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Sum CPAS A+B 93.181637m BI2026 (approx; exclude small PCS/archive lines)
+bud_charleroi_zohe_2026,city_charleroi,2026,8112990.01,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier Dotation zone de secours ZOHE BI2026 8112990.01 (-5.3m class vs BI2025 13.39m; province financing)
+bud_charleroi_rca_2026,city_charleroi,2026,3857880.72,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier Subside Regie communale autonome BI2026 3857880.72
+bud_charleroi_tibi_s1_2026,city_charleroi,2026,22481605.62,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier Tibi Secteur1 immondices parcs conteneurs BI2026 22481605.62
+bud_charleroi_tibi_s2_2026,city_charleroi,2026,8630102.94,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier Tibi Secteur2 mutualisation proprete BI2026 8630102.94
+bud_charleroi_tibi_s3_2026,city_charleroi,2026,375007.59,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier Tibi Secteur3 depots clandestins BI2026 375007.59
+bud_charleroi_tibi_sacs_2026,city_charleroi,2026,2115202.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cahier distribution gratuite sacs poubelles BI2026 2115202
+bud_charleroi_tibi_total_class_2026,city_charleroi,2026,33601918.15,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Sum Tibi S1+S2+S3+sacs ~33.60m BI2026
+bud_charleroi_asbl_pba_2026,city_charleroi,2026,1339834.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Palais des Beaux-Arts BI2026 1339834 (stable vs 2024-25)
+bud_charleroi_asbl_ccr_2026,city_charleroi,2026,864310.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Centre Culturel Regional de Charleroi BI2026 864310 (BI2025 809310)
+bud_charleroi_asbl_parc_sports_2026,city_charleroi,2026,553552.25,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Parc des Sports a Charleroi BI2026 553552.25 (down from BI2024 738k)
+bud_charleroi_sport_promo_2026,city_charleroi,2026,516905.75,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Subsides promotion du sport BI2026 516905.75 (pooled not single ASBL)
+bud_charleroi_asbl_maison_part_2026,city_charleroi,2026,415053.53,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Maison de la participation path BI2026 415053.53 (cahier 084x social)
+bud_charleroi_regie_logement_2026,city_charleroi,2026,393153.34,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Subside a une Regie (logement path) BI2026 393153.34
+bud_charleroi_asbl_maison_part_assoc_2026,city_charleroi,2026,312000.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Maison de la participation et des associations BI2026 312000
+bud_charleroi_asbl_centreville_2026,city_charleroi,2026,201250.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Charleroi Centre-Ville BI2026 201250 (was 245k)
+bud_charleroi_asbl_maison_du_2026,city_charleroi,2026,142394.28,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Maison du ... commerce path BI2026 142394.28 (was 189859)
+bud_charleroi_asbl_bois_cazier_2026,city_charleroi,2026,142131.38,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Le Bois du Cazier BI2026 142131.38
+bud_charleroi_asbl_oeuvre_2026,city_charleroi,2026,103982.55,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Oeuvre (social path) BI2026 103982.55
+bud_charleroi_telesambre_2026,city_charleroi,2026,71937.60,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Television locale Telesambre BI2026 71937.60
+bud_charleroi_asbl_museum_2026,city_charleroi,2026,70000.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Charleroi Museum BI2026 70000 (up from 40k)
+bud_charleroi_quai10_2026,city_charleroi,2026,62341.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,Cinema QUAI 10 BI2026 62341 (stable)
+bud_charleroi_asbl_danses_2026,city_charleroi,2026,56250.00,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Charleroi Danses BI2026 56250
+bud_charleroi_asbl_photo_2026,city_charleroi,2026,45869.25,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Musee de la Photographie BI2026 45869.25
+bud_charleroi_asbl_ancre_2026,city_charleroi,2026,36408.75,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Theatre de l Ancre BI2026 36408.75
+bud_charleroi_asbl_article27_2026,city_charleroi,2026,31282.50,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Article 27 BI2026 31282.50
+bud_charleroi_asbl_rockerill_2026,city_charleroi,2026,30973.50,,,budgeted,src_charleroi_cahier_ord_bi2026,strong,ASBL Rockerill BI2026 30973.50
+bud_charleroi_yernaux_semester_2026,city_charleroi,2026,600000,,,budgeted,src_charleroi_synthese_bi2026,medium,Synthese: intervention prix entrees complexe Yernaux un semestre 0.6m (RCA-linked; not full-year ASBL line)
+bud_charleroi_invest_educ_arts_2026,city_charleroi,2026,2184300.00,,,budgeted,src_charleroi_synthese_bi2026,strong,Extra invest Education Populaire et Arts function 789 BI2026 2184300

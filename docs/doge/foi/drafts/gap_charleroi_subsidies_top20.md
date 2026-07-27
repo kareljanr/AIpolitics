@@ -33,3 +33,7 @@ Vorm: digitaal (PDF/CSV) naar [E-MAIL].
 
 Referentie: gap_charleroi_subsidies_top20
 ```
+
+## Update tick152 (2026-07-28)
+
+Public primary sources now cover BI2026 aggregates (synthese eComptes) and **many named ASBL lines** in the cahier du service ordinaire (PBA EUR 1.339834m; CCR 0.864m; Parc des Sports 0.554m; ZPL 82.9m; CPAS ~93.2m; Tibi class ~33.6m). Residual FOI still useful for a **single ranked top-20 CSV** of all third-party grants 2025-2026 and sport-club detail under the promotion-du-sport pool. **Do not send** until human confirms; status remains ready.

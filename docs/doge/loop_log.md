@@ -1409,3 +1409,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 26; cmt 2; lb 3; rq_148=done; FOI residual ready.
 - FOI: gap_vl_odv_mvp_cash (REG digit series + MVP total) human send.
 - Next: prio6 **rq_144 Charleroi** / **rq_120 Myria** / **rq_149 housing**.
+
+### 2026-07-28T00:15:00Z ? tick 152
+- Unit: **rq_144** (Charleroi BI2026 PDF named ASBL)
+- Found (strong official PDFs charleroi.be):
+  - **Synthese BI2026:** ord propre **EUR 577.89m** / gen **582.52m** (press ~567m superseded); personnel **189.70m**; fct **48.22m**; transferts **240.30m**; dette **99.15m**.
+  - **Oxygene** last tranche class **~48.6m** (?22.8m vs 2025); invest borrow cap **20m**; extra invest propre **15.46m**.
+  - **Cahier ordinaire (271p):** named L5 ? **ZPL 82.89m**; **CPAS ~93.18m**; **ZOHE 8.11m**; **RCA 3.86m**; **Tibi class ~33.60m**; **PBA ASBL 1.34m**; **CCR 0.86m**; **Parc des Sports 0.55m**; sport promo pool **0.52m**; Bois du Cazier **0.14m**; QUAI 10 **62k**; etc.
+- Wrote: sources 3; budgets ~40 (replace press totals + L5); cmt 2; lb 4 new + 2 update; rq_144=done; FOI residual still ready (ranked top20 CSV).
+- FOI: gap_charleroi_subsidies_top20 ready residual ? **human send only**.
+- Next: prio6/5 **rq_120 Myria** / **rq_149 housing** / **rq_145 Brussels communes**.
