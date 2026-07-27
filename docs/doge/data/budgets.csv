@@ -2770,3 +2770,6 @@ bud_wbi_fwb_dot_2024,wbi,2024,46742000,,,budgeted,src_cdc_rd26_wbi_fwb_dot,stron
 bud_wbi_fwb_dot_2025,wbi,2025,43945000,,,budgeted,src_cdc_rd26_wbi_fwb_dot,strong,CdC: FWB subvention 43.945m 2025 AJU
 bud_wbi_fwb_dot_2026,wbi,2026,42945000,,,budgeted,src_cdc_rd26_wbi_fwb_dot,strong,CdC: FWB subvention 42.945m 2026 INI; RD targets >=10pct savings options
 bud_vl_dkbuza_sn_bbt_2026,vlaanderen_gov,2026,8971000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,BBT Diependaele: Programma SN Buitenlands Beleid 8.971m VAK/VEK 2026; dual WBI scope smaller partial (FIT trade separate)
+bud_wbi_wal_dot_2026,wbi,2026,30098000,,,budgeted,src_wal_bud27_wbi_dot_2026,strong,DF 019.003 Relations exterieures: WAL dotation WBI 30.098m 2026
+bud_wbi_wal_dot_2025,wbi,2025,30698000,,,budgeted,src_wal_bud27_wbi_dot_2026,strong,Implied: 2026 30.098 + 0.600 cut = 30.698m 2025 base (Dolimont -600k vs 2025)
+bud_wbi_fwb_wal_dots_sum_2026,wbi,2026,73043000,,,budgeted,src_wal_bud27_wbi_dot_2026,strong,Derived: FWB 42.945 + WAL 30.098 = 73.043m dual dots 2026; residual to total liq class own/EU/COCOF

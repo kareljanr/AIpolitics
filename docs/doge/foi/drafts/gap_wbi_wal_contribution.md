@@ -1,8 +1,17 @@
 # FOI draft — gap_wbi_wal_contribution
 
-Status: **ready** (human send only)  
+Status: **answered** (tick 259 public fill — no send needed)  
 Internal ref: `gap_wbi_wal_contribution`  
-Tick: 258
+Ticks: 258 draft · 259 answered
+
+### Answered (strong primary bud27 Dolimont)
+
+| Item | Amount |
+|------|-------:|
+| **WAL DF 019.003 WBI 2026** | **€30.098m** |
+| WAL 2025 base (implied) | €30.698m |
+| Cut 2026 | −€0.600m (EIWB1 building option) |
+| FWB + WAL sum 2026 | **€73.043m** |
 
 ### Public side filled
 

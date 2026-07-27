@@ -2776,3 +2776,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity wbi; budgets +6; cmt +1; lb +3; FOI gap_wbi_wal_contribution ready; draft; raw PDFs; rq_249=done; spawn rq_250 progress@260; ticks=258
 - FOI: WAL WBI contribution human send
 - Next: prio5 **rq_250**; **progress@260 in 2 ticks**; deferred **rq_116** SWA
+
+### 2026-07-29T16:30:00Z — tick 259
+- Unit: **rq_250** (FOI-adjacent hole-fill — **WAL WBI dotation closes dual financing**)
+- Found (strong primary Parlement wallon bud27 Dolimont):
+  - **WAL DF 019.003 WBI dotation EUR 30.098m** 2026 (was **30.698m** 2025; **-0.600m** building EIWB1 option).
+  - Dual with **FWB 42.945m** 2026ini ? **sum 73.043m** (vs agency liq 96.448m 2025; residual COCOF/own/EU).
+  - CdC 2025A1: WBI consolidé **-19.6m** mainly emphytéose 12.1m Sainctelette.
+  - gap_wbi_wal_contribution **answered**.
+- Wrote: sources +2; budgets +3; cmt +1; lb +2; FOI answered; raw PDFs; rq_250=done; spawn rq_251 progress@260 + rq_252; ticks=259
+- FOI: WAL WBI closed public
+- Next: **rq_251 progress@260 mandatory**; then rq_252; deferred **rq_116** SWA
