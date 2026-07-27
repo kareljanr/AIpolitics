@@ -4,3 +4,8 @@ Thumbs.db
 .env
 .env.*
 node_modules/
+
+# Editor
+docs/**/.obsidian/
+*.canvas
+
