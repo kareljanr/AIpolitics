@@ -3625,3 +3625,59 @@ bud_dg_telecom_ops_2025,dg_telecom,2025,886000,,,budgeted,src_kamer_55k2933_sure
 bud_dg_telecom_ops_2026,dg_telecom,2026,886000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
 bud_dg_telecom_ops_2027,dg_telecom,2027,886000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,BA 59.02.12.11.01 functioning DG Telecom broadband plan + social tariff automation class
 bud_dg_telecom_admin_pack_2023,dg_telecom,2023,2434000,,,budgeted,src_kamer_55k2933_surendettement_telecom_admin,strong,Sum 2023 admin: personnel 1.048 + ops 1.386 = 2.434m (excl connectivity subsidies 66.2m)
+bud_statbel_functioning_2021,statbel,2021,623000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_functioning_2022,statbel,2022,1002000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_functioning_2023,statbel,2023,991000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_functioning_2024,statbel,2024,977000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_functioning_2025,statbel,2025,977000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_functioning_2026,statbel,2026,977000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_functioning_2027,statbel,2027,977000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.01 permanent non-IT goods/services liq (surveys postage EU-SILC etc)
+bud_statbel_indemnities_2021,statbel,2021,138000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_indemnities_2022,statbel,2022,295000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_indemnities_2023,statbel,2023,303000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_indemnities_2024,statbel,2024,300000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_indemnities_2025,statbel,2025,300000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_indemnities_2026,statbel,2026,300000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_indemnities_2027,statbel,2027,300000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.12.11.99 indemnities forfaitaires path
+bud_statbel_durable_2021,statbel,2021,30000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_durable_2022,statbel,2022,87000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_durable_2023,statbel,2023,87000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_durable_2024,statbel,2024,87000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_durable_2025,statbel,2025,87000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_durable_2026,statbel,2026,87000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_durable_2027,statbel,2027,87000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.02.74.22.01 durable movable goods non-IT
+bud_statbel_fund_contractual_2021,statbel,2021,547000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_contractual_2022,statbel,2022,840000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_contractual_2023,statbel,2023,840000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_contractual_2024,statbel,2024,840000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_contractual_2025,statbel,2025,840000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_contractual_2026,statbel,2026,840000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_contractual_2027,statbel,2027,840000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.00.04 Fonds NIS contractual personnel
+bud_statbel_fund_enqueteurs_2022,statbel,2022,182000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.12.06 Fonds NIS enqueteurs
+bud_statbel_fund_enqueteurs_2023,statbel,2023,304000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.12.06 Fonds NIS enqueteurs
+bud_statbel_fund_enqueteurs_2024,statbel,2024,139000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.12.06 Fonds NIS enqueteurs
+bud_statbel_fund_enqueteurs_2025,statbel,2025,139000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.12.06 Fonds NIS enqueteurs
+bud_statbel_fund_enqueteurs_2026,statbel,2026,139000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.12.06 Fonds NIS enqueteurs
+bud_statbel_fund_enqueteurs_2027,statbel,2027,139000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.12.06 Fonds NIS enqueteurs
+bud_statbel_fund_enqueteurs_ssc_2022,statbel,2022,28000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.20.06 Fonds NIS employer SSC enqueteurs
+bud_statbel_fund_enqueteurs_ssc_2023,statbel,2023,46000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.20.06 Fonds NIS employer SSC enqueteurs
+bud_statbel_fund_enqueteurs_ssc_2024,statbel,2024,21000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.20.06 Fonds NIS employer SSC enqueteurs
+bud_statbel_fund_enqueteurs_ssc_2025,statbel,2025,21000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.20.06 Fonds NIS employer SSC enqueteurs
+bud_statbel_fund_enqueteurs_ssc_2026,statbel,2026,21000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.20.06 Fonds NIS employer SSC enqueteurs
+bud_statbel_fund_enqueteurs_ssc_2027,statbel,2027,21000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.10.11.20.06 Fonds NIS employer SSC enqueteurs
+bud_statbel_enqueteurs_diverse_2021,statbel,2021,1382000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_diverse_2022,statbel,2022,1443000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_diverse_2023,statbel,2023,1483000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_diverse_2024,statbel,2024,1435000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_diverse_2025,statbel,2025,1435000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_diverse_2026,statbel,2026,1435000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_diverse_2027,statbel,2027,1435000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.12.06 diverse surveys enqueteurs (LFS EU-SILC HBS etc)
+bud_statbel_enqueteurs_ssc_2021,statbel,2021,210000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_enqueteurs_ssc_2022,statbel,2022,218000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_enqueteurs_ssc_2023,statbel,2023,224000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_enqueteurs_ssc_2024,statbel,2024,254000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_enqueteurs_ssc_2025,statbel,2025,254000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_enqueteurs_ssc_2026,statbel,2026,254000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_enqueteurs_ssc_2027,statbel,2027,254000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
+bud_statbel_ops_fund_pack_2023,statbel,2023,4366000,,,budgeted,src_kamer_55k2933_statbel,strong,Sum 2023 class excl statutaire payroll memo: functioning 0.991 + indemn 0.303 + durable 0.087 + fund contract 0.84 + fund enqu 0.35 + diverse enqu+ssc 1.707 + tiny ASBL ~0.01 = ~4.37m
+bud_statbel_fte_2022,statbel,2022,0,,,outturn,src_kamer_55k2933_statbel,strong,FTE headcount 275.6 as of 01 Jul 2022 (Kamer effectifs table); wage bill residual FOI

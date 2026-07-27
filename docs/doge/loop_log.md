@@ -3286,3 +3286,12 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets ~3626 · commitments ~557 · leaderboard ~645 · entities ~249 · sources ~588 · FOI rows ~131
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_290=done; ticks=300
 - Next: prio5 **rq_292**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-30T13:15:00Z - tick 301
+- Unit: **rq_292** (FOI-adjacent hole-fill - **Statbel + FANC financing model**)
+- Found:
+  - **Statbel** (strong Kamer): FTE **275.6** (01 Jul 2022); ops+fund+enqueteurs pack **~€4.4m** 2023 class (functioning ~0.99 + fund contract 0.84 + enqueteurs ~1.71 + other); statutaire payroll **pour mémoire** FOI.
+  - **FANC** (strong IRRS 2023): category C; **100% fee/tax** financed; NPP taxes **~75%** income; must balance budget; dual Bel V 16m already mapped; absolute EUR still FOI.
+- Wrote: sources +2; entity statbel; budgets +pack; cmt +2; lb +2; FOI gap_statbel_statutaire_payroll ready; draft; IRRS raw; gap_fanc note; rq_292=done; spawn rq_293; ticks=301
+- FOI: Statbel wage bill + FANC EUR residual human send
+- Next: prio5 **rq_293**; deferred **rq_116** SWA
