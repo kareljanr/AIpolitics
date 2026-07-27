@@ -2559,3 +2559,17 @@ bud_fwb_aj_mena_2026,fwb_aide_jeunesse,2026,6614000,,,budgeted,src_fwb_budget_do
 bud_fwb_aj_nouvelles_2026,fwb_aide_jeunesse,2026,8229000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Nouvelles politiques AJ 8.229m
 bud_fwb_aj_maisons_ado_2026,fwb_aide_jeunesse,2026,2999000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Maisons de l adolescent 2.999m
 bud_fwb_aj_l5_sample_sum_2026,fwb_aide_jeunesse,2026,448430000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Named L5 sample sum 448430000 of DO17 ~470.6m (~95pct)
+bud_fwb_do18_eng_2026,fwb_maisons_justice,2026,28362000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,DO18 total eng 28.362m BI2026
+bud_fwb_do18_liq_2026,fwb_maisons_justice,2026,30124000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,DO18 total liq 30.124m BI2026
+bud_fwb_do18_eng_2025,fwb_maisons_justice,2025,28700000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,DO18 eng 28.700m BI2025 compare
+bud_fwb_do18_liq_2025,fwb_maisons_justice,2025,30276000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,DO18 liq 30.276m BI2025 compare
+bud_fwb_mdj_partenariats_2026,fwb_maisons_justice,2026,24354000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Prog3 Partenariats eng 24.354 / liq 24.292m (~81pct DO18 eng)
+bud_fwb_mdj_act31_agrege_2026,fwb_maisons_justice,2026,23469000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Act31 decret 2016 agrege services eng 23.469 / liq 23.407m
+bud_fwb_mdj_aide_lien_2026,fwb_maisons_justice,2026,6851000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Subs services agrege aide au lien 6.851m eng (largest partner line)
+bud_fwb_mdj_aide_psy_2026,fwb_maisons_justice,2026,5668000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Subs services agrege aide psychologique 5.668m eng
+bud_fwb_mdj_aide_sociale_2026,fwb_maisons_justice,2026,4180000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Subs services agrege aide sociale 4.180m eng
+bud_fwb_mdj_se_2026,fwb_maisons_justice,2026,3433000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Prog1 Centre surveillance electronique eng 3.433 / liq 4.958m
+bud_fwb_mdj_se_aide_detenus_2026,fwb_maisons_justice,2026,3203000,,,budgeted,src_fwb_budget_do18_mdj_2026,strong,Aide financiere detenus sans moyens sous SE 3.203m
+bud_fwb_infra_saj_mdj_2026,fwb_maisons_justice,2026,10595000,,,budgeted,src_fwb_budget_do18_mdj_2026,medium,DO15 act14 infra SAJ-SPJ + Maisons de justice 10.595m (shared not pure MDJ)
+bud_vl_justitiehuizen_dotatie_rec_2026,vl_justitiehuizen,2026,90357000,,,budgeted,src_vl_bbt_fb_bo2026_justitiehuizen_dotatie,strong,Federal BFW art47/10 receipt Dotatie Justitiehuizen BO2026 90.357m (not full AJH spend)
+bud_vl_justitiehuizen_dotatie_rec_2025,vl_justitiehuizen,2025,88767000,,,budgeted,src_vl_bbt_fb_bo2026_justitiehuizen_dotatie,strong,BA2025 Dotatie Justitiehuizen 88.767m receipt compare

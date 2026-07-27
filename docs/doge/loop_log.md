@@ -2583,3 +2583,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 13; cmt 1; lb 3; FOI gap_fwb_aj_operator_l5 **ready**; rq_233=done; seeded **rq_234**.
 - FOI: named operators inside 264m resid residual human send.
 - Next: prio5 **rq_234**; deferred **rq_116** SWA.
+
+### 2026-07-29T08:30:00Z — tick 243
+- Unit: rq_234 (Maisons de Justice deepen + VL Justitiehuizen dual)
+- Found (strong primary):
+  - **FWB DO18 Maisons de Justice BI2026** (`fwb_budget_dep_2026.pdf`): **eng €28.362m / liq €30.124m** (2025 eng 28.700 / liq 30.276).
+  - Split 2026: Prog0 subsistance 0.575/0.837m; **Prog1 surveillance électronique 3.433/4.958m** (aide détenus SE **3.203m**); **Prog3 partenariats eng 24.354 / liq 24.292m** (~81% eng); Prog4 0/0.037m.
+  - Act31 agréés (eng): aide au lien **6.851m**, psy **5.668m**, sociale **4.180m**, accompagnement **3.792m**, communication **1.734m**, juridique **1.244m** (sum eng **23.469m**); projets particuliers **0.605m**; urgences **0.280m**.
+  - Related infra DO15 act14 SAJ-SPJ+MDJ **10.595m** (shared; medium).
+  - **VL dual receipt** BBT FB BO2026: Dotatie Justitiehuizen art. 47/10 BFW **BA2025 €88.767m → BO2026 €90.357m** (+1.590m). Receipt only — full AJH spend/top-up residual (beleidsnota: VL tops up).
+  - Dual note: **not additive** (programme credits vs federal receipt; FWB personnel likely outside DO18).
+- Wrote: sources (+2); entities fwb_maisons_justice + vl_justitiehuizen; budgets (+14); commitments (+2); leaderboard (+3); foi_queue ready gap_fwb_mdj_partner_l5 + gap_vl_justitiehuizen_spend; drafts; rq_234=done; spawn rq_235; loop_state ticks=243
+- FOI opened: gap_fwb_mdj_partner_l5, gap_vl_justitiehuizen_spend (ready, human send)
+- Next: rq_235 hole-fill; rq_116 SWA deferred Oct–Dec 2026
