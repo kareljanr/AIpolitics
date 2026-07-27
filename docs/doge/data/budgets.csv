@@ -919,3 +919,28 @@ bud_party_parl_staff_2024,gg_belgium,2024,104600000,,,estimate,src_maddens_party
 bud_party_package_with_staff_2024,gg_belgium,2024,188300000,,,estimate,src_maddens_party_finance_2024,medium,Direct subsidies 83.7m + staff 104.6m = 188.3m broad public party financing
 bud_party_direct_subsidies_2025,gg_belgium,2025,86500000,,,estimate,src_bt_party_subsidies_2025,medium,Press: 86.5m direct subsidies 2025 (+2.8m vs 2024) from party accounts analysis
 bud_parliaments_total_opex_2024,gg_belgium,2024,619000000,,,outturn,src_maddens_party_finance_2024,strong,All BE assemblies operating total 619.0m 2024; ~29.7pct to parties (dot+fractie+staff)
+bud_wal_parlement_2026,wallonie_gov,2026,76254000,,,budgeted,src_wal_expgen_2026,strong,Prog 01.002 Dotation Parlement de Wallonie eng/liq 76.254m 2026
+bud_wal_mediateur_2026,wallonie_gov,2026,1891000,,,budgeted,src_wal_expgen_2026,strong,Prog 01.003 Médiateur 1.891m 2026
+bud_wal_cwape_2026,wallonie_gov,2026,9259000,,,budgeted,src_wal_expgen_2026,strong,Prog 01.129 Dotation CWaPE 9.259m 2026 (new under MP)
+bud_wal_cabinets_2026,wallonie_gov,2026,28043000,,,budgeted,src_wal_expgen_2026,strong,DO02 Cabinets subsistence 28.043m 2026
+bud_wal_cese_2026,wallonie_gov,2026,7858000,,,budgeted,src_wal_expgen_2026,strong,Prog 09.012 CESE Wallonie 7.858m 2026
+bud_wal_sante_fam_dot_2026,wallonie_gov,2026,7026601000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.093 Dotations Santé Protection sociale Handicap Familles 7026.601m eng 2026 (AVIQ-class bulk)
+bud_wal_action_sociale_2026,wallonie_gov,2026,329598000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.094 Action sociale 329.598m 2026
+bud_wal_creches_2026,wallonie_gov,2026,16250000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.095 Crèches petite enfance 16.250m 2026
+bud_wal_affaires_int_2026,wallonie_gov,2026,2682359000,,,budgeted,src_wal_expgen_2026,strong,Prog 17.091 Affaires intérieures 2682.359m 2026 (communes CRAC class)
+bud_wal_forem_prog_2026,forem,2026,2833619000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.130 Nouveau FOREM consolidated eng/liq 2833.619m 2026 (replaces split lines)
+bud_wal_ifapme_2026,wallonie_gov,2026,88299000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.112 IFAPME 88.299m 2026
+bud_wal_eco_outils_2026,wallonie_gov,2026,132452000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.097 ENTREPRISES Outils économiques et financiers 132.452m eng 2026 (WE path inside)
+bud_wal_eco_aides_inv_2026,wallonie_gov,2026,161605000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.096 Aides à l investissement 161.605m 2026
+bud_wal_eco_innovation_2026,wallonie_gov,2026,55439000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.099 Compétitivité Innovation Développement 55.439m 2026
+bud_wal_eco_sociale_2026,wallonie_gov,2026,30508000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.104 Economie sociale 30.508m eng 2026
+bud_wal_recherche_2026,wallonie_gov,2026,247509000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.114 RECHERCHE 247.509m eng 2026
+bud_wal_emplois_prox_2026,wallonie_gov,2026,26712000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.108 Emplois de proximité 26.712m 2026
+bud_wal_promo_emploi_2026,wallonie_gov,2026,71999000,,,budgeted,src_wal_expgen_2026,strong,Prog 18.101 Promotion de l Emploi 71.999m 2026
+bud_wal_spw_plafond_2026,wallonie_gov,2026,736000000,,,budgeted,src_wal_budget_2026_cp,strong,SPW fonction publique plafond 736m 2026 (path 731m 2029)
+bud_wal_we_credits_2026,wallonie_gov,2026,64000000,,,budgeted,src_wal_budget_2026_cp,strong,Wallonie Entreprendre credits 64m 2026 (was 124m)
+bud_wal_we_dividend_2026,wallonie_gov,2026,70000000,,,budgeted,src_wal_budget_2026_cp,strong,WE dividend to Region 70m 2026 (was 55m)
+bud_wal_marshall_comp_2026,wallonie_gov,2026,58000000,,,budgeted,src_wal_budget_2026_cp,strong,Plan Marshall commune compensations recadré 58m/yr
+bud_wal_feri_grandes_villes_2026,wallonie_gov,2026,35000000,,,budgeted,src_wal_budget_2026_cp,strong,Dotation Grandes Villes 35m within FERI reform
+bud_wal_biodiv_2026,wallonie_gov,2026,5540000,,,budgeted,src_wal_budget_2026_cp,strong,Biodiversity recurrent envelope 5.54m 2026
+bud_wal_garanties_1st_2024,wallonie_gov,2024,8822170620,,,outturn,src_wal_expgen_2026,strong,Dette garantie 1er rang stock end-2024 8.822bn (SWCS 2.94 CRAC 2.21 FLFNW 1.45 SWL 0.97 SOFICO 0.53 OTW 0.30)

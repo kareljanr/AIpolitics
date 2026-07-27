@@ -1175,3 +1175,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (4); budgets (12); cmt_party_public_financing_2024; lb_party_public_financing; rq_137=done.
 - FOI opened: none (aggregates public; per-assembly cash codes residual low priority vs ready stack).
 - Next: prio7 **rq_126 WAL L5** / **rq_127 FWB** / **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**; prio6 IEFH/FIRM.
+
+### 2026-07-27T18:00:00Z — tick 134
+- Unit: **rq_126** (Wallonie budget 2026 top named ASBL/dotations L5)
+- Found (strong primary ExpGen + GW CP):
+  - **FOREM prog 18.130 consolidated €2.8336bn** eng/liq 2026 (new single line).
+  - **17.093 Santé/Familles/Handicap €7.027bn**; Action sociale 329.6m; Crèches 16.3m; Affaires int. 2.682bn.
+  - Named: **IFAPME 88.3m** · **Parlement 76.3m** · **CWaPE 9.3m** · **Cabinets 28.0m** · **CESE 7.9m** · **Recherche 247.5m** · **Eco outils 132.5m** · **Eco sociale 30.5m**.
+  - **WE**: credits **124?64m**; dividend **55?70m**. **SPW** plafond **736m**. Marshall communes **58m**; FERI GV **35m**.
+  - Savings **270.4m** with official APE package **83.7m** line-split (communes 17.5; indus 15; formation 20; provinces suppress 7.3; etc.). AVIQ 5.6+28.3m. Facultatives -8m. Airports -7m.
+  - Garanties 1er rang stock end-2024 **€8.822bn** (SWCS/CRAC/FLFNW/SWL dominant).
+- Wrote: sources 2; budgets 25; commitments 4; leaderboard 3; rq_126=done; gap_wal residual ASBL note.
+- FOI: gap_wal_l5 remains **ready** for pure ASBL top-20 (UAP/programme filled).
+- Next: prio7 **rq_127 FWB** / **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**.
