@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T17:30:00Z,rq_252,261,no,Scheduler 60s. Next prio5 rq_253; rq_116 SWA deferred. FOI ready human send. tick261 Enabel 435.6m dual APEFE.
+main,continuous,hole_fill,2026-07-29T18:00:00Z,rq_253,262,no,Scheduler 60s. Next prio5 rq_254; rq_116 SWA deferred. FOI ready human send. tick262 PMV 4.24bn dual WE holdings.

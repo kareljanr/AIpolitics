@@ -2810,3 +2810,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities enabel+apefe; budgets +16; cmt +2; lb +3; FOI gap_apefe_budget_total ready; draft; raw PDFs; rq_252=done; spawn rq_253; ticks=261
 - FOI: APEFE total budget human send
 - Next: prio5 **rq_253**; deferred **rq_116** SWA
+
+### 2026-07-29T18:00:00Z — tick 262
+- Unit: **rq_253** (FOI-adjacent hole-fill — **PMV JR2025 dual Wallonie Entreprendre**)
+- Found (strong primary JR2025 statutory kEUR):
+  - **Total assets EUR 4.236bn** end-2025 (was **1.626bn** 2024) — BAC/deelnemingen jump.
+  - Eigen vermogen **4.180bn**; geplaatst kapitaal **4.329bn** (niet-opgevraagd 716m).
+  - Fin. vaste activa **4.031bn**; deelnemingen verbonden **3.191bn** (was 637m).
+  - Bedrijfsopbrengsten **18.758m**; bezoldigingen **21.101m**; resultaat **17.234m**; dividend **3.8m**.
+  - Dual **WE equity ~4.98bn** 2025 (prior map) — regional holdings comparable scale; SFPIM federal third layer.
+- Wrote: sources +1; entity pmv; budgets +16; cmt +1; lb +3; raw PDF; rq_253=done; spawn rq_254; ticks=262
+- FOI: none new (material stock filled); APEFE/Mons residual still ready
+- Next: prio5 **rq_254**; deferred **rq_116** SWA

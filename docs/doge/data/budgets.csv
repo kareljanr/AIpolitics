@@ -2789,3 +2789,19 @@ bud_enabel_volume_2025_chart,enabel,2025,435000000,,,outturn,src_enabel_ar_2025_
 bud_enabel_staff_headcount_2026,enabel,2026,2369,,,outturn,src_enabel_ar_2025_26,strong,Staff 2369 at 1/1/2026 path (2385 peak 2025)
 bud_enabel_assets_2025,enabel,2025,217367384,,,outturn,src_enabel_ar_2025_26,strong,Total assets 217.367m end-2025
 bud_enabel_assets_2024,enabel,2024,221899107,,,outturn,src_enabel_ar_2025_26,strong,Total assets 221.899m end-2024
+bud_pmv_assets_2025,pmv,2025,4236105000,,,outturn,src_pmv_jr_2025,strong,JR2025 statutory total assets 4.236105bn (kEUR table x1000); was 1.626bn 2024
+bud_pmv_assets_2024_stat,pmv,2024,1626097000,,,outturn,src_pmv_jr_2025,strong,JR2025 prior year statutory assets 1.626097bn
+bud_pmv_equity_2025,pmv,2025,4180096000,,,outturn,src_pmv_jr_2025,strong,Eigen vermogen 4.180096bn end-2025 (was 1.613bn)
+bud_pmv_equity_2024_stat,pmv,2024,1613027000,,,outturn,src_pmv_jr_2025,strong,Eigen vermogen 1.613027bn end-2024 statutory
+bud_pmv_geplaatst_kap_2025,pmv,2025,4329462000,,,outturn,src_pmv_jr_2025,strong,Geplaatst kapitaal 4.329462bn (niet-opgevraagd 716.042m)
+bud_pmv_fin_fa_2025,pmv,2025,4031083000,,,outturn,src_pmv_jr_2025,strong,Financiele vaste activa 4.031083bn (was 1.436bn); BAC/deelnemingen jump
+bud_pmv_deelnemingen_verbonden_2025,pmv,2025,3190997000,,,outturn,src_pmv_jr_2025,strong,Deelnemingen verbonden ondernemingen 3.190997bn (was 637.108m)
+bud_pmv_opbrengsten_2025,pmv,2025,18758000,,,outturn,src_pmv_jr_2025,strong,Bedrijfsopbrengsten 18.758m 2025 statutory
+bud_pmv_opbrengsten_2024_stat,pmv,2024,13271000,,,outturn,src_pmv_jr_2025,strong,Bedrijfsopbrengsten 13.271m 2024 statutory
+bud_pmv_kosten_2025,pmv,2025,35332000,,,outturn,src_pmv_jr_2025,strong,Bedrijfskosten 35.332m 2025
+bud_pmv_bezold_2025,pmv,2025,21101000,,,outturn,src_pmv_jr_2025,strong,Bezoldigingen 21.101m 2025 (was 19.460m)
+bud_pmv_bezold_2024_stat,pmv,2024,19460000,,,outturn,src_pmv_jr_2025,strong,Bezoldigingen 19.460m 2024 statutory
+bud_pmv_result_2025,pmv,2025,17234000,,,outturn,src_pmv_jr_2025,strong,Resultaat boekjaar 17.234m 2025 (was 27.151m)
+bud_pmv_result_2024_stat,pmv,2024,27151000,,,outturn,src_pmv_jr_2025,strong,Resultaat 27.151m 2024 statutory
+bud_pmv_dividend_2025,pmv,2025,3800000,,,outturn,src_pmv_jr_2025,strong,Dividend/vergoeding kapitaal 3.8m 2025 (flat vs 2024)
+bud_pmv_fin_opbrengsten_2025,pmv,2025,88336000,,,outturn,src_pmv_jr_2025,strong,Financiele opbrengsten 88.336m 2025 (incl non-recurrent 36.704m)
