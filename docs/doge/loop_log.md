@@ -3328,3 +3328,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity gba_apd; budgets +7; cmt +2; lb +3; FOI gap_gba_accounts_l5 ready; draft; raw ARs; rq_295=done; spawn rq_296; ticks=304
 - FOI: GBA L5 P&L + reserve path human send
 - Next: prio5 **rq_296** (Federale Ombudsman deepen candidate); deferred **rq_116** SWA
+
+### 2026-07-30T15:15:00Z - tick 305
+- Unit: **rq_296** (FOI-adjacent hole-fill - **Federale Ombudsman AR2024 + Kamer 56K0983**)
+- Found (strong primary dual):
+  - Uitgaven: **6.238m (2023 outturn)** / budget **7.956m (2024)** / **8.238m (2025)** / **8.268m (2026)**.
+  - 2024 outturn class **~6.609m** (util **83.07%**); surplus **1.347m** (pers 1.135 + ops 0.185 + cap 0.027).
+  - Global boni result 2024 **1.515m**; mechanism: boni year X cofinances year X+2.
+  - Dotatie path **6.840 / 7.367 / 6.917 / 6.753m** (2023-26 declining via boni + Moesen freeze).
+  - Staff **52** (48 FT); 8 ETP expansion hard to fill (forensic bilingual).
+  - Dual Kamer-dotation peers GBA ~15m; FIRM/CTRG/HRJ next.
+- Wrote: sources +2; entity fed_ombudsman; budgets +11; cmt +2; lb +3; FOI gap_fed_ombuds_l5_pnl ready; draft; raw AR+Kamer; rq_296=done; spawn rq_297; ticks=305
+- FOI: L5 littera P&L + FTE human send
+- Next: prio5 **rq_297** (Kamer 56K0983 peer institutions); deferred **rq_116** SWA

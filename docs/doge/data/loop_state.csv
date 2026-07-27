@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T14:45:00Z,rq_295,304,no,Scheduler 60s. Next prio5 rq_296; rq_116 SWA deferred. FOI ready. tick304 GBA privacy regulator ~15.1-15.3m + staff 96.
+main,continuous,hole_fill,2026-07-30T15:15:00Z,rq_296,305,no,Scheduler 60s. Next prio5 rq_297; rq_116 SWA deferred. FOI ready. tick305 Fed Ombuds ~8.0-8.3m budget + outturn 6.61m.

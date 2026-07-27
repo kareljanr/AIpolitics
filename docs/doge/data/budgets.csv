@@ -3738,3 +3738,14 @@ bud_gba_dotatie_2024,gba_apd,2024,14002000,,,budgeted,src_gba_jaarverslag_2024_2
 bud_gba_toewijzing_2025,gba_apd,2025,12669000,,,budgeted,src_gba_jaarverslag_2024_25,strong,AR2025: eigenlijke toewijzing 12.669.000 EUR; rest from overgedragen reserves; -9.5pct vs 2024 dotatie
 bud_gba_staff_2024,gba_apd,2024,84,,,outturn,src_gba_jaarverslag_2024_25,strong,Headcount eoy2024 84 medewerkers vs 68 eoy2023 (+23.5pct); not EUR
 bud_gba_staff_2025,gba_apd,2025,96,,,outturn,src_gba_jaarverslag_2024_25,strong,Headcount eoy2025 96 medewerkers vs 84 (+12pct); not EUR
+bud_fed_ombuds_exp_2023,fed_ombudsman,2023,6238257,,,outturn,src_fed_ombuds_jaarverslag_2024,strong,AR rekeningen 2023 uitgaven 6.238.25712 EUR
+bud_fed_ombuds_exp_budget_2024,fed_ombudsman,2024,7955700,,,budgeted,src_fed_ombuds_jaarverslag_2024,strong,AR budget 2024 uitgaven 7.955.700 EUR
+bud_fed_ombuds_exp_outturn_2024,fed_ombudsman,2024,6609011,,,outturn,src_kamer_56k0983_fed_ombuds,strong,Derived: budget 7.9557m - Kamer surplus 1.3466892m = 6.609011m; util 83.07pct confirmed
+bud_fed_ombuds_exp_budget_2025,fed_ombudsman,2025,8238400,,,budgeted,src_fed_ombuds_jaarverslag_2024,strong,AR budget 2025 uitgaven 8.238.400 EUR
+bud_fed_ombuds_exp_budget_2026,fed_ombudsman,2026,8268000,,,budgeted,src_kamer_56k0983_fed_ombuds,strong,Kamer ontwerp 2026 totale uitgaven 8.268.000 (+29.6k vs 2025)
+bud_fed_ombuds_dotatie_2023,fed_ombudsman,2023,6840000,,,outturn,src_fed_ombuds_jaarverslag_2024,strong,AR financing dotatie 6.840.000 2023
+bud_fed_ombuds_dotatie_2024,fed_ombudsman,2024,7367000,,,budgeted,src_fed_ombuds_jaarverslag_2024,strong,AR financing dotatie 7.367.000 2024
+bud_fed_ombuds_dotatie_2025,fed_ombudsman,2025,6917000,,,budgeted,src_fed_ombuds_jaarverslag_2024,strong,AR financing dotatie 6.917.000 2025 (-6.1pct vs 2024); gap filled by boni 1.321m
+bud_fed_ombuds_dotatie_2026,fed_ombudsman,2026,6753000,,,budgeted,src_kamer_56k0983_fed_ombuds,strong,Kamer 2026 requested dotatie 6.753.000 (-164k vs 2025); + boni 2024 1.515m
+bud_fed_ombuds_boni_2024,fed_ombudsman,2024,1515477,,,outturn,src_kamer_56k0983_fed_ombuds,strong,Kamer global result 2024 1.515.47714 (budget result 926736 + carried 588741)
+bud_fed_ombuds_staff_2024,fed_ombudsman,2024,52,,,outturn,src_fed_ombuds_jaarverslag_2024,strong,Headcount 52 (48 FT + 4 PT); 35 statutaire 17 contractueel; FR27 NL25; not EUR
