@@ -3775,3 +3775,38 @@ bud_comite_i_exp_2025,comite_i,2025,6393803,,,budgeted,src_kamer_56k0983_peer_do
 bud_comite_i_exp_2026,comite_i,2026,6937100,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,2026 exp 6.9371m incl digitisation tranche 850k
 bud_comite_i_dotatie_2025,comite_i,2025,5180000,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 2025 5.180m
 bud_comite_i_dotatie_2026,comite_i,2026,4867210,,,budgeted,src_kamer_56k0983_peer_dotaties,strong,Dotatie 2026 4.86721m (-6.4pct) + boni 2.069889m
+bud_firm_kred_2024,firm_ifdh,2024,4348733,,,budgeted,src_kamer_56k0983_approved_2026,strong,Kamer: 2024 uitgavenbegroting 4.348.73278; financed dotatie 4.111m + boni 2022 0.238m
+bud_firm_dotatie_2024,firm_ifdh,2024,4111000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Dotatie 2024 4.111m
+bud_firm_surplus_2024,firm_ifdh,2024,1859949,,,outturn,src_kamer_56k0983_approved_2026,strong,Comptes 2024 surplus 1.859949m (vs 1.3214m 2023)
+bud_firm_kred_2025,firm_ifdh,2025,4983893,,,budgeted,src_kamer_56k0983_approved_2026,strong,2025 kredieten 4.983893m (Kamer narrative)
+bud_firm_kred_req_2026,firm_ifdh,2026,5628682,,,budgeted,src_kamer_56k0983_approved_2026,strong,Requested 2026 kred 5.628682m (+12.9pct vs 2025)
+bud_firm_kred_approved_2026,firm_ifdh,2026,5083571,,,budgeted,src_kamer_56k0983_approved_2026,strong,Commission approved kred 5.083571m 2026
+bud_firm_dotatie_req_2026,firm_ifdh,2026,3769000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Requested dotatie 3.769m (frozen at 2025 via boni narrative)
+bud_firm_dotatie_approved_2026,firm_ifdh,2026,3223000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Commission approved dotatie 3.223m 2026
+bud_firm_staff_2025,firm_ifdh,2025,24,,,outturn,src_kamer_56k0983_approved_2026,strong,Current cadre 24 ETP; target 27 eoy2025; original Justice path 22; not EUR
+bud_ctrg_surplus_2024,ctr_gevangeniswezen,2024,670678,,,outturn,src_kamer_56k0983_approved_2026,strong,Comptes 2024 surplus 670678; boni extinguishing path since 2022 exp>dotatie
+bud_ctrg_adjust_2025,ctr_gevangeniswezen,2025,172570,,,budgeted,src_kamer_56k0983_approved_2026,strong,Budget adjustment 2025 +172570 (jetons 70120 + maternity cover 55000 class)
+bud_ctrg_kred_req_2026,ctr_gevangeniswezen,2026,8340000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Requested kred 8.340m 2026 (+27pct narrative)
+bud_ctrg_dotatie_req_2026,ctr_gevangeniswezen,2026,7670000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Requested dotatie 7.670m 2026 (+34pct narrative)
+bud_ctrg_kred_approved_2026,ctr_gevangeniswezen,2026,6694495,,,budgeted,src_kamer_56k0983_approved_2026,strong,Commission approved kred 6.694495m (cut vs request)
+bud_ctrg_dotatie_approved_2026,ctr_gevangeniswezen,2026,6075000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Commission approved dotatie 6.075m 2026
+bud_gba_kred_req_2026,gba_apd,2026,16828000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Requested kred 16.828m 2026 (incl +10 ETP request narrative)
+bud_gba_kred_approved_2026,gba_apd,2026,15885072,,,budgeted,src_kamer_56k0983_approved_2026,strong,Commission approved kred 15.885072m 2026
+bud_gba_dotatie_req_2026,gba_apd,2026,13697000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Requested dotatie 13.697m 2026
+bud_gba_dotatie_approved_2026,gba_apd,2026,12754000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Commission approved dotatie 12.754m 2026
+bud_kamer_dotatie_pack_req_2026,gg_belgium,2026,153966800,,,budgeted,src_kamer_56k0983_approved_2026,strong,Sum requested kredieten 9 institutions 153.9668m 2026
+bud_kamer_dotatie_pack_approved_2026,gg_belgium,2026,149280371,,,budgeted,src_kamer_56k0983_approved_2026,strong,Sum commission-approved kredieten 9 institutions 149.280371m 2026
+bud_kamer_dotatie_sum_req_2026,gg_belgium,2026,137770500,,,budgeted,src_kamer_56k0983_approved_2026,strong,Sum requested dotaties 9 institutions 137.7705m 2026
+bud_kamer_dotatie_sum_approved_2026,gg_belgium,2026,133134000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Sum commission-approved dotaties 9 institutions 133.134m 2026 (+0.78pct Moesen narrative excl ComiteP billing error)
+bud_rekenhof_kred_approved_2026,rekenhof,2026,70999700,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved=requested 70.9997m
+bud_rekenhof_dotatie_approved_2026,rekenhof,2026,65552500,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved=requested 65.5525m
+bud_gwh_kred_approved_2026,grondwettelijk_hof,2026,14520720,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved kred 14.52072m (req 14.593m)
+bud_gwh_dotatie_approved_2026,grondwettelijk_hof,2026,13760000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved dotatie 13.760m (req 13.830m)
+bud_hrj_kred_approved_2026,hrj_csj,2026,7369500,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved kred 7.3695m
+bud_hrj_dotatie_approved_2026,hrj_csj,2026,6873500,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved dotatie 6.8735m
+bud_comite_p_kred_approved_2026,comite_p,2026,14272213,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved kred 14.272213m (req 14.961m)
+bud_comite_p_dotatie_approved_2026,comite_p,2026,14025000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved dotatie 14.025m
+bud_comite_i_kred_approved_2026,comite_i,2026,6187100,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved kred 6.1871m after -750k digitisation tranche holdback
+bud_comite_i_dotatie_approved_2026,comite_i,2026,4118000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved dotatie 4.118m after -750k digitisation holdback
+bud_fed_ombuds_kred_approved_2026,fed_ombudsman,2026,8268000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved=requested 8.268m
+bud_fed_ombuds_dotatie_approved_2026,fed_ombudsman,2026,6753000,,,budgeted,src_kamer_56k0983_approved_2026,strong,Approved=requested 6.753m

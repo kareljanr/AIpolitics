@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T15:45:00Z,rq_297,306,no,Scheduler 60s. Next prio5 rq_298; rq_116 SWA deferred. FOI ready. tick306 Kamer-dotatie pack ~115m (Rekenhof 71m).
+main,continuous,hole_fill,2026-07-30T16:15:00Z,rq_298,307,no,Scheduler 60s. Next prio5 rq_299; progress@310 in 3 ticks; rq_116 SWA deferred. tick307 Kamer 9-inst pack approved kred 149.3m.

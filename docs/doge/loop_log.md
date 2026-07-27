@@ -3354,3 +3354,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities +4 + rekenhof update; budgets +28; cmt +6; lb +6; FOI gap_kamer_dotatie_pack_l5 ready; draft; rq_297=done; spawn rq_298; ticks=306
 - FOI: consolidated L5 table human send
 - Next: prio5 **rq_298** (FIRM/CTRG residual or Raad van State); deferred **rq_116** SWA
+
+### 2026-07-30T16:15:00Z - tick 307
+- Unit: **rq_298** (FOI-adjacent hole-fill - **FIRM + CTRG + full Kamer 2026 approved table**)
+- Found (strong primary Kamer 56K0983/001 p75 table + narratives):
+  - **Full 9 institutions 2026 approved:** kred **EUR 149.280m** / dots **133.134m** (req 153.967 / 137.771).
+  - Moesen almost met: dots **+0.78%** / kred **+0.34%** vs 2025 (excl ComiteP late billing).
+  - **FIRM:** 2024 kred 4.349m surplus **1.860m**; 2026 approved **5.084m** kred / **3.223m** dots; staff **24** ETP.
+  - **CTRG:** surplus 2024 **0.671m**; req **8.340m** cut to approved **6.694m** kred / **6.075m** dots.
+  - **GBA refresh:** approved **15.885m** kred / **12.754m** dots 2026.
+  - Peers refreshed approved: Rekenhof 71.0; ComiteP 14.27; Hof 14.52; Ombuds 8.27; HRJ 7.37; ComiteI 6.19.
+- Wrote: sources +1; entity CTRG + FIRM update; budgets +35; cmt +3; lb +4; FOI gap note update; rq_298=done; spawn rq_299; ticks=307
+- FOI: consolidated multi-year still ready human send
+- Next: prio5 **rq_299** (Raad van State candidate); **progress@310 in 3 ticks**; deferred **rq_116** SWA
