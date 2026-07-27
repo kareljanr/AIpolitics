@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T21:45:00Z,rq_208,215,no,"Scheduler 60s. Next prio5 rq_209 Mons/Digipolis personnel/AG SO VESPA MPA CIA; rq_116 SWA deferred. FOI ready human send. tick215 BZA 87.5m 2026 same-year safety 408m care-safety 497m."
+main,continuous,hole_fill,2026-07-28T22:05:00Z,rq_209,216,no,"Scheduler 60s. Next prio5 rq_210 VESPA/CIA/Energie/Digipolis/Mons; rq_116 SWA deferred. FOI ready human send. tick216 AG SO 88.2m + MPA 4.05m mega stack ~590m."

@@ -2252,3 +2252,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 8; cmt 3; lb 3; entity/foi notes; rq_208=done; seeded **rq_209**.
 - FOI: BZA side-PC + Digipolis 2026 personnel + Mons BI2026 + AG SO/VESPA/MPA/CIA packages next public fill.
 - Next: prio5 **rq_209**; deferred **rq_116** SWA.
+
+### 2026-07-28T22:05:00Z - tick 216
+- Unit: **rq_209** (FOI-adjacent hole-fill - **AG Stedelijk Onderwijs** + secondary **MPA**)
+- Found (strong ebesluit college 13 Feb 2026):
+  - **AG SO package locked EUR 88.152m**: werk **52.887m** (alg 52.717 + VIA 0.170) + respons **7.151m** + invest **28.114m** (alg 27.939 + Santiagostraat 0.175).
+  - MJP alg werk **53.497m** before index withhold **0.780m** (package class if released **88.932m**).
+  - **MPA package locked EUR 4.054m**: parkeer **3.125m** + LEZ **0.929m** (MJP 4.130 - index 0.076); capital increases residual FOI.
+  - **Mega AGB/zone stack same-year 2026**: ZBA 89.3 + PZA 320.7 + BZA 87.5 + AGSO 88.2 + MPA 4.1 = **~589.6m**.
+- Wrote: sources 2; budgets 12; cmt 3; lb 3; entities 2; foi note; rq_209=done; seeded **rq_210**.
+- FOI: AG SO side-PC + MPA capital + VESPA/CIA/Energie + Digipolis personnel + Mons BI2026 human send.
+- Next: prio5 **rq_210**; deferred **rq_116** SWA.

@@ -2278,3 +2278,15 @@ bud_bza_invest_2026,city_antwerpen,2026,3173794.08,,,budgeted,src_ebesluit_bza_t
 bud_bza_package_mjp_class_2026,city_antwerpen,2026,89372403.22,,,budgeted,src_ebesluit_bza_toelage_2026,strong,BZA package class if index released 89.372m (MJP werk+respons+invest)
 bud_antwerp_safety_stack_2026,city_antwerpen,2026,408135471.60,,,budgeted,src_ebesluit_bza_toelage_2026,strong,Same-year safety stack PZA 320.677 + BZA 87.459 = 408.135m 2026
 bud_antwerp_care_safety_stack_sameyear_2026,city_antwerpen,2026,497423621.41,,,budgeted,src_ebesluit_bza_toelage_2026,strong,Same-year care+safety ZBA89.288 + PZA320.677 + BZA87.459 = 497.424m 2026
+bud_agso_package_locked_2026,city_antwerpen,2026,88152485.10,,,budgeted,src_ebesluit_agso_2026,strong,AG Stedelijk Onderwijs package locked 88.152m 2026 (werk 52.887 + respons 7.151 + invest 28.114)
+bud_agso_werk_locked_2026,city_antwerpen,2026,52886926.03,,,budgeted,src_ebesluit_agso_2026,strong,AG SO werk locked 52.887m 2026 (alg 52.717 + VIA solidarisering 0.170)
+bud_agso_werk_algemeen_2026,city_antwerpen,2026,52716926.03,,,budgeted,src_ebesluit_agso_2026,strong,AG SO algemene werking locked 52.717m after index withhold 0.780m
+bud_agso_werk_mjp_2026,city_antwerpen,2026,53496857,,,budgeted,src_ebesluit_agso_2026,strong,AG SO MJP algemene werking envelope 53.497m 2026 before index
+bud_agso_via_2026,city_antwerpen,2026,170000,,,budgeted,src_ebesluit_agso_2026,strong,AG SO solidarisering VIA-middelen 170k 2026
+bud_agso_respons_2026,city_antwerpen,2026,7151313.33,,,budgeted,src_ebesluit_agso_2026,strong,AG SO responsabiliseringsbijdrage 7.151m 2026
+bud_agso_invest_2026,city_antwerpen,2026,28114245.74,,,budgeted,src_ebesluit_agso_2026,strong,AG SO invest 28.114m 2026 (alg 27.939 + Santiagostraat 0.175)
+bud_agso_package_mjp_class_2026,city_antwerpen,2026,88932416.07,,,budgeted,src_ebesluit_agso_2026,strong,AG SO package class if index released 88.932m
+bud_mpa_package_locked_2026,city_antwerpen,2026,4054381.18,,,budgeted,src_ebesluit_mpa_2026,strong,MPA Mobiliteit en Parkeren werk locked 4.054m 2026
+bud_mpa_parkeer_2026,city_antwerpen,2026,3124999.99,,,budgeted,src_ebesluit_mpa_2026,strong,MPA parkeermanagement locked 3.125m 2026
+bud_mpa_lez_2026,city_antwerpen,2026,929381.19,,,budgeted,src_ebesluit_mpa_2026,strong,MPA Budget LEZ locked 0.929m 2026
+bud_antwerp_agb_mega_stack_2026,city_antwerpen,2026,589630578.51,,,budgeted,src_ebesluit_agso_2026,strong,City AGB/zone stack class 2026: ZBA89.3+PZA320.7+BZA87.5+AGSO88.2+MPA4.1 ~589.6m
