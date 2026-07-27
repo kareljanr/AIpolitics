@@ -1856,3 +1856,28 @@ bud_waterlink_personnel_2025,water_link,2025,57585141,,,outturn,src_waterlink_jr
 bud_waterlink_invest_water_2025,water_link,2025,15400000,,,outturn,src_waterlink_jv_2025,strong,JV kern: 15.4m invest drinkwater vervanging/uitbreiding 2025
 bud_waterlink_invest_sewer_2025,water_link,2025,57000000,,,outturn,src_waterlink_jv_2025,strong,JV kern: 57m invest riolering vervanging/uitbreiding 2025
 bud_waterlink_geprod_va_2025,water_link,2025,82643584,,,outturn,src_waterlink_jr_2025,strong,Geproduceerde vaste activa code 72 82.644m 2025 (capitalised production)
+bud_farys_omzet_2024,farys,2024,506292000,,,outturn,src_farys_ov_jv_2024,strong,Omzet 506.292m 2024 (k€ table)
+bud_farys_omzet_2023,farys,2023,495968000,,,outturn,src_farys_ov_jv_2024,strong,Omzet 495.968m 2023 comparative in JV2024
+bud_farys_omzet_2022,farys,2022,453987000,,,outturn,src_farys_ov_jv_2023,strong,Omzet 453.987m 2022 from JV series
+bud_farys_bedrijfsopbr_2024,farys,2024,597954000,,,outturn,src_farys_ov_jv_2024,strong,Bedrijfsopbrengsten 597.954m 2024
+bud_farys_bedrijfsopbr_2023,farys,2023,567695000,,,outturn,src_farys_ov_jv_2024,strong,Bedrijfsopbrengsten 567.695m 2023 comparative JV2024
+bud_farys_bedrijfsopbr_2022,farys,2022,538073000,,,outturn,src_farys_ov_jv_2023,strong,Bedrijfsopbrengsten 538.073m 2022
+bud_farys_bedrijfskosten_2024,farys,2024,524218000,,,outturn,src_farys_ov_jv_2024,strong,Bedrijfskosten 524.218m 2024
+bud_farys_ebit_2024,farys,2024,73736000,,,outturn,src_farys_ov_jv_2024,strong,Bedrijfswinst 73.736m 2024
+bud_farys_ebit_2023,farys,2023,61239000,,,outturn,src_farys_ov_jv_2024,strong,Bedrijfswinst 61.239m 2023
+bud_farys_net_2024,farys,2024,38180000,,,outturn,src_farys_ov_jv_2024,strong,Te bestemmen winst 38.180m 2024
+bud_farys_net_2023,farys,2023,29230000,,,outturn,src_farys_ov_jv_2024,strong,Te bestemmen winst 29.230m 2023
+bud_farys_net_2022,farys,2022,28688000,,,outturn,src_farys_ov_jv_2023,strong,Te bestemmen winst 28.688m 2022
+bud_farys_pbt_2024,farys,2024,38609000,,,outturn,src_farys_ov_jv_2024,strong,Winst voor belasting 38.609m 2024
+bud_farys_assets_2024,farys,2024,3655172000,,,outturn,src_farys_ov_jv_2024,strong,Balanstotaal 3655.172m end-2024
+bud_farys_assets_2023,farys,2023,3544031000,,,outturn,src_farys_ov_jv_2024,strong,Balanstotaal 3544.031m end-2023
+bud_farys_equity_2024,farys,2024,1920852000,,,outturn,src_farys_ov_jv_2024,strong,Eigen vermogen 1920.852m end-2024
+bud_farys_equity_2023,farys,2023,1862491000,,,outturn,src_farys_ov_jv_2024,strong,Eigen vermogen 1862.491m end-2023
+bud_farys_mva_2024,farys,2024,3230807000,,,outturn,src_farys_ov_jv_2024,strong,Materiele vaste activa 3230.807m end-2024 (~88pct assets)
+bud_farys_lt_debt_2024,farys,2024,1337381000,,,outturn,src_farys_ov_jv_2024,strong,Schulden >1jr 1337.381m end-2024 (bank 933.8m + MTN/other 371.3m)
+bud_farys_st_debt_2024,farys,2024,370339000,,,outturn,src_farys_ov_jv_2024,strong,Schulden <=1jr 370.339m end-2024
+bud_farys_lt_debt_2023,farys,2023,1260133000,,,outturn,src_farys_ov_jv_2024,strong,Schulden >1jr 1260.133m end-2023
+bud_farys_cap_subsidies_2024,farys,2024,245272000,,,outturn,src_farys_ov_jv_2024,strong,Kapitaalsubsidies 245.272m end-2024
+bud_farys_personnel_2024,farys,2024,96761000,,,outturn,src_farys_ov_jv_2024,strong,Bezoldigingen sociale lasten pensioenen 96.761m 2024
+bud_farys_fin_cost_2024,farys,2024,42754000,,,outturn,src_farys_ov_jv_2024,strong,Financiele kosten 42.754m 2024
+bud_farys_invest_mva_2024,farys,2024,190130000,,,outturn,src_farys_ov_jv_2024,strong,Aanschaffingen MVA 190.130m 2024

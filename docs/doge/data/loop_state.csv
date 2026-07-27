@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T10:05:00Z,rq_175,180,no,"Scheduler 60s. Next prio5 rq_176 hole-fill Farys ov/Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick180 Water-link omzet 255m op.rev 427m."
+main,continuous,hole_fill,2026-07-28T10:25:00Z,rq_176,181,no,"Scheduler 60s. Next prio5 rq_177 hole-fill Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick181 Farys OV omzet 506m assets 3.66bn VL water dual complete."

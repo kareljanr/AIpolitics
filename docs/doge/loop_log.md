@@ -1809,3 +1809,16 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T10:05:00Z - progress@180
 - Refreshed **progress_every_10_ticks.md**: L2 ~60-68% (VL water stack closed: DWG+Pidpa+Water-link+Farys residual); inventory budgets~1857 cmt~327 lb~278 FOI ready~55.
 - Refreshed **doge_waste_top10_current.md**: top10 unchanged (cheque economy 8.83 ... gas product 7.98); n_lb=278.
+
+### 2026-07-28T10:25:00Z - tick 181
+- Unit: **rq_176** (FOI-adjacent hole-fill - **Farys OV jaarrekening 2024**)
+- Found (strong primary integrated annual report maatschappelijke jaarrekening; prior public files were Creat Services DV only):
+  - **Omzet EUR 506.292m 2024** (496.0m 2023 / 454.0m 2022) · bedrijfsopbrengsten **597.954m**.
+  - **Bedrijfswinst 73.736m** · PBT **38.609m** · **net 38.180m** (29.2m 2023).
+  - Assets **3.655bn** · MVA **3.231bn** (~88pct) · equity **1.921bn** · cap subsidies **245m**.
+  - LT debt **1.337bn** (bank 934m + MTN/other 371m) · ST debt **370m** · invest MVA **190m**.
+  - Personnel **96.8m** · fin. costs **42.8m** · sport+water+sewer perimeter (ex-TMVW).
+  - **VL water dual complete:** DWG 838m + Pidpa 403m + Water-link 255m + **Farys 506m** (+ SWDE/Vivaqua/Aquafin).
+- Wrote: sources 2; entity 1; budgets 25; cmt 1; lb 1; rq_176=done; seeded **rq_177**.
+- FOI: Antwerp/Mons + other ready stack human send; Farys ov gap closed by public fill.
+- Next: prio5 **rq_177**; deferred **rq_116** SWA.
