@@ -4362,3 +4362,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +25; cmt +1; lb +7; FOI **gap_riziv_partial_objectifs_l5** ready; rq_374=done; spawn **rq_375**; ticks=383
 - FOI: partial objectifs annex + claw-forward path + landsbond beheer human send only
 - Next: prio5 **rq_375**; deferred **rq_116** SWA
+
+### 2026-08-01T06:45:00Z - tick 384
+- Unit: **rq_375** (FOI-adjacent hole-fill - **RIZIV partial objectifs L5 matrix annexe 2 + admin OA split**)
+- Found (strong primary INAMI Budget 2025 annexe 2/1):
+  - **Doctors 11,642.546m** (consult 3,566 · imaging 1,753 · surgery 1,536 · clinbio 1,557)
+  - **Hospital day package 8,513.199m** (verpleegdag 8,068)
+  - **Pharma 6,979.202m** · **Nurses 2,319.840m** · **Dentists 1,622.006m** · **Kines 1,340.350m**
+  - Implants 1,008 · Dialysis 582 · Rehab 627 · Maisons med 373 · Psycho 251 · LVZ 440 · Soc akkoord 295
+  - **OA admin 988.052m** · INAMI beheer 121.7 · wet ziekenhuizen 2,696 · e-sante 113.4
+  - GFB salaries 27,275 · self-emp 2,672 · alt fin salaries 7,319
+- Wrote: sources +1; budgets +48; cmt +1; lb +9; FOI gap_riziv note residual narrowed; rq_375=done; spawn **rq_376**; ticks=384
+- FOI: mid-year delivery + landsbond split still human send (partial objectifs largely public-filled)
+- Next: prio5 **rq_376**; deferred **rq_116** SWA
