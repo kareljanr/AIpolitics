@@ -3724,3 +3724,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +2; budgets +15; cmt +3; lb +3; FOI gap_fedtwin + gap_digit04 ready drafts; rq_326=done (seeded); spawn rq_327; ticks=335
 - FOI: FED-tWIN cash+profiles L5 and DIGIT FSI L5 ready human send
 - Next: prio5 **rq_327**; deferred **rq_116** SWA
+
+### 2026-07-31T06:45:00Z - tick 336
+- Unit: **rq_327** (FOI-adjacent hole-fill - **S4Policy Policy Driven + PROBA-3 BE space dual**)
+- Found (strong BELSPO S4Policy InfoFile v6 + AR2024 PROBA-3 PDF):
+  - **S4Policy Policy Driven** 4-call total **€34.256.160** (2024-2031).
+  - Call1 **€6.155.110** · Call2 **€7.951.700** · Call3 **€8.791.270** · Call4 **€11.358.080**.
+  - Cofund: BELSPO max **90%** / federal depts min **10%**; dual research community + depts.
+  - Themes: Digital / Strategic autonomy / Inclusion-health / Green-societal.
+  - Dual with **P4Science** €15.26m FSI capacity (prior tick).
+  - **PROBA-3**: mission **€166m** of which Belgium **€63.4m** via BELSPO **GSTP+PRODEX**; launch **4 Dec 2024**.
+  - Industrial dual: Redwire SPACEBEL CSL ROB; ESA formation flying + solar corona.
+- Wrote: sources +2; entities +2; budgets +7; cmt +2; lb +2; FOI gap_s4policy + gap_proba3 ready drafts; rq_327=done; spawn rq_328; ticks=336
+- FOI: S4Policy awards L5 + PROBA-3 GSTP/PRODEX cash ready human send
+- Next: prio5 **rq_328**; deferred **rq_116** SWA
