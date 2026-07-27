@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T07:30:00Z,rq_232,241,no,Scheduler 60s. Next prio5 rq_233; rq_116 SWA deferred. FOI ready human send. tick241 ONE FWB 760.8m dual Opgroeien.
+main,continuous,hole_fill,2026-07-29T08:00:00Z,rq_233,242,no,Scheduler 60s. Next prio5 rq_234; rq_116 SWA deferred. FOI ready human send. tick242 FWB AJ 470.6m resid 264m dual VL.

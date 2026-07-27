@@ -2572,3 +2572,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 10; cmt 1; lb 2; FOI gap_one_operator_l5 **ready**; rq_232=done; seeded **rq_233**.
 - FOI: operator L5 + unit-cost dual Opgroeien human send.
 - Next: prio5 **rq_233**; deferred **rq_116** SWA.
+
+### 2026-07-29T08:00:00Z - tick 242
+- Unit: **rq_233** (FOI-adjacent hole-fill - **FWB Aide a la Jeunesse DO17 dual VL**)
+- Found (strong FWB budget DO17 table eng/liq kEUR):
+  - **DO17 total eng EUR 470.531m / liq 470.617m** 2026 (2025: 466.2 / 467.0m).
+  - Prog1 jeunes en danger/delinquants **464.865m**; prog0 subsistence ~5.7m.
+  - **L5 named lines:** residentiels+projet educatif **264.094m** (~56%); accompagnement **63.112m**; AMO **41.338m**; accueil familial package **37.786m**; restauratrices **7.964m**; nouvelles politiques **8.229m**; **MENA plan 6.614m** (new); non-marchand **4.850m**; Maisons ado **2.999m**.
+  - Named L5 sample sum **~510m class of overlapping lines** (core of DO17); dual VL jeugdhulp (Opgroeien + Justitie transfer 2026).
+- Wrote: sources 1; entity 1; budgets 13; cmt 1; lb 3; FOI gap_fwb_aj_operator_l5 **ready**; rq_233=done; seeded **rq_234**.
+- FOI: named operators inside 264m resid residual human send.
+- Next: prio5 **rq_234**; deferred **rq_116** SWA.

@@ -2546,3 +2546,16 @@ bud_one_fwb_dot_accueillantes_2026,one_fwb,2026,20817000,,,budgeted,src_fwb_budg
 bud_one_fwb_dot_emploi_2026,one_fwb,2026,49435000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Soutien politiques emploi enfance 49.435m
 bud_one_fwb_dot_nouvelles_2026,one_fwb,2026,15140000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Politiques nouvelles 15.140m
 bud_one_fwb_do19_2026,fwb_gov,2026,760977000,,,budgeted,src_fwb_budget_do19_one_2026,strong,DO19 Enfance total eng 760.977m (ONE + politique accueil 0.14m)
+bud_fwb_do17_eng_2026,fwb_aide_jeunesse,2026,470531000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,DO17 total eng 470.531m BI2026
+bud_fwb_do17_liq_2026,fwb_aide_jeunesse,2026,470617000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,DO17 total liq 470.617m BI2026
+bud_fwb_do17_eng_2025,fwb_aide_jeunesse,2025,466157000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,DO17 eng 466.157m BI2025 compare
+bud_fwb_aj_prog1_2026,fwb_aide_jeunesse,2026,464865000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Prog1 jeunes en danger/delinquants 464.865m eng=liq
+bud_fwb_aj_resid_2026,fwb_aide_jeunesse,2026,264094000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Subs services residentiels + projet educatif particulier 264.094m ~56pct DO17
+bud_fwb_aj_accomp_2026,fwb_aide_jeunesse,2026,63112000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Subs services d accompagnement 63.112m
+bud_fwb_aj_amo_2026,fwb_aide_jeunesse,2026,41338000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Subs services actions milieu ouvert AMO 41.338m
+bud_fwb_aj_accueil_fam_2026,fwb_aide_jeunesse,2026,37786000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Accueil familial: services 29.961 + accueillants 7.825 = 37.786m
+bud_fwb_aj_restor_2026,fwb_aide_jeunesse,2026,7964000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Services actions restauratrices educatives 7.964m
+bud_fwb_aj_mena_2026,fwb_aide_jeunesse,2026,6614000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Plan MENA new line 6.614m 2026
+bud_fwb_aj_nouvelles_2026,fwb_aide_jeunesse,2026,8229000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Nouvelles politiques AJ 8.229m
+bud_fwb_aj_maisons_ado_2026,fwb_aide_jeunesse,2026,2999000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Maisons de l adolescent 2.999m
+bud_fwb_aj_l5_sample_sum_2026,fwb_aide_jeunesse,2026,448430000,,,budgeted,src_fwb_budget_do17_aj_2026,strong,Named L5 sample sum 448430000 of DO17 ~470.6m (~95pct)
