@@ -4023,3 +4023,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +2; budgets +23; cmt +1; lb +5; FOI **gap_culture_dual_vl_fwb_l5** ready + draft; rq_349=done; spawn **rq_350**; ticks=358
 - FOI: top-50 operators both sides + moratoria cash human send only
 - Next: prio5 **rq_350**; deferred **rq_116** SWA
+
+### 2026-07-31T18:15:00Z - tick 359
+- Unit: **rq_350** (FOI-adjacent hole-fill - **dual recreational youth Flanders Jeugd + FWB DO23 Jeunesse**)
+- Found (strong primary VL BBT Jeugd BO2026 + FWB exp. particulier DO23):
+  - Flanders ISE Jeugd total **EUR 72.461m** BO2026 (BA2025 72.696m):
+    - kwaliteit jeugdwerk VEK **47.461m** (ex-DAC integrated; capacity cut -1.648m)
+    - jeugdvakanties **9.792m** · innovatie **8.545m** · lokaal/int **2.309m**
+    - ULDK **2.167m** · JINT **1.263m** · kinderrechten **0.844m**
+  - FWB DO23 prog 2 Jeunesse: CE **67.951m** · CL **67.137m** 2026:
+    - organisations de jeunesse **26.822m** · centres de jeunes CL **34.811m**
+  - Dual recreational youth class **~EUR 140m** (not TE-additive).
+  - Explicitly **excludes** FWB Aide a la Jeunesse DO17 **470.6m** (protection dual Opgroeien) and VL jeugdhulp.
+  - Note: DO23 education permanente CL **44.604m** dual VL SCW separate.
+- Wrote: entities +2; sources +2; budgets +16; cmt +1; lb +5; FOI **gap_youth_dual_vl_fwb_l5** ready + draft; rq_350=done; spawn **rq_351**; ticks=359
+- FOI: top-30 orgs/centres both sides human send only
+- Next: prio5 **rq_351**; deferred **rq_116** SWA
