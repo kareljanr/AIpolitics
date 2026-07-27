@@ -3947,3 +3947,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2 (landbouw_vl, opw_wallonie); sources +2; budgets +15; cmt +1; lb +3; FOI **gap_agri_dual_l5_cap** ready + draft; rq_343=done; spawn **rq_344**; ticks=352
 - FOI: CAP cash dual + top schemes L5 human send only
 - Next: prio5 **rq_344**; deferred **rq_116** SWA
+
+### 2026-07-31T15:15:00Z - tick 353
+- Unit: **rq_344** (FOI-adjacent hole-fill — **dual nature Flanders Omgeving/ANB + Wallonia Nature-Forêt**)
+- Found (strong primary VR BBT Omgeving BO2026 + prior DO15):
+  - Omgeving en Natuur excl. apparaatrek: **VAK €690.943m** · **VEK €696.049m** (multi-ISE).
+  - ISE Natuur en biodiversiteit: **€150.0m** total (MVG ~**€22m** + DAB MINAfonds **€128.0m**).
+  - ANB apparaatrek QA-QD0: **€49.500m**; INBO QA-QC0: **€19.499m**.
+  - Dual WAL prog 15.060 Nature-Forêt CL **€28.879m** ? dual pure nature class **~€179m** (not full Omgeving 696m).
+- Wrote: entities +2 (anb_vl, inbo_vl); sources +1; budgets +10; cmt +1; lb +3; FOI **gap_nature_dual_anb_wal_l5** ready + draft; rq_344=done; spawn **rq_345**; ticks=353
+- FOI: MINA nature L5 + WAL 15.060 awards human send only
+- Next: prio5 **rq_345**; deferred **rq_116** SWA
