@@ -4350,3 +4350,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +21; cmt +1; lb +6; entity note; FOI **gap_fso_top_dossiers_l5** ready; rq_373=done; spawn **rq_374**; ticks=382
 - FOI: top-20 employer dossiers EUR human send only
 - Next: prio5 **rq_374**; deferred **rq_116** SWA
+
+### 2026-08-01T06:15:00Z - tick 383
+- Unit: **rq_374** (FOI-adjacent hole-fill - **RIZIV/INAMI Budget soins de sante 2025 full matrix + corrections L5**)
+- Found (strong primary CM/INAMI PDF):
+  - Total rec=exp **EUR 45,221.741m** (+5.69pct)
+  - Prestations **39,812.150m** (authorized **39,692.495m** after non-affectable 119.7m)
+  - Beheerskosten **1,188.516m** - Globaal beheer transfers **38,322.478m**
+  - Corrections package **216.802m**: meds **113.4** - doctors **73.4** (teleconsult **68.4**) - dentists **20.0** - implants **10.0**
+  - Sous-utilisation **114.401m** - reserves **30.148m**
+- Wrote: sources +1; budgets +25; cmt +1; lb +7; FOI **gap_riziv_partial_objectifs_l5** ready; rq_374=done; spawn **rq_375**; ticks=383
+- FOI: partial objectifs annex + claw-forward path + landsbond beheer human send only
+- Next: prio5 **rq_375**; deferred **rq_116** SWA
