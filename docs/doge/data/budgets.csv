@@ -1591,3 +1591,15 @@ bud_offshore_support_per_mwh_2025,sec_federal,2025,77.9,,,outturn,src_creg_ar202
 bud_nuclear_contrib_electrabel_2025,sec_federal,2025,152517984.5,,,budgeted,src_creg_ar2025,strong,Contribution de repartition Electrabel 152.518m 2025 (AR 12 Oct 2025 after CREG avis)
 bud_nuclear_contrib_luminus_2025,sec_federal,2025,8821247.28,,,budgeted,src_creg_ar2025,strong,Contribution de repartition Luminus 8.821m 2025
 bud_nuclear_contrib_total_2025,sec_federal,2025,161339231.78,,,budgeted,src_creg_ar2025,strong,Nuclear redistribution contribution sum Electrabel+Luminus 161.3m 2025
+bud_fed_gc_osp_est_2025,sec_federal,2025,675707187,,,budgeted,src_creg_ar2025_osp,strong,CREG est OSP federal green certificates financing 675.707m for 2025
+bud_fed_gc_osp_est_2026,sec_federal,2026,551351856,,,budgeted,src_creg_ar2025_osp,strong,CREG est OSP federal GC financing 551.352m for 2026 (-125.355m vs 2025 est; higher ref power price)
+bud_fed_gc_osp_h2_2024_state_to_elia,sec_federal,2024,39527505,,,outturn,src_creg_ar2025_osp,strong,State paid Elia 39.528m for federal GC OSP balance H2-2024
+bud_fed_gc_osp_h1_2025_elia_to_state,sec_federal,2025,110411019,,,outturn,src_creg_ar2025_osp,strong,Elia repaid State 110.411m federal GC OSP balance H1-2025
+bud_crm_osp_est_2025,sec_federal,2025,169916607,,,budgeted,src_creg_ar2025_osp,strong,CREG est OSP CRM financing 169.917m (dec B2893; AR text cites with 2026 study line - year 2025 per footnote)
+bud_crm_adequacy_study_2026,sec_federal,2026,621668,,,budgeted,src_creg_ar2025_osp,strong,Biennial adequacy and flexibility study OSP cost 0.622m
+bud_crm_surplus_2024,sec_federal,2024,2991337.74,,,outturn,src_creg_ar2025_osp,strong,CRM OSP surplus 2024 Elia to repay State 2.991m
+bud_strategic_reserve_surplus_2024,sec_federal,2024,32953.67,,,outturn,src_creg_ar2025_osp,strong,Strategic reserve OSP surplus 2024 32.954k Elia to State
+bud_crm_auction_package_2025_10,sec_federal,2025,125400000,,,outturn,src_elia_crm_auction_2025_10,medium,Elia Oct 2025 CRM multi-auction (Y-1/Y-2/Y-4) total cost 125.4m (press)
+bud_crm_auction_package_prior_yr,sec_federal,2024,182900000,,,outturn,src_elia_crm_auction_2025_10,medium,Prior year CRM auction package cost 182.9m (Elia press compare)
+bud_crm_auction_mw_2025_10,sec_federal,2025,4556,,,outturn,src_elia_crm_auction_2025_10,medium,CRM Oct 2025 selected capacity 4556 MW of which 171 MW new
+bud_crm_auction_wap_2025_10,sec_federal,2025,14100,,,outturn,src_elia_crm_auction_2025_10,medium,CRM weighted avg price 14.1k EUR/MW/year Oct 2025 (IPC 22.7k)

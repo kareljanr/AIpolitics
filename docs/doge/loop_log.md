@@ -1628,3 +1628,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 10; cmt 2; lb 2; gap_offshore notes partial; rq_163=done; seeded **rq_164**.
 - FOI: gap_offshore residual multi-year same-method + NBB reconcile still **ready** human send.
 - Next: prio5 **rq_164**; deferred **rq_116** SWA.
+
+### 2026-07-28T06:25:00Z — tick 169
+- Unit: **rq_164** (FOI-adjacent hole-fill — **CREG federal GC OSP + CRM costs**)
+- Found (strong CREG AR2025 §3.1.3.5; medium Elia auction press):
+  - **Federal GC OSP financing (Elia):** est **EUR 675.707m 2025** → **551.352m 2026** (−125.4m; higher power ref price 87.56 vs 58.02 €/MWh).
+  - Settlements: State→Elia **39.5m** H2-2024; Elia→State **110.4m** H1-2025.
+  - Dual with offshore support **538.5m 2025** (tick168): same family, different metric.
+  - **CRM OSP est:** **169.917m** (B2893; 2025 year per footnote).
+  - CRM 2024 surplus **2.991m** repaid to State; strategic reserve residual tiny.
+  - **Elia Oct 2025 auctions** (Y-1/Y-2/Y-4): package cost **125.4m** (was **182.9m**); **4 556 MW** (171 new); WAP **14.1k €/MW/y**.
+- Mons BI2026 / Antwerp full register still not newly filled.
+- Wrote: sources 2; entity 1; budgets 12; cmt 2; lb 2; FOI **gap_crm_osp_series** ready; gap_offshore note; rq_164=done; seeded **rq_165**.
+- FOI: CRM multi-year + residual Mons/Antwerp human send.
+- Next: prio5 **rq_165**; deferred **rq_116** SWA.
