@@ -1227,3 +1227,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: tax_expenditures +20; sources 1; cmt_fps_taxex_next20; lb 4; rq_153=done.
 - FOI: none (inventory public; residual medium TE lines still parseable later).
 - Next: prio7 **rq_138 unions** / **rq_139 mutualities** / **rq_143 Antwerp** / **rq_155 company cars**.
+
+### 2026-07-27T19:30:00Z — tick 138
+- Unit: **rq_138** (Trade union public grants SS/federal — unemployment payment organisms)
+- Found (strong parliament; medium path):
+  - Architecture strong: 3 private OP (ABVV/ACV/ACLVB-SYNOVA) + public **HVW/CAPAC**; private also charge membership; HVW free.
+  - **Private OP admin from ONEM 2024: €169m** (Kamer DOC 56 1296 cites official).
+  - **Total all OP incl HVW: ~€219m** (same bill + QRVA 56 028 citing minister: 219m for 333k werklozen/SWT).
+  - Implied HVW share ~€50m vs site institutional budget **€6.084m** — dual perimeter; keep both.
+  - Path Clarinval: envelope **-€20m 2026 / -€27m 2027** vs 2025 (~16% cut) while full-unemp dossiers path **-~63%** by 2027 (184k lose benefit).
+  - 2022 Dermagne formula change: **+€7.6m** that year; **+€13m** effect by 2025; softens cuts when unemployment falls.
+  - Late/overdue dossiers **391,435** in 2024 (minister answer via PQ).
+  - Legal: KB 16 Sep 1991; amended KB 15 May 2022 + KB 11 Oct 2023.
+- Wrote: sources 4; budgets 8; cmt_unemp_pay_org_admin_2024; lb_union_pay_admin_169m; rq_138=done; FOI residual L5 split priority 8.
+- FOI: gap_unemp_pay_unit_cost updated (aggregates filled; per-union unit cost still ready).
+- Next: prio7 **rq_139 mutualities** / **rq_143 Antwerp** / **rq_155 company cars**.

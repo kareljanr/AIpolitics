@@ -983,3 +983,11 @@ bud_bru_facultatives_cut_2026,brussels_gov,2026,25000000,,,budgeted,src_ccrek_br
 bud_bru_sgrbc_eng_2026,brussels_gov,2026,8900000000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,SGRBC total eng credits 8.9bn 2026
 bud_bru_sgrbc_liq_2026,brussels_gov,2026,8000000000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,SGRBC total liq credits 8.0bn 2026
 bud_bru_visit_cut_2026,brussels_gov,2026,5700000,,,estimate,src_bt_visit_brussels_cut_2026,medium,Visit.brussels subsidy cut ~5.7m 2026 (press); CoA shows SPRB financing ~26.6m prior year class
+bud_union_pay_org_private_2024,sec_ss,2024,169000000,,,outturn,src_kamer_56k1296_uitbetaling,strong,Private unemployment payment organisms ABVV+ACV+ACLVB ONEM admin compensation 169m 2024
+bud_unemp_pay_org_total_2024,sec_ss,2024,219000000,,,estimate,src_kamer_56k1296_uitbetaling,strong,All payment organisms incl HVW ~219m 2024 (Kamer bill cites 169 private + HVW =219)
+bud_unemp_pay_org_total_class,sec_ss,2025,219000000,,,estimate,src_kamer_qrva_56_028_uitbetaling,medium,Minister-linked: 219m for 333k unemployed/SWT (QRVA cites prior answer; year class ~2024-25)
+bud_unemp_pay_org_path_2026,sec_ss,2026,199000000,,,estimate,src_kamer_56k1296_uitbetaling,medium,Clarinval path: envelope -20m 2026 vs 2025 (illustrative 219-20 if base 219)
+bud_unemp_pay_org_path_2027,sec_ss,2027,192000000,,,estimate,src_kamer_56k1296_uitbetaling,medium,Clarinval path -27m 2027 vs 2025 (illustrative)
+bud_dermagne_formula_bonus_2025,sec_ss,2025,13000000,,,estimate,src_kamer_56k1296_uitbetaling,medium,2022 KB formula change effect +13m by 2025 vs pre-2022 formula
+bud_dermagne_formula_bonus_2022,sec_ss,2022,7600000,,,outturn,src_kamer_56k1296_uitbetaling,medium,2022 KB one-year extra 7.6m to payment organisms
+bud_hulpkas_admin_share_2024,hulpkas,2024,50000000,,,estimate,src_kamer_56k1296_uitbetaling,medium,Implied HVW share of 219-169=50m ONEM admin 2024; differs from HVW site institutional budget 6.084m — dual perimeter
