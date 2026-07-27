@@ -3147,3 +3147,38 @@ bud_rvv_vte_2024,rvv,2024,312.1,,,outturn,src_ibz_strat_plan_2025_29,strong,RVV 
 bud_rvv_effectieven_2024,rvv,2024,331,,,outturn,src_ibz_strat_plan_2025_29,strong,RVV effectieven 331 end-2024; amount is headcount
 bud_cgvs_vte_2024_ibz,cgvs,2024,636.5,,,outturn,src_ibz_strat_plan_2025_29,strong,CGVS VTE IBZ table 3+475.9+157.6=636.5 vs JV 600.9 perimeter diff; amount is FTE
 bud_ibz_vte_total_2024,fod_ibz,2024,5883.0,,,outturn,src_ibz_strat_plan_2025_29,strong,FOD IBZ total VTE 5883.0 / effectieven 6385 end-2024 incl CGVS RvV governors; amount is FTE
+bud_niras_omzet_2024,niras,2024,185329000,,,outturn,src_niras_financieel_2024,strong,Omzet / exploitatieopbrengsten per taak 185.329 kEUR
+bud_niras_bedrijfsopbrengsten_2024,niras,2024,256603000,,,outturn,src_niras_financieel_2024,strong,Bedrijfsopbrengsten 256.603 kEUR (omzet+geprod VA+andere+niet-rec)
+bud_niras_bedrijfskosten_2024,niras,2024,264274000,,,outturn,src_niras_financieel_2024,strong,Bedrijfskosten 264.274 kEUR
+bud_niras_diensten_2024,niras,2024,171465000,,,outturn,src_niras_financieel_2024,strong,Diensten en diverse goederen 171.465 kEUR
+bud_niras_bezoldigingen_2024,niras,2024,28017000,,,outturn,src_niras_financieel_2024,strong,Bezoldigingen sociale lasten pensioenen 28.017 kEUR
+bud_niras_invest_2024,niras,2024,18154000,,,outturn,src_niras_financieel_2024,strong,Investeringen 18.154 kEUR 2024
+bud_niras_cum_invest_2024,niras,2024,691289000,,,outturn,src_niras_financieel_2024,strong,Gecumuleerde investeringen sinds 1983 691.289 kEUR
+bud_niras_assets_2024,niras,2024,1486841000,,,outturn,src_niras_financieel_2024,strong,Totaal activa 1.486.841 kEUR statutair
+bud_niras_equity_2024,niras,2024,169836000,,,outturn,src_niras_financieel_2024,strong,Eigen vermogen 169.836 kEUR (kapitaalsubsidies 139.453)
+bud_niras_provisions_2024,niras,2024,273204000,,,outturn,src_niras_financieel_2024,strong,Voorzieningen 273.204 kEUR
+bud_niras_result_2024,niras,2024,3929000,,,outturn,src_niras_financieel_2024,strong,Winst boekjaar 3.929 kEUR
+bud_niras_consol_assets_2024,niras,2024,1517593000,,,outturn,src_niras_financieel_2024,strong,Geconsolideerd activa NIRAS+Belgoprocess+EURIDICE 1.517.593 kEUR
+bud_niras_omzet_2025,niras,2025,315625000,,,outturn,src_niras_financieel_2025,strong,Omzet 315.625 kEUR 2025
+bud_niras_bedrijfsopbrengsten_2025,niras,2025,384158000,,,outturn,src_niras_financieel_2025,strong,Bedrijfsopbrengsten 384.158 kEUR
+bud_niras_bedrijfskosten_2025,niras,2025,397500000,,,outturn,src_niras_financieel_2025,strong,Bedrijfskosten 397.500 kEUR
+bud_niras_diensten_2025,niras,2025,333920000,,,outturn,src_niras_financieel_2025,strong,Diensten en diverse goederen 333.920 kEUR
+bud_niras_bezoldigingen_2025,niras,2025,27825000,,,outturn,src_niras_financieel_2025,strong,Bezoldigingen 27.825 kEUR statutair
+bud_niras_assets_2025,niras,2025,1776604000,,,outturn,src_niras_financieel_2025,strong,Totaal activa 1.776.604 kEUR
+bud_niras_equity_2025,niras,2025,185449000,,,outturn,src_niras_financieel_2025,strong,Eigen vermogen 185.449 kEUR (kapitaalsubsidies 157.712)
+bud_niras_provisions_2025,niras,2025,264131000,,,outturn,src_niras_financieel_2025,strong,Voorzieningen 264.131 kEUR
+bud_niras_cum_invest_2025,niras,2025,728549000,,,outturn,src_niras_financieel_2025,strong,Gecumuleerde investeringen sinds 1983 728.549 kEUR
+bud_niras_result_2025,niras,2025,-2646000,,,outturn,src_niras_financieel_2025,strong,Verlies boekjaar -2.646 kEUR
+bud_niras_consol_assets_2025,niras,2025,1805247000,,,outturn,src_niras_financieel_2025,strong,Geconsolideerd activa 1.805.247 kEUR
+bud_niras_consol_bezold_2025,niras,2025,68396000,,,outturn,src_niras_financieel_2025,strong,Consol bezoldigingen NIRAS+Belgoprocess+EURIDICE 68.396 kEUR
+bud_belv_turnover_2024,bel_v,2024,16016000,,,outturn,src_belv_jv_2024,strong,Turnover 16.016 kEUR (15.866 2023)
+bud_belv_op_income_2024,bel_v,2024,16425000,,,outturn,src_belv_jv_2024,strong,Total operating income 16.425 kEUR
+bud_belv_op_charges_2024,bel_v,2024,15189000,,,outturn,src_belv_jv_2024,strong,Total operating charges 15.189 kEUR
+bud_belv_wages_2024,bel_v,2024,12337000,,,outturn,src_belv_jv_2024,strong,Wages and social security 12.337 kEUR ~81pct of charges
+bud_belv_services_2024,bel_v,2024,2396000,,,outturn,src_belv_jv_2024,strong,Services and other goods 2.396 kEUR
+bud_belv_profit_2024,bel_v,2024,1367000,,,outturn,src_belv_jv_2024,strong,Profit for year 1.367 kEUR
+bud_belv_assets_2024,bel_v,2024,19821000,,,outturn,src_belv_jv_2024,strong,Total assets 19.821 kEUR
+bud_belv_equity_2024,bel_v,2024,16962000,,,outturn,src_belv_jv_2024,strong,Equity 16.962 kEUR
+bud_astrid_ops_contract_2023_27,astrid,2025,46500000,,,budgeted,src_astrid_legal_framework,strong,Management contract annual ops allocation 46.5m each year 2023-27 from FOD IBZ
+bud_astrid_invest_subscriptions,astrid,2025,117000000,,,commitment,src_astrid_legal_framework,strong,Investment activity covered by user subscriptions total 117m (contract envelope)
+bud_astrid_ibz_toelage_2025,astrid,2025,76517000,,,budgeted,src_ibz_strat_plan_2025_29,strong,IBZ toelage line NV ASTRID 76.517m 2025; residual reconcile vs 46.5m contract

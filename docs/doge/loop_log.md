@@ -3097,3 +3097,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities dvz+rvv+fod_ibz; budgets +26; cmt +4; lb +6; FOI gap_dvz_ops ready; draft; raw IBZ plan + DVZ AV; rq_275=done; spawn rq_276; ticks=284
 - FOI: DVZ ops TCO beyond personnel human send; AGMJ residual still ready
 - Next: prio5 **rq_276**; deferred **rq_116** SWA
+
+### 2026-07-30T05:15:00Z - tick 285
+- Unit: **rq_276** (FOI-adjacent hole-fill - **NIRAS + Bel V dual FANC nuclear stack + ASTRID reconcile**)
+- Found (strong primary NIRAS FV2024/2025 + Bel V AR2024 + ASTRID legal):
+  - **NIRAS omzet EUR 185.3m 2024 / 315.6m 2025**; bedrijfskosten **264.3 / 397.5m**; bezold **28.0 / 27.8m**; consol bezold **68.4m** 2025.
+  - Assets **1.487bn 2024 / 1.777bn 2025**; cum invest **728.5m** since 1983; kapitaalsubsidies **157.7m**.
+  - Polluter-pays (not pure TE); dual FANC/Bel V/SCK/Belgoprocess.
+  - **Bel V turnover EUR 16.016m 2024**; op charges 15.189m; wages **12.337m** (~81%); assets 19.8m; staff ~**90**; FANC subsidiary TSO.
+  - **ASTRID** contract ops **46.5m/yr** 2023-27 vs IBZ toelage **76.5m** 2025 (~30m residual FOI); invest subscriptions **117m**.
+- Wrote: sources +4; entities niras+bel_v+astrid+fanc; budgets +35; cmt +4; lb +6; FOI gap_astrid + gap_fanc ready; drafts; raw NIRAS+BelV; rq_276=done; spawn rq_277; ticks=285
+- FOI: ASTRID reconcile + FANC budget human send; AGMJ residual still ready
+- Next: prio5 **rq_277**; deferred **rq_116** SWA
