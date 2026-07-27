@@ -24,7 +24,8 @@ Work in the AIpolitics repo. Follow `docs/doge/LOOP.md` exactly.
 6. If info missing after honest search → add/update `foi_queue.csv` + draft `docs/doge/foi/drafts/{gap_id}.md` from `foi-template-nl.md`.  
 7. Promote solid L5 waste to `leaderboard.csv` when justified.  
 8. Append `docs/doge/loop_log.md`; update `loop_state.csv`.  
-9. **Commit and push** (required when files changed):  
+9. **If ticks_completed is a multiple of 10** (after increment): refresh `docs/doge/data/progress_every_10_ticks.md` (coverage % layers A–E) and `docs/doge/data/doge_waste_top10_current.md` (top 10 by priority_index); note in log.  
+10. **Commit and push** (required when files changed):  
    - `git add` relevant paths  
    - `git commit -m "doge(loop): tick N — <unit> <summary>"`  
    - `git push origin HEAD`  
