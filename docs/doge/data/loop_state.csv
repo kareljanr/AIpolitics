@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,idle_waiting_foi,continuous,2026-07-27T04:35:00Z,idle,119,no,tick119 idle: no public open work; rq_116 Q4; FOI human-only.
+main,idle_waiting_foi,continuous,2026-07-27T04:50:00Z,idle,120,no,tick120 idle: no public open work; rq_116 Q4; FOI human-only.
