@@ -4118,3 +4118,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +1 (notes +2); sources +2; budgets +11; cmt +1; lb +5; FOI **gap_childcare_dual_vl_one_l5** ready + draft; rq_356=done; spawn **rq_357**; ticks=365
 - FOI: top operators places matrix both sides human send only
 - Next: prio5 **rq_357**; deferred **rq_116** SWA
+
+### 2026-07-31T21:45:00Z - tick 366
+- Unit: **rq_357** (FOI-adjacent hole-fill - **dual youth protection VL ISE Jeugdhulp + FWB Aide a la Jeunesse**)
+- Found (strong primary VL BBT WVG BU2025 + FWB DO17):
+  - Flanders **ISE Jeugdhulp** MVG excl DAB:
+    - BA2025 VEK **EUR 958.939m** / VAK **940.463m**
+    - BU2025 VEK **969.124m** / VAK **949.407m**
+    - GEF2MX toelage BA **937.575m** / BU VEK **947.760m**
+    - AGEF2MA provider subsidies VEK **958.937m** (VAK 967.947m)
+    - GEF5MX invest VEK **21.364m**
+  - FWB **DO17 AJ** liq **EUR 470.617m** (resid 264.1m ~56pct) BI2026 prior strong
+  - Dual youth-protection class **~EUR 1.44bn** (VL BU2025 + FWB 2026; not TE-additive).
+  - Excludes: recreational youth ~140m; KO/ONE dual ~2.32bn; Groeipakket.
+- Wrote: entities +1 (note +1); sources +2; budgets +9; cmt +1; lb +4; FOI **gap_youth_protect_dual_vl_fwb_l5** ready + draft; rq_357=done; spawn **rq_358**; ticks=366
+- FOI: BO2026 ISE table + top operators both sides human send only
+- Next: prio5 **rq_358**; deferred **rq_116** SWA
