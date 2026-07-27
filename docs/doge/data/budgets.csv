@@ -2598,3 +2598,13 @@ bud_vl_ajh_sa_vek_bu2025,vl_ajh,2025,108156000,,,outturn,src_vl_bbt_jh_bu2025,st
 bud_vl_ajh_lonen_ba2025,vl_ajh,2025,83098000,,,budgeted,src_vl_bbt_jh_bu2025,strong,Lonen BA2025 83.098m; BU reg 82.671 + wet 0.800 + provisie Opgroeien 2.868 class
 bud_vl_ajh_beleid_vak_ba2025,vl_ajh,2025,15640000,,,budgeted,src_vl_bbt_jh_bu2025,strong,Beleidskredieten TOTAAL JH excl DAB/apparaat/prog B BA2025 VAK 15.640m VEK 16.560m
 bud_vl_ajh_beleid_vek_bu2025,vl_ajh,2025,15092000,,,outturn,src_vl_bbt_jh_bu2025,strong,Beleidskredieten BU2025 VEK 15.092m (95pct use class)
+bud_fwb_mdj_dot_rec_2026,fwb_maisons_justice,2026,55700000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,Federal LSF art47/10 Dotation Maisons de justice FWB 2026 INI 55.7m EUR (ExpGen table mEUR)
+bud_fwb_mdj_dot_rec_2025_aju,fwb_maisons_justice,2025,54700000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,Federal LSF art47/10 FWB 2025 AJU 54.7m
+bud_fwb_mdj_dot_rec_2025_ini,fwb_maisons_justice,2025,54500000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,Federal LSF art47/10 FWB 2025 INI 54.5m
+bud_fwb_mdj_do18_liq_vs_dot_wedge_2026,fwb_maisons_justice,2026,25576000,,,derived,src_fwb_expgen_mdj_dot_2026,medium,Wedge class: federal receipt 55.7m minus DO18 liq 30.124m = 25.576m implies personnel/ops outside DO18 (not exact accounting identity)
+bud_fwb_mdj_personnel_new_carceral_2026,fwb_maisons_justice,2026,3400000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,DO11 remun new initiative: renforcement MDJ carceral reform protocol federal 3.4m 2026
+bud_fwb_agmj_agaj_personnel_new_2026,fwb_gov,2026,5400000,,,budgeted,src_fwb_expgen_mdj_dot_2026,medium,DO11 remun new: renforcement AGMJ+AGAJ 5.4m combined; AGMJ-only share residual FOI
+bud_fwb_mdj_aj_personnel_new_pack_2026,fwb_gov,2026,8900000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,DO11 remun new initiatives maisons de justice + aide a la jeunesse pack 8.9m (5.4+3.4)
+bud_fwb_fp_traitements_total_2026,fwb_gov,2026,437600000,,,budgeted,src_fwb_expgen_mdj_dot_2026,strong,DO11 AB 11.03+11.04 traitements fonction publique total 437.6m 2026 (MDJ staff subset residual)
+bud_dg_fed_dot_total_2026,sec_dg,2026,351100000,,,budgeted,src_ccrek_dg_budget_2026,strong,DG federal global dotation total 351.1m 2026 (general 334.1 + earmarked 17.0)
+bud_dg_fed_dot_earmarked_2026,sec_dg,2026,17000000,,,budgeted,src_ccrek_dg_budget_2026,strong,DG federal earmarked share of global dot 17.0m 2026 (Justizhaus share not published)

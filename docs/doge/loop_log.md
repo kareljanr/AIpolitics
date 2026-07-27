@@ -2610,3 +2610,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity vl_ajh + notes; budgets +25; cmt +2; lb +4; FOI gap_vl_justitiehuizen_spend narrowed + gap_vl_ajh_partner_l5 ready; drafts; rq_235=done; spawn rq_236; loop_state ticks=244
 - FOI: partner L5 + JH FTE slice human send (not full agency total)
 - Next: prio5 **rq_236**; deferred **rq_116** SWA
+
+### 2026-07-29T09:30:00Z — tick 245
+- Unit: **rq_236** (FOI-adjacent hole-fill — **FWB federal MDJ receipt dual VL** + DG residual FOI)
+- Found (strong primary ExpGen BI2026 + CoA DG 2026):
+  - **FWB LSF art.47/10 Dotation Maisons de justice:** 2025 INI **€54.5m** / AJU **€54.7m** / 2026 INI **€55.7m**.
+  - Dual receipt same article: **FWB 55.7m vs VL BO2026 90.357m** (not additive with spend).
+  - DO18 programme liq still **€30.124m** → wedge class **~€25.6m** outside DO18 (personnel DO11 + other; medium not audited identity).
+  - DO11 traitements total **€437.6m**; new 2026 remun pack MDJ+AJ **€8.9m** (AGMJ+AGAJ **5.4m** combined + MDJ carceral reform **3.4m**); Brussels **12 ETP** retained; partner non-index **-449k** + training cuts.
+  - **DG Justizhaus:** CoA UHH 2025+2026 **no euro line**; fed global dot 2026 **351.1m** (earmarked **17.0m**) — JH share unknown → FOI.
+- Wrote: sources +2; entity dg_justizhaus + fwb_mdj notes; budgets +10; cmt +2; lb +3; FOI gap_fwb_mdj_personnel_total + gap_dg_justizhaus_budget ready; drafts; rq_236=done; spawn rq_237; ticks=245
+- FOI: AGMJ wage stock + DG Justizhaus human send
+- Next: prio5 **rq_237**; deferred **rq_116** SWA
