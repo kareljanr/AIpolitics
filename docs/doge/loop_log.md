@@ -4259,3 +4259,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3; sources +1; budgets +26; cmt +2; lb +7; FOI **gap_vl_gp_gezinsbeleid_l5** ready + draft; rq_366=done; spawn **rq_367**; ticks=375
 - FOI: per-UA admin + AGEF2QB channel + KO provider top human send only
 - Next: prio5 **rq_367**; deferred **rq_116** SWA
+
+### 2026-08-01T02:45:00Z - tick 376
+- Unit: **rq_367** (FOI-adjacent hole-fill - **Flanders Beleidsondersteuning L5 + Zorginfrastructuur/VIPA totals**)
+- Found (strong primary BBT WVG BU2025):
+  - **ISE Beleidsondersteuning** VEK BU **EUR 283.604m** (BA 305.139 / BA-JR 311.925)
+    - GCF2BA VEK BU **278.211m**: sociale akkoorden **274.513m** - IT/comms **10.809m**
+    - Named L5: SAM **3.488** - ouderen **1.098** - Steunpunt WVG 0.55 - IMEC 0.571 - Sociaal.Net 0.351 - CEBAM 0.3 - ...
+    - GCF2BB data BU **4.021m** - GCF2BC crisis **1.346m** - VASGAZ **26k**
+  - **ISE Zorginfrastructuur** VEK BU **727.337m** (BA 779.449)
+    - GIF2SX-IS **353.887m** - GIF5SX-IS **133.333m** - LE capital **226.847m**
+    - Vlabinvest **2.35m** - KO gemeenten path **60m** - A1/A3 capital **100.467m**
+- Wrote: entities +3; sources +1; budgets +47; cmt +2; lb +9; FOI **gap_vl_beleid_zorginfra_l5** ready + draft; rq_367=done; spawn **rq_368**; ticks=376
+- FOI: GCF2BA residual + soc-akkoorden dual GHF2TR + VIPA provider/municipal L5 human send only
+- Next: prio5 **rq_368**; deferred **rq_116** SWA

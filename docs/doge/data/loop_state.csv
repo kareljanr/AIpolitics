@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T02:15:00Z,rq_366,375,no,Scheduler 60s. Next prio5 rq_367; rq_116 SWA deferred. FOI ready. tick375 Groeipakket 4.91bn + KO 1.37bn.
+main,continuous,hole_fill,2026-08-01T02:45:00Z,rq_367,376,no,Scheduler 60s. Next prio5 rq_368; rq_116 SWA deferred. FOI ready. tick376 Beleid 284m + Zorginfra 727m.
