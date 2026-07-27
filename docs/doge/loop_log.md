@@ -2456,3 +2456,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 13; cmt 2; lb 3; entities 2; foi note; rq_223=done; seeded **rq_224**.
 - FOI: Ville BI2026 + ASBL top20 + IDEA per-commune DDT/div still ready human send.
 - Next: prio5 **rq_224**; deferred **rq_116** SWA.
+
+### 2026-07-29T03:40:00Z - tick 233
+- Unit: **rq_224** (FOI-adjacent hole-fill - **Mons Ville budget 2026 MB1 totals**)
+- Found (strong deliberations 23 Jun 2026 1er amendement; vote recorded):
+  - **Ordinaire dep propre EUR 241.834m** / rec **242.204m** (boni 0.370m); global dep **243.264m**.
+  - **Extraordinaire dep propre EUR 63.198m** / rec **60.823m**; global dep **163.012m** (incl. prior years).
+  - **Same-year cash-propre class EUR 305.032m** (ord+extra dep propre).
+  - Dotations: **Zone Police 27.335m**; CPAS tutelle **26.945m**; Zone Secours **2.604m**; fabriques cath **1.014m** + prot **59k**; budget participatif **108k**.
+  - Residual: machine-readable **ASBL third-party L5** annex still FOI (totals gap largely closed).
+- Wrote: sources 1; budgets 11; cmt 1; lb 3; foi note; rq_224=done; seeded **rq_225**.
+- FOI: ASBL top20 L5 still ready human send.
+- Next: prio5 **rq_225**; deferred **rq_116** SWA.

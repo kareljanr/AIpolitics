@@ -2421,3 +2421,14 @@ bud_idea_div_exceptionnel_2026,idea_hainaut,2026,20000000,,,budgeted,src_idea_no
 bud_hygea_mons_total_2026,city_mons,2026,7760388,,,budgeted,src_hygea_mons_2026,strong,Mons HYGEA waste package 7.760m 2026 (dep+appel lissage)
 bud_hygea_mons_cotis_2026,city_mons,2026,167374,,,budgeted,src_hygea_mons_2026,strong,Mons HYGEA cotisation infra/transfert 0.167m 2026
 bud_hygea_mons_appel_2026,city_mons,2026,446066,,,budgeted,src_hygea_mons_2026,strong,Mons HYGEA appel cotisation lissage 5y 0.446m 2026
+bud_mons_ville_ord_dep_propre_2026,city_mons,2026,241834209.04,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville ordinaire depenses exercice propre 241.834m after MB1 2026
+bud_mons_ville_ord_rec_propre_2026,city_mons,2026,242204040.98,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville ordinaire recettes exercice propre 242.204m after MB1 2026
+bud_mons_ville_ord_dep_global_2026,city_mons,2026,243264254.04,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville ordinaire depenses globales 243.264m after MB1 2026
+bud_mons_ville_extra_dep_propre_2026,city_mons,2026,63197706.84,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville extraordinaire depenses exercice propre 63.198m after MB1 2026
+bud_mons_ville_extra_rec_propre_2026,city_mons,2026,60823062.67,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville extraordinaire recettes exercice propre 60.823m after MB1 2026
+bud_mons_ville_cash_propre_2026,city_mons,2026,305031915.88,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville ord+extra dep propre same-year class 305.032m after MB1 2026
+bud_mons_zone_police_2026,city_mons,2026,27335195.99,,,budgeted,src_mons_ville_mb1_2026,strong,Mons Ville dotation Zone de Police 27.335m 2026 (MB1 recap)
+bud_mons_fabriques_catholiques_2026,city_mons,2026,1014436.23,,,budgeted,src_mons_ville_mb1_2026,strong,Mons fabriques eglise catholiques 1.014m 2026
+bud_mons_fabriques_protestants_2026,city_mons,2026,58778.52,,,budgeted,src_mons_ville_mb1_2026,strong,Mons fabriques eglise protestants 58.8k 2026
+bud_mons_budget_participatif_2026,city_mons,2026,107742.0,,,budgeted,src_mons_ville_mb1_2026,strong,Mons budget participatif 107.7k 2026
+bud_mons_cpas_dotation_tutelle_2026,city_mons,2026,26944775.57,,,budgeted,src_mons_ville_mb1_2026,strong,Mons CPAS dotation tutelle-approved 26.945m in MB1 recap (vs interv 27.918m prior)
