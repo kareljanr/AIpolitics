@@ -2908,3 +2908,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity favv; budgets +17; cmt +1; lb +3; FOI gap_favv_budget_2024_26 ready; draft; raw PDFs; rq_260=done; spawn rq_261 progress@270; ticks=269
 - FOI: FAVV 2024-26 totals human send; AGMJ residual still ready
 - Next: mandatory **progress@270** (rq_261); deferred **rq_116** SWA
+
+### 2026-07-29T22:00:00Z — tick 270 (progress milestone)
+- Unit: **rq_261** (mandatory progress@270 coverage % + waste top10)
+- Coverage vs €347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~82–90%** (up from ~81–89% @260) — FWO/FNRS dual, Sciensano, FAVV path, FIB, Innoviris
+  - **D L5:** **~13–21%** still thin; Innoviris full L5 2024 + Mons sample lift
+  - **E FOI ready:** **~98** drafts (answered ~5)
+- Waste top10: **stable** cheque/fossil/company cars/EIWT (pi 8.83–8.08); dual hole-fills are core public goods not pure waste
+- Inventory: budgets ~2938 · commitments ~485 · leaderboard ~518 · entities ~197 · sources ~547 · FOI rows ~104
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_261=done; spawn rq_262; ticks=270
+- Next: prio5 **rq_262**; deferred **rq_116** SWA; human FOI send stack

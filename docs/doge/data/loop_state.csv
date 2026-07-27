@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T21:30:00Z,rq_260,269,no,Scheduler 60s. Next progress@270 rq_261; rq_116 SWA deferred. FOI ready human send. tick269 FAVV heffingen 51.9m.
+main,continuous,hole_fill,2026-07-29T22:00:00Z,rq_261,270,no,Scheduler 60s. Next prio5 rq_262; rq_116 SWA deferred. FOI ready human send. tick270 progress L2~82-90 L5~13-21 FOI~98.
