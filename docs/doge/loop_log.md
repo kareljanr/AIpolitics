@@ -976,3 +976,9 @@ Append-only. Each tick adds a short entry.
 - No public open work: only **rq_116** (SWA Q4 mid-year skip). FOI all **ready** (human send). No drafts to finish.
 - Wrote: loop_state tick cursor only.
 - Next: human FOI; or spawn research; **rq_116** after Oct 2026.
+
+### 2026-07-27T04:35:00Z — tick 119
+- Unit: **idle** (idle_waiting_foi)
+- No public open work (rq_116 mid-year skip). FOI ready human-only. No draft FOI.
+- Wrote: loop_state cursor only.
+- Next: human FOI or new research_queue; rq_116 after Oct 2026.
