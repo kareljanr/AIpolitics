@@ -860,3 +860,28 @@ bud_meal_vouchers_face_2023,gg_belgium,2023,3344000000,,,outturn,src_via_meal_vo
 bud_meal_vouchers_beneficiaries_2024,gg_belgium,2024,3142016,,,outturn,src_via_meal_vouchers_2024,strong,COUNT not EUR: 3142016 beneficiaries 2024 VIA
 bud_meal_vouchers_fed_public_direct_2024,sec_federal,2024,71600000,,,estimate,src_rekenhof_maaltijdcheques_2026,strong,Federal public sector direct employer cost 71.6m (93266 x 156.3 x 4.91)
 bud_meal_vouchers_aabeo_cit_2026,fod_finance,2026,55800000,,,estimate,src_rekenhof_maaltijdcheques_2026,strong,AABEO CIT-only impact government reform 55.8m 2026
+bud_fed_register_total_2023,sec_federal,2023,162363000000,,,outturn,src_bosa_fed_register_overview,strong,BOSA register total toelagen 162.363bn 2023 excl double-count AOI/OISZ internal
+bud_fed_register_total_2024,sec_federal,2024,171584000000,,,outturn,src_bosa_fed_register_overview,strong,BOSA register total 171.584bn 2024
+bud_fed_register_total_2025,sec_federal,2025,179916000000,,,outturn,src_bosa_fed_register_overview,strong,BOSA register total 179.916bn 2025; 8993 items; same as prior bud_fed_toelagen_register_2025
+bud_fed_reg_hh_asbl_2025,sec_federal,2025,141915000000,,,outturn,src_bosa_fed_register_overview,strong,Overdrachten aan gezinnen en vzw 141.915bn 2025 (pensions unemp benefits class dominant)
+bud_fed_reg_regions_2025,sec_federal,2025,19443000000,,,outturn,src_bosa_fed_register_overview,strong,Overdrachten gewesten en gemeenschappen 19.443bn 2025
+bud_fed_reg_companies_2025,sec_federal,2025,4777000000,,,outturn,src_bosa_fed_register_overview,strong,Overdrachten aan bedrijven 4.777bn 2025 (discretionary firm support class)
+bud_fed_reg_ssc_exempt_2025,sec_federal,2025,943000000,,,outturn,src_bosa_fed_register_overview,strong,SSC contribution exemptions firms 0.943bn 2025 ESA-as-subsidy
+bud_fed_reg_maribel_2025,sec_federal,2025,894000000,,,outturn,src_bosa_fed_register_overview,strong,Maribel recruitment support 0.894bn 2025 (register; compare NBB ESA ~1.46bn SS package)
+bud_fed_reg_local_2025,sec_federal,2025,4682000000,,,outturn,src_bosa_fed_register_overview,strong,Overdrachten lokale overheden 4.682bn 2025
+bud_fed_reg_foreign_2025,sec_federal,2025,2592000000,,,outturn,src_bosa_fed_register_overview,strong,Overdrachten buitenland 2.592bn 2025
+bud_fed_reg_bv_te_2025,sec_federal,2025,4668000000,,,outturn,src_bosa_fed_register_overview,strong,Fiscale uitgaven bedrijfsvoorheffing 4.668bn 2025 in register
+bud_fed_dept_ss_2025,sec_ss,2025,27687000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept transfers to SS institutions 27.687bn 2025 provisional
+bud_fed_dept_regions_2025,sec_s1312,2025,17730000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept to regions/communities 17.730bn 2025
+bud_fed_dept_autonomous_2025,sec_federal,2025,5470000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept to autonomous institutions 5.470bn 2025 (volatile vs 11.930bn 2024)
+bud_fed_dept_hh_asbl_2025,sec_federal,2025,4968000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept to households and ASBL 4.968bn 2025
+bud_fed_dept_companies_2025,sec_federal,2025,3075000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept to companies 3.075bn 2025
+bud_fed_dept_local_2025,sec_local,2025,4110000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept to local gov 4.110bn 2025
+bud_fed_dept_foreign_2025,sec_federal,2025,1681000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Dept foreign transfers 1.681bn 2025
+bud_fed_dept_total_2025,sec_federal,2025,64721000000,,,outturn,src_bosa_fed_dept_toelagen,strong,Total departmental transfers 64.721bn 2025 provisional
+bud_fed_oisz_hh_2025,sec_ss,2025,136384000000,,,outturn,src_bosa_fed_oisz_toelagen,strong,OISZ transfers households/ASBL 136.384bn 2025 core social benefits
+bud_fed_oisz_total_2025,sec_ss,2025,142955000000,,,outturn,src_bosa_fed_oisz_toelagen,strong,OISZ total out transfers 142.955bn 2025
+bud_fed_aoi_total_2025,sec_federal,2025,774275000,,,outturn,src_bosa_fed_aoi_toelagen,strong,AOI total toelagen 774.275m 2025 (table was kEUR)
+bud_fed_aoi_hh_2025,sec_federal,2025,563215000,,,outturn,src_bosa_fed_aoi_toelagen,strong,AOI to households/ASBL 563.215m 2025
+bud_fed_assign_funds_2025,sec_federal,2025,83552000000,,,budgeted,src_bosa_fed_overdrachten_groups,strong,Toewijzingsfondsen 83.552bn 2025 assignment of tax receipts to other gov
+bud_fed_taxex_inventory_2023,fod_finance,2023,39401000000,,,outturn,src_bosa_fed_overdrachten_groups,strong,FPS TE inventory total 39.401bn 2023 via BOSA; VAT 16.198 PIT fed 9.671 BV 4.415 CIT 3.809

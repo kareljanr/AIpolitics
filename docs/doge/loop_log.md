@@ -848,6 +848,20 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T16:40:00Z -- tick 130
+- Unit: **rq_124** (Federal BGD / toelagen top discretionary L5) — prio 8 last
+- Found (primary **BOSA** register + dept/OISZ/AOI tables; **no invent euros**):
+  - Register **€179.916 bn / 8,993 items (2025)**; path 162.4 → 171.6 → 179.9 bn 2023–25.
+  - **By type 2025:** HH+ASBL **€141.915 bn**; regions **€19.443 bn**; firms **€4.777 bn**; local **€4.682 bn**; BV TE **€4.668 bn**; foreign **€2.592 bn**; Maribel **€0.894 bn**; SSC exempt **€0.943 bn**.
+  - **Dept 2025:** SS **€27.687 bn**; regions **€17.730 bn**; autonomous **€5.470 bn**; HH/ASBL **€4.968 bn**; companies **€3.075 bn**.
+  - **OISZ out €142.955 bn** (HH **€136.384 bn**); **AOI €0.774 bn**.
+  - Assignment funds **€83.552 bn**; 2023 TE inventory **€39.401 bn** (VAT 16.2 largest).
+  - Named L5 top-50: interactive only → FOI **gap_fed_register_l5_top50** ready.
+- Wrote: sources +5; budgets +25; cmt; snapshot `fed_toelagen_register_2025.md`; FOI draft; rq_124=**done**; ticks=130
+- FOI: new gap_fed_register_l5_top50 ready (human send)
+- Next: **prio7** IEFH/FIRM, regional L5, VDAB/FOREM, parties, taxex remainder — **prio8 queue empty**
+
+
 ### 2026-07-27T16:20:00Z -- tick 129
 - Unit: **rq_154** (Cheque economy official TE line primary) — prio 8 / FOI-adjacent
 - Found (primary **Rekenhof advies** Kamer DOC 56 0785/004, 4 Mar 2026; **no invent euros**):
