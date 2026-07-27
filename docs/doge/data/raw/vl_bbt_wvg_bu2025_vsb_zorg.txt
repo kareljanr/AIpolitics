@@ -1,0 +1,1467 @@
+--- page 29 ---
+ 
+29 
+ 
+- 
+Er werd een totaal van 31 keuro VEK herverdeeld vanuit de relanceprovisie 
+voor de uitvoering van relanceprojecten Vlaamse Veerkracht: 4 keuro voor 
+VV144 ‘Zorgzame buurten: versterken van buurtgerichte lokale initiatieven’ 
+en 27 keuro voor VV114 ‘Digitale hulpverlening: kwaliteitsbevordering’ (MB 
+van 23 mei 2025); 
+- 
+Er werd 650 keuro VAK en VEK herverdeeld naar begrotingsartikel 
+GB0-1GCF2BB-WT in het kader van een tijdelijke herschikking van middelen 
+binnen een bredere prioriteringsoefening om, in een blijvend krap 
+budgettair kader, de continuïteit van beleidskritische functies inzake 
+beleidsinformatie en data te waarborgen (MB van 10 februari 2025); 
+- 
+Er werd 500 keuro VAK en VEK herverdeeld naar het begrotingsartikel GB0-
+1GCF2BC-WT in het kader van de oprichting van een reserve-eenheid 
+paraatheid (REP) (MB van 16 juni 2025); 
+- 
+Er werd 621 keuro VEK herverdeeld vanuit begrotingsartikel GB0-1GDF2JA-
+WT in het kader van het optimaal inzetten van de beschikbare VEK-
+middelen (MB van 23 december 2025). 
+ 
+Het VAK-budget werd voor 90,71% benut en het VEK-budget werd voor 91,00% 
+benut. De niet gerealiseerde 27.504 keuro VAK en 27.500 keuro VEK heeft te 
+maken met de middelen voor de toeslag op de eindejaarspremies 2024 die op dit 
+begrotingsartikel voorzien waren, maar foutief op GM0-AGHF2TL-WT bij VSB 
+werden aangerekend. Dit werd nadien technisch rechtgezet door dit budget van 
+27.500 keuro VAK en VEK te blokkeren op GB0-1GCF2BA-WT (1GD319) en een 
+anomalie te boeken op GM0-AGHF2TL-WT (AGH073) bij VSB. 
+ 
+ 
+GB0-1GCF2BB-WT – BELEIDSINFORMATIE EN DATA 
+ 
+Korte inhoud begrotingsartikel: 
+We 
+ontwikkelen 
+stap 
+voor 
+stap 
+een 
+geïntegreerd 
+digitaal 
+zorg- 
+en 
+ondersteuningsplan (Alivia) in overleg met het Stuurorgaan Vlaams Informatie en 
+ICT-beleid 
+(digitaal 
+Vlaanderen). 
+Dat 
+moet 
+ervoor 
+zorgen 
+dat 
+digitale 
+gegevensuitwisseling tussen zorgverleners onderling én met de zorgvrager 
+verbeterd wordt. Op die manier willen we de persoon versterken en activeren en 
+tevens het zorgteam goed voorbereiden op de specifieke, individuele zorgsituatie 
+van de persoon. We maken voor de realisatie gebruik van Vitalink als achterliggend 
+platform om de data te delen.  We hanteren daarbij internationale standaarden en 
+maken werk van een toekomstgerichte architectuur en infrastructuur, die toelaat 
+om de verzamelde gegevens te hergebruiken voor population health & care 
+management. Om te evolueren naar actuele gegevensdeling tussen de overheid 
+en Vlaamse zorgverleners investeren we in een selfservice portaal (eLoket of 
+Burgerprofiel) en Customer Relationship Management systeem (CRM). Hiermee 
+kunnen nieuwe zorgverleners in eerste instantie de status en voortgang van hun 
+erkenning consulteren. In een latere fase kan er bijkomende gegevensdeling en 
+rapportage tot stand komen. 
+ 
+In de periode 2024–2025 werd het platform voor de digitale aangifte van overlijden 
+ontwikkeld en verder geoperationaliseerd, waarbij in 2025 de verdere ontwikkeling 
+en concretisering van het eLys-platform werd voortgezet. De ontwikkelaars van 
+het Departement Zorg realiseerden de noodzakelijke API’s teneinde nieuwe 
+datastromen te faciliteren en deze te integreren in de vernieuwde toepassingen. 
+In het kader van een gefaseerde uitrol sloten in het najaar 2025 (november-
+december) de eerste steden en gemeenten succesvol aan op het platform. 
+Er zijn steeds meer data die we kunnen inzetten voor beleidsvoorbereiding en 
+beleidsuitvoering, maar ook voor operationele doeleinden. Daarom blijven we 
+verder investeren in het ontwikkelen, ontsluiten en beveiligen van het ZorgAtlas 
+Dataplatform. Dit performante platform voedt het beleid met betrouwbare data en 
+
+--- page 52 ---
+ 
+52 
+ 
+GB0-1GDF2JA-WT en GB0-1GDF4JA-WT. 
+ 
+OD 1.2: We zetten in op het voorkomen, detecteren en snel indijken 
+van infectieziekten in de gemeenschap en in onze voorzieningen 
+ 
+In 2025 werd verder ingezet op een robuust en geïntegreerd beleid voor de 
+bestrijding en opvolging van infectieziekten. We actualiseerden 15 richtlijnen over 
+meldingsplichtige infectieziekten om tijdig en wetenschappelijk onderbouwd te 
+kunnen ingrijpen in zowel individuele gevallen als collectieve settings. De 
+modernisering van het meldingsproces en het bijhorende dossierbeheer kreeg 
+concreet vorm door de doorgedreven implementatie van het InfectioNet (voorheen 
+Samenwerkingsplatform 
+Uitbraakbeheer; 
+SUM) 
+als 
+nieuw 
+centraal 
+registratiesysteem 
+en 
+ondersteund 
+door 
+bijkomende 
+optimalisaties 
+in 
+datakwaliteit, clusterregistratie en gegevensontdubbeling. De uitfasering van 
+ORKA als dossierbeheersysteem voor meldingsplichtige infecties werd uitgevoerd.  
+Daarnaast werden dashboards ontwikkeld voor de opvolging van individuele en 
+geclusterde meldingen, ter ondersteuning van zowel de operationele teams als de 
+beleidsopvolging. 
+ 
+De opvolging van zoönotische en vectoroverdraagbare infectieziekten – ziekten die 
+worden overgedragen van dieren op mensen of via insecten zoals muggen – werd 
+in 2025 verzekerd via samenwerking met relevante partners binnen een One 
+Health-benadering. Deze benadering vertrekt vanuit het idee dat de gezondheid 
+van mens, dier en leefomgeving nauw met elkaar verbonden is. Sensibilisering, 
+voortdurende monitoring via een geïntegreerd surveillancesysteem en het 
+opstellen van draaiboeken voor casemanagement vormen belangrijke activiteiten 
+om onze paraatheid te versterken. 
+ 
+Ook 
+de 
+opvolging 
+van 
+respiratoire 
+infecties, 
+zoals 
+griep 
+en 
+andere 
+luchtweginfecties, bleef ononderbroken gegarandeerd. Daarnaast startten we met 
+de voorbereidingen voor een early‑warning mechanisme: een systeem dat 
+vroegtijdig signalen van mogelijke uitbraken detecteert, zodat we sneller kunnen 
+reageren. 
+ 
+In het kader van het Nationaal Actieplan Antimicrobiële Resistentie zijn de 
+voorbereidingen lopende voor de nieuwe doelstellingen voor de periode 2025–
+2029. Binnen de residentiële ouderenzorg hebben we verder ingezet op 
+infectiepreventie, met onder andere de voorbereiding van geactualiseerde 
+handhygiënecampagne, 
+graduele 
+update 
+van 
+het 
+werkinstrument 
+infectiepreventiebeleid woonzorgcentra en de ontwikkeling van specifieke 
+richtlijnen.  
+ 
+In het kader van de hervorming van de penitentiaire gezondheidszorg is gewerkt 
+aan screeningsstrategieën om gezondheidsproblemen sneller op te sporen, linkage 
+to care voor hepatitis C en de actualisering van richtlijnen voor onder meer scabiës 
+en tuberculose. 
+ 
+Naar aanleiding van het toenemend aantal uitbraken van mazelen in de voorbije 
+jaren hebben we in het najaar van 2025 maatregelen genomen om de burger nog 
+beter te beschermen door het gefaseerd vervroegen van de 2de dosis 
+mazelenvaccinatie naar de leeftijd van 2 jaar, dit in samenwerking met Opgroeien 
+en de CLB’s. Nog in het kader hiervan hebben we een campagne gelanceerd over 
+mazelenvaccinatie gericht naar 30- tot 40-jarigen en een mazelencampagne 
+specifiek in Antwerpen. 
+ 
+Om ook die burgers te bereiken die moeilijk toegang vinden tot de reguliere 
+(preventieve) zorgkanalen, werkten we in 2025 opnieuw met een mobiel 
+vaccinatieteam. Dit team wordt ook ingezet bij grotere uitbraken zoals de uitbraak 
+
+--- page 63 ---
+ 
+63 
+ 
+2. ISE Woonzorg en eerste lijn 
+ 
+Dit structuurelement bevat uitgaven voor de eerstelijnsgezondheidszorg en voor 
+de samenwerking tussen de zorgaanbieders in de eerste lijn.  Daarnaast bevat dit 
+structuurelement alle uitgaven voor woonzorg, waaronder zowel residentiële als 
+niet‑residentiële voorzieningen. Dit gaat onder meer om woonzorgcentra, centra 
+voor 
+kortverblijf, 
+dagverzorgingscentra, 
+dagopvang, 
+groepen 
+van 
+assistentiewoningen, centra voor herstelverblijf, diensten voor gezinszorg, 
+diensten maatschappelijk werk van het ziekenfonds, erkende diensten voor 
+thuisverpleging, diensten voor gastopvang, oppashulp en lokale dienstencentra. 
+Ook verenigingen voor mantelzorgers vallen hieronder. 
+2.1 Strategische en operationele doelstellingen 
+ 
+SD 1: We realiseren geïntegreerde en doelgerichte zorg en 
+ondersteuning waarin de persoon centraal staat 
+ 
+OD 1.1: We zetten een kader op om samenwerking over de sectoren 
+en lijnen te versterken zodat elke persoon met een zorg- en 
+ondersteuningsnood in Vlaanderen kan rekenen op geïntegreerde 
+zorg vanuit een persoons- en doelgerichte aanpak 
+ 
+In 2025 kreeg kwaliteitsvolle geïntegreerde zorg en ondersteuning concreter vorm. 
+Op 1 januari 2025 gingen de zorgraden van start met hun nieuw beleidskader. De 
+afstemming met de meerjarenplannen van de lokale besturen werd opgestart. Door 
+deze afstemming wordt verbinding tussen gezondheidszorg en welzijnszorg 
+versterkt en de uniformiteit van beleidsplannen op lokaal niveau in de hand 
+gewerkt. Er gebeurde ook een inhoudelijke heroriëntatie van de zorgraden, naast 
+hun rol als netwerkorganisatie, kregen ze de opdracht om via hun netwerk mee 
+het perinataal programma uit het protocolakkoord met de federale overheid, te 
+implementeren. Het besluit van de Vlaamse Regering van 19 december 2025 
+voorzag bijkomende middelen om de zorgraden te versterken in deze nieuwe 
+opdracht. De zorgraden kregen een subsidie om ondersteuning op maat in te kopen 
+en om het perinataal programma te kunnen uitvoeren. Daarnaast werd in dit kader 
+ook een subsidie toegekend aan de Academie voor de Eerste Lijn voor het 
+ontwikkelen van een measurement logic model binnen dit programma. Dit moet 
+zorgen 
+voor 
+een 
+wetenschappelijke 
+onderbouwing 
+van 
+toekomstige 
+implementatietrajecten. 
+ 
+We willen de belangen van personen met een chronische aandoening en de 
+participatie van gebruikers van zorg en ondersteuning verduurzamen in de eerste 
+lijn. Hiervoor zullen we een partnerorganisatie erkennen als belangenbehartiger 
+van 
+personen 
+met 
+een 
+chronische 
+aandoening 
+en 
+als 
+expertise- 
+en 
+implementatiecentrum voor gebruikersparticipatie in de zorg en ondersteuning met 
+als doel het bereiken van een zo goed mogelijke levenskwaliteit van personen met 
+een chronische aandoening en de participatiecultuur van personen met een zorg- 
+en ondersteuningsnood in organisaties te versterken. In het najaar 2025 werd 
+hiervoor het regelgevend traject opgestart.  
+ 
+Na de besparingen op het Vlaams Instituut van de Eerste Lijn in 2025 wordt er in 
+nauwe samenwerking met de organisatie gewerkt aan een toekomstig, meer 
+operationeel georiënteerd opdrachtenkader. 
+ 
+De Vlaamse Raad bracht in 2025 adviezen uit over hoe we best een gepaste 
+ondersteuningsstructuur in het kader van geïntegreerde zorg en ondersteuning 
+vormgeven en alsook over de conceptnota geïntegreerde zorg en ondersteuning. 
+Die adviezen zullen mee richting geven aan de toekomstige organisatie van 
+geïntegreerde zorg en ondersteuning in Vlaanderen. We bespraken ze in 
+
+--- page 64 ---
+ 
+64 
+ 
+verschillende interne en externe werkgroepen. Om de inzichten samen te brengen 
+werken we binnen het beleidsdomein samen aan één gedeelde visie en een 
+gezamenlijke aanpak rond geïntegreerde zorg en ondersteuning. 
+ 
+Op 4 april 2025 keurde de Vlaamse Regering de conceptnota ‘Uitwerking 
+zorgcoördinatie en casemanagement in het algemeen en in het kader van het 
+programma perinatale zorg in het bijzonder, als bouwstenen voor geïntegreerde 
+zorg en ondersteuning’ goed. Deze conceptnota bepaalt hoe beide functies in de 
+toekomst worden ingevuld en uitgerold. In 2025 zetten we dan ook verdere 
+stappen om zorgcoördinatie en casemanagement over alle WVG-sectoren heen 
+concreet vorm te geven. 
+ 
+In opvolging van het protocolakkoord voor een interfederaal plan geïntegreerde 
+zorg, hebben we het afgelopen jaar intense gesprekken gevoerd met de federale 
+overheid en de andere deelentiteiten om te komen tot een samenwerkingsakkoord 
+dat een wettelijke basis moet bieden voor interfederale samenwerking, onder meer 
+voor gegevensdeling en cofinanciering. We hebben een eerste principieel akkoord 
+bereikt over de inhoudelijke contouren voor een samenwerkingsakkoord en de 
+belangrijkste bouwstenen die hierin moeten worden opgenomen. Vanuit 
+Vlaanderen trachten we ook in Brussel mee werk te maken van geïntegreerde zorg 
+en ondersteuning, in samenwerking met de andere bevoegde entiteiten.  
+ 
+Intussen werken we verder aan de vormgeving en eerste uitvoering van de 
+programma’s geïntegreerde zorg zoals gedefinieerd in het protocolakkoord 
+(perinatale zorg, kwetsbare personen en obesitas bij kinderen en jongeren). 
+ 
+De uitrol van het programma perinatale zorg voor kwetsbare zwangeren, hun 
+kinderen en gezin werd ging begin 2025 van start, samen met de verschillende 
+betrokken partners (implentatiecoaches vanuit de Expertisecentra Kraamzorg en 
+Born-in-Belgium 
+en 
+de 
+zorgraden) 
+(zie 
+ook 
+ISE 
+geïntegreerde 
+gezinsondersteuning). 
+Er 
+worden 
+afsprakenkaders 
+gemaakt 
+binnen 
+eerstelijnszones om samen met ziekenhuizen en de actoren binnen de eerste lijn 
+een kwaliteitsvolle zorg en ondersteuning bij de eerste 1000 dagen te kunnen 
+uitdragen. De doelstelling is om tegen het einde van de legislatuur de geleerde 
+lessen van dit programma op een structurele manier te verankeren in de 
+organisatie van de eerste lijn. 
+ 
+In 2025 formuleerde een Vlaamse expertengroep aanbevelingen om te komen tot 
+een geïntegreerd zorgprogramma rond obesitas bij kinderen en jongeren, als 
+voorbereiding op het interfederaal programma dat in ontwikkeling is. Dit voorstel 
+in complementair aan het Vlaams preventief gezondheidsbeleid in deze.  
+ 
+Voor het programma kwetsbare personen wensen we de focus te leggen op de 
+groep kwetsbare ouderen en personen met dementie. Daarbij willen we maximaal 
+aansluiten bij de andere hervormingen die in de woonzorg lopende zijn. In 2025 
+zijn we gestart met het uitwerken van de algemene principes en de belangrijkste 
+bouwstenen voor dit programma (zoals de rol van het microniveau, het 
+mesoniveau, …). 
+ 
+Alivia ondersteunt als digitale zorg- en ondersteuningsplan de implementatie van 
+geïntegreerde zorg en ondersteuning. We hebben de resultaten en de geleerde 
+lessen van het eerste pilootproject Alivia (2024) in 2025 geïntegreerd in de opstart 
+van het tweede pilootproject in 15 woonzorgcentra. Alivia is in 2025 verder 
+ontwikkeld: de modules zorgteam, meldingen, overleg en zorgplanoverzicht 
+werden 
+in 
+aanloop 
+van 
+het 
+pilootproject 
+verder 
+uitgewerkt.  
+Gebruiksvriendelijkheid, co-creatie met de eindgebruiker en een flexibel schaalbaar 
+ontwikkelingsmodel zijn hierbij de leidende principes. Binnen de piloten wordt 
+nauw samengewerkt met de opleidings- en wetenschappelijke instituten om in 
+kaart te brengen wat noodzakelijk is om de toekomstige uitrol en acceptatie van 
+
+--- page 65 ---
+ 
+65 
+ 
+Alivia te bevorderen. Daarnaast wordt de verhouding met inschaling BelRAI 
+LongTermCareFacilities (LTCF) en het woonzorgleefplan bekeken. De opleiding 
+rond doelgerichte zorg in de toekomst aangeboden door VIVEL wordt door de 
+woonzorgcentra gevalideerd. 
+ 
+De kaders voor de verdere ontwikkeling van de brede eerstelijnspraktijken werd 
+binnen het interfederale plan geïntegreerde zorg opgenomen, waarbij interfederale 
+afspraken worden gemaakt omtrent interdisciplinaire structurele samenwerkingen 
+in eerste lijn. 
+ 
+In november 2025 verlengden we de subsidies voor de zeven innovatieve projecten 
+in de huisartsgeneeskunde. Deze projecten gaan daarmee hun laatste werkingsjaar 
+in en hebben als doel de toegankelijkheid van de huisartsgeneeskunde te 
+verbeteren, in nauwe samenwerking met de beroepsverenigingen.  
+ 
+Daarnaast hebben we de voorbije jaren geïnvesteerd in een betere inventaris van 
+het huisartsenaanbod in Vlaanderen. Daarbij volstaat louter koppen tellen niet. We 
+moeten ook rekening houden met de context waarin huisartsen werken. In 2025 
+werd deze inventarisatieprocedure uitgebreid getest en werden de nodige 
+voorbereidingen getroffen voor een uitrol in 2026. 
+ 
+We onderzochten in 2025 samen met huisartsen en het Vlaams Expertisecentrum 
+Dementie hoe huisartsen een duidelijke en versterkte rol kunnen opnemen binnen 
+de dementiezorg. 
+ 
+Elke individuele huisarts kan nog steeds rekenen op financiële ondersteuning bij 
+de opstart of uitbreiding van de praktijk, en wanneer ze inzetten op 
+interdisciplinaire 
+samenwerking. 
+De 
+aanvraagprocedure 
+voor 
+deze 
+impulsondersteuning werd verder gedigitaliseerd, waardoor de administratieve 
+belasting bij de jaarlijkse aanvraagprocedure aanzienlijk is verminderd. 
+ 
+We hebben met de palliatieve sector een hervormingstraject uitgestippeld. De 
+sector werd geresponsabiliseerd en intensief begeleid om een duurzaam kader te 
+ontwikkelen voor de toekomst. De interne oefening die de palliatieve sector heeft 
+opgestart om binnen de bestaande organisaties voldoende draagvlak te creëren, 
+heeft echter vertraging opgelopen. We blijven hier actief aan werken. 
+ 
+De beleidsuitgaven voor het realiseren van OD1 werden aangerekend op 
+begrotingsartikel 
+GB0-1GDF2KA-WT. 
+De 
+uitgaven 
+voor 
+‘Alivia’ 
+werden 
+aangerekend 
+binnen 
+het 
+plan 
+Vlaamse 
+Veerkracht 
+(VV116 
+Elektronisch 
+patiëntendossier - Geïntegreerd zorg en ondersteuningsplan). De uitgaven voor de 
+financiële impulsondersteuning voor de individuele huisarts werden aangerekend 
+op begrotingsartikel GB0-1GDF2KB-WT. 
+ 
+SD 2: We werken aan een kwaliteitsvol en toegankelijk aanbod aan 
+woonzorg 
+ 
+OD 2.1: We realiseren een passend zorg- en ondersteuningsaanbod 
+om mensen met een zorgnood zo lang mogelijk thuis te laten wonen, 
+evenals een voldoende gevarieerd residentieel aanbod 
+ 
+In 2025 hebben we verder gewerkt aan een passend en kwaliteitsvol zorg- en 
+ondersteuningsaanbod, zodat mensen zo lang mogelijk thuis kunnen blijven 
+wonen, én aan een voldoende gevarieerd residentieel aanbod. 
+ 
+We versterken de informele zorg. Het Vlaams Expertisepunt Mantelzorg (VEM) 
+werd uit het Vlaams Instituut voor de Eerste Lijn gehaald en zal worden ingekanteld 
+binnen het Vlaams Mantelzorg Platform (VMP). Dit schept de gelegenheid om de 
+
+--- page 66 ---
+ 
+66 
+ 
+taak- en rolverdeling tussen VEM/VMP en de verenigingen voor mantelzorg en 
+gebruikers te heroriënteren en efficiënter te maken. 
+ 
+We stimuleerden innovatie in de gezinszorg, onder andere via alternatieve 
+mogelijkheden voor collectieve zorg. De projecthouder Zorggezind bezorgde ons 
+een overzicht van projecten die mogelijk kunnen worden opgenomen binnen het 
+regelluwe kader voor ‘collectieve gezinszorg’. Enkel projecten waarvoor regelluwte 
+op het niveau van een Vlaams regeringsbesluit nodig is — en dus geen decretale 
+aanpassing vereisen — kunnen worden meegenomen in het verdere traject. In 
+2025 werd een kader opgesteld door Zorggezind met betrekking tot hybride 
+gezinszorg, waarbij klassieke gezinszorg gecombineerd kan worden met beeldzorg, 
+en ligt nu voor ter validatie. 
+ 
+De uitgaven voor gezinszorg worden aangerekend op begrotingsartikel GM0-
+AGHF2TH-WT en voor residentiële ouderenzorg op begrotingsartikel GM0-
+AGHF2TL-WT (zie beleidsveld Sociale Bescherming). 
+ 
+OD 2.2: Om te kunnen antwoorden op toekomstige zorgnoden, 
+hervormen en actualiseren we de financieringsmodellen 
+ 
+We 
+werkten 
+verder 
+aan 
+een 
+ontwerp 
+van 
+integratie 
+van 
+de 
+IFIC 
+meerkostfinanciering in de basistegemoetkoming voor zorg in residentiële 
+ouderenzorg. Met de sociale partners vond afstemming plaats over de voorstellen.  
+ 
+In kader van het nieuw financieringsmodel gezinszorg en de geautomatiseerde 
+gebruikersbijdrage hebben we een businessvisie en principedocument opgesteld in 
+overleg 
+met 
+sector. 
+Via 
+een 
+terbeschikkingstellingsovereenkomst 
+zijn 
+coördinatoren uit de sector aangesteld bij het Departement Zorg. De coördinatoren 
+werkten een plan van aanpak uit en de projectstructuur werd verder vormgegeven 
+en ingevuld. We hebben ook reeds budget voorzien voor een deel van de ICT-
+kosten. 
+ 
+De uitgaven voor gezinszorg worden aangerekend op begrotingsartikel GM0-
+AGHF2TH-WT en voor residentiële ouderenzorg op begrotingsartikel GM0-
+AGHF2TL-WT (zie beleidsveld Sociale Bescherming). 
+ 
+OD 2.3: We bewaken de kwaliteit en betaalbaarheid van woonzorg 
+ 
+In 2025 hebben we het handhavingsbeleid in de residentiële woonzorg verder 
+versterkt. We werkten aan duidelijke kaders en afspraken rond administratieve 
+geldboetes, zodat dit instrument op een consequente en effectieve manier kan 
+worden ingezet. Tot slot zijn we in 2025 gestart met de voorbereiding van het 
+algemeen toezicht op de maatregelen financiële weerbaarheid.  
+ 
+Na een uitgebreid voortraject met een beperkte vertegenwoordiging uit de sector 
+gezinszorg hebben we in 2025 het nieuwe handelingskader handhaving 
+geïmputeerd. We organiseerden fysieke infosessies en bundelden alle veelgestelde 
+vragen en toelichtingen in een draaiboek. Op basis van de ontvangen 
+remediëringsplannen en in overleg met de sector werd het handelingskader ook 
+geëvalueerd en beperkt bijgestuurd.  
+In 2025 hebben we het project sectorspecifieke transparante boekhouding 
+verdergezet volgens de geplande projectfasering. De tweede vrijwillige 
+rapporteringsronde in het kader van de zachte uitrol werd succesvol afgerond, met 
+een stijgend aantal deelnemende voorzieningen. De geleerde lessen nemen we 
+mee richting de algemene rapportering in 2026.  
+Daarnaast hebben mijn kabinet en de administratie in 2025 gewerkt aan het 
+uitwerken van een regelgevend kader voor het principe ‘Winst op zorg’. Daarbij 
+werd onmiddellijk ook gewerkt aan de eerste uitvoeringsbesluiten.  
+
+--- page 67 ---
+ 
+67 
+ 
+ 
+De uitgaven voor gezinszorg worden aangerekend op begrotingsartikel GM0-
+AGHF2TH-WT en voor residentiële ouderenzorg op begrotingsartikel GM0-
+AGHF2TL-WT (zie beleidsveld Sociale Bescherming). 
+ 
+2.2 Budgettair kader voor het begrotingsjaar 
+ 
+WOONZORG EN EERSTE LIJN, MVG excl. DAB 
+ 
+ (duizend euro) 
+VAK 2025 
+VEK 2025 
+2025 
+BA 
+BA-JR 
+BU 
+BA 
+BA-JR 
+BU 
+ESR-
+uit-
+gaven 
+WT, LO, 
+PR 
+60.913 
+61.030 
+57.080 
+64.155 
+65.992 
+61.197 
+Toe-
+lagen 
+IS 
+0 
+0 
+0 
+0 
+0 
+0 
+Overige 
+LE, 
+PA, 
+andere 
+3.520 
+3.520 
+2.060 
+3.520 
+3.520 
+2.060 
+Totaal 
+64.433 
+64.550 
+59.139 
+67.675 
+69.512 
+63.257 
+ 
+Inhoudelijke toelichting: 
+De evolutie van de budgetten en de begrotingsuitvoering wordt geduid bij de 
+onderliggende begrotingsartikels. 
+ 
+2.2.1. Departement Zorg 
+ 
+Ontvangsten 
+ 
+GB0-9GDFAKA-OP – BELEID EERSTELIJNGEZONDHEIDSZORG 
+  
+Korte inhoud begrotingsartikel:  
+Betreft terugbetalingen van de renteloze lening in het kader van de overeenkomst 
+tussen Participatie Maatschappij Vlaanderen (PMV) en de Vlaamse Gemeenschap 
+over de uitvoering en het dagelijks beheer van het Impulsfonds voor 
+huisartsgeneeskunde.  
+ 
+Het Impulsfonds voor huisartsgeneeskunde voorziet o.a. in renteloze leningen aan 
+huisartspraktijken. 
+ 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+AO 
+TO 
+LO 
+BA 2025 
+2.181 
+0 
+0 
+
+--- page 130 ---
+ 
+130 
+ 
+IX. BELEIDSVELD SOCIALE BESCHERMING 
+ 
+Voor dit beleidsveld is er slechts één ISE. 
+1. ISE Vlaamse sociale bescherming 
+ 
+De Vlaamse sociale bescherming (VSB) is een solidair verzekeringsmodel waarbij 
+inwoners van Vlaanderen jaarlijks een zorgpremie betalen. In geval van 
+zorgbehoevendheid kan men in ruil voor deze premie een beroep doen op de 
+Vlaamse sociale bescherming, zoals de tegemoetkoming voor zorg. De uitvoering 
+hiervan gebeurt door de zorgkassen. Kennisgevingen, aanvragen en financiering 
+van prestaties voor gebruikers die aangesloten zijn bij een zorgkas, gebeuren via 
+een digitale VSB-toepassing. 
+ 
+VSB bestaat momenteel uit volgende pijlers: 
+− 
+Zorgbudget voor zwaar zorgbehoevenden (vroeger zorgverzekering); 
+− 
+Zorgbudget 
+voor 
+mensen 
+met 
+een 
+handicap 
+(ook 
+basisondersteuningsbudget); 
+− 
+Zorgbudget voor ouderen met een zorgnood (vroeger tegemoetkoming voor 
+hulp aan bejaarden); 
+− 
+Financiering residentiële ouderenzorg (woonzorgcentra, centra voor 
+kortverblijf en dagverzorgingscentra); 
+− 
+Mobiliteitshulpmiddelen 
+− 
+Geestelijke 
+gezondheidszorg 
+(psychiatrische 
+verzorgingstehuizen 
+en 
+initiatieven van beschut wonen); 
+− 
+Revalidatie vooral gericht op psychosociale aspecten; 
+− 
+Revalidatie gericht op het herstel van fysieke functies, met inbegrip van 
+revalidatieziekenhuizen 
+en 
+voorzieningen 
+met 
+een 
+revalidatieovereenkomst; 
+− 
+Multidisciplinaire begeleidingsequipes voor palliatieve verzorging (MBE). 
+ 
+1.1 Strategische en operationele doelstellingen 
+ 
+SD 1: We waarborgen de sociale bescherming van de burger 
+ 
+OD 1.1: We verbeteren de financiële toegankelijkheid met 
+vereenvoudigde en transparante (aanvraag)procedures en werken 
+ongelijkheden weg 
+ 
+Alle voorbereidingen werden getroffen om vanaf 1 maart 2026 van start te kunnen 
+gaan met de BelRAI Screener als inschalingsinstrument voor het zorgbudget voor 
+ouderen met een zorgnood. 
+ 
+We voeren gedetailleerde analyses uit over hoe we een geïntegreerde en 
+vereenvoudigde digitale aanvraagprocedure voor de zorgbudgetten, gebaseerd op 
+de BelRAI-inschaling, kunnen realiseren. Dit proces omvat onder andere het 
+identificeren van de huidige knelpunten en inefficiënties in de bestaande 
+procedures. 
+ 
+De beleidsuitgaven voor het zorgbudget ouderen met een zorgnood werden 
+aangerekend op artikel GM0-AGHF2TB-WT. 
+ 
+OD 1.2: We ontwikkelen een zorgprognosemodel om verwachte 
+zorgnoden in kaart te brengen 
+ 
+We zijn gestart met de ontwikkeling van een zorgprognosemodel op basis van een 
+uitgebreide set aan databronnen (zoals deze van BelRAI) en dit via het ZorgAtlas 
+
+--- page 132 ---
+ 
+132 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+  
+VAK 
+VEK 
+BA 2025 BA-JR 2025 
+BU 2025 
+BA 2025 BA-JR 2025 
+BU 2025 
+Uitgaven 
+4.104 
+4.104 
+4.104 
+4.104 
+4.104 
+4.104 
+ 
+Inhoudelijke toelichting: 
+Het budget 2025 werd volledig benut. 
+ 
+ 
+GB0-1GHF2TG-WT – THUIS- EN OUDERENZORGBELEID 
+ 
+Korte inhoud begrotingsartikel: 
+Het woonzorgdecreet van 15 februari 2019 zorgt voor het wetgevend kader voor 
+de subsidiëring van deze voorzieningen en verenigingen. Deze voorzieningen 
+dragen er toe bij dat mensen zo lang mogelijk in de eigen vertrouwde woning en 
+woonomgeving kunnen blijven wonen: 
+- 
+lokale dienstencentra;  
+- 
+thuiszorgvoorzieningen: 
+o 
+diensten voor oppashulp; 
+o 
+diensten maatschappelijk werk van het ziekenfonds;  
+o 
+diensten voor gastopvang; 
+o 
+de centra voor kortverblijf type 3; 
+o 
+de centra voor herstelverblijf; 
+- 
+verenigingen van gebruikers en mantelzorgers. 
+ 
+Voor de ouderenvoorzieningen worden volgende subsidies vanop dit artikel 
+uitbetaald: 
+- 
+de werkingssubsidies voor de centra voor dagverzorging en de centra voor 
+dagopvang; 
+- 
+de tegemoetkoming voor de regularisatie van de projectgesco’s in de 
+ouderenzorg; 
+- 
+de DAC-supplementen voor de woonzorgcentra; 
+- 
+de subsidiëring van het Expertisecentrum Dementie Vlaanderen en de 9 
+regionale expertisecentra; 
+- 
+de subsidiëring van de BEVAK-serviceflats; 
+- 
+projectsubsidies ouderenzorg. 
+ 
+Daarnaast wordt op dit artikel nog budget voorzien voor de uitvoering van de 
+sociale akkoorden in de woonzorg wat betreft: 
+- 
+de dotatiefondsen sociale maribel; 
+- 
+de tegemoetkoming in de vakbondspremie. 
+ 
+Dit budget draagt bij aan de realisatie van operationele doelstelling  
+− 
+OD 2.1: We realiseren een passend zorg- en ondersteuningsaanbod om 
+mensen met een zorgnood zo lang mogelijk thuis te laten wonen, evenals 
+een voldoende gevarieerd residentieel aanbod. 
+ 
+ 
+ 
+ 
+ 
+
+--- page 133 ---
+ 
+133 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+  
+VAK 
+VEK 
+BA 2025 BA-JR 2025 
+BU 2025 
+BA 2025 BA-JR 2025 
+BU 2025 
+Uitgaven 
+76.757 
+78.051 
+75.445 
+81.034 
+82.398 
+77.519 
+ 
+Inhoudelijke toelichting: 
+De verschillen tussen de kredieten BA 2025 en BA-JR 2025 zijn het gevolg van 
+herverdelingen tijdens het jaar. Er werd 1.294 keuro VAK en 1.364 keuro VEK 
+herverdeeld in 2025. 
+ 
+Overzicht van de herverdelingen: 
+- 
+Er werd 1.294 keuro VAK en VEK toegevoegd in het kader van het 
+honoreren van de budgettaire impact van de overschrijding van de spilindex 
+op de lonen, sociale uitkeringen en loonsubsidies (VR 2025 2811 
+DOC.1087/2); 
+- 
+Er werd -1.370 keuro VEK herverdeeld naar begrotingsartikel GB0-
+1GHF2TX-IS in het kader van het optimaal inzetten van de beschikbare 
+VEK-middelen (MB van 23 oktober 2025); 
+- 
+Er werd 1.440 keuro VEK toegevoegd vanuit de relanceprovisie voor de 
+uitvoering van de relanceprojecten “tevredenheidsmeting woonzorgcentra” 
+(467 keuro) en “versterking van de referentierol dementie in de thuiszorg 
+en de uitbouw van referentie-artsen dementie” (973 keuro, MB van 23 mei 
+2025).  
+Het totale VAK-budget op dit begrotingsartikel werd voor 96,66% benut en het 
+totale VEK-budget werd voor 94,08% benut. Er is een verschil in VEK van 4.879 
+keuro (5,9%) tussen BA-JR 2025 en BU2025.  
+ 
+Het verschil in VEK-uitvoering is grotendeels te verklaren door niet-gerealiseerde 
+saldi. 
+ 
+GB0-1GHF2TH-WT – THUIS- EN GEZINSZORG 
+ 
+Korte inhoud begrotingsartikel: 
+Op dit begrotingsartikel worden de diensten voor gezinszorg gesubsidieerd die er 
+toe bijdragen dat mensen zo lang mogelijk in de eigen vertrouwde woning en 
+woonomgeving kunnen blijven wonen.  
+ 
+Dit budget draagt bij aan de realisatie van operationele doelstelling  
+− 
+OD 2.1: We realiseren een passend zorg- en ondersteuningsaanbod om 
+mensen met een zorgnood zo lang mogelijk thuis te laten wonen, evenals 
+een voldoende gevarieerd residentieel aanbod. 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+  
+VAK 
+VEK 
+BA 2025 
+BA-JR 
+2025 
+BU 2025 
+BA 2025 BA-JR 2025 
+BU 2025 
+Uitgaven 1.022.709 1.040.149 
+1.032.533 1.020.709 1.036.174 
+1.000.387 
+
+--- page 134 ---
+ 
+134 
+ 
+ 
+Inhoudelijke toelichting: 
+De verschillen tussen de kredieten BA 2025 en BA-JR 2025 zijn het gevolg van 
+herverdelingen tijdens het jaar. Er werd 17.440 keuro VAK en 15.465 keuro VEK 
+herverdeeld in 2025. 
+ 
+Overzicht van de herverdelingen: 
+− 
+Er werd 17.440 keuro VAK en VEK toegevoegd in het kader van het 
+honoreren van de budgettaire impact van de overschrijding van de spilindex 
+op de lonen, sociale uitkeringen en loonsubsidies (VR 2025 2811 DOC. 
+1087/2); 
+− 
+Er werd -1.975 keuro VEK herverdeeld naar GB0-1GHF2TJ-WT in het kader 
+van het optimaal inzetten van de beschikbare VEK-middelen (MB van 16 
+juni 2025). 
+ 
+Het totale VAK-budget op dit begrotingsartikel werd voor 99,27% benut en het 
+totale VEK-budget werd voor 96,55% benut. Er is een verschil in VAK van 7.616 
+keuro (0,73%) en in VEK van 35.787 keuro (3,4%) tussen BA-JR 2025 en BU2025.  
+ 
+Het verschil in VAK-uitvoering is grotendeels te verklaren als volgt: 
+− 
+Er werd 5.000 keuro VAK tijdelijk geblokkeerd als voorzorgsmaatregel. 
+Deze blokkering 
+diende om een mogelijke extra kost voor de 
+eindejaarspremie in de woonzorgcentra in 2026 op te vangen, voor het 
+geval er geen blijvende oplossing zou worden gevonden. Intussen is er wel 
+een structurele oplossing uitgewerkt, maar de eerder opgelegde blokkering 
+werd niet meer opgeheven;   
+− 
+In uitvoering van het centenboekje wordt 5% van de voorziene opstap 
+uitbreidingsbeleid eenmalig onbenut.  Op de voorziene 12 miljoen euro voor 
+het uitbreidingsbeleid binnen Warm Vlaanderen impliceert dit een 
+onderbenutting van 600 keuro VAK. 
+ 
+Het verschil in VEK-uitvoering is grotendeels te verklaren als volgt: 
+− 
+Een bedrag van 20.801 keuro VEK betreft een niet gerealiseerd saldo uit 
+2024 van gezinszorg en aanvullende thuiszorg (overlopende rekening); 
+− 
+Er wordt voor 2025 een niet-besteed saldo van 7.983 keuro VEK verwacht. 
+De effectieve saldering van de diensten voor gezinszorg met betrekking tot 
+het begrotingsjaar 2025 zal echter pas midden 2026 gekend zijn;  
+− 
+Afgesproken onderbenutting van 600 keuro VEK cf. centenboekje (zie ook 
+toelichting VAK). 
+ 
+Naar dit begrotingsartikel werd 12.000 keuro middelen Warm Vlaanderen (netto 
+beleidsruimte) verdeeld, waarvan 11.354 keuro werd gerealiseerd. Hierbij een 
+overzicht van hoe dit uitbreidingsbeleid 2025 besteed werd: 
+ 
+Maatregel 
+keuro (VAK) 
+Uitbreiding urencontingent 
+gezinszorg 2025 
+1.922 
+Eenmalige herverdeling VIPA 
+1.000 
+Verhoging vergoeding 
+verplaatsingen met de wagen 
+verzorgend en logistiek 
+personeel (brandstof) 
+3.840 
+Traject nieuw 
+financieringsmodel diensten 
+gezinszorg 
+3.500 
+
+--- page 135 ---
+ 
+135 
+ 
+Ontwikkelen van een 
+kwetsbaarheidsprofiel voor 
+cliënten in de thuiszorg 
+94,77 
+Ontwikkelen van meetprotocol 
+voor de indicatoren die 
+kwetsbare doelgroepen kunnen 
+definiëren die een dienst voor 
+gezinszorg prioritair moet 
+bereiken 
+147,23 
+Uitfasering Cognos - migratie 
+rapporten naar 
+ZorgAtlas/Tableau 
+250 
+5% centenboekje 
+600 
+Totaal 
+11.354 
+ 
+ 
+GB0-1GHF2TJ-WT – GEESTELIJKE GEZONDHEIDSZORG 
+ 
+Korte inhoud begrotingsartikel: 
+De uitgaven op dit artikel werden ingekanteld in de Vlaamse Sociale Bescherming. 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+  
+VAK 
+VEK 
+BA 2025 BA-JR 2025 
+BU 2025 
+BA 2025 BA-JR 2025 
+BU 2025 
+Uitgaven 
+0 
+0 
+0 
+0 
+1.975 
+1.975 
+Inhoudelijke toelichting: 
+Doorheen het jaar werd één herverdeling uitgevoerd om 1.975 keuro VEK te 
+vereffenen voor openstaande verplichtingen uit voorgaande jaren (MB van 16 juni 
+2025).  
+ 
+ 
+GB0-1GHF2TR-WT – UITVOERING SOCIALE AKKOORDEN 
+ 
+Korte inhoud begrotingsartikel: 
+De budgetten voor de uitvoering van de sociale akkoorden ouderenzorg en de 
+eerstelijn- en geestelijke gezondheidszorg werden gegroepeerd op dit artikel. 
+Concreet gaat het over de budgetten voor: 
+− 
+de financiering van de maatregel vrijstelling van arbeidsprestaties en 
+eindeloopbaan in de ouderenzorg en de eerstelijns- en geestelijke 
+gezondheidszorg; 
+− 
+de dotaties sociale maribel ouderenzorg; 
+− 
+de syndicale premies ouderenzorg. 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+  
+VAK 
+VEK 
+BA 2025 BA-JR 2025 
+BU 2025 
+BA 2025 BA-JR 2025 
+BU 2025 
+Uitgaven 
+217.298 
+219.838 
+226.806 217.298 
+219.838 
+226.806 
+
+--- page 136 ---
+ 
+136 
+ 
+ 
+Inhoudelijke toelichting: 
+De verschillen tussen de kredieten BA 2025 en BA-JR 2025 (2.540 keuro VAK en 
+VEK) zijn het gevolg van een herverdeling in het kader van het honoreren van de 
+budgettaire impact van de overschrijding van de spilindex op de lonen, sociale 
+uitkeringen en loonsubsidies. (VR 2025 2811 DOC.1087/2).  
+ 
+Het totale VAK- en VEK budget werd voor 103,17% benut. Er werd immers nadien 
+nog een anomalie geboekt op de kredieten in het kader van eindeloopbaan 
+ouderenzorg (1GH037) voor in totaal 7.144 keuro. Er was immers een tekort 
+ontstaan naar aanleiding van een te klein budget voor het opvangen van de 
+verschillende spilindexoverschrijdingen sinds 2022, de toename van het aantal 
+rechthebbenden en een stijgende vervangingsratio. Door het boeken van deze 
+anomalie werd het tekort op deze basisallocatie voor 2025 afgedekt 
+ 
+ 
+GB0-1GHF2TX-IS – VLAAMSE SOCIALE BESCHERMING (VSB) 
+ 
+Korte inhoud begrotingsartikel: 
+Het betreft de jaarlijkse toelage aan het agentschap Vlaamse Sociale Bescherming 
+(VSB). 
+ 
+Begrotingsuitvoering: 
+ 
+(duizend euro) 
+  
+VAK 
+VEK 
+BA 2025 
+BA-JR 
+2025 
+BU 2025 
+BA 2025 BA-JR 2025 
+BU 2025 
+Uitgaven 3.951.131 4.017.938 
+4.020.801 3.951.279 4.021.075 
+4.021.075 
+ 
+Inhoudelijke toelichting: 
+De toelage aan het agentschap Vlaamse Sociale Bescherming wordt verdeeld over 
+de verschillende VSB-pijlers (met inbegrip van de werkingssubsidies aan de 
+mutualistische zorgkassen). 
+ 
+Het betreft de volgende pijlers die in de begroting 2025 voor onderstaande 
+bedragen werden opgenomen (*): 
+ 
+- 
+Zorgbudget zwaar zorgbehoevenden (ZZZ):137.083 keuro; 
+- 
+Zorgbudget Ouderen met Zorgnood (ZBO):350.488 keuro;  
+- 
+Zorgbudget Personen met Handicap (ZPH): 25.433 keuro; 
+- 
+Tegemoetkomingen Mobiliteit en Hulpmiddelen (MOHM)- met inbegrip van 
+de Rolstoel Adviesteams (RATS): 101.016 keuro; 
+- 
+Tegemoetkomingen in Residentiële Ouderenzorg (ROZ): 2.892.788 keuro; 
+- 
+Multidisciplinair Overleg (MDO): 994 keuro; 
+- 
+Revalidatie Ziekenhuizen (RZH):121.603 keuro; 
+- 
+Revalidatie Conventies (RCO): 211.396 keuro; 
+- 
+Psychiatrische Verzorgingstehuizen (PVT) met inbegrip van de Initiatieven 
+Beschut Wonen (IBW): 153.355 keuro; 
+- 
+Aparte pijler Algemeen Beleid AVSB: 13.988 keuro; 
+- 
+Multidisciplinaire Begeleidingsequipes Palliatieve zorgen (MBE): 12.931 
+keuro. 
+ 
+
+--- page 137 ---
+ 
+137 
+ 
+(*) Met inbegrip van de in 2025 toegekende bedragen uit index, relance en VIA 6 
+– herverdelingsrondes (cijfer uit Orafin AVSB). Totaal toelagebedrag bij 
+begrotingscontrole 2025: 4.021.075 keuro VEK. Dit bedrag werd in 2025 in 
+totaliteit aangerekend op het budget van het Agentschap. 
+De verschillen tussen de kredieten BA 2025 en BA-JR 2025 zijn het gevolg van 
+herverdelingen tijdens het jaar. Er werd 66.807 keuro VAK en 69.796 keuro VEK 
+herverdeeld in 2025. 
+ 
+Overzicht van de herverdelingen: 
+− 
+Er werd 66.807 keuro VAK en VEK herverdeeld in het kader van het 
+honoreren van de budgettaire impact van de overschrijding van de spilindex 
+op de lonen, sociale uitkeringen en loonsubsidies (VR 2025 2811 DOC. 
+1087/2); 
+− 
+Er werd 2.384 keuro VEK herverdeeld in het kader van het optimaal inzetten 
+van de beschikbare VEK-middelen (MB van 23 oktober 2025); 
+− 
+Er werd 605 keuro VEK herverdeeld vanuit de relanceprovisie voor de 
+uitvoering van relanceprojecten Vlaamse Veerkracht: 126 keuro VEK voor 
+VV116 
+‘Elektronisch 
+patiëntendossier 
+– 
+Geïntegreerd 
+zorg- 
+en 
+ondersteuningsplan’ en 479 keuro VEK voor VV045 ‘Inzetten op kwaliteit en 
+good governance van woonzorgcentra en vooruitschuif nieuw beleid’ (MB 
+van 23 mei 2025). 
+ 
+Het verschil van 2.863 keuro VAK tussen de kolommen BA-JR 2025 en BU 2025 is 
+het gevolg van een anomalie die geboekt werd om OraFin-technische redenen, 
+meer bepaald om toe te laten dat het agentschap VSB de hierboven vermelde 
+herverdeelde VEK-middelen (2.384 keuro VEK + 479 keuro VEK relance) via de 
+toelage zou kunnen ontvangen.  
+ 
+Voor meer detail wordt verwezen naar de bespreking van de begrotingsuitvoering 
+van het agentschap Vlaamse Sociale Bescherming. 
+ 
+1.2.3. Overige entiteiten onder gezag 
+Entiteit: Agentschap Vlaamse Sociale Bescherming 
+ 
+Omschrijving 
+ 
+Per begrotingsartikel wordt hieronder een beknopte toelichting gegeven bij de 
+begroting van het agentschap en de uitvoering ervan in 2025 in VEK aan 
+ontvangsten- en uitgavenzijde. Het agentschap Vlaamse Sociale Bescherming is 
+een intern verzelfstandigd agentschap met rechtspersoonlijkheid onder het gezag 
+van de Vlaamse Regering. 
+ 
+Ontvangsten 
+ 
+GM0-BGHFATC-OW – Ontvangsten Werking en Toelagen – Vlaamse Sociale 
+Bescherming 
+ 
+Inkomsten uit beleggingen overheid/niet overheid (ESR 26.10 en ESR 
+26.20)  
+Er werd in de begrotingsaanpassing 2025 een bedrag aan inkomsten ingeschreven 
+van 17.811 keuro uit beleggingen overheid/ niet overheid, waarvan samen op 
+beide ESR-codes 16.706 keuro werd geïnd. Dit zijn 1.105 keuro minderontvangsten 
+dan oorspronkelijk voorzien. Hoewel 2025 een goed beursjaar was en er nog steeds 
+sprake is van een stijging van de beleggingsopbrengsten, hebben deze zich minder 
+sterk ontwikkeld dan aanvankelijk werd verwacht. De toename bleef dus beperkter 
+dan vooraf ingeschat, voornamelijk als gevolg van de evolutie van het Vlaams 
+staatspapier en de DG Infra-yield. 
+
+--- page 141 ---
+ 
+141 
+ 
+GM0-AGHF2TB-WT tot en met GM0-AGHF2TT-WT – Diverse VSB – Pijlers 
+(zorgbudgetten en zorgtickets/tegemoetkomingen) 
+ 
+Zorgbudgetten (ESR 34.31): volgende pijlers: 
+− 
+zorgbudget zwaar zorgbehoevenden - ZZZ (art. GM0-AGHF2TC-WT): 443.508 
+keuro decretaal budget, uitvoering 439.099 keuro; een boni van 4.409 keuro 
+in vergelijking met decretaal budget. Reden: lager aantal personen in de 
+mantel- en thuiszorg dan geraamd. 
+ 
+− 
+zorgbudget ouderen met zorgnood – ZBO (art. GM0-AGHF2TB-WT): 345.377 
+keuro decretaal budget, uitvoering 312.496 keuro; een boni van 32.881 (10%) 
+keuro in vergelijking met decretaal budget. 
+ 
+Reden voor de afwijking (>5%): 
+Vanaf 1 januari 2025 was de invoering van de BelRAI Screener (BRS) voor ZBO 
+in de thuissituatie gepland. Personen met een ZBO op basis van de MSS 
+behielden hun recht, maar konden vrijwillig overstappen naar de BRS. 
+Aangezien ongeveer 90% van de MSS-rechten van onbepaalde duur was, 
+bleven deze behouden en vond er geen automatische herziening plaats. 
+Er werd verwacht dat sommige gebruikers via de BRS in een hogere categorie 
+zouden terechtkomen en daarom een herziening zouden aanvragen. Dit leidde 
+tot een geraamde meerkost van ongeveer 32 miljoen euro in 2025. 
+Hoewel deze meerkost was opgenomen in de begroting (BA25), werd de 
+invoering van de BRS uitgesteld en pas geleidelijk opgestart vanaf 1 maart 
+2026, wat resulteerde in een onderbenutting (10%) van de middelen. 
+  
+− 
+zorgbudget personen met handicap - ZPH (art. GM0-AGHF2TD-WT): 25.207 
+keuro decretaal budget, uitvoering 23.377 keuro; een boni van 1.830 keuro 
+(7%) in vergelijking met decretaal budget.  
+ 
+Reden voor de afwijking (>5%): het budget heeft een uitdovend karakter. Er 
+is geen instroom van nieuwe dossiers; enkel een geleidelijke uitstroom, 
+voornamelijk door overlijden of door de overgang naar een persoonsvolgend 
+budget (VAPH). 
+ 
+Aanvullend onder de ESR 34.31 opgenomen VSB-pijlers: 
+− 
+Tegemoetkomingen Mobiliteits- en Hulpmiddelen (MOHM – art. GM0-AGHF2TK-
+WT) (ESR 34.31): 91.787 keuro decretaal budget; uitvoering 81.703 keuro; 
+een boni van 10.084 keuro in vergelijking met decretaal budget. 
+ 
+De onderbenutting is voornamelijk toe te schrijven aan twee factoren: een 
+lagere facturatie van voorgaande jaren dan initieel geraamd en een netto groei 
+die onder de oorspronkelijke verwachtingen blijft. 
+ 
+− 
+Rolstoeladviesteams (RATS – art. GM0-AGHF2TK-WT) (ESR 34.31): 1.521 
+keuro decretaal budget; uitvoering 1.953 keuro; een mali van 432 keuro in 
+vergelijking met decretaal budget. Reden: hogere stijging van aantal 
+goedgekeurde aanvragen voor een tegemoetkoming rolstoeladviesrapporten. 
+ 
+− 
+Multidisciplinair Overleg (MDO – art. GM0-AGHF2TM-WT) (ESR 34.31): 994 
+keuro decretaal budget; uitvoering 609 keuro; een boni van 385 keuro in 
+vergelijking met decretaal budget. 
+ 
+De ontwikkelingen rond Geïntegreerde Zorg en Ondersteuning schuiven de 
+concepten zorgcoördinatie en casemanagement naar voor. Het is de bedoeling 
+op termijn het MDO-vergoedingssysteem te laten evolueren naar een 
+bijkomende tegemoetkoming voor zorgcoördinatie en voor casemanagement. 
+
+--- page 142 ---
+ 
+142 
+ 
+De zorgaanbieders op het terrein worden in deze evolutie betrokken. Hierdoor 
+heerst er wat onduidelijkheid over het MDO-systeem en het voortbestaan 
+ervan. Dit kan verklaren waarom er minder MDO's plaatsvinden. De MDO's die 
+echter wel doorgaan, zorgen ervoor dat de meest kwetsbaren in de 
+samenleving toch tot een doelgericht, afgestemd en gepland zorgproces 
+komen. 
+ 
+− 
+Revalidatie Ziekenhuizen (REVA Z – art. GM0-AGHF2TN-WT) (ESR 34.31): 
+120.064 keuro decretaal budget; uitvoering 117.478 keuro; een relatieve boni 
+van 2.585 keuro in vergelijking met decretaal budget. 
+ 
+ESR 34.32 (overige sociale uitkeringen – uitkeringen in natura):   
+ 
+- 
+Tegemoetkomingen in de residentiële ouderenzorg: 
+ 
+Detail van de decretaal toegekende budgetten 2025 voor de VSB-pijlers: 
+Totaal na begrotingsaanpassing 2025 en na eventuele herverdelingen uit diverse 
+provisies (index, relance, VIA6) – zie supra zijn deze VSB-pijlers opgenomen 
+respectievelijk voor: 
+ 
+Tegemoetkomingen Ouderenzorg (art. GM0-AGHF2TL-WT) (ESR 34.32): 
+- 
+Woonzorgcentra (WZC) en centra voor kortverblijf (CVK): 2.764.324 
+keuro VAK en VEK; 
+- 
+Centra voor dagverzorging (CDV): 44.992 keuro VAK en VEK. 
+  
+daarnaast op GM0-AGHF2TL-WT nog:   
+- 
+infrastructuurforfait in de ouderenzorg: 35.466 keuro (ESR 52.10) VAK en 
+VEK; 
+- 
+informaticapremies en projecten in de ouderenzorg:  
+o 
+VAK 1.619 keuro (ESR 31.22) en 622 keuro (ESR 32.00); 
+o 
+VEK 1.619 keuro (ESR 31.22) en 3.006 keuro (ESR 32.00); 
+- 
+relanceproject VV045 – Good governance WZC: 479 keuro VEK (ESR 
+34.32); 
+- 
+eindejaarspremies (versterking personeel en kwaliteit ouderenzorg): 
+55.509 keuro VAK en VEK (ESR 34.31). 
+ 
+Residentiële ouderenzorg overige uitgaven (GM0-AGHF2TT-WT): 
+- 
+Subsidie jobstudenten voor woonzorgcentra: 6.000 keuro (ESR 34.32) 
+ 
+Uitvoeringscijfers eind 2025 
+ 
+GM0-AGHF2TL-WT: 
+- 
+Woonzorgcentra (WZC) en centra voor kortverblijf (CVK): 
+2.729.593 keuro (met inbegrip van de diverse geboekte te ontvangen 
+facturen). Een niet gerealiseerd budget van 34.731 keuro in vergelijking 
+met het decretaal budget. 
+Hiermee werd het VEK & VAK budget voor 98,7% benut. Deze minimale 
+niet-realisatie van 1,3% kan worden toegeschreven aan een iets latere 
+realisatie van extra woongelegenheden en een iets lagere effectieve 
+bezettingsgraad. 
+ 
+- 
+Dagverzorgingscentra (DVC): 35.659 keuro VAK & VEK (met inbegrip van 
+de diverse geboekte te ontvangen facturen). 
+ 
+Een niet-gerealiseerd budget van 9.333 keuro VAK & VEK in vergelijking 
+met het decretaal budget.  
+
+--- page 143 ---
+ 
+143 
+ 
+ 
+Dit verschil is te wijten aan een nog openstaande capaciteit van nog toe te 
+kennen bijkomende erkenningen voor centra voor dagverzorging. Aan deze 
+nog te verdelen bijkomende erkenningen is ook een budget voor facturatie 
+van tegemoetkomingen voor zorg gekoppeld. Daarnaast was ook de 
+bezettingsgraad van de centra voor dagverzorging lager dan voorzien. 
+ 
+- 
+informaticapremies en projecten in de ouderenzorg: 1.628 keuro VAK & 
+3.719 keuro VEK (ESR 31.22) 
+ 
+De niet gerealiseerde 905 keuro VAK is enerzijds het gevolg van 613 keuro 
+VAK waarvoor geen projecten werden toegekend en anderzijds het gevolg 
+van projecten waarvan de prestaties nog niet in 2025 werden geleverd. 
+ 
+- 
+relanceproject VV045 – Good governance WZC: 387 keuro VEK. Dit 
+betekent een niet gerealiseerd budget van 92 keuro omwille van projecten 
+waarvan de prestaties nog niet in 2025 werden geleverd.  
+ 
+GM0-AGHF2TT-WT: 
+Van het voorziene budget van 6.000 keuro werd voor de subsidies voor de 
+jobstudenten in de woonzorgcentra, op basis van de criteria het in het besluit van 
+de Vlaamse Regering van 4 juli 2025 (VR 2025 0407 DOC.0580/2BIS), de 
+effectieve toekenning (VAK en VEK) beperkt tot 5.549 keuro. 
+ 
+Tegemoetkomingen Revalidatie Conventies: GM0-AGHF2TO-WT (ESR 34.32): 
+208.817 keuro decretaal budget; uitvoering 208.817 keuro (inclusief te ontvangen 
+facturen); volledige benutting per einde 2025. 
+ 
+Tegemoetkomingen Psychiatrische Verzorgingstehuizen: GM0-AGHF2TP-WT (ESR 
+34.32): 95.663 keuro decretaal budget; uitvoering 96.795 keuro; een mali van 
+1.132 keuro in vergelijking met decretaal budget: reden: facturatie ontvangen in 
+2025 met betrekking tot prestaties voorgaande jaren hoger dan ingeschat. 
+ 
+Tegemoetkomingen Initiatieven Beschut Wonen: GM0-AGHF2TP-WT (ESR 34.32): 
+55.836 keuro decretaal budget; uitvoering 54.704 keuro; relatieve boni van 1.132 
+keuro in vergelijking met decretaal budget 2025. 
+ 
+Tegemoetkomingen Multidisciplinaire Begeleidingsequipes Palliatieve Zorgen: 
+GM0-AHGF2TQ-WT (ESR 34.32, 31.32): 12.766 keuro decretaal budget; uitvoering 
+11.710 keuro; een boni van 1.055 keuro in vergelijking met decretaal budget 2025. 
+ 
+In 2025 werd een afwijking van +/- 8% van het begrote budget vastgesteld. Dit is 
+voornamelijk te verklaren door een ingrijpende sectorhervorming waardoor de 
+forfaitprijzen alsook de bestaande capaciteiten werden bijgesteld. Ook werd, in 
+samenhang met die hervorming, het normale facturatieritme tijdelijk verstoord in 
+2025. Aangezien de hervorming vanaf 2026 grotendeels is afgerond en de 
+forfaitprijzen vanaf 1 januari 2026 werden geactualiseerd, wordt verwacht dat de 
+afwijking uit 2025 zich niet verderzet in 2026. 
+ 
+Te ontvangen facturen: Detail van de voor 2025 geboekte en in VAK/VEK 
+aangerekende en bij controle gevalideerde te ontvangen facturen van de 
+verschillende VSB- pijlers: totaal 105.628 keuro. 
+ 
+TOF facturatie indicatiestellingen 2025 
+S-bladen 15/02/2026 
+648.585,72 
+TOF Indicatiestellingen – prestaties 
+2025 
+1.284.170,39 
+TOF WZC 2025 - Jongdementie 
+380.917,01 
+TOF WZC 2025 – afrekeningen 2025 
+4.104.764,64 
+
+--- page 181 ---
+ 
+181 
+ 
+XV. BIJLAGE ‘OVERZICHT VAN DE AANBEVELINGEN VAN HET REKENHOF’ 
+ 
+ISE woonzorg: 
+ 
+Vlaamse woonzorgcentra - Financiering, 
+financiële 
+stromen 
+en 
+inzet 
+van 
+zorgpersoneel 
+ 
+Aanbeveling 1 – Aan alle types wzc’s een sectorspecifieke boekhouding en 
+rapportering opleggen, met duidelijke instructies over alle rubrieken en eenduidige 
+aanrekeningsregels. Tot nu toe zijn de financiële cijfers van de verschillende wzc’s 
+moeilijk vergelijkbaar wegens het gebruik van verschillende schema’s van 
+jaarrekeningen en verschillen in aanrekeningsregels. Bovendien zijn er bij 
+inrichtende machten met gemengde activiteiten geen publiek beschikbare 
+financiële cijfers op het niveau van het wzc. Richtlijnen formuleren over de 
+rapportering van de financiële stromen met verbonden entiteiten om meer 
+transparantie te bieden over deze financiële stromen. 
+Omschrijving acties 
+Uitvoering 
+gepland 
+tegen 
+Status 
+Toelichting 
+bij 
+de 
+status 
+1 
+Invoering van een  
+sectorspecifieke  
+transparante  
+boekhouding in de  
+residentiële  
+ouderenzorg 
+Eind 2026 
+In uitvoering 
+Deze 
+sectorspecifieke 
+transparante 
+boekhouding doorliep de 
+geplande projectfasering. 
+In 2026 is de rapportering 
+van de financiële cijfers 
+van boekjaar 2025 op het 
+niveau 
+van 
+het 
+woonzorgcentrum 
+verplicht. 
+Er 
+wordt 
+hiervoor 
+opnieuw 
+een 
+opleidingstraject voorzien 
+voor 
+de 
+sector. 
+Voorzieningen 
+dienen 
+deze 
+cijfers 
+via 
+een 
+sjabloon 
+dat 
+ter 
+beschikking wordt gesteld 
+vanuit het departement te 
+bezorgen eind september 
+2026. Gezien het eerste 
+jaar van de verplichting 
+voorzien wij een buffer 
+voor voorzieningen die 
+nog niet indienden of 
+voorzieningen 
+die 
+nog 
+substantiële 
+fouten 
+maakten, waardoor een 
+volledig beeld pas eind 
+2026 verwacht wordt. 
+Aanbeveling 2 – Het basisdossier met informatie over de groepsstructuur van de 
+woonzorgcentra uitwerken, alsook de applicatie om de relevante gegevens op te 
+slaan en te verwerken. 
+Omschrijving acties 
+Uitvoering 
+gepland 
+tegen 
+Status 
+Toelichting 
+bij 
+de 
+status 
+1  
+Administratief 
+basisdossier 
+ 
+Geschrapt 
+Het 
+administratief 
+basisdossier is geschrapt 
+uit de regelgeving. 
+

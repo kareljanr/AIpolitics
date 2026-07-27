@@ -4218,3 +4218,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +1; budgets +12; cmt +1; lb +6; FOI **gap_vl_eerstelijn_impulseo_l5** ready + draft; rq_363=done; spawn **rq_364**; ticks=372
 - FOI: GDF2KA projects + Impulseo multi-year + Impulsfonds stock human send only
 - Next: prio5 **rq_364**; deferred **rq_116** SWA
+
+### 2026-08-01T01:15:00Z - tick 373
+- Unit: **rq_364** (FOI-adjacent hole-fill - **VSB 2025 pillar L5 full matrix**)
+- Found (strong primary BBT WVG BU2025 Orafin AVSB):
+  - VSB toelage begrotingscontrole **EUR 4,021.075m** VEK (fully charged)
+  - **ROZ** residentiele ouderenzorg **2,892.788m** (~72pct)
+  - ZBO **350.488m** · ZZZ **137.083m** · ZPH **25.433m** (sum zorgbudgetten **513.004m**)
+  - RCO **211.396m** · PVT+IBW **153.355m** · RZH **121.603m** · MOHM **101.016m**
+  - AVSB **13.988m** · MBE **12.931m** · MDO **0.994m**
+  - Pillar sum = 4,021.075m exact; dual 2026 agency VEK 4.748bn path prior
+- Wrote: entities +2 (vsb note); sources +1; budgets +13; cmt +1; lb +9; FOI **gap_vsb_provider_l5** ready + draft; rq_364=done; spawn **rq_365**; ticks=373
+- FOI: WZC/provider L5 + BO2026 pillars human send only
+- Next: prio5 **rq_365**; deferred **rq_116** SWA
