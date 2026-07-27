@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T15:30:00Z,rq_248,257,no,Scheduler 60s. Next prio5 rq_249; rq_116 SWA deferred. FOI ready human send. tick257 FIT package 63.1m dual AWEX hub export triple filled.
+main,continuous,hole_fill,2026-07-29T16:00:00Z,rq_249,258,no,Scheduler 60s. Next prio5 rq_250; progress@260 in 2 ticks; rq_116 SWA deferred. FOI ready human send. tick258 WBI 96.4m dual intl.

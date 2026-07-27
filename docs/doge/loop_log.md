@@ -2764,3 +2764,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity FIT; budgets +15; cmt +1; lb +4; FOI gap_fit answered + gap_fit_l5_subsidies ready; draft; raw PDFs; rq_248=done; spawn rq_249; ticks=257
 - FOI: L5 beneficiaries optional human send
 - Next: prio5 **rq_249**; deferred **rq_116** SWA
+
+### 2026-07-29T16:00:00Z — tick 258
+- Unit: **rq_249** (FOI-adjacent hole-fill — **WBI dual international FWB/WAL vs Flanders**)
+- Found (strong primary RA2024 + CdC RD26):
+  - **WBI total liquidation EUR 104.237m** 2024 / **96.448m** 2025.
+  - **FWB subvention** DO14 AB11.4101: **46.742** / **43.945** / **42.945m** 2024 / 2025aju / 2026ini.
+  - CdC RD spending review: options >=10% of FWB 2026 subvention; common lines 50/50 FWB-WAL key.
+  - Dual Flanders: SN Buitenlands Beleid **8.971m** BO2026 (partial; FIT trade 63.1m separate) — scopes differ not additive.
+  - WBI joint FWB+WAL+COCOF cultural/diplomatic/cooperation stack.
+- Wrote: sources +2; entity wbi; budgets +6; cmt +1; lb +3; FOI gap_wbi_wal_contribution ready; draft; raw PDFs; rq_249=done; spawn rq_250 progress@260; ticks=258
+- FOI: WAL WBI contribution human send
+- Next: prio5 **rq_250**; **progress@260 in 2 ticks**; deferred **rq_116** SWA

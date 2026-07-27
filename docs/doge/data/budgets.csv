@@ -2764,3 +2764,9 @@ bud_fit_bezoldigingen_2025,fit_flanders,2025,37800000,,,outturn,src_fit_jaarreke
 bud_fit_bezoldigingen_2024,fit_flanders,2024,37113000,,,outturn,src_fit_jaarrekening_2025,strong,Bezoldigingen 37.113m 2024
 bud_fit_diensten_2025,fit_flanders,2025,20695000,,,outturn,src_fit_jaarrekening_2025,strong,Diensten en diverse goederen 20.695m 2025
 bud_fit_andere_kosten_2025,fit_flanders,2025,11733000,,,outturn,src_fit_jaarrekening_2025,strong,Andere bedrijfskosten 11.733m 2025
+bud_wbi_total_liq_2024,wbi,2024,104237000,,,budgeted,src_wbi_rapport_2024,strong,RA2024: budget en liquidation 104.237m 2024
+bud_wbi_total_liq_2025,wbi,2025,96448000,,,budgeted,src_wbi_rapport_2024,strong,RA2024: budget en liquidation 96.448m 2025 (-7.5pct vs 2024)
+bud_wbi_fwb_dot_2024,wbi,2024,46742000,,,budgeted,src_cdc_rd26_wbi_fwb_dot,strong,CdC RD26: DO14 AB11.4101 FWB subvention 46.742m 2024
+bud_wbi_fwb_dot_2025,wbi,2025,43945000,,,budgeted,src_cdc_rd26_wbi_fwb_dot,strong,CdC: FWB subvention 43.945m 2025 AJU
+bud_wbi_fwb_dot_2026,wbi,2026,42945000,,,budgeted,src_cdc_rd26_wbi_fwb_dot,strong,CdC: FWB subvention 42.945m 2026 INI; RD targets >=10pct savings options
+bud_vl_dkbuza_sn_bbt_2026,vlaanderen_gov,2026,8971000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,BBT Diependaele: Programma SN Buitenlands Beleid 8.971m VAK/VEK 2026; dual WBI scope smaller partial (FIT trade separate)
