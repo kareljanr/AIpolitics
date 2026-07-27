@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T05:45:00Z,rq_277,286,no,Scheduler 60s. Next prio5 rq_278; rq_116 SWA deferred. FOI ready human send. tick286 SCK 292m dual nuclear.
+main,continuous,hole_fill,2026-07-30T06:15:00Z,rq_278,287,no,Scheduler 60s. Next prio5 rq_279; rq_116 SWA deferred. FOI ready human send. tick287 MYRRHA 550m SMR 100m.

@@ -3121,3 +3121,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entity sck_cen; budgets +29; cmt +1; lb +5; FOI gap_sck_dotatie ready; draft; chart extracts; rq_277=done; spawn rq_278; ticks=286
 - FOI: SCK general vs mission cash human send; AGMJ residual still ready
 - Next: prio5 **rq_278**; deferred **rq_116** SWA
+
+### 2026-07-30T06:15:00Z - tick 287
+- Unit: **rq_278** (FOI-adjacent hole-fill - **MYRRHA/MINERVA envelope + SMR + SCK FPS lines**)
+- Found (strong primary Kamer 55K2933/016 FOD Economie Energie justification):
+  - **MYRRHA structural envelope >EUR 550m 2019-2038** (CM Sept 2018).
+  - Phase1 IVZW BA 42.50.41.40.12: **32.6 / 20.4 / 17.4 / 8.1 / 7.9 / 6.4m** 2022-27.
+  - Parts 2-3 SCK BA 42.50.41.40.07: **43.6 / 10.5 / 7.6 / 7.8 / 1.8 / 1.7m** 2021-26.
+  - **SCK werkingsdotatie BA 42.50.41.40.05: 54.1m** path 2024-27 (55.5m 2023).
+  - **SMR-LFR**: CM text **25m/yr 2023-26** (100m); BA eng **50m** 2022 / liq **12.5m** 2023-25 / **21.5m** 2026 (wedge residual).
+  - SCK invest line ~**4.1m/yr**.
+- Wrote: sources +1; entity myrrha_ivzw; budgets +25; cmt +3; lb +5; FOI gap_myrrha_belspo ready; draft; raw Kamer PDF; rq_278=done; spawn rq_279; ticks=287
+- FOI: Belspo MYRRHA + SMR full cash human send; gap_sck note updated partial fill
+- Next: prio5 **rq_279**; deferred **rq_116** SWA

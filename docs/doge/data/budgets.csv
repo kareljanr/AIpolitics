@@ -3212,3 +3212,28 @@ bud_sck_eigen_inkomsten_2024_class,sck_cen,2024,124353000,,,estimate,src_sck_fin
 bud_sck_spec_be_opdrachten_2024_class,sck_cen,2024,87612000,,,estimate,src_sck_financiering_page,medium,Specifieke Belgische opdrachten ~31pct of 282.620m 2024 class MYRRHA RECUMO SMR
 bud_sck_algemene_dotatie_2024_class,sck_cen,2024,59350000,,,estimate,src_sck_financiering_page,medium,Algemene werkingsdotatie ~21pct of 282.620m 2024 class; FOI exact cash
 bud_sck_eu_projects_2024_class,sck_cen,2024,11305000,,,estimate,src_sck_financiering_page,medium,Europese projecten ~4pct of 282.620m 2024 class
+bud_sck_werking_fps_2021,sck_cen,2021,53720000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.05 werkingsdotatie 53.720m eng=liq
+bud_sck_werking_fps_2022,sck_cen,2022,55843000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.05 55.843m
+bud_sck_werking_fps_2023,sck_cen,2023,55493000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.05 55.493m
+bud_sck_werking_fps_2024,sck_cen,2024,54081000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.05 54.081m
+bud_sck_werking_fps_2025,sck_cen,2025,54081000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.05 54.081m path 2025-27
+bud_sck_werking_fps_2026,sck_cen,2026,54081000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.05 54.081m
+bud_myrrha_p1_ivzw_2022,myrrha_ivzw,2022,32600000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.12 MYRRHA phase1 construction IVZW 32.600m
+bud_myrrha_p1_ivzw_2023,myrrha_ivzw,2023,20350000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.12 20.350m
+bud_myrrha_p1_ivzw_2024,myrrha_ivzw,2024,17350000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.12 17.350m
+bud_myrrha_p1_ivzw_2025,myrrha_ivzw,2025,8050000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.12 8.050m
+bud_myrrha_p1_ivzw_2026,myrrha_ivzw,2026,7900000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.12 7.900m
+bud_myrrha_p1_ivzw_2027,myrrha_ivzw,2027,6350000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.12 6.350m
+bud_myrrha_p23_sck_2021,sck_cen,2021,43627000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.07 MYRRHA parts2-3 SCK 43.627m
+bud_myrrha_p23_sck_2022,sck_cen,2022,10490000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.07 10.490m
+bud_myrrha_p23_sck_2023,sck_cen,2023,7600000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.07 7.600m
+bud_myrrha_p23_sck_2024,sck_cen,2024,7750000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.07 7.750m
+bud_myrrha_p23_sck_2025,sck_cen,2025,1750000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.07 1.750m
+bud_myrrha_p23_sck_2026,sck_cen,2026,1650000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.41.40.07 1.650m
+bud_smr_fps_eng_2022,sck_cen,2022,50000000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.31.32.01 SMR engagement 50.000m 2022
+bud_smr_fps_liq_2023,sck_cen,2023,12500000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.31.32.01 SMR liquidation 12.500m; text CM 25m/yr 2023-26 residual other BAs
+bud_smr_fps_liq_2024,sck_cen,2024,12500000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.31.32.01 12.500m liq
+bud_smr_fps_liq_2025,sck_cen,2025,12500000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.31.32.01 12.500m liq
+bud_smr_fps_liq_2026,sck_cen,2026,21500000,,,budgeted,src_kamer_55k2933_016_sck,strong,BA 42.50.31.32.01 21.500m liq
+bud_sck_invest_fps_recurring,sck_cen,2023,4111000,,,budgeted,src_kamer_55k2933_016_sck,strong,SCK investment subsidy line ~4.111m/yr path in justification
+bud_myrrha_envelope_2019_38,myrrha_ivzw,2019,550000000,,,commitment,src_kamer_55k2933_016_sck,strong,CM Sept2018 structural financing >550m EUR 2019-2038 MINERVA invest+ops; amount is envelope floor
