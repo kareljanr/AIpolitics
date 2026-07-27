@@ -1615,3 +1615,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 26; cmt 2; lb 3; FOI gaps vipa+de_lijn notes; rq_162=done; seeded **rq_163**.
 - FOI: named VIPA L5 + full De Lijn toelage still **ready** human send.
 - Next: prio5 **rq_163**; deferred **rq_116** SWA.
+
+### 2026-07-28T06:05:00Z — tick 168
+- Unit: **rq_163** (FOI-adjacent hole-fill — **CREG AR2025 offshore support + nuclear repartition**)
+- Found (strong primary CREG Rapport annuel 2025 FR, 92 pp):
+  - **Offshore total support 2025: EUR 538.5m** = GC purchase **456.24m** + advances **82.26m**.
+  - Production: inject **6 780 GWh** (vs 7 054 in 2024); net certified **6 912 GWh**.
+  - Parks GC: C-Power Belwind Northwind Nobelwind Norther Rentel Northwester2; advances: Northwester2 Mermaid Seastar (**regime ended 2025**).
+  - Dual series residual: prior CREG 179.4m 2023 different perimeter; NBB ESA **592m 2024**.
+  - Bonus L5: nuclear contribution de répartition **Electrabel 152.5m + Luminus 8.8m = 161.3m 2025**.
+- Mons BI2026 still not online (only 2025 ord/extra PDFs); Antwerp full register still FOI.
+- Wrote: sources 1; budgets 10; cmt 2; lb 2; gap_offshore notes partial; rq_163=done; seeded **rq_164**.
+- FOI: gap_offshore residual multi-year same-method + NBB reconcile still **ready** human send.
+- Next: prio5 **rq_164**; deferred **rq_116** SWA.

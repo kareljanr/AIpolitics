@@ -1581,3 +1581,13 @@ bud_de_lijn_mow_punctual_save_2026,de_lijn,2026,30000000,,,budgeted,src_vl_mjr_2
 bud_de_lijn_vek_peak_2027,de_lijn,2027,145400000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-VEK peak +145.4m 2027 (e-bus delivery calendar)
 bud_de_lijn_vek_peak_2028,de_lijn,2028,59100000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-VEK +59.1m 2028 vs path
 bud_de_lijn_vek_actualisatie_2026,de_lijn,2026,-61325000,,,budgeted,src_vl_begroting_publicatie_2026,strong,De Lijn Actualisatie VEK-kalender -61.325m BO2026 publication
+bud_offshore_support_total_2025,sec_federal,2025,538500000,,,outturn,src_creg_ar2025,strong,CREG total offshore wind support cost 538.5m 2025 (GC+advances)
+bud_offshore_gc_cost_2025,sec_federal,2025,456240000,,,outturn,src_creg_ar2025,strong,Federal green certificates granted offshore parks 456.24m 2025 (7 parks listed)
+bud_offshore_advances_2025,sec_federal,2025,82260000,,,outturn,src_creg_ar2025,strong,Offshore advances system 82.26m 2025 (Northwester2 Mermaid Seastar); regime ended 2025
+bud_offshore_prod_gwh_inject_2025,sec_federal,2025,6780,,,outturn,src_creg_ar2025,strong,Offshore net injection to grid 6780 GWh 2025 (7054 GWh 2024)
+bud_offshore_prod_gwh_inject_2024,sec_federal,2024,7054,,,outturn,src_creg_ar2025,strong,Offshore net injection 7054 GWh 2024
+bud_offshore_prod_gwh_net_cert_2025,sec_federal,2025,6912,,,outturn,src_creg_ar2025,strong,Offshore certified net production before transform 6912 GWh 2025
+bud_offshore_support_per_mwh_2025,sec_federal,2025,77.9,,,outturn,src_creg_ar2025,medium,Implied support EUR/MWh 538.5m/6912 GWh ~77.9 (order of magnitude)
+bud_nuclear_contrib_electrabel_2025,sec_federal,2025,152517984.5,,,budgeted,src_creg_ar2025,strong,Contribution de repartition Electrabel 152.518m 2025 (AR 12 Oct 2025 after CREG avis)
+bud_nuclear_contrib_luminus_2025,sec_federal,2025,8821247.28,,,budgeted,src_creg_ar2025,strong,Contribution de repartition Luminus 8.821m 2025
+bud_nuclear_contrib_total_2025,sec_federal,2025,161339231.78,,,budgeted,src_creg_ar2025,strong,Nuclear redistribution contribution sum Electrabel+Luminus 161.3m 2025
