@@ -3731,3 +3731,10 @@ bud_ksc_fte_2023,kansspelcommissie,2023,39.3,,,outturn,src_ksc_jaarverslag_2024,
 bud_ksc_fte_2024,kansspelcommissie,2024,38.3,,,outturn,src_ksc_jaarverslag_2024,strong,Secretariat FTE eoy2024 38.3 vs personnel plan 57 VTE 2021-25; later 32.8 at publication
 bud_ksc_fte_plan_target,kansspelcommissie,2025,57,,,budgeted,src_ksc_jaarverslag_2024,strong,Personnel plan 2021-2025 target 57 FTE not achieved
 bud_ksc_play_limit_uplifts_2024,kansspelcommissie,2024,285783,,,outturn,src_ksc_jaarverslag_2024,strong,Persons who raised online play limit eoy2024 285783 monthly NBB rechecks required
+bud_gba_werkings_2023,gba_apd,2023,13274000,,,outturn,src_gba_jaarverslag_2024_25,strong,AR2024: werkingskredieten 13.274m 2023 (Belgian notation 13.274.00 = 13.274.000; +13.85pct to 2024 confirms)
+bud_gba_werkings_2024,gba_apd,2024,15112565,,,outturn,src_gba_jaarverslag_2024_25,strong,AR2024 exact: 15.112.56538 EUR werkingskredieten 2024
+bud_gba_werkings_2025,gba_apd,2025,15299846,,,outturn,src_gba_jaarverslag_2024_25,strong,AR2025 exact: 15.299.84555 EUR werkingskrediet 2025 (+1.24pct)
+bud_gba_dotatie_2024,gba_apd,2024,14002000,,,budgeted,src_gba_jaarverslag_2024_25,strong,AR2024: eigenlijke dotatie 14.002.000 EUR; remainder from carried boni/reserves
+bud_gba_toewijzing_2025,gba_apd,2025,12669000,,,budgeted,src_gba_jaarverslag_2024_25,strong,AR2025: eigenlijke toewijzing 12.669.000 EUR; rest from overgedragen reserves; -9.5pct vs 2024 dotatie
+bud_gba_staff_2024,gba_apd,2024,84,,,outturn,src_gba_jaarverslag_2024_25,strong,Headcount eoy2024 84 medewerkers vs 68 eoy2023 (+23.5pct); not EUR
+bud_gba_staff_2025,gba_apd,2025,96,,,outturn,src_gba_jaarverslag_2024_25,strong,Headcount eoy2025 96 medewerkers vs 84 (+12pct); not EUR

@@ -3316,3 +3316,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity kansspelcommissie; budgets +7; cmt +2; lb +3; FOI gap_ksc_accounts ready; draft; raw AR PDF; rq_294=done; spawn rq_295; ticks=303
 - FOI: full KSC P&L human send
 - Next: prio5 **rq_295**; deferred **rq_116** SWA
+
+### 2026-07-30T14:45:00Z - tick 304
+- Unit: **rq_295** (FOI-adjacent hole-fill - **GBA Gegevensbeschermingsautoriteit AR2024+2025**)
+- Found (strong primary GBA Jaarverslag 2024 + 2025):
+  - Werkingskredieten **EUR 13.274m (2023) / 15.112.565 (2024) / 15.299.846 (2025)**.
+  - Dotatie/toewijzing **14.002m (2024) -> 12.669m (2025)** (-9.5pct); gap filled by carried reserves/boni.
+  - Staff **68 eoy2023 / 84 eoy2024 / 96 eoy2025** (+41pct over 2y).
+  - Dual digital package: BMA ~9.1m + BIPT ~80m + CCB/COC already mapped.
+  - Core GDPR infrastructure (not pure waste); financing mix sustainability note.
+- Wrote: sources +1; entity gba_apd; budgets +7; cmt +2; lb +3; FOI gap_gba_accounts_l5 ready; draft; raw ARs; rq_295=done; spawn rq_296; ticks=304
+- FOI: GBA L5 P&L + reserve path human send
+- Next: prio5 **rq_296** (Federale Ombudsman deepen candidate); deferred **rq_116** SWA

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T14:15:00Z,rq_294,303,no,Scheduler 60s. Next prio5 rq_295; rq_116 SWA deferred. FOI ready. tick303 KSC fee-financed ~8.1m class + NBB 454k.
+main,continuous,hole_fill,2026-07-30T14:45:00Z,rq_295,304,no,Scheduler 60s. Next prio5 rq_296; rq_116 SWA deferred. FOI ready. tick304 GBA privacy regulator ~15.1-15.3m + staff 96.
