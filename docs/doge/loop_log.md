@@ -2752,3 +2752,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities visitwallonia + tourisme_wallonie; budgets +9; cmt +3; lb +4; raw PDFs; rq_247=done; spawn rq_248; ticks=256
 - FOI: none new (material euros sourced); prior Visit full + FIT still human send
 - Next: prio5 **rq_248**; deferred **rq_116** SWA
+
+### 2026-07-29T15:30:00Z — tick 257
+- Unit: **rq_248** (FOI-adjacent hole-fill — **FIT dual AWEX export package**)
+- Found (strong primary BBT SP Diependaele 2026 + JR2025 pfile 2321600):
+  - **FIT BO2026 package VEK EUR 63.142m** = werkingsdotatie **52.713m** + subsidiedotatie VEK **10.429m** (VAK sub 10.642m).
+  - Werkings -800k Expo Osaka; subsidie VEK -1.089m uitrustingsgoederen.
+  - **JR2025**: bedrijfsopbrengsten **71.867m** (2024: 70.314); bedrijfskosten **70.948m** (2024: 76.070); bezoldigingen **37.800m**; omzet 4.401m.
+  - Dual/triple export: AWEX **76.843m** 2026 | FIT package **63.1m** | hub.brussels **46.166m** 2024 (years differ — not additive).
+  - gap_fit_budget_2026 totals **answered**; residual L5 FOI optional ready.
+- Wrote: sources +2; entity FIT; budgets +15; cmt +1; lb +4; FOI gap_fit answered + gap_fit_l5_subsidies ready; draft; raw PDFs; rq_248=done; spawn rq_249; ticks=257
+- FOI: L5 beneficiaries optional human send
+- Next: prio5 **rq_249**; deferred **rq_116** SWA

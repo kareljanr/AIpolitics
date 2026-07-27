@@ -2749,3 +2749,18 @@ bud_visitwallonia_subvention_2025,visitwallonia,2025,12934000,,,budgeted,src_wal
 bud_visitwallonia_global_dep_2026,visitwallonia,2026,15400000,,,budgeted,src_wal_bud37_visitwallonia_2026,strong,bud37 OIP: depenses globales 15.4m initial 2026 no BA adjustment; > regional subvention 13.054m
 bud_wal_crac_tourisme_2026,wallonie_gov,2026,4000000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,DF 018.002 CRAC tourisme financement alternatif 4.000m (was 7.854m 2025)
 bud_wal_crac_tourisme_2025,wallonie_gov,2025,7854000,,,budgeted,src_wal_ep_lescrenier_tourisme_2026,strong,CRAC tourisme 2025 ini 7.854m
+bud_fit_werkingsdotatie_bo2026,fit_flanders,2026,52713000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,BBT SP: werkingsdotatie FIT 52.713m VAK=VEK 2026; -800k Expo Osaka vs prior
+bud_fit_subsidiedotatie_vak_bo2026,fit_flanders,2026,10642000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,BBT SP: subsidiedotatie VAK 10.642m 2026 (bedrijven + partner org)
+bud_fit_subsidiedotatie_vek_bo2026,fit_flanders,2026,10429000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,BBT SP: subsidiedotatie VEK 10.429m 2026; -1.089m uitrustingsgoederen schrapping
+bud_fit_package_vak_bo2026,fit_flanders,2026,63355000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,Derived: werkings 52.713 + subsidie VAK 10.642 = 63.355m package VAK
+bud_fit_package_vek_bo2026,fit_flanders,2026,63142000,,,budgeted,src_vl_bbt_fit_sp_2026,strong,Derived: werkings 52.713 + subsidie VEK 10.429 = 63.142m package VEK; dual AWEX 76.8m
+bud_fit_opbrengsten_2025,fit_flanders,2025,71867000,,,outturn,src_fit_jaarrekening_2025,strong,JR2025: bedrijfsopbrengsten 71.867m (kEUR table x1000); was 70.314m 2024
+bud_fit_opbrengsten_2024,fit_flanders,2024,70314000,,,outturn,src_fit_jaarrekening_2025,strong,JR2025 prior year bedrijfsopbrengsten 70.314m
+bud_fit_andere_opbrengsten_2025,fit_flanders,2025,67214000,,,outturn,src_fit_jaarrekening_2025,strong,Andere bedrijfsopbrengsten 67.214m (mainly VL toelage class)
+bud_fit_omzet_2025,fit_flanders,2025,4401000,,,outturn,src_fit_jaarrekening_2025,strong,Omzet 4.401m 2025
+bud_fit_bedrijfskosten_2025,fit_flanders,2025,70948000,,,outturn,src_fit_jaarrekening_2025,strong,Bedrijfskosten 70.948m 2025 (was 76.070m 2024)
+bud_fit_bedrijfskosten_2024,fit_flanders,2024,76070000,,,outturn,src_fit_jaarrekening_2025,strong,Bedrijfskosten 76.070m 2024
+bud_fit_bezoldigingen_2025,fit_flanders,2025,37800000,,,outturn,src_fit_jaarrekening_2025,strong,Bezoldigingen sociale lasten pensioenen 37.800m 2025 (~53pct of costs)
+bud_fit_bezoldigingen_2024,fit_flanders,2024,37113000,,,outturn,src_fit_jaarrekening_2025,strong,Bezoldigingen 37.113m 2024
+bud_fit_diensten_2025,fit_flanders,2025,20695000,,,outturn,src_fit_jaarrekening_2025,strong,Diensten en diverse goederen 20.695m 2025
+bud_fit_andere_kosten_2025,fit_flanders,2025,11733000,,,outturn,src_fit_jaarrekening_2025,strong,Andere bedrijfskosten 11.733m 2025

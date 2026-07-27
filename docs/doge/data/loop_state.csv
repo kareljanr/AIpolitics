@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T15:00:00Z,rq_247,256,no,Scheduler 60s. Next prio5 rq_248; rq_116 SWA deferred. FOI ready human send. tick256 VISITWallonia 15.4m TW 48.6m dual tourism triple.
+main,continuous,hole_fill,2026-07-29T15:30:00Z,rq_248,257,no,Scheduler 60s. Next prio5 rq_249; rq_116 SWA deferred. FOI ready human send. tick257 FIT package 63.1m dual AWEX hub export triple filled.
