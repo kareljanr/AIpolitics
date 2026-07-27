@@ -20,43 +20,43 @@
 
 ---
 
-## Snapshot at **tick 360** (2026-07-31)
+## Snapshot at **tick 370** (2026-07-31)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~93–98%** (order of magnitude) | Up from ~92–98% @350: dual hole-fill sprint ticks 351–359 — **heritage OE/AWaP**, **agri VL/OPW ~234m**, **nature ANB/WAL ~179m**, **waste OVAM/SPAQuE ~116m**, **energy VEKA/WAL ~€1.34bn**, **integration AgII/ILI ~120m**, **vocational Syntra/IFAPME ~138m**, **culture VL/FWB ~794m**, **youth recreational ~140m**; prior FWO/FNRS/AWV/sport retained |
-| **D. L5 named end-receivers** | **~18–29%** of TE (generous) | Slight uptick: IFAPME L5 lines strong; FWB culture programme split; VL Kunsten/SCW/Erfgoed envelopes; youth decree lines; residual top-N operators still FOI across duals |
-| **E. FOI-ready gaps** | **~170** drafts ready | Human send only; answered **~5**; total FOI rows **~176** |
+| **C. L2 entity totals** | **~94–98%** (order of magnitude) | Up from ~93–98% @360: **childcare dual ~€2.32bn** (VL KO €1.56bn + ONE €761m); **youth protection dual ~€1.44bn** (ISE Jeugdhulp €969m + FWB AJ €471m); adult EPA €268m; PSB dual €647m ordinary; popular edu €128m; territorial culture €83m; WVG ISE pack CAW/GGZ/armoede/preventie |
+| **D. L5 named end-receivers** | **~19–30%** of TE (generous) | Uptick: CGG €102.5m + OPZ €28m named; CAW €130m aggregate; armoede GCF2CA L5 (samenlevingsopbouw €13.8m, verenigingen €4.5m); preventie GDF2JA ramingen (vaccins €29m partners €19.5m); residual per-centre/org still FOI |
+| **E. FOI-ready gaps** | **~178** drafts ready | Human send only; answered **~5**; total FOI rows **~185** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **Tax Shelter AV package €255m 2023**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock**; **SOFICO PKPL €347m** user-fee; **RDI fiscal incentives ~€2.0–2.2 bn** class; multi-year space/CM25 envelopes. CoA consultancy **€2.52 bn / 3y** (~**€0.84 bn/yr**) remains procurement-opacity seed. Dual class composites (energy 1.34bn, culture 794m, etc.) are **not TE-additive**.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **Tax Shelter AV package €255m 2023**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock**; dual class composites (**childcare €2.32bn**, energy €1.34bn, youth protect €1.44bn, culture €794m, etc.) are **not TE-additive**.
 
-### Inventory (tick 360)
+### Inventory (tick 370)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~4420 |
-| commitments.csv | ~641 |
-| leaderboard.csv | ~793 |
-| entities.csv | ~320 |
-| sources.csv | ~666 |
-| FOI ready | ~170 |
+| budgets.csv | ~4552 |
+| commitments.csv | ~651 |
+| leaderboard.csv | ~838 |
+| entities.csv | ~338 |
+| sources.csv | ~698 |
+| FOI ready | ~178 |
 | FOI answered | ~5 |
-| FOI total rows | ~176 |
-| research_queue | ~352 (open: rq_116 deferred + next hole-fill after progress) |
+| FOI total rows | ~185 |
+| research_queue | ~357 (open: rq_116 deferred + next hole-fill after progress) |
 
-### What improved since tick 350
+### What improved since tick 360
 
-- **Heritage dual:** OE VEK ~€128m · AWaP path · dual class ~€174m (tick351).  
-- **Agriculture dual:** VL Landbouw VEK ~€141m · WAL OPW/aides class · dual ~€234m (tick352).  
-- **Nature dual:** ANB + WAL nature awards · dual ~€179m (tick353).  
-- **Waste dual:** VL ISE Afval €106m · SPAQuE €24m · dual ~€116m (tick354).  
-- **Energy dual:** VL E&K VEK €1.105bn · WAL Kyoto €158m + Energie · dual ~€1.34bn (tick355).  
-- **Integration dual:** VL Inburgering VEK €117m · AgII €65m · WAL ILI/CRI thin · dual ~€120m (tick356).  
-- **Vocational dual:** Syntra €49.7m · IFAPME €88.3m L5 · dual ~€138m (tick357).  
-- **Culture dual:** VL content ~€426m · FWB DO20 CL €367m · dual ~€794m (tick358).  
-- **Youth recreational dual:** VL Jeugd ISE €72.5m · FWB DO23 Jeunesse CL €67.1m · dual ~€140m; **excludes** AJ DO17 €471m protection (tick359).  
+- **Adult formal edu dual:** FWB DO56 EPA **€267.5m** + artistique/VO residual (tick361).  
+- **Territorial culture dual:** FWB prog7 **€67.4m** + VL bovenlokaal **€15.5m** · dual ~€83m (tick362).  
+- **PSB dual 2026:** RTBF package **€389m** · VRT base **€296m** · ordinary dual **€647m** (tick363).  
+- **Popular/civic edu dual:** VL SCW **€83.1m** · FWB EP **€44.6m** · dual ~€128m (tick364).  
+- **Childcare dual (largest community dual):** VL KO **€1,557.7m** · ONE **€760.8m** · dual ~**€2.32bn** (tick365).  
+- **Youth protection dual:** VL ISE Jeugdhulp BU VEK **€969.1m** · FWB AJ **€470.6m** · dual ~**€1.44bn** (tick366).  
+- **Welzijnswerk/CAW:** ISE **€160m** · CAW **€130.1m** (tick367).  
+- **GGZ L5:** ISE gespec **€146m** · CGG **€102.5m** · OPZ **€28.0m** (tick368).  
+- **Armoede + Preventie L5:** Armoede ISE BA **€46.5m**/BU **€28.8m** · Preventie BA **€103.6m**/BU **€80.4m** · GCF2CB under-exec noted (tick369).  
 
 ---
 
@@ -88,4 +88,5 @@
 | 330 | 100% | 100% | ~90–97% | ~16–26% | ~145 | Listed SOEs + lottery + culture + Belnet + BELSPO class |
 | 340 | 100% | 100% | ~91–98% | ~16–27% | ~153 | Belspo AR582m + CM25 space dual MoD + P4S/S4P/STEREO + EUMETSAT |
 | 350 | 100% | 100% | ~92–98% | ~17–28% | ~161 | AV dual+triple + Tax Shelter TE + sport dual + FWO/FNRS 712m + AWV/SOFICO + OE heritage |
-| **360** | **100%** | **100%** | **~93–98%** | **~18–29%** | **~170** | **Current** (dual sprint: heritage/agri/nature/waste/energy/integration/vocational/culture/youth) |
+| 360 | 100% | 100% | ~93–98% | ~18–29% | ~170 | Dual sprint: heritage/agri/nature/waste/energy/integration/vocational/culture/youth |
+| **370** | **100%** | **100%** | **~94–98%** | **~19–30%** | **~178** | **Current** (childcare €2.32bn + youth protect €1.44bn + WVG L5 CAW/GGZ/armoede/preventie) |

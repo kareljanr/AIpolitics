@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T23:15:00Z,rq_360,369,no,Scheduler 60s. Next prio5 rq_361; rq_116 SWA deferred. FOI ready. tick369 armoede+preventie L5.
+main,continuous,hole_fill,2026-07-31T23:45:00Z,rq_361,370,no,Scheduler 60s. Next prio5 rq_362; rq_116 SWA deferred. FOI ready. tick370 progress @370.

@@ -4176,3 +4176,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3; sources +1; budgets +26; cmt +2; lb +7; FOI **gap_vl_armoede_prev_l5** ready + draft; rq_360=done; spawn **rq_361**; ticks=369
 - FOI: named L5 + under-exec cash path human send only
 - Next: prio5 **rq_361**; deferred **rq_116** SWA
+
+### 2026-07-31T23:45:00Z - tick 370
+- Unit: **rq_361** (**progress milestone @370** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~94-98%** (up from ~93-98% @360) - childcare dual **~2.32bn** + youth protect **~1.44bn** + WVG ISE pack
+  - **D L5:** **~19-30%** generous (CGG 102.5m OPZ 28m CAW 130m armoede/preventie named; residual FOI)
+  - **E FOI ready:** **~178** (answered ~5; total FOI rows ~185)
+- Inventory: budgets ~4552 - cmt ~651 - lb ~838 - entities ~338 - sources ~698
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT mega items
+- Dual-class map refreshed: childcare 2.32bn, youth protect 1.44bn, energy 1.34bn, culture 794m, PSB 647m, ...
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_361=done; spawn **rq_362**; ticks=370
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_362** hole-fill; deferred **rq_116** SWA
