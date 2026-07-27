@@ -4561,3 +4561,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~60; cmt +6; lb +8; FOI **gap_ipp_reform_aurora_l5** + **gap_cgt_method_l5** ready; rq_389=done; spawn **rq_390**; ticks=398
 - FOI: IPP Aurora L5 + CGT method human send only
 - Next: prio5 **rq_390**; **progress@400** mandatory next+2; deferred **rq_116** SWA
+
+### 2026-08-01T14:15:00Z - tick 399
+- Unit: **rq_390** (FOI-adjacent hole-fill - **Entity I SEC overview 244.1/268.7 deficit 24.6 + taxex inventory + conclave package**)
+- Found (strong primary CoA Budget 2026 Part I Entity I):
+  - Entity I **rec 244.1bn** / **dep 268.7bn** / **deficit 24.6bn** (-3.7pct GDP)
+  - Tax **141.9** · SSC **86.1** (reductions **5.5** excl Maribel) · third-party **22.2**
+  - Social **155.5bn** (57.9pct): SS prest **135.5** · pens **72** · health **41.3** · indemn **15.9** · chom **3.9** (-31.5pct)
+  - Transfers own **66.5** (federated **59.1** · EU GNI **~5** +30pct) · eco **9.6** (rail 3.4 energy 1.5 ESA 0.41 bpost 0.155) · authority **23.2** (Defence 9.5)
+  - Interest **12.2bn** (1.84pct GDP) path **17.8** / 2.5pct; taxex GG **39.4** / fed **29.7** (social 18.6 VAT6 10.6)
+  - Conclave improve **~1.6bn** 2026 (fiscal net 1.6 · spend control 421 · cohesion cost 567 · social economy **50**/yr)
+- Wrote: sources +1; budgets ~65; cmt +5; lb +8; FOI **gap_entity1_functional_l5** + **gap_social_economy_50m_l5** ready; rq_390=done; spawn **rq_391 progress@400**; ticks=399
+- FOI: Entity I workbook + social economy places human send only
+- Next: **MANDATORY progress@400 rq_391**; deferred **rq_116** SWA

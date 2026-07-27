@@ -5604,3 +5604,68 @@ bud_vat_heatpump_2026,fod_finance,2026,-10100000,,,budgeted,src_ccrek_budget2026
 bud_meal_voucher_reform_2026,fod_finance,2026,-55800000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Meal voucher face to 10EUR fiscal cost -55.8m FPS (expose -75.5)
 bud_auto_green_cost_2026,fod_finance,2026,58300000,,,estimate,src_ccrek_budget2026_fiscal_ipp,weak,Auto greening CIT cost 58.3m 2026 (2021 FPS est not in budget; not updated)
 bud_min_tax_roles_2026,fod_finance,2026,32200000,,,budgeted,src_ccrek_budget2026_fiscal_ipp,medium,Minimum tax additional roles 32.2m 2026 (75.2m 2025; OECD side-by-side risk)
+bud_entity1_rec_sec_2026,sec_federal,2026,244100000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I SEC receipts 244.1bn 2026 (gross 266.3 minus 22.2 third-party)
+bud_entity1_rec_gross_2026,sec_federal,2026,266300000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I gross receipts 266.3bn incl 22.2bn for other powers (regional additionals EU own)
+bud_entity1_third_party_2026,sec_federal,2026,22200000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Receipts for account of third parties 22.2bn 2026
+bud_entity1_tax_rec_2026,sec_federal,2026,141900000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I fiscal receipts 141.9bn 2026 (58.1pct; excl most taxex)
+bud_entity1_ssc_rec_2026,sec_ss,2026,86100000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I social contributions 86.1bn 2026 after reductions (reductions 5.5bn excl Maribel)
+bud_entity1_ssc_reductions_2026,sec_ss,2026,5500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,SSC reductions 5.5bn 2026 excl Maribel social (dual ONSS pack 5.17)
+bud_entity1_dep_sec_2026,sec_federal,2026,268700000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I SEC expenditure consolidated 268.7bn 2026
+bud_entity1_deficit_2026,sec_federal,2026,24600000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I financing deficit 24.6bn 2026 (-3.7pct GDP; -0.1pp vs 2025)
+bud_entity1_social_dep_2026,sec_federal,2026,155500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I social policy broad 155.5bn 2026 (57.9pct dep; excl taxex social 18.6bn 2023)
+bud_entity1_ss_prest_2026,sec_ss,2026,135500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,SS regime prestations 135.5bn 2026 (+2pct; below nominal GDP 3pct)
+bud_entity1_ss_prest_ex_chom_growth,sec_ss,2026,0.035,,,estimate,src_ccrek_budget2026_entity1_overview,strong,SS prest excl chomage grow +3.5pct 2026; amount_eur blank rate
+bud_entity1_chomage_2026,rva,2026,3900000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Chomage allocations Entity I path 3.9bn 2026 (-1.8bn -31.5pct vs 5.7bn prior)
+bud_entity1_indemnites_2026,riziv,2026,15900000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Indemnites incapacity 15.9bn 2026 (+4.8pct)
+bud_entity1_sante_2026,riziv,2026,41300000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Soins de sante 41.3bn 2026 (+3.7pct; dual INAMI obj 41.297)
+bud_entity1_pensions_2026,fpd,2026,72000000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Pensions 72bn 2026 (+3.3pct; dual FPD/GG)
+bud_entity1_ss_coverage_2026,sec_ss,2026,0.631,,,estimate,src_ccrek_budget2026_entity1_overview,strong,SS prest coverage by cotis 63.1pct 2026 (vs 62.6 2025; trend still -0.6pp to 2029)
+bud_entity1_handicap_2026,spp_is,2026,3300000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Aide personnes handicapees 3.3bn 2026 (budget general)
+bud_entity1_ages_igo_2026,fpd,2026,1000000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Aide personnes agees / IGO class 1.0bn 2026
+bud_entity1_ris_2026,spp_is,2026,2200000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,RIS CPAS federal 2.2bn 2026 (excl Ukraine 299m)
+bud_entity1_ukraine_299m_2026,spp_is,2026,299000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Ukraine refugees CPAS package 299m 2026
+bud_entity1_transfers_own_2026,sec_federal,2026,66500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Entity I own transfers to other powers 66.5bn 2026 (excl third-party and RIS)
+bud_entity1_transfers_federated_2026,sec_federal,2026,59100000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Transfers to federated entities 59.1bn 2026 (LSF + protocol justice houses)
+bud_entity1_eu_gni_2026,sec_federal,2026,5000000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,EU GNI contribution ~5bn 2026 (+30pct; EU payments 155.2 to 190.1bn)
+bud_entity1_eco_functions_2026,sec_federal,2026,9600000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Economic functions excl taxex/SSC cuts 9.6bn 2026
+bud_entity1_rail_2026,nmbs,2026,3400000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Rail promotion package 3.4bn 2026 (economic functions)
+bud_entity1_energy_pol_2026,sec_federal,2026,1500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Energy policy 1.5bn 2026 (economic functions)
+bud_entity1_esa_410m_2026,sec_federal,2026,410000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,ESA European Space Agency 410m 2026 (dual BOSA provision 176)
+bud_entity1_bpost_pso_2026,bpost,2026,155000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,bpost PSO missions 155m 2026 (economic functions; dual SGEI)
+bud_entity1_authority_2026,sec_federal,2026,23200000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Authority functions SEC 23.2bn 2026 (Defence 9.5 = 40.6pct)
+bud_entity1_defence_sec_2026,mod_defensie,2026,9500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Defence SEC share of authority functions 9.5bn 2026 (liq 10.7 eng 20.1 dual)
+bud_entity1_interest_2026,gg_interest,2026,12200000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Interest charges 12.2bn 2026 (1.84pct GDP; path to 17.8bn / 2.5pct end legislature)
+bud_entity1_interest_2029,gg_interest,2029,17800000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Interest path 17.8bn ~2.5pct GDP end legislature (comparable 2015)
+bud_entity1_interest_brake_conclave,gg_interest,2029,463000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Conclave slows interest rise vs unchanged policy by ~463m
+bud_entity1_underuse_credits_2026,sec_federal,2026,1300000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Non-use of budget credits 1.3bn 2026 (non-reparties)
+bud_entity1_heterog_measures_2026,sec_federal,2026,1400000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Heterogeneous unallocated measures improve balance ~1.4bn 2026
+bud_entity1_prov_undetermined_2026,fod_bosa,2026,789000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Provisional credits not yet assigned to policy purpose 789m 2026
+bud_entity1_conclave_improve_2026,sec_federal,2026,1600000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Dec conclave improves Entity I balance ~1.6bn 2026 vs monitoring unchanged (after -408 tech)
+bud_entity1_fiscal_measures_net_2026,fod_finance,2026,1600000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Net fiscal measures yield ~1.6bn 2026 (eco-fiscal 796 fair 170 broad-shoulders 654)
+bud_entity1_ecofiscal_2026,fod_finance,2026,796000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Eco-fiscality + consumption tax measures 796m 2026
+bud_entity1_fair_tax_2026,fod_finance,2026,170000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Fair/sustainable tax measures 170m 2026
+bud_entity1_broad_shoulders_2026,fod_finance,2026,654000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Broad-shoulders tax category 654m 2026 (CGT high band VVPR bank tax class)
+bud_entity1_antifraud_spend_2026,sec_federal,2026,63000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Antifraud setup spend 63m 2026 (parquet + inspectors; dual yield 600)
+bud_entity1_spend_control_2026,sec_federal,2026,421000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Public spending control pack 421m 2026 (centimes 272 linear 100 efficiency 38 patronale 10 ministers 1)
+bud_entity1_linear_save_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Linear non-regalian dept savings 100m 2026 (2/5 replacement)
+bud_entity1_admin_efficiency_2026,sec_federal,2026,38000000,,,budgeted,src_ccrek_budget2026_entity1_overview,weak,Admin efficiency 38m 2026
+bud_entity1_ministers_nonindex_2026,sec_federal,2026,1000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Non-index ministers and parliamentarians 1m 2026
+bud_entity1_growth_cohesion_cost_2026,sec_federal,2026,567000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Growth and social cohesion plan cost 567m 2026 (prisons 259 ESA 176 employment bonus 60)
+bud_entity1_social_economy_50m,sec_federal,2026,50000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,Social economy / adapted work regional places 50m/yr from 2026 (interdept generale provision)
+bud_entity1_spend_control_2029,sec_federal,2029,2700000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Spending-control family improves balance ~2.7bn by end legislature (incl health efficiency 684 + regions EU 500)
+bud_entity1_health_efficiency_2029,riziv,2029,684000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Health efficiency gains in spending-control path 684m by 2029
+bud_entity1_regions_eu_share_2029,sec_federal,2029,500000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Regions participation EU financing 500m path end legislature
+bud_entity1_conclave_improve_2029,sec_federal,2029,9200000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,Conclave decisions improve balance 9.2bn 2029 excl tech corrections (fiscal share ~2.6bn = 28pct)
+bud_entity1_fiscal_share_2029,fod_finance,2029,2600000000,,,budgeted,src_ccrek_budget2026_entity1_overview,medium,New fiscal receipts share of 2029 conclave package ~2.6bn (28pct)
+bud_taxex_gg_2023,gg_belgium,2023,39400000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,Tax expenditures all powers 39.4bn 2023 (6.7pct GDP; inventory; +6.4pct/yr nominal 2018-23)
+bud_taxex_federal_2023,fod_finance,2023,29700000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,Federal tax expenditures 29.7bn 2023 inventory
+bud_taxex_fed_social_2023,fod_finance,2023,18600000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,Federal taxex social policy ~18.6bn 2023 (~3/4 of federal; VAT 6pct necessities 10.6 + pension/repl exempt 4.1)
+bud_taxex_vat6_necessities_2023,fod_finance,2023,10600000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,VAT reduced 6pct first-necessity goods/services taxex 10.6bn 2023
+bud_taxex_pension_repl_2023,fod_finance,2023,4100000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,Tax exemption pensions pre-pensions replacement income 4.1bn 2023
+bud_taxex_employment_2023,fod_finance,2023,6700000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,Federal taxex employment promotion 6.7bn 2023
+bud_taxex_savings_credit_2023,fod_finance,2023,3500000000,,,estimate,src_ccrek_budget2026_entity1_overview,strong,Federal taxex savings and credit 3.5bn 2023
+bud_fpb_company_cars_balance_hit,fod_finance,2025,5000000000,,,estimate,src_ccrek_budget2026_entity1_overview,medium,FPB 2025: company-car advantages ~5bn negative hit Entity I financing balance (dual TE inventory)
+bud_return_effects_2029_old,sec_federal,2029,7886200000,,,budgeted,src_ccrek_budget2026_entity1_overview,weak,BI2025 booked return effects path 0/1580/2772/4054/7886m 2025-29 (no longer separate line 2026; embedded in macros)
+bud_employment_goal_2029_pct,gg_belgium,2029,0.78,,,estimate,src_ccrek_budget2026_entity1_overview,medium,Coalition employment rate goal 78pct 2029 vs BFP Feb2026 path ~74.3; amount_eur blank pct
+bud_growth_shock_05_entity1,sec_federal,2026,1400000000,,,estimate,src_ccrek_budget2026_entity1_overview,medium,0.5pp GDP growth slowdown hit Entity I ~1.4bn (0.2pct GDP); GG ~2bn
+bud_eu_payments_budget_2026,sec_federal,2026,190100000000,,,budgeted,src_ccrek_budget2026_entity1_overview,strong,EU budget payment appropriations 190.1bn 2026 (vs 155.2 2025; drives BE GNI rise)
