@@ -2513,3 +2513,19 @@ bud_aviq_inexec_2023,aviq,2023,389908463.52,,,outturn,src_wal_pq_aviq_inexec_202
 bud_aviq_budget_implied_2024,aviq,2024,7151345530,,,outturn,src_wal_pq_aviq_inexec_2025,medium,Implied total budget from inexec/pct = 7151345530; aligns minister ~7bn
 bud_aviq_treasury_refund_2026,aviq,2026,230000000,,,budgeted,src_wal_epco_coppieters_2026,strong,Region receives 230m treasury surplus refund from AViQ 2026 (335.3m in 2025)
 bud_aviq_effort_2026,aviq,2026,33900000,,,budgeted,src_wal_epco_coppieters_2026,strong,Effort package 33.9m class: fonct -3.5m + mission recentrage path (press 5.6+28.3); structural path 24.54m 2027 / 29.54m 2028
+bud_famiwal_total_2026,famiwal,2026,1118794000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Famiwal total recettes=depenses 1118.794m
+bud_famiwal_prest_2026,famiwal,2026,1080918000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Prestations familiales a payer 1080.918m (~36pct of 4-caisse prest sum)
+bud_famiwal_fonct_2026,famiwal,2026,36976000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Budget fonctionnement 36.976m; RW subvention 36.359m
+bud_famiwal_personnel_2026,famiwal,2026,28123000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Personnel package remun+ONSS+other social 28.123m
+bud_famiwal_dot_rw_2026,famiwal,2026,36359000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,DF 093.008 / recette CO 46.10 RW subvention fonctionnement 36.359m
+bud_kidslife_prest_2026,kidslife_wal,2026,360167000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,KidsLife prestations 360.167m
+bud_kidslife_total_2026,kidslife_wal,2026,368148000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,KidsLife total dep 368.148m
+bud_kidslife_fonct_2026,kidslife_wal,2026,7981000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,KidsLife fonct eng class 7.981m; RW sub 7.712m
+bud_camille_prest_2026,camille_wal,2026,579645000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Camille prestations 579.645m
+bud_camille_total_2026,camille_wal,2026,585946000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Camille total dep 585.946m
+bud_camille_fonct_2026,camille_wal,2026,12198000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Camille fonct 12.198m
+bud_parentia_prest_2026,parentia_wal,2026,992756000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Parentia prestations 992.756m largest private ~33pct of 4-caisse
+bud_parentia_total_2026,parentia_wal,2026,1016931000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Parentia total dep 1016.931m
+bud_parentia_fonct_2026,parentia_wal,2026,24175000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Parentia fonct 24.175m; RW sub 21.258m
+bud_wal_af_prest_sum4_2026,aviq,2026,3013486000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Sum 4 CAF prestations 3013486000; reconciles AViQ AF 3008.5m (+regulator path)
+bud_wal_af_admin_caf_2026,aviq,2026,81330000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Sum CAF fonctionnement Famiwal+3 private ~81330000; dual AViQ rem caisses 41.4m private subset

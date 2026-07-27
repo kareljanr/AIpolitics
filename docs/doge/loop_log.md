@@ -2523,3 +2523,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 16; cmt 1; lb 4; FOI gap_aviq_branch_l5 **ready**; raw epco; rq_228=done; seeded **rq_229**.
 - FOI: branch split + operator L5 human send.
 - Next: prio5 **rq_229**; progress@240 in 3 ticks; deferred **rq_116** SWA.
+
+### 2026-07-29T06:05:00Z - tick 238
+- Unit: **rq_229** (FOI-adjacent hole-fill - **Famiwal + private AF caisses dual channel**)
+- Found (strong EPCO UAP tables BI2026):
+  - **FAMIWAL (public):** total **EUR 1,118.794m**; prestations **1,080.918m**; fonctionnement **36.976m** (RW dot **36.359m**); personnel package **28.123m**.
+  - **Parentia:** prest **992.756m** (largest private ~33%); fonct **24.175m**; total dep **1,016.9m**.
+  - **Camille:** prest **579.645m**; fonct **12.198m**; total **585.9m**.
+  - **KidsLife:** prest **360.167m**; fonct ~**8.0m**; total **368.1m**.
+  - **4-CAF prestations sum EUR 3,013.5m** — reconciles AViQ AF envelope **3,008.5m** (+ regulator path).
+  - Admin dual: public Famiwal fonct ~**342 bps** of prest vs private blended ~**229 bps** class (rough; FOI unit-cost per dossier residual).
+  - Dual map: WAL multi-caisse 3.01bn vs BRU Iriscare AF **1.08bn** (tick234); VL residual.
+- Wrote: sources 1; entities 4; budgets 16; cmt 2; lb 4; FOI gap_wal_af_caf_unit_cost **ready**; rq_229=done; seeded **rq_230**.
+- FOI: unit cost per dossier by CAF human send.
+- Next: prio5 **rq_230**; **progress@240 in 2 ticks**; deferred **rq_116** SWA.
