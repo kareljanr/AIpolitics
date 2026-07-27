@@ -3801,3 +3801,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity vaf; budgets +14; cmt +1; lb +1; FOI gap_vaf_cca ready; rq_332=done; spawn rq_333; ticks=341
 - FOI: CCA dual + Cinematek base + VAF top awards L5 ready human send
 - Next: prio5 **rq_333**; deferred **rq_116** SWA
+
+### 2026-07-31T09:45:00Z - tick 342
+- Unit: **rq_333** (FOI-adjacent hole-fill - **CCA FWB dual AV vs VAF Flanders**)
+- Found (strong FWB CCA Bilan 2024 official):
+  - Global AV envelope **>€44m** 2024 (was **€43.15m** 2023).
+  - **FWB €26.6m** + editors/distributors **€17.4m** (RTBF **€5.8m** + private **€11.6m** SMA legal investment).
+  - Commission du Cinéma promises **€13.24m**; Commission Séries **€1.635m** (first year); opérateurs **€4.198m**; promo **€0.712m**.
+  - Tax shelter raised **€84.73m** (+14% vs 2023) — investor money not CCA budget.
+  - Europe Creative MEDIA BE projects **€9.4m**.
+  - Dual: VAF Flanders VL dots **~€30.7m** same class; federal CINEMATEK residual FOI.
+- Wrote: sources +1; entity cca_fwb; budgets +13; cmt +1; lb +2; FOI gap_vaf_cca refresh; rq_333=done; spawn rq_334; ticks=342
+- FOI: named awards L5 + Cinematek still ready human send
+- Next: prio5 **rq_334**; deferred **rq_116** SWA

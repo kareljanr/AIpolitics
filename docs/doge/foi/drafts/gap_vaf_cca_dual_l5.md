@@ -42,3 +42,16 @@ Met vriendelijke groet,
 - [x] Concrete L5 dual map
 - [x] foi_queue ready
 - [ ] Human send
+
+
+## Update tick342 — CCA FWB public fill
+
+Source: FWB CCA Bilan 2024 official news (primary).
+
+- Global AV envelope **>€44 m** 2024 (was **€43.15 m** 2023).
+- Of which **FWB €26.6 m** + editors/distributors **€17.4 m** (RTBF **€5.8 m** + private **€11.6 m** legal SMA investment).
+- Commission du Cinéma promises **€13.24 m**; Commission Séries **€1.635 m**; opérateurs **€4.198 m**.
+- Tax shelter raised **€84.73 m** (investor money, not CCA budget).
+- Dual VAF Flanders VL dots **~€30.7 m** same year class.
+
+Residual FOI: named award L5 matrices + Cinematek Belspo structural series.

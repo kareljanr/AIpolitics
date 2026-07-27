@@ -4134,3 +4134,16 @@ bud_vaf_film_creatie_2025,vaf,2025,11900000,,,budgeted,src_vaf_jv_2025,strong,Fi
 bud_vaf_media_dot_2025,vaf,2025,7173000,,,budgeted,src_vaf_jv_2025,strong,VAF/Mediafonds VL Media dotatie 7.173m 2025
 bud_vaf_game_dot_2025,vaf,2025,2800000,,,budgeted,src_vaf_jv_2025,strong,VAF/Gamefonds VL Media+Onderwijs 2.800m 2025
 bud_vaf_vl_dots_sum_2025,vaf,2025,30793000,,,budgeted,src_vaf_jv_2025,strong,Sum VL government dots Film+Media+Game 20.820+7.173+2.800=30.793m 2025
+bud_cca_envelope_total_2024,cca_fwb,2024,44000000,,,budgeted,src_cca_bilan_2024,strong,CCA global audiovisual envelope more than 44m EUR 2024 (press: plus de 44m; prior year 43.15m)
+bud_cca_envelope_total_2023,cca_fwb,2023,43150000,,,budgeted,src_cca_bilan_2024,strong,CCA global audiovisual envelope 43.15m EUR 2023 (bilan 2024 comparison)
+bud_cca_fwb_contrib_2024,cca_fwb,2024,26600000,,,budgeted,src_cca_bilan_2024,strong,FWB contribution to CCA AV envelope 26.6m 2024
+bud_cca_editeurs_contrib_2024,cca_fwb,2024,17400000,,,budgeted,src_cca_bilan_2024,strong,Editors distributors legal investment obligation 17.4m 2024 (RTBF 5.8 + private 11.6)
+bud_cca_rtbf_contrib_2024,cca_fwb,2024,5800000,,,budgeted,src_cca_bilan_2024,strong,RTBF contribution within editeurs block 5.8m 2024
+bud_cca_private_editeurs_2024,cca_fwb,2024,11600000,,,budgeted,src_cca_bilan_2024,strong,Private editors distributors 11.6m 2024 legal investment
+bud_cca_commission_cinema_2024,cca_fwb,2024,13240000,,,budgeted,src_cca_bilan_2024,strong,Commission du Cinema promises of aid 13.24m 2024 (near 13.26m 2023 record)
+bud_cca_series_commission_2024,cca_fwb,2024,1635000,,,budgeted,src_cca_bilan_2024,strong,Commission Series first year 12 aids total 1.635m 2024
+bud_cca_operateurs_2024,cca_fwb,2024,4198105,,,budgeted,src_cca_bilan_2024,strong,Aides aux operateurs audiovisuels 55 operators 4.198105m 2024
+bud_cca_promotion_2024,cca_fwb,2024,712262,,,budgeted,src_cca_bilan_2024,strong,Promotion aids total 712262 EUR 2024
+bud_cca_taxshelter_raised_2024,cca_fwb,2024,84730000,,,budgeted,src_cca_bilan_2024,strong,Tax shelter funds raised FWB investors 84.73m 2024 (+14pct vs 74.18m 2023) — not pure TE cash out
+bud_cca_europe_creative_media_be_2024,cca_fwb,2024,9400000,,,budgeted,src_cca_bilan_2024,strong,Europe Creative MEDIA grants to Belgian projects 9.4m 2024 (7.2m 2023)
+bud_av_dual_vaf_cca_class_2024,vaf,2024,75100000,,,budgeted,src_cca_bilan_2024,medium,Illustrative dual AV class VAF VL dots 30.7m + CCA envelope 44m ~74.7m 2024 not additive TE (different perimeters)
