@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T18:00:00Z,rq_253,262,no,Scheduler 60s. Next prio5 rq_254; rq_116 SWA deferred. FOI ready human send. tick262 PMV 4.24bn dual WE holdings.
+main,continuous,hole_fill,2026-07-29T18:30:00Z,rq_254,263,no,Scheduler 60s. Next prio5 rq_255; rq_116 SWA deferred. FOI ready human send. tick263 Mons L5 sample 7.5m.

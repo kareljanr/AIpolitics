@@ -2805,3 +2805,19 @@ bud_pmv_result_2025,pmv,2025,17234000,,,outturn,src_pmv_jr_2025,strong,Resultaat
 bud_pmv_result_2024_stat,pmv,2024,27151000,,,outturn,src_pmv_jr_2025,strong,Resultaat 27.151m 2024 statutory
 bud_pmv_dividend_2025,pmv,2025,3800000,,,outturn,src_pmv_jr_2025,strong,Dividend/vergoeding kapitaal 3.8m 2025 (flat vs 2024)
 bud_pmv_fin_opbrengsten_2025,pmv,2025,88336000,,,outturn,src_pmv_jr_2025,strong,Financiele opbrengsten 88.336m 2025 (incl non-recurrent 36.704m)
+bud_mons_rca_subside_2025,city_mons,2025,1156470.97,,,budgeted,src_mons_budget_ord_2025_l5,strong,Regie Communale Autonome RCA 1156471 EUR BI2025
+bud_mons_rca_fonct_2025,city_mons,2025,815000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,RCA frais de fonctionnement 815000 EUR BI2025
+bud_mons_fonds_impulsion_2025,city_mons,2025,650000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Fonds impulsion nouveaux commerces 650000 EUR BI2025
+bud_mons_mars_fonct_2025,city_mons,2025,400000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,MARS fonctionnement associations 400000 EUR BI2025
+bud_mons_rca_76422_2025,city_mons,2025,380000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,RCA line 76422 380000 EUR BI2025
+bud_mons_escale_2025,city_mons,2025,275630.02,,,budgeted,src_mons_budget_ord_2025_l5,strong,TFT Escale Plan Cohesion Sociale 275630 EUR BI2025
+bud_mons_ot_fonct_2025,city_mons,2025,273750.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Office du Tourisme fonctionnement 273750 EUR BI2025
+bud_mons_asbl_garance_2025,city_mons,2025,170000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,ASBL Garance Enfant-Phare 170000 EUR BI2025
+bud_mons_mars_anim_2025,city_mons,2025,150000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,MARS animations 150000 EUR BI2025
+bud_mons_fondation_mons2025_2025,city_mons,2025,110000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Fondation Mons 2025 110000 EUR BI2025
+bud_mons_regie_quartiers_2025,city_mons,2025,90000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Regie des quartiers 90000 EUR BI2025
+bud_mons_monsports_2025,city_mons,2025,66000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,ASBL Monsports 66000 EUR BI2025
+bud_mons_asbl_saint_georges_2025,city_mons,2025,55000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,ASBL Saint Georges 55000 EUR BI2025
+bud_mons_charte_fonct_2025,city_mons,2025,50000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Charte vie associative fonctionnement 50000 EUR BI2025
+bud_mons_orchestre_rcw_2025,city_mons,2025,50000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Orchestre Royal de Chambre de Wallonie 50000 EUR BI2025
+bud_mons_l5_asbl_sample_2025,city_mons,2025,7478054.99,,,budgeted,src_mons_budget_ord_2025_l5,strong,Named ASBL/RCA/assoc/sport sample n=22 sum 7478055 from top50 extract

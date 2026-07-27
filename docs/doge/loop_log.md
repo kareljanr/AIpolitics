@@ -2822,3 +2822,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity pmv; budgets +16; cmt +1; lb +3; raw PDF; rq_253=done; spawn rq_254; ticks=262
 - FOI: none new (material stock filled); APEFE/Mons residual still ready
 - Next: prio5 **rq_254**; deferred **rq_116** SWA
+
+### 2026-07-29T18:30:00Z — tick 263
+- Unit: **rq_254** (FOI-adjacent hole-fill — **Mons ASBL L5 sample BI2025**)
+- Found (strong primary Mons budget ordinaire 2025 extract):
+  - Named L5 sample **n=22** lines sum **~€7.5m** (RCA cluster ~4.25m + MARS package 0.67m + OT + Basket UMH 0.22m + Garance 0.17m + Fondation Mons2025 + film 45k + charte associative + …).
+  - Top: RCA piscine **1.90m**; RCA subside **1.16m**; RCA fonct **0.82m**; Fonds impulsion commerces **0.65m**; MARS fonct **0.40m**.
+  - Closes long-deferred Mons ASBL L5 sample; BI2026 named residual FOI.
+- Wrote: sources +1; budgets ~22; cmt +1; lb +3; FOI gap_mons_bi2026_named ready; draft; rq_254=done; spawn rq_255; ticks=263
+- FOI: BI2026 top20 human send
+- Next: prio5 **rq_255**; deferred **rq_116** SWA
