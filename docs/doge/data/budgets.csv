@@ -2399,3 +2399,12 @@ bud_buurthuis_unik_2026,city_antwerpen,2026,120000.0,,,budgeted,src_antwerp_mjp_
 bud_gams_total_2026,city_antwerpen,2026,50611.83,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,GAMS package 50.6k 2026 (sociale 8.6k + gelijke 42k)
 bud_antwerp_social_residual_sample_2026,city_antwerpen,2026,1556270.74,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Residual social/equality sample 7 orgs 1.556m 2026
 bud_antwerp_social_youth_15org_2026,city_antwerpen,2026,31786515.099999998,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Combined social+youth sample ~15 orgs 31.79m 2026 class
+bud_mons_cpas_ord_dep_2026,city_mons,2026,149130634.23,,,budgeted,src_mons_cpas_budget_2026,strong,Mons CPAS ordinaire depenses exercice propre 149.131m 2026
+bud_mons_cpas_ord_rec_2026,city_mons,2026,149152051.0,,,budgeted,src_mons_cpas_budget_2026,strong,Mons CPAS ordinaire recettes exercice propre 149.152m 2026
+bud_mons_cpas_global_2026,city_mons,2026,149388888.9,,,budgeted,src_mons_cpas_budget_2026,strong,Mons CPAS recettes/depenses globales 149.389m 2026 (balanced)
+bud_mons_cpas_extra_global_2026,city_mons,2026,7305500.0,,,budgeted,src_mons_cpas_budget_2026,strong,Mons CPAS extraordinaire global 7.306m 2026
+bud_mons_city_cpas_intervention_2026,city_mons,2026,27917996.41,,,budgeted,src_mons_cpas_budget_2026,strong,Ville Mons intervention communale CPAS 27.918m 2026
+bud_mons_city_cpas_fonct_2026,city_mons,2026,25141366.41,,,budgeted,src_mons_cpas_budget_2026,strong,CPAS intervention fonctionnement 25.141m 2026
+bud_mons_city_cpas_resp_2026,city_mons,2026,2501000.0,,,budgeted,src_mons_cpas_budget_2026,strong,CPAS intervention exceptionnelle responsabilisation 2.501m 2026
+bud_mons_zone_secours_2026,city_mons,2026,2604469.7,,,budgeted,src_mons_zone_secours_2026,strong,Ville Mons dotation Zone Secours Hainaut-Centre 2.604m 2026
+bud_mons_cpas_housing_ureba_2026,city_mons,2026,2680000.0,,,budgeted,src_mons_cpas_budget_2026,medium,CPAS renovation energetique 84 logements 2.68m UREBA/PIVW (NPG class)

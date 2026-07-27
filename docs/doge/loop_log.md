@@ -2433,3 +2433,15 @@ Append-only. Each tick adds a short entry.
 - Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83; company cars FPB ~8.5); Antwerp city L5 is core-service depth not pure-waste top
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log
 - Next: prio5 **rq_222** (Mons/utilities); deferred **rq_116** SWA
+
+### 2026-07-29T02:50:00Z - tick 231
+- Unit: **rq_222** (FOI-adjacent hole-fill - **Mons CPAS BI2026 + Zone Secours**)
+- Found (strong deliberations.be primary):
+  - **CPAS Mons 2026 global EUR 149.389m** (ord dep **149.131m** / rec **149.152m** boni 21k; extra global **7.306m**).
+  - **City intervention CPAS EUR 27.918m** (fonct 25.141 + responsabilisation 2.501 + PCS 0.276).
+  - **Zone Secours Hainaut-Centre EUR 2.604m** (vs provisional BI 2.816m; MB1 adjustment).
+  - Housing NPG medium: 84 logements renovation **2.68m** UREBA/PIVW; Art.60 posts 260→380 / Art.61 70→140.
+  - Full **Ville de Mons BI2026 PDF** still not published on mons.be budgets page (only 2025 comptes) — FOI residual ASBL L5.
+- Wrote: sources 2; budgets 9; cmt 2; lb 3; entity; foi notes; rq_222=done; seeded **rq_223**.
+- FOI: full Ville BI2026 + ASBL top20 still ready human send.
+- Next: prio5 **rq_223**; deferred **rq_116** SWA.
