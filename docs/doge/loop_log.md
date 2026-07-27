@@ -2659,3 +2659,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity wal_egalite_chances; budgets +20; cmt +1; lb +4; FOI gap_wal_egalite_l5 ready; drafts; raw PDFs; rq_239=done; spawn rq_240; ticks=248
 - FOI: WAL L5 operators human send
 - Next: prio5 **rq_240**; **progress@250 in 2 ticks**; deferred **rq_116** SWA
+
+### 2026-07-29T11:30:00Z — tick 249
+- Unit: **rq_240** (FOI-adjacent hole-fill — **Charleroi culture/sport L5**)
+- Found (strong BI2024 synthese eComptes + BI2026 context):
+  - **PBA ASBL EUR 1.339834m**; **CCR 0.734m**; ASBL culturelles **1.1515m**; CEME **0.1008m** → culture sample **3.326m**.
+  - **Parc des Sports 0.738m** + sport clubs **0.603m** → sport sample **1.341m**.
+  - Menages ASBL **1.338m**; social ASBL **0.380m**.
+  - BI2026: transfers **240.3m** (-10.9m); pox subsides **−0.5m**; CPAS +0.7m; ZPL −5.6m; ZOHE −5.3m; named 2026 matrix residual FOI.
+- Wrote: sources +2; entities PBA/CCR; budgets +15; cmt +1; lb +4; FOI gap_charleroi_subsidies_top20 updated; draft note; rq_240=done; spawn rq_241 progress@250 + rq_242; ticks=249
+- FOI: BI2026 named top20 human send
+- Next: **rq_241 progress@250 mandatory**; then rq_242; deferred **rq_116** SWA

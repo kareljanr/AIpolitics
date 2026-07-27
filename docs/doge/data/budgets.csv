@@ -2676,3 +2676,18 @@ bud_wal_prostitution_services_2026,wal_egalite_chances,2026,1021000,,,budgeted,s
 bud_wal_interfederal_egalite_057_2026,wal_egalite_chances,2026,938000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.057 initiatives interfederales action sociale/cohesion/integration/egalite eng 938k liq 938k (includes dual Unia/IEFH class residual split)
 bud_wal_egalite_violence_core_eng_2026,wal_egalite_chances,2026,5924000,,,derived,src_wal_epco_egalite_2026,medium,Core equality+violence L5 sample eng sum 5924k (not full 17.094 action sociale)
 bud_wal_egalite_violence_core_liq_2026,wal_egalite_chances,2026,5735000,,,derived,src_wal_epco_egalite_2026,medium,Core equality+violence L5 sample liq sum 5735k
+bud_charleroi_pba_2024,charleroi_pba,2024,1339834,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides ASBL Palais des Beaux Arts BI2024 1339834 (flat vs BI2023)
+bud_charleroi_ccr_2024,charleroi_ccr,2024,734000,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides Centre culturel regional BI2024 734000
+bud_charleroi_culture_asbl_2024,city_charleroi,2024,1151505.54,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides ASBL culturelles/loisir/tourisme BI2024 1151505.54
+bud_charleroi_ceme_2024,city_charleroi,2024,100800,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subside ASBL CEME Charleroi Espace Meeting Europeen BI2024 100800
+bud_charleroi_parc_sports_2024,city_charleroi,2024,738069.67,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides ASBL Parc des Sports BI2024 738069.67
+bud_charleroi_sport_asbl_2024,city_charleroi,2024,603306,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides ASBL sport societes sportives BI2024 603306
+bud_charleroi_menages_asbl_2024,city_charleroi,2024,1337988,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides organismes au service des menages BI2024 1337988
+bud_charleroi_social_asbl_2024,city_charleroi,2024,380464.65,,,budgeted,src_charleroi_synthese_bi2024_l5,strong,Subsides caractere social BI2024 380464.65
+bud_charleroi_culture_l5_sample_2024,city_charleroi,2024,3326139.54,,,derived,src_charleroi_synthese_bi2024_l5,strong,Culture L5 sample sum PBA+CCR+culture ASBL+CEME 3326139.54 BI2024
+bud_charleroi_sport_l5_sample_2024,city_charleroi,2024,1341375.67,,,derived,src_charleroi_synthese_bi2024_l5,strong,Sport L5 sample Parc Sports+sport ASBL 1341375.67 BI2024
+bud_charleroi_subsides_pox_cut_2026,city_charleroi,2026,500000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,BI2026: subsides et cotisations reduites 0.5m (mesure pox) vs BI2025
+bud_charleroi_yernaux_entries_2026,city_charleroi,2026,600000,,,budgeted,src_charleroi_synthese_bi2026_pox,medium,Intervention prix entrees complexe Yernaux 0.6m one semester BI2026
+bud_charleroi_zpl_delta_2026,city_charleroi,2026,-5600000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,Dotation ZPL -5.6m BI2026 vs BI2025 (federal sectoral interventions integrated)
+bud_charleroi_zohe_delta_2026,city_charleroi,2026,-5300000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,Dotation ZOHE -5.3m BI2026 vs BI2025 (province financing rise)
+bud_charleroi_cpas_delta_2026,city_charleroi,2026,700000,,,budgeted,src_charleroi_synthese_bi2026_pox,strong,Dotation CPAS +0.7m (+0.71pct) BI2026 vs BI2025
