@@ -1215,3 +1215,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 18; commitments 4; leaderboard 3; rq_128=done.
 - FOI: none new (pure ASBL culture residual thin; Visit official cash path optional deepen later).
 - Next: prio7 **rq_153 taxex** / **rq_138 unions** / **rq_139 mutualities** / **rq_143 Antwerp**.
+
+### 2026-07-27T19:10:00Z — tick 137
+- Unit: **rq_153** (FPS taxex remaining top 20 not yet imported)
+- Found (strong FPS inventory XLSX latest-year per sheet):
+  - Imported **20** measures previously missing from tax_expenditures.csv (sum latest-year ˜ **€48.6bn** — not additive with prior top20; many structural design lines).
+  - Largest **current** additions: **PIT tax-free basic €18.058bn** (2023) · **professional expenses salaries €9.842bn** · **family allowances exemption €2.900bn** · **dependent-children tax-free €2.694bn** · **distinct taxation rates €2.665bn** · foreign-income 100% €2.271bn.
+  - Other: WT movable first-bracket €565m · marital quotient €545m · disability allow €420m · overtime credit €386m · unemployment TE €350m · flexi-jobs €314m · CIT intra-group €321m · R&D refundable credit €315m · industrial motor gas oil €313m.
+  - Historical peaks included for inventory completeness: venture capital old system **€5.375bn** (2011); owner-occupied housing 2008; imputed income 2013.
+  - Leaderboard: structural tax-free basic (low absurdity) · professional expenses · family allow · distinct taxation (higher reform interest).
+- Wrote: tax_expenditures +20; sources 1; cmt_fps_taxex_next20; lb 4; rq_153=done.
+- FOI: none (inventory public; residual medium TE lines still parseable later).
+- Next: prio7 **rq_138 unions** / **rq_139 mutualities** / **rq_143 Antwerp** / **rq_155 company cars**.

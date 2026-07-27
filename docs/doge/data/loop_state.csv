@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T18:45:00Z,rq_128,136,no,"Scheduler 60s. Next prio7: taxex rq_153 / unions rq_138 / mutualities rq_139 / Antwerp rq_143 / SS rq_129; prio6 IEFH/FIRM; FOI ready human send."
+main,continuous,hole_fill,2026-07-27T19:10:00Z,rq_153,137,no,"Scheduler 60s. Next prio7: unions rq_138 / mutualities rq_139 / Antwerp rq_143 / SS rq_129 / company cars rq_155; prio6 IEFH/FIRM; FOI ready human send."

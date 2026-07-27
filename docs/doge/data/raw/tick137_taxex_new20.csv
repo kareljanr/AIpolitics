@@ -1,0 +1,11 @@
+sheet,name,year,m_eur,eur,type,legal
+PIT,Tax free sum: basic amount,2023,18058.2,18058200000.0,Deduction of taxable income,Art. 131
+CIT,Deduction for venture capital (old system),2011,5375.4,5375400000.0,Deduction of taxable income,
+PIT,Birth allowances and statutory family allowances,2023,2899.84,2899840000.0,Exemption,"Art. 38, §1, 1°"
+PIT,Tax free sum: allowance for dependent children,2023,2693.97,2693970000.0,Deduction of taxable income,Art. 132-145
+PIT,"Distinct taxation, other than divers income, 10%, (10,38%), 12,5%, 16,5% and 33%",2023,2664.69,2664690000.0,Reduced rate,Art. 171
+PIT,Unemployment benefits,2026,349.56,349560000.0,Tax reduction,Art. 146
+PIT,Tax free sum: disability allowance,2023,345.38,345380000.0,Deduction of taxable income,Art. 132-145
+PIT,Federal reduction for long-term savings,2026,297.93,297930000.0,Tax reduction,"Art. 145^1, 3° en 4°"
+PIT,Other energy saving measures,2013,296.31,296310000.0,,
+PIT,"Tax free sum: allowance for other ""special situations""",2023,295.8,295800000.0,Deduction of taxable income,Art. 132-145
