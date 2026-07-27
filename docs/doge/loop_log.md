@@ -3253,3 +3253,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity etf; budgets +calls/financing; cmt +3; lb +4; FOI gap_etf_project_eur_matrix ready; draft; raw PDF; rq_288=done; spawn rq_289; ticks=297
 - FOI: ETF EUR matrix human send
 - Next: prio5 **rq_289**; **progress@300 in 3 ticks**; deferred **rq_116** SWA
+
+### 2026-07-30T11:45:00Z - tick 298
+- Unit: **rq_289** (FOI-adjacent hole-fill - **quality infrastructure BELAC+NBN+metrology**)
+- Found (strong primary Kamer 55K2933/016):
+  - **BELAC**: personnel **0.88m** + functioning **2.72m** = **~3.6m** 2023 (13 FTE statut; fee-funded staff off-table).
+  - **NBN pack**: Antennes-Normes **4.46m** + NBN subside **2.07m** + patent cells **0.54m** = **~7.1m**.
+  - **EMPIR 120k + EPM 200k** = **0.32m**.
+  - Pack class **~11.0m** 2023.
+  - AGMJ: CFWB chiffres cles portal has interactive budget dashboards — no machine-readable EUR this tick; wage FOI still ready.
+- Wrote: sources +1; entities belac+nbn; budgets +pack; cmt +4; lb +4; FOI gap_nbn_antennes_l5 ready low prio; draft; rq_289=done; spawn **rq_290 progress@300** + rq_291; ticks=298
+- FOI: NBN L5 low prio human send
+- Next: **rq_290 progress@300** then rq_291; deferred **rq_116** SWA

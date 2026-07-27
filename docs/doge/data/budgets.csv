@@ -3540,3 +3540,54 @@ bud_etf_doel12_lto_fee_2022,etf_energy_transition_fund,2022,20000000,,,outturn,s
 bud_etf_doel12_lto_fee_2023,etf_energy_transition_fund,2023,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
 bud_etf_doel12_lto_fee_2024,etf_energy_transition_fund,2024,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
 bud_etf_doel12_lto_fee_2025,etf_energy_transition_fund,2025,20000000,,,outturn,src_kamer_etf_deepen_2023_26,strong,Doel1&2 LTO convention fee 20m/yr to federal state 15 Apr 2016-2025 feeds ETF (art4/2 nuclear exit law)
+bud_belac_personnel_statut_2021,belac,2021,738000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_personnel_statut_2022,belac,2022,880000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_personnel_statut_2023,belac,2023,880000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_personnel_statut_2024,belac,2024,880000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_personnel_statut_2025,belac,2025,880000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_personnel_statut_2026,belac,2026,880000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_personnel_statut_2027,belac,2027,880000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.11.00.03 BELAC statutory personnel 13 FTE class eng=liq
+bud_belac_functioning_2021,belac,2021,2388000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_functioning_2022,belac,2022,2495000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_functioning_2023,belac,2023,2723000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_functioning_2024,belac,2024,2723000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_functioning_2025,belac,2025,2723000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_functioning_2026,belac,2026,2723000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_functioning_2027,belac,2027,2723000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.10.12.11.50 BELAC functioning external auditors interlab IT e-gov
+bud_belac_pack_2023,belac,2023,3603000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Sum 2023: personnel 0.88 + functioning 2.723 = 3.603m (excludes fee-funded fund staff)
+bud_nbn_antennes_prenorm_2021,nbn,2021,4432000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_nbn_antennes_prenorm_2022,nbn,2022,4462000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_nbn_antennes_prenorm_2023,nbn,2023,4462000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_nbn_antennes_prenorm_2024,nbn,2024,4462000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_nbn_antennes_prenorm_2025,nbn,2025,4462000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_nbn_antennes_prenorm_2026,nbn,2026,4462000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_nbn_antennes_prenorm_2027,nbn,2027,4462000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.30 Normalisation prenorm studies Antennes-Normes via collective centres; eng 3.964m 2021 then 4.462m
+bud_patent_cells_2021,fod_economy,2021,494000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_patent_cells_2022,fod_economy,2022,541000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_patent_cells_2023,fod_economy,2023,541000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_patent_cells_2024,fod_economy,2024,541000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_patent_cells_2025,fod_economy,2025,541000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_patent_cells_2026,fod_economy,2026,541000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_patent_cells_2027,fod_economy,2027,541000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.31.32.32 Normalisation cellules brevets/octrooicellen SME innovation
+bud_nbn_subside_2021,nbn,2021,1915000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_nbn_subside_2022,nbn,2022,2027000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_nbn_subside_2023,nbn,2023,2074000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_nbn_subside_2024,nbn,2024,2049000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_nbn_subside_2025,nbn,2025,2050000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_nbn_subside_2026,nbn,2026,2051000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_nbn_subside_2027,nbn,2027,2052000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,BA 46.50.41.40.31 Subside NBN general-interest missions functioning
+bud_empir_contrib_2021,fod_economy,2021,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2021,fod_economy,2021,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_empir_contrib_2022,fod_economy,2022,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2022,fod_economy,2022,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_empir_contrib_2023,fod_economy,2023,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2023,fod_economy,2023,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_empir_contrib_2024,fod_economy,2024,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2024,fod_economy,2024,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_empir_contrib_2025,fod_economy,2025,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2025,fod_economy,2025,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_empir_contrib_2026,fod_economy,2026,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2026,fod_economy,2026,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_empir_contrib_2027,fod_economy,2027,120000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EMPIR metrology programme contribution 120k
+bud_epm_contrib_2027,fod_economy,2027,200000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Belgian annual EPM European Partnership on Metrology contribution 200k
+bud_quality_infra_pack_2023,fod_economy,2023,10780000,,,budgeted,src_kamer_55k2933_belac_nbn_metrology,strong,Sum class 2023: BELAC 3.603 + Antennes 4.462 + patent 0.541 + NBN 2.074 + EMPIR 0.12 + EPM 0.20 = ~11.0m
