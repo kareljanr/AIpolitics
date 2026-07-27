@@ -4532,3 +4532,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +75; cmt +7; lb +8; FOI **gap_tour_midi_contracts_l5** + **gap_rtw_invalidite_method_l5** ready; rq_387=done; spawn **rq_388**; ticks=396
 - FOI: Tour Midi contracts + RTW method notes human send only
 - Next: prio5 **rq_388**; deferred **rq_116** SWA
+
+### 2026-08-01T13:15:00Z - tick 397
+- Unit: **rq_388** (FOI-adjacent hole-fill - **transversal antifraud+centimes+NATO fin + chomage multi-year reform residual**)
+- Found (strong/medium primary CoA Budget 2026 Ch.II transversal + SS chomage 5.2-5.3):
+  - Antifraud dual **600m** 2026 (300 fiscal + 300 social) path **1.2bn** 2029; SIRS ~370m 2025 est; agents **377**; Compliance IT **72.9m**/4y net -13.2->+472 2029
+  - Parcel fee 2EUR **210m gross DROPPED** (EU 3EUR path Jul2026 TBD)
+  - Indexation-en-centimes Entity I **272 / 391 / 754 / 883** 2026-29; employer contrib **+271m** 2026
+  - Admin reorg save path **300m** end legislature (unobjectified)
+  - NATO effort **13,095.8m** 2026 (99.9pct of 13,107 need); s16 **10,770** external **2,326**; standardisation **167.5** path 750 2029
+  - Defence temp fin 2026: CIT Russia **1,163** + Belfius **500**; extra pack **16,783** 2025-29; asset optim **3,170** TBD
+  - Chomage reform save **1,685 / 2,287 / 2,441 / 2,448** 2026-29; exclusions **193,904** (VL 62.7k WAL 88.6k BRU 41.7k DG 0.95k)
+  - ONEM+Capac+OP gestion **20.5m** 2026; RCC reest **5.2m**; family credit **40m**; voluntary quit cost **33.6m**
+- Wrote: sources +1; budgets ~70; cmt +5; lb +8; FOI **gap_antifraud_method_l5** + **gap_centimes_impl_l5** ready; rq_388=done; spawn **rq_389**; ticks=397
+- FOI: antifraud method + centimes AR/IT human send only
+- Next: prio5 **rq_389**; deferred **rq_116** SWA

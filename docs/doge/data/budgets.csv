@@ -5479,3 +5479,75 @@ bud_maladie_pens_respons_2026,riziv,2026,51000000,,,budgeted,src_ccrek_budget202
 bud_chom_volume_delta_2026,rva,2026,-364600000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Chomage volume effect excl time-limit -364.6m 2026 vs updated 2025
 bud_chom_measures_delta_2026,rva,2026,-1675700000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Chomage measures net -1675.7m 2026 of which time-limit+degressivity -1685.2
 bud_chom_timelimit_save_2026,rva,2026,1685200000,,,budgeted,src_ccrek_budget2026_ss_part3,strong,Unemployment time-limit + stronger degressivity save 1685.2m 2026 (main driver -28pct path)
+bud_antifraud_total_2026,sec_federal,2026,600000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Antifraud fiscal+social unallocated package 600m 2026 (equal 300+300; path 1.2bn 2029; methodology opaque CoA)
+bud_antifraud_fiscal_2026,fod_finance,2026,300000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Fiscal fraud fight structural yield 300m 2026 path 600m 2029 (plan not finalised at budget vote)
+bud_antifraud_fiscal_2029,fod_finance,2029,600000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Fiscal fraud yield target 600m 2029
+bud_antifraud_social_2026,sec_ss,2026,300000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Social fraud fight yield 300m 2026 (path 375/450/600 2027-29; no measure split)
+bud_antifraud_social_2027,sec_ss,2027,375000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Social fraud yield 375m 2027
+bud_antifraud_social_2028,sec_ss,2028,450000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Social fraud yield 450m 2028
+bud_antifraud_social_2029,sec_ss,2029,600000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Social fraud yield 600m 2029
+bud_antifraud_total_2029,sec_federal,2029,1200000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Antifraud dual total target 1.2bn 2029
+bud_sirs_social_fraud_2025_est,sec_ss,2025,370000000,,,estimate,src_ccrek_budget2026_transversal,medium,SIRS provisional Q1-Q3 2025 ~280m linearised full-year ~370m (down ~65 vs 2024 CoA)
+bud_antifraud_agents_2026,sec_federal,2026,377,,,budgeted,src_ccrek_budget2026_transversal,strong,Antifraud recruit plan 377 agents (277 Finance/Police/Justice + 100 social inspection); amount_eur blank FTE count
+bud_antifraud_social_insp_cost_2026,sec_ss,2026,8000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Social inspection +100 agents cost 8m 2026 (ETP: Emploi25 ONSS34 INASTI10 INAMI31; CoA overstate risk)
+bud_parquet_financier_yield_2029,fod_justice,2029,196000000,,,budgeted,src_ccrek_budget2026_transversal,weak,Financial prosecutor section expected yield 196m by 2029 (method opaque CoA)
+bud_compliance_it_pack_4y,fod_finance,2026,72900000,,,commitment,src_ccrek_budget2026_transversal,strong,SPF Finances Compliance IT programme 72.9m over 4 years OECD-aligned
+bud_compliance_net_2026,fod_finance,2026,-13200000,,,budgeted,src_ccrek_budget2026_transversal,medium,Compliance programme net revenue -13.2m 2026 (impl costs)
+bud_compliance_net_2029,fod_finance,2029,472100000,,,budgeted,src_ccrek_budget2026_transversal,medium,Compliance programme net extra revenue 472.1m by 2029
+bud_parcel_fee_gross_2026_dropped,fod_finance,2026,210000000,,,budgeted,src_ccrek_budget2026_transversal,weak,Belgian 2EUR low-value parcel handling fee gross 210m 2026 DROPPED after DE/NL/FR/LU concertation; EU 3EUR import duty from Jul2026
+bud_parcel_fee_net_2026_dropped,fod_finance,2026,140000000,,,budgeted,src_ccrek_budget2026_transversal,weak,Parcel fee net 140m 2026 after invest (dropped national scheme; residual EU path TBD)
+bud_parcel_fee_gross_2029_dropped,fod_finance,2029,370000000,,,budgeted,src_ccrek_budget2026_transversal,weak,Parcel fee gross path 370m 2029 (dropped; was net 300m)
+bud_centimes_entity1_2026,sec_federal,2026,272000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Indexation-en-centimes Entity I yield 272m 2026 (path 391/754/883; CoA overstate risk vs pivot timing)
+bud_centimes_entity1_2027,sec_federal,2027,391000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Centimes Entity I yield 391m 2027
+bud_centimes_entity1_2028,sec_federal,2028,754000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Centimes Entity I yield 754m 2028 (second moderation wave)
+bud_centimes_entity1_2029,sec_federal,2029,883000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Centimes Entity I yield 883m 2029
+bud_centimes_bfp_gross_2026,sec_federal,2026,612000000,,,estimate,src_ccrek_budget2026_transversal,medium,BFP gross centimes yield rec-dep 612m 2026 (Entity I net 272 after broader perimeter)
+bud_centimes_employer_contrib_2026,sec_ss,2026,271000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Special employer wage-moderation SSC contribution +271m 2026 (path 277/594/604)
+bud_centimes_less_tax_2026,fod_finance,2026,-443000000,,,estimate,src_ccrek_budget2026_transversal,medium,Centimes lesser fiscal receipts -443m 2026 (BFP)
+bud_centimes_less_ssc_2026,sec_ss,2026,-366000000,,,estimate,src_ccrek_budget2026_transversal,medium,Centimes lesser SSC receipts -366m 2026 (BFP)
+bud_centimes_less_prest_2026,sec_ss,2026,-655000000,,,estimate,src_ccrek_budget2026_transversal,medium,Centimes lower social benefit expenditure -655m 2026 (BFP)
+bud_centimes_less_wage_2026,sec_federal,2026,-452000000,,,estimate,src_ccrek_budget2026_transversal,medium,Centimes lower primary wage expenditure -452m 2026 (BFP)
+bud_admin_reorg_save_path,sec_federal,2029,300000000,,,budgeted,src_ccrek_budget2026_transversal,weak,Federal admin reorganisation savings target 300m by end legislature (CM 24 Dec 2025 principle; methodology missing CoA)
+bud_nato_need_2026,mod_defensie,2026,13107100000,,,budgeted,src_ccrek_budget2026_transversal,strong,NATO 2pct need 13107.1m 2026 (GDP 655357m * 2pct)
+bud_nato_effort_total_2026,mod_defensie,2026,13095800000,,,budgeted,src_ccrek_budget2026_transversal,strong,NATO effort total 13095.8m 2026 (99.9pct of need)
+bud_nato_s16_2026,mod_defensie,2026,10769600000,,,budgeted,src_ccrek_budget2026_transversal,strong,Defence section 16 liquidations 10769.6m 2026
+bud_nato_external_2026,mod_defensie,2026,2326200000,,,budgeted,src_ccrek_budget2026_transversal,strong,External defence effort 2326.2m 2026 (mil pens 1688 civil 73 survival 267 other depts 130.7)
+bud_nato_mil_pens_2026,fpd,2026,1688000000,,,budgeted,src_ccrek_budget2026_transversal,strong,Military pensions in NATO external 1688m 2026
+bud_nato_standardisation_2026,mod_defensie,2026,167500000,,,budgeted,src_ccrek_budget2026_transversal,strong,Defence standardisation 167.5m 2026 (mostly former conscript pensions; path 300/500/750 2027-29)
+bud_nato_standardisation_2029,mod_defensie,2029,750000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Standardisation path 750m 2029 (of which new to-standardise 582.5)
+bud_def_extra_pack_2025_29,mod_defensie,2025,16783000000,,,commitment,src_ccrek_budget2026_transversal,strong,Extra defence package 16783m 2025-2029 (Pâques plan)
+bud_def_temp_fin_2026,sec_federal,2026,1663000000,,,budgeted,src_ccrek_budget2026_transversal,strong,Defence temp financing 1663m 2026 (CIT frozen Russia assets 1163 + Belfius exceptional div 500)
+bud_def_cit_russia_2026,fod_finance,2026,1163000000,,,budgeted,src_ccrek_budget2026_transversal,strong,CIT on frozen Russian assets interest 1163m 2026 (path 1217/1269/1297 2027-29)
+bud_def_struct_fin_2026,sec_federal,2026,400000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Defence structural financing 400m 2026 (std 150 + net measures 250; path to 1750 in 2029)
+bud_def_temp_deficit_2026,sec_federal,2026,1459000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Defence temporary higher deficit 1459m 2026 (pack total temp deficit 4804 of which asset optim 3170)
+bud_def_asset_optim_pack,sec_federal,2025,3170000000,,,commitment,src_ccrek_budget2026_transversal,weak,Asset optimisation to cover 3170m of defence temp deficit 2025-29 (implementation TBD CoA)
+bud_gg_deficit_be_2026_pct,gg_belgium,2026,-4.9,,,estimate,src_ccrek_budget2026_transversal,strong,Belgium financing balance -4.9pct GDP 2026 (DBP 14 Jan + FPB 12 Feb); amount_eur blank pct
+bud_entity1_deficit_2026_pct,sec_federal,2026,-3.7,,,estimate,src_ccrek_budget2026_transversal,medium,Entity I financing balance -3.7pct GDP 2026 expose; Entity II -1.2pct
+bud_chom_reform_save_2026,rva,2026,1685200000,,,budgeted,src_ccrek_budget2026_transversal,strong,Chomage time-limit+degressivity reform save 1685.2m 2026 (reest from 902 initial 2025)
+bud_chom_reform_save_2027,rva,2027,2286700000,,,budgeted,src_ccrek_budget2026_transversal,strong,Chomage reform save 2286.7m 2027
+bud_chom_reform_save_2028,rva,2028,2440600000,,,budgeted,src_ccrek_budget2026_transversal,strong,Chomage reform save 2440.6m 2028
+bud_chom_reform_save_2029,rva,2029,2447800000,,,budgeted,src_ccrek_budget2026_transversal,strong,Chomage reform save 2447.8m 2029
+bud_chom_reform_save_2030,rva,2030,2453300000,,,budgeted,src_ccrek_budget2026_transversal,medium,Chomage reform save ~2453.3m 2030 (CoA footnote)
+bud_chom_exclusions_total,rva,2026,193904,,,estimate,src_ccrek_budget2026_transversal,strong,Estimated UI exclusions 193904 persons Jan2026-Jul2027 (ONEM Sep2025); amount_eur blank headcount
+bud_chom_exclusions_vl,rva,2026,62676,,,estimate,src_ccrek_budget2026_transversal,strong,VL exclusions 62676 of 193904 (recon: total - WAL 88566 - BRU 41709 - DG 953)
+bud_chom_exclusions_bru,rva,2026,41709,,,estimate,src_ccrek_budget2026_transversal,strong,BRU exclusions 41709 of 193904
+bud_chom_exclusions_dg,rva,2026,953,,,estimate,src_ccrek_budget2026_transversal,strong,DG exclusions 953 of 193904
+bud_chom_exclusions_wal,rva,2026,88566,,,estimate,src_ccrek_budget2026_transversal,strong,WAL (excl DG) exclusions 88566 of 193904
+bud_onem_gestion_boost_2026,rva,2026,20500000,,,budgeted,src_ccrek_budget2026_transversal,strong,ONEM+Capac+private OP gestion boost 20.5m 2026 (ONEM 8.3 Capac 9.1 OP 3.1 guard; reform IT)
+bud_onem_gestion_boost_2027,rva,2027,12200000,,,budgeted,src_ccrek_budget2026_transversal,strong,Gestion boost 12.2m 2027 (ONEM 4.2 Capac 8)
+bud_capac_it_2026,rva,2026,9100000,,,budgeted,src_ccrek_budget2026_transversal,strong,Capac IT/gestion share of modernisation 9.1m 2026
+bud_rcc_save_2026,rva,2026,5200000,,,budgeted,src_ccrek_budget2026_transversal,medium,RCC new-entry ban reest save 5.2m 2026 (was 35; anticipation effect; path 14.9/37/64.8)
+bud_rcc_save_2029,rva,2029,64800000,,,budgeted,src_ccrek_budget2026_transversal,medium,RCC extinction path save 64.8m 2029 (was 77)
+bud_rcc_stock_2024,rva,2024,199100000,,,outturn,src_ccrek_budget2026_transversal,strong,RCC chômage complements 199.1m / 10351 beneficiaries 2024
+bud_family_credit_2026,sec_federal,2026,40000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Family credit backpack + extra birth week envelope 40m 2026 (25 initial +15 cohesion; non-reparties; CoA overstate risk)
+bud_family_credit_2027,sec_federal,2027,40000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Family credit envelope 40m 2027
+bud_family_credit_2028,sec_federal,2028,60000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Family credit envelope 60m 2028 (extra +25 from 2028)
+bud_family_credit_2029,sec_federal,2029,60000000,,,budgeted,src_ccrek_budget2026_transversal,medium,Family credit envelope 60m 2029
+bud_voluntary_quit_ui_cost_2026,rva,2026,33600000,,,budgeted,src_ccrek_budget2026_transversal,medium,Voluntary resignation with temp UI cost 33.6m 2026 (was +45 yield; path 34/yr)
+bud_credit_temps_fin_carriere_2026,rva,2026,1600000,,,budgeted,src_ccrek_budget2026_transversal,medium,Credit-temps fin de carriere career-length tighten save 1.6m 2026 (path 4.2/7.7/12.3)
+bud_credit_temps_stock_2024,rva,2024,237600000,,,outturn,src_ccrek_budget2026_transversal,strong,Credit-temps fin carriere allocations 237.6m / 55235 beneficiaries 2024
+bud_parental_foster_2026,rva,2026,1100000,,,budgeted,src_ccrek_budget2026_transversal,medium,Foster-parent parental leave cost 1.1m 2026 (ONSS 0.8 + Emploi 0.3)
+bud_career_break_harmon_2026,rva,2026,4700000,,,budgeted,src_ccrek_budget2026_transversal,medium,Career-break/credit-time harmonisation Entity I cost 4.7m 2026 (path to net yield 14.6 2031; modalities TBD)
+bud_chom_measures_net_new_2026,rva,2026,-40500000,,,budgeted,src_ccrek_budget2026_transversal,medium,Dec2025 notified new+adapted chom measures net -40.5m 2026 (gestion costs outweigh small savings)
+bud_chom_pivot_impact_2026,rva,2026,115700000,,,budgeted,src_ccrek_budget2026_transversal,medium,Chomage pivot-index projection +115.7m 2026 (Jan vs Dec pivot mismatch not reest)
+bud_chom_other_impacts_2026,rva,2026,103800000,,,budgeted,src_ccrek_budget2026_transversal,medium,Chomage other impacts (daily rates arrears days category shifts) +103.8m 2026
