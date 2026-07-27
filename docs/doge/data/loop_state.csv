@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T11:26:51Z,rq_178,182,no,"Seeded rq_178 prio9 + lb airco/fridge high absurdity; next research cash L5 or prio5 rq_177; FOI gap_vl_odv_mvp_cash expanded."
+main,continuous,hole_fill,2026-07-28T10:45:00Z,rq_178,182,no,"Scheduler 60s. Next prio5 rq_177 Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick182 Mijn Kortingsbon face issued ~3.7m 2021; air-air MVP rates; cash L5 FOI."

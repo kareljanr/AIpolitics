@@ -1881,3 +1881,11 @@ bud_farys_cap_subsidies_2024,farys,2024,245272000,,,outturn,src_farys_ov_jv_2024
 bud_farys_personnel_2024,farys,2024,96761000,,,outturn,src_farys_ov_jv_2024,strong,Bezoldigingen sociale lasten pensioenen 96.761m 2024
 bud_farys_fin_cost_2024,farys,2024,42754000,,,outturn,src_farys_ov_jv_2024,strong,Financiele kosten 42.754m 2024
 bud_farys_invest_mva_2024,farys,2024,190130000,,,outturn,src_farys_ov_jv_2024,strong,Aanschaffingen MVA 190.130m 2024
+bud_vl_kortingsbon_sent_2020,vlaanderen_gov,2020,2452000,,,outturn,src_vl_kortingsbon_pq89,strong,Face value of 9808 VERSTUURDE bonnen x250; NOT cash paid (redemption unknown)
+bud_vl_kortingsbon_sent_2021,vlaanderen_gov,2021,3657250,,,outturn,src_vl_kortingsbon_pq89,strong,Face value of 14629 VERSTUURDE bonnen x250; NOT cash paid
+bud_vl_kortingsbon_sent_2022,vlaanderen_gov,2022,7314500,,,outturn,src_vl_kortingsbon_pq718,medium,Face value ~29258 sent (2x 2021 per minister) x250; medium derived; NOT cash paid
+bud_vl_kortingsbon_used_2019_wash_fridge,vlaanderen_gov,2019,1160750,,,outturn,src_vl_kortingsbon_pq89,medium,2019 USED only wash 2314+fridge 2329 =4643 x250 =1.161m medium (cited prior PQ); excludes dryer freezer
+bud_vl_kortingsbon_face_unit,vlaanderen_gov,2025,250,,,budgeted,src_vl_mijn_kortingsbon_portal,strong,Unit face value 250 EUR/appliance; new apps stopped 2026-01-01
+bud_vl_mvp_airair_rate_low,vlaanderen_gov,2025,300,,,budgeted,src_vl_mvp_warmtepomp_airair,strong,MVP lucht-lucht low income-band rate 300 EUR (portal)
+bud_vl_mvp_airair_rate_high,vlaanderen_gov,2025,600,,,budgeted,src_vl_mvp_warmtepomp_airair,strong,MVP lucht-lucht higher band rate up to 600 EUR (portal)
+bud_vl_heat_premiums_2023_coa,vlaanderen_gov,2023,22000000,,,outturn,src_ccrek_hernieuwbare_vl_2025,strong,CoA heat pump/boiler premiums ~22m 2023 (all WP types; air-air share unknown FOI)

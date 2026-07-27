@@ -1831,3 +1831,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: research_queue **rq_178** prio9 open; sources 2; leaderboard **lb_vl_mijn_kortingsbon_appliances** abs 8.5 / **lb_vl_airco_mvp_luchtlucht** abs 9.0; FOI draft gap_vl_odv_mvp_cash + items 4-5 air-air + kortingsbon.
 - FOI: expanded ready letter (human send); no invent euros.
 - Next: execute **rq_178** cash hunt (VEKA/Fluvius/CoA) OR concurrent prio5 **rq_177**.
+
+### 2026-07-28T10:45:00Z - tick 182
+- Unit: **rq_178** (high-clown — **Mijn Kortingsbon white goods + MVP lucht-lucht airco**)
+- Found (strong portals + medium/strong parliamentary QA; **no invent of redeemed cash**):
+  - **Mijn Kortingsbon** face **250 EUR**/appliance; means-tested; **new apps stopped 2026-01-01**.
+  - **Verstuurde** bonnen (SV89/718): **2020 9_808** · **2021 14_629** strong · **2022 ~29_258** medium (2x 2021).
+  - Face-value issued (sent x250, **not cash paid**): **2.45m / 3.66m / ~7.3m** 2020-22.
+  - **2019 used** wash 2_314 + fridge 2_329 → **1.161m** cash medium (prior PQ cite; partial).
+  - **MVP lucht-lucht** rates **300-600 EUR** strong portal; cash split vs other WP **Unknown** (parent CoA heat premiums **22m 2023**).
+- Wrote: sources portals+2 PQ; budgets face-issued series; cmt 1; lb 2; rq_178=done; FOI note.
+- FOI: **gap_vl_odv_mvp_cash** ready (redeemed cash by appliance + air-air split) — human send only.
+- Next: prio5 **rq_177**; deferred **rq_116** SWA.
