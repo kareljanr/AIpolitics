@@ -121,3 +121,6 @@ fluxys_belgium,Fluxys Belgium NV/SA,Fluxys Belgium SA,Belgian natural gas TSO + 
 sfpim,SFPIM Federale Participatie- en Investeringsmaatschappij,SFPIM Société fédérale de Participations et d'Investissement,Federal Holding and Investment Company (SFPI-FPIM),parastatal,sec_federal,bi,https://sfpim.be,,,Federal portfolio holding; assets 11.7bn equity 11.4bn net 291m 2025; 189 companies; dual PMV/WE regional; tick184
 
 brussels_airport,Brussels Airport Company,Brussels Airport Company,Brussels Airport operator (Zaventem),parastatal,sec_federal,bi,https://www.brusselsairport.be,,Zaventem,Airport monopoly; rev 828m EBITDA 356m net 84m CAPEX 302m 2025; SFPIM 25pct + PMV/private 75pct; tick186
+
+bsca,BSCA Brussels South Charleroi Airport,BSCA Aeroport de Charleroi,Charleroi airport operator,parastatal,wallonie_gov,fr,https://www.brussels-charleroi-airport.com,,Charleroi,Low-cost dual to BAC; omzet 126.9m EBITDA 28.6m net 21.4m 2024; SOWAER 35.9pct Belgian Airport 48pct; tick187
+sowaer,SOWAER Societe wallonne des Aeroports,SOWAER Societe wallonne des Aeroports,Walloon airports holding,parastatal,wallonie_gov,fr,https://www.sowaer.be,,,Holds 35.9pct BSCA Class A; dual SFPIM/PMV airport stakes; tick187

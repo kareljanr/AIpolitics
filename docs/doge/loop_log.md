@@ -1902,3 +1902,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 14; cmt 1; lb 2; FOI **gap_bac_balance_sheet** ready; rq_181=done; seeded **rq_182**.
 - FOI: full BS/debt/RAB human send only.
 - Next: prio5 **rq_182**; deferred **rq_116** SWA.
+
+### 2026-07-28T12:25:00Z - tick 187
+- Unit: **rq_182** (FOI-adjacent hole-fill - **BSCA Charleroi dual to Brussels Airport**)
+- Found (strong primary AR2024 EN PDF):
+  - **Turnover EUR 126.860m 2024** (115.934m 2023; +9.42%) · **EBITDA 28.637m** · **net 21.412m**.
+  - Investments **3.880m** · pax **10.501m** (+12%) · avg employees **825** · active FTE **645**.
+  - Shareholding: **Belgian Airport SA 48.32%** · **SOWAER 35.9%** · Sambrinvest 13.7% · Igretec 1.7% · SABCA 0.5%.
+  - Exclusive rights to **2041** · jobs class ~4_650 · employee profit-share CCT90 1.5m class.
+  - Dual map: **BAC Zaventem 828m / 24.4m pax** (SFPIM 25%) vs **BSCA 127m / 10.5m pax** (SOWAER 36%).
+- Port Antwerp-Bruges / Credendo: residual for next tick.
+- Wrote: sources 1; entities 2; budgets 14; cmt 1; lb 2; FOI **gap_sowaer_accounts** ready; rq_182=done; seeded **rq_183**.
+- FOI: SOWAER full accounts human send only.
+- Next: prio5 **rq_183**; deferred **rq_116** SWA.

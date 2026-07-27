@@ -1969,3 +1969,17 @@ bud_bac_pax_2025,brussels_airport,2025,24400000,,,outturn,src_bac_results_2025_p
 bud_bac_cargo_tonnes_2025,brussels_airport,2025,795000,,,outturn,src_bac_results_2025_press,strong,Cargo 795000 tonnes 2025 (+8.5pct)
 bud_bac_movements_2025,brussels_airport,2025,198000,,,outturn,src_bac_results_2025_press,strong,Commercial aircraft movements 198000 2025
 bud_bac_jobs_indirect_class,brussels_airport,2025,64000,,,outturn,src_bac_results_2025_press,medium,Direct+indirect jobs class 64000 (press About)
+bud_bsca_turnover_2024,bsca,2024,126859889,,,outturn,src_bsca_ar2024_en,strong,Turnover 126.860m 2024 (+9.42pct)
+bud_bsca_turnover_2023,bsca,2023,115934074,,,outturn,src_bsca_ar2024_en,strong,Turnover 115.934m 2023
+bud_bsca_net_2024,bsca,2024,21411568,,,outturn,src_bsca_ar2024_en,strong,Net profit 21.412m 2024 (+40.6pct)
+bud_bsca_net_2023,bsca,2023,15228341,,,outturn,src_bsca_ar2024_en,strong,Net profit 15.228m 2023
+bud_bsca_ebitda_2024,bsca,2024,28636560,,,outturn,src_bsca_ar2024_en,strong,EBITDA 28.637m 2024 (+26pct)
+bud_bsca_ebitda_2023,bsca,2023,22737267,,,outturn,src_bsca_ar2024_en,strong,EBITDA 22.737m 2023
+bud_bsca_invest_2024,bsca,2024,3879929,,,outturn,src_bsca_ar2024_en,strong,Investments 3.880m 2024
+bud_bsca_pax_2024,bsca,2024,10501460,,,outturn,src_bsca_ar2024_en,strong,Passengers 10.501m 2024 (+12pct)
+bud_bsca_employees_2024,bsca,2024,825,,,outturn,src_bsca_ar2024_en,strong,Average workforce 825 employees 2024
+bud_bsca_fte_active_eoy2024,bsca,2024,645,,,outturn,src_bsca_ar2024_en,strong,Active FTE 644.84 EOY2024 (724.39 under contract)
+bud_bsca_jobs_indirect_class,bsca,2024,4650,,,outturn,src_bsca_ar2024_en,medium,Direct+indirect jobs class ~4650 (press message)
+bud_bsca_sowaer_share_pct,sowaer,2024,35.9,,,outturn,src_bsca_ar2024_en,strong,SOWAER Class A holding 35.9pct of BSCA shares
+bud_bsca_belgian_airport_share_pct,bsca,2024,48.32,,,outturn,src_bsca_ar2024_en,strong,Belgian Airport SA Class C 48.32pct private operator stake
+bud_airport_dual_rev_bac_bsca,gg_belgium,2024,906859889,,,outturn,src_bsca_ar2024_en,medium,Dual BAC 2025 828m + BSCA 2024 126.9m illustrative non-same-year sum not additive TE

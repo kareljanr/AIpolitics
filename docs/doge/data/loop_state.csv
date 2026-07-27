@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T12:05:00Z,rq_181,186,no,"Scheduler 60s. Next prio5 rq_182 Port/Charleroi/Credendo; rq_116 SWA deferred. FOI ready human send. tick186 BAC rev 828m CAPEX 302m SFPIM 25pct; gap_bac_balance_sheet ready."
+main,continuous,hole_fill,2026-07-28T12:25:00Z,rq_182,187,no,"Scheduler 60s. Next prio5 rq_183 Credendo/Port; rq_116 SWA deferred. FOI ready human send. tick187 BSCA 126.9m dual BAC; gap_sowaer_accounts ready."
