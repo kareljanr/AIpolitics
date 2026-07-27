@@ -942,3 +942,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; taxex LPG+coal series; commitments +2; leaderboard LPG seed; snapshot md; rq_114=done; spawned **rq_115**; ticks=114
 - FOI opened: none
 - Next: **rq_115** leaderboard recompute (prio2) or low **rq_107** SWA; FFS top-line map largely complete
+
+### 2026-07-27T03:35:00Z — tick 115
+- Unit: **rq_115** (Leaderboard priority_index recompute after FFS wave)
+- Method: ran `raw/recompute_leaderboard.py` — cost_score from annual EUR bands; priority = 0.55*cost + 0.35*abs + 0.10*(10-diff); sorted 157 rows.
+- Top 10 after recompute:
+  1. cheque economy **8.68** · 2. heating oil FFS **8.43** · 3. company cars **8.22**
+  4–5. EIWT package / night-shift cluster **8.08** · 6–8. wage block / FFS direct total / gas product-diff **7.98**
+  9. VL non-Maastricht claims **7.83** (stock-as-annual field) · 10. VAT horeca **7.73**
+- FFS wave impact: **lb_ffs_direct_total** + **lb_gas_product_diff** enter top 8; heatoil rises (cost_score 9→9.5 from €1.84bn); company cars stays #3.
+- Wrote: leaderboard.csv sorted; leaderboard_top15.md; rq_115=done; ticks=115
+- FOI opened: none
+- Next: low **rq_107** SWA recheck or human FOI stack (many ready); public open queue thin

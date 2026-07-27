@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,continuous,2026-07-27T03:20:00Z,rq_114,114,no,tick114 FFS snapshot+LPG. Next: rq_115 leaderboard recompute or rq_107 SWA; human FOI.
+main,continuous,continuous,2026-07-27T03:35:00Z,rq_115,115,no,tick115 leaderboard recompute 157 rows. Next: rq_107 SWA low or FOI human stack.
