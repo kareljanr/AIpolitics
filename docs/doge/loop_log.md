@@ -4411,3 +4411,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +44; cmt +2; lb +8; entities; FOI **gap_onva_csv_l5** ready; rq_378=done; spawn **rq_379**; ticks=387
 - FOI: named CSV cash + beheer 2024-25 + FFE contract human send only
 - Next: prio5 **rq_379**; deferred **rq_116** SWA
+
+### 2026-08-01T08:45:00Z - tick 388
+- Unit: **rq_379** (FOI-adjacent hole-fill - **ONSS Gestion globale salaries L5 + pensions publiques**)
+- Found (strong primary CoA Cahier 2025 SS Tables 1-3 12-16):
+  - GG sal **prestations EUR 60,514.7m 2024** (pens **40,125** · inv **13,449** · chom **6,391** · AT/MP **542**)
+  - Rec **99,197.8m** · cotis **65,768.6m** (sal 60,186 · locaux 5,126) · solde **+83.9m**
+  - Dots **9,488.8m** (equilibre 6,142 · ord 2,765 · federees 582) · altfin **21,367.4m**
+  - Reductions cotis **3,592.6m** (bonus emploi 1,679 · structurelles 1,866) + cibles dep **920m**
+  - Pensions publiques **21,041m** · dot Etat **15,472m** · fonds solidarise **3,436m**
+  - INAMI soins consol dep **37,041m** · retenue pensions **1,753m**
+- Wrote: sources +1; budgets +102; cmt +1; lb +8; entity; FOI **gap_onss_gg_transfer_l5** ready; rq_379=done; spawn **rq_380**; ticks=388
+- FOI: IPSS transfer cash codes + equilibre path human send only
+- Next: prio5 **rq_380** (progress@390 next); deferred **rq_116** SWA

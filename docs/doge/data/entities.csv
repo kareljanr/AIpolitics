@@ -19,7 +19,7 @@ fod_sociale_zekerheid,FOD Sociale Zekerheid,SPF SÃƒÂ©curitÃƒÂ© sociale,F
 fod_volksgezondheid,FOD Volksgezondheid,SPF SantÃƒÂ© publique,FPS Public Health,federal,sec_federal,bi,https://www.health.belgium.be,,,
 fod_mobiliteit,FOD Mobiliteit,SPF MobilitÃƒÂ©,FPS Mobility,federal,sec_federal,bi,https://mobilit.belgium.be,,,
 mod_defensie,Defensie,DÃƒÂ©fense,Defence,federal,sec_federal,bi,https://www.mil.be,,,NATO 2pct path from 2025; COFOG 8.8bn 2025; capacity 33.8bn commit 2026-34
-rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,
+rsz,RSZ / ONSS,ONSS,NSSO,social_security,sec_ss,bi,https://www.rsz.fgov.be,,,ONSS/RSZ employee SS; GG sal prest 60.515bn cotis 65.77bn dots 9.49 altfin 21.37 2024 strong CoA; beheer path prior; dual indep RSVZ; FOI gap_onss_gg_transfer_l5; tick388
 riziv,RIZIV / INAMI (globaal),INAMI (global),NIHDI global health insurance,social_security,sec_ss,bi,https://www.riziv.fgov.be,,,Global 45.222bn 2025 (beheer 1.189bn corrections 217m); 46.775bn 2026; tick383
 riziv_care,RIZIV geneeskundige verstrekkingen,INAMI soins de santÃƒÂ© (prestations),NIHDI medical benefits budget,social_security,riziv,bi,https://www.riziv.fgov.be,,,Authorized care 40.986 bn 2026 (39.712 bn 2025)
 pensioenen_fed,Federale pensioenen (stelsels),Pensions fÃƒÂ©dÃƒÂ©rales,Federal pensions schemes,social_security,sec_ss,bi,,,,Map sub-entities in later ticks

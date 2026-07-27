@@ -5013,3 +5013,105 @@ bud_hziv_missions_2024,hziv,2024,642600000,,,outturn,src_ccrek_ss_182e_onva_2025
 bud_hziv_ami_2024,hziv,2024,534400000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI AMI obligatoire 534.4m 2024 (83.16pct)
 bud_hziv_mediprima_2024,hziv,2024,95000000,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI Mediprima 95.0m 2024
 bud_hziv_assures_2024,hziv,2024,166978,,,outturn,src_ccrek_ss_182e_onva_2025,strong,CAAMI assures 166978 2024 (COUNT)
+bud_gg_sal_prest_2022,rsz,2022,52248400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries prestations consolidees 52248.4m CoA Table2
+bud_gg_sal_pens_2022,rsz,2022,34047300000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal pensions 34047.3m (via FPD dual)
+bud_gg_sal_invalidite_2022,rsz,2022,11229100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal invalidite 11229.1m
+bud_gg_sal_chomage_2022,rsz,2022,6449500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal chomage 6449.5m (via RVA dual)
+bud_gg_sal_at_2022,rsz,2022,296200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal accidents travail 296.2m (Fedris dual)
+bud_gg_sal_mp_2022,rsz,2022,219000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal maladies pro 219.0m
+bud_gg_sal_autres_prest_2022,rsz,2022,7200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal autres prestations 7.2m
+bud_gg_sal_prest_2023,rsz,2023,56417700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries prestations consolidees 56417.7m CoA Table2
+bud_gg_sal_pens_2023,rsz,2023,37487000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal pensions 37487.0m (via FPD dual)
+bud_gg_sal_invalidite_2023,rsz,2023,12213600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal invalidite 12213.6m
+bud_gg_sal_chomage_2023,rsz,2023,6179500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal chomage 6179.5m (via RVA dual)
+bud_gg_sal_at_2023,rsz,2023,312800000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal accidents travail 312.8m (Fedris dual)
+bud_gg_sal_mp_2023,rsz,2023,217300000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal maladies pro 217.3m
+bud_gg_sal_autres_prest_2023,rsz,2023,7500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal autres prestations 7.5m
+bud_gg_sal_prest_2024,rsz,2024,60514700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries prestations consolidees 60514.7m CoA Table2
+bud_gg_sal_pens_2024,rsz,2024,40125200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal pensions 40125.2m (via FPD dual)
+bud_gg_sal_invalidite_2024,rsz,2024,13449000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal invalidite 13449.0m
+bud_gg_sal_chomage_2024,rsz,2024,6391000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal chomage 6391.0m (via RVA dual)
+bud_gg_sal_at_2024,rsz,2024,327100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal accidents travail 327.1m (Fedris dual)
+bud_gg_sal_mp_2024,rsz,2024,214800000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal maladies pro 214.8m
+bud_gg_sal_autres_prest_2024,rsz,2024,7700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal autres prestations 7.7m
+bud_gg_sal_solde_2022,rsz,2022,-849700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries solde provisoire -849.7m
+bud_gg_sal_solde_2023,rsz,2023,240700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries solde provisoire 240.7m
+bud_gg_sal_solde_2024,rsz,2024,83900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries solde provisoire 83.9m
+bud_gg_sal_rec_2022,rsz,2022,85442900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries recettes consolidees 85442.9m
+bud_gg_sal_rec_2023,rsz,2023,93430500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries recettes consolidees 93430.5m
+bud_gg_sal_rec_2024,rsz,2024,99197800000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG salaries recettes consolidees 99197.8m
+bud_gg_sal_cotis_2022,rsz,2022,58532800000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal cotisations sociales 58532.8m
+bud_gg_sal_cotis_2023,rsz,2023,62867900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal cotisations sociales 62867.9m
+bud_gg_sal_cotis_2024,rsz,2024,65768600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,GG sal cotisations sociales 65768.6m
+bud_gg_sal_cotis_salaries_2024,rsz,2024,60186000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Cotisations travailleurs salaries 60186.0m 2024 (91.51pct)
+bud_gg_sal_cotis_locaux_2024,rsz,2024,5126200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Cotisations pouvoirs locaux 5126.2m 2024 (7.79pct)
+bud_gg_sal_cotis_onss_gg_2024,rsz,2024,65677600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,ONSS-GG proper cotis 65677.6m 2024 (99.86pct of GG sal cotis)
+bud_gg_sal_cotis_other_ipss_2024,rsz,2024,90900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Cotis other IPSS 90.9m (SFP 57.7 Fedris 32.6 INAMI 0.6)
+bud_gg_sal_dots_total_2022,rsz,2022,7434300000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,ONSS-GG dots+subventions 7434.3m
+bud_gg_sal_dot_ord_2022,rsz,2022,2551000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation ordinaire Etat ONSS-GG 2551.0m
+bud_gg_sal_dot_equilibre_2022,rsz,2022,4076900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation equilibre Etat ONSS-GG 4076.9m
+bud_gg_sal_sub_federees_2022,rsz,2022,806400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Subventions entites federees ONSS-GG 806.4m
+bud_gg_sal_dots_total_2023,rsz,2023,8986600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,ONSS-GG dots+subventions 8986.6m
+bud_gg_sal_dot_ord_2023,rsz,2023,2674700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation ordinaire Etat ONSS-GG 2674.7m
+bud_gg_sal_dot_equilibre_2023,rsz,2023,5603700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation equilibre Etat ONSS-GG 5603.7m
+bud_gg_sal_sub_federees_2023,rsz,2023,708200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Subventions entites federees ONSS-GG 708.2m
+bud_gg_sal_dots_total_2024,rsz,2024,9488800000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,ONSS-GG dots+subventions 9488.8m
+bud_gg_sal_dot_ord_2024,rsz,2024,2764600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation ordinaire Etat ONSS-GG 2764.6m
+bud_gg_sal_dot_equilibre_2024,rsz,2024,6142200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation equilibre Etat ONSS-GG 6142.2m
+bud_gg_sal_sub_federees_2024,rsz,2024,582000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Subventions entites federees ONSS-GG 582.0m
+bud_gg_sal_dot_ord_core_2024,rsz,2024,2565600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation ordinaire core 2565.6m 2024 (excl police)
+bud_gg_sal_police_salaires_2024,rsz,2024,199000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Subvention salaires zones police 199.0m 2024 (within ord package)
+bud_gg_sal_sub_ages_2024,rsz,2024,351300000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Reductions groupe-cible ages 351.3m 2024 (of 582 federees)
+bud_gg_sal_sub_acs_2024,rsz,2024,72000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Reductions contractuels subventionnes ACS 72.0m 2024
+bud_gg_sal_sub_art60_2024,rsz,2024,60100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Reductions article 60 60.1m 2024
+bud_gg_sal_rembourse_exc_2025,rsz,2025,623100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,ONSS-GG rembourse 623.1m en 2025 (excedent 2023 equilibre+altfin sante)
+bud_gg_sal_altfin_2022,rsz,2022,17265700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Financement alternatif ONSS-GG 17265.7m
+bud_gg_sal_altfin_2023,rsz,2023,19361500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Financement alternatif ONSS-GG 19361.5m
+bud_gg_sal_altfin_2024,rsz,2024,21367400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Financement alternatif ONSS-GG 21367.4m
+bud_gg_sal_altfin_tva_base_2024,rsz,2024,8577900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Altfin TVA base/plancher 8577.9m 2024
+bud_gg_sal_altfin_tva_sante_2024,rsz,2024,6841000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Altfin TVA soins sante 6841.0m 2024
+bud_gg_sal_altfin_pm_2024,rsz,2024,5948500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Altfin precompte mobilier 5948.5m 2024
+bud_gg_sal_red_fed_2024,rsz,2024,3592600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Reductions federales cotisations (moindres recettes) 3592.6m 2024
+bud_gg_sal_bonus_emploi_2024,rsz,2024,1679200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Bonus a l emploi 1679.2m 2024
+bud_gg_sal_red_structurelles_2024,rsz,2024,1866200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Reductions structurelles patronales 1866.2m 2024
+bud_gg_sal_red_cibles_dep_2024,rsz,2024,920200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Reductions cibles as social dep 920.2m 2024 (premiers engagements class)
+bud_gg_sal_exoneration_707_2023,rsz,2023,1082200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Exoneration exceptionnelle 7.07pct Q1-Q2 2023 1082.2m (moindre recette)
+bud_pens_pub_dep_2022,fpd,2022,18722400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques depenses 18722.4m
+bud_pens_pub_rec_2022,fpd,2022,19456200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques recettes 19456.2m
+bud_pens_pub_cotis_2022,fpd,2022,5792700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques cotisations 5792.7m
+bud_pens_pub_dot_2022,fpd,2022,13566200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation Etat pensions publiques 13566.2m
+bud_pens_pub_dep_2023,fpd,2023,20233200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques depenses 20233.2m
+bud_pens_pub_rec_2023,fpd,2023,21766900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques recettes 21766.9m
+bud_pens_pub_cotis_2023,fpd,2023,6747000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques cotisations 6747.0m
+bud_pens_pub_dot_2023,fpd,2023,14899100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation Etat pensions publiques 14899.1m
+bud_pens_pub_dep_2024,fpd,2024,21041000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques depenses 21041.0m
+bud_pens_pub_rec_2024,fpd,2024,22438500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques recettes 22438.5m
+bud_pens_pub_cotis_2024,fpd,2024,6853600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques cotisations 6853.6m
+bud_pens_pub_dot_2024,fpd,2024,15471500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Dotation Etat pensions publiques 15471.5m
+bud_pens_pub_fonds_solidarise_2024,fpd,2024,3436200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Cotisations fonds pension solidarise APL 3436.2m 2024
+bud_pens_pub_solde_2024,fpd,2024,350500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Pensions publiques solde +350.5m 2024
+bud_inami_ss_dep_2022,riziv_care,2022,31544500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante depenses consolidees 31544.5m (87pct of branch class)
+bud_inami_ss_rec_2022,riziv_care,2022,6264500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante recettes propres 6264.5m
+bud_inami_ss_solde_2022,riziv_care,2022,1271200000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante solde 1271.2m
+bud_inami_ss_dep_2023,riziv_care,2023,34497300000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante depenses consolidees 34497.3m (87pct of branch class)
+bud_inami_ss_rec_2023,riziv_care,2023,6043300000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante recettes propres 6043.3m
+bud_inami_ss_solde_2023,riziv_care,2023,240900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante solde 240.9m
+bud_inami_ss_dep_2024,riziv_care,2024,37040900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante depenses consolidees 37040.9m (87pct of branch class)
+bud_inami_ss_rec_2024,riziv_care,2024,6693100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante recettes propres 6693.1m
+bud_inami_ss_solde_2024,riziv_care,2024,300100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,INAMI soins sante solde 300.1m
+bud_inami_retenue_pensions_2024,riziv_care,2024,1752900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Retenue 3.55pct sur pensions 1752.9m 2024 (99.4pct INAMI cotis rec)
+bud_ss_hors_gg_dep_2022,sec_ss,2022,731500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Regimes hors Gestion globale dep 731.5m
+bud_ss_hors_gg_rec_2022,sec_ss,2022,1010600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Regimes hors GG rec 1010.6m
+bud_ss_hors_gg_dep_2023,sec_ss,2023,842700000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Regimes hors Gestion globale dep 842.7m
+bud_ss_hors_gg_rec_2023,sec_ss,2023,1160900000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Regimes hors GG rec 1160.9m
+bud_ss_hors_gg_dep_2024,sec_ss,2024,873500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Regimes hors Gestion globale dep 873.5m
+bud_ss_hors_gg_rec_2024,sec_ss,2024,1172400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Regimes hors GG rec 1172.4m
+bud_ss_frais_gestion_2022,sec_ss,2022,2528100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,SS frais de gestion consolides 2528.1m
+bud_ss_frais_gestion_2023,sec_ss,2023,2698500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,SS frais de gestion consolides 2698.5m
+bud_ss_frais_gestion_2024,sec_ss,2024,2790600000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,SS frais de gestion consolides 2790.6m
+bud_ss_autres_dep_2022,sec_ss,2022,10237100000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,SS autres depenses consolidees 10237.1m
+bud_ss_autres_dep_2023,sec_ss,2023,10136000000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,SS autres depenses consolidees 10136.0m
+bud_ss_autres_dep_2024,sec_ss,2024,10473500000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,SS autres depenses consolidees 10473.5m
+bud_ffe_cotis_employeurs_2024,sec_ss,2024,275400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,FFE cotisations employeurs 275.4m 2024 (74.37pct hors-GG cotis)
+bud_gg_sal_pens_benef_2023,fpd,2023,2112213,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Beneficiaires pension retraite salaries moyen 2112213 2023 (COUNT)
+bud_gg_sal_pens_benef_2024,fpd,2024,2178093,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Beneficiaires pension retraite salaries moyen 2178093 2024 (+3.12pct; COUNT)
