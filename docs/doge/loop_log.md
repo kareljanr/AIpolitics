@@ -1601,3 +1601,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 21; cmt 1; lb 2; FOI **gap_hr_rail_charge_matrix** ready; gap_infrabel note; rq_161=done; seeded **rq_162**.
 - FOI: human send gap_hr_rail (NBB PDF + charge L5) + residual De Lijn/Infrabel/NMBS.
 - Next: prio5 **rq_162**; deferred **rq_116** SWA.
+
+### 2026-07-28T05:45:00Z — tick 167
+- Unit: **rq_162** (FOI-adjacent hole-fill — **VIPA 2026 envelope + De Lijn MJR path**)
+- Found (strong primary: MJR 2025-30 + VP commissie Gennez + begroting tables):
+  - **VIPA total:** **EUR 180m 2026** (no +20m expansion) · path **295m 2029**.
+  - **Hospital forfait:** **77.3m 2025 → 89.6m 2026** (+14.5m room new awards).
+  - Ouderen forfait **~35→40m** · handicap auth **16.8m** · instandhouding **+27.2m** (table 27.692m).
+  - Expansion cut **−20m** · classic VEK budgeted **33m** vs need claim 68m · kinderopvang shift **60m**.
+  - **De Lijn ESR-ontvangsten (own, not toelage):** BA2025 **264.3m** · BO2026 **313.8m** · const **263.8m** · 2030 **250.9m**.
+  - E-bus VAK extra **+400m** path · OV savings **−50m 2026** → **−125m 2029** · MOW punctual **30m/yr** · VEK peaks **+145m 2027** / **+59m 2028** · VEK actualisatie **−61.3m**.
+- Antwerp register / Mons BI2026 still not newly filled.
+- Wrote: sources 3; budgets 26; cmt 2; lb 3; FOI gaps vipa+de_lijn notes; rq_162=done; seeded **rq_163**.
+- FOI: named VIPA L5 + full De Lijn toelage still **ready** human send.
+- Next: prio5 **rq_163**; deferred **rq_116** SWA.

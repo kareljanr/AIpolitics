@@ -1555,3 +1555,29 @@ bud_hr_rail_equity_2025,hr_rail,2025,28313321,,,outturn,src_hr_rail_companyweb_n
 bud_hr_rail_fte_2025,hr_rail,2025,27811,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail FTE average 2025 (27811)
 bud_hr_rail_gross_margin_2025,hr_rail,2025,2339082399,,,outturn,src_hr_rail_companyweb_nbb,medium,HR Rail gross margin 2025 (nearly equals omzet)
 bud_hr_rail_omzet_per_fte_2025,hr_rail,2025,85154,,,outturn,src_hr_rail_companyweb_nbb,medium,Implied omzet/FTE 2025 ~85.2k EUR (2.368bn/27811)
+bud_vipa_total_envelope_2026,vipa,2026,180000000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA total krediet envelope 180m 2026 (no +20m expansion; minister Gennez)
+bud_vipa_total_path_2029,vipa,2029,295000000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA envelope path to 295m 2029 for investment calendar
+bud_vipa_hosp_forfait_2025,vipa,2025,77300000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA ziekenhuizen forfait (strategisch class) 77.3m 2025
+bud_vipa_hosp_forfait_2026,vipa,2026,89600000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA ziekenhuizen forfait 89.6m 2026 (in-use dependent; +14.5m room new awards)
+bud_vipa_hosp_new_awards_room_2026,vipa,2026,14500000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,Remaining room new hospital forfait awards 14.5m 2026
+bud_vipa_ouderen_forfait_2025,vipa,2025,35000000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA forfait ouderen 35m 2025
+bud_vipa_ouderen_forfait_2026,vipa,2026,40000000,,,budgeted,src_vl_parl_wvg_vipa_2026,medium,VIPA forfait ouderen almost 40m 2026 (minister almost 40m)
+bud_vipa_handicap_auth_2026,vipa,2026,16800000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA handicap forfait machtiging 16.8m 2026
+bud_vipa_instandhouding_delta_2026,vipa,2026,27200000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,Instandhoudingsforfait +27.2m 2026 (commissie; table 27.692m class)
+bud_vipa_instandhouding_table_2026,vipa,2026,27692000,,,budgeted,src_vl_begroting_publicatie_2026,strong,VIPA Instandhoudingsforfait 27.692m BO2026 publication table
+bud_vipa_ziekenhuis_fin_delta_2026,vipa,2026,6600000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,Ziekenhuisfinanciering +6.6m 2026 commissie
+bud_vipa_expansion_cut_2026,vipa,2026,20000000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,VIPA uitbreidingsbeleid cut -20m 2026 (klassiek+zorgforfait)
+bud_vipa_classic_vek_budgeted_2026,vipa,2026,33000000,,,budgeted,src_vl_parl_wvg_vipa_2026,medium,Classic VIPA VEK only 33m 2026 vs VIPA need claim 68.2m (underfund narrative)
+bud_vipa_kinderopvang_shift_2026,vipa,2026,60000000,,,budgeted,src_vl_parl_wvg_vipa_2026,strong,One-off 60m VIPA shift kinderopvang infrastructuur compensation class 2026
+bud_vipa_kinderopvang_awards_2025,vipa,2025,16500000,,,outturn,src_vl_parl_wvg_vipa_2026,strong,Kinderopvang infrastructure awards 16.5m 2025
+bud_de_lijn_esr_receipts_ba2025,de_lijn,2025,264262000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-ontvangsten (own revenue tickets etc) 264.262m BA2025 - NOT Vlaamse toelage
+bud_de_lijn_esr_receipts_bo2026,de_lijn,2026,313813000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-ontvangsten 313.813m BO2026 Algemene Toelichting (incl measures)
+bud_de_lijn_esr_receipts_const_2026,de_lijn,2026,263813000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-ontvangsten constant beleid 263.813m 2026
+bud_de_lijn_esr_receipts_2030,de_lijn,2030,250913000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-ontvangsten path 250.913m 2030 constant
+bud_de_lijn_ebus_vak_extra_2026,de_lijn,2026,400000000,,,budgeted,src_vl_mjr_2025_2030,strong,Extra investeringen De Lijn e-bus class VAK +400m path 2026-2030 vs 2025
+bud_de_lijn_ov_savings_2026,de_lijn,2026,50000000,,,budgeted,src_vl_mjr_2025_2030,strong,Openbaar vervoer De Lijn & VoM savings path -50m 2026 (vs 2025)
+bud_de_lijn_ov_savings_2029,de_lijn,2029,125000000,,,budgeted,src_vl_mjr_2025_2030,strong,OV De Lijn & VoM savings path -125m 2029-2030
+bud_de_lijn_mow_punctual_save_2026,de_lijn,2026,30000000,,,budgeted,src_vl_mjr_2025_2030,strong,MOW punctual measure De Lijn 30m/yr 2026-2030 (hervormingen table)
+bud_de_lijn_vek_peak_2027,de_lijn,2027,145400000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-VEK peak +145.4m 2027 (e-bus delivery calendar)
+bud_de_lijn_vek_peak_2028,de_lijn,2028,59100000,,,budgeted,src_vl_mjr_2025_2030,strong,De Lijn ESR-VEK +59.1m 2028 vs path
+bud_de_lijn_vek_actualisatie_2026,de_lijn,2026,-61325000,,,budgeted,src_vl_begroting_publicatie_2026,strong,De Lijn Actualisatie VEK-kalender -61.325m BO2026 publication
