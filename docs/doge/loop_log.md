@@ -3711,3 +3711,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity p4science_belspo + belspo note; budgets +17; cmt +1; lb +1; FOI gap_belspo refresh; draft note; rq_325=done; spawn rq_326; ticks=334
 - FOI: base FWI cash-by-year + cut 93m path still ready human send (project L5 partial closed)
 - Next: prio5 **rq_326**; deferred **rq_116** SWA
+
+### 2026-07-31T06:15:00Z - tick 335
+- Unit: **rq_326** (FOI-adjacent hole-fill - **FED-tWIN dual FSI-university + DIGIT-04 + climate RDI**)
+- Found (strong BELSPO FED-tWIN page + RMAH strategy + climat.be inventory):
+  - **FED-tWIN**: **125** research profiles (5 batches x 25, 2019-2024); 100% fund 5y then 50% next 5y.
+  - Rates (RMAH cites BELSPO): **€125k/yr** first 5y → **€75k/yr** next 5y; ~**€1m/profile** 10y class; programme **~€125m** full-path medium class (staggered FOI).
+  - Climate FedTwin subset: **13** projects **€9.25m** 2020-26 (strong).
+  - **DIGIT-04** 2019-24: **€37.63m** all 10 FSI + Cinematek; RMAH ~€380k/yr class.
+  - Climate portfolio: **€39.2m** 2019-27 / **€32.9m** 2022-26 (BRAIN-P1 11.7; STEREO 7; ESA Climate+DTE 9; Polar 1.67; BELGICA 2.0).
+  - Dual: FSI↔11 universities NL/FR; heritage digitisation dual community.
+- Wrote: sources +3; entities +2; budgets +15; cmt +3; lb +3; FOI gap_fedtwin + gap_digit04 ready drafts; rq_326=done (seeded); spawn rq_327; ticks=335
+- FOI: FED-tWIN cash+profiles L5 and DIGIT FSI L5 ready human send
+- Next: prio5 **rq_327**; deferred **rq_116** SWA

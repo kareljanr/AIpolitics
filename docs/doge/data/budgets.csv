@@ -4076,3 +4076,18 @@ bud_p4science_sciensano_2024_25,p4science_belspo,2025,563760,,,budgeted,src_bels
 bud_p4science_nicc_incc_2024_25,p4science_belspo,2025,393260,,,budgeted,src_belspo_p4science_call_2024_25,strong,NICC-INCC non-competitive P4Science envelope
 bud_p4science_whi_2024_25,p4science_belspo,2025,131180,,,budgeted,src_belspo_p4science_call_2024_25,strong,WHI non-competitive P4Science envelope
 bud_p4science_noncomp_sum_2024_25,p4science_belspo,2025,12394510,,,budgeted,src_belspo_p4science_call_2024_25,strong,Sum non-competitive FSI envelopes 12.39451m (~80pct of 15.26m)
+bud_fedtwin_rate_yr1_5,fedtwin_belspo,2024,125000,,,budgeted,src_rmah_research_strategy_2023,strong,FED-tWIN annual budget per profile first five years 125k (RMAH strategy cites BELSPO rates)
+bud_fedtwin_rate_yr6_10,fedtwin_belspo,2026,75000,,,budgeted,src_rmah_research_strategy_2023,strong,FED-tWIN annual budget per profile years 6-10 75k (after 50pct step-down vs full; RMAH)
+bud_fedtwin_profile_count,fedtwin_belspo,2024,125,,,budgeted,src_belspo_fedtwin_page,strong,Total 125 research profiles via 5 batches of 25 selected 2019-2024
+bud_fedtwin_profile_10y_class,fedtwin_belspo,2024,1000000,,,budgeted,src_rmah_research_strategy_2023,medium,Illustrative TCO per profile 5*125k+5*75k=1.0m if full 10y path; not outturn
+bud_fedtwin_programme_10y_class,fedtwin_belspo,2024,125000000,,,budgeted,src_rmah_research_strategy_2023,medium,Illustrative if 125 profiles full 10y path ~125m; batches staggered not concurrent; FOI cash path
+bud_fedtwin_climate_13_2020_26,fedtwin_belspo,2026,9250000,,,budgeted,src_climat_be_belspo_climate_funds,strong,Climate-related FedTwin postdocs 13 projects total 9.25m 2020-2026 (climat.be inventory)
+bud_digit04_total_2019_24,digit04_belspo,2024,37630000,,,budgeted,src_rmah_research_strategy_2023,strong,DIGIT-04 programme 2019-2024 envelope 37.63m for 10 FSI + Cinematek
+bud_digit04_rmah_annual_class,digit04_belspo,2024,380000,,,budgeted,src_rmah_research_strategy_2023,medium,RMAH share ca 380k annually within DIGIT-04
+bud_belspo_climate_total_2019_27,belspo,2027,39200000,,,budgeted,src_climat_be_belspo_climate_funds,strong,BELSPO climate-related projects total 39.2m between 2019-2027 (inventory sum)
+bud_belspo_climate_2022_26,belspo,2026,32900000,,,budgeted,src_climat_be_belspo_climate_funds,strong,BELSPO climate-related 32.9m between 2022-2026
+bud_belspo_polar_call_2022_25,belspo,2025,1667100,,,budgeted,src_climat_be_belspo_climate_funds,strong,Polar call 5 climate projects total 1.6671m 2022-2025
+bud_belspo_belgica_call_2022_25,belspo,2025,1997100,,,budgeted,src_climat_be_belspo_climate_funds,strong,BELGICA call 2 climate projects total 1.9971m 2022-2025
+bud_belspo_brain_p1_climate_2019_26,belspo,2026,11681000,,,budgeted,src_climat_be_belspo_climate_funds,strong,BRAIN-be2.0 Pillar1 climate 16 projects total 11.681m 2019-2026
+bud_belspo_stereo_climate_2023_29,belspo,2029,7000000,,,budgeted,src_climat_be_belspo_climate_funds,strong,STEREO EO climate 10 projects total 7.0m 2023-2029
+bud_belspo_esa_climate_space_dte_2023_27,belspo,2027,9000000,,,budgeted,src_climat_be_belspo_climate_funds,strong,ESA Climate Space 6.5m + Digital Twin Earth 2.5m = 9.0m 2023-2027
