@@ -3908,3 +3908,11 @@ bud_fwb_mdj_carceral_new_2026,fwb_maisons_justice,2026,3400000,,,budgeted,src_fw
 bud_fwb_mdj_partner_nonindex_cut_2026,fwb_maisons_justice,2026,-449000,,,budgeted,src_fwb_expose_gen_dep_2026,strong,Non-indexation temporaire subventions services partenaires MDJ -449k BI2026
 bud_fwb_mdj_formation_cuts_2026,fwb_maisons_justice,2026,-321000,,,budgeted,src_fwb_expose_gen_dep_2026,strong,Formation generique -156k + urgences collectives formation -165k BI2026
 bud_etnic_moyens_bi2026,etnic,2026,123000000,,,budgeted,src_fwb_expose_gen_dep_2026,medium-strong,ETNIC moyens budgetaires BI2026 123m (from 119.4m init2025 +3.5m); may differ CoA full recettes perimeter tick314
+bud_rail_fac_omzet_2022,rail_facilities,2022,11278774,,,outturn,src_rail_facilities_companyweb_nbb,strong,Rail Facilities statutory omzet 11278774 EUR 2022
+bud_rail_fac_omzet_2023,rail_facilities,2023,13829791,,,outturn,src_rail_facilities_companyweb_nbb,strong,Rail Facilities statutory omzet 13829791 EUR 2023
+bud_rail_fac_omzet_2024,rail_facilities,2024,13874085,,,outturn,src_rail_facilities_companyweb_nbb,strong,Rail Facilities statutory omzet 13874085 EUR 2024
+bud_rail_fac_omzet_2025,rail_facilities,2025,14839471,,,outturn,src_rail_facilities_companyweb_nbb,strong,Rail Facilities statutory omzet 14839471 EUR 2025
+bud_rail_fac_net_2024,rail_facilities,2024,149041,,,outturn,src_rail_facilities_companyweb_nbb,strong,Net result 149041 EUR 2024
+bud_rail_fac_net_2025,rail_facilities,2025,111719,,,outturn,src_rail_facilities_companyweb_nbb,strong,Net result 111719 EUR 2025
+bud_rail_fac_equity_2025,rail_facilities,2025,11008963,,,outturn,src_rail_facilities_companyweb_nbb,strong,Equity 11008963 EUR YE2025
+bud_rail_fac_fte_2025,rail_facilities,2025,0,,,outturn,src_rail_facilities_companyweb_nbb,strong,Statutory FTE 0 2025 (legal employment via HR Rail dual; same pattern as NMBS)

@@ -3502,3 +3502,15 @@ Append-only. Each tick adds a short entry.
 - FOI: AGMJ wage cash residual ready human send
 - Next: prio5 **rq_311** hole-fill; **rq_310 progress@320** in 2 ticks; deferred **rq_116** SWA
 
+
+### 2026-07-30T22:15:00Z - tick 319
+- Unit: **rq_311** (FOI-adjacent hole-fill - **Rail Facilities dual HR Rail**)
+- Found (strong NBB/Companyweb KBO 0403.265.325):
+  - Omzet **11.28 / 13.83 / 13.87 / 14.84m** 2022-25; net **0.11m** 2025; equity **11.0m**.
+  - **FTE 0** statutory (same dual-employer pattern as NMBS).
+  - Infrabel **49%** stake via HR Rail path; staff procurement/welfare vehicle.
+  - Completes dual rail map note: HR 2.37bn + NMBS 17k/FTE0 + Infrabel 9.4k + Ypto/TUC + RailFac 15m.
+- Wrote: sources +1; entity rail_facilities; budgets +8; cmt +1; lb +2; FOI gap_rail_facilities_l5 ready; draft; rq_311=done; spawn rq_312; ticks=319
+- FOI: activity L5 low-medium prio human send
+- Next: **MANDATORY rq_310 progress@320**; then rq_312; deferred **rq_116** SWA
+

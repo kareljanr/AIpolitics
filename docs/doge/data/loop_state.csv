@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T21:45:00Z,rq_309,318,no,Scheduler 60s. Next prio5 rq_311 or progress rq_310 at tick320; rq_116 SWA deferred. tick318 AGMJ 801 ETP + DO11 437.6m.
+main,continuous,hole_fill,2026-07-30T22:15:00Z,rq_311,319,no,Scheduler 60s. NEXT MANDATORY rq_310 progress@320; then rq_312; rq_116 SWA deferred. tick319 Rail Facilities 14.8m dual HR.
