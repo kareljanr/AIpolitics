@@ -4231,3 +4231,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2 (vsb note); sources +1; budgets +13; cmt +1; lb +9; FOI **gap_vsb_provider_l5** ready + draft; rq_364=done; spawn **rq_365**; ticks=373
 - FOI: WZC/provider L5 + BO2026 pillars human send only
 - Next: prio5 **rq_365**; deferred **rq_116** SWA
+
+### 2026-08-01T01:45:00Z - tick 374
+- Unit: **rq_365** (FOI-adjacent hole-fill - **VAPH 2025 institutional L5 + PVB split**)
+- Found (strong primary BBT WVG BU2025):
+  - GGF2RX toelage VEK **EUR 2,762.041m** (BA-JR=BU; fully available to VAPH)
+  - Agency exp VEK BU **2,735.733m** · receipts **2,810.173m**
+  - **PVB** **1,517.536m** VEK: third-party **1,207.851m** · cash **309.684m**
+  - Zorginstellingen subsidies **896.795m** (top-up/MFC/internaten)
+  - 5,201 TBS · **4,551** persons · PAB awards **330**
+  - Uitbreiding: PG1 52.4 · PG2 24.1 · PAB minors 13 · MFC/RTH 12.9m
+- Wrote: entities +1; sources +1; budgets +16; cmt +1; lb +6; FOI **gap_vaph_provider_pvb_l5** ready + draft; rq_365=done; spawn **rq_366**; ticks=374
+- FOI: provider top + PAB EUR + BO2026 human send only
+- Next: prio5 **rq_366**; deferred **rq_116** SWA
