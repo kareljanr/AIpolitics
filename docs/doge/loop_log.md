@@ -4190,3 +4190,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_361=done; spawn **rq_362**; ticks=370
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_362** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-01T00:15:00Z - tick 371
+- Unit: **rq_362** (FOI-adjacent hole-fill - **Flanders VIA L5 + sociale akkoorden package**)
+- Found (strong primary VL BBT WVG BU2025):
+  - **GCF2FA VIA** BA VEK **EUR 137.796m** / BU **141.687m**
+    - GSD-V **81.178m** · 2de pensioenpijler priv **21.513m** · VSPF maribel **15.638m**
+    - VVSG **4.681m** · SFNP **2.838m** · Verso/VIVO named · sample sum **~128.8m**
+  - **GHF2TR sociale akkoorden** BA **217.298m** / BU **226.806m** (eindeloopbaan/maribel/syndicale ouderenzorg EL GGZ)
+  - Vrijwilligerswerk GCF2EB BA **2.037m** (140 orgs · 1.860m autonomous)
+  - Lokaal sociaal GCF2ED BA **2.461m** (Lus 0.501 Trefpunt 0.337 VVSG 0.322)
+  - ISE Beleidsondersteuning BA VEK **305.139m** / BU **283.604m** (broad context)
+- Wrote: entities +3; sources +1; budgets +27; cmt +2; lb +8; FOI **gap_vl_via_soc_akkoorden_l5** ready + draft; rq_362=done; spawn **rq_363**; ticks=371
+- FOI: VIA BVR outturn + soc-akkoorden component split human send only
+- Next: prio5 **rq_363**; deferred **rq_116** SWA
