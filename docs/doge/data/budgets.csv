@@ -1405,3 +1405,8 @@ bud_justice_dbfm_dendermonde_annual,dg_epi,2023,15000000,,,outturn,src_coa_priso
 bud_justice_dbfm_antwerpen_annual,dg_epi,2026,17700000,,,budgeted,src_coa_prisons_dbfm_2023,medium,Antwerpen annual 17.7m at award capacity 440 (may change before financial close)
 bud_justice_dbfm_offbalance_2022,dg_epi,2022,2600000000,,,commitment,src_coa_prisons_dbfm_2023,strong,Legal commitment off-balance sheet DBFM 2.6bn end-2022
 bud_justice_dbfm_places_total,dg_epi,2029,3874,,,budgeted,src_coa_prisons_dbfm_2023,strong,9 DBFM prisons planned capacity addition 3874 places (5 open ~2570 in 2023 audit)
+bud_police_financing_share_municipal,gg_belgium,2025,64,,,ratio_pct,src_besafe_police_financing,strong,Municipal share ~64pct of local police financing BeSafe official portal
+bud_police_financing_share_federal,gg_belgium,2025,36,,,ratio_pct,src_besafe_police_financing,strong,Federal share ~36pct of local police financing BeSafe
+bud_gent_politiezone_mjp6y_class,city_gent,2026,746000000,,,budgeted,src_hln_vl_police_mjp_2026,medium,Press: Gent police zone city path ~746m over 6y MJP (~120-130m/yr class)
+bud_police_city_sample_sum_tick159,gg_belgium,2026,254838925,,,mixed,src_doge_police_zones_snap_2026,strong,Sum sample city transfers: Gent110.6m2024+Charleroi82.9m2026+Brugge33.75m2026+Namur27.59m2026=254.84m mixed years
+bud_brugge_politiezone_2026,city_brugge,2026,33750000,,,budgeted,src_brugge_mjp_2026,strong,Brugge MJP nominative police zone 33.75m 2026 (already cmt; ensure budget row)

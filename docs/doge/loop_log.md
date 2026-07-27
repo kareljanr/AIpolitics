@@ -1497,3 +1497,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; entities 2; budgets ~23; cmt 3; lb 4; rq_150=done; FOI residual ready.
 - FOI: gap_justice_dual_lang_tolk (interpreter/dual-lang cash) human send only.
 - Next: prio4 **rq_151 police zones** / prio5 **rq_121 hole-fill** / deferred **rq_116 SWA**.
+
+### 2026-07-28T02:55:00Z — tick 159
+- Unit: **rq_151** (Local police zones financing consolidate Gent/Brugge + multi-city)
+- Found (strong city sources + BeSafe mechanism):
+  - **Mechanism:** municipal **~64%** / federal **~36%** of local police financing (BeSafe).
+  - **City-side sample (ranked):** Gent **EUR 110.6m** (2024 register) · Charleroi ZPL **82.9m** (BI2026) · Brugge **33.75m** (MJP 2026; 32.9m register 2024) · Namur **27.6m** (2026).
+  - **Sample sum (mixed years):** **EUR 254.8m** (4 cities, city-side only).
+  - **Gent MJP path (medium press):** **~746m / 6y** (~120–130m/yr class).
+  - Fire HVZ not mixed into police ranks (Gent HVZ 42.3m; Brugge HVZ 10.1m).
+- Wrote: snapshot md; sources 3; budgets 5; cmt 1; lb 3; rq_151=done; FOI residual ready.
+- FOI: gap_police_zones_fed_top50 (federal+municipal matrix all zones) human send only.
+- Next: prio5 **rq_121** FOI-adjacent public hole-fill; **rq_116** SWA deferred (Oct–Dec).
