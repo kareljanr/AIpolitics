@@ -3897,3 +3897,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +16; cmt +1; lb +3; FOI gap_awv_sofico_l5 ready; rq_339=done; spawn rq_340; ticks=348
 - FOI: AWV opex matrix + top works L5 both sides ready human send
 - Next: prio5 **rq_340**; **progress@350 in 2 ticks**; deferred **rq_116** SWA
+
+### 2026-07-31T13:15:00Z - tick 349
+- Unit: **rq_340** (FOI-adjacent hole-fill - **Onroerend Erfgoed Flanders dual AWaP heritage**)
+- Found (strong primary VL BBT Onroerend Erfgoed BO2026 13-O):
+  - **BO2026 total** (excl apparaatrek/prog B): VAK **€121.823m** · VEK **€127.789m**.
+  - **BA2025:** VAK **€150.764m** · VEK **€132.084m** (incl one-off partners/Thermae).
+  - **ISE Kwaliteit:** VAK **€99.995m** · VEK **€92.702m** (**82.1%** of policy credits).
+  - **Premies** QG0-1QGD2CB-WT: VAK **€92.864m** · VEK **€83.188m**; standaard max **€45.3m**; wachtlijst new **€9m**; cut **-€6.562m**.
+  - **Erfgoedleningen** PFV: VAK **€7.0m** · VEK **€9.383m** (ESR-neutral).
+  - **ISE Partnerschappen:** VAK **€16.953m** · VEK **€29.540m**; prioritaire partners **€1.710m**; IOED VAK **€2.587m**.
+  - Bourlaschouwburg max VL **€40.17m** multi-year; Herita SWO 2026-2030 path.
+  - Dual: AWaP Wallonia total **residual FOI** (no clean public total this tick).
+- Wrote: sources +1; entities +2; budgets +19; cmt +1; lb +2; FOI gap_oe_awap_dual_l5 ready; rq_340=done; spawn **rq_341 progress@350**; ticks=349
+- FOI: OE premie L5 + waitlist + AWaP total ready human send
+- Next: **MANDATORY rq_341 progress@350**; deferred **rq_116** SWA
