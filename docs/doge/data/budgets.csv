@@ -965,3 +965,21 @@ bud_fwb_superieur_savings_2026,fwb_gov,2026,14000000,,,budgeted,src_fwb_expgen_2
 bud_fwb_enseignant_traitements_delta_2026,fwb_gov,2026,90300000,,,budgeted,src_fwb_expgen_2026,strong,AB traitements personnel enseignant +90.3m y/y initial
 bud_fwb_fonds_ecureuil_prr_2026,fwb_gov,2026,105000000,,,budgeted,src_fwb_expgen_2026,strong,Dotation complémentaire Fonds Ecureuil +105m PRR school credits
 bud_fwb_medias_portfolio_cl_2026,fwb_gov,2026,1249525000,,,budgeted,src_fwb_expgen_2026,strong,Sports FP Simplification Médias portfolio CL 1249.525m 2026 (includes RTBF path)
+bud_bru_debt_2026,brussels_gov,2026,727758000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 36.042 Gestion dette publique liq 727.758m eng 730.164m 2026
+bud_bru_initiatives_reg_2026,brussels_gov,2026,130000000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 36.044 Initiatives régionales liq 130m eng 330m (Vivaqua+Confex participations)
+bud_bru_eu_funds_2026,brussels_gov,2026,129958000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 39.073 Financement projets fonds européens liq 129.958m eng 304.838m
+bud_bru_pouvoirs_locaux_2026,brussels_gov,2026,757611000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 40.041 Soutien pouvoirs locaux liq 757.611m eng 784.298m
+bud_bru_proprete_2026,brussels_gov,2026,411102000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 41.103 Financement Bruxelles-Propreté liq 411.102m eng 406.476m
+bud_bru_routes_2026,brussels_gov,2026,263940000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 42.043 Construction entretien équipements routiers liq 263.940m eng 424.037m
+bud_bru_slrb_2026,brussels_gov,2026,418258000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 43.110 Financement SLRB logement liq 418.258m eng 687.258m
+bud_bru_commissions_2026,brussels_gov,2026,691675000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 45.001-003 Financement commissions communautaires liq/eng 691.675m
+bud_bru_kanal_2026,brussels_gov,2026,86700000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Projet Kanal eng 86.7m 2026 (incl 60m participation/crédit; was 25.1m class)
+bud_bru_emploi_bee_2026,brussels_gov,2026,983600000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,BEE emploi total 983.6m initial 2026 excl subsistence (Actiris+titres+inclusion)
+bud_bru_emploi_inclusion_2026,brussels_gov,2026,31600000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 44.047 Soutien emploi inclusion compétences liq 31.6m
+bud_bru_actiris_2026_confirm,actiris,2026,648113000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 44.111 Actiris 648.113m eng/liq (-78.2m vs prov 2025)
+bud_bru_stib_2026_confirm,stib,2026,1167619000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 42.112 STIB 1167.619m eng/liq 2026
+bud_bru_titres_2026_confirm,brussels_gov,2026,303832000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Prog 44.048 titres-services 303.832m
+bud_bru_facultatives_cut_2026,brussels_gov,2026,25000000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,Trajectoire: subsides facultatifs -25m/yr 2026-2029
+bud_bru_sgrbc_eng_2026,brussels_gov,2026,8900000000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,SGRBC total eng credits 8.9bn 2026
+bud_bru_sgrbc_liq_2026,brussels_gov,2026,8000000000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,SGRBC total liq credits 8.0bn 2026
+bud_bru_visit_cut_2026,brussels_gov,2026,5700000,,,estimate,src_bt_visit_brussels_cut_2026,medium,Visit.brussels subsidy cut ~5.7m 2026 (press); CoA shows SPRB financing ~26.6m prior year class

@@ -1202,3 +1202,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 21; commitments 3; leaderboard 3; rq_127=done.
 - FOI: none new (culture pure ASBL top20 still thin but moratoria map + existing multi-entity FOI stack).
 - Next: prio7 **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**.
+
+### 2026-07-27T18:45:00Z — tick 136
+- Unit: **rq_128** (Brussels SGRBC top named transfers STIB culture L5)
+- Found (strong CoA 13 Mar 2026; Visit medium press):
+  - SGRBC **eng €8.9bn / liq €8.0bn**; Table9 top programmes ˜71% of liq.
+  - **STIB €1.1676bn** · **Actiris €648.1m** (-78.2m) · **titres-services €303.8m** · **SLRB eng €687m / liq €418m** · **Bruxelles-Propreté liq €411.1m** · **commissions €691.7m** · **dette liq €727.8m** · **pouvoirs locaux €757.6m** · **routes liq €263.9m**.
+  - Culture flagship: **Kanal eng €86.7m** (+€60m participation/credit); CoA flags OAA2 list omission.
+  - Initiatives régionales **eng €330m / liq €130m** (Vivaqua+Confex); finops path SLRB 400 / Vivaqua 180 / Confex 150 / Kanal 60 within €1bn max.
+  - Facultatives **-€25m/yr** 2026-29; emploi BEE total **€983.6m**; PPI STIB cut path **€964.6m** 2026-29.
+  - Visit.brussels cut **~€5.7m** 2026 medium press only.
+- Wrote: sources 2; budgets 18; commitments 4; leaderboard 3; rq_128=done.
+- FOI: none new (pure ASBL culture residual thin; Visit official cash path optional deepen later).
+- Next: prio7 **rq_153 taxex** / **rq_138 unions** / **rq_139 mutualities** / **rq_143 Antwerp**.
