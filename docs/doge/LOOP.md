@@ -18,6 +18,17 @@ Recurring agent protocol. Goal: **each tick leaves the dataset richer** until **
 - Pause only if `paused=yes` **by human** — or if truly nothing public left **and** all material gaps are already `foi_queue` status `ready`/`sent`/`answered` **and** human confirmed idle.  
 - `idle_waiting_foi` is a **mode**, not automatic pause of the scheduler.
 
+## Progress report (every 10 ticks)
+
+When `ticks_completed` is a multiple of **10** (or human asks “progress / % / waste top”):
+
+1. Update **`docs/doge/data/progress_every_10_ticks.md`** — layers A–E % of €347.956 bn TE (honest order-of-magnitude for L2/L5).  
+2. Refresh **`docs/doge/data/doge_waste_top10_current.md`** — top **10** by `priority_index` + short high-absurdity list.  
+3. Append 5–10 lines to `loop_log.md`.  
+4. Commit: `doge(loop): tick N — progress coverage % + waste top10`.
+
+Do **not** claim L5 near-complete of €348 bn. Taxex/FFS sit **off** the TE pie unless labelled.
+
 ## State files (read every tick)
 
 | File | Role |

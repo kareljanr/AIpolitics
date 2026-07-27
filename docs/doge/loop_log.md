@@ -979,6 +979,12 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_152** GG bridge prio9; or rq_123/124/125/130/131 prio8; do not idle
 
 
+### 2026-07-28T12:00:00Z -- progress dashboard (human request)
+- Added living **`progress_every_10_ticks.md`** + **`doge_waste_top10_current.md`**; LOOP.md requires refresh every 10 ticks.
+- **Tick 176 coverage (vs â‚¬347.956 bn TE 2025):** L0 **100%** Â· L1 **100%** Â· L2 entity totals **~60â€“65%** Â· L5 named end-receivers **~8â€“12%** Â· FOI ready **~55**.
+- **Waste top 3:** cheque economy (8.83) Â· company cars FPB (8.50) Â· heating oil FFS (8.43). High-abs honourable: **Het Wassalon** (abs 9.5, prio 7.4).
+
+
 ### 2026-07-27T14:20:00Z -- cadence: 60s scheduler (user)
 - User: drop timer; prefer chain-on-complete or 30s/1m.
 - Platform: durable scheduler is **interval-only** (no native on-complete chain); **min interval 60s** (30s not available).
@@ -1687,57 +1693,57 @@ Append-only. Each tick adds a short entry.
 - FOI: residual L5 municipal dividends + BCR 180m capital cash calendar human send.
 - Next: prio5 **rq_168**; deferred **rq_116** SWA.
 
-### 2026-07-28T07:45:00Z — tick 173
-- Unit: **rq_168** (FOI-adjacent hole-fill — **ORES Assets Walloon DSO 2024**)
+### 2026-07-28T07:45:00Z ï¿½ tick 173
+- Unit: **rq_168** (FOI-adjacent hole-fill ï¿½ **ORES Assets Walloon DSO 2024**)
 - Found (strong primary investor presentation BGAAP + IFRS consol accounts):
-  - **Turnover BGAAP EUR 1,067.9m 2024** (1,130.3m 2023) · **EBITDA 322.1m** (30.2% margin) · **EBIT 151.6m** · **net 72.4m** (IFRS profit **66.89m**).
-  - **Gridfee 907.6m** (elec **716.7m** + gas **190.9m**) · RAB **4.17bn** · CAPEX **434m** (2023: 384m).
-  - Assets BGAAP **5.057bn** · equity **2.050bn** · LT debt **2.143bn** · ST debt **319m** · capital subsidies BS **110.1m**.
-  - **Dividendes associés 76.145m** 2024 (AR; IFRS paid re 2023: **74.668m**) — municipal public transfer from regulated tariffs.
-  - CWaPE 2025 auth rev: elec **630.4m** + gas **218.5m** · WACC **4.027%** · funding need 2025 **~530m**.
-  - Elec regulatory balances total **242.5m** · gas **67.6m** · 100% Walloon municipal ownership via intercommunales.
+  - **Turnover BGAAP EUR 1,067.9m 2024** (1,130.3m 2023) ï¿½ **EBITDA 322.1m** (30.2% margin) ï¿½ **EBIT 151.6m** ï¿½ **net 72.4m** (IFRS profit **66.89m**).
+  - **Gridfee 907.6m** (elec **716.7m** + gas **190.9m**) ï¿½ RAB **4.17bn** ï¿½ CAPEX **434m** (2023: 384m).
+  - Assets BGAAP **5.057bn** ï¿½ equity **2.050bn** ï¿½ LT debt **2.143bn** ï¿½ ST debt **319m** ï¿½ capital subsidies BS **110.1m**.
+  - **Dividendes associï¿½s 76.145m** 2024 (AR; IFRS paid re 2023: **74.668m**) ï¿½ municipal public transfer from regulated tariffs.
+  - CWaPE 2025 auth rev: elec **630.4m** + gas **218.5m** ï¿½ WACC **4.027%** ï¿½ funding need 2025 **~530m**.
+  - Elec regulatory balances total **242.5m** ï¿½ gas **67.6m** ï¿½ 100% Walloon municipal ownership via intercommunales.
   - Dual/triple DSO stack: **Fluvius VL** + **ORES (+RESA residual) WAL** + **Sibelga BCR** + **Elia** federal TSO.
 - Mons BI2026 / Antwerp bulk register / RESA still open for next ticks.
 - Wrote: sources 2; entity 1; budgets 28; cmt 2; lb 2; FOI gap_interco note; rq_168=done; seeded **rq_169**.
 - FOI: residual L5 municipal dividends Fluvius/RESA + BCR capital calendar human send.
 - Next: prio5 **rq_169** (RESA/Antwerp/Mons/De Lijn/taxex); deferred **rq_116** SWA.
 
-### 2026-07-28T08:05:00Z — tick 174
-- Unit: **rq_169** (FOI-adjacent hole-fill — **RESA SA Intercommunale comptes 2024**)
+### 2026-07-28T08:05:00Z ï¿½ tick 174
+- Unit: **rq_169** (FOI-adjacent hole-fill ï¿½ **RESA SA Intercommunale comptes 2024**)
 - Found (strong primary NBB annual accounts, AG 04-06-2025, PwC):
-  - **Chiffre d'affaires EUR 383.881m 2024** (392.969m 2023) · ventes/prestations **500.682m** (incl prod. immobilisée **94.6m**).
-  - **Op. profit 76.915m** · pre-tax **63.501m** · **net 48.250m** (51.113m 2023).
-  - Assets **1.955bn** · fixed **1.594bn** · equity **955.6m** · capital **657.9m**.
-  - LT financial debt **759.6m** (bonds **500m** + credit **259.6m**) · total dettes **977.2m**.
-  - **Dividend (rémunération de l'apport) 18.8m** (same 2023) · bénéfice à distribuer **18.95m**.
-  - Capital subsidies BS **39.762m** (was **7.792m** 2023) · personnel **107.3m** · D&A **57.4m**.
+  - **Chiffre d'affaires EUR 383.881m 2024** (392.969m 2023) ï¿½ ventes/prestations **500.682m** (incl prod. immobilisï¿½e **94.6m**).
+  - **Op. profit 76.915m** ï¿½ pre-tax **63.501m** ï¿½ **net 48.250m** (51.113m 2023).
+  - Assets **1.955bn** ï¿½ fixed **1.594bn** ï¿½ equity **955.6m** ï¿½ capital **657.9m**.
+  - LT financial debt **759.6m** (bonds **500m** + credit **259.6m**) ï¿½ total dettes **977.2m**.
+  - **Dividend (rï¿½munï¿½ration de l'apport) 18.8m** (same 2023) ï¿½ bï¿½nï¿½fice ï¿½ distribuer **18.95m**.
+  - Capital subsidies BS **39.762m** (was **7.792m** 2023) ï¿½ personnel **107.3m** ï¿½ D&A **57.4m**.
   - Completes **Walloon dual DSO map**: ORES **1.068bn** + RESA **384m** vs Fluvius single VL + Sibelga BCR.
 - Mons BI2026 / Antwerp bulk register still open.
 - Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; FOI gap_interco note; rq_169=done; seeded **rq_170**.
 - FOI: residual Fluvius municipal L5 + BCR capital calendar human send; RESA entity dividend filled.
 - Next: prio5 **rq_170**; deferred **rq_116** SWA.
 
-### 2026-07-28T08:25:00Z — tick 175
-- Unit: **rq_170** (FOI-adjacent hole-fill — **De Lijn Geïntegreerd jaarverslag 2025**)
-- Found (strong primary statutory accounts + press, figures in kEUR ×1000):
-  - **Omzet EUR 1,420.0m 2025** (1,423.7m 2024) · bedrijfsopbrengsten **1,497.1m** · bedrijfskosten **1,627.8m** · bedrijfsverlies **-130.7m**.
-  - **Vlaams Gewest tussenkomst in omzet 1,207.9m** (incl PPS beschikbaarheidsvergoeding **53.1m**) — main public cash perimeter.
-  - **Kapitaalsubsidies cash 247.3m** 2025 · BS kapitaalsubsidies **2,143.3m** · assets **3,085.4m** · equity **2,252.1m**.
-  - Personnel **625.4m** · diensten **731.9m** · CAPEX aanschaf **299.6m** · LT debt **371.8m** (PPS leasing).
-  - **Net profit 20k** (matches press) · dotatie **-27.5m** delta 2025 · e-bus order **400m** / 652 buses · 2026 hefbomen **45m** + imposed **35.5m**.
-  - Passengers **372.9m** · closes material **gap_de_lijn** public perimeter (residual: optional cash-code recon).
+### 2026-07-28T08:25:00Z ï¿½ tick 175
+- Unit: **rq_170** (FOI-adjacent hole-fill ï¿½ **De Lijn Geï¿½ntegreerd jaarverslag 2025**)
+- Found (strong primary statutory accounts + press, figures in kEUR ï¿½1000):
+  - **Omzet EUR 1,420.0m 2025** (1,423.7m 2024) ï¿½ bedrijfsopbrengsten **1,497.1m** ï¿½ bedrijfskosten **1,627.8m** ï¿½ bedrijfsverlies **-130.7m**.
+  - **Vlaams Gewest tussenkomst in omzet 1,207.9m** (incl PPS beschikbaarheidsvergoeding **53.1m**) ï¿½ main public cash perimeter.
+  - **Kapitaalsubsidies cash 247.3m** 2025 ï¿½ BS kapitaalsubsidies **2,143.3m** ï¿½ assets **3,085.4m** ï¿½ equity **2,252.1m**.
+  - Personnel **625.4m** ï¿½ diensten **731.9m** ï¿½ CAPEX aanschaf **299.6m** ï¿½ LT debt **371.8m** (PPS leasing).
+  - **Net profit 20k** (matches press) ï¿½ dotatie **-27.5m** delta 2025 ï¿½ e-bus order **400m** / 652 buses ï¿½ 2026 hefbomen **45m** + imposed **35.5m**.
+  - Passengers **372.9m** ï¿½ closes material **gap_de_lijn** public perimeter (residual: optional cash-code recon).
 - Wrote: sources 2; budgets 21; cmt 1; lb 1; FOI note; raw PDF; rq_170=done; seeded **rq_171**.
 - FOI: gap_de_lijn largely filled public; residual Antwerp/Mons FOIs human send.
 - Next: prio5 **rq_171**; deferred **rq_116** SWA.
 
-### 2026-07-28T08:45:00Z — tick 176
-- Unit: **rq_171** (FOI-adjacent hole-fill — **SWDE Rapport Financier 2024**)
-- Found (strong primary RF + Faits & chiffres; kEUR ×1000):
-  - **CA full EUR 568.129m 2024** (Faits; incl assainissement) · CA hors assain **340.575m** · produits exploitation **428.7m**.
-  - **EBITDA 132.5m** · op. result **-10.8m** · fin. result **+22.5m** (NRB sale gain **24.5m**) · **net 10.253m**.
-  - Assets **2.369bn** · equity **1.465bn** · capital subsidies **285.4m** · LT fin. debt **644.9m** · gross fin. debt **722m**.
-  - CAPEX **272.4m** (travaux **263.5m**) · personnel **136.0m** · D&A **116.4m**.
-  - **No dividend** (bénéfice à distribuer 0; all to reserves). CVD **2.80 €/m³** · pop served **2.53m** · 190 communes.
+### 2026-07-28T08:45:00Z ï¿½ tick 176
+- Unit: **rq_171** (FOI-adjacent hole-fill ï¿½ **SWDE Rapport Financier 2024**)
+- Found (strong primary RF + Faits & chiffres; kEUR ï¿½1000):
+  - **CA full EUR 568.129m 2024** (Faits; incl assainissement) ï¿½ CA hors assain **340.575m** ï¿½ produits exploitation **428.7m**.
+  - **EBITDA 132.5m** ï¿½ op. result **-10.8m** ï¿½ fin. result **+22.5m** (NRB sale gain **24.5m**) ï¿½ **net 10.253m**.
+  - Assets **2.369bn** ï¿½ equity **1.465bn** ï¿½ capital subsidies **285.4m** ï¿½ LT fin. debt **644.9m** ï¿½ gross fin. debt **722m**.
+  - CAPEX **272.4m** (travaux **263.5m**) ï¿½ personnel **136.0m** ï¿½ D&A **116.4m**.
+  - **No dividend** (bï¿½nï¿½fice ï¿½ distribuer 0; all to reserves). CVD **2.80 ï¿½/mï¿½** ï¿½ pop served **2.53m** ï¿½ 190 communes.
   - Dual water stack complete: **SWDE WAL** + **Vivaqua BCR** + **Aquafin VL** (+ SPGE assainissement).
 - Mons BI2026 / Antwerp register still open.
 - Wrote: sources 2; entity 1; budgets 19; cmt 1; lb 2; FOI note; rq_171=done; seeded **rq_172**.
