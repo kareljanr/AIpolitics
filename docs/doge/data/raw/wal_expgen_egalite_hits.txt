@@ -1,0 +1,747 @@
+
+---PAGE 5---
+5 
+ 
+L’article 10 du décret « WBFin » précise que « le Gouvernement dépose, au plus tard à la mi-novembre 
+de l’année précédente, les projets de décret du budget de l’année budgétaire accompagnés des 
+documents visés à l’article 9, devant le Parlement qui les adopte au plus tard le 31 décembre suivant. 
+Le décret contenant les recettes du budget doit être publié au Moniteur belge du 31 décembre au plus 
+tard ».  
+Par ailleurs, la Région wallonne s’est dotée d’un système comptable moderne appelé WBFIN-SAP. 
+Le budget 2025 doit être élaboré selon les dispositions du décret « WBFin  ». Le décret «  WBFin » 
+reproduit les principes fondamentaux de légalité, d’annualité, d’universalité et d’unité du budget, qui 
+demeure un acte politique d’estimation des recettes et d’autorisation des dépenses auxquelles des crédits 
+sont attribués. Le budget est un instrument de gestion disponible notamment pour le Gouvernement, le 
+Parlement et les SPW en vue d'une utilisation optimale des deniers publics. 
+Champ d’application du décret « WBFin » : 
+Le décret « WBFin » s’applique aux Services du Gouvernement wallon (administrations, cabinets 
+ministériels et cellules assimilées) qui, sur le plan comptable, forment une seule entité et aux entreprises 
+régionales. Il régit également les « services administratifs à comptabilité autonome » (SACA), 
+anciennement dénommés « services à gestion séparée ». Non dotés de la personnalité juridique, ces 
+services sont néanmoins constitués en entités comptables distinctes, disposant d’une trésorerie et d’une 
+comptabilité qui leur sont propres. En Région wallonne, cela concerne actuellement l’Agence wallonne 
+de l’Air et du Climat (AWAC) , l’Agence wallonne du Patrimoine (AWaP)  et l’Organisme Payeur de 
+Wallonie (OPW). Enfin, les modifications décrétales intervenues le 17 décembre 2015 ont élargi le 
+champ d’application du décret « WBFin » aux organismes administratifs publics et a emporté 
+abrogation, pour ce qui concerne les organismes qui y étaient toujours soumis, de la loi du 16 mars 1954 
+relative au contrôle de certains organismes d’intérêt public. 
+Structure du budget :  
+Les budgets conservent une structure arborescente :  
+- les estimations de recettes sont structurées en subdivisions réparties ensuite en domaines 
+fonctionnels en suivant la classification économique SEC. Dans WBFIN -SAP, le code SEC est 
+repris dans le « compte budgétaire » (aux positions 2 à 5) ; 
+- les estimations de dépenses sont structurées en :  
+o divisions organiques. Dans WBFIN-SAP, la division organique (DO) est intégrée à la 
+notion de centre financier (CF). Chaque division organique comporte toujours deux 
+types de programmes : un programme fonctionnel, regroupant les dépenses générales 
+de fonctionnement, et un ou plusieurs programmes opérationnels pour les dépenses 
+consacrées au financement d’une activité ou d’un ensemble d’activités spécifiques. 
+o en programmes. Dans WBFIN -SAP, le programme sera enregistré dans la notion de 
+domaine fonctionnel (3 premières positions) ;  
+o en domaines fonctionnels (DF), au niveau desquels la classification économique SEC 
+sera également suivie.  
+La structure des budgets des recettes et des dépenses est présentée sur le site du SPW Finances
+.  
+ 
+ 
+  
+---PAGE 25---
+25 
+ 
+Pour relever le défi des compétences, s’appuyant sur les travaux menés au cours des précédentes 
+législatures, le Gouvernement, en concertation avec la Fédération Wallonie -Bruxelles, poursuit la 
+mise en œuvre d’une réforme systémique de l’enseignement qualifiant, de l’enseignement de 
+promotion sociale et de la formation 
+Professionnelle. 
+Le Gouvernement a structuré les réformes à mener en 13 domaines de travail structurants qui seront 
+menés de manière séquencée afin d’en assurer la soutenabilité. Il s’appuiera en outre sur les 
+dispositifs mis en place – tels que Wallonie Compétences d’Avenir, OTLAV, les carrefours et cités 
+des métiers, le réseau des Centres de Compétences, ... - et les structures existantes, dont notamment 
+le Forem, l’IFAPME et les organismes issus des accords de coopération. 
+Un des axes majeurs de cette vision est la construction d’une stratégie de formation professionnelle 
+commune, accompagnée d’un modèle de gouvernance clair et d’un pilotage efficace permettant de 
+clarifier le périmètre des structures existantes et de fluidifier les parcours individuels tout en 
+garantissant un cadre de qualité pour tous les acteurs impliqués. C’est en sens que les Gouvernements 
+conjoints de la Wallonie et de la Fédération Wallonie- Bruxelles ont adopté une feuille de route 
+commune le 12 juin 2025 (“ Réforme systémique de l’enseignement qualifiant, de l’enseignement 
+pour adultes et de la formation professionnelle. Plan d’opérationnalisation”). 
+Parallèlement, le Gouvernement s’est attelé à stabiliser les initiatives en cours et à dégager des 
+budgets complémentaires soit 13 millions d’euros – afin notamment de poursuivre le soutien à 
+l’obtention du permis de conduire via la mesure “passeport drive” et à la participation à la formation 
+professionnelle via le doublement de l’indemnité de formation. 
+Cependant, conformément à la DPR, afin d’harmoniser les dispositifs actuels, de lever les freins à la 
+formation tout en supprimant les effets d’aubaine et d’octroyer un incitant sur la base de critères 
+objectifs, dont la délivrance d’une certification et l ’insertion à l’emploi du bénéficiaire, mais 
+également dans une perspective de maîtrise budgétaire, le Gouvernement a décidé d’abroger 
+l’incitant+ et de revoir les conditions d’octroi liées aux 2€ par heure de formation. 
+4.4. Ministre de la Santé, de l'Environnement, des Solidarités et de l’Economie sociale 
+L’amélioration de la qualité de vie des Wallonnes et des Wallons est au centre des ambitions du 
+Gouvernement wallon.  
+Pour atteindre cet objectif, il doit positionner les politiques de la santé, de l'environnement, de 
+l'économie sociale, de la lutte contre les discriminations et des solidarités dans ses priorités et ce, de 
+manière la plus transversale possible.  
+Ces politiques, par leur nature, reposent sur de nombreux leviers en capacité d’impacter directement le 
+bien-être de nos concitoyens. C’est pourquoi le travail initié en 2025 se poursuivra en 2026, dans une 
+démarche tout autant proactive et concourant à des résultats concrets. La gestion équilibrée des 
+ressources, la résilience et la transversalité guideront nos actions, soutenues par une collaboration étroite 
+avec les administrations et tous les acteurs de terrain.  
+   
+Nous continuerons à élaborer et mettre en œuvre des stratégies multifactor ielles, intégrées et 
+transversales dans tous ces domaines et secteurs essentiels pour la Wallonie.  
+Une attention sera particulièrement donnée en :  
+- Santé : à la réforme de la 1ère ligne, au bien vieillir avec le lancement de la garantie autonomie, 
+au handicap, à la prévention et la santé mentale en particulier des jeunes. 
+- Environnement :  à la protection des zones de captages, aux permis environnementaux et au 
+coût-vérité, 
+- Solidarités : à la lutte contre le sans- abrisme, au soutien des familles monoparentales, à 
+l’accompagnement de la réforme du chômage 
+- Egalité des chances, Droits des femmes : au pack nouveau départ et aux droits des femmes 
+---PAGE 26---
+26 
+ 
+ 
+Action sociale 
+Le Gouvernement, conformément aux orientations indiquées dans la DPR, place au centre de son action 
+la garantie des droits fondamentaux, l’émancipation des personnes et la prise en compte de l’impact des 
+politiques sociales. Pour atteindre ces objectifs, il entend accorder  une place prioritaire à la santé et 
+mobiliser des dispositifs d’innovation sociale. En partenariat avec les secteurs concernés, il sera porteur 
+d’exigences en matière d'impact des politiques sociales, mesurant leurs effets sur l’entièreté de la 
+population au moyen d’indicateurs combinés et prédéfinis. L’ensemble repose sur la mise en réseau 
+d’aides et d’accompagnements solidaires qui doivent, en partenariat, générer une dynamique de 
+cohésion sociale à l’échelle de la Région. 
+En Wallonie, les politiques d’Action sociale — auxquelles s’ajoutent celles relatives à l’Égalité des 
+chances et aux Droits des femmes — cherchent avant tout à répondre aux défis sociétaux contemporains 
+: renforcer l’autonomie des personnes, améliorer la q ualité de vie, replacer la santé comme priorité 
+publique et garantir l’accès effectif aux droits.  
+Ainsi, en 2026, les politiques de lutte contre la pauvreté, de soutien aux familles monoparentales et de 
+sortie du sans- abrisme seront structurellement renforcées afin de mettre en œuvre ces objectifs et de 
+promouvoir une approche intégrée liant santé et inclusion sociale. 
+ 
+La lutte contre la pauvreté 
+La pauvreté en Wallonie constitue un enjeu complexe et toujours saillant, qui touche près d’une personne 
+sur cinq. Elle se traduit par des inégalités marquées dans de multiples domaines, de la santé au logement, 
+en passant par l’accès aux droits et aux ressources. Ces défis exigent une approche collective et 
+coordonnée, impliquant l’ensemble des acteurs concernés : pouvoirs publics, associations, partenaires 
+sociaux et citoyens. La lutte contre la pauvreté est et restera l’affaire de tous.  
+Le Gouvernement s’était engagé à élaborer en 2025 le cadre des actions à mener en matière de lutte 
+contre la pauvreté.  
+Les travaux ont été pilotés en collaboration avec l’ensemble des partenaires concernés. L’essentiel de 
+l’année 2025 a été consacré à :
+ 
+• L'élaboration d’un diagnostic approfondi, fondé à la fois sur les analyses scientifiques du Haut 
+Conseil stratégique et sur les expériences vécues par les personnes concernées (RWLP) ; 
+• L’identification des inégalités et des vulnérabilités majeures, notamment en santé (maladies 
+chroniques, santé mentale, accessibilité des soins), pauvreté infantile (18 % des enfants 
+concernés par au moins trois privations essentielles), précarité des locataires et vulnérabilité lors 
+de la reprise d’un emploi ; 
+• La mise en place de groupes de travail thématiques en Santé, Emploi, Logement et Recours aux 
+droits, réunissant plus d’une centaine de participants, afin de formuler des hypothèses d’action 
+et proposer des réponses concrètes ; 
+• L’élaboration d’un cahier de recommandations, présenté au Gouvernement wallon, servant de 
+fondement à la stratégie globale à déployer. 
+Ainsi, la nouvelle Stratégie de lutte contre la pauvreté, vise à durablement améliorer les conditions de 
+vie des personnes en situation de pauvreté.  
+Elle traitera les grands enjeux de façon transversale. Ainsi :   
+• En santé et santé mentale, des efforts seront engagés pour améliorer l’accessibilité des services 
+et renforcer les approches de proximité ; 
+• En matière de ressources et de droits sociaux, il s’agira notamment de mieux sécuriser les 
+parcours de vie et de mettre l’accent sur les recours aux droits ;  
+---PAGE 28---
+28 
+ 
+L’insertion et l’aide sociale 
+A partir du 1er janvier 2025, le secteur de l’accueil de jour a disposé d’un cadre règlementaire.  26  
+opérateurs ont déjà été agréés et ils disposeront d’un subventionnement réglementé en 2026. De même, 
+la réforme des Services d’insertion sociale (SIS) a été finalisée en concertation avec le secteur. L’arrêté 
+d’exécution adopté par le Gouvernement wallon a permis l’application, au 1er janvier 2025 et encore en 
+2026, portant notamment sur la programmation des agréments, le financement basé sur un nombre 
+d’heures d’activités collectives par an et une diminution de la fréquence des réunions d’équipes et 
+d’évaluations, dans un souci de simplification administrative.   
+Enfin, le dispositif d’accompagnement des personnes prostituées s’inscrit pleinement dans la lutte contre 
+les inégalités. Bien qu’il soit ouvert à tous, il vise principalement, dans la pratique, une majorité de 
+femmes. L’appui au renforcement et à l’extension des services dédiés à l’aide et aux soins pour ce public 
+sera garanti en 2026. 
+ 
+Les familles monoparentales 
+Les familles monoparentales rencontrent des difficultés économiques et sociales spécifiques qui doivent 
+être davantage intégrées dans les politiques publiques. Ainsi, conformément aux orientations de la DPR, 
+le Gouvernement opérationnalisera une stratégie globale et transversale, centrée sur les principaux 
+facteurs de précarité, afin de répondre efficacement à leurs besoins et de favoriser leur inclusion sociale 
+et économique. 
+Par cette dernière, la Wallonie entend porter la question des familles monoparentales au rang de priorité. 
+La finalité de cette stratégie est d’améliorer concrètement les conditions de vie des familles 
+monoparentales, en renforçant leur accès aux droits, à l’emploi, au logement, à la santé, et en facilitant 
+la conciliation entre vie familiale et vie professionnelle. Cela passera notamment par une meilleure 
+articulation des dispositifs existants et une coordination renforcée dans les domaines de politiques 
+mentionnés ci-dessus.   
+Pour y parvenir, la stratégie reposera sur cinq axes complémentaires :   
+• Agir sur les politiques fonctionnelles  
+• Augmenter les revenus et garantir l'accès aux droits  
+• Renforcer l’accès à l’emploi et à la formation  
+• Soutenir et accompagner les familles monoparentales  
+• Mise à l’agenda et sensibilisation 
+En 2026, la priorité sera de travailler au déploiement opérationnel des mesures prévues par la stratégie, 
+en veillant à leur mise en œuvre coordonnée et transversale sur l’ensemble des axes et à la pérennisation 
+des dispositifs permettant de soutenir et d’accompagner les familles monoparentales. Le réseau de 
+travailleurs sociaux des Relais Familles Mono, déployés en Région wallonne, constitue un levier 
+précieux pour accompagner ces familles, prévenir les ruptures et favoriser leur inclusion socio -
+professionnelle. 
+ 
+Le parcours d’intégration 
+La DPR rappelle que la diversité est une richesse, qui nécessite également un socle commun de valeurs. 
+C’est pourquoi il est essentiel de mettre en œuvre des mesures visant pleinement à l’intégration et à 
+l’émancipation des personnes amenées à vivre en Wallonie et d’évaluer l’offre proposée afin de s’assurer 
+de leur adéquation aux objectifs et besoins des bénéficiaires et du secteur.  
+Ainsi, en 2026, le Gouvernement wallon travaillera à une programmation territoriale de l’offre des 
+initiatives locales d’intégration afin d’ajuster l’offre aux besoins locaux, de renforcer la complémentarité 
+entre opérateurs et de garantir un accès équitable aux primo-arrivants sur tout le territoire. 
+---PAGE 29---
+29 
+ 
+Ceci répond également aux objectifs de la réforme de l’intégration entrée en vigueur au 1er janvier 2025, 
+visant à renforcer et professionnaliser le secteur de l’intégration, en favorisant l’agrément et en passant 
+d’un financement facultatif vers un financement structurel et règlementé. 
+Afin d’assurer une transition harmonieuse, le Gouvernement a validé le 22 mai 2025 le renouvellement 
+de l’appel à projets Initiatives locales d’intégration jusqu’au 31 décembre 2025. Cette phase transitoire 
+a permis aux structures non agréées d’introduire leur demande d’agrément et d’assurer la continuité des 
+services. 
+Une enveloppe de 1,166 million € est dédiée à l’accueil et l’intégration des réfugiés ukrainiens, via un 
+dispositif d’équipes mobiles bio -psycho-sociales, ainsi qu’un renfort de certains opérateurs (CRI, 
+ethnopsy, Setis), afin de faire face aux besoins spé cifiques de ce public bénéficiant du statut européen 
+de protection temporaire jusqu’en mars 2026. 
+ 
+La Cohésion sociale 
+En 2026, les communes engagées dans le dispositif prévu à l’article 20 du décret relatif au Plan de 
+Cohésion sociale poursuivront la mise en œuvre de leurs plans locaux validés par le Gouvernement.  
+Elles seront soutenues pour développer des actions portant notamment sur le harcèlement, 
+l’alimentation, les violences, les assuétudes et l’accompagnement des parents dans le cadre du parcours 
+d’intégration. Un budget annuel d’environ 1,5 million d’euros sera mobilisé à cet effet. 
+  
+La lutte contre le surendettement 
+En matière de lutte contre le surendettement, la Wallonie dispose de dispositifs couvrant à la fois 
+l’accompagnement des personnes en difficulté financière et des actions de prévention. Aucun besoin 
+complémentaire n'a été identifié pour 2026.   
+Parallèlement, le marché relatif au crédit social accompagné a été attribué pour 2025-2028. Ce dispositif 
+permet aux personnes à faibles revenus, souvent exclues du système de crédit traditionnel, d’accéder à 
+un crédit à la consommation adapté à leur situa tion sociale et financière. Conçu comme un outil social 
+de prévention du surendettement, il repose sur une approche pédagogique et constitue un moyen d’éviter 
+le recours à des formes de crédit facile. Les montants accordés, compris entre 500 et 10.000 € -  voire 
+15.000 € sous certaines conditions - visent l’amélioration du bien- être quotidien et/ou le soutien au 
+processus d’insertion socioprofessionnelle.  
+ 
+Economie sociale 
+La Wallonie soutient activement l’économie sociale par le développement, l’accompagnement et la 
+valorisation de ce secteur. Depuis de nombreuses années, elle fait figure de pionnière en Europe dans ce 
+domaine. 
+La stratégie menée lors de la précédente législature fait aujourd’hui l’objet d’une évaluation, et une 
+nouvelle feuille de route est élaborée. Celle -ci vise à poursuivre les actions efficaces, à ajuster celles 
+dont l’impact demeure limité en matière de cré ation d’emplois et de développement économique, et à 
+renforcer le rôle de l’économie sociale comme levier majeur pour l’emploi durable, la cohésion sociale 
+et la transition écologique. 
+Le secteur représente près de 6.600 entreprises et 150.000 emplois, soit plus de 12 % de l’emploi en 
+Belgique francophone. Il repose sur trois principes fondamentaux : la finalité de service à la collectivité, 
+la primauté des personnes sur le capital et une gouvernance démocratique. 
+Depuis le décret de 2008, plusieurs mesures ont été mises en place pour encourager et consolider les 
+modèles de gouvernance propres à l’entrepreneuriat social. L’économie sociale ne cesse de croître.  
+---PAGE 30---
+30 
+ 
+Le Gouvernement souhaite poursuivre les travaux d’évaluation liés aux Agences conseil en économie 
+sociale (ACES) avec l’objectif de renforcer l’efficacité du travail des agences conseil et de mieux les 
+intégrer dans l’écosystème de l’accompagnement économique général. 
+Le premier incubateur en économie sociale, iES! installé à Liège sera évalué dans le but d’apprécier les 
+conditions de reproduire du dispositif dans les zones où il pourra avoir le plus d’impact, tout en veillant 
+à ne pas négliger les territoires moins bien desservis. 
+Le nombre de coopératives citoyennes a fortement progressé ces dernières années, notamment dans les 
+circuits courts et les énergies renouvelables, deux domaines présentant un fort potentiel de 
+développement pour les modèles coopératifs. 
+L’innovation dans ce secteur est primordiale. Par conséquent, l’accès au financement pour des projets 
+en économie sociale sera amélioré grâce à des critères de sélection adaptés et des indicateurs élargis. 
+W.Alter, l’outil public de financement dédié à l’é conomie sociale, jouera un rôle central dans cette 
+politique, et ses missions seront prolongées. Ses moyens continueront à être augmentés. Dès 2027, un 
+chèque en économie sociale sera instauré pour simplifier et accélérer le financement des projets en phase 
+de pre-création et de création. Les bourses en économie sociale ont par ailleurs été relancées en 2025 
+pour soutenir les projets innovants. 
+Le Gouvernement wallon souhaite également renforcer les collaborations et les passerelles entre les 
+acteurs de l’économie sociale et ceux de l’économie classique notamment dans les dispositifs comme 
+celui des SINE. 
+Après l’adoption du décret réformant les Agences-conseil en économie sociale (A.C.E.S.), leur rôle sera 
+consolidé. Le texte vise à spécialiser et professionnaliser leurs services autour de missions prioritaires 
+(sensibilisation, promotion, information, orientation, accompagnement et consultance ponctuelle), à 
+revaloriser leur financement, et à intégrer des indicateurs de performance (plan d’action triennal, rapport 
+d’activité) conditionnant les subventions. 
+Le Gouvernement poursuivra également la dématérialisation de la collecte de données et 
+l’harmonisation des pratiques en matière de rapportage. Les livrables harmonisés seront systématisés en 
+cohérence avec le référentiel de Wallonie Entreprendre, dans une démarche de qualité. 
+L’incubateur I’ES, ouvert en 2023, sera renforcé, et la création de nouveaux incubateurs sera étudiée en 
+fonction des opportunités et des contraintes budgétaires. Cet incubateur informe le public sur l’économie 
+sociale, constitue un point d’entrée pour les  porteurs de projets, et offre un espace de coworking, un 
+accompagnement sur mesure, des formations adaptées et un réseau de soutien. 
+Le Gouvernement poursuivra également la réforme des IDESS afin de moderniser ce dispositif 
+répondant à des besoins sociaux non couverts tout en créant de l’emploi pour des personnes éloignées 
+du marché du travail. Cette réforme visera à maîtriser les coûts, actualiser les activités et tirer parti des 
+enseignements des projets Territoir’ES. 
+La réforme du dispositif VESTA sera également mise en œuvre pour renforcer les coopératives 
+immobilières agréées en tant qu’entreprises sociales. L’objectif est de les professionnaliser, d’assurer 
+leur pérennité grâce à une subvention structurelle liée au développement de nouveaux projets, et 
+d’augmenter l’offre de logements abordables et adaptés aux publics fragilisés. 
+ 
+Droits des femmes et égalité des chances 
+En 2026, la Wallonie franchit une étape déterminante dans la construction d’une société plus égalitaire, 
+cohésive et résiliente. Après une année 2025 consacrée à la préparation des plans stratégiques, 2026 sera 
+l’année de la mise en œuvre, de l’opérationnalisation et du déploiement renforcé des politiques liées à 
+l’égalité, à la lutte contre les violences faites aux femmes, aux discriminations et à la défense des droits 
+des personnes LGBTQIA+. Dans un contexte où les tensions identitaires, les violences sex istes et les 
+disparités sociales continuent d’affecter la cohésion collective, notre volonté est de continuer à agir afin 
+de réduire les inégalités structurelles et renforcer la prévention qui constituent des leviers essentiels de 
+résilience démocratique. 
+---PAGE 31---
+31 
+ 
+Droits des femmes  
+Les inégalités de genre demeurent profondément ancrées dans les structures économiques, sociales et 
+culturelles qui limitent encore aujourd’hui les possibilités d’émancipation des femmes. C’est pourquoi 
+2026 verra l’entrée en vigueur de la Stratégie genre et droits des femmes 2025-2029 commune entre la 
+Région wallonne et la Fédération Wallonie -Bruxelles. Celle -ci vise à renforcer l’indépendance 
+économique des femmes, à accorder une priorité à la santé des femmes, à agir sur les stéréotypes de 
+genre, à améliorer l’intégration de la perspective genrée dans l’ensemble des politiques publiques et à 
+consolider le ‘gender budgeting’ comme outil d’évaluation de l’impact des choix budgétaires sur les 
+femmes et les hommes. Ces orientations s’inscrivent dans une approche systémique et préventive.  
+Au niveau de la Wallonie, le Conseil wallon de l’Égalité entre les femmes et les hommes (CWEHF) qui 
+constitue une instance d’avis essentielle dans ces matières, voit son subside porté à 210.000 €, 
+garantissant la continuité de son expertise et de sa capacité d’accompagnement des pouvoirs publics. 
+Afin d’améliorer la mixité réelle dans les instances concernées par les décrets de 2014 et la 
+représentation des femmes aux lieux de décision, un benchmark approfondi a été lancé fin 2025. Celui-
+ci analysera de manière comparative les législations et pratiques existantes en matière de mixité de genre 
+dans les organes d’administration des organismes privés agréés par les pouvoirs publics et les instances 
+publiques à l’échelle locale, supra-locale et régionale. 
+Parallèlement le protocole d’accord entre la FWB, la Région wallonne et les provinces wallonnes destiné 
+à structurer la politique locale d’égalité entre les femmes et les hommes fera l’objet d’une révision dans 
+le but d’aboutir à un accord de coopération. Cet accord renforcera la cohérence des actions menées au 
+niveau provincial et soutiendra la coordination des acteurs de terrain. La Wallonie y consacrera 107.000 
+€ par an, exclusivement sur le budget du Ministre de l’Égalité des chances, afin de financer l es treize 
+plateformes provinciales de concertation, soutenir les initiatives locales de prévention des violences 
+faites aux femmes et promouvoir l’égalité entre les femmes et les hommes, au plus près des territoires. 
+Cet instrument permettra d’assurer un m aillage territorial renforcé et une mise en œuvre plus efficace 
+de la politique régionale d’égalité. 
+ 
+Lutte contre les violences faites aux femmes 
+S’agissant de la lutte contre les violences faites aux femmes, 2026 sera l’année de déploiement du PVIF 
+(plan de lutte contre les violences faites aux femmes) qui met l’accent sur la notion de consentement 
+pour prévenir les violences sexistes et sexuelles, la lutte contre les cyberviolences, la mise en place du 
+Pack nouveau départ et l’accompagnement pour une meilleure prise en charge des auteurs afin lutter 
+contre la récidive.  
+Les moyens destinés aux services ambulatoires spécialisés sont renforcés, atteignant 3,539 millions € 
+en 2026. Cette enveloppe permettra notamment de maintenir et renforcer le financement des dix -neuf 
+services agréés, des six structures subsidiées de manière facultative et de soutenir les dispositifs 
+interdisciplinaires de lutte contre les violences intrafamiliales. Les DIVICO bénéficieront d’une 
+extension à l’ensemble du territoire, avec une augmentation de 115.000 € consacrée à ces dispositifs. Le 
+Pôle de ressources en violences conjugales, structure essentielle regroupant la ligne d’écoute 0800/30 
+030, la formation des professionnels et la coordination du DIVICO liégeois, bénéficiera d’un 
+financement permettant de répondre à l’augmentation des demandes et d’améliorer l’accompagnement 
+global des victimes comme des auteurs. En parallèle, la mise en ligne le 25 novembre 2025 du site web 
+de référence sur les violences en Belgique francophone « Stop violences faites aux femmes » permettra 
+en 2026 d’assurer une information fiable, accessible et centralisée pour le grand public et les 
+professionnels. 
+ 
+Lutte contre les discriminations  
+La politique de lutte contre les discriminations poursuivra son renforcement en 2026 avec la révision du 
+Décret wallon du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination. Cette 
+révision s’impose également afin de répondre aux e xigences d’une directive européenne, qui impose 
+---PAGE 32---
+32 
+ 
+une mise en conformité des législations régionales en matière d’égalité de traitement et de protection 
+contre les discriminations. A cet égard une coopération accrue est prévue avec l’IEFH et UNIA, dont 
+les protocoles et l’accord de coopération seront actu alisés pour tenir compte des nouveaux critères 
+protégés. Le Gouvernement continuera d’agir pour la déconstruction des stéréotypes de genre, la 
+promotion de la mixité dans l’emploi, la transparence salariale et la lutte contre toutes les formes de 
+discriminations.  
+ 
+Lutte contre le racisme 
+En matière de lutte contre le racisme, 2026 constituera une année clé. Le premier Plan wallon de lutte 
+contre le racisme 2023-2026 fera l’objet d’une évaluation et des travaux préparatoires pour le lancement 
+d’une nouvelle stratégie de lutte contre le racisme commune entre la Région wallonne et la FWB seront 
+effectués. La CIM égalité des chances qui a été lancée le 21 octobre dernier, prévoit la mise en place 
+d’un plan interfédéral de lutte contre le racisme et une collaboration renforcée avec le fédéral. Le Conseil 
+wallon de lutte contre le racisme,  désormais installé au sein du CESE avec un subside de 100.000 €, 
+jouera un rôle important dans ces processus.  En tant qu’instance d’avis, il accompagnera le 
+Gouvernement dans la mise en place, l’évaluation et l’orientation des futures politiques régional es, 
+constituant ainsi un maillon essentiel de la gouvernance publique en matière de lutte contre le racisme. 
+ 
+Droits et accompagnement des personnes LGBTQIA+ 
+L’année 2026 sera également marquée par le lancement de la nouvelle Stratégie wallonne pour les droits 
+et l’inclusion des personnes LGBTQIA+. Cette stratégie rassemblera l’ensemble des actions visant à 
+prévenir les violences et discriminations, renforcer l e soutien aux jeunes LGBTQIA+ en rupture avec 
+leur milieu familial, sensibiliser les acteurs de l’enseignement, de la santé et de la jeunesse, reconnaître 
+toutes les formes de parentalités, assurer l’intégrité des personnes intersexe et intégrer les person nes 
+LGBTQIA+ dans les structures pour aînés. Cette stratégie vise à transformer les principes d’égalité et 
+de non-discrimination en réalités tangibles dans la vie quotidienne des personnes concernées.  
+ 
+Ce budget 2026 inscrit l’égalité, la lutte contre les violences et contre toutes les formes de discrimination 
+au cœur du projet collectif wallon. Par une approche intégrée, préventive et systémique, le 
+Gouvernement entend garantir la dignité et l’émancipat ion de toutes et tous, et affirmer que l’égalité 
+constitue l’un des fondements essentiels de notre société. 
+ 
+One Health et Environnement 
+Dans un monde secoué par des crises sanitaires, environnementales et climatiques, la Wallonie se doit 
+d’adopter une politique environnementale audacieuse, portée par la transversalité, la durabilité et la 
+résilience. Au cœur de cette vision, l’approche « O ne Health » relie la santé humaine, animale et 
+environnementale, et devient le socle d’une stratégie ambitieuse et globale. Cette démarche 
+multidimensionnelle s’attaque aux grands défis de notre époque : la lutte contre les polluants émergents, 
+la promotio n de pratiques durables dans tous les secteurs d’activité et la préservation d’un 
+environnement sain pour les générations futures.  
+La collaboration intersectorielle et entre tous les niveaux de pouvoir est la clé pour anticiper les crises 
+sanitaires et garantir un développement durable. Le déploiement de cette politique reposera sur des 
+partenariats solides entre les entités publiques régionales et fédérales, assurant une surveillance et un 
+contrôle intégrés des risques environnementaux et sanitaires. Ces alliances permettront à la Wallonie de 
+rester à la pointe de l’innovation et de la prévention, en renforçant la cohérence des politiques publiques 
+à chaque échelon.  
+Enfin, l’évolution des travaux européens sera suivie avec vigilance et ambition, afin de refléter 
+pleinement les spécificités wallonnes et d’affirmer son rôle moteur dans la transition écologique.  
+---PAGE 37---
+37 
+ 
+dans le système alimentaire, en soutenant les publics les plus vulnérables et en intégrant la 
+dimension sociale dans l’ensemble des politiques alimentaires. 
+En renforçant la transversalité entre les politiques de santé, d’environnement, d’économie sociale et 
+d’action sociale, et en améliorant la cohérence entre les niveaux régional et local, l’année 2026 marquera 
+un tournant. Elle permettra de consolider les a cquis, d’éviter la dispersion des efforts et de mettre en 
+œuvre une politique alimentaire capable de répondre aux défis systémiques tout en garantissant une 
+alimentation de qualité, durable et accessible à tous. 
+ 
+Santé :  
+En 2026, en s’appuyant sur nos politiques en matière de santé, nous voulons franchir de nouvelles étapes 
+pour construire une Wallonie encore plus résiliente, solidaire, et inclusive. Nos choix budgétaires, qui 
+invitent à l’innovation et à l’efficience, s’inscrivent dans la continuité de ces ambitions. 
+ 
+AVIQ : une agence résiliente et efficace 
+Dans un dialogue constant avec l’AVIQ, mais aussi ses organes de gestion, nous engageons une 
+réflexion en profondeur sur son organisation dont l’objectif est de s’assurer que chaque euro dépensé 
+serve pleinement ses missions essentielles – santé, handicap,  vieillissement, bien -être. Nous 
+travaillerons à : 
+• Rationaliser et recentrer sur les missions essentielles en santé, handicap, vieillissement et bien-
+être ; 
+• Maintenir une capacité d’action sur les politiques de santé et sociales malgré les économies ; 
+• Garantir une flexibilité interne pour protéger les fonctions critiques (coordination, suivi 
+sanitaire, inspection) ; 
+• Développer notre vision : préserver l’accès équitable à la santé pour toutes et tous. 
+ 
+Ce travail est fondamental : il vise à harmoniser, simplifier et rendre plus efficient le soutien apporté 
+aux différents secteurs, afin que chaque centime investi ait un impact réel et mesurable. 
+ 
+Garantir l’autonomie et soutenir les aidants proches 
+Nous préparons la mise en place du modèle wallon de la Garantie Autonomie. Ce dispositif permettra à 
+nos aînés, aux personnes accidentées ou personnes en situation de handicap, de rester chez elles le plus 
+longtemps possible, dans la dignité. 
+Il offrira des solutions de répit aux proches aidants – majoritairement des femmes – et créera de l’emploi 
+local dans les métiers du soin. 
+Cette réforme introduit une véritable dimension d’égalité et valorise les métiers du ‘Care’, contribuant 
+à l’autonomisation économique des travailleuses. 
+Elle ne se traduit pas encore en chiffres dans le budget 2026, qui sera dédié à la mise en place d’un 
+groupe d’experts qui proposera au Gouvernement des mesures concrètes.   
+La garantie autonomie constituera donc un élément clé de notre action en 2026 et guidera l’ensemble de 
+nos travaux, notamment dans la stratégie « Bien vieillir ». 
+ 
+ 
+ 
+---PAGE 38---
+38 
+ 
+Handicap : répondre à l’urgence et anticiper les besoins 
+Les besoins continuent de grandir : en vingt ans, les situations prioritaires ont été multipliées par quatre. 
+Pour y répondre, nous mobilisons 5 millions d’euros supplémentaires afin de créer 80 à 100 nouvelles 
+places dans les structures d’hébergement. Ces moyens seront pérennes.  
+ 
+Santé : immunisation et revalorisation 
+Parce que la santé est prioritaire, nous avons choisi d’immuniser les moyens budgétaires alloués à ce 
+secteur. Nous consacrons dès lors 8,6 millions d’euros pour compenser le report d’indexation décidé par 
+le fédéral.  
+Par ailleurs, parce que la santé et le social reposent sur des femmes et des hommes engagés, nous 
+poursuivrons en 2026 notre travail pour renforcer l’attractivité des métiers du soin et de 
+l’accompagnement. Ces professions sont essentielles, mais elles sou ffrent encore d’un manque de 
+reconnaissance et de conditions de travail difficiles. 
+C’est un signal fort que nous souhaitons donner, le gouvernement protège les métiers du soin et affirme 
+leur valeur. 
+ 
+La santé se construit par la prévention et la promotion de la santé : un investissement et une 
+approche structurante 
+Car chaque euro investi en prévention peut générer entre 2 et 10 euros d’économie en soins selon le 
+domaine (vaccination, lutte contre le tabagisme, dépistage, activité physique…), nous nous devons 
+d’amplifier les dynamiques préventives. 
+Ces initiatives s’inscrivent dans la refonte du Plan WAPPS à savoir le Plan de prévention et de promotion 
+de la santé adopté en 2018. Il fait actuellement l’objet d’une évaluation en vue de sa refonte début 2027. 
+2026 sera donc une année charnière pour sa construction.  
+Ces stratégies ont été construites sur la base de 12 objectifs transversaux dont la prise en compte de la 
+dimension genre. Cela signifie que les spécificités liées au genre ainsi que les inégalités sociales de santé 
+sont intégrées dans chacune des priorités présentes dans la programmation à savoir, la promotion des 
+modes de vie et des milieux de vie favorables à la santé, la promotion d’une bonne santé mentale et du 
+bien-être, la prévention des maladies chroniques, des maladies infectieuses et des traumatismes. 
+La santé mentale est également un enjeu majeur de notre société. Elle exige une approche décloisonnée, 
+associant soins, prévention et accompagnement social. Nous travaillerons à renforcer la coordination 
+entre acteurs, à développer des dispositifs accessib les et à promouvoir une culture de la santé mentale 
+positive, afin de lutter contre la stigmatisation et soutenir le bien-être collectif. 
+ 
+Une première ligne une porte essentielle du système de santé. 
+En 2026 nous poursuivrons cette réforme qui repose sur une approche territoriale intégrée, où les 
+professionnels – médecins, paramédicaux, acteurs sociaux – travaillent en réseau et assument une 
+responsabilité collective envers la population. Cette organisation vise à mieux coordonner 
+l’accompagnement, réduire les inégalités et renforcer la robustesse du système face aux défis actuels et 
+futurs. 
+ 
+Allocations familiales : simplification et justice sociale 
+Comme prévu dans la DPR, nous réformons les allocations familiales pour soutenir les familles 
+monoparentales et favoriser l’autonomie des jeunes. 
+Cela passe par : 
+---PAGE 39---
+39 
+ 
+• Le rehaussement du plafond de revenus pour le supplément majoré ; 
+• L’introduction d’un « pot de 12 mois » pour les jeunes de 18 à 21 ans ; 
+• La digitalisation pour simplifier les démarches. 
+Ces ambitions sont notre feuille de route pour une Wallonie qui protège, qui soutient et qui émancipe. 
+Une Wallonie où l’autonomie, la santé et l’égalité deviennent des réalités pour toutes et tous. 
+4.5. Ministre de la Fonction publique, de la Simplification administrative et des 
+Infrastructures sportives  
+Fonction publique 
+Le Gouvernement a la ferme volonté d’inscrire la fonction publique dans une dynamique nouvelle afin 
+de rendre celle -ci plus en adéquation avec les réalités actuelles. Ce processus de modernisation de la 
+Fonction Publique se traduira au travers de la mise en place de plusieurs objectifs :   
+Une relation politico-administrative harmonieuse et une administration renforcée 
+Le rôle de la fonction publique en tant que haute administration au service de l’Etat sera appuyée en 
+privilégiant le travail direct des Ministres avec leurs administrations. La relation politico-administrative 
+sera formalisée dans un document qui comprendra des objectifs clairs, resserrés et réalistes et précisera 
+des modalités de collaboration permettant davantage d’autonomie ainsi qu’un dialogue régulier et 
+efficace.  
+Une administration moderne, efficiente, harmonisée et attractive 
+Les futurs engagements prendront la forme de contrats à durée indéterminée afin de mettre fin 
+progressivement au régime statutaire dans la fonction publique. Dans cette optique, le Gouvernement a 
+approuvé l’abrogation de l’article 119 quater § 2, ce qui met fin aux statutarisations depuis le début de 
+l’année 2025. Afin de tendre vers une équivalence avec le régime de pension des membres statutaires, 
+le Gouvernement travaillera à la mise en œuvre d’un second pilier pour le membre contractuel. Un 
+budget de 5 millions d’euros est mis à disposition en 2026. 
+Les possibilités de mobilité interne et externe seront développées pour tous les membres du personnel.  
+La réforme en profondeur du Code de la Fonction publique wallonne ne se fera bien entendu que dans 
+le cadre du respect du statut syndical et moyennant une large concertation. C’est un processus de longue 
+haleine que le Gouvernement va initier encore en 2025. 
+Un management responsabilisé 
+Le Gouvernement veillera à ce que l’administration soit toujours en ordre de marche en la dotant de ses 
+plus hauts fonctionnaires. 
+Les procédures de désignation des hauts fonctionnaires seront progressivement revues afin d’ouvrir plus 
+largement l’accès à ces emplois à des candidats externes à la fonction publique. 
+La pertinence de la comparaison des titres et mérites des candidats sera renforcée par le biais d’une 
+audition. Cela devrait permettre d’attirer des candidats de tous les horizons afin d’apporter des idées 
+nouvelles au sein de l’Administration wallonne. 
+La procédure d’évaluation des fonctions dirigeantes sera également revue afin d’être plus dynamique, 
+plus régulière et de pouvoir être enclenchée plus rapidement, d’initiative, si des difficultés sont 
+constatées.  
+Enfin, les hauts fonctionnaires seront davantage responsabilisés quant à la mise en œuvre des moyens à 
+leur disposition par des objectifs clairs, des évaluations régulières, le renforcement des formations en 
+management public et le levier des délégations. Une partie de leur rémunération sera liée à l’atteinte 
+d’objectif clairement définis par le Gouvernement wallon. C’est également dans cette optique, qu’en 
+collaboration avec les hauts fonctionnaires (COSTRA), le Gouvernement a défini une trajectoire 
+budgétaire claire pour les rémunérations des agents, et ce pour l’ensemble de la législature. Pour 2026, 
+---PAGE 45---
+45 
+ 
+4. Droits de l’Enfant 
+A noter également le rapatriement de crédits dédiés aux Droits de l’Enfant (DF 095.016 et 095.017), 
+dévolus jusque 2025 au Ministre en charge de la Santé, de l'Environnement, de l'Action sociale, de 
+l'Économie sociale, du Handicap, de la Lutte contre la pauvreté, de l'Égalité des chances, et des Droits 
+des Femmes. 
+Ce rapatriement semblait logique au vu de mes compétences exercées en Fédération Wallonie Bruxelles 
+en Enfance. 
+Ces crédits sont dédiés au financement régional de la Convention internationale des droits de l’enfant et 
+de la Commission nationale pour les droits de l’enfant. 
+ 
+Tourisme 
+A noter que le nouveau code du Tourisme a modifié les appellations des UAP suivantes : 
+- le Commissariat général au Tourisme (CGT) est devenu Tourisme Wallonie 
+- Wallonie Belgique Tourisme (WBT) est devenu VISITWallonia 
+Les priorités et actions que je souhaite développer en 2026 s’inscrivent pleinement dans les objectifs 
+fixés par le Gouvernement wallon au travers de la Déclaration de Politique Régionale. 
+Le tourisme est un secteur économique à part entière, générateur d’emplois, de valeur ajoutée durable 
+et d’attractivité pour notre territoire. 
+La Stratégie Tourisme 2030 identifie les leviers de son déploiement : je poursuivrai sa mise en œuvre 
+avec une attention renforcée à la structuration de l’écosystème, à la performance des acteurs et à la 
+visibilité de la Wallonie comme destination de séjours. 
+1. Renforcer la dynamique entrepreneuriale et accompagner la professionnalisation du secteur  
+2026 marquera la mise en œuvre effective des conventions pluriannuelles avec les associations 
+professionnelles et les opérateurs clés du secteur touristique. 
+Ces conventions permettront de : 
+• Renforcer la professionnalisation via des programmes de diagnostic, d’audit et de conseil 
+adaptés aux enjeux de transition digitale, environnementale et économique, 
+• Ancrer l’action publique dans une logique de résultats, grâce à des indicateurs de performance 
+partagés et un suivi régulier des impacts, 
+• Sécuriser le financement des acteurs et leur offrir une visibilité pluriannuelle, gage de stabilité 
+et de planification stratégique. 
+Cette approche structurelle et durable vise à créer un écosystème touristique plus solide, agile et 
+performant, où les opérateurs peuvent innover et se développer sereinement. 
+2. Simplification administrative 
+L’année 2026 sera consacrée à la poursuite de la digitalisation et de la simplification administrative, 
+avec la montée en puissance de la nouvelle plate-forme et de la base de données unique du secteur. 
+Cette modernisation vise, notamment, à rendre les démarches plus fluides, à réduire les délais et à 
+améliorer la qualité du service rendu aux opérateurs touristiques.  
+De manière générale, une attention particulière sera portée durant cette première année de mise en œuvre 
+du nouveau Code wallon du tourisme. L’accent sera mis sur une approche de simplification 
+administrative, afin d’identifier concrètement les domaines où des améliorations restent possibles. À cet 
+égard, la rédaction de guides pratiques et de FAQ simplifiées destinés aux opérateurs touristiques 
+constituera un outil essentiel pour faciliter leur compréhension et leur appropriation du dispositif. 
+3. Développer le MICE (Meetings, Incentives, Conferences, Exhibitions) 
+---PAGE 155---
+155 
+ 
+Code des impôts sur les revenus 
+1992, remplacé par la loi du 6 
+juillet 1992, remplacé 
+par la loi du 6 juillet 1994 et 
+modifié par la loi du 22 décembre 
+1998, ainsi que par les décrets du 6 
+décembre 
+2001, du 22 octobre 2003, du 18 
+décembre 2003 et du 3 février 
+2005,modifié par le décret du 23 
+février  2006 et modifié par le 
+décret du 19 juillet 2018. 
+Art. 253   
+suite 
+Est exonéré du précompte immobilier, le revenu cadastral :  
+5° des biens immobiliers situés en Région wallonne et repris dans 
+le périmètre d'un site Natura 2000, d'une réserve naturelle ou d'une 
+réserve forestière ou repris dans le périmètre d'un site candidat au 
+réseau Natura 2000 et soumis au régime de protection primaire. 
+Exonération Natura 2000. 87,98 91,78 95,12 97,63 
+Code des impôts sur les revenus 
+1992 
+art 253 Art. 17 du décret du 19 juillet 2018 : 
+L’article 253 du Code des Impôts sur les Revenus 1992 est 
+complété par trois alinéas rédigés comme suit : 
+« Est exonéré de précompte immobilier pendant une période 
+de 5 ans à partir du jour où s’est produit l’événement dont la 
+déclaration est prescrite par l’article 473, le revenu cadastral : 
+– des immeubles bâtis nouvellement construits à l’état neuf et 
+qui sont, le jour où s’est produit l’événement dont la 
+déclaration est prescrite par l’article 473, intégralement situés 
+dans le périmètre d’un « quartier nouveau » arrêté par le 
+Gouvernement wallon; 
+– des immeubles bâtis concernés par une opération de 
+démolition suivie d’une reconstruction à l’état neuf, lorsque les 
+travaux entraînent la fixation d’un revenu cadastral supérieur 
+de 10 p.c. au revenu cadastral précédant et qui sont, le jour où 
+s’est produit l’événement dont la déclaration est prescrite par 
+l’article 473, intégralement situés dans le périmètre d’un « 
+quartier nouveau » arrêté par le Gouvernement wallon; 
+– des immeubles bâtis concernés par une rénovation lorsque 
+les travaux entraînent une augmentation du revenu cadastral à 
+concurrence de 10 p.c. du revenu existant, et qui sont, le jour où 
+s’est produit l’événement dont la déclaration est prescrite par 
+l’article 473, intégralement situés dans le périmètre d’un « 
+quartier nouveau » arrêté par le Gouvernement wallon. 
+Les « quartiers nouveaux » sont des projets d’urbanisation 
+plurifonctionnels sélectionnés par le Gouvernement wallon 
+parce qu’ils s’inscrivent dans une démarche innovante, 
+exemplative, globale et intégrée de développement durable et 
+permettent de renforcer l’attractivité et la compétitivité des 
+territoires, créer des emplois de qualité, cimenter la cohésion 
+sociale, favoriser l’égalité des chances et la participation 
+citoyenne, créer un tissu social et culturel propice à la 
+convivialité, lutter contre le réchauffement climatique et 
+préserver l’environnement. 
+Leur périmètre est arrêté par le Gouvernement wallon pour 
+une durée de 15 ans. ». 
+Exonération pour une durée de 5 ans 
+en faveur de certains immeubles 
+situés sur le territoire de "quartiers 
+nouveaux". 
+0,00 0,00 0,00 0,00 
+---PAGE 165---
+165 
+ 
+Art. 72 Art. 72.  
+Sont exemptés du droit proportionnel et soumis au droit fixe général, 
+les échanges d'immeubles ruraux non bâtis dont la valeur vénale 
+pour chacun des lots n'excède pas le montant obtenu en multipliant 
+le revenu cadastral par un coefficient fixé par le Roi. 
+Toutefois, le droit fixé par l'article 44 est perçu, en cas d'inégalité 
+des lots, sur la différence de valeur ou sur la soulte si celle -ci est 
+supérieure à cette différence. Ce droit est réduit à 6 % si la différence 
+de valeur ou la soulte n'excède pas le quart de la valeur vénale du 
+moindre lot.  
+L'application du présent article est subordonnée à la triple condition 
+: 
+1° que la valeur vénale de chacun des lots soit déclarée par les 
+parties, soit dans l'acte, soit au pied de celui -ci avant 
+l'enregistrement; 
+2° qu'un extrait de la matrice cadastrale soit annexé à l'acte au 
+moment de l'enregistrement;  
+3° que, dans une déclaration faite dans l'acte ou au pied de celui -ci 
+avant l'enregistrement, les parties précisent si les immeubles 
+échangés sont exploités par elles -mêmes ou par des tiers et, dans 
+cette dernière hypothèse, que l'acte ou un écrit annexé à celui -ci 
+avant l'enregistrement constate l'accord de tous les exploitants des 
+biens compris dans l'échange. 
+Réduction du droit (échanges 
+d'immeubles ruraux non bâtis). / / / / 
+Droits de donation - WFE 
+Code des droits d'enregistrement, 
+d'hypothèque et de greffe 
+Art. 131 
+quater 
+Art. 131 quater. 
+Par dérogation à l'article 131, est exempté de droit de donation : 
+1° la valeur des arbres croissant sur pied dans les bois et forêts au 
+sens de l'article 2, alinéas 1er et 2, du Code  forestier pour lesquels 
+les droits de donation sont réputés localisés en Région wallonne; 
+2° la valeur d'actions et de parts d'un groupement  forestier au sens 
+de la loi du 6 mai 1999 visant à promouvoir la création de sociétés 
+civiles de groupements forestiers, en ce qu'elle procède d'arbres sur 
+pied croissant dans les bois et forêts, au sens de l'article 2, alinéas 
+1er et 2, du Code  forestier et pour lesquels les droits de donation 
+sont réputés localisés en Région wallonne." 
+Exemption du droit de donation sur 
+des biens forestiers spécifiques. 1.346,37 1.373,29 1.406,11 1.425,94 
+---PAGE 174---
+174 
+ 
+Art. 55 
+quater 
+Art. 55quater.  
+§ 1er. Peut être exempté de droits de succession et de mutation par 
+décès, à concurrence d'un montant de 250.000 euros, ce qui est 
+recueilli par un héritier en ligne directe ou par un héritier en ligne 
+collatérale jusqu'au deuxième degré ainsi que leurs descendants au 
+1er degré, appelés légalement à la succession d'une victime 
+décédée suite à un acte exceptionnel de violence. 
+Est considéré comme un acte exceptionnel de violence, tout acte de 
+violence posé de manière intentionnelle, par une personne isolée ou 
+un groupe de personnes, ayant fait naître au sein de la population 
+un sentiment de peur et d'insécurité en raison, d'une part, de la 
+violence de l'acte lui-même et, d'autre part, des conséquences 
+graves qui en ont découlé, telles que le décès ainsi que l'atteinte à 
+l'intégrité physique et/ou morale portée à la population présente au 
+moment de l'acte. 
+§ 2. L'exemption prévue à l'alinéa 1er n'entraîne pas la dispense du 
+dépôt de la déclaration de succession. Elle n'est accordée à l'héritier 
+visé au § 1er, alinéa 1er, que pour autant que ce dernier remette au 
+receveur compétent une attestation délivrée par la Direction 
+générale opérationnelle Fiscalité du Service public de Wallonie 
+confirmant que le défunt est bien décédé des suites d'un acte 
+exceptionnel de violence, tel que défini au § 1er, alinéa 2. Lorsque 
+l'attestation n'est pas remise au plus tard en même temps que la 
+déclaration de succession, les droits sont calculés au tarif des 
+articles 48 à 60 et 60ter, sous réserve d'une restitution dans les 
+conditions de l'article 135, 9°. […] 
+Exemption du droit. / / / / 
+Art 55 sexies  Art. 55sexies.  
+§1er. Peut être exempté des droits de succession et de mutation par 
+décès, la part nette des biens immobiliers classés comme 
+monument, au sens du Livre III du Code Wallon du Patrimoine, 
+recueillie, en propriété ou en usufruit, par un héritier, un légataire 
+ou un donataire en ligne directe, entre époux, entre cohabitants 
+légaux visés à l’article 48 du Code des droits de succession ou en 
+ligne collatérale jusqu’au troisième degré inclus. 
+Exemption des droits de succession 
+sur la mutation de biens classés à 
+concurrence de travaux de 
+restauration. 
+/ / / / 

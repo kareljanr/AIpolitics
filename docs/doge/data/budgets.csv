@@ -2656,3 +2656,23 @@ bud_fed_fossil_sector_transport_2022,fed_fossil_subs_inventory,2022,6687000000,,
 bud_fed_fossil_sector_industry_2022,fed_fossil_subs_inventory,2022,3926400000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Sector industry direct 3926.4m 2022
 bud_fed_fossil_sector_buildings_perm_2022,fed_fossil_subs_inventory,2022,4912900000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Sector buildings permanent measures 4912.9m 2022
 bud_fed_fossil_diesel_pro_2020,fed_fossil_subs_inventory,2020,1220500000,,,estimate,src_fed_fossil_subs_inv_4e_2025,strong,Professional diesel peak 1220.5m 2020 before phase-down path
+bud_wal_violences_ambul_2026,wal_egalite_chances,2026,3539000,,,budgeted,src_wal_expgen_egalite_2026,strong,Services ambulatoires specialises violences femmes 3.539m 2026 ExpGen (19 agrees + 6 facultatives)
+bud_wal_violences_019_eng_2026,wal_egalite_chances,2026,2983000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.019 violences partenaires/genre eng 2983k 2026
+bud_wal_violences_019_liq_2026,wal_egalite_chances,2026,2722000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.019 violences liq 2722k 2026
+bud_wal_violences_097_2026,wal_egalite_chances,2026,265000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.097 violences asbl eng=liq 265k 2026
+bud_wal_violences_communes_2026,wal_egalite_chances,2026,117000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.070 violences communes eng 117k liq 123k 2026
+bud_wal_violences_cpas_2026,wal_egalite_chances,2026,145000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.071 violences CPAS eng 145k liq 136k 2026
+bud_wal_divico_uplift_2026,wal_egalite_chances,2026,115000,,,budgeted,src_wal_expgen_egalite_2026,strong,DIVICO territorial extension +115k 2026 ExpGen
+bud_wal_cwehf_2026,wal_egalite_chances,2026,210000,,,budgeted,src_wal_expgen_egalite_2026,strong,Conseil wallon egalite femmes-hommes CWEHF subsidy 210k 2026
+bud_wal_provincial_egalite_platforms_2026,wal_egalite_chances,2026,107000,,,budgeted,src_wal_expgen_egalite_2026,strong,13 provincial platforms FWB-WAL-provinces protocol 107k/yr 2026
+bud_wal_racism_conseil_2026,wal_egalite_chances,2026,100000,,,budgeted,src_wal_expgen_egalite_2026,strong,Conseil wallon lutte contre le racisme (CESE) 100k 2026
+bud_wal_egalite_prive_028_eng_2026,wal_egalite_chances,2026,590000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.028 initiatives privees egalite eng 590k liq 534k 2026
+bud_wal_egalite_prive_028_liq_2026,wal_egalite_chances,2026,534000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.028 liq 534k 2026
+bud_wal_lgbtq_arcenciel_2026,wal_egalite_chances,2026,964000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.030 Maisons Arc-en-ciel LGBTQ eng 964k liq 962k 2026
+bud_wal_pole_ressources_violences_2026,wal_egalite_chances,2026,383000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.108 egalite/violences Pôle ressources class eng 383k liq 348k; narrative ~616k prior year path
+bud_wal_egalite_communes_054_2026,wal_egalite_chances,2026,60000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.054 communes egalite eng 60k liq 45k 2026
+bud_wal_egalite_cpas_085_liq_2026,wal_egalite_chances,2026,183000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.085 CPAS egalite liq 183k 2026 (eng 0)
+bud_wal_prostitution_services_2026,wal_egalite_chances,2026,1021000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.021 aide/soins personnes prostituees eng=liq 1021k 2026
+bud_wal_interfederal_egalite_057_2026,wal_egalite_chances,2026,938000,,,budgeted,src_wal_epco_egalite_2026,strong,DF 094.057 initiatives interfederales action sociale/cohesion/integration/egalite eng 938k liq 938k (includes dual Unia/IEFH class residual split)
+bud_wal_egalite_violence_core_eng_2026,wal_egalite_chances,2026,5924000,,,derived,src_wal_epco_egalite_2026,medium,Core equality+violence L5 sample eng sum 5924k (not full 17.094 action sociale)
+bud_wal_egalite_violence_core_liq_2026,wal_egalite_chances,2026,5735000,,,derived,src_wal_epco_egalite_2026,medium,Core equality+violence L5 sample liq sum 5735k

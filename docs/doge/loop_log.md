@@ -2647,3 +2647,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity fed_fossil_subs_inventory; budgets +26; cmt +1; lb +5; FOI gap_fed_fossil_subs_2023_24 ready; draft; raw PDF; rq_238=done; spawn rq_239; ticks=247
 - FOI: 2023-24 consol series human send
 - Next: prio5 **rq_239**; **progress@250 in 3 ticks**; deferred **rq_116** SWA
+
+### 2026-07-29T11:00:00Z — tick 248
+- Unit: **rq_239** (FOI-adjacent hole-fill — **Wallonie egalite dual FWB/VL**)
+- Found (strong ExpGen + EP Coppieters prog 17.094):
+  - **Ambulatoires violences femmes EUR 3.539m** 2026 (19 agrees + 6 facultatives); DF 094.019 eng **2.983m** / liq **2.722m**.
+  - Core equality+violence L5 sample: eng **~5.924m** / liq **~5.735m** (019+097+070+071+028+030+054+108+CWEHF+racism+platforms).
+  - Named: CWEHF **210k**; provincial platforms **107k**; racism conseil **100k**; LGBTQ Arc-en-ciel **964k**; egalite privee **590k**; DIVICO +**115k**.
+  - Dual/triple: FWB pack CL **7.85m** | VL GK **15.16m** | WAL core **~5.7m liq** — **not additive**.
+  - Shared FWB-WAL Strategie genre 2025-2029.
+- Wrote: sources +2; entity wal_egalite_chances; budgets +20; cmt +1; lb +4; FOI gap_wal_egalite_l5 ready; drafts; raw PDFs; rq_239=done; spawn rq_240; ticks=248
+- FOI: WAL L5 operators human send
+- Next: prio5 **rq_240**; **progress@250 in 2 ticks**; deferred **rq_116** SWA
