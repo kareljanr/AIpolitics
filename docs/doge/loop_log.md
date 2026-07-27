@@ -4011,3 +4011,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2 (syntra_vl, ifapme); sources +2; budgets +10; cmt +1; lb +3; FOI **gap_vocational_dual_syntra_ifapme_l5** ready + draft; rq_348=done; spawn **rq_349**; ticks=357
 - FOI: Syntra per-centre L5 + IFAPME centre network grants human send only
 - Next: prio5 **rq_349**; deferred **rq_116** SWA
+
+### 2026-07-31T17:45:00Z - tick 358
+- Unit: **rq_349** (FOI-adjacent hole-fill - **dual culture Flanders CJM + FWB DO20**)
+- Found (strong primary VL BBT Cultuur BO2026 + FWB exp. particulier):
+  - Flanders content class **~EUR 426.2m**: Kunsten VEK **157.966m** · Erfgoed **85.589m** · SCW **83.125m** · Amateur **14.031m** · Digital **20.161m** · Opera Ballet **31.045m** · KMSKA **12.123m** · Philharmonic **10.554m** · Literatuur **11.611m** (excl VIA 67.2m / infra mixed).
+  - FWB DO20 Culture: CE **267.213m** · CL **367.468m** 2026 (2025 CL 362.582m).
+  - L5 FWB: arts vivants CL **103.630m** · transversal **92.187m** · territoriale **67.383m** · musiques **52.725m** · patrimoines **23.000m**.
+  - Cross-check DO26 Sport CL **49.981m** (ADEPS class).
+  - Dual culture class **~EUR 794m** (not TE-additive; VEK vs CL scopes).
+- Wrote: entities +2; sources +2; budgets +23; cmt +1; lb +5; FOI **gap_culture_dual_vl_fwb_l5** ready + draft; rq_349=done; spawn **rq_350**; ticks=358
+- FOI: top-50 operators both sides + moratoria cash human send only
+- Next: prio5 **rq_350**; deferred **rq_116** SWA

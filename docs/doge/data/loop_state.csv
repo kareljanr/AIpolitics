@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T17:15:00Z,rq_348,357,no,Scheduler 60s. Next prio5 rq_349; rq_116 SWA deferred. FOI ready. tick357 vocational dual Syntra/IFAPME.
+main,continuous,hole_fill,2026-07-31T17:45:00Z,rq_349,358,no,Scheduler 60s. Next prio5 rq_350; rq_116 SWA deferred. FOI ready. tick358 culture dual VL/FWB.

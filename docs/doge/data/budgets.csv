@@ -4381,3 +4381,26 @@ bud_wal_ifapme_numerique_2026,ifapme,2026,1375000,,,budgeted,src_wal_epje_ifapme
 bud_wal_ifapme_accrochage_2026,ifapme,2026,857000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.006 accrochage public 0.857m
 bud_wal_ifapme_invest_2026,ifapme,2026,3140000,,,budgeted,src_wal_epje_ifapme_2026,strong,112.019 investissements centres formation 3.140m capital
 bud_vocational_dual_syntra_ifapme_2026,syntra_vl,2026,138000000,,,budgeted,src_vl_vr_syntra_2026_27,medium,Illustrative dual: VL Syntra 49.7m + WAL IFAPME 88.3m ~138m; not TE-additive; excludes FOREM/VDAB/18.109/18.25 croisees
+bud_vl_kunsten_vek_2026,cultuur_cjm_vl,2026,157966000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,HB0-1HCF2TC-WT Kunsten VEK BO2026 157.966m (Kunstendecreet Circus steunpunten)
+bud_vl_kunsten_vak_2026,cultuur_cjm_vl,2026,156701000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,Kunsten VAK BO2026 156.701m
+bud_vl_erfgoed_cult_vek_2026,cultuur_cjm_vl,2026,85589000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,HB0-1HCF2TB-WT Cultureel erfgoed VEK 85.589m
+bud_vl_scw_vek_2026,cultuur_cjm_vl,2026,83125000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,HB0-1HCF2TE-WT Sociaal-cultureel volwassenenwerk VEK 83.125m
+bud_vl_amateurkunsten_vek_2026,cultuur_cjm_vl,2026,14031000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,HB0-1HCF2TD-WT Amateurkunsten VEK=VAK 14.031m
+bud_vl_digitaal_cultuur_vek_2026,cultuur_cjm_vl,2026,20161000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,HB0-1HCF2TG-WT Digitale transformatie 20.161m
+bud_vl_opera_ballet_2026,cultuur_cjm_vl,2026,31045000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,Opera Ballet Vlaanderen IS toelage BO2026 31.045m
+bud_vl_kmska_2026,cultuur_cjm_vl,2026,12123000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,KMSKA EVA toelage 12.123m BO2026
+bud_vl_brussels_philharmonic_2026,cultuur_cjm_vl,2026,10554000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,Brussels Philharmonic kunstinstelling 10.554m BO2026
+bud_vl_literatuur_toelage_2026,cultuur_cjm_vl,2026,11611000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,Literatuur Vlaanderen betoelaging 11.611m BO2026
+bud_vl_via_cultuur_2026,cultuur_cjm_vl,2026,67160000,,,budgeted,src_vl_bbt_cultuur_bo2026,strong,VIA intersectorale akkoorden 67.160m culture-jeugd-media stack
+bud_vl_cultuur_content_class_2026,cultuur_cjm_vl,2026,426205000,,,budgeted,src_vl_bbt_cultuur_bo2026,medium,Sum content class 426.205m excl VIA/infra mixed
+bud_fwb_culture_do20_cl_2026,fwb_culture_do20,2026,367468000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 Culture CL 367.468m 2026
+bud_fwb_culture_do20_ce_2026,fwb_culture_do20,2026,267213000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 Culture CE 267.213m 2026
+bud_fwb_culture_do20_cl_2025,fwb_culture_do20,2025,362582000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 Culture CL 362.582m 2025 initial
+bud_fwb_arts_vivants_cl_2026,fwb_culture_do20,2026,103630000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 prog 2 Arts vivants CL 103.630m
+bud_fwb_culture_transversal_cl_2026,fwb_culture_do20,2026,92187000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 prog 1 Transversal CL 92.187m
+bud_fwb_action_territoriale_cl_2026,fwb_culture_do20,2026,67383000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 prog 7 Action territoriale CL 67.383m
+bud_fwb_musiques_cl_2026,fwb_culture_do20,2026,52725000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 prog 3 Musiques CL 52.725m
+bud_fwb_patrimoines_cult_cl_2026,fwb_culture_do20,2026,23000000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO20 prog 4 Patrimoines culturels CL 23.000m
+bud_fwb_av_do25_cl_2026,fwb_culture_do20,2026,25508000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO25 Audiovisuel CL 25.508m outside DO20 dual core
+bud_fwb_sport_do26_cl_2026,adeps,2026,49981000,,,budgeted,src_fwb_exp_part_dep_2026_culture,strong,DO26 Sport CL 49.981m confirms ADEPS class
+bud_culture_dual_vl_fwb_2026,cultuur_cjm_vl,2026,793673000,,,budgeted,src_vl_bbt_cultuur_bo2026,medium,Illustrative dual VL 426.2m + FWB DO20 CL 367.5m ~794m not TE-additive
