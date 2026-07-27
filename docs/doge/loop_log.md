@@ -3884,3 +3884,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +2; budgets +24; cmt +1; lb +3; FOI gap_fwo_fnrs_l5 ready; rq_338=done; spawn rq_339; ticks=347
 - FOI: L5 awards both funds + federal cash path ready human send
 - Next: prio5 **rq_339**; deferred **rq_116** SWA
+
+### 2026-07-31T12:45:00Z - tick 348
+- Unit: **rq_339** (FOI-adjacent hole-fill - **AWV + SOFICO dual roads infrastructure deepen**)
+- Found (strong primary AWV Ondernemingsplan 2025 + SOFICO RA2024):
+  - **AWV 2024:** VAK **€1.0207bn** · VEK **€1.187bn** (96.54% spent).
+  - **AWV 2025:** structureel onderhoud **€138.5m** (snelwegen 49.5 · gewest 47 · kunstwerken 33 · DVM 9); fiets vastlegging min **€158m** (2024 was **€162m**); +18m wegen / +12m EM onderhoud.
+  - **SOFICO 2024:** produits **€495.1m** · charges **€397.6m** · net **€100.7m** · invest record **€265m**.
+  - **PKPL** (truck tolls) **€347m** (+11.2%); network grands axes **€370.8m** 2024 · cum **~€3.7bn** since 2010.
+  - Entretien+rehab class **~€371m** 2024 (161+210).
+  - Dual financing: Flanders tax-budget agency vs Wallonia fee-financed UAP.
+- Wrote: sources +2; budgets +16; cmt +1; lb +3; FOI gap_awv_sofico_l5 ready; rq_339=done; spawn rq_340; ticks=348
+- FOI: AWV opex matrix + top works L5 both sides ready human send
+- Next: prio5 **rq_340**; **progress@350 in 2 ticks**; deferred **rq_116** SWA
