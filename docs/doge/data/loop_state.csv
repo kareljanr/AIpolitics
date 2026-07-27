@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T14:05:00Z,rq_187,192,no,"Scheduler 60s. Next prio5 rq_188 Port/Liege; rq_116 SWA deferred. FOI ready human send. tick192 PMV 1.94bn managed dual SFPIM; gap_pmv_l5_stakes ready."
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-28T14:25:00Z,rq_188,193,no,"Scheduler 60s. Next prio5 rq_189 Liege Airport/Antwerp reg; rq_116 SWA deferred. FOI ready human send. tick193 POAB 501m omzet dual NSP 115m; gap_poab_dividend_capex ready."

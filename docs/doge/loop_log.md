@@ -1991,3 +1991,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 15; cmt 1; lb 2; FOI **gap_pmv_l5_stakes** ready; rq_187=done; seeded **rq_188**.
 - FOI: L5 stakes + Gigarant claims human send only.
 - Next: prio5 **rq_188**; deferred **rq_116** SWA.
+### 2026-07-28T14:25:00Z - tick 193
+- Unit: **rq_188** (FOI-adjacent hole-fill - **Port of Antwerp-Bruges + North Sea Port**)
+- Found (POAB medium-strong NBB-derived Companyweb; NSP strong primary jaarrekening 2023 + GS letter 2024):
+  - **POAB omzet EUR 500.8m 2024 / 507.0m 2025** (494.9m 2023; 458.6m 2022).
+  - **Net -38.5m 2024 then +80.3m 2025** (100.2m 2023; 40.9m 2022); equity **2.31-2.36bn**; FTE ~1.6k.
+  - Shareholders: **Antwerp 80.2% / Bruges 19.8%** public-law NV; throughput 278mt 2024 cargo booklet.
+  - **North Sea Port SE 2023**: netto-omzet **115.0m**, total op income **131.5m**, EBIT **52.5m**, net **37.8m**; assets **944.8m**; equity group **601m** + result 37.8m; LT debt **196.4m**.
+  - 2024 NSP: EBIT **+5.1%**, PBT **-11.1%** vs 2023; **no dividend while guarantees** (GS Zeeland letter).
+  - Dual map: **POAB large BE port** vs **NSP cross-border Gent-Zeeland** (Gent 48.52% / Zeeland 25%).
+- **Major residual closed** for multi-tick Port authority P&L hole.
+- Wrote: sources 4; entities 2; cmt 2; lb 2; budgets 12; FOI **gap_poab_dividend_capex** ready; rq_188=done; seeded **rq_189**.
+- FOI: city dividend cash-by-year + CAPEX top20 human send only; Liege Airport authority still residual.
+- Next: prio5 **rq_189**; deferred **rq_116** SWA.

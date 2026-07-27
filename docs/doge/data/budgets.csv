@@ -2077,3 +2077,15 @@ bud_pmv_gigarant_outstanding_2024,pmv,2024,695000000,,,outturn,src_pmv_jv_2024,s
 bud_pmv_dividend_reserved_2024,pmv,2024,3800000,,,budgeted,src_pmv_jv_2024,strong,Dividend gereserveerd 3.8m from 2024 group profit
 bud_pmv_staff_core_2024,pmv,2024,183,,,outturn,src_pmv_jv_2024,medium,Kerncijfers 183 werknemers (group much larger with Aquafin 1276)
 bud_pmv_omzet_consol_2024,pmv,2024,41949355,,,outturn,src_pmv_jv_2024,medium,Consol omzet 41.9m 2024 (investment co ops; Aquafin perimeter separate large)
+bud_poab_omzet_2025,port_antwerp_bruges,2025,506962443,,,outturn,src_poab_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2025
+bud_poab_omzet_2024,port_antwerp_bruges,2024,500820773,,,outturn,src_poab_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2024
+bud_poab_omzet_2023,port_antwerp_bruges,2023,494922461,,,outturn,src_poab_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2023
+bud_poab_net_2025,port_antwerp_bruges,2025,80266578,,,outturn,src_poab_companyweb_nbb,medium-strong,Net profit 2025 after 2024 loss
+bud_poab_net_2024,port_antwerp_bruges,2024,-38510134,,,outturn,src_poab_companyweb_nbb,medium-strong,Net loss 2024
+bud_poab_equity_2025,port_antwerp_bruges,2025,2359928817,,,stock,src_poab_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025
+bud_poab_equity_2024,port_antwerp_bruges,2024,2309299106,,,stock,src_poab_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024
+bud_nsp_netto_omzet_2023,north_sea_port,2023,115017000,,,outturn,src_nsp_jaarrekening_2023,strong,Netto-omzet consol 2023
+bud_nsp_op_income_2023,north_sea_port,2023,131489000,,,outturn,src_nsp_jaarrekening_2023,strong,Total bedrijfsopbrengsten 2023
+bud_nsp_net_2023,north_sea_port,2023,37771000,,,outturn,src_nsp_jaarrekening_2023,strong,Resultaat na belastingen 2023
+bud_nsp_assets_2023,north_sea_port,2023,944761000,,,stock,src_nsp_jaarrekening_2023,strong,Total assets EOY 2023
+bud_nsp_equity_group_2023,north_sea_port,2023,600944000,,,stock,src_nsp_jaarrekening_2023,strong,Groepsvermogen excl te bestemmen resultaat 37.771k
