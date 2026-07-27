@@ -839,3 +839,18 @@ bud_nmbs_odc_woonwerk_2023,nmbs,2023,34400000,,,budgeted,src_nmbs_odc_2023_2032,
 bud_nmbs_odc_woonwerk_2024,nmbs,2024,40000000,,,budgeted,src_nmbs_odc_2023_2032,medium,Woon-werk 40.0m 2024
 bud_nmbs_odc_woonwerk_2025,nmbs,2025,42300000,,,budgeted,src_nmbs_odc_2023_2032,medium,Woon-werk 42.3m 2025
 bud_nmbs_odc_woonwerk_2026,nmbs,2026,43700000,,,budgeted,src_nmbs_odc_2023_2032,medium,Woon-werk 43.7m 2026
+bud_vl_bo2026_jobbonus,vlaanderen_gov,2026,228000000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Jobbonus 228m VEK BO2026 keep
+bud_vl_bo2026_subs_cut_pkg,vlaanderen_gov,2026,350000000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Subsidies efficient gov cut package 350m
+bud_vl_bo2026_dienstencheques_effort,vlaanderen_gov,2026,151438000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Dienstencheques effort 151.438m not full TCO
+bud_vl_bo2026_werk_effort,vlaanderen_gov,2026,228953000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Werk RA effort 228.953m
+bud_vl_bo2026_warm,vlaanderen_gov,2026,98500000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Warm Vlaanderen invest 98.5m
+bud_vl_bo2026_welvarend,vlaanderen_gov,2026,206901000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Welvarend Vlaanderen 206.901m
+bud_vl_bo2026_gemeentefonds_delta,vlaanderen_gov,2026,115051000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Gemeentefonds +3.5pct +115.051m
+bud_vl_bo2026_rente,vlaanderen_gov,2026,330627000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Rente DFB +330.627m actualisatie
+bud_vl_bo2026_vrt_delta,vlaanderen_gov,2026,49323000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,VRT ESR actualisatie +49.323m
+bud_vl_bo2026_delijn_delta,vlaanderen_gov,2026,-61325000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,De Lijn VEK calendar -61.325m
+bud_vl_bo2026_index,vlaanderen_gov,2026,718908000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Index package VEK 718.908m constant policy
+bud_vl_bo2026_eigen_overheid,vlaanderen_gov,2026,197822000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Inspanningen eigen overheid 197.822m
+bud_vl_bo2026_uitstel,vlaanderen_gov,2026,370000000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Uitstel uitbreidingsbeleid 370m
+bud_vl_bo2026_hervorm,vlaanderen_gov,2026,462741000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Hervormingen punctueel 462.741m
+bud_vl_bo2026_retro_premie,vlaanderen_gov,2026,-189867000,,,budgeted,src_vl_centenboekje_bo2026_full,strong,Retro invest premie -189.867m

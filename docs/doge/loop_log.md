@@ -848,6 +848,17 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T16:00:00Z -- tick 128
+- Unit: **rq_125** (Flanders BO2026 top 30 named subsidies L5) — prio 8
+- Found (primary Centenboekje BO2026 PDF; **no invent euros**):
+  - Domain VEK already mapped; extracted **30+ named measure lines** (Jobbonus 228m, Oosterweel 889.9m, VV 436.4m, subsidy cut pkg 350m, uitstel 370m, hervorm 462.7m, werk 229.0m, dienstencheques effort 151.4m, Warm 98.5m, Welvarend 206.9m, Gemeentefonds +115.1m, rente +330.6m, VRT +49.3m, De Lijn VEK −61.3m, retro premies −189.9/−111.7m, index 718.9m, …).
+  - Many rows are **deltas/effort packages**, not full L5 third-party registers.
+  - Snapshot: `vl_bo2026_named_measures_top30.md`
+- Wrote: sources +1; programmes +35; budgets +15; snapshot md; rq_125=**done**; ticks=128
+- FOI: none new (centenboekje is L3–L4; L5 ASBL lists remain prior FOI stack)
+- Next: prio8 **rq_124** federal BGD / **rq_154** cheques TE
+
+
 ### 2026-07-27T15:40:00Z -- tick 127
 - Unit: **rq_130** (NMBS PSO cash-by-year primary) — prio 8 / FOI-adjacent
 - Found (primary **Openbaredienstcontract NMBS–Staat 2023–2032** Art.115–116; **no invent euros**):
