@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,idle_waiting_foi,continuous,2026-07-27T03:50:00Z,rq_107,116,no,tick116 SWA recheck negative; mode idle_waiting_foi; only rq_116 open (Q4 SWA); human FOI stack ready.
+main,idle_waiting_foi,continuous,2026-07-27T04:05:00Z,idle,117,no,tick117 idle: no public open work (rq_116 Q4 only); FOI ready stack human-only; mid-year SWA skip.
