@@ -3751,3 +3751,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity stereo_iv; budgets +3; cmt +1; lb +1; FOI gap_stereo_iv ready draft; rq_328=done (seeded); spawn rq_329; ticks=337
 - FOI: awards + cash path vs 28.15m ready human send
 - Next: prio5 **rq_329**; deferred **rq_116** SWA
+
+### 2026-07-31T07:45:00Z - tick 338
+- Unit: **rq_329** (FOI-adjacent hole-fill - **BE ESA CM25 multi-year space dual Belspo+Defence**)
+- Found (strong BELSPO CM-ESA Bremen 2025 debrief primary PDF):
+  - BE total space **2025-2030**: **€1.845bn** = 1.277 base + **168 MoD ESA** + **400 one-off** (~**€369m/y**).
+  - ESA share class **~€335m/y**; intergov Eumetsat/ECMWF/ESO ~25m/y; EU/bilat/nat ~10m/y.
+  - BE ESA CM25 subscription **€1.109bn** incl MoD (5.06% of ESA €22.07bn); prior CM22 €946.86m.
+  - Inéluctables **€1.050bn**; new ESA commits **€934m** (836m for 2026-30).
+  - PRODEX **€99m** (24 uncond + 75 cond); GSTP **€103.9m** (79.9 TBA); Science **€106.4m**; Basic **€52.2m**.
+  - MoD invest programmes space **2026-2034 €617m**; dual NATO-accountable constraint.
+  - Some TBA/conditional need BE CM confirm by **31 Jan 2026**.
+- Wrote: sources +1; entity esa_cm25_be; budgets +15; cmt +2; lb +3; FOI gap_be_space_cm25 ready; rq_329=done; spawn rq_330; ticks=338
+- FOI: cash-by-year civil vs MoD + TBA confirmation ready human send
+- Next: prio5 **rq_330**; **progress@340 in 2 ticks**; deferred **rq_116** SWA

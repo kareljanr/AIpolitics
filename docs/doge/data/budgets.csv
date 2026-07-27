@@ -4101,3 +4101,18 @@ bud_proba3_be_contrib,proba3_be,2024,63400000,,,budgeted,src_belspo_proba3_ar202
 bud_stereo_iv_total_2022_29,stereo_iv_belspo,2029,28150000,,,budgeted,src_belspo_stereo_iv_call2025,strong,STEREO IV programme 2022-2029 allocated budget 28.15m EUR (CM 22 Nov 2019)
 bud_stereo_iv_call2025_class,stereo_iv_belspo,2025,7400000,,,budgeted,src_belspo_stereo_iv_call2025,medium,Call 2025 thematic network projects tentatively ~7.4 MEURO subject to final budget approval
 bud_stereo_iv_annual_class,stereo_iv_belspo,2025,3518750,,,budgeted,src_belspo_stereo_iv_call2025,medium,Illustrative annual class 28.15m/8y ~3.52m if flat; not cash outturn
+bud_be_space_total_2025_30,esa_cm25_be,2030,1845000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,BE total space 2025-2030 e.c.2025: 1277+168 MoD+400 one-off = 1845m (~369m/y)
+bud_be_space_base_path_2025_30,esa_cm25_be,2030,1277000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,Base BE space path 1277m 2025-30 before MoD ESA and one-off
+bud_be_space_mod_esa_168m,esa_cm25_be,2030,168000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,Belgian Defence participation ESA optional programmes 168m (CM25 package)
+bud_be_space_oneoff_400m,esa_cm25_be,2028,400000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,One-off budget increase 2026 and 2028 total 400m (CM 24 Nov 2025 class)
+bud_be_esa_cm25_total_1109m,esa_cm25_be,2030,1109000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,BE total ESA CM25 subscription 1109m incl MoD (5.06pct of ESA 22.07bn)
+bud_be_esa_cm25_annual_class,esa_cm25_be,2026,335000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,medium,ESA share of BE space ~335m/y average 2025-30 class incl defence
+bud_be_esa_ineluctables_1050m,esa_cm25_be,2030,1050000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,Previous ESA commitments Ineluctables 1050m
+bud_be_esa_new_commit_934m,esa_cm25_be,2030,934000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,New ESA programme commitments 934m of which 836m period 2026-2030
+bud_be_prodex_cm25_99m,esa_cm25_be,2029,99000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,PRODEX BE covered 99m (24 unconditional + 75 conditional) till 2029
+bud_be_gstp_cm25_103_9m,esa_cm25_be,2030,103900000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,medium,GSTP BE total 103.9m of which 79.9m TBA/conditional class
+bud_be_science_prog_cm25_106_4m,esa_cm25_be,2030,106400000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,ESA Science Programme BE 106.4m (GNP1)
+bud_be_basic_act_cm25_52_2m,esa_cm25_be,2030,52200000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,ESA Basic Activities BE 52.2m (GNP1)
+bud_be_mod_space_invest_2026_34,esa_cm25_be,2034,617000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,strong,Belgian Defence important investment programmes space 2026-2034 617m
+bud_be_intergov_space_class_25m,esa_cm25_be,2026,25000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,medium,Intergovernmental Eumetsat ECMWF ESO class ~25m/y of BE space path
+bud_be_eu_bilat_nat_space_class_10m,esa_cm25_be,2026,10000000,,,budgeted,src_belspo_cm25_esa_bremen_debrief,medium,EU bilateral national space activities class ~10m/y
