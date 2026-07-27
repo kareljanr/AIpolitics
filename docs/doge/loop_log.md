@@ -2004,3 +2004,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; entities 2; cmt 2; lb 2; budgets 12; FOI **gap_poab_dividend_capex** ready; rq_188=done; seeded **rq_189**.
 - FOI: city dividend cash-by-year + CAPEX top20 human send only; Liege Airport authority still residual.
 - Next: prio5 **rq_189**; deferred **rq_116** SWA.
+### 2026-07-28T14:45:00Z - tick 194
+- Unit: **rq_189** (FOI-adjacent hole-fill - **Liege Airport SA** dual BSCA/BAC/SOWAER)
+- Found (medium-strong Companyweb/NBB + strong Parlement Wallonie QE Neven + annex 3120):
+  - **Omzet EUR 56.16m 2024 / 65.04m 2025** (48.0m 2022; **95.6m 2023 spike** recon residual).
+  - **Net 14.31m 2024 / 17.49m 2025**; equity **75.2 ? 85.6m**; FTE 223 ? 241.
+  - Shareholders: **NEB 50.36% / ADP 25.54% / SOWAER 24.10%** (PW strong).
+  - Dividends to SOWAER: **1.269 / 1.231 / 1.421m** 2021-23 (no full multi-shareholder path).
+  - **WAL subsidies** annex (kEUR sums): **29.0 / 31.4 / 30.9m** 2021-23 (mission + incendie + sûreté).
+  - Dual: Liege cargo **~65m** vs BSCA **127m** vs BAC **828m**; SOWAER infra owner to 2041.
+- Wrote: sources 3; entity 1; budgets 12; cmt 1; lb 2; FOI **gap_liege_airport_subsidy_l5** ready; rq_189=done; seeded **rq_190**.
+- FOI: 2024-25 subsidy cash + contracts + full dividends human send only; Antwerp/Mons still residual.
+- Next: prio5 **rq_190**; deferred **rq_116** SWA.

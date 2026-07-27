@@ -2089,3 +2089,15 @@ bud_nsp_op_income_2023,north_sea_port,2023,131489000,,,outturn,src_nsp_jaarreken
 bud_nsp_net_2023,north_sea_port,2023,37771000,,,outturn,src_nsp_jaarrekening_2023,strong,Resultaat na belastingen 2023
 bud_nsp_assets_2023,north_sea_port,2023,944761000,,,stock,src_nsp_jaarrekening_2023,strong,Total assets EOY 2023
 bud_nsp_equity_group_2023,north_sea_port,2023,600944000,,,stock,src_nsp_jaarrekening_2023,strong,Groepsvermogen excl te bestemmen resultaat 37.771k
+bud_liege_omzet_2025,liege_airport,2025,65044531,,,outturn,src_liege_airport_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2025
+bud_liege_omzet_2024,liege_airport,2024,56163905,,,outturn,src_liege_airport_companyweb_nbb,medium-strong,Companyweb NBB-derived omzet 2024
+bud_liege_omzet_2023,liege_airport,2023,95587685,,,outturn,src_liege_airport_companyweb_nbb,medium-strong,Omzet spike 2023 recon residual FOI
+bud_liege_net_2025,liege_airport,2025,17490845,,,outturn,src_liege_airport_companyweb_nbb,medium-strong,Net profit 2025
+bud_liege_net_2024,liege_airport,2024,14307941,,,outturn,src_liege_airport_companyweb_nbb,medium-strong,Net profit 2024
+bud_liege_equity_2025,liege_airport,2025,85642827,,,stock,src_liege_airport_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025
+bud_liege_wal_sub_total_2023,liege_airport,2023,30868000,,,outturn,src_pw_airports_subsidies_annex_3120,strong,Sum mission+incendie+surete annex kEUR to EUR
+bud_liege_wal_sub_total_2022,liege_airport,2022,31366000,,,outturn,src_pw_airports_subsidies_annex_3120,strong,Sum mission+incendie+surete; surete 11171 OCR from 1.1.171
+bud_liege_wal_sub_total_2021,liege_airport,2021,29044000,,,outturn,src_pw_airports_subsidies_annex_3120,strong,Sum mission+incendie+surete 2021
+bud_liege_div_sowaer_2023,liege_airport,2023,1421015,,,outturn,src_pw_neven_airports_2024,strong,Dividend to SOWAER only published path
+bud_liege_div_sowaer_2022,liege_airport,2022,1231412,,,outturn,src_pw_neven_airports_2024,strong,Dividend to SOWAER
+bud_liege_div_sowaer_2021,liege_airport,2021,1269068,,,outturn,src_pw_neven_airports_2024,strong,Dividend to SOWAER
