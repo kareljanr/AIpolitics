@@ -4638,3 +4638,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~70; cmt +2; lb +8; FOI **gap_icn_edp_oct2026_refresh** ready seasonal; rq_395=done; spawn **rq_396**; ticks=404
 - FOI: Oct EDP refresh seasonal human send
 - Next: prio5 **rq_396**; deferred **rq_116** SWA
+
+### 2026-08-01T17:15:00Z - tick 405
+- Unit: **rq_396** (FOI-adjacent hole-fill - **HermReg full PDF+XLSX Entity II multi-year financing balances**)
+- Found (strong primary BFP HermReg Jul 2026 PDF Ch.5 + DATA_HermReg_FR.xlsx sheet8 mEUR):
+  - **VL** dep **76.284bn** 2026 / rec 73.237 / solde **-3.049**; path solde **-5.02/-3.85/-3.05/-0.90/-1.74/-2.00/-1.89/-1.44** 2024-31; interest **1.302?2.248bn**
+  - **WAL** dep **21.272bn** 2026 / solde **-2.126**; path **-2.06/-2.70/-2.13/-1.55/-1.86/-1.58/-1.56/-1.62**; int **0.99?1.52bn**
+  - **FWB** dep **28.121bn** 2026 / solde **-1.828**; path **-1.48/-1.45/-1.83/-1.36/-1.45/-1.23/-1.30/-1.30**; int **0.42?0.78bn**
+  - **BCR+COCOM consol** solde **-1.56/-0.91/-1.02/-0.93/-0.91/-0.78/-0.80/-0.86**; BCR dep 7.639 / COCOM 1.974 2026
+  - **C&R ensemble** T13 %GDP solde **-1.5?-0.5** 2024-31; 2026 rec 18.5 / dep 19.7 / int 0.5
+  - Method: ETS2 from 2028 booked **interreg** (no share key); federal depositary only
+  - Residual: Oosterweel-ex VL series not tabulated; DG not in HermReg C&R chapter
+- Wrote: sources +2; budgets ~90; cmt +5; lb +8; raw PDF+XLSX; FOI **gap_reg_outlook_deficit_series ? answered**; rq_396=done; spawn **rq_397**; ticks=405
+- FOI: closed public; optional residual Oosterweel-ex/DG only (not reopened)
+- Next: prio5 **rq_397**; deferred **rq_116** SWA

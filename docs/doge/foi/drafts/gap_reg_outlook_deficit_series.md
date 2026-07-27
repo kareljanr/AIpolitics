@@ -1,6 +1,6 @@
 # FOI draft — gap_reg_outlook_deficit_series
 
-Status: **ready** (human send only). Not legal advice.
+Status: **answered** via public HermReg PDF+XLSX (tick405). Residual only Oosterweel-ex VL split + DG (not in report). Not legal advice.
 
 ## Brief
 
