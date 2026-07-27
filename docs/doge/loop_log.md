@@ -1486,3 +1486,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets ~25; cmt 4; lb 5; rq_147=done; FOI residual ready.
 - FOI: gap_defence_contract_cash (signed cash-by-year major contracts) human send only.
 - Next: prio5 **rq_150 justice** / **rq_151 police** / **rq_121 hole-fill**.
+
+### 2026-07-28T02:30:00Z — tick 158
+- Unit: **rq_150** (Justice prisons courts dual NL/FR overhead sample)
+- Found (strong primary FOD PSP + Rekenhof DBFM 2023):
+  - **Justitie ~EUR 2.7bn/yr:** courts **1.431bn** · prisons **799m** · cults **136.2m** · central **184.1m** · grants **303m** · ops **496.7m** · invest **74.7m** · personnel **67%**.
+  - **Detention:** unit cost **EUR 55,624** (2022) · pop **13,483** / capacity **11,098** (121.5% Nov 2025).
+  - **DBFM prisons (CoA):** 9 sites **3,874** places · annual fees **≥153.1m** full · **25y EUR 3.828bn** · Haren **48.4m/yr** (1,190 places) · MP1 **53.0m/yr** · off-balance **2.6bn** eoy2022.
+  - Dual NL/FR: constitutional; euro L5 (tolk/vertaling) **not** published → FOI.
+- Wrote: sources 4; entities 2; budgets ~23; cmt 3; lb 4; rq_150=done; FOI residual ready.
+- FOI: gap_justice_dual_lang_tolk (interpreter/dual-lang cash) human send only.
+- Next: prio4 **rq_151 police zones** / prio5 **rq_121 hole-fill** / deferred **rq_116 SWA**.

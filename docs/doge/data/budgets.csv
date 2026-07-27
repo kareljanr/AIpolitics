@@ -1382,3 +1382,26 @@ bud_def_sv2016_weapons_9_2bn,mod_defensie,2016,9200000000,,,commitment,src_coa_w
 bud_def_budget_2025_commit,mod_defensie,2025,12900000000,,,budgeted,src_coa_wederuitrusting_2025,strong,Draft budget 2025 Defensie 12.9bn vastleggingen / 10.5bn vereffeningen (CoA)
 bud_def_budget_2025_pay,mod_defensie,2025,10500000000,,,budgeted,src_coa_wederuitrusting_2025,strong,Draft budget 2025 liquidation credits 10.5bn
 bud_def_knds_maint_to_2055,mod_defensie,2025,1488000000,,,commitment,src_coa_wederuitrusting_2025,medium,KNDS maintenance related path class 1.488bn to 2055 incl 248m spare stock 2025-28
+bud_justice_total_class_2025,fod_justice,2025,2700000000,,,budgeted,src_fod_justitie_psp_2026_29,medium,FOD strategic plan: annual Justice budget estimated about 2.7bn this legislature
+bud_justice_courts_ro_2025,fod_justice,2025,1431000000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Ordinary courts rechterlijke orde afdeling 56: 1431m (2023 was 1313m)
+bud_justice_prisons_2025,dg_epi,2025,799000000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Prison system afdeling 51: 799m 2025
+bud_justice_legislation_dg_2025,fod_justice,2025,41300000,,,budgeted,src_fod_justitie_psp_2026_29,strong,DG Legislation and fundamental rights 41.3m
+bud_justice_cults_2025,fod_justice,2025,136200000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Erediensten and vrijzinnigheid 136.2m
+bud_justice_central_support_2025,fod_justice,2025,184100000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Support and central services 184.1m (2023 169.0m)
+bud_justice_special_services_2025,fod_justice,2025,55300000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Special services e.g. Kansspelcommissie afdeling 62: 55.3m (2023 39.4m)
+bud_justice_grants_dotations_2025,fod_justice,2025,303000000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Toelagen and dotaties 303m of annual budget
+bud_justice_operating_2025,fod_justice,2025,496736000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Werkingskredieten 496.736m (food detainees court costs legal aid victim aid)
+bud_justice_invest_2025,fod_justice,2025,74731000,,,budgeted,src_fod_justitie_psp_2026_29,strong,Investeringskredieten only 74.731m of regular credits
+bud_justice_cost_per_prisoner_2022,dg_epi,2022,55624.24,,,outturn,src_justice_prison_cost_2022,strong,Official average cost per prisoner EUR 55624.24 in 2022
+bud_justice_prison_pop_2025,dg_epi,2025,13483,,,outturn,src_prisonstudies_be_2025,medium,Prison population 13483 Nov 2025 MoJ via WPB
+bud_justice_prison_capacity_2025,dg_epi,2025,11098,,,outturn,src_prisonstudies_be_2025,medium,Official capacity 11098 Nov 2025 occupancy 121.5pct
+bud_justice_dbfm_annual_all9,dg_epi,2029,153100000,,,budgeted,src_coa_prisons_dbfm_2023,strong,CoA: annual DBFM fees >=153.1m once all 9 prisons operational
+bud_justice_dbfm_25y_total,dg_epi,2023,3827900000,,,commitment,src_coa_prisons_dbfm_2023,strong,CoA: 9 DBFM prisons total cost over 25 years 3827.9m
+bud_justice_dbfm_mp1_annual,dg_epi,2023,53000000,,,outturn,src_coa_prisons_dbfm_2023,strong,MP1 four prisons annual fees sum 53.0m (Beveren 13.6 Marche 12.3 Leuze 12.1 Dendermonde 15.0)
+bud_justice_dbfm_haren_annual,dg_epi,2023,48400000,,,outturn,src_coa_prisons_dbfm_2023,strong,Haren annual fee 48.4m capacity 1190 places
+bud_justice_dbfm_haren_25y,dg_epi,2023,1210900000,,,commitment,src_coa_prisons_dbfm_2023,strong,Haren total cost over 25y 1210.9m
+bud_justice_dbfm_beveren_annual,dg_epi,2023,13600000,,,outturn,src_coa_prisons_dbfm_2023,strong,Beveren annual 13.6m capacity 312
+bud_justice_dbfm_dendermonde_annual,dg_epi,2023,15000000,,,outturn,src_coa_prisons_dbfm_2023,strong,Dendermonde annual 15.0m capacity 444
+bud_justice_dbfm_antwerpen_annual,dg_epi,2026,17700000,,,budgeted,src_coa_prisons_dbfm_2023,medium,Antwerpen annual 17.7m at award capacity 440 (may change before financial close)
+bud_justice_dbfm_offbalance_2022,dg_epi,2022,2600000000,,,commitment,src_coa_prisons_dbfm_2023,strong,Legal commitment off-balance sheet DBFM 2.6bn end-2022
+bud_justice_dbfm_places_total,dg_epi,2029,3874,,,budgeted,src_coa_prisons_dbfm_2023,strong,9 DBFM prisons planned capacity addition 3874 places (5 open ~2570 in 2023 audit)
