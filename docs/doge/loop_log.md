@@ -3777,3 +3777,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity eumetsat_be; budgets +4; cmt +1; lb +1; FOI gap_be_intergov ready; rq_330=done; spawn rq_331 progress@340; ticks=339
 - FOI: ECMWF+ESO cash residual ready human send
 - Next: **MANDATORY rq_331 progress@340**; deferred **rq_116** SWA
+
+### 2026-07-31T08:45:00Z - tick 340 (progress milestone)
+- Unit: **rq_331** (mandatory progress@340 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~91-98%** (up from ~90-97% @330) — BELSPO AR2024 **€582.4m** L2; BE space CM25 **€1.845bn** 2025-30 dual MoD; EUMETSAT **€13.48m**; prior SOE/lottery/culture/Belnet
+  - **D L5:** **~16-27%** — P4Science 15.26m FSI; FED-tWIN; S4Policy 34.26m; STEREO IV 28.15m; PROBA-3 BE 63.4m; climate 39.2m; awards/cash FOI residual
+  - **E FOI ready:** **~153** (answered ~5; total rows ~160)
+- Waste top10: **stable** fossil/company cars/cheque TE/EIWT; multi-year space packages + Belspo programmes noted off pure annual top10
+- Inventory: budgets ~4121 / cmt ~622 / lb ~739 / entities ~290 / sources ~644
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_331=done; spawn rq_332; ticks=340
+- Next: prio5 **rq_332**; deferred **rq_116** SWA; human FOI send stack ~153 ready
