@@ -3295,3 +3295,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity statbel; budgets +pack; cmt +2; lb +2; FOI gap_statbel_statutaire_payroll ready; draft; IRRS raw; gap_fanc note; rq_292=done; spawn rq_293; ticks=301
 - FOI: Statbel wage bill + FANC EUR residual human send
 - Next: prio5 **rq_293**; deferred **rq_116** SWA
+
+### 2026-07-30T13:45:00Z - tick 302
+- Unit: **rq_293** (FOI-adjacent hole-fill - **consumer protection external pack**)
+- Found (strong primary Kamer 55K2933/016 prog 49):
+  - **AB-REOC/BV-OECO** **506k** flat; **CEC** **162k** (+ EC 50% class); **Ombudsdienst Consument** **~395k** 2023.
+  - Patients LUSS+VPP **38k**; ECC ODR **50k**; CLV travel **15k**.
+  - Pack **~1.17m** 2023; dual surendettement **6.2m**.
+- Wrote: sources +1; entities +3; budgets +pack; cmt +3; lb +3; FOI gap_consumer_adr_outturn ready low prio; draft; rq_293=done; spawn rq_294; ticks=302
+- Note: FPS Economy Kamer 55K2933 largely mined — next prefer new primary PDFs
+- Next: prio5 **rq_294**; deferred **rq_116** SWA

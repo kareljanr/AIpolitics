@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T13:15:00Z,rq_292,301,no,Scheduler 60s. Next prio5 rq_293; rq_116 SWA deferred. FOI ready. tick301 Statbel ~4.4m ops pack + FANC fee model.
+main,continuous,hole_fill,2026-07-30T13:45:00Z,rq_293,302,no,Scheduler 60s. Next prio5 rq_294; rq_116 SWA deferred. FOI ready. tick302 consumer external pack ~1.17m. Economy stream thinning.

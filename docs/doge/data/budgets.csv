@@ -3681,3 +3681,46 @@ bud_statbel_enqueteurs_ssc_2026,statbel,2026,254000,,,budgeted,src_kamer_55k2933
 bud_statbel_enqueteurs_ssc_2027,statbel,2027,254000,,,budgeted,src_kamer_55k2933_statbel,strong,BA 48.12.11.20.06 employer SSC diverse enqueteurs
 bud_statbel_ops_fund_pack_2023,statbel,2023,4366000,,,budgeted,src_kamer_55k2933_statbel,strong,Sum 2023 class excl statutaire payroll memo: functioning 0.991 + indemn 0.303 + durable 0.087 + fund contract 0.84 + fund enqu 0.35 + diverse enqu+ssc 1.707 + tiny ASBL ~0.01 = ~4.37m
 bud_statbel_fte_2022,statbel,2022,0,,,outturn,src_kamer_55k2933_statbel,strong,FTE headcount 275.6 as of 01 Jul 2022 (Kamer effectifs table); wage bill residual FOI
+bud_ab_reoc_2021,ab_reoc,2021,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_ab_reoc_2022,ab_reoc,2022,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_ab_reoc_2023,ab_reoc,2023,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_ab_reoc_2024,ab_reoc,2024,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_ab_reoc_2025,ab_reoc,2025,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_ab_reoc_2026,ab_reoc,2026,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_ab_reoc_2027,ab_reoc,2027,506000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.02 AB-REOC/BV-OECO consumer orgs technical legal support flat 506k eng=liq
+bud_cec_belgium_2021,cec_belgium,2021,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_cec_belgium_2022,cec_belgium,2022,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_cec_belgium_2023,cec_belgium,2023,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_cec_belgium_2024,cec_belgium,2024,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_cec_belgium_2025,cec_belgium,2025,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_cec_belgium_2026,cec_belgium,2026,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_cec_belgium_2027,cec_belgium,2027,162000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.30.33.00.30 European Consumer Centre Belgium; 50pct EC co-finance class
+bud_ombuds_consumer_2021,ombuds_consumer,2021,368000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_ombuds_consumer_2022,ombuds_consumer,2022,386000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_ombuds_consumer_2023,ombuds_consumer,2023,395000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_ombuds_consumer_2024,ombuds_consumer,2024,388000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_ombuds_consumer_2025,ombuds_consumer,2025,388000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_ombuds_consumer_2026,ombuds_consumer,2026,388000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_ombuds_consumer_2027,ombuds_consumer,2027,388000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.41.40.01 Service mediation / Ombudsdienst voor de Consument residual ADR
+bud_patient_orgs_insurance_bureau_2021,fod_economy,2021,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_patient_orgs_insurance_bureau_2022,fod_economy,2022,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_patient_orgs_insurance_bureau_2023,fod_economy,2023,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_patient_orgs_insurance_bureau_2024,fod_economy,2024,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_patient_orgs_insurance_bureau_2025,fod_economy,2025,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_patient_orgs_insurance_bureau_2026,fod_economy,2026,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_patient_orgs_insurance_bureau_2027,fod_economy,2027,38000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.01 LUSS+Vlaams Patiëntenplatform doctors in insurance tariff follow-up bureau
+bud_ecc_odr_contact_2021,cec_belgium,2021,52000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_ecc_odr_contact_2022,cec_belgium,2022,51000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_ecc_odr_contact_2023,cec_belgium,2023,50000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_ecc_odr_contact_2024,cec_belgium,2024,49000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_ecc_odr_contact_2025,cec_belgium,2025,49000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_ecc_odr_contact_2026,cec_belgium,2026,49000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_ecc_odr_contact_2027,cec_belgium,2027,49000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.02.33.00.02 ECC ODR online dispute resolution contact point (OIPC host)
+bud_clv_travel_disputes_2021,fod_economy,2021,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_clv_travel_disputes_2022,fod_economy,2022,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_clv_travel_disputes_2023,fod_economy,2023,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_clv_travel_disputes_2024,fod_economy,2024,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_clv_travel_disputes_2025,fod_economy,2025,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_clv_travel_disputes_2026,fod_economy,2026,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_clv_travel_disputes_2027,fod_economy,2027,15000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,BA 49.10.33.00.03 Commission Litiges Voyages / Geschillencommissie Reizen 15k
+bud_consumer_protection_external_pack_2023,fod_economy,2023,1166000,,,budgeted,src_kamer_55k2933_consumer_protection,strong,Sum 2023: AB-REOC 506 + CEC 162 + ombuds 395 + patients 38 + ODR 50 + CLV 15 = 1.166m; dual surendettement 6.2m separate
