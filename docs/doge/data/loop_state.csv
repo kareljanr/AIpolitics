@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-27T17:20:00Z,rq_133,132,no,"Scheduler 60s. Next prio7: parties rq_137, WAL/FWB/BRU L5, taxex; prio6 equality IEFH/FIRM; PES dual VDAB+FOREM mapped; FOI ready."
+main,continuous,hole_fill,2026-07-27T17:40:00Z,rq_137,133,no,"Scheduler 60s. Next prio7: WAL rq_126 / FWB rq_127 / BRU rq_128 / taxex rq_153 / unions rq_138; prio6 equality IEFH/FIRM; FOI ready human send."

@@ -907,3 +907,15 @@ bud_forem_recettes_total_2023,forem,2023,2733179000,,,outturn,src_forem_ra_2023,
 bud_forem_staff_2023,forem,2023,4919,,,outturn,src_forem_ra_2023,strong,COUNT persons: 4919 collaborators 3992 FTE 2023
 bud_forem_ape_delta_2023,forem,2023,98400000,,,outturn,src_forem_ra_2023,strong,APE increase +98.4m y/y within aides package
 bud_forem_titres_delta_2023,forem,2023,45900000,,,outturn,src_forem_ra_2023,strong,Titres-services +45.9m y/y
+bud_party_direct_subsidies_2024,gg_belgium,2024,83700000,,,outturn,src_maddens_party_finance_2024,strong,All parties direct public subsidies 83.7m (dotaties+fracties+provincial+connected) from Kamer-published accounts
+bud_party_fed_dotatie_2024,sec_federal,2024,36700000,,,outturn,src_maddens_party_finance_2024,strong,Federal party dotation via Kamer 36.7m 2024
+bud_party_reg_dotatie_vl_wal_2024,sec_s1312,2024,16100000,,,outturn,src_maddens_party_finance_2024,strong,Flemish+Walloon regional party dotations sum 16.1m 2024 (split not published in summary)
+bud_party_fractietoelagen_2024,gg_belgium,2024,26300000,,,outturn,src_maddens_party_finance_2024,strong,All assemblies group grants to parties 26.3m 2024
+bud_party_provincial_2024,gg_belgium,2024,3500000,,,outturn,src_maddens_party_finance_2024,strong,Provincial party grants 3.5m 2024
+bud_party_connected_fr_2024,sec_s1312,2024,1200000,,,outturn,src_maddens_party_finance_2024,strong,FR connected institutes/broadcast/training support 1.2m 2024
+bud_party_income_total_2024,gg_belgium,2024,108700000,,,outturn,src_maddens_party_finance_2024,strong,All parties total income 108.7m of which 77pct direct subsidies
+bud_party_mandataris_2024,gg_belgium,2024,11100000,,,outturn,src_maddens_party_finance_2024,strong,Mandataris contributions 11.1m (indirect public)
+bud_party_parl_staff_2024,gg_belgium,2024,104600000,,,estimate,src_maddens_party_finance_2024,medium,Parliamentary group staff wage cost estimate 104.6m from assembly budgets (BRU uses 2021)
+bud_party_package_with_staff_2024,gg_belgium,2024,188300000,,,estimate,src_maddens_party_finance_2024,medium,Direct subsidies 83.7m + staff 104.6m = 188.3m broad public party financing
+bud_party_direct_subsidies_2025,gg_belgium,2025,86500000,,,estimate,src_bt_party_subsidies_2025,medium,Press: 86.5m direct subsidies 2025 (+2.8m vs 2024) from party accounts analysis
+bud_parliaments_total_opex_2024,gg_belgium,2024,619000000,,,outturn,src_maddens_party_finance_2024,strong,All BE assemblies operating total 619.0m 2024; ~29.7pct to parties (dot+fractie+staff)

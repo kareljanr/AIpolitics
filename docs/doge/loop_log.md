@@ -1161,3 +1161,17 @@ Append-only. Each tick adds a short entry.
 - No public open work (rq_116 mid-year skip). FOI ready human-only.
 - Wrote: loop_state cursor only.
 - Next: human FOI or new research_queue; rq_116 after Oct 2026.
+
+### 2026-07-27T17:40:00Z — tick 133
+- Unit: **rq_137** (Political party federal+regional financing L5)
+- Found (strong 2024; medium 2025):
+  - **Direct public subsidies 2024: €83.7m** (77% of party income €108.7m) — Maddens/KU Leuven from Kamer DOC 56 0961 party accounts.
+  - Split: **fed dotatie €36.7m** · **VL+WAL regional €16.1m** · **fractietoelagen €26.3m** · provincial **€3.5m** · FR connected inst **€1.2m**.
+  - Mandataris contributions **€11.1m** (indirect); private gifts only €1.0m (VB+PVDA).
+  - Off-books: parliamentary group **staff ~€104.6m** ? broad package **€188.3m**; all assemblies opex **€619m** of which ~29.7% to parties.
+  - Senate boost post-2024 **€10.6m** (28.9% of federal dot); abolish-without-rewrite party hit **€25.4m**.
+  - **2025 direct €86.5m** medium (press/Belga; vote-base rise offsets freeze narrative).
+  - Kamer formula primary: fixed + €/vote, public-sector index, -5.32% 2023-24 only (src_kamer_dotatie_method).
+- Wrote: sources (4); budgets (12); cmt_party_public_financing_2024; lb_party_public_financing; rq_137=done.
+- FOI opened: none (aggregates public; per-assembly cash codes residual low priority vs ready stack).
+- Next: prio7 **rq_126 WAL L5** / **rq_127 FWB** / **rq_128 BRU** / **rq_153 taxex** / **rq_138 unions**; prio6 IEFH/FIRM.
