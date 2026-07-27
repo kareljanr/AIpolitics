@@ -3209,3 +3209,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity cern_be_contrib; budgets +59; cmt +3; lb +4; FOI gap_cern_return_dk_res_outturn ready; draft; rq_284=done; spawn rq_285; ticks=293
 - FOI: CERN return + DK MWh outturn human send
 - Next: prio5 **rq_285**; deferred **rq_116** SWA
+
+### 2026-07-30T09:45:00Z - tick 294
+- Unit: **rq_285** (FOI-adjacent hole-fill - **CREG energy crisis pack + CCE/INR**)
+- Found (strong primary Kamer 55K2933/016 FOD Economie prog 21/4):
+  - **BA 21.40.414001** CREG social tariff enlargement: **276 / 733.34 / 642.4 / 3.4m** 2021-24 then **3.4m/yr** residual.
+  - **BA 21.40.414003** CREG basisfonds heating: **517.2m** 2022 / **1 444.5m** 2023 (elec **620.7** + gas **823.8** Q1-23).
+  - Pack class **~1.25bn** 2022 / **~2.09bn** 2023; dual mazout/heating fund BA 42.40 + FFS social tariff inventory.
+  - **CCE/CRB** BA 21.40.414002 **~5.4m/yr**; **ICN/INR** BA 21.40.414006 **~1.3m/yr**.
+- Wrote: sources +1; entities cce_crb+icn_inr; budgets +27; cmt +5; lb +5; FOI gap_creg_crisis_outturn ready; draft; rq_285=done; spawn rq_286; ticks=294
+- FOI: CREG crisis BA outturn + FFS dual recon human send
+- Next: prio5 **rq_286**; deferred **rq_116** SWA

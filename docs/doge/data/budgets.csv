@@ -3427,3 +3427,30 @@ bud_unscear_2025,fod_economy,2025,15000,,,budgeted,src_kamer_55k2933_cern_res_in
 bud_unscear_2026,fod_economy,2026,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
 bud_unscear_2027,fod_economy,2027,15000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,BA 42.50.35.40.20 UNSCEAR scientific committee contribution 15k/yr
 bud_intl_energy_orgs_pack_2023,fod_economy,2023,48379000,,,budgeted,src_kamer_55k2933_cern_res_intl,strong,Sum 2023 class: CERN 31.274 + DK RES 16.8 + R&D 0.155 + IEA 0.052 + IRENA 0.045 + IEF 0.033 + HLG 0.005 + UNSCEAR 0.015 = ~48.4m
+bud_creg_social_tariff_enlarged_2021,creg,2021,276000000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_social_tariff_enlarged_2022,creg,2022,733340000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_social_tariff_enlarged_2023,creg,2023,642400000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_social_tariff_enlarged_2024,creg,2024,3400000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_social_tariff_enlarged_2025,creg,2025,3400000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_social_tariff_enlarged_2026,creg,2026,3400000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_social_tariff_enlarged_2027,creg,2027,3400000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414001 CREG compensation enlargement social tariff gas+elec eng=liq; residual 3.4m 2024-27 after end Mar2023 extension
+bud_creg_basisfonds_heating_2022,creg,2022,517204000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414003 CREG basisfonds/forfait base heating premium; 2023=elec 620.7m+gas 823.8m Q1 prolongation
+bud_creg_basisfonds_heating_2023,creg,2023,1444500000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414003 CREG basisfonds/forfait base heating premium; 2023=elec 620.7m+gas 823.8m Q1 prolongation
+bud_creg_basisfonds_elec_q1_2023,creg,2023,620700000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414003 text: electricity forfait base prolongation Jan-Mar 2023 620.7m
+bud_creg_basisfonds_gas_q1_2023,creg,2023,823800000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414003 text: gas forfait base prolongation Jan-Mar 2023 823.8m
+bud_creg_crisis_pack_2022,creg,2022,1250544000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,Sum BA 414001 733.34m + 414003 517.204m = 1.251bn class 2022 energy crisis CREG channel
+bud_creg_crisis_pack_2023,creg,2023,2086900000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,Sum BA 414001 642.4m + 414003 1444.5m = 2.087bn class 2023 energy crisis CREG channel
+bud_cce_crb_dotatie_2021,cce_crb,2021,4929000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_cce_crb_dotatie_2022,cce_crb,2022,5290000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_cce_crb_dotatie_2023,cce_crb,2023,5409000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_cce_crb_dotatie_2024,cce_crb,2024,5359000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_cce_crb_dotatie_2025,cce_crb,2025,5375000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_cce_crb_dotatie_2026,cce_crb,2026,5390000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_cce_crb_dotatie_2027,cce_crb,2027,5405000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414002 CCE/CRB annual subsidy eng=liq path
+bud_icn_inr_dotatie_2021,icn_inr,2021,1255000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_icn_inr_dotatie_2022,icn_inr,2022,1329000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_icn_inr_dotatie_2023,icn_inr,2023,1320000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_icn_inr_dotatie_2024,icn_inr,2024,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_icn_inr_dotatie_2025,icn_inr,2025,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_icn_inr_dotatie_2026,icn_inr,2026,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
+bud_icn_inr_dotatie_2027,icn_inr,2027,1291000,,,budgeted,src_kamer_55k2933_creg_crisis_cce,strong,BA 21.40.414006 ICN/INR liquidations; eng near-identical
