@@ -3121,3 +3121,29 @@ bud_cgvs_telewerk_2024,cgvs,2024,369909,,,outturn,src_cgvs_jv_2024,strong,Forfai
 bud_cgvs_smals_egov_2024,cgvs,2024,1809222,,,outturn,src_cgvs_jv_2024,strong,Personeel eGOV en Smals 1.809.222 dual Smals 579m
 bud_cgvs_invest_2024,cgvs,2024,183218,,,outturn,src_cgvs_jv_2024,strong,Invest general 102.463 + ICT 80.755 = 183.218
 bud_cgvs_vte_2024,cgvs,2024,600.9,,,outturn,src_cgvs_jv_2024,strong,VTE total 600.9 end-2024 (A 479.2 + other 121.7); amount is FTE count
+bud_ibz_global_vl_2025,fod_ibz,2025,2514220000,,,budgeted,src_ibz_strat_plan_2025_29,strong,ALGEMEEN TOTAAL VL 2.514.220 kEUR INI2025 incl hosted Fedasil+independent organs
+bud_ibz_global_ve_2025,fod_ibz,2025,2478906000,,,budgeted,src_ibz_strat_plan_2025_29,strong,ALGEMEEN TOTAAL VE 2.478.906 kEUR INI2025
+bud_ibz_basis_vl_2025,fod_ibz,2025,990370000,,,budgeted,src_ibz_strat_plan_2025_29,strong,TOTAAL BASIS VL 990.370 kEUR (own missions ~39pct of global)
+bud_ibz_basis_ve_2025,fod_ibz,2025,955032000,,,budgeted,src_ibz_strat_plan_2025_29,strong,TOTAAL BASIS VE 955.032 kEUR
+bud_ibz_personeel_ve_2025,fod_ibz,2025,327421000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Totaal personeel VE 327.421 kEUR Env1+Env2+other
+bud_ibz_env2_dvz_pers_2025,dvz,2025,154844000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Enveloppe 2 Asiel en Migratie personeel 154.844m VL=VE; DVZ only CGVS/RvV separate hosted
+bud_ibz_env1_pers_2025,fod_ibz,2025,160028000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Enveloppe 1 personeel VE 160.028m (Veiligheid en Binnenlandse Zaken)
+bud_ibz_toelagen_vl_2025,fod_ibz,2025,356123000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Toelagen en overdrachten VL 356.123m (zones 210.7 + gemeenschapswachten 67.5 + ASTRID 76.5)
+bud_ibz_astrid_2025,fod_ibz,2025,76517000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Toelage NV ASTRID 76.517m 2025
+bud_ibz_hulpverleningszones_2025,fod_ibz,2025,210676000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Toelagen hulpverleningszones + brandweerscholen 210.676m
+bud_ibz_smals_pers_ve_2025,fod_ibz,2025,5273000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Personeel eGOV en Smals VE 5.273m (VL 0.959m)
+bud_ibz_amif_bmvi_isf_vl_2025,fod_ibz,2025,78506000,,,budgeted,src_ibz_strat_plan_2025_29,strong,AMIF+BMVI+ISF 2021-27 VL 78.506m VE 48.659m
+bud_ibz_fedasil_dot_2025,fedasil,2025,826239000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Dotatie Fedasil hosted IBZ 826.239m 2025 (below 2024 outturn path)
+bud_ibz_cgvs_2025,cgvs,2025,58801000,,,budgeted,src_ibz_strat_plan_2025_29,strong,CGVS hosted krediet VE 58.801m VL 58.780m INI2025 dual JV2024 62m available
+bud_ibz_rvv_2025,rvv,2025,30236000,,,budgeted,src_ibz_strat_plan_2025_29,strong,RVV hosted krediet VE 30.236m VL 30.223m INI2025
+bud_ibz_raad_van_state_2025,sec_federal,2025,49971000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Raad van State hosted IBZ VE 49.971m VL 49.978m
+bud_ibz_ocad_2025,sec_federal,2025,4123000,,,budgeted,src_ibz_strat_plan_2025_29,strong,OCAD VE 4.123m
+bud_ibz_aig_2025,sec_federal,2025,9045000,,,budgeted,src_ibz_strat_plan_2025_29,strong,AIG federale en lokale politie VE 9.045m
+bud_ibz_staatshervorming_2025,fod_ibz,2025,527836000,,,budgeted,src_ibz_strat_plan_2025_29,strong,Financiering gemeenten/gewesten staatshervorming 527.836m (hosted passthrough)
+bud_dvz_vte_2024_ibz,dvz,2024,2217.9,,,outturn,src_ibz_strat_plan_2025_29,strong,DVZ VTE AS IS 31/12/2024: 1M+1951.7S+265.2C=2217.9; amount is FTE
+bud_dvz_vte_2024_av,dvz,2024,2174.3,,,outturn,src_dvz_av_2024,strong,DVZ AV VTE 2174.3 (gesloten centra 932.7 + centrale 1241.6); amount is FTE
+bud_dvz_effectieven_2024,dvz,2024,2461,,,outturn,src_ibz_strat_plan_2025_29,strong,DVZ effectieven 2461 end-2024 (1+2168+292); amount is headcount
+bud_rvv_vte_2024,rvv,2024,312.1,,,outturn,src_ibz_strat_plan_2025_29,strong,RVV VTE 11M+271.4S+29.7C=312.1 end-2024; amount is FTE
+bud_rvv_effectieven_2024,rvv,2024,331,,,outturn,src_ibz_strat_plan_2025_29,strong,RVV effectieven 331 end-2024; amount is headcount
+bud_cgvs_vte_2024_ibz,cgvs,2024,636.5,,,outturn,src_ibz_strat_plan_2025_29,strong,CGVS VTE IBZ table 3+475.9+157.6=636.5 vs JV 600.9 perimeter diff; amount is FTE
+bud_ibz_vte_total_2024,fod_ibz,2024,5883.0,,,outturn,src_ibz_strat_plan_2025_29,strong,FOD IBZ total VTE 5883.0 / effectieven 6385 end-2024 incl CGVS RvV governors; amount is FTE

@@ -3083,3 +3083,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity cgvs; budgets +11; cmt +1; lb +4; FOI gap_cgvs_amif ready; draft; raw JV; rq_274=done; spawn rq_275; ticks=283
 - FOI: CGVS AMIF cash human send; Fedasil L5 + Smals notes updated; AGMJ residual still ready
 - Next: prio5 **rq_275**; deferred **rq_116** SWA
+
+### 2026-07-30T04:45:00Z - tick 284
+- Unit: **rq_275** (FOI-adjacent hole-fill - **DVZ + RVV dual CGVS/Fedasil asylum chain**)
+- Found (strong primary IBZ Strategisch plan 2025-2029 + DVZ AV2024):
+  - **DVZ Enveloppe 2 personeel EUR 154.844m** 2025 (VL=VE); VTE **2217.9** IBZ / **2174.3** AV (gesloten 932.7 + centraal 1241.6); effectieven **2461**.
+  - **RVV hosted krediet EUR 30.236m** VE 2025; VTE **312.1**; effectieven 331.
+  - **CGVS hosted EUR 58.801m** VE 2025 (aligns JV2024 ~62m available).
+  - **Fedasil dotatie EUR 826.239m** 2025 (below 2024 exp 943m).
+  - Admin+decision+appeal stack **~243.9m** + reception 826m; **not TE-additive**.
+  - FOD IBZ global **2.514bn** VL (basis 990m; ~61pct hosted); ASTRID **76.5m**; zones **210.7m**.
+  - Closed centres: capacity avg 487, occ 81pct; inscriptions 4804 removals 3770 2024.
+- Wrote: sources +2; entities dvz+rvv+fod_ibz; budgets +26; cmt +4; lb +6; FOI gap_dvz_ops ready; draft; raw IBZ plan + DVZ AV; rq_275=done; spawn rq_276; ticks=284
+- FOI: DVZ ops TCO beyond personnel human send; AGMJ residual still ready
+- Next: prio5 **rq_276**; deferred **rq_116** SWA
