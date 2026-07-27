@@ -1738,3 +1738,24 @@ bud_resa_personnel_2024,resa,2024,107299107,,,outturn,src_resa_comptes_2024,stro
 bud_resa_da_2024,resa,2024,57392434,,,outturn,src_resa_comptes_2024,strong,Amortissements et reductions de valeur 57.392m 2024
 bud_resa_prod_immob_2024,resa,2024,94578645,,,outturn,src_resa_comptes_2024,strong,Production immobilisee 94.579m 2024 (own CAPEX production)
 bud_resa_fin_charges_2024,resa,2024,14723466,,,outturn,src_resa_comptes_2024,strong,Charges financieres recurrentes 14.723m 2024
+bud_delijn_omzet_2025,de_lijn,2025,1420000000,,,outturn,src_delijn_jv_2025,strong,Omzet 1420.000m 2025 (1423.704m 2024) duizenden in JV
+bud_delijn_omzet_2024_jv,de_lijn,2024,1423704000,,,outturn,src_delijn_jv_2025,strong,Omzet 1423.704m 2024 from JV2025 comparative
+bud_delijn_bedrijfsopbr_2025,de_lijn,2025,1497074000,,,outturn,src_delijn_jv_2025,strong,Bedrijfsopbrengsten 1497.074m 2025
+bud_delijn_bedrijfskosten_2025,de_lijn,2025,1627772000,,,outturn,src_delijn_jv_2025,strong,Bedrijfskosten 1627.772m 2025
+bud_delijn_op_loss_2025,de_lijn,2025,-130698000,,,outturn,src_delijn_jv_2025,strong,Bedrijfsverlies -130.698m 2025 (fin opbrengsten offset to near break-even)
+bud_delijn_net_profit_2025,de_lijn,2025,20000,,,outturn,src_delijn_jv_2025,strong,Winst boekjaar 20k EUR 2025 (press and JV match)
+bud_delijn_vl_tussenkomst_omzet_2025,de_lijn,2025,1207900000,,,outturn,src_delijn_jv_2025,strong,Vlaams Gewest tussenkomst in omzet 1207.9m 2025 of which PPS beschikbaarheid 53.1m
+bud_delijn_pps_beschik_2025,de_lijn,2025,53100000,,,outturn,src_delijn_jv_2025,strong,PPS beschikbaarheidsvergoeding within VL tussenkomst 53.1m 2025
+bud_delijn_kapitaalsubsidie_cash_2025,de_lijn,2025,247300000,,,outturn,src_delijn_jv_2025,strong,Kapitaalsubsidies via dotatiebesluiten 247.3m 2025
+bud_delijn_kapitaalsubsidies_bs_2025,de_lijn,2025,2143342000,,,outturn,src_delijn_jv_2025,strong,Kapitaalsubsidies on equity BS 2143.342m end-2025
+bud_delijn_assets_2025,de_lijn,2025,3085396000,,,outturn,src_delijn_jv_2025,strong,Totaal activa 3085.396m end-2025
+bud_delijn_equity_2025,de_lijn,2025,2252050000,,,outturn,src_delijn_jv_2025,strong,Eigen vermogen 2252.050m end-2025 (mostly capital subsidies)
+bud_delijn_personnel_2025,de_lijn,2025,625388000,,,outturn,src_delijn_jv_2025,strong,Bezoldigingen sociale lasten pensioenen 625.388m 2025
+bud_delijn_services_2025,de_lijn,2025,731871000,,,outturn,src_delijn_jv_2025,strong,Diensten en diverse goederen 731.871m 2025 (private operators share large)
+bud_delijn_da_2025,de_lijn,2025,175653000,,,outturn,src_delijn_jv_2025,strong,Afschrijvingen 175.653m 2025
+bud_delijn_capex_aanschaf_2025,de_lijn,2025,299560000,,,outturn,src_delijn_jv_2025,strong,Aanschaffingen materiele VA incl geproduceerd 299.56m 2025
+bud_delijn_receivable_exploitatie_2025,de_lijn,2025,305700000,,,outturn,src_delijn_jv_2025,strong,Vordering VL Gewest exploitatiebijdragen 305.7m end-2025
+bud_delijn_receivable_kapitaal_2025,de_lijn,2025,247100000,,,outturn,src_delijn_jv_2025,strong,Nog te ontvangen kapitaalsubsidies 247.1m end-2025
+bud_delijn_lt_debt_2025,de_lijn,2025,371835000,,,outturn,src_delijn_jv_2025,strong,Schulden op meer dan 1 jaar 371.835m (mostly leasing PPS)
+bud_delijn_fin_income_2025,de_lijn,2025,157392000,,,outturn,src_delijn_jv_2025,strong,Financiele opbrengsten 157.392m 2025 (capital subsidy release major component)
+bud_delijn_dotatie_delta_2025,de_lijn,2025,-27500000,,,outturn,src_delijn_press_2025_results,strong,Dotatie fell 27.5m 2025 vs prior (non-recurrent financing fall-out) press

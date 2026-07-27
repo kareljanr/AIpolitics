@@ -1716,3 +1716,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; FOI gap_interco note; rq_169=done; seeded **rq_170**.
 - FOI: residual Fluvius municipal L5 + BCR capital calendar human send; RESA entity dividend filled.
 - Next: prio5 **rq_170**; deferred **rq_116** SWA.
+
+### 2026-07-28T08:25:00Z — tick 175
+- Unit: **rq_170** (FOI-adjacent hole-fill — **De Lijn Geïntegreerd jaarverslag 2025**)
+- Found (strong primary statutory accounts + press, figures in kEUR ×1000):
+  - **Omzet EUR 1,420.0m 2025** (1,423.7m 2024) · bedrijfsopbrengsten **1,497.1m** · bedrijfskosten **1,627.8m** · bedrijfsverlies **-130.7m**.
+  - **Vlaams Gewest tussenkomst in omzet 1,207.9m** (incl PPS beschikbaarheidsvergoeding **53.1m**) — main public cash perimeter.
+  - **Kapitaalsubsidies cash 247.3m** 2025 · BS kapitaalsubsidies **2,143.3m** · assets **3,085.4m** · equity **2,252.1m**.
+  - Personnel **625.4m** · diensten **731.9m** · CAPEX aanschaf **299.6m** · LT debt **371.8m** (PPS leasing).
+  - **Net profit 20k** (matches press) · dotatie **-27.5m** delta 2025 · e-bus order **400m** / 652 buses · 2026 hefbomen **45m** + imposed **35.5m**.
+  - Passengers **372.9m** · closes material **gap_de_lijn** public perimeter (residual: optional cash-code recon).
+- Wrote: sources 2; budgets 21; cmt 1; lb 1; FOI note; raw PDF; rq_170=done; seeded **rq_171**.
+- FOI: gap_de_lijn largely filled public; residual Antwerp/Mons FOIs human send.
+- Next: prio5 **rq_171**; deferred **rq_116** SWA.
