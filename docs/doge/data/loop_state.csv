@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T02:50:00Z,rq_222,231,no,"Scheduler 60s. Next prio5 rq_223 Mons Ville BI/utilities; rq_116 SWA deferred. FOI ready human send. tick231 Mons CPAS 149.4m city 27.9m zone 2.60m."
+main,continuous,hole_fill,2026-07-29T03:15:00Z,rq_223,232,no,"Scheduler 60s. Next prio5 rq_224; rq_116 SWA deferred. FOI ready human send. tick232 IDEA 441m DDT 23.3m HYGEA Mons 7.76m."

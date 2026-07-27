@@ -2445,3 +2445,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 9; cmt 2; lb 3; entity; foi notes; rq_222=done; seeded **rq_223**.
 - FOI: full Ville BI2026 + ASBL top20 still ready human send.
 - Next: prio5 **rq_223**; deferred **rq_116** SWA.
+
+### 2026-07-29T03:15:00Z - tick 232
+- Unit: **rq_223** (FOI-adjacent hole-fill - **IDEA + HYGEA Mons utilities**)
+- Found (strong primary):
+  - **IDEA 2025:** bilan **EUR 441.286m**; equity **279.296m**; personnel **38.099m**; result **13.268m**; dividends **11.392m**; fin products **16.398m**.
+  - **IDEA 2026 path:** responsabilisation pension **3.951m** (6y **25.843m** hors bilan); DDT1+2 distributions **23.285m**; div exceptionnel III.C **20m** to communes.
+  - **HYGEA Mons waste 2026 EUR 7.760m** (dep 7.314 + appel lissage 0.446; cotis infra 0.167; recettes sacs 2.173).
+  - Full **Ville Mons BI2026 PDF** still not on mons.be — FOI residual ASBL L5 + Mons share of IDEA dividends.
+- Wrote: sources 3; budgets 13; cmt 2; lb 3; entities 2; foi note; rq_223=done; seeded **rq_224**.
+- FOI: Ville BI2026 + ASBL top20 + IDEA per-commune DDT/div still ready human send.
+- Next: prio5 **rq_224**; deferred **rq_116** SWA.

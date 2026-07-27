@@ -2408,3 +2408,16 @@ bud_mons_city_cpas_fonct_2026,city_mons,2026,25141366.41,,,budgeted,src_mons_cpa
 bud_mons_city_cpas_resp_2026,city_mons,2026,2501000.0,,,budgeted,src_mons_cpas_budget_2026,strong,CPAS intervention exceptionnelle responsabilisation 2.501m 2026
 bud_mons_zone_secours_2026,city_mons,2026,2604469.7,,,budgeted,src_mons_zone_secours_2026,strong,Ville Mons dotation Zone Secours Hainaut-Centre 2.604m 2026
 bud_mons_cpas_housing_ureba_2026,city_mons,2026,2680000.0,,,budgeted,src_mons_cpas_budget_2026,medium,CPAS renovation energetique 84 logements 2.68m UREBA/PIVW (NPG class)
+bud_idea_bilan_2025,idea_hainaut,2025,441286000,,,outturn,src_idea_ra_2025,strong,IDEA total bilan 441.286m 2025
+bud_idea_equity_2025,idea_hainaut,2025,279296000,,,outturn,src_idea_ra_2025,strong,IDEA capitaux propres 279.296m 2025
+bud_idea_personnel_2025,idea_hainaut,2025,38099000,,,outturn,src_idea_ra_2025,strong,IDEA frais personnel 38.099m 2025
+bud_idea_result_2025,idea_hainaut,2025,13268000,,,outturn,src_idea_ra_2025,strong,IDEA resultat global 13.268m 2025
+bud_idea_dividend_2025,idea_hainaut,2025,11392000,,,outturn,src_idea_ra_2025,strong,IDEA dividendes distribues 11.392m 2025 (CENEO heavy)
+bud_idea_fin_prod_2025,idea_hainaut,2025,16398000,,,outturn,src_idea_ra_2025,strong,IDEA produits financiers 16.398m 2025
+bud_idea_eng_ca_2025,idea_hainaut,2025,9459000,,,outturn,src_idea_ra_2025,strong,IDEA Engineering chiffre d affaires 9.459m 2025
+bud_idea_resp_pension_2026,idea_hainaut,2026,3951000,,,budgeted,src_idea_ra_2025,strong,IDEA cotisation responsabilisation pension 3.951m 2026 (hors bilan path)
+bud_idea_ddt_dist_2026,idea_hainaut,2026,23285276.09,,,budgeted,src_idea_note_ag_2026,strong,IDEA distributions DDT1+DDT2 23.285m (cash to communes)
+bud_idea_div_exceptionnel_2026,idea_hainaut,2026,20000000,,,budgeted,src_idea_note_ag_2026,strong,IDEA dividende exceptionnel secteur III.C 20m to communes
+bud_hygea_mons_total_2026,city_mons,2026,7760388,,,budgeted,src_hygea_mons_2026,strong,Mons HYGEA waste package 7.760m 2026 (dep+appel lissage)
+bud_hygea_mons_cotis_2026,city_mons,2026,167374,,,budgeted,src_hygea_mons_2026,strong,Mons HYGEA cotisation infra/transfert 0.167m 2026
+bud_hygea_mons_appel_2026,city_mons,2026,446066,,,budgeted,src_hygea_mons_2026,strong,Mons HYGEA appel cotisation lissage 5y 0.446m 2026
