@@ -3416,3 +3416,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity egov_select + smals note; budgets +7; cmt +3; lb +3; FOI gap_egov_select_budget ready; draft; gap_smals note; rq_302=done; spawn rq_303; ticks=311
 - FOI: Egov EUR + residual Smals L5 human send
 - Next: prio5 **rq_303** (Ypto NMBS IT dual candidate); deferred **rq_116** SWA
+
+### 2026-07-30T18:45:00Z - tick 312
+- Unit: **rq_303** (FOI-adjacent hole-fill - **Ypto NMBS IT dual Smals**)
+- Found:
+  - **Ypto omzet** (strong NBB/Companyweb): **86.5 / 99.5 / 117.0 / 140.2m** 2022-25; FTE **445** 2025; net **4.01m**.
+  - **CoA** (strong): NMBS claims all Ypto services **296.7m** as in-house; CoA counts only staff IH **104.2m**; wedge **~192.5m** external via Ypto.
+  - Dual: Smals external IT **>206m** 2024; TUC Rail on CoA IT vendor list; NMBS consultancy total **465m** 2020-22.
+- Wrote: sources +2; entity ypto; budgets +11; cmt +2; lb +3; FOI gap_ypto_external_l5 ready; draft; rq_303=done; spawn rq_304; ticks=312
+- FOI: Ypto external L5 + NMBS recharge human send
+- Next: prio5 **rq_304** (TUC Rail dual candidate); deferred **rq_116** SWA
