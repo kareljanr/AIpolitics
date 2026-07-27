@@ -1,0 +1,2 @@
+state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
+main,analyse,2026-07-27T12:34:31Z,calibration_batch_10,1,10,no,First auto batch: 10 live BE proposals scored for human review

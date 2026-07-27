@@ -1,0 +1,11 @@
+history_id,proposal_id,analysis_version,clownpoints,genius_score,policy_index,score_confidence,changed_reason,recorded_utc
+hist_prop_2025_unemp_time_limit_v1,prop_2025_unemp_time_limit,1,2.0,7.5,5.5,medium,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2025_cgt_capital_gains_v1,prop_2025_cgt_capital_gains,1,4.5,4.0,-0.5,medium,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2026_centenindex_v1,prop_2026_centenindex,1,3.0,6.0,3.0,medium,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2021_company_car_ice_2026_v1,prop_2021_company_car_ice_2026,1,1.5,7.0,5.5,strong,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2025_hybrid_car_rehab_v1,prop_2025_hybrid_car_rehab,1,6.5,3.0,-3.5,medium,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2026_vl_syntra_49m_v1,prop_2026_vl_syntra_49m,1,4.0,4.5,0.5,medium,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2026_wk_veldrijden_ostend_v1,prop_2026_wk_veldrijden_ostend,1,7.0,2.0,-5.0,strong,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2022_smaakhaven_38m_v1,prop_2022_smaakhaven_38m,1,8.0,1.5,-6.5,strong,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2026_dolphin_ban_2036_v1,prop_2026_dolphin_ban_2036,1,3.5,3.5,0.0,medium,initial_calibration_batch,2026-07-27T12:34:31Z
+hist_prop_2026_fwb_budget_cuts_255m_v1,prop_2026_fwb_budget_cuts_255m,1,3.5,5.0,1.5,medium,initial_calibration_batch,2026-07-27T12:34:31Z

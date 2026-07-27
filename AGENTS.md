@@ -25,6 +25,10 @@ This is **AIpolitics** — strategy and policy docs for a Belgian political proj
 | `docs/doge/LOOP.md` | 15-min research loop |
 | `docs/doge/data/*` | DOGE CSVs + FOI queue |
 | `.grok/skills/doge-loop/SKILL.md` | `/doge-loop` tick |
+| `docs/09-proposal-radar.md` | Score new BE proposals (clown→genius) |
+| `docs/proposal-radar/LOOP.md` | Proposal Radar tick protocol |
+| `docs/proposal-radar/data/*` | Proposal + ingest CSVs |
+| `.grok/skills/proposal-radar/SKILL.md` | `/proposal-radar` tick |
 | `docs/07-coalitions-negotiation.md` | Coalition playbook |
 | `docs/08-media-attention.md` | Attention strategy |
 | `docs/naming.md` | Names |
@@ -35,11 +39,12 @@ This is **AIpolitics** — strategy and policy docs for a Belgian political proj
 
 1. Load **truth-policy** skill for any policy, strategy, or manifesto work.
 2. For spending/subsidy discovery, load **doge-loop** and follow `docs/doge/LOOP.md`.
-3. Opaque money flows → `foi_queue.csv` + letter draft; **never send FOI as the agent** unless the user explicitly orders it.
-4. Label claims: **Strong / Medium / Weak / Speculative** with source class.
-5. Prefer Belgian / Flemish / EU data over generic US talking points.
-6. Keep diffs focused; one concern per PR when possible.
-7. Edit ruthlessly — low-quality half-AI filler should be deleted, not papered over.
+3. For new policy proposals (media/official), load **proposal-radar** and follow `docs/proposal-radar/LOOP.md` + `docs/09-proposal-radar.md`.
+4. Opaque money flows → `foi_queue.csv` + letter draft; **never send FOI as the agent** unless the user explicitly orders it.
+5. Label claims: **Strong / Medium / Weak / Speculative** with source class.
+6. Prefer Belgian / Flemish / EU data over generic US talking points.
+7. Keep diffs focused; one concern per PR when possible.
+8. Edit ruthlessly — low-quality half-AI filler should be deleted, not papered over.
 
 ## Style
 
@@ -58,7 +63,9 @@ This is **AIpolitics** — strategy and policy docs for a Belgian political proj
 
 ```text
 git status / git pull origin main
-# no npm/cargo/etc. — docs only
+# docs-first repo; optional Python helpers:
+python docs/proposal-radar/scripts/run_pipeline.py   # RSS ingest + leaderboards
+# no npm/cargo app stack
 ```
 
 ## Red lines for agents

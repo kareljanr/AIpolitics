@@ -33,10 +33,13 @@ If time for only one sentence: *“We tax work like enemies and subsidise almost
 | Pillar | Format | Cadence |
 |--------|--------|---------|
 | DOGE autopsy | 800–1500 words + chart | 1× / week |
+| **Clowns & Genius** | Proposal Radar cards (same rubric, all parties) | 1× / week |
 | Tax wedge story | Calculator + personal case | 2× / month |
 | Falsification Friday | Kill a wrong claim (ours or theirs) | 1× / week |
 | Local proof | Permit/budget horror from a commune | 2× / month |
 | Longform | 20–40 min video / podcast | 1× / month |
+
+Proposal scoring system: [09-proposal-radar.md](09-proposal-radar.md) · ops [proposal-radar/](proposal-radar/). Score **instruments**, not identities; publish only after calibration (`publish_ok`).
 
 ### Platforms (Flanders-first)
 
@@ -56,6 +59,7 @@ Do not buy illegal or regulated-period ads by accident. Know *sperperiode* rules
 
 - Open-source policy memos with assumptions listed  
 - Interactive budget explorer  
+- **Proposal Radar** scorecards (clownpoints / genius) with falsifiers  
 - “Simulate this subsidy” notebooks  
 - Multilingual explainers  
 - Debate prep against all parties  
@@ -87,6 +91,7 @@ Do not buy illegal or regulated-period ads by accident. Know *sperperiode* rules
 - “We’ll publish every assumption” (contrast)  
 - “Highest tax wedge + deficit — show the math” (pocketbook)  
 - “Subsidy leaderboard” (shareable)  
+- “Clowns & Genius” weekly (same exam for every party’s proposal)  
 - “We’ll resign if compact broken” (integrity drama)
 
 ### Hooks that backfire

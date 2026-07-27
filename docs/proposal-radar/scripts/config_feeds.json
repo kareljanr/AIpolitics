@@ -1,0 +1,123 @@
+{
+  "feeds": [
+    {
+      "id": "vrt_nws",
+      "name": "VRT NWS",
+      "url": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "vrt_politiek",
+      "name": "VRT NWS Politiek",
+      "url": "https://www.vrt.be/vrtnws/nl.rss.artikel.politiek.xml",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "rtbf_info",
+      "name": "RTBF Info",
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbfinfo_info-accueil.xml",
+      "source_class": "press",
+      "language": "fr",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "standaard",
+      "name": "De Standaard",
+      "url": "https://www.standaard.be/rss/section/1f28305b-aa3c-4d59-9a7c-a5269410e4e7",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "tijd",
+      "name": "De Tijd",
+      "url": "https://www.tijd.be/rss/politiek",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "knack",
+      "name": "Knack",
+      "url": "https://www.knack.be/feed/rss/",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "lesoir",
+      "name": "Le Soir",
+      "url": "https://www.lesoir.be/rss/22464/rubrique/belgique",
+      "source_class": "press",
+      "language": "fr",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "federal_news",
+      "name": "Belgium.be news",
+      "url": "https://news.belgium.be/nl/rss.xml",
+      "source_class": "gov_press",
+      "language": "nl",
+      "jurisdiction_hint": "federal"
+    },
+    {
+      "id": "federal_news_fr",
+      "name": "Belgium.be news FR",
+      "url": "https://news.belgium.be/fr/rss.xml",
+      "source_class": "gov_press",
+      "language": "fr",
+      "jurisdiction_hint": "federal"
+    },
+    {
+      "id": "brusselstimes",
+      "name": "Brussels Times",
+      "url": "https://www.brusselstimes.com/feed",
+      "source_class": "press",
+      "language": "en",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "hln",
+      "name": "HLN",
+      "url": "https://www.hln.be/home/rss.xml",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    },
+    {
+      "id": "nieuwsblad",
+      "name": "Het Nieuwsblad",
+      "url": "https://www.nieuwsblad.be/rss/section/55178bca-726f-11e4-b68c-b0487e9e846d",
+      "source_class": "press",
+      "language": "nl",
+      "jurisdiction_hint": "multi"
+    }
+  ],
+  "proposal_keywords_nl": [
+    "wetsvoorstel", "wetsontwerp", "ontwerp van wet", "programmadecreet",
+    "maatregel", "subsidie", "premie", "dotatie", "heffing", "belasting",
+    "verbod", "verplichting", "decreet", "besluit", "regering keurt",
+    "minister stelt", "akkoord over", "plan voor", "invoeren", "afschaffen",
+    "begroting", "besparing", "investering van", "miljoen euro",
+    "koerswijziging", "hervorming", "bonus", "korting", "taxshift",
+    "werkloosheid", "pensioen", "mobiliteit", "woningen", "asiel"
+  ],
+  "proposal_keywords_fr": [
+    "projet de loi", "proposition de loi", "mesure", "subside", "prime",
+    "taxe", "impôt", "interdiction", "obligation", "décret", "arrêté",
+    "gouvernement approuve", "réforme", "budget", "économie de",
+    "investissement", "millions d'euros", "pension", "chômage", "asylum"
+  ],
+  "proposal_keywords_en": [
+    "bill", "draft law", "measure", "subsidy", "tax reform", "ban on",
+    "government agrees", "budget cut", "coalition agreement", "pension reform"
+  ],
+  "noise_keywords": [
+    "wedstrijd", "voetbal", "match", "goal", "film", "concert",
+    "weerbericht", "météo", "horoscope", "recept", "recipe"
+  ]
+}
