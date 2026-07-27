@@ -2561,3 +2561,14 @@ Append-only. Each tick adds a short entry.
 - Waste top10: **unchanged** taxex/FFS/cheque dominate (cheque 8.83; company cars FPB 8.5; heat oil 8.43); new L2 social is core duty not pure-waste top
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_231=done
 - Next: prio5 **rq_232**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-29T07:30:00Z - tick 241
+- Unit: **rq_232** (FOI-adjacent hole-fill - **ONE FWB dual Opgroeien**)
+- Found (strong FWB budget initial 2026 DO19 table eng=liq, kEUR):
+  - **ONE programme 1 total EUR 760.837m** 2026 (was **711.833m** 2025; +49.0m).
+  - Main dotation **604.028m**; informatique **35.318m** (-2.4m y/y); reform milieux **27.685m**; emploi enfance **49.435m**; accueillantes **20.817m**; places **5.014m**; politiques nouvelles **15.140m**.
+  - DO19 Enfance total **760.977m** (ONE + politique accueil 0.14m).
+  - Dual: VL **Opgroeien regie 7.61bn** (incl Groeipakket AF — different perimeter); press class ~750m/550m subsidies aligns.
+- Wrote: sources 1; entity 1; budgets 10; cmt 1; lb 2; FOI gap_one_operator_l5 **ready**; rq_232=done; seeded **rq_233**.
+- FOI: operator L5 + unit-cost dual Opgroeien human send.
+- Next: prio5 **rq_233**; deferred **rq_116** SWA.

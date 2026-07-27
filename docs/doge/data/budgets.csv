@@ -2536,3 +2536,13 @@ bud_groeipakket_private_ua_cut_2026,opgroeien,2026,1500000,,,budgeted,src_vl_bbt
 bud_groeipakket_recoveries_2026,opgroeien,2026,34836000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,GDF-BGEFAQB-OW terugvorderingen raming 34.836m based on 2024 outturn private actors
 bud_groeipakket_cgpa_invest_2026,vutg,2026,2500000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,Centrale Groeipakketapplicatie invest budget 2.5m
 bud_be_af_dual_vl_wal_bru_class,gg_belgium,2025,0,,,synthesis,src_opgroeien_groeipakket_2025,medium,Dual AF class: VL ~4.7bn 2025 + WAL 3.01bn 2026 + BRU Iriscare 1.08bn 2026; do not sum years/perimeters; tick239 synthesis
+bud_one_fwb_total_2026,one_fwb,2026,760837000,,,budgeted,src_fwb_budget_do19_one_2026,strong,DO19 prog1 ONE total CELL eng=liq 760.837m BI2026
+bud_one_fwb_total_2025,one_fwb,2025,711833000,,,budgeted,src_fwb_budget_do19_one_2026,strong,DO19 prog1 ONE total 711.833m BI2025 initial for compare
+bud_one_fwb_dot_main_2026,one_fwb,2026,604028000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Dotation generale ONE 604.028m (was 552.942m 2025)
+bud_one_fwb_dot_it_2026,one_fwb,2026,35318000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Dotation informatique 35.318m (was 37.715m; -3m class path)
+bud_one_fwb_dot_reform_2026,one_fwb,2026,27685000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Reforme milieux d accueil 27.685m
+bud_one_fwb_dot_places_2026,one_fwb,2026,5014000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Creation de places 5.014m
+bud_one_fwb_dot_accueillantes_2026,one_fwb,2026,20817000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Accueillantes conventionnees statut 20.817m
+bud_one_fwb_dot_emploi_2026,one_fwb,2026,49435000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Soutien politiques emploi enfance 49.435m
+bud_one_fwb_dot_nouvelles_2026,one_fwb,2026,15140000,,,budgeted,src_fwb_budget_do19_one_2026,strong,Politiques nouvelles 15.140m
+bud_one_fwb_do19_2026,fwb_gov,2026,760977000,,,budgeted,src_fwb_budget_do19_one_2026,strong,DO19 Enfance total eng 760.977m (ONE + politique accueil 0.14m)
