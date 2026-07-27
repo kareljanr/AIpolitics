@@ -2331,3 +2331,9 @@ bud_tutti_fratelli_youth_2026,city_antwerpen,2026,45000,,,budgeted,src_ebesluit_
 bud_2020studios_2026,city_antwerpen,2026,100000,,,budgeted,src_ebesluit_2020studios_2026,strong,2020 Studios youth citizenship 100k 2026
 bud_vdab_werfkeet_2026,city_antwerpen,2026,12918.30,,,budgeted,src_ebesluit_vdab_werfkeet_2026,strong,VDAB Jobs Grote Verbinding werfkeet rent 12.9k 2026
 bud_antwerp_culture_l5_sample_10houses_2026,city_antwerpen,2026,8352800,,,budgeted,src_ebesluit_morpho_2026,strong,Culture L5 sample 10 houses 8.353m (prior 7.922 + MORPHO 0.288 + Tutti 0.143)
+bud_amuz_2026_total,city_antwerpen,2026,927000,,,budgeted,src_ebesluit_amuz_2026,strong,AMUZ package 927k 2026 (exp 752 + invest 175)
+bud_amuz_exp_2026,city_antwerpen,2026,752000,,,budgeted,src_ebesluit_amuz_2026,strong,AMUZ exploitatie 752k 2026
+bud_amuz_invest_2026,city_antwerpen,2026,175000,,,budgeted,src_ebesluit_amuz_2026,strong,AMUZ invest gebouwen 175k 2026 (of 350k 2026-27 plan)
+bud_cultuurweken_package_2026,city_antwerpen,2026,24826.40,,,budgeted,src_ebesluit_cultuurweken_2026,strong,Cultuurweken summer package 24.8k 2026 three orgs
+bud_das_kunst_cultuurweken_2026,city_antwerpen,2026,19200,,,budgeted,src_ebesluit_cultuurweken_2026,strong,das Kunst cultuurweken 19.2k 2026
+bud_antwerp_culture_l5_sample_11houses_2026,city_antwerpen,2026,9279800,,,budgeted,src_ebesluit_amuz_2026,strong,Culture L5 sample 11 houses 9.280m (prior 8.353 + AMUZ 0.927)

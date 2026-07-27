@@ -2323,3 +2323,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; budgets 7; cmt 4; lb 3; foi note; rq_213=done; seeded **rq_214**.
 - FOI: residual culture partners DeRoma/Trix/paleis/AMUZ + Digipolis + Mons human send.
 - Next: prio5 **rq_214**; deferred **rq_116** SWA.
+
+### 2026-07-28T23:55:00Z - tick 222
+- Unit: **rq_214** (FOI-adjacent hole-fill - **AMUZ** + Cultuurweken L5)
+- Found (strong ebesluit college 10 Apr 2026):
+  - **AMUZ 2026 EUR 927k**: exploitatie **752k** + invest gebouwen **175k**; 6y max **4.862m**; invest plan 350k 2026-27.
+  - Dual VL Kunstendecreet residual; Laus Polyphoniae festival; on 16-partner culture list.
+  - **Cultuurweken summer package EUR 24.8k**: Creatief Schrijven 1.8k + das Kunst 19.2k + JEF extra 3.8k.
+  - Culture L5 sample **11 houses EUR 9.280m** of ~35m envelope (~27% class); residual ~5 partners (DeRoma Trix paleis DeStudio AAW).
+  - Digipolis personnel + Mons BI2026 still residual public search.
+- Wrote: sources 2; budgets 6; cmt 3; lb 2; foi note; rq_214=done; seeded **rq_215**.
+- FOI: residual culture partners + Digipolis + Mons human send.
+- Next: prio5 **rq_215**; deferred **rq_116** SWA.
