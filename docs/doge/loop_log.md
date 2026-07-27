@@ -2203,3 +2203,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 7; cmt 2; lb 2; rq_204=done; seeded **rq_205**.
 - FOI: 2026 BZA package + federal fire base residual; Zorgbedrijf 2026 full; Mons BI2026 residual.
 - Next: prio5 **rq_205**; deferred **rq_116** SWA.
+
+### 2026-07-28T20:45:00Z - tick 212
+- Unit: **rq_205** (FOI-adjacent hole-fill - **Zorgbedrijf Antwerpen** city toelage 2025)
+- Found (strong ebesluit main Dec2024 + AMJP9 delta Dec2025):
+  - **Package class EUR 65.0m 2025**: main **64.373m** (werk **29.029** + respons **22.350** + invest **12.994**) + delta **0.627m**.
+  - Algemene werking **29.024m** after index withhold then **+419k** index release; invest **13.0–13.2m**.
+  - Vs **2024 package 66.2m** (prior tick140) — slight decline on general werk, higher respons.
+  - Dual stack with **PZA 321m** + **BZA 81.5m** ? care+safety city transfers class **~467m** (mixed years).
+- Wrote: sources 2; entity 1; budgets 8; cmt 2; lb 2; rq_205=done; seeded **rq_206**.
+- FOI: 2026 ZBA package + social-PC side lines + Mons BI2026 residual human send.
+- Next: prio5 **rq_206**; deferred **rq_116** SWA.

@@ -2234,3 +2234,11 @@ bud_bza_respons_2025,city_antwerpen,2025,3342699.42,,,budgeted,src_ebesluit_bza_
 bud_bza_invest_locked_2025,city_antwerpen,2025,1753487.09,,,budgeted,src_ebesluit_bza_toelage_2025,strong,BZA investeringstoelagen locked 1.753m 2025
 bud_bza_werking_budgeted_mjp_2025,city_antwerpen,2025,83393076.38,,,budgeted,src_ebesluit_bza_toelage_2025,strong,BZA werking envelope MJP AMJP8 83.393m before withhold
 bud_bza_s4hana_werk_2025,city_antwerpen,2025,113192.72,,,budgeted,src_ebesluit_bza_toelage_2025,strong,BZA S/4Hana work line 113k 2025
+bud_zorgbedrijf_package_2025,city_antwerpen,2025,64999704.18,,,budgeted,src_ebesluit_zorgbedrijf_2025_main,strong,ZBA Finance-PC package total class 65.0m after AMJP9 (main 64.373 + delta 0.627)
+bud_zorgbedrijf_werk_main_2025,city_antwerpen,2025,29029431.37,,,budgeted,src_ebesluit_zorgbedrijf_2025_main,strong,ZBA werkingstoelagen main 29.029m 2025 (art1)
+bud_zorgbedrijf_werk_algemeen_2025,city_antwerpen,2025,29023771.73,,,budgeted,src_ebesluit_zorgbedrijf_2025_main,strong,ZBA algemene werking 29.024m after index withhold
+bud_zorgbedrijf_respons_2025,city_antwerpen,2025,22349700,,,budgeted,src_ebesluit_zorgbedrijf_2025_main,strong,ZBA responsabiliseringsbijdrage 22.350m 2025
+bud_zorgbedrijf_invest_main_2025,city_antwerpen,2025,12993989.95,,,budgeted,src_ebesluit_zorgbedrijf_2025_main,strong,ZBA investeringstoelagen main 12.994m 2025
+bud_zorgbedrijf_werk_delta_2025,city_antwerpen,2025,419423.13,,,budgeted,src_ebesluit_zorgbedrijf_2025_amjp9,strong,ZBA AMJP9 index release werk +419.4k
+bud_zorgbedrijf_invest_delta_2025,city_antwerpen,2025,207159.73,,,budgeted,src_ebesluit_zorgbedrijf_2025_amjp9,strong,ZBA AMJP9 invest delta +207.2k
+bud_zorgbedrijf_package_2024,city_antwerpen,2024,66162142,,,budgeted,src_ebesluit_zorgbedrijf_2024,strong,ZBA 2024 package 66.162m prior tick140
