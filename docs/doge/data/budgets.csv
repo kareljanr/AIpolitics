@@ -784,3 +784,5 @@ bud_unia_personnel_2025,unia_interfederal,2025,9050949,,,outturn,src_unia_ra_202
 bud_unia_products_total_2025,unia_interfederal,2025,11728153,,,outturn,src_unia_ra_2025,strong,All products 2025
 bud_vmri_budget_2025_class,vmri_vlaanderen,2025,5279000,,,budgeted,src_vmri_vp_budget_2025_26,medium,VP doc: 2025 budget 5.279m class (part self-financed from 2024 balances)
 bud_vmri_request_2026_class,vmri_vlaanderen,2026,5598000,,,budgeted,src_vmri_vp_budget_2025_26,medium,VP doc: 2026 request total 5.598m
+bud_vl_wassalon_campaign_3y,vlaanderen_gov,2026,800000,,,budgeted,src_vrt_wassalon_800k,medium,Gennez parliament Jul 2026: envelope 800000 EUR over 3 years gelijke kansen campaign incl vodcast Het Wassalon ABB
+bud_vl_wassalon_annual_avg,vlaanderen_gov,2026,266667,,,budgeted,src_vrt_wassalon_800k,medium,Illustrative 800000/3 annual average; actual cash-by-year FOI

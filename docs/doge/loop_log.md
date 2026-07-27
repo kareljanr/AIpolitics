@@ -848,6 +848,15 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T14:05:00Z -- seed (user): Wassalon + mass L5 queue
+- User: keep loop; **Het Wassalon** gelijke kansen **€800k / 3y** (news Jul 2026) not yet in dataset → add high absurdity; seed many RQs for end-receivers / every-cent map.
+- **Found (not in prior ticks):** Minister Gennez (VP, Jul 2026) — campaign+vodcast **Het Wassalon** (ABB) **€800,000 over three years** (~€267k/yr illustrative). Press (HLN): early views **~661** class (medium secondary). High clown/absurdity candidate (**abs 9.5**, priority_index **~7.4**).
+- Wrote: budgets + cmt + **lb_vl_wassalon_podcast**; FOI **gap_vl_wassalon_tender** ready; sources VRT+HLN.
+- **Seeded open RQs rq_122–rq_155** (34 units): Wassalon deepen, gelijke kansen L5, federal BGD top50, VL/WAL/FWB/BRU L5, SS/NMBS/De Lijn/VDAB/FOREM, parties, unions, mutualities, hospitals, unis, intercommunales, cities, defence, energy, **rq_152 GG bridge % of ~€348bn tagged**, taxex remainder, cheques, company-cars split.
+- Honesty: GG **€348bn** will **not** be fully named L5 soon — map is L0 totals + samples + FOI residual; rq_152 will measure coverage gap.
+- Next loop picks **rq_122** (prio 9) or **rq_152** (prio 9).
+
+
 ### 2026-07-27T00:20:00Z — tick 105
 - Unit: **rq_105** (Federal/Flanders L5 recheck — FPS TE + VLAIO)
 - Found:
