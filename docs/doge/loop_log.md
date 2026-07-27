@@ -2537,3 +2537,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entities 4; budgets 16; cmt 2; lb 4; FOI gap_wal_af_caf_unit_cost **ready**; rq_229=done; seeded **rq_230**.
 - FOI: unit cost per dossier by CAF human send.
 - Next: prio5 **rq_230**; **progress@240 in 2 ticks**; deferred **rq_116** SWA.
+
+### 2026-07-29T06:35:00Z - tick 239
+- Unit: **rq_230** (FOI-adjacent hole-fill - **VL Groeipakket dual AF**)
+- Found (strong primary):
+  - **Groeipakket 2025 awards ~EUR 4.7bn** via uitbetalingsactoren (Opgroeien official); **>1.6m children** / **930,010 families** eoy2025.
+  - Sociale toeslag: **522,148 children** (dec2025, -3.4% y/y); zorgtoeslag: **51,261 children**.
+  - **VUTG admin BO2026 EUR 42.565m** (BBT tech Q); ~**90 bps** of 4.7bn awards class.
+  - Zorgtoeslagen budget **144.5m** 2026 (+3.4m); private UA efficiency cut **-1.5m**; recoveries raming **34.836m**; CGPA invest **2.5m**.
+  - **BE AF triple map (do not sum years):** VL ~**4.7bn** (2025) | WAL 4-CAF **3.01bn** (2026) | BRU Iriscare AF **1.08bn** (2026).
+- Wrote: sources 2; entity 1; budgets 7; cmt 2; lb 4; FOI gap_vl_groeipakket_bo2026_line **ready**; raw BBT PDF; rq_230=done; seeded **rq_231** (progress@240 prio6) + **rq_232**.
+- FOI: exact GEF2QY BO line + unit costs human send.
+- Next: **rq_231 progress@240 mandatory**; then rq_232; deferred **rq_116** SWA.

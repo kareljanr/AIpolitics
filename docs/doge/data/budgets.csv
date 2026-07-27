@@ -2529,3 +2529,10 @@ bud_parentia_total_2026,parentia_wal,2026,1016931000,,,budgeted,src_wal_epco_fam
 bud_parentia_fonct_2026,parentia_wal,2026,24175000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Parentia fonct 24.175m; RW sub 21.258m
 bud_wal_af_prest_sum4_2026,aviq,2026,3013486000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Sum 4 CAF prestations 3013486000; reconciles AViQ AF 3008.5m (+regulator path)
 bud_wal_af_admin_caf_2026,aviq,2026,81330000,,,budgeted,src_wal_epco_famiwal_caisses_2026,strong,Sum CAF fonctionnement Famiwal+3 private ~81330000; dual AViQ rem caisses 41.4m private subset
+bud_groeipakket_awarded_2025,opgroeien,2025,4700000000,4650000000,4750000000,outturn,src_opgroeien_groeipakket_2025,strong,Opgroeien official: approx 4.7bn awarded 2025 via uitbetalingsactoren; range band for approx wording
+bud_vutg_admin_2026,vutg,2026,42565000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,VUTG BO26 uitgavenbudget 42.565m personnel+werking+invest public payment actor
+bud_groeipakket_zorgtoeslag_2026,opgroeien,2026,144500000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,Zorgtoeslagen budget 144.5m 2026 (+3.4m vs 2025 incl index)
+bud_groeipakket_private_ua_cut_2026,opgroeien,2026,1500000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,Efficiency cut 1.5m on private payment actors werkingsenveloppe BO2026
+bud_groeipakket_recoveries_2026,opgroeien,2026,34836000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,GDF-BGEFAQB-OW terugvorderingen raming 34.836m based on 2024 outturn private actors
+bud_groeipakket_cgpa_invest_2026,vutg,2026,2500000,,,budgeted,src_vl_bbt_wvga_2026_tech_gp,strong,Centrale Groeipakketapplicatie invest budget 2.5m
+bud_be_af_dual_vl_wal_bru_class,gg_belgium,2025,0,,,synthesis,src_opgroeien_groeipakket_2025,medium,Dual AF class: VL ~4.7bn 2025 + WAL 3.01bn 2026 + BRU Iriscare 1.08bn 2026; do not sum years/perimeters; tick239 synthesis

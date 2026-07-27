@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T06:05:00Z,rq_229,238,no,Scheduler 60s. Next prio5 rq_230; rq_116 SWA deferred. FOI ready human send. tick238 Famiwal 1.12bn AF 4-CAF 3.01bn dual.
+main,continuous,hole_fill,2026-07-29T06:35:00Z,rq_230,239,no,Scheduler 60s. Next: progress@240 (rq_231 prio6) then rq_232. rq_116 SWA deferred. tick239 Groeipakket 4.7bn dual AF.
