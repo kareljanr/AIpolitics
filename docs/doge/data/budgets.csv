@@ -1603,3 +1603,31 @@ bud_crm_auction_package_2025_10,sec_federal,2025,125400000,,,outturn,src_elia_cr
 bud_crm_auction_package_prior_yr,sec_federal,2024,182900000,,,outturn,src_elia_crm_auction_2025_10,medium,Prior year CRM auction package cost 182.9m (Elia press compare)
 bud_crm_auction_mw_2025_10,sec_federal,2025,4556,,,outturn,src_elia_crm_auction_2025_10,medium,CRM Oct 2025 selected capacity 4556 MW of which 171 MW new
 bud_crm_auction_wap_2025_10,sec_federal,2025,14100,,,outturn,src_elia_crm_auction_2025_10,medium,CRM weighted avg price 14.1k EUR/MW/year Oct 2025 (IPC 22.7k)
+bud_elia_revenue_2025,elia,2025,1667400000,,,outturn,src_elia_etb_iar2025,strong,ETB consolidated revenue 1.6674bn 2025
+bud_elia_revenue_2024,elia,2024,1257700000,,,outturn,src_elia_etb_iar2025,strong,ETB consolidated revenue 1.2577bn 2024
+bud_elia_settlement_mech_2025,elia,2025,-160900000,,,outturn,src_elia_etb_iar2025,strong,Net income/expense from settlement mechanism -160.9m 2025 (was +247.8m 2024)
+bud_elia_settlement_mech_2024,elia,2024,247800000,,,outturn,src_elia_etb_iar2025,strong,Settlement mechanism net +247.8m 2024
+bud_elia_services_goods_2025,elia,2025,646000000,,,outturn,src_elia_etb_iar2025,strong,Services and other goods 646.0m 2025 (831.9m 2024)
+bud_elia_personnel_2025,elia,2025,264000000,,,outturn,src_elia_etb_iar2025,strong,Personnel expenses 264.0m 2025 (225.8m 2024)
+bud_elia_personnel_2024,elia,2024,225800000,,,outturn,src_elia_etb_iar2025,strong,Personnel expenses 225.8m 2024
+bud_elia_da_2025,elia,2025,266900000,,,outturn,src_elia_etb_iar2025,strong,Depreciation amortisation impairment 266.9m 2025
+bud_elia_ebit_2025,elia,2025,448700000,,,outturn,src_elia_etb_iar2025,strong,EBIT 448.7m 2025 (385.8m 2024)
+bud_elia_ebit_2024,elia,2024,385800000,,,outturn,src_elia_etb_iar2025,strong,EBIT 385.8m 2024
+bud_elia_profit_2025,elia,2025,300700000,,,outturn,src_elia_etb_iar2025,strong,Net profit 300.7m 2025 (245.0m 2024)
+bud_elia_profit_2024,elia,2024,245000000,,,outturn,src_elia_etb_iar2025,strong,Net profit 245.0m 2024
+bud_elia_capex_2025,elia,2025,1469500000,,,outturn,src_elia_etb_iar2025,strong,Total CAPEX/investments class 1.4695bn 2025 (taxonomy table; key figures 1.4bn)
+bud_elia_rab_2025,elia,2025,7800000000,,,outturn,src_elia_etb_iar2025,strong,Regulated Asset Base RAB 7.8bn 2025
+bud_elia_total_assets_2025,elia,2025,11683000000,,,outturn,src_elia_etb_iar2025,strong,Total assets 11.683bn EOY 2025
+bud_elia_total_assets_2024,elia,2024,9704200000,,,outturn,src_elia_etb_iar2025,strong,Total assets 9.704bn EOY 2024
+bud_elia_equity_2025,elia,2025,4430200000,,,outturn,src_elia_etb_iar2025,strong,Equity 4.430bn EOY 2025 (3.179bn 2024)
+bud_elia_equity_2024,elia,2024,3179100000,,,outturn,src_elia_etb_iar2025,strong,Equity 3.179bn EOY 2024
+bud_elia_equity_inject_2025,elia,2025,1057000000,,,outturn,src_elia_etb_iar2025,strong,Shares issued equity injection ~1.057bn 2025 from Elia Group capital raise
+bud_elia_loans_lt_2025,elia,2025,4864400000,,,outturn,src_elia_etb_iar2025,strong,Non-current loans and borrowings 4.864bn EOY 2025
+bud_elia_loans_st_2025,elia,2025,628100000,,,outturn,src_elia_etb_iar2025,strong,Current loans and borrowings 628.1m EOY 2025
+bud_elia_cash_2025,elia,2025,1503900000,,,outturn,src_elia_etb_iar2025,strong,Cash and cash equivalents 1.504bn EOY 2025
+bud_elia_ppe_2025,elia,2025,7139000000,,,outturn,src_elia_etb_iar2025,strong,Property plant equipment 7.139bn EOY 2025
+bud_elia_dividends_2025,elia,2025,99700000,,,outturn,src_elia_etb_iar2025,strong,Dividends paid 99.7m 2025 (40.8m 2024)
+bud_elia_capex_plan_2025_28,elia,2025,7500000000,,,commitment,src_elia_etb_iar2025,strong,CAPEX plan 2025-2028 EUR 7.5bn
+bud_elia_invest_plan_2026,elia,2026,1700000000,,,budgeted,src_elia_etb_iar2025,strong,Planned investment 1.7bn in 2026 (management interview)
+bud_elia_baekeland_invest,elia,2026,400000000,,,commitment,src_elia_etb_iar2025,medium,Baekeland 380/150kV substation Ghent port investment 400m class
+bud_elia_green_bond_2025,elia,2025,500000000,,,outturn,src_elia_etb_iar2025,strong,EU Green Bond placement 500m 2025

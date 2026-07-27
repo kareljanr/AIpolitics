@@ -1642,3 +1642,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 12; cmt 2; lb 2; FOI **gap_crm_osp_series** ready; gap_offshore note; rq_164=done; seeded **rq_165**.
 - FOI: CRM multi-year + residual Mons/Antwerp human send.
 - Next: prio5 **rq_165**; deferred **rq_116** SWA.
+
+### 2026-07-28T06:45:00Z — tick 170
+- Unit: **rq_165** (FOI-adjacent hole-fill — **Elia Transmission Belgium IAR 2025**)
+- Found (strong primary integrated annual report, consol FS €m):
+  - **Revenue 1.667bn 2025** (1.258bn 2024) · **profit 300.7m** (245.0m) · **EBIT 448.7m**.
+  - Settlement mechanism **−160.9m** 2025 (was **+247.8m** 2024) — OSP/GC volatility link.
+  - Personnel **264.0m** · services **646.0m** · D&A **266.9m**.
+  - **CAPEX ~1.47bn** · **RAB 7.8bn** · PPE **7.14bn** · assets **11.68bn** · equity **4.43bn** (inject **+1.057bn**).
+  - Loans LT **4.86bn** + ST **0.63bn** · cash **1.50bn** · dividends **99.7m**.
+  - CAPEX plan **7.5bn 2025–28** · 2026 invest plan **1.7bn** · Baekeland **~400m** · Green Bond **500m**.
+  - Grid **8 851 km** · reliability **99.99%** · dual with Fluvius DSO + CRM host.
+- Mons BI2026 / Antwerp full register still not newly filled.
+- Wrote: sources 1; budgets 28; cmt 1; lb 2; entity note; rq_165=done; seeded **rq_166**.
+- FOI: no new gap (regulated monopoly well disclosed); residual local FOIs human send.
+- Next: prio5 **rq_166**; deferred **rq_116** SWA.
