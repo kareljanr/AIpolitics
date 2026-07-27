@@ -1759,3 +1759,22 @@ bud_delijn_receivable_kapitaal_2025,de_lijn,2025,247100000,,,outturn,src_delijn_
 bud_delijn_lt_debt_2025,de_lijn,2025,371835000,,,outturn,src_delijn_jv_2025,strong,Schulden op meer dan 1 jaar 371.835m (mostly leasing PPS)
 bud_delijn_fin_income_2025,de_lijn,2025,157392000,,,outturn,src_delijn_jv_2025,strong,Financiele opbrengsten 157.392m 2025 (capital subsidy release major component)
 bud_delijn_dotatie_delta_2025,de_lijn,2025,-27500000,,,outturn,src_delijn_press_2025_results,strong,Dotatie fell 27.5m 2025 vs prior (non-recurrent financing fall-out) press
+bud_swde_ca_full_2024,swde,2024,568129000,,,outturn,src_swde_faits_2024,strong,Chiffre d affaires full 568.129m 2024 (Faits et chiffres incl assainissement pass-through)
+bud_swde_ca_hors_assain_2024,swde,2024,340575000,,,outturn,src_swde_rf_2024,strong,CA hors assainissement 340.575m 2024 statutory RF
+bud_swde_ca_hors_assain_2023,swde,2023,342468000,,,outturn,src_swde_rf_2024,strong,CA hors assainissement 342.468m 2023
+bud_swde_produits_expl_2024,swde,2024,428717000,,,outturn,src_swde_rf_2024,strong,Produits d exploitation 428.717m 2024 hors assain
+bud_swde_ebitda_2024,swde,2024,132530000,,,outturn,src_swde_faits_2024,strong,EBITDA 132.530m 2024
+bud_swde_op_result_2024,swde,2024,-10806000,,,outturn,src_swde_rf_2024,strong,Resultat d exploitation -10.806m 2024
+bud_swde_net_result_2024,swde,2024,10253000,,,outturn,src_swde_rf_2024,strong,Resultat net 10.253m 2024 (6.106m 2023) all to reserves no dividend
+bud_swde_assets_2024,swde,2024,2369143000,,,outturn,src_swde_rf_2024,strong,Total actif 2369.143m end-2024
+bud_swde_equity_2024,swde,2024,1464938000,,,outturn,src_swde_rf_2024,strong,Capitaux propres 1464.938m end-2024
+bud_swde_capital_subsidies_2024,swde,2024,285430000,,,outturn,src_swde_rf_2024,strong,Subsides en capital 285.430m end-2024
+bud_swde_lt_debt_2024,swde,2024,644908000,,,outturn,src_swde_rf_2024,strong,Dettes financieres LT 644.908m end-2024
+bud_swde_gross_fin_debt_2024,swde,2024,722025000,,,outturn,src_swde_faits_2024,strong,Dettes financieres brutes 722.025m 2024
+bud_swde_capex_2024,swde,2024,272391000,,,outturn,src_swde_rf_2024,strong,Investissements annee 272.391m 2024 (travaux faits 263.5m)
+bud_swde_invest_travaux_2024,swde,2024,263455000,,,outturn,src_swde_faits_2024,strong,Investissements travaux realises 263.455m 2024
+bud_swde_personnel_2024,swde,2024,136026000,,,outturn,src_swde_rf_2024,strong,Remunerations charges sociales pensions 136.026m 2024
+bud_swde_da_2024,swde,2024,116410000,,,outturn,src_swde_rf_2024,strong,Amortissements 116.410m 2024
+bud_swde_prod_immob_2024,swde,2024,52710000,,,outturn,src_swde_rf_2024,strong,Production immobilisee 52.710m 2024
+bud_swde_nrb_gain_2024,swde,2024,24542000,,,outturn,src_swde_rf_2024,strong,Plus-value vente parts Network Research Belgium 24.542m non-recurrent fin 2024
+bud_swde_cvd_2024,swde,2024,2.80,,,outturn,src_swde_faits_2024,strong,CVD cost-truth distribution EUR per m3 NOT total EUR: 2.80; amount stores 2.80

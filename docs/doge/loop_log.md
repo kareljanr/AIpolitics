@@ -1729,3 +1729,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 21; cmt 1; lb 1; FOI note; raw PDF; rq_170=done; seeded **rq_171**.
 - FOI: gap_de_lijn largely filled public; residual Antwerp/Mons FOIs human send.
 - Next: prio5 **rq_171**; deferred **rq_116** SWA.
+
+### 2026-07-28T08:45:00Z — tick 176
+- Unit: **rq_171** (FOI-adjacent hole-fill — **SWDE Rapport Financier 2024**)
+- Found (strong primary RF + Faits & chiffres; kEUR ×1000):
+  - **CA full EUR 568.129m 2024** (Faits; incl assainissement) · CA hors assain **340.575m** · produits exploitation **428.7m**.
+  - **EBITDA 132.5m** · op. result **-10.8m** · fin. result **+22.5m** (NRB sale gain **24.5m**) · **net 10.253m**.
+  - Assets **2.369bn** · equity **1.465bn** · capital subsidies **285.4m** · LT fin. debt **644.9m** · gross fin. debt **722m**.
+  - CAPEX **272.4m** (travaux **263.5m**) · personnel **136.0m** · D&A **116.4m**.
+  - **No dividend** (bénéfice à distribuer 0; all to reserves). CVD **2.80 €/m³** · pop served **2.53m** · 190 communes.
+  - Dual water stack complete: **SWDE WAL** + **Vivaqua BCR** + **Aquafin VL** (+ SPGE assainissement).
+- Mons BI2026 / Antwerp register still open.
+- Wrote: sources 2; entity 1; budgets 19; cmt 1; lb 2; FOI note; rq_171=done; seeded **rq_172**.
+- FOI: residual Fluvius municipal L5 + BCR capital calendar human send.
+- Next: prio5 **rq_172**; deferred **rq_116** SWA.

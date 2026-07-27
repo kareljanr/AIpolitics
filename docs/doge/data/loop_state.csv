@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T08:25:00Z,rq_170,175,no,"Scheduler 60s. Next prio5 rq_171 hole-fill Antwerp/Mons/taxex; rq_116 SWA deferred. FOI ready human send. tick175 De Lijn JV omzet 1.42bn VL 1.21bn."
+main,continuous,hole_fill,2026-07-28T08:45:00Z,rq_171,176,no,"Scheduler 60s. Next prio5 rq_172 hole-fill Antwerp/Mons/taxex/Aquafin; rq_116 SWA deferred. FOI ready human send. tick176 SWDE CA 568m assets 2.37bn."
