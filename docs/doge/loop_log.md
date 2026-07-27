@@ -988,3 +988,9 @@ Append-only. Each tick adds a short entry.
 - No public open work (rq_116 mid-year skip). FOI ready human-only.
 - Wrote: loop_state cursor only.
 - Next: human FOI or new research_queue; rq_116 after Oct 2026.
+
+### 2026-07-27T05:05:00Z — tick 121
+- Unit: **idle** (idle_waiting_foi)
+- No public open work (rq_116 mid-year skip). FOI ready human-only.
+- Wrote: loop_state cursor only.
+- Next: human FOI or new research_queue; rq_116 after Oct 2026.
