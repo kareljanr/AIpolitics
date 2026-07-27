@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:45:00Z,rq_333,342,no,Scheduler 60s. Next prio5 rq_334; rq_116 SWA deferred. FOI ready. tick342 CCA >44m dual VAF.
+main,continuous,hole_fill,2026-07-31T10:15:00Z,rq_334,343,no,Scheduler 60s. Next prio5 rq_335; rq_116 SWA deferred. FOI ready. tick343 TaxShelter AV 212m.

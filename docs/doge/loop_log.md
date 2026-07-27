@@ -3814,3 +3814,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity cca_fwb; budgets +13; cmt +1; lb +2; FOI gap_vaf_cca refresh; rq_333=done; spawn rq_334; ticks=342
 - FOI: named awards L5 + Cinematek still ready human send
 - Next: prio5 **rq_334**; deferred **rq_116** SWA
+
+### 2026-07-31T10:15:00Z - tick 343
+- Unit: **rq_334** (FOI-adjacent hole-fill - **Federal Tax Shelter AV TE dual VAF/CCA culture**)
+- Found (strong FPS Finance Inventory of Federal Tax Expenditures 2024 / 2026 PDF):
+  - Tax shelter **audiovisual** Art.194ter CIT TE multi-year: **€212.15m 2023** (204.38 2022; 183.73 2021; 173.36 2020).
+  - Reform spike post-2014: **€7.44m 2014 → €191.41m 2015**.
+  - **Scenic/performing arts** extension: **€41.82m 2023** (21.88 2022).
+  - **Video games** extension: **€1.33m 2023** (0.20 2022).
+  - **Package 2023: €255.3m** (AV+scenic+games).
+  - Dual culture stack: VAF VL dots ~€30.7m + CCA envelope >€44m + federal TE; CCA raised investor cash €84.73m 2024 is **different metric** from TE revenue-forgone.
+- Wrote: sources +1; entity tax_shelter_av; budgets +31 series; tax_expenditures +4; cmt +1; lb +2; FOI gap_taxshelter L5 ready; rq_334=done; spawn rq_335; ticks=343
+- FOI: top beneficiaries L5 ready human send
+- Next: prio5 **rq_335**; deferred **rq_116** SWA
