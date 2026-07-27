@@ -1086,3 +1086,30 @@ bud_rtbf_total_dots_2019,rtbf,2019,284600000,,,outturn,src_csa_rtbf_controle_202
 bud_rtbf_total_dots_2020,rtbf,2020,297700000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
 bud_rtbf_total_dots_2021,rtbf,2021,305600000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
 bud_rtbf_total_dots_2022,rtbf,2022,334800000,,,outturn,src_csa_rtbf_controle_2023,strong,Total public dots series CSA table
+bud_vrt_gov_2022,vrt,2022,290600000,,,outturn,src_vrt_jv2023_pillars,strong,Overheidsfinanciering total 2022
+bud_vrt_basisdot_2022,vrt,2022,277500000,,,outturn,src_vrt_jv2023_pillars,strong,Basisdotatie 2022
+bud_vrt_eigen_2022,vrt,2022,198900000,,,outturn,src_vrt_jv2023_pillars,strong,Eigen inkomsten 2022
+bud_vrt_total_rev_2022,vrt,2022,489500000,,,outturn,src_vrt_jv2023_pillars,strong,Total financing pillars 2022
+bud_vrt_gov_2023,vrt,2023,297900000,,,outturn,src_vrt_jv2023_pillars,strong,Overheidsfinanciering total 2023
+bud_vrt_basisdot_2023,vrt,2023,287200000,,,outturn,src_vrt_jv2023_pillars,strong,Basisdotatie 2023 (non-indexed base 260.8 + wage index 25.9 + MAX 0.104)
+bud_vrt_inflation_dot_2023,vrt,2023,7100000,,,outturn,src_vrt_jv2023_pillars,strong,Eenmalige inflatiekosten dotatie 2023
+bud_vrt_transform_dot_2023,vrt,2023,1100000,,,outturn,src_vrt_jv2023_pillars,strong,Herstructurering/transformatieplan 2023 (of 16m 2021-25 package)
+bud_vrt_other_subs_2023,vrt,2023,2500000,,,outturn,src_vrt_jv2023_pillars,strong,Overige subsidies 2023
+bud_vrt_eigen_2023,vrt,2023,199700000,,,outturn,src_vrt_jv2023_pillars,strong,Eigen inkomsten 2023
+bud_vrt_ban_comm_2023,vrt,2023,81000000,,,outturn,src_vrt_jv2023_pillars,strong,BAN + commercial communication 2023
+bud_vrt_total_rev_2023,vrt,2023,497600000,,,outturn,src_vrt_jv2023_pillars,strong,Total financing pillars 2023
+bud_vrt_net_pso_cost_2023,vrt,2023,291700000,,,outturn,src_vrt_jv2023_pillars,strong,Nettokosten publieke opdracht 2023
+bud_vrt_gov_subs_net_2023,vrt,2023,285000000,,,outturn,src_vrt_jv2023_pillars,strong,Overheidssubsidies after deferred for PSO net cost 2023
+bud_vrt_gov_2024,vrt,2024,304400000,,,outturn,src_vrt_jv2024_summary,strong,Overheidsfinanciering total 2024 (59.9pct)
+bud_vrt_eigen_2024,vrt,2024,203700000,,,outturn,src_vrt_jv2024_summary,strong,Eigen inkomsten 2024 (40.1pct)
+bud_vrt_total_rev_2024,vrt,2024,508100000,,,outturn,src_vrt_jv2024_summary,strong,Sum gov+eigen 304.4+203.7
+bud_vrt_comm_2024,vrt,2024,74500000,,,outturn,src_radiovisie_vrt_comm_2024,medium,Commercial communication only 2024 secondary Radiovisie citing VRT
+bud_vrt_ban_2024,vrt,2024,10400000,,,outturn,src_radiovisie_vrt_comm_2024,medium,BAN 2024 secondary
+bud_vrt_total_rev_2025,vrt,2025,528400000,,,outturn,src_vrt_jv2025_fin_html,strong,Totale opbrengsten 2025
+bud_vrt_gov_2025,vrt,2025,306000000,,,outturn,src_vrt_jv2025_fin_html,strong,Overheidsfinanciering 2025 (main VL toelage + limited EU/VLAIO etc)
+bud_vrt_eigen_2025,vrt,2025,222300000,,,outturn,src_vrt_jv2025_fin_html,strong,Eigen inkomsten 2025
+bud_vrt_ban_comm_2025,vrt,2025,83000000,,,outturn,src_vrt_jv2025_fin_html,strong,Commercial+BAN realized 2025 (plafond 90.8m)
+bud_vrt_costs_2025,vrt,2025,533100000,,,outturn,src_vrt_jv2025_fin_html,strong,Totale kosten 2025
+bud_vrt_ext_prod_2025,vrt,2025,122300000,,,outturn,src_vrt_jv2025_fin_html,strong,External production+facilities invest 2025 (~25pct of income)
+bud_vrt_basistoelage_2025,vrt,2025,258393000,,,budgeted,src_vl_vrt_basistoelage_pq130,strong,Basistoelage 2025 component only (not full gov package)
+bud_vrt_basistoelage_2026,vrt,2026,296400000,,,budgeted,src_vl_vrt_basistoelage_pq130,strong,Basistoelage 2026 BHO 2026-2030

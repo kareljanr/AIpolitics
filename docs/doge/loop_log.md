@@ -1333,3 +1333,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 27; cmt_rtbf_public_package; lb_rtbf; rq_135=done; FOI residual ready.
 - FOI: gap_rtbf_complement_split (2024 split + codes + savings cash) human send.
 - Next: prio6 **rq_136 VRT** / **rq_134 Actiris** / **rq_120 Myria**.
+
+### 2026-07-27T22:10:00Z ? tick 146
+- Unit: **rq_136** (VRT BHO full public financing + side envelopes)
+- Found (strong JV2023 + JV2024 + JV2025 web + PQ130):
+  - **Overheidsfinanciering:** 2022 **EUR 290.6m** · 2023 **297.9m** · 2024 **304.4m** · 2025 **306m**.
+  - **2023 L5 split:** basisdot **287.2** + inflatie **7.1** + transform **1.1** + overige **2.5**.
+  - **Basistoelage path:** 2025 **258.393m** ? 2026 **296.400m** (wage index +36.34; partial ops +1.49; MAX +0.10; energy ?0.28; digital +0.20; NL coop +0.15).
+  - **Eigen inkomsten:** 2023 **199.7** · 2024 **203.7** · 2025 **222.3**; total rev 2025 **528.4m**.
+  - **BAN+comm 2025: EUR 83m** (plafond 90.8); external production invest **122.3m**.
+  - Dual PSB 2025 class: VRT gov **306** + RTBF package **378** ? **~684m**.
+- Wrote: sources 5; budgets 27; cmt_vrt_public_package; lb_vrt; rq_136=done; FOI residual ready.
+- FOI: gap_vrt_side_envelopes (2024-26 L5 matrix + BBT codes) human send.
+- Next: prio6 **rq_134 Actiris** / **rq_140 hospitals** / **rq_120 Myria**.
