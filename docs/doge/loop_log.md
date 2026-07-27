@@ -2832,3 +2832,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~22; cmt +1; lb +3; FOI gap_mons_bi2026_named ready; draft; rq_254=done; spawn rq_255; ticks=263
 - FOI: BI2026 top20 human send
 - Next: prio5 **rq_255**; deferred **rq_116** SWA
+
+### 2026-07-29T19:00:00Z — tick 264
+- Unit: **rq_255** (FOI-adjacent hole-fill — **finance&invest.brussels dual PMV/WE**)
+- Found (strong primary JV2024):
+  - **Interventions EUR 131.243m** 2024 (385 firms): **108.3m invested** + **~23m guarantees**.
+  - Subsidiary split: FIB **67.6m**/309; boosting **15.7m**/13; BWF+proxilening **24.5m**/299; Brusoc ~9m/162.
+  - Cum since 2018: **416.774m** financing / **2,526** firms; latent gains **14.846m**; FTE **~40.7**; mgmt cost ratio **1.87pct** (was 3.38pct 2018).
+  - BCR share **69.63%** + private banks/insurers; dual **PMV 4.24bn** + **WE ~4.98bn** + **SFPIM 11.7bn** (four public investment companies).
+  - Residual: full statutory BS equity/assets + L5 top stakes FOI (activity report only).
+- Wrote: sources +1; entity finance_brussels; budgets +15; cmt +1; lb +3; FOI gap_fib_bilan_l5 ready; draft; raw JV PDF; rq_255=done; spawn rq_256; ticks=264
+- FOI: FIB bilan + L5 human send; APEFE/AGMJ residual still ready
+- Next: prio5 **rq_256**; deferred **rq_116** SWA

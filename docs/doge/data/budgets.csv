@@ -2821,3 +2821,18 @@ bud_mons_asbl_saint_georges_2025,city_mons,2025,55000.00,,,budgeted,src_mons_bud
 bud_mons_charte_fonct_2025,city_mons,2025,50000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Charte vie associative fonctionnement 50000 EUR BI2025
 bud_mons_orchestre_rcw_2025,city_mons,2025,50000.00,,,budgeted,src_mons_budget_ord_2025_l5,strong,Orchestre Royal de Chambre de Wallonie 50000 EUR BI2025
 bud_mons_l5_asbl_sample_2025,city_mons,2025,7478054.99,,,budgeted,src_mons_budget_ord_2025_l5,strong,Named ASBL/RCA/assoc/sport sample n=22 sum 7478055 from top50 extract
+bud_fib_interventions_2024,finance_brussels,2024,131243000,,,outturn,src_finance_brussels_jv_2024,strong,Group interventions 131.243m 2024 (commitments basis)
+bud_fib_invested_2024,finance_brussels,2024,108300000,,,outturn,src_finance_brussels_jv_2024,strong,Of which invested 108.3m (equity/loans/convertible) excl pure guarantees
+bud_fib_guarantees_2024,finance_brussels,2024,23000000,,,outturn,src_finance_brussels_jv_2024,strong,Guarantees ~23m of 131.2m package (BWF/proxilening class)
+bud_fib_pool_sme_startup_2024,finance_brussels,2024,68045000,,,outturn,src_finance_brussels_jv_2024,strong,Pool KMO/start-up/scale-up class 68.045m of 131.243
+bud_fib_pool_boosting_2024,finance_brussels,2024,15086000,,,outturn,src_finance_brussels_jv_2024,medium,Boosting/FIB-related slice 15.086m class from 4-way split
+bud_fib_pool_zkosocial_2024,finance_brussels,2024,24500000,,,outturn,src_finance_brussels_jv_2024,strong,ZKO/social + BWF/proxilening 24.500m class
+bud_fib_pool_other_2024,finance_brussels,2024,23612000,,,outturn,src_finance_brussels_jv_2024,medium,Residual pool 23.612m of 131.243 split
+bud_fib_subsidiary_fib_2024,finance_brussels,2024,67600000,,,outturn,src_finance_brussels_jv_2024,strong,FIB parent-line invested 67.6m / 309 firms
+bud_fib_subsidiary_boosting_2024,finance_brussels,2024,15700000,,,outturn,src_finance_brussels_jv_2024,strong,Boosting subsidiary 15.7m / 13 firms
+bud_fib_subsidiary_brusoc_2024,finance_brussels,2024,9000000,,,outturn,src_finance_brussels_jv_2024,medium,Brusoc ~9m / 162 firms (micro social)
+bud_fib_bwf_proxilening_2024,finance_brussels,2024,24500000,,,outturn,src_finance_brussels_jv_2024,strong,Brussels Waarborgfonds + proxilening 24.5m / 299 firms
+bud_fib_cum_financing_2018_24,finance_brussels,2024,416774000,,,outturn,src_finance_brussels_jv_2024,strong,Cumulative group financing since 2018: 416.774m
+bud_fib_latent_gains_2024,finance_brussels,2024,14846000,,,outturn,src_finance_brussels_jv_2024,strong,Latente meerwaarden 14.846m end-2024 (path 4.221->14.846)
+bud_fib_fte_2024,finance_brussels,2024,0,,,outturn,src_finance_brussels_jv_2024,strong,FTE ~40.7 end-2024 (path 37.1-42.0 2018-24); amount_eur 0 FTE not euros
+bud_fib_mgmt_cost_ratio_2024,finance_brussels,2024,0,,,outturn,src_finance_brussels_jv_2024,strong,Beheerskosten ratio 1.87pct 2024 (was 3.38pct 2018); amount 0 ratio
