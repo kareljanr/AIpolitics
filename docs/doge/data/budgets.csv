@@ -4051,3 +4051,11 @@ bud_belgica_cm_budget_2016,rv_belgica,2016,54450000,,,budgeted,src_belspo_belgic
 bud_belgica_award_freire_2017,rv_belgica,2017,53700000,,,budgeted,src_belspo_belgica_timeline,strong,CM 22Dec2017 award Freire Shipyard Vigo 53.7 MEURO design+build
 bud_belgica_project_cost_launch_2020,rv_belgica,2020,54000000,,,budgeted,src_belspo_belgica_timeline,strong,BELSPO launch press 11Feb2020 project cost approx 54m VAT included
 bud_belgica_ops_class_annual,rv_belgica,2014,4300000,,,budgeted,src_belgica_vliz_financing_study,medium,Financing study class: exploitation 4.3 MEURO/yr for 300 days at sea (2 crews) — not confirmed outturn
+bud_belspo_total_2024,belspo,2024,582400000,,,outturn,src_belspo_ar2024_figures,strong,Budgettaire realisaties 2024 582.4m (AR figures primary)
+bud_belspo_space_2024,belspo,2024,283400000,,,outturn,src_belspo_ar2024_figures,strong,Ruimtevaartbudget 283.4m nearly half of Belspo 2024; dual ESA 284m 2025 MERI
+bud_belspo_adba_ion_2024,belspo,2024,162600000,,,outturn,src_belspo_ar2024_figures,strong,ADBA+ION envelope 162.6m: FWI Belnet Poolsecretariaat Koninklijk Belgisch Filmarchief
+bud_belspo_mgmt_organs_2024,belspo,2024,19400000,,,outturn,src_belspo_ar2024_figures,strong,Beheersorganen 19.4m (3pct) of which personnel 16.9m
+bud_belspo_mgmt_pers_2024,belspo,2024,16900000,,,outturn,src_belspo_ar2024_figures,strong,Personeelskosten beheersorganen 16.9m 2024
+bud_belspo_rdi_nat_int_2024,belspo,2024,56500000,,,outturn,src_belspo_ar2024_figures,strong,Nationale en internationale R&D programma's en acties 56.5m ~10pct
+bud_belspo_prt_2024,belspo,2024,15700000,,,outturn,src_belspo_ar2024_figures,strong,PRT Herstart- en Transitieplan projecten ending 31Dec2024 15.7m (subset RDI)
+bud_belspo_eu_fund_prog5_2024,belspo,2024,26900000,,,outturn,src_belspo_ar2024_figures,strong,EU research programmes fund prog5 section 60 exp 26.9m 2024 (extra federal budget)

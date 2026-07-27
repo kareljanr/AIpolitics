@@ -86,3 +86,16 @@ Met vriendelijke groet,
 - [x] `foi_queue.csv` bijgewerkt
 
 **Human send only.** Agents markeren niet `sent` zonder bevestiging.
+
+---
+
+## Update tick 333
+
+BELSPO Jaarverslag 2024 (figures) primary:
+- **Budgettaire realisaties 2024: €582,4 m**
+- Ruimtevaart: **€283,4 m**
+- ADBA + ION (FWI, Belnet, Poolsecretariaat, Filmarchief): **€162,6 m**
+- Beheersorganen: **€19,4 m** (personeel €16,9 m; 3%)
+- Nat./int. R&D: **€56,5 m** (PRT €15,7 m aflopend 2024)
+- EU-fonds prog.5: **€26,9 m** (extra)
+- Residual FOI: L5 per FWI + cut path €93 m (−15%)

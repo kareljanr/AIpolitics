@@ -3681,3 +3681,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entity rv_belgica (+belspo note); budgets +4; cmt +1; lb +1; FOI gap_belgica_ops_l5 ready; draft; rq_323=done; spawn rq_324; ticks=332
 - FOI: CAPEX cash path + Genavir ops L5 ready human send
 - Next: prio5 **rq_324**; deferred **rq_116** SWA
+
+### 2026-07-31T05:15:00Z - tick 333
+- Unit: **rq_324** (FOI-adjacent hole-fill - **BELSPO AR2024 budget L2 primary split**)
+- Found (strong BELSPO Jaarverslag 2024 figures page):
+  - Budgettaire realisaties **€582.4m** 2024 (tightens prior 570-630m class).
+  - Space **€283.4m** (~half; dual ESA MERI €284m 2025).
+  - ADBA+ION (FWI Belnet Polar Cinematek) **€162.6m** (>25%).
+  - Mgmt organs **€19.4m** (3%; personnel **€16.9m**).
+  - Nat+int RDI **€56.5m** (~10%); PRT ending 2024 **€15.7m**.
+  - Diverse subsidies ex-space ~10% (SCK Myrrha VKI nuclear/H2 class).
+  - EU research fund prog5 **€26.9m** exp 2024 (extra federal budget).
+  - Museums **>1.5m** visitors 2024.
+- Wrote: sources +1; budgets +8; cmt +1; lb +1; entity belspo note; FOI gap_belspo refresh; draft note; rq_324=done; spawn rq_325; ticks=333
+- FOI: FWI L5 per institute + cut path still ready human send
+- Next: prio5 **rq_325**; deferred **rq_116** SWA
