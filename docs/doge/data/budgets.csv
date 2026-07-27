@@ -2062,3 +2062,18 @@ bud_sofico_net_debt_2024,sofico,2024,336800000,,,outturn,src_sofico_ra_2024,stro
 bud_sofico_eib_debt_2024,sofico,2024,351800000,,,outturn,src_sofico_ra_2024,strong,Emprunts BEI 351.8m end-2024
 bud_sofico_mtn_2024,sofico,2024,182000000,,,outturn,src_sofico_ra_2024,strong,Emission obligations MTN 182m end-2024
 bud_sofico_struct_network_invest_cum,sofico,2024,3700000000,,,outturn,src_sofico_ra_2024,medium,Invest reseau structurant cum since 2010 ~3.7bn to end-2024 (of which 370.8m in 2024 class)
+bud_pmv_managed_2024,pmv,2024,1941100000,,,outturn,src_pmv_jv_2024,strong,Gefinancierd en beheerd vermogen 1.9411bn end-2024
+bud_pmv_invested_capital_2024,pmv,2024,1331700000,,,outturn,src_pmv_jv_2024,strong,Geinvesteerd vermogen 1.3317bn end-2024
+bud_pmv_net_2024,pmv,2024,32500000,,,outturn,src_pmv_press_2024_results,strong,Geconsolideerd nettoresultaat 32.5m 2024 (group share 32.7m accounts)
+bud_pmv_net_group_share_2024,pmv,2024,32727933,,,outturn,src_pmv_jv_2024,strong,Aandeel van de groep in geconsolideerd resultaat 32.728m 2024
+bud_pmv_invest_new_2024,pmv,2024,393200000,,,outturn,src_pmv_press_2024_results,strong,Nieuwe investeringen 393.2m 2024 (+46pct press)
+bud_pmv_invest_kern_2024,pmv,2024,286000000,,,outturn,src_pmv_jv_2024,medium,Investeringsbedrag 286m 2024 loans capital funds kerncijfers (subset vs 393m press)
+bud_pmv_capital_placed_2024,pmv,2024,1775827486,,,outturn,src_pmv_jv_2024,strong,Geplaatst kapitaal 1.7758bn end-2024
+bud_pmv_equity_consol_2024,pmv,2024,2479918386,,,outturn,src_pmv_jv_2024,strong,Eigen vermogen consol 2.480bn end-2024 (incl Aquafin perimeter)
+bud_pmv_equity_consol_2023,pmv,2023,2456504530,,,outturn,src_pmv_jv_2024,strong,Eigen vermogen consol 2.457bn end-2023
+bud_pmv_fin_assets_pmv_2024,pmv,2024,1280238093,,,outturn,src_pmv_jv_2024,strong,Financiele vaste activa PMV-level 1.280bn end-2024
+bud_pmv_fin_assets_pmv_2023,pmv,2023,1125807067,,,outturn,src_pmv_jv_2024,strong,Financiele vaste activa 1.126bn end-2023
+bud_pmv_gigarant_outstanding_2024,pmv,2024,695000000,,,outturn,src_pmv_jv_2024,strong,Gigarant uitstaande waarborgen 695m end-2024 (7 new 91m granted)
+bud_pmv_dividend_reserved_2024,pmv,2024,3800000,,,budgeted,src_pmv_jv_2024,strong,Dividend gereserveerd 3.8m from 2024 group profit
+bud_pmv_staff_core_2024,pmv,2024,183,,,outturn,src_pmv_jv_2024,medium,Kerncijfers 183 werknemers (group much larger with Aquafin 1276)
+bud_pmv_omzet_consol_2024,pmv,2024,41949355,,,outturn,src_pmv_jv_2024,medium,Consol omzet 41.9m 2024 (investment co ops; Aquafin perimeter separate large)

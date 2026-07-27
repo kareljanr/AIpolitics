@@ -1977,3 +1977,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; rq_186=done; seeded **rq_187**.
 - FOI: none new (public strong); residual optional CAPEX L5 project list.
 - Next: prio5 **rq_187**; deferred **rq_116** SWA.
+
+### 2026-07-28T14:05:00Z - tick 192
+- Unit: **rq_187** (FOI-adjacent hole-fill - **PMV Flanders investment holding 2024**)
+- Found (strong primary JV2024 + official press):
+  - **Gefinancierd & beheerd vermogen EUR 1.941bn** · **geïnvesteerd 1.332bn**.
+  - **Nettoresultaat 32.5m** (10th consecutive profit; group share 32.7m) · dividend reserved **3.8m**.
+  - **Nieuwe investeringen 393.2m** 2024 (+46% press; kerncijfers subset 286m loans/capital/funds).
+  - Geplaatst kapitaal **1.776bn** · equity consol **2.480bn** (incl Aquafin perimeter) · fin assets PMV-level **1.280bn**.
+  - **Gigarant** outstanding guarantees **695m** (7 new / 91m granted 2024).
+  - Dual map: **PMV Flanders** + **SFPIM federal** (11.7bn) + **Wallonie Entreprendre**; BAC stake path; Aquafin 100%.
+- Port of Antwerp-Bruges / Liège Airport authority full P&L still residual.
+- Wrote: sources 2; entity 1; budgets 15; cmt 1; lb 2; FOI **gap_pmv_l5_stakes** ready; rq_187=done; seeded **rq_188**.
+- FOI: L5 stakes + Gigarant claims human send only.
+- Next: prio5 **rq_188**; deferred **rq_116** SWA.
