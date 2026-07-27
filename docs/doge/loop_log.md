@@ -1945,3 +1945,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 18; cmt 1; lb 2; FOI **gap_skeyes_bs_2025** ready; rq_184=done; seeded **rq_185**.
 - FOI: 2025 full BS + multi-year correction schedule human send only.
 - Next: prio5 **rq_185**; deferred **rq_116** SWA.
+
+### 2026-07-28T13:25:00Z - tick 190
+- Unit: **rq_185** (FOI-adjacent hole-fill - **SOWAER comptes 2020-2025 public fill**)
+- Found (strong primary official comptes PDF to 31/12/2025):
+  - **Assets EUR 491.747m** end-2025 (494.2m 2024) · **equity 366.922m** · capital 322.3m.
+  - **Ventes 46.986m 2025** (64.8m 2024 / 81.3m 2023) · **net 0.300m** (7.41m 2024 / 18.45m 2023).
+  - Op. result **-3.83m** 2025 · D&A 31.0m · personnel 7.69m · fin assets **37.9m** (BSCA stake class) · PPE **374.4m**.
+  - Dettes **124.8m** (LT 89.9m) · cash 49.8m · treasury notes programme ceiling **85m** Region-guaranteed.
+  - Dual map: **SOWAER WAL airports** + **BSCA 127m** + **BAC 828m / SFPIM 25%**.
+- **gap_sowaer_accounts** major public fill ? status **answered** (residual L5 stake book values optional).
+- Port of Antwerp-Bruges authority P&L still residual.
+- Wrote: sources 1; entity update; budgets 21; cmt 1; lb 1; FOI answered; rq_185=done; seeded **rq_186**.
+- Progress@190: L2 ~62-70%; inventory budgets~2042 cmt~337 lb~296 FOI ready~60; top10 waste unchanged.
+- Next: prio5 **rq_186**; deferred **rq_116** SWA.
+
+### 2026-07-28T13:25:00Z - progress@190
+- Refreshed **progress_every_10_ticks.md**: L2 ~62-70% (SFPIM+airports+Credendo+skeyes+SOWAER since 180); FOI ready ~60.
+- Refreshed **doge_waste_top10_current.md**: top10 unchanged (cheque 8.83 … gas product 7.98); n_lb=296; Credendo cover just outside top10.

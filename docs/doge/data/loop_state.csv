@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T13:05:00Z,rq_184,189,no,"Scheduler 60s. Next prio5 rq_185 Port/taxex; rq_116 SWA deferred. FOI ready human send. tick189 skeyes 335.2m omzet COVID 110m loan; gap_skeyes_bs_2025 ready."
+main,continuous,hole_fill,2026-07-28T13:25:00Z,rq_185,190,no,"Scheduler 60s. Next prio5 rq_186 Port/taxex; rq_116 SWA deferred. FOI ready human send. tick190 SOWAER assets 492m public fill + progress@190."

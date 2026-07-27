@@ -2021,3 +2021,24 @@ bud_skeyes_flights_2025,skeyes,2025,1035084,,,outturn,src_skeyes_media_kf2025,st
 bud_skeyes_staff_2024,skeyes,2024,982,,,outturn,src_skeyes_jv2024_nl,strong,Employees 982 2024
 bud_skeyes_staff_2025,skeyes,2025,1006,,,outturn,src_skeyes_media_kf2025,strong,Employees 1006 end-2025
 bud_skeyes_state_subsidy_green_energy,skeyes,2022,9450000,,,budgeted,src_skeyes_jv2024_nl,strong,State subsidies 2.7m green aviation + 6.75m energy transition (avenants 9-10 third contract)
+bud_sowaer_ventes_2025,sowaer,2025,46985558,,,outturn,src_sowaer_comptes_2020_25,strong,Ventes et prestations 46.986m FY2025
+bud_sowaer_ventes_2024,sowaer,2024,64836954,,,outturn,src_sowaer_comptes_2020_25,strong,Ventes et prestations 64.837m FY2024
+bud_sowaer_ventes_2023,sowaer,2023,81313727,,,outturn,src_sowaer_comptes_2020_25,strong,Ventes et prestations 81.314m FY2023
+bud_sowaer_opex_result_2025,sowaer,2025,-3829251,,,outturn,src_sowaer_comptes_2020_25,strong,Resultat d exploitation -3.829m 2025
+bud_sowaer_opex_result_2024,sowaer,2024,7576522,,,outturn,src_sowaer_comptes_2020_25,strong,Resultat d exploitation +7.577m 2024
+bud_sowaer_net_2025,sowaer,2025,299618,,,outturn,src_sowaer_comptes_2020_25,strong,Resultat de l exercice 0.300m 2025
+bud_sowaer_net_2024,sowaer,2024,7406412,,,outturn,src_sowaer_comptes_2020_25,strong,Resultat de l exercice 7.406m 2024
+bud_sowaer_net_2023,sowaer,2023,18451528,,,outturn,src_sowaer_comptes_2020_25,strong,Resultat de l exercice 18.452m 2023
+bud_sowaer_assets_2025,sowaer,2025,491746944,,,outturn,src_sowaer_comptes_2020_25,strong,Total actif 491.747m end-2025
+bud_sowaer_assets_2024,sowaer,2024,494245965,,,outturn,src_sowaer_comptes_2020_25,strong,Total actif 494.246m end-2024
+bud_sowaer_equity_2025,sowaer,2025,366921528,,,outturn,src_sowaer_comptes_2020_25,strong,Capitaux propres 366.922m end-2025
+bud_sowaer_equity_2024,sowaer,2024,361271358,,,outturn,src_sowaer_comptes_2020_25,strong,Capitaux propres 361.271m end-2024
+bud_sowaer_capital_2025,sowaer,2025,322266095,,,outturn,src_sowaer_comptes_2020_25,strong,Capital 322.266m end-2025
+bud_sowaer_debt_total_2025,sowaer,2025,124825416,,,outturn,src_sowaer_comptes_2020_25,strong,Dettes total 124.825m end-2025
+bud_sowaer_debt_lt_2025,sowaer,2025,89868449,,,outturn,src_sowaer_comptes_2020_25,strong,Dettes a plus d un an 89.868m end-2025
+bud_sowaer_fin_assets_2025,sowaer,2025,37895551,,,outturn,src_sowaer_comptes_2020_25,strong,Immobilisations financieres 37.896m (stakes incl BSCA) end-2025
+bud_sowaer_ppe_2025,sowaer,2025,374366112,,,outturn,src_sowaer_comptes_2020_25,strong,Immobilisations corporelles 374.366m end-2025
+bud_sowaer_cash_2025,sowaer,2025,49844955,,,outturn,src_sowaer_comptes_2020_25,strong,Valeurs disponibles 49.845m end-2025
+bud_sowaer_personnel_2025,sowaer,2025,7687686,,,outturn,src_sowaer_comptes_2020_25,strong,Remunerations et charges sociales 7.688m 2025
+bud_sowaer_da_2025,sowaer,2025,31011741,,,outturn,src_sowaer_comptes_2020_25,strong,Amortissements 31.012m 2025
+bud_sowaer_treasury_notes_program,sowaer,2025,85000000,,,budgeted,src_sowaer_comptes_2020_25,medium,Treasury notes programme ceiling 85m guaranteed by Walloon Region (portal publications; not year utilisation)

@@ -20,38 +20,36 @@
 
 ---
 
-## Snapshot at **tick 180** (2026-07-28)
+## Snapshot at **tick 190** (2026-07-28)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~60–68%** (order of magnitude) | Strong samples for VL/WAL/FWB/BRU, major SOEs, PES, unis, grids, **full dual water stack**, defence, ODA; residual SS pensions/unemployment bulk + many local |
-| **D. L5 named end-receivers** | **~5–12%** of TE (generous) | Named L5 + large named packages (e.g. ASBL lines, univ per-inst, some city L5); **not** near-complete |
-| **E. FOI-ready gaps** | **~55** drafts ready | Human send only — closes D when answered |
+| **C. L2 entity totals** | **~62–70%** (order of magnitude) | Strong: VL/WAL/FWB/BRU, PES, unis, grids, **full dual water**, **energy TSO dual Elia+Fluxys**, **SFPIM 11.7bn**, **BIO**, **BAC+BSCA+SOWAER airports**, **Credendo ECA**, **skeyes ANS**, defence, ODA; residual SS bulk + many local + Port authority P&L |
+| **D. L5 named end-receivers** | **~6–13%** of TE (generous) | Named L5 + packages; **not** near-complete |
+| **E. FOI-ready gaps** | **~60** drafts ready | Human send only — closes D when answered |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
 
-### Inventory (tick 180)
+### Inventory (tick 190)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~1,857 |
-| commitments.csv | ~327 |
-| leaderboard.csv | ~278 |
-| FOI ready | ~55 |
+| budgets.csv | ~2,042 |
+| commitments.csv | ~337 |
+| leaderboard.csv | ~296 |
+| FOI ready | ~60 |
 
-### What improved since tick 120 (idle pause)
+### What improved since tick 180
 
-- Equality/HR: Unia, IEFH, FIRM, Myria, VMRI dual  
-- **Het Wassalon** €800k/3y (high absurdity)  
-- PES dual VDAB + FOREM L5 · Actiris L5  
-- De Lijn full JV · NMBS/Infrabel/HR Rail · RTBF/VRT  
-- Universities VL+FWB per-institution  
-- DSO stack Fluvius / ORES / RESA / Sibelga  
-- **Water dual:** SWDE · Vivaqua · Aquafin/SPGE · De Watergroep · Pidpa · **Water-link** (Farys ov residual)  
-- Defence portfolio L5 · justice/prisons · party + union admin + mutualities  
-- Taxex wave + FFS multi-year  
+- **Fluxys** gas TSO rev 650m CAPEX 262m dual Elia  
+- **SFPIM** federal holding assets **11.7bn** equity 11.4bn  
+- **BIO** DFI assets 1.2bn approvals 235m dual Enabel/DGD  
+- **Brussels Airport** rev 828m CAPEX 302m SFPIM 25%  
+- **BSCA Charleroi** 127m dual BAC; **SOWAER** comptes assets 492m public fill  
+- **Credendo** ECA assets 3.92bn GWP 481m cover 33bn class  
+- **skeyes** ANS omzet 335m COVID loan 110m dual airports  
 
 ---
 
@@ -65,8 +63,8 @@
 | 150 | 100% | 100% | ~55% | ~7–11% | ~50 | Fluvius + housing |
 | 160 | 100% | 100% | ~58% | ~8–11% | ~52 | NMBS JV hole-fill |
 | 170 | 100% | 100% | ~60% | ~8–12% | ~55 | Elia energy stack |
-| 176 | 100% | 100% | ~60–65% | ~8–12% | ~55 | SWDE water |
-| **180** | **100%** | **100%** | **~60–68%** | **~8–12%** | **~55** | **Current** (Water-link + VL water stack) |
+| 180 | 100% | 100% | ~60–68% | ~8–12% | ~55 | VL water stack |
+| **190** | **100%** | **100%** | **~62–70%** | **~6–13%** | **~60** | **Current** (SFPIM+airports+Credendo+skeyes+SOWAER) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 
@@ -78,4 +76,3 @@
 2. Update this file’s milestone row + inventory counts.  
 3. Re-run leaderboard top 10 into `doge_waste_top10_current.md`.  
 4. Append 5–10 lines to `loop_log.md`.  
-5. Commit: `doge(loop): tick N — progress % + waste top10`.

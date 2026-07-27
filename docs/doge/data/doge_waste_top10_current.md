@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **180** (2026-07-28) · **278** leaderboard rows  
+**As-of:** tick **190** (2026-07-28) · **296** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** &lt;1m→1.5 · &lt;10m→3.5 · &lt;100m→5.5 · &lt;1bn→7.5 · ≥1bn→9.5  
@@ -31,26 +31,20 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |---|-----|----------:|---------:|------|
 | 11 | `lb_union_pay_admin_169m` | **169 m** | 7.90 | Union unemployment **payment admin** (middleman) |
 | 12 | `lb_vl_non_maastricht` | **2.66 bn** stock class | 7.83 | Flanders non-Maastricht federal claims |
-| — | `lb_vl_wassalon_podcast` | **~0.27 m**/yr (**0.8 m**/3y) | **7.4** | **Highest absurdity (9.5)** — reach vs spend |
+| 13 | `lb_credendo_cover_capacity_33bn` | **33 bn** cover class | 7.75 | Contingent ECA exposure (new tick188) |
+| — | `lb_vl_airco_mvp_luchtlucht` | rates 300–600 | high abs | Cooling-as-climate dual-use (tick182) |
+| — | `lb_vl_wassalon_podcast` | **~0.27 m**/yr | high abs | Reach vs spend |
 
 ---
 
 ## “Clown / high absurdity” shortlist (not pure size)
 
 | Rank by abs | ID | Abs | Annual € class | One-liner |
-|-------------|-----|----:|---------------:|-----------|
-| 1 | `lb_vl_wassalon_podcast` | **9.5** | 0.27 m (0.8 m / 3y) | **Het Wassalon** gelijke-kansen vodcast/campagne |
-| 2 | `lb_cheque_economy` | **9** | 1.07 bn | Restricted cheques admin sandwich |
-| 3–4 | company cars rows | **8–8.5** | 3–5 bn | Fringe mobility tax design |
-| 5 | heating oil FFS | **8** | 1.84 bn | Fossil heat preference |
-| 6 | GSC Flanders | **8** | ~0.8 bn/yr | Certificate support on bill |
-| 7 | union pay admin | **8.5** | 169 m | Parallel payment channels |
+|------------:|-----|----:|----------------|-----------|
+| 1 | `lb_vl_wassalon_podcast` | 9.5 | ~0.8m/3y | Equality podcast/mediamix |
+| 2 | `lb_vl_airco_mvp_luchtlucht` | 9.0 | rates only | MVP air-air / AC dual-use |
+| 3 | `lb_cheque_economy` | 9.0 | 1.07bn+ | Restricted scrip economy |
+| 4 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | face ~m | Public pays for fridges/washers |
+| 5 | `lb_union_pay_admin_169m` | 8.5 | 169m | Union payment middleman |
 
----
-
-## Caveats
-
-1. **Tax expenditures / FFS are not cash out of the €348 bn TE pie** the same way as FOREM grants — still real fiscal cost.  
-2. **Large legitimate spend** (pensions, hospitals BFM, STIB, universities) is mostly **not** in this top 10 because absurdity is lower even when cost is huge.  
-3. **Recompute** after major taxex/FFS or L5 waves: run sort on `leaderboard.csv` and overwrite this file.  
-4. Full table: `leaderboard.csv` · historical top15 snapshot may lag: `leaderboard_top15.md`.
+*Top 10 by priority_index **unchanged** vs tick 180 (taxex/FFS dominate). New material L2 entities (SFPIM, Credendo, airports, skeyes) score lower on pure waste priority — core infra / contingent risk.*
