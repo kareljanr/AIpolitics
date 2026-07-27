@@ -2159,3 +2159,13 @@ bud_enabel_equity_2024,enabel,2024,20134329,,,stock,src_enabel_ar_2024_25_financ
 bud_enabel_staff_2024,enabel,2024,80167734,,,outturn,src_enabel_ar_2024_25_finances,strong,Staff costs 80.2m 2024
 bud_enabel_eu_signed_2024,enabel,2024,219000000,,,commitment,src_enabel_ar_2024_25_finances,strong,28 EU contracts signed 219m 2024
 bud_enabel_country_prog_2024_launch,enabel,2024,349000000,,,commitment,src_enabel_ar_2024_25_finances,strong,Seven country programmes multi-year envelopes sum 349m launched 2024
+bud_fedasil_dot_2024,fedasil,2024,929391289,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2024
+bud_fedasil_income_2024,fedasil,2024,946307441,,,outturn,src_fedasil_budget_page,strong,Total income excl order 2024
+bud_fedasil_exp_2024,fedasil,2024,943424843,,,outturn,src_fedasil_budget_page,strong,Total expenditure 2024
+bud_fedasil_staff_2024,fedasil,2024,177712527,,,outturn,src_fedasil_budget_page,strong,Personnel costs 2024
+bud_fedasil_third_party_2024,fedasil,2024,558785567,,,outturn,src_fedasil_budget_page,strong,Subsidies to third parties reception+return 2024
+bud_fedasil_medical_2024,fedasil,2024,59428039,,,outturn,src_fedasil_budget_page,strong,Medical costs asylum seekers 2024
+bud_fedasil_housing_2024,fedasil,2024,73928970,,,outturn,src_fedasil_budget_page,strong,Housing-related costs asylum seekers 2024
+bud_fedasil_dot_2023,fedasil,2023,838063376,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2023
+bud_fedasil_dot_2022,fedasil,2022,702083651,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2022
+bud_fedasil_dot_2021,fedasil,2021,530767789,,,outturn,src_fedasil_budget_page,strong,Federal dotation 2021

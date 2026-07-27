@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T17:05:00Z,rq_195,201,no,"Scheduler 60s. Next prio5 rq_196 Antwerp/Mons/MDK; rq_116 SWA deferred. FOI ready human send. tick201 Enabel omzet 407m dual BIO; gap_enabel_dgd_l5 ready."
+main,continuous,hole_fill,2026-07-28T17:25:00Z,rq_196,202,no,"Scheduler 60s. Next prio5 rq_197 Antwerp/Mons/MDK; rq_116 SWA deferred. FOI ready human send. tick202 Fedasil dot 929m third-party 559m; gap_fedasil_l5_partners ready."

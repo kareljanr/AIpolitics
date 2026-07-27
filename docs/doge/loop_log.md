@@ -2095,3 +2095,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 8; cmt 1; lb 1; FOI **gap_enabel_dgd_l5** ready; rq_195=done; seeded **rq_196**.
 - FOI: DGD cash + project L5 human send only; Antwerp register / Mons BI2026 still residual.
 - Next: prio5 **rq_196**; deferred **rq_116** SWA.
+### 2026-07-28T17:25:00Z - tick 202
+- Unit: **rq_196** (FOI-adjacent hole-fill - **Fedasil** asylum reception)
+- Found (strong primary official Fedasil budget page):
+  - **Federal dotation 2024 EUR 929.4m**; total income **946.3m** (EU 12.5m + own 4.4m).
+  - **Expenditure 943.4m**: staff **177.7m**; third-party subsidies **558.8m**; housing **73.9m**; medical **59.4m**; rent/maint **48.7m**; invest **3.1m**.
+  - Third-party split **%: 76 Red Cross+NGOs / 13 OCMW / 7 private / 2 return NGOs / 2 municipalities** (EUR residual FOI).
+  - Dotation path: **296m (2015) ? 929m (2024)** with intermediate years sourced.
+- Wrote: sources 1; entity 1; budgets 10; cmt 1; lb 2; FOI **gap_fedasil_l5_partners** ready; rq_196=done; seeded **rq_197**.
+- FOI: L5 partner EUR list human send only; Antwerp/Mons still residual.
+- Next: prio5 **rq_197**; deferred **rq_116** SWA.
