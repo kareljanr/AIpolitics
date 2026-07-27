@@ -4091,3 +4091,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +1; sources +1; budgets +16; cmt +1; lb +5; FOI **gap_psb_dual_vl_fwb_l5_2026** ready + draft; rq_354=done; spawn **rq_355**; ticks=363
 - FOI: RTBF RA vs budget + VRT side-envelopes L5 human send only
 - Next: prio5 **rq_355**; deferred **rq_116** SWA
+
+### 2026-07-31T20:45:00Z - tick 364
+- Unit: **rq_355** (FOI-adjacent hole-fill - **dual popular/civic education VL SCW + FWB education permanente**)
+- Found (strong primary VL BBT Cultuur SCW + FWB exp. particulier DO23 prog3):
+  - Flanders **SCW** HCF2TE-WT VEK **EUR 83.125m** / VAK **83.190m** BO2026 (cut ~-3.5m).
+  - FWB **Education permanente** prog3 CL **44.604m** / CE **30.442m** 2026:
+    - associations reconnues decret 2003 CL **43.037m** (CE 29.657m; ~96pct of EP)
+    - formation animateurs **0.365m** · projets **0.482m** · loisirs culturels **0.626m**
+  - Dual popular/civic education class **~EUR 128m** (not TE-additive; excludes formal EPA/VO and jeunesse).
+- Wrote: entities +2; sources +2; budgets +11; cmt +1; lb +4; FOI **gap_popular_edu_dual_vl_fwb_l5** ready + draft; rq_355=done; spawn **rq_356**; ticks=364
+- FOI: top-30 SCW + EP associations human send only
+- Next: prio5 **rq_356**; deferred **rq_116** SWA

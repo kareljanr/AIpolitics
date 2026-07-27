@@ -4464,3 +4464,14 @@ bud_fwb_csa_2026,fwb_medias_do25,2026,3751000,,,budgeted,src_fwb_exp_part_dep_20
 bud_vrt_basistoelage_2026_refresh,vrt,2026,296400000,,,budgeted,src_vl_vrt_dotatie_pq,strong,VRT basistoelage 296.4m 2026 (existing commitment; dual RTBF ordinary 350.8m)
 bud_psb_dual_ordinary_2026,vrt,2026,647219000,,,budgeted,src_fwb_exp_part_dep_2026_medias,strong,Dual PSB ordinary: VRT 296.4 + RTBF ordinary 350.819 = 647.219m 2026
 bud_psb_dual_package_2026,vrt,2026,685662000,,,budgeted,src_fwb_exp_part_dep_2026_medias,medium,Dual PSB packages: VRT base 296.4 + RTBF full public 389.262 ~685.7m; not TE-additive
+bud_fwb_ep_prog3_cl_2026,fwb_education_permanente,2026,44604000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,DO23 prog3 Education permanente CL 44.604m 2026
+bud_fwb_ep_prog3_ce_2026,fwb_education_permanente,2026,30442000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,DO23 prog3 EP CE 30.442m 2026
+bud_fwb_ep_prog3_cl_2025,fwb_education_permanente,2025,44804000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,DO23 prog3 EP CL 44.804m 2025
+bud_fwb_ep_associations_cl_2026,fwb_education_permanente,2026,43037000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,Subventions associations reconnues decret 2003 CL 43.037m (CE 29.657m) ~96pct of EP
+bud_fwb_ep_associations_ce_2026,fwb_education_permanente,2026,29657000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,Associations reconnues CE 29.657m 2026
+bud_fwb_ep_formation_animateurs_2026,fwb_education_permanente,2026,365000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,Formation animateurs socio-culturels 0.365m
+bud_fwb_ep_projets_2026,fwb_education_permanente,2026,482000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,Projets EP alphabetisation creativite CL 0.482m
+bud_fwb_ep_loisirs_culturels_2026,fwb_education_permanente,2026,626000,,,budgeted,src_fwb_exp_part_dep_2026_ep,strong,Organisations loisirs culturels 0.626m
+bud_vl_scw_vek_2026_refresh,vl_scw,2026,83125000,,,budgeted,src_vl_bbt_cultuur_bo2026_scw,strong,SCW VEK 83.125m BO2026 refresh entity vl_scw
+bud_vl_scw_vak_2026_refresh,vl_scw,2026,83190000,,,budgeted,src_vl_bbt_cultuur_bo2026_scw,strong,SCW VAK 83.190m BO2026
+bud_popular_edu_dual_vl_fwb_2026,vl_scw,2026,127729000,,,budgeted,src_fwb_exp_part_dep_2026_ep,medium,Illustrative dual: VL SCW 83.125 + FWB EP CL 44.604 ~127.7m; not TE-additive; excludes formal EPA/VO and jeunesse
