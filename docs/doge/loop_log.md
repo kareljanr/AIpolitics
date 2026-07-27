@@ -1509,3 +1509,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: snapshot md; sources 3; budgets 5; cmt 1; lb 3; rq_151=done; FOI residual ready.
 - FOI: gap_police_zones_fed_top50 (federal+municipal matrix all zones) human send only.
 - Next: prio5 **rq_121** FOI-adjacent public hole-fill; **rq_116** SWA deferred (Oct–Dec).
+
+### 2026-07-28T03:20:00Z — tick 160
+- Unit: **rq_121** (FOI-adjacent hole-fill batch — NMBS 2025 + VDAB 2024)
+- Found:
+  - **NMBS 2025 (strong official):** EBITDA **EUR 54.2m** (was 131.6m) · economic debt **1.532bn** (was 2.146bn) · invest **>820m** (rolling **350** · stations **213** · digital **152** · workshops **89**) · ODC path hyp **−100m** vs 2025 contractual assumptions · rail sector savings demand **675m 2025-29** · staff **16,976** · passengers **207.8m** · punctuality **91.7%**.
+  - **VDAB 2024:** staff **4,761** (−230) strong JV · institutional total **962m** / VL dots **783m** medium (VP PQ premise; minister → jaarrekening) · PMO ~**160m** project means since 2019.
+  - FOREM 2024-26 RA and De Lijn full 2025-26 perimeter still not newly filled this tick.
+- Wrote: sources 3; budgets ~18; cmt 2; lb 3; FOI gaps nmbs/vdab notes partial; rq_121=done; seeded **rq_152**.
+- FOI: gap_nmbs / gap_vdab still **ready** residual human send; FOREM/De Lijn ready.
+- Next: prio5 **rq_152** · deferred **rq_116** SWA.

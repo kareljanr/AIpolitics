@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T02:55:00Z,rq_151,159,no,"Scheduler 60s. Next prio5 rq_121 FOI-adjacent hole-fill; rq_116 SWA deferred to Oct-Dec. FOI ready human send. rq_151 police zones done."
+main,continuous,hole_fill,2026-07-28T03:20:00Z,rq_121,160,no,"Scheduler 60s. Next prio5 rq_152 hole-fill FOREM/De Lijn/Antwerp; rq_116 SWA deferred. FOI ready human send. rq_121 NMBS+VDAB fill done."
