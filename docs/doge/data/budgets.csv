@@ -4322,3 +4322,32 @@ bud_issep_missions_2026,wallonie_gov,2026,23783000,,,budgeted,src_wal_do15_waste
 bud_vmm_class_2026,vmm,2026,131709000,,,budgeted,src_vl_bbt_omgeving_bo2026,medium,"VMM ISE Water class: lonen 74.150 + werking VAK 32.758 + invest VAK 24.801 = 131.709m (not dual-add TE)"
 bud_waste_dual_vl_wal_class_2026,ovam,2026,115759000,,,budgeted,src_vl_bbt_omgeving_bo2026,medium,"Illustrative dual waste: VL ISE Afval 105.9 + WAL 15.064 CL 9.859 = 115.759m; excludes SPAQuE remediation dual; not additive TE"
 bud_remediation_dual_ovam_spaque_2026,ovam,2026,65238000,,,budgeted,src_vl_bbt_omgeving_bo2026,medium,"Illustrative remediation dual: VL ISE Bodem 41.1 + SPAQuE 24.138 = 65.238m; not additive TE"
+bud_vl_ek_bo2026_vak,veka,2026,958573000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,strong,BBT Energie en Klimaat excl apparaatrek BO2026 VAK 958.573m (Rekenhof corrected from BBT 984.709m)
+bud_vl_ek_bo2026_vek,veka,2026,1104825000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,strong,BBT Energie en Klimaat excl apparaatrek BO2026 VEK 1104.825m
+bud_vl_ek_ba2025_vak,veka,2025,1612146000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,strong,BBT E&K BA2025 VAK 1612.146m excl apparaatrek
+bud_vl_ek_ba2025_vek,veka,2025,1744523000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,strong,BBT E&K BA2025 VEK 1744.523m excl apparaatrek
+bud_vl_ek_bo2026_to,veka,2026,436642000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,strong,BBT E&K BO2026 toegewezen ontvangsten TO 436.642m (Energiefonds+Klimaatfonds class)
+bud_vl_ek_bu2025_vak,veka,2025,1239576000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,BU2025 E&K policy credits VAK 1239.576m excl apparaatrek
+bud_vl_ek_bu2025_vek,veka,2025,1201859000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,BU2025 E&K policy credits VEK 1201.859m excl apparaatrek
+bud_vl_qe_energie_bu2025_vak,veka,2025,964831000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Prog QE Energie BU2025 VAK 964.831m
+bud_vl_qe_energie_bu2025_vek,veka,2025,914121000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Prog QE Energie BU2025 VEK 914.121m
+bud_vl_qh_klimaat_bu2025_vak,veka,2025,274745000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Prog QH Klimaat BU2025 VAK 274.745m
+bud_vl_qh_klimaat_bu2025_vek,veka,2025,287738000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Prog QH Klimaat BU2025 VEK 287.738m
+bud_vl_mvp_net_vak_2025,veka,2025,204000000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Mijn VerbouwPremie netbeheerdervergoedingen VAK 204m 2025 (VEK 212m class)
+bud_vl_energieleningen_2025,veka,2025,194000000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Vlaamse Energieleningen 194m VAK 2025 (MVL path)
+bud_vl_retro_invest_premies_2025,veka,2025,240600000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Retroactieve investeringspremies 240.6m VAK 2025
+bud_vl_reg_odv_other_2025,veka,2025,68200000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Netbeheerdervergoedingen overige REG-ODV 68.2m 2025
+bud_vl_wkk_odv_2025,veka,2025,60000000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,WKK certificate buyback ecological ODV 60m 2025
+bud_vl_call_groene_warmte_2025,veka,2025,18900000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Call Groene Warmte 18.9m 2025
+bud_vl_energiehuizen_2025,veka,2025,14800000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Energiehuizen ondersteuningsbudget 14.8m 2025
+bud_vl_energiefonds_toelage_2025,veka,2025,111900000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Interne stroom financieringstoelage Energiefonds 111.9m of 117.8m internal 2025
+bud_vl_icl_klimaat_2025,veka,2025,231630000,,,outturn,src_vl_bbt_energie_klimaat_bu2025,strong,Compensatie ICL-uitgaven klimaat regulier krediet 231.63m VAK 2025
+bud_wal_energie_16_083_ce_2026,spw_energie,2026,34395000,,,budgeted,src_wal_epne_energie_2026,strong,DO16 prog 16.083 Energie CE 34.395m 2026
+bud_wal_energie_16_083_cl_2026,spw_energie,2026,28360000,,,budgeted,src_wal_epne_energie_2026,strong,DO16 prog 16.083 Energie CL 28.360m 2026
+bud_wal_energie_16_083_ce_2025,spw_energie,2025,80512000,,,budgeted,src_wal_epne_energie_2026,strong,DO16 prog 16.083 Energie CE 80.512m 2025 ini
+bud_wal_energie_16_083_cl_2025,spw_energie,2025,74765000,,,budgeted,src_wal_epne_energie_2026,strong,DO16 prog 16.083 Energie CL 74.765m 2025 ini
+bud_wal_kyoto_15_074_2026,spw_energie,2026,158000000,,,budgeted,src_wal_epne_energie_2026,strong,Fonds wallon Kyoto 15.074 CE=CL 158m 2026 (was 200m 2025)
+bud_wal_fonds_energie_16_089_2026,spw_energie,2026,7986000,,,budgeted,src_wal_epne_energie_2026,strong,Fonds budgetaire Energie 16.089 CE=CL 7.986m 2026
+bud_awac_dep_2025,awac,2025,37376000,,,budgeted,src_wal_epne_energie_2026,strong,AWAC budget annex Art.90 depenses 37.376m recettes 17.471m (year class 2025 approved in BI2026)
+bud_wal_climate_intl_2026,wallonie_gov,2026,13000000,,,budgeted,src_wal_epne_energie_2026,strong,Financement climatique international 13m 2026 (same as 2025)
+bud_energy_dual_vl_wal_class_2026,veka,2026,1336205000,,,budgeted,src_vl_bbt_energie_klimaat_bo2026_rekenhof,medium,Illustrative dual E&K class: VL VEK 1104.825 + WAL 16.083 CL 28.360 + Kyoto 158 + Fonds Energie 7.986 + AWAC 37.376 ~1336m; not additive TE; Renopack housing excluded

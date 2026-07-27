@@ -3970,3 +3970,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3 (ovam, spaque, vmm); sources +1; budgets +13; cmt +1; lb +3; FOI **gap_waste_dual_ovam_spaque_l5** ready + draft; rq_345=done; spawn **rq_346**; ticks=354
 - FOI: OVAM/SPAQuE L5 sites+grants human send only
 - Next: prio5 **rq_346**; deferred **rq_116** SWA
+
+### 2026-07-31T16:15:00Z - tick 355
+- Unit: **rq_346** (FOI-adjacent hole-fill - **dual energy/climate VEKA Flanders + SPW Energie/Kyoto/AWAC Wallonia**)
+- Found (strong primary Rekenhof BBT E&K + BU2025 + EPNE 2026):
+  - Flanders BBT E&K BO2026 (Rekenhof-corrected excl apparaatrek): VAK **EUR 958.573m** · VEK **EUR 1,104.825m**; TO **EUR 436.642m**.
+  - BA2025: VAK **EUR 1,612.146m** · VEK **EUR 1,744.523m**.
+  - BU2025 outturn: total VAK **EUR 1,239.576m** · VEK **EUR 1,201.859m**; QE Energie VAK **964.831m** / VEK **914.121m**; QH Klimaat VAK **274.745m** / VEK **287.738m**.
+  - L5 BU2025: MVP net **EUR 204m** · Energieleningen **194m** · retro invest premies **240.6m** · REG-ODV other **68.2m** · WKK ODV **60m** · Call Groene Warmte **18.9m** · Energiehuizen **14.8m** · Energiefonds toelage **111.9m** · ICL klimaat **231.63m**.
+  - WAL EPNE: prog **16.083** Energie CE **EUR 34.395m** · CL **EUR 28.360m** 2026 (2025 CE 80.512 / CL 74.765); Kyoto **15.074** **EUR 158m**; Fonds Energie **16.089** **EUR 7.986m**; AWAC dep **EUR 37.376m**; climate intl **EUR 13m**.
+  - Dual energy-climate class **~EUR 1.34bn** (VL VEK + WAL 16.083 + Kyoto + Fonds E + AWAC; not TE-additive). Renopack housing CL **119.586m** excluded from dual.
+- Wrote: sources +3; entities +3 (veka spw_energie awac); budgets +28; cmt +1; lb +5; FOI **gap_energy_dual_veka_wal_l5** ready + draft; rq_346=done; spawn **rq_347**; ticks=355
+- FOI: MVP/ICL/retro L5 + Kyoto projects + AWAC path human send only
+- Next: prio5 **rq_347**; deferred **rq_116** SWA
