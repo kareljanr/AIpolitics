@@ -2670,3 +2670,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities PBA/CCR; budgets +15; cmt +1; lb +4; FOI gap_charleroi_subsidies_top20 updated; draft note; rq_240=done; spawn rq_241 progress@250 + rq_242; ticks=249
 - FOI: BI2026 named top20 human send
 - Next: **rq_241 progress@250 mandatory**; then rq_242; deferred **rq_116** SWA
+
+### 2026-07-29T12:00:00Z - tick 250 - progress coverage % + waste top10
+- Unit: **progress@250** (mandatory every-10-ticks; **rq_241**)
+- Coverage (order-of-magnitude vs EUR 347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~79-87%** (up from ~78-86% @240) — VL AJH 240m; FWB MDJ 30.1m + fed receipt 55.7m; equality dual/triple FWB 7.85 / VL GK 15.2 / WAL ~5.7m
+  - **D L5:** **~11-19%** still thin — Charleroi culture 3.33m + sport 1.34m; equality category L5; AF multi-caisse prior
+  - **E FOI ready:** **~87** (total FOI rows ~91)
+- Inventory: budgets ~2691; commitments ~460; leaderboard ~459; entities ~957 lines; sources ~501
+- Waste top10: **changed** — fossil 4e inventaire enters #2 (13.3bn), #4 accises 10.5bn, #6 company cars EHS 3.43bn, #7 mazout 1.86bn; cheque still #1 (8.83)
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_241=done
+- Next: prio5 **rq_242**; deferred **rq_116** SWA; human FOI send stack

@@ -20,39 +20,38 @@
 
 ---
 
-## Snapshot at **tick 240** (2026-07-29)
+## Snapshot at **tick 250** (2026-07-29)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~78–86%** (order of magnitude) | Up from ~74–82% @230: **COCOM SCR 2.04bn** + Iriscare 1.83bn; **COCOF ~0.70bn** + VGC exp 0.17bn; **VAPH 2.87bn** + **VSB 4.75bn** + **Opgroeien 7.61bn**; **AViQ dots 6.81bn**; Mons Ville 242m + CPAS 149m; residual SS bulk + many communes + L5 opacity |
-| **D. L5 named end-receivers** | **~10–18%** of TE (generous) | AF multi-caisse L5 (Famiwal/Parentia/Camille/KidsLife) + prior Antwerp culture/social; still thin vs TE; Phare/VAPH/AViQ operator L5 FOI |
-| **E. FOI-ready gaps** | **~77** drafts ready | Human send only — closes D when answered |
+| **C. L2 entity totals** | **~79–87%** (order of magnitude) | Up from ~78–86% @240: **VL AJH VAK 240m**; FWB MDJ DO18 **30.1m** + fed receipt **55.7m**; equality dual/triple FWB **7.85m** / VL GK **15.2m** / WAL core **~5.7m**; residual SS bulk + many communes + operator L5 opacity |
+| **D. L5 named end-receivers** | **~11–19%** of TE (generous) | Charleroi culture/sport sample **3.33m+1.34m**; equality category L5; prior AF multi-caisse + Antwerp; still thin vs TE |
+| **E. FOI-ready gaps** | **~87** drafts ready | Human send only — closes D when answered |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022 bench1) + FFS/company cars TE; cheque TE — waste map, **not cash TE**.
 
-### Inventory (tick 240)
+### Inventory (tick 250)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,537 |
-| commitments.csv | ~448 |
-| leaderboard.csv | ~427 |
-| entities.csv | ~946 |
-| sources.csv | ~504 |
-| FOI ready | ~77 |
-| FOI total rows | ~81 |
-| research_queue | ~232 (open: rq_116 deferred + rq_232) |
+| budgets.csv | ~2,691 |
+| commitments.csv | ~460 |
+| leaderboard.csv | ~459 |
+| entities.csv | ~957 lines (class; multi-line fields) |
+| sources.csv | ~501 |
+| FOI ready | ~87 |
+| FOI total rows | ~91 |
+| research_queue | ~242 (open: rq_116 deferred + rq_242) |
 
-### What improved since tick 230
+### What improved since tick 240
 
-- **Mons stack:** Ville MB1 ord **241.8m** + extra **63.2m**; CPAS **149.4m**; IDEA **441m** bilan; HYGEA **7.76m** (totals filled; ASBL L5 residual FOI).  
-- **Brussels dual commissions:** **COCOM SCR 2.04bn** + Iriscare **1.83bn** (AF 1.08bn); **COCOF decret+regl ~702m** (Phare **210m**); **VGC exp 173.6m** 2025.  
-- **Flanders WVG IVAs:** **VAPH VEK 2.87bn** dual Phare; **VSB 4.75bn**; **Opgroeien regie 7.61bn**.  
-- **Wallonie AViQ:** pure regional dots **~6.81bn** (AF **3.01bn** inside); inexec 2024 **317m**.  
-- **AF payment duals:** WAL 4-CAF prest **3.01bn** (Famiwal **1.08bn** public); VL **Groeipakket ~4.7bn** 2025 awards + VUTG admin **42.6m**; BRU Iriscare AF **1.08bn** — triple map (do not sum years).  
-- FOI stack +6 ready (COCOM OAA, COCOF/VGC L5, VAPH PVB, AViQ branch, WAL CAF unit cost, VL GP BO line).  
+- **Justice dual:** FWB MDJ DO18 **30.1m** + art.47/10 receipt **55.7m**; VL AJH full **240.0m** VAK (lonen **164.9m**) + federal JH receipt **90.4m** — dual not additive.  
+- **Equality dual/triple:** FWB pack CL **7.85m** (Unia **0.369m**); VL GK werkings **15.16m**; WAL violences **3.54m** + core sample **~5.7m liq**.  
+- **Fossil taxex map (off-TE):** 4e inventaire direct **13.27 bn** 2022; accises **10.5 bn**; company cars EHS **3.43 bn**.  
+- **Local L5:** Charleroi BI2024 PBA **1.34m** + culture sample **3.33m** + sport **1.34m**; BI2026 pox **−0.5m**.  
+- FOI stack +~10 ready (AJH partners, MDJ personnel, DG Justizhaus, FWB/WAL egalite L5, fossil 2023-24, Charleroi BI2026 named).  
 
 ---
 
@@ -72,7 +71,8 @@
 | 210 | 100% | 100% | ~70–78% | ~8–15% | ~71 | Fedasil+MDK+Antwerp L5+PZA+CAW |
 | 220 | 100% | 100% | ~72–80% | ~8–16% | ~71 | Antwerp AGB mega stack ~631m |
 | 230 | 100% | 100% | ~74–82% | ~9–17% | ~71 | Digipolis 246m + culture 16/16 + social ~32m |
-| **240** | **100%** | **100%** | **~78–86%** | **~10–18%** | **~77** | **Current** (WVG IVAs + AViQ + AF duals + COCOM/COCOF/VGC) |
+| 240 | 100% | 100% | ~78–86% | ~10–18% | ~77 | WVG IVAs + AViQ + AF duals + COCOM/COCOF/VGC |
+| **250** | **100%** | **100%** | **~79–87%** | **~11–19%** | **~87** | **Current** (AJH dual justice + equality triple + fossil off-TE + Charleroi L5) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 
