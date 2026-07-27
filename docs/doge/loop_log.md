@@ -2072,3 +2072,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; budgets 6; cmt 1; lb 1; FOI **gap_nmbs_consol_vs_statutory** ready; rq_194=done; seeded **rq_195**.
 - FOI: toelage cash + consol recon human send only; Antwerp/Mons still residual.
 - Next: **tick 200 progress coverage % + waste top10** then prio5 **rq_195**; deferred **rq_116** SWA.
+### 2026-07-28T16:45:00Z - tick 200 ? progress coverage % + waste top10
+- Unit: **progress@200** (mandatory every-10-ticks refresh; no new research unit)
+- Coverage (order-of-magnitude vs ?347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~68?76%** (up from ~62?70% @190) ? PMV, ports POAB/NSP, Liege Airport, WE 5bn, DVW+AWV GIP, Lantis+DWV, Infrabel+NMBS
+  - **D L5:** **~7?14%** still thin structural
+  - **E FOI ready:** **~68** (total FOI rows ~72)
+- Inventory: budgets ~2151 · commitments ~349 · leaderboard ~315 · entities ~135 · sources ~414
+- Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? gas product ~7.98 class); new SOE L2 not pure-waste top
+- Wrote: `progress_every_10_ticks.md`, `doge_waste_top10_current.md`, loop_state, loop_log
+- Next: prio5 **rq_195** (Antwerp/Mons/MDK/Enabel hole-fill); deferred **rq_116** SWA

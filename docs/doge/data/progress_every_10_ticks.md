@@ -20,36 +20,40 @@
 
 ---
 
-## Snapshot at **tick 190** (2026-07-28)
+## Snapshot at **tick 200** (2026-07-28)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge ~€149 bn if double-counted |
-| **C. L2 entity totals** | **~62–70%** (order of magnitude) | Strong: VL/WAL/FWB/BRU, PES, unis, grids, **full dual water**, **energy TSO dual Elia+Fluxys**, **SFPIM 11.7bn**, **BIO**, **BAC+BSCA+SOWAER airports**, **Credendo ECA**, **skeyes ANS**, defence, ODA; residual SS bulk + many local + Port authority P&L |
-| **D. L5 named end-receivers** | **~6–13%** of TE (generous) | Named L5 + packages; **not** near-complete |
-| **E. FOI-ready gaps** | **~60** drafts ready | Human send only — closes D when answered |
+| **C. L2 entity totals** | **~68–76%** (order of magnitude) | Strong: prior + **PMV**, **POAB+NSP ports**, **Liege Airport**, **Wallonie Entreprendre ~5bn**, **DVW+AWV GIP**, **Lantis+DWV**, **Infrabel+NMBS** dual rail; residual SS bulk + many local ASBL + Antwerp/Mons registers |
+| **D. L5 named end-receivers** | **~7–14%** of TE (generous) | Named L5 + packages; **not** near-complete |
+| **E. FOI-ready gaps** | **~68** drafts ready | Human send only — closes D when answered |
 
 **Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; FFS direct ~**€10.8 bn**; company cars TE ~**€3–5 bn** depending method — important waste map but **revenue foregone / opportunity cost**, not cash TE.
 
-### Inventory (tick 190)
+### Inventory (tick 200)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~2,042 |
-| commitments.csv | ~337 |
-| leaderboard.csv | ~296 |
-| FOI ready | ~60 |
+| budgets.csv | ~2,151 |
+| commitments.csv | ~349 |
+| leaderboard.csv | ~315 |
+| entities.csv | ~135 |
+| sources.csv | ~414 |
+| FOI ready | ~68 |
+| FOI total rows | ~72 |
+| research_queue | ~195 (open: 2) |
 
-### What improved since tick 180
+### What improved since tick 190
 
-- **Fluxys** gas TSO rev 650m CAPEX 262m dual Elia  
-- **SFPIM** federal holding assets **11.7bn** equity 11.4bn  
-- **BIO** DFI assets 1.2bn approvals 235m dual Enabel/DGD  
-- **Brussels Airport** rev 828m CAPEX 302m SFPIM 25%  
-- **BSCA Charleroi** 127m dual BAC; **SOWAER** comptes assets 492m public fill  
-- **Credendo** ECA assets 3.92bn GWP 481m cover 33bn class  
-- **skeyes** ANS omzet 335m COVID loan 110m dual airports  
+- **PMV** Flanders holding managed **1.94bn** dual SFPIM  
+- **Port of Antwerp-Bruges** omzet **~501–507m** dual **North Sea Port** 115m  
+- **Liege Airport** omzet **65m** + WAL subsidies **~31m**/yr dual BSCA  
+- **Wallonie Entreprendre** equity **~5bn** invest **613m** dual PMV/SFPIM  
+- **DVW** equity **3.2bn** + **AWV GIP ~708m** dual SOFICO; MOW GIP **~2.5bn**  
+- **Lantis** equity **828m** + **De Werkvennootschap** omzet **143m** Oosterweel stack  
+- **Infrabel** omzet **1.4bn** equity **20bn** + **NMBS** statutory **2.6bn** / equity **8bn** dual rail  
 
 ---
 
@@ -64,7 +68,8 @@
 | 160 | 100% | 100% | ~58% | ~8–11% | ~52 | NMBS JV hole-fill |
 | 170 | 100% | 100% | ~60% | ~8–12% | ~55 | Elia energy stack |
 | 180 | 100% | 100% | ~60–68% | ~8–12% | ~55 | VL water stack |
-| **190** | **100%** | **100%** | **~62–70%** | **~6–13%** | **~60** | **Current** (SFPIM+airports+Credendo+skeyes+SOWAER) |
+| 190 | 100% | 100% | ~62–70% | ~6–13% | ~60 | SFPIM+airports+Credendo |
+| **200** | **100%** | **100%** | **~68–76%** | **~7–14%** | **~68** | **Current** (holdings+ports+rail dual) |
 
 *(L2/L5 % are **expert order-of-magnitude** from primary anchors — not a false-precision audit identity.)*
 

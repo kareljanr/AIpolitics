@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T16:25:00Z,rq_194,199,no,"Scheduler 60s. Next tick200 progress % + rq_195; rq_116 SWA deferred. FOI ready human send. tick199 NMBS omzet 2.6bn equity 8bn dual Infrabel; gap_nmbs_consol_vs_statutory ready."
+main,continuous,hole_fill,2026-07-28T16:45:00Z,progress_t200,200,no,"Scheduler 60s. Next prio5 rq_195; rq_116 SWA deferred. FOI ready ~68 human send. tick200 progress L2 ~68-76% L5 ~7-14% n_lb=315 n_bud~2151."
