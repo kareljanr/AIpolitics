@@ -2083,3 +2083,15 @@ Append-only. Each tick adds a short entry.
 - Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? gas product ~7.98 class); new SOE L2 not pure-waste top
 - Wrote: `progress_every_10_ticks.md`, `doge_waste_top10_current.md`, loop_state, loop_log
 - Next: prio5 **rq_195** (Antwerp/Mons/MDK/Enabel hole-fill); deferred **rq_116** SWA
+### 2026-07-28T17:05:00Z - tick 201
+- Unit: **rq_195** (FOI-adjacent hole-fill - **Enabel** dual BIO)
+- Found (strong primary AR 2024-25 finances + medium-strong NBB multi-year):
+  - **Turnover EUR 329.2m 2024 / 407.1m 2025**; op. revenue **357.1m** 2024.
+  - **Assets 221.9m 2024** (275.8m 2023); **equity ~20.1m** (thin agency model).
+  - Result near-zero (**-0.30m 2024 / -0.07m 2025**); staff costs **80.2m**; FTE **~579**.
+  - **EU contracts signed 219m** (28) + new partners **72m** in 2024.
+  - Seven country programmes launched 2024 multi-year envelopes sum **~349m** class.
+  - Dual map: **Enabel implementation** + **BIO DFI** (assets 1.2bn prior).
+- Wrote: sources 2; entity 1; budgets 8; cmt 1; lb 1; FOI **gap_enabel_dgd_l5** ready; rq_195=done; seeded **rq_196**.
+- FOI: DGD cash + project L5 human send only; Antwerp register / Mons BI2026 still residual.
+- Next: prio5 **rq_196**; deferred **rq_116** SWA.

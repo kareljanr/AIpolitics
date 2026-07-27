@@ -2151,3 +2151,11 @@ bud_nmbs_net_2025,nmbs,2025,10813925,,,outturn,src_nmbs_companyweb_nbb,medium-st
 bud_nmbs_net_2024,nmbs,2024,53085911,,,outturn,src_nmbs_companyweb_nbb,medium-strong,Statutory net 2024 53.1m
 bud_nmbs_equity_2025,nmbs,2025,8054100819,,,stock,src_nmbs_companyweb_nbb,medium-strong,Eigen vermogen EOY 2025 ~8.05bn
 bud_nmbs_equity_2024,nmbs,2024,7719302672,,,stock,src_nmbs_companyweb_nbb,medium-strong,Eigen vermogen EOY 2024 ~7.72bn
+bud_enabel_omzet_2025,enabel,2025,407097008,,,outturn,src_enabel_companyweb_nbb,medium-strong,Statutory omzet 2025
+bud_enabel_omzet_2024,enabel,2024,329159608,,,outturn,src_enabel_ar_2024_25_finances,strong,AR turnover matches Companyweb
+bud_enabel_op_rev_2024,enabel,2024,357089576,,,outturn,src_enabel_ar_2024_25_finances,strong,Operating revenue incl other activities
+bud_enabel_assets_2024,enabel,2024,221899107,,,stock,src_enabel_ar_2024_25_finances,strong,Total assets EOY 2024
+bud_enabel_equity_2024,enabel,2024,20134329,,,stock,src_enabel_ar_2024_25_finances,strong,Equity thin agency model
+bud_enabel_staff_2024,enabel,2024,80167734,,,outturn,src_enabel_ar_2024_25_finances,strong,Staff costs 80.2m 2024
+bud_enabel_eu_signed_2024,enabel,2024,219000000,,,commitment,src_enabel_ar_2024_25_finances,strong,28 EU contracts signed 219m 2024
+bud_enabel_country_prog_2024_launch,enabel,2024,349000000,,,commitment,src_enabel_ar_2024_25_finances,strong,Seven country programmes multi-year envelopes sum 349m launched 2024
