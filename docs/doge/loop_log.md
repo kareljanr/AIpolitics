@@ -4500,3 +4500,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +68; cmt +1; lb +7; entity; FOI **gap_lpm_contract_cash_2026_34** ready prio7; rq_385=done; spawn **rq_386**; ticks=394
 - FOI: signed contract cash-by-year human send only
 - Next: prio5 **rq_386**; deferred **rq_116** SWA
+
+### 2026-08-01T12:15:00Z - tick 395
+- Unit: **rq_386** (FOI-adjacent hole-fill - **federal non-fiscal receipts L5 + liq 92bn + ETS blocked 1.8bn + EPF dual + ET prefin 40.7m**)
+- Found (strong primary CoA Budget 2026):
+  - Federal **liquidation credits 92.0bn** 2026 (vs 89.5bn 2025 excl IMF); cells appui **4.2** - autorite **22.7** - eco **6.6** - sociale **34.5** - specific **24.0**
+  - Deltas: EU +**1.2bn** - F-35/drone FX +**321m** - 6th reform dots +**228.1m** - Infrabel credit +**100m** - SFPIM Defence +**144m**
+  - Non-fiscal **6,470m** (financing **5,850m**): Belfius div **915** (415+500) - customs retention **784.5** - CDC exceptional **475** - demat **177.3** - Fluxys **100** - nuclear decom **100**
+  - **ETS blocked 1.8bn** SPF Sante waiting account; federal receipts 65.8->38.8m; climate spend only **8m** (Kyoto 6 + Mobility 2)
+  - **bpost overcomp claim 89.2m** budgeted since 2024 **never cashed**
+  - EPF BE est **177m** (mil12+nonmil165) vs AE 14.8 + Def 8.2 + Ukraine prov 120; possible gap **34m**
+  - Electronic monitoring prefin **40.7m** 2025-27 (VL 23.8 - FWB 16.8 - DG 0.07)
+  - DGD liq **1,040.3m** 2026 path 957 2027; FAD17 vol **64.2m**/10y
+  - Employer SSC new statutaires 10m 2026 path 284/365; Defence 3.7->297.3 by 2034
+- Wrote: sources +2; budgets +57; cmt +4; lb +8; entities +2; FOI **gap_ets_blocked_kyoto_l5** + **gap_bpost_overcomp_claim_89m** ready; rq_386=done; spawn **rq_387**; ticks=395
+- FOI: ETS 1.8bn unlock + ranking human send; bpost claim legal report human send only
+- Next: prio5 **rq_387**; deferred **rq_116** SWA

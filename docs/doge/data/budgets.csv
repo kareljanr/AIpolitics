@@ -5344,3 +5344,60 @@ bud_lpm_dirs_complement_2032,mod_defensie,2032,50000000,,,budgeted,src_kamer_56k
 bud_lpm_dirs_complement_2033,mod_defensie,2033,50000000,,,budgeted,src_kamer_56k1143_lpm_2026_2034,strong,DIRS industrial base complement 50m const 2026 (art.14: 3pct defence budget + complement)
 bud_lpm_dirs_complement_2034,mod_defensie,2034,49000000,,,budgeted,src_kamer_56k1143_lpm_2026_2034,strong,DIRS industrial base complement 49m const 2026 (art.14: 3pct defence budget + complement)
 bud_lpm_mapped_packages_sum,mod_defensie,2026,27129140000,,,budgeted,src_kamer_56k1143_lpm_2026_2034,strong,Sum of extracted annex II named packages 27129.14m of 33784 total (residual RPAS/SOF/refuel/maritime C2/medical etc in law)
+bud_fed_liq_total_2026,sec_federal,2026,92000000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Federal liquidation credits total 92.0bn 2026 (BOSA/CoA table)
+bud_fed_liq_total_2025,sec_federal,2025,89500000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Federal liquidation credits 89.5bn 2025 (excl IMF quota one-off 2.9bn path)
+bud_fed_liq_appui_2026,sec_federal,2026,4200000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Cellule appui liq 4.2bn 2026 (+0.4)
+bud_fed_liq_autorite_2026,sec_federal,2026,22700000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Cellule autorite liq 22.7bn 2026 (+0.2)
+bud_fed_liq_eco_2026,sec_federal,2026,6600000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Cellule economique liq 6.6bn 2026 (+0.2)
+bud_fed_liq_sociale_2026,sec_federal,2026,34500000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Cellule sociale liq 34.5bn 2026 (-0.1)
+bud_fed_liq_specific_2026,sec_federal,2026,24000000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Sections budgetaires specifiques liq 24.0bn 2026 (+1.8; EU+Defence FX+community dots)
+bud_fed_eu_financing_delta_2026,sec_federal,2026,1200000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,EU financing contribution increase +1.2bn in specific sections 2026 (largest single delta)
+bud_fed_f35_drone_fx_2026,mod_defensie,2026,321000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Defence FX cover F-35 + MALE drones +321m 2026
+bud_fed_6th_reform_dots_delta_2026,sec_federal,2026,228100000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Community dotations 6th state reform +228.1m 2026
+bud_fed_infrabel_creditline_delta_2026,infrabel,2026,100000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,Infrabel investment plan credit line +100m 2026 (SEC code 8; dual NMBS)
+bud_sfpim_defence_capital_2026,sfpim,2026,144000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,SFPIM Defence capital inject +144m 2026 (appui cell)
+bud_nonfiscal_total_2026,sec_federal,2026,6470000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Non-fiscal receipts voies et moyens 6470m 2026 (-48m vs 2025 update)
+bud_nonfiscal_financing_2026,sec_federal,2026,5850000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Non-fiscal receipts with federal financing balance impact 5850m 2026 (-1121m vs 2025)
+bud_belfius_dividend_2026,sec_federal,2026,915000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Belfius dividend path 915m 2026 (ordinary 415 + exceptional 500; BCE condition on exceptional)
+bud_belfius_div_ordinary_2026,sec_federal,2026,415000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Belfius ordinary dividend 415m 2026
+bud_belfius_div_exceptional_2026,sec_federal,2026,500000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,Belfius exceptional dividend 500m 2026 (BCE approval required; high payout ratio)
+bud_nuclear_decom_contrib_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Energy sector nuclear decommissioning contribution 100m 2026 (last pre-LTO; Doel1-2 20m ends)
+bud_fluxys_energy_norm_rec_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,Fluxys exceptional receipt 100m 2026 for energy norm (path 100m x3 2026-28)
+bud_customs_retention_2026,fod_finance,2026,784500000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,EU customs collection retention 25pct est 784.5m 2026 (CoA: understated vs 864.3m 2025 path)
+bud_bpost_overcomp_claim_2026,bpost,2026,89200000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,weak,bpost overcompensation claim receipt 89.2m budgeted 2026 (never cash since 2024; legal report pending)
+bud_ets_federal_vm_2026,sec_federal,2026,65800000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,Federal EU ETS1 recettes voies et moyens initial 65.8m 2026 (key from expired coop; updated est 38.8m)
+bud_ets_federal_updated_2026,sec_federal,2026,38800000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Updated federal ETS receipts est 38.8m 2026 (price drop; dual initial 65.8)
+bud_ets_blocked_account,sec_federal,2026,1800000000,,,stock,src_ccrek_budget2026_nonfiscal_liq,strong,EUR 1.8bn ETS auction proceeds blocked on SPF Sante waiting account (no 2023-30 coop agreement)
+bud_umts_licenses_2026,sec_federal,2026,58800000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,UMTS license sale receipts 58.8m 2026 (federal share opaque without coop agreement)
+bud_cdc_demat_2026,sec_federal,2026,177300000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,CDC dematerialised bearer securities residual to State 177.3m 2026 (law 14 Dec 2005; missing from V&M tables per CoA)
+bud_cdc_exceptional_2026,sec_federal,2026,475000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,CDC exceptional package 475m 2026 (dormant 417 + threshold 19.5 + missing 4 + unsold titles 26; legal bases incomplete; -12.9m spend offset)
+bud_cdc_exceptional_2027,sec_federal,2027,70400000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,CDC exceptional residual path 70.4m 2027
+bud_cdc_local_loans_stock,cdc,2026,139200000,,,stock,src_ccrek_budget2026_nonfiscal_liq,strong,CDC loans to local admins stock 139.2m (off-budget principal; interest only in V&M 4.1m)
+bud_cdc_local_interest_2026,cdc,2026,4100000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,strong,CDC local loan interest receipts 4.1m 2026
+bud_detainee_contrib_2026,fod_justice,2026,5000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,weak,Detainee contribution to detention costs 5m 2026 (draft law; tariff unknown)
+bud_personnel_partial_replace_save_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,Partial staff replacement savings target 100m 2026 (path to 175m 2030; excl regalian)
+bud_patronale_statutaires_2026,sec_federal,2026,10000000,,,budgeted,src_ccrek_budget2026_nonfiscal_liq,medium,New employer SSC on post-31May2026 statutaires 10m 2026 (rate 9.5pct; path 284m 2029 / 365m 2030)
+bud_epf_affaires_2026,fod_affaires_etrangeres,2026,14800000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,EPF non-military AB 14.53.11.35.10.01 14.8m 2026 (Affaires etrangeres)
+bud_epf_defence_mil_2026,mod_defensie,2026,8200000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,EPF military credit Defence 8.2m 2026
+bud_epf_be_estimate_total,sec_federal,2026,177000000,,,estimate,src_ccrek_budget2026_epf_kyoto_et,medium,EPF estimated Belgian contribution 177m (mil 12 + non-mil 165); dual budget lines + Ukraine 120m provision
+bud_epf_be_mil_est,mod_defensie,2026,12000000,,,estimate,src_ccrek_budget2026_epf_kyoto_et,medium,EPF military BE estimate 12m vs budget 8.2m
+bud_epf_be_nonmil_est,fod_affaires_etrangeres,2026,165000000,,,estimate,src_ccrek_budget2026_epf_kyoto_et,medium,EPF non-military BE estimate 165m vs AE 14.8 + Ukraine provision 120
+bud_kyoto_spend_2026,sec_federal,2026,8000000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,Federal climate spend from ETS: Kyoto fund 6m + Mobility 2m = 8m 2026 (vs receipts 38.8-65.8m)
+bud_kyoto_fund_prog_2026,sec_federal,2026,6000000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,Prog 25.55.2 Fonds Kyoto 6m 2026 (structural via programme law Title 10)
+bud_kyoto_mobility_prov_2026,fod_mobiliteit,2026,2000000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,medium,SPF Mobilite provisional climate 2m 2026 (still to allocate across 3 programmes)
+bud_kyoto_path_2027,sec_federal,2027,13000000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,medium,Climate programme law spend path 13m 2027
+bud_kyoto_path_2028,sec_federal,2028,28000000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,medium,Climate programme law spend path 28m 2028
+bud_kyoto_path_2029,sec_federal,2029,28000000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,medium,Climate programme law spend path 28m 2029
+bud_elec_monitor_prefin_total,sec_federal,2026,40700000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,Electronic monitoring prefinancing communities total 40.7m 2025-2027 (protocol 28 Aug 2025)
+bud_elec_monitor_prefin_2025,sec_federal,2025,5200000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,ET prefinancing 5.2m 2025 (VL 3.3 FWB 1.9 DG 0.01)
+bud_elec_monitor_prefin_2026,sec_federal,2026,18300000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,ET prefinancing 18.3m 2026 (VL 10.8 FWB 7.4 DG 0.05)
+bud_elec_monitor_prefin_2027,sec_federal,2027,17200000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,ET prefinancing 17.2m 2027 (VL 9.7 FWB 7.5 DG 0.01)
+bud_elec_monitor_prefin_vl,vl_justitiehuizen,2026,23800000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,VL electronic monitoring prefin total 23.8m 2025-27 (dual FWB/DG)
+bud_elec_monitor_prefin_fwb,fwb_maisons_justice,2026,16800000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,FWB electronic monitoring prefin total 16.8m 2025-27
+bud_elec_monitor_prefin_dg,dg_justizhaus,2026,70000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,DG electronic monitoring prefin total 0.07m 2025-27
+bud_dgd_liq_2026_coa,dgd,2026,1040300000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,DGD liquidation credits DO 14.54 1040.3m 2026 (-89m YoY; path 957m 2027 = -25pct vs mon July2024)
+bud_dgd_fad17_vol_2026,dgd,2026,64200000,,,budgeted,src_ccrek_budget2026_epf_kyoto_et,strong,FAD 17th replenishment voluntary BE 64.2m eng 2026 paid over 10y (forgo 6m 3y early-pay discount)
+bud_justice_patronale_impact_2026,fod_justice,2026,3300000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Justice employer SSC impact 3.3m 2026 (~61 FTE) if statutaire replacement
+bud_justice_patronale_impact_2029,fod_justice,2029,101000000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Justice employer SSC impact 101m by 2029 (~1859 FTE incl 622 judiciary)
+bud_defence_patronale_2026,mod_defensie,2026,3700000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Defence employer SSC on new statutaires 3.7m 2026 (path 297.3m 2034)
+bud_defence_patronale_2034,mod_defensie,2034,297300000,,,estimate,src_ccrek_budget2026_nonfiscal_liq,medium,Defence employer SSC path 297.3m 2034 (not in LPM wage bill)
