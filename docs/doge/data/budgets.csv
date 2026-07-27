@@ -1113,3 +1113,23 @@ bud_vrt_costs_2025,vrt,2025,533100000,,,outturn,src_vrt_jv2025_fin_html,strong,T
 bud_vrt_ext_prod_2025,vrt,2025,122300000,,,outturn,src_vrt_jv2025_fin_html,strong,External production+facilities invest 2025 (~25pct of income)
 bud_vrt_basistoelage_2025,vrt,2025,258393000,,,budgeted,src_vl_vrt_basistoelage_pq130,strong,Basistoelage 2025 component only (not full gov package)
 bud_vrt_basistoelage_2026,vrt,2026,296400000,,,budgeted,src_vl_vrt_basistoelage_pq130,strong,Basistoelage 2026 BHO 2026-2030
+bud_actiris_budget_final_2024,actiris,2024,767506000,,,budgeted,src_actiris_ra_2024,strong,Budget final total 2024 RA
+bud_actiris_exp_realized_2024,actiris,2024,729735605.38,,,outturn,src_actiris_ra_2024,strong,Total depenses realisees 2024 (95.08pct execution)
+bud_actiris_receipts_realized_2024,actiris,2024,753574458.43,,,outturn,src_actiris_ra_2024,strong,Recettes realisees 2024 (98pct of 767.5m budget)
+bud_actiris_functioning_2024,actiris,2024,167894145.47,,,outturn,src_actiris_ra_2024,strong,Frais de fonctionnement realize 167.9m (budget 178.6m 23pct)
+bud_actiris_cheques_2024,actiris,2024,6751615.70,,,outturn,src_actiris_ra_2024,strong,Cheques chercheurs d emploi realize
+bud_actiris_partnerships_2024,actiris,2024,57709078.40,,,outturn,src_actiris_ra_2024,strong,Partenariats marche emploi realize 57.7m
+bud_actiris_secteurs_ref_2024,actiris,2024,4863102.86,,,outturn,src_actiris_ra_2024,strong,Conventions secteurs professionnels centres reference
+bud_actiris_acs_2024,actiris,2024,200852843.82,,,outturn,src_actiris_ra_2024,strong,Postes travail subventionnes ACS realize 200.9m (largest L5 27.5pct)
+bud_actiris_ptp_2024,actiris,2024,1794097.19,,,outturn,src_actiris_ra_2024,strong,Placement infrascolarisés PTP
+bud_actiris_jeunes_2024,actiris,2024,8808945.20,,,outturn,src_actiris_ra_2024,strong,Emploi des jeunes initiatives transversales
+bud_actiris_discrim_2024,actiris,2024,566665.86,,,outturn,src_actiris_ra_2024,strong,Lutte discrimination embauche
+bud_actiris_6th_reform_2024,actiris,2024,225018303.81,,,outturn,src_actiris_ra_2024,strong,6ieme Reforme de l Etat realize 225.0m (30.8pct largest block)
+bud_actiris_garantie_jeunes_2024,actiris,2024,7144229.36,,,outturn,src_actiris_ra_2024,strong,Garantie Jeunes
+bud_actiris_contrats_insertion_2024,actiris,2024,7330236.45,,,outturn,src_actiris_ra_2024,strong,Contrats d insertion
+bud_actiris_reforme_aide_2024,actiris,2024,4669212.31,,,outturn,src_actiris_ra_2024,strong,Reforme aide a l emploi (low execution 61.9pct)
+bud_actiris_eco_sociale_2024,actiris,2024,34481645.16,,,outturn,src_actiris_ra_2024,strong,Economie sociale realize 34.5m
+bud_actiris_relance_2024,actiris,2024,464000,,,outturn,src_actiris_ra_2024,strong,Plan de relance
+bud_actiris_ukraine_2024,actiris,2024,377853.99,,,outturn,src_actiris_ra_2024,strong,Crise Ukraine
+bud_actiris_nonmarchand_2024,actiris,2024,1000000,,,outturn,src_actiris_ra_2024,strong,Accord non-marchand 2021-2024
+bud_actiris_bru_prog_2026,actiris,2026,648113000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,BCR SGRBC programme line Actiris 648.1m 2026 (regional transfer perimeter not full institutional)

@@ -1346,3 +1346,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 5; budgets 27; cmt_vrt_public_package; lb_vrt; rq_136=done; FOI residual ready.
 - FOI: gap_vrt_side_envelopes (2024-26 L5 matrix + BBT codes) human send.
 - Next: prio6 **rq_134 Actiris** / **rq_140 hospitals** / **rq_120 Myria**.
+
+### 2026-07-27T22:30:00Z ? tick 147
+- Unit: **rq_134** (Actiris L5 named programmes beyond total)
+- Found (strong Actiris Rapport annuel 2024 Budget table):
+  - **Budget final 2024: EUR 767.506m** · **exp realized EUR 729.736m** (95.1%) · recettes **753.574m**.
+  - **Top L5 realized:** 6e reforme **EUR 225.0m** (30.8%) · **ACS jobs EUR 200.9m** (27.5%) · functioning **EUR 167.9m** (23.0%) · partnerships **EUR 57.7m** · economie sociale **EUR 34.5m**.
+  - Other named: jeunes 8.8 · contrats insertion 7.3 · Garantie Jeunes 7.1 · cheques 6.8 · reforme aide 4.7 · secteurs ref 4.9.
+  - Staff end-2024: **1,518 persons / 1,291 ETP**; DEI avg **91,628**.
+  - Perimeter note: institutional ~730m vs BCR SGRBC programme line **648.1m 2026** (CoA) ? not same scope.
+- Wrote: source 1; budgets 20; cmt_actiris_l5_2024; lb ACS + 6th reform; rq_134=done; FOI residual ready.
+- FOI: gap_actiris_2025_26_l5 human send.
+- Next: prio6 **rq_140 hospitals** / **rq_141 universities** / **rq_120 Myria**.
