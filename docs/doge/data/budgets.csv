@@ -2301,3 +2301,15 @@ bud_cia_geletterde_2026,city_antwerpen,2026,1421600,,,budgeted,src_ebesluit_cia_
 bud_energie_werk_locked_2026,city_antwerpen,2026,591520.40,,,budgeted,src_ebesluit_energie_2026,strong,AG Energiebesparingsfonds werk locked 0.592m 2026
 bud_antwerp_agb_batch_feb_2026,city_antwerpen,2026,14537636.51,,,budgeted,src_ebesluit_vespa_2026,strong,Feb batch VESPA+CIA+Energie locked sum 14.538m 2026
 bud_antwerp_agb_mega_stack_refresh_2026,city_antwerpen,2026,604168215.02,,,budgeted,src_ebesluit_vespa_2026,strong,Mega stack +VESPA+CIA+Energie ~604.2m (prior 589.6 + 14.5)
+bud_integratie_package_locked_2026,city_antwerpen,2026,25825641.34,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie en Inburgering package locked 25.826m 2026 (werk 24.733 + invest 1.093)
+bud_integratie_werk_locked_2026,city_antwerpen,2026,24732595.37,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie werk locked 24.733m 2026 (alg 24.426 + werving 0.307)
+bud_integratie_werk_algemeen_2026,city_antwerpen,2026,24425668.27,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie algemene werking locked 24.426m after index+not-locked withholds
+bud_integratie_werk_mjp_2026,city_antwerpen,2026,24627428.90,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie MJP algemene werking 24.627m before withholds
+bud_integratie_werving_2026,city_antwerpen,2026,306927.10,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie werving intake begeleiding 0.307m 2026
+bud_integratie_invest_2026,city_antwerpen,2026,1093045.97,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie invest 1.093m 2026 (alg 1.076 + cyber 0.017)
+bud_beschut_package_locked_2026,city_antwerpen,2026,969836.50,,,budgeted,src_ebesluit_beschut_wonen_2026,strong,Beschut Wonen werk locked 0.970m 2026
+bud_beschut_psych_2026,city_antwerpen,2026,651912.50,,,budgeted,src_ebesluit_beschut_wonen_2026,strong,Beschut Wonen psychische kwetsbaarheid locked 0.652m 2026
+bud_beschut_risk_2026,city_antwerpen,2026,163924,,,budgeted,src_ebesluit_beschut_wonen_2026,strong,Beschut Wonen risicopersonen 0.164m 2026
+bud_beschut_homeless_prev_2026,city_antwerpen,2026,154000,,,budgeted,src_ebesluit_beschut_wonen_2026,strong,Beschut Wonen dakloosheid preventie 0.154m 2026
+bud_antwerp_social_integration_batch_2026,city_antwerpen,2026,26795477.84,,,budgeted,src_ebesluit_integratie_2026,strong,Integratie+Beschut locked sum 26.796m 2026
+bud_antwerp_agb_mega_stack_with_integratie_2026,city_antwerpen,2026,630993856.36,,,budgeted,src_ebesluit_integratie_2026,strong,Mega stack +Integratie+Beschut ~631.0m (prior 604.2 + 26.8)

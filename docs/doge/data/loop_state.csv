@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T22:25:00Z,rq_210,217,no,"Scheduler 60s. Next prio5 rq_211 Integratie/Beschut/Digipolis/Mons; rq_116 SWA deferred. FOI ready human send. tick217 VESPA6+CIA7.9+Energie0.59 stack ~604m."
+main,continuous,hole_fill,2026-07-28T22:45:00Z,rq_211,218,no,"Scheduler 60s. Next prio5 rq_212 Digipolis personnel/Mons/culture L5; rq_116 SWA deferred. FOI ready human send. tick218 Integratie 25.8m + Beschut 0.97m stack ~631m."

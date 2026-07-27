@@ -2274,3 +2274,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 11; cmt 3; lb 4; entities 3; foi note; rq_210=done; seeded **rq_211**.
 - FOI: Integratie/Beschut Wonen next; Digipolis 2026 personnel + Mons BI2026 residual human send.
 - Next: prio5 **rq_211**; deferred **rq_116** SWA.
+
+### 2026-07-28T22:45:00Z - tick 218
+- Unit: **rq_211** (FOI-adjacent hole-fill - **Integratie en Inburgering** + **Beschut Wonen** 2026)
+- Found (strong ebesluit college 13 Feb 2026):
+  - **Integratie package locked EUR 25.826m**: werk **24.733m** (alg 24.426 + werving 0.307) + invest **1.093m** (alg 1.076 + cyber 0.017).
+  - MJP alg werk 24.627m; withholds index 0.078 + Borsbeek VL 9.4k + gender payroll 0.114m not locked.
+  - **Beschut Wonen locked EUR 0.970m**: psych **0.652m** + risicopersonen **0.164m** + dakloosheid preventie **0.154m**.
+  - Social/integration batch **26.796m**; mega stack refresh **~631.0m** (prior 604 + 26.8).
+- Wrote: sources 2; budgets 12; cmt 2; lb 3; entities 2; foi note; rq_211=done; seeded **rq_212**.
+- FOI: dual VL Integratie residual + Digipolis 2026 personnel + Mons BI2026 human send.
+- Next: prio5 **rq_212**; deferred **rq_116** SWA.
