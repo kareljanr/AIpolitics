@@ -21,28 +21,57 @@ The state and/or tax system **subsidises or tax-favours** compensation paid thro
 3. Worker receives purchasing power **only for approved categories**.  
 4. Result: people buy a **narrow basket** (sometimes low-priority goods) because **cash is fungible; cheques are not**.
 
-### Why this fails the abundance test (strong on mechanism; medium on € totals)
+### Three layers of euros (do not mix — honesty fix 2026-07-27)
 
-| Problem | Effect |
-|---------|--------|
-| **Deadweight restriction** | Same euro as cash would let households optimise; cheques force category choice |
-| **Admin sandwich** | Design, issuance, compliance, retailer acceptance — cost that is not consumption |
-| **Wage distortion** | Favours fringe packages over transparent wages (same family as company cars) |
-| **Political opacity** | Looks like a “gift” or “green” win while fiscal cost sits in tax expenditures / SSC exemptions |
+| Layer | What it measures | ~2024 meal-voucher class | Waste? | Confidence |
+|-------|------------------|--------------------------|--------|------------|
+| **A. Face / purchasing power** | Cheques issued = pay in voucher form | **~€3.55 bn/yr** VIA (3.14m beneficiaries) | **Mostly no** — wage substitute | **Strong** (CoA cites VIA) |
+| **B. TE / parafiscal preference** | SSC+PIT forgone vs cash wages (net of CIT effects) | **~€1.07 bn/yr** private (CoA) | **Mixed** — compensation design / labour-tax patch, not “burned” | **Strong** (Rekenhof DOC 56 0785/004) |
+| **C. Pure waste** | Admin sandwich + issuer/retail rents + **restriction deadweight** | **Illustrative ~€0.15–0.35 bn/yr** mid band | **Yes** — retarded part | **Weak–Medium** (mechanism strong; € not audited) |
+
+**How to talk about it**
+
+- “€3.5 bn cheque economy” → **system size / wages in scrip**, not pure waste.  
+- “€1.07 bn fiscal cost” → **treasury preference vs cash wages** (real fiscal object; still largely worker take-home design).  
+- “Waste” for abundance scoring → **layer C only** (forced basket + middleman overhead).  
+- **Do not** put pain metrics on A or full B and call it incinerated money. Hall of Fame `hw_cheque_economy_decade` pain uses **C mid** (~€2.5 bn / 10y illustrative).  
+- Eco-cheques: same logic; **aggregate TE still Unknown** (FOI residual).
+
+**Illustrative pure-waste band (C) — not campaign-grade**
+
+| Component | Order-of-magnitude sketch | Notes |
+|-----------|---------------------------|--------|
+| Issuer + admin + compliance | ~1–3% of face → tens of €m/yr | Industry margins under-published |
+| Restriction deadweight vs cash | Speculative low-double-digit % of surplus on restricted spend | Theory **strong**; € **weak** |
+| **Mid working total (C)** | **~€150–350 m/yr** | Use ranges; upgrade when issuer FOI / evaluation lands |
+
+Secondary thesis figure ~€1.4 bn TE (De Coster via De Standaard) is **layer B class**, superseded as best official by CoA **€1.07 bn** for private meal parafiscal 2024.
+
+### Why the *instrument* still fails the abundance test
+
+| Problem | Effect | Layer |
+|---------|--------|-------|
+| **Deadweight restriction** | Same euro as cash would let households optimise; cheques force category choice | C |
+| **Admin sandwich** | Design, issuance, compliance, retailer acceptance — cost that is not consumption | C |
+| **Wage distortion** | Favours fringe packages over transparent wages (same family as company cars) | B design |
+| **Political opacity** | Looks like a “gift” or “green” win while fiscal cost sits in TE / SSC exemptions | B opacity |
+
+Wage-like purchasing power (A) is **OK**. Forced spend + admin (C) is **retarded**. TE (B) is **huge and real** but is mostly “how we chose to tax this pay,” not Smeerpijp-style zero utility.
 
 ### Related Belgian instruments (non-exhaustive)
 
 - Eco-cheques (consumption restricted to “eco” product lists)  
 - Meal vouchers / maaltijdcheques  
 - Other sectoral cheques (varies over time by CBA)  
-- **Dienstencheques** (different logic: household services market — still middleman-heavy; see `cmt_dienstencheques_*` + FOI TCO)
+- **Dienstencheques** (different logic: household services market — still middleman-heavy; see `cmt_dienstencheques_*` + FOI TCO) — **do not double-count** with meal/eco scrip
 
 ### DOGE stance (draft policy)
 
 1. **Default: cash wages** (or neutral tax treatment of pay).  
 2. If a social goal is real (e.g. low-income support): **cash transfer** or negative income tax — not retailer-restricted scrip.  
-3. Score every cheque: fiscal cost + admin + deadweight vs stated goal.  
-4. Leaderboard candidates: tax expenditure lines + SSC breaks on vouchers (FPS inventory + CBA inventory).
+3. Score every cheque with **split A/B/C** — never one headline euro for “waste.”  
+4. Leaderboard: track **B** as fiscal size (`lb_cheque_economy`); Hall / pure-waste narrative uses **C**.  
+5. Publish issuer margins + admin unit costs (FOI / market study).
 
 ### Evidence status
 
@@ -50,22 +79,27 @@ The state and/or tax system **subsidises or tax-favours** compensation paid thro
 |------|------------|
 | Restriction reduces consumer surplus vs cash | **Strong** (basic price theory) |
 | Industry capture / admin costs exist | **Strong** (mechanism); **€ magnitude case-by-case** |
+| Face volume ~€3.55 bn 2024 | **Strong** (VIA via CoA) |
+| Private parafiscal TE ~€1.07 bn 2024 | **Strong** (CoA) |
+| Pure-waste € (admin + DWL) | **Weak–Medium** (illustrative band only) |
 | Eco-cheques specifically low climate ROI | **Medium** (need evaluation literature) |
 
-**Open research / findings (tick 17):**
+**Open research / findings (tick 17 + tick 129 + honesty fix):**
 
 | Fact | Confidence | Source class |
 |------|------------|--------------|
 | Meal vouchers SSC + PIT exempt (conditions) | Strong | Payroll law / Partena |
 | Max meal voucher EUR 10/day from 2026 (employer up to 8.91) | Strong | Royal decree / Partena |
 | Eco-cheques up to EUR 250/yr tax+SSC free; restricted list | Strong | Payroll guides |
-| Meal voucher **market volume** ~EUR 3bn/yr | Medium | Industry claim (~3m users) |
-| Meal voucher **fiscal cost ~EUR 1.4bn/yr** | Medium | Sofie De Coster thesis via De Standaard (2024) |
-| Expansion of max voucher could cost treasury **~EUR 1bn extra** | Weak–Medium | Same press scenario |
-| **Official FPS inventory TE €** for meal/eco package | Weak / Unknown | Still FOI `gap_cheque_te` |
-| Eco-cheques abolition discussed | Medium | Policy commentary — verify statute |
+| Meal voucher **face** €3.550 bn 2024; 3.142 m beneficiaries | Strong | VIA via Rekenhof |
+| Meal voucher **private parafiscal** €1.07 bn 2024 | Strong | Rekenhof DOC 56 0785/004 |
+| Thesis fiscal cost ~€1.4 bn/yr | Medium (secondary; CoA supersedes as official B) | De Coster via De Standaard |
+| Federal public direct employer cost class €71.6 m 2024 | Strong | CoA |
+| **Official FPS inventory TE €** still blank for meal line | Strong on blank | CoA explicit; FOI `gap_cheque_te` |
+| Eco-cheques aggregate TE | Weak / Unknown | FOI residual |
+| Pure-waste band €0.15–0.35 bn/yr | Weak–Medium | Internal sketch; not CoA |
 
-**Open research:** exact TE € for meal vouchers / eco-cheques (FOI + inventory microdata).
+**Open research:** issuer economics / admin €; eco TE; evaluation of restriction DWL; FPS inventory amount fill.
 
 ---
 

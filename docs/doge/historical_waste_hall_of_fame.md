@@ -61,29 +61,29 @@ waste_priority = 0.45×cost_score + 0.30×absurdity + 0.25×waste_purity
 |--:|------|-----|------:|----:|----:|---------:|--------------:|---------------------:|:----:|
 | 1 | Charleroi light metro — half-built network, ghost branches | 1970s–2020s | €1.50 bn | 9.5 | 9.0 | **9.38** | 77,320 | 634 min (~10.6 h) | W |
 | 2 | Waffle-iron politics legacy capex (post-war compensatory spending patt | 1950s–1980s | €30.00 bn | 9.0 | 8.0 | **8.97** | 1,546,392 | 12687 min (~8.8 d) | W |
-| 3 | Meal/eco/cheque parafiscal restricted-scrip economy (multi-year) | 2015–2025 | €11.00 bn | 9.0 | 8.0 | **8.97** | 567,010 | 4652 min (~3.2 d) | S |
-| 4 | Brussels Metro line 3 — +hundreds-% budget path / freeze | 2009–2020s | €4.76 bn | 9.0 | 8.0 | **8.97** | 245,361 | 2013 min (~1.4 d) | S |
-| 5 | Smeerpijp (Limburg–Antwerp industrial sewer never used) | 1960s–1970s | €100.0 m | 10.0 | 10.0 | **8.88** | 5,155 | 42.3 min | W |
-| 6 | Fuel cards PIT+SSC tax expenditure (multi-year with company cars) | 2015–2025 | €7.00 bn | 8.5 | 8.0 | **8.82** | 360,825 | 2960 min (~2.1 d) | S |
-| 7 | Flanders residential PV over-subsidy boom (certificates era) | 2009–2015 | €4.00 bn | 8.5 | 8.0 | **8.82** | 206,186 | 1692 min (~1.2 d) | M |
-| 8 | Walloon PV / green certificate overcompensation path | 2008–2018 | €3.00 bn | 8.5 | 8.0 | **8.82** | 154,639 | 1269 min (~21.1 h) | M |
-| 9 | Housing supply blocks + compensatory subsidies (policy package) | 1990s–2020s | €30.00 bn | 9.0 | 7.0 | **8.72** | 1,546,392 | 12687 min (~8.8 d) | W |
-| 10 | Union unemployment payment admin grants (multi-year) | 2015–2025 | €1.70 bn | 8.5 | 7.5 | **8.70** | 87,629 | 719 min (~12.0 h) | S |
-| 11 | Duplicate digital portals across governments (cluster) | 2000s–2020s | €1.50 bn | 8.0 | 8.0 | **8.68** | 77,320 | 634 min (~10.6 h) | W |
-| 12 | i-Police federal police digitalisation failure | 2019–2026 | €150.0 m | 9.5 | 9.5 | **8.60** | 7,732 | 63 min (~1.1 h) | S |
-| 13 | Company-car tax expenditure package (10y class) | 2015–2025 | €35.00 bn | 8.5 | 7.0 | **8.57** | 1,804,124 | 14801 min (~10.3 d) | S |
-| 14 | Dexia dismantling + Belfius nationalisation path | 2008–2012 | €7.00 bn | 8.5 | 7.0 | **8.57** | 360,825 | 2960 min (~2.1 d) | M |
-| 15 | Brussels North Quarter / WTC towers — unfinished urban plan | 1960s–1990s | €1.50 bn | 8.5 | 7.0 | **8.57** | 77,320 | 634 min (~10.6 h) | W |
-| 16 | Party / political-group / media-adjacent public transfers opacity | 1990s–2020s | €1.50 bn | 8.5 | 7.0 | **8.57** | 77,320 | 634 min (~10.6 h) | W |
-| 17 | International aviation kerosene excise exemption (10y) | 2015–2025 | €7.00 bn | 8.0 | 7.5 | **8.55** | 360,825 | 2960 min (~2.1 d) | S |
-| 18 | Fyra / V250 high-speed train fiasco (BE share of write-downs) | 2000s–2010s | €250.0 m | 9.5 | 9.0 | **8.47** | 12,887 | 106 min (~1.8 h) | W |
-| 19 | Heating gasoil excise preference (multi-year FFS) | 2015–2025 | €18.00 bn | 8.0 | 7.0 | **8.43** | 927,835 | 7612 min (~5.3 d) | S |
-| 20 | Flanders green electricity certificates (GSC) support path | 2005–2025 | €12.00 bn | 8.0 | 7.0 | **8.43** | 618,557 | 5075 min (~3.5 d) | M |
-| 21 | Brussels RER/GEN suburban rail — decades of delay & partial delivery | 1990s–2020s | €5.00 bn | 8.0 | 7.0 | **8.43** | 257,732 | 2114 min (~1.5 d) | W |
-| 22 | Social housing vacancy & renovation backlog costs | 2000s–2020s | €3.00 bn | 8.0 | 7.0 | **8.43** | 154,639 | 1269 min (~21.1 h) | W |
-| 23 | Ministerial cabinets culture — oversized political staff (multi-year) | 1990s–2020s | €3.00 bn | 8.0 | 7.0 | **8.43** | 154,639 | 1269 min (~21.1 h) | W |
-| 24 | Temporary unemployment / crisis unemployment fraud & overuse | 2020–2022 | €2.00 bn | 8.0 | 7.0 | **8.43** | 103,093 | 846 min (~14.1 h) | W |
-| 25 | Sabena bankruptcy — public shareholding losses + social fallout | 1990s–2001 | €1.50 bn | 8.0 | 7.0 | **8.43** | 77,320 | 634 min (~10.6 h) | W |
+| 3 | Brussels Metro line 3 — +hundreds-% budget path / freeze | 2009–2020s | €4.76 bn | 9.0 | 8.0 | **8.97** | 245,361 | 2013 min (~1.4 d) | S |
+| 4 | Smeerpijp (Limburg–Antwerp industrial sewer never used) | 1960s–1970s | €100.0 m | 10.0 | 10.0 | **8.88** | 5,155 | 42.3 min | W |
+| 5 | Fuel cards PIT+SSC tax expenditure (multi-year with company cars) | 2015–2025 | €7.00 bn | 8.5 | 8.0 | **8.82** | 360,825 | 2960 min (~2.1 d) | S |
+| 6 | Flanders residential PV over-subsidy boom (certificates era) | 2009–2015 | €4.00 bn | 8.5 | 8.0 | **8.82** | 206,186 | 1692 min (~1.2 d) | M |
+| 7 | Walloon PV / green certificate overcompensation path | 2008–2018 | €3.00 bn | 8.5 | 8.0 | **8.82** | 154,639 | 1269 min (~21.1 h) | M |
+| 8 | Housing supply blocks + compensatory subsidies (policy package) | 1990s–2020s | €30.00 bn | 9.0 | 7.0 | **8.72** | 1,546,392 | 12687 min (~8.8 d) | W |
+| 9 | Union unemployment payment admin grants (multi-year) | 2015–2025 | €1.70 bn | 8.5 | 7.5 | **8.70** | 87,629 | 719 min (~12.0 h) | S |
+| 10 | Duplicate digital portals across governments (cluster) | 2000s–2020s | €1.50 bn | 8.0 | 8.0 | **8.68** | 77,320 | 634 min (~10.6 h) | W |
+| 11 | i-Police federal police digitalisation failure | 2019–2026 | €150.0 m | 9.5 | 9.5 | **8.60** | 7,732 | 63 min (~1.1 h) | S |
+| 12 | Company-car tax expenditure package (10y class) | 2015–2025 | €35.00 bn | 8.5 | 7.0 | **8.57** | 1,804,124 | 14801 min (~10.3 d) | S |
+| 13 | Dexia dismantling + Belfius nationalisation path | 2008–2012 | €7.00 bn | 8.5 | 7.0 | **8.57** | 360,825 | 2960 min (~2.1 d) | M |
+| 14 | Brussels North Quarter / WTC towers — unfinished urban plan | 1960s–1990s | €1.50 bn | 8.5 | 7.0 | **8.57** | 77,320 | 634 min (~10.6 h) | W |
+| 15 | Party / political-group / media-adjacent public transfers opacity | 1990s–2020s | €1.50 bn | 8.5 | 7.0 | **8.57** | 77,320 | 634 min (~10.6 h) | W |
+| 16 | International aviation kerosene excise exemption (10y) | 2015–2025 | €7.00 bn | 8.0 | 7.5 | **8.55** | 360,825 | 2960 min (~2.1 d) | S |
+| 17 | Fyra / V250 high-speed train fiasco (BE share of write-downs) | 2000s–2010s | €250.0 m | 9.5 | 9.0 | **8.47** | 12,887 | 106 min (~1.8 h) | W |
+| 18 | Heating gasoil excise preference (multi-year FFS) | 2015–2025 | €18.00 bn | 8.0 | 7.0 | **8.43** | 927,835 | 7612 min (~5.3 d) | S |
+| 19 | Flanders green electricity certificates (GSC) support path | 2005–2025 | €12.00 bn | 8.0 | 7.0 | **8.43** | 618,557 | 5075 min (~3.5 d) | M |
+| 20 | Brussels RER/GEN suburban rail — decades of delay & partial delivery | 1990s–2020s | €5.00 bn | 8.0 | 7.0 | **8.43** | 257,732 | 2114 min (~1.5 d) | W |
+| 21 | Social housing vacancy & renovation backlog costs | 2000s–2020s | €3.00 bn | 8.0 | 7.0 | **8.43** | 154,639 | 1269 min (~21.1 h) | W |
+| 22 | Ministerial cabinets culture — oversized political staff (multi-year) | 1990s–2020s | €3.00 bn | 8.0 | 7.0 | **8.43** | 154,639 | 1269 min (~21.1 h) | W |
+| 23 | Temporary unemployment / crisis unemployment fraud & overuse | 2020–2022 | €2.00 bn | 8.0 | 7.0 | **8.43** | 103,093 | 846 min (~14.1 h) | W |
+| 24 | Sabena bankruptcy — public shareholding losses + social fallout | 1990s–2001 | €1.50 bn | 8.0 | 7.0 | **8.43** | 77,320 | 634 min (~10.6 h) | W |
+| 25 | Excess profit tax rulings (EU state-aid recovery saga) | 2005–2020s | €1.00 bn | 8.0 | 7.0 | **8.43** | 51,546 | 423 min (~7.0 h) | W |
 
 ### Also: Top 15 by mid € (size, not purity)
 
@@ -93,16 +93,16 @@ waste_priority = 0.45×cost_score + 0.30×absurdity + 0.25×waste_purity
 | €100.00 bn | Federal fossil-fuel subsidy inventory (10y class) | 7.0 | 5.0 | #57 | 42289 min (~29.4 d) |
 | €100.00 bn | Wage-subsidy / labour-tax wedge compensation stack (mul | 7.0 | 4.0 | #72 | 42289 min (~29.4 d) |
 | €100.00 bn | Primary balance gap vs debt-stabilising path (multi-yea | 6.0 | 5.0 | #74 | 42289 min (~29.4 d) |
-| €60.00 bn | Early labour-market exit & special pension schemes (mul | 8.0 | 6.0 | #35 | 25374 min (~17.6 d) |
-| €40.00 bn | Institutional dualism overhead (multi-parliaments, dual | 8.0 | 6.0 | #36 | 16916 min (~11.7 d) |
+| €60.00 bn | Early labour-market exit & special pension schemes (mul | 8.0 | 6.0 | #34 | 25374 min (~17.6 d) |
+| €40.00 bn | Institutional dualism overhead (multi-parliaments, dual | 8.0 | 6.0 | #35 | 16916 min (~11.7 d) |
 | €40.00 bn | EIWT partial remittance bedrijfsvoorheffing package (10 | 7.0 | 5.0 | #58 | 16916 min (~11.7 d) |
-| €35.00 bn | Company-car tax expenditure package (10y class) | 8.5 | 7.0 | #13 | 14801 min (~10.3 d) |
+| €35.00 bn | Company-car tax expenditure package (10y class) | 8.5 | 7.0 | #12 | 14801 min (~10.3 d) |
 | €30.00 bn | Waffle-iron politics legacy capex (post-war compensator | 9.0 | 8.0 | #2 | 12687 min (~8.8 d) |
-| €30.00 bn | Housing supply blocks + compensatory subsidies (policy  | 9.0 | 7.0 | #9 | 12687 min (~8.8 d) |
+| €30.00 bn | Housing supply blocks + compensatory subsidies (policy  | 9.0 | 7.0 | #8 | 12687 min (~8.8 d) |
 | €30.00 bn | Notional interest deduction (NID) multi-year deadweight | 7.5 | 6.0 | #43 | 12687 min (~8.8 d) |
 | €25.00 bn | Service vouchers (dienstencheques) multi-year fiscal co | 6.5 | 5.0 | #67 | 10572 min (~7.3 d) |
 | €25.00 bn | Low-value care / billing waste in health insurance (sub | 6.0 | 5.0 | #75 | 10572 min (~7.3 d) |
-| €22.00 bn | Banking crisis public capital injections (Fortis/Dexia/ | 8.0 | 6.0 | #37 | 9304 min (~6.5 d) |
+| €22.00 bn | Banking crisis public capital injections (Fortis/Dexia/ | 8.0 | 6.0 | #36 | 9304 min (~6.5 d) |
 | €20.00 bn | Professional order / permit denseness entry barriers (d | 7.0 | 6.0 | #46 | 8458 min (~5.9 d) |
 
 ---
@@ -113,45 +113,45 @@ waste_priority = 0.45×cost_score + 0.30×absurdity + 0.25×waste_purity
 |--:|------|----------|-------|------:|----:|----:|-----:|--------------:|----------------:|------------:|-----------:|:----:|-----------|
 | 1 | Charleroi light metro — half-built network, ghost branc | ghost_infra | Wallonia | €1.50 bn | 9.5 | 9.0 | 9.38 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Eight arms planned, ghost tunnels for decades — waffle-iron metro politics in co |
 | 2 | Waffle-iron politics legacy capex (post-war compensator | institutions | federal | €30.00 bn | 9.0 | 8.0 | 8.97 | 1,546,392 | 1,016,949 | 12687 min (~8.8 d) | €6,186 | W | You get a tunnel because they got a bridge — Belgium’s original fiscal algorithm |
-| 3 | Meal/eco/cheque parafiscal restricted-scrip economy (mu | structural_fiscal | federal | €11.00 bn | 9.0 | 8.0 | 8.97 | 567,010 | 372,881 | 4652 min (~3.2 d) | €2,268 | S | Wage compensation you can only spend at the right merchant — middlemen love it. |
-| 4 | Brussels Metro line 3 — +hundreds-% budget path / freez | transport_capex | Brussels | €4.76 bn | 9.0 | 8.0 | 8.97 | 245,361 | 161,356 | 2013 min (~1.4 d) | €981 | S | A north–south metro that spent like a moonshot before a single full line ran. |
-| 5 | Smeerpijp (Limburg–Antwerp industrial sewer never used) | ghost_infra | Flanders | €100.0 m | 10.0 | 10.0 | 8.88 | 5,155 | 3,390 | 42.3 min | €21 | W | A 107 km pollution pipe that never carried a drop — purity score: perfect 10. |
-| 6 | Fuel cards PIT+SSC tax expenditure (multi-year with com | structural_fiscal | federal | €7.00 bn | 8.5 | 8.0 | 8.82 | 360,825 | 237,288 | 2960 min (~2.1 d) | €1,443 | S | Free fuel as wage — congestion externality included free of charge. |
-| 7 | Flanders residential PV over-subsidy boom (certificates | energy_policy | Flanders | €4.00 bn | 8.5 | 8.0 | 8.82 | 206,186 | 135,593 | 1692 min (~1.2 d) | €825 | M | Rooftop gold rush with guaranteed certificates — non-PV households paid. |
-| 8 | Walloon PV / green certificate overcompensation path | energy_policy | Wallonia | €3.00 bn | 8.5 | 8.0 | 8.82 | 154,639 | 101,695 | 1269 min (~21.1 h) | €619 | M | Same movie as Flanders, French-speaking soundtrack, same bill on the meter. |
-| 9 | Housing supply blocks + compensatory subsidies (policy  | housing | multi | €30.00 bn | 9.0 | 7.0 | 8.72 | 1,546,392 | 1,016,949 | 12687 min (~8.8 d) | €6,186 | W | Cause the shortage, then subsidise the victims of the shortage. |
-| 10 | Union unemployment payment admin grants (multi-year) | labour_market | federal | €1.70 bn | 8.5 | 7.5 | 8.70 | 87,629 | 57,627 | 719 min (~12.0 h) | €351 | S | Unions paid to pay unemployment — a Belgian special. |
-| 11 | Duplicate digital portals across governments (cluster) | it_failure | multi | €1.50 bn | 8.0 | 8.0 | 8.68 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | My e-box, your e-box, their e-box — federalism as UX debt. |
-| 12 | i-Police federal police digitalisation failure | it_failure | federal | €150.0 m | 9.5 | 9.5 | 8.60 | 7,732 | 5,085 | 63 min (~1.1 h) | €31 | S | €76m+ for a police IT system that never truly worked — then lawyers. |
-| 13 | Company-car tax expenditure package (10y class) | structural_fiscal | federal | €35.00 bn | 8.5 | 7.0 | 8.57 | 1,804,124 | 1,186,441 | 14801 min (~10.3 d) | €7,216 | S | A fringe benefit that rewrote Belgian mobility, congestion and the wage bill — f |
-| 14 | Dexia dismantling + Belfius nationalisation path | financial_crisis | federal | €7.00 bn | 8.5 | 7.0 | 8.57 | 360,825 | 237,288 | 2960 min (~2.1 d) | €1,443 | M | Municipal lender + French expansion = Belgian taxpayers holding the bag. |
-| 15 | Brussels North Quarter / WTC towers — unfinished urban  | urban_dev | Brussels | €1.50 bn | 8.5 | 7.0 | 8.57 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Bulldoze a neighbourhood for eight towers — deliver three and a windswept esplan |
-| 16 | Party / political-group / media-adjacent public transfe | politics | multi | €1.50 bn | 8.5 | 7.0 | 8.57 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Democracy needs parties; blank-cheque opacity does not. |
-| 17 | International aviation kerosene excise exemption (10y) | structural_fiscal | federal | €7.00 bn | 8.0 | 7.5 | 8.55 | 360,825 | 237,288 | 2960 min (~2.1 d) | €1,443 | S | Fly tax-free fuel while trains pay full freight — 1940s law meets 2020s climate. |
-| 18 | Fyra / V250 high-speed train fiasco (BE share of write- | rail_rolling_stock | federal | €250.0 m | 9.5 | 9.0 | 8.47 | 12,887 | 8,475 | 106 min (~1.8 h) | €52 | W | High-speed trains that could not handle winter — write-offs at TGV prices. |
-| 19 | Heating gasoil excise preference (multi-year FFS) | structural_fiscal | federal | €18.00 bn | 8.0 | 7.0 | 8.43 | 927,835 | 610,170 | 7612 min (~5.3 d) | €3,711 | S | Cheap heating oil by design while climate policy points the other way. |
-| 20 | Flanders green electricity certificates (GSC) support p | energy_policy | Flanders | €12.00 bn | 8.0 | 7.0 | 8.43 | 618,557 | 406,780 | 5075 min (~3.5 d) | €2,474 | M | Early PV boom locked in rich certificates; households paid via bills for decades |
-| 21 | Brussels RER/GEN suburban rail — decades of delay & par | transport_capex | federal+Brussels+regions | €5.00 bn | 8.0 | 7.0 | 8.43 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | The suburban rail everyone promised for a generation — still waiting at many pla |
-| 22 | Social housing vacancy & renovation backlog costs | housing | multi | €3.00 bn | 8.0 | 7.0 | 8.43 | 154,639 | 101,695 | 1269 min (~21.1 h) | €619 | W | People on lists, empty flats in the stock — allocation failure as fiscal waste. |
-| 23 | Ministerial cabinets culture — oversized political staf | institutions | multi | €3.00 bn | 8.0 | 7.0 | 8.43 | 154,639 | 101,695 | 1269 min (~21.1 h) | €619 | W | A shadow civil service that leaves when the minister does — institutional amnesi |
-| 24 | Temporary unemployment / crisis unemployment fraud & ov | labour_market | federal | €2.00 bn | 8.0 | 7.0 | 8.43 | 103,093 | 67,797 | 846 min (~14.1 h) | €412 | W | Furlough that became a lifestyle for some — detection lagged cash. |
-| 25 | Sabena bankruptcy — public shareholding losses + social | transport_soe | federal | €1.50 bn | 8.0 | 7.0 | 8.43 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | National flag carrier to Europe’s biggest corporate failure — 7,500 jobs later. |
-| 26 | Excess profit tax rulings (EU state-aid recovery saga) | corporate_tax | federal | €1.00 bn | 8.0 | 7.0 | 8.43 | 51,546 | 33,898 | 423 min (~7.0 h) | €206 | W | Bespoke tax math for multinationals — until Brussels said no. |
-| 27 | Brussels metro ghost stations / unused levels (Sainctel | ghost_infra | Brussels | €200.0 m | 9.0 | 9.0 | 8.32 | 10,309 | 6,780 | 85 min (~1.4 h) | €41 | W | Stations built for lines that never came — Belgium’s most photogenic fiscal ghos |
-| 28 | Intercommunale dividend politics (energy/water) — soft  | local_capture | local | €5.00 bn | 8.0 | 6.5 | 8.30 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | Your water bill elects a board you never heard of. |
-| 29 | Empty / underused public building stock (multi-year opp | assets | multi | €5.00 bn | 7.5 | 7.0 | 8.28 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | Public walls with no people — capital depreciation as quiet waste. |
-| 30 | Training vouchers / activation with weak job placement  | labour_market | multi | €5.00 bn | 7.5 | 7.0 | 8.28 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | Certificates of attendance sold as labour-market miracles. |
-| 31 | Antwerp premetro unused tunnels & stations (50y ghost c | ghost_infra | Flanders | €600.0 m | 9.0 | 8.5 | 8.20 | 30,928 | 20,339 | 254 min (~4.2 h) | €124 | W | Underground trams that waited half a century for passengers — and more money to  |
-| 32 | Awareness campaigns with no behaviour-change evidence ( | vanity_project | multi | €600.0 m | 9.0 | 8.5 | 8.20 | 30,928 | 20,339 | 254 min (~4.2 h) | €124 | W | Poster politics: if you can’t measure it, bill it to communications. |
-| 33 | Justice IT mega-projects cluster (Phoenix/Cheops and su | it_failure | federal | €400.0 m | 9.0 | 8.5 | 8.20 | 20,619 | 13,559 | 169 min (~2.8 h) | €82 | W | Courts still drowning in paper after successive ‘once-and-for-all’ IT reboots. |
-| 34 | Publifin / Nethys / Enodia intercommunale capture scand | local_capture | Wallonia | €200.0 m | 9.0 | 8.5 | 8.20 | 10,309 | 6,780 | 85 min (~1.4 h) | €41 | W | Intercommunales as political ATM — energy dividends and director seats. |
-| 35 | Early labour-market exit & special pension schemes (mul | structural_fiscal | federal | €60.00 bn | 8.0 | 6.0 | 8.18 | 3,092,784 | 2,033,898 | 25374 min (~17.6 d) | €12,371 | W | Retire early, bill the next cohort — special schemes as political glue. |
-| 36 | Institutional dualism overhead (multi-parliaments, dual | institutions | multi | €40.00 bn | 8.0 | 6.0 | 8.18 | 2,061,856 | 1,355,932 | 16916 min (~11.7 d) | €8,247 | W | Two of everything that speaks a language — democracy has a price tag that is nev |
-| 37 | Banking crisis public capital injections (Fortis/Dexia/ | financial_crisis | federal+regions | €22.00 bn | 8.0 | 6.0 | 8.18 | 1,134,021 | 745,763 | 9304 min (~6.5 d) | €4,536 | M | Too-big-to-fail became a taxpayer balance-sheet event — twice for Dexia. |
-| 38 | Federal facultative discretionary subsidies opacity (mu | structural_fiscal | federal | €9.00 bn | 8.0 | 6.0 | 8.18 | 463,918 | 305,085 | 3806 min (~2.6 d) | €1,856 | S | Ministers’ discretionary chequebook — public money without a public shopping lis |
-| 39 | Nuclear phase-out / extension stop-start policy costs | energy_policy | federal | €8.00 bn | 8.0 | 6.0 | 8.18 | 412,371 | 271,186 | 3383 min (~2.3 d) | €1,649 | W | Vote to close reactors, then pay to keep them — energy policy as ping-pong. |
-| 40 | 1999 dioxin crisis — farm slaughter, export ban, politi | food_safety | federal | €1.50 bn | 8.0 | 6.0 | 8.18 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Contaminated feed, empty shelves, a government that fell — food safety as system |
-| 41 | NEO / Heizel redevelopment delays & redesigns | urban_dev | Brussels | €1.50 bn | 7.5 | 6.5 | 8.15 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Expo site dreams that keep reinventing the masterplan. |
+| 3 | Brussels Metro line 3 — +hundreds-% budget path / freez | transport_capex | Brussels | €4.76 bn | 9.0 | 8.0 | 8.97 | 245,361 | 161,356 | 2013 min (~1.4 d) | €981 | S | A north–south metro that spent like a moonshot before a single full line ran. |
+| 4 | Smeerpijp (Limburg–Antwerp industrial sewer never used) | ghost_infra | Flanders | €100.0 m | 10.0 | 10.0 | 8.88 | 5,155 | 3,390 | 42.3 min | €21 | W | A 107 km pollution pipe that never carried a drop — purity score: perfect 10. |
+| 5 | Fuel cards PIT+SSC tax expenditure (multi-year with com | structural_fiscal | federal | €7.00 bn | 8.5 | 8.0 | 8.82 | 360,825 | 237,288 | 2960 min (~2.1 d) | €1,443 | S | Free fuel as wage — congestion externality included free of charge. |
+| 6 | Flanders residential PV over-subsidy boom (certificates | energy_policy | Flanders | €4.00 bn | 8.5 | 8.0 | 8.82 | 206,186 | 135,593 | 1692 min (~1.2 d) | €825 | M | Rooftop gold rush with guaranteed certificates — non-PV households paid. |
+| 7 | Walloon PV / green certificate overcompensation path | energy_policy | Wallonia | €3.00 bn | 8.5 | 8.0 | 8.82 | 154,639 | 101,695 | 1269 min (~21.1 h) | €619 | M | Same movie as Flanders, French-speaking soundtrack, same bill on the meter. |
+| 8 | Housing supply blocks + compensatory subsidies (policy  | housing | multi | €30.00 bn | 9.0 | 7.0 | 8.72 | 1,546,392 | 1,016,949 | 12687 min (~8.8 d) | €6,186 | W | Cause the shortage, then subsidise the victims of the shortage. |
+| 9 | Union unemployment payment admin grants (multi-year) | labour_market | federal | €1.70 bn | 8.5 | 7.5 | 8.70 | 87,629 | 57,627 | 719 min (~12.0 h) | €351 | S | Unions paid to pay unemployment — a Belgian special. |
+| 10 | Duplicate digital portals across governments (cluster) | it_failure | multi | €1.50 bn | 8.0 | 8.0 | 8.68 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | My e-box, your e-box, their e-box — federalism as UX debt. |
+| 11 | i-Police federal police digitalisation failure | it_failure | federal | €150.0 m | 9.5 | 9.5 | 8.60 | 7,732 | 5,085 | 63 min (~1.1 h) | €31 | S | €76m+ for a police IT system that never truly worked — then lawyers. |
+| 12 | Company-car tax expenditure package (10y class) | structural_fiscal | federal | €35.00 bn | 8.5 | 7.0 | 8.57 | 1,804,124 | 1,186,441 | 14801 min (~10.3 d) | €7,216 | S | A fringe benefit that rewrote Belgian mobility, congestion and the wage bill — f |
+| 13 | Dexia dismantling + Belfius nationalisation path | financial_crisis | federal | €7.00 bn | 8.5 | 7.0 | 8.57 | 360,825 | 237,288 | 2960 min (~2.1 d) | €1,443 | M | Municipal lender + French expansion = Belgian taxpayers holding the bag. |
+| 14 | Brussels North Quarter / WTC towers — unfinished urban  | urban_dev | Brussels | €1.50 bn | 8.5 | 7.0 | 8.57 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Bulldoze a neighbourhood for eight towers — deliver three and a windswept esplan |
+| 15 | Party / political-group / media-adjacent public transfe | politics | multi | €1.50 bn | 8.5 | 7.0 | 8.57 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Democracy needs parties; blank-cheque opacity does not. |
+| 16 | International aviation kerosene excise exemption (10y) | structural_fiscal | federal | €7.00 bn | 8.0 | 7.5 | 8.55 | 360,825 | 237,288 | 2960 min (~2.1 d) | €1,443 | S | Fly tax-free fuel while trains pay full freight — 1940s law meets 2020s climate. |
+| 17 | Fyra / V250 high-speed train fiasco (BE share of write- | rail_rolling_stock | federal | €250.0 m | 9.5 | 9.0 | 8.47 | 12,887 | 8,475 | 106 min (~1.8 h) | €52 | W | High-speed trains that could not handle winter — write-offs at TGV prices. |
+| 18 | Heating gasoil excise preference (multi-year FFS) | structural_fiscal | federal | €18.00 bn | 8.0 | 7.0 | 8.43 | 927,835 | 610,170 | 7612 min (~5.3 d) | €3,711 | S | Cheap heating oil by design while climate policy points the other way. |
+| 19 | Flanders green electricity certificates (GSC) support p | energy_policy | Flanders | €12.00 bn | 8.0 | 7.0 | 8.43 | 618,557 | 406,780 | 5075 min (~3.5 d) | €2,474 | M | Early PV boom locked in rich certificates; households paid via bills for decades |
+| 20 | Brussels RER/GEN suburban rail — decades of delay & par | transport_capex | federal+Brussels+regions | €5.00 bn | 8.0 | 7.0 | 8.43 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | The suburban rail everyone promised for a generation — still waiting at many pla |
+| 21 | Social housing vacancy & renovation backlog costs | housing | multi | €3.00 bn | 8.0 | 7.0 | 8.43 | 154,639 | 101,695 | 1269 min (~21.1 h) | €619 | W | People on lists, empty flats in the stock — allocation failure as fiscal waste. |
+| 22 | Ministerial cabinets culture — oversized political staf | institutions | multi | €3.00 bn | 8.0 | 7.0 | 8.43 | 154,639 | 101,695 | 1269 min (~21.1 h) | €619 | W | A shadow civil service that leaves when the minister does — institutional amnesi |
+| 23 | Temporary unemployment / crisis unemployment fraud & ov | labour_market | federal | €2.00 bn | 8.0 | 7.0 | 8.43 | 103,093 | 67,797 | 846 min (~14.1 h) | €412 | W | Furlough that became a lifestyle for some — detection lagged cash. |
+| 24 | Sabena bankruptcy — public shareholding losses + social | transport_soe | federal | €1.50 bn | 8.0 | 7.0 | 8.43 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | National flag carrier to Europe’s biggest corporate failure — 7,500 jobs later. |
+| 25 | Excess profit tax rulings (EU state-aid recovery saga) | corporate_tax | federal | €1.00 bn | 8.0 | 7.0 | 8.43 | 51,546 | 33,898 | 423 min (~7.0 h) | €206 | W | Bespoke tax math for multinationals — until Brussels said no. |
+| 26 | Brussels metro ghost stations / unused levels (Sainctel | ghost_infra | Brussels | €200.0 m | 9.0 | 9.0 | 8.32 | 10,309 | 6,780 | 85 min (~1.4 h) | €41 | W | Stations built for lines that never came — Belgium’s most photogenic fiscal ghos |
+| 27 | Intercommunale dividend politics (energy/water) — soft  | local_capture | local | €5.00 bn | 8.0 | 6.5 | 8.30 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | Your water bill elects a board you never heard of. |
+| 28 | Empty / underused public building stock (multi-year opp | assets | multi | €5.00 bn | 7.5 | 7.0 | 8.28 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | Public walls with no people — capital depreciation as quiet waste. |
+| 29 | Training vouchers / activation with weak job placement  | labour_market | multi | €5.00 bn | 7.5 | 7.0 | 8.28 | 257,732 | 169,492 | 2114 min (~1.5 d) | €1,031 | W | Certificates of attendance sold as labour-market miracles. |
+| 30 | Antwerp premetro unused tunnels & stations (50y ghost c | ghost_infra | Flanders | €600.0 m | 9.0 | 8.5 | 8.20 | 30,928 | 20,339 | 254 min (~4.2 h) | €124 | W | Underground trams that waited half a century for passengers — and more money to  |
+| 31 | Awareness campaigns with no behaviour-change evidence ( | vanity_project | multi | €600.0 m | 9.0 | 8.5 | 8.20 | 30,928 | 20,339 | 254 min (~4.2 h) | €124 | W | Poster politics: if you can’t measure it, bill it to communications. |
+| 32 | Justice IT mega-projects cluster (Phoenix/Cheops and su | it_failure | federal | €400.0 m | 9.0 | 8.5 | 8.20 | 20,619 | 13,559 | 169 min (~2.8 h) | €82 | W | Courts still drowning in paper after successive ‘once-and-for-all’ IT reboots. |
+| 33 | Publifin / Nethys / Enodia intercommunale capture scand | local_capture | Wallonia | €200.0 m | 9.0 | 8.5 | 8.20 | 10,309 | 6,780 | 85 min (~1.4 h) | €41 | W | Intercommunales as political ATM — energy dividends and director seats. |
+| 34 | Early labour-market exit & special pension schemes (mul | structural_fiscal | federal | €60.00 bn | 8.0 | 6.0 | 8.18 | 3,092,784 | 2,033,898 | 25374 min (~17.6 d) | €12,371 | W | Retire early, bill the next cohort — special schemes as political glue. |
+| 35 | Institutional dualism overhead (multi-parliaments, dual | institutions | multi | €40.00 bn | 8.0 | 6.0 | 8.18 | 2,061,856 | 1,355,932 | 16916 min (~11.7 d) | €8,247 | W | Two of everything that speaks a language — democracy has a price tag that is nev |
+| 36 | Banking crisis public capital injections (Fortis/Dexia/ | financial_crisis | federal+regions | €22.00 bn | 8.0 | 6.0 | 8.18 | 1,134,021 | 745,763 | 9304 min (~6.5 d) | €4,536 | M | Too-big-to-fail became a taxpayer balance-sheet event — twice for Dexia. |
+| 37 | Federal facultative discretionary subsidies opacity (mu | structural_fiscal | federal | €9.00 bn | 8.0 | 6.0 | 8.18 | 463,918 | 305,085 | 3806 min (~2.6 d) | €1,856 | S | Ministers’ discretionary chequebook — public money without a public shopping lis |
+| 38 | Nuclear phase-out / extension stop-start policy costs | energy_policy | federal | €8.00 bn | 8.0 | 6.0 | 8.18 | 412,371 | 271,186 | 3383 min (~2.3 d) | €1,649 | W | Vote to close reactors, then pay to keep them — energy policy as ping-pong. |
+| 39 | 1999 dioxin crisis — farm slaughter, export ban, politi | food_safety | federal | €1.50 bn | 8.0 | 6.0 | 8.18 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Contaminated feed, empty shelves, a government that fell — food safety as system |
+| 40 | NEO / Heizel redevelopment delays & redesigns | urban_dev | Brussels | €1.50 bn | 7.5 | 6.5 | 8.15 | 77,320 | 50,848 | 634 min (~10.6 h) | €309 | W | Expo site dreams that keep reinventing the masterplan. |
+| 41 | Cheque economy pure waste (admin + restriction DWL) — N | structural_fiscal | federal | €2.50 bn | 8.5 | 5.0 | 8.07 | 128,866 | 84,746 | 1057 min (~17.6 h) | €515 | M | Most of the billions are wages in scrip form — retarded is forced spend + admin, |
 | 42 | Agusta / Dassault helicopter & aircraft kickback scanda | defence | federal | €200.0 m | 9.0 | 8.0 | 8.07 | 10,309 | 6,780 | 85 min (~1.4 h) | €41 | W | Helicopters with a side order of party financing — NATO ally meets Italian envel |
 | 43 | Notional interest deduction (NID) multi-year deadweight | corporate_tax | federal | €30.00 bn | 7.5 | 6.0 | 8.03 | 1,546,392 | 1,016,949 | 12687 min (~8.8 d) | €6,186 | W | Paper equity interest deduction that became a European tax-planning magnet. |
 | 44 | Triple PES architecture (VDAB/FOREM/Actiris + federal l | institutions | multi | €10.00 bn | 7.5 | 6.0 | 8.03 | 515,464 | 338,983 | 4229 min (~2.9 d) | €2,062 | W | Three public employment services and still the activation maze. |
@@ -288,12 +288,12 @@ waste_priority = 0.45×cost_score + 0.30×absurdity + 0.25×waste_purity
 ## Media one-liners (pain unit)
 
 - **Charleroi light metro — half-built network, ghost ** (€1.50 bn mid): ~**77,320 Belasting-FTE** · ~**50,848 nettoloon-jaren** · **634 min (~10.6 h)** per employee if split.
-- **Meal/eco/cheque parafiscal restricted-scrip econom** (€11.00 bn mid): ~**567,010 Belasting-FTE** · ~**372,881 nettoloon-jaren** · **4652 min (~3.2 d)** per employee if split.
 - **Brussels Metro line 3 — +hundreds-% budget path / ** (€4.76 bn mid): ~**245,361 Belasting-FTE** · ~**161,356 nettoloon-jaren** · **2013 min (~1.4 d)** per employee if split.
 - **Smeerpijp (Limburg–Antwerp industrial sewer never ** (€100.0 m mid): ~**5,155 Belasting-FTE** · ~**3,390 nettoloon-jaren** · **42.3 min** per employee if split.
 - **i-Police federal police digitalisation failure** (€150.0 m mid): ~**7,732 Belasting-FTE** · ~**5,085 nettoloon-jaren** · **63 min (~1.1 h)** per employee if split.
 - **Company-car tax expenditure package (10y class)** (€35.00 bn mid): ~**1,804,124 Belasting-FTE** · ~**1,186,441 nettoloon-jaren** · **14801 min (~10.3 d)** per employee if split.
 - **Banking crisis public capital injections (Fortis/D** (€22.00 bn mid): ~**1,134,021 Belasting-FTE** · ~**745,763 nettoloon-jaren** · **9304 min (~6.5 d)** per employee if split.
+- **Cheque economy pure waste (admin + restriction DWL** (€2.50 bn mid): ~**128,866 Belasting-FTE** · ~**84,746 nettoloon-jaren** · **1057 min (~17.6 h)** per employee if split.
 - **Thuin Athénée boarding school complex offset by 1.** (€15.0 m mid): ~**773 Belasting-FTE** · ~**508 nettoloon-jaren** · **6.3 min** per employee if split.
 - **Oosterweelverbinding (Antwerp ring completion) — c** (€12.00 bn mid): ~**618,557 Belasting-FTE** · ~**406,780 nettoloon-jaren** · **5075 min (~3.5 d)** per employee if split.
 - **Smaakhaven food innovation campus subsidy (Radar c** (€38.0 m mid): ~**1,959 Belasting-FTE** · ~**1,288 nettoloon-jaren** · **16.1 min** per employee if split.
