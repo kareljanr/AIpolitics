@@ -4273,3 +4273,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3; sources +1; budgets +47; cmt +2; lb +9; FOI **gap_vl_beleid_zorginfra_l5** ready + draft; rq_367=done; spawn **rq_368**; ticks=376
 - FOI: GCF2BA residual + soc-akkoorden dual GHF2TR + VIPA provider/municipal L5 human send only
 - Next: prio5 **rq_368**; deferred **rq_116** SWA
+
+### 2026-08-01T03:15:00Z - tick 377
+- Unit: **rq_368** (FOI-adjacent hole-fill - **Iriscare RA2024 institutional outturn dual AF/care**)
+- Found (strong primary Iriscare Rapport annuel 2024):
+  - Total **depenses EUR 1,732.255m** / recettes **1,727.883m**
+  - **Vivalis dotation 1,660.923m** (~96pct of receipts)
+  - **Allocations familiales 1,055.302m** (largest)
+  - **MR forfait 345.969m** - **APA 35.386m**
+  - **Famiris** public channel **427m** (122,524 children; 65,117 families)
+  - Recoveries AF 51.549m - ANM 2.972m - placements 1.043m
+  - Headcount **363**; dual VL GP 4.91bn + WAL AF 3.01bn class
+- Wrote: entities +2; sources +1; budgets +14; cmt +1; lb +6; FOI **gap_iriscare_l5_2024** ready + draft; rq_368=done; spawn **rq_369**; ticks=377
+- FOI: private AF caisses + MR operators + payroll L5 human send only
+- Next: prio5 **rq_369**; deferred **rq_116** SWA
