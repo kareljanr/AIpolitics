@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **310** (2026-07-30) · **~677** leaderboard rows  
+**As-of:** tick **320** (2026-07-30) · **~704** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -38,7 +38,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 14 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Natural gas product rate-diff vs gasoline TOE |
 | 15 | `lb_union_pay_admin_169m` | **169.0 m** | 7.9 | Union unemployment payment admin grants ~169m |
 
-### Large stock / off-TE / temporary / procurement map (not pure annual waste top 10)
+### Large stock / off-TE / temporary / dual-structure map (not pure annual waste top 10)
 
 | ID | Stock / envelope / peak | Note |
 |-----|------------------:|------|
@@ -46,18 +46,22 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_synatom_assets_12_9bn` | **12.9 bn** | Pre/post CAP provision assets |
 | `lb_creg_crisis_pack_2bn_2023` | **~2.09 bn** peak 2023 | Temporary energy-crisis CREG social+basisfonds |
 | `lb_fed_consultancy_2_5bn` | **~0.84 bn/yr** class | CoA 2.52bn 2020–22 IT-heavy; inventory FOI |
-| `lb_kamer_dotatie_9pack_149m` | **149 m** kred 2026 | Kamer-dotatie democratic control pack |
-| `lb_raad_van_state_50m` | **~50 m** 2025 | IBZ-hosted dual Hof Kamer-dotatie |
+| `lb_hr_rail_payroll_2_4bn` | **~2.37 bn** omzet | Dual employer pass-through; NMBS FTE0 statutory / Infrabel 9.4k |
+| `lb_smals_external_it_206m` | **>206 m** 2024 | External IT specialists via Smals; dual Egov Select |
+| `lb_ypto_nmbs_ih_wedge_193m` | **~193 m** class | NMBS-Ypto IH classification wedge |
+| `lb_public_ict_dual_stack_be` | multi-entity | Smals/Digipolis/ETNIC/Cipal/Ypto dual map |
+| `lb_vl_local_ict_dual_cipal_digipolis` | **114m + 246m** | Commercial Cipal vs public Digipolis AGB |
+| `lb_nmbs_statutory_fte_zero` | **0 FTE** statutory | Dual opacity: ops 17k headcount invisible on NMBS accounts |
 
 ## “Clown / high absurdity” shortlist (not pure size)
 
 | Rank by abs | ID | Abs | Annual € class | One-liner |
 |------------:|-----|----:|----------------|-----------|
-| 1 | `lb_vl_wassalon_podcast` | 9.5 | **266.7 k** | VL gelijke kansen vodcast Het Wassalon 800k over 3 |
-| 2 | `lb_vl_airco_mvp_luchtlucht` | 9.0 | **300** | Flanders MVP air-to-air heat pump (aircon dual-use |
+| 1 | `lb_vl_wassalon_podcast` | 9.5 | **266.7 k** | VL gelijke kansen vodcast Het Wassalon 800k over 3y |
+| 2 | `lb_vl_airco_mvp_luchtlucht` | 9.0 | **300** | Flanders MVP air-to-air heat pump (aircon dual-use) |
 | 3 | `lb_company_cars_fpb` | 8.5 | **4.70 bn** | Company cars TE package FPB ~4.7-5.2bn |
-| 4 | `lb_cheque_economy` | 8.5 | **1.07 bn** | Cheque economy meal vouchers (para)fiscal + restri |
-| 5 | `lb_union_pay_admin_169m` | 8.5 | **169.00 m** | Union unemployment payment admin grants ~169m 2024 |
-| 6 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | **3.66 m** | Flanders Mijn Kortingsbon 250 EUR fridge/washer/fr |
+| 4 | `lb_cheque_economy` | 8.5 | **1.07 bn** | Cheque economy meal vouchers (para)fiscal |
+| 5 | `lb_union_pay_admin_169m` | 8.5 | **169.00 m** | Union unemployment payment admin grants ~169m |
+| 6 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | **3.66 m** | Flanders Mijn Kortingsbon 250 EUR fridge/washer |
 
-*Top 10 **stable** vs @300 on pure-waste mega items (fossil, company cars, cheque TE, EIWT). Ticks 301–309 raised **institutional map** (KSC, GBA, Ombuds, Kamer-dotatie 9-pack, RvS dual) and **CoA consultancy €2.52bn** as high-priority opacity — not a re-ranking of fossil/cars unless pi exceeds. Core courts/regulators are **not pure clown waste**; consultancy opacity is the new high-pi mechanism seed.*
+*Top 10 **stable** vs @310 on pure-waste mega items (fossil, company cars, cheque TE, EIWT). Ticks 311–319 raised **dual ICT + dual rail employer maps** (Smals/Ypto/TUC/ETNIC/Cipal; HR/NMBS/Infrabel/RailFac) as high-mechanism opacity — not a re-ranking of fossil/cars unless pi exceeds. NMBS statutory FTE 0 + HR €2.4bn pass-through is the standout dual-structure transparency flag.*

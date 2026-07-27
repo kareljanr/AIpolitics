@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T22:15:00Z,rq_311,319,no,Scheduler 60s. NEXT MANDATORY rq_310 progress@320; then rq_312; rq_116 SWA deferred. tick319 Rail Facilities 14.8m dual HR.
+main,continuous,hole_fill,2026-07-30T22:45:00Z,rq_310,320,no,Scheduler 60s. Next prio5 rq_312; rq_116 SWA deferred. FOI ready ~138. tick320 progress: L2 89-96 L5 16-25 dual ICT+rail maps.

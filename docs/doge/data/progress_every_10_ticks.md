@@ -20,41 +20,42 @@
 
 ---
 
-## Snapshot at **tick 310** (2026-07-30)
+## Snapshot at **tick 320** (2026-07-30)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~88–96%** (order of magnitude) | Up from ~87–95% @300: **Kamer-dotatie 9-inst pack** approved kred **€149.3m** (Rekenhof €71m + GBA €15.9m + Comité P €14.3m + Hof €14.5m + Ombuds €8.3m + HRJ €7.4m + CTRG €6.7m + Comité I €6.2m + FIRM €5.1m); **Raad van State ~€50m** IBZ-hosted dual Hof; AIG €9m + OCAD €4.1m; **CoA federal consultancy ~€0.84bn/yr class** (2.52bn 2020–22, IT 81%) |
-| **D. L5 named end-receivers** | **~15–24%** of TE (generous) | Slight uptick: consultancy **top buyers named** (NMBS €465m / Infrabel €319m / Finances €185m 3y); ETF 140 projects still EUR FOI; pure ASBL/contractor bulk residual |
-| **E. FOI-ready gaps** | **~132** drafts ready | Human send only; answered **~5** |
+| **C. L2 entity totals** | **~89–96%** (order of magnitude) | Up from ~88–96% @310: **public ICT dual map** Smals €579m / Digipolis €246m / ETNIC €124–144m / Cipal consol €114m / Ypto €140m; **rail dual closed class** HR €2.37bn + NMBS ops 16,976 headcount / statutory FTE 0 + Infrabel 9,402 FTE + payroll-in-services €810m + Rail Facilities €15m; AGMJ **801 ETP** + FWB DO11 traitements **€437.6m** |
+| **D. L5 named end-receivers** | **~16–25%** of TE (generous) | Slight uptick: CoA consultancy top buyers + Ypto IH wedge ~€193m + Smals external IT >€206m named mechanisms; bulk ASBL/contractor and per-union L5 still FOI |
+| **E. FOI-ready gaps** | **~138** drafts ready | Human send only; answered **~5**; total FOI rows **~145** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**. CoA consultancy **€2.52 bn / 3y** is **procurement-adjacent TE** (ops support), not pure taxex; annual class ~**€0.84 bn** for waste ranking.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock** / Synatom assets — waste/risk map, **not cash TE flow**. CoA consultancy **€2.52 bn / 3y** (~**€0.84 bn/yr**) remains high-priority **procurement opacity** seed.
 
-### Inventory (tick 310)
+### Inventory (tick 320)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~3833 |
-| commitments.csv | ~583 |
-| leaderboard.csv | ~677 |
-| entities.csv | ~265 |
-| sources.csv | ~599 |
-| FOI ready | ~132 |
+| budgets.csv | ~3917 |
+| commitments.csv | ~600 |
+| leaderboard.csv | ~704 |
+| entities.csv | ~273 |
+| sources.csv | ~614 |
+| FOI ready | ~138 |
 | FOI answered | ~5 |
-| FOI total rows | ~139 |
-| research_queue | ~302 (open: rq_116 deferred + rq_302 hole-fill) |
+| FOI total rows | ~145 |
+| research_queue | ~313 (open: rq_116 deferred + rq_312 hole-fill) |
 
-### What improved since tick 300
+### What improved since tick 310
 
-- **Regulators fee-financed:** KSC budget class **~€8.1m** + NBB checks **€454k** (tick303); FANC fee model refined earlier.  
-- **GBA privacy regulator:** werkings **€15.1–15.3m** 2024–25; staff **84→96**; toewijzing cut via reserves (tick304).  
-- **Federale Ombudsman:** budget **€8.0–8.3m**; outturn 2024 **~€6.61m** util 83%; dots decline via boni X→X+2 (tick305).  
-- **Kamer-dotatie pack:** full **9 institutions** approved 2026 kred **€149.28m** / dots **€133.13m** (Moesen +0.78% dots); Rekenhof **€71m** reclassified as spend entity (tick306–307).  
-- **FIRM + CTRG:** approved **€5.08m** / **€6.69m** 2026 (tick307).  
-- **Raad van State dual finance:** IBZ-hosted **~€50m** 2025 vs Hof Kamer-dotatie **~€14.5m**; AIG **€9.05m**; OCAD **€4.12m** (tick308).  
-- **Federal consultancy CoA:** **€2.525bn** 2020–22 (IT **€2.03bn**); top NMBS/Infrabel/Finances; no central inventory — high waste-priority seed (tick309).  
+- **Smals deepen:** omzet split SS **62.9%** / fed **25.4%**; external IT specialists billed **>€206m** 2024; Egov Select model dual (tick311).  
+- **Ypto NMBS IT:** omzet **€140.2m** 2025; CoA IH claim wedge **~€193m** external via Ypto (tick312).  
+- **TUC Rail:** omzet **€182–184m**; dual Ypto stack ~**€322m** statutory pair (tick313).  
+- **ETNIC FWB ICT:** CoA recettes **€124.1m** adj2024 / liq **€143.7m** init2025; reserve clawback **€11.5m** (tick314); Exposé BI2026 moyens **€123m** (tick318).  
+- **Cipal Schaubroeck:** statutory **~€95–96m** / consol **€114.4m** 2024; sold to Topicus/TSS; dual Digipolis public AGB (tick315).  
+- **HR Rail dual closed class:** Infrabel YE FTE **9,402** + payroll-in-services **€809.6m**; NMBS ops headcount **16,976** + **statutory FTE 0**; residual ~**1.4k** FTE / NMBS share class **~€1.50bn** (ticks316–317).  
+- **AGMJ:** **801 ETP** mid-2025; DO11 traitements pack **€437.6m**; new MDJ/AGAJ **€8.8m** (tick318).  
+- **Rail Facilities:** omzet **€14.8m** 2025; FTE 0 dual HR (tick319).  
 
 ---
 
@@ -73,7 +74,7 @@
 | 200 | 100% | 100% | ~68–76% | ~7–14% | ~68 | Holdings+ports+rail dual |
 | 210 | 100% | 100% | ~70–78% | ~8–15% | ~71 | Fedasil+MDK+Antwerp L5+PZA+CAW |
 | 220 | 100% | 100% | ~72–80% | ~8–16% | ~71 | Antwerp AGB mega stack ~631m |
-| 230 | 100% | 100% | ~74–82% | ~9–17% | ~71 | Digipolis 246m + culture 16/16 + social ~32m |
+| 230 | 100% | 100% | ~74–82% | ~9–17% | ~71 | Digipolis 246m + police 16/16 + social ~32m |
 | 240 | 100% | 100% | ~78–86% | ~10–18% | ~77 | WVG IVAs + AViQ + AF duals + COCOM/COCOF/VGC |
 | 250 | 100% | 100% | ~79–87% | ~11–19% | ~87 | AJH dual justice + equality triple + fossil off-TE + Charleroi L5 |
 | 260 | 100% | 100% | ~81–89% | ~12–20% | ~92 | Export+tourism+WBI duals; FIT/WBI FOI public closes |
@@ -81,4 +82,5 @@
 | 280 | 100% | 100% | ~84–92% | ~14–22% | ~106 | SS CoA + Smals/KSZ + health + CREG/BIPT |
 | 290 | 100% | 100% | ~86–94% | ~14–22% | ~115 | Nuclear dual + asylum + Hedera stock + ASEVA |
 | 300 | 100% | 100% | ~87–95% | ~15–23% | ~124 | FPS Economy energy/crisis/H2/telecom/ETF/quality |
-| **310** | **100%** | **100%** | **~88–96%** | **~15–24%** | **~132** | **Current** (Kamer-dotatie pack + RvS dual + CoA consultancy 2.52bn) |
+| 310 | 100% | 100% | ~88–96% | ~15–24% | ~132 | Kamer-dotatie pack + RvS dual + CoA consultancy 2.52bn |
+| **320** | **100%** | **100%** | **~89–96%** | **~16–25%** | **~138** | **Current** (ICT dual map + rail dual FTE close + AGMJ 801 ETP) |

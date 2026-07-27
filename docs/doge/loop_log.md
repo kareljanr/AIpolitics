@@ -3514,3 +3514,16 @@ Append-only. Each tick adds a short entry.
 - FOI: activity L5 low-medium prio human send
 - Next: **MANDATORY rq_310 progress@320**; then rq_312; deferred **rq_116** SWA
 
+
+### 2026-07-30T22:45:00Z - tick 320 (progress milestone)
+- Unit: **rq_310** (mandatory progress@320 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~89-96%** (up from ~88-96% @310) — public ICT dual Smals/Digipolis/ETNIC/Cipal/Ypto; rail dual HR 2.37bn + NMBS 16976/FTE0 + Infrabel 9402 + payroll 810m + RailFac 15m; AGMJ 801 ETP + DO11 437.6m
+  - **D L5:** **~16-25%** — consultancy/Ypto/Smals external mechanisms; ASBL bulk residual
+  - **E FOI ready:** **~138** (answered ~5)
+- Waste top10: **stable** fossil/company cars/cheque TE/EIWT; dual ICT+rail high-mechanism noted off pure annual top10
+- Inventory: budgets ~3917 / cmt ~600 / lb ~704 / entities ~273 / sources ~614
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_310=done; ticks=320
+- Next: prio5 **rq_312**; deferred **rq_116** SWA; human FOI send stack ~138 ready
+
