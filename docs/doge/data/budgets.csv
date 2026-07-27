@@ -4475,3 +4475,14 @@ bud_fwb_ep_loisirs_culturels_2026,fwb_education_permanente,2026,626000,,,budgete
 bud_vl_scw_vek_2026_refresh,vl_scw,2026,83125000,,,budgeted,src_vl_bbt_cultuur_bo2026_scw,strong,SCW VEK 83.125m BO2026 refresh entity vl_scw
 bud_vl_scw_vak_2026_refresh,vl_scw,2026,83190000,,,budgeted,src_vl_bbt_cultuur_bo2026_scw,strong,SCW VAK 83.190m BO2026
 bud_popular_edu_dual_vl_fwb_2026,vl_scw,2026,127729000,,,budgeted,src_fwb_exp_part_dep_2026_ep,medium,Illustrative dual: VL SCW 83.125 + FWB EP CL 44.604 ~127.7m; not TE-additive; excludes formal EPA/VO and jeunesse
+bud_vl_kinderopvang_2026,vl_kinderopvang,2026,1557700000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Opgroeien KO uitgaven 1557.7m BO2026 BBT tech Q; GEF2UX-IS sector split"
+bud_vl_kinderopvang_voorschools_2026,vl_kinderopvang,2026,1290000000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Voorschoolse kinderopvang 1290m of KO 1557.7m"
+bud_vl_kinderopvang_buitenschools_2026,vl_kinderopvang,2026,204500000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Buitenschoolse kinderopvang 204.5m of KO 1557.7m"
+bud_vl_kinderopvang_zijinstroom_2026,vl_kinderopvang,2026,30000000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Zij-instroom budget 30m within KO package"
+bud_vl_pgjo_2026,opgroeien,2026,36200000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"PGJO preventieve gezinsondersteuning 36.2m BO2026"
+bud_vl_adoptie_2026,opgroeien,2026,3900000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Adoptie 3.9m (Afstammingscentrum 0.874 + binnenlands 0.669 + residual)"
+bud_vl_consultatiebureaus_2026,opgroeien,2026,18000000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Consultatiebureaus 18m BO2026"
+bud_vl_overkop_base_2026,opgroeien,2026,4600000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"OverKop-huizen excl uitbreidingsbeleid 4.6m"
+bud_vl_huizen_kind_2026,opgroeien,2026,3600000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Huizen van het Kind incl Brussel 3.6m; pilots 1.35m separate"
+bud_vl_huizen_kind_pilots_2026,opgroeien,2026,1350000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,strong,"Huizen van het Kind pilootprojecten 1.35m"
+bud_childcare_dual_vl_one_2026,vl_kinderopvang,2026,2318537000,,,budgeted,src_vl_bbt_wvga_tech_2026_ko,medium,"Illustrative dual: VL KO 1557.7 + FWB ONE 760.837 ~2318.5m; not TE-additive; populations differ"

@@ -4103,3 +4103,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +2; budgets +11; cmt +1; lb +4; FOI **gap_popular_edu_dual_vl_fwb_l5** ready + draft; rq_355=done; spawn **rq_356**; ticks=364
 - FOI: top-30 SCW + EP associations human send only
 - Next: prio5 **rq_356**; deferred **rq_116** SWA
+
+### 2026-07-31T21:15:00Z - tick 365
+- Unit: **rq_356** (FOI-adjacent hole-fill - **dual childcare VL Opgroeien KO + FWB ONE**)
+- Found (strong primary VL BBT WVGA tech Q + FWB DO19 ONE):
+  - Flanders **kinderopvang** **EUR 1,557.7m** BO2026:
+    - voorschools **1,290m** · buitenschools **204.5m** · zij-instroom **30m**
+    - residual VIA/loketten inside package
+  - Related Opgroeien: PGJO **36.2m** · adoptie **3.9m** · consultatiebureaus **18m** · OverKop base **4.6m** · Huizen van het Kind **3.6m** + pilots **1.35m**
+  - FWB **ONE** DO19 **EUR 760.837m** 2026 (2025: 711.833m):
+    - dot main **604.028m** · IT 35.3 · reform 27.7 · places 5.0 · accueillantes 20.8 · emploi 49.4 · nouvelles 15.1
+  - Dual childcare class **~EUR 2.32bn** (not TE-additive; largest community dual mapped).
+  - Excludes: Groeipakket/AF; AJ DO17 470.6m protection; recreational youth.
+- Wrote: entities +1 (notes +2); sources +2; budgets +11; cmt +1; lb +5; FOI **gap_childcare_dual_vl_one_l5** ready + draft; rq_356=done; spawn **rq_357**; ticks=365
+- FOI: top operators places matrix both sides human send only
+- Next: prio5 **rq_357**; deferred **rq_116** SWA

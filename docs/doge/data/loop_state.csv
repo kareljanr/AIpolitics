@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T20:45:00Z,rq_355,364,no,Scheduler 60s. Next prio5 rq_356; rq_116 SWA deferred. FOI ready. tick364 popular education dual SCW/EP.
+main,continuous,hole_fill,2026-07-31T21:15:00Z,rq_356,365,no,Scheduler 60s. Next prio5 rq_357; rq_116 SWA deferred. FOI ready. tick365 childcare dual KO/ONE ~2.32bn.
