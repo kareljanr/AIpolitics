@@ -1858,3 +1858,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 22; cmt 1; lb 2; rq_177=done; seeded **rq_179**.
 - FOI: Antwerp/Mons + ready stack human send; no new FOI (Fluxys figures public).
 - Next: prio5 **rq_179**; deferred **rq_116** SWA.
+
+### 2026-07-28T11:25:00Z - tick 184
+- Unit: **rq_179** (FOI-adjacent hole-fill - **SFPIM federal holding 2025 figures**)
+- Found (strong primary official figures page):
+  - **Assets EUR 11.679bn** end-2025 (11.523bn 2024) · **equity 11.445bn** · financial assets **9.847bn** · cash **1.355bn**.
+  - **Net income 291m** 2025 (315.2m 2024) · pretax 312m · **dividend to State 78m** (86m 2024).
+  - Recurring financial products **825m** · opex **35m** · staff **39** · portfolio **189** companies · 8 new interests.
+  - Non-recurrent charges **586m** 2025 (1.259bn 2024) · non-rec income 112m — large valuation swing.
+  - Key highlight 211.2m profit medium (definition vs table net 291m unclear).
+  - Dual holding map: **SFPIM federal** + PMV Flanders + Wallonie Entreprendre.
+- Antwerp register / Mons BI2026: still no public bulk L5 (rechecked negative).
+- Wrote: sources 2; entity 1; budgets 23; cmt 1; lb 2; FOI **gap_sfpim_l5_stakes** ready; rq_179=done; seeded **rq_180**.
+- FOI: L5 stakes top50 + impairments human send only.
+- Next: prio5 **rq_180**; deferred **rq_116** SWA.

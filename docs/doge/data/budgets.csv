@@ -1911,3 +1911,26 @@ bud_fluxys_statutory_profit_2025,fluxys_belgium,2025,85500000,,,outturn,src_flux
 bud_fluxys_staff_2025,fluxys_belgium,2025,994,,,outturn,src_fluxys_ar2025_press,strong,Active employees 994 end-2025 (+102 hires)
 bud_fluxys_capex_transmission_2025,fluxys_belgium,2025,246200000,,,outturn,src_fluxys_ar2025_press,strong,Transmission CAPEX 246.2m of which Knokke-Evergem 68.5m
 bud_fluxys_reg_buffer_claim_300m,sec_federal,2025,300000000,,,budgeted,src_fluxys_ar2025_press,medium,Federal Nov2025 budget agreement intent to withdraw 300m from Fluxys regulatory account positive balances; legality contested by Fluxys; not cash outturn
+bud_sfpim_assets_2025,sfpim,2025,11679000000,,,outturn,src_sfpim_figures_2025,strong,Total assets 11.679bn end-2025 (table mEUR 11.679)
+bud_sfpim_assets_2024,sfpim,2024,11523200000,,,outturn,src_sfpim_figures_2025,strong,Total assets 11.5232bn end-2024
+bud_sfpim_fin_assets_2025,sfpim,2025,9847000000,,,outturn,src_sfpim_figures_2025,strong,Financial assets 9.847bn end-2025
+bud_sfpim_fin_assets_2024,sfpim,2024,9883700000,,,outturn,src_sfpim_figures_2025,strong,Financial assets 9.8837bn end-2024
+bud_sfpim_cash_2025,sfpim,2025,1355000000,,,outturn,src_sfpim_figures_2025,strong,Cash 1.355bn end-2025
+bud_sfpim_cash_2024,sfpim,2024,1137800000,,,outturn,src_sfpim_figures_2025,strong,Cash 1.1378bn end-2024
+bud_sfpim_equity_2025,sfpim,2025,11445000000,,,outturn,src_sfpim_figures_2025,strong,Equity 11.445bn end-2025
+bud_sfpim_equity_2024,sfpim,2024,11232500000,,,outturn,src_sfpim_figures_2025,strong,Equity 11.2325bn end-2024
+bud_sfpim_capital_2025,sfpim,2025,9155000000,,,outturn,src_sfpim_figures_2025,strong,Subscribed capital 9.155bn end-2025
+bud_sfpim_retained_2025,sfpim,2025,2028000000,,,outturn,src_sfpim_figures_2025,strong,Retained earnings 2.028bn end-2025
+bud_sfpim_debts_2025,sfpim,2025,234000000,,,outturn,src_sfpim_figures_2025,strong,Debts total 234m incl dividend debts 78m end-2025
+bud_sfpim_net_income_2025,sfpim,2025,291000000,,,outturn,src_sfpim_figures_2025,strong,Net income 291m 2025 (income statement table)
+bud_sfpim_net_income_2024,sfpim,2024,315200000,,,outturn,src_sfpim_figures_2025,strong,Net income 315.2m 2024
+bud_sfpim_pretax_2025,sfpim,2025,312000000,,,outturn,src_sfpim_figures_2025,strong,Pre-tax result 312m 2025
+bud_sfpim_dividend_fy_2025,sfpim,2025,78000000,,,budgeted,src_sfpim_figures_2025,strong,Dividend for financial year 78m 2025 (to State)
+bud_sfpim_dividend_fy_2024,sfpim,2024,86000000,,,outturn,src_sfpim_figures_2025,strong,Dividend for financial year 86m 2024
+bud_sfpim_recurring_fin_products_2025,sfpim,2025,825000000,,,outturn,src_sfpim_figures_2025,strong,Recurring financial products 825m 2025
+bud_sfpim_recurring_opex_2025,sfpim,2025,35000000,,,outturn,src_sfpim_figures_2025,strong,Recurring operating charges 35m 2025 (staff 39)
+bud_sfpim_nonrec_charges_2025,sfpim,2025,586000000,,,outturn,src_sfpim_figures_2025,strong,Non-recurrent charges 586m 2025 (write-downs/reval class)
+bud_sfpim_nonrec_income_2025,sfpim,2025,112000000,,,outturn,src_sfpim_figures_2025,strong,Non-recurrent income 112m 2025
+bud_sfpim_portfolio_companies_2025,sfpim,2025,189,,,outturn,src_sfpim_figures_2025,strong,Companies in portfolio 189 end-2025
+bud_sfpim_staff_2025,sfpim,2025,39,,,outturn,src_sfpim_figures_2025,strong,Team headcount 39 2025
+bud_sfpim_key_profit_highlight_2025,sfpim,2025,211200000,,,outturn,src_sfpim_figures_2025,medium,Key-figure highlight 211.2m profit (may differ from table net 291m; definition not on page)
