@@ -32,8 +32,10 @@ Master index. One row per distinct policy instrument (or child of a package).
 | fiscal_confidence | enum | `strong` `medium` `weak` `speculative` |
 | fiscal_is_saving | enum | `yes` / `no` / blank — if yes, pain columns are **negative** (relief) |
 | pain_basis_eur | number | signed mid € used for pain (cost + / saving −) |
-| pain_tax_fte | number | **Belasting-FTE** = pain_basis ÷ employee labour tax/year (~€19.4k). “How many average workers’ full annual *work-tax bill* equal this?” |
-| pain_net_years | number | **Nettoloon-jaren** = pain_basis ÷ net take-home/year (~€29.5k). “How many years of take-home pay equal this?” |
+| pain_tax_fte | number | **Belasting-FTE** = pain_basis ÷ employee labour tax/year (~€19.4k) |
+| pain_net_years | number | **Nettoloon-jaren** = pain_basis ÷ net take-home/year (~€29.5k) |
+| pain_eur_per_employee | number | pain_basis ÷ N Belgian employees (~4.85m) |
+| pain_work_minutes | number | **Werkminuten** = (€/employee) ÷ (gross € per work-minute). Minutes each employee worked for this to exist |
 | pain_note | string | unit version + caveats |
 | clownpoints | number | 0–10 |
 | genius_score | number | 0–10 |
@@ -136,13 +138,13 @@ Append-only re-score log.
 
 ```text
 policy_index = genius_score - clownpoints
-pain_tax_fte = pain_basis_eur / tax_rounded_eur      # see data/taxpayer_unit.csv
+pain_tax_fte = pain_basis_eur / tax_rounded_eur
 pain_net_years = pain_basis_eur / net_rounded_eur
+pain_eur_per_employee = pain_basis_eur / employees_be
+pain_work_minutes = pain_eur_per_employee / (gross_eur_year / work_minutes_year)
 ```
 
-**Why two pain columns (not people vs years of the same tax):**  
-`cost / annual_tax` is the same number whether you say “N people × 1 year” or “1 person × N years”.  
-We instead pair **labour-tax FTE** (fiscal incidence of *work* taxes) with **net-wage years** (consumption sacrifice people feel in the bank). Full doctrine: [`TAXPAYER_UNIT.md`](TAXPAYER_UNIT.md).
+Full doctrine: [`TAXPAYER_UNIT.md`](TAXPAYER_UNIT.md).
 
 Public sort:
 

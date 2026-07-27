@@ -41,7 +41,7 @@ Also apply **truth-policy** discipline (`.grok/skills/truth-policy/SKILL.md`) an
 - Same rubric for every party; **extensive** steelman + ambition/ROI fact-check (Smaakhaven v2 depth is the bar).  
 - Weak evidence → low `score_confidence`, not fake precision.  
 - “Do nothing / abolish” must appear in options.  
-- **Taxpayer pain (mandatory):** when public € known, fill `pain_tax_fte` (Belasting-FTE) and `pain_net_years` (Nettoloon-jaren) per `docs/proposal-radar/TAXPAYER_UNIT.md`. Savings → negative. Never invent € for pain.
+- **Taxpayer pain (mandatory):** when public € known, fill `pain_tax_fte`, `pain_net_years`, and `pain_work_minutes` (Werkminuten — bill ÷ all BE employees → minutes of work each) per `docs/proposal-radar/TAXPAYER_UNIT.md`. Run `scripts/recompute_pain.py`. Savings → negative. Never invent € for pain.
 
 ## Hard rules
 

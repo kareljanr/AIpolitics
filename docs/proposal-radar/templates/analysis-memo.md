@@ -95,8 +95,10 @@ Unit: `docs/proposal-radar/TAXPAYER_UNIT.md` + `data/taxpayer_unit.csv`
 
 | Metric | Value | Meaning |
 |--------|------:|---------|
-| **Belasting-FTE** (`pain_tax_fte`) | | Public € ÷ annual work-tax of one average employee. *“N workers’ full yearly labour-tax bill.”* Negative if saving. |
-| **Nettoloon-jaren** (`pain_net_years`) | | Public € ÷ annual net wage. *“Years of take-home pay equal to this.”* |
+| **Belasting-FTE** (`pain_tax_fte`) | | Public € ÷ annual work-tax of one average employee. Negative if saving. |
+| **Nettoloon-jaren** (`pain_net_years`) | | Public € ÷ annual net wage (one person). |
+| **Werkminuten** (`pain_work_minutes`) | | Bill ÷ all BE employees → minutes of average work **each**. Most personal. |
+| € / employee (`pain_eur_per_employee`) | | Public € ÷ N employees (~4.85m). |
 
 - Do **not** invent € to fill pain columns.  
 - Do **not** use full tax wedge (employer SSC) for “what the worker pays.”  

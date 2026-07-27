@@ -261,7 +261,7 @@ If `weak` or lower: still score, but **do not** put in top public “worst/best 
 │  1-line steelman                          │
 │  1-line why it fails / works              │
 │  Fiscal: €X–Y (confidence)                │
-│  Belasting-FTE: N   Nettoloon-jaren: M    │
+│  Belasting-FTE · Nettoloon-jaren · Werkminuten │
 │  Falsifier: …                             │
 │  Sources: [1] [2]                         │
 └──────────────────────────────────────────┘

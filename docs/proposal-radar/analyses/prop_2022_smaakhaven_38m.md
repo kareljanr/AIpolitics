@@ -25,12 +25,18 @@ v2 exists because the *analysis* was too thin for a €38m multi-year public com
 | Sign | cost (+) |
 | **Belasting-FTE** | **≈ 1,959** |
 | **Nettoloon-jaren** | **≈ 1,288** |
-| One-liner NL | *“Smaakhaven kost de **volledige jaarbelasting op arbeid** van ongeveer **2.000** doorsnee voltijdse werknemers — of **1.300 jaar nettoloon** van één persoon.”* |
+| **€ / Belgische werknemer** | **≈ €7.84** (÷ ~4.85m employees) |
+| **Werkminuten / werknemer** | **≈ 16 min** |
 
-Unit: `be_avg_single_ft` v1 — €19,400 labour tax / €29,500 net (see `TAXPAYER_UNIT.md`).  
-€38m ÷ 19,400 ≈ 1,958.8; ÷ 29,500 ≈ 1,288.1.
+Unit: `be_avg_single_ft` v2 — see `TAXPAYER_UNIT.md`.  
+€38m ÷ 19,400 ≈ 1,958.8 Belasting-FTE; ÷ 29,500 ≈ 1,288 nettoloon-jaren;  
+€38m ÷ 4.85m ≈ €7.84/employee; ÷ (~€0.488 gross per work-minute) ≈ **16.1 minutes**.
 
-This is the visceral read of the same €38m: not “relance dust,” but **thousands of worker-years of labour tax**.
+One-liners NL:
+
+- *“Smaakhaven kost de **volledige jaarbelasting op arbeid** van ~**2.000** doorsnee voltijdse werknemers.”*  
+- *“Of **1.300 jaar nettoloon** van één persoon.”*  
+- *“Of: als we de rekening over **alle** Belgische werknemers verdelen, werkte **iedereen ongeveer een kwartier** voor Smaakhaven.”*
 
 ---
 

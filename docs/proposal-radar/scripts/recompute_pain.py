@@ -1,22 +1,17 @@
 #!/usr/bin/env python3
-"""Recompute pain_tax_fte and pain_net_years on proposals.csv from taxpayer_unit.csv."""
+"""Recompute all pain_* columns on proposals.csv from taxpayer_unit.csv."""
 from __future__ import annotations
 
 import csv
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parents[1] / "data"
-TAX = 19400.0
-NET = 29500.0
 
 
-def load_unit() -> tuple[float, float]:
+def load_unit() -> dict:
     p = DATA / "taxpayer_unit.csv"
-    if not p.exists():
-        return TAX, NET
     with p.open(encoding="utf-8", newline="") as f:
-        r = next(csv.DictReader(f))
-    return float(r["tax_rounded_eur"]), float(r["net_rounded_eur"])
+        return next(csv.DictReader(f))
 
 
 def mid(a: str, b: str) -> float | None:
@@ -35,44 +30,90 @@ def mid(a: str, b: str) -> float | None:
 
 
 def main() -> int:
-    tax, net = load_unit()
+    u = load_unit()
+    tax = float(u["tax_rounded_eur"])
+    net = float(u["net_rounded_eur"])
+    n_emp = float(u["employees_be"])
+    work_min = float(u["work_minutes_year"])
+    gross = float(u["gross_eur_year"])
+    # € per work-minute (gross)
+    eur_per_min = gross / work_min
+
     path = DATA / "proposals.csv"
     with path.open(encoding="utf-8", newline="") as f:
         rows = list(csv.DictReader(f))
-    fields = list(rows[0].keys()) if rows else []
-    for col in ("pain_tax_fte", "pain_net_years", "pain_basis_eur", "pain_note"):
-        if col not in fields:
-            fields.append(col)
+
+    extra = [
+        "fiscal_is_saving",
+        "pain_basis_eur",
+        "pain_tax_fte",
+        "pain_net_years",
+        "pain_eur_per_employee",
+        "pain_work_minutes",
+        "pain_note",
+    ]
+    fields: list[str] = []
+    seen: set[str] = set()
+    for f in list(rows[0].keys()) + extra:
+        if f not in seen:
+            seen.add(f)
+            fields.append(f)
+
+    # order: after fiscal_confidence
+    ordered: list[str] = []
+    for f in fields:
+        if f in extra:
+            continue
+        ordered.append(f)
+        if f == "fiscal_confidence":
+            ordered.extend(extra)
+    for f in fields:
+        if f not in ordered:
+            ordered.append(f)
+    fields = ordered
 
     for r in rows:
-        # savings: fiscal_static positive amount with basis that is a cut → detect via recommendation/notes is fragile
-        # Convention: if notes or a new field fiscal_sign; default cost positive.
-        # Use pain_note / instrument: if title has saving or we set fiscal_is_saving
-        sign = 1.0
-        if r.get("fiscal_is_saving", "").lower() in ("yes", "1", "true"):
-            sign = -1.0
+        sign = -1.0 if str(r.get("fiscal_is_saving", "")).lower() in ("yes", "1", "true") else 1.0
         m = mid(r.get("fiscal_static_min_eur", ""), r.get("fiscal_static_max_eur", ""))
-        if m is None or m == 0 and r.get("fiscal_static_max_eur") in ("", "0", None) and r.get("fiscal_static_min_eur") in ("", "0", None):
-            # unknown
-            if r.get("fiscal_static_min_eur") in ("", None) and r.get("fiscal_static_max_eur") in ("", None):
-                r["pain_tax_fte"] = ""
-                r["pain_net_years"] = ""
-                r["pain_basis_eur"] = ""
-                r["pain_note"] = r.get("pain_note") or "no_quantified_fiscal"
-                continue
-        basis = sign * (m if m is not None else 0.0)
-        # dolphin 0-5m: mid 2.5m
+        if m is None:
+            r["pain_basis_eur"] = ""
+            r["pain_tax_fte"] = ""
+            r["pain_net_years"] = ""
+            r["pain_eur_per_employee"] = ""
+            r["pain_work_minutes"] = ""
+            if not r.get("pain_note"):
+                r["pain_note"] = "no_quantified_fiscal"
+            continue
+
+        basis = sign * m
+        per_emp = basis / n_emp
+        minutes = per_emp / eur_per_min
+
         r["pain_basis_eur"] = f"{basis:.0f}"
         r["pain_tax_fte"] = f"{basis / tax:.1f}"
         r["pain_net_years"] = f"{basis / net:.1f}"
-        if not r.get("pain_note"):
-            r["pain_note"] = "mid(min,max)*sign; unit be_avg_single_ft v1"
+        r["pain_eur_per_employee"] = f"{per_emp:.4f}"
+        r["pain_work_minutes"] = f"{minutes:.2f}"
+        r["pain_note"] = (
+            f"mid*sign; unit v{u.get('unit_version', '?')} "
+            f"tax={tax:.0f} net={net:.0f} Nemp={n_emp:.0f} "
+            f"min/yr={work_min:.0f} eur/min={eur_per_min:.4f}"
+        )
 
     with path.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
-    print(f"Recomputed pain with tax={tax} net={net} for {len(rows)} rows")
+
+    print(f"Unit: tax={tax} net={net} N={n_emp:.0f} eur/min={eur_per_min:.4f}")
+    for r in rows:
+        print(
+            f"{r['proposal_id'][:32]:32} "
+            f"fte={str(r.get('pain_tax_fte','')):>10} "
+            f"net_y={str(r.get('pain_net_years','')):>10} "
+            f"min={str(r.get('pain_work_minutes','')):>8} "
+            f"€/emp={str(r.get('pain_eur_per_employee','')):>10}"
+        )
     return 0
 
 

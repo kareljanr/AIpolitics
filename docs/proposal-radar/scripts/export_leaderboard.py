@@ -54,17 +54,17 @@ def write_clowns(rows: list[dict], path: Path) -> None:
         "",
         f"Last refresh: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
         "",
-        "| Rank | Clown | Genius | Index | Belasting-FTE | Nettoloon-jaren | Title | Actor | Memo |",
-        "|------|------:|-------:|------:|--------------:|----------------:|-------|-------|------|",
+        "| Rank | Clown | Genius | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |",
+        "|------|------:|-------:|------:|--------------:|----------------:|------------:|-------|------|",
     ]
     if not ranked:
-        lines.append("| — | — | — | — | — | — | *no rows yet* | | |")
+        lines.append("| — | — | — | — | — | — | — | *no rows yet* | |")
     else:
         for i, r in enumerate(ranked[:15], 1):
             lines.append(
                 f"| {i} | {r.get('clownpoints','')} | {r.get('genius_score','')} | "
                 f"{r.get('policy_index','')} | {r.get('pain_tax_fte','')} | {r.get('pain_net_years','')} | "
-                f"{r.get('title','')} | {r.get('actor_name','')} | {memo_link(r)} |"
+                f"{r.get('pain_work_minutes','')} | {r.get('title','')} | {memo_link(r)} |"
             )
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -83,17 +83,17 @@ def write_genius(rows: list[dict], path: Path) -> None:
         "",
         f"Last refresh: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
         "",
-        "| Rank | Genius | Clown | Index | Belasting-FTE | Nettoloon-jaren | Title | Actor | Memo |",
-        "|------|-------:|------:|------:|--------------:|----------------:|-------|-------|------|",
+        "| Rank | Genius | Clown | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |",
+        "|------|-------:|------:|------:|--------------:|----------------:|------------:|-------|------|",
     ]
     if not ranked:
-        lines.append("| — | — | — | — | — | — | *no rows yet* | | |")
+        lines.append("| — | — | — | — | — | — | — | *no rows yet* | |")
     else:
         for i, r in enumerate(ranked[:15], 1):
             lines.append(
                 f"| {i} | {r.get('genius_score','')} | {r.get('clownpoints','')} | "
                 f"{r.get('policy_index','')} | {r.get('pain_tax_fte','')} | {r.get('pain_net_years','')} | "
-                f"{r.get('title','')} | {r.get('actor_name','')} | {memo_link(r)} |"
+                f"{r.get('pain_work_minutes','')} | {r.get('title','')} | {memo_link(r)} |"
             )
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -110,7 +110,12 @@ def write_weekly(rows: list[dict], path: Path) -> None:
     def bullet(r: dict) -> str:
         pain = ""
         if r.get("pain_tax_fte"):
-            pain = f" · **{r.get('pain_tax_fte')} Belasting-FTE** / {r.get('pain_net_years')} nettoloon-jaren"
+            wm = r.get("pain_work_minutes") or ""
+            pain = (
+                f" · **{r.get('pain_tax_fte')} Belasting-FTE** / "
+                f"{r.get('pain_net_years')} nettoloon-jaren / "
+                f"**{wm} werkminuten**/werknemer"
+            )
         return (
             f"- **{r.get('title')}** — clown {r.get('clownpoints')} / genius {r.get('genius_score')} "
             f"(index {r.get('policy_index')}){pain} — {r.get('actor_name')} · {r.get('jurisdiction')} · "
