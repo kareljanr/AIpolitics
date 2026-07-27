@@ -1358,3 +1358,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: source 1; budgets 20; cmt_actiris_l5_2024; lb ACS + 6th reform; rq_134=done; FOI residual ready.
 - FOI: gap_actiris_2025_26_l5 human send.
 - Next: prio6 **rq_140 hospitals** / **rq_141 universities** / **rq_120 Myria**.
+
+### 2026-07-27T22:50:00Z ? tick 148
+- Unit: **rq_140** (Hospital federal/regional investment subsidies L5 sample)
+- Found (strong NBB + BFM + named Jessa):
+  - **Flanders VIPA hospitals D.92:** public **EUR 72m 2023** + non-public **208m 2023 / 192m 2024** (total class **~280m 2023**).
+  - **Named L5:** **Jessa Hasselt VIPA ~EUR 500m over 40 years** (approved May 2026; project ~1bn; cash after opening ~2036).
+  - **Federal BFM ops:** general hospitals **EUR 9.62bn** Jan 2025; all hospitals **EUR 11.778bn 2025** (operating ? not investment).
+  - **FWB current:** CHU Liege **EUR 9m** + other UZ **EUR 7m** 2023 (NBB D.31).
+  - Strategic forfaits cash 2024 only **EUR 4.48m** medium (commitments multi-year larger).
+  - Prior stock: Flanders non-Maastricht hospital infra claim **EUR 2.184bn**.
+- Wrote: sources 6; budgets 12; cmt 3; lb 3; entities vipa+fod_volksgezondheid; rq_140=done; FOI residual ready.
+- FOI: gap_vipa_named_l5 (top named list + cash calendar) human send.
+- Next: prio6 **rq_141 universities** / **rq_142 intercommunales** / **rq_120 Myria**.

@@ -1133,3 +1133,15 @@ bud_actiris_relance_2024,actiris,2024,464000,,,outturn,src_actiris_ra_2024,stron
 bud_actiris_ukraine_2024,actiris,2024,377853.99,,,outturn,src_actiris_ra_2024,strong,Crise Ukraine
 bud_actiris_nonmarchand_2024,actiris,2024,1000000,,,outturn,src_actiris_ra_2024,strong,Accord non-marchand 2021-2024
 bud_actiris_bru_prog_2026,actiris,2026,648113000,,,budgeted,src_ccrek_bru_budget_2026_full,strong,BCR SGRBC programme line Actiris 648.1m 2026 (regional transfer perimeter not full institutional)
+bud_vipa_hosp_public_2023,vipa,2023,72000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders D.92 investment grants hospitals via VIPA to public enterprises 72m 2023
+bud_vipa_hosp_nonpublic_2023,vipa,2023,208000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders D.92 hospitals VIPA non-public enterprises 208m 2023
+bud_vipa_hosp_nonpublic_2024,vipa,2024,192000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders D.92 hospitals VIPA non-public 192m 2024
+bud_vipa_hosp_total_2023,vipa,2023,280000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Sum public+non-public VIPA hospitals D.92 2023 72+208
+bud_fl_d92_total_2023,vlaanderen_gov,2023,1204000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders total D.92 investment grants to enterprises 1.204bn 2023
+bud_fl_d92_total_2024,vlaanderen_gov,2024,1362000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,Flanders total D.92 1.362bn 2024
+bud_bfm_general_hosp_2025,fod_volksgezondheid,2025,9620000000,,,budgeted,src_gezondbelgie_bfm_2025,strong,BFM general hospitals max 9.62bn Jan 2025 (operating not pure investment)
+bud_bfm_all_hosp_2025,fod_volksgezondheid,2025,11778368068,,,budgeted,src_despecialist_bfm_2025,medium,All hospitals BFM total 11.778bn 2025 secondary citing official
+bud_fwb_chu_liege_2023,fwb_gov,2023,9000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,FWB D.31 subsidy CHU Liege 9m 2023
+bud_fwb_other_uz_2023,fwb_gov,2023,7000000,,,outturn,src_nbb_subsidies_ent_2025_vipa,strong,FWB D.31 other university hospitals 7m 2023
+bud_vipa_strategic_cash_2024,vipa,2024,4476693.98,,,outturn,src_artsenkrant_vipa_2024,medium,VIPA strategic forfaits cash paid 2024 only 4.48m (multi-year commitments larger)
+bud_jessa_vipa_envelope,vipa,2026,500000000,,,commitment,src_vrt_jessa_vipa_500m,strong,Jessa Hasselt VIPA strategic forfait package ~500m over 40y after opening (not single-year cash)
