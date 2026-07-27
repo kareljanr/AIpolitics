@@ -78,3 +78,14 @@ Append-only. Newest ticks at bottom.
 - fire_immediately=false (first run after ~24h).
 - Radar system already on main (Werkminuten + 10 v2 memos). This commit documents scheduler only.
 - Pause: loop_state paused=yes and/or scheduler_delete 019fa3e112ab.
+
+---
+
+## 2026-07-27T18:09Z — tick analyse prop_2026_volvo_gent_119m
+
+- Unit: full thorough+fair score of Volvo Car Gent up to €119m support (Flanders offer Jun + federal/Flanders MoU 15 Jul 2026).
+- Sources: VRT, Volvo Car Gent MoU page, newmobility context (megacasting/Slovakia/history).
+- Scores: clown 5.5 / genius 3.5 / index -2.0 / amend.
+- Pain ceiling: 6134 Belasting-FTE / 4034 nettoloon-jaren / 50 werkminuten per employee.
+- Not pure clown (real plant, conditionality); not genius (no structural fix; exit-threat aid; BE auto history).
+- Commit radar paths only.

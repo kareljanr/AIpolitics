@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-07-27T12:34:31Z,calibration_batch_10,1,10,no,Daily durable scheduler 019fa3e112ab (1d). RSS pipeline + one analyse unit per fire. paused=yes to idle.
+main,analyse,2026-07-27T18:09:36Z,prop_2026_volvo_gent_119m,2,11,no,tick scored Volvo Gent 119m; daily scheduler 019fa3e112ab

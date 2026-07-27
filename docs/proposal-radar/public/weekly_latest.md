@@ -1,15 +1,15 @@
 # Clowns & Genius — weekly pack
 
-Auto-generated 2026-07-27 13:33 UTC.
-Scored proposals in pack universe: **10**.
+Auto-generated 2026-07-27 18:09 UTC.
+Scored proposals in pack universe: **11**.
 
 ## This week’s clowns
 
 - **Smaakhaven (Vlaams Culinair Centrum) — €38m relance subsidy trail** — clown 8.0 / genius 1.5 (index -6.5) · **1958.8 Belasting-FTE** / 1288.1 nettoloon-jaren / **16.07 werkminuten**/werknemer — Flemish government / Toerisme Vlaanderen / City of Antwerp · flanders · [memo](../analyses/prop_2022_smaakhaven_38m.md)
 - **Project subsidy max €350k for 2027 CX World Championships Ostend** — clown 7.0 / genius 2.0 (index -5.0) · **18.0 Belasting-FTE** / 11.9 nettoloon-jaren / **0.15 werkminuten**/werknemer — Diependaele / Depraetere / De Ridder · flanders · [memo](../analyses/prop_2026_wk_veldrijden_ostend.md)
 - **Arizona soft rehab of hybrid company-car deductibility** — clown 6.5 / genius 3.0 (index -3.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2025_hybrid_car_rehab.md)
+- **Volvo Car Gent support package up to EUR 119m (Flanders + federal MoU)** — clown 5.5 / genius 3.5 (index -2.0) · **6134.0 Belasting-FTE** / 4033.9 nettoloon-jaren / **50.32 werkminuten**/werknemer — Diependaele / De Wever / Volvo Cars · multi · [memo](../analyses/prop_2026_volvo_gent_119m.md)
 - **Introduce capital gains tax (Arizona)** — clown 4.5 / genius 4.0 (index -0.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2025_cgt_capital_gains.md)
-- **Flanders Syntrum/Syntra funding €49.7m (2026-27 transition year)** — clown 4.0 / genius 4.5 (index 0.5) · **2561.9 Belasting-FTE** / 1684.7 nettoloon-jaren / **21.02 werkminuten**/werknemer — Matthias Diependaele / Vlaamse Regering · flanders · [memo](../analyses/prop_2026_vl_syntra_49m.md)
 
 ## This week’s solid / genius
 
