@@ -768,3 +768,19 @@ bud_city_l5_mons_ord_dep_xref_2025,city_mons,2025,244180817.5,,,budgeted,src_dog
 bud_fed_taxex_total_2023,fod_finance,2023,39402010000,,,estimated,src_fps_taxex_inventory_2026_pdf,strong,"Federal tax expenditure inventory quantified total 39.402bn (not ESA expenditure)"
 bud_ffs_direct_2024,fod_finance,2024,10781900000,,,estimated,src_fps_ffs_2026_summary_nl,strong,"FFS 5th inv direct subsidies benchmark1 10.782bn 1.7pct GDP"
 bud_ffs_gas_product_diff_2024,fod_finance,2024,4089400000,,,estimated,src_fps_ffs_2026_gas_product_t15,strong,"FFS product rate-diff gas 4.089bn opportunity cost vs gasoline TOE"
+bud_unia_subsidies_total_2024,unia_interfederal,2024,9454426,,,outturn,src_unia_ra_2024,strong,Total entity subsidies 2024 (federal+federated)
+bud_unia_federal_2024,unia_interfederal,2024,8170698,,,outturn,src_unia_ra_2024,strong,Federal subvention 2024
+bud_unia_federated_2024,unia_interfederal,2024,1283728,,,outturn,src_unia_ra_2024,strong,All regions/communities subsidies 2024 (ex Flanders)
+bud_unia_wal_2024,unia_interfederal,2024,761698,,,outturn,src_unia_ra_2024,strong,Region wallonne contribution 2024
+bud_unia_fwb_2024,unia_interfederal,2024,354971,,,outturn,src_unia_ra_2024,strong,Federation Wallonie-Bruxelles contribution 2024
+bud_unia_bxl_2024,unia_interfederal,2024,145867,,,outturn,src_unia_ra_2024,strong,Region Bruxelles-Capitale contribution 2024
+bud_unia_dg_2024,unia_interfederal,2024,21192,,,outturn,src_unia_ra_2024,strong,Communaute germanophone contribution 2024
+bud_unia_personnel_2024,unia_interfederal,2024,8629972,,,outturn,src_unia_ra_2024,strong,Personnel charges 2024 absolute
+bud_unia_products_total_2024,unia_interfederal,2024,12812930,,,outturn,src_unia_ra_2024,strong,All products 2024 incl projects and other
+bud_unia_subsidies_total_2025,unia_interfederal,2025,9628106,,,outturn,src_unia_ra_2025,strong,Total entity subsidies 2025
+bud_unia_federal_2025,unia_interfederal,2025,8304698,,,outturn,src_unia_ra_2025,strong,Federal subvention 2025
+bud_unia_federated_2025,unia_interfederal,2025,1323408,,,outturn,src_unia_ra_2025,strong,Region/community aggregate 2025 (no entity split in RA table)
+bud_unia_personnel_2025,unia_interfederal,2025,9050949,,,outturn,src_unia_ra_2025,strong,Personnel charges 2025
+bud_unia_products_total_2025,unia_interfederal,2025,11728153,,,outturn,src_unia_ra_2025,strong,All products 2025
+bud_vmri_budget_2025_class,vmri_vlaanderen,2025,5279000,,,budgeted,src_vmri_vp_budget_2025_26,medium,VP doc: 2025 budget 5.279m class (part self-financed from 2024 balances)
+bud_vmri_request_2026_class,vmri_vlaanderen,2026,5598000,,,budgeted,src_vmri_vp_budget_2025_26,medium,VP doc: 2026 request total 5.598m

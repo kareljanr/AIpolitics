@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,paused,continuous,2026-07-27T04:35:00Z,idle,120,yes,"AUTO-PAUSED after idle_waiting_foi ticks 117-120 (no public open work). Resume: paused=no + recreate 15m scheduler. FOI stack human-send."
+main,continuous,hole_fill,2026-07-27T12:00:00Z,rq_117,122,no,"RESUMED hole-fill. Unia map tick122. Next: rq_118 IEFH or rq_119 FIRM; pause only if human or all material euros sourced/FOI-ready."

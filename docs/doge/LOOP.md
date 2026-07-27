@@ -1,12 +1,19 @@
 # DOGE research loop
 
-Recurring agent protocol. Goal: **each tick leaves the dataset richer** until public sources are exhausted and remaining gaps are only FOI-waiting.
+Recurring agent protocol. Goal: **each tick leaves the dataset richer** until **every material public euro is either accounted (sourced) or queued as FOI-ready**.
 
 ## Cadence
 
 - **Target:** every **15 minutes** while the project is in active discovery.  
 - **Orchestration:** Grok scheduled task and/or manual `/doge-loop` run.  
 - **Tick time budget:** ~10–20 minutes of tool work; then stop and log (don’t thrash).
+
+## Pause rule (strict)
+
+- **Do not auto-pause** while open `research_queue` public work remains **or** new public fills can still reduce FOI opacity.  
+- Prefer **hole-fill**: equality/HR bodies, dual structures, large FOI-adjacent programmes (NMBS, De Lijn, VDAB/FOREM), city/province L5 when new PDFs appear.  
+- Pause only if `paused=yes` **by human** — or if truly nothing public left **and** all material gaps are already `foi_queue` status `ready`/`sent`/`answered` **and** human confirmed idle.  
+- `idle_waiting_foi` is a **mode**, not automatic pause of the scheduler.
 
 ## State files (read every tick)
 

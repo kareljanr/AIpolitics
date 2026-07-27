@@ -835,6 +835,19 @@ Append-only. Each tick adds a short entry.
 - Resume: `paused=no` + recreate 15m DOGE scheduler; or seed research_queue / send FOIs.
 
 
+### 2026-07-27T12:00:00Z -- resume + tick 122 (user hole-fill)
+- User: restart loop; start with **Unia**; fill holes; only pause when every material euro is sourced **or** FOI-ready (no auto-idle pause).
+- Recreated scheduler **15m** durable; mode=`continuous` / sprint=`hole_fill`; `LOOP.md` pause rule tightened.
+- **Unit rq_117 Unia funding (strong primary RA 2024–2025):**
+  - 2024 subsidies **€9,454,426** = federal **€8,170,698** + federated **€1,283,728** (WAL **€761,698**; FWB **€354,971**; BXL **€145,867**; DG **€21,192**; Flanders **€0**).
+  - 2025 subsidies **€9,628,106** = federal **€8,304,698** + federated aggregate **€1,323,408**.
+  - Personnel 2025 **€9,050,949**. Coalition **−25% federal** path (not yet full cash outturn).
+  - Dual: **VMRI** Flanders budget class **~€5.279m (2025)** / request **~€5.598m (2026)** (medium VP).
+- Wrote: `unia_funding_map.md`; entities Unia+VMRI; 16 budgets; 2 cmt; 2 lb; 4 sources; FOI `gap_unia_funding_detail` ready; seeded rq_118–121 (IEFH, FIRM, Myria, hole-fill); ticks=122.
+- FOI: new Unia residual (BGD codes + 2025 federated split); prior stack still human-send.
+- Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
+
+
 ### 2026-07-27T00:20:00Z — tick 105
 - Unit: **rq_105** (Federal/Flanders L5 recheck — FPS TE + VLAIO)
 - Found:
