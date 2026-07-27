@@ -3045,3 +3045,15 @@ Append-only. Each tick adds a short entry.
 - Inventory: budgets ~3081 · commitments ~503 · leaderboard ~558 · entities ~216 · sources ~561 · FOI rows ~112
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_270=done; ticks=280
 - Next: prio5 **rq_272**; deferred **rq_116** SWA; human FOI send stack
+
+### 2026-07-30T03:15:00Z - tick 281
+- Unit: **rq_272** (FOI-adjacent hole-fill - **FSMA dual CREG/BIPT/NBB**)
+- Found (strong primary FSMA JV2024):
+  - Budget werkings **EUR 112.373m** 2024 (+zetel 3.122m = contrib **115.495m**).
+  - P&L: opbrengsten **115.405m** / werkingskosten **107.469m** 2024 (101.473m 2023).
+  - Bezoldigingen **79.831m** (~74%); diensten **21.249m**; surplus return **7.907m** to supervised entities.
+  - Staff **375** (353 VTE; max 399); assets **80.226m**.
+  - Sector-contribution financed; dual CREG 22.4m + BIPT 79.8m + NBB prudential.
+- Wrote: sources +1; entity fsma; budgets +14; cmt +1; lb +4; FOI gap_fsma_budget_2025_26 ready; draft; raw JV; rq_272=done; spawn rq_273; ticks=281
+- FOI: FSMA 2025 budget detail human send; AGMJ residual still ready
+- Next: prio5 **rq_273**; deferred **rq_116** SWA

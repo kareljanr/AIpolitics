@@ -3080,3 +3080,17 @@ bud_bipt_private_radio_fees_2024,bipt,2024,19419768,,,outturn,src_bipt_ar_2024,s
 bud_bipt_staff_2024,bipt,2024,251,,,outturn,src_bipt_ar_2024,strong,Staff 251 (242.2 FTE); amount is headcount
 bud_ombuds_postal_2024,bipt,2024,2354355,,,outturn,src_bipt_ar_2024,strong,Ombudsman postal sector exp 2.354.355 (sector contribution)
 bud_ombuds_telecom_2024,bipt,2024,2695248,,,outturn,src_bipt_ar_2024,strong,Ombudsman telecom exp 2.695.248
+bud_fsma_budget_werkings_2024,fsma,2024,112373000,,,budgeted,src_fsma_jv_2024,strong,Budget werkingskosten 112.373m 2024 excl zetel 3.122m
+bud_fsma_budget_contrib_2024,fsma,2024,115495000,,,budgeted,src_fsma_jv_2024,strong,Gebudgetteerde bijdragen 115.495m = werkings 112.373 + zetel 3.122
+bud_fsma_opbrengsten_2024,fsma,2024,115405000,,,outturn,src_fsma_jv_2024,strong,P&L opbrengsten 115.405 kEUR (bijdragen 115.078 + andere 0.327)
+bud_fsma_opbrengsten_2023,fsma,2023,107396000,,,outturn,src_fsma_jv_2024,strong,P&L opbrengsten 107.396 kEUR 2023
+bud_fsma_werkingskosten_2024,fsma,2024,107469000,,,outturn,src_fsma_jv_2024,strong,Werkingskosten 107.469 kEUR 2024
+bud_fsma_werkingskosten_2023,fsma,2023,101473000,,,outturn,src_fsma_jv_2024,strong,Werkingskosten 101.473 kEUR 2023
+bud_fsma_bezoldigingen_2024,fsma,2024,79831000,,,outturn,src_fsma_jv_2024,strong,Bezoldigingen sociale lasten pensioenen 79.831 kEUR (~74pct of costs)
+bud_fsma_bezoldigingen_2023,fsma,2023,76038000,,,outturn,src_fsma_jv_2024,strong,Bezoldigingen 76.038 kEUR 2023
+bud_fsma_diensten_2024,fsma,2024,21249000,,,outturn,src_fsma_jv_2024,strong,Diensten en diverse goederen 21.249 kEUR
+bud_fsma_afschrijvingen_2024,fsma,2024,6886000,,,outturn,src_fsma_jv_2024,strong,Afschrijvingen 6.886 kEUR
+bud_fsma_surplus_return_2024,fsma,2024,7907000,,,outturn,src_fsma_jv_2024,strong,Werkingsoverschot returned to supervised entities 7.907 kEUR (art23 KB)
+bud_fsma_assets_2024,fsma,2024,80226000,,,outturn,src_fsma_jv_2024,strong,Balanstotaal 80.226 kEUR end-2024
+bud_fsma_staff_2024,fsma,2024,375,,,outturn,src_fsma_jv_2024,strong,Headcount 375 end-2024 (353 VTE register; 350.5 operational VTE); amount is count
+bud_fsma_staff_max_vte,fsma,2024,399,,,outturn,src_fsma_jv_2024,strong,Max operational VTE ceiling 399 (KB financing)

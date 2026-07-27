@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-30T02:45:00Z,rq_270,280,no,Scheduler 60s. Next prio5 rq_272; rq_116 SWA deferred. FOI ready human send. tick280 progress L2 84-92 L5 14-22.
+main,continuous,hole_fill,2026-07-30T03:15:00Z,rq_272,281,no,Scheduler 60s. Next prio5 rq_273; rq_116 SWA deferred. FOI ready human send. tick281 FSMA 107.5m dual CREG BIPT.
