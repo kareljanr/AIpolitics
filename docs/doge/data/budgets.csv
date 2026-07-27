@@ -4434,3 +4434,17 @@ bud_vl_onderwijs_total_vek_2026,vlaanderen_gov,2026,17240000000,,,budgeted,src_v
 bud_vl_onderwijs_total_vak_2026,vlaanderen_gov,2026,17250000000,,,budgeted,src_vl_commissie_onderwijs_2026,strong,Onderwijs en Vorming total VAK 17.25bn BO2026
 bud_vl_dko_vo_delta_2026,vl_volwassenenonderwijs,2026,44200000,,,budgeted,src_vl_commissie_onderwijs_2026,strong,DKO+volwassenenonderwijs combined +44.2m (+4.7pct) BO2026 vs BA2025; absolute ISE residual FOI
 bud_adult_edu_dual_class_2026,fwb_enseignement_adultes,2026,267547000,,,budgeted,src_fwb_exp_part_dep_2026_epa,medium,Dual floor: FWB DO56 267.5m strong; VL VO absolute residual FOI (DKO+VO class order ~1bn from +4.7pct on 44.2m rise); not TE-additive
+bud_vl_cultuur_domain_vek_2026,cultuur_cjm_vl,2026,393544000,,,budgeted,src_vl_bbt_cultuur_bo2026_territorial,strong,Cultuur MVG excl DAB ESR VEK BO2026 393.544m (VAK 394.115m); total with IS 516.854m
+bud_vl_cultuur_domain_vak_2026,cultuur_cjm_vl,2026,394115000,,,budgeted,src_vl_bbt_cultuur_bo2026_territorial,strong,Cultuur MVG excl DAB ESR VAK BO2026 394.115m
+bud_vl_cultuur_domain_vek_2025,cultuur_cjm_vl,2025,406838000,,,budgeted,src_vl_bbt_cultuur_bo2026_territorial,strong,Cultuur MVG excl DAB ESR VEK BA2025 406.838m
+bud_vl_bovenlokaal_cultuur_vek_2026,vl_bovenlokaal_cultuur,2026,15461000,,,budgeted,src_vl_bbt_cultuur_bo2026_territorial,strong,HB0-1HCF2TA-WT bovenlokaal/cross VEK 15.461m (VAK 15.592m) BO2026
+bud_vl_bovenlokaal_cultuur_vak_2026,vl_bovenlokaal_cultuur,2026,15592000,,,budgeted,src_vl_bbt_cultuur_bo2026_territorial,strong,HB0-1HCF2TA-WT VAK 15.592m BO2026
+bud_vl_leenrecht_cut_2026,vl_bovenlokaal_cultuur,2026,-1834000,,,budgeted,src_vl_bbt_cultuur_bo2026_territorial,strong,Besparing leenrecht bibliotheken -1.834m BO2026 inside HCF2TA-WT
+bud_fwb_action_territoriale_cl_2026_detail,fwb_culture_do20,2026,67383000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,DO20 prog7 Action culturelle territoriale CL 67.383m 2026 (refresh tick358 line)
+bud_fwb_centres_culturels_cl_2026,fwb_culture_do20,2026,32372000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,Centres culturels conventions/CP CL 32.372m 2026
+bud_fwb_bibliotheques_cl_2026,fwb_lecture_publique,2026,23975000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,Bibliotheques conventions/CP CL 23.975m 2026
+bud_fwb_bibliotheques_ce_2026,fwb_lecture_publique,2026,41114000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,Bibliotheques CE 41.114m 2026 (vs CL 23.975; multi-year eng)
+bud_fwb_cec_amateurs_cl_2026,fwb_culture_do20,2026,5292000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,CEC et pratiques amateurs CL 5.292m
+bud_fwb_pointculture_2026,fwb_lecture_publique,2026,3640000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,ASBL PointCulture 3.640m CE=CL 2026
+bud_fwb_biblio_it_2026,fwb_lecture_publique,2026,125000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,strong,Bibliotheques IT equipment 0.125m
+bud_territorial_culture_dual_2026,vl_bovenlokaal_cultuur,2026,82844000,,,budgeted,src_fwb_exp_part_dep_2026_territorial,medium,Illustrative dual: FWB prog7 CL 67.383 + VL bovenlokaal VEK 15.461 ~82.8m; not TE-additive; VL municipal library spend residual FOI

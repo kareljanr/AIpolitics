@@ -4066,3 +4066,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +3; sources +2; budgets +14; cmt +1; lb +5; FOI **gap_adult_edu_dual_vl_fwb_l5** ready + draft; rq_352=done; spawn **rq_353**; ticks=361
 - FOI: VL VO/DKO ISE absolute + FWB school L5 human send only
 - Next: prio5 **rq_353**; deferred **rq_116** SWA
+
+### 2026-07-31T19:45:00Z - tick 362
+- Unit: **rq_353** (FOI-adjacent hole-fill - **dual territorial culture / lecture publique FWB DO20 prog7 + VL bovenlokaal**)
+- Found (strong primary VL BBT Cultuur domain tables + FWB exp. particulier prog7):
+  - Flanders **Cultuur domain** MVG excl DAB ESR VEK **EUR 393.544m** / VAK **394.115m** BO2026 (BA2025 VEK 406.838m).
+  - VL **bovenlokaal/cross** HCF2TA-WT VEK **15.461m** (VAK 15.592m); project cut **-3.6m**; leenrecht bibliotheken **-1.834m**.
+  - FWB **prog7 Action culturelle territoriale** CL **67.383m** (CE 110.872m):
+    - centres culturels CL **32.372m** · bibliotheques **23.975m** (CE 41.114m)
+    - CEC/amateurs **5.292m** · PointCulture **3.640m**
+  - Dual territorial class **~EUR 83m** (asymmetric FWB-heavy; not TE-additive; VL municipal library residual FOI).
+- Wrote: entities +2; sources +2; budgets +14; cmt +1; lb +5; FOI **gap_territorial_culture_dual_vl_fwb_l5** ready + draft; rq_353=done; spawn **rq_354**; ticks=362
+- FOI: top IGS/CC/biblio L5 + VL leenrecht path human send only
+- Next: prio5 **rq_354**; deferred **rq_116** SWA
