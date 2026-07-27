@@ -2895,3 +2895,22 @@ bud_fnrs_federal_2025,fnrs,2025,40783724,,,outturn,src_fwo_fnrs_jv_2024_25,stron
 bud_fnrs_wal_2025,fnrs,2025,22773231,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Region wallonne 22.773m 2025
 bud_fnrs_loterie_2025,fnrs,2025,7346000,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Loterie Nationale 7.346m 2025
 bud_fnrs_doctorant_remun_2025,fnrs,2025,58279864,,,outturn,src_fwo_fnrs_jv_2024_25,strong,Doctorants remun total in function 58.280m 2025
+bud_sciensano_total_inc_2024,sciensano,2024,135670994,,,budgeted,src_sciensano_beheers_2024_29,strong,Total income budget annex 135.671m 2024
+bud_sciensano_total_exp_2024,sciensano,2024,137170994,,,budgeted,src_sciensano_beheers_2024_29,strong,Total exp budget 137.171m 2024; ESR saldo -1.5m
+bud_sciensano_basis_dot_2024,sciensano,2024,30708938,,,budgeted,src_sciensano_beheers_2024_29,strong,Basis dotatie federal 30.709m real terms (fixed path 2024-29)
+bud_sciensano_new_init_2024,sciensano,2024,2479038,,,budgeted,src_sciensano_beheers_2024_29,strong,Dotatie Nieuwe Initiatieven 2.479m 2024 only (surveillance AMR EU presidency class)
+bud_sciensano_sales_2024,sciensano,2024,88483018,,,budgeted,src_sciensano_beheers_2024_29,strong,Verkoop goederen/diensten 88.483m (lab analyses external revenue class)
+bud_sciensano_subsidies_rec_2024,sciensano,2024,14000000,,,budgeted,src_sciensano_beheers_2024_29,strong,Ontvangen subsidies 14.0m (project grants class)
+bud_sciensano_bezold_nlim_2024,sciensano,2024,57647578,,,budgeted,src_sciensano_beheers_2024_29,strong,Bezoldiging N_LIM 57.648m
+bud_sciensano_bezold_lim_2024,sciensano,2024,26014705,,,budgeted,src_sciensano_beheers_2024_29,strong,Bezoldiging LIM statutair 26.015m (FPS-linked path)
+bud_sciensano_werk_nlim_2024,sciensano,2024,42112503,,,budgeted,src_sciensano_beheers_2024_29,strong,Algemene werkingskosten N_LIM 42.113m
+bud_sciensano_werk_lim_2024,sciensano,2024,7173271,,,budgeted,src_sciensano_beheers_2024_29,strong,Werkingskosten LIM 7.173m
+bud_sciensano_materieel_2024,sciensano,2024,3875937,,,budgeted,src_sciensano_beheers_2024_29,strong,Verwerving overig materieel 3.876m 2024
+bud_sciensano_total_2025,sciensano,2025,133191956,,,budgeted,src_sciensano_beheers_2024_29,strong,Balanced income=exp 133.192m 2025-29 path (no new-init line)
+bud_sciensano_basis_dot_2025,sciensano,2025,30708938,,,budgeted,src_sciensano_beheers_2024_29,strong,Basis dotatie 30.709m real 2025
+bud_sciensano_bezold_lim_2025,sciensano,2025,24552951,,,budgeted,src_sciensano_beheers_2024_29,strong,Bezold LIM 24.553m 2025 (down from 26.0m)
+bud_sciensano_personnel_pack_2024,sciensano,2024,83662283,,,budgeted,src_sciensano_beheers_2024_29,strong,Derived bezold N_LIM+LIM 57.648+26.015=83.662m 2024
+bud_sciensano_personnel_pack_2025,sciensano,2025,82200529,,,budgeted,src_sciensano_beheers_2024_29,strong,Derived bezold 57.648+24.553=82.201m 2025
+bud_sciensano_total_2026,sciensano,2026,133191956,,,budgeted,src_sciensano_beheers_2024_29,strong,Path 133.192m balanced 2026-29 same as 2025 annex
+bud_sciensano_ra_budget_2024,sciensano,2024,132000000,,,outturn,src_sciensano_ra_2024,strong,RA2024 key figures: budget 132m of which 77m external financing (vs annex total 135.7m perimeter note)
+bud_sciensano_external_fin_2024,sciensano,2024,77000000,,,outturn,src_sciensano_ra_2024,strong,RA2024: 77m external financing class of 132m total

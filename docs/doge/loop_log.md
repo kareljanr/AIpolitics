@@ -2870,3 +2870,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entities fwo+fnrs; budgets +35; cmt +2; lb +4; FOI gap_fnrs_l5_grants_2024_25 ready; draft; raw PDFs; rq_257=done; spawn rq_258; ticks=266
 - FOI: FNRS L5 matrix human send; AGMJ/APEFE residual still ready
 - Next: prio5 **rq_258**; deferred **rq_116** SWA
+
+### 2026-07-29T20:30:00Z — tick 267
+- Unit: **rq_258** (FOI-adjacent hole-fill — **Sciensano federal public health science budget path**)
+- Found (strong primary beheersovereenkomst 2024-29 annex + RA2024):
+  - Total budget annex **€135.671m** 2024 / **€133.192m** balanced path 2025-29.
+  - **Basis dotatie €30.709m**/yr real (fixed 2024-29); new initiatives **€2.479m** 2024 only.
+  - Own sales/services **€88.483m**; received subsidies **€14.0m**.
+  - Personnel package ~**€83.7m** 2024 (N_LIM 57.6 + LIM 26.0) ? **€82.2m** 2025.
+  - Werkingskosten N_LIM **€42.1m**; ESR saldo **-€1.5m** 2024 then 0.
+  - RA2024 key figures: budget **€132m** of which **€77m** external (perimeter note vs 135.7m annex).
+- Wrote: sources +2; entity sciensano; budgets +19; cmt +1; lb +3; FOI gap_sciensano_outturn_l5 ready; draft; raw PDFs; rq_258=done; spawn rq_259; ticks=267
+- FOI: Sciensano outturn + L5 external human send; AGMJ/APEFE residual still ready
+- Next: prio5 **rq_259**; deferred **rq_116** SWA
