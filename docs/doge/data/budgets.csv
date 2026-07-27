@@ -3012,3 +3012,31 @@ bud_ksz_ict_invest_2024,ksz,2024,18000,,,outturn,src_ksz_financiele_middelen,str
 bud_ksz_ict_invest_2025,ksz,2025,14104,,,outturn,src_ksz_financiele_middelen,strong,Investeringsuitgaven informatica 14.104
 bud_ksz_rsz_bijdrage_ib2025,ksz,2025,15102730,,,budgeted,src_ksz_financiele_middelen,strong,RSZ 90pct financieringsbijdrage IB2025 15.102.730
 bud_ksz_rsvz_bijdrage_ib2025,ksz,2025,1678081,,,budgeted,src_ksz_financiele_middelen,strong,RSVZ 10pct 1.678.081; sum 16.780.811
+bud_ss_consol_uitgaven_2024,sec_ss,2024,139300000000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: geconsolideerde SS uitgaven 139.3bn 2024
+bud_ss_consol_ontvangsten_2024,sec_ss,2024,139800000000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: geconsolideerde SS ontvangsten 139.8bn 2024
+bud_ss_beheerskosten_2024,sec_ss,2024,2800000000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA graphic: Beheerskosten 2.8bn of SS 2024
+bud_ss_bijdragen_2024,sec_ss,2024,80400000000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: sociale bijdragen 80.4bn (~57.5pct of receipts)
+bud_ss_prestaties_pensioenen_2024,sec_ss,2024,66800000000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA graphic prestaties pensioenen 66.8bn class
+bud_ss_prestaties_geneesk_2024,sec_ss,2024,37000000000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA graphic geneeskundige verzorging 37.0bn class
+bud_ehealth_beheer_2022,ehealth_platform,2022,15300000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA tabel34: beheer uitgaven 15.3m 2022
+bud_ehealth_beheer_2023,ehealth_platform,2023,15900000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 15.9m 2023; dual INAMI stack 132.5m 2025 different perimeter
+bud_ehealth_opbrengsten_2023,ehealth_platform,2023,17400000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA alg boekh opbrengsten 17.4m 2023
+bud_fedris_beheer_2022,fedris,2022,50100000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer uitgaven 50.1m 2022
+bud_fedris_beheer_2023,fedris,2023,54200000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 54.2m 2023
+bud_fedris_opdrachten_2023,fedris,2023,1084600000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: opdrachten uitgaven 1.0846bn 2023
+bud_fedris_fps_exp_2024,fedris,2024,596400000,,,outturn,src_ccrek_ss_182e_2025,strong,FPS SZ feb2025: begrotingsuitgaven total 596.4m 2024 (globaal 541.9 + buiten 54.5)
+bud_hziv_beheer_2023,hziv,2023,38800000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer uitgaven 38.8m 2023
+bud_hziv_kosten_2023,hziv,2023,634300000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: total kosten 634.3m 2023 (+10.3pct vs 575.1m 2022)
+bud_hziv_opdrachten_2023,hziv,2023,593900000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: opdrachten uitgaven 593.9m 2023
+bud_rva_beheer_2023,rva,2023,277900000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer uitgaven 277.9m 2023
+bud_rva_opdrachten_2023,rva,2023,6744800000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: opdrachten 6.7448bn 2023
+bud_hvw_beheer_2023,hvw,2023,47900000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 47.9m 2023 (prior site 6.084m different line)
+bud_hvw_opdrachten_2023,hvw,2023,735700000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: sociale prestaties/opdrachten 735.7m 2023
+bud_rjv_exp_2024,rjv,2024,6381200000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA/FPS: RJV uitgaven 6.3812bn 2024
+bud_rjv_rec_2024,rjv,2024,6481300000,,,outturn,src_ccrek_ss_182e_2025,strong,RJV ontvangsten 6.4813bn 2024
+bud_rjv_beheer_2023,rjv,2023,23600000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 23.6m 2023
+bud_fso_exp_2024,fso,2024,838700000,,,outturn,src_ccrek_ss_182e_2025,strong,FPS: FSO uitgaven 838.7m 2024 (+56pct)
+bud_fso_rec_2024,fso,2024,522900000,,,outturn,src_ccrek_ss_182e_2025,strong,FSO ontvangsten 522.9m 2024
+bud_fso_beheer_2023,fso,2023,7700000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 7.7m 2023
+bud_rsvz_beheer_2023,rsvz,2023,106900000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA: beheer 106.9m 2023
+bud_ksz_beheer_2023_coa,ksz,2023,17400000,,,outturn,src_ccrek_ss_182e_2025,strong,CoA KSZ beheer 17.4m 2023; dual site 19.8m 2025 path

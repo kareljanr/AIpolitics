@@ -2996,3 +2996,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity ksz; budgets +18; cmt +1; lb +4; FOI gap_ksz_ict_l5_smals ready; draft; raw HTML; rq_267=done; spawn rq_268; ticks=276
 - FOI: KSZ ICT L5 Smals share human send; Smals L5 residual updated; AGMJ residual still ready
 - Next: prio5 **rq_268**; deferred **rq_116** SWA
+
+### 2026-07-30T01:15:00Z - tick 277
+- Unit: **rq_268** (FOI-adjacent hole-fill - **CoA 182e OISZ + SS consol dual eHealth**)
+- Found (strong primary Rekenhof 182e Boek 2025 SS):
+  - SS geconsolideerd **EUR 139.3bn uitg / 139.8bn ont** 2024; **Beheerskosten 2.8bn**.
+  - **eHealth institutional beheer EUR 15.9m 2023** (15.3m 2022) dual INAMI stack 132.5m not additive.
+  - FEDRIS beheer **54.2m** 2023; FPS exp **596.4m** 2024.
+  - HZIV total **634.3m** / beheer **38.8m** 2023 dual mutual.
+  - RVA beheer **277.9m**; HVW beheer **47.9m**; RSVZ beheer **106.9m** 2023.
+  - RJV exp **6.381bn** 2024; FSO exp **838.7m** 2024; KSZ CoA 17.4m 2023 confirms path.
+- Wrote: sources +1; entities +7; budgets +28; cmt +4; lb +7; FOI gap_oisz_jaarrekeningen ready; draft; raw CoA PDF; rq_268=done; spawn rq_269; ticks=277
+- FOI: OISZ 2024-25 jaarrekeningen human send; eHealth/unemp FOI notes updated; AGMJ residual still ready
+- Next: prio5 **rq_269**; deferred **rq_116** SWA
