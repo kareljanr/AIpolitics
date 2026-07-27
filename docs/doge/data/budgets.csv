@@ -2242,3 +2242,18 @@ bud_zorgbedrijf_invest_main_2025,city_antwerpen,2025,12993989.95,,,budgeted,src_
 bud_zorgbedrijf_werk_delta_2025,city_antwerpen,2025,419423.13,,,budgeted,src_ebesluit_zorgbedrijf_2025_amjp9,strong,ZBA AMJP9 index release werk +419.4k
 bud_zorgbedrijf_invest_delta_2025,city_antwerpen,2025,207159.73,,,budgeted,src_ebesluit_zorgbedrijf_2025_amjp9,strong,ZBA AMJP9 invest delta +207.2k
 bud_zorgbedrijf_package_2024,city_antwerpen,2024,66162142,,,budgeted,src_ebesluit_zorgbedrijf_2024,strong,ZBA 2024 package 66.162m prior tick140
+bud_digipolis_city_package_2024,city_antwerpen,2024,57585321.19,,,budgeted,src_ebesluit_digipolis_2024,strong,Digipolis city regular package 57.585m 2024 (werk 44.913 + invest 12.673)
+bud_digipolis_city_werk_2024,city_antwerpen,2024,44912730.70,,,budgeted,src_ebesluit_digipolis_2024,strong,Digipolis city werk 44.913m 2024 (pers+eigen+contracts)
+bud_digipolis_city_invest_2024,city_antwerpen,2024,12672590.49,,,budgeted,src_ebesluit_digipolis_2024,strong,Digipolis city invest general 12.673m 2024 (pers+cyber1.0+LCM)
+bud_digipolis_city_main_2025,city_antwerpen,2025,54466529.70,,,budgeted,src_ebesluit_digipolis_2025_main,strong,Digipolis city main 54.467m 2025 (werk 46.346 + invest pers 8.121) pre-index pre-cyber
+bud_digipolis_city_werk_2025,city_antwerpen,2025,46345778.05,,,budgeted,src_ebesluit_digipolis_2025_main,strong,Digipolis city werk main 46.346m 2025
+bud_digipolis_city_invest_pers_2025,city_antwerpen,2025,8120751.65,,,budgeted,src_ebesluit_digipolis_2025_main,strong,Digipolis city invest personnel 8.121m 2025
+bud_digipolis_city_index_delta_2025,city_antwerpen,2025,1339820.35,,,budgeted,src_ebesluit_digipolis_2025_index,strong,Digipolis spilindex delta 1.340m 2025 (werk 0.986 + invest 0.354)
+bud_digipolis_city_cyber_2025,city_antwerpen,2025,19395056.92,,,budgeted,src_ebesluit_digipolis_2025_cyber,strong,Digipolis cyber versterking invest 19.395m 2025
+bud_digipolis_city_package_2025,city_antwerpen,2025,75201406.97,,,budgeted,src_ebesluit_digipolis_2025_main,strong,Digipolis city package class 75.201m 2025 (main+index+cyber; excl ad-hoc projects)
+bud_digipolis_pza_package_2025,city_antwerpen,2025,53527674.12,,,budgeted,src_ebesluit_digipolis_pza_2025,strong,PZA Digipolis IT package 53.528m 2025 (53.092 + 0.435 extra werk)
+bud_digipolis_pza_invest_2025,city_antwerpen,2025,33878349.67,,,budgeted,src_ebesluit_digipolis_pza_2025,strong,PZA Digipolis invest+projects 33.878m 2025
+bud_digipolis_pza_werk_2025,city_antwerpen,2025,19649324.45,,,budgeted,src_ebesluit_digipolis_pza_2025,strong,PZA Digipolis werk 19.649m 2025 after +0.435m
+bud_digipolis_city_regular_2026,city_antwerpen,2026,38813888.41,,,budgeted,src_ebesluit_digipolis_2026_main,strong,Digipolis city locked regular 38.814m 2026 (werk 37.750 + cam invest 1.064); personnel residual
+bud_digipolis_city_werk_2026,city_antwerpen,2026,37749888.41,,,budgeted,src_ebesluit_digipolis_2026_main,strong,Digipolis city werk 37.750m 2026 (eigen+contracts+cam maint)
+bud_digipolis_city_pza_dual_2025,city_antwerpen,2025,128729081.09,,,budgeted,src_ebesluit_digipolis_2025_main,strong,Dual Digipolis city 75.2m + PZA 53.5m class 128.7m 2025; not full group members

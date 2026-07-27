@@ -2214,3 +2214,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 2; entity 1; budgets 8; cmt 2; lb 2; rq_205=done; seeded **rq_206**.
 - FOI: 2026 ZBA package + social-PC side lines + Mons BI2026 residual human send.
 - Next: prio5 **rq_206**; deferred **rq_116** SWA.
+
+### 2026-07-28T21:05:00Z - tick 213
+- Unit: **rq_206** (FOI-adjacent hole-fill - **AG Digipolis Antwerpen** city + PZA IT packages)
+- Found (strong ebesluit multi-decision):
+  - **City 2025 package class EUR 75.201m**: main **54.467m** (werk **46.346** + invest pers **8.121**) + spilindex **1.340m** + cyber **19.395m**.
+  - **City 2024 regular EUR 57.585m** (werk 44.913 + invest 12.673 cyber1.0/LCM/pers).
+  - **PZA Digipolis 2025 EUR 53.528m** (invest 33.878 + werk 19.649 after +0.435m).
+  - Dual city+PZA Digipolis class **~128.7m** 2025 (PZA Digipolis is zone spend; double-count caution vs PZA toelage 321m).
+  - **2026 city regular locked 38.814m** (werk 37.750 + cam invest 1.064); **personnel residual** vs prior-year structure.
+- Wrote: sources 7; entity 1; budgets 15; cmt 3; lb 3; rq_206=done; seeded **rq_207**; gap_antwerp note.
+- FOI: Digipolis 2026 full personnel + group-member shares (ZBA/SO/Vespa) + Mons BI2026 residual human send.
+- Next: prio5 **rq_207**; deferred **rq_116** SWA.
