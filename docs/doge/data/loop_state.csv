@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T02:15:00Z,rq_318,327,no,Scheduler 60s. Next prio5 rq_319; rq_116 SWA deferred. FOI ready. tick327 fed culture triple ~70m dual communities.
+main,continuous,hole_fill,2026-07-31T02:45:00Z,rq_319,328,no,Scheduler 60s. Next prio5 rq_320; progress@330 in 2 ticks; rq_116 SWA deferred. tick328 Belnet exp 35m dual Smals.

@@ -4013,3 +4013,19 @@ bud_nob_lottery_2024,nob_orchestre,2024,1483500,,,budgeted,src_kamer_56k0856_016
 bud_fed_culture_triple_dot_2024,sec_federal,2024,68598000,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Sum federal dots BOZAR+Monnaie+NOB 68598000 EUR 2024
 bud_fed_culture_triple_dot_2025,sec_federal,2025,69849848,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Sum federal dots initial 69849848 EUR 2025 pre 1.8pct linear cut
 bud_fed_culture_lottery_2024,sec_federal,2024,6067250,,,budgeted,src_kamer_56k0856_016_fed_culture,strong,Sum lottery provisional three inst 6067250 EUR 2024
+bud_belnet_exp_2022,belnet,2022,17341112,,,outturn,src_belnet_ar2024_accounts,strong,P&L total expenditure 17341112 EUR 2022
+bud_belnet_exp_2023,belnet,2023,22956975,,,outturn,src_belnet_ar2024_accounts,strong,P&L total expenditure 22956975 EUR 2023
+bud_belnet_exp_2024,belnet,2024,34952991,,,outturn,src_belnet_ar2024_accounts,strong,P&L total expenditure 34952991 EUR 2024
+bud_belnet_income_2024,belnet,2024,34952991,,,outturn,src_belnet_ar2024_accounts,strong,P&L total income 34952991 EUR 2024
+bud_belnet_services_2022,belnet,2022,7949972,,,outturn,src_belnet_ar2024_accounts,strong,Services invoiced 7949972 EUR 2022
+bud_belnet_services_2023,belnet,2023,7864807,,,outturn,src_belnet_ar2024_accounts,strong,Services invoiced 7864807 EUR 2023
+bud_belnet_services_2024,belnet,2024,10746475,,,outturn,src_belnet_ar2024_accounts,strong,Services invoiced 10746475 EUR 2024
+bud_belnet_transfer_2022,belnet,2022,9335000,,,outturn,src_belnet_ar2024_accounts,strong,Income transfer institutional 9335000 EUR 2022
+bud_belnet_transfer_2023,belnet,2023,14615339,,,outturn,src_belnet_ar2024_accounts,strong,Income transfer institutional 14615339 EUR 2023
+bud_belnet_transfer_2024,belnet,2024,23734376,,,outturn,src_belnet_ar2024_accounts,strong,Income transfer institutional 23734376 EUR 2024
+bud_belnet_remun_2024,belnet,2024,7761167,,,outturn,src_belnet_ar2024_accounts,strong,Direct and indirect employee remuneration 7761167 EUR 2024
+bud_belnet_assets_2024,belnet,2024,42206860,,,outturn,src_belnet_ar2024_accounts,strong,Total assets 42206860 EUR YE2024
+bud_belnet_net_assets_2024,belnet,2024,10604809,,,outturn,src_belnet_ar2024_accounts,strong,Net assets 10604809 EUR YE2024
+bud_belnet_budget_exp_2024,belnet,2024,27335000,,,outturn,src_belnet_ar2024_accounts,strong,Budget accounts total expenditure 27335k EUR 2024
+bud_belnet_fedwan_fund_2024,belnet,2024,2686000,,,outturn,src_belnet_ar2024_accounts,strong,Funds allocated FedWAN implementation 2686000 EUR YE2024
+bud_belnet_fedosc_fund_2024,belnet,2024,1840000,,,outturn,src_belnet_ar2024_accounts,strong,Funds reserved FedOSC project 1840000 EUR YE2024

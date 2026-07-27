@@ -3617,3 +3617,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities +3; budgets +19; cmt +1; lb +2; FOI gap_fed_culture_contracts_2025 ready; draft; rq_318=done; spawn rq_319; ticks=327
 - FOI: post-cut 2025 cash + new management contracts ready human send
 - Next: prio5 **rq_319**; deferred **rq_116** SWA
+
+### 2026-07-31T02:45:00Z - tick 328
+- Unit: **rq_319** (FOI-adjacent hole-fill - **Belnet NREN 2024 dual Smals research ICT**)
+- Found (strong Belnet AR2024 budgetary results + general accounts primary):
+  - P&L exp/income **€17.3 / 23.0 / 35.0m** 2022-24.
+  - Services invoiced **€7.95 / 7.86 / 10.75m**; institutional transfer **€9.34 / 14.62 / 23.73m**.
+  - Remuneration **€7.76m** 2024; total assets **€42.2m**; net assets **€10.6m**.
+  - Budget exp **€27.3m** 2024; FedWAN fund **€2.69m**; FedOSC fund **€1.84m**.
+  - Dual: research/education NREN vs Smals SS/federal ICT (~€579m); BNIX peaks public.
+- Wrote: sources +1; entity belnet; budgets +16; cmt +1; lb +2; FOI gap_belnet_2025_l5 ready; draft; rq_319=done; spawn rq_320; ticks=328
+- FOI: 2025 accounts + member L5 + FedWAN multi-year ready human send
+- Next: prio5 **rq_320**; **progress@330 in 2 ticks**; deferred **rq_116** SWA
