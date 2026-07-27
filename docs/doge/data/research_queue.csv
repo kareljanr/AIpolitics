@@ -141,7 +141,7 @@ rq_139,Mutualities RIZIV public financing package,continuous,7,done,L5,sec_ss,"L
 rq_140,Hospital federal/regional investment subsidies L5 sample,continuous,6,open,L5,gg_belgium,"Named hospital infra subsidies top 10.",,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,
 rq_141,Universities public operating grants by institution,continuous,6,open,L5,gg_belgium,"VL+FWB+federal university grants named.",,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,
 rq_142,Intercommunales top 20 public transfers BE,continuous,6,open,L5,gg_belgium,"Largest intercommunale subsidies or dividends path.",,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,
-rq_143,Antwerp city open data recheck 2026 subsidies,continuous,7,open,L5,city_antwerpen,"Retry open data / ebesluit for named top subsidies.",gap_antwerp_subsidies_top20,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,
+rq_143,Antwerp city open data recheck 2026 subsidies,continuous,7,done,L5,city_antwerpen,"Retry open data / ebesluit for named top subsidies.",gap_antwerp_subsidies_top20,2026-07-27T14:00:00Z,2026-07-27T20:10:00Z,"tick140: ebesluit Toneelhuis 2.805m 2025; OBV 1.9m+0.5m invest; deSingel 100k; Zorgbedrijf ~66m 2024; no full OD register; FOI residual"
 rq_144,Charleroi budget PDF L5 named ASBL,continuous,6,open,L5,city_charleroi,"Find BI2026 PDF named association table.",gap_charleroi_subsidies_top20,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,
 rq_145,Brussels communes top 3 L5 sample,continuous,5,open,L5,brussels_gov,"Ixelles/Schaerbeek/Anderlecht named subsidies sample.",,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,
 rq_146,Federal development cooperation top L5 projects,continuous,5,open,L5,sec_federal,"DGD top projects with EUR.",,2026-07-27T14:00:00Z,2026-07-27T14:00:00Z,

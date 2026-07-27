@@ -1256,3 +1256,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; budgets 9; cmt_mutual_admin_package; lb_mutual_admin_1_3bn; FOI gap_mutual_admin_l5 **ready**; rq_139=done.
 - FOI: L5 per-landsbond draft ready (human send).
 - Next: prio7 **rq_143 Antwerp** / **rq_129 SS** / **rq_155 company cars**.
+
+### 2026-07-27T20:10:00Z — tick 140
+- Unit: **rq_143** (Antwerp city open data / ebesluit subsidy recheck)
+- Found (strong ebesluit primary; no Gent-style full register):
+  - **Toneelhuis 2025: €2.805m** (2.74m werking + 65k gebouwbeheerder) — college Dec 2024.
+  - **Opera Ballet Vlaanderen 2025: €1.9m** werk + **€0.508m** invest.
+  - **deSingel 2024: €0.100m** (talent/Dear Antwerp).
+  - **Zorgbedrijf 2024 package:** werk **€33.63m** + responsabilisering **€20.56m** + invest **€11.97m** ˜ **€66.2m** (largest named city transfer); 2023 werk 36.3 + resp 15.8 + invest 14.5.
+  - Open data portal/arcgis: no machine-readable full third-party subsidy register (unlike Gent/Brugge).
+  - FOI gap_antwerp priority 6 residual for complete top20 bulk.
+- Wrote: sources 5; budgets 10; commitments 3; leaderboard 2; rq_143=done; FOI note updated.
+- FOI: residual ready (partial fill does not close full top20).
+- Next: prio7 **rq_129 SS funds** / **rq_155 company cars** / prio6 IEFH.
