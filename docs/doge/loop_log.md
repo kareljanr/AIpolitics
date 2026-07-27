@@ -848,6 +848,19 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T17:20:00Z -- tick 132
+- Unit: **rq_133** (FOREM full budget primary) — prio 7 / PES dual with VDAB
+- Found (primary **FOREM RA 2023**; **no invent euros**):
+  - **Budget global €3.091 bn**; federal-managed slice €0.300 bn; **internal exp €2.763 bn**.
+  - **Aides emploi/formation €2.067 bn** (75%); **fonctionnement €0.514 bn** (19%); tiers €0.180 bn.
+  - **Subvention RW €2.662 bn**; other receipts €71.6 m; staff **4,919 / 3,992 FTE**.
+  - Dual PES honesty: FOREM mass includes APE/titres-services passthrough — **not apples-to-apples** with VDAB VL krediet ~€0.75 bn.
+  - 2024–26 RA still missing → FOI residual.
+- Wrote: sources +2; budgets +12; programmes +4; cmt; lb_forem; FOI update; raw RA PDF; rq_133=**done**; ticks=132
+- FOI: gap_forem_budget ready (prio 5; 2023 filled)
+- Next: **rq_137 parties** or regional L5 / taxex prio7
+
+
 ### 2026-07-27T17:00:00Z -- tick 131
 - Unit: **rq_132** (VDAB full budget primary) — prio 7 / FOI-adjacent PES
 - Found (primary **BBT BO2026 Werk** pfile 2250747; **no invent euros**):

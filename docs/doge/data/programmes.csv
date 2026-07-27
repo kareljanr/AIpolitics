@@ -81,3 +81,7 @@ vl_bo2026_vak_total,vlaanderen_gov,,VAK,Totaal VAK constant policy,,2026,6581222
 vdab_vek_bo2026,vdab,,VDAB-VEK,VDAB Vlaamse VEK-kredieten BO2026,10.5,2026,750702000,src_vl_bbt_werk_bo2026_vdab,strong,Vlaanderen>WEWIL>VDAB,BBT BO2026 total 750.702m activering+competenties
 vdab_activering_2026,vdab,vdab_vek_bo2026,VDAB-ACT,VDAB ISE activering VEK BO2026,10.5,2026,561009000,src_vl_bbt_werk_bo2026_vdab,strong,Vlaanderen>WEWIL>VDAB>activering,Includes -20m werkings toelage cut
 vdab_competenties_2026,vdab,vdab_vek_bo2026,VDAB-COMP,VDAB ISE competenties VEK BO2026,10.5,2026,189693000,src_vl_bbt_werk_bo2026_vdab,strong,Vlaanderen>WEWIL>VDAB>competenties,+3m index toelage
+forem_global_2023,forem,,FOREM,FOREM budget global 2023,10.5,2023,3091398800,src_forem_ra_2023,strong,Wallonie>FOREM,Includes federal-managed 300m slice
+forem_aides_2023,forem,forem_global_2023,FOREM-AIDES,FOREM aides emploi et formation,10.5,2023,2066942833,src_forem_ra_2023,strong,Wallonie>FOREM>aides,75pct of internal; APE titres-services dominant
+forem_fonctionnement_2023,forem,forem_global_2023,FOREM-OPS,FOREM fonctionnement,10.5,2023,513942338,src_forem_ra_2023,strong,Wallonie>FOREM>ops,19pct personnel IT real estate
+forem_rw_subv_2023,forem,,FOREM-RW,Subvention Region wallonne to FOREM,10.5,2023,2661601000,src_forem_ra_2023,strong,Wallonie>FOREM>dotation,Primary RW financing

@@ -895,3 +895,15 @@ bud_vdab_werkings_cut_2026,vdab,2026,-20000000,,,budgeted,src_vl_bbt_werk_bo2026
 bud_vdab_total_2024_class,vdab,2024,962000000,,,budgeted,src_vl_pq52_vdab_budget,medium,PQ52 premise total budget 962m 2024; minister deferred to jaarrekening
 bud_vdab_dotatie_2024_class,vdab,2024,783000000,,,budgeted,src_vl_pq52_vdab_budget,medium,PQ52 premise Flemish dotatie 783m of 962m 2024; residual EU+own income
 bud_vdab_werking_2025_class,vdab,2025,945000000,,,budgeted,src_vl_conceptnota_vdab_945,medium,Conceptnota: werkingsbudget 945m 2025 of which 81.2pct VL government (~767m class)
+bud_forem_global_2023,forem,2023,3091398800,,,outturn,src_forem_ra_2023,strong,FOREM RA2023: budget global 3.0913988bn of which 300.4065m managed by federal operators
+bud_forem_dep_internal_2023,forem,2023,2763419121,,,outturn,src_forem_ra_2023,strong,Depenses gerees au sein du FOREM 2.763419121bn 2023
+bud_forem_aides_2023,forem,2023,2066942833,,,outturn,src_forem_ra_2023,strong,Aides emploi et formation 2.066942833bn (75pct) APE titres-services SESAM CISP Tremplin etc
+bud_forem_fonctionnement_2023,forem,2023,513942338,,,outturn,src_forem_ra_2023,strong,Fonctionnement 513.942m (19pct) mainly personnel IT training centres real estate
+bud_forem_tiers_2023,forem,2023,180030281,,,outturn,src_forem_ra_2023,strong,Recours aux tiers 180.030m (7pct); CISP subsidies 106.4m
+bud_forem_fse_2023,forem,2023,2503669,,,outturn,src_forem_ra_2023,strong,FSE/FEDER 2.504m 2023
+bud_forem_subvention_rw_2023,forem,2023,2661601000,,,outturn,src_forem_ra_2023,strong,Subvention Region wallonne 2.661601bn (table kEUR 2661601)
+bud_forem_autres_recettes_2023,forem,2023,71578000,,,outturn,src_forem_ra_2023,strong,Autres recettes EU PFI formations payantes 71.578m
+bud_forem_recettes_total_2023,forem,2023,2733179000,,,outturn,src_forem_ra_2023,strong,Total recettes 2.733179bn (RW+other)
+bud_forem_staff_2023,forem,2023,4919,,,outturn,src_forem_ra_2023,strong,COUNT persons: 4919 collaborators 3992 FTE 2023
+bud_forem_ape_delta_2023,forem,2023,98400000,,,outturn,src_forem_ra_2023,strong,APE increase +98.4m y/y within aides package
+bud_forem_titres_delta_2023,forem,2023,45900000,,,outturn,src_forem_ra_2023,strong,Titres-services +45.9m y/y
