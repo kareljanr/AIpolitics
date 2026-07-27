@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T18:15:00Z,rq_398,407,no,Scheduler 60s. Next prio5 rq_399; rq_116 SWA deferred. tick407 flexi CoA+BFP.
+main,continuous,hole_fill,2026-08-01T18:45:00Z,rq_399,408,no,Scheduler 60s. Next prio5 rq_400; progress@410 soon; rq_116 SWA deferred. tick408 FPB midterm Entity I/II.

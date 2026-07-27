@@ -4682,3 +4682,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +7; cmt +2; lb +8; raw PDF; FOI **gap_flexi_te_multiyear** ready; rq_398=done; spawn **rq_399**; ticks=407
 - FOI: multi-year all-sector TE matrix human send only
 - Next: prio5 **rq_399**; deferred **rq_116** SWA
+
+### 2026-08-01T18:45:00Z - tick 408
+- Unit: **rq_399** (FOI-adjacent hole-fill - **FPB Jun midterm DATA_FOR_MLT Entity I/II + GG path**)
+- Found (strong primary FOR_MIDTERM + DATA_FOR_MLT_FR.xlsx T17-T24/T21 mEUR):
+  - **GG** solde **-27.1/-32.9/-33.7/-35.8/-38.7/-44.3/-47.2/-50.0 bn** 2024-31; dep **361.8bn** 2026; interest **14.3->27.5bn**; primary **-17.1bn** 2026
+  - **Federal** solde **-23.7bn** 2026 path **-45.0bn** 2031; dep **188.9bn**; interest **13.5->22.0bn**
+  - **SS** solde **-1.59bn** 2026 (rare deficit) then near zero; prest **122.7bn**; UI pure **5.60->4.26bn** 2025-26; health nature **40.9bn**; pens **59.3bn**
+  - **Entity I** (fed+SS unconsol) solde **-25.3bn** 2026 -> **-45.9bn** 2031
+  - **C&R** solde **-8.14bn** 2026 -> **-3.78bn** 2031; interest **3.25->5.38bn**
+  - **Local** solde **-0.27bn** 2026; **Entity II** (C&R+loc) **-8.41bn** 2026 -> **-4.07bn** 2031
+  - **T21 federated:** VL **-3.05** FWB **-1.83** WAL **-2.13** BRU **-1.02** Autres **-0.12** 2026; Autres **+1.4bn** class 2028+ (ETS2)
+- Wrote: sources +2; budgets ~200; cmt +2; lb +8; raw PDF+XLSX; FOI **gap_fpb_entity1_split_jun2026 -> answered**; rq_399=done; spawn **rq_400**; ticks=408
+- FOI: closed public; residual consolidated Entity definition optional
+- Next: prio5 **rq_400**; **progress@410** in 2 ticks; deferred **rq_116** SWA

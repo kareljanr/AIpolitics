@@ -1,6 +1,6 @@
 # FOI draft — gap_fpb_entity1_split_jun2026
 
-Status: **ready** (human send only). Not legal advice.
+Status: **answered** via public DATA_FOR_MLT_FR.xlsx T17–T24 + T21 (tick408). Residual: official consolidated Entity I definition if differs from fed+SS unconsol sum. Not legal advice.
 
 ## Brief
 
