@@ -4039,3 +4039,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +2; sources +2; budgets +16; cmt +1; lb +5; FOI **gap_youth_dual_vl_fwb_l5** ready + draft; rq_350=done; spawn **rq_351**; ticks=359
 - FOI: top-30 orgs/centres both sides human send only
 - Next: prio5 **rq_351**; deferred **rq_116** SWA
+
+### 2026-07-31T18:45:00Z - tick 360
+- Unit: **rq_351** (**progress milestone @360** — coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~93–98%** (up from ~92–98% @350) — dual sprint 351–359: heritage/agri/nature/waste/energy **1.34bn**/integration/vocational/culture **~794m**/youth **~140m**
+  - **D L5:** **~18–29%** generous (IFAPME L5 + culture/youth decree lines; residual top-N FOI)
+  - **E FOI ready:** **~170** (answered ~5; total FOI rows ~176)
+- Inventory: budgets ~4420 · cmt ~641 · lb ~793 · entities ~320 · sources ~666
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT mega items (Hedera stock filtered off annual top10)
+- Dual-class map (not TE-additive) refreshed in waste top10 appendix
+- Wrote: `progress_every_10_ticks.md` + `doge_waste_top10_current.md`; rq_351=done; spawn **rq_352**; ticks=360
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_352** hole-fill; deferred **rq_116** SWA

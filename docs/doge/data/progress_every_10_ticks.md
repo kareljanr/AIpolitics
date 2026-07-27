@@ -20,41 +20,43 @@
 
 ---
 
-## Snapshot at **tick 350** (2026-07-31)
+## Snapshot at **tick 360** (2026-07-31)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~92–98%** (order of magnitude) | Up from ~91–98% @340: **FWO VL vastlegging €470/448m** + **FNRS public €242m** dual research (~€712m class); **AWV VEK €1.187bn** dual **SOFICO** rev €495m/invest €265m; **Sport VL €167m** dual **ADEPS €50m**; culture AV dual VAF/CCA + economic triple Wallimage/SF/SB; **OE heritage VEK €128m**; prior Belspo/CM25/EUMETSAT retained |
-| **D. L5 named end-receivers** | **~17–28%** of TE (generous) | Slight uptick: OE premies envelope **€83–93m** (L5 awards residual FOI); sport federation subs sample ADEPS; AV fund bilans; residual named awards across dual stacks FOI-ready |
-| **E. FOI-ready gaps** | **~161** drafts ready | Human send only; answered **~5**; total FOI rows **~168** |
+| **C. L2 entity totals** | **~93–98%** (order of magnitude) | Up from ~92–98% @350: dual hole-fill sprint ticks 351–359 — **heritage OE/AWaP**, **agri VL/OPW ~234m**, **nature ANB/WAL ~179m**, **waste OVAM/SPAQuE ~116m**, **energy VEKA/WAL ~€1.34bn**, **integration AgII/ILI ~120m**, **vocational Syntra/IFAPME ~138m**, **culture VL/FWB ~794m**, **youth recreational ~140m**; prior FWO/FNRS/AWV/sport retained |
+| **D. L5 named end-receivers** | **~18–29%** of TE (generous) | Slight uptick: IFAPME L5 lines strong; FWB culture programme split; VL Kunsten/SCW/Erfgoed envelopes; youth decree lines; residual top-N operators still FOI across duals |
+| **E. FOI-ready gaps** | **~170** drafts ready | Human send only; answered **~5**; total FOI rows **~176** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **Tax Shelter AV package €255m 2023** (AV €212 + scenic €42 + games €1.3); **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock**; **SOFICO PKPL €347m** is user-fee revenue not pure TE; **RDI fiscal incentives ~€2.0–2.2 bn** class; multi-year space/CM25 envelopes not additive annual TE. CoA consultancy **€2.52 bn / 3y** (~**€0.84 bn/yr**) remains procurement-opacity seed.
+**Off-TE (do not mix into 348 bn):** federal taxex inventory ~**€39 bn**; **Tax Shelter AV package €255m 2023**; **4e fossil inventory direct €13.3 bn** (2022) + FFS/company cars TE; cheque TE; **Hedera CAP ~15 bn stock**; **SOFICO PKPL €347m** user-fee; **RDI fiscal incentives ~€2.0–2.2 bn** class; multi-year space/CM25 envelopes. CoA consultancy **€2.52 bn / 3y** (~**€0.84 bn/yr**) remains procurement-opacity seed. Dual class composites (energy 1.34bn, culture 794m, etc.) are **not TE-additive**.
 
-### Inventory (tick 350)
+### Inventory (tick 360)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | ~4282 |
-| commitments.csv | ~632 |
-| leaderboard.csv | ~760 |
-| entities.csv | ~302 |
+| budgets.csv | ~4420 |
+| commitments.csv | ~641 |
+| leaderboard.csv | ~793 |
+| entities.csv | ~320 |
 | sources.csv | ~666 |
-| FOI ready | ~161 |
+| FOI ready | ~170 |
 | FOI answered | ~5 |
-| FOI total rows | ~168 |
-| research_queue | ~336 (open: rq_116 deferred + next hole-fill after progress) |
+| FOI total rows | ~176 |
+| research_queue | ~352 (open: rq_116 deferred + next hole-fill after progress) |
 
-### What improved since tick 340
+### What improved since tick 350
 
-- **Culture AV dual:** VAF VL dots **~€30.7m** · CCA envelope **>€44m** (ticks 341–342).  
-- **Federal Tax Shelter TE:** AV **€212.15m 2023** · package AV+scenic+games **€255.3m** (tick343).  
-- **Economic AV triple:** Wallimage Coprod+Ent **~€10.8m** · Screen Flanders **€3.5m** · screen.brussels **~€3m** (ticks 344–345).  
-- **Community sport dual:** Sport VL prog HF VEK **€167.1m** · ADEPS FWB sport **€49.9m** · dual class **~€235m** (tick346).  
-- **Community research dual:** FWO vastlegging **€470.3m 2024 / €448.2m 2025** · FNRS public **€241.8m** · dual class **~€712m** (tick347).  
-- **Regional roads dual:** AWV VAK/VEK **€1.02 / €1.19 bn 2024** · SOFICO produits **€495m** / invest **€265m** / PKPL **€347m** (tick348).  
-- **Heritage dual (partial):** Onroerend Erfgoed VEK **€127.8m** · premies **€83–93m** · AWaP total residual FOI (tick349).  
+- **Heritage dual:** OE VEK ~€128m · AWaP path · dual class ~€174m (tick351).  
+- **Agriculture dual:** VL Landbouw VEK ~€141m · WAL OPW/aides class · dual ~€234m (tick352).  
+- **Nature dual:** ANB + WAL nature awards · dual ~€179m (tick353).  
+- **Waste dual:** VL ISE Afval €106m · SPAQuE €24m · dual ~€116m (tick354).  
+- **Energy dual:** VL E&K VEK €1.105bn · WAL Kyoto €158m + Energie · dual ~€1.34bn (tick355).  
+- **Integration dual:** VL Inburgering VEK €117m · AgII €65m · WAL ILI/CRI thin · dual ~€120m (tick356).  
+- **Vocational dual:** Syntra €49.7m · IFAPME €88.3m L5 · dual ~€138m (tick357).  
+- **Culture dual:** VL content ~€426m · FWB DO20 CL €367m · dual ~€794m (tick358).  
+- **Youth recreational dual:** VL Jeugd ISE €72.5m · FWB DO23 Jeunesse CL €67.1m · dual ~€140m; **excludes** AJ DO17 €471m protection (tick359).  
 
 ---
 
@@ -85,4 +87,5 @@
 | 320 | 100% | 100% | ~89–96% | ~16–25% | ~138 | ICT dual map + rail dual FTE close + AGMJ 801 ETP |
 | 330 | 100% | 100% | ~90–97% | ~16–26% | ~145 | Listed SOEs + lottery + culture + Belnet + BELSPO class |
 | 340 | 100% | 100% | ~91–98% | ~16–27% | ~153 | Belspo AR582m + CM25 space dual MoD + P4S/S4P/STEREO + EUMETSAT |
-| **350** | **100%** | **100%** | **~92–98%** | **~17–28%** | **~161** | **Current** (AV dual+triple + Tax Shelter TE + sport dual + FWO/FNRS 712m + AWV/SOFICO roads + OE heritage) |
+| 350 | 100% | 100% | ~92–98% | ~17–28% | ~161 | AV dual+triple + Tax Shelter TE + sport dual + FWO/FNRS 712m + AWV/SOFICO + OE heritage |
+| **360** | **100%** | **100%** | **~93–98%** | **~18–29%** | **~170** | **Current** (dual sprint: heritage/agri/nature/waste/energy/integration/vocational/culture/youth) |
