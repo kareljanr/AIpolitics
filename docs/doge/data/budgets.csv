@@ -5827,3 +5827,68 @@ bud_vl_deficit_end_legis,vlaanderen_gov,2029,2000000000,,,projection,src_fpb_reg
 bud_fwb_deficit_2029,fwb_gov,2029,1200000000,,,projection,src_fpb_regional_outlook_2026_31,medium,FWB deficit falls from 2027 to 1.2bn EUR in 2029
 bud_bru_deficit_2029,brussels_gov,2029,800000000,,,projection,src_fpb_regional_outlook_2026_31,medium,BCR+COCOM deficit 0.8bn EUR in 2029 (slight decline from 2027)
 bud_wal_deficit_end_legis,wallonie_gov,2029,1600000000,,,projection,src_fpb_regional_outlook_2026_31,medium,Wallonia deficit improves 2026 then stabilises 1.6bn EUR end legislature
+bud_gg_te_2025_icn,gg_belgium,2025,347956000000,,,outturn,src_icn_edp_2025_apr,strong,ICN EDP total expenditure 347956m 2025 (54.2pct GDP; matches NBB EDP anchor)
+bud_gg_primary_2025_icn,gg_belgium,2025,333675000000,,,outturn,src_icn_edp_2025_apr,strong,Primary expenditure 333675m 2025 (52.0pct GDP; +12.1bn YoY)
+bud_gg_interest_2025_icn,gg_interest,2025,14282000000,,,outturn,src_icn_edp_2025_apr,strong,Interest charges 14282m 2025 (2.2pct GDP; 4th consecutive absolute rise)
+bud_gg_interest_2024_icn,gg_interest,2024,13524000000,,,outturn,src_icn_edp_2025_apr,strong,Interest 13524m 2024
+bud_gg_wages_2025,gg_belgium,2025,80226000000,,,outturn,src_icn_edp_2025_apr,strong,GG remuneration 80226m 2025
+bud_gg_social_benefits_2025,gg_belgium,2025,164823000000,,,outturn,src_icn_edp_2025_apr,strong,GG social benefits 164823m 2025
+bud_gg_gfcf_2025,gg_belgium,2025,19947000000,,,outturn,src_icn_edp_2025_apr,strong,GG gross fixed capital formation 19947m 2025
+bud_gg_revenue_2025,gg_belgium,2025,314736000000,,,outturn,src_icn_edp_2025_apr,strong,GG total revenue 314736m 2025 (49.0pct GDP; +6.7bn but -0.7pp GDP)
+bud_gg_tax_parafisc_2025,gg_belgium,2025,268196000000,,,outturn,src_icn_edp_2025_apr,strong,Tax and parafiscal revenue 268196m 2025 (41.8pct GDP; -0.5pp vs 2024)
+bud_gg_deficit_2025_eur,gg_belgium,2025,-33221000000,,,outturn,src_icn_edp_2025_apr,strong,GG financing balance -33221m 2025 (-5.2pct GDP)
+bud_gg_deficit_2024_eur,gg_belgium,2024,-27056000000,,,outturn,src_icn_edp_2025_apr,strong,GG financing balance -27056m 2024 (-4.4pct)
+bud_gg_primary_balance_2025,gg_belgium,2025,-18939000000,,,outturn,src_icn_edp_2025_apr,strong,Primary balance -18939m 2025 (-2.9pct GDP)
+bud_gg_debt_2025_eur,gg_belgium,2025,692461000000,,,outturn,src_icn_edp_2025_apr,strong,Maastricht debt 692461m eoy2025 (107.9pct GDP)
+bud_gg_debt_2024_eur,gg_belgium,2024,644199000000,,,outturn,src_icn_edp_2025_apr,strong,Maastricht debt 644199m eoy2024 (103.9pct)
+bud_gg_gdp_2025_icn,gg_belgium,2025,642015000000,,,outturn,src_icn_edp_2025_apr,strong,GDP 642015m 2025 (EDP pm)
+bud_gg_gdp_2024_icn,gg_belgium,2024,619914000000,,,outturn,src_icn_edp_2025_apr,strong,GDP 619914m 2024
+bud_s1311_deficit_2025,sec_federal,2025,-24081000000,,,outturn,src_icn_edp_2025_apr,strong,Federal government S.1311 deficit -24081m 2025 (-3.8pct GDP; +7.3bn worse YoY)
+bud_s1311_deficit_2024,sec_federal,2024,-16775000000,,,outturn,src_icn_edp_2025_apr,strong,Federal S.1311 deficit -16775m 2024 (-2.7pct)
+bud_s1312_deficit_2025,sec_s1312,2025,-8948000000,,,outturn,src_icn_edp_2025_apr,strong,Communities and regions S.1312 deficit -8948m 2025 (-1.4pct; improved vs -9420 2024)
+bud_s1312_deficit_2024,sec_s1312,2024,-9420000000,,,outturn,src_icn_edp_2025_apr,strong,C&R S.1312 deficit -9420m 2024 (-1.5pct)
+bud_s1313_deficit_2025,gg_belgium,2025,-366000000,,,outturn,src_icn_edp_2025_apr,strong,Local government S.1313 deficit -366m 2025 (-0.1pct; post-election improve)
+bud_s1314_surplus_2025,sec_ss,2025,173000000,,,outturn,src_icn_edp_2025_apr,strong,Social security S.1314 surplus +173m 2025 (federal transfers support)
+bud_def_cofog_2025,mod_defensie,2025,8800000000,,,outturn,src_icn_edp_2025_apr,strong,Defence COFOG expenditure 8.8bn 2025 (1.4pct GDP; from 4.4bn 0.9pct 2021)
+bud_def_cofog_2021,mod_defensie,2021,4400000000,,,outturn,src_icn_edp_2025_apr,strong,Defence COFOG 4.4bn 2021 (0.9pct GDP baseline for escape clause)
+bud_def_orders_pending_2025,mod_defensie,2025,0.6,,,estimate,src_icn_edp_2025_apr,medium,Defence orders 0.6pct GDP 2025 awaiting delivery (cash NATO 2pct vs COFOG lag); amount_eur blank pp GDP
+bud_fed_debt_contrib_2025,sec_federal,2025,553907000000,,,outturn,src_icn_edp_2025_apr,strong,Federal contribution to consolidated debt 553907m 2025 (80.0pct of GG)
+bud_cr_debt_contrib_2025,sec_s1312,2025,127565000000,,,outturn,src_icn_edp_2025_apr,strong,C&R debt contribution 127565m 2025 (18.4pct; +51pct over 4y)
+bud_local_debt_contrib_2025,gg_belgium,2025,27366000000,,,outturn,src_icn_edp_2025_apr,strong,Local debt contribution 27366m 2025 (4.0pct)
+bud_ss_debt_contrib_2025,sec_ss,2025,-16377000000,,,outturn,src_icn_edp_2025_apr,strong,SS consolidable assets reduce debt -16377m 2025 (-2.4pct)
+bud_vl_deficit_2025_icn,vlaanderen_gov,2025,-4132000000,,,outturn,src_icn_edp_2025_apr,strong,Flemish Community ESA deficit -4132m 2025 (improved vs -5023 2024)
+bud_fwb_deficit_2025_icn,fwb_gov,2025,-1454000000,,,outturn,src_icn_edp_2025_apr,strong,FWB ESA deficit -1454m 2025
+bud_dg_deficit_2025_icn,sec_dg,2025,-103000000,,,outturn,src_icn_edp_2025_apr,strong,German-speaking Community deficit -103m 2025
+bud_wal_deficit_2025_icn,wallonie_gov,2025,-2853000000,,,outturn,src_icn_edp_2025_apr,strong,Walloon Region deficit -2853m 2025 (worsened vs -2016; receipts fall)
+bud_bru_deficit_2025_icn,brussels_gov,2025,-963000000,,,outturn,src_icn_edp_2025_apr,strong,BCR deficit -963m 2025 (improved vs -1552)
+bud_cocom_surplus_2025,cocom,2025,11000000,,,outturn,src_icn_edp_2025_apr,strong,COCOM surplus +11m 2025
+bud_interreg_ets_adjust_2025,gg_belgium,2025,557000000,,,outturn,src_icn_edp_2025_apr,strong,Interregional units + statistical adjustment +557m 2025 (EU ETS receipts pending allocation key; dual 1.8bn blocked stock)
+bud_rrf_execution_pct_2025,gg_belgium,2025,62,,,outturn,src_icn_edp_2025_apr,strong,RRF planned expenditure 62pct realized one year before deadline; amount_eur blank pct
+bud_nbb_jun_gdp_2025,gg_belgium,2025,1.0,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GDP growth 1.0pct 2025
+bud_nbb_jun_gdp_2026,gg_belgium,2026,0.6,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GDP 0.6pct 2026 (Iran war energy shock; dual FPB Jun 0.7)
+bud_nbb_jun_gdp_2027,gg_belgium,2027,1.1,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GDP 1.1pct 2027
+bud_nbb_jun_gdp_2028,gg_belgium,2028,1.3,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GDP 1.3pct 2028
+bud_nbb_jun_hicp_2026,gg_belgium,2026,3.4,,,projection,src_nbb_projections_jun2026,strong,NBB Jun HICP 3.4pct 2026
+bud_nbb_jun_hicp_2028,gg_belgium,2028,2.0,,,projection,src_nbb_projections_jun2026,strong,NBB Jun HICP 2.0pct 2028
+bud_nbb_jun_health_idx_2026,gg_belgium,2026,3.3,,,projection,src_nbb_projections_jun2026,strong,NBB Jun health index 3.3pct 2026
+bud_nbb_jun_deficit_pct_2025,gg_belgium,2025,-5.2,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GG deficit -5.2pct 2025 (matches ICN)
+bud_nbb_jun_deficit_pct_2026,gg_belgium,2026,-5.3,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GG deficit -5.3pct 2026 (worse than FPB Jun -5.1 / DBP -4.9)
+bud_nbb_jun_deficit_pct_2027,gg_belgium,2027,-5.5,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GG deficit -5.5pct 2027
+bud_nbb_jun_deficit_pct_2028,gg_belgium,2028,-5.7,,,projection,src_nbb_projections_jun2026,strong,NBB Jun GG deficit -5.7pct 2028
+bud_nbb_jun_primary_pct_2025,gg_belgium,2025,-2.9,,,projection,src_nbb_projections_jun2026,strong,NBB Jun primary balance -2.9pct 2025
+bud_nbb_jun_primary_pct_2026,gg_belgium,2026,-2.8,,,projection,src_nbb_projections_jun2026,strong,NBB Jun primary -2.8pct 2026
+bud_nbb_jun_primary_pct_2028,gg_belgium,2028,-2.7,,,projection,src_nbb_projections_jun2026,strong,NBB Jun primary -2.7pct 2028 (interest drives total deficit wider)
+bud_nbb_jun_debt_pct_2025,gg_belgium,2025,107.9,,,projection,src_nbb_projections_jun2026,strong,NBB Jun debt 107.9pct 2025
+bud_nbb_jun_debt_pct_2026,gg_belgium,2026,111.3,,,projection,src_nbb_projections_jun2026,strong,NBB Jun debt 111.3pct 2026
+bud_nbb_jun_debt_pct_2027,gg_belgium,2027,112.9,,,projection,src_nbb_projections_jun2026,strong,NBB Jun debt 112.9pct 2027
+bud_nbb_jun_debt_pct_2028,gg_belgium,2028,114.8,,,projection,src_nbb_projections_jun2026,strong,NBB Jun debt 114.8pct 2028 (~115)
+bud_nbb_jun_jobs_2025,gg_belgium,2025,18700,,,projection,src_nbb_projections_jun2026,strong,NBB Jun interior employment +18.7k 2025
+bud_nbb_jun_jobs_2026,gg_belgium,2026,15600,,,projection,src_nbb_projections_jun2026,strong,NBB Jun employment +15.6k 2026
+bud_nbb_jun_jobs_2027,gg_belgium,2027,35100,,,projection,src_nbb_projections_jun2026,strong,NBB Jun employment +35.1k 2027
+bud_nbb_jun_jobs_2028,gg_belgium,2028,41900,,,projection,src_nbb_projections_jun2026,strong,NBB Jun employment +41.9k 2028 (~90k cum 2026-28)
+bud_nbb_jun_u_rate_2026,gg_belgium,2026,6.6,,,projection,src_nbb_projections_jun2026,strong,NBB Jun harmonised unemployment rate 6.6pct 2026
+bud_nbb_jun_u_rate_2028,gg_belgium,2028,6.4,,,projection,src_nbb_projections_jun2026,strong,NBB Jun unemployment 6.4pct 2028
+bud_nbb_jun_real_income_2026,gg_belgium,2026,-0.5,,,projection,src_nbb_projections_jun2026,strong,NBB Jun real disposable income -0.5pct 2026
+bud_nbb_jun_savings_rate_2026,gg_belgium,2026,11.8,,,projection,src_nbb_projections_jun2026,strong,NBB Jun household savings rate 11.8pct 2026 (from 12.8 2025)
+bud_nbb_ui_exclusions_h1_2026,rva,2026,100000,,,estimate,src_nbb_projections_jun2026,medium,NBB: ~100000 unemployed lost benefits Jan-Jun 2026; +70000 by mid-2027; ~1/3 to other aid
+bud_nbb_current_account_2026,gg_belgium,2026,-3.5,,,projection,src_nbb_projections_jun2026,strong,NBB Jun current account -3.5pct GDP 2026

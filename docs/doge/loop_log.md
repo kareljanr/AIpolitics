@@ -4625,3 +4625,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~45; cmt +2; lb +8; FOI **gap_cev_2026_table_l5** + **gap_reg_outlook_deficit_series** ready; rq_394=done; spawn **rq_395**; ticks=403
 - FOI: CEV full tables + regional deficit EUR series human send only
 - Next: prio5 **rq_395**; deferred **rq_116** SWA
+
+### 2026-08-01T16:45:00Z - tick 404
+- Unit: **rq_395** (FOI-adjacent hole-fill - **ICN EDP 2025 full EUR + NBB Jun 2026 projections**)
+- Found (strong primary ICN 20 Apr 2026 + NBB 12 Jun 2026):
+  - **ICN 2025:** TE **€347.956bn** · primary **€333.7bn** · interest **€14.3bn** · rec **€314.7bn** · deficit **−€33.2bn (−5.2%)** · debt **€692.5bn (107.9%)** · GDP **€642.0bn**
+  - Subsectors: fed **−€24.1bn** · C&R **−€8.9bn** · local **−€0.4bn** · SS **+€0.17bn**
+  - C&R: VL **−€4.1bn** · WAL **−€2.9bn** · FWB **−€1.5bn** · BRU **−€1.0bn** · ETS interreg **+€0.56bn**
+  - Defence COFOG **€8.8bn (1.4% GDP)** vs NATO cash 2%; orders pending **0.6% GDP**
+  - Debt shares: fed **80.0%** · C&R **18.4%** (€127.6bn) · local 4.0% · SS −2.4%
+  - **NBB Jun:** GDP **0.6%** 2026 · HICP **3.4%** · deficit **−5.3/−5.5/−5.7** · debt **111.3→114.8** · jobs **+16/35/42k** · UI **~100k** lost H1-26
+- Wrote: sources +2; budgets ~70; cmt +2; lb +8; FOI **gap_icn_edp_oct2026_refresh** ready seasonal; rq_395=done; spawn **rq_396**; ticks=404
+- FOI: Oct EDP refresh seasonal human send
+- Next: prio5 **rq_396**; deferred **rq_116** SWA
