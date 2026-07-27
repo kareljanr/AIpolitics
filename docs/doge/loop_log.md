@@ -2409,3 +2409,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 8; cmt 5; lb 5; foi note; rq_220=done; seeded **rq_221**.
 - FOI: register project L5 + Mons BI2026 + dual VL human send.
 - Next: prio5 **rq_221**; **tick 230 progress coverage** due; deferred **rq_116** SWA.
+
+### 2026-07-29T02:15:00Z - tick 229
+- Unit: **rq_221** (FOI-adjacent hole-fill - residual social/equality **BAZZZ Axi BattleDroids ATK VVS Unik GAMS**)
+- Found (strong MJP nominatief):
+  - **BAZZZ EUR 405k** (jeugd 315 + gelijke 90).
+  - **VVS EUR 400k** gezondheid; **Axi EUR 155k**; **Battle Droids EUR 163k**.
+  - **Armen Te Kort EUR 262.7k**; **Buurthuis Unik EUR 120k**; **GAMS EUR 50.6k**.
+  - Residual sample **7 orgs EUR 1.556m**; combined social+youth class **~EUR 31.79m** (~15 orgs with prior).
+  - Mons BI2026 still not public (FOI ready).
+- Wrote: sources 1; budgets 9; cmt 6; lb 3; foi note; rq_221=done; seeded **rq_222**.
+- FOI: register + Mons BI2026 + dual VL human send.
+- Next: **tick 230 mandatory progress coverage % + waste top10**; then prio5 **rq_222**; deferred **rq_116** SWA.

@@ -2390,3 +2390,12 @@ bud_elegast_total_2026,city_antwerpen,2026,1278054.3,,,budgeted,src_antwerp_mjp_
 bud_posthof_total_2026,city_antwerpen,2026,1274131.41,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Buurtwerk Posthof package 1.274m 2026 (digi 0.909 + sam 0.28 + SE 85k)
 bud_antwerp_youth_social_sample_2026,city_antwerpen,2026,9198578.569999998,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Youth/social L5 sample JES+Kras+Elegast+Posthof 9.199m 2026
 bud_antwerp_social_youth_combined_2026,city_antwerpen,2026,30230244.36,,,budgeted,src_antwerp_mjp_2026_youth_nominatief,strong,Combined social+youth sample 8 orgs ~30.23m 2026 (CAW ADIC FC VAGGA + JES Kras Elegast Posthof)
+bud_bazzz_total_2026,city_antwerpen,2026,405000.0,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,BAZZZ package 405k 2026 (gelijke 90k + jeugd 315k)
+bud_axi_2026,city_antwerpen,2026,155000.0,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Axi vzw gelijke kansen 155k 2026
+bud_battle_droids_2026,city_antwerpen,2026,163000.0,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Battle Droids Factory youth 163k 2026
+bud_armen_te_kort_2026,city_antwerpen,2026,262658.91,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Armen Te Kort poverty support 262.7k 2026
+bud_vvs_2026,city_antwerpen,2026,400000.0,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,VVS gezondheidszorg 400k 2026
+bud_buurthuis_unik_2026,city_antwerpen,2026,120000.0,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Buurthuis Unik samenleving 120k 2026
+bud_gams_total_2026,city_antwerpen,2026,50611.83,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,GAMS package 50.6k 2026 (sociale 8.6k + gelijke 42k)
+bud_antwerp_social_residual_sample_2026,city_antwerpen,2026,1556270.74,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Residual social/equality sample 7 orgs 1.556m 2026
+bud_antwerp_social_youth_15org_2026,city_antwerpen,2026,31786515.099999998,,,budgeted,src_antwerp_mjp_2026_social_residual,strong,Combined social+youth sample ~15 orgs 31.79m 2026 class
