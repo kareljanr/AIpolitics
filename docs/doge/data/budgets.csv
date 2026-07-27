@@ -1024,3 +1024,24 @@ bud_maribel_febi319_social_2024,maribel_funds,2024,5801291.07,,,outturn,src_febi
 bud_maribel_febi319_fiscal_2023,maribel_funds,2023,941036.98,,,outturn,src_febi_maribel_319_2024,strong,FSM 319 bicommunal fiscal Maribel 0.941m 2023
 bud_maribel_febi319_fiscal_2024,maribel_funds,2024,1037020.93,,,outturn,src_febi_maribel_319_2024,strong,FSM 319 bicommunal fiscal Maribel 1.037m 2024
 bud_maribel_public_sector_comp,maribel_funds,2024,38720000,,,budgeted,src_fod_werk_maribel_fiscale,strong,Public sector Maribel fund annual fiscal compensation 38.72m (no fiscal Maribel)
+bud_iefh_dotation_2024,iefh,2024,33939000,,,budgeted,src_iefh_ra_2024,strong,Federal dotation 2024 (may include multi-year CPVS authority > cash exp)
+bud_iefh_lottery_2024,iefh,2024,150000,,,budgeted,src_iefh_ra_2024,strong,Nationale Loterij subvention 2024
+bud_iefh_own_rev_2024,iefh,2024,76214,,,outturn,src_iefh_ra_2024,strong,Own revenues 2024
+bud_iefh_eu_gender_work_2024,iefh,2024,1014060,,,outturn,src_iefh_ra_2024,strong,EU Commission Gender & Work RRF multi-year project receipt 2024
+bud_iefh_vat_topup_2024,iefh,2024,18060,,,outturn,src_iefh_ra_2024,strong,Federal VAT cover Gender & Work project 2024
+bud_iefh_protocols_2024,iefh,2024,222942,,,outturn,src_iefh_ra_2024,strong,Federated protocols sum 2024 (WAL+FWB+BXL+DG; Flanders 0)
+bud_iefh_wal_2024,iefh,2024,81342,,,outturn,src_iefh_ra_2024,strong,Region wallonne protocol 2024
+bud_iefh_fwb_2024,iefh,2024,33500,,,outturn,src_iefh_ra_2024,strong,FWB protocol 2024
+bud_iefh_bxl_2024,iefh,2024,100000,,,outturn,src_iefh_ra_2024,strong,Brussels-Capital Region protocol 2024
+bud_iefh_dg_2024,iefh,2024,8100,,,outturn,src_iefh_ra_2024,strong,German-speaking Community protocol 2024
+bud_iefh_cocof_2023,iefh,2023,47775,,,budgeted,src_iefh_ra_2024,strong,COCOF cooperation renewed 2023 amount
+bud_iefh_actiris_2023,iefh,2023,32500,,,budgeted,src_iefh_ra_2024,strong,Actiris cooperation renewed 2023 amount
+bud_iefh_exp_total_2024,iefh,2024,24793000,,,outturn,src_iefh_ra_2024,strong,Total annual accounts expenditure 2024 (Table5)
+bud_iefh_exp_personnel_2024,iefh,2024,6908000,,,outturn,src_iefh_ra_2024,strong,Personnel expenses 2024 (28pct)
+bud_iefh_exp_ops_2024,iefh,2024,2562000,,,outturn,src_iefh_ra_2024,strong,Functioning and communication 2024 (10pct)
+bud_iefh_exp_subs_2024,iefh,2024,1609000,,,outturn,src_iefh_ra_2024,strong,Subsidies to other organisations 2024 (6pct)
+bud_iefh_exp_cpvs_2024,iefh,2024,10926000,,,outturn,src_iefh_ra_2024,strong,CPVS sexual violence centres project 2024 (44pct of exp)
+bud_iefh_exp_projects_2024,iefh,2024,2735000,,,outturn,src_iefh_ra_2024,strong,Projects and conventions 2024 (11pct)
+bud_iefh_exp_total_2023,iefh,2023,22931000,,,outturn,src_iefh_ra_2024,strong,Total annual accounts expenditure 2023
+bud_iefh_exp_total_2022,iefh,2022,14650000,,,outturn,src_iefh_ra_2024,strong,Total annual accounts expenditure 2022
+bud_iefh_exp_cpvs_2023,iefh,2023,8845000,,,outturn,src_iefh_ra_2024,strong,CPVS project expenditure 2023

@@ -1293,3 +1293,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 4; budgets 11; cmt_maribel_l5_sample; lb 2; rq_129=done; FOI residual note.
 - FOI: gap_maribel priority 6 residual (health bulk).
 - Next: prio6 **rq_118 IEFH** / **rq_119 FIRM** / RTBF/VRT.
+
+### 2026-07-27T21:10:00Z — tick 143
+- Unit: **rq_118** (IEFH/IGVM federal equality institute funding map)
+- Found (strong IEFH Rapport annuel 2024 primary):
+  - **Federal dotation 2024: €33.939m** (budget authority; may exceed cash).
+  - **Total expenditure 2024: €24.793m** — personnel €6.908m (28%) · ops €2.562m · **subsidies to orgs €1.609m** · **CPVS €10.926m (44%)** · projects €2.735m · inv €0.053m.
+  - Multi-year exp path (k€): 2020 12830 ? 2021 9841 ? 2022 14650 ? 2023 22931 ? 2024 24793.
+  - **Protocols 2024: €222.9k** (WAL 81.3 · FWB 33.5 · BXL 100.0 · DG 8.1 · **Flanders 0**).
+  - Lottery €150k; own €76k; EU Gender&Work €1.014m; COCOF/Actiris renewals €47.8k/€32.5k.
+  - Staff end-2024: **77 persons / 75 FTE**.
+  - EIGE secondary 21.6m/14.4m kept as secondary; primary RA preferred.
+- Wrote: sources 2; budgets 21; cmt_iefh_funding_2024; lb 2; entity iefh; rq_118=done; FOI gap_iefh_funding_detail ready.
+- FOI: residual 2025-26 + CPVS?INAMI + L5 structural names (human send).
+- Next: prio6 **rq_119 FIRM** / **rq_120 Myria** / RTBF-VRT.
