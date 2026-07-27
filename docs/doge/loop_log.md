@@ -3642,3 +3642,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity belspo; budgets +7; cmt +1; lb +2; FOI gap_belspo_fwi_l5_cut ready; draft; rq_320=done; spawn rq_321 progress@330; ticks=329
 - FOI: FWI L5 envelopes + post-cut path ready human send
 - Next: **MANDATORY rq_321 progress@330**; deferred **rq_116** SWA
+
+### 2026-07-31T03:45:00Z - tick 330 (progress milestone)
+- Unit: **rq_321** (mandatory progress@330 coverage % + waste top10)
+- Coverage vs EUR 347.956 bn TE:
+  - **A L0 / B L1:** **100%** strong
+  - **C L2:** **~90-97%** (up from ~89-96% @320) — listed SOE dual Proximus €6.62bn + Bnode/bpost €4.48bn; Nationale Loterij €1.67bn; federal culture triple ~€70m; Belnet €35m; BELSPO ~€570-630m
+  - **D L5:** **~16-26%** — lottery society / SFPIM dividend / Belspo FWI / bpost SGEI mechanisms FOI-adjacent; ASBL bulk residual
+  - **E FOI ready:** **~145** (answered ~5; total rows ~151)
+- Waste top10: **stable** fossil/company cars/cheque TE/EIWT; commercial SOE rev + culture + science cut path noted off pure annual top10
+- Inventory: budgets ~4036 / cmt ~609 / lb ~724 / entities ~280 / sources ~611
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log; rq_321=done; spawn rq_322; ticks=330
+- Next: prio5 **rq_322**; deferred **rq_116** SWA; human FOI send stack ~145 ready

@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **320** (2026-07-30) · **~704** leaderboard rows  
+**As-of:** tick **330** (2026-07-31) · **~724** leaderboard rows  
 **Sort:** `priority_index` desc (then absurdity, then annual €)  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -44,13 +44,16 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |-----|------------------:|------|
 | `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock; not annual TE flow |
 | `lb_synatom_assets_12_9bn` | **12.9 bn** | Pre/post CAP provision assets |
+| `lb_proximus_rev_6620m` | **6.62 bn** rev | Commercial SOE SFPIM majority; not pure TE |
+| `lb_bpost_opinc_4482m` | **4.48 bn** opinc | Listed postal/logistics; SGEI slice residual FOI |
+| `lb_natlot_omzet_1667m` | **1.67 bn** omzet | State lottery monopoly; society return ~363m |
 | `lb_creg_crisis_pack_2bn_2023` | **~2.09 bn** peak 2023 | Temporary energy-crisis CREG social+basisfonds |
 | `lb_fed_consultancy_2_5bn` | **~0.84 bn/yr** class | CoA 2.52bn 2020–22 IT-heavy; inventory FOI |
 | `lb_hr_rail_payroll_2_4bn` | **~2.37 bn** omzet | Dual employer pass-through; NMBS FTE0 statutory / Infrabel 9.4k |
 | `lb_smals_external_it_206m` | **>206 m** 2024 | External IT specialists via Smals; dual Egov Select |
-| `lb_ypto_nmbs_ih_wedge_193m` | **~193 m** class | NMBS-Ypto IH classification wedge |
-| `lb_public_ict_dual_stack_be` | multi-entity | Smals/Digipolis/ETNIC/Cipal/Ypto dual map |
-| `lb_vl_local_ict_dual_cipal_digipolis` | **114m + 246m** | Commercial Cipal vs public Digipolis AGB |
+| `lb_belspo_630m` | **~570–630 m** | Federal science dual; cut path 93m; L5 FWI FOI |
+| `lb_fed_culture_triple_70m` | **~70 m** dots | BOZAR+Monnaie+NOB dual community culture |
+| `lb_public_ict_dual_stack_be` | multi-entity | Smals/Digipolis/ETNIC/Cipal/Ypto/Belnet dual map |
 | `lb_nmbs_statutory_fte_zero` | **0 FTE** statutory | Dual opacity: ops 17k headcount invisible on NMBS accounts |
 
 ## “Clown / high absurdity” shortlist (not pure size)
@@ -64,4 +67,4 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 5 | `lb_union_pay_admin_169m` | 8.5 | **169.00 m** | Union unemployment payment admin grants ~169m |
 | 6 | `lb_vl_mijn_kortingsbon_appliances` | 8.5 | **3.66 m** | Flanders Mijn Kortingsbon 250 EUR fridge/washer |
 
-*Top 10 **stable** vs @310 on pure-waste mega items (fossil, company cars, cheque TE, EIWT). Ticks 311–319 raised **dual ICT + dual rail employer maps** (Smals/Ypto/TUC/ETNIC/Cipal; HR/NMBS/Infrabel/RailFac) as high-mechanism opacity — not a re-ranking of fossil/cars unless pi exceeds. NMBS statutory FTE 0 + HR €2.4bn pass-through is the standout dual-structure transparency flag.*
+*Top 10 **stable** vs @320 on pure-waste mega items (fossil, company cars, cheque TE, EIWT). Ticks 321–329 mapped **listed SOE duals** (Proximus/bpost), **lottery society**, **federal culture triple**, **Belnet NREN**, and **BELSPO science cut path** as high-mechanism transparency items — commercial revenue and prestige culture stay **off** pure annual waste top10 unless SGEI/TE slices re-score.*
