@@ -4424,3 +4424,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +102; cmt +1; lb +8; entity; FOI **gap_onss_gg_transfer_l5** ready; rq_379=done; spawn **rq_380**; ticks=388
 - FOI: IPSS transfer cash codes + equilibre path human send only
 - Next: prio5 **rq_380** (progress@390 next); deferred **rq_116** SWA
+
+### 2026-08-01T09:15:00Z - tick 389
+- Unit: **rq_380** (FOI-adjacent hole-fill - **federal social assistance L5 IGO+handicap+RIS + Entity I social macro**)
+- Found (strong primary CoA Budget 2026 + PensionStat GRAPA):
+  - Entity I dep **268.7bn** · social **155.5bn** · SS prest **135.5bn** · cotis **86.1bn**
+  - **Handicap 3.3bn** · **IGO/ages 1.0bn** · **RIS CPAS 2.2bn** (+Ukraine **299m**) = package **6.5bn**
+  - Chomage **3.9bn** 2026 (vs 5.7bn; -31.5pct) · pens **72bn** · health **41.3bn** · indemn **15.9bn**
+  - GRAPA stock **119,651** Jan2025 · avg **719 EUR/mo** · annualized **~1.03bn** medium dual 1.0bn
+- Wrote: sources +2; budgets +36; cmt +1; lb +7; entity spp_is; FOI **gap_igo_handicap_ris_cash_codes** ready; rq_380=done; spawn **rq_381** progress@390; ticks=389
+- FOI: AB cash codes handicap/IGO/RIS human send only
+- Next: **mandatory progress@390** (rq_381); deferred **rq_116** SWA

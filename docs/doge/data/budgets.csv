@@ -5115,3 +5115,39 @@ bud_ss_autres_dep_2024,sec_ss,2024,10473500000,,,outturn,src_ccrek_ss_182e_gg_sa
 bud_ffe_cotis_employeurs_2024,sec_ss,2024,275400000,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,FFE cotisations employeurs 275.4m 2024 (74.37pct hors-GG cotis)
 bud_gg_sal_pens_benef_2023,fpd,2023,2112213,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Beneficiaires pension retraite salaries moyen 2112213 2023 (COUNT)
 bud_gg_sal_pens_benef_2024,fpd,2024,2178093,,,outturn,src_ccrek_ss_182e_gg_salaries_2025,strong,Beneficiaires pension retraite salaries moyen 2178093 2024 (+3.12pct; COUNT)
+bud_entity1_dep_sec_2026,sec_federal,2026,268700000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Entity I depenses SEC consolidees 268.7bn 2026
+bud_entity1_deficit_2026,sec_federal,2026,24600000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Entity I deficit financement 24.6bn 2026
+bud_entity1_social_dep_2026,sec_federal,2026,155500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Entity I politique sociale large 155.5bn 2026 (57.9pct dep; hors fiscal 18.6bn 2023 class)
+bud_entity1_ss_prest_2026,sec_federal,2026,135500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Prestations regimes SS 135.5bn 2026 (+2pct)
+bud_entity1_cotis_2026,sec_federal,2026,86100000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Cotisations sociales Entity I 86.1bn 2026 (apres reductions)
+bud_entity1_red_cotis_2026,sec_federal,2026,5500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Reductions cotisations 5.5bn 2026 (hors Maribel social)
+bud_entity1_chomage_2026,sec_federal,2026,3900000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Allocations chomage 3.9bn 2026 (vs 5.7bn annee prec; -1.8bn -31.5pct)
+bud_entity1_chomage_2025,sec_federal,2025,5700000000,,,outturn,src_ccrek_budget2026_social_assist,strong,Allocations chomage 5.7bn 2025 class (prior year vs 2026)
+bud_entity1_indemnites_2026,sec_federal,2026,15900000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Indemnites incapacity 15.9bn 2026 (+4.8pct)
+bud_entity1_soins_sante_2026,sec_federal,2026,41300000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Soins de sante 41.3bn 2026 (+3.7pct)
+bud_entity1_pensions_2026,sec_federal,2026,72000000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Pensions 72bn 2026 (+3.3pct)
+bud_entity1_interest_2026,sec_federal,2026,12200000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Charges interet 12.2bn 2026 (1.84pct PIB)
+bud_entity1_transfers_other_2026,sec_federal,2026,66500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Transfers autres pouvoirs 66.5bn 2026 (hors RIS CPAS)
+bud_entity1_transfers_federated_2026,sec_federal,2026,59100000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Transfers entites federees 59.1bn 2026
+bud_entity1_ue_rnb_2026,sec_federal,2026,5000000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Contribution UE RNB ~5bn 2026 (+30pct)
+bud_entity1_defense_sec_2026,sec_federal,2026,9500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Defense SEC 9.5bn 2026 (40.6pct fonctions autorite)
+bud_entity1_defense_liq_2026,sec_federal,2026,10700000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Defense liquidations 10.7bn 2026
+bud_entity1_rail_2026,sec_federal,2026,3400000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Promotion service ferroviaire 3.4bn 2026
+bud_entity1_energie_2026,sec_federal,2026,1500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Politique energetique 1.5bn 2026
+bud_entity1_bpost_pso_2026,sec_federal,2026,155000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,bpost missions service public 155m 2026
+bud_entity1_esa_2026,sec_federal,2026,410000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Agence spatiale europeenne 410m 2026
+bud_handicap_federal_2026,sec_federal,2026,3300000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Aide federale personnes handicapees 3.3bn 2026 (budget general; hors SS regimes)
+bud_igo_grapa_federal_2026,sec_federal,2026,1000000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Aide personnes agees IGO/GRAPA 1.0bn 2026 (Tresor; hors cotisations)
+bud_ris_cpas_federal_2026,sec_federal,2026,2200000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Revenu d integration federal aux CPAS 2.2bn 2026
+bud_ris_ukraine_2026,sec_federal,2026,299000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,RIS/refugies ukrainiens 299m 2026 (non compris dans 2.2bn)
+bud_social_assist_package_2026,sec_federal,2026,6500000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Package assistance sociale directe budget 6.5bn = 3.3+1.0+2.2 (excl Ukraine 0.3)
+bud_cpas_compensation_extra_2026,sec_federal,2026,300000000,,,budgeted,src_ccrek_budget2026_social_assist,strong,Compensation supplementaire CPAS +300m 2026 (SPP IS notifications)
+bud_grapa_benef_2025,fpd,2025,119651,,,outturn,src_pensionstat_grapa_2025,strong,GRAPA beneficiaries 119651 Jan2025 stock (COUNT unit; ~2/3 women)
+bud_grapa_avg_monthly_2025,fpd,2025,719,,,outturn,src_pensionstat_grapa_2025,strong,GRAPA montant moyen brut 719 EUR/mois Jan2025 (official page)
+bud_grapa_monthly_mass_2025,fpd,2025,86042000,,,outturn,src_pensionstat_grapa_2025,strong,GRAPA monthly payment mass Jan2025 ~86.042m (sum n*avg by type from XLSX)
+bud_grapa_annualized_2025,fpd,2025,1032504000,1000000000,1100000000,estimate,src_pensionstat_grapa_2025,medium,Annualized Jan mass*12 ~1032.5m; dual CoA budget ages 1.0bn 2026 strong; method medium
+bud_grapa_pure_2025,fpd,2025,22135,,,outturn,src_pensionstat_grapa_2025,strong,GRAPA alone 22135 Jan2025 COUNT
+bud_grapa_pr_2025,fpd,2025,56565,,,outturn,src_pensionstat_grapa_2025,strong,PR+GRAPA 56565 COUNT
+bud_grapa_pr_pd_2025,fpd,2025,29792,,,outturn,src_pensionstat_grapa_2025,strong,PR+PD+GRAPA 29792 COUNT
+bud_ris_reform_integration_save_2026,sec_federal,2026,33500000,,,budgeted,src_ccrek_budget2026_social_assist,medium,Economie reforme RIS parcours integration 33.5m 2026 budgeted (CoA: delivery risk high)
+bud_ris_attente_5ans_save_2026,sec_federal,2026,6700000,,,budgeted,src_ccrek_budget2026_social_assist,medium,Economie delai attente 5 ans aide sociale 6.7m 2026 budgeted
