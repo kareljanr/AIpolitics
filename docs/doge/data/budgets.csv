@@ -3969,3 +3969,18 @@ bud_natlot_society_return_2024,nationale_loterij,2024,362500000,,,outturn,src_na
 bud_natlot_society_return_2025_target,nationale_loterij,2025,370000000,,,budgeted,src_nationale_loterij_press_2025,medium,Hoped society contribution 370m for 2025 results (not yet final definitive)
 bud_natlot_retail_2025,nationale_loterij,2025,1172000000,,,outturn,src_nationale_loterij_press_2025,strong,Retail sales 1172m 70.3pct of stakes 6748 points
 bud_natlot_online_2025,nationale_loterij,2025,494000000,,,outturn,src_nationale_loterij_press_2025,strong,Online sales 494m 29.7pct (+19.6pct)
+bud_proximus_rev_reported_2024,proximus,2024,6539000000,,,outturn,src_proximus_fy2025_press,strong,Group reported revenue 6539m 2024
+bud_proximus_rev_reported_2025,proximus,2025,6620000000,,,outturn,src_proximus_fy2025_press,strong,Group reported revenue 6620m 2025 (+1.2pct)
+bud_proximus_rev_underlying_2024,proximus,2024,6430000000,,,outturn,src_proximus_fy2025_press,strong,Underlying group revenue 6430m 2024
+bud_proximus_rev_underlying_2025,proximus,2025,6307000000,,,outturn,src_proximus_fy2025_press,strong,Underlying group revenue 6307m 2025 (-1.9pct)
+bud_proximus_domestic_rev_2024,proximus,2024,4826000000,,,outturn,src_proximus_fy2025_press,strong,Underlying Domestic revenue 4826m 2024
+bud_proximus_domestic_rev_2025,proximus,2025,4821000000,,,outturn,src_proximus_fy2025_press,medium,Underlying Domestic ~4821m 2025 (-0.1pct from 4826)
+bud_proximus_domestic_ebitda_2024,proximus,2024,1682000000,,,outturn,src_proximus_fy2025_press,strong,Underlying Domestic EBITDA 1682m 2024
+bud_proximus_domestic_ebitda_2025,proximus,2025,1699000000,,,outturn,src_proximus_fy2025_press,strong,Domestic EBITDA 1699m 2025 FY actual (Q1-26 guidance table)
+bud_proximus_global_ebitda_2025,proximus,2025,170000000,,,outturn,src_proximus_fy2025_press,strong,Global EBITDA 170m 2025
+bud_proximus_net_gs_2024,proximus,2024,447000000,,,outturn,src_proximus_fy2025_press,strong,Net income Group share 447m 2024
+bud_proximus_net_gs_2025,proximus,2025,398000000,,,outturn,src_proximus_fy2025_press,strong,Net income Group share 398m 2025 (-11pct; GW impairment)
+bud_proximus_capex_2024,proximus,2024,1355000000,,,outturn,src_proximus_fy2025_press,strong,Accrued CapEx excl spectrum football 1355m 2024
+bud_proximus_capex_2025,proximus,2025,1249000000,,,outturn,src_proximus_fy2025_press,strong,Accrued CapEx 1249m 2025
+bud_proximus_organic_fcf_2025,proximus,2025,130000000,,,outturn,src_proximus_fy2025_press,strong,Organic FCF 130m 2025 (reported FCF 480m incl asset sales)
+bud_proximus_div_per_share_2025,proximus,2025,0.60,,,outturn,src_proximus_fy2025_press,strong,Gross dividend proposed 0.60 EUR per share over 2025

@@ -3578,3 +3578,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity nationale_loterij; budgets +17; cmt +1; lb +2; FOI gap_natlot_society_l5 ready; draft; rq_315=done; spawn rq_316; ticks=324
 - FOI: L5 society return split + reconcilatie thin net vs ~363m ready human send
 - Next: prio5 **rq_316**; deferred **rq_116** SWA
+
+### 2026-07-31T01:15:00Z - tick 325
+- Unit: **rq_316** (FOI-adjacent hole-fill - **Proximus Group 2025 dual SFPIM majority telecom**)
+- Found (strong official Proximus FY2025 press 27 Feb 2026 + shareholder structure):
+  - Group reported rev **€6,539m ? €6,620m** 2024-25 (+1.2%); underlying **€6,430m ? €6,307m**.
+  - Domestic EBITDA **€1,699m** 2025; Global EBITDA **€170m**.
+  - Net Group share **€447m ? €398m** (-11%; Global GW impairment).
+  - CapEx **€1,249m**; organic FCF **€130m** (reported FCF 480m).
+  - Dividend proposed **€0.60/share**; SFPIM **~53.5% capital / ~56% voting** (180.9m shares).
+  - Fiber **2.604m** homes (~42% coverage); dual private Orange/Telenet + SFPIM federal holding.
+- Wrote: sources +2; entity proximus; budgets +15; cmt +1; lb +2; FOI gap_proximus_sfpim_dividend_l5 ready; draft; rq_316=done; spawn rq_317; ticks=325
+- FOI: SFPIM dividend cash multi-year + any public co-financing residual ready human send
+- Next: prio5 **rq_317**; deferred **rq_116** SWA
