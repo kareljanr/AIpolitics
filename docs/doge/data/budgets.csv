@@ -885,3 +885,13 @@ bud_fed_aoi_total_2025,sec_federal,2025,774275000,,,outturn,src_bosa_fed_aoi_toe
 bud_fed_aoi_hh_2025,sec_federal,2025,563215000,,,outturn,src_bosa_fed_aoi_toelagen,strong,AOI to households/ASBL 563.215m 2025
 bud_fed_assign_funds_2025,sec_federal,2025,83552000000,,,budgeted,src_bosa_fed_overdrachten_groups,strong,Toewijzingsfondsen 83.552bn 2025 assignment of tax receipts to other gov
 bud_fed_taxex_inventory_2023,fod_finance,2023,39401000000,,,outturn,src_bosa_fed_overdrachten_groups,strong,FPS TE inventory total 39.401bn 2023 via BOSA; VAT 16.198 PIT fed 9.671 BV 4.415 CIT 3.809
+bud_vdab_vek_ba2025,vdab,2025,765690000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,BBT BO2026: VDAB total VEK BA2025 765.690m (activering 579.084 + competenties 186.606)
+bud_vdab_vak_ba2025,vdab,2025,760621000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,BBT: VDAB total VAK BA2025 760.621m
+bud_vdab_vek_bo2026,vdab,2026,750702000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,BBT: VDAB total VEK BO2026 750.702m (act 561.009 + comp 189.693)
+bud_vdab_vak_bo2026,vdab,2026,750604000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,BBT: VDAB total VAK BO2026 750.604m
+bud_vdab_activering_vek_2026,vdab,2026,561009000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,ISE activering VEK BO2026 561.009m (incl -20m werkings toelage cut)
+bud_vdab_competenties_vek_2026,vdab,2026,189693000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,ISE competenties VEK BO2026 189.693m (+3m index toelage)
+bud_vdab_werkings_cut_2026,vdab,2026,-20000000,,,budgeted,src_vl_bbt_werk_bo2026_vdab,strong,Opstap 2026 -20m on VDAB werkings toelage
+bud_vdab_total_2024_class,vdab,2024,962000000,,,budgeted,src_vl_pq52_vdab_budget,medium,PQ52 premise total budget 962m 2024; minister deferred to jaarrekening
+bud_vdab_dotatie_2024_class,vdab,2024,783000000,,,budgeted,src_vl_pq52_vdab_budget,medium,PQ52 premise Flemish dotatie 783m of 962m 2024; residual EU+own income
+bud_vdab_werking_2025_class,vdab,2025,945000000,,,budgeted,src_vl_conceptnota_vdab_945,medium,Conceptnota: werkingsbudget 945m 2025 of which 81.2pct VL government (~767m class)

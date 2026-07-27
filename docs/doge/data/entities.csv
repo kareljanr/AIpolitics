@@ -38,7 +38,7 @@ city_luik,Stad Luik,Ville de Liège,City of Liège,local,sec_local,fr,https://ww
 city_brugge,Stad Brugge,Ville de Bruges,City of Bruges,local,sec_local,nl,https://www.brugge.be,,,Open subsidieregister: 2024 total 99.3m; Brugge Plus 7.3m; Concertgebouw 2.1m; Entrepot 1.1m; tick102
 city_charleroi,Stad Charleroi,Ville de Charleroi,City of Charleroi,local,sec_local,fr,https://www.charleroi.be,,,Walloon largest city; Plan Oxygène constrained budget
 rekenhof,Rekenhof,Cour des comptes,Court of Audit,other,gg_belgium,bi,https://www.ccrek.be,,,Audit source not a spend entity
-vdab,VDAB,VDAB,Flemish PES,parastatal,sec_flanders,nl,https://www.vdab.be,,,Public employment service Flanders
+vdab,VDAB,VDAB,Flemish PES,parastatal,sec_flanders,nl,https://www.vdab.be,,,Public employment service Flanders; BBT BO2026 VEK 750.7m; 2024 total class 962m FOI jaarrekening
 forem,Forem,Forem,Walloon PES,parastatal,sec_wallonia,fr,https://www.leforem.be,,,Public employment service Wallonia � budget TBD
 actiris,Actiris,Actiris,Brussels PES,parastatal,sec_brussels,bi,https://www.actiris.brussels,,,Public employment service Brussels
 hulpkas,Hulpkas van de Werkloosheidsuitkeringen,Caisse auxiliaire de paiement des allocations de ch�mage,Auxiliary unemployment payment fund,parastatal,sec_ss,bi,https://www.hvwrva.be,,,Public channel for jobseekers not using union payment funds

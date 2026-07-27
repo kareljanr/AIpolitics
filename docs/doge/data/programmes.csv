@@ -78,3 +78,6 @@ vl_bo2026_vak_wvg,vlaanderen_gov,,WVG-VAK,Welzijn VAK constant policy,,2026,1830
 vl_bo2026_vak_mow,vlaanderen_gov,,MOW-VAK,Mobiliteit VAK constant policy,,2026,5274739000,src_vl_centenboekje_bo2026_full,strong,Vlaanderen>BO2026>MOW>VAK,"Table 4-1 VAK 5.275bn"
 vl_bo2026_vak_wewil,vlaanderen_gov,,WEW-VAK,WEWIL VAK constant policy,,2026,6195493000,src_vl_centenboekje_bo2026_full,strong,Vlaanderen>BO2026>WEWIL>VAK,"Table 4-1 VAK 6.195bn"
 vl_bo2026_vak_total,vlaanderen_gov,,VAK,Totaal VAK constant policy,,2026,65812226000,src_vl_centenboekje_bo2026_full,strong,Vlaanderen>BO2026>VAK,"Table 4-1 total 65.812bn"
+vdab_vek_bo2026,vdab,,VDAB-VEK,VDAB Vlaamse VEK-kredieten BO2026,10.5,2026,750702000,src_vl_bbt_werk_bo2026_vdab,strong,Vlaanderen>WEWIL>VDAB,BBT BO2026 total 750.702m activering+competenties
+vdab_activering_2026,vdab,vdab_vek_bo2026,VDAB-ACT,VDAB ISE activering VEK BO2026,10.5,2026,561009000,src_vl_bbt_werk_bo2026_vdab,strong,Vlaanderen>WEWIL>VDAB>activering,Includes -20m werkings toelage cut
+vdab_competenties_2026,vdab,vdab_vek_bo2026,VDAB-COMP,VDAB ISE competenties VEK BO2026,10.5,2026,189693000,src_vl_bbt_werk_bo2026_vdab,strong,Vlaanderen>WEWIL>VDAB>competenties,+3m index toelage

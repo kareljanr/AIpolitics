@@ -848,6 +848,19 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_118** IEFH or **rq_119** FIRM-IFDH (prio 6).
 
 
+### 2026-07-27T17:00:00Z -- tick 131
+- Unit: **rq_132** (VDAB full budget primary) — prio 7 / FOI-adjacent PES
+- Found (primary **BBT BO2026 Werk** pfile 2250747; **no invent euros**):
+  - **Strong:** VDAB VL kredieten BA2025 **VEK €765.690 m** / VAK €760.621 m → BO2026 **VEK €750.702 m** / VAK €750.604 m.
+  - Split BO2026: activering **€561.009 m** VEK; competenties **€189.693 m** VEK.
+  - **−€20 m** werkings toelage cut; **+€3 m** index on competenties toelage.
+  - **Medium:** PQ52 premise **€962 m** total 2024 of which **€783 m** VL dotatie (minister deferred to jaarrekening); conceptnota **€945 m** werkings 2025 (81.2% VL).
+  - Residual: official jaarrekening institutional total (EU+own) + L5 splits → FOI.
+- Wrote: sources +3; budgets +10; programmes +3; cmt; lb_vdab_toelage; FOI draft update; raw PDFs; rq_132=**done**; ticks=131
+- FOI: gap_vdab_full_budget remains ready (prio 5; partial fill)
+- Next: **rq_133 FOREM** (PES dual) or **rq_137 parties** or regional L5
+
+
 ### 2026-07-27T16:40:00Z -- tick 130
 - Unit: **rq_124** (Federal BGD / toelagen top discretionary L5) — prio 8 last
 - Found (primary **BOSA** register + dept/OISZ/AOI tables; **no invent euros**):
