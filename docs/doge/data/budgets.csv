@@ -2343,3 +2343,10 @@ bud_hetpaleis_invest_2026,city_antwerpen,2026,490000,,,budgeted,src_ebesluit_het
 bud_rataplan_werk_2026,city_antwerpen,2026,278500,,,budgeted,src_ebesluit_rataplan_werk_2026,strong,Rataplan werk 278.5k 2026 (culture 193.5 + buurt 85)
 bud_koraal_college_2026,city_antwerpen,2026,655000,,,budgeted,src_ebesluit_koraal_2026,strong,Koraal youth package college lock 655k 2026
 bud_antwerp_culture_l5_sample_12houses_2026,city_antwerpen,2026,12692200,,,budgeted,src_ebesluit_hetpaleis_2026,strong,Culture L5 sample 12 houses 12.692m (prior 9.280 + HETPALEIS 3.412)
+bud_deroma_2026,city_antwerpen,2026,936000,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,De Roma vzw culture werk 936k 2026 MJP nominatief (college lock Jun2026 postponed)
+bud_trix_culture_2026,city_antwerpen,2026,355000,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Trx/Trix vzw culture werk 355k 2026 MJP
+bud_trix_youth_2026,city_antwerpen,2026,350000,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Trx/Trix vzw youth werk 350k 2026 MJP
+bud_trix_package_2026,city_antwerpen,2026,705000,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Trx/Trix package 705k 2026 (culture 355 + youth 350)
+bud_destudio_2026,city_antwerpen,2026,153000,,,budgeted,src_ebesluit_destudio_2026,strong,De Studio Villanella culture 153k 2026 college+MJP
+bud_antwerp_art_2026,city_antwerpen,2026,97500,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Antwerp Art vzw culture 97.5k 2026 MJP
+bud_antwerp_culture_l5_sample_16houses_2026,city_antwerpen,2026,14583700,,,budgeted,src_antwerp_mjp_2026_werk_nominatief,strong,Culture L5 sample 16/16 houses complete 14.584m of ~35m envelope (~41.7pct)

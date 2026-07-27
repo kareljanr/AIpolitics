@@ -1750,43 +1750,43 @@ Append-only. Each tick adds a short entry.
 - FOI: residual Fluvius municipal L5 + BCR capital calendar human send.
 - Next: prio5 **rq_172**; deferred **rq_116** SWA.
 
-### 2026-07-28T09:05:00Z — tick 177
-- Unit: **rq_172** (FOI-adjacent hole-fill — **Aquafin JV BE-GAAP 2024 + SPGE en bref 2024**)
+### 2026-07-28T09:05:00Z â€“ tick 177
+- Unit: **rq_172** (FOI-adjacent hole-fill â€“ **Aquafin JV BE-GAAP 2024 + SPGE en bref 2024**)
 - Found (strong primary Aquafin statutory; SPGE key figures official site):
-  - **Aquafin:** omzet **EUR 673.1m 2024** (662.1m 2023) · bedrijfsopbrengsten **724.2m** · op. profit **77.7m** · **net 4.435m**.
-  - Assets **4.125bn** · equity **1.116bn** · capital **298.4m** (PMV 100%) · capital subsidies **780.5m**.
-  - LT fin. debt **2.208bn** (bonds **540m** + banks **1.667bn**) · ST fin **150m** · D&A **217.9m** · personnel **119.2m** · FTE **1_201**.
-  - Projects delivered **226m** 2024 · Moody's **Aa3** · commercial paper open **145.5m**.
-  - **SPGE:** CA **418m** · debt **1.581bn** · bilan **3.738bn** · invest **>200m** · FTE **58** · Moody's **A3**.
+  - **Aquafin:** omzet **EUR 673.1m 2024** (662.1m 2023) ? bedrijfsopbrengsten **724.2m** ? op. profit **77.7m** ? **net 4.435m**.
+  - Assets **4.125bn** ? equity **1.116bn** ? capital **298.4m** (PMV 100%) ? capital subsidies **780.5m**.
+  - LT fin. debt **2.208bn** (bonds **540m** + banks **1.667bn**) ? ST fin **150m** ? D&A **217.9m** ? personnel **119.2m** ? FTE **1_201**.
+  - Projects delivered **226m** 2024 ? Moody's **Aa3** ? commercial paper open **145.5m**.
+  - **SPGE:** CA **418m** ? debt **1.581bn** ? bilan **3.738bn** ? invest **>200m** ? FTE **58** ? Moody's **A3**.
   - Completes dual sanitation: **Aquafin VL** + **SPGE WAL** (+ Vivaqua Hydria BCR) alongside drinking water SWDE/Vivaqua/Farys class.
 - Mons BI2026 / Antwerp register still open.
 - Wrote: sources 2; entity 1+update; budgets 21; cmt 2; lb 2; FOI note; rq_172=done; seeded **rq_173**.
 - FOI: residual Fluvius municipal L5 + BCR capital + SPGE OAA top-20 human send.
 - Next: prio5 **rq_173**; deferred **rq_116** SWA.
 
-### 2026-07-28T09:25:00Z — tick 178
-- Unit: **rq_173** (FOI-adjacent hole-fill — **De Watergroep JV 2024**)
+### 2026-07-28T09:25:00Z â€“ tick 178
+- Unit: **rq_173** (FOI-adjacent hole-fill â€“ **De Watergroep JV 2024**)
 - Found (strong primary integrated annual report / statutaire jaarrekening):
-  - **Omzet EUR 838.3m 2024** (793.7m 2023) · bedrijfsopbrengsten **955.2m** · bedrijfskosten **954.1m**.
-  - **EBITDA 97.3m** · op. result **+1.1m** · **net loss -6.7m** (third consecutive loss; -20.4m 2023).
-  - Assets **2.248bn** · equity **1.256bn** · capital **750.8m** · capital subsidies **97.6m**.
-  - Fin. debt **711.4m** (LT **686.9m** + ST **24.5m**) · net debt **706.1m** · schuldgraad **7.26x** EBITDA.
-  - Personnel **159.8m** · services **665.9m** · D&A **93.4m** · FTE **1_651** · **177** municipalities.
-  - EIB investment credit facility **350m** class · drinkwater div result **-16.1m** · afvalwater **+9.5m**.
+  - **Omzet EUR 838.3m 2024** (793.7m 2023) ? bedrijfsopbrengsten **955.2m** ? bedrijfskosten **954.1m**.
+  - **EBITDA 97.3m** ? op. result **+1.1m** ? **net loss -6.7m** (third consecutive loss; -20.4m 2023).
+  - Assets **2.248bn** ? equity **1.256bn** ? capital **750.8m** ? capital subsidies **97.6m**.
+  - Fin. debt **711.4m** (LT **686.9m** + ST **24.5m**) ? net debt **706.1m** ? schuldgraad **7.26x** EBITDA.
+  - Personnel **159.8m** ? services **665.9m** ? D&A **93.4m** ? FTE **1_651** ? **177** municipalities.
+  - EIB investment credit facility **350m** class ? drinkwater div result **-16.1m** ? afvalwater **+9.5m**.
   - Dual water map: **De Watergroep VL** (+ Farys/Pidpa/water-link residual) + **SWDE WAL** + **Vivaqua BCR**.
-- Note: public Farys files found only Creat Services DV (omzet 70–89m service co), not Farys ov full utility accounts — residual for next tick.
+- Note: public Farys files found only Creat Services DV (omzet 70â€“89m service co), not Farys ov full utility accounts â€“ residual for next tick.
 - Wrote: sources 1; entity 1; budgets 20; cmt 1; lb 2; rq_173=done; seeded **rq_174**.
 - FOI: residual Fluvius munis + BCR capital + SPGE OAA + Farys ov if still opaque; human send.
 - Next: prio5 **rq_174**; deferred **rq_116** SWA.
 
-### 2026-07-28T09:45:00Z — tick 179
-- Unit: **rq_174** (FOI-adjacent hole-fill — **Pidpa Financieel jaarverslag 2025**)
+### 2026-07-28T09:45:00Z â€“ tick 179
+- Unit: **rq_174** (FOI-adjacent hole-fill â€“ **Pidpa Financieel jaarverslag 2025**)
 - Found (strong primary financial annual report):
-  - **Omzet water EUR 382.8m 2025** (+31.8% vs 2024) · total omzet **402.7m** (+27.8%).
+  - **Omzet water EUR 382.8m 2025** (+31.8% vs 2024) ? total omzet **402.7m** (+27.8%).
   - Water 2024 series: BGS **73.0m** + GS **99.1m** + WATER **118.4m** = **290.5m**.
   - **Net profit 31.321m** (Water **14.4m** + HidroRio **9.4m** + HidroGem **7.6m**).
-  - Assets **1.595bn** · equity **859.3m** · solvability **53.9%** · invest **~183m** (riolering ~96m).
-  - 46 sewer municipalities · mandate extended +18y Mar 2025 · Antwerp Borsbeek exit 2026-01-01.
+  - Assets **1.595bn** ? equity **859.3m** ? solvability **53.9%** ? invest **~183m** (riolering ~96m).
+  - 46 sewer municipalities ? mandate extended +18y Mar 2025 ? Antwerp Borsbeek exit 2026-01-01.
   - Dual water map: **De Watergroep 838m** + **Pidpa 403m** + SWDE/Vivaqua; Farys ov still public-opaque.
 - Wrote: sources 1; entity 1; budgets 15; cmt 1; lb 1; rq_174=done; seeded **rq_175**.
 - FOI: residual Farys ov full accounts + Antwerp/Mons FOIs human send.
@@ -1847,10 +1847,10 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T11:05:00Z - tick 183
 - Unit: **rq_177** (FOI-adjacent hole-fill - **Fluxys Belgium gas TSO AR2025**)
 - Found (strong primary regulated press 2026-03-31; dual electricity Elia):
-  - **Operating revenue EUR 650.453m 2025** (608.789m 2024) · **EBITDA 320.111m** · EBIT 133.916m · **net profit 74.897m** (82.061m 2024).
-  - **CAPEX 261.751m** (92.1m 2024): transmission **246.2m** (Knokke–Evergem **68.5m**) · storage 11.5m · LNG 4.1m.
-  - Assets **3.174bn** · PPE **1.862bn** · equity **592.8m** · **net fin debt 326.9m** (was 159.8m).
-  - Dividend proposed **1.40 EUR/share** · payout **98.4m** · statutory SA profit **85.5m** · staff **994** (+102).
+  - **Operating revenue EUR 650.453m 2025** (608.789m 2024) ? **EBITDA 320.111m** ? EBIT 133.916m ? **net profit 74.897m** (82.061m 2024).
+  - **CAPEX 261.751m** (92.1m 2024): transmission **246.2m** (Knokkeâ€“Evergem **68.5m**) ? storage 11.5m ? LNG 4.1m.
+  - Assets **3.174bn** ? PPE **1.862bn** ? equity **592.8m** ? **net fin debt 326.9m** (was 159.8m).
+  - Dividend proposed **1.40 EUR/share** ? payout **98.4m** ? statutory SA profit **85.5m** ? staff **994** (+102).
   - H2/CO2 construction start; Fluxys c-grid appointed CO2 operator FL+WAL (SFPIM partner).
   - **Federal Nov2025 budget intent: withdraw 300m** from Fluxys regulatory-account positive balances (medium; Fluxys contests legality; not cash outturn).
   - Dual map: **Elia electricity TSO** + **Fluxys gas TSO** + DSO stack (Fluvius/ORES/RESA/Sibelga).
@@ -1862,10 +1862,10 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T11:25:00Z - tick 184
 - Unit: **rq_179** (FOI-adjacent hole-fill - **SFPIM federal holding 2025 figures**)
 - Found (strong primary official figures page):
-  - **Assets EUR 11.679bn** end-2025 (11.523bn 2024) · **equity 11.445bn** · financial assets **9.847bn** · cash **1.355bn**.
-  - **Net income 291m** 2025 (315.2m 2024) · pretax 312m · **dividend to State 78m** (86m 2024).
-  - Recurring financial products **825m** · opex **35m** · staff **39** · portfolio **189** companies · 8 new interests.
-  - Non-recurrent charges **586m** 2025 (1.259bn 2024) · non-rec income 112m — large valuation swing.
+  - **Assets EUR 11.679bn** end-2025 (11.523bn 2024) ? **equity 11.445bn** ? financial assets **9.847bn** ? cash **1.355bn**.
+  - **Net income 291m** 2025 (315.2m 2024) ? pretax 312m ? **dividend to State 78m** (86m 2024).
+  - Recurring financial products **825m** ? opex **35m** ? staff **39** ? portfolio **189** companies ? 8 new interests.
+  - Non-recurrent charges **586m** 2025 (1.259bn 2024) ? non-rec income 112m â€“ large valuation swing.
   - Key highlight 211.2m profit medium (definition vs table net 291m unclear).
   - Dual holding map: **SFPIM federal** + PMV Flanders + Wallonie Entreprendre.
 - Antwerp register / Mons BI2026: still no public bulk L5 (rechecked negative).
@@ -1876,29 +1876,29 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T11:45:00Z - tick 185
 - Unit: **rq_180** (FOI-adjacent hole-fill - **BIO DFI Annual Report 2025 financials**)
 - Found (strong primary AR2025 financials + PDF income table):
-  - **Total assets EUR 1.196bn** end-2025 (+1%) · **equity 1.176bn** (1.159bn 2024; +16.7m).
-  - **Income 55.311m** · gross margin 54.470m · opex **14.303m** · cost of risk **20.108m**.
-  - Operating result 20.058m · FX -5.947m · pretax 14.111m · **net 8.971m** (19.2m 2024).
-  - **Dividend to Belgian State 4.5m** · retained earnings 34.9m.
-  - **Approvals record 235m / 30 projects** (signed 21) · Africa **55%** · jobs ~388k direct end-2024.
+  - **Total assets EUR 1.196bn** end-2025 (+1%) ? **equity 1.176bn** (1.159bn 2024; +16.7m).
+  - **Income 55.311m** ? gross margin 54.470m ? opex **14.303m** ? cost of risk **20.108m**.
+  - Operating result 20.058m ? FX -5.947m ? pretax 14.111m ? **net 8.971m** (19.2m 2024).
+  - **Dividend to Belgian State 4.5m** ? retained earnings 34.9m.
+  - **Approvals record 235m / 30 projects** (signed 21) ? Africa **55%** ? jobs ~388k direct end-2024.
   - Dual map: **BIO DFI** + **Enabel** implementer + **DGD** ODA (prior ticks).
-- Port of Antwerp-Bruges: cargo throughput public; **authority financial accounts still thin** on open press (factsheet cargo-only) — residual for next tick.
+- Port of Antwerp-Bruges: cargo throughput public; **authority financial accounts still thin** on open press (factsheet cargo-only) â€“ residual for next tick.
 - Antwerp register / Mons BI2026: still no bulk L5 public.
 - Wrote: sources 3; entity update; budgets 21; cmt 1; lb 2; FOI **gap_bio_l5_portfolio** ready; rq_180=done; seeded **rq_181**.
-- FOI: L5 investee list + impairments + State capital path — human send only.
+- FOI: L5 investee list + impairments + State capital path â€“ human send only.
 - Next: prio5 **rq_181**; deferred **rq_116** SWA.
 
 ### 2026-07-28T12:05:00Z - tick 186
 - Unit: **rq_181** (FOI-adjacent hole-fill - **Brussels Airport Company 2025 results**)
 - Found (strong primary official press 2026-05-08):
-  - **Revenue EUR 828m 2025** (+6%) · expenses **472m** (439m 2024) · **EBITDA 356m** (345m).
-  - **Net profit 84m** (91m 2024; -7m higher tax) · **dividend 41m** first since 2019.
+  - **Revenue EUR 828m 2025** (+6%) ? expenses **472m** (439m 2024) ? **EBITDA 356m** (345m).
+  - **Net profit 84m** (91m 2024; -7m higher tax) ? **dividend 41m** first since 2019.
   - **CAPEX record 302m** (Brucargo, P30, runway 25L, lounge).
-  - Traffic: **pax 24.4m** (+3.3%) · cargo **795kt** (+8.5%) · movements **198k**.
-  - Ownership: **SFPIM/FPIM 25%** + PMV/private consortium **75%** — links tick184 SFPIM.
-  - Jobs class **64k** direct+indirect · noise-efficient flights **42%** (was 20% 2016).
+  - Traffic: **pax 24.4m** (+3.3%) ? cargo **795kt** (+8.5%) ? movements **198k**.
+  - Ownership: **SFPIM/FPIM 25%** + PMV/private consortium **75%** â€“ links tick184 SFPIM.
+  - Jobs class **64k** direct+indirect ? noise-efficient flights **42%** (was 20% 2016).
   - Dual: national hub vs Charleroi BSCA residual.
-- Port of Antwerp-Bruges authority P&L still not in open press (cargo-only) — residual **rq_182**.
+- Port of Antwerp-Bruges authority P&L still not in open press (cargo-only) â€“ residual **rq_182**.
 - Wrote: sources 1; entity 1; budgets 14; cmt 1; lb 2; FOI **gap_bac_balance_sheet** ready; rq_181=done; seeded **rq_182**.
 - FOI: full BS/debt/RAB human send only.
 - Next: prio5 **rq_182**; deferred **rq_116** SWA.
@@ -1906,10 +1906,10 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T12:25:00Z - tick 187
 - Unit: **rq_182** (FOI-adjacent hole-fill - **BSCA Charleroi dual to Brussels Airport**)
 - Found (strong primary AR2024 EN PDF):
-  - **Turnover EUR 126.860m 2024** (115.934m 2023; +9.42%) · **EBITDA 28.637m** · **net 21.412m**.
-  - Investments **3.880m** · pax **10.501m** (+12%) · avg employees **825** · active FTE **645**.
-  - Shareholding: **Belgian Airport SA 48.32%** · **SOWAER 35.9%** · Sambrinvest 13.7% · Igretec 1.7% · SABCA 0.5%.
-  - Exclusive rights to **2041** · jobs class ~4_650 · employee profit-share CCT90 1.5m class.
+  - **Turnover EUR 126.860m 2024** (115.934m 2023; +9.42%) ? **EBITDA 28.637m** ? **net 21.412m**.
+  - Investments **3.880m** ? pax **10.501m** (+12%) ? avg employees **825** ? active FTE **645**.
+  - Shareholding: **Belgian Airport SA 48.32%** ? **SOWAER 35.9%** ? Sambrinvest 13.7% ? Igretec 1.7% ? SABCA 0.5%.
+  - Exclusive rights to **2041** ? jobs class ~4_650 ? employee profit-share CCT90 1.5m class.
   - Dual map: **BAC Zaventem 828m / 24.4m pax** (SFPIM 25%) vs **BSCA 127m / 10.5m pax** (SOWAER 36%).
 - Port Antwerp-Bruges / Credendo: residual for next tick.
 - Wrote: sources 1; entities 2; budgets 14; cmt 1; lb 2; FOI **gap_sowaer_accounts** ready; rq_182=done; seeded **rq_183**.
@@ -1919,12 +1919,12 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T12:45:00Z - tick 188
 - Unit: **rq_183** (FOI-adjacent hole-fill - **Credendo ECA group consol 2024**)
 - Found (strong primary management report on 2024 consol FS):
-  - **Total assets EUR 3.9206bn** end-2024 (3.696bn 2023) · **equity ex-NCI 3.3021bn**.
-  - Financial investments **3.086bn** · cash **446.1m** · insurance liabilities **492.1m**.
-  - Group GWP after rebates **481m** (+6% record) · ECA GWP **291m** (+13%) · insured transactions **8.9bn** (+46%).
-  - Insurance service result **174.1m** (74.0m 2023) · net ins+fin result **324.0m** (191.7m).
+  - **Total assets EUR 3.9206bn** end-2024 (3.696bn 2023) ? **equity ex-NCI 3.3021bn**.
+  - Financial investments **3.086bn** ? cash **446.1m** ? insurance liabilities **492.1m**.
+  - Group GWP after rebates **481m** (+6% record) ? ECA GWP **291m** (+13%) ? insured transactions **8.9bn** (+46%).
+  - Insurance service result **174.1m** (74.0m 2023) ? net ins+fin result **324.0m** (191.7m).
   - Total comprehensive income **257.2m** profit (135.5m 2023).
-  - Cover capacity **33bn** class medium (portal AA S&P) — contingent sovereign-linked risk.
+  - Cover capacity **33bn** class medium (portal AA S&P) â€“ contingent sovereign-linked risk.
   - Official Belgian export credit agency state-backed; dual private short-term credit arms.
 - Port of Antwerp-Bruges authority P&L still residual.
 - Wrote: sources 3; entity 1; budgets 20; cmt 1; lb 2; FOI **gap_credendo_l5_claims** ready; rq_183=done; seeded **rq_184**.
@@ -1934,14 +1934,14 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T13:05:00Z - tick 189
 - Unit: **rq_184** (FOI-adjacent hole-fill - **skeyes ANS / ex-Belgocontrol 2024**)
 - Found (strong primary Jaarverslag 2024 NL PDF + media KF2025):
-  - **Omzet EUR 335.2m 2024** · En-route **261.7m** · Terminal EBBR **66.2m** · invest **36.4m**.
-  - **Profit 15.4m** · equity components sum **~308.4m** (capital 170m + reserves) · 2023 EV **290.3m**.
-  - En-route unit rate **EUR 112.08** · 4th management contract May 2024 with Belgian State.
+  - **Omzet EUR 335.2m 2024** ? En-route **261.7m** ? Terminal EBBR **66.2m** ? invest **36.4m**.
+  - **Profit 15.4m** ? equity components sum **~308.4m** (capital 170m + reserves) ? 2023 EV **290.3m**.
+  - En-route unit rate **EUR 112.08** ? 4th management contract May 2024 with Belgian State.
   - **COVID state loan 110m** (first repay **15.7m** Dec 2024; 7y path).
   - RP3 correction receivables **195.4m** deferred into unit rates **2024-2030**.
-  - Flights **946_768** 2024 / **1_035_084** 2025 (+4%) · staff **982** / **1006**.
+  - Flights **946_768** 2024 / **1_035_084** 2025 (+4%) ? staff **982** / **1006**.
   - Dual map: **skeyes ANS** + **BAC/BSCA airports** (prior ticks).
-- Port of Antwerp-Bruges authority P&L still thin public — residual **rq_185**.
+- Port of Antwerp-Bruges authority P&L still thin public â€“ residual **rq_185**.
 - Wrote: sources 2; entity 1; budgets 18; cmt 1; lb 2; FOI **gap_skeyes_bs_2025** ready; rq_184=done; seeded **rq_185**.
 - FOI: 2025 full BS + multi-year correction schedule human send only.
 - Next: prio5 **rq_185**; deferred **rq_116** SWA.
@@ -1949,10 +1949,10 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T13:25:00Z - tick 190
 - Unit: **rq_185** (FOI-adjacent hole-fill - **SOWAER comptes 2020-2025 public fill**)
 - Found (strong primary official comptes PDF to 31/12/2025):
-  - **Assets EUR 491.747m** end-2025 (494.2m 2024) · **equity 366.922m** · capital 322.3m.
-  - **Ventes 46.986m 2025** (64.8m 2024 / 81.3m 2023) · **net 0.300m** (7.41m 2024 / 18.45m 2023).
-  - Op. result **-3.83m** 2025 · D&A 31.0m · personnel 7.69m · fin assets **37.9m** (BSCA stake class) · PPE **374.4m**.
-  - Dettes **124.8m** (LT 89.9m) · cash 49.8m · treasury notes programme ceiling **85m** Region-guaranteed.
+  - **Assets EUR 491.747m** end-2025 (494.2m 2024) ? **equity 366.922m** ? capital 322.3m.
+  - **Ventes 46.986m 2025** (64.8m 2024 / 81.3m 2023) ? **net 0.300m** (7.41m 2024 / 18.45m 2023).
+  - Op. result **-3.83m** 2025 ? D&A 31.0m ? personnel 7.69m ? fin assets **37.9m** (BSCA stake class) ? PPE **374.4m**.
+  - Dettes **124.8m** (LT 89.9m) ? cash 49.8m ? treasury notes programme ceiling **85m** Region-guaranteed.
   - Dual map: **SOWAER WAL airports** + **BSCA 127m** + **BAC 828m / SFPIM 25%**.
 - **gap_sowaer_accounts** major public fill ? status **answered** (residual L5 stake book values optional).
 - Port of Antwerp-Bruges authority P&L still residual.
@@ -1962,15 +1962,15 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-07-28T13:25:00Z - progress@190
 - Refreshed **progress_every_10_ticks.md**: L2 ~62-70% (SFPIM+airports+Credendo+skeyes+SOWAER since 180); FOI ready ~60.
-- Refreshed **doge_waste_top10_current.md**: top10 unchanged (cheque 8.83 … gas product 7.98); n_lb=296; Credendo cover just outside top10.
+- Refreshed **doge_waste_top10_current.md**: top10 unchanged (cheque 8.83 â€¦ gas product 7.98); n_lb=296; Credendo cover just outside top10.
 
 ### 2026-07-28T13:45:00Z - tick 191
 - Unit: **rq_186** (FOI-adjacent hole-fill - **SOFICO Walloon structural infra RA2024**)
 - Found (strong primary Rapport annuel 2024; NBB-deposited accounts):
-  - **Produits d'exploitation EUR 495.1m 2024** (465.7m 2023 / 417.9m 2022) · charges 397.6m.
-  - **Bénéfice net 100.7m** (97.8m / 47.4m) · **investissements record 265m**.
-  - **PKPL truck toll 347m** (+11.2%; 1.92bn paid-km stable) — main funding of structural network.
-  - Infra assets under management **2.581bn** · equity **2.174bn** · net cash 197m · **net debt 336.8m** (EIB 351.8 + MTN 182).
+  - **Produits d'exploitation EUR 495.1m 2024** (465.7m 2023 / 417.9m 2022) ? charges 397.6m.
+  - **B?n?fice net 100.7m** (97.8m / 47.4m) ? **investissements record 265m**.
+  - **PKPL truck toll 347m** (+11.2%; 1.92bn paid-km stable) â€“ main funding of structural network.
+  - Infra assets under management **2.581bn** ? equity **2.174bn** ? net cash 197m ? **net debt 336.8m** (EIB 351.8 + MTN 182).
   - Network ~2_700 km autoroutes+nationales; cum invest since 2010 ~**3.7bn** class (370.8m 2024).
   - Dual map: **SOFICO WAL roads** vs Flanders AWV; locks Meuse; fibre; renewable concessions.
 - Port of Antwerp-Bruges authority P&L still residual.
@@ -1981,13 +1981,13 @@ Append-only. Each tick adds a short entry.
 ### 2026-07-28T14:05:00Z - tick 192
 - Unit: **rq_187** (FOI-adjacent hole-fill - **PMV Flanders investment holding 2024**)
 - Found (strong primary JV2024 + official press):
-  - **Gefinancierd & beheerd vermogen EUR 1.941bn** · **geïnvesteerd 1.332bn**.
-  - **Nettoresultaat 32.5m** (10th consecutive profit; group share 32.7m) · dividend reserved **3.8m**.
+  - **Gefinancierd & beheerd vermogen EUR 1.941bn** ? **ge?nvesteerd 1.332bn**.
+  - **Nettoresultaat 32.5m** (10th consecutive profit; group share 32.7m) ? dividend reserved **3.8m**.
   - **Nieuwe investeringen 393.2m** 2024 (+46% press; kerncijfers subset 286m loans/capital/funds).
-  - Geplaatst kapitaal **1.776bn** · equity consol **2.480bn** (incl Aquafin perimeter) · fin assets PMV-level **1.280bn**.
+  - Geplaatst kapitaal **1.776bn** ? equity consol **2.480bn** (incl Aquafin perimeter) ? fin assets PMV-level **1.280bn**.
   - **Gigarant** outstanding guarantees **695m** (7 new / 91m granted 2024).
   - Dual map: **PMV Flanders** + **SFPIM federal** (11.7bn) + **Wallonie Entreprendre**; BAC stake path; Aquafin 100%.
-- Port of Antwerp-Bruges / Liège Airport authority full P&L still residual.
+- Port of Antwerp-Bruges / Li?ge Airport authority full P&L still residual.
 - Wrote: sources 2; entity 1; budgets 15; cmt 1; lb 2; FOI **gap_pmv_l5_stakes** ready; rq_187=done; seeded **rq_188**.
 - FOI: L5 stakes + Gigarant claims human send only.
 - Next: prio5 **rq_188**; deferred **rq_116** SWA.
@@ -2011,7 +2011,7 @@ Append-only. Each tick adds a short entry.
   - **Net 14.31m 2024 / 17.49m 2025**; equity **75.2 ? 85.6m**; FTE 223 ? 241.
   - Shareholders: **NEB 50.36% / ADP 25.54% / SOWAER 24.10%** (PW strong).
   - Dividends to SOWAER: **1.269 / 1.231 / 1.421m** 2021-23 (no full multi-shareholder path).
-  - **WAL subsidies** annex (kEUR sums): **29.0 / 31.4 / 30.9m** 2021-23 (mission + incendie + sûreté).
+  - **WAL subsidies** annex (kEUR sums): **29.0 / 31.4 / 30.9m** 2021-23 (mission + incendie + s?ret?).
   - Dual: Liege cargo **~65m** vs BSCA **127m** vs BAC **828m**; SOWAER infra owner to 2041.
 - Wrote: sources 3; entity 1; budgets 12; cmt 1; lb 2; FOI **gap_liege_airport_subsidy_l5** ready; rq_189=done; seeded **rq_190**.
 - FOI: 2024-25 subsidy cash + contracts + full dividends human send only; Antwerp/Mons still residual.
@@ -2079,7 +2079,7 @@ Append-only. Each tick adds a short entry.
   - **C L2:** **~68?76%** (up from ~62?70% @190) ? PMV, ports POAB/NSP, Liege Airport, WE 5bn, DVW+AWV GIP, Lantis+DWV, Infrabel+NMBS
   - **D L5:** **~7?14%** still thin structural
   - **E FOI ready:** **~68** (total FOI rows ~72)
-- Inventory: budgets ~2151 · commitments ~349 · leaderboard ~315 · entities ~135 · sources ~414
+- Inventory: budgets ~2151 ? commitments ~349 ? leaderboard ~315 ? entities ~135 ? sources ~414
 - Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? gas product ~7.98 class); new SOE L2 not pure-waste top
 - Wrote: `progress_every_10_ticks.md`, `doge_waste_top10_current.md`, loop_state, loop_log
 - Next: prio5 **rq_195** (Antwerp/Mons/MDK/Enabel hole-fill); deferred **rq_116** SWA
@@ -2146,7 +2146,7 @@ Append-only. Each tick adds a short entry.
   - **Kunsthal Extra City 2026 EUR 150k**; max **921.8k** 2026-2031.
   - Culture L5 sample sum **6 houses = 7.16m** (Toneelhuis 3.30 + OBV 1.79 + ASO 0.61 + DeSingel 0.10 + Zomer 1.21 + ExtraCity 0.15) of ~35m envelope class.
 - Wrote: sources 2; budgets 4; cmt 3; lb 3; foi notes; rq_200=done; seeded **rq_201**.
-- FOI: residual partners (hetpaleis AMUZ JEF De Roma Morpho Tutti Fameus …) + full register human send; Mons BI2026 residual; police zone toelage ebesluit candidate.
+- FOI: residual partners (hetpaleis AMUZ JEF De Roma Morpho Tutti Fameus â€¦) + full register human send; Mons BI2026 residual; police zone toelage ebesluit candidate.
 - Next: prio5 **rq_201**; deferred **rq_116** SWA.
 
 ### 2026-07-28T19:05:00Z - tick 207
@@ -2181,14 +2181,14 @@ Append-only. Each tick adds a short entry.
 - FOI: residual CAW lines + Zorgbedrijf full package + Mons BI2026 + culture partners human send.
 - Next: **tick 210 progress coverage % + waste top10** then prio5 **rq_204**; deferred **rq_116** SWA.
 
-### 2026-07-28T20:05:00Z - tick 210 — progress coverage % + waste top10
+### 2026-07-28T20:05:00Z - tick 210 â€“ progress coverage % + waste top10
 - Unit: **progress@210** (mandatory every-10-ticks refresh; no new research unit)
-- Coverage (order-of-magnitude vs €347.956 bn TE):
+- Coverage (order-of-magnitude vs ?347.956 bn TE):
   - **A L0 / B L1:** 100% / 100% (unchanged strong)
-  - **C L2:** **~70–78%** (up from ~68–76% @200) — Fedasil 929m, MDK GIP, PZA 321m, Enabel
-  - **D L5:** **~8–15%** still thin structural — Antwerp culture sample 7.4m, CAW 2.3m, FreeClinic 0.97m
+  - **C L2:** **~70â€“78%** (up from ~68â€“76% @200) â€“ Fedasil 929m, MDK GIP, PZA 321m, Enabel
+  - **D L5:** **~8â€“15%** still thin structural â€“ Antwerp culture sample 7.4m, CAW 2.3m, FreeClinic 0.97m
   - **E FOI ready:** **~71** (total FOI rows ~75)
-- Inventory: budgets ~2227 · commitments ~369 · leaderboard ~337 · entities ~138 · sources ~433
+- Inventory: budgets ~2227 ? commitments ~369 ? leaderboard ~337 ? entities ~138 ? sources ~433
 - Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? gas product ~7.98 class); new city L5 not pure-waste top
 - Wrote: `progress_every_10_ticks.md`, `doge_waste_top10_current.md`, loop_state, loop_log
 - Next: prio5 **rq_204** (Zorgbedrijf/Mons/Digipolis hole-fill); deferred **rq_116** SWA
@@ -2208,8 +2208,8 @@ Append-only. Each tick adds a short entry.
 - Unit: **rq_205** (FOI-adjacent hole-fill - **Zorgbedrijf Antwerpen** city toelage 2025)
 - Found (strong ebesluit main Dec2024 + AMJP9 delta Dec2025):
   - **Package class EUR 65.0m 2025**: main **64.373m** (werk **29.029** + respons **22.350** + invest **12.994**) + delta **0.627m**.
-  - Algemene werking **29.024m** after index withhold then **+419k** index release; invest **13.0–13.2m**.
-  - Vs **2024 package 66.2m** (prior tick140) — slight decline on general werk, higher respons.
+  - Algemene werking **29.024m** after index withhold then **+419k** index release; invest **13.0â€“13.2m**.
+  - Vs **2024 package 66.2m** (prior tick140) â€“ slight decline on general werk, higher respons.
   - Dual stack with **PZA 321m** + **BZA 81.5m** ? care+safety city transfers class **~467m** (mixed years).
 - Wrote: sources 2; entity 1; budgets 8; cmt 2; lb 2; rq_205=done; seeded **rq_206**.
 - FOI: 2026 ZBA package + social-PC side lines + Mons BI2026 residual human send.
@@ -2233,7 +2233,7 @@ Append-only. Each tick adds a short entry.
   - **Package locked EUR 89.288m**: werk **48.811m** + respons **25.977m** + invest **14.500m**.
   - MJP werk envelope **49.412m** before index withhold **0.601m** (package class if released **89.889m**).
   - Werk split: Sociale vrede pers **17.239m** + Art60 **5.289m** + service flats **11.058m** + dienstencentra **8.996m** + extramuraal **4.662m** + jeugdzorg **1.567m**.
-  - Vs **2025 package 65.0m** — jump **+24.3m** (+37%); structure shift (personnel surplus + discounts explicit).
+  - Vs **2025 package 65.0m** â€“ jump **+24.3m** (+37%); structure shift (personnel surplus + discounts explicit).
   - Dual stack with **PZA 320.7m** + **BZA 81.5m** ? care+safety class **~491.5m** (mixed years).
   - Side Finance-PC and other business-unit toelagen via separate decisions (residual FOI).
 - Wrote: sources 1; budgets 13; cmt 2; lb 2; entity note; foi note; rq_207=done; seeded **rq_208**.
@@ -2245,7 +2245,7 @@ Append-only. Each tick adds a short entry.
 - Found (strong ebesluit 2026_CBS_01117 college 13 Feb 2026):
   - **Package locked EUR 87.459m**: werk **80.885m** + respons **3.400m** + invest **3.174m**.
   - MJP werk envelope **82.799m** before index withhold **1.914m** (package class if released **89.372m**).
-  - Vs **2025 locked 81.535m** — jump **+5.9m**; invest 3.17 vs 1.75; communes Antwerpen+Wijnegem 2026-31.
+  - Vs **2025 locked 81.535m** â€“ jump **+5.9m**; invest 3.17 vs 1.75; communes Antwerpen+Wijnegem 2026-31.
   - **Same-year safety stack 2026**: PZA **320.677m** + BZA **87.459m** = **408.135m**.
   - **Same-year care+safety**: ZBA **89.288** + PZA **320.677** + BZA **87.459** = **497.424m**.
   - Side Finance-PC toelagen via separate decisions residual FOI.
@@ -2299,15 +2299,15 @@ Append-only. Each tick adds a short entry.
 - FOI: residual culture partners + Digipolis personnel + Mons BI2026 human send.
 - Next: prio5 **rq_213**; **tick 220 progress coverage % + waste top10**; deferred **rq_116** SWA.
 
-### 2026-07-28T23:20:00Z - tick 220 — progress coverage % + waste top10
+### 2026-07-28T23:20:00Z - tick 220 â€“ progress coverage % + waste top10
 - Unit: **progress@220** (mandatory every-10-ticks refresh; no new research unit)
-- Coverage (order-of-magnitude vs €347.956 bn TE):
+- Coverage (order-of-magnitude vs ?347.956 bn TE):
   - **A L0 / B L1:** 100% / 100% (unchanged strong)
-  - **C L2:** **~72–80%** (up from ~70–78% @210) — Antwerp mega AGB/zone stack **~631m** same-year 2026 (PZA+ZBA+AGSO+BZA+Integratie+…)
-  - **D L5:** **~8–16%** still thin structural — culture sample **7.92m** (8 houses), CAW 2.3m, FreeClinic 0.97m, FAMEUS/STW/Rataplan
+  - **C L2:** **~72â€“80%** (up from ~70â€“78% @210) â€“ Antwerp mega AGB/zone stack **~631m** same-year 2026 (PZA+ZBA+AGSO+BZA+Integratie+â€¦)
+  - **D L5:** **~8â€“16%** still thin structural â€“ culture sample **7.92m** (8 houses), CAW 2.3m, FreeClinic 0.97m, FAMEUS/STW/Rataplan
   - **E FOI ready:** **~71** (total FOI rows ~75)
-- Inventory: budgets ~2324 · commitments ~394 · leaderboard ~363 · entities ~148 · sources ~456
-- Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 · company cars FPB ~8.5); new city AGB L2 not pure-waste top
+- Inventory: budgets ~2324 ? commitments ~394 ? leaderboard ~363 ? entities ~148 ? sources ~456
+- Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83 ? company cars FPB ~8.5); new city AGB L2 not pure-waste top
 - Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log
 - Next: prio5 **rq_213** (Digipolis/Mons/remaining L5); deferred **rq_116** SWA
 
@@ -2346,3 +2346,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 3; budgets 6; cmt 4; lb 3; foi note; rq_215=done; seeded **rq_216**.
 - FOI: residual culture partners + Digipolis + Mons human send.
 - Next: prio5 **rq_216**; deferred **rq_116** SWA.
+
+### 2026-07-29T00:35:00Z - tick 224
+- Unit: **rq_216** (FOI-adjacent hole-fill - residual culture **DeRoma + Trix + DeStudio + Antwerp Art**)
+- Found (strong primary):
+  - **De Roma** MJP 2026 **EUR 936k** culture; 6y path **5.752m**; college vastlegging Jun2026 **Verdaagd** (MJP still budgeted).
+  - **Trix (Trx vzw)** 2026 **EUR 705k** (culture 355 + youth 350); 6y class **~4.367m**.
+  - **De Studio** ebesluit college 19 Dec 2025 **EUR 153k** 2026; max **940.188k** 2026-31 (OO cash-by-year = MJP).
+  - **Antwerp Art** MJP 2026 **EUR 97.5k**; 6y **599.1k**.
+  - Culture L5 sample **16/16 houses complete EUR 14.584m** of ~35m envelope (**~41.7%** class).
+- Wrote: sources 2; budgets 7; cmt 5; lb 5; foi note; rq_216=done; seeded **rq_217**.
+- FOI: Digipolis 2026 personnel + Mons BI2026 + dual VL residual + Gent-style register human send.
+- Next: prio5 **rq_217**; deferred **rq_116** SWA.
