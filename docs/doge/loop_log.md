@@ -2421,3 +2421,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources 1; budgets 9; cmt 6; lb 3; foi note; rq_221=done; seeded **rq_222**.
 - FOI: register + Mons BI2026 + dual VL human send.
 - Next: **tick 230 mandatory progress coverage % + waste top10**; then prio5 **rq_222**; deferred **rq_116** SWA.
+
+### 2026-07-29T02:30:00Z - tick 230 - progress coverage % + waste top10
+- Unit: **progress@230** (mandatory every-10-ticks refresh; no new research unit)
+- Coverage (order-of-magnitude vs EUR 347.956 bn TE):
+  - **A L0 / B L1:** 100% / 100% (unchanged strong)
+  - **C L2:** **~74-82%** (up from ~72-80% @220) - Digipolis AGB **245.6m** + member matrix **245.07m** + prior AGB stack ~631m class
+  - **D L5:** **~9-17%** still thin structural - culture **16/16 complete 14.58m**; social+youth **~15 orgs ~31.8m** (CAW full 16.92m + Kras/JES/...)
+  - **E FOI ready:** **~71** (total FOI rows ~75)
+- Inventory: budgets ~2400; commitments ~429; leaderboard ~394; entities ~309; sources ~489
+- Waste top10: taxex/FFS/cheque still dominate (cheque ~8.83; company cars FPB ~8.5); Antwerp city L5 is core-service depth not pure-waste top
+- Wrote: progress_every_10_ticks.md, doge_waste_top10_current.md, loop_state, loop_log
+- Next: prio5 **rq_222** (Mons/utilities); deferred **rq_116** SWA
