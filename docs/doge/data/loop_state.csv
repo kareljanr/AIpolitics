@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T08:15:00Z,rq_426,435,no,Scheduler 60s. Next prio5 rq_427; rq_116 SWA deferred. tick435 RTW L5 203-1929m + chom waves 194k.
+main,continuous,hole_fill,2026-08-02T08:45:00Z,rq_427,436,no,Scheduler 60s. Next prio5 rq_428; rq_116 SWA deferred. tick436 Fedasil 247-688 + coop 1.04bn + ONSS residual.

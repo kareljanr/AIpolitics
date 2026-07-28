@@ -5073,3 +5073,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +127; cmt +2; lb +10; rq_426=done; spawn **rq_427**; ticks=435
 - FOI: none new (package primary; residual is legislative design + method audit not opacity)
 - Next: prio5 **rq_427**; deferred **rq_116** SWA
+
+### 2026-08-02T08:45:00Z - tick 436
+- Unit: **rq_427** (FOI-adjacent hole-fill - **Fedasil multi-year L5 + development coop + ONSS SSC residual**)
+- Found (strong/medium primary Cour des comptes Budget Etat 2026 p61-63 + p75-79):
+  - **Fedasil save path:** **0 / 247 / 403 / 577 / 688m** (2025-2029)
+    - Accueil network **0/172/303/452/538** · Retours **0/75/100/125/150**
+    - Package dual **955.6→802.2m** (dot 828.9→702.2 + prov 126.6→100); apps **39.6k→34.4k** (−13.1%)
+    - CoA: no quantified delivery plan yet (ministerial cell Q1-2026)
+  - **Development coop DO14.54:** liq **1.129 / 1.040 / 0.957bn** vs monitor **1.235 / 1.253 / 1.274** (gap **106/212/317m**; ~25pct by 2027)
+    - FAD-17 voluntary **64.2m** pay over **10y** (forgo ~6m 3y discount); SEC **+27m** 2027
+  - **ONSS residual measures:** group-cible RTT+Horeca cut gov **28m** (full-yr **32**; CoA 9m **24**); sports cap fix **10m**; gestion IT+insp **30.3m**
+    - Plans-plus reest **64.2/85.1/78.2** vs budgeted **53/67/52** (expose understates)
+    - Struct low-wage path **584m** 2026; CSSS cut **415m** from 2028; bonus emploi boost dual **357.5m** 2028
+  - **Altfin multi-year L5:** total **25.0 / 26.2 / 27.2bn** 2024-26; ONSS/INASTI TVA+PM matrix; fonds total **27.325bn**
+  - Prison food underfund **10.18m** on **25.2m** credits
+- Wrote: sources +1; budgets +76; cmt +3; lb +10; rq_427=done; spawn **rq_428**; ticks=436
+- FOI: none new (Fedasil partner L5 already ready gap_fedasil_l5_partners; delivery plan residual is policy design)
+- Next: prio5 **rq_428**; deferred **rq_116** SWA
