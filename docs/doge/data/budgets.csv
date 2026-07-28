@@ -8816,3 +8816,34 @@ bud_riziv_save_miss_183m_2026,sec_ss,2026,183100000,,,budgeted,src_ccrek_fed_aju
 bud_invalidity_followup_save_slip_110m,sec_ss,2026,-110200000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Strengthened invalidity follow-up save slip -110.2m vs IB (16.7 vs 126.9); exclusions 4197; tick508
 bud_pens_reform_path_2030_2212m,sec_ss,2030,2212000000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Pension reform package save path to 2030 2212m (was 2229 IB); tick508
 bud_dual_ss_podmi_2026,gg_belgium,2026,148026600000,,,derived,src_dual_ss_podmi_aju_tick508,strong,Dual SS exp 148bn + POD MI 2.3bn OCMW stack; tick508
+bud_rva_unemp_volume_effect_287m,sec_ss,2026,287000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemp volume effect +287m BC vs IB (full unemp +17473 temporary -3851); tick509
+bud_rva_unemp_other_adj_neg97m,sec_ss,2026,-96700000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemp other adjustments -96.7m (avg daily rate arrears days category shifts); tick509
+bud_rva_unemp_index_8m,sec_ss,2026,8200000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemp spilindex impact +8.2m (Dec2025; June2026 unpriced by RVA); tick509
+bud_rva_reform_save_path_2026,sec_ss,2026,1685200000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemployment duration limit + degressivity save path 1685.2m 2026 (progwet 18 Jul 2025); tick509
+bud_rva_reform_save_path_2027,sec_ss,2027,2286700000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemp reform save path 2286.7m 2027; tick509
+bud_rva_reform_save_path_2028,sec_ss,2028,2440600000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemp reform save path 2440.6m 2028; tick509
+bud_rva_reform_save_path_2029,sec_ss,2029,2447800000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Unemp reform save path 2447.8m 2029; tick509
+bud_rva_measures_total_path_2026,sec_ss,2026,1578500000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,RVA multi-year measures net total path 1578.5m 2026 (incl reform + side measures); tick509
+bud_rva_measures_total_path_2029,sec_ss,2029,2421200000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,RVA multi-year measures net total path 2421.2m 2029; tick509
+bud_rva_vol_quit_temp_unemp_cost_34m,sec_ss,2026,-33600000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Voluntary resignation with temp unemp benefit cost -33.6m/yr path; tick509
+bud_rva_swt_close_2026_cost,sec_ss,2026,-5200000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,medium,SWT no-new-entries: RVA books -5.2m 2026 rush cost; CoA stats do not show rush; 2029 save 64.8m; tick509
+bud_rva_swt_save_path_2029,sec_ss,2029,64800000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,SWT close save path 64.8m 2029 (was 77m IB2025; re-est Jun2025); tick509
+bud_rva_swt_benefits_2025,sec_ss,2025,166800000,,,outturn,src_ccrek_fed_aju_unemp_rva_2026,strong,SWT unemp benefits 166.8m 2025; 8502 beneficiaries; tick509
+bud_rva_tijdskrediet_el_save_2026,sec_ss,2026,1600000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,End-career time credit stricter career req save 1.6m 2026 (was 9.2 IB2025); path to 12.3m 2029; tick509
+bud_rva_familiekrediet_envelop_40m,sec_federal,2026,40000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,medium,Extra family credit backpack Entity I envelop 40m 2026 (full-year 50m); law not set; CoA overstated risk; tick509
+bud_rva_litigation_extra_3m,sec_ss,2026,3000000,,,derived,src_ccrek_fed_aju_unemp_rva_2026,medium,CoA est extra legal costs ~3m from unemp reform litigation (3696 dossiers Apr30; RVA expects ~5000); not in BC; tick509
+bud_rva_it_modern_extra_8m,sec_ss,2026,8000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,RVA IT modernisation extra 8m MR 3 Apr 2026; tick509
+bud_rva_hvw_it_8m,sec_ss,2026,8000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,HVW IT spend path 8m 2026 (10m 2028-29); tick509
+bud_rva_excl_waves_total_n,sec_ss,2026,193904,,,outturn,src_ccrek_fed_aju_unemp_rva_2026,strong,Exclusion waves total persons 193904 (BRU 41709 VL 62676 WAL 88566 DG 953) raming Sep2025; tick509
+bud_rva_excl_q1_actual_n,sec_ss,2026,45592,,,outturn,src_ccrek_fed_aju_unemp_rva_2026,strong,Q1 2026 actual exclusions waves1-2: 45592 (93.4pct of estimate 48815); tick509
+bud_podmi_leefloon_from_excl_q1_n,sec_federal,2026,17606,,,outturn,src_ccrek_fed_aju_unemp_rva_2026,strong,New leeflooners from unemp/inschakeling exclusion Q1: 17606 = 31.9pct of excluded; WAL 37.2 VL 23.5 BRU 27.5; tick509
+bud_invalidity_slip_cumul_2029,sec_ss,2029,-333600000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Invalidity measures cumulative miss to 2029 -333.6m (vs ziektepensioen +10.2m); tick509
+bud_solidarity_contrib_98m_2026,sec_ss,2026,98400000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Employer solidarity contrib months 2-3 invalidity 98.4m 2026 (-24 vs IB); tick509
+bud_responsabilisering_137m_2026,sec_ss,2026,137000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,medium,RTW responsabilisering path 137m 2026 (fonds 77 workers 10 doctors 50); doctors law incomplete; tick509
+bud_unemp_to_invalidity_inflow_44m,sec_ss,2026,44100000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,medium,RIZIV est 5000/yr unemp->invalidity inflow +44.1m 2026 (94.9/99.2/97.5 2027-29); RVA monitoring not yet large; tick509
+bud_mantelzorg_verlof_extra_08m,sec_ss,2026,400000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,medium,Mantelzorg leave extension half-year impact ~0.4m 2026 (full yr 0.8m RVA; not in BC); CoA min free-avail 1.2m; tick509
+bud_pens_igo_save_slip_13m,sec_ss,2026,13000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,medium,IGO control/residence save 13m BC (was 26); law not drafted; CoA no measure detail; tick509
+bud_pens_high_index_cap_53m,sec_ss,2026,53500000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Limited indexation higher pensions save 53.5m BC (was 39.9); may understate if June index; tick509
+bud_pens_ziekte_close_32m,sec_ss,2026,32000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Ziektepensioen civil servants close save 32m (was 26; moratorium); RIZIV +9m expense; tick509
+bud_fpd_mypension_it_5m,sec_ss,2026,5000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,FPD MyPension + legacy modernisation extra 5m; tick509
+bud_dual_unemp_leefloon_2026,gg_belgium,2026,1685200000,,,derived,src_dual_unemp_leefloon_tick509,strong,Dual reform save path 1.69bn vs leefloon shift 17.6k Q1; tick509

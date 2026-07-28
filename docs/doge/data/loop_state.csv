@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T23:30:00Z,rq_499,508,no,Tick508 CoA SS 148bn POD MI soft saves residual; next prio5 rq_500; progress@510 next; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T23:45:00Z,rq_500,509,no,Tick509 CoA RVA unemp reform 1.69bn dual leefloon 32pct; next prio5 rq_501; progress@510 next; rq_116 SWA deferred.

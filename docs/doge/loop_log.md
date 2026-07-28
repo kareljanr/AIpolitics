@@ -6077,3 +6077,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +28; cmt +4; lb +8; FOI **gap_podmi_ss_save_slip_l5** ready+draft; rq_499=done spawn **rq_500**; ticks=508
 - FOI opened: gap_podmi_ss_save_slip_l5 (ready, human send) â€” not sent
 - Next: prio5 **rq_500** (**progress@510 next tick**); deferred **rq_116** SWA
+
+### 2026-07-28T23:45:00Z - tick 509
+- Unit: **rq_500** (FOI-adjacent hole-fill — **CoA 2026_22 residual Werk/werkloosheid + invalidity multi-year dual leefloon**)
+- Found (strong primary same CoA fed aju, deeper L5 extract):
+  - **Unemp BC2026** **€4,836.4m** (+198.5 vs IB): volume **+287** · other **-96.7** · index **+8.2**; full unemp **+17,473** temporary **-3,851**; rate 9.6 vs 9.1
+  - **Reform path** duration+degressivity: **1,685.2 / 2,286.7 / 2,440.6 / 2,447.8** m 2026-29; measures net total **1,578.5?2,421.2**
+  - **Exclusion waves** total **193,904** (BRU 41,709 · VL 62,676 · WAL 88,566 · DG 953); Q1 actual **45,592** (93.4% of est)
+  - **Leefloon shift** Q1: **17,606** new = **31.9%** of excluded (WAL 37.2 · VL 23.5 · BRU 27.5)
+  - **Litigation** 3,696 dossiers 30 Apr (avg prior 3,185/yr); CoA est extra legal **~€3m**; not in BC; GH pending
+  - **SWT** close: stock **€166.8m**/8,502 bens 2025; 2026 rush **-5.2m** (CoA: not visible in stats); 2029 save **64.8m**
+  - **Family credit** backpack Entity I **€40m** 2026 (full-yr 50); law not set; **tijdskrediet EL** save 1.6m (was 9.2)
+  - **Invalidity multi-year**: follow-up slip **-110.2** 2026; cumul miss **-333.6** to 2029; solidarity **98.4m**; responsabilisering **137m** (doctors 50 law incomplete); unemp?ZIV est **+44.1m**
+  - **Dual:** reform save path 1.69bn vs leefloon OCMW displacement 32%
+- Wrote: sources +2; budgets +31; cmt +4; lb +8; FOI **gap_rva_unemp_leefloon_l5** ready+draft; rq_500=done spawn **rq_501**; ticks=509
+- FOI opened: gap_rva_unemp_leefloon_l5 (ready, human send) — not sent
+- Next: prio5 **rq_501** (**progress@510 next tick**); deferred **rq_116** SWA
