@@ -6562,3 +6562,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_consol_orgs_l5_spend (ready, human send) - not sent
 - Next: prio5 **rq_534** (Part IV SS systems residual); deferred **rq_116** SWA
 
+
+### 2026-07-29T09:45:00Z - tick 543
+- Unit: **rq_534** (FOI-adjacent hole-fill - **Kamer exposé Part IV social protection Tables I.1-I.3 dual Graph1**)
+- Found (strong primary DOC 56 1278/001 Part IV Ch1; thousand-EUR tables):
+  - **Social protection 2026:** rec **€194.673bn** · exp **€194.514bn** · result **+€97m** (vs 2025 result **-€1.496bn**)
+  - **SS own receipts €148.017bn** = Graph1 SS **148.0**; **SSC €85.525bn** = Graph1 **85.5**
+  - **Benefits €142.053bn** (SS **135.492** + assistance **6.561**): employees **63.342** · health **41.297** · public pensions **22.828** · self-emp **7.012**
+  - **Admin €2.996bn** (central **1.242** + third-party **1.754**)
+  - **Federal transfers I.3:** SS **€54.617bn** (dual Graph1 **54.3**) + assistance **€6.563bn** = **€61.181bn**
+  - **Alt financing €27.222bn:** emp VAT **16.989** (base 9.344 + health 7.645) + RV **6.403**; self-emp **3.829**
+  - **Assistance L5:** handicap **3.286** · leefloon **2.085** · IGO **1.037** (excl Ukraine provision)
+- Wrote: sources +2; budgets +35; cmt +4; lb +8; FOI **gap_ss_branch_l5_detail** ready+draft; rq_534=done spawn **rq_535**; ticks=543
+- FOI opened: gap_ss_branch_l5_detail (ready, human send) - not sent
+- Next: prio5 **rq_535**; deferred **rq_116** SWA
+

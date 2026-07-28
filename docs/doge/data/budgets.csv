@@ -9402,3 +9402,38 @@ bud_sciensano_extra_2026,sec_federal,2026,3000000,,,budgeted,src_kamer_expose_eu
 bud_healthdata_transfer_riziv_2026,sec_federal,2026,6000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Healthdata.be transfer to HDA 6m from RIZIV 2026; tick542
 bud_dual_eu_graph1_vs_table6,sec_federal,2026,44700000,,,derived,src_dual_eu_consol_tick542,strong,Dual Graph1 EU 9.1bn vs Table6 9.1447bn residual ~45m class; tick542
 bud_dual_consol_esa_vs_entity1,sec_federal,2026,1391800000,,,derived,src_dual_eu_consol_tick542,strong,Dual consol ESA +1.392bn improves Entity I vs pure federal cash budget; tick542
+bud_socprot_total_rec_2026,sec_ss,2026,194672691000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 total social protection current receipts 194672.691m EUR 2026 IB; tick543
+bud_socprot_total_exp_2026,sec_ss,2026,194513960000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 total social protection current exp 194513.960m 2026; tick543
+bud_socprot_budget_result_2026,sec_ss,2026,97099000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 budgetary result +97.099m 2026 (near balance); tick543
+bud_socprot_benefits_2026,sec_ss,2026,142053349000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 benefits/prestaties 142053.349m 2026 (SS 135492 + assistance 6561); tick543
+bud_ss_benefits_2026,sec_ss,2026,135492286000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 SS benefits excl assistance 135492.286m 2026; dual E1 Table3; tick543
+bud_ss_own_receipts_2026,sec_ss,2026,148017196000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 SS own receipts 148017.196m 2026; dual Graph1 SS 148.0; tick543
+bud_ss_ssc_contrib_2026,sec_ss,2026,85525348000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 social contributions 85525.348m 2026; dual Graph1 SSC 85.5; tick543
+bud_ss_admin_costs_2026,sec_ss,2026,2995577000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 admin costs total protection 2995.577m 2026 (central 1242 + third-party 1754); tick543
+bud_ss_interregime_transfers_2026,sec_ss,2026,40092247000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2 inter-regime transfers 40092.247m 2026 (eliminated in consol total); tick543
+bud_ss_employees_benefits_2026,sec_ss,2026,63341987000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Employees global management benefits 63341.987m 2026; tick543
+bud_ss_selfemp_benefits_2026,sec_ss,2026,7012055000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Self-employed global benefits 7012.055m 2026; tick543
+bud_ss_healthcare_benefits_2026,sec_ss,2026,41297169000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Healthcare branch benefits 41297.169m 2026 (RIZIV care); tick543
+bud_ss_public_pension_benefits_2026,sec_ss,2026,22827520000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Civil service pension benefits 22827.520m 2026; tick543
+bud_ss_other_regimes_benefits_2026,sec_ss,2026,1013554000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Other SS regimes benefits 1013.554m 2026; tick543
+bud_socassist_benefits_2026,sec_ss,2026,6561063000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Social assistance benefits 6561.063m 2026; tick543
+bud_socprot_total_rec_2025,sec_ss,2025,190162274000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.1 total social protection receipts 190162.274m 2025 adj; tick543
+bud_socprot_total_exp_2025,sec_ss,2025,191588586000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.1 total exp 191588.586m 2025; budget result -1495.844m; tick543
+bud_socprot_benefits_2025,sec_ss,2025,138922920000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.1 benefits 138922.920m 2025; tick543
+bud_ss_ssc_contrib_2025,sec_ss,2025,83159628000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.1 contributions 83159.628m 2025; tick543
+bud_ss_healthcare_benefits_2025,sec_ss,2025,39812150000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Healthcare benefits 39812.150m 2025; tick543
+bud_fed_transfers_ss_2026,sec_ss,2026,54617401000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.3.1 federal transfers to SS 54617.401m 2026; dual Graph1 54.3; tick543
+bud_fed_transfers_ss_2025,sec_ss,2025,54187689000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.3.1 federal to SS 54187.689m 2025; tick543
+bud_fed_transfers_socassist_2026,sec_ss,2026,6563248000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.3.2 social assistance transfers 6563.248m 2026; tick543
+bud_fed_transfers_households_total_2026,sec_federal,2026,61180649000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.3 grand total fed transfers SS+assistance 61180.649m 2026; tick543
+bud_fed_ss_alt_financing_2026,sec_ss,2026,27221583000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,Table I.2/I.3 alt financing 27221.583m 2026 (employees 23392 + selfemp 3829); tick543
+bud_fed_ss_alt_vat_employees_2026,sec_ss,2026,16989010000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.1 employees alt VAT 16989.010m 2026 (base 9344 + healthcare 7645); tick543
+bud_fed_ss_alt_rv_employees_2026,sec_ss,2026,6403174000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.1 employees alt withholding tax on movable 6403.174m 2026; tick543
+bud_fed_ss_balance_dot_2026,sec_ss,2026,6251448000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.1 evenwichtsdotatie total 6251.448m 2026 (emp 5653 + self 598); tick543
+bud_fed_ss_public_pension_dot_2026,sec_ss,2026,16392033000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.1 civil service pension state grant 16392.033m 2026; tick543
+bud_igo_2026,sec_ss,2026,1036827000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.2 IGO/GRAPA 1036.827m 2026 (incl FPD opex); tick543
+bud_handicap_allowance_2026,sec_ss,2026,3285541000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.2 handicap allowances 3285.541m 2026; tick543
+bud_leefloon_ris_2026,sec_ss,2026,2085102000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.2 leefloon/RIS 2085.102m 2026 (excl Ukraine provision); dual local Table5; tick543
+bud_zorgpersoneelfonds_2026,sec_ss,2026,347498000,,,budgeted,src_kamer_expose_ss_protection_2026,strong,I.3.1 Zorgpersoneelfonds/Blouses blanches 347.498m 2026; tick543
+bud_dual_ss_own_vs_graph1_2026,sec_ss,2026,148017196000,,,derived,src_dual_ss_protection_graph1_tick543,strong,Dual SS own receipts 148.017bn vs Graph1 148.0bn; tick543
+bud_dual_fed_ss_transfers_i3_vs_graph1,sec_ss,2026,54617401000,,,derived,src_dual_ss_protection_graph1_tick543,strong,Dual I.3.1 54.617bn vs Graph1 federal to SS 54.3bn residual ~0.3bn; tick543
