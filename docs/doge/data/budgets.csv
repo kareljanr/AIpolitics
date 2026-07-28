@@ -8587,3 +8587,22 @@ bud_wal_uap_tresorerie_2026,wallonie_gov,2026,460700000,,,budgeted,src_ccrek_wal
 bud_wal_dep_net_sousutil_2026,wallonie_gov,2026,20303000000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Dep after sous-util 20303m vs rec after UAP 17567.7m gap 2735.3m; tick494
 bud_fed_federated_eu_mff_contrib_2028,gg_belgium,2028,500000000,,,planned,src_ccrek_wal_budget_aju_2026,strong,Federal path: federated entities annual 500m from 2028 for EU MFF; WAL impact residual; tick494
 bud_dual_e2_wal_fwb_sec_2026,gg_belgium,2026,2015400000,,,derived,src_dual_e2_wal_aju_tick494,strong,Dual WAL SEC 2.015bn deficit class vs FWB 1.753 aju; tick494
+bud_dg_hv_ae_aju_2026,dg_gov,2026,750842000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Hauptverwaltung AE aju 750.842m (UHH 703.799 +47.0); tick495
+bud_dg_hv_ve_aju_2026,dg_gov,2026,727996000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Hauptverwaltung VE aju 728.0m class (727.996); tick495
+bud_dg_hv_rec_aju_2026,dg_gov,2026,672624000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,HV Einnahmen aju 672.624m (+17.3 vs UHH 655.3); tick495
+bud_dg_esvg_consol_aju_2026,dg_gov,2026,-123818000,,,budgeted_sec,src_ccrek_dg_haushalt_aju_2026,strong,ESVG consol aju -123.818m (UHH -121.2; Delta -2.6); tick495
+bud_dg_esvg_ex_gz_aju_2026,dg_gov,2026,-110519000,,,budgeted_sec,src_ccrek_dg_haushalt_aju_2026,strong,ESVG without Gemeinschaftszentren -110.5m (ICN perimeter excludes GZ); tick495
+bud_dg_fed_dot_aju_2026,dg_gov,2026,347200000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Foderaldotation aju estimate 347.2m (-4.0 vs prior; BFP params would be 349.7); tick495
+bud_dg_rrf_rec_delta_2026,dg_gov,2026,16600000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,RRF receipts delta +16.6m aju; tick495
+bud_dg_rrf_exp_delta_2026,dg_gov,2026,21000000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,RRF spend VE+AE +21.0m aju; tick495
+bud_dg_infra_ve_delta_2026,dg_gov,2026,19400000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Infrastrukturplan VE +19.4m aju (65 projects 21.3m added); tick495
+bud_dg_infra_ae_delta_2026,dg_gov,2026,4200000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Infrastrukturplan AE +4.2m aju; tick495
+bud_dg_gemeinden_dot_delta_2026,dg_gov,2026,3300000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Dotation Gemeinden +3.3m (key 90/10 restore); tick495
+bud_dg_personnel_delta_2026,dg_gov,2026,1800000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Personalkosten +1.8m aju; tick495
+bud_dg_debt_consol_2024,dg_gov,2024,1252232000,,,stock,src_ccrek_dg_haushalt_aju_2026,strong,Konsolidierter Schuldenstand eoy2024 1252.2m; tick495
+bud_dg_debt_consol_2025,dg_gov,2025,1343959000,,,stock,src_ccrek_dg_haushalt_aju_2026,strong,Debt consol eoy2025 est 1344.0m provisional; tick495
+bud_dg_debt_consol_path_2026,dg_gov,2026,1467776000,,,stock_path,src_ccrek_dg_haushalt_aju_2026,strong,Debt consol path eoy2026 1467.8m (+132pct vs 2021 class); tick495
+bud_dg_interest_aju_2026,dg_gov,2026,41244000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Zinsen aju 41.244m; implicit rate 2.81pct; tick495
+bud_dg_financing_need_2026,dg_gov,2026,199689000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Finanzierungsbedarf 199.7m; raised 100m May residual 99.7m; tick495
+bud_dg_npa_growth_2026,dg_gov,2026,,,,forecast_pct,src_ccrek_dg_haushalt_aju_2026,strong,NPA growth 2026 +8.98pct vs self-cap 5pct; amount blank=pct only; tick495
+bud_dual_e2_dg_sec_2026,gg_belgium,2026,110519000,,,derived,src_dual_e2_dg_aju_tick495,strong,Dual DG ESVG -110.5m class vs FWB/WAL multi-bn; tick495

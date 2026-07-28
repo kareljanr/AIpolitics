@@ -5881,3 +5881,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_wal_fiches_budget_2026 (ready, human send) — not sent
 - Next: prio5 **rq_486**; deferred **rq_116** SWA
 
+
+### 2026-07-28T19:10:00Z - tick 495
+- Unit: **rq_486** (FOI-adjacent hole-fill — **CoA 2026_23 DG 1. Haushaltsanpassung 2026 + dual Entity II**)
+- Found (strong primary Rechnungshof AG 27 May 2026):
+  - **HV AE €750.8m** · VE **€728.0m** · rec **€672.6m** (+17.3)
+  - **ESVG consol €-123.8m** (ex-Gemeinschaftszentren **€-110.5m**); gross saldo worse **€36.7m** aju; ESVG worse **€2.6m**
+  - Deltas: RRF rec **+16.6** / exp **+21.0** · infra VE **+19.4** · Gemeinden **+3.3** · personnel **+1.8** · fed dot **-4.0**
+  - **Debt consol:** 578m (2020) ? **1,252m** (2024) ? **1,344m** (2025) ? path **1,468m** eoy2026; interest **41.2m**; debt/rev **257%**
+  - **NPA growth 2026 +8.98%** breaches 5% self-cap; invest neutralisation **€291.3m** 2026-28 without EU flex approval
+  - Macro params diverge FPB (growth 0.2% / inflation 3.2% 2026)
+  - **Dual Entity II:** DG -0.11bn completes map vs FWB -1.75 / WAL -2.02 / VL measures 1.83 class
+- Wrote: sources +2; budgets +19; cmt +3; lb +5; FOI **gap_dg_infra_l5_2026** ready+draft; raw PDF; rq_486=done spawn **rq_487**; ticks=495
+- FOI opened: gap_dg_infra_l5_2026 (ready, human send) — not sent
+- Next: prio5 **rq_487**; deferred **rq_116** SWA
+
