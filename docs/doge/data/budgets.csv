@@ -8035,3 +8035,21 @@ bud_antigif_fte_2024,antigifcentrum,2024,205,,,count,src_antigif_jv_2024,strong,
 bud_antigif_calls_2024,antigifcentrum,2024,64000,,,count,src_antigif_jv_2024,strong,~64000 calls answered 24/7 line 2024 (nearly 64k editorial); tick451
 bud_antigif_working_2024,antigifcentrum,2024,936034,,,outturn,src_antigif_jv_2024,strong,Working costs 0.936m 2024 (third parties 0.473 antidota 0.126 ICT 0.089); tick451
 bud_antigif_antidota_2024,antigifcentrum,2024,126174,,,outturn,src_antigif_jv_2024,strong,Antidota stock costs 0.126m 2024; tick451
+bud_childfocus_income_2025,child_focus,2025,9595111,,,outturn,src_childfocus_jv_2025,strong,Total income 9.595m 2025; tick452
+bud_childfocus_income_2024,child_focus,2024,9306258,,,outturn,src_childfocus_jv_2025,strong,Total income 9.306m 2024; tick452
+bud_childfocus_expenses_2025,child_focus,2025,9429964,,,outturn,src_childfocus_jv_2025,strong,Total expenses 9.430m 2025; tick452
+bud_childfocus_expenses_2024,child_focus,2024,9266847,,,outturn,src_childfocus_jv_2025,strong,Total expenses 9.267m 2024; tick452
+bud_childfocus_result_2025,child_focus,2025,181989,,,outturn,src_childfocus_jv_2025,strong,Profit before fund appropriations 0.182m 2025 (0.034m 2024); tick452
+bud_childfocus_assets_2025,child_focus,2025,7824725,,,stock,src_childfocus_jv_2025,strong,Total assets 7.825m EOY2025; tick452
+bud_childfocus_equity_2025,child_focus,2025,5732704,,,stock,src_childfocus_jv_2025,strong,Equity 5.733m EOY2025; tick452
+bud_childfocus_subsidies_total_2025,child_focus,2025,2874250,,,outturn,src_childfocus_jv_2025,strong,Dotaties and subsidies line 2.874m 2025 (2.882m 2024); includes NL+EU+regional; tick452
+bud_childfocus_cash_donations_2025,child_focus,2025,5680505,,,outturn,src_childfocus_jv_2025,strong,Cash donations 5.681m 2025 (majority private); tick452
+bud_childfocus_inkind_2025,child_focus,2025,788564,,,outturn,src_childfocus_jv_2025,strong,In-kind donations 0.789m 2025; tick452
+bud_childfocus_wages_2025,child_focus,2025,5207642,,,outturn,src_childfocus_jv_2025,strong,Wages/social 5.208m 2025 (5.022m 2024); tick452
+bud_childfocus_honoraria_2025,child_focus,2025,2529433,,,outturn,src_childfocus_jv_2025,strong,Honoraria 2.529m 2025; tick452
+bud_childfocus_nl_plan_2024,child_focus,2024,1600000,,,budget,src_nloterij_kb_voorlopig_2024,strong,NL verdelingsplan Child Focus werking 1.6m provisional 2024; tick452
+bud_childfocus_nl_pie_2024,child_focus,2024,1954314,,,outturn,src_childfocus_jv_2024,medium,Pie 21pct of income 9.306m implies ~1.954m NL total support class (may exceed werking-only plan line); tick452
+bud_childfocus_nl_pie_2025,child_focus,2025,1919022,,,outturn,src_childfocus_jv_2025,medium,Pie 20pct of income 9.595m implies ~1.919m NL total support class; renewed partnership 2025; tick452
+bud_childfocus_donors_2025,child_focus,2025,36525,,,count,src_childfocus_jv_2025,strong,Active donors with tax attest 36525 2025 (34269 2024); tick452
+bud_childfocus_investments_2025,child_focus,2025,5725947,,,stock,src_childfocus_jv_2025,strong,Financial investments 5.726m EOY2025; tick452
+bud_childfocus_campaigns_2025,child_focus,2025,743219,,,outturn,src_childfocus_jv_2025,strong,Publications and info campaigns 0.743m 2025; tick452

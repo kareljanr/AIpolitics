@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T16:15:00Z,rq_442,451,no,Scheduler 60s. Next prio5 rq_443; rq_116 SWA deferred. tick451 Antigif 3.42m NL 2.2m dual.
+main,continuous,hole_fill,2026-08-02T16:45:00Z,rq_443,452,no,Scheduler 60s. Next prio5 rq_444; rq_116 SWA deferred. tick452 Child Focus 9.6m NL dual.

@@ -5292,3 +5292,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity antigifcentrum; budgets +18; cmt +1; lb +10; rq_442=done; spawn **rq_443**; ticks=451
 - FOI: none new (AR public; next similar NL L5: Child Focus / BOIC / Unia reconcile)
 - Next: prio5 **rq_443**; deferred **rq_116** SWA
+
+### 2026-08-02T16:45:00Z - tick 452
+- Unit: **rq_443** (FOI-adjacent hole-fill - **Child Focus AR2024-25 dual NL verdelingsplan 1.6m**)
+- Found (strong primary Child Focus Jaarverslag 2025 + 2024):
+  - **Income 2025 EUR 9.595m** (2024 **9.306m**) · expenses **9.430m** / **9.267m** · result **0.182m** / **0.034m**
+  - **Assets 7.825m** · equity **5.733m** · investments **5.726m**
+  - **Dotaties/subsidies line 2.874m** 2025 · cash donations **5.681m** · in-kind **0.789m** · wages **5.208m** · honoraria **2.529m**
+  - **NL:** plan werking **EUR 1.600m** 2024 · pie **21% 2024 / 20% 2025** implies **~1.95m / ~1.92m** total NL class (may include non-werking support) · renewed partnership 2025
+  - Dual KBF pie **~1%** · EU projects **4-6%** · private recurrent donors **44-47%** · donors tax attests **36,525** 2025
+  - Status: public-utility foundation · hotline **116 000**
+- Wrote: sources +2; entity child_focus; budgets +18; cmt +1; lb +10; rq_443=done; spawn **rq_444**; ticks=452
+- FOI: none new (AR public; residual exact NL cash vs pie optional)
+- Next: prio5 **rq_444** (BOIC / Unia / Red Cross NL dual); deferred **rq_116** SWA
