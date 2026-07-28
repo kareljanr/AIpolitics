@@ -8399,3 +8399,16 @@ bud_vl_extra_invest_vak_period,vlaanderen_gov,2025,3195000000,,,commitment,src_v
 bud_vl_social_housing_loans_14_5bn,vlaanderen_gov,2025,14500000000,,,commitment,src_vl_extra_invest_housing_2025_29,strong,Social housing loan authorisations FS3+BSL 14.5bn 2025-29; tick483
 bud_vl_mijn_verbouwlening_1_7bn,vlaanderen_gov,2025,1700000000,,,commitment,src_vl_extra_invest_housing_2025_29,strong,Mijn VerbouwLening total credit 1.7bn 2025-29; tick483
 bud_vl_delijn_invest_vak_400m_2025,de_lijn,2025,400000000,,,budgeted,src_vl_extra_invest_housing_2025_29,strong,De Lijn extra invest VAK 400m 2025 only in table3-4; tick483
+bud_vl_warm_vlaanderen_2025,vlaanderen_gov,2025,319000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Warm Vlaanderen expansion VAK 319m 2025; tick484
+bud_vl_warm_vlaanderen_2026,vlaanderen_gov,2026,418000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Warm Vlaanderen expansion VAK 418m 2026; tick484
+bud_vl_warm_vlaanderen_2029,vlaanderen_gov,2029,1073000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Warm Vlaanderen expansion VAK 1.073bn 2029 path; tick484
+bud_vl_handicap_expansion_2026,vaph,2026,159000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Personen met handicap expansion 159m 2026 path 102-478 2025-29; tick484
+bud_vl_kinderopvang_expansion_2026,vl_kinderopvang,2026,100000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Kinderopvang expansion 100m/yr class 2025-27 path to 200m 2029; dual structural KO 1.56bn prior; tick484
+bud_vl_welvarend_2025,vlaanderen_gov,2025,326000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Welvarend Vlaanderen expansion VAK 326m 2025; tick484
+bud_vl_welvarend_2026,vlaanderen_gov,2026,533000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Welvarend Vlaanderen expansion VAK 533m 2026; tick484
+bud_vl_welvarend_2029,vlaanderen_gov,2029,716000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Welvarend Vlaanderen expansion VAK 716m 2029 path; tick484
+bud_vl_expansion_total_2026,vlaanderen_gov,2026,2236000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Uitbreidingsbeleid total VAK 2.236bn 2026 (Warm+Welvarend+invest+fiscal+varia); tick484
+bud_vl_expansion_total_2029,vlaanderen_gov,2029,3668000000,,,budgeted,src_vl_warm_welvarend_2025_29,strong,Uitbreidingsbeleid total VAK 3.668bn 2029 path; tick484
+bud_wal_economies_2025,wallonie_gov,2025,268000000,,,budgeted,src_wal_economies_2025_26,strong,Wallonie structural savings 268m 2025; tick484
+bud_wal_economies_2026,wallonie_gov,2026,270000000,,,budgeted,src_wal_economies_2025_26,strong,Wallonie structural savings 270m 2026 (prior 270.4m class); dual VL; tick484
+bud_wal_economies_local_share_2026,wallonie_gov,2026,95000000,,,derived,src_wal_economies_uvcw_local_share,medium,UVCW local share min 95m of 270m 2026 (Marshall 45 APE 24 Fonds 16 freeze 10); tick484

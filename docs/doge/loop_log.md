@@ -5691,3 +5691,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +16; cmt +4; lb +6; rq_474=done spawn **rq_475**; ticks=483
 - FOI: none new (package public; residual named L5 delivery FOI optional)
 - Next: prio5 **rq_475**; deferred **rq_116** SWA
+
+### 2026-08-03T08:45:00Z - tick 484
+- Unit: **rq_475** (FOI-adjacent hole-fill - **VL Warm/Welvarend expansion + dual WAL economies**)
+- Found (strong primary VL centenboekje + WAL budget press):
+  - **Warm Vlaanderen VAK path mEUR:** 319 / **418** / 551 / 755 / **1.073bn** (handicap 102-478 · kinderopvang 100-200 · ouderenzorg · jeugdhulp)
+  - **Welvarend VAK path:** 326 / **533** / 471 / 623 / **716** (innovatie · digi onderwijs 200 · Nederlands · inductie)
+  - **Expansion total VAK:** 1.411 / **2.236bn** / 2.090 / 2.619 / **3.668bn** 2025-29
+  - **WAL structural savings:** **268m** 2025 + **270m** 2026 = **538m** 2y; local share medium **~95m** 2026 (UVCW)
+  - **Dual consolidation method 2026 class:** VL measures **1.832bn** + WAL **270m** (different perimeter)
+- Wrote: sources +4; budgets +13; cmt +5; lb +6; FOI **gap_wal_economies_l5** ready+draft; rq_475=done spawn **rq_476**; ticks=484
+- FOI opened: gap_wal_economies_l5 (ready, human send)
+- Next: prio5 **rq_476**; deferred **rq_116** SWA
