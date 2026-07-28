@@ -4947,3 +4947,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +25; cmt +2; lb +4; raw 3 PDFs; rq_417=done; spawn **rq_418**; ticks=426
 - FOI: none new (publication lag normal; optional later recheck)
 - Next: prio5 **rq_418**; deferred **rq_116** SWA
+
+### 2026-08-02T04:15:00Z - tick 427
+- Unit: **rq_418** (FOI-adjacent hole-fill - **INAMI maternity/paternity protection 2019-2023**)
+- Found (strong primary INAMI PDFs sal + indep):
+  - **Sal mat/pat package cash:** **EUR 633.2 -> 800.1m** 2019-23 (+6.14% YoY 2023; **+26.4%** since 2019)
+  - Split 2023: maternity rest **474.9m** (days 5.63m avg 84.42) · ecartement **221.8m** · paternity **101.9m** (20d max) · adopt 0.59 · foster 0.94
+  - Days package **9.22m** (-2.79%) · avg day **86.82** (+9.18%); mat cases **65.600** (-5%)
+  - Invalid-mat separate line **19.1m** (not in package total)
+  - **Indep package 2023:** primary mat **67.0m** (avg case **7.790**) + inv-mat 0.69 + adopt 0.11 + foster 0.09 = **67.9m**
+  - Dual recon: sal **800.1** + indep **67.9** = **868.0m** mat/pat protection 2023
+- Wrote: sources +2; budgets +41; cmt +2; lb +6; raw 3 PDFs; rq_418=done; spawn **rq_419**; ticks=427
+- FOI: none new (core entitlement; 2024-25 series lag normal)
+- Next: prio5 **rq_419**; deferred **rq_116** SWA

@@ -6868,3 +6868,44 @@ bud_inami_primaire_total_sal_indep_2023,riziv,2023,2860241261,,,outturn_indemnit
 bud_inami_primaire_indep_covid_2021,riziv,2021,14769614,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Covid suppl indep primaire cash 14769614 (days 1266794); tick426
 bud_inami_primaire_indep_covid_2022,riziv,2022,333919,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Covid suppl indep primaire cash 333919; tick426
 bud_inami_primaire_indep_path_2019_23,riziv,2023,208247272,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Path cash 2019-23: 123/131/127/174/208 mEUR; +69.2pct since 2019; forfait regime dual sal; tick426
+bud_inami_matpat_sal_total_2019,riziv,2019,633162413,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,INAMI mat/pat protection sal+chom total cash 633162413 (excl invalid-mat line); tick427
+bud_inami_matpat_sal_total_2020,riziv,2020,642017145,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,INAMI mat/pat protection sal+chom total cash 642017145 (excl invalid-mat line); tick427
+bud_inami_matpat_sal_total_2021,riziv,2021,698045569,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,INAMI mat/pat protection sal+chom total cash 698045569 (excl invalid-mat line); tick427
+bud_inami_matpat_sal_total_2022,riziv,2022,753870010,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,INAMI mat/pat protection sal+chom total cash 753870010 (excl invalid-mat line); tick427
+bud_inami_matpat_sal_total_2023,riziv,2023,800139026,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,INAMI mat/pat protection sal+chom total cash 800139026 (excl invalid-mat line); tick427
+bud_inami_mat_rest_sal_2019,riziv,2019,413771478,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest sal cash 413771478; days 6060671; tick427
+bud_inami_mat_rest_sal_2020,riziv,2020,407345287,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest sal cash 407345287; days 5750133; tick427
+bud_inami_mat_rest_sal_2021,riziv,2021,432809298,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest sal cash 432809298; days 5933561; tick427
+bud_inami_mat_rest_sal_2022,riziv,2022,462799807,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest sal cash 462799807; days 5917030; tick427
+bud_inami_mat_rest_sal_2023,riziv,2023,474891958,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest sal cash 474891958; days 5625062; tick427
+bud_inami_ecartement_sal_2019,riziv,2019,179115657,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Work removal (ecartement) sal cash 179115657; days 2821082; tick427
+bud_inami_ecartement_sal_2020,riziv,2020,196887578,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Work removal (ecartement) sal cash 196887578; days 2989874; tick427
+bud_inami_ecartement_sal_2021,riziv,2021,203899326,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Work removal (ecartement) sal cash 203899326; days 2994620; tick427
+bud_inami_ecartement_sal_2022,riziv,2022,215387102,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Work removal (ecartement) sal cash 215387102; days 2907085; tick427
+bud_inami_ecartement_sal_2023,riziv,2023,221838405,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Work removal (ecartement) sal cash 221838405; days 2760479; tick427
+bud_inami_paternite_sal_2019,riziv,2019,39418234,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Paternity/birth leave sal cash 39418234; days 372886; 20d max from 2023; tick427
+bud_inami_paternite_sal_2020,riziv,2020,36860196,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Paternity/birth leave sal cash 36860196; days 338743; 20d max from 2023; tick427
+bud_inami_paternite_sal_2021,riziv,2021,60266017,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Paternity/birth leave sal cash 60266017; days 546094; 20d max from 2023; tick427
+bud_inami_paternite_sal_2022,riziv,2022,74343662,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Paternity/birth leave sal cash 74343662; days 642274; 20d max from 2023; tick427
+bud_inami_paternite_sal_2023,riziv,2023,101881466,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Paternity/birth leave sal cash 101881466; days 815863; 20d max from 2023; tick427
+bud_inami_adoption_sal_2023,riziv,2023,585641,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Adoption leave sal cash 585641; tick427
+bud_inami_foster_sal_2023,riziv,2023,941555,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Foster parental leave sal cash 941555 (+18.49% YoY); tick427
+bud_inami_mat_invalid_sal_2019,riziv,2019,11793996,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest for prior-invalids sal 11793996 (separate from total general); tick427
+bud_inami_mat_invalid_sal_2020,riziv,2020,11065511,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest for prior-invalids sal 11065511 (separate from total general); tick427
+bud_inami_mat_invalid_sal_2021,riziv,2021,13945304,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest for prior-invalids sal 13945304 (separate from total general); tick427
+bud_inami_mat_invalid_sal_2022,riziv,2022,16112887,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest for prior-invalids sal 16112887 (separate from total general); tick427
+bud_inami_mat_invalid_sal_2023,riziv,2023,19130033,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Maternity rest for prior-invalids sal 19130033 (separate from total general); tick427
+bud_inami_mat_cases_sal_2023,riziv,2023,65600,,,case_volume,src_inami_maternite_sal_2023,strong,Maternity rest cases ended 2023 65600 (-5.0% YoY; ouv 16920 emp 48680); tick427
+bud_inami_matpat_sal_avg_day_2023,riziv,2023,8682,,,unit_cost_cents,src_inami_maternite_sal_2023,strong,Mat/pat package avg day EUR 86.82 stored cents; mat rest avg 84.42 pat 124.88; tick427
+bud_inami_matpat_sal_days_2023,riziv,2023,9215636,,,volume_days,src_inami_maternite_sal_2023,strong,Mat/pat package days 9215636 (-2.79% YoY); tick427
+bud_inami_mat_indep_primary_2019,riziv,2019,38588906,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep maternity rest (primary period) cash 38588906; avg case 5041.67; tick427
+bud_inami_mat_indep_primary_2020,riziv,2020,36614805,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep maternity rest (primary period) cash 36614805; avg case 4929.30; tick427
+bud_inami_mat_indep_primary_2021,riziv,2021,41436757,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep maternity rest (primary period) cash 41436757; avg case 4977.39; tick427
+bud_inami_mat_indep_primary_2022,riziv,2022,63535269,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep maternity rest (primary period) cash 63535269; avg case 7235.54; tick427
+bud_inami_mat_indep_primary_2023,riziv,2023,66990077,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep maternity rest (primary period) cash 66990077; avg case 7790.45; tick427
+bud_inami_mat_indep_invalid_2023,riziv,2023,689126,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep maternity during invalidity 689126; tick427
+bud_inami_mat_indep_adopt_2023,riziv,2023,109592,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep adoption leave 109592; tick427
+bud_inami_mat_indep_foster_2023,riziv,2023,88065,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep foster parental 88065; tick427
+bud_inami_mat_indep_package_2023,riziv,2023,67876860,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep mat package sum primary+inv+adopt+foster 67876860; tick427
+bud_inami_matpat_total_sal_indep_2023,riziv,2023,868015886,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Dual recon sal package 800.1m + indep package 67876860 = 868015886 (excl sal invalid-mat 19.1m); tick427
+bud_inami_mat_invalid_sal_plus_package_2023,riziv,2023,819269059,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Sal package+invalid-mat line 819269059 (800.1+19.1); tick427
