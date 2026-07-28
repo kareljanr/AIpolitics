@@ -6474,3 +6474,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +12; cmt +3; lb +7; FOI **gap_sr_save_delivery_l5** ready+draft; rq_527=done spawn **rq_528**; ticks=536
 - FOI opened: gap_sr_save_delivery_l5 (ready, human send) — not sent
 - Next: prio5 **rq_528**; deferred **rq_116** SWA
+
+### 2026-07-29T08:15:00Z - tick 537
+- Unit: **rq_528** (FOI-adjacent hole-fill — **Kamer exposé 2026 vergrijzingsnota SCvV Jul2025 + policy dual E1/E2**)
+- Found (strong primary DOC 56 1278/001 Ch2 + SCvV Jul2025 via exposé):
+  - **Social exp % GDP:** **25.8% (2024) → 26.3% (2030) → 27.6% (2050) → 27.5% (2070)**; aging cost **+1.7 pp** 2024-70
+  - **vs 2024 SCvV report:** cost **1.9 pp GDP lower** mainly pension reform (−1.3pp) + UI time-limit (−0.4pp)
+  - **Pensions:** 11.3 → 12.2 pct (+0.9); employees 6.6 public 3.8 self 0.9 (2024)
+  - **Healthcare:** 8.0 → 10.1 pct (+2.1) dominates long-run rise
+  - **Unemployment:** 1.0 → 0.4 pct (−0.6) incl SWT
+  - **Dual E1/E2:** E1 social 21.7% (+1.3pp to 2070) vs E2 4.2% (+0.4pp); federal pensions+health vs regional family benefits
+  - **Policy path (medium):** exp control **>€2.7bn by 2029**; LT-sick **>€1.9bn by 2029** (>500k persons); SME + social cohesion envelopes **€8.5m each 2026 → €15m 2029**
+- Wrote: sources +2; budgets +14; cmt +3; lb +7; FOI **gap_aging_reform_cash_l5** ready+draft; rq_528=done spawn **rq_529**; ticks=537
+- FOI opened: gap_aging_reform_cash_l5 (ready, human send) — not sent
+- Next: prio5 **rq_529**; deferred **rq_116** SWA

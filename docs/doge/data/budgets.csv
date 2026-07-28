@@ -9207,3 +9207,17 @@ bud_e1_invest_aid_nmbs_2026,sec_federal,2026,1094000000,,,budgeted,src_kamer_exp
 bud_e1_gov_supported_invest_2026,sec_federal,2026,7706000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 government-supported investment 7706m 2026 (1.2pct GDP); tick536
 bud_e1_gov_supported_invest_2025,sec_federal,2025,6962000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 gov-supported invest 6962m 2025 (1.1pct GDP); tick536
 bud_dual_sr_fedasil_return,gg_belgium,2026,1100000,,,derived,src_dual_sr_fedasil_return_tick536,strong,Dual Fedasil open-centre SR + return closed-centre path; not additive TE; tick536
+bud_scvv_social_exp_pct_2024,gg_belgium,2024,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV Jul2025 via exposé: total social exp 25.8pct GDP 2024; amount_eur blank (pct primary not TE invent); tick537
+bud_scvv_social_exp_pct_2030,gg_belgium,2030,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV: social exp 26.3pct GDP 2030 (+0.4pp vs 2024); tick537
+bud_scvv_social_exp_pct_2050,gg_belgium,2050,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV: social exp peak 27.6pct GDP 2050; tick537
+bud_scvv_social_exp_pct_2070,gg_belgium,2070,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV: social exp 27.5pct GDP 2070; aging cost +1.7pp 2024-70; tick537
+bud_scvv_pensions_pct_2024,sec_ss,2024,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV pensions 11.3pct GDP 2024 (employees 6.6 self 0.9 public 3.8); tick537
+bud_scvv_health_pct_2024,sec_ss,2024,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV healthcare 8.0pct GDP 2024; path to 10.1pct 2070 (+2.1pp); tick537
+bud_scvv_unemp_pct_2024,sec_ss,2024,,,,pct_gdp,src_kamer_expose_aging_2026,strong,SCvV unemployment 1.0pct GDP 2024 to 0.4pct 2050-70 (-0.6pp) incl SWT; tick537
+bud_scvv_cost_reduction_vs_2024_report,gg_belgium,2070,,,,pct_gdp_delta,src_kamer_expose_aging_2026,strong,SCvV 2025 report aging cost 2024-70 is 1.9pp GDP lower than 2024 report; pensions -1.3pp UI -0.4pp mainly reforms; tick537
+bud_policy_exp_save_2_7bn_2029,sec_federal,2029,2700000000,,,budgeted,src_kamer_expose_aging_2026,medium,Exposé policy: >2.7bn expenditure control save by 2029 (healthcare efficiency personnel replacement statutory pension contrib indexation caps); tick537
+bud_policy_lt_sick_save_1_9bn_2029,sec_ss,2029,1900000000,,,budgeted,src_kamer_expose_aging_2026,medium,Exposé: long-term sick >500k persons; responsabilisation path save 1.9bn by 2029; tick537
+bud_sme_plan_envelope_2026,sec_federal,2026,8500000,,,budgeted,src_kamer_expose_aging_2026,strong,Exposé KMO-plan envelope 8.5m 2026 rising to 15m 2029; dual social cohesion envelope same path; tick537
+bud_sme_plan_envelope_2029,sec_federal,2029,15000000,,,budgeted,src_kamer_expose_aging_2026,strong,Exposé KMO-plan envelope 15m 2029; tick537
+bud_social_cohesion_envelope_2026,sec_federal,2026,8500000,,,budgeted,src_kamer_expose_aging_2026,strong,Exposé social cohesion envelope 8.5m 2026 to 15m 2029; tick537
+bud_dual_aging_e1_e2,gg_belgium,2024,,,,pct_gdp,src_dual_aging_e1_e2_tick537,strong,Dual E1 social 21.7pct vs E2 4.2pct GDP 2024; E1 aging +1.3pp E2 +0.4pp to 2070; tick537
