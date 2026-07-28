@@ -8364,3 +8364,10 @@ bud_nl_nominative_34_2024,nationale_loterij,2024,181494082,,,outturn,src_nl_jv20
 bud_nl_child_poverty_call_2024,nationale_loterij,2024,1022080,,,outturn,src_nl_child_poverty_call_2024,strong,Child poverty project call 54 dossiers 1.02208m 2024; named L5 residual FOI; tick478
 bud_nl_eco_coaching_call_2024,nationale_loterij,2024,115000,,,outturn,src_nl_jv2024_financial_supports_725,strong,Eco-coaching project call 23 dossiers 115k 2024 first call; named L5 residual FOI; tick478
 bud_nl_financial_supports_count_2024,nationale_loterij,2024,725,,,outturn,src_nl_jv2024_financial_supports_725,strong,725 financial support beneficiaries 2024 of which 174 first-time; not euro field count only; tick478
+bud_nl_omzet_2025,nationale_loterij,2025,1666000000,,,outturn,src_nloterij_jv_2025,strong,NL omzet 1.666bn 2025 JV (vs 1.553bn 2024); tick479
+bud_nl_monopolierente_2025,nationale_loterij,2025,145000000,,,outturn,src_nl_monopolierente_kb_2025,strong,Monopolierente 145m 2025 to State budget KB+JV; tick479
+bud_nl_doelen_240m_2025,nationale_loterij,2025,240000000,,,outturn,src_nloterij_jv_2025,strong,Steun goede doelen 240m 2025 JV matches definitive verdelingsplan; tick479
+bud_nl_society_return_385m_2025,nationale_loterij,2025,385000000,,,derived,src_nl_society_dual_2025_path,strong,Society dual return 385m = doelen 240 + monopolierente 145 2025; path from 362.5m 2024; tick479
+bud_nl_projects_count_1970_2025,nationale_loterij,2025,1970,,,outturn,src_nloterij_jv_2025,strong,1970 maatschappelijke projecten 2025 +4pct vs 2024 class 1857; count not euro; tick479
+bud_nl_twa_100k_2025,to_walk_again,2025,100000,,,budget,src_towalkagain_nl_100k,strong,To Walk Again NL 100k cat3.36 definitive; dual disability sport residual TCO FOI; tick479
+bud_nl_residual_micro_batch_505k_2025,nationale_loterij,2025,505000,,,derived,src_nl_residual_named_micro_batch_tick479,strong,Sum OVK205+TWA100+WWF100+Jardin100=505k residual named micro L5; tick479

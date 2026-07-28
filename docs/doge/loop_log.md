@@ -5624,3 +5624,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +5; cmt +4; lb +4; FOI **gap_nl_nominative_34_l5** + **gap_nl_child_eco_calls_l5** ready+drafts; rq_469=done spawn **rq_470**; ticks=478
 - FOI opened: 2 ready (human send)
 - Next: prio5 **rq_470** (progress@480 soon); deferred **rq_116** SWA
+
+### 2026-08-03T06:15:00Z - tick 479
+- Unit: **rq_470** (FOI-adjacent hole-fill - **NL society dual path 385m 2025**)
+- Found (strong primary JV2025 + monopolierente KB):
+  - **Omzet EUR 1.666bn** 2025 (vs 1.553bn 2024)
+  - **Monopolierente EUR 145m** flat (KB 18 Dec 2025 + JV)
+  - **Goede doelen EUR 240m** JV matches definitive verdelingsplan
+  - **Society dual return EUR 385m** = 240+145 (path from **362.5m** 2024; upgrades press **~370m**)
+  - **1970** maatschappelijke projecten (+4% vs ~1857 2024)
+  - Residual micro batch **EUR 0.505m**: OVK 205k + TWA 100k + WWF 100k + Jardin Passion 100k
+- Wrote: sources +5; budgets +7; cmt +4; lb +6; entity TWA + NL update; rq_470=done spawn **rq_471 progress@480**; ticks=479
+- FOI: none new (society path closed strong; residual L5 stack already ready)
+- Next: prio5 **rq_471** progress milestone @480; deferred **rq_116** SWA
