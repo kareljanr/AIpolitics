@@ -5585,3 +5585,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +10; budgets +7; cmt +3; lb +7; entities +2; FOI **gap_nl_project_calls_l5** ready+draft; rq_466=done spawn **rq_467**; ticks=475
 - FOI opened: gap_nl_project_calls_l5 (ready, human send)
 - Next: prio5 **rq_467** (residual NL prestige sub-L5 / sports fed Art5.5 / other dual); deferred **rq_116** SWA
+
+### 2026-08-03T04:45:00Z - tick 476
+- Unit: **rq_467** (FOI-adjacent hole-fill - **sport dual residual batch 7.25m**)
+- Found (strong plan + primary NL press + dual host):
+  - **Sports Federations Art5.5 EUR 2.7m** - **32 federations** public count (NL Apr 2026 + JV continuity); Art5 per-fed residual FOI
+  - **Women high-level sport cat3.30 EUR 2.0m** definitive (prov 1.0m uplift); dual topsport method residual L5
+  - **BPC dual stack EUR 1.55m** = werking **0.45m** + Road to LA medals **1.1m**; BOPC merge 2027 path
+  - **EYOF 2029 EUR 1.0m** NL multi-year Art7 to 2029; **Flanders host** dual VL principal + BOIC; VL cash residual FOI
+  - **Residual sport batch sum EUR 7.25m** (excl prior Be Gold/BOIC/ProLeague/UCI/G-sport)
+- Wrote: sources +7; budgets +5; cmt +5; lb +5; entities +2; FOI **gap_nl_sports_fed_l5** + **gap_eyof2029_cash_schedule** ready+drafts; rq_467=done spawn **rq_468**; ticks=476
+- FOI opened: 2 ready (human send)
+- Next: prio5 **rq_468** (prestige sub residual / classical 560k Art5 / other dual); deferred **rq_116** SWA

@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T04:15:00Z,rq_466,475,no,Scheduler 60s. Next prio5 rq_467; rq_116 SWA deferred. tick475 UCI 1.1 + Lees dual + cat4 9m.
+main,continuous,hole_fill,2026-08-03T04:45:00Z,rq_467,476,no,Scheduler 60s. Next prio5 rq_468; rq_116 SWA deferred. tick476 sport dual batch 7.25m.

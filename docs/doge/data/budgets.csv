@@ -8347,3 +8347,8 @@ bud_nl_sdg_academia_call_1_5m_2025,nationale_loterij,2025,1500000,,,budget,src_n
 bud_nl_local_heritage_call_4m_2025,nationale_loterij,2025,4000000,,,budget,src_nloterij_kb_definitief_2025,strong,Lokaal Erfgoed project call 4m cat4.4; winners L5 residual FOI; tick475
 bud_nl_cat4_calls_sum_9m_2025,nationale_loterij,2025,9000000,,,derived,src_nl_cat4_project_calls_9m,strong,Cat4 sum G-sport1 + SDG1.5 + poverty2.5 + heritage4 = 9.0m definitive 2025; tick475
 bud_nl_uci_lees_art5_sum_2_1m_2025,nationale_loterij,2025,2100000,,,derived,src_nl_uci_lees_project_calls_tick475,strong,Art5 residual pair UCI 0.6 + Lees 1.5 = 2.1m committee notes FOI; tick475
+bud_nl_sports_fed_32_entity_2025,nationale_loterij,2025,2700000,,,budget,src_nl_sports_fed_32_2026,strong,Sports Federations National Teams 2.7m Art5.5; 32 federations public count; per-fed residual FOI; tick476
+bud_nl_women_sport_entity_2025,nationale_loterij,2025,2000000,,,budget,src_nl_women_sport_2m_def,strong,Women high-level sport 2.0m cat3.30 definitive entity view; path 1m prov; tick476
+bud_bpc_nl_stack_1_55m_2025,bpc,2025,1550000,,,derived,src_bpc_road_la_dual_stack,strong,BPC dual NL 0.45m werking + 1.1m Road to LA medals = 1.55m 2025; tick476
+bud_nl_eyof2029_entity_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_definitief_2025,strong,EYOF 2029 1.0m multi-year Art7 frame to 2029; Flanders host dual; tick476
+bud_nl_sport_residual_batch_7_25m_2025,nationale_loterij,2025,7250000,,,derived,src_nl_sport_dual_batch_tick476,strong,Sum fed2.7+women2.0+BPC1.55+EYOF1.0=7.25m residual sport dual batch (excl Be Gold BOIC ProLeague prior); tick476
