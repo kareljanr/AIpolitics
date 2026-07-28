@@ -8081,3 +8081,27 @@ bud_bozar_maecenas_members_2024,bozar,2024,240,,,count,src_bozar_jv_2024,strong,
 bud_bozar_training_hours_2024,bozar,2024,3992,,,count,src_bozar_jv_2024,strong,External training hours 3992 of which digital recovery 1281; tick454
 bud_bozar_nl_share_public_pct_2024,bozar,2024,17,,,pct,src_bozar_jv_2024,strong,NL 3.095 of public stack 18.624 ~17pct; tick454
 bud_bozar_surrealism_expo_2024,bozar,2024,118886,,,count,src_bozar_jv_2024,strong,Histoire de ne pas rire surrealism expo 118886 visitors 4th most visited Bozar expo ever; tick454
+bud_monnaie_income_total_2024,la_monnaie,2024,65366804,,,outturn,src_monnaie_jv_2024,strong,Total receipts HTVA 65.367m 2024 AR; tick455
+bud_monnaie_exp_total_2024,la_monnaie,2024,64556954,,,outturn,src_monnaie_jv_2024,strong,Total expenses HTVA 64.557m 2024 AR; tick455
+bud_monnaie_result_2024,la_monnaie,2024,809850,,,outturn,src_monnaie_jv_2024,strong,Budget result +809850 EUR 2024 (accounting result +667k residual losses after -107k); tick455
+bud_monnaie_fed_outturn_2024,la_monnaie,2024,42533824,,,outturn,src_monnaie_jv_2024,strong,Federal subsidy cash outturn 42.534m 2024 (vs Kamer budgeted 42.173m); tick455
+bud_monnaie_fed_outturn_2023,la_monnaie,2023,41859000,,,outturn,src_monnaie_jv_2024,strong,Federal subsidy 41.859m 2023 AR comparable; tick455
+bud_monnaie_nl_outturn_2024,la_monnaie,2024,1588750,,,outturn,src_monnaie_jv_2024,strong,NL lottery cash 1.58875m 2024 = plan base 1.48875m + prestige Ring exception 0.1m; tick455
+bud_monnaie_nl_outturn_2023,la_monnaie,2023,1488750,,,outturn,src_monnaie_jv_2024,strong,NL lottery 1.48875m 2023 matches provisional plan base; tick455
+bud_monnaie_public_stack_fed_nl_2024,la_monnaie,2024,44122574,,,outturn,src_monnaie_jv_2024,strong,Fed 42.534m + NL 1.589m = public stack dual 44.123m 2024; tick455
+bud_monnaie_public_grants_all_2024,la_monnaie,2024,44869263,,,outturn,src_monnaie_jv_2024,strong,Fed+NL+other grants 0.139m+Beliris 0.607m = 44.869m public grants 2024; tick455
+bud_monnaie_beliris_2024,la_monnaie,2024,607289,,,outturn,src_monnaie_jv_2024,strong,Beliris subsidy 0.607m 2024 (Shared Network IT); tick455
+bud_monnaie_other_grants_2024,la_monnaie,2024,139400,,,outturn,src_monnaie_jv_2024,strong,Other subsidies 0.139m 2024; tick455
+bud_monnaie_payroll_2024,la_monnaie,2024,33084372,,,outturn,src_monnaie_jv_2024,strong,Permanent payroll masse salariale 33.084m 2024; tick455
+bud_monnaie_fixed_costs_2024,la_monnaie,2024,41124054,,,outturn,src_monnaie_jv_2024,strong,Fixed costs 41.124m (payroll+opex 5.971m+invest 2.069m) 2024; tick455
+bud_monnaie_production_2024,la_monnaie,2024,14187897,,,outturn,src_monnaie_jv_2024,strong,Production costs 14.188m 2024; tick455
+bud_monnaie_tax_shelter_income_2024,la_monnaie,2024,11335201,,,outturn,src_monnaie_jv_2024,strong,Tax Shelter receipts 11.335m 2024; tick455
+bud_monnaie_tax_shelter_exp_2024,la_monnaie,2024,6768891,,,outturn,src_monnaie_jv_2024,strong,Tax Shelter expenses 6.769m 2024; tick455
+bud_monnaie_tax_shelter_net_2024,la_monnaie,2024,4600000,,,outturn,src_monnaie_jv_2024,strong,Tax Shelter net margin stated 4.6m 2024; tick455
+bud_monnaie_ticketing_2024,la_monnaie,2024,5727682,,,outturn,src_monnaie_jv_2024,strong,Ticketing 5.728m 2024 opera fill rate avg 98pct; tick455
+bud_monnaie_mecenaat_2024,la_monnaie,2024,1680195,,,outturn,src_monnaie_jv_2024,strong,Mecenat/sponsoring 1.680m 2024; tick455
+bud_monnaie_staff_headcount_2024,la_monnaie,2024,436,,,count,src_monnaie_jv_2024,strong,Permanent staff headcount 436 (215F/221M; FR 331 NL 105) 2024; tick455
+bud_monnaie_fte_2024,la_monnaie,2024,39290,,,count,src_monnaie_jv_2024,strong,FTE sum 392.9 (stores 39290=392.9*100) 2024; tick455
+bud_monnaie_streaming_views_2024,la_monnaie,2024,278611,,,count,src_monnaie_jv_2024,strong,Streaming audience all channels 278611 2024; tick455
+bud_monnaie_income_total_2023,la_monnaie,2023,66017129,,,outturn,src_monnaie_jv_2024,strong,Total receipts 66.017m 2023 AR comparable; tick455
+bud_monnaie_exp_total_2023,la_monnaie,2023,65031585,,,outturn,src_monnaie_jv_2024,strong,Total expenses 65.032m 2023 AR comparable; tick455

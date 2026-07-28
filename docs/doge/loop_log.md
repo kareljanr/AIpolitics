@@ -5331,3 +5331,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity bozar update; budgets +14; cmt +1; lb +10; foi gap_fed_culture note; rq_445=done; spawn **rq_446**; ticks=454
 - FOI: gap_fed_culture residual (post-cut cash + new contracts) still ready; activity dual closed
 - Next: prio5 **rq_446** (Monnaie / NOB / Myria / BOIC NL dual); deferred **rq_116** SWA
+
+### 2026-08-02T18:15:00Z - tick 455
+- Unit: **rq_446** (FOI-adjacent hole-fill - **La Monnaie / De Munt AR2024 full TCO dual NL 1.59m**)
+- Found (strong primary De Munt Jaarverslag 2024):
+  - **Income 2024 EUR 65.367m** / **exp 64.557m** / result **+0.810m** (accounting +667k; residual losses after -107k)
+  - **Federal cash 42.534m** (Kamer budgeted 42.173m) / **2023 41.859m**
+  - **NL lottery 1.589m** = plan base **1.489m** + prestige **Ring +0.1m** (~3.6% of fed+NL stack **44.123m**)
+  - Public grants all (fed+NL+other 0.139+Beliris 0.607) **44.869m**
+  - **Payroll 33.084m** / fixed costs **41.124m** / production **14.188m** / Tax Shelter net **4.6m** (receipts 11.335 / exp 6.769)
+  - Ticketing **5.728m** fill **98%** / mecenaat **1.680m**
+  - Staff **436 HC / 392.9 FTE** (FR 331 NL 105) / streaming **278,611** views
+  - Dual method: full institutional P&L closes Monnaie side of culture triple (stronger than Bozar omzet-only)
+- Wrote: sources +1; entity la_monnaie update; budgets +24; cmt +1; lb +10; foi gap_fed_culture note; rq_446=done; spawn **rq_447**; ticks=455
+- FOI: gap_fed_culture residual (2025 post-cut + new contracts + NOB AR) still ready; Monnaie 2024 NL dual closed
+- Next: prio5 **rq_447** (NOB / BOIC / Myria NL dual); deferred **rq_116** SWA
