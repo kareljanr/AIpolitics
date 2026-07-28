@@ -6120,3 +6120,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +28; cmt +4; lb +8; FOI **gap_phoenix_cfd_strike_l5** ready+draft; rq_502=done spawn **rq_503**; ticks=511
 - FOI opened: gap_phoenix_cfd_strike_l5 (ready, human send) — not sent
 - Next: prio5 **rq_503**; deferred **rq_116** SWA
+
+### 2026-07-29T00:40:00Z - tick 512
+- Unit: **rq_503** (FOI-adjacent hole-fill — **CoA 2026_22 residual new fiscal measures + nonfiscal + primary exp cells dual**)
+- Found (strong primary same CoA fed aju, Deel II residual):
+  - **Conclave new fiscal +€730.9m**: customs e-comm **+400.7** · EU handling fee **+77.4** (unallocated; law not final) · VVPR-bis re-est **+334.5** (Jan–Apr +406.3 vs 2025; future reverse risk)
+  - Customs mechanics: gross +449 dual EU -449; MS retention 25% **+112.3** nonfiscal; VAT volume **-48**
+  - Insurance tax **+36.4** (was 51); non-res opcentiemen **~€78m**/yr CJEU C-119/24 illegal; refunds open
+  - Post-conclave: employer km credit **20m/month** May–Jul (FPS no data; VAT-neutral claim disputed); service km provis **€5m**
+  - **Nonfiscal** middelen **€7.829bn** (+1358): RSZ eq refund **548** · RIZIV COVID **187** · CREG energy **285** (max 412) · customs fee **1013.8** (+229) · SFPIM div actual **78.4** vs booked 55.8 · plates delay **-42.2**
+  - **Primary cells** **€92.050bn** (+41): support 3.72 (-497) · authority 23.05 (+390) · economic 6.58 · social 34.61 · specific 24.09
+  - **Dual:** conclave pack + nonfiscal one-offs vs debt interest path
+- Wrote: sources +2; budgets +27; cmt +4; lb +8; FOI **gap_customs_vvpr_opcent_l5** ready+draft; rq_503=done spawn **rq_504**; ticks=512
+- FOI opened: gap_customs_vvpr_opcent_l5 (ready, human send) — not sent
+- Next: prio5 **rq_504**; deferred **rq_116** SWA

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T00:20:00Z,rq_502,511,no,Tick511 CoA energy L5 2.6bn CfD 584m debt 577.5bn dual; next prio5 rq_503; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T00:40:00Z,rq_503,512,no,Tick512 CoA fiscal conclave 731m nonfiscal dual; next prio5 rq_504; rq_116 SWA deferred.
