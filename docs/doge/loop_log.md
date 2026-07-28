@@ -5431,3 +5431,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +28; cmt +1; lb +10; rq_452=done; spawn **rq_453**; ticks=461
 - FOI: none new (plan public; residual prestige named L5 + definitive 2025 when published)
 - Next: prio5 **rq_453** (SARC dual / Flagey / Prestige L5 / definitive 2024 delta); deferred **rq_116** SWA
+
+### 2026-08-02T21:45:00Z — tick 462
+- Unit: rq_453 (CPVS/SARC dual FOI-adjacent hole-fill)
+- Found: **Strong dual CPVS stack.** (1) IEFH RA2024 CPVS cash **€10.926m** (already mapped). (2) NL provisional 2025 SARC/CPVS **€1.616m** (tick461). (3) **INAMI** primary: from 2026 INAMI funds hospital CPVS (13 centres); IEFH funded pre-2026 by size; IEFH keeps national coordination (src_inami_cpvs_transfer_2025). (4) **Kamer 56K0854/037** minister: 2026 annual envelope **€26.4m** = Fonds Blouses blanches **€11.7m** + extra 3 centres **€5.8m** + IEFH?INAMI **€8.9m**; Justice €0. Dual recon: announced IEFH transfer 8.9 vs 2024 cash 10.9 residual FOI; NL lottery line additive not double-count of main channel. Flagey entity stub (NL 0.25m) — AR TCO residual.
+- Wrote: sources (+3); budgets (+5); entities (cpvs_network, flagey); commitments (cmt_cpvs_inami_envelope_2026); leaderboard (+2 update sarc+iefh_cpvs); foi_queue gap_iefh notes; FOI draft note; rq_453=done rq_454=open; loop_state ticks=462
+- FOI opened: none new; gap_iefh residual narrowed (transfer perimeter public; hospital L5 cash still opaque)
+- Next: rq_454 (prestige L5 / Flagey AR / definitive NL 2024 delta / next FOI-adjacent); rq_116 SWA deferred

@@ -54,9 +54,12 @@ Dit verzoek kadert in onderzoek naar overheidsuitgaven en subsidies
 (transparantie van publieke middelen). Hiërarchisch pad (intern):
 BE > IEFH > funding (dual equality-architectuur naast Unia/VMRI).
 
-Het jaarverslag 2024 is publiek en bevat sterke totalen; ontbrekend zijn
-vooral 2025-2026 outturns, BGD-codes, CPVS-transferperimeter en L5
-begunstigden van structurele subsidies.
+Het jaarverslag 2024 is publiek en bevat sterke totalen. **Tick 462 (publiek):**
+Kamer 56K0854/037 + INAMI: CPVS-financiering verschuift 2026 naar RIZIV/INAMI
+met gepland enveloppe **€26,4m/j** (Fonds Blouses blanches €11,7m + extra €5,8m
++ IEFH-transfer €8,9m). IEFH blijft nationale coördinatie. NL-plan 2025 SARC/CPVS
+€1,616m (apart loterijspoor). Residual FOI: 2025-2026 outturns, BGD-codes,
+post-transfer IEFH-rest, L5 ziekenhuis-cash en structurele subsidies.
 
 ### 3. Vorm
 

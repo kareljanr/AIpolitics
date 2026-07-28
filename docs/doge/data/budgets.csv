@@ -8186,3 +8186,9 @@ bud_nloterij_cinematek_2025,nationale_loterij,2025,700000,,,budget,src_nloterij_
 bud_nloterij_sports_fed_2025,nationale_loterij,2025,2700000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Belgian Sports Federations & National Teams 2.7m provisional 2025; tick461
 bud_nloterij_armoede_call_2025,nationale_loterij,2025,2500000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Project call poverty/inclusion 2.5m provisional 2025; tick461
 bud_nloterij_women_sport_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Women high-level sport initiatives 1.0m provisional 2025; tick461
+
+bud_cpvs_inami_envelope_2026,riziv,2026,26400000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,CPVS/ZSG total planned annual envelope 26.4m from 2026 (minister Kamer); dual IEFH+NL path; tick462
+bud_cpvs_fonds_blouses_blanches_2026,riziv,2026,11700000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,Transfer 11.7m from Fonds Blouses blanches / Zorgpersoneelfonds via CPVS law; tick462
+bud_cpvs_extra3_centres_2026,riziv,2026,5800000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,Additional 5.8m exogenous cover for 3 extra CPVS (13 total); tick462
+bud_cpvs_iefh_to_inami_transfer_2026,iefh,2026,8900000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,IEFH annual transfer to INAMI 8.9m (dotation currently financing hospital CPVS structures); dual RA 2024 cash 10.926m; tick462
+bud_cpvs_stack_dual_2024_26,iefh,2024,10926000,,,outturn,src_cpvs_dual_recon_tick462,strong,Dual anchor IEFH CPVS cash 10.926m 2024 vs 2026 transfer 8.9m announced; NL SARC separate 1.616 2025; tick462
