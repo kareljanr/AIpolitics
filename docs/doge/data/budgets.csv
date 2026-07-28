@@ -8067,3 +8067,17 @@ bud_unia_result_2025,unia_interfederal,2025,12923,,,outturn,src_unia_ra_2025_bs_
 bud_unia_nl_plan_inside_federal_2024,unia_interfederal,2024,4308698,,,budget,src_nloterij_kb_voorlopig_2024,strong,NL verdelingsplan Unia 4.308698m is inside federal subvention path 2024; tick453 dual
 bud_unia_federal_non_nl_2024,unia_interfederal,2024,3862000,,,outturn,src_unia_ra_2025_bs_tick453,strong,Federal residual after NL plan line: 8.170698m - 4.308698m = 3.862m 2024 dual; tick453
 bud_unia_federal_nl_share_pct_2024,unia_interfederal,2024,53,,,pct,src_unia_ra_2025_bs_tick453,medium,NL plan 4.309/federal 8.171 ~52.7pct of federal Unia 2024 (stores 53); tick453
+bud_bozar_public_stack_2024,bozar,2024,18624000,,,budget,src_bozar_jv_2024,strong,Federal dot 15.529m + NL lottery 3.095m = public stack 18.624m 2024 dual; tick454
+bud_bozar_visitors_2024,bozar,2024,625840,,,count,src_bozar_jv_2024,strong,Total visitors 625840 2024; tick454
+bud_bozar_expo_visitors_2024,bozar,2024,323459,,,count,src_bozar_jv_2024,strong,Exhibition visitors 323459 (+56pct vs 2023 ~207k); tick454
+bud_bozar_concert_visitors_2024,bozar,2024,152715,,,count,src_bozar_jv_2024,strong,Concert visitors 152715 on 227 concerts; tick454
+bud_bozar_talks_visitors_2024,bozar,2024,29041,,,count,src_bozar_jv_2024,strong,Talks/debates visitors 29041; tick454
+bud_bozar_film_visitors_2024,bozar,2024,12040,,,count,src_bozar_jv_2024,strong,Film visitors 12040 on 106 screenings; tick454
+bud_bozar_external_prod_visitors_2024,bozar,2024,90308,,,count,src_bozar_jv_2024,strong,External productions visitors 90308 (e.g. Queen Elisabeth); tick454
+bud_bozar_staff_2024,bozar,2024,243,,,count,src_bozar_jv_2024,strong,Staff headcount 243 of which 188 permanent contracts 2024; tick454
+bud_bozar_fte_plan_2024,bozar,2024,24998,,,count,src_bozar_jv_2024,strong,Personnel plan max 249.98 FTE 2024 (stores 24998=249.98*100); respected; tick454
+bud_bozar_hires_2024,bozar,2024,118,,,count,src_bozar_jv_2024,strong,118 new hires 2024 from 2200 applications 41 vacancies; tick454
+bud_bozar_maecenas_members_2024,bozar,2024,240,,,count,src_bozar_jv_2024,strong,240 fixed Maecenas/Patrons members 2024; tick454
+bud_bozar_training_hours_2024,bozar,2024,3992,,,count,src_bozar_jv_2024,strong,External training hours 3992 of which digital recovery 1281; tick454
+bud_bozar_nl_share_public_pct_2024,bozar,2024,17,,,pct,src_bozar_jv_2024,strong,NL 3.095 of public stack 18.624 ~17pct; tick454
+bud_bozar_surrealism_expo_2024,bozar,2024,118886,,,count,src_bozar_jv_2024,strong,Histoire de ne pas rire surrealism expo 118886 visitors 4th most visited Bozar expo ever; tick454

@@ -5318,3 +5318,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +14; cmt +1; lb +10; foi gap_unia note; rq_444=done; spawn **rq_445**; ticks=453
 - FOI: gap_unia_funding_detail updated residual (still ready human send; lottery plan dual filled)
 - Next: prio5 **rq_445** (BOIC / Red Cross / Bozar NL dual); deferred **rq_116** SWA
+
+### 2026-08-02T17:45:00Z - tick 454
+- Unit: **rq_445** (FOI-adjacent hole-fill - **BOZAR AR2024 activity dual NL 3.1m + federal public stack 18.6m**)
+- Found (strong primary Bozar Jaarverslag 2024 + prior Kamer/NBB/NL plan):
+  - **Public stack 2024 EUR 18.624m** = federal dot **15.529m** + NL lottery **3.095m** (~17% NL)
+  - **Statutory omzet 8.156m 2024** / **8.945m 2025** (commercial layer; not full TCO)
+  - **Activity 2024:** visitors **625,840** · expo **323,459** (+56%) · concerts **152,715**/227 · talks **29,041** · film **12,040** · external **90,308**
+  - **Staff 243** (188 permanent) · FTE plan max **249.98** · hires **118** · Maecenas **240**
+  - Surrealism expo **118,886** visitors · management contract expired EOY2024 **+1y extension** pending new gov
+  - Dual: culture triple Monnaie/NOB; Beliris M/Studio renovation; Regie Gebouwen lighting studies
+- Wrote: sources +1; entity bozar update; budgets +14; cmt +1; lb +10; foi gap_fed_culture note; rq_445=done; spawn **rq_446**; ticks=454
+- FOI: gap_fed_culture residual (post-cut cash + new contracts) still ready; activity dual closed
+- Next: prio5 **rq_446** (Monnaie / NOB / Myria / BOIC NL dual); deferred **rq_116** SWA
