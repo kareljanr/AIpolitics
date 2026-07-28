@@ -4973,3 +4973,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources note; budgets +~40; cmt +3; lb +5; rq_419=done; spawn **rq_420**; ticks=428
 - FOI: none new (gap_fpd_beheer_igo_l5 residual admin still ready; autres composition opacity note only)
 - Next: prio5 **rq_420**; deferred **rq_116** SWA
+
+### 2026-08-02T05:15:00Z - tick 429
+- Unit: **rq_420** (FOI-adjacent hole-fill - **DG HAN ARR/AI 2.93bn 2025 + SPF SS macro 146.8bn**)
+- Found (strong primary SPF SS Rapport annuel 2025 PDF):
+  - **DG HAN ARR+AI cash:** **EUR 2.93bn** (current prices); monthly benef **264.250** (+4% YoY; +17.8% vs 2021)
+  - Split stock: ARR-only **27.608** · AI-only **106.868** · both **129.774**
+  - Avg month **EUR 938** (AI-only 349 · ARR-only 924 · both 1.425)
+  - Regions: VL **52.1%** · WAL **37.9%** · BRU **9.2%** · DG **0.7%**
+  - Evals **155.334** · recognition stock **581.987** · first-req refusal **66.1%**
+  - **SS macro 2025:** total exp **146.8bn** (~51% state); prest **132.9** · gestion **2.9** · divers **10.97**
+  - Financing: cotis **83.2** · state **20.5** · altfin **26.2** · equilibre **7.4** · other **7.7** · federated **0.4**
+  - Dual: VAPH FL care ~3bn not additive; INAMI inv separate channel
+- Wrote: sources +2; entity dg_han; budgets +24; cmt +2; lb +5; raw SPF PDF; rq_420=done; spawn **rq_421**; ticks=429
+- FOI: none new (official ARR/AI cash split residual optional; component recon medium only)
+- Next: prio5 **rq_421**; deferred **rq_116** SWA

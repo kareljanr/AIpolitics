@@ -6957,3 +6957,27 @@ bud_fpd_regime_ind_2025,fpd,2025,5737714982,,,outturn_indemnities,src_pensionsta
 bud_fpd_pensionnes_stock_2025,fpd,2025,2674520,,,beneficiary_stock,src_pensionstat_depenses_2025,strong,Pensionnes stock nationality-sum 2025 2674520 (site ~2.7m); tick428
 bud_fpd_grapa_stock_2025,fpd,2025,119651,,,beneficiary_stock,src_pensionstat_depenses_2025,strong,GRAPA stock 2025 119651 beneficiaries microdata sum; tick428
 bud_fpd_legal_growth_2019_25,fpd,2025,20755008123,,,delta_eur,src_pensionstat_depenses_2025,strong,Legal pensions +43.0pct 2019-25 (+20.76bn); tick428
+bud_dghan_arr_ai_total_2025,dg_han,2025,2930000000,,,outturn_indemnities,src_spfss_ra_2025_dghan,strong,DG HAN ARR+AI cash 2.93bn current prices 2025; 264250 monthly benef (+4pct); tick429
+bud_dghan_benef_monthly_2025,dg_han,2025,264250,,,beneficiary_stock,src_spfss_ra_2025_dghan,strong,Monthly allocation recipients 264250 (+4pct YoY; +17.8pct vs 2021); tick429
+bud_dghan_arr_only_stock_2025,dg_han,2025,27608,,,beneficiary_stock,src_spfss_ra_2025_dghan,strong,ARR-only recipients 27608; tick429
+bud_dghan_ai_only_stock_2025,dg_han,2025,106868,,,beneficiary_stock,src_spfss_ra_2025_dghan,strong,AI-only recipients 106868; tick429
+bud_dghan_both_stock_2025,dg_han,2025,129774,,,beneficiary_stock,src_spfss_ra_2025_dghan,strong,ARR+AI combined recipients 129774; tick429
+bud_dghan_avg_month_2025,dg_han,2025,938,,,unit_cost_eur,src_spfss_ra_2025_dghan,strong,Average monthly allocation EUR 938 current prices; tick429
+bud_dghan_ai_only_avg_2025,dg_han,2025,349,,,unit_cost_eur,src_spfss_ra_2025_dghan,strong,AI-only avg monthly EUR 349; tick429
+bud_dghan_arr_only_avg_2025,dg_han,2025,924,,,unit_cost_eur,src_spfss_ra_2025_dghan,strong,ARR-only avg monthly EUR 924; tick429
+bud_dghan_both_avg_2025,dg_han,2025,1425,,,unit_cost_eur,src_spfss_ra_2025_dghan,strong,Both avg monthly EUR 1425 (ARR 934 + AI 491); tick429
+bud_dghan_ai_only_cash_recon_2025,dg_han,2025,447563184,,,reconstructed_annual,src_spfss_ra_2025_dghan,medium,Recon AI-only ~447563184 (stock*avg*12); medium; tick429
+bud_dghan_arr_only_cash_recon_2025,dg_han,2025,306117504,,,reconstructed_annual,src_spfss_ra_2025_dghan,medium,Recon ARR-only ~306117504; medium; tick429
+bud_dghan_both_cash_recon_2025,dg_han,2025,2219135400,,,reconstructed_annual,src_spfss_ra_2025_dghan,medium,Recon both ~2219135400; sum recon 2972816088 vs official 2.93bn; medium; tick429
+bud_dghan_evals_2025,dg_han,2025,155334,,,case_volume,src_spfss_ra_2025_dghan,strong,Disability evaluations 155334 in 2025; tick429
+bud_dghan_recognized_stock_2025,dg_han,2025,581987,,,beneficiary_stock,src_spfss_ra_2025_dghan,strong,Persons with disability recognition 581987; tick429
+bud_dghan_parking_stock_2025,dg_han,2025,507301,,,volume_cards,src_spfss_ra_2025_dghan,strong,Parking cards in circulation 507301 (new 71440 in 2025); tick429
+bud_dghan_first_req_2025,dg_han,2025,36980,,,case_volume,src_spfss_ra_2025_dghan,strong,First allocation requests decided 36980; refusal 66.1pct; tick429
+bud_ss_total_exp_2025_spf,sec_ss,2025,146800000000,,,budget_aggregate,src_spfss_ra_2025_ss_macro,strong,SS total expenditure 146.8bn 2025 SPF RA (~51pct state exp); dual CoA/NBB perimeters; tick429
+bud_ss_prestations_2025_spf,sec_ss,2025,132900000000,,,budget_aggregate,src_spfss_ra_2025_ss_macro,strong,SS social benefits 132.9bn of 146.8; tick429
+bud_ss_gestion_2025_spf,sec_ss,2025,2900000000,,,budget_aggregate,src_spfss_ra_2025_ss_macro,strong,SS management costs 2.9bn 2025; dual mutual/OISZ beheer; tick429
+bud_ss_divers_2025_spf,sec_ss,2025,10970000000,,,budget_aggregate,src_spfss_ra_2025_ss_macro,strong,SS various exp 10.97bn; tick429
+bud_ss_cotis_2025_spf,sec_ss,2025,83200000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS social contributions 83.2bn 2025; tick429
+bud_ss_state_sub_2025_spf,sec_ss,2025,20500000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS ordinary state subsidies 20.5bn; tick429
+bud_ss_altfin_2025_spf,sec_ss,2025,26200000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS alternative financing 26.2bn; tick429
+bud_ss_equilibre_2025_spf,sec_ss,2025,7400000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS equilibrium endowments 7.4bn; tick429
