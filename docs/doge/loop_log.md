@@ -5909,3 +5909,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_fwb_cepage_cost_l5 (ready, human send) — not sent
 - Next: prio5 **rq_488**; deferred **rq_116** SWA
 
+
+### 2026-07-28T19:50:00Z - tick 497
+- Unit: **rq_488** (FOI-adjacent hole-fill — **VL Onderwijs BO2026 17.25bn + Persona 16m dual FWB Cepage**)
+- Found (strong primary Vlaams Parlement Commissie Onderwijs 15-2025-26-7H + CoA 2026_31):
+  - **OV VAK €17.25bn / VEK €17.24bn** (+404.5m / +436.7m vs 2025)
+  - Coalition savings **€141m** + extra BO **€180.6m** class: SO growth **50** · LBV **33.3** · VO **50** · subs **4.7** · Digisprong **6** · defer inductie **10** / NL **35**
+  - Extra invest class **€412m** (digi **154** · NL **80+10** · inductie **~39** · zijinstroom **14** · tso/bso **18**)
+  - HO cuts: Brussel **10.6** · niet-EER **~20.2** · werkingsmiddelen **-10.3**; leraar-specialist **15.7m** back to provisie
+  - **Persona** AGODI IT stop Jan 2026 after **€16m** / **<10%** features (CoA dual Cepage)
+  - **Dual:** VL 17.25bn OV vs FWB edu personnel 7.1bn + IT failure pair Persona/Cepage
+- Wrote: sources +3; budgets +26; cmt +3; lb +4; entity agodi; FOI **gap_vl_persona_agodi_cash** ready+draft; rq_488=done spawn **rq_489**; ticks=497
+- FOI opened: gap_vl_persona_agodi_cash (ready, human send) — not sent
+- Next: prio5 **rq_489**; deferred **rq_116** SWA
+

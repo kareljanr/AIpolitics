@@ -8618,3 +8618,29 @@ bud_fwb_etnic_fte_2024,etnic,2024,0,,,stock_fte,src_ccrek_fwb_it_carrieres_2026,
 bud_fwb_cepage_team_fte,etnic,2024,0,,,stock_fte,src_ccrek_fwb_it_carrieres_2026,strong,Cepage team 10.6 FTE Etnic+AGE Mar2024; amount0=stock; tick496
 bud_vl_persona_agodi_16m,sec_flanders,2026,16000000,,,outturn_sunk,src_ccrek_fwb_it_carrieres_2026,strong,CoA cites AGODI Persona stopped Jan2026 after 16m for less than 10pct features; dual Cepage; tick496
 bud_dual_it_edu_payroll_risk,gg_belgium,2026,95700000,,,estimate,src_dual_it_payroll_edu_tick496,strong,Dual IT payroll risk class Cepage 95.7m path + Persona 16m sunk + I-Police 77m; tick496
+bud_vl_ov_vak_2026,vlaanderen_gov,2026,17250000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Onderwijs en Vorming VAK 17.25bn BO2026; tick497
+bud_vl_ov_vek_2026,vlaanderen_gov,2026,17240000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Onderwijs en Vorming VEK 17.24bn BO2026; tick497
+bud_vl_ov_vak_2025,vlaanderen_gov,2025,16850000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,OV VAK 16.85bn 2025; tick497
+bud_vl_ov_vek_2025,vlaanderen_gov,2025,16810000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,OV VEK 16.81bn 2025; tick497
+bud_vl_ov_delta_vak_2026,vlaanderen_gov,2026,404500000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,OV VAK +404.5m 2025-26 (~2.4pct); tick497
+bud_vl_ov_savings_coalition_2026,vlaanderen_gov,2026,141000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Coalition education savings package 141m 2026 (was 20m 2025); tick497
+bud_vl_ov_savings_extra_2026,vlaanderen_gov,2026,180600000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Extra OV savings impact BO2026 180.6m of 1.5bn gov package; tick497
+bud_vl_ov_save_subs_2026,vlaanderen_gov,2026,4700000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Subsidies cut/reform 4.7m OV share (gov subs 70->210m path doubled not tripled for OV); tick497
+bud_vl_ov_save_so_growth_2026,vlaanderen_gov,2026,50000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Temper secondary growth 50m 2026; tick497
+bud_vl_ov_save_levensbeschouwing_2026,vlaanderen_gov,2026,33300000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Reform levensbeschouwelijke vakken save 33.3m; tick497
+bud_vl_ov_save_vo_2026,vlaanderen_gov,2026,50000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Volwassenenonderwijs savings path to 50m 2026; tick497
+bud_vl_ov_save_digisprong_2026,vlaanderen_gov,2026,6000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Extra 6m on Digisprong provisie (of 10m per-minister effort); tick497
+bud_vl_ov_defer_inductie_2026,vlaanderen_gov,2026,10000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Defer expansion inductie 10m 2026; tick497
+bud_vl_ov_defer_nederlands_2026,vlaanderen_gov,2026,35000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Defer Nederlands expansion 35m 2026; tick497
+bud_vl_ov_invest_extra_2026,vlaanderen_gov,2026,412000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Extra invest class 412m 2026 (digi 154 + infra 20 + NL 80+10 + inductie ~39 + zijinstroom 14 + tso/bso 18 + HO 6.7); tick497
+bud_vl_ov_digi_invest_2026,vlaanderen_gov,2026,154000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Digitalisering invest 154m of 412m package; tick497
+bud_vl_ov_kleuter_leerplicht_delta_2026,vlaanderen_gov,2026,304800000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Kleuter+leerplicht +304.8m (index 246 + SO pupils 59 - ba 16 + leersteun 11 class); tick497
+bud_vl_ov_ho_delta_2026,vlaanderen_gov,2026,30500000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Hoger onderwijs +30.5m 1.2pct; tick497
+bud_vl_ov_ho_brussel_cut_2026,vlaanderen_gov,2026,10600000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Brussel middelen HO cut 10.6m; tick497
+bud_vl_ov_ho_niet_eer_save_2026,vlaanderen_gov,2026,20200000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Niet-EER student financing reform save ~20.2m; tick497
+bud_vl_ov_ho_werkingsmiddelen_cut_2026,vlaanderen_gov,2026,10300000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,HO werkingsmiddelen -10.3m univ+hogescholen; tick497
+bud_vl_ov_leraar_specialist_provisie_2026,vlaanderen_gov,2026,15700000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,Leraar-specialist 15.7m back to provisie (measure underperformed); tick497
+bud_vl_agodi_provisie_kleuter_2026,agodi,2026,26700000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,AGODI provisie 26.7m kleuter; tick497
+bud_vl_agodi_provisie_lager_2026,agodi,2026,40000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,AGODI provisie 40m lager (of which 20m immediate class); tick497
+bud_vl_persona_sunk_16m,agodi,2026,16000000,,,outturn_sunk,src_ccrek_persona_agodi_16m,strong,Persona IT stop Jan2026 after 16m less than 10pct features CoA primary; dual Cepage; tick497
+bud_dual_edu_vl_fwb_2026,gg_belgium,2026,17250000000,,,derived,src_dual_edu_vl_fwb_it_tick497,strong,Dual VL OV 17.25bn vs FWB edu personnel 7.1bn different perimeter; tick497
