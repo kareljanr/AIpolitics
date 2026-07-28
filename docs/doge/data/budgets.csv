@@ -6810,3 +6810,36 @@ bud_inami_inv_indep_reg_wal_2025,riziv,2025,12979,,,headcount,src_inami_invalidi
 bud_inami_inv_indep_reg_bru_2025,riziv,2025,4037,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv region bru stock 4037 eoy 2025; tick424
 bud_inami_inv_indep_reg_abroad_2025,riziv,2025,861,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv region abroad stock 861 eoy 2025; tick424
 bud_inami_inv_total_sal_indep_cash_2025,riziv,2025,10638089584,,,outturn,src_inami_invalidite_indep_2025,strong,Dual recon sal 9.971120879bn tick421 + indep 667.0m = 10.638bn total inv cash 2025; tick424
+bud_inami_primaire_cash_2019,riziv,2019,1942869336,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire sal+chom cash total EUR 1942869336 (+7.09% YoY); tick425
+bud_inami_primaire_cash_2020,riziv,2020,1960489665,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire sal+chom cash total EUR 1960489665 (+0.91% YoY); tick425
+bud_inami_primaire_cash_2021,riziv,2021,2037747210,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire sal+chom cash total EUR 2037747210 (+3.94% YoY); tick425
+bud_inami_primaire_cash_2022,riziv,2022,2378709447,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire sal+chom cash total EUR 2378709447 (+16.73% YoY); tick425
+bud_inami_primaire_cash_2023,riziv,2023,2651993989,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire sal+chom cash total EUR 2651993989 (+11.49% YoY); tick425
+bud_inami_primaire_days_2019,riziv,2019,38820221,,,volume_days,src_inami_primaire_sal_2023,strong,INAMI primaire days 38820221 (+5.04% YoY); tick425
+bud_inami_primaire_days_2020,riziv,2020,37673026,,,volume_days,src_inami_primaire_sal_2023,strong,INAMI primaire days 37673026 (-2.96% YoY); tick425
+bud_inami_primaire_days_2021,riziv,2021,37961903,,,volume_days,src_inami_primaire_sal_2023,strong,INAMI primaire days 37961903 (+0.77% YoY); tick425
+bud_inami_primaire_days_2022,riziv,2022,41290687,,,volume_days,src_inami_primaire_sal_2023,strong,INAMI primaire days 41290687 (+8.77% YoY); tick425
+bud_inami_primaire_days_2023,riziv,2023,42880272,,,volume_days,src_inami_primaire_sal_2023,strong,INAMI primaire days 42880272 (+3.85% YoY); tick425
+bud_inami_primaire_avg_day_2019,riziv,2019,5005,,,unit_cost_cents,src_inami_primaire_sal_2023,strong,INAMI primaire avg day EUR 50.05 stored cents 5005 (+1.95% YoY); tick425
+bud_inami_primaire_avg_day_2020,riziv,2020,5204,,,unit_cost_cents,src_inami_primaire_sal_2023,strong,INAMI primaire avg day EUR 52.04 stored cents 5204 (+3.98% YoY); tick425
+bud_inami_primaire_avg_day_2021,riziv,2021,5368,,,unit_cost_cents,src_inami_primaire_sal_2023,strong,INAMI primaire avg day EUR 53.68 stored cents 5368 (+3.15% YoY); tick425
+bud_inami_primaire_avg_day_2022,riziv,2022,5761,,,unit_cost_cents,src_inami_primaire_sal_2023,strong,INAMI primaire avg day EUR 57.61 stored cents 5761 (+7.32% YoY); tick425
+bud_inami_primaire_avg_day_2023,riziv,2023,6185,,,unit_cost_cents,src_inami_primaire_sal_2023,strong,INAMI primaire avg day EUR 61.85 stored cents 6185 (+7.36% YoY); tick425
+bud_inami_primaire_ouv_cash_2023,riziv,2023,1330233854,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire ouvriers cash 1330233854 (50.2pct of total); days 22856942; avg 58.2; tick425
+bud_inami_primaire_emp_cash_2023,riziv,2023,1321760135,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,INAMI primaire employes cash 1321760135 (49.8pct); days 20023330; avg 66.01; tick425
+bud_inami_primaire_periods_ended_2023,riziv,2023,439895,,,case_volume,src_inami_primaire_sal_2023,strong,Periods ended 2023 439895; long 338-365d 81008 (18.42pct transition-to-invalidity class); tick425
+bud_inami_primaire_long_duration_2023,riziv,2023,81008,,,case_volume,src_inami_primaire_sal_2023,strong,Periods 338-365 days ended 2023 81008; likely invalidity pipeline; tick425
+bud_inami_primaire_indemnisables_2023,riziv,2023,3914151,,,insured_stock,src_inami_primaire_sal_2023,strong,Indemnisables stock eoy 2023 3914151 (+1.08pct; insured base not caseload); tick425
+bud_inami_primaire_covid_suppl_2021,riziv,2021,268354552,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,Covid supplement primaire cash 268354552 (days 19837912); residual to main series; tick425
+bud_inami_primaire_covid_suppl_2022,riziv,2022,156930555,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,Covid supplement primaire cash 156930555; tick425
+bud_inami_primaire_covid_suppl_2023,riziv,2023,312470,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,Covid supplement primaire residual cash 312470; tick425
+bud_inami_primaire_cash_path_2019_23,riziv,2023,2651993989,,,outturn_indemnities,src_inami_primaire_sal_2023,strong,Path cash 2019-23: 1.943/1.960/2.038/2.379/2.652 bn; +36.5pct since 2019; dual invalidite multi-bn residual short-term channel; tick425
+bud_secm_grief_2025,riziv,2025,15866666,,,control_detected,src_inami_secm_2025,strong,SECM grief total 15.86666558m detected undue billings 2025 (+4.16m vs 11.708m 2024); 334 controls closed; tick425
+bud_secm_grief_2024,riziv,2024,11707938,,,control_detected,src_inami_secm_2025,strong,SECM grief 11.70793829m 2024; dual press; tick425
+bud_secm_vol_remb_2025,riziv,2025,10444669,,,recovery,src_inami_secm_2025,strong,SECM voluntary repayment 10.44466864m of 15.87m grief 2025; tick425
+bud_secm_fraud_dossiers_2025,riziv,2025,4343879,,,control_detected,src_inami_secm_2025,strong,SECM 47 fraud dossiers 4.34387865m (non-performed services class); 287 non-fraud errors; tick425
+bud_secm_institutions_grief_2025,riziv,2025,9000000,,,control_detected,src_inami_secm_2025,medium,SECM institutions (mainly hospitals) 88 actions >9m grief 2025 (press approx lower-bound 9m); tick425
+bud_secm_dentists_grief_2025,riziv,2025,2423134,,,control_detected,src_inami_secm_2025,strong,SECM dentists 123 dossiers 2.42313364m grief 2025; tick425
+bud_secm_medecins_grief_2025,riziv,2025,2577501,,,control_detected,src_inami_secm_2025,strong,SECM medecins 46 dossiers 2.57750052m grief 2025 (press); tick425
+bud_secm_staff_2025,riziv,2025,211,,,fte_count,src_inami_secm_2025,strong,SECM staff eoy 2025 211 (down from 237 2024); recruit +25 inspectors announced; tick425
+bud_secm_actions_2025,riziv,2025,334,,,control_volume,src_inami_secm_2025,strong,SECM closed controls 334 (2024: 483); higher severity per case; tick425

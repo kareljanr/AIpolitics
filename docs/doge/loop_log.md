@@ -4919,3 +4919,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +18; cmt +2; lb +3; raw 2 PDFs; rq_415=done; spawn **rq_416**; ticks=424
 - FOI: none new (prior indep cash gap already closed tick423)
 - Next: prio5 **rq_416**; deferred **rq_116** SWA
+
+### 2026-08-02T03:15:00Z - tick 425
+- Unit: **rq_416** (FOI-adjacent hole-fill - **INAMI incapacity primaire 2019-2023 + SECM control 2025**)
+- Found (strong primary INAMI PDFs + SECM RA/press):
+  - **Primaire cash sal+chom:** **EUR 1.943 -> 2.652bn** 2019-23 (+11.49% YoY 2023; **+36.5%** since 2019)
+  - **Days** 38.82 -> **42.88m** · **avg day EUR 50.05 -> 61.85** (+7.36% YoY)
+  - Split 2023: ouvriers **1.330bn** (avg 58.20) · employes **1.322bn** (avg 66.01)
+  - Periods ended **439.895**; long **338-365d = 81.008 (18.42%)** invalidity pipeline class
+  - Indemnisables stock eoy **3.914m** (+1.08%); covid suppl residual **0.31m** 2023
+  - **SECM 2025:** grief **15.867m** (vs 11.708m 2024); vol remb **10.445m**; fraud 47 dossiers **4.344m**; actions **334** (was 483); staff **211**
+  - Dual: primaire short-term channel vs invalidite multi-bn long-term (tick421-424); residual **2024-25 primaire full tables** not yet on portal
+- Wrote: sources +2; budgets +33; cmt +2; lb +6; raw 4 PDFs (3 primaire + SECM); rq_416=done; spawn **rq_417**; ticks=425
+- FOI: none new (2024-25 primaire lag normal publication cycle; optional recheck later; gap_antifraud residual unchanged)
+- Next: prio5 **rq_417**; deferred **rq_116** SWA

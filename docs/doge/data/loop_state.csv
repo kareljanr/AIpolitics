@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T02:45:00Z,rq_415,424,no,Scheduler 60s. Next prio5 rq_416; rq_116 SWA deferred. tick424 INAMI indep inv 667m 2025.
+main,continuous,hole_fill,2026-08-02T03:15:00Z,rq_416,425,no,Scheduler 60s. Next prio5 rq_417; rq_116 SWA deferred. tick425 INAMI primaire 2.65bn 2023 + SECM 15.87m.
