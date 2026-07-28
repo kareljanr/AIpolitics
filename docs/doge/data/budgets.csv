@@ -9186,3 +9186,12 @@ bud_dbfm_4prisons_paid_eoy2025,regie_gebouwen,2025,369800000,,,outturn,src_kamer
 bud_dbfm_4prisons_remain,regie_gebouwen,2025,949300000,,,stock,src_kamer_expose_dbfm_table41_2026,strong,Table41 remain invest fee 4 prisons 949.3m (~950m text); tick534
 bud_dbfm_4prisons_annual_invest,regie_gebouwen,2025,52900000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 annual invest fees 4 prisons 52.9m (~53m text); excl Dendermonde variable + Antwerp; tick534
 bud_dual_dbfm_fees_table41,gg_belgium,2025,52900000,,,derived,src_dual_dbfm_fees_table41_tick534,strong,Dual Regie+Justice DBFM invest fee path public Table41; maint residual FOI; tick534
+bud_tact_due_p1,fod_finance,2021,470203035,,,outturn,src_ccrek_tact_2024,strong,CoA: TACT due first reference period 470.203m; tick535
+bud_tact_due_p2,fod_finance,2022,395390851,,,outturn,src_ccrek_tact_2024,strong,CoA: TACT due second period 395.391m (~-16pct vs p1); tick535
+bud_tact_due_p3_prov,fod_finance,2023,362103426,,,estimate,src_ccrek_tact_2024,strong,CoA provisional third period 362.103m (intermediaries+companies); further decline; tick535
+bud_tact_budget_est_2021,fod_finance,2021,397800000,,,budget,src_ccrek_tact_2024,strong,CoA: TACT budgeted estimate 397.8m 2021; actual due 470.2m above; tick535
+bud_tact_budget_est_2022,fod_finance,2022,428600000,,,budget,src_ccrek_tact_2024,strong,CoA: TACT budgeted 428.6m 2022; actual due 395.4m below target; tick535
+bud_tact_perceived_two_periods,fod_finance,2023,814419186,,,outturn,src_ccrek_tact_2024,strong,CoA: of 859.208m due two periods after restitutions net 814.419m perceived by end Aug 2023; tick535
+bud_tact_restitutions_cum,fod_finance,2023,6386099,,,outturn,src_ccrek_tact_2024,strong,CoA restitutions GE 5.763m + P 0.036m + PME 0.546m + moratory interest 0.042m = 6.386m; ~80pct nominative conversion+cash; tick535
+bud_tact_self_decl_drop_p2,fod_finance,2022,-4647764,,,outturn,src_ccrek_tact_2024,strong,CoA: self-declarer TACT p1 20.248m p2 15.600m drop 4.648m (-23pct); foreign accounts risk; tick535
+bud_dual_tact_caiman,gg_belgium,2022,395390851,,,derived,src_dual_tact_caiman_wealth_tick535,strong,Dual TACT stock tax path vs Cayman; not additive TE; tick535

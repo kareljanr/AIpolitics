@@ -6445,3 +6445,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +11; cmt +2; lb +6; FOI **gap_dbfm_maint_facility_fees_l5** ready+draft; updated prior gap_dbfm_fees note; raw exposé PDF; rq_525=done spawn **rq_526**; ticks=534
 - FOI: gap_dbfm_maint_facility_fees_l5 ready (not sent); prior invest-fee gap partially filled public
 - Next: prio5 **rq_526**; deferred **rq_116** SWA
+
+### 2026-07-29T07:45:00Z - tick 535
+- Unit: **rq_526** (FOI-adjacent hole-fill — **CoA 2024_42 TACT annual securities-account tax dual wealth**)
+- Found (strong primary Cour des comptes + press/synthèse Oct 2024):
+  - **Due:** p1 **€470.203m** · p2 **€395.391m** (−16%) · p3 prov **€362.103m** (further decline)
+  - **Budget est:** 2021 **€397.8m** (actual above) · 2022 **€428.6m** (actual below)
+  - **Two periods net:** due after restitutions **€859.2m** · perceived end-Aug 2023 **€814.4m**
+  - **Restitutions €6.39m** (~80% nominative conversion + cash; ~80% conversion claims accepted)
+  - Self-declarers **€20.2m → €15.6m** (−23%); foreign accounts not systematically matched
+  - Const Court Oct 2022 annulled irrefragable anti-abuse (account split + nominative conversion)
+  - No digital filing / First incomplete → risk analysis & evaluation excluded until digitisation **≤2028**
+  - Rate remains **0.15%** threshold **€1m** (budget 2026 double to 0.30 / +€414m path prior fill)
+  - **Dual:** TACT stock wealth tax decline vs Cayman under-collection / NBB rising financial wealth
+- Wrote: sources +3; budgets +9; cmt +2; lb +7; FOI **gap_tact_digital_kpi_l5** ready+draft; raw PDF+press+synth; rq_526=done spawn **rq_527**; ticks=535
+- FOI opened: gap_tact_digital_kpi_l5 (ready, human send) — not sent
+- Next: prio5 **rq_527**; deferred **rq_116** SWA
