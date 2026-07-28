@@ -5252,3 +5252,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entity nationale_loterij; budgets +24; cmt +1; lb +10; rq_439=done; spawn **rq_440**; ticks=448
 - FOI: none new (optional verdelingsplan top-L5 later if KB PDF not public)
 - Next: prio5 **rq_440**; deferred **rq_116** SWA
+
+### 2026-08-02T15:15:00Z - tick 449
+- Unit: **rq_440** (FOI-adjacent hole-fill - **Nationale Loterij verdelingsplan 2024 provisional L5 full table**)
+- Found (strong primary KB 2 jun 2024 OpenJustice provisional plan; definitive total from AR/Stradalex):
+  - **Provisional total EUR 200.0m** · **definitive 217.5m** (+17.5m extra matches AR)
+  - **Cat1 deelstaten 54.88m (27.44%):** VL **33.121738m** · FWB **21.295733m** · DG **0.462529m**
+  - **Cat2:** DGD **84.708565m** (largest) · KBF **9.8m** (dual KBF pie path)
+  - **Named L5 sample:** Unia **4.309m** · Myria **1.077m** · IEFH **0.15m** · BOIC **1.855m** · Olympic Talents **1.5m** · BPC **0.375m** · Bozar **3.095m** · Munt **1.489m** · NOB **1.484m** · Antigif **2.2m** · Child Focus **1.6m** · Rode Kruis **1.634m** · Regie Gebouwen **3.088m** · Nationaal Prestige **10.656m** · Sports fed **2.7m** · calls armoede+SDG **3.0m**
+  - Dual: equality bodies lottery lines narrow Unia/Myria FOI residuals; culture protocol Bozar/Munt/NOB
+  - Residual: definitive KB full table delta allocation of +17.5m not extracted this tick
+- Wrote: sources +2; entity boic; budgets +25; cmt +1; lb +10; rq_440=done; spawn **rq_441**; ticks=449
+- FOI: none new (provisional L5 public; optional FOI only for Nationaal Prestige sub-list if needed later)
+- Next: prio5 **rq_441**; deferred **rq_116** SWA

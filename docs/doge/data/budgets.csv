@@ -7992,3 +7992,28 @@ bud_nloterij_kbf_dual_10m,nationale_loterij,2026,10000000,,,budget,src_kbf_budge
 bud_nloterij_euromillions_2025,nationale_loterij,2025,527500000,,,outturn,src_nloterij_jaarcijfers_2025,medium,Wikipedia/press EuroMillions 527.5m 2025 incl My Bonus; dual AR; tick448
 bud_nloterij_lotto_2025,nationale_loterij,2025,482200000,,,outturn,src_nloterij_jaarcijfers_2025,medium,Wikipedia/press Lotto 482.2m 2025; tick448
 bud_nloterij_outlets_2024,nationale_loterij,2024,6727,,,count,src_nloterij_jv_2024,strong,Sales points 6727 EOY2024; tick448
+bud_nloterij_plan_voorlopig_2024,nationale_loterij,2024,200000000,,,budget,src_nloterij_kb_voorlopig_2024,strong,KB provisional verdelingsplan 200m base (before +17.5m definitive 217.5m); tick449
+bud_nloterij_plan_definitief_2024,nationale_loterij,2024,217500000,,,budget,src_nloterij_kb_definitief_2024_note,strong,Definitive plan total 217.5m matches AR goederen doelen; tick449
+bud_nloterij_vl_gemeenschap_2024,vlaanderen_gov,2024,33121738,,,budget,src_nloterij_kb_voorlopig_2024,strong,Vlaamse Gemeenschap NL share provisional 33.121738m (BFW art); tick449
+bud_nloterij_fwb_gemeenschap_2024,fwb_gov,2024,21295733,,,budget,src_nloterij_kb_voorlopig_2024,strong,Franse Gemeenschap NL share provisional 21.295733m; tick449
+bud_nloterij_dg_gemeenschap_2024,sec_dg,2024,462529,,,budget,src_nloterij_kb_voorlopig_2024,strong,Duitstalige Gemeenschap NL share provisional 0.462529m; tick449
+bud_nloterij_deelstaten_sum_2024,nationale_loterij,2024,54880000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Deelstaten total 54.88m = 27.44pct of 200m provisional; tick449
+bud_nloterij_dgd_2024,dgd,2024,84708565,,,budget,src_nloterij_kb_voorlopig_2024,strong,DGD programmes developing countries provisional 84.708565m largest single line; dual DGD AR; tick449
+bud_nloterij_kbf_2024_plan,kbf,2024,9800000,,,budget,src_nloterij_kb_voorlopig_2024,strong,KBF statutory lottery 9.8m provisional 2024 (dual KBF pie 10m 2026); tick449
+bud_nloterij_unia_2024,unia_interfederal,2024,4308698,,,budget,src_nloterij_kb_voorlopig_2024,strong,Unia NL line provisional 4.308698m dual multi-entity funding; tick449
+bud_nloterij_myria_2024,myria,2024,1077174,,,budget,src_nloterij_kb_voorlopig_2024,strong,Myria NL line provisional 1.077174m dual federal AB; tick449
+bud_nloterij_iefh_2024,iefh,2024,150000,,,budget,src_nloterij_kb_voorlopig_2024,strong,IEFH NL line provisional 0.15m; tick449
+bud_nloterij_boic_2024,boic,2024,1855000,,,budget,src_nloterij_kb_voorlopig_2024,strong,BOIC werking provisional 1.855m; dual Olympic Talents 1.5m separate; tick449
+bud_nloterij_bpc_2024,boic,2024,375000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Belgian Paralympic Committee werking 0.375m provisional; tick449
+bud_nloterij_olympic_talents_2024,boic,2024,1500000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Olympic Talents ABCD projects 1.5m provisional; tick449
+bud_nloterij_bozar_2024,nationale_loterij,2024,3095000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Bozar/Paleis Schone Kunsten 3.095m provisional; tick449
+bud_nloterij_muntschouwburg_2024,nationale_loterij,2024,1488750,,,budget,src_nloterij_kb_voorlopig_2024,strong,Koninklijke Muntschouwburg 1.48875m provisional; tick449
+bud_nloterij_nob_2024,nationale_loterij,2024,1483500,,,budget,src_nloterij_kb_voorlopig_2024,strong,Nationaal Orkest Belgie 1.4835m provisional; tick449
+bud_nloterij_child_focus_2024,nationale_loterij,2024,1600000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Child Focus werking 1.6m provisional; tick449
+bud_nloterij_antigif_2024,nationale_loterij,2024,2200000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Antigifcentrum 2.2m provisional; tick449
+bud_nloterij_rode_kruis_2024,nationale_loterij,2024,1634000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Rode Kruis werking 1.514m + repatriates 0.12m = 1.634m provisional; tick449
+bud_nloterij_regie_gebouwen_2024,nationale_loterij,2024,3087872,,,budget,src_nloterij_kb_voorlopig_2024,strong,Regie der Gebouwen nationaal patrimonium 3.087872m provisional; tick449
+bud_nloterij_sarc_2024,nationale_loterij,2024,1616180,,,budget,src_nloterij_kb_voorlopig_2024,strong,Sexual Assault Referral Centres project 1.61618m provisional; tick449
+bud_nloterij_nationaal_prestige_2024,nationale_loterij,2024,10655918,,,budget,src_nloterij_kb_voorlopig_2024,strong,Nationaal Prestige pot 10.655918m provisional (sub L5 residual); tick449
+bud_nloterij_sports_fed_2024,nationale_loterij,2024,2700000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Belgian Sports Federations and National Teams 2.7m provisional; tick449
+bud_nloterij_calls_armoede_sdg_2024,nationale_loterij,2024,3000000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Project calls armoede 1.5m + duurzame ontwikkeling 1.5m = 3m provisional; tick449
