@@ -5562,3 +5562,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +16; cmt +2; lb +7; entities +3; FOI **gap_paola_tco** ready+draft; raw Paola PDF; rq_464=done spawn **rq_465**; ticks=473
 - FOI opened: gap_paola_tco (ready, human send)
 - Next: prio5 **rq_465** (UCI Art5 races / Leesbevordering operators / Interfed poverty dual / residual); deferred **rq_116** SWA
+
+### 2026-08-03T03:45:00Z — tick 474
+- Unit: **rq_465** (FOI-adjacent hole-fill — **poverty dual stack 2.61m + homeless innovation NL 1.28m**)
+- Found (strong plan + Interfed service structure + prior VL Netwerk):
+  - **Homeless social innovation cat3.15 EUR 1.275725m** definitive (named city L5 residual)
+  - **Poverty dual core stack EUR 2.612m** = Interfed NL **200k** + BNA NL **150k** + VL Netwerk **986k** (prior) + homeless innov **1.276m**
+  - **NL poverty project call cat4.3 EUR 2.5m** (winners residual FOI) — not double-counted in core stack
+  - Interfed service: multi-entity Comité de gestion elaborates budget; host Place Victor Horta 40 CNTR; NL logo support; **structural multi-entity cash opaque**
+- Wrote: sources +3; budgets +5; cmt +2; lb +5; entity interfed note; FOI **gap_interfed_poverty_budget** + **gap_nl_homeless_l5** ready+drafts; rq_465=done spawn **rq_466**; ticks=474
+- FOI opened: 2 ready (human send)
+- Next: prio5 **rq_466** (UCI Art5 / Leesbevordering / residual project calls); deferred **rq_116** SWA
