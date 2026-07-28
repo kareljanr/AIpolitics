@@ -6398,3 +6398,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +10; cmt +2; lb +7; FOI **gap_secal_recovery_kpi_l5** ready+draft; raw PDF+press; rq_522=done spawn **rq_523**; ticks=531
 - FOI opened: gap_secal_recovery_kpi_l5 (ready, human send) — not sent
 - Next: prio5 **rq_523**; deferred **rq_116** SWA
+
+### 2026-07-29T07:00:00Z - tick 532
+- Unit: **rq_523** (FOI-adjacent hole-fill — **CoA Taxe Caïman 2023 + suivi 2025 dual federal/regions**)
+- Found (strong primary CoA 2023_13 + 2026_01 suivi AG 10 Dec 2025 + press 12 Jan 2026):
+  - **Budget estimates:** **€50m** 2015 · **€460m** 2016; no separate line from 2017; **+€50m** 2.0 path 2018
+  - **Indicative realized class:** **€160.98m** (spontaneous PM + controls) · **€181.37m** incl leak dossiers — well below early budgets
+  - **Agisi:** 45 cases · enrolled **€92.44m** · collected **€11.25m (12.17%)** by Jun 2022
+  - **AGFisc:** fines non-declaration **€2.06m** + tax supplements **€0.65m**
+  - **Suivi 2025 recs:** **6 done · 4 progress · 4 not** of 14; annex **276 CJC** (measure method) but AGESS still no receipt calc to CoA
+  - **Const Court 18 Sep 2025:** partial annul 2.1 (dedicated funds 50% without counter-proof; substance EU law; exit tax Belgian period; CFC non-residents)
+  - Exit tax: **50** founders identified; **73** founders left BE since 2024
+  - **Dual:** federal Caiman vs regional succession capital; Vlabel NCD blocked security; concertation autumn 2025 start only
+- Wrote: sources +4; budgets +10; cmt +2; lb +7; FOI **gap_caiman_receipts_l5** ready+draft; raw PDFs; rq_523=done spawn **rq_524**; ticks=532
+- FOI opened: gap_caiman_receipts_l5 (ready, human send) — not sent
+- Next: prio5 **rq_524**; deferred **rq_116** SWA

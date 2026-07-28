@@ -9153,3 +9153,13 @@ bud_secal_stock_receivables_2024,fod_finance,2024,452700000,,,stock,src_ccrek_se
 bud_secal_impairment_2024,fod_finance,2024,403300000,,,stock,src_ccrek_secal_suivi_2025,strong,CoA: reduction de valeur 403.3m on 452.7m stock (insolvency-heavy); CoA questions accounting reliability; tick531
 bud_secal_undue_advances_2023_25,fod_finance,2025,1557712,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA: undue advances 1.558m on 1599 dossiers 13 Jun 2023-13 Jun 2025; ~2/3 recovered by 13 Jun 2025; tick531
 bud_dual_secal_fin_jus,gg_belgium,2024,38790023,,,derived,src_dual_secal_finance_justice_tick531,strong,Dual SECAL advances flow under dual Finances-Justice recovery stack; not additive TE; tick531
+bud_caiman_budget_est_2015,fod_finance,2015,50000000,,,budget,src_ccrek_taxe_caiman_2023,strong,CoA: budgeted Caiman receipts estimate 50m 2015; tick532
+bud_caiman_budget_est_2016,fod_finance,2016,460000000,,,budget,src_ccrek_taxe_caiman_2023,strong,CoA: budgeted Caiman receipts estimate 460m 2016; not separately listed from 2017; tick532
+bud_caiman_indicative_receipts_class,fod_finance,2022,160977048,,,estimate,src_ccrek_taxe_caiman_2023,strong,CoA indicative realized class 160.98m spontaneous PM + controls; 181.37m incl leaks dossiers; well below 2015-16 budget est; tick532
+bud_caiman_indicative_receipts_leaks,fod_finance,2022,181367812,,,estimate,src_ccrek_taxe_caiman_2023,strong,CoA: indicative 181.37m incl leak-related dossiers with possible Caiman; tick532
+bud_caiman_agisi_enrolled,fod_finance,2022,92441361,,,outturn,src_ccrek_taxe_caiman_2023,strong,CoA: Agisi 45 Taxe Caiman sector cases enrolled 92.44m taxes; tick532
+bud_caiman_agisi_collected,fod_finance,2022,11253013,,,outturn,src_ccrek_taxe_caiman_2023,strong,CoA: of Agisi enrolled only 11.25m (12.17pct) collected by Jun 2022; tick532
+bud_caiman_agfisc_fines,fod_finance,2022,2057650,,,outturn,src_ccrek_taxe_caiman_2023,strong,CoA: AGFisc 3 control actions fines non-declaration 2.058m; tick532
+bud_caiman_agfisc_tax_supplements,fod_finance,2022,648417,,,outturn,src_ccrek_taxe_caiman_2023,strong,CoA: AGFisc tax supplements enrolled 0.648m; tick532
+bud_caiman_budget_extra_2018_2_0,fod_finance,2018,50000000,,,budget,src_ccrek_taxe_caiman_2023,strong,CoA: +50m estimate added to base fiscal receipts for Caiman 2.0 path 2018; tick532
+bud_dual_caiman_fed_reg,gg_belgium,2022,160977048,,,derived,src_dual_caiman_fed_regions_tick532,strong,Dual Caiman federal receipt class vs regional succession capital gap; not additive TE; tick532

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T06:45:00Z,rq_522,531,no,Tick531 CoA SECAL advances 38.8m stock 453m impair 403m dual Justice; next prio5 rq_523; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T07:00:00Z,rq_523,532,no,Tick532 CoA Taxe Caiman 50/460m budget vs 161-181m Agisi collect 12pct dual Vlabel; next prio5 rq_524; rq_116 SWA deferred.
