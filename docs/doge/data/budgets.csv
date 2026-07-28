@@ -9046,3 +9046,18 @@ bud_justsign_licenses_720k_yr,fod_justice,2024,720000,,,budgeted,src_ccrek_justi
 bud_justsign_bpost_fix_3_5m,fod_justice,2020,3500000,,,outturn,src_ccrek_justice_phv_l5_2025,strong,bpost vastlegging 3.5m of 5.8m on 23 Dec 2020 prog 56.05 traffic fines; tick521
 bud_justsign_bpost_fix_2_3m,fod_justice,2020,2300000,,,outturn,src_ccrek_justice_phv_l5_2025,strong,bpost vastlegging 2.3m of 5.8m on 23 Dec 2020 prog 56.05; tick521
 bud_dual_justice_phv_prison_12m,gg_belgium,2021,12000000,,,derived,src_dual_justice_phv_prison_tick521,strong,Dual PHV prison platforms 12m under digi stack vs DBFM prisons; tick521
+bud_siod_inspect_extra_credits_2021_24,sec_ss,2024,18283000,,,outturn,src_ccrek_hr_siod_2025,strong,Extra personnel credits 18.283m 2021-24 for 270 VTE social inspectors; tick522
+bud_siod_inspect_extra_2021,sec_ss,2021,218000,,,outturn,src_ccrek_hr_siod_2025,strong,Extra credits 0.218m 2021; tick522
+bud_siod_inspect_extra_2022,sec_ss,2022,3501000,,,outturn,src_ccrek_hr_siod_2025,strong,Extra credits 3.501m 2022; tick522
+bud_siod_inspect_extra_2023,sec_ss,2023,11737000,,,outturn,src_ccrek_hr_siod_2025,strong,Extra credits 11.737m 2023 peak; tick522
+bud_siod_inspect_extra_2024,sec_ss,2024,2827000,,,outturn,src_ccrek_hr_siod_2025,strong,Extra credits 2.827m 2024; tick522
+bud_siod_inspect_wage_2021,sec_ss,2021,127224953,,,outturn,src_ccrek_hr_siod_2025,strong,Social inspection+SIOD wage bill 127.2m 2021; tick522
+bud_siod_inspect_wage_2024,sec_ss,2024,148115025,,,outturn,src_ccrek_hr_siod_2025,strong,Social inspection+SIOD wage bill 148.1m 2024 (+16.4pct); tick522
+bud_rsz_inspect_wage_2024,rsz,2024,56150452,,,outturn,src_ccrek_hr_siod_2025,strong,RSZ inspection wage 56.15m 2024; tick522
+bud_rva_inspect_wage_2024,onem_rva,2024,22601200,,,outturn,src_ccrek_hr_siod_2025,medium,RVA inspection wage 22.6m 2024 provisional CoA; tick522
+bud_rsvz_inspect_wage_2024,rsvz,2024,13348818,,,outturn,src_ccrek_hr_siod_2025,strong,RSVZ inspection wage 13.35m 2024; tick522
+bud_riziv_inspect_wage_2024,riziv,2024,12974560,,,outturn,src_ccrek_hr_siod_2025,strong,RIZIV inspection wage 12.97m 2024; tick522
+bud_ad_tsw_inspect_wage_2024,fod_waso,2024,25552025,,,outturn,src_ccrek_hr_siod_2025,strong,AD TSW WASO inspection wage 25.55m 2024; tick522
+bud_ad_tww_inspect_wage_2024,fod_waso,2024,15654669,,,outturn,src_ccrek_hr_siod_2025,strong,AD TWW WASO inspection wage 15.65m 2024; tick522
+bud_siod_experts_wage_2024,siod,2024,1833301,,,outturn,src_ccrek_hr_siod_2025,strong,SIOD experts wage 1.83m 2024; tick522
+bud_dual_siod_inspect_stack_2024,gg_belgium,2024,148115025,,,derived,src_dual_siod_inspect_hr_tick522,strong,Dual multi-agency social inspect wage 148.1m; not pure TE waste; tick522

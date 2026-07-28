@@ -6257,3 +6257,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +8; cmt +3; lb +6; FOI **gap_justice_phv_projects_l5** ready+draft; rq_512=done spawn **rq_513**; ticks=521
 - FOI opened: gap_justice_phv_projects_l5 (ready, human send) — not sent
 - Next: prio5 **rq_513**; deferred **rq_116** SWA
+
+### 2026-07-29T04:00:00Z - tick 522
+- Unit: **rq_513** (FOI-adjacent hole-fill — **CoA 2025_30 HR social inspection + SIOD dual multi-agency**)
+- Found (strong primary Rekenhof AG Sep 2025):
+  - **Extra credits €18.283m (2021–24)** for **270 VTE** social inspectors (policy notes said 248)
+  - **Net staff +8.2 VTE (+0.5%)** only: inspect **+50.6** · support **−42.4** (attrition/pensions)
+  - FTE path: **1,622.0 → 1,630.2**; inspect **1,200.5 → 1,251.1**; support **421.5 → 379.1**
+  - **Wage bill €127.2m → €148.1m** (+16.4%); RSZ **56.2m** · TSW **25.6m** · RVA **22.6m** · TWW **15.7m** · RSVZ **13.3m** · RIZIV **13.0m** · SIOD experts **1.8m**
+  - Credit split: TSW **5.84m**/83 · RSZ **5.74m**/92 · RSVZ **2.97m**/44 · TWW **1.86m**/25 · RVA **1.58m**/22 · SIOD **0.22m**/3
+  - **Dual:** 6 inspection services + SIOD coordinator vs prior SIOD fraud-yield claims
+- Wrote: sources +3; entity siod; budgets +15; cmt +2; lb +5; FOI **gap_siod_inspect_net_fte_l5** ready+draft; raw PDFs; rq_513=done spawn **rq_514**; ticks=522
+- FOI opened: gap_siod_inspect_net_fte_l5 (ready, human send) — not sent
+- Next: prio5 **rq_514**; deferred **rq_116** SWA

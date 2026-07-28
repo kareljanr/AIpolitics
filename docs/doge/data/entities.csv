@@ -1,4 +1,4 @@
-﻿entity_id,name_nl,name_fr,name_en,level,parent_id,community_language,website,foi_email,foi_postal,notes
+entity_id,name_nl,name_fr,name_en,level,parent_id,community_language,website,foi_email,foi_postal,notes
 gg_belgium,Overheid totaal (ESR),Ensemble des administrations publiques,General government,l0_general,,na,https://www.nbb.be,,,NBB/NAI ESA consolidation
 sec_federal,Federale overheid (ESA S.1311),Pouvoir fÃƒÂ©dÃƒÂ©ral (S.1311),Central/federal government S.1311,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated subsector total
 sec_ss,Sociale zekerheid (ESA S.1314),SÃƒÂ©curitÃƒÂ© sociale (S.1314),Social security funds S.1314,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated
@@ -412,3 +412,4 @@ nl_democracy_fund,Nationale Loterij Fonds voor Democratie,Fonds Loterie National
 agodi,Agentschap voor Onderwijsdiensten AGODI,Agence services enseignement Flandre,Flanders Education Services Agency,agency,vlaanderen_gov,nl,https://onderwijs.vlaanderen.be,,,Teacher payroll admin; Persona IT failure 16m; tick497
 aabbi,Algemene Administratie Bijzondere Belastinginspectie AABBI,Administration generale Inspection speciale des impots,Special Tax Inspectorate STI,agency,sec_federal,nl,https://financien.belgium.be,,,Bank auth ~700 2024; assessed 2.3bn/collected 36m 2015-24; tick506
 fam,Fonds des accidents medicaux FAM,Fonds des accidents medicaux,Medical Accidents Fund (INAMI autonomous service),agency,riziv,bi,https://www.fam.be,,,INAMI autonomous service law 31 Mar 2010; indemnifies medical accidents; ops 12.5m 2024 indemnities cumul 101.1m eoy2024; tick516
+siod,Sociale Inlichtingen- en Opsporingsdienst SIOD,SIRS Service d information et de recherche sociales,Social Information and Investigation Service fraud coordination,agency,sec_ss,bi,https://www.siod.belgie.be,,,Strategic coordinator social fraud; dual 6 inspection services; CoA HR 2025_30; tick522
