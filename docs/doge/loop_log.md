@@ -5515,3 +5515,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +15; cmt +1; lb +9; entities +7; rq_460=done spawn **rq_461** (progress@470); ticks=469
 - FOI: none new (structural public; gap_nl_fwi_irpa_l5 still covers project L5)
 - Next: **progress@470** (coverage % + waste top10); deferred **rq_116** SWA
+
+### 2026-08-03T01:45:00Z — tick 470
+- Unit: **rq_461** (**progress milestone @470** — coverage % + waste top10 refresh; no new euro invent)
+- Found (inventory + synthesis ticks 461–469 dual/NL/FWI wave):
+  - **A L0:** **100%** TE €347.956bn
+  - **B L1:** **100%** unconsol map
+  - **C L2:** **~99%** (+ BELSPO four FWI pools **€132.3m** · Cinematek dual **€4.0m** · KIK-IRPA dual **€7.0m** · LOV2030 **€72.5m** envelope)
+  - **D L5:** **~27–40%** generous (+ NL definitive **€240m** · LOV2030 plan 10.5 · Pro League 3.5 · CPVS 26.4 · Beliris culture 9.6 · Pavilion PPP · Festivals/Europalia/CRE duals)
+  - **E FOI ready:** **~223** (answered **~9**; total FOI rows **~234**)
+- Inventory: budgets ~8302 · cmt ~832 · lb ~1551 · entities ~398 · sources ~831
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; FWI/LOV/culture duals off pure waste top10
+- Dual/off-TE: NL definitive 240m · FWI 132m structural · LOV2030 multi-level · lottery stakes
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_461=done; spawn **rq_462**; ticks=470
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_462** hole-fill; deferred **rq_116** SWA
