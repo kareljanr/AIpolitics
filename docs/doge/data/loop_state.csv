@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T04:00:00Z,rq_513,522,no,Tick522 CoA HR SIOD 18.3m 270 VTE net +8.2 dual inspect; next prio5 rq_514; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T04:20:00Z,rq_514,523,no,Tick523 CoA CE BBBC RRF 28m call1 6.98m dual regions; next prio5 rq_515; rq_116 SWA deferred.

@@ -6270,3 +6270,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entity siod; budgets +15; cmt +2; lb +5; FOI **gap_siod_inspect_net_fte_l5** ready+draft; raw PDFs; rq_513=done spawn **rq_514**; ticks=522
 - FOI opened: gap_siod_inspect_net_fte_l5 (ready, human send) — not sent
 - Next: prio5 **rq_514**; deferred **rq_116** SWA
+
+### 2026-07-29T04:20:00Z - tick 523
+- Unit: **rq_514** (FOI-adjacent hole-fill — **CoA 2025_12 Circulaire economie BBBC RRF dual federal/regional**)
+- Found (strong primary Rekenhof AG 16 Apr 2025):
+  - **BBBC PHV/RRF:** **€28.97m → €28m** after BE RRF envelope cut (5.9→4.5bn)
+  - **Split:** project support **€23.66m** · SME campaign **€1.32m** · studies/consultancy **€2.3m** · staff **€0.794m**
+  - **Call 1:** **12 projects / €6.98m**; selection opacity (cabinet unilateral lower awards; projects vs memo rules)
+  - **Underuse risk** on remaining project envelope vs RRF mid-2026 deadline; PPP nv design abandoned → classic subsidies
+  - **Delivery:** Roadmap 21 → **12 done / 7 partial / 2 not**; FAP 31 → **6 full / 21 partial risk / 4 not**
+  - **Dual:** federal BBBC without regional NV coalition; WAL/VL separate CE PHV; Intra-Belgian Platform underpowered
+- Wrote: sources +3; budgets +9; cmt +3; lb +5; FOI **gap_bbbc_l5_cash** ready+draft; raw PDFs; rq_514=done spawn **rq_515**; ticks=523
+- FOI opened: gap_bbbc_l5_cash (ready, human send) — not sent
+- Next: prio5 **rq_515**; deferred **rq_116** SWA

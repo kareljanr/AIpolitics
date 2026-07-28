@@ -9061,3 +9061,12 @@ bud_ad_tsw_inspect_wage_2024,fod_waso,2024,25552025,,,outturn,src_ccrek_hr_siod_
 bud_ad_tww_inspect_wage_2024,fod_waso,2024,15654669,,,outturn,src_ccrek_hr_siod_2025,strong,AD TWW WASO inspection wage 15.65m 2024; tick522
 bud_siod_experts_wage_2024,siod,2024,1833301,,,outturn,src_ccrek_hr_siod_2025,strong,SIOD experts wage 1.83m 2024; tick522
 bud_dual_siod_inspect_stack_2024,gg_belgium,2024,148115025,,,derived,src_dual_siod_inspect_hr_tick522,strong,Dual multi-agency social inspect wage 148.1m; not pure TE waste; tick522
+bud_bbbc_rrf_28_97m,sec_federal,2021,28970000,,,commitment,src_ccrek_circulaire_economie_2025,strong,BBBC PHV/RRF initial 28.97m European funds; tick523
+bud_bbbc_rrf_28m,sec_federal,2023,28000000,,,commitment,src_ccrek_circulaire_economie_2025,strong,BBBC budget reduced to 28m after RRF BE envelope cut 5.9->4.5bn; tick523
+bud_bbbc_projects_23_66m,sec_federal,2021,23660000,,,commitment,src_ccrek_circulaire_economie_2025,strong,BBBC project support subsidies envelope 23.66m; underuse risk CoA; tick523
+bud_bbbc_sme_campaign_1_32m,sec_federal,2021,1320000,,,commitment,src_ccrek_circulaire_economie_2025,strong,BBBC SME sensibilisation 1.32m; CoA: campaign went well; tick523
+bud_bbbc_studies_2_3m,sec_federal,2021,2300000,,,commitment,src_ccrek_circulaire_economie_2025,strong,BBBC scientific studies + support consultancy 2.3m; tick523
+bud_bbbc_staff_794k,sec_federal,2021,794000,,,commitment,src_ccrek_circulaire_economie_2025,strong,BBBC personnel 794k; tick523
+bud_bbbc_call1_subsidies_6_98m,sec_federal,2022,6980000,,,outturn,src_ccrek_circulaire_economie_2025,strong,BBBC first call 12 projects awarded 6.98m total; selection transparency issues; tick523
+bud_bbbc_call2_risk_underuse,sec_federal,2024,23660000,,,budgeted,src_ccrek_circulaire_economie_2025,medium,CoA risk full 23.66m project subsidies not fully used; call2 weak pipeline; tick523
+bud_dual_ce_bbbc_28m,gg_belgium,2023,28000000,,,derived,src_dual_ce_fed_regions_tick523,strong,Dual federal BBBC 28m vs regional CE PHV projects; not additive pure TE; tick523
