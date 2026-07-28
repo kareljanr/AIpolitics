@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 540** (2026-07-29)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Entity I Graph1 dual fed available **27.5bn** vs SS **148bn** · federal primary VEK/VLK map · Defence dual · ODA multi-actor · federal debt financing Agency |
+| **D. L5 named / measure end-lines** | **~34-47%** of TE (generous) | **Gain 530→540 is Kamer exposé 2026 residual dual wave:** combined permit / DEM-DVZ · DBFM prison invest fees **~53m/yr** remain **~0.95bn** · TACT due **470→362m** · spending-review save paths (WASO post **15–67.5m**; return **150m** by 2029) · aging SCvV **25.8→27.5% GDP** · Graph1 transfers E2 **81.5** / SS **54.3** / EU **9.1** · primary **VEK 99.7 / VLK 90.9bn** · Defence **20.1/10.8** · COFOG gen admin **41.2** · ODA **2.35bn** 0.35% GNI dual DGD/EC/Fedasil · fed interest **12.34bn** · gross financing **59.7bn** · unconsol debt **601bn** · FOI still bulk ASBL/firm + partner L5 + Table6 unallocated |
+| **E. FOI-ready gaps** | **~284** drafts ready | Human send only; answered **~9**; total FOI rows **~296** (+ GV volumes · DBFM maint · TACT digital · SR delivery · aging cash · E1 unallocated · Defence VEK/VLK · ODA partner L5, …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale · **gross financing / OLO issuance** are debt finance not TE · **unconsol federal debt stock** dual vs GG Maastricht · ODA is largely TE-adjacent but multi-actor dual.
+
+### Inventory (tick 540)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~9322 |
+| commitments.csv | ~1029 |
+| leaderboard.csv | ~1950 |
+| entities.csv | ~414 |
+| sources.csv | ~1028 |
+| FOI ready | ~284 |
+| FOI answered | ~9 |
+| FOI total rows | ~296 |
+| research_queue | ~527 (open: rq_116 deferred + rq_532 hole-fill) |
+
+### What improved since tick 530
+
+- **CoA residual close (tick531–535):** combined permit DEM-DVZ dual volumes · DBFM prison invest fees Table41 (Haren **29.4m**/yr … 4 prisons remain **~€950m**) · TACT due path **470/395/362m** · digital KPI FOI.
+- **Exposé spending reviews + aging (tick536–537):** WASO post save band **€15–67.5m** · Fedasil open **€1.1m**/yr specialist · return/closed centres path **€150m** by 2029 · SCvV social exp **25.8→27.5% GDP**; dual E1/E2 aging; policy save **>€2.7bn** exp + **>€1.9bn** LT-sick by 2029.
+- **Entity I dual flows + primary map (tick538–539):** Graph1 federal available only **€27.5bn** of **173.7** after E2 **81.5** + SS **54.3** + EU **9.1**; E1 deficit **−€24.6bn (−3.7% GDP)**; primary VEK **€99.7bn** / VLK **€90.9bn**; Defence dual **20.1/10.8**; econ SS transfers **€26.5bn**; COFOG gen admin **€41.2bn (45%)**.
+- **ODA + debt finance (tick540):** ODA **€2.99bn (0.48% GNI) 2024 → €2.35bn (0.35%) 2026**; DGD VLK **€1.04bn** / VEK **€0.65bn**; Fedasil ODA dual **437→234m**; EC share **€897m**; federal interest series trough **€6.93bn** 2022 → **€12.34bn** 2026; gross financing **€59.7bn**; unconsol fed debt **€540.7→601.3bn**.
+
+---
+
 ## Snapshot at **tick 530** (2026-07-29)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

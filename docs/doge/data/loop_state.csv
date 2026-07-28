@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T08:45:00Z,rq_530,539,no,Tick539 exposé primary dept VEK 99.7bn VLK 90.9bn Defence dual 20.1/10.8; COFOG gen 41.2 social 24.2; interest 12.3bn; next prio5 rq_531; progress@540; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T09:00:00Z,rq_531,540,no,Tick540 ODA 2.35bn 0.35pctGNI dual DGD/EC/Fedasil + fed debt 601bn interest 12.34bn gross fin 59.7bn; progress@540 done; next prio5 rq_532; rq_116 SWA deferred.

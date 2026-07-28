@@ -6518,3 +6518,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_fed_defence_vek_vlk_l5 (ready, human send) - not sent
 - Next: prio5 **rq_531** (progress@540 next tick); deferred **rq_116** SWA
 
+
+### 2026-07-29T09:00:00Z - tick 540
+- Unit: **rq_531** (FOI-adjacent hole-fill + **progress@540** - **Kamer exposé ODA dual multi-actor + federal interest/debt financing schema**)
+- Found (strong primary DOC 56 1278/001 Part III Afdeling 2-3):
+  - **ODA total:** 2022 **€2.532bn (0.45%)** · 2023 **2.604 (0.44)** · 2024 **2.990 (0.48 peak)** · 2025 **2.392 (0.37)** · 2026 **2.350 (0.35% GNI)**
+  - **DGD 2026:** VEK **€654m** / VLK **€1.040bn**; ODA-eligible DGD **€1.031bn**; **25%** cut path; DGD share **48%** of ODA 2024 (was 60% 2020)
+  - **Multi-actor dual:** EC share **€897m 2026** · Fedasil **€437m 2024 → €234m 2026** · Foreign **€92m** · Finance **€16m** · non-fed **€83m**
+  - **Interest series:** trough **€6.93bn 2022** → **10.03 2024** → **10.94 2025** → **12.34bn 2026 (1.86% GDP)**; Treasury **12.165** + consol **55** + FPS Fin **124**
+  - **Financing 2026:** gross **€59.7bn** (net **28.5** + maturing **28.0** + prefin **3.2**); OLO **€52bn** of LT **55.3**; wavg rate **3.83%** / maturity **16.04y**
+  - **Unconsol fed debt:** eoy2024 **€540.7bn (87.2%)** → 2025 **570.2 (88.7%)** → 2026 **601.3bn (90.8% GDP)**
+- Wrote: sources +2; budgets +34; cmt +4; lb +8; FOI **gap_oda_partner_l5** ready+draft; progress_every_10_ticks.md + doge_waste_top10_current.md @540; rq_531=done spawn **rq_532**; ticks=540
+- FOI opened: gap_oda_partner_l5 (ready, human send) - not sent
+- Progress@540: A/B 100%; C ~99%; D ~34-47% (generous); FOI ready ~284 / answered ~9; inventory budgets~9322 lb~1950 sources~1028
+- Next: prio5 **rq_532**; deferred **rq_116** SWA
+

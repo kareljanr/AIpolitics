@@ -9287,3 +9287,37 @@ bud_fed_interest_2025,sec_federal,2025,10944000000,,,budgeted,src_kamer_expose_p
 bud_fed_interest_2026,sec_federal,2026,12343000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Fed interest 2026 est 12343m (+1399m vs 2025); dual vs E1 interest 12.17bn Table3; tick539
 bud_dual_fed_primary_vek_vlk_gap,sec_federal,2026,8707000000,,,derived,src_dual_fed_primary_vek_vlk_tick539,strong,Dual VEK-VLK primary gap ~8.707bn (99.656-90.949); not cash waste; multi-year commit backlog; tick539
 bud_dual_defence_vek_vlk_gap_2026,mod_defensie,2026,9342600000,,,derived,src_dual_fed_primary_vek_vlk_tick539,strong,Dual Defence VEK 20.112 - VLK 10.770 = 9.343bn commit backlog 2026; LPM path; tick539
+bud_oda_total_2024,sec_federal,2024,2989572000,,,outturn,src_kamer_expose_oda_debt_2026,strong,ODA total BE 2989.572m 2024 (0.48pct GNI); peak Ukraine+refugee; tick540
+bud_oda_total_2025,sec_federal,2025,2391896000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,ODA total est 2391.896m 2025 (0.37pct GNI); tick540
+bud_oda_total_2026,sec_federal,2026,2349979000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,ODA total est 2349.979m 2026 (0.35pct GNI); path down from 0.48; tick540
+bud_oda_total_2022,sec_federal,2022,2532037000,,,outturn,src_kamer_expose_oda_debt_2026,strong,ODA total 2532.037m 2022 (0.45pct GNI); tick540
+bud_oda_total_2023,sec_federal,2023,2604042000,,,outturn,src_kamer_expose_oda_debt_2026,strong,ODA total 2604.042m 2023 (0.44pct GNI); tick540
+bud_dgd_vlk_2026,sec_federal,2026,1040000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,DGD VLK budget 1040m 2026 (VEK 654m dual); 25pct cut path; tick540
+bud_dgd_vek_2026,sec_federal,2026,654000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,DGD VEK 654m 2026 vs VLK 1040m dual; tick540
+bud_dgd_vlk_2024,sec_federal,2024,1449394000,,,outturn,src_kamer_expose_oda_debt_2026,strong,DGD budget line 1449.394m 2024; tick540
+bud_dgd_oda_eligible_2026,sec_federal,2026,1031120000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,ODA on DGD budget 1031.120m 2026; tick540
+bud_dgd_oda_eligible_2024,sec_federal,2024,1434193000,,,outturn,src_kamer_expose_oda_debt_2026,strong,ODA on DGD 1434.193m 2024 (48pct of total ODA); tick540
+bud_oda_ec_share_2026,sec_federal,2026,897199000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,ODA via EC share 897.199m 2026 (~38pct of total); tick540
+bud_oda_ec_share_2024,sec_federal,2024,868490000,,,outturn,src_kamer_expose_oda_debt_2026,strong,ODA EC share 868.490m 2024; tick540
+bud_oda_fedasil_2024,sec_federal,2024,437138000,,,outturn,src_kamer_expose_oda_debt_2026,strong,Fedasil ODA-eligible 437.138m 2024 refugee peak; tick540
+bud_oda_fedasil_2026,sec_federal,2026,234000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Fedasil ODA est 234m 2026 (halved vs 2024); tick540
+bud_oda_fedasil_2025,sec_federal,2025,233468000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Fedasil ODA est 233.468m 2025; tick540
+bud_oda_finance_2026,fod_finance,2026,15960000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,FPS Finance ODA 15.960m 2026 (down from 67.5m 2024); tick540
+bud_oda_foreign_2026,sec_federal,2026,92000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Foreign Affairs ODA 92m 2026; tick540
+bud_oda_nonfed_2026,gg_belgium,2026,82700000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Non-federal ODA (C&R local) 82.7m 2026; tick540
+bud_gni_oda_denom_2026,gg_belgium,2026,665215000000,,,estimate,src_kamer_expose_oda_debt_2026,strong,GNI denominator for ODA 665.215bn 2026; tick540
+bud_fed_interest_2023,sec_federal,2023,8600000000,,,outturn,src_kamer_expose_oda_debt_2026,strong,Fed interest 8.60bn 2023 (+24.1pct YoY); tick540
+bud_fed_interest_2024,sec_federal,2024,10030000000,,,outturn,src_kamer_expose_oda_debt_2026,strong,Fed interest 10.03bn 2024 (+16.6pct); tick540
+bud_fed_interest_treasury_2026,sec_federal,2026,12165000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Treasury ESR interest 12165m of total 12343m 2026; consol 55 + FPS Fin 124; tick540
+bud_fed_interest_consol_2026,sec_federal,2026,55000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Consol institutions interest 55m 2026 (excl Hedera imputed); tick540
+bud_fed_gross_financing_2026,sec_federal,2026,59700000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Gross financing need 59.7bn 2026 (net 28.5 + maturing 28.0 + prefin 3.2); tick540
+bud_fed_net_financing_2026,sec_federal,2026,28500000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Net financing need 28.5bn 2026; tick540
+bud_fed_maturing_debt_2026,sec_federal,2026,28000000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Debt maturing in year 28.0bn 2026; tick540
+bud_fed_olo_issuance_2026,sec_federal,2026,52000000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,OLO long-term issuance plan 52.0bn 2026 of LT 55.3; tick540
+bud_fed_lt_issuance_2026,sec_federal,2026,55300000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Long-term issuance 55.3bn 2026 (OLO 52 + EMTN/RRF 3.1 + retail 0.2); tick540
+bud_fed_gross_financing_2025,sec_federal,2025,53000000000,,,budgeted,src_kamer_expose_oda_debt_2026,strong,Gross financing need 53.0bn 2025 (net 28.0 + maturing 22.5 + prefin 2.5); tick540
+bud_fed_debt_unconsol_2024,sec_federal,2024,540700000000,,,outturn,src_kamer_expose_oda_debt_2026,strong,Unconsol federal gross debt eoy2024 540.7bn (87.2pct GDP); tick540
+bud_fed_debt_unconsol_2025,sec_federal,2025,570200000000,,,estimate,src_kamer_expose_oda_debt_2026,strong,Unconsol federal gross debt eoy2025 ~570.2bn (+29.5bn; 88.7pct GDP); tick540
+bud_fed_debt_unconsol_2026,sec_federal,2026,601300000000,,,estimate,src_kamer_expose_oda_debt_2026,strong,Unconsol federal gross debt eoy2026 ~601.3bn (+31.1bn; 90.8pct GDP); tick540
+bud_dual_oda_dgd_vs_total_2026,sec_federal,2026,1031120000,,,derived,src_dual_oda_dgd_multi_tick540,strong,Dual DGD-eligible 1031m vs total ODA 2350m 2026 (~44pct); EC+Fedasil+other residual; tick540
+bud_dual_fed_debt_vs_gg_2026,sec_federal,2026,601300000000,,,derived,src_kamer_expose_oda_debt_2026,medium,Dual unconsol fed debt 601.3bn vs GG Maastricht ~692bn class; not same perimeter; tick540
