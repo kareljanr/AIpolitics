@@ -6430,3 +6430,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +12; cmt +2; lb +7; FOI **gap_gv_volumes_kpi_l5** ready+draft; raw PDF+press; rq_524=done spawn **rq_525**; ticks=533
 - FOI opened: gap_gv_volumes_kpi_l5 (ready, human send) — not sent
 - Next: prio5 **rq_525**; deferred **rq_116** SWA
+
+### 2026-07-29T07:30:00Z - tick 534
+- Unit: **rq_525** (FOI-adjacent hole-fill — **Kamer exposé 2026 Table41 DBFM prison invest fees residual**)
+- Found (strong primary DOC 56 1278/001 Table41 + CoA residual context):
+  - **Haren:** quarterly **€7.3m** · annual **€29.4m** · 25y **€733.9m** · paid **€91.0m** · remain **€638.5m** (87q)
+  - **Beveren:** annual **€9.1m** · 25y **€228.7m** · paid **€107.7m** · remain **€121.0m**
+  - **Marche-en-Famenne:** annual **€6.9m** · 25y **€172.3m** · paid **€84.4m** · remain **€87.9m**
+  - **Leuze-en-Hainaut:** annual **€7.5m** · 25y **€188.6m** · paid **€86.7m** · remain **€101.9m**
+  - **4 prisons sum:** annual **~€53m** · 25y **~€1.32bn** · paid **~€370m** EOY2025 · remain **~€950m**
+  - **Antwerp:** annual **€17.1m** (Q1 2026 start); 25y total still under construction
+  - **Dendermonde:** variable fee; paid **>€26.5m** since end-2022; annual/25y not fixed
+  - **Residual:** maintenance/waste/laundry/catering fees still omitted (price revision); off-balance booking still open CoA rec10
+- Wrote: sources +2; budgets +11; cmt +2; lb +6; FOI **gap_dbfm_maint_facility_fees_l5** ready+draft; updated prior gap_dbfm_fees note; raw exposé PDF; rq_525=done spawn **rq_526**; ticks=534
+- FOI: gap_dbfm_maint_facility_fees_l5 ready (not sent); prior invest-fee gap partially filled public
+- Next: prio5 **rq_526**; deferred **rq_116** SWA

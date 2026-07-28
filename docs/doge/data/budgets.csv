@@ -9175,3 +9175,14 @@ bud_gv_fines_ag_2023,vlaanderen_gov,2023,56265,,,outturn,src_ccrek_gv_2025,stron
 bud_gv_fines_ag_2022,vlaanderen_gov,2022,122675,,,outturn,src_ccrek_gv_2025,strong,CoA AG fines GV 122675 EUR 2022; tick533
 bud_gv_dvz_first_pos_2023,fod_interior,2023,9967,,,count,src_ccrek_gv_2025,strong,CoA Table7 DVZ BE all-regions first-app positive decisions 9967 2023 (9540 2022; 5251 2021); refuse ~1pct; tick533
 bud_dual_gv_dem_dvz,gg_belgium,2023,17072,,,derived,src_dual_gv_dem_dvz_tick533,strong,Dual GV applications Flanders DEM + federal DVZ sequential stack; not additive TE; tick533
+bud_dbfm_haren_invest_annual,regie_gebouwen,2025,29400000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 Haren quarterly 7.3m annual invest fee 29.4m; 25y total 733.9m paid 91.0 remain 638.5; tick534
+bud_dbfm_beveren_invest_annual,regie_gebouwen,2025,9100000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 Beveren quarterly 2.3 annual 9.1; 25y 228.7 paid 107.7 remain 121.0; tick534
+bud_dbfm_marche_invest_annual,regie_gebouwen,2025,6900000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 Marche-en-Famenne quarterly 1.7 annual 6.9; 25y 172.3 paid 84.4 remain 87.9; tick534
+bud_dbfm_leuze_invest_annual,regie_gebouwen,2025,7500000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 Leuze-en-Hainaut quarterly 1.9 annual 7.5; 25y 188.6 paid 86.7 remain 101.9; tick534
+bud_dbfm_antwerp_invest_annual,regie_gebouwen,2026,17100000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 Antwerp quarterly 4.3 annual 17.1; payments from Q1 2026; 25y total residual under construction; tick534
+bud_dbfm_dendermonde_paid_eoy2025,regie_gebouwen,2025,26500000,,,outturn,src_kamer_expose_dbfm_table41_2026,strong,Table41 Dendermonde variable invest fee paid >26.5m since availability end-2022; annual/25y not fixed (VAT on residual capital); tick534
+bud_dbfm_4prisons_invest_25y,regie_gebouwen,2025,1323500000,,,stock,src_kamer_expose_dbfm_table41_2026,strong,Table41 sum Beveren+Marche+Leuze+Haren 25y invest max 1323.5m class (~1.3bn text); tick534
+bud_dbfm_4prisons_paid_eoy2025,regie_gebouwen,2025,369800000,,,outturn,src_kamer_expose_dbfm_table41_2026,strong,Table41 paid EOY2025 4 prisons 369.8m (~370m text); tick534
+bud_dbfm_4prisons_remain,regie_gebouwen,2025,949300000,,,stock,src_kamer_expose_dbfm_table41_2026,strong,Table41 remain invest fee 4 prisons 949.3m (~950m text); tick534
+bud_dbfm_4prisons_annual_invest,regie_gebouwen,2025,52900000,,,commitment,src_kamer_expose_dbfm_table41_2026,strong,Table41 annual invest fees 4 prisons 52.9m (~53m text); excl Dendermonde variable + Antwerp; tick534
+bud_dual_dbfm_fees_table41,gg_belgium,2025,52900000,,,derived,src_dual_dbfm_fees_table41_tick534,strong,Dual Regie+Justice DBFM invest fee path public Table41; maint residual FOI; tick534
