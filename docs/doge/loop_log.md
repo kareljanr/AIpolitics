@@ -5265,3 +5265,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity boic; budgets +25; cmt +1; lb +10; rq_440=done; spawn **rq_441**; ticks=449
 - FOI: none new (provisional L5 public; optional FOI only for Nationaal Prestige sub-list if needed later)
 - Next: prio5 **rq_441**; deferred **rq_116** SWA
+
+### 2026-08-02T15:45:00Z - tick 450
+- Unit: **rq_441** (**progress milestone @450** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~98-99%** - + NL SOE 1.55-1.67bn omzet / society 362.5m · KBF 220-273m (public-utility off pure TE) · impact dual BIO/Alterfin/Incofin/Kampani/BRS
+  - **D L5:** **~25-38%** generous (+ NL verdelingsplan 200m named table DGD 84.7 VL 33.1 KBF 9.8 Unia 4.3 BOIC/culture; DGD/BIO named samples; residual FOI ASBL/firm)
+  - **E FOI ready:** **~215** (answered **~9**; total FOI rows **~226** stable)
+- Inventory: budgets ~8018 · cmt ~803 · lb ~1398 · entities ~367 · sources ~779
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; lottery/ODA/KBF maps off pure waste top10
+- Dual/off-TE: NL stakes 1.55-1.67bn; KBF managed funds 212m; BIO 1.2bn; taxex 29.7bn
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_441=done; spawn **rq_442**; ticks=450
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_442** hole-fill; deferred **rq_116** SWA

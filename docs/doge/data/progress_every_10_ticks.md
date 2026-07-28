@@ -20,17 +20,54 @@
 
 ---
 
-## Snapshot at **tick 440** (2026-08-02)
+## Snapshot at **tick 450** (2026-08-02)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn; dual EDP/COM path) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
+| **C. L2 entity totals** | **~98–99%** (order of magnitude) | Unchanged core; **+** Nationale Loterij SOE omzet **€1.55–1.67bn** / society **€362.5m** · KBF foundation budget **€220–273m** (public-utility, largely off pure TE pie) · impact-finance dual map (BIO/Alterfin/Incofin/Kampani/BRS) |
+| **D. L5 named / measure end-lines** | **~25–38%** of TE (generous) | **Gain since 440 is discretionary lottery + ODA/impact L5:** NL verdelingsplan provisional **€200m** named table (DGD **€84.7m** · VL **€33.1m** · FWB **€21.3m** · KBF **€9.8m** · Unia **€4.3m** · BOIC/culture/HR named) · DGD channels/themes/top20 · BIO named investees · Incofin/Kampani/Alterfin/BRS dual private MF · residual FOI still dominates bulk ASBL/firm registers |
+| **E. FOI-ready gaps** | **~215** drafts ready | Human send only; answered **~9**; total FOI rows **~226** (stable) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · IPP reform path · NATO extra · ESSPROS broader · **lottery player stakes** · **KBF managed-fund pass-through** · private co-op capital (Alterfin/Incofin/Kampani).
+
+### Inventory (tick 450)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~8018 |
+| commitments.csv | ~803 |
+| leaderboard.csv | ~1398 |
+| entities.csv | ~367 |
+| sources.csv | ~779 |
+| FOI ready | ~215 |
+| FOI answered | ~9 |
+| FOI total rows | ~226 |
+| research_queue | ~437 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 440
+
+- **DGD ODA L5 (tick441):** total **€1.118bn** · channels gov **250** / nongov **247** / multi **258** · themes climate **365** · top20 · named LDCF/CGIAR/Sahel.
+- **BIO named L5 (tick442):** approvals **€235m**/30 · signed **€166m** · stock **€1.2bn** · Coris/Orchidia/Kampani sample.
+- **Alterfin (tick443):** capital **€69.7m** · portfolio **€122m** · tax-break capital drain dual.
+- **BRS MFC dissolve (tick444):** assets **€22m** · dissolve **2026-06-30** · pivot Alterfin/Incofin.
+- **Incofin IMF (tick445):** capital **€50m** · portfolio **€62m** · **VL Flanders stake €1.0m (2%)** public L5.
+- **Kampani (tick446):** fund **€14.6m** · DGD first-loss **€0.9m** · BIO equity **€2m** · named portfolio L5.
+- **KBF (tick447):** budget **€220.3m 2025 / €273m 2026** · lottery **€10m** · support given **>€202m**.
+- **Nationale Loterij (tick448–449):** society **€362.5m** (doelen **217.5** + monopolierente **145**) · full provisional verdelingsplan L5 **€200m** table · definitive **€217.5m**.
+
+---
+
+## Snapshot at **tick 440** (2026-08-02) — archived
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn; dual EDP/COM path) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
 | **C. L2 entity totals** | **~98–99%** (order of magnitude) | **+** SS consol **€147.86bn** 2026 · Entity I social triple **€6.5bn** · SPP IS CPAS **€2.24bn** · NATO effort **€13.1bn** · Fedasil package **€802m** · coop **€1.04bn** · federal liq **€92bn** by cellule |
-| **D. L5 named / measure end-lines** | **~24–37%** of TE (generous) | **Gain since 430 is reform/measure L5 not firm ASBL lists:** pens reform **0.81→2.23bn** path · RTW **0.20→1.93bn** · INAMI sante **764.5m** components · IPP annex **−0.42→−5.4bn** · chomage waves **193.9k** · Fedasil accueil/retours · personnel austerity · specialty breaches · residual FOI still dominates discretionary ASBL/firm end-receivers |
-| **E. FOI-ready gaps** | **~215** drafts ready | Human send only; answered **~9**; total FOI rows **~226** |
-
-**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · IPP reform path · NATO extra **€16.8bn** package · ESSPROS social protection **€174–178bn** broader than TE pie.
+| **D. L5 named / measure end-lines** | **~24–37%** of TE (generous) | Reform/measure L5: pens · RTW · INAMI sante · IPP · chomage waves · Fedasil · personnel austerity · residual FOI ASBL/firm |
+| **E. FOI-ready gaps** | **~215** drafts ready | answered **~9**; total FOI rows **~226** |
 
 ### Inventory (tick 440)
 
@@ -44,49 +81,11 @@
 | FOI ready | ~215 |
 | FOI answered | ~9 |
 | FOI total rows | ~226 |
-| research_queue | ~426 (open: rq_116 deferred + hole-fill after progress) |
-
-### What improved since tick 430
-
-- **SPP IS / CPAS (tick431):** federal DIS+loi1965 **€2.241bn** · unemp compensation **€300m** path vs SPP IS understate.
-- **Entity I social + provisions (tick432):** handicap+IGO+RIS **€6.5bn** · provision gen **€829.8m** L5.
-- **SS consol 2026 (tick433):** dep **€147.86bn** prest L5 · demission cost **€33.6m** · credit familial **€40m**.
-- **Pension reform L5 (tick434):** save **€807→2,229m** 2027-30 full measure matrix.
-- **RTW + chomage waves (tick435):** RTW **€203→1,929m** · exits **90.2k** · UI exclusions **193.9k** regional.
-- **Fedasil/coop/ONSS (tick436):** Fedasil **0→688m** · coop **1.13→0.96bn** · altfin multi-year **25→27.2bn**.
-- **Sante/NATO/Justice (tick437):** INAMI save **€764.5m** L5 · NATO **12.7→14.3bn** · Justice provisions **€465.5m**.
-- **IPP annex L5 (tick438):** full measure path **−421m→−5.4bn** · entity split · emp-rate gap **3.7pp**.
-- **Personnel austerity (tick439):** replace **100→175m** · statutaire cotis **10/284/365m** · specialty **20.1bn** Defence transfer.
-
----
-
-## Snapshot at **tick 430** (2026-08-02) — archived
-
-| Layer | Coverage of €347.956 bn TE | Assessment |
-|-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn; dual EDP/COM path) |
-| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
-| **C. L2 entity totals** | **~98–99%** (order of magnitude) | **+** SPF SS macro **€146.8bn** 2025 · DG HAN **€2.93bn** · FPD **€69.05bn** + menage **€5.92bn** · INAMI inv **~€10.64bn** · primaire **€2.86bn** · mat/pat **€0.87bn** |
-| **D. L5 named end-receivers** | **~23–36%** of TE (generous) | INAMI/FPD/DG HAN L5 fills; FOI ASBL/firm residual |
-| **E. FOI-ready gaps** | **~215** drafts ready | answered **~9**; total FOI rows **~226** |
-
-### Inventory (tick 430)
-
-| File | Rows (class) |
-|------|-------------:|
-| budgets.csv | ~6982 |
-| commitments.csv | ~775 |
-| leaderboard.csv | ~1229 |
-| entities.csv | ~358 |
-| sources.csv | ~749 |
-| FOI ready | ~215 |
-| FOI answered | ~9 |
-| FOI total rows | ~226 |
 
 ---
 
 ## Method notes (unchanged)
 
 - Coverage % for C/D is **order-of-magnitude judgment**, not a SQL sum of budgets.csv.
-- Reform save/cost paths (pension, RTW, IPP, Fedasil) improve **transparency of policy euro claims** even when they are not TE end-receivers.
+- Reform save/cost paths and lottery/ODA L5 improve **transparency of named euro claims** even when not pure TE end-receivers.
 - FOI queue: humans send; agent drafts only.
