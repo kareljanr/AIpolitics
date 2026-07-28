@@ -8516,3 +8516,9 @@ bud_vl_cultuurkredieten_arts_2024,cultuur_cjm_vl,2024,570600,,,awarded,src_ccrek
 bud_vl_kunsten_outturn_class_2024,cultuur_cjm_vl,2024,203300000,,,outturn,src_ccrek_vl_kunstenbeleid_2026,strong,CoA total support class 203.3m 2024 (KD 201 + innov 0.355 + Hefboom 0.272 + Cultuurloket 1.6); tick489
 bud_vl_kunsten_extra_ws_minister_2527,cultuur_cjm_vl,2023,25300000,,,budgeted,src_ccrek_vl_kunstenbeleid_2026,strong,Minister extra 25.3m WS budget 2023-27 decision: 17 outside-budget + 9 neg-advice orgs; tick489
 bud_dual_vl_kd_202m_fwb_arts_tick489,gg_belgium,2024,201941900,,,derived,src_dual_culture_vl_coa_fwb_tick489,strong,Dual VL KD awards 201.9m 2024 class vs FWB arts vivants 104m 2026 different year; tick489
+bud_dbfm_antwerp_invest_fee_2026,dg_epi,2026,17100000,,,budgeted,src_ccrek_prisons_dbfm_suivi_2026,strong,CoA: exposé général 2026 Antwerp annual investment redevance 17.1m; 25y total still missing; tick491
+bud_dbfm_vfm_premium_school_olo,regie_gebouwen,2026,14700000,,,vfm_example,src_ccrek_prisons_dbfm_suivi_2026,strong,CoA Table1 European school: DBFM NPV 254.548m vs DBM 239.888m at OLO30 3.32pct = private finance premium 14.7m; method example not prison; tick491
+bud_dbfm_vfm_school_dbfm_npv_332,regie_gebouwen,2026,254548000,,,vfm_example,src_ccrek_prisons_dbfm_suivi_2026,strong,Table1 DBFM NPV 254.548m at 3.32pct discount; tick491
+bud_dbfm_vfm_school_dbm_npv_332,regie_gebouwen,2026,239888000,,,vfm_example,src_ccrek_prisons_dbfm_suivi_2026,strong,Table1 DBM NPV 239.888m at 3.32pct; tick491
+bud_dbfm_gpp_fte_2023,regie_gebouwen,2023,0,,,stock_fte,src_ccrek_prisons_dbfm_suivi_2026,strong,GPP FTE 6.7 2023 mainly architects; amount0=stock; tick491
+bud_dbfm_justice_ppp_fte_2026,dg_epi,2026,0,,,stock_fte,src_ccrek_prisons_dbfm_suivi_2026,strong,SPF Justice PPP direction 6 of 7 cadre (was 4 in 2023); amount0=stock; tick491

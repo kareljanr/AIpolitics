@@ -5821,3 +5821,17 @@ Append-only. Each tick adds a short entry.
 - FOI: none new this tick
 - Next: prio5 **rq_482**; deferred **rq_116** SWA
 
+
+### 2026-07-28T17:50:00Z - tick 491
+- Unit: **rq_482** (FOI-adjacent hole-fill — **CoA 2026_24 prison DBFM PPP follow-up + dual VL PPP decree**)
+- Found (strong primary CoA AG 27 May 2026 + press 11 Jun):
+  - **5 ops** DBFM (Marche Beveren Leuze Haren Dendermonde) + **4 project** (Antwerp mid-2026 · Leopoldsburg/Vresse 2029 · Verviers 2031) + 3 CPL DBFMO (Paifve Wavre Aalst)
+  - Recs **9 applied / 16 ongoing / 5 not** (of 30); federal PPP legal frame still missing (WG Feb 2026); **VL decree 2019** dual
+  - **Antwerp** annual invest redevance **€17.1m** 2026 exposé; **25y total missing**; Dendermonde invest fee **not fixed** (VAT residual)
+  - **VFM** school example: DBFM NPV **254.5m** vs DBM **239.9m** at OLO30 **3.32%** = private finance premium **€14.7m**; residual-value bias flagged
+  - **Off-balance** legal commitments **still unrecorded** (2022 stock **€2.6bn**); IWMS unfunded
+  - Staff: GPP was 6.7 FTE; Justice PPP dir 6/7; facility managers VL+WAL filled BRU open
+- Wrote: sources +3; budgets +6; cmt +3; lb +5; FOI **gap_dbfm_fees_full_table_2026** ready+draft; raw PDFs; rq_482=done spawn **rq_483**; ticks=491
+- FOI opened: gap_dbfm_fees_full_table_2026 (ready, human send) — not sent
+- Next: prio5 **rq_483**; deferred **rq_116** SWA
+
