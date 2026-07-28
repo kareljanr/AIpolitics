@@ -5730,3 +5730,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +12; cmt +2; lb +6; FOI **gap_fwb_economies_l5** ready+draft; rq_477=done spawn **rq_478**; ticks=486
 - FOI opened: gap_fwb_economies_l5 (ready, human send)
 - Next: prio5 **rq_478**; deferred **rq_116** SWA
+
+### 2026-08-03T10:15:00Z - tick 487
+- Unit: **rq_478** (FOI-adjacent hole-fill - **FPB 263 measures inventory budget 2027 + Entity I masses dual residual gap**)
+- Found (strong primary FPB Report 13320 + xlsx DATA_BUDGET2027):
+  - **Inventory:** **263** measure rows (press 250+; ~230 external + ~30 DC2024); **39** with 2029 annual impulse mEUR — **not additive** (alternative scenarios)
+  - **Entity I control-account residual gap 4.9bn** 2029 (0.67% GDP; CM Mar 2026 pre-Iran war) — dual vs prior decided **9.2bn** package
+  - **SS 147.3bn** (pens **72.3** · health **41.3** · invalid **15.9** · chom **4.6** · other 10.1 · admin 3.0)
+  - **Federal own 41.9bn** (salaries **10.9** · fonct **8.5** · subs **7.9** · invest **6.5** · handicap/GRAPA 4.3)
+  - Transfers C&R **81.5bn** · interest **12.3** · UE **9.1** · recettes total **267.4** (fiscal 164.3 · SSC 93.7 · IPP 64.2 · ISOC 26.0)
+  - DC2024 ranges (options): cars+cheques **4.5-5.5bn** · globalisation **5.5-11.3** · wealth tax **2.0-7.5** · health norm **3.3-4.5** · fossil transport **0.8-1.25**
+  - **Dual:** E1 residual 4.9bn vs Entity II quartet class **2.65bn** 2026 (different metric)
+- Wrote: sources +4; budgets +25; cmt +2; lb +7; raw xlsx; rq_478=done spawn **rq_479**; ticks=487
+- FOI: none (full public inventory; adoption L5 future)
+- Next: prio5 **rq_479**; deferred **rq_116** SWA

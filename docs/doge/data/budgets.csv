@@ -8439,3 +8439,28 @@ bud_fwb_debt_stock_2024,fwb_gov,2024,12782100000,,,outturn,src_fwb_gov_cp_budget
 bud_fwb_lsf_dotations_2026,fwb_gov,2026,12996000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB LSF dotations 12.996bn of 13.602bn recettes 2026; tick486
 bud_fwb_dot_rw_cocof_2026,fwb_gov,2026,575316000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB dotations RW+COCOF Saint-Quentin 575.316m 2026; tick486
 bud_dual_entity2_quartet_2026,gg_belgium,2026,2654000000,,,derived,src_dual_entity2_quartet_tick486,medium,Entity II quartet class VL1.832+WAL0.270+BRU0.297+FWB0.255=2.654bn 2026 different perimeter; FWB year1 medium; tick486
+bud_entity1_ss_dep_2026,sec_ss,2026,147300000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Entity I SS dep 147.3bn BI2026 (FPB; pens half health 28pct invalid 11pct); tick487
+bud_entity1_pens_2026,sec_ss,2026,72300000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Pensions 72.3bn BI2026 10.9pct GDP; reform cuts aging cost +1.4pp GDP 2024-70; tick487
+bud_entity1_health_2026,sec_ss,2026,41300000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Health care 41.3bn BI2026 6.2pct GDP; growth norm 2.0-3.0pct path; tick487
+bud_entity1_invalidity_2026,sec_ss,2026,15900000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Maladie-invalidite 15.9bn BI2026 2.4pct GDP; tick487
+bud_entity1_chomage_2026,sec_ss,2026,4600000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Chomage+interruptions 4.6bn BI2026 0.7pct GDP; tick487
+bud_entity1_ss_other_prest_2026,sec_ss,2026,10100000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Other SS prestations 10.1bn BI2026; tick487
+bud_entity1_ss_admin_2026,sec_ss,2026,3000000000,,,budgeted,src_fpb_budget2027_measures_report,strong,SS frais de gestion 3.0bn BI2026; tick487
+bud_entity1_transfers_cr_2026,sec_federal,2026,81500000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Transfers regions/communities LSF 81.5bn BI2026 12.3pct GDP; tick487
+bud_entity1_fed_own_2026,sec_federal,2026,41900000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Federal own dep 41.9bn BI2026 7.2pct GDP (vs 36.1bn 2024 defence-driven); tick487
+bud_entity1_salaries_2026,sec_federal,2026,10900000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Federal salaries 10.9bn; defence+police+justice+interior 5.9bn 54pct; tick487
+bud_entity1_fonct_2026,sec_federal,2026,8500000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Federal fonctionnement 8.5bn BI2026; tick487
+bud_entity1_subsidies_2026_confirm,sec_federal,2026,7900000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Federal subsidies 7.9bn confirm FPB (prior FPB/BOSA); tick487
+bud_entity1_invest_2026_confirm,sec_federal,2026,6500000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Federal invest 6.5bn; defence ~71pct Infrabel 17pct; tick487
+bud_entity1_handicap_grapa_2026,sec_federal,2026,4300000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Handicap+GRAPA 4.3bn BI2026 federal; tick487
+bud_entity1_ue_transfers_2026,sec_federal,2026,9100000000,,,budgeted,src_fpb_budget2027_measures_report,strong,UE budget transfers 9.1bn BI2026 1.4pct GDP; tick487
+bud_entity1_interest_2026_confirm,sec_federal,2026,12300000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Interest Entity I 12.3bn 1.9pct GDP path 2.5pct 2029; tick487
+bud_entity1_recettes_total_2026,sec_federal,2026,267400000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Entity I recettes total 267.4bn BI2026 40.2pct GDP; tick487
+bud_entity1_fiscal_rec_2026,sec_federal,2026,164300000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Fiscal receipts 164.3bn BI2026; tick487
+bud_entity1_ssc_rec_2026,sec_ss,2026,93700000000,,,budgeted,src_fpb_budget2027_measures_report,strong,SSC contributions 93.7bn BI2026 14.1pct GDP; tick487
+bud_entity1_ipp_2026,sec_federal,2026,64200000000,,,budgeted,src_fpb_budget2027_measures_report,strong,IPP 64.2bn BI2026 9.7pct GDP; tick487
+bud_entity1_isoc_2026,sec_federal,2026,26000000000,,,budgeted,src_fpb_budget2027_measures_report,strong,Corporate tax 26.0bn BI2026 3.9pct GDP; tick487
+bud_entity1_control_gap_2029,sec_federal,2029,4900000000,,,estimated,src_fpb_budget2027_measures_report,strong,Entity I control-account residual gap 4.9bn 2029 unchanged policy (CM Mar 2026 pre-Iran; FPB); NOT on top of decided 9.2 package conflation; tick487
+bud_fpb_measures_inventory_count_2026,sec_federal,2026,263,,,count,src_fpb_budget2027_measures_xlsx,strong,FPB inventory 263 measure rows (press 250+; ~230 external + ~30 DC2024); tick487
+bud_fpb_measures_quantified_2029,sec_federal,2029,39,,,count,src_fpb_budget2027_measures_xlsx,strong,39 of 263 measures have DC2024 annual impulse EUR m 2029; alternatives not additive; tick487
+bud_dual_e1_residual_gap_2029,gg_belgium,2029,4900000000,,,derived,src_dual_e1_e2_gap_tick487,strong,Entity I residual control gap 4.9bn 2029 dual vs Entity II quartet 2.65bn 2026 class different metric; tick487
