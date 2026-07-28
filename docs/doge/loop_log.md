@@ -6022,3 +6022,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; cmt +3; lb +6; entity mdk; FOI **gap_mpkv_measures_l5** ready+draft; raw PDFs; rq_495=done spawn **rq_496**; ticks=504
 - FOI opened: gap_mpkv_measures_l5 (ready, human send) — not sent
 - Next: prio5 **rq_496**; deferred **rq_116** SWA
+
+### 2026-07-28T22:30:00Z - tick 505
+- Unit: **rq_496** (FOI-adjacent hole-fill — **CoA 2026_29 KMO VenB control follow-up + dual fraud**)
+- Found (strong primary Rekenhof AG 3 Jun 2026 + press):
+  - VenB cash **€25.729bn** 2024; PB **56.1** · BTW **37.5** · RV **14.5** · accijnzen **7.6** (CoA general account figure)
+  - **111,988** VenB returns controlled 2024 → income increases **>€5.6bn**
+  - Admin KMO staff gap **383 FTE** vs 2018 plan eoy2024; prior −21% controllers 2016-21
+  - Recommendations of 17: **3 done · 8 in progress · 2 not done · 4 N/A** after 3 years
+  - **BasketFisc** harmonises within language area; residual inequality cross-language/Brussels
+  - No general **fiscal discipline** metric; control vs settlement functions still not separated
+  - **Dual:** realized control uplifts 5.6bn vs fed aju fraud yield claims **300/600m** opaque (tick503)
+- Wrote: sources +3; budgets +8; cmt +2; lb +5; FOI **gap_kmo_venb_control_l5** ready+draft; raw PDFs; rq_496=done spawn **rq_497**; ticks=505
+- FOI opened: gap_kmo_venb_control_l5 (ready, human send) — not sent
+- Next: prio5 **rq_497**; deferred **rq_116** SWA

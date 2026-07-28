@@ -8755,3 +8755,11 @@ bud_kustvisie_studies_2014_24,mdk,2024,21000000,,,outturn,src_ccrek_kustbeveilig
 bud_kustvisie_century_low_pv,mdk,2030,2000000000,,,estimated,src_ccrek_kustbeveiliging_2026,medium,Century coastal protection cost low PV 2bn (2030-2130) CoA; tick504
 bud_kustvisie_century_high_pv,mdk,2030,5000000000,,,estimated,src_ccrek_kustbeveiliging_2026,medium,Century coastal protection cost high PV 5bn CoA; tick504
 bud_dual_kust_mpkv_gip,gg_belgium,2024,465703332,,,derived,src_dual_kust_gip_climate_tick504,strong,Dual MPKV 466m class residual vs GIP without Kustvisie programme line; tick504
+bud_venb_cash_2024_coa,sec_federal,2024,25729000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,VenB cash receipts 25.729bn 2024 CoA from general account; tick505
+bud_venb_controls_uplift_2024,sec_federal,2024,5600000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,VenB controls 111988 returns 2024 yielded income increases >5.6bn CoA; tick505
+bud_pb_cash_2024_coa,sec_federal,2024,56055000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,PB cash receipts 56.055bn 2024 CoA figure general account; tick505
+bud_btw_cash_2024_coa,sec_federal,2024,37514000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,BTW cash receipts 37.514bn 2024 CoA figure; tick505
+bud_rv_cash_2024_coa,sec_federal,2024,14480000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,Roerende voorheffing cash 14.480bn 2024 CoA; tick505
+bud_douane_accijns_cash_2024_coa,sec_federal,2024,7618000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,Douane-accijnzen cash 7.618bn 2024 CoA; tick505
+bud_kmo_staff_gap_383_fte,sec_federal,2024,383,,,estimated,src_ccrek_kmo_venb_followup_2026,strong,Admin KMO control staff gap 383 FTE vs 2018 plan eoy2024 (not EUR); tick505
+bud_dual_venb_uplift_vs_fraud_claim,sec_federal,2024,5600000000,,,derived,src_dual_kmo_control_fraud_tick505,strong,Dual: VenB control uplifts 5.6bn 2024 vs fraud yield claims 0.3-0.6bn path; tick505
