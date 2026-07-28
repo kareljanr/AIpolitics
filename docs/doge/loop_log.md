@@ -6547,3 +6547,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_fed_e2_cr_perimeter_l5 (ready, human send) - not sent
 - Next: prio5 **rq_533**; deferred **rq_116** SWA
 
+
+### 2026-07-29T09:30:00Z - tick 542
+- Unit: **rq_533** (FOI-adjacent hole-fill - **Kamer exposé EU Table6 + consol institutions Ch5 dual**)
+- Found (strong primary DOC 56 1278/001 Part III Ch4§4 + Ch5):
+  - **EU financing 2026:** total **€9.145bn** (customs **3.402** + VAT **0.748** = receipts **4.150** + GNI **4.994**); 2025 **7.869**; dual Graph1 **9.1**
+  - **GNI** +**€1.159bn** YoY drives total rise; customs rising post-2023 dip
+  - **Consol orgs 2026:** receipts **€10.991bn** · exp **€9.976bn** · ESA saldo **+€1.392bn** (+691 vs 2025 **+0.701**)
+  - Receipts mix: institutional group dots **57.4%** · goods/services **21.4%** · property **12.2%**
+  - Exp mix: ops **33.1%** · wages **26.0%** · invest **15.6%** · credit/equity **7.3%**
+  - **Named ESA saldos 2026:** FPIM **+636.6** · BE-WATT **+499.3** (Phoenix new) · Hedera **+452.9** · ASEVA **+89.3** · Infrabel **-56.5** · CREG **-23.3**
+  - Conclave: NIRAS nuclear passif **+€198m** (ESA balance); Sciensano **+3m**; Healthdata→HDA **€6m** from RIZIV
+- Wrote: sources +2; budgets +37; cmt +4; lb +8; FOI **gap_consol_orgs_l5_spend** ready+draft; rq_533=done spawn **rq_534**; ticks=542
+- FOI opened: gap_consol_orgs_l5_spend (ready, human send) - not sent
+- Next: prio5 **rq_534** (Part IV SS systems residual); deferred **rq_116** SWA
+

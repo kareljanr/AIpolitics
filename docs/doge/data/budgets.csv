@@ -9365,3 +9365,40 @@ bud_fed_local_other_current_2026,sec_federal,2026,523400000,,,budgeted,src_kamer
 bud_fed_local_capital_2026,sec_federal,2026,207300000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 local capital transfers 207.3m 2026; tick541
 bud_dual_graph1_e2_vs_cr_table1,sec_federal,2026,4689000000,,,derived,src_dual_fed_cr_ss_local_tick541,medium,Dual Graph1 E2 81.5bn vs Table1 C&R 76.810bn gap ~4.7bn class perimeter/items; tick541
 bud_dual_graph1_ss_vs_table4,sec_ss,2026,421000000,,,derived,src_dual_fed_cr_ss_local_tick541,strong,Dual Graph1 SS federal 54.3bn vs Table4 53.879bn ~0.42bn residual; tick541
+bud_eu_financing_total_2026,sec_federal,2026,9144700000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 BE EU financing total 9144.7m 2026; dual Graph1 9.1bn; tick542
+bud_eu_financing_total_2025,sec_federal,2025,7868900000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 EU financing 7868.9m 2025; tick542
+bud_eu_financing_total_2024,sec_federal,2024,7179300000,,,outturn,src_kamer_expose_eu_consol_2026,strong,Table6 EU financing 7179.3m 2024; tick542
+bud_eu_customs_2026,sec_federal,2026,3401900000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 customs own resources 3401.9m 2026; tick542
+bud_eu_vat_own_2026,sec_federal,2026,748400000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 VAT own resources 748.4m 2026; tick542
+bud_eu_receipts_prelev_2026,sec_federal,2026,4150300000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 receipts-side EU (customs+VAT) 4150.3m 2026; tick542
+bud_eu_gni_contrib_2026,sec_federal,2026,4994400000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 GNI contribution 4994.4m 2026 (matches primary BNI line); tick542
+bud_eu_gni_contrib_2025,sec_federal,2025,3835100000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table6 GNI 3835.1m 2025; tick542
+bud_eu_customs_2024,sec_federal,2024,3044400000,,,outturn,src_kamer_expose_eu_consol_2026,strong,Table6 customs 3044.4m 2024; tick542
+bud_consol_orgs_receipts_2026,sec_federal,2026,10991000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table1 consol orgs total receipts 10991m 2026; tick542
+bud_consol_orgs_exp_2026,sec_federal,2026,9976000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table1 consol orgs total exp 9976m 2026; tick542
+bud_consol_orgs_receipts_2025,sec_federal,2025,10042000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table1 consol orgs receipts 10042m 2025 adj; tick542
+bud_consol_orgs_exp_2025,sec_federal,2025,9309000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table1 consol orgs exp 9309m 2025 adj; tick542
+bud_consol_orgs_esa_saldo_2026,sec_federal,2026,1391800000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table1/2 consol ESA saldo +1391.8m 2026 (+691.4 vs 700.5 2025); tick542
+bud_consol_orgs_esa_saldo_2025,sec_federal,2025,700500000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol ESA saldo +700.5m 2025; tick542
+bud_consol_orgs_primary_esa_2026,sec_federal,2026,1446300000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol primary ESA saldo +1446.3m 2026; tick542
+bud_consol_intra_transfers_rec_2026,sec_federal,2026,6314000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol receipts from institutional group (fed dots) 6314m 57.4pct 2026; tick542
+bud_consol_goods_services_rec_2026,sec_federal,2026,2357000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol current goods/services receipts 2357m 21.4pct 2026; tick542
+bud_consol_property_income_2026,sec_federal,2026,1345000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol property income 1345m 12.2pct 2026; tick542
+bud_consol_wages_2026,sec_federal,2026,2591000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol wages+SSC exp 2591m 26.0pct 2026; tick542
+bud_consol_ops_exp_2026,sec_federal,2026,3305000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol non-durable goods/services 3305m 33.1pct 2026; tick542
+bud_consol_invest_2026,sec_federal,2026,1559000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol investments 1559m 15.6pct 2026; tick542
+bud_consol_credit_equity_2026,sec_federal,2026,733000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol credit/equity outlays 733m 7.3pct 2026; tick542
+bud_consol_underuse_2026,sec_federal,2026,148300000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol under-utilisation 148.3m 2026; tick542
+bud_consol_esa_corr_2026,sec_federal,2026,-395900000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Consol ESA corrections -395.9m 2026 (Hedera+CREG class); tick542
+bud_fpim_esa_saldo_2026,sec_federal,2026,636600000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 FPIM ESA saldo +636.6m 2026 (+87.3 vs 549.3); tick542
+bud_hedera_esa_saldo_2026,sec_federal,2026,452900000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 Hedera ESA saldo +452.9m 2026 (+201.6); dual nuclear finance; tick542
+bud_bewatt_esa_saldo_2026,sec_federal,2026,499300000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 BE-WATT ESA saldo +499.3m 2026 (new Phoenix transfer); tick542
+bud_aseva_esa_saldo_2026,sec_federal,2026,89300000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 ASEVA/Apetra ESA saldo +89.3m 2026; tick542
+bud_infrabel_esa_saldo_2026,infrabel,2026,-56500000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 Infrabel+SPV ESA saldo -56.5m 2026 (worse -43.7); tick542
+bud_creg_esa_saldo_2026,sec_federal,2026,-23300000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 CREG ESA saldo -23.3m 2026; tick542
+bud_enabel_esa_saldo_2025,sec_federal,2025,-35800000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Table2 ENABEL ESA -35.8m 2025 (0 in 2026 IB); tick542
+bud_niras_nuclear_passif_2026,sec_federal,2026,198000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Conclave: NIRAS nuclear passif extra 198m 2026 (ESA balance constraint); tick542
+bud_sciensano_extra_2026,sec_federal,2026,3000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Sciensano +3m public health surveillance invest 2026; tick542
+bud_healthdata_transfer_riziv_2026,sec_federal,2026,6000000,,,budgeted,src_kamer_expose_eu_consol_2026,strong,Healthdata.be transfer to HDA 6m from RIZIV 2026; tick542
+bud_dual_eu_graph1_vs_table6,sec_federal,2026,44700000,,,derived,src_dual_eu_consol_tick542,strong,Dual Graph1 EU 9.1bn vs Table6 9.1447bn residual ~45m class; tick542
+bud_dual_consol_esa_vs_entity1,sec_federal,2026,1391800000,,,derived,src_dual_eu_consol_tick542,strong,Dual consol ESA +1.392bn improves Entity I vs pure federal cash budget; tick542

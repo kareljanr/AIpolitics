@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T09:15:00Z,rq_532,541,no,Tick541 exposé Ch4 dual fed to C&R 76.8bn SS 53.9bn local 4.3bn; Graph1 E2 gap FOI; next prio5 rq_533; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T09:30:00Z,rq_533,542,no,Tick542 exposé EU 9.14bn + consol orgs exp 9.98 ESA +1.39 BE-WATT 499 FPIM 637 Hedera 453; next prio5 rq_534; rq_116 SWA deferred.
