@@ -5129,3 +5129,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +36; cmt +2; lb +10; rq_430=done; spawn **rq_431**; ticks=439
 - FOI: none new (intermediate replace path optional later if annex absent; method residual not opacity)
 - Next: prio5 **rq_431**; deferred **rq_116** SWA
+
+### 2026-08-02T10:45:00Z - tick 440
+- Unit: **rq_431** (**progress milestone @440** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~98-99%** - SS consol 147.86 · Entity I social 6.5 · SPP IS 2.24 · NATO 13.1 · Fedasil 0.80 · coop 1.04 · liq 92
+  - **D L5:** **~24-37%** generous (reform-measure L5: pens 0.8-2.2 · RTW 0.2-1.9 · sante 0.76 · IPP path · chom waves 194k; FOI ASBL/firm residual)
+  - **E FOI ready:** **~215** (answered **~9**; total FOI rows **~226**)
+- Inventory: budgets ~7744 · cmt ~793 · lb ~1309 · entities ~358 · sources ~758
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; reform maps off pure waste top10
+- Dual/off-TE: SS 147.9bn; IPP -5.4bn path; NATO extra 16.8bn; taxex 29.7bn
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_431=done; spawn **rq_432**; ticks=440
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_432** hole-fill; deferred **rq_116** SWA
