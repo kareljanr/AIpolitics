@@ -8301,3 +8301,12 @@ bud_kmma_dot_2025,kmma,2025,11771000,,,budget,src_kamer_56k0855_018_fwi_pools,st
 bud_kbin_belgica_jemu_2025,kbin,2025,4143000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KBIN Belgica+JEMU+public obs BA 60.33.41.30.25 4143 kEUR 2025i; tick469
 bud_nature_pool_sum_2025,belspo,2025,35396000,,,derived,src_fwi_four_pools_recon_tick469,strong,Nature pool 19.482+11.771+4.143=35.396m 2025i; tick469
 bud_fwi_four_pools_total_2025,belspo,2025,132271000,,,derived,src_fwi_four_pools_recon_tick469,strong,Four FWI pools structural sum Doc33.155+Space30.695+Nature35.396+Art33.025=132.271m 2025i; +NL FWI projects 0.5m; tick469
+
+bud_begold_total_3_5m,begold,2025,3500000,,,budget,src_begold_partners_budget,strong,Be Gold annual total 3.5m dual multi-partner; tick471
+bud_begold_nl_1_5m,begold,2025,1500000,,,budget,src_begold_partners_budget,strong,Be Gold NL share 1.5m (matches plan Art3.26 Be Gold projects); tick471
+bud_begold_boic_0_75m,boic,2025,750000,,,budget,src_begold_partners_budget,strong,Be Gold BOIC share 0.75m dual BOIC sport stack; tick471
+bud_begold_vl_sport_0_74m,sport_vlaanderen,2025,740000,,,budget,src_begold_partners_budget,strong,Be Gold Sport Vlaanderen share 0.74m; tick471
+bud_begold_adeps_0_5m,adeps,2025,500000,,,budget,src_begold_partners_budget,strong,Be Gold ADEPS/FWB share 0.5m; tick471
+bud_begold_dg_0_01m,sec_dg,2025,10000,,,budget,src_begold_partners_budget,strong,Be Gold Ostbelgien/DG share 10k; tick471
+bud_begold_cumulative_2004,begold,2024,49261432,,,outturn,src_begold_partners_budget,strong,Be Gold cumulative financing since 2004 EUR 49261432.08; tick471
+bud_nloterij_begold_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art3.26 Be Gold projects 1.5m definitive (entity dual filled tick471); tick471

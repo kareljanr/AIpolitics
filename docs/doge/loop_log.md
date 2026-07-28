@@ -5530,3 +5530,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_461=done; spawn **rq_462**; ticks=470
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_462** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-03T02:15:00Z — tick 471
+- Unit: **rq_462** (FOI-adjacent hole-fill — **Be Gold dual multi-community topsport 3.5m**)
+- Found (strong primary Be Gold partners page + programme + NL plan match):
+  - **Annual total EUR 3.500m** split: NL **1.500** (43%) · BOIC **0.750** · Sport Vlaanderen **0.740** · ADEPS/FWB **0.500** · Ostbelgien **0.010**
+  - **NL plan Art3.26 1.5m** matches partners page exactly (strong dual closed)
+  - **Cumulative since 2004 EUR 49,261,432.08**
+  - **Athletes:** 148 (14–24y) · 90F/58M · 20 disciplines · 4 teams · goal Top8 OS / Top3 PS · max 4y support from 2025
+  - Dual method: multi-community topsport + BOIC + lottery (parallel BOIC stack prior)
+- Wrote: sources +3; budgets +8; cmt +1; lb +6; entity begold + update sport_vlaanderen/adeps/boic; rq_462=done spawn **rq_463**; ticks=471
+- FOI: none new (envelope dual closed; athlete-level L5 residual privacy-sensitive optional)
+- Next: prio5 **rq_463** (IARC Lyon / Leesbevordering / Opvangtehuizen / residual NL L5); deferred **rq_116** SWA
