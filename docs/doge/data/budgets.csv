@@ -8371,3 +8371,7 @@ bud_nl_society_return_385m_2025,nationale_loterij,2025,385000000,,,derived,src_n
 bud_nl_projects_count_1970_2025,nationale_loterij,2025,1970,,,outturn,src_nloterij_jv_2025,strong,1970 maatschappelijke projecten 2025 +4pct vs 2024 class 1857; count not euro; tick479
 bud_nl_twa_100k_2025,to_walk_again,2025,100000,,,budget,src_towalkagain_nl_100k,strong,To Walk Again NL 100k cat3.36 definitive; dual disability sport residual TCO FOI; tick479
 bud_nl_residual_micro_batch_505k_2025,nationale_loterij,2025,505000,,,derived,src_nl_residual_named_micro_batch_tick479,strong,Sum OVK205+TWA100+WWF100+Jardin100=505k residual named micro L5; tick479
+bud_nl_democracy_fund_awards_500319,kbf,2025,500319,,,outturn,src_kbf_democracy_fund_18_projects,strong,NL Democracy Fund first awards 500319 EUR 18 projects Dec2025 dual KBF; upgrades prior medium 500k envelope; tick481
+bud_nl_democracy_fund_projects_count_18,kbf,2025,18,,,count,src_kbf_democracy_fund_18_projects,strong,18 democracy projects first call VL BRU WAL; named residual FOI; tick481
+bud_regie_nl_patrimonium_entity_2025,regie_gebouwen,2025,3087872,,,budget,src_regie_nl_partnership_3m,strong,Regie NL national heritage 3.087872m definitive dual partnership ~3m/yr class; tick481
+bud_nl_kbf_regie_dual_stack_2025,nationale_loterij,2025,13887872,,,derived,src_nl_kbf_regie_dual_tick481,strong,Dual stack class KBF plan 10.3m + Regie 3.087872m = 13.387872m (democracy fund inside KBF managed not additive to 10.3); tick481

@@ -5653,3 +5653,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_471=done; spawn **rq_472**; ticks=480
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_472** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-03T07:15:00Z - tick 481
+- Unit: **rq_472** (FOI-adjacent hole-fill - **NL Democracy Fund KBF dual 500k + Regie patrimonium 3.09m**)
+- Found (strong primary KBF press + NL call + Regie partnership):
+  - **Democracy Fund first awards EUR 500,319** - **18 projects** Dec 2025 (VL/BRU/WAL); awards 10k-40k class; dual NL fund hosted at **KBF** (not additive to statutory KBF 10.3m)
+  - Upgrades prior medium ~500k envelope to **strong exact**
+  - **Regie NL cat3.13 EUR 3.087872m** definitive; partnership page **~3m/yr** national heritage dual; project L5 residual (Pavilion Art5.7 0.5m separate)
+  - **Dual stack class EUR 13.388m** = KBF 10.3 + Regie 3.088
+- Wrote: sources +5; budgets +4; cmt +3; lb +3; entity democracy fund; FOI **gap_nl_democracy_fund_l5** + **gap_regie_nl_projects_l5** ready+drafts; rq_472=done spawn **rq_473**; ticks=481
+- FOI opened: 2 ready (human send)
+- Next: prio5 **rq_473**; deferred **rq_116** SWA
