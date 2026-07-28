@@ -4724,3 +4724,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_401=done; spawn **rq_402**; ticks=410
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_402** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-01T20:15:00Z - tick 411
+- Unit: **rq_402** (FOI-adjacent hole-fill - **BDA Review/Outlook 2025-26 + FPB pension reform REP 13299**)
+- Found (strong primary):
+  - **BDA federal debt** **EUR 552.69bn** end-2025 (+34.0 vs 518.68); OLO **462.8** · TC **42.9** · EMTN **12.3** · EU SURE/RRF **6.3**
+  - Indicators: avg life **9.98y** · duration **7.27y** · implicit cost **2.01%** · 12m refi **15.64%** · new LT issue cost **3.12%**
+  - **2025 realised:** gross **53.31** · net **28.35** · OLO issue **45.71** · EMTN **3.52** · green taps **2.7** · syndications **19**
+  - **2026 plan:** gross **59.55** · net **26.37** · OLO **51.60** · MLT total **56.32** · redemptions **28.0** + buybacks **4.6** · RRF/SAFE **1.32** · green eligible **5.0** (no new Green OLO)
+  - **2028 LT wall** redemptions **39.63bn**; Fitch **A+** stable (S&P AA neg / Moody Aa3 neg)
+  - **Pension reform cumul save (const2024 mEUR):** **-349/-702/-1683/-2656/-3595/-3757/-4081** 2025-31; ageing cost **-1.3pp GDP** (pens **-1.4** public **-0.7** salarie **-0.6**); GDP **+0.4%** emp rate **+0.3pp** 2070
+  - Social: RR public **-15.2%** salarie **-7.2%** 2070; BR public **-13.2%** salarie **-6.2%**; gender gap widens private schemes
+- Wrote: sources +2; budgets ~30; cmt +2; lb +8; raw BDA+FPB PDFs; rq_402=done; spawn **rq_403**; ticks=411
+- FOI: none new (public complete for aggregates; residual interactions/poverty distrib separate FPB report optional)
+- Next: prio5 **rq_403**; deferred **rq_116** SWA
