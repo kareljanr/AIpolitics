@@ -5305,3 +5305,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity child_focus; budgets +18; cmt +1; lb +10; rq_443=done; spawn **rq_444**; ticks=452
 - FOI: none new (AR public; residual exact NL cash vs pie optional)
 - Next: prio5 **rq_444** (BOIC / Unia / Red Cross NL dual); deferred **rq_116** SWA
+
+### 2026-08-02T17:15:00Z - tick 453
+- Unit: **rq_444** (FOI-adjacent hole-fill - **Unia dual NL verdelingsplan 4.31m inside federal + BS/P&L L5**)
+- Found (strong primary Unia RA2025 already mapped + new dual arithmetic + BS L5):
+  - **Federal subvention 2024 EUR 8.171m / 2025 8.305m** · **NL plan Unia 4.309m** = **~53% of federal 2024** · residual pure federal **EUR 3.862m**
+  - **TCO 2025:** products **11.728m** · charges **11.715m** · result **13k** · subsidies **9.628m** (fed 8.305 + federated 1.323)
+  - **BS EOY2025:** assets **8.881m** · equity **5.485m** (capital **3.451m**) · ST debt **2.885m** · provisions **0.511m**
+  - **Cost L5:** personnel **9.051m** (~77%) · opex **1.530m** · projects **0.931m**
+  - **Income L5:** activity **0.899m** · project products **0.718m**
+  - Dual method: plan L5 + federal AR (Antigif/Child Focus pattern); FOI residual narrowed (BGD codes + 2025 lottery exact + federated entity split)
+- Wrote: sources +1; budgets +14; cmt +1; lb +10; foi gap_unia note; rq_444=done; spawn **rq_445**; ticks=453
+- FOI: gap_unia_funding_detail updated residual (still ready human send; lottery plan dual filled)
+- Next: prio5 **rq_445** (BOIC / Red Cross / Bozar NL dual); deferred **rq_116** SWA

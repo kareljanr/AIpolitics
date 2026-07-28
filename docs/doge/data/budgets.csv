@@ -8053,3 +8053,17 @@ bud_childfocus_nl_pie_2025,child_focus,2025,1919022,,,outturn,src_childfocus_jv_
 bud_childfocus_donors_2025,child_focus,2025,36525,,,count,src_childfocus_jv_2025,strong,Active donors with tax attest 36525 2025 (34269 2024); tick452
 bud_childfocus_investments_2025,child_focus,2025,5725947,,,stock,src_childfocus_jv_2025,strong,Financial investments 5.726m EOY2025; tick452
 bud_childfocus_campaigns_2025,child_focus,2025,743219,,,outturn,src_childfocus_jv_2025,strong,Publications and info campaigns 0.743m 2025; tick452
+bud_unia_assets_2025,unia_interfederal,2025,8881056,,,stock,src_unia_ra_2025_bs_tick453,strong,Total assets=passif 8.881m EOY2025; tick453
+bud_unia_equity_2025,unia_interfederal,2025,5484953,,,stock,src_unia_ra_2025_bs_tick453,strong,Equity/fonds propres 5.485m (capital 3.451 + fonds affectes 1.731 + result 0.013 + reporte 0.290); tick453
+bud_unia_capital_2025,unia_interfederal,2025,3451022,,,stock,src_unia_ra_2025_bs_tick453,strong,Capital 3.451m EOY2025; tick453
+bud_unia_provisions_2025,unia_interfederal,2025,511063,,,stock,src_unia_ra_2025_bs_tick453,strong,Provisions 0.511m EOY2025; tick453
+bud_unia_st_debt_2025,unia_interfederal,2025,2885040,,,stock,src_unia_ra_2025_bs_tick453,strong,Short-term debts 2.885m EOY2025; tick453
+bud_unia_charges_total_2025,unia_interfederal,2025,11715230,,,outturn,src_unia_ra_2025_bs_tick453,strong,Total charges 11.715m 2025; tick453
+bud_unia_opex_2025,unia_interfederal,2025,1529818,,,outturn,src_unia_ra_2025_bs_tick453,strong,Operating charges 1.530m 2025 (excl personnel); tick453
+bud_unia_project_costs_2025,unia_interfederal,2025,930744,,,outturn,src_unia_ra_2025_bs_tick453,strong,Project costs 0.931m 2025; tick453
+bud_unia_activity_products_2025,unia_interfederal,2025,899209,,,outturn,src_unia_ra_2025_bs_tick453,strong,Activity products 0.899m 2025; tick453
+bud_unia_project_products_2025,unia_interfederal,2025,718017,,,outturn,src_unia_ra_2025_bs_tick453,strong,Project products 0.718m 2025; tick453
+bud_unia_result_2025,unia_interfederal,2025,12923,,,outturn,src_unia_ra_2025_bs_tick453,strong,Net result 12.923 EUR 2025; tick453
+bud_unia_nl_plan_inside_federal_2024,unia_interfederal,2024,4308698,,,budget,src_nloterij_kb_voorlopig_2024,strong,NL verdelingsplan Unia 4.308698m is inside federal subvention path 2024; tick453 dual
+bud_unia_federal_non_nl_2024,unia_interfederal,2024,3862000,,,outturn,src_unia_ra_2025_bs_tick453,strong,Federal residual after NL plan line: 8.170698m - 4.308698m = 3.862m 2024 dual; tick453
+bud_unia_federal_nl_share_pct_2024,unia_interfederal,2024,53,,,pct,src_unia_ra_2025_bs_tick453,medium,NL plan 4.309/federal 8.171 ~52.7pct of federal Unia 2024 (stores 53); tick453
