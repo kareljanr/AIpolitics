@@ -4738,3 +4738,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~30; cmt +2; lb +8; raw BDA+FPB PDFs; rq_402=done; spawn **rq_403**; ticks=411
 - FOI: none new (public complete for aggregates; residual interactions/poverty distrib separate FPB report optional)
 - Next: prio5 **rq_403**; deferred **rq_116** SWA
+
+### 2026-08-01T20:45:00Z - tick 412
+- Unit: **rq_403** (FOI-adjacent hole-fill - **FPB PROMES AMI health spend 2025-2035 by care type**)
+- Found (strong primary FOR_PROMES_13296 real 2025 prices mEUR):
+  - **AMI total** **37666 -> 48599** (+**10933** / **+2.6%/yr**); **6% GDP** 2025
+  - Shares 2025: doctors **31.0%** · hospital day **22.9%** · pharma net **18.6%** · home nursing **5.9%** · dental 4.3 · kine 3.5
+  - **Pharma net** 6988->10401 (**+3412** / +4.1%/yr); gross 8961->14455; **art.81/111 comp** 1973->4054 (**+106%**)
+  - Doctors 11675->13814 (**+2182**); hospital day 8629->10686 (**+2057**); home nursing **+869**; kine **+758**
+  - Maisons medicales 389->886 (**+8.6%/yr**); consult/visits +1093
+  - Demo 2026-35: **+10198** of which aging **2147 (21%)** + pop **1151 (11%)** = **32%**; 65+ drive **66%** of rise
+  - Perimeter: AMI only (excl regional/local + part BMF hospital)
+- Wrote: sources +1; budgets ~40; cmt +1; lb +8; raw PDF; FOI **gap_inami_art81_l5** ready; rq_403=done; spawn **rq_404**; ticks=412
+- FOI: art.81/111 top contracts L5 human send only
+- Next: prio5 **rq_404**; deferred **rq_116** SWA
