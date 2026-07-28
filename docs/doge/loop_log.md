@@ -6062,3 +6062,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +20; cmt +4; lb +7; FOI **gap_fedasil_save_measures_l5** ready+draft; rq_498=done spawn **rq_499**; ticks=507
 - FOI opened: gap_fedasil_save_measures_l5 (ready, human send) — not sent
 - Next: prio5 **rq_499** (progress@510 soon); deferred **rq_116** SWA
+
+### 2026-07-28T23:30:00Z - tick 508
+- Unit: **rq_499** (FOI-adjacent hole-fill — **CoA 2026_22 residual SS macro + POD MI soft saves dual**)
+- Found (strong primary same CoA fed aju, SS/POD MI deep extract):
+  - **SS BC2026:** rec **€148,002m** · exp **€148,027m** near balance; contributions **85,328** · altfin **27,583** · benefits **137,624**
+  - Healthcare **€43,857m** (+2.56bn vs IB); unemployment **4,836** (+198.5); employee pens **43,037**; invalidity **14,839**; public pens **22,527**
+  - RSZ contrib **69,475m**; federal reductions class **€5.14bn** (struct 4.29 + targeted 0.85; workbonus 1.83); wage ceiling **58.2m**
+  - RSZ gov dots **8,656m**; equilibrium overfinance 2025 **547.5m** → GB deficit booking 2026
+  - **POD MI OCMW** total **€2,309m** (RMI 2,133 + wet65 176); integ+wait save BC **13.1m** (was 40.2) — **CoA: will not be achieved 2026**
+  - RIZIV savings miss **€183.1m** of 801.4 (145.7 drugs); invalidity follow-up save slip **−110.2m** (exclusions 4,197)
+  - Pension reform path **€2,212m** to 2030; Zuidertoren **177.7m** RSZ reserves
+  - **Dual:** SS 148bn macro + POD MI soft saves
+- Wrote: sources +2; budgets +28; cmt +4; lb +8; FOI **gap_podmi_ss_save_slip_l5** ready+draft; rq_499=done spawn **rq_500**; ticks=508
+- FOI opened: gap_podmi_ss_save_slip_l5 (ready, human send) — not sent
+- Next: prio5 **rq_500** (**progress@510 next tick**); deferred **rq_116** SWA

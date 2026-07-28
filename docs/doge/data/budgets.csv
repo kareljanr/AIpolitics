@@ -8788,3 +8788,31 @@ bud_defence_budget_bc_2026,sec_federal,2026,10958000000,,,budgeted,src_ccrek_fed
 bud_defence_internal_sec_177m,sec_federal,2026,177000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Internal security from defence 5pct path 177m settle 2026 (+NATO trust 45m =222 class); opacity CoA; tick507
 bud_nato_trust_fund_45m,sec_federal,2026,45000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,NATO trust fund 45m in section 14 Foreign Affairs not section 16; tick507
 bud_dual_prison_fedasil_2026,gg_belgium,2026,1132200000,,,derived,src_dual_justice_fedasil_defence_tick507,strong,Dual prison provis+MP IIIbis class + Fedasil 848m not additive pure TE; tick507
+bud_ss_rec_bc_2026,sec_ss,2026,148002400000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS consolidated receipts BC2026 148002.4m (-14.8 vs IB); tick508
+bud_ss_exp_bc_2026,sec_ss,2026,148026600000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS consolidated expenditure BC2026 148026.6m (+168.1 vs IB); tick508
+bud_ss_contrib_bc_2026,sec_ss,2026,85328000000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS contributions BC 85328m (-197.3); tick508
+bud_ss_gov_transfer_bc_2026,sec_ss,2026,27443800000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS government transfers BC 27443.8m (-234.9); tick508
+bud_ss_altfin_bc_2026,sec_ss,2026,27583400000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS alternative financing BC 27583.4m (+361.8; BTW 19634.7 RV 7948.7); tick508
+bud_ss_benefits_bc_2026,sec_ss,2026,137624300000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS social benefits BC 137624.3m (+2132); tick508
+bud_ss_healthcare_bc_2026,sec_ss,2026,43857400000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,RIZIV healthcare benefits BC 43857.4m (+2560.2 vs IB); tick508
+bud_ss_unemp_bc_2026,sec_ss,2026,4836400000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Unemployment benefits employee GB BC 4836.4m (+198.5); tick508
+bud_ss_pens_employee_bc_2026,sec_ss,2026,43036600000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Employee pensions BC 43036.6m; tick508
+bud_ss_invalidity_employee_bc_2026,sec_ss,2026,14839400000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Employee invalidity BC 14839.4m; tick508
+bud_ss_public_pens_bc_2026,sec_ss,2026,22526800000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Public sector pensions BC 22526.8m; tick508
+bud_ss_admin_bc_2026,sec_ss,2026,3006800000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,SS management+payment costs BC 3006.8m; tick508
+bud_rsz_contrib_bc_2026,sec_ss,2026,69474700000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,RSZ Globaal Beheer contributions 69474.7m BC (-116.8); tick508
+bud_rsz_contrib_reductions_bc_2026,sec_ss,2026,5142500000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Federal SS contribution reductions total class 5142.5m (struct 4294.1 + targeted exp 848.4); tick508
+bud_rsz_workbonus_bc_2026,sec_ss,2026,1827300000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Workbonus contribution reduction 1827.3m BC; tick508
+bud_rsz_struct_reductions_bc_2026,sec_ss,2026,2419500000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Structural employer contribution reductions 2419.5m BC; tick508
+bud_rsz_wage_ceiling_exemp_58m,sec_ss,2026,58200000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Employer contribution exemption above 85k/quarter 58.2m BC; tick508
+bud_rsz_gov_dot_bc_2026,sec_ss,2026,8656100000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,RSZ government dots 8656.1m BC (-195; equilibrium -207.3); tick508
+bud_rsz_eq_overfin_2025,sec_ss,2025,547500000,,,outturn,src_ccrek_fed_aju_ss_podmi_2026,strong,Equilibrium dot overfinance 2025 547.5m booked as 2026 GB expenditure; tick508
+bud_zuidertoren_renov_177m,sec_ss,2031,177700000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Zuidertoren renovation 177.7m 2026-31 of which 168.8 from RSZ reserves; 2026 study 2.5m; tick508
+bud_podmi_ocmw_total_bc_2026,sec_federal,2026,2309000000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,OCMW RMI+wet65 total BC 2309m (RMI 2133 wet65 176); tick508
+bud_podmi_rmi_bc_2026,sec_federal,2026,2133000000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,RMI OCMW grants BC 2133m; tick508
+bud_podmi_wet65_bc_2026,sec_federal,2026,176000000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Wet 65 social assistance OCMW BC 176m; tick508
+bud_podmi_integ_wait_save_bc_2026,sec_federal,2026,13100000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,medium,Integration amount +5y wait savings BC only 13.1m (was 40.2 IB); CoA: will not be achieved 2026; tick508
+bud_riziv_save_miss_183m_2026,sec_ss,2026,183100000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,RIZIV of 801.4m savings package 183.1m not realized 2026 (145.7 drugs); tick508
+bud_invalidity_followup_save_slip_110m,sec_ss,2026,-110200000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Strengthened invalidity follow-up save slip -110.2m vs IB (16.7 vs 126.9); exclusions 4197; tick508
+bud_pens_reform_path_2030_2212m,sec_ss,2030,2212000000,,,budgeted,src_ccrek_fed_aju_ss_podmi_2026,strong,Pension reform package save path to 2030 2212m (was 2229 IB); tick508
+bud_dual_ss_podmi_2026,gg_belgium,2026,148026600000,,,derived,src_dual_ss_podmi_aju_tick508,strong,Dual SS exp 148bn + POD MI 2.3bn OCMW stack; tick508
