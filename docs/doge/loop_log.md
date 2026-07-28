@@ -6604,3 +6604,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_pubpen_employer_l5 (ready, human send) - not sent
 - Next: prio5 **rq_537** (exposé Part IV largely filled → new public residual); deferred **rq_116** SWA
 
+
+### 2026-07-28T22:13:28Z - pause
+- User: **paused=yes**
+- Cancelled scheduler **019fa9b6c43a** (every 1m)
+- State: ticks=545 last_unit=rq_536; next on resume **rq_537**
+- No research tick; FOI not sent
+

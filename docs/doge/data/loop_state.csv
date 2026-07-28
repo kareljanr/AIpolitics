@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T10:15:00Z,rq_536,545,no,Tick545 self-emp pensions 5.92 illness 1.07; pubpen Treasury 17.0 solidary 2.89 HR Rail 1.57 total 22.8; dual pensions 72.0; next prio5 rq_537; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T10:15:00Z,rq_536,545,yes,User pause paused=yes + watcher cancelled. Next on resume: prio5 rq_537; progress@550 soon; rq_116 SWA deferred.
