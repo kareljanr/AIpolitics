@@ -5850,3 +5850,19 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_gip_l5_outturn_2025_26 (ready, human send) — not sent
 - Next: prio5 **rq_484**; deferred **rq_116** SWA
 
+
+### 2026-07-28T18:30:00Z - tick 493
+- Unit: **rq_484** (FOI-adjacent hole-fill — **CoA 2026_33 FWB budget adjustment 2026 + dual Entity II**)
+- Found (strong primary Cour des comptes FR chamber 30 Jun 2026):
+  - **SEC aju €-1,752.8m** (init **-1,607.6m**, ? **-145.2m**)
+  - Dep liquidations **€15,591.5m** (+184.7); rec hors emprunts **€13,674.4m** (+71.9); solde net **-1,917.1m**
+  - Sous-utilisations **€452.1m**; corrections SEC **-238.1m** (Écureuil requal **-71.2m**)
+  - **Economies SEC path strong Table3:** 2026 **253.6** · 2027 **522.9** · 2028 **599.1** · 2029 **733.0** m
+    - Edu obl **87.5** · Enfance **118.0** · Sup **17.9** · Culture **12.6** · FP **8.7** · Autres **8.8** (2026)
+  - Upgrades prior medium year-1 ~255m and elements-clés -1.608bn path
+  - SWA coop **25 Mar 2026** still needs multi-parliament assent (links rq_116)
+  - **Dual Entity II:** FWB deficit aju vs VL measures / WAL economies / BRU measures maps
+- Wrote: sources +2; budgets +24; cmt +3; lb +4; FOI **gap_fwb_economies_programme_l5** ready+draft; raw PDF; rq_484=done spawn **rq_485**; ticks=493
+- FOI opened: gap_fwb_economies_programme_l5 (ready, human send) — not sent
+- Next: prio5 **rq_485**; deferred **rq_116** SWA
+

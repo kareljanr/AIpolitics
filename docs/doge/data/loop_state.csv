@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T18:10:00Z,rq_483,492,no,Tick492 CoA GIP 3.685bn; next prio5 rq_484; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T18:30:00Z,rq_484,493,no,Tick493 CoA FWB aju SEC -1.75bn; next prio5 rq_485; rq_116 SWA deferred.

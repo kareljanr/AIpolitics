@@ -8540,3 +8540,27 @@ bud_gip_removed_projects_2026,vlaanderen_gov,2026,316400000,,,budgeted,src_ccrek
 bud_gip_non_input_projects_2026,vlaanderen_gov,2026,68400000,,,budgeted,src_ccrek_gip_2026_27,strong,43 projects not in consolidated entity input ~68.4m; tick492
 bud_gip_predraw_q1_2026,vlaanderen_gov,2026,900000000,,,commitment,src_ccrek_gip_2026_27,strong,Q1 2026 monthly voorafname lists >900m before GIP validated; tick492
 bud_dual_gip_sofico_class,gg_belgium,2026,3685000000,,,derived,src_dual_gip_sofico_tick492,strong,Dual VL GIP 3.685bn 2026 class vs WAL SOFICO separate; not additive TE; tick492
+bud_fwb_sec_aju_2026,fwb_gov,2026,-1752800000,,,budgeted_sec,src_ccrek_fwb_budget_aju_2026,strong,CoA Table4 solde SEC aju -1752.8m (init -1607.6 variation -145.2); tick493
+bud_fwb_sec_init_2026_coa,fwb_gov,2026,-1607600000,,,budgeted_sec,src_ccrek_fwb_budget_aju_2026,strong,CoA Table4 solde SEC initial -1607.6m; tick493
+bud_fwb_dep_liq_aju_2026,fwb_gov,2026,15591500000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Dep liquidations hors amort aju 15591.5m (+184.7m vs init); tick493
+bud_fwb_rec_hors_emprunt_aju_2026,fwb_gov,2026,13674400000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Recettes hors emprunts aju 13674.4m (+71.9m); tick493
+bud_fwb_rec_budg_aju_2026,fwb_gov,2026,16364700000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Recettes budgetaires hors section particuliere aju 16364.7m; tick493
+bud_fwb_solde_net_aju_2026,fwb_gov,2026,-1917100000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Solde budgetaire net aju -1917.1m (init -1804.3); tick493
+bud_fwb_sousutil_aju_2026,fwb_gov,2026,452100000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Sous-utilisations aju 452.1m (entity 139.5 + consol 312.6); tick493
+bud_fwb_econ_sec_2026,fwb_gov,2026,253600000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies impact SEC 253.6m 2026 Table3 CoA strong; upgrades prior 255m medium; tick493
+bud_fwb_econ_sec_2027,fwb_gov,2027,522900000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies SEC 522.9m 2027; tick493
+bud_fwb_econ_sec_2028,fwb_gov,2028,599100000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies SEC 599.1m 2028; tick493
+bud_fwb_econ_sec_2029,fwb_gov,2029,733000000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies SEC 733.0m 2029; tick493
+bud_fwb_econ_edu_obl_2026,fwb_gov,2026,87500000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies enseignement obligatoire ESAHR adultes 87.5m 2026; tick493
+bud_fwb_econ_enfance_2026,fwb_gov,2026,118000000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies enfance 118.0m 2026; tick493
+bud_fwb_econ_superieur_2026,fwb_gov,2026,17900000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies superieur+hop univ 17.9m 2026; tick493
+bud_fwb_econ_culture_2026,fwb_gov,2026,12600000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies culture 12.6m 2026; tick493
+bud_fwb_econ_fp_2026,fwb_gov,2026,8700000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies fonction publique 8.7m 2026; tick493
+bud_fwb_econ_autres_2026,fwb_gov,2026,8800000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Economies autres 8.8m 2026; tick493
+bud_fwb_corr_sec_aju_2026,fwb_gov,2026,-238100000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Corrections SEC aju -238.1m (Ecureuil requalif -71.2m); tick493
+bud_fwb_ecureuil_requal_2026,fwb_gov,2026,-71200000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Requalification credits Fonds Ecureuil code8 to invest -71.2m ICN; tick493
+bud_fwb_inst_consol_aju_2026,fwb_gov,2026,-49700000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Solde institutions consolidees aju -49.7m (init -133.2); tick493
+bud_fwb_one_solde_aju_2026,one,2026,-18400000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,ONE solde aju -18.4m (init -29.5); tick493
+bud_fwb_ecureuil_solde_aju_2026,fonds_ecureuil,2026,85400000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Fonds Ecureuil solde aju 85.4m (init 100.0); tick493
+bud_fwb_rtbf_solde_aju_2026,rtbf,2026,-18900000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,RTBF solde aju -18.9m; tick493
+bud_fwb_prr_cur_delta_2026,fwb_gov,2026,86500000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Saca CUR PRR prefinancement +86.5m dep; tick493
