@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T03:20:00Z,rq_511,520,no,Tick520 progress@520 coverage+waste top10 consultancy enters #7/#10; next prio5 rq_512; rq_116 SWA deferred.
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-29T03:40:00Z,rq_512,521,no,Tick521 CoA Justice PHV residual 85+18+12m JustSign 720k dual prison; next prio5 rq_513; rq_116 SWA deferred.

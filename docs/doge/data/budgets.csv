@@ -9038,3 +9038,11 @@ bud_justice_consultants_total_est_500,fod_justice,2023,0,,,unknown,src_ccrek_jus
 bud_justsign_bpost_5_8m,fod_justice,2021,5800000,,,outturn,src_ccrek_justice_digi_2025,strong,bpost irregular award 5.8m incl JustSign 3.1m without regular tender; tick519
 bud_justsign_3_1m,fod_justice,2021,3100000,,,outturn,src_ccrek_justice_digi_2025,strong,JustSign project share of bpost irregular 3.1m; tick519
 bud_dual_justice_it_digi_stack,gg_belgium,2023,140000000,,,derived,src_dual_justice_it_failures_tick519,medium,Dual Justice digi 140m class 2023 vs I-Police/Persona/Cepage failures; not additive pure TE; tick519
+bud_justice_phv_i205_digi_85m,fod_justice,2021,85000000,,,commitment,src_ccrek_justice_phv_l5_2025,strong,PHV I-2.05 Digitalisering FOD Digitale transformatie Justitie 85m; part of 115m pack; tick521
+bud_justice_phv_i203_cyber_18m,fod_justice,2021,18000000,,,commitment,src_ccrek_justice_phv_l5_2025,strong,PHV I-2.03 Cyberbeveiliging NTSU/CTIF interceptie 18m; tick521
+bud_justice_phv_i409_prison_12m,fod_justice,2021,12000000,,,commitment,src_ccrek_justice_phv_l5_2025,strong,PHV I-4.09 Digitale platforms voor gevangenen 12m; dual prison DBFM; tick521
+bud_justice_phv_pack_115m_recon,fod_justice,2026,115000000,,,commitment,src_ccrek_justice_phv_l5_2025,strong,PHV three projects recon 85+18+12=115m excl VAT to 2026; matches prior total; tick521
+bud_justsign_licenses_720k_yr,fod_justice,2024,720000,,,budgeted,src_ccrek_justice_phv_l5_2025,strong,JustSign licenses+services ~720k/yr incl VAT after bpost bridge to underaannemers CM May2024; tick521
+bud_justsign_bpost_fix_3_5m,fod_justice,2020,3500000,,,outturn,src_ccrek_justice_phv_l5_2025,strong,bpost vastlegging 3.5m of 5.8m on 23 Dec 2020 prog 56.05 traffic fines; tick521
+bud_justsign_bpost_fix_2_3m,fod_justice,2020,2300000,,,outturn,src_ccrek_justice_phv_l5_2025,strong,bpost vastlegging 2.3m of 5.8m on 23 Dec 2020 prog 56.05; tick521
+bud_dual_justice_phv_prison_12m,gg_belgium,2021,12000000,,,derived,src_dual_justice_phv_prison_tick521,strong,Dual PHV prison platforms 12m under digi stack vs DBFM prisons; tick521

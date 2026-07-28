@@ -6246,3 +6246,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_511=done spawn **rq_512**; ticks=520
 - FOI: none new (progress tick)
 - Next: prio5 **rq_512**; deferred **rq_116** SWA
+
+### 2026-07-29T03:40:00Z - tick 521
+- Unit: **rq_512** (FOI-adjacent hole-fill — **CoA Justice digi residual PHV L5 three projects + JustSign licenses dual prison**)
+- Found (strong primary same CoA 2025_01 residual extract):
+  - **PHV pack recon:** I-2.05 digi transform **€85m** · I-2.03 cyber NTSU/CTIF **€18m** · I-4.09 prison platforms **€12m** = **€115m** excl VAT (matches prior total)
+  - **JustSign licenses ~€720k/yr** incl VAT (CM May 2024 bridge after bpost to underaannemers; competitive retender planned)
+  - **bpost 5.8m path:** vastleggingen **3.5m + 2.3m** 23 Dec 2020; charged on **prog 56.05** traffic-fine collection support (budget specialty breach)
+  - **Dual:** PHV prison digital **12m** vs DBFM capacity **3.83bn/25y** + overcrowding **840m**
+- Wrote: sources +2; budgets +8; cmt +3; lb +6; FOI **gap_justice_phv_projects_l5** ready+draft; rq_512=done spawn **rq_513**; ticks=521
+- FOI opened: gap_justice_phv_projects_l5 (ready, human send) — not sent
+- Next: prio5 **rq_513**; deferred **rq_116** SWA
