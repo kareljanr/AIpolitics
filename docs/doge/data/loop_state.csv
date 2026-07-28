@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T19:10:00Z,rq_486,495,no,Tick495 CoA DG 1.HHA AE 751m; next prio5 rq_487; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T19:30:00Z,rq_487,496,no,Tick496 CoA FWB Cepage IT 35-96m under 7.1bn payroll; next prio5 rq_488; rq_116 SWA deferred.

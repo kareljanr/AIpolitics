@@ -5896,3 +5896,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_dg_infra_l5_2026 (ready, human send) — not sent
 - Next: prio5 **rq_487**; deferred **rq_116** SWA
 
+
+### 2026-07-28T19:30:00Z - tick 496
+- Unit: **rq_487** (FOI-adjacent hole-fill — **CoA 2026_31 FWB Cepage teacher payroll IT + dual Persona/I-Police**)
+- Found (strong primary Cour des comptes FR 16 Jun 2026):
+  - Education **personnel €7.1bn** BI2026 (86.2% Education); **~150k** agents · **2,700+** schools · **1,000+** POs
+  - **Cepage** (2022?deploy not before **2030**): cost estimates **€35.2m** build / **€39.1m** 5y / **€95.7m** 14y — **unsubstantiated**; maint **€3.9m**/yr
+  - **Etnic** dot **€119.7m** (2025) / **€117.7m**+**5.3m** strategic (2026); FTE **68?381** (2002–24); analytic costs weak since 2004 contract
+  - RL10 payroll engine **1970s Cobol**; free PO payroll art.36 pacte scolaire unsustainability risk
+  - **Dual IT failures:** VL AGODI **Persona €16m** stopped (<10% features); federal **I-Police €76.7/299m** cancelled
+- Wrote: sources +3; budgets +12; cmt +3; lb +4; FOI **gap_fwb_cepage_cost_l5** ready+draft; raw PDFs; rq_487=done spawn **rq_488**; ticks=496
+- FOI opened: gap_fwb_cepage_cost_l5 (ready, human send) — not sent
+- Next: prio5 **rq_488**; deferred **rq_116** SWA
+

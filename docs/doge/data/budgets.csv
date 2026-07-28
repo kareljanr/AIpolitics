@@ -8606,3 +8606,15 @@ bud_dg_interest_aju_2026,dg_gov,2026,41244000,,,budgeted,src_ccrek_dg_haushalt_a
 bud_dg_financing_need_2026,dg_gov,2026,199689000,,,budgeted,src_ccrek_dg_haushalt_aju_2026,strong,Finanzierungsbedarf 199.7m; raised 100m May residual 99.7m; tick495
 bud_dg_npa_growth_2026,dg_gov,2026,,,,forecast_pct,src_ccrek_dg_haushalt_aju_2026,strong,NPA growth 2026 +8.98pct vs self-cap 5pct; amount blank=pct only; tick495
 bud_dual_e2_dg_sec_2026,gg_belgium,2026,110519000,,,derived,src_dual_e2_dg_aju_tick495,strong,Dual DG ESVG -110.5m class vs FWB/WAL multi-bn; tick495
+bud_fwb_edu_personnel_2026,fwb_gov,2026,7100000000,,,budgeted,src_ccrek_fwb_it_carrieres_2026,strong,Education personnel treatments 7.1bn BI2026 86.2pct of Education+adults budget; tick496
+bud_fwb_cepage_build_est_35m,etnic,2026,35200000,,,estimate,src_ccrek_fwb_it_carrieres_2026,strong,Cepage platform build est 35.2m (front 10.6 + back 24.5) Mar2024 study unsubstantiated; tick496
+bud_fwb_cepage_5y_est_39m,etnic,2026,39100000,,,estimate,src_ccrek_fwb_it_carrieres_2026,strong,Cepage 5y upper 39.1m excl inflation; tick496
+bud_fwb_cepage_14y_est_96m,etnic,2026,95700000,,,estimate,src_ccrek_fwb_it_carrieres_2026,strong,Cepage 14y cumulative 95.7m incl evol maintenance unsubstantiated; tick496
+bud_fwb_cepage_maint_annual_est,etnic,2026,3900000,,,estimate,src_ccrek_fwb_it_carrieres_2026,strong,Cepage annual corrective maintenance+licences est 3.9m; tick496
+bud_fwb_etnic_dot_2025,etnic,2025,119700000,,,budgeted,src_ccrek_fwb_it_carrieres_2026,strong,Etnic main dotation 119.7m 2025; tick496
+bud_fwb_etnic_dot_2026,etnic,2026,117700000,,,budgeted,src_ccrek_fwb_it_carrieres_2026,strong,Etnic main dot BI2026 117.7m + complementary strategic 5.3m; tick496
+bud_fwb_etnic_strategic_dot_2026,etnic,2026,5300000,,,budgeted,src_ccrek_fwb_it_carrieres_2026,strong,Etnic complementary strategic projects dot 5.3m 2026; tick496
+bud_fwb_etnic_fte_2024,etnic,2024,0,,,stock_fte,src_ccrek_fwb_it_carrieres_2026,strong,Etnic internal staff 381 2024 (from 68 in 2002); amount0=stock; tick496
+bud_fwb_cepage_team_fte,etnic,2024,0,,,stock_fte,src_ccrek_fwb_it_carrieres_2026,strong,Cepage team 10.6 FTE Etnic+AGE Mar2024; amount0=stock; tick496
+bud_vl_persona_agodi_16m,sec_flanders,2026,16000000,,,outturn_sunk,src_ccrek_fwb_it_carrieres_2026,strong,CoA cites AGODI Persona stopped Jan2026 after 16m for less than 10pct features; dual Cepage; tick496
+bud_dual_it_edu_payroll_risk,gg_belgium,2026,95700000,,,estimate,src_dual_it_payroll_edu_tick496,strong,Dual IT payroll risk class Cepage 95.7m path + Persona 16m sunk + I-Police 77m; tick496
