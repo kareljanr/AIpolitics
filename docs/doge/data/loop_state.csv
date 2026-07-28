@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T09:45:00Z,rq_429,438,no,Scheduler 60s. Next prio5 rq_430; rq_116 SWA deferred. tick438 IPP annex L5 -421 to -5.4bn path.
+main,continuous,hole_fill,2026-08-02T10:15:00Z,rq_430,439,no,Scheduler 60s. Next prio5 rq_431; rq_116 SWA deferred. tick439 personnel austerity 459m + specialty.

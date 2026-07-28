@@ -5116,3 +5116,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +250; cmt +1; lb +10; foi gap_ipp note partial; rq_429=done; spawn **rq_430**; ticks=438
 - FOI: gap_ipp_reform_aurora_l5 residual narrowed (annex public; Aurora interactions/H1 still ready human send)
 - Next: prio5 **rq_430**; deferred **rq_116** SWA
+
+### 2026-08-02T10:15:00Z - tick 439
+- Unit: **rq_430** (FOI-adjacent hole-fill - **personnel austerity L5 multi-year + specialty breaches**)
+- Found (medium-strong primary Cour des comptes Budget Etat 2026 p53-57):
+  - **Partial replace:** **100m 2026 → 175m 2030** (personnel+ops; excl regalian; 2/5 hire if miss; intermediate years unpublished)
+  - **Statutaire employer cotis** (new hires after 31 May 2026): **10m 2026 / 284m 2029 / 365m 2030** (rate **9.5%→38%**); CoA: flat hire-volume hyp contradicts contract-prefer policy
+  - **Combined Entity I influence 459m 2029** (gov claim)
+  - **Departmental hit:** Justice **3.3m/61 FTE → 101m/1859 FTE** (622 judiciary); Defence **3.7→113.3m 2029 / 297m 2034**; Police **26 FTE → 700-821 FTE** capacity cut
+  - **Specialty breaches:** Defence eng fully transferable **20.1bn**; Justice **2.5bn** + Police **1.6bn** free redistribute; inter-programme transfers **454m eng 2024**; provisions **2.13bn** CM transfer
+  - Dual: droits d'auteur forfait remove **+30m**; VVPR hist **344→760m 2022-24**
+- Wrote: sources +1; budgets +36; cmt +2; lb +10; rq_430=done; spawn **rq_431**; ticks=439
+- FOI: none new (intermediate replace path optional later if annex absent; method residual not opacity)
+- Next: prio5 **rq_431**; deferred **rq_116** SWA
