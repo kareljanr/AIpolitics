@@ -5346,3 +5346,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity la_monnaie update; budgets +24; cmt +1; lb +10; foi gap_fed_culture note; rq_446=done; spawn **rq_447**; ticks=455
 - FOI: gap_fed_culture residual (2025 post-cut + new contracts + NOB AR) still ready; Monnaie 2024 NL dual closed
 - Next: prio5 **rq_447** (NOB / BOIC / Myria NL dual); deferred **rq_116** SWA
+
+### 2026-08-02T18:45:00Z - tick 456
+- Unit: **rq_447** (FOI-adjacent hole-fill - **NOB public stack + NL culture protocol 7m dual culture triple close**)
+- Found (strong primary NL/BNO press + Kamer 56K0856/016 + medium 56K1280/034):
+  - **NOB 2024 public stack EUR 12.380m** = fed **10.896m** + NL plan **1.4835m** (~12% NL)
+  - **NL protocols 2026-06-24 total EUR 7.0m**: Bozar **3.5m** + Monnaie **1.75m** + NOB **1.75m** (uplift **+0.933m** vs 2024 provisional named 6.067m)
+  - **2026 cut path (medium rounded debate):** NOB **~11→10m** · Monnaie **~42.75→42.24m** · Bozar **~15.66→15.52m** sum **~67.76m**
+  - Activity: concerts path **41→75**; house orchestra Bozar ~30 copros 2025; progressive integration residual
+  - Bozar VL co-finance **~0.8m -0.1m**; RRF digital **7.5m** 2021-26 (beleidsnota)
+  - **NOP NV satellite** brutomarge **0.328m** / 1.8 FTE — **not** institutional TCO (perimeter warning)
+  - No public full NOB institutional AR P&L found (unlike Monnaie); Infocenter FTE charts only
+- Wrote: sources +4; entity nob update; budgets +17; cmt +2; lb +10; foi gap_fed_culture note; rq_447=done; spawn **rq_448**; ticks=456
+- FOI: gap_fed_culture still ready — residual **NOB AR TCO** + exact post-cut codes + signed contracts; culture triple financing layer largely closed
+- Next: prio5 **rq_448** (BOIC / Myria / Red Cross NL dual or equality residual); deferred **rq_116** SWA

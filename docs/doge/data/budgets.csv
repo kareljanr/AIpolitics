@@ -8105,3 +8105,20 @@ bud_monnaie_fte_2024,la_monnaie,2024,39290,,,count,src_monnaie_jv_2024,strong,FT
 bud_monnaie_streaming_views_2024,la_monnaie,2024,278611,,,count,src_monnaie_jv_2024,strong,Streaming audience all channels 278611 2024; tick455
 bud_monnaie_income_total_2023,la_monnaie,2023,66017129,,,outturn,src_monnaie_jv_2024,strong,Total receipts 66.017m 2023 AR comparable; tick455
 bud_monnaie_exp_total_2023,la_monnaie,2023,65031585,,,outturn,src_monnaie_jv_2024,strong,Total expenses 65.032m 2023 AR comparable; tick455
+bud_nob_public_stack_2024,nob_orchestre,2024,12379500,,,budget,src_kamer_56k0856_016_fed_culture,strong,Fed 10.896m + NL plan 1.4835m = public stack 12.3795m 2024 dual; tick456
+bud_nob_nl_share_public_pct_2024,nob_orchestre,2024,12,,,pct,src_kamer_56k0856_016_fed_culture,strong,NL 1.4835 of stack 12.380 ~12pct 2024; tick456
+bud_nl_culture_protocol_total_2026,nationale_loterij,2026,7000000,,,budget,src_nl_culture_protocol_7m_2026,strong,NL culture protocols Bozar+Munt+BNO total 7.0m signed 2026-06-24; tick456
+bud_nl_protocol_bozar_2026,bozar,2026,3500000,,,budget,src_nl_culture_protocol_7m_2026,strong,NL protocol Bozar 3.5m (vs 2024 plan 3.095m +0.405m); tick456
+bud_nl_protocol_monnaie_2026,la_monnaie,2026,1750000,,,budget,src_nl_culture_protocol_7m_2026,strong,NL protocol Monnaie 1.75m (vs 2024 plan 1.489m +0.261m); tick456
+bud_nl_protocol_nob_2026,nob_orchestre,2026,1750000,,,budget,src_nl_culture_protocol_7m_2026,strong,NL protocol NOB/BNO 1.75m (vs 2024 plan 1.4835m +0.2665m); tick456
+bud_nl_culture_uplift_vs_2024,nationale_loterij,2026,933000,,,budget,src_nl_culture_protocol_7m_2026,strong,Uplift 7.0m - 6.067m provisional 2024 named = +0.933m; tick456
+bud_nob_dot_2026_cut_path,nob_orchestre,2026,10000000,,,budget,src_kamer_56k1280_034_fed_culture,medium,Kamer debate rounded cut path ~11m to ~10m 2026 class; not article-code precise; tick456
+bud_monnaie_dot_2026_cut_path,la_monnaie,2026,42240000,,,budget,src_kamer_56k1280_034_fed_culture,medium,Kamer debate rounded Monnaie ~42.75m to ~42.24m 2026 class; tick456
+bud_bozar_dot_2026_cut_path,bozar,2026,15520000,,,budget,src_kamer_56k1280_034_fed_culture,medium,Kamer debate rounded Bozar ~15.66m to ~15.52m 2026 class; tick456
+bud_fed_culture_triple_cut_path_2026,sec_federal,2026,67760000,,,budget,src_kamer_56k1280_034_fed_culture,medium,Sum rounded cut path 10+42.24+15.52=67.76m 2026 class vs 2025 initial ~69.85m; tick456
+bud_nob_concerts_target,nob_orchestre,2025,75,,,count,src_kamer_56k1280_034_fed_culture,medium,Commission: concerts frequency 41 to 75 claimed; year class 2025-26 path; tick456
+bud_bozar_vl_support_class,bozar,2025,800000,,,budget,src_kamer_56k1280_034_fed_culture,medium,Minister: VL support Bozar ~800k reduced by 100k; FWB/BCR null for NOB+Monnaie; tick456
+bud_bozar_rrf_digital_2021_26,bozar,2021,7500000,,,commitment,src_kamer_56k0856_016_fed_culture,strong,EU RRF digitalisation envelope 7.5m 2021-2026 Bozar; tick456
+bud_nop_brutomarge_2025,nob_orchestre,2025,328142,,,outturn,src_nop_companyweb_2025,strong,National Orchestra Productions satellite brutomarge 328k 2025 NOT full NOB TCO; tick456
+bud_nop_fte_2025,nob_orchestre,2025,180,,,count,src_nop_companyweb_2025,strong,NOP satellite 1.8 FTE (stores 180=1.8*100); institutional NOB FTE residual Infocenter chart; tick456
+bud_nob_public_stack_protocol_2026_class,nob_orchestre,2026,11750000,,,budget,src_nl_culture_protocol_7m_2026,medium,Illustrative: cut-path fed ~10m + NL protocol 1.75m = ~11.75m public stack class 2026; dual residual exact codes FOI; tick456
