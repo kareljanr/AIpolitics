@@ -5103,3 +5103,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +144; cmt +3; lb +10; rq_428=done; spawn **rq_429**; ticks=437
 - FOI: none new (asset optim + surpop project list already covered by prior gaps/design residual)
 - Next: prio5 **rq_429**; deferred **rq_116** SWA
+
+### 2026-08-02T09:45:00Z - tick 438
+- Unit: **rq_429** (FOI-adjacent hole-fill - **IPP reform annex L5 multi-year 2026-2030**)
+- Found (medium-strong primary Cour des comptes Budget Etat 2026 p100 Annexe 1 + p10 emp path):
+  - **Total incidence (top):** **-421 / -669 / -1.535 / -3.978 / -5.351bn** (2026-2030)
+  - **Federal:** **-320 / -494 / -1.274 / -3.017 / -4.072bn**
+  - **Entity recon bottom:** total **-421→-5.525**; regions **-76→-1.132**; communes **-25→-321** (2029/30 top vs bottom totals differ slightly)
+  - Largest cost: **quotité exemptée -531→-4.988bn**; CSSS **-423m from 2028**; droits d'auteur **-142m/yr**; heures sup **-101m/yr**; bonus emploi fiscal **-60→-218**
+  - Revenue side: **UI tax-credit cut +257→+216**; conjugal extinction **+66→+79**; high-pension red. phase **+34→+22**; true isolés **+135 from 2029**
+  - **Employment-rate credibility:** coalition **73→78% 2025-29** vs BFP Feb2026 **72.8→74.3** (gap **3.7pp 2029**); dual return-effects overstated
+- Wrote: sources +1; budgets +250; cmt +1; lb +10; foi gap_ipp note partial; rq_429=done; spawn **rq_430**; ticks=438
+- FOI: gap_ipp_reform_aurora_l5 residual narrowed (annex public; Aurora interactions/H1 still ready human send)
+- Next: prio5 **rq_430**; deferred **rq_116** SWA
