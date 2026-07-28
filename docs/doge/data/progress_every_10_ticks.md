@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 510** (2026-07-28)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Entity I aju deficit **24.5bn** · SS BC **148.0bn** near balance · Fedasil **848m** · Justice **2.9bn** · unemp **4.84bn** · dual E1/E2 residual |
+| **D. L5 named / measure end-lines** | **~31–44%** of TE (generous) | **Gain 500→510 is CoA mobility + federal aju residual wave:** DWV studies **~125m** four-pack overruns · Oosterweel exec **10.1bn** / interest **24.5bn** 2026-83 · E1 energy **~2.6bn** · MPKV coast **466m** / Kustvisie **21m** / century **2–5bn** · KMO VenB control uplift **>5.6bn** · BBI bank assess **2.3bn** / collect **36m** · Fedasil save path gap · POD MI soft save **13m** undeliverable · RIZIV miss **183m** · unemp reform path **1.69→2.45bn** / exclusion **194k** / leefloon shift **32%** · invalidity cumul miss **334m** · FOI still bulk ASBL/firm + dual cash |
+| **E. FOI-ready gaps** | **~257** drafts ready | Human send only; answered **~9**; total FOI rows **~268** (+ DWV · Oosterweel · energy funds · MPKV · KMO · BBI · Fedasil · POD MI · RVA/leefloon, …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow · reform *savings paths* are budget deltas not TE flow.
+
+### Inventory (tick 510)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~8848 |
+| commitments.csv | ~945 |
+| leaderboard.csv | ~1756 |
+| entities.csv | ~412 |
+| sources.csv | ~958 |
+| FOI ready | ~257 |
+| FOI answered | ~9 |
+| FOI total rows | ~268 |
+| research_queue | ~496 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 500
+
+- **Mobility dual (tick501–502):** DWV study four-pack spent class **~€125m** (R0N **36→104m** est) · Toekomstverbond Oosterweel exec **€10.055bn** · BC interest **€24.495bn** 2026–2083 · dual Lantis/GIP.
+- **Federal aju macro (tick503):** Entity I deficit **€24.5bn** · primary **12.2→18.7** · interest **12.3→17.5** · defence multi-year **17.3bn** · energy **~2.6bn** · dual E2.
+- **Coast + tax control (tick504–506):** MPKV **€321+144m** / Kustvisie **€21m** / century **€2–5bn** · KMO VenB **>€5.6bn** control uplifts · BBI bank **€2.3bn** assess / **€36m** collect (~1.6%).
+- **Social residual (tick507–509):** Justice **€2.9bn** + prison provis **€259m** · Fedasil **€848m** · SS **€148.0bn** · POD MI OCMW **€2.31bn** soft save slip · unemp reform **€1.69bn** path dual leefloon **31.9%** Q1 · invalidity multi-year miss **€334m**.
+
+---
+
 ## Snapshot at **tick 500** (2026-07-28)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |

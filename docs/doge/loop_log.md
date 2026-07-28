@@ -6093,3 +6093,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +31; cmt +4; lb +8; FOI **gap_rva_unemp_leefloon_l5** ready+draft; rq_500=done spawn **rq_501**; ticks=509
 - FOI opened: gap_rva_unemp_leefloon_l5 (ready, human send) — not sent
 - Next: prio5 **rq_501** (**progress@510 next tick**); deferred **rq_116** SWA
+
+### 2026-07-29T00:05:00Z - tick 510
+- Unit: **rq_501** (progress milestone @510 — coverage % + waste top10; no invent euros)
+- Found / inventory:
+  - Layers: **A100** · **B100** · **C~99** · **D~31–44%** · **E~257 ready** / ~9 answered / ~268 FOI rows
+  - CSV class: budgets ~8848 · cmt ~945 · lb ~1756 · entities ~412 · sources ~958 · rq ~497
+  - **Gain 500?510:** CoA mobility dual (DWV ~125m · Oosterweel 10.1bn / interest 24.5bn) · E1 aju 24.5bn · energy ~2.6bn · MPKV 466m/Kustvisie 21m · KMO VenB >5.6bn · BBI 2.3bn/36m · SS 148bn · unemp reform 1.69bn dual leefloon 32% · invalidity miss 334m
+  - Waste top10 **stable** (fossil/company-cars/cheque/EIWT); #2/#3 annual tie-break may flip fossil accises vs company-cars FPB; new near-list: unemp reform 1.69bn · BBI collect gap · Oosterweel mega · SS 148bn
+- Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_501=done spawn **rq_502**; ticks=510
+- FOI: none new (progress tick)
+- Next: prio5 **rq_502**; deferred **rq_116** SWA

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T23:45:00Z,rq_500,509,no,Tick509 CoA RVA unemp reform 1.69bn dual leefloon 32pct; next prio5 rq_501; progress@510 next; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T00:05:00Z,rq_501,510,no,Tick510 progress@510 coverage+waste top10; next prio5 rq_502; rq_116 SWA deferred.
