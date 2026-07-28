@@ -6340,3 +6340,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +10; cmt +2; lb +6; FOI **gap_co2_bijdrage_div_cross_l5** ready+draft; raw PDFs; rq_518=done spawn **rq_519**; ticks=527
 - FOI opened: gap_co2_bijdrage_div_cross_l5 (ready, human send) — not sent
 - Next: prio5 **rq_519** (**progress@530 next tick**); deferred **rq_116** SWA
+
+### 2026-07-29T06:00:00Z - tick 528
+- Unit: **rq_519** (FOI-adjacent hole-fill — **CoA residual mobiliteitsbudget L5 dual company cars**)
+- Found (strong primary same CoA 2024_55 Ch5 residual):
+  - **MB 2023 total €72.0m** for **10,250 workers** / **1,155 employers** (was €0.65m / 141 in 2019)
+  - **~50× fewer** users than company-car CO₂ fleet (**560,941** vehicles)
+  - **Pillar 2 €50.82m** (8,329 workers) — practical use opaque (housing rent/mortgage heavy in studies)
+  - **Pillar 3 €15.54m** (21% of total; 6,551 workers) — 38.07% special SSC limited deterrent
+  - **SSC both pillars €6.22m** 2023 (~2% of CO₂-class receipts)
+  - Pillar 1 cars Q4 2023 only **947**; cap **€16k/yr** and **1/5** gross wage
+  - Residual: CO₂ contrib **€59.1m** from <20-staff employers (21%) without systematic control
+  - **Dual:** under-used MB reform vs dominant company-car taxex/SSC hole
+- Wrote: sources +2; budgets +11; cmt +2; lb +6; FOI **gap_mb_pillar2_use_l5** ready+draft; rq_519=done spawn **rq_520**; ticks=528
+- FOI opened: gap_mb_pillar2_use_l5 (ready, human send) — not sent
+- Next: prio5 **rq_520** (**progress@530 next tick**); deferred **rq_116** SWA

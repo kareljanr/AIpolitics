@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T05:40:00Z,rq_518,527,no,Tick527 CoA CO2 bedrijfswagens 278m cum gap 958m dual taxex; next prio5 rq_519; progress@530 next; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T06:00:00Z,rq_519,528,no,Tick528 CoA mobiliteitsbudget 72m 10k workers dual cars; next prio5 rq_520; progress@530 next; rq_116 SWA deferred.

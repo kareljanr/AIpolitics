@@ -9115,3 +9115,14 @@ bud_febrac_legal_person_vehicles_2022,fod_mobiliteit,2022,1104706,,,outturn,src_
 bud_rsz_declared_company_vehicles_q4_2022,onss_rsz,2022,578331,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,strong,RSZ declared company vehicles 578331 Q4 2022; tick527
 bud_mobiliteitsbudget_special_contrib_2023,onss_rsz,2023,15500000,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,medium,Mobility budget special contribution class 15.5m 2023; marginal use vs company cars; tick527
 bud_dual_cars_ssc_taxex,gg_belgium,2022,278520000,,,derived,src_dual_company_cars_ssc_taxex_tick527,strong,Dual CO2 SSC 278m receipts under taxex company-car mega package; tick527
+bud_mb_total_2019,onss_rsz,2019,653450,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,Mobility budget total 0.653m 2019; 141 workers; tick528
+bud_mb_total_2022,onss_rsz,2022,31112059,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,Mobility budget total 31.1m 2022; 5186 workers; tick528
+bud_mb_total_2023,onss_rsz,2023,71983858,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,Mobility budget total 72.0m 2023; 10250 workers; tick528
+bud_mb_pillar2_2023,onss_rsz,2023,50817580,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,MB pillar2 modal shift amount 50.82m 2023; 8329 workers; tick528
+bud_mb_pillar3_2023,onss_rsz,2023,15541503,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,MB pillar3 cash-out 15.54m 2023 (21pct of total); 6551 workers; tick528
+bud_mb_ssc_both_2023,onss_rsz,2023,6221415,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,SSC on MB CO2 p1 + special 38.07pct p3 total 6.22m 2023; tick528
+bud_mb_employers_2023,onss_rsz,2023,1155,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,Employers offering MB 1155 2023 (was 54 in 2019); tick528
+bud_mb_pillar1_cars_q4_2023,onss_rsz,2023,947,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,MB pillar1 cars Q4 2023 only 947; tick528
+bud_co2_contrib_lt20_emp_2022,onss_rsz,2022,59121000,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,CO2 contributions from employers <20 staff 59.1m (21pct) 2022; weak systematic control; tick528
+bud_co2_contrib_gt20_emp_2022,onss_rsz,2022,219400000,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,CO2 contributions employers >20 staff 219.4m (79pct) 2022; tick528
+bud_dual_mb_vs_cars,gg_belgium,2023,71983858,,,derived,src_dual_mb_vs_company_cars_tick528,strong,Dual MB 72m vs company-car CO2 stack; not additive TE; tick528
