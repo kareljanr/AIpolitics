@@ -6501,3 +6501,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +23; cmt +3; lb +7; FOI **gap_e1_unallocated_measures_l5** ready+draft; rq_529=done spawn **rq_530**; ticks=538
 - FOI opened: gap_e1_unallocated_measures_l5 (ready, human send) — not sent
 - Next: prio5 **rq_530** (progress@540 soon); deferred **rq_116** SWA
+
+### 2026-07-29T08:45:00Z - tick 539
+- Unit: **rq_530** (FOI-adjacent hole-fill - **Kamer exposé 2026 federal primary by dept Tables1-5 + econ Table6 + COFOG Table7 + interest**)
+- Found (strong primary DOC 56 1278/001 Part III Ch3):
+  - **Primary VEK 2026:** **€99.656bn** (+6.5% vs adj 2025 €93.855bn)
+  - **Primary VLK 2026:** **€90.949bn** (-0.9% vs adj €91.774bn) - dual commit backlog **~€8.7bn**
+  - **Defence dual:** VEK **€20.112bn** (+56.5%) vs VLK **€10.770bn** (+3.3%) - backlog **~€9.3bn**
+  - **SS dept** €30.724bn (-1.0%); evenwichtsdotaties -€1.122bn; FPD +€531m; handicap +€194m
+  - **Dotaties** €17.744bn; **BNI EU** €4.994bn (+30.2%); **Finance** -€3.007bn (IMF capital 2025 €2.945bn base effect)
+  - **Provisions VLK €2.128bn:** interdept 829.7 (justice 618.3 + bpost 78 + Fedasil 100 + vulnerable 33.5); Ukraine 442.8; security 366.9; index 485.2
+  - **Econ class VLK:** SS transfers **€26.530bn (29.2%)** · C&R **€17.948bn (19.7%)** · wages 8.3 · foreign 6.6 · autonomous 5.9 · ops 5.2 · invest 5.0
+  - **COFOG VLK:** gen admin **€41.169bn (45.3%)** · social **€24.176bn (26.6%)** · defence **€10.879bn (12.0%)** · order 6.4 · econ 6.4
+  - **Federal interest:** 2025 **€10.944bn** (1.7% GDP) · 2026 **€12.343bn** (+€1.399bn)
+- Wrote: sources +2; budgets +43; cmt +4; lb +8; FOI **gap_fed_defence_vek_vlk_l5** ready+draft; rq_530=done spawn **rq_531**; ticks=539
+- FOI opened: gap_fed_defence_vek_vlk_l5 (ready, human send) - not sent
+- Next: prio5 **rq_531** (progress@540 next tick); deferred **rq_116** SWA
+

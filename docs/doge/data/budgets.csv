@@ -9244,3 +9244,46 @@ bud_graph1_cit_2026,sec_federal,2026,26000000000,,,budgeted,src_kamer_expose_e1_
 bud_defence_effort_save_2026,sec_federal,2026,250000000,,,budgeted,src_kamer_expose_e1_flows_2026,medium,Exposé: defence effort financing save fill 250m 2026 rising to 1bn; tick538
 bud_defence_effort_save_peak,sec_federal,2029,1000000000,,,budgeted,src_kamer_expose_e1_flows_2026,medium,Exposé: defence effort savings path peak 1bn; tick538
 bud_dual_fed_ss_flows,gg_belgium,2026,27500000000,,,derived,src_dual_fed_ss_flows_tick538,strong,Dual federal available 27.5bn vs SS 148bn Graph1; not additive TE; tick538
+bud_fed_primary_vek_2026,sec_federal,2026,99656200000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Expose Table3 VEK primary credits 99656.2m 2026 (+6.5pct vs adj 93548.9); tick539
+bud_fed_primary_vlk_2026,sec_federal,2026,90949000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Expose Table4/6 VLK primary 90948.6-90949m 2026 (-0.9pct vs adj 91773.9); tick539
+bud_fed_primary_vek_adj_2025,sec_federal,2025,93854700000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table1 VEK adj 2025 93854.7m; tick539
+bud_fed_primary_vlk_adj_2025,sec_federal,2025,91773900000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table2 VLK adj 2025 91773.9m; tick539
+bud_fed_defence_vek_2026,mod_defensie,2026,20112200000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table3 Defence VEK 20112.2m 2026 (+56.5pct / +7262.9m vs 12849.4 adj); tick539
+bud_fed_defence_vlk_2026,mod_defensie,2026,10769600000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Defence VLK 10769.6m 2026 (+3.3pct / +341.7m vs 10427.9); dual VEK gap; tick539
+bud_fed_ss_dept_vlk_2026,sec_ss,2026,30723500000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table3/4 Social Security dept credits 30723.5m 2026 (-322.6m / -1.0pct); tick539
+bud_fed_dotaties_2026,sec_federal,2026,17743600000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table3/4 Dotaties 17743.6m 2026 (+1.3pct); communities class 17273m +229m narrative; tick539
+bud_fed_mobility_vlk_2026,nmbs,2026,4704100000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Mobility VLK 4704.1m 2026 (-165.8m); narrative NMBS-driven -171m; tick539
+bud_fed_police_vlk_2026,sec_federal,2026,2892900000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Federal police VLK 2892.9m 2026; tick539
+bud_fed_justice_vlk_2026,sec_federal,2026,2843700000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Justice VLK 2843.7m 2026; tick539
+bud_fed_mi_vlk_2026,sec_federal,2026,2409200000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Social Integration VLK 2409.2m 2026 (+12.9pct); leefloon OCMW +312m narrative; tick539
+bud_fed_interior_vlk_2026,sec_federal,2026,2297700000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Interior VLK 2297.7m 2026 (-4.4pct); tick539
+bud_fed_finance_vlk_2026,fod_finance,2026,2384300000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Finance VLK 2384.3m 2026 (-3006.5m); IMF capital 2.945bn 2025 exceptional removed; tick539
+bud_fed_imf_capital_2025,fod_finance,2025,2945000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Exceptional 2025 IMF quota capital increase 2.945bn in Finance credits; tick539
+bud_fed_economy_vlk_2026,sec_federal,2026,1444300000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Economy VLK 1444.3m 2026 (+38.1pct); energy norm +249m narrative; tick539
+bud_fed_foreign_vlk_2026,sec_federal,2026,1606000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table4 Foreign+Devcoop VLK 1606.0m 2026 (-5.3pct); devcoop -95m narrative; tick539
+bud_fed_bni_eu_2026,sec_federal,2026,4994400000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table3/4 BNI contribution EU 4994.4m 2026 (+30.2pct / +1159.3m); tick539
+bud_fed_provisions_vlk_2026,sec_federal,2026,2128000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table5 total provisions VLK 2128.0m 2026; tick539
+bud_fed_prov_interdept_829_7m_2026,sec_federal,2026,829700000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table5 interdept provision 829.7m = justice divers 618.3 + bpost 78 + Fedasil 100 + vulnerable 33.5; tick539
+bud_fed_prov_ukraine_442_8m_2026,sec_federal,2026,442800000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table5 Ukraine provision 442.8m = 65-wet 298.8 + macro 24 + EPF 120; tick539
+bud_fed_prov_security_366_9m_2026,sec_federal,2026,366900000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table5 security provision 366.9m = security/return 250 + prison 60 + Justice transfer 6.2 + Just/Interior 50.7; tick539
+bud_fed_prov_index_485_2m_2026,sec_federal,2026,485200000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table5 indexation provision 485.2m 2026; tick539
+bud_fed_econ_ss_transfers_26530m_2026,sec_ss,2026,26530000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 econ VLK transfers to SS 26530m 29.2pct of primary; tick539
+bud_fed_econ_cr_transfers_17948m_2026,sec_federal,2026,17948000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 transfers Regions/Communities 17948m 19.7pct; tick539
+bud_fed_econ_wages_8322m_2026,sec_federal,2026,8322000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 wages+SSC 8322m 9.1pct; tick539
+bud_fed_econ_foreign_6603m_2026,sec_federal,2026,6603000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 foreign transfers 6603m 7.3pct; tick539
+bud_fed_econ_autonomous_5943m_2026,sec_federal,2026,5943000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 autonomous institutions 5943m 6.5pct; tick539
+bud_fed_econ_ops_5235m_2026,sec_federal,2026,5235000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 operating costs 5235m 5.8pct; tick539
+bud_fed_econ_hh_asbl_5105m_2026,sec_federal,2026,5105000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 households+ASBL 5105m 5.6pct; tick539
+bud_fed_econ_invest_4962m_2026,sec_federal,2026,4962000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 investments incl military 4962m 5.5pct; tick539
+bud_fed_econ_local_4056m_2026,sec_federal,2026,4056000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 local gov transfers 4056m 4.5pct; tick539
+bud_fed_econ_companies_3233m_2026,sec_federal,2026,3233000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table6 company transfers 3233m 3.6pct; tick539
+bud_fed_cofog_genadmin_41169m_2026,sec_federal,2026,41169000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table7 COFOG general public services 41169m 45.3pct VLK; tick539
+bud_fed_cofog_social_24176m_2026,sec_federal,2026,24176000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table7 COFOG social protection 24176m 26.6pct; tick539
+bud_fed_cofog_defence_10879m_2026,mod_defensie,2026,10879000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table7 COFOG defence 10879m 12.0pct aligns VLK; tick539
+bud_fed_cofog_order_6443m_2026,sec_federal,2026,6443000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table7 public order security 6443m 7.1pct; tick539
+bud_fed_cofog_econ_6418m_2026,sec_federal,2026,6418000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table7 economic affairs 6418m 7.1pct; tick539
+bud_fed_cofog_health_1113m_2026,sec_federal,2026,1113000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Table7 health 1113m 1.2pct; tick539
+bud_fed_interest_2025,sec_federal,2025,10944000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Fed interest 2025 10944m = Treasury ESR 10760 + consol 60 + FPS Fin 124; 1.7pct GDP; tick539
+bud_fed_interest_2026,sec_federal,2026,12343000000,,,budgeted,src_kamer_expose_primary_dept_2026,strong,Fed interest 2026 est 12343m (+1399m vs 2025); dual vs E1 interest 12.17bn Table3; tick539
+bud_dual_fed_primary_vek_vlk_gap,sec_federal,2026,8707000000,,,derived,src_dual_fed_primary_vek_vlk_tick539,strong,Dual VEK-VLK primary gap ~8.707bn (99.656-90.949); not cash waste; multi-year commit backlog; tick539
+bud_dual_defence_vek_vlk_gap_2026,mod_defensie,2026,9342600000,,,derived,src_dual_fed_primary_vek_vlk_tick539,strong,Dual Defence VEK 20.112 - VLK 10.770 = 9.343bn commit backlog 2026; LPM path; tick539
