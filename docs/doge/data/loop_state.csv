@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T10:45:00Z,rq_431,440,no,Scheduler 60s. Next prio5 rq_432; rq_116 SWA deferred. tick440 progress coverage + top10.
+main,continuous,hole_fill,2026-08-02T11:15:00Z,rq_432,441,no,Scheduler 60s. Next prio5 rq_433; rq_116 SWA deferred. tick441 DGD ODA L5 channels+top20+named.

@@ -5143,3 +5143,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_431=done; spawn **rq_432**; ticks=440
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_432** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-02T11:15:00Z - tick 441
+- Unit: **rq_432** (FOI-adjacent hole-fill - **DGD AR 2025 ODA L5 channels/themes/top20/named**)
+- Found (strong primary DGD Annual Report 2025 ENG, provisional):
+  - **Total DGD:** **€1,117.97m 2025** (vs 1,440.92 2024 / 1,285.90 2023); cut **€106m** of which **≥€90m** under-use + multi review
+  - **Themes 2025:** climate **365.3** (32.5%) · stability **301.8** · other **181.5** · humanitarian **175** (dual table **170**) · health **98.8**
+  - **Channels 2025:** gov **250.4** (Enabel **212.0** + mgmt **25.6** + gov **7.2** + loans **5.6**) · nongov **247.4** · multi **257.9** · hum **170** · climate policy **102.2**
+  - **Top20 sum €369.7m** (~33%); DRC **104.49** largest
+  - **Named:** LDCF **18.5m** (2nd donor) · CGIAR **9.3m** · Sahel Climate Enabel **50m** · mRNA/HTAP **8m/4y** · BIO approvals **240m**/30 projects
+- Wrote: sources +1; budgets +48; cmt +1; lb +10; foi gap_dgd note; rq_432=done; spawn **rq_433**; ticks=441
+- FOI: gap_dgd_l5_projects residual narrowed (project-level still ready human send)
+- Next: prio5 **rq_433**; deferred **rq_116** SWA

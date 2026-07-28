@@ -7743,3 +7743,51 @@ bud_specialty_provisions_interdept_liq_m,sec_federal,2026,2128000000,,,budgeted,
 bud_droits_auteur_forfait_remove_2026,fod_finance,2026,30000000,,,budgeted,src_ccrek_budget2026_personnel_austerity,medium,Remove forfait expense deduction on copyright regime +30.0m 2026 (artists with arts-work attestation keep forfait; dual IPP reopen IT -142m); tick439
 bud_vvpr_pm_hist_2022,fod_finance,2022,344000000,,,outturn,src_ccrek_budget2026_personnel_austerity,strong,VVPR/liquidation-class PM receipts 344.0m 2022 CoA p48 (doubled 2022-24); dual 18pct measure; tick439
 bud_vvpr_pm_hist_2024,fod_finance,2024,760400000,,,outturn,src_ccrek_budget2026_personnel_austerity,strong,VVPR/liquidation-class PM receipts 760.4m 2024 CoA p48 (doubled 2022-24); dual 18pct measure; tick439
+bud_dgd_total_l5_2023,dgd,2023,1285900000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD total ODA 1285.9m 2023 AR 2025 figures table (provisional); dual prior totals; tick441
+bud_dgd_total_l5_2024,dgd,2024,1440920000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD total ODA 1440.92m 2024 AR 2025 figures table (provisional); dual prior totals; tick441
+bud_dgd_total_l5_2025,dgd,2025,1117970000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD total ODA 1117.97m 2025 AR 2025 figures table (provisional); dual prior totals; tick441
+bud_dgd_theme_other_skills_edu_2025,dgd,2025,181500000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD theme other_skills_edu 181.5m 2025 AR figure p6 (provisional; sum~1122 vs total 1118); tick441
+bud_dgd_ch_enabel_agency_2025,enabel,2025,212020000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 enabel_agency 212.02m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_consolidation_society_governance_2025,dgd,2025,7200000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 consolidation_society_governance 7.2m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_enabel_management_2025,enabel,2025,25570000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 enabel_management 25.57m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_state_to_state_loans_2025,dgd,2025,5570000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 state_to_state_loans 5.57m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_gov_subtotal_2025,dgd,2025,250350000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 gov_subtotal 250.35m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_ngo_federations_2025,dgd,2025,207780000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 ngo_federations 207.78m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_ngo_other_2025,dgd,2025,8580000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 ngo_other 8.58m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_institutional_actors_2025,dgd,2025,23050000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 institutional_actors 23.05m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_scientific_institutions_2025,dgd,2025,8010000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 scientific_institutions 8.01m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_nongov_subtotal_2025,dgd,2025,247410000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 nongov_subtotal 247.41m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_multilateral_mandatory_2025,dgd,2025,199970000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 multilateral_mandatory 199.97m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_multilateral_voluntary_2025,dgd,2025,26850000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 multilateral_voluntary 26.85m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_edf_eib_2025,dgd,2025,24400000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 edf_eib 24.4m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_world_bank_group_2025,dgd,2025,6690000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 world_bank_group 6.69m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_multilateral_subtotal_2025,dgd,2025,257910000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 multilateral_subtotal 257.91m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_humanitarian_programmes_2025,dgd,2025,170000000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 humanitarian_programmes 170.0m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_climate_policy_2025,dgd,2025,102180000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 climate_policy 102.18m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_awareness_belgium_2025,dgd,2025,1990000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 awareness_belgium 1.99m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_ch_admin_eval_other_2025,dgd,2025,1920000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD channel L5 admin_eval_other 1.92m 2025 AR p50-51; dual prior enabel/hum lines; tick441
+bud_dgd_recipient_DRC_2025,dgd,2025,104490000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient DRC 104.49m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Burkina_Faso_2025,dgd,2025,28020000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Burkina_Faso 28.02m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Uganda_2025,dgd,2025,27800000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Uganda 27.8m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Burundi_2025,dgd,2025,27180000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Burundi 27.18m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Niger_2025,dgd,2025,26290000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Niger 26.29m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Palestine_2025,dgd,2025,24710000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Palestine 24.71m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Senegal_2025,dgd,2025,20060000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Senegal 20.06m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Ukraine_2025,dgd,2025,18160000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Ukraine 18.16m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Benin_2025,dgd,2025,17820000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Benin 17.82m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Mali_2025,dgd,2025,14590000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Mali 14.59m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Tanzania_2025,dgd,2025,10730000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Tanzania 10.73m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Guinea_2025,dgd,2025,10710000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Guinea 10.71m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Morocco_2025,dgd,2025,10650000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Morocco 10.65m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Mozambique_2025,dgd,2025,6950000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Mozambique 6.95m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Peru_2025,dgd,2025,4070000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Peru 4.07m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Ecuador_2025,dgd,2025,3920000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Ecuador 3.92m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Rwanda_2025,dgd,2025,3620000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Rwanda 3.62m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Cambodia_2025,dgd,2025,3480000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Cambodia 3.48m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Bolivia_2025,dgd,2025,3430000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Bolivia 3.43m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_recipient_Philippines_2025,dgd,2025,3060000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipient Philippines 3.06m 2025 AR p49; country envelope not project L5; tick441
+bud_dgd_top20_sum_2025,dgd,2025,369740000,,,derived,src_dgd_ar_2025_l5_tick441,strong,DGD top20 recipients sum 369.74m of total 1117.97m (~33.1pct) 2025; tick441
+bud_dgd_cgiar_2025,dgd,2025,9300000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,CGIAR agricultural research support 9.3m 2025 AR p10; tick441
+bud_dgd_sahel_climate_enabel,enabel,2025,50000000,,,commitment,src_dgd_ar_2025_l5_tick441,medium,Sahel Climate programme via Enabel 50.0m envelope AR p11 (agroecology women/youth; multi-year class); tick441
+bud_dgd_mrna_htap_4y,dgd,2025,8000000,,,commitment,src_dgd_ar_2025_l5_tick441,medium,mRNA tech transfer + HTAP Belgium commitment 8.0m over 4 years (>60pct mRNA/HTAP) AR p13; tick441
+bud_bio_approvals_2025_ar,bio_invest,2025,240000000,,,commitment,src_dgd_ar_2025_l5_tick441,strong,BIO approvals 240.0m / 30 projects 2025 DGD AR p15 (dual prior AR financials 235m); tick441
