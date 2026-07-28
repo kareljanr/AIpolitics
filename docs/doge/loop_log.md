@@ -4752,3 +4752,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~40; cmt +1; lb +8; raw PDF; FOI **gap_inami_art81_l5** ready; rq_403=done; spawn **rq_404**; ticks=412
 - FOI: art.81/111 top contracts L5 human send only
 - Next: prio5 **rq_404**; deferred **rq_116** SWA
+
+### 2026-08-01T21:15:00Z - tick 413
+- Unit: **rq_404** (FOI-adjacent hole-fill - **FPB pension reform distributive effects REP 13208 horizon 2029**)
+- Found (strong primary Replica+EXPEDITION, dual fiscal 13299):
+  - Baseline Dec2024 avg gross: **all 2123 EUR/mo** · new **2040** · D1 **453** · D10 **4363** (ratio **9.6**) · Gini **0.26**
+  - Gender: men **2361** / women **1902** gap **19.4%**; D1 is **75%** women
+  - Poverty sim: all **5.5%** new **5.9%** (threshold **1350 EUR/mo**); dual SILC AROP pensioners **8.5%**
+  - **Reform 2029 cumul (sim measures):** avg **-2.6%** all / **-2.4%** new (cruise **-5.6%**); D1 **-3.3%/-7.4%**; D10 **-1.8%/+1.1%**
+  - Inequality new: D10/D1 **+9.1%** · Gini **+5.5%**; all **+1.5%/+1.7%**
+  - Poverty **+0.6pp** all (to 6.1%) · **+0.4pp** new (to 6.3%); mainly min-pension welvaart freeze
+  - Abs cents: D1 loses **~15 EUR/mo** vs D10 **~79 EUR/mo** (2024 prices)
+  - Women new **-2.6%** vs men **-2.3%** (gap widens among new); stock gap narrows slightly
+  - Partial set: military/NMBS/sick-pension/household rate not simulated
+- Wrote: sources +1; budgets ~7 unit rows; cmt +1; lb +8; raw PDF; rq_404=done; spawn **rq_405**; ticks=413
+- FOI: none new (public complete for sim indicators; residual unsimulated measures when modalities fixed)
+- Next: prio5 **rq_405**; deferred **rq_116** SWA

@@ -6518,3 +6518,11 @@ bud_promes_pharma_gross_2035,sec_ss,2035,14455000000,,,esa_outlook_real2025,src_
 bud_promes_art81_comp_2025,sec_ss,2025,1973000000,,,esa_outlook_real2025,src_fpb_promes_2025_2035,strong,"Art 81/111 pharma compensations to INAMI 1973m; tick412"
 bud_promes_art81_comp_2035,sec_ss,2035,4054000000,,,esa_outlook_real2025,src_fpb_promes_2025_2035,strong,"Art 81/111 compensations 4054m +106pct; tick412"
 bud_promes_demo_share_2026_35,sec_ss,2035,3298000000,,,esa_outlook_real2026,src_fpb_promes_2025_2035,strong,"Demo-driven AMI rise 3298m of 10198m 2026-35 (aging 2147 + pop 1151 = 32pct); tick412"
+
+bud_pens_avg_gross_all_person_2024,sec_ss,2024,25476,,,sim_replica_unit,src_fpb_pension_distrib_13208,strong,"Replica avg gross pension all retirees 2123 EUR/mo Dec2024 = 25476 EUR/yr person unit; not aggregate spend; tick413"
+bud_pens_avg_gross_new_person_2024,sec_ss,2024,24480,,,sim_replica_unit,src_fpb_pension_distrib_13208,strong,"New retirees avg 2040 EUR/mo Dec2024; tick413"
+bud_pens_d1_all_person_2024,sec_ss,2024,5436,,,sim_replica_unit,src_fpb_pension_distrib_13208,strong,"D1 avg 453 EUR/mo; 75pct women; tick413"
+bud_pens_d10_all_person_2024,sec_ss,2024,52356,,,sim_replica_unit,src_fpb_pension_distrib_13208,strong,"D10 avg 4363 EUR/mo; 44pct women; tick413"
+bud_pens_reform_d1_loss_mo_2029,sec_ss,2029,15,,,sim_replica_unit,src_fpb_pension_distrib_13208,strong,"Reform 2029: D1 all pensioners lose ~15 EUR/mo 2024 prices (-3.3pct); tick413"
+bud_pens_reform_d10_loss_mo_2029,sec_ss,2029,79,,,sim_replica_unit,src_fpb_pension_distrib_13208,strong,"Reform 2029: D10 lose ~79 EUR/mo 2024 prices (-1.8pct) higher abs than D1; tick413"
+bud_pens_poverty_threshold_2024,gg_belgium,2024,16200,,,sim_expedition_unit,src_fpb_pension_distrib_13208,strong,"Sim poverty line 1350 EUR/mo 2024 (60pct median); below SILC AROP 8.5pct dual; tick413"
