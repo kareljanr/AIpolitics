@@ -5058,3 +5058,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +73; cmt +1; lb +10; rq_425=done; spawn **rq_426**; ticks=434
 - FOI: none new (package primary; residual is legislative delivery not opacity)
 - Next: prio5 **rq_426**; deferred **rq_116** SWA
+
+### 2026-08-02T08:15:00Z - tick 435
+- Unit: **rq_426** (FOI-adjacent hole-fill - **RTW invalidity L5 multi-year 2026-2029 + chomage waves**)
+- Found (medium-strong primary Cour des comptes Budget Etat 2026 p84-90 + p94):
+  - **RTW total indemnity reduction:** **EUR 202.9 / 643.8 / 1.198 / 1.929bn** (2026-2029)
+  - L5: **recontrol net 34.3→1.045bn** (gross 38.7→1.066; staff −4.4→−20.6) · **annual-ext 126.9→868.8m** · solidarité **0→77m** · psycho **2.9→11.3m** · ETA **4.8→22.3m** · WHP **0→6.7m** · maladie fonct table **34/2/54/89m**
+  - Exits target **90.204** (recontrol **43.056** + annual-ext **47.148**); dossiers recontrol **19.7k→94k/yr**
+  - **CoA flags:** most measures undeveloped; sample excl rates 8.8/23.7pct may not scale; **+48.1m overstate** recontrol 2029; psycho ROI study not for invalids; maladie fonct law not deposited; no chomage spillover modelled
+  - Baseline incapacity path **18.347bn 2029** (+28pct vs 2024); invalidity alone **13.4bn / 656k stock**
+  - Dual: work-prime cost **28→38.5m** (outside net table); maladie indem cost **16.5→124.3m** vs cotis **51→37m**
+  - **Chomage waves p94:** **193.904** exclusions (BRU **41.709** · VL **62.676** · WAL **88.566** · DG **953**); 7 waves Jan2026→Jul2027
+  - Pharma residual: of **401.9m** effort **148.9m** still to design (CoA p84)
+- Wrote: sources +1; budgets +127; cmt +2; lb +10; rq_426=done; spawn **rq_427**; ticks=435
+- FOI: none new (package primary; residual is legislative design + method audit not opacity)
+- Next: prio5 **rq_427**; deferred **rq_116** SWA
