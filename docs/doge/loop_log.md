@@ -5438,3 +5438,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); entities (cpvs_network, flagey); commitments (cmt_cpvs_inami_envelope_2026); leaderboard (+2 update sarc+iefh_cpvs); foi_queue gap_iefh notes; FOI draft note; rq_453=done rq_454=open; loop_state ticks=462
 - FOI opened: none new; gap_iefh residual narrowed (transfer perimeter public; hospital L5 cash still opaque)
 - Next: rq_454 (prestige L5 / Flagey AR / definitive NL 2024 delta / next FOI-adjacent); rq_116 SWA deferred
+
+### 2026-08-02T22:15:00Z — tick 463
+- Unit: rq_454 (NL definitive 2025 plan dual vs provisional)
+- Found: **Strong primary** KB 5 Jun 2026 (Refli 2026004330) definitive verdelingsplan **€240m** vs provisional €200m (**+€40m**). Cat1 communities **€65.856m** (DG 0.555 VL 39.842 FR 25.459). DGD 84.709 KBF **10.3** (was 9.8). Prestige **10.000016m** (prov 6.176 restored up). NEW large: LOV2030 Leuven **10.5m**, Pro League **3.5m**, women sport **2.0m**, BPC Road LA **1.1m**, EYOF2029 1.0, sports fed 2.7, local heritage call 4.0, poverty call 2.5. Culture triple 7.0 + Flagey 0.25 Europalia 0.5 Cinematek 0.7 + SARC 1.616 confirmed. Residual: prestige sub-L5 + Art5 committee notes FOI.
+- Wrote: sources (+2); budgets (+28); entities (europalia cinematek pro_league); cmt; leaderboard (+5 update); foi gap_nl_prestige_l5 ready + draft; rq_454=done rq_455=open; ticks=463
+- FOI opened: gap_nl_prestige_l5 (ready, human send)
+- Next: rq_455 (prestige FOI-adjacent public scraps / LOV2030 dual / definitive multi-year notes); rq_116 SWA deferred

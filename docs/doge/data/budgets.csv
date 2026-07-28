@@ -8192,3 +8192,32 @@ bud_cpvs_fonds_blouses_blanches_2026,riziv,2026,11700000,,,budgeted,src_kamer_56
 bud_cpvs_extra3_centres_2026,riziv,2026,5800000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,Additional 5.8m exogenous cover for 3 extra CPVS (13 total); tick462
 bud_cpvs_iefh_to_inami_transfer_2026,iefh,2026,8900000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,IEFH annual transfer to INAMI 8.9m (dotation currently financing hospital CPVS structures); dual RA 2024 cash 10.926m; tick462
 bud_cpvs_stack_dual_2024_26,iefh,2024,10926000,,,outturn,src_cpvs_dual_recon_tick462,strong,Dual anchor IEFH CPVS cash 10.926m 2024 vs 2026 transfer 8.9m announced; NL SARC separate 1.616 2025; tick462
+
+bud_nloterij_plan_def_2025_total,nationale_loterij,2025,240000000,,,budget,src_nloterij_kb_definitief_2025,strong,Definitive verdelingsplan 2025 TOTAL 240m (KB 5 Jun 2026); +40m vs provisional 200m; tick463
+bud_nloterij_def_vs_prov_uplift_2025,nationale_loterij,2025,40000000,,,derived,src_nl_2025_def_vs_prov_recon,strong,Definitive minus provisional plan total 240-200=40m uplift; tick463
+bud_nloterij_communities_def_2025,nationale_loterij,2025,65856000,,,budget,src_nloterij_kb_definitief_2025,strong,Cat1 federated entities sum: DG 555034 + VL 39842078 + FR 25458888 = 65.856m definitive; tick463
+bud_nloterij_dg_def_2025,dg,2025,555034,,,budget,src_nloterij_kb_definitief_2025,strong,German-speaking Community NL definitive 0.555034m 2025; tick463
+bud_nloterij_vl_def_2025,vlaanderen_gov,2025,39842078,,,budget,src_nloterij_kb_definitief_2025,strong,Flemish Community NL definitive 39.842078m 2025; tick463
+bud_nloterij_fr_def_2025,fwb,2025,25458888,,,budget,src_nloterij_kb_definitief_2025,strong,French Community NL definitive 25.458888m 2025; tick463
+bud_nloterij_kbf_def_2025,kbf,2025,10300000,,,budget,src_nloterij_kb_definitief_2025,strong,Koning Boudewijnstichting definitive 10.3m (prov 9.8m); tick463
+bud_nloterij_dgd_def_2025,dgd,2025,84708565,,,budget,src_nloterij_kb_definitief_2025,strong,DGD definitive 84.708565m same as provisional path; tick463
+bud_nloterij_prestige_def_2025,nationale_loterij,2025,10000016,,,budget,src_nloterij_kb_definitief_2025,strong,Nationaal Prestige definitive 10.000016m (prov 6.176m uplift; bulk sub-L5 residual); tick463
+bud_nloterij_lov2030_def_2025,nationale_loterij,2025,10500000,,,budget,src_nloterij_kb_definitief_2025,strong,LOV2030 Leuven European Capital of Culture projects 10.5m definitive NEW large L5; frame to 2030; tick463
+bud_nloterij_proleague_def_2025,nationale_loterij,2025,3500000,,,budget,src_nloterij_kb_definitief_2025,strong,Pro League FSR safety innovation 3.5m definitive NEW; tick463
+bud_nloterij_women_sport_def_2025,nationale_loterij,2025,2000000,,,budget,src_nloterij_kb_definitief_2025,strong,Women high-level sport 2.0m definitive (prov 1.0m); tick463
+bud_nloterij_bpc_road_la_def_2025,bpc,2025,1100000,,,budget,src_nloterij_kb_definitief_2025,strong,BPC Road to LA and paralympic medals 1.1m definitive NEW; dual BPC werking 0.45; tick463
+bud_nloterij_eyof2029_def_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_definitief_2025,strong,European Youth Olympic Festival 2029 1.0m definitive multi-year frame to 2029; tick463
+bud_nloterij_sports_fed_def_2025,nationale_loterij,2025,2700000,,,budget,src_nloterij_kb_definitief_2025,strong,Belgian Sports Federations and National Teams 2.7m definitive; Art5 sub-note residual; tick463
+bud_nloterij_local_heritage_call_def_2025,nationale_loterij,2025,4000000,,,budget,src_nloterij_kb_definitief_2025,strong,Project call Local Heritage 4.0m definitive cat4; tick463
+bud_nloterij_poverty_call_def_2025,nationale_loterij,2025,2500000,,,budget,src_nloterij_kb_definitief_2025,strong,Project call poverty and social inclusion 2.5m definitive cat4; tick463
+bud_nloterij_childfocus_extra_def_2025,child_focus,2025,240000,,,budget,src_nloterij_kb_definitief_2025,strong,Child Focus exceptional support 0.24m + base 1.76m = 2.0m stack; tick463
+bud_nloterij_culture_triple_def_2025,nationale_loterij,2025,7000000,,,budget,src_nloterij_kb_definitief_2025,strong,Culture triple definitive Bozar 3.5 Munt 1.75 NOB 1.75 = 7.0 confirmed vs provisional; tick463
+bud_nloterij_flagey_def_2025,flagey,2025,250000,,,budget,src_nloterij_kb_definitief_2025,strong,Flagey definitive 0.25m confirmed; tick463
+bud_nloterij_europalia_def_2025,europalia,2025,500000,,,budget,src_nloterij_kb_definitief_2025,strong,Europalia definitive 0.5m confirmed; tick463
+bud_nloterij_cinematek_def_2025,cinematek,2025,700000,,,budget,src_nloterij_kb_definitief_2025,strong,Cinematek/KBF Filmarchief definitive 0.7m confirmed dual BELSPO residual; tick463
+bud_nloterij_sarc_def_2025,iefh,2025,1616180,,,budget,src_nloterij_kb_definitief_2025,strong,SARC/CPVS project definitive 1.616180m confirmed dual CPVS stack tick462; tick463
+bud_nloterij_unia_def_2025,unia,2025,4308698,,,budget,src_nloterij_kb_definitief_2025,strong,Unia definitive 4.308698m 2025; tick463
+bud_nloterij_myria_def_2025,myria,2025,1077174,,,budget,src_nloterij_kb_definitief_2025,strong,Myria definitive 1.077174m confirmed dual AB path; tick463
+bud_nloterij_boic_def_2025,boic,2025,2000000,,,budget,src_nloterij_kb_definitief_2025,strong,BOIC werking definitive 2.0m confirmed; tick463
+bud_nloterij_reading_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,Leesbevordering + financial literacy 1.5m definitive Art5 sub residual; tick463
+bud_nloterij_chinese_pavilion_def_2025,nationale_loterij,2025,500000,,,budget,src_nloterij_kb_definitief_2025,strong,Histoire des Belges 2030 Chinese Pavilion 0.5m multi-year to 2031; tick463
