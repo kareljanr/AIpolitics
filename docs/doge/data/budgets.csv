@@ -8564,3 +8564,26 @@ bud_fwb_one_solde_aju_2026,one,2026,-18400000,,,budgeted,src_ccrek_fwb_budget_aj
 bud_fwb_ecureuil_solde_aju_2026,fonds_ecureuil,2026,85400000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Fonds Ecureuil solde aju 85.4m (init 100.0); tick493
 bud_fwb_rtbf_solde_aju_2026,rtbf,2026,-18900000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,RTBF solde aju -18.9m; tick493
 bud_fwb_prr_cur_delta_2026,fwb_gov,2026,86500000,,,budgeted,src_ccrek_fwb_budget_aju_2026,strong,Saca CUR PRR prefinancement +86.5m dep; tick493
+bud_wal_sec_aju_2026,wallonie_gov,2026,-2015400000,,,budgeted_sec,src_ccrek_wal_budget_aju_2026,strong,SEC solde aju -2015.4m (init -2015.7 almost flat); tick494
+bud_wal_rec_aju_2026,wallonie_gov,2026,22087900000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Recettes hors section particuliere aju 22087.9m (+602.2); tick494
+bud_wal_dep_liq_aju_2026,wallonie_gov,2026,21937900000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Dep liquidations aju 21937.9m (+602.2); tick494
+bud_wal_solde_brut_aju_2026,wallonie_gov,2026,150000000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Solde budgetaire brut aju 150.0m flat; tick494
+bud_wal_solde_net_aju_2026,wallonie_gov,2026,-2798600000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Solde net a financer aju -2798.6m (init -2811.1); tick494
+bud_wal_sousutil_aju_2026,wallonie_gov,2026,524000000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Sous-utilisation credits services 524.0m (init 609.0); tick494
+bud_wal_corr_sec_aju_2026,wallonie_gov,2026,963300000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Corrections SEC aju 963.3m (init 1049.3); tick494
+bud_wal_inst_consol_aju_2026,wallonie_gov,2026,-180100000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Institutions consolidees aju -180.1m (init -254.1 +74); tick494
+bud_wal_aviq_solde_aju_2026,aviq,2026,-258900000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Aviq solde aju -258.9m; tick494
+bud_wal_otw_delta_aju_2026,tec,2026,97100000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,OTW impact +97.1m vs init mainly lower capital spend; tick494
+bud_wal_icn_sec_2025_prov,wallonie_gov,2025,-2853000000,,,outturn_prov,src_ccrek_wal_budget_aju_2026,strong,ICN provisional 2025 SEC -2853m worse than gov aju by 572.4m; tick494
+bud_wal_debt_direct_2025,wallonie_gov,2025,30699400000,,,stock,src_ccrek_wal_budget_aju_2026,strong,Dette directe eoy2025 30699.4m ICN (from 20562.6 eoy2021 +49.3pct); tick494
+bud_wal_debt_direct_path_2026,wallonie_gov,2026,32974000000,,,stock_path,src_ccrek_wal_budget_aju_2026,strong,Dette directe path eoy2026 ~32974m after aju net+sousutil; tick494
+bud_wal_debt_indirect_2025,wallonie_gov,2025,10859000000,,,stock,src_ccrek_wal_budget_aju_2026,strong,Dette indirecte eoy2025 10859m ICN; tick494
+bud_wal_debt_gross_consol_path_2026,wallonie_gov,2026,43833000000,,,stock_path,src_ccrek_wal_budget_aju_2026,strong,Dette brute consolidee path eoy2026 43833m; tick494
+bud_wal_interest_aju_2026,wallonie_gov,2026,753700000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Charges interet dette directe aju 753.7m (init 712.6); tick494
+bud_wal_financing_need_2026,wallonie_gov,2026,3919400000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Besoins financement 3919.4m 2026; tick494
+bud_wal_raised_2026_may,wallonie_gov,2026,3415000000,,,outturn,src_ccrek_wal_budget_aju_2026,strong,Montants leves 3415m au 31 May 2026 + BEI 200m; tick494
+bud_wal_eib_loan_2026,wallonie_gov,2026,200000000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Pret BEI 200m 2026 financing; tick494
+bud_wal_uap_tresorerie_2026,wallonie_gov,2026,460700000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Mobilisation tresorerie UAP 460.7m (init 440.7 +20 extra); no SEC entity impact; tick494
+bud_wal_dep_net_sousutil_2026,wallonie_gov,2026,20303000000,,,budgeted,src_ccrek_wal_budget_aju_2026,strong,Dep after sous-util 20303m vs rec after UAP 17567.7m gap 2735.3m; tick494
+bud_fed_federated_eu_mff_contrib_2028,gg_belgium,2028,500000000,,,planned,src_ccrek_wal_budget_aju_2026,strong,Federal path: federated entities annual 500m from 2028 for EU MFF; WAL impact residual; tick494
+bud_dual_e2_wal_fwb_sec_2026,gg_belgium,2026,2015400000,,,derived,src_dual_e2_wal_aju_tick494,strong,Dual WAL SEC 2.015bn deficit class vs FWB 1.753 aju; tick494

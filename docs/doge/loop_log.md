@@ -5866,3 +5866,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_fwb_economies_programme_l5 (ready, human send) — not sent
 - Next: prio5 **rq_485**; deferred **rq_116** SWA
 
+
+### 2026-07-28T18:50:00Z - tick 494
+- Unit: **rq_485** (FOI-adjacent hole-fill — **CoA 2026_26 Wallonie budget adjustment 2026 + dual Entity II**)
+- Found (strong primary Cour des comptes FR 11 Jun 2026):
+  - **SEC aju €-2,015.4m** (init -2,015.7 almost flat); rec **22,087.9m** · dep liq **21,937.9m** (+602 each)
+  - Solde net **-2,798.6m**; sous-util **524m**; corr SEC **963.3m**; inst consol **-180.1m** (Aviq **-258.9**; OTW **+97.1**)
+  - **ICN 2025 provisional €-2,853m** (-572.4m vs gov aju estimate)
+  - **Debt direct:** 20.6bn (2021) ? **30.7bn** eoy2025 (+49%) ? path **33.0bn** eoy2026; gross consol path **43.8bn**; interest **753.7m**
+  - Financing needs **3.92bn**; raised **3.42bn** + EIB **200m** (May); Moody's **A3?Baa1** Apr 2026
+  - **Opacity:** standardized spend fiches denied to CoA (confidential claim)
+  - **Dual:** WAL SEC -2.02bn vs FWB -1.75bn aju; SWA coop 25 Mar still pending assent
+- Wrote: sources +2; budgets +23; cmt +3; lb +5; FOI **gap_wal_fiches_budget_2026** ready+draft; raw PDF; rq_485=done spawn **rq_486**; ticks=494
+- FOI opened: gap_wal_fiches_budget_2026 (ready, human send) — not sent
+- Next: prio5 **rq_486**; deferred **rq_116** SWA
+

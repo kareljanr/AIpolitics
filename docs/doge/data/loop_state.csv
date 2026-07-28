@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T18:30:00Z,rq_484,493,no,Tick493 CoA FWB aju SEC -1.75bn; next prio5 rq_485; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T18:50:00Z,rq_485,494,no,Tick494 CoA WAL aju SEC -2.02bn debt path; next prio5 rq_486; rq_116 SWA deferred.
