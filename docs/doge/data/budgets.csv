@@ -6792,3 +6792,21 @@ bud_inami_inv_indep_reg_vl_2024,riziv,2024,19563,,,headcount,src_inami_invalidit
 bud_inami_inv_indep_reg_wal_2024,riziv,2024,11529,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region wal stock 11529 eoy 2024; tick423
 bud_inami_inv_indep_reg_bru_2024,riziv,2024,3532,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region bru stock 3532 eoy 2024; tick423
 bud_inami_inv_indep_reg_abroad_2024,riziv,2024,821,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region abroad stock 821 eoy 2024; tick423
+bud_inami_inv_indep_cash_full_2025,riziv,2025,666968705,,,outturn,src_inami_invalidite_indep_2025,strong,Indep inv cash total general 667.0m 2025 base+prime; dual sal 9.97bn; tick424
+bud_inami_inv_indep_base_2025,riziv,2025,655516602,,,outturn,src_inami_invalidite_indep_2025,strong,Indep inv base indemnites 655.5m 2025; tick424
+bud_inami_inv_indep_prime_2025,riziv,2025,11452104,,,outturn,src_inami_invalidite_indep_2025,strong,Indep inv prime rattrapage 11.5m 2025; tick424
+bud_inami_inv_indep_days_2025,riziv,2025,11288630,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv days 11288630 2025; tick424
+bud_inami_inv_indep_avg_day_2025,riziv,2025,5807,,,unit_cost_cents,src_inami_invalidite_indep_2025,strong,Indep avg day EUR 58.07 stored cents 5807 2025; tick424
+bud_inami_inv_indep_stock_eoy_2025,riziv,2025,38915,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv stock eoy 38915 2025 (+9.79pct; provisional); tick424
+bud_inami_inv_indep_patho_tumors_2025,riziv,2025,3407,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho tumors stock 3407 eoy 2025; tick424
+bud_inami_inv_indep_patho_mental_2025,riziv,2025,11467,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho mental stock 11467 eoy 2025; tick424
+bud_inami_inv_indep_patho_nervous_2025,riziv,2025,2763,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho nervous stock 2763 eoy 2025; tick424
+bud_inami_inv_indep_patho_circulatory_2025,riziv,2025,2775,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho circulatory stock 2775 eoy 2025; tick424
+bud_inami_inv_indep_patho_osteo_2025,riziv,2025,11040,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho osteo stock 11040 eoy 2025; tick424
+bud_inami_inv_indep_patho_trauma_2025,riziv,2025,3347,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho trauma stock 3347 eoy 2025; tick424
+bud_inami_inv_indep_patho_other_2025,riziv,2025,4116,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv patho other stock 4116 eoy 2025; tick424
+bud_inami_inv_indep_reg_vl_2025,riziv,2025,21038,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv region vl stock 21038 eoy 2025; tick424
+bud_inami_inv_indep_reg_wal_2025,riziv,2025,12979,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv region wal stock 12979 eoy 2025; tick424
+bud_inami_inv_indep_reg_bru_2025,riziv,2025,4037,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv region bru stock 4037 eoy 2025; tick424
+bud_inami_inv_indep_reg_abroad_2025,riziv,2025,861,,,headcount,src_inami_invalidite_indep_2025,strong,Indep inv region abroad stock 861 eoy 2025; tick424
+bud_inami_inv_total_sal_indep_cash_2025,riziv,2025,10638089584,,,outturn,src_inami_invalidite_indep_2025,strong,Dual recon sal 9.971120879bn tick421 + indep 667.0m = 10.638bn total inv cash 2025; tick424

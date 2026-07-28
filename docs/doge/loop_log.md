@@ -4906,3 +4906,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +41; cmt +2; lb +3; FOI **gap_inami_invalidite_indep_cash** fully **answered**; raw 2 PDFs; rq_414=done; spawn **rq_415**; ticks=423
 - FOI: closed (jours+montants+avg day public parallel salaried)
 - Next: prio5 **rq_415**; deferred **rq_116** SWA
+
+### 2026-08-02T02:45:00Z - tick 424
+- Unit: **rq_415** (FOI-adjacent hole-fill - **INAMI independent invalidity 2025**)
+- Found (strong primary INAMI 19 May 2026 PDFs cas+jours; provisional stock):
+  - **Cash total general:** **€667.0m** 2025 (+10.93% YoY; base **€655.5m** + prime **€11.5m**)
+  - **Days:** **11.29m** · **avg day €58.07** (+2.11% YoY)
+  - Stock eoy **38.915** (+9.79%; matches tick421 indep headcount)
+  - Patho 2025: mental **11.467 (29.5%)** · osteo **11.040 (28.4%)** · tumors 3.407
+  - Regions: VL **21.038** · WAL **12.979** · BRU **4.037** · abroad 861
+  - Dual recon: sal **€9.971bn** tick421 + indep **€0.667bn** = **€10.638bn** total inv cash 2025
+- Wrote: sources +1; budgets +18; cmt +2; lb +3; raw 2 PDFs; rq_415=done; spawn **rq_416**; ticks=424
+- FOI: none new (prior indep cash gap already closed tick423)
+- Next: prio5 **rq_416**; deferred **rq_116** SWA
