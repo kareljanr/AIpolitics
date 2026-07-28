@@ -6233,3 +6233,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +14; cmt +3; lb +7; FOI **gap_justice_digi_l5** ready+draft; raw PDFs; rq_510=done spawn **rq_511**; ticks=519
 - FOI opened: gap_justice_digi_l5 (ready, human send) — not sent
 - Next: prio5 **rq_511** (**progress@520 next tick**); deferred **rq_116** SWA
+
+### 2026-07-29T03:20:00Z - tick 520
+- Unit: **rq_511** (progress milestone @520 — coverage % + waste top10; no invent euros)
+- Found / inventory:
+  - **A/B:** still **100%** L0/L1 on EUR 347.956bn TE
+  - **C L2:** **~99%** — BRU SEC/STIB + Justice digi + consultancy inventory layer
+  - **D L5:** **~32-45%** generous — gain 510→520: Phoenix/customs/defence residual + consultancy **2.5bn** + Smals broker **1.8bn** + 101-sample **2.2bn** + Justice digi **140m/~500** consultants + BRU Entity II + FAM
+  - **E FOI:** ready **~265** · answered **~9** · total **~277**
+  - **Rows:** budgets **~9027** · cmt **~974** · lb **~1822** · entities **~410** · sources **~974** · rq **~506**
+  - **Waste top10 change:** fossil/cars/cheque stable #1-6/#8-9; **NEW** lb_cons_no_costbenefit_18bn **#7** · lb_cons_101_sample_2_2bn **#10**; EIWT drops just-outside
+- Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_511=done spawn **rq_512**; ticks=520
+- FOI: none new (progress tick)
+- Next: prio5 **rq_512**; deferred **rq_116** SWA

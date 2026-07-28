@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 520** (2026-07-29)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** BRU SEC deficit **957m** · STIB **1.17bn** · Justice digi multi-source · consultancy inventory **2.5bn**/3y · Smals broker · Entity I residual fills |
+| **D. L5 named / measure end-lines** | **~32-45%** of TE (generous) | **Gain 510->520 is CoA residual aju + consultancy mega-audit + Justice digi dual:** Phoenix CfD **584m** · customs/VVPR/opcent · defence asset optim **3.17bn** / Belfius **~2bn** · Fedasil save gap · federal consultancy **2.525bn** 2020-22 (IT **81%**) · Smals broker framework **1.8bn** / orders **471m** · 101-contract sample **2.2bn** systemic non-compliance · Justice digi **~140m**/2023 + **~500** consultants · JustSign/bpost **5.8m** · FAM ops **12.5m** · FOI still bulk ASBL/firm + named contractor L5 |
+| **E. FOI-ready gaps** | **~265** drafts ready | Human send only; answered **~9**; total FOI rows **~277** (+ Phoenix · customs · defence · consultancy inventory · BRU measures · FAM · Smals broker · 101 overruns · Justice digi, ...) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow · reform *savings paths* are budget deltas not TE flow · Belfius sale is asset finance not pure TE.
+
+### Inventory (tick 520)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~9027 |
+| commitments.csv | ~974 |
+| leaderboard.csv | ~1822 |
+| entities.csv | ~410 |
+| sources.csv | ~974 |
+| FOI ready | ~265 |
+| FOI answered | ~9 |
+| FOI total rows | ~277 |
+| research_queue | ~506 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 510
+
+- **Entity I residual (tick511-513):** energy L5 Phoenix CfD **~584m** + assignment-fund opacity · fiscal customs/VVPR/opcent contingent · defence multi-year financing + asset optim **3.17bn** / Belfius **~2bn** · Fedasil save gap residual.
+- **Consultancy mega-wave (tick514,517-518):** federal consultancy **EUR 2.525bn** 2020-22 (IT **2.03bn** / non-IT **492m**) · top buyers NMBS/Infrabel/Fin/BOSA · Smals broker **1.8bn** framework / **471m** orders / single bidder · 101-contract sample **2.2bn** non-compliance (no cost-benefit **78%/1.8bn**).
+- **Entity II + social (tick515-516):** BRU SEC **~-957m** / debt path **17.7bn** / STIB **1.17bn** / Kanal omission · FAM medical accidents ops **12.5m** / indemn cumul **101m**.
+- **Justice digi dual IT (tick519):** policy-cell **~140m** 2023 · SD ICT **93.4m** commit · PHV **115m** · **~500** external consultants (Crossborder **228 vs 6** statutory) · JustSign/bpost irregular **5.8m** · dual I-Police/Persona/Cepage.
+
+---
+
 ## Snapshot at **tick 510** (2026-07-28)
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
