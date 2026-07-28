@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T10:45:00Z,rq_479,488,yes,User pause paused=yes. Next when resume: prio5 rq_480; progress@490 soon; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-08-03T10:45:00Z,rq_479,488,yes,Watcher cancelled (scheduler 019fa293fb94). paused=yes. Resume: paused=no + re-create 60s schedule; next rq_480; progress@490.
