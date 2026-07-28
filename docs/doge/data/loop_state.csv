@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T10:15:00Z,rq_478,487,no,Scheduler 60s. Next prio5 rq_479; rq_116 SWA deferred. tick487 FPB 263 measures Entity I dual.
+main,continuous,hole_fill,2026-08-03T10:45:00Z,rq_479,488,no,Scheduler 60s. Next prio5 rq_480; progress@490 soon; rq_116 SWA deferred. tick488 CM Jul 7.7bn dual.

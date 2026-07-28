@@ -8464,3 +8464,34 @@ bud_entity1_control_gap_2029,sec_federal,2029,4900000000,,,estimated,src_fpb_bud
 bud_fpb_measures_inventory_count_2026,sec_federal,2026,263,,,count,src_fpb_budget2027_measures_xlsx,strong,FPB inventory 263 measure rows (press 250+; ~230 external + ~30 DC2024); tick487
 bud_fpb_measures_quantified_2029,sec_federal,2029,39,,,count,src_fpb_budget2027_measures_xlsx,strong,39 of 263 measures have DC2024 annual impulse EUR m 2029; alternatives not additive; tick487
 bud_dual_e1_residual_gap_2029,gg_belgium,2029,4900000000,,,derived,src_dual_e1_e2_gap_tick487,strong,Entity I residual control gap 4.9bn 2029 dual vs Entity II quartet 2.65bn 2026 class different metric; tick487
+bud_entity1_def_2026_cm,sec_federal,2026,-25680000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I SEC deficit -25.680bn 2026 CM Jul (Mon column; -3.9pct GDP); tick488
+bud_entity1_def_2027_cm,sec_federal,2027,-30344000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I SEC deficit -30.344bn 2027 CM Jul -4.4pct GDP; tick488
+bud_entity1_def_2028_cm,sec_federal,2028,-34028000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I SEC deficit -34.028bn 2028 CM Jul -4.8pct GDP; tick488
+bud_entity1_def_2029_cm,sec_federal,2029,-38275000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I SEC deficit -38.275bn 2029 CM Jul -5.2pct GDP; dual RTBF 38.5 class; tick488
+bud_entity1_def_2031_cm,sec_federal,2031,-44496000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I SEC deficit -44.496bn 2031 CM Jul -5.7pct GDP; tick488
+bud_fed_def_2026_cm,sec_federal,2026,-25818000000,,,estimated,src_cm_jul2026_entity1,strong,Federal power deficit -25.818bn 2026 CM Jul; tick488
+bud_fed_def_2029_cm,sec_federal,2029,-41175000000,,,estimated,src_cm_jul2026_entity1,strong,Federal power deficit -41.175bn 2029 CM Jul; tick488
+bud_ss_balance_2026_cm,sec_ss,2026,-44000000,,,estimated,src_cm_jul2026_entity1,strong,SS balance -44m 2026 CM Jul (near zero); tick488
+bud_ss_balance_2027_cm,sec_ss,2027,1394000000,,,estimated,src_cm_jul2026_entity1,strong,SS surplus +1.394bn 2027 CM Jul; tick488
+bud_entity1_unalloc_2026,sec_federal,2026,183000000,,,budgeted,src_cm_jul2026_entity1,strong,Mesures non réparties total +183m 2026 (positive for saldo); tick488
+bud_entity1_unalloc_2027,sec_federal,2027,1415000000,,,budgeted,src_cm_jul2026_entity1,strong,Mesures non réparties +1.415bn 2027; tick488
+bud_entity1_unalloc_2029,sec_federal,2029,2192000000,,,budgeted,src_cm_jul2026_entity1,strong,Mesures non réparties +2.192bn 2029 path; tick488
+bud_entity1_control_gap_2029_cm,sec_federal,2029,7700000000,,,estimated,src_cm_jul2026_entity1,strong,Control-account cumulative deviation 7.7bn 2029 (Table16; upgrades Mar 4.9bn); tick488
+bud_entity1_control_gap_2028_cm,sec_federal,2028,5800000000,,,estimated,src_cm_jul2026_entity1,strong,Control cum gap 5.8bn 2028; tick488
+bud_entity1_control_gap_2031_cm,sec_federal,2031,9800000000,,,estimated,src_cm_jul2026_entity1,strong,Control cum gap 9.8bn 2031; tick488
+bud_entity1_netexp_2026_cm,sec_federal,2026,197600000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I net expenditure 197.6bn 2026 CM; tick488
+bud_entity1_netexp_2029_cm,sec_federal,2029,219600000000,,,estimated,src_cm_jul2026_entity1,strong,Entity I net expenditure 219.6bn 2029 CM; tick488
+bud_gg_debt_pct_2026_cm,gg_belgium,2026,110.7,,,estimated,src_cm_jul2026_entity1,strong,GG debt 110.7pct GDP 2026 CM Jul path to 122.6 2031; tick488
+bud_gg_debt_pct_2029_cm,gg_belgium,2029,117.1,,,estimated,src_cm_jul2026_entity1,strong,GG debt 117.1pct GDP 2029 CM Jul; tick488
+bud_gg_debt_pct_2031_cm,gg_belgium,2031,122.6,,,estimated,src_cm_jul2026_entity1,strong,GG debt 122.6pct GDP 2031 CM Jul; tick488
+bud_entity1_debt_pct_2026_cm,sec_federal,2026,86.3,,,estimated,src_cm_jul2026_entity1,strong,Entity I debt 86.3pct GDP 2026 path 97.7 2031; tick488
+bud_entity1_debt_pct_2029_cm,sec_federal,2029,92.3,,,estimated,src_cm_jul2026_entity1,strong,Entity I debt 92.3pct GDP 2029; tick488
+bud_entity1_sousutil_2026,sec_federal,2026,1625000000,,,budgeted,src_cm_jul2026_entity1,strong,Sous-utilisation objective total 1.625bn 2026 (prim 1.255 OIP 0.148 IPSS 0.221); tick488
+bud_entity1_sousutil_2029,sec_federal,2029,1750000000,,,budgeted,src_cm_jul2026_entity1,strong,Sous-utilisation 1.750bn 2029; tick488
+bud_entity1_interest_2029_cm,sec_federal,2029,18600000000,,,estimated,src_cm_jul2026_entity1,strong,Interest charges ~18.6bn 2029 CM vs 17.5 CB2026 (Table9 diff); tick488
+bud_unalloc_subsidy_cut_2029,sec_federal,2029,199000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: reduction federal subsidies 199m 2029 path (49/74/99/199); tick488
+bud_unalloc_reorg_fed_2029,sec_federal,2029,150000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: federal reorg 150m + centralisation staff services 150m 2029; tick488
+bud_unalloc_fraud_pack_2029,sec_federal,2029,482000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: fraud fight+compliance FPS Finance 482m 2029 (0/147/446/482); tick488
+bud_unalloc_fiod_2029,sec_federal,2029,193000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: FIOD+national financial prosecutor 193m 2029; tick488
+bud_unalloc_replace_ratio_2029,sec_federal,2029,175000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: selective public replacement ratio 100→175m 2026-29; tick488
+bud_dual_e1_gap_7_7_2029,gg_belgium,2029,7700000000,,,derived,src_dual_e1_control_gap_7_7_tick488,strong,Dual E1 control residual 7.7bn 2029 vs E2 quartet 2.65bn 2026 class; tick488

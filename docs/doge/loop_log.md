@@ -5744,3 +5744,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +25; cmt +2; lb +7; raw xlsx; rq_478=done spawn **rq_479**; ticks=487
 - FOI: none (full public inventory; adoption L5 future)
 - Next: prio5 **rq_479**; deferred **rq_116** SWA
+
+### 2026-08-03T10:45:00Z - tick 488
+- Unit: **rq_479** (FOI-adjacent hole-fill - **CM Jul 2026 Entity I path control gap 7.7bn + unallocated L5 dual**)
+- Found (strong primary BOSA CM rapport 6 Jul 2026 définitive):
+  - **Entity I deficit path bn:** 2026 **-25.68** · 2027 **-30.34** · 2028 **-34.03** · 2029 **-38.28** · 2031 **-44.50** (−3.9→−5.7% GDP)
+  - **Control-account cumulative gap:** 0.6 / 2.4 / 5.8 / **7.7bn** 2029 / 8.4 / **9.8bn** 2031 (upgrades Mar **4.9bn** pre-Iran)
+  - **Net exp bn:** 197.6 → **219.6** 2029; norms 2.96→2.27%
+  - **GG debt:** 110.7% 2026 → **117.1** 2029 → **122.6** 2031; Entity I debt **86.3→97.7%**
+  - **Unallocated measures total 2029 +2.192bn** L5: fraud+compliance **482** · FIOD **193** · subsidy cut **199** · reorg+central **150+150** · replace ratio **175** · social/tax fraud **200+200**
+  - Sous-utilisation **1.625→1.750bn**; interest ~**18.6bn** 2029 class
+  - **Dual:** E1 residual control **7.7bn** vs Entity II quartet **2.65bn** 2026 class
+- Wrote: sources +3; budgets +31; cmt +3; lb +7; raw PDF; rq_479=done spawn **rq_480**; ticks=488
+- FOI: none (full public CM L5 unalloc; residual outturn future)
+- Next: prio5 **rq_480** (progress@490 soon); deferred **rq_116** SWA
