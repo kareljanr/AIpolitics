@@ -5210,3 +5210,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity incofin_im + update IMF; budgets +24; cmt +1; lb +10; rq_436=done; spawn **rq_437**; ticks=445
 - FOI: none new (AR public; multi-year VL stake acquisition path optional low-prio residual)
 - Next: prio5 **rq_437**; deferred **rq_116** SWA
+
+### 2026-08-02T13:45:00Z - tick 446
+- Unit: **rq_437** (FOI-adjacent hole-fill - **Kampani agri impact fund AR2023 + DGD first-loss + BIO 2m + named L5 dual Enabel**)
+- Found (strong primary AR2023 + DGD impact PDF + BIO invest page + portfolio web):
+  - **Fund size EUR 14.6m** after **+4.6m** raise 2023 (from 10m); subscribed **13.85m** / uncalled **3.60m**; target path **20m** then ambition **30m**
+  - **BS assets 9.14m** · credit portfolio **7.27m** · at-work **10m** · equity **9.10m** · first-loss **0.8m** · cash **0.58m**
+  - **Net loss 0.52m** 2023 (op +18k then provisions/FX); revenues **0.70m**
+  - **DGD FCA 900k** (450+270+180): spend **902k** of which first-loss **800.7k** + invest-ready **79k** + derisk **22k**; claim **~11x** private leverage
+  - **BIO equity EUR 2.0m** (invest page Jan 2026); dual BIO AR named Kampani 2m
+  - **Portfolio L5 public:** named EUR sample sum **~5.84m** (U-IMCEC 1.0 largest); USD face sample **~10.57m** (no FX invent); site **13m+** deployed / **30+** deals / **100k** farmers class
+  - Dual: Enabel pipeline (BioPhyto/OJA); Cera **3%** shareholdership pie; Alterfin on board; NGO shareholders (Rikolto/Trias/Oxfam/BD)
+  - Residual: AR2024-25 PDFs behind SharePoint login (not FOI-material for private fund)
+- Wrote: sources +4; entity kampani update; budgets +28; cmt +1; lb +10; rq_437=done; spawn **rq_438**; ticks=446
+- FOI: none new (public fills strong; private AR gate not public-euro opacity)
+- Next: prio5 **rq_438**; deferred **rq_116** SWA

@@ -7925,3 +7925,31 @@ bud_incofin_imf_lovcen_exit_2026,incofin_mf_fund,2026,1300000,,,flow,src_incofin
 bud_incofin_imf_fx_hedge_2025,incofin_mf_fund,2025,28744000,,,notional,src_incofin_imf_ar_2025,strong,FX hedge notional 28.744m = 65pct of loan portfolio; tick445
 bud_incofin_imf_banco_fie_2025,incofin_mf_fund,2025,8460000,,,stock,src_incofin_imf_ar_2025,strong,Banco FIE Bolivia equity book 8.460m largest named equity L5; stock dividends drive concentration; tick445
 bud_incofin_imf_op_costs_2025,incofin_mf_fund,2025,1232000,,,outturn,src_incofin_imf_ar_2025,strong,Operational costs 1.232m (mgmt fee 1.055 + other); tick445
+bud_kampani_fund_size_2023,kampani,2023,14600000,,,stock,src_kampani_ar_2023,strong,Fund size 14.6m after 4.6m raise from 10m; target was 20m; tick446
+bud_kampani_subscribed_2023,kampani,2023,13847490,,,stock,src_kampani_ar_2023,strong,Other subscribed capital 13.847m; uncalled -3.605m; tick446
+bud_kampani_equity_2023,kampani,2023,9099617,,,stock,src_kampani_ar_2023,strong,Equity 9.100m (incl first loss 0.8m; accum losses -1.94m); tick446
+bud_kampani_assets_2023,kampani,2023,9139900,,,stock,src_kampani_ar_2023,strong,Total assets BS 9.140m; tick446
+bud_kampani_credit_port_2023,kampani,2023,7271836,,,stock,src_kampani_ar_2023,strong,Credit portfolio book 7.272m; tick446
+bud_kampani_at_work_2023,kampani,2023,10000000,,,stock,src_kampani_ar_2023,strong,AR headline EUR 10m put at work 2023; tick446
+bud_kampani_cash_2023,kampani,2023,584570,,,stock,src_kampani_ar_2023,strong,Cash 0.585m; tick446
+bud_kampani_first_loss_2023,kampani,2023,800000,,,stock,src_kampani_ar_2023,strong,First loss tranche 0.8m (5pct capital class; DGD-backed); tick446
+bud_kampani_net_loss_2023,kampani,2023,520628,,,outturn,src_kampani_ar_2023,strong,Net loss 0.521m (provisions + FX latent); operational result +18k before provisions; tick446
+bud_kampani_rev_2023,kampani,2023,702586,,,outturn,src_kampani_ar_2023,strong,Revenues 0.703m; opex 0.684m; tick446
+bud_kampani_raise_2023,kampani,2023,4600000,,,flow,src_kampani_ar_2023,strong,Capital raise +4.6m 2023 (CLAC new shareholder); tick446
+bud_kampani_farmers_2023,kampani,2023,94189,,,count,src_kampani_ar_2023,strong,Farmers reached 94189 (74104 2022); 14 countries; tick446
+bud_kampani_dgd_subsidy_total,kampani,2021,900000,,,envelope,src_kampani_dgd_impact_2021_24,strong,DGD FCA subsidy total 900k 2021-24 (instalments 450+270+180); investment-ready+derisk+first-loss; tick446
+bud_kampani_dgd_spent_2024,kampani,2024,902240,,,outturn,src_kampani_dgd_impact_2021_24,strong,Project spend 902.24k by Oct2024: first-loss 800.67 + invest-ready 79.20 + derisk 22.37; tick446
+bud_kampani_dgd_first_loss,kampani,2024,800673,,,stock,src_kampani_dgd_impact_2021_24,strong,First-loss tranche funded from DGD 800.7k catalytic blended finance; tick446
+bud_kampani_bio_equity_2m,bio_invest,2026,2000000,,,stock,src_bio_kampani_equity_2m,strong,BIO equity 2m Kampani (page date Jan 2026; dual AR BIO 2m 2025 approval class); tick446
+bud_kampani_target_30m,kampani,2024,30000000,,,target,src_kampani_dgd_impact_2021_24,medium,New ambition fund size 30m / ~90 deals (was 20m); not raised; tick446
+bud_kampani_deployed_web,kampani,2025,13000000,,,stock,src_kampani_portfolio_web,medium,Site headline EUR 13m+ deployed; 30+ deals; 100k farmers class; partial vs named tickets; tick446
+bud_kampani_l5_uimcec_1m,kampani,2026,1000000,,,commitment,src_kampani_portfolio_web,strong,U-IMCEC Senegal EUR 1.0m (largest EUR ticket; 2026); tick446
+bud_kampani_l5_biophyto_0_5m,kampani,2023,500000,,,disbursement,src_kampani_portfolio_web,strong,BioPhyto Benin EUR 0.5m dual Enabel intro; tick446
+bud_kampani_l5_amaati_0_5m,kampani,2022,500000,,,disbursement,src_kampani_portfolio_web,strong,Amaati Ghana EUR 0.5m; tick446
+bud_kampani_l5_cassia_0_5m,kampani,2022,500000,,,disbursement,src_kampani_portfolio_web,strong,Cassia Coop Indonesia EUR 0.5m; tick446
+bud_kampani_l5_scoopanab_0_46m,kampani,2025,458000,,,disbursement,src_kampani_portfolio_web,strong,SCOOPANAB Ivory Coast cocoa EUR 0.458m; tick446
+bud_kampani_l5_sommalife_0_44m,kampani,2024,440000,,,disbursement,src_kampani_portfolio_web,strong,Sommalife Ghana shea EUR 0.44m; tick446
+bud_kampani_l5_eur_named_sum,kampani,2025,5843000,,,sample,src_kampani_portfolio_web,strong,Sum named EUR tickets on public portfolio page ~5.843m (not full outstanding; excludes USD face); tick446
+bud_kampani_l5_usd_named_face,kampani,2025,10571000,,,sample,src_kampani_portfolio_web,medium,Sum named USD face tickets ~10.571m (amount stores USD; no FX invent to EUR); tick446
+bud_kampani_l5_faces_1m_usd,kampani,2025,1000000,,,disbursement,src_kampani_portfolio_web,medium,FACES Microfinanzas Ecuador USD 1m face 2025; tick446
+bud_kampani_l5_fecceg_0_89m_usd,kampani,2022,887000,,,disbursement,src_kampani_portfolio_web,medium,FECCEG Guatemala coffee USD 0.887m face; tick446
