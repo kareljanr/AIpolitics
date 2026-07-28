@@ -5238,3 +5238,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entity kbf; budgets +15; cmt +1; lb +10; rq_438=done; spawn **rq_439**; ticks=447
 - FOI: none new (public infographics strong; optional FS deepen later not material opacity)
 - Next: prio5 **rq_439**; deferred **rq_116** SWA
+
+### 2026-08-02T14:45:00Z - tick 448
+- Unit: **rq_439** (FOI-adjacent hole-fill - **Nationale Loterij JV2024 society return + dual KBF lottery path**)
+- Found (strong primary Nationale Loterij Jaarverslag 2024 + 2025 press):
+  - **Omzet/inzetten 2024 EUR 1.553bn** (+4.4pct) · **2025 EUR 1.666bn** record
+  - **Society return 2024 EUR 362.5m** = **goede doelen 217.5m** (contract base 200m + extra 17.5m) + **monopolierente 145m** to State
+  - **2025 society ~EUR 370m** press (subsidies+monopolierente class)
+  - Projects **1,857** 2024 · ~**1,970** 2025 medium · prizes **1.057bn** · equity **234.74m** (capital 180m)
+  - Ownership **State 78.72% / FPIM 21.28%** · digital stakes **415m** (27%) · board pay **0.38m**
+  - Product L5 2024: EuroMillions **489m** · Instant **486m** · Lotto **441m**
+  - Dual: KBF **10m** 2026 lottery allocation is subset of good-causes stack; residual full KB verdelingsplan L5 (communities/BOIC/etc.)
+- Wrote: sources +3; entity nationale_loterij; budgets +24; cmt +1; lb +10; rq_439=done; spawn **rq_440**; ticks=448
+- FOI: none new (optional verdelingsplan top-L5 later if KB PDF not public)
+- Next: prio5 **rq_440**; deferred **rq_116** SWA

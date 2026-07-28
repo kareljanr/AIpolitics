@@ -7968,3 +7968,27 @@ bud_kbf_staff_2025,kbf,2025,200,,,count,src_kbf_figures_2026,strong,KBF staff me
 bud_kbf_experts_juries_2025,kbf,2025,4300,,,count,src_kbf_figures_2026,strong,Experts in independent juries and committees 4300; tick447
 bud_kbf_third_party_donations_2025,kbf,2025,219000,,,count,src_kbf_figures_2026,strong,Third-party donations via KBF >219000 transactions class; tick447
 bud_kbf_lottery_democracy_fund_2025,kbf,2025,500000,,,envelope,src_kbf_budget_sources_2026,medium,NL Fonds Democratie awards >500k to 18 projects Dec2025 press; sub-fund under KBF management; tick447
+bud_nloterij_omzet_2024,nationale_loterij,2024,1553000000,,,outturn,src_nloterij_jv_2024,strong,Stakes/omzet 1.553bn kerncijfers (bestuur 1.555bn loterijspelen +4.4pct); tick448
+bud_nloterij_omzet_2025,nationale_loterij,2025,1666000000,,,outturn,src_nloterij_jaarcijfers_2025,strong,Inzetten record 1.666bn 2025 press; tick448
+bud_nloterij_society_total_2024,nationale_loterij,2024,362500000,,,outturn,src_nloterij_jv_2024,strong,Society return 362.5m = goede doelen 217.5m + monopolierente 145m; tick448
+bud_nloterij_goede_doelen_2024,nationale_loterij,2024,217500000,,,outturn,src_nloterij_jv_2024,strong,Good-causes support 217.5m (base contract 200m + extra 17.5m); 1857 projects; tick448
+bud_nloterij_monopolierente_2024,nationale_loterij,2024,145000000,,,outturn,src_nloterij_jv_2024,strong,Monopoly rent to Belgian State 145m 2024; tick448
+bud_nloterij_society_2025,nationale_loterij,2025,370000000,,,outturn,src_nloterij_jaarcijfers_2025,medium,Press: maatschappelijke bijdrage ~370m 2025 (subsidies+monopolierente class); tick448
+bud_nloterij_contract_base_200m,nationale_loterij,2024,200000000,,,commitment,src_nloterij_jv_2024,strong,Beheersovereenkomst 2021 base good-causes min 200m/yr; tick448
+bud_nloterij_equity_2024,nationale_loterij,2024,234740627,,,stock,src_nloterij_jv_2024,strong,Eigen vermogen 234.74m after result appropriation (capital 180m + reserves); tick448
+bud_nloterij_capital_2024,nationale_loterij,2024,180000000,,,stock,src_nloterij_jv_2024,strong,Geplaatst kapitaal 180m; tick448
+bud_nloterij_profit_2024,nationale_loterij,2024,204711,,,outturn,src_nloterij_jv_2024,strong,Te bestemmen winst 204711 EUR (vs 5.74m 2023); dividend 145857; tick448
+bud_nloterij_prizes_2024,nationale_loterij,2024,1057000000,,,outturn,src_nloterij_jv_2024,strong,Player prizes paid 1.057bn; 63 new millionaires; tick448
+bud_nloterij_digital_stakes_2024,nationale_loterij,2024,415000000,,,outturn,src_nloterij_jv_2024,strong,Digital channel stakes 415m (27pct of total); tick448
+bud_nloterij_euromillions_2024,nationale_loterij,2024,489000000,,,outturn,src_nloterij_jv_2024,strong,EuroMillions sales 489m 2024; tick448
+bud_nloterij_lotto_2024,nationale_loterij,2024,441000000,,,outturn,src_nloterij_jv_2024,strong,Lotto sales 441m 2024; tick448
+bud_nloterij_instant_2024,nationale_loterij,2024,486000000,,,outturn,src_nloterij_jv_2024,strong,Scratch/instant sales 486m 2024; tick448
+bud_nloterij_projects_2024,nationale_loterij,2024,1857,,,count,src_nloterij_jv_2024,strong,Projects financed 1857 2024; tick448
+bud_nloterij_projects_2025,nationale_loterij,2025,1970,,,count,src_nloterij_lotto_2026_press,medium,Press ~1970 projects supported 2025; tick448
+bud_nloterij_state_share_pct,nationale_loterij,2024,7872,,,pct_bp,src_nloterij_jv_2024,strong,Belgian State 78.72pct shares; FPIM 21.28pct; stores basis points (7872=78.72pct); tick448
+bud_nloterij_board_pay_2024,nationale_loterij,2024,383250,,,outturn,src_nloterij_jv_2024,strong,Board+gov commissioners remuneration 383250 EUR 2024; tick448
+bud_nloterij_sdg_call_2024,nationale_loterij,2024,1500000,,,envelope,src_nloterij_jv_2024,strong,SDG sustainable development call 1.5m / 68 orgs 2024; tick448
+bud_nloterij_kbf_dual_10m,nationale_loterij,2026,10000000,,,budget,src_kbf_budget_sources_2026,strong,Dual KBF pie National Lottery allocation 10m 2026 (subset of good-causes path); tick448
+bud_nloterij_euromillions_2025,nationale_loterij,2025,527500000,,,outturn,src_nloterij_jaarcijfers_2025,medium,Wikipedia/press EuroMillions 527.5m 2025 incl My Bonus; dual AR; tick448
+bud_nloterij_lotto_2025,nationale_loterij,2025,482200000,,,outturn,src_nloterij_jaarcijfers_2025,medium,Wikipedia/press Lotto 482.2m 2025; tick448
+bud_nloterij_outlets_2024,nationale_loterij,2024,6727,,,count,src_nloterij_jv_2024,strong,Sales points 6727 EOY2024; tick448
