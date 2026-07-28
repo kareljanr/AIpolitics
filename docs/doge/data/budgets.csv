@@ -8340,3 +8340,10 @@ bud_nloterij_poverty_call_def_2025,nationale_loterij,2025,2500000,,,budget,src_n
 bud_poverty_dual_nl_vl_stack_2025,gg_belgium,2025,2611725,,,derived,src_poverty_dual_stack_tick474,strong,Dual stack class: Interfed NL 200k + BNA NL 150k + VL Netwerk 986k + homeless innov 1.275725m = 2.611725m (not full poverty TE); tick474
 bud_interfed_poverty_nl_2025,interfed_poverty_service,2025,200000,,,budget,src_nloterij_kb_definitief_2025,strong,Interfed poverty service NL 200k cat3.9 dual multi-entity; tick474
 bud_bna_nl_2025,nationale_loterij,2025,150000,,,budget,src_nloterij_kb_definitief_2025,strong,Belgisch Netwerk Armoedebestrijding NL 150k cat3.37 dual VL Netwerk path; tick474
+bud_nl_uci_1_1_races_2025,nationale_loterij,2025,600000,,,budget,src_nloterij_kb_definitief_2025,strong,UCI 1.1 Belgian one-day races support 600k cat3.31 Art5 sub residual; race sample public class; tick475
+bud_nl_leesbevordering_1_5m_2025,nationale_loterij,2025,1500000,,,budget,src_nl_leesbevordering_path_2024_25,strong,Leesbevordering + financial literacy 1.5m Art5.10 (path from ~3m 2024); dual VL structural residual; tick475
+bud_nl_gsport_call_1m_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_definitief_2025,strong,G-sport adapted facilities material project call 1m cat4.1; max 50k/project rules public; tick475
+bud_nl_sdg_academia_call_1_5m_2025,nationale_loterij,2025,1500000,,,budget,src_nl_sdg_call_68_orgs,strong,Sustainable development local projects + Academia Belgica 1.5m cat4.2; 68 orgs public count; tick475
+bud_nl_local_heritage_call_4m_2025,nationale_loterij,2025,4000000,,,budget,src_nloterij_kb_definitief_2025,strong,Lokaal Erfgoed project call 4m cat4.4; winners L5 residual FOI; tick475
+bud_nl_cat4_calls_sum_9m_2025,nationale_loterij,2025,9000000,,,derived,src_nl_cat4_project_calls_9m,strong,Cat4 sum G-sport1 + SDG1.5 + poverty2.5 + heritage4 = 9.0m definitive 2025; tick475
+bud_nl_uci_lees_art5_sum_2_1m_2025,nationale_loterij,2025,2100000,,,derived,src_nl_uci_lees_project_calls_tick475,strong,Art5 residual pair UCI 0.6 + Lees 1.5 = 2.1m committee notes FOI; tick475

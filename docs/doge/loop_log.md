@@ -5573,3 +5573,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +5; cmt +2; lb +5; entity interfed note; FOI **gap_interfed_poverty_budget** + **gap_nl_homeless_l5** ready+drafts; rq_465=done spawn **rq_466**; ticks=474
 - FOI opened: 2 ready (human send)
 - Next: prio5 **rq_466** (UCI Art5 / Leesbevordering / residual project calls); deferred **rq_116** SWA
+
+### 2026-08-03T04:15:00Z — tick 475
+- Unit: **rq_466** (FOI-adjacent hole-fill — **UCI 1.1 races 600k + Leesbevordering dual 1.5m + cat4 calls 9m**)
+- Found (strong plan + primary press + UCI class sample):
+  - **UCI Art3.31 EUR 600k** — Belgian UCI **1.1 one-day only** (not UWT/ProSeries); Art5 committee note residual
+  - **Race-class sample (medium, not award list):** Heistse Pijl · Gooikse pijl · Binche–Chimay–Binche · GP Criquielion · Muur Classic Geraardsbergen
+  - **Leesbevordering Art5.10 EUR 1.5m** (financial literacy focus) — path **~3m 2024 → 1.5m 2025**; dual VL Literatuur Vlaanderen + Iedereen Leest structural (separate euros not invented)
+  - **Cat4 project calls sum EUR 9.0m:** G-sport **1m** (max 50k/project) + SDG/Academia **1.5m** (**68 orgs**) + poverty **2.5m** (**21 projects** Apr 2026) + Lokaal Erfgoed **4m**
+  - Art5 residual pair UCI+Lees = **2.1m** (covered by existing gap_nl_prestige for notes)
+- Wrote: sources +10; budgets +7; cmt +3; lb +7; entities +2; FOI **gap_nl_project_calls_l5** ready+draft; rq_466=done spawn **rq_467**; ticks=475
+- FOI opened: gap_nl_project_calls_l5 (ready, human send)
+- Next: prio5 **rq_467** (residual NL prestige sub-L5 / sports fed Art5.5 / other dual); deferred **rq_116** SWA
