@@ -6134,3 +6134,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +27; cmt +4; lb +8; FOI **gap_customs_vvpr_opcent_l5** ready+draft; rq_503=done spawn **rq_504**; ticks=512
 - FOI opened: gap_customs_vvpr_opcent_l5 (ready, human send) — not sent
 - Next: prio5 **rq_504**; deferred **rq_116** SWA
+
+### 2026-07-29T01:00:00Z - tick 513
+- Unit: **rq_504** (FOI-adjacent hole-fill — **CoA 2026_22 residual defence multi-year financing + Fedasil save L5 dual**)
+- Found (strong primary same CoA fed aju, §3.2.2 + §2.2–2.3 residual):
+  - **Defence 2025-29** **€17,335.8m** (+552.8 NATO 2pct via GDP); higher deficit **€4,804m** of which asset optim **€3,170m** (40/30/20/10 ? 1268/951/634/317) **unbooked** in 2026 conclaves
+  - **Russian assets CIT** 2025 **1,148** (was 1,208); 2026-29 **1,016**/yr; path shortfall **-942m** vs initial 6,154; residual **735m** 2027-29 unaddressed
+  - **Belfius 20%** sale est **€2bn** ~2027 (ECB/NBB/FSMA); residual asset optim after Belfius **€1,170m** unexplained
+  - **NATO effort** target **€13,296m** / fill **€13,246m** (def budget **10,958** + external **2,288**; pens **1,988** FPD -40 risk)
+  - **Fedasil asylum save**: target **-172** path -303/-452/-538; plan only **-110.8** (cap25 36.4 · cap26 35.3 · extra 39.1); **gap 61.2** 2026 / 187 2029
+  - Extra 23 measures: internal **27.1** · core tasks **10.4** · procedure **1.6** (from 2027 extra **220.7**); return **-75** untracked
+  - **SIOD** social fraud **€414.6m** 2025 (-20.3); fiscal fraud claim **300/600** method opaque; financial parket **196m** 2029 bill 56 1536
+  - E1 deficit path **24.5?36.2bn** 2026-29; Euroclear **>1bn**/yr to 2031 assumption; FOD Fin drag **433m** by 2029
+  - **Dual:** defence soft financing + Fedasil soft saves
+- Wrote: sources +2; budgets +32; cmt +4; lb +8; FOI **gap_defence_asset_optim_l5** ready+draft; rq_504=done spawn **rq_505**; ticks=513
+- FOI opened: gap_defence_asset_optim_l5 (ready, human send) — not sent
+- Next: prio5 **rq_505**; deferred **rq_116** SWA
