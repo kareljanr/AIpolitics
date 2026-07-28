@@ -8270,3 +8270,18 @@ bud_chapelle_reine_elisabeth_2025,chapelle_reine_elisabeth,2025,155000,,,budget,
 bud_cre_prize_gouvernement_2025,concours_reine_elisabeth,2025,20000,,,budget,src_kamer_56k0855_018_culture,strong,BA 61.15.33.00.15 federal government prize 2nd laureate 20 kEUR/yr; tick467
 bud_nloterij_cre_def_2025,concours_reine_elisabeth,2025,220000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art5.2 Internationale Muziekwedstrijd Koningin Elisabeth 220k definitive; tick467
 bud_cre_nl_plus_fed_prize_2025,concours_reine_elisabeth,2025,240000,,,derived,src_reine_elisabeth_dual_tick467,strong,Dual CRE: NL 220k + fed prize 20k = 240k (Chapelle 155k separate entity); tick467
+
+bud_kik_irpa_dot_2023,kik_irpa,2023,6598000,,,outturn,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2023r 6598 kEUR; tick468
+bud_kik_irpa_dot_2024,kik_irpa,2024,6615000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2024a 6615 kEUR; tick468
+bud_kik_irpa_dot_2025,kik_irpa,2025,6573000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2025i 6573 kEUR; tick468
+bud_kik_irpa_dot_2026,kik_irpa,2026,6456000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2026 6456 kEUR multi-year path; tick468
+bud_kik_irpa_nl_plus_fed_2025,kik_irpa,2025,6973000,,,derived,src_kik_irpa_dual_recon_tick468,strong,Dual 2025: fed 6.573m + NL plan 0.4m = 6.973m; tick468
+bud_nloterij_irpa_def_2025,kik_irpa,2025,400000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art3.24 KIK-IRPA projects 400k definitive; tick468
+bud_kmkg_dot_2025,kmkg,2025,14510000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KMKG/MRAH BA 60.34.41.30.19 2025i 14510 kEUR; tick468
+bud_kmskb_dot_2025,kmskb,2025,11942000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KMSKB/MRBAB BA 60.34.41.30.20 2025i 11942 kEUR; tick468
+bud_art_pool_three_dots_2025,belspo,2025,33025000,,,derived,src_kamer_56k0855_018_irpa_artpool,strong,Art pool sum KMKG+KMSKB+KIK 14.510+11.942+6.573=33.025m 2025i; tick468
+bud_horizon_50_200_2025,horizon_50_200,2025,193000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,Horizon 50-200 Jubelpark bicentenaire detached staff BA 60.36.12.21.01 193 kEUR 2025i; Regie+Beliris dual path; tick468
+bud_nloterij_proximity_def_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_definitief_2025,strong,Proximity local initiatives 1.0m definitive Art5.6; Art6 province population split; tick468
+bud_nloterij_fwi_projects_def_2025,belspo,2025,500000,,,budget,src_nl_fwi_projects_0_5m,strong,Federale wetenschappelijke instellingen projects 0.5m definitive cat3.25; tick468
+bud_nloterij_regie_patrimonium_def_2025,regie_gebouwen,2025,3087872,,,budget,src_nloterij_kb_definitief_2025,strong,Regie der Gebouwen nationaal patrimonium 3.087872m definitive cat3.13; dual Chinese Pavilion residual; tick468
+bud_iccrom_be_contrib_2025,belspo,2025,41000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,Belgium ICCROM contribution BA 60.35.35.40.10 41 kEUR 2025i; tick468

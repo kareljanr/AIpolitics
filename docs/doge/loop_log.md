@@ -5489,3 +5489,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +14; cmt +3; lb +7; entities +3 update 2; FOI **gap_cinematek_digit_l5** ready+draft; rq_458=done spawn **rq_459**; ticks=467
 - FOI opened: gap_cinematek_digit_l5 (ready, human send)
 - Next: prio5 **rq_459** (proximity local 1m Art5 / IRPA 0.4m / FWI projects 0.5m / residual culture); deferred **rq_116** SWA
+
+### 2026-08-03T00:45:00Z — tick 468
+- Unit: **rq_459** (FOI-adjacent hole-fill — **KIK-IRPA dual 6.97m + Art pool 33m + Proximity 1m**)
+- Found (strong primary Kamer 56K0855/018 + NL KB):
+  - **KIK-IRPA BA 60.34.41.30.22:** 2023r **6.598m** · 2024a **6.615** · 2025i **6.573** · path to 6.218 2028
+  - **Dual stack 2025 EUR 6.973m** = fed 6.573 + NL Art3.24 **0.4m**
+  - **Art pool FWI 2025i:** KMKG **14.510m** + KMSKB **11.942m** + KIK **6.573m** = **33.025m**
+  - **Horizon 50-200** Jubelpark bicentenaire detached staff **193k** (Regie+Beliris path to 2030)
+  - **NL Proximity Art5.6 EUR 1.0m** — Art6 split by province population (named L5 residual)
+  - **NL FWI projects Art3.25 EUR 0.5m** + Regie patrimonium **3.088m** confirmed
+  - ICCROM BE contribution **41k**
+- Wrote: sources +4; budgets +14; cmt +3; lb +9; entities +4; FOI **gap_nl_fwi_irpa_l5** + **gap_nl_proximity_l5** ready+drafts; rq_459=done spawn **rq_460**; ticks=468
+- FOI opened: 2 ready (human send)
+- Next: prio5 **rq_460** then **progress@470**; deferred **rq_116** SWA
