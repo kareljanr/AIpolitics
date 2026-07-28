@@ -6295,3 +6295,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +6; cmt +3; lb +6; FOI **gap_covid_support_outturn_l5** ready+draft; raw PDFs; rq_515=done spawn **rq_516**; ticks=524
 - FOI opened: gap_covid_support_outturn_l5 (ready, human send) — not sent
 - Next: prio5 **rq_516**; deferred **rq_116** SWA
+
+### 2026-07-29T05:00:00Z - tick 525
+- Unit: **rq_516** (FOI-adjacent hole-fill — **CoA kentekenplaten concession 240m + follow-up 0/17 recs dual bpost**)
+- Found (strong primary CoA 2022_11 + 2024 press; secondary procurement summary 2025_03):
+  - **Concession 2:** est **€240m**, bpost, 1 Aug 2019–max 31 Jul 2025; **sole bidder** (incumbent advantage in spec)
+  - **User fee €30**/plate+cert; costs shifted to owners; claimed admin save **€3.8m** + **13 VTE**
+  - DIV net receipts **≥€44m** 2012–18 (cum class **~€70m**); 2021 receipts **€9.82m** vs costs **€8.67m**
+  - Annual prod+dist class **€28.9m** excl VAT; penalty paid **€2m** (CoA: ≥**€2.5m** due); schrapping stream **~€50m** class
+  - **Follow-up 2024:** of **17 recs → 0 done · 4 in progress · 5 none · 8 n/a**; **DIV refused documents** to CoA
+  - **Secondary:** federal procurement sample **267 dossiers / €989.7m** ex VAT (Ypto/TUC Rail systemic fails dual rail IT)
+  - **Dual:** bpost plates monopoly channel vs JustSign irregular path
+- Wrote: sources +4; budgets +13; cmt +3; lb +7; FOI **gap_kenteken_concessie3_l5** ready+draft; raw PDFs; rq_516=done spawn **rq_517**; ticks=525
+- FOI opened: gap_kenteken_concessie3_l5 (ready, human send) — not sent
+- Next: prio5 **rq_517**; deferred **rq_116** SWA

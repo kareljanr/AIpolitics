@@ -9076,3 +9076,16 @@ bud_covid_fed_benefits_11_83bn_2020,sec_federal,2020,11830000000,,,estimate,src_
 bud_covid_fed_tax_3_05bn_2020,sec_federal,2020,3050000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,COVID support 16pct tax relief 3.05bn (rebuild reserve investment horeca VAT); tick524
 bud_covid_fed_ssc_1_06bn_2020,sec_federal,2020,1060000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,COVID support 5pct SSC relief 1.06bn; plus deferrals guarantees reinsurance off estimate; tick524
 bud_dual_covid_fed_reg_19bn,gg_belgium,2020,19400000000,,,derived,src_dual_covid_support_fed_reg_tick524,strong,Dual federal COVID 19.4bn class vs regional stacks not summed; tick524
+bud_kenteken_concessie2_240m,fod_mobiliteit,2019,240000000,,,commitment,src_ccrek_kentekenplaten_2022,strong,Second plates concession bpost est 240m Aug2019 max 6y to Jul2025; tick525
+bud_kenteken_annual_prod_dist_28_9m,fod_mobiliteit,2019,28876000,,,estimate,src_ccrek_kentekenplaten_2022,strong,Annual production+distribution cost est 28.876m excl VAT (3.82 EUR/plate); tick525
+bud_kenteken_div_net_2012_18_44m,fod_mobiliteit,2018,44000000,,,estimate,src_ccrek_kentekenplaten_2022,medium,DIV net receipts from user fees >=44m 2012-2018 CoA; tick525
+bud_kenteken_div_net_cum_70m_class,fod_mobiliteit,2020,70000000,,,estimate,src_ccrek_kentekenplaten_2022,medium,Approx cumulative net receipts class ~70m CoA; tick525
+bud_kenteken_div_receipts_2021_9_8m,fod_mobiliteit,2021,9822590,,,outturn,src_ccrek_kentekenplaten_2022,strong,FOD receipts from concession 9.82m 2021 vs DIV costs 8.67m; tick525
+bud_kenteken_div_costs_2021_8_67m,fod_mobiliteit,2021,8672000,,,estimate,src_ccrek_kentekenplaten_2022,strong,DIV costs class 8.672m (staff 5.04 + IT 2.39 + indirect 1.24); tick525
+bud_kenteken_save_budget_3_8m,fod_mobiliteit,2012,3800000,,,estimate,src_ccrek_kentekenplaten_2022,strong,Claimed recurrent budget save 3.8m +13 VTE vs in-house; costs shifted to users; tick525
+bud_kenteken_penalty_2m_2020,fod_mobiliteit,2020,2000000,,,outturn,src_ccrek_kentekenplaten_2022,strong,Concessionaire paid 2m Sep2020 on top of fine for delays; CoA says >=2.5m sanction due; tick525
+bud_kenteken_personalised_6m_yr,fod_mobiliteit,2020,6000000,,,estimate,src_ccrek_kentekenplaten_2022,medium,Personalised/special plates class ~6m/yr CoA estimate; tick525
+bud_kenteken_schrapping_50m,fod_mobiliteit,2020,50000000,,,estimate,src_ccrek_kentekenplaten_2022,medium,Concessionaire ~50m from deletion certificates ~1m requests; tick525
+bud_fed_proc_sample_989_7m,sec_federal,2024,989700000,,,outturn,src_ccrek_overheidsopdrachten_samenvatting_2025,strong,CoA 267 procurement dossiers 989.7m ex VAT across 8 entities 2023-24 audits; tick525
+bud_fed_proc_invoices_44_9m,sec_federal,2024,44900000,,,outturn,src_ccrek_overheidsopdrachten_samenvatting_2025,strong,Invoice sample 44.9m ex VAT in same audits; tick525
+bud_dual_bpost_plates_justsign,gg_belgium,2019,240000000,,,derived,src_dual_bpost_kenteken_justsign_tick525,strong,Dual bpost plates concession 240m + JustSign path; tick525
