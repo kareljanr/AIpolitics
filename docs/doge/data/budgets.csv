@@ -9466,3 +9466,32 @@ bud_ocmw_1965_2026,sec_ss,2026,155778000,,,budgeted,src_kamer_expose_ss_branches
 bud_socassist_benefits_total_2026,sec_ss,2026,6561063000,,,budgeted,src_kamer_expose_ss_branches_2026,strong,Table VI.1 social assistance benefits total 6561.063m 2026 (+8.56pct); tick544
 bud_dual_unemp_drop_2025_26,sec_ss,2026,1820763000,,,derived,src_kamer_expose_ss_branches_2026,strong,Dual unemployment benefits drop 1820.763m 2025-26 (time-limit path class); tick544
 bud_dual_riziv_rsz_rsvz_financing,sec_ss,2026,39186982000,,,derived,src_dual_riziv_rsz_financing_tick544,strong,Dual RIZIV financed RSZ 35.839 + RSVZ 3.348 = 39.187bn of 46.753 total; tick544
+bud_ss_self_illness_benefits_2026,sec_ss,2026,1069980000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.2 self-emp illness+invalidity 1069.980m 2026; tick545
+bud_ss_self_pensions_benefits_2026,sec_ss,2026,5919922000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.2 self-emp pensions 5919.922m 2026; tick545
+bud_ss_self_bridging_2026,sec_ss,2026,15297000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.2 overbruggingsrecht/droit passerelle 15.297m 2026; tick545
+bud_ss_self_caregiver_2026,sec_ss,2026,6857000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.2 caregiver allowance 6.857m 2026; tick545
+bud_ss_self_benefits_total_2026,sec_ss,2026,7012055000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.2 self-emp total benefits 7012.055m 2026; tick545
+bud_ss_self_benefits_total_2025,sec_ss,2025,6803601000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.1 self-emp benefits 6803.601m 2025; tick545
+bud_ss_self_pensions_2025,sec_ss,2025,5781250000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Self-emp pensions 5781.250m 2025; tick545
+bud_ss_self_illness_2025,sec_ss,2025,1005271000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Self-emp illness 1005.271m 2025; tick545
+bud_ss_self_to_riziv_2026,sec_ss,2026,3550642000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table III.2 transfer to RIZIV healthcare 3550.642m 2026; dual RSVZ path; tick545
+bud_ss_self_admin_2026,sec_ss,2026,163567000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Self-emp admin 163.567m 2026; tick545
+bud_pubpen_treasury_2026,sec_ss,2026,17015825000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 Treasury retirement+survivor pensions 17015.825m 2026; tick545
+bud_pubpen_treasury_2025,sec_ss,2025,16535404000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.1 Treasury pensions 16535.404m 2025; tick545
+bud_pubpen_hr_rail_2026,hr_rail,2026,1569278000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 HR Rail pensions benefits 1569.278m 2026; tick545
+bud_pubpen_solidary_fund_2026,sec_ss,2026,2890990000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 solidary local pension fund benefits 2890.990m 2026; tick545
+bud_pubpen_parastatal_2026,sec_ss,2026,808673000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 parastatal pensions 808.673m 2026; tick545
+bud_pubpen_fed_police_2026,sec_ss,2026,186375000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 federal police pensions 186.375m 2026; tick545
+bud_pubpen_direct_conv_2026,sec_ss,2026,160484000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 direct conventions pensions 160.484m 2026; tick545
+bud_pubpen_provident_2026,sec_ss,2026,58437000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 provident institution conventions 58.437m 2026; tick545
+bud_pubpen_war_comp_2026,sec_ss,2026,62500000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 compensation+war rents 62.500m 2026; tick545
+bud_pubpen_work_accident_2026,sec_ss,2026,62522000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 work-accident rents 62.522m 2026; tick545
+bud_pubpen_terror_war_civ_2026,sec_ss,2026,12436000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 civil war+terror victims 12.436m 2026; tick545
+bud_pubpen_benefits_total_2026,sec_ss,2026,22827520000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 public pension benefits total 22827.520m 2026; tick545
+bud_pubpen_benefits_total_2025,sec_ss,2025,22153085000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.1 public pension benefits 22153.085m 2025; tick545
+bud_pubpen_gov_grants_2025,sec_ss,2025,15912610000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.1 public subsidies to public pensions 15912.610m 2025; tick545
+bud_pubpen_contrib_2025,sec_ss,2025,7220580000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.1 contributions into public pension system 7220.580m 2025; tick545
+bud_pubpen_total_exp_2026,sec_ss,2026,24481410000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 public pensions total current exp 24481.410m 2026; tick545
+bud_pubpen_result_2026,sec_ss,2026,98305000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 public pensions budgetary result +98.305m 2026; tick545
+bud_dual_pension_three_stacks_2026,sec_ss,2026,72019000000,,,derived,src_dual_pension_three_stacks_tick545,strong,Dual pension benefits emp 43.271 + self 5.920 + public 22.828 = 72.019bn 2026; tick545
+bud_dual_riziv_from_self_rsvz_2026,sec_ss,2026,3550642000,,,derived,src_kamer_expose_self_pubpen_2026,strong,Dual self-emp table to RIZIV 3.551 vs RSVZ path 3.348 in IV.1 residual class; tick545

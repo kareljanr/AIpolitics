@@ -6591,3 +6591,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_unemp_leefloon_spillover_l5 (ready, human send) - not sent
 - Next: prio5 **rq_536**; deferred **rq_116** SWA
 
+
+### 2026-07-29T10:15:00Z - tick 545
+- Unit: **rq_536** (FOI-adjacent hole-fill - **exposé self-employed Table III.2 + public pensions VII.2 dual three-stack**)
+- Found (strong primary DOC 56 1278/001 Part IV Ch3+Ch7; thousand-EUR tables):
+  - **Self-emp benefits 2026:** total **€7.012bn** — pensions **€5.920bn** · illness **€1.070bn** · bridging **€15.3m** · caregiver **€6.9m**
+  - Transfer self→RIZIV **€3.551bn**; admin **€164m**
+  - **Public pensions benefits 2026:** total **€22.828bn** (+€0.67bn YoY)
+  - Treasury **€17.016bn** · solidary local fund **€2.891bn** · HR Rail **€1.569bn** · parastatal **€0.809bn** · fed police **€0.186bn**
+  - **Dual three-stack pensions:** emp **€43.271** + self **€5.920** + public **€22.828** = **€72.019bn** benefits 2026
+- Wrote: sources +2; budgets +29; cmt +4; lb +8; FOI **gap_pubpen_employer_l5** ready+draft; rq_536=done spawn **rq_537**; ticks=545
+- FOI opened: gap_pubpen_employer_l5 (ready, human send) - not sent
+- Next: prio5 **rq_537** (exposé Part IV largely filled → new public residual); deferred **rq_116** SWA
+
