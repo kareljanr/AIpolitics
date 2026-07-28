@@ -8495,3 +8495,24 @@ bud_unalloc_fraud_pack_2029,sec_federal,2029,482000000,,,budgeted,src_cm_jul2026
 bud_unalloc_fiod_2029,sec_federal,2029,193000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: FIOD+national financial prosecutor 193m 2029; tick488
 bud_unalloc_replace_ratio_2029,sec_federal,2029,175000000,,,budgeted,src_cm_jul2026_entity1,strong,Unalloc: selective public replacement ratio 100→175m 2026-29; tick488
 bud_dual_e1_gap_7_7_2029,gg_belgium,2029,7700000000,,,derived,src_dual_e1_control_gap_7_7_tick488,strong,Dual E1 control residual 7.7bn 2029 vs E2 quartet 2.65bn 2026 class; tick488
+bud_vl_kunsten_awards_2024,cultuur_cjm_vl,2024,201941900,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,CoA Table3 Kunstendecreet total awarded 201.942m 2024; tick489
+bud_vl_kunsten_ws_total_2024,cultuur_cjm_vl,2024,187083659,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,Werkingssubsidies total 187.084m 92.7pct 236 awards; tick489
+bud_vl_kunsten_ki_2024,cultuur_cjm_vl,2024,69400970,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,7 kunstinstellingen WS 69.401m 34.4pct (e.g. Opera Ballet Vlaanderen Concertgebouw Brugge); tick489
+bud_vl_kunsten_ws5y_2024,cultuur_cjm_vl,2024,83786515,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,209 orgs 5-year WS 83.787m 41.5pct; tick489
+bud_vl_kunsten_ws10y_2024,cultuur_cjm_vl,2024,30223673,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,16 orgs 10-year WS 30.224m 15.0pct; tick489
+bud_vl_kunsten_kerntaken_2024,cultuur_cjm_vl,2024,3672501,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,4 kerntaken orgs 3.673m (Kunstenpunt VAi class); tick489
+bud_vl_kunsten_ks_total_2024,cultuur_cjm_vl,2024,14858241,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,Kortlopende subsidies 14.858m 7.3pct 850 awards of 1756 apps; tick489
+bud_vl_kunsten_beurs_opkomend_2024,cultuur_cjm_vl,2024,862500,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,115 beurzen opkomend talent 0.863m; tick489
+bud_vl_kunsten_beurs_bewezen_2024,cultuur_cjm_vl,2024,1188000,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,64 beurzen bewezen talent 1.188m; tick489
+bud_vl_kunsten_project_org_2024,cultuur_cjm_vl,2024,6593325,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,138 projectsubs orgs 6.593m; tick489
+bud_vl_kunsten_project_artist_2024,cultuur_cjm_vl,2024,3996348,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,122 projectsubs artists 3.996m; tick489
+bud_vl_kunsten_project_werker_2024,cultuur_cjm_vl,2024,312697,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,7 projectsubs kunstwerkers 0.313m; tick489
+bud_vl_kunsten_intl_moment_2024,cultuur_cjm_vl,2024,884718,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,315 intl presentatiemoment 0.885m; tick489
+bud_vl_kunsten_intl_project_2024,cultuur_cjm_vl,2024,858750,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,40 intl presentatieproject 0.859m; tick489
+bud_vl_kunsten_residentie_2024,cultuur_cjm_vl,2024,161903,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,49 residentiebeurzen 0.162m; tick489
+bud_vl_cultuurloket_2024,cultuur_cjm_vl,2024,1600000,,,outturn,src_ccrek_vl_kunstenbeleid_2026,strong,Cultuurloket subsidy 1.6m 2024; tick489
+bud_vl_innov_partner_arts_2024,cultuur_cjm_vl,2024,218753,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,3 innovatieve partnerprojecten binnen kunsten 0.219m of 13 apps; tick489
+bud_vl_cultuurkredieten_arts_2024,cultuur_cjm_vl,2024,570600,,,awarded,src_ccrek_vl_kunstenbeleid_2026,strong,15 cultuurkredieten in arts 0.571m of 26 apps; tick489
+bud_vl_kunsten_outturn_class_2024,cultuur_cjm_vl,2024,203300000,,,outturn,src_ccrek_vl_kunstenbeleid_2026,strong,CoA total support class 203.3m 2024 (KD 201 + innov 0.355 + Hefboom 0.272 + Cultuurloket 1.6); tick489
+bud_vl_kunsten_extra_ws_minister_2527,cultuur_cjm_vl,2023,25300000,,,budgeted,src_ccrek_vl_kunstenbeleid_2026,strong,Minister extra 25.3m WS budget 2023-27 decision: 17 outside-budget + 9 neg-advice orgs; tick489
+bud_dual_vl_kd_202m_fwb_arts_tick489,gg_belgium,2024,201941900,,,derived,src_dual_culture_vl_coa_fwb_tick489,strong,Dual VL KD awards 201.9m 2024 class vs FWB arts vivants 104m 2026 different year; tick489

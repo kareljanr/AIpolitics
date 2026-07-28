@@ -5792,3 +5792,20 @@ Append-only. Each tick adds a short entry.
 - 60s watcher recreated; fire_immediately first tick
 - State: ticks=488 last_unit=rq_479; next **rq_480** (progress@490 soon)
 
+
+### 2026-07-28T17:20:00Z - tick 489
+- Unit: **rq_480** (FOI-adjacent hole-fill — **Rekenhof Vlaams kunstenbeleid CoA 2026_36: Kunstendecreet awards 201.9m 2024 + dual culture**)
+- Found (strong primary CoA NL chamber 30 Jun 2026 + FR press):
+  - **Kunstendecreet awards 2024: 201.942m** (Table3); outturn class **203.3m** (+Cultuurloket 1.6m + innov/Hefboom)
+  - **WS 187.084m (92.7%)** / **KS 14.858m (7.3%)** — KS share below decretal 12.5% residual (actual 11.5%)
+  - L4 split: KI 7×**69.401m** · 5y 209×**83.787m** · 10y 16×**30.224m** · kerntaken 4×**3.673m**
+  - KS: beurzen 2.05m · projects 10.90m · intl 1.91m (850 of 1756 awards)
+  - **Governance flag:** 9 orgs funded after **neg advice** (of 66 neg); avg **64%** of request; 6 named (4Hoog, Casco Phil, Huelgas, 't Ey, Toneelhuis, Z33)
+  - Minister extra WS budget **25.3m** for 17 outside-budget + 9 neg overrides
+  - Fin risk: **35/235 (14.9%)** severe vulnerability 2023; 10 score all 5 bad indicators
+  - Stable core 73.7%; 60–85% awards concentrated Antwerpen/BHG/Gent
+  - **Dual:** VL KD 201.9m 2024 vs BBT VEK 158m 2026 different perimeter/year; FWB arts vivants 104m
+- Wrote: sources +3; budgets +21; cmt +3; lb +6; FOI **gap_vl_kunsten_neg9_cash** ready+draft; updated gap_culture_dual + gap_vl_cjsm notes; raw PDF; rq_480=done spawn **rq_481**; ticks=489
+- FOI opened: gap_vl_kunsten_neg9_cash (ready, human send) — not sent
+- Next: prio5 **rq_481** (**progress@490 next tick**); deferred **rq_116** SWA
+
