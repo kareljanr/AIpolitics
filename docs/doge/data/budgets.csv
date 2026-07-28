@@ -6557,3 +6557,38 @@ bud_ec_cr_flood_wal_2021,wallonie_gov,2021,2800000000,,,damage_est,src_ec_cr_be_
 bud_ec_cr_climate_loss_2050,gg_belgium,2050,9500000000,,,projection,src_ec_cr_be_2026,weak,CERAC: extreme heat drought flood losses ~9.5bn/yr by 2050 ~2pct GDP; tick415
 bud_ec_cr_proc_pct_gdp,gg_belgium,2025,,,,oecd_pct,src_ec_cr_be_2026,medium,Public procurement ~15.2pct GDP / ~27.3pct GG exp OECD class Annex5; tick415
 bud_ec_cr_vat_gap_2024,fod_finance,2024,,,,indicator_pct,src_ec_cr_be_2026,medium,VAT gap 13.9pct VTTL 2024 vs EU 10.5; compliance residual; tick415
+bud_dbp_gg_tr_2024,gg_belgium,2024,308200000000,,,esa,src_dbp_be_2026,strong,DBP Table5 total revenue 308.2bn 49.7pct GDP 2024; dual NBB; tick416
+bud_dbp_gg_te_2024,gg_belgium,2024,335300000000,,,esa,src_dbp_be_2026,strong,DBP Table5 TE 335.3bn 54.1pct GDP 2024; dual COFOG 335.288; tick416
+bud_dbp_gg_deficit_2024,gg_belgium,2024,-27100000000,,,esa,src_dbp_be_2026,strong,DBP net borrowing -27.1bn -4.4pct GDP 2024; tick416
+bud_dbp_gg_debt_2024,gg_belgium,2024,644400000000,,,esa,src_dbp_be_2026,strong,DBP gross debt 644.4bn 103.9pct GDP end-2024; tick416
+bud_dbp_interest_2024,gg_interest,2024,13700000000,,,esa,src_dbp_be_2026,strong,DBP D.41 interest 13.7bn 2.2pct GDP 2024; dual COFOG 14.476 method gap; tick416
+bud_dbp_subsidies_d3_2024,gg_belgium,2024,21800000000,,,esa,src_dbp_be_2026,strong,DBP D.3 subsidies 21.8bn 3.5pct GDP 2024; dual NBB enterprise subs; tick416
+bud_dbp_d62_2024,sec_ss,2024,109300000000,,,esa,src_dbp_be_2026,strong,DBP D.62 social benefits cash 109.3bn 17.6pct GDP 2024; tick416
+bud_dbp_d632_2024,sec_ss,2024,49200000000,,,esa,src_dbp_be_2026,strong,DBP D.632 social transfers in kind market 49.2bn 7.9pct GDP 2024; dual health; tick416
+bud_dbp_gfcf_2024,gg_belgium,2024,19300000000,,,esa,src_dbp_be_2026,strong,DBP P.51 GFCF 19.3bn 3.1pct GDP 2024; national fin 18.9; tick416
+bud_dbp_comp_emp_2024,gg_belgium,2024,77300000000,,,esa,src_dbp_be_2026,strong,DBP D.1 compensation employees 77.3bn 12.5pct GDP 2024; tick416
+bud_dbp_deficit_pct_2025,gg_belgium,2025,,,,forecast_pct,src_dbp_be_2026,strong,DBP deficit -5.2pct GDP 2025; debt 107.3pct (dual EC CR 107.9); tick416
+bud_dbp_deficit_pct_2026,gg_belgium,2026,,,,forecast_pct,src_dbp_be_2026,strong,DBP after measures deficit -4.9pct GDP 2026 (unchanged policy -5.5); debt 110.1pct; tick416
+bud_dbp_net_exp_growth_2025,gg_belgium,2025,,,,forecast_pct,src_dbp_be_2026,strong,Net nationally financed primary exp growth 4.3pct 2025 vs Council max 3.6; tick416
+bud_dbp_net_exp_growth_2026,gg_belgium,2026,,,,forecast_pct,src_dbp_be_2026,strong,Net exp growth 1.3pct 2026 vs max 2.5; cumulative 5.7 vs ref 6.1 before NEC; tick416
+bud_dbp_def_cofog_pct_2025,mod_defensie,2025,,,,forecast_pct,src_dbp_be_2026,strong,Defence COFOG 1.4pct GDP 2025 (ESA delivery basis); NATO cash still 2pct; tick416
+bud_dbp_def_cofog_pct_2026,mod_defensie,2026,,,,forecast_pct,src_dbp_be_2026,strong,Defence COFOG 1.7pct GDP 2026; dual EC CR 1.6; tick416
+bud_dbp_measures_entity1_2026,sec_federal,2026,1741000000,,,budget_impact,src_dbp_be_2026,strong,Table6 Entity I measures net financing-balance impact +1741m 2026; tick416
+bud_dbp_measures_entity2_2026,sec_s1312,2026,1972000000,,,budget_impact,src_dbp_be_2026,strong,Table6 Entity II measures net impact +1972m 2026 (VL 1565 WAL 160 FWB 247); tick416
+bud_dbp_vl_d3_cut_2026,vlaanderen_gov,2026,-912000000,,,budget_impact,src_dbp_be_2026,strong,Flanders Table6 D.3 subsidies cut -912m 2026 (elim subsidies reforms service vouchers blue deal); tick416
+bud_dbp_wal_savings_2026,wallonie_gov,2026,270000000,,,budget_impact,src_dbp_be_2026,strong,Wallonia structural savings 270m 2026 package; ESA deficit -2.0bn; exp 21.3bn rec 18.5; tick416
+bud_dbp_bru_precaution_2025,brussels_gov,2025,284000000,,,budget_impact,src_dbp_be_2026,strong,BCR caretaker precautionary measures 284m mid-2025 (facultative -29 + freeze 255); tick416
+bud_dbp_fwb_te_2026,fwb_gov,2026,15300000000,,,budget,src_dbp_be_2026,strong,FWB total exp est 15.3bn rec 13.6bn ESA deficit -1.6bn 2026; dual prior 15.4; tick416
+bud_dbp_entity1_effort_2029,sec_federal,2029,9200000000,,,planned_effort,src_dbp_be_2026,strong,Entity I additional measures package 9.2bn by 2029 (8.2 net-exp path +1.0 offset defence); dual CoA; tick416
+bud_fps_tax_cash_total_2024,fod_finance,2024,150279600000,,,cash,src_fps_tax_cash_open_2026,strong,FPS federally collected tax cash total incl corrections Dec2024 150279.6m; tick416
+bud_fps_tax_cash_total_2025,fod_finance,2025,153104000000,,,cash,src_fps_tax_cash_open_2026,strong,FPS federally collected tax cash total Dec2025 153104.0m (+1.9pct YoY); tick416
+bud_fps_tax_cash_direct_2024,fod_finance,2024,89428100000,,,cash,src_fps_tax_cash_open_2026,strong,Direct taxes cash 89428.1m 2024; tick416
+bud_fps_tax_cash_direct_2025,fod_finance,2025,91351100000,,,cash,src_fps_tax_cash_open_2026,strong,Direct taxes cash 91351.1m 2025; tick416
+bud_fps_tax_cash_vat_2024,fod_finance,2024,37513600000,,,cash,src_fps_tax_cash_open_2026,strong,Actual VAT cash 37513.6m 2024; tick416
+bud_fps_tax_cash_vat_2025,fod_finance,2025,38029700000,,,cash,src_fps_tax_cash_open_2026,strong,Actual VAT cash 38029.7m 2025; dual VAT gap EC CR; tick416
+bud_fps_tax_cash_wage_2024,fod_finance,2024,58715600000,,,cash,src_fps_tax_cash_open_2026,strong,Wage withholding tax cash 58715.6m 2024; tick416
+bud_fps_tax_cash_wage_2025,fod_finance,2025,60797600000,,,cash,src_fps_tax_cash_open_2026,strong,Wage withholding tax cash 60797.6m 2025; tick416
+bud_fps_tax_cash_excise_2024,fod_finance,2024,11130400000,,,cash,src_fps_tax_cash_open_2026,strong,Excise duties cash 11130.4m 2024; tick416
+bud_fps_tax_cash_excise_2025,fod_finance,2025,11068900000,,,cash,src_fps_tax_cash_open_2026,strong,Excise duties cash 11068.9m 2025 slight decline; tick416
+bud_fps_tax_cash_indirect_2024,fod_finance,2024,59199500000,,,cash,src_fps_tax_cash_open_2026,strong,Indirect taxes cash 59199.5m 2024; tick416
+bud_fps_tax_cash_indirect_2025,fod_finance,2025,60213100000,,,cash,src_fps_tax_cash_open_2026,strong,Indirect taxes cash 60213.1m 2025; tick416

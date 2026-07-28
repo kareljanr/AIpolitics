@@ -4797,3 +4797,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +23; cmt +5; lb +8; raw ec_country_report_belgium_2026.pdf; rq_406=done; spawn **rq_407**; ticks=415
 - FOI: none new (public complete for aggregates; residual VAT-gap euro series / SAFE drawdown cash optional later)
 - Next: prio5 **rq_407**; deferred **rq_116** SWA
+
+### 2026-08-01T22:45:00Z - tick 416
+- Unit: **rq_407** (FOI-adjacent hole-fill - **DBP Belgium 2026 + FPS federally collected tax cash open data**)
+- Found (strong primary official):
+  - **DBP Table5 2024:** TR **308.2bn** TE **335.3bn** deficit **-27.1bn (-4.4%)** debt **644.4bn (103.9%)**
+  - Interest **13.7bn** · D.3 subsidies **21.8bn** · D.62 **109.3bn** · D.632 **49.2bn** · GFCF **19.3bn** · D.1 **77.3bn**
+  - Path: deficit **-5.2% / -4.9%** 2025-26 after measures (unchanged -5.5); debt **107.3 / 110.1**
+  - Net exp growth **4.3%** 2025 (overshoot vs 3.6) → **1.3%** 2026 (cum **5.7** vs ref **6.1**)
+  - Defence COFOG **1.4% / 1.7%** GDP 2025-26 (NATO cash 2%); SAFE max **8.34bn**
+  - Measures 2026 net: Entity I **+1741m** · Entity II **+1972m** (VL D.3 **-912m** · WAL savings **270m** · BRU precaution **284m**)
+  - Entity I effort **9.2bn by 2029**; spending reviews 2026: closed centres · fossil TE · R&D/night withholding
+  - **FPS tax cash:** 2024 **150.280bn** · 2025 **153.104bn** · VAT **37.5/38.0** · wage **58.7/60.8** · excise **11.1/11.1**
+- Wrote: sources +2; budgets +35; cmt +5; lb +8; raw DBP PDF + FPS xlsx; rq_407=done; spawn **rq_408**; ticks=416
+- FOI: none new (public complete; residual measure L5 outturns + VAT-gap euro when VTTL base public)
+- Next: prio5 **rq_408**; deferred **rq_116** SWA
