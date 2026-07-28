@@ -6164,3 +6164,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +25; cmt +4; lb +8; FOI **gap_fed_consultancy_inventory_l5** ready+draft; rq_505=done spawn **rq_506**; ticks=514
 - FOI opened: gap_fed_consultancy_inventory_l5 (ready, human send) — not sent
 - Next: prio5 **rq_506**; deferred **rq_116** SWA
+
+### 2026-07-29T01:40:00Z - tick 515
+- Unit: **rq_506** (FOI-adjacent hole-fill — **CoA Brussels Region budget 2026 dual Entity II**)
+- Found (strong primary Rekenhof AG 13 Mar 2026; 5 working days only):
+  - **SEC SF** gov **-€956.6m** (+591 vs prov 2025); CoA content adj **-€978.2m**; base 2025 **-1,241m**
+  - Measures path **€297m (2026) ? €1,186m (2029)**; receipt L5 missing; finops max **€1bn** (SLRB 400 · Vivaqua 180 · Confex 150 · Kanal 60)
+  - **Exp:** eng **€8.9bn** · liq **€8.0bn**; SGRBC net finance **-€1,746.4m**; gross surplus **+€11.4m**
+  - **Debt consol** eoy2025 **€16.1bn** (+3.5 2023-25); CoA est eoy2026 **€17.7bn**; path limit +3bn ? **>€19.1bn** 2029; direct LT **€13.4bn**
+  - **Top lines:** STIB **€1,167.6m** (PPI cut **€964.6m** 2026-29) · Actiris **€648.1m** (-78) · titres-services **€303.8m** · SLRB eng **687** · Propreté **411** · local powers **758** · commissions **692** · debt service **728** · roads liq **264**
+  - **Kanal** foundation budget omitted OAA2; credits **€86.7m** (60m finops)
+  - HRF net primary exp **-0.22%/yr** avg (2026 **-0.61%**); dual Entity II peers
+- Wrote: sources +2; budgets +29; cmt +4; lb +8; FOI **gap_bru_measures_stib_kanal_l5** ready+draft; rq_506=done spawn **rq_507**; ticks=515
+- FOI opened: gap_bru_measures_stib_kanal_l5 (ready, human send) — not sent
+- Next: prio5 **rq_507**; deferred **rq_116** SWA

@@ -8960,3 +8960,33 @@ bud_cons_gov_enterprises_843m_2020_22,sec_federal,2022,842700000,,,outturn,src_c
 bud_cons_central_admin_713m_2020_22,sec_federal,2022,713200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Central administration consultancy users 713.2m 2020-22; tick514
 bud_cons_oisz_523m_2020_22,sec_ss,2022,523100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,OISZ social security institutions consultancy users 523.1m 2020-22; tick514
 bud_dual_consultancy_it_2020_22,gg_belgium,2022,2524700000,,,derived,src_dual_consultancy_it_tick514,strong,Dual consultancy 2.5bn stack vs IT mega-failures; tick514
+bud_bru_sec_sf_956m_2026,brussels_gov,2026,-956600000,,,budgeted,src_ccrek_bru_budget_2026,strong,BRU SEC financing balance gov -956.6m IB2026 (+591 vs prov 2025); CoA content adj -978.2m; tick515
+bud_bru_sec_sf_coa_978m_2026,brussels_gov,2026,-978200000,,,derived,src_ccrek_bru_budget_2026,strong,CoA adjusted SEC SF -978.2m after content differences 21.6m; tick515
+bud_bru_sec_base_2025_1241m,brussels_gov,2025,-1241000000,,,budgeted,src_ccrek_bru_budget_2026,strong,SEC consolidated SF base 2025 -1241m (provisions used + offsets); tick515
+bud_bru_measures_297m_2026,brussels_gov,2026,297000000,,,budgeted,src_ccrek_bru_budget_2026,strong,New spend+receipt measures path 297m 2026 rising to 1186m 2029; receipt detail unavailable; tick515
+bud_bru_measures_1186m_2029,brussels_gov,2029,1186000000,,,budgeted,src_ccrek_bru_budget_2026,strong,New measures path 1186m 2029 for SEC balance 2029 objective; tick515
+bud_bru_sgrbc_net_finance_1746m_2026,brussels_gov,2026,-1746400000,,,budgeted,src_ccrek_bru_budget_2026,strong,SGRBC net to finance -1746.4m (+88.9 vs prov 2025); tick515
+bud_bru_sgrbc_gross_surplus_11m_2026,brussels_gov,2026,11400000,,,budgeted,src_ccrek_bru_budget_2026,strong,SGRBC gross budget balance +11.4m (rec +358.7 exp auth +75.9); tick515
+bud_bru_eng_89bn_2026,brussels_gov,2026,8900000000,,,budgeted,src_ccrek_bru_budget_2026,strong,General exp engagement credits 8.9bn IB2026 (+6.0pct / +0.5bn vs prov 2025); tick515
+bud_bru_liq_80bn_2026,brussels_gov,2026,8000000000,,,budgeted,src_ccrek_bru_budget_2026,strong,General exp liquidation credits 8.0bn IB2026 (+1.2pct / +0.1bn); tick515
+bud_bru_debt_consol_161bn_2025,brussels_gov,2025,16100000000,,,outturn,src_ccrek_bru_budget_2026,strong,Consolidated SEC debt eoy2025 16.1bn (+3.5bn 2023-25); tick515
+bud_bru_debt_consol_est_177bn_2026,brussels_gov,2026,17700000000,,,estimate,src_ccrek_bru_budget_2026,medium,CoA est consol debt eoy2026 17.7bn (cash positions stable 1.5bn); tick515
+bud_bru_debt_direct_lt_134bn_2025,brussels_gov,2025,13400000000,,,outturn,src_ccrek_bru_budget_2026,strong,Direct LT debt stock 13.4bn eoy2025; amort ceiling 0.5bn/yr; last loans 2071; tick515
+bud_bru_debt_path_limit_191bn_2029,brussels_gov,2029,19100000000,,,budgeted,src_ccrek_bru_budget_2026,medium,Debt increase limit +3.0bn to eoy2029 implies >19.1bn with 1.5bn cash; perimeter unclear CoA; tick515
+bud_bru_housing_fund_debt_15bn_2025,brussels_gov,2025,1500000000,,,outturn,src_ccrek_bru_budget_2026,strong,Fonds du logement debt 1.5bn eoy2025; tick515
+bud_bru_communal_refi_debt_13bn_2025,brussels_gov,2025,1300000000,,,outturn,src_ccrek_bru_budget_2026,strong,Communal treasury refinance fund debt 1.3bn eoy2025; tick515
+bud_bru_finops_max_1bn,brussels_gov,2029,1000000000,,,budgeted,src_ccrek_bru_budget_2026,medium,Financial ops (code 8) max envelope 1bn trajectory: SLRB 400 Vivaqua 180 Confex 150 Kanal 60; tick515
+bud_bru_stib_dot_1168m_2026,stib,2026,1167619000,,,budgeted,src_ccrek_bru_budget_2026,strong,STIB financing prog 42.112 eng=liq 1167.619m 2026; tick515
+bud_bru_stib_ppi_cut_965m_2026_29,stib,2029,-964600000,,,budgeted,src_ccrek_bru_budget_2026,strong,Gov reduces STIB multi-year invest plan by 964.6m 2026-29 vs STIB 2025 PPI; tick515
+bud_bru_actiris_dot_648m_2026,actiris,2026,648113000,,,budgeted,src_ccrek_bru_budget_2026,strong,Actiris financing 648.113m (-78.2 vs prior); tick515
+bud_bru_emploi_bee_984m_2026,brussels_gov,2026,983600000,,,budgeted,src_ccrek_bru_budget_2026,strong,Employment BEE programmes total 983.6m excl subsistence (-78 eng / -79 liq); tick515
+bud_bru_titres_services_304m_2026,brussels_gov,2026,303832000,,,budgeted,src_ccrek_bru_budget_2026,strong,Titres-services 303.832m (exec 2025 was 317.2m); tick515
+bud_bru_slrb_dot_687m_eng_2026,brussels_gov,2026,687258000,,,budgeted,src_ccrek_bru_budget_2026,strong,SLRB housing financing eng 687.258m liq 418.258m 2026; tick515
+bud_bru_proprete_dot_411m_2026,brussels_gov,2026,411102000,,,budgeted,src_ccrek_bru_budget_2026,strong,Bruxelles-Proprete financing liq 411.102m eng 406.476m; capital transfer 178.3m wrongly kept both sides CoA; tick515
+bud_bru_local_powers_758m_2026,brussels_gov,2026,757611000,,,budgeted,src_ccrek_bru_budget_2026,strong,Local powers support liq 757.611m eng 784.298m; tick515
+bud_bru_comm_commissions_692m_2026,brussels_gov,2026,691675000,,,budgeted,src_ccrek_bru_budget_2026,strong,Community commissions financing 691.675m; tick515
+bud_bru_debt_service_728m_2026,brussels_gov,2026,727758000,,,budgeted,src_ccrek_bru_budget_2026,strong,Public debt management interest+amort liq 727.758m eng 730.164m; tick515
+bud_bru_roads_liq_264m_2026,brussels_gov,2026,263940000,,,budgeted,src_ccrek_bru_budget_2026,strong,Regional roads prog liq 263.94m eng 424.037m; backlog 381.7m; need 1101m 2026-29; tick515
+bud_bru_kanal_credits_87m_2026,brussels_gov,2026,86700000,,,budgeted,src_ccrek_bru_budget_2026,medium,Kanal financing credits 86.7m of which 60m financial participation; budget of Kanal foundation omitted CoA; tick515
+bud_bru_underuse_35m_2026,brussels_gov,2026,35000000,,,budgeted,src_ccrek_bru_budget_2026,medium,Under-utilisation assumption +35m on SEC SF; tick515
+bud_dual_bru_e2_2026,gg_belgium,2026,-956600000,,,derived,src_dual_bru_e2_tick515,strong,Dual BRU SEC -0.96bn vs Entity II peers; tick515

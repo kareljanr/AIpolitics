@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T01:20:00Z,rq_505,514,no,Tick514 CoA consultancy 2.5bn 2020-22 dual IT; next prio5 rq_506; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T01:40:00Z,rq_506,515,no,Tick515 CoA BRU budget SEC -957m debt 16.1bn STIB 1.17bn dual E2; next prio5 rq_507; rq_116 SWA deferred.
