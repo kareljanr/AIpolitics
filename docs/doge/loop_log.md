@@ -5466,3 +5466,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +11; cmt +3; lb +10; entities flagey+pro_league; FOI **gap_proleague_fsr_use** ready+draft; gap_nl_prestige note; rq_456=done spawn **rq_457**; ticks=465
 - FOI opened: gap_proleague_fsr_use (ready, human send); gap_nl_prestige residual Art5/7 still ready
 - Next: prio5 **rq_457** (Festivals VL/WAL dual / Europalia AR / Chinese Pavilion / residual sport Art5); deferred **rq_116** SWA
+
+### 2026-08-02T23:45:00Z — tick 466
+- Unit: **rq_457** (FOI-adjacent hole-fill — **Chinese Pavilion PPP dual + Festivals VL/WAL classical dual**)
+- Found (strong/medium primary):
+  - **Chinees Paviljoen Laken PPP:** Regie works budget **ca EUR 6m** (primary agency page); Hennebert private target **6–7m** / first **1m** in (medium press); opening class end-2027/2028; vzw Chinees Paleis Zijderoute; Koninklijke Schenking owner; closed 2013
+  - **NL Art5.7 EUR 0.5m** definitive multi-year frame **to 2031** (Histoire des Belges 2030) — strong dual public named layer
+  - **Envelope caution:** Regie 6m vs private 6–7m may be **same PPP envelope** — do not sum as pure public without FOI
+  - **Festivals dual classical:** VL **259k** + WAL **191k** = **450k** NL definitive (Art5.3+5.4); classical music prog **560k** (3.32) related; Art5 sub-note residual member festivals
+- Wrote: sources +5; budgets +9; cmt +2; lb +6; entities +4 (chinees_paleis_vzw festivals_vl/wal regie_gebouwen); FOI **gap_chinees_paviljoen_cash** ready+draft; rq_457=done spawn **rq_458**; ticks=466
+- FOI opened: gap_chinees_paviljoen_cash (ready, human send)
+- Next: prio5 **rq_458** (Europalia dual / Cinematek BELSPO / Queen Elisabeth competition / residual); deferred **rq_116** SWA

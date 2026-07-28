@@ -8245,3 +8245,13 @@ bud_beliris_stib_gare_centrale_2025,stib,2025,3500000,,,outturn,src_beliris_subs
 bud_beliris_stib_gare_centrale_total,stib,2025,20000000,,,budgeted,src_beliris_subsides_2025,strong,Beliris STIB Gare Centrale renovation total engagement 20m; tick465
 bud_flagey_public_stack_2025,flagey,2025,3485000,,,derived,src_beliris_flagey_dual_tick465,strong,Flagey dual public class 2025: Beliris 3.235m capex + NL 0.25m opex = 3.485m (different purposes); tick465
 bud_proleague_nl_public_3_5m,pro_league,2025,3500000,,,budget,src_nloterij_kb_definitief_2025,strong,Pro League NL Art5.11 FSR safety innovation 3.5m definitive (entity end-receiver view); tick465
+
+bud_nloterij_chinese_pavilion_def_2025,nationale_loterij,2025,500000,,,budget,src_nloterij_kb_definitief_2025,strong,Histoire des Belges 2030 Chinese Pavilion projects 0.5m definitive Art5.7 multi-year frame to 2031; tick466
+bud_regie_chinees_paviljoen_works_6m,regie_gebouwen,2026,6000000,,,budgeted,src_regie_chinees_paviljoen,strong,Regie restoration works budget raised to ca 6m EUR for Chinese Pavilion Laken; PPP private-led risk same envelope; tick466
+bud_chinees_paviljoen_private_target_6m,chinees_paleis_vzw,2027,6000000,,,budgeted,src_vrt_chinees_paviljoen_2024,medium,Hennebert private fundraising target ~6m (BRUZZ 6-7m); first 1m in medium; not pure public euro; tick466
+bud_chinees_paviljoen_private_first_1m,chinees_paleis_vzw,2025,1000000,,,outturn,src_bruzz_hennebert_chinees_2025,medium,Hennebert claim first million private already in Jun 2025; secondary press; tick466
+bud_nloterij_festivals_vl_def_2025,festivals_vlaanderen,2025,259000,,,budget,src_nloterij_kb_definitief_2025,strong,Festivals van Vlaanderen projects 259k definitive Art5.3; Art5 sub-note residual; tick466
+bud_nloterij_festivals_wal_def_2025,festivals_wallonie,2025,191000,,,budget,src_nloterij_kb_definitief_2025,strong,Festivals de Wallonie projects 191k definitive Art5.4; dual VL classic music festivals; tick466
+bud_nloterij_festivals_vl_wal_sum_2025,nationale_loterij,2025,450000,,,derived,src_festivals_vl_wal_nl_dual,strong,Dual festivals VL+WAL NL sum 259+191=450k definitive classical music; tick466
+bud_nloterij_classical_music_prog_def_2025,nationale_loterij,2025,560000,,,budget,src_nloterij_kb_definitief_2025,strong,Specific classical music programme projects 560k cat3.32 Art5 sub residual; dual festivals stack; tick466
+bud_chinees_paviljoen_nl_plus_regie_class,chinees_paleis_vzw,2026,6500000,,,derived,src_chinees_paviljoen_dual_tick466,medium,Dual class if additive NL 0.5 + Regie 6m; may overlap PPP envelope FOI; tick466
