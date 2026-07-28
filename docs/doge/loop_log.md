@@ -6326,3 +6326,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +16; cmt +2; lb +7; FOI **gap_rail_proc_ypto_tuc_l5** ready+draft; rq_517=done spawn **rq_518**; ticks=526
 - FOI opened: gap_rail_proc_ypto_tuc_l5 (ready, human send) — not sent
 - Next: prio5 **rq_518** (progress@530 soon); deferred **rq_116** SWA
+
+### 2026-07-29T05:40:00Z - tick 527
+- Unit: **rq_518** (FOI-adjacent hole-fill — **CoA 2024_55 company-car CO₂ SSC + mobility budget dual taxex**)
+- Found (strong primary Rekenhof AG 30 Oct 2024 + press):
+  - **Receipts 2022: €278.52m** CO₂ contribution (+12% vs 2008) for **560,941** vehicles (+82%)
+  - Avg per vehicle **€802 → €497** (−38%); cumulative target gap **€958m** 2008–2022
+  - Gap vs ordinary employer SSC on wage-equivalent **>€1bn by 2026** (min CO₂ generalisation)
+  - **Febiac 1.105m** legal-person vehicles vs RSZ **578k** Q4 2022; leasing opacity; DIV data unused
+  - **WLTP/NEDC gaming ~€74.3m** cost to SS 2022; under-declaration risk **≥€22m/yr** (band 4–32m)
+  - Mobility budget still **marginal** (~50× fewer users than company cars); special contrib class **~€15.5m** 2023
+  - **Dual:** SSC under-collection under mega **taxex/FFS company-car package** (top10)
+- Wrote: sources +3; budgets +10; cmt +2; lb +6; FOI **gap_co2_bijdrage_div_cross_l5** ready+draft; raw PDFs; rq_518=done spawn **rq_519**; ticks=527
+- FOI opened: gap_co2_bijdrage_div_cross_l5 (ready, human send) — not sent
+- Next: prio5 **rq_519** (**progress@530 next tick**); deferred **rq_116** SWA

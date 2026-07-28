@@ -9105,3 +9105,13 @@ bud_proc_ypto_orders_35_7m,ypto,2023,35700000,,,outturn,src_ccrek_proc_entity_l5
 bud_proc_ypto_awards_154m_class,ypto,2023,154000000,,,outturn,src_ccrek_proc_entity_l5_2025,medium,Ypto awards class >154m excl VAT CoA sample path; dual NMBS; tick526
 bud_proc_tuc_frameworks_class,tuc_rail,2023,39000000,,,estimate,src_ccrek_proc_entity_l5_2025,medium,TUC Rail frameworks class >39m excl VAT; >half own needs no tender; tick526
 bud_dual_rail_proc_sample,gg_belgium,2023,550000000,,,derived,src_dual_rail_proc_ypto_tuc_tick526,strong,Dual rail Infrabel 550m sample + Ypto/TUC compliance fails; tick526
+bud_co2_bijdrage_receipts_2022,onss_rsz,2022,278520000,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,strong,CO2 solidarity contribution receipts 278.52m 2022 (+12pct vs 2008); tick527
+bud_co2_bijdrage_vehicles_2022,onss_rsz,2022,560941,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,strong,Company vehicles with CO2 contribution 560941 2022 (+82pct vs 2008); tick527
+bud_co2_bijdrage_gap_cum_958m,onss_rsz,2022,958000000,,,estimate,src_ccrek_co2_bijdrage_opvolging_2024,strong,Cumulative gap expected indexed receipts vs declared 958m 2008-2022; tick527
+bud_co2_vs_ordinary_ssc_gap_1bn_2026,onss_rsz,2026,1000000000,,,estimate,src_ccrek_co2_bijdrage_opvolging_2024,medium,Gap CO2 receipts vs ordinary employer SSC on wage-equivalent >1bn by 2026 under min CO2 generalisation; tick527
+bud_co2_wltp_gaming_74m_2022,onss_rsz,2022,74322000,,,estimate,src_ccrek_co2_bijdrage_opvolging_2024,strong,Employer choice NEDC vs WLTP cost 74.3m to SS 2022; tick527
+bud_co2_underdeclare_risk_22m,onss_rsz,2020,22000000,,,estimate,src_ccrek_co2_bijdrage_opvolging_2024,medium,Revenue loss under-declaration risk >=22m/yr 2020; risk band 4-32m/yr; tick527
+bud_febrac_legal_person_vehicles_2022,fod_mobiliteit,2022,1104706,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,strong,Febiac legal-person vehicles 1.104706m 2022 vs RSZ declared 578331 Q4; tick527
+bud_rsz_declared_company_vehicles_q4_2022,onss_rsz,2022,578331,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,strong,RSZ declared company vehicles 578331 Q4 2022; tick527
+bud_mobiliteitsbudget_special_contrib_2023,onss_rsz,2023,15500000,,,outturn,src_ccrek_co2_bijdrage_opvolging_2024,medium,Mobility budget special contribution class 15.5m 2023; marginal use vs company cars; tick527
+bud_dual_cars_ssc_taxex,gg_belgium,2022,278520000,,,derived,src_dual_company_cars_ssc_taxex_tick527,strong,Dual CO2 SSC 278m receipts under taxex company-car mega package; tick527

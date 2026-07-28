@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T05:20:00Z,rq_517,526,no,Tick526 CoA proc entity residual Ypto TUC Infrabel 550m dual rail; next prio5 rq_518; progress@530 soon; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T05:40:00Z,rq_518,527,no,Tick527 CoA CO2 bedrijfswagens 278m cum gap 958m dual taxex; next prio5 rq_519; progress@530 next; rq_116 SWA deferred.
