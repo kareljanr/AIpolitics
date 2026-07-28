@@ -4960,3 +4960,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +41; cmt +2; lb +6; raw 3 PDFs; rq_418=done; spawn **rq_419**; ticks=427
 - FOI: none new (core entitlement; 2024-25 series lag normal)
 - Next: prio5 **rq_419**; deferred **rq_116** SWA
+
+### 2026-08-02T04:45:00Z - tick 428
+- Unit: **rq_419** (FOI-adjacent hole-fill - **FPD PensionStat L5 menage + transition + retraite/survie**)
+- Found (strong primary PensionStat XLSX data-2025-fr Depenses_annuelles):
+  - **Legal total path:** 48.29 -> **69.05bn** 2019-25 (+43%; reconfirm)
+  - **Retraite 2025:** **60.52bn** (87.6%) · **Survie 8.53bn** (12.4%)
+  - **Taux menage (household rate):** **5.923bn** 2025 (sal **4.750** + indep **1.173**; ~8.6% of legal; multi-year path extracted)
+  - **Allocation de transition:** **~63.3m** 2025 (sal 49.4 · indep 6.8 · fonct 7.1)
+  - Autres prestations sal ret **354m** · indep ret **189m**
+  - Stock pensionnes nationality-sum **2.675m** · GRAPA **119.651**
+- Wrote: sources note; budgets +~40; cmt +3; lb +5; rq_419=done; spawn **rq_420**; ticks=428
+- FOI: none new (gap_fpd_beheer_igo_l5 residual admin still ready; autres composition opacity note only)
+- Next: prio5 **rq_420**; deferred **rq_116** SWA

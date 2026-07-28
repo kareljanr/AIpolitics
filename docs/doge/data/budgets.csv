@@ -6909,3 +6909,51 @@ bud_inami_mat_indep_foster_2023,riziv,2023,88065,,,outturn_indemnities,src_inami
 bud_inami_mat_indep_package_2023,riziv,2023,67876860,,,outturn_indemnities,src_inami_maternite_indep_2023,strong,Indep mat package sum primary+inv+adopt+foster 67876860; tick427
 bud_inami_matpat_total_sal_indep_2023,riziv,2023,868015886,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Dual recon sal package 800.1m + indep package 67876860 = 868015886 (excl sal invalid-mat 19.1m); tick427
 bud_inami_mat_invalid_sal_plus_package_2023,riziv,2023,819269059,,,outturn_indemnities,src_inami_maternite_sal_2023,strong,Sal package+invalid-mat line 819269059 (800.1+19.1); tick427
+bud_fpd_legal_total_2019,fpd,2019,48292082943,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 48292082943 (48.292bn); tick428 path reconfirm
+bud_fpd_legal_total_2020,fpd,2020,50053777862,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 50053777862 (50.054bn); tick428 path reconfirm
+bud_fpd_legal_total_2021,fpd,2021,51763305375,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 51763305375 (51.763bn); tick428 path reconfirm
+bud_fpd_legal_total_2022,fpd,2022,57405837331,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 57405837331 (57.406bn); tick428 path reconfirm
+bud_fpd_legal_total_2023,fpd,2023,62783328907,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 62783328907 (62.783bn); tick428 path reconfirm
+bud_fpd_legal_total_2024,fpd,2024,66475420983,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 66475420983 (66.475bn); tick428 path reconfirm
+bud_fpd_legal_total_2025,fpd,2025,69047091066,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,PensionStat legal pensions total 69047091066 (69.047bn); tick428 path reconfirm
+bud_fpd_retraite_2019,fpd,2019,40902354907,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 40902354907; tick428
+bud_fpd_retraite_2020,fpd,2020,42672515251,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 42672515251; tick428
+bud_fpd_retraite_2021,fpd,2021,44375861672,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 44375861672; tick428
+bud_fpd_retraite_2022,fpd,2022,49478310689,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 49478310689; tick428
+bud_fpd_retraite_2023,fpd,2023,54446270685,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 54446270685; tick428
+bud_fpd_retraite_2024,fpd,2024,57985249505,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 57985249505; tick428
+bud_fpd_retraite_2025,fpd,2025,60519012019,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Retirement pensions total 60519012019; tick428
+bud_fpd_survie_2019,fpd,2019,7389728036,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 7389728036; tick428
+bud_fpd_survie_2020,fpd,2020,7381262611,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 7381262611; tick428
+bud_fpd_survie_2021,fpd,2021,7387443703,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 7387443703; tick428
+bud_fpd_survie_2022,fpd,2022,7927526642,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 7927526642; tick428
+bud_fpd_survie_2023,fpd,2023,8337058222,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 8337058222; tick428
+bud_fpd_survie_2024,fpd,2024,8490171479,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 8490171479; tick428
+bud_fpd_survie_2025,fpd,2025,8528079047,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Survivor pensions+transition total 8528079047; tick428
+bud_fpd_taux_menage_2019,fpd,2019,5415954769,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5415954769 sal+indep only; tick428
+bud_fpd_taux_menage_2020,fpd,2020,5419815264,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5419815264 sal+indep only; tick428
+bud_fpd_taux_menage_2021,fpd,2021,5324792141,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5324792141 sal+indep only; tick428
+bud_fpd_taux_menage_2022,fpd,2022,5760871504,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5760871504 sal+indep only; tick428
+bud_fpd_taux_menage_2023,fpd,2023,5941347506,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5941347506 sal+indep only; tick428
+bud_fpd_taux_menage_2024,fpd,2024,5995539908,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5995539908 sal+indep only; tick428
+bud_fpd_taux_menage_2025,fpd,2025,5922914945,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Household-rate (taux menage) retirement cash 5922914945 sal+indep only; tick428
+bud_fpd_alloc_transition_2019,fpd,2019,20935131,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 20935131; tick428
+bud_fpd_alloc_transition_2020,fpd,2020,22093538,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 22093538; tick428
+bud_fpd_alloc_transition_2021,fpd,2021,24917349,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 24917349; tick428
+bud_fpd_alloc_transition_2022,fpd,2022,38662245,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 38662245; tick428
+bud_fpd_alloc_transition_2023,fpd,2023,51820053,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 51820053; tick428
+bud_fpd_alloc_transition_2024,fpd,2024,59216998,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 59216998; tick428
+bud_fpd_alloc_transition_2025,fpd,2025,63307760,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Transition allocation (widow/er bridge) cash 63307760; tick428
+bud_fpd_taux_menage_sal_2025,fpd,2025,4749813909,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Sal household-rate retirement 4749813909 of menage total; tick428
+bud_fpd_taux_menage_ind_2025,fpd,2025,1173101036,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Indep household-rate retirement 1173101036; tick428
+bud_fpd_trans_sal_2025,fpd,2025,49375458,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Sal transition allocation 49375458; tick428
+bud_fpd_trans_ind_2025,fpd,2025,6833680,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Indep transition allocation 6833680; tick428
+bud_fpd_trans_fonct_2025,fpd,2025,7098621,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Fonct transition allocation 7098621; tick428
+bud_fpd_autres_sal_ret_2025,fpd,2025,354006337,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Sal retirement autres prestations 354006337; tick428
+bud_fpd_autres_ind_ret_2025,fpd,2025,188624092,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Indep retirement autres prestations 188624092; tick428
+bud_fpd_regime_sal_2025,fpd,2025,39880867723,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Regime Sal. total 39880867723 2025; tick428
+bud_fpd_regime_fonct_2025,fpd,2025,23428508360,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Regime Fonct. total 23428508360 2025; tick428
+bud_fpd_regime_ind_2025,fpd,2025,5737714982,,,outturn_indemnities,src_pensionstat_depenses_2025,strong,Regime Ind. total 5737714982 2025; tick428
+bud_fpd_pensionnes_stock_2025,fpd,2025,2674520,,,beneficiary_stock,src_pensionstat_depenses_2025,strong,Pensionnes stock nationality-sum 2025 2674520 (site ~2.7m); tick428
+bud_fpd_grapa_stock_2025,fpd,2025,119651,,,beneficiary_stock,src_pensionstat_depenses_2025,strong,GRAPA stock 2025 119651 beneficiaries microdata sum; tick428
+bud_fpd_legal_growth_2019_25,fpd,2025,20755008123,,,delta_eur,src_pensionstat_depenses_2025,strong,Legal pensions +43.0pct 2019-25 (+20.76bn); tick428
