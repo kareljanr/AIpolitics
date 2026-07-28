@@ -5954,3 +5954,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +28; cmt +5; lb +7; FOI **gap_vl_debt_nonbudget_bridge_l5** ready+draft; raw PDFs; rq_490=done spawn **rq_491**; ticks=499
 - FOI opened: gap_vl_debt_nonbudget_bridge_l5 (ready, human send) — not sent
 - Next: prio5 **rq_491** (**progress@500 next tick**); deferred **rq_116** SWA
+
+### 2026-07-28T20:50:00Z - tick 500
+- Unit: **rq_491** (progress milestone @500 — coverage % + waste top10; no invent euros)
+- Found / inventory:
+  - Layers: **A100** · **B100** · **C~99** · **D~30–43%** · **E~248 ready** / ~9 answered / ~259 FOI rows
+  - CSV class: budgets ~8685 · cmt ~914 · lb ~1697 · entities ~411 · sources ~936 · rq ~486
+  - **Gain 490→500:** CoA dual Entity II aju complete (FWB −1.75 · WAL −2.02 · DG −0.11) · GIP 3.685bn · prison DBFM · education dual (Cepage 35–96m · Persona 16m · OV 17.25bn · AVB+inductie >100m) · VL RR ESR −3.98bn / debt 50.2bn (+8.4) / Zaventem 2.55bn
+  - Waste top10 **stable** (fossil/company-cars/cheque/EIWT); no reorder; new near-list: VL debt stock 50.2bn · Zaventem 2.55bn · nonbudget 1.07bn · dual education IT
+- Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_491=done spawn **rq_492**; ticks=500
+- FOI: none new (progress tick)
+- Next: prio5 **rq_492**; deferred **rq_116** SWA

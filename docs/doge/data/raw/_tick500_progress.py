@@ -1,4 +1,63 @@
-# DOGE waste ranking — current top 10
+# tick500 — progress coverage % + waste top10 refresh (no invent euros)
+from pathlib import Path
+
+root = Path(r"C:\Users\karel\dev\AIpolitics\docs\doge\data")
+prog_path = root / "progress_every_10_ticks.md"
+old = prog_path.read_text(encoding="utf-8")
+marker = "## Snapshot at **tick 490**"
+idx = old.find(marker)
+if idx < 0:
+    raise SystemExit("tick 490 marker missing")
+header = old[:idx]
+rest = old[idx:].replace(
+    "## Snapshot at **tick 490** (2026-07-28)",
+    "## Snapshot at **tick 490** (2026-07-28) — archived",
+    1,
+)
+
+new_snap = """## Snapshot at **tick 500** (2026-07-28)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA Entity II aju quartet complete (FWB/WAL/DG) · VL Onderwijs **17.25bn** · VL certified RR2025 outturn/debt · GIP **3.685bn** class · prison DBFM follow-up |
+| **D. L5 named / measure end-lines** | **~30–43%** of TE (generous) | **Gain 490→500 is CoA dual education + Entity II aju + VL certified accounts:** prison DBFM Antwerp fees · GIP actualisatie **3.685bn** / bike **220m** · FWB SEC aju **−1.753bn** economies **254→733m** · WAL SEC aju **−2.015bn** debt **30.7→33.0bn** · DG ESVG **−0.11bn** debt path **1.47bn** · FWB Cepage IT **35–96m** unsubstantiated + Etnic **~118m** · VL Persona **16m** cancelled dual · VL OV savings **~322m** · AVB **52.2m** + inductie **48.7m** + bonus **24.7m** · VL RR ESR **−3.98bn** / Maastricht **50.2bn** (+**8.4bn**) / Zaventem PMV **2.55bn** / nonbudget debt **1.07bn** / Toekomstverbond **3.85bn** · FOI still bulk named ASBL/firm + debt bridge L5 |
+| **E. FOI-ready gaps** | **~248** drafts ready | Human send only; answered **~9**; total FOI rows **~259** (+ debt bridge, Persona, AVB, Cepage, WAL fiches, DG infra, FWB economies programme, …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* (not adopted budget) · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow.
+
+### Inventory (tick 500)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~8685 |
+| commitments.csv | ~914 |
+| leaderboard.csv | ~1697 |
+| entities.csv | ~411 |
+| sources.csv | ~936 |
+| FOI ready | ~248 |
+| FOI answered | ~9 |
+| FOI total rows | ~259 |
+| research_queue | ~486 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 490
+
+- **CoA prison DBFM + GIP (tick491–492):** Antwerp DBFM fees/VFM dual VL PPP · GIP actualisatie **€3.685bn** class + bike **€220m** dual SOFICO.
+- **Entity II aju complete (tick493–495):** FWB SEC **−1.753bn** economies **254→733m** · WAL SEC **−2.015bn** debt **30.7bn** eoy25 path **33.0** · DG ESVG **−0.11bn** debt path **1.47bn** · dual quartet residual map closed with DG.
+- **Dual education IT + OV (tick496–498):** FWB Cepage **35–96m** uncosted under personnel **€7.1bn** · VL Persona **€16m** stop · VL OV **€17.25bn** + savings **~€322m** · AVB+inductie **>€100m** + bonus **€24.7m**.
+- **VL certified accounts (tick499):** ESR **−€3.98bn** · Maastricht **€50.2bn** (+**€8.4bn**) · Zaventem/PMV **€2.55bn** · nonbudget debt build **€1.07bn** FOI · Toekomstverbond cum **€3.85bn**.
+
+---
+
+"""
+
+prog_path.write_text(header + new_snap + rest, encoding="utf-8")
+print("progress OK")
+
+waste_path = root / "doge_waste_top10_current.md"
+waste_path.write_text(
+    """# DOGE waste ranking — current top 10
 
 **As-of:** tick **500** (2026-07-28) · **~1697** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
@@ -75,3 +134,41 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 ---
 
 **Refresh rule:** recompute at each multiple of 10 ticks or when human asks “waste top / progress”.
+""",
+    encoding="utf-8",
+)
+print("waste OK")
+
+# research_queue: close rq_491, spawn rq_492
+rq_path = root / "research_queue.csv"
+text = rq_path.read_text(encoding="utf-8")
+old_rq = (
+    "rq_491,Continuous FOI-adjacent public hole-fill batch,continuous,5,open,L5,gg_belgium,"
+    "Prefer public primary fills (FOI-adjacent dual/L5). Prefer before idle.,,"
+    "2026-07-28T20:30:00Z,,Spawned tick499 after CoA VL Rekeningenrapport 2025; progress@500 next tick; rq_116 deferred"
+)
+new_rq = (
+    "rq_491,Progress milestone @500 coverage % + waste top10,continuous,5,done,L5,gg_belgium,"
+    "Refresh progress_every_10_ticks.md + doge_waste_top10_current.md; no invent euros.,,"
+    "2026-07-28T20:30:00Z,2026-07-28T20:50:00Z,"
+    "tick500: progress A100 B100 C~99 D~30-43 E~248 ready; CoA dual wave 491-499; waste top10 stable; rq_116 deferred"
+)
+if old_rq not in text:
+    raise SystemExit("rq_491 row not found")
+text = text.replace(old_rq, new_rq)
+if not text.endswith("\n"):
+    text += "\n"
+text += (
+    "rq_492,Continuous FOI-adjacent public hole-fill batch,continuous,5,open,L5,gg_belgium,"
+    "Prefer public primary fills (FOI-adjacent dual/L5). Prefer before idle.,,"
+    "2026-07-28T20:50:00Z,,Spawned tick500 after progress@500; rq_116 deferred\n"
+)
+rq_path.write_text(text, encoding="utf-8")
+
+(root / "loop_state.csv").write_text(
+    "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
+    "main,continuous,hole_fill,2026-07-28T20:50:00Z,rq_491,500,no,"
+    "Tick500 progress@500 coverage+waste top10; next prio5 rq_492; rq_116 SWA deferred.\n",
+    encoding="utf-8",
+)
+print("queue+state OK")

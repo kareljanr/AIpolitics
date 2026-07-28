@@ -20,7 +20,42 @@
 
 ---
 
-## Snapshot at **tick 490** (2026-07-28)
+## Snapshot at **tick 500** (2026-07-28)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA Entity II aju quartet complete (FWB/WAL/DG) · VL Onderwijs **17.25bn** · VL certified RR2025 outturn/debt · GIP **3.685bn** class · prison DBFM follow-up |
+| **D. L5 named / measure end-lines** | **~30–43%** of TE (generous) | **Gain 490→500 is CoA dual education + Entity II aju + VL certified accounts:** prison DBFM Antwerp fees · GIP actualisatie **3.685bn** / bike **220m** · FWB SEC aju **−1.753bn** economies **254→733m** · WAL SEC aju **−2.015bn** debt **30.7→33.0bn** · DG ESVG **−0.11bn** debt path **1.47bn** · FWB Cepage IT **35–96m** unsubstantiated + Etnic **~118m** · VL Persona **16m** cancelled dual · VL OV savings **~322m** · AVB **52.2m** + inductie **48.7m** + bonus **24.7m** · VL RR ESR **−3.98bn** / Maastricht **50.2bn** (+**8.4bn**) / Zaventem PMV **2.55bn** / nonbudget debt **1.07bn** / Toekomstverbond **3.85bn** · FOI still bulk named ASBL/firm + debt bridge L5 |
+| **E. FOI-ready gaps** | **~248** drafts ready | Human send only; answered **~9**; total FOI rows **~259** (+ debt bridge, Persona, AVB, Cepage, WAL fiches, DG infra, FWB economies programme, …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* (not adopted budget) · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow.
+
+### Inventory (tick 500)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~8685 |
+| commitments.csv | ~914 |
+| leaderboard.csv | ~1697 |
+| entities.csv | ~411 |
+| sources.csv | ~936 |
+| FOI ready | ~248 |
+| FOI answered | ~9 |
+| FOI total rows | ~259 |
+| research_queue | ~486 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 490
+
+- **CoA prison DBFM + GIP (tick491–492):** Antwerp DBFM fees/VFM dual VL PPP · GIP actualisatie **€3.685bn** class + bike **€220m** dual SOFICO.
+- **Entity II aju complete (tick493–495):** FWB SEC **−1.753bn** economies **254→733m** · WAL SEC **−2.015bn** debt **30.7bn** eoy25 path **33.0** · DG ESVG **−0.11bn** debt path **1.47bn** · dual quartet residual map closed with DG.
+- **Dual education IT + OV (tick496–498):** FWB Cepage **35–96m** uncosted under personnel **€7.1bn** · VL Persona **€16m** stop · VL OV **€17.25bn** + savings **~€322m** · AVB+inductie **>€100m** + bonus **€24.7m**.
+- **VL certified accounts (tick499):** ESR **−€3.98bn** · Maastricht **€50.2bn** (+**€8.4bn**) · Zaventem/PMV **€2.55bn** · nonbudget debt build **€1.07bn** FOI · Toekomstverbond cum **€3.85bn**.
+
+---
+
+## Snapshot at **tick 490** (2026-07-28) — archived
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
