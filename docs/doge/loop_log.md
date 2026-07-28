@@ -5552,3 +5552,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +6; cmt +2; lb +6; entities +3; FOI **gap_fairwork_tco** + **gap_nl_opvang_l5** ready+drafts; raw fairwork PDF; rq_463=done spawn **rq_464**; ticks=472
 - FOI opened: 2 ready (human send)
 - Next: prio5 **rq_464** (UCI cycling / Leesbevordering / Paola / residual); deferred **rq_116** SWA
+
+### 2026-08-03T03:15:00Z — tick 473
+- Unit: **rq_464** (FOI-adjacent hole-fill — **Reine Paola dual NL 260k + residual culture/social NL batch 3.32m**)
+- Found (strong AR2025 + plan + medium press):
+  - **Paola NL €260k** cat3.5 · **Pelicano** 1.431 young × avg **€763** ˜ **€1.092m** medium · **€1.5m** aides directes claim · philanthropy centre **€240k** out · awards **€10k×3** · press **loss >€1.1m** 2025 medium
+  - **Residual NL culture/social batch sum €3.315m:** Paola 0.26 · Grand Manège 0.1 (dual FWB+Ville) · Jardin Passion 0.1 · UCI races 0.6 · Leesbevordering 1.5 · Interfed poverty 0.2 · OVK 0.205 · BNA 0.15 · To Walk Again 0.1 · WWF 0.1
+  - Grand Manège: CAV&MA partners NL+FWB+Ville; construction class €15m historical medium
+- Wrote: sources +5; budgets +16; cmt +2; lb +7; entities +3; FOI **gap_paola_tco** ready+draft; raw Paola PDF; rq_464=done spawn **rq_465**; ticks=473
+- FOI opened: gap_paola_tco (ready, human send)
+- Next: prio5 **rq_465** (UCI Art5 races / Leesbevordering operators / Interfed poverty dual / residual); deferred **rq_116** SWA

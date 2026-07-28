@@ -8317,3 +8317,20 @@ bud_nloterij_antikankerfonds_def_2025,antikankerfonds,2025,300000,,,budget,src_n
 bud_nloterij_opvangtehuizen_def_2025,nationale_loterij,2025,495000,,,budget,src_nloterij_kb_definitief_2025,strong,Opvangtehuizen Centres d hebergement 495k definitive cat3.12 aggregate shelters; L5 named residual FOI; tick472
 bud_nloterij_holocaust_def_2025,nationale_loterij,2025,370000,,,budget,src_nloterij_kb_definitief_2025,strong,Herdenking Holocaust Memoires 370k definitive cat3.17 Art5 sub-note residual; tick472
 bud_nl_health_human_residual_sum_2025,nationale_loterij,2025,2174770,,,derived,src_nl_residual_health_human_l5_tick472,strong,Sum Fairwork+IARC+Antikanker+Opvang+Holocaust 0.25+0.76+0.3+0.495+0.37=2.175m residual health/human L5 batch; tick472
+
+bud_nloterij_paola_def_2025,fondation_reine_paola,2025,260000,,,budget,src_nloterij_kb_definitief_2025,strong,Stichting Koningin Paola 260k definitive cat3.5; dual AR impact tick473
+bud_paola_pelicano_aid_2025,fondation_reine_paola,2025,1091863,,,derived,src_paola_ar_2025,medium,Pelicano 1431 young x avg 763 EUR = 1.091853m class direct support 2025; tick473
+bud_paola_aides_directes_1_5m,fondation_reine_paola,2025,1500000,,,budgeted,src_paola_ar_2025,strong,AR impact claim 1.5m direct aids distributed 2025 (all programmes class); may include Pelicano; tick473
+bud_paola_philanthropy_centre_240k,fondation_reine_paola,2025,240000,,,outturn,src_paola_ar_2025,strong,Philanthropic centre 240k paid to other charities via activated funds 2025; tick473
+bud_paola_awards_2026,fondation_reine_paola,2026,30000,,,budgeted,src_paola_ar_2025,medium,Prix 2026 three laureates 10k each class (GVA/press); tick473
+bud_paola_loss_2025,fondation_reine_paola,2025,1100000,,,outturn,src_paola_loss_press_2025,medium,Press: loss over 1.1m EUR 2025; full P&L FOI; tick473
+bud_nloterij_grand_manege_def_2025,grand_manege_namur,2025,100000,,,budget,src_nloterij_kb_definitief_2025,strong,Grand Manege Namur Concert Hall 100k definitive cat3.33; dual FWB+city; tick473
+bud_nloterij_jardin_passion_def_2025,nationale_loterij,2025,100000,,,budget,src_nloterij_kb_definitief_2025,strong,Theatre Jardin Passion 100k definitive cat3.34; tick473
+bud_nloterij_uci_def_2025,nationale_loterij,2025,600000,,,budget,src_nloterij_kb_definitief_2025,strong,Belgian UCI 1.1 one-day races support 600k definitive cat3.31 Art5 sub residual; tick473
+bud_nloterij_leesbevordering_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,Leesbevordering + financial literacy 1.5m definitive Art5.10 Art5 sub residual; tick473
+bud_nloterij_interfed_poverty_def_2025,interfed_poverty_service,2025,200000,,,budget,src_nloterij_kb_definitief_2025,strong,Interfederal poverty service 200k definitive cat3.9; tick473
+bud_nloterij_ovk_def_2025,nationale_loterij,2025,205000,,,budget,src_nloterij_kb_definitief_2025,strong,Ouders van Verongelukte Kinderen 205k definitive cat3.3; tick473
+bud_nloterij_bna_def_2025,nationale_loterij,2025,150000,,,budget,src_nloterij_kb_definitief_2025,strong,Belgisch Netwerk Armoedebestrijding 150k definitive cat3.37; tick473
+bud_nloterij_to_walk_again_def_2025,nationale_loterij,2025,100000,,,budget,src_nloterij_kb_definitief_2025,strong,To Walk Again 100k definitive cat3.36; tick473
+bud_nloterij_wwf_def_2025,nationale_loterij,2025,100000,,,budget,src_nloterij_kb_definitief_2025,strong,WWF Belgium projects 100k definitive cat3.11; tick473
+bud_nl_residual_culture_social_sum_2025,nationale_loterij,2025,3315000,,,derived,src_nl_residual_culture_social_l5_tick473,strong,Sum Paola0.26+Manege0.1+Jardin0.1+UCI0.6+Lees1.5+Poverty0.2+OVK0.205+BNA0.15+Walk0.1+WWF0.1=3.315m residual culture/social L5; tick473
