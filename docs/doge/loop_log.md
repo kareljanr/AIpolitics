@@ -4865,3 +4865,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_411=done; spawn **rq_412**; ticks=420
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_412** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-02T01:15:00Z - tick 421
+- Unit: **rq_412** (FOI-adjacent hole-fill - **INAMI invalidity indemnity stats 2025**)
+- Found (strong primary INAMI 19 May 2026 PDFs):
+  - **Salaried+unemployed cash total:** **€6.959 → €9.971bn** 2021-25 (+6.19% YoY 2025); base **€9.552bn** + prime rattrapage **€419.5m**
+  - Days **160.4m** · avg day **€62.17** (+2.21%)
+  - Stock **537.728** sal (+4.50%; **+1.6%** ex pension-age effect) · indep **38.915** (+9.79%) · **total 576.643**
+  - Pathology sal: mental **209.245 (38.9%)** · osteo **169.238 (31.5%)** · tumors **26.591**
+  - Regions sal: VL **267.356** · WAL **205.779** · BRU **50.741** · abroad **13.852**
+  - Primary incapacity caseload **−1.68%** 2024-25 (reform contact gate claimed)
+  - Dual ESSPROS disability EE **€17.9bn** broader perimeter (gap ~indep+other regimes)
+- Wrote: sources +1; budgets +23; cmt +3; lb +8; FOI **gap_inami_invalidite_indep_cash** ready; raw 3 PDFs; rq_412=done; spawn **rq_413**; ticks=421
+- FOI: independent cash series parallel salaried tables — human send only
+- Next: prio5 **rq_413**; deferred **rq_116** SWA

@@ -6676,3 +6676,26 @@ bud_edp_debt_wal_2025,wallonie_gov,2025,40820000000,,,esa,src_nbb_edp_2025_apr_n
 bud_edp_debt_bru_2025,brussels_gov,2025,16339000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,BCR debt 16339m debt-to-revenue 250pct highest 2025 (+95pct 4y); tick419
 bud_edp_defence_cofog_2025_refresh,mod_defensie,2025,8800000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,COFOG defence 8.8bn 1.4pct GDP 2025 vs NATO 2pct cash; undelivered orders 0.6pct GDP; tick419
 bud_edp_rrf_disbursed_2025,gg_belgium,2025,3300000000,,,eu_disbursement,src_nbb_edp_2025_apr_neco_full,strong,RRF/REPowerEU disbursed 3.3bn of 5.3bn planned (62pct) end-2025; EC paid nearly 3bn milestones; tick419
+bud_inami_inv_sal_paid_2021,riziv,2021,6959092628,,,outturn,src_inami_invalidite_stats_2025,strong,Invalidity indemnities salaried+unemployed total general incl prime rattrapage 6959.1m 2021; tick421
+bud_inami_inv_sal_paid_2022,riziv,2022,7783374526,,,outturn,src_inami_invalidite_stats_2025,strong,Invalidity indemnities salaried total 7783.4m 2022; tick421
+bud_inami_inv_sal_paid_2023,riziv,2023,8594647580,,,outturn,src_inami_invalidite_stats_2025,strong,Invalidity indemnities salaried total 8594.6m 2023; tick421
+bud_inami_inv_sal_paid_2024,riziv,2024,9390066845,,,outturn,src_inami_invalidite_stats_2025,strong,Invalidity indemnities salaried total 9390.1m 2024; tick421
+bud_inami_inv_sal_paid_2025,riziv,2025,9971120879,,,outturn,src_inami_invalidite_stats_2025,strong,Invalidity indemnities salaried total 9971.1m 2025 (+6.19pct); dual ESSPROS disability broader; tick421
+bud_inami_inv_sal_base_2025,riziv,2025,9551607532,,,outturn,src_inami_invalidite_stats_2025,strong,Base indemnities excl prime rattrapage 9551.6m 2025 (men 3890.5 women 5661.1); tick421
+bud_inami_inv_sal_prime_2025,riziv,2025,419513347,,,outturn,src_inami_invalidite_stats_2025,strong,Prime de rattrapage invalidity salaried 419.5m 2025; tick421
+bud_inami_inv_sal_days_2025,riziv,2025,160384103,,,unit_days,src_inami_invalidite_stats_2025,strong,Days indemnified invalidity salaried 160.384m 2025 (+3.89pct); tick421
+bud_inami_inv_sal_days_2024,riziv,2024,154372188,,,unit_days,src_inami_invalidite_stats_2025,strong,Days 154.372m 2024; tick421
+bud_inami_inv_sal_avg_day_2025,riziv,2025,,,,unit_eur,src_inami_invalidite_stats_2025,strong,Avg daily indemnity total general 62.17 EUR 2025 (+2.21pct); men 62.88 women 57.47 base; tick421
+bud_inami_inv_sal_stock_2025,riziv,2025,537728,,,headcount,src_inami_invalidite_stats_2025,strong,Stock 537728 salaried+unemployed invalids 31 Dec 2025 (+4.50pct; +1.6pct ex pension age rise); tick421
+bud_inami_inv_sal_stock_2024,riziv,2024,514551,,,headcount,src_inami_invalidite_stats_2025,strong,Stock 514551 end-2024; tick421
+bud_inami_inv_sal_stock_2021,riziv,2021,455996,,,headcount,src_inami_invalidite_stats_2025,strong,Stock 455996 end-2021; +17.92pct to 2025; tick421
+bud_inami_inv_indep_stock_2025,riziv,2025,38915,,,headcount,src_inami_invalidite_stats_2025,strong,Indep+helping spouses stock 38915 end-2025 (+9.79pct); euro residual not in official PDF tables; tick421
+bud_inami_inv_indep_stock_2024,riziv,2024,35445,,,headcount,src_inami_invalidite_stats_2025,strong,Indep stock 35445 end-2024; tick421
+bud_inami_inv_total_stock_2025,riziv,2025,576643,,,headcount,src_inami_invalidite_stats_2025,strong,Total stock sal+indep 576643 end-2025; tick421
+bud_inami_inv_patho_mental_2025,riziv,2025,209245,,,headcount,src_inami_invalidite_stats_2025,strong,Mental/behavioural group5 stock 209245 of 537728 sal (38.9pct) 2025; tick421
+bud_inami_inv_patho_osteo_2025,riziv,2025,169238,,,headcount,src_inami_invalidite_stats_2025,strong,Osteo-articular group13 stock 169238 (31.5pct) 2025; tick421
+bud_inami_inv_patho_tumors_2025,riziv,2025,26591,,,headcount,src_inami_invalidite_stats_2025,strong,Tumors group2 stock 26591 2025; tick421
+bud_inami_inv_region_vl_2025,riziv,2025,267356,,,headcount,src_inami_invalidite_stats_2025,strong,Flanders region sal invalids 267356 end-2025; tick421
+bud_inami_inv_region_wal_2025,riziv,2025,205779,,,headcount,src_inami_invalidite_stats_2025,strong,Wallonia sal invalids 205779 end-2025; tick421
+bud_inami_inv_region_bru_2025,riziv,2025,50741,,,headcount,src_inami_invalidite_stats_2025,strong,Brussels sal invalids 50741 end-2025; tick421
+bud_inami_inv_abroad_2025,riziv,2025,13852,,,headcount,src_inami_invalidite_stats_2025,strong,Abroad sal invalids 13852 end-2025; tick421
