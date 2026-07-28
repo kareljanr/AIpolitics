@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **450** (2026-08-02) · **~1398** leaderboard rows  
+**As-of:** tick **460** (2026-08-02) · **~1489** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
 **Stock filter:** Hedera CAP (~15bn) / ETS blocked (€1.8bn) stay **off** pure annual top10 when annual=0.  
-**Stable vs tick 440:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. Ticks 441–449 filled **ODA/impact dual** and **lottery L5 redistribution** — transparency gains, not waste-first reordering of the taxex giants.
+**Stable vs tick 450:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. Ticks 451–459 filled **NL dual end-receivers** (culture triple, equality bodies, BOIC, Myria, RKV/Fedasil L5) — transparency gains, not waste-first reordering of the taxex giants.
 
 ### Just outside top 10 (often relevant)
 
@@ -37,10 +37,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 12 | `lb_specialty_defence_transfer_20bn` | **20.1 bn** | **8.0** | Specialty breach (control) |
 | 13 | `lb_vl_gsc_support` | **822.0 m** | 8.0 | Flanders GSC |
 | 14 | `lb_wage_subsidies_block` | **16.70 bn** | 7.98 | Wage subsidies block |
-| 15 | `lb_nloterij_society_362_5m` | **362.5 m** | **~5.7** | **NEW 448** society return (doelen+rent) — not pure waste |
-| 16 | `lb_nloterij_verdelingsplan_200m` | **200–217.5 m** | **~5.7** | **NEW 449** named L5 table |
-| 17 | `lb_kbf_budget_273m_2026` | **273 m** | **~5.7** | **NEW 447** foundation budget |
-| 18 | `lb_dgd_channel_*` / BIO portfolio | **0.2–1.2 bn** | mid | ODA dual stack 441–442 |
+| 15 | `lb_rkv_tco_313m` | **312.8 m** | **~6.2** | **NEW 458** RKV institutional (core humanitarian; dual Fedasil) |
+| 16 | `lb_monnaie_tco_65m` | **65.4 m** | **~5.6** | **NEW 455** federal opera full AR |
+| 17 | `lb_nloterij_society_362_5m` | **362.5 m** | **~5.7** | Society return (doelen+rent) — not pure waste |
+| 18 | `lb_nl_culture_protocol_7m` | **7.0 m** | mid | **NEW 456** culture triple lottery protocols |
 | 19 | `lb_fpd_legal_pensions_69bn_2025` | **69.05 bn** | **6.9** | Legal pensions (core entitlement) |
 | 20 | `lb_ss_total_146_8bn_2025` | **146.8 bn** | **6.5** | SS macro |
 
@@ -60,6 +60,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_nloterij_omzet_1_55bn` | **1.55–1.67 bn** stakes | Player money; society slice separate |
 | `lb_kbf_funds_managed_212m` | **212 m** | Philanthropy pass-through |
 | `lb_bio_dfi_portfolio` | **1.2 bn** | State DFI assets |
+| `lb_fed_culture_triple_70m` | **~68–70 m** dots | Culture triple dual communities |
 | `lb_alterfin_portfolio_122m` / Incofin / Kampani | **50–122 m** | Private MF co-op dual |
 
 ### High-absurdity honourable mentions (not top-10 cost)
@@ -68,6 +69,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |----|------|
 | `lb_specialty_defence_transfer_20bn` | Full eng redistribution without parliament |
 | `lb_nloterij_nationaal_prestige_10_7m` | Discretionary prestige pot opacity |
+| `lb_myria_political_2_42m_weak` | Political abolish claim vs official AB hygiene |
 | `lb_incofin_imf_taxbreak_capital_drain` | Tax-break abolition capital flight dual Alterfin |
 | `lb_prison_food_underfund_10m` | Structural under-budgeting to provisions |
 | `lb_vvpr_anticipation_spike` | 1.21bn front-load before 18% rate |

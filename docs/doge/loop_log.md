@@ -5400,3 +5400,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entity myria update; budgets +10; cmt +1; lb +10; foi gap_myria note; rq_450=done; spawn **rq_451**; ticks=459
 - FOI: gap_myria_other_income residual narrowed (NL channel inside/outside + cash + FTE) still ready human send
 - Next: prio5 **rq_451** then **progress@460**; deferred **rq_116** SWA
+
+### 2026-08-02T20:45:00Z - tick 460
+- Unit: **rq_451** (**progress milestone @460** - coverage % + waste top10 refresh; no new euro invent)
+- Found (inventory + synthesis ticks 451-459 dual NL end-receiver wave):
+  - **A L0:** **100%** TE €347.956bn
+  - **B L1:** **100%** unconsol map
+  - **C L2:** **~98-99%** (+ Monnaie TCO 65.4m · Bozar stack 18.6m · NOB 12.4m · RKV 313m)
+  - **D L5:** **~26-39%** generous (+ Antigif/Child Focus/Unia/culture protocol 7m/BOIC/Myria/RKV asylum 140m dual method)
+  - **E FOI ready:** **~217** (answered **~9**; total FOI rows **~227** + gap_boic)
+- Inventory: budgets ~8160 · cmt ~814 · lb ~1489 · entities ~371 · sources ~800
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; dual NL maps off pure waste top10
+- Dual/off-TE: culture triple · equality NL stack · RKV Fedasil L5 · lottery stakes 1.55-1.67bn
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_451=done; spawn **rq_452**; ticks=460
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_452** hole-fill; deferred **rq_116** SWA
