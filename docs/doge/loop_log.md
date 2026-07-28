@@ -6309,3 +6309,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +13; cmt +3; lb +7; FOI **gap_kenteken_concessie3_l5** ready+draft; raw PDFs; rq_516=done spawn **rq_517**; ticks=525
 - FOI opened: gap_kenteken_concessie3_l5 (ready, human send) — not sent
 - Next: prio5 **rq_517**; deferred **rq_116** SWA
+
+### 2026-07-29T05:20:00Z - tick 526
+- Unit: **rq_517** (FOI-adjacent hole-fill — **CoA 2025_03 procurement entity residual Ypto/TUC/Infrabel dual rail**)
+- Found (strong primary residual same CoA procurement summary Dec 2024):
+  - **Totals (prior):** 267 dossiers **€989.7m** excl VAT · invoices **€44.9m**
+  - **FOD Economie:** 40d **€27.3m** of ~50m (consultancy **€21.6m**)
+  - **Federal Police:** 35d **€45.7m** of **€225.8m** (IT supplies **31.7** · IT consult **9.7** · other **4.3**)
+  - **SCK CEN:** 40d **€108.9m** of **€175.2m** PO>20k 2022
+  - **FOD WASO:** 20d **€4.3m**
+  - **Beliris:** 35 forms **€87.5m** of **€101.3m** since 2020 (dual federal-BRU)
+  - **Infrabel:** 40 contracts **€550m** excl VAT (largest **214m** · cables **75.6m** · consultancy **≥10.5m**)
+  - **Ypto:** does **not correctly apply** procurement law; awards class **>€154m**; orders **~€35.7m** class
+  - **TUC Rail:** **>half** own-need purchases **without tender**; frameworks class **>€39m**
+  - **Dual:** rail IT/engineering stack compliance failures
+- Wrote: sources +2; budgets +16; cmt +2; lb +7; FOI **gap_rail_proc_ypto_tuc_l5** ready+draft; rq_517=done spawn **rq_518**; ticks=526
+- FOI opened: gap_rail_proc_ypto_tuc_l5 (ready, human send) — not sent
+- Next: prio5 **rq_518** (progress@530 soon); deferred **rq_116** SWA

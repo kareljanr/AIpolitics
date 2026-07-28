@@ -9089,3 +9089,19 @@ bud_kenteken_schrapping_50m,fod_mobiliteit,2020,50000000,,,estimate,src_ccrek_ke
 bud_fed_proc_sample_989_7m,sec_federal,2024,989700000,,,outturn,src_ccrek_overheidsopdrachten_samenvatting_2025,strong,CoA 267 procurement dossiers 989.7m ex VAT across 8 entities 2023-24 audits; tick525
 bud_fed_proc_invoices_44_9m,sec_federal,2024,44900000,,,outturn,src_ccrek_overheidsopdrachten_samenvatting_2025,strong,Invoice sample 44.9m ex VAT in same audits; tick525
 bud_dual_bpost_plates_justsign,gg_belgium,2019,240000000,,,derived,src_dual_bpost_kenteken_justsign_tick525,strong,Dual bpost plates concession 240m + JustSign path; tick525
+bud_proc_econ_sample_27_3m,fod_economie,2022,27300000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,FOD Economie CoA sample 40 dossiers 27.3m incl VAT of ~50m commits; consultancy 21.6m; tick526
+bud_proc_econ_consult_21_6m,fod_economie,2022,21600000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,FOD Economie sample consultancy 21.6m of 27.3m; tick526
+bud_proc_police_sample_45_7m,police_federale,2021,45700000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Federal Police sample 35 dossiers 45.7m of 225.8m commits; IT supplies 31.7m; tick526
+bud_proc_police_it_cons_9_7m,police_federale,2021,9700000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Federal Police sample IT consultancy 9.7m; dual I-Police residual; tick526
+bud_proc_sck_sample_108_9m,sck_cen,2022,108900000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,SCK CEN sample 40 dossiers 108.9m of 175.2m PO>20k 2022; tick526
+bud_proc_sck_pop_175_2m,sck_cen,2022,175200000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,SCK CEN 462 PO>20k total 175.2m excl VAT 2022; tick526
+bud_proc_waso_sample_4_3m,fod_waso,2022,4300000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,FOD WASO sample 20 dossiers 4.3m excl VAT; tick526
+bud_proc_beliris_sample_87_5m,beliris,2023,87500000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Beliris sample 35 order forms 87.5m of 101.3m since 2020; dual BRU federal; tick526
+bud_proc_beliris_pop_101_3m,beliris,2023,101300000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Beliris 358 order forms 101.3m incl VAT since 2020; tick526
+bud_proc_infrabel_sample_550m,infrabel,2023,550000000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Infrabel sample 40 contracts 550m excl VAT (largest 214m cables 75.6m); tick526
+bud_proc_infrabel_cables_75_6m,infrabel,2023,75600000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Infrabel cable supplies 11 contracts 75.6m excl VAT in sample; tick526
+bud_proc_infrabel_consult_10_5m,infrabel,2023,10500000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Infrabel consultancy at least 10.5m excl VAT in sample; tick526
+bud_proc_ypto_orders_35_7m,ypto,2023,35700000,,,outturn,src_ccrek_proc_entity_l5_2025,strong,Ypto IT service orders class 35.7m to Sep2023 + other residual; CoA law fail; tick526
+bud_proc_ypto_awards_154m_class,ypto,2023,154000000,,,outturn,src_ccrek_proc_entity_l5_2025,medium,Ypto awards class >154m excl VAT CoA sample path; dual NMBS; tick526
+bud_proc_tuc_frameworks_class,tuc_rail,2023,39000000,,,estimate,src_ccrek_proc_entity_l5_2025,medium,TUC Rail frameworks class >39m excl VAT; >half own needs no tender; tick526
+bud_dual_rail_proc_sample,gg_belgium,2023,550000000,,,derived,src_dual_rail_proc_ypto_tuc_tick526,strong,Dual rail Infrabel 550m sample + Ypto/TUC compliance fails; tick526
