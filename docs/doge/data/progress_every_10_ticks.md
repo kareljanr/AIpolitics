@@ -20,7 +20,43 @@
 
 ---
 
-## Snapshot at **tick 420** (2026-08-02)
+## Snapshot at **tick 430** (2026-08-02)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn; dual EDP/COM path) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
+| **C. L2 entity totals** | **~98–99%** (order of magnitude) | **+** SPF SS macro **€146.8bn** 2025 · DG HAN **€2.93bn** ARR/AI · FPD legal **€69.05bn** + menage **€5.92bn** · INAMI inv **~€10.64bn** 2025 · primaire **€2.86bn** 2023 · mat/pat **€0.87bn** · ESSPROS/COFOG/DBP path stable high |
+| **D. L5 named end-receivers** | **~23–36%** of TE (generous) | Modest gain: INAMI patho/region/avg-day · FPD taux menage + transition · DG HAN ARR/AI split stocks · mat/pat L5 · SECM control yield **€15.9m** · residual FOI still dominates ASBL/firm end-receivers |
+| **E. FOI-ready gaps** | **~215** drafts ready | Human send only; answered **~9**; total FOI rows **~226** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** / GG fossil-adjacent · company cars/cheque/EIWT · T10 labour package · ESSPROS social protection **€174–178bn** broader than TE pie.
+
+### Inventory (tick 430)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~6982 |
+| commitments.csv | ~775 |
+| leaderboard.csv | ~1229 |
+| entities.csv | ~358 |
+| sources.csv | ~749 |
+| FOI ready | ~215 |
+| FOI answered | ~9 |
+| FOI total rows | ~226 |
+| research_queue | ~417 (open: rq_116 deferred + rq_422 hole-fill after progress) |
+
+### What improved since tick 420
+
+- **INAMI invalidité (tick421–424):** sal cash **€9.97bn** 2025 · indep **€0.667bn** · dual total **~€10.64bn** · dep+burnout **€2.70bn** 2024 · patho mental/osteo dual.
+- **INAMI primaire (tick425–426):** sal **€2.65bn** + indep **€0.208bn** = **€2.86bn** 2023 · long pipeline 81k/6.8k · SECM grief **€15.87m**.
+- **INAMI mat/pat (tick427):** sal package **€800m** + indep **€68m** = **€868m** 2023.
+- **FPD L5 (tick428):** taux ménage **€5.92bn** · transition **€63m** · retraite **€60.5bn** / survie **€8.53bn** of **€69.05bn**.
+- **DG HAN + SS macro (tick429):** ARR/AI **€2.93bn** · SS exp **€146.8bn** gestion **€2.9bn**.
+
+---
+
+## Snapshot at **tick 420** (2026-08-02) — archived
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|

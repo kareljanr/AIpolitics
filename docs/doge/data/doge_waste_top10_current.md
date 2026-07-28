@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **420** (2026-08-02) · **~1181** leaderboard rows  
+**As-of:** tick **430** (2026-08-02) · **~1229** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -15,8 +15,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | # | ID | Name | Annual € (class) | Abs | Cost | Diff | **Priority** | Why it ranks |
 |---|-----|------|------------------:|----:|-----:|-----:|-------------:|--------------|
 | 1 | `lb_fed_fossil_direct_13_3bn` | Federal fossil direct subsidies 13.3bn 2022 bench1 | **13.27 bn** | 8 | 9.5 | 7 | **8.55** | 4e fossil inventory |
-| 2 | `lb_fed_fossil_accises_10_5bn` | Fossil accise rate gaps+exemptions 10.5bn 2022 | **10.54 bn** | 8 | 9.5 | 6 | **8.5** | fossil inventory |
-| 3 | `lb_company_cars_fpb` | Company cars TE package FPB ~4.7-5.2bn | **4.70 bn** | 8.5 | 9.5 | 7 | **8.5** | FPB package |
+| 2 | `lb_company_cars_fpb` | Company cars TE package FPB ~4.7-5.2bn | **4.70 bn** | 8.5 | 9.5 | 7 | **8.5** | FPB package |
+| 3 | `lb_fed_fossil_accises_10_5bn` | Fossil accise rate gaps+exemptions 10.5bn 2022 | **10.54 bn** | 8 | 9.5 | 6 | **8.5** | fossil inventory |
 | 4 | `lb_exc_heatoil` | Excise preference: heating gas oil (low sulfur) | **1.84 bn** | 8 | 9.5 | 6 | **8.43** | FFS multi-year |
 | 5 | `lb_cheque_economy` | Cheque economy meal vouchers (para)fiscal + restricted  | **1.07 bn** | 8.5 | 9.5 | 8 | **8.4** | CoA TE layer B; face=wages; pure waste admin+DWL only |
 | 6 | `lb_fed_fossil_company_cars_ehs_3_4bn` | Company cars EHS fossil inventory 3.43bn 2022 | **3.43 bn** | 8 | 9.0 | 7 | **8.35** | fossil inventory |
@@ -26,8 +26,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 10 | `lb_eiwt_night_shift_cluster` | EIWT night+shift+continuous+construction cluster | **2.04 bn** | 7 | 9.5 | 6 | **8.08** | ~2.04bn 2024 cluster |
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter:** Hedera CAP (~15bn) / ETS blocked (€1.8bn) stay **off** pure annual top10.  
-**Stable vs tick 410:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. Spending-review pipeline (DBP 2026) targets fossil TE + night/R&D withholding — same cluster.
+**Stock filter:** Hedera CAP (~15bn) / ETS blocked (€1.8bn) stay **off** pure annual top10 when annual=0.  
+**Stable vs tick 420:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. INAMI/FPD/DG HAN fills are **core entitlements** (not waste-first) — mapped for coverage not cut theatre.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,10 +39,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 14 | `lb_ffs_direct_total` | **10.78 bn** | 7.98 | FFS direct fossil total |
 | 15 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Gas product rate-diff |
 | 16 | `lb_t10_package_total_25_3bn` | **25.3 bn** | **7.55** | T10 employer+employee labour reductions 2026 |
-| 17 | `lb_t10_employer_package_23_5bn` | **23.5 bn** | **7.55** | employer-only package |
-| 18 | `lb_mlt_gg_interest_27_5bn` | **14.3→27.5 bn** | **7.55** | GG interest path midterm |
-| 19 | `lb_edp_bru_debt_16_3bn_250pct` | **16.3 bn** stock | **7.1** | **NEW tick419** BCR debt/revenue 250% |
-| 20 | `lb_edp_wal_debt_40_8bn_220pct` | **40.8 bn** stock | **7.0** | **NEW tick419** Wallonia debt/revenue 220% |
+| 17 | `lb_fpd_legal_pensions_69bn_2025` | **69.05 bn** | **6.9** | Legal pensions (core entitlement) |
+| 18 | `lb_ss_total_146_8bn_2025` | **146.8 bn** | **6.5** | **NEW tick429** SPF SS macro |
+| 19 | `lb_fpd_taux_menage_5_92bn_2025` | **5.92 bn** | **6.2** | **NEW tick428** household-rate dual |
+| 20 | `lb_dghan_arr_ai_2_93bn_2025` | **2.93 bn** | **5.8** | **NEW tick429** federal disability ARR/AI |
 
 ### Large stock / off-TE / dual-structure / entitlement map (not pure annual waste top 10)
 
@@ -51,16 +51,16 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock |
 | `lb_ets_blocked_1_8bn` | **1.8 bn** | ETS auction proceeds blocked SPF Santé |
 | `lb_lpm_invest_33_8bn_2026_34` | **33.8 bn** eng | Military programming 2026–34 |
-| `lb_edp_cr_debt_127_6bn` | **127.6 bn** | C&R debt stock 2025 (+51% 4y) tick419 |
+| `lb_edp_cr_debt_127_6bn` | **127.6 bn** | C&R debt stock 2025 (+51% 4y) |
 | `lb_edp_gg_debt_692_5bn_2025` | **692.5 bn** | GG Maastricht debt 107.9% GDP |
 | `lb_esspros_benefits_177_9bn_2024` | **177.9 bn** EE | ESSPROS social benefits early 2024 |
-| `lb_esspros_oldage_74_5bn_2024` | **74.5 bn** EE | Old-age benefits path |
-| `lb_esspros_disability_17_9bn_2024` | **17.9 bn** EE | Disability historic high (+8.6%) |
-| `lb_mlt_entity1_solde_25_46bn` | **25.3→45.9 bn** | Entity I deficit path midterm |
-| `lb_cev_social_27_2pct_path` | **25.7→27.2% GDP** | CEV ageing social exp |
-| `lb_safe_defence_loans_8_3bn` | **8.3 bn** | SAFE loan request (tick415) |
+| `lb_fpd_legal_pensions_69bn_2025` | **69.05 bn** | Legal pensions three regimes |
+| `lb_inami_inv_total_sal_indep_10_64bn_2025` | **~10.64 bn** | INAMI invalidity sal+indep 2025 |
+| `lb_inami_primaire_total_2_86bn_2023` | **2.86 bn** | Primary incapacity sal+indep 2023 |
+| `lb_dghan_arr_ai_2_93bn_2025` | **2.93 bn** | Federal disability ARR/AI |
+| `lb_ss_gestion_2_9bn_2025` | **2.9 bn** | SS management costs 2025 SPF |
+| `lb_safe_defence_loans_8_3bn` | **8.3 bn** | SAFE loan request |
 | `lb_nato_effort_13_1bn` | **13.1 bn** | NATO 2pct effort 2026 |
-| `lb_ipp_reform_5_6bn` | **5.6 bn** cum 2030 | IPP reform path |
 
 ## “Clown / high absurdity” shortlist (not pure size)
 

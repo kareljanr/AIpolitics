@@ -4988,3 +4988,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity dg_han; budgets +24; cmt +2; lb +5; raw SPF PDF; rq_420=done; spawn **rq_421**; ticks=429
 - FOI: none new (official ARR/AI cash split residual optional; component recon medium only)
 - Next: prio5 **rq_421**; deferred **rq_116** SWA
+
+### 2026-08-02T05:45:00Z - tick 430
+- Unit: **rq_421** (**progress milestone @430** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~98-99%** - SS macro 146.8 · DG HAN 2.93 · FPD 69.05+menage 5.92 · INAMI inv 10.64 · primaire 2.86 · mat/pat 0.87
+  - **D L5:** **~23-36%** generous (INAMI/FPD/DG HAN L5 fills; FOI ASBL/firm residual)
+  - **E FOI ready:** **~215** (answered **~9**; total FOI rows **~226**)
+- Inventory: budgets ~6982 · cmt ~775 · lb ~1229 · entities ~358 · sources ~749
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; new entitlement maps off pure top10
+- Dual/off-TE: SS 146.8bn; FPD menage 5.92bn; INAMI channels; ESSPROS 174-178bn social protection
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_421=done; spawn **rq_422**; ticks=430
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_422** hole-fill; deferred **rq_116** SWA
