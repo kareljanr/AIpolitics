@@ -8768,3 +8768,23 @@ bud_bbi_bank_collected_2015_24,sec_federal,2024,36000000,,,outturn,src_ccrek_bbi
 bud_bbi_bank_auth_2024,sec_federal,2024,700,,,outturn,src_ccrek_bbi_bankdata_2026,strong,AABBI bank investigation authorizations ~700 in 2024 (mostly 5th dir + Brussels); not EUR; tick506
 bud_bbi_collection_rate_class,sec_federal,2024,1.6,,,estimated,src_ccrek_bbi_bankdata_2026,strong,Collection rate class ~36/2300 = 1.6pct on bank-investigation dossiers 2015-24; tick506
 bud_dual_bbi_assessed_vs_kmo_uplift,sec_federal,2024,2300000000,,,derived,src_dual_bbi_kmo_fraud_tick506,strong,Dual BBI assessed 2.3bn cum vs KMO VenB uplift 5.6bn 2024 different scopes; tick506
+bud_justice_section_aju_2026,sec_federal,2026,2925000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,FOD Justice section 2925m VAK/VEK aju2026 (+81m vs IB); tick507
+bud_prison_overcrowd_infra_prov_259m,sec_federal,2026,259000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,ID provision prison overcrowding infra/ops 259m (settle 159m 2026 +100m 2027) for 1300 places by 2029; tick507
+bud_prison_overcrowd_short_50m,sec_federal,2026,50000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,ID provision short-term prison overcrowding 50m/yr; tick507
+bud_justice_efficiency_prov_44m,sec_federal,2026,44000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,ID provision Justice efficiency 44m (palaces 21.5 staff PI 15.1 detainee plan 2.3); tick507
+bud_security_return_prov_546m,sec_federal,2026,546000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,ID provision security services+return policy 546m settle (+179 unused 2025); Justice/Interior/Police; tick507
+bud_masterplan_iiibis_80m,sec_federal,2026,80000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,MasterPlan IIIbis prison overcrowding total 80m ex inflation MR 25 Feb 2026; tick507
+bud_fedasil_dot_bc_2026,fedasil,2026,743900000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Fedasil dotation BC2026 743.9m (+41.7 vs IB 702.2) unavoidable reception; tick507
+bud_fedasil_id_prov_bc_2026,fedasil,2026,104300000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Fedasil ID provision BC2026 104.3m (+4.3 index staff partners); tick507
+bud_fedasil_total_bc_2026,fedasil,2026,848200000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Fedasil total dot+ID prov BC2026 848.2m; tick507
+bud_fedasil_save_target_2026,fedasil,2026,172000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Asylum reception savings target 172m 2026 (path 303/452/538 2027-29); tick507
+bud_fedasil_save_plan_2026,fedasil,2026,110800000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Fedasil proposed savings 110.8m 2026 (gap -61.2 vs target); cap 36.4+35.3 + extra 39.1; tick507
+bud_fedasil_cap_places_start_2026,fedasil,2026,34564,,,outturn,src_ccrek_fed_aju_justice_fedasil_2026,strong,Reception capacity start 2026 34564 places (IB assumed 36478); not EUR; tick507
+bud_fedasil_cap_target_2026,fedasil,2026,30000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Capacity target ~30000 places end path 2026 save 35.3m; tick507
+bud_fedasil_return_save_75m,fedasil,2026,75000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,medium,Efficient return savings claim 75m 2026 removed from Fedasil dot calc; hard to track CoA; tick507
+bud_podmi_medical_bc_2026,sec_federal,2026,100300000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,POD MI medical help BC 100.3m (was 112.3 IB); -12m volume claim; tick507
+bud_defence_nato_effort_bc_2026,sec_federal,2026,13296000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,NATO 2pct effort target BC 13296m (GDP 664.778bn); tick507
+bud_defence_budget_bc_2026,sec_federal,2026,10958000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Defence section 16 budget BC 10958m (+188 vs IB); tick507
+bud_defence_internal_sec_177m,sec_federal,2026,177000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,Internal security from defence 5pct path 177m settle 2026 (+NATO trust 45m =222 class); opacity CoA; tick507
+bud_nato_trust_fund_45m,sec_federal,2026,45000000,,,budgeted,src_ccrek_fed_aju_justice_fedasil_2026,strong,NATO trust fund 45m in section 14 Foreign Affairs not section 16; tick507
+bud_dual_prison_fedasil_2026,gg_belgium,2026,1132200000,,,derived,src_dual_justice_fedasil_defence_tick507,strong,Dual prison provis+MP IIIbis class + Fedasil 848m not additive pure TE; tick507

@@ -6049,3 +6049,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +5; cmt +2; lb +5; entity aabbi; FOI **gap_bbi_bank_collection_l5** ready+draft; raw PDFs; rq_497=done spawn **rq_498**; ticks=506
 - FOI opened: gap_bbi_bank_collection_l5 (ready, human send) — not sent
 - Next: prio5 **rq_498**; deferred **rq_116** SWA
+
+### 2026-07-28T23:10:00Z - tick 507
+- Unit: **rq_498** (FOI-adjacent hole-fill — **CoA 2026_22 residual Justice/Fedasil/Defence L5 dual**)
+- Found (strong primary same CoA fed aju, deeper L5 extract):
+  - **Justice** section **€2,925m** aju (+81m); prison overcrowding infra **€259m** (159+100) for **1,300** places by 2029; short **€50m**/yr; efficiency **€44m**; security+return ID **€546m**
+  - **MasterPlan IIIbis** **€80m** ex inflation (Antwerp open Sep2026, St-Gilles, Hoogstraten, Bergen psych, Verviers)
+  - **Fedasil** total **€848.2m** BC (dot 743.9 + ID 104.3); asylum save target **−172m** vs plan **−110.8m** (gap **61.2**); cap 34,564→~30,000; path targets 172/303/452/538
+  - Return save **€75m** hard to track; POD MI medical **100.3m** (−12 vs IB)
+  - **NATO** effort target **€13,296m** (2% GDP 664.8bn); defence budget **10,958**; internal security **€177m** (+trust 45→222 class) classification opacity
+  - **Dual:** prison capacity + Fedasil cap cut + defence internal security stack
+- Wrote: sources +2; budgets +20; cmt +4; lb +7; FOI **gap_fedasil_save_measures_l5** ready+draft; rq_498=done spawn **rq_499**; ticks=507
+- FOI opened: gap_fedasil_save_measures_l5 (ready, human send) — not sent
+- Next: prio5 **rq_499** (progress@510 soon); deferred **rq_116** SWA
