@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T01:15:00Z,rq_412,421,no,Scheduler 60s. Next prio5 rq_413; rq_116 SWA deferred. tick421 INAMI invalidite 9.97bn.
+main,continuous,hole_fill,2026-08-02T01:45:00Z,rq_413,422,no,Scheduler 60s. Next prio5 rq_414; rq_116 SWA deferred. tick422 INAMI dep+burn 2.70bn; FOI indep cash answered.

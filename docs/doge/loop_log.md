@@ -4879,3 +4879,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +23; cmt +3; lb +8; FOI **gap_inami_invalidite_indep_cash** ready; raw 3 PDFs; rq_412=done; spawn **rq_413**; ticks=421
 - FOI: independent cash series parallel salaried tables — human send only
 - Next: prio5 **rq_413**; deferred **rq_116** SWA
+
+### 2026-08-02T01:45:00Z - tick 422
+- Unit: **rq_413** (FOI-adjacent hole-fill - **INAMI depression/burnout invalidity 2019-2024**)
+- Found (strong primary INAMI 19 May 2026 PDFs costs+counts):
+  - **Dep+burnout cost:** **€1.518 → €2.698bn** 2019-24 (+11.8% YoY; **+77.8%** since 2019); dep **€1.790bn** + burn **€0.908bn**
+  - **Mental group:** **€3.886bn** (38.3% of all inv cost); stock **210.060**
+  - **Total inv all causes sal+indep:** **€10.156bn** 2024 (dual tick421 sal ~9.4bn + indep)
+  - **Indep total cash:** **€386 → €613m** 2019-24 (+59%) — **fills FOI gap_inami_invalidite_indep_cash** (total cash path; jours residual optional)
+  - Stock dep+burn **147.684** eoy 2024 (+43% since 2019); women ~69%; under-30s fastest growth
+  - Burnout cost **+117%** since 2019 (fastest sub-pathology)
+- Wrote: sources +1; budgets +52; cmt +2; lb +8; FOI **gap_inami_invalidite_indep_cash** answered; raw 2 PDFs; rq_413=done; spawn **rq_414**; ticks=422
+- FOI: answered partial (total indep cash public); jours+avg day residual optional human FOI if needed
+- Next: prio5 **rq_414**; deferred **rq_116** SWA

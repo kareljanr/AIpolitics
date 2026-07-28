@@ -6699,3 +6699,55 @@ bud_inami_inv_region_vl_2025,riziv,2025,267356,,,headcount,src_inami_invalidite_
 bud_inami_inv_region_wal_2025,riziv,2025,205779,,,headcount,src_inami_invalidite_stats_2025,strong,Wallonia sal invalids 205779 end-2025; tick421
 bud_inami_inv_region_bru_2025,riziv,2025,50741,,,headcount,src_inami_invalidite_stats_2025,strong,Brussels sal invalids 50741 end-2025; tick421
 bud_inami_inv_abroad_2025,riziv,2025,13852,,,headcount,src_inami_invalidite_stats_2025,strong,Abroad sal invalids 13852 end-2025; tick421
+bud_inami_inv_depburn_cost_2019,riziv,2019,1517530603,,,outturn,src_inami_burnout_depression_2024,strong,Invalidity cost depression+burnout total sal+indep 1517.5m 2019; tick422
+bud_inami_inv_depression_cost_2019,riziv,2019,1099358472,,,outturn,src_inami_burnout_depression_2024,strong,Depression invalidity cost 1099.4m 2019; tick422
+bud_inami_inv_burnout_cost_2019,riziv,2019,418172130,,,outturn,src_inami_burnout_depression_2024,strong,Burnout invalidity cost 418.2m 2019; tick422
+bud_inami_inv_mental_cost_2019,riziv,2019,2387999032,,,outturn,src_inami_burnout_depression_2024,strong,Mental group invalidity cost 2388.0m 2019; tick422
+bud_inami_inv_all_cost_dual_2019,riziv,2019,6594825490,,,outturn,src_inami_burnout_depression_2024,strong,Total invalidity cost all causes sal+indep 6594.8m 2019 dual tick421 sal-only series; tick422
+bud_inami_inv_depburn_cost_2020,riziv,2020,1678134775,,,outturn,src_inami_burnout_depression_2024,strong,Invalidity cost depression+burnout total sal+indep 1678.1m 2020; tick422
+bud_inami_inv_depression_cost_2020,riziv,2020,1199841567,,,outturn,src_inami_burnout_depression_2024,strong,Depression invalidity cost 1199.8m 2020; tick422
+bud_inami_inv_burnout_cost_2020,riziv,2020,478293208,,,outturn,src_inami_burnout_depression_2024,strong,Burnout invalidity cost 478.3m 2020; tick422
+bud_inami_inv_mental_cost_2020,riziv,2020,2595687464,,,outturn,src_inami_burnout_depression_2024,strong,Mental group invalidity cost 2595.7m 2020; tick422
+bud_inami_inv_all_cost_dual_2020,riziv,2020,7122508571,,,outturn,src_inami_burnout_depression_2024,strong,Total invalidity cost all causes sal+indep 7122.5m 2020 dual tick421 sal-only series; tick422
+bud_inami_inv_depburn_cost_2021,riziv,2021,1818534603,,,outturn,src_inami_burnout_depression_2024,strong,Invalidity cost depression+burnout total sal+indep 1818.5m 2021; tick422
+bud_inami_inv_depression_cost_2021,riziv,2021,1291242228,,,outturn,src_inami_burnout_depression_2024,strong,Depression invalidity cost 1291.2m 2021; tick422
+bud_inami_inv_burnout_cost_2021,riziv,2021,527292375,,,outturn,src_inami_burnout_depression_2024,strong,Burnout invalidity cost 527.3m 2021; tick422
+bud_inami_inv_mental_cost_2021,riziv,2021,2767604100,,,outturn,src_inami_burnout_depression_2024,strong,Mental group invalidity cost 2767.6m 2021; tick422
+bud_inami_inv_all_cost_dual_2021,riziv,2021,7527148778,,,outturn,src_inami_burnout_depression_2024,strong,Total invalidity cost all causes sal+indep 7527.1m 2021 dual tick421 sal-only series; tick422
+bud_inami_inv_depburn_cost_2022,riziv,2022,2090570666,,,outturn,src_inami_burnout_depression_2024,strong,Invalidity cost depression+burnout total sal+indep 2090.6m 2022; tick422
+bud_inami_inv_depression_cost_2022,riziv,2022,1474141268,,,outturn,src_inami_burnout_depression_2024,strong,Depression invalidity cost 1474.1m 2022; tick422
+bud_inami_inv_burnout_cost_2022,riziv,2022,616429398,,,outturn,src_inami_burnout_depression_2024,strong,Burnout invalidity cost 616.4m 2022; tick422
+bud_inami_inv_mental_cost_2022,riziv,2022,3127414344,,,outturn,src_inami_burnout_depression_2024,strong,Mental group invalidity cost 3127.4m 2022; tick422
+bud_inami_inv_all_cost_dual_2022,riziv,2022,8403860547,,,outturn,src_inami_burnout_depression_2024,strong,Total invalidity cost all causes sal+indep 8403.9m 2022 dual tick421 sal-only series; tick422
+bud_inami_inv_depburn_cost_2023,riziv,2023,2412862621,,,outturn,src_inami_burnout_depression_2024,strong,Invalidity cost depression+burnout total sal+indep 2412.9m 2023; tick422
+bud_inami_inv_depression_cost_2023,riziv,2023,1659410240,,,outturn,src_inami_burnout_depression_2024,strong,Depression invalidity cost 1659.4m 2023; tick422
+bud_inami_inv_burnout_cost_2023,riziv,2023,753452380,,,outturn,src_inami_burnout_depression_2024,strong,Burnout invalidity cost 753.5m 2023; tick422
+bud_inami_inv_mental_cost_2023,riziv,2023,3529251320,,,outturn,src_inami_burnout_depression_2024,strong,Mental group invalidity cost 3529.3m 2023; tick422
+bud_inami_inv_all_cost_dual_2023,riziv,2023,9285162596,,,outturn,src_inami_burnout_depression_2024,strong,Total invalidity cost all causes sal+indep 9285.2m 2023 dual tick421 sal-only series; tick422
+bud_inami_inv_depburn_cost_2024,riziv,2024,2698244760,,,outturn,src_inami_burnout_depression_2024,strong,Invalidity cost depression+burnout total sal+indep 2698.2m 2024; tick422
+bud_inami_inv_depression_cost_2024,riziv,2024,1789779882,,,outturn,src_inami_burnout_depression_2024,strong,Depression invalidity cost 1789.8m 2024; tick422
+bud_inami_inv_burnout_cost_2024,riziv,2024,908464877,,,outturn,src_inami_burnout_depression_2024,strong,Burnout invalidity cost 908.5m 2024; tick422
+bud_inami_inv_mental_cost_2024,riziv,2024,3885681253,,,outturn,src_inami_burnout_depression_2024,strong,Mental group invalidity cost 3885.7m 2024; tick422
+bud_inami_inv_all_cost_dual_2024,riziv,2024,10155738259,,,outturn,src_inami_burnout_depression_2024,strong,Total invalidity cost all causes sal+indep 10155.7m 2024 dual tick421 sal-only series; tick422
+bud_inami_inv_indep_cost_2019,riziv,2019,386002134,,,outturn,src_inami_burnout_depression_2024,strong,Independent invalidity total cash 386.0m 2019 fills gap_inami_invalidite_indep_cash partial; tick422
+bud_inami_inv_indep_cost_2020,riziv,2020,418002153,,,outturn,src_inami_burnout_depression_2024,strong,Independent invalidity total cash 418.0m 2020 fills gap_inami_invalidite_indep_cash partial; tick422
+bud_inami_inv_indep_cost_2021,riziv,2021,439889562,,,outturn,src_inami_burnout_depression_2024,strong,Independent invalidity total cash 439.9m 2021 fills gap_inami_invalidite_indep_cash partial; tick422
+bud_inami_inv_indep_cost_2022,riziv,2022,484088655,,,outturn,src_inami_burnout_depression_2024,strong,Independent invalidity total cash 484.1m 2022 fills gap_inami_invalidite_indep_cash partial; tick422
+bud_inami_inv_indep_cost_2023,riziv,2023,545651240,,,outturn,src_inami_burnout_depression_2024,strong,Independent invalidity total cash 545.7m 2023 fills gap_inami_invalidite_indep_cash partial; tick422
+bud_inami_inv_indep_cost_2024,riziv,2024,613356644,,,outturn,src_inami_burnout_depression_2024,strong,Independent invalidity total cash 613.4m 2024 fills gap_inami_invalidite_indep_cash partial; tick422
+bud_inami_inv_indep_depburn_2019,riziv,2019,62674074,,,outturn,src_inami_burnout_depression_2024,strong,Indep depression+burnout cost 62.7m 2019; tick422
+bud_inami_inv_indep_depburn_2020,riziv,2020,71316358,,,outturn,src_inami_burnout_depression_2024,strong,Indep depression+burnout cost 71.3m 2020; tick422
+bud_inami_inv_indep_depburn_2021,riziv,2021,78611911,,,outturn,src_inami_burnout_depression_2024,strong,Indep depression+burnout cost 78.6m 2021; tick422
+bud_inami_inv_indep_depburn_2022,riziv,2022,89641584,,,outturn,src_inami_burnout_depression_2024,strong,Indep depression+burnout cost 89.6m 2022; tick422
+bud_inami_inv_indep_depburn_2023,riziv,2023,109945229,,,outturn,src_inami_burnout_depression_2024,strong,Indep depression+burnout cost 109.9m 2023; tick422
+bud_inami_inv_indep_depburn_2024,riziv,2024,129910103,,,outturn,src_inami_burnout_depression_2024,strong,Indep depression+burnout cost 129.9m 2024; tick422
+bud_inami_inv_depburn_stock_2019,riziv,2019,103073,,,headcount,src_inami_burnout_depression_2024,strong,Stock depression+burnout 103073 eoy 2019; tick422
+bud_inami_inv_depburn_stock_2020,riziv,2020,111732,,,headcount,src_inami_burnout_depression_2024,strong,Stock depression+burnout 111732 eoy 2020; tick422
+bud_inami_inv_depburn_stock_2021,riziv,2021,117452,,,headcount,src_inami_burnout_depression_2024,strong,Stock depression+burnout 117452 eoy 2021; tick422
+bud_inami_inv_depburn_stock_2022,riziv,2022,125673,,,headcount,src_inami_burnout_depression_2024,strong,Stock depression+burnout 125673 eoy 2022; tick422
+bud_inami_inv_depburn_stock_2023,riziv,2023,137454,,,headcount,src_inami_burnout_depression_2024,strong,Stock depression+burnout 137454 eoy 2023; tick422
+bud_inami_inv_depburn_stock_2024,riziv,2024,147684,,,headcount,src_inami_burnout_depression_2024,strong,Stock depression+burnout 147684 eoy 2024; tick422
+bud_inami_inv_burnout_stock_2024,riziv,2024,52529,,,headcount,src_inami_burnout_depression_2024,strong,Burnout stock 52529 eoy 2024; tick422
+bud_inami_inv_depression_stock_2024,riziv,2024,95155,,,headcount,src_inami_burnout_depression_2024,strong,Depression stock 95155 eoy 2024; tick422
+bud_inami_inv_mental_stock_2024,riziv,2024,210060,,,headcount,src_inami_burnout_depression_2024,strong,Mental group stock 210060 eoy 2024 (38.2pct of total); tick422
+bud_inami_inv_all_stock_dual_2024,riziv,2024,549996,,,headcount,src_inami_burnout_depression_2024,strong,Total inv stock sal+indep 549996 eoy 2024; tick422
