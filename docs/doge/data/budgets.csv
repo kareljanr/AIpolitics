@@ -6751,3 +6751,44 @@ bud_inami_inv_burnout_stock_2024,riziv,2024,52529,,,headcount,src_inami_burnout_
 bud_inami_inv_depression_stock_2024,riziv,2024,95155,,,headcount,src_inami_burnout_depression_2024,strong,Depression stock 95155 eoy 2024; tick422
 bud_inami_inv_mental_stock_2024,riziv,2024,210060,,,headcount,src_inami_burnout_depression_2024,strong,Mental group stock 210060 eoy 2024 (38.2pct of total); tick422
 bud_inami_inv_all_stock_dual_2024,riziv,2024,549996,,,headcount,src_inami_burnout_depression_2024,strong,Total inv stock sal+indep 549996 eoy 2024; tick422
+bud_inami_inv_indep_cash_full_2020,riziv,2020,407575107,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv cash total general 407.6m 2020 base+prime; FOI full fill; tick423
+bud_inami_inv_indep_base_2020,riziv,2020,400365211,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv base indemnites 400.4m 2020; tick423
+bud_inami_inv_indep_prime_2020,riziv,2020,7209895,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv prime rattrapage 7.2m 2020; tick423
+bud_inami_inv_indep_days_2020,riziv,2020,8626705,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv days 8626705 2020; tick423
+bud_inami_inv_indep_avg_day_2020,riziv,2020,4641,,,unit_cost_cents,src_inami_invalidite_indep_2024,strong,Indep avg day EUR 46.41 stored cents 4641 2020; tick423
+bud_inami_inv_indep_stock_eoy_2020,riziv,2020,28913,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv stock eoy 28913 2020; tick423
+bud_inami_inv_indep_cash_full_2021,riziv,2021,428382814,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv cash total general 428.4m 2021 base+prime; FOI full fill; tick423
+bud_inami_inv_indep_base_2021,riziv,2021,420734506,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv base indemnites 420.7m 2021; tick423
+bud_inami_inv_indep_prime_2021,riziv,2021,7648308,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv prime rattrapage 7.6m 2021; tick423
+bud_inami_inv_indep_days_2021,riziv,2021,8927787,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv days 8927787 2021; tick423
+bud_inami_inv_indep_avg_day_2021,riziv,2021,4713,,,unit_cost_cents,src_inami_invalidite_indep_2024,strong,Indep avg day EUR 47.13 stored cents 4713 2021; tick423
+bud_inami_inv_indep_stock_eoy_2021,riziv,2021,29439,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv stock eoy 29439 2021; tick423
+bud_inami_inv_indep_cash_full_2022,riziv,2022,472828848,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv cash total general 472.8m 2022 base+prime; FOI full fill; tick423
+bud_inami_inv_indep_base_2022,riziv,2022,464475582,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv base indemnites 464.5m 2022; tick423
+bud_inami_inv_indep_prime_2022,riziv,2022,8353267,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv prime rattrapage 8.4m 2022; tick423
+bud_inami_inv_indep_days_2022,riziv,2022,9091346,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv days 9091346 2022; tick423
+bud_inami_inv_indep_avg_day_2022,riziv,2022,5109,,,unit_cost_cents,src_inami_invalidite_indep_2024,strong,Indep avg day EUR 51.09 stored cents 5109 2022; tick423
+bud_inami_inv_indep_stock_eoy_2022,riziv,2022,30444,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv stock eoy 30444 2022; tick423
+bud_inami_inv_indep_cash_full_2023,riziv,2023,534232988,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv cash total general 534.2m 2023 base+prime; FOI full fill; tick423
+bud_inami_inv_indep_base_2023,riziv,2023,525041391,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv base indemnites 525.0m 2023; tick423
+bud_inami_inv_indep_prime_2023,riziv,2023,9191596,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv prime rattrapage 9.2m 2023; tick423
+bud_inami_inv_indep_days_2023,riziv,2023,9576648,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv days 9576648 2023; tick423
+bud_inami_inv_indep_avg_day_2023,riziv,2023,5483,,,unit_cost_cents,src_inami_invalidite_indep_2024,strong,Indep avg day EUR 54.83 stored cents 5483 2023; tick423
+bud_inami_inv_indep_stock_eoy_2023,riziv,2023,32826,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv stock eoy 32826 2023; tick423
+bud_inami_inv_indep_cash_full_2024,riziv,2024,601258346,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv cash total general 601.3m 2024 base+prime; FOI full fill; tick423
+bud_inami_inv_indep_base_2024,riziv,2024,590979881,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv base indemnites 591.0m 2024; tick423
+bud_inami_inv_indep_prime_2024,riziv,2024,10278465,,,outturn,src_inami_invalidite_indep_2024,strong,Indep inv prime rattrapage 10.3m 2024; tick423
+bud_inami_inv_indep_days_2024,riziv,2024,10392271,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv days 10392271 2024; tick423
+bud_inami_inv_indep_avg_day_2024,riziv,2024,5687,,,unit_cost_cents,src_inami_invalidite_indep_2024,strong,Indep avg day EUR 56.87 stored cents 5687 2024; tick423
+bud_inami_inv_indep_stock_eoy_2024,riziv,2024,35445,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv stock eoy 35445 2024; tick423
+bud_inami_inv_indep_patho_tumors_2024,riziv,2024,3097,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho tumors stock 3097 eoy 2024; tick423
+bud_inami_inv_indep_patho_mental_2024,riziv,2024,10223,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho mental stock 10223 eoy 2024; tick423
+bud_inami_inv_indep_patho_nervous_2024,riziv,2024,2494,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho nervous stock 2494 eoy 2024; tick423
+bud_inami_inv_indep_patho_circulatory_2024,riziv,2024,2581,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho circulatory stock 2581 eoy 2024; tick423
+bud_inami_inv_indep_patho_osteo_2024,riziv,2024,10099,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho osteo stock 10099 eoy 2024; tick423
+bud_inami_inv_indep_patho_trauma_2024,riziv,2024,3157,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho trauma stock 3157 eoy 2024; tick423
+bud_inami_inv_indep_patho_other_2024,riziv,2024,3794,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv patho other stock 3794 eoy 2024; tick423
+bud_inami_inv_indep_reg_vl_2024,riziv,2024,19563,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region vl stock 19563 eoy 2024; tick423
+bud_inami_inv_indep_reg_wal_2024,riziv,2024,11529,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region wal stock 11529 eoy 2024; tick423
+bud_inami_inv_indep_reg_bru_2024,riziv,2024,3532,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region bru stock 3532 eoy 2024; tick423
+bud_inami_inv_indep_reg_abroad_2024,riziv,2024,821,,,headcount,src_inami_invalidite_indep_2024,strong,Indep inv region abroad stock 821 eoy 2024; tick423

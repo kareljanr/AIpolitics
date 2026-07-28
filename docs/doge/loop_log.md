@@ -4892,3 +4892,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +52; cmt +2; lb +8; FOI **gap_inami_invalidite_indep_cash** answered; raw 2 PDFs; rq_413=done; spawn **rq_414**; ticks=422
 - FOI: answered partial (total indep cash public); jours+avg day residual optional human FOI if needed
 - Next: prio5 **rq_414**; deferred **rq_116** SWA
+
+### 2026-08-02T02:15:00Z - tick 423
+- Unit: **rq_414** (FOI-adjacent hole-fill - **INAMI independent invalidity full series 2020-2024**)
+- Found (strong primary INAMI 12 May 2026 PDFs cas+jours):
+  - **Cash total general:** **€407.6 → €601.3m** 2020-24 (+12.55% YoY 2024; **+47.5%** since 2020)
+  - Base indemnities **€591.0m** + prime rattrapage **€10.3m** 2024
+  - **Days:** **8.63 → 10.39m** · **avg day €46.41 → €56.87** (+3.72% YoY)
+  - Stock eoy **28.913 → 35.445** (+8.0% YoY; women +31% since 2020)
+  - Patho 2024: mental **10.223 (28.8%)** · osteo **10.099 (28.5%)** · tumors 3.097 · trauma 3.157
+  - Regions: VL **19.563** · WAL **11.529** · BRU **3.532** · abroad 821
+  - Dual tick422 dep/burnout aggregate indep **€613m** vs this official **€601m** (~€12m method delta; prefer Tableaux-style series)
+- Wrote: sources +1; budgets +41; cmt +2; lb +3; FOI **gap_inami_invalidite_indep_cash** fully **answered**; raw 2 PDFs; rq_414=done; spawn **rq_415**; ticks=423
+- FOI: closed (jours+montants+avg day public parallel salaried)
+- Next: prio5 **rq_415**; deferred **rq_116** SWA
