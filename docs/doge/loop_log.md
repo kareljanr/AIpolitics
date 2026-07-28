@@ -5993,3 +5993,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +23; cmt +4; lb +7; FOI **gap_tv_oosterweel_finance_l5** ready+draft; raw PDF; rq_493=done spawn **rq_494**; ticks=502
 - FOI opened: gap_tv_oosterweel_finance_l5 (ready, human send) — not sent
 - Next: prio5 **rq_494**; deferred **rq_116** SWA
+
+### 2026-07-28T21:50:00Z - tick 503
+- Unit: **rq_494** (FOI-adjacent hole-fill — **CoA 2026_22 federal budget aju 2026 Entity I + dual E2**)
+- Found (strong primary Rekenhof AG 21 May 2026):
+  - **Entity I deficit €24.5bn** aju (init €24.6bn); MR 3 Apr **+€615m** (tech 517 + policy 98)
+  - Primary **€12.2→18.7bn** 2026-29; interest **€12.3→17.5bn**; VAT takeaway cancel **€475m**
+  - Defence 2025-29 **€17.336bn** (+552.8 NATO 2%); higher def **€4.804bn** / asset optim **€3.17bn** not booked 2026 conclaves; Belfius 20% **€2bn** ~2027
+  - Russian assets CIT path **€6.154bn** 2025-29; Euroclear exceptional **>€1bn**/yr assumption to 2031
+  - Fiscal fraud claim **€300/600m** method opaque; SIOD social fraud **€414.6m** 2025
+  - Centenindex E1 **€24→363m**; energy policy **~€2.6bn** (DG 1.2 + funds 1.4 CREG/Elia/NIRAS/Hedera)
+  - Regions EU MFK **€500m**/yr from 2028 no deal; personnel-save drag FOD Fin **€433m** by 2029
+  - **Dual:** E1 24.5bn vs VL RR −4.0 / WAL −2.02 / FWB −1.75 / DG −0.11
+- Wrote: sources +2; budgets +24; cmt +4; lb +7; FOI **gap_fed_energy_funds_l5** ready+draft; raw PDF; rq_494=done spawn **rq_495**; ticks=503
+- FOI opened: gap_fed_energy_funds_l5 (ready, human send) — not sent
+- Next: prio5 **rq_495**; deferred **rq_116** SWA

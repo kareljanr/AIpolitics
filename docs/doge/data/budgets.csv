@@ -8723,3 +8723,27 @@ bud_oosterweel_risk_budget_2024,lantis,2024,607000000,,,budgeted,src_ccrek_toeko
 bud_oosterweel_inflation_2019_23,lantis,2023,1500000000,,,estimated,src_ccrek_toekomstverbond_6_2026,strong,Inflation impact on Oosterweel 1.5bn 2019-2023 CoA; tick502
 bud_vl_debt_mjr_2030_tv,vlaanderen_gov,2030,74600000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,VL consol gross debt path 41.7bn 2024 to 74.6bn 2030 MJR (+80pct) CoA TV ch2; tick502
 bud_dual_tv_dwv_mobility,gg_belgium,2026,10055000000,,,derived,src_dual_tv_dwv_mobility_tick502,strong,Dual Oosterweel exec 10.055bn class vs DWV studies 0.125bn; not additive TE; tick502
+bud_entity1_def_2026_coa_aju,sec_federal,2026,-24500000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Entity I financing deficit 24.5bn after measures CoA aju2026 (init 24.6); tick503
+bud_entity1_mr_improve_615m,sec_federal,2026,615000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,MR 3 Apr 2026 improves saldo 615m (tech 517 + policy 98); tick503
+bud_entity1_vat_takeaway_cancel_475m,sec_federal,2026,-475000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Cancel VAT rate changes takeaway/drinks/sport venues 475m revenue loss class; tick503
+bud_entity1_primary_def_2026_coa,sec_federal,2026,-12200000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Primary deficit 12.2bn 2026 path to 18.7bn 2029 CoA; tick503
+bud_entity1_primary_def_2029_coa,sec_federal,2029,-18700000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Primary deficit 18.7bn 2029 CoA multiyear; tick503
+bud_entity1_interest_2026_coa,sec_federal,2026,12300000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Interest charges 12.3bn 2026 path 17.5bn 2029 CoA; tick503
+bud_entity1_interest_2029_coa,sec_federal,2029,17500000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Interest 17.5bn 2029 CoA (+5.2bn vs 2026); tick503
+bud_defence_nato2pct_2025_29,sec_federal,2029,17335800000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Defence outlays 2025-29 total 17335.8m (+552.8 for NATO 2pct GDP path); tick503
+bud_defence_higher_def_4_8bn,sec_federal,2029,4804000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Higher deficit for defence 4804m of which asset optim 3170m (conclaves did not book 2026 share); tick503
+bud_belfius_sale_20pct_2bn,sec_federal,2027,2000000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Belfius 20pct stake sale est 2bn likely 2027 after ECB/NBB/FSMA; tick503
+bud_russian_assets_cit_2025_29,sec_federal,2029,6154000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,CIT on frozen Russian assets 6154m path 2025-29 (init; 2025 -60m); temporary defence finance; tick503
+bud_fraud_fiscal_yield_2026,sec_federal,2026,300000000,,,budgeted,src_ccrek_fed_budget_aju_2026,medium,Fiscal fraud measures yield claim 300m 2026 / 600m 2029; CoA no method detail from FPS Finance; tick503
+bud_fraud_fiscal_yield_2029,sec_federal,2029,600000000,,,budgeted,src_ccrek_fed_budget_aju_2026,medium,Fiscal fraud structural yield claim 600m 2029 CoA opaque method; tick503
+bud_siod_social_fraud_2025,sec_ss,2025,414600000,,,outturn,src_ccrek_fed_budget_aju_2026,strong,SIOD social fraud recovery 414.6m 2025 (-20.3m vs 2024); tick503
+bud_centenindex_e1_2026,sec_federal,2026,24000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Centenindex Entity I yield 24m 2026 (total yield 83m) FPB Apr path; tick503
+bud_centenindex_e1_2029,sec_federal,2029,363000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Centenindex Entity I yield 363m 2029 (total 727m) FPB Apr; tick503
+bud_centenindex_total_2029,gg_belgium,2029,727000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Centenindex total yield 727m 2029 (83/359/687/727 path); tick503
+bud_fed_energy_policy_2_6bn,sec_federal,2026,2600000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Federal energy policy ~2.6bn (DG Energie 1.2bn + assignment funds CREG/Elia/NIRAS/Hedera 1.4bn); CoA opacity; tick503
+bud_fed_energy_dg_1_2bn,sec_federal,2026,1200000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,DG Energie FOD Economy credits ~1.2bn of energy policy stack; tick503
+bud_fed_energy_funds_1_4bn,sec_federal,2026,1400000000,,,budgeted,src_ccrek_fed_budget_aju_2026,strong,Assignment funds to CREG Elia NIRAS Hedera ~1.4bn energy; tick503
+bud_personnel_save_neg_fodfin_433m,sec_federal,2029,433000000,,,estimated,src_ccrek_fed_budget_aju_2026,medium,Negative impact personnel savings on FOD Finance controls 433m by 2029 not in toelichting; tick503
+bud_regions_eu_mfk_500m_2028,gg_belgium,2028,500000000,,,budgeted,src_ccrek_fed_budget_aju_2026,medium,Annual 500m from federated entities for EU MFF from 2028 no agreement yet; tick503
+bud_euroclear_exceptional_1bn_yr,sec_federal,2026,1000000000,,,budgeted,src_ccrek_fed_budget_aju_2026,medium,MC assumes >1bn/yr exceptional Euroclear Russian assets receipt through 2031 if no intl deal; tick503
+bud_dual_e1_24_5_e2_map,gg_belgium,2026,24500000000,,,derived,src_dual_e1_aju_e2_tick503,strong,Dual E1 CoA aju 24.5bn vs E2 quartet class not additive TE; tick503

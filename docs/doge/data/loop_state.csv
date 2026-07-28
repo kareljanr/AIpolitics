@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T21:30:00Z,rq_493,502,no,Tick502 CoA TV6 Oosterweel 10bn BC interest 24.5bn dual DWV; next prio5 rq_494; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T21:50:00Z,rq_494,503,no,Tick503 CoA fed aju E1 24.5bn energy 2.6bn dual E2; next prio5 rq_495; rq_116 SWA deferred.
