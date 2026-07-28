@@ -7953,3 +7953,18 @@ bud_kampani_l5_eur_named_sum,kampani,2025,5843000,,,sample,src_kampani_portfolio
 bud_kampani_l5_usd_named_face,kampani,2025,10571000,,,sample,src_kampani_portfolio_web,medium,Sum named USD face tickets ~10.571m (amount stores USD; no FX invent to EUR); tick446
 bud_kampani_l5_faces_1m_usd,kampani,2025,1000000,,,disbursement,src_kampani_portfolio_web,medium,FACES Microfinanzas Ecuador USD 1m face 2025; tick446
 bud_kampani_l5_fecceg_0_89m_usd,kampani,2022,887000,,,disbursement,src_kampani_portfolio_web,medium,FECCEG Guatemala coffee USD 0.887m face; tick446
+bud_kbf_budget_2026,kbf,2026,273000000,,,budget,src_kbf_figures_2026,strong,Total budget EUR 273m 2026 official snapshot; tick447
+bud_kbf_budget_2025,kbf,2025,220300000,,,budget,src_kbf_over_ons_2025,strong,Over-ons: budget 220.3m 2025 largest public-utility foundation BE; tick447
+bud_kbf_funds_managed_2026,kbf,2026,212000000,,,budget,src_kbf_budget_sources_2026,strong,Support from funds managed by KBF 212m of 273m pie 2026; tick447
+bud_kbf_other_revenue_2026,kbf,2026,51000000,,,budget,src_kbf_budget_sources_2026,strong,Other KBF revenue ops+financial 51m 2026 pie; tick447
+bud_kbf_lottery_dotation_2026,kbf,2026,10000000,,,budget,src_kbf_budget_sources_2026,strong,National Lottery allocation 10m 2026 (public parafiscal path); tick447
+bud_kbf_support_given_2025,kbf,2025,202000000,,,outturn,src_kbf_figures_2026,strong,Support given back to society >202m 2025 (homepage 202m); tick447
+bud_kbf_orgs_supported_2025,kbf,2025,4710,,,count,src_kbf_figures_2026,strong,Organisations supported 4710 2025; tick447
+bud_kbf_individuals_supported_2025,kbf,2025,445,,,count,src_kbf_figures_2026,strong,Individuals supported 445 2025; tick447
+bud_kbf_beneficiaries_total_2025,kbf,2025,5155,,,count,src_kbf_homepage_impact_2025,strong,Homepage 5155 individuals and organisations supported 2025; tick447
+bud_kbf_active_funds_2025,kbf,2025,1723,,,count,src_kbf_figures_2026,strong,Active funds from individuals and companies 1723; tick447
+bud_kbf_project_calls_2025,kbf,2025,201,,,count,src_kbf_figures_2026,strong,Project calls 201 in 2025; tick447
+bud_kbf_staff_2025,kbf,2025,200,,,count,src_kbf_figures_2026,strong,KBF staff members 200; tick447
+bud_kbf_experts_juries_2025,kbf,2025,4300,,,count,src_kbf_figures_2026,strong,Experts in independent juries and committees 4300; tick447
+bud_kbf_third_party_donations_2025,kbf,2025,219000,,,count,src_kbf_figures_2026,strong,Third-party donations via KBF >219000 transactions class; tick447
+bud_kbf_lottery_democracy_fund_2025,kbf,2025,500000,,,envelope,src_kbf_budget_sources_2026,medium,NL Fonds Democratie awards >500k to 18 projects Dec2025 press; sub-fund under KBF management; tick447

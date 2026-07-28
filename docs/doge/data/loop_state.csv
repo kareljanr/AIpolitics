@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T13:45:00Z,rq_437,446,no,Scheduler 60s. Next prio5 rq_438; rq_116 SWA deferred. tick446 Kampani 14.6m DGD0.9 BIO2m dual Enabel.
+main,continuous,hole_fill,2026-08-02T14:15:00Z,rq_438,447,no,Scheduler 60s. Next prio5 rq_439; rq_116 SWA deferred. tick447 KBF 273m 2026 lottery 10m dual Kampani.

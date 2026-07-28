@@ -5225,3 +5225,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entity kampani update; budgets +28; cmt +1; lb +10; rq_437=done; spawn **rq_438**; ticks=446
 - FOI: none new (public fills strong; private AR gate not public-euro opacity)
 - Next: prio5 **rq_438**; deferred **rq_116** SWA
+
+### 2026-08-02T14:15:00Z - tick 447
+- Unit: **rq_438** (FOI-adjacent hole-fill - **King Baudouin Foundation / KBS budget 2025-26 + National Lottery dual**)
+- Found (strong primary KBF official figures snapshot + budget pie + over-ons + homepage):
+  - **2026 budget EUR 273m** = funds managed **212m** + other ops/financial **51m** + **National Lottery allocation 10m**
+  - **2025 budget EUR 220.3m** (over-ons; largest public-utility foundation BE)
+  - **Support given 2025 >EUR 202m** · orgs **4,710** · individuals **445** · beneficiaries class **5,155**
+  - Active funds **1,723** · project calls **201** · staff **200** · experts/juries **4,300** · third-party donations **>219k**
+  - Dual: Kampani AR pie **~7%** KBF shareholder; public lottery path into foundation philanthropy stack
+  - Residual: full Calameo financial statements (endowment BS, personnel cost, top L5 grantees) not extracted this tick
+- Wrote: sources +4; entity kbf; budgets +15; cmt +1; lb +10; rq_438=done; spawn **rq_439**; ticks=447
+- FOI: none new (public infographics strong; optional FS deepen later not material opacity)
+- Next: prio5 **rq_439**; deferred **rq_116** SWA
