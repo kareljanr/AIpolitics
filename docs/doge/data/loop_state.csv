@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T02:15:00Z,rq_462,471,no,Scheduler 60s. Next prio5 rq_463; rq_116 SWA deferred. tick471 Be Gold dual 3.5m.
+main,continuous,hole_fill,2026-08-03T02:45:00Z,rq_463,472,no,Scheduler 60s. Next prio5 rq_464; rq_116 SWA deferred. tick472 Fairwork dual + NL health/human batch.

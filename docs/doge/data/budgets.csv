@@ -8310,3 +8310,10 @@ bud_begold_adeps_0_5m,adeps,2025,500000,,,budget,src_begold_partners_budget,stro
 bud_begold_dg_0_01m,sec_dg,2025,10000,,,budget,src_begold_partners_budget,strong,Be Gold Ostbelgien/DG share 10k; tick471
 bud_begold_cumulative_2004,begold,2024,49261432,,,outturn,src_begold_partners_budget,strong,Be Gold cumulative financing since 2004 EUR 49261432.08; tick471
 bud_nloterij_begold_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art3.26 Be Gold projects 1.5m definitive (entity dual filled tick471); tick471
+
+bud_nloterij_fairwork_def_2025,fairwork_belgium,2025,250000,,,budget,src_nloterij_kb_definitief_2025,strong,Fairwork Belgium projects 250k definitive cat3.35; dual AR NL support confirmed tick472
+bud_nloterij_iarc_def_2025,iarc_lyon,2025,759770,,,budget,src_nloterij_kb_definitief_2025,strong,IARC Lyon International Agency Research Cancer 759770 definitive cat3.10; WHO-linked dual residual federal membership; tick472
+bud_nloterij_antikankerfonds_def_2025,antikankerfonds,2025,300000,,,budget,src_nloterij_kb_definitief_2025,strong,Antikankerfonds My Cancer Navigator 300k definitive cat3.16; tick472
+bud_nloterij_opvangtehuizen_def_2025,nationale_loterij,2025,495000,,,budget,src_nloterij_kb_definitief_2025,strong,Opvangtehuizen Centres d hebergement 495k definitive cat3.12 aggregate shelters; L5 named residual FOI; tick472
+bud_nloterij_holocaust_def_2025,nationale_loterij,2025,370000,,,budget,src_nloterij_kb_definitief_2025,strong,Herdenking Holocaust Memoires 370k definitive cat3.17 Art5 sub-note residual; tick472
+bud_nl_health_human_residual_sum_2025,nationale_loterij,2025,2174770,,,derived,src_nl_residual_health_human_l5_tick472,strong,Sum Fairwork+IARC+Antikanker+Opvang+Holocaust 0.25+0.76+0.3+0.495+0.37=2.175m residual health/human L5 batch; tick472

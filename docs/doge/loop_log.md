@@ -5542,3 +5542,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; cmt +1; lb +6; entity begold + update sport_vlaanderen/adeps/boic; rq_462=done spawn **rq_463**; ticks=471
 - FOI: none new (envelope dual closed; athlete-level L5 residual privacy-sensitive optional)
 - Next: prio5 **rq_463** (IARC Lyon / Leesbevordering / Opvangtehuizen / residual NL L5); deferred **rq_116** SWA
+
+### 2026-08-03T02:45:00Z — tick 472
+- Unit: **rq_463** (FOI-adjacent hole-fill — **Fairwork dual NL 250k + residual health/human NL batch 2.175m**)
+- Found (strong plan + Fairwork AR2025 primary):
+  - **Fairwork:** NL plan **€250k** cat3.35 · AR2025 confirms NL + Fedasil + Warmste Week + 11.11.11 + Safe.brussels + SF323 · **1.142** requests (+47%) 92 countries · financing fragile (2 contracts not renewed) · **no euro TCO table** in AR
+  - **Residual NL health/human batch sum €2.175m:** IARC Lyon **€759,770** · Antikankerfonds MCN **€300k** · Opvangtehuizen **€495k** · Holocaust memorial **€370k** · Fairwork **€250k**
+  - Dual: Antikankerfonds private foundation + NL MCN; IARC WHO agency lottery co-finance; shelters aggregate named residual
+- Wrote: sources +3; budgets +6; cmt +2; lb +6; entities +3; FOI **gap_fairwork_tco** + **gap_nl_opvang_l5** ready+drafts; raw fairwork PDF; rq_463=done spawn **rq_464**; ticks=472
+- FOI opened: 2 ready (human send)
+- Next: prio5 **rq_464** (UCI cycling / Leesbevordering / Paola / residual); deferred **rq_116** SWA
