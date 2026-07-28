@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T01:40:00Z,rq_506,515,no,Tick515 CoA BRU budget SEC -957m debt 16.1bn STIB 1.17bn dual E2; next prio5 rq_507; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T02:00:00Z,rq_507,516,no,Tick516 CoA FAM ops 12.5m indemn cumul 101m dual RIZIV; next prio5 rq_508; progress@520; rq_116 SWA deferred.

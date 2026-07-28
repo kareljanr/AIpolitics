@@ -8990,3 +8990,10 @@ bud_bru_roads_liq_264m_2026,brussels_gov,2026,263940000,,,budgeted,src_ccrek_bru
 bud_bru_kanal_credits_87m_2026,brussels_gov,2026,86700000,,,budgeted,src_ccrek_bru_budget_2026,medium,Kanal financing credits 86.7m of which 60m financial participation; budget of Kanal foundation omitted CoA; tick515
 bud_bru_underuse_35m_2026,brussels_gov,2026,35000000,,,budgeted,src_ccrek_bru_budget_2026,medium,Under-utilisation assumption +35m on SEC SF; tick515
 bud_dual_bru_e2_2026,gg_belgium,2026,-956600000,,,derived,src_dual_bru_e2_tick515,strong,Dual BRU SEC -0.96bn vs Entity II peers; tick515
+bud_fam_indemn_cumul_101m_2024,fam,2024,101100000,,,outturn,src_ccrek_fam_suivi_2025,strong,FAM cumulative indemnities paid eoy2024 101.1m (was 16.3m eoy2018); tick516
+bud_fam_indemn_cumul_16m_2018,fam,2018,16300000,,,outturn,src_ccrek_fam_suivi_2025,strong,FAM cumulative indemnities eoy2018 16.3m; tick516
+bud_fam_indemn_annual_12_4m_2023,fam,2023,12400000,,,outturn,src_ccrek_fam_suivi_2025,strong,FAM annual indemnities 12.4m 2023 (was 6.4m 2018 class); tick516
+bud_fam_indemn_annual_6_4m_2018,fam,2018,6400000,,,outturn,src_ccrek_fam_suivi_2025,strong,FAM annual indemnities 6.4m 2018 class; tick516
+bud_fam_ops_cost_12_5m_2024,fam,2024,12500000,,,outturn,src_ccrek_fam_suivi_2025,strong,FAM operating costs excl indemnities 12.5m 2024 (590 opinions 681 closed; ~16500/dossier crude); tick516
+bud_fam_ops_plus_indemn_class_2024,fam,2024,24900000,,,derived,src_ccrek_fam_suivi_2025,medium,Illustrative 2024 stack ops 12.5 + annual indemn class ~12.4 prior year path; not exact 2024 annual indemn; tick516
+bud_dual_fam_riziv_2024,gg_belgium,2024,12500000,,,derived,src_dual_fam_riziv_tick516,strong,Dual FAM ops 12.5m under RIZIV healthcare stack; tick516

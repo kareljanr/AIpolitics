@@ -6178,3 +6178,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +29; cmt +4; lb +8; FOI **gap_bru_measures_stib_kanal_l5** ready+draft; rq_506=done spawn **rq_507**; ticks=515
 - FOI opened: gap_bru_measures_stib_kanal_l5 (ready, human send) — not sent
 - Next: prio5 **rq_507**; deferred **rq_116** SWA
+
+### 2026-07-29T02:00:00Z - tick 516
+- Unit: **rq_507** (FOI-adjacent hole-fill — **CoA FAM medical accidents fund follow-up 2025 dual RIZIV**)
+- Found (strong primary Rekenhof AG 19 Nov 2025):
+  - **Recommendations:** 24 total ? **11 done · 12 in progress · 1 not done**
+  - **Backlog:** open **2,445 (eoy2019) ? 1,066 (2023) ? 989 (2024)**; task force 1,249 treated (83% closed with opinion)
+  - **Speed:** p80 months **31.6 (opened 2019) ? 13.2 (opened 2022)**; new openings **632** in 2024
+  - **Indemnities:** cumul **€16.3m (2018) ? €101.1m (eoy2024)**; annual **€6.4m (2018) ? €12.4m (2023)**
+  - **Ops cost excl indemnities:** **€12.5m 2024** (590 opinions · 681 closed); crude **~€16,500/dossier** (was ~12k/open in 2020 audit)
+  - Staff cadre **62**; legal recovery costs rising; prevention mission still weak
+  - Law reform WG list due **31 Dec 2026** / results **28 Feb 2027**; coalition 2025-29 optimisation
+  - Historic: **~9/10 victims** avoid procedure (slow + low indemn probability)
+  - **Dual:** FAM residual under RIZIV healthcare mega-stack
+- Wrote: sources +2; entity fam; budgets +7; cmt +3; lb +6; FOI **gap_fam_cost_role_l5** ready+draft; rq_507=done spawn **rq_508**; ticks=516
+- FOI opened: gap_fam_cost_role_l5 (ready, human send) — not sent
+- Next: prio5 **rq_508** (progress@520 soon); deferred **rq_116** SWA
