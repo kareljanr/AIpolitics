@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T02:00:00Z,rq_507,516,no,Tick516 CoA FAM ops 12.5m indemn cumul 101m dual RIZIV; next prio5 rq_508; progress@520; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T02:20:00Z,rq_508,517,no,Tick517 CoA Smals broker 1.8bn orders 471m dual IT; next prio5 rq_509; progress@520 soon; rq_116 SWA deferred.

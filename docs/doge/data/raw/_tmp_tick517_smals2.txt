@@ -1,0 +1,331 @@
+﻿===PAGE 69 ===
+Op basis van de bestellingen die tussen 2022 en januari 2025 in het kader van de Smals-
+raamovereenkomsten zijn geplaatst, geeft het Rekenhof in Tabel 3 de dagtarieven voor externe 
+IT-specialisten weer.
+Tabel 3 ΓÇô Voorbeelden van dagtarieven voor externe IT-specialisten (in euroΓÇÖs, inclusief btw)
+Categorie├½n
+Minimum 
+Maximum
+Gemiddeld
+Junior
+302,50
+822,80
+672,24
+Senior
+420,21
+1149,50
+759,43
+Expert 
+433,61
+2.127,90
+923,38
+Bron: Bestellingen van externe IT-consultants uitgevoerd op basis van de raamovereenkomsten van Smals tus┬¡
+sen 1 januari 2023 en 31 januari 2025
+Een relevante vergelijking maken is niet eenvoudig. Smals hanteert voor gedetacheerden een an┬¡
+dere interne indeling en andere loonschalen dan de categorie├½n en tariefstructuren die gebruikt 
+worden voor externe IT-specialisten. De loonschaal voor gedetacheerden is onder meer gebaseerd 
+op de geldelijke anci├½nniteit, wat betekent dat de kosten voornamelijk evolueren volgens de erva┬¡
+ring die binnen de organisatie is opgedaan. Het tarief voor externe IT-specialisten wordt daaren┬¡
+tegen bepaald door de specifieke vaardigheden die voor een bepaalde opdracht vereist zijn. Hoe 
+zeldzamer deze vaardigheden op de markt zijn, hoe hoger het tarief. Ook het expertiseniveau 
+speelt een belangrijke rol bij de prijsbepaling. 
+Smals heeft in 2025 een vergelijking gemaakt tussen de kosten van een gedetacheerde en die van 
+een externe IT-specialist voor de meest gebruikte IT-profielen ΓÇÿprogrammeurΓÇÖ en ΓÇÿanalistΓÇÖ. Een 
+programmeur heeft een bachelordiploma, terwijl een analist een universitair diploma heeft. Die 
+vergelijking is gebaseerd op gemiddelden en houdt rekening met een relatief vergelijkbaar exper┬¡
+tiseniveau tussen een gedetacheerde en een externe IT-specialist. De kosten voor gedetacheerden 
+omvatten de administratieve kosten van 198 euro per maand.
+Tabel 4 ΓÇô Vergelijking van de gemiddelde uurkosten tussen een gedetacheerde van Smals en een externe 
+IT-specialist (in euroΓÇÖs)
+Categorie├½n
+Gedetacheerde
+Externe 
+(inclusief btw)
+Programmeur (ontwikkeling van applicaties en infrastructuur)
+65,71 
+111,43
+Analist (applicatieontwikkeling en infrastructuur)
+93,62 
+126,30 
+Bron: Gegevens Smals, maart 2025
+Op basis van alle verzamelde gegevens concludeert het Rekenhof dat detachering doorgaans 
+goedkoper is dan externe consultancy. Dat verschil kan deels worden verklaard door de btw van 
+21┬á% op externe consultancy, terwijl transacties tussen Smals en haar leden zijn vrijgesteld van 
+btw. Bovendien wordt externe consultancy in principe aangevraagd voor meer gespecialiseerde 
+profielen, wat mogelijk een verklaring is voor de hogere kosten. 
+Het Rekenhof stelt vast dat de detachering van IT-personeel administraties in staat stelt tegen 
+lagere kosten dan externe consultancy, IT-competenties te verwerven, meer duurzame teams 
+samen te stellen en beter gebruik te maken van de IT-competenties binnen de overheidssector. 
+Detachering is dan ook een interessant alternatief voor externe consultancy. 
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 68
+
+
+===PAGE 70 ===
+5.3.2.3	 Planning van de detacheringsbehoeften
+Om hun IT-budget vast te stellen, maken organisaties een planning van hun behoefte aan IT-
+profielen, en vooral aan gedetacheerd personeel. De profielaanvragen worden doorgegeven aan 
+Smals of Egov Select, die het nodige doen om personeel te rekruteren. Niet alle aanvragen leiden 
+echter automatisch tot een detachering. De gevraagde profielen kunnen niet altijd worden aan┬¡
+geworven of de nood is te dringend. Om aan de aanvraag te voldoen, worden dan externe consul┬¡
+tants ingeschakeld. 
+Volgens het Rekenhof mag externe consultancy enkel een optie zijn voor gespecialiseerde pro┬¡
+fielen of vaardigheden of voor specifieke, in de tijd beperkte projecten. Wanneer de aanwerving 
+van de gezochte profielen via statutaire of contractuele weg niet mogelijk is, is de detachering van 
+personeel door Smals en Egov Select een effici├½nte en goedkopere oplossing om te voorzien in 
+structurele behoeften dan externe consultancy.
+Aanbeveling 15 
+De planning van de IT-resources verbeteren zodat Egov Select en Smals de mogelijkheid heb┬¡
+ben om er via detachering een antwoord op te bieden. Vermijden dat externe consultancy 
+moet worden ingezet om dringende noden op te lossen.
+5.3.3 
+Begeleiding bij rekrutering van IT-personeel
+In zijn audit uit 201655 had het Rekenhof aanbevolen ΓÇ£dat het inschakelen door de overheid van een 
+vzw een uitzonderlijke operatie bij wijze van afwijking zou blijven, beperkt tot de aanwerving van 
+informatici zolang de toestand op de arbeidsmarkt dat rechtvaardigtΓÇ¥.
+Er moet echter worden opgemerkt dat het door Smals en Egov Select ter beschikking gestelde per┬¡
+soneel vaak wordt belast met structurele taken die lang aanslepen. Aangezien de gedetacheerde 
+met een arbeidsovereenkomst van onbepaalde duur is tewerkgesteld, werkt hij op langlopende 
+projecten. Volgens Smals blijven de meeste gedetacheerden hun hele loopbaan bij hetzelfde lid.
+Volgens het Rekenhof is het risico re├½el dat gedetacheerden op termijn de interne functies gaan 
+vervangen. Dat valt te verklaren door de hevige concurrentie op de arbeidsmarkt, waardoor IT-
+profielen moeilijk te rekruteren zijn.
+Het aantal gedetacheerden van Egov Select is sinds 2019 meer dan verdubbeld, terwijl het aantal 
+gedetacheerden van Smals relatief stabiel blijft. In totaal bedroeg het aantal gedetacheerden in 
+2024, 2.072, tegenover 1.395 in 2019, wat neerkomt op een stijging van 48,5 %.
+55	 Rekenhof, Beheer van de behoeften aan informaticapersoneel door de federale Staat, verslag aan de Kamer van 
+Volksvertegenwoordigers, Brussel, februari 2016, pagina 23, rekenhof.be.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 69
+
+
+===PAGE 74 ===
+Grafiek 10 toont de evolutie van de omzet van Smals voor de terbeschikkingstelling van externe 
+IT-specialisten en de detachering van IT-personeel.  
+De figuur houdt enkel rekening met bestellingen van Smals op verzoek van haar leden en niet met 
+rechtstreekse bestellingen van leden bij externe dienstverleners. Ter illustratie: in 2022 plaatsten 
+de gebruikers in het totaal voor 20,9 miljoen euro bestellingen rechtstreeks op basis van de con┬¡
+tracten van Smals (buiten de broker om), en voor 47 miljoen euro rechtstreekse bestellingen op 
+basis van het brokercontract.
+Grafiek 10 ΓÇô Evolutie van de omzet van Smals-activiteiten inzake detachering van personeel en externe 
+IT-consultancy (in miljoen euro)
+IT-detachering
+Externe IT-consultancy
+0
+50
+100
+150
+200
+250
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Bron: Rekenhof op basis van de activiteitenverslagen van Smals 
+Het Rekenhof stelt vast dat Smals de afgelopen jaren meer dan vier keer zoveel externe IT-
+specialisten ter beschikking heeft gesteld (van 17,8 % van de totale omzet van Smals in 2014 tot 36┬á% 
+in 2024). Sinds 2018 overtreft de omzet uit de terbeschikkingstelling van externe IT-specialisten 
+die uit de detachering van IT-profielen. Deze stijging zou deels kunnen worden verklaard door het 
+toenemende aantal begunstigden van de door Smals gesloten raamovereenkomsten (leden van 
+categorie B en C). 
+Deze evolutie illustreert bovendien dat er bij de federale organisaties onvoldoende intern per┬¡
+soneel wordt ingezet voor IT en dat er een mismatch is tussen de behoeften en de personeels┬¡
+profielen. Dat komt onder meer doordat er geen strategie is, met name op het gebied van 
+IT-competentiemanagement, doordat kadering ontbreekt en doordat de inzet van consultancy en 
+detachering ook niet ge├½valueerd wordt. Met een dergelijke evaluatie zou men kunnen nagaan op 
+welke terreinen de interne capaciteit kan worden versterkt door aanwerving of detachering en op 
+welke terreinen uitbesteding noodzakelijk is (zie hoofdstuk 3).
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 73
+
+
+===PAGE 75 ===
+5.4.2 
+Centralisatie van de aankopen
+Dat steeds vaker externe IT-consultancy wordt ingezet via door Smals gesloten raamovereenkom┬¡
+sten wijst ook op een groeiende centralisatie van de federale aankopen voor die diensten, wat een 
+goede praktijk is. Die centralisatie kan namelijk effici├½ntiewinst opleveren door het aantal aan┬¡
+koopprocedures te verminderen. 
+Bij gebrek aan een vergelijkende analyse tussen de prijzen die bij individuele overheidsopdrachten 
+en in gemeenschappelijke overeenkomsten worden verkregen, is het echter onmogelijk om de be┬¡
+sparingen aan te tonen of te ramen. In de broker-raamovereenkomst bijvoorbeeld (zie punt 5.4.3) 
+bepalen de gebruikersorganisaties zelf de tarieven voor een opdracht. 
+5.4.3 
+Broker-raamovereenkomsten 
+In de IT-sector is een broker een gespecialiseerde tussenpersoon die de terbeschikkingstelling 
+van externe IT-specialisten centraliseert en beheert. Hij levert niet rechtstreeks IT-diensten, maar 
+beheert de middelen door consultants uit een netwerk van dienstverlenende partners voor te stel┬¡
+len en in te zetten. De bedoeling van dit model is de toegang tot externe expertise te vergemak┬¡
+kelijken: organisaties krijgen ├⌐├⌐n aanspreekpunt, dat vervolgens de juiste profielen op de markt 
+selecteert om in de behoeften te voorzien. Dat aanspreekpunt staat ook in voor de opvolging, en 
+voor het administratieve en financi├½le beheer van de diensten. De broker ontvangt een commissie 
+voor elk uur dat de externe IT-specialist factureert. 
+Op die manier kan de administratie snel over de nodige middelen en vaardigheden beschikken, 
+zonder dat ze voor elke opdracht zelf een afzonderlijke overheidsopdracht moet uitschrijven.
+Om te voldoen aan haar eigen behoefte aan externe IT-specialisten en aan die van haar leden, sluit 
+Smals sinds 2017 raamovereenkomsten met brokers. De meest recente werd op 15 december 2022 
+gegund. Bij deze opdracht gaat het om diensten zoals IT-selectie en -prestaties. De opdracht is in 
+twee percelen verdeeld. Ook andere organisaties zoals het RIZIV, de Federale Politie en de RVA 
+schakelen brokers in.
+Het eerste perceel betreft het sluiten van een raamovereenkomst voor de levering van technische 
+expertise (IT) door aan Smals en haar leden IT-profielen of teams ter beschikking te stellen. Voor 
+dat soort opdrachten moeten de externe IT-experts ondersteuning bieden als er tijdelijke verster┬¡
+king nodig is. Deze prestaties worden gefactureerd tegen een uurtarief op basis van de profielen 
+en de duur van de opdracht. 
+De broker stelt een platform ter beschikking om de relaties met leveranciers te beheren (Vendor 
+Management System ΓÇô VMS). Daarop kunnen zelfstandigen en bedrijven zich gratis registreren 
+en reageren op aanvragen om opdrachten te vervullen. Een systeem voor het beheer van onder┬¡
+aannemers is een interactief platform voor vraag en aanbod, waar bedrijven technische expertise 
+kunnen beheren en inkopen. De broker zorgt ook voor de opvolging en rapportering van contrac┬¡
+ten (door consultants ingediende urenstaten, contracten, facturering, enz.). Dit perceel is gegund 
+aan ProUnity voor opdrachten met een geschatte waarde van 1,8 miljard euro. 
+In het tweede perceel wordt met verschillende dienstverleners een raamovereenkomst gesloten om 
+technische expertise (ICT) te leveren voor de uitvoering van specifieke projecten. Er moeten offertes 
+met een vaste prijs worden ingediend. De aanvragende organisatie bepaalt de doelstellingen van het 
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 74
+
+
+===PAGE 76 ===
+project en de verwachte resultaten, en selecteert het IT-consultancybedrijf dat de beste offerte in┬¡
+dient. Voor elk nieuw project is er een inmededingingstelling tussen de dienstverleners. Dit perceel 
+werd gegund voor diensten met een totale geraamde waarde van 250 miljoen euro.
+Voor deze raamovereenkomst treedt Smals op als aankoopcentrale in de zin van artikel 2, 6┬░ van 
+de wet overheidsopdrachten van 17 juni 2016. Haar leden en andere overheidsorganisaties kunnen 
+gebruik maken van deze raamovereenkomst.
+Zoals blijkt uit Tabel 5 werd op basis van deze raamovereenkomst in 2023 en 2024 voor 471,4 mil┬¡
+joen euro besteld.
+Tabel 5 ΓÇô Uitgaven in verband met de broker-raamovereenkomst in 2023 en 2024 (in miljoen euro)
+Organisaties
+2023 
+2024
+Total
+Smals
+53,9
+43,2
+97,1
+Rijksinstituut voor ziekte 
+-en┬áinvaliditeitsverzekering
+5,6
+59,7
+65,2
+Federale Politie
+7,7
+27,3
+34,9
+RVA
+11,4
+21,0
+32,4
+Office de la Naissance et de l'Enfance (ONE)
+0,0
+22,9
+22,9
+FOD Binnenlandse Zaken
+4,7
+16,2
+20,9
+RSVZ
+4,8
+14,6
+19,4
+Federale Pensioendienst
+2,8
+16,3
+19,1
+FOD Buitenlandse Zaken
+5,8
+11,6
+17,4
+Sciensano
+6,7
+8,1
+14,8
+Nationale Loterij 
+4,5
+8,7
+13,1
+TEC
+4,3
+8,7
+13,0
+Service public de Wallonie (SPW Digital)
+0,5
+9,9
+10,4
+Actiris
+3,5
+6,1
+9,6
+FOD Volksgezondheid
+3,6
+4,0
+7,6
+FAVV
+2,9
+4,5
+7,3
+FOD Justitie
+1,6
+3,0
+4,5
+Andere
+14,8
+46,7
+61,6
+Totaal
+139,0
+332,3
+471,4
+Bron: Gegevens geleverd door Smals. 
+In de volgende paragrafen onderzoekt het Rekenhof het eerste perceel over het broker-systeem.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 75
+
+
+===PAGE 77 ===
+5.4.4 
+Specifieke kenmerken van het broker-model van Smals
+Het Rekenhof analyseert hieronder het bestek van de huidige raamovereenkomst, de werking van 
+het VMS-platform, het kader, de controle van de processen en de opvolging van de opdrachten en 
+budgetten. 
+5.4.4.1	
+Contractueel kader en naleving van de regelgeving
+Zoals bij elke overheidsopdracht legt het bestek de essenti├½le voorwaarden vast voor de prestaties 
+van zowel de broker als de externe IT-specialisten en regelt het de rechten en plichten van de par┬¡
+tijen, bijvoorbeeld de regels voor prijsherziening voor de broker en de consultants. 
+In de drie broker-overeenkomsten legt het bestek de maximale uurtarieven vast voor elk type 
+IT-specialist uit de lijst. Specifieke technologie├½n of profielbeschrijvingen van IT-specialisten zijn 
+niet opgenomen. Vanaf de tweede overeenkomst worden de profielen ingedeeld in categorie├½n 
+volgens gestandaardiseerde criteria:
+ΓÇó	 het aantal jaren ervaring: drie jaar (junior), vijf jaar (ervaren), tien jaar (expert);
+ΓÇó	 het IT-domein: hardware, software en veiligheid.
+Het specifieke IT-expertprofiel is toegevoegd in de derde raamovereenkomst van 2022. Het maxi┬¡
+male forfaitaire tarief voor dit profiel bedraagt het dubbele van dat voor informatici-experts. Het 
+bestek beperkt de inzet van dit profiel, waarvoor de goedkeuring van de hoogste verantwoorde┬¡
+lijke van de aanvragende organisatie vereist is. Alle functies die in de uitvoeringsfase gevraagd 
+worden, moeten overeenstemmen met een van de profieltypes.
+Volgens Smals biedt deze ruime omschrijving van de profielen flexibiliteit bij de keuze van consul┬¡
+tantprofielen in de uitvoeringsfase, wat innovatie kan bevorderen. 
+De externe IT-specialisten moeten een contract ondertekenen met een engagement om de voor┬¡
+waarden van de raamovereenkomst en van Smals na te leven. Ze moeten ook een verklaring op 
+erewoord ondertekenen over de uitsluitingsgronden. 
+Vertrouwelijkheidsclausules beschermen de gegevens, ook de persoonsgegevens, waartoe de bro┬¡
+ker en de consultants toegang krijgen tijdens de uitvoering van de opdracht. Zowel de broker 
+als de consultants moeten hierover een verklaring ondertekenen. Een omkeerbaarheidsclausule 
+moet er bovendien voor zorgen dat de intellectuele eigendom van alles wat tijdens de uitvoe┬¡
+ring van de raamovereenkomst ontwikkeld is, wordt overgedragen aan Smals en de begunstigden. 
+Volgens het Rekenhof helpen die clausules Smals om minder afhankelijk te zijn van de broker. 
+Overgangsmaatregelen vullen het systeem aan door de overdracht naar een nieuwe opdrachtne┬¡
+mer te regelen.
+Zowel de vorige als de huidige raamovereenkomst bepalen dat de door de begunstigden gevraagde 
+IT-profielen op het VMS-platform van de broker worden gepubliceerd. De toegang tot het plat┬¡
+form is gratis voor dienstverleners, waardoor alle kandidaat-ondernemingen gegarandeerd de┬¡
+zelfde kansen krijgen. Bovendien moet het platform neutraal zijn. Er mag geen voorkeur worden 
+gegeven aan een kandidaat. Het platform bevat bepaalde controles om een objectieve selectie van 
+de kandidaten te garanderen. 
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 76
+
+

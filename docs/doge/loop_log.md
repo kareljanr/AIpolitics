@@ -6194,3 +6194,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity fam; budgets +7; cmt +3; lb +6; FOI **gap_fam_cost_role_l5** ready+draft; rq_507=done spawn **rq_508**; ticks=516
 - FOI opened: gap_fam_cost_role_l5 (ready, human send) — not sent
 - Next: prio5 **rq_508** (progress@520 soon); deferred **rq_116** SWA
+
+### 2026-07-29T02:20:00Z - tick 517
+- Unit: **rq_508** (FOI-adjacent hole-fill — **CoA consultancy residual Smals broker L5 dual IT detach**)
+- Found (strong primary same CoA consultancy Oct 2025, Ch5 residual):
+  - **Broker framework** ProUnity lot1 est **€1.8bn** (15 Dec 2022) + lot2 fixed-price **€250m** = **€2.05bn** class
+  - **Orders 2023-24:** **€471.4m** under broker framework; 2022 direct **€20.9m** non-broker + **€47m** on broker
+  - **Day rates** (incl VAT, orders 2023–Jan2025): junior avg **€672** · senior **€759** · expert **€923** (max **€2,128**)
+  - **Detach vs external hourly:** programmer **65.71 vs 111.43** · analyst **93.62 vs 126.30**; admin **€198**/month; 21% VAT wedge
+  - Detachments **1,395 (2019) ? 2,072 (2024)** (+48.5%); FOD Fin near 50-50 (198+197); RSVZ IT 10+82 FTE
+  - Smals external IT share of turnover **17.8% ? 36%**; only **one broker bid** for dual-broker design
+  - **Dual:** broker cash under mega-framework vs consultancy IT 2.03bn 3y stack
+- Wrote: sources +2; budgets +8; cmt +3; lb +6; FOI **gap_smals_broker_rates_l5** ready+draft; rq_508=done spawn **rq_509**; ticks=517
+- FOI opened: gap_smals_broker_rates_l5 (ready, human send) — not sent
+- Next: prio5 **rq_509** (progress@520 soon); deferred **rq_116** SWA
