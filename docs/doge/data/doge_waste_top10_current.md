@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **410** (2026-08-01) · **~1114** leaderboard rows  
+**As-of:** tick **420** (2026-08-02) · **~1181** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
 **Stock filter:** Hedera CAP (~15bn) / ETS blocked (€1.8bn) stay **off** pure annual top10.  
-**Stable vs tick 400:** fossil/company-cars/cheque/EIWT mega items still dominate top10; no reorder.
+**Stable vs tick 410:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. Spending-review pipeline (DBP 2026) targets fossil TE + night/R&D withholding — same cluster.
 
 ### Just outside top 10 (often relevant)
 
@@ -38,9 +38,11 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 13 | `lb_wage_subsidies_block` | **16.70 bn** | 7.98 | Wage subsidies block (~2/3 enterprise package) |
 | 14 | `lb_ffs_direct_total` | **10.78 bn** | 7.98 | FFS direct fossil total |
 | 15 | `lb_gas_product_diff` | **4.09 bn** | 7.98 | Gas product rate-diff |
-| 16 | `lb_t10_package_total_25_3bn` | **25.3 bn** | **7.55** | **NEW tick409** T10 employer+employee labour reductions 2026 |
-| 17 | `lb_t10_employer_package_23_5bn` | **23.5 bn** | **7.55** | **NEW tick409** employer-only package |
-| 18 | `lb_mlt_gg_interest_27_5bn` | **14.3→27.5 bn** | **7.55** | **NEW tick408** GG interest path |
+| 16 | `lb_t10_package_total_25_3bn` | **25.3 bn** | **7.55** | T10 employer+employee labour reductions 2026 |
+| 17 | `lb_t10_employer_package_23_5bn` | **23.5 bn** | **7.55** | employer-only package |
+| 18 | `lb_mlt_gg_interest_27_5bn` | **14.3→27.5 bn** | **7.55** | GG interest path midterm |
+| 19 | `lb_edp_bru_debt_16_3bn_250pct` | **16.3 bn** stock | **7.1** | **NEW tick419** BCR debt/revenue 250% |
+| 20 | `lb_edp_wal_debt_40_8bn_220pct` | **40.8 bn** stock | **7.0** | **NEW tick419** Wallonia debt/revenue 220% |
 
 ### Large stock / off-TE / dual-structure / entitlement map (not pure annual waste top 10)
 
@@ -49,11 +51,14 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock |
 | `lb_ets_blocked_1_8bn` | **1.8 bn** | ETS auction proceeds blocked SPF Santé |
 | `lb_lpm_invest_33_8bn_2026_34` | **33.8 bn** eng | Military programming 2026–34 |
-| `lb_mlt_entity1_solde_25_46bn` | **25.3→45.9 bn** | Entity I deficit path midterm (tick408) |
-| `lb_mlt_gg_solde_50bn_2031` | **33.7→50.0 bn** | GG deficit path midterm |
-| `lb_cev_social_27_2pct_path` | **25.7→27.2% GDP** | CEV ageing social exp (tick406) |
-| `lb_hermreg_vl_dep_76_3bn` | **76.3 bn** dep | Flanders HermReg 2026 dep (tick405) |
-| `lb_flexi_wage_mass_220m` | **220 m** | Flexi wage mass end-2024 (tick407) |
+| `lb_edp_cr_debt_127_6bn` | **127.6 bn** | C&R debt stock 2025 (+51% 4y) tick419 |
+| `lb_edp_gg_debt_692_5bn_2025` | **692.5 bn** | GG Maastricht debt 107.9% GDP |
+| `lb_esspros_benefits_177_9bn_2024` | **177.9 bn** EE | ESSPROS social benefits early 2024 |
+| `lb_esspros_oldage_74_5bn_2024` | **74.5 bn** EE | Old-age benefits path |
+| `lb_esspros_disability_17_9bn_2024` | **17.9 bn** EE | Disability historic high (+8.6%) |
+| `lb_mlt_entity1_solde_25_46bn` | **25.3→45.9 bn** | Entity I deficit path midterm |
+| `lb_cev_social_27_2pct_path` | **25.7→27.2% GDP** | CEV ageing social exp |
+| `lb_safe_defence_loans_8_3bn` | **8.3 bn** | SAFE loan request (tick415) |
 | `lb_nato_effort_13_1bn` | **13.1 bn** | NATO 2pct effort 2026 |
 | `lb_ipp_reform_5_6bn` | **5.6 bn** cum 2030 | IPP reform path |
 

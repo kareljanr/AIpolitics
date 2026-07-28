@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T00:15:00Z,rq_410,419,no,Scheduler 60s. Next MANDATORY progress@420 rq_411; rq_116 SWA deferred. tick419 EDP C&R entities.
+main,continuous,hole_fill,2026-08-02T00:45:00Z,rq_411,420,no,Scheduler 60s. Next prio5 rq_412; rq_116 SWA deferred. tick420 progress coverage+waste top10.

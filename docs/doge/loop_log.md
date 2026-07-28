@@ -4851,3 +4851,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +31; cmt +4; lb +8; raw nbb_edp_2025_apr_neco.pdf; rq_410=done; spawn **rq_411 progress@420**; ticks=419
 - FOI: none new (entity stocks strong public; residual ETS allocation key political)
 - Next: **MANDATORY progress@420 rq_411**; deferred **rq_116** SWA
+
+### 2026-08-02T00:45:00Z - tick 420
+- Unit: **rq_411** (**progress milestone @420** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong; EDP C&R entity dual tick419)
+  - **C L2:** **~98-99%** (stable high) - C&R entity debt/deficit 2025 · ESSPROS 165.8-177.9bn · COFOG 2024 functions · DBP+COM TE 350-361 · FPS tax cash 153.1
+  - **D L5:** **~22-35%** generous (ESSPROS risk lines not firm end-receivers; FOI ASBL/firm residual)
+  - **E FOI ready:** **~215** (answered **~8**; total FOI rows **~225**)
+- Inventory: budgets ~6677 · cmt ~755 · lb ~1181 · entities ~357 · sources ~738
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; DBP spending reviews target same cluster
+- Dual/off-TE: ESSPROS 174.2bn social protection; C&R debt 127.6bn; RRF 62%; SAFE 8.3bn; Entity I effort 9.2bn
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_411=done; spawn **rq_412**; ticks=420
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_412** hole-fill; deferred **rq_116** SWA
