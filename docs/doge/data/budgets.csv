@@ -7901,3 +7901,27 @@ bud_brs_asbl_hold_mfc_2025,brs_asbl,2025,318000,,,stock,src_brs_ar_2025,strong,B
 bud_brs_asbl_commitments_2025,brs_asbl,2025,455000,,,estimate,src_brs_ar_2025,strong,Open project commitments off-balance 455000; tick444
 bud_brs_asbl_coaching_days_2025,brs_asbl,2025,594,,,estimate,src_brs_ar_2025,strong,Coaching+training days 594 (headcount-days not EUR); tick444
 bud_brs_asbl_volunteers_2025,brs_asbl,2025,94,,,estimate,src_brs_ar_2025,strong,KBC/CBC/Cera volunteer experts ~94 (press 94 / AR ~96); tick444
+bud_incofin_imf_bs_2025,incofin_mf_fund,2025,65541000,,,stock,src_incofin_imf_ar_2025,strong,Balance sheet total 65.541m (66.556m 2024); tick445
+bud_incofin_imf_capital_2025,incofin_mf_fund,2025,49953000,,,stock,src_incofin_imf_ar_2025,strong,Share capital 49.953m (-1.264m -2.5pct after tax-break abolition); 2348 shareholders; tick445
+bud_incofin_imf_equity_2025,incofin_mf_fund,2025,53496000,,,stock,src_incofin_imf_ar_2025,strong,Equity 53.496m (55.992m 2024); tick445
+bud_incofin_imf_portfolio_2025,incofin_mf_fund,2025,62441000,,,stock,src_incofin_imf_ar_2025,strong,Total portfolio 62.441m (equity 17.422 + sub 7.500 + loans 37.519); tick445
+bud_incofin_imf_loans_2025,incofin_mf_fund,2025,37519000,,,stock,src_incofin_imf_ar_2025,strong,Senior loan portfolio book 37.519m after imp 1.875m; tick445
+bud_incofin_imf_equity_port_2025,incofin_mf_fund,2025,17422000,,,stock,src_incofin_imf_ar_2025,strong,Equity portfolio book 17.422m (imp 2.047m); Banco FIE 8.46m largest; tick445
+bud_incofin_imf_sub_debt_2025,incofin_mf_fund,2025,7500000,,,stock,src_incofin_imf_ar_2025,strong,Subordinated/quasi-equity book 7.500m; tick445
+bud_incofin_imf_debt_fin_2025,incofin_mf_fund,2025,10100000,,,stock,src_incofin_imf_ar_2025,strong,Debt financing drawn 10.1m leverage 19pct; uncalled 10.0m; Belfius/Solidaris etc; tick445
+bud_incofin_imf_cash_2025,incofin_mf_fund,2025,2702000,,,stock,src_incofin_imf_ar_2025,strong,Cash 2.702m (8.239m 2024); tick445
+bud_incofin_imf_loss_2025,incofin_mf_fund,2025,1232000,,,outturn,src_incofin_imf_ar_2025,strong,Net loss 1.232m after tax (0.658m loss 2024); dividend 0pct; tick445
+bud_incofin_imf_mgmt_fee_2025,incofin_im,2025,1055000,,,outturn,src_incofin_imf_ar_2025,strong,Management fee to Incofin IM 1.055m (1.181m 2024); tick445
+bud_incofin_imf_impair_loans_2025,incofin_mf_fund,2025,1493000,,,outturn,src_incofin_imf_ar_2025,strong,Loan portfolio impairments P&L 1.493m incl Bayport ~1.134m 50pct; tick445
+bud_incofin_imf_gen_prov_2025,incofin_mf_fund,2025,1087000,,,stock,src_incofin_imf_ar_2025,strong,General risk provision stock 1.087m; PAR90+restr 12.12pct; tick445
+bud_incofin_imf_vl_stake_2025,vlaanderen_gov,2025,1000000,,,stock,src_incofin_imf_ar_2025,strong,Vlaamse overheid Departement Internationaal Vlaanderen capital stake kEUR 1000 = 2pct of IMF capital; public L5 dual private co-op; tick445
+bud_incofin_imf_brs_stake_2025,brs_mfc,2025,1560000,,,stock,src_incofin_imf_ar_2025,strong,BRS Microfinance Coop still holds kEUR 1560 (3pct) at EOY2025 pre Jun2026 dissolve; dual BRS AR funds 1.6m; tick445
+bud_incofin_imf_partners_2025,incofin_mf_fund,2025,38,,,count,src_incofin_imf_ar_2025,strong,38 partner institutions in 25 countries; 3.3m end-clients 64pct women 51pct rural; tick445
+bud_incofin_imf_shareholders_2025,incofin_mf_fund,2025,2348,,,count,src_incofin_imf_ar_2025,strong,2348 shareholders (2205 retail + 143 institutional); tick445
+bud_incofin_imf_cumul_invest,incofin_mf_fund,2025,255000000,,,cumulative,src_incofin_imf_ar_2025,strong,Cumulative ~255m invested in 114 partners over ~10y (fund manager claim in AR perspectives); medium not annual; tick445
+bud_incofin_im_aum_usd_site,incofin_im,2024,1100000000,,,stock,src_incofin_opim_2025,medium,Incofin.com headline AUM ~USD 1.1bn as of 2024-12-31 claim; amount stores USD face no FX invent; dual OPIM 490m; tick445
+bud_incofin_im_opim_aum_usd,incofin_im,2024,490000000,,,stock,src_incofin_opim_2025,strong,OPIM Disclosure: Impact Principles-aligned AUM USD 490m FY2024 managed funds list; tick445
+bud_incofin_imf_lovcen_exit_2026,incofin_mf_fund,2026,1300000,,,flow,src_incofin_imf_ar_2025,strong,Lovcen Banka Montenegro equity exit Feb 2026 capital gain ~1.3m (~9pct return); post-balance; tick445
+bud_incofin_imf_fx_hedge_2025,incofin_mf_fund,2025,28744000,,,notional,src_incofin_imf_ar_2025,strong,FX hedge notional 28.744m = 65pct of loan portfolio; tick445
+bud_incofin_imf_banco_fie_2025,incofin_mf_fund,2025,8460000,,,stock,src_incofin_imf_ar_2025,strong,Banco FIE Bolivia equity book 8.460m largest named equity L5; stock dividends drive concentration; tick445
+bud_incofin_imf_op_costs_2025,incofin_mf_fund,2025,1232000,,,outturn,src_incofin_imf_ar_2025,strong,Operational costs 1.232m (mgmt fee 1.055 + other); tick445

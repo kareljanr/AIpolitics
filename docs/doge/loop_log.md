@@ -5195,3 +5195,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entities +3; budgets +33; cmt +2; lb +10; rq_435=done; spawn **rq_436**; ticks=444
 - FOI: none new (private co-op dissolve; dual stack now mapped public)
 - Next: prio5 **rq_436**; deferred **rq_116** SWA
+
+### 2026-08-02T13:15:00Z - tick 445
+- Unit: **rq_436** (FOI-adjacent hole-fill - **Incofin Microfinance Fund AR 2025 dual BRS/Alterfin + VL public stake**)
+- Found (strong primary Incofin IMF AR 2025 ENG PDF):
+  - **Capital EUR 49.953m** (-1.264m / -2.5pct) · **equity 53.496m** · **BS 65.541m** · **portfolio 62.441m** (equity 17.4 + sub 7.5 + loans 37.5)
+  - **Net loss 1.232m** (vs 0.658m 2024) · **dividend 0%** second year · mgmt fee Incofin IM **1.055m**
+  - **Shareholders 2,348** (retail 2,205 / inst 143) · partners **38** / countries **25** · end-clients **3.3m** (64% women / 51% rural)
+  - **Public L5:** Vlaamse overheid Departement Internationaal Vlaanderen **kEUR 1,000 (2%)** stake
+  - **BRS dual:** still **kEUR 1,560 (3%)** EOY2025 pre Jun-2026 dissolve (matches BRS fund 1.6m)
+  - **Tax-break abolition** capital drain dual Alterfin; PAR90+restr **12.12%** (was 4.98%); risk cov **111%**
+  - Named equity L5: Banco FIE **8.46m**; Lovcen exit Feb2026 gain **~1.3m**
+  - Manager: OPIM AUM **USD 490m** FY24 strong; site broader **~USD 1.1bn** medium
+- Wrote: sources +2; entity incofin_im + update IMF; budgets +24; cmt +1; lb +10; rq_436=done; spawn **rq_437**; ticks=445
+- FOI: none new (AR public; multi-year VL stake acquisition path optional low-prio residual)
+- Next: prio5 **rq_437**; deferred **rq_116** SWA
