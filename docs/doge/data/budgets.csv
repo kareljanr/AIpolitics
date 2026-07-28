@@ -7791,3 +7791,40 @@ bud_dgd_cgiar_2025,dgd,2025,9300000,,,outturn,src_dgd_ar_2025_l5_tick441,strong,
 bud_dgd_sahel_climate_enabel,enabel,2025,50000000,,,commitment,src_dgd_ar_2025_l5_tick441,medium,Sahel Climate programme via Enabel 50.0m envelope AR p11 (agroecology women/youth; multi-year class); tick441
 bud_dgd_mrna_htap_4y,dgd,2025,8000000,,,commitment,src_dgd_ar_2025_l5_tick441,medium,mRNA tech transfer + HTAP Belgium commitment 8.0m over 4 years (>60pct mRNA/HTAP) AR p13; tick441
 bud_bio_approvals_2025_ar,bio_invest,2025,240000000,,,commitment,src_dgd_ar_2025_l5_tick441,strong,BIO approvals 240.0m / 30 projects 2025 DGD AR p15 (dual prior AR financials 235m); tick441
+bud_bio_approvals_2025_ar25,bio_invest,2025,235000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO approvals 235.0m / 30 projects 2025 AR (dual DGD AR 240m); tick442
+bud_bio_signed_2025,bio_invest,2025,166000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO signed investments 166.0m / 21 projects 2025; tick442
+bud_bio_committed_stock_2025,bio_invest,2025,1200000000,,,stock,src_bio_ar2025_l5_named,strong,BIO committed portfolio stock 1200.0m / 171 projects EOY2025 class (+10pct YoY); tick442
+bud_bio_signed_stock_2025,bio_invest,2025,1033000000,,,stock,src_bio_ar2025_l5_named,strong,BIO signed investments stock 1033.0m 2025; tick442
+bud_bio_income_2025_ar,bio_invest,2025,55300000,,,outturn,src_bio_ar2025_l5_named,strong,BIO total income 55.3m 2025; tick442
+bud_bio_net_margin_2025,bio_invest,2025,40200000,,,outturn,src_bio_ar2025_l5_named,strong,BIO net margin 40.2m 2025; tick442
+bud_bio_cost_of_risk_2025_ar,bio_invest,2025,20100000,,,outturn,src_bio_ar2025_l5_named,strong,BIO cost of risk 20.1m 2025; tick442
+bud_bio_fx_result_2025,bio_invest,2025,-5900000,,,outturn,src_bio_ar2025_l5_named,strong,BIO FX result -5.9m 2025 (EUR appreciation); tick442
+bud_bio_net_profit_2025_ar,bio_invest,2025,9000000,,,outturn,src_bio_ar2025_l5_named,strong,BIO net profit 9.0m 2025; dual prior; tick442
+bud_bio_dividend_2025_ar,bio_invest,2025,4500000,,,budgeted,src_bio_ar2025_l5_named,strong,BIO proposed dividend to Belgian State 4.5m 2025 (2nd consecutive year); tick442
+bud_bio_retained_earnings_2025,bio_invest,2025,34900000,,,stock,src_bio_ar2025_l5_named,strong,BIO retained earnings 34.9m 2025; tick442
+bud_bio_equity_increase_2025,bio_invest,2025,16700000,,,outturn,src_bio_ar2025_l5_named,strong,BIO equity increase 16.7m 2025 (capital grants + subsidy results + RE); tick442
+bud_bio_jobs_direct_2024,bio_invest,2025,388000,,,estimate,src_bio_ar2025_l5_named,medium,BIO portfolio direct jobs ~388000 EOY2024 (headcount not EUR); tick442
+bud_bio_mgmt_contract_5y,bio_invest,2025,1200000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO investment strategy 2024-28 expected ~1200.0m capital approvals ~150 projects class; tick442
+bud_bio_capital_subsidies_85m,bio_invest,2025,85000000,,,commitment,src_bio_ar2025_l5_named,medium,Belgian State capital subsidies extra 85.0m for higher risk/impact under mgmt contract 2024-28; tick442
+bud_bio_l5_acep_group_2025,bio_invest,2025,1500000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named loan ACEP Group pan-African microfinance BF/Niger/MG/CM: 1.5m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_coris_holding_2025,bio_invest,2025,20000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named equity Coris Holding banking group Francophone West Africa: 20.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_fefisol_ii_2025,bio_invest,2025,2000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named follow_on FEFISOL 2 fund rural financial inclusion Africa: 2.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_foodsco_2025,bio_invest,2025,3000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named loan Foods'Co Ivorian food processing: 3.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_glacier_products_2025,bio_invest,2025,8000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named loan Glacier Products Kenya dairy: 8.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_kampani_2025,kampani,2025,2000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named equity Kampani Belgian impact fund smallholder farming: 2.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_limbua_group_2025,bio_invest,2025,2000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named loan Limbua Group Kenya macadamia mango avocado: 2.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_orchidia_2025,bio_invest,2025,10000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named equity Orchidia Pharmaceutical Industries Egypt ophthalmic generics: 10.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_vital_finance_2025,bio_invest,2025,3000000,,,commitment,src_bio_ar2025_l5_named,strong,BIO named loan Vital Finance Benin microfinance: 3.0m EUR 2025 AR approved/signed list; tick442
+bud_bio_l5_adenia_ef_ii_2025_usd,bio_invest,2025,15000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named equity Adenia Entrepreneurial Fund II Africa SME: 15.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_amartha_2025_usd,bio_invest,2025,15000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan Amartha Indonesia microfinance fintech: 15.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_banco_atlantida_sv_2025_usd,bio_invest,2025,15000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan Banco Atlantida El Salvador SME: 15.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_banco_ademi_2025_usd,bio_invest,2025,15000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan Banco Multiple ADEMI Dominican MSME: 15.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_banco_popular_hn_2025_usd,bio_invest,2025,1500000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named equity Banco Popular Honduras microfinance additional: 1.5m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_bandwidth_cloud_2025_usd,bio_invest,2025,15000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan Bandwidth and Cloud Services optic fiber SSA 7 markets: 15.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_ecom_2025_usd,bio_invest,2025,10000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan ECOM Agroindustrial coffee cocoa cotton nuts: 10.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_excelsior_vn_ii_2025_usd,bio_invest,2025,15000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named equity Excelsior Capital Vietnam Partners II: 15.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_helios_clear_2025_usd,bio_invest,2025,10000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named equity Helios CLEAR Fund climate Africa: 10.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_lendable_msme_2_2025_usd,bio_invest,2025,10000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named equity Lendable MSME Fintech Credit Fund 2: 10.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_super_silica_2025_usd,bio_invest,2025,3700000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan Super Silica Bangladesh green precipitated silica: 3.7m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_l5_ukraine_rebuild_fund_2025_usd,bio_invest,2025,6000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named investment Rebuilding Ukraine Fund second Ukraine investment: 6.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
+bud_bio_named_eur_sum_sample_2025,bio_invest,2025,51500000,,,derived,src_bio_ar2025_l5_named,strong,Sum of named EUR-denominated sample L5 51.5m of approvals 235m (partial list not full 30); tick442

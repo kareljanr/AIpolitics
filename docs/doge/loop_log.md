@@ -5155,3 +5155,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +48; cmt +1; lb +10; foi gap_dgd note; rq_432=done; spawn **rq_433**; ticks=441
 - FOI: gap_dgd_l5_projects residual narrowed (project-level still ready human send)
 - Next: prio5 **rq_433**; deferred **rq_116** SWA
+
+### 2026-08-02T11:45:00Z - tick 442
+- Unit: **rq_433** (FOI-adjacent hole-fill - **BIO AR 2025 named investment L5 + dual Kampani**)
+- Found (strong primary BIO Annual Report 2025 web):
+  - **Approvals €235m / 30** projects (signed **€166m / 21**); committed stock **€1.2bn / 171**; signed stock **€1.033bn**
+  - Financials: assets **€1.196bn** · income **55.3** · cost of risk **20.1** · FX **−5.9** · net **9.0** · dividend **4.5**
+  - Africa **55%** approvals · gender **57%** of 2024-25 · direct enterprise **11** (vs 2) · jobs direct **~388k** EOY2024
+  - **Named EUR L5:** Coris **20** · Orchidia **10** · Glacier **8** · FoodsCo **3** · Vital **3** · Kampani **2** · Limbua **2** · FEFISOL **2** · ACEP **1.5** (sample sum **€51.5m**)
+  - **Named USD face L5:** multiple **15m** lines (Adenia/Amartha/Atlántida/ADEMI/Bandwidth/Excelsior) · ECOM **10** · Helios **10** · Lendable **10** · Super Silica **3.7** · Ukraine fund **6** (no FX invent)
+  - Dual: DGD AR **240m** approvals class; State capital subsidies extra **€85m** strategy 2024-28
+- Wrote: sources +1; entity kampani; budgets +37; cmt +1; lb +9; foi gap_bio note; rq_433=done; spawn **rq_434**; ticks=442
+- FOI: gap_bio_l5_portfolio residual narrowed (named sample public; full outstanding+impairments still ready)
+- Next: prio5 **rq_434**; deferred **rq_116** SWA
