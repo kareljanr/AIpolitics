@@ -8935,3 +8935,28 @@ bud_fod_fin_personnel_drag_433m_2029,sec_federal,2029,433000000,,,budgeted,src_c
 bud_regions_eu_mfk_500m_2028,sec_federal,2028,500000000,,,budgeted,src_ccrek_fed_aju_defence_fedasil_l5_2026,weak,Regions EU MFK contribution 500m/yr from 2028 booked; no deal with entities; tick513
 bud_me_conflict_effort_cumul_67bn_2029,sec_federal,2029,6700000000,,,derived,src_ccrek_fed_aju_defence_fedasil_l5_2026,medium,ME conflict macro sensitivity cumulative efforts ~6.7bn to end-2029 (BOSA 15 Apr); tick513
 bud_dual_defence_fedasil_2026,gg_belgium,2026,1268000000,,,derived,src_dual_defence_fedasil_tick513,strong,Dual defence asset optim 1.27bn schedule + Fedasil save gap 61m; tick513
+bud_fed_consultancy_total_2525m_2020_22,sec_federal,2022,2524700000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Federal consultancy total 2524.7m incl VAT 2020-22 CoA survey 101 orgs; tick514
+bud_fed_consultancy_it_2032m_2020_22,sec_federal,2022,2032300000,,,outturn,src_ccrek_consultancy_fed_2025,strong,IT consultancy 2032.3m (81pct of total) 2020-22; tick514
+bud_fed_consultancy_nonit_492m_2020_22,sec_federal,2022,492400000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Non-IT consultancy 492.4m (19pct) 2020-22; tick514
+bud_fed_consultancy_inhouse_619m_2020_22,sec_federal,2022,619200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,In-house federal-to-federal consultancy 619.2m 2020-22; tick514
+bud_fed_consultancy_contracts_19bn_2020_22,sec_federal,2022,1900000000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Other agreements/procurement consultancy ~1.9bn 2020-22; tick514
+bud_fed_consultancy_avg_annual_841m,sec_federal,2021,841600000,,,derived,src_ccrek_consultancy_fed_2025,medium,Illustrative avg annual 2524.7/3 ~841.6m 2020-22 class; not true yearly series; tick514
+bud_cons_nmbs_465m_2020_22,nmbs,2022,465100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,NMBS consultancy 465.1m 2020-22 (IH 104.2 + AO 360.9; 9pct purchases); tick514
+bud_cons_infrabel_319m_2020_22,infrabel,2022,318500000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Infrabel consultancy 318.5m 2020-22 (IH 40 + AO 278.5; 12pct); tick514
+bud_cons_fod_fin_185m_2020_22,sec_federal,2022,185300000,,,outturn,src_ccrek_consultancy_fed_2025,strong,FOD Financien consultancy 185.3m 2020-22 (22pct purchases); tick514
+bud_cons_fod_bosa_134m_2020_22,sec_federal,2022,134200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,FOD BOSA consultancy 134.2m 2020-22 (45pct purchases); tick514
+bud_cons_niras_129m_2020_22,niras,2022,129100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,NIRAS consultancy 129.1m 2020-22 (16pct); tick514
+bud_cons_smals_buyer_126m_2020_22,smals,2022,126100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Smals as buyer consultancy 126.1m 2020-22 (79pct of its purchase budget); tick514
+bud_cons_riziv_116m_2020_22,riziv,2022,115500000,,,outturn,src_ccrek_consultancy_fed_2025,strong,RIZIV consultancy 115.5m 2020-22 (48pct); tick514
+bud_cons_fod_health_70m_2020_22,sec_federal,2022,70100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,FOD Volksgezondheid consultancy 70.1m 2020-22; tick514
+bud_cons_kanselarij_68m_2020_22,sec_federal,2022,68200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,FOD Kanselarij+CCB+FIA+DAV+FIDO+PM cabinets consultancy 68.2m 2020-22; tick514
+bud_cons_credendo_62m_2020_22,sec_federal,2022,61500000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Nationale Delcrederedienst consultancy 61.5m 2020-22 (47pct); tick514
+bud_cons_top12_dossier_14bn_2020_22,sec_federal,2022,1400000000,,,outturn,src_ccrek_consultancy_fed_2025,strong,12 dossier orgs consultancy 1.4bn 2020-22 (top10 1.3bn + Smals/Egov 126.3); tick514
+bud_cons_nuclear_nonit_215m_2020_22,sec_federal,2022,215200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Nuclear sector non-IT consultancy 215.2m (44pct of non-IT); tick514
+bud_cons_strategy_mgmt_87m_2020_22,sec_federal,2022,87200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Strategy/management/org consultancy 87.2m 2020-22; tick514
+bud_cons_construction_72m_2020_22,sec_federal,2022,72000000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Construction consultancy 72.0m 2020-22; tick514
+bud_cons_sample_101_contracts_22bn,sec_federal,2022,2200000000,,,outturn,src_ccrek_consultancy_fed_2025,strong,101 consultancy contracts sample 2020-22 spend 2.2bn incl VAT legality review; tick514
+bud_cons_gov_enterprises_843m_2020_22,sec_federal,2022,842700000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Public enterprises (rail) consultancy users 842.7m 2020-22; tick514
+bud_cons_central_admin_713m_2020_22,sec_federal,2022,713200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Central administration consultancy users 713.2m 2020-22; tick514
+bud_cons_oisz_523m_2020_22,sec_ss,2022,523100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,OISZ social security institutions consultancy users 523.1m 2020-22; tick514
+bud_dual_consultancy_it_2020_22,gg_belgium,2022,2524700000,,,derived,src_dual_consultancy_it_tick514,strong,Dual consultancy 2.5bn stack vs IT mega-failures; tick514

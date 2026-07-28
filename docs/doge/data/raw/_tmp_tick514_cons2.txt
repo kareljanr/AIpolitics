@@ -1,0 +1,982 @@
+﻿===PAGE 21 ===
+Hoofdstuk 2
+Inventaris van de prestaties 
+In dit hoofdstuk 2 onderzoekt het Rekenhof in hoeverre de federale overheid beschikt over een 
+transversale, exhaustieve en betrouwbare inventaris van de consultancyprestaties die voor haar 
+worden uitgevoerd. Het Rekenhof analyseert eerst of en hoe de notie van consultancy is gedefini┬¡
+eerd op federaal niveau. Vervolgens analyseert het de gegevens die de federale organisaties heb┬¡
+ben meegedeeld over het gebruik van consultancy, zoals respectievelijk de behoeften, domeinen 
+en kosten van die prestaties.
+2.1 
+Moeilijkheden om consultancy als begrip af te bakenen
+Zoals uitgelegd in punt 1.1, is het moeilijk om consultancy als begrip nauwkeurig af te bakenen 
+aangezien het parlement of de regering er geen eenduidige definitie van heeft vastgelegd. Een 
+heldere en eenduidige definitie is evenwel een must om coherente gegevens te vergaren voor een 
+volledige en betrouwbare inventaris en om een gestructureerde strategie en sturing op dat vlak 
+op te zetten.
+In het kader van deze audit hanteerde het Rekenhof een ruime definitie van consultancy, name┬¡
+lijk: alle intellectuele prestaties voor advies en operationele ondersteuning. 
+2.1.1 
+Verscheidenheid van de door de geauditeerde federale organisaties gehanteerde 
+definities 
+De mate waarin de definitie van consultancy is geformaliseerd, evenals de formulering en inhoud 
+van de definitie, vari├½ren per geauditeerd federale organisatie: sommige gebruiken een ruime de┬¡
+finitie gebaseerd op hun behoeften, andere geven een nauwkeuriger omschrijving, bijvoorbeeld 
+op basis van de budgettaire aanrekeningen.
+De opdrachten die aan consultants worden toevertrouwd zijn redelijk uiteenlopend. Het gaat om 
+projectbeheer, ontwikkeling van nieuwe toepassingen, en prestaties waarvoor voortdurende be┬¡
+schikbaarheid nodig is, zoals onderhoud en operationele opdrachten om personeelstekorten op te 
+vangen. Voor sommige IT-noden doen de organisaties bovendien een beroep op detachering van 
+Smals- of Egov-personeel (zie hoofdstuk 5). 
+Het Rekenhof stelt bijgevolg vast dat er bij de geauditeerde federale organisaties geen gemeen┬¡
+schappelijke en eenduidige definitie van consultancy voorhanden is. De verschillende omschrij┬¡
+vingen weerspiegelen vooral de verscheidenheid aan prestaties die consultants leveren. 
+2.1.2 
+Vaststellingen van andere hoge controle-instellingen 
+De Europese Rekenkamer voerde een audit uit naar prestaties die in het centrale systeem voor 
+budgettaire en boekhoudkundige informatie van de Europese Commissie worden geboekt 
+als advies-, studie-, evaluatie- of onderzoeksdiensten, met uitzondering van diensten voor IT-
+ondersteuning. Ondanks de creatie van die verschillende categorie├½n van juridische verbintenissen 
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 20
+
+
+===PAGE 22 ===
+in het systeem stelde de Europese Rekenkamer vast dat de overeenkomsten niet altijd correct 
+waren geregistreerd wegens het ontbreken van details over wat onder de belangrijkste categorie├½n 
+voor consultancyuitgaven (advies en onderzoek) valt.
+In juli 2023 publiceerde het Franse Rekenhof op voorstel van een burgerinitiatief10 een verslag 
+over het beroep van de Staat op intellectuele prestaties van consultancybureaus, met inbegrip van 
+sommige IT-prestaties (ondersteuning bij het beheer van IT-projecten). Het beveelt aan om ├⌐├⌐n 
+enkele en stabiele definitie aan te nemen voor intellectuele prestaties besteld bij priv├⌐bedrijven, 
+duidelijke regels vast te stellen voor de aanrekening van de uitgaven, en de budgettaire en boek┬¡
+houdkundige instrumenten en referentiestelsels aan te passen.
+2.1.3 
+Audit van de Vlaamse Gemeenschap
+Op verzoek van het Vlaams Parlement onderzocht het Rekenhof in 2023 de uitgaven in verband 
+met overheidsopdrachten voor consultancy, geplaatst tijdens de legislatuur 2019-202411. Sinds me┬¡
+dio 2021 hanteert de Vlaamse Gemeenschap drie nieuwe, specifieke subrekeningen voor kosten 
+om consultancyprestaties te boeken. De verklaringen van de ministers over de hoogte van de 
+consultancyuitgaven, gebaseerd op de informatie uit het boekhoudsysteem, stemden echter niet 
+overeen. Het Rekenhof stelde vast dat die verschillen het gevolg waren van de manier waarop de 
+ministers de boekhoudkundige gegevens filterden, waarbij ze verschillende selectiemethodes ge┬¡
+bruikten. Het Rekenhof was van oordeel dat die verschillen onder meer te verklaren waren door 
+het feit dat er geen definitie van consultancy voorhanden was.
+Om die tekortkoming weg te werken bepaalde de Vlaamse Adviescommissie Boekhoudkundige 
+Normen een definitie in augustus 2024: ΓÇÿConsultancy is: de praktijk van het geven van deskundig 
+advies of het verlenen van expertise binnen een bepaald vakgebied door een onafhankelijke partij, be┬¡
+perkt in tijd, en waarbij de dienst in hoofdzaak betrekking heeft op adviesΓÇÖ. Ze omvat niet de operati┬¡
+onele of reguliere diensten. In het geval van een gemengde opdracht (met een operationeel luik), 
+vraagt de commissie om rekening te houden met het hoofdvoorwerp van de opdracht. De bij wet 
+geregelde ΓÇÿverplichteΓÇÖ expertiseopdrachten worden niet beschouwd als consultancyopdrachten, 
+behalve wanneer die adviezen en expertise op ΓÇÿvrijblijvendeΓÇÖ basis worden ingeroepen. Op die 
+manier zijn de prestaties voor de certificering van de rekeningen, toevertrouwd aan een rekening┬¡
+commissaris, uitgesloten.
+2.1.4 
+Analyse door het Rekenhof
+De inzet van consultancy zou het voorwerp moeten uitmaken van een specifieke opvolging. 
+Bijgevolg moet nauwkeurig worden omschreven wat onder consultancyprestaties valt, maar is er 
+ook een transversale, exhaustieve en betrouwbare inventaris nodig van die prestaties op federaal 
+niveau. De gegevens over en de hoogte van de uitgaven voor die prestaties zouden onmiddellijk 
+beschikbaar moeten zijn om de vereiste transparantie te garanderen en om de beslissingsorganen 
+in staat te stellen de strategie op dit vlak aan te sturen (zie┬áhoofdstuk 3).
+10	 Cour des comptes (Frankrijk), Le recours par lΓÇÖ├ëtat aux prestations intellectuelles de cabinets de conseil, mei 2023, 149 p., 
+www.ccomptes.fr.
+11	 Rekenhof, Consultancyopdrachten van de Vlaamse overheid, verslag aan het Vlaams Parlement, maart 2024, 84 p., 
+rekenhof.be.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 21
+
+
+===PAGE 23 ===
+Het Rekenhof is van oordeel dat de definitie van de Inspectie van Financi├½n, die is gebaseerd op 
+een selectie aan CPV-codes (Common Procurement Vocabulary, zie punt 1.1.2), een goede praktijk 
+vormt. Ze maakt het mogelijk de bedoelde prestaties op een eenvormige en omstandige manier te 
+identificeren. Ze blijft wel beperkend omdat ze bijvoorbeeld het domein van de informatietechno┬¡
+logie niet dekt.
+Aanbeveling 1
+Om een gecentraliseerde inventaris mogelijk te maken, eenvormig defini├½ren wat onder con┬¡
+sultancyprestaties op federaal niveau wordt verstaan en die definitie verder uitsplitsen in 
+verschillende categorie├½n volgens de aard van de activiteiten.
+2.2 
+Beschikbaarheid en kwaliteit van de gegevens over consultancy 
+2.2.1 
+Ontbreken van een exhaustieve en gecentraliseerde inventaris
+Het Rekenhof stelt vast dat er geen gecentraliseerde, exhaustieve en betrouwbare inventaris be┬¡
+staat van de consultancyprestaties in opdracht van de federale Staat. Bijgevolg heeft die geen glo┬¡
+baal en direct zicht op de prestaties.
+Er zijn bovendien geen transversale instructies voor de gegevens die over die prestaties moe┬¡
+ten worden verzameld. Het gevolg is dat de praktijken van de geauditeerde organisaties niet 
+overeenstemmen.
+Sinds juli 2024 heeft de FOD BOSA de opdracht om een inventaris van de consultancyprestaties 
+op te stellen12, maar die is beperkt tot bepaalde prestaties (zie punt 1.1.2) en omvat niet het IT-
+domein, overeenkomstig de aanbevelingsnota van de Inspectie van Financi├½n. Bovendien bevat 
+hij enkel de bestellingen door de actieve deelnemers, dat wil zeggen de aanbesteders die verplicht 
+deelnemen aan het federaal aankoopbeleid (de FODΓÇÖs en PODΓÇÖs, de Federale Politie en Defensie). 
+De inventaris van de FOD BOSA wordt gerealiseerd aan de hand van het e-Procurement-platform 
+op basis van CPV-codes (zie punt 1.1.2). De betrokken organisaties kunnen hem daarna vervolledi┬¡
+gen of aanpassen. Er kunnen andere CPV-codes worden toegevoegd.
+2.2.2 
+Gebruik van inventarissen van overheidsopdrachten 
+Een inventaris van de consultancyopdrachten zou kunnen worden gerealiseerd op basis van de 
+inventaris van de overheidsopdrachten van de organisaties. Bij acht van de tien geauditeerde or┬¡
+ganisaties zijn zulke inventarissen van overheidsopdrachten beschikbaar. Bij vijf daarvan zijn ze 
+gecentraliseerd bij de organisatie.
+Geen enkele van die inventarissen biedt echter een globaal, direct en volledig zicht op alle over┬¡
+heidsopdrachten en hun basisgegevens (voorwerp, plaatsingsprocedure, gunningsdatum, gun┬¡
+ningsbedrag, looptijd, opdrachtnemer, CPV-code). Bovendien bevatten de inventarissen fouten 
+en incoherenties.
+12	 FOD BOSA, Handleiding monitoring consultancy-opdrachten, december 2024.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 22
+
+
+===PAGE 24 ===
+2.2.3 
+Gebruik van de boekhoud- en beheersoftware 
+2.2.3.1	
+Fedcom
+Sommige geauditeerde organisaties gebruiken hun boekhoudtoepassing om bepaalde gegevens 
+omtrent de overheidsopdrachten op te volgen via het proces voor de validering van de uitgaven, 
+onder meer met het boekhoudprogramma Fedcom. Sinds 1 januari 2012 is de wet van 22 mei 2003 
+houdende organisatie van de begroting en van de comptabiliteit van de federale Staat van toepas┬¡
+sing op alle diensten van het algemeen bestuur. De verrichtingen bij de ontvangsten en de uitga┬¡
+ven worden geboekt in Fedcom, rechtstreeks of via een interface.
+Fedcom biedt echter niet de mogelijkheid om alle geregistreerde uitgaven rechtstreeks en sys┬¡
+tematisch aan een overheidsopdracht of aan een overeenkomst te koppelen13. Bovendien is de 
+kwaliteit van de gegevens afhankelijk van de manier waarop de organisaties ze invoeren. Fedcom 
+bevat verder niet de gegevens van de andere federale organisaties die niet verplicht zijn om het 
+programma te gebruiken. Tot slot worden kosteloos geleverde consultancyprestaties niet opgeno┬¡
+men. Fedcom volstaat dus niet als bron om een adequate opvolging van de consultancygegevens 
+te verzekeren.
+2.2.3.2	 e-Procurement
+Een andere mogelijke bron om consultancygegevens te verzamelen en op te volgen is het offici├½le 
+e-Procurement-platform. Dat werd met toepassing van een Europese richtlijn14 ontwikkeld door 
+de FOD BOSA en biedt de (federale, gewestelijke en lokale) aanbesteders en de ondernemingen de 
+mogelijkheid om de plaatsing en uitvoering van overheidsopdrachten elektronisch te organiseren, 
+te beheren en op te volgen. De FOD BOSA gebruikt het om data te verzamelen in het kader van de 
+inventaris van bepaalde consultancyprestaties op verzoek van de ministerraad (zie punt 1.1.2). Het 
+e-Procurement-platform bevat geen informatie over in-houserelaties.
+Het platform is afgestemd op overheidsopdrachten, maar het kan niet worden aangewend om een 
+globale en exhaustieve inventaris van consultancygegevens op te maken voor het geheel van de 
+federale Staat. Het gebruik ervan is immers alleen verplicht voor een aantal federale organisaties, 
+namelijk het algemeen bestuur en de ADBAΓÇÖs15. In de praktijk maken andere federale organisaties 
+er vrijwillig gebruik van. Daarnaast bevat het platform niet alle door de federale organisaties ge┬¡
+plaatste opdrachten. Zo worden voor de opdrachten van beperkte waarde slechts enkele gegevens 
+a posteriori ingevoerd in het kader van de rapportering, zodat het voorwerp van de opdracht en 
+dus de consultancyprestaties niet kunnen worden ge├»dentificeerd. Ten slotte zijn sommige velden 
+niet verplicht in te vullen voor de ingevoerde opdrachten.
+De FOD BOSA wijst erop dat er ontwikkelingen aan de gang zijn om het platform te verbeteren.
+13	 Zie met name Rekenhof, Centralisatie van de federale aankopen. Evaluatie van het overheidsbeleid via de invoering van het 
+nieuwe gemeenschappelijke samenwerkingsmodel, verslag aan de Kamer van Volksvertegenwoordigers, Brussel, janua┬¡
+ri┬á2022, 66 p., rekenhof.be.
+14	 Richtlijn 2004/18/EG van het Europees Parlement en de Raad van┬á31 maart 2004 betreffende de co├╢rdinatie van de proce┬¡
+dures voor het plaatsen van overheidsopdrachten voor werken, leveringen en diensten.
+15	 FOD P&O en Kanselarij van de Eerste Minister, 30 november 2012, Omzendbrief P&O/2012/e-Proc. ΓÇô Overheidsopdrachten ΓÇô 
+Gebruik van de e-Procurement-toepassingen door de diensten van de federale Staat, Belgisch Staatsblad van 7 december 2012, 
+p. 79180-79189, www.ejustice.just.fgov.be.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 23
+
+
+===PAGE 25 ===
+2.2.4 
+Bekendmakingsverplichting voor de overheidsdiensten 
+De beschikbaarheid van de consultancygegevens zou kunnen worden verbeterd dankzij het nieu┬¡
+we artikel 3/3 van de wet van 11 april 1994 betreffende de openbaarheid van bestuur16. De federale 
+overheidsdiensten, dat wil zeggen de federale administratieve overheden in de zin van artikel 14 
+van de geco├╢rdineerde wetten op de Raad van State, zullen op hun website een inventaris open┬¡
+baar moeten maken van de overheidsopdrachten die het voorgaande jaar zijn gesloten, met ver┬¡
+melding van de opdrachtnemer en het vastgelegde bedrag.
+Ze zullen ook een inventaris moeten publiceren van de studies die voor hun rekening zijn gereali┬¡
+seerd, voor zover ze zijn verricht door een externe partner. De inventaris moet voor elke studie de 
+identiteit van de auteur vermelden (de naam van de rechtspersoon of natuurlijke persoon aan wie 
+de studie is toevertrouwd) evenals de kosten van de studie.
+In-houserelaties vallen niet onder de bekendmakingsverplichting. 
+Het Rekenhof stelt vast dat er nog geen koninklijk uitvoeringsbesluit is dat de inwerkingtredings┬¡
+datum van de nieuwe wettelijke bepaling en eventuele praktische nadere regels vastlegt.
+Aanbeveling 2 
+Een gecentraliseerde en volledige inventaris opstellen van consultancyprestaties voor de 
+federale Staat, met daarin minstens de volgende gegevens: voorwerp, plaatsingsprocedure, 
+gunningsdatum, gunningsbedrag, looptijd, opdrachtnemer, CPV-code.
+Een koninklijk besluit aannemen dat het nieuwe artikel 3/3 van de wet van 11 april 1994 be┬¡
+treffende de openbaarheid van bestuur in werking doet treden. 
+2.3 
+Boekhoudkundige aanrekening van consultancyuitgaven 
+In principe moet het boekhoudplan de nodige rekeningen en subrekeningen bevatten om de 
+consultancyuitgaven te kunnen aanrekenen volgens de economische aard ervan. In het algeme┬¡
+ne boekhoudplan (het zogenoemde genormaliseerd boekhoudplan of GBP)17 bevat rubriek 610 
+ΓÇÿErelonen, vergoedingen voor geleverde diensten en terugbetaling van loonkosten, verschuldigd aan 
+andere derden dan personeelsleden en ermee gelijkgestelde personenΓÇÖ rekeningen en subrekeningen 
+om de consultancyprestaties op aan te rekenen. Die zijn evenwel niet nauwkeurig genoeg om die 
+prestaties duidelijk te identificeren.
+Er is een extra onderverdeling nodig binnen elke rekening om de consultancyprestaties te iden┬¡
+tificeren. In subrekening 610310 ΓÇÿErelonen en vergoedingen voor geleverde diensten van advocaten 
+en gerechtsdeurwaardersΓÇÖ worden consultancyprestaties en andere prestatietypes bijvoorbeeld niet 
+duidelijk uit elkaar gehouden. Zo worden adviesprestaties niet onderscheiden van vertegenwoordi┬¡
+gingen bij rechtbanken. Hetzelfde geldt voor de prestaties in subrekening 610110 ΓÇÿErelonen en vergoe┬¡
+dingen voor geleverde diensten inzake nazicht van de boekhouding, deskundig onderzoek en studiesΓÇÖ. 
+16	 Wet van 12 mei 2024 tot wijziging van de wet van 11 april 1994 betreffende de openbaarheid van bestuur en tot opheffing 
+van de wet van 12 november 1997 betreffende de openbaarheid van bestuur in de provincies en gemeenten.
+17	 Koninklijk besluit van 10 november 2009 tot vaststelling van het boekhoudplan van toepassing op de federale Staat en op 
+de gemeenschappen, de gewesten en de gemeenschappelijke gemeenschapscommissie.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 24
+
+
+===PAGE 26 ===
+Met subrubriek 6159 kunnen prestaties voor IT-consultancy worden aangerekend, maar zonder 
+definitie van dat begrip valt niet eenvoudig te bepalen welke prestaties op die rubriek moeten 
+worden aangerekend. 
+Het Rekenhof wijst op de goede praktijk bij de NMBS, dat subrekeningen heeft uitgesplitst in 
+aparte categorie├½n om de types consultancyprestaties te identificeren. Evenzo onderscheidt de 
+Vlaamse Gemeenschap twee categorie├½n waarbij consultancyuitgaven het vaakst voorkomen: hu┬¡
+manresourcesmanagement (HRM) en informatie- en communicatietechnologie (ICT). Sinds 2021 
+gebruikt ze drie nieuwe, specifieke subrekeningen voor kosten om die uitgaven aan te rekenen 
+(HRM, ICT en andere consultancyopdrachten) zodat ze makkelijk kunnen worden ge├»dentificeerd 
+wanneer een verslag wordt gevraagd18 (zie punt 2.1.3). 
+Het Rekenhof stelt vast dat er op federaal niveau geen gemeenschappelijke richtlijnen zijn voor 
+de boekhoudkundige aanrekening van consultancyprestaties. Dergelijke richtlijnen zouden even┬¡
+wel nodig zijn om een exhaustieve inventaris van de consultancyprestaties op te maken vertrek┬¡
+kend van een uniforme basis, en om daarover transparant te kunnen informeren in de financi├½le 
+overzichten. 
+Aanbeveling 3
+Duidelijke richtlijnen opstellen voor de aanrekening van de uitgaven voor consultancyprestaties.
+2.4 
+Inschatting van het volume en de aard van de uitgaven 
+Omdat een inventaris van de consultancyprestaties op federaal niveau ontbreekt, heeft het 
+Rekenhof er zelf een opgesteld aan de hand van gegevens die het verzameld heeft bij de federale 
+organisaties (zie punt 1.2.3.1).
+Door het grote aantal organisaties, het volume aan data en het declaratief karakter ervan, kan de 
+kwaliteit van de gegevens niet worden gegarandeerd. Bovendien vulden de bevraagde organisa┬¡
+ties niet alle gevraagde informatie in en hanteren ze uiteenlopende interpretaties van het begrip 
+consultancy. Daarnaast werden incoherenties en manifeste fouten aangetroffen in de antwoorden, 
+zoals de vermelding van een plaatsingsprocedure terwijl wordt aangegeven dat de prestatie niet 
+onder de overheidsopdrachtenregelgeving valt.
+De totale kosten voor de inzet van consultancy op federaal niveau kunnen dus niet nauwkeu┬¡
+rig worden bepaald, maar dankzij de verzamelde gegevens kunnen ze wel bij benadering wor┬¡
+den ingeschat. De details over die kosten moeten dus met de nodige omzichtigheid worden 
+ge├»nterpreteerd.
+2.4.1 
+Totale kosten 
+Het Rekenhof verzamelde 98 lijsten voor 101 federale organisaties (voor drie ADBAΓÇÖs en beleids┬¡
+organen zijn de gegevens ge├»ntegreerd in die van de FOD waarvan ze afhangen). Over drie jaar 
+(tussen 2020 en 2022) zijn voor 619,2 miljoen euro incl. btw consultancyprestaties aangegeven in 
+het kader van een in-houserelatie tussen federale organisaties, en voor 1,9┬ámiljard euro incl. btw 
+andere prestaties voortvloeiend uit een overeenkomst of overheidsopdracht.
+18	 Departement Financi├½n en Begroting van de Vlaamse Gemeenschap, Handleiding voor de Boekhoudregels, 
+handleidingboekhoudregels.fenb.be.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 25
+
+
+===PAGE 27 ===
+Voor alle types prestaties samen gaat het over een bedrag van in totaal 2,5 miljard euro incl. btw, 
+waarvan 2┬ámiljard euro voor IT-prestaties.
+Grafiek 1┬áΓÇô Consultancyuitgaven per gebruikerscategorie over drie jaar, van 2020 tot 2022
+(in miljoen euro incl. btw)19
+113,6
+600,0
+729,1    129,1
+    98,4
+Niet-IT
+IT
+103,8
+9,5
+51,1
+193,9
+8,6
+0,002
+6,4
+4,6
+6,3
+38,1
+3,1
+10,4
+    408,1
+    201,3
+609,4
+    288,9
+    223,4
+512,3
+54,4
+10,8
+38,2
+25,7
+3,3
+0,8
+14,0
+6,0
+0,3
+0,2
+0,7
+37,9
+5,7
+7,4
+3,0
+0,6
+1,7
+2,3
+0,002
+55,9
+52,2
+IT - in house (IH)
+IT -  andere overeenkomsten / overheidsopdrachten (AO / OO)
+Niet-IT - in house (IH)
+Niet-IT -  andere overeenkomsten / overheidsopdrachten (AO / OO)
+    168,2
+15,2
+0,4
+    103,4
+55,1
+Overheidsbedrijven
+Centraal bestuur
+OISZ
+AOI C
+Gelijkgestelde AOI
+AOI A
+Beleidsorganen
+AOI B
+Stichtingen / vzwΓÇÖs / openbare instellingen
+ADBA
+842,7
+Totaal 
+Totaal 
+713,2
+523,1
+65,4
+248,3
+60,8
+6,4
+2.524,7
+492,4
+2.032,3
+6,9
+44,5
+13,5
+IT - IH: 576,9
+IT - AO / OO: 1.455,4
+Niet-IT - IH: 42,2
+Niet-IT - AO / OO: 450,1
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+19	 Voor de gedetailleerde indeling van de organisaties per categorie: zie Bijlage 1. 
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 26
+
+
+===PAGE 28 ===
+Voor de periode 2020-2022 gaven de twaalf┬áorganisaties die zijn geselecteerd voor het dossier┬¡
+onderzoek in het totaal 1,4┬ámiljard euro incl. btw uit voor consultancyprestaties (eigen uitgaven, 
+uitgezonderd uitgaven van begunstigden van aankoopcentrales):
+ΓÇó	 1,3┬ámiljard euro incl. btw uitgaven door de eerste tien organisaties;
+ΓÇó	 126,3┬ámiljoen euro incl. btw uitgaven voor Smals en Egov.
+Bij de federale Staat waren de belangrijkste afnemers van consultancyprestaties in de periode van 
+2020 tot 2022 de volgende:
+Tabel 1 ΓÇô Belangrijkste afnemers van consultancyprestaties (in miljoen euro incl. btw)
+Federale organisaties
+In house
+Overeen┬¡
+komsten / 
+overheidsop┬¡
+drachten 
+Totaal 
+Totaal budget 
+voor de 
+aankopen20 
+van 2020 tot 
+2022
+Aandeel 
+consultancy-
+uitgaven 
+NMBS
+104,2
+360,9
+465,1
+4.552,7
+9 %
+Infrabel
+40
+278,5
+318,5
+2.758,4
+12 %
+FOD Financi├½n
+32,8
+152,5
+185,3
+830,6
+22 %
+FOD BOSA
+30,8
+103,4
+134,2
+297,9
+45 %
+NIRAS
+25,7
+103,4
+129,1
+823,2
+16 %
+Smals
+0
+126,1
+126,1
+160,6
+79 %
+RIZIV
+27,7
+87,9
+115,5
+239,8
+48 %
+FOD Volksgezondheid
+20,5
+49,7
+70,1
+2.674,8
+3 %
+FOD Kanselarij21 
+12,9
+55,4
+68,2
+212,9
+32 %
+Nationale Delcrederedienst
+0
+61,5
+61,5
+130,3
+47 %
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+Op basis van de verzamelde gegevens vond het Rekenhof geen significante kosteloze prestaties. 
+2.4.2 
+Verdeling van de uitgaven per activiteitendomein 
+Het Rekenhof stelt vast dat meer dan 80┬á% van de aangegeven consultancyuitgaven (2 miljard┬áeuro 
+incl. btw) betrekking heeft op de IT-sector, waarvan 28┬á% uitgevoerd in het kader van een in-
+houserelatie tussen federale organisaties. Die uitgaven bevatten de kosten voor gedetacheerde 
+personeelsleden van Smals en Egov, evenals het gebruik van raamovereenkomsten van Smals. 
+20	 Het aankoopbudget komt overeen met alle kredieten die kunnen worden vastgelegd voor de uitvoering van overheids┬¡
+opdrachten of andere aankopen in de ruime zin van de begrotingsnomenclatuur. Ook de uitgavenkredieten voor water en 
+elektriciteit vallen onder het aankoopbudget. Toewijzingen, huur en personeelsuitgaven (salarissen, lonen, telewerkver┬¡
+goedingen) zijn echter uitgesloten. De spoorweginfrastructuurheffing die de NMBS aan Infrabel verschuldigd is, is even┬¡
+eens uitgesloten.
+21	 De vermelde bedragen bevatten die van de FOD Kanselarij, van de bij de FOD gecre├½erde entiteiten (Centre for Cybersecurity 
+Belgium (CCB), de Federale Interne Audit (FIA), de Dienst Administratieve vereenvoudiging (DAV), het Federaal Instituut 
+voor Duurzame Ontwikkeling (FIDO), alsook die van de beleidsorganen van de Eerste Minister.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 27
+
+
+===PAGE 29 ===
+Gezien de specificiteit en het bedrag ervan maken die uitgaven het voorwerp uit van een aparte 
+analyse (zie hoofdstuk 5).
+Bij de OISZ, de overheidsbedrijven22, de centrale besturen en de AOI (administratieve openbare 
+instellingen) van categorie A en C was meer dan 80┬á% van de consultancyuitgaven te situeren in 
+de IT-sector. 
+De openbare spoorbedrijven vertegenwoordigen 36┬á% van de totale uitgaven in het domein van 
+IT, het centraal bestuur 30┬á% en de OISZ 25┬á%. Het zijn de belangrijkste afnemers van prestaties 
+voor IT-advies en -ondersteuning (met zowel klassieke overheidsopdrachten als in-houserelaties).
+Daarentegen lagen de consultancyuitgaven van met AOI gelijkgestelde instellingen, de categorie 
+ΓÇÿStichtingen / vzwΓÇÖs / Openbare instellingenΓÇÖ (voornamelijk IRE) en de beleidsorganen van de le┬¡
+den van de federale regering voor meer dan 75┬á% in andere domeinen dan IT. 
+Binnen die domeinen doet de nucleaire sector het vaakst een beroep op consultancy (44┬á%, ofte┬¡
+wel 215,2 miljoen euro incl. btw). De spoorbedrijven en het centraal bestuur vertegenwoordigen 
+23┬á% en 21┬á%. 
+22	 Onder deze categorie valt de spoorwegsector, meer bepaald de NMBS, Ypto, HR Rail, De Leeuw, SPV 162, TUC Rail en Infrabel.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 28
+
+
+===PAGE 30 ===
+Grafiek 2┬áΓÇô Consultancyuitgaven per activiteitendomein over drie jaar, van 2020 tot 2022
+(in miljoen euro incl. btw)
+Strategie /
+Management /
+Organisatie
+87,2
+Andere domeinen
+84,9
+Financieel
+ 18,9
+Bouw
+72,0
+Human resources
+34,7
+Mobiliteit
+39,1
+Marketing - Communicatie
+21,9
+Juridisch
+17,2
+Interne beheersing
+4,6
+Duurzame ontwikkeling
+3,4
+Energie
+3,2
+Informatica
+2.032,3
+Niet meegedeeld
+105,3
+2.524,7
+0,13 %
+0,13 %
+0,18 %
+0,68 %
+0,75 %
+0,87 %
+1,37 %
+1,55 %
+2,85 %
+3,36 %
+3,45 %
+4,17 %
+80,50 %
+IT: 81 % 
+        Niet-IT: 19 %
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 29
+
+
+===PAGE 31 ===
+2.4.3 
+Dienstverleners in informatietechnologie
+Uit de beschikbare gegevens blijkt dat uitgaven geconcentreerd zijn bij enkele dienstverleners. Zo 
+factureren vijftien dienstverleners 84┬á% van de uitgaven voor IT-consultancy van de federale Staat. 
+Grafiek 3 ΓÇô Belangrijkste IT-dienstverleners over drie jaar, van 2020 tot 2022
+(gefactureerde bedragen in miljoen euro incl.┬ábtw)
+ 
+Devoteam
+Dxc Technology Belgium
+ Oniryx
+Computer task group Belgium
+International Business
+Busi
+ Atos Belgium
+Cronos
+ Inetum Realdolmen
+Tata consulting services
+ ProUnity
+ TUC Rail
+Egov Select
+ Smals
+Ypto
+In house
+ andere overeenkomsten / overheidsopdrachten
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+De eerste drie dienstverleners, namelijk Smals, Ypto (een dochteronderneming van de NMBS die 
+haar IT-diensten en -oplossingen levert) en TUC Rail, staan niet altijd zelf in voor de prestaties. 
+Die federale organisaties stellen gedetacheerd personeel ter beschikking van hun leden of verwer┬¡
+ven externe competenties via klassieke overheidsopdrachten. Vervolgens factureren ze die pres┬¡
+taties aan de organisaties die er gebruik van maken. Smals plaatst ook overheidsopdrachten als 
+aankoopcentrale (zie hoofdstuk 5). 
+De firma ProUnity treedt op als tussenpersoon die dienstverleners ter beschikking stelt naar┬¡
+gelang van de behoeften (IT-bedrijven (924) en zelfstandigen (125)) en is dus nooit de effectieve 
+dienstverlener van de opdrachten.
+2.4.4 
+Dienstverleners buiten IT
+De eerste vijftien dienstverleners vertegenwoordigen 43┬á% van de consultancyuitgaven buiten IT, 
+waarvan 119,2 miljoen euro incl. btw voor de nucleaire sector. Die laatste doet onder meer een be┬¡
+roep op Euridice en op het Studiecentrum voor Kernenergie in het kader van in-houseprestaties. 
+Zij voeren ook consultancyprestaties uit en schakelen daarvoor deels externen in.
+0
+200
+400
+600
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 30
+
+
+===PAGE 32 ===
+Grafiek 4 ΓÇô Belangrijkste dienstverleners buiten IT over drie jaar, van 2020 tot 2022
+(gefactureerde bedragen in miljoen euro incl. btw)
+Arch
+Mc Kinsey and company
+Engie equans fabricom
+Sweco Belgium
+Fluor Engineering
+ProUnity
+Boston consulting group
+Centre d'├⌐tude de l'├⌐nergie nucl├⌐aire
+Geo.xyz
+Maatschap Sweco-Jacobs-Orano-Arteum
+TUC Rail
+Solvus
+Tractebel engineering
+Euridice
+Deloitte
+In house
+ andere overeenkomsten / overheidsopdrachten
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+Deloitte, de belangrijkste dienstverlener buiten het domein van IT, is grotendeels (voor 60┬á%) 
+actief op het vlak van strategisch, management- en organisatieadvies. Het voerde meer dan 30┬á% 
+van zijn prestaties uit voor de FOD Volksgezondheid, met onder meer prestaties in verband met 
+COVID-19.
+2.4.5 
+Kenmerken van de aankopen buiten IT
+2.4.5.1	
+Types overeenkomsten
+Grafiek 5 ΓÇô Aard van de overeenkomsten voor prestaties buiten IT over drie jaar, van 2020 tot 2022
+(in miljoen euro incl. btw)
+Niet onderworpen aan
+de overheidsopdrachtenwetgeving
+98,1
+Andere types overeenkomsten
+52,5
+Overheidsopdracht
+358,9
+In-houseopdracht
+43,1
+Niet-ge├»nstitutionaliseerde
+horizontale samenwerking
+2,5
+Niet meegedeeld
+35,4
+492,4
+73 %
+7 %
+20 %
+54 %
+44 %
+2 %
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+0
+10
+20
+30
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 31
+
+
+===PAGE 33 ===
+De federale organisaties gaven aan dat ze voor 73 % van de prestaties (358,9 miljoen euro incl. 
+btw) een overheidsopdracht hadden gerealiseerd.
+Voor 20┬á% van het totaalbedrag (98,1 miljoen euro incl. btw) gaven ze echter aan dat de prestaties 
+niet waren onderworpen aan de toepassing van de overheidsopdrachtenregelgeving, om de vol┬¡
+gende redenen:
+ΓÇó	 andere overeenkomst: 11┬á% van het totaalbedrag (52,5 miljoen euro incl. btw);
+ΓÇó	 uitzondering in het kader van in-housetoezicht23: 9┬á% van het totaalbedrag (43,1 miljoen euro 
+incl. btw);
+ΓÇó	 uitzondering in het kader van niet-ge├»nstitutionaliseerde horizontale samenwerking24: 0,5┬á% 
+van het totaalbedrag (2,5 miljoen euro incl. btw).
+Het Rekenhof herinnert eraan dat de plaatsing van een overheidsopdracht de regel vormt en dat 
+uitzonderingen restrictief moeten worden ge├»nterpreteerd. Zo moet iedere betalende overeen┬¡
+komst voor diensten die de federale organisaties sluiten met een of meerdere ondernemers in 
+principe de overheidsopdrachtenregelgeving volgen (zie punt 6.3.2). 
+Uit het onderzoek van de geselecteerde consultancydossiers blijken eveneens tekortkomingen op 
+dat vlak (zie punt 6.3.2).
+Verder hebben de federale organisaties voor 7┬á% van het totaalbedrag de aard van de overeen┬¡
+komst voor de prestaties niet meegedeeld.
+2.4.5.2	 Centralisatie van de aankopen
+Grafiek 6 ΓÇô Gecentraliseerde of individuele opdrachten over drie jaar, van 2020 tot 2022
+(bedragen in miljoen euro incl. btw)
+Individuele opdrachten
+271,0
+Niet meegedeeld
+12,3
+Gecentraliseerde opdrachten
+(aankoopcentrales of gezamenlijke opdrachten)
+75,6
+358,9
+76 %
+21 %
+3 %
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+23	 Artikel 30 van de wet van 17 juni 2016 inzake overheidsopdrachten. Zie punt 5.3.
+24	 Artikel 31 van de wet van 17 juni 2016 inzake overheidsopdrachten. Zie punt 5.3.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 32
+
+
+===PAGE 34 ===
+2.4.5.3	 Plaatsingsprocedures en inmededingingstelling
+Grafiek 7 ΓÇô Plaatsingsprocedure van de opdrachten over drie jaar, van 2020 tot 2022
+(bedragen in miljoen euro incl. btw)25
+Procedures met bekendmaking
+197,0
+Niet meegedeeld
+9,5
+Procedures zonder bekendmaking
+94,5
+301,0
+65 %
+31 %
+3 %
+Bron: Rekenhof, op basis van de antwoorden van de geraadpleegde federale organisaties
+De details van de gehanteerde procedures zijn opgenomen in bijlage 2.
+De plaatsingsprocedure die het vaakst wordt gebruikt om consultants aan te wijzen is de onder┬¡
+handelingsprocedure in haar verschillende vormen (74┬á%, voor 222,9 miljoen euro incl. btw). Die 
+uitzonderingsprocedures mogen slechts in bepaalde specifieke gevallen worden gebruikt en moe┬¡
+ten formeel en materieel gemotiveerd worden. In zijn onderzoek van de geselecteerde opdrachten 
+stelt het Rekenhof echter vast dat die motivering soms onvoldoende gegrond is (zie punt 6.3.2).
+Uit het onderzoek van de geselecteerde opdrachten blijkt bovendien dat de federale organisaties 
+in de praktijk niet altijd met de inschrijvers onderhandelen over de voorwaarden van de opdracht, 
+terwijl dat juist het grootste voordeel vormt van dit soort procedures (zie punt 6.3). 
+Er is voor minstens 3,6 miljoen euro incl. btw aan prestaties toevertrouwd aan een ondernemer 
+zonder voorafgaande inmededingingstelling met als motivatie technische exclusiviteit
+Bij de procedures die zijn gerealiseerd met voorafgaande inmededingingstelling vertegenwoordi┬¡
+gen de gevallen waarin ├⌐├⌐n enkele offerte is ingediend minstens 75,7 miljoen euro incl. btw. Voor 
+59,9┬ámiljoen euro incl. btw zijn vijf of meer offertes ingediend. Voor 161,8┬ámiljoen euro incl. btw 
+zijn tussen twee en vier offertes ingediend.
+Hoogdringendheid wordt ingeroepen voor in totaal 4,1 miljoen euro incl. btw aan opdrachten, 
+onder meer voor prestaties in het kader van COVID-19.
+Er werd een bedrag van 11,2 miljoen euro incl. btw uitgegeven voor opdrachten geplaatst op basis 
+van de bepalingen van de wet van 24 december 1993 betreffende de overheidsopdrachten. Deze 
+wet is echter sinds 2013 niet meer van kracht. Dat kan erop wijzen dat ofwel de verkeerde wet┬¡
+geving is toegepast, ofwel dat opdrachten die op grond van deze wet gegund zijn een abnormaal 
+lange looptijd hebben (zie punt 6.2.3). 
+25	 Voor deze grafiek bevat het totaalbedrag van 301,0 miljoen euro incl. btw niet de bestellingen die zijn geplaatst door de be┬¡
+gunstigden van de aankoopcentrales. De plaatsingsprocedure is al opgenomen voor de opdrachten waarop die bestellingen 
+zijn gebaseerd.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 33
+
+
+===PAGE 35 ===
+2.5 
+Consultancyprestaties voor de beleidsorganen
+Van de twintig beleidsorganen van de leden van de federale regering hebben er veertien een 
+beroep gedaan op consultancyprestaties voor een totaalbedrag van 6,9 miljoen euro incl. btw 
+(6,3┬ámiljoen euro incl. btw werd aangegeven door elf beleidsorganen zelf, en 0,6 miljoen euro incl. 
+btw door de overheidsdiensten waaraan drie beleidsorganen gekoppeld zijn). Van die 6,9 miljoen 
+euro incl. btw werd 5,9 miljoen euro incl. btw (85┬á% van de uitgaven) aangegeven door de beleids┬¡
+organen van eenzelfde lid van de federale regering (de minister van Energie).
+De werkelijke begunstigde van die uitgaven (regeringslid of dienst) kan evenwel onmogelijk met 
+zekerheid worden bepaald. Het Rekenhof vergeleek de gegevens met de data die het verkreeg op 
+basis van een extractie uit het boekhoudprogramma Fedcom (prestaties aangerekend op bepaalde 
+rekeningen van categorie 610 ΓÇô zie punt 2.3). Ook analyseerde het de budgettaire aanrekening er┬¡
+van. Zoals eerder uitgelegd ligt de extractie van boekhoudkundige gegevens echter moeilijk door 
+het ontbreken van een eenduidige definitie van het begrip consultancy, van specifieke boekhoud┬¡
+rekeningen en van duidelijke richtlijnen over de boekhoudkundige aanrekening. De lage kwaliteit 
+van de verzamelde data maakt het moeilijk om de opgegeven bedragen en de in Fedcom aangere┬¡
+kende bedragen op elkaar af te stemmen.
+Aanbeveling 4
+De eigen consultancy-uitgaven van de beleidsorganen enkel aanrekenen op de begrotings┬¡
+allocaties van die organen.
+2.6 
+Conclusies
+De federale Staat beschikt niet over een gecentraliseerde, exhaustieve en betrouwbare inventaris 
+van de geleverde consultancyprestaties. De totale kosten van die prestaties voor de federale orga┬¡
+nisaties kunnen dus niet nauwkeurig worden bepaald. 
+Dat er geen dergelijke inventaris bestaat, heeft met verschillende factoren te maken.
+Het begrip consultancy is niet formeel en eenduidig gedefinieerd. De Inspectie van Financi├½n 
+heeft de consultancyprestaties ge├»dentificeerd aan de hand van codes voor overheidsopdrachten, 
+maar die methode is slechts op bepaalde domeinen en voor bepaalde federale organisaties toepas┬¡
+baar. De federale organisaties hanteren uiteenlopende definities van consultancy en slechts en┬¡
+kele hebben in hun interne procedures formeel een definitie vastgelegd. Sommige gebruiken een 
+definitie aangepast aan hun noden, andere identificeren het nauwkeuriger, bijvoorbeeld op basis 
+van de budgettaire aanrekeningen. 
+Er bestaan bovendien geen transversale instructies over het soort gegevens dat moet worden ver┬¡
+zameld om een inventaris op te maken, noch over de te gebruiken methode. 
+De rekeningen en subrekeningen die worden gebruikt voor de budgettaire aanrekening van con┬¡
+sultancyuitgaven zijn niet nauwkeurig genoeg om er de consultancyprestaties in af te bakenen. 
+Die tekortkomingen hebben een impact op beschikbaarheid en de kwaliteit van de gegevens. De 
+onvolledige inventarissen van de prestaties zijn inhoudelijk niet homogeen en niet betrouwbaar.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 34
+
+
+===PAGE 36 ===
+De eigen inventarissen van overheidsopdrachten bij sommige federale organisaties bieden geen 
+betere oplossing voor de gegevensverzameling: ze zijn zelden volledig, onder meer wegens hun 
+decentralisatie, en ze bevatten fouten en incoherenties. 
+Nog een belemmering voor het verzamelen van gegevens is een gevolg van de tekortkomingen van 
+de Fedcom- en e-Procurement-tools voor het centraal en uniform coderen en beheren van gege┬¡
+vens. Die toepassingen zijn niet verplicht voor alle federale organisaties. Bovendien is het via de 
+Fedcom-toepassing niet mogelijk om uitgaven systematisch en rechtstreeks te koppelen aan een 
+overheidsopdracht of een contract. Gratis verleende consultancyprestaties worden niet vermeld. 
+De e-Procurement-toepassing bevat niet alle overheidsopdrachten. Zo zijn de opdrachten van be┬¡
+perkte waarde er niet in opgenomen. De toepassingen bieden dus geen volledig en betrouwbaar 
+overzicht van de consultancyprestaties.
+Sinds 2024 hebben de wetgever en de regering maatregelen genomen om de transparantie van 
+overheidsopdrachten en van de inzet van consultancy te verbeteren. Ondanks die maatregelen 
+zijn nog niet alle gegevens beschikbaar die nodig zijn voor een direct en volledig overzicht. Zo 
+moet de FOD BOSA een inventaris opstellen van de consultancyprestaties, maar de inventaris 
+omvat geen IT-prestaties en is beperkt tot bestellingen van bepaalde federale organisaties in het 
+kader van gecentraliseerde aankopen. De wet van 11 april 1994 schrijft voor dat een inventaris van 
+de overheidsopdrachten en de door externe dienstverleners uitgevoerde studies op een website 
+moet worden gepubliceerd. Op de goedkeuring van een koninklijk uitvoeringsbesluit voor de toe┬¡
+passing van die wet is het echter nog wachten.
+Om het gebrek aan gecentraliseerde informatie te verhelpen heeft het Rekenhof zelf de uitgaven 
+voor consultancy in kaart gebracht met een bevraging van de federale organisaties. De verzamelde 
+gegevens zijn dus gebaseerd op de verklaringen van de bevraagde organisaties. Die gegevens zijn 
+aan consistentietesten onderworpen om de kwaliteit ervan te verbeteren en de vergelijkbaarheid 
+te garanderen. Door de lacunes bij de inventarisering zijn onnauwkeurigheden of fouten evenwel 
+niet uit te sluiten. De gegevens moeten een indicatie geven van de omvang van de diensten voor 
+advies en operationele ondersteuning.
+Volgens de verzamelde gegevens bedragen de totale kosten tussen 2020 en 2022 2,5 miljard euro 
+inclusief btw: het gaat om 2 miljard euro inclusief btw voor IT-consultancy (waarvan 576,9 mil┬¡
+joen euro in het kader van in-houserelaties) en 492,4 miljoen euro inclusief btw voor de andere 
+domeinen, namelijk strategie, management en organisatie, energie- en nucleaire sector, onder┬¡
+zoek en ontwikkeling, bouw en human resources (waarvan 42,4 miljoen euro in het kader van 
+in-houserelaties).
+Op IT-gebied zijn vijftien dienstverleners samen goed voor 84 % van de consultancyuitgaven. Tot 
+de belangrijkste dienstverleners behoren federale organisaties (Ypto, Smals en Egov) en een rekru┬¡
+teringsbedrijf (ProUnity). Wordt IT-consultancy niet meegerekend, dan is Deloitte de belangrijk┬¡
+ste dienstverlener, voornamelijk actief op het gebied van strategie, management en organisatie.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 35
+
+
+===PAGE 37 ===
+Hoofdstuk 3
+Strategie en omkadering 
+In dit hoofdstuk onderzoekt het Rekenhof of er voor de inzet van consultants een strategie is be┬¡
+paald op federaal niveau of op het niveau van elke organisatie. Het gaat ook na of er doelstellingen 
+zijn vastgesteld, of er een rapportering gebeurt en of er voldoende omkadering is voor de inzet 
+van consultants. 
+3.1 
+Audits van andere hoge controle-instellingen
+Verschillende hoge controle-instellingen hebben audits uitgevoerd over de inzet van consultants 
+door overheidsinstanties26. Hoewel de contexten verschillen, zijn ze het eens over het belang om 
+deze externe diensten beter te begeleiden en de inzet ervan beter te reguleren, onder meer door 
+de interne capaciteit te versterken.
+Zo wijst de audit van het Franse Rekenhof27 van juli 2023 uit dat de Franse staat steeds afhanke┬¡
+lijker wordt van adviesbureaus, voornamelijk op het vlak van IT en voor de uitvoering van her┬¡
+vormingsprojecten van het openbaar bestuur. Het Franse Rekenhof erkent dat uitbesteden soms 
+noodzakelijk is maar stelt tekortkomingen vast in de sturing, de planning en het beheer van de 
+inzet van consultancy. Het benadrukt bovendien dat die inzet moet kaderen in een strategie, als 
+aanvulling op de interne competenties. De audit heeft aangetoond dat er geen duidelijk kader en 
+geen duidelijke richtlijnen zijn, dat de controle op de prestaties ontoereikend is en dat de kwaliteit 
+niet wordt beoordeeld. 
+3.2 
+Federale strategie voor de inzet van consultancy
+Het Rekenhof stelt vast dat er geen federale strategie bestaat voor de inzet van consultancy, wat 
+zich uit in een gebrek aan duidelijke richtlijnen en doelstellingen voor het gebruik van die dien┬¡
+sten. Dat leidt tot een gebrek aan sturing en controle op de inzet van consultancy (zie punt 3.3). 
+Bovendien ontbreekt een geheel van nadere regels voor het gebruik van consultancy, zoals de 
+voorwaarden, de specifieke behoeften en de na te leven beperkingen (zie punt 3.4). 
+Er zijn helemaal geen richtlijnen die uitleggen waarom en binnen welke grenzen consultancy 
+moet worden ingezet, of het een laatste redmiddel moet zijn om aan een nood te voldoen, dan wel 
+26	 Enkele voorbeelden┬á:
+ΓÇó	 Cour des comptes (Frankrijk), Le recours par lΓÇÖ├⌐tat aux prestations intellectuelles de cabinets de conseil, juli 2023,  thema┬¡
+tisch openbaar verslag, www.ccomptes.fr.
+ΓÇó	 National audit office (Verenigd Koninkrijk) , DepartmentsΓÇÖ use of consultants to support preparations for EU Exit, juni 2019, 
+Report by the Comptroller and Auditor General, www.nao.org.uk.
+ΓÇó	 National audit office (Verenigd Koninkrijk), Use of consultants and temporary staff, januari 2016, Report by the 
+Comptroller and Auditor General, www.nao.org.uk.
+ΓÇó	 Auditor-General of South Africa, Report on a performance audit of the use of consultants at selected departments of the 
+Gauteng Provincial Government, september 2013, www.agsa.co.za.
+ΓÇó	 Australian National Audit Office, Australian Government Procurement Contract Reporting ΓÇô 2022 Update, februari 2023, 
+www.anao.gov.au.
+27	 Cour des comptes (Frankrijk), Le recours par lΓÇÖ├⌐tat aux prestations intellectuelles de cabinets de conseil, juli 2023, thematisch 
+openbaar verslag, www.ccomptes.fr.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 36
+
+
+===PAGE 38 ===
+een structureel middel om een personeels- of expertisetekort op te vangen. De enige beperking 
+op het gebruik van consultancydiensten is dus van budgettaire aard, namelijk de kredieten die 
+beschikbaar zijn voor de uitgaven. 
+Die transversale vaststelling geldt voor elke geauditeerde federale organisatie. Prestatiedoel┬¡
+stellingen, richtlijnen en procedures worden opgesteld voor aankopen in het algemeen en niet 
+specifiek voor consultancy.
+Sommige geauditeerde organisaties stellen dat ze geen strategie of doelstellingen hebben omdat 
+de inzet van consultancy slechts een middel is om specifieke opdrachten of projecten uit te voe┬¡
+ren, een werkachterstand weg te werken of een vaardigheid te vinden die intern ontbreekt (zie 
+punt 3.4.2). 
+Verder stelt het Rekenhof vast dat de praktijken verschillen tussen administraties onderling en 
+dat de beslissing om consultancy in te schakelen niet altijd gedetailleerd of geobjectiveerd is (zie 
+punt 3.4.2). 
+Zoals beschreven in hoofdstuk 2 is er, naast het ontbreken van een strategie, geen uniforme defi┬¡
+nitie van consultancy, geen inventaris van de uitgevoerde opdrachten op federaal niveau en geen 
+duidelijk overzicht van de toegewezen budgetten. 
+In haar akkoord van januari 202528 is de regering bepaalde verbintenissen aangegaan. ΓÇ£We streven 
+in overleg met de colleges van leidend ambtenaren naar een maximale afbouw van externe consultan┬¡
+cy, in de eerste plaats voor wat de kerntaken van de overheid betreft, en leggen hiervoor een strategie 
+vast. Bij mogelijke uitbesteding wordt steeds de afweging gemaakt of het niet kosten-effici├½nter en/
+of aangewezen is om de opdracht door de overheid zelf te laten uitvoeren. We waken hierbij ook over 
+het behoud en de opbouw van de nodige technische, juridische en inhoudelijke expertise bij de over┬¡
+heid zelf. We onderzoeken de mogelijkheid tot het opzetten van een pool met interne consultants die 
+transversaal en op korte termijn kunnen worden ingezet binnen de overheidsdiensten voor specifieke 
+projecten.ΓÇ¥
+Gezien het strategische belang van consultancy en de kosten die ermee gepaard gaan, acht het 
+Rekenhof het noodzakelijk om een strategie op federaal niveau uit te stippelen en die in de fede┬¡
+rale organisaties toe te passen. Die strategie moet duidelijke doelstellingen en meetbare presta┬¡
+tie-indicatoren bevatten. Ze moet worden afgestemd op de strategische doelstellingen van elke 
+organisatie en duidelijke criteria bevatten om van de inzet van consultants een strategisch instru┬¡
+ment te maken en geen standaardoplossing. Consultancy moet inderdaad een specifieke meer┬¡
+waarde bieden voor de organisatieprojecten of doelstellingen. Consultants inzetten om een tekort 
+aan personeel of competenties op te vangen, mag geen systematische aanpak zijn. Interne com┬¡
+petentieontwikkeling, door aanwervingen of door kennisoverdracht, moet worden aangemoedigd 
+op basis van een kosten-batenanalyse. Die strategie moet zich richten op alle domeinen die ge┬¡
+bruikmaken van consultancy, in het bijzonder IT, een sector waarin het een al jaren groeiende 
+financi├½le rol speelt (zie hoofdstuk 5 ΓÇô Terbeschikkingstelling van IT-specialisten).
+Belgi├½ neemt samen met zes andere lidstaten deel aan het Europese TSI-programma (Technical 
+Support Instrument). Dat programma wil interne consultancy bevorderen om kennisoverdracht 
+te verzekeren. Het wordt gefinancierd door de Europese Unie via het technisch ondersteunings┬¡
+instrument, en uitgevoerd door Unesco. 
+28	 Federaal regeerakkoord, pagina 68.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 37
+
+
+===PAGE 39 ===
+In Belgi├½ wordt het project aangestuurd door de FOD BOSA. Twee domeinen krijgen daarbij voor┬¡
+rang voor insourcing: (1)┬áprojectbeheer en bredere organisatorische beheerstaken (bijvoorbeeld 
+programmabeheer, veranderingsmanagement, transformatiemanagement) en (2)┬ádigitalisering, 
+met de nadruk op artifici├½le intelligentie. In 2025 werd een rapport opgesteld met aanbevelingen 
+voor de uitwisseling van goede praktijken en zelfs de ontwikkeling van een structuur om interne 
+consultancy te bevorderen. De resultaten van dit project zouden nuttig kunnen zijn om een stra┬¡
+tegie uit te stippelen ter omkadering van de inzet van consultancy op federaal niveau. 
+Aanbeveling 5
+Een strategie bepalen om de inzet van consultancy te regelen en die vervolgens in de federale 
+organisaties toepassen in functie van hun administratieve statuten, opdrachten en nadere 
+werkingsregels 
+3.3 
+Aansturing en rapportering 
+Door het ontbreken van een strategie of specifieke doelstellingen op het vlak van consultancy is er 
+ook geen evaluatie en rapportering. 
+Binnen de geauditeerde organisaties krijgen de beheers- of besluitvormingsorganen geen speci┬¡
+fieke en transversale feedback over consultancy. Die organen krijgen dus ook geen specifieke in┬¡
+formatie over de redenen voor de inzet van consultancy, de kosten, de kwaliteit van de prestaties 
+of de return on investment voor onder meer kennisoverdracht. In sommige organisaties krijgen de 
+beheersorganen elk kwartaal een beheersverslag over de kosten van adviesopdrachten. De ver┬¡
+antwoordelijken onderzoek de resultaten van de opdrachten en leggen ze aan de beheersorganen 
+voor. Over het algemeen zijn die goede praktijken beperkt en geven ze de beheersorganen niet alle 
+benodigde informatie om een coherente consultancystrategie te bepalen en op te volgen. 
+Volgens de geauditeerde organisaties is die informatie beschikbaar bij de operationele diensten, 
+maar wordt ze niet systematisch samengebracht en wordt er niet systematisch over gerappor┬¡
+teerd. Overheidsopdrachten voor consultancy worden op dezelfde manier behandeld en opge┬¡
+volgd als andere aankopen.
+Dat er geen specifieke rapportering gebeurt, heeft ook te maken met het gebrek aan uniforme 
+definitie van consultancy en het ontbreken van een inventaris van de opdrachten (zie de punten 
+2.1 en 2.2). 
+Door het ontbreken van specifieke en systematische rapportering over de consultancy-inzet 
+beschikken de politieke besluitvormers en de administratieve verantwoordelijken volgens het 
+Rekenhof niet over de informatie die ze nodig hebben om een coherente strategie te bepalen, zo┬¡
+wel op budgettair vlak als op het vlak van competentiemanagement. ZoΓÇÖn rapportering is nodig om 
+na te gaan in welke domeinen de interne expertise ontbreekt, waar die door interne capaciteits┬¡
+versterking kan worden ontwikkeld, en voor welke domeinen uitbesteden noodzakelijk blijft. En 
+aangezien de kosten van insourcen en die van outsourcen bovendien nooit worden vergeleken, is 
+een grondige beoordeling van de relevantie van de gemaakte keuzes niet mogelijk.
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 38
+
+
+===PAGE 40 ===
+Aanbeveling 6
+Periodiek (bijvoorbeeld jaarlijks) gestructureerd rapporteren over het gebruik van consul┬¡
+tancy voor alle betrokken domeinen, ook de informatietechnologie
+3.4 
+Instructies voor de consultancy-inzet 
+3.4.1 
+Richtlijnen voor de inzet van consultancy
+3.4.1.1	
+V├│├│r 2024
+V├│├│r de nota van de Inspectie van Financi├½n van maart 2024 (zie verder) bestonden er geen richt┬¡
+lijnen voor de inzet van consultancy, geen voorwaarden om voor uitbesteding te mogen kiezen, en 
+geen verplichtingen voor de opvolging en evaluatie van de prestaties. 
+In de meeste geauditeerde organisaties bestaan er richtlijnen en procedures voor aankopen, maar 
+zonder specifieke bepalingen voor consultancy. Sommige organisaties beschikken over een speci┬¡
+fieke procedure voor het inschakelen van consultants.
+Voor elke aankoopaanvraag is een budgettaire raming vereist, die ter goedkeuring wordt voorge┬¡
+legd aan de besluitvormingsorganen (zie punt 3.4.2). 
+De behoefte aan IT-profielen wordt door de betrokken directies gepland in de jaarlijkse begroting, 
+met inbegrip van de ramingen voor detacheringen en externe consultancycontracten. 
+Voor de opvolging van consultancyprestaties verschillen de praktijken, maar ze komen groten┬¡
+deels neer op een opvolging (door de aanvragende dienst) van de realisaties en op een budgettaire 
+opvolging voor de facturering. 
+Het Rekenhof stelt op basis van zijn analyse van de consultancydossiers vast dat het gebrek aan 
+een algemeen kader leidt tot terugkerende opmerkingen en vragen van de Inspectie van Financi├½n 
+naar de rechtvaardiging van de consultancy-inzet, de kosten, het structurele karakter in bepaalde 
+gevallen, en de naleving van de regelgeving voor overheidsopdrachten. 
+Enkele opmerkingen uit de adviezen bij verschillende opdrachten, bij wijze van voorbeeld:
+ΓÇó	 permanente en kritieke taken moeten worden uitgevoerd door het personeel van de FOD;
+ΓÇó	 de kosten van consultants zijn hoog in vergelijking met de kosten van statutaire ambtenaren, 
+en er zijn risicoΓÇÖs verbonden aan de uitbesteding (operationele en juridische risicoΓÇÖs, belangen┬¡
+conflicten, afhankelijkheid, enz.);
+ΓÇó	 de administratie moet kunnen rekenen op interne teams met de nodige ervaring en expertise om 
+uitbesteding tot het strikt noodzakelijke te beperken en de Staat minder afhankelijk te maken. 
+3.4.1.2	
+Sinds 2024
+De ministerraad keurde op 12 mei 2023 een bestek goed voor een raamovereenkomst voor tacti┬¡
+sche en operationele adviesverlening ter verbetering van de algemene werking van de Belgische 
+Staat (GO185). 
+INZET VAN CONSULTANCY DOOR DE FEDERALE OVERHEID / 39
+
+

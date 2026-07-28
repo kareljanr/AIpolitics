@@ -6150,3 +6150,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +32; cmt +4; lb +8; FOI **gap_defence_asset_optim_l5** ready+draft; rq_504=done spawn **rq_505**; ticks=513
 - FOI opened: gap_defence_asset_optim_l5 (ready, human send) — not sent
 - Next: prio5 **rq_505**; deferred **rq_116** SWA
+
+### 2026-07-29T01:20:00Z - tick 514
+- Unit: **rq_505** (FOI-adjacent hole-fill — **CoA federal consultancy audit Oct 2025 dual IT/Smals**)
+- Found (strong primary Rekenhof AG 22 Oct 2025, PDF local):
+  - **Total consultancy 2020-22: €2,524.7m** incl VAT (101 orgs survey); **IT €2,032.3m (81%)** · non-IT **€492.4m (19%)**
+  - In-house federal-to-federal **€619.2m** · other contracts **~€1.9bn**; no central inventory (BOSA partial excl IT)
+  - **Top buyers:** NMBS **465.1** · Infrabel **318.5** · FOD Fin **185.3** · BOSA **134.2** (45% of purchases!) · NIRAS **129.1** · Smals buyer **126.1** (79%) · RIZIV **115.5** · Health **70.1** · Kanselarij **68.2** · Credendo **61.5**
+  - Nuclear non-IT **€215.2m** (44% of non-IT); strategy/mgmt **87.2** · construction **72**
+  - Smals external share of turnover **17.8% (2014) ? 36% (2024)**; detachments **1,395 ? 2,072** (+48.5%)
+  - 101 contracts sample **€2.2bn**; ~30% lack knowledge-transfer clause; deficiencies high in sample
+  - Openbaarheid art 3/3 inventory still needs KB; dual Persona/Cepage/I-Police IT failures
+- Wrote: sources +2; budgets +25; cmt +4; lb +8; FOI **gap_fed_consultancy_inventory_l5** ready+draft; rq_505=done spawn **rq_506**; ticks=514
+- FOI opened: gap_fed_consultancy_inventory_l5 (ready, human send) — not sent
+- Next: prio5 **rq_506**; deferred **rq_116** SWA
