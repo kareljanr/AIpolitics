@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T17:20:00Z,rq_480,489,no,Tick489 CoA VL kunstenbeleid 202m; next prio5 rq_481; progress@490 next; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T17:35:00Z,rq_481,490,no,Tick490 progress@490 done; next prio5 rq_482; rq_116 SWA deferred.

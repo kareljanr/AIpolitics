@@ -5809,3 +5809,15 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_kunsten_neg9_cash (ready, human send) — not sent
 - Next: prio5 **rq_481** (**progress@490 next tick**); deferred **rq_116** SWA
 
+
+### 2026-07-28T17:35:00Z - tick 490
+- Unit: **rq_481** (**progress milestone @490** — coverage % layers A–E + waste top10 refresh)
+- Coverage vs €347.956bn TE:
+  - **A L0:** 100% · **B L1:** 100% · **C L2:** ~99% · **D L5:** ~29–42% generous · **E FOI ready:** ~239 (answered ~9; total ~250)
+- Inventory class: budgets ~8505 · cmt ~882 · lb ~1653 · entities ~407 · sources ~908 · rq ~476
+- **Gain 480?490:** Entity I/II consolidation dual wave (VL measures path · WAL 270m · BRU SEC · FWB SEC + quartet 2.65bn · FPB 263 options · CM Jul control residual **7.7bn** unalloc L5) + CoA VL Kunstendecreet **201.9m** + NL Democracy/Regie residual
+- **Waste top10:** stable (fossil/company-cars/cheque/EIWT); hedera CAP stock filtered (annual 0); no reorder
+- Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_481=done spawn **rq_482**; ticks=490
+- FOI: none new this tick
+- Next: prio5 **rq_482**; deferred **rq_116** SWA
+

@@ -1,4 +1,4 @@
-﻿# DOGE progress — every 10 ticks
+# DOGE progress — every 10 ticks
 
 **Protocol:** At ticks **10, 20, 30, …** (and anytime human asks), refresh this file **and** append a short block to `loop_log.md`.  
 **Anchor:** ESA S.13 total expenditure **€347.956 bn (2025)** = 100% of the “public spend pie” for flow coverage.  
@@ -20,7 +20,43 @@
 
 ---
 
-## Snapshot at **tick 480** (2026-08-03)
+## Snapshot at **tick 490** (2026-07-28)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | Unchanged core SOEs/utilities; **+** Entity I path CM Jul (net exp **197.6→219.6bn** class) · FWB/BRU/VL/WAL consolidation control maps · CoA VL kunsten institutional L2 |
+| **D. L5 named / measure end-lines** | **~29–42%** of TE (generous) | **Gain 480→490 is Entity I/II consolidation dual + culture CoA wave:** VL measures path **0.72→2.76bn** · Jobbonus save **242m** · Warm/Welvarend expansion · WAL economies **270m** · BRU SEC measures **297→1186m** · FWB SEC **-1.608→-1.224bn** + net effort **500m** · Entity II quartet class **2.65bn** 2026 · FPB **263** options inventory · E1 residual control **4.9→7.7bn** 2029 + unalloc L5 **2.19bn** · CoA VL Kunstendecreet awards **201.9m** (WS 187 / KS 14.9; 9 neg-advice overrides) · NL Democracy Fund **0.50m** + Regie **3.09m** residual · FOI still bulk named ASBL/firm + top-50 culture |
+| **E. FOI-ready gaps** | **~239** drafts ready | Human send only; answered **~9**; total FOI rows **~250** (+ gap_vl_kunsten_neg9_cash) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* (not adopted budget) · Tax Shelter · private PPP.
+
+### Inventory (tick 490)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~8505 |
+| commitments.csv | ~882 |
+| leaderboard.csv | ~1653 |
+| entities.csv | ~407 |
+| sources.csv | ~908 |
+| FOI ready | ~239 |
+| FOI answered | ~9 |
+| FOI total rows | ~250 |
+| research_queue | ~476 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 480
+
+- **NL residual dual (tick481–482):** Democracy Fund KBF **€500k / 18** projects · Regie patrimonium NL **€3.09m** · VL dienstencheques multi-year reform path dual titres WAL+BRU class **€872m**.
+- **VL consolidation (tick483–484):** measures path **722m→2.764bn** 2025–29 · Jobbonus save **242m** · own gov **572m→1bn** · Warm/Welvarend expansion · dual WAL structural economies **270m**.
+- **BRU + FWB dual (tick485–486):** BRU SEC measures **297/565/907/1186m** · FWB SEC **-1.608→-1.224bn** · net effort **500m** · Entity II **quartet** class **2.65bn** 2026 (VL+WAL+BRU+FWB; different perimeter).
+- **Entity I residual (tick487–488):** FPB **263** measures inventory · control residual **4.9bn** Mar → CM Jul **7.7bn** 2029 / **9.8bn** 2031 · unalloc L5 package **2.192bn** (fraud 482 · FIOD 193 · subsidy cut 199 · reorg/central 150+150 · replace 175 · social/tax fraud 200+200).
+- **CoA VL kunsten (tick489):** awards **€201.9m** 2024 · KI **69.4m** · 9 neg-advice overrides · dual FWB arts vivants **104m** · FOI named L5 ready.
+
+---
+
+## Snapshot at **tick 480** (2026-08-03) — archived
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
