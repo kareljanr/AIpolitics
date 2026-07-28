@@ -6036,3 +6036,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; cmt +2; lb +5; FOI **gap_kmo_venb_control_l5** ready+draft; raw PDFs; rq_496=done spawn **rq_497**; ticks=505
 - FOI opened: gap_kmo_venb_control_l5 (ready, human send) — not sent
 - Next: prio5 **rq_497**; deferred **rq_116** SWA
+
+### 2026-07-28T22:50:00Z - tick 506
+- Unit: **rq_497** (FOI-adjacent hole-fill — **CoA 2026_20 BBI bank data + dual KMO/fraud**)
+- Found (strong primary Rekenhof AG 18 Mar 2026 + press/samenvatting):
+  - Bank investigation authorizations **~700** in 2024 (mostly 5th dir VAT carousels/Brazilian networks + Brussels domicile)
+  - Dossiers with bank investigations 2015-24: taxes **assessed €2.3bn** · **collected only €36m** (~1.6%) — preventive focus ~80% of corrections via 5th dir
+  - CAP incomplete (foreign self-report; neo-banks/vIBAN/crypto); datamining allowed since law **18 Dec 2025**
+  - Procedure errors **~10%** sample (income tax); IB/BTW rules not aligned for polyvalent cases
+  - Legal annual evaluation of bank-data use **not done since 2018**; KPI 10% dossiers bank probe = indicative only
+  - **Dual:** BBI assess/collect stack vs KMO VenB **€5.6bn** uplifts (tick505) vs fraud yield claims **€300/600m** (tick503)
+- Wrote: sources +3; budgets +5; cmt +2; lb +5; entity aabbi; FOI **gap_bbi_bank_collection_l5** ready+draft; raw PDFs; rq_497=done spawn **rq_498**; ticks=506
+- FOI opened: gap_bbi_bank_collection_l5 (ready, human send) — not sent
+- Next: prio5 **rq_498**; deferred **rq_116** SWA

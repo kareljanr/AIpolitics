@@ -8763,3 +8763,8 @@ bud_rv_cash_2024_coa,sec_federal,2024,14480000000,,,outturn,src_ccrek_kmo_venb_f
 bud_douane_accijns_cash_2024_coa,sec_federal,2024,7618000000,,,outturn,src_ccrek_kmo_venb_followup_2026,strong,Douane-accijnzen cash 7.618bn 2024 CoA; tick505
 bud_kmo_staff_gap_383_fte,sec_federal,2024,383,,,estimated,src_ccrek_kmo_venb_followup_2026,strong,Admin KMO control staff gap 383 FTE vs 2018 plan eoy2024 (not EUR); tick505
 bud_dual_venb_uplift_vs_fraud_claim,sec_federal,2024,5600000000,,,derived,src_dual_kmo_control_fraud_tick505,strong,Dual: VenB control uplifts 5.6bn 2024 vs fraud yield claims 0.3-0.6bn path; tick505
+bud_bbi_bank_assessed_2015_24,sec_federal,2024,2300000000,,,outturn,src_ccrek_bbi_bankdata_2026,strong,Taxes assessed in BBI dossiers with bank investigations 2.3bn cum 2015-2024 CoA; tick506
+bud_bbi_bank_collected_2015_24,sec_federal,2024,36000000,,,outturn,src_ccrek_bbi_bankdata_2026,strong,Effectively collected only 36m of 2.3bn assessed 2015-24 (preventive focus 5th dir); tick506
+bud_bbi_bank_auth_2024,sec_federal,2024,700,,,outturn,src_ccrek_bbi_bankdata_2026,strong,AABBI bank investigation authorizations ~700 in 2024 (mostly 5th dir + Brussels); not EUR; tick506
+bud_bbi_collection_rate_class,sec_federal,2024,1.6,,,estimated,src_ccrek_bbi_bankdata_2026,strong,Collection rate class ~36/2300 = 1.6pct on bank-investigation dossiers 2015-24; tick506
+bud_dual_bbi_assessed_vs_kmo_uplift,sec_federal,2024,2300000000,,,derived,src_dual_bbi_kmo_fraud_tick506,strong,Dual BBI assessed 2.3bn cum vs KMO VenB uplift 5.6bn 2024 different scopes; tick506

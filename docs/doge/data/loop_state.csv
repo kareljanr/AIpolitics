@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T22:30:00Z,rq_496,505,no,Tick505 CoA KMO VenB 5.6bn uplift staff-383 dual fraud; next prio5 rq_497; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T22:50:00Z,rq_497,506,no,Tick506 CoA BBI bank 2.3bn assess/36m collect dual KMO; next prio5 rq_498; rq_116 SWA deferred.
