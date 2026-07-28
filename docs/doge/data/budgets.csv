@@ -8017,3 +8017,21 @@ bud_nloterij_sarc_2024,nationale_loterij,2024,1616180,,,budget,src_nloterij_kb_v
 bud_nloterij_nationaal_prestige_2024,nationale_loterij,2024,10655918,,,budget,src_nloterij_kb_voorlopig_2024,strong,Nationaal Prestige pot 10.655918m provisional (sub L5 residual); tick449
 bud_nloterij_sports_fed_2024,nationale_loterij,2024,2700000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Belgian Sports Federations and National Teams 2.7m provisional; tick449
 bud_nloterij_calls_armoede_sdg_2024,nationale_loterij,2024,3000000,,,budget,src_nloterij_kb_voorlopig_2024,strong,Project calls armoede 1.5m + duurzame ontwikkeling 1.5m = 3m provisional; tick449
+bud_antigif_costs_2024,antigifcentrum,2024,3418021,,,outturn,src_antigif_jv_2024,strong,Total costs 3.418m 2024 (personnel 2.133 + working 0.936 + other); tick451
+bud_antigif_income_2024,antigifcentrum,2024,3420270,,,outturn,src_antigif_jv_2024,strong,Total income 3.420m 2024 surplus 2.2k; tick451
+bud_antigif_nl_base_2024,antigifcentrum,2024,2200000,,,outturn,src_antigif_jv_2024,strong,Base subsidy Volksgezondheid via Nationale Loterij 2.2m matches KB verdelingsplan; tick451
+bud_antigif_nl_ict_2024,antigifcentrum,2024,28900,,,outturn,src_antigif_jv_2024,strong,Project ICT Nationale Loterij 28.9k extra; tick451
+bud_antigif_nl_total_2024,antigifcentrum,2024,2228900,,,outturn,src_antigif_jv_2024,strong,NL total 2.229m (base+ICT) ~65pct of income; tick451
+bud_antigif_nl_base_2025,antigifcentrum,2025,2624000,,,budget,src_antigif_jv_2024,strong,Budget 2025 NL base subsidy 2.624m (+424k vs 2024); tick451
+bud_antigif_budget_costs_2025,antigifcentrum,2025,3950177,,,budget,src_antigif_jv_2024,strong,Budget costs 3.950m 2025 (personnel spike 3.293m); tick451
+bud_antigif_budget_income_2025,antigifcentrum,2025,3930328,,,budget,src_antigif_jv_2024,strong,Budget income 3.930m 2025 planned deficit ~20k; tick451
+bud_antigif_personnel_2024,antigifcentrum,2024,2132583,,,outturn,src_antigif_jv_2024,strong,Personnel costs 2.133m 2024 (62pct of total); tick451
+bud_antigif_personnel_budget_2025,antigifcentrum,2025,3292672,,,budget,src_antigif_jv_2024,strong,Personnel budget 3.293m 2025 (+54pct class); tick451
+bud_antigif_lux_2024,antigifcentrum,2024,346309,,,outturn,src_antigif_jv_2024,strong,Convention Grand Duchy Luxembourg 0.346m 2024; tick451
+bud_antigif_projects_2024,antigifcentrum,2024,440099,,,outturn,src_antigif_jv_2024,strong,Project income 0.440m 2024; tick451
+bud_antigif_essenscia_pharma_2024,antigifcentrum,2024,86510,,,outturn,src_antigif_jv_2024,strong,Facultatieve hulp essenscia+pharma.be 86.5k 2024; tick451
+bud_antigif_prestaties_2024,antigifcentrum,2024,130632,,,outturn,src_antigif_jv_2024,strong,Service prestaties 0.131m 2024; tick451
+bud_antigif_fte_2024,antigifcentrum,2024,205,,,count,src_antigif_jv_2024,strong,Staff 23 persons / 20.5 FTE EOY2024 (stores 205=20.5*10); tick451
+bud_antigif_calls_2024,antigifcentrum,2024,64000,,,count,src_antigif_jv_2024,strong,~64000 calls answered 24/7 line 2024 (nearly 64k editorial); tick451
+bud_antigif_working_2024,antigifcentrum,2024,936034,,,outturn,src_antigif_jv_2024,strong,Working costs 0.936m 2024 (third parties 0.473 antidota 0.126 ICT 0.089); tick451
+bud_antigif_antidota_2024,antigifcentrum,2024,126174,,,outturn,src_antigif_jv_2024,strong,Antidota stock costs 0.126m 2024; tick451

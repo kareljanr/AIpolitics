@@ -5279,3 +5279,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_441=done; spawn **rq_442**; ticks=450
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_442** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-02T16:15:00Z - tick 451
+- Unit: **rq_442** (FOI-adjacent hole-fill - **Antigifcentrum AR2024 institutional TCO dual NL verdelingsplan 2.2m**)
+- Found (strong primary Antigifcentrum Jaarrapport 2024):
+  - **Costs 2024 EUR 3.418m** · **income 3.420m** · surplus **€2.2k**
+  - **NL base subsidy EUR 2.200m** (Volksgezondheid via lottery) **matches KB plan exactly** · + ICT project **€28.9k** · NL total **€2.229m** (~65% income)
+  - **Budget 2025:** NL base **€2.624m** · costs **€3.950m** (personnel **€3.293m** spike) · income **€3.930m**
+  - Personnel outturn **€2.133m** · staff **23 / 20.5 FTE** · calls **~64,000** · Lux convention **€0.346m** · projects **€0.440m** · industry essenscia/pharma **€86.5k**
+  - Status: public-utility foundation (KB 1967) · emergency service (KB 2002)
+  - Dual method: plan L5 line closed by institutional AR for this end-receiver
+- Wrote: sources +1; entity antigifcentrum; budgets +18; cmt +1; lb +10; rq_442=done; spawn **rq_443**; ticks=451
+- FOI: none new (AR public; next similar NL L5: Child Focus / BOIC / Unia reconcile)
+- Next: prio5 **rq_443**; deferred **rq_116** SWA
