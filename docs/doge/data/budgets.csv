@@ -8847,3 +8847,32 @@ bud_pens_high_index_cap_53m,sec_ss,2026,53500000,,,budgeted,src_ccrek_fed_aju_un
 bud_pens_ziekte_close_32m,sec_ss,2026,32000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,Ziektepensioen civil servants close save 32m (was 26; moratorium); RIZIV +9m expense; tick509
 bud_fpd_mypension_it_5m,sec_ss,2026,5000000,,,budgeted,src_ccrek_fed_aju_unemp_rva_2026,strong,FPD MyPension + legacy modernisation extra 5m; tick509
 bud_dual_unemp_leefloon_2026,gg_belgium,2026,1685200000,,,derived,src_dual_unemp_leefloon_tick509,strong,Dual reform save path 1.69bn vs leefloon shift 17.6k Q1; tick509
+bud_fed_energy_total_2_6bn_2026,sec_federal,2026,2600000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal energy policy total class ~2.6bn CoA (DG Energie 1.2 + assignment funds 1.4); tick511
+bud_dg_energie_1_2bn_2026,sec_federal,2026,1200000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,DG Energie FOD Economie credits ~1.2bn of energy stack; tick511
+bud_energy_assign_funds_1_4bn_2026,sec_federal,2026,1400000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Fiscal assignment funds to CREG Elia NIRAS Hedera ~1.4bn; opacity CoA; tick511
+bud_energienorm_249m_2026,sec_federal,2026,249000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Energienorm law 24 Apr 2026 industry power support credits 249m (maintains IB); tick511
+bud_fluxys_contrib_100m_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Fluxys exceptional contribution 100m/yr 2026-28 financing energienorm; tick511
+bud_creg_social_tariff_168m_2026,sec_federal,2026,168600000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,CREG fiscal transfer share for social tariff protected clients 168.6m; tick511
+bud_energy_temp_support_20m_2026,sec_federal,2026,20000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Temp energy support MR 22 Apr 2026 max 20m (CREG 7.5 stookolie 7.5 travel provis 5); tick511
+bud_phoenix_cfd_583m_2026,sec_federal,2026,583600000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Phoenix CfD Doel4/Tihange3 583.6m 2026 budgeted; strike price negotiation status unknown to CoA; tick511
+bud_niras_passiva_assign_259m_2026,sec_federal,2026,258600000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Assignment CREG->NIRAS nuclear passiva Belgoprocess+SCK 258.6m; tick511
+bud_niras_btw_passiva_62m_2026,sec_federal,2026,62500000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,NIRAS assignment funds VAT on passiva works 62.5m; tick511
+bud_nuclear_decom_contrib_100m_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,medium,Energy sector decommissioning contribution est 100m 2026; method unexplained; ends 2027 via Phoenix; tick511
+bud_centenindex_e1_yield_24m_2026,sec_federal,2026,24000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Two-cent indexation Entity I net yield 24m 2026 path to 363m 2029 (FPB Apr); tick511
+bud_centenindex_e1_yield_363m_2029,sec_federal,2029,363000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Two-cent indexation Entity I net yield 363m 2029; tick511
+bud_fed_debt_stock_577_5bn_2026,sec_federal,2026,577500000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal state debt stock BC2026 577.5bn eoy (+5.6 vs IB; +31.4 vs 2025 550.6); tick511
+bud_fed_debt_stock_731bn_2031,sec_federal,2031,731000000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal debt path 731.0bn 2031 CoA/Debt Agency; tick511
+bud_fed_interest_12_3bn_bc_2026,sec_federal,2026,12300000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal interest charges BC2026 12.3bn (IB 12.2; 2025 10.8); tick511
+bud_fed_interest_22_6bn_2031,sec_federal,2031,22600000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal interest path 22.6bn 2031 (implied rate 2.0->3.1pct); tick511
+bud_fed_cash_receipts_167_2bn_2026,sec_federal,2026,167159000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal cash receipts total BC 167.159bn (+2.725 vs IB); tick511
+bud_fed_fiscal_cash_159_3bn_2026,sec_federal,2026,159310000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal fiscal cash receipts BC 159.310bn (+1.367); tick511
+bud_fed_nonfiscal_cash_7_8bn_2026,sec_federal,2026,7849000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal non-fiscal cash receipts BC 7.849bn (+1.358); tick511
+bud_fed_transfers_out_94_5bn_2026,sec_federal,2026,94515000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Federal transfers to EU/regions/SS/other BC 94.515bn (56.5pct receipts); tick511
+bud_fed_middelen_72_6bn_2026,sec_federal,2026,72644000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Middelenbegroting after transfers BC 72.644bn; tick511
+bud_fed_fiscal_esr_164_5bn_2026,sec_federal,2026,164541200000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Fiscal receipts ESR after conclave 164.541bn; tick511
+bud_fiscal_measures_net_1_83bn_2026,sec_federal,2026,1830800000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Net fiscal measures impact +1830.8m 2026 (prior +1099.9 + conclave +730.9); tick511
+bud_pillar2_slip_87m_2026,sec_federal,2026,-87000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,Pillar2 minimum tax BC -87m (was +32 IB; slip -119); tick511
+bud_vat_reform_impact_177m_2026,sec_federal,2026,177000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,VAT reform impact BC 177m (was 580.5; slip -403.5); tick511
+bud_russian_assets_venb_1016m_2026,sec_federal,2026,1016000000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,strong,VenB prepayments include 1016m frozen Russian assets related; tick511
+bud_vvpr_exceptional_402m_2026,sec_federal,2026,402100000,,,budgeted,src_ccrek_fed_aju_energy_debt_2026,medium,RV exceptional VVPR-bis distributions 402.1m at 15pct due delayed progwet; tick511
+bud_dual_energy_debt_2026,gg_belgium,2026,2600000000,,,derived,src_dual_energy_debt_tick511,strong,Dual energy 2.6bn stack vs debt interest 12.3bn; tick511

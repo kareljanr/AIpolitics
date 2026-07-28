@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T00:05:00Z,rq_501,510,no,Tick510 progress@510 coverage+waste top10; next prio5 rq_502; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T00:20:00Z,rq_502,511,no,Tick511 CoA energy L5 2.6bn CfD 584m debt 577.5bn dual; next prio5 rq_503; rq_116 SWA deferred.

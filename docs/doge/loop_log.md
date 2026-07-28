@@ -6104,3 +6104,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_501=done spawn **rq_502**; ticks=510
 - FOI: none new (progress tick)
 - Next: prio5 **rq_502**; deferred **rq_116** SWA
+
+### 2026-07-29T00:20:00Z - tick 511
+- Unit: **rq_502** (FOI-adjacent hole-fill — **CoA 2026_22 residual energy L5 deep + federal debt path dual**)
+- Found (strong primary same CoA fed aju, energy/debt extract):
+  - **Energy total ~€2.6bn**: DG Energie **1.2bn** + assignment funds CREG/Elia/NIRAS/Hedera **1.4bn** (opacity CoA)
+  - **Energienorm** **€249m** (law 24 Apr 2026) + **Fluxys €100m**/yr 2026-28
+  - **Social tariff** CREG **€168.6m**; temp support **€20m** (7.5/7.5/5)
+  - **Phoenix CfD** **€583.6m** 2026; strike price unknown to CoA at close; NIRAS passiva **258.6+62.5m**; decom contrib **€100m** (ends 2027)
+  - **Fed debt** eoy2026 **€577.5bn** (+5.6 vs IB; +31.4 vs 2025) path **€731bn** 2031
+  - **Interest** **€12.3bn** BC2026 path **€22.6bn** 2031; snowball r-g **-0.91?-0.06** 2026-31
+  - **Cash receipts** **€167.2bn** (fiscal 159.3 · nonfiscal 7.8); transfers out **94.5**; middelen **72.6**; ESR fiscal **164.5**; measures net **+1.83bn**
+  - Pillar2 **-87m** (slip -119); VAT reform **177m** (was 580); Russian assets VenB **1.016bn**; VVPR-bis **402m**
+  - **Dual:** energy assignment opacity vs debt interest path
+- Wrote: sources +2; budgets +28; cmt +4; lb +8; FOI **gap_phoenix_cfd_strike_l5** ready+draft; rq_502=done spawn **rq_503**; ticks=511
+- FOI opened: gap_phoenix_cfd_strike_l5 (ready, human send) — not sent
+- Next: prio5 **rq_503**; deferred **rq_116** SWA
