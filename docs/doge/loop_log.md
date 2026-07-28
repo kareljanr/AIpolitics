@@ -5002,3 +5002,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_421=done; spawn **rq_422**; ticks=430
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_422** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-02T06:15:00Z - tick 431
+- Unit: **rq_422** (FOI-adjacent hole-fill - **SPP Integration sociale federal CPAS DIS/RIS 2026**)
+- Found (strong primary Cour des comptes Budget Etat 2026 §7.2 table):
+  - **Federal CPAS grants total 2026:** **EUR 2.2409bn** (DIS **2.0845** + loi 1965 **0.1564**)
+  - DIS base CM Jul **1.8417bn** + index **-36.8m** + **unemp compensation +300m** + RIS reform **-16.6m** + 5y wait **-3.8m**
+  - Loi 1965: base **179.8m** → **156.4m** after index/reform/wait
+  - **Compensation path:** budget envelope **300/300/302/343m** 2026-29 vs SPP IS calc **296/820/888/709m** (2027+ understate risk)
+  - ~**52.400** new RIS from unemp time-limit 2026 class; federal reimburses **55-70%** of RIS (not full cash to people)
+  - Dossier fee **518 EUR**/beneficiary (temp **1036** for H1-2026 compensated cohort)
+- Wrote: sources +1; entity spp_is; budgets +15; cmt +2; lb +4; rq_422=done; spawn **rq_423**; ticks=431
+- FOI: none new (full RIS cash stock federal+local residual; optional later)
+- Next: prio5 **rq_423**; deferred **rq_116** SWA

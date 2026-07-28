@@ -6981,3 +6981,21 @@ bud_ss_cotis_2025_spf,sec_ss,2025,83200000000,,,receipts,src_spfss_ra_2025_ss_ma
 bud_ss_state_sub_2025_spf,sec_ss,2025,20500000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS ordinary state subsidies 20.5bn; tick429
 bud_ss_altfin_2025_spf,sec_ss,2025,26200000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS alternative financing 26.2bn; tick429
 bud_ss_equilibre_2025_spf,sec_ss,2025,7400000000,,,receipts,src_spfss_ra_2025_ss_macro,strong,SS equilibrium endowments 7.4bn; tick429
+bud_spp_is_cpas_total_2026,spp_is,2026,2240900000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,Federal CPAS grants DIS+loi1965 total 2240.9m 2026 CoA table; tick431
+bud_spp_is_dis_ris_2026,spp_is,2026,2084500000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,DIS (revenu integration / leefloon federal share) 2084.5m 2026; tick431
+bud_spp_is_loi1965_2026,spp_is,2026,156400000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,Loi 1965 social aid (equivalent RIS) federal share 156.4m 2026; tick431
+bud_spp_is_dis_base_2026,spp_is,2026,1841700000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,DIS base CM Jul 2025 1841.7m before index/comp/reforms; tick431
+bud_spp_is_comp_unemp_2026,spp_is,2026,300000000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,CPAS compensation +300m 2026 for unemployment-to-RIS inflow (~52400 persons class); open envelope; tick431
+bud_spp_is_ris_reform_save_2026,spp_is,2026,33500000,,,budgeted_saving,src_ccrek_budget2026_spp_is_cpas,strong,RIS reform to montant integration save -33.5m 2026 (DIS -16.6 + loi1965 -16.9); tick431
+bud_spp_is_wait5y_save_2026,spp_is,2026,6700000,,,budgeted_saving,src_ccrek_budget2026_spp_is_cpas,strong,5-year wait for social aid save -6.7m 2026; tick431
+bud_spp_is_index_corr_2026,spp_is,2026,40400000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,Index correction -40.4m on DIS+loi1965 base; tick431
+bud_spp_is_comp_envelope_2026,spp_is,2026,300000000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,strong,CPAS unemp compensation budget envelope 300.0m 2026 (SPP IS calc 295.7m); tick431
+bud_spp_is_comp_envelope_2027,spp_is,2027,300000000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,medium,CPAS unemp compensation budget envelope 300.0m 2027 (SPP IS calc 819.8m); tick431
+bud_spp_is_comp_envelope_2028,spp_is,2028,302300000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,medium,CPAS unemp compensation budget envelope 302.3m 2028 (SPP IS calc 887.8m); tick431
+bud_spp_is_comp_envelope_2029,spp_is,2029,342600000,,,budgeted,src_ccrek_budget2026_spp_is_cpas,medium,CPAS unemp compensation budget envelope 342.6m 2029 (SPP IS calc 709.3m); tick431
+bud_spp_is_regular_inflow_cost_2026,spp_is,2026,212100000,,,projection,src_ccrek_budget2026_spp_is_cpas,medium,SPP IS regular federal cost of unemp-to-RIS inflow 212.1m 2026; tick431
+bud_spp_is_regular_inflow_cost_2027,spp_is,2027,638700000,,,projection,src_ccrek_budget2026_spp_is_cpas,medium,SPP IS regular federal cost of unemp-to-RIS inflow 638.7m 2027; tick431
+bud_spp_is_regular_inflow_cost_2028,spp_is,2028,723900000,,,projection,src_ccrek_budget2026_spp_is_cpas,medium,SPP IS regular federal cost of unemp-to-RIS inflow 723.9m 2028; tick431
+bud_spp_is_regular_inflow_cost_2029,spp_is,2029,556100000,,,projection,src_ccrek_budget2026_spp_is_cpas,medium,SPP IS regular federal cost of unemp-to-RIS inflow 556.1m 2029; tick431
+bud_spp_is_new_ris_persons_2026,spp_is,2026,52400,,,beneficiary_stock,src_ccrek_budget2026_spp_is_cpas,strong,Expected ~52400 new RIS from unemployment limitation 2026 (CoA footnote); tick431
+bud_spp_is_dossier_fee_2026,spp_is,2026,518,,,unit_cost_eur,src_ccrek_budget2026_spp_is_cpas,strong,CPAS dossier fee 518 EUR/RIS beneficiary/year (temp 1036 for compensated H1-2026 cohort); tick431

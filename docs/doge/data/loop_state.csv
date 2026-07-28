@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T05:45:00Z,rq_421,430,no,Scheduler 60s. Next prio5 rq_422; rq_116 SWA deferred. tick430 progress coverage+top10.
+main,continuous,hole_fill,2026-08-02T06:15:00Z,rq_422,431,no,Scheduler 60s. Next prio5 rq_423; rq_116 SWA deferred. tick431 SPP IS CPAS 2.24bn +comp 300m.
