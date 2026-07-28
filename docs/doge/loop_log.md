@@ -6355,3 +6355,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +11; cmt +2; lb +6; FOI **gap_mb_pillar2_use_l5** ready+draft; rq_519=done spawn **rq_520**; ticks=528
 - FOI opened: gap_mb_pillar2_use_l5 (ready, human send) — not sent
 - Next: prio5 **rq_520** (**progress@530 next tick**); deferred **rq_116** SWA
+
+### 2026-07-29T06:15:00Z - tick 529
+- Unit: **rq_520** (FOI-adjacent hole-fill — **CoA 2025_33 Métro 3 BRU dual STIB+Beliris**)
+- Found (strong primary Cour des comptes AG 8 Oct 2025 + press/synthèse):
+  - **Total Dec2024: €4,759.7m** vs **€824.2m** 2012 (**+€3,935.5m / +477%**); service **2035** (was 2020)
+  - Segments: Nord-Albert class **€1,323.1m** · Nord-Bordet **€3,102.8m** · Bordet full **€3,436.6m** (lot3 1,698.9+risk 254.8)
+  - **Spent EOY2024: €421.3m** (NA 316.4 + BN 104.9); remaining works **€4,338.4m**
+  - **Beliris:** envelope 516.3m · financed **464.4m** · **402.7m diverted** other metro · residual **51.9m**
+  - **BCR financing gap ~€4,286.5m** (~4bn class; >2/3 2024 receipts)
+  - **EIB loan €475m** 25y (draw by Dec 2027; need ≥950m invest)
+  - STIB scenarios: A **4,375** · A-PPP **7,743** · B **1,653** · C pause **4,807** · E stop **1,002**
+  - SM BMN conflict: firm **0.76m** vs conditional **19.1m**; governance/procurement failures; works suspended
+  - **Dual:** STIB maitre ouvrage + Beliris federal delegated; federal ~500m cap vs 4.8bn programme
+- Wrote: sources +4; budgets +17; cmt +5; lb +9; FOI **gap_metro3_cash_by_year_l5** ready+draft; raw PDF+press+synth; rq_520=done spawn **rq_521**; ticks=529
+- FOI opened: gap_metro3_cash_by_year_l5 (ready, human send) — not sent
+- Next: prio5 **rq_521** (**progress@530 THIS next tick**); deferred **rq_116** SWA

@@ -9126,3 +9126,20 @@ bud_mb_pillar1_cars_q4_2023,onss_rsz,2023,947,,,outturn,src_ccrek_mobiliteitsbud
 bud_co2_contrib_lt20_emp_2022,onss_rsz,2022,59121000,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,CO2 contributions from employers <20 staff 59.1m (21pct) 2022; weak systematic control; tick528
 bud_co2_contrib_gt20_emp_2022,onss_rsz,2022,219400000,,,outturn,src_ccrek_mobiliteitsbudget_l5_2024,strong,CO2 contributions employers >20 staff 219.4m (79pct) 2022; tick528
 bud_dual_mb_vs_cars,gg_belgium,2023,71983858,,,derived,src_dual_mb_vs_company_cars_tick528,strong,Dual MB 72m vs company-car CO2 stack; not additive TE; tick528
+bud_metro3_total_coa_2024,stib,2024,4759700000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA Table3 Dec2024 total programme Metro3 4759.7m; +3935.5m (+477pct) vs 824.2m 2012; service 2035; tick529
+bud_metro3_initial_2012,stib,2012,824200000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA Table3 Aug2012 opportunity study total 824.2m service 2020; tick529
+bud_metro3_nord_albert_2024,stib,2024,1323100000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA Table3 Albert-Gare du Nord 1323.1m Dec2024; tick529
+bud_metro3_anneessens_midi_2024,stib,2024,798500000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA Table3 adaptation Anneessens-Midi 798.5m Dec2024; tick529
+bud_metro3_nord_bordet_2024,beliris,2024,3102800000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA Table3 Gare du Nord-Bordet 3102.8m Dec2024 incl junction under Nord; tick529
+bud_metro3_bordet_nord_full_2024,beliris,2024,3436600000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA Table4 Bordet-Nord full 3436.6m incl depot rolling stock; lot3 1698.9+risk15pct 254.8; tick529
+bud_metro3_spent_eoy2024,stib,2024,421300000,,,outturn,src_ccrek_metro3_bru_2025,strong,CoA spent EOY2024: Nord-Albert 316.4m + Bordet-Nord 104.9m = 421.3m excl STIB staff; tick529
+bud_metro3_remaining_works_2024,stib,2024,4338400000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA remaining works 4338.4m of 4759.7m; tick529
+bud_metro3_beliris_financed_eoy2024,beliris,2024,464417714,,,outturn,src_ccrek_metro3_bru_2025,strong,CoA Table5 Beliris invoices accepted 464.4m EOY2024 of 516.3m avenant envelope; tick529
+bud_metro3_beliris_diverted_2024,beliris,2024,402735748,,,outturn,src_ccrek_metro3_bru_2025,strong,CoA: 402.7m Beliris metro resources used by STIB for other metro modernisation/rolling stock under avenant15; tick529
+bud_metro3_bcr_financing_gap_2024,sec_brussels,2024,4286500000,,,estimate,src_ccrek_metro3_bru_2025,strong,CoA: of 4338.4m remaining after Beliris residual 51.9m; ~4286.5m a priori BCR; financing deficit class ~4bn; tick529
+bud_metro3_eib_loan_2023,sec_brussels,2023,475000000,,,commitment,src_ccrek_metro3_bru_2025,strong,CoA: EIB loan 475m 25y signed 21 Dec 2023 for Nord-Albert premetro conversion; draw by 21 Dec 2027; need >=950m invest; tick529
+bud_metro3_scenario_a_2025,stib,2025,4375000000,,,estimate,src_ccrek_metro3_bru_2025,strong,STIB scenario A full classic 4375m of which 3829m from 2026; Nord-Albert 2034 Bordet 2040; tick529
+bud_metro3_scenario_a_ppp_2025,stib,2025,7743000000,,,estimate,src_ccrek_metro3_bru_2025,strong,STIB scenario A PPP variant 7743m of which 7198m from 2026; payments to 2067; full line 2042; tick529
+bud_metro3_scenario_b_2025,stib,2025,1653000000,,,estimate,src_ccrek_metro3_bru_2025,strong,STIB scenario B Nord-Albert only abandon Bordet 1653m of which 1108m from 2026; tick529
+bud_metro3_scenario_e_2025,stib,2025,1002000000,,,estimate,src_ccrek_metro3_bru_2025,strong,STIB scenario E full stop 1002m of which 456m from 2026; abandon cost 223m + lost invest class 546m; tick529
+bud_dual_metro3_stib_beliris,gg_belgium,2024,4759700000,,,derived,src_dual_metro3_stib_beliris_tick529,strong,Dual Metro3 total 4.76bn STIB+Beliris federal-regional; not additive TE; tick529

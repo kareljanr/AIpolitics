@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T06:00:00Z,rq_519,528,no,Tick528 CoA mobiliteitsbudget 72m 10k workers dual cars; next prio5 rq_520; progress@530 next; rq_116 SWA deferred.
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-29T06:15:00Z,rq_520,529,no,Tick529 CoA Metro3 4.76bn +477pct Beliris divert 403m gap ~4.3bn dual STIB; next prio5 rq_521; progress@530 next tick; rq_116 SWA deferred.
