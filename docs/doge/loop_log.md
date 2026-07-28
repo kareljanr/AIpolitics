@@ -6488,3 +6488,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +14; cmt +3; lb +7; FOI **gap_aging_reform_cash_l5** ready+draft; rq_528=done spawn **rq_529**; ticks=537
 - FOI opened: gap_aging_reform_cash_l5 (ready, human send) — not sent
 - Next: prio5 **rq_529**; deferred **rq_116** SWA
+
+### 2026-07-29T08:30:00Z - tick 538
+- Unit: **rq_529** (FOI-adjacent hole-fill — **Kamer exposé Graph1 dual federal/SS flows + Entity I Table3 saldo**)
+- Found (strong primary DOC 56 1278/001 Graph1 + Tables 3–4):
+  - **Graph1 federal (2026 bn):** receipts **173.7** (fiscal **164.3**: IPP **64.2** VAT **45.1** CIT **26.0** excises **11.2** RV **8.0**); nonfiscal **9.4**
+  - **Transfers out:** Entity II **81.5** · SS **54.3** · EU **9.1** → **available federal only 27.5**
+  - **Graph1 SS:** total=available **148.0** (SSC **85.5** + federal **54.3** + federated **0.4** + other **7.8**)
+  - **Table3 Entity I 2026:** receipts **201.98bn** · primary exp **215.88bn** · primary saldo **−12.47bn** · interest **12.17bn** · financing saldo **−24.64bn (−3.7% GDP)** vs **−23.05bn (−3.6%)** 2025
+  - Defence ESR corr **−1.9bn** less favourable 2026 + EU GNI **+1.2bn**; unallocated measures **+1.425bn (0.2% GDP)**
+  - Defence effort save fill **€250m 2026 → €1bn** path
+- Wrote: sources +2; budgets +23; cmt +3; lb +7; FOI **gap_e1_unallocated_measures_l5** ready+draft; rq_529=done spawn **rq_530**; ticks=538
+- FOI opened: gap_e1_unallocated_measures_l5 (ready, human send) — not sent
+- Next: prio5 **rq_530** (progress@540 soon); deferred **rq_116** SWA

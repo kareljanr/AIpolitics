@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T08:15:00Z,rq_528,537,no,Tick537 exposé SCvV aging 25.8-27.5pct GDP +1.7pp cost dual E1/E2; policy saves 2.7bn+1.9bn; next prio5 rq_529; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T08:30:00Z,rq_529,538,no,Tick538 exposé Graph1 dual fed available 27.5bn vs SS 148bn; E1 deficit -24.6bn -3.7pct GDP; next prio5 rq_530; progress@540; rq_116 SWA deferred.
