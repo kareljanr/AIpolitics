@@ -5979,3 +5979,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +16; cmt +4; lb +6; FOI **gap_dwv_studies_contractor_l5** ready+draft; raw PDFs; rq_492=done spawn **rq_493**; ticks=501
 - FOI opened: gap_dwv_studies_contractor_l5 (ready, human send) — not sent
 - Next: prio5 **rq_493**; deferred **rq_116** SWA
+
+### 2026-07-28T21:30:00Z - tick 502
+- Unit: **rq_493** (FOI-adjacent hole-fill — **CoA 2026_18 Toekomstverbond 6e voortgang + dual DWV**)
+- Found (strong primary Rekenhof NL 24 Mar 2026):
+  - **Oosterweel exec budget €10.055bn** (Jan2024) from task **€4.391bn** (2019) → **€5.369bn** (2022); inflation **€1.5bn** 2019-23
+  - Adds: invest **299** · overmacht/PFAS **1.861** · LBH2 under **655** · risk **607**
+  - **BC2026:** assets end-build **€13.614bn** · fin need **€8.273bn** · CAPEX remain **€7.275bn** · bonds **€7.751bn** · subloans **€2.850bn** · **interest €24.495bn** 2026-2083
+  - Spent eoy2025: main **€2.674bn** · PFAS **€476.9m**; Linkeroever main within budget
+  - **Table1 TV clusters:** main **7.917** · overmacht **2.258** · leefbaarheid **1.696** · Haventracé **4.1–15.9bn** · modal shift opaque
+  - VL debt path MJR **41.7→74.6bn** 2024-30; GIP vs Lantis multiyear unreconciled
+  - **Dual:** TV mega-envelope vs DWV study overruns **~€125m** (tick501)
+- Wrote: sources +2; budgets +23; cmt +4; lb +7; FOI **gap_tv_oosterweel_finance_l5** ready+draft; raw PDF; rq_493=done spawn **rq_494**; ticks=502
+- FOI opened: gap_tv_oosterweel_finance_l5 (ready, human send) — not sent
+- Next: prio5 **rq_494**; deferred **rq_116** SWA

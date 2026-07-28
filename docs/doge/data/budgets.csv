@@ -8700,3 +8700,26 @@ bud_dwv_r4_spent_class_2025_03,de_werkvennootschap,2025,16940000,,,outturn,src_c
 bud_dwv_r4_deel4_raise_2023,de_werkvennootschap,2023,9200000,,,budgeted,src_ccrek_dwv_studies_2026,strong,R4 deelopdracht4 studiebudget raised 4.3->9.2m 2023; undermines plafond; tick501
 bud_dwv_studies4_spent_class_2025,de_werkvennootschap,2025,124900000,,,outturn,src_ccrek_dwv_studies_2026,strong,Four audited studies spent class ~124.9m Mar2025 (85.4+11.1+11.0+17.4); still running; tick501
 bud_dual_dwv_studies_vs_lantis,gg_belgium,2025,124900000,,,derived,src_dual_dwv_lantis_gip_tick501,strong,Dual DWV study cash 125m class vs Lantis Toekomstverbond 3.85bn same mobility stack; tick501
+bud_oosterweel_task_budget_2019,lantis,2019,4391000000,,,budgeted,src_ccrek_toekomstverbond_6_2026,strong,Task budget 3.6bn main +0.7bn LBH underbuild RO = 4391m price 2019; tick502
+bud_oosterweel_task_budget_2022,lantis,2022,5369000000,,,budgeted,src_ccrek_toekomstverbond_6_2026,strong,Task budget raised Oct2022 to 5369m price Jan2022; inflation 1.5bn 2019-23; tick502
+bud_oosterweel_exec_budget_2024,lantis,2024,10055000000,,,budgeted,src_ccrek_toekomstverbond_6_2026,strong,Total Oosterweel execution budget 10055m price Jan2024 after RO contract (PFAS/overmacht 1861 + LBH2 655 + risk 607 + invest 299); tick502
+bud_oosterweel_main_invest_table1,lantis,2026,7917000000,,,estimated,src_ccrek_toekomstverbond_6_2026,strong,Table1 main works Oosterweel incl underbuild LBH RO 7917m; finance bonds 5500 sub 1200 equity 1172; tick502
+bud_oosterweel_overmacht_pfas_table1,lantis,2026,2258000000,,,estimated,src_ccrek_toekomstverbond_6_2026,strong,Table1 overmacht+PFAS-related 2258m; finance sub 1650 toll 300 third 99; tick502
+bud_tv_leefbaarheid_phases,lantis,2026,1696000000,,,estimated,src_ccrek_toekomstverbond_6_2026,strong,Table1 leefbaarheid fase1+2 excl underbuild 1696m; overkap 499.3 city/port 250; tick502
+bud_tv_haventrace_low,lantis,2026,4100000000,,,estimated,src_ccrek_toekomstverbond_6_2026,medium,Table1 Haventrace rough low 4.1bn exploration variants; tick502
+bud_tv_haventrace_high,lantis,2026,15900000000,,,estimated,src_ccrek_toekomstverbond_6_2026,medium,Table1 Haventrace rough high 15.9bn exploration variants; financing general budget ?; tick502
+bud_oosterweel_bc2026_assets,lantis,2033,13614000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 materieel vaste activa OWV end build 13614m (was 10885 BC2025); build end 31/12/2033; tick502
+bud_oosterweel_bc2026_fin_need,lantis,2033,8273000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 remaining net financing need build phase 8273m; tick502
+bud_oosterweel_bc2026_capex_remain,lantis,2033,7275000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 remaining CAPEX build phase 7275m; tick502
+bud_oosterweel_bc2026_opex,lantis,2083,4464000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 remaining OPEX build+ops phase 4464m; tick502
+bud_oosterweel_bc2026_bonds,lantis,2033,7751000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 LT bonds 5500+2251=7751m; tick502
+bud_oosterweel_bc2026_subloans,lantis,2033,2850000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 subordinated loans 1200+1650=2850m; tick502
+bud_oosterweel_bc2026_interest,lantis,2083,24495000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,BC2026 interest payable 2026-2083 24495m; tick502
+bud_oosterweel_spent_main_2025,lantis,2025,2674100000,,,outturn,src_ccrek_toekomstverbond_6_2026,strong,Main works invested 2674.1m end-2025 cumulative; tick502
+bud_oosterweel_spent_pfas_2025,lantis,2025,476900000,,,outturn,src_ccrek_toekomstverbond_6_2026,strong,PFAS sanering invested 476.9m end-2025 cumulative; tick502
+bud_oosterweel_linkeroever_main_2025,lantis,2025,461100000,,,outturn,src_ccrek_toekomstverbond_6_2026,strong,Linkeroever main works actual 461.1m vs budget 467.5m eoy2025; tick502
+bud_oosterweel_linkeroever_pfas_2025,lantis,2025,166800000,,,outturn,src_ccrek_toekomstverbond_6_2026,strong,Linkeroever PFAS/overmacht actual 166.8m vs budget 159.7m eoy2025; tick502
+bud_oosterweel_risk_budget_2024,lantis,2024,607000000,,,budgeted,src_ccrek_toekomstverbond_6_2026,strong,Risk budget 607m in 10055m execution package; tick502
+bud_oosterweel_inflation_2019_23,lantis,2023,1500000000,,,estimated,src_ccrek_toekomstverbond_6_2026,strong,Inflation impact on Oosterweel 1.5bn 2019-2023 CoA; tick502
+bud_vl_debt_mjr_2030_tv,vlaanderen_gov,2030,74600000000,,,projection,src_ccrek_toekomstverbond_6_2026,strong,VL consol gross debt path 41.7bn 2024 to 74.6bn 2030 MJR (+80pct) CoA TV ch2; tick502
+bud_dual_tv_dwv_mobility,gg_belgium,2026,10055000000,,,derived,src_dual_tv_dwv_mobility_tick502,strong,Dual Oosterweel exec 10.055bn class vs DWV studies 0.125bn; not additive TE; tick502

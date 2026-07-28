@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T21:10:00Z,rq_492,501,no,Tick501 CoA DWV studies R0N 85-104m +4-pack ~125m dual Lantis; next prio5 rq_493; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T21:30:00Z,rq_493,502,no,Tick502 CoA TV6 Oosterweel 10bn BC interest 24.5bn dual DWV; next prio5 rq_494; rq_116 SWA deferred.
