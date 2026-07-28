@@ -5045,3 +5045,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +19; cmt +2; lb +10; rq_424=done; spawn **rq_425**; ticks=433
 - FOI: none new (autres_dep 9.37bn L5 optional later if annex absent)
 - Next: prio5 **rq_425**; deferred **rq_116** SWA
+
+### 2026-08-02T07:45:00Z - tick 434
+- Unit: **rq_425** (FOI-adjacent hole-fill - **pension reform L5 multi-year 2027-2030**)
+- Found (strong primary Cour des comptes Budget Etat 2026 p82-83, cellule Pensions):
+  - **Total estimated saves:** **EUR 807 / 1.304 / 1.787 / 2.229bn** (2027-2030)
+  - Largest lines 2027→2030: **reforme calcul 679→1.915bn** · **bonus-malus 273→473m** · **carriere anticip 136→323m** · **pens maladie pub extinct 94→302m** · **index hautes pens 97→253m** · **perequation 64→156m** · **convergence 125m/yr flat**
+  - Net **costs**: age flexible **−47→−77m** · alloc trans vs survie **−36m 2027** then positive · transitoires **−25→−99m**
+  - **Legislation still pending (CoA):** GRAPA conditions · survie→transition · menage extinction · periodes assimilees
+  - SFP: models need major updates; late laws → partial non-delivery risk (2026 already −64m delay dual)
+  - Dual: prior totals bud_pens_reform_save_*; FPD menage 5.92bn stock; FPD transition 63m
+- Wrote: sources +1; budgets +73; cmt +1; lb +10; rq_425=done; spawn **rq_426**; ticks=434
+- FOI: none new (package primary; residual is legislative delivery not opacity)
+- Next: prio5 **rq_426**; deferred **rq_116** SWA
