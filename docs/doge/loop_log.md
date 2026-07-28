@@ -5375,3 +5375,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entity boic update; budgets +12; cmt +1; lb +10; FOI **gap_boic_institutional_tco** ready; rq_448=done; spawn **rq_449**; ticks=457
 - FOI: gap_boic_institutional_tco draft ready human send (AR TCO + L5 recon + BOPC business case)
 - Next: prio5 **rq_449** (Myria NL dual / Red Cross / residual); deferred **rq_116** SWA
+
+### 2026-08-02T19:45:00Z - tick 458
+- Unit: **rq_449** (FOI-adjacent hole-fill - **Rode Kruis-Vlaanderen TCO dual Fedasil 140m + NL 1.63m**)
+- Found (strong primary RKV finance portal):
+  - **Income 2024 EUR 312.8m** = asylum **140.0m** + blood **114.0m** + humanitarian **58.7m**
+  - **Costs 314.4m** = asylum **140.3m** + blood **110.9m** + humanitarian **63.2m** (~-1.6m class)
+  - **NL plan 1.634m** ~**0.5%** of income (tiny vs TCO)
+  - Asylum under **Fedasil opvangconventie** — major named L5 under third-party **559m** path
+  - IFRC dues **0.330m** + EU office **27k** + Standing Comm **3k**
+  - Dual: FR Croix-Rouge separate; VL Helper decree 2024 legal personality; volunteers class 12.5k
+- Wrote: sources +3; entity rode_kruis_vlaanderen; budgets +14; cmt +1; lb +10; foi gap_fedasil note; rq_449=done; spawn **rq_450**; ticks=458
+- FOI: gap_fedasil partial fill RKV 140m; residual other partners still ready human send
+- Next: prio5 **rq_450** (Myria NL dual / progress@460); deferred **rq_116** SWA

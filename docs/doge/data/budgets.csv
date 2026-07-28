@@ -8134,3 +8134,17 @@ bud_boic_medal_silver_rate,boic,2024,30000,,,rate,src_boic_paris_premies_announc
 bud_boic_medal_bronze_rate,boic,2024,20000,,,rate,src_boic_paris_premies_announce,strong,Bronze medal premium 20k; tick457
 bud_team_belgium_athletes_paris,boic,2024,165,,,count,src_boic_paris_premies_1058k,medium,Team Belgium Paris final class ~165 athletes (press 164-172 range during selection); tick457
 bud_team_belgium_athletes_milano,boic,2026,30,,,count,src_boic_milano_premies_2026,strong,Team Belgium Milano Cortina 30 athletes (16F/14M); tick457
+bud_rkv_income_total_2024,rode_kruis_vlaanderen,2024,312800000,,,outturn,src_rkv_inkomsten_2024,strong,RKV total income 312.8m 2024 official portal; tick458
+bud_rkv_costs_total_2024,rode_kruis_vlaanderen,2024,314400000,,,outturn,src_rkv_kosten_2024,strong,RKV total costs 314.4m 2024; result class -1.6m; tick458
+bud_rkv_asylum_income_2024,rode_kruis_vlaanderen,2024,140000000,,,outturn,src_rkv_inkomsten_2024,strong,Asylum reception income 140.0m (Fedasil convention path); tick458
+bud_rkv_asylum_costs_2024,rode_kruis_vlaanderen,2024,140300000,,,outturn,src_rkv_kosten_2024,strong,Asylum reception costs 140.3m (emergency+regular+Ukraine); tick458
+bud_rkv_blood_income_2024,rode_kruis_vlaanderen,2024,114000000,,,outturn,src_rkv_inkomsten_2024,strong,Dienst voor het Bloed income 114.0m; tick458
+bud_rkv_blood_costs_2024,rode_kruis_vlaanderen,2024,110900000,,,outturn,src_rkv_kosten_2024,strong,Blood service costs 110.9m; tick458
+bud_rkv_humanitarian_income_2024,rode_kruis_vlaanderen,2024,58700000,,,outturn,src_rkv_inkomsten_2024,strong,Humanitaire Diensten income 58.7m; tick458
+bud_rkv_humanitarian_costs_2024,rode_kruis_vlaanderen,2024,63200000,,,outturn,src_rkv_kosten_2024,strong,Humanitarian services costs 63.2m; tick458
+bud_rkv_nl_plan_2024,rode_kruis_vlaanderen,2024,1634000,,,budget,src_nloterij_kb_voorlopig_2024,strong,NL plan Rode Kruis 1.634m (werking 1.514+repatriates 0.12); ~0.5pct of income; tick458
+bud_rkv_nl_share_income_pct_2024,rode_kruis_vlaanderen,2024,1,,,pct,src_rkv_inkomsten_2024,strong,NL 1.634 of income 312.8 ~0.52pct (stores 1); tick458
+bud_rkv_ifrc_dues_2024,rode_kruis_vlaanderen,2024,329704,,,outturn,src_rkv_kosten_2024,strong,IFRC membership contribution 329704 EUR 2024; tick458
+bud_rkv_eu_office_dues_2024,rode_kruis_vlaanderen,2024,26771,,,outturn,src_rkv_kosten_2024,strong,Red Cross/EU Office dues 26771 EUR; tick458
+bud_rkv_standing_comm_dues_2024,rode_kruis_vlaanderen,2024,3234,,,outturn,src_rkv_kosten_2024,strong,Standing Commission RC/RC dues 3234 EUR; tick458
+bud_rkv_result_class_2024,rode_kruis_vlaanderen,2024,-1600000,,,outturn,src_rkv_kosten_2024,medium,Income 312.8 - costs 314.4 = ~-1.6m class (not statutory net); tick458
