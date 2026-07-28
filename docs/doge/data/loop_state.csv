@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T17:50:00Z,rq_482,491,no,Tick491 CoA prison DBFM follow-up; next prio5 rq_483; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T18:10:00Z,rq_483,492,no,Tick492 CoA GIP 3.685bn; next prio5 rq_484; rq_116 SWA deferred.

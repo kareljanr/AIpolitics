@@ -5835,3 +5835,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_dbfm_fees_full_table_2026 (ready, human send) — not sent
 - Next: prio5 **rq_483**; deferred **rq_116** SWA
 
+
+### 2026-07-28T18:10:00Z - tick 492
+- Unit: **rq_483** (FOI-adjacent hole-fill — **CoA 2026_27 Flanders GIP MOW + dual SOFICO**)
+- Found (strong primary Rekenhof NL 16 Jun 2026 + press):
+  - **GIP 2025-27** annual avg **€2.503bn**; plan 2026 **2.424bn** ? available **3.864bn** ? **actualisatie 2026 €3.685bn** (VR 22 May)
+  - Entity demand 2026 **€4.270bn** (avg 26-29 **3.122bn**); recurrent fixed **~€631m**/yr
+  - Extra invest 2025: promised **530m** delivered **363m** (partly maintenance reclass)
+  - **Fiets** actualisatie **~€220m** vs target **€300m**
+  - Oosterweel extra **+€857m** · leefbaarheid **+€629.8m** · new projects **444.5m** · removed **316.4m** · non-input 43 proj **68.4m**
+  - Pre-draws Q1 **>€900m**; governance: weak legal frame, non-objective prioritisation, data quality fail, 3y not 5y horizon
+  - **Dual:** VL multi-mode GIP vs WAL SOFICO roads
+- Wrote: sources +3; budgets +18; cmt +3; lb +5; FOI **gap_gip_l5_outturn_2025_26** ready+draft; raw PDFs; rq_483=done spawn **rq_484**; ticks=492
+- FOI opened: gap_gip_l5_outturn_2025_26 (ready, human send) — not sent
+- Next: prio5 **rq_484**; deferred **rq_116** SWA
+
