@@ -5609,3 +5609,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +7; cmt +4; lb +5; FOI gap_nl_prestige updated (2024 partial fill; 2025 L5 still ready); rq_468=done spawn **rq_469**; ticks=477
 - FOI: gap_nl_prestige still ready human send (2025 named + recon)
 - Next: prio5 **rq_469**; deferred **rq_116** SWA
+
+### 2026-08-03T05:45:00Z - tick 478
+- Unit: **rq_469** (FOI-adjacent hole-fill - **NL JV2024 financial supports architecture 201.2m**)
+- Found (strong primary JV2024/RA2024):
+  - **725** financial-support beneficiaries 2024 (**174** first-time)
+  - Four channels sum **EUR 201.198m**:
+    - Prestige **614** dossiers **18.567m** (prior tick477)
+    - Child poverty call **54** dossiers **1.02208m**
+    - Eco-coaching **23** dossiers **0.115m** (first call)
+    - Nominative **34** beneficiaries **181.494082m** (communities KBF Red Cross Child Focus Unia class)
+  - Proximity separate **1132** ben **1.257m** (not inside 725)
+  - Recon to plan def 217.5m residual FOI
+- Wrote: sources +4; budgets +5; cmt +4; lb +4; FOI **gap_nl_nominative_34_l5** + **gap_nl_child_eco_calls_l5** ready+drafts; rq_469=done spawn **rq_470**; ticks=478
+- FOI opened: 2 ready (human send)
+- Next: prio5 **rq_470** (progress@480 soon); deferred **rq_116** SWA

@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T05:15:00Z,rq_468,477,no,Scheduler 60s. Next prio5 rq_469; rq_116 SWA deferred. tick477 prestige 18.57m + classical dual 1.64m.
+main,continuous,hole_fill,2026-08-03T05:45:00Z,rq_469,478,no,Scheduler 60s. Next prio5 rq_470; progress@480; rq_116 SWA deferred. tick478 NL financial supports 201m.
