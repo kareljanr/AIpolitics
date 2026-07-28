@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T02:20:00Z,rq_508,517,no,Tick517 CoA Smals broker 1.8bn orders 471m dual IT; next prio5 rq_509; progress@520 soon; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T02:40:00Z,rq_509,518,no,Tick518 CoA consultancy 101 contracts 2.2bn compliance dual; next prio5 rq_510; progress@520 next; rq_116 SWA deferred.

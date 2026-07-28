@@ -6208,3 +6208,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +8; cmt +3; lb +6; FOI **gap_smals_broker_rates_l5** ready+draft; rq_508=done spawn **rq_509**; ticks=517
 - FOI opened: gap_smals_broker_rates_l5 (ready, human send) — not sent
 - Next: prio5 **rq_509** (progress@520 soon); deferred **rq_116** SWA
+
+### 2026-07-29T02:40:00Z - tick 518
+- Unit: **rq_509** (FOI-adjacent hole-fill — **CoA consultancy Ch6 101-contract procurement compliance L5 dual**)
+- Found (strong primary same CoA consultancy Oct 2025, Ch6 residual):
+  - **Sample 101 contracts ~€2.2bn** incl VAT (2020-22 execution path)
+  - **Non-compliance rates (of applicable contracts):** incomplete docs **63.4% / €1.5bn** · no cost-benefit **78.2% / €1.8bn** · need unjustified **20.8% / €1.0bn** · no realistic estimate **44.6% / €1.4bn** · exclusion unchecked **67.5% / €1.7bn** · selection fail **39.2% / €1.1bn** · abnormal prices **60.2% / €1.4bn** · award decision fail **40.5% / €1.5bn** · delegation **12.9% / €586m** · negotiation **10.3% / €280m** · forfait **8.1% / €78m**
+  - **Named overruns:** org consult **1.8?>47m** · SAP **10?>22m** · datamine **72?110m** · micro **0.4?10m**
+  - **Dual:** compliance failure under 2.5bn consultancy stack + Smals broker channel
+- Wrote: sources +2; budgets +19; cmt +3; lb +7; FOI **gap_cons_101_named_overruns_l5** ready+draft; rq_509=done spawn **rq_510**; ticks=518
+- FOI opened: gap_cons_101_named_overruns_l5 (ready, human send) — not sent
+- Next: prio5 **rq_510** (**progress@520 next tick**); deferred **rq_116** SWA
