@@ -6534,3 +6534,26 @@ bud_cofog_2024_sick_dis,sec_ss,2024,24255000000,,,esa,src_nbb_cofog_2024_dec2025
 bud_cofog_2024_old_age,sec_ss,2024,71792000000,,,esa,src_nbb_cofog_2024_dec2025,strong,Old age and survivors 71792m 21.4pct; tick414
 bud_cofog_2024_unemp,sec_ss,2024,6575000000,,,esa,src_nbb_cofog_2024_dec2025,strong,Unemployment 6575m 2.0pct; share halved in 20y; tick414
 bud_cofog_2024_social_other,sec_ss,2024,23919000000,,,esa,src_nbb_cofog_2024_dec2025,strong,Other social protection 23919m 7.1pct; tick414
+bud_ec_cr_gg_deficit_pct_2025,gg_belgium,2025,,,,forecast_pct,src_ec_cr_be_2026,strong,GG deficit 5.2pct GDP 2025 Commission Spring Forecast dual NBB/ICN EDP; tick415
+bud_ec_cr_gg_deficit_pct_2026,gg_belgium,2026,,,,forecast_pct,src_ec_cr_be_2026,strong,GG deficit stabilise 5.2pct GDP 2026 Spring Forecast; tick415
+bud_ec_cr_gg_deficit_pct_2027,gg_belgium,2027,,,,forecast_pct,src_ec_cr_be_2026,strong,GG deficit 5.4pct GDP 2027 Spring Forecast driven by defence+interest; tick415
+bud_ec_cr_debt_pct_2025,gg_belgium,2025,,,,forecast_pct,src_ec_cr_be_2026,strong,Debt 107.9pct GDP end-2025 dual NBB; tick415
+bud_ec_cr_debt_pct_2026,gg_belgium,2026,,,,forecast_pct,src_ec_cr_be_2026,strong,Debt 110.5pct GDP end-2026 Spring Forecast; tick415
+bud_ec_cr_debt_pct_2027,gg_belgium,2027,,,,forecast_pct,src_ec_cr_be_2026,strong,Debt 112.8pct GDP end-2027 Spring Forecast; tick415
+bud_ec_cr_te_pct_gdp_2025,gg_belgium,2025,,,,forecast_pct,src_ec_cr_be_2026,strong,Public expenditure 54.2pct GDP 2025 among highest EU; dual NBB TE 347.956bn; tick415
+bud_ec_cr_te_gap_neighbours_2023,gg_belgium,2023,,,,benchmark_pct,src_ec_cr_be_2026,medium,Public exp ~4.6pp GDP above main neighbours 2023 mainly general affairs+education; Graph1.1; tick415
+bud_ec_cr_pub_invest_2019,gg_belgium,2019,,,,esa_pct,src_ec_cr_be_2026,strong,Public investment 2.6pct GDP 2019 baseline Annex2; tick415
+bud_ec_cr_pub_invest_2026,gg_belgium,2026,,,,forecast_pct,src_ec_cr_be_2026,strong,Public investment 3.3pct GDP 2026 (rise from 2.6 2019) Annex2 Graph A2.2; tick415
+bud_ec_cr_def_pct_2026,mod_defensie,2026,,,,forecast_pct,src_ec_cr_be_2026,strong,Defence GG 1.6pct GDP 2026 (+0.4pp vs 2024) CSR1.1 substantial progress; tick415
+bud_ec_cr_def_pct_2027,mod_defensie,2027,,,,forecast_pct,src_ec_cr_be_2026,strong,Defence GG 1.8pct GDP 2027 (+0.6pp vs 2024); tick415
+bud_ec_cr_tax_gdp_2024,gg_belgium,2024,,,,esa_pct,src_ec_cr_be_2026,strong,Tax revenue incl SSC 42.8pct GDP 2024 vs EU 39.4 Annex3; tick415
+bud_ec_cr_tax_gdp_2025,gg_belgium,2025,,,,esa_pct,src_ec_cr_be_2026,strong,Tax-to-GDP prelim 42.3pct 2025 footnote Eurostat; dual Annex3 body 42.0; tick415
+bud_ec_cr_labour_tax_share_2024,gg_belgium,2024,,,,structure_pct,src_ec_cr_be_2026,strong,Labour taxes 51.8pct of tax revenues 2024 (EU 51.5); capital 25.7 consumption 22.1; tick415
+bud_ec_cr_tax_wedge_avg_2024,gg_belgium,2024,,,,indicator_pct,src_ec_cr_be_2026,strong,Tax wedge single avg earner 50.8pct 2024 vs EU ~40; JRC EUROMOD method; tick415
+bud_ec_cr_ltc_pct_2025,sec_ss,2025,,,,esa_pct,src_ec_cr_be_2026,strong,Long-term care exp 2.3pct GDP 2025 vs EU 1.7 highest class; tick415
+bud_ec_cr_congestion_2024,gg_belgium,2024,5300000000,,,external_cost,src_ec_cr_be_2026,medium,Road congestion costs est EUR 5.3bn 2024 transport section; not GG TE line; tick415
+bud_ec_cr_adapt_need_annual,gg_belgium,2025,1634000000,,,investment_need,src_ec_cr_be_2026,medium,DG CLIMA adaptation investment need ~1.634bn/yr to 2050 (0.2pct GDP) infra 58pct ag 19pct eco 13pct health 7pct; tick415
+bud_ec_cr_flood_wal_2021,wallonie_gov,2021,2800000000,,,damage_est,src_ec_cr_be_2026,medium,2021 floods economic damage est 2.8bn Wallonia alone; tick415
+bud_ec_cr_climate_loss_2050,gg_belgium,2050,9500000000,,,projection,src_ec_cr_be_2026,weak,CERAC: extreme heat drought flood losses ~9.5bn/yr by 2050 ~2pct GDP; tick415
+bud_ec_cr_proc_pct_gdp,gg_belgium,2025,,,,oecd_pct,src_ec_cr_be_2026,medium,Public procurement ~15.2pct GDP / ~27.3pct GG exp OECD class Annex5; tick415
+bud_ec_cr_vat_gap_2024,fod_finance,2024,,,,indicator_pct,src_ec_cr_be_2026,medium,VAT gap 13.9pct VTTL 2024 vs EU 10.5; compliance residual; tick415

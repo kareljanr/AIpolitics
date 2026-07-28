@@ -4781,3 +4781,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +17; cmt +1; lb +8; raw PDF; FOI gap_defence note; rq_405=done; spawn **rq_406**; ticks=414
 - FOI: no new gap (function L1 complete); residual L5 + defence signed cash still ready human send
 - Next: prio5 **rq_406**; deferred **rq_116** SWA
+
+### 2026-08-01T22:15:00Z - tick 415
+- Unit: **rq_406** (FOI-adjacent hole-fill - **EC Country Report Belgium 2026 SWD(2026) 201**)
+- Found (strong primary EU Commission 3 Jun 2026; Spring Forecast cut-off 30 Apr):
+  - **Deficit** 5.2% GDP 2025 → **5.2%** 2026 → **5.4%** 2027; **debt** 107.9 → **110.5** → **112.8**
+  - **TE** 54.2% GDP 2025; gap vs neighbours **~4.6pp GDP** (general affairs + education)
+  - **Defence** path **1.6% / 1.8%** GDP 2026-27; **SAFE loan request EUR 8.3bn**; NEC activated
+  - **Public investment** 2.6% (2019) → **3.3%** 2026
+  - **Tax/GDP** 42.8% 2024 (EU 39.4); labour share **51.8%** of tax rev; **tax wedge** avg **50.8%** (EU ~40)
+  - **LTC** 2.3% GDP vs EU 1.7; ageing +1.6pp to 2040; pens reform -1.3pp dual FPB
+  - **Congestion** external cost **EUR 5.3bn** 2024; **adaptation need 1.634bn/yr** to 2050; CERAC loss **9.5bn/yr** by 2050
+  - **CAP** EU **3.3bn** 2023-27; **AMIF+BMVI+ISF 299.5m**; VAT gap **13.9%** VTTL
+  - **MTFSP** SPB **+2.4pp** 2025-29 reconfirmed; flood WAL 2021 damage **2.8bn**
+- Wrote: sources +1; budgets +23; cmt +5; lb +8; raw ec_country_report_belgium_2026.pdf; rq_406=done; spawn **rq_407**; ticks=415
+- FOI: none new (public complete for aggregates; residual VAT-gap euro series / SAFE drawdown cash optional later)
+- Next: prio5 **rq_407**; deferred **rq_116** SWA
