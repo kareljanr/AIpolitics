@@ -6592,3 +6592,28 @@ bud_fps_tax_cash_excise_2024,fod_finance,2024,11130400000,,,cash,src_fps_tax_cas
 bud_fps_tax_cash_excise_2025,fod_finance,2025,11068900000,,,cash,src_fps_tax_cash_open_2026,strong,Excise duties cash 11068.9m 2025 slight decline; tick416
 bud_fps_tax_cash_indirect_2024,fod_finance,2024,59199500000,,,cash,src_fps_tax_cash_open_2026,strong,Indirect taxes cash 59199.5m 2024; tick416
 bud_fps_tax_cash_indirect_2025,fod_finance,2025,60213100000,,,cash,src_fps_tax_cash_open_2026,strong,Indirect taxes cash 60213.1m 2025; tick416
+bud_ec_dbp_op_gdp_2024,gg_belgium,2024,620300000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM Table2 nominal GDP 620.3bn 2024; tick417
+bud_ec_dbp_op_gdp_2025,gg_belgium,2025,642600000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM nominal GDP 642.6bn 2025; dual TE 347.956bn 54.2pct class; tick417
+bud_ec_dbp_op_gdp_2026,gg_belgium,2026,662000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM nominal GDP 662.0bn 2026; tick417
+bud_ec_dbp_op_te_2025,gg_belgium,2025,350000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM total expenditure 350.0bn 2025; tick417
+bud_ec_dbp_op_te_2026,gg_belgium,2026,361000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM total expenditure 361.0bn 2026; tick417
+bud_ec_dbp_op_interest_2025,gg_interest,2025,15300000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM interest 15.3bn 2025; dual NBB EDP 14.28bn method gap; tick417
+bud_ec_dbp_op_interest_2026,gg_interest,2026,17000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM interest 17.0bn 2026 rising path; tick417
+bud_ec_dbp_op_net_primary_2024,gg_belgium,2024,319400000000,,,esa,src_ec_opinion_dbp_be_2026,strong,COM net nationally financed primary exp before DRM 319.4bn 2024; dual DBP 319.3; tick417
+bud_ec_dbp_op_net_primary_2025,gg_belgium,2025,331400000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM net primary exp 331.4bn 2025; tick417
+bud_ec_dbp_op_net_primary_2026,gg_belgium,2026,340900000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM net primary exp 340.9bn 2026; tick417
+bud_ec_dbp_op_deficit_pct_2026_com,gg_belgium,2026,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,COM deficit -5.0pct GDP 2026 vs DBP -4.9; dual EC CR -5.2 then -5.0; tick417
+bud_ec_dbp_op_debt_pct_2026_com,gg_belgium,2026,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,COM debt 109.9pct end-2026 vs DBP 110.1; tick417
+bud_ec_dbp_op_net_exp_growth_2025_com,gg_belgium,2025,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,COM net exp growth 3.8pct 2025 vs max 3.6 (DBP 4.3); deviation 0.7bn 0.1pct GDP within NEC; tick417
+bud_ec_dbp_op_net_exp_growth_2026_com,gg_belgium,2026,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,COM net exp growth 1.9pct 2026 vs max 2.5 (DBP 1.3); cum 5.8 vs 6.1; compliant; tick417
+bud_ec_dbp_op_drm_2026,gg_belgium,2026,3200000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM discretionary revenue measures incremental 3.2bn ~0.5pct GDP 2026; tick417
+bud_ec_dbp_op_fiscal_stance_2026,gg_belgium,2026,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,COM fiscal stance contractionary 0.9pct GDP 2026 (neutral 0.2 2025); tick417
+bud_ec_dbp_op_def_cofog_pct_2021,mod_defensie,2021,,,,esa_pct,src_ec_opinion_dbp_be_2026,strong,Defence COFOG 0.9pct GDP 2021 NEC reference; tick417
+bud_ec_dbp_op_def_invest_pct_2025,mod_defensie,2025,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,Defence GFCF 0.4pct GDP 2025 of COFOG defence 1.4; tick417
+bud_ec_dbp_op_def_invest_pct_2026,mod_defensie,2026,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,Defence GFCF 0.5pct GDP 2026 of COFOG defence 1.7; tick417
+bud_ec_dbp_op_nec_flex_2025,mod_defensie,2025,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,NEC flexibility from defence rise 0.5pct GDP 2025 (cap 1.5); tick417
+bud_ec_dbp_op_nec_flex_2026,mod_defensie,2026,,,,forecast_pct,src_ec_opinion_dbp_be_2026,strong,NEC flexibility 0.8pct GDP 2026; cumulated balance after flex -1.0pct; tick417
+bud_ec_dbp_op_eu_funds_exp_2025,gg_belgium,2025,2000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM exp funded by EU transfers 2.0bn 2025; tick417
+bud_ec_dbp_op_eu_funds_exp_2026,gg_belgium,2026,1700000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM exp funded by EU transfers 1.7bn 2026; RRF grants ~0.2-0.3pct GDP; tick417
+bud_ec_dbp_op_deviation_2025,gg_belgium,2025,700000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,Annual net-exp deviation +0.7bn 2025 (overshoot); within NEC defence flex; tick417
+bud_ec_dbp_op_deviation_2026,gg_belgium,2026,-2000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,Annual net-exp deviation -2.0bn 2026 (undershoot vs max); tick417

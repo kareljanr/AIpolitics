@@ -4812,3 +4812,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +35; cmt +5; lb +8; raw DBP PDF + FPS xlsx; rq_407=done; spawn **rq_408**; ticks=416
 - FOI: none new (public complete; residual measure L5 outturns + VAT-gap euro when VTTL base public)
 - Next: prio5 **rq_408**; deferred **rq_116** SWA
+
+### 2026-08-01T23:15:00Z - tick 417
+- Unit: **rq_408** (FOI-adjacent hole-fill - **Commission Opinion C(2026) 878 on BE DBP 2026**)
+- Found (strong primary EU 17 Feb 2026; COM Autumn forecast dual DBP):
+  - **Opinion:** DBP **complies** with EDP max net-exp growth (cum **5.8%** under **6.1%** by 2026)
+  - COM deficit **-5.2% / -5.0%** 2025-26 (DBP -4.9 2026); debt **107.3 / 109.9** (DBP 110.1)
+  - TE path **335.3 → 350.0 → 361.0bn**; interest **13.7 → 15.3 → 17.0bn**
+  - Net primary exp **319.4 / 331.4 / 340.9bn**; growth COM **3.8%** 2025 (vs 3.6; +0.7bn within NEC) → **1.9%** 2026 (vs 2.5; -2.0bn)
+  - DRM **+3.2bn (~0.5% GDP)** 2026; fiscal stance **contractionary 0.9%** GDP 2026
+  - Defence COFOG **0.9→1.7%** GDP 2021-26; NEC flex **0.5 / 0.8pp**; GDP **620.3 / 642.6 / 662.0bn**
+- Wrote: sources +1; budgets +25; cmt +4; lb +8; raw ec_opinion_dbp_be_2026.pdf; rq_408=done; spawn **rq_409**; ticks=417
+- FOI: none new (public complete; residual measure yield audits dual CoA)
+- Next: prio5 **rq_409**; deferred **rq_116** SWA

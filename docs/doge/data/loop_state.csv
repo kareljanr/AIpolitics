@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T22:45:00Z,rq_407,416,no,Scheduler 60s. Next prio5 rq_408; rq_116 SWA deferred. tick416 DBP 2026 + FPS tax cash.
+main,continuous,hole_fill,2026-08-01T23:15:00Z,rq_408,417,no,Scheduler 60s. Next prio5 rq_409; rq_116 SWA deferred. tick417 COM opinion DBP 2026.
