@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T19:50:00Z,rq_488,497,no,Tick497 VL OV 17.25bn Persona 16m dual FWB; next prio5 rq_489; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T20:10:00Z,rq_489,498,no,Tick498 CoA VL AVB+inductie >100m; next prio5 rq_490; progress@500 soon; rq_116 SWA deferred.

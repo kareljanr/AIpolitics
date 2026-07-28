@@ -8644,3 +8644,15 @@ bud_vl_agodi_provisie_kleuter_2026,agodi,2026,26700000,,,budgeted,src_vl_parl_on
 bud_vl_agodi_provisie_lager_2026,agodi,2026,40000000,,,budgeted,src_vl_parl_onderwijs_bo2026_7h,strong,AGODI provisie 40m lager (of which 20m immediate class); tick497
 bud_vl_persona_sunk_16m,agodi,2026,16000000,,,outturn_sunk,src_ccrek_persona_agodi_16m,strong,Persona IT stop Jan2026 after 16m less than 10pct features CoA primary; dual Cepage; tick497
 bud_dual_edu_vl_fwb_2026,gg_belgium,2026,17250000000,,,derived,src_dual_edu_vl_fwb_it_tick497,strong,Dual VL OV 17.25bn vs FWB edu personnel 7.1bn different perimeter; tick497
+bud_vl_avb_2019_20,vlaanderen_gov,2020,31000000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Aanvangsbegeleiding total ~31m at introduction 2019-20; tick498
+bud_vl_avb_2020_21,vlaanderen_gov,2021,29800000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,AVB total ~29.8m 2020-21 class fig2; tick498
+bud_vl_avb_2021_22,vlaanderen_gov,2022,41200000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,AVB total 41.2m 2021-22 after minister raise; tick498
+bud_vl_avb_2022_23,vlaanderen_gov,2023,45100000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,AVB total 45.1m 2022-23; tick498
+bud_vl_avb_2023_24,vlaanderen_gov,2024,50400000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,AVB total 50.4m 2023-24; tick498
+bud_vl_avb_2024_25,vlaanderen_gov,2025,52200000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,AVB total 52.2m 2024-25 CoA fig2; tick498
+bud_vl_inductie_envelope_2026_27,vlaanderen_gov,2026,48700000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Eenheden inductie envelope 48.7m SY 2026-27; not enough for 20pct all starters; tick498
+bud_vl_inductie_alt_werkingsbudget_2025_26,vlaanderen_gov,2025,38700000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,One-off extra werkingsbudget 38.7m SY2025-26 alternative to delayed inductie; tick498
+bud_vl_avb_plus_inductie_class_2026,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Total AVB+inductie >100m class 2026-27 ~3x introduction; excl lerarenbonus; tick498
+bud_vl_lerarenbonus_2024_25,vlaanderen_gov,2025,24700000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Lerarenbonus AGODI estimate 24.7m SY2024-25; 3499 teachers (612 ba + 2890 so); tick498
+bud_vl_professionalisering_per_vte,vlaanderen_gov,2025,125,,,unit_rate,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Professionalisering 120-130 EUR per organieke betrekking class mid 125; tick498
+bud_dual_teacher_induction_vl_2026,gg_belgium,2026,100000000,,,derived,src_dual_teacher_induction_vl_fwb_tick498,strong,Dual VL starter support >100m class vs FWB Cepage under 7.1bn payroll; tick498

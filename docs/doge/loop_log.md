@@ -5923,3 +5923,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_persona_agodi_cash (ready, human send) — not sent
 - Next: prio5 **rq_489**; deferred **rq_116** SWA
 
+
+### 2026-07-28T20:10:00Z - tick 498
+- Unit: **rq_489** (FOI-adjacent hole-fill — **CoA 2026_35 VL aanvangsbegeleiding + inductie + dual FWB teachers**)
+- Found (strong primary Rekenhof NL 30 Jun 2026):
+  - **AVB budget path:** ~**€31m** (2019) ? **€52.2m** (2024-25); pupil-based allocation mismatches starter needs
+  - **Inductie** SY2026-27 envelope **€48.7m** (not enough for 20% free-time all starters); SY2025-26 alt **€38.7m** werkingsbudget
+  - Total AVB+inductie **>€100m** class (~3× introduction) excl **lerarenbonus €24.7m** / **3,499** teachers
+  - Professionalisering: **€120–130**/organieke betrekking; large school disparities; ~1/3 spend off core teaching task
+  - No closed AGODI control that coloured hours actually fund starter mentoring
+  - **Dual:** VL starter cash package vs FWB Cepage/payroll under **€7.1bn** personnel
+- Wrote: sources +3; budgets +12; cmt +3; lb +5; FOI **gap_vl_avb_inductie_spend_l5** ready+draft; raw PDFs; rq_489=done spawn **rq_490**; ticks=498
+- FOI opened: gap_vl_avb_inductie_spend_l5 (ready, human send) — not sent
+- Next: prio5 **rq_490** (**progress@500 next ticks**); deferred **rq_116** SWA
+
