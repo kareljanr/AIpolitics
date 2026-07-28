@@ -5717,3 +5717,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +15; cmt +2; lb +6; FOI **gap_bru_mesures_recettes_l5** ready+draft; rq_476=done spawn **rq_477**; ticks=485
 - FOI opened: gap_bru_mesures_recettes_l5 (ready, human send)
 - Next: prio5 **rq_477**; deferred **rq_116** SWA
+
+### 2026-08-03T09:45:00Z - tick 486
+- Unit: **rq_477** (FOI-adjacent hole-fill - **FWB SEC path -1.608→-1.224bn + dual Entity II quartet**)
+- Found (strong primary DGBF elements-cles + GW CP; medium year-1 secondary):
+  - **SEC path mEUR:** 2026 **-1.608bn** · 2027 **-1.405** · 2028 **-1.390** · 2029 **-1.224bn**
+  - **Effort package 2029:** gross economies **670m** + new policies **180m** = net **500m** (elements-cles ~700 / <200)
+  - **Deficit 2026 class 1.6bn**; debt stock **12.782bn** 2024 (risk 21bn unmitigated)
+  - **Year-1 économies medium 255m** 2026 (RTBF/RTL/Le Soir; official L5 FOI)
+  - LSF dots **12.996bn**; Saint-Quentin RW+COCOF **575.3m**; edu **10.929bn**
+  - **Dual Entity II quartet 2026 class:** VL **1.832bn** + WAL **270m** + BRU **297m** + FWB **255m** = **2.654bn** (different perimeter)
+- Wrote: sources +4; budgets +12; cmt +2; lb +6; FOI **gap_fwb_economies_l5** ready+draft; rq_477=done spawn **rq_478**; ticks=486
+- FOI opened: gap_fwb_economies_l5 (ready, human send)
+- Next: prio5 **rq_478**; deferred **rq_116** SWA

@@ -8427,3 +8427,15 @@ bud_bru_fonct_it_measures_2026,brussels_gov,2026,127000000,,,budgeted,src_ccrek_
 bud_bru_facultatives_measures_2026,brussels_gov,2026,25000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU facultative subsidies cut 25m/yr flat 2026-29; tick485
 bud_bru_mobilite_reinvest_2026,brussels_gov,2026,-190000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU mobilite net negative measure -190m 2026 (reinvest) path -209/-129/-37; tick485
 bud_dual_triad_consol_class_2026,gg_belgium,2026,2399000000,,,derived,src_dual_vl_wal_bru_consolidation_tick485,strong,Dual triad class VL1.832+WAL0.270+BRU0.297=2.399bn 2026 different perimeter not additive TE; tick485
+bud_fwb_sec_2026,fwb_gov,2026,-1608000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB SEC financing -1.608bn 2026 initial (elements-cles path); tick486
+bud_fwb_sec_2027,fwb_gov,2027,-1405000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB SEC path -1.405bn 2027; tick486
+bud_fwb_sec_2028,fwb_gov,2028,-1390000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB SEC path -1.390bn 2028; tick486
+bud_fwb_sec_2029,fwb_gov,2029,-1224000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB SEC path -1.224bn 2029 (stabilize ~1.2bn DPC target); tick486
+bud_fwb_effort_package_2029,fwb_gov,2029,500000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB SEC improvement >500m by 2029 from ~700m effort / <200m new policies; tick486
+bud_fwb_economies_gross_2029,fwb_gov,2029,670000000,,,budgeted,src_fwb_gov_cp_budget_2026_refresh,strong,FWB gross economies 670m path to 2029 (GW CP; with 180m new = 500 net); tick486
+bud_fwb_new_policies_2029,fwb_gov,2029,180000000,,,budgeted,src_fwb_gov_cp_budget_2026_refresh,strong,FWB politiques nouvelles 180m path to 2029; tick486
+bud_fwb_economies_2026_year1,fwb_gov,2026,255000000,,,budgeted,src_fwb_economies_255m_2026_secondary,medium,FWB year-1 economies class 255m 2026 (multi-outlet secondary; official L5 FOI); tick486
+bud_fwb_debt_stock_2024,fwb_gov,2024,12782100000,,,outturn,src_fwb_gov_cp_budget_2026_refresh,strong,FWB debt stock 12.7821bn 2024 (GW CP; risk path 21bn 2029 unmitigated); tick486
+bud_fwb_lsf_dotations_2026,fwb_gov,2026,12996000000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB LSF dotations 12.996bn of 13.602bn recettes 2026; tick486
+bud_fwb_dot_rw_cocof_2026,fwb_gov,2026,575316000,,,budgeted,src_fwb_elements_cles_sec_path_2026_29,strong,FWB dotations RW+COCOF Saint-Quentin 575.316m 2026; tick486
+bud_dual_entity2_quartet_2026,gg_belgium,2026,2654000000,,,derived,src_dual_entity2_quartet_tick486,medium,Entity II quartet class VL1.832+WAL0.270+BRU0.297+FWB0.255=2.654bn 2026 different perimeter; FWB year1 medium; tick486
