@@ -8383,3 +8383,19 @@ bud_vl_dienstencheques_measures_2029,vlaanderen_gov,2029,267000000,,,budgeted,sr
 bud_vl_dienstencheques_price_path_84m,vlaanderen_gov,2026,84000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Price increase component 84m/yr class 2025-27; worker return same 84m varia table; tick482
 bud_vl_dienstencheques_tax_benefit_cut_2026,vlaanderen_gov,2026,166000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Tax benefit abolition fiscal saving 166m 2026 path to 182m 2029; tick482
 bud_dual_titres_services_wal_bru_2026,gg_belgium,2026,872238000,,,derived,src_dual_titres_services_stack_tick482,strong,WAL FOREM titres 568.406m + BRU titres 303.832m = 872.238m 2026 dual (VL full TCO residual FOI); tick482
+bud_vl_measures_total_2025,vlaanderen_gov,2025,722000000,,,budgeted,src_vl_begroting_2025_29_full,strong,Total consolidation measures 722m 2025 (positive for saldo); tick483
+bud_vl_measures_total_2026,vlaanderen_gov,2026,1832000000,,,budgeted,src_vl_begroting_2025_29_full,strong,Total consolidation measures 1.832bn 2026; tick483
+bud_vl_measures_total_2027,vlaanderen_gov,2027,2465000000,,,budgeted,src_vl_begroting_2025_29_full,strong,Total consolidation measures 2.465bn 2027; tick483
+bud_vl_measures_total_2029,vlaanderen_gov,2029,2764000000,,,budgeted,src_vl_begroting_2025_29_full,strong,Total consolidation measures 2.764bn 2029 peak path; tick483
+bud_vl_jobbonus_savings_2026,vlaanderen_gov,2026,242000000,,,budgeted,src_vl_jobbonus_savings_path_2025_29,strong,Jobbonus reform savings 242m 2026 (not keep-expenditure 228m BO2026); dual federal; tick483
+bud_vl_jobbonus_savings_2029,vlaanderen_gov,2029,227000000,,,budgeted,src_vl_jobbonus_savings_path_2025_29,strong,Jobbonus reform savings 227m 2029 path; tick483
+bud_vl_own_gov_effort_2026,vlaanderen_gov,2026,572000000,,,budgeted,src_vl_own_gov_effort_path_2025_29,strong,Inspanningen eigen overheid 572m 2026; tick483
+bud_vl_own_gov_effort_2029,vlaanderen_gov,2029,1000000000,,,budgeted,src_vl_own_gov_effort_path_2025_29,strong,Inspanningen eigen overheid 1.0bn 2029 path; tick483
+bud_vl_vdab_kerntaken_savings_2026,vdab,2026,40000000,,,budgeted,src_vl_own_gov_effort_path_2025_29,strong,VDAB kerntaken savings path 40m 2026 (20/40/60/80/80); tick483
+bud_vl_delijn_tariff_savings_2026,de_lijn,2026,50000000,,,budgeted,src_vl_own_gov_effort_path_2025_29,strong,De Lijn tariff reform ticket control savings 50m 2026 (0/50/70/70/70); tick483
+bud_vl_education_measures_2026,vlaanderen_gov,2026,147000000,,,budgeted,src_vl_begroting_2025_29_full,strong,Onderwijs measures 147m 2026 path to 332m 2029; tick483
+bud_vl_fiscaliteit_measures_2026,vlaanderen_gov,2026,337000000,,,budgeted,src_vl_begroting_2025_29_full,strong,Fiscaliteit measures 337m 2026 path to 621m 2029; tick483
+bud_vl_extra_invest_vak_period,vlaanderen_gov,2025,3195000000,,,commitment,src_vl_extra_invest_housing_2025_29,strong,Extra invest VAK period sum class 3.195bn 2025-29 table3-4; tick483
+bud_vl_social_housing_loans_14_5bn,vlaanderen_gov,2025,14500000000,,,commitment,src_vl_extra_invest_housing_2025_29,strong,Social housing loan authorisations FS3+BSL 14.5bn 2025-29; tick483
+bud_vl_mijn_verbouwlening_1_7bn,vlaanderen_gov,2025,1700000000,,,commitment,src_vl_extra_invest_housing_2025_29,strong,Mijn VerbouwLening total credit 1.7bn 2025-29; tick483
+bud_vl_delijn_invest_vak_400m_2025,de_lijn,2025,400000000,,,budgeted,src_vl_extra_invest_housing_2025_29,strong,De Lijn extra invest VAK 400m 2025 only in table3-4; tick483

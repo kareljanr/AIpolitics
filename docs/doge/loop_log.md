@@ -5677,3 +5677,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +8; cmt +2; lb +4; FOI gap_vl_dienstencheques_tco updated (measures filled; full TCO still ready); rq_473=done spawn **rq_474**; ticks=482
 - FOI: gap_vl_dienstencheques_tco still ready human send (full scheme TCO)
 - Next: prio5 **rq_474**; deferred **rq_116** SWA
+
+### 2026-08-03T08:15:00Z - tick 483
+- Unit: **rq_474** (FOI-adjacent hole-fill - **VL consolidation multi-year package 2025-2029**)
+- Found (strong primary Vlaamse begroting 2025-2029 full tables):
+  - **Total measures path mEUR:** 2025 **722** · 2026 **1.832bn** · 2027 **2.465** · 2028 **2.601** · 2029 **2.764**
+  - **Jobbonus savings:** 0 / **242** / 236 / 231 / 227 (vs BO2026 keep VEK **228m** different concept; dual federal)
+  - **Own gov effort:** 282 / **572** / 809 / 897 / **1.000bn** (VDAB kerntaken 20-80; De Lijn tariffs 0/50/70; subsidy reform 70 from 2026)
+  - **Fiscaliteit measures:** 176 / **337** / 534 / 570 / 621
+  - **Onderwijs measures:** 20 / **147** / 326 / 329 / 332
+  - **Extra invest VAK period ~EUR 3.195bn**; De Lijn VAK **400m** 2025; OW infra period **1.385bn** class
+  - **Social housing loans FS3+BSL EUR 14.5bn** 2025-29; **Mijn VerbouwLening EUR 1.7bn** period
+- Wrote: sources +4; budgets +16; cmt +4; lb +6; rq_474=done spawn **rq_475**; ticks=483
+- FOI: none new (package public; residual named L5 delivery FOI optional)
+- Next: prio5 **rq_475**; deferred **rq_116** SWA
