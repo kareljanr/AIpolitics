@@ -5503,3 +5503,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +14; cmt +3; lb +9; entities +4; FOI **gap_nl_fwi_irpa_l5** + **gap_nl_proximity_l5** ready+drafts; rq_459=done spawn **rq_460**; ticks=468
 - FOI opened: 2 ready (human send)
 - Next: prio5 **rq_460** then **progress@470**; deferred **rq_116** SWA
+
+### 2026-08-03T01:15:00Z — tick 469
+- Unit: **rq_460** (FOI-adjacent hole-fill — **BELSPO four FWI pools structural 132.3m 2025i**)
+- Found (strong primary Kamer 56K0855/018 complete FWI map):
+  - **Doc pool EUR 33.155m:** KBR **17.041** + ARA **16.114**
+  - **Space pool EUR 30.695m:** KMI **11.300** + BIRA **6.861** + KSB **8.765** + common **1.356** + Climate Center **2.000** + STCE residual **0.413**
+  - **Nature pool EUR 35.396m:** KBIN **19.482** + KMMA **11.771** + Belgica/JEMU **4.143**
+  - **Art pool EUR 33.025m** (prior tick468): KMKG 14.51 + KMSKB 11.94 + KIK 6.57
+  - **Grand structural sum EUR 132.271m** 2025i + NL FWI projects **0.5m** additive (L5 residual prior FOI)
+- Wrote: sources +2; budgets +15; cmt +1; lb +9; entities +7; rq_460=done spawn **rq_461** (progress@470); ticks=469
+- FOI: none new (structural public; gap_nl_fwi_irpa_l5 still covers project L5)
+- Next: **progress@470** (coverage % + waste top10); deferred **rq_116** SWA

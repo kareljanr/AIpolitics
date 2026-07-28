@@ -8285,3 +8285,19 @@ bud_nloterij_proximity_def_2025,nationale_loterij,2025,1000000,,,budget,src_nlot
 bud_nloterij_fwi_projects_def_2025,belspo,2025,500000,,,budget,src_nl_fwi_projects_0_5m,strong,Federale wetenschappelijke instellingen projects 0.5m definitive cat3.25; tick468
 bud_nloterij_regie_patrimonium_def_2025,regie_gebouwen,2025,3087872,,,budget,src_nloterij_kb_definitief_2025,strong,Regie der Gebouwen nationaal patrimonium 3.087872m definitive cat3.13; dual Chinese Pavilion residual; tick468
 bud_iccrom_be_contrib_2025,belspo,2025,41000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,Belgium ICCROM contribution BA 60.35.35.40.10 41 kEUR 2025i; tick468
+
+bud_kbr_dot_2025,kbr,2025,17041000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KBR BA 60.31.41.30.10 2025i 17041 kEUR Documentation pool; tick469
+bud_ara_dot_2025,ara,2025,16114000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,ARA BA 60.31.41.30.11 2025i 16114 kEUR Documentation pool; tick469
+bud_doc_pool_sum_2025,belspo,2025,33155000,,,derived,src_fwi_four_pools_recon_tick469,strong,Documentation pool KBR+ARA 17.041+16.114=33.155m 2025i; tick469
+bud_kmi_dot_2025,kmi,2025,11300000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KMI BA 60.32.41.30.13 2025i 11300 kEUR Space pool; tick469
+bud_bira_dot_2025,bira,2025,6861000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,BIRA BA 60.32.41.30.14 2025i 6861 kEUR Space pool; tick469
+bud_ksb_dot_2025,ksb,2025,8765000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KSB/ORB BA 60.32.41.30.15 2025i 8765 kEUR Space pool; tick469
+bud_kmi_common_sector_2025,kmi,2025,1356000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KMI common sector BA 60.32.41.30.16 1356 kEUR 2025i; tick469
+bud_climate_center_2025,kmi,2025,2000000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,Climate Center specific BA 60.32.41.30.25 2000 kEUR 2025i Ukkel space trio; tick469
+bud_stce_residual_2025,ksb,2025,413000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,STCE residual BA 60.32.41.30.24 413 kEUR 2025i after transfer to main dots; tick469
+bud_space_pool_sum_2025,belspo,2025,30695000,,,derived,src_fwi_four_pools_recon_tick469,strong,Space pool 11.3+6.861+8.765+1.356+2.0+0.413=30.695m 2025i; tick469
+bud_kbin_dot_2025,kbin,2025,19482000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KBIN BA 60.33.41.30.17 2025i 19482 kEUR Nature pool; tick469
+bud_kmma_dot_2025,kmma,2025,11771000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KMMA/MRAC BA 60.33.41.30.18 2025i 11771 kEUR Nature pool; tick469
+bud_kbin_belgica_jemu_2025,kbin,2025,4143000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KBIN Belgica+JEMU+public obs BA 60.33.41.30.25 4143 kEUR 2025i; tick469
+bud_nature_pool_sum_2025,belspo,2025,35396000,,,derived,src_fwi_four_pools_recon_tick469,strong,Nature pool 19.482+11.771+4.143=35.396m 2025i; tick469
+bud_fwi_four_pools_total_2025,belspo,2025,132271000,,,derived,src_fwi_four_pools_recon_tick469,strong,Four FWI pools structural sum Doc33.155+Space30.695+Nature35.396+Art33.025=132.271m 2025i; +NL FWI projects 0.5m; tick469

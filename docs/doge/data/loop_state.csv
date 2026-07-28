@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T00:45:00Z,rq_459,468,no,Scheduler 60s. Next prio5 rq_460; progress@470 next; rq_116 SWA deferred. tick468 KIK-IRPA dual.
+main,continuous,hole_fill,2026-08-03T01:15:00Z,rq_460,469,no,Scheduler 60s. Next prio5 rq_461 progress@470; rq_116 SWA deferred. tick469 FWI four pools 132m.
