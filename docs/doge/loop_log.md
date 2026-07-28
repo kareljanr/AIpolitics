@@ -6577,3 +6577,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_ss_branch_l5_detail (ready, human send) - not sent
 - Next: prio5 **rq_535**; deferred **rq_116** SWA
 
+
+### 2026-07-29T10:00:00Z - tick 544
+- Unit: **rq_535** (FOI-adjacent hole-fill - **exposé employees L5 benefits Table II.2 + RIZIV IV.1 dual + assistance VI.1**)
+- Found (strong primary DOC 56 1278/001 Part IV; thousand-EUR tables):
+  - **Employees benefits L5 2026:** pensions **€43.271bn** · illness/invalidity **€14.879bn** · unemployment **€4.638bn** · FEDRIS AO+BZ **€0.546bn** · total **€63.342bn**
+  - **Unemployment dual:** **€6.459bn (2025) → €4.638bn (−€1.821bn)** UI time-limit path class
+  - **Transfer to RIZIV** from employees table **€35.990bn**; contrib reductions **€1.197bn**
+  - **RIZIV 2026:** benefits **€41.297bn** (+1.49); admin **€1.236bn** (third-party **€1.116bn**); financed RSZ **€35.839bn** + RSVZ **€3.348bn** + own **€7.212bn**
+  - **TNW wave4:** save path **€118m** employee illness benefits; thematic controls **€25m** class
+  - **Assistance VI.1:** leefloon **€2.085bn (+17.6%)** · handicap **€3.286bn (+6.3%)** · IGO **€1.035bn** · total **€6.561bn**
+- Wrote: sources +2; budgets +29; cmt +4; lb +8; FOI **gap_unemp_leefloon_spillover_l5** ready+draft; rq_535=done spawn **rq_536**; ticks=544
+- FOI opened: gap_unemp_leefloon_spillover_l5 (ready, human send) - not sent
+- Next: prio5 **rq_536**; deferred **rq_116** SWA
+
