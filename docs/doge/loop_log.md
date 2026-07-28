@@ -5182,3 +5182,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; entity alterfin; budgets +40; cmt +1; lb +10; rq_434=done; spawn **rq_435**; ticks=443
 - FOI: none new (private co-op; partner L5 residual optional not material public euro opacity)
 - Next: prio5 **rq_435**; deferred **rq_116** SWA
+
+### 2026-08-02T12:45:00Z - tick 444
+- Unit: **rq_435** (FOI-adjacent hole-fill - **BRS Microfinance Coop dissolve + ASBL coaching dual Alterfin/Incofin**)
+- Found (strong primary BRS AR 2025 magazine + dissolve press 13 May 2026):
+  - **BRS MFC EOY2025:** assets **€22.0m** · equity **€21.4m** · capital **€21.24m** (**1,420** A-members **€3.74m** + C **€17.5m**)
+  - Ownership: Cera **45.6%** · individuals **35.3%** · KBC **17.6%** · BRS ASBL **1.5%**
+  - Loans **€2.0m** (AMC-SV **1.4** · El Ejido **0.3** · EBO-UG **0.3**) · MF funds **€9.0m** (Triodos **3** · Incofin **1.6** · Fefisol **1.5** · Alterfin **1** · ECF **1** · Incofin Climate **1**) · cash **€10.8m**
+  - Profit **€219k** · dividend **2.5% / €534k** · dissolve provision **€50k**
+  - **Dissolve:** midnight **2026-06-30**; full A-share repay early Jul; Cera continues MF via **increased Alterfin + Incofin** stakes
+  - **BRS ASBL:** assets **€2.41m** · loss **€85k** · income **€503k** (donations **€390k** + Cera tombola **€109k**) · projects **€403k** · **594** coaching days · **~94** KBC volunteers · **14** partners / **7** countries
+- Wrote: sources +2; entities +3; budgets +33; cmt +2; lb +10; rq_435=done; spawn **rq_436**; ticks=444
+- FOI: none new (private co-op dissolve; dual stack now mapped public)
+- Next: prio5 **rq_436**; deferred **rq_116** SWA

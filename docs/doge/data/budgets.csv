@@ -7868,3 +7868,36 @@ bud_alterfin_disbursed_2024,alterfin,2024,96000000,,,outturn,src_alterfin_ar_202
 bud_alterfin_net_result_2024,alterfin,2024,839033,,,outturn,src_alterfin_ar_2024,strong,Net result 0.839m 2024; tick443
 bud_alterfin_assets_2024,alterfin,2024,168581348,,,stock,src_alterfin_ar_2024,strong,Total assets 168.6m 2024; tick443
 bud_alterfin_net_loan_2024,alterfin,2024,99253363,,,stock,src_alterfin_ar_2024,strong,Net loan portfolio 99.3m 2024; tick443
+bud_brs_mfc_assets_2025,brs_mfc,2025,22000000,,,stock,src_brs_ar_2025,strong,BRS MFC total assets 22.0m EOY2025 (vs 22.2m); dissolve 2026-06-30; tick444
+bud_brs_mfc_equity_2025,brs_mfc,2025,21400000,,,stock,src_brs_ar_2025,strong,BRS MFC equity 21.4m; tick444
+bud_brs_mfc_capital_2025,brs_mfc,2025,21240000,,,stock,src_brs_ar_2025,strong,BRS MFC capital contributions 21.24m (1420 A-members 3.74m + C 17.5m); tick444
+bud_brs_mfc_capital_A_2025,brs_mfc,2025,3743500,,,stock,src_brs_ar_2025,strong,Individual A-shares 3.744m / 1420 members avg 2636; tick444
+bud_brs_mfc_loans_2025,brs_mfc,2025,2000000,,,stock,src_brs_ar_2025,strong,Direct MFI loans outstanding 2.0m (AMC-SV 1.4 + El Ejido 0.3 + EBO-UG 0.3); tick444
+bud_brs_mfc_loan_amc_2025,brs_mfc,2025,1400000,,,stock,src_brs_ar_2025,strong,Loan AMC El Salvador 1.4m; tick444
+bud_brs_mfc_loan_ejido_2025,brs_mfc,2025,300000,,,stock,src_brs_ar_2025,strong,Loan Union El Ejido Ecuador 0.3m; tick444
+bud_brs_mfc_loan_ebo_2025,brs_mfc,2025,300000,,,stock,src_brs_ar_2025,strong,Loan EBO Sacco Uganda 0.3m; tick444
+bud_brs_mfc_funds_2025,brs_mfc,2025,9000000,,,stock,src_brs_ar_2025,strong,Specialised MF fund holdings 9.0m; tick444
+bud_brs_mfc_fund_incofin_2025,brs_mfc,2025,1600000,,,stock,src_brs_ar_2025,strong,Incofin Microfinance Fund stake 1.6m; tick444
+bud_brs_mfc_fund_alterfin_2025,brs_mfc,2025,1000000,,,stock,src_brs_ar_2025,strong,Alterfin stake 1.0m dual; tick444
+bud_brs_mfc_fund_fefisol_2025,brs_mfc,2025,1500000,,,stock,src_brs_ar_2025,strong,Fefisol II stake 1.5m dual Alterfin; tick444
+bud_brs_mfc_fund_triodos_2025,brs_mfc,2025,3000000,,,stock,src_brs_ar_2025,strong,Triodos Microfinance Fund 3.0m (impairment 54054); tick444
+bud_brs_mfc_fund_ecf_2025,brs_mfc,2025,1000000,,,stock,src_brs_ar_2025,strong,Emerging Credit Fund 1.0m; tick444
+bud_brs_mfc_fund_incofin_climate_2025,brs_mfc,2025,1000000,,,stock,src_brs_ar_2025,strong,Incofin Climate Smart MF Fund 1.0m; tick444
+bud_brs_mfc_cash_2025,brs_mfc,2025,10800000,,,stock,src_brs_ar_2025,strong,Cash+term deposits 10.8m almost all EUR; tick444
+bud_brs_mfc_profit_2025,brs_mfc,2025,219297,,,outturn,src_brs_ar_2025,strong,Profit 219297 (vs 559063 2024); tick444
+bud_brs_mfc_dividend_2025,brs_mfc,2025,533512,,,budgeted,src_brs_ar_2025,strong,Dividend 2.5pct = 533512 of capital; tick444
+bud_brs_mfc_provision_dissolve,brs_mfc,2025,50000,,,budgeted,src_brs_ar_2025,strong,Dissolution provision 50000 EOY2025; tick444
+bud_brs_mfc_members_A_2025,brs_mfc,2025,1420,,,estimate,src_brs_ar_2025,strong,Individual A-members headcount 1420 (not EUR); full repay Jul 2026; tick444
+bud_brs_asbl_assets_2025,brs_asbl,2025,2414181,,,stock,src_brs_ar_2025,strong,BRS ASBL assets 2.414m EOY2025; tick444
+bud_brs_asbl_equity_2025,brs_asbl,2025,2397886,,,stock,src_brs_ar_2025,strong,BRS ASBL equity/fonds 2.398m; tick444
+bud_brs_asbl_loss_2025,brs_asbl,2025,84837,,,outturn,src_brs_ar_2025,strong,BRS ASBL loss 84837 (similar 84732 2024); going concern via carried profit 1.20m; tick444
+bud_brs_asbl_income_2025,brs_asbl,2025,503385,,,outturn,src_brs_ar_2025,strong,Operating income 503385 (donations 389599 + tombola Cera 108531); tick444
+bud_brs_asbl_donations_2025,brs_asbl,2025,389599,,,outturn,src_brs_ar_2025,strong,Donations 389599; tick444
+bud_brs_asbl_projects_cost_2025,brs_asbl,2025,403154,,,outturn,src_brs_ar_2025,strong,Projects+financial services cost 403154; tick444
+bud_brs_asbl_project_intl_2025,brs_asbl,2025,293797,,,outturn,src_brs_ar_2025,strong,International project financing 293797; tick444
+bud_brs_asbl_coaching_pack_2025,brs_asbl,2025,246217,,,outturn,src_brs_ar_2025,strong,Coaching+training pack 246217 incl Microfact; tick444
+bud_brs_asbl_consultance_2025,brs_asbl,2025,102029,,,outturn,src_brs_ar_2025,strong,Consultance cost line 102029; tick444
+bud_brs_asbl_hold_mfc_2025,brs_asbl,2025,318000,,,stock,src_brs_ar_2025,strong,BRS ASBL book value BRS MFC shares 318000; tick444
+bud_brs_asbl_commitments_2025,brs_asbl,2025,455000,,,estimate,src_brs_ar_2025,strong,Open project commitments off-balance 455000; tick444
+bud_brs_asbl_coaching_days_2025,brs_asbl,2025,594,,,estimate,src_brs_ar_2025,strong,Coaching+training days 594 (headcount-days not EUR); tick444
+bud_brs_asbl_volunteers_2025,brs_asbl,2025,94,,,estimate,src_brs_ar_2025,strong,KBC/CBC/Cera volunteer experts ~94 (press 94 / AR ~96); tick444
