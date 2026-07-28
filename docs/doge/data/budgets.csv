@@ -8684,3 +8684,19 @@ bud_dual_vl_outturn_e2_2025,gg_belgium,2025,3982400000,,,derived,src_dual_vl_out
 bud_vl_esr_receipts_over_2025,vlaanderen_gov,2025,353800000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,ESR receipts +0.6pct / +353.8m vs BA2025; tick499
 bud_vl_esr_underuse_2025,vlaanderen_gov,2025,1830300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,ESR spend under-use 2.8pct / 1830.3m 2025 (BA assumed 1773.7m); tick499
 bud_vl_dienstencheques_overrun_2025,vlaanderen_gov,2025,149300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Dienstencheques meeruitgave 149.3m vs BA2025 ministries; tick499
+bud_dwv_r0_noord_award_2016,de_werkvennootschap,2016,36000000,,,budgeted,src_ccrek_dwv_studies_2026,strong,R0 Noord study award 36m Dec2016 (AWV prep then DWV); tick501
+bud_dwv_r0_noord_spent_2025_03,de_werkvennootschap,2025,85400000,,,outturn,src_ccrek_dwv_studies_2026,strong,R0 Noord study spent 85.4m to Mar2025 (>2x award); tick501
+bud_dwv_r0_noord_est_2023,de_werkvennootschap,2023,103600000,,,estimated,src_ccrek_dwv_studies_2026,strong,R0 Noord revised total study budget estimate 103.6m 2023 (uncertain if enough); tick501
+bud_dwv_r0_noord_op_posten_2025,de_werkvennootschap,2025,9400000,,,outturn,src_ccrek_dwv_studies_2026,strong,R0 Noord OP-posten unforeseen expertise almost 9.4m Mar2025 without competition; tick501
+bud_dwv_r0_oost_annual_award,de_werkvennootschap,2018,3500000,,,budgeted,src_ccrek_dwv_studies_2026,strong,R0 Oost study award 3.5m per year 2018; tick501
+bud_dwv_r0_oost_spent_2025_03,de_werkvennootschap,2025,11100000,,,outturn,src_ccrek_dwv_studies_2026,strong,R0 Oost study spent 11.1m to Mar2025; tick501
+bud_dwv_r0_oost_quickwins_2023,de_werkvennootschap,2023,3700000,,,outturn,src_ccrek_dwv_studies_2026,strong,R0 Oost extra 3.7m same provider 2023 three quick wins unpublished change; tick501
+bud_dwv_brabantnet_award_2014,de_werkvennootschap,2014,5900000,,,budgeted,src_ccrek_dwv_studies_2026,strong,Brabantnet study award 5.9m 2014 De Lijn then DWV; tick501
+bud_dwv_brabantnet_spent_2025_03,de_werkvennootschap,2025,11000000,,,outturn,src_ccrek_dwv_studies_2026,strong,Brabantnet original study spent 11.0m Mar2025; tick501
+bud_dwv_brabantnet_extra_studies,de_werkvennootschap,2025,8750000,,,outturn,src_ccrek_dwv_studies_2026,strong,Brabantnet additional/new studies total 8.75m (ringtrambus 0.1 luchthaven 5.1 sneltram 3.6); tick501
+bud_dwv_brabantnet_lost_0_2m,de_werkvennootschap,2025,200000,,,outturn,src_ccrek_dwv_studies_2026,strong,Brabantnet lost study costs from policy rework ~0.2m (DWV claim after suspension); tick501
+bud_dwv_r4_award,de_werkvennootschap,2017,12100000,,,budgeted,src_ccrek_dwv_studies_2026,strong,R4 West/Oost study award 12.1m (DWV re-tender after AWV first); tick501
+bud_dwv_r4_spent_class_2025_03,de_werkvennootschap,2025,16940000,,,outturn,src_ccrek_dwv_studies_2026,strong,R4 spent class ~17m Mar2025 (award 12.1 +>40pct CoA); tick501
+bud_dwv_r4_deel4_raise_2023,de_werkvennootschap,2023,9200000,,,budgeted,src_ccrek_dwv_studies_2026,strong,R4 deelopdracht4 studiebudget raised 4.3->9.2m 2023; undermines plafond; tick501
+bud_dwv_studies4_spent_class_2025,de_werkvennootschap,2025,124900000,,,outturn,src_ccrek_dwv_studies_2026,strong,Four audited studies spent class ~124.9m Mar2025 (85.4+11.1+11.0+17.4); still running; tick501
+bud_dual_dwv_studies_vs_lantis,gg_belgium,2025,124900000,,,derived,src_dual_dwv_lantis_gip_tick501,strong,Dual DWV study cash 125m class vs Lantis Toekomstverbond 3.85bn same mobility stack; tick501

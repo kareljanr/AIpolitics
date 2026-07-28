@@ -5965,3 +5965,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · rq_491=done spawn **rq_492**; ticks=500
 - FOI: none new (progress tick)
 - Next: prio5 **rq_492**; deferred **rq_116** SWA
+
+### 2026-07-28T21:10:00Z - tick 501
+- Unit: **rq_492** (FOI-adjacent hole-fill — **CoA 2026_19 DWV studieopdrachten + dual Lantis/GIP**)
+- Found (strong primary Rekenhof NL 31 Mar 2026 + press):
+  - Four long study contracts (still running); **3/4** major award overruns; **all 4** delayed
+  - **R0 Noord:** award **€36m** → spent Mar2025 **€85.4m** → est **€103.6m**; OP-posten **€9.4m** without competition
+  - **R0 Oost:** **€3.5m**/yr award → spent **€11.1m**; extra **€3.7m** same provider quick wins 2023 unpublished
+  - **Brabantnet:** award **€5.9m** → spent **€11.0m** + extras **€8.75m** (ring 0.1 · luchthaven 5.1 · sneltram 3.6); sneltram off GIP 2025-27
+  - **R4 West/Oost:** award **€12.1m** **+>40%**; deel4 budget **4.3→9.2m** undermines plafond
+  - Four-pack spent class **~€125m** Mar2025; competition/transparency risks CoA
+  - **Dual:** DWV study cash vs Lantis Toekomstverbond **€3.85bn** / GIP mobility stack
+- Wrote: sources +3; budgets +16; cmt +4; lb +6; FOI **gap_dwv_studies_contractor_l5** ready+draft; raw PDFs; rq_492=done spawn **rq_493**; ticks=501
+- FOI opened: gap_dwv_studies_contractor_l5 (ready, human send) — not sent
+- Next: prio5 **rq_493**; deferred **rq_116** SWA
