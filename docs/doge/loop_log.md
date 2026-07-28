@@ -4696,3 +4696,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets ~200; cmt +2; lb +8; raw PDF+XLSX; FOI **gap_fpb_entity1_split_jun2026 -> answered**; rq_399=done; spawn **rq_400**; ticks=408
 - FOI: closed public; residual consolidated Entity definition optional
 - Next: prio5 **rq_400**; **progress@410** in 2 ticks; deferred **rq_116** SWA
+
+### 2026-08-01T19:15:00Z - tick 409
+- Unit: **rq_400** (FOI-adjacent hole-fill - **FPB midterm T10 labour cost reductions package ~23-29bn**)
+- Found (strong primary DATA_FOR_MLT T10 mEUR 2024-2031):
+  - **Employer total** **22.2/23.0/23.5/24.0/24.4/25.1/26.0/26.6 bn** 2024-31
+  - **+ Employee SSC** 1.73/1.73/1.83/.../2.58 -> **package 25.3bn 2026 / 29.2bn 2031**
+  - Facial tax-shift rate **8.9bn** 2026; general diverse SSC **11.1bn**
+  - Night/shift **2.12bn**; R&D firms **1.48bn**; overtime 0.21; subvention gen 0.29
+  - Maribel 0.92+0.17; hospital/other SS 0.98; via SS total **2.07bn**
+  - Regions **4.92bn** 2026: titres-services **2.51**; ETA adapted work **0.87**; other H **1.45**
+  - Bonus emploi **1.79bn** 2026 (spike **2.29** 2028); dual NBB 25.1bn business subs 2024 close match
+- Wrote: sources +1; budgets ~200; cmt +1; lb +8; FOI **gap_t10_l5_night_rd** ready; rq_400=done; spawn **rq_401 progress@410**; ticks=409
+- FOI: night/shift + R&D top50 L5 human send only
+- Next: **MANDATORY progress@410 rq_401**; deferred **rq_116** SWA

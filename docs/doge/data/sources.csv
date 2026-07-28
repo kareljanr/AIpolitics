@@ -746,3 +746,5 @@ src_fpb_flexijobs_coa_2026,Analyse flexi-jobs CoA+BFP art.192 programme law Dec 
 
 src_fpb_midterm_pdf_jun2026,Budget economique 2026-2027 Perspectives 2028-2031 Jun 2026 PDF,https://www.plan.be/sites/default/files/documents/FOR_MIDTERM_2631_13322_FR.pdf,Bureau federal du Plan,2026-06-12,primary_outlook,"HERMES midterm GG finances ch.4; raw fpb_midterm_2026_2031_fr.pdf; tick408"
 src_fpb_midterm_xlsx_jun2026,DATA_FOR_MLT_FR xlsx T17-T24 GG Entity federal C&R local SS,https://www.plan.be/sites/default/files/documents/DATA_FOR_MLT_FR.xlsx,Bureau federal du Plan,2026-06-12,primary_outlook,"T17 GG mEUR T18 pctGDP T19 federal T20 C&R T21 federated soldes T22 local T23 SS T24 prest; raw fpb_midterm_2026_2031_data_fr.xlsx; tick408"
+
+src_fpb_midterm_t10_reductions,DATA_FOR_MLT T10 reductions charges travail branches marchandes,https://www.plan.be/sites/default/files/documents/DATA_FOR_MLT_FR.xlsx,Bureau federal du Plan,2026-06-12,primary_outlook,"T10 employer package 22.2-26.6bn 2024-31; night/shift R&D Maribel titres-services bonus emploi; dual NBB 25.1bn; tick409"
