@@ -5015,3 +5015,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity spp_is; budgets +15; cmt +2; lb +4; rq_422=done; spawn **rq_423**; ticks=431
 - FOI: none new (full RIS cash stock federal+local residual; optional later)
 - Next: prio5 **rq_423**; deferred **rq_116** SWA
+
+### 2026-08-02T06:45:00Z - tick 432
+- Unit: **rq_423** (FOI-adjacent hole-fill - **Entity I social triple + provision generale L5**)
+- Found (strong primary Cour des comptes Budget Etat 2026 p18 + p58):
+  - **Entity I social transfers:** handicap **EUR 3.3bn** · ages/IGO **1.0bn** · RIS CPAS **2.2bn** (+ Ukraine **299m** excl) = **6.5bn** triple
+  - Dual recon: DG HAN **2.93bn** 2025 outturn · SPP IS table **2.241bn** 2026
+  - **Transfers other govts** **66.5bn** (federated **59.1bn** LSF class; excl RIS line)
+  - **Provision generale 2026:** **829.8m** (+230m vs 599.7 adj 2025)
+  - Split: justice/divers **618.3** · Fedasil **100** · bpost contracts **78** · bien-etre **33.5**
+  - Named inside justice/divers: surpop **259** · ESA **176** · eco sociale **50** · reorg **36** · Tria **5.3** · CPL **2.7** (sum ~529 of 618)
+  - CoA flag: prefer section credits when beneficiary known
+- Wrote: sources +1; budgets +20; cmt +2; lb +6; rq_423=done; spawn **rq_424**; ticks=432
+- FOI: none new
+- Next: prio5 **rq_424**; deferred **rq_116** SWA

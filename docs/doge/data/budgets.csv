@@ -6999,3 +6999,22 @@ bud_spp_is_regular_inflow_cost_2028,spp_is,2028,723900000,,,projection,src_ccrek
 bud_spp_is_regular_inflow_cost_2029,spp_is,2029,556100000,,,projection,src_ccrek_budget2026_spp_is_cpas,medium,SPP IS regular federal cost of unemp-to-RIS inflow 556.1m 2029; tick431
 bud_spp_is_new_ris_persons_2026,spp_is,2026,52400,,,beneficiary_stock,src_ccrek_budget2026_spp_is_cpas,strong,Expected ~52400 new RIS from unemployment limitation 2026 (CoA footnote); tick431
 bud_spp_is_dossier_fee_2026,spp_is,2026,518,,,unit_cost_eur,src_ccrek_budget2026_spp_is_cpas,strong,CPAS dossier fee 518 EUR/RIS beneficiary/year (temp 1036 for compensated H1-2026 cohort); tick431
+bud_entity1_handicap_3_3bn_2026,sec_federal,2026,3300000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Entity I aide personnes handicapees 3.3bn 2026 CoA p18; dual DG HAN 2.93bn 2025 outturn; tick432
+bud_entity1_ages_igo_1bn_2026,fpd,2026,1000000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Entity I aide personnes agees (IGO/GRAPA class) 1.0bn 2026 CoA; dual PensionStat GRAPA; tick432
+bud_entity1_ris_cpas_2_2bn_2026,spp_is,2026,2200000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Entity I CPAS revenu integration 2.2bn 2026 CoA excl Ukraine; dual tick431 table 2.241bn; tick432
+bud_entity1_ukraine_refugees_299m_2026,spp_is,2026,299000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Ukraine refugee support 299m 2026 not in 2.2bn RIS line CoA; tick432
+bud_entity1_social_triple_6_5bn_2026,sec_federal,2026,6500000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Entity I social transfer triple handicap+ages+RIS 6.5bn 2026 (+UA 299m = 6.8bn); tick432
+bud_entity1_transfers_other_66_5bn_2026,sec_federal,2026,66500000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Entity I transfers to other govts 66.5bn 2026 (excl third-party; excl RIS CPAS); federated 59.1bn class; tick432
+bud_entity1_transfers_federated_59_1bn_2026,sec_federal,2026,59100000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Transfers to federated entities 59.1bn 2026 (LSF class); tick432
+bud_prov_gen_829_8m_2026,sec_federal,2026,829800000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Provision interdepartementale generale 829.8m 2026 (+230m vs 599.7 adj 2025); tick432
+bud_prov_gen_justice_divers_618m_2026,sec_federal,2026,618300000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Prov gen line frais de justice et divers 618.3m 2026 (was 131.7 adj 2025); tick432
+bud_prov_gen_fedasil_100m_2026,fedasil,2026,100000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Prov gen Fedasil unavoidable reception 100m 2026 (dual package 702.2+100); tick432
+bud_prov_gen_bpost_78m_2026,sec_federal,2026,78000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Prov gen nouveaux contrats bpost 78m 2026 (was 85.4); tick432
+bud_prov_gen_bienetre_33_5m_2026,sec_federal,2026,33500000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Prov gen bien-etre groupes vulnerables et cohesion sociale 33.5m 2026; tick432
+bud_prov_named_surpop_259m_2026,fod_justice,2026,259000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: prison surpopulation infra 259m 2026; tick432
+bud_prov_named_esa_176m_2026,sec_federal,2026,176000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: ESA (Agence spatiale europeenne) 176m 2026; tick432
+bud_prov_named_eco_soc_50m_2026,sec_federal,2026,50000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: economie sociale 50m 2026; tick432
+bud_prov_named_reorg_36m_2026,sec_federal,2026,36000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: reorg admin federale + centralisation support 36m 2026; tick432
+bud_prov_named_tria_5_3m_2026,sec_ss,2026,5300000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: Tria IT programme SPF SS 5.3m 2026; tick432
+bud_prov_named_cpl_2_7m_2026,fod_justice,2026,2700000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: modular units CPL forensic psych 2.7m 2026; tick432
+bud_prov_named_sum_529m_2026,sec_federal,2026,529000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Sum of named uses in justice/divers list ~529m of 618.3m (residual ~89m other); tick432
