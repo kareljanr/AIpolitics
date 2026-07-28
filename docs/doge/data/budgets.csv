@@ -8255,3 +8255,18 @@ bud_nloterij_festivals_wal_def_2025,festivals_wallonie,2025,191000,,,budget,src_
 bud_nloterij_festivals_vl_wal_sum_2025,nationale_loterij,2025,450000,,,derived,src_festivals_vl_wal_nl_dual,strong,Dual festivals VL+WAL NL sum 259+191=450k definitive classical music; tick466
 bud_nloterij_classical_music_prog_def_2025,nationale_loterij,2025,560000,,,budget,src_nloterij_kb_definitief_2025,strong,Specific classical music programme projects 560k cat3.32 Art5 sub residual; dual festivals stack; tick466
 bud_chinees_paviljoen_nl_plus_regie_class,chinees_paleis_vzw,2026,6500000,,,derived,src_chinees_paviljoen_dual_tick466,medium,Dual class if additive NL 0.5 + Regie 6m; may overlap PPP envelope FOI; tick466
+
+bud_cinematek_fed_toelage_2023,cinematek,2023,3230000,,,outturn,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2023r 3230 kEUR; tick467
+bud_cinematek_fed_toelage_2024,cinematek,2024,3296000,,,budget,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2024a 3296 kEUR; tick467
+bud_cinematek_fed_toelage_2025,cinematek,2025,3306000,,,budget,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2025i 3306 kEUR (inflation+linear cut path); tick467
+bud_cinematek_fed_toelage_2026,cinematek,2026,3236000,,,budget,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2026 3236 kEUR multi-year path; tick467
+bud_cinematek_debt_repay_2025,cinematek,2025,100000,,,budget,src_kamer_56k0855_018_culture,strong,BA 60.36.61.42.01 debt repay to Federal Debt Agency 100k/yr 12y from 2020 loan; tick467
+bud_cinematek_nl_plus_fed_stack_2025,cinematek,2025,4006000,,,derived,src_cinematek_dual_recon_tick467,strong,Dual 2025: fed 3.306m + NL plan 0.7m = 4.006m opex class (ex DIGIT shared ex debt); tick467
+bud_digit04_shared_2025,belspo,2025,1661000,,,budget,src_kamer_56k0855_018_culture,strong,BA 60.37.12.11.17 DIGIT ESF+Cinematek complementary 1661 kEUR 2025i shared not pure Cinematek L5; tick467
+bud_digit04_programme_37_63m,belspo,2024,37630000,,,budgeted,src_belspo_digit04_37_63m,strong,DIGIT-04 programme total 37.63m 2019-2024 shared FWI+Cinematek; tick467
+bud_europalia_fed_toelage_2025,europalia,2025,73000,,,budget,src_kamer_56k0855_018_culture,strong,BA 61.14.33.00.17 Foundation Europalia International facultative 73 kEUR flat 2023-28; tick467
+bud_europalia_nl_plus_fed_stack_2025,europalia,2025,573000,,,derived,src_europalia_dual_recon_tick467,strong,Dual 2025: fed 73k + NL definitive 500k = 573k public class; tick467
+bud_chapelle_reine_elisabeth_2025,chapelle_reine_elisabeth,2025,155000,,,budget,src_kamer_56k0855_018_culture,strong,BA 61.14.33.00.20 Chapelle musicale Reine Elisabeth werking 155 kEUR flat; tick467
+bud_cre_prize_gouvernement_2025,concours_reine_elisabeth,2025,20000,,,budget,src_kamer_56k0855_018_culture,strong,BA 61.15.33.00.15 federal government prize 2nd laureate 20 kEUR/yr; tick467
+bud_nloterij_cre_def_2025,concours_reine_elisabeth,2025,220000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art5.2 Internationale Muziekwedstrijd Koningin Elisabeth 220k definitive; tick467
+bud_cre_nl_plus_fed_prize_2025,concours_reine_elisabeth,2025,240000,,,derived,src_reine_elisabeth_dual_tick467,strong,Dual CRE: NL 220k + fed prize 20k = 240k (Chapelle 155k separate entity); tick467

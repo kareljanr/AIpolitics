@@ -5477,3 +5477,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +9; cmt +2; lb +6; entities +4 (chinees_paleis_vzw festivals_vl/wal regie_gebouwen); FOI **gap_chinees_paviljoen_cash** ready+draft; rq_457=done spawn **rq_458**; ticks=466
 - FOI opened: gap_chinees_paviljoen_cash (ready, human send)
 - Next: prio5 **rq_458** (Europalia dual / Cinematek BELSPO / Queen Elisabeth competition / residual); deferred **rq_116** SWA
+
+### 2026-08-03T00:15:00Z — tick 467
+- Unit: **rq_458** (FOI-adjacent hole-fill — **Cinematek dual fed 3.3m + Europalia dual 573k + CRE dual**)
+- Found (strong primary Kamer 56K0855/018 + NL KB + BELSPO):
+  - **Cinematek BA 60.36.41.40.01:** 2023r **3.230m** · 2024a **3.296** · 2025i **3.306** · 2026 **3.236** · path to 3.098 2028 (kEUR tables)
+  - **Dual stack 2025 EUR 4.006m** = fed 3.306 + NL plan **0.7m**; debt repay **0.1m/yr** (12y loan 2020)
+  - **DIGIT-04:** programme **37.63m** 2019-24 shared FWI+Cinematek (58 FTE); BA complementary 2025i **1.661m** shared (not pure Cinematek L5)
+  - **Europalia dual:** fed facultative BA 61.14.33.00.17 **73k** flat + NL **500k** = **573k** public class 2025
+  - **Queen Elisabeth stack:** NL Art5.2 **220k** + fed prize 2nd laureate **20k** = **240k**; Chapelle musicale RE **155k** separate entity
+- Wrote: sources +5; budgets +14; cmt +3; lb +7; entities +3 update 2; FOI **gap_cinematek_digit_l5** ready+draft; rq_458=done spawn **rq_459**; ticks=467
+- FOI opened: gap_cinematek_digit_l5 (ready, human send)
+- Next: prio5 **rq_459** (proximity local 1m Art5 / IRPA 0.4m / FWI projects 0.5m / residual culture); deferred **rq_116** SWA
