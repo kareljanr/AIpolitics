@@ -6383,3 +6383,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · lb Metro3 annual fix · rq_521=done spawn **rq_522**; ticks=530
 - FOI: none new (progress tick)
 - Next: prio5 **rq_522** hole-fill; deferred **rq_116** SWA
+
+### 2026-07-29T06:45:00Z - tick 531
+- Unit: **rq_522** (FOI-adjacent hole-fill — **CoA 2025_49 SECAL/DAVO suivi dual Finance+Justice**)
+- Found (strong primary Cour des comptes AG 26 Nov 2025 + press 16 Dec 2025):
+  - **Advances 2024: €38.79m** for **21,188** children (path 26.2m 2015 → 31.3m 2020 → 38.8m 2024)
+  - **Dossiers:** new **5,378** 2024; active EOY **23,955** (×2.6 since 2007); online apps 550→3400+ (2021-24)
+  - **Recovery 12m: 26.6%** 2024 / **32.9%** first 8m 2025; cumulative rate lost (was **29.25%** EOY2018)
+  - **Stock EOY2024: €452.7m** with **impairment €403.3m** (~89%); CoA questions accounting reliability
+  - **Undue advances:** €1.558m / 1,599 dossiers Jun2023-Jun2025; ~2/3 recovered; fraud 100% path never used
+  - **Recs 2019:** 5 done · 9 progress · 3 not · 1 n/a + **8 new** recs 2025; eval commission reports missing 2011-23
+  - FIFO oldest-debt-first can disadvantage alimentary creditors vs other tax debts; legal imputation order state-first
+  - **Dual:** FPS Finance AGPR + FPS Justice international few dossiers / weak follow-up / lack means; judgment file 2014 never built
+- Wrote: sources +3; budgets +10; cmt +2; lb +7; FOI **gap_secal_recovery_kpi_l5** ready+draft; raw PDF+press; rq_522=done spawn **rq_523**; ticks=531
+- FOI opened: gap_secal_recovery_kpi_l5 (ready, human send) — not sent
+- Next: prio5 **rq_523**; deferred **rq_116** SWA

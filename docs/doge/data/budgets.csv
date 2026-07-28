@@ -9143,3 +9143,13 @@ bud_metro3_scenario_a_ppp_2025,stib,2025,7743000000,,,estimate,src_ccrek_metro3_
 bud_metro3_scenario_b_2025,stib,2025,1653000000,,,estimate,src_ccrek_metro3_bru_2025,strong,STIB scenario B Nord-Albert only abandon Bordet 1653m of which 1108m from 2026; tick529
 bud_metro3_scenario_e_2025,stib,2025,1002000000,,,estimate,src_ccrek_metro3_bru_2025,strong,STIB scenario E full stop 1002m of which 456m from 2026; abandon cost 223m + lost invest class 546m; tick529
 bud_dual_metro3_stib_beliris,gg_belgium,2024,4759700000,,,derived,src_dual_metro3_stib_beliris_tick529,strong,Dual Metro3 total 4.76bn STIB+Beliris federal-regional; not additive TE; tick529
+bud_secal_advances_2024,fod_finance,2024,38790023,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA Table1 advances liquidated 38.79m 2024 for 21188 children; tick531
+bud_secal_advances_2023,fod_finance,2023,37355744,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA Table1 advances 37.36m 2023; tick531
+bud_secal_advances_2022,fod_finance,2022,35341869,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA Table1 advances 35.34m 2022; tick531
+bud_secal_advances_2021,fod_finance,2021,33938455,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA Table1 advances 33.94m 2021; tick531
+bud_secal_advances_2020,fod_finance,2020,31346109,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA Table1 advances 31.35m 2020 (income ceiling abolished mid-year); tick531
+bud_secal_advances_2015,fod_finance,2015,26216381,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA Table1 advances 26.22m 2015; tick531
+bud_secal_stock_receivables_2024,fod_finance,2024,452700000,,,stock,src_ccrek_secal_suivi_2025,strong,CoA: encours creances Secal EOY2024 452.7m; tick531
+bud_secal_impairment_2024,fod_finance,2024,403300000,,,stock,src_ccrek_secal_suivi_2025,strong,CoA: reduction de valeur 403.3m on 452.7m stock (insolvency-heavy); CoA questions accounting reliability; tick531
+bud_secal_undue_advances_2023_25,fod_finance,2025,1557712,,,outturn,src_ccrek_secal_suivi_2025,strong,CoA: undue advances 1.558m on 1599 dossiers 13 Jun 2023-13 Jun 2025; ~2/3 recovered by 13 Jun 2025; tick531
+bud_dual_secal_fin_jus,gg_belgium,2024,38790023,,,derived,src_dual_secal_finance_justice_tick531,strong,Dual SECAL advances flow under dual Finances-Justice recovery stack; not additive TE; tick531
