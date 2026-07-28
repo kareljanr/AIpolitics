@@ -5786,3 +5786,9 @@ Append-only. Each tick adds a short entry.
 - loop_state still **paused=yes** · ticks=488 · next on resume **rq_480**
 - To resume: set paused=no + re-create 60s scheduler if desired
 
+
+### 2026-07-28T19:12:35Z - resume
+- User: **paused=no**
+- 60s watcher recreated; fire_immediately first tick
+- State: ticks=488 last_unit=rq_479; next **rq_480** (progress@490 soon)
+
