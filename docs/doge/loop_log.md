@@ -4838,3 +4838,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +28; cmt +3; lb +8; raw esspros_be_2023_fps.pdf; rq_409=done; spawn **rq_410**; ticks=418
 - FOI: none new (public complete for ESSPROS aggregates; residual L5 payment-channel unit costs already FOI ready)
 - Next: prio5 **rq_410** (progress@420 after 419+420); deferred **rq_116** SWA
+
+### 2026-08-02T00:15:00Z - tick 419
+- Unit: **rq_410** (FOI-adjacent hole-fill - **NBB/NAI EDP Apr 2026 full Tables 1-5 C&R entity map**)
+- Found (strong primary neco.pdf 20 Apr 2026):
+  - GG: TE **347.956bn** · rev **314.736** · deficit **-33.221 (-5.2%)** · debt **692.461 (107.9%)** · GDP **642.015**
+  - Primary exp **+12.1bn** to 52.0% GDP; wages **80.226** · social benefits **164.823** · GFCF **19.947** · interest **14.282**
+  - Subsectors deficit: fed **-24.081** · C&R **-8.948** · local **-0.366** · SS **+0.173**
+  - **C&R 2025 deficits mEUR:** VL **-4132** · FWB **-1454** · DG **-103** · WAL **-2853** · BRU **-963** · interreg ETS **+557**
+  - **C&R debt stocks:** VL **50.172bn (71% rev)** · FWB **15.433 (60%)** · DG **1.257 (210%)** · WAL **40.820 (220%)** · BRU **16.339 (250%)** · total **127.565bn (+51% 4y)**
+  - Fed debt contrib **553.9bn (80%)**; defence COFOG **8.8bn / 1.4%** vs NATO **2%** (undelivered **0.6pp**); **RRF 3.3/5.3bn = 62%**
+- Wrote: sources +1; budgets +31; cmt +4; lb +8; raw nbb_edp_2025_apr_neco.pdf; rq_410=done; spawn **rq_411 progress@420**; ticks=419
+- FOI: none new (entity stocks strong public; residual ETS allocation key political)
+- Next: **MANDATORY progress@420 rq_411**; deferred **rq_116** SWA

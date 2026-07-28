@@ -6645,3 +6645,34 @@ bud_esspros_unemp_2024_ee,sec_ss,2024,5734360000,,,esspros_ee,src_esspros_be_202
 bud_esspros_family_2024_ee,sec_ss,2024,13162100000,,,esspros_ee,src_esspros_be_2023_fps,medium,EE family 13162m +7.60pct; tick418
 bud_esspros_benefits_2022,sec_ss,2022,153166760000,,,esspros,src_esspros_be_2023_fps,strong,Social benefits 153167m 2022 path; tick418
 bud_esspros_exp_total_2022,sec_ss,2022,160905040000,,,esspros,src_esspros_be_2023_fps,strong,Total social exp 160905m 28.67pct GDP 2022; tick418
+bud_edp_gdp_2025,gg_belgium,2025,642015000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,GDP 642015m 2025 NAI Table1; dual COM 642.6bn; tick419
+bud_edp_gdp_2024,gg_belgium,2024,619914000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,GDP 619914m 2024; dual DBP 620.3; tick419
+bud_edp_wages_2025,gg_belgium,2025,80226000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,GG wages D.1 80226m 2025; path 62842-80226 2021-25; tick419
+bud_edp_social_benefits_2025,sec_ss,2025,164823000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Social benefits 164823m 2025; dual ESSPROS benefits EE 177.9 different perimeter; tick419
+bud_edp_social_benefits_2024,sec_ss,2024,158435000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Social benefits 158435m 2024; tick419
+bud_edp_gfcf_2025,gg_belgium,2025,19947000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,GFCF 19947m 2025; dual DBP 19.3 2024; tick419
+bud_edp_tax_ssc_2025,gg_belgium,2025,268196000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Taxes and SSC 268196m 41.8pct GDP 2025; dual FPS cash tax 153.1 federal only; tick419
+bud_edp_revenue_2025,gg_belgium,2025,314736000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Total revenue 314736m 49.0pct GDP 2025 (-0.7pp); tick419
+bud_edp_primary_balance_2025,gg_belgium,2025,-18939000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Primary balance -18939m -2.9pct GDP 2025; tick419
+bud_edp_fed_deficit_2025,sec_federal,2025,-24081000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Federal S.1311 deficit -24081m -3.8pct GDP 2025 (+7.3bn vs 2024); tick419
+bud_edp_cr_deficit_2025,sec_s1312,2025,-8948000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Communities and regions S.1312 deficit -8948m -1.4pct GDP 2025; tick419
+bud_edp_local_deficit_2025,sec_s1313,2025,-366000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Local government deficit -366m -0.1pct GDP 2025 post-election improve; tick419
+bud_edp_ss_surplus_2025,sec_ss,2025,173000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Social security funds surplus +173m 2025 (higher fed transfers); tick419
+bud_edp_vl_deficit_2025,vlaanderen_gov,2025,-4132000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Flemish Community deficit -4132m 2025 (improve from -5023 2024); tick419
+bud_edp_fwb_deficit_2025,fwb_gov,2025,-1454000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,French Community deficit -1454m 2025; tick419
+bud_edp_dg_deficit_2025,sec_dg,2025,-103000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,German-speaking Community deficit -103m 2025; tick419
+bud_edp_wal_deficit_2025,wallonie_gov,2025,-2853000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Walloon Region deficit -2853m 2025 (worse from -2016; lower revenue); tick419
+bud_edp_bru_deficit_2025,brussels_gov,2025,-963000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Brussels-Capital Region deficit -963m 2025 (improve from -1552); tick419
+bud_edp_cocom_surplus_2025,brussels_gov,2025,11000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Common Community Commission surplus +11m 2025; tick419
+bud_edp_interreg_ets_2025,sec_s1312,2025,557000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Interregional units+stat adj +557m 2025 (temp ETS revenue pending allocation key); dual 771m 2024; tick419
+bud_edp_debt_fed_2025,sec_federal,2025,553907000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Federal contribution consolidated debt 553907m 80.0pct of GG 2025; tick419
+bud_edp_debt_cr_2025,sec_s1312,2025,127565000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,C&R contribution debt 127565m 18.4pct GG (+51pct in 4y); tick419
+bud_edp_debt_local_2025,sec_s1313,2025,27366000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Local contribution debt 27366m 4.0pct GG; tick419
+bud_edp_debt_ss_consol_2025,sec_ss,2025,-16377000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,SS funds negative contribution -16377m (assets eligible consolidation); tick419
+bud_edp_debt_vl_2025,vlaanderen_gov,2025,50172000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Flanders debt stock 50172m debt-to-revenue 71pct 2025; dual BA2026 Maastricht; tick419
+bud_edp_debt_fwb_2025,fwb_gov,2025,15433000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,FWB debt 15433m debt-to-revenue 60pct 2025; tick419
+bud_edp_debt_dg_2025,sec_dg,2025,1257000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,DG debt 1257m debt-to-revenue 210pct 2025 (+104pct 4y); tick419
+bud_edp_debt_wal_2025,wallonie_gov,2025,40820000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,Wallonia debt 40820m debt-to-revenue 220pct 2025; tick419
+bud_edp_debt_bru_2025,brussels_gov,2025,16339000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,BCR debt 16339m debt-to-revenue 250pct highest 2025 (+95pct 4y); tick419
+bud_edp_defence_cofog_2025_refresh,mod_defensie,2025,8800000000,,,esa,src_nbb_edp_2025_apr_neco_full,strong,COFOG defence 8.8bn 1.4pct GDP 2025 vs NATO 2pct cash; undelivered orders 0.6pct GDP; tick419
+bud_edp_rrf_disbursed_2025,gg_belgium,2025,3300000000,,,eu_disbursement,src_nbb_edp_2025_apr_neco_full,strong,RRF/REPowerEU disbursed 3.3bn of 5.3bn planned (62pct) end-2025; EC paid nearly 3bn milestones; tick419
