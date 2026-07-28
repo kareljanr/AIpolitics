@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T19:45:00Z,rq_449,458,no,Scheduler 60s. Next prio5 rq_450; progress@460. tick458 RKV TCO 313m asylum 140m dual Fedasil+NL.
+main,continuous,hole_fill,2026-08-02T20:15:00Z,rq_450,459,no,Scheduler 60s. Next prio5 rq_451 then progress@460. tick459 Myria dual AB+NL 2.66m class.

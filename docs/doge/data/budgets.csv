@@ -8148,3 +8148,13 @@ bud_rkv_ifrc_dues_2024,rode_kruis_vlaanderen,2024,329704,,,outturn,src_rkv_koste
 bud_rkv_eu_office_dues_2024,rode_kruis_vlaanderen,2024,26771,,,outturn,src_rkv_kosten_2024,strong,Red Cross/EU Office dues 26771 EUR; tick458
 bud_rkv_standing_comm_dues_2024,rode_kruis_vlaanderen,2024,3234,,,outturn,src_rkv_kosten_2024,strong,Standing Commission RC/RC dues 3234 EUR; tick458
 bud_rkv_result_class_2024,rode_kruis_vlaanderen,2024,-1600000,,,outturn,src_rkv_kosten_2024,medium,Income 312.8 - costs 314.4 = ~-1.6m class (not statutory net); tick458
+bud_myria_dot_2021,myria,2021,1268000,,,budgeted,src_kamer_55k2933_005_myria,strong,AB 41.10.414003 1.268m eng=liq 2021 Kamer 55K2933; tick459
+bud_myria_dot_2022,myria,2022,1255000,,,budgeted,src_kamer_55k2933_005_myria,strong,AB 1.255m 2022; tick459
+bud_myria_dot_2023,myria,2023,1645000,,,budgeted,src_kamer_55k2933_005_myria,strong,AB 1.645m 2023 (official path; not political 2.415m); tick459
+bud_myria_dot_2024_alt_path,myria,2024,1606000,,,budgeted,src_kamer_55k2933_005_myria,medium,Older Kamer path 1.606m 2024 vs later 56K1281 1.579m; keep both; tick459
+bud_myria_nl_plan_2024,myria,2024,1077174,,,budget,src_nloterij_kb_voorlopig_2024,strong,NL verdelingsplan Myria 1.077174m provisional 2024 dual; tick459
+bud_myria_nl_historic_2021,myria,2021,899786,,,outturn,src_kamer_56k0995_001_myria_abolish,medium,NL subsidy Myria 899786 EUR 2021 (cited political bill; confirm outturn FOI); tick459
+bud_myria_public_stack_additive_2024,myria,2024,2656174,,,budget,src_myria_nl_dual_recon_tick459,medium,If NL additive to federal AB: 1.579m+1.077m=2.656m 2024; Unia-style inside-federal residual FOI; tick459
+bud_myria_political_claim_2023,myria,2023,2415000,,,claimed,src_kamer_56k0995_001_myria_abolish,weak,Political claim federal 2.415m 2023; recon class AB 1.645+NL ~0.77; not use as audited; tick459
+bud_myria_nl_share_stack_pct_2024,myria,2024,41,,,pct,src_myria_nl_dual_recon_tick459,medium,NL 1.077 of additive stack 2.656 ~40.6pct if additive (stores 41); tick459
+bud_myria_ab_vs_political_gap_2023,myria,2023,770000,,,recon,src_myria_nl_dual_recon_tick459,medium,Political 2.415 - AB 1.645 = 0.770m gap class near historic NL; dual recon hypothesis; tick459

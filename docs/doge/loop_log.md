@@ -5388,3 +5388,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entity rode_kruis_vlaanderen; budgets +14; cmt +1; lb +10; foi gap_fedasil note; rq_449=done; spawn **rq_450**; ticks=458
 - FOI: gap_fedasil partial fill RKV 140m; residual other partners still ready human send
 - Next: prio5 **rq_450** (Myria NL dual / progress@460); deferred **rq_116** SWA
+
+### 2026-08-02T20:15:00Z - tick 459
+- Unit: **rq_450** (FOI-adjacent hole-fill - **Myria dual federal AB multi-year + NL plan 1.077m**)
+- Found (strong Kamer AB tables + NL plan; weak political claims separated):
+  - **AB path strong:** 2021 **1.268m** · 2022 **1.255** · 2023 **1.645** (55K2933) · 2024 **1.579** (56K1281; alt older 1.606) · 2025 **1.614** · 2026 **1.600**
+  - **NL plan 2024 EUR 1.077m** · historic **0.900m** 2021 (cited)
+  - **Additive stack class 2024 EUR 2.656m** if NL outside AB (Unia-style inside-federal residual FOI)
+  - Political abolition bill **2.415m 2023** = weak; recon class AB 1.645 + ~0.77 NL gap (not audited pure federal)
+  - Dual equality/HR stack: Unia+Myria+IEFH NL ~5.54m; Myria ~1/5 Unia federal scale
+- Wrote: sources +3; entity myria update; budgets +10; cmt +1; lb +10; foi gap_myria note; rq_450=done; spawn **rq_451**; ticks=459
+- FOI: gap_myria_other_income residual narrowed (NL channel inside/outside + cash + FTE) still ready human send
+- Next: prio5 **rq_451** then **progress@460**; deferred **rq_116** SWA
