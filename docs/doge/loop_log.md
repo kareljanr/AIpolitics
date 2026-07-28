@@ -4933,3 +4933,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +33; cmt +2; lb +6; raw 4 PDFs (3 primaire + SECM); rq_416=done; spawn **rq_417**; ticks=425
 - FOI: none new (2024-25 primaire lag normal publication cycle; optional recheck later; gap_antifraud residual unchanged)
 - Next: prio5 **rq_417**; deferred **rq_116** SWA
+
+### 2026-08-02T03:45:00Z - tick 426
+- Unit: **rq_417** (FOI-adjacent hole-fill - **INAMI indep incapacity primaire 2019-2023**)
+- Found (strong primary INAMI PDFs stat_si2023_*_independants):
+  - **Indep primaire cash:** **EUR 123.1 -> 208.2m** 2019-23 (+19.86% YoY 2023; **+69.2%** since 2019)
+  - **Days** 2.86 -> **4.00m** · **avg day EUR 43.07 -> 52.09** (+8.38% YoY; forfait revalorisation+index)
+  - Split 2023: men **122.4m** (avg 52.80) · women **85.9m** (avg 51.11)
+  - Periods ended **33.768** (-3.1%); long **338-365d = 6.795 (20.12%)** invalidity pipeline
+  - Indemnisables stock eoy **670.164** (+0.10%)
+  - Dual recon: sal primaire **2.652bn** tick425 + indep **0.208bn** = **2.860bn** total primaire cash 2023
+  - Residual 2024-25 indep primaire tables not yet on portal (parallel sal lag)
+- Wrote: sources +1; budgets +25; cmt +2; lb +4; raw 3 PDFs; rq_417=done; spawn **rq_418**; ticks=426
+- FOI: none new (publication lag normal; optional later recheck)
+- Next: prio5 **rq_418**; deferred **rq_116** SWA

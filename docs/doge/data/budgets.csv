@@ -6843,3 +6843,28 @@ bud_secm_dentists_grief_2025,riziv,2025,2423134,,,control_detected,src_inami_sec
 bud_secm_medecins_grief_2025,riziv,2025,2577501,,,control_detected,src_inami_secm_2025,strong,SECM medecins 46 dossiers 2.57750052m grief 2025 (press); tick425
 bud_secm_staff_2025,riziv,2025,211,,,fte_count,src_inami_secm_2025,strong,SECM staff eoy 2025 211 (down from 237 2024); recruit +25 inspectors announced; tick425
 bud_secm_actions_2025,riziv,2025,334,,,control_volume,src_inami_secm_2025,strong,SECM closed controls 334 (2024: 483); higher severity per case; tick425
+bud_inami_primaire_indep_cash_2019,riziv,2019,123054837,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,INAMI indep primaire cash 123054837 (+16.74% YoY); tick426
+bud_inami_primaire_indep_cash_2020,riziv,2020,130511053,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,INAMI indep primaire cash 130511053 (+6.06% YoY); tick426
+bud_inami_primaire_indep_cash_2021,riziv,2021,126834067,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,INAMI indep primaire cash 126834067 (-2.82% YoY); tick426
+bud_inami_primaire_indep_cash_2022,riziv,2022,173736905,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,INAMI indep primaire cash 173736905 (+36.98% YoY); tick426
+bud_inami_primaire_indep_cash_2023,riziv,2023,208247272,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,INAMI indep primaire cash 208247272 (+19.86% YoY); tick426
+bud_inami_primaire_indep_days_2019,riziv,2019,2857273,,,volume_days,src_inami_primaire_indep_2023,strong,INAMI indep primaire days 2857273 (+14.32% YoY); tick426
+bud_inami_primaire_indep_days_2020,riziv,2020,2970521,,,volume_days,src_inami_primaire_indep_2023,strong,INAMI indep primaire days 2970521 (+3.96% YoY); tick426
+bud_inami_primaire_indep_days_2021,riziv,2021,2853140,,,volume_days,src_inami_primaire_indep_2023,strong,INAMI indep primaire days 2853140 (-3.95% YoY); tick426
+bud_inami_primaire_indep_days_2022,riziv,2022,3614962,,,volume_days,src_inami_primaire_indep_2023,strong,INAMI indep primaire days 3614962 (+26.70% YoY); tick426
+bud_inami_primaire_indep_days_2023,riziv,2023,3998075,,,volume_days,src_inami_primaire_indep_2023,strong,INAMI indep primaire days 3998075 (+10.60% YoY); tick426
+bud_inami_primaire_indep_avg_day_2019,riziv,2019,4307,,,unit_cost_cents,src_inami_primaire_indep_2023,strong,INAMI indep primaire avg day EUR 43.07 stored cents 4307 (+2.12% YoY); tick426
+bud_inami_primaire_indep_avg_day_2020,riziv,2020,4394,,,unit_cost_cents,src_inami_primaire_indep_2023,strong,INAMI indep primaire avg day EUR 43.94 stored cents 4394 (+2.02% YoY); tick426
+bud_inami_primaire_indep_avg_day_2021,riziv,2021,4445,,,unit_cost_cents,src_inami_primaire_indep_2023,strong,INAMI indep primaire avg day EUR 44.45 stored cents 4445 (+1.18% YoY); tick426
+bud_inami_primaire_indep_avg_day_2022,riziv,2022,4806,,,unit_cost_cents,src_inami_primaire_indep_2023,strong,INAMI indep primaire avg day EUR 48.06 stored cents 4806 (+8.11% YoY); tick426
+bud_inami_primaire_indep_avg_day_2023,riziv,2023,5209,,,unit_cost_cents,src_inami_primaire_indep_2023,strong,INAMI indep primaire avg day EUR 52.09 stored cents 5209 (+8.38% YoY); tick426
+bud_inami_primaire_indep_men_cash_2023,riziv,2023,122359445,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Indep primaire men cash 122359445 (58.8pct); days 2317498; avg 52.8; tick426
+bud_inami_primaire_indep_wom_cash_2023,riziv,2023,85887828,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Indep primaire women cash 85887828 (41.2pct); days 1680577; avg 51.11; tick426
+bud_inami_primaire_indep_indemnisables_2023,riziv,2023,670164,,,insured_stock,src_inami_primaire_indep_2023,strong,Indep indemnisables eoy 2023 670164 (+0.10pct); tick426
+bud_inami_primaire_indep_periods_2023,riziv,2023,33768,,,case_volume,src_inami_primaire_indep_2023,strong,Indep periods ended 2023 33768 (-3.10% YoY); long 338-365d 6795 (20.12pct); tick426
+bud_inami_primaire_indep_long_2023,riziv,2023,6795,,,case_volume,src_inami_primaire_indep_2023,strong,Indep long 338-365d periods 6795 (20.12pct of ended) invalidity pipeline; tick426
+bud_inami_primaire_indep_avg_dur_2023,riziv,2023,11258,,,unit_duration_cents,src_inami_primaire_indep_2023,strong,Indep avg duration per period 112.58 days 2023 (+19.50% YoY) stored *100; tick426
+bud_inami_primaire_total_sal_indep_2023,riziv,2023,2860241261,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Dual recon sal primaire 2.652bn tick425 + indep 208.2m = 2860241261 total primaire cash 2023; tick426
+bud_inami_primaire_indep_covid_2021,riziv,2021,14769614,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Covid suppl indep primaire cash 14769614 (days 1266794); tick426
+bud_inami_primaire_indep_covid_2022,riziv,2022,333919,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Covid suppl indep primaire cash 333919; tick426
+bud_inami_primaire_indep_path_2019_23,riziv,2023,208247272,,,outturn_indemnities,src_inami_primaire_indep_2023,strong,Path cash 2019-23: 123/131/127/174/208 mEUR; +69.2pct since 2019; forfait regime dual sal; tick426
