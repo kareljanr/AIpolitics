@@ -20,43 +20,52 @@
 
 ---
 
-## Snapshot at **tick 400** (2026-08-01)
+## Snapshot at **tick 410** (2026-08-01)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn; dual ICN Apr) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
+| **C. L2 entity totals** | **~98–99%** (order of magnitude) | Up from ~97–99% @400: **FPB midterm Entity I/II** (E1 **−€25.3bn** 2026 → **−€45.9bn** 2031; E2 **−€8.4→−€4.1bn**) · **GG path −€33.7→−€50.0bn** · interest **€14.3→€27.5bn** · **HermReg C&R multi-year** VL/WAL/FWB/BCR dep+solde · **CEV social %GDP branch** · **T10 labour reductions employer €23.5bn** 2026 |
+| **D. L5 named end-receivers** | **~22–34%** of TE (generous) | Slight uptick only: flexi wage mass **€220m** + HERMES horeca TE sim · T10 named *instruments* (night €2.12bn, R&D €1.48bn, titres-services €2.51bn) not firm L5 · residual FOI still dominates ASBL/firm end-receivers |
+| **E. FOI-ready gaps** | **~214** drafts ready | Human send only; answered **~8**; total FOI rows **~224** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex inventory **€29.7bn** / GG **€39.4bn** 2023; fossil/company cars/cheque; **T10 employer package €23.5bn** (dual NBB ~€25.1bn business subs — wage wedge, not ESA TE pie); CEV social **25.7→27.2% GDP**; IPP reform **€5.6bn** path; flexi parafiscal privilege.
+
+### Inventory (tick 410)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~6450 |
+| commitments.csv | ~734 |
+| leaderboard.csv | ~1114 |
+| entities.csv | ~357 |
+| sources.csv | ~749 |
+| FOI ready | ~214 |
+| FOI answered | ~8 |
+| FOI total rows | ~224 |
+| research_queue | ~397 (open: rq_116 deferred + rq_402 hole-fill after progress) |
+
+### What improved since tick 400
+
+- **ICN + NBB Jun (tick404):** TE **€347.956bn** · deficit **−€33.2bn (−5.2%)** · debt **€692.5bn** · defence COFOG **€8.8bn** · NBB deficit path **−5.3→−5.7**.  
+- **HermReg Entity II (tick405):** VL/WAL/FWB/BCR multi-year rec/dep/solde/interest; **gap_reg answered**.  
+- **CEV 2026 full (tick406):** social **25.7→27.2% GDP** · health **+2.1pp** · pens **+0.7** · reform save **1.4pp** · Entity I/II social split; **gap_cev answered**.  
+- **Flexi-jobs CoA+BFP (tick407):** wage mass **€220.071m** · HERMES horeca abolish **+€106/+€213m** saldo 2030; FOI multi-year TE.  
+- **FPB midterm Entity I/II (tick408):** GG/fed/SS/C&R/local mEUR path; E1 **−€25.3bn** 2026; interest **€27.5bn** 2031; **gap_fpb answered**.  
+- **T10 labour reductions (tick409):** employer **€23.5bn** 2026 · package **€25.3bn** w/ employee · night **€2.12bn** · R&D **€1.48bn** · titres-services **€2.51bn**; FOI L5 night/RD.
+
+---
+
+## Snapshot at **tick 400** (2026-08-01) — archived
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA) |
-| **B. L1 subsectors** | **100%** of unconsol. map | Strong; transfer wedge if double-counted |
-| **C. L2 entity totals** | **~97–99%** (order of magnitude) | Up from ~96–99% @390: **Entity I SEC rec €244.1 / dep €268.7 / deficit €24.6bn** · **SS consol rec €148.0 / dep €147.9bn** · **fed cash fiscal €157.9bn** · **NATO effort €13.1bn** · **LPM eng €33.8bn** (multi-year) · justice/Fedasil/BOSA provisions path |
-| **D. L5 named end-receivers** | **~22–33%** of TE (generous) | Modest uptick: LPM package names (~€27.1/33.8bn) · chomage exclusion waves by region · VAT rate reform lines · RTW recontrol tables · residual FOI still dominates pure third-party ASBL/firm names |
-| **E. FOI-ready gaps** | **~210** drafts ready | Human send only; answered **~5**; total FOI rows **~216** |
-
-**Off-TE (do not mix into 348 bn):** federal taxex inventory **€29.7bn** fed / **€39.4bn** GG 2023; fossil/company cars/cheque TE; **Entity I €268.7bn** ≠ ESA TE 2025; IPP reform cum **€5.6bn** 2030 path; CGT/accounts tax new bases; dual composites not TE-additive.
-
-### Inventory (tick 400)
-
-| File | Rows (class) |
-|------|-------------:|
-| budgets.csv | ~5670 |
-| commitments.csv | ~706 |
-| leaderboard.csv | ~1037 |
-| entities.csv | ~357 |
-| sources.csv | ~729 |
-| FOI ready | ~210 |
-| FOI answered | ~5 |
-| FOI total rows | ~216 |
-| research_queue | ~387 (open: rq_116 deferred + rq_392 hole-fill after progress) |
-
-### What improved since tick 390
-
-- **Justice + Fedasil + BE-Watt:** Justice **€2.84bn** + prov **€465.5m** · prison **€840m** 26–29 · Fedasil **€802m** · BE-Watt **€487.6m** (tick391).  
-- **I-Police + NATO:** I-Police **€76.7/299m** cancelled claim **€228m** · NATO effort **€13.1bn** (tick392).  
-- **BOSA provisions:** interdept **€2.13bn** · generale **€830m** · specialty hollow Defence eng **€20.1bn** (tick393).  
-- **LPM 2026–34:** eng plafond **€33.78bn** · manoeuvre **€6.0** · SBAMD **€4.0** · F-35+11 **€3.39** · ASWF-3 **€1.92** (tick394).  
-- **Non-fiscal + ETS:** nonfiscal **€6.47bn** · Belfius div **€915m** · **ETS blocked €1.8bn** · ET prefin **€40.7m** dual · EPF est **€177m** (tick395).  
-- **SS Part III:** consol **€148.0/147.9bn** · ONSS red pack **€5.17bn** · Tour Midi **€168.8m** · RTW path **€1.93bn** · chom **€4.64bn** (−28%) (tick396).  
-- **Transversal:** antifraud dual **€600m** · centimes **€272→883m** · chom reform **€1.69→2.45bn** · exclusions **193.9k** (tick397).  
-- **Fiscal reform:** cash fiscal **€157.9bn** · IPP reform cum **€5.6bn** · VAT rates **+€580.5m** · CGT net **€120m** · accounts tax **+€414m** (tick398).  
-- **Entity I overview:** rec **€244.1** / dep **€268.7** / deficit **€24.6** · taxex fed **€29.7bn** 2023 · interest **€12.2bn** (tick399).  
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong |
+| **C. L2 entity totals** | **~97–99%** | Entity I 268.7 · SS consol 148 · fiscal 158 · LPM 33.8 · NATO 13.1 |
+| **D. L5 named end-receivers** | **~22–33%** | LPM packages · residual FOI ASBL/firm |
+| **E. FOI-ready gaps** | **~210** | answered ~5 |
 
 ---
 
@@ -104,4 +113,5 @@
 | 370 | 100% | 100% | ~94–98% | ~19–30% | ~178 | Childcare €2.32bn + youth protect €1.44bn + WVG L5 CAW/GGZ/armoede/preventie |
 | 380 | 100% | 100% | ~95–98% | ~20–31% | ~187 | VSB/VAPH/Groeipakket mega + Iriscare dual + ONSS/Smals + Samusocial |
 | 390 | 100% | 100% | ~96–99% | ~21–32% | ~195 | SS mega wave GG sal/FPD/RIZIV/RSVZ/ONVA + social assist 6.5bn |
-| **400** | **100%** | **100%** | **~97–99%** | **~22–33%** | **~210** | **Current** (Entity I 268.7 · SS consol 148 · fiscal 158 · LPM 33.8 · NATO 13.1 · ETS 1.8 stock · IPP 5.6 path) |
+| 400 | 100% | 100% | ~97–99% | ~22–33% | ~210 | Entity I 268.7 · SS 148 · fiscal 158 · LPM 33.8 · NATO 13.1 · ETS 1.8 · IPP 5.6 |
+| **410** | **100%** | **100%** | **~98–99%** | **~22–34%** | **~214** | **Current** (midterm E1/E2 · HermReg · CEV · T10 labour €23.5bn · flexi €220m · interest €27.5bn path) |

@@ -4710,3 +4710,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~200; cmt +1; lb +8; FOI **gap_t10_l5_night_rd** ready; rq_400=done; spawn **rq_401 progress@410**; ticks=409
 - FOI: night/shift + R&D top50 L5 human send only
 - Next: **MANDATORY progress@410 rq_401**; deferred **rq_116** SWA
+
+### 2026-08-01T19:45:00Z - tick 410
+- Unit: **rq_401** (**progress milestone @410** - coverage % + waste top10 refresh; no new euro invent)
+- Snapshot (honest order-of-magnitude vs TE EUR 347.956 bn):
+  - **A L0 / B L1:** **100%** (unchanged strong)
+  - **C L2:** **~98-99%** (up from ~97-99% @400) - midterm Entity I/II · HermReg C&R · CEV branch · T10 labour 23.5bn · GG interest path 27.5bn
+  - **D L5:** **~22-34%** generous (flexi 220m; T10 instrument lines not firm L5; residual FOI ASBL/firm)
+  - **E FOI ready:** **~214** (answered **~8**; total FOI rows **~224**)
+- Inventory: budgets ~6450 · cmt ~734 · lb ~1114 · entities ~357 · sources ~749
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; **lb_t10_package_total_25_3bn** (25.3bn) and **lb_mlt_gg_interest_27_5bn** just outside at prio 7.55
+- Dual/off-TE: T10 labour package dual NBB 25.1bn; CEV 25.7-27.2pct GDP; Entity I deficit path 25.3-45.9bn
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_401=done; spawn **rq_402**; ticks=410
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_402** hole-fill; deferred **rq_116** SWA

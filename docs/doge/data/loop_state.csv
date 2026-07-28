@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T19:15:00Z,rq_400,409,no,Scheduler 60s. MANDATORY progress@410 rq_401 next; rq_116 SWA deferred. tick409 T10 labour reductions.
+main,continuous,hole_fill,2026-08-01T19:45:00Z,rq_401,410,no,Scheduler 60s. Next prio5 rq_402; rq_116 SWA deferred. tick410 progress coverage + waste top10.
