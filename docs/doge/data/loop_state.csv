@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T20:10:00Z,rq_489,498,no,Tick498 CoA VL AVB+inductie >100m; next prio5 rq_490; progress@500 soon; rq_116 SWA deferred.
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-28T20:30:00Z,rq_490,499,no,Tick499 CoA VL RR2025 ESR-4.0bn debt50.2bn Zaventem2.55bn; next prio5 rq_491; progress@500 next; rq_116 SWA deferred.

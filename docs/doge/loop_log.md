@@ -5937,3 +5937,20 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_avb_inductie_spend_l5 (ready, human send) � not sent
 - Next: prio5 **rq_490** (**progress@500 next ticks**); deferred **rq_116** SWA
 
+
+### 2026-07-28T20:30:00Z - tick 499
+- Unit: **rq_490** (FOI-adjacent hole-fill — **CoA 2026_32 VL Rekeningenrapport 2025 + dual Entity II**)
+- Found (strong primary Rekenhof NL 30 Jun 2026 + press + addendum):
+  - **ESR vorderingensaldo 2025 −3.982,4m** (vs −4.101,3m 2024; BA −4.503,8m; +522m vs BA)
+  - **Maastrichtschuld 50.171,9m** eoy2025 (from 41.788,6m; **+8.383,3m**); gross consol **58.721,9m**; direct **42.396,6m**
+  - Debt 2019→2025: **18,6 → 50,2bn (+170%)** — far exceeds cumulative deficits
+  - **PMV/Zaventem BAC kapitaalsverhoging 2.553,6m** (post-BA amendement); CoA debt impact class **~2,7bn**
+  - Lantis debt **2.401,3m** (+1.166,5); loans 2025 **1.128m**; Toekomstverbond cum **3.851,6m**
+  - VWF **6.062,8m** · VMSW **3.123,4m** · centraal gefinancierd **17.464,2m**
+  - **Niet-budgettaire schuldopbouw 1.069,7m** 2025 — Parlement onvoldoende uitleg (CoA)
+  - Balans: onthouding; ontbrekende terreinen/gebouwen **~1,6bn**; kunst **1,4bn** deels; openstaande verbintenissen FWO **561,6** + FIO **188,6** ≈ **0,75bn** voorbehoud
+  - Overdracht kredieten naar 2026 **1.415,3m**; Relance 2025 spend **399,4m** (−342,2); cum 4,2bn vast / 3,5bn liq / 0,7bn open
+  - **Dual Entity II:** VL certified −4,0bn outturn vs WAL aju −2,02 / FWB −1,75 / DG −0,11
+- Wrote: sources +4; budgets +28; cmt +5; lb +7; FOI **gap_vl_debt_nonbudget_bridge_l5** ready+draft; raw PDFs; rq_490=done spawn **rq_491**; ticks=499
+- FOI opened: gap_vl_debt_nonbudget_bridge_l5 (ready, human send) — not sent
+- Next: prio5 **rq_491** (**progress@500 next tick**); deferred **rq_116** SWA

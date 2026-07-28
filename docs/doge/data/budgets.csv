@@ -8656,3 +8656,31 @@ bud_vl_avb_plus_inductie_class_2026,vlaanderen_gov,2026,100000000,,,budgeted,src
 bud_vl_lerarenbonus_2024_25,vlaanderen_gov,2025,24700000,,,budgeted,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Lerarenbonus AGODI estimate 24.7m SY2024-25; 3499 teachers (612 ba + 2890 so); tick498
 bud_vl_professionalisering_per_vte,vlaanderen_gov,2025,125,,,unit_rate,src_ccrek_vl_aanvangsbegeleiding_2026,strong,Professionalisering 120-130 EUR per organieke betrekking class mid 125; tick498
 bud_dual_teacher_induction_vl_2026,gg_belgium,2026,100000000,,,derived,src_dual_teacher_induction_vl_fwb_tick498,strong,Dual VL starter support >100m class vs FWB Cepage under 7.1bn payroll; tick498
+bud_vl_esr_saldo_2025_rr,vlaanderen_gov,2025,-3982400000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,ESR vorderingensaldo -3982.4m certified CoA RR2025 (vs -4101.3 2024; BA -4503.8); tick499
+bud_vl_esr_saldo_2024_rr,vlaanderen_gov,2024,-4101300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,ESR vorderingensaldo -4101.3m 2024 CoA RR2025 Table kerncijfers; tick499
+bud_vl_debt_maastricht_2025_rr,vlaanderen_gov,2025,50171900000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Maastricht debt 50171.9m eoy2025 (+8383.3 vs 41788.6 eoy2024); upgrades BA source; tick499
+bud_vl_debt_maastricht_2024_rr,vlaanderen_gov,2024,41788600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Maastricht debt 41788.6m eoy2024 CoA RR (INR restated +187.6m GSC); tick499
+bud_vl_debt_consol_gross_2025,vlaanderen_gov,2025,58721900000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Total geconsolideerde schuld 58721.9m eoy2025 before Maastricht corrections Table22; tick499
+bud_vl_debt_direct_2025_rr,vlaanderen_gov,2025,42396600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Directe uitstaande schuld 42396.6m eoy2025 (+9321.4); tick499
+bud_vl_debt_delta_2025,vlaanderen_gov,2025,8383300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Maastricht debt +8383.3m 2025; deficit ~4bn + Zaventem ~2.7bn + housing ESR8 residual; tick499
+bud_vl_pmv_zaventem_2554m,pmv,2025,2553600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Kapitaalsverhoging PMV financing BAC Zaventem 2553.6m (amendment post-BA); debt impact class 2.7bn CoA; tick499
+bud_vl_lantis_debt_2025,lantis,2025,2401300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Lantis debt component 2401.3m eoy2025 (+1166.5); loans from ministry 1128m 2025; tick499
+bud_vl_lantis_loans_2025,lantis,2025,1128000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Ministry LT loans to Lantis 1128m 2025 (250m 2023 + 950m 2024 path); tick499
+bud_vl_vwf_debt_2025,vwf,2025,6062800000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VWF debt 6062.8m eoy2025 (+1196.4); social housing finance; tick499
+bud_vl_vmsw_debt_2025,vmsw,2025,3123400000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VMSW debt 3123.4m eoy2025 (-216.1); tick499
+bud_vl_central_financed_debt_2025,vlaanderen_gov,2025,17464200000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Centraal gefinancierde entiteiten outstanding 17464.2m eoy2025; tick499
+bud_vl_toekomstverbond_cum_2025,lantis,2025,3851600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Toekomstverbond financing cum 3851.6m eoy2025 Table23 (capital+loans+overkap); tick499
+bud_vl_nonbudget_debt_build_2025,vlaanderen_gov,2025,1069700000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Non-budgetary verrichtingen share of debt build 1069.7m 2025; Parliament under-informed CoA; tick499
+bud_vl_missing_assets_1_6bn,vlaanderen_gov,2025,1600000000,,,estimated,src_ccrek_vl_rekeningen_2025,strong,Missing land/buildings still at zero on balance; CoA own estimate 1.6bn; tick499
+bud_vl_art_collection_booked_1_4bn,vlaanderen_gov,2025,1400000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Art collection 1.4bn booked 2022; disputed ownership residual unbooked; CoA cannot confirm valuation; tick499
+bud_vl_open_commit_fwo_fio_2025,vlaanderen_gov,2025,750200000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Openstaande verbintenissen understated: FWO 561.6m + FIO 188.6m; CoA reservation on budget execution; tick499
+bud_vl_credit_carry_to_2026,vlaanderen_gov,2026,1415300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Overdracht beleidskredieten to 2026 1415.3m (from 1255.3 to 2025); indexprovisie underuse; tick499
+bud_vl_relance_spend_2025,vlaanderen_gov,2025,399400000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Relance Vlaamse Veerkracht spend 399.4m 2025 (-342.2 vs budget); cum commit 4.2bn liq 3.5bn open 0.7bn; tick499
+bud_vl_relance_cum_commit_2025,vlaanderen_gov,2025,4200000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Relance plan cumulative vastgelegd 4.2bn end-2025; tick499
+bud_vl_go_patrimony_2025,go_onderwijs,2025,1004000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,GO! land/buildings book value 1004.0m (79pct of GO balance); inventory still incomplete; tick499
+bud_vl_vsb_portfolio_2025,vsb,2025,1034900000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VSB investment portfolio 1034.9m eoy2025; equities 293.8m 28.4pct vs VR equity cap; tick499
+bud_vl_5g_auction_budget_miss_2025,vlaanderen_gov,2025,19500000,,,budgeted,src_ccrek_vl_rekeningen_2025,strong,5G spectrum expected rec 19.5m/yr not received 2025 (split key pending Overlegcomite); federal pool 741.8m net; tick499
+bud_dual_vl_outturn_e2_2025,gg_belgium,2025,3982400000,,,derived,src_dual_vl_outturn_e2_tick499,strong,Dual VL certified deficit 3982.4m class vs WAL/FWB/DG aju maps (not additive TE); tick499
+bud_vl_esr_receipts_over_2025,vlaanderen_gov,2025,353800000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,ESR receipts +0.6pct / +353.8m vs BA2025; tick499
+bud_vl_esr_underuse_2025,vlaanderen_gov,2025,1830300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,ESR spend under-use 2.8pct / 1830.3m 2025 (BA assumed 1773.7m); tick499
+bud_vl_dienstencheques_overrun_2025,vlaanderen_gov,2025,149300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Dienstencheques meeruitgave 149.3m vs BA2025 ministries; tick499
