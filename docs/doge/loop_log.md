@@ -6219,3 +6219,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +19; cmt +3; lb +7; FOI **gap_cons_101_named_overruns_l5** ready+draft; rq_509=done spawn **rq_510**; ticks=518
 - FOI opened: gap_cons_101_named_overruns_l5 (ready, human send) � not sent
 - Next: prio5 **rq_510** (**progress@520 next tick**); deferred **rq_116** SWA
+
+### 2026-07-29T03:00:00Z - tick 519
+- Unit: **rq_510** (FOI-adjacent hole-fill — **CoA 2025_01 Justice digital transformation + dual IT failures**)
+- Found (strong primary Rekenhof AG Jan 2025 + press/summary):
+  - **Policy-cell estimate digi cost ~€140m 2023** (full calc not possible multi-source)
+  - **SD ICT:** commit **€61.3m (2020) → €93.4m (2023)**; liq **€56.5m → €80.5m**; structural path **~43→~80m** from 2025
+  - **PHV/RRF:** nearly **€115m excl VAT** to 2026 for Justice digital; CoA flags eligibility misuse risk
+  - **Consultants ~500:** SD ICT **92** (26 Egov) vs 145 stat (Feb23); Crossborder **228** vs **6** stat (Nov23); DTO **137** + 6 int (Dec23)
+  - **JustSign/bpost irregular €5.8m** (JustSign **€3.1m**) without regular tender; IF-flagged regularisations
+  - No single coherent strategy; DTO ends **31 Dec 2025**; cabinet ops role strong; basic admin functions weak
+  - **Dual:** Justice digi stack vs I-Police **76.7/299m** · Persona **16m** · Cepage **35–96m** · federal consultancy **2.5bn**
+- Wrote: sources +3; budgets +14; cmt +3; lb +7; FOI **gap_justice_digi_l5** ready+draft; raw PDFs; rq_510=done spawn **rq_511**; ticks=519
+- FOI opened: gap_justice_digi_l5 (ready, human send) — not sent
+- Next: prio5 **rq_511** (**progress@520 next tick**); deferred **rq_116** SWA

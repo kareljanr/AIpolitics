@@ -9024,3 +9024,17 @@ bud_cons_overrun_datamine_110m,sec_federal,2022,110000000,,,outturn,src_ccrek_co
 bud_cons_overrun_400k_to_10m,sec_federal,2022,10000000,,,outturn,src_ccrek_consultancy_101_compliance_2025,strong,Named: est 400k became actual 10m class; tick518
 bud_cons_tactical_ra_150m,sec_federal,2022,150300000,,,budgeted,src_ccrek_consultancy_101_compliance_2025,medium,Tactical/operational consultancy RA max from participant needs 150.3m; tick518
 bud_dual_cons_compliance_2022,gg_belgium,2022,2200000000,,,derived,src_dual_consultancy_compliance_tick518,strong,Dual 2.2bn sample compliance failures; tick518
+bud_justice_digi_policy_140m_2023,fod_justice,2023,140000000,,,estimate,src_ccrek_justice_digi_2025,medium,Policy cell estimate digi strategy cost ~140m 2023; CoA cannot full calc; tick519
+bud_justice_sd_ict_commit_2020,fod_justice,2020,61300000,,,outturn,src_ccrek_justice_digi_2025,strong,SD ICT basisallocaties vastlegging 61.3m 2020; tick519
+bud_justice_sd_ict_commit_2023,fod_justice,2023,93400000,,,outturn,src_ccrek_justice_digi_2025,strong,SD ICT basisallocaties vastlegging 93.4m 2023; tick519
+bud_justice_sd_ict_liq_2020,fod_justice,2020,56500000,,,outturn,src_ccrek_justice_digi_2025,strong,SD ICT vereffening 56.5m 2020; tick519
+bud_justice_sd_ict_liq_2023,fod_justice,2023,80500000,,,outturn,src_ccrek_justice_digi_2025,strong,SD ICT vereffening 80.5m 2023; tick519
+bud_justice_ict_struct_path_2025,fod_justice,2025,80000000,,,budgeted,src_ccrek_justice_digi_2025,medium,Structural ICT liq path ~43m to ~80m from 2025 IDP recurring into initial; tick519
+bud_justice_phv_115m_2026,fod_justice,2026,115000000,,,commitment,src_ccrek_justice_digi_2025,strong,PHV/RRF nearly 115m excl VAT to 2026 Justice digital; tick519
+bud_justice_consultants_crossborder_2023,fod_justice,2023,0,,,unknown,src_ccrek_justice_digi_2025,strong,Crossborder 228 external consultants vs 6 statutory Nov 2023; EUR residual FOI; tick519
+bud_justice_consultants_dto_2023,fod_justice,2023,0,,,unknown,src_ccrek_justice_digi_2025,strong,DTO 137 external consultants + 6 internal FTE Dec 2023; EUR residual FOI; tick519
+bud_justice_consultants_sd_ict_2023,fod_justice,2023,0,,,unknown,src_ccrek_justice_digi_2025,strong,SD ICT 92 external (26 Egov) vs 145 statutory Feb 2023; EUR residual FOI; tick519
+bud_justice_consultants_total_est_500,fod_justice,2023,0,,,unknown,src_ccrek_justice_digi_2025,strong,CoA estimates ~500 external consultants across ICT/DTO/Crossborder; headcount not EUR; tick519
+bud_justsign_bpost_5_8m,fod_justice,2021,5800000,,,outturn,src_ccrek_justice_digi_2025,strong,bpost irregular award 5.8m incl JustSign 3.1m without regular tender; tick519
+bud_justsign_3_1m,fod_justice,2021,3100000,,,outturn,src_ccrek_justice_digi_2025,strong,JustSign project share of bpost irregular 3.1m; tick519
+bud_dual_justice_it_digi_stack,gg_belgium,2023,140000000,,,derived,src_dual_justice_it_failures_tick519,medium,Dual Justice digi 140m class 2023 vs I-Police/Persona/Cepage failures; not additive pure TE; tick519
