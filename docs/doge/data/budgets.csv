@@ -6617,3 +6617,31 @@ bud_ec_dbp_op_eu_funds_exp_2025,gg_belgium,2025,2000000000,,,forecast,src_ec_opi
 bud_ec_dbp_op_eu_funds_exp_2026,gg_belgium,2026,1700000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,COM exp funded by EU transfers 1.7bn 2026; RRF grants ~0.2-0.3pct GDP; tick417
 bud_ec_dbp_op_deviation_2025,gg_belgium,2025,700000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,Annual net-exp deviation +0.7bn 2025 (overshoot); within NEC defence flex; tick417
 bud_ec_dbp_op_deviation_2026,gg_belgium,2026,-2000000000,,,forecast,src_ec_opinion_dbp_be_2026,strong,Annual net-exp deviation -2.0bn 2026 (undershoot vs max); tick417
+bud_esspros_gdp_2023,gg_belgium,2023,602400000000,,,esa,src_esspros_be_2023_fps,strong,GDP 602.4bn 2023 per ESSPROS brochure Eurostat update; tick418
+bud_esspros_receipts_total_2023,sec_ss,2023,181156550000,,,esspros,src_esspros_be_2023_fps,strong,Total social protection receipts 181157m 30.07pct GDP 2023; tick418
+bud_esspros_rec_employer_2023,sec_ss,2023,67258710000,,,esspros,src_esspros_be_2023_fps,strong,Employers contributions 67259m 11.17pct GDP 37.13pct TSR; tick418
+bud_esspros_rec_protected_2023,sec_ss,2023,34504350000,,,esspros,src_esspros_be_2023_fps,strong,Protected persons contributions 34504m 5.73pct GDP 19.05pct TSR; tick418
+bud_esspros_rec_gov_2023,sec_ss,2023,75340290000,,,esspros,src_esspros_be_2023_fps,strong,Government contributions 75340m 12.51pct GDP 41.59pct TSR elevated energy crisis; tick418
+bud_esspros_rec_other_2023,sec_ss,2023,4053200000,,,esspros,src_esspros_be_2023_fps,strong,Other social protection receipts 4053m 2.24pct TSR; tick418
+bud_esspros_exp_total_2023,sec_ss,2023,174210260000,,,esspros,src_esspros_be_2023_fps,strong,Total social protection exp 174210m 28.92pct GDP 2023; dual COFOG social narrower; tick418
+bud_esspros_benefits_2023,sec_ss,2023,165806450000,,,esspros,src_esspros_be_2023_fps,strong,Social benefits 165806m 27.53pct GDP 95.18pct TSE 2023; tick418
+bud_esspros_admin_2023,sec_ss,2023,6165450000,,,esspros,src_esspros_be_2023_fps,strong,Administrative expenditure social protection 6165m 1.02pct GDP 3.54pct TSE; tick418
+bud_esspros_other_exp_2023,sec_ss,2023,2238360000,,,esspros,src_esspros_be_2023_fps,strong,Other social protection expenditure 2238m 1.28pct TSE; tick418
+bud_esspros_sickness_2023,sec_ss,2023,46448890000,,,esspros,src_esspros_be_2023_fps,strong,Sickness/healthcare benefits 46449m 7.71pct GDP 28.01pct TSB; tick418
+bud_esspros_disability_2023,sec_ss,2023,16448060000,,,esspros,src_esspros_be_2023_fps,strong,Disability benefits 16448m 2.73pct GDP 9.92pct TSB; tick418
+bud_esspros_oldage_2023,sec_ss,2023,69583940000,,,esspros,src_esspros_be_2023_fps,strong,Old-age benefits 69584m 11.55pct GDP 41.97pct TSB largest; tick418
+bud_esspros_survivors_2023,sec_ss,2023,8914510000,,,esspros,src_esspros_be_2023_fps,strong,Survivors benefits 8915m 1.48pct GDP; tick418
+bud_esspros_family_2023,sec_ss,2023,12232620000,,,esspros,src_esspros_be_2023_fps,strong,Family benefits 12233m 2.03pct GDP; tick418
+bud_esspros_unemp_2023,sec_ss,2023,5521040000,,,esspros,src_esspros_be_2023_fps,strong,Unemployment benefits 5521m 0.92pct GDP declining share; dual COFOG unemp 6.6bn 2024; tick418
+bud_esspros_housing_2023,sec_ss,2023,1262270000,,,esspros,src_esspros_be_2023_fps,strong,Housing benefits 1262m 0.21pct GDP all in kind; tick418
+bud_esspros_excl_2023,sec_ss,2023,5395120000,,,esspros,src_esspros_be_2023_fps,strong,Social exclusion benefits 5395m 0.90pct GDP; tick418
+bud_esspros_cash_2023,sec_ss,2023,109167090000,,,esspros,src_esspros_be_2023_fps,strong,Cash social benefits 109167m 65.84pct TSB; dual DBP D.62 109.3bn 2024 class; tick418
+bud_esspros_kind_2023,sec_ss,2023,56639370000,,,esspros,src_esspros_be_2023_fps,strong,Benefits in kind 56639m 34.16pct TSB (sickness kind 40614 dominate); tick418
+bud_esspros_benefits_2024_ee,sec_ss,2024,177883870000,,,esspros_ee,src_esspros_be_2023_fps,medium,Early Estimates social benefits 177884m 2024 +7.28pct YoY; tick418
+bud_esspros_sickness_2024_ee,sec_ss,2024,50457080000,,,esspros_ee,src_esspros_be_2023_fps,medium,EE sickness 50457m +8.63pct; tick418
+bud_esspros_disability_2024_ee,sec_ss,2024,17863640000,,,esspros_ee,src_esspros_be_2023_fps,medium,EE disability 17864m +8.61pct historic high; tick418
+bud_esspros_oldage_2024_ee,sec_ss,2024,74545990000,,,esspros_ee,src_esspros_be_2023_fps,medium,EE old-age 74546m +7.13pct; dual pens path; tick418
+bud_esspros_unemp_2024_ee,sec_ss,2024,5734360000,,,esspros_ee,src_esspros_be_2023_fps,medium,EE unemployment 5734m +3.86pct still low share 3.22pct TSB; tick418
+bud_esspros_family_2024_ee,sec_ss,2024,13162100000,,,esspros_ee,src_esspros_be_2023_fps,medium,EE family 13162m +7.60pct; tick418
+bud_esspros_benefits_2022,sec_ss,2022,153166760000,,,esspros,src_esspros_be_2023_fps,strong,Social benefits 153167m 2022 path; tick418
+bud_esspros_exp_total_2022,sec_ss,2022,160905040000,,,esspros,src_esspros_be_2023_fps,strong,Total social exp 160905m 28.67pct GDP 2022; tick418

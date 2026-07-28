@@ -4825,3 +4825,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +25; cmt +4; lb +8; raw ec_opinion_dbp_be_2026.pdf; rq_408=done; spawn **rq_409**; ticks=417
 - FOI: none new (public complete; residual measure yield audits dual CoA)
 - Next: prio5 **rq_409**; deferred **rq_116** SWA
+
+### 2026-08-01T23:45:00Z - tick 418
+- Unit: **rq_409** (FOI-adjacent hole-fill - **FPS Social Security ESSPROS 2023 + Early Estimates 2024**)
+- Found (strong primary FPS ESSPROS brochure; 2024 EE medium):
+  - **2023 receipts 181.157bn** (30.1% GDP): employer **67.3** · protected **34.5** · gov **75.3 (41.6% TSR)** · other **4.1**
+  - **2023 exp 174.210bn** (28.9% GDP): benefits **165.806** · admin **6.165** · other **2.238**
+  - Benefits by risk 2023: old-age **69.584** · sickness **46.449** · disability **16.448** · family **12.233** · survivors **8.915** · unemp **5.521** · excl **5.395** · housing **1.262**
+  - Cash **109.167** (65.8%) · kind **56.639** (sickness kind **40.614**)
+  - **2024 EE benefits 177.884bn (+7.28%)**: old-age **74.546** · sickness **50.457** · disability **17.864** · family **13.162** · unemp **5.734**
+  - Unemp share TSB **5.48%→3.22%** 2019-24; disability share **9.3→10.0%**; dual COFOG social narrower perimeter
+- Wrote: sources +1; budgets +28; cmt +3; lb +8; raw esspros_be_2023_fps.pdf; rq_409=done; spawn **rq_410**; ticks=418
+- FOI: none new (public complete for ESSPROS aggregates; residual L5 payment-channel unit costs already FOI ready)
+- Next: prio5 **rq_410** (progress@420 after 419+420); deferred **rq_116** SWA
