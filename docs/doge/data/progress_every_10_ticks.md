@@ -20,7 +20,47 @@
 
 ---
 
-## Snapshot at **tick 470** (2026-08-03)
+## Snapshot at **tick 480** (2026-08-03)
+
+| Layer | Coverage of €347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | Unchanged core FWI/culture; **+** NL society dual return **€385m** 2025 (doelen 240 + rent 145) · omzet **€1.666bn** institutional path |
+| **D. L5 named / measure end-lines** | **~28–41%** of TE (generous) | **Gain 470→480 is NL dual deep-fill wave:** Be Gold **€3.5m** · poverty dual **€2.61m** + homeless innov **€1.28m** · cat4 calls **€9.0m** (21 poverty / 68 SDG) · sport residual batch **€7.25m** (32 feds 2.7 · women 2.0 · BPC 1.55 · EYOF 1.0) · prestige **2024 cash €18.57m / 614 dossiers** L3 split · classical residual **€1.64m** · financial supports arch **€201.2m** (nominative 34 **€181.5m**) · residual micro **€0.505m** · FOI still bulk prestige 2025 named + nominative matrix + Art5 notes |
+| **E. FOI-ready gaps** | **~234** drafts ready | Human send only; answered **~9**; total FOI rows **~245** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes (omzet **€1.666bn**) · KBF pass-through · private PPP · Tax Shelter.
+
+### Inventory (tick 480)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~8361 |
+| commitments.csv | ~857 |
+| leaderboard.csv | ~1603 |
+| entities.csv | ~408 |
+| sources.csv | ~874 |
+| FOI ready | ~234 |
+| FOI answered | ~9 |
+| FOI total rows | ~245 |
+| research_queue | ~467 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 470
+
+- **Be Gold dual (tick471):** multi-community topsport **€3.5m** (NL 1.5 · BOIC 0.75 · VL 0.74 · ADEPS 0.5 · DG 0.01); cumulative **€49.3m**.
+- **Health/human residual (tick472):** Fairwork NL **€250k** + batch **€2.175m** (IARC · Antikanker · Opvang · Holocaust).
+- **Paola dual (tick473):** NL **€260k** + Pelicano ~**€1.09m**; culture/social residual batch **€3.32m**.
+- **Poverty dual (tick474):** core stack **€2.61m** + homeless innov **€1.28m** + poverty call **€2.5m**.
+- **UCI + Lees + cat4 (tick475):** UCI 1.1 **€600k** race-class sample · Leesbevordering **€1.5m** path 3→1.5 · cat4 calls **€9.0m**.
+- **Sport dual batch (tick476):** **€7.25m** = feds 2.7 (32 count) + women 2.0 + BPC 1.55 + EYOF 1.0 Flanders host dual.
+- **Prestige + classical (tick477):** 2024 prestige outturn **€18.57m / 614** cult/soc/sport split · classical residual **€1.635m** · proximity **€1.26m**.
+- **Financial supports arch (tick478):** 725 ben **€201.2m** = nominative 34 **€181.5m** + prestige 18.6 + child poverty 1.02 + eco 0.115.
+- **Society dual 2025 (tick479):** doelen **€240m** + rent **€145m** = **€385m** (upgrades press ~370); omzet **€1.666bn**; **1970** projects.
+
+---
+
+## Snapshot at **tick 470** (2026-08-03) — archived
 
 | Layer | Coverage of €347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|

@@ -5637,3 +5637,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +7; cmt +4; lb +6; entity TWA + NL update; rq_470=done spawn **rq_471 progress@480**; ticks=479
 - FOI: none new (society path closed strong; residual L5 stack already ready)
 - Next: prio5 **rq_471** progress milestone @480; deferred **rq_116** SWA
+
+### 2026-08-03T06:45:00Z - tick 480
+- Unit: **rq_471** (**progress milestone @480** - coverage % + waste top10 refresh; no new euro invent)
+- Found (inventory + synthesis ticks 471-479 NL dual deep-fill wave):
+  - **A L0:** **100%** TE 347.956bn
+  - **B L1:** **100%** unconsol map
+  - **C L2:** **~99%** (+ NL society dual **385m** 2025 path)
+  - **D L5:** **~28-41%** generous (+ Be Gold 3.5 · poverty dual 2.61 · cat4 9.0 · sport batch 7.25 · prestige cash 18.57 · financial supports 201 · society 385)
+  - **E FOI ready:** **~234** (answered **~9**; total FOI rows **~245**)
+- Inventory: budgets ~8361 · cmt ~857 · lb ~1603 · entities ~407 · sources ~874
+- Waste top10: **stable** fossil/company-cars/cheque/EIWT; no reorder; NL duals off pure waste top10 (society/nominative mid-table)
+- Dual/off-TE: NL society 385m · omzet 1.666bn stakes · financial supports arch 201m · prestige 18.57m
+- Housekeeping: deduped duplicate nationale_loterij entity row
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_471=done; spawn **rq_472**; ticks=480
+- FOI: no new gap this tick (progress only)
+- Next: prio5 **rq_472** hole-fill; deferred **rq_116** SWA

@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **470** (2026-08-03) · **~1551** leaderboard rows  
+**As-of:** tick **480** (2026-08-03) · **~1603** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
 **Stock filter:** Hedera CAP (~15bn) / ETS blocked (€1.8bn) stay **off** pure annual top10 when annual=0.  
-**Stable vs tick 460:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. Ticks 461–469 filled **NL definitive dual + BELSPO FWI structural + culture/sport/heritage duals** — transparency/L2 map gains, not waste-first reordering of the taxex giants.
+**Stable vs tick 470:** fossil/company-cars/cheque/EIWT mega items still dominate top10; **no reorder**. Ticks 471–479 filled **NL dual deep-fill** (society 385m · financial supports 201m · prestige outturn 18.57m · sport/poverty/cat4 duals) — transparency gains, not waste-first reordering of taxex giants.
 
 ### Just outside top 10 (often relevant)
 
@@ -37,12 +37,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 12 | `lb_specialty_defence_transfer_20bn` | **20.1 bn** | **8.0** | Specialty breach (control) |
 | 13 | `lb_vl_gsc_support` | **822.0 m** | 8.0 | Flanders GSC |
 | 14 | `lb_wage_subsidies_block` | **16.70 bn** | 7.98 | Wage subsidies block |
-| 15 | `lb_fwi_four_pools_132m` | **132.3 m** | mid | **NEW 469** BELSPO structural FWI (core science; not pure waste) |
-| 16 | `lb_lov2030_total_72_5m` | **72.5 m** | mid | **NEW 464** ECoC envelope multi-year |
-| 17 | `lb_cpvs_inami_26_4m_2026` | **26.4 m** | mid | **NEW 462** sexual violence care stack |
-| 18 | `lb_nl_plan_def_240m_2025` | **240 m** | mid | **NEW 463** lottery definitive redistribution |
-| 19 | `lb_fpd_legal_pensions_69bn_2025` | **69.05 bn** | **6.9** | Legal pensions (core entitlement) |
-| 20 | `lb_ss_total_146_8bn_2025` | **146.8 bn** | **6.5** | SS macro |
+| 15 | `lb_nl_society_385m_2025` | **385 m** | mid | **NEW 479** lottery society dual (doelen+rent) |
+| 16 | `lb_nl_financial_supports_201m_2024` | **201 m** | mid | **NEW 478** JV architecture 725 ben |
+| 17 | `lb_nl_nominative_181m_2024` | **181.5 m** | mid | **NEW 478** 34 statutory nominatives |
+| 18 | `lb_nl_plan_def_240m_2025` | **240 m** | mid | Lottery definitive redistribution |
+| 19 | `lb_nl_prestige_18_57m_2024` | **18.57 m** | mid | **NEW 477** prestige cash 614 dossiers |
+| 20 | `lb_fpd_legal_pensions_69bn_2025` | **69.05 bn** | **6.9** | Legal pensions (core entitlement) |
 
 ### Large stock / off-TE / dual-structure / reform map (not pure annual waste top 10)
 
@@ -53,23 +53,22 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_lpm_invest_33_8bn_2026_34` | **33.8 bn** eng | Military programming 2026–34 |
 | `lb_edp_gg_debt_692_5bn_2025` | **692.5 bn** | GG Maastricht debt 107.9% GDP |
 | `lb_ss_total_146_8bn_2025` / consol 2026 | **146.8 / 147.9 bn** | SS macro |
-| `lb_digit04_37_63m` | **37.63 m** | BELSPO DIGIT shared FWI+Cinematek |
 | `lb_fwi_four_pools_132m` | **132.3 m** | BELSPO four pools structural |
-| `lb_lov2030_public_stack_62_5m` | **62.5 m** | ECoC public multi-level |
-| `lb_chinees_paviljoen_ppp_6m` | **6–7 m** | PPP private-led + NL 0.5m |
-| `lb_nloterij_omzet_1_55bn` | **1.55–1.67 bn** stakes | Player money; society slice separate |
-| `lb_beliris_culture_triple_layer` | **9.6 m** | Beliris Flagey+NOB+Monnaie 2025 |
-| `lb_fed_culture_triple_70m` | **~68–70 m** dots | Culture triple dual communities |
+| `lb_lov2030_total_72_5m` | **72.5 m** | ECoC envelope multi-year |
+| `lb_nl_omzet_1_666bn_2025` | **1.666 bn** stakes | Player money; society slice **385m** separate |
+| `lb_nl_cat4_calls_9m` | **9.0 m** | Four project calls 2025 |
+| `lb_nl_sport_batch_7_25m` | **7.25 m** | Feds+women+BPC+EYOF residual |
+| `lb_poverty_dual_stack_2_61m` | **2.61 m** | Interfed+BNA+VL Netwerk+homeless |
 
 ### High-absurdity honourable mentions (not top-10 cost)
 
 | ID | Note |
 |----|------|
 | `lb_specialty_defence_transfer_20bn` | Full eng redistribution without parliament |
-| `lb_nl_prestige_def_10m_2025` | Discretionary prestige pot opacity (FOI ready) |
-| `lb_nl_proximity_1m` | Province-split pot; named L5 FOI |
+| `lb_nl_prestige_18_57m_2024` / plan 10m | Discretionary prestige; 2024 cash filled L3; 2025 named FOI |
+| `lb_nl_nominative_181m_2024` | 34 statutory names still FOI |
 | `lb_proleague_dual_closed` | Private-league public lottery FSR 3.5m |
-| `lb_myria_political_2_42m_weak` | Political abolish claim vs official AB hygiene |
+| `lb_nl_uci_1_1_sample_map` | UCI 1.1 race list residual Art5 FOI |
 | `lb_prison_food_underfund_10m` | Structural under-budgeting to provisions |
 | `lb_vvpr_anticipation_spike` | 1.21bn front-load before 18% rate |
 
