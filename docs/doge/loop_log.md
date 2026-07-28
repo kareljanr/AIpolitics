@@ -6283,3 +6283,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +9; cmt +3; lb +5; FOI **gap_bbbc_l5_cash** ready+draft; raw PDFs; rq_514=done spawn **rq_515**; ticks=523
 - FOI opened: gap_bbbc_l5_cash (ready, human send) — not sent
 - Next: prio5 **rq_515**; deferred **rq_116** SWA
+
+### 2026-07-29T04:40:00Z - tick 524
+- Unit: **rq_515** (FOI-adjacent hole-fill — **CoA 2025_05 COVID federal support follow-up dual multi-level**)
+- Found (strong primary Rekenhof AG 22 Jan 2025 + press):
+  - **2020:** **103 measures**, est **€19.40bn**; **H1 2021 +€1.15bn**
+  - **Split 2020:** benefits **€11.83bn (61%)** · tax relief **€3.05bn (16%)** · SSC **€1.06bn (5%)** (+ deferrals/guarantees/reinsurance off estimate)
+  - **Recs 19:** **2 done · 9 in progress · 6 not done · 2 not assessed**
+  - Still missing: shared crisis playbook, public inventory, common support database, overarching evaluation
+  - **Dual:** federal package vs regional stacks; multi-level coordination recs largely unfinished
+- Wrote: sources +3; budgets +6; cmt +3; lb +6; FOI **gap_covid_support_outturn_l5** ready+draft; raw PDFs; rq_515=done spawn **rq_516**; ticks=524
+- FOI opened: gap_covid_support_outturn_l5 (ready, human send) — not sent
+- Next: prio5 **rq_516**; deferred **rq_116** SWA

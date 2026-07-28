@@ -9070,3 +9070,9 @@ bud_bbbc_staff_794k,sec_federal,2021,794000,,,commitment,src_ccrek_circulaire_ec
 bud_bbbc_call1_subsidies_6_98m,sec_federal,2022,6980000,,,outturn,src_ccrek_circulaire_economie_2025,strong,BBBC first call 12 projects awarded 6.98m total; selection transparency issues; tick523
 bud_bbbc_call2_risk_underuse,sec_federal,2024,23660000,,,budgeted,src_ccrek_circulaire_economie_2025,medium,CoA risk full 23.66m project subsidies not fully used; call2 weak pipeline; tick523
 bud_dual_ce_bbbc_28m,gg_belgium,2023,28000000,,,derived,src_dual_ce_fed_regions_tick523,strong,Dual federal BBBC 28m vs regional CE PHV projects; not additive pure TE; tick523
+bud_covid_fed_support_2020_19_4bn,sec_federal,2020,19400000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,Federal COVID socio-economic support 103 measures 2020 est 19.40bn CoA; tick524
+bud_covid_fed_support_h1_2021_1_15bn,sec_federal,2021,1150000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,Federal COVID support H1 2021 est 1.15bn CoA; tick524
+bud_covid_fed_benefits_11_83bn_2020,sec_federal,2020,11830000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,COVID support 61pct benefits 11.83bn (bridging right TW OCMW); tick524
+bud_covid_fed_tax_3_05bn_2020,sec_federal,2020,3050000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,COVID support 16pct tax relief 3.05bn (rebuild reserve investment horeca VAT); tick524
+bud_covid_fed_ssc_1_06bn_2020,sec_federal,2020,1060000000,,,estimate,src_ccrek_covid_opvolging_2025,strong,COVID support 5pct SSC relief 1.06bn; plus deferrals guarantees reinsurance off estimate; tick524
+bud_dual_covid_fed_reg_19bn,gg_belgium,2020,19400000000,,,derived,src_dual_covid_support_fed_reg_tick524,strong,Dual federal COVID 19.4bn class vs regional stacks not summed; tick524
