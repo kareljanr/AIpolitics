@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T20:45:00Z,rq_451,460,no,Scheduler 60s. Next prio5 rq_452; rq_116 SWA deferred. tick460 progress@460 dual NL wave.
+main,continuous,hole_fill,2026-08-02T21:15:00Z,rq_452,461,no,Scheduler 60s. Next prio5 rq_453; rq_116 SWA deferred. tick461 NL 2025 plan 200m L5 culture 7m.

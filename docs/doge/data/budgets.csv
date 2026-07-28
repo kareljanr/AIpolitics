@@ -8158,3 +8158,31 @@ bud_myria_public_stack_additive_2024,myria,2024,2656174,,,budget,src_myria_nl_du
 bud_myria_political_claim_2023,myria,2023,2415000,,,claimed,src_kamer_56k0995_001_myria_abolish,weak,Political claim federal 2.415m 2023; recon class AB 1.645+NL ~0.77; not use as audited; tick459
 bud_myria_nl_share_stack_pct_2024,myria,2024,41,,,pct,src_myria_nl_dual_recon_tick459,medium,NL 1.077 of additive stack 2.656 ~40.6pct if additive (stores 41); tick459
 bud_myria_ab_vs_political_gap_2023,myria,2023,770000,,,recon,src_myria_nl_dual_recon_tick459,medium,Political 2.415 - AB 1.645 = 0.770m gap class near historic NL; dual recon hypothesis; tick459
+bud_nloterij_plan_total_2025,nationale_loterij,2025,200000000,,,budget,src_nloterij_kb_voorlopig_2025,strong,NL provisional verdelingsplan 2025 total 200m (KB 28 Jul 2025); tick461
+bud_nloterij_vl_2025,nationale_loterij,2025,33201732,,,budget,src_nloterij_kb_voorlopig_2025,strong,VL community share 33.201732m provisional 2025; tick461
+bud_nloterij_fwb_2025,nationale_loterij,2025,21215740,,,budget,src_nloterij_kb_voorlopig_2025,strong,FWB share 21.215740m provisional 2025; tick461
+bud_nloterij_dg_2025,nationale_loterij,2025,462529,,,budget,src_nloterij_kb_voorlopig_2025,strong,DG share 0.462529m provisional 2025; tick461
+bud_nloterij_dgd_2025,nationale_loterij,2025,84708565,,,budget,src_nloterij_kb_voorlopig_2025,strong,DGD 84.708565m provisional 2025 (flat vs 2024); tick461
+bud_nloterij_kbf_2025,nationale_loterij,2025,9800000,,,budget,src_nloterij_kb_voorlopig_2025,strong,KBF 9.8m provisional 2025; tick461
+bud_nloterij_rode_kruis_2025,nationale_loterij,2025,1650000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Belgische Rode Kruis werking 1.65m provisional 2025 (was 1.634 2024); tick461
+bud_nloterij_antigif_2025,antigifcentrum,2025,2450000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Antigif NL 2.45m provisional 2025 (was 2.2 base 2024); dual AR; tick461
+bud_nloterij_childfocus_2025,child_focus,2025,1760000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Child Focus NL 1.76m provisional 2025 (was 1.6); tick461
+bud_nloterij_unia_2025,unia_interfederal,2025,4308698,,,budget,src_nloterij_kb_voorlopig_2025,strong,Unia NL 4.308698m provisional 2025 flat; tick461
+bud_nloterij_myria_2025,myria,2025,1077174,,,budget,src_nloterij_kb_voorlopig_2025,strong,Myria NL 1.077174m provisional 2025 flat; tick461
+bud_nloterij_iefh_2025,iefh,2025,150000,,,budget,src_nloterij_kb_voorlopig_2025,strong,IEFH NL 0.15m provisional 2025 matches RA2024; tick461
+bud_nloterij_bozar_2025,bozar,2025,3500000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Bozar NL 3.5m provisional 2025 = culture protocol; tick461
+bud_nloterij_monnaie_2025,la_monnaie,2025,1750000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Monnaie NL 1.75m provisional 2025 = culture protocol; tick461
+bud_nloterij_nob_2025,nob_orchestre,2025,1750000,,,budget,src_nloterij_kb_voorlopig_2025,strong,NOB NL 1.75m provisional 2025 = culture protocol; tick461
+bud_nloterij_culture_protocol_2025,nationale_loterij,2025,7000000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Culture triple Bozar+Munt+NOB 7.0m in 2025 plan confirms protocol; tick461
+bud_nloterij_boic_2025,boic,2025,2000000,,,budget,src_nloterij_kb_voorlopig_2025,strong,BOIC werking 2.0m provisional 2025 (was 1.855); tick461
+bud_nloterij_bpc_2025,boic,2025,450000,,,budget,src_nloterij_kb_voorlopig_2025,strong,BPC werking 0.45m provisional 2025 (was 0.375); tick461
+bud_nloterij_begold_2025,boic,2025,1500000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Be Gold projects 1.5m provisional 2025; tick461
+bud_nloterij_prestige_2025,nationale_loterij,2025,6176015,,,budget,src_nloterij_kb_voorlopig_2025,strong,Nationaal Prestige pot 6.176m provisional 2025 (was 10.656 2024 plan - large cut); tick461
+bud_nloterij_sarc_cpvs_2025,iefh,2025,1616180,,,budget,src_nloterij_kb_voorlopig_2025,strong,SARC/CPVS sexual assault centres project 1.616m provisional 2025 dual IEFH CPVS; tick461
+bud_nloterij_regie_2025,nationale_loterij,2025,3087872,,,budget,src_nloterij_kb_voorlopig_2025,strong,Regie der Gebouwen national heritage 3.088m provisional 2025; tick461
+bud_nloterij_flagey_2025,nationale_loterij,2025,250000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Flagey 0.25m provisional 2025 named culture; tick461
+bud_nloterij_europalia_2025,nationale_loterij,2025,500000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Europalia 0.5m provisional 2025; tick461
+bud_nloterij_cinematek_2025,nationale_loterij,2025,700000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Cinematek/KBF Filmarchief 0.7m provisional 2025; tick461
+bud_nloterij_sports_fed_2025,nationale_loterij,2025,2700000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Belgian Sports Federations & National Teams 2.7m provisional 2025; tick461
+bud_nloterij_armoede_call_2025,nationale_loterij,2025,2500000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Project call poverty/inclusion 2.5m provisional 2025; tick461
+bud_nloterij_women_sport_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Women high-level sport initiatives 1.0m provisional 2025; tick461

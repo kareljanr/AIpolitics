@@ -5415,3 +5415,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_451=done; spawn **rq_452**; ticks=460
 - FOI: no new gap this tick (progress only)
 - Next: prio5 **rq_452** hole-fill; deferred **rq_116** SWA
+
+### 2026-08-02T21:15:00Z - tick 461
+- Unit: **rq_452** (FOI-adjacent hole-fill - **NL provisional verdelingsplan 2025 full L5 table 200m**)
+- Found (strong primary KB 28 Jul 2025 / BS / Refli):
+  - **Total provisional EUR 200m** same envelope as 2024 provisional
+  - **Communities:** VL **33.202m** · FWB **21.216m** · DG **0.463m** (27.44% key)
+  - **DGD 84.709m** · **KBF 9.8m** flat
+  - **Culture protocol embedded:** Bozar **3.5** + Munt **1.75** + NOB **1.75** = **7.0m** (confirms June 2026 protocol dual)
+  - **Sport:** BOIC **2.0m** (was 1.855) · BPC **0.45** · Be Gold **1.5** · sports fed **2.7** · women high-level **1.0m** NEW
+  - **Equality/HR:** Unia **4.309** · Myria **1.077** · IEFH **0.15** flat · SARC/CPVS **1.616m** NEW dual IEFH
+  - **Health/hum:** Antigif **2.45** (up) · Child Focus **1.76** (up) · Rode Kruis **1.65**
+  - **Prestige pot 6.176m** (cut vs 10.656m 2024 plan) · Regie **3.088** · Flagey **0.25** · Europalia **0.5** · Cinematek **0.7**
+  - Project calls poverty **2.5m** · SDG local **1.5m** · G-sport **1.0m**
+- Wrote: sources +1; budgets +28; cmt +1; lb +10; rq_452=done; spawn **rq_453**; ticks=461
+- FOI: none new (plan public; residual prestige named L5 + definitive 2025 when published)
+- Next: prio5 **rq_453** (SARC dual / Flagey / Prestige L5 / definitive 2024 delta); deferred **rq_116** SWA
