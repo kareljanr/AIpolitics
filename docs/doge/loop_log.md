@@ -5764,3 +5764,25 @@ Append-only. Each tick adds a short entry.
 - State: ticks=488 last_unit=rq_479; next on resume **rq_480** (progress@490 soon)
 - No research tick; FOI not sent
 
+
+### 2026-07-28T04:27:41Z - tick idle (paused)
+- Unit: none â€” **paused=yes** (human)
+- State: ticks=488 last_unit=rq_479; next on resume **rq_480** (progress@490 soon); rq_116 SWA deferred
+- No research; no commit
+
+### 2026-07-28T04:28:46Z - tick idle (paused)
+- Unit: none â€” **paused=yes** (human)
+- State: ticks=488 last_unit=rq_479; next on resume **rq_480** (progress@490 soon); rq_116 SWA deferred
+- No research; no commit
+
+### 2026-07-28T04:29:54Z - tick idle (paused)
+- Unit: none â€” **paused=yes** (human)
+- State: ticks=488 last_unit=rq_479; next on resume **rq_480** (progress@490 soon); rq_116 SWA deferred
+- No research; no commit
+
+### 2026-07-28T06:30:23Z - watcher cancelled
+- User: pause the loop (watcher)
+- Cancelled scheduler task **019fa293fb94** (every 1m DOGE tick)
+- loop_state still **paused=yes** · ticks=488 · next on resume **rq_480**
+- To resume: set paused=no + re-create 60s scheduler if desired
+
