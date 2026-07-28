@@ -5758,3 +5758,9 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +31; cmt +3; lb +7; raw PDF; rq_479=done spawn **rq_480**; ticks=488
 - FOI: none (full public CM L5 unalloc; residual outturn future)
 - Next: prio5 **rq_480** (progress@490 soon); deferred **rq_116** SWA
+
+### 2026-07-28T06:27:31Z - pause
+- User: **paused=yes**
+- State: ticks=488 last_unit=rq_479; next on resume **rq_480** (progress@490 soon)
+- No research tick; FOI not sent
+
