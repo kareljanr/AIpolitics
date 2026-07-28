@@ -5597,3 +5597,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +7; budgets +5; cmt +5; lb +5; entities +2; FOI **gap_nl_sports_fed_l5** + **gap_eyof2029_cash_schedule** ready+drafts; rq_467=done spawn **rq_468**; ticks=476
 - FOI opened: 2 ready (human send)
 - Next: prio5 **rq_468** (prestige sub residual / classical 560k Art5 / other dual); deferred **rq_116** SWA
+
+### 2026-08-03T05:15:00Z - tick 477
+- Unit: **rq_468** (FOI-adjacent hole-fill - **prestige 2024 outturn 18.57m + classical dual residual 1.64m**)
+- Found (strong primary NL JV2024 + NOB dual partner + plan):
+  - **Nationaal Prestige 2024 cash EUR 18.56684288m** — **614 dossiers**; L3 split: culture **7.778m (42%)** · society **5.544m (30%)** · sport **5.245m (28%)**
+  - **Path 2025 plan cat5.1 EUR 10.000016m** (prov 6.176m) — perimeter/timing caveat medium vs 2024 cash
+  - **Proximity 2024 EUR 1.257m** — **1132** beneficiaries; plan 2025 1.0m
+  - **Classical dual residual EUR 1.635m** = prog 560k + festivals 450k + CRE 220k + Flagey 250k + Chapelle 155k (excl culture triple 7m)
+  - NOB/NL partners named: Flagey Bozar CRE Festivals VL/WAL Klassiek int Groen Stroom Concertgebouw Brugge Chapelle (no invent project EUR)
+- Wrote: sources +5; budgets +7; cmt +4; lb +5; FOI gap_nl_prestige updated (2024 partial fill; 2025 L5 still ready); rq_468=done spawn **rq_469**; ticks=477
+- FOI: gap_nl_prestige still ready human send (2025 named + recon)
+- Next: prio5 **rq_469**; deferred **rq_116** SWA

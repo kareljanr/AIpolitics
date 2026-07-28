@@ -8352,3 +8352,10 @@ bud_nl_women_sport_entity_2025,nationale_loterij,2025,2000000,,,budget,src_nl_wo
 bud_bpc_nl_stack_1_55m_2025,bpc,2025,1550000,,,derived,src_bpc_road_la_dual_stack,strong,BPC dual NL 0.45m werking + 1.1m Road to LA medals = 1.55m 2025; tick476
 bud_nl_eyof2029_entity_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_definitief_2025,strong,EYOF 2029 1.0m multi-year Art7 frame to 2029; Flanders host dual; tick476
 bud_nl_sport_residual_batch_7_25m_2025,nationale_loterij,2025,7250000,,,derived,src_nl_sport_dual_batch_tick476,strong,Sum fed2.7+women2.0+BPC1.55+EYOF1.0=7.25m residual sport dual batch (excl Be Gold BOIC ProLeague prior); tick476
+bud_nl_prestige_outturn_2024,nationale_loterij,2024,18566843,,,outturn,src_nl_jv2024_prestige_614,strong,Nationaal Prestige 614 dossiers cash 18.56684288m 2024 JV; cult 7.778m soc 5.544m sport 5.245m; tick477
+bud_nl_prestige_cult_2024,nationale_loterij,2024,7778119,,,outturn,src_nl_jv2024_prestige_614,strong,Prestige culture share 7.778119m 42pct of 614 dossiers 2024; tick477
+bud_nl_prestige_society_2024,nationale_loterij,2024,5544177,,,outturn,src_nl_jv2024_prestige_614,strong,Prestige society/maatschappij 5.544177m 30pct 2024; tick477
+bud_nl_prestige_sport_2024,nationale_loterij,2024,5244547,,,outturn,src_nl_jv2024_prestige_614,strong,Prestige sport 5.244547m 28pct 2024; tick477
+bud_nl_proximity_outturn_2024,nationale_loterij,2024,1257320,,,outturn,src_nl_jv2024_prestige_614,strong,Proximity 1132 beneficiaries 1.25732m 2024 JV; plan 2025 1.0m path; tick477
+bud_nl_classical_residual_1_635m_2025,nationale_loterij,2025,1635000,,,derived,src_nl_classical_dual_residual_tick477,strong,Classical residual dual: prog560+fest450+CRE220+Flagey250+Chapelle155=1.635m excl culture triple 7m; tick477
+bud_nl_classical_prog_entity_2025,nationale_loterij,2025,560000,,,budget,src_nloterij_kb_definitief_2025,strong,Specifiek programma klassieke muziek cat3.32 560k Art5 residual; tick477
