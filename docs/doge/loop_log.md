@@ -6533,3 +6533,17 @@ Append-only. Each tick adds a short entry.
 - Progress@540: A/B 100%; C ~99%; D ~34-47% (generous); FOI ready ~284 / answered ~9; inventory budgets~9322 lb~1950 sources~1028
 - Next: prio5 **rq_532**; deferred **rq_116** SWA
 
+
+### 2026-07-29T09:15:00Z - tick 541
+- Unit: **rq_532** (FOI-adjacent hole-fill - **Kamer exposé Ch4 dual federal→C&R/SS/local Tables 1-5**)
+- Found (strong primary DOC 56 1278/001 Part III Ch4):
+  - **C&R total 2026:** **€76.810bn** (C **50.418** + R **26.392**); 2025 **75.534**; 2024 **73.206**
+  - **Communities:** VL **€30.769bn** · FR **17.612** · DG **0.345** · GGC **1.576**; VAT **22.504** · PB **10.942**; family **9.170** · eldercare **5.677**
+  - **Regions:** VL **~12.729** · WAL **~9.257** · BRU **~4.405** (credits heavy on BRU **438.5m** incl mobility **195** city **146**)
+  - **SS federal means 2026:** **€53.879bn** (credits **26.554** + fiscal **27.325**); employees **8.335** · self-emp **1.076** · public pensions **16.150**; dual Graph1 **54.3**
+  - **Local 2026:** **€4.257bn** (leefloon **2.085** · police **1.271** · refugees **0.156** · capital **0.207**)
+  - **Dual gap:** Graph1 E2 **81.5** vs Table1 C&R **76.8** (~**€4.7bn** perimeter)
+- Wrote: sources +2; budgets +44; cmt +4; lb +8; FOI **gap_fed_e2_cr_perimeter_l5** ready+draft; rq_532=done spawn **rq_533**; ticks=541
+- FOI opened: gap_fed_e2_cr_perimeter_l5 (ready, human send) - not sent
+- Next: prio5 **rq_533**; deferred **rq_116** SWA
+

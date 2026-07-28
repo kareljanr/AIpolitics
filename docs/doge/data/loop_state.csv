@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-29T09:00:00Z,rq_531,540,no,Tick540 ODA 2.35bn 0.35pctGNI dual DGD/EC/Fedasil + fed debt 601bn interest 12.34bn gross fin 59.7bn; progress@540 done; next prio5 rq_532; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-29T09:15:00Z,rq_532,541,no,Tick541 exposé Ch4 dual fed to C&R 76.8bn SS 53.9bn local 4.3bn; Graph1 E2 gap FOI; next prio5 rq_533; rq_116 SWA deferred.

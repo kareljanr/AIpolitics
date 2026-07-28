@@ -9321,3 +9321,47 @@ bud_fed_debt_unconsol_2025,sec_federal,2025,570200000000,,,estimate,src_kamer_ex
 bud_fed_debt_unconsol_2026,sec_federal,2026,601300000000,,,estimate,src_kamer_expose_oda_debt_2026,strong,Unconsol federal gross debt eoy2026 ~601.3bn (+31.1bn; 90.8pct GDP); tick540
 bud_dual_oda_dgd_vs_total_2026,sec_federal,2026,1031120000,,,derived,src_dual_oda_dgd_multi_tick540,strong,Dual DGD-eligible 1031m vs total ODA 2350m 2026 (~44pct); EC+Fedasil+other residual; tick540
 bud_dual_fed_debt_vs_gg_2026,sec_federal,2026,601300000000,,,derived,src_kamer_expose_oda_debt_2026,medium,Dual unconsol fed debt 601.3bn vs GG Maastricht ~692bn class; not same perimeter; tick540
+bud_fed_to_cr_total_2026,sec_federal,2026,76810100000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table1 federal means to C&R total 76810.1m 2026 (receipts 59433.7 + budget credits 17376.4); tick541
+bud_fed_to_cr_total_2025,sec_federal,2025,75533700000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table1 federal to C&R 75533.7m 2025; tick541
+bud_fed_to_cr_total_2024,sec_federal,2024,73205700000,,,outturn,src_kamer_expose_intergov_2026,strong,Table1 federal to C&R 73205.7m 2024; tick541
+bud_fed_to_communities_2026,sec_federal,2026,50418400000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table1 communities total 50418.4m 2026 (shared tax 33563.2 + credits 16855.2); tick541
+bud_fed_to_regions_2026,sec_federal,2026,26391700000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table1 regions total 26391.7m 2026 (fiscal 25870.5 + credits 521.2); tick541
+bud_fed_to_communities_receipts_2026,sec_federal,2026,33563200000,,,budgeted,src_kamer_expose_intergov_2026,strong,Communities shared-tax receipts 33563.2m 2026; tick541
+bud_fed_to_communities_credits_2026,sec_federal,2026,16855200000,,,budgeted,src_kamer_expose_intergov_2026,strong,Communities budget credits 16855.2m 2026 (family 9170 eldercare 5677 etc); tick541
+bud_fed_to_vl_community_2026,sec_flanders,2026,30768500000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 VL Community total means 30768.5m 2026; tick541
+bud_fed_to_fr_community_2026,fwb_gov,2026,17611600000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 FR Community total 17611.6m 2026; tick541
+bud_fed_to_dg_community_2026,sec_dg,2026,345000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 DG Community total 345.0m 2026; tick541
+bud_fed_to_ggc_2026,brussels_gov,2026,1576100000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 GGC/COCOM total 1576.1m 2026 (budget credits); tick541
+bud_fed_comm_btw_2026,sec_federal,2026,22503600000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 communities VAT shared 22503.6m 2026; tick541
+bud_fed_comm_pb_2026,sec_federal,2026,10942300000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 communities PB/IPP shared 10942.3m 2026; tick541
+bud_fed_comm_family_benefits_2026,sec_federal,2026,9170000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 family benefits credits total 9170.0m 2026; tick541
+bud_fed_comm_eldercare_2026,sec_federal,2026,5676600000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 eldercare credits total 5676.6m 2026; tick541
+bud_fed_comm_health_aid_2026,sec_federal,2026,1184500000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 health+personal aid credits 1184.5m 2026; tick541
+bud_fed_comm_hospitals_2026,sec_federal,2026,400700000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 hospital infra credits 400.7m 2026; tick541
+bud_fed_comm_justitiehuizen_2026,sec_federal,2026,147000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table2 justice houses credits 147.0m 2026; tick541
+bud_fed_to_vl_region_2026,sec_flanders,2026,12729200000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 VL Region total ~12729.2m 2026 (fiscal 12665.3 + credits 63.9); tick541
+bud_fed_to_wal_region_2026,wallonie_gov,2026,9257000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 WAL Region total ~9257.0m 2026 (fiscal 9238.2 + credits 18.8); tick541
+bud_fed_to_bru_region_2026,brussels_gov,2026,4405400000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 BRU Region total ~4405.4m 2026 (fiscal 3966.9 + credits 438.5 heavy); tick541
+bud_fed_bru_mobility_dot_2026,brussels_gov,2026,195200000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 BRU mobility dotation 195.2m 2026; tick541
+bud_fed_bru_invest_dot_2026,brussels_gov,2026,68400000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 BRU investments credit 68.4m 2026; tick541
+bud_fed_bru_city_dot_2026,brussels_gov,2026,145600000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 Ville de Bruxelles credit 145.6m 2026; tick541
+bud_fed_region_add_pb_2026,sec_federal,2026,14466600000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table3 regional additional PB tax 14466.6m 2026; tick541
+bud_fed_to_ss_total_2026,sec_ss,2026,53878900000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 federal means to SS total 53878.9m 2026 (credits 26553.9 + fiscal 27325.0); dual Graph1 54.3; tick541
+bud_fed_to_ss_total_2025,sec_ss,2025,53978000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 federal to SS 53978.0m 2025; tick541
+bud_fed_to_ss_total_2024,sec_ss,2024,50540700000,,,outturn,src_kamer_expose_intergov_2026,strong,Table4 federal to SS 50540.7m 2024; tick541
+bud_fed_ss_credits_2026,sec_ss,2026,26553900000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 SS budget credits/dotations 26553.9m 2026; tick541
+bud_fed_ss_fiscal_transfers_2026,sec_ss,2026,27325000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 SS fiscal transfers (alt financing) 27325.0m 2026; tick541
+bud_fed_ss_employees_dot_2026,sec_ss,2026,8335200000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 employee normal+balance dots 8335.2m 2026; tick541
+bud_fed_ss_selfemp_dot_2026,sec_ss,2026,1076000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 self-employed dots 1076.0m 2026; tick541
+bud_fed_ss_public_pensions_2026,sec_ss,2026,16150300000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 public-sector pension dots 16150.3m 2026; tick541
+bud_fed_ss_dibiss_2026,sec_ss,2026,271200000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 DIBISS/ORPSS 271.2m 2026; tick541
+bud_fed_ss_diverse_2026,sec_ss,2026,721100000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table4 SS diverse credits 721.1m 2026; tick541
+bud_fed_to_local_total_2026,sec_federal,2026,4257400000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 federal to local total 4257.4m 2026 (current 4050.1 + capital 207.3); tick541
+bud_fed_to_local_total_2025,sec_federal,2025,3998000000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 federal to local 3998.0m 2025; tick541
+bud_fed_ocmw_leefloon_2026,sec_federal,2026,2085100000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 OCMW/CPAS leefloon/RIS 2085.1m 2026 (+312m class vs prior narrative); tick541
+bud_fed_ocmw_refugees_2026,sec_federal,2026,155800000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 OCMW refugee reception 155.8m 2026 (down from 451.6 2024); tick541
+bud_fed_police_zones_dot_2026,sec_federal,2026,1270600000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 police zone dots 1270.6m 2026; tick541
+bud_fed_local_other_current_2026,sec_federal,2026,523400000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 other current local transfers 523.4m 2026; tick541
+bud_fed_local_capital_2026,sec_federal,2026,207300000,,,budgeted,src_kamer_expose_intergov_2026,strong,Table5 local capital transfers 207.3m 2026; tick541
+bud_dual_graph1_e2_vs_cr_table1,sec_federal,2026,4689000000,,,derived,src_dual_fed_cr_ss_local_tick541,medium,Dual Graph1 E2 81.5bn vs Table1 C&R 76.810bn gap ~4.7bn class perimeter/items; tick541
+bud_dual_graph1_ss_vs_table4,sec_ss,2026,421000000,,,derived,src_dual_fed_cr_ss_local_tick541,strong,Dual Graph1 SS federal 54.3bn vs Table4 53.879bn ~0.42bn residual; tick541
