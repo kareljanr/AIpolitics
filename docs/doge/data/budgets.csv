@@ -7828,3 +7828,43 @@ bud_bio_l5_lendable_msme_2_2025_usd,bio_invest,2025,10000000,,,commitment,src_bi
 bud_bio_l5_super_silica_2025_usd,bio_invest,2025,3700000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named loan Super Silica Bangladesh green precipitated silica: 3.7m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
 bud_bio_l5_ukraine_rebuild_fund_2025_usd,bio_invest,2025,6000000,,,commitment,src_bio_ar2025_l5_named,medium,BIO named investment Rebuilding Ukraine Fund second Ukraine investment: 6.0m USD face 2025 AR (amount_eur stores USD face; no FX convert); tick442
 bud_bio_named_eur_sum_sample_2025,bio_invest,2025,51500000,,,derived,src_bio_ar2025_l5_named,strong,Sum of named EUR-denominated sample L5 51.5m of approvals 235m (partial list not full 30); tick442
+bud_alterfin_capital_2025,alterfin,2025,69697875,,,stock,src_alterfin_ar_2025,strong,Alterfin co-op capital 69.70m from 5828 members EOY2025 (-1.1m YoY first decline; tax break abolished); tick443
+bud_alterfin_capital_indiv_2025,alterfin,2025,59800000,,,stock,src_alterfin_ar_2025,strong,Individual members capital ~59.8m (86pct; avg 10.6k); tick443
+bud_alterfin_capital_inst_2025,alterfin,2025,9900000,,,stock,src_alterfin_ar_2025,strong,Institutional members capital 9.9m (14pct; avg 54k); tick443
+bud_alterfin_port_mgmt_adv_eur_2025,alterfin,2025,122100000,,,stock,src_alterfin_ar_2025,strong,Total investment portfolio under mgmt+advisory 122.1m EUR (-8.2pct FX); dual USD 143.6m +3.7pct record; tick443
+bud_alterfin_port_mgmt_adv_usd_2025,alterfin,2025,143600000,,,stock,src_alterfin_ar_2025,medium,Portfolio mgmt+advisory USD face 143.6m (amount stores USD; no FX invent); tick443
+bud_alterfin_port_mgmt_eur_2025,alterfin,2025,98500000,,,stock,src_alterfin_ar_2025,strong,Portfolio under Alterfin management 98.5m EUR; tick443
+bud_alterfin_port_mgmt_usd_2025,alterfin,2025,115800000,,,stock,src_alterfin_ar_2025,medium,Portfolio under management USD 115.8m record; tick443
+bud_alterfin_disbursed_eur_2025,alterfin,2025,95000000,,,outturn,src_alterfin_ar_2025,strong,Disbursed 95m EUR 2025 key figures; tick443
+bud_alterfin_disbursed_usd_2025,alterfin,2025,108000000,,,outturn,src_alterfin_ar_2025,medium,Disbursements under management >108m USD record; tick443
+bud_alterfin_advisory_disb_eur_2025,alterfin,2025,23200000,,,outturn,src_alterfin_ar_2025,strong,Advisory portfolio disbursements 23.2m EUR 2025; tick443
+bud_alterfin_assets_2025,alterfin,2025,164304750,,,stock,src_alterfin_ar_2025,strong,Total assets 164.3m EOY2025 (-3pct); tick443
+bud_alterfin_net_loan_2025,alterfin,2025,91988344,,,stock,src_alterfin_ar_2025,strong,Net loan portfolio 92.0m EUR (-7pct FX); tick443
+bud_alterfin_eur_investments_2025,alterfin,2025,65345069,,,stock,src_alterfin_ar_2025,strong,Euro treasury investments 65.3m (collateral for USD funding); tick443
+bud_alterfin_equity_2025,alterfin,2025,73104599,,,stock,src_alterfin_ar_2025,strong,Equity 73.1m EOY2025; tick443
+bud_alterfin_debt_2025,alterfin,2025,90273842,,,stock,src_alterfin_ar_2025,strong,Debt 90.3m (ratio debt/equity 1.2); tick443
+bud_alterfin_income_2025,alterfin,2025,9782153,,,outturn,src_alterfin_ar_2025,strong,Financial+operational income 9.78m 2025; tick443
+bud_alterfin_portfolio_income_2025,alterfin,2025,7392491,,,outturn,src_alterfin_ar_2025,strong,Income from own portfolio 7.39m (-13pct); tick443
+bud_alterfin_fin_costs_2025,alterfin,2025,3653870,,,outturn,src_alterfin_ar_2025,strong,Financial costs 3.65m (-26pct); tick443
+bud_alterfin_op_costs_2025,alterfin,2025,3518188,,,outturn,src_alterfin_ar_2025,strong,Operational costs 3.52m (+8pct; FSMA licence prep); tick443
+bud_alterfin_staff_2025,alterfin,2025,2651835,,,outturn,src_alterfin_ar_2025,strong,Staff costs 2.65m 2025; tick443
+bud_alterfin_gross_margin_2025,alterfin,2025,2610095,,,outturn,src_alterfin_ar_2025,strong,Gross operating margin 2.61m (+16pct); tick443
+bud_alterfin_cost_of_risk_2025,alterfin,2025,1609124,,,outturn,src_alterfin_ar_2025,strong,Cost of risk 1.61m (+30pct lower recoveries); tick443
+bud_alterfin_net_result_2025,alterfin,2025,733222,,,outturn,src_alterfin_ar_2025,strong,Net result 0.733m (-13pct); proposed dividend 1pct; tick443
+bud_alterfin_aum_fsma_2025,alterfin,2025,226136743,,,stock,src_alterfin_ar_2025,strong,FSMA AUM definition 226.1m (>100m threshold → full AIFM licence path H2-2026); tick443
+bud_alterfin_fefisol_invested_2025,alterfin,2025,23100000,,,stock,src_alterfin_ar_2025,strong,Fefisol II invested 23.1m / 40 partners (capacity ~27.9m; dual BIO co-founder class); tick443
+bud_alterfin_africa_port_2025,alterfin,2025,38000000,,,stock,src_alterfin_ar_2025,medium,Africa portfolio ~38m EUR regional split; tick443
+bud_alterfin_latam_port_2025,alterfin,2025,46000000,,,stock,src_alterfin_ar_2025,medium,Latin America portfolio ~46m EUR; tick443
+bud_alterfin_asia_port_2025,alterfin,2025,28000000,,,stock,src_alterfin_ar_2025,medium,Asia portfolio ~28m EUR; tick443
+bud_bio_alterfin_loan_usd,bio_invest,2025,5000000,,,commitment,src_alterfin_ar_2025,medium,BIO loan to Alterfin USD 5m face (BIO investment page; dual cooperative); tick443
+bud_alterfin_members_2025,alterfin,2025,5828,,,estimate,src_alterfin_ar_2025,strong,Alterfin co-op members headcount 5828 2025 (not EUR); tick443
+bud_alterfin_partners_2025,alterfin,2025,142,,,estimate,src_alterfin_ar_2025,strong,Alterfin active partners 142 2025 (not EUR); tick443
+bud_alterfin_mfis_2025,alterfin,2025,76,,,estimate,src_alterfin_ar_2025,strong,Alterfin MFI partners 76 2025 (not EUR); tick443
+bud_alterfin_agri_2025,alterfin,2025,57,,,estimate,src_alterfin_ar_2025,strong,Alterfin agri SME/coop partners 57 2025 (not EUR); tick443
+bud_alterfin_benef_families_2025,alterfin,2025,4317792,,,estimate,src_alterfin_ar_2025,strong,Alterfin end-beneficiary families class 4317792 2025 (not EUR); tick443
+bud_alterfin_capital_2024,alterfin,2024,70810938,,,stock,src_alterfin_ar_2024,strong,Alterfin capital 70.81m / 5901 members EOY2024; tick443
+bud_alterfin_port_mgmt_adv_eur_2024,alterfin,2024,133000000,,,stock,src_alterfin_ar_2024,strong,Portfolio mgmt+advisory 133m EUR 2024 record then; tick443
+bud_alterfin_disbursed_2024,alterfin,2024,96000000,,,outturn,src_alterfin_ar_2024,strong,Disbursed 96m 2024; tick443
+bud_alterfin_net_result_2024,alterfin,2024,839033,,,outturn,src_alterfin_ar_2024,strong,Net result 0.839m 2024; tick443
+bud_alterfin_assets_2024,alterfin,2024,168581348,,,stock,src_alterfin_ar_2024,strong,Total assets 168.6m 2024; tick443
+bud_alterfin_net_loan_2024,alterfin,2024,99253363,,,stock,src_alterfin_ar_2024,strong,Net loan portfolio 99.3m 2024; tick443

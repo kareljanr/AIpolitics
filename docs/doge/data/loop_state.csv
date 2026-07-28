@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T11:45:00Z,rq_433,442,no,Scheduler 60s. Next prio5 rq_434; rq_116 SWA deferred. tick442 BIO named L5 235m approvals + Kampani.
+main,continuous,hole_fill,2026-08-02T12:15:00Z,rq_434,443,no,Scheduler 60s. Next prio5 rq_435; rq_116 SWA deferred. tick443 Alterfin 70m capital + 122m portfolio dual BIO.

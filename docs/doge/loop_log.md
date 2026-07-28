@@ -5168,3 +5168,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; entity kampani; budgets +37; cmt +1; lb +9; foi gap_bio note; rq_433=done; spawn **rq_434**; ticks=442
 - FOI: gap_bio_l5_portfolio residual narrowed (named sample public; full outstanding+impairments still ready)
 - Next: prio5 **rq_434**; deferred **rq_116** SWA
+
+### 2026-08-02T12:15:00Z - tick 443
+- Unit: **rq_434** (FOI-adjacent hole-fill - **Alterfin AR 2025 Belgian cooperative impact finance dual BIO/Kampani**)
+- Found (strong primary Alterfin Annual Report 2025 + 2024 dual):
+  - **Capital €69.70m** / **5,828** members (indiv 5,644 / inst 184); **first decline −€1.1m** after **abolition of 5% tax break** on development-fund shares
+  - **Portfolio mgmt+advisory:** **€122.1m** (−8.2% FX) vs **USD 143.6m** (+3.7% record); under mgmt **€98.5m** / **USD 115.8m**
+  - Disbursed key **€95m** · under-mgmt **>USD 108m** record · advisory **€23.2m** / **USD 26.7m**
+  - Partners **142** in **32** countries (MFI **76** · agri **57** · funds **9**); families class **~4.32m**
+  - BS assets **€164.3m** · net loans **€92.0m** · equity **€73.1m** · debt/equity **1.20**
+  - P&L net **€733k** (−13%); gross margin **+16%**; cost of risk **€1.61m** (+30%); proposed dividend **1%**
+  - FSMA AUM **€226.1m** → full AIFM/OPCA licence path H2-2026; Fefisol II **€23.1m**/40 partners; BIO loan **USD 5m** dual
+- Wrote: sources +2; entity alterfin; budgets +40; cmt +1; lb +10; rq_434=done; spawn **rq_435**; ticks=443
+- FOI: none new (private co-op; partner L5 residual optional not material public euro opacity)
+- Next: prio5 **rq_435**; deferred **rq_116** SWA
