@@ -4,32 +4,32 @@ Append-only. Newest ticks at bottom.
 
 ---
 
-## 2026-07-27 — scaffold
+## 2026-07-27 â€” scaffold
 
 - Created design `docs/09-proposal-radar.md`, schema, LOOP, skill, empty CSVs.
 - Mode: idle. No proposals scored yet.
 
 ---
 
-## 2026-07-27T12:30Z — tick 1 — calibration_batch_10 + RSS
+## 2026-07-27T12:30Z â€” tick 1 â€” calibration_batch_10 + RSS
 
 ### Unit
-`calibration_batch_10` — full functionality online: RSS harvester, export, 10 live scores.
+`calibration_batch_10` â€” full functionality online: RSS harvester, export, 10 live scores.
 
 ### Ingest
 - Ran `rss_harvest.py` against 12 allowlisted feeds.
 - Working feeds: VRT NWS (50), Knack (50), HLN (30). Several paywall/empty feeds noted.
-- Enqueued 13 keyword hits; many false positives → auto-rejected non-BE noise; filter tightened (BE signals + foreign hard block).
+- Enqueued 13 keyword hits; many false positives â†’ auto-rejected non-BE noise; filter tightened (BE signals + foreign hard block).
 - Primary discovery for scoring also used: Belga Share VL ministerraad 17 Jul 2026, ING CoA note, FPB company-car paper, Arizona briefings, FWB budget press.
 
 ### Scored (10)
 
 | ID | Clown | Genius | Index | Rec |
 |----|-------|--------|-------|-----|
-| prop_2022_smaakhaven_38m | 8.0 | 1.5 | −6.5 | reject |
-| prop_2026_wk_veldrijden_ostend | 7.0 | 2.0 | −5.0 | reject |
-| prop_2025_hybrid_car_rehab | 6.5 | 3.0 | −3.5 | reject |
-| prop_2025_cgt_capital_gains | 4.5 | 4.0 | −0.5 | amend |
+| prop_2022_smaakhaven_38m | 8.0 | 1.5 | âˆ’6.5 | reject |
+| prop_2026_wk_veldrijden_ostend | 7.0 | 2.0 | âˆ’5.0 | reject |
+| prop_2025_hybrid_car_rehab | 6.5 | 3.0 | âˆ’3.5 | reject |
+| prop_2025_cgt_capital_gains | 4.5 | 4.0 | âˆ’0.5 | amend |
 | prop_2026_vl_syntra_49m | 4.0 | 4.5 | +0.5 | watch |
 | prop_2026_dolphin_ban_2036 | 3.5 | 3.5 | 0.0 | watch |
 | prop_2026_fwb_budget_cuts_255m | 3.5 | 5.0 | +1.5 | amend |
@@ -47,45 +47,83 @@ Append-only. Newest ticks at bottom.
 ### Next
 - Human review of scores/rubric calibration
 - Fix empty RSS endpoints (De Tijd, news.belgium.be, RTBF)
-- Optional durable schedule 6–24h for harvest-only ticks
+- Optional durable schedule 6â€“24h for harvest-only ticks
 
 ---
 
-## 2026-07-27 � rescore unit prop_2022_smaakhaven_38m v2
+## 2026-07-27 — rescore unit prop_2022_smaakhaven_38m v2
 
 - Human feedback: clown 8 fair; analysis too short; fact-check ambition page.
 - Scraped https://www.smaakhaven.be/nl/ambitie (+ tijdlijn, gebouw).
-- Full steelman, claim-by-claim audit, ROI/break-even, options A�F, capture.
+- Full steelman, claim-by-claim audit, ROI/break-even, options A–F, capture.
 - **Scores unchanged** (8.0 / 1.5 / -6.5); analysis_version=2.
-- Sources added: src_smaakhaven_ambitie, tijdlijn, gebouw.
+- Sources added: src_smaakhaven_ambitie, tijdlijn, gebouw.
 
 ---
 
-## 2026-07-27 � all-10 deep v2 + taxpayer pain metrics
+## 2026-07-27 — all-10 deep v2 + taxpayer pain metrics
 
 - Deep memos (Smaakhaven bar) for all 10 proposals; scores held.
 - New doctrine TAXPAYER_UNIT.md: Belasting-FTE + Nettoloon-jaren (two different denominators).
-- Unit: avg single FT employee labour tax ~�19.4k/yr; net ~�29.5k (Statbel gross + OECD TW 2025).
+- Unit: avg single FT employee labour tax ~€19.4k/yr; net ~€29.5k (Statbel gross + OECD TW 2025).
 - Schema/template/skill/LOOP/export updated; future analyses must hit depth + pain.
-- Pain filled where � known; blank for unquantified (UI, CGT, centenindex, hybrid delta).
+- Pain filled where € known; blank for unquantified (UI, CGT, centenindex, hybrid delta).
 
 ---
 
-## 2026-07-27 � daily scheduler armed
+## 2026-07-27 — daily scheduler armed
 
 - Created durable Grok task **019fa3e112ab** interval **1d** (Proposal Radar).
 - Fire: run_pipeline RSS when possible + one LOOP unit + commit/push.
 - fire_immediately=false (first run after ~24h).
 - Radar system already on main (Werkminuten + 10 v2 memos). This commit documents scheduler only.
-- Pause: loop_state paused=yes and/or scheduler_delete 019fa3e112ab.
+- Pause: loop_state paused=yes and/or scheduler_delete 019fa3e112ab.
 
 ---
 
-## 2026-07-27T18:09Z � tick analyse prop_2026_volvo_gent_119m
+## 2026-07-27T18:09Z — tick analyse prop_2026_volvo_gent_119m
 
-- Unit: full thorough+fair score of Volvo Car Gent up to �119m support (Flanders offer Jun + federal/Flanders MoU 15 Jul 2026).
+- Unit: full thorough+fair score of Volvo Car Gent up to €119m support (Flanders offer Jun + federal/Flanders MoU 15 Jul 2026).
 - Sources: VRT, Volvo Car Gent MoU page, newmobility context (megacasting/Slovakia/history).
 - Scores: clown 5.5 / genius 3.5 / index -2.0 / amend.
 - Pain ceiling: 6134 Belasting-FTE / 4034 nettoloon-jaren / 50 werkminuten per employee.
 - Not pure clown (real plant, conditionality); not genius (no structural fix; exit-threat aid; BE auto history).
-- Commit radar paths only.
+- Commit radar paths only.
+
+
+---
+
+## 2026-07-28T14:30Z — tick 3 — analyse prop_2026_energy_commute_taxcredit_80m
+
+### Unit
+nalyse — federal energy support package (Apr 2026): temporary commute km tax credit + OCMW funds, EUR 80m / 3 months; ex-post take-up.
+
+### Ingest
+- Ran 
+un_pipeline.py: 110 RSS entries, +6 enqueued (queue 19 total).
+- Promoted ing_520ff7c6de -> scored.
+- Rejected clear noise (lifestyle, gocarts, local fair noise, swim op-ed, Groen talking-point).
+
+### Scores
+| Field | Value |
+|-------|------:|
+| clownpoints | 6.5 |
+| genius_score | 3.0 |
+| policy_index | -3.5 |
+| recommendation | reject |
+| pain (envelope 80m) | ~4124 Belasting-FTE / ~2712 nettoloon-jaren / ~34 werkminuten |
+
+### Why
+Real energy-price problem; instrument is temporary complex employer tax credit with pre-finance -> ~4% firm take-up (Attentia/SD Worx). Near-crisis for a dead letter. Pattern: do not recycle.
+
+### Writes
+- analyses/prop_2026_energy_commute_taxcredit_80m.md
+- proposals.csv (+1), sources, score_history, ingest_queue, loop_state
+- public leaderboards refreshed (12 publishable)
+
+### Next queue head (open, priority)
+1. ing_2e3d500c89 — Jambon fraudeplan delayed (EUR 300m revenue claim) prio 7
+2. ing_9298c20c68 — Van Bossuyt voluntary return premium prio 7
+3. ing_5541d28301 / ing_e9d812276c — admin lasagne / doofpotdecreet prio 6
+
+Scheduler 019fa3e112ab still daily.

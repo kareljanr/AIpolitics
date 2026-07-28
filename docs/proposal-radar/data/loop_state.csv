@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-07-27T18:09:36Z,prop_2026_volvo_gent_119m,2,11,no,tick scored Volvo Gent 119m; daily scheduler 019fa3e112ab
+main,analyse,2026-07-28T14:30:00Z,prop_2026_energy_commute_taxcredit_80m,3,12,no,tick 3 scored energy commute tax credit 80m; daily scheduler 019fa3e112ab
