@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 530** (2026-07-29)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Metro3 dual STIB/Beliris programme map · SIOD/social-inspection HR stack · COVID federal support package · plates/DIV · rail procurement residual entities |
+| **D. L5 named / measure end-lines** | **~33-46%** of TE (generous) | **Gain 520→530 is CoA residual dual/L5 wave:** SIOD HR **18.3m**/270 VTE → net **+8.2** · BBBC RRF path · COVID federal **19.4bn** 2020 (recs 2/19 done) · kenteken concession **~240m** sole bidder / **0/17** recs · Ypto/TUC/Infrabel proc residual · company-car **CO₂** receipts **278.5m** / cum gap **958m** / vs ordinary SSC **>1bn** · mobiliteitsbudget **72m**/10k workers (**~50×** smaller than cars) · **Metro3 €4.76bn** (+**477%** vs 0.82bn) spent **421m** Beliris divert **403m** BCR gap **~4.3bn** · FOI still bulk ASBL/firm + cash-by-year L5 |
+| **E. FOI-ready gaps** | **~274** drafts ready | Human send only; answered **~9**; total FOI rows **~286** (+ SIOD · BBBC · COVID · plates · rail proc · CO₂/DIV · MB pillar2 · Metro3 cash L5, …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow · reform *savings paths* are budget deltas not TE flow · Belfius sale is asset finance not pure TE · **Metro3 multi-year envelope** annualised for ranking only (stock path; not pure annual TE).
+
+### Inventory (tick 530)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~9144 |
+| commitments.csv | ~1002 |
+| leaderboard.csv | ~1879 |
+| entities.csv | ~414 |
+| sources.csv | ~1003 |
+| FOI ready | ~274 |
+| FOI answered | ~9 |
+| FOI total rows | ~286 |
+| research_queue | ~516 (open: rq_116 deferred + hole-fill after progress) |
+
+### What improved since tick 520
+
+- **Social inspection / multi-OISZ (tick522):** CoA HR SIOD **18.283m** credits for **270** VTE → net staff **+8.2** only (inspect +50.6 / support −42.4); wage bill **148.1m** 2024.
+- **RRF / crisis residual (tick523-524):** BBBC CE PHV call1 **6.98m** / package residual · COVID federal **103** measures **€19.40bn** 2020 (+**1.15bn** H1 2021); recs **2 done / 9 progress / 6 not / 2 n/a**.
+- **Procurement / concessions (tick525-526):** kenteken **€240m** sole-bidder bpost; **0/17** recs follow-up; DIV document refusal · residual federal proc sample (Ypto **>154m** class / TUC half without tender / Infrabel **550m**).
+- **Company cars dual taxex+SSC (tick527-528):** CO₂ contrib **278.52m** 2022 for **560,941** vehicles; avg **€497** (−38% vs 2008); cum target gap **958m**; MB **72.0m** / **10,250** workers still **~50×** smaller; pillar2 **50.8m** opaque.
+- **Metro3 dual federal-regional (tick529):** CoA **2025_33** full programme **€4,759.7m** Dec2024; service **2035**; spent **421.3m**; Beliris **464.4m** of which **402.7m diverted**; BCR financing gap **~€4.29bn**; STIB scenarios A **4.375** / A-PPP **7.743** / B **1.653** / E **1.002** bn; EIB **475m**.
+
+---
+
 ## Snapshot at **tick 520** (2026-07-29)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

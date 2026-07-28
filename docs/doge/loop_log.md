@@ -6371,3 +6371,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +17; cmt +5; lb +9; FOI **gap_metro3_cash_by_year_l5** ready+draft; raw PDF+press+synth; rq_520=done spawn **rq_521**; ticks=529
 - FOI opened: gap_metro3_cash_by_year_l5 (ready, human send) — not sent
 - Next: prio5 **rq_521** (**progress@530 THIS next tick**); deferred **rq_116** SWA
+
+### 2026-07-29T06:30:00Z - tick 530
+- Unit: **rq_521** (**progress milestone** — coverage % layers A-E + waste top10 refresh)
+- Progress snapshot (tick 530):
+  - A/B still **100%**; C **~99%**; D **~33-46%** generous TE share (structural payroll/debt not L5)
+  - Inventory: budgets **~9144** · cmt **~1002** · lb **~1879** · entities **~414** · sources **~1003** · FOI ready **~274** / answered **~9** / total **~286** · rq **~516**
+  - Gain 520→530: SIOD HR leakage · BBBC/COVID residual · plates 0/17 · rail Ypto/TUC · CO2/MB dual cars · **Metro3 4.76bn +477%** dual STIB+Beliris
+- Waste top10: fossil/cars/cheque still **#1-5/#8/#10**; **NEW #6-7** CO2 vs ordinary SSC gap + dual cars SSC/taxex (tick527); consultancy compliance still high; Metro3 multi-year stock annualised off pure #1 (lb fix annual residual class)
+- Also: corrected Metro3 lb annual-vs-stock fields so multi-year envelopes do not fake annual TE rank
+- Wrote: progress_every_10_ticks.md · doge_waste_top10_current.md · lb Metro3 annual fix · rq_521=done spawn **rq_522**; ticks=530
+- FOI: none new (progress tick)
+- Next: prio5 **rq_522** hole-fill; deferred **rq_116** SWA
