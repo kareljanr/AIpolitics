@@ -8122,3 +8122,15 @@ bud_bozar_rrf_digital_2021_26,bozar,2021,7500000,,,commitment,src_kamer_56k0856_
 bud_nop_brutomarge_2025,nob_orchestre,2025,328142,,,outturn,src_nop_companyweb_2025,strong,National Orchestra Productions satellite brutomarge 328k 2025 NOT full NOB TCO; tick456
 bud_nop_fte_2025,nob_orchestre,2025,180,,,count,src_nop_companyweb_2025,strong,NOP satellite 1.8 FTE (stores 180=1.8*100); institutional NOB FTE residual Infocenter chart; tick456
 bud_nob_public_stack_protocol_2026_class,nob_orchestre,2026,11750000,,,budget,src_nl_culture_protocol_7m_2026,medium,Illustrative: cut-path fed ~10m + NL protocol 1.75m = ~11.75m public stack class 2026; dual residual exact codes FOI; tick456
+bud_boic_nl_plan_stack_2024,boic,2024,3730000,,,budget,src_nloterij_kb_voorlopig_2024,strong,NL plan BOIC 1.855 + Olympic Talents 1.5 + BPC 0.375 = structural stack 3.73m 2024; tick457
+bud_boic_paris_premies_total_2024,boic,2024,1058000,,,outturn,src_boic_paris_premies_1058k,strong,Paris 2024 NL premiums cash 1.058m (Oly 0.6455 + Para 0.4125); tick457
+bud_boic_paris_premies_oly_2024,boic,2024,645500,,,outturn,src_boic_paris_premies_1058k,strong,Olympic athletes premiums 645500 EUR Paris 2024; tick457
+bud_boic_paris_premies_para_2024,boic,2024,412500,,,outturn,src_boic_paris_premies_1058k,strong,Paralympic athletes premiums 412500 EUR Paris 2024; tick457
+bud_boic_nl_public_class_2024,boic,2024,4788000,,,outturn,src_boic_paris_premies_1058k,medium,Illustrative: plan stack 3.73m + Paris premies 1.058m = 4.788m if additive (premies may sit outside annual plan lines); tick457
+bud_vl_topsport_annual_class,vlaanderen_gov,2025,31500000,,,budget,src_boic_vl_partnership_2028,strong,VL annual topsport investment 31.5m (Sport Vlaanderen); dual BOIC partner; tick457
+bud_vl_boic_subsidy_0_5m,boic,2025,500000,,,budget,src_boic_vl_partnership_2028,strong,VL subsidy to BOIC 0.5m/yr for Flemish athletes multi-discipline stages/competitions to 2028; tick457
+bud_boic_medal_gold_rate,boic,2024,50000,,,rate,src_boic_paris_premies_announce,strong,Gold medal premium 50k Oly=Para Paris/Milano grid; tick457
+bud_boic_medal_silver_rate,boic,2024,30000,,,rate,src_boic_paris_premies_announce,strong,Silver medal premium 30k; tick457
+bud_boic_medal_bronze_rate,boic,2024,20000,,,rate,src_boic_paris_premies_announce,strong,Bronze medal premium 20k; tick457
+bud_team_belgium_athletes_paris,boic,2024,165,,,count,src_boic_paris_premies_1058k,medium,Team Belgium Paris final class ~165 athletes (press 164-172 range during selection); tick457
+bud_team_belgium_athletes_milano,boic,2026,30,,,count,src_boic_milano_premies_2026,strong,Team Belgium Milano Cortina 30 athletes (16F/14M); tick457

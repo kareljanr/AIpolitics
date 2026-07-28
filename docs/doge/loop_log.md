@@ -5360,3 +5360,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entity nob update; budgets +17; cmt +2; lb +10; foi gap_fed_culture note; rq_447=done; spawn **rq_448**; ticks=456
 - FOI: gap_fed_culture still ready — residual **NOB AR TCO** + exact post-cut codes + signed contracts; culture triple financing layer largely closed
 - Next: prio5 **rq_448** (BOIC / Myria / Red Cross NL dual or equality residual); deferred **rq_116** SWA
+
+### 2026-08-02T19:15:00Z - tick 457
+- Unit: **rq_448** (FOI-adjacent hole-fill - **BOIC dual NL sport stack + Paris premies 1.058m + VL 0.5m**)
+- Found (strong primary BOIC/Team Belgium + NL plan KB + Sport Vlaanderen press):
+  - **NL plan structural 2024 EUR 3.730m** = BOIC werking **1.855m** + Olympic Talents **1.500m** + BPC **0.375m**
+  - **Paris 2024 premiums cash EUR 1.058m** (Oly **0.6455** + Para **0.4125**); gold/silver/bronze **50/30/20k** equal Oly=Para first time
+  - Public class if additive **~4.79m** (premies may sit outside annual plan lines — medium)
+  - **VL topsport 31.5m/yr** of which **BOIC subsidy 0.5m** stages/competitions (partnership to LA 2028)
+  - Dual community topsport: VL + Adeps + DG + BOIC Olympic partner
+  - **BOPC merger** BOIC+BPC from **2027-01-01**; NL partnership to 2028; Milano premies same grid (contingent cash)
+  - Team Belgium Paris ~165 / Milano **30** athletes
+  - No public full BOIC institutional AR P&L found
+- Wrote: sources +4; entity boic update; budgets +12; cmt +1; lb +10; FOI **gap_boic_institutional_tco** ready; rq_448=done; spawn **rq_449**; ticks=457
+- FOI: gap_boic_institutional_tco draft ready human send (AR TCO + L5 recon + BOPC business case)
+- Next: prio5 **rq_449** (Myria NL dual / Red Cross / residual); deferred **rq_116** SWA
