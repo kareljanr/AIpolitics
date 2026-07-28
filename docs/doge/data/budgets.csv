@@ -8233,3 +8233,15 @@ bud_lov2030_private_ambition_10m,lov2030,2030,10000000,,,budgeted,src_lov2030_bi
 bud_lov2030_artistic_47_12m,lov2030,2030,47120000,,,budgeted,src_lov2030_bidbook_final,strong,Total artistic budget 47.12m within 72.5m operating; tick464
 bud_lov2030_nl_plan_vs_bid_recon,lov2030,2025,10500000,,,recon,src_lov2030_dual_recon_tick464,strong,NL definitive 2025 line 10.5m vs bidbook annual 3m from 2026; front-load or multi-year booking residual FOI; tick464
 bud_lov2030_public_stack_ex_private,lov2030,2030,62500000,,,derived,src_lov2030_bidbook_final,strong,Public stack 72.5-10 private = 62.5m (EU1.5+fed15+VL30+prov3+city10+reg3); tick464
+
+bud_proleague_fsr_own_clubs_200k,pro_league,2025,200000,,,outturn,src_proleague_fsr_clubs_200k,strong,Pro League own middelen FSR grants to 28 clubs record 200k (3-13k each) Jul 2025; not public subsidy; dual private layer; tick465
+bud_nloterij_red_courts_def_2025,nationale_loterij,2025,200000,,,budget,src_nloterij_kb_definitief_2025,strong,Belgian football Lotto Red Courts projects 0.2m definitive cat3.29; dual Pro League football stack; tick465
+bud_nl_sport_named_stack_2025,nationale_loterij,2025,14450000,,,derived,src_proleague_dual_recon_tick465,strong,Named sport stack definitive 2025: ProLeague3.5+RedCourts0.2+Women2.0+SportsFed2.7+BOIC2.0+BPC0.45+RoadLA1.1+BeGold1.5+EYOF1.0=14.45m; tick465
+bud_beliris_flagey_2025,flagey,2025,3235000,,,budgeted,src_beliris_subsides_2025,strong,Beliris engagement Flagey studio/equipment renovation Maison de la radio 3.235m 2025; dual NL 0.25m; tick465
+bud_beliris_nob_2025,nob_orchestre,2025,3400000,,,budgeted,src_beliris_subsides_2025,strong,Beliris NOB rehearsal space enlargement 3.4m opened Oct 2025; dual NL 1.75m opex; tick465
+bud_beliris_monnaie_package,la_monnaie,2025,2962000,,,budgeted,src_beliris_subsides_2025,strong,Beliris Monnaie multi-year technical package total 2.962m of which 206.5k liquidated 2025; dual fed+NL opex; tick465
+bud_beliris_monnaie_liq_2025,la_monnaie,2025,206500,,,outturn,src_beliris_subsides_2025,strong,Beliris Monnaie cash liquidated 2025 EUR 206500 of 2.962m package; tick465
+bud_beliris_stib_gare_centrale_2025,stib,2025,3500000,,,outturn,src_beliris_subsides_2025,medium,Beliris STIB Gare Centrale renovation >3.5m paid 2025 of 20m total engagement; floor figure; tick465
+bud_beliris_stib_gare_centrale_total,stib,2025,20000000,,,budgeted,src_beliris_subsides_2025,strong,Beliris STIB Gare Centrale renovation total engagement 20m; tick465
+bud_flagey_public_stack_2025,flagey,2025,3485000,,,derived,src_beliris_flagey_dual_tick465,strong,Flagey dual public class 2025: Beliris 3.235m capex + NL 0.25m opex = 3.485m (different purposes); tick465
+bud_proleague_nl_public_3_5m,pro_league,2025,3500000,,,budget,src_nloterij_kb_definitief_2025,strong,Pro League NL Art5.11 FSR safety innovation 3.5m definitive (entity end-receiver view); tick465

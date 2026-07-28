@@ -5452,3 +5452,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+11); entity lov2030; cmt; leaderboard (+5 update); foi gap_lov2030_cash_schedule ready+draft; rq_455=done rq_456=open; ticks=464
 - FOI opened: gap_lov2030_cash_schedule (ready, human send)
 - Next: rq_456 (Pro League dual / Art5 residual public / definitive multi-year notes); rq_116 SWA deferred
+
+### 2026-08-02T23:15:00Z — tick 465
+- Unit: **rq_456** (FOI-adjacent hole-fill — **Pro League dual NL 3.5m FSR + Beliris culture dual + Art5/7 notes**)
+- Found (strong primary KB 5 Jun 2026 + Pro League + Beliris 2025):
+  - **Pro League NL Art5.11 EUR 3.5m** FSR + veiligheid + innovatie (definitive NEW; known tick463)
+  - **Dual private layer:** Pro League own FSR grants **EUR 200k** to **28 clubs** (3–13k each, Jul 2025) — not public euro
+  - **Related football NL:** Lotto Red Courts **0.2m** (cat3.29)
+  - **Named sport stack definitive 2025 EUR 14.45m** = ProLeague3.5 + RedCourts0.2 + Women2.0 + SportsFed2.7 + BOIC2.0 + BPC0.45 + RoadLA1.1 + BeGold1.5 + EYOF1.0
+  - **Beliris culture dual 2025:** Flagey **3.235m** (studio renovation engagement) + NOB **3.4m** rehearsal + Monnaie package **2.962m** (liq **0.2065m** 2025) = culture class **9.597m**; dual Flagey public class **3.485m** (Beliris capex + NL opex 0.25)
+  - **Beliris STIB Gare Centrale** total **20m** / **>3.5m** paid 2025 (floor medium)
+  - **Art5/Art7 governance:** sub-notes cats 3.17/3.31/3.32/5.3/5.5/5.6/5.10; multi-year frames 5.7?2031 5.8 EYOF?2029 5.9 LOV?2030; Art4 advances 50/80pct
+- Wrote: sources +5; budgets +11; cmt +3; lb +10; entities flagey+pro_league; FOI **gap_proleague_fsr_use** ready+draft; gap_nl_prestige note; rq_456=done spawn **rq_457**; ticks=465
+- FOI opened: gap_proleague_fsr_use (ready, human send); gap_nl_prestige residual Art5/7 still ready
+- Next: prio5 **rq_457** (Festivals VL/WAL dual / Europalia AR / Chinese Pavilion / residual sport Art5); deferred **rq_116** SWA
