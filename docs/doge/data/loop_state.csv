@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T08:45:00Z,rq_475,484,no,Scheduler 60s. Next prio5 rq_476; rq_116 SWA deferred. tick484 Warm Welvarend + WAL economies dual.
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-03T09:15:00Z,rq_476,485,no,Scheduler 60s. Next prio5 rq_477; rq_116 SWA deferred. tick485 BRU SEC measures dual triad.

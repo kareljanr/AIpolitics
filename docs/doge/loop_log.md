@@ -5703,3 +5703,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +13; cmt +5; lb +6; FOI **gap_wal_economies_l5** ready+draft; rq_475=done spawn **rq_476**; ticks=484
 - FOI opened: gap_wal_economies_l5 (ready, human send)
 - Next: prio5 **rq_476**; deferred **rq_116** SWA
+
+### 2026-08-03T09:15:00Z - tick 485
+- Unit: **rq_476** (FOI-adjacent hole-fill - **BRU SEC trajectory measures 297m→1.186bn + dual triad VL/WAL/BRU**)
+- Found (strong primary CoA Budgets RBC 2026 Table 1):
+  - **Base SEC 2025:** **-1.241bn**; constant-policy path then new measures
+  - **Total measures path mEUR:** 2026 **297** · 2027 **565** · 2028 **907** · 2029 **1.186bn**
+  - Split 2026: **dep 177** + **rec 120**; 2029 dep **845** + rec **341**
+  - **SEC after measures:** **-957** / **-719** / **-416** / **0** (balance 2029)
+  - L5 thematic dep: personnel **84→274** · fonct+IT **127→281** · facultatives **25** flat · mobilite reinvest **-190→-37** · logement 52→15 · travail 30→65 · env 34→57 · urbanisme 18→123
+  - CoA: recettes L5 **not published**; 2027-29 programme matrix thin
+  - **Dual triad 2026 class:** VL measures **1.832bn** + WAL **270m** + BRU **297m** = **2.399bn** (different perimeter; not additive TE)
+- Wrote: sources +2; budgets +15; cmt +2; lb +6; FOI **gap_bru_mesures_recettes_l5** ready+draft; rq_476=done spawn **rq_477**; ticks=485
+- FOI opened: gap_bru_mesures_recettes_l5 (ready, human send)
+- Next: prio5 **rq_477**; deferred **rq_116** SWA

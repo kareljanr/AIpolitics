@@ -8412,3 +8412,18 @@ bud_vl_expansion_total_2029,vlaanderen_gov,2029,3668000000,,,budgeted,src_vl_war
 bud_wal_economies_2025,wallonie_gov,2025,268000000,,,budgeted,src_wal_economies_2025_26,strong,Wallonie structural savings 268m 2025; tick484
 bud_wal_economies_2026,wallonie_gov,2026,270000000,,,budgeted,src_wal_economies_2025_26,strong,Wallonie structural savings 270m 2026 (prior 270.4m class); dual VL; tick484
 bud_wal_economies_local_share_2026,wallonie_gov,2026,95000000,,,derived,src_wal_economies_uvcw_local_share,medium,UVCW local share min 95m of 270m 2026 (Marshall 45 APE 24 Fonds 16 freeze 10); tick484
+bud_bru_sec_base_2025,brussels_gov,2025,-1241000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU SEC base de depart -1.241bn 2025 (provisions used); CoA Table1; tick485
+bud_bru_measures_total_2026,brussels_gov,2026,297000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU new measures dep+rec 297m 2026 path to 1.186bn 2029; tick485
+bud_bru_measures_total_2027,brussels_gov,2027,565000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU new measures 565m 2027 (dep 302+rec 263); tick485
+bud_bru_measures_total_2028,brussels_gov,2028,907000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU new measures 907m 2028 (dep 607+rec 300); tick485
+bud_bru_measures_total_2029,brussels_gov,2029,1186000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU new measures 1.186bn 2029 (dep 845+rec 341) to SEC 0; tick485
+bud_bru_measures_dep_2026,brussels_gov,2026,177000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU dep-side measures 177m 2026; tick485
+bud_bru_measures_rec_2026,brussels_gov,2026,120000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU recettes-side measures 120m 2026 (detail L5 FOI); tick485
+bud_bru_sec_after_2026,brussels_gov,2026,-957000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU SEC after measures -957m 2026 (class matches SGRBC -956.6m); tick485
+bud_bru_sec_after_2029,brussels_gov,2029,0,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU SEC balance 0 target 2029 after measures; tick485
+bud_bru_personnel_measures_2026,brussels_gov,2026,84000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU personnel effort 84m 2026 path 163/220/274; tick485
+bud_bru_personnel_measures_2029,brussels_gov,2029,274000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU personnel effort 274m 2029; tick485
+bud_bru_fonct_it_measures_2026,brussels_gov,2026,127000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU fonct+IT effort 127m 2026 path 166/241/281; tick485
+bud_bru_facultatives_measures_2026,brussels_gov,2026,25000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU facultative subsidies cut 25m/yr flat 2026-29; tick485
+bud_bru_mobilite_reinvest_2026,brussels_gov,2026,-190000000,,,budgeted,src_ccrek_bru_trajectory_2026_29,strong,BRU mobilite net negative measure -190m 2026 (reinvest) path -209/-129/-37; tick485
+bud_dual_triad_consol_class_2026,gg_belgium,2026,2399000000,,,derived,src_dual_vl_wal_bru_consolidation_tick485,strong,Dual triad class VL1.832+WAL0.270+BRU0.297=2.399bn 2026 different perimeter not additive TE; tick485
