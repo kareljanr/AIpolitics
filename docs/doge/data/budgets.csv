@@ -8375,3 +8375,11 @@ bud_nl_democracy_fund_awards_500319,kbf,2025,500319,,,outturn,src_kbf_democracy_
 bud_nl_democracy_fund_projects_count_18,kbf,2025,18,,,count,src_kbf_democracy_fund_18_projects,strong,18 democracy projects first call VL BRU WAL; named residual FOI; tick481
 bud_regie_nl_patrimonium_entity_2025,regie_gebouwen,2025,3087872,,,budget,src_regie_nl_partnership_3m,strong,Regie NL national heritage 3.087872m definitive dual partnership ~3m/yr class; tick481
 bud_nl_kbf_regie_dual_stack_2025,nationale_loterij,2025,13887872,,,derived,src_nl_kbf_regie_dual_tick481,strong,Dual stack class KBF plan 10.3m + Regie 3.087872m = 13.387872m (democracy fund inside KBF managed not additive to 10.3); tick481
+bud_vl_dienstencheques_measures_2025,vlaanderen_gov,2025,84000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Dienstencheques reform measures 84m 2025 (price only; tax benefit 0); tick482
+bud_vl_dienstencheques_measures_2026,vlaanderen_gov,2026,250000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Dienstencheques reform measures 250m 2026 (price 84 + tax benefit 166); vs BO2026 effort line 151.438m different perimeter; tick482
+bud_vl_dienstencheques_measures_2027,vlaanderen_gov,2027,255000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Dienstencheques reform measures 255m 2027; tick482
+bud_vl_dienstencheques_measures_2028,vlaanderen_gov,2028,263000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Dienstencheques reform measures 263m 2028; tick482
+bud_vl_dienstencheques_measures_2029,vlaanderen_gov,2029,267000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Dienstencheques reform measures 267m 2029 peak path; tick482
+bud_vl_dienstencheques_price_path_84m,vlaanderen_gov,2026,84000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Price increase component 84m/yr class 2025-27; worker return same 84m varia table; tick482
+bud_vl_dienstencheques_tax_benefit_cut_2026,vlaanderen_gov,2026,166000000,,,budgeted,src_vl_begroting_2025_29_dienstencheques,strong,Tax benefit abolition fiscal saving 166m 2026 path to 182m 2029; tick482
+bud_dual_titres_services_wal_bru_2026,gg_belgium,2026,872238000,,,derived,src_dual_titres_services_stack_tick482,strong,WAL FOREM titres 568.406m + BRU titres 303.832m = 872.238m 2026 dual (VL full TCO residual FOI); tick482

@@ -5664,3 +5664,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; budgets +4; cmt +3; lb +3; entity democracy fund; FOI **gap_nl_democracy_fund_l5** + **gap_regie_nl_projects_l5** ready+drafts; rq_472=done spawn **rq_473**; ticks=481
 - FOI opened: 2 ready (human send)
 - Next: prio5 **rq_473**; deferred **rq_116** SWA
+
+### 2026-08-03T07:45:00Z - tick 482
+- Unit: **rq_473** (FOI-adjacent hole-fill - **VL dienstencheques reform multi-year + dual titres WAL/BRU**)
+- Found (strong primary VL begroting 2025-2029 + prior WAL/BRU):
+  - **Reform measures path mEUR:** 2025 **84** · 2026 **250** · 2027 **255** · 2028 **263** · 2029 **267**
+  - Split 2026: price **84** + tax benefit abolition **166**
+  - Worker return varia **84m** (1 EUR/cheque back to workers) same years class
+  - User price **10 EUR**; fiscal benefit ends income year 2025
+  - BO2026 effort line **151.438m** different perimeter vs multi-year table **250m** 2026
+  - **Dual titres stack WAL+BRU EUR 872.238m** 2026 = FOREM **568.406** + BRU **303.832** (VL full TCO residual FOI)
+- Wrote: sources +4; budgets +8; cmt +2; lb +4; FOI gap_vl_dienstencheques_tco updated (measures filled; full TCO still ready); rq_473=done spawn **rq_474**; ticks=482
+- FOI: gap_vl_dienstencheques_tco still ready human send (full scheme TCO)
+- Next: prio5 **rq_474**; deferred **rq_116** SWA
