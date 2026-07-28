@@ -5091,3 +5091,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +76; cmt +3; lb +10; rq_427=done; spawn **rq_428**; ticks=436
 - FOI: none new (Fedasil partner L5 already ready gap_fedasil_l5_partners; delivery plan residual is policy design)
 - Next: prio5 **rq_428**; deferred **rq_116** SWA
+
+### 2026-08-02T09:15:00Z - tick 437
+- Unit: **rq_428** (FOI-adjacent hole-fill - **INAMI sante L5 + NATO multi-year + Justice/security provisions**)
+- Found (strong/medium primary Cour des comptes Budget Etat 2026 p28-31 + p59-60 + p84):
+  - **INAMI health save 764.5m 2026 L5:** drugs **401.9** (price 80.3 · antiacid 65.8 · lipid 29.4 · partial-bill 42 · TM 27.9 · residual design **148.9**) · doctors **213.2** (lab 70.8 · imaging 68.5 · surgery 63.7 · delay risk **41.5**) · hosp **50** (day 47.1 cash-shift flag) · other **73.8** · TM-res **25.6**
+  - **NATO multi-year 2025-29:** effort **12.73→14.29bn** (~100% of 2pct need); s16 share **82.4→79.7%**; std **167.5→750m**
+    - Extra spend **3.87→3.07bn/yr** sum **16.78bn**; temp fin **7.15** (CIT Russian **6.15** + Belfius **1.0**); struct **4.83**; deficit temp **4.80**; asset optim **3.17** (opaque)
+  - **Security provision 366.9m:** reinforce **250** (J112.5 police87.5 mig50) · surpop **60** · carry **6.2** · opaque **50.7** (J44+I6)
+  - **Justice:** section **2.843bn** + BOSA provisions **465.5m** (specialty breach); surpop envelope **840m** (600 infra + 240 struct) vs TF need **~1.1bn**; TF capacity **1052 places / 303.8m** 2026 class
+- Wrote: sources +1; budgets +144; cmt +3; lb +10; rq_428=done; spawn **rq_429**; ticks=437
+- FOI: none new (asset optim + surpop project list already covered by prior gaps/design residual)
+- Next: prio5 **rq_429**; deferred **rq_116** SWA

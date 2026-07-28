@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T08:45:00Z,rq_427,436,no,Scheduler 60s. Next prio5 rq_428; rq_116 SWA deferred. tick436 Fedasil 247-688 + coop 1.04bn + ONSS residual.
+main,continuous,hole_fill,2026-08-02T09:15:00Z,rq_428,437,no,Scheduler 60s. Next prio5 rq_429; rq_116 SWA deferred. tick437 sante 765 L5 + NATO path + Justice prov.

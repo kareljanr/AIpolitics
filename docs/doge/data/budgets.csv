@@ -7313,3 +7313,147 @@ bud_altfin_l5_total_2026,sec_ss,2026,27221600000,,,budgeted,src_ccrek_budget2026
 bud_altfin_csss_attrib_2026,sec_ss,2026,102400000,,,budgeted,src_ccrek_budget2026_fedasil_coop_onss,strong,CSSS via attribution funds 102.4m 2026 CoA p79; tick436
 bud_altfin_fonds_total_2026,sec_ss,2026,27325000000,,,budgeted,src_ccrek_budget2026_fedasil_coop_onss,strong,SS via attribution funds total 27325m 2026 (altfin 27221.6 + CSSS 102.4 + collab eco 1); tick436
 bud_prison_food_credit_2026,fod_justice,2026,25200000,,,budgeted,src_ccrek_budget2026_fedasil_coop_onss,strong,Detainee food/maintenance credits 25.2m eng+liq 2026 CoA p61; tick436
+bud_inami_l5_total_2026,riziv,2026,764500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 total 764.5m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_2026,riziv,2026,401900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs 401.9m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_doctors_2026,riziv,2026,213200000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 doctors 213.2m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_hospitals_2026,riziv,2026,50000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 hospitals 50.0m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_other_sectors_2026,riziv,2026,73800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,INAMI health save L5 other_sectors 73.8m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_tm_reserved_2026,riziv,2026,25600000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,INAMI health save L5 tm_reserved 25.6m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_price_cuts_2026,riziv,2026,80300000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs_price_cuts 80.3m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_antiacids_2026,riziv,2026,65800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs_antiacids 65.8m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_lipid_2026,riziv,2026,29400000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs_lipid 29.4m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_partial_bill_hosp_2026,riziv,2026,42000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs_partial_bill_hosp 42.0m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_tm_per_pack_2026,riziv,2026,27900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs_tm_per_pack 27.9m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_proposed_inami_2026,riziv,2026,252900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 drugs_proposed_inami 252.9m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_drugs_residual_design_2026,riziv,2026,148900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,INAMI health save L5 drugs_residual_design 148.9m 2026 CoA p84; still to design CoA; dual total 764.5; tick437
+bud_inami_l5_doctors_lab_2026,riziv,2026,70800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 doctors_lab 70.8m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_doctors_imaging_2026,riziv,2026,68500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 doctors_imaging 68.5m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_doctors_surgery_2026,riziv,2026,63700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,INAMI health save L5 doctors_surgery 63.7m 2026 CoA p84; dual total 764.5; tick437
+bud_inami_l5_doctors_delay_risk_2026,riziv,2026,41500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,INAMI health save L5 doctors_delay_risk 41.5m 2026 CoA p84; INAMI says not realized 2026 late entry; dual total 764.5; tick437
+bud_inami_l5_hosp_day_2026,riziv,2026,47100000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,INAMI health save L5 hosp_day 47.1m 2026 CoA p84; linear advance cut = cash shift not true 2026 dep cut CoA; dual total 764.5; tick437
+bud_inami_l5_hosp_other_2026,riziv,2026,3000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,INAMI health save L5 hosp_other 3.0m 2026 CoA p84; dual total 764.5; tick437
+bud_nato_l5_gdp_2025,gg_belgium,2025,636320000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,BFP GDP used for NATO 2pct 636320m 2025 CoA p29-30; tick437
+bud_nato_l5_need_2pct_2025,mod_defensie,2025,12726400000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,NATO 2pct need 12726.4m 2025 CoA p29-30; tick437
+bud_nato_l5_s16_budget_2025,mod_defensie,2025,10485800000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Defence budget s16 10485.8m 2025 CoA p29-30; tick437
+bud_nato_l5_s16_liq_2025,mod_defensie,2025,10485800000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Defence s16 liquidations 10485.8m 2025 CoA p29-30; tick437
+bud_nato_l5_external_2025,mod_defensie,2025,2239900000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,External defence effort 2239.9m 2025 CoA p29-30; tick437
+bud_nato_l5_pens_mil_2025,fpd,2025,1597000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Military pensions NATO 1597.0m 2025 CoA p29-30; tick437
+bud_nato_l5_pens_civ_2025,fpd,2025,71000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Civil defence pensions 71.0m 2025 CoA p29-30; tick437
+bud_nato_l5_pens_surv_2025,fpd,2025,264000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Survivor defence pensions 264.0m 2025 CoA p29-30; tick437
+bud_nato_l5_other_depts_2025,mod_defensie,2025,140400000,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,Other depts military 140.4m 2025 CoA p29-30; tick437
+bud_nato_l5_std_total_2025,mod_defensie,2025,167500000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Standardisation total 167.5m 2025 CoA p29-30; tick437
+bud_nato_l5_std_miliciens_2025,fpd,2025,167500000,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,Former conscript pensions std 167.5m 2025 CoA p29-30; tick437
+bud_nato_l5_std_new_2025,mod_defensie,2025,0,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,New-to-standardise (circular pending) 0.0m 2025 CoA p29-30; tick437
+bud_nato_l5_effort_total_2025,mod_defensie,2025,12725700000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,NATO effort total 12725.7m 2025 (100.0pct of need) CoA p29-30; tick437
+bud_nato_l5_extra_spend_2025,mod_defensie,2025,3866000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Additional defence spend plan 3866m 2025 CoA p29-30; tick437
+bud_nato_l5_temp_fin_2025,sec_federal,2025,1708000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Temporary defence financing 1708m 2025 CoA p29-30; tick437
+bud_nato_l5_cit_russian_2025,sec_federal,2025,1208000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,CIT on frozen Russian asset interest 1208m 2025 CoA p29-30; tick437
+bud_nato_l5_belfius_2025,sec_federal,2025,500000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,strong,Belfius exceptional dividend defence 500m 2025 CoA p29-30; tick437
+bud_nato_l5_struct_total_2025,mod_defensie,2025,125000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,Structural defence financing total 125m 2025 CoA p29-30; tick437
+bud_nato_l5_struct_net_2025,mod_defensie,2025,0,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,Structural net (ex-std) 0m 2025 CoA p29-30; tick437
+bud_nato_l5_deficit_temp_2025,mod_defensie,2025,2033000000,,,outturn,src_ccrek_budget2026_sante_nato_justice,medium,Temporarily higher deficit for defence 2033m 2025 CoA p29-30; tick437
+bud_nato_l5_gdp_2026,gg_belgium,2026,655357000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,BFP GDP used for NATO 2pct 655357m 2026 CoA p29-30; tick437
+bud_nato_l5_need_2pct_2026,mod_defensie,2026,13107100000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,NATO 2pct need 13107.1m 2026 CoA p29-30; tick437
+bud_nato_l5_s16_budget_2026,mod_defensie,2026,10769600000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Defence budget s16 10769.6m 2026 CoA p29-30; tick437
+bud_nato_l5_s16_liq_2026,mod_defensie,2026,10769600000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Defence s16 liquidations 10769.6m 2026 CoA p29-30; tick437
+bud_nato_l5_external_2026,mod_defensie,2026,2326200000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,External defence effort 2326.2m 2026 CoA p29-30; tick437
+bud_nato_l5_pens_mil_2026,fpd,2026,1688000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Military pensions NATO 1688.0m 2026 CoA p29-30; tick437
+bud_nato_l5_pens_civ_2026,fpd,2026,73000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Civil defence pensions 73.0m 2026 CoA p29-30; tick437
+bud_nato_l5_pens_surv_2026,fpd,2026,267000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Survivor defence pensions 267.0m 2026 CoA p29-30; tick437
+bud_nato_l5_other_depts_2026,mod_defensie,2026,130700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Other depts military 130.7m 2026 CoA p29-30; tick437
+bud_nato_l5_std_total_2026,mod_defensie,2026,167500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Standardisation total 167.5m 2026 CoA p29-30; tick437
+bud_nato_l5_std_miliciens_2026,fpd,2026,167500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Former conscript pensions std 167.5m 2026 CoA p29-30; tick437
+bud_nato_l5_std_new_2026,mod_defensie,2026,0,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,New-to-standardise (circular pending) 0.0m 2026 CoA p29-30; tick437
+bud_nato_l5_effort_total_2026,mod_defensie,2026,13095800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,NATO effort total 13095.8m 2026 (99.9pct of need) CoA p29-30; tick437
+bud_nato_l5_extra_spend_2026,mod_defensie,2026,3522000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Additional defence spend plan 3522m 2026 CoA p29-30; tick437
+bud_nato_l5_temp_fin_2026,sec_federal,2026,1663000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Temporary defence financing 1663m 2026 CoA p29-30; tick437
+bud_nato_l5_cit_russian_2026,sec_federal,2026,1163000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,CIT on frozen Russian asset interest 1163m 2026 CoA p29-30; tick437
+bud_nato_l5_belfius_2026,sec_federal,2026,500000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Belfius exceptional dividend defence 500m 2026 CoA p29-30; tick437
+bud_nato_l5_struct_total_2026,mod_defensie,2026,400000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural defence financing total 400m 2026 CoA p29-30; tick437
+bud_nato_l5_struct_net_2026,mod_defensie,2026,250000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural net (ex-std) 250m 2026 CoA p29-30; tick437
+bud_nato_l5_deficit_temp_2026,mod_defensie,2026,1459000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Temporarily higher deficit for defence 1459m 2026 CoA p29-30; tick437
+bud_nato_l5_gdp_2027,gg_belgium,2027,675594000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,BFP GDP used for NATO 2pct 675594m 2027 CoA p29-30; tick437
+bud_nato_l5_need_2pct_2027,mod_defensie,2027,13511900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,NATO 2pct need 13511.9m 2027 CoA p29-30; tick437
+bud_nato_l5_s16_budget_2027,mod_defensie,2027,11058400000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Defence budget s16 11058.4m 2027 CoA p29-30; tick437
+bud_nato_l5_s16_liq_2027,mod_defensie,2027,11100800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Defence s16 liquidations 11100.8m 2027 CoA p29-30; tick437
+bud_nato_l5_external_2027,mod_defensie,2027,2514700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,External defence effort 2514.7m 2027 CoA p29-30; tick437
+bud_nato_l5_pens_mil_2027,fpd,2027,1695000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Military pensions NATO 1695.0m 2027 CoA p29-30; tick437
+bud_nato_l5_pens_civ_2027,fpd,2027,75000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Civil defence pensions 75.0m 2027 CoA p29-30; tick437
+bud_nato_l5_pens_surv_2027,fpd,2027,270000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Survivor defence pensions 270.0m 2027 CoA p29-30; tick437
+bud_nato_l5_other_depts_2027,mod_defensie,2027,174700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Other depts military 174.7m 2027 CoA p29-30; tick437
+bud_nato_l5_std_total_2027,mod_defensie,2027,300000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Standardisation total 300.0m 2027 CoA p29-30; tick437
+bud_nato_l5_std_miliciens_2027,fpd,2027,167500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Former conscript pensions std 167.5m 2027 CoA p29-30; tick437
+bud_nato_l5_std_new_2027,mod_defensie,2027,132500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,New-to-standardise (circular pending) 132.5m 2027 CoA p29-30; tick437
+bud_nato_l5_effort_total_2027,mod_defensie,2027,13573100000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,NATO effort total 13573.1m 2027 (100.5pct of need) CoA p29-30; tick437
+bud_nato_l5_extra_spend_2027,mod_defensie,2027,3222000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Additional defence spend plan 3222m 2027 CoA p29-30; tick437
+bud_nato_l5_temp_fin_2027,sec_federal,2027,1217000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Temporary defence financing 1217m 2027 CoA p29-30; tick437
+bud_nato_l5_cit_russian_2027,sec_federal,2027,1217000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,CIT on frozen Russian asset interest 1217m 2027 CoA p29-30; tick437
+bud_nato_l5_belfius_2027,sec_federal,2027,0,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Belfius exceptional dividend defence 0m 2027 CoA p29-30; tick437
+bud_nato_l5_struct_total_2027,mod_defensie,2027,1050000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural defence financing total 1050m 2027 CoA p29-30; tick437
+bud_nato_l5_struct_net_2027,mod_defensie,2027,750000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural net (ex-std) 750m 2027 CoA p29-30; tick437
+bud_nato_l5_deficit_temp_2027,mod_defensie,2027,955000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Temporarily higher deficit for defence 955m 2027 CoA p29-30; tick437
+bud_nato_l5_gdp_corr_2027,mod_defensie,2027,-42400000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,GDP correction on s16 CM 12Dec -42.4m 2027 CoA p29-30; tick437
+bud_nato_l5_gdp_2028,gg_belgium,2028,695626000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,BFP GDP used for NATO 2pct 695626m 2028 CoA p29-30; tick437
+bud_nato_l5_need_2pct_2028,mod_defensie,2028,13912500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,NATO 2pct need 13912.5m 2028 CoA p29-30; tick437
+bud_nato_l5_s16_budget_2028,mod_defensie,2028,11239300000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Defence budget s16 11239.3m 2028 CoA p29-30; tick437
+bud_nato_l5_s16_liq_2028,mod_defensie,2028,11317800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Defence s16 liquidations 11317.8m 2028 CoA p29-30; tick437
+bud_nato_l5_external_2028,mod_defensie,2028,2710700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,External defence effort 2710.7m 2028 CoA p29-30; tick437
+bud_nato_l5_pens_mil_2028,fpd,2028,1684000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Military pensions NATO 1684.0m 2028 CoA p29-30; tick437
+bud_nato_l5_pens_civ_2028,fpd,2028,77000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Civil defence pensions 77.0m 2028 CoA p29-30; tick437
+bud_nato_l5_pens_surv_2028,fpd,2028,273000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Survivor defence pensions 273.0m 2028 CoA p29-30; tick437
+bud_nato_l5_other_depts_2028,mod_defensie,2028,176700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Other depts military 176.7m 2028 CoA p29-30; tick437
+bud_nato_l5_std_total_2028,mod_defensie,2028,500000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Standardisation total 500.0m 2028 CoA p29-30; tick437
+bud_nato_l5_std_miliciens_2028,fpd,2028,167500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Former conscript pensions std 167.5m 2028 CoA p29-30; tick437
+bud_nato_l5_std_new_2028,mod_defensie,2028,332500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,New-to-standardise (circular pending) 332.5m 2028 CoA p29-30; tick437
+bud_nato_l5_effort_total_2028,mod_defensie,2028,13950000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,NATO effort total 13950.0m 2028 (100.3pct of need) CoA p29-30; tick437
+bud_nato_l5_extra_spend_2028,mod_defensie,2028,3099000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Additional defence spend plan 3099m 2028 CoA p29-30; tick437
+bud_nato_l5_temp_fin_2028,sec_federal,2028,1269000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Temporary defence financing 1269m 2028 CoA p29-30; tick437
+bud_nato_l5_cit_russian_2028,sec_federal,2028,1269000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,CIT on frozen Russian asset interest 1269m 2028 CoA p29-30; tick437
+bud_nato_l5_belfius_2028,sec_federal,2028,0,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Belfius exceptional dividend defence 0m 2028 CoA p29-30; tick437
+bud_nato_l5_struct_total_2028,mod_defensie,2028,1500000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural defence financing total 1500m 2028 CoA p29-30; tick437
+bud_nato_l5_struct_net_2028,mod_defensie,2028,1000000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural net (ex-std) 1000m 2028 CoA p29-30; tick437
+bud_nato_l5_deficit_temp_2028,mod_defensie,2028,330000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Temporarily higher deficit for defence 330m 2028 CoA p29-30; tick437
+bud_nato_l5_gdp_corr_2028,mod_defensie,2028,-78500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,GDP correction on s16 CM 12Dec -78.5m 2028 CoA p29-30; tick437
+bud_nato_l5_gdp_2029,gg_belgium,2029,717335000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,BFP GDP used for NATO 2pct 717335m 2029 CoA p29-30; tick437
+bud_nato_l5_need_2pct_2029,mod_defensie,2029,14346700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,NATO 2pct need 14346.7m 2029 CoA p29-30; tick437
+bud_nato_l5_s16_budget_2029,mod_defensie,2029,11395800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Defence budget s16 11395.8m 2029 CoA p29-30; tick437
+bud_nato_l5_s16_liq_2029,mod_defensie,2029,11478800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Defence s16 liquidations 11478.8m 2029 CoA p29-30; tick437
+bud_nato_l5_external_2029,mod_defensie,2029,2893900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,External defence effort 2893.9m 2029 CoA p29-30; tick437
+bud_nato_l5_pens_mil_2029,fpd,2029,1685000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Military pensions NATO 1685.0m 2029 CoA p29-30; tick437
+bud_nato_l5_pens_civ_2029,fpd,2029,79000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Civil defence pensions 79.0m 2029 CoA p29-30; tick437
+bud_nato_l5_pens_surv_2029,fpd,2029,276000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Survivor defence pensions 276.0m 2029 CoA p29-30; tick437
+bud_nato_l5_other_depts_2029,mod_defensie,2029,103900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Other depts military 103.9m 2029 CoA p29-30; tick437
+bud_nato_l5_std_total_2029,mod_defensie,2029,750000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Standardisation total 750.0m 2029 CoA p29-30; tick437
+bud_nato_l5_std_miliciens_2029,fpd,2029,167500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Former conscript pensions std 167.5m 2029 CoA p29-30; tick437
+bud_nato_l5_std_new_2029,mod_defensie,2029,582500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,New-to-standardise (circular pending) 582.5m 2029 CoA p29-30; tick437
+bud_nato_l5_effort_total_2029,mod_defensie,2029,14289700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,NATO effort total 14289.7m 2029 (99.6pct of need) CoA p29-30; tick437
+bud_nato_l5_extra_spend_2029,mod_defensie,2029,3074000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Additional defence spend plan 3074m 2029 CoA p29-30; tick437
+bud_nato_l5_temp_fin_2029,sec_federal,2029,1297000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Temporary defence financing 1297m 2029 CoA p29-30; tick437
+bud_nato_l5_cit_russian_2029,sec_federal,2029,1297000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,CIT on frozen Russian asset interest 1297m 2029 CoA p29-30; tick437
+bud_nato_l5_belfius_2029,sec_federal,2029,0,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Belfius exceptional dividend defence 0m 2029 CoA p29-30; tick437
+bud_nato_l5_struct_total_2029,mod_defensie,2029,1750000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural defence financing total 1750m 2029 CoA p29-30; tick437
+bud_nato_l5_struct_net_2029,mod_defensie,2029,1000000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Structural net (ex-std) 1000m 2029 CoA p29-30; tick437
+bud_nato_l5_deficit_temp_2029,mod_defensie,2029,27000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Temporarily higher deficit for defence 27m 2029 CoA p29-30; tick437
+bud_nato_l5_gdp_corr_2029,mod_defensie,2029,-83000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,GDP correction on s16 CM 12Dec -83.0m 2029 CoA p29-30; tick437
+bud_nato_asset_optim_pack,sec_federal,2025,3170000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Asset optimisation package to limit debt from defence deficit 3170m 2025-29 (~2/3 of temp deficit 4804m); implementation still open CoA; tick437
+bud_sec_prov_total_2026,sec_federal,2026,366900000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Security/return interdept provision L5 total 366.9m 2026 CoA p59 (total 366.9; renforcement split J112.5 police87.5 mig50; surpop J50 health5 mig5; opaque +50.7 J44+I6); tick437
+bud_sec_prov_renforcement_2026,sec_federal,2026,250000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Security/return interdept provision L5 renforcement 250.0m 2026 CoA p59 (total 366.9; renforcement split J112.5 police87.5 mig50; surpop J50 health5 mig5; opaque +50.7 J44+I6); tick437
+bud_sec_prov_surpop_struct_2026,sec_federal,2026,60000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Security/return interdept provision L5 surpop_struct 60.0m 2026 CoA p59 (total 366.9; renforcement split J112.5 police87.5 mig50; surpop J50 health5 mig5; opaque +50.7 J44+I6); tick437
+bud_sec_prov_report_justice_2026,sec_federal,2026,6200000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Security/return interdept provision L5 report_justice 6.2m 2026 CoA p59 (total 366.9; renforcement split J112.5 police87.5 mig50; surpop J50 health5 mig5; opaque +50.7 J44+I6); tick437
+bud_sec_prov_justice_interior_extra_2026,sec_federal,2026,50700000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Security/return interdept provision L5 justice_interior_extra 50.7m 2026 CoA p59 (total 366.9; renforcement split J112.5 police87.5 mig50; surpop J50 health5 mig5; opaque +50.7 J44+I6); tick437
+bud_justice_section_credits_2026,fod_justice,2026,2843000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 section_credits_2026 2843.0m EUR CoA p59-60; tick437
+bud_justice_provisions_for_justice_2026,fod_justice,2026,465500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 provisions_for_justice_2026 465.5m EUR CoA p59-60; tick437
+bud_justice_prov_securite_j,fod_justice,2026,112500000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 prov_securite_j 112.5m EUR CoA p59-60; tick437
+bud_justice_prov_surpop_ops_j,fod_justice,2026,50000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 prov_surpop_ops_j 50.0m EUR CoA p59-60; tick437
+bud_justice_prov_surpop_infra,fod_justice,2026,259000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 prov_surpop_infra 259.0m EUR CoA p59-60; tick437
+bud_justice_prov_efficience_j,fod_justice,2026,44000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 prov_efficience_j 44.0m EUR CoA p59-60; tick437
+bud_justice_surpop_envelope_2026_29,fod_justice,2026,840000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 surpop_envelope_2026_29 840.0m EUR CoA p59-60; tick437
+bud_justice_surpop_infra_pack,sec_federal,2026,600000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 surpop_infra_pack 600.0m EUR CoA p59-60; tick437
+bud_justice_surpop_struct_pack,fod_justice,2026,240000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Justice/surpop L5 surpop_struct_pack 240.0m EUR CoA p59-60; tick437
+bud_justice_tf_need_class,fod_justice,2026,1100000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Justice/surpop L5 tf_need_class 1100.0m EUR CoA p59-60; tick437
+bud_justice_tf_capacity_places_2026,fod_justice,2026,1052,,,estimate,src_ccrek_budget2026_sante_nato_justice,medium,TF capacity proposal 1052 new detention places 2026 (incl Antwerp) CoA p60; headcount; tick437
+bud_justice_tf_capacity_budget_2026,fod_justice,2026,303800000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,medium,Justice/surpop L5 tf_capacity_budget_2026 303.8m EUR CoA p59-60; tick437
+bud_surpop_struct_annual_2026,fod_justice,2026,60000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Structural surpopulation financing 60m/yr 2026 (Justice 50 + Health 5 + Migration 5) of 240m pack; tick437
+bud_surpop_struct_annual_2027,fod_justice,2027,60000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Structural surpopulation financing 60m/yr 2027 (Justice 50 + Health 5 + Migration 5) of 240m pack; tick437
+bud_surpop_struct_annual_2028,fod_justice,2028,60000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Structural surpopulation financing 60m/yr 2028 (Justice 50 + Health 5 + Migration 5) of 240m pack; tick437
+bud_surpop_struct_annual_2029,fod_justice,2029,60000000,,,budgeted,src_ccrek_budget2026_sante_nato_justice,strong,Structural surpopulation financing 60m/yr 2029 (Justice 50 + Health 5 + Migration 5) of 240m pack; tick437
