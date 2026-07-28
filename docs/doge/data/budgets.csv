@@ -9163,3 +9163,15 @@ bud_caiman_agfisc_fines,fod_finance,2022,2057650,,,outturn,src_ccrek_taxe_caiman
 bud_caiman_agfisc_tax_supplements,fod_finance,2022,648417,,,outturn,src_ccrek_taxe_caiman_2023,strong,CoA: AGFisc tax supplements enrolled 0.648m; tick532
 bud_caiman_budget_extra_2018_2_0,fod_finance,2018,50000000,,,budget,src_ccrek_taxe_caiman_2023,strong,CoA: +50m estimate added to base fiscal receipts for Caiman 2.0 path 2018; tick532
 bud_dual_caiman_fed_reg,gg_belgium,2022,160977048,,,derived,src_dual_caiman_fed_regions_tick532,strong,Dual Caiman federal receipt class vs regional succession capital gap; not additive TE; tick532
+bud_gv_apps_2023,vlaanderen_gov,2023,17072,,,count,src_ccrek_gv_2025,strong,CoA Table5 DEM 2023 applications 17072 (first 9031 + renewals 8041); tick533
+bud_gv_grants_2023,vlaanderen_gov,2023,11764,,,count,src_ccrek_gv_2025,strong,CoA Table5 grants 11764 (first 5568 + renewals 6196); tick533
+bud_gv_refusals_2023,vlaanderen_gov,2023,1903,,,count,src_ccrek_gv_2025,strong,CoA Table5 DEM refusals 1903 (~11.14pct post-scandal jump from ~3.2-3.7pct 2019-22); tick533
+bud_gv_withdrawals_2023,vlaanderen_gov,2023,779,,,count,src_ccrek_gv_2025,strong,CoA Table5 withdrawals 779 2023; tick533
+bud_gv_apps_first_path,vlaanderen_gov,2023,8945,,,count,src_ccrek_gv_2025,strong,CoA multi-year first-apps path class 4785/3682/5803/10035/8945 2019-23; tick533
+bud_gv_dem_vte_2024,vlaanderen_gov,2024,36,,,count,src_ccrek_gv_2025,strong,CoA: DEM 26 VTE +14 2023 expansion = 35.6 VTE Mar 2024 of which 18 dossier handlers; +1 control room Dec 2024; tick533
+bud_gv_vsi_econ_mig_vte_2023,vlaanderen_gov,2023,20,,,count,src_ccrek_gv_2025,strong,CoA: VSI 19.56 VTE on economic migration 2023; +7 VTE 2021 Borealis path; +11 inspectors decided Dec 2024; tick533
+bud_gv_vsi_investigations_2023,vlaanderen_gov,2023,1865,,,count,src_ccrek_gv_2025,strong,CoA Table10 VSI foreign-worker investigations 1865 2023; DEM-requested 262; tick533
+bud_gv_fines_ag_2023,vlaanderen_gov,2023,56265,,,outturn,src_ccrek_gv_2025,strong,CoA: Vlaamse cel AG fines on GV breaches 56265 EUR 2023 (122675 2022; 54025 2021); practice 2-4k low end of range; tick533
+bud_gv_fines_ag_2022,vlaanderen_gov,2022,122675,,,outturn,src_ccrek_gv_2025,strong,CoA AG fines GV 122675 EUR 2022; tick533
+bud_gv_dvz_first_pos_2023,fod_interior,2023,9967,,,count,src_ccrek_gv_2025,strong,CoA Table7 DVZ BE all-regions first-app positive decisions 9967 2023 (9540 2022; 5251 2021); refuse ~1pct; tick533
+bud_dual_gv_dem_dvz,gg_belgium,2023,17072,,,derived,src_dual_gv_dem_dvz_tick533,strong,Dual GV applications Flanders DEM + federal DVZ sequential stack; not additive TE; tick533

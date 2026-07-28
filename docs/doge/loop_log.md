@@ -6413,3 +6413,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +10; cmt +2; lb +7; FOI **gap_caiman_receipts_l5** ready+draft; raw PDFs; rq_523=done spawn **rq_524**; ticks=532
 - FOI opened: gap_caiman_receipts_l5 (ready, human send) — not sent
 - Next: prio5 **rq_524**; deferred **rq_116** SWA
+
+### 2026-07-29T07:15:00Z - tick 533
+- Unit: **rq_524** (FOI-adjacent hole-fill — **CoA 2025_25 gecombineerde vergunning dual DEM+DVZ**)
+- Found (strong primary Rekenhof AG 2 Jul 2025 + press):
+  - **2023 DEM:** apps **17,072** (first 9,031 + renew 8,041) · grants **11,764** · refusals **1,903 (11.14%)** · withdrawals **779**
+  - Refuse rate jump from **~3.2–3.7%** 2019-22 after fraud/Borealis/visa signals
+  - First-app path class **4.8k→10.0k→8.9k** 2019-23
+  - **DVZ BE first-app positives:** 5,251 / 9,540 / 9,967 (2021-23); refuse **~1%**
+  - **DEM staff:** 26+14 VTE 2023 → **35.6** Mar 2024 (18 handlers); backlog remains; DVZ wait times not disclosed
+  - **VSI:** 19.56 VTE econ mig 2023; 1,865 investigations; DEM-requested 262; +11 inspectors Dec 2024 path
+  - **Fines AG:** €54k / €123k / €56k 2021-23; practice **€2–4k** low end of statutory fork; deterrent untested
+  - **Auto-approve** dozens when statutory deadline expires (DEM+DVZ); residual after control upgrade
+  - Unique loket cost-share fed **63%** / VL **19.24%** / BRU **12.58%** / WAL **4.81%** / DG **0.37%**; incomplete actor access
+  - **Dual:** sequential DEM work then DVZ residence; trust gap mutual verification; inspectors limited cross-view
+- Wrote: sources +3; budgets +12; cmt +2; lb +7; FOI **gap_gv_volumes_kpi_l5** ready+draft; raw PDF+press; rq_524=done spawn **rq_525**; ticks=533
+- FOI opened: gap_gv_volumes_kpi_l5 (ready, human send) — not sent
+- Next: prio5 **rq_525**; deferred **rq_116** SWA
