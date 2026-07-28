@@ -5029,3 +5029,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets +20; cmt +2; lb +6; rq_423=done; spawn **rq_424**; ticks=432
 - FOI: none new
 - Next: prio5 **rq_424**; deferred **rq_116** SWA
+
+### 2026-08-02T07:15:00Z - tick 433
+- Unit: **rq_424** (FOI-adjacent hole-fill - **SS consol 2026 L5 residual + ONEM reform residual**)
+- Found (strong primary Cour des comptes Budget Etat 2026 p79-80 + p95-98):
+  - **SS consol dep 2026:** **EUR 147.8585bn** (+0.8% vs 146.76 adj 2025)
+  - Prestations **135.492bn**; GG sal **63.342** (pens **43.271** · MI **14.879** · chom **4.638** · autres **0.554**)
+  - GG indep **7.012** (pens **5.920** · MI **1.070** · autres **0.022**)
+  - **Soins 41.297bn** · **pens publiques 22.828bn** · autres prest **1.014** · **frais gestion 2.996** · **autres dep 9.370**
+  - Dual: pens stack **72.018bn**; MI dual **15.949bn**; chom **-28.2%** YoY
+  - Altfin **27.222bn** (ONSS **23.392** · INASTI **3.829**)
+  - **Demission volontaire cost EUR 33.6m 2026** (flipped from +45m "save"); steady ~34m
+  - **Credit familial envelope 40m** (CoA overestimate risk vs 50m full-year)
+  - Pension reform 2026 savings **−64m delay** (laws not yet Kamer)
+- Wrote: sources +1; budgets +19; cmt +2; lb +10; rq_424=done; spawn **rq_425**; ticks=433
+- FOI: none new (autres_dep 9.37bn L5 optional later if annex absent)
+- Next: prio5 **rq_425**; deferred **rq_116** SWA

@@ -7018,3 +7018,22 @@ bud_prov_named_reorg_36m_2026,sec_federal,2026,36000000,,,budgeted,src_ccrek_bud
 bud_prov_named_tria_5_3m_2026,sec_ss,2026,5300000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: Tria IT programme SPF SS 5.3m 2026; tick432
 bud_prov_named_cpl_2_7m_2026,fod_justice,2026,2700000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Inside justice/divers: modular units CPL forensic psych 2.7m 2026; tick432
 bud_prov_named_sum_529m_2026,sec_federal,2026,529000000,,,budgeted,src_ccrek_budget2026_entity1_social_prov,strong,Sum of named uses in justice/divers list ~529m of 618.3m (residual ~89m other); tick432
+bud_ss_gg_sal_autres_2026,onss,2026,554000000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,GG salaries autres prestations 554.0m 2026 CoA p80; tick433
+bud_ss_gg_indep_mi_2026,inasti,2026,1070000000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,GG indep maladie/invalidite 1070.0m 2026 CoA p80 (+6.4pct); tick433
+bud_ss_gg_indep_autres_2026,inasti,2026,22200000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,GG indep autres prestations 22.2m 2026 CoA p80; tick433
+bud_ss_soins_sante_41297m_2026,inami,2026,41297200000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,INAMI soins de sante 41297.2m 2026 CoA p80 (+3.7pct vs 39812.1); dual entity1 ~41.3bn; tick433
+bud_ss_autres_prest_2026,sec_ss,2026,1013600000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,SS autres prestations sociales 1013.6m 2026 CoA p80 (-7.8pct); tick433
+bud_ss_frais_gestion_2026,sec_ss,2026,2996300000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,SS frais gestion+paiement 2996.3m 2026 CoA p80; dual SPF SS gestion 2.9bn 2025 outturn; tick433
+bud_ss_mi_dual_sal_indep_2026,sec_ss,2026,15949400000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Dual MI sal 14879.4 + indep 1070.0 = 15949.4m 2026 CoA; tick433
+bud_ss_pens_stack_sal_indep_pub_2026,sec_ss,2026,72018100000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Pension stack GG sal 43270.7 + indep 5919.9 + publiques 22827.5 = 72018.1m 2026; dual FPD legal 69.05bn 2025 cash; tick433
+bud_altfin_onss_gg_2026,onss,2026,23392200000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,ONSS GG financement alternatif 23392.2m 2026 CoA p79 (TVA base 9343.8 + sante 7645.2 + PM 6403.2); tick433
+bud_altfin_inasti_gg_2026,inasti,2026,3829400000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,INASTI GG financement alternatif 3829.4m 2026 CoA p79; tick433
+bud_altfin_total_2026,sec_ss,2026,27221600000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,SS financement alternatif total 27221.6m 2026 CoA p79 (+3.8pct); tick433
+bud_demission_volontaire_cost_2026,onem,2026,33600000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Demission volontaire avec alloc chomage: cost 33.6m 2026 (reest Jun 2025; was +45m save initial 2025); CoA p97; tick433
+bud_demission_volontaire_cost_steady,onem,2027,34000000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Demission volontaire steady cost ~34m/yr 2027-2030 CoA p97; tick433
+bud_credit_familial_envelope_2026,onem,2026,40000000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Credit familial envelope 40m 2026 (plan cohesion 15 + deferred path); CoA p96 flags overestimate vs 50m full-year; tick433
+bud_pension_reform_delay_64m_2026,fpd,2026,64000000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Pension reform 2026 savings reduced by 64m (laws not yet before Kamer; sal 33+indep 5+fonct 26); CoA p81; tick433
+bud_ss_gg_sal_mi_2025,onss,2025,14206900000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,GG sal maladie/invalidite BA 14206.9m 2025 path to 14879.4 2026; tick433
+bud_ss_gg_sal_chom_2025,onem,2025,6458700000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,GG sal chomage BA 6458.7m 2025 -> 4637.9 2026 (-28.2pct time-limit); tick433
+bud_ss_soins_sante_2025,inami,2025,39812100000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Soins de sante BA 39812.1m 2025 path; tick433
+bud_ss_pens_pub_2025,fpd,2025,22153100000,,,budgeted,src_ccrek_budget2026_ss_l5_onem,strong,Pensions publiques BA 22153.1m 2025 path to 22827.5 2026; tick433
