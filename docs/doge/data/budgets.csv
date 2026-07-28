@@ -8747,3 +8747,11 @@ bud_personnel_save_neg_fodfin_433m,sec_federal,2029,433000000,,,estimated,src_cc
 bud_regions_eu_mfk_500m_2028,gg_belgium,2028,500000000,,,budgeted,src_ccrek_fed_budget_aju_2026,medium,Annual 500m from federated entities for EU MFF from 2028 no agreement yet; tick503
 bud_euroclear_exceptional_1bn_yr,sec_federal,2026,1000000000,,,budgeted,src_ccrek_fed_budget_aju_2026,medium,MC assumes >1bn/yr exceptional Euroclear Russian assets receipt through 2031 if no intl deal; tick503
 bud_dual_e1_24_5_e2_map,gg_belgium,2026,24500000000,,,derived,src_dual_e1_aju_e2_tick503,strong,Dual E1 CoA aju 24.5bn vs E2 quartet class not additive TE; tick503
+bud_mpkv_spent_2024,mdk,2024,321412742,,,outturn,src_ccrek_kustbeveiliging_2026,strong,Masterplan Kustveiligheid spent 321.4m end-2024 CoA table; tick504
+bud_mpkv_remain_2024,mdk,2024,144290590,,,estimated,src_ccrek_kustbeveiliging_2026,strong,MPKV remaining min 144.3m Nov2024 MDK estimate CoA; tick504
+bud_mpkv_total_class,mdk,2024,465703332,,,estimated,src_ccrek_kustbeveiliging_2026,strong,MPKV total class spent+remain 465.7m CoA table; tick504
+bud_mpkv_mdk_spent_2024,mdk,2024,276327923,,,outturn,src_ccrek_kustbeveiliging_2026,strong,MDK share MPKV spent 276.3m (co-finance residual to 321.4 total); tick504
+bud_kustvisie_studies_2014_24,mdk,2024,21000000,,,outturn,src_ccrek_kustbeveiliging_2026,strong,Vlaamse Baaien+Kustvisie development spend 21m 2014-24 mostly studies/consulting; tick504
+bud_kustvisie_century_low_pv,mdk,2030,2000000000,,,estimated,src_ccrek_kustbeveiliging_2026,medium,Century coastal protection cost low PV 2bn (2030-2130) CoA; tick504
+bud_kustvisie_century_high_pv,mdk,2030,5000000000,,,estimated,src_ccrek_kustbeveiliging_2026,medium,Century coastal protection cost high PV 5bn CoA; tick504
+bud_dual_kust_mpkv_gip,gg_belgium,2024,465703332,,,derived,src_dual_kust_gip_climate_tick504,strong,Dual MPKV 466m class residual vs GIP without Kustvisie programme line; tick504

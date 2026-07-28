@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-28T21:50:00Z,rq_494,503,no,Tick503 CoA fed aju E1 24.5bn energy 2.6bn dual E2; next prio5 rq_495; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-28T22:10:00Z,rq_495,504,no,Tick504 CoA Kust MPKV 321+144m Kustvisie 21m/2-5bn dual GIP; next prio5 rq_496; rq_116 SWA deferred.

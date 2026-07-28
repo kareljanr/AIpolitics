@@ -6008,3 +6008,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +24; cmt +4; lb +7; FOI **gap_fed_energy_funds_l5** ready+draft; raw PDF; rq_494=done spawn **rq_495**; ticks=503
 - FOI opened: gap_fed_energy_funds_l5 (ready, human send) — not sent
 - Next: prio5 **rq_495**; deferred **rq_116** SWA
+
+### 2026-07-28T22:10:00Z - tick 504
+- Unit: **rq_495** (FOI-adjacent hole-fill — **CoA 2026_04 Kustbeveiliging MPKV + Kustvisie dual GIP**)
+- Found (strong primary Rekenhof NL 13 Jan 2026 + press):
+  - **Masterplan Kustveiligheid:** spent end-2024 **€321.4m** · remain min **€144.3m** · total class **€465.7m**
+  - Original end **2015**; Dec2025 still **4/15** measures open (priority Ostend + Nieuwpoort/Blankenberge marinas); MDK est end **2029**
+  - Coast still not 1/1000-yr storm protected; weak links under-prioritised
+  - **Kustvisie** (since 2009): studies/consulting **€21m** 2014-24; strategic plan draft 2024 **not approved**; not in GIP as programme
+  - Century protection cost **€2–5bn** PV (2030-2130)
+  - Governance: fragmented fed/VL/local; no legal safety norms; ad hoc structures
+  - **Dual:** near-term MPKV vs GIP climate/infra opacity + long-term 2-5bn envelope
+- Wrote: sources +3; budgets +8; cmt +3; lb +6; entity mdk; FOI **gap_mpkv_measures_l5** ready+draft; raw PDFs; rq_495=done spawn **rq_496**; ticks=504
+- FOI opened: gap_mpkv_measures_l5 (ready, human send) — not sent
+- Next: prio5 **rq_496**; deferred **rq_116** SWA
