@@ -9195,3 +9195,15 @@ bud_tact_perceived_two_periods,fod_finance,2023,814419186,,,outturn,src_ccrek_ta
 bud_tact_restitutions_cum,fod_finance,2023,6386099,,,outturn,src_ccrek_tact_2024,strong,CoA restitutions GE 5.763m + P 0.036m + PME 0.546m + moratory interest 0.042m = 6.386m; ~80pct nominative conversion+cash; tick535
 bud_tact_self_decl_drop_p2,fod_finance,2022,-4647764,,,outturn,src_ccrek_tact_2024,strong,CoA: self-declarer TACT p1 20.248m p2 15.600m drop 4.648m (-23pct); foreign accounts risk; tick535
 bud_dual_tact_caiman,gg_belgium,2022,395390851,,,derived,src_dual_tact_caiman_wealth_tick535,strong,Dual TACT stock tax path vs Cayman; not additive TE; tick535
+bud_waso_post_credits_2024,fod_waso,2024,430000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Exposé SR: FOD WASO postal credits 430k 2024; path to 50k from 2026; tick536
+bud_waso_post_credits_2026,fod_waso,2026,50000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Exposé SR: WASO postal credits target 50k from 2026; tick536
+bud_fed_post_digital_save_min,sec_federal,2026,15000000,,,estimate,src_kamer_expose_sr_invest_2026,medium,Exposé SR extrapolation federal recurrent postal digitalisation save 15-67.5m; min band; eBox invest not netted; tick536
+bud_fed_post_digital_save_max,sec_federal,2026,67500000,,,estimate,src_kamer_expose_sr_invest_2026,medium,Exposé SR federal postal digitalisation save max band 67.5m recurrent; tick536
+bud_fedasil_specialist_save_1_1m,fedasil,2026,1100000,,,estimate,src_kamer_expose_sr_invest_2026,medium,Exposé SR open centres: flexible specialist support model potential save 1.1m/yr; tick536
+bud_return_efficiency_path_2029,fod_interior,2029,150000000,,,budgeted,src_kamer_expose_sr_invest_2026,medium,CM 14 Feb 2025 return efficiency save path rising to 150m by 2029; closed centres SR 2026 in progress; tick536
+bud_e1_direct_invest_2026,sec_federal,2026,5174000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 direct public investment Entity I 5174m 2026 (FODs 4962 + OIP 1559 + OISZ 40 + ESR def corr -1388); tick536
+bud_e1_gcf_esa_2026,sec_federal,2026,6612000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 gross capital formation ESA Entity I 6612m 2026; tick536
+bud_e1_invest_aid_nmbs_2026,sec_federal,2026,1094000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 investment aid mainly NMBS 1094m 2026; tick536
+bud_e1_gov_supported_invest_2026,sec_federal,2026,7706000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 government-supported investment 7706m 2026 (1.2pct GDP); tick536
+bud_e1_gov_supported_invest_2025,sec_federal,2025,6962000000,,,budgeted,src_kamer_expose_sr_invest_2026,strong,Table40 gov-supported invest 6962m 2025 (1.1pct GDP); tick536
+bud_dual_sr_fedasil_return,gg_belgium,2026,1100000,,,derived,src_dual_sr_fedasil_return_tick536,strong,Dual Fedasil open-centre SR + return closed-centre path; not additive TE; tick536

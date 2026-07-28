@@ -6461,3 +6461,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +9; cmt +2; lb +7; FOI **gap_tact_digital_kpi_l5** ready+draft; raw PDF+press+synth; rq_526=done spawn **rq_527**; ticks=535
 - FOI opened: gap_tact_digital_kpi_l5 (ready, human send) — not sent
 - Next: prio5 **rq_527**; deferred **rq_116** SWA
+
+### 2026-07-29T08:00:00Z - tick 536
+- Unit: **rq_527** (FOI-adjacent hole-fill — **Kamer exposé 2026 spending reviews + Entity I invest Table40**)
+- Found (strong primary DOC 56 1278/001 §4–§5):
+  - **WASO postal SR:** credits **€430k (2024) → €50k (2026)**; federal recurrent save band **€15–67.5m** (eBox invest not netted)
+  - **Fedasil open centres SR:** flexible specialist model potential **€1.1m/yr**; CM 3 Oct 2025 action plan path
+  - **Return / closed centres:** CM Feb 2025 efficiency path to **€150m by 2029**; linear **1.8%** opex+personnel; SR 2026 in progress
+  - **SR programme list** 2021-24: telework, BV remittance, care, Belspo, nuclear passif, cyber, asylum, justice costs, R&D aid, subsidies inventory
+  - **2026 SRs in progress:** closed centres; fossil subsidies phase-out; EIWT O&O/overtime/night-shift
+  - **Table40 Entity I invest 2026:** direct **€5,174m** · GCF ESA **€6,612m** · NMBS aid **€1,094m** · gov-supported **€7,706m (1.2% GDP)**; path 2025-29 to **€8,344m**
+- Wrote: sources +2; budgets +12; cmt +3; lb +7; FOI **gap_sr_save_delivery_l5** ready+draft; rq_527=done spawn **rq_528**; ticks=536
+- FOI opened: gap_sr_save_delivery_l5 (ready, human send) — not sent
+- Next: prio5 **rq_528**; deferred **rq_116** SWA
