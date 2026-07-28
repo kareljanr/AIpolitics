@@ -4768,3 +4768,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +1; budgets ~7 unit rows; cmt +1; lb +8; raw PDF; rq_404=done; spawn **rq_405**; ticks=413
 - FOI: none new (public complete for sim indicators; residual unsimulated measures when modalities fixed)
 - Next: prio5 **rq_405**; deferred **rq_116** SWA
+
+### 2026-08-01T21:45:00Z - tick 414
+- Unit: **rq_405** (FOI-adjacent hole-fill - **NBB/NAI COFOG 2024 full function map Table1**)
+- Found (strong primary press 17 Dec 2025 + Table1 mEUR):
+  - **TE 335.288bn** 2024 (dual EDP 335.1bn class)
+  - **Social protection 126.541bn (37.7%)** — old age/survivors **71.792** · sick/dis **24.255** · unemp **6.575** · other **23.919**
+  - **Health 49.580bn (14.8%)** · **GPS 44.306** (interest **14.476** 4.3% rebound from 3.2% 2022) · **econ 39.854** · **edu 39.284**
+  - **Defence 7.946bn (2.4% TE)** highest share 20y; **1.3% GDP** both NATO cash and COFOG after F-35 delivery spike
+  - Order/safety 10.648 · culture 7.552 · env 7.176 · housing 2.401
+  - Unemp share **halved in 20y** (5.3%→2.0%); sick/dis **5.0%→7.2%**; pens **18.4%→21.4%**
+- Wrote: sources +1; budgets +17; cmt +1; lb +8; raw PDF; FOI gap_defence note; rq_405=done; spawn **rq_406**; ticks=414
+- FOI: no new gap (function L1 complete); residual L5 + defence signed cash still ready human send
+- Next: prio5 **rq_406**; deferred **rq_116** SWA
