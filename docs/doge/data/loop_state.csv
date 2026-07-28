@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T22:15:00Z,rq_454,463,no,Scheduler 60s. Next prio5 rq_455; rq_116 SWA deferred. tick463 NL definitive 240m.
+main,continuous,hole_fill,2026-08-02T22:45:00Z,rq_455,464,no,Scheduler 60s. Next prio5 rq_456; rq_116 SWA deferred. tick464 LOV2030 dual 72.5m.

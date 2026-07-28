@@ -5445,3 +5445,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+28); entities (europalia cinematek pro_league); cmt; leaderboard (+5 update); foi gap_nl_prestige_l5 ready + draft; rq_454=done rq_455=open; ticks=463
 - FOI opened: gap_nl_prestige_l5 (ready, human send)
 - Next: rq_455 (prestige FOI-adjacent public scraps / LOV2030 dual / definitive multi-year notes); rq_116 SWA deferred
+
+### 2026-08-02T22:45:00Z — tick 464
+- Unit: rq_455 (LOV2030 dual bidbook + NL definitive)
+- Found: **Strong dual LOV2030.** Final bidbook ECoC: total operating **€72.5m** = EU **1.5** + federal via NL **15** (3m×5 2026-30, CM 17 May 2024) + Flanders **30** + province **3** + city Leuven **10** (council 26 May 2025) + region mun **3** + private ambition **10** (medium). Artistic **€47.12m**. Dual NL definitive plan 2025 line **€10.5m** (front-load vs bidbook 3m/yr from 2026 — residual FOI cash schedule).
+- Wrote: sources (+2); budgets (+11); entity lov2030; cmt; leaderboard (+5 update); foi gap_lov2030_cash_schedule ready+draft; rq_455=done rq_456=open; ticks=464
+- FOI opened: gap_lov2030_cash_schedule (ready, human send)
+- Next: rq_456 (Pro League dual / Art5 residual public / definitive multi-year notes); rq_116 SWA deferred

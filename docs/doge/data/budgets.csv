@@ -8221,3 +8221,15 @@ bud_nloterij_myria_def_2025,myria,2025,1077174,,,budget,src_nloterij_kb_definiti
 bud_nloterij_boic_def_2025,boic,2025,2000000,,,budget,src_nloterij_kb_definitief_2025,strong,BOIC werking definitive 2.0m confirmed; tick463
 bud_nloterij_reading_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,Leesbevordering + financial literacy 1.5m definitive Art5 sub residual; tick463
 bud_nloterij_chinese_pavilion_def_2025,nationale_loterij,2025,500000,,,budget,src_nloterij_kb_definitief_2025,strong,Histoire des Belges 2030 Chinese Pavilion 0.5m multi-year to 2031; tick463
+
+bud_lov2030_total_72_5m,lov2030,2030,72500000,,,budgeted,src_lov2030_bidbook_final,strong,LOV2030 total operating budget 72.5m confirmed bidbook (to 2033 growth path); tick464
+bud_lov2030_federal_nl_15m,lov2030,2030,15000000,,,budgeted,src_lov2030_bidbook_final,strong,Federal via National Lottery 15m = 3m x5 years 2026-2030 (CM 17 May 2024); dual NL plan 10.5m 2025; tick464
+bud_lov2030_flanders_30m,lov2030,2030,30000000,,,budgeted,src_lov2030_bidbook_final,strong,Flemish government 30m to winning Flemish ECoC city (spring 2024 + confirmed early summer 2025); tick464
+bud_lov2030_city_leuven_10m,lov2030,2030,10000000,,,budgeted,src_lov2030_bidbook_final,strong,City of Leuven 10m (council 26 May 2025 unanimous); tick464
+bud_lov2030_province_3m,lov2030,2030,3000000,,,budgeted,src_lov2030_bidbook_final,strong,Province Vlaams-Brabant 3m match municipalities + own events (Deputation 26 Jun 2025); tick464
+bud_lov2030_region_mun_3m,lov2030,2030,3000000,,,budgeted,src_lov2030_bidbook_final,strong,30 municipalities region min 6 EUR/inhabitant 2025-2033 sum 3m table; tick464
+bud_lov2030_eu_1_5m,lov2030,2030,1500000,,,budgeted,src_lov2030_bidbook_final,strong,EU operating income total 1.5m bidbook table (Melina Mercouri class); tick464
+bud_lov2030_private_ambition_10m,lov2030,2030,10000000,,,budgeted,src_lov2030_bidbook_final,medium,Private sponsors ambition 10m (7.5 fundraising + 2.5 ticketing/CCI); not cash committed; tick464
+bud_lov2030_artistic_47_12m,lov2030,2030,47120000,,,budgeted,src_lov2030_bidbook_final,strong,Total artistic budget 47.12m within 72.5m operating; tick464
+bud_lov2030_nl_plan_vs_bid_recon,lov2030,2025,10500000,,,recon,src_lov2030_dual_recon_tick464,strong,NL definitive 2025 line 10.5m vs bidbook annual 3m from 2026; front-load or multi-year booking residual FOI; tick464
+bud_lov2030_public_stack_ex_private,lov2030,2030,62500000,,,derived,src_lov2030_bidbook_final,strong,Public stack 72.5-10 private = 62.5m (EU1.5+fed15+VL30+prov3+city10+reg3); tick464
