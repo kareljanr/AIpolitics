@@ -57,7 +57,8 @@ Append-only. Newest ticks at bottom.
 - Scraped https://www.smaakhaven.be/nl/ambitie (+ tijdlijn, gebouw).
 - Full steelman, claim-by-claim audit, ROI/break-even, options A–F, capture.
 - **Scores unchanged** (8.0 / 1.5 / -6.5); analysis_version=2.
-- Sources added: src_smaakhaven_ambitie, tijdlijn, gebouw.
+- Sources added: src_smaakhaven_ambitie, tijdlijn, gebouw.
+
 
 ---
 
@@ -67,7 +68,8 @@ Append-only. Newest ticks at bottom.
 - New doctrine TAXPAYER_UNIT.md: Belasting-FTE + Nettoloon-jaren (two different denominators).
 - Unit: avg single FT employee labour tax ~€19.4k/yr; net ~€29.5k (Statbel gross + OECD TW 2025).
 - Schema/template/skill/LOOP/export updated; future analyses must hit depth + pain.
-- Pain filled where € known; blank for unquantified (UI, CGT, centenindex, hybrid delta).
+- Pain filled where € known; blank for unquantified (UI, CGT, centenindex, hybrid delta).
+
 
 ---
 
@@ -77,7 +79,8 @@ Append-only. Newest ticks at bottom.
 - Fire: run_pipeline RSS when possible + one LOOP unit + commit/push.
 - fire_immediately=false (first run after ~24h).
 - Radar system already on main (Werkminuten + 10 v2 memos). This commit documents scheduler only.
-- Pause: loop_state paused=yes and/or scheduler_delete 019fa3e112ab.
+- Pause: loop_state paused=yes and/or scheduler_delete 019fa3e112ab.
+
 
 ---
 
@@ -88,7 +91,8 @@ Append-only. Newest ticks at bottom.
 - Scores: clown 5.5 / genius 3.5 / index -2.0 / amend.
 - Pain ceiling: 6134 Belasting-FTE / 4034 nettoloon-jaren / 50 werkminuten per employee.
 - Not pure clown (real plant, conditionality); not genius (no structural fix; exit-threat aid; BE auto history).
-- Commit radar paths only.
+- Commit radar paths only.
+
 
 
 ---
@@ -125,5 +129,44 @@ Real energy-price problem; instrument is temporary complex employer tax credit w
 1. ing_2e3d500c89 — Jambon fraudeplan delayed (EUR 300m revenue claim) prio 7
 2. ing_9298c20c68 — Van Bossuyt voluntary return premium prio 7
 3. ing_5541d28301 / ing_e9d812276c — admin lasagne / doofpotdecreet prio 6
+
+Scheduler 019fa3e112ab still daily.
+
+
+---
+
+## 2026-07-29T14:30Z — tick 4 — analyse prop_2026_jambon_antifraud_300m
+
+### Unit
+nalyse — federal antifraud revenue path (EUR 300m/2026, >1.2bn legislature, 300 investigators); plan delayed.
+
+### Ingest
+- Ran 
+un_pipeline.py: 110 RSS entries, +7 enqueued (4 dupes).
+- Promoted ing_2e3d500c89 -> scored.
+- Rejected noise (non-BE robots, FR wildfire dups, local swim ban, personality profile).
+
+### Scores
+| Field | Value |
+|-------|------:|
+| clownpoints | 6.0 |
+| genius_score | 4.0 |
+| policy_index | -2.0 |
+| recommendation | amend |
+| pain | blank (unverified revenue claim) |
+
+### Why
+Right problem (tax gap); wrong packaging: book 300m while comprehensive plan delayed, IF doubted draft yield, BBI yield press-down. Hard amend: fund capacity + unbook fantasy until lawed.
+
+### Writes
+- analyses/prop_2026_jambon_antifraud_300m.md
+- proposals.csv (+1 to 13), sources, score_history, ingest, loop_state
+- public leaderboards refreshed
+
+### Next queue head (open, priority)
+1. ing_9298c20c68 — Van Bossuyt voluntary return premium prio 7
+2. ing_5541d28301 — administrative lasagne op-ed prio 6
+3. ing_e9d812276c — doofpotdecreet prio 6
+4. ing_d2bf2bb637 — De Ridder IF advices prio 6 (possible DOGE-adjacent)
 
 Scheduler 019fa3e112ab still daily.
