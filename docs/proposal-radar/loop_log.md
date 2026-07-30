@@ -170,3 +170,41 @@ Right problem (tax gap); wrong packaging: book 300m while comprehensive plan del
 4. ing_d2bf2bb637 — De Ridder IF advices prio 6 (possible DOGE-adjacent)
 
 Scheduler 019fa3e112ab still daily.
+
+
+---
+
+## 2026-07-30T14:30Z — tick 5 — analyse prop_2026_vanbossuyt_return_reintegration
+
+### Unit
+nalyse — Fedasil/Van Bossuyt 2026 degressive voluntary-return reintegration reform (Syria priority; cut Brazil/Moldova/Balkan support).
+
+### Ingest
+- Ran 
+un_pipeline.py: 110 entries, +2 enqueued (5 dupes).
+- Promoted ing_9298c20c68 -> scored.
+- Rejected noise (travel tips, local shop hours, De Lijn ops note).
+
+### Scores
+| Field | Value |
+|-------|------:|
+| clownpoints | 3.0 |
+| genius_score | 6.5 |
+| policy_index | +3.5 |
+| recommendation | support |
+| pain | blank aggregate (unit ~5k; EU co-finance) |
+
+### Why
+Mechanism-aware: earlier exit = higher top-up; stop paying reintegration to visa-free misuse destinations; primary Fedasil PDF. Residual: elasticity and deadweight unproven.
+
+### Writes
+- analyses/prop_2026_vanbossuyt_return_reintegration.md
+- proposals (+1 = 14), sources, history, ingest, state, leaderboards
+
+### Next queue head
+1. ing_5541d28301 — admin lasagne prio 6
+2. ing_e9d812276c — doofpotdecreet prio 6
+3. ing_d2bf2bb637 — De Ridder IF advices / secret dadies prio 6
+4. ing_ddd0a86892 — Free-Time vzw subsidies prio 6 (DOGE-adjacent)
+
+Scheduler 019fa3e112ab still daily.

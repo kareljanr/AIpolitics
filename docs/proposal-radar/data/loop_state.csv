@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-07-29T14:30:00Z,prop_2026_jambon_antifraud_300m,4,13,no,tick 4 scored Jambon antifraud 300m; daily scheduler 019fa3e112ab
+main,analyse,2026-07-30T14:30:00Z,prop_2026_vanbossuyt_return_reintegration,5,14,no,tick 5 scored Van Bossuyt return reintegration; daily scheduler 019fa3e112ab

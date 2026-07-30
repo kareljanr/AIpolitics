@@ -1,7 +1,7 @@
 # Clowns & Genius — weekly pack
 
-Auto-generated 2026-07-29 14:03 UTC.
-Scored proposals in pack universe: **13**.
+Auto-generated 2026-07-30 14:03 UTC.
+Scored proposals in pack universe: **14**.
 
 ## This week’s clowns
 
@@ -15,7 +15,7 @@ Scored proposals in pack universe: **13**.
 
 - **Time-limit unemployment benefits (Arizona)** — clown 2.0 / genius 7.5 (index 5.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2025_unemp_time_limit.md)
 - **Phase-out tax deductibility of fossil company cars from 2026** — clown 1.5 / genius 7.0 (index 5.5) · **-43814.4 Belasting-FTE** / -28813.6 nettoloon-jaren / **-359.46 werkminuten**/werknemer — Federal legislator (2021 greening law) · federal · [memo](../analyses/prop_2021_company_car_ice_2026.md)
-- **Centenindex: temporary limit on automatic wage/pension indexation** — clown 3.0 / genius 6.0 (index 3.0) — Federal programme law + Flemish implementation · multi · [memo](../analyses/prop_2026_centenindex.md)
+- **Degressive voluntary-return reintegration support (Syria priority; cut visa-free misuse)** — clown 3.0 / genius 6.5 (index 3.5) — Anneleen Van Bossuyt / Fedasil · federal · [memo](../analyses/prop_2026_vanbossuyt_return_reintegration.md)
 
 ## Mixed but fixable
 
