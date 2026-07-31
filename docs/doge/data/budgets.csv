@@ -11014,3 +11014,28 @@ bud_imec_rem_ss_liab_2025,imec,2025,109125537,,,outturn,src_imec_consol_fs_2025,
 bud_imec_turnover_2024,imec,2024,753305444,,,outturn,src_imec_consol_fs_2025,strong,imec consol turnover 753.305m 2024; tick594
 bud_imec_op_income_2024,imec,2024,1033929273,,,outturn,src_imec_consol_fs_2025,strong,imec consol operating income 1033.929m 2024; tick594
 bud_imec_gain_2024,imec,2024,57306403,,,outturn,src_imec_consol_fs_2025,strong,imec consol gain 57.306m 2024; tick594
+bud_vib_op_income_2024,vib,2024,168830000,,,outturn,src_vib_ar_2024,strong,VIB operating income 168.830m 2024 (vs 156.174m 2023); tick595
+bud_vib_contract_rev_2024,vib,2024,44050000,,,outturn,src_vib_ar_2024,strong,VIB contract research revenue 44.050m 2024; tick595
+bud_vib_grants_2024,vib,2024,122852000,,,outturn,src_vib_ar_2024,strong,VIB grants and subsidies 122.852m 2024 (vs 113.687m 2023); tick595
+bud_vib_other_op_income_2024,vib,2024,1943000,,,outturn,src_vib_ar_2024,strong,VIB other operating income 1.943m 2024; tick595
+bud_vib_op_expenses_2024,vib,2024,167795000,,,outturn,src_vib_ar_2024,strong,VIB operating expenses 167.795m 2024; tick595
+bud_vib_personnel_2024,vib,2024,92884000,,,outturn,src_vib_ar_2024,strong,VIB remuneration SS pensions 92.884m 2024 (vs 83.348m 2023); tick595
+bud_vib_services_2024,vib,2024,45843000,,,outturn,src_vib_ar_2024,strong,VIB miscellaneous services goods 45.843m 2024; tick595
+bud_vib_materials_2024,vib,2024,13513000,,,outturn,src_vib_ar_2024,strong,VIB raw materials consumables 13.513m 2024; tick595
+bud_vib_depreciation_2024,vib,2024,12927000,,,outturn,src_vib_ar_2024,strong,VIB depreciation 12.927m 2024; tick595
+bud_vib_profit_2024,vib,2024,2676000,,,outturn,src_vib_ar_2024,strong,VIB profit for year 2.676m 2024 (vs 6.097m 2023); tick595
+bud_vib_fin_income_2024,vib,2024,2017000,,,outturn,src_vib_ar_2024,strong,VIB financial income 2.017m 2024; tick595
+bud_vib_assets_2024,vib,2024,309061000,,,outturn,src_vib_ar_2024,strong,VIB total assets 309.061m 31/12/2024; tick595
+bud_vib_tangible_2024,vib,2024,32512000,,,outturn,src_vib_ar_2024,strong,VIB tangible fixed assets 32.512m 2024; tick595
+bud_vib_fin_assets_2024,vib,2024,56658000,,,outturn,src_vib_ar_2024,strong,VIB financial fixed assets 56.658m 2024; tick595
+bud_vib_investments_2024,vib,2024,175186000,,,outturn,src_vib_ar_2024,strong,VIB investments 175.186m 2024; tick595
+bud_vib_cash_2024,vib,2024,7167000,,,outturn,src_vib_ar_2024,strong,VIB cash 7.167m 2024; tick595
+bud_vib_allocated_funds_2024,vib,2024,124490000,,,outturn,src_vib_ar_2024,strong,VIB allocated funds 124.490m 2024; tick595
+bud_vib_invest_grants_2024,vib,2024,36624000,,,outturn,src_vib_ar_2024,strong,VIB investment grants 36.624m 2024; tick595
+bud_vib_st_payable_2024,vib,2024,69678000,,,outturn,src_vib_ar_2024,strong,VIB amounts payable within 1 year 69.678m 2024; tick595
+bud_vib_lt_payable_2024,vib,2024,12380000,,,outturn,src_vib_ar_2024,strong,VIB amounts payable after 1 year 12.380m 2024; tick595
+bud_vib_industrial_income_2024,vib,2024,27100000,,,outturn,src_vib_ar_2024,strong,VIB total industrial income 27.1m 2024 (AR nutshell); tick595
+bud_vib_op_income_2023,vib,2023,156174000,,,outturn,src_vib_ar_2024,strong,VIB operating income 156.174m 2023; tick595
+bud_vib_grants_2023,vib,2023,113687000,,,outturn,src_vib_ar_2024,strong,VIB grants subsidies 113.687m 2023; tick595
+bud_vib_personnel_2023,vib,2023,83348000,,,outturn,src_vib_ar_2024,strong,VIB personnel 83.348m 2023; tick595
+bud_vib_fte_2024,vib,2024,0,,,outturn,src_vib_ar_2024,strong,VIB 1900 FTEs 2024 nutshell; not EUR; tick595

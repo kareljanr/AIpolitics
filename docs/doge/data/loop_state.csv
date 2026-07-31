@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T14:15:00Z,rq_585,594,no,tick594 imec consol op income 1.22bn dual VITO SOC; next rq_586; progress@600 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T14:30:00Z,rq_586,595,no,tick595 VIB op income 169m dual imec VITO SOC; next rq_587; progress@600 in 5; rq_116 deferred

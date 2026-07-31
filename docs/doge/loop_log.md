@@ -7235,3 +7235,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+imec); budgets (+28); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_imec_vl_toelage_l5_2025; rq_585=done; spawn rq_586; loop_state ticks=594
 - FOI opened: gap_imec_vl_toelage_l5_2025 → ready (not sent)
 - Next: rq_586; progress@600 in 6 ticks; rq_116 deferred
+
+### 2026-07-31T14:30:00Z — tick 595
+- Unit: rq_586 (FOI-adjacent dual Flanders SOC hole-fill — **VIB** dual imec/VITO)
+- Found: **VIB** Annual Report 2024 (primary PDF). **Op income €168.830m** (grants **€122.852m** · contract **€44.050m**); op exp **€167.795m**; personnel **€92.884m**; **profit €2.676m**. **Assets €309.061m** (investments **€175.186m** · allocated funds **€124.490m** · cash **€7.167m**). Industrial income **€27.1m**; **1,900 FTE**. Dual SOC trio with **imec** 1.22bn / **VITO** 297m. Strong confidence.
+- Wrote: entities (+vib); budgets (+25); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_vib_vl_grant_l5_2024; rq_586=done; spawn rq_587; loop_state ticks=595
+- FOI opened: gap_vib_vl_grant_l5_2024 → ready (not sent)
+- Next: rq_587; progress@600 in 5 ticks; rq_116 deferred
