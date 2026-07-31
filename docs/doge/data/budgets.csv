@@ -15530,3 +15530,38 @@ bud_regie_transit_incentives_tot,regie_gebouwen,2026,11514440,,,commitment,src_k
 bud_regie_transit_incentives_2026,regie_gebouwen,2026,2483728,,,budgeted,src_kamer_regie_invest_tick752,strong,Transit incentives 2483728 2026; tick752
 bud_dual_regie_invest_dbfm_2026,gg_belgium,2026,309904000,,,derived,src_dual_regie_invest_mp3_tick752,strong,Dual Regie invest dots 177m + DBFM alt 103m class ~280m not additive with Justice redev; tick752
 bud_dual_mp3_classic_vs_dbfm,gg_belgium,2026,155600000,,,derived,src_dual_regie_invest_mp3_tick752,strong,Dual classic MP3 Merksplas 155.6m vs DBFM prisons 3.83bn/25y class; tick752
+bud_vaph_rec_total_bu_2025,vaph,2025,2810173000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,VAPH total receipts BU 2810173000 EUR 2025; tick753
+bud_vaph_rec_total_bajr_2025,vaph,2025,2805762000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,VAPH total receipts BA-JR 2805762000 2025; tick753
+bud_vaph_toelage_oi_2025,vaph,2025,2762041000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Toelagen OI 2762041000 BA-JR=BU 2025; tick753
+bud_vaph_esr_own_rec_bu_2025,vaph,2025,25067000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,ESR own receipts OW BU 25067000 2025; tick753
+bud_vaph_other_rec_bu_2025,vaph,2025,23065000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Other OL/OP receipts BU 23065000 2025; tick753
+bud_vaph_rec_overrun_4_411m_2025,vaph,2025,4411000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Receipts overrun +4411000 (100.16pct exec) mainly subrogation +3914k; tick753
+bud_vaph_subrogation_extra_2025,vaph,2025,3914000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Legal subrogation extra +3914000 receipts; tick753
+bud_vaph_provider_recoveries_extra_2025,vaph,2025,1789000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Provider prior-year recoveries extra +1789000; tick753
+bud_vaph_pab_recoveries_short_2025,vaph,2025,-1172000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,PAB client recoveries shortfall -1172000; tick753
+bud_vaph_exp_vek_bu_2025,vaph,2025,2753213000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Total VEK BU exp 2753213000 2025; tick753
+bud_vaph_exp_esr_vek_bu_2025,vaph,2025,2735733000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,ESR VEK BU exp 2735733000 2025; tick753
+bud_vaph_exp_other_vek_bu_2025,vaph,2025,17480000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Other LE/PA VEK BU 17480000 2025; tick753
+bud_vaph_exp_vak_bu_2025,vaph,2025,3050788000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Total VAK BU 3050788000 2025; tick753
+bud_vaph_exp_esr_vek_bajr_2025,vaph,2025,2764237000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,ESR VEK BA-JR 2764237000 2025; tick753
+bud_vaph_undexec_vek_52_549m_2025,vaph,2025,52549000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,VEK under-execution 52549000 (98.13pct exec); tick753
+bud_vaph_undexec_esr_exp_28_504m_2025,vaph,2025,28504000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,ESR-only exp under-execution 28504000; tick753
+bud_vaph_undexec_vak_10_826m_2025,vaph,2025,10826000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,VAK under-execution 10826000 (99.65pct); tick753
+bud_vaph_undexec_non_esr_24_045m_2025,vaph,2025,24045000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Non-ESR under-exec 24045000 (advances 7.551 + planned carry 16.504); tick753
+bud_vaph_pvb_pab_advances_und_7_551m,vaph,2025,7551000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Lower recoverable PVB/PAB advances 7551000; tick753
+bud_vaph_planned_carry_2025,vaph,2025,16504000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,Budgeted year-end carry 16504000 2025; tick753
+bud_vaph_actual_carry_eoy2024,vaph,2024,16634000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Actual carry-in eoy2024 16634000 in 2025 receipts; tick753
+bud_vaph_budget_result_56_960m_2025,vaph,2025,56960000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Budgetary result +56960000 (rec 2810.173 - exp 2753.213); tick753
+bud_vaph_result_vs_plan_40_456m,vaph,2025,40456000,,,outturn,src_vl_bbt_wvg_vaph_residual_tick753,strong,Result 40.456m better than planned (4.411 more rec + 36.045 less spend); tick753
+bud_vaph_bajr_adjust_vak_45_786m,vaph,2025,45786000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,BA to BA-JR ESR VAK adjust +45786000 2025; tick753
+bud_vaph_bajr_adjust_vek_41_669m,vaph,2025,41669000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,BA to BA-JR ESR VEK adjust +41669000 2025; tick753
+bud_vaph_rth_credit_116_8m_2025,vaph,2025,116800000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,RTH credit 116800000 of which 20m pilot reserve 2025; tick753
+bud_vaph_rth_pilot_reserve_20m_2025,vaph,2025,20000000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,RTH pilot reserve 20000000 of 116.8m; tick753
+bud_vaph_expansion_policy_102_4m_2025,vaph,2025,102400000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,Expansion policy perspective 102400000 on GH0-AGGF2RD-WT 2025; tick753
+bud_vaph_complex_10m_2025,vaph,2025,10000000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,Complex support needs 10000000 on AGGF2RD-WT 2025; tick753
+bud_vaph_dubbeldiagnose_940k_2025,vaph,2025,940000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,Dubbeldiagnose projects 940000 on AGGF2RE-WT 2025; tick753
+bud_vaph_index_toelage_vak_45_789k,vaph,2025,45789000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,Working toelage +45789000 VAK index after BA2025; tick753
+bud_vaph_index_toelage_vek_41_672k,vaph,2025,41672000,,,budgeted,src_vl_bbt_wvg_vaph_residual_tick753,strong,Working toelage +41672000 VEK index after BA2025; tick753
+bud_dual_vaph_aviq_handicap_2025,gg_belgium,2025,2753213000,,,derived,src_dual_vaph_aviq_tick753,strong,Dual VAPH exp 2.753bn 2025 vs AViQ handicap class 1.012bn RA2024 not additive; tick753
+bud_dual_vaph_aviq_agency_scale,gg_belgium,2025,2810173000,,,derived,src_dual_vaph_aviq_tick753,strong,Dual VAPH rec 2.810bn vs AViQ total 7.155bn Entity II social scale; tick753
+bud_dual_vaph_surplus_vs_aviq_rembours,gg_belgium,2025,56960000,,,derived,src_dual_vaph_aviq_tick753,strong,Dual VAPH +57m budget result vs AViQ rembours 352.6m reverse transfer different mechanism; tick753

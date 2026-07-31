@@ -8984,3 +8984,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_regie_invest_mp3_l5 — ready prio8 (not sent)
 - Next: rq_744; progress@760 in 8; rq_116 deferred
 
+
+### 2026-08-02T13:45:00Z — tick 753
+- Unit: **rq_744** (FOI-adjacent residual dual — **VAPH agency 2025 outturn residual dual AViQ Entity II**)
+- Found (primary BBT WVG BU2025 VAPH residual deepen vs tick374 aggregates):
+  - **Agency 2025:** receipts **€2,810.173m** (toelage **€2,762.041m** + own/other) · VEK exp **€2,753.213m** (ESR **€2,735.733m**) · VAK **€3,050.788m**
+  - **Result +€56.960m**; **€40.456m** better than plan (more rec **€4.411m** + less spend **€36.045m**)
+  - **Under-execution VEK €52.549m** (98.13%); ESR-only **€28.504m**; non-ESR **€24.045m** (advances **€7.551m** + planned carry **€16.504m**)
+  - **RTH €116.8m** of which pilot reserve **€20m**; expansion perspective **€102.4m** (AGGF2RD); complex **€10m**; dubbeldiagnose **€0.94m**
+  - Dual AViQ RA2024 handicap **€1.012bn** / total **€7.155bn** not TE-additive; surplus mechanism differs from AViQ rembours **€352.6m**
+- Wrote: budgets (+35); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vaph_agency_2025_residual_l5**; rq_744=done; spawn **rq_745**; ticks=753
+- FOI opened: gap_vaph_agency_2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_745; progress@760 in 7; rq_116 deferred
+
