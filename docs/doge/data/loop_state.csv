@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T14:00:00Z,rq_680,689,no,tick689 VL T8 ruiter 1415 BAC-RRI chain Oosterweel VAK2514 dual; next rq_681 PROGRESS@690; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T14:15:00Z,rq_681,690,no,tick690 progress@690 coverage+waste top10; dual residual wave 681-689; next rq_682; rq_116 deferred

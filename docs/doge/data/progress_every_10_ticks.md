@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 690** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual residual wave 681–689: primary cells **€92.05bn** · Justice **€2.925bn** · Fedasil pack **€848m** · defence multi-year **€17.3bn** / NATO **€13.25bn** · POD MI OCMW **€2.309bn** · RVA unemp **€4.836bn** · De Lijn path · VL efficiëntere overheid **€120m** · fonds T9 end **€856.5m** · ruiter carry **€1.415bn** / beleid VAK **€67.8bn** · prior SS **€148bn** / nonfiscal **€7.83bn** retained |
+| **D. L5 named / measure end-lines** | **~49-62%** of TE (generous) | **Gain 680→690 is FOI-adjacent dual residual (not near-complete of 348bn):** Justice prison provis stack **€259+50+44+546m** specialty · Fedasil save gap **€61.2m** · GIP shortfall **€82.4m** / Lantis overkap path · NATO asset optim **€3.17bn** unbooked · leefloon soft save **€13.1m** dead / unemp→leefloon **31.9%** · De Lijn rev/toelage wedge · efficiëntere overheid tranche **€79.5+40.5m** Digisprong mask **−11.8** · return **€75m** untrackable / medical **−€12m** · mantelzorg unbudgeted **~€1.6m** · Klimaat deficit **~€54m** / Energie desaffect **56.2 vs 46.2** · BAC–RRI chain **€55.5→35.7m** · Oosterweel VAK **+€2.514bn** · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~432** drafts ready | Human send only; answered **~9**; total FOI rows **~443** (+ primary cells/Justice · GIP/Lantis/overkap · defence/NATO · POD MI leefloon · De Lijn/RVA · efficiëntere overheid · return/mantelzorg · fonds deep · ruiter T8 · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** (commitment space not pure TE) · **Oosterweel VAK stock** · **fonds stocks WAL** · UAP treasury remonte · WE equity **~5bn** · FRR/RePower conditional · **CSF NPE growth caps** · Moody rating actions (not euros).
+
+### Inventory (tick 690)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~13533 |
+| commitments.csv | ~1558 |
+| leaderboard.csv | ~2831 |
+| entities.csv | ~530 |
+| sources.csv | ~1357 |
+| FOI ready | ~432 |
+| FOI answered | ~9 |
+| FOI total rows | ~443 |
+| research_queue open | rq_116 deferred + rq_682 hole-fill after progress |
+
+### What improved since tick 680
+
+- **Fed CoA residual (tick681, 683–684, 687):** primary cells **€92.050bn** · Justice **€2.925bn** + prison/specialty provis stack · Fedasil **€848.2m** save gap **€61.2m** · defence **€17.336bn** / NATO fill **€13.246bn** / asset optim **€3.17bn** unbooked · POD MI OCMW **€2.309bn** soft saves **€13.1m** dead · unemp exclude waves / leefloon inflow **31.9%** · return efficiency **€75m** multi-dept untrackable · medical help **−€12m** attribution opaque · mantelzorg leave+vrijstelling unbudgeted.
+- **VL CoA residual (tick682, 685–686, 688–689):** GIP actualised **€3.685bn** shortfall **€82.4m** · Lantis VAK **€2.479bn** / overkap ruiter path · De Lijn rev/toelage wedge + exploitanten **+€27.1m** / PPS gap **€3.5m** · efficiëntere overheid pack **€120m** (tranche **€79.5** + residual **€40.5** 1:3 staff; Digisprong **−11.8** mask; VDAB **−5.2**) · fonds T9 end **€856.5m** deep (Klimaat deficit **~€54m**; Energie **56.2 vs 46.2**; VV fines **−€34.5m**) · ruiter T8 domain carry **€1.415bn** / VAK **€67.789bn** · BAC–RRI–PMV chain · Oosterweel VAK **+€2.514bn** · Defensiefonds rebook **€500m** · MVP loan VAK **+€350.3m**.
+- **SS dual (tick685):** RVA unemp BC **€4.836bn** (+volume **€287m** / +17 473 full unemp units) dual leefloon/ZIV.
+- **Dual map:** Justice specialty dual VL AJH · Fedasil/return dual POD MI · De Lijn dual OTW · efficiëntere overheid dual fed centenindex · fonds dual WAL stocks · ruiter dual SFPIM/airport holdings.
+
+---
+
 ## Snapshot at **tick 680** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

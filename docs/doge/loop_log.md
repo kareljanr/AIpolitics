@@ -8098,3 +8098,23 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_ba2026_ruiter_t8_l5 — ready (not sent)
 - Next: **rq_681 PROGRESS@690**; rq_116 deferred
 
+
+### 2026-08-01T14:15:00Z — tick 690 (PROGRESS MILESTONE)
+- Unit: **rq_681** (progress@690 + dual residual wave synthesis ticks681–689)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **Fed residual:** primary cells **€92.05bn** · Justice **€2.925bn** + prison/specialty provis · Fedasil **€848m** save gap **€61.2m** · defence **€17.3bn** / NATO **€13.25bn** / asset optim **€3.17bn** unbooked · POD MI OCMW **€2.309bn** soft save **€13.1m** dead · return **€75m** untrackable / medical **−€12m** · mantelzorg unbudgeted stack
+  - **VL residual:** GIP **€3.685bn** shortfall **€82.4m** · Lantis/overkap path · De Lijn rev/toelage wedge · efficiëntere overheid **€120m** (79.5+40.5) · fonds T9 end **€856.5m** (Klimaat deficit **~€54m**; Energie **56.2 vs 46.2**) · ruiter T8 carry **€1.415bn** / VAK **€67.8bn** · BAC–RRI **€55.5→35.7m** · Oosterweel VAK **+€2.514bn**
+  - **SS dual:** RVA unemp **€4.836bn** volume **+€287m** dual leefloon/ZIV
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (primary cells + justice/Fedasil/defence/POD MI/RVA/De Lijn/fonds/ruiter dual)
+  - **D L5:** ~**49-62%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**432** / answered ~**9** / total FOI rows ~**443**
+- Inventory: budgets ~**13533** / cmt ~**1558** / lb ~**2831** / sources ~**1357** / entities ~**530**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30)
+- High-abs + dual NEW 681–689: return 75 untrackable · ruiter 1.4bn opaque · Oosterweel VAK 2.5bn · efficiëntere 120 · Klimaat deficit/surplus wedge · Energie desaffect conflict · BAC–RRI chain
+- Gain 680→690: largest flow dual = primary cells **92bn** + SS unemp **4.84bn** + Fedasil **0.85bn** + efficiëntere **0.12bn**; largest stock/commit = Oosterweel VAK **2.5bn** + ruiter **1.4bn** + fonds **0.86bn** + defence path **17bn**
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_681=done spawn **rq_682**; ticks=690
+- FOI: no new send; wave FOIs already ready (human only)
+- Next: prio5 **rq_682**; deferred **rq_116**; progress@700 in 10 ticks
+
