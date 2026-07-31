@@ -13038,3 +13038,44 @@ bud_pens_reform_save_path_2030_2212m,fpd_pensioenen,2030,2212000000,,,budgeted,s
 bud_pens_gelijkstelling_save_2027_7m,fpd_pensioenen,2027,7000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Gelijkgestelde perioden limit save 7m 2027 (IB 12; older plan 48); 2030 69; tick675
 bud_dual_riziv_care_43_9bn_2026,gg_belgium,2026,43857400000,,,budgeted,src_dual_ss_riziv_ao_tick675,strong,Dual RIZIV care 43.86bn vs VL WVG WZC 2.74 + WAL AViQ 7+ class (not sum); tick675
 bud_dual_ao_14_8bn_2026,gg_belgium,2026,14839400000,,,budgeted,src_dual_ss_riziv_ao_tick675,strong,Dual AO werknemers 14.84bn residual reform slip; tick675
+
+bud_fed_energy_stack_2_6bn_ch4_2026,sec_federal,2026,2600000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,CoA ch4 energy policy ~2.6bn residual tick676 (DG 1.2 + assign funds 1.4); opacity toewijzingsfondsen
+bud_dg_energie_credits_1_2bn_ch4_2026,sec_federal,2026,1200000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,DG Energie FOD Economie credits ~1.2bn of energy stack; CoA ch4 tick676
+bud_energy_assign_funds_1_4bn_2026,sec_federal,2026,1400000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Direct fiscal assign via toewijzingsfondsen to CREG+Elia+NIRAS+Hedera ~1.4bn; CoA opacity; tick676
+bud_elia_assign_total_722_5m_2026,elia,2026,722500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Elia assignment funds total 722.5m (GSC 552.0 + CRM 169.9); CoA ch4 tick676
+bud_elia_gsc_assign_552m_2026,elia,2026,552000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Elia green certificates financing via assignment funds 552.0m 2026; CoA ch4; dual VL GSC; tick676
+bud_elia_crm_assign_169_9m_2026,elia,2026,169900000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Elia CRM capacity remuneration mechanism financing 169.9m 2026 via assignment; CoA ch4 tick676
+bud_creg_social_protected_168_6m_2026,creg,2026,168600000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Fiscal transfers to CREG for social tariff protected clients 168.6m 2026; CoA ch4; residual vs crisis enlargement series; tick676
+bud_niras_passiva_assign_258_6m_ch4_2026,niras,2026,258600000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,CREG->NIRAS assign nuclear passiva Belgoprocess1/2+SCK 258.6m; CoA ch4 residual tick676
+bud_niras_vat_assign_62_5m_2026,niras,2026,62500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,NIRAS VAT on nuclear remediation works/services via assignment 62.5m CoA ch4 (prior expose 29.5m pure VAT T11 - keep both sources); tick676
+bud_hedera_tax_comp_148_7m_ch4_2026,hedera,2026,148700000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Hedera extra funds 148.7m compensating stock/capital gains/securities tax due to State; CoA ch4 tick676
+bud_hedera_phoenix_cap_15bn_class,hedera,2024,15000000000,,,commitment,src_ccrek_fed_aju2026_energy_ch4,strong,Hedera manages Engie Phoenix CAP 15bn nuclear waste financing; CoA ch4 residual class; tick676
+bud_phoenix_cfd_583_6m_ch4_2026,sec_federal,2026,583600000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Phoenix CfD Doel4/Tihange3 583.6m 2026 budgeted; strike price unknown to CoA at close; tick676
+bud_nuclear_decom_contrib_100m_ch4_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Energy sector decommissioning contribution est 100m 2026; method unexplained; ends next year via Phoenix; tick676
+bud_energienorm_249m_ch4_2026,sec_federal,2026,249000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Energienorm law 24 Apr 2026 industry power support 249m (maintains IB credits); CoA ch4 tick676
+bud_fluxys_contrib_100m_ch4_2026,fluxys_belgium,2026,100000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Fluxys exceptional contribution 100m/yr 2026-28 financing/strengthen energienorm; CoA ch4 tick676
+bud_fluxys_contrib_100m_2027,fluxys_belgium,2027,100000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Fluxys exceptional contribution 100m 2027 path; CoA ch4 tick676
+bud_fluxys_contrib_100m_2028,fluxys_belgium,2028,100000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Fluxys exceptional contribution 100m 2028 path; CoA ch4 tick676
+bud_energy_temp_support_20m_ch4_2026,sec_federal,2026,20000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Temp energy support MR 22 Apr 2026 max 20m (CREG 7.5 + Sociaal Stookoliefonds 7.5 + professional travel prov 5); tick676
+bud_temp_support_creg_7_5m_2026,creg,2026,7500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Temp energy support share CREG 7.5m of 20m pack; CoA ch4 tick676
+bud_temp_support_stookolie_7_5m_2026,fonds_social_chauffage,2026,7500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Temp energy support Sociaal Stookoliefonds 7.5m of 20m pack; CoA ch4 tick676
+bud_temp_support_travel_prov_5m_2026,sec_federal,2026,5000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Temp energy support professional travel reimbursement Q2 2026 provision 5m; CoA ch4 tick676
+bud_employer_km_credit_20m_per_mo_2026,sec_federal,2026,20000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Post-conclave employer commute km tax credit claim 20m per month May-Jul 2026; FOD Fin no data; claimed VAT-neutral vs fuel prices; CoA skeptical; tick676
+bud_employer_km_credit_pack_3mo_est_60m_2026,sec_federal,2026,60000000,,,estimate,src_ccrek_fed_aju2026_energy_ch4,medium,Implied 3-month pack if 20m/mo sustained May-Jul = 60m class (gov claim not FOD Fin estimate); tick676
+bud_service_km_forfait_1_7m_per_mo_2026,sec_federal,2026,1700000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Post-conclave forfait service km own-car raise claim 1.7m/month Q2 2026; FOD Fin no data; tick676
+bud_service_km_prov_5m_2026,sec_federal,2026,5000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Service km forfait provision inscribed 5m Q2 2026; CoA ch4/post-conclave; tick676
+bud_taxex_elec_excise_cut_23_3m_2026,sec_federal,2026,23300000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Excise cut electricity households+protected clients -23.3m less receipt 2026; CoA ch4 energiefiscaliteit; tick676
+bud_taxex_demolition_rebuild_vat_124m_2026,sec_federal,2026,124000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,VAT cut demolition+rebuild projects -124m less receipt 2026; CoA ch4; tick676
+bud_taxex_heatpumps_vat_10_1m_2026,sec_federal,2026,10100000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,VAT relief heat pump purchase/install -10.1m less receipt 2026; CoA ch4; dual VL MVP; tick676
+bud_tax_gas_excise_up_21_2m_2026,sec_federal,2026,21200000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Gas excise increase +21.2m receipt 2026; CoA ch4 fossil disincentive; tick676
+bud_tax_heating_oil_excise_up_11_2m_2026,sec_federal,2026,11200000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Heating oil excise increase +11.2m receipt 2026; CoA ch4; tick676
+bud_tax_solid_boiler_vat21_57_5m_2026,sec_federal,2026,57500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,VAT 21pct on solid-fuel boilers +57.5m receipt 2026; CoA ch4; tick676
+bud_tax_coal_vat21_1_2m_2026,sec_federal,2026,1200000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,VAT 21pct on coal +1.2m receipt 2026; CoA ch4; tick676
+bud_energy_tax_pack_net_less_receipt_2026,sec_federal,2026,67500000,,,estimate,src_ccrek_fed_aju2026_energy_ch4,medium,Net tax pack less-receipt approx: (23.3+124+10.1)-(21.2+11.2+57.5+1.2)=67.5m class CoA figures; tick676
+bud_regie_energy_efficiency_4m_2026,regie_gebouwen,2026,4000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Regie der Gebouwen energy efficiency invest (audit+renovation+Repower) 4m 2026; CoA ch4; tick676
+bud_dual_elia_gsc_552m_vs_vl_gsc_2026,gg_belgium,2026,552000000,,,budgeted,src_dual_energy_ch4_tick676,strong,Dual class: fed Elia GSC assign 552m vs VL GSC multi-yr path (not sum TE); tick676
+bud_dual_energy_stack_2_6bn_2026,gg_belgium,2026,2600000000,,,budgeted,src_dual_energy_ch4_tick676,strong,Dual federal energy 2.6bn vs VL VEKA/Energiefonds + WAL energy programmes class; not TE-additive; tick676
+bud_creg_refund_285m_ch4_note_2026,sec_federal,2026,285000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,CREG energy-crisis premium refund +285m sect32 nonfiscal (path up to 412 if suppliers repay); no ESA saldo impact; residual note tick676
+bud_be_nuc_jv_class_phoenix,be_nuc,2026,0,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,medium,Be-NUC 50/50 State-Engie JV for Doel4/Tihange3 LTO; fiscal impact LOI nationalisation unpriced; tick676
+bud_energy_temp_support_creg_share_note,creg,2026,7500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Alias residual CREG 7.5m of Apr22 pack (same as bud_temp_support_creg); tick676
+bud_nuclear_loi_nationalisation_unpriced_2026,sec_federal,2026,0,,,estimate,src_ccrek_fed_aju2026_energy_ch4,weak,LOI 30 Apr 2026 PM+Engie nuclear activities takeover framework; budget impact too uncertain not in aju2026; tick676

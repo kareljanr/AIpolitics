@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T10:30:00Z,rq_666,675,no,tick675 SS exp 148.0bn RIZIV care 43.9bn AO save slip dual; next rq_667; progress@680 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T10:45:00Z,rq_667,676,no,tick676 energy ch4 2.6bn Elia GSC 552 CRM 170 NIRAS 321 tax pack km dual; next rq_668; progress@680 in 4; rq_116 deferred

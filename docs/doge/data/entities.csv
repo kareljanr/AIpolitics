@@ -521,3 +521,5 @@ viapass,Viapass kilometerheffing,Viapass,Road charging operator dual WAL,agency,
 asobv,ASOBV Antwerp Symphony Opera Ballet,ASOBV fusie ASO+OBV,Flanders culture fusion dual FWB culture,agency,vlaanderen_gov,nl,,,CoA BA2026 fusion save 0.8m wages retro 1Jan2026; dual FWB culture; tick671
 vvc_vlaanderen,Vlaams Verwerkingscentrum trajectcontrole,Vlaams Verwerkingscentrum,Flanders fine processing dual fed Crossborder,agency,vlaanderen_gov,nl,,,CoA BA2026 rec plan 50m doubtful; opex cruise 5.9m no VL admin surcharge; tick672
 fpd_pensioenen,Federale Pensioendienst FPD,Service federal des Pensions,Federal Pension Service dual,agency,sec_federal,nl,https://www.sfpd.fgov.be,,,CoA aju2026 MyPension IT +5m; pension reform implementation dual; tick674
+
+be_nuc,Be-NUC,Be-NUC,Be-NUC nuclear JV State+Engie 50/50,parastatal,sec_federal,bi,,,Phoenix LTO Doel4/Tihange3 JV; CoA ch4 tick676

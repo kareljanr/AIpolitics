@@ -7904,3 +7904,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+40); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fed_aju2026_ss_riziv_ao_l5; rq_666=done; spawn rq_667; loop_state ticks=675
 - FOI opened: gap_fed_aju2026_ss_riziv_ao_l5 -- ready (not sent)
 - Next: rq_667; progress@680 in 5 ticks; rq_116 deferred
+
+### 2026-08-01T10:45:00Z — tick 676
+- Unit: **rq_667** (FOI-adjacent dual residual — **federal CoA BA2026 energy ch4 L5 dual VL**)
+- Found (primary CoA 2026_22 §4 Energiebeleid):
+  - **Energy stack ~EUR2.6bn**: DG Energie **1.2bn** + assign funds CREG/Elia/NIRAS/Hedera **1.4bn** (CoA opacity: recommend section 32)
+  - **Elia assign EUR722.5m** = GSC **552.0** + CRM **169.9**
+  - **CREG social protected EUR168.6m**; temp support max **20** (CREG **7.5** + stookolie **7.5** + travel **5**)
+  - **Energienorm 249** + Fluxys **100**/yr **2026–28**; Phoenix **CfD 583.6** strike **unknown**; decom **100** ends next year
+  - **NIRAS passiva 258.6 + VAT 62.5**; Hedera tax-comp **148.7** + CAP **15bn**; LOI nuclear nationalisation **unpriced**
+  - **Energiefiscaliteit:** elec **−23.3** demolition **−124** heatpumps **−10.1** / gas **+21.2** oil **+11.2** solid-boiler **+57.5** coal **+1.2**
+  - **Regie energy eff 4m**; post-conclave employer km **20m/mo** May–Jul (FOD Fin **no data**) + service km **1.7m/mo** prov **5**
+  - Dual VL GSC/VEKA/Energiefonds. Strong CoA; L5 FOI.
+- Wrote: budgets (+40); taxex (+4); commitments (+6); leaderboard (+6); sources (+2); entity be_nuc; FOI draft **gap_fed_aju2026_energy_ch4_l5**; rq_667=done; spawn **rq_668**; loop_state ticks=676
+- FOI opened: gap_fed_aju2026_energy_ch4_l5 — ready (not sent)
+- Next: rq_668; progress@680 in 4 ticks; rq_116 deferred
