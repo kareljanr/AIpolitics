@@ -9147,3 +9147,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +35; commitments +7; leaderboard +7; sources +2; entities fod_emploi; foi_queue gap_emploi_fte_inspection_rva_l5 ready; FOI draft; rq_754=done; rq_755 open; ticks=763
 - FOI opened: gap_emploi_fte_inspection_rva_l5 (ready, not sent)
 - Next: rq_755 SS 1281/013 or public debt 1281/019 residual; progress@770 in 7
+
+### 2026-08-03T00:00:00Z — tick 764
+- Unit: rq_755 (Kamer DOC 56 1281/013 SPF Sociale Zekerheid residual)
+- Found: Primary PDF 56K1281013 (51p; re-downloaded from 244-byte stub). Mega dots+handicap channel **~€30.64bn** 2026: FPD public pensions **€14.584bn** (+488m path); HR-Rail **€1.326bn**; IGO **€1.035bn**; RSZ evenwicht **€5.645bn** (−1.11bn vs 2025 6.751); RSZ globale **€2.666bn**; RSZ OSZ funds **€271m**; RSVZ stack **€1.076bn**; handicap allocations **€3.286bn** (+194m); RIZIV care grant **€488m**; SIGeDIS 4.3 + KCE 1.3; FEDRIS 9.1; OA21 ops core **~€60.7m** (payroll 44.3 eGov/Smals 4.33). Dual Smals residual.
+- Wrote: budgets +35; commitments +9; leaderboard +10; sources +2; entity fod_ss; foi_queue gap_ss_oisz_recon_fte_l5 prio9 ready; FOI draft; rq_755=done; rq_756 open; ticks=764
+- FOI opened: gap_ss_oisz_recon_fte_l5 (ready, not sent)
+- Next: rq_756 public debt 1281/019 or OAP 022/023; progress@770 in 6

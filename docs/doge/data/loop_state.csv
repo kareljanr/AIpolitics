@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T23:00:00Z,rq_754,763,no,tick763 Emploi ops 105.4m payroll 80.7 inspection 49.4 RVA fed 167.7; next rq_755 SS/Debt; progress@770 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T00:00:00Z,rq_755,764,no,tick764 SS mega dots 30.64bn FPD 14.58 RSZ eq 5.65 handicap 3.29; next rq_756 Debt/OAP; progress@770 in 6; rq_116 deferred

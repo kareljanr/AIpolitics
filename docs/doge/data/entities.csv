@@ -542,3 +542,4 @@ fpb,Federaal Planbureau,Bureau federal du Plan,Federal Planning Bureau,agency,se
 kik,Koninklijk Instituut voor het Kunstpatrimonium KIK,Institut royal du Patrimoine artistique IRPA,Royal Institute for Cultural Heritage,agency,belspo,bi,https://www.kikirpa.be,,,FSI; tick761
 fpim,Federale Participatie- en Investeringsmaatschappij FPIM,SFPI,Federal Holding and Investment Company,parastatal,fod_finance,bi,https://www.sfpi-fpim.be,,,ops 5.9m 2026; tick762
 fod_emploi,FOD Werkgelegenheid Arbeid en Sociaal Overleg,SPF Emploi Travail et Concertation sociale,FPS Employment Labour and Social Dialogue,ministry,sec_federal,bi,https://emploi.belgique.be,,,Labour inspection SIOD social dialogue; tick763
+fod_ss,FOD Sociale Zekerheid,SPF Securite sociale,FPS Social Security,ministry,sec_federal,bi,https://socialsecurity.belgium.be,,,SS mega dots channel; tick764
