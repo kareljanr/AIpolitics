@@ -13833,3 +13833,20 @@ bud_stib_ppi_cut_964_6m_2026_29,stib,2029,964600000,,,budgeted,src_ccrek_bru_deb
 bud_stib_ppi_gov_2026_485m,stib,2026,485000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,DPR STIB PPI liq path 2026 485 (STIB plan 591.5); tick704
 bud_stib_ppi_operator_2026_591_5m,stib,2026,591500000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,STIB operator PPI plan 2026 591.5; tick704
 bud_dual_entity2_debt_bcr_16_1bn_2025,gg_belgium,2025,16100000000,,,outturn,src_dual_entity2_debt_ratings_tick704,strong,Dual BCR consol 16.1 vs VL57 WAL33 FWB16; not TE-additive; tick704
+bud_bru_bee_emploi_pack_983_6m_2026,brussels_gov,2026,983600000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,BEE employment credits pack 983.6 (excl subsistence); tick705
+bud_actiris_dot_648_1m_2026,actiris,2026,648100000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Actiris financing 648.1 (-78.2 vs 2025 provisional); dual FOREM/VDAB; tick705
+bud_actiris_path_minus_78_2m_2026,actiris,2026,-78200000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Actiris path -78.2 vs 2025 provisional credits; tick705
+bud_bru_emploi_inclusion_31_6m_2026,brussels_gov,2026,31600000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Emploi inclusion competences liq 31.6 (-1.8); encours 4.0 eoy Mar; tick705
+bud_bru_titres_services_303_8m_2026,brussels_gov,2026,303800000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Titres-services credits 303.8 (CE=CL); dual VL/WAL; tick705
+bud_bru_titres_exec_2025_317_2m,brussels_gov,2025,317200000,,,outturn,src_ccrek_bru_emploi_titres_kanal_2026,strong,Titres-services executed 317.2 2025; 2026 under by 13.4; tick705
+bud_bru_titres_wedge_13_4m_2026,brussels_gov,2026,-13400000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Titres budget vs 2025 exec wedge -13.4; reform effect FOI; tick705
+bud_bru_titres_liq_feb_63m_2026,brussels_gov,2026,63000000,,,outturn,src_ccrek_bru_emploi_titres_kanal_2026,strong,Titres already liquidated >63 by Feb2026; tick705
+bud_bru_titres_price_first300_11_40_2026,brussels_gov,2026,0,,,outturn,src_ccrek_bru_emploi_titres_kanal_2026,strong,Titres price first 300: 10.20 to 11.40 from 1Jan2026; tick705
+bud_bru_titres_price_next200_14_00_2026,brussels_gov,2026,0,,,outturn,src_ccrek_bru_emploi_titres_kanal_2026,strong,Titres price next 200: 12.40 to 14.00 from 1Jan2026; deductibility removed; tick705
+bud_bru_formation_lsf_error_1_9m_2025,brussels_gov,2025,1900000,,,outturn,src_ccrek_bru_emploi_titres_kanal_2026,medium,Bruxelles-Formation LSF-error operating grant 1.9m 2025; CoA no legal basis; tick705
+bud_bru_oaa_net_finance_166_8m_2026,brussels_gov,2026,166800000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,OAA+missions solde net a financer 166.8 (+357.9 vs 2025 budgets); tick705
+bud_kanal_programme_86_7m_2026,brussels_gov,2026,86700000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Kanal programme 86.7 CE=CL of which 60 code8; budget omitted OAA2 list; tick705
+bud_kanal_code8_60m_2026,brussels_gov,2026,60000000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Kanal code8 participation/loan auth 60m dual guarantee; tick705
+bud_paradigm_rec_overstate_9_4m_2026,brussels_gov,2026,9401000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Paradigm rec used in soldes 87.911 vs table 78.510 overstate +9.401; tick705
+bud_dual_titres_bru_304_wal_568_2026,gg_belgium,2026,303800000,,,budgeted,src_dual_titres_pes_tick705,strong,Dual BRU titres 303.8 vs WAL FOREM 568 class; not TE-additive; tick705
+bud_dual_actiris_forem_vdab_2026,gg_belgium,2026,648100000,,,budgeted,src_dual_titres_pes_tick705,strong,Dual Actiris 648.1 vs FOREM 3007 / VDAB residual; not TE-additive; tick705

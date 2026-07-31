@@ -8298,3 +8298,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+20); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_bru_debt_stib_dual_l5**; rq_695=done; spawn **rq_696**; loop_state ticks=704
 - FOI opened: gap_bru_debt_stib_dual_l5 — ready (not sent)
 - Next: rq_696; progress@710 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T18:00:00Z — tick 705
+- Unit: **rq_696** (FOI-adjacent dual residual — **BCR Actiris −78.2 + titres reform 304 + Kanal omit dual PES**)
+- Found (primary CoA 2026_17 §5.4.1 + §6.3–6.4):
+  - BEE emploi pack **983.6**; Actiris **648.1 (−78.2)**; inclusion **31.6**; titres **303.8** (exec2025 **317.2**; Feb liq **>63**)
+  - Reform 1Jan2026: price **11.40/14.00** + fiscal deduct removed
+  - Bruxelles-Formation LSF-error grant **1.9m** 2025 — CoA no legal basis
+  - Kanal budget **omitted** OAA2 despite programme **86.7** (code8 **60**) + guarantee/loan auth **60**
+  - Paradigm rec overstate **+9.401**; OAA net finance solde **166.8**
+  - Dual WAL titres **568** / FOREM Job+ / VL dienstencheques; Strong CoA; L5 FOI.
+- Wrote: budgets (+17); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_bru_emploi_titres_kanal_l5**; rq_696=done; spawn **rq_697**; loop_state ticks=705
+- FOI opened: gap_bru_emploi_titres_kanal_l5 — ready (not sent)
+- Next: rq_697; progress@710 in 5 ticks; rq_116 deferred
