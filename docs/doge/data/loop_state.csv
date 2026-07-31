@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T13:00:00Z,rq_676,685,no,tick685 De Lijn rev/toelage wedge RVA 4.84bn volume dual; next rq_677; progress@690 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T13:15:00Z,rq_677,686,no,tick686 VL efficientere overheid 120m 79.5+40.5 Digi11.8 VDAB5.2 dual centen; next rq_678; progress@690 in 4; rq_116 deferred

@@ -8039,3 +8039,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+33); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_delijn_rva_unemp_l5**; rq_676=done; spawn **rq_677**; loop_state ticks=685
 - FOI opened: gap_vl_delijn_rva_unemp_l5 — ready (not sent)
 - Next: rq_677; progress@690 in 5 ticks; rq_116 deferred
+
+### 2026-08-01T13:15:00Z — tick 686
+- Unit: **rq_677** (FOI-adjacent dual residual — **VL efficiëntere overheid pack deepen + fed centen/justice dual**)
+- Found (primary CoA 2026_28 §2.3 + dual fed 2026_22):
+  - **Pack total EUR120.0m** (IB general efficiency parked FB index provisie); BA first tranche **79.5m** allocated via Voorzitterscollege; residual **40.5m** unallocated
+  - Residual fill: **1:3** outflow replace from **1 Jul 2026** (entity impact **not** worked out in BA)
+  - **Centenindex** provisional VL **17.9m** 2026 / **63.4m** 2027 (CoA underest); unclear if fills 40.5; programmadecreet amend **5 Jun 2026** extends to wage-linked subsidies
+  - **Named L5 (~42.5 of 79.5):** AWV **4.0+1.8**; MOW dept **3.0**; MDK **1.6**; De Lijn **5.5**; DVW **2.5**; Digisprong efficiency **−11.8** (provis **+14.8** mask); KBBZJ werking **4.4** lonen **2.7** (RP unclear); VDAB toelage **−5.2** (silent in algemene toelichting)
+  - Dual: fed E1 centenindex **24m** 2026; Justice efficiency provis **44m** specialty breach (prior tick681)
+  - Strong CoA; residual ~37m of tranche + all 40.5 FOI
+- Wrote: budgets (+18); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_efficient_gov_l5**; rq_677=done; spawn **rq_678**; loop_state ticks=686
+- FOI opened: gap_vl_ba2026_efficient_gov_l5 — ready (not sent)
+- Next: rq_678; progress@690 in 4 ticks; rq_116 deferred
+

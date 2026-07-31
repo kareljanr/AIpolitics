@@ -13431,4 +13431,21 @@ bud_riziv_unemp_inflow_ziv_2027_94_9m,riziv,2027,94900000,,,budgeted,src_ccrek_v
 bud_riziv_unemp_inflow_ziv_2028_99_2m,riziv,2028,99200000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 99.2m 2028; tick685
 bud_riziv_unemp_inflow_ziv_2029_97_5m,riziv,2029,97500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 97.5m 2029; tick685
 bud_dual_delijn_werking_39_4m_2026,gg_belgium,2026,39400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual De Lijn werking +39.4m path vs WAL OTW; tick685
-bud_dual_rva_unemp_4_84bn_2026,gg_belgium,2026,4836400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual RVA unemp 4.84bn vs leefloon spillover; not TE-additive; tick685
+bud_dual_rva_unemp_4_84bn_2026,gg_belgium,2026,4836400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual RVA unemp 4.84bn vs leefloon spillover; not TE-additive; tick685bud_vl_efficient_gov_pack_120m_2026,vlaanderen_gov,2026,120000000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,IB 2026 general efficientere overheid save 120.0m parked FB index provisie; tick686
+bud_vl_efficient_gov_tranche1_79_5m_2026,vlaanderen_gov,2026,79500000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,BA first tranche 79.5m allocated entities via Voorzitterscollege; tick686
+bud_vl_efficient_gov_residual_40_5m_2026,vlaanderen_gov,2026,40500000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Residual 40.5m unallocated; 1:3 staff replace from 1Jul2026; entity impact not in BA; tick686
+bud_vl_centenindex_save_17_9m_2026,vlaanderen_gov,2026,17900000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Provisional VL centenindex save 17.9m 2026 (survey Mar2026); CoA underest; unclear if fills 40.5; tick686
+bud_vl_centenindex_save_63_4m_2027,vlaanderen_gov,2027,63400000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Provisional VL centenindex save 63.4m 2027; tick686
+bud_awv_efficient_werking_lonen_4m_2026,awv,2026,4000000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,AWV efficientere overheid werking+lonen 4.0m; tick686
+bud_awv_efficient_beleid_1_8m_2026,awv,2026,1800000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,AWV efficientere overheid beleid 1.8m; tick686
+bud_awv_efficient_total_5_8m_2026,awv,2026,5800000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,AWV total efficiency 5.8m (4.0+1.8); tick686
+bud_mow_dept_efficient_beleid_3m_2026,vlaanderen_gov,2026,3000000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Departement MOW beleid efficiency 3.0m; tick686
+bud_mdk_efficient_beleid_1_6m_2026,mdk,2026,1600000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,MDK beleid efficiency 1.6m; tick686
+bud_ov_digisprong_efficient_cut_11_8m_2026,vlaanderen_gov,2026,11800000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,OV Digisprong provisie efficiency cut -11.8m (algemene toelichting shows +14.8 not cut); tick686
+bud_ov_digisprong_provis_up_14_8m_2026,vlaanderen_gov,2026,14800000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Digisprong provisie +14.8m BA (masks -11.8 efficiency); tick686
+bud_kbbzj_efficient_werking_4_4m_2026,vlaanderen_gov,2026,4400000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,KBBZJ agencies werking efficiency 4.4m; tick686
+bud_kbbzj_efficient_lonen_2_7m_2026,vlaanderen_gov,2026,2700000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,KBBZJ agencies lonen efficiency 2.7m; tick686
+bud_kbbzj_efficient_total_7_1m_2026,vlaanderen_gov,2026,7100000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,KBBZJ total 7.1m (4.4+2.7); RP impact unclear CoA; tick686
+bud_vdab_efficient_toelage_cut_5_2m_2026,vdab,2026,5200000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,VDAB toelage -5.2m efficientere overheid; algemene toelichting silent; tick686
+bud_vl_efficient_named_sum_42_5m_2026,vlaanderen_gov,2026,42500000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Named L5 sum ~42.5m of 79.5 tranche (AWV5.8 MOW3 MDK1.6 DeLijn5.5 DVW2.5 Digi11.8 KBBZJ7.1 VDAB5.2); residual ~37m domain-opaque; tick686
+bud_dual_efficient_gov_centen_2026,gg_belgium,2026,120000000,,,budgeted,src_dual_efficient_gov_centen_tick686,strong,Dual VL 120m efficiency pack class vs fed centen/justice efficiency; not TE-additive; tick686
