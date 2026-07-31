@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T05:30:00Z,rq_646,655,no,tick655 AViQ branch non-marchand 276m Papy-boom dual VAPH; next rq_647; progress@660 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T05:45:00Z,rq_647,656,no,tick656 119quater UAP 34.4m dual SPW revent 2.36bn specialty; next rq_648; progress@660 in 4; rq_116 deferred

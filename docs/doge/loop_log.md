@@ -7739,3 +7739,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+45); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_aviq_branch_parlement_l5_2025; rq_646=done; spawn rq_647; loop_state ticks=655
 - FOI opened: gap_aviq_branch_parlement_l5_2025 -- ready (not sent)
 - Next: rq_647; progress@660 in 5 ticks; rq_116 deferred
+
+### 2026-08-01T05:45:00Z -- tick 656
+- Unit: rq_647 (FOI-adjacent dual HR/governance hole-fill -- **119quater UAP overcost dual SPW + specialty revent + SR BBZ + annuality**)
+- Found: **UAP 119quater** (primary CoA DO11): rates statutaire **65.2%** vs contractuel **30.7%**; unit overcost **~EUR15.4k/agent**; **2229** validated -> **EUR34.4m** from 2025; **467** pending -> **+EUR7.2m**; pool 2022 **5455** / requests **2696**. **SPW 119quater** deepen: **2472** done gross **EUR26.1m** / net after CRP **EUR15.9m** (EUR6416/agent); remaining **1635** potential gross **EUR43.3m**; rates **11.2%/30.7%**. Institutional net class **-EUR18.5m** (UAP overcost - SPW net). **Specialty:** **36** derogations BI2025 (56 BI2024); revent 2023 eng **EUR2.365bn** / liq **EUR1.423bn**; transfers eng **EUR960m** / liq **EUR1.086bn**. **Annuality pecules** class **>=EUR35m**. **SR BBZ 2025:** handicap priority accommodation + renovation primes + UAP financing centralisation (2024 fleet/IT/immo PPI acknowledged 2024-10-17). **Effort structurel** package **EUR268m** (dep **242.8** + rec **25.2**); Table26 eco **EUR101.1m** 42% / commun **EUR61.8m** 25% / mobilite **EUR39.3m** 16%. Companion: precompte immo RW share **EUR49.2m**; LOBO risk **EUR85m**. Dual federal specialty/provisions + ONVA. Strong confidence CoA; by-UAP L5 residual FOI.
+- Wrote: entities (+spending_reviews_wal); budgets (+36); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_119quater_specialty_l5_2025; rq_647=done; spawn rq_648; loop_state ticks=656
+- FOI opened: gap_119quater_specialty_l5_2025 -- ready (not sent)
+- Next: rq_648; progress@660 in 4 ticks; rq_116 deferred

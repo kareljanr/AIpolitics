@@ -12051,3 +12051,39 @@ bud_sec_corr_leasing_cauchy_bi2025,wallonie_gov,2025,300000,,,budgeted,src_ccrek
 bud_sec_corr_galileo_bi2025,wallonie_gov,2025,700000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Projet Galileo +0.7m; tick655
 bud_ocpp_requalif_effective_margin_bi2025,ocpp_wal,2025,75800000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Effective requalif margin 75.8m after ICN 49.6m of 125.4m; tick655
 bud_icn_requalif_known_bi2025,ocpp_wal,2025,49600000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,ICN already requalified ops 49.6m in BI2025 projects (Sowaer 0.4 energy 0.4 avances 48.8); tick655
+bud_uap_119quater_overcost_bi2025,uap_perimeter_wal,2025,34400000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater validated 2229 agents overcost 34.4m from 2025 (65.2pct vs 30.7pct; ~15400/agent); tick656
+bud_uap_119quater_pending_bi2025,uap_perimeter_wal,2025,7200000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater 467 pending agents potential +7.2m overcost if all validated; tick656
+bud_uap_119quater_eligible_2022,uap_perimeter_wal,2022,5455,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater eligible pool COUNT 5455 contractuels 2022; tick656
+bud_uap_119quater_requests,uap_perimeter_wal,2024,2696,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater requests submitted COUNT 2696; tick656
+bud_uap_119quater_validated,uap_perimeter_wal,2024,2229,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater validated COUNT 2229 at 2024-10-01; tick656
+bud_spw_119quater_eligible_2022,wallonie_gov,2022,3026,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater eligible COUNT 3026 Apr2022; tick656
+bud_spw_119quater_done,wallonie_gov,2024,2472,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater statutaires done COUNT 2472; tick656
+bud_spw_119quater_remaining,wallonie_gov,2024,1635,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater remaining statutarisable COUNT 1635 at 2024-10-01; tick656
+bud_spw_119quater_gross_economy,wallonie_gov,2025,26100000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater gross SSC economy 26.1m on 2472 done (11.2pct vs 30.7pct); tick656
+bud_spw_119quater_potential_gross,wallonie_gov,2025,43300000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater potential gross economy 43.3m if remaining pool included; tick656
+bud_spw_119quater_net_economy,wallonie_gov,2025,15900000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater net after CRP 15.9m (6416/agent x 2472); tick656 deepen
+bud_wal_revent_eng_2023,wallonie_gov,2023,2364800000,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,Reventilations credits eng 2023 2364.8m CoA specialty critique; tick656
+bud_wal_revent_liq_2023,wallonie_gov,2023,1422800000,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,Reventilations credits liq 2023 1422.8m; tick656
+bud_wal_transfert_eng_2023,wallonie_gov,2023,959900000,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,Transfers credits eng 2023 959.9m; tick656
+bud_wal_transfert_liq_2023,wallonie_gov,2023,1085700000,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,Transfers credits liq 2023 1085.7m; tick656
+bud_wal_specialty_derog_bi2025,wallonie_gov,2025,36,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Specialty principle derogations COUNT 36 BI2025 (56 BI2024); tick656
+bud_wal_pecules_annualite_class,wallonie_gov,2025,35000000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Pecules vacances annuality gap class at least 35.0m (2023 services paid 2024); tick656
+bud_effort_structurel_total_bi2025,wallonie_gov,2025,268000000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Effort structurel total 268.0m = dep 242.8 + rec 25.2; tick656
+bud_effort_struct_sante_bi2025,wallonie_gov,2025,23036000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Sante/Env/Solidarites/Eco sociale 23.036m 9pct; tick656
+bud_effort_struct_agri_bi2025,wallonie_gov,2025,1282000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Agri/Ruralite/Foret 1.282m 1pct; tick656
+bud_effort_struct_mobilite_bi2025,wallonie_gov,2025,39253000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Territoire/Infra/Mobilite/PL 39.253m 16pct; tick656
+bud_effort_struct_mp_bi2025,wallonie_gov,2025,1237000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 MP Budget/Finances/Recherche 1.237m 1pct; tick656
+bud_effort_struct_fp_bi2025,wallonie_gov,2025,12750000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 FP/Simplif/Sports/Medias/WBE 12.750m 5pct; tick656
+bud_effort_struct_eco_bi2025,wallonie_gov,2025,101065000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Eco/Industrie/Num/Emploi/Formation 101.065m 42pct; tick656
+bud_effort_struct_tourisme_bi2025,wallonie_gov,2025,2105000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Tourisme/Patrimoine/Petite enfance 2.105m 1pct; tick656
+bud_effort_struct_energie_bi2025,wallonie_gov,2025,288000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Energie/PAC/Logement/Aeroports 0.288m 0pct; tick656
+bud_effort_struct_commun_bi2025,wallonie_gov,2025,61766000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Table26 Effort commun 61.766m 25pct; tick656
+bud_precompte_immo_rw_share_bi2025,wallonie_gov,2025,49200000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Precompte immobilier RW 1.25pct share BI2025 49.2m path +1.1m vs BA2024; tick656
+bud_precompte_immo_droits_2023,wallonie_gov,2023,46500000,,,outturn,src_ccrek_119quater_specialty_bi2025,strong,Precompte immobilier droits constates 2023 46.5m; tick656
+bud_lobo_risk_85m_bi2025,wallonie_debt,2025,85000000,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,LOBO clause risk 85.0m not in refinance eng/dep; bank option 2024-12-06; tick656
+bud_ssc_statutaire_spw_pct,wallonie_gov,2025,11.2,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,SPW employer SSC rate statutaire 11.2pct; tick656
+bud_ssc_contractuel_pct,wallonie_gov,2025,30.7,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,Employer SSC rate contractuel 30.7pct SPW and UAP; tick656
+bud_ssc_statutaire_uap_pct,uap_perimeter_wal,2025,65.2,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,UAP employer SSC+solidarity statutaire 65.2pct (solidarity 54pct 2025 path 58.5 2028); tick656
+bud_uap_119quater_unit_overcost,uap_perimeter_wal,2025,15400,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater average annual overcost ~15400 EUR/agent; tick656
+bud_spw_119quater_net_unit,wallonie_gov,2025,6416,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater net economy after CRP 6416 EUR/agent 2025; tick656
+bud_dual_119quater_net_inst,wallonie_gov,2025,-18500000,,,budgeted,src_dual_119quater_specialty_tick656,strong,Institutional net: UAP overcost 34.4m minus SPW net save 15.9m class -18.5m on validated; not TE; tick656
