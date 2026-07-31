@@ -7429,3 +7429,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update wbi; budgets (+11); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_wbi_sec_staff_network_l5_2025; rq_609=done; spawn rq_610; loop_state ticks=618
 - FOI opened: gap_wbi_sec_staff_network_l5_2025 -- ready (not sent)
 - Next: rq_610; progress@620 in 2 ticks; rq_116 deferred
+
+### 2026-07-31T20:30:00Z -- tick 619
+- Unit: rq_610 (FOI-adjacent dual PES hole-fill deepen -- **Forem** Type2 CoA SEC)
+- Found: **Forem** (primary CoA Table33 + s8.3). **BI2025 SEC:** recettes **EUR3.003004bn** / depenses **EUR3.033004bn** / solde **-EUR30.0m** (reserves auth). **BI2024 SEC:** rec **EUR2.994545bn** / dep **EUR3.004545bn** / solde **-EUR10.0m** (path dep **+EUR28.46m** / solde **-EUR20m**). **RW dest EUR2.922.2m** + other rec **EUR80.8m** (FSE **EUR18.6m**) = rec. Dual **VDAB VEK EUR750.7m** BO2026 (not additive; APE/titres perimeter). Strong confidence CoA; RA dual unit-cost residual FOI.
+- Wrote: entity update forem; budgets (+14); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_forem_sec_ra_recon_l5_2025; rq_610=done; spawn rq_611; loop_state ticks=619
+- FOI opened: gap_forem_sec_ra_recon_l5_2025 -- ready (not sent)
+- Next: rq_611; **progress@620 next tick**; rq_116 deferred

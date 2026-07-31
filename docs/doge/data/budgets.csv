@@ -11306,3 +11306,17 @@ bud_wbi_solde_path_delta_2024_25,wbi,2025,-4000000,,,budgeted,src_ccrek_wbi_budg
 bud_wbi_sec_vs_liq_gap_2025,wbi,2025,2322000,,,budgeted,src_ccrek_wbi_budget_bi2025,medium,Derived RA liq 96.448m minus SEC dep 94.126m ~2.322m recon residual FOI; tick618
 bud_wbi_treasury_rapat_class_2025,wbi,2025,4000000,,,budgeted,src_ccrek_wbi_solde_table9,medium,CoA p48: WBI 4.0m in UAP treasury repatriation package to RW 2025 class; tick618
 bud_dual_wbi_vl_stack_class_2025,gg_belgium,2025,94126000,,,budgeted,src_dual_wbi_vl_sec_tick618,strong,WBI SEC dep 94.1m BI2025 dual VL SN 9.0m + FIT 63.1m not additive; tick618
+bud_forem_rec_sec_bi2025,forem,2025,3003003500,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem recettes SEC BI2025 3003.0035m CoA Table33; tick619
+bud_forem_dep_sec_bi2025,forem,2025,3033003500,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem depenses SEC BI2025 3033.0035m CoA Table33; tick619
+bud_forem_solde_sec_bi2025,forem,2025,-30000000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem solde SEC BI2025 -30.0m CoA; reserves auth compensation; tick619
+bud_forem_rec_sec_bi2024,forem,2024,2994545000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem recettes SEC BI2024 2994.545m CoA Table33; tick619
+bud_forem_dep_sec_bi2024,forem,2024,3004545000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem depenses SEC BI2024 3004.545m CoA Table33; tick619
+bud_forem_solde_sec_bi2024,forem,2024,-10000000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem solde SEC BI2024 -10.0m CoA; tick619
+bud_forem_dep_path_delta_2024_25,forem,2025,28458500,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem dep path BI2025-BI2024 +28.4585m CoA; tick619
+bud_forem_solde_path_delta_2024_25,forem,2025,-20000000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,Forem solde path BI2025-BI2024 -20.0m CoA; tick619
+bud_forem_rw_dest_bi2025,forem,2025,2922200000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: RW depenses destination Forem 2922.2m BI2025 (vs 2923.0m BI2024 -0.8m); tick619
+bud_forem_rw_dest_bi2024,forem,2024,2923000000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: RW subventions Forem BI2024 2923.0m; tick619
+bud_forem_other_rec_bi2025,forem,2025,80800000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: autres recettes Forem BI2025 80.8m of which FSE 18.6m; tick619
+bud_forem_fse_rec_bi2025,forem,2025,18600000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: recettes FSE 18.6m within other 80.8m BI2025; tick619
+bud_forem_reserves_auth_bi2025,forem,2025,30000000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: autorisation recours compte reserves 30.0m compensating dotation cut; tick619
+bud_dual_pes_forem_vdab_class_2025,gg_belgium,2025,3033003500,,,budgeted,src_dual_pes_forem_vdab_sec_tick619,strong,Forem SEC dep 3.033bn BI2025 dual VDAB VEK 0.751bn BO2026 class not additive; tick619

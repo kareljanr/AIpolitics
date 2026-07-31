@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T20:15:00Z,rq_609,618,no,tick618 WBI SEC dep 94.1m dual VL; next rq_610; progress@620 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T20:30:00Z,rq_610,619,no,tick619 Forem SEC dep 3.033bn dual VDAB; next rq_611; progress@620 next; rq_116 deferred
