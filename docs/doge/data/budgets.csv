@@ -12514,3 +12514,90 @@ bud_do17_cl_aju_2026,wallonie_gov,2026,9890876000,,,budgeted,src_ccrek_wal_aju20
 bud_do18_cl_aju_2026,wallonie_gov,2026,3760283000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,DO18 CL aju 3760.283m path +104.8; tick665
 bud_do11_personnel_cl_aju_2026,wallonie_gov,2026,816100000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Prog 031 personnel CL aju 816.1m path +5.1; tick665
 bud_do10_cl_aju_2026,prw_frr_wallonie,2026,1755613000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,DO10 CL aju 1755.613m path +344.2 (PRW sticky); tick665
+bud_do_total_ce_aju_2026,wallonie_gov,2026,21452905000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Total CE aju 21452.905m path +276.505 (+1.3pct) vs init 21176.4; tick666
+bud_do_total_cl_aju_2026,wallonie_gov,2026,21937935000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Total CL aju 21937.935m path +602.187 (+2.8pct) vs init 21335.748; tick666
+bud_do_total_ce_init_2026,wallonie_gov,2026,21176400000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Total CE init 21176.4m; tick666
+bud_do_total_cl_init_2026,wallonie_gov,2026,21335748000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Total CL init 21335.748m; tick666
+bud_do_total_exec_cl_may2026,wallonie_gov,2026,11066315000,,,outturn,src_ccrek_wal_aju2026_do_matrix,strong,CL exec 18May 11066.315m = 51.9pct of aju CL; tick666
+bud_do01_ce_aju_2026,parlement_wallonie,2026,88886000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO01 Parlement CE=CL aju 88.886m path +1.482; exec 56.431 (64.6pct) encours 30.973; tick666
+bud_do01_cl_aju_2026,parlement_wallonie,2026,88886000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO01 Parlement CL aju 88.886m; tick666
+bud_do02_ce_aju_2026,wallonie_gov,2026,28043000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO02 cabinets CE=CL aju 28.043m flat; exec 6.942 (24.8pct) encours 3.451; tick666
+bud_do02_cl_aju_2026,wallonie_gov,2026,28043000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO02 cabinets CL aju 28.043m; tick666
+bud_do09_ce_aju_2026,wallonie_gov,2026,215151000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO09 services GW + organismes non rattaches CE aju 215.151m path +3.956; tick666
+bud_do09_cl_aju_2026,wallonie_gov,2026,213392000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO09 CL aju 213.392m path +2.215 exec 143.773 (68.1pct) encours 75.997; tick666
+bud_do10_ce_aju_2026,wallonie_gov,2026,464198000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO10 Secretariat general CE aju 464.198m path +20.229; CL heavy FRR/PRW; tick666
+bud_do10_cl_path_aju_2026,wallonie_gov,2026,1755613000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO10 CL aju 1755.613m path +344.238 vs init 1411.375; exec only 5.7pct encours 1587.701; tick666
+bud_do11_ce_aju_2026,spw_support_do11,2026,926202000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO11 Support CE aju 926.202m path +8.660; tick666
+bud_do11_cl_aju_2026,spw_support_do11,2026,932264000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO11 Support CL aju 932.264m path +13.525 exec 279.736 (30.4pct) encours 131.990; tick666
+bud_do12_ce_aju_2026,spw_digital_do12,2026,79026000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO12 Digital CE aju 79.026m path +9.977; tick666
+bud_do12_cl_aju_2026,spw_digital_do12,2026,72917000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO12 Digital CL aju 72.917m path +3.477 exec 15.272 (22.0pct) encours 41.680; tick666
+bud_do14_ce_aju_2026,wallonie_gov,2026,1843797000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO14 Mobilite CE aju 1843.797m path -7.743; tick666
+bud_do14_cl_aju_2026,wallonie_gov,2026,1696070000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO14 CL aju 1696.070m path +34.239 exec 837.520 (50.4pct) encours 1326.853; tick666
+bud_do15_ce_aju_2026,wallonie_gov,2026,634569000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO15 Agri RN env CE aju 634.569m path +14.980; tick666
+bud_do15_cl_aju_2026,wallonie_gov,2026,598624000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO15 CL aju 598.624m path +28.440 exec 113.076 (19.8pct) encours 526.173; tick666
+bud_do16_ce_aju_2026,wallonie_gov,2026,860989000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO16 ATelier logement energie CE aju 860.989m path +13.205; tick666
+bud_do16_cl_aju_2026,wallonie_gov,2026,845541000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO16 CL aju 845.541m path +18.955 exec 154.520 (18.7pct) encours 693.570; tick666
+bud_do17_ce_aju_2026,wallonie_gov,2026,10194648000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO17 Pouvoirs locaux action sociale sante CE aju 10194.648m path +131.649; tick666
+bud_do17_cl_path_aju_2026,wallonie_gov,2026,9890876000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO17 CL aju 9890.876m path +103.115 exec 7221.867 (73.8pct) encours 2130.121; tick666
+bud_do18_ce_aju_2026,wallonie_gov,2026,3913087000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO18 Entreprises emploi recherche CE aju 3913.087m path +80.694; tick666
+bud_do18_cl_path_aju_2026,wallonie_gov,2026,3760283000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO18 CL aju 3760.283m path +104.766 exec 2115.556 (57.9pct) encours 2322.940; tick666
+bud_do19_ce_aju_2026,wallonie_gov,2026,2018720000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO19 Finances CE aju 2018.720m path +37.461 (interest/debt service); tick666
+bud_do19_cl_aju_2026,wallonie_gov,2026,2025213000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO19 CL aju 2025.213m path +37.462 exec 40.685 (2.0pct) encours 55.282; tick666
+bud_do36_ce_aju_2026,wallonie_gov,2026,185589000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO36 EU cofin 2021-27 CE aju 185.589m path -38.045; tick666
+bud_do36_cl_aju_2026,wallonie_gov,2026,30213000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DO36 CL aju 30.213m path -89.727 exec 0; tick666
+bud_do11_prog031_ce_aju_2026,spw_support_do11,2026,816400000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 11.031 personnel CE aju 816.4m path +5.1; tick666
+bud_spw_remun_df031005_aju_2026,spw_support_do11,2026,740800000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DF031.005 remun SPW aju 740.8m path +9.6 from init 731.2; indexation + transfers 4.8; tick666
+bud_spw_remun_init_2026,spw_support_do11,2026,731200000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DF031.005 remun SPW init 731.2m; tick666
+bud_do11_prov_interdep_aju_2026,spw_support_do11,2026,800000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DF031.001 prov interdep aju 0.8m path -7.4 (transfers 2.5 + aju -4.9); pilier2 pension reallocated to encours; tick666
+bud_do11_postal_plus_2_4m,spw_support_do11,2026,2400000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DF001.107 postal arrears 2025 covered from prov +2.4m + redistrib 0.9 total DF +3.3; tick666
+bud_do11_capsud_liq_plus_5m,spw_support_do11,2026,5000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,DF001.112 Cap Sud admin buildings final invoices liq +5.0m; tick666
+bud_moderation_salariale_gain_0_756m,spw_support_do11,2026,756000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Federal wage-moderation special SSC not applied to regional admins: gain 189k/mo x4 = 0.756m Sep-Dec 2026; tick666
+bud_index_residual_1m_uncounted,spw_support_do11,2026,1000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Index advance Oct->Sep 2026 cost 1.0m not in aju (admin est); first index Mar +1.1 second Sep +3.4 integrated; tick666
+bud_wal_index_pivot_impact_dep_24_8m,wallonie_gov,2026,24800000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Cabinet Budget: pivot param revision adverse dep impact 24.8m (BFP May/Jun); tick666
+bud_wal_dep_growth_2021_2025,wallonie_gov,2025,2291400000,,,outturn,src_ccrek_wal_aju2026_do_matrix,strong,Dep growth 2021-2025 +13.1pct = +2291.4m (ex amort SP sous-util); tick666
+bud_wal_dep_path_2026_vs_2025,wallonie_gov,2026,518100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Aju2026 dep vs provisional 2025 exec +2.6pct = +518.1m; level 20293.1m graph; tick666
+bud_emploi_101_ce_aju_2026,wallonie_gov,2026,72800000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 101 promotion emploi CE aju 72.8 CL 72.5 (init 72.0/71.7); tick666
+bud_emploi_101_cl_aju_2026,wallonie_gov,2026,72500000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 101 CL aju 72.5m; tick666
+bud_emploi_108_ce_aju_2026,wallonie_gov,2026,27100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 108 emplois de proximite CE=CL aju 27.1 (init 26.7); tick666
+bud_emploi_109_ce_aju_2026,wallonie_gov,2026,31300000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 109 formation pro CE aju 31.3 CL 31.5; tick666
+bud_emploi_112_ifapme_ce_aju_2026,ifapme,2026,88300000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 112 IFAPME CE=CL aju 88.3m flat; dual Syntra VL; tick666
+bud_emploi_113_ce_aju_2026,wallonie_gov,2026,30700000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 113 politiques croisees CE aju 30.7 CL 18.9; tick666
+bud_emploi_113_cl_aju_2026,wallonie_gov,2026,18900000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Prog 113 CL aju 18.9m; tick666
+bud_emploi_macro_param_plus_22_1m,wallonie_gov,2026,22100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Emploi pack macro param adjust +22.1m (Forem 21.1 + 101 0.8 + 108 0.4 + 109 0.1); tick666
+bud_ape_creches_plus_2_1m,wallonie_gov,2026,2100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,APE DF130.006 +2.1m creche places Plan Cigogne; tick666
+bud_cisp_plus_2_8m_aju_2026,wallonie_gov,2026,2800000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,CISP DF130.016 +2.8m reform failed to deliver expected savings; tick666
+bud_ocpp_dep_aju_2026,wallonie_gov,2026,859600000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP dep aju 859.6m path +148.1; tick666
+bud_ocpp_rec_aju_2026,wallonie_gov,2026,745100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP rec aju 745.1m path +175.5; tick666
+bud_ocpp_budget_solde_aju_2026,wallonie_gov,2026,114500000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP budget solde aju 114.5m path -27.4; tick666
+bud_ocpp_gw_corr_aju_2026,wallonie_gov,2026,224600000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP GW corrections aju 224.6m (Kyoto 133.4 env 5.0 EU 13.8 Renopack 72.4); tick666
+bud_ocpp_after_corr_aju_2026,wallonie_gov,2026,339000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP after GW corr aju 339.0m; tick666
+bud_ocpp_impact_expose_aju_2026,wallonie_gov,2026,273200000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP impact expose general aju 273.2m path -9.8; tick666
+bud_ocpp_margin_aju_2026,wallonie_gov,2026,65900000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP requalif margin aju 65.9m (ICN already 16.4 -> effective 49.5); tick666
+bud_ocpp_margin_eff_aju_2026,wallonie_gov,2026,49500000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OCPP effective safety margin aju 49.5m after ICN 16.4; tick666
+bud_sous_util_sg_aju_2026,wallonie_gov,2026,524000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Sous-utilisation services gov aju 524.0m (2.4pct CL) path -85 vs init 609; tick666
+bud_sous_util_uap_aju_2026,wallonie_gov,2026,187900000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Sous-util UAP institutions aju 187.9m in SEC hyp; tick666
+bud_inexec_2025_provisoire,wallonie_gov,2025,891200000,,,outturn,src_ccrek_wal_aju2026_do_matrix,strong,Inexecution credits 2025 provisional 891.2m (4.0pct CL; dissoc 826.9 var 64.3); tick666
+bud_solde_net_financer_aju_2026,wallonie_gov,2026,-2798600000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Solde net a financer aju -2798.6m path +12.5 vs init -2811.1; amort understate 10m; tick666
+bud_solde_brut_aju_2026,wallonie_gov,2026,150000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Solde budg brut aju +150.0m flat (rec 22087.9 - dep 21937.9); tick666
+bud_consol_inst_sec_aju_2026,wallonie_gov,2026,-180100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Solde institutions consol aju -180.1m path +74.0; tick666
+bud_type_units_sec_aju_2026,wallonie_gov,2026,-486500000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Unites institutionnelles SEC aju -486.5m path +75.8; tick666
+bud_type1_sec_aju_2026,wallonie_gov,2026,-153200000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Organismes type1 SEC aju -153.2m path -5.6; tick666
+bud_type2_sec_aju_2026,wallonie_gov,2026,-27000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Organismes type2 SEC aju -27.0m path -0.5; tick666
+bud_type3_sec_aju_2026,wallonie_gov,2026,-18500000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Organismes type3 SEC aju -18.5m path +91.9 (largest consol improvement); tick666
+bud_saca_sec_aju_2026,wallonie_gov,2026,-28400000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,SACA SEC aju -28.4m path -11.5; tick666
+bud_fa_missions_sec_aju_2026,wallonie_gov,2026,111600000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Financement alternatif + missions deleguees SEC +111.6m path -18.7 vs init 130.3; tick666
+bud_otw_sec_path_plus_97_1m,otw,2026,97100000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OTW SEC path +97.1m (capital spend cut); tick666
+bud_opw_sec_path_minus_6_8m,opw,2026,-6800000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,OPW SEC path -6.8m (EU interest repay + Feader non-reimb); tick666
+bud_awap_sec_path_minus_4_7m,wallonie_gov,2026,-4700000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,AWAP SEC path -4.7m objective corr to budget; tick666
+bud_tourisme_sec_path_minus_5_9m,wallonie_gov,2026,-5900000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Wallonie Tourisme SEC path -5.9m; tick666
+bud_spaque_sec_path_minus_5_4m,wallonie_gov,2026,-5400000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Groupe Spaque SEC path -5.4m (invest +3.5 dot -5.5 Erpion +2); tick666
+bud_autres_corr_sec_aju_2026,wallonie_gov,2026,166200000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Autres corrections SEC aju 166.2m path +8.8 (hospital past +10.2 green cert -1.9); tick666
+bud_interets_payes_courus_2025,wallonie_gov,2025,-67900000,,,outturn,src_ccrek_wal_aju2026_do_matrix,strong,Interest paid vs accrued SEC corr 2025 -67.9m (prov ICN Apr2026); missing in 2026 aju; tick666
+bud_macro_june_sec_impact_98_7m,wallonie_gov,2026,98700000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,If June 2026 macro params applied: rec +123.5 dep -24.8 SEC impact +98.7m; tick666
+bud_dep_hors_sp_sousutil_aju_2026,wallonie_gov,2026,20303000000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Dep hors SP emprunts after sous-util 524 = 20303.0m; rec after UAP tres 460.7 = 17567.7; gap 2735.3; tick666
+bud_rec_hors_sp_tres_aju_2026,wallonie_gov,2026,17567700000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Recettes hors SP emprunts after UAP tresor mobilisation 460.7 = 17567.7m; tick666
+bud_uap_tresorerie_aju_2026,wallonie_gov,2026,460700000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,UAP tresorerie mobilisation aju 460.7m (init 440.7 path +20); dual prior years 69.5-707m; tick666
+bud_credits_dissoc_ce_aju_2026,wallonie_gov,2026,21047084000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits dissoc CE aju 21047.084m path +280.820; tick666
+bud_credits_var_ce_aju_2026,wallonie_gov,2026,405821000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits variables CE aju 405.821m path -4.315; tick666
+bud_credits_dissoc_cl_aju_2026,wallonie_gov,2026,21547044000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits dissoc CL aju 21547.044m path +609.092; tick666
+bud_credits_var_cl_aju_2026,wallonie_gov,2026,390891000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits variables CL aju 390.891m path -6.905; tick666
