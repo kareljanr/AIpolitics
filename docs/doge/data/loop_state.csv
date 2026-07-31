@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T06:00:00Z,rq_761,770,no,tick770 progress@770 L2~99 L5~56-70 FOI~500; next rq_762 residual dual/Kamer; progress@780 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T07:00:00Z,rq_762,771,no,tick771 IBZ Fedasil 702 fire 189 Astrid 59; next rq_763 BOSA/004; progress@780 in 9; rq_116 deferred

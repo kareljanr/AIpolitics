@@ -9236,3 +9236,18 @@ Append-only. Each tick adds a short entry.
 - FOI: none new this tick
 - Next: prio5 **rq_762** (residual dual / unmined Kamer 001–006/011/021 / Entity II); deferred **rq_116**; progress@780 in 10
 
+
+## Tick 771 — 2026-08-03T07:00:00Z
+
+- Unit: **rq_762** (FOI-adjacent residual — **Kamer DOC 56 1281/006 FOD Binnenlandse Zaken**, 184p)
+- Found (primary 56K1281006; eng=liq unless noted):
+  - **Fedasil** BA 40.42.4140.44 **€702.205m** 2026 (pad 929/829/702/546/372/261; **−€126.7m** YoY)
+  - **Fire zones** base **€37.353m** + extra **€151.647m** = **€189.0m**
+  - **Astrid** network **€59.366m** (+ CAD 112 maint **€7.842m** / invest eng **€16m**)
+  - Brussels city **€145.555m** · Dode Hand **€97.823m** · BCR security **€55m** (stack **~€298m**)
+  - Local gardiens/action plans eng **€52.13m** / liq **€44.64m**
+  - Dual asylum path vs civil safety residual
+- Wrote: budgets +22; commitments +9; leaderboard +10; sources +2; FOI **gap_ibz_fedasil_fire_astrid_l5** prio8 ready; rq_762=done; spawn **rq_763**; ticks=771
+- FOI: ready only — **do not send**
+- Next: rq_763 BOSA 003 / organs 004 / Kanselarij 002; progress@780 in 9; rq_116 deferred
+

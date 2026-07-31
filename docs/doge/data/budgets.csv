@@ -16132,3 +16132,25 @@ bud_bz_posts_ops_2026,fod_bz,2026,31015000,,,budgeted,src_kamer_bz_1281_007_2026
 bud_bz_posts_rent_2026,fod_bz,2026,13209000,,,budgeted,src_kamer_bz_1281_007_2026,strong,BA 42.02.121201 post real estate rent 13209 kEUR 2026; tick769
 bud_dgd_core_cash_map_2026,dgd,2026,855870000,,,derived,src_kamer_bz_1281_007_2026,strong,derived
 bud_dual_bz_dgd_ops_2026,gg_belgium,2026,855870000,,,derived,src_dual_bz_dgd_ops_tick769,strong,Dual DGD cash map vs dipl staff 210m int orgs 112.5; not TE-additive; tick769
+bud_fedasil_dot_2024,fedasil,2024,929166000,,,outturn,src_kamer_ibz_1281_006_2026,strong,BA 40.42.4140.44 Fedasil dot 929166 kEUR 2024 eng=liq; tick771
+bud_fedasil_dot_2025,fedasil,2025,828940000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.42.4140.44 Fedasil dot 828940 kEUR 2025 eng=liq; tick771
+bud_fedasil_dot_2026,fedasil,2026,702205000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.42.4140.44 Fedasil dot 702205 kEUR 2026 eng=liq; tick771
+bud_fedasil_dot_2027,fedasil,2027,546298000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.42.4140.44 Fedasil dot 546298 kEUR 2027 eng=liq; tick771
+bud_fedasil_dot_2028,fedasil,2028,372298000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.42.4140.44 Fedasil dot 372298 kEUR 2028 eng=liq; tick771
+bud_fedasil_dot_2029,fedasil,2029,261298000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.42.4140.44 Fedasil dot 261298 kEUR 2029 eng=liq; tick771
+bud_fedasil_delta_2025_26,fedasil,2026,-126735000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,Fedasil -126.735m 2025->2026 (829->702); declining path; tick771
+bud_ibz_fire_zones_base_2026,fod_ibz,2026,37353000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 54.80.435401 federal base fire zones 37353 kEUR flat; tick771
+bud_ibz_fire_zones_extra_2026,fod_ibz,2026,151647000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 54.80.435402 additional fire zone dots 151647 kEUR 2026; tick771
+bud_ibz_fire_zones_stack_2026,fod_ibz,2026,189000000,,,derived,src_kamer_ibz_1281_006_2026,strong,derived
+bud_ibz_brussels_city_dot_2026,fod_ibz,2026,145555000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.40.432108 City of Brussels federal dot 145555 kEUR 2026; tick771
+bud_ibz_dode_hand_bcr_2026,fod_ibz,2026,97823000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 40.40.453507 Dode Hand OV exemption compensation BCR 97823 kEUR; tick771
+bud_ibz_bcr_security_dot_2026,fod_ibz,2026,55000000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 56.70.453501 BCR security/prevention dot 55000 kEUR flat; tick771
+bud_astrid_network_2026,astrid,2026,59366000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 63.20.414002 Astrid network state contribution 59366 kEUR 2026; tick771
+bud_astrid_cad112_maint_2026,astrid,2026,7842000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 63.20.414001 Astrid CAD 112 maintenance 7842 kEUR 2026; tick771
+bud_astrid_cad112_invest_eng_2026,astrid,2026,16000000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 63.20.414004 Astrid CAD invest eng 16000 kEUR 2026 (liq 14000); tick771
+bud_ibz_local_gardiens_eng_2026,fod_ibz,2026,52130000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 56.81.432201 local action plans/community guards eng 52130 kEUR 2026; tick771
+bud_ibz_local_gardiens_liq_2026,fod_ibz,2026,44636000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,BA 56.81.432201 liq 44636 kEUR 2026; tick771
+bud_ibz_asylum_reception_core_2026,fod_ibz,2026,702205000,,,budgeted,src_kamer_ibz_1281_006_2026,strong,Fedasil reception core federal dot 702.205m 2026; tick771
+bud_ibz_civil_safety_stack_2026,fod_ibz,2026,256208000,,,derived,src_kamer_ibz_1281_006_2026,strong,derived
+bud_ibz_bxl_finance_stack_2026,fod_ibz,2026,298378000,,,derived,src_kamer_ibz_1281_006_2026,strong,derived
+bud_dual_ibz_fedasil_path_2026,gg_belgium,2026,702205000,,,derived,src_dual_ibz_asylum_civil_tick771,strong,Dual Fedasil declining path vs asylum chain dual POD MI/DVZ; not TE-additive; tick771
