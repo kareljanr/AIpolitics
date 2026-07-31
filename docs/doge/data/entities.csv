@@ -528,3 +528,4 @@ vl_begrotingsfondsen,Vlaamse begrotingsfondsen,Fonds budgetaires flamands,Flande
 vl_verkeersveiligheidsfonds,Verkeersveiligheidsfonds,Fonds securite routiere VL,Flanders road safety budget fund,agency,vlaanderen_gov,nl,,,CoA BA2026 end 180.2m fines threshold 161.2; tick678
 vl_weddenrecuperatiefonds,Fonds Wedden en Toelagen Onderwijs,Fonds salaires enseignement,Flanders education wage recovery fund,agency,vlaanderen_gov,nl,,,CoA BA2026 end 93.6m rec 147; tick678
 overkap_ruiter_vl,Overkappingsruiter MOW,Cavalier de couverture MOW,Flanders overkapping budget rider Toekomstverbond,agency,vlaanderen_gov,nl,,,CoA BA2026 saldo 286.9 eoy2025 assign 642.3; exhaust path 2030; tick682
+pod_mi,POD Maatschappelijke Integratie,SPP Integration sociale,Federal Public Planning Service Social Integration,agency,sec_federal,bi,https://www.mi-is.be,,,OCMW RMI wet65 leefloon dual; CoA aju2026; tick684

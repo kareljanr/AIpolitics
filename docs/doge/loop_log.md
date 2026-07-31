@@ -8017,3 +8017,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+45); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_defence_nato_l5**; rq_674=done; spawn **rq_675**; loop_state ticks=683
 - FOI opened: gap_fed_aju2026_defence_nato_l5 — ready (not sent)
 - Next: rq_675; progress@690 in 7 ticks; rq_116 deferred
+
+### 2026-08-01T12:45:00Z — tick 684
+- Unit: **rq_675** (FOI-adjacent dual residual — **POD MI OCMW/leefloon soft saves + unemp spillover dual**)
+- Found (primary CoA 2026_22 §3.1 + unemp follow-up):
+  - **OCMW toelagen EUR2.309bn** (RMI **2.133** + wet65 **176**; IB **2.241**; index **+26** volume **+42**)
+  - **Soft saves:** IB **−40.2** → BC **−13.1** (correction **+27.1**); integratiebedrag **−10** (was 33.5); wait5yr **−3.1** (was 6.7); CoA: **13.1 will not land 2026**
+  - Design: integratiebedrag max **70%** not 50; fines **30/15**; subsidiary→wet65 **100%** federal not budgeted; wait5yr **RvS EU+Art23** risk
+  - **Unemp exclude 193.904** waves; Q1 actual **45.592**/48.815 (93.4%); leefloon inflow **17.606** = **31.9%** (WAL **37.2** VL **23.5** BRU **27.5**); OCMW reject **14%**
+  - Medical help **100.3** (IB 112.3; −12). Dual RVA/OCMW. Strong CoA; L5 FOI.
+- Wrote: budgets (+36); commitments (+6); leaderboard (+6); sources (+2); entities pod_mi; FOI draft **gap_fed_aju2026_pod_mi_leefloon_l5**; rq_675=done; spawn **rq_676**; loop_state ticks=684
+- FOI opened: gap_fed_aju2026_pod_mi_leefloon_l5 — ready (not sent)
+- Next: rq_676; progress@690 in 6 ticks; rq_116 deferred

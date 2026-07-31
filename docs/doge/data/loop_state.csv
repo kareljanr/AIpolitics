@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T12:30:00Z,rq_674,683,no,tick683 defence 17.3bn NATO 13.25 asset optim 3.17 unbooked dual; next rq_675; progress@690 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T12:45:00Z,rq_675,684,no,tick684 POD MI OCMW 2309 soft save 13.1 dead unemp-leefloon 31.9pct dual; next rq_676; progress@690 in 6; rq_116 deferred

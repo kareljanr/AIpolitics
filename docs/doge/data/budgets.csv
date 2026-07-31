@@ -13363,3 +13363,39 @@ bud_fiscal_fraud_path_600m_2029,sec_federal,2029,600000000,,,budgeted,src_ccrek_
 bud_social_fraud_path_600m_2029,sec_federal,2029,600000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Social fraud path 600m 2029; tick683
 bud_dual_nato_effort_13_25bn_2026,gg_belgium,2026,13246000000,,,budgeted,src_dual_defence_tick683,strong,Dual NATO effort fill 13.25bn vs Entity II debt ratings dual; not TE-additive; tick683
 bud_dual_asset_optim_opacity_3_17bn,gg_belgium,2026,3170000000,,,budgeted,src_dual_defence_tick683,strong,Dual asset optim 3.17bn unbooked opacity class; tick683
+bud_pod_mi_ocmw_toelagen_total_2309m_2026,pod_mi,2026,2309000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,OCMW toelagen RMI+wet65 total BC 2309m (IB 2241; +index 26 +volume 42); tick684
+bud_pod_mi_rmi_2133m_2026,pod_mi,2026,2133000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,RMI (leefloon) OCMW toelage 2133m (IB 2085 +index 23 +volume 25); tick684
+bud_pod_mi_wet65_176m_2026,pod_mi,2026,176000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Wet 65 maatschappelijke dienstverlening OCMW toelage 176m (IB 156 +index 3 +volume 17); tick684
+bud_pod_mi_rmi_ib_2085m_2026,pod_mi,2026,2085000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,RMI IB2026 2085m baseline; tick684
+bud_pod_mi_wet65_ib_156m_2026,pod_mi,2026,156000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Wet65 IB2026 156m baseline; tick684
+bud_pod_mi_index_up_26m_2026,pod_mi,2026,26000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Index component OCMW toelagen +26m (RMI +23 wet65 +3) spilindex path; tick684
+bud_pod_mi_volume_up_42m_2026,pod_mi,2026,42000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Volume component OCMW toelagen +42m (beneficiaries up + soft save corrections); tick684
+bud_pod_mi_save_ib_40_2m_2026,pod_mi,2026,40200000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,IB2026 planned save integratiebedrag+5yr wait 40.2m; tick684
+bud_pod_mi_save_bc_13_1m_2026,pod_mi,2026,13100000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,BC2026 revised save 13.1m (correction +27.1 vs IB); CoA: will not be achieved 2026; tick684
+bud_pod_mi_save_correction_27_1m_2026,pod_mi,2026,27100000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Downward correction of POD MI soft saves +27.1m (less save) aju2026; tick684
+bud_pod_mi_integratiebedrag_save_bc_10m_2026,pod_mi,2026,10000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Integratiebedrag save BC 10.0m (IB 33.5; RMI 4.7 + wet65 5.3); tick684
+bud_pod_mi_integratiebedrag_save_ib_33_5m_2026,pod_mi,2026,33500000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Integratiebedrag save IB 33.5m (RMI 17 + wet65 16.6); tick684
+bud_pod_mi_integratiebedrag_rmi_save_4_7m_2026,pod_mi,2026,4700000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Integratiebedrag RMI branch save BC 4.7m (IB 17); new inflow + sanctions 33/15pct; tick684
+bud_pod_mi_integratiebedrag_wet65_save_5_3m_2026,pod_mi,2026,5300000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Integratiebedrag wet65 branch save BC 5.3m (IB 16.6); temp protected; design max 70pct not 50; tick684
+bud_pod_mi_wait5yr_save_bc_3_1m_2026,pod_mi,2026,3100000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Five-year wait social assistance save BC 3.1m (IB 6.7; RMI 1.4 + wet65 1.6); tick684
+bud_pod_mi_wait5yr_save_ib_6_7m_2026,pod_mi,2026,6700000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Five-year wait save IB 6.7m; tick684
+bud_pod_mi_save_13_1m_dead_2026,pod_mi,2026,13100000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,CoA: 13.1m BC save will not land 2026 - entry into force no longer feasible (legal complexity); tick684
+bud_pod_mi_medical_help_100_3m_2026,pod_mi,2026,100300000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Medical help exp BC 100.3m (IB 112.3; -12) partly return-policy attribution hard to verify; tick684
+bud_pod_mi_medical_help_ib_112_3m_2026,pod_mi,2026,112300000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Medical help IB 112.3m; tick684
+bud_pod_mi_social_cell_up_60m_2026,pod_mi,2026,60000000,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,POD MI +60m within social cell primary exp aju (tick681 cross); tick684
+bud_rva_exclude_waves_total_193904,rva,2026,193904,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Unemp/inschakeling exclusion waves total 193904 physical units (RVA Sep2025 est); tick684
+bud_rva_exclude_q1_actual_45592_2026,rva,2026,45592,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Q1 2026 actual exclusions golf1+2 total 45592 (plan 48815; 93.4pct); tick684
+bud_rva_exclude_q1_plan_48815_2026,rva,2026,48815,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Q1 2026 planned exclusions golf1+2 48815; tick684
+bud_pod_mi_leefloon_inflow_excl_17606_q1_2026,pod_mi,2026,17606,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,New leefloners from unemp/inschakeling excluded Q1 2026 real 17606 = 31.9pct of excluded; tick684
+bud_pod_mi_leefloon_inflow_pct_31_9_q1_2026,pod_mi,2026,319,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,Share excluded entering leefloon 31.9pct Q1 national (x1000 for storage=319 means 31.9); note percent; tick684
+bud_pod_mi_leefloon_inflow_bru_4213_q1_2026,pod_mi,2026,4213,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,BRU new leefloners from excluded Q1 4213 (27.5pct of BRU excluded); tick684
+bud_pod_mi_leefloon_inflow_vl_2558_q1_2026,pod_mi,2026,2558,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,VL new leefloners from excluded Q1 2558 (23.5pct); tick684
+bud_pod_mi_leefloon_inflow_wal_10728_q1_2026,pod_mi,2026,10728,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,WAL excl DG new leefloners from excluded Q1 10728 (37.2pct); tick684
+bud_pod_mi_leefloon_inflow_dg_107_q1_2026,pod_mi,2026,107,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,DG new leefloners from excluded Q1 107 (50pct); tick684
+bud_ocmw_reject_excl_applicants_14pct_q1_2026,pod_mi,2026,14,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,OCMW reject rate 14pct national of applications from unemp-excluded (VL 15.4 WAL 15.3 BRU 9.7 DG 7.8); tick684
+bud_rva_exclude_waves_bru_41709,rva,2026,41709,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,BRU exclusion waves total 41709 of 193904; tick684
+bud_rva_exclude_waves_vl_62676,rva,2026,62676,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,VL exclusion waves total 62676; tick684
+bud_rva_exclude_waves_wal_88566,rva,2026,88566,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,WAL excl DG exclusion waves total 88566; tick684
+bud_rva_exclude_waves_dg_953,rva,2026,953,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,DG exclusion waves total 953; tick684
+bud_dual_pod_mi_ocmw_2309m_2026,gg_belgium,2026,2309000000,,,budgeted,src_dual_pod_mi_leefloon_tick684,strong,Dual POD MI OCMW 2.309bn vs regional OCMW ops class; not TE-additive; tick684
+bud_dual_unemp_leefloon_shift_q1_2026,gg_belgium,2026,17606,,,budgeted,src_dual_pod_mi_leefloon_tick684,strong,Dual unemp exclude to leefloon Q1 17606 persons 31.9pct; tick684
