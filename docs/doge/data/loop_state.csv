@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T19:15:00Z,rq_701,710,no,tick710 progress@710; next rq_702; progress@720 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T19:30:00Z,rq_702,711,no,tick711 BCR Citydev/SAU/SRIB dual; next rq_703; progress@720 in 9; rq_116 deferred

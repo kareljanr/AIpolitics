@@ -537,3 +537,8 @@ parking_brussels,parking.brussels,Agence du stationnement de la Région de Bruxe
 brusoc,Brusoc,Brusoc,Brussels SME financing agency,agency,brussels_gov,fr,,,CoA Annexe2 presented 84.6m; corr solde +0.9; tick708
 abe_bru,ABE,Agence bruxelloise pour l'entrepreneuriat,Brussels entrepreneurship agency,agency,brussels_gov,fr,,,CoA Annexe2 corrected solde +2.2; tick708
 ibge,Leefmilieu Brussel / IBGE,Bruxelles Environnement (IBGE),Brussels Environment agency,agency,brussels_gov,bi,https://environnement.brussels,,,CoA Annexe2 presented 316.8m balanced; true solde +0.3 after reporté strip; Mission41 dual; tick709
+citydev,citydev.brussels,citydev.brussels,Brussels regional development company,agency,brussels_gov,bi,https://citydev.brussels,,,CoA soldes understate 9.4m missions; Annexe2 solde +9.9; tick711
+sau_bru,SAU,Société d'aménagement urbain,Brussels urban development company,agency,brussels_gov,fr,,,CoA Annexe2 corrected solde -3.3 after reporté; tick711
+srib,Finance&invest.brussels SRIB,Finance&invest.brussels (SRIB),Brussels regional investment company,agency,brussels_gov,bi,https://www.finance.brussels,,,CoA Annexe2 rec 9.1 dep 10.8 solde -1.7 dual PMV; tick711
+iristeam,Iristeam,Iristeam,Brussels IT mutualisation agency,agency,brussels_gov,bi,,,CoA Annexe2 balanced 101.6 dual Paradigm; tick711
+start_bru,St'art,Fonds d'investissement dans les entreprises culturelles St'art,Brussels cultural enterprise investment fund,agency,brussels_gov,fr,,,CoA Annexe2 solde +1.7; tick711

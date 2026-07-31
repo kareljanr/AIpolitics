@@ -8385,3 +8385,16 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (progress tick)
 - Next: prio5 **rq_702**; deferred **rq_116**; progress@720 in 10 ticks
 
+### 2026-08-01T19:30:00Z — tick 711
+- Unit: **rq_702** (FOI-adjacent dual residual — **BCR Citydev/SAU/missions/SRIB dual PMV**)
+- Found (primary CoA 2026_17 s6.1 + s6.4 + Annexe2):
+  - OAA+missions solde brut presented **+34.0** (+22 vs 2025); without reporté **+300.6** (+288.5)
+  - Path presented rec **+723.4** / dep **+701.4**; stripped rec **−409.2** / dep **−697.7**; SNF **166.8** (+357.9)
+  - Citydev missions soldes understate: used rec **1.113** vs table **10.514** (gap **9.401** mirror Paradigm)
+  - Citydev Annexe2 solde **+9.928** (dep **0.586**); SAU corrected solde **−3.309**; missions aggregate corr solde **+6.624**
+  - SRIB rec **9.114** dep **10.783** solde **−1.669**; St art solde **+1.674**; Iristeam **101.617** balanced
+  - Dual VL PMV / WAL SRIW; Strong CoA; L5 FOI.
+- Wrote: budgets (+22); commitments (+6); leaderboard (+7); sources (+2); entities (+5); FOI draft **gap_bru_citydev_sau_missions_l5**; rq_702=done; spawn **rq_703**; loop_state ticks=711
+- FOI opened: gap_bru_citydev_sau_missions_l5 — ready (not sent)
+- Next: rq_703; progress@720 in 9 ticks; rq_116 deferred
+

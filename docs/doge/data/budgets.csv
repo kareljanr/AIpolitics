@@ -13932,3 +13932,25 @@ bud_bru_fund_waste_8_3m_comp_err,brussels_gov,2024,8266000,,,budgeted,src_ccrek_
 bud_bru_financer_ibge_33_0m_comp,brussels_gov,2024,33014000,,,budgeted,src_ccrek_bru_ibge_mission41_env_2026,medium,Annexe3 comparative 41.102 IBGE fin 33.014 vs voted 32.214; tick709
 bud_bru_energy_water_83_5m_comp,brussels_gov,2024,83463000,,,budgeted,src_ccrek_bru_ibge_mission41_env_2026,medium,Annexe3 comparative 41.041 energy/water B 83.463 vs voted 83.388; tick709
 bud_dual_mission41_vl_omgeving_2026,gg_belgium,2026,690780000,,,budgeted,src_dual_env_ibge_vl_wal_tick709,strong,Dual BRU M41 liq 690.8 vs VL Omgeving residual; not TE-additive; tick709
+bud_bru_oaa_missions_solde_brut_34m_2026,brussels_gov,2026,34000000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,OAA+missions solde brut presented +34.0 (+22 vs 2025); tick711
+bud_bru_oaa_missions_solde_brut_stripped_300_6m_2026,brussels_gov,2026,300600000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,OAA+missions solde brut without reporté +300.6 (+288.5 vs 2025); tick711
+bud_bru_oaa_missions_rec_path_plus_723_4m_2026,brussels_gov,2026,723400000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,OAA+missions recettes path +723.4 presented (reporté inflated); tick711
+bud_bru_oaa_missions_dep_path_plus_701_4m_2026,brussels_gov,2026,701400000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,OAA+missions dep path +701.4 presented; tick711
+bud_bru_oaa_missions_rec_stripped_path_neg_409_2m,brussels_gov,2026,-409200000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Without reporté recettes path -409.2 vs 2025 budgets; tick711
+bud_bru_oaa_missions_dep_stripped_path_neg_697_7m,brussels_gov,2026,-697700000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Without reporté dep path -697.7 vs 2025; tick711
+bud_citydev_missions_rec_table_10_5m_2026,citydev,2026,10514000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Citydev missions table rec 10.514; tick711
+bud_citydev_missions_rec_used_1_1m_2026,citydev,2026,1113000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Citydev missions soldes calc used rec 1.113 understate; tick711
+bud_citydev_missions_understate_9_4m_2026,citydev,2026,9401000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Citydev missions soldes understated by 9.401 (mirror Paradigm over); tick711
+bud_citydev_dep_0_6m_2026,citydev,2026,586000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Citydev SA dep 0.586 solde 9.928 on rec 10.514 Annexe2; tick711
+bud_citydev_solde_9_9m_2026,citydev,2026,9928000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Citydev Annexe2 solde +9.928; tick711
+bud_sau_presented_rec_3_3m_2026,sau_bru,2026,3309000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,SAU presented rec 3.309 (reporté); tick711
+bud_sau_corrected_solde_neg_3_3m_2026,sau_bru,2026,-3309000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,SAU corrected solde -3.309 after strip reporté rec; tick711
+bud_missions_deleguees_rec_24_7m_2026,brussels_gov,2026,24683000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Missions deleguees aggregate rec presented 24.683; tick711
+bud_missions_deleguees_dep_14_8m_2026,brussels_gov,2026,14750000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Missions deleguees dep 14.750; tick711
+bud_missions_deleguees_solde_corr_6_6m_2026,brussels_gov,2026,6624000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Missions deleguees corrected solde +6.624 after reporté strip; tick711
+bud_srib_rec_9_1m_2026,srib,2026,9114000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Finance&invest.brussels SRIB rec 9.114; tick711
+bud_srib_dep_10_8m_2026,srib,2026,10783000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,SRIB dep 10.783 solde -1.669; tick711
+bud_srib_solde_neg_1_7m_2026,srib,2026,-1669000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,SRIB solde -1.669 dual investment; tick711
+bud_start_culture_solde_1_7m_2026,start_bru,2026,1674000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,St art culture invest fund solde +1.674 (rec 1.746 dep 0.072); tick711
+bud_iristeam_101_6m_2026,iristeam,2026,101617000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Iristeam balanced 101.617 dual IT; tick711
+bud_dual_citydev_pmv_dev_2026,gg_belgium,2026,10514000,,,budgeted,src_dual_citydev_pmv_srib_tick711,strong,Dual Citydev missions 10.5 vs VL PMV residual; not TE-additive; tick711
