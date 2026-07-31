@@ -13675,3 +13675,18 @@ bud_fwb_new_loan_rate_2025_3_6pct,fwb_gov,2025,0,,,outturn,src_dual_vl_fwb_he_de
 bud_fwb_fixed_share_debt_92_2pct_2025,fwb_gov,2025,0,,,outturn,src_dual_vl_fwb_he_debt_tick696,strong,FWB fixed-rate debt share 92.2pct 2025 (94.5 2024); tick696
 bud_fwb_multiyear_finance_10115m_2025_29,fwb_gov,2029,10115500000,,,estimate,src_dual_vl_fwb_he_debt_tick696,strong,FWB finance+refi 2025-29 10115.5m (refi 2458.9 + new 7656.7); boule de neige risk; tick696
 bud_dual_vl_he_debt_vs_fwb_es_2026,gg_belgium,2026,104900000,,,budgeted,src_dual_vl_fwb_he_debt_tick696,strong,Dual VL HE debt draws 104.9 vs FWB ES consol -108; not TE-additive; tick696
+bud_fwb_es_sousutil_total_117_9m_2026,fwb_gov,2026,117900000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,ES sous-est rec 158.7 + sous-util dep 40.8 = 117.9 soft SEC cover; T7; tick697
+bud_fwb_es_sousest_rec_158_7m_2026,fwb_gov,2026,158700000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,ES receipts sous-estimation 158.7m rate -6.0pct; CoA imprudent if transfers; tick697
+bud_fwb_es_sousutil_dep_40_8m_2026,fwb_gov,2026,40800000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,ES expenditure sous-utilisation 40.8m rate -1.5pct; T7; tick697
+bud_fwb_oap_sousutil_116_1m_2026,fwb_gov,2026,116100000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,OAP T1-3 + poles sous-util package 116.1 (rec 22.4 dep -93.8); tick697
+bud_fwb_saca_bat_sousutil_52_3m_2026,fwb_gov,2026,52300000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,Saca batiments scolaires sous-util 52.3; tick697
+bud_fwb_sgpgi_sousutil_21_5m_2026,fwb_gov,2026,21500000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,SGPGI sous-util 21.5; tick697
+bud_fwb_perimeter_sousutil_312_6m_2026,fwb_gov,2026,312600000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,Perimeter entities sous-util total 312.6 (IB 349.7 -37.1); tick697
+bud_fwb_ministry_sousutil_139_5m_2026,fwb_gov,2026,139500000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,Ministry CL sous-util 139.5 = 0.9pct; 2024 outturn inexec 116.2 / 0.8pct; tick697
+bud_fwb_total_sousutil_452_1m_2026,fwb_gov,2026,452100000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,Total sous-util SEC path 452.1 (ministry+perimeter); tick697
+bud_fwb_own_receipts_perimeter_1190_3m_2026,fwb_gov,2026,1190300000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,Own receipts perimeter 1190.3 excl selected; sous-est 191.4 = 16.1pct; tick697
+bud_fwb_sec_corr_embedded_dep_470_2m_2026,fwb_gov,2026,470200000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,SEC corr +470.2m dep embedded in entity soldes not table; CoA transparency; tick697
+bud_fwb_sec_corr_embedded_rec_neg_70_3m_2026,fwb_gov,2026,-70300000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,SEC corr -70.3m rec embedded in entity soldes; tick697
+bud_fwb_financing_need_total_2181_7m_2026,fwb_gov,2026,2181700000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,T9 financement total 2181.7 (net hors amort 1779 + amort 402.7); tick697
+bud_fwb_financing_need_net_1779m_2026,fwb_gov,2026,1779000000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,T9 besoin hors amort 1779 (IB 1679.1); drives debt +1779 to 16200; tick697
+bud_dual_fwb_es_vl_he_sousutil_2026,gg_belgium,2026,117900000,,,budgeted,src_dual_fwb_es_vl_he_sousutil_tick697,strong,Dual FWB ES soft 117.9 vs VL HE onderbenutting 323.6; not TE-additive; tick697

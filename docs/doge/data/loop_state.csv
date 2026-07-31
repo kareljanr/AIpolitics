@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T15:45:00Z,rq_687,696,no,tick696 VL HE debt 104.9 basiskoten 100 dual FWB ES -108; next rq_688; progress@700 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T16:00:00Z,rq_688,697,no,tick697 FWB ES sous-util 117.9 SEC embed dual VL HE; next rq_689; progress@700 in 3; rq_116 deferred

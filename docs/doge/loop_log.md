@@ -8194,3 +8194,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+kdg +artevelde); budgets (+15); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_he_debt_basiskoten_l5**; rq_687=done; spawn **rq_688**; loop_state ticks=696
 - FOI opened: gap_vl_ba2026_he_debt_basiskoten_l5 — ready (not sent)
 - Next: rq_688; progress@700 in 4 ticks; rq_116 deferred
+
+### 2026-08-01T16:00:00Z — tick 697
+- Unit: **rq_688** (FOI-adjacent dual residual — **FWB ES sous-util 117.9 + SEC embed dual VL HE 323.6**)
+- Found (primary CoA 2026_33 T6–T8 + §2.3; dual 2026_28 HE):
+  - **ES soft cover 117.9**: rec sous-est **158.7** (−6.0%) + dep sous-util **40.8** (−1.5%)
+  - Perimeter **312.6** (OAP **116.1** · Saca bat **52.3** · SGPGI **21.5**); ministry **139.5** (0.9%); total sous-util **452.1**
+  - Own receipts **1190.3** → sous-est **16.1%**; CoA: imprudent if MFWB transfers
+  - SEC T6 **−238.1** path −80.6 (Ecureuil requal **−71.2**); **embedded** entity soldes **+470.2 dep / −70.3 rec** opaque
+  - Financing need T9 **2181.7** (net **1779** + amort **402.7**)
+  - Dual VL HE onderbenutting **323.6**; Strong CoA; L5 FOI.
+- Wrote: budgets (+15); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fwb_es_sousutil_sec_l5**; rq_688=done; spawn **rq_689**; loop_state ticks=697
+- FOI opened: gap_fwb_es_sousutil_sec_l5 — ready (not sent)
+- Next: rq_689; progress@700 in 3 ticks; rq_116 deferred
