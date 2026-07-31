@@ -12456,3 +12456,61 @@ bud_swcs_renopack_need_2026,swcs,2026,100100000,,,budgeted,src_ccrek_wal_aju2026
 bud_swcs_renopack_rw_credits_2026,swcs,2026,76600000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,RW credits to SWCS Renopack class 76.6m; tick664
 bud_swcs_bei_interest_sub_4_3m_2026,swcs,2026,4300000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,SWCS BEI interest subvention DF080.031 4.3m; tick664
 bud_renopack_swcs_primes_outturn_2025,swcs,2025,110900000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,SWCS Renopack primes financed 110.9m 2025; tick664
+bud_wal_rec_total_aju_2026,wallonie_gov,2026,22087935000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Table7 recettes total aju 22087.935m path +602.2; tick665
+bud_wal_rec_fiscales_aju_2026,wallonie_gov,2026,7024782000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Recettes fiscales aju 7024.782m path +182.3; tick665
+bud_wal_ipp_additionnels_aju_2026,wallonie_gov,2026,3801038000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,IPP additionnels-dep fiscales aju 3801.038m path +128.9; tick665
+bud_wal_ipp_brut_aju_2026,wallonie_gov,2026,4639607000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Table8 IPP centimes brut aju 4639.607m path +123.7; tick665
+bud_wal_ipp_dep_fiscales_aju_2026,wallonie_gov,2026,813763000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Table8 dep fiscales IPP aju 813.763m; tick665
+bud_wal_impots_regionaux_aju_2026,wallonie_gov,2026,3092610000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Impots regionaux aju 3092.610m path +54.4; tick665
+bud_wal_impots_via_fed_aju_2026,wallonie_gov,2026,2151914000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Impots regionaux via fed aju 2151.914m path +34.0; tick665
+bud_wal_enreg_total_aju_2026,wallonie_gov,2026,1330831000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Table9 droits enregistrement total aju 1330.831m path +70.6; tick665
+bud_wal_succession_aju_2026,wallonie_gov,2026,821083000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Succession aju 821.083m path -36.4; tick665
+bud_wal_justice_fiscale_10m_aju_2026,wallonie_gov,2026,10000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Justice fiscale +10m on enreg (PCC access not operational; CoA doubts 2026 impact); tick665
+bud_ste_emilie_aju_2026,ste_emilie,2026,4761198000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Ste-Emilie aju 4761.198m path +18.9; tick665
+bud_ste_emilie_fwb_inscribed_aju_2026,ste_emilie,2026,4615200000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,FWB section part Ste-Emilie 4615.2m; tick665
+bud_ste_emilie_fwb_gap_hospital_aju_2026,ste_emilie,2026,146000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,FWB wrongly nets hospital past charges -146.0m vs WAL 4761.2; dual FWB gap; tick665
+bud_lsf_params_june_uplift_class_2026,wallonie_gov,2026,123500000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,If June2026 BFP params used LSF+Ste-Emilie+Saint-Quentin +123.5m vs Feb params; tick665
+bud_fwb_dotation_aju_2026,wallonie_gov,2026,451139000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Dotation FWB decret II aju 451.139m path +7.4; tick665
+bud_competences_lsf_aju_2026,wallonie_gov,2026,3331384000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Competences LSF aju 3331.384m flat; CRP 29.8 + navetteurs 16.7 in dep; tick665
+bud_crp_pensions_aju_2026,wallonie_gov,2026,29800000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,CRP pensions statutaires 29.8m in dep (correct); tick665
+bud_navetteurs_bru_aju_2026,wallonie_gov,2026,16700000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Compensation navetteurs BCR 16.7m in dep; tick665
+bud_frr_rec_aju_2026,prw_frr_wallonie,2026,1188666000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,FRR/RRF rec aju 1188.666m path +354.3 (= dep provision rise); tick665
+bud_nonfiscal_diverses_aju_2026,nonfiscal_diverses_wal,2026,836854000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Recettes diverses aju 836.854m path +55.4; tick665
+bud_we_remonte_extra_20m_aju_2026,wallonie_entreprendre,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,WE treasury remonte extra +20m in diverses; tick665
+bud_indus_local_4_1m_aju_2026,wallonie_gov,2026,4100000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Indus recovery local public admins 4.1m; tick665
+bud_indus_entreprises_8_5m_aju_2026,wallonie_gov,2026,8500000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Indus recovery enterprises 8.5m; tick665
+bud_opw_dot_excess_rembourse_11_9m,opw,2026,11900000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OPW excess 2025 dotation rembourse +11.9m; tick665
+bud_grande_distribution_dechets_17_7m,wallonie_gov,2026,17700000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Grande distribution waste contribution +17.7m new; tick665
+bud_divertissement_aad_aju_2026,wallonie_gov,2026,30000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,AAD divertissement aju 30m (init 20 path +10); CoA questions if 2025 outturn 20.9 not 8.7; tick665
+bud_divertissement_total_aju_2026,wallonie_gov,2026,91400000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Impots divertissement total aju 91.4m; tick665
+bud_circulation_total_aju_2026,wallonie_gov,2026,797123000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Table11 vehicle taxes aju 797.123m path +9.8; tick665
+bud_taxe_circulation_aju_2026,wallonie_gov,2026,631568000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Taxe circulation aju 631.568m; tick665
+bud_tmc_aju_2026,wallonie_gov,2026,165555000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Taxe mise en circulation aju 165.555m; tick665
+bud_circulation_encours_apr2026,wallonie_gov,2026,346500000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,Vehicle tax encours 346.5m at 2026-04-30; tick665
+bud_circulation_douteux_apr2026,wallonie_gov,2026,64900000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,Vehicle tax creances douteuses 64.9m; tick665
+bud_circulation_pending_imputation_69_7m,wallonie_gov,2026,69700000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,Vehicle tax payments pending imputation 69.7m; tick665
+bud_precompte_immo_rw_aju_2026,wallonie_gov,2026,52200000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Precompte immobilier RW share aju 52.2m path +0.7; tick665
+bud_amendes_total_aju_2026,wallonie_gov,2026,139200000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Amendes routieres total aju 139.2m path -5.3 (57 gen + FISIR rest); tick665
+bud_emprunts_renouveler_aju_2026,wallonie_debt,2026,1101900000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Emprunts a renouveler aju 1101.9m; tick665
+bud_emprunts_nouveaux_aju_2026,wallonie_debt,2026,2957600000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Nouveaux emprunts aju 2957.6m; tick665
+bud_otw_rec_aju_2026,tec,2026,1210000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW rec aju 1210.0m path +22.6; tick665
+bud_otw_dep_aju_2026,tec,2026,1196300000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW dep aju 1196.3m path -64.4; tick665
+bud_otw_solde_class_aju_2026,tec,2026,13700000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW budget solde class +13.7m (rec-dep); tick665
+bud_otw_pnrr_subs_plus_31_3m,tec,2026,31300000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW PNRR subs +31.3m (Chatelet 10 + greening bus 21.3); tick665
+bud_otw_capital_path_minus_75_3m,tec,2026,-75300000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW capital dep path -75.3m; tick665
+bud_otw_bus_acq_path_minus_43_5m,tec,2026,-43500000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW bus acquisition path -43.5m (e-bus tender/delivery delays); tick665
+bud_otw_buildings_path_minus_17_5m,tec,2026,-17500000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW buildings reno/construction path -17.5m; tick665
+bud_otw_digital_billettique_path_minus_9m,tec,2026,-9000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW electric compliance digital billettique path -9.0m; tick665
+bud_otw_road_works_path_minus_5_2m,tec,2026,-5200000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW road works path -5.2m; tick665
+bud_otw_rec_init_2026,tec,2026,1187400000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW rec init 1187.4m; tick665
+bud_otw_dep_init_2026,tec,2026,1260700000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,OTW dep init 1260.7m; tick665
+bud_do_total_encours_may2026,wallonie_gov,2026,8926731000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,DO table encours 18May2026 8926.731m; tick665
+bud_do10_encours_may2026,prw_frr_wallonie,2026,1587701000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,DO10 encours 1587.701m (largest); tick665
+bud_do14_encours_may2026,wallonie_gov,2026,1326853000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,DO14 encours 1326.853m; tick665
+bud_do17_encours_may2026,wallonie_gov,2026,2130121000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,DO17 encours 2130.121m; tick665
+bud_do18_encours_may2026,wallonie_gov,2026,2322940000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,DO18 encours 2322.940m; tick665
+bud_do_total_exec_may2026,wallonie_gov,2026,11066315000,,,outturn,src_ccrek_wal_aju2026_recettes_otw,strong,DO total exec CL 18May2026 11066.315m = 51.9pct init; tick665
+bud_do17_cl_aju_2026,wallonie_gov,2026,9890876000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,DO17 CL aju 9890.876m path +103.1; tick665
+bud_do18_cl_aju_2026,wallonie_gov,2026,3760283000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,DO18 CL aju 3760.283m path +104.8; tick665
+bud_do11_personnel_cl_aju_2026,wallonie_gov,2026,816100000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,Prog 031 personnel CL aju 816.1m path +5.1; tick665
+bud_do10_cl_aju_2026,prw_frr_wallonie,2026,1755613000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,DO10 CL aju 1755.613m path +344.2 (PRW sticky); tick665

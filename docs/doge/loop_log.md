@@ -7815,3 +7815,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+68); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_debt_primes_fonds_l5; rq_655=done; spawn rq_656; loop_state ticks=664
 - FOI opened: gap_wal_aju2026_debt_primes_fonds_l5 -- ready (not sent)
 - Next: rq_656; progress@670 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T08:00:00Z -- tick 665
+- Unit: rq_656 (FOI-adjacent dual fiscal residual -- **aju2026 recettes Table7 + OTW capital cut + Ste-Emilie gap 146m + DO encours**)
+- Found (primary CoA 2026_26): **Recettes aju EUR22.088bn** path **+EUR602m** (FRR **+EUR354.3m** to **EUR1.189bn**; IPP **+EUR128.9m** to **EUR3.801bn**; fiscales **+EUR182m**). **Ste-Emilie EUR4.761bn** vs FWB **EUR4.615bn** gap **EUR146m** hospital (recurring dual). LSF June params would add **+EUR123.5m**. **Nonfiscal diverses EUR836.9m** (+55.4: WE remonte +20; OPW 11.9; waste retail 17.7; indus 12.6). **Circulation EUR797m**; encours **EUR346.5m** (douteux 64.9 pending 69.7). **OTW** rec **EUR1.210bn** / dep **EUR1.196bn** / capital path **-EUR75.3m** (bus **-EUR43.5m** e-bus delays); PNRR **+EUR31.3m**. **DO encours** 18May **EUR8.927bn** (DO18 2.32 / DO17 2.13 / DO10 1.59 / DO14 1.33). Dual FWB/VL/De Lijn. Strong confidence CoA; L5 residual FOI.
+- Wrote: entities (+nonfiscal/opw if new); budgets (+60); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_recettes_otw_l5; rq_656=done; spawn rq_657; loop_state ticks=665
+- FOI opened: gap_wal_aju2026_recettes_otw_l5 -- ready (not sent)
+- Next: rq_657; progress@670 in 5 ticks; rq_116 deferred

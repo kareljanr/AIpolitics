@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T07:45:00Z,rq_655,664,no,tick664 Moody Baa1 interest 754m primes stock 262m PIMPT dual; next rq_656; progress@670 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T08:00:00Z,rq_656,665,no,tick665 recettes aju 22.09bn OTW capital -75m Ste-Emilie gap 146m dual; next rq_657; progress@670 in 5; rq_116 deferred

@@ -505,3 +505,4 @@ pole_reconversion_wal,Pole de reconversion Wallonie,Le pole de reconversion,Wall
 centre_habitat_durable,Centre d etudes en habitat durable,Centre d etudes en habitat durable,Walloon sustainable housing study centre dual,agency,wallonie_gov,fr,,,,CoA Annex3 BI2025 rec 0.886m dep 1.086m solde -0.200m; tick662
 futurocite,Futurocite,Futurocite,Walloon Futurocite Type3 dual,agency,wallonie_gov,fr,,,,CoA Annex3 BI2025 rec 0.754m dep 0.655m solde +0.098m; tick662
 interreg_wal,Interreg joint secretariats Wallonie,Secretariats conjoints Interreg Wallonie,Interreg joint secretariats dual VL FR LU,programme,wallonie_gov,fr,,,,CoA Annex3 Interreg Lux-WAL-VL dep 2.646m + FR-WAL-VL 0.513m; tick662
+opw,Organisme payeur de Wallonie OPW,Organisme payeur de Wallonie OPW,Walloon EU paying agency dual VL,agency,wallonie_gov,fr,https://www.wallonie.be,,,SACA; excess 2025 dot rembourse 11.9m aju2026; tick665
