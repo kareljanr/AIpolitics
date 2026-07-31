@@ -8438,3 +8438,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_gip_2026_27_l5 — ready (not sent)
 - Next: rq_706; progress@720 in 6 ticks; rq_116 deferred
 
+### 2026-08-01T20:30:00Z — tick 715
+- Unit: **rq_706** (FOI-adjacent dual residual — **VL GIP L5 assetmgmt/fiets/execution dual**)
+- Found (primary CoA 2026_27 §§5.1–5.4):
+  - Assetmgmt prog avg **723m** vs entity ask **1991**; broad **1528.8/1160.6/1111**; scope pollution fleet e-bus **378.5** 2025 + non-AM **102.8**
+  - Fiets claim **~300**; subprog avg **121**; actu2026 **229** vs path **331** (gap **−102**); path2027 **394**
+  - Only **51.4%** ministry GIP2025 is accounting investment; reg maint extra **40→75** vs Wijzer need **+460/yr**
+  - Overkap Lantis leefbaarheid VAK **629.8** + Scheldebrug class **240**; Lantis loan **1.65bn** CoA wants capital
+  - Exec2025: **559** lines; **85** no charge; **77** off-GIP charged; Lantis **90.2** not in any GIP; commit **2496**; on-plan **2319** / off **229**; under **454** / over **188**
+  - Dual BCR STIB / WAL infra; Strong CoA; L5 FOI.
+- Wrote: budgets (+30); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vl_gip_l5_programmes_exec_2025**; rq_706=done; spawn **rq_707**; loop_state ticks=715
+- FOI opened: gap_vl_gip_l5_programmes_exec_2025 — ready (not sent)
+- Next: rq_707; progress@720 in 5 ticks; rq_116 deferred
+
