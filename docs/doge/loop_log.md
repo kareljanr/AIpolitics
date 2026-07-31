@@ -9012,3 +9012,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_police_fed_budget_l5 — ready prio8 (not sent)
 - Next: rq_746; progress@760 in 6; rq_116 deferred
 
+
+### 2026-08-02T15:00:00Z — tick 755
+- Unit: **rq_746** (FOI-adjacent residual dual — **Regie Gevangenisarbeid / Prison Cloud dual Justice**)
+- Found (primary Kamer DOC 56 1281/021 ADBA RGA, local raw extract):
+  - **CE1211 goods:** 2024 **€17.483m** → 2025–26 **€16.432m** (LI100 regie ws **€3.924m**; LI200 contractor **€5.006m**; LI300 training **€0.4m**; LI500 welfare **€1.0m/yr**; LI600 Prison Cloud **€5.595m**; LI800 admin **€0.427m**)
+  - **Prison Cloud LI600:** exp **€6.645m** 2024 / **€5.595m** 2025–26; rec **€5.850m** 2026; equip invest **€0.33m**
+  - **CE1221 domestic LI400:** **€5.056m** 2026 exact match Justice BA gratifs (zero-sum refacture EPI)
+  - **Personnel CE1112:** **€4.862m** 2025–26; **invest CE7422:** **€2.483m**
+  - **Sales:** regie ws **€2.447m** + contractor **€8.200m** class; ops class ~**€26.5m** excl invest
+  - Dual map RGA labour/Cloud vs Justice prison ops / PHV digi — not TE-additive
+- Wrote: entity **regie_gevangenisarbeid**; budgets (+30); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_rga_prison_cloud_labour_l5**; rq_746=done; spawn **rq_747**; ticks=755
+- FOI opened: gap_rga_prison_cloud_labour_l5 — ready prio8 (not sent)
+- Next: rq_747; progress@760 in 5; rq_116 deferred
+
