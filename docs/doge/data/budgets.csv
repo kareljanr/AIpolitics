@@ -13079,3 +13079,54 @@ bud_creg_refund_285m_ch4_note_2026,sec_federal,2026,285000000,,,budgeted,src_ccr
 bud_be_nuc_jv_class_phoenix,be_nuc,2026,0,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,medium,Be-NUC 50/50 State-Engie JV for Doel4/Tihange3 LTO; fiscal impact LOI nationalisation unpriced; tick676
 bud_energy_temp_support_creg_share_note,creg,2026,7500000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Alias residual CREG 7.5m of Apr22 pack (same as bud_temp_support_creg); tick676
 bud_nuclear_loi_nationalisation_unpriced_2026,sec_federal,2026,0,,,estimate,src_ccrek_fed_aju2026_energy_ch4,weak,LOI 30 Apr 2026 PM+Engie nuclear activities takeover framework; budget impact too uncertain not in aju2026; tick676
+bud_ss_rec_total_bc_148002m_2026,sec_ss,2026,148002400000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,SS consol receipts BC2026 148002.4m (-14.8 vs IB 148017.2); CoA Deel III; tick677
+bud_ss_rec_2024_outturn_139795m,sec_ss,2024,139794800000,,,outturn,src_ccrek_fed_aju2026_ss_receipts,strong,SS consol receipts outturn 139794.8m 2024; CoA table; tick677
+bud_ss_rec_2025_prelim_145270m,sec_ss,2025,145269800000,,,outturn,src_ccrek_fed_aju2026_ss_receipts,strong,SS consol receipts prelim 145269.8m 2025; CoA table; tick677
+bud_ss_bijdragen_85328m_2026,sec_ss,2026,85328000000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,SS contributions 85328.0m BC2026 (-197.3 / -0.2pct); 57.7pct of receipts; tick677
+bud_ss_toelagen_overheden_27444m_2026,sec_ss,2026,27443800000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Government grants/dots to SS 27443.8m (-234.9); 18.5pct of receipts; tick677
+bud_ss_alt_finance_27583m_2026,sec_ss,2026,27583400000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Alternative financing fiscal assign 27583.4m (+361.8); 18.6pct receipts; tick677
+bud_ss_other_receipts_7647m_2026,sec_ss,2026,7647200000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Other SS receipts 7647.2m (+55.6); tick677
+bud_rsz_contrib_69475m_2026,rsz,2026,69474700000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ social contributions 69474.7m 2026 (-116.8 / -0.2pct); 99.9pct of employee-regime contributions; tick677
+bud_oisz_fpd_direct_contrib_59_4m_2026,fpd_pensioenen,2026,59400000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,FPD direct-collected employee contributions 59.4m 2026; CoA fn45; tick677
+bud_oisz_fedris_direct_contrib_23_2m_2026,fedris,2026,23200000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Fedris direct-collected contributions 23.2m 2026; CoA fn45; tick677
+bud_oisz_riziv_direct_contrib_0_6m_2026,riziv,2026,600000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RIZIV direct-collected contributions 0.6m 2026; CoA fn45; tick677
+bud_ss_structural_red_4294m_2026,rsz,2026,4294100000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Federal structural contribution reductions unchanged-policy 4294.1m (+3.8); tick677
+bud_ss_werkbonus_1827m_2026,rsz,2026,1827300000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Werkbonus personal RSZ reduction 1827.3m (+5.0); tick677
+bud_ss_struct_employer_red_2420m_2026,rsz,2026,2419500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Structural employer contribution reductions 2419.5m (-7.8); tick677
+bud_ss_targeted_red_exp_848m_2026,rsz,2026,848400000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Targeted contribution reductions booked as social exp 848.4m (-10.0); tick677
+bud_ss_first_hires_red_512_5m_2026,rsz,2026,512500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,First-hire contribution reductions 512.5m of targeted pack; tick677
+bud_ss_wage_ceiling_exempt_58_2m_2026,rsz,2026,58200000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Employer contrib exemption above 85k/qtr (86.7k idx) 58.2m 2026; tick677
+bud_ss_total_red_5142m_2026,rsz,2026,5142500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Total federal contribution reductions 5142.5m (-6.2); structural+targeted; tick677
+bud_ss_employer_responsab_impact_24m_2026,rsz,2026,24000000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,MR aju measures impact on contrib receipts 24.0m (downward revision employer responsabilisering); tick677
+bud_plusplannen_yield_est_64_2m_2026,rsz,2026,64200000,,,estimate,src_ccrek_fed_aju2026_ss_receipts,medium,Plusplannen reform yield RSZ Dec2025 64.2m (was 53); global re-est May no longer separable; July start may overstate; tick677
+bud_sports_ceiling_double_fix_yield_10m_2026,rsz,2026,10000000,,,estimate,src_ccrek_fed_aju2026_ss_receipts,medium,Sports employer double-benefit fix yield est 10m/yr; July 2026 start may overstate; tick677
+bud_horeca_cad_abolition_yield_11_3m_2026,rsz,2026,11300000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Horeca+collective hours reduction abolition RSZ yield 11.3m (IB 28; -16.7 delay); tick677
+bud_voluntary_overtime_cost_32_3m_2026,rsz,2026,32300000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Voluntary overtime expansion contrib cost 32.3m 2026 (IB 43; -10.7); implemented 1 Apr; tick677
+bud_zuidertoren_study_2_5m_2026,rsz,2026,2500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Zuidertoren renovation study spend 2.5m 2026; asset sale offset delayed to Mar 2027 → GB deficit understated 2.5m; tick677
+bud_zuidertoren_reno_envelope_177_7m,rsz,2026,177700000,,,commitment,src_ccrek_fed_aju2026_ss_receipts,strong,Zuidertoren renovation envelope 177.7m 2026-31 of which 168.8m from RSZ-GB reserves asset sales; tick677
+bud_wage_ceiling_phase2_75m_2027,rsz,2027,75000000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Wage ceiling phase2 employer contrib free above cap -75m from 2027; rules not final; tick677
+bud_werkbonus_strengthen_357_5m_2028,rsz,2028,357500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Werkbonus strengthen (ref wages up) -357.5m from 2028 (was 2029); tick677
+bud_bijzondere_bijdrage_cut_415m_2028,rsz,2028,415000000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Bijzondere SS contribution cut -415.0m from 2028 (was 2029); tick677
+bud_bijzondere_bijdrage_est_1430m_2025,rsz,2025,1430100000,,,estimate,src_ccrek_fed_aju2026_ss_receipts,strong,Bijzondere socialezekerheidsbijdrage est 1430.1m 2025; CoA fn56; tick677
+bud_rsz_gov_dots_total_8656m_2026,rsz,2026,8656100000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ-GB government dots total 8656.1m (-195.0 / -2.3pct); tick677
+bud_rsz_evenwichtsdotatie_5446m_2026,rsz,2026,5446200000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Evenwichtsdotatie RSZ-GB 5446.2m 2026 (path -207.3 vs IB); tick677
+bud_rsz_globale_subsidie_2684m_2026,rsz,2026,2683700000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Globale Staatssubsidie RSZ-GB 2683.7m (+18.1); tick677
+bud_rsz_specifieke_toelage_209m_2026,rsz,2026,208900000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Specifieke Staatstoelage RSZ-GB 208.9m; tick677
+bud_rsz_deelstaat_subsidies_317m_2026,rsz,2026,317300000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Deelstaatentiteiten subsidies RSZ-GB 317.3m (path -7.5); tick677
+bud_rsz_evenwicht_2025_overfinance_settle_547_5m,rsz,2026,547500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,2025 evenwichtsdotatie overfinance settlement expense 547.5m on 2026 GB (incl capital -59.6); GB deficit -547.5m 2026; tick677
+bud_rsz_gb_deficit_547_5m_2026,rsz,2026,547500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ-GB deficit 547.5m 2026 after 2025 evenwicht settle + capital; tick677
+bud_ss_alt_btw_19635m_2026,sec_ss,2026,19634700000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Alt finance from VAT 19634.7m of 27583.4 total; tick677
+bud_ss_alt_rv_7949m_2026,sec_ss,2026,7948700000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Alt finance from withholding tax on movable income 7948.7m; tick677
+bud_rsz_alt_finance_23711m_2026,rsz,2026,23711300000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ-GB alt finance 23711.3m (+319.1); tick677
+bud_rsz_alt_btw_base_9344m_2026,rsz,2026,9343800000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ BTW base amount legal minimum 9343.8m 2026 (pct formula below floor); tick677
+bud_rsz_alt_btw_care_7707m_2026,rsz,2026,7707300000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ BTW geneeskundige verzorging 7707.3m (+62.1); tick677
+bud_rsz_alt_rv_6660m_2026,rsz,2026,6660200000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSZ roerende voorheffing 6660.2m (+257.0); tick677
+bud_rsvz_alt_finance_3872m_2026,rsvz,2026,3872100000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSVZ-GB alt finance 3872.1m (+42.7); tick677
+bud_rsvz_alt_btw_base_1877m_2026,rsvz,2026,1876500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSVZ BTW base legal minimum 1876.5m; tick677
+bud_rsvz_alt_btw_care_707m_2026,rsvz,2026,707100000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSVZ BTW geneeskundige verzorging 707.1m (-7.0); tick677
+bud_rsvz_alt_rv_1289m_2026,rsvz,2026,1288500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,RSVZ roerende voorheffing 1288.5m (+49.7); tick677
+bud_ss_assign_bijzondere_100_9m_2026,sec_ss,2026,100900000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Assign-fund bijzondere SS contribution 100.9m; tick677
+bud_ss_assign_deeleconomie_1_2m_2026,rsvz,2026,1200000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Assign-fund deeleconomie PIT 1.2m to RSVZ-GB; tick677
+bud_ss_assign_funds_total_27686m_2026,sec_ss,2026,27685500000,,,budgeted,src_ccrek_fed_aju2026_ss_receipts,strong,Total assign-fund finance to SS 27685.5m (+360.5 / +1.3pct vs IB); tick677
+bud_ss_near_balance_gap_24m_2026,sec_ss,2026,24200000,,,estimate,src_ccrek_fed_aju2026_ss_receipts,strong,SS exp 148026.6 - rec 148002.4 = gap ~24.2m near-balance; tick677
+bud_dual_ss_receipts_148bn_2026,gg_belgium,2026,148002400000,,,budgeted,src_dual_ss_receipts_tick677,strong,Dual SS receipts 148.0bn class vs E2 tax/SS systems; not TE-additive; tick677

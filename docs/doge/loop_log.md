@@ -7919,3 +7919,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+40); taxex (+4); commitments (+6); leaderboard (+6); sources (+2); entity be_nuc; FOI draft **gap_fed_aju2026_energy_ch4_l5**; rq_667=done; spawn **rq_668**; loop_state ticks=676
 - FOI opened: gap_fed_aju2026_energy_ch4_l5 — ready (not sent)
 - Next: rq_668; progress@680 in 4 ticks; rq_116 deferred
+
+### 2026-08-01T11:00:00Z — tick 677
+- Unit: **rq_668** (FOI-adjacent dual residual — **federal CoA BA2026 SS receipts matrix dual**)
+- Found (primary CoA 2026_22 Deel III Ch I):
+  - **SS consol rec EUR148.002bn** (−14.8 vs IB): bijdragen **85.328** (−197) · toelagen **27.444** (−235) · alt fin **27.583** (+362) · other **7.647**
+  - **RSZ contrib 69.475** (−117); OISZ direct FPD **59.4** Fedris **23.2** RIZIV **0.6**
+  - **Reductions 5.143** (struct **4.294** werkbonus **1.827** / targeted **848** first-hires **512.5** ceiling **58.2**)
+  - **Gov dots RSZ-GB 8.656** (evenwicht **5.446** globale **2.684** specifiek **209** deelstaat **317**); 2025 overfinance settle **−547.5** → GB deficit
+  - **Alt fin:** BTW **19.635** + RV **7.949**; RSZ **23.711** RSVZ **3.872**; assign total **27.686** (+361)
+  - Residual: horeca/CAD yield **11.3** not 28; overtime cost **32.3**; Zuidertoren study **2.5** unoffset 2026; path cuts 2028 bijzondere **−415** werkbonus **−357.5**
+  - Near-balance vs exp **148.027** gap **~24m**. Dual E2. Strong CoA; L5 FOI.
+- Wrote: budgets (+50); commitments (+6); leaderboard (+6); sources (+2); entity rsz_globaal_beheer; FOI draft **gap_fed_aju2026_ss_receipts_l5**; rq_668=done; spawn **rq_669**; loop_state ticks=677
+- FOI opened: gap_fed_aju2026_ss_receipts_l5 — ready (not sent)
+- Next: rq_669; progress@680 in 3 ticks; rq_116 deferred
