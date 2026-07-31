@@ -13399,3 +13399,36 @@ bud_rva_exclude_waves_wal_88566,rva,2026,88566,,,budgeted,src_ccrek_fed_aju2026_
 bud_rva_exclude_waves_dg_953,rva,2026,953,,,budgeted,src_ccrek_fed_aju2026_pod_mi_leefloon,strong,DG exclusion waves total 953; tick684
 bud_dual_pod_mi_ocmw_2309m_2026,gg_belgium,2026,2309000000,,,budgeted,src_dual_pod_mi_leefloon_tick684,strong,Dual POD MI OCMW 2.309bn vs regional OCMW ops class; not TE-additive; tick684
 bud_dual_unemp_leefloon_shift_q1_2026,gg_belgium,2026,17606,,,budgeted,src_dual_pod_mi_leefloon_tick684,strong,Dual unemp exclude to leefloon Q1 17606 persons 31.9pct; tick684
+bud_delijn_ib_net_rev_up_50m_2026,de_lijn,2026,50000000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,IB2026 net transport revenue plan +50.0m (+20.1pct tickets+fare-dodging fines); held from werkingstoelage; tick685
+bud_delijn_ba_net_rev_minus_25m_vs_ib_plan_2026,de_lijn,2026,25000000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,BA2026 revises net rev 25.0m lower than IB +50 plan (gap 75m vs IB revenue assumption); tick685
+bud_delijn_rev_gap_vs_ib_75m_class_2026,de_lijn,2026,75000000,,,estimate,src_ccrek_vl_delijn_rva_unemp_residual,medium,Implied revenue shortfall vs IB assumption 75m class (50 plan +25 cut); feeds toelage; tick685
+bud_delijn_werking_gip_33_7m_2026,de_lijn,2026,33700000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Werkingstoelage from GIP provisie +33.7m; tick685
+bud_delijn_werking_ov_exp_25m_2026,de_lijn,2026,25000000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Werkingstoelage from OV expansion policy +25.0m; tick685
+bud_delijn_werking_dwv_delay_minus_12_6m_2026,de_lijn,2026,12600000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Werkingstoelage -12.6m delay takeover De Werkvennootschap projects; tick685
+bud_delijn_werking_efficiency_minus_5_5m_2026,de_lijn,2026,5500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,De Lijn efficiency save -5.5m (efficiëntere overheid MOW rechtspersonen); CoA p23+50; tick685
+bud_delijn_werking_net_plus_39_4m_2026,de_lijn,2026,39400000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Net werkingstoelage path +39.4m (33.7+25-12.6-5.5≈40.6; CoA states 39.4 residual other -1.2 class); tick685
+bud_delijn_exploit_design_minus_11_1m_2026,de_lijn,2026,11100000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Design budget had exploitanten -11.1m insufficient for greening; tick685
+bud_delijn_exploit_green_plus_27_1m_2026,de_lijn,2026,27100000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Exploitanten greening step-up +27.1m (new contracts Jul2025 higher fleet standards); tick685
+bud_delijn_exploit_swing_38_2m_class_2026,de_lijn,2026,38200000,,,estimate,src_ccrek_vl_delijn_rva_unemp_residual,medium,Exploitanten path swing +38.2m class from design -11.1 to +27.1; tick685
+bud_delijn_pps_2025_correction_23_7m,de_lijn,2025,23700000,,,outturn,src_ccrek_vl_delijn_rva_unemp_residual,strong,2025 PPS delivery credit gap 23.7m; auditor reservation + VL consol correction; tick685
+bud_delijn_pps_2026_missing_3_5m,de_lijn,2026,3500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,2026 PPS deliveries 3.5m without BA credits added; tick685
+bud_mow_efficiency_delijn_5_5m_2026,de_lijn,2026,5500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,MOW efficiëntere overheid impact De Lijn 5.5m (DVW 2.5); not detailed in algemene toelichting; tick685
+bud_mow_efficiency_dvw_2_5m_2026,vlaamse_waterweg,2026,2500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,MOW efficiëntere overheid impact DVW 2.5m; tick685
+bud_terneuzen_vek_21_5m_deep_2026,vlaamse_waterweg,2026,21500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Terneuzen VEK 21.5m BA kasplan Mar2026; ruiter eoy2025 76.2 covers VAK; tick685
+bud_terneuzen_nl_15m_missing_deep_2026,vlaamse_waterweg,2026,15000000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,NL final settlement 15.0m in kasplan+GIP missing from BA VEK; tick685
+bud_rva_uitkeringen_bc_4836_4m_2026,rva,2026,4836400000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,RVA benefits Globaal Beheer BC 4836.4m (+198.5 / +4.3pct vs IB 4637.9); tick685
+bud_rva_uitkeringen_ib_4637_9m_2026,rva,2026,4637900000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,RVA benefits IB2026 4637.9m; tick685
+bud_rva_volume_up_287m_2026,rva,2026,287000000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Volume effect +287.0m (full unemp +17473 units; temp unemp -3851); tick685
+bud_rva_full_unemp_units_up_17473_2026,rva,2026,17473,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Fully unemployed benefit recipients +17473 units path (FPB -98k not -116k y/y swing); tick685
+bud_rva_temp_unemp_units_minus_3851_2026,rva,2026,3851,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Temporary unemployment beneficiaries -3851 units; tick685
+bud_rva_spilindex_up_8_2m_2026,rva,2026,8200000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Spilindex Dec2025 path +8.2m; Jun2026 next index not re-estimated by RVA; tick685
+bud_rva_other_minus_96_7m_2026,rva,2026,96700000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Other impact -96.7m (avg daily benefit, arrears, days paid, category shifts); tick685
+bud_fpb_unemp_rate_bc_9_6pct_2026,gg_belgium,2026,96,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,FPB Feb2026 unemployment rate 9.6pct (IB 9.1); storage 96=9.6pct; tick685
+bud_rva_mantelzorg_cost_0_8m_yr,rva,2026,800000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Mantelzorg thematic leave reform RVA est +0.8m/yr from 1 Jul2026; not in budget; half-year 0.4 for 2026; tick685
+bud_rva_mantelzorg_2026_half_0_4m,rva,2026,400000,,,estimate,src_ccrek_vl_delijn_rva_unemp_residual,medium,Half-year 2026 mantelzorg cost ~0.4m if 1 Jul start; unbudgeted; tick685
+bud_riziv_unemp_inflow_ziv_44_1m_2026,riziv,2026,44100000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,RIZIV: 5000/yr unemp-loss inflow to ZIV +44.1m 2026 path 94.9/99.2/97.5; RVA monitoring mild Jan26; tick685
+bud_riziv_unemp_inflow_ziv_2027_94_9m,riziv,2027,94900000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 94.9m 2027; tick685
+bud_riziv_unemp_inflow_ziv_2028_99_2m,riziv,2028,99200000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 99.2m 2028; tick685
+bud_riziv_unemp_inflow_ziv_2029_97_5m,riziv,2029,97500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 97.5m 2029; tick685
+bud_dual_delijn_werking_39_4m_2026,gg_belgium,2026,39400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual De Lijn werking +39.4m path vs WAL OTW; tick685
+bud_dual_rva_unemp_4_84bn_2026,gg_belgium,2026,4836400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual RVA unemp 4.84bn vs leefloon spillover; not TE-additive; tick685

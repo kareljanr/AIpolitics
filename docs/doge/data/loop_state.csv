@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T12:45:00Z,rq_675,684,no,tick684 POD MI OCMW 2309 soft save 13.1 dead unemp-leefloon 31.9pct dual; next rq_676; progress@690 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T13:00:00Z,rq_676,685,no,tick685 De Lijn rev/toelage wedge RVA 4.84bn volume dual; next rq_677; progress@690 in 5; rq_116 deferred

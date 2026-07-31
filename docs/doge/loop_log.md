@@ -8029,3 +8029,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+36); commitments (+6); leaderboard (+6); sources (+2); entities pod_mi; FOI draft **gap_fed_aju2026_pod_mi_leefloon_l5**; rq_675=done; spawn **rq_676**; loop_state ticks=684
 - FOI opened: gap_fed_aju2026_pod_mi_leefloon_l5 — ready (not sent)
 - Next: rq_676; progress@690 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T13:00:00Z — tick 685
+- Unit: **rq_676** (FOI-adjacent dual residual — **VL De Lijn path + RVA unemp volume dual**)
+- Found (primary CoA 2026_28 §7.5 + 2026_22 §5):
+  - **De Lijn:** IB net rev **+50** (+20.1% tickets+fines) held from toelage; BA rev **−25** vs plan; werking **+39.4** (GIP **33.7** + OV **25** − DWV **12.6** − efficiency **5.5**); exploitanten **+27.1** (design had **−11.1**); PPS **3.5** missing (2025 **23.7**); Terneuzen **21.5** / NL **15** missing
+  - **RVA unemp BC EUR4.836bn** (+198.5): volume **+287** (full **+17.473** units; temp **−3.851**); spilindex **+8.2**; other **−96.7**; FPB rate **9.6%** not 9.1; mantelzorg **+0.8**/yr unbudgeted; unemp→ZIV **44.1** path
+  - Dual OTW/leefloon. Strong CoA; L5 FOI.
+- Wrote: budgets (+33); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_delijn_rva_unemp_l5**; rq_676=done; spawn **rq_677**; loop_state ticks=685
+- FOI opened: gap_vl_delijn_rva_unemp_l5 — ready (not sent)
+- Next: rq_677; progress@690 in 5 ticks; rq_116 deferred
