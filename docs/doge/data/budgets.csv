@@ -13606,3 +13606,29 @@ bud_vl_debt_pps_635m_t14,vlaanderen_gov,2026,635200000,,,budgeted,src_ccrek_vl_b
 bud_vl_debt_gsc_553m_t14,vlaanderen_gov,2026,553200000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,T14 green certificates stock 553.2m flat; tick693
 bud_vl_hospital_debt_off_maastricht_2184m,vlaanderen_gov,2026,2184300000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Hospital infra debt to fed 2184.3m off Maastricht; missing from algemene toelichting; tick693
 bud_vl_autonomie_factor_debt_474m,vlaanderen_gov,2026,473800000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Autonomie factor definitive 473.8m off Maastricht to fed; tick693
+bud_vl_deficit_finance_3401_9m_2026,vlaanderen_gov,2026,3401900000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 begrotingstekort voor ESR-correcties 3401.9m (+714.5 vs IB 2687.4); tick694
+bud_vl_vorderingensaldo_3642_7m_t15,vlaanderen_gov,2026,3642700000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 vorderingensaldo to-finance 3642.7m (+742.6 vs IB 2900.1); tick694
+bud_vl_esr_corr_minus_205_1m_2026,vlaanderen_gov,2026,-205100000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 ESR correcties -205.1m (IB -177.5); tick694
+bud_vl_direct_debt_increase_7405m_2026,vlaanderen_gov,2026,7405000000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 netto toename directe schuld +7405.0m (IB +5989.9; path +1415.2); tick694
+bud_vl_cashpool_esr8_1627_9m_2026,vlaanderen_gov,2026,1627900000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 cashpool entities ESR8 netto 1627.9m (+977 vs IB 650.9); tick694
+bud_vl_vg_esr8_minus_70_5m_2026,vlaanderen_gov,2026,-70500000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 VG ministries ESR8 netto -70.5m (IB -0.9); tick694
+bud_vl_vmsw_fin_770_5m_2026,vlaanderen_gov,2026,770500000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 netto financiering VMSW 770.5m (IB 920.5; -150); tick694
+bud_vl_vwf_fin_1326_6m_2026,vwf,2026,1326600000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 netto financiering VWF 1326.6m (IB 1356.7; -30.1); tick694
+bud_vl_indirect_debt_evol_minus_605_9m,vlaanderen_gov,2026,-605900000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,T15 netto evolutie indirecte schuld -605.9m; tick694
+bud_univ_debt_up_104_9m_2026,vlaanderen_gov,2026,104900000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Univ/hogescholen debt +104.9m vs eoy2025; tick694
+bud_uhasselt_debt_draw_50m_2026,vlaanderen_gov,2026,50000000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,UHasselt debt draw 50.0m; tick694
+bud_kdg_debt_draw_35m_2026,vlaanderen_gov,2026,35000000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Karel De Grote Hogeschool debt draw 35.0m; tick694
+bud_artevelde_debt_draw_20m_2026,vlaanderen_gov,2026,20000000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Artevelde Hogeschool debt draw 20.0m; tick694
+bud_vipa_aflossing_284_7m_2026,vlaanderen_gov,2026,284700000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,VIPA aflossingen ~284.7m of ESR9 rechtspersonen; tick694
+bud_rrf_repower_cash_782_1m_2026,vlaanderen_gov,2026,782100000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,RRF+RePowerEU kasontvangsten 782.1m (betalingsaanvragen 4+5+6); tick694
+bud_rrf_repower_esr_rec_407_7m_2026,vlaanderen_gov,2026,407700000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,RRF+RePowerEU ESR receipts 407.7m; tick694
+bud_rrf_esr8_should_374_4m_2026,vlaanderen_gov,2026,374400000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Correct ESR8 article should be 374.4m (782.1-407.7); CoA; tick694
+bud_rrf_esr8_booked_457_2m_2026,vlaanderen_gov,2026,457200000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,BA booked ESR8 EU 457.2m (error +82.8 vs 374.4; SKF omitted); tick694
+bud_skf_omitted_rrf_error_class,vlaanderen_gov,2026,0,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Sociaal Klimaatfonds ESR receipt omitted in ESR8 calc; tick694
+bud_false_esr9_eu_31_4m_2026,vlaanderen_gov,2026,31400000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,False ESR9 EU receipt 31.4m (CB0-9CBDAAR-OL); tick694
+bud_vl_debt_calc_error_113_5m_2026,vlaanderen_gov,2026,113500000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,CoA: total negative impact wrong RRF/SKF/ESR9 estimates 113.5m; tick694
+bud_terhills_mijnen_esr8_40_6m,vlaanderen_gov,2026,40600000,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Mijnen ESR8 receipts +40.6m Terhills partial sale pending; tick694
+bud_vl_debt_ratio_91_6pct_deep,vlaanderen_gov,2026,91.6,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Debt/lopende ontvangsten 91.6pct (norm 65% debt norm 2016); tick694
+bud_vl_net_assets_minus_13_3bn_2024,vlaanderen_gov,2024,-13300000000,,,outturn,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Netto-actief -13.3bn eoy2024 (target positive); eoy2025 report autumn 2026; tick694
+bud_vl_debt_vs_2024_up_37pct_class,vlaanderen_gov,2026,37.0,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Consol debt +37.0pct vs BU2024 to ~57.0bn BA2026; unit pct; tick694
+bud_dual_vl_debt_error_113_5m,gg_belgium,2026,113500000,,,budgeted,src_dual_vl_wal_fwb_ratings_tick694,strong,Dual VL debt calc error 113.5 class vs Entity II ratings stack; not TE-additive; tick694

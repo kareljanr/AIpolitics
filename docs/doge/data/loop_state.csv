@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T15:00:00Z,rq_684,693,no,tick693 Fluvius talks collapse 1.56 Defensiefonds opaque Lineas 14.3 dual DSO; next rq_685; progress@700 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T15:15:00Z,rq_685,694,no,tick694 VL debt T15 +7405 RRF error 113.5 ratio 91.6 ratings dual; next rq_686; progress@700 in 6; rq_116 deferred

@@ -8155,3 +8155,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_ba2026_fluvius_collapse_l5 — ready (not sent)
 - Next: rq_685; progress@700 in 7 ticks; rq_116 deferred
 
+
+### 2026-08-01T15:15:00Z — tick 694
+- Unit: **rq_685** (FOI-adjacent dual residual — **VL debt T15 path + RRF/SKF error 113.5 + ratings dual**)
+- Found (primary CoA 2026_28 §5.1–5.3):
+  - **T15:** deficit-to-finance **3401.9** (+714.5); direct debt **+7405** (IB +5989.9; path +1415.2); cashpool ESR8 **1627.9** (+977); VMSW fin **770.5** / VWF **1326.6**; indirect **−605.9** (univ **+104.9**: UHasselt **50** KDG **35** Artevelde **20**)
+  - **RRF error:** should ESR8 **374.4** (cash **782.1**−ESR **407.7**) booked **457.2**; SKF omitted; false ESR9 **31.4**; total **113.5**
+  - **Houdbaarheid:** ratio **91.6%** (norm **65%**); net assets **−13.3bn** eoy2024; Maastricht/receipts ratio dropped for BRP (CoA criticizes)
+  - **Ratings:** Fitch **AA-** stable; Moody **A1**; S&P **AA-** (Apr2026 cuts); dual WAL **Baa1** FWB **A3**
+  - Strong CoA; L5 FOI.
+- Wrote: budgets (+26); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_debt_t15_l5**; rq_685=done; spawn **rq_686**; loop_state ticks=694
+- FOI opened: gap_vl_ba2026_debt_t15_l5 — ready (not sent)
+- Next: rq_686; progress@700 in 6 ticks; rq_116 deferred
+
