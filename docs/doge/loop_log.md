@@ -7289,3 +7289,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual research wave; FOI **gap_dual_research_grant_matrix_l5** ready+draft; rq_591=done spawn **rq_592**; ticks=600
 - FOI opened: gap_dual_research_grant_matrix_l5 (ready, human send) - not sent
 - Next: prio5 **rq_592**; deferred **rq_116**; progress@610 in 10 ticks
+
+### 2026-07-31T16:00:00Z — tick 601
+- Unit: rq_592 (FOI-adjacent dual community science hole-fill — **Plantentuin Meise** dual VL/FWB)
+- Found: **Plantentuin Meise** JV2025 (primary PDF, prelim). **Ontvangsten €33.291m** (VL dotatie **€16.366m** · FFEU invest **€8.105m** · eigen/project **€8.820m** of which entrance **1.955** projects **4.240** federal **0.849**). **Uitgaven €30.004m** (salaries **€16.056m** 53.5% · invest/repairs **€9.022m**). Saldo **+€3.287m** (invest underspend). Staff **217** 1Jan2026 (VL **101** · FWB **25** · own **91**) — classic dual community funding of one garden. Strong confidence (prelim).
+- Wrote: entities (+plantentuin_meise); budgets (+26); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_meise_final_accounts_l5_2025; rq_592=done; spawn rq_593; loop_state ticks=601
+- FOI opened: gap_meise_final_accounts_l5_2025 → ready (not sent)
+- Next: rq_593; progress@610 in 9 ticks; rq_116 deferred
