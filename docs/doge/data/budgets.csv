@@ -11223,3 +11223,15 @@ bud_apaq_dep_bi2024,apaq_w,2024,11452000,,,budgeted,src_ccrek_apaq_budget_bi2025
 bud_apaq_solde_bi2024,apaq_w,2024,-267000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W solde SEC BI2024 -0.267m
 bud_apaq_dep_path_delta_2024_25,apaq_w,2025,3307000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,Depenses path BI2024 11.452m to BI2025 14.759m delta +3.307m
 bud_dual_agri_promo_apaq_vl_2025,gg_belgium,2025,14759000,,,budgeted,src_dual_agri_promo_apaq_vl_tick609,medium,Illustrative dual agri promo: APAQ-W dep 14.759m + VL TK promotie 5.659m 2026 = 20.418m class; VLAM full residual FOI; not additive TE
+bud_crac_fonct_rec_sec_bi2025,crac,2025,7710000,,,budgeted,src_ccrek_crac_budget_bi2025,strong,CRAC Type1 recettes SEC fonct BI2025 7.710m CoA Table33
+bud_crac_fonct_dep_sec_bi2025,crac,2025,7710000,,,budgeted,src_ccrek_crac_budget_bi2025,strong,CRAC depenses SEC fonct BI2025 7.710m balanced CoA Table33
+bud_crac_fonct_rec_sec_bi2024,crac,2024,7965000,,,budgeted,src_ccrek_crac_budget_bi2025,strong,CRAC recettes SEC fonct BI2024 7.965m CoA Table33
+bud_crac_fonct_dep_sec_bi2024,crac,2024,7965000,,,budgeted,src_ccrek_crac_budget_bi2025,strong,CRAC depenses SEC fonct BI2024 7.965m balanced
+bud_crac_fonct_ba2025b,crac,2025,8020000,,,budgeted,src_wallex_crac_budget_ajust_2025,strong,CRAC budget ajuste fonctionnement 2025 rec=dep 8.020m decret Art.19
+bud_crac_alt_finance_impact_bi2025,crac,2025,13067000,,,budgeted,src_ccrek_crac_alt_finance_bi2025,strong,CRAC impact financements alternatifs solde RW BI2025 13.067m (vs 26.285m BA2024 path -13.218m) CoA Table10
+bud_crac_alt_finance_impact_ba2024,crac,2024,26285000,,,budgeted,src_ccrek_crac_alt_finance_bi2025,strong,CRAC impact alt finance BA2024 26.285m CoA Table10
+bud_crac_alt_fa_bi2025,crac,2025,21928000,,,budgeted,src_ccrek_crac_alt_finance_bi2025,strong,CRAC financement alternatif (ex-PWI split) BI2025 21.928m CoA Table10
+bud_crac_alt_pwi_bi2025,crac,2025,-12213000,,,budgeted,src_ccrek_crac_alt_finance_bi2025,strong,CRAC financement alternatif PWI BI2025 -12.213m CoA Table10
+bud_crac_long_terme_bi2025,crac,2025,3352000,,,budgeted,src_ccrek_crac_alt_finance_bi2025,strong,CRAC long terme BI2025 3.352m (vs 23.625m BA2024 path -20.273m) CoA Table10
+bud_crac_fonds_communes_dot_ba2025b,crac,2025,38553000,,,budgeted,src_wallex_crac_fonds_communes_2025,strong,Dotation CRAC refinancement fonds des communes BA2025b 38.553m DF 091.023 decret Art.3/6
+bud_crac_oxygene_borrow_2025,crac,2025,210000000,,,budgeted,src_pw_cri8_oxygene_210m,strong,Prior Plan Oxygene CRAC bank borrow 210m (2x105m) on-lend 2025 six cities class

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T18:15:00Z,rq_601,610,no,tick610 progress@610 dual SACA/UAP wave; next rq_602; progress@620 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T18:30:00Z,rq_602,611,no,tick611 CRAC fonct 7.71m alt 13.1m dual local finance; next rq_603; progress@620 in 9; rq_116 deferred

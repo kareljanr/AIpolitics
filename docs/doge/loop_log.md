@@ -7373,3 +7373,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual wave; FOI **gap_dual_saca_uap_fte_matrix_l5** ready+draft; rq_601=done spawn **rq_602**; ticks=610
 - FOI opened: gap_dual_saca_uap_fte_matrix_l5 (ready, human send) - not sent
 - Next: prio5 **rq_602**; deferred **rq_116**; progress@620 in 10 ticks
+
+### 2026-07-31T18:30:00Z — tick 611
+- Unit: rq_602 (FOI-adjacent dual local finance hole-fill — **CRAC** Type1)
+- Found: **CRAC** Centre régional d'aide aux communes (primary CoA Table33+10 + decret Art.3/6/19). **Fonct SEC BI2025:** rec=dep **€7.710m** (BI2024 **€7.965m**). **BA2025b fonct:** **€8.020m**. **Alt finance impact** Table10: CRAC **€13.067m** BI2025 vs **€26.285m** BA2024 (path -€13.2m); FA **€21.928m** · PWI **-€12.213m** · long terme **€3.352m** (was **€23.625m**). **Fonds communes** CRAC channel **€38.553m** BA2025b. Prior Oxygene borrow **€210m**. Type1 BCE **254714773**. Dual VL local finance residual FOI. Strong confidence; loan book L5 residual.
+- Wrote: entities (+crac); budgets (+12); commitments (+2); leaderboard (+6); sources (+5); FOI draft gap_crac_loanbook_l5_2025; rq_602=done; spawn rq_603; loop_state ticks=611
+- FOI opened: gap_crac_loanbook_l5_2025 ? ready (not sent)
+- Next: rq_603; progress@620 in 9 ticks; rq_116 deferred
