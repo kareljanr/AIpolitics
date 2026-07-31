@@ -9293,3 +9293,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_766 Royal 001 / SACA 021; progress@780 in 6; rq_116 deferred
 
+
+## Tick 775 — 2026-08-03T11:00:00Z
+
+- Unit: **rq_766** (FOI-adjacent residual — **Kamer DOC 56 1281/001 Dotaties Koninklijke Familie + BFW residual**, 47p)
+- Found (primary 56K1281001):
+  - **Civil List** **€15.574m** 2026 (law base €11.554m + index)
+  - **Albert** €1.218m · **Astrid** €0.423m · **Laurent** €0.406m → personal dots **€17.621m**
+  - **Regie** royal domains ops **€3.884m** + invest **€0.945m** = **€4.829m**
+  - **Police palace** statutair **€11.419m** → core personal+Regie **€22.45m**; +police stat **~€33.87m** class
+  - **Justitiehuizen** total **€146.989m** (VL 90.357 · FWB 55.702 · DG 0.929)
+  - **Prison overcrowding prefin** VL **€10.751m** + FWB **€7.375m** + DG **€0.049m** = **€18.175m**
+- Wrote: entity royal_civil_list; budgets +22; commitments +7; leaderboard +8; sources +2; FOI **gap_royal_justitiehuizen_prison_prefin_l5** prio7 ready; rq_766=done; spawn **rq_767**; ticks=775
+- FOI: ready only — **do not send**
+- Next: rq_767 SACA 021 residual / Entity II; progress@780 in 5; rq_116 deferred
+

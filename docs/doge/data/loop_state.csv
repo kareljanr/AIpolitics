@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T10:00:00Z,rq_765,774,no,tick774 Kanselarij culture 68.7 NCIA 137.4 CCB 26.6; next rq_766 Royal/SACA; progress@780 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T11:00:00Z,rq_766,775,no,tick775 Royal civil 15.57 justitiehuizen 147 prefin 18.2; next rq_767 SACA/EntityII; progress@780 in 5; rq_116 deferred

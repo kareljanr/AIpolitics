@@ -16225,3 +16225,25 @@ bud_kanselarij_union_premiums_2026,fod_kanselarij,2026,17682000,,,budgeted,src_k
 bud_hns_shape_stack_2026,fod_kanselarij,2026,9348000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,HNS SHAPE force protection+ZHC+REM stack 9348 kEUR 2026; tick774
 bud_dual_culture_kanselarij_oap_2026,gg_belgium,2026,42248000,,,derived,src_dual_kanselarij_culture_ncia_tick774,strong,Dual Monnaie Kanselarij 42.248 exact class OAP023 42.25; not TE-additive; tick774
 bud_dual_ncia_host_nation_2026,gg_belgium,2026,137400000,,,derived,src_dual_kanselarij_culture_ncia_tick774,strong,Dual NCIA host-nation build eng 137.4m multi-year vs BZ host residual; not TE-additive; tick774
+bud_royal_civil_list_2026,royal_civil_list,2026,15574000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Civil List King Filip indexed 15574000 EUR 2026 (law base 11554000); tick775
+bud_royal_civil_list_law_base,royal_civil_list,2013,11554000,,,statute,src_kamer_royal_1281_001_2026,strong,Law 27 Nov 2013 civil list base 11554000 EUR; tick775
+bud_royal_albert_pay_2026,royal_civil_list,2026,232000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Albert II salary part 232000 EUR 2026; tick775
+bud_royal_albert_ops_2026,royal_civil_list,2026,986000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Albert II ops/staff part 986000 EUR 2026; tick775
+bud_royal_albert_total_2026,royal_civil_list,2026,1218000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Albert II total dot 1218000 EUR 2026; tick775
+bud_royal_astrid_total_2026,royal_civil_list,2026,423000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Astrid total 423000 (pay 116k + ops 307k) 2026; tick775
+bud_royal_laurent_total_2026,royal_civil_list,2026,406000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Laurent total 406000 (pay 116k + ops 290k) 2026; tick775
+bud_royal_personal_dots_2026,royal_civil_list,2026,17621000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Personal royal dots civil+Albert+Astrid+Laurent 17621000 EUR 2026; tick775
+bud_royal_regie_ops_2026,regie_gebouwen,2026,3884000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Regie royal domains ops/maintenance 3884000 EUR 2026; tick775
+bud_royal_regie_invest_2026,regie_gebouwen,2026,945000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Regie royal domains invest 945000 EUR 2026; tick775
+bud_royal_regie_stack_2026,regie_gebouwen,2026,4829000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Regie royal domains ops+invest 4829000 EUR 2026; tick775
+bud_royal_police_palace_statutair_2026,fod_police,2026,11419000,,,budgeted,src_kamer_royal_1281_001_2026,strong,BA 30.66.110003 Federal Police palace security statutair 11419 kEUR 2026; tick775
+bud_royal_core_package_2026,royal_civil_list,2026,22450000,,,derived,src_kamer_royal_1281_001_2026,strong,derived
+bud_royal_with_police_stat_2026,royal_civil_list,2026,33869000,,,derived,src_kamer_royal_1281_001_2026,strong,derived
+bud_justitiehuizen_dot_2026,sec_federal,2026,146988723,,,budgeted,src_kamer_royal_1281_001_2026,strong,Justice houses community dots total 146988723 EUR 2026 (VL 90.357 FWB 55.702 DG 0.929m); tick775
+bud_justitiehuizen_vl_2026,vlaanderen_gov,2026,90357127,,,budgeted,src_kamer_royal_1281_001_2026,strong,Justice houses VL 90357127 EUR 2026; tick775
+bud_justitiehuizen_fwb_2026,fwb_gov,2026,55702492,,,budgeted,src_kamer_royal_1281_001_2026,strong,Justice houses FWB 55702492 EUR 2026; tick775
+bud_prison_prefin_vl_2026,vlaanderen_gov,2026,10751000,,,budgeted,src_kamer_royal_1281_001_2026,strong,BA 37.40.857501 prison overcrowding prefin VL 10751000 EUR 2026; tick775
+bud_prison_prefin_fwb_2026,fwb_gov,2026,7375000,,,budgeted,src_kamer_royal_1281_001_2026,strong,BA 37.40.857502 prison overcrowding prefin FWB 7375000 EUR 2026; tick775
+bud_prison_prefin_dg_2026,sec_federal,2026,49000,,,budgeted,src_kamer_royal_1281_001_2026,strong,BA 37.40.857503 prison overcrowding prefin DG 49000 EUR 2026; tick775
+bud_prison_prefin_stack_2026,sec_federal,2026,18175000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Prison overcrowding justice-houses prefin stack 18175000 EUR 2026; tick775
+bud_dual_royal_justice_2026,gg_belgium,2026,146988723,,,derived,src_dual_royal_justice_houses_tick775,strong,Dual royal package vs justitiehuizen 147m + prison prefin 18.2m; not TE-additive; tick775
