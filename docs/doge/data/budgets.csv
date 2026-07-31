@@ -16011,3 +16011,22 @@ bud_ss_fpd_channel_stack_2026,fpd,2026,17187144000,,,derived,src_kamer_ss_1281_0
 bud_ss_mega_dots_stack_2026,fod_ss,2026,30641320000,,,derived,src_kamer_ss_1281_013_2026,strong,Section24 mega dots+handicap+RIZIV care ~30.641bn 2026 excl pure SPF ops; tick764
 bud_ss_ops_core_2026,fod_ss,2026,60691000,,,derived,src_kamer_ss_1281_013_2026,strong,OA21 major ops+payroll+eGov class ~60.7m 2026 excl mega transfers; tick764
 bud_dual_ss_smals_egov_2026,gg_belgium,2026,4330000,,,derived,src_dual_ss_dots_tick764,strong,Dual SS eGov/Smals 4.33m vs Finance 39.6 Emploi residual; not TE-additive; tick764
+bud_debt_interest_lt_eur_2026,fod_debt,2026,10799836000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.10.211001 LT/MT euro interest incl OLO SURE RRF FIF 10799836 kEUR 2026; tick765
+bud_debt_interest_st_eur_2026,fod_debt,2026,1135070000,,,budgeted,src_kamer_debt_1281_019_2026,strong,ST treasury certificates etc interest 1135070 kEUR 2026; tick765
+bud_debt_interest_lt_fx_2026,fod_debt,2026,174312000,,,budgeted,src_kamer_debt_1281_019_2026,strong,LT/MT FX interest 174312 kEUR 2026; tick765
+bud_debt_interest_st_fx_2026,fod_debt,2026,55611000,,,budgeted,src_kamer_debt_1281_019_2026,strong,ST FX interest 55611 kEUR 2026; tick765
+bud_debt_swap_interest_2026,fod_debt,2026,325510000,,,budgeted,src_kamer_debt_1281_019_2026,strong,Swap interest costs primes 325510 kEUR 2026; tick765
+bud_debt_fx_diff_2026,fod_debt,2026,161891000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.11.817013 FX differences 161891 kEUR 2026; tick765
+bud_debt_olo_commissions_2026,fod_debt,2026,45722000,,,budgeted,src_kamer_debt_1281_019_2026,strong,OLO syndication commissions 45722 kEUR 2026; tick765
+bud_debt_securities_tax_2026,fod_debt,2026,3480000,,,budgeted,src_kamer_debt_1281_019_2026,strong,Annual securities account tax on OLO holdings 3480 kEUR 2026; tick765
+bud_debt_buyback_cost_2026,fod_debt,2026,4421000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.11.817014 buyback cost 4421 kEUR 2026; tick765
+bud_debt_principal_repay_lt_2026,fod_debt,2026,31193197000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.11.911001 LT principal repayments 31193197 kEUR 2026 (+7.74bn vs 2025 calendar); tick765
+bud_debt_securities_purchases_2026,fod_debt,2026,7236958000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.11.817015 securities purchases nominal 7236958 kEUR 2026; tick765
+bud_debt_agency_dot_2026,fod_debt,2026,7873000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.40.414001 Federal Debt Agency dot 7873 kEUR 2026; tick765
+bud_debt_infrabel_credit_2026,fod_debt,2026,200000000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.40.851401 Infrabel refinance credit facility 200000 kEUR 2026; tick765
+bud_debt_fx_risk_mgmt_2026,fod_debt,2026,480665000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.50.817016 FX risk management 480665 kEUR 2026; tick765
+bud_debt_fx_risk_other_2026,fod_debt,2026,20000000,,,budgeted,src_kamer_debt_1281_019_2026,strong,BA 45.50.817017 FX risk other 20000 kEUR 2026; tick765
+bud_debt_interest_core_stack_2026,fod_debt,2026,12490339000,,,derived,src_kamer_debt_1281_019_2026,strong,Core interest LT+ST+FX+swap 12490.3m 2026 excl FX diff commissions; tick765
+bud_debt_interest_plus_costs_2026,fod_debt,2026,12705432000,,,derived,src_kamer_debt_1281_019_2026,strong,Interest core + FX diff + commissions + tax + buyback cost ~12.705bn 2026; tick765
+bud_debt_principal_plus_purchases_2026,fod_debt,2026,38430155000,,,derived,src_kamer_debt_1281_019_2026,strong,Principal repay + securities purchases ~38.43bn 2026 financing roll; tick765
+bud_dual_debt_gg_interest_2026,gg_belgium,2026,12490339000,,,derived,src_dual_debt_interest_tick765,strong,Dual federal debt interest core 12.49bn vs GG EDP interest 14.28bn 2025 class; not TE-additive; tick765

@@ -9154,3 +9154,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +35; commitments +9; leaderboard +10; sources +2; entity fod_ss; foi_queue gap_ss_oisz_recon_fte_l5 prio9 ready; FOI draft; rq_755=done; rq_756 open; ticks=764
 - FOI opened: gap_ss_oisz_recon_fte_l5 (ready, not sent)
 - Next: rq_756 public debt 1281/019 or OAP 022/023; progress@770 in 6
+
+### 2026-08-03T01:00:00Z — tick 765
+- Unit: rq_756 (Kamer DOC 56 1281/019 SPF Finances public debt residual)
+- Found: Primary PDF 56K1281019 (33p). Core interest **~€12.49bn** 2026 (LT/MT euro BA 45.10.211001 **€10.800bn** path +1.34bn; ST **€1.135bn**; FX interest 0.23; swap **€0.326bn**). Plus FX diff 0.16 + OLO commissions 45.7m + securities tax 3.5m. Principal repayments **€31.193bn** (+7.74bn vs 2025; two OLOs 28.6bn + SURE 1.3bn). Securities purchases **€7.237bn**. Debt Agency **€7.87m**. Infrabel credit facility **€200m**. FX risk mgmt **€481m**. Dual vs GG EDP interest 14.28bn 2025.
+- Wrote: budgets +19; commitments +8; leaderboard +7; sources +2; entity fod_debt; foi_queue gap_debt_interest_implicit_rate_l5 ready; FOI draft; rq_756=done; rq_757 open; ticks=765
+- FOI opened: gap_debt_interest_implicit_rate_l5 (ready, not sent)
+- Next: rq_757 OAP 022/023 or EU financing 020; progress@770 in 5
