@@ -8411,3 +8411,15 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_visit_abe_fbg_l5 — ready (not sent)
 - Next: rq_704; progress@720 in 8 ticks; rq_116 deferred
 
+### 2026-08-01T20:00:00Z — tick 713
+- Unit: **rq_704** (FOI-adjacent dual residual — **BCR Port de Bruxelles/Innoviris reporté dual ports-RDI**)
+- Found (primary CoA 2026_17 Annexe2):
+  - **Port de Bruxelles** presented balanced **65.371**; corrected rec **37.675** dep **36.575** solde **+1.100** (reporté strip ~28m)
+  - **Innoviris** presented **93.157**; corrected **41.198** (reporté strip **51.959** both sides)
+  - Closes BCR Annexe2 reporté wave (SIAMU/BPS/parking/IBGE/Visit/ABE/FBG/Port/Innoviris/Proprete/Citydev/SAU/SRIB …)
+  - Dual POAB omzet class **507m** / WAL inland ports; dual FWO/VLAIO RDI
+  - Strong CoA; L5 FOI.
+- Wrote: budgets (+11); commitments (+4); leaderboard (+4); sources (+2); entities (+1); FOI draft **gap_bru_port_innoviris_l5**; rq_704=done; spawn **rq_705** (prefer VL/WAL); loop_state ticks=713
+- FOI opened: gap_bru_port_innoviris_l5 — ready (not sent)
+- Next: rq_705 VL/WAL residual; progress@720 in 7 ticks; rq_116 deferred
+

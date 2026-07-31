@@ -13970,3 +13970,14 @@ bud_brupartners_corrected_3_8m_2026,brupartners,2026,3815000,,,budgeted,src_ccre
 bud_mad_brussels_comp_0_8m_2025,mad_brussels,2025,825000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,medium,Annexe3 Mad.brussels comparative B 0.825 vs voted 0.759; tick712
 bud_dual_tourism_visit_tv_vw_2026,gg_belgium,2026,29734000,,,budgeted,src_dual_tourism_export_tick712,strong,Dual Visit.brussels 29.7 presented vs TV/VisitWallonia residual; not TE-additive; tick712
 bud_dual_export_abe_awex_fit_2026,gg_belgium,2026,64112000,,,budgeted,src_dual_tourism_export_tick712,strong,Dual ABE 64.1 presented vs AWEX 76.8 FIT residual; not TE-additive; tick712
+bud_port_bru_presented_65_4m_2026,port_bru,2026,65371000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Port de Bruxelles presented balanced 65.371m reporté inflated; tick713
+bud_port_bru_corrected_rec_37_7m_2026,port_bru,2026,37675000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Port rec corrected 37.675 after reporté strip; tick713
+bud_port_bru_corrected_dep_36_6m_2026,port_bru,2026,36575000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Port dep corrected 36.575 after reporté strip; tick713
+bud_port_bru_hidden_surplus_1_1m_2026,port_bru,2026,1100000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Port true solde +1.100 hidden by reporté; tick713
+bud_port_bru_reporte_strip_rec_27_7m_2026,port_bru,2026,27696000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Port reporté strip rec -27.696; tick713
+bud_port_bru_reporte_strip_dep_28_8m_2026,port_bru,2026,28796000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Port reporté strip dep -28.796; tick713
+bud_innoviris_presented_93_2m_2026_tick713,innoviris,2026,93157000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Innoviris presented 93.157 balanced reporté; tick713
+bud_innoviris_corrected_41_2m_2026_tick713,innoviris,2026,41198000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Innoviris corrected 41.198 after reporté -51.959; tick713
+bud_innoviris_reporte_strip_52_0m_2026,innoviris,2026,51959000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Innoviris reporté strip 51.959 both sides; tick713
+bud_dual_port_bru_poab_2026,gg_belgium,2026,65371000,,,budgeted,src_dual_ports_rdi_tick713,strong,Dual Port BRU 65.4 presented vs POAB 507 class; not TE-additive; tick713
+bud_dual_innoviris_vlaio_fwo_2026,gg_belgium,2026,93157000,,,budgeted,src_dual_ports_rdi_tick713,strong,Dual Innoviris 93.2 presented vs VL FWO/VLAIO residual; not TE-additive; tick713

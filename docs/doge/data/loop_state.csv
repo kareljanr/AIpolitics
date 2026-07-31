@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T19:45:00Z,rq_703,712,no,tick712 BCR Visit/ABE/FBG dual tourism-export; next rq_704; progress@720 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T20:00:00Z,rq_704,713,no,tick713 BCR Port/Innoviris dual; Annexe2 wave close; next rq_705 VL/WAL; progress@720 in 7; rq_116 deferred
