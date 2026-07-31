@@ -7947,3 +7947,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+50); commitments (+6); leaderboard (+6); sources (+2); entities (+3); FOI draft **gap_vl_ba2026_begrotingsfondsen_l5**; rq_669=done; spawn **rq_670**; loop_state ticks=678
 - FOI opened: gap_vl_ba2026_begrotingsfondsen_l5 — ready (not sent)
 - Next: rq_670; progress@680 in 2 ticks; rq_116 deferred
+
+### 2026-08-01T11:30:00Z — tick 679
+- Unit: **rq_670** (FOI-adjacent dual residual — **federal CoA BA2026 nonfiscal + SFPIM dividend dual Finocas**)
+- Found (primary CoA 2026_22 Deel II Ch I):
+  - **Cash total EUR167.159bn** (+2.725): fiscal **159.310** (+1.367) · nonfiscal table **7.849** (+1.358) · middelen text **7.829**
+  - **Afdrachten EUR94.515bn** (EU **4.745** · C&R **59.936** · SS **27.953**); middelenbegroting **72.644**
+  - **ESA nonfiscal 6.886** (+1.036); refunds RSZ **+548** · RIZIV COVID **+187** · CREG **+285** (path **412** no ESA)
+  - **Customs retention 1.013.8** (+229.3); reform path +112.3 of 25pct; handling fee **77.4** pending
+  - **License plates:** delay −**42.2** + old concession **+4.3**
+  - **SFPIM dividend 78.4** vs budgeted **55.8** under **22.6**
+  - Dual VL Finocas. Strong CoA; L5 FOI.
+- Wrote: budgets (+35); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_nonfiscal_sfpim_l5**; rq_670=done; spawn **rq_671** (PROGRESS@680); loop_state ticks=679
+- FOI opened: gap_fed_aju2026_nonfiscal_sfpim_l5 — ready (not sent)
+- Next: **rq_671 PROGRESS@680**; rq_116 deferred

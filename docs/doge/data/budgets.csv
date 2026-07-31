@@ -13180,3 +13180,38 @@ bud_vl_ruiter_vak_carry_1415m_2026,vlaanderen_gov,2026,1415300000,,,budgeted,src
 bud_vl_consol_beleid_vak_67789m_2026,vlaanderen_gov,2026,67788900000,,,budgeted,src_ccrek_vl_ba2026_fonds,strong,ESR-consolidated policy VAK BA2026 67788.9m + carry 1415.3; tick678
 bud_dual_vl_fonds_end_856m_2026,gg_belgium,2026,856500000,,,budgeted,src_dual_vl_fonds_tick678,strong,Dual VL begrotingsfondsen end 856.5m vs WAL fonds stocks class; not TE-additive; tick678
 bud_dual_klimaat_cum_deficit_54m_2026,gg_belgium,2026,54000000,,,estimate,src_dual_vl_fonds_tick678,strong,Dual Klimaatfonds cum deficit ~54m vs WAL Kyoto stock opacity class; tick678
+bud_fed_cash_rec_total_167159m_2026,sec_federal,2026,167159000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Federal cash receipts total BC2026 167159m (+2725 / +1.6pct vs IB); excl municipal opcentiemen; tick679
+bud_fed_cash_rec_fiscal_159310m_2026,sec_federal,2026,159310000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Fiscal cash receipts 159310m (+1367 / +0.9pct); tick679
+bud_fed_cash_rec_nonfiscal_7849m_2026,sec_federal,2026,7849000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Nonfiscal cash table BC2026 7849m (+1358 vs IB 6491); CoA T p26; tick679
+bud_fed_cash_rec_ib_164434m_2026,sec_federal,2026,164434000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,IB2026 total cash receipts 164434m for compare; tick679
+bud_fed_afdrachten_total_94515m_2026,sec_federal,2026,94515000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Transfers to other governments 94515m (+1987 / +2.1pct); 56.5pct of total cash rec; tick679
+bud_fed_afdracht_eu_4745m_2026,sec_federal,2026,4745000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,EU transfers 4745m (+595); tick679
+bud_fed_afdracht_cr_59936m_2026,sec_federal,2026,59936000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Regions+communities transfers 59936m (+753); tick679
+bud_fed_afdracht_ss_27953m_2026,sec_federal,2026,27953000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,SS transfers from federal cash 27953m (+628); dual SS alt finance; tick679
+bud_fed_afdracht_divers_1881m_2026,sec_federal,2026,1881000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Diverse afdrachten 1881m (+11); tick679
+bud_fed_middelenbegroting_72644m_2026,sec_federal,2026,72644000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Middelenbegroting after transfers 72644m (+738 / +1.0pct; 43.5pct of cash); tick679
+bud_fed_afdracht_nonfiscal_20m_2026,sec_federal,2026,20000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Nonfiscal share inside intergovernmental transfers ~20m (rest almost all fiscal); tick679
+bud_fed_nonfiscal_middelen_7829m_2026,sec_federal,2026,7829000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Nonfiscal middelenbegroting text 7829m (+1358 vs IB); CoA p33 (cash table 7849 keep both); tick679
+bud_fed_nonfiscal_esa_6886m_2026,sec_federal,2026,6886000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Nonfiscal with ESA saldo impact 6886m (+1036 vs IB); tick679
+bud_fed_nonfiscal_refund_rsz_548m_2026,sec_federal,2026,548000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,RSZ evenwichtsdotatie refund +548m sect24 (prior-year overpayment); no full ESA clean; tick679
+bud_fed_nonfiscal_refund_riziv_covid_187m_2026,sec_federal,2026,187000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,RIZIV COVID-19 subsidy refund +187m sect24; tick679
+bud_fed_nonfiscal_refund_creg_285m_2026,sec_federal,2026,285000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,CREG energy-crisis premium refund +285m sect32 (path up to 412 if suppliers repay); no ESA saldo impact; tick679
+bud_fed_nonfiscal_creg_path_412m_2026,sec_federal,2026,412000000,,,estimate,src_ccrek_fed_aju2026_nonfiscal_sfpim,medium,CREG refund path up to 412m if supplier claims repaid; CoA; tick679
+bud_fed_nonfiscal_refunds_pack_1020m_2026,sec_federal,2026,1020000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Refund pack RSZ 548 + RIZIV 187 + CREG 285 = 1020m of nonfiscal uplift; tick679
+bud_fed_customs_retention_1013_8m_2026,sec_federal,2026,1013800000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Customs collection fee retention 25pct = 1013.8m (+229.3 vs IB); e-comm reform; tick679
+bud_fed_customs_retention_uplift_229_3m_2026,sec_federal,2026,229300000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Customs retention uplift +229.3m vs IB from tariff reform; tick679
+bud_fed_customs_reform_nonfisc_112_3m_2026,sec_federal,2026,112300000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Customs reform path: 25pct retention nonfiscal +112.3m of +449 customs (offset EU transfer); CoA p31; tick679
+bud_fed_customs_reform_gross_449m_2026,sec_federal,2026,449000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Customs reform gross rights +449m (EU own resources transfer -449); tick679
+bud_fed_customs_handling_fee_77_4m_2026,sec_federal,2026,77400000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,medium,EU handling fee est 77.4m undivided correction (from 1 Nov 2026; law pending); tick679
+bud_fed_license_plate_delay_minus_42_2m_2026,sec_federal,2026,42200000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,License plate/kenteken new contract delay to 2027 cancels 42.2m receipt 2026; tick679
+bud_fed_license_plate_old_concession_4_3m_2026,sec_federal,2026,4300000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Old license-plate concession receipt reinstated +4.3m 2026; tick679
+bud_fed_license_plate_net_path_minus_37_9m_2026,sec_federal,2026,37900000,,,estimate,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,Net license-plate path -37.9m (cancel 42.2 + old 4.3); tick679
+bud_sfpim_dividend_actual_78_4m_2026,sfpim,2026,78400000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,SFPIM dividend to State actual 78.4m 2026 (CoA); tick679
+bud_sfpim_dividend_budgeted_55_8m_2026,sfpim,2026,55800000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,SFPIM dividend inscribed in aju draft 55.8m (under by 22.6); tick679
+bud_sfpim_dividend_underbook_22_6m_2026,sfpim,2026,22600000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,SFPIM dividend under-budgeted 22.6m (78.4-55.8); CoA correction; tick679
+bud_dual_sfpim_finocas_dividends_2026,gg_belgium,2026,78400000,,,budgeted,src_dual_nonfiscal_sfpim_tick679,strong,Dual SFPIM dividend 78.4 vs VL Finocas capital inject 177.5 unclear class; not TE-additive; tick679
+bud_dual_nonfiscal_esa_6886m_2026,gg_belgium,2026,6886000000,,,budgeted,src_dual_nonfiscal_sfpim_tick679,strong,Dual federal nonfiscal ESA 6.89bn residual; tick679
+bud_fed_nonfiscal_ib_6491m_2026,sec_federal,2026,6491000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,IB2026 nonfiscal cash 6491m baseline for +1358 path; tick679
+bud_fed_fiscal_ib_157943m_2026,sec_federal,2026,157943000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,IB2026 fiscal cash 157943m; tick679
+bud_fed_creg_refund_no_esa_note_2026,sec_federal,2026,285000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,CREG refund no ESA saldo impact (crisis premium clawback); residual note tick679
+bud_fed_rsz_refund_sect24_548m_note,sec_federal,2026,548000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,RSZ evenwicht refund dual with RSZ-GB deficit settle 547.5 (tick677); tick679
