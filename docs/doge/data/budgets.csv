@@ -14907,3 +14907,57 @@ bud_swl_fin_income_51_611m_2024,swl,2024,51610610.37,,,outturn,src_swl_bnb_2024,
 bud_dual_swl_debt_2_742bn_vs_housing_2024,gg_belgium,2024,2742490276.86,,,outturn,src_dual_swl_vmsw_slrb_swcs_tick737,strong,SWL debt 2.742bn dual VMSW 3.12bn / SLRB 1.67bn / SWCS book 1.75bn; not TE-additive; tick737
 bud_dual_swl_works_364_3m_vs_slrb_vmsw,gg_belgium,2024,364300000,,,outturn,src_dual_swl_vmsw_slrb_swcs_tick737,strong,SWL SLSP works 364.3m dual SLRB liq 802.7 / VMSW financing class; tick737
 bud_dual_swl_waitlist_49945_housing_pressure,gg_belgium,2024,49945,,,outturn,src_dual_swl_vmsw_slrb_swcs_tick737,strong,WAL waitlist 49945 dual BCR/VL social housing demand residual; tick737
+bud_vwf_auth_woonlening_1_7bn_2025,vwf,2025,1700000000,,,budgeted,src_vwf_av2025_residual,strong,VL budget auth bijzondere sociale leningen 1.7bn 2025 (same 2026); tick738
+bud_vwf_auth_huurwaarborg_20m_2025,vwf,2025,20000000,,,budgeted,src_vwf_av2025_residual,strong,VL budget auth huurwaarborgleningen 20m 2025; tick738
+bud_vwf_woonlening_n_7057_2025,vwf,2025,7057,,,outturn,src_vwf_av2025_residual,strong,Vlaamse woonlening COUNT granted 7057 2025 (record; +6.55pct); tick738
+bud_vwf_woonlening_amount_1_632bn_2025,vwf,2025,1632223520.98,,,outturn,src_vwf_av2025_residual,strong,Vlaamse woonlening amount 1.632bn 2025 (was 1.478bn / 6623 in 2024); tick738
+bud_vwf_woonlening_avg_231291_2025,vwf,2025,231291.42,,,outturn,src_vwf_av2025_residual,strong,Average woonlening 231291.42 EUR 2025 (+3.62pct); tick738
+bud_vwf_woonlening_rate_2_48pct_2025,vwf,2025,248,,,outturn,src_vwf_av2025_residual,strong,Average interest rate 2.48pct 2025 (was 2.40; ~0.84pp below bank 3.32); tick738
+bud_vwf_apps_opened_7978_2025,vwf,2025,7978,,,outturn,src_vwf_av2025_residual,strong,Loan applications opened COUNT 7978 reserved 1.626bn 2025; tick738
+bud_vwf_reserved_1_626bn_2025,vwf,2025,1625739698.48,,,outturn,src_vwf_av2025_residual,strong,Financial means reserved for opened apps 1.626bn 2025; tick738
+bud_vwf_info_talks_31100_2025,vwf,2025,31100,,,outturn,src_vwf_av2025_residual,strong,Face-to-face info talks >31100 interested parties 2025; tick738
+bud_vwf_purchase_n_3291_2025,vwf,2025,3291,,,outturn,src_vwf_av2025_residual,strong,Purchase-only loans COUNT 3291 (46.64pct) avg 243193 2025; tick738
+bud_vwf_purchase_reno_n_2842_2025,vwf,2025,2842,,,outturn,src_vwf_av2025_residual,strong,Purchase+reno loans COUNT 2842 (40.27pct) avg 255771 2025; tick738
+bud_vwf_reno_only_n_217_2025,vwf,2025,217,,,outturn,src_vwf_av2025_residual,strong,Reno-only loans COUNT 217 avg 49194 2025; tick738
+bud_vwf_social_buy_n_225_2025,vwf,2025,225,,,outturn,src_vwf_av2025_residual,strong,Social koopwoning (+reno) loans 225 2025 (was 382 2024); tick738
+bud_vwf_duration_avg_24_49y_2025,vwf,2025,2449,,,outturn,src_vwf_av2025_residual,strong,Average loan duration 24.49 years 2025; tick738
+bud_vwf_mean_net_income_3321_2025,vwf,2025,3321.05,,,outturn,src_vwf_av2025_residual,strong,Mean net family income 3321.05 EUR/mo 2025; tick738
+bud_vwf_mean_monthly_pay_1047_2025,vwf,2025,1046.69,,,outturn,src_vwf_av2025_residual,strong,Mean monthly repayment 1046.69 EUR (31.52pct of income) 2025; tick738
+bud_vwf_under30_share_22_32pct_2025,vwf,2025,2232,,,outturn,src_vwf_av2025_residual,strong,Borrowers under 30 share 22.32pct 2025 (was 25.46); tick738
+bud_vwf_over50_share_9_23pct_2025,vwf,2025,923,,,outturn,src_vwf_av2025_residual,strong,Borrowers 51+ share 9.23pct 2025 (solvency concern flagged); tick738
+bud_vwf_portfolio_total_9_698bn_2025,vwf,2025,9698265413.95,,,outturn,src_vwf_av2025_residual,strong,Total managed mortgage portfolio 9.698bn / 71635 loans eoy2025; tick738
+bud_vwf_portfolio_total_n_71635_2025,vwf,2025,71635,,,outturn,src_vwf_av2025_residual,strong,Total managed mortgages COUNT 71635 eoy2025; tick738
+bud_vwf_own_origin_7_611bn_2025,vwf,2025,7611054157.56,,,outturn,src_vwf_av2025_residual,strong,Own-originated VWF loans 7.611bn / 50404 eoy2025 (+11pct); tick738
+bud_vwf_own_origin_n_50404_2025,vwf,2025,50404,,,outturn,src_vwf_av2025_residual,strong,Own-originated COUNT 50404 eoy2025; tick738
+bud_vwf_arrears_gt1m_n_1052_2025,vwf,2025,1052,,,outturn,src_vwf_av2025_residual,strong,Mortgage arrears >1 month COUNT 1052 (2.09pct of own book) eoy2025; tick738
+bud_vwf_arrears_amount_4_064m_2025,vwf,2025,4064366.4,,,outturn,src_vwf_av2025_residual,strong,Mortgage arrears amount 4.064m (0.05pct of capital) eoy2025; tick738
+bud_vwf_forced_sale_deficit_0_809m_2025,vwf,2025,809007,,,outturn,src_vwf_av2025_residual,medium,Forced sales 28 cases provisional deficit est 0.809m 2025; tick738
+bud_vwf_early_repay_146_909m_2025,vwf,2025,146908896.57,,,outturn,src_vwf_av2025_residual,strong,Lump-sum early repayments 146.909m (1236 cases) 2025; tick738
+bud_vwf_hw_n_5087_2025,vwf,2025,5087,,,outturn,src_vwf_av2025_residual,strong,Huurwaarborgleningen paid COUNT 5087 2025 (+3.16pct); tick738
+bud_vwf_hw_amount_10_835m_2025,vwf,2025,10835405.67,,,outturn,src_vwf_av2025_residual,strong,Huurwaarborg amount paid 10.835m avg 2130 2025; tick738
+bud_vwf_hw_stock_12_300m_2025,vwf,2025,12299980.31,,,outturn,src_vwf_av2025_residual,strong,Huurwaarborg stock 12.300m / ~10472-10474 loans eoy2025; tick738
+bud_vwf_hw_arrears_n_938_2025,vwf,2025,938,,,outturn,src_vwf_av2025_residual,strong,HW arrears >1 month COUNT 938 (8.96pct) eoy2025; tick738
+bud_vwf_hw_arrears_amount_0_616m_2025,vwf,2025,616382.1,,,outturn,src_vwf_av2025_residual,strong,HW arrears amount 0.616m ratio 5.01pct of stock eoy2025; tick738
+bud_vwf_hw_writeoff_0_126m_2025,vwf,2025,125543.26,,,outturn,src_vwf_av2025_residual,strong,HW write-offs 127 loans 0.126m eoy2025; tick738
+bud_vwf_hw_collective_debt_n_834_2025,vwf,2025,834,,,outturn,src_vwf_av2025_residual,strong,HW collective debt procedure COUNT 834 (7.96pct stock) eoy2025; tick738
+bud_vwf_hw_cancelled_6639_2025,vwf,2025,6639,,,outturn,src_vwf_av2025_residual,strong,HW applications cancelled 6639 (16.788m class) 2025; tick738
+bud_vwf_vgw_insured_7607_2025,vwf,2025,7607,,,outturn,src_vwf_av2025_residual,strong,Verzekering gewaarborgd wonen effective 7607 of 14184 apps 2025; tick738
+bud_vwf_vgw_premium_6_212m_2025,vwf,2025,6211610.62,,,outturn,src_vwf_av2025_residual,strong,VGW premium paid excl tax 6.212m 2025; tick738
+bud_vwf_vgw_apps_14184_2025,vwf,2025,14184,,,outturn,src_vwf_av2025_residual,strong,VGW applications received 14184 2025 (was 11269); tick738
+bud_vwf_bonds_issued_1_550bn_2025,vwf,2025,1550000000,,,outturn,src_vwf_av2025_residual,strong,4 LT bond issues 1.550bn @ weighted avg 4.21pct 2025; tick738
+bud_vwf_toelage_received_1_748m_2025,vwf,2025,1748234.13,,,outturn,src_vwf_av2025_residual,strong,Werkings+financieringstoelage received 1.748m (incl 2024 settlement) 2025; tick738
+bud_vwf_toelage_balance_owed_9_808m_2025,vwf,2025,9808377.98,,,outturn,src_vwf_av2025_residual,strong,Toelage balance owed by VWF after 2025 settlement 9.808m due 2026; tick738
+bud_vwf_stock_transfer_965_units,vwf,2025,965,,,outturn,src_vwf_av2025_residual,strong,Social rental stock transferred to woonmaatschappijen total 965 units (last Limburg Jun2025); tick738
+bud_vwf_assets_10_003bn_2025,vwf,2025,10002973918,,,outturn,src_vwf_jr2025_nbb,strong,NBB BS total assets eoy2025 10.003bn (was 8.994); tick738
+bud_vwf_debt_total_9_730bn_2025,vwf,2025,9729917042,,,outturn,src_vwf_jr2025_nbb,strong,NBB total debts 9.730bn eoy2025; tick738
+bud_vwf_lt_fin_debt_8_941bn_2025,vwf,2025,8940779387,,,outturn,src_vwf_jr2025_nbb,strong,NBB LT financial debt 8.941bn (bonds 4.865 banks 0.803 other 3.272); tick738
+bud_vwf_bonds_stock_4_865bn_2025,vwf,2025,4864864067,,,outturn,src_vwf_jr2025_nbb,strong,NBB bond stock 4.865bn eoy2025 (was 3.587); tick738
+bud_vwf_gov_guaranteed_2_300bn_2025,vwf,2025,2299850960,,,outturn,src_vwf_jr2025_nbb,strong,Debts guaranteed by Belgian public authorities 2.300bn eoy2025; tick738
+bud_vwf_fin_income_199_386m_2025,vwf,2025,199386486,,,outturn,src_vwf_jr2025_nbb,strong,NBB financial income 199.386m 2025; tick738
+bud_vwf_fin_costs_197_927m_2025,vwf,2025,197926877,,,outturn,src_vwf_jr2025_nbb,strong,NBB financial costs 197.927m (debt costs 194.103m) 2025; tick738
+bud_vwf_remuneration_10_493m_2025,vwf,2025,10492956,,,outturn,src_vwf_jr2025_nbb,strong,NBB remuneration 10.493m 2025; tick738
+bud_vwf_net_result_0_2025,vwf,2025,0,,,outturn,src_vwf_jr2025_nbb,strong,NBB net result 0 (nulresultaat) 2025 (was +3.684m 2024); tick738
+bud_vwf_receivables_lt_9_217bn_2025,vwf,2025,9217286757,,,outturn,src_vwf_jr2025_nbb,strong,NBB LT other receivables (loan book class) 9.217bn eoy2025; tick738
+bud_dual_vwf_prod_1_632bn_vs_swcs_2025,gg_belgium,2025,1632223520.98,,,outturn,src_dual_vwf_swcs_flw_tick738,strong,VWF prod 1.632bn dual SWCS 0.483bn / FLW invest 0.273; not TE-additive; tick738
+bud_dual_vwf_portfolio_9_698bn_vs_swcs,gg_belgium,2025,9698265413.95,,,outturn,src_dual_vwf_swcs_flw_tick738,strong,VWF portfolio 9.698bn dual SWCS encours 1.749bn / SWL debt 2.742 / VMSW 3.12; tick738
+bud_dual_vwf_hw_npl_9pct_vs_swcs_31pct,gg_belgium,2025,12299980.31,,,outturn,src_dual_vwf_swcs_flw_tick738,strong,VWF HW arrears 8.96pct dual SWCS garantie locative contentieux 31pct; tick738

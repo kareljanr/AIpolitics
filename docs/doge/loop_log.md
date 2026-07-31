@@ -8767,3 +8767,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity swl notes; budgets (+55); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_swl_ra2024_residual_l5**; raw RA+BNB PDFs+extracts+write; rq_728=done; spawn **rq_729**; loop_state ticks=737
 - FOI opened: gap_swl_ra2024_residual_l5 — ready prio8 (not sent)
 - Next: rq_729; progress@740 in 3; rq_116 deferred
+
+### 2026-08-02T06:15:00Z — tick 738
+- Unit: **rq_729** (FOI-adjacent residual dual — **VWF Activiteitenverslag 2025 + NBB jaarrekening residual dual SWCS/FLW**)
+- Found (primary VWF AV2025 + NBB JR2025):
+  - Auth: woonlening **1.7bn** + huurwaarborg **20m** (2025 & 2026)
+  - Production: **7 057** loans **€1.632bn** avg **231 291** @ **2.48%** (was 6 623 / 1.478bn 2024); reserved **1.626bn** / 7 978 apps
+  - Portfolio: **71 635** mortgages **€9.698bn**; own-origin **50 404** / **€7.611bn**; arrears >1m **1 052** (2.09%) / **€4.064m** (0.05% capital)
+  - Bonds: **4** issues **€1.550bn** @ **4.21%** weighted; bond stock **€4.865bn**; gov guarantee **€2.300bn**
+  - Funding spread residual: lend 2.48 vs fund 4.21; fin costs **€197.9m** / fin income **€199.4m** / net **0**
+  - HW: **5 087** / **€10.835m**; stock **€12.3m**; arrears **8.96%** dual SWCS garantie 31%
+  - VGW: **7 607** insured / premium **€6.212m**; toelage rec **€1.748m** / owed **€9.808m**
+  - Dual SWCS prod 0.48 / encours 1.75; FLW invest 0.27 not TE-additive
+- Wrote: entity vwf; budgets (+55); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_vwf_av2025_residual_l5**; raw AV+JR PDFs+extracts+write; rq_729=done; spawn **rq_730**; loop_state ticks=738
+- FOI opened: gap_vwf_av2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_730; progress@740 in 2; rq_116 deferred
