@@ -8754,3 +8754,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity swcs notes; budgets (+51); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_swcs_ra2025_residual_l5**; plaquette PDF + extracts + write script; rq_727=done; spawn **rq_728**; loop_state ticks=736
 - FOI opened: gap_swcs_ra2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_728; progress@740 in 4; rq_116 deferred
+
+### 2026-08-02T05:45:00Z — tick 737
+- Unit: **rq_728** (FOI-adjacent residual dual — **SWL Rapport d'activités 2024 + BNB comptes residual dual VMSW/SLRB/SWCS**)
+- Found (primary SWL RA2024 PDF + BNB comptes 31/12/2024):
+  - Stock: **103 293** dwellings (98990 social) · **213 431** housed · waitlist **49 945** · mean rent **352€** · rotation **6.69%** · precarious **77%**
+  - Works markets SLSP **364.3m** (+10%): creation **67.8m** (19%) · reno **296m** (81%); new starts **261** / receptions **339** (+46%); reno starts **5 994** / receptions **8 553**
+  - Plan reno 2020-25 envelope **1.1675bn** (grant 875.6 + zero loan 291.9); invest 2024 **231.1m** / starts **3 128** / receptions only **126** (delivery lag)
+  - HPE **137.2m** / 805 dwellings; REPowerEU **3 918** dwellings; social ref **4.381m** + reno accompany **7.5m**
+  - BNB: assets **3.509bn** · debt **2.742bn** (LT fin **1.518bn** bonds **426m**) · cash **510.6m** · fin charges **57.1m** · net profit **0.506m**
+  - Dual VMSW debt 3.12 / SLRB 1.67 / SWCS book 1.75 not TE-additive; Agency Habitation pending
+- Wrote: entity swl notes; budgets (+55); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_swl_ra2024_residual_l5**; raw RA+BNB PDFs+extracts+write; rq_728=done; spawn **rq_729**; loop_state ticks=737
+- FOI opened: gap_swl_ra2024_residual_l5 — ready prio8 (not sent)
+- Next: rq_729; progress@740 in 3; rq_116 deferred

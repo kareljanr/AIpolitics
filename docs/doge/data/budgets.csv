@@ -14852,3 +14852,58 @@ bud_flw_credits_stock_28795_2024,flw,2024,28795,,,outturn,src_flw_ra2024_dual_ti
 bud_flw_credits_granted_3155_2024,flw,2024,3155,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW credits granted COUNT 3155 2024; tick736
 bud_flw_debt_claims_ratio_81pct_2024,flw,2024,81,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW dettes financieres LT / creances ratio 81pct eoy2024; tick736
 bud_dual_wal_credit_social_swcs_flw_2025,gg_belgium,2025,483000000,,,outturn,src_dual_swcs_vmsw_slrb_flw_tick736,strong,WAL social credit dual: SWCS prod 483m 2025 + FLW invest 273m 2024 class split max-2-kids vs large-fam; tick736
+bud_swl_dwellings_103293_2024,swl,2024,103293,,,outturn,src_swl_ra2024_residual,strong,Public utility dwellings managed by 62 SLSP COUNT 103293 eoy2024; tick737
+bud_swl_social_dwellings_98990_2024,swl,2024,98990,,,outturn,src_swl_ra2024_residual,strong,Social dwellings 98990 of 103293 stock; tick737
+bud_swl_moyen_dwellings_1901_2024,swl,2024,1901,,,outturn,src_swl_ra2024_residual,strong,Moyen dwellings 1901; tick737
+bud_swl_loyer_equilibre_1993_2024,swl,2024,1993,,,outturn,src_swl_ra2024_residual,strong,Loyer d equilibre dwellings 1993; tick737
+bud_swl_persons_housed_213431_2024,swl,2024,213431,,,outturn,src_swl_ra2024_residual,strong,Persons housed 213431 COUNT 2024; tick737
+bud_swl_mean_rent_352_2024,swl,2024,352,,,outturn,src_swl_ra2024_residual,strong,Mean social rent 352 EUR/month 2024; tick737
+bud_swl_rotation_6_69pct_2024,swl,2024,669,,,outturn,src_swl_ra2024_residual,strong,Turnover/rotation rate 6.69pct 2024; tick737
+bud_swl_precarious_income_77pct_2024,swl,2024,77,,,outturn,src_swl_ra2024_residual,strong,Tenants with precarious income 77pct 2024; tick737
+bud_swl_waitlist_49945_2024,swl,2024,49945,,,outturn,src_swl_ra2024_residual,strong,Candidate-tenant waitlist 49945 eoy2024; tick737
+bud_swl_mean_taxable_income_23497_2024,swl,2024,23497,,,outturn,src_swl_ra2024_residual,strong,Mean taxable income tenant households 23497 EUR 2024; tick737
+bud_swl_staff_208_2024,swl,2024,208,,,outturn,src_swl_ra2024_residual,strong,SWL collaborateurs COUNT 208 2024; tick737
+bud_swl_slsp_count_62_2024,swl,2024,62,,,outturn,src_swl_ra2024_residual,strong,SLSP COUNT 62 under SWL tutelle 2024; tick737
+bud_swl_referents_sociaux_96_2024,swl,2024,96,,,outturn,src_swl_ra2024_residual,strong,Referents sociaux COUNT 96 2024; tick737
+bud_swl_households_accompanied_9789_2024,swl,2024,9789,,,outturn,src_swl_ra2024_residual,strong,Households accompanied 9789 (1157 intensive) 2024; tick737
+bud_swl_slsp_works_markets_364_3m_2024,swl,2024,364300000,,,outturn,src_swl_ra2024_residual,strong,SLSP works markets awarded 364.3m 2024 (+34m / +10pct vs 2023); tick737
+bud_swl_works_creation_67_8m_2024,swl,2024,67800000,,,outturn,src_swl_ra2024_residual,strong,Creation+equipment works 67.8m (19pct of markets) 2024; tick737
+bud_swl_works_reno_296m_2024,swl,2024,296000000,,,outturn,src_swl_ra2024_residual,strong,Renovation works 296m incl frame+demolition (81pct) 2024 (+45m / +18pct); tick737
+bud_swl_slsp_construction_finance_81_994m_2024,swl,2024,81993740.92,,,outturn,src_swl_ra2024_residual,strong,SLSP financed new construction 81.994m (subs+SWL advances+own) 2024; tick737
+bud_swl_new_starts_261_2024,swl,2024,261,,,outturn,src_swl_ra2024_residual,strong,New dwellings started 261 (247 newbuild + 14 acq-rehab) 2024; tick737
+bud_swl_new_receptions_339_2024,swl,2024,339,,,outturn,src_swl_ra2024_residual,strong,New dwellings receptioned 339 (+107 / +46pct) 2024; tick737
+bud_swl_sales_rental_119_units_15_117m_2024,swl,2024,15116521.95,,,outturn,src_swl_ra2024_residual,strong,SLSP sold 119 rental units 15.117m avg 127030 2024; tick737
+bud_swl_sales_acquisitive_11_units_1_654m_2024,swl,2024,1653823.71,,,outturn,src_swl_ra2024_residual,strong,SLSP sold 11 acquisitive units 1.654m avg 150348 2024; tick737
+bud_swl_reno_starts_5994_2024,swl,2024,5994,,,outturn,src_swl_ra2024_residual,strong,Renovation starts COUNT 5994 dwellings 2024; tick737
+bud_swl_reno_receptions_8553_2024,swl,2024,8553,,,outturn,src_swl_ra2024_residual,strong,Renovated dwellings receptioned 8553 2024; tick737
+bud_swl_pivert2_starts_71_2_910m_2024,swl,2024,2910265,,,outturn,src_swl_ra2024_residual,strong,PIVERT2 starts 71 dwellings 2.910m 2024; tick737
+bud_swl_own_advances_reno_45_848m_2024,swl,2024,45848431,,,outturn,src_swl_ra2024_residual,strong,Own funds/SWL advances reno 2795 dwellings 45.848m 2024; tick737
+bud_swl_plan_reno_invest_231_122m_2024,swl,2024,231122246,,,outturn,src_swl_ra2024_residual,strong,Plan renovation 2020-25 investments 231.122m / 3128 starts 2024 (cumul 279.881m class); tick737
+bud_swl_plan_reno_envelope_1_1675bn,swl,2024,1167500000,,,budgeted,src_swl_ra2024_residual,strong,Plan renovation 2020-25 subsidy envelope 1.1675bn (grant 875.625m + zero loan 291.875m); tick737
+bud_swl_plan_reno_grant_875_625m,swl,2024,875625000,,,budgeted,src_swl_ra2024_residual,strong,Plan renovation grant component 875.625m of 1.1675bn envelope; tick737
+bud_swl_plan_reno_zero_loan_291_875m,swl,2024,291875000,,,budgeted,src_swl_ra2024_residual,strong,Plan renovation zero-rate loan component 291.875m; tick737
+bud_swl_embellissement_23_8m,swl,2024,23800000,,,budgeted,src_swl_ra2024_residual,strong,Plan embellissement 2020-23 subsidy 23.8m (38519 units; closed 2024; 187 receptions); tick737
+bud_swl_hpe_subsidy_137_195m,swl,2024,137195000,,,budgeted,src_swl_ra2024_residual,strong,HPE programme subsidy 137.195m for 805 new dwellings (597 in study); tick737
+bud_swl_repowereu_dwellings_3918,swl,2024,3918,,,budgeted,src_swl_ra2024_residual,strong,REPowerEU target dwellings 3918 (3535 PV + 383 PV+PAC); tick737
+bud_swl_social_ref_subs_4_381m_2024,swl,2024,4381198.5,,,outturn,src_swl_ra2024_residual,strong,Social referents accompaniment subsidy 4.381m 2024; tick737
+bud_swl_reno_accompany_7_5m_2024,swl,2024,7500000,,,outturn,src_swl_ra2024_residual,strong,Renovation plan accompaniment 7.5m (from 2023 two tranches); tick737
+bud_swl_cclp_213444_2024,swl,2024,213444,,,outturn,src_swl_ra2024_residual,strong,CCLP financing 213444 EUR 2024 (edito residual); tick737
+bud_swl_awcclp_24000_2024,swl,2024,24000,,,outturn,src_swl_ra2024_residual,strong,AWCCLP convention-cadre 24000 EUR 2024; tick737
+bud_swl_proportionate_housing_46pct_2024,swl,2024,46,,,outturn,src_swl_ra2024_residual,strong,Only 46pct tenant households in size-proportionate dwelling 2024; tick737
+bud_swl_inactive_tenants_80pct_2024,swl,2024,80,,,outturn,src_swl_ra2024_residual,strong,Inactive tenant heads 80pct (36pct retired class) 2024; tick737
+bud_swl_assets_3_509bn_2024,swl,2024,3509322270.22,,,outturn,src_swl_bnb_2024,strong,BNB BS total assets eoy2024 3.509bn (was 3.643); tick737
+bud_swl_equity_663_044m_2024,swl,2024,663043973.5,,,outturn,src_swl_bnb_2024,strong,BNB equity 663.044m eoy2024; tick737
+bud_swl_debt_total_2_742bn_2024,swl,2024,2742490276.86,,,outturn,src_swl_bnb_2024,strong,BNB total debts 2.742bn eoy2024 (was 2.871); tick737
+bud_swl_lt_financial_debt_1_518bn_2024,swl,2024,1518372004.77,,,outturn,src_swl_bnb_2024,strong,BNB LT financial debt 1.518bn (bonds 426m banks 897.4m other 195.0m); tick737
+bud_swl_bonds_426m_2024,swl,2024,426000000,,,outturn,src_swl_bnb_2024,strong,BNB bond debt 426m eoy2024 (was 361m); tick737
+bud_swl_bank_debt_897_382m_2024,swl,2024,897382125.02,,,outturn,src_swl_bnb_2024,strong,BNB credit-institution LT debt 897.382m eoy2024; tick737
+bud_swl_cash_510_577m_2024,swl,2024,510577224.46,,,outturn,src_swl_bnb_2024,strong,BNB cash 510.577m eoy2024 (was 594.749); tick737
+bud_swl_provisions_103_788m_2024,swl,2024,103788019.86,,,outturn,src_swl_bnb_2024,strong,BNB provisions risks/charges 103.788m eoy2024; tick737
+bud_swl_ca_8_251m_2024,swl,2024,8251097.35,,,outturn,src_swl_bnb_2024,strong,BNB chiffre d affaires 8.251m 2024; tick737
+bud_swl_remuneration_20_874m_2024,swl,2024,20874370.66,,,outturn,src_swl_bnb_2024,strong,BNB remuneration charges 20.874m 2024; tick737
+bud_swl_fin_charges_57_078m_2024,swl,2024,57078147.5,,,outturn,src_swl_bnb_2024,strong,BNB financial charges 57.078m (debt charges 57.002m) 2024; tick737
+bud_swl_net_profit_0_506m_2024,swl,2024,506224.65,,,outturn,src_swl_bnb_2024,strong,BNB net profit 0.506m 2024 (was loss -1.461m 2023); tick737
+bud_swl_fin_income_51_611m_2024,swl,2024,51610610.37,,,outturn,src_swl_bnb_2024,strong,BNB financial income 51.611m 2024; tick737
+bud_dual_swl_debt_2_742bn_vs_housing_2024,gg_belgium,2024,2742490276.86,,,outturn,src_dual_swl_vmsw_slrb_swcs_tick737,strong,SWL debt 2.742bn dual VMSW 3.12bn / SLRB 1.67bn / SWCS book 1.75bn; not TE-additive; tick737
+bud_dual_swl_works_364_3m_vs_slrb_vmsw,gg_belgium,2024,364300000,,,outturn,src_dual_swl_vmsw_slrb_swcs_tick737,strong,SWL SLSP works 364.3m dual SLRB liq 802.7 / VMSW financing class; tick737
+bud_dual_swl_waitlist_49945_housing_pressure,gg_belgium,2024,49945,,,outturn,src_dual_swl_vmsw_slrb_swcs_tick737,strong,WAL waitlist 49945 dual BCR/VL social housing demand residual; tick737
