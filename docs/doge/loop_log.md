@@ -8728,3 +8728,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_spw_ra2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_726; progress@740 in 6; rq_116 deferred
 
+### 2026-08-02T04:45:00Z — tick 735
+- Unit: **rq_726** (FOI-adjacent residual dual — **SLRB Rapport annuel 2025 residual dual VMSW/SWL**)
+- Found (primary SLRB RA2025 residual vs prior CoA eng/liq aggregates):
+  - **Budget exec:** rec **548.1m** of 954.2 (83.8pct ex 300m unborrowed); liq **802.7m** of 1005.4 (79.8pct); eng **597.2m** of 689.2 (86.7pct)
+  - **Liq split:** construction **326.5** · subsistence **221.6** (capital repay **178.4** + interest **15.1** + salaries **21.5**) · renovation **172.7** · societal **81.9** (ARS **52.5** large-fam **15.3** PCS **4.5** SASLS **4.1**)
+  - **SPRB financing** exec **284.6m**; PRL construction costs **107.1m** (99.98pct); advances SISP **151.4m**; reno advances **90.0** + subs **49.0**
+  - **Stocks:** eng encours **1.131bn** (-34pct); BS assets **2.370** / debt **1.672** / equity **696**; SISP loan stock start2026 **1.503bn**; CCO neg **115.4m**; PRL own-fund gap **577m**
+  - Ops: **572** dwellings receptioned · **3037** renovations · **2581** families · reno receptions **155m** · rent arrears **19.2m** · Social Finance used **36.3m** of 100m
+  - Dual VMSW debt 3.12bn / SWL SEC 366 / WAL housing SEC class 703
+- Wrote: entity slrb; budgets (+55); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_slrb_ra2025_residual_l5**; raw PDF+txt+write; rq_726=done; spawn **rq_727**; loop_state ticks=735
+- FOI opened: gap_slrb_ra2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_727; progress@740 in 5; rq_116 deferred
+

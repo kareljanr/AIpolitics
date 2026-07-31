@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T04:00:00Z,rq_725,734,no,tick734 SPW RA2025 residual dual Entity II; next rq_726; progress@740 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T04:45:00Z,rq_726,735,no,tick735 SLRB RA2025 residual dual VMSW/SWL; next rq_727; progress@740 in 5; rq_116 deferred

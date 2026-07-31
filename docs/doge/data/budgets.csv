@@ -14746,3 +14746,58 @@ bud_dual_spw_housing_reno_vs_vl_110m,gg_belgium,2025,110000000,,,outturn,src_dua
 bud_dual_spw_pac_vs_vl_379m,gg_belgium,2025,379000000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL PAC/rural aids 379m dual VL agriculture CAP path; tick734
 bud_dual_spw_rd_vs_vl_315m,gg_belgium,2025,315400000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL R&D creances 315.4m dual VL FWO/VLAIO research stack; tick734
 bud_dual_spw_calamites_vs_vl_96_5m,gg_belgium,2025,96533480,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL natural calamities 96.5m dual VL disaster/flood residual; tick734
+bud_slrb_new_dwellings_received_2025,slrb,2025,572,,,outturn,src_slrb_ra2025_residual,strong,New dwellings receptioned 572 COUNT (404 turnkey) 2025; tick735
+bud_slrb_renovations_sisp_3037_2025,slrb,2025,3037,,,outturn,src_slrb_ra2025_residual,strong,SISP renovations 3037 COUNT (heavy/interior/envelope) 2025; tick735
+bud_slrb_families_attributed_2581_2025,slrb,2025,2581,,,outturn,src_slrb_ra2025_residual,strong,Families attributed new housing 2581 COUNT 2025; tick735
+bud_slrb_reno_reception_155m_2025,slrb,2025,155000000,,,outturn,src_slrb_ra2025_residual,strong,79 renovation sites receptioned 155m total 2025; tick735
+bud_slrb_reno_heavy_71m_2025,slrb,2025,71000000,,,outturn,src_slrb_ra2025_residual,strong,Heavy renovations 412 dwellings 71m of 86m complete/interior cluster; tick735
+bud_slrb_reno_interior_15m_2025,slrb,2025,15000000,,,outturn,src_slrb_ra2025_residual,strong,Interior renovations 713 dwellings 15m 2025; tick735
+bud_slrb_reno_envelope_69m_2025,slrb,2025,69000000,,,outturn,src_slrb_ra2025_residual,strong,Envelope renovations 23 sites 69m (complete 37 + partial 23) 2025; tick735
+bud_slrb_reno_tech_20m_2025,slrb,2025,20000000,,,outturn,src_slrb_ra2025_residual,strong,Technical installations 45 sites 20m 2025; tick735
+bud_slrb_rec_budget_954_213m_2025,slrb,2025,954213000,,,budgeted,src_slrb_ra2025_residual,strong,Recettes budget total 954.213m (incl 300m private loan line 0 exec); tick735
+bud_slrb_rec_exec_548_144m_2025,slrb,2025,548144117,,,outturn,src_slrb_ra2025_residual,strong,Recettes executed 548.144m (57.44pct; 83.79pct ex 300m unborrowed); tick735
+bud_slrb_rec_sprb_exec_284_593m_2025,slrb,2025,284593385,,,outturn,src_slrb_ra2025_residual,strong,SPRB financing executed 284.593m of 318.127m budget (89.46pct); tick735
+bud_slrb_rec_own_exec_261_247m_2025,slrb,2025,261247248,,,outturn,src_slrb_ra2025_residual,strong,Own/other recettes executed 261.247m of 330.343m (79.08pct); tick735
+bud_slrb_rec_other_powers_2_303m_2025,slrb,2025,2303484,,,outturn,src_slrb_ra2025_residual,strong,Other powers financing exec 2.303m of 5.743m (40.11pct); tick735
+bud_slrb_loan_line_300m_unexecuted_2025,slrb,2025,300000000,,,budgeted,src_slrb_ra2025_residual,strong,Private bank loan line 300m budgeted 0 executed 2025; tick735
+bud_slrb_dep_liq_budget_1005_363m_2025,slrb,2025,1005363000,,,budgeted,src_slrb_ra2025_residual,strong,Depenses liquidation budget 1005.363m 2025; tick735
+bud_slrb_dep_liq_exec_802_690m_2025,slrb,2025,802689567,,,outturn,src_slrb_ra2025_residual,strong,Depenses liquidation exec 802.690m (79.84pct vs 86.33 2024); tick735
+bud_slrb_dep_eng_budget_689_204m_2025,slrb,2025,689204000,,,budgeted,src_slrb_ra2025_residual,strong,Engagements budget 689.204m 2025; tick735
+bud_slrb_dep_eng_exec_597_249m_2025,slrb,2025,597249336,,,outturn,src_slrb_ra2025_residual,strong,Engagements exec 597.249m (86.66pct vs 44.87 2024); tick735
+bud_slrb_liq_construction_326_5m_2025,slrb,2025,326461802,,,outturn,src_slrb_ra2025_residual,strong,Construction+acquisition liq exec 326.462m (40.67pct of liq); tick735
+bud_slrb_liq_subsistence_221_6m_2025,slrb,2025,221637865,,,outturn,src_slrb_ra2025_residual,strong,SLRB subsistence/ops liq 221.638m (27.61pct; salaries 21.5 capital repay 178.4 interest 15.1); tick735
+bud_slrb_liq_renovation_172_7m_2025,slrb,2025,172702133,,,outturn,src_slrb_ra2025_residual,strong,Renovation investment plans liq 172.702m (21.52pct); tick735
+bud_slrb_liq_societal_81_9m_2025,slrb,2025,81887767,,,outturn,src_slrb_ra2025_residual,strong,Societal mission liq 81.888m (10.20pct ARS+PCS+SASLS+rent cuts); tick735
+bud_slrb_capital_repay_178_416m_2025,slrb,2025,178415628,,,outturn,src_slrb_ra2025_residual,strong,Debt capital reimbursement 178.416m of subsistence liq; tick735
+bud_slrb_interest_debt_15_071m_2025,slrb,2025,15070518,,,outturn,src_slrb_ra2025_residual,strong,Debt interest 15.071m 2025; tick735
+bud_slrb_salaries_21_496m_2025,slrb,2025,21496143,,,outturn,src_slrb_ra2025_residual,strong,SLRB salaries 21.496m (P&L rem 21.513m); tick735
+bud_slrb_ars_52_548m_2025,slrb,2025,52548000,,,outturn,src_slrb_ra2025_residual,strong,Allocation regionale de solidarite ARS to SISP 52.548m 2025; tick735
+bud_slrb_rent_cut_large_fam_15_272m_2025,slrb,2025,15272000,,,outturn,src_slrb_ra2025_residual,strong,Rent reductions large families transfer 15.272m 2025; tick735
+bud_slrb_pcs_cohesion_4_463m_2025,slrb,2025,4463133,,,outturn,src_slrb_ra2025_residual,strong,PCS cohesion ASBL subsides 4.463m 2025; tick735
+bud_slrb_sasls_4_136m_2025,slrb,2025,4136000,,,outturn,src_slrb_ra2025_residual,strong,ASBL SASLS social accompaniment 4.136m 2025; tick735
+bud_slrb_prl_construction_cost_107_071m_2025,slrb,2025,107070823,,,outturn,src_slrb_ra2025_residual,strong,PRL/AH construction costs liq 107.071m (99.98pct of 107.092 budget); tick735
+bud_slrb_prl_subs_38_032m_2025,slrb,2025,38032374,,,outturn,src_slrb_ra2025_residual,strong,PRL/AH investment subsidies to SISP 38.032m 2025; tick735
+bud_slrb_prl_advances_151_387m_2025,slrb,2025,151387332,,,outturn,src_slrb_ra2025_residual,strong,PRL/AH non-subsidised credits to SISP 151.387m 2025; tick735
+bud_slrb_ppp_sfar_repay_29_950m_2025,slrb,2025,29950091,,,outturn,src_slrb_ra2025_residual,strong,PPP+SFAR repayments 29.950m 2025; tick735
+bud_slrb_reno_subs_49_036m_2025,slrb,2025,49036263,,,outturn,src_slrb_ra2025_residual,strong,Renovation regulated subsidies to SISP 49.036m 2025; tick735
+bud_slrb_reno_advances_90_001m_2025,slrb,2025,90001300,,,outturn,src_slrb_ra2025_residual,strong,Renovation repayable advances to SISP 90.001m 2025; tick735
+bud_slrb_lt_loans_sisp_32_097m_2025,slrb,2025,32096605,,,outturn,src_slrb_ra2025_residual,strong,LT loans to SISP from own funds 32.097m 2025; tick735
+bud_slrb_pv_credits_1_568m_2025,slrb,2025,1567965,,,outturn,src_slrb_ra2025_residual,strong,PV energy investment credits to SISP 1.568m 2025; tick735
+bud_slrb_encours_eng_1_131bn_2025,slrb,2025,1131471548,,,outturn,src_slrb_ra2025_residual,strong,Encours engagements eoy2025 1.131bn (-593m / -34.4pct vs 2024); tick735
+bud_slrb_encours_old_quad_125_7m_2025,slrb,2025,125679809,,,outturn,src_slrb_ra2025_residual,strong,Old quadriennial reno encours 125.68m (-53.4pct from 269.7); tick735
+bud_slrb_psrd_encours_141_4m_2025,slrb,2025,141358400,,,outturn,src_slrb_ra2025_residual,strong,PSRD encours 141.358m (+4.23pct); eng 55.0m constrained; tick735
+bud_slrb_prl_ah_cost_encours_130_3m_2025,slrb,2025,130277000,,,outturn,src_slrb_ra2025_residual,strong,PRL/AH construction-cost encours 130.277m (was 293.07); tick735
+bud_slrb_plans_subs_solde_649_8m_2025,slrb,2025,649830390,,,outturn,src_slrb_ra2025_residual,strong,PRL+AH+PUL subsidy envelope solde available 649.83m of 1048.13 total; tick735
+bud_slrb_prl_own_fund_gap_577_2m,slrb,2025,577230000,,,outturn,src_slrb_ra2025_residual,strong,PRL/AH own-fund gap: Region rec 387.66 vs spend 964.89 = -577.23m; tick735
+bud_slrb_assets_2_370bn_2025,slrb,2025,2370136983,,,outturn,src_slrb_ra2025_residual,strong,Balance-sheet assets 2.370bn eoy2025 (+85.7m); tick735
+bud_slrb_debt_1_672bn_2025,slrb,2025,1671720429,,,outturn,src_slrb_ra2025_residual,strong,Balance-sheet debts 1.672bn eoy2025 (+87.6m; +300m loans + PSRD advances); tick735
+bud_slrb_equity_696_4m_2025,slrb,2025,696399851,,,outturn,src_slrb_ra2025_residual,strong,Equity 696.4m eoy2025 (-1.88m); tick735
+bud_slrb_sisp_loan_stock_1_503bn_2026,slrb,2026,1502917335,,,outturn,src_slrb_ra2025_residual,strong,SISP loan stock start 2026 1.503bn (amort path to 2035); tick735
+bud_slrb_sisp_cco_neg_115_4m_2025,slrb,2025,115444837,,,outturn,src_slrb_ra2025_residual,strong,SISP negative current accounts to SLRB 115.445m eoy2025 (+11.5m); tick735
+bud_slrb_rent_arrears_19_207m_2025,slrb,2025,19206803,,,outturn,src_slrb_ra2025_residual,strong,Tenant rent arrears sector 19.207m (mean real rent 413.5/mo); tick735
+bud_slrb_social_finance_used_36_310m,slrb,2025,36309674,,,outturn,src_slrb_ra2025_residual,strong,Social Finance Framework 100m facility: used 36.310m of 63.690 borrowed (2024 use; residual); tick735
+bud_slrb_regional_guarantee_150m_2024,slrb,2024,150000000,,,budgeted,src_slrb_ra2025_residual,strong,Regional guarantee 150m 2024 caretaker note; tick735
+bud_slrb_region_loan_125m_2023,slrb,2023,125000000,,,outturn,src_slrb_ra2025_residual,strong,Region loan 125m 2023 to repay via asset sales 2026+; tick735
+bud_dual_slrb_liq_vs_vmsw_swl_2025,gg_belgium,2025,802689567,,,outturn,src_dual_slrb_vmsw_swl_tick735,strong,SLRB liq exec 802.7 dual VMSW debt 3.12bn / SWL SEC dep 366; not TE-additive; tick735
+bud_dual_slrb_debt_vs_vmsw_2025,gg_belgium,2025,1671720429,,,outturn,src_dual_slrb_vmsw_swl_tick735,strong,SLRB BS debt 1.672bn dual VMSW debt 3.123bn dual SWL guarantees; tick735
+bud_dual_slrb_encours_1_131bn_housing,gg_belgium,2025,1131471548,,,outturn,src_dual_slrb_vmsw_swl_tick735,strong,SLRB eng encours 1.131bn dual VL/WAL housing investment stocks; tick735
