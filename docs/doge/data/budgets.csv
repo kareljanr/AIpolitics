@@ -11285,3 +11285,13 @@ bud_pac_rec_bi2024,pac_charleroi,2024,5970500,,,budgeted,src_ccrek_pac_budget_bi
 bud_pac_dep_bi2024,pac_charleroi,2024,5781500,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC depenses SEC BI2024 5.7815m CoA; tick616
 bud_pac_dep_path_delta_2024_25,pac_charleroi,2025,-844780,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC dep path BI2025-BI2024 -0.84478m CoA; tick616
 bud_dual_wal_inland_ports_paco_pac_2025,gg_belgium,2025,12386334,,,budgeted,src_dual_inland_ports_wal_vl_tick616,strong,Derived PACO+PAC dep BI2025 7.450+4.937=12.386m SEC; PAL/PAN residual FOI; tick616
+bud_issep_rec_bi2025,issep,2025,45094000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP recettes SEC BI2025 45.094m CoA Table33; tick617
+bud_issep_dep_bi2025,issep,2025,46955000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP depenses SEC BI2025 46.955m CoA Table33; tick617
+bud_issep_solde_bi2025,issep,2025,-1861000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP solde SEC BI2025 -1.861m CoA; tick617
+bud_issep_rec_bi2024,issep,2024,42241000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP recettes SEC BI2024 42.241m CoA Table33; tick617
+bud_issep_dep_bi2024_sec,issep,2024,52702000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP depenses SEC BI2024 52.702m CoA Table33 (vs RA CA 34.8m outturn recon residual); tick617
+bud_issep_solde_bi2024,issep,2024,-10461000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP solde SEC BI2024 -10.461m CoA; tick617
+bud_issep_dep_path_delta_2024_25,issep,2025,-5747000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP dep path BI2025-BI2024 -5.747m CoA; tick617
+bud_issep_solde_path_delta_2024_25,issep,2025,8600000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP solde path BI2025-BI2024 +8.600m CoA (deficit shrink); tick617
+bud_issep_sec_vs_do15_gap_2025,issep,2025,23172000,,,budgeted,src_ccrek_issep_budget_bi2025,medium,Derived SEC dep 46.955m BI2025 minus DO15 missions 23.783m class ~23.2m other/own residual FOI; tick617
+bud_dual_issep_vito_scale_2025,gg_belgium,2025,46955000,,,budgeted,src_dual_issep_vito_sec_tick617,strong,ISSeP SEC dep 47.0m BI2025 dual VITO 297.1m 2024 class scale ~6.3x; not additive; tick617

@@ -7415,3 +7415,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+paco +pac_charleroi); budgets (+14); commitments (+3); leaderboard (+6); sources (+3); FOI draft gap_paco_pac_ra_staff_l5_2025; rq_607=done; spawn rq_608; loop_state ticks=616
 - FOI opened: gap_paco_pac_ra_staff_l5_2025 -- ready (not sent)
 - Next: rq_608; progress@620 in 4 ticks; rq_116 deferred
+
+### 2026-07-31T20:00:00Z -- tick 617
+- Unit: rq_608 (FOI-adjacent dual env science hole-fill deepen -- **ISSeP** Type1 CoA SEC)
+- Found: **ISSeP** (primary CoA Table33 + Table9). **BI2025 SEC:** recettes **EUR45.094m** / depenses **EUR46.955m** / solde **-EUR1.861m**. **BI2024 SEC:** rec **EUR42.241m** / dep **EUR52.702m** / solde **-EUR10.461m** (path dep **-EUR5.747m** / solde **+EUR8.600m**). Prior **RA2024 CA EUR34.8m** vs budget 47-53m recon residual; **DO15 missions EUR23.783m** subset of full SEC. Dual **VITO** inkomsten **EUR297.1m** class (~6.3x). Strong confidence CoA; RA-budget recon FOI.
+- Wrote: entity update issep; budgets (+10); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_issep_sec_ra_recon_l5_2025; rq_608=done; spawn rq_609; loop_state ticks=617
+- FOI opened: gap_issep_sec_ra_recon_l5_2025 -- ready (not sent)
+- Next: rq_609; progress@620 in 3 ticks; rq_116 deferred
