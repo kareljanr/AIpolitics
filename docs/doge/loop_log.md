@@ -6968,3 +6968,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +11; cmt +3; lb +6; FOI **gap_dwv_accounts_l5_2025** ready+draft; entity; rq_563=done spawn **rq_564**; ticks=572
 - FOI opened: gap_dwv_accounts_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_564**; deferred **rq_116**; progress@580 in 8 ticks
+
+### 2026-07-31T10:50:00Z - tick 573
+- Unit: **rq_564** (FOI-adjacent hole-fill - **Aquafin Jaarverslag 2025 dual SPGE water sanitation**)
+- Found (strong primary Aquafin JV2025 PDF 132 pp + ESG summary):
+  - **Omzet EUR 636.9m** (673.1m 2024 **-5.4%**); bedrijfsopbr **761.6m**; op profit **85.8m**; **net 7.26m**
+  - **Balance:** assets **4.477bn**; equity **1.108bn** (cap sub **769.7m**); LT fin debt **2.286bn**; total debt **3.363bn**
+  - **Costs:** personnel **127.7m**; D&A **224.5m**; services **174.9m**; fin costs **78.5m**
+  - **Delivery:** assetmgmt **61.2m**; newbuild **172.4m** (target 180); software **34.2m**
+  - **Ops:** 332 WWTPs · 2,122 pumps · 7,562 km pipes · compliance **99.4%**
+  - **Dual:** Aquafin VL **637m** vs SPGE WAL **418m** class 2024; drinking SWDE/Vivaqua stack prior
+- Wrote: sources +2; budgets +22; cmt +2; lb +6; FOI **gap_aquafin_tariff_l5_2025** ready+draft; raw PDF; entity; rq_564=done spawn **rq_565**; ticks=573
+- FOI opened: gap_aquafin_tariff_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_565**; deferred **rq_116**; progress@580 in 7 ticks

@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:45:00Z,rq_563,572,no,tick572 DWV invest 245m dual OverBruggen; next rq_564; progress@580 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T10:50:00Z,rq_564,573,no,tick573 Aquafin omzet 637m dual SPGE; next rq_565; progress@580 in 7; rq_116 deferred

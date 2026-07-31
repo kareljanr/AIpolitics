@@ -10342,3 +10342,25 @@ bud_dwv_participations_2025,de_werkvennootschap,2025,70,,,outturn,src_dwv_jv_202
 bud_awv_overbruggen_bridges,awv,2025,30,,,outturn,src_awv_av_2025_overbruggen,strong,COUNT OverBruggen DBFM ~30 fixed bridges to renovate maintain to 2060; tick572
 bud_awv_overbruggen_design_ready,awv,2025,10,,,outturn,src_awv_av_2025_overbruggen,strong,COUNT bridges design ready end-2025: 10 of program; tick572
 bud_dual_dwv_gip_vs_jv_invest,de_werkvennootschap,2025,244900000,,,outturn,src_dual_vl_roads_pps_tick572,strong,EUR dual: JV invest 244.9m vs GIP envelope 243.8m 2025 recon class strong; tick572
+bud_aquafin_omzet_2025,aquafin,2025,636870000,,,outturn,src_aquafin_jv_2025,strong,Omzet 636.87m 2025 (673.07m 2024 -5.4pct); tick573
+bud_aquafin_bedrijfsopbr_2025,aquafin,2025,761612000,,,outturn,src_aquafin_jv_2025,strong,Bedrijfsopbrengsten 761.61m 2025; tick573
+bud_aquafin_op_profit_2025,aquafin,2025,85777000,,,outturn,src_aquafin_jv_2025,strong,Bedrijfswinst 85.78m 2025 (77.67m 2024); tick573
+bud_aquafin_net_2025,aquafin,2025,7257000,,,outturn,src_aquafin_jv_2025,strong,Netto winst 7.26m 2025 (4.44m 2024); tick573
+bud_aquafin_personnel_2025,aquafin,2025,127692000,,,outturn,src_aquafin_jv_2025,strong,Personeelskosten 127.69m 2025; tick573
+bud_aquafin_da_2025,aquafin,2025,224461000,,,outturn,src_aquafin_jv_2025,strong,Afschrijvingen 224.46m 2025; tick573
+bud_aquafin_services_2025,aquafin,2025,174895000,,,outturn,src_aquafin_jv_2025,strong,Diensten diverse goederen 174.90m; tick573
+bud_aquafin_fin_costs_2025,aquafin,2025,78469000,,,outturn,src_aquafin_jv_2025,strong,Financiele kosten 78.47m (debt 74.24m); tick573
+bud_aquafin_assets_2025,aquafin,2025,4476652000,,,outturn,src_aquafin_jv_2025,strong,Total assets 4.477bn eoy2025; tick573
+bud_aquafin_equity_2025,aquafin,2025,1108083000,,,outturn,src_aquafin_jv_2025,strong,Eigen vermogen 1.108bn; tick573
+bud_aquafin_cap_subs_2025,aquafin,2025,769682000,,,outturn,src_aquafin_jv_2025,strong,Kapitaalsubsidies 769.68m; tick573
+bud_aquafin_debt_lt_fin_2025,aquafin,2025,2285603000,,,outturn,src_aquafin_jv_2025,strong,LT financial debt 2.286bn (bonds 543 + banks 1.743); tick573
+bud_aquafin_debt_total_2025,aquafin,2025,3363477000,,,outturn,src_aquafin_jv_2025,strong,Total schulden 3.363bn; tick573
+bud_aquafin_fixed_assets_2025,aquafin,2025,3911823000,,,outturn,src_aquafin_jv_2025,strong,Materiele VA 3.912bn; tick573
+bud_aquafin_asset_mgmt_2025,aquafin,2025,61200000,,,outturn,src_aquafin_jv_2025,strong,Assetmanagement projecten opgeleverd 61.2m 2025; tick573
+bud_aquafin_newbuild_2025,aquafin,2025,172400000,,,outturn,src_aquafin_jv_2025,strong,Nieuwbouwprojecten 172.4m 2025 (target 180m); tick573
+bud_aquafin_software_invest_2025,aquafin,2025,34200000,,,outturn,src_aquafin_jv_2025,strong,Software investments 34.2m 2025; tick573
+bud_aquafin_wwtp_count,aquafin,2025,332,,,outturn,src_aquafin_jv_2025,strong,COUNT rioolwaterzuiveringsinstallaties 332; tick573
+bud_aquafin_pumps_count,aquafin,2025,2122,,,outturn,src_aquafin_jv_2025,strong,COUNT pompstations/bergbezinkbekkens 2122; tick573
+bud_aquafin_pipes_km,aquafin,2025,7562,,,outturn,src_aquafin_jv_2025,strong,COUNT leidingen km 7562; tick573
+bud_aquafin_compliance_pct,aquafin,2025,99.4,,,outturn,src_aquafin_jv_2025,strong,PCT installaties compliant all norms 99.4; tick573
+bud_dual_aquafin_vs_spge_ca,aquafin,2025,636870000,,,outturn,src_dual_water_sanitation_vl_wal_tick573,strong,EUR dual Aquafin omzet 637m 2025 vs SPGE CA 418m 2024 class; tick573
