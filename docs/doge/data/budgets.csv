@@ -15624,3 +15624,74 @@ bud_rga_rec_regie_ws_epi_2026,regie_gevangenisarbeid,2026,2754333,,,budgeted,src
 bud_rga_ops_class_2026,regie_gevangenisarbeid,2026,26524366,,,derived,src_kamer_rga_1281_021_2026,strong,Ops class CE1211+1221+pers 16.432+5.230+4.862=26.524m 2026 excl invest; tick755
 bud_dual_rga_justice_gratifs_2026,gg_belgium,2026,5056000,,,derived,src_dual_rga_justice_tick755,strong,Dual exact match RGA domestic 5.056m = Justice BA gratifs 5.056m zero-sum; tick755
 bud_dual_prison_cloud_phv_2026,gg_belgium,2026,5595000,,,derived,src_dual_rga_justice_tick755,strong,Dual Prison Cloud 5.595m RGA vs PHV prison digi 12m class; tick755
+bud_whi_personnel_2026,war_heritage_institute,2026,11640368,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11 wages own staff 11640368 2026; +342791 PPE exemption; pool parastatals 53pct; tick756
+bud_whi_ops_2026,war_heritage_institute,2026,5515859,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 general ops 5515859 2026 sites maintenance security utilities; tick756
+bud_whi_invest_2026,war_heritage_institute,2026,1112403,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE74.22 invest 1112403 2026; tick756
+bud_whi_dot_2024,war_heritage_institute,2024,14208730,,,outturn,src_kamer_oap_autonome_1281_023_2026,strong,CE46.10 fed dot outturn 14208730 2024; tick756
+bud_whi_dot_2025,war_heritage_institute,2025,15601000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot initial 15601000 2025; tick756
+bud_whi_dot_2026,war_heritage_institute,2026,16150000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot 16150000 2026 (+486k index path +63k Horizon50-200 recovery); tick756
+bud_whi_sales_asbl_2026,war_heritage_institute,2026,2702256,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE16.12 sales goods/services to ASBL/households 2702256 2026; tick756
+bud_nob_wages_2026,nob_orchestre,2026,6070950,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11 wages 6070950 + indemn 600000 + pensions 4732150 class ~11.4m; tick756
+bud_nob_pensions_2026,nob_orchestre,2026,4732150,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11.20 pension charges 4732150 2026; tick756
+bud_nob_artistic_2026,nob_orchestre,2026,4613300,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 artistic production 4613300 2026; tick756
+bud_nob_ops_2026,nob_orchestre,2026,1450000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 general ops 1450000 2026; tick756
+bud_nob_fed_dot_2026,nob_orchestre,2026,10943000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot 10943000 2026 (vs 10961242 2024 outturn class); tick756
+bud_nob_nl_2026,nob_orchestre,2026,1750000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Nationale Loterij 1750000 2026 protocol culture dual Monnaie; tick756
+bud_nob_rec_nop_2026,nob_orchestre,2026,4614000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE16.11 NOP own receipts 4614000 2026; tick756
+bud_monnaie_wages_2026,la_monnaie,2026,27804006,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11.11 wages 27804006 2026; dual prior AR payroll ~33m; tick756
+bud_monnaie_tax_shelter_2026,la_monnaie,2026,9212890,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Tax Shelter production costs 9212890 2026; tick756
+bud_monnaie_ops_2026,la_monnaie,2026,6729680,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 ops 6729680 2026; tick756
+bud_monnaie_artistic_2026,la_monnaie,2026,6250790,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Artistic production 6250790 2026; tick756
+bud_monnaie_invest_2026,la_monnaie,2026,1263300,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE74.22 invest 1263300 2026; tick756
+bud_monnaie_fed_dot_2024,la_monnaie,2024,42533824,,,outturn,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot outturn 42533824 2024; tick756
+bud_monnaie_fed_dot_2025,la_monnaie,2025,42229165,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot 42229165 2025; tick756
+bud_monnaie_fed_dot_2026,la_monnaie,2026,42247430,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot 42247430 2026; tick756
+bud_monnaie_nl_2026,la_monnaie,2026,1900000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Nationale Loterij 1900000 2026 (was 1588750 class 2024); tick756
+bud_ngi_personnel_2026,ngi,2026,20209000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11 personnel 20209000 2026 (outturn 17234445 2024); tick756
+bud_ngi_ops_2026,ngi,2026,4188000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 ops 4188000 2026; tick756
+bud_ngi_invest_2026,ngi,2026,952000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE74.22 invest 952000 2026; tick756
+bud_ngi_dot_2026,ngi,2026,22094000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed dot 22094000 2026 = 20229k base +685k index +1180k Open Data; tick756
+bud_ngi_sales_2026,ngi,2026,3576000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE16.20 sales 3576000 2026; tick756
+bud_kce_personnel_2026,kce,2026,12397989,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11 personnel total 12397989 2026 (outturn 10658709 2024); tick756
+bud_kce_goods_2026,kce,2026,12223647,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 goods total 12223647 2026 of which Trials 10118937; tick756
+bud_kce_trials_2026,kce,2026,10118937,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,KCE Trials studies outsourced 10118937 2026; tick756
+bud_kce_rec_total_2026,kce,2026,25545789,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Total receipts class 25545789 2026 (dots+INAMI paths); tick756
+bud_kce_inami_path_a_2026,kce,2026,10397193,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE47.20 LI001 path 10397193 2026 dual RIZIV; tick756
+bud_kce_inami_path_b_2026,kce,2026,12473066,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE47.20 LI002 path 12473066 2026 dual RIZIV; tick756
+bud_iefh_personnel_2026,iefh,2026,5790085,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Personnel total 5790085 2026 (stat+contract); tick756
+bud_iefh_ops_total_2026,iefh,2026,20305547,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Ops total 20305547 2026 incl CPVS 12.05m; tick756
+bud_iefh_cpvs_zsg_2026,iefh,2026,12052591,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CPVS/ZSG centres ops 12052591 2026 residual before full INAMI transfer path; tick756
+bud_iefh_cpvs_nl_2026,iefh,2026,1581180,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CPVS NL path 1581180 2026; tick756
+bud_iefh_fed_dot_2026,iefh,2026,31101000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fed CE46.10 dot 31101000 2026 (vs 33939k 2024 authority class); tick756
+bud_iefh_nl_total_2026,iefh,2026,1766180,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,NL 150k base +1616180 CPVS =1766180 2026; tick756
+bud_cdz_personnel_2026,cdz,2026,6987033,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Personnel stack ~6987033 2026 (3.792+0.606+2.456+0.133); tick756
+bud_cdz_contrib_mob_2026,cdz,2026,2873211,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Contributions mutual MOBs class 2873211 2026; tick756
+bud_cdz_ops_fin_2026,cdz,2026,3106829,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Ops financing total class 3106829 2026; tick756
+bud_fanc_personnel_2026,fanc,2026,16039000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE11 personnel 16039000 2026 (outturn 13860250 2024); FIRST public full budget residual closes FOI class; tick756
+bud_fanc_ops_2026,fanc,2026,7291000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE12.11 ops total 7291000 2026; tick756
+bud_fanc_invest_2026,fanc,2026,1864000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,CE74 material invest 1864000 2026; tick756
+bud_fanc_rec_fees_2026,fanc,2026,30781000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Fee/tax receipts from AP sector class 30781000 2026 (NPP taxes dominant); tick756
+bud_fanc_rec_public_sector_2026,fanc,2026,3893000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Public sector receipts 3893000 2026; tick756
+bud_credendo_state_premium_rec_2026,credendo,2026,10000000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,State account CE16 premium/sales rec 10000000 2026 (was 12.048m budget 2025); tick756
+bud_credendo_state_interest_rec_2026,credendo,2026,8316230,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,State account CE26 interest rec 8316230 2026; tick756
+bud_credendo_state_cap_xfer_abroad_2026,credendo,2026,18851211,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,State account CE54 capital transfers abroad (claims) 18851211 2026; tick756
+bud_credendo_state_taxes_2026,credendo,2026,2494869,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,State account taxes 2494869 2026; tick756
+bud_credendo_own_personnel_2026,credendo,2026,25713474,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE11 wages 25713474 2026; tick756
+bud_credendo_own_ops_2026,credendo,2026,95999555,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE12.11 ops 95999555 2026 (outturn 102.291m 2024); tick756
+bud_credendo_own_interest_exp_2026,credendo,2026,37363146,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE21 interest exp 37363146 2026; tick756
+bud_credendo_own_claims_direct_2026,credendo,2026,153019738,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE54 claims DIRECT capital xfer 153019738 2026; tick756
+bud_credendo_own_intangibles_2026,credendo,2026,15600000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE74 intangibles 15600000 2026; tick756
+bud_credendo_own_premium_rec_2026,credendo,2026,276515200,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE16 direct premium/sales rec 276515200 2026; tick756
+bud_credendo_own_interest_rec_2026,credendo,2026,22387390,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE26 interest rec 22387390 2026; tick756
+bud_credendo_own_claims_rec_2026,credendo,2026,30746058,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account CE59 capital xfer rec from claims 30746058 2026; tick756
+bud_credendo_own_rent_2026,credendo,2026,2215448,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account rent 2215448 2026; tick756
+bud_credendo_own_taxes_2026,credendo,2026,10648617,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Own account taxes 10648617 2026; tick756
+bud_nbn_personnel_2026,nbn,2026,3778000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Personnel 3778000 2026; tick756
+bud_nbn_ops_2026,nbn,2026,3703000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Ops total 3703000 2026; tick756
+bud_nbn_norm_antennas_2026,nbn,2026,4462000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Norm-antennas sector transfer 4462000 2026; tick756
+bud_nbn_sales_2026,nbn,2026,6100000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Sales norms/services 6100000 2026; tick756
+bud_nbn_state_subs_2026,nbn,2026,6545000,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,State subsidies 2083k+4462k=6545k 2026; tick756
+bud_cdsca_personnel_2026,cdsca,2026,13349878,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Personnel 13349878 2026 (outturn 12460415 2024); tick756
+bud_cdsca_ops_class_2026,cdsca,2026,19265160,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Ops stack class ~19265160 2026; tick756
+bud_dual_culture_monnaie_nob_whi_2026,gg_belgium,2026,69340430,,,derived,src_dual_oap_autonome_culture_credendo_tick756,strong,Dual fed dots Monnaie 42.247 + NOB 10.943 + WHI 16.150 = 69.340m 2026; not TE-additive full culture TCO; tick756
+bud_dual_credendo_claims_state_own_2026,gg_belgium,2026,171870949,,,derived,src_dual_oap_autonome_culture_credendo_tick756,strong,Dual Credendo claims state 18.851 + own DIRECT 153.020 = 171.871m 2026 budget class not additive to consol GWP; tick756

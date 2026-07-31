@@ -9026,3 +9026,22 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_rga_prison_cloud_labour_l5 — ready prio8 (not sent)
 - Next: rq_747; progress@760 in 5; rq_116 deferred
 
+
+### 2026-08-02T16:00:00Z — tick 756
+- Unit: **rq_747** (FOI-adjacent residual — **Kamer DOC 56 1281/023 OAP autonome: Credendo + culture + FANC/KCE/IEFH dual**)
+- Found (primary Kamer 1281/023, 194p, first full mine):
+  - **Credendo own:** premiums direct **€276.515m** · claims DIRECT **€153.020m** · ops **€96.000m** · personnel **€25.713m** · interest exp **€37.363m** · intangibles **€15.600m** · interest rec **€22.387m** · claims rec **€30.746m**
+  - **Credendo State:** premiums **€10.000m** · interest rec **€8.316m** · cap xfer abroad **€18.851m** · taxes **€2.495m**
+  - **La Monnaie:** fed dot **€42.247m** 2026 (path 42.5/42.2/42.2) · wages **€27.804m** · Tax Shelter **€9.213m** · NL **€1.900m**
+  - **NOB:** fed **€10.943m** · NL **€1.750m** · pensions **€4.732m** · artistic **€4.613m** · NOP rec **€4.614m**
+  - **WHI:** fed dot **€16.150m** · personnel **€11.640m** · ops **€5.516m** · sales ASBL **€2.702m**
+  - **NGI:** fed dot **€22.094m** (Open Data **+€1.180m**) · personnel **€20.209m**
+  - **KCE:** personnel **€12.398m** · goods **€12.224m** of which Trials **€10.119m** · rec class **€25.546m** dual RIZIV paths
+  - **IEFH residual:** fed **€31.101m** · CPVS/ZSG **€12.053m** · NL CPVS **€1.581m** dual INAMI 26.4m path
+  - **FANC FIRST full public budget:** personnel **€16.039m** · ops **€7.291m** · fees **€30.781m**
+  - **NBN:** state **€6.545m** · sales **€6.100m** · antennas **€4.462m**; **CDSCA** personnel **€13.350m** ops class **~€19.3m**
+  - Dual culture OAP dots Monnaie+NOB+WHI **€69.340m** (not TE-additive); Credendo claims state+own **€171.871m** budget class
+- Wrote: entities (+4 WHI NGI CDSCA proefbank); budgets (+71); commitments (+12); leaderboard (+10); sources (+2); FOI draft **gap_oap_autonome_credendo_culture_l5**; raw extract; rq_747=done; spawn **rq_748**; ticks=756
+- FOI opened: gap_oap_autonome_credendo_culture_l5 — ready prio8 (not sent)
+- Next: rq_748; progress@760 in 4; rq_116 deferred
+
