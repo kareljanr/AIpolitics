@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 770** (2026-08-03)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** SPF SS mega dots channel **~€30.64bn** · federal debt interest core **€12.49bn** · EU GNI BNI **€4.994bn** (path **€6.224bn** 2029) · POD MI OCMW mega **€2.353bn** · DGD core cash **~€856m** · Santé AMU+care+agencies **~€818m** · prior Defence/rail/Phoenix/Police/Regie retained |
+| **D. L5 named / measure end-lines** | **~56-70%** of TE (generous) | **Gain 760→770 is federal Kamer residual wave (not near-complete of 348bn):** BELSPO ESA/FSI residual · Finance ops core **~€2.28bn** · Emploi ops/inspection residual · SS FPD **€14.58bn** / RSZ evenwicht **€5.65bn** / handicap **€3.29bn** · Debt LT interest **€10.80bn** / principal repay **€31.19bn** (roll) / purchases **€7.24bn** · EU GNI YoY **+€1.16bn** · Santé AMU/112 **€239.7m** / zorgpersoneel stack **€402m** / FAVV+Sciensano+FAGG **€176m** / HDA **€10.1m** · POD MI RMI **€2.085bn** (+€312m YoY) / wet2apr **€155.8m** / HZIV **€112.3m** · BZ Enabel **€169m** / CSO liq **€175m** (eng **€665.6m** 2027) / hum liq **~€170m** · FOI still bulk instrument rates + soft-save recon + DGD end-receivers |
+| **E. FOI-ready gaps** | **~500** drafts ready | Human send only; answered **~9**; total FOI rows **~515** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **debt principal repay €31.19bn / securities purchases €7.24bn** (roll/financing, not pure TE waste) · **unconsol federal debt / E1 path** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP €15bn** · **Phoenix LTO multi-year / CfD** · **Defence eng-liq backlog ~€9.3bn** · **Credendo commercial ECA books** · **CSO multi-year eng spike €665.6m 2027** (cash later) · **EU GNI path to €6.22bn 2029** (own resource, not discretionary waste) · **housing finance stocks** · **Regie rent/DBFM lock-in** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 770)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~16133 |
+| commitments.csv | ~2032 |
+| leaderboard.csv | ~3346 |
+| entities.csv | ~552 |
+| sources.csv | ~1514 |
+| FOI ready | ~500 |
+| FOI answered | ~9 |
+| FOI total rows | ~515 |
+| research_queue open | rq_116 deferred + rq_762 hole-fill after progress |
+
+### What improved since tick 760
+
+- **Federal admin residual (tick761–763):** BELSPO ESA/FSI dual · Finance ops core **~€2.28bn** (payroll **€1.45bn** IT **€164/171m** eGov **€39.6m**) · Emploi ops **~€105m** / inspection **~€49m** / RVA fed channel **€168m**.
+- **SS + debt mega (tick764–765):** SS mega dots+handicap **~€30.64bn** (FPD public **€14.58bn** · RSZ evenwicht **€5.65bn** · handicap **€3.29bn**) · Debt core interest **€12.49bn** (LT **€10.80bn** +ST **€1.14bn** +FX/swap) · principal repay **€31.19bn** (+€7.74bn roll) · purchases **€7.24bn**.
+- **EU financing primary (tick766):** Section52 BNI **€4.994bn** 2026 · path **€6.224bn** 2029 · YoY **+€1.159bn** · MC 22 Sep 2025 · dual total financing **~€9.145bn**.
+- **Santé + POD MI + BZ (tick767–769):** Santé AMU **€239.7m** · zorgpersoneel **€402m** · agencies **€176m** · HDA jump **€10.1m** · POD MI RMI **€2.085bn** (+€312m) · OCMW mega **€2.353bn** · DGD core cash **~€856m** · Enabel **€169m** · CSO liq **€175m** / eng **€665.6m** 2027 · hum liq **~€170m** · dipl staff **€210.5m**.
+- **Dual map:** SS mega vs Emploi residual · debt interest vs GG EDP · EU GNI vs TOR receipts · Santé dual Smals/agencies · POD MI vs CoA soft-save · BZ DGD cash vs diplomatic payroll · CSO multi-year eng spike residual.
+
+---
+
 ## Snapshot at **tick 760** (2026-08-02)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

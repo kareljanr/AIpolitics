@@ -9222,3 +9222,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: **rq_761 mandatory progress@770**; then rq_762 residual; rq_116 deferred
 
+
+## Tick 770 — 2026-08-03T06:00:00Z
+
+- Unit: **rq_761** (mandatory **progress@770** coverage % + waste top10)
+- Found / assessment:
+  - **A/B L0–L1:** still **100%** of €347.956bn TE map
+  - **C L2:** ~**99%** (+ SS mega ~30.6bn · debt interest 12.49 · EU GNI 4.99 · POD MI 2.35 · DGD ~0.86 · Santé ~0.82)
+  - **D L5:** ~**56–70%** generous — gain 760→770: federal Kamer residual (BELSPO · Finance ops · Emploi · SS dots · Debt · EU GNI · Santé AMU/zorg/agencies · POD MI RMI · BZ Enabel/CSO/hum)
+  - **E FOI ready:** ~**500** (answered ~9; total ~515)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks filtered (Metro3, OWV snowball, debt principal roll, CSO eng 665.6)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_761=done; **rq_762** remains open head; loop_state ticks=770
+- FOI: none new this tick
+- Next: prio5 **rq_762** (residual dual / unmined Kamer 001–006/011/021 / Entity II); deferred **rq_116**; progress@780 in 10
+

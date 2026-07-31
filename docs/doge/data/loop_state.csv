@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T05:00:00Z,rq_760,769,no,tick769 BZ Enabel 169 CSO 175 hum 170 DGD~856; next rq_761 progress@770; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T06:00:00Z,rq_761,770,no,tick770 progress@770 L2~99 L5~56-70 FOI~500; next rq_762 residual dual/Kamer; progress@780 in 10; rq_116 deferred
