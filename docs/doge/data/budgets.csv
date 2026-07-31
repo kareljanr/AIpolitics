@@ -13954,3 +13954,19 @@ bud_srib_solde_neg_1_7m_2026,srib,2026,-1669000,,,budgeted,src_ccrek_bru_citydev
 bud_start_culture_solde_1_7m_2026,start_bru,2026,1674000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,St art culture invest fund solde +1.674 (rec 1.746 dep 0.072); tick711
 bud_iristeam_101_6m_2026,iristeam,2026,101617000,,,budgeted,src_ccrek_bru_citydev_sau_missions_2026,strong,Iristeam balanced 101.617 dual IT; tick711
 bud_dual_citydev_pmv_dev_2026,gg_belgium,2026,10514000,,,budgeted,src_dual_citydev_pmv_srib_tick711,strong,Dual Citydev missions 10.5 vs VL PMV residual; not TE-additive; tick711
+bud_visit_bru_presented_29_7m_2026,visit_brussels,2026,29734000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,Visit.brussels presented balanced 29.734m reporté inflated; tick712
+bud_visit_bru_corrected_dep_26_0m_2026,visit_brussels,2026,26048000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,Visit.brussels dep corrected 26.048 after reporté strip; tick712
+bud_visit_bru_corrected_rec_26_1m_2026,visit_brussels,2026,26071000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,Visit.brussels rec corrected 26.071 after reporté strip; tick712
+bud_visit_bru_hidden_surplus_0_02m_2026,visit_brussels,2026,23000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,Visit.brussels true solde +0.023 hidden by reporté; tick712
+bud_abe_presented_64_1m_2026,abe_bru,2026,64112000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,ABE hub.brussels presented balanced 64.112m reporté inflated; tick712
+bud_abe_corrected_rec_43_1m_2026,abe_bru,2026,43056000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,ABE rec corrected 43.056 after reporté strip; tick712
+bud_abe_corrected_dep_40_9m_2026,abe_bru,2026,40863000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,ABE dep corrected 40.863 after reporté strip; tick712
+bud_abe_hidden_surplus_2_2m_2026_tick712,abe_bru,2026,2193000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,ABE true solde +2.193 (confirms tick708 partial); tick712
+bud_fbg_presented_3_6m_2026,fbg_bru,2026,3559000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,FBG Fonds bruxellois de garantie presented 3.559m; tick712
+bud_fbg_corrected_dep_1_2m_2026,fbg_bru,2026,1240000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,FBG dep corrected 1.240 after reporté; tick712
+bud_fbg_hidden_surplus_1_5m_2026,fbg_bru,2026,1473000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,FBG true solde +1.473 hidden by reporté; tick712
+bud_brupartners_presented_10_2m_2026,brupartners,2026,10180000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,Brupartners CESRBC presented 10.180m; corr -6.365 balanced 3.815; tick712
+bud_brupartners_corrected_3_8m_2026,brupartners,2026,3815000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,strong,Brupartners corrected 3.815 after reporté strip; tick712
+bud_mad_brussels_comp_0_8m_2025,mad_brussels,2025,825000,,,budgeted,src_ccrek_bru_visit_abe_fbg_2026,medium,Annexe3 Mad.brussels comparative B 0.825 vs voted 0.759; tick712
+bud_dual_tourism_visit_tv_vw_2026,gg_belgium,2026,29734000,,,budgeted,src_dual_tourism_export_tick712,strong,Dual Visit.brussels 29.7 presented vs TV/VisitWallonia residual; not TE-additive; tick712
+bud_dual_export_abe_awex_fit_2026,gg_belgium,2026,64112000,,,budgeted,src_dual_tourism_export_tick712,strong,Dual ABE 64.1 presented vs AWEX 76.8 FIT residual; not TE-additive; tick712

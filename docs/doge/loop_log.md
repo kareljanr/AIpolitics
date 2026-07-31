@@ -8398,3 +8398,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_citydev_sau_missions_l5 — ready (not sent)
 - Next: rq_703; progress@720 in 9 ticks; rq_116 deferred
 
+### 2026-08-01T19:45:00Z — tick 712
+- Unit: **rq_703** (FOI-adjacent dual residual — **BCR Visit.brussels/ABE/FBG dual tourism-export**)
+- Found (primary CoA 2026_17 Annexe2-3):
+  - **Visit.brussels** presented balanced **29.734**; corrected rec **26.071** dep **26.048** solde **+0.023**
+  - **ABE/hub.brussels** presented **64.112**; corrected rec **43.056** dep **40.863** solde **+2.193**
+  - **FBG** presented **3.559**; corrected solde **+1.473**; **Brupartners** **10.180→3.815**
+  - Mad.brussels Annexe3 comparative **0.825 vs 0.759** voted
+  - Dual tourism: TV ~**71.7** / VisitWallonia **15.4**; dual export AWEX **76.8** / FIT residual
+  - Strong CoA; L5 FOI.
+- Wrote: budgets (+16); commitments (+6); leaderboard (+7); sources (+2); entities (+4); FOI draft **gap_bru_visit_abe_fbg_l5**; rq_703=done; spawn **rq_704**; loop_state ticks=712
+- FOI opened: gap_bru_visit_abe_fbg_l5 — ready (not sent)
+- Next: rq_704; progress@720 in 8 ticks; rq_116 deferred
+

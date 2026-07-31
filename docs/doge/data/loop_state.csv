@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T19:30:00Z,rq_702,711,no,tick711 BCR Citydev/SAU/SRIB dual; next rq_703; progress@720 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T19:45:00Z,rq_703,712,no,tick712 BCR Visit/ABE/FBG dual tourism-export; next rq_704; progress@720 in 8; rq_116 deferred

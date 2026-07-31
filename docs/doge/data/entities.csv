@@ -542,3 +542,6 @@ sau_bru,SAU,Société d'aménagement urbain,Brussels urban development company,a
 srib,Finance&invest.brussels SRIB,Finance&invest.brussels (SRIB),Brussels regional investment company,agency,brussels_gov,bi,https://www.finance.brussels,,,CoA Annexe2 rec 9.1 dep 10.8 solde -1.7 dual PMV; tick711
 iristeam,Iristeam,Iristeam,Brussels IT mutualisation agency,agency,brussels_gov,bi,,,CoA Annexe2 balanced 101.6 dual Paradigm; tick711
 start_bru,St'art,Fonds d'investissement dans les entreprises culturelles St'art,Brussels cultural enterprise investment fund,agency,brussels_gov,fr,,,CoA Annexe2 solde +1.7; tick711
+fbg_bru,FBG,Fonds bruxellois de garantie,Brussels regional guarantee fund for SME credit,agency,brussels_gov,fr,,,CoA Annexe2 presented 3.6m; corrected solde +1.5; tick712
+brupartners,Brupartners CESRBC,Brupartners (CESRBC),Brussels Economic and Social Council,agency,brussels_gov,bi,,,CoA Annexe2 presented 10.2m; corrected 3.8 after reporté; tick712
+mad_brussels,Mad.brussels,Mad.brussels,Brussels fashion and design agency,agency,brussels_gov,bi,,,CoA Annexe3 comparative integrity residual; tick712
