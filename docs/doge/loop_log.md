@@ -9207,3 +9207,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_760 Buitenlandse Zaken 1281/007; progress@770 in 2; rq_116 deferred
 
+
+## Tick 769 — 2026-08-03T05:00:00Z
+
+- Unit: **rq_760** (FOI-adjacent residual — **Kamer DOC 56 1281/007 FOD Buitenlandse Zaken / DGD**, 215p)
+- Found (primary 56K1281007; prefer **liq** when eng multi-year):
+  - **Enabel** gov coop eng=liq **€169m** 2026 (200/190 path)
+  - **CSO** liq **€175.382m** 2026; multi-year eng spike **€665.6m** in **2027**
+  - **Humanitarian stack liq ~€170m** (funds 81 + core 40.25 + programmes 37.75 + projects 11)
+  - Multi vol liq **€67m** · IDA eng 77.5 / liq **98.2** · climate eng 157.2 / liq **75.3** · EDF **22.7**
+  - Academic liq VLIR 32.5 + ARES 29.5 + ITM 16.8 = **€78.8m**
+  - **DGD core cash map ~€856m** class; dipl staff core **€210.5m** (career 111.6 + local 48.8 + HQ 50.1); int orgs **€112.5m**; NATO trust 45; EPF 14.8; export OECD 20.0
+- Wrote: entity fod_bz; budgets +33; commitments +9; leaderboard +10; sources +2; FOI **gap_bz_dgd_enabel_cso_hum_l5** prio8 ready; rq_760=done; spawn **rq_761 progress@770** + **rq_762**; ticks=769
+- FOI: ready only — **do not send**
+- Next: **rq_761 mandatory progress@770**; then rq_762 residual; rq_116 deferred
+
