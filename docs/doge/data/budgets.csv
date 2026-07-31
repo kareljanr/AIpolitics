@@ -13744,3 +13744,35 @@ bud_wal_emprunt_rec_4059_5m_2026,wallonie_gov,2026,4059524000,,,budgeted,src_ccr
 bud_wal_june_params_upside_123_5m,wallonie_gov,2026,123500000,,,estimate,src_ccrek_wal_aju2026_receipts_t7_11,medium,If June 2026 BFP params used LSF receipts +123.5 vs Feb; not booked; tick699
 bud_all_regions_centimes_16897_5m_2026,gg_belgium,2026,16897500000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,All-region IPP centimes pool aju 16897.5 (IB 16485.8); tick699
 bud_dual_wal_ipp_vl_opcent_2026,gg_belgium,2026,3801038000,,,budgeted,src_dual_wal_vl_ipp_receipts_tick699,strong,Dual WAL IPP 3.80bn vs VL opcentiemen 10.79bn; not TE-additive; tick699
+bud_wal_ce_total_aju_21452_9m_2026,wallonie_gov,2026,21452905000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Total CE aju 21452.9m (+276.5 / +1.3pct); T12; tick701
+bud_wal_cl_total_aju_21937_9m_2026,wallonie_gov,2026,21937935000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Total CL aju 21937.9m (+602.2 / +2.8pct); T12; tick701
+bud_wal_provis_eng_521_6m_2026,wallonie_gov,2026,521600000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Provisions eng 521.6m specialty breach CoA; tick701
+bud_wal_provis_liq_1221_7m_2026,wallonie_gov,2026,1221700000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Provisions liq 1221.7m specialty breach; PRW/FRR redistrib YTD 547.2; tick701
+bud_wal_prw_frr_redistrib_ce_99_7m_ytd,wallonie_gov,2026,99700000,,,outturn,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,PRW/FRR provision redistrib YTD CE 99.7m; tick701
+bud_wal_prw_frr_redistrib_cl_547_2m_ytd,wallonie_gov,2026,547200000,,,outturn,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,PRW/FRR provision redistrib YTD CL 547.2m; tick701
+bud_wal_index_pivot_impact_24_8m_2026,wallonie_gov,2026,24800000,,,estimate,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Index pivot param revision adverse +24.8m spend; tick701
+bud_wal_do12_digital_provis_ce_10m_2026,wallonie_gov,2026,10000000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,DO12 digital provis CE +10m no master plan IF/CoA; tick701
+bud_wal_do12_digital_provis_cl_3_5m_2026,wallonie_gov,2026,3500000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,DO12 digital provis CL +3.5m; tick701
+bud_wal_fonds_rec_489_7m_2026,wallonie_gov,2026,489700000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Fonds rec aju 489.7 (IB 491.1); T14; tick701
+bud_wal_fonds_dep_390_9m_2026,wallonie_gov,2026,390900000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Fonds dep aju 390.9 (IB 397.8); year solde +98.8; tick701
+bud_wal_fonds_report_ce_1269_9m_2026,wallonie_gov,2026,1269900000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Fonds report CE path 1269.9 (eoy2025 1186); tick701
+bud_wal_fonds_report_cl_1552_7m_2026,wallonie_gov,2026,1552700000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Fonds report CL path 1552.7 (eoy2025 1453.9); Env 518.1 Fisir 322 Waste 251.8 RDI 188; tick701
+bud_wal_fonds_sec_obj_237_2m_2026,wallonie_gov,2026,237200000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Fonds SEC programming objective +237.2 contravenes fund principle; tick701
+bud_wal_fonds_kyoto_158m_2026,wallonie_gov,2026,158000000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Kyoto fonds rec=dep 158; tick701
+bud_wal_fonds_env_rec_81_9m_2026,wallonie_gov,2026,81900000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Env protection fonds rec 81.9 dep CL 61.3; tick701
+bud_wal_fonds_ecopack_72_4m_2026,wallonie_gov,2026,72400000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Ecopack/Renopack fonds 72.4 rec=dep; dual VL MVL; tick701
+bud_wal_fonds_fisir_rec_89_4m_2026,wallonie_gov,2026,89400000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Fisir rec 89.4 dep 45 gap 44.3; report 322; tick701
+bud_wal_fonds_energy_rec_15_6m_2026,wallonie_gov,2026,15600000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Energy fonds rec 15.6 (+4.6 RE surplus sale to fed conditional); tick701
+bud_wal_energy_re_sale_fed_4_6m,wallonie_gov,2026,4600000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,medium,RE surplus sale to federal 4.6m (32+333.7 GWh @12.5 EUR/MWh 2023-24); IF opinion pending; tick701
+bud_aviq_rec_aju_7007_8m_2026,aviq,2026,7007848000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,AViQ rec aju 7007.8 (+35.5 / +0.5pct); tick701
+bud_aviq_dep_aju_7523_5m_2026,aviq,2026,7523550000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,AViQ dep aju 7523.5 (+232.1 / +3.2pct); tick701
+bud_aviq_result_neg_515_7m_2026,aviq,2026,-515702000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,AViQ budget result -515.7 (IB -319.1); tick701
+bud_aviq_consol_impact_neg_258_9m_2026,aviq,2026,-258900000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Govt consol AViQ impact -258.9 (sous-util 58.6 + billing corr 198.1); tick701
+bud_aviq_billing_14mo_198_1m_2026,aviq,2026,198100000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,MR/MRS billing monthly shift +198.1 (14 months in 2026); dual VL WZC; tick701
+bud_aviq_index_impact_13m_2026,aviq,2026,13000000,,,estimate,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,AViQ index pivot param +13m adverse not fully booked; tick701
+bud_forem_ce_cl_3007_4m_2026,forem,2026,3007400000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,FOREM CE=CL aju 3007.4 (+42.4); Job Plus +31.9 macro +22.2 old aids -12.4; tick701
+bud_forem_region_dots_2876m_2026,forem,2026,2876000000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,Region credits to FOREM 2876 (+42.4); dual VDAB; tick701
+bud_otw_rec_aju_1210m_2026,otw,2026,1210000000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,OTW rec aju 1210 (+22.6) PNRR +31.3; dual De Lijn; tick701
+bud_otw_dep_aju_1196_3m_2026,otw,2026,1196300000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,OTW dep aju 1196.3 (-64.4) buses -43.5 buildings -17.5; tick701
+bud_otw_bus_capex_cut_43_5m_2026,otw,2026,-43500000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,OTW bus acquisition -43.5 (procurement/delivery lag e-bus); tick701
+bud_dual_wal_otw_delijn_2026,gg_belgium,2026,1196300000,,,budgeted,src_dual_wal_vl_perimeter_tick701,strong,Dual OTW dep 1196 vs De Lijn path; not TE-additive; tick701

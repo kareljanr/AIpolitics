@@ -8248,3 +8248,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_691=done; spawn **rq_692**; loop_state ticks=700
 - FOI: none new (progress tick)
 - Next: prio5 **rq_692**; deferred **rq_116**; progress@710 in 10 ticks
+
+### 2026-08-01T17:00:00Z — tick 701
+- Unit: **rq_692** (FOI-adjacent dual residual — **WAL exp/fonds/AViQ/FOREM/OTW dual VL**)
+- Found (primary CoA 2026_26 ch.5–7):
+  - Spend CE **21452.9** (+276.5) CL **21937.9** (+602.2); provis eng **521.6** liq **1221.7** specialty breach; PRW/FRR redistrib YTD **99.7/547.2**
+  - Index pivot **+24.8** adverse; DO12 digital provis **+10/+3.5** no master plan
+  - Fonds rec **489.7** dep **390.9** year **+98.8**; report CE **1269.9** CL **1552.7** (Env **518** Fisir **322** Waste **252** RDI **188**); SEC obj **+237.2** contravenes
+  - AViQ rec **7007.8** dep **7523.5** result **−515.7**; consol **−258.9** (sous-util **58.6** + billing **198.1** 14mo); FOREM **3007.4** Job Plus **+31.9**; OTW dep **1196.3** bus **−43.5**
+  - Dual VL fonds/VAPH/VDAB/De Lijn; Strong CoA; L5 FOI.
+- Wrote: budgets (+32); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_exp_fonds_perimeter_l5**; rq_692=done; spawn **rq_693**; loop_state ticks=701
+- FOI opened: gap_wal_aju2026_exp_fonds_perimeter_l5 — ready (not sent)
+- Next: rq_693; progress@710 in 9 ticks; rq_116 deferred
