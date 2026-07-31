@@ -11244,3 +11244,13 @@ bud_ifapme_solde_sec_bi2024,ifapme,2024,-9694000,,,budgeted,src_ccrek_ifapme_bud
 bud_ifapme_prog112_bi2025_coa,ifapme,2025,82300000,,,budgeted,src_ccrek_ifapme_prog112_bi2025,strong,CoA emploi-formation table prog 112 IFAPME ~82.3m BI2025 (RW budget line subset of full SEC UAP 142m)
 bud_ifapme_sec_vs_epje_gap_2025,ifapme,2025,59959376,,,derived,src_ccrek_ifapme_budget_bi2025,medium,Illustrative gap full SEC dep 142.212m minus EPJE/prog112 class ~82.3m ~59.96m own/other perimeter residual FOI recon
 bud_dual_vocational_ifapme_syntra_sec_2025,gg_belgium,2025,142212376,,,budgeted,src_dual_vocational_ifapme_syntra_tick612,medium,Illustrative dual vocational: IFAPME full SEC 142.2m + SYNTRA package 49.7m class; not additive TE; EPJE-only dual understates IFAPME
+bud_cgt_rec_sec_bi2025,tourisme_wallonie,2025,64998000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,CGT Type1 recettes BI2025 64.998m CoA Table33
+bud_cgt_dep_sec_bi2025,tourisme_wallonie,2025,66998000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,CGT depenses BI2025 66.998m CoA Table33 dual tourism
+bud_cgt_solde_sec_bi2025,tourisme_wallonie,2025,-2000000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,CGT solde SEC BI2025 -2.000m (path +5.639m vs BI2024 -7.639m)
+bud_cgt_rec_sec_bi2024,tourisme_wallonie,2024,73657000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,CGT recettes BI2024 73.657m CoA Table33
+bud_cgt_dep_sec_bi2024,tourisme_wallonie,2024,81296000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,CGT depenses BI2024 81.296m CoA Table33
+bud_cgt_solde_sec_bi2024,tourisme_wallonie,2024,-7639000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,CGT solde SEC BI2024 -7.639m
+bud_cgt_ba2025b_rec,tourisme_wallonie,2025,68845000,,,budgeted,src_wallex_cgt_budget_ajust_2025,strong,CGT budget ajuste 2025 recettes 68.845m decret Art.23
+bud_cgt_ba2025b_dep,tourisme_wallonie,2025,70845000,,,budgeted,src_wallex_cgt_budget_ajust_2025,strong,CGT budget ajuste 2025 depenses 70.845m decret Art.23
+bud_cgt_dep_path_delta_2024_25,tourisme_wallonie,2025,-14298000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,Depenses path BI2024 81.296m to BI2025 66.998m delta -14.298m
+bud_dual_tourism_cgt_vl_bru_2025,gg_belgium,2025,66998000,,,budgeted,src_dual_tourism_cgt_tick613,medium,Illustrative dual tourism admin: CGT SEC 67.0m + Toerisme VL SQ class 74.8m + visit.brussels 14.9m; not additive TE; VISITWallonia promo separate

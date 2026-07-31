@@ -7387,3 +7387,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update ifapme; budgets (+9); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_ifapme_sec_epje_recon_l5_2025; rq_603=done; spawn rq_604; loop_state ticks=612
 - FOI opened: gap_ifapme_sec_epje_recon_l5_2025 ? ready (not sent)
 - Next: rq_604; progress@620 in 8 ticks; rq_116 deferred
+
+### 2026-07-31T19:00:00Z — tick 613
+- Unit: rq_604 (FOI-adjacent dual tourism hole-fill deepen — **CGT** Tourisme Wallonie Type1)
+- Found: **CGT** Commissariat général au tourisme (primary CoA Table33 + decret Art.23). **BI2025:** recettes **€64.998m** · dépenses **€66.998m** · solde **-€2.000m**. **BI2024:** rec **€73.657m** · dep **€81.296m** · solde **-€7.639m** (dep path **-€14.298m**). **BA2025b:** rec **€68.845m** / dep **€70.845m**. Prior DO fonct sub **€48.578m** 2026 is **subset** of full SEC. Dual **Toerisme VL** SQ **€74.8m** + **visit.brussels** **€14.9m** + **VISITWallonia** promo **€13.1m**. Strong confidence; staff/L5 awards residual FOI.
+- Wrote: entity update tourisme_wallonie; budgets (+10); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_cgt_ra_staff_l5_2025; rq_604=done; spawn rq_605; loop_state ticks=613
+- FOI opened: gap_cgt_ra_staff_l5_2025 ? ready (not sent)
+- Next: rq_605; progress@620 in 7 ticks; rq_116 deferred
