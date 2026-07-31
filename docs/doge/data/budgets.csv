@@ -11416,3 +11416,25 @@ bud_flw_solde_sec_ba2024,flw,2024,3717269,,,budgeted,src_ccrek_swl_swcs_flw_tabl
 bud_swl_119quater_cost_2025,swl,2025,1219760,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Annex4 119quater SWL 79 agents cost est 1.21976m 2025; tick626
 bud_swcs_119quater_cost_2025,swcs,2025,617600,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Annex4 119quater SWCS 40 agents cost est 0.6176m 2025; tick626
 bud_dual_housing_wal_sec_dep_class_2025,gg_belgium,2025,702829593,,,budgeted,src_dual_housing_swl_vmsw_tick626,strong,WAL SWL+SWCS+FLW dep SEC BI2025 sum 366.153+215.628+121.048=702.83m class not dual-additive with VL; tick626
+bud_we_group_rec_sec_bi2025,wallonie_entreprendre,2025,226640662,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 Groupe WE recettes SEC BI2025 226.641m; tick627
+bud_we_group_dep_sec_bi2025,wallonie_entreprendre,2025,265260003,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 Groupe WE depenses SEC BI2025 265.260m; tick627
+bud_we_group_solde_sec_bi2025,wallonie_entreprendre,2025,-38619341,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 Groupe WE solde SEC BI2025 -38.619m; path +112.531m vs BI2024; tick627
+bud_we_group_rec_sec_bi2024,wallonie_entreprendre,2024,159348311,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 Groupe WE recettes SEC BI2024 159.348m; tick627
+bud_we_group_dep_sec_bi2024,wallonie_entreprendre,2024,310498779,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 Groupe WE depenses SEC BI2024 310.499m; tick627
+bud_we_group_solde_sec_bi2024,wallonie_entreprendre,2024,-151150468,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 Groupe WE solde SEC BI2024 -151.150m; tick627
+bud_we_alone_rec_sec_bi2025,wallonie_entreprendre,2025,158534181,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 WE SA alone recettes BI2025 158.534m; tick627
+bud_we_alone_dep_sec_bi2025,wallonie_entreprendre,2025,214370402,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 WE SA alone depenses BI2025 214.370m; tick627
+bud_we_alone_solde_sec_bi2025,wallonie_entreprendre,2025,-55836221,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 WE SA alone solde BI2025 -55.836m; tick627
+bud_we_alone_rec_sec_bi2024,wallonie_entreprendre,2024,116041199,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 WE SA alone recettes BI2024 116.041m; tick627
+bud_we_alone_dep_sec_bi2024,wallonie_entreprendre,2024,264917313,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 WE SA alone depenses BI2024 264.917m; tick627
+bud_we_alone_solde_sec_bi2024,wallonie_entreprendre,2024,-148876114,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA Annex3 WE SA alone solde BI2024 -148.876m; tick627
+bud_we_impact_solde_ba2024,wallonie_entreprendre,2024,-127251000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA impact Type3 Groupe WE solde BA2024 -127.251m; tick627
+bud_we_impact_solde_bi2025,wallonie_entreprendre,2025,-40171000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA impact Type3 Groupe WE solde BI2025 -40.171m; tick627
+bud_we_treasury_rembours_2025,wallonie_entreprendre,2025,110000000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA treasury rembours excess WE 110m in 2025 recettes path (drives group solde); tick627
+bud_we_div_estimate_up_2025,wallonie_entreprendre,2025,25000000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA dividend receipts estimate +25m WE BI2025 path; tick627
+bud_we_interest_estimate_up_2025,wallonie_entreprendre,2025,11000000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA interest receipts estimate +11m WE BI2025 path; tick627
+bud_we_other_group_solde_2025,wallonie_entreprendre,2025,14800000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA other group cos solde impact +14.8m (WE Env 3.3 Novallia 4.2 WE Int 2.2 Wallonie Sante 2.1); tick627
+bud_we_df097014_credits_bi2025,wallonie_entreprendre,2025,122200000,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA prog097 DF097.014 moyens d actions 122.2m BI2025 (only -20m vs BA2024 vs claimed -45m structural); tick627
+bud_we_env_dep_bi2025,wallonie_entreprendre,2025,6820467,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA WE Environnement dep BI2025 6.820m solde +3.310m; tick627
+bud_we_intl_dep_bi2025,wallonie_entreprendre,2025,2626957,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA WE International dep BI2025 2.627m solde +2.211m; tick627
+bud_dual_we_pmv_dep_class_2025,gg_belgium,2025,265260003,,,budgeted,src_dual_we_pmv_sec_tick627,strong,WE group dep SEC 265.3m BI2025 dual PMV managed class ~1.94bn not additive; tick627

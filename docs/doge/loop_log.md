@@ -7498,3 +7498,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (swl/swcs update +flw); budgets (+22); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_swl_swcs_flw_recon_l5_2025; rq_617=done; spawn rq_618; loop_state ticks=626
 - FOI opened: gap_swl_swcs_flw_recon_l5_2025 -- ready (not sent)
 - Next: rq_618; progress@630 in 4 ticks; rq_116 deferred
+
+### 2026-07-31T22:30:00Z -- tick 627
+- Unit: rq_618 (FOI-adjacent dual holding hole-fill -- **Wallonie Entreprendre / Groupe WE** CoA Annex3 dual PMV)
+- Found: **Groupe WE** (primary CoA Annex3 Type3). **BI2025:** rec **EUR226.641m** / dep **EUR265.260m** / solde **-EUR38.619m**. **BI2024:** rec **EUR159.348m** / dep **EUR310.499m** / solde **-EUR151.150m** (path dep **-EUR45.239m** / solde **+EUR112.531m**). **WE alone BI2025:** rec **EUR158.534m** / dep **EUR214.370m** / solde **-EUR55.836m**. Impact Type3 **BA2024 -EUR127.251m / BI2025 -EUR40.171m**. Treasury rembours **EUR110m**; div **+EUR25m**; interest **+EUR11m**; other group **+EUR14.8m**. CoA: claimed structural cut **EUR45m** only **-EUR20m** on DF097.014 (**EUR122.2m**). Dual **PMV** managed class **~EUR1.94bn** + SFPIM **EUR11.7bn**. Strong confidence CoA; portfolio L5 residual FOI.
+- Wrote: entity update wallonie_entreprendre; budgets (+22); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_we_sec_recon_l5_2025; rq_618=done; spawn rq_619; loop_state ticks=627
+- FOI opened: gap_we_sec_recon_l5_2025 -- ready (not sent)
+- Next: rq_619; progress@630 in 3 ticks; rq_116 deferred
