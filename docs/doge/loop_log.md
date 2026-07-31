@@ -8182,3 +8182,15 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_wal_aju2026_debt_rating_l5 — ready (not sent)
 - Next: rq_687; progress@700 in 5 ticks; rq_116 deferred
 
+
+### 2026-08-01T15:45:00Z — tick 696
+- Unit: **rq_687** (FOI-adjacent dual residual — **VL HE debt 104.9m named + basiskoten 100m dual FWB ES −108**)
+- Found (primary CoA 2026_28 T15 + §7.6.2; dual 2026_33 T4–T5):
+  - **HE indirect debt** net **+104.9** (IB **99.1** / **+5.8**): **UHasselt 50.0** · **KdG 35.0** · **Artevelde 20.0** (+ other LT repayments)
+  - **VMSW basiskoten** VAK **+100** rent-free loans to HE (IB already **100** FS3 −1% to woonmaatschappijen student housing); CoA: policy expansion + BA timing **under-explained**
+  - **HE onderbenutting 323.6** (IB 326.8); **Energieleningen Agion/GO!** VAK **+100**
+  - Dual **FWB ES consol solde −108.0** (IB −122.1 / +14.1) — aggregate only, no named debt matrix; FWB new loan rate 2025 **3.6%** (2021 1.6%); fixed **92.2%**; multi-year finance/refi **10.115bn** 2025–29 boule-de-neige risk
+  - Strong CoA; L5 FOI purpose/pipeline.
+- Wrote: entities (+kdg +artevelde); budgets (+15); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_he_debt_basiskoten_l5**; rq_687=done; spawn **rq_688**; loop_state ticks=696
+- FOI opened: gap_vl_ba2026_he_debt_basiskoten_l5 — ready (not sent)
+- Next: rq_688; progress@700 in 4 ticks; rq_116 deferred

@@ -13660,3 +13660,18 @@ bud_wal_rate_sensi_plus1_5_7m_2026,wallonie_debt,2026,5700000,,,estimate,src_ccr
 bud_wal_rate_sensi_plus1_41_5m_2027,wallonie_debt,2027,41500000,,,estimate,src_ccrek_wal_aju2026_debt_rating_deep,strong,+1pct impact 41.5m 2027 (fixed 33.4 + var 8.1); tick695
 bud_wal_moody_baa1_apr2026,wallonie_debt,2026,0,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Moody Baa1 from A3 on 21 Apr 2026 after sovereign A1; tick695
 bud_dual_wal_vl_debt_interest_2026,gg_belgium,2026,753700000,,,budgeted,src_dual_wal_vl_debt_ratings_tick695,strong,Dual WAL interest 753.7 vs VL debt path; not TE-additive; tick695
+bud_vl_he_debt_net_104_9m_2026,vlaanderen_gov,2026,104900000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,Indirect HE debt net +104.9m aju (IB 99.1); T15; tick696
+bud_vl_he_debt_ib_99_1m_2026,vlaanderen_gov,2026,99100000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,IB HE debt net 99.1m before +5.8 aju path; tick696
+bud_uhasselt_debt_draw_50m_2026,uhasselt,2026,50000000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,UHasselt debt draw 50.0m within HE +104.9; purpose L5 FOI; tick696
+bud_kdg_debt_draw_35m_2026,kdg,2026,35000000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,KdG debt draw 35.0m; purpose L5 FOI; tick696
+bud_artevelde_debt_draw_20m_2026,artevelde,2026,20000000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,Artevelde debt draw 20.0m; purpose L5 FOI; tick696
+bud_vmsw_basiskoten_vak_100m_2026,vmsw,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,VMSW VAK +100m rent-free basiskoten loans to HE; VEK unchanged; CoA under-explained; tick696
+bud_vmsw_basiskoten_fs3_ib_100m_2026,vmsw,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,IB 100m FS3 -1pct subsidised loans to woonmaatschappijen for student housing; dual to rent-free HE path; tick696
+bud_vl_he_onderbenutting_323_6m_2026,vlaanderen_gov,2026,323600000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,HE onderbenutting aju 323.6 (IB 326.8 -3.2); separate from general; tick696
+bud_energieleningen_agion_go_vak_100m_2026,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_he_debt_basiskoten,strong,Energieleningen Agion/GO! VAK +100m schools dual HE credit stack; tick696
+bud_fwb_es_consol_solde_neg_108m_2026,fwb_gov,2026,108000000,,,budgeted,src_dual_vl_fwb_he_debt_tick696,strong,FWB ES establishments consol solde -108.0 aju (IB -122.1 +14.1); dual VL HE debt; not debt stock; tick696
+bud_fwb_es_consol_solde_ib_neg_122_1m_2026,fwb_gov,2026,122100000,,,budgeted,src_dual_vl_fwb_he_debt_tick696,strong,FWB ES consol solde IB -122.1; tick696
+bud_fwb_new_loan_rate_2025_3_6pct,fwb_gov,2025,0,,,outturn,src_dual_vl_fwb_he_debt_tick696,strong,New FWB loan rate 2025 3.6pct vs 2021 1.6pct dual VL HE borrowing cost; tick696
+bud_fwb_fixed_share_debt_92_2pct_2025,fwb_gov,2025,0,,,outturn,src_dual_vl_fwb_he_debt_tick696,strong,FWB fixed-rate debt share 92.2pct 2025 (94.5 2024); tick696
+bud_fwb_multiyear_finance_10115m_2025_29,fwb_gov,2029,10115500000,,,estimate,src_dual_vl_fwb_he_debt_tick696,strong,FWB finance+refi 2025-29 10115.5m (refi 2458.9 + new 7656.7); boule de neige risk; tick696
+bud_dual_vl_he_debt_vs_fwb_es_2026,gg_belgium,2026,104900000,,,budgeted,src_dual_vl_fwb_he_debt_tick696,strong,Dual VL HE debt draws 104.9 vs FWB ES consol -108; not TE-additive; tick696
