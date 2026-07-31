@@ -8084,3 +8084,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_ba2026_fonds_deep_l5 — ready (not sent)
 - Next: rq_680; progress@690 in 2 ticks; rq_116 deferred
 
+
+### 2026-08-01T14:00:00Z — tick 689
+- Unit: **rq_680** (FOI-adjacent dual residual — **VL T8 ruiter/beleidskredieten domain + BAC/RRI dividend dual**)
+- Found (primary CoA 2026_28 §2.2.1–2.2.2 T8 + §3.2):
+  - **Ruiter carry 1415.3m** (ESR8 **126.9**; variable fonds **678.9** excl): FB **571** MOW **527.8** OMG **149.8** CJSM **78.1** OV **75.8** WEWILS **6.8** KBBZJ **6.0** — not in admin table; toelichting silent
+  - **BA VAK 67788.9m** (OV **20245** WVG **18096** MOW **7345** KBBZJ **6293** WEWILS **6070** FB **4655** OMG **3212** CJSM **1698** Hogere **175**); full beleid class **~69204**
+  - **BAC/RRI:** IB div **55.5** → RRI income **35.7** (BAC **15.3**+BAISA **7.9**); RRI→PMV **32.1** of which PMV→general **24.3**; O&O provis **+7.9**
+  - **VAK wedges:** Oosterweel **+2514**; Defensiefonds rebook **500**; MVP loan **+350.3** (280.2 rebook); school energy/basiskoten **+100** each; Fluvius VEK **1100**/VAK **1560**
+  - Oosterweel build **986.7** (IB **889.9**) off VR still EU; VV rec **324.9** exp **800.1**
+  - Dual SFPIM/airport. Strong CoA; L5 FOI.
+- Wrote: budgets (+~40); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_ruiter_t8_l5**; rq_680=done; spawn **rq_681 PROGRESS@690**; loop_state ticks=689
+- FOI opened: gap_vl_ba2026_ruiter_t8_l5 — ready (not sent)
+- Next: **rq_681 PROGRESS@690**; rq_116 deferred
+

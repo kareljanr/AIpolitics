@@ -13496,3 +13496,51 @@ bud_vl_toelichting_assign_rec_812_9m,vlaanderen_gov,2026,812900000,,,budgeted,sr
 bud_vl_ruiter_vak_transfer_1415_3m,vlaanderen_gov,2026,1415300000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Ruiter overdracht VAK 2025->2026 1415.3m (of which ESR8 126.9); variable fonds 678.9 not in T8; tick688
 bud_vl_beleidskredieten_vak_67788_9m,vlaanderen_gov,2026,67788900000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Consolidated ESR policy VAK BA2026 67788.9m (T8); tick688
 bud_dual_vl_fonds_matrix_856m,gg_belgium,2026,856500000,,,budgeted,src_dual_vl_fonds_deep_tick688,strong,Dual VL fonds end 856.5m matrix class; not TE-additive; tick688
+bud_vl_ruiter_carry_total_1415_3m,vlaanderen_gov,2026,1415300000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 total ruiter overdracht VAK 1415.3m 2025->2026; not in admin uitgaventabel; tick689
+bud_vl_ruiter_esr8_126_9m,vlaanderen_gov,2026,126900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Of carry: ESR 8 credits 126.9m; tick689
+bud_vl_variable_fonds_vak_678_9m,vlaanderen_gov,2026,678900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Variable kredieten aard4 in begrotingsfondsen 678.9m excluded from T8; tick689
+bud_vl_beleid_vak_ba_67788_9m,vlaanderen_gov,2026,67788900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK total 67788.9m; full beleidskrediet = VAK+carry; tick689
+bud_vl_beleid_total_class_69204m,vlaanderen_gov,2026,69204200000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Policy credits class VAK+carry 67788.9+1415.3=69204.2m; tick689
+bud_vl_ruiter_carry_fb_571_0m,vlaanderen_gov,2026,571000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry FB 571.0m; tick689
+bud_vl_beleid_vak_fb_4654_8m,vlaanderen_gov,2026,4654800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK FB 4654.8m; tick689
+bud_vl_beleid_total_fb_5225_8m,vlaanderen_gov,2026,5225800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet FB carry+VAK 5225.8m; tick689
+bud_vl_ruiter_carry_ov_75_8m,vlaanderen_gov,2026,75800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry OV 75.8m; tick689
+bud_vl_beleid_vak_ov_20245_2m,vlaanderen_gov,2026,20245200000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK OV 20245.2m; tick689
+bud_vl_beleid_total_ov_20321_0m,vlaanderen_gov,2026,20321000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet OV carry+VAK 20321.0m; tick689
+bud_vl_beleid_vak_wvg_18096_3m,vlaanderen_gov,2026,18096300000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK WVG 18096.3m; tick689
+bud_vl_beleid_total_wvg_18096_3m,vlaanderen_gov,2026,18096300000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet WVG carry+VAK 18096.3m; tick689
+bud_vl_ruiter_carry_cjsm_78_1m,vlaanderen_gov,2026,78100000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry CJSM 78.1m; tick689
+bud_vl_beleid_vak_cjsm_1697_8m,vlaanderen_gov,2026,1697800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK CJSM 1697.8m; tick689
+bud_vl_beleid_total_cjsm_1775_9m,vlaanderen_gov,2026,1775900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet CJSM carry+VAK 1775.8999999999999m; tick689
+bud_vl_ruiter_carry_mow_527_8m,vlaanderen_gov,2026,527800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry MOW 527.8m; tick689
+bud_vl_beleid_vak_mow_7345_0m,vlaanderen_gov,2026,7345000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK MOW 7345.0m; tick689
+bud_vl_beleid_total_mow_7872_8m,vlaanderen_gov,2026,7872800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet MOW carry+VAK 7872.8m; tick689
+bud_vl_ruiter_carry_omg_149_8m,vlaanderen_gov,2026,149800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry OMG 149.8m; tick689
+bud_vl_beleid_vak_omg_3212_0m,vlaanderen_gov,2026,3212000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK OMG 3212.0m; tick689
+bud_vl_beleid_total_omg_3361_8m,vlaanderen_gov,2026,3361800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet OMG carry+VAK 3361.8m; tick689
+bud_vl_ruiter_carry_kbbzj_6_0m,vlaanderen_gov,2026,6000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry KBBZJ 6.0m; tick689
+bud_vl_beleid_vak_kbbzj_6293_0m,vlaanderen_gov,2026,6293000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK KBBZJ 6293.0m; tick689
+bud_vl_beleid_total_kbbzj_6299_0m,vlaanderen_gov,2026,6299000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet KBBZJ carry+VAK 6299.0m; tick689
+bud_vl_ruiter_carry_wewils_6_8m,vlaanderen_gov,2026,6800000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 ruiter carry WEWILS 6.8m; tick689
+bud_vl_beleid_vak_wewils_6069_9m,vlaanderen_gov,2026,6069900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK WEWILS 6069.9m; tick689
+bud_vl_beleid_total_wewils_6076_7m,vlaanderen_gov,2026,6076700000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet WEWILS carry+VAK 6076.7m; tick689
+bud_vl_beleid_vak_hogere_175_0m,vlaanderen_gov,2026,175000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 BA VAK HOGERE 175.0m; tick689
+bud_vl_beleid_total_hogere_175_0m,vlaanderen_gov,2026,175000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,T8 beleidskrediet HOGERE carry+VAK 175.0m; tick689
+bud_bac_div_ib_55_5m_2026,brussels_airport,2026,55500000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,BAC dividend IB 55.5m before BA cut path; tick689
+bud_rri_total_income_35_7m_2026,vlaanderen_gov,2026,35700000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Roadrunner Invest total income div+interest 35.7m BA path; tick689
+bud_rri_bac_div_15_3m_2026,brussels_airport,2026,15300000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,RRI receives BAC dividend 15.3m; tick689
+bud_rri_baisa_div_7_9m_2026,vlaanderen_gov,2026,7900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,RRI receives BAISA reserve dividend 7.9m; tick689
+bud_rri_to_pmv_div_32_1m_2026,vlaanderen_gov,2026,32100000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,RRI dividend to PMV 32.1m; tick689
+bud_pmv_to_general_24_3m_2026,vlaanderen_gov,2026,24300000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,PMV remits 24.3m of RRI div to general means; tick689
+bud_oo_provis_up_7_9m_rri_2026,vlaanderen_gov,2026,7900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,O&O provisie +7.9m linked definitive RRI dividend; tick689
+bud_oosterweel_vak_extra_2514m_2026,lantis,2026,2514000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Oosterweel extra VAK +2514m BA for NEC4 PFAS/grondverzet force majeure; tick689
+bud_defensiefonds_rebook_vak_500m,vlaanderen_gov,2026,500000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Defensiefonds VAK 500m re-inscribed BA (no ruiter end2025); tick689
+bud_mvp_loan_vak_up_350_3m,vlaanderen_gov,2026,350300000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,MijnVerbouwLening VAK +350.3 (280.2 rebook unused2025 +70.1 volume); no VEK; tick689
+bud_mvp_loan_rebook_280_2m,vlaanderen_gov,2026,280200000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,MVP loan rebook unused 2025 VAK 280.2m (no overdrachtsbepaling); tick689
+bud_school_energy_loan_vak_100m,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,School energy loans VAK +100m VEK unchanged; tick689
+bud_basiskoten_loan_vak_100m,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Basiskoten interest-free loans VAK +100m VEK unchanged; tick689
+bud_fluvius_vek_1100m_of_vak_1560,vlaanderen_gov,2026,1100000000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Fluvius VEK 1100m of already planned VAK 1560m; tick689
+bud_oosterweel_build_986_7m_2026,lantis,2026,986700000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Oosterweel main works build cost 986.7m (IB 889.9) off VR target still on EU norms; tick689
+bud_vv_relance_rec_324_9m_2026,vlaanderen_gov,2026,324900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Vlaamse Veerkracht rec BA 324.9m (IB 163.4); tick689
+bud_vv_relance_exp_800_1m_2026,vlaanderen_gov,2026,800100000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Vlaamse Veerkracht exp BA 800.1m (IB 436.4); tick689
+bud_dual_ruiter_bac_2026,gg_belgium,2026,1415300000,,,budgeted,src_dual_ruiter_bac_tick689,strong,Dual VL ruiter 1.4bn class + BAC/RRI chain; not TE-additive; tick689
