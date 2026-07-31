@@ -6808,3 +6808,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_551=done spawn **rq_552**; ticks=560
 - FOI opened: none this tick
 - Next: prio5 **rq_552**; deferred **rq_116** SWA
+
+### 2026-07-31T09:50:00Z - tick 561
+- Unit: **rq_552** (FOI-adjacent hole-fill - **RIZIV care outturn 2025 + FPB PROMES 2025-35 + AB cash 67m**)
+- Found (strong primary RIZIV press 13 Apr 2026 + 11 Mar 2026 + FPB PROMES 28 Apr 2026):
+  - **RIZIV care 2025:** authorized **EUR 39.712bn**; undershoot **201.2m** (0.5%); unfinished measures **+28.6** (counterfactual undershoot **172.6**)
+  - **Over:** verpleegdag **+121.0** · pharma net **+104** (art81/111 receipts **-145.7**; clawback **85.4**)
+  - **Under:** artsen **-17.4** on **11.644bn** · thuisverpl **-95.6** · implant **-81.3** · psych **-64.4** · MAF **-36.0**
+  - **PROMES ZIV real:** **37.666bn** 2025 (6% GDP) → **48.599** 2035 (**+10.933**, **2.6%/yr**); pharma net **+3.412** · artsen **+2.182** · verpleegdag **+2.057** · thuis **+0.869**; demo **32%** of growth
+  - **AB cash:** open-pharm reimb **~67m** 2024; patients/volume **-14%**; GP volume thresholds **46/43%** (was 39/38); quality pure amox **16%** / 2nd-line **11%** only
+  - **Dual:** RIZIV auth **39.7** vs PROMES **37.7** ~**2bn** perimeter class
+- Wrote: sources +4; budgets +38; cmt +4; lb +8; FOI **gap_riziv_sector_audit_2025** ready+draft; gap_ab_spend notes partial; rq_552=done spawn **rq_553**; ticks=561
+- FOI opened: gap_riziv_sector_audit_2025 (ready, human send) - not sent
+- Next: prio5 **rq_553**; deferred **rq_116**; progress@570 in 9 ticks

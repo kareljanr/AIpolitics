@@ -10031,3 +10031,41 @@ bud_ab_nl_use_ratio_2019,riziv,2019,2.6,,,outturn,src_ccrek_antibiotica_opvolgin
 bud_ab_recs_done,riziv,2025,6,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,COUNT: CoA recs fully done 6 of 20; in progress 10; not done 2; NA 2; tick559
 bud_viapass_vl_sub_table43,viapass,2025,105000000,,,budgeted,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Table43 Viapass annual subsidy stream ~105m from MVG (prior ESA 102.3 class); capital VL 1/3 = 166k; tick559 refine
 bud_zonienwoud_vl_dot_annual,vlaanderen_gov,2025,155000,,,budgeted,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Stichting Zonienwoud VL ~100k dot + 30k secretariat + 25k subsidies = ~155k/yr dual; tick559
+bud_riziv_care_auth_2025,riziv,2025,39712000000,,,budgeted,src_riziv_outturn_2025_press,strong,Authorized care exp 39.712bn 2025 after mid-year adjustments; tick561
+bud_riziv_care_undershoot_2025,riziv,2025,201200000,,,outturn,src_riziv_outturn_2025_press,strong,Care undershoot 201.2m 0.5pct of authorized; tick561
+bud_riziv_care_undershoot_fullmeas,riziv,2025,172600000,,,estimate,src_riziv_outturn_2025_press,strong,If all budget measures fully executed undershoot would be 172.6m (+28.6 unfinished measures inflate undershoot); tick561
+bud_riziv_unfinished_measures_2025,riziv,2025,28600000,,,estimate,src_riziv_outturn_2025_press,strong,Unfinished budget measures 28.6m that would have raised spend; tick561
+bud_riziv_verpleegdag_over_2025,riziv,2025,121000000,,,outturn,src_riziv_outturn_2025_press,strong,Hospital day-price overspend +121.0m (catch-up revisions 2018-22 from Jul2025); tick561
+bud_riziv_pharma_net_over_2025,riziv,2025,104000000,,,outturn,src_riziv_outturn_2025_press,strong,Pharma specialities net overspend +104m; tick561
+bud_riziv_art81_receipts_short_2025,riziv,2025,145700000,,,outturn,src_riziv_outturn_2025_press,strong,Art 81/111 innovative drug receipts 145.7m below plan; tick561
+bud_riziv_pharma_clawback_2025,riziv,2025,85400000,,,outturn,src_riziv_outturn_2025_press,strong,Pharma industry clawback/recovery 85.4m applied after Nov estimate; tick561
+bud_riziv_artsen_budget_2025,riziv,2025,11644000000,,,budgeted,src_riziv_outturn_2025_press,strong,Physician fees budget 11.644bn 2025; tick561
+bud_riziv_artsen_under_2025,riziv,2025,17400000,,,outturn,src_riziv_outturn_2025_press,strong,Physician fees undershoot 17.4m on 11.644bn; tick561
+bud_riziv_thuisverpl_under_2025,riziv,2025,95600000,,,outturn,src_riziv_outturn_2025_press,strong,Home nursing undershoot 95.6m 2025; tick561
+bud_riziv_implant_under_2025,riziv,2025,81300000,,,outturn,src_riziv_outturn_2025_press,strong,Implants undershoot 81.3m 2025; tick561
+bud_riziv_psych_under_2025,riziv,2025,64400000,,,outturn,src_riziv_outturn_2025_press,strong,Psychological care undershoot 64.4m 2025; tick561
+bud_riziv_maf_under_2025,riziv,2025,36000000,,,outturn,src_riziv_outturn_2025_press,strong,Maximum bill MAF undershoot 36.0m 2025; tick561
+bud_riziv_ab_open_pharm_2024,riziv,2024,67000000,,,outturn,src_riziv_ab_indicators_2026,strong,RIZIV AB reimbursements public pharmacies almost 67m EUR 2024; tick561 partial fill gap_ab_spend_l5
+bud_ab_patients_decline_pct_14,riziv,2025,14,,,outturn,src_riziv_ab_indicators_2026,strong,PCT: AB patients and volume -14pct between 2023-24 and 2024-25 periods; tick561
+bud_ab_gp_meet_child_2024,riziv,2024,46,,,outturn,src_riziv_ab_indicators_2026,strong,PCT GPs meeting child volume threshold 46 (was 39 in 2023); tick561
+bud_ab_gp_meet_adult_2024,riziv,2024,43,,,outturn,src_riziv_ab_indicators_2026,strong,PCT GPs meeting adult volume threshold 43 (was 38 in 2023); tick561
+bud_ab_gp_pure_amox_2024,riziv,2024,16,,,outturn,src_riziv_ab_indicators_2026,strong,PCT GPs meeting pure amoxicillin min quality 16 only; tick561
+bud_ab_gp_secondline_max_2024,riziv,2024,11,,,outturn,src_riziv_ab_indicators_2026,strong,PCT GPs not exceeding 2nd-line max share 11 only; tick561
+bud_ziv_care_promes_2025,riziv,2025,37666000000,,,outturn,src_fpb_promes_2025_35,strong,FPB PROMES ZIV care real 37.666bn 2025 6pct GDP (excl BFM/regional); tick561
+bud_ziv_care_promes_2035,riziv,2035,48599000000,,,projection,src_fpb_promes_2025_35,strong,PROMES real ZIV care 48.599bn 2035 prices2025; +10.933bn 2.6pct/yr; tick561
+bud_ziv_delta_2025_35,riziv,2035,10933000000,,,projection,src_fpb_promes_2025_35,strong,Real increase 10.933bn 2025-35; tick561
+bud_ziv_pharma_net_2025,riziv,2025,6988000000,,,outturn,src_fpb_promes_2025_35,strong,Pharma net ZIV 6.988bn 2025 real; tick561
+bud_ziv_pharma_net_2035,riziv,2035,10401000000,,,projection,src_fpb_promes_2025_35,strong,Pharma net 10.401bn 2035 (+3.412); tick561
+bud_ziv_pharma_gross_2025,riziv,2025,8961000000,,,outturn,src_fpb_promes_2025_35,strong,Pharma gross 8.961bn 2025 before art81/111 compensations; tick561
+bud_ziv_pharma_gross_2035,riziv,2035,14455000000,,,projection,src_fpb_promes_2025_35,strong,Pharma gross 14.455bn 2035 (+5.494 61pct); tick561
+bud_ziv_artsen_2025,riziv,2025,11675000000,,,outturn,src_fpb_promes_2025_35,strong,Physician fees PROMES 11.675bn 2025 real ~31pct; tick561
+bud_ziv_artsen_2035,riziv,2035,13814000000,,,projection,src_fpb_promes_2025_35,strong,Physician fees 13.814bn 2035 (+2.182); tick561
+bud_ziv_verpleegdag_2025,riziv,2025,8629000000,,,outturn,src_fpb_promes_2025_35,strong,Hospital day-price 8.629bn 2025 ~22.9pct; tick561
+bud_ziv_verpleegdag_2035,riziv,2035,10686000000,,,projection,src_fpb_promes_2025_35,strong,Hospital day-price 10.686bn 2035 (+2.057); tick561
+bud_ziv_thuisverpl_2025,riziv,2025,2239000000,,,outturn,src_fpb_promes_2025_35,strong,Home nursing 2.239bn 2025 ~5.9pct; tick561
+bud_ziv_thuisverpl_2035,riziv,2035,3109000000,,,projection,src_fpb_promes_2025_35,strong,Home nursing 3.109bn 2035 (+0.869); tick561
+bud_ziv_kine_2025,riziv,2025,1335000000,,,outturn,src_fpb_promes_2025_35,strong,Physiotherapy 1.335bn 2025; tick561
+bud_ziv_kine_2035,riziv,2035,2093000000,,,projection,src_fpb_promes_2025_35,strong,Physiotherapy 2.093bn 2035 (+0.758 4.6pct/yr); tick561
+bud_ziv_medhuizen_2025,riziv,2025,389000000,,,outturn,src_fpb_promes_2025_35,strong,Medical houses 389m 2025; tick561
+bud_ziv_medhuizen_2035,riziv,2035,886000000,,,projection,src_fpb_promes_2025_35,strong,Medical houses 886m 2035 (+498 8.6pct/yr strongest %); tick561
+bud_ziv_demo_share_growth_pct,riziv,2035,32,,,projection,src_fpb_promes_2025_35,strong,PCT: demography explains 32pct of real growth 2026-35 (aging 21 pop 11); tick561
