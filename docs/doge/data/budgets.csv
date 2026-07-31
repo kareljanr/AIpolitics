@@ -10916,3 +10916,31 @@ bud_tibi_incineration_tax_2025,tibi,2025,1757396,,,outturn,src_tibi_rg_2025,stro
 bud_tibi_residual_kg_hab_2025,tibi,2025,0,,,outturn,src_tibi_ra_2025,strong,Tibi dechets residuels 146 kg/hab 2025 total 431 kg/hab; not EUR; tick589
 bud_tibi_recyparc_t_2025,tibi,2025,0,,,outturn,src_tibi_ra_2025,strong,Tibi recyparcs 82969 t 775298 visits 2025; not EUR; tick589
 bud_tibi_pop_2025,tibi,2025,0,,,outturn,src_tibi_ra_2025,strong,Tibi zone 428772 habitants 14 communes 2025; not EUR; tick589
+bud_spaque_ca_2024,spaque,2024,12449437,,,outturn,src_spaque_ra_2024,strong,SPAQuE chiffre d affaires 12.449m 2024 (vs 28.701m 2023); tick591
+bud_spaque_ventes_2024,spaque,2024,31533122,,,outturn,src_spaque_ra_2024,strong,SPAQuE ventes et prestations 31.533m 2024; tick591
+bud_spaque_other_op_prod_2024,spaque,2024,18509354,,,outturn,src_spaque_ra_2024,strong,SPAQuE autres produits exploitation 18.509m 2024; tick591
+bud_spaque_costs_2024,spaque,2024,27945974,,,outturn,src_spaque_ra_2024,strong,SPAQuE cout ventes prestations 27.946m 2024; tick591
+bud_spaque_personnel_2024,spaque,2024,13253482,,,outturn,src_spaque_ra_2024,strong,SPAQuE remunerations 13.253m staff 80.6 ETP 2024; tick591
+bud_spaque_services_2024,spaque,2024,2888524,,,outturn,src_spaque_ra_2024,strong,SPAQuE services biens divers 2.889m 2024; tick591
+bud_spaque_op_result_2024,spaque,2024,3587149,,,outturn,src_spaque_ra_2024,strong,SPAQuE benefice exploitation 3.587m 2024; tick591
+bud_spaque_fin_charges_2024,spaque,2024,31672529,,,outturn,src_spaque_ra_2024,strong,SPAQuE charges financieres 31.673m (debt 9.327m + other Marshall 22.345m) 2024; tick591
+bud_spaque_net_result_2024,spaque,2024,-27763807,,,outturn,src_spaque_ra_2024,strong,SPAQuE perte exercice -27.764m RW-covered via capital incr 2024; tick591
+bud_spaque_assets_2024,spaque,2024,534100985,,,outturn,src_spaque_ra_2024,strong,SPAQuE total bilan 534.101m 2024; tick591
+bud_spaque_fixed_assets_2024,spaque,2024,18293723,,,outturn,src_spaque_ra_2024,strong,SPAQuE actifs immobilises 18.294m 2024; tick591
+bud_spaque_cash_2024,spaque,2024,236178183,,,outturn,src_spaque_ra_2024,strong,SPAQuE valeurs disponibles 236.178m 2024; tick591
+bud_spaque_accruals_asset_2024,spaque,2024,253729608,,,outturn,src_spaque_ra_2024,strong,SPAQuE comptes regularisation actif capital differe RW 253.730m 2024; tick591
+bud_spaque_equity_2024,spaque,2024,7674989,,,outturn,src_spaque_ra_2024,strong,SPAQuE capitaux propres 7.675m (capital 66.605m perte report -59.055m) 2024; tick591
+bud_spaque_capital_2024,spaque,2024,66604535,,,outturn,src_spaque_ra_2024,strong,SPAQuE capital souscrit 66.605m 2024; tick591
+bud_spaque_loss_report_2024,spaque,2024,-59054546,,,outturn,src_spaque_ra_2024,strong,SPAQuE perte reportée -59.055m 2024 Marshall annuities; tick591
+bud_spaque_provisions_2024,spaque,2024,89045814,,,outturn,src_spaque_ra_2024,strong,SPAQuE provisions risques 89.046m 2024; tick591
+bud_spaque_dettes_2024,spaque,2024,437380182,,,outturn,src_spaque_ra_2024,strong,SPAQuE dettes totales 437.380m 2024; tick591
+bud_spaque_lt_debt_2024,spaque,2024,230389911,,,outturn,src_spaque_ra_2024,strong,SPAQuE dettes LT 230.390m Marshall SOWAFINAL 2024; tick591
+bud_spaque_st_debt_2024,spaque,2024,170473034,,,outturn,src_spaque_ra_2024,strong,SPAQuE dettes ST 170.473m 2024; tick591
+bud_spaque_dotation_cg_2024,spaque,2024,24385756,,,outturn,src_spaque_ra_2024,strong,SPAQuE dotation contrat de gestion RW 24.386m 2024; tick591
+bud_spaque_feder_envelope,spaque,2024,142348821,,,budgeted,src_spaque_ra_2024,strong,SPAQuE FEDER 2021-27 envelope 142.349m 35 sites; spent 2024 1.355m; tick591
+bud_spaque_feder_spent_2024,spaque,2024,1355237,,,outturn,src_spaque_ra_2024,strong,SPAQuE FEDER spent 1.355m 2024 prefinanced; tick591
+bud_spaque_relance143_envelope,spaque,2024,37500000,,,budgeted,src_spaque_ra_2024,strong,SPAQuE Plan Relance projet 143 envelope 37.5m 15 friches; tick591
+bud_spaque_relance143_spent_2024,spaque,2024,645801,,,outturn,src_spaque_ra_2024,strong,SPAQuE Relance 143 spent 0.646m 2024; tick591
+bud_spaque_sarec_envelope,spaque,2024,8000000,,,budgeted,src_spaque_ra_2024,strong,SPAQuE SAREC emergency waste envelope 8.0m; tick591
+bud_spaque_relance219_spent_2024,spaque,2024,713109,,,outturn,src_spaque_ra_2024,strong,SPAQuE Plan Relance 219 urban spent 0.713m 2024; tick591
+bud_spaque_materials_t_2024,spaque,2024,0,,,outturn,src_spaque_ra_2024,strong,SPAQuE 63810 t materials treated 47pct recycled 2024; not EUR; tick591

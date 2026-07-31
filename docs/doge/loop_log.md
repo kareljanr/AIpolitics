@@ -7207,3 +7207,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual COPIDEC; FOI **gap_hygea_group_ca_l5** ready+draft; rq_581=done spawn **rq_582**; ticks=590
 - FOI opened: gap_hygea_group_ca_l5 (ready, human send) - not sent
 - Next: prio5 **rq_582**; deferred **rq_116**; progress@600 in 10 ticks
+
+### 2026-07-31T13:30:00Z — tick 591
+- Unit: rq_582 (FOI-adjacent dual soil hole-fill — **SPAQuE** vs OVAM)
+- Found: **SPAQuE** RA/comptes 2024 (primary PDF, 43 pp). **Ventes €31.533m** CA **€12.449m**; **op +€3.587m**; **net −€27.764m** (Marshall SOWAFINAL fin charges **€31.673m**; RW capital cover path). **Assets €534.101m**; equity **€7.675m** (capital 66.6m / perte report −59.1m); **dettes €437.380m** (LT 230.4 ST 170.5); **provisions €89.046m**; cash **€236.178m**; capital différé RW **€253.730m**. Dotation CG **€24.386m**; FEDER env **€142.349m** (spend 1.355m); Relance 143 **€37.5m**; SAREC **€8m**. Staff **80.6 ETP** personnel **€13.253m**. Ops: 7 chantiers 63 810 t 49 sites maintenance. Dual OVAM ISE Afval class. Strong confidence.
+- Wrote: entity update spaque; budgets (+28); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_spaque_site_l5_2024; rq_582=done; spawn rq_583; loop_state ticks=591
+- FOI opened: gap_spaque_site_l5_2024 → ready (not sent)
+- Next: rq_583; progress@600 in 9 ticks; rq_116 deferred
