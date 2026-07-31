@@ -1,0 +1,734 @@
+﻿===PAGE 22 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 22 
+ 
+Grafiek 8 - Aantal flexi-jobs naar gewest, 2016-2024 
+ 
+ 
+Bron: Rekenhof, op basis van gegevens van de Rijksdienst voor Sociale Zekerheid. 
+Zie ook grafiek A6 op de website, geselecteerd arbeidsplaatsen 
+2.6 Samenvatting 
+Mede door de uitbreiding naar meer sectoren steeg de populariteit van flexi-jobs sterk, van 10.548 
+flexiwerknemers en 418.466 gewerkte uren begin 2016 tot 184.360 flexiwerknemers en bijna 14 
+miljoen gewerkte uren eind 2024. Niettemin vertegenwoordigen ze nog steeds minder dan 1 % van 
+het totaal aantal voltijdsequivalenten (inclusief studentenarbeid). Tegen een gemiddeld uurloon van 
+16,38 euro voor mannen en 15 euro voor vrouwen steeg de totale loonmassa tot 220 miljoen euro in 
+het vierde kwartaal van 2024. Over de tijd heen bleven flexi-jobs ongeveer even populair bij mannen 
+als bij vrouwen: ze maken elk ongeveer de helft van het aantal flexiwerknemers uit. Het aantal flexi-
+jobs nam toe in alle regioΓÇÖs, maar het systeem is steeds veruit het populairst geweest in Vlaanderen. 
+Ongeveer 85 % van de flexi-jobs wordt uitgevoerd in Vlaanderen, voornamelijk in de arrondisse-
+menten met de grotere steden, met Antwerpen als koploper. Over de tijd heen veranderde de leeftijd 
+van de doorsnee flexiwerknemer wel: zo was het systeem in 2016 (toen enkel in de horeca) vooral 
+populair onder jongeren. Door de uitbreiding naar andere sectoren en de gunstige voorwaarden voor 
+gepensioneerden nam de populariteit sterk toe onder de oudere leeftijdsgroepen. Zo maken 
+65-plussers vandaag 18 % uit van de groep flexiwerknemers. 
+ 
+ 
+ 
+ 
+ 
+ 
+157.525 
+21.118 
+5.023 
+694 
+
+
+===PAGE 23 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 23 
+ 
+Hoofdstuk 3 
+Sectorbrede analyses 
+3.1 
+Analyse des pics dΓÇÖactivit├⌐ 
+3.1.1 M├⌐thode dΓÇÖanalyse 
+Pour analyser les pics dΓÇÖactivit├⌐ des emplois flexi-jobs, la Cour des comptes a re├ºu des donn├⌐es 
+DmfA15 de lΓÇÖONSS. Les donn├⌐es comportent des informations sur la cat├⌐gorie dΓÇÖ├óge des travailleurs, 
+leur dur├⌐e dΓÇÖoccupation ainsi que le nombre de jours et dΓÇÖheures prest├⌐s lors de celle-ci. La Cour a 
+├⌐galement demand├⌐ le code NACE16 des entreprises associ├⌐es ├á la commission paritaire pour le 
+travail int├⌐rimaire qui recourent aux flexi-jobs. Cette information nΓÇÖest disponible quΓÇÖ├á partir 
+de 2023. 
+La Cour des comptes a trait├⌐ les donn├⌐es afin dΓÇÖexclure les valeurs aberrantes et dΓÇÖidentifier la date 
+de prestation des emplois flexi-jobs. Pour 78 % des jours prest├⌐s, les donn├⌐es re├ºues permettent 
+dΓÇÖidentifier pr├⌐cis├⌐ment la date de la prestation et les heures prest├⌐es par jour. Pour 4 % des jours 
+prest├⌐s, la date de prestation peut ├¬tre identifi├⌐e, mais pas le nombre dΓÇÖheures prest├⌐es par jour. En 
+effet, la d├⌐claration comprend un total dΓÇÖheures prest├⌐es sur une p├⌐riode de plusieurs jours. Comme 
+le nombre de jours prest├⌐s correspond au nombre de jours couvert par la d├⌐claration, la Cour a 
+consid├⌐r├⌐ que chaque date de la p├⌐riode correspondait ├á une prestation.  
+Pour lΓÇÖanalyse, la Cour des comptes a tenu compte dΓÇÖune moyenne, calcul├⌐e en divisant le nombre 
+dΓÇÖheures prest├⌐es sur la p├⌐riode par le nombre de jours. La Cour a ainsi identifi├⌐ la date exacte de 
+prestation pour 82 % des jours prest├⌐s via des emplois flexi-jobs entre 2016 et 2024. Pour les 18 % 
+restants, la date de prestation a d├╗ ├¬tre estim├⌐e. En effet, les jours prest├⌐s sont d├⌐clar├⌐s sur une 
+p├⌐riode allant de 2 ├á 92 jours. Cependant, le nombre de jours prest├⌐s est inf├⌐rieur au nombre de 
+jours de la p├⌐riode. La Cour des comptes les a d├¿s lors distribu├⌐s dans la p├⌐riode d├⌐clar├⌐e en tenant 
+compte des caract├⌐ristiques observ├⌐es pour la commission paritaire et lΓÇÖann├⌐e concern├⌐e sur la base 
+des jours prest├⌐s pour lesquels elle disposait des dates exactes17. 
+Les commissions paritaires qui comptent moins de 2.000 jours de travail prest├⌐s avec un emploi 
+flexi-job entre 2016 et 2024 ont ├⌐t├⌐ regroup├⌐es sous la cat├⌐gorie ┬½ autres secteurs ┬╗. Les commissions 
+paritaires comportant un nombre faible de prestations dont la date est connue y sont ├⌐galement 
+reprises. LΓÇÖONSS a isol├⌐ le secteur de lΓÇÖ├⌐v├¿nementiel au moyen des codes NACE pour y consacrer 
+une cat├⌐gorie distincte. 
+Vu la quantit├⌐ dΓÇÖinformations r├⌐sultant de cette estimation, le rapport nΓÇÖaborde que les points les 
+plus importants.  
+ 
+15 D├⌐claration ├⌐lectronique par laquelle les employeurs soumettent les donn├⌐es sur les salaires et les heures de travail de leurs 
+employ├⌐s ├á lΓÇÖONSS. 
+16 La NACE est la nomenclature europ├⌐enne des activit├⌐s ├⌐conomiques. Le code NACE dΓÇÖune entreprise d├⌐pend de son activit├⌐ 
+├⌐conomique. 
+17 Par exemple, une d├⌐claration de 5 prestations sur une p├⌐riode de 30 jours sera distribu├⌐e en fonction des caract├⌐ristiques de la 
+commission paritaire et de lΓÇÖann├⌐e concern├⌐e. Ces caract├⌐ristiques correspondent ├á la r├⌐partition en jour de la semaine des 
+prestations dont la Cour des comptes conna├«t la date pr├⌐cise. Ainsi, chaque jour de la semaine se voit attribuer un poids (par 
+exemple, le dimanche correspond ├á 20 % des jours prest├⌐s) qui sert de base pour la distribution de la d├⌐claration. 
+
+
+===PAGE 34 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 34 
+ 
+Tabel 4 - Anomalie├½n in DmfA-aangiftes. 
+Kwartaal 
+Arbeidsplaatsen 
+Tewerkstelling 
+flexi-job niet 
+of niet 
+volledig 
+aangegeven 
+in Dimona 
+Flexi-job 
+geen cumul 
+met een 
+andere 
+arbeidsrelatie 
+% 
+tewerkstelling 
+flexi-job niet 
+of niet 
+volledig 
+aangegeven 
+in Dimona 
+% flexi-job 
+onrechtmatig 
+gecumuleerd 
+met andere 
+arbeidsrelatie 
+(4/5e regulier, 
+of 
+gepensioneerd) 
+2024/1 
+152.840  
+5.508 
+2.582 
+3,60 % 
+1,69 % 
+2024/2 
+172.254  
+6.351 
+1.019 
+3,69 % 
+0,59 % 
+2024/3 
+181.727  
+5.159 
+702 
+2,84 % 
+0,39 % 
+2024/4 
+184.360  
+4.628 
+512 
+2,51 % 
+0,28 % 
+Bron: Rijksdienst voor Sociale Zekerheid 
+Controles door de inspectie van de RSZ 
+Naast de geautomatiseerde controles voert de inspectiedienst van de RSZ fysieke controles uit, die 
+onder meer kunnen focussen op inbreuken tegen de flexiwetgeving. Dergelijke controles komen 
+tot stand na meldingen van particulieren of overheidsdiensten, op eigen initiatief van de RSZ-
+inspectie en binnendiensten van de RSZ, of kunnen volgen op vastgestelde fouten in de Dimona- 
+of DmfA-aangifte. De controles focussen vaak breder dan de flexiwetgeving en worden regelmatig 
+samen met andere inspectiediensten uitgevoerd, bijvoorbeeld van het RSVZ of het RIZIV.  
+Uit tabel 5 blijkt dat het aantal vaststellingen met een inbreuk tegen de wetgeving op de flexi-jobs 
+eerder beperkt is, maar dat het in parallel met de uitbreiding van het toepassingsgebied van flexi-
+jobs in 202429 wel toenam in de periode 2022-2024. De controles en vaststellingen vonden 
+voornamelijk plaats in de sectoren met de meeste flexi-jobs, namelijk de horeca en administratie 
+(met inbegrip van de uitzendsector). 
+De RSZ registreert niet of de vaststelling van een inbreuk het gevolg is van een specifiek onderzoek 
+naar flexi-jobs of van een (breder) onderzoek naar een andere inbreuk. Alle vaststellingen worden 
+bovendien gegroepeerd onder inbreuken tegen de wetgeving op de flexi-jobs zonder te specifi├½ren 
+over welke overtreding tegen de flexiwetgeving het precies gaat. Sinds de tweede helft van 2025 is 
+het, op verzoek van de sociale inspecteurs, wel mogelijk om gedetailleerder te registreren of het 
+gaat over een inbreuk op de tijdsregistratie, de verkeerde toepassing van het flexistatuut of het 
+gebruik van een correct flexicontract. 
+ 
+29 Programmawet van 22 december 2023. 
+
+
+===PAGE 35 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 35 
+ 
+Tabel 5 - Aantal onderzoeken30 en vaststellingen inzake inbreuken tegen de wetgeving op de flexi-
+jobs, 2022-2024. 
+Jaar 
+Aantal onderzoeken 
+Aantal vaststellingen (% van het 
+totaal) 
+2022 
+160 
+97 (61 %) 
+2023 
+189 
+103 (54 %) 
+2024 
+270 
+154 (57 %) 
+Bron: Rijksdienst voor Sociale Zekerheid 
+Vaststellingen van inbreuken door middel van de geautomatiseerde controles op Dimona-gegevens 
+leiden vaak tot regularisaties en de toepassing van de eventueel verhoogde sociale bijdragen. Dat is 
+minder het geval bij fysieke controles. In 2024 werd slechts in 5 van de 154 onderzoeken met 
+vaststellingen overgegaan tot een regularisatie met een verhoogde sociale bijdrage. Het betrof 39 
+werknemers van de in totaal 42 gecontroleerde werknemers die in fout waren. Bij 24 onderzoeken 
+met vaststellingen werd voor 34 van de in totaal 43 gecontroleerde werknemers een dossier naar 
+het parket verzonden voor verder onderzoek. Voor de overige dossiers geeft de RSZ een 
+waarschuwing of stuurt hij dossiers door naar een andere entiteit voor verdere opvolging. 
+Controle op flexi-jobs in de evenementensector 
+De programmawet van 22 december 2023 stelt dat flexi-jobs mogelijk zijn in specifieke functies in 
+de ΓÇ£evenementensectorΓÇ¥, voor zover die functies ΓÇ£rechtstreeks verband houden met de organisatie 
+van een evenementΓÇ¥. In de periode 2022-2024 voerde de inspectie van de RSZ slechts ├⌐├⌐n controle 
+uit in de evenementensector, omdat het volgens haar zeer moeilijk te bepalen is wat wel of niet 
+rechtstreeks verband houdt met de organisatie van een evenement. Bijgevolg voert zij hierover in 
+de evenementsector geen specifieke onderzoeken uit, behalve de reguliere controles inzake flexi-
+jobs.  
+ 
+3.5 
+Samenvatting  
+Op basis van de gegevens die de RSZ bijhoudt voor elke dagelijkse of periodieke flexiprestatie kon 
+in kaart gebracht worden op welke momenten het gebruik van flexi-jobs piekt in de verschillende 
+paritaire comit├⌐s, zowel per dag van de week als per maand. Daaruit blijkt dat flexi-jobs aanvanke-
+lijk vooral ingezet werden in het weekend (73 % in 2016). Over de tijd heen nam ook het aandeel 
+van de weekdagen sterk toe (48 % in 2024). De inzet van flexiwerknemers hangt sterk samen met 
+de leeftijd van de werknemer. De oudere werknemers (55+) werken vaker op weekdagen dan de 
+jongere, die voornamelijk in het weekend flexiprestaties leveren. Een belangrijke kanttekening bij 
+de analyse is echter de beperkte beschikbaarheid van gegevens. Zo zijn voor de flexisectoren die 
+ingevoerd zijn in 2024 slechts gegevens van ├⌐├⌐n jaar beschikbaar, waardoor het moeilijk is 
+betrouwbare uitspraken te doen over het al dan niet inzetten van flexi-arbeid op piekmomenten. 
+De populariteit van het flexisysteem in een bepaalde sector kan in de loop van het jaar immers 
+toenemen, zodat betrouwbare trends pas daarna en over een langere tijdsperiode vastgesteld 
+kunnen worden. 
+Ongeacht die beperking valt op dat de arbeidspieken verspreid zijn over de verschillende dagen van 
+de week, en dat ze kunnen vari├½ren per paritair comit├⌐. Maandelijkse pieken zijn minder 
+waarneembaar, mogelijk door de recente invoering van het flexisysteem in veel sectoren. Tot slot 
+valt op dat de gemiddelde arbeidsduur van de flexi-jobs in de verschillende paritaire comit├⌐s 
+ 
+30 Elk onderzoek betreft ├⌐├⌐n werkgever die meerdere flexiwerknemers in dienst kan hebben. E├⌐n onderzoek kan bijgevolg 
+betrekking hebben op meerdere flexiwerknemers. 
+
+
+===PAGE 73 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 73 
+ 
+r├⌐gionales pourraient ├⌐galement avoir jou├⌐ un r├┤le dans les diff├⌐rences de tendance dans les 
+analyses descriptives. Enfin, les analyses de suivi des employeurs montrent que cet effet dΓÇÖ├⌐viction 
+sΓÇÖest probablement fait au moment de lΓÇÖengagement de nouveaux travailleurs ou de la r├⌐gularisation 
+du travail au noir. 
+Il est ├á noter que les r├⌐sultats pr├⌐sent├⌐s dans la section 4.2.2 ne tiennent que pour lΓÇÖHoreca et pour 
+la p├⌐riode 2015-2019. 
+4.2.3 Wat indien het systeem van flexi-jobs zou worden afgeschaft in de horeca? 
+Gevolgen van de analyse voor de macroeconomische doorrekening met HERMES 
+De MCS-analyse van het plan ΓÇÿhorecaΓÇÖ gecombineerd met aparte analyses voor Vlaanderen en 
+Walloni├½ in sectie 4.2.2 is de basis voor de doorrekening met het macro-econometrisch model 
+HERMES van het Federaal Planbureau: de belangrijkste ΓÇô tentatieve ΓÇô conclusies uit sectie 4.2.2 zijn 
+dat de flexi-jobs geen effect hebben gehad op de toegevoegde waarde en het totale arbeidsvolume 
+indien gemeten o.b.v. de nationale rekeningen (zie kader 4). 
+ 
+ 
+ 
+ 
+Kader 4 Uitgangspunten voor de macro-economische doorrekening met HERMES 
+Volgens de MCS-analyse in sectie 4.2.2 van het plan ΓÇÿhorecaΓÇÖ gecombineerd met aparte analyses 
+voor Vlaanderen en Walloni├½ zouden de flexi-jobs onderstaande effecten hebben gehad op het 
+arbeidsvolume en toegevoegde waarde in de horeca: 
+ 
+1. 
+Lichte stijging van het totale (i.e. incl. flexi-jobs), witte arbeidsvolume ΓÇª 
+2.  ΓÇª ten koste van het reguliere (i.e. excl. flexi-jobs), witte arbeidsvolume, ΓÇª 
+3. 
+ ΓÇª hetgeen nagenoeg volledig te wijten is aan de daling van het deeltijds-reguliere (i.e. 
+excl. flexi-jobs), witte arbeidsvolume. 
+4. Geen effect op de toegevoegde waarde incl. zwarte prestaties ΓÇª 
+5. ΓÇª en geen effect op de productiviteit incl. zwarte prestaties ΓÇª 
+6. ΓÇª en dus evenmin een stijging van het totale arbeidsvolume incl. zwarte prestaties. 
+7. Uit (3) volgt dat reguliere deeltijdse witte prestaties vervangen werden door flexi-jobs en 
+ΓÇª 
+8. ΓÇª uit (1) en (6) dat ook zwartwerk werd vervangen door flexi-jobs . 
+ 
+ 
+ 
+PlanΓÇÖhorecaΓÇÖ 
+(obv 2016-2019) 
+waarvan flexi-jobs (*) 
+Effect op prestaties (gemeten in vteΓÇÖs) o.b.v. RSZ-gegevens, d.w.z. zonder zwartwerk 
+Totale prestaties (regulier + flexi-jobs) 
++ 
+(+) 
+Reguliere prestaties (voltijds + deeltijds) 
++ 
+(-) 
+Reguliere voltijdse prestaties  
++ 
+0 
+Reguliere deeltijdse prestaties  
+- 
+(-) 
+Effect op toegevoegde waarde en productiviteit o.b.v. de NR, d.w.z. incl. zwartwerk 
+Toegevoegde waarde 
+0 
+0 
+Productiviteit (t.o.v. vteΓÇÖs) 
+- 
+0 
+(*) Tentatieve interpretatie o.b.v. de vergelijking van de evoluties in Vlaanderen en Walloni├½ 
+
+
+===PAGE 74 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 74 
+ 
+Methodologische aspecten van een macro-economische doorrekening 
+De macro-economische doorrekening is in de vorm van een wat-als-oefening: in welke mate zouden 
+de toekomstige economische activiteit en de overheidsfinanci├½n anders zijn zonder de flexi-jobs in 
+de horeca? Deze benadering werd gekozen omdat we niet beschikken over een macro-economisch 
+model dat over het verleden kan gesimuleerd worden. 
+Het gebruikte model, HERMES (zie kader 5 voor technische en modelmatige aannames) is voor 
+deze doorrekening geschikt wegens de macro-sectorale dimensie van het model en de 
+gedetailleerde modellering van de overheidsfinanci├½n65.  
+ΓÇô 
+Via de bedrijfstak ΓÇÿhandel en horecaΓÇÖ kan een specifieke schok in de horeca ingebracht 
+worden. 
+ΓÇô 
+Via de ex-ante impact op beroepsbevolking en gemiddelde arbeidsduur kan rekening 
+gehouden worden met veranderingen in het aangeboden arbeidsvolume.  
+ΓÇô 
+Via het beschikbaar inkomen en de arbeidskosten worden de afgeleide effecten op de 
+verschillende bestedingscomponenten van het bbp en de werkgelegenheid in rekening 
+gebracht. 
+ΓÇô 
+Via de link met brutolonen en werkgelegenheid wordt de impact op de overheidsfinanci├½n 
+berekend. 
+De doorrekening gebeurt o.b.v. een basisprojectie en alternatieve projecties. De basissimulatie, 
+gebaseerd op de Economische vooruitzichten 2025-2030 d.d. juni 2025, houdt rekening met de 
+huidige praktijk van flexi-jobs in de horeca en in andere bedrijfstakken. In de alternatieve projecties 
+worden de flexi-jobs in de horeca afgeschaft vanaf 2026. De resultaten van de doorrekening worden 
+gerapporteerd voor 2030. 
+Gezien de specificiteit van de horeca (meer zwartwerk en langere ervaring met flexi-jobs) en het 
+vermoeden dat de conclusies van de analyse in sectie 4.2.2 niet noodzakelijk gelden voor de andere 
+bedrijfstakken waar flexi-jobs werden ge├»ntroduceerd, wordt de afschaffing van de flexi-jobs in de 
+andere bedrijfstakken niet gesimuleerd. 
+ 
+65  Voor de werking van HERMES, zie https://www.plan.be/sites/default/files/documents/WP_201810_11764_NL.pdf  
+
+
+===PAGE 75 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 75 
+ 
+ 
+ 
+Kader 5 Methodologische aspecten en aannames voor de macro-economische 
+doorrekening met HERMES 
+- 
+Zwartwerk in de Nationale Rekeningen (NR) is correct ingeschat en de impliciete fiscale en 
+parafiscale aanslagvoeten op de reguliere brutoloonmassa weerspiegelen het aandeel van 
+zwartwerk adequaat. 
+- 
+De werknemersbijdragevoet en de personenbelastingvoet op het flexi-arbeidsvolume dat 
+wordt omgezet in reguliere jobs, zijn gelijk aan de gemiddelde voeten toegepast op de 
+priv├⌐sector van HERMES, nl. 10,13% resp. 23,15% in 2026, samen 32,11%, vergelijkbaar met een 
+alternatieve berekening op basis van brutolonen die vrij zijn van zwartwerk ΓÇô zie kader 6. 
+- 
+Op flexi-brutolonen worden alleen wettelijke werkgeversbijdragen geheven, geen extralegale 
+werkgeversbijdragen.  
+- 
+In lijn met de ΓÇÿright-to-manageΓÇÖ-hypothese van loonvorming zijn de brutoloonvoeten 
+endogeen: zij reageren op de arbeidsproductiviteit, de werkloosheidsgraad en de 
+componenten van de loonwig. Dit is belangrijk wegens de impact van een stopzetting van de 
+flexi-jobs op de werkloosheidsgraad (afhankelijk van de gesimuleerde variant), de 
+gemiddelde 
+werkgeversbijdragevoet 
+(daling), 
+werknemersbijdrage- 
+en 
+personenbelastingvoet (stijgingen) ΓÇô zie verder. 
+- 
+De flexi-jobs in HERMES maken deel uit van de laagverloonde werkgelegenheidscategorie├½n 
+(i.e. tot Γé¼ 9 863 bruto per vte per kwartaal in 2024) met lage impliciete 
+werkgeversbijdragevoeten. Die lage werkgeversbijdragevoeten weerspiegelen zowel het 
+effect van het lageloongedeelte van de structurele vermindering van de werkgeversbijdragen 
+op reguliere jobs als de aanwezigheid van (parafiscaal onbelast) zwartwerk. 
+- 
+Het flexi-jobsysteem in de horeca was vanaf 2019 reeds voldoende ingeburgerd en is in 2025 
+nagenoeg op kruissnelheid gekomen zodat de conclusies onder sectie 4.2.2 ook geldig zijn 
+vanaf 2026. Een belangrijke caveat is dat in de periode tot 2019 nog nauwelijks sprake was 
+van flexiwerk door gepensioneerden. 
+- 
+Het totale arbeidsvolume noch de toegevoegde waarde van de horeca worden initieel 
+be├»nvloed door de flexi-jobs; de flexi-jobs komen in de plaats van andere ΓÇô zowel witte als 
+zwarte ΓÇô prestaties (zie de resultaten gerapporteerd onder sectie 4.2.2). 
+- 
+Flexi-jobs hebben ΓÇô volgens de concepten van de NR ΓÇô een ambigue impact op de gemiddelde 
+arbeidsduur per werknemer in de horeca. Enerzijds worden gepensioneerden die flexi-uren 
+presteren beschouwd als bijkomende tewerkgestelden in de horeca, maar met een erg lage 
+arbeidsduur per hoofd. Anderzijds verhogen de flexi-uren die in nevenactiviteit gepresteerd 
+worden door reguliere werknemers wel het arbeidsvolume van de horeca, maar veranderen 
+zij niets aan de meting van de hoofdelijke werkgelegenheid in de horeca (omdat die personen 
+al tot de werkzame bevolking gerekend werden via hun hoofdjob, hetzij in de horeca, hetzij 
+elders) en verhogen zij dus de gemiddelde arbeidsduur per werknemer in de horeca. 
+- 
+Er is geen impact op het aandeel van studentenjobs in arbeidsvolume en brutolonen. 
+- 
+Het concept ΓÇÿknelpuntberoepΓÇÖ is afwezig in HERMES: zolang de werkloosheid niet nul is, 
+wordt de werkgelegenheid bepaald door de vraag naar arbeid en alleen via de terugkoppeling 
+van de werkloosheidsgraad en arbeidsproductiviteit naar de brutolonen beperkt. 
+
+
+===PAGE 76 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 76 
+ 
+Ex ante schok 
+De afschaffing van de flexi-jobs in de horeca wordt gesimuleerd door een aantal ex ante schokken, 
+i.e. v├│├│r afgeleide effecten, in het arbeidsvolume (verschuiving van flexi-jobs naar andere jobs), de 
+arbeidsduur, de beroepsbevolking, de (para)fiscaliteit en de brutolonen in HERMES in te brengen 
+(zie tabel 8). Hierbij wordt rekening gehouden met de verschillen tussen de parafiscale 
+aanslagvoeten en gemiddelde brutolonen van flexi- en reguliere jobs. 
+ 
+Tabel 8 - Afschaffing van de flexi-jobs in de horeca: ex ante schokken in 2026 op flexi- en reguliere 
+jobs incl. zwartwerk 
+ 
+Flexi-jobs 
+Reguliere jobs  
+incl. zwartwerk 
+Netto 
+Variant 1 
+ 
+ 
+ 
+Beroepsbevolking (aantal hoofden) 
+-9199 
++9199 
+0 
+Arbeidsduur horeca (in % van het 
+basisscenario) 
+n.v.t. 
+0 
+n.v.t. 
+Variant 2 
+ 
+ 
+ 
+Beroepsbevolking (aantal hoofden) 
+-9199 
+0 
+-9199 
+Arbeidsduur horeca (in % van het 
+basisscenario) 
+n.v.t. 
+-0,75% 
+n.v.t. 
+Varianten 1 en 2 
+ 
+ 
+ 
+Aantal vteΓÇÖs 
+-10836 
++10836 
+0 
+Brutoloonmassa (mio) 
+-294 
++386 
++92 
+Wettelijke werkgeversbijdragen (mio) 
+-82  
+(*) 
++39  
+(**) 
+-43 
+Aanvullende werkgeversbijdragen (mio) 
+0 
++28 
+ (**) 
++28 
+Wettelijke werknemersbijdragen (mio) 
+0 
++38  
+(***) 
++38 
+(*)  Bijdragevoet = 28%. 
+(**)   Berekend o.b.v. de impliciete bijdragevoeten van NACE-bedrijfstak II in 2024 (NR 2024).  
+(***) Impliciete voet in HERMES. 
+In de simulatie gaan we er van uit dat ΓÇô langs de vraagzijde ΓÇô het flexi arbeidsvolume vervangen 
+wordt door m├⌐├⌐r gepresteerde uren reguliere arbeid en/of zwartwerk. Van belang is echter ook te 
+weten wat er gebeurt met het huidige aanbod van flexi-uren: wordt dat behouden, maar neemt het 
+nu de vorm aan van regulier/zwartwerk of valt het geheel of gedeeltelijk weg? We stellen hier twee 
+varianten voor, met twee extreme veronderstellingen op dat vlak: 
+ΓÇô 
+In variant 1 gaan we er van uit dat het aanbod van flexi-uren behouden blijft, maar nu de vorm 
+aanneemt van extra aangeboden uren regulier of zwartwerk door personen die momenteel al 
+gerekend worden tot de werkgelegenheid. We veronderstellen dat noch de omvang van de 
+beroepsbevolking noch de gemiddelde arbeidsduur in de horeca wijzigen. 
+ΓÇô 
+In variant 2 gaan we er van uit dat het huidige aanbod aan flexi-uren wegvalt. Meer bepaald 
+veronderstellen we dat zowel de flexi-uren die aangeboden werden door gepensioneerden als 
+de flexi-uren die door reguliere werknemers in nevenactiviteit werden aangeboden vervangen 
+worden door nieuwe aanwervingen van werknemers in de horeca tegen de gemiddelde 
+arbeidsduur die momenteel geldt voor reguliere arbeid/zwartwerk in die bedrijfstak. Dat gaat 
+gepaard met een vermindering van de beroepsbevolking: gepensioneerde flexi-jobbers trekken 
+zich terug uit de arbeidsmarkt. De vervanging van gepensioneerden heeft een positief effect op 
+de gemiddelde arbeidsduur. De vervanging van nevenjobs door (voltijdse en deeltijdse) 
+
+
+===PAGE 77 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 77 
+ 
+hoofdjobs heeft echter een negatief effect op de gemiddelde arbeidsduur. Het tweede effect 
+domineert licht, zodat het arbeidsvolume nu gespreid wordt over m├⌐├⌐r hoofden dan voorheen. 
+ 
+ 
+  
+Ex post doorrekening 
+In tegenstelling met de ex ante schok houdt de ex post doorrekening wel rekening met de afgeleide 
+effecten die ΓÇô in dit geval ΓÇô vooral via het beschikbaar inkomen en de gemiddelde arbeidskosten 
+inwerken op de economische activiteit in andere bedrijfstakken. De resultaten op middellange 
+termijn (2030) zijn samengevat in tabel 9. 
+De relatief kleine omvang van de schok verklaart waarom ΓÇô ongeacht de variant ΓÇô de macro-
+economische activiteit op middellange termijn nauwelijks zou be├»nvloed worden door de 
+afschaffing van de flexi-jobs in de horeca en dat - in verhouding tot het bbp ΓÇô de impact op het 
+overheidssaldo ook klein is. 
+Kader 6 Fiscaliteit van reguliere prestaties die flexiprestaties vervangen 
+In de HERMES-projectie zijn de impliciete aanslagvoeten t.o.v. de brutolonen (een gemiddelde voor 
+alle inkomens, incl. zwartwerk) 10,13% voor de werknemersbijdragen en 23,15% voor de 
+personenbelastingen in 2026, samen 32,11%.  
+Deze percentages zijn gelijkaardig met een alternatieve berekening, die gevoelig is voor de aannames 
+m.b.t. de gezinssituatie van de belastingplichtige en het statuut van de job (voltijds of deeltijds, 
+hoofdjob of nevenjob).  
+De ex ante schok op de reguliere werkgelegenheid (386 mio brutolonen, 10 836 vteΓÇÖs, zie tabel 8) is goed 
+voor een uurloon van Γé¼21,33 (arbeidsvolume van een vte = 1 670 uren per jaar), een vte-maandloon van 
+Γé¼3 510 (38 uren per week, 4,33 weken per maand) en een brutojaarloon van Γé¼42 217 (12 maanden). Dit 
+geeft een werknemersbijdragevoet van 13,07% (geen recht op de sociale werkbonus volgens de criteria 
+van februari 2025) en een personenbelastingvoet van 18,28% (aanslagjaar 2025, alleenstaande, forfaitaire 
+beroepskosten, geen andere verminderingen, geen recht op de fiscale werkbonus volgens de criteria van 
+februari 2025, excl. gemeentelijke opcentiemen) of 19,47%, (incl. gemeentelijke opcentiemen), samen 
+31,35% (excl. gemeentelijke opcentiemen) of 32,54% (incl. gemeentelijke opcentiemen). 
+ 
+ 
+ 
+
+
+===PAGE 78 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 78 
+ 
+De effecten op het bbp zouden negatief zijn, maar ΓÇô gemeten in verhouding tot de basisprojectie ΓÇô 
+nauwelijks zichtbaar, nl. min 0,01% (variant 1) en min 0,02% (variant 2). Dit geldt in mindere mate 
+voor het arbeidsvolume min 0,02% (variant 1) en min 0,08% (variant 2) ΓÇô zie verder voor een 
+verklaring.  
+ΓÇô De daling van het bbp weerspiegelt de neerwaartse impact op de binnenlandse vraag als gevolg 
+van de dalingen van het beschikbaar inkomen van de gezinnen in re├½le termen (min 0,04% resp. 
+min 0,06%, als gevolg van het lagere arbeidsvolume) en de brutobedrijfsmarges (min 47 resp. 
+min 105 mio, onder druk van de hogere brutolonen). 
+ΓÇô De daling van het arbeidsvolume is het gevolg van de (marginaal) lagere bbp-groei en de hogere 
+productiviteit na de toename van de re├½le arbeidskosten per uur. 
+ΓÇô In beide varianten zouden de brutolonen per uur in re├½le termen stijgen als reactie op de lagere 
+werkgeversbijdragevoet (reguliere, laagverloonde jobs worden immers minder belast dan flexi-
+jobs) 66, en de hogere personenbelastingen- en werknemersbijdragevoeten (want reguliere jobs 
+worden wel belast) 67.  
+ΓÇô Waar de twee varianten van elkaar verschillen is de impact op de lonen via de 
+werkloosheidsgraad. In de tweede variant valt een deel van het aangeboden arbeidsvolume weg, 
+en wordt dat opgevangen door te putten uit het aantal werklozen. De daling van de 
+werkloosheidsgraad zorgt voor grotere opwaartse druk op de brutolonen in re├½le termen68 in de 
+tweede variant (0,15%) dan in eerste variant (0,04%). Op te merken dat in HERMES enkel de 
+globale werkloosheidsgraad beschikbaar is als indicator van krapte op de arbeidsmarkt en dat 
+geen rekening gehouden kan worden met het feit dat de extra vraag gericht is naar specifieke 
+(knelpunt)beroepen.  
+ΓÇô De hogere opwaartse druk op de brutolonen in variant 2 filtert door naar een hogere stijging 
+van de arbeidskosten per uur in re├½le termen dan in variant 1 (0,13% resp. 0,02%), waardoor de 
+neerwaartse impact op het arbeidsvolume ook groter is (min 0,08% resp. min 0,02%). 
+ΓÇô In variant 2 zou de hoofdelijke werkgelegenheid stijgen met 2 600 hoofden, een gevolg van de 
+afruil met de lagere arbeidsduur in de horeca. In variant 1 wordt ΓÇô want zonder die afruil ΓÇô de 
+daling van arbeidsvolume omgezet in een daling van de hoofdelijke werkgelegenheid (min 600 
+hoofden) 
+In variant 2 zou op middellange termijn het overheidssaldo met 213 mio stijgen, in nominale termen 
+een niet onaanzienlijk bedrag maar relatief tot het bbp beperkt tot 0,03 procentpunt. In variant 1 
+zou die impact nog kleiner zijn: plus 106 mio of tot het bbp 0,01 procentpunt. 
+ΓÇô In beide gevallen domineren aan de ontvangstenzijde (variant 1: plus 116 mio; variant 2: plus 179 
+mio) de meerontvangsten uit personenbelastingen (variant 1: plus 163 mio; variant 2: plus 179 
+mio), in beide gevallen ondersteund door verschuiving naar belaste prestaties en de 
+brutoloonstijgingen. 
+ΓÇô Kwalitatief zijn de gevolgen voor de SZ-heffingen gelijkaardig in de varianten 1 en 2: nl. minder 
+werkgeversbijdragen (min 77 mio resp. min 48 mio) en meer werknemersbijdragen (50 mio resp. 
+66 mio). Het gunstigere effect voor de SZ-ontvangsten in variant 2 volgt uit de effecten op 
+werkgelegenheid en brutolonen van die variant.  
+ΓÇô Het belangrijkste verschil tussen de twee varianten is de impact op de overheidsuitgaven 
+(variant 1: plus 9 mio; variant 2: min 34 mio): de hogere werkloosheid in variant 1 filtert door 
+ 
+66  De daling van de werkgeversbijdragevoet wordt gedeeltelijk gerecupereerd door de werknemers via hogere brutolonen. 
+67  De stijging van de werknemersbijdrage- en personenbelastingsvoet wordt door de werknemers gedeeltelijk afgewenteld op de 
+werkgevers via hogere brutolooneisen. 
+68  De lagere werkloosheidsgraad versterkt de loononderhandelingsmacht van de werknemers en impliceert hogere 
+brutolooneisen. 
+
+
+===PAGE 79 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 79 
+ 
+naar hogere werkloosheidsvergoedingen (6 mio) i.p.v. lagere werkloosheidsvergoedingen in 
+variant 2 (min 108 mio). 
+ 
+Tabel 9 - Wat zonder flexi-jobs in de horeca vanaf 2026?: toegevoegde waarde, werkgelegenheid en 
+overheidsfinanci├½n 
+Macro-economische doorrekening met HERMES: verschillen t.o.v. de basisprojectie met flexi-jobs in 
+2030 
+ 
+Variant 1 
+Zonder 
+impact  
+op het 
+aangeboden 
+arbeids-
+volume 
+Variant 2 
+Met 
+negatieve 
+impact  
+op het 
+aangeboden 
+arbeids-
+volume 
+Bbp (re├½el) (in % t.o.v. de basisprojectie) 
+-0,01 
+-0,02 
+Arbeidsmarkt 
+ 
+ 
+Beroepsbevolking (1000ΓÇÖen) 
+0,0 
+-9,5 
+Aantal werklozen (1000ΓÇÖen) 
+0,7 
+-12,1 
+Aantal loontrekkenden (markt + huispersoneel) (1000ΓÇÖen) 
+-0,6 
+2,6 
+Arbeidsvolume loontrekkenden (markt + huispersoneel) (in % van basisprojectie) 
+-0,02 
+-0,08 
+Werkloosheidsgraad (definitie FPB, procentpuntverschil.van basisprojectie) 
+0,01 
+-0,19 
+Arbeidskosten 
+ 
+ 
+Arbeidskosten per uur in re├½le termen (gedefleerd met toegevoegde waardeprijzen), priv├⌐sector (1) 
+0,02 
+0,13 
+Brutolonen per uur (gedefleerd met consumptieprijsdeflator), priv├⌐sector 
+0,04 
+0,15 
+Parafiscale voeten t.o.v. brutolonen (procentpuntverschillen t.o.v.de basisprojectie)  
+ 
+ 
+      Werkgeversbijdragen (sensu lato) (2) 
+-0,02 
+-0,02 
+      Werkgeversbijdragen (sensu stricto) (3) 
+-0,04 
+-0,04 
+      Werknemersbijdragen (4) 
+0,02 
+0,02 
+Productiviteit marktsector (loontrekkenden + zelfstandigen) 
+ 
+ 
+      Toegevoegde waarde in volume 
+-0,01 
+-0,02 
+      Arbeidsvolume (in aantal uren) 
+-0,01 
+-0,05 
+      Productiviteit per werkelijke arbeidsuur 
+0,00 
+0,04 
+Inkomens 
+ 
+ 
+Beschikbaar inkomen van gezinnen, gedefleerd met consumptieprijsdeflator (in % van basisprojectie) 
+-0,04 
+-0,06 
+Beschikbaar inkomen van gezinnen (in Γé¼ miljoen) 
+-161,2 
+-126,6 
+     waarvan werkloosheidsuitkeringen 
+6,1 
+-108,3 
+Brutobedrijfsmarges (in Γé¼ miljoen) 
+-47,4 
+-105,0 
+Overheidsfinanci├½n (in Γé¼ miljoen, tenzij anders vermeld) 
+ 
+ 
+Totale ontvangsten, waarvan o.a. 
+116,2 
+179,2 
+     Directe belastingen gezinnen 
+162,8 
+179,4 
+     Directe belastingen vennootschappen 
+-5,8 
+-34,8 
+     Wettelijke werkgeversbijdragen (private sector) 
+-76,5 
+-47,9 
+     Wettelijke werknemersbijdragen 
+49,7 
+66,2 
+Totale uitgaven, waarvan o.a. 
+8,6 
+-34,0 
+     Sociale transferten in geld, waarvan o.a. 
+12,7 
+-70,4 
+              Werkloosheidsuitkeringen 
+6,1 
+-108,3 
+Saldo 
+105,8 
+212,9 
+Saldo (% van bbp)(procentpuntverschillen t.o.v. de basisprojectie) 
+0,01 
+0,03 
+(1) Na aftrek van loonsubsidies. 
+(2) Inclusief fictieve, extra-legale en werkgeversbijdragen ontvangen door de federale overheid. 
+(3) Werkgeversbijdragen ontvangen door de sociale zekerheid, v├│├│r aftrek van de doelgroepgerichte werkgeversbijdrageverminderingen. 
+(4) Exclusief vrijwillige werknemersbijdragen; gemiddelde van priv├⌐- en publieke sector. 
+ 
+ 
+
+
+===PAGE 80 ===
+FLEXI-JOBS: ANALYSE FEDERAAL PLANBUREAU ΓÇô REKENHOF / 80 
+ 
+Conclusies 
+De macro-economische doorrekening van flexi-jobs in de horeca is gebaseerd op de tentatieve 
+bevinding dat in die bedrijfstak het aantal gepresteerde flexi-uren in 2015-2019 in de plaats kwamen 
+van reguliere en zwarte gepresteerde uren en de hypothese dat dit nadien ook het geval was en zal 
+zijn. 
+Wordt verondersteld dat dat het huidige aanbod flexi-uren verder aangeboden zou blijven in de 
+vorm van reguliere uren en/of zwartwerk, dan zou de afschaffing van het flexisysteem in de horeca 
+vanaf 2026 op middellange termijn ΓÇô in vergelijking met een basisscenario ΓÇô het re├½le bbp verlagen 
+met 0,01%, het loontrekkende arbeidsvolume verminderen met 0,02% en het overheidssaldo in 
+procent van het bbp met 0,01 procentpunt doen toenemen (106 mio in prijzen van 2030). Vooral de 
+personenbelastingen zouden verantwoordelijk zijn voor de stijging van het overheidssaldo. 
+Wordt verondersteld dat het huidige aanbod flexi-uren wegvalt en geput moet worden in de 
+werkloosheidsreserve om het te vervangen, dan is de neerwaartse impact op het bbp 0,02%, op het 
+loontrekkende arbeidsvolume 0,08% en stijgt het overheidssaldo in procent van het bbp met 0,03 
+procentpunt (213 mio in prijzen van 2030). Naast de hogere personenbelastingen zouden ook de 
+lagere werkloosheidsuitkeringen de belangrijkste oorzaken van de stijging van het overheidssaldo 
+zijn. 
+Een afschaffing van het flexisysteem in de horeca zou in re├½le termen arbeidskostenverhogend in 
+de twee varianten zijn, vooral in het scenario met negatieve impact op het aangeboden 
+arbeidsvolume. 
+ 
+
+

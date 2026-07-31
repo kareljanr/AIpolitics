@@ -14097,3 +14097,45 @@ bud_vl_gip_no_total_project_cost_field,vlaanderen_gov,2026,0,,,outturn,src_ccrek
 bud_vl_gip_internal_reports_unpublished,mow_investeringscel,2026,1,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,IC holds basis/fiets/AM reports and GIS map unpublished externally CoA s6.1; tick717
 bud_vl_gip_ba2027_basisalloc_promise,vlaanderen_gov,2027,1,,,budgeted,src_ccrek_vl_gip_monitor_eval_2026,medium,Minister: BO2027 separate basisallocaties to 1-to-1 link GIP spend; not yet outturn; tick717
 bud_dual_gip_monitor_sofico_2026,gg_belgium,2026,2503000000,,,budgeted,src_dual_gip_monitor_wal_tick717,strong,Dual VL GIP monitor fail on 2.5bn vs WAL SOFICO RA transparency residual; not TE-additive; tick717
+bud_flexi_workers_q4_2024,onss,2024,184360,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi workers Q4 2024 184360 CoA 2026_34 ch2; tick718
+bud_flexi_hours_q4_2024,onss,2024,13995721,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi hours nearly 14m Q4 2024 (13995721) CoA; tick718
+bud_flexi_wage_mass_q4_2024,onss,2024,220071000,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi wage mass 220.071m Q4 2024 CoA Graph4; tick718
+bud_flexi_vte_q4_2024,onss,2024,29500,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi VTE ~29500 vs total employee VTE 3.4m Q4 2024 <1pct CoA; tick718
+bud_flexi_workers_q1_2016,onss,2016,10548,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi workers Q1 2016 10548 horeca only start; tick718
+bud_flexi_hours_q1_2016,onss,2016,418466,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi hours Q1 2016 418466; tick718
+bud_flexi_wage_mass_q1_2016,onss,2016,4769300,,,outturn,src_ccrek_flexijob_2026_34,strong,Flexi wage mass 4.769m Q1 2016; tick718
+bud_flexi_hourly_men_2024,onss,2024,16.38,,,outturn,src_ccrek_flexijob_2026_34,strong,Avg flexi hourly men 16.38 EUR end-2024 CoA; tick718
+bud_flexi_hourly_women_2024,onss,2024,15.0,,,outturn,src_ccrek_flexijob_2026_34,strong,Avg flexi hourly women 15.00 EUR end-2024 CoA; tick718
+bud_flexi_share_vl_85pct,onss,2024,85,,,outturn,src_ccrek_flexijob_2026_34,strong,~85pct flexi jobs performed in Flanders CoA s2.6; tick718
+bud_flexi_jobs_vl_class_157525,onss,2024,157525,,,outturn,src_ccrek_flexijob_2026_34,medium,Graph8 class VL 157525 flexi jobs path 2016-24 end class CoA p22; tick718
+bud_flexi_jobs_wal_class_21118,onss,2024,21118,,,outturn,src_ccrek_flexijob_2026_34,medium,Graph8 class WAL 21118; tick718
+bud_flexi_jobs_bru_class_5023,onss,2024,5023,,,outturn,src_ccrek_flexijob_2026_34,medium,Graph8 class BRU 5023; tick718
+bud_flexi_age65plus_share_18pct,onss,2024,18,,,outturn,src_ccrek_flexijob_2026_34,strong,65+ share of flexi workers 18pct end-2024 (near 0 in 2016); tick718
+bud_flexi_dimona_incomplete_q4_2024,onss,2024,4628,,,outturn,src_ccrek_flexijob_2026_34,strong,Dimona incomplete/not declared flexi 4628 of 184360 places 2.51pct Q4 2024 T4; tick718
+bud_flexi_improper_cumul_q4_2024,onss,2024,512,,,outturn,src_ccrek_flexijob_2026_34,strong,Improper cumul no 4/5 or pensioner 512 places 0.28pct Q4 2024; tick718
+bud_flexi_rsz_investigations_2024,onss,2024,270,,,outturn,src_ccrek_flexijob_2026_34,strong,RSZ flexi investigations 270 in 2024 (189 2023; 160 2022) T5; tick718
+bud_flexi_rsz_findings_2024,onss,2024,154,,,outturn,src_ccrek_flexijob_2026_34,strong,RSZ findings flexi law 154 of 270 (57pct) 2024; tick718
+bud_flexi_rsz_regularised_high_ss_2024,onss,2024,5,,,outturn,src_ccrek_flexijob_2026_34,strong,Only 5 of 154 findings regularised with higher SS 2024; 24 dossiers to parquet; tick718
+bud_flexi_event_inspections_2022_24,onss,2024,1,,,outturn,src_ccrek_flexijob_2026_34,strong,Only 1 RSZ control in event sector 2022-24 despite statutory focus; tick718
+bud_flexi_hermes_exante_vte_2026,fod_finance,2026,10836,,,projected,src_ccrek_flexijob_2026_34,strong,HERMES ex ante abolish horeca flexi: -10836 flexi VTE +10836 regular T8; tick718
+bud_flexi_hermes_exante_wage_flexi_m,fod_finance,2026,294000000,,,projected,src_ccrek_flexijob_2026_34,strong,Ex ante flexi wage mass shock -294m 2026 T8; tick718
+bud_flexi_hermes_exante_wage_reg_m,fod_finance,2026,386000000,,,projected,src_ccrek_flexijob_2026_34,strong,Ex ante regular wage mass +386m; net +92m; tick718
+bud_flexi_hermes_exante_net_wage_m,fod_finance,2026,92000000,,,projected,src_ccrek_flexijob_2026_34,strong,Net wage mass +92m when flexi->regular ex ante; tick718
+bud_flexi_hermes_exante_er_ss_net_m,fod_finance,2026,43000000,,,projected,src_ccrek_flexijob_2026_34,strong,Ex ante employer SS net -43m (flexi -82 regular +39) rate 28pct flexi; tick718
+bud_flexi_hermes_exante_ee_ss_m,fod_finance,2026,38000000,,,projected,src_ccrek_flexijob_2026_34,strong,Ex ante employee SS +38m; tick718
+bud_flexi_hermes_exante_suppl_er_m,fod_finance,2026,28000000,,,projected,src_ccrek_flexijob_2026_34,strong,Ex ante supplemental employer SS +28m; tick718
+bud_flexi_hermes_heads_shock_9199,fod_finance,2026,9199,,,projected,src_ccrek_flexijob_2026_34,strong,Labour force heads shock +/-9199 V1/V2 T8; tick718
+bud_flexi_hermes_v1_balance_2030,fod_finance,2030,106000000,,,projected,src_ccrek_flexijob_2026_34,strong,HERMES V1 abolish horeca flexi 2030 gov balance +106m (0.01pp GDP) T9; tick718
+bud_flexi_hermes_v2_balance_2030,fod_finance,2030,213000000,,,projected,src_ccrek_flexijob_2026_34,strong,HERMES V2 gov balance +213m (0.03pp GDP) 2030; tick718
+bud_flexi_hermes_v1_receipts_2030,fod_finance,2030,116000000,,,projected,src_ccrek_flexijob_2026_34,strong,V1 receipts +116m (PIT +163m dominates) 2030; tick718
+bud_flexi_hermes_v2_receipts_2030,fod_finance,2030,179000000,,,projected,src_ccrek_flexijob_2026_34,strong,V2 receipts +179m (PIT +179m) 2030; tick718
+bud_flexi_hermes_v1_er_ss_2030,fod_finance,2030,77000000,,,projected,src_ccrek_flexijob_2026_34,strong,V1 employer SS -77m 2030; tick718
+bud_flexi_hermes_v2_er_ss_2030,fod_finance,2030,48000000,,,projected,src_ccrek_flexijob_2026_34,strong,V2 employer SS -48m 2030; tick718
+bud_flexi_hermes_v1_ee_ss_2030,fod_finance,2030,50000000,,,projected,src_ccrek_flexijob_2026_34,strong,V1 employee SS +50m 2030; tick718
+bud_flexi_hermes_v2_ee_ss_2030,fod_finance,2030,66000000,,,projected,src_ccrek_flexijob_2026_34,strong,V2 employee SS +66m 2030; tick718
+bud_flexi_hermes_v2_ui_save_2030,fod_finance,2030,108000000,,,projected,src_ccrek_flexijob_2026_34,strong,V2 UI expenditure -108m 2030 (pull from unemployed reserve); tick718
+bud_flexi_hermes_v1_ui_cost_2030,fod_finance,2030,6000000,,,projected,src_ccrek_flexijob_2026_34,strong,V1 UI +6m 2030; tick718
+bud_flexi_hermes_v1_heads_2030,fod_finance,2030,600,,,projected,src_ccrek_flexijob_2026_34,strong,V1 headcount employment -600 2030; tick718
+bud_flexi_hermes_v2_heads_2030,fod_finance,2030,2600,,,projected,src_ccrek_flexijob_2026_34,strong,V2 headcount +2600 2030 duration tradeoff; tick718
+bud_flexi_implicit_tax_wedge_2026,fod_finance,2026,32.11,,,projected,src_ccrek_flexijob_2026_34,strong,HERMES implicit ee SS 10.13 + PIT 23.15 = 32.11pct on regular wages 2026 Kader6; tick718
+bud_dual_flexi_vl_share_2024,gg_belgium,2024,157525,,,outturn,src_dual_flexi_vl_tick718,strong,Dual: ~85pct flexi in VL vs WAL/BRU residual; not TE-additive; tick718

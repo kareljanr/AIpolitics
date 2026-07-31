@@ -8482,3 +8482,19 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_gip_monitor_eval_gov_2026 — ready (not sent)
 - Next: rq_709 WAL residual preferred; progress@720 in 3 ticks; rq_116 deferred
 
+
+### 2026-08-01T21:15:00Z — tick 718
+- Unit: **rq_709** (FOI-adjacent dual residual — **fed flexi-jobs CoA 2026_34 HERMES/fiscal + enforcement dual VL**)
+- Found (primary CoA+BFP 2026_34 ch.2–4 T4–T5 T8–T9):
+  - Q4 2024: workers **184360** · hours **~14.0m** · wage mass **220.071m** · VTE **~29.5k** (<1% of 3.4m)
+  - Hourly **16.38/15.00** M/F; **~85% VL**; 65+ **18%**; path from 10.5k workers 2016
+  - Dimona incomplete **2.51%** (4628); improper cumul **0.28%** (512)
+  - RSZ 2024: inv **270** / findings **154** / high-SS regularise **only 5**; event controls **1** (2022-24)
+  - HERMES abolish horeca flexi 2026→2030: ex ante VTE **10836**; wage **−294/+386** net **+92**; ER SS net **−43**
+  - V1 balance **+106m** (0.01pp) · V2 **+213m** (0.03pp); GDP **−0.01/−0.02%**; labour **−0.02/−0.08%**
+  - Implicit regular wedge **32.11%** (ee SS 10.13 + PIT 23.15); dual VL concentration
+  - Strong CoA; L5 FOI full-sector TE residual.
+- Wrote: budgets (+42); commitments (+6); leaderboard (+7); sources (+2); entity onss; FOI draft **gap_flexi_hermes_full_sector_l5**; rq_709=done; spawn **rq_710**; loop_state ticks=718
+- FOI opened: gap_flexi_hermes_full_sector_l5 — ready (not sent; contacts TBD)
+- Next: rq_710 WAL residual preferred; progress@720 in 2 ticks; rq_116 deferred
+
