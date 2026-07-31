@@ -20,6 +20,43 @@
 
 ---
 
+## Snapshot at **tick 730** (2026-08-02)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** OTW/LETEC company ~€1.2bn aju · Lantis/Oosterweel finance residual multi-decade · prior GIP/SOFICO/BCR/Entity II retained |
+| **D. L5 named / measure end-lines** | **~52-66%** of TE (generous) | **Gain 720→730 is FOI-adjacent dual residual (not near-complete of 348bn):** prisons DBFM VFM residual · OTW CSP (coverage 14.21 / service gap 4pp / e-bus 14/1945 / missions ~€70m transfer) · intsec dual-use €177/222m + antifraud staffing dead · Oosterweel BC2026 bonds over plafond **€2.25bn** / sub snowball **€27bn eoy2083** / MJR gap **€1.68bn** · TV leef overrun **€103.5m** / Haventrace Tijsmans **€1.6bn** no task / modal 58.7% already met · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~464** drafts ready | Human send only; answered **~9**; total FOI rows **~479** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **BCR consol debt €16.1→19.1bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** · **Oosterweel VAK + BC interest/sub snowball stocks** · **project-bond over-plafond path** · **SKF multi-year €0.96bn** · **Fluvius equity inject path €1.56bn** · **FRBRTC/refinance stocks** · **OAA reporté fiction** · **GIP beschikbaarheid path** · **Sofico guaranteed debt / CAPEX commit** · **flexi privilege TE class** · **internal security dual-use / NATO classification** · **CSF NPE growth caps** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 730)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~14559 |
+| commitments.csv | ~1775 |
+| leaderboard.csv | ~3066 |
+| entities.csv | ~549 |
+| sources.csv | ~1433 |
+| FOI ready | ~464 |
+| FOI answered | ~9 |
+| FOI total rows | ~479 |
+| research_queue open | rq_116 deferred + next hole-fill after progress |
+
+### What improved since tick 720
+
+- **Prisons DBFM residual (tick725):** VFM Table1 full rates · OLO premium **€14.7m** · Vresse roof RV bias **€5.1m** · CM **>40k**/q · SLA **400 EUR** · IWMS ~2029 · recs 9/16/5 · dual VL PPP.
+- **OTW/LETEC CSP residual (tick726):** coverage **14.21%** already (vs 10→14 narrative) · service **95.74 vs 99.8** · sat **62 vs 70** · e-bus **14/1945** dual De Lijn **652+€400m** · scolaire+TPMR transfer SPW **~€70m**.
+- **Internal security + antifraud residual (tick727):** intsec **€177/222m** dual-use (heli/plane/C-UAS/BSC/FIPA) · security provisie **€546+179m** · antifraud **€600m** 2026 with **387 FTE** plan / Finance+Justice recruit **not started** / Police **18/130**.
+- **Toekomstverbond BC2026 finance residual (tick728):** bonds **€7.75bn vs plafond €5.5bn (−€2.25bn)** · sub snowball **€27.0bn eoy2083** · herijk takeover **€2.82bn** · MJR underbook **€1.68bn** · CAPEX **+16.8%** · CoA: extra FM sub **unjustified**.
+- **TV leef/haven/modal residual (tick729):** leef overrun **€103.5m** · ruiter **€55m/yr** via GIP delay · Tijsmans **€1.6bn** no task · E34-West **€614m** · modal **58.7%** already met / no task budget / GIP Antwerp modal **€158.9m** unmappable.
+- **Dual map:** Entity II PT (OTW/De Lijn) · federal dual-use security · VL mega-mobility (Oosterweel+GIP+ruiter) finance horizon mismatch.
+
+---
+
 ## Snapshot at **tick 720** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

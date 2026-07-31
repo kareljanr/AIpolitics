@@ -8659,3 +8659,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+66); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_tv_leef_modal_haven_l5**; extracts + write script; rq_720=done; spawn **rq_721 PROGRESS@730**; loop_state ticks=729
 - FOI opened: gap_tv_leef_modal_haven_l5 — ready (not sent)
 - Next: **rq_721 mandatory progress@730**; rq_116 deferred
+
+### 2026-08-02T01:45:00Z — tick 730
+- Unit: **rq_721** (mandatory **progress@730** coverage % + waste top10)
+- Coverage (honest, vs EUR 347.956bn TE):
+  - **A L0 100%** · **B L1 100%** · **C L2 ~99%** · **D L5 ~52-66%** (generous; not near-complete of 348bn) · **E FOI ready ~464** / answered ~9 / total ~479
+- Inventory: budgets ~14559 · commitments ~1775 · leaderboard ~3066 · entities ~549 · sources ~1433
+- Gain 720→730 (FOI-adjacent dual residual wave 721–729):
+  - Prisons DBFM VFM residual · DG debt/NPE · SPAQuE · VVPR · kunsten (prior tail)
+  - OTW CSP: coverage **14.21** · service gap **4pp** · e-bus **14/1945** · missions transfer **~€70m**
+  - Intsec dual-use **€177/222m** + antifraud staffing dead **€600m / 387 FTE**
+  - Oosterweel BC2026: bonds over plafond **€2.25bn** · sub snowball **€27bn eoy2083** · MJR gap **€1.68bn** · herijk **€2.82bn**
+  - TV leef overrun **€103.5m** · Haventrace Tijsmans **€1.6bn** no task · modal **58.7%** already met
+- Waste top10: **GIP monitor fail 2.5bn holds #1** (prio 8.70); fossil/cars/cheque/reporté #2–10 stable; **Oosterweel sub snowball filtered as stock** (raw pi 8.55); high-abs NEW: bonds over plafond · antifraud staffing dead · TV modal empty · OTW service gap
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_721=done; spawn **rq_722**; loop_state ticks=730
+- FOI: none new (progress tick)
+- Next: prio5 **rq_722**; deferred **rq_116**; progress@740 in 10 ticks
