@@ -14494,3 +14494,67 @@ bud_owv_debt_budgeted_mjr_2026_30_4461m,vlaanderen_gov,2030,4461070000,,,budgete
 bud_owv_debt_mjr_gap_2026_30_1680m,vlaanderen_gov,2030,1679770000,,,estimate,src_ccrek_tv6_bc2026_finance_residual,strong,MJR multi-year underbooking 1679.77m 2026-30 CoA Table7; tick728
 bud_dual_tv_bonds_over_plafond_gip,gg_belgium,2033,2251500000,,,estimate,src_dual_tv_bc2026_gip_tick728,strong,Dual residual: OWV bond over-plafond 2251.5m vs GIP/MJR incomplete booking; not TE-additive; tick728
 bud_dual_tv_sub_snowball_vs_gip,gg_belgium,2083,27046400000,,,estimate,src_dual_tv_bc2026_gip_tick728,strong,Dual residual: sub debt snowball 27.0bn eoy2083 vs GIP 2025-27 short horizon; not TE-additive; tick728
+bud_tv_leef_task_2018_1250m,lantis,2018,1250000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Leefbaarheid fase1 task budget 1250m price Mar2017 (1000 VL ruiter + 250 Antwerp city/port); tick729
+bud_tv_leef_task_indexed_1594m,lantis,2022,1594200000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Leefbaarheid task after index 1594.2m price Jan2022; tick729
+bud_tv_leef_envelope_tol_shift_2462m,lantis,2022,2462300000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,After RO onderbouw 868m to toll model: total leef envelope 2462.3m closed; tick729
+bud_tv_leef_raming_2026_total_2566m,lantis,2026,2565700000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Table11 total leefbaarheid raming 2565.7m 2026 (+9.7 vs prior); tick729
+bud_tv_leef_raming_f1f2_excl_onder_1698m,lantis,2026,1697700000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Fasen 1+2 excl RO onderbouw 1697.7m; tick729
+bud_tv_leef_over_task_103_5m,lantis,2026,103500000,,,estimate,src_ccrek_tv6_leef_haven_modal_residual,strong,Raming 1697.7 exceeds task 1594.2 by 103.5m; no solution yet CoA; tick729
+bud_tv_leef_spent_2018_25_212_4m,lantis,2025,212400000,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,VL spent 212.4m 2018-2025 on leefbaarheid; tick729
+bud_tv_overkap_ruiter_stock_499_3m,vlaanderen_gov,2025,499300000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Overkappingsruiter stock path 499.3m class; tick729 recon
+bud_tv_overkap_ruiter_available_286_9m,vlaanderen_gov,2025,286900000,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,Ruiter available eoy2025 286.9m of 499.3; tick729
+bud_tv_overkap_ruiter_feed_55m_yr,vlaanderen_gov,2026,55000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Ruiter feed 55m/yr via GIP underuse; ~27y full build; CoA: no underuse so feeds by delaying other GIP; tick729
+bud_tv_overkap_ruiter_target_remain_1382m,vlaanderen_gov,2026,1381800000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Streef middelen ruiter+city after spent: 1381.8m; tick729
+bud_tv_ro_onderbouw_868m_toll,lantis,2022,868000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,RO onderbouw 700->868m indexed shifted to toll financial model Oct2022; tick729
+bud_tv_ro_bovenbouw_sub_308m,lantis,2026,308000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,RO bovenbouw subtotal 308m 2026 raming; tick729
+bud_tv_ro_total_1176m,lantis,2026,1176000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,RO under+over 1176m; tick729
+bud_tv_ringpark_noordkasteel_42_2m,lantis,2026,42200000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark Noordkasteel raming 42.2m; tick729
+bud_tv_ringpark_groenendaal_107_7m,lantis,2026,107700000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark Groenendaal 107.7m incl 22.3m Stadsserre city; tick729
+bud_tv_ringpark_lobroek_106_2m,lantis,2026,106200000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark Lobroek 106.2m; tick729
+bud_tv_ringpark_schijn_51_9m,lantis,2026,51900000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark Het Schijn 51.9m; tick729
+bud_tv_ringpark_west_110_5m,lantis,2026,110500000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark West task 110.5m (2017 price; optim 139.3m 2025); tick729
+bud_tv_ringpark_west_outturn_147_5m,lantis,2026,147500000,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark West provisional final 147.5m (+8.2 over optim budget); first park summer 2026; tick729
+bud_tv_ringpark_groene_vesten_75_2m,lantis,2026,75200000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark Groene Vesten 75.2m; tick729
+bud_tv_ringpark_zuid_273_8m,lantis,2026,273800000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Ringpark Zuid 273.8m (+45.9 DO meerkosten); tick729
+bud_tv_scheldeoever_246_2m,lantis,2026,246200000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Scheldeoeververbinding 246.2m price 2026; optim +6m; tick729
+bud_tv_spaghettiknoop_131_1m,awv,2025,131100000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Spaghettiknoop R1-A112 AWV raming 131.1m (was 115); not in leef Zuid; tick729
+bud_tv_antwerp_extra_parkbrug_7_2m,city_antwerpen,2026,7200000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,City Antwerp extra 7.2m parkbrug on top of prior +26.9m; tick729
+bud_tv_antwerp_extra_prior_26_9m,city_antwerpen,2026,26900000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,City prior extra investments 26.9m leef; tick729
+bud_tv_reserve_leef_fase2_678_4m,lantis,2026,678400000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Reserve leefbaarheid fase2 total 678.4m (Kap Groen Hart 305.7 Schijn 266 etc); tick729
+bud_tv_optim_target_5_5pct,lantis,2022,5.5,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,PCT optim target -5.5 on leef ramingen 2022; incomplete delivery CoA; tick729
+bud_tv_tijsmans_raming_1600m,lantis,2024,1600000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Tweede Tijsmanstunnel raming 1600m price 2024 (was 1200 2019); excl study/PM/ops; tick729
+bud_tv_tijsmans_study_gip_17m,lantis,2027,17000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP 2025-27 study costs Tweede Tijsmanstunnel 17m; tick729
+bud_tv_tijsmans_study_class_31m,lantis,2026,31000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,Table12 studiekosten Tijsmans class 31m; tick729
+bud_tv_e34_west_raming_614m,awv,2025,614000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,E34-West total raming 614m price 2025 (was 438 2024); tick729
+bud_tv_e34_west_gip_doorkijk_428m,awv,2027,428000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP Grote Projecten doorkijk E34-West 428m; update request 614.7m; tick729
+bud_tv_e34_west_basis_477m,awv,2025,477000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,E34-West basis infra 477m Table12; tick729
+bud_tv_e34_west_risk_68m,awv,2025,68000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,E34-West risks 68m; tick729
+bud_tv_e34_west_expro_8m,awv,2025,8000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,E34-West expropriations 8m; tick729
+bud_tv_e34_west_scope_marge_27m,awv,2025,27000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,E34-West scope change margin 27m; tick729
+bud_tv_e34_west_study_34m,awv,2025,34000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,strong,E34-West studiekosten 34m; tick729
+bud_tv_nieuwe_rand_study_spent_10m,awv,2025,10000000,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,Nieuwe Rand/A102 studies locked 10m to 2025; tick729
+bud_tv_nieuwe_rand_gip_study_0_3m_yr,awv,2026,300000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP study 0.3m/yr (was raming 3m/yr); not yet Grote Project; tick729
+bud_tv_nieuwe_rand_study_table_96m,awv,2026,96000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,medium,Table12 studiekosten Nieuwe Rand class 96m indicative; tick729
+bud_tv_haven_a12_range_low_750m,awv,2026,750000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,medium,Haven A12+Nx range low 750m Table12; tick729
+bud_tv_haven_a12_range_high_4530m,awv,2026,4530000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,medium,Haven A12+Nx range high 4530m; tick729
+bud_tv_haven_a102_range_low_1410m,awv,2026,1410000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,medium,A102 range low 1410m; tick729
+bud_tv_haven_a102_range_high_4460m,awv,2026,4460000000,,,estimated,src_ccrek_tv6_leef_haven_modal_residual,medium,A102 range high 4460m; tick729
+bud_tv_modal_split_antwerp_vr_58_7pct,vlaanderen_gov,2024,58.7,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,PCT sustainable trips Antwerp VR 58.7 OVG7 2023-24; target 50 already met at baseline; tick729
+bud_tv_modal_split_city_67_6pct,city_antwerpen,2024,67.6,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,PCT sustainable city Antwerp 67.6; tick729
+bud_tv_modal_split_vr_broader_52_1pct,vlaanderen_gov,2024,52.1,,,outturn,src_ccrek_tv6_leef_haven_modal_residual,strong,PCT broader VR 52.1; tick729
+bud_gip_modal_antwerp_2025_76_1m,vlaanderen_gov,2025,76100000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP modal Antwerp VR 76.1m 2025 Table13; tick729
+bud_gip_modal_antwerp_2026_158_9m,vlaanderen_gov,2026,158900000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP modal Antwerp VR 158.9m 2026; tick729
+bud_gip_modal_antwerp_2027_199_1m,vlaanderen_gov,2027,199100000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP modal Antwerp VR 199.1m 2027; tick729
+bud_gip_modal_antwerp_beschik_2026_35_7m,vlaanderen_gov,2026,35700000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Antwerp availability fees 35.7m 2026; tick729
+bud_gip_modal_antwerp_leef_2026_89m,vlaanderen_gov,2026,89000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Antwerp leef in modal GIP mainly Scheldebalkon 89m 2026; tick729
+bud_gip_modal_antwerp_flank_2026_26m,lantis,2026,26000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Flankerende maatregelen Antwerp 26.0m 2026 Table14; tick729
+bud_gip_modal_antwerp_other_2026_8_3m,vlaanderen_gov,2026,8300000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Other flow+bike Antwerp 8.3m 2026; tick729
+bud_gip_modal_other_vr_2026_63_5m,vlaanderen_gov,2026,63500000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Other VRs together modal 63.5m 2026; tick729
+bud_gip_modal_vl_fleet_2026_174_7m,de_lijn,2026,174700000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,VL mainly De Lijn fleet greening 174.7m 2026 in modal GIP; tick729
+bud_gip_modal_total_2025_692m,vlaanderen_gov,2025,692000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP modal shift programme total 692.0m 2025; tick729
+bud_gip_modal_total_2026_397_1m,vlaanderen_gov,2026,397100000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP modal total 397.1m 2026; tick729
+bud_gip_modal_total_2027_436_1m,vlaanderen_gov,2027,436100000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,GIP modal total 436.1m 2027; tick729
+bud_tv_flank_invest_toelage_2026_13_3m,lantis,2026,13300000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Lantis invest toelage flank 13.3m 2026 (BO26 6.9); tick729
+bud_tv_flank_werk_toelage_2026_6m,lantis,2026,6000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Lantis werk toelage Modal Shift team 6.0m 2026 (BO26 11.5); tick729
+bud_tv_flank_vvf_2026_6_7m,lantis,2026,6700000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Verkeersveiligheidsfonds toelage Lantis 6.7m 2026; DWV same class 5.0; tick729
+bud_dual_tv_modal_no_task_budget,gg_belgium,2026,0,,,estimate,src_dual_tv_leef_modal_gip_tick729,strong,CoA: no overarching task budget modal pillar — unlimited + no finance mode; dual GIP lines not mappable to Routeplan; tick729

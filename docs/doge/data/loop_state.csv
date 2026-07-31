@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T00:45:00Z,rq_719,728,no,tick728 TV6 BC2026 residual bonds/sub/MJR; next rq_720; progress@730 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T01:15:00Z,rq_720,729,no,tick729 TV6 leef/haven/modal residual dual GIP; next rq_721 PROGRESS@730; rq_116 deferred

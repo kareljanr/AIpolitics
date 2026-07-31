@@ -8647,3 +8647,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+55); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_tv_bc2026_finance_residual_l5**; raw PDF + extract + write script; rq_719=done; spawn **rq_720**; loop_state ticks=728
 - FOI opened: gap_tv_bc2026_finance_residual_l5 — ready (not sent); prior TV/Lantis FOIs remain ready
 - Next: rq_720; progress@730 in 2 ticks; rq_116 deferred
+
+### 2026-08-02T01:15:00Z — tick 729
+- Unit: **rq_720** (FOI-adjacent residual dual — **TV leefbaarheid + Haventrace + modal shift CoA 2026_18 ch5-7**)
+- Found (primary CoA TV6 residual vs tick502/728 finance):
+  - Leef: task **1594.2m**; raming f1+f2 excl onder **1697.7** → overrun **103.5m**; total raming **2565.7**; spent **212.4**; ruiter avail **286.9** of 499.3; feed **55m/yr** (~27y) via GIP delay not underuse
+  - RO onderbouw **868m** shifted to toll model; Ringpark West provisional **147.5** (+8.2); Zuid **273.8** (+45.9 DO); Scheldeoever **246.2**; Spaghettiknoop AWV **131.1**
+  - Haven: Tijsmans **1600m** (was 1200); E34-West **614** (GIP doorkijk 428); Nieuwe Rand studies **10m** spent; ranges A102 **1.41-4.46bn**; **no task budget**
+  - Modal: OVG **58.7%** sustainable (city 67.6) — **50-50 already met**; no task budget; no Routeplan full cost; GIP modal Antwerp **158.9m 2026** / programme **397.1**; flank Lantis **26m** mislabelled modal CoA
+  - CoA: mid-term finance vision gap endangers Toekomstverbond
+- Wrote: budgets (+66); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_tv_leef_modal_haven_l5**; extracts + write script; rq_720=done; spawn **rq_721 PROGRESS@730**; loop_state ticks=729
+- FOI opened: gap_tv_leef_modal_haven_l5 — ready (not sent)
+- Next: **rq_721 mandatory progress@730**; rq_116 deferred
