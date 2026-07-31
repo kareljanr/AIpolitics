@@ -6630,3 +6630,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +46; cmt +4; lb +8; FOI **gap_other_ss_l5_detail** ready+draft; rq_537=done spawn **rq_538**; ticks=546
 - FOI opened: gap_other_ss_l5_detail (ready, human send) - not sent
 - Next: prio5 **rq_538** (Part IV complete class → next public residual); deferred **rq_116** SWA; progress@550 in 4 ticks
+
+### 2026-07-31T08:40:00Z - tick 547
+- Unit: **rq_538** (FOI-adjacent hole-fill - **Kamer expose Part I §5 Table40 Entity I global investment effort 2025-29**)
+- Found (strong primary DOC 56 1278/001 Part I §5; million-EUR table):
+  - **Direct public invest:** 2025 **EUR 4.522bn** · 2026 **5.174** · 2027 **5.740** · 2028 **5.924** · 2029 **6.082**
+  - **FOD/POD:** **2.972 → 4.962bn 2026** (defence-driven); **ESA defence corr −1.388bn 2026** (vs +175m 2025)
+  - **ION/OIP:** **1.324 / 1.559bn** (Infrabel+Regie class); OISZ invest **51 / 40m**
+  - **ESA GCF:** **5.914 → 6.612 → 7.204 → 7.438 → 7.632bn** (IT act **657m**, science **336m**, Infrabel+NIRAS **455m** flat)
+  - **NMBS invest aid:** **1.049 / 1.094 / 0.776 / 0.697 / 0.712bn** 2025-29
+  - **Gov-supported total:** **6.962 / 7.706bn** (1.1→**1.2% GDP**) → **8.344bn 2029**
+- Wrote: sources +2; budgets +44; cmt +4; lb +8; FOI **gap_e1_invest_l5_codes** ready+draft; rq_538=done spawn **rq_539**; ticks=547
+- FOI opened: gap_e1_invest_l5_codes (ready, human send) - not sent
+- Next: prio5 **rq_539**; deferred **rq_116** SWA; progress@550 in 3 ticks

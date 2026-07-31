@@ -9541,3 +9541,47 @@ bud_asbestos_fed_toelage_delta_2026,fedris,2026,-3742000,,,budgeted,src_kamer_ex
 bud_rva_career_break_save_fed_2026,sec_ss,2026,4690000,,,budgeted,src_kamer_expose_other_ss_2026,medium,RVA career-break harmonisation save path 4.690m 2026 federal emp-missions share; policy est; tick546
 bud_dual_other_ss_fed_i3_2025,sec_ss,2025,454041000,,,derived,src_dual_other_ss_i3_tick546,strong,Dual I.3 Andere stelsels fed means 454.041m = V.1 federal toelagen; tick546
 bud_dual_other_ss_fed_i3_2026,sec_ss,2026,463463000,,,derived,src_dual_other_ss_i3_tick546,strong,Dual I.3 Andere stelsels fed means 463.463m = V.2 federal toelagen; tick546
+bud_e1_fod_invest_2025,sec_federal,2025,2972000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 FOD/POD invest codes7 2972m 2025; tick547
+bud_e1_fod_invest_2026,sec_federal,2026,4962000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 FOD/POD invest 4962m 2026 defence-driven spike; tick547
+bud_e1_fod_invest_2027,sec_federal,2027,4496000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 FOD/POD invest 4496m 2027; tick547
+bud_e1_fod_invest_2028,sec_federal,2028,4748000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 FOD/POD invest 4748m 2028; tick547
+bud_e1_fod_invest_2029,sec_federal,2029,4815000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 FOD/POD invest 4815m 2029; tick547
+bud_e1_def_esa_corr_2025,mod_defensie,2025,175000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ESA correction defence invest +175m 2025; tick547
+bud_e1_def_esa_corr_2026,mod_defensie,2026,-1388000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ESA correction defence invest -1388m 2026 (cash vs ESA timing); tick547
+bud_e1_def_esa_corr_2027,mod_defensie,2027,-150000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ESA defence invest corr -150m 2027; tick547
+bud_e1_def_esa_corr_2028,mod_defensie,2028,-220000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ESA defence invest corr -220m 2028; tick547
+bud_e1_def_esa_corr_2029,mod_defensie,2029,-109000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ESA defence invest corr -109m 2029; tick547
+bud_e1_ion_invest_2025,sec_federal,2025,1324000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ION/OIP invest 1324m 2025 (Infrabel+Regie class); tick547
+bud_e1_ion_invest_2026,sec_federal,2026,1559000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ION/OIP invest 1559m 2026 dual consol; tick547
+bud_e1_ion_invest_2027,sec_federal,2027,1360000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ION invest 1360m 2027; tick547
+bud_e1_ion_invest_2028,sec_federal,2028,1361000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ION invest 1361m 2028; tick547
+bud_e1_ion_invest_2029,sec_federal,2029,1342000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ION invest 1342m 2029; tick547
+bud_e1_oisz_invest_2025,sec_ss,2025,51000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 OISZ invest 51m 2025; tick547
+bud_e1_oisz_invest_2026,sec_ss,2026,40000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 OISZ invest 40m 2026; tick547
+bud_e1_direct_public_invest_2025,sec_federal,2025,4522000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 total direct public invest 4522m 2025; tick547
+bud_e1_direct_public_invest_2026,sec_federal,2026,5174000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 total direct public invest 5174m 2026; tick547
+bud_e1_direct_public_invest_2027,sec_federal,2027,5740000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 total direct public invest 5740m 2027; tick547
+bud_e1_direct_public_invest_2028,sec_federal,2028,5924000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 total direct public invest 5924m 2028; tick547
+bud_e1_direct_public_invest_2029,sec_federal,2029,6082000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 total direct public invest 6082m 2029; tick547
+bud_e1_science_act_2026,sec_federal,2026,336000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 science-policy activation 336m 2026 (3pct growth from 2024 INR); tick547
+bud_e1_it_act_fod_2026,sec_federal,2026,657000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 IT activation FOD/POD/ION 657m 2026; tick547
+bud_e1_it_act_oisz_2026,sec_ss,2026,40000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 IT activation OISZ 40m 2026; tick547
+bud_e1_infrabel_niras_act_2026,sec_federal,2026,455000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 Infrabel+NIRAS invest activation 455m flat 2025-29; tick547
+bud_e1_desinvest_fod_2026,sec_federal,2026,-16000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 FOD desinvest -16m 2026; tick547
+bud_e1_desinvest_ion_2026,sec_federal,2026,-34000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 ION desinvest -34m 2026; tick547
+bud_e1_gcf_esa_2025,sec_federal,2025,5914000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 gross capital formation ESA 5914m 2025; tick547
+bud_e1_gcf_esa_2026,sec_federal,2026,6612000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 gross capital formation ESA 6612m 2026; tick547
+bud_e1_gcf_esa_2027,sec_federal,2027,7204000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 gross capital formation ESA 7204m 2027; tick547
+bud_e1_gcf_esa_2028,sec_federal,2028,7438000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 gross capital formation ESA 7438m 2028; tick547
+bud_e1_gcf_esa_2029,sec_federal,2029,7632000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 gross capital formation ESA 7632m 2029; tick547
+bud_e1_invest_aid_nmbs_2025,nmbs,2025,1049000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investment aid mainly NMBS 1049m 2025; tick547
+bud_e1_invest_aid_nmbs_2026,nmbs,2026,1094000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investment aid mainly NMBS 1094m 2026; tick547
+bud_e1_invest_aid_nmbs_2027,nmbs,2027,776000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investment aid mainly NMBS 776m 2027 (drop); tick547
+bud_e1_invest_aid_nmbs_2028,nmbs,2028,697000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investment aid mainly NMBS 697m 2028; tick547
+bud_e1_invest_aid_nmbs_2029,nmbs,2029,712000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investment aid mainly NMBS 712m 2029; tick547
+bud_e1_gov_supported_invest_2025,sec_federal,2025,6962000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 6962m 2025 (1.1pct GDP); tick547
+bud_e1_gov_supported_invest_2026,sec_federal,2026,7706000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 7706m 2026 (1.2pct GDP); tick547
+bud_e1_gov_supported_invest_2027,sec_federal,2027,7980000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 7980m 2027 (1.2pct GDP); tick547
+bud_e1_gov_supported_invest_2028,sec_federal,2028,8135000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 8135m 2028; tick547
+bud_e1_gov_supported_invest_2029,sec_federal,2029,8344000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 8344m 2029; tick547
+bud_dual_e1_ion_vs_consol_invest_2026,sec_federal,2026,1559000000,,,derived,src_dual_invest_e1_consol_tick547,strong,Dual Table40 ION 1559m 2026 vs consol invest share class; tick547
