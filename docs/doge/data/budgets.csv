@@ -12876,3 +12876,44 @@ bud_vl_basiskoten_loans_vak_100m,vlaanderen_gov,2026,100000000,,,budgeted,src_cc
 bud_vl_fluvius_vek_1100m_confirm,vlaanderen_gov,2026,1100000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Fluvius VEK 1100m of 1560 VAK multi-year equity reinforce; dual grid; tick671
 bud_dual_ratings_vl_wal_fwb_2026,gg_belgium,2026,0,,,budgeted,src_dual_vl_wal_fwb_ba_aju_tick671,strong,Dual ratings 2026: VL Fitch AA-/Moody A1/SP AA- vs WAL Moody Baa1 vs FWB Moody A3; tick671
 bud_dual_saldo_e2_vl_wal_fwb_2026,gg_belgium,2026,-7407500000,,,budgeted,src_dual_vl_wal_fwb_ba_aju_tick671,strong,Dual Entity II saldo class VL -3.643 + WAL SEC -2.015 + FWB SEC -1.753 = -7.411bn (not TE-additive; metrics differ ESR/SEC); tick671
+bud_vl_dotaties_total_ba2026,vlaanderen_gov,2026,34824300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Totaal BFW dotaties BA2026 34824.3m incl afrekening 2025; tick672
+bud_vl_gewestmiddelen_ba2026,vlaanderen_gov,2026,3728000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Gewestmiddelen BA 3728.0m (FPB Mar sim 3755.5 / Jun 3786.9); tick672
+bud_vl_gemeenschapsmiddelen_ba2026,vlaanderen_gov,2026,31096300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Gemeenschapsmiddelen BA 31096.3m (FPB Mar 31309.8 / Jun 31553.9); tick672
+bud_vl_dotaties_fpb_mar_gap_241m,vlaanderen_gov,2026,241000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,If FPB Mar2026 params on receipts: +241.0m vs VL raming (asymmetry vs dep); tick672
+bud_vl_dotaties_fpb_jun_gap_516_5m,vlaanderen_gov,2026,516500000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,If FPB Jun2026 params: +516.5m vs VL raming (inflation 3.4pct); tick672
+bud_vl_afrekening_2025_on_2026,vlaanderen_gov,2026,-161900000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Negatieve afrekening 2025 on 2026 receipts -161.9m (BO had -141.7); tick672
+bud_vl_dotaties_year_path_plus_135_9m,vlaanderen_gov,2026,135900000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Dotaties 2026 excl afrekeningen path +135.9m vs BO (growth 1.1 infl 1.9); tick672
+bud_vl_opcentiemen_bruto_ba2026,vlaanderen_gov,2026,10790300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Bruto opcentiemen BA 10790.3m path +391.7 vs BO 10398.5; dual WAL IPP; tick672
+bud_vl_opcentiemen_voorschotten_ba2026,vlaanderen_gov,2026,9775700000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Voorschotten gewestelijke PB BA 9775.7m path +254.6; tick672
+bud_vl_fiscale_uitgaven_opcentiemen_ba2026,vlaanderen_gov,2026,1036200000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Fiscale uitgaven (opcentiemen package) BA 1036.2m path +0.2; tick672
+bud_vl_opcentiemen_deel_voorschotten_ba2026,vlaanderen_gov,2026,10811900000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Opcentiemen deel voorschotten 10811.9m path +254.9; tick672
+bud_vl_opcentiemen_afrekeningen_ba2026,vlaanderen_gov,2026,-21600000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Afrekeningen vorige AJ BA -21.6m path +136.9 vs BO -158.5; tick672
+bud_vl_opcentiemen_bruto_2025,vlaanderen_gov,2025,10342400000,,,outturn,src_ccrek_vl_ba2026_receipts_omgeving,strong,Bruto opcentiemen realisatie 2025 10342.4m; tick672
+bud_vl_opcentiemen_bruto_2024,vlaanderen_gov,2024,10086700000,,,outturn,src_ccrek_vl_ba2026_receipts_omgeving,strong,Bruto opcentiemen realisatie 2024 10086.7m; tick672
+bud_vl_afrekening_aj2025_ba,vlaanderen_gov,2026,-71500000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Afrekening AJ2025 in BA -71.5m (BO was -207.1); tick672
+bud_vl_spelen_weddenschappen_ba2026,vlaanderen_gov,2026,4400000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Spelen/Weddenschappen BA 4.4m (BO 40m dropped; tariff 11->15pct); cruise 16.0; no decree yet; tick672
+bud_vl_spelen_cruise_16m,vlaanderen_gov,2026,16000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Spelen tariff raise full-speed effect 16.0m/yr admin est; tick672
+bud_vvc_rec_plan_50m_ba2026,vvc_vlaanderen,2026,50000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,VVC ontvangsten plan 50.0m held BA; CoA feasibility doubts; Crossborder path no VL surcharge; tick672
+bud_vvc_opex_cruise_5_9m,vvc_vlaanderen,2026,5900000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,VVC opex cruise ~5.9m; no VL admin surcharge on fines; tick672
+bud_vl_mvp_transition_88_2m,vlaanderen_gov,2026,88200000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,MVP+EPC overgangsmaatregelen total 88.2m on Energiefonds saldo (no extra credits); tick672
+bud_vl_mvp_transition_38m,vlaanderen_gov,2026,38000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Mijn VerbouwPremie transition cost 38.0m (deadline 28Feb2026); tick672
+bud_vl_epc_label_transition_50_2m,vlaanderen_gov,2026,50200000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,EPC-labelpremie transition 50.2m (deadline 30Jun2026); tick672
+bud_vl_klimaat_to_energie_51_6m,vlaanderen_gov,2026,51600000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Klimaatfonds toelage aan Energiefonds 51.6m path +31.6; REG ODV use opaque; tick672
+bud_vl_klimaatfonds_vek_ba2026,vlaanderen_gov,2026,57300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Vlaams Klimaatfonds provisie VEK BA 57.3m (BO 110.3 path -53; PAS calendar); tick672
+bud_vl_klimaatfonds_vek_bo2026,vlaanderen_gov,2026,110300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Klimaatfonds VEK BO2026 110.3m; tick672
+bud_vmsw_basiskoten_vak_plus_100m,vmsw,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,VMSW basiskoten renteloze leningen HE VAK +100m BA (new policy weak toelichting); tick672
+bud_vmsw_student_housing_fs3_100m,vmsw,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,VMSW FS3 student housing loans to woonmaatschappijen BO already 100m; tick672
+bud_delijn_net_rev_path_minus_25m,de_lijn,2026,-25000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,De Lijn netto-vervoersopbrengsten path -25.0m BA; tick672
+bud_delijn_werkingstoelage_path_plus_39_4m,de_lijn,2026,39400000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,De Lijn werkingstoelage path +39.4m (GIP provisie 33.7 + uitbreiding OV 25.0 - Werkvennootschap -12.6 - efficientie -5.5); tick672
+bud_delijn_exploitanten_path_plus_27_1m,de_lijn,2026,27100000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,De Lijn werkingsuitgaven exploitanten +27.1m (vergroening opstap new contracts); tick672
+bud_delijn_pps_oplevering_3_5m_missing,de_lijn,2026,3500000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,De Lijn PPS oplevering 3.5m 2026 credits missing (2025 revisor 23.7m); tick672
+bud_sluis_terneuzen_vek_21_5m,vlaanderen_gov,2026,21500000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Nieuwe Sluis Terneuzen VEK BA 21.5m (ruiter 76.2 end2025); tick672
+bud_sluis_terneuzen_nl_settle_15m_missing,vlaanderen_gov,2026,15000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,Sluis Terneuzen NL eindafrekening 15.0m in kasplan/GIP but no VEK in BA CoA flag; tick672
+bud_bac_dividend_ordinary_15_3m,vlaanderen_gov,2026,15300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,BAC ordinary dividend 15.3m BA; tick672
+bud_baisa_dividend_oneoff_7_9m,vlaanderen_gov,2026,7900000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,BAISA one-off dividend 7.9m; tick672
+bud_bac_interest_79m,vlaanderen_gov,2026,79000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,BAC participation interest cost 79.0m structural/yr; tick672
+bud_bac_net_gap_63_7m,vlaanderen_gov,2026,-63700000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,BAC net dividend-interest -63.7m (plan -34.0; gap -29.7); with BAISA -55.8; tick672
+bud_bac_plan_net_minus_34m,vlaanderen_gov,2026,-34000000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,BAC multi-year plan net -34.0m 2026; tick672
+bud_vl_oo_provisie_bac_compensate,vlaanderen_gov,2026,33300000,,,budgeted,src_ccrek_vl_ba2026_receipts_omgeving,strong,O&O provisie used to compensate BAC interest (BO 33.3 + BA +1.6 + Roadrunner 7.9); CoA specialty fail; tick672
+bud_dual_opcentiemen_wal_ipp_2026,gg_belgium,2026,10790300000,,,budgeted,src_dual_vl_receipts_omgeving_tick672,strong,Dual VL bruto opcentiemen 10.79bn vs WAL regional IPP class (not sum); tick672
+bud_dual_mvp_renopack_2026,gg_belgium,2026,88200000,,,budgeted,src_dual_vl_receipts_omgeving_tick672,strong,Dual VL MVP transition 88.2m vs WAL Renopack/Ecopack fonds; not TE-additive; tick672

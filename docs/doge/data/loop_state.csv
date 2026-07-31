@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T09:30:00Z,rq_662,671,no,tick671 VL BA2026 residual dual Moody A1 Fitch AA- GIP shortfall 82m Digisprong; next rq_663; progress@680 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T09:45:00Z,rq_663,672,no,tick672 VL BA2026 receipts dot 34.8bn opcentiemen 10.8bn MVP 88m dual; next rq_664; progress@680 in 8; rq_116 deferred

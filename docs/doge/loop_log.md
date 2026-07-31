@@ -7876,3 +7876,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+3); budgets (+50); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_vl_ba2026_residual_l5; rq_662=done; spawn rq_663; loop_state ticks=671
 - FOI opened: gap_vl_ba2026_residual_l5 -- ready (not sent)
 - Next: rq_663; progress@680 in 9 ticks; rq_116 deferred
+
+### 2026-08-01T09:45:00Z -- tick 672
+- Unit: rq_663 (FOI-adjacent dual residual -- **VL BA2026 ch6 receipts + Omgeving MVP/De Lijn/BAC dual**)
+- Found (primary CoA 2026_28): **Dotaties BA EUR34.824bn** (gewest **3.728** gemeenschap **31.096**); FPB Mar gap **+241** / Jun **+516.5** not in rec; afrekening 2025 **-161.9**. **Bruto opcentiemen EUR10.790bn** path **+391.7** (voorschotten **9775.7 +254.6**; fiscale uitg **1036.2**; afrekeningen **-21.6**). Spelen **4.4** (was 40; cruise 16) no decree; VVC **50** doubtful. **MVP+EPC transition EUR88.2m** (38+50.2) on Energiefonds; Klimaat->Energie **51.6 +31.6**; Klimaatfonds VEK **57.3** (from 110.3). **De Lijn** net rev **-25** werking **+39.4** exploit **+27.1** PPS **3.5** missing; Terneuzen **21.5** NL **15** missing. **BAC** interest **79** net **-63.7** (plan -34) via O&O provisie. Dual WAL IPP/Renopack/OTW. Strong CoA; L5 FOI.
+- Wrote: entities (+2); budgets (+45); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_vl_ba2026_receipts_omgeving_l5; rq_663=done; spawn rq_664; loop_state ticks=672
+- FOI opened: gap_vl_ba2026_receipts_omgeving_l5 -- ready (not sent)
+- Next: rq_664; progress@680 in 8 ticks; rq_116 deferred
