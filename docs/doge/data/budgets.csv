@@ -10387,3 +10387,34 @@ bud_poab_throughput_2025,port_antwerp_bruges,2025,266500000,,,outturn,src_poab_j
 bud_poab_us_trade_2025,port_antwerp_bruges,2025,31300000,,,outturn,src_poab_jaarcijfers_2025,strong,COUNT US trade partner tonnes 31.3m largest 2025; tick574
 bud_poab_strike_loss_2025,port_antwerp_bruges,2025,2400000,,,outturn,src_poab_jaarcijfers_2025,strong,COUNT strike loss ~2.4 Mt ~1pct annual (~25 strike days); tick574
 bud_dual_dwg_vs_aquafin_omzet,de_watergroep,2025,974000000,,,outturn,src_dual_water_dwg_aquafin_tick574,strong,EUR dual DWG drink+waste omzet 974m vs Aquafin sanitation 637m 2025; tick574
+bud_poab_containers_mt_2025,port_antwerp_bruges,2025,149400000,,,outturn,src_poab_factsheet_2025,strong,COUNT container tonnage 149.4 Mt (+0.4pct); tick575
+bud_poab_containers_teu_2025,port_antwerp_bruges,2025,13600000,,,outturn,src_poab_factsheet_2025,strong,COUNT containers 13.6m TEU (+0.7pct); tick575
+bud_poab_dry_bulk_mt_2025,port_antwerp_bruges,2025,13100000,,,outturn,src_poab_factsheet_2025,strong,COUNT dry bulk 13.1 Mt (-12.1pct); fertilizers main; coal -61.6pct; tick575
+bud_poab_roro_cars_new_2025,port_antwerp_bruges,2025,3186000,,,outturn,src_poab_factsheet_2025,strong,COUNT new cars RoRo handled 3.186m (-1.2pct); China origin +11pct; tick575
+bud_poab_lng_us_mt_2025,port_antwerp_bruges,2025,3700000,,,outturn,src_poab_factsheet_2025,strong,COUNT US LNG throughput 3.7 Mt (>4x YoY); tick575
+bud_poab_lng_russia_mt_2025,port_antwerp_bruges,2025,4300000,,,outturn,src_poab_factsheet_2025,strong,COUNT Russia LNG origin 4.3 Mt (-16.6pct); EU ban path 2027; tick575
+bud_poab_lng_qatar_mt_2025,port_antwerp_bruges,2025,1500000,,,outturn,src_poab_factsheet_2025,strong,COUNT Qatar LNG 1.5 Mt (-21.7pct); tick575
+bud_poab_us_inbound_mt_2025,port_antwerp_bruges,2025,19700000,,,outturn,src_poab_factsheet_2025,strong,COUNT US inbound 19.7 Mt of 31.3 Mt total partner; tick575
+bud_poab_us_outbound_mt_2025,port_antwerp_bruges,2025,11700000,,,outturn,src_poab_factsheet_2025,strong,COUNT US outbound 11.7 Mt; tick575
+bud_poab_hlh_share_pct_2025,port_antwerp_bruges,2025,29.3,,,outturn,src_poab_factsheet_2025,strong,PCT Hamburg-Le Havre range container market share 29.3 first 9m (-1.2pp); tick575
+bud_poab_cruise_pax_2025,port_antwerp_bruges,2025,466089,,,outturn,src_poab_factsheet_2025,strong,COUNT Zeebrugge cruise passengers 466089 (-16.4pct); 166 ships; tick575
+bud_poab_vessels_2025,port_antwerp_bruges,2025,20236,,,outturn,src_poab_factsheet_2025,strong,COUNT seagoing vessel calls 20236 (+0.2pct); tick575
+bud_poab_gt_m_2025,port_antwerp_bruges,2025,642000000,,,outturn,src_poab_factsheet_2025,strong,COUNT combined gross tonnage 642m GT (+1.5pct); tick575
+bud_poab_conv_gc_yoy_pct_2025,port_antwerp_bruges,2025,1.6,,,outturn,src_poab_factsheet_2025,strong,PCT conventional general cargo +1.6 yoy 2025; steel import +6.7 export -13.9; tick575
+bud_poab_roro_yoy_pct_2025,port_antwerp_bruges,2025,3.0,,,outturn,src_poab_factsheet_2025,strong,PCT RoRo throughput +3 yoy 2025; used cars +37pct; tick575
+bud_poab_petrol_prod_yoy_pct_2025,port_antwerp_bruges,2025,-19.0,,,outturn,src_poab_factsheet_2025,strong,PCT liquid bulk petroleum products -19 yoy (about 60pct of liquid bulk); gasoline -40.8; tick575
+bud_pidpa_prod_pure_mm3_2025,pidpa,2025,62400000,,,outturn,src_pidpa_jv_2025,strong,COUNT pure water produced 62.4 Mm3 2025; tick575
+bud_pidpa_prod_total_mm3_2025,pidpa,2025,64100000,,,outturn,src_pidpa_jv_2025,strong,COUNT total production volume class 64.1 Mm3 (incl rest flows); tick575
+bud_pidpa_users_2025,pidpa,2025,1500000,,,outturn,src_pidpa_jv_2025,strong,COUNT users ~1.5m 2025; tick575
+bud_pidpa_connections_2025,pidpa,2025,603000,,,outturn,src_pidpa_jv_2025,strong,COUNT water connections 603000; tick575
+bud_pidpa_daily_ml_2025,pidpa,2025,178,,,outturn,src_pidpa_jv_2025,strong,COUNT drinkwater per day million liters 178; tick575
+bud_pidpa_digital_meters_cum_2025,pidpa,2025,200000,,,outturn,src_pidpa_jv_2025,strong,COUNT digital meters cum >200000 = 34.1pct of meters eoy2025 joint Farys/DWG/Fluvius; tick575
+bud_pidpa_sewer_km_2025,pidpa,2025,5768,,,outturn,src_pidpa_jv_2025,strong,COUNT sewer network 5768 km; 48 munis after Kapellen Kalmthout Kasterlee join Dec2025; tick575
+bud_pidpa_drink_pipes_km_2025,pidpa,2025,13000,,,outturn,src_pidpa_jv_2025,strong,COUNT drinkwater pipes +13000 km class; tick575
+bud_pidpa_nrw_pct_2025,pidpa,2025,8.6,,,outturn,src_pidpa_jv_2025,strong,PCT NRW estimated 8.60 2025 (ILI 0.45); 2024 final NRW 8.46 ILI 0.42; Blue Deal leader; tick575
+bud_pidpa_pipe_replace_km_2025,pidpa,2025,158,,,outturn,src_pidpa_jv_2025,strong,COUNT replaced 158 km drink pipes 2025 rate 1.18pct; tick575
+bud_pidpa_alt_water_mm3_2025,pidpa,2025,2000000,,,outturn,src_pidpa_jv_2025,strong,COUNT alternative water supply circular/rain/reuse 2.0 Mm3 2025; tick575
+bud_pidpa_energy_primary_kwh_2025,pidpa,2025,81294556,,,outturn,src_pidpa_jv_2025,strong,COUNT primary energy use est 81.294m kWh 2025; on-site renewable ~7.99pct; tick575
+bud_pidpa_co2_total_t_2025,pidpa,2025,14149,,,outturn,src_pidpa_jv_2025,strong,COUNT total fossil GHG 14149 tCO2e 2025 (+1.02pct YoY; -20.75 vs 2016); tick575
+bud_pidpa_wpc_count_2025,pidpa,2025,11,,,outturn,src_pidpa_jv_2025,strong,COUNT water production centres 11 (new Oud-Turnhout 2025); tick575
+bud_pidpa_sewer_munis_2025,pidpa,2025,48,,,outturn,src_pidpa_jv_2025,strong,COUNT sewer municipalities 48 eoy2025; tick575

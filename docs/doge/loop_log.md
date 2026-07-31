@@ -6994,3 +6994,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +23; cmt +3; lb +6; FOI **gap_dwg_accounts_l5_2025** + **gap_poab_authority_budget_l5** ready+drafts; entities; rq_565=done spawn **rq_566**; ticks=574
 - FOI opened: gap_dwg_accounts_l5_2025 + gap_poab_authority_budget_l5 (ready, human send) - not sent
 - Next: prio5 **rq_566**; deferred **rq_116**; progress@580 in 6 ticks
+
+### 2026-07-31T11:00:00Z - tick 575
+- Unit: **rq_566** (FOI-adjacent hole-fill - **POAB factsheet 2025 L5 cargo dual NSP + Pidpa JV2025 ops dual DWG**)
+- Found (strong primary POAB factsheet PDF + Pidpa JV2025 62 pp):
+  - **POAB containers 149.4 Mt / 13.6m TEU** (+0.4% / +0.7%); HLH share **29.3%** (-1.2pp)
+  - **Dry bulk 13.1 Mt** (-12.1%); coal **-61.6%**; fertilizers main
+  - **RoRo new cars 3.186m** (-1.2%); China origin **+11%**; used cars **+37%**; RoRo **+3%**
+  - **LNG:** US **3.7 Mt** (>4x); Russia **4.3 Mt** (-16.6%); Qatar **1.5 Mt**; petroleum products **-19%**
+  - US partner split in/out **19.7 / 11.7 Mt**; cruise Zeebrugge **466k pax** (-16.4%); vessels **20,236** / GT **642m**
+  - **Pidpa:** prod **62.4 Mm3** pure; users **1.5m**; connections **603k**; digital meters **>200k (34.1%)**
+  - Sewer **5,768 km** / **48** munis; NRW **8.60%** ILI **0.45**; replace **158 km** (1.18%); alt water **2 Mm3**
+  - Energy primary **~81.3 GWh**; CO2 **14,149 t**; 11 WPC (new Oud-Turnhout)
+  - **Dual ports:** POAB **266.5 Mt** / omzet ~**507m** vs NSP class **~67 Mt** / **115m** (2023)
+  - **Dual drink:** DWG **974m / 125.4 Mm3 / 3.4m** vs Pidpa **403m / 62.4 / 1.5m**
+- Wrote: sources +4; budgets +31; cmt +4; lb +7; FOI **gap_pidpa_tariff_l5_2025** ready+draft; update gap_poab_authority; entities; raw PDFs; rq_566=done spawn **rq_567**; ticks=575
+- FOI opened: gap_pidpa_tariff_l5_2025 (ready, human send) - not sent; gap_poab_authority_budget_l5 updated
+- Next: prio5 **rq_567**; deferred **rq_116**; progress@580 in 5 ticks

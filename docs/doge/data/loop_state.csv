@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:55:00Z,rq_565,574,no,tick574 DWG omzet 974m dual Aquafin+POAB; next rq_566; progress@580 in 6; rq_116 deferred
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-31T11:00:00Z,rq_566,575,no,tick575 POAB factsheet L5 cargo + Pidpa ops dual DWG; next rq_567; progress@580 in 5; rq_116 deferred
