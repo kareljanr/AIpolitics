@@ -9308,3 +9308,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_767 SACA 021 residual / Entity II; progress@780 in 5; rq_116 deferred
 
+
+## Tick 776 — 2026-08-03T12:00:00Z
+
+- Unit: **rq_767** (FOI-adjacent residual — **Kamer DOC 56 1281/021 SACA non-RGA**, 248p; RGA already tick755)
+- Found (primary 56K1281021):
+  - **eID/RRN EN_61023:** pers **€14.851m** · ops **€56.307m** · Smals/Belnet/Regie **€2.404m** · invest **€2.667m** → spend class **€76.228m**; rec public **€73.578m**
+  - **Consular ADBA:** pers **€13.278m** · ops **€34.303m** → stack **€47.581m** (passport/visa personalisation)
+  - **FEDOREST:** total **€35.972m** (transfer 30.772 · sales 5.2); baremes **€17.886m**
+  - **BELNET** transfer **€22.367m** · pers on dot **€4.832m** · ops on dot **€16.526m**
+  - **HDA:** pers **€6.948m** (+€6m eHealth Sciensano) · ops **€3.161m** · dot **€10.109m**
+  - **Def HORECA** n.lim **€11.625m** · **ANS** ops **€1.79m** · **NICC** transfer **€16.025m** · **KBIN** **€23.652m**
+  - Scientific dots (KBR 17.056 · ARA 16.128 · KMI 14.674 · BIRA 6.871 · KMKG 14.587 · …)
+  - Dual: eID/RRN vs consular document channels (not TE-additive)
+- Wrote: entities +10; budgets +53; commitments +8; leaderboard +9; sources +2; FOI **gap_saca_eid_consular_fedorest_l5** prio8 ready; rq_767=done; spawn **rq_768**; ticks=776
+- FOI: ready only — **do not send**
+- Next: rq_768 Entity II / Kamer 011-012-016 residual; progress@780 in 4; rq_116 deferred

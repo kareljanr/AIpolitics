@@ -16247,3 +16247,56 @@ bud_prison_prefin_fwb_2026,fwb_gov,2026,7375000,,,budgeted,src_kamer_royal_1281_
 bud_prison_prefin_dg_2026,sec_federal,2026,49000,,,budgeted,src_kamer_royal_1281_001_2026,strong,BA 37.40.857503 prison overcrowding prefin DG 49000 EUR 2026; tick775
 bud_prison_prefin_stack_2026,sec_federal,2026,18175000,,,budgeted,src_kamer_royal_1281_001_2026,strong,Prison overcrowding justice-houses prefin stack 18175000 EUR 2026; tick775
 bud_dual_royal_justice_2026,gg_belgium,2026,146988723,,,derived,src_dual_royal_justice_houses_tick775,strong,Dual royal package vs justitiehuizen 147m + prison prefin 18.2m; not TE-additive; tick775
+bud_saca_eid_rrn_pers_2026,saca_eid_rrn,2026,14850892,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.00.00 pers eID+RRN 14.851m 2026; tick776
+bud_saca_eid_rrn_ops_2026,saca_eid_rrn,2026,56306666,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11.00 ops 56.307m 2026 card production class; tick776
+bud_saca_eid_rrn_smals_belnet_2026,saca_eid_rrn,2026,2403849,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.21.00 eGOV Smals Belnet Regie 2.404m 2026; tick776
+bud_saca_eid_rrn_invest_2026,saca_eid_rrn,2026,2667000,,,budgeted,src_kamer_saca_1281_021_2026,strong,74.22 invest RRN+eID 2.667m 2026; tick776
+bud_saca_eid_rrn_spend_class_2026,saca_eid_rrn,2026,76228407,,,budgeted,src_kamer_saca_1281_021_2026,strong,Sum pers+ops+12.21+invest 76.228m 2026 class; tick776
+bud_saca_eid_rrn_rec_public_2026,saca_eid_rrn,2026,73577750,,,budgeted,src_kamer_saca_1281_021_2026,strong,16.20 rec public sector card cost recovery 73.578m 2026; tick776
+bud_saca_eid_rrn_rec_enterprise_2026,saca_eid_rrn,2026,5368900,,,budgeted,src_kamer_saca_1281_021_2026,strong,16.11 rec enterprises 5.369m 2026; tick776
+bud_saca_cons_pers_2026,saca_consulaires,2026,13277991,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.xx pers 13.278m 2026 consular contracts+agents; tick776
+bud_saca_cons_ops_2026,saca_consulaires,2026,34303086,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 ops 34.303m passport visa personalisation; tick776
+bud_saca_cons_ops_core_2026,saca_consulaires,2026,34260162,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11.00/001 FF core 34.260m 2026; tick776
+bud_saca_cons_stack_2026,saca_consulaires,2026,47581077,,,budgeted,src_kamer_saca_1281_021_2026,strong,Pers+ops stack 47.581m 2026; tick776
+bud_saca_cons_telework_2026,saca_consulaires,2026,42924,,,budgeted,src_kamer_saca_1281_021_2026,strong,Telework forfait 42.924 2026; tick776
+bud_fedorest_total_2026,fedorest,2026,35972000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Total rec/exp class 35.972m 2026 (sales+transfer); tick776
+bud_fedorest_transfer_2026,fedorest,2026,30772000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 institutional transfer 30.772m 2026; tick776
+bud_fedorest_sales_2026,fedorest,2026,5200000,,,budgeted,src_kamer_saca_1281_021_2026,strong,16.12+16.20 sales 4.6+0.6=5.2m 2026; tick776
+bud_fedorest_pers_base_2026,fedorest,2026,17886140,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.11 baremes 17.886m 2026; tick776
+bud_fedorest_ops_ext_2026,fedorest,2026,2951000,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 external ops 2.951m 2026; tick776
+bud_fedorest_invest_mat_2026,fedorest,2026,1511000,,,budgeted,src_kamer_saca_1281_021_2026,strong,74.22 materiel 1.511m 2026; tick776
+bud_def_horeca_ops_nlim_2026,saca_defence_horeca,2026,11625000,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 n.lim food/ops 11.625m 2026; tick776
+bud_def_horeca_ops_lim_2026,saca_defence_horeca,2026,35000,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 lim software maint 35k 2026; tick776
+bud_saca_ans_ops_2026,saca_ans,2026,1790000,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 ops 1.79m 2026; tick776
+bud_saca_ans_servers_2026,saca_ans,2026,60000,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.21 public server rent 60k 2026; tick776
+bud_saca_ans_invest_2026,saca_ans,2026,400000,,,budgeted,src_kamer_saca_1281_021_2026,strong,74.22 invest 0.4m 2026; tick776
+bud_saca_ans_spend_class_2026,saca_ans,2026,2311200,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops+servers+withholding 61.2k+invest ~2.311m 2026; tick776
+bud_saca_ans_retrib_2026,saca_ans,2026,2250000,,,budgeted,src_kamer_saca_1281_021_2026,strong,16.11 security clearance retributions 2.25m 2026; tick776
+bud_saca_ans_interest_2026,saca_ans,2026,204000,,,budgeted,src_kamer_saca_1281_021_2026,strong,26.20 debt agency interest 0.204m 2026; tick776
+bud_hda_pers_saca_2026,hda,2026,6948204,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.00 pers 6.948m 2026 incl eHealth Sciensano transfer +6m CM 12/12/2025; tick776
+bud_hda_ops_ext_saca_2026,hda,2026,2677812,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 ops 2.678m 2026; tick776
+bud_hda_ops_public_saca_2026,hda,2026,482984,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.21 public-sector ops 0.483m 2026; tick776
+bud_hda_ops_total_saca_2026,hda,2026,3160796,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops total 3.161m 2026; tick776
+bud_hda_dot_saca_confirm_2026,hda,2026,10109000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 dot 10.109m 2026 confirms 014 path (eHealth fusion); tick776
+bud_belnet_transfer_saca_2026,belnet,2026,22367000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 post-conclave transfer 22.367m 2026 SACA 021; tick776
+bud_belnet_pers_dot_2026,belnet,2026,4832262,,,budgeted,src_kamer_saca_1281_021_2026,strong,Pers on Belnet dot 4.832m 2026; tick776
+bud_belnet_ops_dot_2026,belnet,2026,16526218,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops on Belnet dot 16.526m 2026; tick776
+bud_belnet_services_rec_2026,belnet,2026,7124000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Services sales class 7.124m 2026; tick776
+bud_kbr_pers_dot_2026,kbr,2026,12613643,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.00/001 pers on dot 12.614m 2026; tick776
+bud_kbr_ops_dot_2026,kbr,2026,3956357,,,budgeted,src_kamer_saca_1281_021_2026,strong,12.11 dot ops+telework 3.881+0.075=3.956m 2026; tick776
+bud_ara_pers_dot_2026,ara,2026,14688903,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.00/001 pers on dot 14.689m 2026; tick776
+bud_kmi_pers_dot_2026,kmi,2026,10283753,,,budgeted,src_kamer_saca_1281_021_2026,strong,11.04 pers on dot 10.284m incl STCE -3.6pct 2026; tick776
+bud_kmi_dot_stack_2026,kmi,2026,14674000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 CF_01 stack 14.674m 2026; tick776
+bud_bira_pers_dot_2026,bira,2026,7286457,,,budgeted,src_kamer_saca_1281_021_2026,strong,Pers on dot 7.286m 2026; tick776
+bud_kbin_pers_dot_2026,kbin,2026,17064607,,,budgeted,src_kamer_saca_1281_021_2026,strong,Pers on dot 17.065m 2026; tick776
+bud_kmma_dot_saca_2026,kmma,2026,11784000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 CF_01 11.784m 2026 confirms 018; tick776
+bud_kmskb_pers_dot_2026,kmskb,2026,8041724,,,budgeted,src_kamer_saca_1281_021_2026,strong,Pers on dot 8.042m 2026; tick776
+bud_kik_dot_saca_2026,kik,2026,6705000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 table 6.705m 2026 (narrative 6.810 class); tick776
+bud_nicc_transfer_2026,nicc,2026,16025000,,,budgeted,src_kamer_saca_1281_021_2026,strong,46.10 transfer 16.025m 2026; tick776
+bud_nicc_pers_dot_core_2026,nicc,2026,11199111,,,budgeted,src_kamer_saca_1281_021_2026,strong,Baremes on dot core 11.199m of 16.679m pers stack; tick776
+bud_orb_pers_dot_2026,orb,2026,8695439,,,budgeted,src_kamer_saca_1281_021_2026,strong,Pers on dot 8.695m 2026; tick776
+bud_residence_palace_pers_2026,residence_palace,2026,527000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Staff envelope 0.527m 2026; tick776
+bud_residence_palace_ops_narrative_2026,residence_palace,2026,2345000,,,budgeted,src_kamer_saca_1281_021_2026,medium,Narrative ops 1.15 building+0.245 maint+0.95 tech AV class ~2.345m; tables partial kEUR scale; tick776
+bud_cc_egmont_ops_2026,saca_cc_egmont,2026,338754,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops 0.339m + Sablon 15k in table; tick776
+bud_saca_social_ops_2026,saca_activites_sociales,2026,614000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops 0.614m 2026; tick776
+bud_saca_social_dot_2026,saca_activites_sociales,2026,29000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Dot 29k 2026; tick776

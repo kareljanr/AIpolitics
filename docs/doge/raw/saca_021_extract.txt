@@ -1,0 +1,1910 @@
+﻿============================================================
+KBR
+  p3: ECONOMISCHE CODE : 11.00.00 Globale loonlast CODE ECONOMIQUE : 11.00.00 Charge salariale
+  p3: 11.00.00
+  p3: 11.00.00/001
+  p3: Totaal ΓÇô total   11.840.098 12.619.000 12.613.643
+  p3: 11.00.00
+  p3: 11.00.00/100
+  p3: 11.00.00/110
+  p3: 11.00.00/200
+  p3: Totaal - total   2.553.881 2.051.000 1.629.000
+  p3: 1. 11.00.00/001/CF_01 - Loonlast op dotatie (Sectie
+  p3: 1. 11.00.00/001/CF_01 ΓÇô Charge salariale sur
+  p3: dotation (Section 0) : 12.613.643 euros
+  p3: en het contractueel personeel ten laste van de dotatie
+  p3: et personnel contractuel ├á charge de la dotation.
+  p3: 2. 11.00.00/100/CF_02 - Loonlast op gewone
+  p3: 2. 11.00.00/100/CF_02 ΓÇô Charge salariale sur
+  p4: 3. 11.00.00/ 110/CF_02 - Loonlast op gewone
+  p4: 3. 11.00.00/110/CF_02 ΓÇô Charge salariale sur
+  p4: 4. 11.00.00/ 200/CF_02 - Loonlast op federale
+  p4: 4. 11.00.00/200/CF_02 ΓÇô Charge salariale sur
+  p4: 12.11.00
+  p4: 12.11.00/001
+  p4: 12.11.00/999
+  p4: 3.974.000
+  p4: Totaal ΓÇô total   3.495.825 4.049.000 3.956.357
+  p4: 12.11.00
+  p4: 12.11.00/100
+  p4: 12.11.00/110
+  p4: 12.11.00/200
+  p4: Totaal - total   1.081.809 793.000 764.000
+  p5: 1. 12.11.00/001/CF_01 ΓÇô Algemene werkingskosten
+  p5: op dotatie (Sectie 0) : 3.881.357 euro
+  p5: 1. 12.11.00/001/CF_01 ΓÇô Frais g├⌐n├⌐raux de
+  p5: fonctionnement sur dotation  (Section 0)  :
+  p5: Werkingskosten ten laste van de dotatie
+  p5: Frais de fonctionnement ├á charge de la dotation
+  p5: 2. 12.11.00/999/CF_01 ΓÇô Telewerkpremie op dotatie
+  p5: 2. 12.11.00/999/CF_01 ΓÇô Prime de t├⌐l├⌐travail sur
+  p5: dotation (Section 0) : 75.000 euros
+  p5: Telewerkpremie op dotatie.
+  p5: Prime de t├⌐l├⌐travail sur dotation
+  p5: 3. 12.11.00/100/CF_02 ΓÇô Algemene werkingskosten
+  p5: 3. 12.11.00/100/CF_02 ΓÇô Frais de fonctionnement
+  p5: 4. 12.11.00/110/CF_02 ΓÇô Algemene werkingskosten
+  p5: 4. 12.11.00/110/CF_02 ΓÇô Frais de fonctionnement
+  p6: 5. 12.11.00/200/CF_02 ΓÇô Algemene werkingskosten
+  p6: 5. 12.11.00/200/CF_02 ΓÇô Frais de fonctionnement
+  p6: Totaal ΓÇô total   0 0 120.000
+  p6: op dotatie (Sectie 0) : 120.000 euro
+  p6: fonctionnement sur dotation (Section 0) : 120.000
+  p6: ECONOMISCHE CODE : 74.22.00 Verwerving van
+  p6: CODE ECONOMIQUE : 74.22.00 Acquisition
+  p6: 74.22.00
+  p6: 74.22.00/001
+  p7: Totaal ΓÇô total   186.582 280.000 250.000
+  p7: 74.22.00
+  p7: 74.22.00/110
+  p7: 274.000
+  p7: Totaal - total   534.974 338.000 274.000
+  p7: 1. 74.22.00/001/CF_01 ΓÇô Verwerving van overig
+  p7: materieel op dotatie (Sectie 0) : 250.000euros
+  p7: 1. 74.22.00/001/CF_01 ΓÇô Acquisition dΓÇÖautre
+  p7: mat├⌐riel sur dotation (Section 0) : 250.000euros
+  p7: Uitrusting ten laste van de dotatie
+  p7: Equipements ├á charge de la dotation
+  p7: 2. 74.22.00/110/CF_02 ΓÇô Verwerving van overig
+  p7: 274.000 euro
+  p7: 2. 74.22.00/110/CF_02 ΓÇô Acquisition dΓÇÖautre
+  p7: 274.000 euros
+  p7: Gebruik reserve 1INVEST : 274.000 euro
+  p7: Utilisation de la r├⌐serve 1INVEST : 274.000 euros
+  p7: ECONOMISCHE CODE : 74.50.00 Verwerving van
+  p7: CODE ECONOMIQUE : 74.50.00 Acquisition
+  p7: 74.50.00
+  p7: 74.50.00/001
+  p7: Totaal ΓÇô total   748.768 550.000 555.000
+  p8: 1. 74.50.00/001/CF_01 ΓÇô Verwerving van
+  p8: waardevolle voorwerpen op dotatie  (Sectie 0) :
+  p8: 1. 74.50.00/001/CF_01 ΓÇô Acquisition dΓÇÖobjets de
+  p8: valeur sur dotation (Section 0) : 555.000 euros
+  p8: Totaal ΓÇô total   815.680 300.000 600.000
+  p9: Totaal ΓÇô total   698.368 500.000 310.000
+  p9: Totaal ΓÇô total   0 0 5.000
+  p10: Totaal ΓÇô total   456.534 457.000 457.000
+  p10: Totaal - total   94.993 76.000 80.000
+  p11: ARTIKEL 46 ΓÇô Dotatie en federale subsidies  ARTICLE 46 ΓÇô Dotation et subventions f├⌐d├⌐rales
+  p11: ECONOMISCHE CODE : 46.10.00 Dotatie en
+  p11: CODE ECONOMIQUE : 46.10.00 Dotation et
+  p11: 46.10.00
+  p11: 46.10.00/001
+  p11: Totaal ΓÇô total   17.093.622 17.041.000 17.056.000
+  p11: 46.10.00
+  p11: 46.10.00/110
+  p11: 46.10.00/200
+  p11: Totaal - total   1.930.579 952.933 730.000
+  p11: 1. 46.10.00/001/CF_01 ΓÇô Dotatie ΓÇô Belspo (Sectie 0)
+  p11: 1 46.10.00/001/CF_01 ΓÇô Dotation ΓÇô Belspo (Section
+  p11: Dotatie
+  p11: Dotation
+  p11: 2. 46.10.00/110/CF_02 ΓÇô Overheads op subsidies
+  p11: 2. 46.10.00/110/CF_02 ΓÇô Overheads sur s ubsides
+  p11: 3. 46.10.00/200/CF_02 ΓÇô Federale subsidies ΓÇô
+  p11: Belspo (Sectie 2) : 720.000 euro
+  p11: 3. 46.10.00/200/CF_02 ΓÇô Subsides f├⌐d├⌐rales  ΓÇô
+  p11: Belspo (Section 2) : 720.000 euros
+  p12: ECONOMISCHE CODE: 11.00.00 Globale loonlast
+  p12: CODE ECONOMIQUE : 11.00.00 Co├╗t salarial global
+  p12: 11.00.00
+  p12: 11.00.00/001
+  p12: Totaal - total   14.224.578 14.678.000 14.688.903
+  p12: 11.00.00
+  p12: 11.00.00/100
+  p12: 11.00.00/110
+  p12: 11.00.00/200
+  p12: 11.00.00/300
+  p12: Totaal - total   4.339.100 1.138.000 2.228.400
+  p12: 1. 11.00.00/001/CF_01 - Loonlast op dotatie:
+  p12: 1. 11.00.00/001/CF_01 ΓÇô Charge salariale sur
+  p12: dotation : 14.688.903 euros
+  p12: 2. 11.00.00/001/CF_0 2 -  Loonlast op gewone
+  p12: 2. 11.00.00/001/CF_02 ΓÇô Charge salariale sur
+============================================================
+Archives
+  p12: ECONOMISCHE CODE: 11.00.00 Globale loonlast
+  p12: CODE ECONOMIQUE : 11.00.00 Co├╗t salarial global
+  p12: 11.00.00
+  p12: 11.00.00/001
+  p12: Totaal - total   14.224.578 14.678.000 14.688.903
+  p12: 11.00.00
+  p12: 11.00.00/100
+  p12: 11.00.00/110
+  p12: 11.00.00/200
+  p12: 11.00.00/300
+  p12: Totaal - total   4.339.100 1.138.000 2.228.400
+  p12: 1. 11.00.00/001/CF_01 - Loonlast op dotatie:
+  p12: 1. 11.00.00/001/CF_01 ΓÇô Charge salariale sur
+  p12: dotation : 14.688.903 euros
+  p12: 2. 11.00.00/001/CF_0 2 -  Loonlast op gewone
+  p12: 2. 11.00.00/001/CF_02 ΓÇô Charge salariale sur
+  p13: ECONOMISCHE CODE: 12.11.00 Algemene
+  p13: CODE ECONOMIQUE  : 12.11.00 Frais de
+  p13: 12.11.00
+  p13: 12.11.00/001
+  p13: 12.11.00/999
+  p13: Totaal - total   3.792.137 3.012.000 3.507.393
+  p13: 12.11.00
+  p13: 12.11.00/100
+  p13: 12.11.00/110
+  p13: 12.11.00/200
+  p13: Totaal - total   1.219.262 1.186.315 1.312.398
+  p13: 1. 12.11.00/001/CF_01 ΓÇô Algemene werkingskosten
+  p13: op dotatie: 2.964.721 euro
+  p13: 1. 12.11.00/001/CF_01 ΓÇô Frais de fonctionnement
+  p13: g├⌐n├⌐raux sur Dotation : 3.457.393 euros
+  p13: jaren en afhankelijk van dotatie toelagen
+  p13: 2. 12.11.00/999/CF_01 ΓÇô Telewerkpremie op dotatie:
+  p13: ant├⌐rieures et dotation attribu├⌐e
+  p13: 2. 12.11.00/999/CF_01 ΓÇô  Prime de t├⌐l├⌐travail sur
+  p13: dotation : 50.000 euros
+  p14: ECONOMISCHE CODE: 74.22.00 Verwerving overig
+  p14: CODE ECONOMIQUE : 74.22.00 Acquisition dΓÇÖautre
+  p14: 74.22.00
+  p14: 74.22.00/001
+  p14: Totaal - total   2.670 39.000 39.000
+  p14: 74.22.00
+  p14: 74.22.00/100
+  p14: Totaal - total   238.830 60.483 60.483
+  p14: 1. 74.22.00/001/CF_01 ΓÇô Verwerving van overig
+  p14: 1. 74.22.00/001/CF_01 ΓÇô Acquisition dΓÇÖautre mat├⌐riel
+  p14: Berekening op basis van noden en dotatie toelagen
+  p14: 2. 74.22.00/001/CF_02  ΓÇô Verwerving van overig
+  p14: Calcul sur base des besoins et dotation attribu├⌐e
+  p14: 2. 74.22.00/001/CF_02 ΓÇô Acquisition dΓÇÖautre mat├⌐riel
+  p15: ECONOMISCHE CODE: 74.50.00 Verwerving
+  p15: CODE ECONOMIQUE : 74.50.00 Acquisition objets
+  p15: 74.50.00
+  p15: 74.50.00/100
+  p15: Totaal - total   22.772 39.529 39.529
+  p15: 1. 74.50.00/001/CF_01 ΓÇô Verwerving waardevolle
+  p15: 1. 74.50.00/001/CF_01 ΓÇô Acquisition objets de
+  p15: Totaal - total   58.713 55.000 55.000
+  p16: Totaal - total   1.719.142 1.046.226 1.134.437
+  p17: Totaal - total   1.351.739 652.000 757.950
+  p17: Totaal - total   1.724.343 1.615.000 1.614.624
+  p17: Totaal - total   978.124 480.000 480.000
+  p18: ARTIKEL 46 ΓÇô Dotatie ARTICLE 46 ΓÇô Dotation
+  p18: ECONOMISCHE CODE: 46.10.00
+  p18: CODE ECONOMIQUE : 46.10.00 Transferts de
+  p18: 46.10.00
+  p18: 46.10.00/001
+  p18: 16.174.946
+  p18: Totaal - total   16.174.946 16.114.000 16.128.000
+  p18: 46.10.00
+  p18: 46.10.00/200
+  p18: Totaal - total   1.965.246 469.000 516.604
+  p18: 1. 46.10.00/001/CF_01  ΓÇô 46.10.00 -Inkomens-
+  p18: 1. 46.10.00/001/CF_01 ΓÇô Transferts de revenus ├á
+  p18: Dotatie
+  p18: Dotation
+  p19: 2. 46.10.00/001/CF_02 ΓÇô Inkomensoverdrachten
+  p19: 2. 46.10.00/001/CF_02 ΓÇô Transferts de revenus ├á
+  p19: Totaal - total   333.174 195.000 769.519
+  p19: 1. 46.10.00/001/CF_02 ΓÇô   Inkomstenoverdrachten
+  p19: 1. 46.10.00/001/CF_01 ΓÇô Transferts de revenus
+  p20: ECONOMISCHE CODE : 11.00.00 Lonen en sociale
+  p20: CODE ECONOMIQUE : 11.00.00 Salaires et charges
+  p20: 11.00.00
+  p20: 11.00.00/ CF_01/ 001
+  p20: Total - totaal
+  p20: 11.00.00
+  p20: 11.00.00/ CF_02/ 100
+  p20: 11.00.00/ CF_02/ 110
+  p20: 11.00.00/ CF_02 /200
+  p20: 11.00.00/ CF_02 /300
+  p20: Total - totaal  9.892.834
+  p20: 1.11.00.00/001/CF_01 -  Lonen en sociale lasten op
+  p20: dotatie : 8.695.439 euro
+  p20: 1 11.00.00/001/CF_01 ΓÇô Salaires et charges sociales
+  p20: sur la dotation : 8.695.439 euros
+  p20: 2. 11.00.00/100/CF_02 -  Lonen en sociale lasten op
+  p20: 2 11.00.00/100/CF_02 ΓÇô Salaires et charges sociales
+============================================================
+Sterrenwacht
+  p20: ECONOMISCHE CODE : 11.00.00 Lonen en sociale
+  p20: CODE ECONOMIQUE : 11.00.00 Salaires et charges
+  p20: 11.00.00
+  p20: 11.00.00/ CF_01/ 001
+  p20: Total - totaal
+  p20: 11.00.00
+  p20: 11.00.00/ CF_02/ 100
+  p20: 11.00.00/ CF_02/ 110
+  p20: 11.00.00/ CF_02 /200
+  p20: 11.00.00/ CF_02 /300
+  p20: Total - totaal  9.892.834
+  p20: 1.11.00.00/001/CF_01 -  Lonen en sociale lasten op
+  p20: dotatie : 8.695.439 euro
+  p20: 1 11.00.00/001/CF_01 ΓÇô Salaires et charges sociales
+  p20: sur la dotation : 8.695.439 euros
+  p20: 2. 11.00.00/100/CF_02 -  Lonen en sociale lasten op
+  p20: 2 11.00.00/100/CF_02 ΓÇô Salaires et charges sociales
+  p21: 3. 11.00.00/110/CF_02 -  Lonen en sociale lasten op
+  p21: 3 11.00.00/100/CF_02 ΓÇô Salaires et charges sociales
+  p21: 4. 11.00.00/200/CF_02 -  Lonen en sociale lasten op
+  p21: 4 11.00.00/200/CF_02 ΓÇô Salaires et charges sociales
+  p21: Financement via la dotation STCE et le contrat Belspo
+  p21: 5. 11.00.00/300/CF_02 ΓÇô Lonen en sociale lasten op
+  p21: 5. 11.00.00/300/CF_02 ΓÇô Salaires et charges sociales
+  p22: ECONOMISCHE CODE : 12.11.00 Werking
+  p22: CODE ECONOMIQUE : 12.11.00 Fonctionnement
+  p22: 12.11.00
+  p22: 12.11.00/ CF_01/ 001
+  p22: Total - totaal
+  p22: 12.11.00
+  p22: 12.11.00/ CF_02/ 100
+  p22: 12.11.00/ CF_02/ 110
+  p22: 12.11.00/ CF_02 /200
+  p22: 12.11.00/ CF_02 /300
+  p22: Total - totaal  682.425 910.340 1.122.450
+  p22: 6. 12.11.00/001/CF_01  -  Werking op dotatie : 787.801 euro 6. 12.11.00/001/CF_01 ΓÇô Fonctionnement sur dotation  :
+  p22: 7. 12.11.00/100/CF_02  -  Werking op eigen inkomsten :
+  p22: 7. 12.11.00/ 100/CF_02 ΓÇô Fonctionnement sur recettes
+  p23: 8. 12.11.00/1 10/CF_02  -  Werking op eigen inkomsten  :
+  p23: 8. 12.11.00/1 10/CF_02 ΓÇô Fonctionnement sur recettes
+  p23: 9. 12.11.00/002/CF_02  -  Werking op staatstoelagen  :
+  p23: 9. 12.11.00/002/CF_02 ΓÇô Fonctionnement sur
+  p23: 10. 12.11.00/300 /CF_02  -  Werking op internationale
+  p23: 10. 12.11.00/ 300/CF_02 ΓÇô Fonctionnement sur
+  p24: Total ΓÇô totaal  0
+  p25: Total - totaal
+  p25: Total - totaal  1.418.591
+  p25: autonomie (ADBA) -  Werking op dotatie : 0 euro
+  p25: (SACA) -  Fonctionnement sur dotation : 0 euros
+  p26: ECONOMISCHE CODE : 74.22.00 Uitrusting
+  p26: CODE ECONOMIQUE :74.22 .00 Equipement
+  p26: 74.22.00
+  p26: 74.00.00/ CF_01/ 001
+  p26: Total - totaal
+  p26: 74.22.00
+  p26: 74.22.00/ CF_02/ 100
+  p26: 74.22.00/ CF_02/ 110
+  p26: 74.22.00/ CF_02 /200
+  p26: 74.22.00/ CF_02 /300
+  p26: Total - totaal          387.083      1.575.525 2.060.766
+  p26: 14  74.22.00/001/CF_01 ΓÇô Uitrusting op dotatie 410.000
+  p26: 14.  74.22.00/001/CF_01 ΓÇô Equipement sur dotation
+  p26: 15 74.22.00/100/CF_02 ΓÇô Uitrusting op  eigen
+  p26: 15. 74.22.00/100 /CF_02 ΓÇô Equipement sur recettes
+  p27: 16 74.22.00/110/CF_02 ΓÇô Uitrusting op  eigen
+  p27: 16. 74.22.00/110/CF_02 ΓÇô Equipement sur recettes
+  p27: 17    74.22.00/200/CF_01 ΓÇô Uitrusting op staatstoelagen
+  p27: 17.    74.22.00/200/CF_01 ΓÇô Equipement sur subvention
+  p27: 18 74.22.00/ 300/CF_02 ΓÇô Uitrusting  op international e
+  p27: 18. 74.22.00/300/CF_02 ΓÇô Equipement sur  subventions
+  p28: Total - totaal  0
+  p28: Total - totaal               43.600
+  p28: Total - totaal
+  p28: Total - totaal  373.263 410.000 462.000
+  p29: Total - totaal  331.673  340.233
+  p29: Total - totaal  24.476
+  p30: Total - totaal  1.430
+  p30: Total - totaal  2.214.056 2.070.000 2.270.240
+  p31: Total - totaal  1.031.926 22.063 22.063
+  p31: Total - totaal  10.435
+  p31: Total - totaal  4.590.303 6.377.937 4.187.527
+  p32: Total - totaal
+  p32: Total - totaal
+  p32: Total - totaal
+  p33: op dotatie
+  p33: globales sur la dotation
+  p33: Total - totaal   8.122.506,34 10.278.753 10.283.753
+  p33: 1. 11.04.00/001/CF_01 - Globale loonlast op dotatie
+  p33: globales sur la dotation :10.283.753 euros
+  p33: Loonkosten - dotatie
+  p33: Frais de personnel - dotation
+  p33: Het nieuwe bedrag omvat de STCE -dotatie (voorheen
+  p33: personeelsbudget van de dotatie .
+  p33: Le nouveau montant comprend la dotation STCE
+  p33: du budget de personnel de la dotation.
+  p33: La dotation du centre climat sera int├⌐gr├⌐e en section 0
+============================================================
+KMI
+  p33: op dotatie
+  p33: globales sur la dotation
+  p33: Total - totaal   8.122.506,34 10.278.753 10.283.753
+  p33: 1. 11.04.00/001/CF_01 - Globale loonlast op dotatie
+  p33: globales sur la dotation :10.283.753 euros
+  p33: Loonkosten - dotatie
+  p33: Frais de personnel - dotation
+  p33: Het nieuwe bedrag omvat de STCE -dotatie (voorheen
+  p33: personeelsbudget van de dotatie .
+  p33: Le nouveau montant comprend la dotation STCE
+  p33: du budget de personnel de la dotation.
+  p33: La dotation du centre climat sera int├⌐gr├⌐e en section 0
+  p34: Total - totaal   9.217.245,99 8.858.492 5.818.008
+  p34: in april 2025.  De dotatie aan het klimaatcentrum zal
+  p34: dotation du centre climat sera int├⌐gr├⌐e en section 0
+  p35: ECONOMISCHE CODE : 12.11.00 Aankoop van
+  p35: CODE ECONOMIQUE : 12.11.00  Achat de biens
+  p35: 12.11.00
+  p35: 12.11.00/001
+  p35: 12.11.00/002
+  p35: Total ΓÇô totaal   2.882.415,07 2.570.466 2.729.000
+  p35: 12.11.00
+  p35: 12.11.00/100
+  p35: 12.11.00/110
+  p35: 12.11.00/200
+  p35: 12.11.00/300
+  p35: 12.11.00/004
+  p35: 12.11.00/005
+  p35: Total ΓÇô totaal   672.266,86 1.747.135 804.011
+  p35: 1. 12.11.00/001/CF_01 -  Aankoop van niet -
+  p35: 1. 12.11.00/001/CF_01 ΓÇô    Achat de biens non -
+  p35: Aankopen voor algemene werkingskosten op dotatie
+  p35: dotation
+  p36: dotation du centre climat sera int├⌐gr├⌐e en section 0
+  p36: 2. 12.11.00/ 002/CF_01 -   Aankoop van niet -
+  p36: 2. 12.11.00/002/CF_01 ΓÇô  Achat de biens non -
+  p36: Aankopen voor algemene werkingskosten op dotatie
+  p36: dotation ΓÇô Pole espace.
+  p36: 3. 12.11.00/100/CF_02 -   Aankoop van niet -
+  p36: 3. 12.11.00/100/CF_02 ΓÇô Achat de biens non -
+  p36: 4. 12.11.00/110/CF_02 -   Aankoop van niet-
+  p36: 4. 12.11.00/ 110/CF_02 ΓÇô Achat de biens non -
+  p36: 5. 12.11.00/200/CF_02 -   Aankoop van niet -
+  p36: 5. 12.11.00/200/CF_02 ΓÇô Achat de biens non -
+  p37: Calcul├⌐ selon les contrats .  La dotation du centre
+  p37: 6. 12.11.00/300/CF_02 -   Aankoop van niet -
+  p37: 6. 12.11.00/300/CF_02 ΓÇô Achat de biens non -
+  p37: Total ΓÇô totaal   66.097,20 5.000 5.000
+  p37: Total ΓÇô totaal   14.551,73 10.000
+  p38: Inkomensoverdrachten op dotatie
+  p38: Transferts sur dotation
+  p38: dotatie  betaald wordt.
+  p38: Polaire pay├⌐e sur la dotation est attendue.
+  p38: ECONOMISCHE CODE : 74.22.00  Verwerving  van
+  p38: CODE ECONOMIQUE : 74.22.00  Acquisition
+  p38: 74.22.00
+  p38: 74.22.00/001
+  p38: 74.22.00/002
+  p38: Total ΓÇô totaal   319.076,61 952.179 835.000
+  p38: 74.22.00
+  p38: 74.22.00/100
+  p38: 74.22.00/110
+  p38: 74.22.00/200
+  p38: 74.22.00/300
+  p38: 74.22.00/004
+  p38: Total ΓÇô totaal   1.942.180,87 1.333.545 1.333.545
+  p38: 1. 74.22.00/001/CF_01 Verwerving van overig
+  p38: 1. 74.22.00/001/CF_01 ΓÇô Acquisitions dΓÇÖautres
+  p38: Verwerving overig materiaal op dotatie
+  p38: Acquisitions dΓÇÖautres mat├⌐riels sur dotation
+  p39: 2. 74.22.00/00 2/CF_01 Verwerving van overig
+  p39: 2. 74.22.00/ 002/CF_01 ΓÇô Acquisitions dΓÇÖautres
+  p39: Verwerving overig materiaal  op dotatie - spacepool
+  p39: Acquisitions dΓÇÖautres mat├⌐riels sur dotation  ΓÇôpole
+  p39: 3. 74.22.00/110/CF_02 Verwerving van overig
+  p39: 3. 74.22.00/ 110/CF_02 ΓÇô Acquisitions dΓÇÖautres
+  p39: 4. 74.22.00/ 200/CF_02 Verwerving van overig
+  p39: 4. 74.22.00/ 200/CF_02 ΓÇô Acquisitions dΓÇÖautres
+  p39: 5. 74.22.00/ 300/CF_02 Verwerving van overig
+  p39: 5. 74.22.00/ 300/CF_02 ΓÇô Acquisitions dΓÇÖautres
+  p40: ECONOMISCHE CODE : 74.50.00  Verwerving van
+  p40: CODE ECONOMIQUE : 74.50.00  Acquisition
+  p40: 74.50.00
+  p40: 74.50.00/001
+  p40: Total ΓÇô totaal    10.000 10.000
+  p40: 1. 74.50.00/001/CF_01 Verwerving van waardevolle
+  p40: 1. 74.50.00/001/CF_01 ΓÇô Acquisition dΓÇÖobjets de
+  p40: Verwerving van waardevolle voorwerpen op dotatie
+  p40: Acquisitions dΓÇÖobjets de valeur sur dotation
+  p40: 674.500
+  p41: Total ΓÇô totaal   397.433,43 674.500 342.500
+  p41: Total ΓÇô totaal   22.696,41 36.000 24.000
+  p42: Total ΓÇô totaal   132.956,64 125.000 45.000
+  p42: Total - totaal   415.890,34 436.405 243.000
+  p43: Total - totaal   942.568,89 1.188.753 1.188.753
+  p43: Total - totaal   1.021.523,10 750.000 750.000
+  p43: personeel dat is overgedragen aan de dotatie.
+  p43: qui a ├⌐t├⌐ transf├⌐r├⌐ sur la dotation.
+  p44: personeel dat naar de dotatie is overgedragen  werd
+  p44: transf├⌐r├⌐ sur la dotation a ├⌐t├⌐ d├⌐duit.
+  p44: Total - totaal   499.511,79 407.007 216.214
+  p45: 2.674.622
+  p45: Total - totaal   2.121.243,46 2.674.622 1.859.350
+  p46: ECONOMISCHE CODE : 46.10.00
+  p46: CODE ECONOMIQUE : 46.10.00  Transferts de
+  p46: 46.10.00
+  p46: 46.10.00/001
+  p46: 46.10.00/002
+  p46: 46.10.00/003
+  p46: 46.10.00/004
+  p46: Total - totaal   13.817.884 14.656.000 14.674.000
+  p46: 46.10.00
+  p46: 46.10.00/200
+  p46: 46.10.00/11
+  p46: 74.267
+  p46: Total - totaal   2.302.238,34 2.065.833 1.349.615
+  p46: 1. 46.10.00/001/CF_01 -   Inkomensoverdrachten
+  p46: 1 46.10.00/001/CF_01 ΓÇô  Transferts de revenus ├á
+  p46: van de institutionele overheid ΓÇô  dotatie
+  p46: institutionnel du pouvoir institutionnel ΓÇô  dotation
+  p46: Dotatie met STCE dotatie (voorheen sectie 2)
+  p46: Dotation avec la dotation STCE (anciennement
+  p46: 2.. 46.10.00/002/CF_01 -   Inkomensoverdrachten
+  p46: 2. 46.10.00/002/CF_01 ΓÇô  Transferts de revenus ├á
+  p46: van de institutionele overheid ΓÇô dotatie pool ruimte
+  p46: institutionnel du pouvoir institutionnel ΓÇô dotation pole
+  p47: Dotatie  Pool Ruimte
+  p47: Dotation Space Pole
+  p47: 3. 46.10.00/003/CF_01 -   Inkomensoverdrachten
+  p47: 3. 46.10.00/003/CF_01 ΓÇô  Transferts de revenus ├á
+  p47: van de institutionele overheid ΓÇô  dotatie climate center
+  p47: institutionnel du pouvoir institutionnel ΓÇô  dotation
+  p47: Dotatie
+  p47: Dotation
+  p47: 4. 46.10.00/200/CF_02 -   Inkomensoverdrachten
+  p47: 4. 46.10.00/200/CF_02 ΓÇô  Transferts de revenus ├á
+  p47: 5. 46.10.00/110/CF_02  -   Inkomensoverdrachten
+  p47: institutionele overheid : 74.267 euro
+  p47: 5. 46.10.00/200/CF_02 ΓÇô  Transferts de revenus ├á
+  p47: institutionnel  : 74.267 euros
+  p48: Total - totaal   908.422,80 50.000 25.000
+  p48: Total - totaal   179.295,16 264.896 0
+  p49: Total - totaal   862.878,91 895.171 77.268
+  p50: Total - totaal   721.878,72 433.937 0
+  p52: ECONOMISCHE CODE : 11.00.00 Lonen en sociale
+  p52: CODE ECONOMIQUE : 11.00.00 Salaires et charges
+  p52: 11.00.00
+  p52: 11.00.00/000
+  p52: Totaal - total   5 922 443,07 7 282 842 7 286 457
+  p52: 11.00.00
+  p52: 11.00.00/110
+  p52: 11.00.00/200
+  p52: 11.00.00/300
+  p52: Totaal ΓÇô total   11 203 876,71 10 390 000 11 020 000
+  p52: 1. 11.00.00/000/CF_01  -   Lonen en sociale lasten op
+  p52: dotatie : 7 286 457 euro
+  p52: 1. 11.00.00/000/CF_01 ΓÇô  Salaires et charges
+  p52: sociales sur dotation : 7 286 457 euros
+============================================================
+BIRA
+  p52: ECONOMISCHE CODE : 11.00.00 Lonen en sociale
+  p52: CODE ECONOMIQUE : 11.00.00 Salaires et charges
+  p52: 11.00.00
+  p52: 11.00.00/000
+  p52: Totaal - total   5 922 443,07 7 282 842 7 286 457
+  p52: 11.00.00
+  p52: 11.00.00/110
+  p52: 11.00.00/200
+  p52: 11.00.00/300
+  p52: Totaal ΓÇô total   11 203 876,71 10 390 000 11 020 000
+  p52: 1. 11.00.00/000/CF_01  -   Lonen en sociale lasten op
+  p52: dotatie : 7 286 457 euro
+  p52: 1. 11.00.00/000/CF_01 ΓÇô  Salaires et charges
+  p52: sociales sur dotation : 7 286 457 euros
+  p53: 2. 11.00.00/110/CF_02 -  Lonen en sociale lasten op
+  p53: 2. 11.00.00/110/CF_02 ΓÇô Salaires et charges
+  p53: dotatie (LIT_000) volstaat hiervoor niet, daarom
+  p53: techniques et scientifiques. La dotation actuelle
+  p53: 3. 11.00.00/200/CF_02 ΓÇô Lonen en sociale lasten op
+  p53: 3. 11.00.00/200/CF_02 ΓÇô Salaires et charges
+  p54: 4. 11.00.00/300/CF_02 ΓÇô Lonen en sociale lasten op
+  p54: 4. 11.00.00/ 300/CF_02 ΓÇô Salaires et charges
+  p55: ECONOMISCHE CODE : 12.11.00 Werking  CODE ECONOMIQUE : 12.11.00 Fonctionnement
+  p55: 12.11.00
+  p55: 12.11.00/000
+  p55: Total ΓÇô totaal   758 092,34 843 644 845 385
+  p55: 12.11.00
+  p55: 12.11.00/110
+  p55: 12.11.00/200
+  p55: 12.11.00/300
+  p55: Total - totaal   1 402 700,33 1 480 000 1 410 000
+  p55: 5. 12.11.00/000/CF_01 ΓÇô Werking op dotatie :
+  p55: 5. 12.11.00/000/CF_01 ΓÇô Fonctionnement sur
+  p55: dotation : 845 385  euros
+  p55: 6. 12.11.00/110/CF_02 -  Werking op eigen
+  p55: 6. 12.11.00/110/CF_02 ΓÇô Fonctionnement sur
+  p56: 7. 12.11.00/200/CF_02 ΓÇô Werking op toelagen van de
+  p56: 7. 12.11.00/200/CF_02 ΓÇô Fonctionnement sur
+  p56: 8. 12.11.00/300/CF_02 ΓÇô Werking op internationale
+  p56: 8. 12.11.00/ 300/CF_02 ΓÇô Fonctionnement sur
+  p57: Total - totaal   6 352 951,29 3 050 000 3 600 000
+  p58: ECONOMISCHE CODE : 74.22.00 Uitrusting  CODE ECONOMIQUE : 74.22.00 Equipement
+  p58: 74.22.00
+  p58: 74.22.00/000
+  p58: Total - totaal   82 945,73 147 518 150 000
+  p58: 74.22.00
+  p58: 74.22.00/110
+  p58: 74.22.00/200
+  p58: 74.22.00/300
+  p58: Total - totaal   256 294,74 520 000 700 000
+  p58: 11. 74.22.00/00 0/CF_01 ΓÇô Uitrusting op dotatie :
+  p58: 11. 74.22.00/000/CF_01 ΓÇô Equipement sur dotation :
+  p58: 12. 74.22.00/110/CF_02 ΓÇô Uitrusting  op eigen
+  p58: 12. 74.22.00/110/CF_02 ΓÇô Equipement sur  recettes
+  p59: 13. 74.22.00/200/CF_02 ΓÇô Uitrusting op toelagen van
+  p59: 13. 74.22.00/200/CF_02 ΓÇô Equipement sur
+  p59: 14. 74.22.00/ 300/CF_02 ΓÇô Uitrusting op
+  p59: ECONOMISCHE CODE : 74.50.00 Waardevolle
+  p59: 14. 74.22.00/300/CF_02 ΓÇô Equipement sur
+  p59: CODE ECONOMIQUE : 74.50.00 Objets de val eur
+  p59: 74.50.00
+  p59: 74.50.00/000
+  p59: Total - totaal   54 571,62         53 838         56 000
+  p59: 15. 74.50.00/000/CF_01 ΓÇô Waardevolle objecten op
+  p59: dotatie : 56 000 euro
+  p59: 15. 74.50.00/000/CF_01 ΓÇô Objets de valeur sur
+  p59: dotation : 56 000  euros
+  p60: Total - totaal   1 257 635,94 1 466 842 1 466 842
+  p60: Total - totaal   1 771 912,03 1 530 000 1 530 000
+  p61: Total - totaal   1 363 488,28       2 000 000       2 000 000
+  p62: Total - totaal   12 807 227,09       10 000 000 11 300 000
+  p64: ECONOMISCHE CODE : 46.10.00 Transfers van
+  p64: CODE ECONOMIQUE : 46.10.00 Transferts de
+  p64: 46.10.00
+  p64: 46.10.00/000
+  p64: Total - totaal   5 879 067         6 861 000         6 871 000
+  p64: 46.10.00/200
+  p64: Total - totaal   1 970 298,32         1 910 000         1 900 000
+  p64: 21. 46.10.00/000/CF_01 ΓÇô Dotatie van Belspo :
+  p64: 21. 46.10.00/000/CF_01 ΓÇô Dotation de Belspo  :
+  p64: Dotatie
+  p64: Dotation
+  p64: 22. 46.10.00/200/CF_02 ΓÇô Toelagen van Belspo  :
+  p64: 22. 46.10.00/200/CF_02 ΓÇô Subventions de Belspo : 1
+  p65: 11.00.00
+  p65: 11.00.00/001
+  p65: 11.00.00/002
+  p65: 11.00.00/004
+  p65: Totaal - total   0 17.067.253 17.064.607
+  p65: 11.00.00
+  p65: 11.00.00/001
+  p65: 11.00.00/002
+  p65: 11.00.00/003
+  p65: Totaal - total   0 17.150.891 17.836.927
+  p65: 1. 11.00.00/001/CF_01 -  Globale loonlast op dotatie :
+  p65: 1 11.00.00/001/CF_01 ΓÇô Pr├⌐vision salariale globale
+  p65: sur dotation: 17.064.607 euros
+  p65: 2. 11.00.00/004/CF_02 - Globale loonlast op dotatie ΓÇô
+  p65: 11.00.00/001/CF_02- Globale loonlast op gewone
+  p65: 11.00.00/002/CF_02- Globale loonlast op federale subsidies:
+  p65: 11.00.00/003/CF_02- Globale loonlast op niet-federale
+  p65: 2. 11.00.00/004/CF02- Pr├⌐vision salariale globale sur
+  p65: dotation BELGICA: 0 euros
+  p65: 11.00.00/001/CF_02- Pr├⌐vision salariale globale sur recettes
+  p65: 11.00.00/002/CF_02- Pr├⌐vision salariale globale sur
+  p65: 11.00.00/003/CF_02- Pr├⌐vision salariale globale sur
+============================================================
+KBIN
+  p65: 11.00.00
+  p65: 11.00.00/001
+  p65: 11.00.00/002
+  p65: 11.00.00/004
+  p65: Totaal - total   0 17.067.253 17.064.607
+  p65: 11.00.00
+  p65: 11.00.00/001
+  p65: 11.00.00/002
+  p65: 11.00.00/003
+  p65: Totaal - total   0 17.150.891 17.836.927
+  p65: 1. 11.00.00/001/CF_01 -  Globale loonlast op dotatie :
+  p65: 1 11.00.00/001/CF_01 ΓÇô Pr├⌐vision salariale globale
+  p65: sur dotation: 17.064.607 euros
+  p65: 2. 11.00.00/004/CF_02 - Globale loonlast op dotatie ΓÇô
+  p65: 11.00.00/001/CF_02- Globale loonlast op gewone
+  p65: 11.00.00/002/CF_02- Globale loonlast op federale subsidies:
+  p65: 11.00.00/003/CF_02- Globale loonlast op niet-federale
+  p65: 2. 11.00.00/004/CF02- Pr├⌐vision salariale globale sur
+  p65: dotation BELGICA: 0 euros
+  p65: 11.00.00/001/CF_02- Pr├⌐vision salariale globale sur recettes
+  p65: 11.00.00/002/CF_02- Pr├⌐vision salariale globale sur
+  p65: 11.00.00/003/CF_02- Pr├⌐vision salariale globale sur
+  p66: op dotatie of subsidies
+  p66: sur dotation ou subvention
+  p66: Totaal - total   12.370.520 0 0
+  p66: Totaal - total   10.464.419 0 0
+  p66: weddeschalen op dotatie: 0  euro
+  p66: weddeschalen op dotatie: 0  euro
+  p66: selon les bar├¿mes de salaires sur dotation : 0 euros
+  p66: selon les bar├¿mes de salaires sur dotation: 0  euros
+  p66: 11.00.00/003/CF_02- Pr├⌐vision salariale globale selon
+  p67: Totaal - total   2.315.822 48.747 49.784
+  p67: Totaal - total   1.834.137 0 0
+  p68: ECONOMISCHE CODE : 11.20.00 Sociale bijdragen  CODE ECONOMIQUE : 11.20.00 Cotisations sociales
+  p68: Totaal - total   1.572.357 0 0
+  p68: Totaal - total   2.323.900 0 0
+  p68: 1. 11.20.00/001/CF_01  - Sociale bijdragen ten laste
+  p68: 1 11.20.00/001/CF_01  ΓÇô Cotisations sociales ├á la
+  p68: 2. 11.20.00/001/CF_02 - Sociale bijdragen ten laste
+  p68: 11.20.00/002/CF_02 - Sociale bijdragen ten laste van
+  p68: 11.20.00/003/CF_02 - Sociale bijdragen ten laste van
+  p68: 2. 11.20.00/001/CF02 - Cotisations sociales ├á la
+  p68: 11.20.00/002/CF_02 - Cotisations sociales ├á la charge
+  p68: 11.20.00/003/CF_02 - Cotisations sociales ├á la charge
+  p69: Totaal - total   127.670 0 0
+  p69: Totaal - total   20.091 0 0
+  p69: Totaal - total   176.278 0 0
+  p70: Totaal - total   159.596 0 0
+  p71: 12.11.00
+  p71: 12.11.00/001
+  p71: 12.11.00/004
+  p71: Totaal - total   3.001.172 3.126.282 2.781.241
+  p71: 12.11.00
+  p71: 12.11.00/001
+  p71: 12.11.00/002
+  p71: 12.11.00/003
+  p71: Totaal - total   4.875.749 10.042.817 10.550.730
+  p71: 1. 12.11.00/001/CF_01  - Algemene werkingskosten  op
+  p71: dotatie: 2.781.241 Γé¼
+  p71: 1 12.11.00/001/CF_01 ΓÇô Frais g├⌐n├⌐raux de
+  p71: fonctionnement sur dotation:  2.781.241 Γé¼
+  p71: Voor 12.11.00/001/CF -01: Raming op basis van de
+  p71: Pour le 12.11.00/001/CF-01- Estimation des besoins dans
+  p71: 2. 12.11.00/001/CF_02  ΓÇô Algemene werkingskosten
+  p71: 12.11.00/002/CF_02 - Algemene werkingskosten op
+  p71: 12.11.00/003/CF_03 ΓÇô Algemene werkingskosten op
+  p71: 2. 12.11.00/001/CF_02  ΓÇô Frais g├⌐n├⌐raux de
+  p71: 12.11.00/002/CF_02 - Frais g├⌐n├⌐raux de
+  p71: 12.11.00/003/CF_03 ΓÇô Frais g├⌐n├⌐raux de
+  p72: werkingskosten binnen publieke sector op dotatie
+  p72: fonctionnement au sein du sect eur public sur dotation
+  p72: Totaal - total   0 84.964 84.519
+  p72: Totaal - total   42.027 0 84.519
+  p72: betaald binnen de overheid op dotatie: 84.519 euro
+  p72: dotation: 84.519 euros
+  p72: Huur van gebouwen van publieke sector op dotatie (NUTS
+  p72: Locations de b├ótiments du sect eurs public sur dotation
+  p72: Totaal - total   23.299 22.942 22.529
+  p72: Totaal - total   11.791 1.500 1.500
+  p73: VZWΓÇÖs op de dotatie: 22.529 euro
+  p73: ASBL sur dotation: 22.529 euros
+  p73: Totaal - total   735.032 388.488 388.488
+  p74: Totaal - total   86.285 240.000 240.000
+  p74: met boekhoudkundige autonomie (ADBA) op dotatie
+  p74: comptable (SACA) sur dotation
+  p74: Totaal - total   44.885 36.782 36.120
+  p74: Totaal - total   182.104 156.520 156.520
+  p75: autonomie op dotatie: 36.120 euro
+  p75: dotation: 36.120 euros
+  p75: (SACA) sur subventions f├⌐d├⌐rales :  156.520 euros
+  p75: Totaal - total   73.635 0 0
+  p76: Totaal - total   77.437 0 0
+  p76: CODE ECONOMIQUE : 74.22.00 Acquisition dΓÇÖautre
+  p76: 74.22.00
+  p76: 74.22.00/001
+  p76: 74.22.00/001
+  p76: Totaal - total   231.548 308.894 307.277
+  p76: 74.22.00
+  p76: 74.22.00/001
+  p76: 74.22.00/002
+  p76: 74.22.00/003
+  p76: Totaal - total   1.302.974 1.785.326 2.359.302
+  p77: 1. 74.22.00/001/CF_01  - Verwerving van overig
+  p77: materieel op dotatie: 307.277 Γé¼
+  p77: 1. 74.22.00/001/CF_01  ΓÇô Acquisition dΓÇÖautre mat├⌐riel
+  p77: sur dotation: 307.277 Γé¼
+  p77: 2. 74.22.00/001/CF_02  Verwerving van overig
+  p77: 74.22.00/002/CF_02 Verwerving van overig materieel
+  p77: 74.22.00/003/CF_02 Verwerving van overig materieel
+  p77: 2. 74.22.00/001/CF_02 Acquisition dΓÇÖautre mat├⌐riel sur
+  p77: 74.22.00/002/CF_02 Acquisition dΓÇÖautre mat├⌐riel sur
+  p77: 74.22.00/003/CF_02 Acquisition dΓÇÖautre mat├⌐riel sur
+  p77: CODE ECONOMIQUE : 74.50.00 Acquisition dΓÇÖobjets
+  p77: 74.50.00
+  p77: 74.50.00/001
+  p77: Totaal - total   106.439 133.915 133.214
+  p77: 74.50.00
+  p77: 74.50.00/001
+  p77: Totaal - total   1.589.883 200.000 202.600
+  p77: 1. 74.50.00/001/CF_01  - Verwerving van waardevolle 1. 11.00.00/001/CF_01  ΓÇô  Acquisition dΓÇÖobjets de
+  p78: voorwerpen op dotatie: 133.214 euro
+  p78: valeur sur dotation : 133.214 euros
+  p78: 1. 74.50.00/001/CF_02  - Verwerving van waardevolle
+  p78: voorwerpen op dotatie: 202.600 euro
+  p78: 1. 11.00.00/001/CF_02  ΓÇô  Acquisition dΓÇÖobjets de
+  p78: valeur sur dotation : 202.600 euros
+  p79: Totaal - total   2.091.402 3.419.133 3.419.133
+  p79: Totaal - total   3.137.650 3.326.450 3.326.450
+  p80: Totaal - total   172.778 270.942 270.942
+  p80: Totaal - total   1.742.934 2.418.970 2.418.970
+  p81: Totaal - total   54.245 54.244 54.245
+  p82: Totaal - total   3.422.596 2.992.448 3.024.229
+  p83: Totaal - total   1.609.788 2.154.879 2.740.929
+  p83: Totaal - total   216.326 133.353 212.254
+  p84: Totaal - total   206.740 326.546 420.000
+  p84: Totaal - total   1.221.403 1.772.278 2.147.803
+  p85: ARTIKEL 46 ΓÇô Dotatie en federale subsidies  ARTICLE 46 -  Dotation et subventions f├⌐d├⌐rales
+  p85: ECONOMISCHE CODE : 46.10.00 Dotatie  CODE ECONOMIQUE : 46.10.00 Dotation
+  p85: 46.10.00
+  p85: 46.10.00/001
+  p85: 46.10.00/002
+  p85: 46.10.00/003
+  p85: Totaal - total   23.756.477 23.625.000 23.652.000
+  p85: 46.10.00
+  p85: 46.10.00/001
+  p85: 46.10.00/002
+  p85: 46.10.00/003
+  p85: 46.10.00/004
+  p85: Totaal - total   8.647.446 8.162.310 8.296.426
+  p85: 1. 46.10.00/001/CF_01 ΓÇô Inkomensoverdrachten
+  p85: overheid - Algemene werkingsdotatie:
+  p85: 2. 46.10.00/002/CF_01 ΓÇô Inkomensoverdrachten
+  p85: overheid - dotatie sectie 1 (46.60.33.41.30.25
+  p85: Belgica):  3.683.000 euro + specifieke dotatie JEMU &
+  p85: 3. 46.10.00/003/CF_01 Specifieke dotatie JEMU &
+  p85: 4. 46.10.00/001/CF_02 ΓÇô Specifieke subsidie
+  p85: 1. 46.10.00/001/CF_01 ΓÇô Transferts de revenus ├á
+  p85: institutionnel ΓÇô dotation g├⌐n├⌐rale: 19.509.000 euros
+  p85: 2. 46.10.00/002/CF_01 ΓÇô Transferts de revenus ├á
+  p85: institutionnel - dotation section 1(46.60.33.41.30.25
+  p85: Belgica): 3.683.000 euros + specifieke dotatie JEMU &
+  p85: 3. 46.10.00/003/CF_01 Specifieke dotatie JEMU &
+  p85: 4. 46.10.00/001/CF_02 ΓÇô Subside sp├⌐cifique
+  p85: 5. 46.10.00/003/CF_02 ΓÇô Transferts de revenus ├á
+  p86: 5. 46.10.00/003 /CF_02 ΓÇô Inkomensoverdrachten
+  p86: overheid - Dotatie sectie 2 (46.60.33.41.30.25 JEMU
+  p86: 6. 46.10.00/004/CF_02 ΓÇô Kaderovereenkomst DGCD
+  p86: institutionnel - dotation section 2 (46.60.33.41.30.25
+  p86: 6. 46.10.00/004/CF_02 Accord-cadre DGCD
+  p86: Dotatie  en subsidies
+  p86: Dotation et subsides
+  p86: Dotatie gebaseerd op de initi├½le begroting 2024
+  p86: Dotation bas├⌐e sur le budget initiale 2024 index├⌐
+  p86: Totaal - total   15.063 26.854 26.854
+  p86: Totaal - total   225.000 300.000 300.000
+  p87: Totaal - total   803.382 477.436 477.436
+  p87: Totaal - total   951.172 1.029.566 1.029.566
+  p87: Totaal - total   419.815 425.803 425.803
+  p89: 11.00.00
+  p89: 11.00.00/001 CF_01 lim 10.668 10.722 10.607
+  p89: Total - totaal 10.668 10.722 10.607
+  p89: 11.00.00
+  p89: 11.00.00/001 CF_02 n.lim 1.097 1.598 1.564
+  p89: 11.00.00/002 CF_02 n.lim 4.269 2.731 1.610
+  p89: 11.00.00/003 CF_02 n.lim2 045 79 0
+  p89: Total - totaal 5.571 4.385 3.263
+  p89: 1.1. 11.00.00 CF_01/001
+  p89: Globale┬áloonlast┬áop┬ádotatie
+  p89: 1.2. 11.00.00 CF_02/001
+  p89: 1.3. 11.00.00 CF_02/002
+  p89: 1.4.  11.00.00 CF_02/003
+  p89: 1.1. 11.00.00 CF_01/001
+  p89: Charges┬ásalariales┬áglobales┬ásur┬ádotation
+  p89: 1.2. 11.00.00 CF_02/001
+  p89: 1.3. 11.00.00 CF_02/002
+  p89: 1.4.  11.00.00 CF_02/003
+  p89: dotatie┬á 10.607.000 euro volgens weddeschalen en
+============================================================
+AfricaMuseum
+  p89: 11.00.00
+  p89: 11.00.00/001 CF_01 lim 10.668 10.722 10.607
+  p89: Total - totaal 10.668 10.722 10.607
+  p89: 11.00.00
+  p89: 11.00.00/001 CF_02 n.lim 1.097 1.598 1.564
+  p89: 11.00.00/002 CF_02 n.lim 4.269 2.731 1.610
+  p89: 11.00.00/003 CF_02 n.lim2 045 79 0
+  p89: Total - totaal 5.571 4.385 3.263
+  p89: 1.1. 11.00.00 CF_01/001
+  p89: Globale┬áloonlast┬áop┬ádotatie
+  p89: 1.2. 11.00.00 CF_02/001
+  p89: 1.3. 11.00.00 CF_02/002
+  p89: 1.4.  11.00.00 CF_02/003
+  p89: 1.1. 11.00.00 CF_01/001
+  p89: Charges┬ásalariales┬áglobales┬ásur┬ádotation
+  p89: 1.2. 11.00.00 CF_02/001
+  p89: 1.3. 11.00.00 CF_02/002
+  p89: 1.4.  11.00.00 CF_02/003
+  p89: dotatie┬á 10.607.000 euro volgens weddeschalen en
+  p90: 2.2 11.00.00 CF_02/001 -  Globale loonlast op
+  p90: 2.3. 11.00.00 CF_02/002 Globale┬áloonlast┬áop┬áfederale
+  p90: 2.4 11.00.00 CF_02/003 ┬á Globale┬á loonlast┬á op┬á ┬á nietΓÇÉ
+  p90: 2.2 11.00.00 CF_02/001 - charges salariales globales
+  p90: 2.3. 11.00.00 CF_02/002 ┬áCharges┬ásalariales┬áglobales
+  p90: 2.4 11.00.00 CF_02/003 ┬áCharges┬áglobal┬ásalariales┬ásur
+  p91: 12.11.00
+  p91: 12.11.00/001 CF_01 lim 1.990 1.704 1.727
+  p91: 12.11.00/999 CF_01 lim7 07 27 2
+  p91: Total - totaal 70 72 72
+  p91: 12.11.00
+  p91: 12.11.00/001 CF_02 n.lim 639 1.475 1.652
+  p91: 12.11.00/002 CF_02 n.lim 1.323 3.173 2.581
+  p91: 12.11.00/003 CF_02 n.lim 81 14 41
+  p91: Total - totaal 2.043 4.662 4.274
+  p91: 1.1. 12.11.00 CF_01/001  Algemene werkingskosten
+  p91: op dotatie
+  p91: 1.2. 12.11.00 CF_02/001 Algemene┬áwerkingskosten
+  p91: 1.3. 12.11.00 CF_02/002 ┬áAlgemene┬áwerkingskosten
+  p91: 1.4. 12.11.00 CF_02/003 Algemene┬áwerkingskosten
+  p91: 1.1 12.11.00 CF_01/001 ┬áFonctionnement┬ág├⌐n├⌐ral┬ásur
+  p91: dotation
+  p91: 1.2. 12.11.00 CF_02/001 Fonctionnement g├⌐n├⌐ral sur
+  p91: 1.3. 12.11.00 CF_02/002 Frais┬ág├⌐n├⌐raux┬áde
+  p91: 1.4. 12.11.00 CF_02/003 Frais┬ág├⌐n├⌐raux┬áde
+  p91: 2.1. 12.11.00 CF_01/001 Algemene werkingskosten
+  p91: op┬ádotatie werden bepaald op basis van een analyse
+  p91: Zij vertegenwoordigen in 2026 53% van het totale
+  p91: budget voor werkingskosten op dotatie en zijn voor
+  p91: 2.1. 12.11.00 CF_01/001  Le fonctionnement g├⌐n├⌐ral
+  p91: sur dotation a ├⌐t├⌐ d├⌐termin├⌐ selon lΓÇÖanalyse des
+  p91: En 2026 ils repr├⌐sentaient 53% du budget total des
+  p91: frais de fonctionnement sur dotation. Ils sont
+  p92: De dotatie volstaat niet om de basis-werking van het
+  p92: werkingskosten op dotatie.  Dat is vooral te wijten aan
+  p92: 2.2 12.11.00 CF_02/001
+  p92: Vermits de dotatie niet volstaat om de basis-
+  p92: werkingskosten (cf. 2.2 11.00.00 CF_02/001 supra) .
+  p92: 2.3 12.11.00 CF_02/002
+  p92: 2.4 12.11.00 CF_02/003
+  p92: couverts par la dotation mais financ├⌐s des r├⌐serves
+  p92: fonctionnement sur dotation.  Cela est d├╗
+  p92: 2.2 12.11.00 CF_02/001
+  p92: Comme la dotation ne suffit pas pour couvrir les frais
+  p92: (cf. 2.2 11.00.00 CF_02/001 supra).
+  p92: 2.3 12.11.00 CF_02/002
+  p92: 2.4 12.11.00 CF_02/003
+  p93: Total - totaal 151 0 0
+  p93: Total - totaal 0 0 0
+  p93: Total - totaal 0 0 0
+  p93: Total - totaal 880 10 39
+  p94: autonomie┬á(ADBA)┬áop┬ádotatie
+  p94: dotation
+  p94: Total - totaal 0 27 27
+  p95: 74.10.00
+  p95: 74.10.00/001 CF_01 lim 0 0 0
+  p95: Total - totaal 0 0 0
+  p95: 74.10.00
+  p95: 74.10.00/001 CF_02 n.lim 0 0 0
+  p95: 74.10.00/002 CF_02 n.lim 0 0 0
+  p95: 74.10.00/003 CF_02 n.lim 0 0 0
+  p95: Total - totaal 0 0 0
+  p95: 1.1. 74.10.00 CF_01/001 Verwerving┬á van┬á rollend
+  p95: materieel┬áΓÇÉ┬áop┬ádotatie
+  p95: 1.2. 74.10.00 CF_02/001  Verwerving van rollend
+  p95: 1.3. 74.10.00 CF_02/002 Verwerving┬á van┬á rollend
+  p95: 1.1. 74.10.00 CF_01/001 Acquisition de mat├⌐riel
+  p95: roulant sur dotation
+  p95: 1.2. 74.10.00 CF_02/001 Acquisition de mat├⌐riel
+  p95: 1.3. 74.10.00 CF_02/002 Acquisition┬á de┬á mat├⌐riel
+  p95: 1.4. 74.10.00 CF_02/003 Acquisition┬á de┬á mat├⌐riel
+  p96: 1.4.  74.10.00 CF_02/003 Verwerving┬ávan┬árollend
+  p96: 2.1 74.10.00 CF_01/001  ΓÇô deze┬á uitgaven┬á op┬á dotatie
+  p96: 2.2 74.10.00 CF_02/001  De uitgaven zijn een
+  p96: 2.3 74.10.00 CF_02/002 hier werd rekening┬ágehouden
+  p96: 2.4 74.10.00 CF_02/003 hier werd rekening┬ágehouden
+  p96: werkingskosten┬á gedekt┬á krijgt┬á door┬á de┬á dotatie┬á zijn┬á de
+  p96: 2.1 74.10.00 CF_01/001 -  les d├⌐penses sur dotation
+  p96: 2.2 74.10.00 CF_02/001  Les d├⌐penses refl├¿tent le
+  p96: 2.3 74.10.00 CF_02/002 en tenant compte des projets
+  p96: 2.4 74.10.00 CF_02/003 en tenant compte des projets
+  p96: de┬áfonctionnement┬áavec┬ála┬ádotation┬áattribu├⌐┬áil┬ánΓÇÖy┬áa
+  p96: 74.22.00
+  p96: 74.22.00/001 CF_01 lim 158 103 87
+  p96: Total - totaal 158 103 87
+  p96: 74.22.00
+  p96: 74.22.00/001 CF_02 n.lim 21 153 240
+  p96: 74.22.00/002 CF_02 n.lim 139 5 4
+  p96: 74.22.00/003 CF_02 n.lim 7 0 37
+  p96: Total - totaal 167 158 281
+  p96: 1.1. 74.22.00 CF_01/001 Verwerving┬á van┬á overig
+  p96: materieel┬áΓÇÉ┬áop┬ádotatie
+  p96: 1.2. 74.22.00 CF_02/001  Verwerving van overig
+  p96: 1.3. 74.22.00 CF_02/002 Verwerving┬á van┬á overig
+  p96: 1.4.  74.22.00 CF_02/003 Verwerving┬ávan┬áoverig
+  p96: 1.1. 74.22.00 CF_01/001 Acquisition dΓÇÖautre mat├⌐riel
+  p96: sur dotation
+  p96: 1.2. 74.22.00 CF_02/001 Acquisition dΓÇÖautre mat├⌐riel
+  p96: 1.3. 74.22.00 CF_02/002 Acquisition┬ád'autre┬ámat├⌐riel
+  p96: 1.4. 74.22.00 CF_02/003 Acquisition┬ád'autre┬ámat├⌐riel
+  p97: 2.1 74.22.00 CF_01/001  ΓÇô deze┬á uitgaven┬á op┬á dotatie
+  p97: 2.2 74.22.00 CF_02/001  De uitgaven zijn een
+  p97: 2.3 74.22.00 CF_02/002 hier werd rekening ┬ágehouden
+  p97: 2.4 74.22.00 CF_02/003 hier werd rekening┬ágehouden
+  p97: 2.1 74.22.00 CF_01/001 - les d├⌐penses sur dotation
+  p97: 2.2 74.22.00 CF_02/001  Les d├⌐penses refl├¿tent le
+  p97: 2.3 74.22.00 CF_02/002 en tenant compte des projets
+  p97: 2.4 74.22.00 CF_02/003 en tenant compte des projets
+  p97: 74.50.00
+  p97: 74.50.00/001 CF_01 lim4 94 54 1
+  p97: Total - totaal 49 45 41
+  p97: 74.50.00
+  p97: 74.50.00/001 CF_02 n.lim 0 5 5
+  p97: 74.50.00/002 CF_02 n.lim 0 0 0
+  p97: Total - totaal 0 5 5
+  p97: 1.1 ┬á 74.50.00 CF_001 Verwerving┬á van┬á waardevolle
+  p97: voorwerpen┬áop┬ádotatie
+  p97: 1.2. 74.50.00 CF_02/001 Verwerving┬ávan┬áwaardevolle
+  p97: 1.3. 74.50.00 CF_02/002 Verwerving┬á van
+  p97: 1.1. 74.50.00 CF_01/001 ┬áAcquisition┬ád'objets┬áde
+  p97: valeur┬ásur┬ádotation
+  p97: 1.2. 74.50.00 CF_02/001 Acquisition┬ád'objets┬áde
+  p97: 1.3. 74.50.00 CF_02/002 ┬á Acquisition┬á d'objets┬á de
+  p98: 2.1 74.50.00 CF_01/001  -  raming wordt bepaald op
+  p98: 2.2. 74.50.00 CF_02/001 raming wordt bepaald op
+  p98: 2.3. 74.50.00 CF_02/002 ┬á raming wordt bepaald op
+  p98: 2.1 74.50.00 CF_01/001 - les d├⌐penses sur dotation
+  p98: 2.2. 74.50.00 CF_02/001 - les d├⌐penses sur dotation
+  p98: 2.3. 74.50.00 CF_02/002  les d├⌐penses sur dotation
+  p98: Total - totaal 700 317 288
+  p98: Total - totaal 792 871 800
+  p98: Total - totaal 6 0 0
+  p98: Total - totaal 113 92 92
+  p99: Total - totaal 309 309 251
+  p100: Total - totaal 0 0 0
+  p100: Total - totaal 0 0 0
+  p100: Total - totaal 1 1 1
+  p100: Total - totaal 1.316 1.226 1.050
+  p102: Total - totaal 279 64 175
+  p102: Total - totaal 0 0 0
+  p102: Total - totaal 6 0 0
+  p102: Total - totaal 51 0 0
+  p102: Total - totaal 1 0 56
+  p103: Dotation┬á g├⌐n├⌐rale┬á de┬á fonctionnement┬á et┬á subsides
+  p103: Algemene┬áwerkingsdotatie┬áen┬á┬áfederale┬ásubsidies
+  p103: 46.10.00
+  p103: 46.10.00/001 CF_01 lim 12.198 11.771 11.784
+  p103: Total - totaal 12.198 11.771 11.784
+  p103: 46.10.00
+  p103: 46.10.00/001 CFΓÇÉ02 n.lim 0 0 0
+  p103: 46.10.00/002 CFΓÇÉ02 n.lim 8.027 5.489 5.088
+  p103: Total - totaal 8.027 5.489 5.088
+  p103: Total - totaal 227 50 0
+  p103: Total - totaal 0 0 0
+  p103: 1.1. 46.10.00 CF_01/001 ┬áInkomensoverdrachten
+  p103: werkingsdotatie
+  p103: 1.2. 46.10.00 CF_02/001 Inkomensoverdrachten
+  p103: 1.3. 46.10.00 CF_02/002 Inkomensoverdrachten
+  p103: 1.1. 46.10.00 CF_01/001 Transferts┬áde┬árevenus┬á├á
+  p103: institutionnel┬áΓÇÉ┬áDotation┬ág├⌐n├⌐rale┬áde
+  p103: 1.2. 46.10.00 CF_02/001 Inkomensoverdrachten
+  p103: 1.3. 46.10.00 CF_02/002 Transferts┬áde┬árevenus┬á├á
+  p104: 2.1. 46.10.00 CF_01/001
+  p104: Algemene┬á werkingsdotatie┬á :┬á bedrag┬á medeg edeeld
+  p104: door┬áBelspo.┬á Aangepast┬á voor┬á 1.8%┬á besparing┬áin┬á2025
+  p104: 2.2 46.10.00 CF_02/001  rekening houdende met de
+  p104: 2.3 46.10.00 CF_02/002  rekening houdende met de
+  p104: 2.1. 46.10.00 CF-01/001
+  p104: dotation montant communiqu├⌐ par Belspo.  Ajust├⌐
+  p104: 2.2. 46.10.00 CF_02/001   sur base de la situation
+  p104: 2.3. 46.10.00 CF_02/002 sur base de la situation
+  p104: Total - totaal 31 0 0
+  p104: Total - totaal 29 0 0
+  p106: ECONOMISCHE CODE : 11.00.00 Globale loonlast CODE ECONOMIQUE : 11.00.00 Pr├⌐vision salariale
+  p106: 11.00.00
+  p106: 11.00.00/001 CF_01 lim 9.604.733 10.034.000 10.107.587
+  p106: Totaal - total 9.604.733 10.034.000 10.107.587
+  p106: 11.00.00
+  p106: 11.00.00/100
+  p106: 11.00.00/110
+  p106: 11.00.00/200
+  p106: Totaal - total 3.483.837 2.726.990 2.961.135
+  p106: 1. 11.00.00/001/CF_01 - Globale loonlast op dotatie  :
+  p106: 1. 11.00.00/001/CF_01 ΓÇô Charge salariale globale sur
+  p106: dotation : 10.107.587 euros
+  p106: Personeelsuitgaven ten laste van de dotatie
+  p106: Frais de personnel ├á charge de la dotation
+  p106: 2. 11.00.00/100/CF_02 - Globale loonlast op gewone
+  p106: 2. 11.00.00/100/CF_02 ΓÇô Charge salariale globale sur
+============================================================
+KMKG
+  p106: ECONOMISCHE CODE : 11.00.00 Globale loonlast CODE ECONOMIQUE : 11.00.00 Pr├⌐vision salariale
+  p106: 11.00.00
+  p106: 11.00.00/001 CF_01 lim 9.604.733 10.034.000 10.107.587
+  p106: Totaal - total 9.604.733 10.034.000 10.107.587
+  p106: 11.00.00
+  p106: 11.00.00/100
+  p106: 11.00.00/110
+  p106: 11.00.00/200
+  p106: Totaal - total 3.483.837 2.726.990 2.961.135
+  p106: 1. 11.00.00/001/CF_01 - Globale loonlast op dotatie  :
+  p106: 1. 11.00.00/001/CF_01 ΓÇô Charge salariale globale sur
+  p106: dotation : 10.107.587 euros
+  p106: Personeelsuitgaven ten laste van de dotatie
+  p106: Frais de personnel ├á charge de la dotation
+  p106: 2. 11.00.00/100/CF_02 - Globale loonlast op gewone
+  p106: 2. 11.00.00/100/CF_02 ΓÇô Charge salariale globale sur
+  p107: 3. 11.00.00/110/CF_02 - Globale loonlast op
+  p107: 3. 11.00.00/110/CF_02 ΓÇô Charge salariale globale sur
+  p107: 4. 11.00.00/200/CF_02 - Globale loonlast op federale
+  p107: 4. 11.00.00/200/CF_02 ΓÇô Charge salariale globale sur
+  p108: ECONOMISCHE CODE : 12.11.00 Algemene
+  p108: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p108: 12.11.00
+  p108: 12.11.00/001
+  p108: Totaal - total   2.608.629 4.176.282 4.682.136
+  p108: 12.11.00
+  p108: 12.11.00/100
+  p108: 12.11.00/200
+  p108: Totaal - total   846.003 840.241 1.003.000
+  p108: 1. 12.11.00/001/CF_01 -  Algemene werkingskosten
+  p108: op dotatie : 4.682.136 euro
+  p108: 1. 12.11.00/001/CF_01 ΓÇô Frais g├⌐n├⌐raux de
+  p108: fonctionnement sur dotation : 4.682.136 euros
+  p108: Werkingskosten ten laste van de dotatie
+  p108: Frais de fonctionnement ├á charge de la dotation
+  p108: Analyse van de node, binnen de limieten van de dotatie
+  p108: Analyse des besoins, dans les limites de la dotation
+  p109: 3. 12.11.00/200/CF_02 - Algemene werkingskosten op
+  p110: ECONOMISCHE CODE : 74.22.00 Verwerving van
+  p110: CODE ECONOMIQUE : 74.22.00 Acquisition
+  p110: 74.22.00
+  p110: 74.22.00/001
+  p110: Totaal - total   87.222 921.206 419.950
+  p110: 74.22.00
+  p110: 74.22.00/100
+  p110: 74.22.00/110
+  p110: 74.22.00/200
+  p110: Totaal - total   1.955.409 3.571.656 1.272.000
+  p110: 1. 74.22.00/001/CF_01 -  Verwerving van overig
+  p110: materieel op dotatie : 419.950 euro
+  p110: 1. 74.22.00/001/CF_01 ΓÇô Acquisition dΓÇÖautre mat├⌐riel
+  p110: sur dotation : 419.950 euros
+  p110: Verwerving van overig materieel ten laste van de dotatie
+  p110: Acquisition dΓÇÖautre mat├⌐riel ├á charge de la dotation
+  p110: Analyse van de node, binnen de limieten van de dotatie
+  p110: Analyse des besoins, dans les limites de la dotation
+  p110: 2. 74.22.00/100/CF_02 - Verwerving van overig
+  p110: 2. 74.22.00/100/CF_02 ΓÇô  Acquisition dΓÇÖautre mat├⌐riel
+  p110: 3. 74.22.00/110/CF_02 - Verwerving van overig
+  p110: 3. 74.22.00/110/CF_02 ΓÇô Acquisition dΓÇÖautre mat├⌐riel
+  p111: 4. 74.22.00/200/CF_02 - Verwerving van overig
+  p111: 4. 74.22.00/200/CF_02 ΓÇô Acquisition dΓÇÖautre mat├⌐riel
+  p112: ECONOMISCHE CODE : 74.50.00 Verwerving van
+  p112: CODE ECONOMIQUE : 74.50.00 Acquisition
+  p112: 74.50.00
+  p112: 74.50.00/001
+  p112: Totaal - total   14.098 31.512 30.000
+  p112: 1. 74.50.00/001/CF_01 -  Verwerving van waardevolle
+  p112: voorwerpen op dotatie : 30.000 euro
+  p112: 1. 74.50.00/001/CF_01 ΓÇô Acquisition dΓÇÖobjets de
+  p112: valeur sur dotation : 30.000 euros
+  p112: dotatie
+  p112: Acquisition dΓÇÖobjets de valeur ├á charge de la dotation
+  p112: Analyse van de node, binnen de limieten van de dotatie
+  p112: Analyse des besoins, dans les limites de la dotation
+  p113: Totaal - total   711.883 235.000 790.000
+  p114: Totaal - total   2.345.860 3.131.099 1.922.501
+  p115: Totaal - total   36.884 0 15.000
+  p116: Totaal - total   659.809 653.000 652.673
+  p116: Totaal - total   231.830 96.278 232.000
+  p117: ECONOMISCHE CODE : 46.10.00
+  p117: CODE ECONOMIQUE : 46.10.00 : Transferts de
+  p117: 46.10.00
+  p117: 46.10.00/001 CF_01 lim 14.552.405 14.510.000 14.587.000
+  p117: Totaal - total 14.552.405 14.510.000 14.587.000
+  p117: 46.10.00
+  p117: 46.10.00/200 CF_02 n.lim 1.641.065 900.000 1.399.520
+  p117: Totaal - total 1.641.065 900.000 1.399.520
+  p117: 1. 46.10.00/001/CF_01 -  Inkomensoverdrachten van
+  p117: 1. 46.10.00/001/CF_01 ΓÇô Transferts de revenu du
+  p117: Dotatie
+  p117: Dotation
+  p117: 2. 46.10.00/200/CF_02 -  Inkomensoverdrachten van
+  p117: 2. 46.10.00/200/CF_02 ΓÇô Transferts de revenu du
+  p118: ECONOMISCHE CODE: 11.00.00
+  p118: CODE ECONOMIQUE: 11.00.00
+  p118: 11.00.00
+  p118: 11.00.00/ 000
+  p118: Total ΓÇô totaal
+  p118: 11.00.00
+  p118: 11.00.00/100&110
+  p118: 11.00.00/100
+  p118: 11.00.00/300
+  p118: Total - totaal
+  p118: gedragen door de dotatie (lim.) en gegenereerd
+  p118: d├⌐penses ├á charge de la dotation (lim.) et
+  p118: grenzen van de algemene dotatie of de eigen
+  p118: cr├⌐dits de la dotation g├⌐n├⌐rale ou des recettes
+============================================================
+KMSK
+  p118: ECONOMISCHE CODE: 11.00.00
+  p118: CODE ECONOMIQUE: 11.00.00
+  p118: 11.00.00
+  p118: 11.00.00/ 000
+  p118: Total ΓÇô totaal
+  p118: 11.00.00
+  p118: 11.00.00/100&110
+  p118: 11.00.00/100
+  p118: 11.00.00/300
+  p118: Total - totaal
+  p118: gedragen door de dotatie (lim.) en gegenereerd
+  p118: d├⌐penses ├á charge de la dotation (lim.) et
+  p118: grenzen van de algemene dotatie of de eigen
+  p118: cr├⌐dits de la dotation g├⌐n├⌐rale ou des recettes
+  p119: KMSKB / uitgaven ten laste van de dotatie (lim.)
+  p119: d├⌐penses ├á charge de la dotation (lim.) et
+  p119: grenzen van de algemene dotatie of de eigen
+  p119: cr├⌐dits de la dotation g├⌐n├⌐rale ou des recettes
+  p119: 12.11.00
+  p119: 12.11.00/ 000 CF_01 lim 3.921.583,32 4 053 000,00 4 036 276,00
+  p119: Total - totaal
+  p119: 12.11.00
+  p119: 12.11.00/ 100&110
+  p119: 12.11.00/ 002 CF_02 n.lim 50 118,04 126 561,00 126 561,00
+  p119: 12.11.00/ 003 CF_02 n.lim 29 685,00 15 000,00 15 000,00
+  p119: Total - totaal   4 012 006.5 2 475 561,00 2 149 061,00
+  p120: 74.22.00
+  p120: 74.22.00/ 000
+  p120: Total ΓÇô totaal
+  p120: 74.10.00
+  p120: 74.10.00/ 001
+  p120: 74.22.00
+  p120: 74.22.00/100&110
+  p120: 74.22.00/200
+  p120: 74.22.00/300
+  p120: 74.50.00
+  p120: 74.50.00/ 100
+  p120: Total - totaal
+  p120: 306 774.12
+  p120: van de dotatie (lim.) en gegenereerd door eigen
+  p120: dotation (lim.) et g├⌐n├⌐r├⌐es par les moyens
+  p120: grenzen van de algemene dotatie of de eigen
+  p120: cr├⌐dits de la dotation g├⌐n├⌐rale ou des recettes
+  p121: Total ΓÇô totaal
+  p122: Total - totaal
+  p123: Total - totaal
+  p124: 46.10.00
+  p124: 46.10.00/ 000
+  p124: Total ΓÇô totaal
+  p124: 46.10.00
+  p124: 46.10.00/ 100
+  p124: 46.10.00/ 200
+  p124: 46.10.00/300
+  p124: Total - totaal
+  p124: werkingsdotatie en andere overdrachten van de
+  p124: institutionnel du pouvoir institutionnel - Dotation
+  p124: Algemene werkingsdotatie: bedrag doorgegeven
+  p124: door Belspo (berekening op basis van 2025 +/-
+  p124: Dotation g├⌐n├⌐rale de fonctionnement: montant
+  p124: transmis par Belspo (calcul sur base de 2025 +/-
+  p125: Total - totaal
+  p126: ECONOMISCHE CODE : 11.00.00 Globale Loonlast
+  p126: 11.00.00
+  p126: 11.00.00/001 CF_01 lim 5.728.390 0
+  p126: Total - totaal 0 5.728.390 0
+  p126: 11.00.00
+  p126: 11.00.00/001 CF_02 n.lim
+  p126: 11.00.00/002 CF_02 n.lim 284.338 284.338
+  p126: 11.00.00/003 CF_02 n.lim
+  p126: Total - totaal 0 284.338 284.338
+  p126: Globale loonlast op dotatie
+  p126: 11.00.00/001/CF_01 - Globale Loonlast op dotatie:  0 euro
+  p126: 11.00.00/001/CF_02- Globale loonlast op gewone ontvangsten: 0 euro
+  p126: 11.00.00/002/CF_02- Totale loonlast op federale subsidies: 284.338 euro
+  p126: 11.00.00/003/CF_02- Totale loonlast op niet-federale subsidies:  0 euro
+  p126: Total - totaal 4.536.985 0 4.627.000
+  p126: Total - totaal 3.246.414 415.662 3.472.462
+  p126: 11.11.00/001/CF_01 - Loonlast volgens barema ten laste van de dotatie: 4.627.000 euro
+  p126: 11.00.00/003/CF_02- Pr├⌐vision salarialesur subventions non-f├⌐d├⌐rales:  0 euros
+  p126: 11.00.00/001/CF_01ΓÇô Pr├⌐vision Salariale globale sur dotation :0 euros
+  p126: 11.00.00/002/CF_02- Pr├⌐vision salariale globale sur subventions f├⌐d├⌐rales: 284.338 euros
+  p126: 11.00.00/001/CF_02- Pr├⌐vision Salariale sur recettes ordinaires:  0 euros
+  p126: Pr├⌐vision salariale globale sur dotation
+  p126: 11.11.00/001/CF_01ΓÇô R├⌐mun├⌐ration bar├¿mique sur dotation  : 4.627.000 euros
+  p126: CODE ECONOMIQUE : 11.00.00 Pr├⌐vision salariale globale
+============================================================
+KIK
+  p126: ECONOMISCHE CODE : 11.00.00 Globale Loonlast
+  p126: 11.00.00
+  p126: 11.00.00/001 CF_01 lim 5.728.390 0
+  p126: Total - totaal 0 5.728.390 0
+  p126: 11.00.00
+  p126: 11.00.00/001 CF_02 n.lim
+  p126: 11.00.00/002 CF_02 n.lim 284.338 284.338
+  p126: 11.00.00/003 CF_02 n.lim
+  p126: Total - totaal 0 284.338 284.338
+  p126: Globale loonlast op dotatie
+  p126: 11.00.00/001/CF_01 - Globale Loonlast op dotatie:  0 euro
+  p126: 11.00.00/001/CF_02- Globale loonlast op gewone ontvangsten: 0 euro
+  p126: 11.00.00/002/CF_02- Totale loonlast op federale subsidies: 284.338 euro
+  p126: 11.00.00/003/CF_02- Totale loonlast op niet-federale subsidies:  0 euro
+  p126: Total - totaal 4.536.985 0 4.627.000
+  p126: Total - totaal 3.246.414 415.662 3.472.462
+  p126: 11.11.00/001/CF_01 - Loonlast volgens barema ten laste van de dotatie: 4.627.000 euro
+  p126: 11.00.00/003/CF_02- Pr├⌐vision salarialesur subventions non-f├⌐d├⌐rales:  0 euros
+  p126: 11.00.00/001/CF_01ΓÇô Pr├⌐vision Salariale globale sur dotation :0 euros
+  p126: 11.00.00/002/CF_02- Pr├⌐vision salariale globale sur subventions f├⌐d├⌐rales: 284.338 euros
+  p126: 11.00.00/001/CF_02- Pr├⌐vision Salariale sur recettes ordinaires:  0 euros
+  p126: Pr├⌐vision salariale globale sur dotation
+  p126: 11.11.00/001/CF_01ΓÇô R├⌐mun├⌐ration bar├¿mique sur dotation  : 4.627.000 euros
+  p126: CODE ECONOMIQUE : 11.00.00 Pr├⌐vision salariale globale
+  p127: Total - totaal 825.436 107.610
+  p127: Total - totaal 523.063 1.290.252 922.200
+  p127: 11.12.00/001/CF_01 -  Loonlast op dotatie: 900.000 euro
+  p127: ECONOMISCHE CODE : 11.20.00 Raming van de door de werkgevers verschuldigde sociale
+  p127: Total - totaal 509.133 0 340.000
+  p127: Total - totaal 792.629 0 0
+  p127: 11.20.00/001/CF_01 -  Raming van de door de werkgevers verschuldigde sociale bijdragen ten laste van de
+  p127: dotatie: 340.000 euro
+  p127: 11.20.00/001/CF_02- Raming van de door de werkgevers verschuldigde sociale bijdragen ten laste van de
+  p127: 11.20.00/002/CF_02- Raming van de door de werkgevers verschuldigde sociale bijdragen ten laste van de
+  p127: 11.20.00/003/CF_02-Raming van de door de werkgevers verschuldigde sociale bijdragen, betaald aan
+  p127: 11.20.00/001/CF_01ΓÇô Pr├⌐vision de Cotisations sociales ├á charge des employeurs sur dotation : 340.000  euros
+  p127: 11.20.00/002/CF_02- Pr├⌐vision de Cotisations sociales ├á charge des employeurs sur subventions f├⌐d├⌐rales  : 0 euros
+  p127: 11.20.00/003/CF_02- Pr├⌐vision de Cotisations sociales ├á charge des employeurs sur subventions non-f├⌐d├⌐rales:  0
+  p127: CODE ECONOMIQUE : 11.20.00 Pr├⌐vision de Cotisations sociales ├á charge des employeurs
+  p127: 11.20.00/001/CF_02- Pr├⌐vision de Cotisations sociales ├á charge des employeurssur Recettes propres annuelles  :  0
+  p127: 11.12.00/001/CF_01ΓÇô Pr├⌐vision salariale  sur dotation : 900.000 euros
+  p128: Total - totaal 114.501 0 139.963
+  p128: Total - totaal 49.043 9 500 67.670
+  p128: 11.31.00/001/CF_01 -  Rechtstreekse toelagen ten laste van de dotatie: 139.963 euro
+  p128: 11.31.00/002/CF_02- Rechtstreekse toelagen ten laste van de federale subsidies (BELSPO): 0 euro
+  p128: ECONOMISCHE CODE : 12.11.00 Algemene werkingskosten
+  p128: 12.11.00
+  p128: 12.11.00/001 CF_01 lim 1.023.233 1.409.050 1.250.450
+  p128: Total - totaal 1.023.233 1.409.050
+  p128: 12.11.00
+  p128: 12.11.00/001 CF_02 n.lim 327.695 320.508 161.500
+  p128: 12.11.00/002 CF_02 n.lim 112.763 285.775 130.265
+  p128: 12.11.00/003 CF_02 n.lim 61.636 26.128 28.000
+  p128: Total - totaal 502.094 632.411 319.765
+  p128: 12.11.00/001/CF_01 -  Algemene werkingskosten op dotatie: 1.250.450 euro
+  p128: 12.11.00/001/CF_02 ΓÇô Algemene werkingskosten ten laste van de jaarlijkse eigen middelen: 78.000  euro
+  p128: 12.11.00/002/CF_02- Algemene werkingskosten ten laste van de federale subsidies: 130.265 euro
+  p128: 12.11.00/003/CF_02 ΓÇô Algemene werkingskosten ten laste van de niet-federale subsidies: 28.000 euro
+  p128: 12.11.00/003/CF_02 ΓÇôFrais g├⌐n├⌐raux de fonctionnement sur  subventions non-f├⌐d├⌐rales:   28.000 euros
+  p128: 11.31.00/001/CF_01ΓÇô Allocations directes sur dotation :  139.963 euros
+  p128: 11.31.00/002/CF_02- Allocations directes sur  subventions f├⌐d├⌐rales (BELSPO) : 0 euros
+  p128: 12.11.00/001/CF_01 ΓÇô Frais g├⌐n├⌐raux de fonctionnement sur dotation : 1.250.450 euros
+  p128: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de fonctionnement
+  p128: 12.11.00/001/CF_02 ΓÇô Frais g├⌐n├⌐raux de fonctionnement sur Recettes propres annuelles  :  78.000 euros
+  p128: 12.11.00/002/CF_02- Frais g├⌐n├⌐raux de fonctionnement sur  subventions f├⌐d├⌐rales: 130.265 euros
+  p129: Total - totaal 0 0 159.000
+  p129: Total - totaal 0 0 0
+  p129: 12.21.00/001/CF_01 -  Alg. Werkingskosten op dotatie (gedetacheerd personeel: Egovselect): 159.000 euro
+  p129: ECONOMISCHE CODE : 74.22.00 Verwerving van overig materieel
+  p129: 74.22.00
+  p129: 74.22.00/001 CF_01 lim 44.014 43.950 44.469
+  p129: Total - totaal 44.014 43.950 44.469
+  p129: 74.22.00
+  p129: 74.22.00/001 CF_02 n.lim 533.835 0
+  p129: 74.22.00/002 CF_02 n.lim 22.724 10.000
+  p129: 74.22.00/003 CF_02 n.lim 0
+  p129: Total - totaal 0 556.559 10.000
+  p129: 74.22.00/001/CF_01 -  Verwerving van overig materieel op dotatie: 44.469 euro
+  p129: 74.22.00/001/CF_02 Verwerving van overig materieel op gewone ontvangsten : 0 euro
+  p129: 74.22.00/002/CF_02 Verwerving van overig materieel op federale subsidies: 10.000 euro
+  p129: 74.22.00/003/CF_02 Verwerving van overig materieel op federale subsidies: 0 euro
+  p129: 12.21.00/001/CF_01 ΓÇô Frais de fonctionnement sur dotation (personnel d├⌐tach├⌐ :Egovselect) : 159.000 euros
+  p129: CODE ECONOMIQUE : 74.22.00 Acquisition dΓÇÖautre mat├⌐riel
+  p129: 74.22.00/002/CF_02 Acquisition dΓÇÖautre mat├⌐riel sur  subventions f├⌐d├⌐rales (BELSPO) :  : 10.000 euros
+  p129: 74.22.00/001/CF_01 ΓÇô Acquisition dΓÇÖautre mat├⌐riel sur dotation : 44469 euros
+  p129: 74.22.00/001/CF_02 Acquisition dΓÇÖautre mat├⌐riel sur Recettes propres annuelles  : 0 euros
+  p129: 74.22.00/003/CF_02 Acquisition dΓÇÖautre mat├⌐riel sur subventions non-f├⌐d├⌐rales: 0 euros
+  p130: ECONOMISCHE CODE : 74.50.00 Verwerving van waardevolle voorwerpen
+  p130: 74.50.00
+  p130: 74.50.00/001 CF_01 lim 9.389 7.000 7.082
+  p130: Total - totaal 9.389 7.000 7.082
+  p130: 74.50.00/001/CF_01 -  Verwerving van waardevolle voorwerpen op dotatie: 7.082 euro
+  p130: Total - totaal 1.868.069 2.569.942 2.218.535
+  p130: Total - totaal 863 5.000 5.000
+  p130: CODE ECONOMIQUE : 74.50.00 Acquisition dΓÇÖobjets de valeur
+  p130: 74.50.00/001/CF_01 ΓÇô Acquisition dΓÇÖobjets de valeur sur dotation : 7.082 euros
+  p131: Total - totaal 2.238
+  p131: Total - totaal 715.880 0 25.000
+  p131: Total - totaal 969.880 10.000 0
+  p131: Total - totaal 0 658.000 657.964
+  p131: Total - totaal 0 360.000 200.000
+  p131: 38.60.00/001/CF_01 ΓÇô  Subsides(R├⌐duction pr├⌐compte professionnel) sur dotation: 657.964 euros
+  p132: Total ΓÇô totaal 241.709 276.606 216.183
+  p132: ARTIKEL 46 ΓÇô   Dotatie en federale subsidies
+  p132: ECONOMISCHE CODE : 46.10.00 Dotatie
+  p132: 46.10.00
+  p132: 46.10.00/001 CF_01 lim 6.783.014 6.638.000 6.705.000
+  p132: Totaal - Total 6.783.014 6.638.000 6.705.000
+  p132: 46.10.00
+  p132: 46.10.00/001 CF_02 n.lim
+  p132: 46.10.00/002 CF_02 n.lim 2.541.575 1.235.700 412.237
+  p132: Totaal - Total 2.541.575 1.235.700 412.237
+  p132: 46.10.00/002/CF_02 ΓÇô Federal subsidie (Belspo) (14 54 41 4130 37): 412.237 euro
+  p132: Dotatie.
+  p132: Totaal - Total 228.649 250.000 250.000
+  p132: Total - totaal 0 0 0
+  p132: Dotation.
+  p132: ARTICLE  46 ΓÇô   Dotation et Subside f├⌐d├⌐ral
+  p132: 46.10.00/001/CF_01 ΓÇô   Dotation: 6.810.000 euros
+  p132: 46.10.00/002/CF_02 ΓÇô Subside f├⌐d├⌐ral (Belspo) (14,54,41,4130,37) : 412.237 euros
+  p132: 46.10.00/001/CF_01 ΓÇô Dotatie: 6.810.000 euro
+  p132: CODE ECONOMIQUE : 46.10.00 Dotation
+  p133: Total - totaal 21.646 66.100 66.722
+  p133: Total - totaal 104.968 10.000 0
+  p133: Total - totaal 308.787 0 0
+  p134: Total - totaal 603.883
+  p135: ECONOMISCHE CODE : 11.00.00 bezoldiging
+  p135: CODE ECONOMIQUE : 11.00.00 R├⌐mun├⌐rations
+  p135: 11.00.00
+  p135: 11.00.00/001
+  p135: 11.00.00/002
+  p135: 11.00.00/003
+  p135: Totaal - total   13.546.371 16.082.363 16.679.434
+  p135: 1. 11.00.00/001/CF_00 -   bezoldiging volgens
+  p135: weddeschalen - dotatie : 11.199.111 euro
+  p135: 1 11.00.00/001/CF_00 ΓÇô  R├⌐mun├⌐rations suivant les
+  p135: bar├¿mes - dotation : 11.199.111 euros
+  p135: 2 11.00.00/002/CF_00 -   bezoldiging volgens
+  p135: 2. 11.00.00/001/CF_00 ΓÇô  R├⌐mun├⌐rations suivant
+============================================================
+NICC
+  p135: ECONOMISCHE CODE : 11.00.00 bezoldiging
+  p135: CODE ECONOMIQUE : 11.00.00 R├⌐mun├⌐rations
+  p135: 11.00.00
+  p135: 11.00.00/001
+  p135: 11.00.00/002
+  p135: 11.00.00/003
+  p135: Totaal - total   13.546.371 16.082.363 16.679.434
+  p135: 1. 11.00.00/001/CF_00 -   bezoldiging volgens
+  p135: weddeschalen - dotatie : 11.199.111 euro
+  p135: 1 11.00.00/001/CF_00 ΓÇô  R├⌐mun├⌐rations suivant les
+  p135: bar├¿mes - dotation : 11.199.111 euros
+  p135: 2 11.00.00/002/CF_00 -   bezoldiging volgens
+  p135: 2. 11.00.00/001/CF_00 ΓÇô  R├⌐mun├⌐rations suivant
+  p136: eigen middelen  (EC 11.00.00/002 en EC 12.21.00/ 999) te
+  p136: sur moyens propres ((EC 11.00.00/002 en EC 12.21.00/999)
+  p136: 3. 11.00.00/003/CF_00 - bezoldiging volgens
+  p136: 3. 11.00.00/003/CF_00 ΓÇô  R├⌐mun├⌐rations suivant
+  p136: ECONOMISCHE CODE : 12.11.00  algem werk.
+  p136: CODE ECONOMIQUE : 12.11.00 frais g├⌐n├⌐raux de
+  p137: 12.11.00
+  p137: 12.11.00/001
+  p137: Totaal - total   5.482.626 5.945.665 5.997.19
+  p137: 1. 12.11.00/001/CF_00 -   algem werk. Kosten
+  p137: 1 12.11.00/001/CF_00 ΓÇô  frais g├⌐n├⌐raux de
+  p137: Totaal - total   0 0 400.000
+  p137: 1 12.11.00/001/CF_00 ΓÇô   frais g├⌐n├⌐raux de
+  p138: eigen middelen (EC 11.00.00/002 en EC 12.21.00/ 999) te
+  p138: sur moyens propres ((EC 11.00.00/002 en EC 12.21.00/999)
+  p138: ECONOMISCHE CODE : 74.22.00   verweving van
+  p138: CODE ECONOMIQUE : 74.22.00 acquisition dΓÇÖautre
+  p138: 74.22.00
+  p138: 74.22.00/001
+  p138: Totaal - total   4.889.782 1.588.198 2.098.369
+  p138: 1. 74.22.00/001/CF_00 -    verweving van overig
+  p138: 1 74.22.00/001/CF_00 ΓÇô  acquisitions dΓÇÖautre
+  p139: Totaal - total   0 100.000 100.000
+  p140: Totaal - total   8.606.927 7.639.300 9.139.300
+  p141: Totaal - total   -14.289 331.775 110.700
+  p141: ECONOMISCHE CODE : 46.10.00
+  p141: CODE ECONOMIQUE : 46.10.00 Transferts de
+  p142: Totaal ΓÇô total   15.664.582 15.747.151 16.025.000
+  p142: 1. 46.10.00/001/CF_00 -   inkomstenoverdrachten
+  p142: 1 46.10.00/001/CF_00 ΓÇô Transferts de revenus du
+  p142: Dotatie FOD Justitie
+  p142: Dotation SPF Justice
+  p143: EN_61018 BELNET
+  p143: EN_61018 BELNET
+  p143: CODE ECONOMIQUE : 11.00.00 R├⌐mun├⌐ration
+  p143: 11.00.00
+  p143: 11.00.00/001
+  p143: Total - totaal       3.339.157 3.910.262       4.832.262
+  p143: 11.00.00
+  p143: 11.00.00/001
+  p143: Total - totaal       4.357.217 4.481.280       4.481.280
+  p143: 1. 11.00.00/001/CF_01 - Bezoldiging volgens
+  p143: salarisschalen/ op de dotatie van Belnet : 4.832.262
+  p143: 1. 11.00.00/001/CF_01 ΓÇô R├⌐mun├⌐ration suivant les
+  p143: bar├¿mes / sur dotation de Belnet  : 4.832.262 euros
+  p143: met de dotatie van Belnet.
+  p143: Personnel contractuel et statutaire financ├⌐ sur dotation
+  p143: 2. 11.00.00/002/CF_02 - Bezoldiging volgens
+  p143: Salarisschalen/ eigen ontvangsten van Belnet: 4.481.280
+  p143: 2. 11.00.00/002/CF_02 ΓÇô R├⌐mun├⌐ration suivant les
+  p143: bar├¿mes / sur recettes propres de Belnet :       4.481.280
+============================================================
+BELNET
+  p143: EN_61018 BELNET
+  p143: EN_61018 BELNET
+  p143: CODE ECONOMIQUE : 11.00.00 R├⌐mun├⌐ration
+  p143: 11.00.00
+  p143: 11.00.00/001
+  p143: Total - totaal       3.339.157 3.910.262       4.832.262
+  p143: 11.00.00
+  p143: 11.00.00/001
+  p143: Total - totaal       4.357.217 4.481.280       4.481.280
+  p143: 1. 11.00.00/001/CF_01 - Bezoldiging volgens
+  p143: salarisschalen/ op de dotatie van Belnet : 4.832.262
+  p143: 1. 11.00.00/001/CF_01 ΓÇô R├⌐mun├⌐ration suivant les
+  p143: bar├¿mes / sur dotation de Belnet  : 4.832.262 euros
+  p143: met de dotatie van Belnet.
+  p143: Personnel contractuel et statutaire financ├⌐ sur dotation
+  p143: 2. 11.00.00/002/CF_02 - Bezoldiging volgens
+  p143: Salarisschalen/ eigen ontvangsten van Belnet: 4.481.280
+  p143: 2. 11.00.00/002/CF_02 ΓÇô R├⌐mun├⌐ration suivant les
+  p143: bar├¿mes / sur recettes propres de Belnet :       4.481.280
+  p144: ECONOMISCHE CODE: 12.11.00 Algemenen
+  p144: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p144: 12.11.00
+  p144: 12.11.00/001
+  p144: Total - totaal   12.479.747 18.175.642      16.526.218
+  p144: 12.11.00
+  p144: 12.11.00/001
+  p144: Total - totaal   4,582,143 5.397.118       4.332.576
+  p144: 1. 11.00.00/001/CF_01 - Algemene werkingskosten/  op
+  p144: de dotatie van Belnet: 16.526.218 euro
+  p144: 1. 11.00.00/001/CF_01 ΓÇô Frais g├⌐n├⌐raux de
+  p144: fonctionnement / sur dotation de Belnet :
+  p144: Cr├⌐dit de fonctionnement sur dotation
+  p144: dotatie gedekt.
+  p144: In 2026 bereikt het totale bedrag van de in het kader van
+  p144: missions couvertes par la dotation.
+  p144: En 2025, le montant total de dotation transf├⌐r├⌐ li├⌐ ├á ce
+  p144: annuels de dotation ICT ├á destinatin des WANΓÇÖs entre
+  p145: 2. 11.00.00/001/CF_02 -  Algemene werkingskosten /
+  p145: eigen ontvangsten van Belnet : 4 .332.576 euro
+  p145: 2. 11.00.00/001/CF_02 ΓÇô Frais g├⌐n├⌐raux de
+  p145: federale instanties die niet door de dotatie worden
+  p145: dotation.
+  p145: Total ΓÇô totaal   21.854            23.623        24.500
+  p145: middelen van Belnet: 24.500 euro
+  p145: sur recettes propres de Belnet : 24.500 euros
+  p146: Total - totaal           328.149         0         348.000
+  p146: Total - totaal           325.166          595.068         248.400
+  p146: lidstaten van de EU (niet -overheden) / volgens dotaties
+  p146: van Belnet: 348.000 euro
+  p146: / sur dotation de Belnet : 348.000 euros
+  p146: lidstaten van de EU (niet -overheden) / volgens dotaties
+  p146: van Belnet: 248.400 euro
+  p146: / sur dotation de Belnet : 248.400 euros
+  p147: 74.22.00
+  p147: 74.22.00/001
+  p147: Total ΓÇô totaal   1.046.943 551.197 1.000.000
+  p147: 74.22.00
+  p147: 74.22.00/001
+  p147: Total - totaal   880.226
+  p147: 1. 74.22.00/002/CF_01 - Algemene werkingskosten/
+  p147: volgens dotatie : 1.000.000 euro
+  p147: 1. 74.22.00/002/CF_01 ΓÇô Frais g├⌐n├⌐raux de
+  p147: fonctionnement / sur recettes dotation : 1.000.000
+  p147: Investeringskrediet op dotatie .
+  p147: Cr├⌐dit dΓÇÖinvestissements sur dotation .
+  p147: 2. 74.22.00/002/CF_02 - Algemene werkingskosten/
+  p147: 2. 74.22.00/002/CF_02 ΓÇô Frais g├⌐n├⌐raux de
+  p148: Total - totaal   2.072.816         927.909 927.909
+  p148: ontvangsten van Belnet : 927.909 euro
+  p148: Belnet : 927.909 euros
+  p148: Total - totaal   670.812           336.091 336.091
+  p148: ontvangsten van Belnet: 336.091 euro
+  p148: Belnet : 336.091 euros
+  p149: Total - totaal   8.002.650            7.985.105 7.124.000
+  p149: recettes propres de Belnet : 7. 124.000 euros
+  p149: ECONOMISCHE CODE: 46.10.00
+  p149: CODE ECONOMIQUE : 46.10.00 Transferts de
+  p149: 46.10.00
+  p149: 46.10.00/001
+  p149: Total - totaal   20.841.953         22.844.000 22.367.000
+  p149: 1.  46.10.00/001/CF_01 Inkomensoverdrachten van
+  p149: de institutionele macht/ volgens dotaties van Belnet:
+  p149: 1. 46.10.00/001/CF_01 ΓÇô Transferts de revenus du
+  p149: pouvoir institutionnel / sur dotation de Belnet :
+  p150: - Totaal posclaaf = 22.367.000 euro
+  p150: - Total postconclave 22.367.00 euros
+  p150: Total - totaal   1.840.000              425.000 0
+  p151: Total - totaal   1.052.423 94.400 124.000
+  p151: ontvangsten van Belnet : 124.000 euro
+  p151: Total - totaal   472.338            450.000            300.000
+  p152: Total - totaal          0            540.000          440.000
+  p153: ΓÇó een centrum dat faciliteiten en een totale
+  p153: internationales des facilit├⌐s et un service total
+  p153: Total art. 11 ΓÇô totaal art. 11
+============================================================
+ResidencePalace
+  p153: ΓÇó een centrum dat faciliteiten en een totale
+  p153: internationales des facilit├⌐s et un service total
+  p153: Total art. 11 ΓÇô totaal art. 11
+  p154: TOTAAL = 527.000 euro
+  p154: TOTAL = 527.000 euros
+  p154: Total art. 12 ΓÇô totaal art. 12
+  p155: 74.22.01
+  p155: 74.22.01 /001
+  p155: Total art. 74 ΓÇô totaal art. 74 404 152 209
+  p155: Investissements pr├⌐vus pour lΓÇÖann├⌐e 202 6 au SACA
+  p155: Total - totaal 1 89 89
+  p155: Total - totaal 1 1.000 1.000
+  p155: Total art. 12 ΓÇô totaal art. 12 1 1.089 1.089
+  p156: Total - totaal 149 210 145
+  p157: Total - totaal 3.117
+  p157: Total art. 16 ΓÇô totaal art. 16 2.568
+  p157: - 16.11.00/002 : Revenus des concessions du SACA
+  p158: Total - totaal 3 89 89
+  p158: Total - totaal 0 1.000 1.000
+  p158: Total art. PA ΓÇô totaal art. PA 3 1.089 1.089
+  p160: ECONOMISCHE CODE: 11.00.00 Bezoldiging  CODE ECONOMIQUE : 11.00.00 R├⌐mun├⌐ration
+  p160: 11.00.00
+  p160: 11.00.00/001
+  p160: Totaal - total   13.533.773 14.279.704 14.850.892
+  p160: 1. 11.00.00/001/CF_00 - Bezoldiging: 14.850.892
+  p160: 1. 11.00.00/001/CF_00 ΓÇô R├⌐mun├⌐ration :
+  p161: ECONOMISCHE CODE: 12.11.00 Algemene
+  p161: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p161: 12.11.00
+  p161: 12.11.00/001
+  p161: Totaal - total   42.882.205 53.616.641 56.306.666
+  p161: 1. 12.11.00/001/CF_00 - Algemene werkings -
+  p161: 1. 12.11.00/001/CF_00 - Frais g├⌐n├⌐raux de
+  p162: Totaal - total   1.021.100 2.373.000 2.403.849
+  p162: ECONOMISCHE CODE: 74.22.00 Verwerving van
+  p162: CODE ECONOMIQUE : 74.22.00 Acquisitions
+  p162: 74.22.00
+  p162: 74.22.00/001
+  p162: Totaal - total   251.354 4.792.000 2.667.000
+  p163: 1. 74.22.00/001/CF_00 - Verwerving van overig
+  p163: 1. 74.22.00/001/CF_00 - Acquisitions d'autre
+  p163: Totaal - total   5.608.378 5.300.000 5.368.900
+  p164: Totaal - total   64.967.116 76.838.000 73.577.750
+  p165: ARTIKEL 11  ΓÇô LONEN EN SOCIALE LASTEN  ARTICLE 11 ΓÇô SALAIRES ET CHARGES SOCIALES
+  p165: 11.00.00/002
+  p165: Totaal - total   5.173.622 12.031.818 13.277.991
+============================================================
+Consulaires
+  p165: ARTIKEL 11  ΓÇô LONEN EN SOCIALE LASTEN  ARTICLE 11 ΓÇô SALAIRES ET CHARGES SOCIALES
+  p165: 11.00.00/002
+  p165: Totaal - total   5.173.622 12.031.818 13.277.991
+  p166: 12.11.00.
+  p166: 12.11.00/003
+  p166: 12.11.00/008
+  p166: 12.11.00/009
+  p166: 12.11.00/010
+  p166: 12.11.00/011
+  p166: 12.11.00/999
+  p166: Totaal - total   27.398.062 28.915.833 34.303.086
+  p166: 1. 12.11.00/001/CF_00 -   Algemene werkingkosten
+  p166: 1 12.11.00/001/CF_00 ΓÇô FF : 34.260.162 euros
+  p166: 2. 12.11.00/ 999/CF_00 -   forfaitaire vergoedingen
+  p166: 2- 12.11.00/999/CF_00 ΓÇô indemnit├⌐ forfaitaire
+  p167: Totaal - total   3.945.212 3.694.594 3.742.624
+  p168: Totaal - total   6.018.446 6.593.338 2.656.000
+  p168: (les autres consultants sont repris en 1211)
+  p169: ECONOMISCHE CODE : 74.22.00  Verwerving van
+  p169: CODE ECONOMIQUE : 74.22.00 Acquisitions
+  p169: 74.22.00
+  p169: 74.22.00/006
+  p169: 74.22.00/016
+  p169: 74.22.00/017
+  p169: Totaal ΓÇô total   1.334.671 1.099.221 395.070
+  p169: 1. 74.22.00/006/CF_00-  Verwerving van overig
+  p169: 1 74.22.00/006/CF_00-   Acquisitions dΓÇÖautre
+  p169: ECONOMISCHE CODE :  74.40.00   Concessies,
+  p169: CODE ECONOMIQUE : 74.40.00   Concessions,
+  p169: 74.40.00
+  p169: 74.40.00/007
+  p169: Totaal - total   965.594 2.090.634 0
+  p170: 1. 74.40.00/007/CF_00-  Licenties : 0 euro
+  p170: 1 74.40.00/007/CF_00-   Licences : 0 euro
+  p170: Totaal - total   0 25.000.000 10.000.000
+  p171: ECONOMISCHE CODE : 16.12.00 Consulaire
+  p171: CODE ECONOMIQUE : 16.12.00 Droits consulaires
+  p171: Totaal - total   60.690.062 55.000.000
+  p172: Totaal - total   0 1 1
+  p173: ECONOMISCHE CODE : 46.10.00  Van institutionele
+  p173: CODE ECONOMIQUE : 46.10.00 Du pouvoir
+  p173: 46.10.00
+  p173: 46.10.00/009
+  p173: 46.10.00/010
+  p173: 46.10.00/004
+  p173: 46.10.00/005
+  p173: 46.10.00/006
+  p173: 46.10.00/007
+  p173: Totaal - total   692.387 1.284.121 0
+  p173: 1. 46.10.00/004/005/006/007 Ontvangsten : 0 euro
+  p173: 1. 46.10.00/004/005/006/007 Recettes : 0 euros
+  p174: ECONOMISCHE CODE : 12.11.00  Algemene
+  p174: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p174: 12.11.00.
+  p174: 12.11.00/004
+  p174: 12.11.00/006
+  p174: Totaal ΓÇô total   302.426 325.393 338.754
+  p174: 1. 12.11.00/001/CF_00 -  Werkingskosten] : 338.754
+  p174: 1 12.11.00/001/CF_00 ΓÇô Frais de fonctionnement  :
+  p174: 2. 12.11.00/006/CF_00 -   Diplomatieke kring van de
+  p174: 2. 12.11.00/006/CF_00 ΓÇô Frais de fonctionne-
+============================================================
+CCEgmont
+  p174: ECONOMISCHE CODE : 12.11.00  Algemene
+  p174: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p174: 12.11.00.
+  p174: 12.11.00/004
+  p174: 12.11.00/006
+  p174: Totaal ΓÇô total   302.426 325.393 338.754
+  p174: 1. 12.11.00/001/CF_00 -  Werkingskosten] : 338.754
+  p174: 1 12.11.00/001/CF_00 ΓÇô Frais de fonctionnement  :
+  p174: 2. 12.11.00/006/CF_00 -   Diplomatieke kring van de
+  p174: 2. 12.11.00/006/CF_00 ΓÇô Frais de fonctionne-
+  p175: ECONOMISCHE CODE : 74.22   Verwerving van
+  p175: CODE ECONOMIQUE : 74.22.00 Acquisitions
+  p175: 74.22.00
+  p175: 74.22.00/001
+  p175: Totaal ΓÇô total   91.238 198.993 188.993
+  p175: 1. 74.22.00/001/CF_00 -   Investeringen  : 1 88.993
+  p175: 1 74.22.00/001/CF_00 ΓÇô Investissements : 1 88.993
+  p176: Totaal - total   0 0 500.000
+  p176: Totaal ΓÇô total   185.867
+  p177: Totaal ΓÇô total   6.426 35.000 35.000
+  p178: Totaal ΓÇô total   654.693 125.000 130.000
+  p179: EN-61038 FEDOREST
+  p179: EN-61038 FEDOREST
+  p179: 11.20.XX: Sociale bijdragen ten laste van de
+  p179: 11.20.XX : Cotisations sociales ├á charge des
+  p179: 74.10.XX: Aankoop van vervoermaterieel
+  p179: 74.22.XX: Verwerving van overig materieel
+  p179: 74.10.XX : Achats de mat├⌐riel de transport
+  p179: 74.22.XX : Acquisitions d'autre mat├⌐riel
+  p179: 74.10.XX/001
+  p179: 74.22.XX/001
+  p179: Subtotaal ΓÇô Sous total   21.298.121,06 30.720.000 30.772.000
+  p179: 12.11.00
+  p179: Totaal - Total   25.150.167,37 35.720.000 35.972.000
+============================================================
+FEDOREST
+  p179: EN-61038 FEDOREST
+  p179: EN-61038 FEDOREST
+  p179: 11.20.XX: Sociale bijdragen ten laste van de
+  p179: 11.20.XX : Cotisations sociales ├á charge des
+  p179: 74.10.XX: Aankoop van vervoermaterieel
+  p179: 74.22.XX: Verwerving van overig materieel
+  p179: 74.10.XX : Achats de mat├⌐riel de transport
+  p179: 74.22.XX : Acquisitions d'autre mat├⌐riel
+  p179: 74.10.XX/001
+  p179: 74.22.XX/001
+  p179: Subtotaal ΓÇô Sous total   21.298.121,06 30.720.000 30.772.000
+  p179: 12.11.00
+  p179: Totaal - Total   25.150.167,37 35.720.000 35.972.000
+  p180: 74.10.XX/001/CF_01:      - 1.750 euro
+  p180: 74.22.XX/001/CF_01:  - 249.815 euro
+  p180: 74.10.XX/001/CF_01:      - 1.750 euros
+  p180: 74.22.XX/001/CF_01:  - 249.815 euros
+  p180: 3. 11.20.XX/001/FC_01   Sociale bijdragen ten laste
+  p180: 3. 11.20.XX/001/CF_01  Cotisations sociales ├á
+  p182: 8. 74.10.XX/001/FC_01    Aankoop van
+  p182: 8. 74.10.XX/001/CF_01     Achats de mat├⌐riel de
+  p182: 9. 74.22.XX/001/FC_01     Verwerving van overig
+  p182: 9. 74.22.XX/001/CF_01      Acquisitions d'autre
+  p183: EN-61038 FEDOREST
+  p183: EN-61038 FEDOREST
+  p183: Totaal - Total   28.618.461,99 35.720.000 35.972.000
+  p184: Dotatie
+  p184: Dotation.
+  p186: ECONOMISCHE CODE : 12.11.00 Algemene
+  p186: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p186: 12.11.00
+  p186: 12.11.00/001 CF_00 lim 20.638 35.000 35.000
+  p186: Totaal - total   20.638 35.000 35.000
+  p186: 12.11.00
+  p186: 12.11.00/001 CF_00 n.lim 10.884.102 13.629.000 11.625.000
+  p186: Totaal - total   10.884.102 13.629.000 11.625.000
+  p186: 1. 12.11.00/001/CF_00 - Algemene werkingskosten :
+  p186: 1. 12.11.00/001/CF_00 - Frais g├⌐n├⌐raux de
+  p186: 2. 12.11.00/001/CF_00 - Algemene werkingskosten :
+  p186: 2. 12.11.00/001/CF_00 - Frais g├⌐n├⌐raux de
+  p188: Totaal - total   290.000 0 0
+  p189: ECONOMISCHE CODE : 74.22.00 Verwerving van
+  p189: CODE ECONOMIQUE : 74.22.00 Acquisitions
+  p189: 74.22.00
+  p189: 74.22.00/001 CF_00 lim 283.859 336.000 340.000
+  p189: Totaal - Total   283.859 336.000 340.000
+  p189: 1. 74.22.00/001/CF_00 - Verwerving van overig
+  p189: 1. 74.22.00/001/CF_00 - Acquisitions dΓÇÖautre
+  p190: Totaal - Total   11.722.964 14.000.000 12.000.000
+  p191: ECONOMISCHE CODE : 11.00.00 Bezoldigingen  CODE ECONOMIQUE : 11.00.00 R├⌐mun├⌐rations
+  p191: 11.00.00
+  p191: 11.00.00/001
+  p191: Totaal - total   59.693 55.646
+  p191: 1. 11.00.00/001/CF_00 ΓÇô Bezoldigingen: 57.751 euro
+  p191: 1. 11.00.00/001/CF_00 ΓÇô R├⌐mun├⌐rations : 5 7.751
+  p191: van de dotatie,
+  p191: begrotingsmaatregelen ten laste van de dotatie,
+  p191: dotation,
+  p191: charge de la dotation,
+  p192: ECONOMISCHE CODE: 12.11.00 Algemene
+  p192: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p192: 12.11.00
+  p192: 12.11.00/001
+  p192: 12.11.00/002
+  p192: 12.11.00/003
+  p192: 12.11.00/004
+  p192: 12.11.00/005
+  p192: 12.11.00/006
+  p192: Totaal - total   65.206 103.898 83.711
+  p192: 1. 12.11.00/001/CF_00 ΓÇô Terugbetaling van
+  p192: 1. 12.11.00/001/CF_00 ΓÇô Remboursements de frais
+  p192: ten laste van de dotatie,
+  p192: begrotingsmaatregelen ten laste van de dotatie.
+  p192: dotation,
+  p192: charge de la dotation.
+  p193: 2. 12.11.00/002/CF_00 ΓÇô Courante kosten voor
+  p193: 2. 12.11.00/002/CF_00 ΓÇô  Frais courants de locaux
+  p193: ten laste van de dotatie,
+  p193: begrotingsmaatregelen ten laste van de dotatie,
+  p193: 11.00.00/005/CF_00 : + 3.000 euro.
+  p193: dotation,
+  p193: charge de la dotation,
+  p193: 11.00.00/005/CF_00 : + 3.000 euros.
+  p193: 3. 12.11.00/003/CF_00 Courante kantoorkosten en
+  p193: 3. 12.11.00/003/CF_00 ΓÇô Frais courants de bureau
+  p193: ten laste van de dotatie,
+  p193: begrotingsmaatregelen ten laste van de dotatie.
+  p193: dotation,
+  p193: charge de la dotation.
+  p193: 4. 12.11.00/004/CF_00 ΓÇô Energieverbruik:
+  p193: 4. 12.11.00/004/CF_00 ΓÇô Consommations
+  p194: ten laste van de dotatie,
+  p194: begrotingsmaatregelen ten laste van de dotatie.
+  p194: dotation,
+  p194: charge de la dotation.
+  p194: 5. 12.11.00/005/CF_00 ΓÇô Specifieke courante kosten
+  p194: 5. 12.11.00/005/CF_00 ΓÇô Frais sp├⌐cifiques courants
+  p194: ten laste van de dotatie,
+  p194: begrotingsmaatregelen ten laste van de dotatie,
+  p194: 12.11.00/002/CF_00 : - 3.000 euro,
+  p194: 74.22.00/001/CF_00 : - 2.500 euro,
+  p194: dotation,
+  p194: charge de la dotation,
+  p194: 12.11.00/002/CF_00 : - 3.000 euros,
+  p194: 74.22.00/001/CF_00 : - 2.500 euros,
+  p194: 6. 12.11.00/006/CF_00 ΓÇô  Specifieke courante
+  p194: 6. 12.11.00/006/CF_00 ΓÇô Frais sp├⌐cifiques courants
+  p195: ten laste van de dotatie,
+  p195: begrotingsmaatregelen ten laste van de dotatie.
+  p195: dotation,
+  p195: charge de la dotation.
+  p195: ECONOMISCHE CODE: 74.22.00 Verwerving van
+  p195: CODE ECONOMIQUE : 74.22.00 Acquisitions
+  p195: 74.22.00
+  p195: 74.22.00/001
+  p195: Totaal - total   5.492 15.870 18.441
+  p195: 1. 74.22.00/001/CF_00 ΓÇô Verwerving van overig
+  p195: 1. 74.22.00/001/CF_00 ΓÇô Acquisitions dΓÇÖautre
+  p196: ten laste van de dotatie,
+  p196: 12.11.00/005/CF_00 : + 2.500 euro.
+  p196: dotation,
+  p196: 12.11.00/005/CF_00 : + 2.500 euros.
+  p196: Totaal - total   112.608 117.500 100.000
+  p197: dotatie
+  p197: dotation
+  p197: ECONOMISCHE CODE: 46.10.00 Afkomstig van de
+  p197: Staatsbegroting - dotatie
+  p197: CODE ECONOMIQUE : 46.10.00 En provenance du
+  p197: budget de lΓÇÖ├ëtat - dotation
+  p197: 46.10.00
+  p197: 46.10.00/001
+  p197: Totaal - total   61.049 60.942 61.000
+  p197: 1. 46.10.00/001/CF_00 ΓÇô Afkomstig van de
+  p197: Staatsbegroting ΓÇô dotatie: 61.000 euro
+  p197: 1. 46.10.00/001/CF_00 ΓÇô En provenance du budget
+  p197: de lΓÇÖ├ëtat ΓÇô dotation : 61.000 euros
+  p197: Dotatie
+  p197: Dotation
+  p197: begrotingsmaatregelen ten laste van de dotatie,
+  p197: charge de la dotation,
+  p198: ECONOMISCHE CODE : 11.00.00 Globale loonlast CODE ECONOMIQUE : 11.00.00 Charge salariale
+  p198: 11.00.00
+  p198: 11.00.00/001
+  p198: Totaal ΓÇô total   0 160.959 161.384
+  p198: 1. 11.00.00/001/CF_01 - Loonlast op dotatie  :
+  p198: 1 11.00.00/001/CF_01 ΓÇô Charge salariale sur
+  p198: dotation : 161.384 Γé¼
+  p198: 12.11.00
+  p198: 12.11.00/001
+  p198: Totaal ΓÇô total   7.618 37.730 37.892
+  p199: 1. 12.11.00/001/CF_01 ΓÇô Algemene werkingskosten
+  p199: op dotatie : 37.892 Γé¼
+  p199: fonctionnement sur dotation : 37.892 Γé¼
+  p199: Totaal ΓÇô total   3.331.831 3.473.311 3.549.724
+  p199: Totaal - total   606.661 250.000 250.000
+  p200: Totaal ΓÇô total   606.661 250.000 250.000
+  p200: ARTIKEL 46 ΓÇô Dotatie en federale subsidies  ARTICLE 46 ΓÇô Dotation et subventions f├⌐d├⌐rales
+  p200: ECONOMISCHE CODE : 46.00.00 Dotatie  CODE ECONOMIQUE : 46.00.00 Dotation
+  p200: 46.10.00
+  p201: 46.10.00/001
+  p201: Totaal ΓÇô total   3.493.110 3.672.000 3.725.000
+  p201: 1. 46.10.00/001/CF_01 ΓÇô Dotatie : 3.725.000Γé¼
+  p201: 1 46.10.00/001/CF_01 ΓÇô Dotation : 3.725.000Γé¼
+  p201: Dotatie
+  p201: Dotation
+  p202: ECONOMISCHE CODE :  11.00.00 Globale loonlast  CODE ECONOMIQUE : 11.00.00 Pr├⌐vision globale
+  p202: 11.00.00
+  p202: 11.00.00
+  p202: Totaal - total   170.328 euros 1.343.376
+  p202: 11.00.00: Globale salarisprognose op basis van
+  p202: 11.00.00 : Pr├⌐vision salariale globale sur dotation  :
+  p202: r├⌐aliser le plan de personnel 2026. La consultance
+============================================================
+HealthData
+  p202: ECONOMISCHE CODE :  11.00.00 Globale loonlast  CODE ECONOMIQUE : 11.00.00 Pr├⌐vision globale
+  p202: 11.00.00
+  p202: 11.00.00
+  p202: Totaal - total   170.328 euros 1.343.376
+  p202: 11.00.00: Globale salarisprognose op basis van
+  p202: 11.00.00 : Pr├⌐vision salariale globale sur dotation  :
+  p202: r├⌐aliser le plan de personnel 2026. La consultance
+  p203: Voor 11.00.00, geraamde analyse van de behoeften.
+  p203: Pour le 11.00.00, analyse estim├⌐e des besoins.
+  p203: 12.11.00
+  p203: 12.11.00
+  p203: Totaal ΓÇô total   1.181.816
+  p203: 12.11.00 ΓÇô Algemene bedrijfskosten: 2.677.812 euros
+  p203: 12.11.00 ΓÇô Frais g├⌐n├⌐raux de fonctionnement:
+  p203: Voor 12.11.00 -  Raming van de behoeften. Bij deze
+  p203: Pour le 12.11.00 -  Estimation des besoins. Cette
+  p204: ARTIKEL 46 ΓÇô Dotatie ARTICLE 46 - Dotation
+  p204: ECONOMISCHE CODE : 46.10.00 Dotaties en federale
+  p204: CODE ECONOMIQUE : 46.10.00 Dotations et
+  p204: 46.10.00
+  p204: 46.10.00/001
+  p204: Totaal - total   4.510.500 euros 4.504.000 euros 10.109.000 euros
+  p204: 46.10.00/001/CF_01 -  Dotaties : 10.109.000 euros
+  p204: 46.10.00/001/CF_01 ΓÇô Dotations : 10.109.000 euros
+  p205: Dotatie van FOD Volksgezondheid, verhoogd bij besluit
+  p205: Dotation du SPF Sant├⌐ Publique, augment├⌐e sur
+  p205: de la dotation ├⌐tant de 6.000.000 euros.
+  p205: totale inkomsten, wat neerkomt op een toewijzing van 10
+  p205: recettes totales, soit une dotation de 10ΓÇ»109ΓÇ»000ΓÇ»Γé¼.
+  p206: EN_61049 ΓÇô SACA Autorit├⌐ Nationale de S├⌐curit├⌐
+  p206: ECONOMISCHE CODE : 12.11.00 Algemene
+  p206: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p206: 12.11.00
+  p206: 12.11.00/001
+  p206: Totaal - total   1.850.000 1.790.000
+  p206: 1. 12.11.00/001/CF_00 ΓÇô Algemene werkingskosten
+  p206: 1 12.11.00/001/CF_00 ΓÇô  Frais g├⌐n├⌐raux de
+============================================================
+ANS
+  p206: EN_61049 ΓÇô SACA Autorit├⌐ Nationale de S├⌐curit├⌐
+  p206: ECONOMISCHE CODE : 12.11.00 Algemene
+  p206: CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de
+  p206: 12.11.00
+  p206: 12.11.00/001
+  p206: Totaal - total   1.850.000 1.790.000
+  p206: 1. 12.11.00/001/CF_00 ΓÇô Algemene werkingskosten
+  p206: 1 12.11.00/001/CF_00 ΓÇô  Frais g├⌐n├⌐raux de
+  p207: Totaal - total   0 60.000
+  p207: Totaal - total   0 61.200
+  p208: ECONOMISCHE CODE : 74.22.00   Verwerving van
+  p208: CODE ECONOMIQUE : 74.22.00   Acquisitions
+  p208: 74.22.00.00
+  p208: 74.22.00/001
+  p208: Totaal - total   400.000 400.000
+  p208: 1. 74.22.00/001/CF_00 ΓÇô  Verwerving van overig
+  p208: 1 74.22.00/001/CF_00 ΓÇô    Acquisitions d'autre
+  p209: Totaal - total   2.250.000 2.250.000
+  p210: Totaal - total   204.000 204.000
+  p211: ECONOMISCHE CODE : 12.11.00  Werkingskosten
+  p211: CODE ECONOMIQUE : 12.11.00 Frais de
+  p211: 12.11.00
+  p211: 12.11.00/001
+  p211: 12.11.00/002
+  p211: Totaal - total   450.164 615.000 614.000
+  p211: 1. 12.11.00/001/CF_00 - Werkingskosten
+  p211: 1 12.11.00/001/CF_00 ΓÇô  Frais de fonctionnement
+  p211: 2. 12.11.00/002/CF_00 -   Werkingskosten
+  p211: 2 12.11.00/002/CF_00 ΓÇô  Frais de fonctionnement
+============================================================
+ActivitesSociales
+  p211: ECONOMISCHE CODE : 12.11.00  Werkingskosten
+  p211: CODE ECONOMIQUE : 12.11.00 Frais de
+  p211: 12.11.00
+  p211: 12.11.00/001
+  p211: 12.11.00/002
+  p211: Totaal - total   450.164 615.000 614.000
+  p211: 1. 12.11.00/001/CF_00 - Werkingskosten
+  p211: 1 12.11.00/001/CF_00 ΓÇô  Frais de fonctionnement
+  p211: 2. 12.11.00/002/CF_00 -   Werkingskosten
+  p211: 2 12.11.00/002/CF_00 ΓÇô  Frais de fonctionnement
+  p212: Totaal - total   507.968 585.000 585.000
+  p212: 2. 12.11.00/002/CF_00 -  Ontvangsten
+  p212: 2 12.11.00/002/CF_00 ΓÇô    Les recettes de la cr├¿che
+  p213: ECONOMISCHE CODE : 46.10.00   Dotatie
+  p213: CODE ECONOMIQUE : 46.10.00  Dotation
+  p213: 46.10.00
+  p213: 46.10.00/001
+  p213: Totaal ΓÇô total   30.000 30.000 29.000
+  p213: 1. 46.10.00/001/CF_00 -  Dotatie : 29.000 euro 1 46.10.00/001/CF_00 ΓÇô   Dotation : 29.000 euros
