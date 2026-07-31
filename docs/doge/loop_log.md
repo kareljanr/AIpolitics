@@ -7456,3 +7456,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual wave; FOI gap_dual_coa_table33_fte_matrix_l5 ready+draft; rq_611=done spawn rq_612; ticks=620
 - FOI opened: gap_dual_coa_table33_fte_matrix_l5 (ready, human send) - not sent
 - Next: prio5 **rq_612**; deferred **rq_116**; progress@630 in 10 ticks
+
+### 2026-07-31T21:00:00Z -- tick 621
+- Unit: rq_612 (FOI-adjacent dual social hole-fill deepen -- **AViQ** CoA SEC)
+- Found: **AViQ** (primary CoA Table33 + Table34 + s8.2). **BI2025 SEC:** recettes **EUR6.869bn** / depenses **EUR7.249bn** / solde **-EUR380.2m**. **BI2024 SEC:** rec **EUR6.540bn** / dep **EUR6.969bn** / solde **-EUR428.9m** (path dep **+EUR280.1m** / solde **+EUR48.7m**). Table34 result **-EUR379.2m**; treasury rembours **EUR335.3m**; gov impact **-EUR330.6m** after inexec **EUR48.6m**; non-marchand **EUR276.2m**. Dual **VAPH/VSB/Opgroeien** class (not additive). Strong confidence CoA; branch L5 residual FOI.
+- Wrote: entity update aviq; budgets (+17); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_aviq_sec_branch_recon_l5_2025; rq_612=done; spawn rq_613; loop_state ticks=621
+- FOI opened: gap_aviq_sec_branch_recon_l5_2025 -- ready (not sent)
+- Next: rq_613; progress@630 in 9 ticks; rq_116 deferred

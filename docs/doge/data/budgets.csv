@@ -11320,3 +11320,20 @@ bud_forem_other_rec_bi2025,forem,2025,80800000,,,budgeted,src_ccrek_forem_budget
 bud_forem_fse_rec_bi2025,forem,2025,18600000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: recettes FSE 18.6m within other 80.8m BI2025; tick619
 bud_forem_reserves_auth_bi2025,forem,2025,30000000,,,budgeted,src_ccrek_forem_budget_bi2025,strong,CoA s8.3: autorisation recours compte reserves 30.0m compensating dotation cut; tick619
 bud_dual_pes_forem_vdab_class_2025,gg_belgium,2025,3033003500,,,budgeted,src_dual_pes_forem_vdab_sec_tick619,strong,Forem SEC dep 3.033bn BI2025 dual VDAB VEK 0.751bn BO2026 class not additive; tick619
+bud_aviq_rec_sec_bi2025,aviq,2025,6869087000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ recettes SEC BI2025 6869.087m CoA Table33; tick621
+bud_aviq_dep_sec_bi2025,aviq,2025,7249333000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ depenses SEC BI2025 7249.333m CoA Table33; tick621
+bud_aviq_solde_sec_bi2025,aviq,2025,-380246000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ solde SEC BI2025 -380.246m CoA Table33; tick621
+bud_aviq_rec_sec_bi2024,aviq,2024,6540341000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ recettes SEC BI2024 6540.341m CoA Table33; tick621
+bud_aviq_dep_sec_bi2024,aviq,2024,6969271000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ depenses SEC BI2024 6969.271m CoA Table33; tick621
+bud_aviq_solde_sec_bi2024,aviq,2024,-428930000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ solde SEC BI2024 -428.930m CoA Table33; tick621
+bud_aviq_dep_path_delta_2024_25,aviq,2025,280062000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ dep path BI2025-BI2024 +280.062m CoA Table33; tick621
+bud_aviq_solde_path_delta_2024_25,aviq,2025,48684000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,AViQ solde path BI2025-BI2024 +48.684m (deficit shrink) CoA; tick621
+bud_aviq_rec_table34_bi2025,aviq,2025,6876645000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA Table34 AViQ recettes totales projet BI2025 6876.645m (+5.1pct); tick621
+bud_aviq_dep_table34_bi2025,aviq,2025,7255891000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA Table34 AViQ depenses totales projet BI2025 7255.891m (+4.1pct); tick621
+bud_aviq_result_table34_bi2025,aviq,2025,-379246000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA Table34 resultat budgetaire BI2025 -379.246m; mainly treasury rembours 335.3m; tick621
+bud_aviq_treasury_rembours_bi2025,aviq,2025,335300000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA s8.2: remboursement tresorerie AViQ a Region 335.3m BI2025; tick621
+bud_aviq_gov_impact_inexec_bi2025,aviq,2025,-330600000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA: gov financing impact -330.6m after presumed inexecution 48.6m; tick621
+bud_aviq_inexec_presume_bi2025,aviq,2025,48600000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA: inexecution presumee credits 48.6m BI2025 in consol saldo calc; tick621
+bud_aviq_nonmarchand_bi2025,aviq,2025,276200000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA s8.2: accords non-marchand 2021-24 full 276.2m BI2025 (was 125.1m BI2024 +151.1m); tick621
+bud_aviq_facultatives_cut_bi2025,aviq,2025,10000000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA: economy cut facultatives dotation 10.0m BI2025 (5m on subs + 5m via inexec); tick621
+bud_dual_aviq_vl_social_class_2025,gg_belgium,2025,7249333000,,,budgeted,src_dual_aviq_vl_social_sec_tick621,strong,AViQ SEC dep 7.249bn BI2025 dual VL VAPH/VSB/Opgroeien class not additive; tick621
