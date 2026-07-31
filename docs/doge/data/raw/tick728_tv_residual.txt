@@ -1,0 +1,1084 @@
+﻿===p 16 ===
+Hoofdstuk 4
+Financieel model 
+Oosterweelverbinding
+Het financieel model laat toe de resterende netto-financieringsbehoefte van Lantis voor de rea -
+lisatie van de Oosterweelverbinding te bepalen en de terugbetalingscapaciteit van het project 
+met tolinkomsten te beoordelen (ΓÇÿrobustness of the business caseΓÇÖ ). Het model laat ook toe enkele 
+financi├½le ratioΓÇÖs op te volgen. Tot slot laat het model sedert de business case 2025 ook beter toe de 
+totale omvang van het project op te volgen, wat zijn informatiewaarde heeft verhoogd.
+Tabel 4 geeft een overzicht van de belangrijkste variabelen in het financieel model sinds het model 
+voor het eerst werd opgesteld (in 2018). Deze variabelen en hun evolutie over de tijd worden hierna 
+verder toegelicht, met bijzondere aandacht voor de business case 2026 . Het financieel model gaat 
+momenteel uit van een maximale aftrekbaarheid van de btw (zie ook 3.4).
+Tabel 4 ΓÇô Overzicht van de belangrijkste variabelen in het financieel model (in miljoen euro)
+Business  
+case	2018
+Business  
+case 2020
+Business  
+case 2023
+Business  
+case 2025
+Business  
+case 2026
+Einde bouwfase 31/12/2030 31/12/2030 31/12/2030 31/12/2033 31/12/2033
+Materieel	vaste	activa	
+(balans)	OWV	op	einde	
+bouwfase
+? ? ? 10.885 13.614
+Resterende	nettofinancie-
+ringsbehoefte in bouwfase ? 3.817 6.672 7.499 8.273
+Resterende investeringen 
+(CAPEX) in bouwfase 4.209 4.280 5.824 6.228 7.275
+Resterende exploitatie- en 
+onderhoudskosten (OPEX) 
+in bouw- & exploitatiefase
+5.839 5.972 5.878 4.542 4.464
+Maintenance	reserve	
+account	(MRA)11 ? 1.525 1.525 973 973
+Opname 
+langetermijnobligaties12 266 3.600	(+	217)	 
+=	3.817
+3.600	(+1.872) 
+=	5.472
+5.500	(+	
+1.999) 
+=	7.499
+5.500	(+	2.251) 
+=	7.751
+Opname	achtergestelde	
+aandeelhoudersleningen 0 0 (1.200) 1.200 1.200	+	1.650 
+=	2.850
+11 De maintenance reserve account (MRA)	 wordt	 opgebouwd	 om	toekomstige	 grote	 herstellings-	 of	onderhoudswerken	 (cfr.	
+levenscycluskosten)	 van	de	Oosterweelverbinding	 te	financieren.	 Dat	gebeurt	 in	perioden	 waarin	voldoende	cash	overblijft	
+nadat	aan	alle	verplichtingen 	werd	voldaan	(bv.	operationele 	kosten).	De	schuldaflossingen 	worden	in	het	financieel 	model	
+echter	bepaald	(ΓÇÿgestuurdΓÇÖ) 	door	die	MRA-opbouw: 	eerst 	worden	middelen 	in	de	MRA	gestort 	en	als	er	dan	nog	geld	over-
+blijft,	wordt	dat	gebruikt	om	de	schulden	af	te	betalen.
+12 De	bedragen	tussen	haakjes	zijn	parameters	 in	het	financieel	model	die	op	dat	ogenblik	al	worden	toegepast,	 maar	nog	niet	
+contractueel	zijn	verankerd	en	dus	nog	niet	politiek	zijn	toegezegd.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	15
+
+===p 17 ===
+Business  
+case	2018
+Business  
+case 2020
+Business  
+case 2023
+Business  
+case 2025
+Business  
+case 2026
+Einde bouwfase 31/12/2030 31/12/2030 31/12/2030 31/12/2033 31/12/2033
+Rentelasten (te betalen 
+tijdens	2026-2083) 2.589 2.356
+8.130	 
+(+	4.692) 
+=	12.822
+17.041 24.495
+Uitstaande	schuld	op	
+achtergestelde	leningen	
+op	31/12/2083	(inclusief	
+gekapitaliseerde rente)
+1.108
+27.046	 
+(inclusief	24.338	
+gekapitali- 
+seerde rente)
+Dividenden in 
+exploitatiefase 12.626 12.295 1.108 0 0
+Terugbetaling 
+aandeelhouderskapitaal ? 1.201 1.201 208 0
+Tolinkomsten in 
+exploitatiefase 28.498 29.163 30.035 35.640 35.429
+Bron: Rekenhof, op basis van het financieel model van Lantis
+4.1 Bouwkosten en operationele kosten
+Het financieel model gaat ervan uit dat het Oosterweelproject in zijn totaliteit tegen het einde 
+van de bouwfase (31 december 2033) ongeveer 13.614 miljoen euro in materieel vaste activa 13 zal 
+vertegenwoordigen op de balans van Lantis 14. Dat is een toename met 2.729 miljoen euro (25,1 %) 
+tegenover de business case 2025 . Een deel van deze uitgaven is echter al gebeurd; de resterende 
+netto-financieringsbehoefte tot het einde van de bouwfase bedraagt ΓÇô op basis van het financi -
+eel model ΓÇô nog 8.273.491.272 euro. Zij is afkomstig van onder meer 7.274,6 miljoen euro reste -
+rende CAPEX-uitgaven (waarvan, volgens het financieel model, nog 785,5 miljoen euro resterende 
+PFAS-uitgaven en 951,6 miljoen euro resterende andere overmachtrisicoΓÇÖs, verbonden aan asbest, 
+bodemverontreiniging en grondafzet, en strengere eisen of normen 15) en 317,3 miljoen euro res -
+terende OPEX-kosten (exploitatie en onderhoud), alle geraamd over de periode 1 januari 2026-
+31 december 2033.
+Tabel 5 toont dat de resterende CAPEX substantieel zijn toegenomen van 6.228,1 miljoen euro 
+vorig jaar tot 7.274,6 miljoen euro in de business case 2026 , ondanks de investering van 1.174 mil -
+joen euro in 2025 (die de resterende CAPEX dus deed afnemen). Het Rekenhof stelt vast dat 
+momenteel vooral in de periode 2026-2028 een sterke toename van de CAPEX wordt verwacht. De 
+oorzaken hiervan zijn vooral: (1) de 1.811 miljoen euro nog te maken uitgaven voor PFAS en andere 
+overmachtrisicoΓÇÖs en (2) 225 miljoen euro contractuele aanpassingen en meerwerken 16.
+13 Dit	bedrag	bestaat	uit	10.821,4	miljoen	euro	investeringen	en	2.792	miljoen	euro	intercalaire	rente.
+14 Tot de business case 2025 	kon	dit	niet	uit	het	rekenblad	(in	Excel)	worden	afgeleid.
+15 In de business case 2026 	worden	alle	overmachtrisicoΓÇÖs 	nu	gekapitaliseerd 	op	de	balans, 	als	deel	van	de	materieel 	vaste	ac-
+tiva.	Voordien	werden	de	meeste	van	deze	risicoΓÇÖs	onmiddellijk	als	kosten	in	het	resultaat	verwerkt.
+16 Het	gaat	om	een	nettobedrag,	na	het	in	mindering	brengen	van	de	minwerken	(zoals	voor	PFAS).
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	16
+
+===p 18 ===
+Tabel 5 ΓÇô Overzicht van de resterende CAPEX in de bouwfase (in miljoen euro)
+Jaar Business case 
+2025
+Business case 
+2026
+Procentuele 
+wijziging
+2025 895,53
+2026 803,97 1.220,20 51,77	%
+2027 688,70 1.185,83 72,18	%
+2028 748,66 1.142,04 52,55	%
+2029 792,63 1.104,46 39,34	%
+2030 730,56 953,15 30,47	%
+2031 604,27 765,47 26,68	%
+2032 514,47 515,03 0,11	%
+2033 449,28 388,46 -13,54	%
+Totaal 6.228,07 7.274,64 16,80	%
+Bron: Rekenhof, op basis van het financieel model van Lantis
+In de business case 2026 werden de operationele en onderhoudskosten (OPEX) niet opnieuw bere-
+kend. Het Rekenhof verwijst daarom naar zijn eerdere analyse en opmerkingen over deze kosten 
+in zijn controleverslag van vorig jaar. De belangrijkste opmerking is dat het financieel model in 
+de periode 2034-2083 (exploitatiefase) alleen rekening houdt met de grote herstellings- en onder -
+houdskosten voor de Oosterweelverbinding. Het model houdt dus nog altijd geen rekening met 
+de renovatiekosten voor de Kennedytunnel en de Liefkenshoektunnel, terwijl het wel al rekening 
+houdt met de tolinkomsten uit beide tunnels. De totale OPEX van 4.463,8 miljoen euro, waar -
+van 4.146,5 miljoen euro tijdens de exploitatiefase, wordt daardoor volgens het Rekenhof ruim 
+onderschat.
+Begin maart 2026 verwachtte de NBB nog dat de inflatie in de periode 2026-2028 gemiddeld rond 
+2 % zou liggen. De assumptie in het financieel model dat de uitgaven en kosten met 2 % per 
+jaar zullen stijgen, is daarmee in lijn. Het is echter nog af te wachten wat de gevolgen op de 
+middel lange termijn zullen zijn van de oorlog in het Midden-Oosten voor de evolutie van uitgaven  
+en kosten.
+4.2	 Financiering	en	liquiditeitspositie
+Aandeelhouderslening gronden
+Het Rekenhof merkt op dat Lantis in de business case 2026 nu weer rekening houdt met de terug-
+betaling van de lening van 176,5 miljoen euro die de Vlaamse overheid in 2004 aan de toenmalige 
+BAM verstrekte om de aankoop van gronden in Zwijndrecht te financieren. In de business case 
+2025 veronderstelde Lantis nog dat deze lening in de eerste helft van 2025 zou worden geconver -
+teerd in eigen vermogen. De lening zal nu worden terugbetaald vanaf de tweede helft van 2037 tot 
+en met eind 2041. Het Rekenhof merkt echter op dat Lantis sedert 2024 geen rekening meer houdt 
+met de betaling van enige rente op deze lening17 (in de business case 2023 hanteerde Lantis nog een 
+rentevoet van 2 % per jaar op deze lening).
+17 De	concrete	voorwaarden	van	die	lening	zijn	nooit	contractueel	vastgelegd	door	de	minister	van	Financi├½n	en	Begroting.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	17
+
+===p 19 ===
+Project bonds
+Om de resterende nettofinancieringsbehoefte van 8.273,5 miljoen euro te financieren, zal Lantis 
+tijdelijk gebruik maken van langetermijnobligaties ( project bonds), waarop het Vlaams Gewest 
+zal intekenen. Tabel 6 toont dat het financieel model nu uitgaat van de opname van in totaal 
+7.751,5 miljoen euro project bonds in de periode 2026-2033. Dat is een toename van 252,9 miljoen 
+euro tegenover de business case 2025. De eerste project bonds zullen nu evenwel pas vanaf oktober 
+2026 worden opgenomen, voor een bedrag van 956,3 miljoen euro.
+Vanaf de business case 2026  zullen alle project bonds een nieuwe, vaste einddatum hebben, met 
+name 31 december 2035. Dat betekent dat de project bonds die in oktober 2026 worden uitgege -
+ven, een looptijd van iets meer dan negen jaar zullen hebben (in plaats van 40 jaar, zoals in de 
+business case 2025 werd verondersteld). De project bonds die in oktober 2033 worden uitgegeven, 
+zullen dan nog een looptijd hebben van iets meer dan twee jaar. Behalve de kortere looptijd van 
+de project bonds, is ook de berekening van de risicopremie (de zogenaamde spread) gewijzigd: de 
+Vlaamse overheid verminderde in het tweede addendum bij de kaderovereenkomst financiering 
+van 5 december 2025 deze risicopremie van 100 naar 60 basispunten. Aangezien de langetermijn -
+rentevoet voor tienjarige OLOΓÇÖs begin maart 2026 schommelde tussen 3,15 % en 3,30 %, is een 
+veronderstelde rentevoet van 3,98 % marktconform (immers: 3,30 % + 0,60 % = 3,90 % < 3,98 %). 
+Gelet op de huidige termijnstructuur van de rentevoeten lijkt een constante rentevoet van 3,98 % 
+voor de toekomstige uitgiftes van project bonds ook voldoende voorzichtig. Het is echter nog af 
+te wachten wat de effecten op de middellange termijn zullen zijn van de oorlog in het Midden-
+Oosten voor de evolutie van de rentevoeten.
+Tabel 6 toont dat er in de jaren 2026-2033 substantieel meer middelen via project bonds  zullen 
+worden opgenomen (7.751,5 miljoen euro in totaal). Dat is 2.251,5 miljoen euro (40,9 %) meer dan 
+het leningenplafond van 5.500  miljoen euro dat Lantis met het Vlaams Gewest heeft afgesproken 
+voor deze obligaties. Een herziening van het leningenplafond is volgens Lantis in de huidige legis -
+latuur niet aan de orde.
+Tabel 6 ΓÇô Overzicht van de geplande opname van project bonds (in miljoen euro) en hun rentevoet
+Business case 2025 Business case 2026
+Bedrag Rentevoet Bedrag Rentevoet
+Project	bonds	2025 1.251,65 4,36	%
+Project	bonds	2026 839,71 4,36	% 956,28 3,98	%
+Project	bonds	2027 759,96 4,36	% 1.209,24 3,98	%
+Project	bonds	2028 852,17 4,36	% 1.212,24 3,98	%
+Project	bonds	2029 931,83 4,36	% 1.221,20 3,98	%
+Project	bonds	2030 812,57 4,36	% 1.019,88 3,98	%
+Project	bonds	2031 719,32 4,36	% 881,21 3,98	%
+Project	bonds	2032 682,32 4,36	% 673,42 3,98	%
+Project	bonds	2033 649,10 4,36	% 578,01 3,98	%
+Totaal 7.498,62 7.751,49
+Bron: Rekenhof, op basis van het financieel model van Lantis
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	18
+
+===p 20 ===
+Op 31 december 2035 zullen alle project bonds, die dan alle op vervaldatum komen, worden omge-
+zet in een langetermijnlening bij de Vlaamse overheid, met een rentevoet van 4 % en een looptijd 
+van 13 jaar18. Deze lening van 7.751,5 miljoen euro moet daarna worden terugbetaald met tolinkom-
+sten19. De lening heeft een sculpted karakter, wat betekent dat de schuldaflossingen kunnen wor -
+den afgestemd op de bij Lantis beschikbare liquide middelen (die vooral door die tolinkomsten 
+zullen worden bepaald). Aangezien er op 31 december 2035 al twee jaar ervaring zal zijn met de 
+exploitatie van de drie tunnels in een verbonden infrastructuurnetwerk 20, laat deze herfinanciering 
+middels een langetermijnlening ook een herijking toe. Zo zou de Vlaamse overheid kunnen beslis-
+sen een deel van de uitstaande schuld niet te herfinancieren en, bijvoorbeeld, om te zetten in 
+aandelenkapitaal, mocht blijken dat de tolinkomsten minder hoog uitvallen dan eerder geraamd. 
+Dat betekent meteen ook dat de Vlaamse overheid vanaf dan zelf moet instaan voor een deel van 
+de schuldverbintenissen die Lantis eerder is aangegaan en waarvoor de Vlaamse overheid zelf 
+eigen leningen heeft aangegaan. In dat opzicht is de nieuwe financieringsstructuur voor Lantis 
+robuuster geworden dan de vorige; voor de Vlaamse overheid is het financieel risico echter aan -
+zienlijk toegenomen (zie verder).
+Daarna zijn er in principe nog twee herijkingsmomenten mogelijk, met name op 31 december 
+2048 en op 31 december 2061, telkens wanneer de nieuw aangegane langetermijnlening (met een 
+looptijd van dertien jaar) op vervaldag komt en de nog uitstaande schuld moet worden geherfi -
+nancierd. Op dit ogenblik gaat het financieel model nog niet uit van een dergelijke, toekomstige 
+schuldherschikking(en). Het model toont dat ΓÇô gelet op de huidige gemodelleerde tolinkomsten 
+ΓÇô de terugbetaling van de langetermijnlening van 7.751,5 miljoen euro kan beginnen in het eerste 
+semester van 2045 ( sculpted karakter van de lening). Deze lening zou dan volledig zijn terugbe -
+taald in het tweede semester van 2074. De rentelasten die Lantis op de (drie) langetermijnlenin -
+gen met telkens een looptijd van dertien jaar moet betalen in de periode 2036-2074, lopen op tot 
+9.577,7 miljoen euro.
+Achtergestelde aandeelhouderslening
+Tot slot is er ook nog een achtergestelde aandeelhouderslening. In december 2025 werd het pla -
+fond voor die achtergestelde lening opgetrokken van 1,2 naar 2,85 miljard euro (een toename met 
+1,65 miljard euro, ter financiering van de extra overmachtrisicoΓÇÖs die de Vlaamse overheid toe -
+wees aan Lantis). Eind 2025 was al 1.128 miljoen euro van deze bijkomende achtergestelde lening 
+opgenomen (met een rentevoet van 5 % en een niet nader bepaalde looptijd). Lantis plant om de 
+laatste schijf ervan (522 miljoen euro) op te nemen in het eerste semester van 2026. Eind 2026 zal 
+dus effectief 2,85 miljard euro via de achtergestelde aandeelhoudersleningen zijn geleend. Het 
+Rekenhof stelt vast dat de bijkomende achtergestelde lening van 1,65 miljard euro alvast ook al 
+werd gebruikt om andere uitgaven dan overmachtrisicoΓÇÖs te financieren.
+18 Volgens	het	tweede	addendum	bij	de	kaderovereenkomst	 financiering	 (van	5	december	2025)	is	de	typische	 duurtijd	 van	de	
+leningen	van	de	Vlaamse 	overheid	dertien 	jaar.	Door	vanaf	31	december	2035	telkens	te	werken	met	langetermijnleningen 	
+met	een	looptijd	van	dertien	jaar	kan,	volgens	de	Vlaamse	overheid,	de	financieringsstructuur	 van	het	project	beter	worden	
+afgestemd op het Asset & Liability Management  (ALM) van de Vlaamse overheid.
+19 Het	financieel	 model	toont	dat	de	rentelasten	 op	deze	project bonds 	tot	eind	2035	in	totaal	zullen	oplopen 	tot	1.905,2 	mil-
+joen	euro	(beginnend	 met	46,7	miljoen	euro	in	2027,	95,8	 miljoen	euro	in	2028,	 enz.,	en	eindigend	 met	312,8	 miljoen	euro	
+in	2035).	Het	financieel	model	gaat	ervan	uit	dat	de	tolinkomsten	 in	elk	van	die	jaren	voldoende	hoog	 zullen	zijn	opdat	min-
+stens de rentelasten op de project bonds  kunnen worden betaald.
+20 Een verbonden infrastructuurnetwerk 	in	de	betekenis	 van	de	Europese	 tolrichtlijn	 bestaat	 uit	verscheidene	 onderdelen,	 die	
+niet	noodzakelijk	rechtstreeks	met	elkaar	verbonden	zijn,	maar	die	toch	een	verkeerskundige	samenhang	hebben.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	19
+
+===p 21 ===
+Meerjarenplanning schuldopname
+De meerjarenramingen van de Vlaamse begroting 2026-2030 houden nog niet volledig rekening 
+met deze geplande schuldopnames door Lantis (zie tabel 7). Voor de periode 2026-2030 blijkt er 
+een tekort van 1.679,8 miljoen euro, waarvan 703,3 miljoen euro (41,9 % van het totale tekort) zich 
+al in 2026 voordoet.
+Tabel 7 ΓÇô Overzicht geplande schuldopname Lantis versus meerjarenramingen Vlaamse begroting  
+ 2026-2030 (in miljoen euro)
+Geplande	schuldopname Gebudgetteerde	schuldopname
+2026 956,28	+	522,00	=	1.478,28 775,00
+2027 1.209,24 848,68
+2028 1.212,24 906,53
+2029 1.221,20 965,43
+2030 1.019,88 965,43
+Totaal 6.140,84 4.461,07
+Bron: Rekenhof, op basis van het financieel model van Lantis en gegevens van F&B
+Rentekapitalisatie en schuldontwikkeling
+Aangezien de rentebetalingen en schuldaflossingen op de langetermijnleningen (7.751,5 mil-
+joen euro tegen 4 %) prioriteit krijgen/hebben ten aanzien van die op de achtergestelde aan -
+deelhoudersleningen (2.850 miljoen euro tegen 5 %), toont het financieel model dat Lantis er 
+pas in het tweede semester van 2044 voor het eerst in zal slagen om enige rente te betalen op 
+de achtergestelde leningen, voor een bedrag van 39,4 miljoen euro. Op dat ogenblik zal de uit -
+staande schuld op deze achtergestelde leningen door alle uitgestelde rentebetalingen al gestegen 
+zijn tot 7.092,0 miljoen euro, waardoor Lantis eigenlijk 354,6 miljoen euro rente 21 had moeten 
+betalen. Indien er geen herijking komt in 2035, toont het financieel model dat Lantis in de periode 
+2044-2083 slechts 12.945,2 miljoen euro rente op de achtergestelde aandeelhoudersleningen kan 
+betalen. De rente die Lantis niet kan betalen en dus uitstelt, wordt in het financieel model ΓÇÿgeka -
+pitaliseerdΓÇÖ, d.w.z. toegevoegd aan het bedrag dat Lantis heeft ontleend 22. Het financieel model 
+zonder herijking toont dat Lantis op die manier in totaal 24.338,4 miljoen euro rente doorschuift 
+(kapitaliseert) naar eind 2083 omdat de geraamde tolinkomsten onvoldoende hoog zijn om die 
+rentebetalingen eerder te doen. Op het einde van de exploitatiefase (eind 2083) zal het uitstaande 
+bedrag op de achtergestelde aandeelhoudersleningen bijgevolg 27.046,4 miljoen euro bedragen 
+(zie ook tabel 4). Lantis zal dus in de periode 2034-2083 geen enkele schuldaflossing op de achter -
+gestelde aandeelhoudersleningen kunnen maken.
+21 5	%	*	7.092,0	miljoen	euro	=	354,6	miljoen	euro.
+22 Een	discussie	 over	het	onderscheid	 tussen	enkelvoudige	 en	samengestelde	 rentevoeten	 doet	hier	niet	ter	zake,	aangezien	
+het	 uitstellen	 van	 rentebetalingen	 impliceert	 dat	 Lantis	 een	 bijkomend	 bedrag	 (ter	 waarde	 van	 de	 niet-betaalde	 rente)	
+ontleent.	 Daardoor	 zal	Lantis	 op	de	uitgestelde	 rentebetalingen	 ook	rente	moeten	 betalen	 en	is	automatisch	 een	samen-
+gestelde rentevoet van toepassing. Om te kunnen genieten van een enkelvoudige rentevoet dient Lantis elk jaar aan zijn 
+renteverplichtingen	 te	voldoen,	wat	alleen	mogelijk	is	als	het	ontleende	bedrag	in	verhouding	blijft	staan	tot	de	draagkracht	
+van	het	 financieel	 model	 (d.w.z.	de	toekomstige	 tolinkomsten).	 Dit	 zal	enkel	mogelijk	 worden	 na	een	eventuele	 herijking	
+eind 2035.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	20
+
+===p 22 ===
+Tabel 4 maakt daarom een onderscheid tussen 24.338,4 miljoen euro gekapitaliseerde rente en 
+24.495,0 miljoen euro rente die Lantis daadwerkelijk zal betalen tot eind 2083. Die laatste rente 
+bestaat uit:
+ΓÇó rente op het commercial paper23: 66,9 miljoen euro
+ΓÇó rente op de project bonds: +  1.905,2 miljoen euro
+ΓÇó rente op de langetermijnleningen: + 9.577,7 miljoen euro
+ΓÇó rente op de achtergestelde aandeelhoudersleningen: + 12.945,2 miljoen euro
+ 24.495,0 miljoen euro
+Dat de situatie in de business case 2026  zo verslechterde ten opzichte van vorig jaar is in belang -
+rijke mate te verklaren door de bijkomende achtergestelde aandeelhouderslening van 1,65 miljard 
+euro, ter financiering van de extra overmachtrisicoΓÇÖs die aan het financieel model werden toegewe-
+zen. Als eind 2025-begin 2026 in het financieel model een extra lening van 1,65 miljard euro moet 
+worden opgenomen, waarbij het duidelijk is dat tot eind 2083 geen rentebetalingen en schuld -
+aflossingen op die extra lening mogelijk zijn, dan stijgt de uitstaande schuld op die bijkomende 
+lening tegen eind 2083 tot 26,62 miljard euro:
+1,65*(1+5%)57=26,62
+Voor het vorderingensaldo van de Vlaamse Gemeenschap maakt het niet uit of de financiering 
+van de overmachtrisicoΓÇÖs al dan niet ten laste wordt gelegd van het financieel model. Aangezien 
+Lantis integraal deel uitmaakt van de consolidatiekring van de Vlaamse overheid, tellen al zijn 
+uitgaven en inkomsten mee voor de berekening van het vorderingensaldo en de overheidsschuld 
+van de geconsolideerde entiteit Vlaamse Gemeenschap. Het maakt w├⌐l uit voor de robuustheid 
+van het financieel model (versie zonder herijking), doordat de financiering ten laste van het finan-
+cieel model leidt tot extra schuldopbouw ├á rato van 5 % per jaar en een uitstaande schuld van 
+27.046,4 miljoen euro eind 2083, zoals figuur 3 illustreert.
+Het Rekenhof besluit dat de toewijzing van extra overmachtrisicoΓÇÖs aan het financieel model 
+eind 2025 een niet te verantwoorden beleidsbeslissing was.
+23 Lantis	financiert 	zijn	kortetermijnfinancieringsnoden 	in	de	bouwfase 	met	commercial paper ; dat het elk jaar in de maand 
+oktober plant om te zetten naar project bonds 	(hoewel	het	in	de	praktijk	ook	al	de	achtergestelde 	lening	van	1,2	miljard	euro	
+daarvoor	 heeft	aangewend	en	ook	al	deels	de	bijkomende	achtergestelde	 lening	van	1,65	miljard	euro).	De	rentevoeten	 van	
+het commercial paper 	worden	in	het	financieel	model	nu	gemiddeld	op	2,83	%	geraamd,	wat	volgens	het	Rekenhof	een	meer	
+voorzichtige	inschatting	inhoudt	dan	in	de	 business case 2025 .
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	21
+
+===p 23 ===
+Figuur 3 ΓÇô Openstaande schuld Lantis per financieringsbron (in miljoen euro), periode 2025-2083
+Aandelenkapitaal Aandeelhouderslening gronden
+Langetermijnlening Achtergestelde aandeelhouderslening
+Project bonds
+1/01/20251/01/20281/01/20311/01/20341/01/20371/01/20401/01/20431/01/20461/01/20491/01/20521/01/20551/01/20581/01/20611/01/20641/01/20671/01/20701/01/20731/01/20761/01/20791/01/2082 
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+Bron: Rekenhof, op basis van het financieel model van Lantis
+Volgens het Rekenhof kan de Vlaamse overheid er daarom ΓÇô bij de herijking op 31 december 2035 ΓÇô 
+best al van uitgaan dat ze een groot deel van de achtergestelde leningen, inclusief gekapitaliseerde 
+rente, zal moeten overnemen van Lantis om deze rentesneeuwbal 24 t e  v e rmi j d e n .  H e t  fin an ci-
+eel model toont dat de uitstaande schuld inclusief gekapitaliseerde rente op de achtergestelde 
+aandeelhoudersleningen op dat ogenblik al 4.800,2 miljoen euro zal bedragen. Volgens eigen 
+berekeningen van het Rekenhof bedraagt het gedeelte van deze schuld dat nog enigszins door 
+het financieel model kan worden gedragen ΓÇô op basis van de momenteel door Lantis geraamde 
+tolinkomsten ΓÇô 1.977,9  miljoen euro (41,2  % van 4.800,2  miljoen euro). Het grootste gedeelte van 
+deze schuld (2.822,3 miljoen euro of 58,8 %) zal de Vlaamse overheid dus moeten overnemen. Het 
+Rekenhof merkt op dat deze berekeningen berusten op de veronderstelling dat Lantis de toekom -
+stige tolinkomsten uit de drie tunnels correct heeft ingeschat (zie verder). Bij elke overschatting 
+van die toekomstige tolinkomsten, zal de Vlaamse overheid een nog groter bedrag moeten over -
+nemen op het ogenblik van de herijking, aangezien het juist de bedoeling van die herijking is om 
+de schuldbetalingen in lijn te brengen met de draagkracht van het financieel model op basis van 
+de te verwachten tolinkomsten in de periode 2036-2083.
+24 Als	de	rentevoet	 op	de	uitstaande	 schuld	(hier:	5	%)	hoger	is	dan	de	toekomstige	 inkomstengroei,	 kan	een	rentesneeuwbal  
+ontstaan.	 Dat	zal	het	geval	zijn	als	de	schuld	al	een	zekere	omvang	heeft	bereikt.	 Dan	zullen	de	normaal	geplande	rentebe -
+talingen	 moeten	 worden	 uitgesteld	 (gekapitaliseerd),	 wat	de	al	bestaande	 schuld	 zal	doen	 toenemen.	 Dat	genereert	 een	
+zichzelf	versterkend 	effect: 	de	hogere	schuld	leidt	tot	nog	hogere	toekomstige 	renteverplichtingen, 	wat	de	schuldgraad 	in	
+een volgende stap opnieuw verhoogt, enz.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	22
+
+===p 28 ===
+4.4	 Deelconclusies
+De momenteel beschikbare financieringsbronnen zullen niet volstaan om de resterende 
+8.273,5 miljoen euro netto-financieringsbehoefte van Lantis in de periode 2026-2033 te dekken. 
+Lantis heeft nog 2.251,5 miljoen euro tekort ten opzichte van het huidige leningenplafond dat 
+het met het Vlaams Gewest heeft afgesproken. Daarnaast is ook de terugbetalingscapaciteit van 
+het project met tolinkomsten in de periode 2034-2083 niet gegarandeerd, aangezien Lantis deze 
+tolinkomsten nog altijd hoog inschat en het in die periode aanzienlijke rentebetalingen uitstelt 
+(kapitaliseert) tot eind 2083. De vermindering van de risicopremie op de project bonds  van 100 
+naar 60 basispunten volstond niet om een rentesneeuwbal te vermijden. Het is duidelijk dat de 
+toewijzing van extra overmachtrisicoΓÇÖs aan het financieel model eind  2025 een niet te verantwoor-
+den beleidsbeslissing was.
+Verder toont het financieel model aan dat de terugbetaling van de achtergestelde aandeelhou -
+dersleningen tegen eind 2083 onmogelijk is. Zonder ingrijpen van de Vlaamse overheid zullen 
+die achtergestelde aandeelhoudersleningen tegen eind 2083 zijn aangegroeid tot 27.046,4 miljoen 
+euro. De Vlaamse overheid heeft in december 2025 met een tweede addendum bij de kaderover -
+eenkomst financiering, nu echter wel een herijkingsmoment ingebouwd, met name op 31  decem-
+ber 2035. Het Rekenhof heeft berekend dat de Vlaamse overheid op het ogenblik van die herijking 
+minstens 2.822,3 miljoen euro achtergestelde schulden van Lantis zal moeten overnemen om de 
+rentebetalingen en schuldaflossingen in lijn te kunnen brengen met de gemodelleerde tolinkom -
+sten. Bij elke overschatting van die toekomstige tolinkomsten, zal de Vlaamse overheid op het 
+ogenblik van die herijking een nog groter bedrag moeten overnemen.
+Het financieel model toont dat de liquiditeitspositie van Lantis in de periode 2034-2037 precair 
+blijft. Doordat Lantis nu echter massaal gebruik maakt van de mogelijkheid om rentebetalingen 
+uit te stellen, heeft de DSCR (debt service coverage ratio) zijn informatiewaarde verloren. De DSCR 
+is volgens het Rekenhof dan ook niet meer bruikbaar om de robuustheid van het financieel model 
+op te volgen.
+Het Rekenhof concludeert dat het financieel model (de business case 2026 ) niet robuust is, gege -
+ven dat het geen garantie biedt dat alle aangegane leningen zullen worden terugbetaald met tolin-
+komsten. De stellingname van de zesde voortgangsrapportering van de Vlaamse Regering dat de 
+financiering van exogene risicoΓÇÖs met een achtergestelde lening de robuustheid van het financieel 
+model niet aantast, klopt niet met de werkelijkheid, zoals blijkt uit de cijfers van de business case 
+2026.
+Het Rekenhof beveelt aan de bijkomende achtergestelde lening van 1,65 miljard euro onmiddel -
+lijk om te zetten in een kapitaalverhoging of investeringstoelage aan Lantis en daarvoor niet te 
+wachten tot het herijkingsmoment in 2035. Dat zou de financieringsstructuur vereenvoudigen en 
+vermijdt ook dat de rentelasten zich opstapelen tegen het ogenblik van herijking.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	27
+
+===p 29 ===
+Hoofdstuk 5
+Leefbaarheidsprojecten
+5.1 Afspraken en fasering
+Noordelijke Ringparken
+De noordelijke Ringparken (Noordkasteel, Groenendaal, Lobroekdok en Het Schijn) lig -
+gen in het projectgebied Oosterweel. De onderbouw is mee opgenomen in de hoofdwerken 
+van de Oosterweelverbinding en volgt de timing van de uitvoering van de snelweginfrastruc -
+tuur. De bouwfase van de bovenbouw verloopt voor de onderdelen binnen de werkzone van de 
+Oosterweelverbinding samen met de uitvoering van de onderbouw, ofwel onmiddellijk aanslui -
+tend. Het politiek stuurcomit├⌐ van 17 oktober 2022 besliste tot een maximale overkapping van de 
+noordelijke Ring, waardoor een aantal van de reserveleefbaarheidsprojecten versneld zou worden 
+uitgevoerd (zie tabel 11). Die projecten zijn in de bestaande fiches van de noordelijke Ringparken 
+ge├»ncorporeerd. De voorontwerpen van de bovenbouw van die bijkomende overkappingen zijn 
+ondertussen goedgekeurd en worden ge├»ntegreerd in een geactualiseerd voorontwerp van de leef -
+baarheidsprojecten van 2021. Sinds 2024 werken de stad Antwerpen en Lantis samen aan de opmaak 
+van een gezamenlijke vergunningsaanvraag voor onder- en bovenbouw voor de werkzone 3B van 
+de Oosterweelverbinding op basis van die geactualiseerde voorontwerpen van de noordelijke 
+Ringparken, inclusief bos- en natuurcompensatie. Het ontwerp van de Ringparken werd voor de 
+vergunningsaanvraag gestript van de delen die juridisch nog niet vergunbaar zijn, maar waarvoor 
+eerst een RUP nodig is. Deze vergunningsaanvraag Overkappingsvergunning VA10 loopt vertraging 
+op en zou nu in het tweede kwartaal van 2026 worden afgewerkt. De voortgangsrapportage geeft 
+deze informatie niet duidelijk mee. Zij behield de timing uit de vorige voortgangsrapportage voor 
+de opmaak van de definitieve ontwerpen en de start van de uitvoering voor de meeste noordelijke 
+Ringparken. Zij beschrijft de voortgang van de noordelijke Ringparken wel afdoende.
+Ringpark West
+Het Ringpark West wordt het eerste afgewerkte ringpark, met een oplevering tegen de zomer van 
+2026.
+Scheldebrug
+Voor de Scheldebrug is De Vlaamse Waterweg (DVW) de aanbestedende overheid. De aanbeste -
+ding van dat project startte in 2024. De eerste offertes werden ingediend in september 2025 en de 
+definitieve offertes zullen in september 2026 worden ingediend. De planning die vorig jaar werd 
+aangegeven, wordt voorlopig behouden, met de start van de uitvoeringsfase in 2027.
+Ringpark Groene Vesten
+Het Ringpark Groene Vesten is niet verbonden aan de onderbouw van de Oosterweelverbinding. 
+De werken voor de cluster Zuid startten in 2025 en zullen vermoedelijk tegen zomer 2027 worden 
+opgeleverd, terwijl de aanleg van Next Generation Concrete Surface  ( N GCS )  als  g el ui ds maa tr e-
+gel is afgewerkt. Voor de cluster Centraal wordt voorgesteld zes van de negen deelzones van het 
+definitieve ontwerp te realiseren, gelet op de onzekerheid over de volledige overkapping van de 
+zuidelijke Ringweg.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	28
+
+===p 30 ===
+Ringpark Zuid
+Het Ringpark Zuid bevat, behalve twee leefbaarheidsprojecten, ook de Spaghettiknoop. Het 
+Agentschap Wegen en Verkeer (AWV) is aangeduid als aanbestedende overheid. In 2025 werd het 
+definitieve ontwerp opgemaakt. De timing voor de gunning en de aanvang van de werken werd 
+opgeschoven van 2027 naar 2028. Voor de start van de werken, die is gepland in 2028, moeten 
+nog verscheidene stappen plaatsvinden: de opmaak van een project-MER, de indiening van een 
+omgevingsvergunningsaanvraag en de aanbesteding.
+De voortgangsrapportage geeft passende informatie over de voorbereiding van de leefbaarheids -
+projecten. De projectfiches zijn bondiger gemaakt en geven voldoende informatie over de voort -
+gang, maar blijven onduidelijk over de concrete voortgang ten opzichte van de vorige rapportage.
+5.2	 Budget	en	financiering
+Voor de eerste fase van de leefbaarheidsprojecten was in 2018 een taakstellend budget afgesproken 
+van 1.250 miljoen euro, volgens het prijspeil van maart 2017 32 (voor een overzicht zie ook tabel 11). 
+Van de initi├½le 1.250 miljoen euro voor de eerste reeks leefbaarheidsprojecten kwam 1.000 miljoen 
+euro via een begrotingsbepaling uit de Vlaamse begroting ( overkappingsruiter) en 250 miljoen 
+euro van de bijdragen van de stad Antwerpen en het Havenbedrijf 33. Dat leverde een gezamenlijk 
+beoogd bedrag na indexatie van 1.594,2 miljoen euro op, volgens het prijspeil van januari 2022. 
+De voortgangsrapportage stelt dat van de 499,3 miljoen euro overkappingsruitermiddelen op 
+31 december 2025 nog 286,9 miljoen euro beschikbaar was.
+Het politiek stuurcomit├⌐ besliste op 22 maart 2022 dat het departement MOW samen met de 
+betrokken administraties moet zorgen voor een transparante opvolging van de aangewende mid -
+delen uit de overkappingsruiter, opdat het permanent duidelijk is hoe de leefbaarheidsprojecten 
+worden gefinancierd. De voortgangsrapportage maakt melding van de al aangewende bedragen.
+Het politiek stuurcomit├⌐ besliste op 17 oktober 2022 het budget voor de onderbouw Rechteroever 
+niet meer te financieren met middelen uit de overkappingsruiter, maar dat voortaan ook ten 
+laste te leggen van het financieel model, op basis van tolheffing. Het financieel model werd 
+voor 1.000 miljoen euro extra aangesproken, namelijk 700 miljoen euro voor de onderbouw 
+Rechteroever, ge├»ndexeerd tot 868 miljoen euro, en 132 miljoen euro voor de werkingskosten van 
+Lantis voor de realisatie van de leefbaarheidsprojecten (fase 1 en fase 2). De bovenbouw van de 
+leefbaarheidsprojecten Rechteroever en de andere leefbaarheidsprojecten blijven gefinancierd 
+langs de overkappingsruiter.
+32 Politiek	stuurcomit├⌐vergadering	 van	25	juni	2018.	Het	bedrag	van	1,25 miljard	euro	is	inclusief	btw	en	bevat	de	studiekosten	
+voor	de	betrokken	projecten,	 alsook	een	provisie	voor	onvoorziene	 kosten.	De	werkingskosten	 van	de	partners,	 kosten	voor	
+grondverwervingen en exploitatiekosten zijn niet inbegrepen.
+33 In	de	aangepaste	 begroting	 2017	 werd	 een	rollend	 fonds	 voor	 leefbaarheidsprojecten	 in	de	stedelijke	 zones	 rond	 de	R1 ΓÇô 
+Ring om Antwerpen 	gecre├½erd 	(begrotingsartikel 	MB0-1MHH2RD-WT). 	In	dat	fonds	worden	de	ongebruikte 	kredieten 	van	
+het	beleidsdomein	MOW	verzameld.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	29
+
+===p 31 ===
+Tabel 11 ΓÇô Raming kostprijs leefbaarheidsprojecten 2018, 2022, 2025 en 2026 (in miljoen euro),  
+ incl. btw en excl. al aangewende bedragen
+Raming  
+politiek	stuur-
+comit├⌐	2018
+Raming 
+fiches	voort-
+gangsrappor-
+tage	2022, 
+prijspeil	2019
+Raming 
+fiches	voort-
+gangsrappor-
+tage	2025, 
+prijspeil	2022
+Raming 
+fiches	voort-
+gangsrap-
+portage	2026,	
+prijspeil	2022
+Leefbaarheids-	en	overkappingsprojecten	Rechteroever	(RO)
+Ringpark Noordkasteel 14 49 42,2 42,2
+Ringpark Groenendaal 438 93 *107,7 *107,7
+Ringpark Lobroek 168 90 106,2 106,2
+Ringpark	Het	Schijn 185 53 51,9 51,9
+Subtotaal bovenbouw RO 285 308,0 308,0
+Onderbouw RO 700 868,0 868,0
+Subtotaal RO onderbouw + 
+bovenbouw 805 985 1.176,0 1.176
+Leefbaarheidsproject	Linkeroever
+Ringpark	West 110,5 110,5 **110,5 **110,5
+Leefbaarheids-	en	overkappingsprojecten	buiten	projectgebied	Oosterweel
+Ringpark Groene Vesten 78,0 78,0 75,2 75,2
+Ringpark Zuid 175,0 175,0 ***269,6 ***273,8
+Scheldeoeververbinding 71,0 221,4 240,7 ****246,2
+Overkoepelend 10,5 10,5 5,6 5,6
+Totaal	leefbaarheidsprojecten	
+fase	1 1.250,0 1.580,4 1.877,6 1.887,3
+Reserveleefbaarheidsprojecten	
+Kap	Groen	Hart 305,7 305,7
+Deeloverkapping Kap Dam/
+Slachthuislaan 3,5 3.5
+Nerf Kalverwei 33,2 33,2
+Deeloverkapping	Ringpark	Het	Schijn 266 266
+Verbreding Kap Ter Lo 65 65
+Groene Brug 5 5
+Totaal	reserveleefbaarheidsprojecten	(fase	2) 678,4 678,4
+Totaal	leefbaarheidsprojecten 2.556,0 2.565,7
+Totaal	leefbaarheidsprojecten	fase	1	en	fase	2, 
+ exclusief onderbouw RO 1.688,0 1.697,7
+*		 in	de	raming	zit	22,3	miljoen	euro	voor	het	project	Stadsserre	van	de	stad	Antwerpen
+**		 deze	raming	heeft	nog	steeds	het	prijspeil	van	2017;	de	raming	met	prijspeil	2025	bedraagt	139,3	miljoen	euro.
+***	 deze raming heeft reeds het prijspeil van 2024
+****		 deze	 raming	 heeft	 prijspeil	 2026	 en	 de	 overkoepelende	 kost	 van	 5,6	 miljoen	 zal	 pas	 na	 de	 gunning	 eind	 2026	 correct	 
+ kunnen geraamd worden
+Bron: Rekenhof, op basis van de projectfiches departement MOW
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	30
+
+===p 32 ===
+Doordat het politiek stuurcomit├⌐ de onderbouw van de leefbaarheidsprojecten Rechteroever ten 
+laste heeft gelegd van het financieel model, kwam een bedrag van 868  miljoen euro beschikbaar 
+bovenop de middelen waarin de overkappingsruiter al voorziet. Dat bracht het totaalbedrag voor 
+de leefbaarheidsprojecten op 2.462,3 miljoen euro. Dat nieuwe taakstellend budget geldt als een 
+gesloten enveloppe. De vrijgekomen budgettaire ruimte van 868 miljoen euro zou worden aange -
+wend voor de geraamde meerkosten van de leefbaarheidsprojecten in fase  1, alsook voor de reser-
+veleefbaarheidsprojecten. Tabel 11 geeft de huidige kostenraming voor alle leefbaarheidsprojecten 
+van fase 1 en de reserveprojecten weer en een overzicht van ramingen van de vorige jaren die 
+belangrijke aanpassingen kenden. De raming stijgt in 2026 tot 2.565,7 miljoen euro, 9,7 miljoen 
+euro meer dan in de vorige rapportage. Met uitsluiting van de onderbouw Rechteroever voor fase 1 
+bedraagt de raming voor de fasen 1 en 2 van de leefbaarheidsprojecten nu 1.697,7 miljoen euro. 
+De huidige raming is ondertussen opgelopen tot 103,5 miljoen euro meer dan het afgesproken 
+taakstellend budget van 1.594,2 miljoen euro. Tussen 2018 en 2025 heeft de Vlaamse overheid al 
+212,4 miljoen euro aangewend voor de leefbaarheidsprojecten. Gelet op het taakstellend budget 
+van 1.594,2 miljoen euro en het al aangewende bedrag, bedraagt het streefbedrag voor de mid -
+delen in de overkappingsruiter (inclusief de bijdrage van de stad Antwerpen) nu 1.381,8 miljoen 
+euro. Voor de overschrijding van het afgesproken taakbudget met 103,5 miljoen euro is nog geen 
+oplossing gevonden, zoals bijvoorbeeld het uitwerken van bijkomende optimalisaties.
+De overkappingsruiter wordt tot nu toe maar zeer geleidelijk opgebouwd, met 55 miljoen euro per 
+jaar. Een volledige opbouw aan dat tempo zou ongeveer 27 jaar in beslag nemen. Er is nog geen 
+voldoende gedetailleerde uitvoeringsplanning beschikbaar, waardoor er evenmin al duidelijkheid 
+is over de timing van de overkappingsruitermiddelen die nodig zijn. Volgens het Rekenhof is het 
+onzeker of de opbouw van de overkappingsruiter aan het huidige tempo zal volstaan voor de aan -
+wendingen die vanaf 2026 op gang komen en die vanaf 2030 sterk zullen toenemen.
+In 2022 werd afgesproken alle leefbaarheidsprojecten te optimaliseren om de globale raming 
+met 5,5 % te verminderen en zo binnen het taakstellend budget te blijven. Voor Ringpark West 
+bedragen de voorlopige einduitvoeringskosten 147,5 miljoen euro, wat een overschrijding van 8,2 
+miljoen boven het optimalisatiebudget is 34. Voor de Scheldeoeververbinding werd het geoptima -
+liseerde budget toch naar boven bijgesteld met 6 miljoen. Het projectaandeel Aanlanding rechter-
+oever voor 3 miljoen euro blijft ten laste van het leefbaarheidsbudget van Ringpark Zuid en het 
+budget van knoop Zuid. Voor Ringparken Groene Vesten en Zuid is na de optimalisatieoefening 
+toch gekozen om het ambitieniveau te behouden en behoeven projectonderdelen nog bijkomende 
+financiering. Bij Ringpark Zuid bracht de opmaak van het definitieve ontwerp 45,9 miljoen euro 
+meerkosten mee, waardoor opnieuw optimalisaties nodig zijn. Bijkomende optimalisaties werden 
+gezocht, maar niet gevonden, waarna de Stad Antwerpen zich bijkomend engageerde voor 7,2 mil-
+joen euro meerkosten voor een parkbrug bovenop de al overeengekomen extra investeringen van 
+26,9 miljoen euro.
+Bij de noordelijke Ringparken (Noordkasteel, Groenendaal, Lobroekdok en Het Schijn) is het niet 
+duidelijk of de optimaliseringsoefening van 5,5 % al plaatsvond. De vorige voortgangsrapportages 
+toonden duidelijk dat de ramingen de budgetten overstegen en dat nog optimalisaties moesten 
+worden gezocht. Soms zijn al beslissingen genomen, zo werd de voetgangerspasserelle uit het 
+Noordkasteelpark geschrapt en zal het Samgadok een ondiepe variant worden. Sommige zones 
+34 Voor	een	definitief 	oordeel	is	het	nog	te	vroeg,	aangezien	het	Ringpark	nog	niet	definitief 	werd	opgeleverd. 	Het	geoptima -
+liseerd	taakstellend	budget	was	139,3	miljoen	euro	(prijspeil	2025).
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	31
+
+===p 33 ===
+worden buiten de projectcontouren van het Toekomstverbond gehouden, zoals de zones onder 
+het spoor en kop Asiadok in het Ringpark Lobroekdok en de Schijnpoortweg in het Ringpark het 
+Schijn. De huidige projectfiches bieden daarover weinig tot geen informatie. Bovendien werden de 
+eerdere keuzes nog niet vertaald in concrete besparingen en bijgesteld in de ramingen, waardoor 
+de haalbaarheid van de projecten niet kan worden ingeschat. Het blijft ook onduidelijk wat zal 
+gebeuren met de projecten die nu buiten het Toekomstverbond vallen.
+De drie projectonderdelen van het Ringpark Zuid, namelijk de leefbaarheidsprojecten Park Knoop 
+Zuid en Nieuwe kap Jan de Voslei, en het infrastructuurproject Herinrichting knoop R1-A112 en 
+de aansluitingen Antwerpen Zuid (Spaghettiknoop), worden tegelijk uitgewerkt. De raming voor 
+de Spaghettiknoop is niet inbegrepen in de raming voor het leefbaarheidsproject Ringpark Zuid. 
+Voor dat infrastructuurwerk, dat ten laste komt van het AWV, is de raming in 2025 bijgesteld van 
+115 miljoen euro naar 131,1 miljoen euro.
+De voortgangsrapportage en de projectfiches geven beperkt duiding over de optimalisaties en de 
+(potenti├½le) effici├½ntiewinsten. Zij werken met verschillende prijspeilen, waardoor het niet moge -
+lijk is ramingen met elkaar te vergelijken. Op basis van de gekende ramingen en inzichten zal het 
+taakstellend budget van 1.594,2 miljoen euro volgens het Rekenhof niet volstaan om de geselec -
+teerde projecten te realiseren.
+Gelet op het jaarlijkse ritme van de spijzing van de overkappingsruiter, zullen de uitvoeringster -
+mijnen van de leefbaarheidsprojecten moeten worden gespreid, in functie van de beschikbare 
+middelen in de overkappingsruiter.
+5.3 Overkapping zuidelijke Ring
+Voor diverse actoren van het Toekomstverbond blijft het doel de volledige zuidelijke Ring te over-
+kappen. Er is nog geen beslissing genomen over een verdere overkapping van de (zuidelijke) Ring. 
+Geen enkel budgettair perspectief maakt de miljardeninvestering van een volledige overkapping 
+haalbaar. Dat bevestigen de rapporten van de universiteit van Antwerpen op vraag van de werk -
+bank Financiering.
+Het Team Intendant startte in februari 2025 met een nieuwe studie over de verkeerssystemen en 
+de overkapbaarheid van de zuidelijke Ring. Deze studie loopt af in juni 2026. Er loopt echter geen 
+bijkomend onderzoek naar de mogelijke financiering ervan.
+5.4	 Risicobeheersing
+In de projectfiches is de risicobeheersing voor de meeste leefbaarheidsprojecten weer minder goed 
+uitgewerkt en blijft de beschrijving nog vrij summier. De belangrijkste risicoΓÇÖs voor de noordelijke 
+Ringparken zijn die in verband met bos- en natuurcompensaties buiten het projectgebied en de 
+financi├½le afspraken daarover, de PFAS-problematiek en de afhankelijkheid van de realisatie van 
+de Oosterweelverbinding. Voor alle Ringparken werd een kwalitatieve synthese gemaakt van de 
+natuurdimensie, inclusief boscompensatie en natuurbalans 35. Deze risicoΓÇÖs worden dus wel verder 
+opgevolgd, maar het is nog niet zeker dat ze daarom al worden beheerst.
+35 Natuur	in	de	Ringparken,	december	2025.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	32
+
+===p 34 ===
+Het grootste risico voor de leefbaarheidsprojecten blijft echter dat het ambitieniveau het taak -
+stellend budget overstijgt. De projectfiches noch de voortgangsrapportage vermelden dat. De 
+optimalisatiedoelstelling van 5,5 % werd doorgetrokken naar de leefbaarheidsprojecten. Voor de 
+noordelijke Ringparken is het nog niet duidelijk wat de optimalisatie heeft opgebracht en werden 
+de ramingen nog niet bijgesteld. Voor de leefbaarheidsprojecten waarvoor de optimalisatieoe -
+fening wel al werd uitgevoerd, blijkt het niet eenvoudig om de scopewijzingen te realiseren en 
+wordt nog gezocht naar externe financiering om het oorspronkelijke ontwerp zoveel mogelijk te 
+behouden. Als de externe financiering er niet komt, is het onduidelijk wat de gevolgen zullen zijn, 
+temeer daar het ambitieniveau van de ontwerpen hoog blijft.
+Wat de projectfiches bij de risicobeheersing evenmin vermelden is de samenhang van sommige 
+leefbaarheidsprojecten met projecten die met reguliere middelen moeten worden uitgewerkt. 
+Over deze reguliere middelen bestaat ook nog geen zekerheid, mede doordat het meerjarig GIP tot 
+nog toe niet verder reikt dan 2027. Daardoor ontstaan bijkomende risicoΓÇÖs voor de realisatie van de 
+leefbaarheidsprojecten. Het Rekenhof beveelt aan die risicoΓÇÖs en hun financi├½le implicaties zo snel 
+mogelijk beter in te schatten. Bovendien worden de leefbaarheidsprojecten gefinancierd met mid -
+delen uit de overkappingsruiter. De overkappingsruiter wordt gespijzigd via de onderbenutting 
+op het GIP (├á rato van 55 miljoen euro per jaar). Gegeven dat al een aantal jaren geen sprake meer 
+is van onderbenutting op het GIP, wordt de overkappingsruiter de facto gespijzigd door uitstel 
+van andere projecten voorzien in het GIP . Vanuit oogpunt van transparantie en risicobeheersing 
+verdient het aanbeveling om de spijzing van de overkappingsruiter mee op te nemen in het GIP. 
+Met het oog op de budgetbewaking bij de leefbaarheidsprojecten heeft het politiek stuurcomit├⌐ 
+de intendant op 8 februari 2021 gevraagd te waken over de kosteneffici├½ntie. In 2023 werd beslist 
+de werkwijze voor de financi├½le opvolging van de vier noordelijke Ringparken door te trekken 
+naar de andere leefbaarheidsprojecten 36, maar daarover is momenteel geen verdere informatie 
+beschikbaar.
+De hoofdwerken en de voorbereidende werken zijn geraamd exclusief btw, de leefbaarheidspro -
+jecten (bovenbouw en onderbouw) inclusief btw. Lantis heeft een verzoekschrift ingediend bij de 
+btw-administratie over de recupereerbaarheid van de btw op de leefbaarheidsprojecten in relatie 
+tot de verwachte tolinkomsten. Het resultaat van die aanvraag is nog altijd niet beschikbaar.
+Het ambitieniveau blijft hoog om de zuidelijke Ring volledig te overkappen. Hoewel men daarvoor 
+al volop studies aan het uitwerken is, worden geen verdere inspanningen geleverd om bijkomende 
+financiering te zoeken.
+36 Beslissing van 8 maart 2023 van het Managementteam Toekomstverbond.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	33
+
+===p 37 ===
+6.3 Voortgang en kostprijs
+Voor het Haventrac├⌐ betreffen de vastleggingen en vereffeningen voornamelijk studieopdrach -
+ten en onteigeningen. Studieopdrachten worden deels afgenomen van lopende raamcontracten 
+(E34-West). De voortgangsrapportage en de projectfiches over de Tweede Tijsmanstunnel en De 
+Nieuwe Rand tonen nauwelijks voortgang. De projectfiches bevatten wel de geraamde kostprijs, 
+maar die raming is nog ruw, gelet op de nog lopende onderzoekstrajecten en de diverse, nog 
+onbesliste alternatieven.
+6.4	 Risicobeheersing
+Het Haventrac├⌐ is niet louter meer een infrastructuurproject, maar evolueerde naar een project 
+met oog voor mobiliteit, leefbaarheid en ruimtelijke kwaliteit. Dat zal ongetwijfeld zijn impact 
+hebben op de kostprijs, wat al blijkt uit de eerste, voorlopige ramingen. Momenteel is nog geen 
+enkel deelproject ver genoeg gevorderd om daar al een concreet zicht op te hebben.
+Voorlopig is voor die cluster van het Toekomstverbond nog geen taakstellend budget afgespro -
+ken met een jaarlijkse enveloppe die past in het genormeerd langetermijn-begrotingstraject van 
+de Vlaamse overheid. Zodra zij een voorkeursalternatief voor een project heeft gekozen, kan zij 
+een taakstellend budget en een indicatieve planning afspreken, waarbinnen het ontwerp verder 
+kan worden uitgewerkt om tot een definitieve projectbeslissing en raming te komen. De Tweede 
+Tijsmanstunnel (vanaf 2032) en de E34-West (vanaf 2031) staan al in de lijst van Grote Projecten 
+die bij het GIP is gevoegd, maar dat neemt de onzekerheid over de financiering en de kostenra -
+mingen niet volledig weg. Het GIP vermeldt de Nieuwe Rand (A102) nog niet als Groot Project, wat 
+erop kan wijzen dat de onderzoeksfase nog onvoldoende ver is gevorderd.
+De onderlinge afhankelijkheid van de projecten vormt, samen met de financiering, een belangrijke 
+risicofactor. Zo wijst de projectfiche voor De Nieuwe Rand erop dat de realisatie van de Tweede 
+Tijsmanstunnel een van de uitgangspunten is om de maximale baten van het complex project 
+De Nieuwe Rand mogelijk te maken. De financiering en, bijgevolg, de realisatie van de Tweede 
+Tijsmanstunnel zijn echter nog niet verzekerd.
+Ook draagvlak blijkt een risico voor deze ingrijpende infrastructuurprojecten. Zo rezen er bezwa -
+ren tijdens het openbaar onderzoek van het GRUP voor de E34-West wegens de niet-gespecifieerde 
+ruimte-inname door leidingen. Na een bemiddelingstraject is afgesproken de ruimte voor leidin -
+gen duidelijk te lokaliseren en de breedte waarin leidingen toegelaten zijn, te beperken.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	36
+
+===p 38 ===
+Hoofdstuk 7
+Modal shift
+7.1	 Afspraken	en	governance
+Een 50-50-modal shift 41 bereiken in de vervoerregio Antwerpen tegen 2030 vormt de vierde pij -
+ler van het Toekomstverbond. In Antwerpen startte daarom in 2017 een piloot-vervoerregio die 
+een mobiliteitsplan (Routeplan 2030) zou ontwerpen opdat de 50-50-doelstelling zo snel mogelijk 
+zou worden gehaald. Het regeerakkoord 2024-2029 heeft deze ambitie ondertussen ook voor heel 
+Vlaanderen onderschreven. De beleidsnota MOW 2024-2029 stelt dat het aandeel duurzame modi 
+van alle verplaatsingen in Vlaanderen moet toenemen tot minstens 50 % tegen 2030, waar dat 
+voorheen alleen de ambitie was in de vervoerregioΓÇÖs Vlaamse Rand, Antwerpen en Gent 42.
+In heel Vlaanderen zijn sinds 2018 inmiddels vijftien vervoerregioΓÇÖs opgericht. Het decreet basis -
+bereikbaarheid 2019 heeft ze decretaal bevoegd gemaakt voor de opmaak, opvolging en evaluatie 
+van de regionale mobiliteitsplannen (RMP). Die hebben een tijdshorizon van tien jaar (tot 2030) 
+en een doorkijkperiode van maximaal dertig jaar (2050), en bevatten een strategisch luik, opera -
+tionele beleidsdoelstellingen en een actieplan. Ze zijn sturend voor het regionale mobiliteitsbe -
+leid. De vervoerregio Antwerpen heeft het regionale mobiliteitsplan (Routeplan 2030) in mei 2024 
+goedgekeurd. Het trad in werking op 10 juni 2024. De vervoerregio Antwerpen is verantwoordelijk 
+voor de uitvoering ervan.
+De uitvoerende agentschappen in de Vlaamse overheid moeten de regionale mobiliteitsplannen 
+samen met de lokale besturen realiseren met concrete actieplannen. Het politiek stuurcomit├⌐ 
+heeft de toenmalige Vlaamse minister van Mobiliteit en Openbare Werken op 24 januari 2024 
+gevraagd een methodiek uit te werken om de regionale mobiliteitsplannen van alle vervoerregioΓÇÖs 
+(inclusief het Routeplan 2030) na hun definitieve goedkeuring te vertalen naar meerjarige, ge├»nte -
+greerde investeringsprogrammaΓÇÖs. Die vertaling is er op heden nog niet. Ook in het GIP 2025-2027, 
+gepubliceerd op 14 juli 2025, ontbreekt het verband met en de integratie van de regionale mobili -
+teitsplannen, zowel voor de vervoerregio Antwerpen als voor de overige vervoerregioΓÇÖs.
+Nog v├│├│r de goedkeuring van het Routeplan 2030 in 2024, zette het Toekomstverbond al volop in 
+op de vierde pijler, met, naast de vervoerregio, nog bijkomende governance en uitvoeringsplan -
+nen voor de modal shift. Daarover rapporteerden de vorige voortgangsrapportages uitgebreid. Zo 
+besliste het politiek stuurcomit├⌐ op 24 januari 2024 een nieuwe governancestructuur op te zetten, 
+gelijkaardig aan die voor de leefbaarheidsprojecten, om uitvoering te geven aan de vier opdrach -
+ten van het uitvoeringsprogramma 43 (voorgesteld in de voortgangsrapportage van november 2023) 
+en keurde het de gemotiveerde selectie van het uitvoeringsprogramma goed. In november 2024 
+41 Dat	 wil	 zeggen:	 een	 verschuiving	 van	 50	 %	van	 de	 transport-	 en	vervoerswijzen	 met	 de	 auto	 (personen)	 of	 vrachtwagen	
+(goederen)	naar	duurzamere	alternatieven	zoals	fietsen,	wandelen,	openbaar	vervoer,	binnenvaart	of	spoor.
+42 Regeerakkoord	 van	de	Vlaamse	 Regering	 2019-2024,	 p.	178;	regeerakkoord	 van	de	Vlaamse	 Regering	 2024-2029,	 p.	3;	be-
+leidsnota	MOW	2024-2029,	p.	15.
+43 Het	plan	identificeert 	hefbomen 	(op	korte	en	(middel)lange 	termijn)	om	een	versnelling 	van	de	modal	shift 	te	kunnen 	rea-
+liseren	en	voorziet 	in	vier	concrete	opdrachten 	of	programmaΓÇÖs 	om	die	hefbomen 	te	verwezenlijken: 	(1)	projecten 	basisbe-
+trouwbaarheid,	(2)	OV	Next,	(3)	Knooppunten	en	fiets	en	(4)	mental	shift	en	vervoer	op	maat.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	37
+
+===p 39 ===
+kondigde het de doorstart aan van de projectgroep Impactmanagement, die de impact voor alle 
+werven samen moest bekijken. Verder heeft het politiek stuurcomit├⌐, gemachtigd door het regeer-
+akkoord 2024-2029, Lantis aangesteld als co├╢rdinator in de Antwerpse regio voor de minder-
+hinderaanpak bij een groot werkenprogramma. Lantis kreeg verder de opdracht het Antwerps 
+Werkplatform (AWP) op te zetten in samenwerking met het departement MOW.
+Dat AWP ging in 2025 van start. Deze nieuwe structuur brengt verscheidene, al bestaande 
+structuren samen en probeert de planning van de infrastuctuurwerken maximaal te integre -
+ren op het vlak van de minder-hinderaanpak, het impactmanagement en de uitvoering van het 
+Routeplan 2030. Het AWP lijkt in de eerste plaats gericht op de integratie van investeringsnoden 
+en -planningen op regionaal niveau, met de modal shift als secundair streefdoel. De focus ging 
+in het eerste werkjaar voornamelijk naar de opzet van een geco├╢rdineerd uitvoeringsprogramma 
+voor het Routeplan 2030 van de vervoerregio in functie van het GIP.
+7.2 Voortgang en kostprijs
+In het verleden hanteerden noch de voortgangsrapportages, noch eerdere documenten van het 
+Routeplan 2030 een eenduidige methodiek om over de voortgang van de 50-50-modal shift als 
+doelstelling van deze Toekomstverbondpijler te rapporteren. De mobiliteitsmonitoring van de 
+Vlaamse overheid (MoMo44), opgericht om de basisbereikbaarheid te kunnen monitoren, volgt de 
+modal split in het personenvervoer op basis van de data van het Onderzoek Verplaatsingsgedrag 
+van Vlaanderen  (OVG) op. Sinds 2024 hanteert de voortgangsrapportage eenzelfde definitie en 
+metingsmethodiek voor de monitoring van het modal split-percentage. Een nulmeting toonde 
+51 % duurzame personenvervoerverplaatsingen in de vervoerregio Antwerpen, wat in de lijn ligt 
+van de oorspronkelijke 50-50-doelstelling uit het Toekomstverbond. Deze formele modal split-
+doelstelling werd volgens het OVG-onderzoek dus al behaald bij de nulmeting. Er werd geen 
+andere maatstaf bepaald om de voortgang van de modal shift-pijler op te volgen.
+De voortgangsrapportage 2026 stelt alleen dat de doelstelling van 50 % duurzame verplaatsingen 
+ruimschoots is gehaald. De projectfiches tonen de laatste beschikbare cijfers voor de vervoerregio 
+Antwerpen op grond van het OVG 7 2023-2024. Dat raamde het aandeel duurzame verplaatsin -
+gen op 58,7 %. Er zijn verschillen tussen de stad Antwerpen (67,6 %) en de bredere vervoerre -
+gio (52,1 %), maar 50 % wordt overal ruimschoots behaald. De modal split-doelstelling en dus 
+ook de vierde pijler van het Toekomstverbond zijn dus in de vervoerregio Antwerpen al behaald. 
+Bovendien heeft de vervoerregio het hoogste aandeel duurzame verplaatsingen van alle regioΓÇÖs in 
+Vlaanderen.
+Sinds het OVG 7 kunnen ook nauwkeuriger trendanalyses op het niveau van de vervoerregioΓÇÖs 
+plaatsvinden. De projectfiches lichten dat uitgebreid toe. Op basis van de resultaten van het 
+OVG 7 concludeert de voortgangsrapportage dat maximaal moet worden ingezet op een verdere 
+verduurzaming van de modal shift voor de vervoerregio Antwerpen, zonder dat zij daarbij nieuwe, 
+concrete (aangepaste) doelstellingen vooropstelt, noch aangeeft hoeveel projecten en middelen 
+daarvoor nodig zijn. In zijn controleverslag bij de vorige voortgangsrapportage heeft het Rekenhof 
+aanbevolen de doelstelling voor de modal shift-pijler te herbekijken en opnieuw te verduidelijken. 
+Deze aanbeveling kreeg echter (nog) geen uitvoering.
+44 Wat	is	Monitoring	Mobiliteit	(MoMo)?	|	Vlaanderen.be .
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	38
+
+===p 40 ===
+De vorige voortgangsrapportages gaven geen eenduidig beeld van het concrete uitvoeringspro -
+gramma. Sinds 2022 zijn verschillende voorstellen tot uitvoering en governancestructuren uitge -
+werkt. Daaruit resulteerde het ontwerpplan dat de beleidsmatige voortgangsrapportage over het 
+Toekomstverbond van 19 oktober 2023 heeft voorgesteld. Voor de financiering stelde die rappor -
+tage de opmaak van een meerjarig investeringsplan 2025-2030 in het vooruitzicht.
+De voorliggende voortgangsrapportage werkt met twee sporen voor de pijler modal shift, name -
+lijk de mobiliteitsuitdagingen op korte en op lange termijn. Voor de korte termijn verwijst de 
+rapportage naar het projectoverschrijdende impactmanagement en beschrijft zij de verschillende 
+initiatieven daarvoor. Voor de lange termijn verwijst ze naar de uitvoering van het Routeplan via 
+regionale projecten en de uitvoering op lokaal niveau via het service center. De rapportage geeft 
+beschrijvende informatie over de voortgang van deze pijler, maar geen financi├½le informatie.
+Verder verwijst de rapportage naar de projectfiches, die de strategische modal shift-projecten 
+beschrijven. Net als de vorige rapportering is er geen verduidelijking waarom de projectfiches 
+net over die projecten rapporteert als de strategische projecten in de modal shift-pijler, noch hoe 
+ze zich verhouden tot het totaal aantal bestaande projecten in het Routeplan 2030. De project -
+fiches bevatten inderdaad ge├╝pdatete informatie ten opzichte van de vorige rapportering, maar 
+tonen nergens overzichtelijk de voortgang van het aantal afgewerkte projecten, noch werkelijke 
+kosten in het afgelopen jaar. Het is onmogelijk deze projecten te koppelen aan het strategisch 
+actieplan (12 maart 2024) van het Routeplan 2030, noch om de voortgang van de doelstellingen 
+van het Routeplan 2030 ermee af te toetsen. Het is evenmin mogelijk de voortgang van de vier 
+programmaΓÇÖs van het uitvoeringsprogramma, voorgesteld op 19 oktober 2023, op te volgen. De 
+informatiewaarde van de projectfiches op het vlak van de modal shift is dan ook beperkt.
+De projectfiches geven over de kostprijsramingen en de financiering voor het ene project meer 
+duidelijkheid dan voor het andere. Zo beschrijven zij de kostprijs en de voortgang van de fiets -
+projecten en de meeste knooppunten voldoende duidelijk. Voor de grotere en duurdere projecten 
+betreffende tramstelplaatsen, het Ringspoor en de optimalisatie van het OV-netwerk ontbreekt 
+echter een raming. Die projecten bevinden zich nog in een studiefase.
+Het is evenmin mogelijk een kostprijs af te bakenen voor de modal shift-pijler als onderdeel van 
+het Toekomstverbond. Uit het programma Duurzaam personenvervoer en modal shift  van het 
+GIP 2025-2027 blijkt dat bredere modal shift-maatregelen voornamelijk worden ge├»ntegreerd in 
+flankerende maatregelen of leefbaarheidsprojecten. Het is onduidelijk of de kostprijs van de vol -
+ledige uitvoering van het Routeplan 2030 werd berekend. Het Vlaams Gewest (door opname in het 
+GIP) of de lokale besturen van de vervoerregio zullen, zoals voor elke vervoerregio, de uitvoering 
+van de Routeplanmaatregelen moeten dragen.
+Uit de voortgangsrapportage en de projectfiches blijkt evenmin hoeveel de exploitatiekosten zul -
+len bedragen. Het is nodig de exploitatienoden te bepalen, alsook de afspraken om die noden te 
+vervullen.
+7.3	 Budget	en	financiering
+Er bestaat geen overkoepelend taakstellend budget voor de modal shift-pijler. Dat houdt twee 
+belangrijke risicoΓÇÖs in: het budget is niet gelimiteerd en er is niet in een financieringswijze voor -
+zien. Bijgevolg moet voor elk project apart financiering worden gezocht.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	39
+
+===p 41 ===
+Het GIP 2025-2027 bevat wel een programma Duurzaam personenvervoer en modal shift . Wat de 
+vervoerregio Antwerpen betreft vermeldt dat echter vooral de historische beschikbaarheidsver -
+goedingen, leefbaarheidsprojecten en flankerende maatregelen. Het GIP toont wel aan dat de bud-
+gettaire inspanning voor het programma duurzaam personenvervoer en modal shift veruit het 
+grootst zijn in de vervoerregio Antwerpen.
+Tabel 13 ΓÇô Budgetten GIP-programma Duurzaam personenvervoer en modal shift (in miljoen euro)
+ GIP 2025 GIP 2026 GIP 2027
+Vervoerregio Antwerpen 76,1 158,9 199,1
+Beschikbaarheidsvergoedingen 35,5 35,7 36,3
+Leefbaarheidsprojecten (voornamelijk Scheldebalkon) 9,0 89,0 128,0
+Flankerende maatregelen (zie tabel 14) 21,1 26,0 20,9
+(Overige doorstromingsprojecten en fietsinfrastructuur) 10,5 8,3 14,0
+Overige	vervoerregioΓÇÖs	samen 67,1 63,5 59,3
+Vlaanderen (voornamelijk vergroening vloot De Lijn) 548,9 174,7 177,8
+Totaal	programma	'Duurzaam	personenvervoer	en	modal	shift' 692,0 397,1 436,1
+Bron: Rekenhof, op basis van het GIP 2025-2027
+Het is echter niet mogelijk de projecten in de projectfiches bij de voortgangsrapportage te kop -
+pelen aan het GIP. Bovendien zijn voor de uitvoering van de projecten uit het Routeplan 2030, 
+behalve de Vlaamse overheid, ook nog lokale besturen verantwoordelijk.
+De lijnen voor flankerende maatregelen in het GIP kunnen worden opgesplitst volgens de beste -
+ding van de jaarlijkse toelagen die Lantis ontvangt van de Vlaamse overheid voor de realisatie 
+van minder-hinder- en flankerende maatregelen. Deze flankerende maatregelen betreffen voor -
+namelijk park & ride-faciliteiten en fietspaden, maar bevatten ook personeelskosten voor het team 
+Modal Shift binnen Lantis, zoals de tabel 14 toont.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	40
+
+===p 42 ===
+Tabel 14 ΓÇô Uitsplitsing budgetten voor flankerende maatregelen (in miljoen euro)
+Begrotingsartikel Budget 
+2025
+Budget 
+2026
+BO 
+2026
+Budget 
+2027 Inhoud
+MB0-1MHH5RX-IS
+Investeringstoelage 
+Lantis
+12,0 13,3 6,9 11,9
+Studies	projecten	TKV	(excl.	Tijsmanstunnel	
+II),	fietsinfrastructuur,	P+R	Stabroek,	auto-
+delen, externe ondersteuning Team Modal 
+Shift	(Lantis)
+MB0-1MHH2RX-IS	
+Werkingstoelage	Lantis 6,0 6,0 11,5 4,0
+Personeelskosten	Team	Modal	Shift	
+(Lantis),	maatregelen	flankerend	beleid,	
+zowel	omkadering	als	projectgebonden	
+(o.m.	studies,	constructie	P+R-gebouwen,	
+uitrol	fietspaden	rondom	Antwerpen,	de	
+werkingskosten van de Vervoerregio 
+Antwerpen).
+MB0-1MHH4RX-IS	
+Toelage 
+Verkeersveiligheidsfonds
+3,1 6,7 5,0 4,9
+Binnen het Verkeersveiligheidsfonds wordt 
+een toelage aan Lantis voorzien om de 
+investeringen in verkeersveiligheid (o.a. tij-
+delijke	infrastructuur	voor	veilige	omleiding)	
+voor de zwakke weggebruiker gedurende 
+en na de werken door Lantis op te vangen. 
+De	Werkvennootschap	ontvangt	dezelfde	
+toelage,	eveneens	ten	bedrage	van	5,0 mil-
+joen euro.
+Totaal 21,1 26,0 23,4 20,9
+Bron: Rekenhof, op basis van het GIP 2025-2027 en de BBT bij begrotingsopmaak 2026
+Het Rekenhof wijst erop dat minder-hinder- en flankerende maatregelen geen synoniem zijn voor 
+modal shift (hoewel deze wel een hefboom kunnen vormen voor modal shift) en oordeelt dat der -
+gelijke uitgaven beter worden toegewezen aan de hoofdprojecten die de maatregelen veroorzaken. 
+Verder vraagt het Rekenhof de transparantie van de projectlijnen in het GIP te verhogen middels 
+een opsplitsing in deelprojecten, gelet op de diverse invulling van de uitgaven, dit in functie van 
+prioritering voor de opmaak van het GIP en om het verband te kunnen leggen met de doelstel -
+lingen in het Routeplan 2030.
+7.4	 Deelconclusies
+De voortgangsrapportage beschrijft voornamelijk de impactmanagementinspanningen en, gefrag -
+menteerd, de inspanningen voor het Routeplan 2030. Zij geeft daarover echter geen financi├½le 
+informatie. De projectfiches tonen op hun beurt een beperkt onderbouwde selectie van projecten 
+die een plaats zouden hebben in het Routeplan 2030. Deze inspanningen moeten toewerken naar 
+een modal shift in de regio. De modal split-doelstelling werd echter al behaald bij de nulmeting 
+en het oorzakelijk verband tussen de beschreven projecten en het bereiken of verbeteren van 
+de vooropgestelde modal split kan steeds moeilijker worden vastgesteld. Bovendien is er geen 
+verband tussen de bestaande ramingen, de beschikbare financiering en een te behalen doelstel -
+ling. De rapportering over de modal shift-pijler in deze voortgangsrapportage lijkt dan ook een 
+samensmelting van diverse rapporteringen,  over inspanningen zonder een samenhang van doel -
+stellingen of financi├½le noden. Het Rekenhof beveelt dan ook aan de rapportering voor deze pijler 
+te herbekijken.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	41
+
+===p 43 ===
+Gelet op de bereikte modal shift-doelstelling uit het Toekomstverbond en het Vlaamsbrede 
+karakter van zowel het modal shift-beleid, als de decretale taken van de vervoerregio, hoeft de 
+voortgangsrapportage over het Toekomstverbond dat niet verder op te volgen. De status van de 
+modal split kan ook via het OVG en het MOMO-portaal 45 verder worden opgevolgd.
+Voor de uitvoering van het Routeplan 2030 is de vervoerregio Antwerpen verantwoordelijk. Het 
+Rekenhof beveelt dan ook aan de vervoerregioraad de doelstellingen en de uitvoering van dat 
+plan verder te laten opvolgen. Er is nood aan SMART-indicatoren voor de opvolging van het 
+Routeplan 2030 en het bijhorende actieplan voor een performante monitoring van de behaalde 
+resultaten en uitgegeven middelen. Concrete projecten uit het Routeplan 2030 zouden ook moeten 
+gekoppeld aan en zichtbaar zijn in het meerjarig GIP, opdat daaruit een performante monitoring 
+kan ontstaan voor rapportering over de vastleggings- en vereffeningskredieten.
+Het AWP lijkt een beloftevolle nieuwe structuur te zijn, die de verdere integratie van de beleids -
+matige planning van de vele infrastructuurwerken beoogt. Het kan mogelijks transparantie en 
+overzichtelijkheid bieden in alle maatregelen en kosten van alle acties die worden ondernomen 
+voor het Toekomstverbond. Een overzicht van de activiteiten en de financi├½le verantwoording van 
+het AWP moet een plaats krijgen in de voortgangsrapportage van het Toekomstverbond. Verder 
+ondersteunt het AWP ook de uitvoering van de projecten uit het Routeplan 2030. In die mate kan 
+het interessant zijn om de werking van het AWP te evalueren en te kijken of dit soort governance 
+ook interessant kan zijn voor andere vervoerregioΓÇÖs.
+45 Monitoring	Mobiliteit	(MoMo)	|	Vlaanderen.be .
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	42
+
+===p 44 ===
+Hoofdstuk 8
+Oordeel informatiekwaliteit
+Volgens het Rekenhof geeft de voortgangsrapportage de hoofdlijnen weer en vermeldt ze voor 
+tal van projecten de al gemaakte uitgaven en de nog verwachte uitgaven (geraamde kosten). 
+Vergelijkingen met vorige voortgangsrapportages blijven moeilijk, doordat sommige gerappor -
+teerde cijfers anders zijn gestructureerd en het gehanteerde prijspeil niet consistent is vermeld. 
+De voortgangsrapportage geeft ook nog altijd geen omvattend beeld van de reikwijdte en kos -
+tenraming van de diverse investeringsclusters . Voor diverse projecten bevatten de projectfiches 
+vrij vage informatie over onzekerheden, risicoΓÇÖs of financieringsmogelijkheden. Voor sommige 
+projecten is dat begrijpelijk, aangezien ze zich nog in een prille fase bevinden. Een volwaardige 
+vergelijking tussen de kostenramingen, de werkelijke investeringsuitgaven en de beschikbare 
+financiering is voor die projecten nog niet echt mogelijk.
+De voortgangsrapportage en de projectfiches zijn onderbouwd en verduidelijken de verdere con -
+cretisering van de individuele investeringen en ontwikkelingsprojecten, alsook de voortgang van 
+de uitvoering. Het doelbereik, de kostprijsevolutie, de projectafhankelijkheden, de evolutie van de 
+uitvoeringsplanning en de aanpak van sommige risicoΓÇÖs brengen zij niet altijd helder in beeld. De 
+opeenvolgende voortgangsrapportages besteden maar in beperkte mate aandacht aan de verkeers-
+technische samenhang, de onderlinge afhankelijkheid van de vier investeringsclusters en de glo -
+bale financiering van het Toekomstverbond. Veel financi├½le onzekerheden blijven onderbelicht.
+De rapportering over de modal shift-pijler in deze voortgangsrapportage lijkt een samensmel -
+ting van diverse rapporteringen over inspanningen zonder een samenhang van doelstellingen of 
+financi├½le noden. De voortgangsrapportage biedt daarover geen financi├½le informatie en de infor -
+matiewaarde van deze rapportering en de projectfiches is op dit vlak beperkt. De rapportering 
+voor deze pijler moet dan ook worden herbekeken.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	43
+
+===p 45 ===
+Hoofdstuk 9
+Algemene conclusies
+Het Rekenhof erkent de grote en degelijke inspanningen die de betrokken diensten van de Vlaamse 
+overheid doen om de onderscheiden investeringsprojecten voor te bereiden en de projectrisicoΓÇÖs 
+te beheersen, maar wenst de aandacht te vestigen op de onderstaande punten, die essentieel zijn 
+voor het welslagen van het Toekomstverbond.
+9.1		 Aandachtspunten	inzake	voortgang	en	projectmanagement
+Het regelgevende kader en de financieringsafspraken liepen achter op de voortvarende werfuit -
+voering van het Oosterweelproject. De sanering, het grondverzet en andere overmachtrisicoΓÇÖs 
+worden op Rechteroever in regie uitgevoerd.
+De concretisering van de leefbaarheidsprojecten kent een gestage, zekere vooruitgang. Ondanks 
+optimalisaties liggen de ramingen door de hoge ambities nog altijd hoger dan het vooropgestelde 
+budget, waardoor de financi├½le haalbaarheid steeds moeilijker wordt. Bovendien kan de langzame 
+opbouw van middelen via de overkappings-begrotingsruiter de geplande uitvoeringstermijn in 
+het gedrang brengen.
+De inhoudelijke voortgang van de diverse onderdelen van het Haventrac├⌐ lijkt zeer beperkt. De 
+voorbereidende studiefase duurt lang en zowel de invulling, als de budgettering blijven vaag. De 
+trage voortgang en de onzekerheid over de budgettering doen twijfels rijzen over de haalbaarheid 
+van of de ambities tot uitvoering op middellange termijn.
+De 50-50-modal split is bereikt en een bijkomende modal split-doelstelling die eventuele inves -
+teringskosten verantwoordt, werd niet gesteld. Een overkoepelende governance structuur, het 
+Antwerps Werkplatform, werd uitgewerkt om in te staan voor een geco├╢rdineerd optreden in de 
+Antwerpse regio. Op korte termijn zet dat echter vooral in op projectoverschrijdend impactma -
+nagement en minder-hindermaatregelen en op lange termijn op de ondersteuning van de uitvoe -
+ring van het Routeplan 2030. Minder-hindermaatregelen, werfafstemming en communicatie zijn 
+essentieel voor de realisatie van het Toekomstverbond. De investeringen in modal shift en de ope-
+rationalisering ervan zijn eerder reguliere taken van de vervoerregio, die niet noodzakelijk uitslui -
+tend aan de realisatie en verantwoording van het Toekomstverbond moeten worden gekoppeld.
+9.2	 Aandachtspunten	inzake	financiering
+Naar aanleiding van de eerste financi├½le voortgangsrapportage in 2021 concludeerde het Rekenhof 
+dat de al gekende investeringsuitgaven van het Toekomstverbond sterk waren toegenomen. De 
+evolutie van een louter infrastructuurproject naar een ge├»ntegreerd project, waarbij, behalve mobi-
+liteit, evenzeer leefbaarheid en ruimtelijke kwaliteit centraal staan, stuwde de kosten omhoog.
+Bij de derde financi├½le voortgangsrapportage stelde het Rekenhof vast dat de toevoeging van, 
+onder meer, een deel van de leefbaarheidsprojecten, alsook de hoge inflatie van de bouwkosten en 
+de rentelasten die kostprijs nog verder opdreven.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	44
+
+===p 46 ===
+Volgens de vijfde financi├½le voortgangsrapportering steeg het taakstellend budget voor het luik 
+Oosterweelinvesteringen sterk, tot 10.055 miljoen euro volgens het prijspeil van 1 januari 2024. 
+Een belangrijke oorzaak is de sterk toegenomen overmachtrisicoΓÇÖs (zoals het PFAS-risico).
+De actualisatie van het financieel model bij de zesde voortgangsrapportering toont een toename 
+van de materieel vaste activa voor de realisatie van de Oosterweelverbinding tegen het einde van 
+de bouwfase (eind 2033) met 25,1 % ten opzichte van vorig jaar. De totale omvang van het project 
+op de balans van Lantis zou nu eind 2033 13.614 miljoen euro bedragen, door de inkanteling van 
+1.811 miljoen euro overmachtrisicoΓÇÖs in het financieel model op vraag van de Vlaamse Regering en 
+door 225 miljoen euro contractuele aanpassingen en meerwerken.
+Eind 2025 verkreeg Lantis een bijkomende achtergestelde lening van 1,65 miljard euro om de sane-
+ringskosten en andere overmachtrisicoΓÇÖs te financieren. Deze bijkomende achtergestelde lening 
+zal door de uitgestelde rentebetalingen tegen eind 2083 de uitstaande schuld bij Lantis doen oplo-
+pen tot meer dan 27 miljard euro. Uit het financieel model blijkt dat deze achtergestelde lening 
+tegen eind 2083 niet kan worden terugbetaald. De Vlaamse Regering stelt daarom een herijking 
+van het financieel model in het vooruitzicht, waarbij eind  2035 de uitstaande schuld bij Lantis zal 
+worden herschikt om de rentebetalingen en schuldaflossingen meer in lijn te brengen met de te 
+verwachten tolinkomsten tijdens de periode 2036-2083, die op dat ogenblik beter zullen kunnen 
+worden ingeschat.
+Daarnaast wijst het Rekenhof op het volgende:
+ΓÇó Aanhoudende onzekerheden over saneringskosten, btw-recuperatie, enz. bestendigen de twij -
+fels over de finale kostprijs van het Oosterweelproject. De hoog ingeschatte verkeersvolumes 
+leiden eveneens tot onzekerheid over de toekomstige tolinkomsten.
+ΓÇó De huidige financieringsbronnen volstaan niet om de resterende netto-financieringsbehoefte 
+van Lantis ten bedrage van 8.273,5 miljoen euro in de periode 2026-2033 te dekken. Er is nog 
+een tekort van 2.251,5 miljoen euro ten opzichte van het huidige leningenplafond dat met het 
+Vlaams Gewest is afgesproken.
+ΓÇó De vermindering van de risicopremie op de project bonds van 100 naar 60 basispunten is onvol-
+doende gebleken om een rentesneeuwbal te vermijden.
+ΓÇó Doordat Lantis in 2034-2083 massaal gebruik zal maken van de mogelijkheid om rentebetalin -
+gen en schuldaflossingen in de tijd uit te stellen, heeft de DSCR (debt service coverage ratio) zijn 
+rol om de robuustheid van het financieel model te helpen bewaken, verloren.
+Het Rekenhof moet dan ook concluderen dat het financieel model voor de Oosterweelverbinding 
+niet robuust is en dat er geen enkele garantie bestaat dat alle toegekende leningen zullen worden 
+terugbetaald. Dat ondergraaft de logica om de Oosterweelinvesteringen buiten de begrotings -
+doelstelling van de Vlaamse overheid te houden. Die beslissing was immers ingegeven door het 
+argument dat de Oosterweelschuld op termijn volledig zou worden terugbetaald met tolinkom -
+sten, wat dus niet mogelijk zal zijn.
+Het uitblijven van een financi├½le langetermijnvisie en prioritering binnen de Vlaamse Regering 
+maakt dat er voor tal van samenhangende projecten van de andere clusters van het Toekomstverbond 
+geen perspectief is op realisatie binnen een redelijke termijn na de verkenningsfase. Volgens het 
+Rekenhof kan dat hiaat de toekomst van het Toekomstverbond in het gedrang brengen. Voor de 
+verdere uitwerking van de leefbaarheidsprojecten, de investeringsprojecten van het Haventrac├⌐, 
+de investeringen voor de uitvoering van het Routeplan 2030 en de minder-hindermaatregelen is 
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	45
+
+===p 47 ===
+het noodzakelijk dat de Vlaamse Regering een middellange termijnvisie ontwikkelt op de project -
+financieringen en de budgettaire inpasbaarheid. Voor de leefbaarheidsprojecten is er een gestage 
+doch trage groei van gereserveerde middelen via de overkappingsruiter. Voor het Haventrac├⌐ zijn 
+er enkel studiebudgetten en een onvolledige vermelding in de GIP-lijst met Grote Projecten.
+TOEKOMSTVERBOND 	ΓÇô	REKENHOF, 	MAART 	2026	/	46
+
+===p 48 ===
+Dit	verslag	is	beschikbaar	op	rekenhof.be.
+ONLINE PUBLICATIE
+ISSN 	2796-079X
+adres
+Rekenhof
+Regentschapsstraat 	2
+1000 Brussel
+tel.
++32	2	551	81	11
+rekenhof.be
+

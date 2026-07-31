@@ -14437,3 +14437,60 @@ bud_nato_fill_budget_10958m,mod_defensie,2026,10958000000,,,budgeted,src_ccrek_f
 bud_nato_fill_external_2288m,mod_defensie,2026,2288000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,External defence effort 2288m (pens 1988 -40 FPD; norm 168; COFOG 131); tick727
 bud_nato_fill_total_13246m,mod_defensie,2026,13246000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Total defence effort fill 13246m vs target 13296 gap ~50m; tick727
 bud_primary_vek_cells_92050m,sec_federal,2026,92050000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Primary VEK cells total BC 92050 (+41 vs IB 92009); tick727
+bud_owv_bc2026_assets_13614m,lantis,2033,13614000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Materieel vaste activa OWV eoy build 13614m (+2729/+25.1pct vs BC2025 10885); tick728
+bud_owv_bc2026_assets_invest_10821m,lantis,2033,10821400000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Of which investments 10821.4m of 13614; tick728
+bud_owv_bc2026_intercalary_interest_2792m,lantis,2033,2792000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Intercalary interest capitalized 2792m of 13614 assets; tick728
+bud_owv_bc2026_fin_need_8273m,lantis,2033,8273491272,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Remaining net financing need build phase 8273.491m exact model; tick728
+bud_owv_bc2026_capex_remain_7275m,lantis,2033,7274640000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Remaining CAPEX 7274.64m (+16.80pct vs BC2025 6228.07); tick728
+bud_owv_bc2026_opex_remain_4464m,lantis,2083,4463800000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Remaining OPEX build+ops 4463.8m (ops phase 4146.5); understates Kennedy+Liefkenshoek reno; tick728
+bud_owv_bc2026_mra_973m,lantis,2083,973000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Maintenance reserve account MRA 973m; tick728
+bud_owv_bc2026_pfas_remain_785_5m,lantis,2033,785500000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Remaining PFAS CAPEX in model 785.5m; tick728
+bud_owv_bc2026_other_fm_remain_951_6m,lantis,2033,951600000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Remaining other force majeure (asbestos soil disposal norms) 951.6m; tick728
+bud_owv_bc2026_fm_pack_1811m,lantis,2033,1811000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,PFAS+other FM residual CAPEX pack 1811m; tick728
+bud_owv_bc2026_contract_adj_225m,lantis,2033,225000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Net contractual adjustments/meerwerken 225m in CAPEX rise; tick728
+bud_owv_bc2026_opex_remain_build_317_3m,lantis,2033,317300000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Remaining OPEX in build phase 2026-2033 317.3m; tick728
+bud_owv_capex_2026_bc,lantis,2026,1220200000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2026 BC 1220.20m (+51.77pct vs BC2025 803.97); tick728
+bud_owv_capex_2027_bc,lantis,2027,1185830000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2027 BC 1185.83m (+72.18pct); tick728
+bud_owv_capex_2028_bc,lantis,2028,1142040000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2028 BC 1142.04m (+52.55pct); tick728
+bud_owv_capex_2029_bc,lantis,2029,1104460000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2029 BC 1104.46m (+39.34pct); tick728
+bud_owv_capex_2030_bc,lantis,2030,953150000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2030 BC 953.15m; tick728
+bud_owv_capex_2031_bc,lantis,2031,765470000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2031 BC 765.47m; tick728
+bud_owv_capex_2032_bc,lantis,2032,515030000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2032 BC 515.03m; tick728
+bud_owv_capex_2033_bc,lantis,2033,388460000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CAPEX path 2033 BC 388.46m; tick728
+bud_owv_bonds_total_bc2026_7751m,lantis,2033,7751490000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Project bonds total draw 7751.49m 2026-33; tick728
+bud_owv_bonds_plafond_5500m,lantis,2033,5500000000,,,budgeted,src_ccrek_tv6_bc2026_finance_residual,strong,Agreed VL project-bond plafond 5500m; Lantis says no revise this legislature; tick728
+bud_owv_bonds_over_plafond_2251_5m,lantis,2033,2251500000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Bonds 7751.5 minus plafond 5500 = shortfall 2251.5m (+40.9pct); CoA: sources insufficient; tick728
+bud_owv_bonds_2026_956m,lantis,2026,956280000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,First project bonds Oct2026 956.28m @3.98pct; tick728
+bud_owv_bonds_2027_1209m,lantis,2027,1209240000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Bonds 2027 1209.24m; tick728
+bud_owv_bonds_2028_1212m,lantis,2028,1212240000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Bonds 2028 1212.24m; tick728
+bud_owv_bonds_2029_1221m,lantis,2029,1221200000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Bonds 2029 1221.20m; tick728
+bud_owv_bonds_2030_1020m,lantis,2030,1019880000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Bonds 2030 1019.88m; tick728
+bud_owv_bond_rate_3_98pct,lantis,2026,3.98,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,PCT bond assumed rate 3.98 (OLO~3.30 + spread 0.60); tick728
+bud_owv_bond_spread_60bp,lantis,2025,0.6,,,budgeted,src_ccrek_tv6_bc2026_finance_residual,strong,PCT spread cut 100->60bp 2nd addendum kaderovereenkomst 5Dec2025; tick728
+bud_owv_bond_interest_to_2035_1905m,lantis,2035,1905200000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Interest on project bonds to eoy2035 1905.2m; tick728
+bud_owv_lt_loan_convert_2035_7751m,lantis,2035,7751500000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,All project bonds convert eoy2035 to VL LT loan 7751.5m @4pct 13y sculpted; tick728
+bud_owv_lt_loan_interest_2036_74_9578m,lantis,2074,9577700000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Interest on successive 13y LT loans 2036-2074 9577.7m; tick728
+bud_owv_lt_loan_repay_start_2045,lantis,2045,0,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Model: sculpted repay of 7751.5 LT loan can start H1 2045 full by H2 2074; tick728 COUNT_year
+bud_owv_subloan_plafond_2850m,lantis,2026,2850000000,,,budgeted,src_ccrek_tv6_bc2026_finance_residual,strong,Sub shareholder loan plafond raised Dec2025 1200->2850m (+1650 FM); tick728
+bud_owv_subloan_extra_1650m,lantis,2026,1650000000,,,budgeted,src_ccrek_tv6_bc2026_finance_residual,strong,Extra sub loan 1650m for force majeure assigned to model; CoA unjustified policy; tick728
+bud_owv_subloan_drawn_eoy2025_1128m,lantis,2025,1128000000,,,outturn,src_ccrek_tv6_bc2026_finance_residual,strong,Extra sub already drawn 1128m eoy2025 @5pct; tick728
+bud_owv_subloan_last_tranche_522m_2026,lantis,2026,522000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Last sub tranche 522m H1 2026 to fill 2850; tick728
+bud_owv_subloan_eoy2083_27046m,lantis,2083,27046400000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Outstanding sub debt eoy2083 27046.4m incl capitalized interest; no principal repay 2034-83; tick728
+bud_owv_subloan_cap_interest_24338m,lantis,2083,24338400000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Capitalized deferred interest on sub loans 24338.4m to eoy2083; tick728
+bud_owv_subloan_interest_paid_12945m,lantis,2083,12945200000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Sub loan interest actually paid 2044-83 only 12945.2m; first pay H2 2044 39.4m; tick728
+bud_owv_sub_debt_at_herijk_2035_4800m,lantis,2035,4800200000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Sub debt incl cap interest at herijking eoy2035 4800.2m; tick728
+bud_owv_vl_must_takeover_herijk_2822m,vlaanderen_gov,2035,2822300000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CoA calc: VL must take over min 2822.3m (58.8pct of 4800) at 2035 herijking; tick728 recon prior
+bud_owv_model_can_bear_sub_1978m,lantis,2035,1977900000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Model-bearable sub share at herijking 1977.9m (41.2pct); tick728
+bud_owv_extra_sub_1650_to_26620m_snowball,lantis,2083,26620000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,CoA: extra 1.65bn alone compounds to ~26.62bn eoy2083 at 5pct/57y; tick728
+bud_owv_interest_paid_total_24495m,lantis,2083,24495000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Total interest paid 2026-2083 24495m (CP 66.9 + bonds 1905.2 + LT 9577.7 + sub paid 12945.2); tick728
+bud_owv_cp_interest_66_9m,lantis,2033,66900000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Commercial paper interest build phase 66.9m; rate assump 2.83pct; tick728
+bud_owv_toll_ops_phase_35429m,lantis,2083,35429000000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Modelled toll revenues ops phase 35429m (BC2025 was 35640); tick728
+bud_owv_land_loan_176_5m,lantis,2004,176500000,,,outturn,src_ccrek_tv6_bc2026_finance_residual,strong,VL land loan 176.5m 2004 Zwijndrecht; BC2026 repay H2 2037-eoy2041; no interest since 2024; tick728
+bud_owv_debt_draw_planned_2026_1478m,lantis,2026,1478280000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Planned debt draw 2026 bonds 956.28 + sub 522 = 1478.28m; tick728
+bud_owv_debt_budgeted_mjr_2026_775m,vlaanderen_gov,2026,775000000,,,budgeted,src_ccrek_tv6_bc2026_finance_residual,strong,VL MJR budgeted Lantis debt draw 2026 only 775m; tick728
+bud_owv_debt_mjr_gap_2026_703m,vlaanderen_gov,2026,703280000,,,estimate,src_ccrek_tv6_bc2026_finance_residual,strong,MJR underbooking 2026 1478.28-775=703.28m (41.9pct of multi-year gap); tick728
+bud_owv_debt_planned_2026_30_6141m,lantis,2030,6140840000,,,projection,src_ccrek_tv6_bc2026_finance_residual,strong,Planned debt draws 2026-30 sum 6140.84m; tick728
+bud_owv_debt_budgeted_mjr_2026_30_4461m,vlaanderen_gov,2030,4461070000,,,budgeted,src_ccrek_tv6_bc2026_finance_residual,strong,VL MJR budgeted Lantis draws 2026-30 4461.07m; tick728
+bud_owv_debt_mjr_gap_2026_30_1680m,vlaanderen_gov,2030,1679770000,,,estimate,src_ccrek_tv6_bc2026_finance_residual,strong,MJR multi-year underbooking 1679.77m 2026-30 CoA Table7; tick728
+bud_dual_tv_bonds_over_plafond_gip,gg_belgium,2033,2251500000,,,estimate,src_dual_tv_bc2026_gip_tick728,strong,Dual residual: OWV bond over-plafond 2251.5m vs GIP/MJR incomplete booking; not TE-additive; tick728
+bud_dual_tv_sub_snowball_vs_gip,gg_belgium,2083,27046400000,,,estimate,src_dual_tv_bc2026_gip_tick728,strong,Dual residual: sub debt snowball 27.0bn eoy2083 vs GIP 2025-27 short horizon; not TE-additive; tick728

@@ -8632,3 +8632,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+41); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_intsec_dual_use_antifraud_l5**; extract + write script; rq_718=done; spawn **rq_719**; loop_state ticks=727
 - FOI opened: gap_intsec_dual_use_antifraud_l5 — ready (not sent); related antifraud/defence FOIs remain ready
 - Next: rq_719; progress@730 in 3 ticks; rq_116 deferred
+
+### 2026-08-02T00:45:00Z — tick 728
+- Unit: **rq_719** (FOI-adjacent residual dual — **Toekomstverbond / Oosterweel BC2026 finance residual CoA 2026_18**)
+- Found (primary CoA TV6 residual vs tick502 aggregates):
+  - Project bonds **7751.5m** vs plafond **5500m** → shortfall **2251.5m (+40.9%)**; first draw **956.28m** Oct2026 @**3.98%** (spread cut 100→60bp)
+  - Convert eoy2035 to VL LT loan **7751.5** @4% 13y; LT interest 2036-74 **9577.7m**; bond interest to 2035 **1905.2m**
+  - Sub plafond **2850m** (+1650 FM); drawn **1128** eoy25 + **522** H1 2026; eoy2083 outstanding **27046m** (cap interest **24338m**); CoA: extra FM assignment **unjustified**
+  - Herijking 2035: VL takeover min **2822.3m** of **4800.2** sub (58.8%)
+  - MJR underbooks draws **1679.8m** 2026-30 (2026: planned **1478** vs budgeted **775** = **703m**)
+  - Remaining CAPEX **7275m** (+16.8%); 2026-28 spikes **+52/+72/+53%**; FM residual **1811** + contract **225**
+  - Assets **13614** (invest 10821 + intercalary 2792); interest paid path **24495m**; tolls ops **35429m**
+  - Strong CoA residual; L5 FOI plafond/capital/MJR
+- Wrote: budgets (+55); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_tv_bc2026_finance_residual_l5**; raw PDF + extract + write script; rq_719=done; spawn **rq_720**; loop_state ticks=728
+- FOI opened: gap_tv_bc2026_finance_residual_l5 — ready (not sent); prior TV/Lantis FOIs remain ready
+- Next: rq_720; progress@730 in 2 ticks; rq_116 deferred

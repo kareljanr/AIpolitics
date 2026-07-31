@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T00:15:00Z,rq_718,727,no,tick727 intsec dual-use + antifraud staffing residual; next rq_719; progress@730 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T00:45:00Z,rq_719,728,no,tick728 TV6 BC2026 residual bonds/sub/MJR; next rq_720; progress@730 in 2; rq_116 deferred
