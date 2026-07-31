@@ -7345,3 +7345,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update opw_wallonie; budgets (+9); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_opw_ra_staff_l5_2025; rq_599=done; spawn rq_600; loop_state ticks=608
 - FOI opened: gap_opw_ra_staff_l5_2025 ? ready (not sent)
 - Next: rq_600; progress@610 in 2 ticks; rq_116 deferred
+
+### 2026-07-31T18:00:00Z — tick 609
+- Unit: rq_600 (FOI-adjacent dual agri promo hole-fill — **APAQ-W** Type2 dual VL)
+- Found: **APAQ-W** Agence wallonne pour la promotion d'une agriculture de qualité (primary CoA Table33 + Wallex Type2 list). **BI2025:** recettes **€14.197m** · dépenses **€14.759m** · solde **-€0.562m**. **BI2024:** rec **€11.185m** · dep **€11.452m** · solde **-€0.267m** (dep path **+€3.307m**). Type2 UAP BCE **267400492**. Dual **VL TK Promotie** **€5.659m** BO2026 (+ VLAM full residual FOI). Strong confidence CoA; campaign/staff L5 residual.
+- Wrote: entities (+apaq_w); budgets (+8); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_apaq_ra_campaign_l5_2025; rq_600=done; spawn rq_601; loop_state ticks=609
+- FOI opened: gap_apaq_ra_campaign_l5_2025 ? ready (not sent)
+- Next: rq_601; **progress@610 next tick**; rq_116 deferred

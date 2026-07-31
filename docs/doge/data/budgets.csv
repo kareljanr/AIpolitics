@@ -11215,3 +11215,11 @@ bud_opw_solde_sec_bi2024,opw_wallonie,2024,-22700000,,,budgeted,src_ccrek_opw_bu
 bud_opw_ba2025b_rec,opw_wallonie,2025,87873000,,,budgeted,src_wallex_opw_budget_ajust_2025,strong,OPW budget ajuste 2025 recettes 87.873m decret Art.17
 bud_opw_ba2025b_dep,opw_wallonie,2025,87873000,,,budgeted,src_wallex_opw_budget_ajust_2025,strong,OPW budget ajuste 2025 depenses 87.873m balanced decret Art.17
 bud_dual_cap_payer_opw_vl_2025,gg_belgium,2025,84961000,,,budgeted,src_dual_cap_payer_opw_vl_tick608,medium,Illustrative dual CAP payer ops: OPW SEC 84.961m BI2025 vs VL Landbouw domain VEK 140.8m 2026 class; not additive TE; not full CAP payments stock
+bud_apaq_rec_bi2025,apaq_w,2025,14197000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W Type2 recettes BI2025 14.197m CoA Table33
+bud_apaq_dep_bi2025,apaq_w,2025,14759000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W depenses BI2025 14.759m CoA Table33 dual VL agri promo
+bud_apaq_solde_bi2025,apaq_w,2025,-562000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W solde SEC BI2025 -0.562m
+bud_apaq_rec_bi2024,apaq_w,2024,11185000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W recettes BI2024 11.185m CoA Table33
+bud_apaq_dep_bi2024,apaq_w,2024,11452000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W depenses BI2024 11.452m CoA Table33
+bud_apaq_solde_bi2024,apaq_w,2024,-267000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,APAQ-W solde SEC BI2024 -0.267m
+bud_apaq_dep_path_delta_2024_25,apaq_w,2025,3307000,,,budgeted,src_ccrek_apaq_budget_bi2025,strong,Depenses path BI2024 11.452m to BI2025 14.759m delta +3.307m
+bud_dual_agri_promo_apaq_vl_2025,gg_belgium,2025,14759000,,,budgeted,src_dual_agri_promo_apaq_vl_tick609,medium,Illustrative dual agri promo: APAQ-W dep 14.759m + VL TK promotie 5.659m 2026 = 20.418m class; VLAM full residual FOI; not additive TE
