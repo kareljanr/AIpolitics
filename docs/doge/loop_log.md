@@ -7581,3 +7581,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+fonds_dechets +fonds_protection_env); budgets (+20); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_fonds_dechets_l5_2025; rq_627=done; spawn rq_628; loop_state ticks=636
 - FOI opened: gap_fonds_dechets_l5_2025 -- ready (not sent)
 - Next: rq_628; progress@640 in 4 ticks; rq_116 deferred
+
+### 2026-08-01T01:00:00Z -- tick 637
+- Unit: rq_628 (FOI-adjacent dual mobility hole-fill -- **DO14 Mobilite** CoA s5.6.2 dual De Lijn/Sofico/AWV)
+- Found: **DO14** (primary CoA): BI2025 CE **EUR1.915bn** / CL **EUR1.649bn** (path eng **+EUR256.7m** / liq **+EUR62.9m**). Mobility trio 044+045+049 CE **EUR1.642bn** / CL **EUR1.376bn**. **Prog 045 OTW:** CE **EUR895.6m** / CL **EUR861.1m**; CSP demands **EUR722.8m** vs budget **EUR700.6m** shortfall **EUR22.2m**; new CSP 2025; TramArdent redev **EUR30.7m** from 2025-04-15. **Prog 044:** CE **EUR14.4m** path eng **-EUR19.7m**; PIMACI no new programming 2025. **Prog 049:** CE **EUR731.7m** / CL **EUR478.2m**; SEE 2.3 eng **EUR200m** / liq **EUR43m** no EU cofin. Fonds infractions rec **EUR74.3m** / dep **EUR26.0m**. Dual **De Lijn** tussenkomst class **EUR1.208bn** + Sofico **EUR570.6m**. Strong confidence CoA; CSP/SEE L5 residual FOI.
+- Wrote: entities (+otw +fonds_infractions); budgets (+25); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do14_mobilite_l5_2025; rq_628=done; spawn rq_629; loop_state ticks=637
+- FOI opened: gap_do14_mobilite_l5_2025 -- ready (not sent)
+- Next: rq_629; progress@640 in 3 ticks; rq_116 deferred
