@@ -1,0 +1,772 @@
+---PAGE 1---
+Verslag van het Rekenhof aan de Kamer van Volksvertegenwoordigers
+Brussel, januari 2026
+Beleid inzake het voorschrijven 
+en afleveren van antibiotica
+Opvolging 2025 van de aanbevelingen
+
+---PAGE 2---
+Verslag goedgekeurd in de algemene vergadering van het Rekenhof van 7 januari 2026
+Beleid inzake het voorschrijven 
+en afleveren van antibiotica
+Opvolging 2025 van de aanbevelingen
+---PAGE 3---
+2
+Inhoud
+---PAGE 4---
+1 Context 5
+2 Initiële audit van 2022 6
+2.1 Beschikbare gegevens 6
+2.2 Omkadering van het voorschrijfgedrag 6
+2.3	 Omkadering	van	de	aflevering	 6
+2.4 Nationaal actieplan 2020-2024 6
+2.5 Conclusies van de audit van 2022 7
+3 Opvolgingsmethode en tijdschema  7
+4 Uitvoering van de aanbevelingen 8
+4.1 Doelstellingen, indicatoren en beschikbare gegevens 8
+4.2 Acties in verband met het voorschrijfgedrag 10
+4.3	 Acties	in	verband	met	de	aflevering		 16
+4.4 Nationaal actieplan voor de bestrijding van antimicrobiële resistentie 17
+5 Conclusies 18
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	3
+---PAGE 5---
+4
+Opvolging 2025 van de aanbevelingen
+Beleid inzake het voorschrijven 
+en afleveren van antibiotica
+---PAGE 6---
+Beleid inzake het voorschrijven 
+en afleveren van antibiotica: 
+opvolging 2025 van 
+de aanbevelingen
+In 2022 onderzocht het Rekenhof het beleid voor het voorschrijven en afleveren van antibiotica dat 
+de FOD Volksgezondheid, het Rijksinstituut voor ziekte- en invaliditeitsverzekering (RIZIV) en het 
+Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten (FAGG) voerden. Het contro -
+leerde of dit beleid in overeenstemming was met de nationale en internationale aanbevelingen en of 
+het gebruik van antibiotica was gedaald.
+Hoe groter het gebruik van antibiotica, hoe resistenter de bacteriën en hoe minder doeltreffend de 
+werking van die antibiotica. Zonder doeltreffende antibiotica kunnen veel infecties, waarvan som -
+mige dodelijk zijn, echter niet meer worden genezen, wat leidt tot kosten voor de sociale zekerheid, 
+met name kosten voor ziekenhuisopnames. Een efficiënte oplossing om de resistentie van bacteriën te 
+beperken, is verstandig omspringen met antibiotica en de goede klinische praktijken volgen.
+Ondanks een innovatief beleid in 1999 was België in 2019 nog steeds een van de grootste antibiotica -
+gebruikers in Europa. Een efficiënte omkadering voor het voorschrijven en afleveren van antibiotica 
+ontbrak, evenals nauwkeurige gegevens over de verstrekte antibiotica en over de doeltreffendheid van 
+de maatregelen om de afgeleverde hoeveelheden te beperken. Het percentage van sommige antibio -
+tica die werden afgeleverd en waarvan het gebruik volgens de nationale en internationale normen zou 
+moeten worden ingeperkt, bleef overigens te hoog. Die antibiotica kunnen echter soms onomkeerbare 
+invaliderende bijwerkingen hebben. 
+In het kader van zijn opvolging in 2025 onderzocht het Rekenhof of de aanbevelingen uit zijn initiële au-
+dit van 2022 waren uitgevoerd. Het concludeert dat zes aanbevelingen zijn uitgevoerd, tien gedeeltelijk 
+zijn uitgevoerd of in uitvoering zijn, twee niet zijn uitgevoerd en twee niet kunnen worden beoordeeld.
+Volledig
+uitgevoerd
+6
+In
+uitvoering
+10
+Niet
+uitgevoerd
+2
+Niet
+beoordeeld
+2
+Volgens de laatste beschikbare gegevens (juni 2024 - mei 2025) is het aantal terugbetaalde antibiotica 
+met 8 % gedaald ten opzichte van 2019. Dat kan het gevolg zijn van de indicatoren voor goede prak -
+tijken die het RIZIV eind 2023 heeft gepubliceerd en van andere RIZIV-acties. Veel antibiotica worden 
+echter voorgeschreven buiten de terugbetalingsvoorwaarden om. Het aandeel ervan ten opzichte van 
+de terugbetaalde antibiotica stijgt van 11 % in 2019 tot 12 % in 2023. Bovendien werd in 2023 het me -
+rendeel van bepaalde antibiotica met mogelijk aanzienlijke bijwerkingen voorgeschreven buiten de 
+terugbetalingsvoorwaarden en dus buiten het controledomein van het RIZIV.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	5
+---PAGE 7---
+1 Context
+Bacteriële resistentie tegen antibiotica veroorzaakt infecties die moeilijk te genezen zijn en leiden 
+tot hospitalisatie, nawerkingen en honderden doden per jaar in België, en dus ook tot aanzienlijke 
+overheidsuitgaven. Volgens het Europees Centrum voor Ziektepreventie en -bestrijding (European 
+Centre for Disease Prevention and Control , ECDC) zouden de financiële gevolgen 24  euro per per-
+soon per jaar bedragen in Europa 1. Voor België betekent dat 281 miljoen euro 2. 56 % daarvan (of 
+158 miljoen euro) heeft betrekking op uitgaven voor gezondheidszorg (vnl. ziekenhuisopnames) 
+en 44 % (122 miljoen euro) op economische verliezen (onder meer arbeidsongeschiktheid en 
+productiviteitsverlies).
+Onnodig gebruik van antibiotica vergroot de resistentie van bacteriën. Omgekeerd kan met een 
+doeltreffend beheer van het gebruik ervan in een land die resistentie worden tegengegaan en zo 
+het aantal ongeneeslijke infecties en de daarmee samenhangende gezondheidsproblemen worden 
+beperkt. In Nederland, waar het antibioticagebruik in 2019 2,6 keer lager lag dan in België, is de 
+bacteriële resistentie ook lager. 
+Zoals vermeld in de audit van 2022 van het Rekenhof3, zijn de geraadpleegde nationale en interna-
+tionale bronnen unaniem: om de resistentie van bacteriën te bestrijden, moet verstandig worden 
+omgesprongen met antibiotica, d.w.z. dat ze enkel mogen worden voorgeschreven en afgeleverd 
+als het noodzakelijk is volgens de goede klinische praktijken die berusten op feitelijke gegevens. 
+Die bronnen verwijzen ook wel naar de goede praktijken als ‘klinische praktijkrichtlijnen’ 4, ‘evi-
+dence-based richtlijnen’5 of ‘evidence-based guidelines’ 6.
+In de jaren 90 was België één van de grootste antibioticaverbruikers in Europa. Om het overmatige 
+gebruik van die geneesmiddelen een halt toe te roepen, bouwde ons land in 1999 een beleid uit dat 
+op Europees vlak vernieuwend was. Niettemin was België twintig jaar later nog steeds één van de 
+grootste antibioticaverbruikers in Europa. De doelstellingen van het beleid waren dus niet gehaald. 
+Het Rekenhof stelde vast dat de FOD Volksgezondheid, het Rijksinstituut voor Ziekte- en 
+Invaliditeitsverzekering (RIZIV) en het Federaal Agentschap voor Geneesmiddelen en 
+Gezondheidsproducten (FAGG) nochtans over de wettelijke middelen beschikten om een doel -
+treffend beleid op te zetten om het gebruik van die geneesmiddelen in België te verbeteren, de 
+bacteriële resistentie te beperken en de uitgaven voor gezondheidszorg en de daaruit voortvloei -
+ende economische verliezen te verminderen. 
+1 European Centre for Disease Prevention and Control (ECDC), Bestrijding van resistentie tegen antimicrobiële stoffen: doelstel -
+lingen voor 2030 , 2023, 8 p., www.ecdc.europea.eu .
+2 Statbel, Bevolking per gemeente op 1 januari 2023 , www.statbel.fgov.be .
+3 Rekenhof, Beleid inzake het voorschrijven en afleveren van antibiotica , Verslag aan de Kamer van Volksvertegenwoordigers, 
+Brussel, december 2022, 69 p., rekenhof.be.
+4 BAPCOC, Beleidsnota legislatuur 2014-2019 , Brussel, 2014, 50 p., www.health.belgium.be .
+5 Belgian Health Care Knowledge Centre (KCE), R. Leroy et autres, Proposals for a More Effective Antibiotic Policy in Belgium , 
+Bruxelles, 2019, 386 p., www.kce.fgov.be .
+6 European Centre for Disease Prevention and Control (ECDC), ECDC Country Visit to Belgium to Discuss Antimicrobial 
+Resistance Issues. Mission report , Stockholm, juli 2018, 35 p., www.ecdc.europa.eu .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	6
+---PAGE 8---
+2 Initiële audit van 2022
+2.1 Beschikbare gegevens
+Om de doeltreffendheid van het overheidsbeleid te kunnen evalueren, moeten er nauwkeurige 
+gegevens beschikbaar zijn over het voorschrijven en afleveren van antibiotica. 
+De gegevens die beschikbaar waren toen de audit van 2022 werd uitgevoerd, hadden echter uit -
+sluitend betrekking op de terugbetaalde geneesmiddelen, terwijl 11 % van de antibiotica in de apo-
+theek was afgeleverd zonder terugbetaling. Bovendien gebruikte het RIZIV geen gegevens over de 
+voorschriften per voorschrijver om de doeltreffendheid van zijn acties te evalueren. Het Rekenhof 
+formuleerde in zijn audit de aanbeveling om nauwkeurige gegevens te gebruiken door zich ener -
+zijds te baseren op de aflevering van antibiotica in openbare apotheken en anderzijds op antibio -
+ticavoorschriften per voorschrijver.
+2.2 Omkadering van het voorschrijfgedrag
+Toen de audit van 2022 liep, had het RIZIV maatregelen ingevoerd om de opvolging van de goede 
+praktijken te verbeteren. Zo had het de voorschrijvers informatie bezorgd over de voorschriften, 
+en de voorwaarden veranderd waaronder antibiotica werden terugbetaald. Niets wees er echter 
+op dat die maatregelen effectief waren. Integendeel, uit de beschikbare gegevens over de hoeveel -
+heid en de kwaliteit van de voorschriften bleek dat de goede praktijken beter gevolgd moesten 
+worden. Daarnaast werden veel nationale en internationale aanbevelingen niet opgevolgd, zo -
+als het beschikbaar stellen van hulpmiddelen om voorschrijvers te helpen bij het kiezen van het 
+juiste antibioticum, en de controle op de voorschrijvers die de meeste antibiotica voorschrijven. 
+Het Rekenhof formuleerde de aanbeveling om de nationale en internationale aanbevelingen uit te 
+voeren zodat de kwaliteit van antibioticavoorschriften zou verbeteren en de afgeleverde hoeveel -
+heden zouden verminderen.
+2.3	 Omkadering	 van	de	aflevering
+Ten tijde van de controle in 2022 bevatten de dozen antibiotica die in openbare apotheken werden 
+verkocht vaak meer doses antibiotica dan nodig waren voor een behandeling, waardoor onnodige 
+doses antibiotica werden verstrekt. Daarnaast leverden apothekers sommige antibiotica zonder 
+voorschrift af. Dus zelfs wanneer de voorschrijvers de goede praktijken toepasten, werden talrijke 
+nodeloze antibiotica afgeleverd. In 2022 beval het Rekenhof aan de afgifte van de exact benodigde 
+hoeveelheid verplicht te stellen voor de ambulant verstrekte antibiotica. Het beval ook aan de af -
+levering te controleren om na te gaan of de apotheker steeds een voorschrift vroeg voordat hij het 
+antibioticum verstrekte. 
+2.4 Nationaal actieplan 2020-2024
+De betrokken ministers op federaal en regionaal niveau valideerden in november 2021 een nati -
+onaal actieplan 2020-2024 voor de bestrijding van antimicrobiële resistentie 7 . Het doel van het 
+plan was om het Belgische antibioticabeleid te verbeteren. Het beantwoordde aan de nationale en 
+internationale aanbevelingen die ervoor pleitten een plan op te stellen waarbij de sectoren werden 
+betrokken die te maken hadden met antibioticagebruik (gezondheid van mens en dier, milieu).
+7 FOD Volksgezondheid en andere, Belgisch nationaal actieplan “One Health” voor de bestrijding van antimicrobiële resistentie 
+2020-2024 , Brussel, 2021, 49 p., www.health.belgium.be .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	7
+---PAGE 9---
+Het plan bood echter geen oplossingen voor de vaststellingen van de audit, onder meer voor het 
+ontbreken van evaluatie en controle van het voorschrijfgedrag en de aflevering van antibiotica. 
+Bovendien was er geen sprake van het evalueren van de doeltreffendheid van de aanbevolen maat-
+regelen om de kwaliteit van het voorschrijfgedrag en van de aflevering te verbeteren. Een ver -
+spilling van middelen door het doorvoeren van ondoeltreffende acties kon dan ook niet worden 
+uitgesloten. Het Rekenhof beval aan om de aanbevelingen van de audit in het plan op te nemen. 
+Het formuleerde ook de aanbeveling na te gaan of elke maatregel doeltreffend was om de doelstel-
+ling van het verstandige gebruik van antibiotica te bereiken. 
+2.5 Conclusies van de audit van 2022
+De nationale en Europese doelstellingen voor het voorschrijven en verstrekken van antibiotica 
+werden niet gehaald ten tijde van de audit van 2022. Het risico bestond dat dit in de toekomst 
+ook niet het geval zou zijn, tenzij doeltreffende maatregelen werden genomen en de impact ervan 
+werd geëvalueerd. De kwaliteit van de voorschriften controleren, en verplichten dat de exacte 
+hoeveelheid antibiotica wordt afgeleverd, behoorden tot die maatregelen. Ondanks het feit dat de 
+FOD Volksgezondheid, het RIZIV en het FAGG er de middelen toe hadden, hebben ze geen vol -
+doende doeltreffende maatregelen genomen.
+3 Opvolgingsmethode en tijdschema 
+In december 2025 is het Rekenhof nagegaan welk gevolg was gegeven aan zijn aanbevelingen. 
+Daartoe bevroeg het de FOD Volksgezondheid, het RIZIV, het FAGG en de beleidscel van de mi -
+nister van Sociale Zaken en Volksgezondheid.
+Om een gedocumenteerde stand van zaken op te stellen over de uitvoering van zijn aanbevelingen 
+van 2022, stuurde het hen op 27 augustus 2025 per mail een vragenlijst. De FOD Volksgezondheid, 
+het RIZIV en het FAGG stuurden een gezamenlijk antwoord op 30 september 2025. De beleidscel 
+van de minister heeft niet geantwoord.
+Op 23 oktober 2025 stuurde het Rekenhof, in het kader van de tegensprekelijke procedure, een 
+ontwerp van opvolgingsverslag naar de administratie, de twee bovenvermelde instellingen en de 
+beleidscel van de minister van Sociale Zaken en Volksgezondheid. Hun commentaar werd ver -
+wacht tegen 24 november 2025. Het RIZIV en het FAGG hebben op 21 november 2025 geantwoord. 
+Het Rekenhof heeft die antwoorden geanalyseerd en er rekening mee gehouden bij de opmaak 
+van dit verslag. 
+Het Rekenhof is in dit opvolgingsverslag nagegaan welk gevolg werd gegeven aan zijn aanbeve -
+lingen. Het kende een kleurcode toe aan elke aanbeveling op basis van de mate waarin ze werd 
+uitgevoerd. In het punt 4 hieronder staat telkens naast de aanbevelingen vermeld aan wie ze zijn 
+gericht; eronder volgt een samenvatting van de bevindingen van de initiële audit. De bewijskrach -
+tige gegevens waarop die vaststellingen zijn gebaseerd, zijn te vinden in het auditverslag van 20228. 
+8 Rekenhof, Beleid inzake het voorschrijven en afleveren van antibiotica , op.cit.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	8
+---PAGE 10---
+Volledig uitgevoerd
+In uitvoering
+Niet uitgevoerd
+Niet beoordeeld
+Dit verslag is gebaseerd op een vereenvoudigde opvolging, uitgaande van de verklaringen van de 
+geauditeerden en de documenten die ter ondersteuning daarvan werden verstrekt. Het Rekenhof 
+heeft geen auditwerkzaamheden verricht (zoals gesprekken, tests en grondige analyse van docu -
+menten) om de k waliteit van de ont vangen documenten en de getroffen maatregelen te beoordelen.
+4 Uitvoering van de aanbevelingen
+De uitvoering van de aanbevelingen wordt hieronder uiteengezet in vier subpunten, die overeen -
+komen met de thema’s van het auditverslag van 2022:
+• doelstellingen, indicatoren en beschikbare gegevens;
+• acties in verband met het voorschrijfgedrag;
+• acties in verband met de aflevering;
+• nationaal actieplan voor de bestrijding van antimicrobiële resistentie.
+4.1 Doelstellingen, indicatoren en beschikbare gegevens
+Aanbeveling 1
+Stel een regelgevend kader op zodat het RIZIV over precieze 
+gegevens kan beschikken met betrekking tot alle antibiotica die in de 
+ambulante zorg worden afgeleverd (al dan niet terugbetaald, al dan 
+niet voorgeschreven).
+Minister,
+RIZIV
+Tijdens de initiële audit in 2022 had het RIZIV toegang tot precieze gegevens, maar alleen over 
+terugbetaalde antibiotica. Verder beschikte het over het aandeel niet-terugbetaalde, afgeleverde 
+antibiotica in het geheel van de verstrekte antibiotica, via een database van de geneesmiddelen die 
+werden afgeleverd door de apothekers en tegen betaling werd ter beschikking gesteld. Uit deze ge-
+gevens bleek dat sommige antibiotica waarvoor terugbetalingsvoorwaarden gelden, zoals chino -
+lonen9, het vaakst buiten de terugbetalingsvoorwaarden om werden voorgeschreven. Aangezien 
+die terugbetalingsvoorwaarden een manier zijn om voorschrijvers aan te moedigen om goede 
+praktijken na te leven, voldeed een deel van de zonder terugbetaling afgeleverde voorschriften 
+waarschijnlijk niet aan deze voorwaarden. Zonder precieze informatie over die voorschriften kon 
+het RIZIV de betrokken voorschrijvers niet controleren.
+In zijn antwoord op de vragenlijst voor de opvolging vermeldt het RIZIV dat het sinds 2025 toegang 
+heeft tot de gegevens van Farmaflux, een vzw die is opgericht door apothekersverenigingen om 
+apotheekgegevens te beheren 10. Die gegevens bevatten gedetailleerde informatie over verstrek -
+te antibiotica (al dan niet terugbetaald). Het RIZIV verwerkt momenteel de gegevens van 2024, 
+9 ••     Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Gecommentarieerd geneesmiddelenrepertorium.
+        Chinolonen, pagina geraadpleegd op 7 november 2025, www.bcfi.be .
+• De	term	‘fluorochinolonen’	(een	soort	chinolonen)	wordt	soms	gebruikt	in	plaats	van	chinolonen.
+10 Farmaflux, 	Over Farmaflux , pagina geraadpleegd op 13 november 2025, www.farmaflux.be .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	9
+---PAGE 11---
+het eerste jaar dat beschikbaar is. Er is een wijziging in de regelgeving gepland om Sciensano 
+rechtstreeks toegang te geven tot de Farmaflux-gegevens. In zijn reactie op het ontwerp van op -
+volgingsverslag voegt het RIZIV eraan toe dat die gegevens moeten voldoen aan kwaliteitscriteria 
+die zijn vastgelegd in zijn overeenkomst met Farmaflux 11.
+Hoewel toegang tot deze database beantwoordt aan de aanbeveling van het Rekenhof, stelt het 
+vast dat, aangezien de Farmaflux-gegevens anoniem zijn, het niet mogelijk is de voorschrijver te 
+identificeren, wat noodzakelijk is om de voorschriften voor antibiotica die buiten de terugbeta -
+lingsvoorwaarden zijn afgeleverd, te analyseren en controleren.
+Aanbeveling 2
+Bezorg aan Sciensano gegevens over alle antibiotica die in de 
+ambulante zorg worden afgeleverd, zodat Sciensano die informatie 
+kan doorgeven aan het ECDC.
+RIZIV
+Ten tijde van de initiële audit in 2022 kon het RIZIV het aandeel antibiotica dat in 2019 werd ver -
+strekt (al dan niet terugbetaald) berekenen via de tegen betaling ter beschikking gestelde data -
+base over de afgeleverde antibiotica. Voor België heeft het Europees Centrum voor Ziektepreventie 
+en -bestrijding ( European Centre for Disease Prevention and Control , ECDC) echter alleen gege -
+vens gepubliceerd over terugbetaalde antibiotica. De niet-terugbetaalde antibiotica waren even -
+wel goed voor 11 % van alle verstrekte antibiotica in 2019. De hoeveelheid gebruikte antibiotica in 
+België werd daarom onderschat, terwijl veel andere Europese landen, zoals Nederland, gegevens 
+rapporteerden over alle afgeleverde antibiotica.
+In zijn antwoord op de vragenlijst voor de opvolging stelt het RIZIV dat het de gegevens 2023 over 
+de terugbetaalde antibiotica en over het aandeel verstrekte maar niet terugbetaalde antibiotica 
+heeft bezorgd aan Sciensano. Ook de gegevens 2024 van de vzw Farmaflux zouden aan Sciensano 
+zijn bezorgd en er zou een regelgeving op komst zijn om Sciensano rechtstreeks toegang te geven 
+tot die gegevens.
+Het aandeel antibiotica dat in 2023 werd verstrekt maar niet werd terugbetaald, komt wel dege -
+lijk voor in het laatste verslag over antimicrobiële middelen 12 van Sciensano. Het Rekenhof merkt 
+echter op dat het ECDC voor België enkel gegevens heeft gepubliceerd over terugbetaalde antibi -
+otica13. De publicatie van die gegevens komt neer op een onderschatting met 12 % van het antibio-
+ticagebruik in België in 2023 14. Rekening houdend met dat percentage stond België niet op de 18 e, 
+maar op de 21 e plaats van de 27 Europese landen gerangschikt in oplopende volgorde van het an -
+tibioticagebruik. Slechts zes Europese landen gebruikten dus nog meer antibiotica. Desondanks 
+daalde het aantal verstrekte antibiotica in België tussen 2019 en 2023, met 3,2 % wat betreft de 
+terugbetaalde antibiotica en met 2,4 % wat betreft alle, al dan niet terugbetaalde, antibiotica 15.
+11 Overeenkomst	 “Artikel	 56	 §1”	 van	 6	 september	 2024	 tussen	 het	 RIZIV	 en	 Farmaflux,	 per	 e-mail	 meegedeeld	 aan	 het	
+Rekenhof op 21 november 2025.
+12 Sciensano, Belmap 2024, One Health Report of Antimicrobial Consumption and Resistance in Belgium , Brussel, 2024, 114 p., 
+www.health.belgium.be .
+13 European Centre for Disease Prevention and Control (ECDC), Antimicrobial Consumption in the EU/EEA (ESAC-Net). Annual 
+Epidemiological Report 2023, Stockholm , november 2024, www.ecdc.europa.eu .
+14 RIZIV, Geneesmiddelenverbruik in openbare officina’s. Antibiotica – Alle voorschrijvers. Analyse van de verdeling en van de 
+evolutie van het verbruik in volumes en in uitgaven per verzekerde in België (analyses en tendensen per gewest, provincie en 
+arrondissement) voor 2023 , 2 november 2024, 46 p., www.gezondbelgie.be .
+15 Sciensano, Belmap 2024, One Health Report of Antimicrobial Consumption and Resistance in Belgium , op. cit.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	10
+---PAGE 12---
+4.2 Acties in verband met het voorschrijfgedrag
+Wat het voorschrijven van antibiotica betreft, bestaan er twee soorten goede praktijken: op kwan -
+titatief niveau en op kwalitatief niveau. Op kwantitatief niveau is het doel om het voorschrijven 
+van antibiotica te verminderen door ze alleen indien nodig voor te schrijven. Kwalitatief is het de 
+bedoeling om bepaalde antibiotica (bv. chinolonen) enkel als tweedelijnsantibiotica voor te schrij-
+ven, d.w.z. pas nadat eerst een ander eerstelijnsantibioticum is geprobeerd. Deze goede praktijk 
+beperkt de blootstelling van bacteriën aan tweedelijnsantibiotica en dus het risico op resistentie. 
+Hierdoor blijft de werking van de antibiotica behouden. Daarnaast kunnen tweedelijnsantibio -
+tica, zoals chinolonen, “soms sterk invaliderende ongewenste effecten” 16 veroorzaken. 
+Ten tijde van de initiële audit in 2022 was geen enkele doelstelling in verband met de goede 
+praktijken voor het voorschrijven van antibiotica gehaald. Antibiotica werden in België te vaak 
+voorgeschreven (2,6 keer meer dan in Nederland) en heel wat voorschriften waren niet in over -
+eenstemming met de goede praktijken. Als gevolg daarvan werden te vaak meteen tweedelijns -
+antibiotica voorgeschreven, zonder eerst een eerstelijnsantibioticum voor te schrijven. Er waren 
+dus extra maatregelen nodig om voorschrijvers aan te moedigen deze goede praktijken te volgen.
+Aanbeveling 3
+Evalueer de deelname van voorschrijvers die permanente 
+bijscholingen volgen georganiseerd door de FOD Volksgezondheid of 
+het RIZIV en evalueer in hoeverre die bijscholingen ertoe bijdragen 
+dat voorschrijvers de goede praktijken beter navolgen.
+FOD 
+Volksgezondheid,
+RIZIV
+Een manier om ervoor te zorgen dat voorschrijvers de goede praktijken volgen, is hen hierin op te 
+leiden. Ten tijde van de initiële audit van 2022 konden voorschrijvers opleidingen over antibiotica 
+volgen. Die waren echter niet verplicht en het RIZIV kon ook niet controleren of ze doeltreffend 
+waren om de kwaliteit van de voorschriften te verbeteren. Het RIZIV beschikte nochtans over ge -
+gevens om de kwaliteit van de voorschriften per voorschrijver te beoordelen, en dus om de voor -
+uitgang van het beleid op te volgen wat betreft de evolutie van het voorschrijfgedrag.
+In antwoord op de opvolgingsvragenlijst laten de geauditeerden weten dat in 2025, net als in 2022, 
+artsen die geaccrediteerd 17 willen worden - en de financiële voordelen van die accreditatie willen 
+ontvangen - opleidingen moeten volgen, waarin antibiotica al dan niet aan bod komen. In 2024 en 
+2025 kregen geaccrediteerde huisartsen die opleidingen volgen om een kwalitatief antibioticabe -
+leid te bevorderen, bovendien extra stimulansen 18. Het RIZIV organiseert die opleidingen echter 
+niet zelf en heeft geen gegevens over de inhoud ervan. 
+Het Rekenhof stelt vast dat er vooruitgang is geboekt op het gebied van opleiding over goede prak-
+tijken, maar merkt ook op dat het RIZIV nog steeds geen informatie heeft over de effectiviteit van 
+die opleidingen om de kwaliteit van antibioticavoorschriften te verbeteren.
+16 Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Gecommentarieerd geneesmiddelenrepertorium. 
+Chinolonen, op. cit.
+17 RIZIV, Accreditering van artsen en apothekers-biologen, pagina geraadpleegd op 7 november 2025, www.riziv.fgov.be .
+18 RIZIV, Uw accreditering als arts of apotheker-bioloog verkrijgen of verlengen , pagina geraadpleegd op 21 november 2025, 
+www.riziv.fgov.be.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	11
+---PAGE 13---
+Aanbeveling 4
+Maak de tools voor hulp bij het voorschrijven (clinical decision 
+support system en sneltesten) toegankelijk voor al wie antibiotica 
+voorschrijft, om de kwaliteit van de voorschriften te verbeteren; 
+maak het inschakelen van infectieziektenspecialisten mogelijk.
+FOD
+Volksgezondheid, 
+RIZIV
+Om voorschrijvers te helpen de goede praktijken te volgen en de kwaliteit van de voorschriften te 
+verbeteren, worden internationaal een aantal hulpmiddelen aanbevolen: 
+• de software clinical decision support system, die voorschrijvers helpt bij het kiezen van het juiste 
+antibioticum;
+• snellediagnosetests, die kunnen aantonen of een infectie bacterieel is of niet;
+• de terugbetaling van raadplegingen bij een specialist in infectieziekten, die andere voorschrij -
+vers advies kan geven over het voorschrijven van antibiotica.
+Ten tijde van de initiële audit van 2022 was er van de toepassing van die hulpmiddelen nog geen 
+sprake maar was die voor de geauditeerden enkel een denkpiste.
+In antwoord op de opvolgingsvragenlijst lieten de geauditeerden weten de volgende acties te 
+ondernemen:
+• Een clinical decision support system type software zal eind 2025 beschikbaar zijn voor artsen en 
+in 2027 voor tandartsen 19. 
+• De invoering van snellediagnosetests is nog steeds gepland, maar zal afhangen van het be -
+schikbare budget en de wensen op het terrein. In zijn antwoord op het ontwerp van opvolgings-
+verslag voegt het RIZIV eraan toe dat snellediagnosetests voor luchtweginfecties 20 momenteel 
+worden geëvalueerd.
+• Er is een budget voor de terugbetaling van raadplegingen bij infectiologen, maar hun advies 
+voor ambulante patiënten wordt als minder prioritair beschouwd dan voor gehospitaliseerde 
+patiënten. 
+De geauditeerden noemen budgettaire beperkingen als reden waarom de laatste twee hulpmid -
+delen mogelijk niet beschikbaar zijn voor ambulante patiënten. Infecties die resistent zijn tegen 
+antibiotica veroorzaken echter aanzienlijke kosten, vooral in termen van ziekenhuisopname en de 
+nawerkingen van infecties die moeilijk te genezen zijn. Adequate investeringen zouden de resis -
+tentie en dus de bijbehorende kosten kunnen verminderen.
+Aanbeveling 5
+Automatiseer de terugbetaling van alle antibiotica om te vermijden 
+dat ze buiten het controledomein van het RIZIV vallen als de 
+voorschrijver de terugbetalingsvoorwaarden niet in acht neemt. 
+Minister,
+RIZIV
+In 2017 en 2018 heeft een koninklijk besluit terugbetalingsvoorwaarden toegevoegd om het voor -
+schrijven van tweedelijnsantibiotica (zoals chinolonen) te beperken en ervoor te zorgen dat het 
+voorschrijven volgens goede praktijken gebeurt. Als een voorschrijver niet aan deze voorwaarden 
+voldoet, betaalt de patiënt sindsdien de volle pot voor het antibioticum zonder terugbetaling. 
+19 RIZIV, Beslissingsondersteunend platform voor voorschrijvers: meer gepaste zorg en minder veiligheidsrisico’s dankzij evidence-
+based ondersteuning , pagina geraadpleegd op 22 oktober 2025, www.riziv.fgov.be .
+20 Salima Azahaf en andere, “Budget Impact Analysis of Implementing C-Reactive Protein Point-of-Care Testing to Aid 
+Antibiotic Prescribing in Belgian Primary Care”, Applied Health Economics and Health Policy , 2025/11/07 2025.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	12
+---PAGE 14---
+In zijn initiële audit van 2022 stelde het Rekenhof vast dat het RIZIV enkel gegevens had over 
+geneesmiddelen die effectief werden terugbetaald en dan ook geen controle had over niet-
+terugbetaalde geneesmiddelen. Als de voorschrijver dus niet voldeed aan de voorwaarden voor 
+terugbetaling, viel hij paradoxaal genoeg buiten de controle van het RIZIV. En aangezien die 
+geneesmiddelen relatief goedkoop zijn, is de prijs van het geneesmiddel niet altijd een struikelblok 
+voor de patiënt, die zelden in staat is om in te schatten of een voorschrift al dan niet terecht 
+is. Bovendien is het aandeel niet-terugbetaalde chinolonen van alle verstrekte geneesmiddelen 
+gestegen van 8 % in 2016 tot 61 % in 2019. De meeste voorschriften voor chinolonen vallen 
+daarom buiten de controle van het RIZIV. De patiënt betaalt dubbel voor de gevolgen van het 
+niet-naleven van de terugbetalingsvoorwaarden, ook al werd het antibioticum misschien onnodig 
+voorgeschreven: hij krijgt geen terugbetaling maar wel een geneesmiddel voorgeschreven met 
+soms zeer invaliderende bijwerkingen.
+In antwoord op de opvolgingsvragenlijst vermeldden de geauditeerden geen enkele maatregel om 
+het voorschrijven van antibiotica buiten de terugbetalingsvoorwaarden te controleren. Het per -
+centage niet-terugbetaalde chinolonen dat wordt voorgeschreven, is in 2023, vergeleken met 2019 
+(61 %), nochtans weer gestegen (66 %). Daarnaast worden andere tweedelijnsantibiotica (derdege-
+neratiecefalosporines 21) nu bijna altijd voorgeschreven buiten de terugbetalingsvoorwaarden om 
+(87 %). In totaal is het percentage niet-terugbetaalde antibiotica dat wordt voorgeschreven, geste -
+gen van 11 % in 2019 naar 12 % in 2023 22.
+Aanbeveling 6
+Verplicht de voorschrijvers van antibiotica de goede praktijken toe te 
+passen of te vermelden waarom ze ervan afwijken.
+Minister,
+FOD 
+Volksgezondheid, 
+RIZIV
+Aanbeveling 9
+Zet acties op om de goede praktijken te evalueren en te controleren, 
+zoals de actie die de DGEC al heeft uitgevoerd, in afwachting van 
+bruikbare indicatoren van manifeste afwijking. 
+RIZIV
+Aanbeveling 10
+Definieer	de	wettelijk	voorgeschreven	indicatoren	van	manifeste	
+afwijking op basis van de beschikbare gegevens. 
+RIZIV
+Aanbeveling 11
+Controleer voorschrijvers die de goede praktijken inzake antibiotica 
+niet volgen via indicatoren van manifeste afwijking. 
+RIZIV
+Aanbeveling 14
+Deel elk jaar het resultaat mee van de evaluatie van de navolging 
+van de goede praktijken, door op nationaal niveau de evolutie te 
+schetsen van het percentage voorschrijvers die de goede praktijken 
+in acht nemen. 
+RIZIV
+Tijdens de initiële audit in 2022 ondernam het RIZIV onvoldoende effectieve actie om voorschrij -
+vers de goede praktijken te doen naleven. Voorschrijvers ondervonden geen negatieve gevolgen 
+als ze zich er niet aan hielden, terwijl dit gedrag negatieve gevolgen kan hebben voor de patiënten 
+21 Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Gecommentarieerd geneesmiddelenrepertorium. 
+Cefalosporines. Derde generatie , pagina geraadpleegd op 7 november 2025, www.bcfi.be .
+22 RIZIV, Geneesmiddelenverbruik in openbare officina’s. Antibiotica – Alle voorschrijvers. Analyse van de verdeling en van de 
+evolutie van het verbruik in volumes en in uitgaven per verzekerde in België (analyses en tendensen per gewest, provincie en 
+arrondissement) voor 2023 , op. cit.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	13
+---PAGE 15---
+(bijwerkingen), voor de bevolking in het algemeen (toename van antibioticaresistentie) en voor 
+het milieu (vervuiling door verspilling van geneesmiddelen). De wet verplicht het RIZIV nochtans 
+om toezicht te houden op overbodig voorschrijven. In 2022 werd die controle echter niet uitge -
+voerd omdat de benodigde indicatoren niet waren gedefinieerd.
+In antwoord op de opvolgingsvragenlijst meldden de geauditeerden dat het RIZIV op 29 novem -
+ber 2023 23, op initiatief van zijn Dienst voor Geneeskundige Evaluatie en Controle (DGEC), drie 
+indicatoren voor goede praktijken heeft gepubliceerd. De eerste indicator is kwantitatief. Voor een 
+huisarts betekent dit dat hij niet meer dan 23 % van de patiënten ouder dan veertien jaar (of meer 
+dan 45 % van de patiënten van veertien jaar en jonger) antibiotica mag voorschrijven. De andere 
+twee indicatoren zijn kwalitatief. Ze omvatten het beperken van het voorschrijven van tweede -
+lijnsantibiotica (waaronder amoxicilline gecombineerd met clavulaanzuur 24, cefalosporines 25 en 
+chinolonen) in vergelijking met eerstelijnsantibiotica.
+De DGEC heeft de huisartsen op de hoogte gebracht van de inwerkingtreding van die indicatoren. 
+Vervolgens stuurde de dienst naar elke huisarts een brief met informatie over zijn antibiotica -
+voorschriften van de afgelopen vijf jaar. Zo kon de arts zijn positie ten opzichte van de indicato -
+ren beoordelen en zijn toekomstige voorschrijfgedrag aanpassen 26. Als een huisarts een van de 
+indicatoren overschrijdt, kan de DGEC hem daar voortaan uitleg over vragen. Deze actie is een 
+drukkingsmiddel om artsen aan te sporen de indicatoren voor goede praktijken te volgen. De wet27 
+voorziet in andere acties die de DGEC kan ondernemen. Met gegevens over huisartsenvoorschrif -
+ten kan de DGEC trends in voorschriften analyseren. Eind 2025 komt er een eerste evaluatie. 
+In zijn antwoord op het ontwerp van opvolgingsverslag bezorgde het RIZIV het Rekenhof cijfers 
+die aantonen dat het aantal terugbetaalde antibioticavoorschriften in 2024 en tijdens de eerste vijf 
+maanden van 2025 is gedaald. Uit de gegevens voor 2024 blijkt dat, vergeleken met 2023, de doses 
+antibiotica die de huisartsen hebben voorgeschreven met 2,6 % daalden, terwijl de doses die door 
+alle voorschrijvers werden voorgeschreven met slechts 0,6 % daalden. Aangezien de indicatoren 
+voor goede praktijken enkel betrekking hebben op de huisartsen, doet de sterkere daling voor deze 
+beroepsgroep vermoeden dat de maatregel wel efficiënt kan zijn. Of de andere maatregelen die ook 
+op huisartsen waren gericht, een effect hebben gehad, valt echter onmogelijk te bepalen. Bovendien 
+wijzen de laatst beschikbare gegevens (juni 2024-mei 2025) op een daling van 8 % van het aantal 
+terugbetaalde antibiotica. Ook het aantal patiënten dat antibiotica kreeg, daalde met 8 %.
+De maatregelen van de DGEC sluiten aan bij de aanbevelingen van het Rekenhof. Ze hebben ech -
+ter enkel betrekking op huisartsen, terwijl andere voorschrijvers 25 % van de terugbetaalde an -
+23 ••     RIZIV, Antibiotica: indicatoren voor het doelmatig voorschrijven van antibiotica door huisartsen , pagina geraadpleegd
+        op 22 oktober 2025, www.riziv.fgov.be .
+• FOD Sociale Zekerheid, Indicatoren voor het voorschrijfgedrag van de artsen houder van het artsendiploma en de huis -
+artsen voor antibiotica, Belgisch Staatsblad , 20 november 2023, www.justice.fgov.be .
+24 Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Gecommentarieerd geneesmiddelenrepertorium. 
+Amoxicilline + clavulaanzuur , pagina geraadpleegd op 3, december 2025, www.bcfi.be .
+25 Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Gecommentarieerd geneesmiddelenrepertorium. 
+Cefalosporines , pagina geraadpleegd op 7 november 2025, www.bcfi.be .
+26 ••     RIZIV, Antibiotica: indicatoren voor het doelmatig voorschrijven van antibiotica door huisartsen , op. cit.
+• RIZIV, Indicatoren van manifeste afwijking van goede medische praktijk – voorschrijven van antibiotica door huisartsen , 
+8 december 2023, 3 p., www.riziv.fgov.be .
+• RIZIV, Individuele feedback – indicatoren van manifeste afwijking van goede medische praktijk voor het voorschrijven van 
+antibiotica door huisartsen , 25 juni 2024, 9 p., www.riziv.fgov.be .
+27 Artikel	142, 	§1,	van	de	wet	betreffende 	de	verplichte 	verzekering 	voor	geneeskundige 	verzorging 	en	uitkeringen 	gecoördi -
+neerd op 14 juli 1994.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	14
+---PAGE 16---
+tibiotica voorschrijven. Bovendien zijn de gegevens die worden gebruikt om het behalen van de 
+indicatoren te berekenen nog steeds enkel gebaseerd op de terugbetaalde geneesmiddelen. De 
+geauditeerden bezorgden het Rekenhof geen informatie over het percentage antibiotica dat zon -
+der vergoeding werd afgeleverd in 2024 en 2025. Aangezien de DGEC geen controle uitoefent op 
+voorschrijvers die buiten de terugbetalingsvoorwaarden om voorschrijven, kunnen voorschrijvers 
+aan elke controle ontsnappen door voor te schrijven zonder zich aan deze voorwaarden te houden. 
+Aanbeveling 7
+Behoud het voorschrijven van antibiotica die als laatste redmiddel 
+worden gezien, voor aan infectieziektenspecialisten of koppel dat 
+aan de voorwaarde dat zij advies verlenen (in zoverre zij daarvoor 
+beschikbaar zijn).
+Regering,
+FOD 
+Volksgezondheid
+In 2022 werd, in tegenstelling tot internationale en nationale aanbevelingen, geen enkel antibio -
+ticum dat als laatste redmiddel wordt gezien, voorbehouden aan specialisten, ondanks de aan -
+zienlijke bijwerkingen van sommige van deze antibiotica, zoals de chinolonen.
+In antwoord op de opvolgingsvragenlijst gaven de geauditeerden aan dat er procedures lopen om 
+de terugbetalingsvoorwaarden van een reeks antibiotica die als laatste redmiddel worden gezien 
+te herzien en de terugbetalingsaanvragen te beperken tot infectieziektenspecialisten. Slechts 
+één antibioticum, amikacine, dat aanzienlijke bijwerkingen kan hebben 28, wordt terugbetaald na 
+advies van een specialist. 
+In de praktijk kan elke arts (huisarts of specialist) deze antibiotica echter nog steeds voorschrijven 
+buiten de terugbetalingsvoorwaarden om. In dit geval draagt de patiënt de risico’s die gepaard 
+gaan met de bijwerkingen van deze geneesmiddelen, ook al is het voorschrift mogelijk niet in 
+overeenstemming met de goede praktijken. Bovendien betaalt de patiënt de volledige prijs van het 
+geneesmiddel, terwijl de voorschrijver, die als enige verantwoordelijk is voor wat hij voorschrijft, 
+gespaard blijft van negatieve gevolgen.
+Aanbeveling 8
+Ga	na	of	er	financiële	stimulansen	kunnen	worden	toegekend	aan	
+voorschrijvers die de goede praktijken inzake antibiotica navolgen. 
+RIZIV
+Tijdens de initiële audit van 2022 ontvingen de voorschrijvers geen financiële stimulansen om hen 
+aan te moedigen de goede praktijken rond antibiotica in acht te nemen.
+In antwoord op de opvolgingsvragenlijst vermeldden de geauditeerden dat sinds 2023 het gebruik 
+van twee barometers om zelf een type gedrag (voorschrijfgedrag bv.) te kunnen beoordelen, een 
+van de voorwaarden is voor het ontvangen van een geïntegreerde praktijkpremie die elke huisarts 
+kan aanvragen. De arts moet minstens twee van de drie voorgestelde barometers gebruiken. Een 
+van de drie betreft het voorschrijven van antibiotica. Deze antibioticabarometer meet het aantal 
+eerste- en tweedelijnsantibiotica (bv. chinolonen) dat door een arts wordt voorgeschreven voor 
+luchtweg- of urineweginfecties. Deze barometer is een hulpmiddel voor zelfbeoordeling, waarmee 
+28 Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Gecommentarieerd geneesmiddelenrepertorium. 
+Amikacine, pagina geraadpleegd op 4 november 2025, www.bcfi.be .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	15
+---PAGE 17---
+artsen de manier waarop ze voorschrijven, kunnen vergelijken met die van andere artsen, via een 
+feedback29-systeem. 
+Het Rekenhof merkt op dat deze premie een stimulans is om antibiotica voor te schrijven volgens 
+de regels van de goede praktijk.
+Aanbeveling 12
+Voer de verplichting in om de indicatie te vermelden op het 
+antibioticavoorschrift. 
+Regering, 
+FOD 
+Volksgezondheid, 
+RIZIV
+Tijdens de initiële audit van 2022 viel niet precies te evalueren of voorschrijvers de goede praktijken 
+volgden omdat de indicatie waarvoor antibiotica werden voorgeschreven, niet op het voorschrift 
+werd vermeld. Een indicatie is minder precies dan een diagnose omdat ze niet de exacte pathologie 
+vermeldt (bv. het precieze soort longontsteking) maar een algemene term (bv. luchtweginfectie).
+In antwoord op de opvolgingsvragenlijst verklaarden de geauditeerden dat het niet mogelijk is 
+om de indicatie op het voorschrift verplicht te stellen, aangezien dit in strijd zou zijn met de 
+Algemene Verordening Gegevensbescherming (AVG) 30. 
+Volgens het Rekenhof is deze restrictieve interpretatie van de Europese Verordening echter on -
+gerechtvaardigd en ondermijnt ze een legitiem doel van volksgezondheid. Daarnaast beveelt het 
+ECDC aan om de indicatie op de voorschriften voor antibiotica te vermelden 31. Deze indicatie is 
+trouwens verplicht in ten minste één Europees land, Denemarken 32. Ze kan de apotheker ook hel-
+pen om de patiënt aanbevelingen te doen en valt onder het beroepsgeheim tussen arts en apothe -
+ker, zolang de patiënt zich er niet tegen verzet33. 
+In zijn antwoord op het ontwerp van opvolgingsverslag voegde het RIZIV eraan toe dat “de imple-
+mentatie van software van het type ‘Clinical Decision Support System’ het mogelijk zal maken een 
+direct verband te leggen tussen het voorschrift en de indicatie. Uiteindelijk zou elke zoekopdracht in 
+de software, waarbij de indicatie expliciet wordt vermeld, kunnen worden gekoppeld aan een unieke 
+identificatiecode die op het corresponderende voorschrift staat. In combinatie met de antibioticaba -
+rometer zal dit systeem helpen om de kwaliteit van de voorschriften beter op te volgen” . Het RIZIV 
+vermeldt niet of dit systeem al dan niet verplicht is, hoe de opvolging zal gebeuren en welke gevol-
+gen het kan hebben voor voorschrijvers.
+29 ••     Koninklijk besluit van 30 juni 2017 tot bepaling van de voorwaarden en de modaliteiten overeenkomstig dewelke de
+ 							verplichte	verzekering	voor	geneeskundige	verzorging	en	uitkeringen	een	financiële	tegemoetkoming	verleent	aan	de
+        huisartsen voor gebruik van telematica en het elektronisch beheer van de medische dossiers. 
+• KU Leuven, Antibiotica barometer , pagina geraadpleegd op 22 oktober 2025, www.intego.be .
+• RIZIV, Geïntegreerde praktijkpremie huisartsgeneeskunde , pagina geraadpleegd op 22 oktober 2025, www.riziv.fgov.be . 
+• RIZIV, Uitleg bij de voorwaarden voor de geïntegreerde praktijkpremie huisartsgeneeskunde , pagina geraadpleegd op 
+22 oktober 2025, www.riziv.fgov.be .
+• KU Leuven, Antibiotica barometer , op. cit.
+• Belgisch Centrum voor Farmacotherapeutische Informatie (BCFI), Nieuwe instrumenten om het rationeel voorschrijven 
+van antibiotica door huisartsen te promoten, 21 december 2023, www.bcfi.be .
+30 Verordening (EU) 2016/679 	van	het	Europees 	Parlement 	en	de	Raad	van	27	april	2016	betreffende 	de	bescherming 	van	na-
+tuurlijke	personen 	in	verband	met	de	verwerking 	van	persoonsgegevens 	en	betreffende 	het	vrije	verkeer	van	die	gegevens	
+en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), Publicatieblad van de Europese 
+Unie L-119, 27 april 2016, p. 1-88, www.eur-lex.europa.eu .
+31 European Centre for Disease Prevention and Control (ECDC), ECDC Country Visit to Belgium to Discuss Antimicrobial 
+Resistance Issues. Mission report , op. cit.
+32 R. Aabenhus en andere, “Clinical indications for antibiotic use in Danish general practice: results from a nationwide 
+electronic prescription database”, Scand J Prim Health Care , Jun 2017, volume 35, n o 2.
+33 Orde van artsen, De voorwaarden van de doctrine van het gedeeld beroepsgeheim , www.ordomedic.be .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	16
+---PAGE 18---
+Aanbeveling 13
+Evalueer via de inhoud van de voorschriften in hoeverre 
+de voorschrijvers de goede praktijken toepassen. 
+RIZIV
+Ten tijde van de initiële audit van 2022 was de indicatie niet beschikbaar om te beoordelen of voor-
+schrijvers de goede praktijken volgden. 
+In antwoord op de opvolgingsvragenlijst vermeldden de geauditeerden dat de indicatie beschik -
+baar zal zijn via de geaggregeerde gegevens van de antibioticabarometer. Dankzij deze software 
+bood het RIZIV artsen de mogelijkheid om hun voorschriften voor twee indicaties (luchtweg- en 
+urineweginfectie) zelf te beoordelen. Met bijna 12.000 artsen die van de mogelijkheid gebruik heb-
+ben gemaakt, lijken de huisartsen dit initiatief te hebben omarmd. 
+Deze barometer heeft echter alleen betrekking op huisartsen die er vrijwillig voor hebben inge -
+schreven. Bovendien zijn de resultaten nog niet beschikbaar. Dat zal pas het geval zijn nadat de 
+gegevens zijn geagreggeerd en geanonimiseerd. Zonder het aggregatieniveau en het percentage 
+betrokken voorschriften te kennen, kan het Rekenhof de uitvoering van zijn aanbeveling niet 
+beoordelen. 
+4.3	 Acties 	in	verband	met	de	aflevering	
+Aanbeveling 15
+Controleer of de systemische antibiotica in de ambulante zorg altijd 
+op vertoon van een voorschrift worden afgeleverd.
+FAGG
+Ten tijde van de initiële audit van 2022 waren er aanwijzingen dat in apotheken antibiotica zonder 
+voorschrift, illegaal dus, worden afgeleverd.
+In antwoord op de opvolgingsvragenlijst verklaarden de geauditeerden dat, op basis van de re -
+gistratie door de apotheker van de voorschriften en afgeleverde geneesmiddelen, antibiotica niet 
+zonder voorschrift worden verstrekt. 
+In een Europees onderzoek naar antibioticagebruik dat in 2022 werd gepubliceerd, zei echter 5  % 
+van de respondenten (13 van de 262 ondervraagden in België) dat ze in een apotheek antibiotica 
+zonder voorschrift hadden gekregen 34. Het Rekenhof beschikt dus niet over voldoende informatie 
+om te bepalen of zijn aanbeveling wordt toegepast op alle antibiotica die apothekers afleveren.
+In hun reactie op het ontwerp van opvolgingsverslag benadrukten de geauditeerden dat deze en -
+quête een opiniepeiling is en geen kwantitatieve studie. Ze voegen eraan toe dat ze geen signalen 
+hebben ontvangen vanop het terrein dat antibiotica zonder doktersvoorschrift worden afgeleverd. 
+Voor het Rekenhof is het feit dat 13 van de 262 personen stelden een antibioticum zonder voor -
+schrift te hebben ontvangen, een signaal vanop het terrein dat best onderzocht kan worden.
+34 ••     European Commission, Special Eurobarometer 522. Antimicrobial Resistance. Fieldwork: February-March 2022. Report ,
+ 							Publication	Office	of	the	European	Union,	2022,	137	p.,	 www.europa.eu .
+• Europese Unie, Speciale Eurobarometer SP522: Antimicrobiële weerstand. Dataset , www.europa.eu .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	17
+---PAGE 19---
+Aanbeveling 16
+Verplicht dat voor alle ambulant afgeleverde systemische antibiotica 
+de exact benodigde hoeveelheid wordt voorgeschreven en 
+afgeleverd.
+Regering,
+FAGG, 
+RIZIV
+Tot 2019 is het aantal doses antibiotica per verpakking (bv. een doos of flacon met tabletten) voort-
+durend gestegen, waardoor onnodig antibiotica worden verstrekt wanneer het aantal doses in de 
+verpakking groter is dan het aantal benodigde doses. Een oplossing is om alleen de exacte hoe -
+veelheid af te leveren en de verpakkingen indien nodig te openen. In 2022 gingen alleen RVT’s en 
+ziekenhuizen op die manier tewerk. 
+In antwoord op de opvolgingsvragenlijst vermeldden de geauditeerden dat de aflevering van de 
+exacte hoeveelheid antibiotica is opgenomen in het regeerakkoord van 4 februari 2025, dat streeft 
+naar “een aflevering per behandelingstermijn” 35. Het kabinet van de minister van Sociale Zaken en 
+Volksgezondheid buigt zich momenteel over de nodige wetteksten. De geauditeerden wezen er 
+echter op dat de uitvoering van de maatregel complex is. Dit impliceert immers een aanpassing 
+van de regelgeving voor voorschrijvers en apothekers. Apothekers zouden bv. op een andere basis 
+dan per verkochte verpakking moeten worden vergoed. 
+In hun antwoord op het ontwerp van opvolgingsverslag kondigden de geauditeerden aan dat deze 
+maatregel in principe op 1 april 2026 in werking moet treden, dankzij de samenwerking tussen de 
+betrokken administraties, de belanghebbenden en de beleidscel. 
+4.4 Nationaal actieplan voor de bestrijding van antimicrobiële resistentie
+Aanbeveling 17
+Stel	specifieke	actieplannen	op	voor	de	FOD	Volksgezondheid	en	
+het RIZIV, en preciseer daarin de toegewezen middelen en voeg een 
+evaluatie	van	de	doeltreffendheid	van	de	acties	toe	om	de	Smart-
+doelstellingen te bereiken.
+FOD 
+Volksgezondheid, 
+RIZIV
+Aanbeveling 18
+Voeg Smart-doelstellingen op korte en middellange termijn toe, 
+gedetailleerd per instelling, om het aandeel voorschriften dat 
+voldoet aan goede praktijken te verhogen.
+FOD 
+Volksgezondheid, 
+RIZIV
+Aanbeveling 19
+Neem	de	acties	uit	aanbevelingen	3	tot	16	op	in	het	nationaal	plan.
+FOD 
+Volksgezondheid, 
+RIZIV
+Aanbeveling 20
+Voorzie	in	een	toetsing	van	de	doeltreffendheid	van	elke	actie	uit	het	
+nationaal plan aan de Smart-doelstellingen.
+FOD 
+Volksgezondheid, 
+RIZIV
+In 2022 werd een vierjarig nationaal actieplan voor de bestrijding van antimicrobiële resistentie 
+(waaronder antibiotica) vooropgesteld voor de periode 2020 tot 2024 36. De operationele doelstel -
+lingen waren niet erg specifiek wat betreft het voorschrijven en afleveren van antibiotica in de 
+ambulante zorg. Bovendien wees niets erop dat het in het plan ging om evidencebased acties en dat 
+ze ook efficiënt zouden zijn. Het risico van middelenverspilling door de toepassing van ondoeltref-
+fende maatregelen viel dus niet uit te sluiten, vooral omdat het plan niet voorzag in een evaluatie 
+35 Parl. St. Kamer, 4 februari 2025, DOC 56 0020/001 , Regeringsverklaring. Regeerakkoord, www.dekamer.be .
+36 FOD Volksgezondheid en andere, Belgisch nationaal actieplan “One Health” voor de bestrijding van antimicrobiële resistentie 
+2020-2024 , op. cit.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	18
+---PAGE 20---
+van de doeltreffendheid van die maatregelen. Bovendien beschikten de FOD Volksgezondheid en 
+het RIZIV niet over een specifiek actieplan met daarin de maatregelen die hen betroffen, de mid -
+delen die ervoor werden uitgetrokken en de evaluatie van de doeltreffendheid ervan.
+In hun antwoord op de opvolgingsvragenlijst bevestigden de geauditeerden dat het nationaal plan 
+2020-2024 niet was ontworpen om de doeltreffendheid van elke maatregel te kunnen evalueren en 
+dat een evaluatie van alle maatregelen niet was gepland. Wel zijn gerichte evaluaties gepland voor 
+een project voor het beheer van luchtweginfecties en voor beslissingsondersteunende software.
+In hun antwoord op de opvolgingsvragenlijst vermeldden de geauditeerden geen specifieke actie -
+plannen voor de FOD Volksgezondheid en het RIZIV. De FOD heeft de maatregelen die hem aan -
+belangen echter geïntegreerd in het operationele plan van zijn DG Gezondheidszorg (DGG), met 
+een driemaandelijkse opvolging en rapportering (meegedeeld aan het Rekenhof). Het RIZIV heeft 
+een structuur uitgewerkt voor halfjaarlijkse rapportering aan het directiecomité. Bovendien pu -
+bliceert Sciensano, in het verlengde van dit plan, sinds 2021 elk jaar een ‘Belmap-rapport’, waarin 
+onder meer de evolutie van het aantal terugbetaalde antibiotica en het percentage antibiotica dat 
+zonder terugbetaling wordt afgeleverd, aan bod komen37. Gegevens over terugbetaalde antibiotica 
+zijn ook beschikbaar op de website van het ECDC. Afgezien van deze elementen is het plan zelf 
+niet aangepast of geëvalueerd sinds de publicatie ervan in 2021 38. 
+Daarnaast stellen de geauditeerden dat een nieuw nationaal plan 2026-2030 zich in de valide -
+ringsfase bevindt. Daarin zou rekening worden gehouden met de aanbevelingen van het Rekenhof 
+en zouden er smart-doelstellingen worden aan toegevoegd. Een evaluatie van de gedane investe -
+ringen is gepland. Het volgende nationale plan zal ook gebaseerd zijn op :
+• de aanbevelingen van het ECDC 39;
+• een evaluatie van het plan, die grote tekortkomingen op het gebied van monitoring en evaluatie 
+aan het licht bracht40;
+• gerichte evaluaties van het vorige plan.
+5 Conclusies
+Van de twintig aanbevelingen die het Rekenhof tijdens zijn initiële audit van december 2022 deed, 
+zijn er zes uitgevoerd, tien gedeeltelijk uitgevoerd of in uitvoering, twee niet opgevolgd en twee 
+niet te beoordelen. 
+Over het algemeen gaat de omkadering van het voorschrijven en afleveren van antibiotica erop 
+vooruit. Zo zijn heel wat van de door het Rekenhof aanbevolen maatregelen uitgevoerd of ge -
+pland. Belangrijke maatregelen richten zich tot alle huisartsen, de belangrijkste voorschrijvers. 
+Eind 2023 werden indicatoren voor goede praktijken gepubliceerd om toezicht te houden op huis-
+artsen die antibiotica voorschrijven zonder goede klinische praktijken te volgen. Wat alleen de 
+terugbetaalde antibiotica betreft, tonen de RIZIV-gegevens een daling van 8 % in doses antibiotica 
+37 Sciensano, Belmap 2024, One Health Report of Antimicrobial Consumption and Resistance in Belgium , op. cit.
+38 FOD Volksgezondheid en andere, Belgisch nationaal actieplan “One Health” voor de bestrijding van antimicrobiële resistentie 
+2020-2024 , op. cit.
+39 European Centre for Disease Prevention and Control (ECDC), Country Report: ECDC Public Health Emergency 
+Preparedness Assessment for Belgium, 2024. Under Article 8 of the Regulation (EU) 2022/2371 , Stockholm, juli 2024, 32 p., 
+www.ecdc.europa.eu .
+40 Jay Patel en andere, “Measuring the global response to antimicrobial resistance, 2020-21: a systematic governance analysis 
+of 114 countries”, The Lancet Infectious Diseases , 2023, volume 23, n o 6, www.thelancet.com .
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	19
+---PAGE 21---
+voor de periode van juni 2024 tot mei 2025 in vergelijking met 2019. Uit de gegevens voor 2024 
+blijkt ook dat de daling vooral betrekking heeft op huisartsen, wat zou kunnen wijzen op de doel -
+treffendheid van deze maatregel.
+Daarnaast wordt verwacht dat wijzigingen in de regelgeving zullen zorgen voor toepassing van 
+een andere aanbeveling, met name het afleveren van de exact benodigde hoeveelheid, die het aan-
+tal onnodig verstrekte antibiotica moet beperken. 
+Zolang er echter geen controles zijn op het aantal afgeleverde, maar niet-terugbetaalde antibio -
+tica, zullen voorschrijvers de RIZIV-controles kunnen omzeilen door antibiotica voor te schrijven 
+buiten de terugbetalingsvoorwaarden om. Het aandeel niet-terugbetaalde antibiotica ten op -
+zichte van terugbetaalde antibiotica neemt tussen 2019 (11 %) en 2023 (12 %) toe. In 2023 werden 
+sommige antibiotica met mogelijk ernstige bijwerkingen zelfs meestal voorgeschreven buiten de 
+terugbetalingsvoorwaarden om. Aangezien deze voorwaarden bedoeld zijn om de naleving van 
+goede klinische praktijken af te dwingen, is het voorschrijven van die antibiotica buiten de terug -
+betalingsvoorwaarden om mogelijk niet in overeenstemming met de voorwaarden. Zolang er geen 
+controles zijn, zullen antibiotica afgeleverd blijven worden zonder de goede praktijken na te leven, 
+met het risico op toename van de bacteriële resistentie. 
+Voorschrijven buiten de terugbetalingsvoorwaarden om heeft negatieve gevolgen voor de patiënt. 
+Die betaalt immers de volledige prijs van het antibioticum en loopt het risico te worden blootge -
+steld aan de bijwerkingen van een antibioticum dat misschien niet voorgeschreven had mogen 
+worden. De algemene bevolking betaalt ook de prijs voor die gebrekkige naleving van goede prak -
+tijken, door de toename van antibioticaresistente infecties en de daaruit voortvloeiende kosten 
+voor de sociale zekerheid.
+VOORSCHRIJVEN 	EN	AFLEVEREN 	VAN	ANTIBIOTICA: 	OPVOLGING 	2025	VAN	DE	AANBEVELINGEN 	/	20
+---PAGE 22---
+Dit verslag is enkel elektronisch beschikbaar,  
+in het Nederlands en het Frans, op rekenhof.be.
+wettelijk depot
+D/2026/1128/03
+coverfoto
+Shutterstock
+adres
+Rekenhof
+Regentschapsstraat 2
+1000 Brussel
+tel.
++32 2 551 81 11
+rekenhof.be

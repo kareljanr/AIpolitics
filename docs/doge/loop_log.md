@@ -6781,3 +6781,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +26; cmt +6; lb +8; FOI **gap_dual_gemengd_l5** ready+draft; rq_549=done spawn **rq_550**; ticks=558
 - FOI opened: gap_dual_gemengd_l5 (ready, human send) - not sent; gap_vlaio_recovery_kpi_l5 notes partial
 - Next: prio5 **rq_550**; deferred **rq_116**; progress@560 in 2 ticks
+
+### 2026-07-31T09:40:00Z - tick 559
+- Unit: **rq_550** (FOI-adjacent hole-fill - **CoA 2026_03 antibiotics prescribing follow-up + dual RIZIV/FAGG**)
+- Found (strong primary Rekenhof AG 7 Jan 2026):
+  - **AMR social cost BE:** **EUR 281m/yr** (ECDC **24 EUR**/cap): health **158m** (56%) / economic **122m** (44%); hundreds deaths/yr
+  - **Reimbursed AB:** **-8%** doses and patients (Jun2024-May2025 vs 2019); 2019-23 reimb **-3.2%** / all **-2.4%**
+  - **Non-reimb share:** **11→12%** 2019-23 outside RIZIV control; quinolones **61→66%** non-reimb; 3rd-gen ceph **87%** outside rules
+  - **Prescribers:** GP doses **-2.6%** vs all **-0.6%**; other prescribers **25%** of reimbursed; indicators GP-heavy
+  - **EU:** BE rank **21/27** ascending use; NL use **2.6x** lower 2019; recs **6** done / **10** progress / **2** not / **2** NA
+  - **Refine dual:** Viapass Table43 ~**105m** VL stream; Zonienwoud ~**155k**/yr
+- Wrote: sources +3; budgets +18; cmt +3; lb +6; FOI **gap_ab_spend_l5** ready+draft; raw PDFs; rq_550=done spawn **rq_551**; ticks=559
+- FOI opened: gap_ab_spend_l5 (ready, human send) - not sent
+- Next: prio5 **rq_551** = **progress@560 mandatory** on next tick; deferred **rq_116**

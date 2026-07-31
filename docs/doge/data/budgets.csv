@@ -10013,3 +10013,21 @@ bud_gemengd_entities_count_2026,vlaanderen_gov,2026,66,,,outturn,src_ccrek_vl_re
 bud_gemengd_s13_count,vlaanderen_gov,2026,21,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,COUNT: 21 mixed entities in government sector S13; tick558
 bud_ethias_group_entities_count,ethias,2026,34,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,COUNT: 34 of 45 mixed companies linked to Ethias group (76pct); tick558
 bud_de_lijn_bmc_share_pct,de_lijn,2025,18.6,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,PCT not EUR: De Lijn holds 18.6pct Belgian Mobility Company dual STIB/TEC/NMBS; tick558
+bud_amr_cost_be_annual,sec_ss,2023,281000000,,,estimate,src_ccrek_antibiotica_opvolging_2026,strong,ECDC-based AMR financial impact BE 281m/yr (24 EUR/cap Europe); CoA 2026_03; tick559
+bud_amr_cost_health_be,sec_ss,2023,158000000,,,estimate,src_ccrek_antibiotica_opvolging_2026,strong,AMR healthcare cost BE 158m (56pct of 281m) mainly hospitalisations; tick559
+bud_amr_cost_economic_be,sec_ss,2023,122000000,,,estimate,src_ccrek_antibiotica_opvolging_2026,strong,AMR economic loss BE 122m (44pct) incapacity productivity; tick559
+bud_ab_reimb_decline_pct_8,riziv,2025,8,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT not EUR: reimbursed antibiotic doses -8pct Jun2024-May2025 vs 2019; patients -8pct; tick559
+bud_ab_nonreimb_share_2019,riziv,2019,11,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: non-reimbursed AB share of total 11pct 2019; tick559
+bud_ab_nonreimb_share_2023,riziv,2023,12,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: non-reimbursed AB share 12pct 2023 (outside RIZIV control); tick559
+bud_ab_all_decline_2019_23,riziv,2023,2.4,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: all AB (reimb+non) -2.4pct 2019-2023; reimbursed -3.2pct; tick559
+bud_ab_reimb_decline_2019_23,riziv,2023,3.2,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: reimbursed AB -3.2pct 2019-2023; tick559
+bud_ab_quinolone_nonreimb_2019,riziv,2019,61,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: quinolones non-reimbursed 61pct of prescriptions 2019 (was 8pct 2016); tick559
+bud_ab_quinolone_nonreimb_2023,riziv,2023,66,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: quinolones non-reimbursed 66pct 2023; tick559
+bud_ab_ceph3_nonreimb_2023,riziv,2023,87,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: 3rd-gen cephalosporins almost always outside reimbursement 87pct 2023; tick559
+bud_ab_gp_dose_decline,riziv,2024,2.6,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: GP-prescribed reimbursed AB doses -2.6pct (indicators); all prescribers -0.6pct; tick559
+bud_ab_other_prescriber_share,riziv,2025,25,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,PCT: non-GP prescribers 25pct of reimbursed AB; indicators mainly target GPs; tick559
+bud_ab_be_eu_rank_2023,riziv,2023,21,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,RANK not EUR: BE 21st of 27 EU ascending consumption (still high); tick559
+bud_ab_nl_use_ratio_2019,riziv,2019,2.6,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,RATIO: NL antibiotic use 2.6x lower than BE 2019; dual lower resistance; tick559
+bud_ab_recs_done,riziv,2025,6,,,outturn,src_ccrek_antibiotica_opvolging_2026,strong,COUNT: CoA recs fully done 6 of 20; in progress 10; not done 2; NA 2; tick559
+bud_viapass_vl_sub_table43,viapass,2025,105000000,,,budgeted,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Table43 Viapass annual subsidy stream ~105m from MVG (prior ESA 102.3 class); capital VL 1/3 = 166k; tick559 refine
+bud_zonienwoud_vl_dot_annual,vlaanderen_gov,2025,155000,,,budgeted,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Stichting Zonienwoud VL ~100k dot + 30k secretariat + 25k subsidies = ~155k/yr dual; tick559
