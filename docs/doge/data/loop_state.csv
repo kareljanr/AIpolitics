@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T11:45:00Z,rq_671,680,no,tick680 PROGRESS coverage C~99 D~48-61 FOI~423; dual wave 671-679; next rq_672; progress@690 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T12:00:00Z,rq_672,681,no,tick681 primary cells 92.05bn Justice provis Fedasil 848 save gap 61 dual; next rq_673; progress@690 in 9; rq_116 deferred

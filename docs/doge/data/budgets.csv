@@ -13215,3 +13215,59 @@ bud_fed_nonfiscal_ib_6491m_2026,sec_federal,2026,6491000000,,,budgeted,src_ccrek
 bud_fed_fiscal_ib_157943m_2026,sec_federal,2026,157943000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,IB2026 fiscal cash 157943m; tick679
 bud_fed_creg_refund_no_esa_note_2026,sec_federal,2026,285000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,CREG refund no ESA saldo impact (crisis premium clawback); residual note tick679
 bud_fed_rsz_refund_sect24_548m_note,sec_federal,2026,548000000,,,budgeted,src_ccrek_fed_aju2026_nonfiscal_sfpim,strong,RSZ evenwicht refund dual with RSZ-GB deficit settle 547.5 (tick677); tick679
+bud_fed_primary_cells_total_92050m_ch_2026,sec_federal,2026,92050000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Primary settlement credits cells BC2026 92050m (+41 vs IB 92009); CoA T p35 residual tick681
+bud_fed_cell_support_3722m_ch_2026,sec_federal,2026,3722000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Support cell 3722m (-497); index provis assign-out -485.2; ID provis -207.4; security provis +178.8; new policy +40.6; tick681
+bud_fed_support_index_provis_out_485_2m_2026,sec_federal,2026,485200000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Index provisie reassigned from support cell -485.2m to other FPS; tick681
+bud_fed_support_id_provis_out_207_4m_2026,sec_federal,2026,207400000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Interdepartmental provisies reassigned from support -207.4m; tick681
+bud_fed_support_security_provis_up_178_8m_2026,sec_federal,2026,178800000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Security provisie +178.8m in support cell (unused 2025 carry class); tick681
+bud_fed_support_new_policy_provis_40_6m_2026,sec_federal,2026,40600000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,New-policy provisie +40.6m support cell; tick681
+bud_fed_cell_authority_23049m_ch_2026,sec_federal,2026,23049000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Authority cell 23049m (+390); tick681
+bud_fed_authority_defence_up_188_2m_2026,mod_defensie,2026,188200000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Defence path +188.2m within authority cell aju; tick681
+bud_fed_authority_interior_up_100m_2026,sec_federal,2026,100000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Interior +100m of which Fedasil 41.6; tick681
+bud_fed_authority_justice_up_81m_2026,sec_federal,2026,81000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Justice +81m of which personnel 39.5; tick681
+bud_fed_justice_personnel_up_39_5m_2026,sec_federal,2026,39500000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Justice personnel credits +39.5m of +81 total; tick681
+bud_fed_cell_economic_6580m_ch_2026,sec_federal,2026,6580000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Economic cell 6580m (-34); Phoenix -50 energy +15 Mobility -12 BELSPO +8.6; tick681
+bud_fed_eco_phoenix_minus_50m_2026,sec_federal,2026,50000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Phoenix payment obligations path -50m in economic cell; tick681
+bud_fed_eco_energy_support_up_15m_2026,sec_federal,2026,15000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Energy support measures +15m economic cell; tick681
+bud_fed_eco_mobility_minus_12m_2026,sec_federal,2026,12000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,FOD Mobility -12m economic cell; tick681
+bud_fed_eco_belspo_up_8_6m_2026,sec_federal,2026,8600000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,POD BELSPO +8.6m economic cell; tick681
+bud_fed_cell_social_34611m_ch_2026,sec_federal,2026,34611000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Social cell 34611m (+82); POD MI +60 Health +29.3; tick681
+bud_fed_social_pod_mi_up_60m_2026,sec_federal,2026,60000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,POD Maatschappelijke Integratie +60m social cell; tick681
+bud_fed_social_health_up_29_3m_2026,sec_federal,2026,29300000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,FOD Volksgezondheid +29.3m social cell; tick681
+bud_fed_cell_specific_24087m_ch_2026,sec_federal,2026,24087000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Specific sections 24087m (+100); 6th reform dots +61.5 debt ops +44 EU -59.4; tick681
+bud_fed_specific_6th_reform_dots_up_61_5m_2026,sec_federal,2026,61500000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,6th state reform community dots +61.5m specific sections; tick681
+bud_fed_specific_debt_ops_up_44m_2026,sec_federal,2026,44000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Debt operations +44m specific sections; tick681
+bud_fed_specific_eu_contrib_minus_59_4m_2026,sec_federal,2026,59400000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,EU contribution -59.4m specific sections; tick681
+bud_fed_justice_sect_2925m_2026,sec_federal,2026,2925000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,FOD Justice section VAK=VEK 2925m (+81 vs IB); CoA 2.1; tick681
+bud_fed_justice_prison_infra_provis_259m,sec_federal,2026,259000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,ID provis prison overcrowding infra/ops 259m (VEK 2026 159 + 2027 100); 1300 places by 2029; specialty breach CoA; tick681
+bud_fed_justice_prison_infra_vek_159m_2026,sec_federal,2026,159000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Prison infra provis VEK 2026 159m of 259 envelope; tick681
+bud_fed_justice_prison_infra_vek_100m_2027,sec_federal,2027,100000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Prison infra provis VEK 2027 +100m of 259; tick681
+bud_fed_justice_prison_short_term_50m_2026,sec_federal,2026,50000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Prison overcrowding short-term needs 50m/yr provis; tick681
+bud_fed_justice_efficiency_provis_44m_2026,sec_federal,2026,44000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Justice efficiency-gains provis 44m (palaces 21.5 penitentiaire staff 15.1 detainees plan 2.3); tick681
+bud_fed_justice_palaces_21_5m_2026,sec_federal,2026,21500000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Justice palace maintenance/repair 21.5m of efficiency provis; tick681
+bud_fed_justice_penitentiaire_staff_15_1m_2026,sec_federal,2026,15100000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,DG Penitentiaire Inrichtingen staff strengthen 15.1m; tick681
+bud_fed_justice_detainees_plan_2_3m_2026,sec_federal,2026,2300000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Detainees action plan 2.3m of efficiency provis; tick681
+bud_fed_security_return_provis_546m_2026,sec_federal,2026,546000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,ID provis security services + return policy 546m VEK (Justice/Interior/Fed Police); tick681
+bud_fed_security_return_carry_179m_2026,sec_federal,2026,179000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Security/return provis +179m unused 2025 credits carried; tick681
+bud_fed_detainee_costs_112_5m_2026,sec_federal,2026,112500000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Detainee-related costs credits 112.5m (+6.2); pop basis 13447 Jan26 vs 13790 May (+2.5pct) underfund risk; tick681
+bud_fed_masterplan_iiibis_80m,sec_federal,2026,80000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,MasterPlan IIIbis prison overcrowding package 80m excl inflation (Antwerp open+keep Sint-Gillis Hoogstraten Bergen Verviers); MR 25 Feb 2026; tick681
+bud_fed_prison_places_target_1300_2029,sec_federal,2029,1300,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Target +1300 prison places by 2029 via infra provis; unit places not EUR; tick681
+bud_fedasil_dot_743_9m_2026,fedasil,2026,743900000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Fedasil dotation prog 13.40.4 BC 743.9m (+41.7; unavoidable reception 41 + index/projects 0.7); tick681
+bud_fedasil_id_provis_104_3m_2026,fedasil,2026,104300000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Fedasil interdepartmental provis 104.3m (+4.3 index staff federal centres/partners); tick681
+bud_fedasil_total_pack_848_2m_2026,fedasil,2026,848200000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Fedasil dot+provis total 848.2m (+46 vs IB 802.2); tick681
+bud_fedasil_save_target_247m_2026,fedasil,2026,247000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Gov save target 2026 247m (reception 172 + return 75) fully charged to Fedasil; tick681
+bud_fedasil_save_plan_110_8m_2026,fedasil,2026,110800000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Fedasil reception save plan 110.8m 2026 (below 172 target); gap 61.2; tick681
+bud_fedasil_save_gap_61_2m_2026,fedasil,2026,61200000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Fedasil reception save shortfall 61.2m (172-110.8) 2026; CoA; tick681
+bud_fedasil_cap_save_2025_realized_36_4m,fedasil,2026,36400000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Capacity cut realized 2025 annualized save 36.4m (plan 36478 vs actual start 34564 places); tick681
+bud_fedasil_cap_save_2026_plan_35_3m,fedasil,2026,35300000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Capacity cut 2026 to ~30k places save plan 35.3m; Ketenmonitoring; tick681
+bud_fedasil_internal_save_39_1m_2026,fedasil,2026,39100000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Internal ops/process save 39.1m 2026 (23 measures; BOSA spending review open centres); tick681
+bud_fedasil_internal_ops_27_1m_2026,fedasil,2026,27100000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Internal working improve 27.1m 2026 (path 53.5 from 2027); tick681
+bud_fedasil_core_tasks_10_4m_2026,fedasil,2026,10400000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Focus core tasks / stop usurping powers 10.4m 2026 (path 32.8 from 2027); tick681
+bud_fedasil_procedure_chain_1_6m_2026,fedasil,2026,1600000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Asylum procedure+chain improve 1.6m 2026 (path 134.5 from 2027!); tick681
+bud_fedasil_cap_places_start_2026,fedasil,2026,34564,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Actual reception places start 2026 34564 (IB assumption 36478); tick681
+bud_fedasil_cap_target_30k_2026,fedasil,2026,30000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Capacity target ~30000 places end-path 2026; tick681
+bud_fedasil_path_save_2027_cap_93_9m,fedasil,2027,93900000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Further capacity cut save 93.9m/yr from 2027; tick681
+bud_fedasil_path_internal_220_7m_2027,fedasil,2027,220700000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,Internal save pack path 220.7m from 2027; tick681
+bud_fedasil_traj_save_688m_2029,fedasil,2029,688000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,MR Feb2025 traj save 688m by 2029 (reception 538 + return 150); tick681
+bud_dual_primary_cells_92bn_2026,gg_belgium,2026,92050000000,,,budgeted,src_dual_primary_cells_tick681,strong,Dual fed primary cells 92.05bn residual vs VL BA VEK class; not TE-additive; tick681
+bud_dual_fedasil_pack_848m_2026,gg_belgium,2026,848200000,,,budgeted,src_dual_primary_cells_tick681,strong,Dual Fedasil 848.2m vs regional reception class; tick681

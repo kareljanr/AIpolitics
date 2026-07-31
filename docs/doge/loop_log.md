@@ -7981,3 +7981,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI **gap_dual_wave_671_680_l5_2026** ready+draft; rq_671=done spawn **rq_672**; ticks=680
 - FOI opened: gap_dual_wave_671_680_l5_2026 (ready, human send) — not sent
 - Next: prio5 **rq_672**; deferred **rq_116**; progress@690 in 10 ticks
+
+### 2026-08-01T12:00:00Z — tick 681
+- Unit: **rq_672** (FOI-adjacent dual residual — **fed CoA primary exp cells + Justice/Fedasil L5 dual**)
+- Found (primary CoA 2026_22 Deel II Ch II):
+  - **Primary cells VEK EUR92.050bn** (+41): support **3.722** (−497: index **−485.2** ID **−207.4** security **+178.8** new pol **+40.6**) · authority **23.049** (+390: Def **+188.2** Interior **+100** Justice **+81**) · economic **6.580** (−34: Phoenix **−50** energy **+15**) · social **34.611** (+82: POD MI **+60** Health **+29.3**) · specific **24.087** (+100: 6th reform **+61.5** debt **+44** EU **−59.4**)
+  - **Justice 2.925bn** (+81); prison infra provis **259** (159+100) for **1300** places 2029; short-term **50**/yr; efficiency **44**; security/return **546+179** carry; specialty breach CoA; detainee costs **112.5** pop **13.4k→13.8k**; MasterPlan IIIbis **80**
+  - **Fedasil** total **848.2** (dot **743.9** + provis **104.3**); save target **247** plan reception **110.8** gap **61.2**; capacity **36.5k→34.6k→~30k**; internal **39.1** (ops **27.1** core **10.4** procedure **1.6**)
+  - Dual VL specialty/Digisprong. Strong CoA; L5 FOI.
+- Wrote: budgets (+55); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_primary_cells_justice_l5**; rq_672=done; spawn **rq_673**; loop_state ticks=681
+- FOI opened: gap_fed_aju2026_primary_cells_justice_l5 — ready (not sent)
+- Next: rq_673; progress@690 in 9 ticks; rq_116 deferred
