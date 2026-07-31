@@ -11602,3 +11602,26 @@ bud_do16_090_renopack_ba2024,fonds_ecopack_renopack_wal,2024,27698000,,,budgeted
 bud_do16_082_monuments_bi2025,wallonie_gov,2025,46215000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 082 Monuments sites fouilles CE=CL 46.215m BI2025 path -1.469m
 bud_do16_079_renov_urbaine_ce_bi2025,wallonie_gov,2025,137490000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 079 renovation urbaine CE BI2025 137.490m path eng +22.220m
 bud_do16_079_renov_urbaine_cl_bi2025,wallonie_gov,2025,107466000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 079 CL BI2025 107.466m path liq -7.889m
+bud_do17_ce_bi2025,wallonie_gov,2025,9505694000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,DO17 Pouvoirs locaux action sociale sante CE BI2025 9505.694m
+bud_do17_cl_bi2025,wallonie_gov,2025,9517100000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,DO17 CL BI2025 9517.100m path liq +47.092m vs BA 9470.008m
+bud_do17_ce_ba2024,wallonie_gov,2024,9389143000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,DO17 CE BA2024 9389.143m
+bud_do17_cl_ba2024,wallonie_gov,2024,9470008000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,DO17 CL BA2024 9470.008m
+bud_do17_exec_class_ba2024,wallonie_gov,2024,8891658000,,,outturn,src_ccrek_do17_pouvoirs_locaux_bi2025,medium,DO17 exec class 8891.658m BA2024 table
+bud_do17_091_affaires_ce_bi2025,wallonie_gov,2025,2290789000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 091 Affaires interieures CE BI2025 2290.789m path eng -42.676m
+bud_do17_091_affaires_cl_bi2025,wallonie_gov,2025,2282305000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 091 CL BI2025 2282.305m path liq -98.321m vs BA 2380.626m
+bud_do17_091_affaires_exec_class,wallonie_gov,2024,2184350000,,,outturn,src_ccrek_do17_pouvoirs_locaux_bi2025,medium,Prog 091 exec class 2184.350m
+bud_do17_092_transversal_ce_bi2025,wallonie_gov,2025,11793000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 092 transversal socio-sanitaire CE BI2025 11.793m path eng -14.880m
+bud_do17_092_transversal_cl_bi2025,wallonie_gov,2025,12116000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 092 CL BI2025 12.116m path liq -15.342m non-marchand reallocation
+bud_do17_092_provision_residual,wallonie_gov,2025,6000000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,DF 092.001 provision residual 6.0m eng=liq CoA recommendation specialty
+bud_do17_093_sante_dots_ce_bi2025,aviq,2025,6932991000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 093 sante protection handicap familles CE BI2025 6932.991m path eng +176.079m AViQ-driven
+bud_do17_093_sante_dots_cl_bi2025,aviq,2025,6955175000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 093 CL BI2025 6955.175m path liq +159.190m
+bud_do17_093_wallonie_sante_loans_eng,wallonie_sante,2025,17000000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Wallonie Sante loan dotation path +17m eng vs BA2024
+bud_do17_093_wallonie_sante_loans_liq,wallonie_sante,2025,7000000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Wallonie Sante loan path +7m liq vs BA2024
+bud_do17_094_action_sociale_ce_bi2025,wallonie_gov,2025,254781000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 094 Action sociale CE BI2025 254.781m path eng -4.441m
+bud_do17_094_action_sociale_cl_bi2025,wallonie_gov,2025,253845000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 094 CL BI2025 253.845m path liq -2.654m
+bud_do17_094_struct_cuts_class,wallonie_gov,2025,7200000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Structural economies 7.2m on various DF prog094
+bud_do17_094_integration_ce_bi2025,wallonie_gov,2025,27800000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Integration CRI/ILI DF 094.012-014 CE 27.8m BI2025 reform regulated subsidies
+bud_do17_094_integration_cl_bi2025,wallonie_gov,2025,26500000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Integration CL 26.5m path +3.5m class vs BA2024
+bud_do17_094_maisons_accueil_class,wallonie_gov,2025,44000000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Maisons accueil communautaires DF sum class ~44m eng=liq; facultative night-shelter cut ~4.7m
+bud_do17_095_creches_ce_bi2025,wallonie_gov,2025,14647000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 095 Creches petite enfance CE BI2025 14.647m path eng +2.482m
+bud_do17_095_creches_cl_bi2025,wallonie_gov,2025,12864000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 095 CL BI2025 12.864m path liq +4.282m

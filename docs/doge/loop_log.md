@@ -7595,3 +7595,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+fonds_ecopack_renopack); budgets (+21); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do16_logement_l5_2025; rq_629=done; spawn rq_630; loop_state ticks=638
 - FOI opened: gap_do16_logement_l5_2025 -- ready (not sent)
 - Next: rq_630; progress@640 in 2 ticks; rq_116 deferred
+
+### 2026-08-01T01:30:00Z -- tick 639
+- Unit: rq_630 (FOI-adjacent dual local/social hole-fill -- **DO17 Pouvoirs locaux / social / sante** dual Gemeentefonds/VAPH)
+- Found: **DO17** (primary CoA): BI2025 CE **EUR9.506bn** / CL **EUR9.517bn** (path eng **+EUR116.6m** / liq **+EUR47.1m**). **Prog 091 Affaires interieures:** CE **EUR2.291bn** / CL **EUR2.282bn** (path eng **-EUR42.7m** / liq **-EUR98.3m**). **Prog 093 AViQ dots:** CE **EUR6.933bn** / CL **EUR6.955bn** (path eng **+EUR176.1m** / liq **+EUR159.2m**); Wallonie Sante loans **+EUR17m** eng / **+EUR7m** liq. **Prog 092:** path **-EUR15m** (non-marchand reallocated; residual provision **EUR6.0m**). **Prog 094 Action sociale:** CE **EUR254.8m** / CL **EUR253.8m**; structural cuts **EUR7.2m**; integration CRI/ILI **EUR27.8m** eng / **EUR26.5m** liq (reform regulated 2025-01-01); maisons accueil class **EUR44m** (facultative night-shelter cut **~EUR4.7m**). **Prog 095 creches:** CL **EUR12.9m** path liq **+EUR4.3m**. Dual **Gemeentefonds** + **VAPH/VSB/Opgroeien**. Strong confidence CoA; L5 residual FOI.
+- Wrote: entities (+wallonie_sante); budgets (+23); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_do17_local_social_l5_2025; rq_630=done; spawn rq_631; loop_state ticks=639
+- FOI opened: gap_do17_local_social_l5_2025 -- ready (not sent)
+- Next: rq_631; **progress@640 NEXT tick**; rq_116 deferred

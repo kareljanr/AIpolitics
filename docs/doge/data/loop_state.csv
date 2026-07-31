@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T01:15:00Z,rq_629,638,no,tick638 DO16 logement prive path -90m Renopack 71m dual MVP; next rq_630; progress@640 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T01:30:00Z,rq_630,639,no,tick639 DO17 local social 9.52bn Affaires 2.28bn AViQ dots dual; next rq_631; progress@640 NEXT; rq_116 deferred
