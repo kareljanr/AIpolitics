@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T19:15:00Z,rq_605,614,no,tick614 AWEX SEC 79.4m dual FIT/hub export; next rq_606; progress@620 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T19:30:00Z,rq_606,615,no,tick615 EAP dep 6.692m dual FWB-RW school; next rq_607; progress@620 in 5; rq_116 deferred

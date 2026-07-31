@@ -7401,3 +7401,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update awex; budgets (+9); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_awex_ra_staff_l5_2025; rq_605=done; spawn rq_606; loop_state ticks=614
 - FOI opened: gap_awex_ra_staff_l5_2025 ? ready (not sent)
 - Next: rq_606; progress@620 in 6 ticks; rq_116 deferred
+
+### 2026-07-31T19:30:00Z — tick 615
+- Unit: rq_606 (FOI-adjacent dual public-admin school hole-fill — **EAP** Type2 joint FWB-RW)
+- Found: **EAP** École d'administration publique commune (primary CoA Table33 + p58 + FWB share). **BI2025:** recettes **€7.146m** · dépenses **€6.692m** · solde **+€0.454m**. **BI2024:** rec=dep **€7.147m**. CoA note RW dotation **~€4.5m** (no increase). Prior **FWB share €2.592m** BI2026 (**35%** dual key). Classic dual one-school two-funders. Strong confidence; staff/funding recon residual FOI.
+- Wrote: entities (+eap_wallonie_fwb); budgets (+8); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_eap_ra_staff_l5_2025; rq_606=done; spawn rq_607; loop_state ticks=615
+- FOI opened: gap_eap_ra_staff_l5_2025 ? ready (not sent)
+- Next: rq_607; progress@620 in 5 ticks; rq_116 deferred
