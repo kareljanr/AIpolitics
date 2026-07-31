@@ -13690,3 +13690,29 @@ bud_fwb_sec_corr_embedded_rec_neg_70_3m_2026,fwb_gov,2026,-70300000,,,budgeted,s
 bud_fwb_financing_need_total_2181_7m_2026,fwb_gov,2026,2181700000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,T9 financement total 2181.7 (net hors amort 1779 + amort 402.7); tick697
 bud_fwb_financing_need_net_1779m_2026,fwb_gov,2026,1779000000,,,budgeted,src_ccrek_fwb_aju2026_es_sousutil_sec,strong,T9 besoin hors amort 1779 (IB 1679.1); drives debt +1779 to 16200; tick697
 bud_dual_fwb_es_vl_he_sousutil_2026,gg_belgium,2026,117900000,,,budgeted,src_dual_fwb_es_vl_he_sousutil_tick697,strong,Dual FWB ES soft 117.9 vs VL HE onderbenutting 323.6; not TE-additive; tick697
+bud_vl_skf_total_eu_719_2m,vlaanderen_gov,2032,719200000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF multi-year EU-financed envelope 719.2m; T7; tick698
+bud_vl_skf_total_cofin_239_7m,vlaanderen_gov,2032,239700000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF multi-year VL cofinancing 239.7m; T7; tick698
+bud_vl_skf_total_envelope_958_8m,vlaanderen_gov,2032,958800000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF multi-year total 958.8m (EU+VL); T7; tick698
+bud_vl_skf_raming_2026_99_2m,vlaanderen_gov,2026,99200000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF raming2026 total 99.2 (EU 82.7 + VL 16.5); T7; tick698
+bud_vl_skf_raming_2026_eu_82_7m,vlaanderen_gov,2026,82700000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF 2026 European-financed 82.7m; tick698
+bud_vl_skf_raming_2026_vl_16_5m,vlaanderen_gov,2026,16500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF 2026 VL cofinancing 16.5m; tick698
+bud_vl_skf_m1_mvl_128_3m,vlaanderen_gov,2032,128300000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M1 MijnVerbouwlening total 128.3 (2026 19.7); tick698
+bud_vl_skf_m1_mvl_2026_19_7m,vlaanderen_gov,2026,19700000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M1 MVL 2026 raming 19.7; tick698
+bud_vl_skf_m3_mvp_139m,vlaanderen_gov,2032,139000000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M3 MijnVerbouwpremie total 139 (2026 17.9); tick698
+bud_vl_skf_m3_mvp_2026_17_9m,vlaanderen_gov,2026,17900000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M3 MVP 2026 17.9; tick698
+bud_vl_skf_m6_sociale_woning_310_6m,vlaanderen_gov,2032,310600000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M6 renovatie sociale woningen 310.6 (2026 33.2 EU-only line; cofin in FS3); tick698
+bud_vl_skf_m6_sociale_woning_2026_33_2m,vlaanderen_gov,2026,33200000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M6 2026 33.2; shift +26.9 from M8 May2026; tick698
+bud_vl_skf_m9_fiets_213_3m,vlaanderen_gov,2032,213300000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M9 fietsinfrastructuur 213.3 (2026 13.5); tick698
+bud_vl_skf_m9_fiets_2026_13_5m,vlaanderen_gov,2026,13500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M9 2026 13.5; tick698
+bud_vl_skf_m11_ov_op_maat_40_6m,vlaanderen_gov,2032,40600000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M11 OV op maat 40.6 (2026 5.5); dual De Lijn; tick698
+bud_vl_skf_m11_ov_2026_5_5m,vlaanderen_gov,2026,5500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,SKF M11 2026 5.5; tick698
+bud_vl_skf_shift_m8_to_m6_26_9m,vlaanderen_gov,2026,26900000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,VR 22May2026 shift 26.9 (20.7 EU+6.2 VL) M8->M6 social housing; tick698
+bud_be_skf_eu_share_1656_3m,gg_belgium,2032,1656300000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,Belgium SKF EU entitlement 1656.3m 2026-32; VL 43.4pct; tick698
+bud_vl_repower_total_aju_191_5m,vlaanderen_gov,2026,191500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU total aju 191.5 (IB 208.1); T6; tick698
+bud_vl_repower_paid_eoy2025_106_8m,vlaanderen_gov,2025,106800000,,,outturn,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU paid eoy2025 106.8; tick698
+bud_vl_repower_residual_2026_class_84_7m,vlaanderen_gov,2026,84700000,,,estimate,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU residual class 84.7 after eoy25; BA raming 88.5 (+3.8); tick698
+bud_vl_repower_raming_2026_88_5m,vlaanderen_gov,2026,88500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU BA raming 2026 88.5; tick698
+bud_vl_repower_unutil_vak_27_5m_2025,vlaanderen_gov,2025,27500000,,,outturn,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU unutil VAK eoy2025 27.5 no overdracht to 2026; tick698
+bud_vl_repower_go_scholen_25_5m,vlaanderen_gov,2026,25500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU GO! scholen total 25.5 paid 2.2 residual 23.3; dual SKF; tick698
+bud_vl_repower_vipa_zorg_24m,vlaanderen_gov,2026,24000000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU VIPA zorg 24 paid 4.8 residual 19.2; tick698
+bud_dual_skf_fed_bcr_lag_2026,gg_belgium,2026,0,,,estimate,src_dual_vl_skf_fed_bcr_tick698,strong,Dual: VL plan ready fed+BCR lag BE EC filing; receipt risk; tick698

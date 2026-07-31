@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T16:00:00Z,rq_688,697,no,tick697 FWB ES sous-util 117.9 SEC embed dual VL HE; next rq_689; progress@700 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T16:15:00Z,rq_689,698,no,tick698 VL SKF 958.8 REPower dual; next rq_690; progress@700 in 2; rq_116 deferred

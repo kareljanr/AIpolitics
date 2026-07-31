@@ -8207,3 +8207,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+15); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fwb_es_sousutil_sec_l5**; rq_688=done; spawn **rq_689**; loop_state ticks=697
 - FOI opened: gap_fwb_es_sousutil_sec_l5 — ready (not sent)
 - Next: rq_689; progress@700 in 3 ticks; rq_116 deferred
+
+### 2026-08-01T16:15:00Z — tick 698
+- Unit: **rq_689** (FOI-adjacent dual residual — **VL SKF T7 958.8m + REPowerEU T6 dual fed/BCR lag**)
+- Found (primary CoA 2026_28 §1.3.2–1.3.3):
+  - **SKF multi-year:** EU **719.2** + VL cofin **239.7** = **958.8**; raming2026 **99.2** (EU **82.7** + VL **16.5**)
+  - L5: M1 MVL **128.3/19.7** · M3 MVP **139/17.9** · M6 sociale woningen **310.6/33.2** (cofin in FS3) · M9 fiets **213.3/13.5** · M11 OV-op-maat **40.6/5.5**
+  - Shift **26.9** (20.7 EU+6.2 VL) M8→M6 22 May 2026; BE EU share **1656.3** VL **43.4%**
+  - **BE plan not filed EC** (only VL ready; fed+BCR lag) → receipt delay risk
+  - **REPowerEU** aju **191.5** (IB 208.1) paid eoy25 **106.8** residual class **84.7** BA **88.5**; unutil VAK **27.5** no overdracht
+  - Dual ESR SKF omit error **113.5**; Strong CoA; L5 FOI.
+- Wrote: budgets (+26); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_skf_repower_l5**; rq_689=done; spawn **rq_690**; loop_state ticks=698
+- FOI opened: gap_vl_ba2026_skf_repower_l5 — ready (not sent)
+- Next: rq_690; progress@700 in 2 ticks; rq_116 deferred
