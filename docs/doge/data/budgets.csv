@@ -13850,3 +13850,21 @@ bud_kanal_code8_60m_2026,brussels_gov,2026,60000000,,,budgeted,src_ccrek_bru_emp
 bud_paradigm_rec_overstate_9_4m_2026,brussels_gov,2026,9401000,,,budgeted,src_ccrek_bru_emploi_titres_kanal_2026,strong,Paradigm rec used in soldes 87.911 vs table 78.510 overstate +9.401; tick705
 bud_dual_titres_bru_304_wal_568_2026,gg_belgium,2026,303800000,,,budgeted,src_dual_titres_pes_tick705,strong,Dual BRU titres 303.8 vs WAL FOREM 568 class; not TE-additive; tick705
 bud_dual_actiris_forem_vdab_2026,gg_belgium,2026,648100000,,,budgeted,src_dual_titres_pes_tick705,strong,Dual Actiris 648.1 vs FOREM 3007 / VDAB residual; not TE-additive; tick705
+bud_bru_proprete_hydria_err_178_3m_2026,brussels_gov,2026,178300000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Proprete Hydria capital transfer 178.3 wrongly kept both rec and SGRBC dep 2026 CoA; tick706
+bud_bru_proprete_gc_over_7_7m_2026,brussels_gov,2026,7700000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Proprete green certificates overstate 7.7 incinerator GC ends Mar2026; tick706
+bud_bru_proprete_personnel_184_3m_2026,brussels_gov,2026,184300000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Proprete personnel 184.3 (-1.7 vs 2025 exec); org asked +7.9 without full ops moratorium; tick706
+bud_bru_proprete_personnel_ask_gap_7_9m_2026,brussels_gov,2026,7900000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Proprete personnel request gap +7.9 (accident 1.9 ONSS 1.0 index 3.0 barem 1.7); tick706
+bud_bru_slrb_eng_687_3m_2026,brussels_gov,2026,687258000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,SLRB financing prog 43.110 eng 687.258 dual housing; tick706
+bud_bru_slrb_liq_418_3m_2026,brussels_gov,2026,418258000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,SLRB financing prog 43.110 liq 418.258 dual VMSW/SWL; tick706
+bud_bru_slrb_finops_path_400m,brussels_gov,2026,400000000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Finops code8 path SLRB 400 of max 1bn envelope dual; tick706
+bud_bru_routes_eng_424m_2026,brussels_gov,2026,424037000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Routes prog 42.043 eng 424.037; CoA trajectory risk vs encours; tick706
+bud_bru_routes_liq_263_9m_2026,brussels_gov,2026,263940000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Routes prog 42.043 liq 263.940; tick706
+bud_bru_routes_encours_381_7m_feb2026,brussels_gov,2026,381700000,,,outturn,src_ccrek_bru_proprete_slrb_routes_2026,strong,Routes encours engagements 381.7 at 23Feb2026; liq sufficient 2026 only; tick706
+bud_bru_routes_path_1101m_2026_29,brussels_gov,2026,1101000000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,medium,DPR routes liq path 2026-29 sum 1101; keep eng 424 risks trajectory; tick706
+bud_stib_personnel_gap_16m_2026,stib,2026,16000000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,STIB personnel forecast exceeds gov liq by 16 under strict moratorium (gov line 817); tick706
+bud_stib_fonct_energy_232_3m_2026,stib,2026,232300000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,STIB general ops/energy 232.3 (-20.8 vs prior); tick706
+bud_bru_initiatives_eng_330m_2026,brussels_gov,2026,330000000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Initiatives regionales eng 330 (Vivaqua+Confex participations) dual water; tick706
+bud_bru_initiatives_liq_130m_2026,brussels_gov,2026,130000000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Initiatives regionales liq 130; tick706
+bud_bru_local_powers_liq_757_6m_2026,brussels_gov,2026,757611000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Pouvoirs locaux prog 40.041 liq 757.611 eng 784.298; tick706
+bud_bru_eu_funds_liq_130m_2026,brussels_gov,2026,129958000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,EU projects prog 39.073 liq 129.958 eng 304.838; tick706
+bud_dual_slrb_vmsw_housing_2026,gg_belgium,2026,418258000,,,budgeted,src_dual_housing_waste_routes_tick706,strong,Dual BRU SLRB liq 418 vs VL VMSW/WAL SWL residual; not TE-additive; tick706

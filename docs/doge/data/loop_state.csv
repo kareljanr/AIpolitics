@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T18:00:00Z,rq_696,705,no,tick705 BCR emploi titres Kanal dual PES; next rq_697; progress@710 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T18:15:00Z,rq_697,706,no,tick706 BCR Proprete Hydria/GC SLRB routes dual; next rq_698; progress@710 in 4; rq_116 deferred

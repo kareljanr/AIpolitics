@@ -8311,3 +8311,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+17); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_bru_emploi_titres_kanal_l5**; rq_696=done; spawn **rq_697**; loop_state ticks=705
 - FOI opened: gap_bru_emploi_titres_kanal_l5 — ready (not sent)
 - Next: rq_697; progress@710 in 5 ticks; rq_116 deferred
+
+### 2026-08-01T18:15:00Z — tick 706
+- Unit: **rq_697** (FOI-adjacent dual residual — **BCR Proprete Hydria/GC + SLRB/FLRBC + routes dual**)
+- Found (primary CoA 2026_17 s5.2.9 + s5.3.1 + s6.5-6.6 + T9):
+  - Proprete liq **411.1** eng **406.5**; Hydria capital **178.3** wrongly kept both sides 2026; GC over **7.7** (incinerator ends Mar2026); personnel **184.3** (ask gap **+7.9**)
+  - SLRB eng **687.3** / liq **418.3**; finops path **400**; no SLRB provision 2026; FLRBC CFP carveout S.1312 financial only
+  - Routes eng **424.0** liq **263.9**; encours **381.7** (23Feb); DPR path sum **1101** 2026-29 — CoA trajectory risk if eng held
+  - STIB personnel gap **+16** under strict moratorium (gov line **817**); fonct/energy **232.3 (-20.8)**
+  - Initiatives reg eng **330** / liq **130** (Vivaqua+Confex); local powers liq **757.6**; EU funds liq **130.0**
+  - Dual VL VMSW/OVAM/AWV / WAL SWL; Strong CoA; L5 FOI.
+- Wrote: budgets (+18); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_bru_proprete_slrb_routes_l5**; raw PDF; rq_697=done; spawn **rq_698**; loop_state ticks=706
+- FOI opened: gap_bru_proprete_slrb_routes_l5 — ready (not sent)
+- Next: rq_698; progress@710 in 4 ticks; rq_116 deferred
+
