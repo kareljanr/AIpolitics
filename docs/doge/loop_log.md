@@ -7078,3 +7078,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +43; cmt +3; lb +7; FOI **gap_ores_rab_l5_2025** ready+draft; entity; raw PDF; rq_570=done spawn **rq_571 progress@580**; ticks=579
 - FOI opened: gap_ores_rab_l5_2025 (ready, human send) - not sent
 - Next: **rq_571 progress@580 mandatory**; deferred **rq_116**
+
+### 2026-07-31T11:25:00Z - tick 580
+- Unit: **rq_571** (**progress@580** coverage % + waste top10; no new euro invent)
+- Progress layers vs EUR **347.956bn** TE:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (dual roads SOFICO/DWV · dual BE water stack · dual DSO trio ORES+Sibelga+Fluvius · ports POAB)
+  - **D L5:** ~**38-51%** generous (utility+DSO+roads wave · not near-complete of 348bn)
+  - **E FOI ready:** ~**321** · answered ~**9** · total FOI rows ~**333**
+- Inventory: budgets ~**10579** · cmt ~**1156** · lb ~**2219** · sources ~**1121** · entities ~**414**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30); stocks Metro3 still top raw prio but annual=0 filtered
+- High-abs + dual NEW: DSO trio ORES/Sibelga/Fluvius · drink SWDE vs VL trio · Horizon2030 **3bn** · SOFICO/DWV roads · ORES invest **541m**
+- Gain 570→580: roads dual · water sanitation+drink BE stack · POAB cargo L5 · Sibelga RAB · ORES CA 1.16bn
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_571=done spawn **rq_572**; ticks=580
+- FOI opened: none this tick
+- Next: prio5 **rq_572**; deferred **rq_116**; progress@590 in 10 ticks

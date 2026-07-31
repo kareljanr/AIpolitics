@@ -1,4 +1,4 @@
-﻿# DOGE progress — every 10 ticks
+# DOGE progress — every 10 ticks
 
 **Protocol:** At ticks **10, 20, 30, …** (and anytime human asks), refresh this file **and** append a short block to `loop_log.md`.  
 **Anchor:** ESA S.13 total expenditure **€347.956 bn (2025)** = 100% of the “public spend pie” for flow coverage.  
@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 580** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual roads SOFICO/DWV/AWV · dual BE water stack (Aquafin/DWG/Pidpa/Farys/SWDE) · dual ports POAB · dual DSO trio ORES+Sibelga+Fluvius · Waterunie Operator fusion path |
+| **D. L5 named / measure end-lines** | **~38-51%** of TE (generous) | **Gain 570→580 is utility + DSO + roads wave:** SOFICO CA **503m** / land **246m** · DWV invest **245m** bike **76m** · Aquafin **637m** · DWG **974m** · Pidpa **62 Mm3** · Farys **577m** · SWDE **631m** / Horizon2030 **~3bn** · POAB cargo L5 · Sibelga **397m** RAB **1.36bn** · ORES **1.16bn** invest **541m** · FOI still bulk ASBL/firm + tariff/RAB cash codes |
+| **E. FOI-ready gaps** | **~321** drafts ready | Human send only; answered **~9**; total FOI rows **~333** (+ SOFICO works · DWV accounts · Aquafin tariff · DWG accounts · POAB authority · Pidpa tariff · Farys tariff · SWDE RF · Sibelga MAR · ORES RAB · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **utility SOE balance sheets** (ORES 5.2bn · Farys 3.8bn · SWDE 2.6bn · Aquafin 4.5bn · Sibelga RAB 1.36bn) stocks · Waterunie fusion TCO residual.
+
+### Inventory (tick 580)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~10579 |
+| commitments.csv | ~1156 |
+| leaderboard.csv | ~2219 |
+| entities.csv | ~414 |
+| sources.csv | ~1121 |
+| FOI ready | ~321 |
+| FOI answered | ~9 |
+| FOI total rows | ~333 |
+| research_queue | ~566 (open: rq_116 deferred + rq_572 hole-fill after progress) |
+
+### What improved since tick 570
+
+- **Roads dual (tick571–572):** SOFICO CA **€503m** net **112m** assets **3.0bn** land acq **246m** dual AWV · DWV invest **€245m** bike **76m** + OverBruggen DBFM **~30** bridges dual roads PPS.
+- **Water sanitation + drink (tick573–577):** Aquafin omzet **€637m** dual SPGE · DWG **€974m** / **125 Mm3** · Pidpa **62 Mm3** / users **1.5m** · Farys **€577m** + Waterunie Operator fusion · SWDE **€631m** / prod **145 Mm3** / CVD **3.15** / Horizon2030 **~€3bn** · dual BE drink SWDE vs VL trio.
+- **Ports L5 (tick574–575):** POAB throughput **266.5 Mt** containers **149.4 Mt** dual NSP class.
+- **DSO dual close (tick578–579):** Sibelga turnover **€397m** RAB **1.36bn** dividend **55m** · ORES Assets CA **€1.16bn** invest **541m** dividend **74m** staff **3.0k** dual Fluvius **4.60bn** → **three-region DSO map**.
+
+---
 ## Snapshot at **tick 570** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

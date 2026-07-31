@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **570** (2026-07-31) · **~2160** leaderboard rows  
+**As-of:** tick **580** (2026-07-31) · **~2219** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
 **Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 560:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 560–569 adds **labour-market dual** (ONEM region cash · four-PES rates · Actiris CPAS spill) and **mobility dual** (TEC 804m · NMBS RRF/ETS · Infrabel 1.27bn invest / 606m dotatie) that raise **L2 completeness and governance opacity** more than FFS ranking (see high-absurdity + dual tables).
+**Change vs tick 570:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 570–579 adds **utility dual** (water BE stack · Horizon2030 3bn) and **DSO dual** (ORES 1.16bn · Sibelga 397m · Fluvius 4.6bn trio) + roads SOFICO/DWV that raise **L2 completeness and governance opacity** more than FFS ranking (see high-absurdity + dual tables).
 
 ### Just outside top 10 (often relevant)
 

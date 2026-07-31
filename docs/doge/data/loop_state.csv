@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:20:00Z,rq_570,579,no,tick579 ORES Assets CA 1.16bn dual DSO trio invest 541m; next rq_571 progress@580; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:25:00Z,rq_571,580,no,tick580 progress@580 L2~99 L5~38-51 FOI ready~321; next rq_572; progress@590 in 10; rq_116 deferred
