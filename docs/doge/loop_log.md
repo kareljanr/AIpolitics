@@ -7567,3 +7567,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+adn_wallonie +abbaye_villers +domaine_solvay_lahulpe); budgets (+12); commitments (+3); leaderboard (+6); sources (+2); FOI draft gap_adn_df115_digital_l5_2025; rq_625=done; spawn rq_626; loop_state ticks=634
 - FOI opened: gap_adn_df115_digital_l5_2025 -- ready (not sent)
 - Next: rq_626; progress@640 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T00:30:00Z -- tick 635
+- Unit: rq_626 (FOI-adjacent dual research/economy hole-fill -- **DO18 DF114 Recherche** + DF096 invest aids dual VLAIO)
+- Found: **DO18** (primary CoA): BI2025 CE **EUR3.839bn** / CL **EUR3.786bn** (path eng **-EUR247.5m** / liq **-EUR164.4m**). **DF114 Recherche:** CE **EUR247.484m** / CL **EUR199.655m** (path eng **-EUR8.3m** / liq **+EUR10.4m**; exec class **EUR140.7m**). **DF118 RDI fonds:** CL **EUR13.594m**; stock carryover liq class **EUR171.2m** eoy2025; fonds rec **EUR22.7m**. **DF096 invest aids:** CE **EUR111.6m** / CL **EUR90.2m** (path liq **-EUR31.4m**); CoA risk credit shortage; **700** dossiers / **EUR32m** backlog 2023-24; claimed structural cut **EUR15m**. Dual **VLAIO** innovatiesteun awards class **EUR196.9m**. Strong confidence CoA; project L5 residual FOI.
+- Wrote: budgets (+16); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_df114_recherche_l5_2025; rq_626=done; spawn rq_627; loop_state ticks=635
+- FOI opened: gap_df114_recherche_l5_2025 -- ready (not sent)
+- Next: rq_627; progress@640 in 5 ticks; rq_116 deferred

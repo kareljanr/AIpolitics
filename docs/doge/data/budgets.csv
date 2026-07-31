@@ -11520,3 +11520,19 @@ bud_futurocite_dep_bi2025,wallonie_gov,2025,655494,,,budgeted,src_ccrek_adn_df11
 bud_abbaye_villers_dep_bi2025,abbaye_villers,2025,3593500,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA Abbaye Villers dep BI2025 3.594m rec 3.695m solde +0.102m; tick634
 bud_solvay_lahulpe_dep_bi2025,domaine_solvay_lahulpe,2025,913000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA Domaine Solvay La Hulpe dep BI2025 0.913m solde -0.079m; tick634
 bud_dual_digital_adn_df115_class_2025,gg_belgium,2025,25578000,,,budgeted,src_dual_digital_adn_smals_tick634,strong,DF115 CL 25.6m dual Smals 579m class not additive; tick634
+bud_do18_ce_bi2025,wallonie_gov,2025,3839169000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DO18 Entreprises emploi recherche CE BI2025 3.839bn; tick635
+bud_do18_cl_bi2025,wallonie_gov,2025,3786351000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DO18 CL BI2025 3.786bn path eng -247.5m liq -164.4m; tick635
+bud_do18_ce_ba2024,wallonie_gov,2024,4086718000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DO18 CE BA2024 4.087bn; tick635
+bud_do18_cl_ba2024,wallonie_gov,2024,3950760000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DO18 CL BA2024 3.951bn; tick635
+bud_df114_recherche_ce_bi2025,wallonie_gov,2025,247484000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF114 Recherche CE BI2025 247.484m; tick635
+bud_df114_recherche_cl_bi2025,wallonie_gov,2025,199655000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF114 Recherche CL BI2025 199.655m; tick635
+bud_df114_recherche_ce_ba2024,wallonie_gov,2024,255821000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF114 CE BA2024 255.821m path eng -8.337m; tick635
+bud_df114_recherche_cl_ba2024,wallonie_gov,2024,189268000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF114 CL BA2024 189.268m path liq +10.387m; tick635
+bud_df114_recherche_exec_class,wallonie_gov,2024,140650000,,,outturn,src_ccrek_do18_recherche_df114_bi2025,medium,CoA DF114 execution column 140.650m; tick635
+bud_df118_rdi_ce_bi2025,wallonie_gov,2025,13963000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF118 RDI fonds CE BI2025 13.963m; tick635
+bud_df118_rdi_cl_bi2025,wallonie_gov,2025,13594000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF118 RDI fonds CL BI2025 13.594m; tick635
+bud_fonds_rdi_stock_liq_eoy2025,wallonie_gov,2025,171200000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA RDI fonds stock carryover liq class 171.2m eoy2025; tick635
+bud_fonds_rdi_rec_bi2025,wallonie_gov,2025,22700000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA Fonds RDI recettes BI2025 22.7m; tick635
+bud_df096_invest_ce_bi2025,wallonie_gov,2025,111605000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF096 Aides investissement CE BI2025 111.605m path eng -24.640m; tick635
+bud_df096_invest_cl_bi2025,wallonie_gov,2025,90184000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF096 CL BI2025 90.184m path liq -31.401m; tick635
+bud_dual_df114_vlaio_class_2025,gg_belgium,2025,199655000,,,budgeted,src_dual_recherche_wal_vlaio_tick635,strong,DF114 CL 199.7m dual VLAIO awards ~197m class not additive; tick635
