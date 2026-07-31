@@ -7794,3 +7794,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+eap); budgets (+48); commitments (+6); leaderboard (+6); sources (+4); FOI draft gap_119quater_annex4_pending_l5_2025; rq_652=done; spawn rq_653; loop_state ticks=661
 - FOI opened: gap_119quater_annex4_pending_l5_2025 -- ready (not sent)
 - Next: rq_653; progress@670 in 9 ticks; rq_116 deferred
+
+### 2026-08-01T07:15:00Z -- tick 662
+- Unit: rq_653 (FOI-adjacent dual Type3 hole-fill -- **Type3 totals close dep 4.52bn + mutualistes SMR non-communique + spin-off/guichets residual**)
+- Found: **Type3 Annex3 totals** (primary CoA): rec **EUR4.319bn** / dep **EUR4.524bn** / solde **-EUR204.5m** (path **+EUR64.8m** vs BI2024 **-EUR269.3m**). **Autres** rec **EUR2.408bn** / dep **EUR2.530bn** / solde **-EUR121.7m**. **SMR mutualistes:** 5 entities **ALL non-communique** BI2024+BI2025 (opacity). **Spin-off residual:** Invests dep **EUR2.571m** solde **+EUR1.595m**; Socaris solde **+EUR1.435m**; Hoccinvest **-EUR0.138m**; IMBC/NIG/FCR known; Sofinpro/B2Start/Wapi partial non-communique dual VLAIO. **Guichets residual named:** Credialys **EUR1.71m** / Building **EUR1.70m** / Prevoyance **EUR2.06m** / SCHS **EUR1.10m** / Maison ouvriere **EUR1.54m** / petits prop **EUR1.64m**. Companion: Interreg Lux **EUR2.65m** dual; Pole reconversion **EUR1.90m**; habitat durable **EUR1.09m**; service social SPW BI2025 non-communique (2024 **EUR10.68m**). Dual mutualities VL. Strong confidence CoA; SMR FOI residual.
+- Wrote: entities (+7); budgets (+32); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_mutualistes_smr_type3_l5_2025; rq_653=done; spawn rq_654; loop_state ticks=662
+- FOI opened: gap_mutualistes_smr_type3_l5_2025 -- ready prio6 (not sent)
+- Next: rq_654; progress@670 in 8 ticks; rq_116 deferred

@@ -12303,3 +12303,34 @@ bud_ba2024_rec_emprunts,wallonie_debt,2024,3374507000,,,budgeted,src_ccrek_ba202
 bud_ba2024_ste_emilie_fwb_gap,ste_emilie,2024,172200000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,FWB inscribed 4363.4m vs WAL 4535.5m gap 172.2m hospital charges wrongly netted by FWB; tick661
 bud_type3_total_rec_bi2025,uap_perimeter_wal,2025,4318975544,,,budgeted,src_ccrek_type3_annex3_totals_bi2025,strong,Annex3 Type3 total rec BI2025 4318.976m path +1753.5m; tick661
 bud_type3_total_dep_bi2024_class,uap_perimeter_wal,2024,2834714663,,,budgeted,src_ccrek_type3_annex3_totals_bi2025,strong,Annex3 Type3 total dep BI2024 class 2834.715m (partial perimeter); tick661
+bud_type3_total_dep_bi2025,uap_perimeter_wal,2025,4523520252,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Type3 total dep BI2025 4523.520m path +1688.8m; tick662
+bud_type3_total_solde_bi2025,uap_perimeter_wal,2025,-204544708,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Type3 total solde SEC BI2025 -204.545m path +64.8m; tick662
+bud_type3_total_solde_bi2024,uap_perimeter_wal,2024,-269301249,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Type3 total solde SEC BI2024 -269.301m; tick662
+bud_type3_autres_rec_bi2025,uap_perimeter_wal,2025,2408119836,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Type3 Autres subtotal rec BI2025 2408.120m path +45.1m; tick662
+bud_type3_autres_dep_bi2025,uap_perimeter_wal,2025,2529797399,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Type3 Autres subtotal dep BI2025 2529.797m path +70.9m; tick662
+bud_type3_autres_solde_bi2025,uap_perimeter_wal,2025,-121677563,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Type3 Autres solde BI2025 -121.678m path -25.8m; tick662
+bud_mutualistes_regionales_wal_non_communique,mutualistes_regionales_wal,2025,0,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Societes mutualistes regionales ALL non communique BI2024 and BI2025 (5 SMR); dual mutualities; tick662
+bud_invests_rec_bi2025,invests_wal,2025,4166260,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Invests rec BI2025 4.166m path -1.011m; tick662
+bud_invests_dep_bi2025,invests_wal,2025,2570968,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Invests dep BI2025 2.571m path -0.618m; tick662
+bud_invests_solde_bi2025,invests_wal,2025,1595292,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Invests solde BI2025 +1.595m path -0.341m; tick662
+bud_invests_rec_ba2024,invests_wal,2024,5176877,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Invests rec BA2024 5.177m; tick662
+bud_invests_dep_ba2024,invests_wal,2024,3189377,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Annex3 Invests dep BA2024 3.189m; tick662
+bud_hoccinvest_dep_bi2025,spinoff_funds_wal,2025,159170,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Hoccinvest spin-off dep BI2025 0.159m solde -0.138m; tick662
+bud_hoccinvest_solde_bi2025,spinoff_funds_wal,2025,-137762,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Hoccinvest solde BI2025 -0.138m; tick662
+bud_fonds_capital_risque_2020_dep,spinoff_funds_wal,2025,560961,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Fonds capital risque 2020 dep 0.561m solde +0.051m flat; tick662
+bud_imbc_2020_dep_bi2025,spinoff_funds_wal,2025,838800,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,IMBC 2020 dep BI2025 0.839m solde -0.089m; tick662
+bud_namur_innovation_dep_bi2025,spinoff_funds_wal,2025,365002,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Namur Innovation Growth dep BI2025 0.365m solde +0.336m; tick662
+bud_socaris_dep_bi2025,spinoff_funds_wal,2025,647035,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Socaris Hainaut oc1 dep BI2025 0.647m solde +1.435m; tick662
+bud_socaris_solde_bi2025,spinoff_funds_wal,2025,1435304,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Socaris solde BI2025 +1.435m path +0.344m; tick662
+bud_spinoff_known_dep_sum_bi2025,spinoff_funds_wal,2025,5141936,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Known spin-off+Invests dep sum class ~5.14m (Invests+Hoccinvest+FCR+IMBC+NIG+Socaris); Sofinpro B2Start Wapi non-communique residual; tick662
+bud_guichet_credialys_dep_2025,guichets_sociaux_wal,2025,1706000,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Credialys dep BI2025 1.706m solde +0.041m; tick662
+bud_guichet_maison_ouvriere_dep_2025,guichets_sociaux_wal,2025,1543850,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Maison ouvriere Charleroi Sud-Hainaut dep 1.544m; tick662
+bud_guichet_building_dep_2025,guichets_sociaux_wal,2025,1697170,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Building guichet dep BI2025 1.697m; tick662
+bud_guichet_prevoyance_dep_2025,guichets_sociaux_wal,2025,2054692,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,La Prevoyance dep BI2025 2.055m; tick662
+bud_guichet_schs_dep_2025,guichets_sociaux_wal,2025,1098890,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,SA SCHS dep BI2025 1.099m; tick662
+bud_guichet_petits_proprietaires_dep_2025,guichets_sociaux_wal,2025,1636801,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Credit social petits proprietaires reunis dep 1.637m solde -0.017m; tick662
+bud_service_social_spw_dep_2024,wallonie_gov,2024,10677500,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Service social SPW dep BA2024 10.678m solde +0.304m; BI2025 non communique; tick662
+bud_interreg_lux_wal_vl_dep_2025,interreg_wal,2025,2645817,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Interreg IV Lux-WAL-VL secretariat dep BI2025 2.646m balanced; dual Interreg; tick662
+bud_pole_reconversion_dep_2025,pole_reconversion_wal,2025,1897863,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Pole de reconversion dep BI2025 1.898m solde +0.069m; tick662
+bud_centre_habitat_durable_dep_2025,centre_habitat_durable,2025,1086023,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Centre etudes habitat durable dep BI2025 1.086m solde -0.200m; tick662
+bud_futurocite_dep_bi2025,futurocite,2025,655494,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Futurocite dep BI2025 0.655m solde +0.098m; tick662
