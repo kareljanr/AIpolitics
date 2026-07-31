@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T16:00:00Z,rq_592,601,no,tick601 Plantentuin Meise 33.3/30.0m dual VL FWB; next rq_593; progress@610 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T16:15:00Z,rq_593,602,no,tick602 IWEPS rec 9.1m dep 11.4m dual stats; next rq_594; progress@610 in 8; rq_116 deferred

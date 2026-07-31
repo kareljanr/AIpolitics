@@ -7296,3 +7296,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+plantentuin_meise); budgets (+26); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_meise_final_accounts_l5_2025; rq_592=done; spawn rq_593; loop_state ticks=601
 - FOI opened: gap_meise_final_accounts_l5_2025 → ready (not sent)
 - Next: rq_593; progress@610 in 9 ticks; rq_116 deferred
+
+### 2026-07-31T16:15:00Z — tick 602
+- Unit: rq_593 (FOI-adjacent dual stats hole-fill — **IWEPS** dual multi-layer stats)
+- Found: **IWEPS** RA2024 (primary PDF) + decret Art.22 2025. **Recettes 2024 €9.066m** (dot fonct **€7.742m** · ODT **0.103m** · FWB synergy **0.194m** · federal precompte **0.602m** · other sub **0.413m**). **Dépenses €11.394m** (personnel **€6.836m** · services **0.910m** · tresorerie transfer **€3.0m** · inventaire **0.105m** · missions **0.543m**); hors transfer **€8.394m** (+9.67% YoY). Staff **60** / ETP **58.3** (research **41**). Budget 2025b: rec **€9.288m** / dep **€17.213m**. Dual multi-layer stats (Statbel/IBSA/FWB). Strong confidence.
+- Wrote: entities (+iweps); budgets (+18); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_iweps_2025_outturn_l5; rq_593=done; spawn rq_594; loop_state ticks=602
+- FOI opened: gap_iweps_2025_outturn_l5 → ready (not sent)
+- Next: rq_594; progress@610 in 8 ticks; rq_116 deferred

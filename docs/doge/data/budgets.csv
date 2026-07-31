@@ -11130,3 +11130,21 @@ bud_meise_staff_fwb_2026,plantentuin_meise,2026,0,,,outturn,src_meise_jv_2025,st
 bud_meise_staff_own_2026,plantentuin_meise,2026,0,,,outturn,src_meise_jv_2025,strong,Plantentuin Meise staff funded own income 91 1Jan2026; tick601
 bud_meise_ontvangsten_2024,plantentuin_meise,2024,28508000,,,outturn,src_meise_jv_2025,strong,Plantentuin Meise ontvangsten 28.508m 2024 series; tick601
 bud_meise_uitgaven_2024,plantentuin_meise,2024,29295000,,,outturn,src_meise_jv_2025,strong,Plantentuin Meise uitgaven 29.295m 2024 series; tick601
+bud_iweps_recettes_2024,iweps,2024,9066161,,,outturn,src_iweps_ra_2024,strong,IWEPS total recettes realisees 9.066m 2024; tick602
+bud_iweps_dot_fonct_2024,iweps,2024,7742000,,,outturn,src_iweps_ra_2024,strong,IWEPS dotation fonctionnement 7.742m 2024; tick602
+bud_iweps_odt_2024,iweps,2024,103000,,,outturn,src_iweps_ra_2024,strong,IWEPS Observatoire developpement territorial 0.103m 2024; tick602
+bud_iweps_fwb_2024,iweps,2024,194000,,,outturn,src_iweps_ra_2024,strong,IWEPS FWB synergies statistiques 2 salaries 0.194m 2024 dual; tick602
+bud_iweps_precompte_fed_2024,iweps,2024,602000,,,outturn,src_iweps_ra_2024,strong,IWEPS federal precompte exemption research 0.602m 2024; tick602
+bud_iweps_other_sub_2024,iweps,2024,413000,,,outturn,src_iweps_ra_2024,strong,IWEPS other specific ministerial subsidies 0.413m 2024; tick602
+bud_iweps_depenses_2024,iweps,2024,11393569,,,outturn,src_iweps_ra_2024,strong,IWEPS total depenses 11.394m 2024 incl tresorerie transfer; tick602
+bud_iweps_dep_hors_transfert_2024,iweps,2024,8394000,,,outturn,src_iweps_ra_2024,strong,IWEPS depenses hors transfert tresorerie 8.394m 2024 (+9.67pct); tick602
+bud_iweps_personnel_2024,iweps,2024,6835839,,,outturn,src_iweps_ra_2024,strong,IWEPS personnel direct cost 6.836m 2024; tick602
+bud_iweps_services_2024,iweps,2024,909721,,,outturn,src_iweps_ra_2024,strong,IWEPS services biens divers 0.910m 2024; tick602
+bud_iweps_transfert_tres_2024,iweps,2024,3000000,,,outturn,src_iweps_ra_2024,strong,IWEPS transfert revenus pouvoir institutionnel tresorerie 3.0m 2024; tick602
+bud_iweps_inventaire_2024,iweps,2024,104832,,,outturn,src_iweps_ra_2024,strong,IWEPS biens inventaire invest 0.105m 2024; tick602
+bud_iweps_missions_2024,iweps,2024,543177,,,outturn,src_iweps_ra_2024,strong,IWEPS missions decretale 0.543m 2024; tick602
+bud_iweps_fonct_total_2024,iweps,2024,10850392,,,outturn,src_iweps_ra_2024,strong,IWEPS depenses fonctionnement total 10.850m 2024; tick602
+bud_iweps_staff_2024,iweps,2024,0,,,outturn,src_iweps_ra_2024,strong,IWEPS staff 60 persons ETP 58.3 31Dec2024 (not EUR); tick602
+bud_iweps_research_staff_2024,iweps,2024,0,,,outturn,src_iweps_ra_2024,strong,IWEPS research staff 41 of 60 2024 (not EUR); tick602
+bud_iweps_recettes_2025b,iweps,2025,9288000,,,outturn,src_iweps_budget_ajust_2025,strong,IWEPS budget ajuste 2025 recettes 9.288m decret Art22; tick602
+bud_iweps_depenses_2025b,iweps,2025,17213000,,,outturn,src_iweps_budget_ajust_2025,strong,IWEPS budget ajuste 2025 depenses 17.213m decret Art22; tick602
