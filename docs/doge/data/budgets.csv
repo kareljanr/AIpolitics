@@ -14077,3 +14077,23 @@ bud_vl_gip_select_vr_high_85pct,vlaanderen_gov,2025,85,,,outturn,src_ccrek_vl_gi
 bud_vl_gip_select_am_high_77pct,vlaanderen_gov,2025,77,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,77pct highest AM urgency selected vs 60pct lowest category; tick716
 bud_vl_gip_ic_fte_3,vlaanderen_gov,2025,3,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,Investeringscel ~3 FTE (8 staff not full-time) CoA s3.2; tick716
 bud_dual_gip_large_sofico_2026,gg_belgium,2026,2182000000,,,projected,src_dual_gip_large_projects_tick716,strong,Dual VL large-project squeeze 2182m-2030 vs WAL SOFICO residual; not TE-additive; tick716
+bud_vl_gip_monitor_volume_2503m,vlaanderen_gov,2026,2503000000,,,budgeted,src_ccrek_vl_gip_monitor_eval_2026,strong,GIP avg ~2503m/yr under failed monitoring/eval instrument CoA ch6-8; tick717
+bud_vl_gip_horizon_fail_3y_not_5y,vlaanderen_gov,2025,2501000000,,,budgeted,src_ccrek_vl_gip_monitor_eval_2026,strong,Ambition 5y GIP collapsed to 3y 2025-27 then 1y actu2026 only CoA ch8; tick717
+bud_vl_gip_actu_1y_only_3685m,vlaanderen_gov,2026,3685000000,,,budgeted,src_ccrek_vl_gip_monitor_eval_2026,strong,Actualisatie 2026 one-year GIP 3685m; multi-year 2027-29 not validated CoA; tick717
+bud_vl_gip_ic_fte_capacity_3,mow_investeringscel,2025,3,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Investeringscel ~3 FTE insufficient for modusneutral regie CoA s7.2; tick717
+bud_vl_gip_vek_reporting_not_live_2026,vlaanderen_gov,2026,0,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,VEK reporting pilot since 2021; promised begin 2026 still not operational CoA s6.1; tick717
+bud_vl_gip_encours_program_not_live,vlaanderen_gov,2026,0,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Openstaande verbintenissen program-level reporting not delivered CoA s6.1; tick717
+bud_vl_gip_public_exec_report_missing,vlaanderen_gov,2026,0,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,RA promised annual public GIP execution report not published CoA s6.1; tick717
+bud_vl_gip_tool_dec2025_gradual,mow_investeringscel,2025,1,,,budgeted,src_ccrek_vl_gip_monitor_eval_2026,medium,GIP-tool gradual ops from Dec 2025; CoA/IC: no guarantee internal data quality fix; tick717
+bud_vl_gip_pps_beschik_horizon_y,vlaanderen_gov,2026,25,,,projected,src_ccrek_vl_gip_monitor_eval_2026,strong,PPS availability 20-25-30y not matched in GIP look-through CoA s6.1; tick717
+bud_vl_gip_lcca_goal_2030_flag,vlaanderen_gov,2030,1,,,projected,src_ccrek_vl_gip_monitor_eval_2026,medium,Dept goal know full MOW patrimony lifecycle cost by 2030; GIP lacks project LCCA CoA s6.2; tick717
+bud_vl_gip_recs_count_16,vlaanderen_gov,2026,16,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,CoA 16 formal recommendations ch9; monitor.ccrek.be follow-up earliest +1y; tick717
+bud_vl_gip_minister_reply_2026_06_09,vlaanderen_gov,2026,1,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Minister De Ridder reply 9 Jun 2026: GIP tool + BA2027 separate basisallocaties GIP link; soft vs CoA hard fail; tick717
+bud_vl_gip_score_flip_am_1_to_5,vlaanderen_gov,2026,5,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Annex1: AM score GIP001723 tram track Gent 1->5 between GIP2025-27 and 2026-29; tick717
+bud_vl_gip_score_flip_fiets_4_to_1,vlaanderen_gov,2026,1,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Annex1: fiets score Waasmunsterbrug GIP000354/01 4->1; tick717
+bud_vl_gip_id_collision_n44_aalter,vlaanderen_gov,2025,1,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Same GIP00465664 used for both Uitvoering and Onteigening N44 Aalter; tick717
+bud_vl_gip_no_output_km_indicators,vlaanderen_gov,2026,0,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,GIP does not state km tunnels/roads renovated for budget; blocks ex-post eval CoA s6.2; tick717
+bud_vl_gip_no_total_project_cost_field,vlaanderen_gov,2026,0,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,Project lines lack total invest cost past/future study expropriation finance O&M CoA s6.2; tick717
+bud_vl_gip_internal_reports_unpublished,mow_investeringscel,2026,1,,,outturn,src_ccrek_vl_gip_monitor_eval_2026,strong,IC holds basis/fiets/AM reports and GIS map unpublished externally CoA s6.1; tick717
+bud_vl_gip_ba2027_basisalloc_promise,vlaanderen_gov,2027,1,,,budgeted,src_ccrek_vl_gip_monitor_eval_2026,medium,Minister: BO2027 separate basisallocaties to 1-to-1 link GIP spend; not yet outturn; tick717
+bud_dual_gip_monitor_sofico_2026,gg_belgium,2026,2503000000,,,budgeted,src_dual_gip_monitor_wal_tick717,strong,Dual VL GIP monitor fail on 2.5bn vs WAL SOFICO RA transparency residual; not TE-additive; tick717

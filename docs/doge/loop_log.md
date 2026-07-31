@@ -8466,3 +8466,19 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_gip_large_projects_2026 — ready (not sent)
 - Next: rq_708 WAL residual preferred; progress@720 in 4 ticks; rq_116 deferred
 
+
+### 2026-08-01T21:00:00Z — tick 717
+- Unit: **rq_708** (FOI-adjacent dual residual — **VL GIP monitoring/eval/governance dual SOFICO**)
+- Found (primary CoA 2026_27 ch.6–10 + Bijlage1–2):
+  - Monitor fail on **~2.5bn/yr**: no unique GIP-ID; entity self-report only; **GIP-tool** Dec2025 gradual (no DQ guarantee)
+  - **VEK** pilots since **2021** promised begin-2026 **still not live**; encours program-level **no breakthrough**
+  - Public annual exec report **missing**; IC basis/fiets/AM reports + GIS **unpublished**
+  - No output km / effect indicators; no total project cost / LCCA fields (2030 LCCA goal blocked); PPS 20–30y look-through incomplete
+  - Horizon collapse: RA **5y** → delivered **3y** then **1y actu 3685m**; IC **~3 FTE** weak mandate
+  - Annex: ID collision GIP00465664; AM score **1→5**; fiets **4→1**; **16** CoA recs
+  - Minister 9 Jun 2026: BA2027 basisallocaties + tool; soft vs CoA hard fail
+  - Dual WAL SOFICO RA transparency residual; Strong CoA; L5 FOI.
+- Wrote: budgets (+20); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vl_gip_monitor_eval_gov_2026**; rq_708=done; spawn **rq_709**; loop_state ticks=717
+- FOI opened: gap_vl_gip_monitor_eval_gov_2026 — ready (not sent)
+- Next: rq_709 WAL residual preferred; progress@720 in 3 ticks; rq_116 deferred
+
