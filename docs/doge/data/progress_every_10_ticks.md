@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 600** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Flanders SOC quartet (imec/VIB/VITO/Flanders Make) · dual agri ILVO VO/EV + CRA-W · dual marine VLIZ · dual env science ISSeP/VITO · SPAQuE soil dual · prior COPIDEC/OAA/utility retained |
+| **D. L5 named / measure end-lines** | **~40-53%** of TE (generous) | **Gain 590→600 is Flanders dual research / agri / marine wave:** imec consol op income **1.22bn** · VITO inkomsten **297m** · VIB **169m** · Flanders Make rev **37.3m**/convenant **21m** · ILVO IVA **24.9m**/EV ESR **50.3m**/staff **756** · CRA-W dep **54.8m**/staff **454** · VLIZ turnover **19.6m**/Flemish grants **11.9m**/staff **178** · SPAQuE net loss path · ISSeP CA **34.8m** · FOI still bulk ASBL/firm + VL grant L5 recon + absolute ILVO werkingsmiddelen |
+| **E. FOI-ready gaps** | **~342** drafts ready | Human send only; answered **~9**; total FOI rows **~352** (+ VIB/imec/VITO/FM convenant · ILVO total op · CRA-W comptes · VLIZ jaarrekening · SPAQuE/ISSeP · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **utility SOE balance sheets** (IPALLE 380m · Tibi 151m · Intradel 187m · imec consol assets **1.69bn** · VIB **309m** · FM **235m**) · Waterunie fusion TCO residual.
+
+### Inventory (tick 600)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~11093 |
+| commitments.csv | ~1197 |
+| leaderboard.csv | ~2334 |
+| entities.csv | ~434 |
+| sources.csv | ~1163 |
+| FOI ready | ~342 |
+| FOI answered | ~9 |
+| FOI total rows | ~352 |
+| research_queue | ~587 (open: rq_116 deferred + rq_592 hole-fill after progress) |
+
+### What improved since tick 590
+
+- **Soil + env science dual (tick591–593):** SPAQuE ventes **31.5m** net loss **27.8m** (Marshall fin charges) assets **534m** dual OVAM · ISSeP CA **34.8m**/304 staff dual VITO · VITO inkomsten **297m**/personnel **129m**/~1300 staff (~8.5x ISSeP).
+- **Flanders SOC quartet (tick594–596):** imec consol **€1.217bn** op income / personnel **426m** / assets **1.69bn** · VIB op income **€168.8m** grants **122.9m** FTE **1900** · Flanders Make rev **€37.3m** convenant **€20.9m** personnel **24.3m** assets **235m** / ecosystem graphic **134m** perimeter dual.
+- **Agri dual close (tick597–598):** ILVO dual VO/EV — IVA exp **€24.9m** rev **2.6m** · EV ESR in **34.4m** out **50.3m** · staff **756**/FTE **711** · basisdotatie **29%** (absolute total FOI) · CRA-W budget ajust **rec 53.4m / dep 54.8m** staff **454** dual ILVO.
+- **Marine dual (tick599):** VLIZ turnover **€19.6m** (2024 spike **26.4m**) Flemish grants **11.9m** external **10.1m** staff **178** dual ILVO InnovOcean + Belgica.
+
+---
 ## Snapshot at **tick 590** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

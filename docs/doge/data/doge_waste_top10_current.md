@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **590** (2026-07-31) · **~2280** leaderboard rows  
+**As-of:** tick **600** (2026-07-31) · **~2334** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -26,8 +26,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 10 | `lb_fed_fossil_mazout_1_86bn` | Heating oil accise gap 1.86bn 2022 fossil inv | **1.86 bn** | 8 | 9.0 | 6 | **8.3** | fossil inventory |
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 580:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 580–590 adds **WAL waste dual COPIDEC** (Tibi commune bill **42.7m**/personnel **47m** · IPALLE **83m** profit · Intradel **125m** loss · IDELUX **66m**) and **OAA water dual** that raise **L2/L5 local SOE completeness and governance opacity** more than FFS ranking (see high-absurdity + dual tables).
+**Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** · **imec assets 1.69bn** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
+**Change vs tick 590:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 590–600 adds **Flanders dual research stack** (SOC quartet · ILVO/CRA-W agri · VLIZ marine · ISSeP/VITO env) that raise **L2/L5 public RTO completeness and dual-structure map** more than FFS ranking (see high-absurdity + dual tables).
 
 ### Just outside top 10 (often relevant)
 
@@ -55,9 +55,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_ypto_proc_law_fail` | **9.0** | rail IT procurement |
 | `lb_lantis_under_vastleg_2_42bn` | **8.0** | NEC4 under-booking ~€2.42bn |
 | `lb_vlaio_prescription_16_4m` | **8.5** | eco write-offs solvent debtors |
-| `lb_tibi_ca_25m_loss_55m_2025` | **5.0** | **NEW 589** structural loss **54.8m** / commune bill **42.7m** |
-| `lb_tibi_vs_ipalle_loss_profit_2025` | **5.0** | **NEW 590** dual loss vs multi-utility profit |
-| `lb_dual_waste_copidec_stack_2025` | **4.0** | **NEW 590** seven-operator COPIDEC map |
+| `lb_tibi_ca_25m_loss_55m_2025` | **5.0** | structural loss **54.8m** / commune bill **42.7m** |
+| `lb_tibi_vs_ipalle_loss_profit_2025` | **5.0** | dual loss vs multi-utility profit |
+| `lb_dual_waste_copidec_stack_2025` | **4.0** | seven-operator COPIDEC map |
+| `lb_dual_soc_fm_imec_vib_vito_2025` | **—** | **NEW 596** SOC quartet dual map |
+| `lb_dual_agri_craw_ilvo_2025` | **—** | **NEW 598** dual agri CRA-W + ILVO |
+| `lb_dual_marine_vliz_ilvo_2025` | **—** | **NEW 599** dual marine VLIZ + ILVO |
 | `lb_actiris_cpas_spill_34k` | **7.5** | reform spillover DEI→CPAS +83% |
 | `lb_dual_pes_four_rates` | **7.5** | FL6.9 WAL14.3 BRU14.6 DG6.4 |
 | `lb_dual_pt_four_layer` | **7.0** | NMBS+De Lijn+STIB+TEC |
@@ -69,14 +72,15 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_dual_pension_72bn` | **72.0 bn** benefits | emp+self+public pension stacks |
 | `lb_e1_nopol_financing_39bn` / post 31bn | **39.1 / 31.2 bn** | nopol vs measures 2029 |
 | `lb_vl_debt_50_2bn_2025` | **50.2 bn** Maastricht | VL debt eoy2025 |
-| `lb_ipalle_assets_380m_2025` | **0.38 bn** | **NEW 586** multi-utility waste+water SOE |
-| `lb_tibi_debt_94m_uve_2025` | **0.09 bn** debt / UVE **52.5m** | **NEW 589** UVE rehab leverage |
-| `lb_intradel_debt_115m_2025` | **0.11 bn** | **NEW 585** waste SOE leverage |
+| `lb_imec_assets_1_69bn_2025` | **1.69 bn** | **NEW 594** nano RTO consol assets |
+| `lb_fm_assets_235m_2025` | **0.23 bn** | **NEW 596** manufacturing SOC BS |
+| `lb_vib_assets_309m_2024` | **0.31 bn** | **NEW 595** life sciences RTO |
+| `lb_ipalle_assets_380m_2025` | **0.38 bn** | multi-utility waste+water SOE |
+| `lb_tibi_debt_94m_uve_2025` | **0.09 bn** debt / UVE **52.5m** | UVE rehab leverage |
+| `lb_intradel_debt_115m_2025` | **0.11 bn** | waste SOE leverage |
 | `lb_infrabel_assets_25_7bn` / equity 20.5 | **25.7 / 20.5 bn** | infra SOE balance |
 | `lb_infrabel_etcs_2_8bn` | **2.8 bn** completed | ETCS Masterplan done |
 | `lb_lantis_under_vastleg_2_42bn` / TV 3.85 | **2.42 / 3.85 bn** | NEC4 gap + TV financing |
 | `lb_vl_open_verb_7_37bn` | **7.37 bn** | toelage open verbintenissen |
 | `lb_riziv_care_39_7bn_2025` | **39.7 bn** | care authorized outturn |
 | `lb_fed_fiscal_esa_164bn` / cash third 92.5 | **164 / 92.5 bn** | fiscal dual assignment |
-| `lb_metro3_total_4_76bn` / gap / PPP | **4.76 / ~4.3 / 7.74 bn** | CoA Metro3 multi-year dual |
-| `lb_dual_waste_copidec_stack_2025` | multi CA class | **NEW 590** Tibi/IDELUX/IPALLE/Intradel/BEP |

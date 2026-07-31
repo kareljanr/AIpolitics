@@ -7270,3 +7270,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+vliz); budgets (+12); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_vliz_jaarrekening_l5_2025; rq_590=done; spawn rq_591; loop_state ticks=599
 - FOI opened: gap_vliz_jaarrekening_l5_2025 → ready (not sent)
 - Next: rq_591; **progress@600 next tick**; rq_116 deferred
+
+### 2026-07-31T15:45:00Z — tick 600 (PROGRESS MILESTONE)
+- Unit: rq_591 (progress@600 + **dual public research wave synthesis** ticks591-599)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **Flanders SOC quartet:** imec consol op income **1.22bn** · VIB **169m**/1900 FTE · VITO **297m**/~1300 · Flanders Make **37.3m**/convenant **21m**/assets **235m**
+  - **Agri dual:** ILVO IVA **24.9m**/EV ESR **50.3m**/staff **756** · CRA-W dep **54.8m**/staff **454**
+  - **Marine + env:** VLIZ turnover **19.6m** (2024 spike **26.4m**) · ISSeP **34.8m** dual VITO · SPAQuE soil dual OVAM
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ dual research RTOs · prior COPIDEC/OAA/utility)
+  - **D L5:** ~**40-53%** generous (research dual wave · not near-complete of 348bn)
+  - **E FOI ready:** ~**342** · answered ~**9** · total FOI rows ~**352**
+- Inventory: budgets ~**11093** · cmt ~**1197** · lb ~**2334** · sources ~**1163** · entities ~**434**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30); stocks Metro3 still top raw prio but annual=0 filtered
+- High-abs + dual NEW: SOC quartet · agri CRA-W/ILVO · marine VLIZ/ILVO · env ISSeP/VITO
+- Gain 590→600: Flanders dual research / agri / marine / env science wave
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual research wave; FOI **gap_dual_research_grant_matrix_l5** ready+draft; rq_591=done spawn **rq_592**; ticks=600
+- FOI opened: gap_dual_research_grant_matrix_l5 (ready, human send) - not sent
+- Next: prio5 **rq_592**; deferred **rq_116**; progress@610 in 10 ticks

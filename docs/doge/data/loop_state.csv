@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T15:30:00Z,rq_590,599,no,tick599 VLIZ turnover 19.6m Flemish grants 11.9m dual ILVO marine; next rq_591; progress@600 NEXT; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T15:45:00Z,rq_591,600,no,tick600 progress@600 dual research wave SOC agri marine; next rq_592; progress@610 in 10; rq_116 deferred
