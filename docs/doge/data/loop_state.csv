@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T22:30:00Z,rq_618,627,no,tick627 WE group SEC 265m dual PMV treasury 110m; next rq_619; progress@630 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T22:45:00Z,rq_619,628,no,tick628 Sowaer SEC 81m DF046 91m dual BAC; next rq_620; progress@630 in 2; rq_116 deferred

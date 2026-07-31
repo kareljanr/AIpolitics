@@ -7505,3 +7505,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update wallonie_entreprendre; budgets (+22); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_we_sec_recon_l5_2025; rq_618=done; spawn rq_619; loop_state ticks=627
 - FOI opened: gap_we_sec_recon_l5_2025 -- ready (not sent)
 - Next: rq_619; progress@630 in 3 ticks; rq_116 deferred
+
+### 2026-07-31T22:45:00Z -- tick 628
+- Unit: rq_619 (FOI-adjacent dual airports hole-fill -- **Sowaer** CoA Table33 + DF046 dual BAC)
+- Found: **Sowaer objet social** (primary CoA Table33). **BI2025:** rec **EUR52.986m** / dep **EUR81.366m** / solde **-EUR28.380m**. **BA2024:** rec **EUR54.577m** / dep **EUR68.034m** / solde **-EUR13.457m** (path dep **+EUR13.333m** / solde **-EUR14.923m**). **Secteur aéroportuaire impact:** BA2024 **+EUR27.486m** / BI2025 **-EUR28.391m** (path **-EUR55.877m**). **DF046** BI2025 CE **EUR90.776m** / CL **EUR90.797m** (path vs BA2024 **+EUR6.2m** eng / **+EUR6.3m** liq). Missions déléguées **EUR2.822m** BI2025; treasury rembours **EUR20m**; BA2024 ajust **+EUR34.1m** (baux +13.5 / ZAE +7.1 / Liège invest slow +15.3). Dual **BAC** rev **EUR828m** / **BSCA** turnover class **EUR127m**. Strong confidence CoA; stake/DF046 recon residual FOI.
+- Wrote: entity update sowaer; budgets (+18); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_sowaer_sec_recon_l5_2025; rq_619=done; spawn rq_620; loop_state ticks=628
+- FOI opened: gap_sowaer_sec_recon_l5_2025 -- ready (not sent)
+- Next: rq_620; progress@630 in 2 ticks; rq_116 deferred

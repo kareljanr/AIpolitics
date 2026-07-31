@@ -11438,3 +11438,21 @@ bud_we_df097014_credits_bi2025,wallonie_entreprendre,2025,122200000,,,budgeted,s
 bud_we_env_dep_bi2025,wallonie_entreprendre,2025,6820467,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA WE Environnement dep BI2025 6.820m solde +3.310m; tick627
 bud_we_intl_dep_bi2025,wallonie_entreprendre,2025,2626957,,,budgeted,src_ccrek_we_group_sec_bi2025,strong,CoA WE International dep BI2025 2.627m solde +2.211m; tick627
 bud_dual_we_pmv_dep_class_2025,gg_belgium,2025,265260003,,,budgeted,src_dual_we_pmv_sec_tick627,strong,WE group dep SEC 265.3m BI2025 dual PMV managed class ~1.94bn not additive; tick627
+bud_sowaer_rec_sec_bi2025,sowaer,2025,52986280,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table33 Sowaer recettes SEC BI2025 52.986m; tick628
+bud_sowaer_dep_sec_bi2025,sowaer,2025,81366251,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table33 Sowaer depenses SEC BI2025 81.366m; tick628
+bud_sowaer_solde_sec_bi2025,sowaer,2025,-28379971,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table33 Sowaer solde SEC BI2025 -28.380m; tick628
+bud_sowaer_rec_sec_ba2024,sowaer,2024,54576525,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table33 Sowaer recettes SEC BA2024 54.577m; tick628
+bud_sowaer_dep_sec_ba2024,sowaer,2024,68033639,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table33 Sowaer depenses SEC BA2024 68.034m; tick628
+bud_sowaer_solde_sec_ba2024,sowaer,2024,-13457114,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table33 Sowaer solde SEC BA2024 -13.457m; path solde -14.923m; tick628
+bud_secteur_aeroportuaire_impact_ba2024,sowaer,2024,27486000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Type3 impact secteur aeroportuaire BA2024 +27.486m; tick628
+bud_secteur_aeroportuaire_impact_bi2025,sowaer,2025,-28391000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Type3 impact secteur aeroportuaire BI2025 -28.391m path -55.877m; tick628
+bud_df046_ce_bi2025,sowaer,2025,90776000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA DF046 Aeroports CE BI2025 90.776m; tick628
+bud_df046_cl_bi2025,sowaer,2025,90797000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA DF046 Aeroports CL BI2025 90.797m; tick628
+bud_df046_ce_ba2024,sowaer,2024,84576000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA DF046 Aeroports CE BA2024 84.576m; path eng +6.200m; tick628
+bud_df046_cl_ba2024,sowaer,2024,84460000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA DF046 Aeroports CL BA2024 84.460m; path liq +6.337m; tick628
+bud_df046_exec_class,sowaer,2024,70879000,,,outturn,src_ccrek_sowaer_sec_bi2025,medium,CoA DF046 execution column 70.879m (year class BA2024 table); tick628
+bud_sowaer_missions_deleguees_bi2025,sowaer,2025,2822000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table10 missions deleguees Sowaer impact BI2025 2.822m; tick628
+bud_sowaer_missions_deleguees_ba2024,sowaer,2024,2271000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA Table10 missions deleguees Sowaer impact BA2024 2.271m; tick628
+bud_sowaer_treasury_rembours_2025,sowaer,2025,20000000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA treasury rembours excess Sowaer 20m in 2025 recettes path; tick628
+bud_sowaer_ba2024_ajust_path_plus,sowaer,2024,34100000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA BA2024 ajust Sowaer SEC improve +34.1m vs BI2024 (baux +13.5 ZAE +7.1 Liege invest slow +15.3 ZAE travaux -4.9); tick628
+bud_dual_sowaer_bac_dep_class_2025,gg_belgium,2025,81366251,,,budgeted,src_dual_sowaer_bac_airports_tick628,strong,Sowaer dep SEC 81.4m dual BAC rev 828m class not additive; tick628
