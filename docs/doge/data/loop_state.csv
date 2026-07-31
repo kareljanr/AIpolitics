@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T11:30:00Z,rq_670,679,no,tick679 nonfiscal 7.83bn SFPIM 78.4 under 22.6 customs 1.01bn dual; next rq_671 PROGRESS@680; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T11:45:00Z,rq_671,680,no,tick680 PROGRESS coverage C~99 D~48-61 FOI~423; dual wave 671-679; next rq_672; progress@690 in 10; rq_116 deferred

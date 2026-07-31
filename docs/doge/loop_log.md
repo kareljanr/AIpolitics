@@ -7961,3 +7961,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+35); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_nonfiscal_sfpim_l5**; rq_670=done; spawn **rq_671** (PROGRESS@680); loop_state ticks=679
 - FOI opened: gap_fed_aju2026_nonfiscal_sfpim_l5 — ready (not sent)
 - Next: **rq_671 PROGRESS@680**; rq_116 deferred
+
+### 2026-08-01T11:45:00Z — tick 680 (PROGRESS MILESTONE)
+- Unit: **rq_671** (progress@680 + dual residual wave synthesis ticks671–679)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **VL BA:** debt **€56.97bn** Moody **A1**/Fitch **AA-** · dotaties **€34.82bn** · opcentiemen **€10.79bn** · WZC **€2.74bn** · Lantis VAK **€2.48bn**/loan **€1.65bn** · fonds end **€856.5m** · Klimaat cum deficit **~€54m** · Energie desaffect **46.2 vs 56.2**
+  - **Fed E1/SS:** deficit path **€24.5→36.2bn** · interest **€12.3→17.5bn** · SS rec/exp **€148.0bn** near-balance · RIZIV **€43.86bn** · alt fin **€27.58bn** · AO slip **−€129m** · save miss **€183m**
+  - **Energy/nonfiscal:** stack **~€2.6bn** · Elia GSC **€552m**+CRM **€170m** · CfD **€584m** strike unknown · nonfiscal **€7.83bn** · customs retention **€1.01bn** · SFPIM div under **€22.6m**
+  - **Dual:** ratings **A1/Baa1/A3** · SS care dual · energy dual · SFPIM/Finocas · Entity II aju retained
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ SS 148bn + energy 2.6bn + nonfiscal 7.83bn + VL debt/fonds/WZC/Lantis)
+  - **D L5:** ~**48-61%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**423** / answered ~**9** / total FOI rows ~**434**
+- Inventory: budgets ~**13216** / cmt ~**1506** / lb ~**2777** / sources ~**1341** / entities ~**528**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30)
+- High-abs + dual NEW: employer km opaque · Phoenix strike · energy assign 1.4bn · Klimaat deficit 54 · Digisprong raid · Lantis herijk · RIZIV save miss · E1 path 36.2 · SS 148bn · nonfiscal 7.83
+- Gain 670–680: largest flow dual = SS **148bn** + energy **2.6bn** + nonfiscal **7.83bn** + VL dots **34.8bn**; largest stock = VL debt **57bn** + E1 path **36bn** + Lantis/Hedera off-TE
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI **gap_dual_wave_671_680_l5_2026** ready+draft; rq_671=done spawn **rq_672**; ticks=680
+- FOI opened: gap_dual_wave_671_680_l5_2026 (ready, human send) — not sent
+- Next: prio5 **rq_672**; deferred **rq_116**; progress@690 in 10 ticks

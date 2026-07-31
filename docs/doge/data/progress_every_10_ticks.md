@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 680** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual fed+VL CoA residual: SS consol **€148.0bn** rec/exp · RIZIV care **€43.9bn** · energy stack **€2.6bn** · nonfiscal **€7.83bn** · VL debt **€57.0bn** · VL dotaties **€34.8bn** · WZC **€2.74bn** · Lantis VAK **€2.48bn** · begrotingsfondsen end **€856.5m** · prior Entity II aju DO matrices retained |
+| **D. L5 named / measure end-lines** | **~48-61%** of TE (generous) | **Gain 670→680 is dual VL BA2026 + fed SS/energy/nonfiscal residual:** VL Moody **A1**/Fitch **AA-** debt path **+€6.8bn** · GIP shortfall **€82.4m** · Digisprong raid **€24m** · MVP **€88m** · Lantis loan **€1.65bn**/herijk **€2.82bn** · E1 deficit path **€24.5→36.2bn** · interest **€12.3→17.5bn** · RIZIV save miss **€183m** · AO slip **−€129m** · Elia GSC **€552m**+CRM **€170m** · Phoenix CfD strike unknown **€584m** · energy assign opacity **€1.4bn** · SS alt fin **€27.6bn** · RSZ-GB deficit settle **€547.5m** · Klimaat cum deficit **~€54m** · Energiefonds desaffect **46.2 vs 56.2** · SFPIM dividend underbook **€22.6m** · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~423** drafts ready | Human send only; answered **~9**; total FOI rows **~434** (+ VL residual · receipts/Omgeving · WVG/Lantis · E1 path/pension · SS RIZIV/AO · energy ch4 · SS receipts · begrotingsfondsen · nonfiscal/SFPIM · dual wave 671–680 · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **fonds stocks WAL** · UAP treasury remonte · WE equity **~5bn** · FRR/RePower conditional · **CSF NPE growth caps** · Moody rating actions (not euros).
+
+### Inventory (tick 680)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~13216 |
+| commitments.csv | ~1506 |
+| leaderboard.csv | ~2777 |
+| entities.csv | ~528 |
+| sources.csv | ~1341 |
+| FOI ready | ~423 |
+| FOI answered | ~9 |
+| FOI total rows | ~434 |
+| research_queue open | rq_116 deferred + rq_672 hole-fill after progress |
+
+### What improved since tick 670
+
+- **VL BA2026 residual (tick671–673, 678):** debt consol **€56.97bn** / ratings Fitch **AA-** Moody **A1** S&P **AA-** dual WAL **Baa1** FWB **A3** · Finocas **€177.5m** unclear · Viapass **€99.3m** · Digisprong raid **€24m** · GIP shortfall **€82.4m** · dotaties **€34.82bn** · opcentiemen **€10.79bn** · MVP+EPC **€88.2m** · WZC **€2.74bn** CoA gap **€35.9m** · Lantis VAK **€2.48bn** / loan **€1.65bn** herijk **€2.82bn** · **begrotingsfondsen** end **€856.5m** (Klimaat cum deficit **~€54m**; Energie desaffect **46.2 vs 56.2**; buffer **+€58.5m**; index under **€48.3+7.0m**).
+- **Federal E1 + SS (tick674–675, 677):** E1 deficit aju **€24.5bn** path **€36.2bn 2029** · interest **€12.3→17.5bn** · BE vs MTFSP gap **−2.5pp** · SS exp **€148.027bn** / rec **€148.002bn** near-balance · RIZIV care **€43.857bn** save miss **€183m**/€801m · AO slip **−€129m** path **−€323m 2029** · alt finance **€27.583bn** (BTW **€19.6bn** + RV **€7.9bn**) · RSZ-GB dots **€8.66bn** / evenwicht settle **−€547.5m** · contribution reductions **€5.14bn**.
+- **Energy + nonfiscal (tick676, 679):** energy stack **~€2.6bn** (DG **1.2** + assign **1.4**) · Elia GSC **€552m** + CRM **€169.9m** · Phoenix CfD **€583.6m** strike unknown · nonfiscal **€7.83–7.85bn** · customs retention **€1.014bn** · SFPIM dividend **€78.4m** underbooked **€22.6m** · CREG refund **€285m** path **€412m**.
+- **Dual map:** Entity II ratings **A1 / Baa1 / A3** · SS care dual AViQ/WVG · energy dual VEKA/GSC · SFPIM vs Finocas holdings · near-balance SS rec/exp.
+
+---
+
 ## Snapshot at **tick 670** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
