@@ -7883,3 +7883,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+45); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_vl_ba2026_receipts_omgeving_l5; rq_663=done; spawn rq_664; loop_state ticks=672
 - FOI opened: gap_vl_ba2026_receipts_omgeving_l5 -- ready (not sent)
 - Next: rq_664; progress@680 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T10:00:00Z -- tick 673
+- Unit: rq_664 (FOI-adjacent dual residual -- **VL BA2026 WVG WZC/VIPA + Lantis VAK 2.48bn dual AViQ**)
+- Found (primary CoA 2026_28): **WZC VEK BA EUR2.738bn** (BO 2.766; CoA min **2.774** gap **35.9**); BTZ existing BA **2677.5** CoA **2717.4**; growth BA **16.1** CoA half **8.0**; controls **-8** not feasible; **VIPA** buffer stop **22.9** need VEK **63.9** budget **37.3** shortfall **26.6**; reserves **12** unlikely 2026. **Lantis VAK EUR2.479bn** (exog **1006.8** PFAS **842.8** overkap **629.8**); loan **1650** herijk 2035 min takeover **2822.3**; VEK **1196.8** (+107); draw **1158** (+261). **GIP** one-year **3685** (-179). Dual AViQ/Oosterweel. Strong CoA; L5 FOI.
+- Wrote: entities (+2); budgets (+35); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_vl_ba2026_wvg_lantis_l5; rq_664=done; spawn rq_665; loop_state ticks=673
+- FOI opened: gap_vl_ba2026_wvg_lantis_l5 -- ready (not sent)
+- Next: rq_665; progress@680 in 7 ticks; rq_116 deferred
