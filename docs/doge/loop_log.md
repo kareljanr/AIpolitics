@@ -7678,3 +7678,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+36); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_encours_section_part_l5_2025; rq_639=done; spawn rq_640; loop_state ticks=648
 - FOI opened: gap_encours_section_part_l5_2025 -- ready (not sent)
 - Next: rq_640; progress@650 in 2 ticks; rq_116 deferred
+
+### 2026-08-01T04:00:00Z -- tick 649
+- Unit: rq_640 (FOI-adjacent dual finance hole-fill -- **FA+missions Table10 + OCPP Table11** dual PMV + fiscal circulation)
+- Found: **FA+MD** (primary CoA Table10): BI2025 **+EUR74.8m** (path **-EUR19.5m**). FA **EUR67.0m** (CRAC **EUR13.1m** / Sowafinal **EUR53.9m** SF-I **EUR34.1m** SF-II **EUR19.8m**; dots **EUR72.9m** vs repay **EUR19.0m**). Missions **EUR7.8m** (WE **EUR13.3m** / SPAQuE **-EUR8.3m**). **OCPP:** budget **EUR212.1m** / after GW corr **EUR435.3m** / expose **EUR309.9m** / **requalif margin EUR125.4m** (path **+EUR35.9m**; Kyoto **EUR133.4m** + Renopack **EUR71.2m**). Companion **circulation EUR778.8m** (TC **EUR610m** / TMC **EUR169m**; encours **EUR256m** douteux **EUR53m**). Dual **PMV/VL vehicle tax**. Strong confidence CoA; L5 residual FOI.
+- Wrote: entities (+2); budgets (+40); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_fa_ocpp_requalif_l5_2025; rq_640=done; spawn rq_641; loop_state ticks=649
+- FOI opened: gap_fa_ocpp_requalif_l5_2025 -- ready (not sent)
+- Next: rq_641; **progress@650 NEXT tick**; rq_116 deferred

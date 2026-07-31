@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T03:45:00Z,rq_639,648,no,tick648 encours 7.57bn section part EU dual EFRO; next rq_640; progress@650 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T04:00:00Z,rq_640,649,no,tick649 FA+OCPP requalif 125m dual PMV; next rq_641; progress@650 NEXT; rq_116 deferred

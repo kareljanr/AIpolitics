@@ -11836,3 +11836,44 @@ bud_effort_structurel_dep_bi2025,wallonie_gov,2025,242782000,,,budgeted,src_ccre
 bud_total_cl_bi2025_wal,wallonie_gov,2025,22029416000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Total general CL BI2025 22029.416m CoA DO table; tick648
 bud_total_ce_bi2025_wal,wallonie_gov,2025,21016449000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Total general CE BI2025 21016.449m CoA DO table; tick648
 bud_exec_cl_12nov2024_wal,wallonie_gov,2024,16428938000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,Execution CL 12Nov2024 16428.938m (75.4pct of BA CL); tick648
+bud_fa_md_total_bi2025,financement_alternatif_wal,2025,74767000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,FA+missions deleguees SEC impact BI2025 +74.767m path -19.544m; tick649
+bud_fa_md_total_ba2024,financement_alternatif_wal,2024,94311000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,FA+MD SEC impact BA2024 +94.311m; tick649
+bud_fa_total_bi2025,financement_alternatif_wal,2025,66973000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Financement alternatif subtotal BI2025 +66.973m path -11.543m; tick649
+bud_fa_crac_total_bi2025,crac,2025,13067000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,CRAC total FA impact BI2025 +13.067m path -13.218m; tick649
+bud_fa_crac_fa_bi2025,crac,2025,21928000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,CRAC financement alternatif BI2025 +21.928m path +2.135m; tick649
+bud_fa_crac_pwi_bi2025,crac,2025,-12213000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,CRAC FA PWI BI2025 -12.213m path +4.920m; tick649
+bud_fa_crac_lt_bi2025,crac,2025,3352000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,CRAC long terme BI2025 +3.352m path -20.273m; tick649
+bud_fa_sowafinal_total_bi2025,sowafinal,2025,53906000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Sowafinal total SEC impact BI2025 +53.906m path +1.675m; tick649
+bud_fa_sowafinal_i_bi2025,sowafinal,2025,34081000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Sowafinal I BI2025 +34.081m; tick649
+bud_fa_sowafinal_ii_bi2025,sowafinal,2025,19825000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Sowafinal II BI2025 +19.825m; tick649
+bud_fa_sowafinal_dots_bi2025,sowafinal,2025,72900000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Sowafinal dots verses 72.9m vs repay charges 19.0m (positive SEC); tick649
+bud_fa_sowafinal_repay_bi2025,sowafinal,2025,19000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Sowafinal charges remboursement emprunts 19.0m; tick649
+bud_md_total_bi2025,financement_alternatif_wal,2025,7794000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Missions deleguees total BI2025 +7.794m path -8.001m; tick649
+bud_md_sowaer_bi2025,sowaer,2025,2822000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Missions SOWAER BI2025 +2.822m; tick649
+bud_md_we_bi2025,wallonie_entreprendre,2025,13297000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Missions WE BI2025 +13.297m path -0.818m; tick649
+bud_md_spaque_bi2025,spaque,2025,-8325000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Missions SPAQuE BI2025 -8.325m path -10.774m (Sarec+Happe-Chapois); tick649
+bud_md_flw_bi2025,flw,2025,0,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Missions FLW BI2025 0 path +3.040m vs BA -3.040m; tick649
+bud_ocpp_budget_bi2025,ocpp_wal,2025,212113000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP budget net (A) BI2025 212.113m path -77.837m; tick649
+bud_ocpp_dep_bi2025,ocpp_wal,2025,881173000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP depenses CL BI2025 881.173m path -84.118m; tick649
+bud_ocpp_rec_bi2025,ocpp_wal,2025,669060000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP recettes BI2025 669.060m path -6.281m; tick649
+bud_ocpp_budget_ba2024,ocpp_wal,2024,289950000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP budget net BA2024 289.950m; tick649
+bud_ocpp_gw_corr_bi2025,ocpp_wal,2025,223174000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,GW corrections depenses non-code8 (B) BI2025 223.174m path +11.466m; tick649
+bud_ocpp_corr_kyoto_bi2025,ocpp_wal,2025,133368000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP corr Fonds Kyoto non-code8 133.368m BI2025; tick649
+bud_ocpp_corr_env_bi2025,ocpp_wal,2025,10500000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP corr Fonds protection env 10.5m; tick649
+bud_ocpp_corr_prw_bi2025,ocpp_wal,2025,8106000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP corr PRW invest 8.106m path -48.219m; tick649
+bud_ocpp_corr_renopack_bi2025,ocpp_wal,2025,71200000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP corr Ecopack/Renopack 71.2m path +43.502m; tick649
+bud_ocpp_after_corr_bi2025,ocpp_wal,2025,435287000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP after GW corrections (C) BI2025 435.287m path -66.371m; tick649
+bud_ocpp_expose_corr_bi2025,ocpp_wal,2025,309917000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,OCPP correction expose general (D) BI2025 309.917m path -102.232m; tick649
+bud_ocpp_requalif_margin_bi2025,ocpp_wal,2025,125370000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Marge de requalification OCPP (C-D) BI2025 125.370m path +35.861m; tick649
+bud_ocpp_requalif_margin_ba2024,ocpp_wal,2024,89509000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Marge requalification OCPP BA2024 89.509m; tick649
+bud_fiscal_circulation_total_bi2025,wallonie_gov,2025,778769000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Impots circulation BI2025 778.769m path +39.79m vs BA 738.979; dual VL vehicle tax; tick649
+bud_fiscal_taxe_circulation_bi2025,wallonie_gov,2025,610164000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Taxe de circulation BI2025 610.164m path +27.055m; tick649
+bud_fiscal_tmc_ecomalus_bi2025,wallonie_gov,2025,168605000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,TMC+ecomalus BI2025 168.605m path +12.735m (reform 2025-07-01 +10m); tick649
+bud_fiscal_circulation_encours_sep2024,wallonie_gov,2024,256200000,,,outturn,src_ccrek_fa_ocpp_bi2025,strong,Encours taxes circulation 256.2m at 30Sep2024 of which douteux 53.1m; tick649
+bud_fiscal_circulation_douteux_sep2024,wallonie_gov,2024,53100000,,,outturn,src_ccrek_fa_ocpp_bi2025,strong,Creances douteuses circulation 53.1m of 256.2m encours; tick649
+bud_fiscal_jeux_paris_bi2025,wallonie_gov,2025,45000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Jeux et paris BI2025 45.0m; tick649
+bud_fiscal_appareils_divert_bi2025,wallonie_gov,2025,20000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Appareils automatiques divertissement BI2025 20.0m; tick649
+bud_fiscal_precompte_immo_bi2025,wallonie_gov,2025,49200000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Precompte immobilier regional share 1.25pct BI2025 49.2m; tick649
+bud_fiscal_taxes_automates_bi2025,wallonie_gov,2025,16800000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Taxes regionales automates BI2025 16.8m (mats pylones suppressed); tick649
+bud_nonfiscal_dividendes_bi2025,wallonie_gov,2025,55000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Participation benefices entreprises 55.0m incl FN Herstal 15.0m; tick649
+bud_nonfiscal_fn_herstal_div_bi2025,wallonie_gov,2025,15000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Dividendes FN Herstal class 15.0m within 55m; tick649
