@@ -10886,3 +10886,33 @@ bud_idelux_env_eqh_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025
 bud_idelux_eau_m3_2025,idelux_eau,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Eau 41.9 Mm3 eaux usees epurees 2025; volume not EUR; tick588
 bud_idelux_env_biometh_t_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Env biomethanisation 36827 t 2025; elec 8988 MWh thermal 9725 MWh; tick588
 bud_idelux_env_cout_total_est_2025,idelux_environnement,2025,44304000,,,outturn,src_idelux_ra_2025,medium,IDELUX Env implied commune bill ~114.20*387952 EqH ~44.3m 2025; medium recon not full CA; tick588
+bud_tibi_ca_2025,tibi,2025,25404483,,,outturn,src_tibi_rg_2025,strong,Tibi chiffre d affaires 25.404m 2025 (vs 23.173m 2024); tick589
+bud_tibi_ventes_2025,tibi,2025,41410425,,,outturn,src_tibi_rg_2025,strong,Tibi ventes et prestations 41.410m 2025; tick589
+bud_tibi_other_op_prod_2025,tibi,2025,15919220,,,outturn,src_tibi_rg_2025,strong,Tibi autres produits exploitation 15.919m 2025; tick589
+bud_tibi_costs_2025,tibi,2025,97728098,,,outturn,src_tibi_rg_2025,strong,Tibi cout ventes prestations 97.728m 2025; tick589
+bud_tibi_services_2025,tibi,2025,33236899,,,outturn,src_tibi_rg_2025,strong,Tibi achats services biens divers 33.237m 2025; tick589
+bud_tibi_personnel_2025,tibi,2025,47018316,,,outturn,src_tibi_rg_2025,strong,Tibi remunerations charges pensions 47.018m 47.8pct of costs 2025; tick589
+bud_tibi_amort_prov_2025,tibi,2025,15010708,,,outturn,src_tibi_rg_2025,strong,Tibi amort RV provisions 15.011m (amort 8.874m + provisions 6.137m) 2025; tick589
+bud_tibi_op_result_2025,tibi,2025,-56317673,,,outturn,src_tibi_rg_2025,strong,Tibi perte exploitation -56.318m 2025; tick589
+bud_tibi_fin_prod_2025,tibi,2025,2384237,,,outturn,src_tibi_rg_2025,strong,Tibi produits financiers 2.384m 2025; tick589
+bud_tibi_fin_charges_2025,tibi,2025,798455,,,outturn,src_tibi_rg_2025,strong,Tibi charges financieres 0.798m 2025; tick589
+bud_tibi_tax_2025,tibi,2025,107961,,,outturn,src_tibi_rg_2025,strong,Tibi impots 0.108m 2025; tick589
+bud_tibi_net_result_2025,tibi,2025,-54839851,,,outturn,src_tibi_rg_2025,strong,Tibi perte exercice a affecter -54.840m 2025; tick589
+bud_tibi_retrocession_2025,tibi,2025,12101586,,,outturn,src_tibi_rg_2025,strong,Tibi retrospections produits affectes 12.102m 2025; tick589
+bud_tibi_cout_net_communes_2025,tibi,2025,42738265,,,outturn,src_tibi_rg_2025,strong,Tibi cout net des communes 42.738m 2025 (vs 42.576m 2024); tick589
+bud_tibi_assets_2025,tibi,2025,151020494,,,outturn,src_tibi_rg_2025,strong,Tibi total bilan 151.020m 2025 (vs 146.149m 2024); tick589
+bud_tibi_fixed_assets_2025,tibi,2025,83826905,,,outturn,src_tibi_rg_2025,strong,Tibi actifs immobilises 83.827m 2025; tick589
+bud_tibi_tangible_2025,tibi,2025,83108627,,,outturn,src_tibi_rg_2025,strong,Tibi immobilisations corporelles 83.109m 2025; tick589
+bud_tibi_current_assets_2025,tibi,2025,67193589,,,outturn,src_tibi_rg_2025,strong,Tibi actifs circulants 67.194m 2025; tick589
+bud_tibi_placements_2025,tibi,2025,15154045,,,outturn,src_tibi_rg_2025,strong,Tibi placements tresorerie 15.154m 2025; tick589
+bud_tibi_cash_2025,tibi,2025,2392650,,,outturn,src_tibi_rg_2025,strong,Tibi valeurs disponibles 2.393m 2025; tick589
+bud_tibi_equity_2025,tibi,2025,26846788,,,outturn,src_tibi_rg_2025,strong,Tibi capitaux propres 26.847m 2025; tick589
+bud_tibi_subsides_capital_2025,tibi,2025,16114748,,,outturn,src_tibi_rg_2025,strong,Tibi subsides en capital 16.115m 2025; tick589
+bud_tibi_provisions_2025,tibi,2025,30056270,,,outturn,src_tibi_rg_2025,strong,Tibi provisions 30.056m (GER UVE 5.617m + responsabilisation etc 24.439m) 2025; tick589
+bud_tibi_dettes_2025,tibi,2025,94117437,,,outturn,src_tibi_rg_2025,strong,Tibi dettes totales 94.117m 2025; tick589
+bud_tibi_lt_debt_2025,tibi,2025,62443034,,,outturn,src_tibi_rg_2025,strong,Tibi dettes LT 62.443m (UVE rehab line 52.507m) 2025; tick589
+bud_tibi_st_debt_2025,tibi,2025,26006622,,,outturn,src_tibi_rg_2025,strong,Tibi dettes ST 26.007m 2025; tick589
+bud_tibi_incineration_tax_2025,tibi,2025,1757396,,,outturn,src_tibi_rg_2025,strong,Tibi taxe d incineration 1.757m 2025; tick589
+bud_tibi_residual_kg_hab_2025,tibi,2025,0,,,outturn,src_tibi_ra_2025,strong,Tibi dechets residuels 146 kg/hab 2025 total 431 kg/hab; not EUR; tick589
+bud_tibi_recyparc_t_2025,tibi,2025,0,,,outturn,src_tibi_ra_2025,strong,Tibi recyparcs 82969 t 775298 visits 2025; not EUR; tick589
+bud_tibi_pop_2025,tibi,2025,0,,,outturn,src_tibi_ra_2025,strong,Tibi zone 428772 habitants 14 communes 2025; not EUR; tick589

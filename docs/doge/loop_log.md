@@ -7182,3 +7182,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+idelux_environnement +idelux_eau); budgets (+20); commitments (+3); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_idelux_env_bilan_l5_2025; rq_579=done; spawn rq_580; loop_state ticks=588
 - FOI opened: gap_idelux_env_bilan_l5_2025 → ready (not sent)
 - Next: rq_580; progress@590 in 2 ticks; rq_116 deferred
+
+### 2026-07-31T13:00:00Z — tick 589
+- Unit: rq_580 (FOI-adjacent dual waste hole-fill — **Tibi** Charleroi region)
+- Found: **Tibi** RG 2025 (primary PDF AG 24 Jun 2026, 101 pp) + RA 2025. **CA €25.404m** (ventes €41.410m); **op loss −€56.318m**; **net −€54.840m**; **cout net communes €42.738m** (after retrospections €12.102m). **Assets €151.020m**; **equity €26.847m**; **dettes €94.117m** (LT €62.443m of which UVE rehab **€52.507m** ST €26.007m); **provisions €30.056m** (GER 5.6 + responsabilisation 24.4); personnel **€47.018m** (47.8% of costs); **14 communes / 428 772 hab**; residual **146 kg/hab** total **431 kg/hab**; 14 recyparcs 82 969 t. Dual COPIDEC: largest commune bill vs IDELUX/IPALLE profits / Intradel loss. Strong confidence.
+- Wrote: entities (+tibi); budgets (+30); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_tibi_commune_l5_2025; rq_580=done; spawn rq_581; loop_state ticks=589
+- FOI opened: gap_tibi_commune_l5_2025 → ready (not sent)
+- Next: rq_581; **progress@590 next tick**; rq_116 deferred
