@@ -6657,3 +6657,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +56; cmt +4; lb +8; FOI **gap_e1_measures_delivery_l5** ready+draft; rq_539=done spawn **rq_540**; ticks=548
 - FOI opened: gap_e1_measures_delivery_l5 (ready, human send) - not sent
 - Next: prio5 **rq_540**; deferred **rq_116** SWA; progress@550 in 2 ticks
+
+### 2026-07-31T08:50:00Z - tick 549
+- Unit: **rq_540** (FOI-adjacent hole-fill - **expose Part I sensitivity Tables35-36 + SPB one-offs L5 + consol multi-year 2027-29**)
+- Found (strong primary DOC 56 1278/001):
+  - **Rate shock +100bp:** interest **+EUR 0.93 / 1.49 / 2.20 / 2.79bn** 2026-29 (0.14-0.39% GDP)
+  - **Growth shock -0.5pp/yr:** financing hit **-1.4 / -2.9 / -4.6 / -6.4bn**; saldo after **-26.0 to -37.5bn**
+  - **SPB Table7:** **-11.056bn 2025** (-1.7%) / **-11.601bn 2026** (-1.8%); cycle **-1014/-1303m**
+  - **One-offs L5:** Belfius div **+500m** both yrs; BVH **-221**; BFW **-279/+234**; textile **-92**; tax-free **-159** 2026
+  - **Consol ESA 2027-29:** **+1.098 / +1.209 / +0.981bn**; FPIM **610-650**; Hedera **381-465**; Infrabel **-119 to -96**; debt impact **~1.2-1.3bn**
+  - Dual SPB T7 vs T32 ~**1.3bn** residual
+- Wrote: sources +3; budgets +58; cmt +4; lb +8; FOI **gap_e1_sensitivity_oneoff_method** ready+draft; rq_540=done spawn **rq_541**; ticks=549
+- FOI opened: gap_e1_sensitivity_oneoff_method (ready, human send) - not sent
+- Next: prio5 **rq_541** = **progress@550 mandatory** on next tick; deferred **rq_116**

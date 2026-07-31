@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T08:45:00Z,rq_539,548,no,tick548 E1 nopol/SPB/debt path done; next prio5 rq_540; progress@550 in 2; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-31T08:50:00Z,rq_540,549,no,tick549 sensitivity+oneoffs+consol done; next rq_541 **progress@550**; rq_116 SWA deferred.

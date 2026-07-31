@@ -9643,3 +9643,62 @@ bud_e1_debt_stock_est_2026,sec_federal,2026,566729000000,,,derived,src_kamer_exp
 bud_e1_debt_stock_est_2029,sec_federal,2029,654386000000,,,derived,src_kamer_expose_e1_debt_table34_2026,medium,Derived 90.3pct*724.680bn ~654.4bn E1 debt stock 2029; tick548
 bud_e1_nopol_vs_post_wedge_2029,sec_federal,2029,7900000000,,,derived,src_kamer_expose_e1_path_2026_29,strong,Dual no-policy financing -39.1 vs post -31.2 = measures wedge 7.9bn ~Table30 +8.0; tick548
 bud_dual_e1_spb_vs_mtfsp_2029,gg_belgium,2029,-12500000000,,,derived,src_dual_e1_spb_mtfsp_tick548,strong,Dual E1 SPB -12.5bn/-1.7pct vs MTFSP GG SPB target +0.6pct 2029; tick548
+bud_e1_rate_shock_interest_2026,sec_federal,2026,930000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 +100bp from Sep2025 interest cost +0.93bn 2026 (0.14pct GDP); tick549
+bud_e1_rate_shock_interest_2027,sec_federal,2027,1490000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 rate shock interest +1.49bn 2027 (0.22pct); tick549
+bud_e1_rate_shock_interest_2028,sec_federal,2028,2200000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 rate shock interest +2.20bn 2028 (0.31pct); tick549
+bud_e1_rate_shock_interest_2029,sec_federal,2029,2790000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 rate shock interest +2.79bn 2029 (0.39pct); tick549
+bud_e1_rate_shock_lt_2026,sec_federal,2026,370000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 LT debt interest impact 0.37bn 2026; tick549
+bud_e1_rate_shock_st_2026,sec_federal,2026,550000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 ST debt interest impact 0.55bn 2026; tick549
+bud_e1_rate_shock_lt_2029,sec_federal,2029,2110000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 LT debt interest impact 2.11bn 2029; tick549
+bud_e1_rate_shock_st_2029,sec_federal,2029,680000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table35 ST debt interest impact 0.68bn 2029; tick549
+bud_e1_growth_shock_impact_2026,sec_federal,2026,-1400000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table36 -0.5pp growth each year from 2025: financing impact -1.4bn 2026; tick549
+bud_e1_growth_shock_impact_2027,sec_federal,2027,-2900000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table36 growth shock financing -2.9bn 2027; tick549
+bud_e1_growth_shock_impact_2028,sec_federal,2028,-4600000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table36 growth shock financing -4.6bn 2028; tick549
+bud_e1_growth_shock_impact_2029,sec_federal,2029,-6400000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table36 growth shock financing -6.4bn 2029 (0.9pct GDP); tick549
+bud_e1_financing_after_growth_shock_2026,sec_federal,2026,-26000000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table36 financing after growth shock -26.0bn 2026; tick549
+bud_e1_financing_after_growth_shock_2029,sec_federal,2029,-37500000000,,,budgeted,src_kamer_expose_e1_sensitivity_2026,strong,Table36 financing after growth shock -37.5bn 2029; tick549
+bud_e1_spb_2025_reest,sec_federal,2025,-11056000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 SPB re-est -11.056bn 2025 (-1.7pct GDP); tick549
+bud_e1_spb_2026_initial_t7,sec_federal,2026,-11601000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 SPB initial -11.601bn 2026 (-1.8pct); dual Table32 -12.9bn multi-year path class; tick549
+bud_e1_spb_delta_2026_vs_2025,sec_federal,2026,-545000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 SPB worsens -545m 2026 vs 2025 re-est; tick549
+bud_e1_financing_2025_reest,sec_federal,2025,-23046000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 financing re-est -23.046bn 2025; tick549
+bud_e1_financing_2026_t7,sec_federal,2026,-24637000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 financing initial -24.637bn 2026 dual Table31 -24.6; tick549
+bud_e1_struct_saldo_2025,sec_federal,2025,-21826000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 structural saldo -21.826bn 2025; tick549
+bud_e1_struct_saldo_2026_t7,sec_federal,2026,-23769000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Table7 structural saldo -23.769bn 2026; tick549
+bud_e1_cycle_corr_2025,sec_federal,2025,-1014000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Cycle corr Entity I -1014m 2025 (OG -0.4pct); tick549
+bud_e1_cycle_corr_2026,sec_federal,2026,-1303000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Cycle corr Entity I -1303m 2026 (OG -0.5pct); tick549
+bud_e1_oneoff_bvh_2025,fod_finance,2025,-221000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off bedrijfsvoorheffing reform -221m 2025; tick549
+bud_e1_oneoff_bfw_2025,sec_federal,2025,-279000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off BFW settlements -279m 2025; tick549
+bud_e1_oneoff_bfw_2026,sec_federal,2026,234000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off BFW settlements +234m 2026; tick549
+bud_e1_oneoff_textile_cn_2025,fod_finance,2025,-92000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off Chinese textile late interest -92m 2025; tick549
+bud_e1_oneoff_belfius_div_2025,sec_federal,2025,500000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off Belfius dividend +500m 2025; tick549
+bud_e1_oneoff_belfius_div_2026,sec_federal,2026,500000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off Belfius dividend +500m 2026; tick549
+bud_e1_oneoff_taxfree_2026,fod_finance,2026,-159000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,One-off fiscal reform tax-free sum -159m 2026; tick549
+bud_e1_transfer_corr_2025,sec_federal,2025,-115000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Transfer correction HRF -115m 2025 (-0.02pct GDP); tick549
+bud_e1_transfer_corr_2026,sec_federal,2026,-140000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Transfer correction HRF -140m 2026; tick549
+bud_e1_primary_deficit_2026_exact,sec_federal,2026,-12469000000,,,budgeted,src_kamer_expose_e1_spb_oneoffs_2025_26,strong,Text primary deficit Entity I 12469m 2026 dual Table31 -12.5bn; tick549
+bud_consol_esa_saldo_2027,sec_federal,2027,1097700000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 consol ESA saldo +1097.7m 2027; tick549
+bud_consol_esa_saldo_2028,sec_federal,2028,1209400000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 consol ESA saldo +1209.4m 2028; tick549
+bud_consol_esa_saldo_2029,sec_federal,2029,980700000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 consol ESA saldo +980.7m 2029; tick549
+bud_consol_primary_esa_2027,sec_federal,2027,1166200000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 consol primary ESA +1166.2m 2027; tick549
+bud_consol_primary_esa_2029,sec_federal,2029,1054900000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 consol primary ESA +1054.9m 2029; tick549
+bud_consol_debt_impact_2027,sec_federal,2027,1222900000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table39 consol debt impact +1222.9m 2027; tick549
+bud_consol_debt_impact_2028,sec_federal,2028,1327200000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table39 consol debt impact +1327.2m 2028; tick549
+bud_consol_debt_impact_2029,sec_federal,2029,1204700000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table39 consol debt impact +1204.7m 2029; tick549
+bud_fpim_saldo_2027,sec_federal,2027,610300000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 FPIM ESA saldo +610.3m 2027; tick549
+bud_fpim_saldo_2028,sec_federal,2028,622200000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 FPIM +622.2m 2028; tick549
+bud_fpim_saldo_2029,sec_federal,2029,649700000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 FPIM +649.7m 2029; tick549
+bud_hedera_saldo_2027,sec_federal,2027,381000000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Hedera +381.0m 2027; tick549
+bud_hedera_saldo_2028,sec_federal,2028,449100000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Hedera +449.1m 2028; tick549
+bud_hedera_saldo_2029,sec_federal,2029,464900000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Hedera +464.9m 2029; tick549
+bud_aseva_saldo_2027,sec_federal,2027,85800000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 ASEVA/Apetra +85.8m 2027; tick549
+bud_aseva_saldo_2029,sec_federal,2029,81400000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 ASEVA +81.4m 2029; tick549
+bud_infrabel_saldo_2027,infrabel,2027,-119400000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Infrabel+SPV -119.4m 2027; tick549
+bud_infrabel_saldo_2028,infrabel,2028,-121200000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Infrabel+SPV -121.2m 2028; tick549
+bud_infrabel_saldo_2029,infrabel,2029,-95600000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Infrabel+SPV -95.6m 2029; tick549
+bud_bio_saldo_2027,sec_federal,2027,5400000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 BIO development finance +5.4m 2027; tick549
+bud_bio_saldo_2028,sec_federal,2028,30500000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 BIO +30.5m 2028; tick549
+bud_bio_saldo_2029,sec_federal,2029,34400000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 BIO +34.4m 2029; tick549
+bud_bipt_saldo_2027,bipt,2027,25000000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 BIPT +25.0m 2027; tick549
+bud_dexia_holding_saldo_2027,sec_federal,2027,-4900000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Dexia Holding -4.9m 2027; tick549
+bud_dexia_holding_saldo_2029,sec_federal,2029,4000000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Dexia Holding +4.0m 2029; tick549
+bud_dual_spb_t7_vs_t32_2026,sec_federal,2026,1299000000,,,derived,src_kamer_expose_e1_spb_oneoffs_2025_26,medium,Dual Table7 SPB -11.601 vs Table32 -12.9 = ~1.3bn path method residual; tick549
