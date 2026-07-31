@@ -1,7 +1,7 @@
 # Clowns & Genius — weekly pack
 
-Auto-generated 2026-07-30 14:03 UTC.
-Scored proposals in pack universe: **14**.
+Auto-generated 2026-07-31 14:03 UTC.
+Scored proposals in pack universe: **15**.
 
 ## This week’s clowns
 

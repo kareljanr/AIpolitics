@@ -3,7 +3,7 @@
 Highest **clownpoints** among scored proposals (medium/strong confidence).
 Rubric: [docs/09-proposal-radar.md](../../09-proposal-radar.md)
 
-Last refresh: 2026-07-30 14:03 UTC
+Last refresh: 2026-07-31 14:03 UTC
 
 | Rank | Clown | Genius | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |
 |------|------:|-------:|------:|--------------:|----------------:|------------:|-------|------|
@@ -14,10 +14,11 @@ Last refresh: 2026-07-30 14:03 UTC
 | 5 | 6.0 | 4.0 | -2.0 |  |  |  | Federal antifraud revenue path EUR 300m (2026) / 1.2bn legislature + 300 investigators | [memo](../analyses/prop_2026_jambon_antifraud_300m.md) |
 | 6 | 5.5 | 3.5 | -2.0 | 3067.0 | 2016.9 | 25.16 | Volvo Car Gent support package up to EUR 119m (Flanders + federal MoU) | [memo](../analyses/prop_2026_volvo_gent_119m.md) |
 | 7 | 4.5 | 4.0 | -0.5 |  |  |  | Introduce capital gains tax (Arizona) | [memo](../analyses/prop_2025_cgt_capital_gains.md) |
-| 8 | 4.0 | 4.5 | 0.5 | 2561.9 | 1684.7 | 21.02 | Flanders Syntrum/Syntra funding €49.7m (2026-27 transition year) | [memo](../analyses/prop_2026_vl_syntra_49m.md) |
-| 9 | 3.5 | 3.5 | 0.0 | 128.9 | 84.7 | 1.06 | Ban keeping cetaceans in captivity by end-2036 (Flanders) | [memo](../analyses/prop_2026_dolphin_ban_2036.md) |
-| 10 | 3.5 | 5.0 | 1.5 | -13144.3 | -8644.1 | -107.84 | FWB 2026 budget: ~€255m savings package | [memo](../analyses/prop_2026_fwb_budget_cuts_255m.md) |
-| 11 | 3.0 | 6.0 | 3.0 |  |  |  | Centenindex: temporary limit on automatic wage/pension indexation | [memo](../analyses/prop_2026_centenindex.md) |
-| 12 | 3.0 | 6.5 | 3.5 |  |  |  | Degressive voluntary-return reintegration support (Syria priority; cut visa-free misuse) | [memo](../analyses/prop_2026_vanbossuyt_return_reintegration.md) |
-| 13 | 2.0 | 7.5 | 5.5 |  |  |  | Time-limit unemployment benefits (Arizona) | [memo](../analyses/prop_2025_unemp_time_limit.md) |
-| 14 | 1.5 | 7.0 | 5.5 | -43814.4 | -28813.6 | -359.46 | Phase-out tax deductibility of fossil company cars from 2026 | [memo](../analyses/prop_2021_company_car_ice_2026.md) |
+| 8 | 4.5 | 5.5 | 1.0 |  |  |  | Flanders Bestuursdecreet amendment — whistleblower (klokkenluiders) regime reform | [memo](../analyses/prop_2026_vl_klokkenluiders_bestuursdecreet.md) |
+| 9 | 4.0 | 4.5 | 0.5 | 2561.9 | 1684.7 | 21.02 | Flanders Syntrum/Syntra funding €49.7m (2026-27 transition year) | [memo](../analyses/prop_2026_vl_syntra_49m.md) |
+| 10 | 3.5 | 3.5 | 0.0 | 128.9 | 84.7 | 1.06 | Ban keeping cetaceans in captivity by end-2036 (Flanders) | [memo](../analyses/prop_2026_dolphin_ban_2036.md) |
+| 11 | 3.5 | 5.0 | 1.5 | -13144.3 | -8644.1 | -107.84 | FWB 2026 budget: ~€255m savings package | [memo](../analyses/prop_2026_fwb_budget_cuts_255m.md) |
+| 12 | 3.0 | 6.0 | 3.0 |  |  |  | Centenindex: temporary limit on automatic wage/pension indexation | [memo](../analyses/prop_2026_centenindex.md) |
+| 13 | 3.0 | 6.5 | 3.5 |  |  |  | Degressive voluntary-return reintegration support (Syria priority; cut visa-free misuse) | [memo](../analyses/prop_2026_vanbossuyt_return_reintegration.md) |
+| 14 | 2.0 | 7.5 | 5.5 |  |  |  | Time-limit unemployment benefits (Arizona) | [memo](../analyses/prop_2025_unemp_time_limit.md) |
+| 15 | 1.5 | 7.0 | 5.5 | -43814.4 | -28813.6 | -359.46 | Phase-out tax deductibility of fossil company cars from 2026 | [memo](../analyses/prop_2021_company_car_ice_2026.md) |

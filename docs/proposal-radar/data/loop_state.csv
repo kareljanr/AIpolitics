@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-07-30T14:30:00Z,prop_2026_vanbossuyt_return_reintegration,5,14,no,tick 5 scored Van Bossuyt return reintegration; daily scheduler 019fa3e112ab
+main,analyse,2026-07-31T14:30:00Z,prop_2026_vl_klokkenluiders_bestuursdecreet,6,15,no,tick 6 scored VL klokkenluiders Bestuursdecreet; daily scheduler 019fa3e112ab
