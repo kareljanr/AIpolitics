@@ -13587,3 +13587,22 @@ bud_ss_total_rec_2022_182e,sec_ss,2022,120790000000,,,outturn,src_ccrek_ss_182e_
 bud_ss_total_rec_2023_182e,sec_ss,2023,132159000000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,SS consol rec 132159.0m 2023; tick692
 bud_ss_total_rec_2024_182e,sec_ss,2024,139794800000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,SS consol rec 139794.8m 2024; tick692
 bud_dual_ss_andere_vs_andere_uitg_2026,gg_belgium,2026,7647200000,,,budgeted,src_ccrek_ss_andere_ontvangsten_path,strong,Dual andere ontvangsten 7.65bn vs andere uitgaven 7.40bn class; not additive TE; FOI L5 both; tick692
+bud_fluvius_talks_collapse_note_2026,vlaanderen_gov,2026,1560000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Fluvius board Apr2026 broke off PMV capital inject talks 1.56bn; credits retained conditional; tick693
+bud_fluvius_vak_retained_1560m_2026,vlaanderen_gov,2026,1560000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Fluvius VAK 1.56bn multi-year retained despite talks collapse; tick693
+bud_fluvius_vek_retained_1100m_2026,vlaanderen_gov,2026,1100000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Fluvius VEK 1.1bn BA retained conditional restart; tick693
+bud_fluvius_conditions_merge_voice_class,vlaanderen_gov,2026,0,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Restart conditions: structure simplify + eventual merger + VL government inspraak; no EUR; tick693
+bud_defensiefonds_target_capital_1bn,vlaanderen_gov,2026,1000000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Defensiefonds target mobilize up to 1.0bn public-private capital; tick693
+bud_defensiefonds_vak_rebook_500m_deep,vlaanderen_gov,2026,500000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Defensiefonds VAK 500m re-inscribed BA after eoy2025 cancel no ruiter; tick693
+bud_defensiefonds_vek_first_60m_2026,vlaanderen_gov,2026,60000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Defensiefonds first PMV call VEK 60m (IB was 125; -65); tick693
+bud_defensiefonds_vek_ib_125m_path,vlaanderen_gov,2026,125000000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Defensiefonds first call IB VEK 125m before BA cut to 60; tick693
+bud_lineas_pmv_loan_stock_17_9m,vlaanderen_gov,2026,17900000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,PMV loan to Lineas 17.9m transferred to Vlaams Gewest 30Jan2026; tick693
+bud_lineas_haircut_80pct_14_3m,vlaanderen_gov,2026,14300000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Lineas 80pct haircut ESR correction 14.3m on vorderingensaldo; tick693
+bud_lineas_haircut_pct_80,vlaanderen_gov,2026,80,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Lineas haircut rate 80pct of 17.9m loan; unit pct; tick693
+bud_dual_fluvius_collapse_dso_2026,gg_belgium,2026,1560000000,,,budgeted,src_dual_fluvius_dso_collapse_tick693,strong,Dual Fluvius equity path stalled vs WAL/BCR DSO; not TE-additive; tick693
+bud_vl_debt_consol_56971m_t14,vlaanderen_gov,2026,56971100000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,T14 consol Maastricht debt BA 56971.1m (+6799.1 vs 2025 real 50171.9); tick693
+bud_vl_debt_direct_49802m_t14,vlaanderen_gov,2026,49801600000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,T14 direct debt MVG 49801.6m (+7405 vs 2025); tick693
+bud_vl_debt_entities_7169m_t14,vlaanderen_gov,2026,7169500000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,T14 financial debts consol entities 7169.5m; tick693
+bud_vl_debt_pps_635m_t14,vlaanderen_gov,2026,635200000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,T14 consol PPS debt 635.2m; tick693
+bud_vl_debt_gsc_553m_t14,vlaanderen_gov,2026,553200000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,T14 green certificates stock 553.2m flat; tick693
+bud_vl_hospital_debt_off_maastricht_2184m,vlaanderen_gov,2026,2184300000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Hospital infra debt to fed 2184.3m off Maastricht; missing from algemene toelichting; tick693
+bud_vl_autonomie_factor_debt_474m,vlaanderen_gov,2026,473800000,,,budgeted,src_ccrek_vl_ba2026_fluvius_collapse,strong,Autonomie factor definitive 473.8m off Maastricht to fed; tick693

@@ -8142,3 +8142,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_ss_andere_ontvangsten_l5 — ready (not sent)
 - Next: rq_684; progress@700 in 8 ticks; rq_116 deferred
 
+
+### 2026-08-01T15:00:00Z — tick 693
+- Unit: **rq_684** (FOI-adjacent dual residual — **Fluvius talks collapse + Defensiefonds + Lineas dual DSO**)
+- Found (primary CoA 2026_28 §4.2 + T14):
+  - **Fluvius:** board **Apr2026 broke off** PMV capital inject talks **€1.56bn**; VAK **1.56** / VEK **1.1** **retained** under conditions (structure simplify + eventual **merger** + VL **inspraak**); toelichting silent
+  - **Defensiefonds:** target mobilize **€1.0bn**; VAK **500** rebook; first VEK **60** (IB **125**, **−65**); legal capacity only — **no projects/governance/selection**
+  - **Lineas:** PMV loan **17.9** → region; **80%** haircut ESR **14.3** on vorderingensaldo (alt: capital transfer)
+  - **T14 debt:** consol **56971** (+**6799**); direct **49802**; hospital off-M **2184** + autonomie **474** missing toelichting
+  - Dual ORES/Sibelga. Strong CoA; L5 FOI.
+- Wrote: budgets (+19); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_fluvius_collapse_l5**; rq_684=done; spawn **rq_685**; loop_state ticks=693
+- FOI opened: gap_vl_ba2026_fluvius_collapse_l5 — ready (not sent)
+- Next: rq_685; progress@700 in 7 ticks; rq_116 deferred
+

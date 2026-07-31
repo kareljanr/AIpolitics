@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T14:45:00Z,rq_683,692,no,tick692 SS andere ontvangsten 7.65bn FOI-only L5; next rq_684; progress@700 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T15:00:00Z,rq_684,693,no,tick693 Fluvius talks collapse 1.56 Defensiefonds opaque Lineas 14.3 dual DSO; next rq_685; progress@700 in 7; rq_116 deferred
