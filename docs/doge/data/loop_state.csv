@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:15:00Z,rq_545,554,no,tick554 fiscal assign T11 done; next prio5 rq_546; rq_116 SWA deferred.
+main,continuous,hole_fill,2026-07-31T09:20:00Z,rq_546,555,no,tick555 VL accounts CoA done; next prio5 rq_547; progress@560 in 5; rq_116 deferred.

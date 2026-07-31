@@ -6732,3 +6732,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +40; cmt +4; lb +8; FOI **gap_fiscal_assignment_l5_2026** notes updated (matrix filled; residual per-region); rq_545=done spawn **rq_546**; ticks=554
 - FOI: no new letter; partial fill existing gap - not sent
 - Next: prio5 **rq_546**; deferred **rq_116** SWA
+
+### 2026-07-31T09:20:00Z - tick 555
+- Unit: **rq_546** (FOI-adjacent hole-fill - **CoA Flanders rekeningenrapport 2025**)
+- Found (strong primary Rekenhof 30 Jun 2026 / 2026_32):
+  - **Financing saldo 2025:** **-EUR 3.982bn** (budget **-4.504**; 2024 **-4.101**); clean ESR consol opinion
+  - **Maastricht debt:** **50.172bn** eoy2025 (**+8.383** from 41.789); excess vs BA **1.889** from **PMV Zaventem 2.554bn**
+  - **Ministry ESA:** rec=exp **80.316bn**; contribution to saldo **20.868bn**
+  - **Credit carry to 2026:** **1.415bn** (into 2025: 1.255); **Relance:** spend **399m** 2025; cum commit **4.2** / paid **3.5** / open **0.7bn**
+  - **Balance gaps:** missing land/buildings ~**1.6bn**; art **1.4bn**; Zandvliet wrong **367m**; FWO/FIO commit adj **562+189m**
+  - Opinions: economic **disclaimer** · budget **qualified** · ESA/consol **clean**
+- Wrote: sources +3; budgets +24; cmt +4; lb +8; FOI **gap_vl_accounts_balance_l5** ready+draft; rq_546=done spawn **rq_547**; ticks=555
+- FOI opened: gap_vl_accounts_balance_l5 (ready, human send) - not sent
+- Next: prio5 **rq_547**; deferred **rq_116**; progress@560 in 5 ticks

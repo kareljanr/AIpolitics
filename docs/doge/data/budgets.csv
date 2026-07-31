@@ -9866,3 +9866,27 @@ bud_assign_niras_vat_2026,sec_federal,2026,29500000,,,budgeted,src_kamer_expose_
 bud_assign_aseva_2026,sec_federal,2026,40100000,,,budgeted,src_kamer_expose_fiscal_assign_t11_2026,strong,ASEVA assignment 40.1m 2026; tick554
 bud_dual_t11_cr_comm_2026,gg_belgium,2026,59162700000,,,derived,src_dual_fiscal_assign_graph1_tick554,strong,Dual T11 regions+communities 25.600+33.563=59.163bn cash; Graph1 E2 81.5 residual perimeter; tick554
 bud_dual_t11_ss_alt_i3_2026,sec_ss,2026,27222600000,,,derived,src_dual_fiscal_assign_graph1_tick554,strong,Dual T11 SS alt 27.223 = Part IV alt financing / Graph1 path; tick554
+bud_vl_financing_saldo_2024,vlaanderen_gov,2024,-4101300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VL consolidated financing saldo -4101.3m 2024 CoA; tick555
+bud_vl_financing_saldo_budget_2025,vlaanderen_gov,2025,-4503800000,,,budgeted,src_ccrek_vl_rekeningen_2025,strong,VL financing saldo budget -4503.8m 2025; tick555
+bud_vl_financing_saldo_2025,vlaanderen_gov,2025,-3982400000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VL consolidated financing saldo -3982.4m 2025 CoA clean ESR; tick555
+bud_vl_maastricht_debt_2024,vlaanderen_gov,2024,41788600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VL Maastricht debt contribution 41788.6m eoy2024; tick555
+bud_vl_maastricht_debt_budget_2025,vlaanderen_gov,2025,48283200000,,,budgeted,src_ccrek_vl_rekeningen_2025,strong,VL Maastricht debt budget path 48283.2m 2025 BA; tick555
+bud_vl_maastricht_debt_2025,vlaanderen_gov,2025,50171900000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VL Maastricht debt 50171.9m eoy2025 (+8383.3 YoY); tick555
+bud_vl_maastricht_debt_delta_2025,vlaanderen_gov,2025,8383300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,VL debt rise 8383.3m 2025 of which excess vs BA 1888.7; tick555
+bud_vl_pmv_zaventem_capital_2025,vlaanderen_gov,2025,2553600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,PMV capital raise for Brussels Airport/Zaventem 2553.6m 2025 post-BA amendement; tick555
+bud_vl_ministry_esa_rec_2025,vlaanderen_gov,2025,80315500000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Ministry ESA reporting receipts 80315.5m 2025 clean opinion; tick555
+bud_vl_ministry_esa_exp_2025,vlaanderen_gov,2025,80315500000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Ministry ESA reporting expenditures 80315.5m 2025; tick555
+bud_vl_ministry_saldo_contrib_2025,vlaanderen_gov,2025,20868000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Ministry contribution to financing saldo 20868.0m 2025; tick555
+bud_vl_credit_carry_into_2025,vlaanderen_gov,2025,1255300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Policy credit carry-in to 2025 1255.3m; tick555
+bud_vl_credit_carry_to_2026,vlaanderen_gov,2026,1415300000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Policy credit carry to 2026 1415.3m (index provision underuse); tick555
+bud_vl_relance_spend_2025,vlaanderen_gov,2025,399400000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Vlaamse Veerkracht relance spend 399.4m 2025 (-342.2 vs budget); tick555
+bud_vl_relance_underuse_2025,vlaanderen_gov,2025,342200000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Relance under-execution 342.2m 2025; tick555
+bud_vl_relance_committed_cum_2025,vlaanderen_gov,2025,4200000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Relance total committed 4.2bn eoy2025; tick555
+bud_vl_relance_paid_cum_2025,vlaanderen_gov,2025,3500000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Relance liquidated 3.5bn eoy2025; tick555
+bud_vl_relance_open_2025,vlaanderen_gov,2025,700000000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Relance open commitments 0.7bn eoy2025; tick555
+bud_vl_missing_land_buildings_est,vlaanderen_gov,2025,1600000000,,,estimate,src_ccrek_vl_rekeningen_2025,medium,CoA estimate missing land/buildings still zero-valued ~1.6bn; tick555
+bud_vl_art_collection_balance,vlaanderen_gov,2025,1400000000,,,outturn,src_ccrek_vl_rekeningen_2025,medium,Art collection on balance 1.4bn since 2022; valuation incomplete CoA; tick555
+bud_vl_zandvlietsluis_nbv_2025,vlaanderen_gov,2025,366600000,,,outturn,src_ccrek_vl_rekeningen_2025,strong,Zandvlietsluis NBV 366.6m wrongly on VL books; write-off due 2026 (Port Antwerp-Bruges owner); tick555
+bud_vl_fwo_commitment_adj,vlaanderen_gov,2025,561600000,,,estimate,src_ccrek_vl_rekeningen_2025,strong,Open commitments opening balance still needs +561.6m FWO adjustment; tick555
+bud_vl_fio_commitment_adj,vlaanderen_gov,2025,188600000,,,estimate,src_ccrek_vl_rekeningen_2025,strong,Open commitments FIO adjustment +188.6m still needed; tick555
+bud_dual_vl_debt_zaventem_2025,vlaanderen_gov,2025,2553600000,,,derived,src_dual_vl_debt_zaventem_tick555,strong,Dual debt rise driven by Zaventem equity 2.55bn of +8.38bn; tick555
