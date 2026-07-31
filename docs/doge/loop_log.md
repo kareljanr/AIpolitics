@@ -6910,3 +6910,20 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_nmbs_rrf_ets_l5 (ready, human send) - not sent
 - Next: prio5 **rq_560**; deferred **rq_116**; progress@570 in 2 ticks
 - Note: Infrabel JV2025 PDF (54MB) incomplete download this tick — residual for later
+
+### 2026-07-31T10:30:00Z - tick 569
+- Unit: **rq_560** (FOI-adjacent hole-fill - **Infrabel Jaarverslag 2025 dual NMBS rail**)
+- Found (strong primary Infrabel JV RvB 20 May 2026 PDF, 103 pp):
+  - **REBITDA EUR 127.3m** (93.7m 2024); **EBT 95.0m** (50.8m)
+  - **Omzet 1,425.6m**: heffing **514.8** + staatsdotatie **606.3** (+45.3) + divers **304.5**
+  - **Personnel 844.7m**; FTE eoy **9,768**; hires **652**; training **45.8m**
+  - **Invest executed ~1,266.4m** (96.3% of amendment; balance note **1,281.4m**)
+  - **Balance:** assets **25.73bn**; equity **20.54bn** (cap subsidies **19.27bn**); LT debt **3.33bn**
+  - **Cap subsidy amort 812.9m**; interest sub **32.1m**; Debt Agency draw first **100m** of 1bn line
+  - **ETCS complete:** **6,399 km** main tracks; Masterplan total **~2.8bn** (~100m CEF); dual NMBS fleet 100%
+  - **Punctuality 91.7%**; train-km **98.43m**; freight fee support **10.7m** (to 2030)
+  - **Strike dual:** 27 days; Infrabel fee **-18.6m** / wages **-3.8m**
+  - **Dual rail:** NMBS EBITDA **54.2** / invest **820** / staff **17k** vs Infrabel **127** / **1.27bn** / **9.8k**
+- Wrote: sources +2; budgets +40; cmt +3; lb +8; FOI **gap_infrabel_jv2025_l5** ready+draft; raw PDF; entity; rq_560=done spawn **rq_561**; ticks=569
+- FOI opened: gap_infrabel_jv2025_l5 (ready, human send) - not sent; gap_infrabel_dotatie_cash partial
+- Next: prio5 **rq_561** = **progress@570 mandatory** on next tick; deferred **rq_116**

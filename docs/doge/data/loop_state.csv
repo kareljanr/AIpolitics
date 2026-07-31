@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:25:00Z,rq_559,568,no,tick568 NMBS RRF 66m ETS 22m dual four-PT; next rq_560; progress@570 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T10:30:00Z,rq_560,569,no,tick569 Infrabel JV2025 dual NMBS; next rq_561; progress@570 next; rq_116 deferred

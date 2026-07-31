@@ -10266,3 +10266,43 @@ bud_nmbs_etcs_fleet_pct_2025,nmbs,2025,100,,,outturn,src_nmbs_results_2025_page_
 bud_dual_nmbs_vs_delijn_pax,nmbs,2025,207800000,,,outturn,src_dual_pt_four_layer_tick568,strong,COUNT dual NMBS pax 207.8m vs De Lijn 372.9m 2025 (not additive modes); tick568
 bud_dual_nmbs_vs_tec_pax,nmbs,2025,207800000,,,outturn,src_dual_pt_four_layer_tick568,strong,COUNT dual NMBS 207.8m vs TEC voyages 150.8m; tick568
 bud_dual_nmbs_staff_vs_tec,nmbs,2026,16976,,,outturn,src_dual_pt_four_layer_tick568,strong,COUNT dual NMBS staff 16976 vs TEC 5818 vs De Lijn FTE 7637; tick568
+bud_infrabel_bedrijfsopbr_2025,infrabel,2025,1865680000,,,outturn,src_infrabel_jv_2025,strong,Bedrijfsopbrengsten 1865.68m 2025 (1803.46m 2024); tick569
+bud_infrabel_omzet_2025,infrabel,2025,1425560000,,,outturn,src_infrabel_jv_2025,strong,Omzet 1425.56m 2025 (1369.46m 2024); tick569
+bud_infrabel_omzet_2024,infrabel,2024,1369460000,,,outturn,src_infrabel_jv_2025,strong,Omzet 1369.46m 2024; tick569
+bud_infrabel_infra_heffing_2025,infrabel,2025,514790000,,,outturn,src_infrabel_jv_2025,strong,Infrastructuurheffing 514.79m 2025 (incl freight support netting); tick569
+bud_infrabel_staatsdotatie_2025,infrabel,2025,606250000,,,outturn,src_infrabel_jv_2025,strong,Staatsdotatie in omzet 606.25m 2025 (+45.3m YoY); tick569
+bud_infrabel_staatsdotatie_2024,infrabel,2024,560880000,,,outturn,src_infrabel_jv_2025,strong,Staatsdotatie 560.88m 2024; tick569
+bud_infrabel_omzet_divers_2025,infrabel,2025,304520000,,,outturn,src_infrabel_jv_2025,strong,Divers omzet 304.52m (energy prices down); tick569
+bud_infrabel_geprod_va_2025,infrabel,2025,428490000,,,outturn,src_infrabel_jv_2025,strong,Geproduceerde vaste activa 428.49m 2025; tick569
+bud_infrabel_bedrijfskosten_2025,infrabel,2025,1738380000,,,outturn,src_infrabel_jv_2025,strong,Bedrijfskosten 1738.38m 2025; tick569
+bud_infrabel_personnel_2025,infrabel,2025,844650000,,,outturn,src_infrabel_jv_2025,strong,Personeelskosten 844.65m 2025 (+35.0m); dual HR Rail; tick569
+bud_infrabel_personnel_2024,infrabel,2024,809610000,,,outturn,src_infrabel_jv_2025,strong,Personeelskosten 809.61m 2024; tick569
+bud_infrabel_rebitda_2025,infrabel,2025,127300000,,,outturn,src_infrabel_jv_2025,strong,REBITDA 127.3m 2025 (93.72m 2024 +33.6m); tick569
+bud_infrabel_rebitda_2024,infrabel,2024,93720000,,,outturn,src_infrabel_jv_2025,strong,REBITDA 93.72m 2024; tick569
+bud_infrabel_ebt_2025,infrabel,2025,95010000,,,outturn,src_infrabel_jv_2025,strong,EBT global result 95.01m 2025 (50.81m 2024); tick569
+bud_infrabel_ebt_2024,infrabel,2024,50810000,,,outturn,src_infrabel_jv_2025,strong,EBT 50.81m 2024; tick569
+bud_infrabel_cap_sub_amort_2025,infrabel,2025,812900000,,,outturn,src_infrabel_jv_2025,strong,Afschrijvingen kapitaalsubsidies 812.9m in financial income; tick569
+bud_infrabel_interest_sub_2025,infrabel,2025,32100000,,,outturn,src_infrabel_jv_2025,strong,Interest subsidies 32.1m financial income; tick569
+bud_infrabel_fin_income_2025,infrabel,2025,896700000,,,outturn,src_infrabel_jv_2025,strong,Recurrent financial income 896.7m; tick569
+bud_infrabel_fin_costs_2025,infrabel,2025,104800000,,,outturn,src_infrabel_jv_2025,strong,Recurrent financial costs 104.8m (debt costs 100.1m); tick569
+bud_infrabel_invest_executed_2025,infrabel,2025,1266400000,,,outturn,src_infrabel_jv_2025,strong,Kerncijfers uitgevoerde investeringen 1266.4m; balance note 1281.4m class; tick569
+bud_infrabel_invest_exec_rate_2025,infrabel,2025,96.3,,,outturn,src_infrabel_jv_2025,strong,PCT investment execution vs amendment all sources 96.3; tick569
+bud_infrabel_assets_2025,infrabel,2025,25730800000,,,outturn,src_infrabel_jv_2025,strong,Total assets 25730.8m eoy2025; tick569
+bud_infrabel_equity_2025,infrabel,2025,20536310000,,,outturn,src_infrabel_jv_2025,strong,Eigen vermogen 20536.3m of which capital subsidies 19268.0m; tick569
+bud_infrabel_cap_subs_stock_2025,infrabel,2025,19267980000,,,outturn,src_infrabel_jv_2025,strong,Kapitaalsubsidies stock 19268.0m (+485.4m); tick569
+bud_infrabel_debt_lt_2025,infrabel,2025,3334130000,,,outturn,src_infrabel_jv_2025,strong,Schulden >1yr 3334.1m; tick569
+bud_infrabel_debt_total_2025,infrabel,2025,4952080000,,,outturn,src_infrabel_jv_2025,strong,Total schulden 4952.1m; tick569
+bud_infrabel_fixed_assets_2025,infrabel,2025,22127400000,,,outturn,src_infrabel_jv_2025,strong,Vaste activa 22127.4m (materieel 20696.7m); tick569
+bud_infrabel_freight_fee_support_2025,infrabel,2025,10700000,,,outturn,src_infrabel_jv_2025,strong,Freight infra fee reduction support 10.7m neutral on omzet extended to 2030; tick569
+bud_infrabel_strike_fee_loss_2025,infrabel,2025,18600000,,,outturn,src_infrabel_jv_2025,strong,Strike impact -18.6m infra fee receipts 27 days dual NMBS; tick569
+bud_infrabel_strike_wage_save_2025,infrabel,2025,3800000,,,outturn,src_infrabel_jv_2025,strong,Strike unpaid wages save 3.8m; tick569
+bud_infrabel_debt_agency_draw_2025,infrabel,2025,100000000,,,outturn,src_infrabel_jv_2025,strong,Drew first 100m of 1bn Debt Agency credit line Jan2025; tick569
+bud_infrabel_fte_2025,infrabel,2025,9768,,,outturn,src_infrabel_jv_2025,strong,COUNT FTE eoy2025 9768 (men 8349 women 1419); dual HR Rail; tick569
+bud_infrabel_hires_2025,infrabel,2025,652,,,outturn,src_infrabel_jv_2025,strong,COUNT hires 652 2025; tick569
+bud_infrabel_train_budget_2025,infrabel,2025,45800000,,,outturn,src_infrabel_jv_2025,strong,Training budget 45.8m; days 95864; tick569
+bud_infrabel_etcs_km_2025,infrabel,2025,6399,,,outturn,src_infrabel_jv_2025,strong,COUNT km main tracks ETCS-equipped 6399 full network; tick569
+bud_infrabel_punctuality_2025,infrabel,2025,91.7,,,outturn,src_infrabel_jv_2025,strong,PCT network punctuality 91.7 (same dual NMBS); tick569
+bud_infrabel_train_km_2025,infrabel,2025,98430000,,,outturn,src_infrabel_jv_2025,strong,COUNT train-km 98.43m class kerncijfers; tick569
+bud_infrabel_electrified_km,infrabel,2025,3403,,,outturn,src_infrabel_jv_2025,strong,COUNT electrified lines km 3403; tick569
+bud_infrabel_etcs_masterplan_total,infrabel,2025,2800000000,,,outturn,src_infrabel_jv_2025,strong,ETCS Masterplan total invest ~2.8bn of which ~100m CEF EU; completed 2025; tick569
+bud_dual_nmbs_infrabel_strike_2025,nmbs,2025,27,,,outturn,src_dual_rail_nmbs_infrabel_2025,strong,COUNT dual shared 27 strike days 2025 NMBS+Infrabel; tick569

@@ -45,7 +45,7 @@ hulpkas,Hulpkas van de Werkloosheidsuitkeringen,Caisse auxiliaire de paiement de
 onem_rva,RVA / ONEM,ONEM,National Employment Office,parastatal,sec_ss,bi,https://www.rva.be,,,Benefit rules control; payment often via unions or Hulpkas
 stib,STIB / MIVB,STIB,Brussels public transport operator,parastatal,sec_brussels,bi,https://www.stib-mivb.be,,,Regional prog 42.112 EUR 1.168bn 2026; opex intervention 642m 2025; PPI path cut 965m 2026-29
 nmbs,NMBS / SNCB,SNCB,Belgian national passenger railway operator,parastatal,sec_federal,bi,https://www.belgiantrain.be,,,Federal PSO / openbare dienstverlening contract; annual toelage TBD FOI
-infrabel,Infrabel,Infrabel,Belgian railway infrastructure manager,parastatal,sec_federal,bi,https://infrabel.be,,,Shares rail-sector savings with NMBS
+infrabel,Infrabel,Infrabel,Belgian railway infrastructure manager,parastatal,sec_federal,bi,https://infrabel.be,,,JV2025: omzet 1.43bn staatsdotatie 606m REBITDA 127m invest 1.27bn FTE 9768 ETCS full 6399km; dual NMBS; tick569
 de_lijn,De Lijn (VVM),De Lijn,Flemish public bus and tram operator,parastatal,sec_flanders,nl,https://www.delijn.be,,,Vlaamse Gewest majority; omzet 1.42bn VL tussenkomst 1.21bn 2025 JV; tick175
 bpost,Bnode (ex-bpostgroup) / bpost NV,Bnode (ex-bpostgroup) / bpost SA,Belgian postal+logistics group majority state SFPIM,parastatal,sec_federal,bi,https://www.bnode.com,,,Op income 4.48bn adj EBIT 179.7m net loss 39.4m 2025; State 51.04pct; rebrand Bnode; dual Proximus; SGEI prior 227.8m 2024; tick164+326
 creg,CREG,CREG,Commission for Electricity and Gas Regulation,other,sec_federal,bi,https://www.creg.be,,,Energy regulator; offshore GSC support
