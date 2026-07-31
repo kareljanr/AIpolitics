@@ -7138,3 +7138,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +44; cmt +2; lb +7; FOI **gap_idea_sector_l5_2025** ready+draft; entity update; raw PDF; rq_574=done spawn **rq_575**; ticks=583
 - FOI opened: gap_idea_sector_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_575**; deferred **rq_116**; progress@590 in 7 ticks
+
+### 2026-07-31T11:45:00Z - tick 584
+- Unit: **rq_575** (FOI-adjacent hole-fill - **AIDE Liege CA 79m dual OAA trio + SPGE envelopes**)
+- Found (strong primary AIDE comptes + rapport AG 25 Jun 2026, 40 pp — new entity):
+  - **CA EUR 78.72m** (73.3m 2024); ventes **83.02m**; **op profit 10.16m**; **net 2.08m** (no dividend; report **4.89m**)
+  - Fin income **2.30m**; fin charges **10.38m** (debt **10.53m** mainly SPGE leasing)
+  - Personnel **30.84m**; services **26.50m**; D&A **15.70m**
+  - **Balance:** assets **454.1m** (was 485.3m); equity **140.4m**; dettes **312.8m**; LT lease **182.0m** / lease assets **196.3m**; fin assets **139.9m**
+  - FG **4.18m** of which SPGE refact **3.76m** (90% CSU)
+  - Ops: staff **291** / ETP **284**; **84** communes; wastewater **83 Mm3** (Oupeye **31**); **76** STEPs / **113** pumps; demerg **14.9+3.1 Mm3**
+  - SPGE WAL envelopes cited: epuration **88m/yr** · demergement **10m** · egouttage **44m**
+  - OGEO pension surplus **113m** (assets 128 / prov 15); withdrawal strategy pending tax ruling
+  - **Dual OAA trio:** AIDE **79m/454m/291** vs INASEP **49m/186m** vs in BW assain **27m**
+- Wrote: sources +2; budgets +47; cmt +3; lb +7; FOI **gap_aide_spge_l5_2025** ready+draft; entity **aide** NEW; raw PDF; rq_575=done spawn **rq_576**; ticks=584
+- FOI opened: gap_aide_spge_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_576**; deferred **rq_116**; progress@590 in 6 ticks

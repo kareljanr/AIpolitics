@@ -10710,3 +10710,50 @@ bud_idea_pae_ha_sold_2025,idea_hainaut,2025,2190,,,outturn,src_idea_ra_2025_deep
 bud_idea_pae_firms_invest_2025,idea_hainaut,2025,99732643,,,outturn,src_idea_ra_2025_deepen,strong,Investissements entreprises parcs 99.733m 2025 (21.9ha); tick583
 bud_idea_pension_offbs_2026_31,idea_hainaut,2025,25843000,,,outturn,src_idea_ra_2025_deepen,strong,Engagement hors bilan cotisation responsabilisation 25.843m 2026-2031; tick583
 bud_idea_fin_prod_immob_2025,idea_hainaut,2025,12472950,,,outturn,src_idea_ra_2025_deepen,strong,Produits immobilisations financieres 12.473m 2025 (CENEO heavy); tick583
+bud_aide_ca_2025,aide,2025,78720895,,,outturn,src_aide_ra_2025,strong,Chiffre d affaires 78.721m 2025 (73.292m 2024); tick584
+bud_aide_ventes_2025,aide,2025,83018634,,,outturn,src_aide_ra_2025,strong,Ventes et prestations 83.019m 2025; tick584
+bud_aide_op_profit_2025,aide,2025,10161969,,,outturn,src_aide_ra_2025,strong,Benefice d exploitation 10.162m 2025 (9.145m 2024); tick584
+bud_aide_net_2025,aide,2025,2082734,,,outturn,src_aide_ra_2025,strong,Benefice exercice 2.083m 2025 (2.170m 2024); no dividend; tick584
+bud_aide_report_2025,aide,2025,4891997,,,outturn,src_aide_ra_2025,strong,Benefice a reporter 4.892m end-2025; tick584
+bud_aide_fin_income_2025,aide,2025,2299236,,,outturn,src_aide_ra_2025,strong,Produits financiers 2.299m 2025; tick584
+bud_aide_fin_charges_2025,aide,2025,10378472,,,outturn,src_aide_ra_2025,strong,Charges financieres 10.378m 2025 (debt charges 10.525m mainly SPGE leasing); tick584
+bud_aide_personnel_2025,aide,2025,30839893,,,outturn,src_aide_ra_2025,strong,Remunerations charges sociales pensions 30.840m 2025; tick584
+bud_aide_services_2025,aide,2025,26504326,,,outturn,src_aide_ra_2025,strong,Services et biens divers 26.504m 2025; tick584
+bud_aide_da_2025,aide,2025,15701193,,,outturn,src_aide_ra_2025,strong,Amortissements 15.701m 2025; tick584
+bud_aide_assets_2025,aide,2025,454075789,,,outturn,src_aide_ra_2025,strong,Total actif 454.076m end-2025 (485.310m 2024); tick584
+bud_aide_equity_2025,aide,2025,140416296,,,outturn,src_aide_ra_2025,strong,Capitaux propres 140.416m end-2025; tick584
+bud_aide_dettes_total_2025,aide,2025,312840575,,,outturn,src_aide_ra_2025,strong,Dettes totales 312.841m end-2025; tick584
+bud_aide_lt_lease_2025,aide,2025,181996827,,,outturn,src_aide_ra_2025,strong,Dettes financieres location-financement LT 182.0m end-2025 (SPGE); tick584
+bud_aide_lt_other_debt_2025,aide,2025,47568219,,,outturn,src_aide_ra_2025,strong,Autres dettes LT 47.568m end-2025; tick584
+bud_aide_lt_debt_total_2025,aide,2025,229565046,,,outturn,src_aide_ra_2025,strong,Dettes >1an 229.565m end-2025; tick584
+bud_aide_st_debt_2025,aide,2025,77218913,,,outturn,src_aide_ra_2025,strong,Dettes <=1an 77.219m end-2025; tick584
+bud_aide_mva_2025,aide,2025,209702617,,,outturn,src_aide_ra_2025,strong,Immobilisations corporelles 209.703m end-2025; tick584
+bud_aide_lease_assets_2025,aide,2025,196282223,,,outturn,src_aide_ra_2025,strong,Location financement actifs 196.282m end-2025; tick584
+bud_aide_fin_assets_2025,aide,2025,139861947,,,outturn,src_aide_ra_2025,strong,Immobilisations financieres 139.862m end-2025; tick584
+bud_aide_cap_subs_2025,aide,2025,25548334,,,outturn,src_aide_ra_2025,strong,Subsides en capital 25.548m end-2025; tick584
+bud_aide_cash_placements_2025,aide,2025,38077987,,,outturn,src_aide_ra_2025,strong,Placements de tresorerie 38.078m end-2025; tick584
+bud_aide_cash_2025,aide,2025,8407713,,,outturn,src_aide_ra_2025,strong,Valeurs disponibles 8.408m end-2025; tick584
+bud_aide_orders_progress_2025,aide,2025,23665545,,,outturn,src_aide_ra_2025,strong,Commandes en cours 23.666m end-2025; tick584
+bud_aide_exploit_contrib_2025,aide,2025,507000,,,outturn,src_aide_ra_2025,strong,Contribution direction exploitation ~0.507m 2025; tick584
+bud_aide_set_contrib_2025,aide,2025,1320000,,,outturn,src_aide_ra_2025,strong,Contribution SET ~1.320m 2025; tick584
+bud_aide_fg_total_2025,aide,2025,4179000,,,outturn,src_aide_ra_2025,strong,Frais generaux 4.179m of which SPGE refact 3.760m 2025; tick584
+bud_aide_fg_spge_2025,aide,2025,3760000,,,outturn,src_aide_ra_2025,strong,Frais generaux refactures SPGE 3.760m (90pct CSU); tick584
+bud_aide_fin_result_k_2025,aide,2025,535000,,,outturn,src_aide_ra_2025,strong,Resultat financier placement ~0.535m 2025; tick584
+bud_aide_staff_2025,aide,2025,291,,,outturn,src_aide_ra_2025,strong,COUNT collaborateurs 291 (284.4 ETP); tick584
+bud_aide_communes_2025,aide,2025,84,,,outturn,src_aide_ra_2025,strong,COUNT communes 84 full province Liege; tick584
+bud_aide_wastewater_m3_2025,aide,2025,83000000,,,outturn,src_aide_ra_2025,strong,COUNT m3 eaux usees assainies 83m (Liege-Oupeye 31m); tick584
+bud_aide_demerg_m3_2025,aide,2025,14900000,,,outturn,src_aide_ra_2025,strong,COUNT m3 demergement permanent 14.9m + crue 3.1m; tick584
+bud_aide_demerg_crue_m3_2025,aide,2025,3100000,,,outturn,src_aide_ra_2025,strong,COUNT m3 pompage crue 3.1m / 19 days; tick584
+bud_aide_steps_2025,aide,2025,76,,,outturn,src_aide_ra_2025,strong,COUNT stations epuration 76; tick584
+bud_aide_pumps_epur_2025,aide,2025,113,,,outturn,src_aide_ra_2025,strong,COUNT stations pompage epuration 113; tick584
+bud_aide_pumps_demerg_2025,aide,2025,48,,,outturn,src_aide_ra_2025,strong,COUNT stations pompage demergement 48; tick584
+bud_aide_collectors_km_2025,aide,2025,415,,,outturn,src_aide_ra_2025,strong,COUNT km collecteurs assainissement 415; tick584
+bud_aide_eh_capacity_2025,aide,2025,1291040,,,outturn,src_aide_ra_2025,strong,COUNT capacite traitement 1291040 EH; tick584
+bud_aide_sludge_t_2025,aide,2025,51000,,,outturn,src_aide_ra_2025,strong,COUNT tonnes boues deshydratees 51000; tick584
+bud_aide_compliance_pct_2025,aide,2025,9400,,,outturn,src_aide_ra_2025,strong,COUNT analyses rejet conformes 94pct x100; tick584
+bud_aide_cadastre_km_2025,aide,2025,260,,,outturn,src_aide_ra_2025,strong,COUNT km cadastre 260 (217 internal); rate 83.4pct; tick584
+bud_aide_pv_kwc_2025,aide,2025,2739,,,outturn,src_aide_ra_2025,strong,COUNT PV 2738.5 kWc / 15604 m2; tick584
+bud_aide_pv_gwh_2025,aide,2025,18,,,outturn,src_aide_ra_2025,strong,COUNT PV production 1.8 GWh 2025; tick584
+bud_aide_spge_epur_envelope_wal,aide,2025,88000000,,,outturn,src_aide_ra_2025,strong,SPGE annual epuration invest envelope WAL 88m to split OAA; tick584
+bud_aide_spge_demerg_envelope_wal,aide,2025,10000000,,,outturn,src_aide_ra_2025,strong,SPGE annual demergement invest envelope WAL 10m to split; tick584
+bud_aide_ogeo_assets_2025,aide,2025,128000000,,,outturn,src_aide_ra_2025,strong,OGEO FUND pension assets 128m vs tech prov 15m surplus 113m; tick584
