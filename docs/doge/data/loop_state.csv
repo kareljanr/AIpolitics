@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T03:15:00Z,rq_637,646,no,tick646 DO10 PRW FRR 2.255bn CL dual VV; next rq_638; progress@650 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T03:30:00Z,rq_638,647,no,tick647 UAP SEC consol -755m type3 -207m dual VL; next rq_639; progress@650 in 3; rq_116 deferred

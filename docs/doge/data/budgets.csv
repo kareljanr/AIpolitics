@@ -11770,3 +11770,33 @@ bud_do10_018_tourisme_cl_bi2025,do10_secretariat_wal,2025,69868000,,,budgeted,sr
 bud_do10_019_rel_ext_cl_bi2025,do10_secretariat_wal,2025,30698000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 prog019 Relations exterieures CL 30.698m path -7.589m; tick646
 bud_do10_020_awex_cl_bi2025,do10_secretariat_wal,2025,67547000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 prog020 Commerce exterieur AWEX CL 67.547m path -9.428m; tick646
 bud_do12_gestion_digital_cl_bi2025,wallonie_gov,2025,54914000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO12 prog029 Gestion du digital CL 54.914m; tick646
+bud_uap_unites_impact_bi2025,uap_perimeter_wal,2025,-755157000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Unites institutionnelles SEC impact BI2025 -755.157m path -197.973m; tick647
+bud_uap_unites_impact_ba2024,uap_perimeter_wal,2024,-557184000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Unites institutionnelles SEC impact BA2024 -557.184m; tick647
+bud_uap_saca_impact_bi2025,uap_perimeter_wal,2025,-905000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Saca total impact BI2025 -0.905m (path +34.072m vs BA -34.977m); tick647
+bud_uap_type1_impact_bi2025,uap_perimeter_wal,2025,-180556000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Type1 UAP impact BI2025 -180.556m path -68.734m; tick647
+bud_uap_type2_impact_bi2025,uap_perimeter_wal,2025,-35455000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Type2 UAP impact BI2025 -35.455m path -31.647m; tick647
+bud_uap_type3_impact_bi2025,uap_perimeter_wal,2025,-207352000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Type3 UAP impact BI2025 -207.352m path -132.372m; tick647
+bud_uap_aviq_impact_bi2025,aviq,2025,-330562000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,AViQ SEC impact BI2025 -330.562m (treasury remonte -335.3m class); tick647
+bud_uap_fwcn_obj_bi2025,fwcn,2025,-165039000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,FWCN gov SEC objective BI2025 -165.039m vs budget solde -63.3m recon gap; tick647
+bud_uap_otw_impact_bi2025,tec,2025,-139364000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,OTW Type3 SEC impact BI2025 -139.364m (invest missions vs amort subs); tick647
+bud_uap_spaque_impact_bi2025,spaque,2025,-51500000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Groupe SPAQuE SEC impact BI2025 -51.5m path -27.3m; tick647
+bud_uap_we_impact_bi2025,wallonie_entreprendre,2025,-40171000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Groupe WE SEC impact BI2025 -40.171m path +87.080m vs BA -127.251m; tick647
+bud_uap_sofico_impact_bi2025,sofico,2025,35118000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Sofico SEC impact BI2025 +35.118m path -8.276m; tick647
+bud_uap_swl_impact_bi2025,swl,2025,17351000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,SWL SEC impact BI2025 +17.351m path -38.410m; tick647
+bud_uap_swcs_impact_bi2025,swcs,2025,-9378000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,SWCS SEC impact BI2025 -9.378m; tick647
+bud_uap_flw_guichets_impact_bi2025,flw,2025,8172000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,FLW+guichets SEC impact BI2025 +8.172m; tick647
+bud_uap_aero_impact_bi2025,sowaer,2025,-28391000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Secteur aeroportuaire SEC impact BI2025 -28.391m path -55.877m; tick647
+bud_uap_forem_impact_bi2025,forem,2025,-30000000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Forem Type2 SEC impact BI2025 -30.0m (dotation cut path); tick647
+bud_uap_awex_impact_bi2025,awex,2025,-6652000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,AWEX Type2 SEC impact BI2025 -6.652m; tick647
+bud_uap_ifapme_impact_bi2025,ifapme,2025,306000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,IFAPME Type2 SEC impact BI2025 +0.306m; tick647
+bud_uap_instit_consol_solde_bi2025,uap_perimeter_wal,2025,-469900000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Solde institutions consolidees (7) BI2025 -469.9m path -127.6m; tick647
+bud_uap_fin_alternatifs_bi2025,uap_perimeter_wal,2025,74200000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Financements alternatifs + missions deleguees BI2025 +74.2m (alt 67.0 missions 7.2); tick647
+bud_uap_sous_util_uap_bi2025,uap_perimeter_wal,2025,129000000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Sous-utilisation credits UAP BI2025 +129.0m flat; tick647
+bud_uap_sec_solde_bi2025,wallonie_gov,2025,-2286500000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Solde financement SEC BI2025 -2286.5m path -3.0m vs BA -2283.5m; tick647
+bud_uap_tresorerie_remonte_bi2025,wallonie_gov,2025,575600000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Tresorerie remonte operation 575.6m (excess UAP 536.6 + dots 39); no SEC net impact; tick647
+bud_uap_perimeter_count_2024,uap_perimeter_wal,2024,146,,,other,src_ccrek_uap_sec_consol_bi2025,strong,ICN perimeter 146 institutions Oct2024 (not EUR); tick647
+bud_do18_114_recherche_ce_bi2025,wallonie_gov,2025,247484000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,DO18 prog114 Recherche CE BI2025 247.484m path eng -8.337m; tick647
+bud_do18_114_recherche_cl_bi2025,wallonie_gov,2025,199655000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,DO18 prog114 Recherche CL BI2025 199.655m path liq +10.387m; dual VLAIO FWO; tick647
+bud_do18_114_recherche_exec_class,wallonie_gov,2024,140650000,,,outturn,src_ccrek_uap_sec_consol_bi2025,strong,Prog114 CoA exec class 140.650m; tick647
+bud_fonds_rdi_dep_bi2025,wallonie_gov,2025,13594000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Fonds RDI depenses BI2025 13.594m surplus 9.106m; tick647
+bud_do18_total_cl_bi2025,wallonie_gov,2025,3786351000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,DO18 Entreprises emploi recherche CL BI2025 3786.351m path -164.409m; tick647

@@ -7664,3 +7664,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+28); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do10_prw_frr_l5_2025; rq_637=done; spawn rq_638; loop_state ticks=646
 - FOI opened: gap_do10_prw_frr_l5_2025 -- ready (not sent)
 - Next: rq_638; progress@650 in 4 ticks; rq_116 deferred
+
+### 2026-08-01T03:30:00Z -- tick 647
+- Unit: rq_638 (FOI-adjacent dual UAP hole-fill -- **UAP SEC consol Table9** dual VL agencies + **DO18.114 Recherche**)
+- Found: **Unites institutionnelles** (primary CoA Table9): BI2025 impact **-EUR755.2m** (path **-EUR198.0m** vs BA **-EUR557.2m**). **Saca -EUR0.9m**; **Type1 -EUR180.6m** (FWCN obj **-EUR165.0m** vs budget **-EUR63.3m**); **Type2 -EUR35.5m** (Forem **-EUR30m**); **Type3 -EUR207.4m** (OTW **-EUR139.4m** / SPAQuE **-EUR51.5m** / WE **-EUR40.2m** / Sofico **+EUR35.1m** / aero **-EUR28.4m**). **AViQ -EUR330.6m**. Institutions consolidees **-EUR469.9m**. SEC solde **-EUR2.287bn**. Tresorerie remonte **EUR575.6m**. Perimeter **146** ICN. Companion **prog114 Recherche** CL **EUR199.7m** + fonds RDI stock **EUR171.2m** dual FWO/FNRS. Strong confidence CoA; L5 residual FOI.
+- Wrote: entities (+1); budgets (+32); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_uap_sec_consol_l5_2025; rq_638=done; spawn rq_639; loop_state ticks=647
+- FOI opened: gap_uap_sec_consol_l5_2025 -- ready (not sent)
+- Next: rq_639; progress@650 in 3 ticks; rq_116 deferred
