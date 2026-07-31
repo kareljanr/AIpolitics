@@ -8601,3 +8601,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+29); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_dbfm_vfm_iwms_l5**; raw PDF + extract; rq_716=done; spawn **rq_717**; loop_state ticks=725
 - FOI opened: gap_dbfm_vfm_iwms_l5 — ready (not sent); prior gap_dbfm_fees / gap_dbfm_maint notes updated
 - Next: rq_717; progress@730 in 5 ticks; rq_116 deferred
+
+### 2026-08-01T23:45:00Z — tick 726
+- Unit: **rq_717** (FOI-adjacent residual dual — **OTW/LETEC CSP revision + reliability/coverage + missions transfer dual De Lijn**)
+- Found (primary LETEC RA 2025 + press CSP 10 Jun 2026; residual vs tick567/624/665 financials):
+  - Coverage **14.21%** (2025) / **14.36%** (2024) own op receipts/opex — already at/above Desquesnes **10→14 by 2030** narrative (metric mismatch risk)
+  - Service execution **95.74%** vs CSP target **99.8%** (gap ~**4.06pp**; 2024 was 97.35); satisfaction **62%** vs **70** (gap 8pp); fraud **3.52%**
+  - CSP revised **signed 10 Jun 2026**, extended to **2029**; Dec2025 orientation: **recalibrage 2%** capacity, keep global offer, metro Charleroi M5, 4 BUSWAY + 2 priority Liège lines
+  - CA press **135.7m** (+~3%) vs RF farebox **66.4m** (~**69m** perimeter wedge)
+  - Scolaire: **21589** pupils / **915** circuits / **7.07m** voyages; used **65.3m**; transfer to SPW MI **validated GW Mar 2026**
+  - TPMR: **231202** voyages; used **4.91m**; CSP transfer to SPW MI planned (press **2028**)
+  - Fleet: e-bus only **14** (**0.72%**) of **1945** regie; hybrid **829**; private **796**; path **170** e-buses to 2029; aju bus **-43.5m** lag; dual De Lijn **652** ordered + **400m** extra
+  - Total voyages all modes **159.43m**; tram Liège y1 **>12m** press; staff **5818** (3500 drivers)
+  - Strong primary residual; L5 FOI CSP cash + transfer calendar + coverage definition
+- Wrote: budgets (+50); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_otw_csp_missions_transfer_l5**; raw RA PDF + write script; rq_717=done; spawn **rq_718**; loop_state ticks=726
+- FOI opened: gap_otw_csp_missions_transfer_l5 — ready (not sent); prior gap_otw_dotatie_cash remains ready
+- Next: rq_718; progress@730 in 4 ticks; rq_116 deferred

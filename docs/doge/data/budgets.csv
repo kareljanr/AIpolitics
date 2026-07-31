@@ -14346,3 +14346,53 @@ bud_dbfm_project_prisons_4,dg_epi,2026,4,,,budgeted,src_ccrek_prisons_dbfm_suivi
 bud_dbfm_cpl_3_dbfmo,dg_epi,2026,3,,,budgeted,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,3 CPL DBFMO planned Paifve Wavre Aalst not in initial 2023 audit; tick725 COUNT
 bud_dbfm_offbalance_still_2_6bn_class,dg_epi,2022,2600000000,,,commitment,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Legal commit 2.6bn eoy2022 still not in general accounts hors-bilan at 2026 suivi; tick725
 bud_dual_dbfm_vfm_method_tick725,gg_belgium,2026,14700000,,,estimate,src_dual_dbfm_vfm_tick725,strong,Dual residual: federal DBFM VFM school premium 14.7m method flag vs VL PPP decree reportage; not TE-additive; tick725
+bud_otw_coverage_rate_2024,tec,2024,14.36,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT coverage own op receipts / opex 14.36 2024 RA; tick726
+bud_otw_coverage_rate_2025,tec,2025,14.21,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT coverage 14.21 2025 (already near/above Desquesnes 10-to-14 by 2030 narrative); tick726
+bud_otw_service_rate_2024,tec,2024,97.35,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT service execution km 97.35 2024; tick726
+bud_otw_service_rate_2025,tec,2025,95.74,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT service execution 95.74 2025 (-1.61pp YoY tram year); CSP target 99.8; tick726
+bud_otw_service_gap_vs_target_2025,tec,2025,4.06,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT gap 99.8 target minus 95.74 actual ~4.06pp; tick726
+bud_otw_satisfaction_2025,tec,2025,62,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT client satisfaction 62 vs CSP target 70; tick726
+bud_otw_satisfaction_gap_2025,tec,2025,8,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT satisfaction gap 70-62=8pp; tick726
+bud_otw_fraud_rate_2025,tec,2025,3.52,,,outturn,src_letec_ra_csp_residual_tick726,strong,PCT fraud rate 3.52 2025 RA chiffres; tick726
+bud_otw_ca_press_2025,tec,2025,135700000,,,outturn,src_letec_csp_revise_press_2026_06,strong,Press AG 10Jun2026: chiffre affaires 135.7m (+~3pct vs 2024); broader than farebox 66.4m RF; tick726
+bud_otw_ca_vs_farebox_wedge_2025,tec,2025,69273300,,,estimate,src_letec_ra_csp_residual_tick726,medium,Derived wedge CA press 135.7m minus traffic CA 66.427m ~69.3m other commercial/perimeter; tick726
+bud_otw_voyages_regular_2025,tec,2025,150767081,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT regular line voyages 150767081; tick726 recon tick567
+bud_otw_voyages_total_all_modes_2025,tec,2025,159434791,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT total voyages all modes 159434791 (regular+scolaire+TPMR+special+TaD+Flexi); tick726
+bud_otw_voyages_scolaire_2025,tec,2025,7071005,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT scolaire voyages 7071005 (-3.5pct YoY); tick726
+bud_otw_voyages_tpmr_2025,tec,2025,231202,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT TPMR voyages 231202 (+0.9pct); tick726
+bud_otw_voyages_special_2025,tec,2025,1326467,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT special/other regular specialised voyages 1326467; tick726
+bud_otw_voyages_tad_2025,tec,2025,33933,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT LETEC a la demande 33933; press ~650 pax/week on 6 lines; tick726
+bud_otw_voyages_flexi_taxi_2025,tec,2025,5103,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT FlexiTEC+TaxiTEC 5103; tick726
+bud_otw_tram_liege_voyages_y1_press,tec,2025,12000000,,,outturn,src_letec_csp_revise_press_2026_06,strong,Press: tram Liege >12m voyages first year of service from 28 Apr 2025; tick726
+bud_otw_scolaire_pupils_2025,tec,2025,21589,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT pupils scolaire daily 21589 (2024:21856); tick726
+bud_otw_scolaire_circuits_2025,tec,2025,915,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT scolaire circuits 915; reliability 100pct assigned; tick726
+bud_otw_scolaire_km_2025,tec,2025,21991909,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT scolaire km en charge 21991909; tick726
+bud_otw_scolaire_used_recon_2025,tec,2025,65335707,,,outturn,src_letec_ra_csp_residual_tick726,strong,EUR scolaire used 65.336m recon RF tick567; transfer to SPW MI validated GW Mar2026; tick726
+bud_otw_tpmr_used_recon_2025,tec,2025,4911036,,,outturn,src_letec_ra_csp_residual_tick726,strong,EUR TPMR used 4.911m recon RF; CSP transfer to SPW MI planned; tick726
+bud_otw_delegated_missions_used_recon,tec,2025,136220099,,,outturn,src_letec_ra_csp_residual_tick726,strong,EUR delegated missions total used 136.2m recon RF; school+TPMR exit path reduces OTW perimeter; tick726
+bud_otw_fleet_regie_2025,tec,2025,1945,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT regie vehicles 1945; tick726
+bud_otw_fleet_private_2025,tec,2025,796,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT private operator vehicles 796; tick726
+bud_otw_fleet_total_2025,tec,2025,2741,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT total fleet 2741; tick726
+bud_otw_hybrid_count_2025,tec,2025,829,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT hybrid regie 829 (42.62pct); tick726
+bud_otw_ebus_count_2025,tec,2025,14,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT electric regie only 14 (0.72pct) first BUSWAY B2; tick726
+bud_otw_ebus_path_170_to_2029,tec,2029,170,,,budgeted,src_letec_csp_revise_press_2026_06,strong,COUNT 170 e-buses deliveries path to 2029 press; aju bus -43.5m delay; tick726
+bud_dual_delijn_ebus_ordered_652,de_lijn,2025,652,,,outturn,src_dual_otw_delijn_ebus_missions_tick726,strong,COUNT dual De Lijn 652 e-buses ordered 2025 vs OTW 14 in service; tick726
+bud_dual_delijn_ebus_extra_400m,de_lijn,2025,400000000,,,budgeted,src_dual_otw_delijn_ebus_missions_tick726,strong,EUR dual De Lijn e-bus extra 400m vs OTW greening PNRR +21.3m path aju; tick726
+bud_otw_staff_total_2025,tec,2025,5818,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT staff 5818; tick726
+bud_otw_drivers_2025,tec,2025,3500,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT drivers 3500; tick726
+bud_otw_employees_2025,tec,2025,1440,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT employees 1440; tick726
+bud_otw_other_workers_2025,tec,2025,878,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT other workers/ouvriers 878; tick726
+bud_otw_recalibrage_capacity_2pct,tec,2026,2,,,budgeted,src_letec_ra_csp_residual_tick726,strong,PCT Dec2025 GW orientation: recalibrage 2pct operational capacity while maintaining global offer level; tick726
+bud_otw_csp_service_target_99_8,tec,2025,99.8,,,budgeted,src_letec_ra_csp_residual_tick726,strong,PCT CSP key indicator target service execution 99.8; tick726
+bud_otw_csp_satisfaction_target_70,tec,2025,70,,,budgeted,src_letec_ra_csp_residual_tick726,strong,PCT CSP client satisfaction target 70; tick726
+bud_otw_co2_kg_per_pax_2024,tec,2024,0.8052,,,outturn,src_letec_ra_csp_residual_tick726,strong,kgCO2 per voyageur 0.8052 2024; tick726
+bud_otw_co2_kg_per_pax_2025,tec,2025,0.7758,,,outturn,src_letec_ra_csp_residual_tick726,strong,kgCO2 per voyageur 0.7758 2025 (now includes metro/tram/e-bus electricity 181.7g/kWh); tick726
+bud_otw_stops_accessible_2025,tec,2025,3924,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT audited accessible boarding points 3924 (2024:3672); tick726
+bud_otw_stops_total_2025,tec,2025,31861,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT stops total 31861; tick726
+bud_otw_lines_regular_2025,tec,2025,832,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT regular lines 832; tick726
+bud_otw_km_regie_2025,tec,2025,64096117,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT km regie regular 64096117; tick726
+bud_otw_km_private_2025,tec,2025,31398292,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT km private operators 31398292; tick726
+bud_otw_km_total_regular_2025,tec,2025,95494409,,,outturn,src_letec_ra_csp_residual_tick726,strong,COUNT km total regular en charge 95494409; tick726
+bud_otw_pnrr_greening_bus_21_3m,tec,2026,21300000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,PNRR greening bus fleet +21.3m aju path recon; dual De Lijn 400m; tick726
+bud_otw_pnrr_chatelet_10m,tec,2026,10000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,PNRR Chatelet antenna reno/extension +10m; tick726
+bud_dual_otw_dep_aju_vs_delijn_class,gg_belgium,2026,1196300000,,,budgeted,src_dual_otw_delijn_ebus_missions_tick726,strong,OTW dep aju 1196.3m dual De Lijn multi-bn VEK class not additive; tick726
