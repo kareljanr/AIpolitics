@@ -15695,3 +15695,60 @@ bud_cdsca_personnel_2026,cdsca,2026,13349878,,,budgeted,src_kamer_oap_autonome_1
 bud_cdsca_ops_class_2026,cdsca,2026,19265160,,,budgeted,src_kamer_oap_autonome_1281_023_2026,strong,Ops stack class ~19265160 2026; tick756
 bud_dual_culture_monnaie_nob_whi_2026,gg_belgium,2026,69340430,,,derived,src_dual_oap_autonome_culture_credendo_tick756,strong,Dual fed dots Monnaie 42.247 + NOB 10.943 + WHI 16.150 = 69.340m 2026; not TE-additive full culture TCO; tick756
 bud_dual_credendo_claims_state_own_2026,gg_belgium,2026,171870949,,,derived,src_dual_oap_autonome_culture_credendo_tick756,strong,Dual Credendo claims state 18.851 + own DIRECT 153.020 = 171.871m 2026 budget class not additive to consol GWP; tick756
+bud_def_cabinet_oa02_2026,mod_defensie,2026,2795000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA02 cabinet/policy cell eng+liq 2795 kEUR 2026; tick757
+bud_def_oa50_personnel_eng_2026,mod_defensie,2026,2311745000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 Krijgsmacht personnel eng 2311745 kEUR 2026; tick757
+bud_def_oa50_personnel_liq_2026,mod_defensie,2026,2309887000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 personnel liq 2309887 kEUR 2026; tick757
+bud_def_oa50_ops_eng_2026,mod_defensie,2026,2766876000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 ops/werking eng 2766876 kEUR 2026; tick757
+bud_def_oa50_ops_liq_2026,mod_defensie,2026,3165370000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 ops liq 3165370 kEUR 2026; tick757
+bud_def_oa50_invest_eng_2026,mod_defensie,2026,14124487000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 invest eng 14124487 kEUR 2026 (=14.124bn); LPM path; tick757
+bud_def_oa50_invest_liq_2026,mod_defensie,2026,4640561000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 invest liq 4640561 kEUR 2026; eng>>liq backlog; tick757
+bud_def_oa50_transfers_eng_2026,mod_defensie,2026,906341000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 income+capital transfers eng 906341 kEUR 2026; tick757
+bud_def_oa50_transfers_liq_2026,mod_defensie,2026,651026000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 transfers liq 651026 kEUR 2026; tick757
+bud_def_oa50_total_eng_2026,mod_defensie,2026,20109449000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 total eng 20109449 kEUR = EUR 20.109bn 2026; tick757
+bud_def_oa50_total_liq_2026,mod_defensie,2026,10766844000,,,budgeted,src_kamer_defence_1281_008_2026,strong,OA50 total liq 10766844 kEUR = EUR 10.767bn 2026; tick757
+bud_def_p500_subsistance_eng_2026,mod_defensie,2026,2932038000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.0 Bestaansmiddelen eng 2932038 kEUR 2026; tick757
+bud_def_p500_subsistance_liq_2026,mod_defensie,2026,2954833000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.0 liq 2954833 kEUR 2026; tick757
+bud_def_military_pay_110003_2024,mod_defensie,2024,1693016000,,,outturn,src_kamer_defence_1281_008_2026,strong,BA 50.0.1.110003 statutair military pay eng 1693016 kEUR 2024; tick757
+bud_def_military_pay_110003_2025,mod_defensie,2025,1699190000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Military pay 1699190 kEUR 2025; tick757
+bud_def_military_pay_110003_2026,mod_defensie,2026,1852069000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Military pay 1852069 kEUR 2026; recruit 2800 / depart 2343 of which pension 932; tick757
+bud_def_military_pay_110003_2027,mod_defensie,2027,2042578000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Military pay path 2042578 kEUR 2027; tick757
+bud_def_military_pay_110003_2029,mod_defensie,2029,2294285000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Military pay path 2294285 kEUR 2029; tick757
+bud_def_military_pay_stack_2026,mod_defensie,2026,1857969000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Military pay domain total 1857969 kEUR 2026 incl hospitalisation insurance; tick757
+bud_def_civil_pay_path_2026,mod_defensie,2026,137789000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Civil personnel pay path 137789 kEUR 2026 (was 107510 2025); tick757
+bud_def_p500_act3_eng_2026,mod_defensie,2026,884747000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Act 50.0.3 other nature eng 884747 kEUR 2026; tick757
+bud_def_p500_act3_liq_2026,mod_defensie,2026,907542000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Act 50.0.3 liq 907542 kEUR 2026; tick757
+bud_def_p501_paraat_eng_2026,mod_defensie,2026,1448411000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.1 Mise en condition/paraatstelling eng 1448411 kEUR 2026; tick757
+bud_def_p501_paraat_liq_2026,mod_defensie,2026,1821607000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.1 liq 1821607 kEUR 2026; tick757
+bud_def_p502_equipment_eng_2026,mod_defensie,2026,13030045000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.2 Vernieuwing uitrusting eng 13030045 kEUR = EUR 13.030bn 2026 aLPM/LPM; tick757
+bud_def_p502_equipment_liq_2026,mod_defensie,2026,3738419000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.2 liq 3738419 kEUR 2026; eng/liq gap major multi-year contracts; tick757
+bud_def_p502_act1_it_current_eng_2026,mod_defensie,2026,136960000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Act 50.2.1 current equip/IT eng 136960 kEUR 2026; tick757
+bud_def_p502_act1_it_current_liq_2026,mod_defensie,2026,178419000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Act 50.2.1 liq 178419 kEUR 2026; tick757
+bud_def_p502_major_line_a_eng_2026,mod_defensie,2026,3517422000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Major equip BA line eng 3517422 kEUR 2026 (path peak vs 484412 2025); tick757
+bud_def_p502_major_line_a_liq_2026,mod_defensie,2026,875152000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Major equip line A liq 875152 kEUR 2026; tick757
+bud_def_p502_major_line_b_eng_2026,mod_defensie,2026,2178275000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Major equip BA line eng 2178275 kEUR 2026; tick757
+bud_def_p502_major_line_b_liq_2026,mod_defensie,2026,699894000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Major equip line B liq 699894 kEUR 2026; tick757
+bud_def_p502_legacy_liq_2026,mod_defensie,2026,681849000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Legacy equip liq path residual 681849 kEUR 2026 (eng 0); tick757
+bud_def_p503_newbuild_eng_2026,mod_defensie,2026,588755000,,,budgeted,src_kamer_defence_1281_008_2026,strong,BA 50.3.1.720001 newbuild eng 588755 kEUR 2026 (path to 1309m 2029); tick757
+bud_def_p503_newbuild_liq_2026,mod_defensie,2026,397926000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Newbuild liq 397926 kEUR 2026; tick757
+bud_def_eu_contrib_total_2026,mod_defensie,2026,14989000,,,budgeted,src_kamer_defence_1281_008_2026,strong,EU defence contrib total 14989 kEUR 2026 of which 50.4 6789 + 50.5 8200; tick757
+bud_def_p504_eu_share_2026,mod_defensie,2026,6789000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.4 EU share 6789 kEUR 2026; tick757
+bud_def_p505_eu_share_2026,mod_defensie,2026,8200000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.5 EU ops share 8200 kEUR 2026; tick757
+bud_def_p505_inzet_eng_2026,mod_defensie,2026,1233853000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.5 Mise en oeuvre/inzet eng 1233853 kEUR 2026; tick757
+bud_def_p505_inzet_liq_2026,mod_defensie,2026,1234715000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.5 liq 1234715 kEUR 2026; tick757
+bud_def_p505_ops_line_eng_2026,mod_defensie,2026,544475000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Inzet major ops line eng 544475 kEUR 2026; tick757
+bud_def_p505_ops_line_liq_2026,mod_defensie,2026,545337000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Inzet major ops line liq 545337 kEUR 2026; tick757
+bud_def_p505_line_305m_2026,mod_defensie,2026,305096000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Inzet BA eng=liq 305096 kEUR 2026; tick757
+bud_def_p505_line_192m_2026,mod_defensie,2026,192341000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Inzet BA eng=liq 192341 kEUR 2026; tick757
+bud_def_p506_education_eng_2026,mod_defensie,2026,51302000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.6 (post)univ education eng 51302 kEUR 2026; tick757
+bud_def_p506_education_liq_2026,mod_defensie,2026,52326000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.6 liq 52326 kEUR 2026; tick757
+bud_def_p507_research_eng_2026,mod_defensie,2026,625106000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.7 scientific research eng 625106 kEUR 2026; tick757
+bud_def_p507_research_liq_2026,mod_defensie,2026,364710000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.7 liq 364710 kEUR 2026; tick757
+bud_def_p507_rd_line_eng_2026,mod_defensie,2026,394427000,,,budgeted,src_kamer_defence_1281_008_2026,strong,R&D major line eng 394427 kEUR 2026 (was 59006 2025); tick757
+bud_def_p507_rd_line_liq_2026,mod_defensie,2026,159240000,,,budgeted,src_kamer_defence_1281_008_2026,strong,R&D major line liq 159240 kEUR 2026; tick757
+bud_def_p508_aide_nation_eng_2026,mod_defensie,2026,15992000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.8 Aide a la Nation eng 15992 kEUR 2026; tick757
+bud_def_p508_aide_nation_liq_2026,mod_defensie,2026,15534000,,,budgeted,src_kamer_defence_1281_008_2026,strong,Prog 50.8 liq 15534 kEUR 2026; tick757
+bud_def_p509_ngi_dot_2026,ngi,2026,22094000,,,budgeted,src_kamer_defence_1281_008_2026,strong,BA 414002 NGI via Defence 50.9 22094 kEUR 2026 MATCH tick756 OAP autonome; tick757
+bud_def_p509_whi_dot_2026,war_heritage_institute,2026,16150000,,,budgeted,src_kamer_defence_1281_008_2026,strong,WHI via Defence 50.9 16150 kEUR 2026 MATCH tick756; tick757
+bud_dual_def_equip_eng_liq_gap_2026,gg_belgium,2026,9291626000,,,derived,src_dual_defence_oap_tick757,strong,Dual eng-liq gap OA50 invest 14.124-4.641=9.484bn + equip prog 13.030-3.738=9.292bn class; multi-year backlog not cash waste; tick757
+bud_dual_def_whi_ngi_dots_2026,gg_belgium,2026,38244000,,,derived,src_dual_defence_oap_tick757,strong,Dual Defence 50.9 NGI 22.094 + WHI 16.150 = 38.244m exact match OAP autonome 1281/023; not TE-additive; tick757
+bud_dual_def_police_payroll_2026,gg_belgium,2026,0,,,derived,src_dual_defence_oap_tick757,strong,Dual Defence military pay 1.852bn vs Fed Police statutair 0.976bn 2026; not additive TE; security payroll dual map; tick757

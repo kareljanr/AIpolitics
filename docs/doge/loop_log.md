@@ -9045,3 +9045,20 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_oap_autonome_credendo_culture_l5 — ready prio8 (not sent)
 - Next: rq_748; progress@760 in 4; rq_116 deferred
 
+
+### 2026-08-02T17:00:00Z — tick 757
+- Unit: **rq_748** (FOI-adjacent residual — **Kamer DOC 56 1281/008 Defence OA50 dual WHI/NGI/Police**)
+- Found (primary Kamer 1281/008, 82p, tables in **kEUR**):
+  - **OA50 Krijgsmacht 2026:** eng **€20.109bn** / liq **€10.767bn** (pers eng **€2.312bn** · ops **€2.767bn** · invest **€14.124bn** · transfers **€0.906bn**)
+  - **50.2 Equipment renewal:** eng **€13.030bn** / liq **€3.738bn** (major lines eng **€3.517bn** + **€2.178bn**; current IT eng **€0.137bn**; legacy liq **€0.682bn**)
+  - **50.0 Subsistance:** eng **€2.932bn** / liq **€2.955bn**; military pay BA110003 **€1.852bn** 2026 (path 1.69→2.29 2024–29; recruit 2800 / depart 2343)
+  - **50.1 Paraatstelling:** eng **€1.448bn** / liq **€1.822bn**
+  - **50.5 Inzet:** eng **€1.234bn** / liq **€1.235bn** (ops line **€0.544bn**; lines **€305m** + **€192m**; EU share **€8.2m**)
+  - **50.7 Research:** eng **€625.1m** / liq **€364.7m** (R&D line eng **€394.4m**)
+  - **50.3 Infra newbuild:** eng **€588.8m** / liq **€397.9m** (path eng **€1.310bn** 2029)
+  - **50.9 dual:** NGI **€22.094m** + WHI **€16.150m** exact match OAP 1281/023; EU contrib total **€15.0m** (50.4+50.5)
+  - Dual eng-liq gap class **~€9.34bn** (not same-year cash waste); military pay dual Fed Police **€0.976bn**
+- Wrote: budgets (+56); commitments (+10); leaderboard (+10); sources (+2); FOI draft **gap_defence_equip_contract_l5**; raw 56K1281008.pdf; rq_748=done; spawn **rq_749**; ticks=757
+- FOI opened: gap_defence_equip_contract_l5 — ready prio8 (not sent)
+- Next: rq_749 (prefer Mobility 1281/016 or Economy 1281/015); progress@760 in 3; rq_116 deferred
+

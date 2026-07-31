@@ -1,0 +1,358 @@
+﻿p3| voor de uitvoering van het programma komt op 2.795
+p3| duizenden euro in vastlegging en in vereffening.
+p3| lΓÇÖex├⌐cution du programme sΓÇÖ├⌐l├¿ve ├á 2.795 milliers
+p3| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p4| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p4| 2.499 milliers dΓÇÖeuros. Ce montant est d├⌐termin├⌐ ├á
+p5| aangevraagd, 250 duizenden euro. 2026 sΓÇÖ├⌐l├¿ve ├á 250 milliers dΓÇÖeuros.
+p5| duizenden euro.
+p12| Voor deze lfde periode bedraagt het doel voor de
+p16| Programma 50.0 Programme 50.0
+p16| programma komt op 2.932.038 duizenden euro , voor
+p16| de vereffeningskredieten op 2.954.833 duizenden euro.
+p16| 2026 pour lΓÇÖex├⌐cution du programme sΓÇÖ├⌐l├¿ve ├á
+p16| 2.932.038 milliers dΓÇÖeuros ; celui des cr├⌐dits de
+p16| liquidation sΓÇÖ├⌐l├¿ve ├á 2.954.833 milliers dΓÇÖeuros.
+p16| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p16| Vastleggingen 1.693.016 1.699.190 1.852.069 2.042.578 2.226.470 2.294.285 Engagement
+p16| Vereffeningen 1.693.019 1.699.190 1.852.069 2.042.578 2.226.470 2.294.285 Liquidation
+p16| Vastleggingen 5.077 5.587 5.900 6.100 6.200 6.300 Engagement
+p16| Vereffeningen 5.077 5.587 5.900 6.100 6.200 6.300 Liquidation
+p17| komt op 1.857.969 duizenden euro. De verdeling van
+p17| sΓÇÖ├⌐l├¿ve ├á 1.857.969 milliers dΓÇÖeuros. La r├⌐partition de
+p18| Domein ( in duizenden euro - en milliers d'euros ) Domaine
+p19| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p19| Vastleggingen 93.180 107.510 137.789 183.662 218.425 249.583 Engagement
+p19| Vereffeningen 93.180 107.510 137.789 183.662 218.425 249.583 Liquidation
+p19| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p19| Vastleggingen 23.218 43.593 50.883 65.594 77.022 87.511 Engagement
+p19| Vereffeningen 23.218 43.593 50.883 65.594 77.022 87.511 Liquidation
+p19| komt op 189.322 duizenden euro.
+p19| sΓÇÖ├⌐l├¿ve ├á 189.322 milliers dΓÇÖeuros.
+p20| ( in duizenden euro - en milliers d'euros )
+p20| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p20| Vastleggingen 0 4.582.000 0 0 0 0 Engagement
+p20| Vereffeningen 0 3.741.000 0 0 0 0 Liquidation
+p20| Vastleggingen 432.473 547.850 668.313 664.524 688.957 714.287 Engagement
+p20| Vereffeningen 396.202 517.371 695.791 655.022 676.966 706.120 Liquidation
+p20| Vastleggingen 85.224 119.512 138.210 167.829 188.756 208.733 Engagement
+p20| Vereffeningen 83.373 129.777 135.386 164.880 188.753 205.126 Liquidation
+p20| Vastleggingen 16.415 22.400 22.400 22.400 22.400 22.400 Engagement
+p20| Vereffeningen 16.415 22.400 22.400 22.400 22.400 22.400 Liquidation
+p21| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p21| Vastleggingen 25.108 25.532 27.432 32.181 32.538 32.923 Engagement
+p21| Vereffeningen 25.108 25.532 27.432 32.181 32.538 32.923 Liquidation
+p21| Vastleggingen 1.951 1.801 2.400 2.528 2.940 3.442 Engagement
+p21| Vereffeningen 2.672 1.784 2.399 2.519 2.930 3.431 Liquidation
+p21| Vastleggingen 0 0 22.292 30.656 39.346 48.371 Engagement
+p21| Vereffeningen 0 0 20.434 29.959 38.622 47.619 Liquidation
+p21| Vastleggingen 3.078 2.627 2.840 3.043 3.043 3.043 Engagement
+p21| Vereffeningen 3.078 2.627 2.840 3.043 3.043 3.043 Liquidation
+p21| Vastleggingen 800 1.000 400 400 400 400 Engagement
+p21| Vereffeningen 800 1.000 400 400 400 400 Liquidation
+p21| activiteit 50.0.3 komt op 884.747 duizenden euro. Het
+p21| komt op 907.542 duizenden euro.
+p21| 884.747 milliers dΓÇÖeuros. Le montant des cr├⌐dits de
+p21| liquidation demand├⌐s pour cette activit├⌐ sΓÇÖ├⌐l├¿ve ├á
+p21| 907.542 milliers dΓÇÖeuros.
+p23| ( in duizenden euro - en milliers d'euros )
+p24| ( in duizenden euro - en milliers d'euros )
+p25| ( in duizenden euro - en milliers d'euros )
+p35| duizenden euro, deze aan vereffeningskredieten komt
+p35| op 1.821.607 duizenden euro. Het bedrag van de
+p35| 2026 pour lΓÇÖex├⌐cution du programme sΓÇÖ├⌐l├¿ve ├á
+p35| 1.448.411 milliers dΓÇÖeuros ; celui des cr├⌐dits de
+p35| liquidation sΓÇÖ├⌐l├¿ve ├á 1.821.607 milliers dΓÇÖeuros. Le
+p36| par activit├⌐ (en milliers dΓÇÖeuros).
+p36| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p36| Vastleggingen 62.030 68.638 83.803 142.380 147.581 152.101 cd - eng
+p36| Vereffeningen 62.030 68.638 83.803 142.380 147.581 152.101 cd - liq
+p36| Vastleggingen 1.000 2.980 2.960 2.960 2.960 2.960 Engagement
+p36| Vereffeningen 1.000 2.980 2.960 2.960 2.960 2.960 Liquidation
+p36| komt op 86.763 duizenden euro. De verdeling van
+p36| sΓÇÖ├⌐l├¿ve ├á 86.763 milliers dΓÇÖeuros. La r├⌐partition de ces
+p37| Domein ( in duizenden euro - en milliers d'euros ) Domaine
+p37| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p37| Vastleggingen 316.349 879.642 235.910 331.264 399.592 433.603 Engagement
+p37| Vereffeningen 305.273 424.782 305.503 573.795 499.274 414.895 Liquidation
+p37| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p37| vastleggingskredieten komt op 236.160 duizenden
+p37| activiteit bedraagt 305.753 duizenden euro.
+p37| lΓÇÖann├⌐e 2026 sΓÇÖ├⌐l├¿ve ├á 236.160 milliers dΓÇÖeuros. Celui
+p37| 305.753 milliers dΓÇÖeuros.
+p38| ( in duizenden euro - en milliers d'euros )
+p38| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p38| Vastleggingen 491.299 736.737 515.782 525.578 582.075 594.900 Engagement
+p38| Vereffeningen 281.444 460.880 802.474 888.144 398.077 135.048 Liquidation
+p38| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p38| Vastleggingen 15.136 9.650 9.650 9.650 9.650 9.650 Engagement
+p38| Vereffeningen 15.136 9.650 9.650 9.650 9.650 9.650 Liquidation
+p39| duizenden euro. Dit van de vereffeningskredieten
+p39| bedraagt 812.124 duizenden euro.
+p39| milliers dΓÇÖeuros. Celui des cr├⌐dits de liquidation est de
+p39| 812.124 milliers dΓÇÖeuros.
+p39| ( in duizenden euro - en milliers d'euros )
+p39| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p39| Vastleggingen 119.381 102.942 355.959 45.944 53.978 71.557 Engagement
+p39| Vereffeningen 42.127 105.890 373.922 48.361 54.644 100.162 Liquidation
+p39| Vastleggingen 4.558 4.500 4.500 4.500 4.500 4.500 Engagement
+p39| Vereffeningen 4.558 4.500 4.500 4.500 4.500 4.500 Liquidation
+p40| 360.459 duizenden euro; dit van de
+p40| vereffeningskredieten is 378.422 duizenden euro.
+p40| 360.459 milliers dΓÇÖeuros ; celui des cr├⌐dits de
+p40| liquidation ├á 378.422 milliers dΓÇÖeuros.
+p40| ( in duizenden euro - en milliers d'euros )
+p40| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p40| Vastleggingen 168.575 206.697 233.532 298.014 328.253 341.547 Engagement
+p40| Vereffeningen 141.384 214.488 232.480 298.286 315.492 337.525 Liquidation
+p40| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p40| Vastleggingen 2.000 2.000 2.000 2.000 2.000 2.000 Engagement
+p40| Vereffeningen 1.999 2.000 2.000 2.000 2.000 2.000 Liquidation
+p41| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p41| Vastleggingen 3.131 4.038 4.065 4.060 4.065 4.060 Engagement
+p41| Vereffeningen 3.131 4.038 4.065 4.060 4.065 4.060 Liquidation
+p41| duizenden euro. Dit voor de vereffeningskredieten
+p41| bedraagt 238.545 duizenden euro.
+p41| milliers dΓÇÖeuros. Celui des cr├⌐dits de liquidation sΓÇÖ├⌐l├¿ve
+p41| ├á 238.545 milliers dΓÇÖeuros.
+p41| ( in duizenden euro - en milliers d'euros )
+p43| Programma 50.2 Programme 50.2
+p43| 13.030.045 duizenden euro en aan
+p43| vereffeningskredieten 3.738.419 duizenden euro.
+p43| milliers dΓÇÖeuros, celui des cr├⌐dits de liquidation est de
+p43| 3.738.419 milliers dΓÇÖeuros.
+p43| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p43| Vastleggingen 18.218 8.400 27.250 25.840 12.540 12.752 Engagement
+p43| Vereffeningen 5.784 9.357 71.257 36.715 14.753 12.553 Liquidation
+p44| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p44| Vastleggingen 36.837 101.220 101.060 95.355 98.826 100.326 Engagement
+p44| Vereffeningen 54.664 60.888 102.467 107.256 104.223 99.909 Liquidation
+p44| Vastleggingen 2.401 3.500 8.650 15.205 15.509 15.820 Engagement
+p44| Vereffeningen 3.573 1.922 4.695 8.804 13.657 15.526 Liquidation
+p44| In totaal werd 136.960 duizenden euro in vastlegging
+p44| en 178.419 duizenden euro in vereffening aan deze
+p44| Au total, 136.960 milliers dΓÇÖeuros en cr├⌐dits
+p44| dΓÇÖengagement et 178.419 milliers dΓÇÖeuros en cr├⌐dits
+p44| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p44| Vereffeningen 31.348 23.288 27.241 10.397 2.833 3.504 Liquidation
+p44| Vastleggingen 33.594 189 0 0 0 0 Engagement
+p44| Vereffeningen 272.882 158.103 14.007 0 0 159 Liquidation
+p44| Vastleggingen 45.635 13.475 0 0 0 0 Engagement
+p44| Vereffeningen 76.213 76.868 20.406 15.459 6.486 1.144 Liquidation
+p44| Vastleggingen 66.984 78.011 0 0 0 0 Engagement
+p44| Vereffeningen 672.448 601.925 681.849 705.565 556.420 383.166 Liquidation
+p45| Het geheel aan vereffeningsmiddelen bedraagt
+p45| 743.503 duizenden euro in 2026.
+p45| Le total des moyens de liquidation sΓÇÖ├⌐l├¿ve ├á 743.503
+p45| milliers dΓÇÖeuros en 2026.
+p45| 716.262 duizenden euro aan vereffeningskredieten
+p45| een bedrag van 27.241 duizenden euro aan
+p45| 2026, un montant de 716.262 milliers dΓÇÖeuros est
+p45| 27.241 milliers dΓÇÖeuros en cr├⌐dits de liquidation dans
+p45| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p45| Vastleggingen 153.631 484.412 3.517.422 731.596 147.236 802.217 Engagement
+p45| Vereffeningen 45.671 300.579 875.152 551.191 625.516 696.928 Liquidation
+p45| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p45| Vastleggingen 307.785 570.030 2.178.275 1.089.158 1.541.700 1.214.647 Engagement
+p45| Vereffeningen 33.724 306.133 699.894 684.167 995.910 1.061.916 Liquidation
+p46| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p46| Vastleggingen 411 1.179 0 0 0 0 Engagement
+p46| Vereffeningen 577 1.615 1.199 0 0 0 Liquidation
+p46| Vastleggingen 107.241 1.401.292 7.197.388 339.467 633.423 2.558.458 Engagement
+p46| Vereffeningen 95.170 386.749 1.240.252 1.124.221 1.094.835 1.310.183 Liquidation
+p46| investeringen bedraagt 12.893.085 duizenden euro in
+p46| 2026. Het geheel aan vereffeningsmiddelen bedraagt
+p46| 2.816.497 duizenden euro in 2026.
+p46| investissements sΓÇÖ├⌐l├¿ve ├á 12.893.085 milliers dΓÇÖeuros
+p46| en 2026. Le total des moyens de liquidation sΓÇÖ├⌐l├¿ve ├á
+p46| 2.816.497 milliers dΓÇÖeuros en 2026.
+p48| Programma 50.3 Programme 50.3
+p48| duizenden euro en aan vereffeningskredieten 398.376
+p48| duizenden euro.
+p48| milliers dΓÇÖeuros, celui des cr├⌐dits de liquidation est de
+p48| 398.376 milliers dΓÇÖeuros.
+p49| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p49| Vastleggingen 21.932 450 450 450 450 450 Engagement
+p49| Vereffeningen 1.743 450 450 450 450 450 Liquidation
+p49| Vastleggingen 101.412 535.748 588.755 606.645 1.076.631 1.309.595 Engagement
+p49| Vereffeningen 318.604 468.220 397.926 641.095 710.368 687.287 Liquidation
+p51| Programma 50.4 Programma 50.4
+p52| op 131.448 duizenden euro . Het bedrag van de
+p52| vereffeningskredieten is 134.275 duizenden euro .
+p52| milliers dΓÇÖeuros. Celui des cr├⌐dits de liquidation sΓÇÖ├⌐l├¿ve
+p52| ├á 134.275 milliers dΓÇÖeuros . Ces cr├⌐dits sont r├⌐partis
+p52| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p52| Vastleggingen 5.476 6.515 6.789 6.819 6.899 6.994 Engagement
+p52| Vereffeningen 5.476 6.515 6.789 6.819 6.899 6.994 Liquidation
+p52| Vastleggingen 68.126 54.172 78.011 88.466 95.026 107.434 Engagement
+p52| Vereffeningen 68.121 54.172 78.011 88.466 95.026 107.434 Liquidation
+p53| komt op 180.578 duizenden euro, waarvan 78.011
+p53| duizenden euro ten laste is van het programma 50.4
+p53| en 102.567 duizenden euro ten laste van het
+p53| charge du budget de la D├⌐fense pour 2026 sΓÇÖ├⌐l├¿ve ├á
+p53| 180.578 milliers dΓÇÖeuros, dont 78.011 milliers dΓÇÖeuros ├á
+p53| charge du programme 50.4 et 102.567 milliers dΓÇÖeuros
+p54| komt voor 2026 op 14.989 duizenden euro, waarvan
+p54| 6.789 duizenden euro ten laste wordt genomen van
+p54| het programma 50.4 en 8.200 duizenden euro ten
+p54| sΓÇÖ├⌐l├¿ve, pour 2026, ├á 14.989 milliers dΓÇÖeuros, dont
+p54| 6.789 milliers dΓÇÖeuros ├á charge du programme 50.4 et
+p54| 8.200 milliers dΓÇÖeuros ├á charge du programme 50.5.
+p54| de activiteit 50.4.1, zijnde 85.387 duizenden euro, is
+p54| 2026, soit 85.387 milliers dΓÇÖeuros, est ├⌐gal ├á la somme
+p55| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p55| Vastleggingen 769 743 1.100 1.100 1.100 1.100 Engagement
+p55| Vereffeningen 769 743 1.100 1.100 1.100 1.100 Liquidation
+p55| Vastleggingen 21.671 29.027 44.961 57.312 73.052 93.133 Engagement
+p55| Vereffeningen 25.658 32.980 47.788 59.201 73.452 93.633 Liquidation
+p55| duizenden euro is bestemd om onderstaande uitgaven
+p55| Le cr├⌐dit dΓÇÖengagement de 46.061 milliers dΓÇÖeuros ├á
+p55| 48.888 duizenden euro, is bestemd voor de betaling
+p55| milliers dΓÇÖeuros, est destin├⌐ ├á payer les
+p56| Programma 50.5 Programme 50.5
+p57| 1.233.853 duizenden euro; dit van de
+p57| vereffeningskredieten op 1.234.715 duizenden euro.
+p57| lΓÇÖex├⌐cution du programme de mise en ┼ôuvre sΓÇÖ├⌐l├¿ve ├á
+p57| 1.233.853 milliers dΓÇÖeuros ; celui des cr├⌐dits de
+p57| liquidation, ├á 1.234.715 milliers dΓÇÖeuros.
+p57| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p57| Vastleggingen 48.071 55.759 69.434 115.625 118.863 125.676 Engagement
+p57| Vereffeningen 48.071 55.759 69.434 115.625 118.863 125.676 Liquidation
+p57| Vastleggingen 4.760 3.240 3.240 3.240 3.240 3.240 Engagement
+p57| Vereffeningen 4.760 3.240 3.240 3.240 3.240 3.240 Liquidation
+p57| Vastleggingen 863.652 48.696 544.475 739.884 738.150 747.864 Engagement
+p57| Vereffeningen 855.901 64.722 545.337 739.834 738.162 747.864 Liquidation
+p57| Vastleggingen 1.500 1.500 1.500 1.500 1.500 1.500 Engagement
+p57| Vereffeningen 1.500 1.500 1.500 1.500 1.500 1.500 Liquidation
+p58| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p58| Vastleggingen 0 0 5.000 5.000 5.000 5.000 Engagement
+p58| Vereffeningen 0 0 5.000 5.000 5.000 5.000 Liquidation
+p58| Vastleggingen 7.095 10.999 8.200 8.200 8.200 8.500 Engagement
+p58| Vereffeningen 7.095 10.999 8.200 8.200 8.200 8.500 Liquidation
+p58| Vastleggingen 260 1.699 102.567 2.695 2.768 2.843 Engagement
+p58| Vereffeningen 0 1.699 102.567 2.695 2.768 2.843 Liquidation
+p58| Vastleggingen 22.121 0 2.000 38.500 38.500 38.500 Engagement
+p58| Vereffeningen 12.646 9.475 2.000 38.500 38.500 38.500 Liquidation
+p58| Vastleggingen 46.801 0 305.096 259.950 259.950 259.950 Engagement
+p58| Vereffeningen 41.747 8.202 305.096 259.950 259.950 259.950 Liquidation
+p58| Vastleggingen 11.918 0 192.341 6.750 6.750 6.750 Engagement
+p58| Vereffeningen 11.918 0 192.341 6.750 6.750 6.750 Liquidation
+p60| Programma 50.6 Programme 50.6
+p61| 51.302 duizenden euro , deze aan
+p61| vereffeningskredieten 52.326 duizenden euro.
+p61| 2026 pour lΓÇÖex├⌐cution du programme sΓÇÖ├⌐l├¿ve ├á
+p61| 51.302 milliers dΓÇÖeuros ; celui des cr├⌐dits de liquidation
+p61| sΓÇÖ├⌐l├¿ve ├á 52.326 milliers dΓÇÖeuros.
+p61| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p61| Vastleggingen 25.934 25.777 25.095 25.423 25.818 26.228 Engagement
+p61| Vereffeningen 25.934 25.777 25.095 25.423 25.818 26.228 Liquidation
+p61| komt op 25.095 duizenden euro. De verdeling van
+p61| sΓÇÖ├⌐l├¿ve ├á 25.095 milliers dΓÇÖeuros. La r├⌐partition de ces
+p61| ( in duizenden euro - en milliers d'euros )
+p62| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p62| Vastleggingen 9.940 10.740 11.873 14.216 16.192 18.143 Engagement
+p62| Vereffeningen 9.940 10.740 11.873 14.216 16.192 18.143 Liquidation
+p62| komt op 12.305 duizenden euro. De verdeling van
+p62| sΓÇÖ├⌐l├¿ve ├á 12.305 milliers dΓÇÖeuros et la r├⌐partition de
+p62| ( in duizenden euro - en milliers d'euros )
+p62| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p62| Vastleggingen 12.018 12.506 12.457 12.855 13.221 13.595 Engagement
+p62| Vereffeningen 11.791 11.832 13.627 12.743 13.128 13.506 Liquidation
+p63| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p63| komt op 13.402 duizenden euro en deze voor de
+p63| vereffeningskredieten op 14.577 duizenden euro.
+p63| 2026 pour lΓÇÖactivit├⌐ est de 13.402 milliers dΓÇÖeuros. Le
+p63| montant des cr├⌐dits de liquidation demand├⌐s sΓÇÖ├⌐l├¿ve ├á
+p63| 14.577 milliers dΓÇÖeuros.
+p64| ( in duizenden euro - en milliers d'euros )
+p65| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p65| ( in duizenden euro - en milliers d'euros )
+p65| De kredieten van 500 duizenden euro in vastlegging
+p65| en 349 duizenden euro in vereffening stijgen licht om
+p65| Des cr├⌐dits de 500 milliers dΓÇÖeuros en engagement et
+p65| de 349 milliers dΓÇÖeuros en liquidation augmentent
+p66| Programma 50.7 Programme 50.7
+p67| vastleggingskredieten komt op 625.106 duizenden
+p67| duizenden euro . Deze kredieten worden verdeeld
+p67| 2026 sΓÇÖ├⌐l├¿ve ├á 625.106 milliers dΓÇÖeuros ; celui des
+p67| cr├⌐dits de liquidation sΓÇÖ├⌐l├¿ve ├á 364.710 milliers
+p68| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p68| Vastleggingen 1.968 2.225 2.781 3.330 3.793 4.250 Engagement
+p68| Vereffeningen 1.968 2.225 2.781 3.330 3.793 4.250 Liquidation
+p69| Vastleggingen 4.342 6.759 9.959 12.301 13.605 12.363 Engagement
+p69| Vereffeningen 4.211 4.310 9.016 12.949 12.824 13.069 Liquidation
+p69| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p69| Vastleggingen 10.046 59.006 394.427 99.669 147.716 457.571 Engagement
+p69| Vereffeningen 6.751 18.718 159.240 204.306 219.786 206.497 Liquidation
+p69| Vastleggingen 102.724 6.570 104.439 123.650 51.613 62.509 Engagement
+p69| Vereffeningen 3.041 4.632 84.797 46.242 50.005 56.593 Liquidation
+p69| Vastleggingen 1.056 12.896 986 1.700 2.803 1.891 Engagement
+p69| Vereffeningen 1.056 4.888 809 1.163 1.537 1.845 Liquidation
+p70| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p70| Vastleggingen 8.246 28.000 27.680 45.530 66.530 62.830 Engagement
+p70| Vereffeningen 4.438 6.635 26.384 48.566 55.184 55.936 Liquidation
+p70| Vastleggingen 6.463 7.646 11.449 12.011 13.194 14.278 Engagement
+p70| Vereffeningen 6.463 7.646 11.449 12.011 13.194 14.278 Liquidation
+p70| Vastleggingen 0 6.800 18.400 0 0 0 Engagement
+p70| Vereffeningen 0 6.800 16.560 1.840 0 0 Liquidation
+p70| Vastleggingen 2.401 6.659 48.917 40.043 19.495 20.995 Engagement
+p70| Vereffeningen 2.401 6.659 48.917 40.043 19.495 20.995 Liquidation
+p71| voor de DIRS bedraagt jaarlijks 3% van het budget
+p71| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p71| Vastleggingen 1.841 3.900 4.100 4.400 4.400 4.600 Engagement
+p71| Vereffeningen 1.788 2.428 3.180 3.430 4.160 4.500 Liquidation
+p72| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p72| Vastleggingen 159 400 1.200 800 800 1.000 Engagement
+p73| Programma 50.8 Programme 50.8
+p73| programma komt op 15.992 duizenden euro , aan
+p73| vereffeningskredieten op 15.534 duizenden euro.
+p73| lΓÇÖex├⌐cution du programme en 2026 sΓÇÖ├⌐l├¿ve ├á 15.992
+p73| milliers dΓÇÖeuros ; celui des cr├⌐dits de liquidation ├á
+p73| 15.534 milliers dΓÇÖeuros.
+p73| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p73| Vastleggingen 6.125 6.166 5.568 6.252 6.264 6.275 Engagement
+p73| Vereffeningen 6.125 6.166 5.568 6.252 6.264 6.275 Liquidation
+p74| en vereffeningskredieten komt op 5.588 duizenden
+p74| tous deux ├á 5.588 milliers dΓÇÖeuros. Il sΓÇÖagit, pour
+p74| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p74| Vastleggingen 7.126 7.261 7.852 7.951 8.093 8.212 Engagement
+p74| Vereffeningen 7.126 7.261 7.852 7.951 8.093 8.212 Liquidation
+p74| tous deux ├á 7.852 milliers dΓÇÖeuros.
+p75| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p75| 381 duizenden euro.
+p75| tous les deux ├á 381 milliers dΓÇÖeuros.
+p75| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p75| Vastleggingen 1.542 1.535 2.082 1.670 1.957 2.587 Engagement
+p75| Vereffeningen 1.273 1.704 1.623 2.289 1.876 2.004 Liquidation
+p75| (2.171 duizenden euro in vastleggingskredieten) wordt
+p75| (2.171 milliers dΓÇÖeuros en cr├⌐dits dΓÇÖengagement) est
+p77| Programma 50.9 Programme 50.9
+p77| duizenden euro . Deze kredieten worden
+p77| milliers dΓÇÖeuros. Ces cr├⌐dits sont r├⌐partis entre quatre
+p77| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p77| Vastleggingen 16.969 20.229 22.094 22.326 22.078 22.260 Engagement
+p77| Vereffeningen 16.969 20.229 22.094 22.326 22.078 22.260 Liquidation
+p78| van 22.094 duizenden euro, zijn bestemd voor de
+p78| milliers dΓÇÖeuros, sont destin├⌐s au financement des
+p78| 1.865 duizenden euro, rekening houdend met een
+p78| van 685 duizenden euro.
+p78| 1.865 milliers dΓÇÖeuros compte tenu dΓÇÖune
+p78| lΓÇÖindexation de 685 milliers dΓÇÖeuros.
+p78| (in duiz enden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p79| van 111 duizenden euro, zijn bestemd voor de
+p79| milliers dΓÇÖeuros, sont destin├⌐s au financement des
+p79| ( in duizenden euro - en milliers d'euros )
+p80| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p80| Vastleggingen 9.238 13.373 13.694 13.809 13.924 14.039 Engagement
+p80| Vereffeningen 9.238 13.373 13.694 13.809 13.924 14.039 Liquidation
+p80| van 13.694 duizenden euro, zijn bestemd om de
+p80| milliers dΓÇÖeuros, sont destin├⌐s au financement des
+p80| met 321 duizenden euro, rekening houdend met de
+p80| augment├⌐e de 321 milliers dΓÇÖeuros compte tenu de
+p81| (in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d'euros)
+p81| Vastleggingen 14.209 15.601 16.150 16.207 16.264 16.321 Engagement
+p81| Vereffeningen 14.209 15.601 16.150 16.207 16.264 16.321 Liquidation
+p81| duizenden euro bedragen, zijn bestemd om de
+p81| milliers dΓÇÖeuros, sont destin├⌐s au financement des
+p82| met 549 duizenden euro, rekening houdend met de
+p82| augment├⌐e de 549 milliers dΓÇÖeuros compte tenu de

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T16:00:00Z,rq_747,756,no,tick756 OAP autonome Credendo 276.5/153 Monnaie 42.25 WHI 16.15 FANC 30.8; next rq_748; progress@760 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T17:00:00Z,rq_748,757,no,tick757 Defence OA50 eng 20.1bn equip 13.0 pay 1.85; next rq_749; progress@760 in 3; rq_116 deferred
