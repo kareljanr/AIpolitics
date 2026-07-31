@@ -13776,3 +13776,21 @@ bud_otw_rec_aju_1210m_2026,otw,2026,1210000000,,,budgeted,src_ccrek_wal_aju2026_
 bud_otw_dep_aju_1196_3m_2026,otw,2026,1196300000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,OTW dep aju 1196.3 (-64.4) buses -43.5 buildings -17.5; tick701
 bud_otw_bus_capex_cut_43_5m_2026,otw,2026,-43500000,,,budgeted,src_ccrek_wal_aju2026_exp_fonds_perimeter,strong,OTW bus acquisition -43.5 (procurement/delivery lag e-bus); tick701
 bud_dual_wal_otw_delijn_2026,gg_belgium,2026,1196300000,,,budgeted,src_dual_wal_vl_perimeter_tick701,strong,Dual OTW dep 1196 vs De Lijn path; not TE-additive; tick701
+bud_wal_prog091_path_ce_83_1m_2026,wallonie_gov,2026,83100000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,DO17 prog091 Affaires interieures CE path +83.1; tick702
+bud_wal_prog091_path_cl_83_0m_2026,wallonie_gov,2026,83000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,DO17 prog091 CL path +83.0; tick702
+bud_wal_fonds_communes_path_31_3m_2026,wallonie_gov,2026,31300000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Fonds des communes +31.3 macro BFP Apr2026; +1pct index freeze retained; dual VL Gemeentefonds; tick702
+bud_wal_aides_compensatoires_105_7m_2026,wallonie_gov,2026,105700000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Aides compensatoires (ex Marshall) aju 105.7 (IB 58.9 +46.8); reform deferred 2027; tick702
+bud_wal_aides_compensatoires_ib_58_9m_2026,wallonie_gov,2026,58900000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Aides compensatoires IB 58.9 after planned reform cut from BA2025 102.4; tick702
+bud_wal_compensatoire_save_fail_45m_2026,wallonie_gov,2026,45000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Structural 45m compensatoire save not delivered 2026; replaced PRW20+waterways5+WE20; tick702
+bud_wal_compensatoire_fill_prw_20m_2026,wallonie_gov,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Non-structural fill PRW recalibrated projects 20m; tick702
+bud_wal_compensatoire_fill_waterways_5m_2026,wallonie_gov,2026,5000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Non-structural fill waterways calendar 5m; tick702
+bud_wal_compensatoire_fill_we_20m_2026,wallonie_gov,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Non-structural fill Wallonie Entreprendre 20m; tick702
+bud_wal_creches_ce_aju_30_7m_2026,wallonie_gov,2026,30700000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Creches/petite enfance CE aju 30.7 (IB 16.3 +14.4); dual Opgroeien/ONE; tick702
+bud_wal_creches_admin_ask_70m_2026,wallonie_gov,2026,70000000,,,estimate,src_ccrek_wal_aju2026_local_creches_primes,medium,Admin asked ~70 CE for renovation programme; cut to +14.4 pending reg 4Jun2026; tick702
+bud_wal_primes_credits_110m_2026,wallonie_gov,2026,110000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,Primes credits CE=CL 110 (DF080.028 10 + PNRR 080.073 100); unchanged aju; tick702
+bud_wal_primes_pnrr_df080_073_100m_2026,wallonie_gov,2026,100000000,,,budgeted,src_ccrek_wal_aju2026_local_creches_primes,strong,PNRR primes DF080.073 100; mid May eng 51pct liq 26pct; tick702
+bud_wal_primes_stock_value_262m_apr2026,wallonie_gov,2026,262000000,,,outturn,src_ccrek_wal_aju2026_local_creches_primes,strong,Primes stock value 262m end Apr2026 (from 269 Jan); 40151 dossiers; tick702
+bud_wal_primes_maintien_recevable_21609,wallonie_gov,2025,0,,,outturn,src_ccrek_wal_aju2026_local_creches_primes,strong,Maintien prior regime requests 24000 of which 21609 receivable Feb2025; tick702
+bud_wal_primes_received_prior_17657_mar25_apr26,wallonie_gov,2026,0,,,outturn,src_ccrek_wal_aju2026_local_creches_primes,strong,Prior-regime prime dossiers received Mar2025-Apr2026 17657; tick702
+bud_wal_primes_still_expected_8400_2026,wallonie_gov,2026,0,,,estimate,src_ccrek_wal_aju2026_local_creches_primes,medium,Admin est ~8400 dossiers still expected by 30Sep2026 (600 travaux); stock value may rise; tick702
+bud_dual_wal_compensatoire_vl_2026,gg_belgium,2026,105700000,,,budgeted,src_dual_wal_local_vl_tick702,strong,Dual WAL aides compensatoires 105.7 vs VL local fiscal tools; not TE-additive; tick702

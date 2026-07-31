@@ -8260,3 +8260,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+32); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_exp_fonds_perimeter_l5**; rq_692=done; spawn **rq_693**; loop_state ticks=701
 - FOI opened: gap_wal_aju2026_exp_fonds_perimeter_l5 — ready (not sent)
 - Next: rq_693; progress@710 in 9 ticks; rq_116 deferred
+
+### 2026-08-01T17:15:00Z — tick 702
+- Unit: **rq_693** (FOI-adjacent dual residual — **WAL compensatoire 105.7 + crèches 30.7 + primes stock 262 dual VL**)
+- Found (primary CoA 2026_26 §5.4.4–5.4.5):
+  - **Aides compensatoires** aju **105.7** (IB **58.9** +46.8); reform deferred **2027**; structural save **45** replaced PRW **20** + waterways **5** + WE **20**
+  - Fonds communes **+31.3** macro; +1% index freeze retained
+  - Crèches CE **30.7** (IB 16.3 +14.4); admin asked **~70**; reg 4 Jun 2026 delay
+  - Primes stock Apr **40151 / 262m** (71% historic); maintien receivable **21609**/24000; received prior **17657**; still expected **~8400** by 30Sep; delays **~2y / 1y7m**; credits **110** mid-May eng **51%** liq **26%**
+  - Dual VL Gemeentefonds/MVP/Opgroeien; Strong CoA; L5 FOI.
+- Wrote: budgets (+18); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_local_creches_primes_l5**; rq_693=done; spawn **rq_694**; loop_state ticks=702
+- FOI opened: gap_wal_aju2026_local_creches_primes_l5 — ready (not sent)
+- Next: rq_694; progress@710 in 8 ticks; rq_116 deferred
