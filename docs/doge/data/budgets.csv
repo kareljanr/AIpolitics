@@ -11951,3 +11951,32 @@ bud_wallonie_sante_dep_bi2025,wallonie_sante_invest,2025,1916319,,,budgeted,src_
 bud_espace_fin_dep_bi2025,wallonie_entreprendre,2025,911928,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Espace Financement dep BI2025 0.912m solde -0.332m (path +11.2m vs BI2024 -11.5m); tick652
 bud_invests_rec_bi2025,wallonie_entreprendre,2025,4166260,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Invests rec BI2025 4.166m path -1.011m; tick652
 bud_invests_dep_bi2025,wallonie_entreprendre,2025,2570968,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Invests dep BI2025 2.571m solde +1.595m; tick652
+bud_caf_private_rec_bi2025,caf_private_aggregate_wal,2025,1579938748,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,CAF privees aggregate rec BI2025 1579.939m CoA Annex3; tick653
+bud_caf_private_dep_bi2025,caf_private_aggregate_wal,2025,1578736919,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,CAF privees aggregate dep BI2025 1578.737m solde +1.202m; tick653
+bud_caf_private_solde_bi2025,caf_private_aggregate_wal,2025,1201829,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,CAF privees aggregate solde SEC BI2025 +1.202m; tick653
+bud_camille_rec_bi2025,camille_wal,2025,578919361,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Camille rec BI2025 578.919m CoA Annex3; tick653
+bud_camille_dep_bi2025,camille_wal,2025,578393147,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Camille dep BI2025 578.393m solde +0.526m; tick653
+bud_camille_solde_bi2025,camille_wal,2025,526214,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Camille solde SEC BI2025 +0.526m; tick653
+bud_parentia_rec_bi2025,parentia_wal,2025,651742290,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Parentia rec BI2025 651.742m largest private CAF CoA; tick653
+bud_parentia_dep_bi2025,parentia_wal,2025,651361404,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Parentia dep BI2025 651.361m solde +0.381m; tick653
+bud_parentia_solde_bi2025,parentia_wal,2025,380886,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Parentia solde SEC BI2025 +0.381m; tick653
+bud_infino_rec_bi2025,infino_wal,2025,341543694,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Infino rec BI2025 341.544m CoA Annex3; tick653
+bud_infino_dep_bi2025,infino_wal,2025,341234297,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Infino dep BI2025 341.234m solde +0.309m; tick653
+bud_infino_solde_bi2025,infino_wal,2025,309397,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Infino solde SEC BI2025 +0.309m; tick653
+bud_kidslife_rec_bi2025_coa,kidslife_wal,2025,7733403,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,KidsLife CoA Annex3 rec BI2025 7.733m (functioning-class perimeter not full prest; dual EPCO 2026 prest 360m); tick653
+bud_kidslife_dep_bi2025_coa,kidslife_wal,2025,7748071,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,KidsLife CoA Annex3 dep BI2025 7.748m solde -0.015m; tick653
+bud_kidslife_solde_bi2025_coa,kidslife_wal,2025,-14669,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,KidsLife CoA solde BI2025 -0.015m; tick653
+bud_caf_stack_private_plus_famiwal_bi2025,aviq,2025,2689758313,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Famiwal 1109.820 + private CAF 1579.939 = 2689.758m class family benefits stack BI2025 (not TE-additive double-count risk if mixed with AViQ dots); tick653
+bud_caf_share_parentia_pct_bi2025,parentia_wal,2025,41,,,other,src_ccrek_caf_family_benefits_bi2025,strong,Parentia ~41pct of private CAF aggregate rec (651.7/1579.9); not EUR; tick653
+bud_caf_share_camille_pct_bi2025,camille_wal,2025,37,,,other,src_ccrek_caf_family_benefits_bi2025,strong,Camille ~37pct of private CAF aggregate rec; not EUR; tick653
+bud_caf_share_infino_pct_bi2025,infino_wal,2025,22,,,other,src_ccrek_caf_family_benefits_bi2025,strong,Infino ~22pct of private CAF aggregate rec; not EUR; tick653
+bud_type3_annex_noncompliance_count,uap_perimeter_wal,2025,46,,,other,src_ccrek_caf_family_benefits_bi2025,strong,CoA: 46 of 112 Type3 orgs did not annex budgets + 2 incomplete; not EUR; tick653
+bud_type3_uap_list_stale_count,uap_perimeter_wal,2025,7,,,other,src_ccrek_caf_family_benefits_bi2025,strong,CoA: 7 fusion/liquidated orgs still on UAP list; not EUR; tick653
+bud_hoccinvest_rec_bi2025,wallonie_entreprendre,2025,21408,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Hoccinvest spin-off rec BI2025 0.021m; tick653
+bud_hoccinvest_dep_bi2025,wallonie_entreprendre,2025,159170,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Hoccinvest dep BI2025 0.159m solde -0.138m; tick653
+bud_socaris_rec_bi2025,wallonie_entreprendre,2025,2082339,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Socaris Hainaut rec BI2025 2.082m; tick653
+bud_socaris_dep_bi2025,wallonie_entreprendre,2025,647035,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Socaris dep BI2025 0.647m solde +1.435m; tick653
+bud_namur_innovation_rec_bi2025,wallonie_entreprendre,2025,700716,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Namur Innovation Growth rec BI2025 0.701m; tick653
+bud_namur_innovation_dep_bi2025,wallonie_entreprendre,2025,365002,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Namur Innovation dep BI2025 0.365m solde +0.336m; tick653
+bud_imbc2020_rec_bi2025,wallonie_entreprendre,2025,750000,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,IMBC 2020 rec BI2025 0.750m; tick653
+bud_imbc2020_dep_bi2025,wallonie_entreprendre,2025,838800,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,IMBC 2020 dep BI2025 0.839m solde -0.089m; tick653

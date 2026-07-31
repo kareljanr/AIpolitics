@@ -7718,3 +7718,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+11); budgets (+45); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_nonfiscal_we_subs_l5_2025; rq_643=done; spawn rq_644; loop_state ticks=652
 - FOI opened: gap_nonfiscal_we_subs_l5_2025 -- ready (not sent)
 - Next: rq_644; progress@660 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T05:00:00Z -- tick 653
+- Unit: rq_644 (FOI-adjacent dual family benefits hole-fill -- **CAF privees + Famiwal** dual Groeipakket + Type3 annex gap)
+- Found: **CAF privees aggregate** (primary CoA Annex3): BI2025 rec **EUR1.580bn** / dep **EUR1.579bn** / solde **+EUR1.2m**. **Parentia EUR651.7m** (~41%); **Camille EUR578.9m** (~37%); **Infino EUR341.5m** (~22%); **KidsLife CoA EUR7.7m** (functioning-class perimeter vs EPCO prest class **EUR360m** 2026). **Famiwal Type2** BI2025 **EUR1.110bn** balanced. Stack class **EUR2.690bn**. **Type3 annex gap:** **46/112** non-annexed + 2 incomplete + 7 stale list. Dual **Groeipakket**. Strong confidence CoA; unit-cost residual FOI.
+- Wrote: entities (+2); budgets (+29); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_caf_family_benefits_l5_2025; rq_644=done; spawn rq_645; loop_state ticks=653
+- FOI opened: gap_caf_family_benefits_l5_2025 -- ready (not sent)
+- Next: rq_645; progress@660 in 7 ticks; rq_116 deferred
