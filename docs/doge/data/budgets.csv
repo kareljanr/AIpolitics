@@ -9800,3 +9800,29 @@ bud_f35_hedge_receipt_2026,mod_defensie,2026,321000000,,,budgeted,src_kamer_expo
 bud_nonfiscal_passage_corr_2026,sec_federal,2026,-620000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Non-fiscal passage corrections -620m 2026 (code8 -1116 + others); tick552
 bud_nonfiscal_guarantee_fund_corr_2026,sec_federal,2026,248000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Guarantee fund financial institutions corr +248m 2026 (vs +790 2025); tick552
 bud_nonfiscal_pension_transfer_corr_2026,sec_federal,2026,375000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Firm pension-obligation transfer to State corr +375m 2026; tick552
+bud_vl_avb_2019_20,vlaanderen_gov,2020,31000000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB starter induction intro budget ~31.0m 2019-20 (basis 20.3+sec 10.7); tick553
+bud_vl_avb_2020_21,vlaanderen_gov,2021,31900000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB 31.9m 2020-21; tick553
+bud_vl_avb_2021_22,vlaanderen_gov,2022,41200000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB 41.2m 2021-22; tick553
+bud_vl_avb_2022_23,vlaanderen_gov,2023,45100000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB 45.1m 2022-23; tick553
+bud_vl_avb_2023_24,vlaanderen_gov,2024,50400000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB 50.4m 2023-24; tick553
+bud_vl_avb_2024_25,vlaanderen_gov,2025,52200000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB total 52.2m 2024-25 (basis 30.5+sec 21.6); tick553
+bud_vl_avb_basis_2024_25,vlaanderen_gov,2025,30500000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB basisonderwijs 30.5m 2024-25; tick553
+bud_vl_avb_sec_2024_25,vlaanderen_gov,2025,21600000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,AVB secundair 21.6m 2024-25; tick553
+bud_vl_inductie_envelope_2026_27,vlaanderen_gov,2026,48700000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Induction units envelope 48.7m (not enough for 20pct all starters); tick553
+bud_vl_avb_workings_alt_2025_26,vlaanderen_gov,2025,38700000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,One-time extra workingsbudget 38.7m 2025-26 as induction delay alternative; tick553
+bud_vl_avb_2026_27_class,vlaanderen_gov,2026,93000000,,,estimate,src_ccrek_vl_leraren_begeleiding_2026,medium,CoA: 2026-27 total AVB ~3x intro (~93m class if 3*31); tick553
+bud_vl_prof_total_2020,vlaanderen_gov,2020,50800000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Teacher professionalization total 50.8m 2020; tick553
+bud_vl_prof_total_2021,vlaanderen_gov,2021,54200000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Prof total 54.2m 2021; tick553
+bud_vl_prof_total_2022,vlaanderen_gov,2022,59200000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Prof total 59.2m 2022; tick553
+bud_vl_prof_total_2023,vlaanderen_gov,2023,64900000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Prof total 64.9m 2023 peak; tick553
+bud_vl_prof_total_2024,vlaanderen_gov,2024,61800000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Prof total 61.8m 2024; tick553
+bud_vl_prof_total_2025,vlaanderen_gov,2025,62400000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Prof total 62.4m 2025 (schools 44.9 + PBD 17.5); tick553
+bud_vl_prof_schools_2025,vlaanderen_gov,2025,44900000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,School nascholingsmiddelen 44.9m 2025; tick553
+bud_vl_prof_pbd_2025,vlaanderen_gov,2025,17500000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,PBD pedagogical guidance services total budget 17.5m 2025; tick553
+bud_vl_prof_priority_themes_2020,vlaanderen_gov,2020,10300000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Priority themes VR 10.3m 2020; zero 2025-27 path; tick553
+bud_vl_leerpunt_2022,vlaanderen_gov,2022,110000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Leerpunt 0.11m 2022; tick553
+bud_vl_leerpunt_2025,vlaanderen_gov,2025,5700000,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Leerpunt 5.7m 2025 (startup+annual+special); tick553
+bud_vl_prof_per_relation_eur,vlaanderen_gov,2025,125,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Professionalization 120-130 EUR per organieke betrekking (amount=125 midpoint); tick553
+bud_vl_specialist_mandates_2024_25,vlaanderen_gov,2025,577,,,budgeted,src_ccrek_vl_leraren_begeleiding_2026,strong,Leraar-specialist mandates 203 basis+374 sec=577 underused 2024-25; tick553
+bud_vl_avb_prof_stack_2025,vlaanderen_gov,2025,114600000,,,derived,src_ccrek_vl_leraren_begeleiding_2026,strong,Dual AVB 52.2 + prof 62.4 = 114.6m 2025 colored teacher PD class; tick553
+bud_dual_vl_avb_induct_2026,vlaanderen_gov,2026,100900000,,,derived,src_ccrek_vl_leraren_begeleiding_2026,medium,AVB path ~52 + induction 48.7 ~100.9m class overlapping envelopes; tick553

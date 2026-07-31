@@ -6707,3 +6707,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +53; cmt +4; lb +8; FOI **gap_tax_measures_outturn_l5** ready+draft; rq_543=done spawn **rq_544**; ticks=552
 - FOI opened: gap_tax_measures_outturn_l5 (ready, human send) - not sent
 - Next: prio5 **rq_544**; deferred **rq_116** SWA
+
+### 2026-07-31T09:10:00Z - tick 553
+- Unit: **rq_544** (FOI-adjacent hole-fill - **CoA 2026_35 Flanders teacher AVB+professionalization L5**)
+- Found (strong primary Rekenhof NL 30 Jun 2026):
+  - **AVB path:** intro **EUR 31.0m** (2019-20) → **52.2m** 2024-25 (basis **30.5** · sec **21.6**); pupil-based not starter-based
+  - **Induction:** envelope **48.7m** (not enough for 20% all starters); alt workings **38.7m** 2025-26; 2026-27 total ~**3x** intro class
+  - **Professionalization:** **50.8 → 62.4m** 2020-25 (schools **44.9** · PBD **17.5** · priority themes **0**); **120-130 EUR**/relation
+  - **Leerpunt:** **0.11 → 5.7m** 2022-25; specialist mandates **577** underused
+  - **Governance:** no global AVB eval; AGODI no colored-use check; 8/80 schools no PD plan; dual FWB Cepage IT
+- Wrote: sources +3; budgets +26; cmt +4; lb +8; FOI **gap_vl_avb_prof_outturn_l5** ready+draft; rq_544=done spawn **rq_545**; ticks=553
+- FOI opened: gap_vl_avb_prof_outturn_l5 (ready, human send) - not sent
+- Next: prio5 **rq_545**; deferred **rq_116** SWA
