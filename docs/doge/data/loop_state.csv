@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T21:15:00Z,rq_613,622,no,tick622 Famiwal SEC 1.110bn dual CAF/Groeipakket; next rq_614; progress@630 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T21:30:00Z,rq_614,623,no,tick623 Sofico budget dep 570.6m dual AWV; next rq_615; progress@630 in 7; rq_116 deferred

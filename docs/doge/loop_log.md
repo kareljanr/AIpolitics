@@ -7470,3 +7470,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update famiwal; budgets (+10); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_famiwal_sec_unit_cost_l5_2025; rq_613=done; spawn rq_614; loop_state ticks=622
 - FOI opened: gap_famiwal_sec_unit_cost_l5_2025 -- ready (not sent)
 - Next: rq_614; progress@630 in 8 ticks; rq_116 deferred
+
+### 2026-07-31T21:30:00Z -- tick 623
+- Unit: rq_614 (FOI-adjacent dual roads hole-fill deepen -- **Sofico** CoA s8.4 BI2025)
+- Found: **Sofico** (primary CoA s8.4). **BI2025 budget:** recettes **EUR575.1m** / depenses **EUR570.6m** (solde **+EUR4.5m**). RW peage/ecluses **EUR130.2m**; TVA tiers **EUR22.6m** overstates SEC objectif **EUR35.1m**; ouvrages art RW **EUR15.0m** missing Sofico budget; invest **EUR289.6m** (PIMPT **EUR181.2m** + PRW **EUR33.9m**); encours **EUR203.5m**; BHNS received **EUR27.6m** / spent **EUR3.7m**. Prior comptes CA **EUR503m**. Dual **AWV** GIP class. Strong confidence CoA; execution/works L5 residual FOI.
+- Wrote: entity update sofico; budgets (+16); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_sofico_budget_execution_l5_2025; rq_614=done; spawn rq_615; loop_state ticks=623
+- FOI opened: gap_sofico_budget_execution_l5_2025 -- ready (not sent)
+- Next: rq_615; progress@630 in 7 ticks; rq_116 deferred

@@ -11347,3 +11347,19 @@ bud_famiwal_dep_path_delta_2024_25,famiwal,2025,15778565,,,budgeted,src_ccrek_fa
 bud_famiwal_solde_path_delta_2024_25,famiwal,2025,996000,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal solde path BI2025-BI2024 +0.996m to balance; tick622
 bud_dual_wal_caf_famiwal_share_2025,famiwal,2025,1109819565,,,budgeted,src_dual_famiwal_groeipakket_sec_tick622,strong,Famiwal public CAF SEC 1.110bn BI2025 dual private CAF prest stack ~1.93bn 2026 class; tick622
 bud_dual_famiwal_groeipakket_class_2025,gg_belgium,2025,1109819565,,,budgeted,src_dual_famiwal_groeipakket_sec_tick622,strong,Famiwal SEC 1.110bn dual VL Groeipakket awards ~4.7bn class not additive; tick622
+bud_sofico_rec_bi2025,sofico,2025,575100000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA s8.4 Sofico recettes BI2025 575.1m; tick623
+bud_sofico_dep_bi2025,sofico,2025,570600000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA s8.4 Sofico depenses BI2025 570.6m; tick623
+bud_sofico_solde_bi2025,sofico,2025,4500000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,Derived Sofico budget solde +4.5m BI2025 (575.1-570.6); tick623
+bud_sofico_rw_peage_ecluses_bi2025,sofico,2025,130200000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: RW CL peage+ecluses missions Sofico 130.2m BI2025 matches organism recettes; tick623
+bud_sofico_tva_tiers_bi2025,sofico,2025,22600000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: TVA 22.6m pour compte tiers in Sofico recettes - not real recette; SEC objectif 35.1m overstated; tick623
+bud_sofico_sec_objectif_bi2025,sofico,2025,35100000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico SEC objectif 35.1m overstated by TVA 22.6m class; tick623
+bud_sofico_ouvrages_art_rw_bi2025,sofico,2025,15000000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: RW DF49.137 subvention ouvrages d art 15.0m not in Sofico BI2025 budget; tick623
+bud_sofico_prw_rec_budget_bi2025,sofico,2025,33400000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico PRW recettes prevision 33.4m BI2025; RW CL not on specific address yet; tick623
+bud_sofico_invest_total_bi2025,sofico,2025,289600000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico invest depenses budget 289.6m BI2025; tick623
+bud_sofico_invest_pimpt_bi2025,sofico,2025,181200000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico invest PIMPT 181.2m within 289.6m BI2025; tick623
+bud_sofico_invest_prw_bi2025,sofico,2025,33900000,,,budgeted,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico invest PRW 33.9m within 289.6m BI2025; tick623
+bud_sofico_encours_pimpt_prw_2024,sofico,2024,203500000,,,outturn,src_ccrek_sofico_budget_bi2025,strong,CoA: encours engagements PIMPT+PRW 203.5m at 20 Nov 2024; tick623
+bud_sofico_bhns_received_class,sofico,2024,27600000,,,outturn,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico received 27.6m BHNS Charleroi vs spent 3.7m; 4th tranche 10.5m not budgeted; tick623
+bud_sofico_bhns_spent_class,sofico,2024,3700000,,,outturn,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico BHNS Charleroi depenses 3.7m vs receipts 27.6m; tick623
+bud_sofico_liq_10m_2024_pimpt_prw,sofico,2024,156000000,,,outturn,src_ccrek_sofico_budget_bi2025,strong,CoA: invest liquidated 10 months 2024 156.0m (PIMPT 129.8 + PRW 26.2); tick623
+bud_dual_sofico_awv_budget_class_2025,gg_belgium,2025,570600000,,,budgeted,src_dual_sofico_awv_budget_tick623,strong,Sofico dep budget 570.6m BI2025 dual AWV GIP invest class not additive; tick623
