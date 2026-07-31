@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T00:30:00Z,rq_626,635,no,tick635 DO18 DF114 research 200m dual VLAIO invest backlog 32m; next rq_627; progress@640 in 5; rq_116 deferred
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-01T00:45:00Z,rq_627,636,no,tick636 Fonds dechets 20.5m stock 221m dual OVAM env stock 495m; next rq_628; progress@640 in 4; rq_116 deferred

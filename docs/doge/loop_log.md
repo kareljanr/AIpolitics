@@ -7574,3 +7574,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+16); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_df114_recherche_l5_2025; rq_626=done; spawn rq_627; loop_state ticks=635
 - FOI opened: gap_df114_recherche_l5_2025 -- ready (not sent)
 - Next: rq_627; progress@640 in 5 ticks; rq_116 deferred
+
+### 2026-08-01T00:45:00Z -- tick 636
+- Unit: rq_627 (FOI-adjacent dual waste hole-fill -- **Fonds gestion des dechets** CoA s6.2.2 dual OVAM/SPAQuE + Fonds protection env stock)
+- Found: **Fonds dechets** (primary CoA Table32 / s6.2.2). **BI2025:** rec **EUR38.907m** / dep CE=CL **EUR20.483m** / surplus **EUR18.424m** (BA2024 dep **EUR28.771m**; path **-EUR8.288m**). Taxes **EUR32.8m** (path **-EUR0.5m**). EPR participation **EUR1.3m** (CoA: never realized historically; interregional EPR accord pending). Stock carryover liq class **EUR220.8m** eoy2025. Moratorium infra subsidies (no prior promise). **DO15.064** CE **EUR9.389m** / CL **EUR9.689m** (path liq **-EUR1.663m**; exec class **EUR6.522m**). Companion **Fonds protection env:** stock **EUR494.9m** (largest); BI2025 rec **EUR78.431m** / dep **EUR71.635m**; prog075 CE **EUR111.635m** path eng **+EUR25.158m**. Total fonds stocks liq **EUR1.749bn**. Dual **OVAM** ISE Afval class **EUR105.9m** + **SPAQuE** dep **EUR97.3m**. Strong confidence CoA; award L5 residual FOI.
+- Wrote: entities (+fonds_dechets +fonds_protection_env); budgets (+20); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_fonds_dechets_l5_2025; rq_627=done; spawn rq_628; loop_state ticks=636
+- FOI opened: gap_fonds_dechets_l5_2025 -- ready (not sent)
+- Next: rq_628; progress@640 in 4 ticks; rq_116 deferred

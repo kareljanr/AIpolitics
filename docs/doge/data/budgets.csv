@@ -11536,3 +11536,23 @@ bud_fonds_rdi_rec_bi2025,wallonie_gov,2025,22700000,,,budgeted,src_ccrek_do18_re
 bud_df096_invest_ce_bi2025,wallonie_gov,2025,111605000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF096 Aides investissement CE BI2025 111.605m path eng -24.640m; tick635
 bud_df096_invest_cl_bi2025,wallonie_gov,2025,90184000,,,budgeted,src_ccrek_do18_recherche_df114_bi2025,strong,CoA DF096 CL BI2025 90.184m path liq -31.401m; tick635
 bud_dual_df114_vlaio_class_2025,gg_belgium,2025,199655000,,,budgeted,src_dual_recherche_wal_vlaio_tick635,strong,DF114 CL 199.7m dual VLAIO awards ~197m class not additive; tick635
+bud_fonds_dechets_rec_bi2025,fonds_dechets_wallonie,2025,38907000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Fonds dechets recettes BI2025 38.907m (39.2m 2024 class)
+bud_fonds_dechets_dep_bi2025,fonds_dechets_wallonie,2025,20483000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Fonds dechets dep CE=CL BI2025 20.483m
+bud_fonds_dechets_dep_ba2024,fonds_dechets_wallonie,2024,28771000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Fonds dechets dep CE=CL BA2024 28.771m; path to BI2025 -8.288m
+bud_fonds_dechets_tax_bi2025,fonds_dechets_wallonie,2025,32800000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Taxes dechets 32.8m BI2025 path -0.5m vs BA2024
+bud_fonds_dechets_epr_rec_bi2025,fonds_dechets_wallonie,2025,1300000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,EPR organism participation 1.3m BI2025; CoA: never realized historically
+bud_fonds_dechets_surplus_bi2025,fonds_dechets_wallonie,2025,18424000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Recettes-depenses surplus 18.424m BI2025 feeds stock
+bud_fonds_dechets_stock_liq_eoy2025,fonds_dechets_wallonie,2025,220800000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Stock carryover liq class 220.8m eoy2025 CoA
+bud_fonds_dechets_exec_ba2024_class,fonds_dechets_wallonie,2024,7676000,,,outturn,src_ccrek_fonds_dechets_wal_bi2025,medium,Programme 077 exec class 7.676m BA2024 under-spend vs 28.771m credits
+bud_do15_064_dechets_ce_bi2025,wallonie_gov,2025,9389000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,DO15.064 Politique dechets-ressources CE BI2025 9.389m
+bud_do15_064_dechets_cl_bi2025,wallonie_gov,2025,9689000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,DO15.064 CL BI2025 9.689m path liq -1.663m vs BA2024 11.352m
+bud_do15_064_dechets_ce_ba2024,wallonie_gov,2024,11033000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,DO15.064 CE BA2024 11.033m
+bud_do15_064_dechets_exec_class,wallonie_gov,2024,6522000,,,outturn,src_ccrek_fonds_dechets_wal_bi2025,medium,DO15.064 exec class 6.522m
+bud_fonds_prot_env_rec_bi2025,fonds_protection_env_wallonie,2025,78431000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Fonds protection env recettes BI2025 78.431m
+bud_fonds_prot_env_dep_bi2025,fonds_protection_env_wallonie,2025,71635000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Fonds protection env dep BI2025 71.635m
+bud_fonds_prot_env_075_ce_bi2025,fonds_protection_env_wallonie,2025,111635000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Prog 075 CE BI2025 111.635m path eng +25.158m vs BA 86.477m
+bud_fonds_prot_env_075_cl_bi2025,fonds_protection_env_wallonie,2025,71635000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Prog 075 CL BI2025 71.635m path liq +10.158m vs BA 61.477m
+bud_fonds_prot_env_stock_liq_eoy2025,fonds_protection_env_wallonie,2025,494900000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,Stock carryover liq class 494.9m eoy2025 largest fonds
+bud_fonds_budg_total_stock_liq_eoy2025,wallonie_gov,2025,1749333000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,All fonds budgetaires stock liq projected eoy2025 1749.333m (eng 1491.478m)
+bud_do15_agg_ce_bi2025,wallonie_gov,2025,637038000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,DO15 Agriculture RN env CE BI2025 637.038m path eng -35.257m
+bud_do15_agg_cl_bi2025,wallonie_gov,2025,604584000,,,budgeted,src_ccrek_fonds_dechets_wal_bi2025,strong,DO15 CL BI2025 604.584m path liq -67.789m
