@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:00:00Z,rq_542,551,no,tick551 fiscal ESA/cash L5 done; next prio5 rq_543; rq_116 SWA deferred.
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-31T09:05:00Z,rq_543,552,no,tick552 tax measures+nonfiscal done; next prio5 rq_544; rq_116 SWA deferred.

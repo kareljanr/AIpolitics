@@ -6696,3 +6696,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +46; cmt +4; lb +8; FOI **gap_fiscal_assignment_l5_2026** ready+draft; rq_542=done spawn **rq_543**; ticks=551
 - FOI opened: gap_fiscal_assignment_l5_2026 (ready, human send) - not sent
 - Next: prio5 **rq_543**; deferred **rq_116** SWA
+
+### 2026-07-31T09:05:00Z - tick 552
+- Unit: **rq_543** (FOI-adjacent hole-fill - **expose Table4 tax measures L5 + non-fiscal dual**)
+- Found (strong primary DOC 56 1278/001 Part II):
+  - **Table4 measures 2026 total:** **+EUR 1.585bn** (VAT pure **+511** · excise **+57** · divers **+1148**; BVH measures **-383**)
+  - **L5 raisers:** TACT **+414** · CGT **+236** · interest-ded abolish **+203** · UI tax-relief end **+257** · hospitality VAT stack **633** · bank **150** · VVPR **90**
+  - **L5 costs:** tax-free sum **-531** · author-rights IT **-142** · meal vouchers **-76** · demo/rebuild VAT **-124**
+  - **Non-fiscal corrected:** 2025 **6.971bn** · 2026 **5.850bn** (−1.121); Finance **5.126** · SS **1.190→0.002**; sleeping assets **+475**; Fluxys **+100**; F35 hedge **+321**
+- Wrote: sources +2; budgets +53; cmt +4; lb +8; FOI **gap_tax_measures_outturn_l5** ready+draft; rq_543=done spawn **rq_544**; ticks=552
+- FOI opened: gap_tax_measures_outturn_l5 (ready, human send) - not sent
+- Next: prio5 **rq_544**; deferred **rq_116** SWA

@@ -9748,3 +9748,55 @@ bud_tech_hedera_rv_2026,fod_finance,2026,-39200000,,,budgeted,src_kamer_expose_f
 bud_tech_bvh_inkohiering_2026,fod_finance,2026,-184000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 BVH inkohiering rhythm -184m 2026; tick551
 bud_dual_fiscal_esa_vs_graph1_2026,fod_finance,2026,163805500000,,,derived,src_dual_fiscal_esa_graph1_tick551,strong,Dual Table6 ESA 163.8bn ~ Graph1 fiscal 164.3bn 2026; tick551
 bud_dual_middelen_vs_esa_wedge_2026,fod_finance,2026,98371000000,,,derived,src_dual_fiscal_esa_graph1_tick551,strong,Dual ESA 163.8 - Middelen cash 65.4 = assignment/third-party wedge ~98.4bn class; tick551
+bud_tax_measures_total_2026,fod_finance,2026,1584700000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 complementary fiscal measures total +1584.7m 2026; tick552
+bud_tax_measures_vat_pure_2026,fod_finance,2026,511200000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 measures pure VAT +511.2m 2026; tick552
+bud_tax_measures_excise_2026,fod_finance,2026,57100000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 measures excise +57.1m 2026; tick552
+bud_tax_measures_divers_2026,fod_finance,2026,1148000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 measures divers +1148.0m 2026; tick552
+bud_tax_measures_bvh_2026,fod_finance,2026,-382900000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4/5 BVH measures impact -382.9m 2026; tick552
+bud_tax_measures_dec_conclave_2026,fod_finance,2026,1384800000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 Dec2025 conclave package +1384.8m 2026; tick552
+bud_tax_measures_summer_2026,fod_finance,2026,-138500000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 summer agreement net -138.5m 2026; tick552
+bud_tax_measures_feb_gvt_2026,fod_finance,2026,255600000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 Feb2025 GVT package +255.6m 2026; tick552
+bud_tact_securities_tax_2026,fod_finance,2026,414000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 annual securities account tax +414m 2026; dual CoA TACT; tick552
+bud_capital_gains_tax_2026,fod_finance,2026,236000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 capital gains tax +236m 2026; tick552
+bud_interest_ded_abolish_2026,fod_finance,2026,203450000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 abolish ordinary interest deduction +203.45m 2026; tick552
+bud_ui_tax_relief_end_2026,fod_finance,2026,257390000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 end UI benefit tax reduction +257.39m 2026; tick552
+bud_vat_hotels_camping_2026,fod_finance,2026,158000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT hotels/camping +158m 2026; tick552
+bud_vat_sport_leisure_2026,fod_finance,2026,253000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT sport/leisure facilities +253m 2026; tick552
+bud_vat_takeaway_nonalc_2026,fod_finance,2026,222000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT takeaway+non-alc drinks +222m 2026; tick552
+bud_bank_tax_2026,fod_finance,2026,150000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 bank tax +150m 2026; tick552
+bud_vvpr_liquidation_18pct_2026,fod_finance,2026,90000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VVPR/liquidation 18pct vs 15 +90m 2026; tick552
+bud_excise_gas_2026,fod_finance,2026,91000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 natural gas accise (EU dir anticipate) +91m 2026; tick552
+bud_excise_heatoil_up_2026,fod_finance,2026,19000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 heating oil accise +19m 2026; tick552
+bud_vat_pesticides_21pct_2026,fod_finance,2026,53000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT pesticides 12to21 +53m 2026; tick552
+bud_vat_boiler_21pct_2026,fod_finance,2026,57500000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT fuel boilers 21pct +57.5m 2026; tick552
+bud_insurance_tax_up_2026,fod_finance,2026,51000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 insurance tax 9.6 vs 9.25 +51m 2026; tick552
+bud_dbi_rdt_2026,fod_finance,2026,39600000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 DBI/RDT measure +39.6m 2026; tick552
+bud_embarkation_tax_2026,fod_finance,2026,25300000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 embarkation tax +25.3m 2026; tick552
+bud_marriage_quotient_phaseout_2026,fod_finance,2026,79310000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 marriage quotient phaseout non-retirees 66.3 + retirees 13.0 = 79.3m 2026; tick552
+bud_pension_relief_phaseout_high_2026,fod_finance,2026,33950000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 high-pension tax relief phaseout +33.95m 2026; tick552
+bud_taxfree_sum_cost_2026,fod_finance,2026,-530990000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 tax-free sum (quotité) -530.99m 2026; tick552
+bud_author_rights_it_cost_2026,fod_finance,2026,-142130000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 author rights IT sector -142.13m 2026; tick552
+bud_meal_voucher_face_up_2026,fod_finance,2026,-75500000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 meal vouchers 8to10 EUR face -75.5m 2026; tick552
+bud_vat_demo_rebuild_reduced_2026,fod_finance,2026,-124000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT demolition/rebuild reduced rate -124m 2026; tick552
+bud_excise_elec_residential_cut_2026,fod_finance,2026,-50000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 residential electricity accise cut -50m 2026; tick552
+bud_vat_heatpumps_reduced_2026,fod_finance,2026,-10100000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 VAT heat pumps reduced -10.1m 2026; tick552
+bud_overtime_tax_2026,fod_finance,2026,-26000000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 overtime measure net -26m 2026; tick552
+bud_consumption_transition_2026,fod_finance,2026,-105500000,,,budgeted,src_kamer_expose_tax_measures_t4_2026,strong,Table4 consumption transition measures -105.5m 2026; tick552
+bud_nonfiscal_corrected_2025,sec_federal,2025,6971000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Non-fiscal means after passage corr impact saldo 6971m 2025; tick552
+bud_nonfiscal_corrected_2026,sec_federal,2026,5850000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Non-fiscal means after passage 5850m 2026 (-1121m YoY); tick552
+bud_nonfiscal_receipts_2025,sec_federal,2025,6539000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 non-fiscal receipts before passage 6539m 2025; tick552
+bud_nonfiscal_receipts_2026,sec_federal,2026,6491000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 non-fiscal receipts 6491m 2026; tick552
+bud_nonfiscal_middelen_2025,sec_federal,2025,6519000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 non-fiscal Middelen 6519m 2025; tick552
+bud_nonfiscal_middelen_2026,sec_federal,2026,6470000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 non-fiscal Middelen 6470m 2026; tick552
+bud_nonfiscal_finance_2025,fod_finance,2025,4228000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 Finance non-fiscal 4228m 2025; tick552
+bud_nonfiscal_finance_2026,fod_finance,2026,5126000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 Finance non-fiscal 5126m 2026 (+898m); tick552
+bud_nonfiscal_ss_2025,sec_ss,2025,1190000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 SS non-fiscal 1190m 2025; tick552
+bud_nonfiscal_ss_2026,sec_ss,2026,2000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 SS non-fiscal 2m 2026 (-1188m dual); tick552
+bud_nonfiscal_bosa_2026,sec_federal,2026,447000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 BOSA non-fiscal 447m 2026 (RRF +143 class); tick552
+bud_nonfiscal_interior_2026,sec_federal,2026,198000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Table13 Interior non-fiscal 198m 2026 (AMIF/ISF); tick552
+bud_sleeping_assets_2026,fod_finance,2026,475000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Sleeping assets regulation +475m 2026 Finance art 56.50.01; tick552
+bud_fluxys_energy_norm_2026,sec_federal,2026,100000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Fluxys energy-norm contribution +100m 2026; tick552
+bud_f35_hedge_receipt_2026,mod_defensie,2026,321000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,F35/drones payment hedge receipt +321m 2026 debt agency; tick552
+bud_nonfiscal_passage_corr_2026,sec_federal,2026,-620000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Non-fiscal passage corrections -620m 2026 (code8 -1116 + others); tick552
+bud_nonfiscal_guarantee_fund_corr_2026,sec_federal,2026,248000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Guarantee fund financial institutions corr +248m 2026 (vs +790 2025); tick552
+bud_nonfiscal_pension_transfer_corr_2026,sec_federal,2026,375000000,,,budgeted,src_kamer_expose_nonfiscal_2026,strong,Firm pension-obligation transfer to State corr +375m 2026; tick552
