@@ -7422,3 +7422,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update issep; budgets (+10); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_issep_sec_ra_recon_l5_2025; rq_608=done; spawn rq_609; loop_state ticks=617
 - FOI opened: gap_issep_sec_ra_recon_l5_2025 -- ready (not sent)
 - Next: rq_609; progress@620 in 3 ticks; rq_116 deferred
+
+### 2026-07-31T20:15:00Z -- tick 618
+- Unit: rq_609 (FOI-adjacent dual international hole-fill deepen -- **WBI** Type1 CoA SEC)
+- Found: **WBI** Wallonie-Bruxelles International (primary CoA Table33 + Table9). **BI2025 SEC:** recettes **EUR91.855m** / depenses **EUR94.126m** / solde **-EUR2.271m**. **BI2024 SEC:** rec **EUR103.208m** / dep **EUR101.479m** / solde **+EUR1.729m** (path dep **-EUR7.353m** / solde **-EUR4.000m**). Prior RA liq **EUR96.4m**/104.2m close to SEC; FWB+WAL dots **EUR73.0m** 2026; treasury rapat class **EUR4.0m**. Dual **VL SN EUR8.971m** + **FIT EUR63.1m** not additive. Strong confidence CoA; staff/network/COCOF residual FOI.
+- Wrote: entity update wbi; budgets (+11); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_wbi_sec_staff_network_l5_2025; rq_609=done; spawn rq_610; loop_state ticks=618
+- FOI opened: gap_wbi_sec_staff_network_l5_2025 -- ready (not sent)
+- Next: rq_610; progress@620 in 2 ticks; rq_116 deferred

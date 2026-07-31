@@ -11295,3 +11295,14 @@ bud_issep_dep_path_delta_2024_25,issep,2025,-5747000,,,budgeted,src_ccrek_issep_
 bud_issep_solde_path_delta_2024_25,issep,2025,8600000,,,budgeted,src_ccrek_issep_budget_bi2025,strong,ISSeP solde path BI2025-BI2024 +8.600m CoA (deficit shrink); tick617
 bud_issep_sec_vs_do15_gap_2025,issep,2025,23172000,,,budgeted,src_ccrek_issep_budget_bi2025,medium,Derived SEC dep 46.955m BI2025 minus DO15 missions 23.783m class ~23.2m other/own residual FOI; tick617
 bud_dual_issep_vito_scale_2025,gg_belgium,2025,46955000,,,budgeted,src_dual_issep_vito_sec_tick617,strong,ISSeP SEC dep 47.0m BI2025 dual VITO 297.1m 2024 class scale ~6.3x; not additive; tick617
+bud_wbi_rec_sec_bi2025,wbi,2025,91855000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI recettes SEC BI2025 91.855m CoA Table33; tick618
+bud_wbi_dep_sec_bi2025,wbi,2025,94126000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI depenses SEC BI2025 94.126m CoA Table33; tick618
+bud_wbi_solde_sec_bi2025,wbi,2025,-2271000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI solde SEC BI2025 -2.271m CoA; tick618
+bud_wbi_rec_sec_bi2024,wbi,2024,103208000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI recettes SEC BI2024 103.208m CoA Table33; tick618
+bud_wbi_dep_sec_bi2024,wbi,2024,101479000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI depenses SEC BI2024 101.479m CoA Table33; tick618
+bud_wbi_solde_sec_bi2024,wbi,2024,1729000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI solde SEC BI2024 +1.729m CoA; tick618
+bud_wbi_dep_path_delta_2024_25,wbi,2025,-7353000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI dep path BI2025-BI2024 -7.353m CoA; tick618
+bud_wbi_solde_path_delta_2024_25,wbi,2025,-4000000,,,budgeted,src_ccrek_wbi_budget_bi2025,strong,WBI solde path BI2025-BI2024 -4.000m CoA; tick618
+bud_wbi_sec_vs_liq_gap_2025,wbi,2025,2322000,,,budgeted,src_ccrek_wbi_budget_bi2025,medium,Derived RA liq 96.448m minus SEC dep 94.126m ~2.322m recon residual FOI; tick618
+bud_wbi_treasury_rapat_class_2025,wbi,2025,4000000,,,budgeted,src_ccrek_wbi_solde_table9,medium,CoA p48: WBI 4.0m in UAP treasury repatriation package to RW 2025 class; tick618
+bud_dual_wbi_vl_stack_class_2025,gg_belgium,2025,94126000,,,budgeted,src_dual_wbi_vl_sec_tick618,strong,WBI SEC dep 94.1m BI2025 dual VL SN 9.0m + FIT 63.1m not additive; tick618
