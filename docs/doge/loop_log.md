@@ -7787,3 +7787,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_coa_wave_651_660_l5_2025 ready+draft; rq_651=done spawn rq_652; ticks=660
 - FOI opened: gap_dual_coa_wave_651_660_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_652**; deferred **rq_116**; progress@670 in 10 ticks
+
+### 2026-08-01T07:00:00Z -- tick 661
+- Unit: rq_652 (FOI-adjacent dual HR hole-fill -- **119quater Annex4 full by-UAP matrix + BA2024 recettes + Type3 totals**)
+- Found: **Annex4** (primary CoA p96): total **2229** agents / **EUR34.41576m** unit **EUR15.440**. Matrix: **Forem 1110 / EUR17.138m** (49.8%) · **AViQ 352 / EUR5.435m** · **IFAPME 305 / EUR4.709m** · ISSeP 94/1.451 · SWL 79/1.220 · CRA-W 56/0.865 · AWEX 55/0.849 · Famiwal 47/0.726 · SWCS 40/0.618 · CRAC 30/0.463 · CGT 22/0.340 · EAP 19/0.293 · APAQ 15/0.232 · ports 4 agents · IWEPS 1. Top3 **79.3%**. Supersedes partial footnote (Forem 15.8/AViQ 4.4). Dual SPW net **EUR15.9m**. **BA2024 Table2:** rec **EUR21.035bn** path **+EUR327m**; Ste-Emilie **EUR4.536bn** vs FWB **EUR4.363bn** gap **EUR172.2m** hospital netting; FRR **+EUR200m**. **Type3 Annex3 totals** rec BI2025 **EUR4.319bn** path **+EUR1.754bn**. Strong confidence CoA; pending 467 residual FOI.
+- Wrote: entities (+eap); budgets (+48); commitments (+6); leaderboard (+6); sources (+4); FOI draft gap_119quater_annex4_pending_l5_2025; rq_652=done; spawn rq_653; loop_state ticks=661
+- FOI opened: gap_119quater_annex4_pending_l5_2025 -- ready (not sent)
+- Next: rq_653; progress@670 in 9 ticks; rq_116 deferred

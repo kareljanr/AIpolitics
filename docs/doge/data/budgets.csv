@@ -12255,3 +12255,51 @@ bud_do18_108_proximite_bi2025,wallonie_gov,2025,26309000,,,budgeted,src_ccrek_em
 bud_do18_109_form_pro_cl_bi2025,wallonie_gov,2025,27191000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 109 formation pro CL 27.191m path +3.772; tick659
 bud_do18_110_forem_form_bi2025,forem,2025,344624000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 110 Forem Formation 344.624m path +2.580; tick659
 bud_do18_113_politiques_croisees_cl,wallonie_gov,2025,18251000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 113 politiques croisees formation CL 18.251m path -2.050; tick659
+bud_uap_119quater_annex4_total_cost,uap_perimeter_wal,2025,34415760,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 total 119quater cost 34.41576m for 2229 agents BI2025; tick661
+bud_uap_119quater_annex4_agents,uap_perimeter_wal,2024,2229,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 agents COUNT 2229 validated; tick661
+bud_uap_119quater_annex4_unit,uap_perimeter_wal,2025,15440,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 unit cost 15440 EUR/agent (34415760/2229); tick661
+bud_forem_119quater_cost_annex4,forem,2025,17138400,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Office wallon formation emploi FOREM 119quater cost 17138400 EUR / 1110 agents; tick661
+bud_forem_119quater_agents_annex4,forem,2024,1110,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Office wallon formation emploi FOREM agents COUNT 1110; tick661
+bud_aviq_119quater_cost_annex4,aviq,2025,5434880,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 AViQ 119quater cost 5434880 EUR / 352 agents; tick661
+bud_aviq_119quater_agents_annex4,aviq,2024,352,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 AViQ agents COUNT 352; tick661
+bud_ifapme_119quater_cost_annex4,ifapme,2025,4709200,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 IFAPME 119quater cost 4709200 EUR / 305 agents; tick661
+bud_ifapme_119quater_agents_annex4,ifapme,2024,305,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 IFAPME agents COUNT 305; tick661
+bud_issep_119quater_cost_annex4,issep,2025,1451360,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 ISSeP 119quater cost 1451360 EUR / 94 agents; tick661
+bud_issep_119quater_agents_annex4,issep,2024,94,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 ISSeP agents COUNT 94; tick661
+bud_swl_119quater_cost_annex4,swl,2025,1219760,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 SWL 119quater cost 1219760 EUR / 79 agents; tick661
+bud_swl_119quater_agents_annex4,swl,2024,79,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 SWL agents COUNT 79; tick661
+bud_cra_w_119quater_cost_annex4,cra_w,2025,864640,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 CRA-W 119quater cost 864640 EUR / 56 agents; tick661
+bud_cra_w_119quater_agents_annex4,cra_w,2024,56,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 CRA-W agents COUNT 56; tick661
+bud_awex_119quater_cost_annex4,awex,2025,849200,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 AWEX 119quater cost 849200 EUR / 55 agents; tick661
+bud_awex_119quater_agents_annex4,awex,2024,55,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 AWEX agents COUNT 55; tick661
+bud_famiwal_119quater_cost_annex4,famiwal,2025,725680,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Famiwal 119quater cost 725680 EUR / 47 agents; tick661
+bud_famiwal_119quater_agents_annex4,famiwal,2024,47,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Famiwal agents COUNT 47; tick661
+bud_swcs_119quater_cost_annex4,swcs,2025,617600,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 SWCS 119quater cost 617600 EUR / 40 agents; tick661
+bud_swcs_119quater_agents_annex4,swcs,2024,40,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 SWCS agents COUNT 40; tick661
+bud_crac_119quater_cost_annex4,crac,2025,463200,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 CRAC 119quater cost 463200 EUR / 30 agents; tick661
+bud_crac_119quater_agents_annex4,crac,2024,30,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 CRAC agents COUNT 30; tick661
+bud_tourisme_wallonie_119quater_cost_annex4,tourisme_wallonie,2025,339680,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 CGT Tourisme Wallonie 119quater cost 339680 EUR / 22 agents; tick661
+bud_tourisme_wallonie_119quater_agents_annex4,tourisme_wallonie,2024,22,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 CGT Tourisme Wallonie agents COUNT 22; tick661
+bud_eap_119quater_cost_annex4,eap,2025,293360,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 EAP 119quater cost 293360 EUR / 19 agents; tick661
+bud_eap_119quater_agents_annex4,eap,2024,19,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 EAP agents COUNT 19; tick661
+bud_apaq_w_119quater_cost_annex4,apaq_w,2025,231600,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 APAQ-W 119quater cost 231600 EUR / 15 agents; tick661
+bud_apaq_w_119quater_agents_annex4,apaq_w,2024,15,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 APAQ-W agents COUNT 15; tick661
+bud_pac_119quater_cost_annex4,pac,2025,30880,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Port autonome Charleroi 119quater cost 30880 EUR / 2 agents; tick661
+bud_pac_119quater_agents_annex4,pac,2024,2,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Port autonome Charleroi agents COUNT 2; tick661
+bud_paco_119quater_cost_annex4,paco,2025,15440,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Port autonome Centre Ouest 119quater cost 15440 EUR / 1 agents; tick661
+bud_paco_119quater_agents_annex4,paco,2024,1,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Port autonome Centre Ouest agents COUNT 1; tick661
+bud_pan_119quater_cost_annex4,pan,2025,15440,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Port autonome Namur 119quater cost 15440 EUR / 1 agents; tick661
+bud_pan_119quater_agents_annex4,pan,2024,1,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 Port autonome Namur agents COUNT 1; tick661
+bud_iweps_119quater_cost_annex4,iweps,2025,15440,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Annex4 IWEPS 119quater cost 15440 EUR / 1 agents; tick661
+bud_iweps_119quater_agents_annex4,iweps,2024,1,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Annex4 IWEPS agents COUNT 1; tick661
+bud_119quater_top3_cost_share,uap_perimeter_wal,2025,27282480,,,budgeted,src_ccrek_119quater_annex4_bi2025,strong,Top3 Forem+AViQ+IFAPME cost sum 27.282m = 79.3pct of 34.416m; tick661
+bud_119quater_top3_agents_share,uap_perimeter_wal,2024,1767,,,outturn,src_ccrek_119quater_annex4_bi2025,strong,Top3 agents 1767 = 79.3pct of 2229; tick661
+bud_ba2024_rec_total,wallonie_gov,2024,21034706000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,BA2024 recettes totales 21034.706m path +326.8m vs BI; tick661
+bud_ba2024_rec_fiscales,wallonie_gov,2024,6903169000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,BA2024 recettes fiscales 6903.169m path +148.2m; tick661
+bud_ba2024_rec_transferees,wallonie_gov,2024,8257998000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,BA2024 recettes transferees 8257.998m path -123.9m; tick661
+bud_ba2024_rec_ste_emilie,ste_emilie,2024,4535541000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,BA2024 Ste-Emilie 4535.541m path -75.8m dual FWB; tick661
+bud_ba2024_rec_frr_ue,prw_frr_wallonie,2024,1073464000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,BA2024 FRR UE rec 1073.464m path +200m; tick661
+bud_ba2024_rec_emprunts,wallonie_debt,2024,3374507000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,BA2024 recettes emprunts 3374.507m path +29.8m; tick661
+bud_ba2024_ste_emilie_fwb_gap,ste_emilie,2024,172200000,,,budgeted,src_ccrek_ba2024_recettes_table2,strong,FWB inscribed 4363.4m vs WAL 4535.5m gap 172.2m hospital charges wrongly netted by FWB; tick661
+bud_type3_total_rec_bi2025,uap_perimeter_wal,2025,4318975544,,,budgeted,src_ccrek_type3_annex3_totals_bi2025,strong,Annex3 Type3 total rec BI2025 4318.976m path +1753.5m; tick661
+bud_type3_total_dep_bi2024_class,uap_perimeter_wal,2024,2834714663,,,budgeted,src_ccrek_type3_annex3_totals_bi2025,strong,Annex3 Type3 total dep BI2024 class 2834.715m (partial perimeter); tick661
