@@ -15156,3 +15156,54 @@ bud_ccrek_buitengewoon_edu_pupils_plus_13pct,rekenhof_nl,2024,13,,,outturn,src_c
 bud_dual_coa_recs_full_impl_only_15_8pct,gg_belgium,2025,158,,,outturn,src_dual_coa_recs_implement_tick743,strong,VL CoA recs fully implemented only 15.8pct of assessed dual federal/BCR CoA follow-up residual; tick743
 bud_dual_coa_disclaimer_accounts_vs_esr_clean,gg_belgium,2024,1,,,outturn,src_dual_coa_recs_implement_tick743,strong,VL commercial accounts disclaimer vs clean ESR dual reporting quality residual; tick743
 bud_dual_verantwoordingsdag_2027_vs_bbt_quality,gg_belgium,2027,1,,,budgeted,src_dual_coa_recs_implement_tick743,strong,Verantwoordingsdag 2027 depends on earlier BBT delivery dual performance-budget residual; tick743
+bud_vl_gsc_pv_cum_2014_23,vlaanderen_gov,2023,7078000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC certificates cost PV 7078m of 10508m (67pct) 2014-23 CoA; tick744
+bud_vl_gsc_wind_cum_2014_23,vlaanderen_gov,2023,1516000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC certificates cost wind 1516m of 10508m (14pct) 2014-23; tick744
+bud_vl_gsc_biomass_cum_2014_23,vlaanderen_gov,2023,1258000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC certificates cost biomass 1258m of 10508m (12pct) 2014-23; tick744
+bud_vl_gsc_avg_annual_2014_23,vlaanderen_gov,2023,1051000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC average annual cost 1051m/yr 2014-23; tick744
+bud_vl_gsc_budget_cost_cum_2014_23,vlaanderen_gov,2023,1011000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC budget-borne cost only 1011m (9pct of 10508) buyback/spread 2016-23; tick744
+bud_vl_gsc_bill_cost_cum_2014_23,vlaanderen_gov,2023,9497000000,,,derived,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC consumer/bill-borne residual ~9497m (=10508-1011); ODV pass-through; tick744
+bud_vl_green_power_support_cum_2014_23,vlaanderen_gov,2023,10864000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Total green power support line 10864m 2014-23 CoA T10; tick744
+bud_vl_green_heat_support_cum_2014_23,vlaanderen_gov,2023,274000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Total green heat support line 274m 2014-23 CoA T10 (excl WKC); tick744
+bud_vl_res_support_stream_share_84pct,vlaanderen_gov,2023,84,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Share of RES support to green power 84pct vs heat 16pct; heat >50pct of energy use; tick744
+bud_vl_res_support_heat_share_16pct,vlaanderen_gov,2023,16,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Share of RES support to green heat 16pct 2014-23; policy mismatch; tick744
+bud_vl_res_support_budget_share_1_8bn,vlaanderen_gov,2023,1800000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,VL budget-borne ~1.8bn of ~13.0bn total RES support 2014-23 (~14.5pct); rest ODV/bill; tick744
+bud_vl_res_support_bill_share_pct_85_5,vlaanderen_gov,2023,855,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Bill/ODV share ~85.5pct of 12.97bn RES support 2014-23; tick744
+bud_vl_wkc_budget_cost_cum_2014_23,vlaanderen_gov,2023,166000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,WKC budget-borne 166m (9pct of 1785m) 2014-23; tick744
+bud_vl_wkc_bill_cost_cum_2014_23,vlaanderen_gov,2023,1619000000,,,derived,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,WKC bill-borne residual ~1619m (=1785-166); tick744
+bud_vl_wkc_avg_annual_2014_23,vlaanderen_gov,2023,179000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,WKC average annual 179m/yr 2014-23; tick744
+bud_vl_wkc_new_issuance_stop_2022,vlaanderen_gov,2022,1,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,No new WKC issued since 2022; legacy path to 2032; tick744
+bud_vl_stat_transfer_2020_21_cum,vlaanderen_gov,2021,46100000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Statistical transfers purchase 46.1m for 2020+2021 goals; tick744
+bud_vl_stat_transfer_unit_price_eur_mwh,vlaanderen_gov,2021,12.5,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Negotiated statistical-transfer unit ~12.5 EUR/MWh CoA; tick744
+bud_vl_retro_invest_premie_2021,vlaanderen_gov,2021,130700000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Retroactieve investeringspremie 130.7m 2021; tick744
+bud_vl_retro_invest_premie_2022,vlaanderen_gov,2022,30600000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Retroactieve investeringspremie 30.6m 2022; tick744
+bud_vl_retro_invest_premie_2023,vlaanderen_gov,2023,1600000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Retroactieve investeringspremie 1.6m 2023; tick744
+bud_vl_retro_invest_premie_cum_2021_23,vlaanderen_gov,2023,158600000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Retro premies cum 158.6m 2021-23 CoA (near 159m T10); tick744
+bud_vl_call_groene_stroom_2021_23,vlaanderen_gov,2023,33800000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Call groene stroom 33.8m of 37.1m in 2021-23 (90pct) nine calls ~1000 projects; tick744
+bud_vl_call_groene_stroom_stop_2024,vlaanderen_gov,2024,0,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Call groene stroom stopped 2024 stop-and-go residual; tick744
+bud_vl_call_groene_stroom_plan_budget_class,vlaanderen_gov,2025,25200000,,,budgeted,src_ccrek_hernieuwbare_vl_2025_residual_tick744,medium,Zonneplan 2025 estimated 25.2m/yr for ~80 MW residual; system stopped 2024; tick744
+bud_vl_call_groene_warmte_2021_23,vlaanderen_gov,2023,70400000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Call groene warmte 70.4m 2021-23 of 108.7m cum for 105 approved apps; tick744
+bud_vl_call_groene_warmte_projects_n_105,vlaanderen_gov,2023,105,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Call groene warmte approved applications COUNT 105 in 2021-23; tick744
+bud_vl_vlaio_ecology_support_class_2024,vlaanderen_gov,2024,48000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,VLAIO ecology support ~48m 2024 (was ~25m prior years); dual VEKA heat calls; tick744
+bud_vl_klimaatoproep_industrial_70m,vlaanderen_gov,2025,70000000,,,budgeted,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Klimaatoproep industrial low-carbon pilot envelope 70m; tick744
+bud_vl_vekp2019_invest_low_752m,vlaanderen_gov,2021,752000000,,,projection,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,VEKP2019 invest low estimate 752m/yr public+private 2021-30 now outdated; tick744
+bud_vl_vekp2019_invest_mid_1900m,vlaanderen_gov,2021,1900000000,,,projection,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,VEKP2019 invest mid 1900m/yr; tick744
+bud_vl_vekp2019_invest_high_2200m,vlaanderen_gov,2021,2200000000,,,projection,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,VEKP2019 invest high 2200m/yr; tick744
+bud_vl_vekp2025_no_invest_cost_update,vlaanderen_gov,2025,0,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,VEKP2025 has no updated investment-cost plan for raised RES goals; CoA finding; tick744
+bud_vl_gsc_social_cost_path_2025_min,vlaanderen_gov,2025,872000000,,,projection,src_ccrek_hernieuwbare_vl_2025_residual_tick744,medium,Minister 2020 path: social GSC cost to 872m in 2025; wind GSC restart not in path; tick744
+bud_vl_gsc_social_cost_path_2030_min,vlaanderen_gov,2030,390000000,,,projection,src_ccrek_hernieuwbare_vl_2025_residual_tick744,medium,Minister 2020 path: social GSC cost to 390m in 2030; sunset end-2032 almost; tick744
+bud_fluvius_invest_baseline_7bn_2024_33,fluvius,2033,7000000000,,,budgeted,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Fluvius invest plan baseline ~7bn 2024-2033 without extra transition; tick744
+bud_fluvius_invest_extra_transition_4bn,fluvius,2033,4000000000,,,budgeted,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Fluvius extra ~4bn energy-transition investments 2024-33 on top of 7bn; tick744
+bud_fluvius_invest_transition_total_class_11bn,fluvius,2033,11000000000,,,budgeted,src_ccrek_hernieuwbare_vl_2025_residual_tick744,medium,Fluvius baseline+extra transition class ~11bn 2024-33; tariff residual; tick744
+bud_vl_floating_pv_budget_6_7m,vlaanderen_gov,2023,6700000,,,budgeted,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Ad hoc floating PV innovative energy projects budgeted 6.7m; tick744
+bud_vl_floating_pv_paid_2_3m,vlaanderen_gov,2023,2300000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Floating PV ad hoc paid only 2.3m (34pct of 6.7m); tick744
+bud_vl_heat_premiums_residential_share_98pct,vlaanderen_gov,2023,98,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,Heat premiums: ~98pct of awarded amount to residential buildings; tick744
+bud_vl_gsc_2014,vlaanderen_gov,2014,1030000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1030m 2014 CoA T10; tick744
+bud_vl_gsc_2015,vlaanderen_gov,2015,1120000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1120m 2015; tick744
+bud_vl_gsc_2016,vlaanderen_gov,2016,1026000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1026m 2016; tick744
+bud_vl_gsc_2017,vlaanderen_gov,2017,1078000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1078m 2017; tick744
+bud_vl_gsc_2018,vlaanderen_gov,2018,1152000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1152m 2018; tick744
+bud_vl_gsc_2019,vlaanderen_gov,2019,1111000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1111m 2019; tick744
+bud_vl_gsc_2020,vlaanderen_gov,2020,1142000000,,,outturn,src_ccrek_hernieuwbare_vl_2025_residual_tick744,strong,GSC support 1142m 2020; tick744
+bud_dual_vl_res_bill_vs_budget_85pct,gg_belgium,2023,855,,,outturn,src_dual_vl_res_support_bill_vs_budget_tick744,strong,VL RES support ~85.5pct on electricity bill dual federal GSC/Elia assign opacity; tick744
+bud_dual_vl_heat_underfunded_vs_use,gg_belgium,2023,16,,,outturn,src_dual_vl_res_support_bill_vs_budget_tick744,strong,Heat gets 16pct of VL RES support while >50pct energy use is heat; dual WAL CV residual; tick744
+bud_dual_fluvius_grid_vs_res_support,gg_belgium,2033,11000000000,,,budgeted,src_dual_vl_res_support_bill_vs_budget_tick744,medium,Fluvius transition+baseline class 11bn dual with VL RES support 13bn cum 2014-23 not additive; tick744

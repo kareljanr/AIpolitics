@@ -8853,3 +8853,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity rekenhof_nl; budgets (+28); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_ccrek_av2025_recs_impl_l5**; extracts+write; rq_734=done; spawn **rq_735**; loop_state ticks=743
 - FOI opened: gap_ccrek_av2025_recs_impl_l5 — ready prio8 (not sent)
 - Next: rq_735; progress@750 in 7; rq_116 deferred
+
+### 2026-08-02T09:15:00Z — tick 744
+- Unit: **rq_735** (FOI-adjacent residual — **CoA 2025_34 Hernieuwbare energie residual L5** tech split / budget-vs-bill / heat imbalance)
+- Found (primary CoA 2025_34, 98p, approved 30 Sep 2025; residual deepen on Table10 + ch5):
+  - **GSC tech split 2014-23:** PV **€7.078bn (67%)** · wind **€1.516bn (14%)** · biomass **€1.258bn (12%)** of **€10.508bn** (avg **€1.051bn/yr**)
+  - **Budget vs bill:** GSC budget-borne only **€1.011bn (9%)**; total RES support **€12.97bn** of which VL budget **~€1.8bn (~14.5%)** rest ODV/bill
+  - **Heat vs power:** green power line **€10.864bn (84%)** vs heat **€274m (16%)** despite heat **>50%** of energy use; heat targets missed 2020 & 2023
+  - **WKC:** cum **€1.785bn** budget **€166m (9%)**; no new issuance since 2022; sunset ~2032
+  - **Stat transfers:** **€46.1m** for 2020-21 @ ~**12.5 EUR/MWh** (paper RES)
+  - **Retro:** 130.7 / 30.6 / 1.6m (2021-23) cum **€158.6m**; call groene stroom **€33.8m** of 37.1 in 2021-23 then **stop 2024**
+  - **VEKP cost opacity:** 2019 estimates **752 / 1900 / 2200 m/yr** outdated; **VEKP2025 no update**
+  - **Fluvius:** invest plan **+€4bn** transition on **€7bn** baseline 2024-33 (class ~11bn dual RES bill stack)
+  - Dual WAL CV ~330m / federal Elia GSC assign opacity not TE-additive
+- Wrote: entity veka/fluvius notes; budgets (+51); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vl_hernieuwbare_residual_l5**; finance extract + write; rq_735=done; spawn **rq_736**; loop_state ticks=744
+- FOI opened: gap_vl_hernieuwbare_residual_l5 — ready prio8 (not sent)
+- Next: rq_736; progress@750 in 6; rq_116 deferred
+

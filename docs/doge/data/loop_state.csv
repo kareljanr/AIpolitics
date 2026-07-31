@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T08:45:00Z,rq_734,743,no,tick743 CoA AV2025 recs/cert residual; next rq_735; progress@750 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T09:15:00Z,rq_735,744,no,tick744 CoA hernieuwbare residual GSC tech/bill split; next rq_736; progress@750 in 6; rq_116 deferred
