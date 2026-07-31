@@ -7303,3 +7303,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+iweps); budgets (+18); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_iweps_2025_outturn_l5; rq_593=done; spawn rq_594; loop_state ticks=602
 - FOI opened: gap_iweps_2025_outturn_l5 → ready (not sent)
 - Next: rq_594; progress@610 in 8 ticks; rq_116 deferred
+
+### 2026-07-31T16:30:00Z — tick 603
+- Unit: rq_594 (FOI-adjacent dual multi-layer stats hole-fill — **IBSA** dual IWEPS)
+- Found: **IBSA** RA2025+2024 (primary PDFs). Embedded **department of perspective.brussels** (not standalone UAP). Staff **42** (end-2025) / **41** (end-2024). Ops credits only: **2025 eng €809k / liq €680k**; **2024 eng €1.130m / liq €516k**. Personnel/comms/IT **in Perspective parent AB** — incomplete public TCO. Dual **IWEPS** full UAP rec **€9.1m** / staff **60** vs IBSA ops-only **€0.68m** / staff **42**. Strong confidence; residual full TCO FOI.
+- Wrote: entities (+ibsa +perspective_bru); budgets (+11); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_ibsa_full_tco_l5_2025; rq_594=done; spawn rq_595; loop_state ticks=603
+- FOI opened: gap_ibsa_full_tco_l5_2025 → ready (not sent)
+- Next: rq_595; progress@610 in 7 ticks; rq_116 deferred

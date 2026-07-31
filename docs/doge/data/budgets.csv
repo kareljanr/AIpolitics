@@ -11148,3 +11148,14 @@ bud_iweps_staff_2024,iweps,2024,0,,,outturn,src_iweps_ra_2024,strong,IWEPS staff
 bud_iweps_research_staff_2024,iweps,2024,0,,,outturn,src_iweps_ra_2024,strong,IWEPS research staff 41 of 60 2024 (not EUR); tick602
 bud_iweps_recettes_2025b,iweps,2025,9288000,,,outturn,src_iweps_budget_ajust_2025,strong,IWEPS budget ajuste 2025 recettes 9.288m decret Art22; tick602
 bud_iweps_depenses_2025b,iweps,2025,17213000,,,outturn,src_iweps_budget_ajust_2025,strong,IWEPS budget ajuste 2025 depenses 17.213m decret Art22; tick602
+bud_ibsa_eng_2025,ibsa,2025,809000,,,outturn,src_ibsa_ra_2025,strong,IBSA engagement credits ops stats 0.809m 2025 excl personnel; tick603
+bud_ibsa_liq_2025,ibsa,2025,680000,,,outturn,src_ibsa_ra_2025,strong,IBSA liquidation credits ops stats 0.680m 2025 excl personnel; tick603
+bud_ibsa_eng_private_2025,ibsa,2025,350000,,,outturn,src_ibsa_ra_2025,strong,IBSA eng private sector fonct 0.350m 2025; tick603
+bud_ibsa_liq_private_2025,ibsa,2025,320000,,,outturn,src_ibsa_ra_2025,strong,IBSA liq private sector fonct 0.320m 2025; tick603
+bud_ibsa_eng_public_2025,ibsa,2025,459000,,,outturn,src_ibsa_ra_2025,strong,IBSA eng public admin fonct 0.459m 2025; tick603
+bud_ibsa_liq_public_2025,ibsa,2025,360000,,,outturn,src_ibsa_ra_2025,strong,IBSA liq public admin fonct 0.360m 2025; tick603
+bud_ibsa_eng_2024,ibsa,2024,1130000,,,outturn,src_ibsa_ra_2024,strong,IBSA engagement credits ops 1.130m 2024 excl personnel; tick603
+bud_ibsa_liq_2024,ibsa,2024,516000,,,outturn,src_ibsa_ra_2024,strong,IBSA liquidation credits ops 0.516m 2024 excl personnel; tick603
+bud_ibsa_staff_2025,ibsa,2025,0,,,outturn,src_ibsa_ra_2025,strong,IBSA staff 42 persons 31Dec2025 (not EUR; pay in Perspective); tick603
+bud_ibsa_staff_2024,ibsa,2024,0,,,outturn,src_ibsa_ra_2024,strong,IBSA staff 41 persons 31Dec2024 (not EUR); tick603
+bud_ibsa_stats_diffused_2025,ibsa,2025,0,,,outturn,src_ibsa_ra_2025,strong,IBSA statistics diffused 887 of which 34 new 2025 (not EUR); tick603
