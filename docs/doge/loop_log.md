@@ -9380,3 +9380,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_771=done; spawn **rq_772**; loop_state ticks=780
 - FOI: none new this tick
 - Next: prio5 **rq_772** (residual dual / FOI-adjacent L5); deferred **rq_116**; progress@790 in 10
+
+## Tick 781 — 2026-08-03T17:00:00Z
+
+- Unit: **rq_772** (FOI-adjacent residual — **Kamer DOC 56 1282/009 Beleidsnota Volksgezondheid / RIZIV measures**, 59p)
+- Found (primary 56K1282009):
+  - **ZIV/AMI total €41.297bn** 2026 (**+€1.566bn**; growth 2% + index 2.72%)
+  - **Correction package class ~€474.9m**: drugs **€227.9m** · doctors **€150m** · day-hosp **€50m** · other **€47m** (dual official corr **€470.8m**)
+  - **Tickets moderators +€125m/yr** from 1 Jul 2026 (fully reinvested care staff)
+  - **Efficiency path** **€247m** 2028 / **€684m** 2029; fed budget help **€40m**/€257m; care-staff envelope **€207m**/€427m
+  - **Medicomut GP** **€21.072m** 2026 of **€42.5m** to 2027 · OA mutual extra **€25m** · prevention **€24.73m**
+  - Growth norm path **2.6%** 2028 / **3%** 2029
+- Wrote: budgets +25; commitments +6; leaderboard +8; sources +2; FOI **gap_riziv_corr_tickets_l5** prio9 ready; raw PDF; rq_772=done; spawn **rq_773**; ticks=781
+- FOI: ready only — **do not send**
+- Next: rq_773 residual dual/L5; progress@790 in 9; rq_116 deferred

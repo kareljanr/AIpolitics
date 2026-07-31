@@ -16412,3 +16412,28 @@ bud_afmps_fees_total_2026,afmps,2026,104831066,,,budgeted,src_kamer_fagg_oap_128
 bud_afmps_interest_2026,afmps,2026,959388,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Debt Agency reserve interest 0.959m 2026; tick779
 bud_afmps_eu_projects_rec_2026,afmps,2026,888400,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,EU project receipts 0.888m 2026; tick779
 bud_afmps_spend_class_2026,afmps,2026,110519400,,,budgeted,src_kamer_fagg_oap_1281_022_2026,medium,Approx spend class pers 81.6 + ops lim 8.4 + ICT 6.4 + Sciensano 10.8 + earmark subs 12.1 + private/1FM ~5.2 ~110.5m; medium sum of OAP lines not full P&L; tick779
+bud_riziv_ami_total_beleid_2026,riziv,2026,41297000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Beleidsnota: ZIV/AMI total 41.297bn 2026 (+1.566bn); dual care auth 40.986; tick781
+bud_riziv_ami_extra_2026,riziv,2026,1566000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Extra investment 1.566bn 2026 (growth norm 2pct + index 2.72pct); tick781
+bud_riziv_corr_drugs_2026,riziv,2026,227900000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Pharma sector correction 227.9m 2026 (multi-year framework 17.3pct of net care); tick781
+bud_riziv_corr_doctors_2026,riziv,2026,150000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Medical doctor prestations correction 150m 2026 (imaging surgery labs); tick781
+bud_riziv_corr_dayhosp_2026,riziv,2026,50000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Day-hospital prestations correction 50m 2026; tick781
+bud_riziv_corr_other_sectors_2026,riziv,2026,47000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Other sectors package 47m 2026 (implants rehab home-care orthopedists class); tick781
+bud_riziv_corr_package_sum_2026,riziv,2026,474900000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Sum drugs+doctors+dayhosp+other 474.9m class dual official corrections 470.775m; tick781
+bud_riziv_tickets_mod_125m_2026,riziv,2026,125000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Tickets moderators +125m/yr from 1 Jul 2026 fully reinvested in care staff/priorities; tick781
+bud_riziv_effic_save_2028,riziv,2028,247000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Structural efficiency measures 247m 2028 within growth norm; tick781
+bud_riziv_effic_save_2029,riziv,2029,684000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Structural efficiency measures 684m 2029; tick781
+bud_riziv_care_staff_env_2028,riziv,2028,207000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Special envelope care staff+priorities 207m 2028 (above growth norm); tick781
+bud_riziv_care_staff_env_2029,riziv,2029,427000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Special envelope care staff+priorities 427m 2029; tick781
+bud_riziv_growth_norm_2028_pct,riziv,2028,2.6,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Growth norm rises to 2.6pct 2028 (amount=pct); tick781
+bud_riziv_growth_norm_2029_pct,riziv,2029,3.0,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Growth norm to 3.0pct 2029 (amount=pct); tick781
+bud_riziv_medicomut_gp_2026,riziv,2026,21072000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Medicomut GP cabinet prime share 21.072m 2026 of 42.5m to 2027; tick781
+bud_riziv_medicomut_gp_path_2027,riziv,2027,42500000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Medicomut GP cabinets envelope 42.5m by 2027; tick781
+bud_riziv_oa_mutual_extra_2026,riziv,2026,25000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Mutualities/OA extra effort 25m 2026 (path gradual +100m class); tick781
+bud_riziv_prevention_budget_2026,riziv,2026,24730000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Prevention envelope class 24.73m 2026; tick781
+bud_riziv_rehab_effort_2026,riziv,2026,7000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Rehab structural effort >7m 2026; tick781
+bud_riziv_pharma_multi_2026,riziv,2026,4700000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Pharma multi-year first envelope 4.7m 2026 (path 14.4m 2029); tick781
+bud_riziv_pharma_multi_2029,riziv,2029,14400000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Pharma multi-year envelope 14.4m 2029; tick781
+bud_riziv_pharma_net_impact_2026,riziv,2026,3000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Net budget impact pharma multi-year 3m 2026 path 11m 2029; tick781
+bud_riziv_indoor_air_pilot_2026,riziv,2026,600000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Indoor air quality pilot call 0.6m 2026; tick781
+bud_riziv_fed_budget_help_2028,riziv,2028,40000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Efficiency share to federal budget help 40m 2028; tick781
+bud_riziv_fed_budget_help_2029,riziv,2029,257000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Efficiency share to federal budget help 257m 2029 final; tick781
