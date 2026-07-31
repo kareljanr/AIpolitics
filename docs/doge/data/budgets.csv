@@ -10130,3 +10130,33 @@ bud_onem_process_14d_pct,onem_rva,2025,90.03,,,outturn,src_onem_ra_2025_press,st
 bud_onem_quality_pct,onem_rva,2025,96.07,,,outturn,src_onem_ra_2025_press,strong,PCT dossiers without error 96.07 (was 95.89); tick563
 bud_onem_ec3_payments_2025,onem_rva,2025,2100000,,,outturn,src_onem_ra_2025_press,strong,COUNT eC3 payments >2.1m; new users 122336; tick563
 bud_onem_ffe_gestion_2025,onem_rva,2025,8477683,,,outturn,src_onem_ra_2025_vol1,strong,FFE management exp 8.478m 2025; tick563
+bud_onem_alloc_total_2025,onem_rva,2025,6589400000,,,outturn,src_onem_ra_2025_vol2,strong,Total allocated benefit amounts 6589.4m 2025 Tab1.3.I (+23.2m +0.4pct); dual vol1 budget prestations 6383m different perimeter; tick564
+bud_onem_alloc_total_2024,onem_rva,2024,6566200000,,,outturn,src_onem_ra_2025_vol2,strong,Allocated total 6566.2m 2024; tick564
+bud_onem_alloc_full_ui_2025,onem_rva,2025,4433400000,,,outturn,src_onem_ra_2025_vol2,strong,Full UI allocated 4433.4m 2025 (+2.8pct); tick564
+bud_onem_alloc_full_ui_jobseek,onem_rva,2025,4323600000,,,outturn,src_onem_ra_2025_vol2,strong,Full UI jobseekers 4323.6m 2025 (+3.2pct); tick564
+bud_onem_alloc_full_ui_nonjs,onem_rva,2025,109800000,,,outturn,src_onem_ra_2025_vol2,strong,Full UI non-jobseekers 109.8m 2025 (-10.6pct path); tick564
+bud_onem_alloc_dispenses_2025,onem_rva,2025,516000000,,,outturn,src_onem_ra_2025_vol2,strong,IDE dispenses studies/training/ALE 516.0m 2025 (+6.5pct); tick564
+bud_onem_alloc_temp_ui_2025,onem_rva,2025,465200000,,,outturn,src_onem_ra_2025_vol2,strong,Temporary unemployment 465.2m 2025 (-21.7pct); tick564
+bud_onem_alloc_temp_ui_2024,onem_rva,2024,594100000,,,outturn,src_onem_ra_2025_vol2,strong,Temp UI 594.1m 2024; tick564
+bud_onem_alloc_interrupt_2025,onem_rva,2025,793600000,,,outturn,src_onem_ra_2025_vol2,strong,Interruption package 793.6m 2025 (+2.7pct); tick564
+bud_onem_alloc_credit_temps,onem_rva,2025,343700000,,,outturn,src_onem_ra_2025_vol2,strong,Credit-temps 343.7m 2025 (+4.0pct); tick564
+bud_onem_alloc_career_interrupt,onem_rva,2025,94700000,,,outturn,src_onem_ra_2025_vol2,strong,Career interruption 94.7m 2025 (-1.0pct path down); tick564
+bud_onem_alloc_thematic,onem_rva,2025,355100000,,,outturn,src_onem_ra_2025_vol2,strong,Thematic leave (parental etc) 355.1m 2025 (+2.6pct); tick564
+bud_onem_alloc_other_2025,onem_rva,2025,381300000,,,outturn,src_onem_ra_2025_vol2,strong,Other allocations 381.3m 2025; tick564
+bud_onem_alloc_parttime_agr,onem_rva,2025,158800000,,,outturn,src_onem_ra_2025_vol2,strong,Part-time workers AGR 158.8m 2025; tick564
+bud_onem_alloc_emploi_form,onem_rva,2025,108900000,,,outturn,src_onem_ra_2025_vol2,strong,Employment and training measures 108.9m 2025; tick564
+bud_onem_alloc_statut_unique,onem_rva,2025,65000000,,,outturn,src_onem_ra_2025_vol2,strong,Statut unique and extinction regimes 65.0m 2025 (-16.9pct); tick564
+bud_onem_alloc_flanders_2025,onem_rva,2025,2764100000,,,outturn,src_onem_ra_2025_vol2,strong,Flanders allocated benefits 2764.1m 2025 (41.9pct; -1.1pct YoY); dual VDAB; tick564
+bud_onem_alloc_wallonia_2025,onem_rva,2025,2657500000,,,outturn,src_onem_ra_2025_vol2,strong,Wallonia allocated 2657.5m 2025 (40.3pct; +0.6pct); dual FOREM; tick564
+bud_onem_alloc_brussels_2025,onem_rva,2025,1167800000,,,outturn,src_onem_ra_2025_vol2,strong,Brussels allocated 1167.8m 2025 (17.7pct; +3.3pct); dual Actiris; tick564
+bud_onem_full_ui_fl_2025,onem_rva,2025,1607300000,,,outturn,src_onem_ra_2025_vol2,strong,Full UI Flanders 1607.3m (36.3pct of full UI); tick564
+bud_onem_full_ui_wal_2025,onem_rva,2025,1838300000,,,outturn,src_onem_ra_2025_vol2,strong,Full UI Wallonia 1838.3m (41.5pct); tick564
+bud_onem_full_ui_bru_2025,onem_rva,2025,987800000,,,outturn,src_onem_ra_2025_vol2,strong,Full UI Brussels 987.8m (22.3pct); tick564
+bud_onem_interrupt_fl_2025,onem_rva,2025,559700000,,,outturn,src_onem_ra_2025_vol2,strong,Interrupt package Flanders 559.7m (70.5pct of interrupt); tick564
+bud_onem_interrupt_wal_2025,onem_rva,2025,195600000,,,outturn,src_onem_ra_2025_vol2,strong,Interrupt Wallonia 195.6m (24.6pct); tick564
+bud_onem_interrupt_bru_2025,onem_rva,2025,38300000,,,outturn,src_onem_ra_2025_vol2,strong,Interrupt Brussels 38.3m (4.8pct); tick564
+bud_onem_temp_ui_fl_2025,onem_rva,2025,259600000,,,outturn,src_onem_ra_2025_vol2,strong,Temp UI+assim Flanders 259.6m (55.8pct); tick564
+bud_onem_temp_ui_wal_2025,onem_rva,2025,184400000,,,outturn,src_onem_ra_2025_vol2,strong,Temp UI Wallonia 184.4m (39.6pct); tick564
+bud_onem_temp_ui_bru_2025,onem_rva,2025,21200000,,,outturn,src_onem_ra_2025_vol2,strong,Temp UI Brussels 21.2m (4.6pct); tick564
+bud_onem_emploi_mes_wal_2025,onem_rva,2025,77700000,,,outturn,src_onem_ra_2025_vol2,strong,Employment measures Wallonia 77.7m of 108.9 total (71.4pct); dual FOREM activation; tick564
+bud_onem_alloc_delta_2025,onem_rva,2025,23200000,,,outturn,src_onem_ra_2025_vol2,strong,YoY increase allocated amounts +23.2m; tick564

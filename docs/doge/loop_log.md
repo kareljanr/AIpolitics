@@ -6845,3 +6845,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +32; cmt +3; lb +8; FOI **gap_onem_op_union_l5_2025** ready+draft; gap_unemp_pay_unit_cost notes; raw PDF; rq_554=done spawn **rq_555**; ticks=563
 - FOI opened: gap_onem_op_union_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_555**; deferred **rq_116**; progress@570 in 7 ticks
+
+### 2026-07-31T10:05:00Z - tick 564
+- Unit: **rq_555** (FOI-adjacent hole-fill - **ONEM RA2025 vol2 benefit L5 by type + region dual PES**)
+- Found (strong primary ONEM vol2 Tab 1.3.I–II; million-EUR allocated):
+  - **Total allocated 2025:** **EUR 6.589bn** (+**23.2m** +0.4%; dual vol1 budget prestations **6.383bn** different perimeter)
+  - **By type:** full UI **4.433** (jobseek **4.324** +3.2%) · dispenses **516** · temp UI **465** (−21.7%) · interrupt **794** (credit-temps **344** · thematic **355** · career **95**) · other **381** · emploi measures **109** · statut unique **65**
+  - **By region:** Flanders **2.764** (41.9%, −1.1%) · Wallonia **2.658** (40.3%, +0.6%) · Brussels **1.168** (17.7%, +3.3%)
+  - **Full UI regional:** FL **1.607** · WAL **1.838** · BRU **988**; interrupt FL **70.5%** of package; emploi measures **71%** WAL
+  - **Dual PES:** federal cash map vs VDAB/FOREM/Actiris activation (ticks 562–563)
+- Wrote: sources +2; budgets +30; cmt +2; lb +8; FOI **gap_onem_region_unit_cost_l5** ready+draft; raw PDF; rq_555=done spawn **rq_556**; ticks=564
+- FOI opened: gap_onem_region_unit_cost_l5 (ready, human send) - not sent
+- Next: prio5 **rq_556**; deferred **rq_116**; progress@570 in 6 ticks
