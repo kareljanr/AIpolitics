@@ -7629,3 +7629,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+23); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do15_agri_nature_l5_2025; rq_632=done; spawn rq_633; loop_state ticks=641
 - FOI opened: gap_do15_agri_nature_l5_2025 -- ready (not sent)
 - Next: rq_633; progress@650 in 9 ticks; rq_116 deferred
+
+### 2026-08-01T02:15:00Z -- tick 642
+- Unit: rq_633 (FOI-adjacent dual admin hole-fill -- **DO11 Support personnel** CoA dual VL/FWB payroll + cabinets Sepac + PRW)
+- Found: **DO11** (primary CoA s5.6.1): BI2025 CE **EUR878.9m** / CL **EUR888.0m** (path eng **-EUR14.1m** / liq **+EUR17.8m**; exec class **EUR692.3m**). **Prog 031 Gestion personnel:** CE **EUR786.3m** / CL **EUR786.2m** (path **+EUR24.4m**). **DF 031.005 remun SPW:** CE=CL **EUR668.6m** (+**1%** vs BI2024 **EUR662.0m**); CoA: insufficient vs BFP index **+2%** Mar2025; admin IF request **EUR679.9m** (gap **EUR11.3m**); savings via plans/CDD/pensions. **DF 031.001** 2nd pillar contractual: **EUR12.0m** (**+EUR9.1m**); DPR end-statutory risk. **Cabinets Sepac:** **EUR21.0m** vs **EUR24.2m** (**-EUR3.2m** / **-15%**) despite index. Prog 032 transfer **EUR6.8m** (EAP **EUR4.5m**). **DO12 Digital** CL **EUR55.1m**. **PRW prog122:** CE **EUR713.5m** / CL **EUR2.255bn** (path eng **-EUR1.286bn**). Strong confidence CoA; FTE residual FOI.
+- Wrote: entities (+sepac); budgets (+22); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_do11_personnel_l5_2025; rq_633=done; spawn rq_634; loop_state ticks=642
+- FOI opened: gap_do11_personnel_l5_2025 -- ready (not sent)
+- Next: rq_634; progress@650 in 8 ticks; rq_116 deferred

@@ -11648,3 +11648,25 @@ bud_do15_061_espace_rural_cl_bi2025,wallonie_gov,2025,30191000,,,budgeted,src_cc
 bud_do15_062_air_eau_sol_ce_bi2025,wallonie_gov,2025,40322000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 062 Prevention Air Eau Sol CE BI2025 40.322m path eng -3.290m
 bud_do15_062_air_eau_sol_cl_bi2025,wallonie_gov,2025,40886000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 062 CL BI2025 40.886m path liq -8.293m
 bud_do15_073_foncier_agri_bi2025,wallonie_gov,2025,625000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Fonds politique fonciere agricole 073 CE=CL BI2025 0.625m path -1.318m vs BA 1.943m
+bud_do11_ce_bi2025,wallonie_gov,2025,878890000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO11 Support personnel juridique immo CE BI2025 878.890m
+bud_do11_cl_bi2025,wallonie_gov,2025,888039000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO11 CL BI2025 888.039m path liq +17.787m vs BA 870.252m
+bud_do11_ce_ba2024,wallonie_gov,2024,892996000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO11 CE BA2024 892.996m
+bud_do11_cl_ba2024,wallonie_gov,2024,870252000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO11 CL BA2024 870.252m
+bud_do11_exec_class_ba2024,wallonie_gov,2024,692269000,,,outturn,src_ccrek_do11_support_personnel_bi2025,medium,DO11 exec class 692.269m BA2024 table
+bud_do11_031_personnel_ce_bi2025,wallonie_gov,2025,786278000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 031 Gestion personnel CE BI2025 786.278m path eng +24.382m
+bud_do11_031_personnel_cl_bi2025,wallonie_gov,2025,786218000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 031 CL BI2025 786.218m path liq +24.065m
+bud_do11_031_005_remun_spw_bi2025,wallonie_gov,2025,668600000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DF 031.005 remun SPW CE=CL 668.6m BI2025 (+1pct vs 662.0m BI2024; CoA under-index vs BFP +2pct)
+bud_do11_031_005_remun_spw_bi2024,wallonie_gov,2024,662000000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DF 031.005 remun SPW BI2024 662.0m
+bud_do11_031_005_admin_request,wallonie_gov,2025,679900000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,medium,Admin IF-validated request 679.9m for DF031.005 vs budget 668.6m gap 11.3m
+bud_do11_031_001_provision_pension2_bi2025,wallonie_gov,2025,12000000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DF 031.001 provision interdept 12.0m BI2025 (+9.1m) 2nd pillar contractual SPW
+bud_do11_cabinets_sepac_bi2025,sepac,2025,21000000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Cabinets personnel Sepac CE=CL 21.0m BI2025 path -3.2m vs BI2024 24.2m (-15pct)
+bud_do11_cabinets_sepac_bi2024,sepac,2024,24200000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Cabinets personnel Sepac BI2024 24.2m
+bud_do11_032_transfer_to_031,wallonie_gov,2025,6800000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 032 Support FP transfer class 6.8m into 031 (EAP dot 4.5m largest)
+bud_do11_eap_dot_from_031,eap_wallonie_fwb,2025,4500000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,EAP dotation via DF031.039 4.5m flat vs prior year CoA
+bud_do11_001_fonctionnel_ce_bi2025,wallonie_gov,2025,89369000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO11 prog001 Fonctionnel CE BI2025 89.369m path eng -29.960m
+bud_do11_001_fonctionnel_cl_bi2025,wallonie_gov,2025,98598000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO11 prog001 CL BI2025 98.598m
+bud_do12_digital_ce_bi2025,wallonie_gov,2025,53854000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO12 Digital CE BI2025 53.854m path eng -0.420m
+bud_do12_digital_cl_bi2025,wallonie_gov,2025,55060000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,DO12 Digital CL BI2025 55.060m path liq -0.615m
+bud_do12_029_gestion_digital_cl_bi2025,wallonie_gov,2025,54914000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 029 Gestion digital CL BI2025 54.914m
+bud_prw_122_ce_bi2025,wallonie_gov,2025,713500000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 122 PRW FRR CE BI2025 713.500m path eng -1286.432m vs BA 1999.932m
+bud_prw_122_cl_bi2025,wallonie_gov,2025,2254954000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 122 PRW FRR CL BI2025 2254.954m path liq +15.950m
