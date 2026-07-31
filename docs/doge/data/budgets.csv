@@ -15942,3 +15942,37 @@ bud_fin_fund_tobacco_ss_2026,fod_finance,2026,2774178000,,,budgeted,src_kamer_fi
 bud_fin_fund_aseva_2026,fod_finance,2026,40148000,,,budgeted,src_kamer_finance_1281_010_2026,strong,Assignment fund ASEVA/energy class 40148 kEUR 2026; tick762
 bud_dual_fin_smals_egov_2026,gg_belgium,2026,39600000,,,derived,src_dual_finance_tax_admin_tick762,strong,Dual Finance eGov 39.6m vs Justice Smals 7.9 + Police 6.0 class; not TE-additive; tick762
 bud_dual_fin_bpost_trans_2026,gg_belgium,2026,8579000,,,derived,src_dual_finance_tax_admin_tick762,strong,Dual Finance bpost state accounts 8.6m vs bpost SGEI 154.9m Mobility; tick762
+bud_emp_oa21_statutair_2026,fod_emploi,2026,10143000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA21 support statutair 10143 kEUR 2026; tick763
+bud_emp_oa21_contract_2026,fod_emploi,2026,3606000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA21 support non-statutair 3606 kEUR 2026; tick763
+bud_emp_oa21_ops_perm_2026,fod_emploi,2026,6914000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA21 permanente ops 6914 kEUR 2026; tick763
+bud_emp_oa21_it_invest_2026,fod_emploi,2026,5723000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA21 IT/invest spike 5723 kEUR 2026 (was 2600 2025); tick763
+bud_emp_oa40_statutair_2026,fod_emploi,2026,1183000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA40 president services statutair 1183 kEUR 2026; tick763
+bud_emp_oa40_contract_2026,fod_emploi,2026,302000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA40 non-statutair 302 kEUR 2026; tick763
+bud_emp_oa51_statutair_2026,fod_emploi,2026,6705000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA51 collective relations statutair 6705 kEUR 2026; tick763
+bud_emp_oa51_contract_2026,fod_emploi,2026,934000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA51 non-statutair 934 kEUR 2026; tick763
+bud_emp_oa51_mediation_2026,fod_emploi,2026,4246000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA51 prog 51/1 social mediation class 4246 kEUR 2026; tick763
+bud_emp_oa52_statutair_2026,fod_emploi,2026,4736000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA52 humanisation statutair 4736 kEUR 2026; tick763
+bud_emp_oa52_contract_2026,fod_emploi,2026,792000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA52 non-statutair 792 kEUR 2026; tick763
+bud_emp_oa52_anti_discrim_2026,fod_emploi,2026,577000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA52/5 anti-discrimination service 577 kEUR 2026; tick763
+bud_emp_oa52_union_org_2026,fod_emploi,2026,650000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA52 toelage representative orgs 650 kEUR 2026 flat; tick763
+bud_emp_oa54_statutair_2026,fod_emploi,2026,14593000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA54 wellbeing inspection statutair 14593 kEUR 2026; tick763
+bud_emp_oa54_contract_2026,fod_emploi,2026,335000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA54 non-statutair 335 kEUR 2026; tick763
+bud_emp_oa54_ops_2026,fod_emploi,2026,1555000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA54 permanente ops 1555 kEUR 2026; tick763
+bud_emp_oa54_fonds_tech_2026,fod_emploi,2026,2160000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA54/3 Fonds tech veiligheid statutair class 2160 kEUR 2026; tick763
+bud_emp_oa57_statutair_2026,fod_emploi,2026,26474000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA57 social laws inspection statutair 26474 kEUR 2026; tick763
+bud_emp_oa57_contract_2026,fod_emploi,2026,698000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA57 non-statutair 698 kEUR 2026; tick763
+bud_emp_oa57_ops_2026,fod_emploi,2026,2787000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA57 permanente ops 2787 kEUR 2026; tick763
+bud_emp_oa58_siod_statutair_2026,fod_emploi,2026,2307000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA58 SIOD/SIRS statutair 2307 kEUR 2026; tick763
+bud_emp_oa58_ops_perm_2026,fod_emploi,2026,237000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA58 permanente ops 237 kEUR 2026; tick763
+bud_emp_oa58_ops_div_2026,fod_emploi,2026,250000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA58 diverse ops 250 kEUR 2026; tick763
+bud_emp_oa58_ops_extra_2026,fod_emploi,2026,164000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA58 permanente extra 164 kEUR 2026; tick763
+bud_emp_oa59_statutair_2026,fod_emploi,2026,2540000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA59 individual relations statutair 2540 kEUR 2026; tick763
+bud_emp_oa59_legal_2026,fod_emploi,2026,4001000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA59/2 legal studies class 4001 kEUR 2026; tick763
+bud_emp_oa59_legal_contract_2026,fod_emploi,2026,770000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA59/2 non-statutair 770 kEUR 2026; tick763
+bud_emp_oa59_rva_fed_dot_2026,rva,2026,167664000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA59/3 BA 23.59.30424002 RVA/ONEM federal expenditure dot 167664 kEUR 2026; tick763
+bud_emp_oa59_samenleving_2026,fod_emploi,2026,3630000,,,budgeted,src_kamer_emploi_1281_012_2026,strong,OA59/3 Samenlevingsdienst/service citoyen 3630 kEUR 2026; tick763
+bud_emp_payroll_major_2026,fod_emploi,2026,80696000,,,derived,src_kamer_emploi_1281_012_2026,strong,Major statutair+contract payroll OA21/40/51/52/54/57/58/59 class ~80.7m 2026; tick763
+bud_emp_inspection_stack_2026,fod_emploi,2026,49400000,,,derived,src_kamer_emploi_1281_012_2026,strong,Inspection stack OA54+57+58 core ~49.4m 2026 excl fonds tech; tick763
+bud_emp_ops_core_excl_rva_2026,fod_emploi,2026,105382000,,,derived,src_kamer_emploi_1281_012_2026,strong,SPF Emploi ops core excl RVA federal dot ~105.4m 2026; tick763
+bud_emp_section23_with_rva_2026,fod_emploi,2026,276676000,,,derived,src_kamer_emploi_1281_012_2026,strong,Section23 class ops+RVA+Samenleving ~276.7m 2026; not full unemployment benefits; tick763
+bud_dual_emp_inspection_siod_2026,gg_belgium,2026,49400000,,,derived,src_dual_emploi_inspection_tick763,strong,Dual federal labour inspection stack 49.4m SIOD+TWW+TSW vs regional residual; not TE-additive; tick763

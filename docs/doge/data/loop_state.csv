@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T22:00:00Z,rq_753,762,no,tick762 Finance ops 2.28bn payroll 1.45 IT 164 eGov 39.6; next rq_754 Emploi/SS/Debt; progress@770 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T23:00:00Z,rq_754,763,no,tick763 Emploi ops 105.4m payroll 80.7 inspection 49.4 RVA fed 167.7; next rq_755 SS/Debt; progress@770 in 7; rq_116 deferred

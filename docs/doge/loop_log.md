@@ -9140,3 +9140,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_finance_ops_fte_it_l5 — ready prio8 (not sent)
 - Next: rq_754 Emploi/SS/Debt; progress@770 in 8; rq_116 deferred
 
+
+### 2026-08-02T23:00:00Z — tick 763
+- Unit: rq_754 (Kamer DOC 56 1281/012 SPF Emploi residual)
+- Found: Primary PDF 56K1281012 (151p). Ops core excl RVA **~€105.4m** 2026 (OA21 support 26.4; OA51 collective 11.9; OA54 wellbeing insp 18.6; OA57 social laws 30.0; OA58 SIOD ~3.0; OA59 excl dots 7.3). Major payroll **~€80.7m**. Inspection stack OA54+57+58 **~€49.4m** (social laws statutair alone **€26.5m**). RVA federal expenditure dot BA 23.59.30424002 **€167.664m** (channel, not full unemployment mass). Samenlevingsdienst **€3.63m**. Section class with RVA **~€277m**. Dual SIOD/inspection residual vs regional.
+- Wrote: budgets +35; commitments +7; leaderboard +7; sources +2; entities fod_emploi; foi_queue gap_emploi_fte_inspection_rva_l5 ready; FOI draft; rq_754=done; rq_755 open; ticks=763
+- FOI opened: gap_emploi_fte_inspection_rva_l5 (ready, not sent)
+- Next: rq_755 SS 1281/013 or public debt 1281/019 residual; progress@770 in 7
