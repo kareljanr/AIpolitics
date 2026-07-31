@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 640** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA DO mega wave: DO17 **9.517bn** · DO14 **1.649bn** · DO16 **737m** · DO18 path · DF114 **200m** · Fonds stocks déch/env/RDI · prior AViQ/Sofico/OTW/housing wave retained |
+| **D. L5 named / measure end-lines** | **~44-57%** of TE (generous) | **Gain 630→640 is WAL CoA DO + fonds dual hole-fill:** DO17 Affaires **€2.282bn** + AViQ dots **€6.955bn** dual Gemeentefonds/VAPH · DO14 OTW CL **€861m** / CSP shortfall **€22.2m** / SEE 2.3 **€200m** dual De Lijn · DO16 privé path **−€90m** / Renopack **€71m** dual MVP · DF114 **€200m** dual VLAIO · Fonds déchets **€20.5m**/stock **€221m** dual OVAM · env stock **€495m** · RDI stock **€171m** · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~382** drafts ready | Human send only; answered **~9**; total FOI rows **~392** (+ DO17 local · DO16 logement · DO14 mobility · fonds déchets · DF114 · ADN · CRA-W · guichets · Wallimage · dual CoA DO wave matrix · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** · utility/holding BS (WE equity **~5bn** · SPAQuE **534m** · Sowaer **492m**) · **fonds budgetaires stocks** (env **495m** · Kyoto **445m** · déchets **221m** · RDI **171m** · total liq class **€1.749bn**) · UAP treasury rembours waves · SEE 2.3 multi-year eng without EU cofin.
+
+### Inventory (tick 640)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~11626 |
+| commitments.csv | ~1300 |
+| leaderboard.csv | ~2557 |
+| entities.csv | ~460 |
+| sources.csv | ~1259 |
+| FOI ready | ~382 |
+| FOI answered | ~9 |
+| FOI total rows | ~392 |
+| research_queue open | rq_116 deferred + rq_632 hole-fill after progress |
+
+### What improved since tick 630
+
+- **DO mega duals (tick637–639):** DO14 CL **€1.649bn** (OTW CSP shortfall **€22.2m**; SEE 2.3 eng **€200m** no EU) dual De Lijn/Sofico/AWV · DO16 CL **€737m** (privé path **−€90m**; Renopack **€71m**) dual MVP/VMSW · DO17 CL **€9.517bn** (Affaires **€2.282bn**; AViQ dots **€6.955bn**) dual Gemeentefonds/VAPH.
+- **Research + waste + digital residual (tick634–636):** DF114 CL **€200m** dual VLAIO · DF096 backlog **700**/€32m · Fonds déchets **€20.5m**/stock **€221m** dual OVAM · env stock **€495m** · ADN DF115 dual Smals.
+- **UAP residual duals (tick631–633):** Wallimage dual Screen Flanders · Guichets sociaux L5 dual SWCS/VWF · CRA-W dual ILVO.
+
+---
+
 ## Snapshot at **tick 630** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

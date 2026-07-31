@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T01:30:00Z,rq_630,639,no,tick639 DO17 local social 9.52bn Affaires 2.28bn AViQ dots dual; next rq_631; progress@640 NEXT; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T01:45:00Z,rq_631,640,no,tick640 progress@640 dual CoA DO wave DO17 9.52bn DO14 1.65bn DO16 737m; next rq_632; progress@650 in 10; rq_116 deferred

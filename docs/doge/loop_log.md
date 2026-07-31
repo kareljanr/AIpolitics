@@ -7602,3 +7602,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+wallonie_sante); budgets (+23); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_do17_local_social_l5_2025; rq_630=done; spawn rq_631; loop_state ticks=639
 - FOI opened: gap_do17_local_social_l5_2025 -- ready (not sent)
 - Next: rq_631; **progress@640 NEXT tick**; rq_116 deferred
+
+### 2026-08-01T01:45:00Z -- tick 640 (PROGRESS MILESTONE)
+- Unit: rq_631 (progress@640 + dual CoA DO/fonds wave synthesis ticks631-639)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **DO mega duals:** DO17 CL **EUR9.517bn** (Affaires **EUR2.282bn** path liq **-EUR98m**; AViQ dots **EUR6.955bn** path **+EUR159m**) dual Gemeentefonds/VAPH
+  - **Mobility + housing + research:** DO14 CL **EUR1.649bn** / OTW CSP shortfall **EUR22.2m** / SEE 2.3 eng **EUR200m** dual De Lijn; DO16 CL **EUR737m** / prive path **-EUR90m** / Renopack **EUR71m** dual MVP; DF114 CL **EUR200m** dual VLAIO; DF096 backlog **700**/EUR32m
+  - **Fonds stocks:** env **EUR494.9m** + Kyoto **EUR444.9m** + dechets **EUR220.8m** + RDI **EUR171.2m** (total fonds liq class **EUR1.749bn**)
+  - **UAP residual:** Wallimage / Guichets / CRA-W / ADN dual Screen-Flanders / SWCS-VWF / ILVO / Smals
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ DO17 9.52bn + DO14 1.65bn + DO16 737m mega-fills)
+  - **D L5:** ~**44-57%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**382** · answered ~**9** · total FOI rows ~**392**
+- Inventory: budgets ~**11626** · cmt ~**1300** · lb ~**2557** · sources ~**1259** · entities ~**460**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55-8.30)
+- High-abs + dual NEW: DO16 prive -90m · OTW CSP 22m · EPR ghost 1.3m · SEE 200m no EU · env stock 495m · dual DO17/14/16 maps
+- Gain 630-640: WAL CoA DO mega dual wave (largest L2 add = DO17 9.52bn)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_coa_do_wave_l5_matrix_2025 ready+draft; rq_631=done spawn rq_632; ticks=640
+- FOI opened: gap_dual_coa_do_wave_l5_matrix_2025 (ready, human send) - not sent
+- Next: prio5 **rq_632**; deferred **rq_116**; progress@650 in 10 ticks
