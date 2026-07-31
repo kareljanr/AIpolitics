@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T21:15:00Z,rq_709,718,no,tick718 flexi HERMES residual dual VL; next rq_710; progress@720 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T21:30:00Z,rq_710,719,no,tick719 Sofico CAPEX commit residual dual GIP; next rq_711 PROGRESS@720; rq_116 deferred

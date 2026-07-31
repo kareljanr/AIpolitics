@@ -14139,3 +14139,35 @@ bud_flexi_hermes_v1_heads_2030,fod_finance,2030,600,,,projected,src_ccrek_flexij
 bud_flexi_hermes_v2_heads_2030,fod_finance,2030,2600,,,projected,src_ccrek_flexijob_2026_34,strong,V2 headcount +2600 2030 duration tradeoff; tick718
 bud_flexi_implicit_tax_wedge_2026,fod_finance,2026,32.11,,,projected,src_ccrek_flexijob_2026_34,strong,HERMES implicit ee SS 10.13 + PIT 23.15 = 32.11pct on regular wages 2026 Kader6; tick718
 bud_dual_flexi_vl_share_2024,gg_belgium,2024,157525,,,outturn,src_dual_flexi_vl_tick718,strong,Dual: ~85pct flexi in VL vs WAL/BRU residual; not TE-additive; tick718
+bud_sofico_commit_acq_immob_eoy2025,sofico,2025,280022174,,,outturn,src_sofico_comptes_2025_residual,strong,Engagements importants acquisition immobilisations encours 280.0m eoy2025 CoA comptes p30; tick719
+bud_sofico_debt_guaranteed_public_2025,sofico,2025,494762474,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes garanties par pouvoirs publics belges 494.8m (banks 325.3 + autres 169.5) eoy2025; tick719
+bud_sofico_debt_banks_lt_2025,sofico,2025,298077035,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes etablissements credit LT 298.1m eoy2025; tick719
+bud_sofico_debt_autres_emprunts_lt_2025,sofico,2025,169500000,,,outturn,src_sofico_comptes_2025_residual,strong,Autres emprunts LT 169.5m eoy2025; tick719
+bud_sofico_debt_lt_due_1y_2025,sofico,2025,27185439,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes LT echues dans annee 27.2m (credit) eoy2025; tick719
+bud_sofico_debt_st_autres_2025,sofico,2025,12500000,,,outturn,src_sofico_comptes_2025_residual,strong,Autres emprunts ST 12.5m eoy2025; tick719
+bud_sofico_debt_1_5y_2025,sofico,2025,154435459,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes 1-5y residual 154.4m eoy2025; tick719
+bud_sofico_debt_gt5y_2025,sofico,2025,313170176,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes >5y residual 313.2m eoy2025; tick719
+bud_sofico_suppliers_st_2025,sofico,2025,139328459,,,outturn,src_sofico_comptes_2025_residual,strong,Fournisseurs ST 139.3m eoy2025; tick719
+bud_sofico_tax_est_2025,sofico,2025,22337321,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes fiscales estimees 22.3m eoy2025; tick719
+bud_sofico_tax_non_due_2025,sofico,2025,10529555,,,outturn,src_sofico_comptes_2025_residual,strong,Dettes fiscales non echeues 10.5m; tick719
+bud_sofico_charges_imputer_2025,sofico,2025,3273980,,,outturn,src_sofico_comptes_2025_residual,strong,Charges a imputer 3.27m; tick719
+bud_sofico_produits_reporter_2025,sofico,2025,8320824,,,outturn,src_sofico_comptes_2025_residual,strong,Produits a reporter 8.32m; tick719
+bud_sofico_cap_subs_pnl_2025,sofico,2025,14029440,,,outturn,src_sofico_comptes_2025_residual,strong,Subsides capital imputes P&L 14.03m (11.85m 2024); tick719
+bud_sofico_remun_direct_2025,sofico,2025,4016436,,,outturn,src_sofico_comptes_2025_residual,strong,Remunerations directes 4.02m of personnel 6.28m; tick719
+bud_sofico_er_ss_2025,sofico,2025,1103585,,,outturn,src_sofico_comptes_2025_residual,strong,Cotisations patronales ONSS 1.10m; tick719
+bud_sofico_extralegal_ins_2025,sofico,2025,842470,,,outturn,src_sofico_comptes_2025_residual,strong,Primes extralegales 0.84m; tick719
+bud_sofico_hours_worked_2025,sofico,2025,68632,,,outturn,src_sofico_comptes_2025_residual,strong,Heures prestees 68632 (FTE 49.5 headcount 51); tick719
+bud_sofico_vat_charged_2025,sofico,2025,203308116,,,outturn,src_sofico_comptes_2025_residual,strong,TVA portee en compte par societe 203.3m; tick719
+bud_sofico_vat_deductible_2025,sofico,2025,113332390,,,outturn,src_sofico_comptes_2025_residual,strong,TVA deductible 113.3m; tick719
+bud_sofico_pp_withheld_2025,sofico,2025,1277412,,,outturn,src_sofico_comptes_2025_residual,strong,Precompte professionnel retenu 1.28m; tick719
+bud_sofico_tax_on_result_2025,sofico,2025,5019158,,,outturn,src_sofico_comptes_2025_residual,strong,Impots resultat exercice 5.02m (due 3.36 + est 1.66); tick719
+bud_sofico_immob_en_cours_2025,sofico,2025,49646060,,,outturn,src_sofico_comptes_2025_residual,strong,Immobilisations en cours et acomptes 49.6m (69.2m 2024); tick719
+bud_sofico_leasing_net_2025,sofico,2025,344996996,,,outturn,src_sofico_comptes_2025_residual,strong,Location-financement net 345.0m eoy2025; tick719
+bud_sofico_land_buildings_net_2025,sofico,2025,2251384425,,,outturn,src_sofico_comptes_2025_residual,strong,Terrains constructions net 2.251bn eoy2025; tick719
+bud_sofico_land_acq_gross_2025,sofico,2025,245773562,,,outturn,src_sofico_comptes_2025_residual,strong,Acquisitions terrains/constructions brut 245.8m 2025; tick719
+bud_sofico_amort_land_2025,sofico,2025,158205078,,,outturn,src_sofico_comptes_2025_residual,strong,Amortissements terrains/constructions 158.2m 2025; tick719
+bud_sofico_net_debt_class_2025,sofico,2025,283201121,,,outturn,src_sofico_comptes_2025_residual,medium,Net debt class banks+autres LT+ST due - cash: 298.1+169.5+27.2+12.5-224.6 = 282.7m class; tick719
+bud_sofico_reserves_indispo_2025,sofico,2025,554180541,,,outturn,src_sofico_comptes_2025_residual,strong,Reserves indisponibles 554.2m (legal 28.6 + other 525.6); tick719
+bud_sofico_equity_path_2025,sofico,2025,2305147846,,,outturn,src_sofico_comptes_2025_residual,strong,Equity 2.305bn eoy2025 path +130.8m vs 2.174bn 2024; tick719
+bud_sofico_cap_subs_bs_2025,sofico,2025,309629431,,,outturn,src_sofico_comptes_2025_residual,strong,Subsides en capital BS 309.6m (290.6m 2024); tick719
+bud_dual_sofico_commit_awv_gip_2025,gg_belgium,2025,280022174,,,outturn,src_dual_sofico_awv_gip_tick719,strong,Dual Sofico CAPEX commit 280m vs VL GIP exec residual; not TE-additive; tick719

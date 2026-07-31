@@ -8498,3 +8498,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_flexi_hermes_full_sector_l5 — ready (not sent; contacts TBD)
 - Next: rq_710 WAL residual preferred; progress@720 in 2 ticks; rq_116 deferred
 
+
+### 2026-08-01T21:30:00Z — tick 719
+- Unit: **rq_710** (FOI-adjacent dual residual — **WAL SOFICO comptes 2025 CAPEX commit/debt ladder dual GIP**)
+- Found (primary SOFICO comptes AG 24 Apr 2026 C-cap 6.9–6.14):
+  - **CAPEX commit encours eoy2025 EUR 280.022m** (engagements acquisition immobilisations)
+  - Public-guaranteed debt **494.8m** (banks class **325.3** + autres **169.5**)
+  - Debt ladder: due 1y **27.2** · 1-5y **154.4** · >5y **313.2**; suppliers ST **139.3**
+  - Land/buildings acq **245.8m**; immob en cours **49.6m**; leasing net **345.0m**; assets land net **2.251bn**
+  - Cap subs BS **309.6m** / P&L **14.03m**; equity **2.305bn**; cash **224.6m**
+  - Lean staff **49.5 FTE** / personnel **6.28m** on **3.017bn** assets; VAT charged **203.3m**
+  - Dual VL GIP/AWV (public commit transparency asymmetry); Strong statutory; L5 FOI.
+- Wrote: budgets (+32); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_sofico_capex_commit_l5_2025**; rq_710=done; spawn **rq_711** PROGRESS@720; loop_state ticks=719
+- FOI opened: gap_sofico_capex_commit_l5_2025 — ready (not sent)
+- Next: **rq_711 PROGRESS@720**; rq_116 deferred
+
