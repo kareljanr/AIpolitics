@@ -12601,3 +12601,84 @@ bud_credits_dissoc_ce_aju_2026,wallonie_gov,2026,21047084000,,,budgeted,src_ccre
 bud_credits_var_ce_aju_2026,wallonie_gov,2026,405821000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits variables CE aju 405.821m path -4.315; tick666
 bud_credits_dissoc_cl_aju_2026,wallonie_gov,2026,21547044000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits dissoc CL aju 21547.044m path +609.092; tick666
 bud_credits_var_cl_aju_2026,wallonie_gov,2026,390891000,,,budgeted,src_ccrek_wal_aju2026_do_matrix,strong,Credits variables CL aju 390.891m path -6.905; tick666
+bud_parlement_dot_aju_2026,parlement_wallonie,2026,77582000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 002 Parlement dot CE=CL aju 77.582m path +1.328 exec 50.836; tick667
+bud_mediateur_aju_2026,mediateur_wallonie,2026,1924000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 003 Mediateur CE=CL aju 1.924m path +0.033; tick667
+bud_cwape_dot_aju_2026,cwape,2026,9380000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 129 Cwape CE=CL aju 9.380m path +0.121 exec 3.704; dual VREG; tick667
+bud_cabinet_mp_aju_2026,wallonie_gov,2026,5404000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 004 MP Budget Finances Recherche Bien-etre animal CE=CL 5.404m exec 1.196; tick667
+bud_cabinet_territoire_aju_2026,wallonie_gov,2026,5068000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 005 Territoire Infra Mobilite Pouvoirs locaux CE=CL 5.068m exec 1.258; tick667
+bud_cabinet_eco_emploi_aju_2026,wallonie_gov,2026,5328000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 006 Eco Industrie Num Emploi Formation CE=CL 5.328m exec 1.348; tick667
+bud_cabinet_sante_env_aju_2026,wallonie_gov,2026,3180000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 007 Sante Env Solidarites Eco sociale CE=CL 3.180m exec 0.733; tick667
+bud_cabinet_fp_aju_2026,wallonie_gov,2026,1556000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 008 FP Simplification Infra sportives CE=CL 1.556m exec 0.310; tick667
+bud_cabinet_tourisme_aju_2026,wallonie_gov,2026,1593000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 009 Tourisme Patrimoine Petite enfance CE=CL 1.593m exec 0.367; tick667
+bud_cabinet_energie_aju_2026,wallonie_gov,2026,2957000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 010 Energie Air-Climat Logement Aeroports CE=CL 2.957m exec 0.845; tick667
+bud_cabinet_agri_aju_2026,wallonie_gov,2026,2957000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Cab 011 Agriculture Ruralite CE=CL 2.957m exec 0.886; tick667
+bud_cabinets_total_aju_2026,wallonie_gov,2026,28043000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,DO02 cabinets total CE=CL aju 28.043m flat exec 6.942 (24.8pct); dual VL cabinets; tick667
+bud_cese_dot_aju_2026,wallonie_gov,2026,7858000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 012 CESE Wallonie CE=CL aju 7.858m flat exec 6.441; tick667
+bud_service_social_do09_aju_2026,wallonie_gov,2026,6067000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 013 service social CE=CL aju 6.067m flat exec 100pct; tick667
+bud_tourisme_do09_aju_2026,wallonie_gov,2026,68669000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 018 Tourisme CE aju 68.669 CL 67.928 path +3.037/+2.296 exec 25.100; tick667
+bud_relations_ext_aju_2026,wallonie_gov,2026,30098000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 019 Relations exterieures CE=CL aju 30.098m flat exec 20.065; tick667
+bud_awex_dot_aju_2026,awex,2026,76843000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 020 commerce exterieur/investisseurs CE=CL aju 76.843m flat exec 76.621 (99.7pct); dual FIT; tick667
+bud_iweps_dot_aju_2026,iweps,2026,7727000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 021 IWEPS CE=CL aju 7.727m flat exec 5.795; dual; tick667
+bud_ceseffb_ce_aju_2026,ceseffb,2026,9918000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 126 CeSEFFB CE aju 9.918 CL 8.918 path +1.029/+0.029 exec 1.867; tick667
+bud_ceseffb_cl_aju_2026,ceseffb,2026,8918000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 126 CeSEFFB CL aju 8.918m; tick667
+bud_prw_frr_ce_aju_2026,wallonie_gov,2026,430885000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 122 PRW+FRR CE aju 430.885m path +18.461; tick667
+bud_prw_frr_cl_aju_2026,wallonie_gov,2026,1734091000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 122 PRW+FRR CL aju 1734.091m path +342.405 vs init 1391.686; exec 77.026 (4.4pct); tick667
+bud_do10_dev_durable_aju_2026,wallonie_gov,2026,13255000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 085 dev durable CE aju 13.255 CL 5.184 flat; tick667
+bud_do10_presidence_aju_2026,wallonie_gov,2026,13089000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 023 Presidence/Chancellerie CE aju 13.089 CL 9.496 path +1.256; tick667
+bud_do14_mobilite_secu_ce_aju_2026,wallonie_gov,2026,50666000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 044 mobilite/securite routiere CE aju 50.666 CL 18.427 path +3.727/+2.605; tick667
+bud_do14_transport_ce_aju_2026,otw,2026,919597000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 045 transport urbain/interurbain/scolaire CE aju 919.597 CL 887.703 path -0.691/+0.990 exec 621.857; dual De Lijn; tick667
+bud_do14_transport_cl_aju_2026,otw,2026,887703000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 045 transport CL aju 887.703m; tick667
+bud_do14_aeroports_aju_2026,wallonie_gov,2026,84483000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 046 aeroports CE aju 84.483 CL 84.552 path +1.132/+1.201; dual SOWAER; tick667
+bud_do14_sports_infra_cl_aju_2026,wallonie_gov,2026,59622000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 047 infra sportives CL aju 59.622 path +5.274 CE flat 53.775; tick667
+bud_do14_reseau_ce_aju_2026,wallonie_gov,2026,664067000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 049 reseau routier/hydraulique CE aju 664.067 CL 575.955 path -9.440/+28.578; tick667
+bud_do14_reseau_cl_aju_2026,wallonie_gov,2026,575955000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 049 reseau CL aju 575.955m; tick667
+bud_do14_fonds_secu_routiere_aju_2026,wallonie_gov,2026,45028000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 050 fonds securite routiere CE=CL aju 45.028 path -5.292; tick667
+bud_do16_logement_prive_ce_aju_2026,wallonie_gov,2026,337870000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 080 logement prive CE aju 337.870 CL 342.006 path +6.236/+11.687 exec 102.018; primes dual; tick667
+bud_do16_logement_prive_cl_aju_2026,wallonie_gov,2026,342006000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 080 logement prive CL aju 342.006m; tick667
+bud_do16_logement_public_cl_aju_2026,wallonie_gov,2026,120365000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 081 logement public CL aju 120.365 CE 116.199; tick667
+bud_do16_energie_ce_aju_2026,wallonie_gov,2026,35432000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 083 energie CE aju 35.432 CL 29.195 path +1.037/+0.835; tick667
+bud_alliance_emploi_env_aju_2026,wallonie_gov,2026,124683000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 084 Alliance Emploi-Environnement CE aju 124.683 CL 124.512 path +4.926; tick667
+bud_do16_fonds_energie_ce_aju_2026,wallonie_gov,2026,15147000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 089 fonds Energie CE aju 15.147 CL 12.557 path +7.161/+4.571; tick667
+bud_do16_renopack_fonds_aju_2026,wallonie_gov,2026,72400000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 090 Ecopack/Renopack CE=CL aju 72.400m flat; tick667
+bud_do17_affaires_int_ce_aju_2026,wallonie_gov,2026,2765489000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 091 affaires interieures CE aju 2765.489 CL 2469.873 path +83.130/+82.965 exec 1380.041; fonds communes+aides; tick667
+bud_do17_affaires_int_cl_aju_2026,wallonie_gov,2026,2469873000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 091 affaires interieures CL aju 2469.873m; tick667
+bud_do17_dot_sante_ce_aju_2026,aviq,2026,7033912000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 093 dotations sante/protection sociale/handicap/familles CE aju 7033.912 CL 7049.370 path +7.311/-13.106 exec 5736.582; dual VAPH; tick667
+bud_do17_dot_sante_cl_aju_2026,aviq,2026,7049370000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 093 dot sante CL aju 7049.370m; tick667
+bud_do17_action_sociale_ce_aju_2026,wallonie_gov,2026,358139000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 094 action sociale CE aju 358.139 CL 348.606 path +28.541/+29.587; tick667
+bud_do17_action_sociale_cl_aju_2026,wallonie_gov,2026,348606000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 094 action sociale CL aju 348.606m; tick667
+bud_do17_creches_ce_aju_2026,wallonie_gov,2026,30684000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 095 creches CE aju 30.684 path +14.434 CL 15.761 path +5.294; tick667
+bud_do17_creches_cl_aju_2026,wallonie_gov,2026,15761000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 095 creches CL aju 15.761m; tick667
+bud_do18_aides_invest_ce_aju_2026,wallonie_gov,2026,165710000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 096 aides investissement CE aju 165.710 CL 105.828 path +4.105/+15.644; dual VLAIO; tick667
+bud_do18_aides_invest_cl_aju_2026,wallonie_gov,2026,105828000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 096 aides invest CL aju 105.828m; tick667
+bud_do18_outils_eco_ce_aju_2026,wallonie_gov,2026,139352000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 097 outils economiques/financiers CE aju 139.352 CL 121.421 path +6.900; tick667
+bud_do18_outils_eco_cl_aju_2026,wallonie_gov,2026,121421000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 097 outils eco CL aju 121.421m; tick667
+bud_zae_ce_aju_2026,wallonie_gov,2026,83204000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 098 ZAE CE aju 83.204 CL 74.303 path +18.000/+5.000; tick667
+bud_do18_entreprises_comp_ce_aju_2026,wallonie_gov,2026,56712000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 099 entreprises competitivite CE aju 56.712 CL 35.395 path +1.273/+0.625; tick667
+bud_do18_fonds_structurels_cl_aju_2026,wallonie_gov,2026,30203000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 100 fonds structurels CL aju 30.203 CE 4.151 (new vs init 0); tick667
+bud_do18_eco_sociale_aju_2026,wallonie_gov,2026,30212000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 104 economie sociale CE aju 30.212 CL 30.912 path -0.296; tick667
+bud_do18_recherche_ce_aju_2026,wallonie_gov,2026,247509000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 114 recherche CE aju 247.509 CL 202.495 path 0/+3.400 exec 62.407; dual FWO; tick667
+bud_do18_recherche_cl_aju_2026,wallonie_gov,2026,202495000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 114 recherche CL aju 202.495m; tick667
+bud_do18_numerique_aju_2026,wallonie_gov,2026,35391000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 115 numerique CE aju 35.391 CL 24.970 path 0/-0.608; tick667
+bud_do18_formation_agricole_ce_aju_2026,wallonie_gov,2026,2663000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 111 formation agricole CE aju 2.663 CL 1.300 path +2.663/0; tick667
+bud_do19_dettes_garanties_aju_2026,wallonie_gov,2026,1915356000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 036 dettes et garanties CE=CL aju 1915.356m path +33.639 exec 29.770 (1.6pct); interest core; tick667
+bud_do19_fiscalite_aju_2026,wallonie_gov,2026,6598000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 119 fiscalite CE=CL aju 6.598m path +0.422; tick667
+bud_do19_budget_compta_aju_2026,wallonie_gov,2026,49725000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 034 budget-compta-tresorerie CE=CL aju 49.725m path +2.268; tick667
+bud_do15_aides_agri_aju_2026,wallonie_gov,2026,97532000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 058 aides agriculture CE aju 97.532 CL 97.533 path +4.207; tick667
+bud_do15_dechets_path_plus_19m,wallonie_gov,2026,32501000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 064 dechets-ressources CE aju 32.501 path +19.222 (large path); tick667
+bud_do15_kyoto_fonds_aju_2026,wallonie_gov,2026,158000000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 074 fonds Kyoto CE=CL aju 158.000m flat; tick667
+bud_do15_env_fonds_ce_aju_2026,wallonie_gov,2026,71249000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Prog 075 fonds protection env CE aju 71.249 CL 61.289 path -7.026; tick667
+bud_aviq_rec_aju_exact_2026,aviq,2026,7007848000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ rec aju exact 7007848000 path +35.508m (+0.5pct); tick667
+bud_aviq_dep_aju_exact_2026,aviq,2026,7523550000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ dep aju exact 7523550000 path +232.082m (+3.2pct); tick667
+bud_aviq_result_aju_exact_2026,aviq,2026,-515702000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ result aju -515702000 path -196.574 vs init -319.128; tick667
+bud_aviq_pivot_impact_13m,aviq,2026,13000000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ BFP pivot revision adverse impact est 13.0m on 2026 result (not in aju base); tick667
+bud_aviq_nonmarchand_path_minus_5m,aviq,2026,-5000000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ non-marchand harmonisation salarial MR path -5.0m (sous-util creation emploi); tick667
+bud_aviq_protection_soc_plus_194_7m,aviq,2026,194700000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ protection sociale wallonne path +194.7m (billing 14-month +198.1 dominant); tick667
+bud_aviq_soins_etranger_minus_6_7m,aviq,2026,-6700000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ soins Wallons a l etranger path -6.7m (50pct rec N-1 update); tick667
+bud_aviq_pnrr_internal_liq_20_8m,aviq,2026,20800000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,AViQ internal aju 4Jun2026 PNRR/PRW liq 20.8 eng 0.4; rec dot 13.6; SEC degrade 7.2 offset inexec; tick667
+bud_forem_inst_total_aju_2026,forem,2026,3007400000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Forem institutional CE=CL aju 3007.4m path +42.4 (macro +22.2 Job+ +31.9 aides -12.4); dual VDAB; tick667
+bud_forem_jobplus_net_path_aju_2026,forem,2026,31900000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Forem Job Plus path +31.9m offset aides -12.4m; RW line 2876; tick667
+bud_financing_need_total_2026,wallonie_gov,2026,3919400000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Financing need 2026 3919.4m (amort 1101.9 + lease 18.9 + deficit 2798.6); tick667
+bud_financing_raised_may2026,wallonie_gov,2026,3415000000,,,outturn,src_ccrek_wal_aju2026_annex_prog,strong,Raised by 31May2026 3415.0m + BEI 200 residual need 304.4 covered by tres sous-util 350; tick667
+bud_interest_re_code21_aju_2026,wallonie_gov,2026,729100000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Interest code21 RE aju 729.1 path +44.8 vs init 684.3; total charge 753.7; tick667
+bud_interest_swaps_aju_2026,wallonie_gov,2026,11900000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Swaps aju 11.9m path -2.6; tick667
+bud_dette_indirecte_eoy2025,wallonie_gov,2025,10859000000,,,outturn,src_ccrek_wal_aju2026_annex_prog,strong,Dette indirecte ICN Apr2026 eoy2025 10859.0m; brute path eoy2026 43833; tick667

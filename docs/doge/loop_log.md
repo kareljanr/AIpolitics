@@ -7829,3 +7829,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+spw_support_do11 spw_digital_do12); budgets (+70); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_do_matrix_spw_emploi_l5; rq_657=done; spawn rq_658; loop_state ticks=666
 - FOI opened: gap_wal_aju2026_do_matrix_spw_emploi_l5 -- ready (not sent)
 - Next: rq_658; progress@670 in 4 ticks; rq_116 deferred
+
+### 2026-08-01T08:30:00Z -- tick 667
+- Unit: rq_658 (FOI-adjacent dual residual -- **aju2026 Annex programme L5 matrix + cabinets 28m + PRW/FRR 1.73bn + DO17 sante 7.05bn**)
+- Found (primary CoA 2026_26 Annex kEUR): **Cabinets** total **EUR28.043m** (MP **5.404** Eco **5.328** Terr **5.068** Sante **3.180** Energ/Agri **2.957** each Tour **1.593** FP **1.556**). **DO01:** Parlement **77.582** Mediateur **1.924** Cwape **9.380**. **DO09:** AWEX **76.843** (exec 99.7pct) Tourisme **68.669** RelExt **30.098** CESE **7.858** IWEPS **7.727** CeSEFFB **9.918/8.918**. **DO10 PRW/FRR CL EUR1.734bn** path **+EUR342.4m** exec May only **EUR77.0m** (4.4pct). **DO14:** transport **919.6/887.7** reseau **664.1/576.0** airports **84.5** sports CL **59.6**. **DO16:** log prive **337.9/342.0** public **120.4** Alliance EE **124.7**. **DO17:** aff int **2765/2470** **dot sante 7034/7049** action soc **358/349** creches **30.7/15.8**. **DO18:** aides inv **165.7/105.8** outils **139.4/121.4** ZAE **83.2** recherche **247.5/202.5** Forem **2876**. **DO19 dettes EUR1.915bn**. **AViQ:** pivot **-13m** non-marchand **-5** foreign care **-6.7** PNRR internal liq **20.8**; Forem inst **3007.4**. Dual VL. Strong CoA; L5 FOI.
+- Wrote: entities (+cwape ceseffb iweps); budgets (+75); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_annex_prog_l5; rq_658=done; spawn rq_659; loop_state ticks=667
+- FOI opened: gap_wal_aju2026_annex_prog_l5 -- ready (not sent)
+- Next: rq_659; progress@670 in 3 ticks; rq_116 deferred
