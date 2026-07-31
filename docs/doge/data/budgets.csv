@@ -12087,3 +12087,56 @@ bud_ssc_statutaire_uap_pct,uap_perimeter_wal,2025,65.2,,,budgeted,src_ccrek_119q
 bud_uap_119quater_unit_overcost,uap_perimeter_wal,2025,15400,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,UAP 119quater average annual overcost ~15400 EUR/agent; tick656
 bud_spw_119quater_net_unit,wallonie_gov,2025,6416,,,budgeted,src_ccrek_119quater_specialty_bi2025,strong,SPW 119quater net economy after CRP 6416 EUR/agent 2025; tick656
 bud_dual_119quater_net_inst,wallonie_gov,2025,-18500000,,,budgeted,src_dual_119quater_specialty_tick656,strong,Institutional net: UAP overcost 34.4m minus SPW net save 15.9m class -18.5m on validated; not TE; tick656
+bud_wal_rec_hors_sp_bi2025,wallonie_gov,2025,21802500000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 recettes hors section particuliere BI2025 21802.5m path +767.8; tick657
+bud_wal_dep_liq_hors_sp_bi2025,wallonie_gov,2025,22029400000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 depenses liq hors SP BI2025 22029.4m path +245.8; tick657
+bud_wal_solde_brut_bi2025,wallonie_gov,2025,-227000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde budgetaire brut BI2025 -227.0m path +522.0; tick657
+bud_wal_solde_brut_ba2024,wallonie_gov,2024,-748900000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde brut BA2024 -748.9m; tick657
+bud_wal_emprunts_rec_bi2025,wallonie_debt,2025,4075100000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 produits emprunts BI2025 4075.1m path +700.6; tick657
+bud_wal_amort_dette_bi2025,wallonie_debt,2025,1405500000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 amortissements dette BI2025 1405.5m path +539.0; tick657
+bud_wal_solde_net_financer_bi2025,wallonie_gov,2025,-2896600000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde net a financer BI2025 -2896.6m path +360.3; tick657
+bud_wal_inst_consol_bi2025,uap_perimeter_wal,2025,-469900000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde institutions consolidees BI2025 -469.9m path -127.6; tick657
+bud_wal_solde_net_consol_bi2025,wallonie_gov,2025,-3366500000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde net consolide BI2025 -3366.5m path +232.7; tick657
+bud_wal_corr_sec_total_bi2025,wallonie_gov,2025,1080000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 corrections SEC total BI2025 +1080.0m path -235.7; tick657
+bud_wal_sous_util_sg_bi2025,wallonie_gov,2025,609000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 sous-util services gouvernement BI2025 609.0m flat (2.8pct liq credits); tick657
+bud_wal_ocpp_nets_corr_bi2025,wallonie_gov,2025,309900000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 OCPP nets correction BI2025 309.9m path -102.2; tick657
+bud_wal_autres_corr_sec_bi2025,wallonie_gov,2025,161100000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 autres corr SEC BI2025 161.1m path -133.4; tick657
+bud_wal_solde_sec_bi2025,wallonie_gov,2025,-2286500000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde financement SEC BI2025 -2286.5m path -3.0 vs BA2024; tick657
+bud_wal_solde_sec_ba2024,wallonie_gov,2024,-2283500000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Table8 solde SEC BA2024 -2283.5m; tick657
+bud_uap_inexec_presumee_bi2025,uap_perimeter_wal,2025,204000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Inexecution presumee credits UAP consol 204.0m (129 UAP + 82 other class); tick657
+bud_uap_objectifs_sum_bi2025,uap_perimeter_wal,2025,-680900000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Sum individual SEC objectifs UAP -680.9m vs result after inexec -469.9m; tick657
+bud_non_index_dots_uap_bi2025,uap_perimeter_wal,2025,50400000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Non-indexation dotations organismes BI2025 50.4m limits sous-util; tick657
+bud_prior_economies_uap_bi2025,uap_perimeter_wal,2025,63300000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Efforts economie prior budgets 63.3m limit sous-util UAP; tick657
+bud_sous_util_squeeze_class_bi2025,uap_perimeter_wal,2025,148100000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Sous-util squeeze class 148.1m = 119quater 34.4 + non-index 50.4 + prior econ 63.3; tick657
+bud_inexec_credits_2023,wallonie_gov,2023,1552600000,,,outturn,src_ccrek_solde_financement_bi2025,strong,Inexecutions credits 2023 actual 1552.6m (7.3pct liq; dissociated 1451.4 + variables 101.2); tick657
+bud_factures_2023_imputees_2024,wallonie_gov,2024,247800000,,,outturn,src_ccrek_solde_financement_bi2025,strong,Factures 2023 imputees 2024 247.8m at 2024-04-25 (year-end circular shift); tick657
+bud_forem_119quater_overcost_bi2025,forem,2025,15800000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Forem 119quater impact personnel 15.8m (1136 agents) of UAP 34.4m; tick657
+bud_aviq_119quater_overcost_bi2025,aviq,2025,4400000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,AViQ 119quater impact personnel 4.4m (350 agents); tick657
+bud_forem_119quater_agents,forem,2024,1136,,,outturn,src_ccrek_solde_financement_bi2025,strong,Forem 119quater agents COUNT 1136; tick657
+bud_aviq_119quater_agents,aviq,2024,350,,,outturn,src_ccrek_solde_financement_bi2025,strong,AViQ 119quater agents COUNT 350; tick657
+bud_effort_facultatives_bi2025,wallonie_gov,2025,68900000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Effort: diminutions subventions facultatives 68.9m; tick657
+bud_effort_aides_eco_bi2025,wallonie_gov,2025,15000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Effort: aides economiques -15.0m; tick657
+bud_effort_spw_opex_hr_bi2025,wallonie_gov,2025,23400000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Effort: SPW fonctionnement+personnel -23.4m; tick657
+bud_effort_fonds_communes_index_bi2025,wallonie_gov,2025,15600000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Effort: suppress +1pct index fonds des communes 15.6m; tick657
+bud_effort_ape_freeze_bi2025,wallonie_gov,2025,13500000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Effort: gel indexation APE except non-marchand 13.5m; tick657
+bud_effort_structurel_cumul_2022_25,wallonie_gov,2025,768000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Effort structurel cumule annonce 2022-2025 768.0m (~1.2pct recettes); commission Coret ~170m/yr; tick657
+bud_effort_coret_reco_2025,wallonie_gov,2025,170000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Commission externe dette reco ~170m/yr (1pct recettes); tick657
+bud_tresorerie_op_totale_bi2025,wallonie_gov,2025,575600000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Operation tresorerie totale 575.6m = remonte UAP 536.6 + dots cut 39.0; no SEC net impact; tick657
+bud_dots_cut_uap_bi2025,uap_perimeter_wal,2025,39000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Diminution dotations UAP 39.0m part of tresorerie op (Forem/AWEX class); tick657
+bud_fonds_budg_rec_bi2025,fonds_budgetaires_wal,2025,530214000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table30/32 fonds budgetaires rec BI2025 530.214m path +37.6m; tick657
+bud_fonds_budg_dep_bi2025,fonds_budgetaires_wal,2025,435091000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table30/32 fonds budgetaires dep BI2025 435.091m path +42.5m; tick657
+bud_fonds_budg_solde_bi2025,fonds_budgetaires_wal,2025,95123000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table30 fonds solde annee BI2025 +95.123m; tick657
+bud_fonds_budg_rec_ba2024,fonds_budgetaires_wal,2024,492647000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table30 fonds rec BA2024 492.647m; tick657
+bud_fonds_budg_dep_ba2024,fonds_budgetaires_wal,2024,392613000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table30 fonds dep BA2024 392.613m; tick657
+bud_fonds_budg_rec_2023,fonds_budgetaires_wal,2023,750071900,,,outturn,src_ccrek_fonds_budgetaires_bi2025,strong,Table30 fonds rec realise 2023 750.072m; tick657
+bud_fonds_budg_dep_2023,fonds_budgetaires_wal,2023,391959900,,,outturn,src_ccrek_fonds_budgetaires_bi2025,strong,Table30 fonds dep realise 2023 391.960m; tick657
+bud_fonds_soldes_report_eng_bi2025,fonds_budgetaires_wal,2025,1491478000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table31 soldes reportes eng eoy2025 est 1491.478m (eoy2023 1418.3); tick657
+bud_fonds_soldes_report_liq_bi2025,fonds_budgetaires_wal,2025,1749333000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table31 soldes reportes liq eoy2025 est 1749.333m (eoy2023 1611.3); tick657
+bud_fonds_securite_routiere_rec_bi2025,fonds_budgetaires_wal,2025,6800000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 securite routiere rec 6.8m dep 5.8m; tick657
+bud_fonds_loterie_rec_bi2025,fonds_budgetaires_wal,2025,3995000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 loterie rec 3.995m dep 3.315m; tick657
+bud_fonds_etudes_tech_rec_bi2025,fonds_budgetaires_wal,2025,3000000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 etudes techniques rec 3.0m dep 1.763m; tick657
+bud_fonds_trafic_routier_rec_bi2025,fonds_budgetaires_wal,2025,14000000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 trafic routier rec 14.0m dep 7.683m; tick657
+bud_fonds_env_protection_rec_bi2025,fonds_budgetaires_wal,2025,78431000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 protection environnement rec 78.431m dep 71.635m; tick657
+bud_fonds_trafic_fluvial_rec_bi2025,fonds_budgetaires_wal,2025,2000000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 trafic fluvial rec 2.0m dep 1.956m; tick657
+bud_fonds_rdi_rec_bi2025,fonds_budgetaires_wal,2025,22700000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 fonds RDI rec 22.7m dep 13.594m; tick657
+bud_sofico_opt_concessions_bi2025,sofico,2025,2000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Sofico concessions recettes +2.0m in consol other corr; tick657
+bud_opt_reductions_fiscales_uap_bi2025,uap_perimeter_wal,2025,5000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Optimisation reductions fiscales UAP +5.0m (PP night class); tick657

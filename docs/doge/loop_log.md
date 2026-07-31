@@ -7746,3 +7746,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+spending_reviews_wal); budgets (+36); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_119quater_specialty_l5_2025; rq_647=done; spawn rq_648; loop_state ticks=656
 - FOI opened: gap_119quater_specialty_l5_2025 -- ready (not sent)
 - Next: rq_648; progress@660 in 4 ticks; rq_116 deferred
+
+### 2026-08-01T06:00:00Z -- tick 657
+- Unit: rq_648 (FOI-adjacent dual fiscal/governance hole-fill -- **Solde financement Table8 + sous-util risk + fonds budgetaires + effort L5**)
+- Found: **Table8** (primary CoA): rec **EUR21.803bn** / dep **EUR22.029bn** / brut **-EUR227m** / net **-EUR2.897bn** / inst consol **-EUR470m** / net consol **-EUR3.367bn** / corr SEC **+EUR1.080bn** (SG sous-util **EUR609m** / OCPP **EUR310m** / autres **EUR161m**) / **SEC -EUR2.287bn** (path **-EUR3m**). **Sous-util risk:** UAP inexec presumee **EUR204m** vs objectifs sum **-EUR681m**; squeeze **EUR148.1m** (119quater **34.4** + non-index dots **50.4** + prior econ **63.3**). Inexec 2023 **EUR1.553bn** (7.3%); factures shift **EUR247.8m**. **119quater L5:** Forem **EUR15.8m**/1136 + AViQ **EUR4.4m**/350. **Effort L5:** facult **EUR68.9m** / aides **15** / SPW **23.4** / communes **15.6** / APE freeze **13.5**; cumul 2022-25 **EUR768m** (Coret ~**170**/yr). **Fonds Table30-32:** rec **EUR530.2m** / dep **EUR435.1m** / solde **+EUR95.1m**; report eng **EUR1.491bn** / liq **EUR1.749bn**. Dual **VL Maastricht**. Strong confidence CoA; delivery L5 residual FOI.
+- Wrote: entities (+fonds_budgetaires_wal); budgets (+53); commitments (+6); leaderboard (+6); sources (+3); FOI draft gap_solde_fonds_sousutil_l5_2025; rq_648=done; spawn rq_649; loop_state ticks=657
+- FOI opened: gap_solde_fonds_sousutil_l5_2025 -- ready (not sent)
+- Next: rq_649; progress@660 in 3 ticks; rq_116 deferred
