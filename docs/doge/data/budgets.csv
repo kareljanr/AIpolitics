@@ -15860,3 +15860,43 @@ bud_crb_cce_2026,fod_economy,2026,5840000,,,budgeted,src_kamer_economy_energy_12
 bud_inr_icn_2026,fod_economy,2026,1292000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 21.40.414006 Institute National Accounts 1292 kEUR 2026; tick759
 bud_dual_social_energy_phoenix_2026,gg_belgium,2026,0,,,derived,src_dual_phoenix_social_energy_tick759,strong,Dual: social energy benches 2.35bn crisis class + heating oil 21m + collective 4m vs Phoenix LTO class 0.69bn 2026; not TE-additive; tick759
 bud_nuclear_research_stack_2026,fod_economy,2026,166349000,,,derived,src_kamer_economy_energy_1281_015_2026,strong,Nuclear research stack SCK 57.97+MYRRHA 9.55+phys/invest 14.03+IRE 44.48+IIKW 3.76+CERN 36.55=166.3m 2026 class; tick759
+bud_belspo_pers_statutair_2026,belspo,2026,12795000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA 21.01.11.00.03 statutair 12795 kEUR 2026; tick761
+bud_belspo_pers_contract_2026,belspo,2026,5884000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA 21.01.11.00.04 contract 5884 kEUR 2026 after transfer; tick761
+bud_belspo_central_pers_stack_2026,belspo,2026,18679000,,,derived,src_kamer_belspo_1281_018_2026,strong,Central personnel stack 12.795+5.884=18.679m 2026; tick761
+bud_belspo_rd_national_main_2024,belspo,2024,17259000,,,outturn,src_kamer_belspo_1281_018_2026,strong,National R&D main path 17259 kEUR 2024; tick761
+bud_belspo_rd_national_main_2025,belspo,2025,23759000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,National R&D main 23759 kEUR 2025; tick761
+bud_belspo_rd_national_main_2026,belspo,2026,21023000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA path national R&D P4Science/S4Policy/BRAIN class 21023 kEUR 2026; tick761
+bud_belspo_rd_adba_2026,belspo,2026,10953000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA 60.11.41.30.51 R&D to ADBA 10953 kEUR 2026 flat; tick761
+bud_belspo_rd_aoi_2026,belspo,2026,2000000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA 60.11.41.40.51 R&D to other AOI 2000 kEUR 2026; tick761
+bud_belspo_rd_national_stack_2026,belspo,2026,33976000,,,derived,src_kamer_belspo_1281_018_2026,strong,National R&D stack 21.023+10.953+2.000=33.976m 2026; tick761
+bud_esa_contrib_2024,belspo,2024,247544000,,,outturn,src_kamer_belspo_1281_018_2026,strong,BA 60.22.35.40.12 ESA eng 247544 kEUR 2024; tick761
+bud_esa_contrib_2025,belspo,2025,255589000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,ESA eng 255589 kEUR 2025 adjusted; tick761
+bud_esa_contrib_2026_eng,belspo,2026,226954000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,ESA eng 226954 kEUR 2026 after MR save -63746k + tech 32m; tick761
+bud_esa_contrib_2026_liq,belspo,2026,233567000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,ESA liq 233567 kEUR 2026 after save -64133k; tick761
+bud_esa_save_mr_2026,belspo,2026,63746000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,MR 14Feb2025 ESA save -63746 kEUR eng 2026 (~64m); tick761
+bud_esa_cm25_defence_path,belspo,2026,0,,,commitment,src_kamer_belspo_1281_018_2026,strong,CM 23Dec2025 ESA CM25 path: Defence +168m + interdept provis +400m 2026-29 residual FOI cash-by-year; tick761
+bud_eumetsat_eso_ecmwf_2026,belspo,2026,16082000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA 60.22.35.40.22 EUMETSAT/ESO/ECMWF 16082 kEUR 2026; tick761
+bud_stereo_space_research_2026,belspo,2026,2696000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BA 60.22.45.00.21 STEREO/space research eng 2696 / liq 3000 kEUR 2026; tick761
+bud_space_ops_stack_2026,belspo,2026,245732000,,,derived,src_kamer_belspo_1281_018_2026,strong,Space stack ESA 226.954+EUMETSAT etc 16.082+STEREO 2.696=245.732m eng 2026; tick761
+bud_belnet_2026,belspo,2026,22367000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BELNET research network 22367 kEUR 2026; tick761
+bud_polar_station_2026,belspo,2026,3725000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,Antarctic polar station/secretariat 3725 kEUR 2026; tick761
+bud_myrrha_belspo_p1_2026,belspo,2026,7110000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,MYRRHA AISBL BELSPO share 7110 kEUR 2026 dual Economy 7.9m; tick761
+bud_myrrha_belspo_p2_2026,belspo,2026,1485000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,MYRRHA parts 2-3 BELSPO 1485 kEUR 2026 dual Economy 1.65m; tick761
+bud_von_karman_2026,belspo,2026,1743000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,Von Karman Institute NATO-related 1743 kEUR 2026; tick761
+bud_eureka_related_2026,belspo,2026,9989000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,International research org path 9989 kEUR 2026 class; tick761
+bud_kbr_dot_2026,kbr,2026,17056000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KBR Royal Library Albert I 17056 kEUR 2026; tick761
+bud_ara_dot_2026,ara,2026,16128000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,ARA State Archives 16128 kEUR 2026; tick761
+bud_kmi_dot_2026,kmi,2026,11318000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KMI meteorology main 11318 kEUR 2026; tick761
+bud_kmi_climate_dot_2026,kmi,2026,2000000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KMI climate research specific 2000 kEUR 2026 new BA; tick761
+bud_bira_dot_2026,bira,2026,6871000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,BIRA space aeronomy 6871 kEUR 2026; tick761
+bud_ksb_orb_dot_2026,ksb,2026,8777000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KSB/ORB Royal Observatory 8777 kEUR 2026; tick761
+bud_kbin_dot_2026,kbin,2026,19509000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KBIN Natural Sciences main 19509 kEUR 2026; tick761
+bud_kbin_belgica_2026,kbin,2026,4143000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KBIN Belgica ship + JEMU + public obs 4143 kEUR 2026; tick761
+bud_kmma_dot_2026,kmma,2026,11784000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KMMA Africa Museum 11784 kEUR 2026; tick761
+bud_kmkg_dot_2026,kmkg,2026,14587000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KMKG Art and History Museums 14587 kEUR 2026; tick761
+bud_kmskb_dot_2026,kmskb,2026,11941000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KMSKB Fine Arts Museums 11941 kEUR 2026; tick761
+bud_kik_dot_2026,kik,2026,6705000,,,budgeted,src_kamer_belspo_1281_018_2026,strong,KIK Royal Institute Artistic Heritage 6705 kEUR 2026; tick761
+bud_fsi_dots_stack_2026,belspo,2026,132588000,,,derived,src_kamer_belspo_1281_018_2026,strong,FSI main dots sum KBR+ARA+KMI+climate+BIRA+KSB+KBIN+Belgica+KMMA+KMKG+KMSKB+KIK=132.588m 2026; WHI dual Defence; tick761
+bud_dual_esa_defence_cm25_2026,gg_belgium,2026,0,,,derived,src_dual_belspo_esa_fsi_tick761,strong,Dual ESA CM25: BELSPO budget 227m + Defence 168m path + 400m provis 2026-29 not TE-additive cash years FOI; tick761
+bud_dual_myrrha_belspo_economy_2026,gg_belgium,2026,18145000,,,derived,src_dual_belspo_esa_fsi_tick761,strong,Dual MYRRHA BELSPO 7.11+1.485 + Economy 7.9+1.65 class ~18.1m 2026 not double-count TE; tick761
+bud_dual_whi_defence_belspo_2026,gg_belgium,2026,16150000,,,derived,src_dual_belspo_esa_fsi_tick761,strong,Dual WHI fed 16.15m via Defence OAP/50.9 not BELSPO FSI table; Horizon50-200 detach residual; tick761

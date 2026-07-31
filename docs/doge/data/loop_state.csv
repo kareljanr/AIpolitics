@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T20:00:00Z,rq_751,760,no,tick760 progress@760 L2~99 L5~55-69 FOI~491; waste top10 stable; next rq_752 BELSPO/Finance; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T21:00:00Z,rq_752,761,no,tick761 BELSPO ESA 227m FSI 132.6 R&D 34; next rq_753 Finance/Emploi; progress@770 in 9; rq_116 deferred

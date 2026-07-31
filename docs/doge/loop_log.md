@@ -9111,3 +9111,17 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (progress tick)
 - Next: prio5 **rq_752** (BELSPO 1281/018 or Finance 1281/010); deferred **rq_116**; progress@770 in 10
 
+
+### 2026-08-02T21:00:00Z — tick 761
+- Unit: **rq_752** (FOI-adjacent residual — **Kamer DOC 56 1281/018 BELSPO: ESA + FSI dual Defence/Economy**)
+- Found (primary Kamer 1281/018, 94p, kEUR):
+  - **ESA BA 60.22.35.40.12:** eng **€226.954m** / liq **€233.567m** 2026 (from **€255.589m** 2025 after MR save **−€63.746m** eng / **−€64.133m** liq + tech oneshot **+€32m**)
+  - **CM25 path (CM 23 Dec 2025):** Defence **+€168m** + interdept provis **+€400m** 2026–29 residual cash FOI
+  - **EUMETSAT/ESO/ECMWF:** **€16.082m**; **STEREO** eng **€2.696m** / liq **€3.0m**
+  - **National R&D stack:** main **€21.023m** + ADBA **€10.953m** + AOI **€2.0m** = **€33.976m** 2026
+  - **FSI dots 2026:** KBR **€17.056m** · ARA **€16.128m** · KBIN **€19.509m** (+Belgica **€4.143m**) · KMKG **€14.587m** · KMSKB **€11.941m** · KMMA **€11.784m** · KMI **€11.318m** (+climate **€2.0m**) · KSB **€8.777m** · BIRA **€6.871m** · KIK **€6.705m** → sum **~€132.6m** (WHI dual Defence **€16.15m**)
+  - **BELNET €22.367m** · polar **€3.725m** · MYRRHA BELSPO **€7.11m+€1.485m** dual Economy · central pers **€18.679m**
+- Wrote: entities (+BELSPO/FSI as needed); budgets (+40); commitments (+10); leaderboard (+10); sources (+2); FOI draft **gap_belspo_esa_cm25_fsi_l5**; rq_752=done; spawn **rq_753**; ticks=761
+- FOI opened: gap_belspo_esa_cm25_fsi_l5 — ready prio8 (not sent)
+- Next: rq_753 Finance 1281/010 or Emploi 1281/012; progress@770 in 9; rq_116 deferred
+
