@@ -10986,3 +10986,31 @@ bud_vito_toelagen_2023,vito,2023,62705000,,,outturn,src_vito_jv_2023,strong,VITO
 bud_vito_personnel_2023,vito,2023,114837000,,,outturn,src_vito_jv_2023,strong,VITO personeelskosten 114.837m staff 1296 2023; tick593
 bud_vito_ref_tasks_2023,vito,2023,13803000,,,outturn,src_vito_jv_2023,strong,VITO financiering referentietaken 13.803m 2023; tick593
 bud_vito_staff_2024,vito,2024,0,,,outturn,src_vito_impact_2024,strong,VITO ~1300 medewerkers +66 FTE YoY 2024; not EUR; tick593
+bud_imec_op_income_2025,imec,2025,1216899528,,,outturn,src_imec_consol_fs_2025,strong,imec consol operating income 1216.900m 2025 (vs 1033.929m 2024); tick594
+bud_imec_turnover_2025,imec,2025,846263428,,,outturn,src_imec_consol_fs_2025,strong,imec consol turnover 846.263m 2025 (vs 753.305m 2024); tick594
+bud_imec_other_op_income_2025,imec,2025,361938254,,,outturn,src_imec_consol_fs_2025,strong,imec consol other operating income 361.938m 2025; tick594
+bud_imec_op_charges_2025,imec,2025,1120718411,,,outturn,src_imec_consol_fs_2025,strong,imec consol operating charges 1120.718m 2025; tick594
+bud_imec_personnel_2025,imec,2025,426091444,,,outturn,src_imec_consol_fs_2025,strong,imec consol remuneration SS pensions 426.091m 2025 (vs 379.529m 2024); tick594
+bud_imec_services_2025,imec,2025,318989387,,,outturn,src_imec_consol_fs_2025,strong,imec consol services other goods 318.989m 2025; tick594
+bud_imec_materials_2025,imec,2025,257786217,,,outturn,src_imec_consol_fs_2025,strong,imec consol raw materials consumables 257.786m 2025; tick594
+bud_imec_depreciation_2025,imec,2025,105419352,,,outturn,src_imec_consol_fs_2025,strong,imec consol depreciation write-offs provisions 105.419m 2025; tick594
+bud_imec_op_profit_2025,imec,2025,96181117,,,outturn,src_imec_consol_fs_2025,strong,imec consol operating profit 96.181m 2025 (vs 40.900m 2024); tick594
+bud_imec_gain_2025,imec,2025,145696449,,,outturn,src_imec_consol_fs_2025,strong,imec consol gain of period 145.696m 2025 (vs 57.306m 2024); tick594
+bud_imec_acquisitions_2025,imec,2025,272786386,,,outturn,src_imec_consol_fs_2025,strong,imec consol acquisitions CAPEX 272.786m 2025 (vs 174.737m 2024); tick594
+bud_imec_assets_2025,imec,2025,1692302424,,,outturn,src_imec_consol_fs_2025,strong,imec consol total assets 1692.302m 2025; tick594
+bud_imec_fixed_assets_2025,imec,2025,665310765,,,outturn,src_imec_consol_fs_2025,strong,imec consol fixed assets 665.311m 2025; tick594
+bud_imec_tangible_2025,imec,2025,603510935,,,outturn,src_imec_consol_fs_2025,strong,imec consol tangible fixed assets 603.511m 2025; tick594
+bud_imec_fin_assets_2025,imec,2025,61649830,,,outturn,src_imec_consol_fs_2025,strong,imec consol financial fixed assets 61.650m 2025; tick594
+bud_imec_current_assets_2025,imec,2025,1026991659,,,outturn,src_imec_consol_fs_2025,strong,imec consol current assets 1026.992m 2025; tick594
+bud_imec_investments_2025,imec,2025,679069846,,,outturn,src_imec_consol_fs_2025,strong,imec consol current investments 679.070m 2025; tick594
+bud_imec_cash_2025,imec,2025,21383524,,,outturn,src_imec_consol_fs_2025,strong,imec consol cash 21.384m 2025; tick594
+bud_imec_equity_2025,imec,2025,519157659,,,outturn,src_imec_consol_fs_2025,strong,imec consol equity 519.158m 2025; tick594
+bud_imec_minority_2025,imec,2025,411121344,,,outturn,src_imec_consol_fs_2025,strong,imec consol minority interests 411.121m 2025; tick594
+bud_imec_invest_grants_2025,imec,2025,77839276,,,outturn,src_imec_consol_fs_2025,strong,imec consol investment grants 77.839m 2025; tick594
+bud_imec_payable_2025,imec,2025,761305672,,,outturn,src_imec_consol_fs_2025,strong,imec consol amounts payable 761.306m 2025; tick594
+bud_imec_lt_payable_2025,imec,2025,40896624,,,outturn,src_imec_consol_fs_2025,strong,imec consol LT payable 40.897m 2025; tick594
+bud_imec_st_payable_2025,imec,2025,420147266,,,outturn,src_imec_consol_fs_2025,strong,imec consol ST payable 420.147m 2025; tick594
+bud_imec_rem_ss_liab_2025,imec,2025,109125537,,,outturn,src_imec_consol_fs_2025,strong,imec consol remuneration SS liability 109.126m 2025; tick594
+bud_imec_turnover_2024,imec,2024,753305444,,,outturn,src_imec_consol_fs_2025,strong,imec consol turnover 753.305m 2024; tick594
+bud_imec_op_income_2024,imec,2024,1033929273,,,outturn,src_imec_consol_fs_2025,strong,imec consol operating income 1033.929m 2024; tick594
+bud_imec_gain_2024,imec,2024,57306403,,,outturn,src_imec_consol_fs_2025,strong,imec consol gain 57.306m 2024; tick594

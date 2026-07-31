@@ -7228,3 +7228,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+vito); budgets (+20); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_vito_jaarrekening_l5_2024; rq_584=done; spawn rq_585; loop_state ticks=593
 - FOI opened: gap_vito_jaarrekening_l5_2024 → ready (not sent)
 - Next: rq_585; progress@600 in 7 ticks; rq_116 deferred
+
+### 2026-07-31T14:15:00Z — tick 594
+- Unit: rq_585 (FOI-adjacent dual Flanders SOC hole-fill — **imec** dual VITO)
+- Found: **imec** Consolidated FS 2025 (primary PDF, 5 pp). **Op income €1,216.900m** (turnover **€846.263m** + other **€361.938m**); **op profit €96.181m**; **gain €145.696m** (vs 57.3m 2024). **Assets €1,692.302m**; equity **€519.158m**; minority **€411.121m**; payable **€761.306m**; personnel **€426.091m**; CAPEX acquisitions **€272.786m**; cash investments **€679.070m**. Dual **VITO** inkomsten 297m/personnel 129m. Strong confidence.
+- Wrote: entities (+imec); budgets (+28); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_imec_vl_toelage_l5_2025; rq_585=done; spawn rq_586; loop_state ticks=594
+- FOI opened: gap_imec_vl_toelage_l5_2025 → ready (not sent)
+- Next: rq_586; progress@600 in 6 ticks; rq_116 deferred
