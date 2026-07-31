@@ -8914,3 +8914,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_justice_legalaid_crossborder_l5 — ready prio8 (not sent)
 - Next: rq_739 (hint AViQ RA2024 raw on disk); progress@750 in 3; rq_116 deferred
 
+
+### 2026-08-02T11:15:00Z — tick 748
+- Unit: **rq_739** (FOI-adjacent residual dual — **AViQ RA2024 budget pie + contrat gestion 2024-29 dual Iriscare/VAPH**)
+- Found (primary AViQ RA2024 infographic + Contrat de gestion 25 Jan 2024):
+  - **RA2024 total exp class €7,155.056m**: AF+APA **€3,070.867m (42.92%)** · aînés **€1,662.607m (23.24%)** · handicap **€1,011.986m (14.14%)** · santé/prévention **€797.922m (11.15%)** · rembours dotation **€352.584m (4.93%)** · autres **€173.0m** · admin **€86.090m (1.20%)**
+  - **CG initial 2024 €6,961.656m** L5: AF **€2,916.127m** · APA **€156.071m** · aînés resid **€1,523.167m** · PH resid **€645.611m** · aide familles **€312.170m** · ETA **€164.517m** · **divers €391.153m (5.62%)** · RH **€89.731m**
+  - **Recettes 2024 €6,540.341m** (matches prior CoA BI2024); paritaires **€4,586.612m** · réglementées **€1,628.486m**
+  - **CL path** 2016 **€979m** → 2019 **€4,450m** (+308.8% AF integration) → 2024 initial **€6,962m**; inflation 2022→23 **€714.5m**; non-marchand **€260m** AViQ principal
+  - HR: **897** agents / **824.9** FTE; AF benef **913,224** (2023) · APA **33,764** · BAP **668**; network **2,586** services + **1,473** entrepreneurs sociaux
+  - Dual Iriscare AF ~1.08bn / VAPH class / COCOM not TE-additive; rembours dual treasury 335.3m BI2025
+- Wrote: budgets (+60); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_aviq_ra2024_residual_l5**; raw CG PDF; rq_739=done; spawn **rq_740**; ticks=748
+- FOI opened: gap_aviq_ra2024_residual_l5 — ready prio8 (not sent)
+- Next: rq_740; progress@750 in 2; rq_116 deferred
+

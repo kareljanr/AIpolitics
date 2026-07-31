@@ -15353,3 +15353,63 @@ bud_justice_curators_2026,fod_justice,2026,4384000,,,budgeted,src_kamer_justice_
 bud_justice_forensic_medicine_inst_2026,fod_justice,2026,1781000,,,budgeted,src_kamer_justice_justif_1281_005_tick747,strong,BA 12.56.03.330040 forensic medicine institutionalisation 1781 kEUR; tick747
 bud_dual_legalaid_fed_vl_ajh_2026,gg_belgium,2026,241098000,,,derived,src_dual_justice_legalaid_crossborder_tick747,strong,Dual federal legal-aid stack 241.1m vs VL AJH 240m package different perimeter not additive; tick747
 bud_dual_crossborder_bpost_provis_2026,gg_belgium,2026,56320000,,,derived,src_dual_justice_legalaid_crossborder_tick747,strong,Dual Crossborder bpost opacity: 56.32m parked BOSA + Justice BA path; dual JustSign/bpost history; tick747
+bud_aviq_ra2024_total_exp,aviq,2024,7155056000,,,outturn_class,src_aviq_ra_2024_infographic,strong,AViQ RA2024 total dep presentation 7155056000 EUR; tick748
+bud_aviq_ra2024_af_apa,aviq,2024,3070867000,,,outturn_class,src_aviq_ra_2024_infographic,strong,AF + APA class 42.92pct = 3070867000; dual Iriscare AF 1081m; tick748
+bud_aviq_ra2024_aines_services,aviq,2024,1662607000,,,outturn_class,src_aviq_ra_2024_infographic,strong,Services aines incl infra 23.24pct = 1662607000; tick748
+bud_aviq_ra2024_handicap,aviq,2024,1011986000,,,outturn_class,src_aviq_ra_2024_infographic,strong,Services/aides handicap incl infra 14.14pct = 1011986000; dual VAPH; tick748
+bud_aviq_ra2024_sante_prevention,aviq,2024,797922000,,,outturn_class,src_aviq_ra_2024_infographic,strong,Sante/prevention + familles + 1e ligne 11.15pct = 797922000; tick748
+bud_aviq_ra2024_rembours_dotation,aviq,2024,352584000,,,outturn_class,src_aviq_ra_2024_infographic,strong,Remboursement dotation 4.93pct = 352584000; dual treasury rembours 335.3m BI2025 path; tick748
+bud_aviq_ra2024_autres,aviq,2024,173000000,,,outturn_class,src_aviq_ra_2024_infographic,strong,Autres depenses 2.42pct = 173000000; tick748
+bud_aviq_ra2024_admin,aviq,2024,86090000,,,outturn_class,src_aviq_ra_2024_infographic,strong,Frais admin caisses AF + OA + AViQ 1.20pct = 86090000; tick748
+bud_aviq_ra2024_agents,aviq,2024,897,,,stock_count,src_aviq_ra_2024_infographic,strong,897 agents 31 Dec 2024; tick748 COUNT
+bud_aviq_ra2024_fte,aviq,2024,824.9,,,stock_fte,src_aviq_ra_2024_infographic,strong,824.9 FTE 2024; tick748
+bud_aviq_ra2024_contractuels,aviq,2024,300,,,stock_count,src_aviq_ra_2024_infographic,strong,300 contractuels 33.44pct; tick748 COUNT
+bud_aviq_ra2024_statutaires,aviq,2024,597,,,stock_count,src_aviq_ra_2024_infographic,strong,597 statutaires 66.56pct; tick748 COUNT
+bud_aviq_ra2024_teletravail,aviq,2024,831,,,stock_count,src_aviq_ra_2024_infographic,strong,831 telework beneficiaries; tick748 COUNT
+bud_aviq_ra2024_af_supp_benef,aviq,2024,24994,,,stock_count,src_aviq_ra_2024_infographic,strong,AF supplementaires beneficiaries 24994; tick748 COUNT
+bud_aviq_ra2024_af_benef_2023,aviq,2023,913224,,,stock_count,src_aviq_ra_2024_infographic,strong,AF beneficiaries 913224 (2023 figure); tick748 COUNT
+bud_aviq_ra2024_apa_benef,aviq,2024,33764,,,stock_count,src_aviq_ra_2024_infographic,strong,APA beneficiaries 33764; tick748 COUNT
+bud_aviq_ra2024_bap_benef,aviq,2024,668,,,stock_count,src_aviq_ra_2024_infographic,strong,BAP Budget Assistance Personnel 668; tick748 COUNT
+bud_aviq_ra2024_mobilite_benef,aviq,2024,7608,,,stock_count,src_aviq_ra_2024_infographic,strong,Aides mobilite 7608; tick748 COUNT
+bud_aviq_ra2024_emploi_aides_benef,aviq,2024,36496,,,stock_count,src_aviq_ra_2024_infographic,strong,Aides emploi 36496; tick748 COUNT
+bud_aviq_ra2024_materielles_benef,aviq,2024,11243,,,stock_count,src_aviq_ra_2024_infographic,strong,Aides materielles 11243; tick748 COUNT
+bud_aviq_ra2024_services_antennes,aviq,2024,2586,,,stock_count,src_aviq_ra_2024_infographic,strong,2586 services ou antennes + 1473 entrepreneurs sociaux; tick748 COUNT
+bud_aviq_ra2024_entrepreneurs_sociaux,aviq,2024,1473,,,stock_count,src_aviq_ra_2024_infographic,strong,1473 entrepreneurs sociaux; tick748 COUNT
+bud_aviq_cg_initial_total_2024,aviq,2024,6961656000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Contrat gestion initial dep total 6961656000 EUR 2024; tick748
+bud_aviq_cg_af_2024,aviq,2024,2916127000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Initial 2024 AF 2916127000 41.89pct; tick748
+bud_aviq_cg_apa_2024,aviq,2024,156071000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Initial 2024 APA 156071000 2.24pct; tick748
+bud_aviq_cg_aines_resid_2024,aviq,2024,1523167000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Aines services residentiels+accueil jour 1523167000 21.88pct; tick748
+bud_aviq_cg_ph_resid_2024,aviq,2024,645611000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,PH services resid+accueil jour 645611000 9.27pct; tick748
+bud_aviq_cg_aide_familles_2024,aviq,2024,312170000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Services aide aux familles 312170000 4.48pct; tick748
+bud_aviq_cg_sante_mentale_2024,aviq,2024,128256000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Sante mentale 128256000 1.84pct; tick748
+bud_aviq_cg_revalidation_2024,aviq,2024,108614000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Centres revalidation fonctionnelle 108614000; tick748
+bud_aviq_cg_eta_2024,aviq,2024,164517000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Entreprises travail adapte 164517000 2.36pct; tick748
+bud_aviq_cg_ph_emploi_ord_2024,aviq,2024,48176000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,PH aide emploi ordinaire 48176000; tick748
+bud_aviq_cg_ph_milieu_vie_2024,aviq,2024,62243000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,PH aide milieu de vie 62243000; tick748
+bud_aviq_cg_aides_indiv_2024,aviq,2024,64216000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Aides individuelles 64216000; tick748
+bud_aviq_cg_premiere_ligne_2024,aviq,2024,51988000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Premiere ligne soins 51988000; tick748
+bud_aviq_cg_promo_sante_2024,aviq,2024,25086000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Promotion sante et Famille 25086000; tick748
+bud_aviq_cg_assuetudes_2024,aviq,2024,8262000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Assuetudes 8262000; tick748
+bud_aviq_cg_facultatives_2024,aviq,2024,7213000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Subventions facultatives 7213000; tick748
+bud_aviq_cg_infra_hosp_2024,aviq,2024,124264000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Infrastructures hospitalieres 124264000; tick748
+bud_aviq_cg_infra_aines_2024,aviq,2024,26063000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Infra aines 26063000; tick748
+bud_aviq_cg_infra_ph_2024,aviq,2024,12320000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Infra PH 12320000; tick748
+bud_aviq_cg_admin_caisses_2024,aviq,2024,39654000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Frais admin caisses AF 39654000; tick748
+bud_aviq_cg_admin_oa_2024,aviq,2024,25229000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Frais admin organismes assureurs 25229000; tick748
+bud_aviq_cg_admin_aviq_2024,aviq,2024,14881000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Frais admin AViQ 14881000; tick748
+bud_aviq_cg_rh_2024,aviq,2024,89731000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Ressources humaines AViQ 89731000 1.29pct; tick748
+bud_aviq_cg_divers_2024,aviq,2024,391153000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Divers 391153000 5.62pct residual L5 FOI; tick748
+bud_aviq_cg_recettes_total_2024,aviq,2024,6540341000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Recettes total initial 2024 6540341000 (matches CoA BI2024); tick748
+bud_aviq_cg_dot_paritaires_2024,aviq,2024,4586612000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Dotations missions paritaires 4586612000 70.13pct; tick748
+bud_aviq_cg_dot_reglementees_2024,aviq,2024,1628486000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Dotations missions reglementees 1628486000 24.90pct; tick748
+bud_aviq_cg_dot_fonct_2024,aviq,2024,92112000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Dotation fonctionnement 92112000 1.41pct; tick748
+bud_aviq_cg_dot_facultatives_2024,aviq,2024,90914000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Dotations facultatives 90914000 1.39pct; tick748
+bud_aviq_path_cl_2016,aviq,2016,979156000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,CL path 2016 979156000 pre-AF integration; tick748
+bud_aviq_path_cl_2019,aviq,2019,4449918000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,CL path 2019 4449918000 (+308.8pct AF integration); tick748
+bud_aviq_path_cl_2023,aviq,2023,6685152000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,CL path 2023 6685152000; tick748
+bud_aviq_inflation_2022_2023,aviq,2023,714536000,,,budgeted,src_aviq_contrat_gestion_2024_2029,strong,Inflation component 714536000 BI2022 to BI2023; tick748
+bud_aviq_nonmarchand_accord_total,aviq,2024,260000000,,,commitment,src_aviq_contrat_gestion_2024_2029,strong,Accord cadre non-marchand wallon 2021-24 total 260m of which AViQ principal; tick748
+bud_aviq_ra_vs_initial_gap_2024,aviq,2024,193400000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,medium,RA2024 total 7155.1m minus CG initial 6961.7m ~193.4m path/reclass gap; tick748
+bud_dual_aviq_iriscare_af_2024,gg_belgium,2024,3070867000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,strong,Dual AViQ AF+APA 3.071bn vs Iriscare AF 1.081bn not additive; tick748
+bud_dual_aviq_vaph_handicap_2024,gg_belgium,2024,1011986000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,strong,Dual AViQ handicap 1.012bn vs VAPH disability mega class not additive; tick748
+bud_dual_aviq_rembours_treasury_2024,gg_belgium,2024,352584000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,strong,Dual rembours dotation RA 352.6m vs treasury rembours path 335.3m BI2025; tick748
