@@ -7704,3 +7704,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_coa_wave_641_650_l5_2025 ready+draft; rq_641=done spawn rq_642; ticks=650
 - FOI opened: gap_dual_coa_wave_641_650_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_642**; deferred **rq_116**; progress@660 in 10 ticks
+
+### 2026-08-01T04:30:00Z -- tick 651
+- Unit: rq_642 (FOI-adjacent dual fiscal hole-fill -- **IPP Table21 + enregistrement/succession Table22** dual VL)
+- Found: **IPP regional** (primary CoA Table21): BI2025 **EUR3.743bn** (path **+EUR229m** / **+6.52%**); brut **EUR4.523bn**; dep fiscales **EUR882.8m**; net **EUR3.640bn**. **Impots regionaux via fed** (Table22): BI2025 **EUR2.167bn** (path **-EUR233m** / **-9.71%**). Enregistrement **EUR1.273bn** (transmissions **EUR1.005bn** path **-EUR263m** / **-20.8%**); succession **EUR874m**. **Reform 3pct:** net cost **EUR245.4m** (impact **-EUR470.7m** + primo **+EUR94m** + modestes **+EUR131.3m**); cheque habitat from **2026**. SPF sep est **EUR2.406bn** vs budget **EUR2.167bn**. Companion **119quater** net economy **EUR15.9m**. Dual **VL fiscal reforms**. Strong confidence CoA; taxex L5 residual FOI.
+- Wrote: entities (+2); budgets (+30); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_fiscal_ipp_enregistrement_l5_2025; rq_642=done; spawn rq_643; loop_state ticks=651
+- FOI opened: gap_fiscal_ipp_enregistrement_l5_2025 -- ready (not sent)
+- Next: rq_643; progress@660 in 9 ticks; rq_116 deferred

@@ -11877,3 +11877,33 @@ bud_fiscal_precompte_immo_bi2025,wallonie_gov,2025,49200000,,,budgeted,src_ccrek
 bud_fiscal_taxes_automates_bi2025,wallonie_gov,2025,16800000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Taxes regionales automates BI2025 16.8m (mats pylones suppressed); tick649
 bud_nonfiscal_dividendes_bi2025,wallonie_gov,2025,55000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Participation benefices entreprises 55.0m incl FN Herstal 15.0m; tick649
 bud_nonfiscal_fn_herstal_div_bi2025,wallonie_gov,2025,15000000,,,budgeted,src_ccrek_fa_ocpp_bi2025,strong,Dividendes FN Herstal class 15.0m within 55m; tick649
+bud_ipp_brut_bi2025,fiscal_ipp_wal,2025,4523079000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Centimes additionnels brut BI2025 4523.079m path +240.582m (+5.62pct); tick651
+bud_ipp_dep_fiscales_bi2025,fiscal_ipp_wal,2025,882827000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Depenses fiscales IPP BI2025 882.827m path +33.408m; tick651
+bud_ipp_net_bi2025,fiscal_ipp_wal,2025,3640252000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Centimes additionnels net BI2025 3640.252m path +207.174m; tick651
+bud_ipp_coeff_perception_bi2025,fiscal_ipp_wal,2025,3632244000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,IPP after coeff perception 99.78pct BI2025 3632.244m; tick651
+bud_ipp_decomptes_bi2025,fiscal_ipp_wal,2025,113324000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Decomptes annees anterieures BI2025 113.324m path +12.510m; tick651
+bud_ipp_nonresidents_bi2025,fiscal_ipp_wal,2025,-2201000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Impot non-residents BI2025 -2.201m; tick651
+bud_ipp_total_bi2025,fiscal_ipp_wal,2025,3743367000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,IPP regional total BI2025 3743.367m path +228.998m (+6.52pct); tick651
+bud_ipp_total_ba2024,fiscal_ipp_wal,2024,3514369000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,IPP regional total BA2024 3514.369m; tick651
+bud_ipp_brut_ba2024,fiscal_ipp_wal,2024,4282497000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Centimes brut BA2024 4282.497m; tick651
+bud_enreg_transmissions_bi2025,fiscal_enregistrement_wal,2025,1004847000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Droits enregistrement transmissions immeubles BI2025 1004.847m path -263.383m (-20.77pct); tick651
+bud_enreg_hypotheque_bi2025,fiscal_enregistrement_wal,2025,73708000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Droits enregistrement hypotheque BI2025 73.708m path +1.437m; tick651
+bud_enreg_partages_bi2025,fiscal_enregistrement_wal,2025,29100000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Droits enregistrement partages BI2025 29.100m path +1.159m; tick651
+bud_enreg_donations_bi2025,fiscal_enregistrement_wal,2025,165780000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Droits enregistrement donations BI2025 165.780m path +7.809m; tick651
+bud_enreg_total_bi2025,fiscal_enregistrement_wal,2025,1273435000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Total droits enregistrement BI2025 1273.435m path -252.978m (-16.57pct); tick651
+bud_succession_bi2025,fiscal_enregistrement_wal,2025,874163000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Droits succession mutation deces BI2025 874.163m path +19.164m; tick651
+bud_enreg_interets_amendes_bi2025,fiscal_enregistrement_wal,2025,19724000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Interets et amendes impots regionaux BI2025 19.724m path +0.787m; tick651
+bud_impots_regionaux_fed_total_bi2025,fiscal_enregistrement_wal,2025,2167322000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Total impots regionaux percus par Etat BI2025 2167.322m path -233.027m (-9.71pct); tick651
+bud_impots_regionaux_fed_total_ba2024,fiscal_enregistrement_wal,2024,2400349000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Total impots regionaux fed BA2024 2400.349m; tick651
+bud_impots_regionaux_spf_sep_est,fiscal_enregistrement_wal,2025,2405924000,,,estimate,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,SPF Finances sep2024 estimate 2405.924m before regional reform correction; tick651
+bud_enreg_reform_cost_bi2025,fiscal_enregistrement_wal,2025,245400000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Reform enregistrement net cost BI2025 245.4m CoA; tick651
+bud_enreg_reform_3pct_impact_bi2025,fiscal_enregistrement_wal,2025,-470700000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Reform 3pct rate negative impact -470.7m BI2025; tick651
+bud_enreg_reform_primo_suppress_bi2025,fiscal_enregistrement_wal,2025,94000000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Suppress abattement primo acquerant +94.0m compensation BI2025; tick651
+bud_enreg_reform_modestes_suppress_bi2025,fiscal_enregistrement_wal,2025,131300000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Suppress taux reduit habitations modestes +131.3m compensation BI2025; tick651
+bud_enreg_cheque_habitat_from2026,fiscal_enregistrement_wal,2026,0,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,medium,Cheque habitat suppress effects from 2026 only (not 2025); amount Unknown CoA; tick651
+bud_fiscal_fed_service_dots_bi2025,wallonie_gov,2025,18100000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Federal service dots for transferred regional taxes BI2025 18.1m (0.2m below SPF est); tick651
+bud_enreg_non_transmissions_avg5y,fiscal_enregistrement_wal,2024,1030100000,,,outturn,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,5y avg non-transmission regional taxes fed 1030.1m vs BI2025 1162.5m CoA optimistic residual; tick651
+bud_enreg_non_transmissions_bi2025_class,fiscal_enregistrement_wal,2025,1162500000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,Non-transmission regional taxes class BI2025 1162.5m (succession+other excl transmissions immeubles); tick651
+bud_spw_119quater_economy_gross_bi2025,wallonie_gov,2025,26100000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,119quater already statutaires 2472 agents gross employer SSC economy 26.1m/yr; tick651
+bud_spw_119quater_potential_full_gross,wallonie_gov,2025,43300000,,,estimate,src_ccrek_fiscal_ipp_enregistrement_bi2025,medium,If all 1635 remaining statutarisables: gross economy 43.3m/yr CoA; tick651
+bud_spw_119quater_economy_net_bi2025,wallonie_gov,2025,15900000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,119quater net economy after CRP 15.9m/yr (6416 EUR/agent); tick651
