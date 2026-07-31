@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T02:15:00Z,rq_722,731,no,tick731 COCOF residual dual VGC/VAPH; next rq_723; progress@740 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T02:45:00Z,rq_723,732,no,tick732 COCOM residual dual Iriscare; next rq_724; progress@740 in 8; rq_116 deferred

@@ -14608,3 +14608,51 @@ bud_cocof_infra_cl_2026,cocof,2026,37055000,,,budgeted,src_ccrek_cocof_bi2026_re
 bud_dual_phare_vaph_class,gg_belgium,2026,210270000,,,budgeted,src_dual_cocof_vgc_vaph_tick731,strong,Phare CL 210.3m dual VAPH ~2.86bn not additive; tick731
 bud_dual_cocof_vgc_exp_class,gg_belgium,2026,677505000,,,budgeted,src_dual_cocof_vgc_vaph_tick731,strong,COCOF decret CL 677.5m dual VGC exp ~174m outturn class; tick731
 bud_dual_bf_vdab_class,gg_belgium,2026,63200000,,,budgeted,src_dual_cocof_vgc_vaph_tick731,strong,Bruxelles Formation 63.2m dual VDAB/Actiris PES training; tick731
+bud_cocom_csf_growth_rec_2_29pct,cocom,2026,2.29,,,estimate,src_ccrek_cocom_bi2026_residual,strong,PCT CSF rec max net primary growth 2.29 2026 / avg 2.73 2025-31; expose omits metric CoA; tick732
+bud_cocom_multiyear_horizon_gap,cocom,2026,2,,,estimate,src_ccrek_cocom_bi2026_residual,strong,COUNT years short: multiyear stops 2029 vs CFP art8 require 6y to 2031; tick732
+bud_cocom_scr_solde_path_plus_17_1m,cocom,2026,17100000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SCR budget solde -61.6m improves +17.1 vs prov 2025; rec +102.3 dep +85.2; tick732
+bud_cocom_sousutil_2026_64_7m,cocom,2026,64700000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Sous-util assumption 64.7m (vs 62.8 2025); props SEC -35.0; tick732 residual
+bud_cocom_sec_after_sousutil_minus_35m,cocom,2026,-35000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SEC financing solde -35.0m after sous-util 64.7; path balance 2029; tick732
+bud_cocom_encours_eoy2025_193_5m,cocom,2025,193500000,,,outturn,src_ccrek_cocom_bi2026_residual,strong,Encours engagements eoy2025 193.5m; tick732
+bud_cocom_encours_path_eoy2026_180_8m,cocom,2026,180800000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Encours path eoy2026 180.8m (-12.7 if full exec); tick732
+bud_cocom_encours_health_aide_161m,cocom,2025,161000000,,,outturn,src_ccrek_cocom_bi2026_residual,strong,Encours 161.0m = 83.2pct in health/aide invest programmes; tick732
+bud_cocom_encours_delta_minus_12_7m,cocom,2026,-12700000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Potential encours drop -12.7m from BI2026; tick732
+bud_cocom_iriscare_refund_rec_48_1m,cocom,2026,48115000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Iriscare dot refunds rec 48.115m (+8.942/+22.8pct) mainly 2024 invest/fonct settle; tick732
+bud_cocom_fake_recettes_code0_49_1m,cocom,2026,49100000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,CoA: unfounded recettes code eco 0 total 49.1m (Iriscare 48.1 + Samusocial 0.9 + BrussHelp 0.1); tick732
+bud_cocom_fake_recettes_iriscare_48_1m,iriscare,2026,48100000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Iriscare unfounded recettes 48.1m code 0 CoA; tick732
+bud_cocom_fake_recettes_samu_0_9m,new_samusocial,2026,900000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,New Samusocial unfounded recettes 0.9m code 0; tick732
+bud_cocom_fake_recettes_brusshelp_0_1m,bruss_help,2026,100000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,BrussHelp unfounded recettes 0.1m code 0; tick732
+bud_cocom_sprb_path_plus_8m,cocom,2026,8000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SPRB financing path +8.0m to 275.7m; tick732
+bud_cocom_fsas_path_plus_5m,cocom,2026,5000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,FSAS special social action fund path +5.0m to 39.6m; tick732
+bud_cocom_lsf_decompte_under_4_8m,cocom,2026,-4800000,,,estimate,src_ccrek_cocom_bi2026_residual,medium,LSF 2025 decompte underest class ~4.8m on receipts CoA; tick732
+bud_cocom_scr_ce_2026_recon,cocom,2026,2027700000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SCR eng 2027.7m (-24.4/-1.2pct vs prov 2025); tick732
+bud_cocom_scr_cl_2026_recon,cocom,2026,2040500000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SCR liq 2040.5m (+85.2/+4.4pct); tick732
+bud_cocom_sante_invest_priv_eng_8_9m,cocom,2026,8900000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Private health institution invest eng 8.9m (was 70.5; new law 2025); tick732
+bud_cocom_sante_invest_priv_path_minus_61_6m,cocom,2026,-61600000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Private health invest eng path -61.6m (70.5-8.9); tick732
+bud_cocom_hospital_prefin_liq_70_7m,cocom,2026,70700000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Hospital LSF art47/9 prefin liq 70.7m; tick732
+bud_cocom_m03_eng_path_minus_54_8m,cocom,2026,-54800000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Mission03 Sante eng path -54.8m (invest shift); tick732
+bud_cocom_m03_cl_path_plus_53_6m,cocom,2026,53600000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Mission03 Sante CL path +53.6m; tick732
+bud_cocom_m04_eng_path_plus_11_5m,cocom,2026,11500000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Mission04 Aide eng path +11.5m to 141.1 class; tick732
+bud_cocom_m04_cl_path_plus_14_3m,cocom,2026,14300000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Mission04 Aide CL path +14.3m to 145.4; tick732
+bud_cocom_provision_sansabri_2_5m,cocom,2026,2500000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Provision accueil sans-abri 2.5m eng=liq unallocated CoA; tick732
+bud_cocom_provision_crise_2_5m,cocom,2026,2500000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Provision gestion crise 2.5m again 2026; tick732
+bud_cocom_admin_linear_save_2_4m,cocom,2026,2400000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Admin linear economy 2.4m on remun programme; tick732
+bud_iriscare_total_path_plus_64_4m,iriscare,2026,64400000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Iriscare rec/dep path +64.4m/+3.7pct to 1826.4m; tick732
+bud_iriscare_scr_dots_1725_7m,iriscare,2026,1725700000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Iriscare funded by SCR dots 1725.7m of 1826.4; tick732
+bud_iriscare_af_path_minus_4m_class,iriscare,2026,-4000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,AF SCR dot path -4.0m to 1057.8; measures foreign students -6.1 prescription -3.0 progwet -5.0; tick732
+bud_iriscare_af_foreign_students_cut_6_1m,iriscare,2026,-6100000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,AF cut foreign students right -6.1m; tick732
+bud_iriscare_af_prescription_cut_3m,iriscare,2026,-3000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,AF prescription period cut 3y -3.0m; tick732
+bud_iriscare_af_progwet_cut_5m,iriscare,2026,-5000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,AF federal progwet impact -5.0m; tick732
+bud_iriscare_mr_forfaits_path_plus_5_2m,iriscare,2026,5200000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,MR forfaits path +5.2m to 353.7m; 11600 beds +65 CSJ; tick732
+bud_iriscare_aapa_path_minus_3_6m,iriscare,2026,-3600000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,AAPA path -3.6m to 37.6m; tick732
+bud_iriscare_infra_takeover_50m_2024_28,iriscare,2024,50000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Infra invest dossiers takeover from SCR 50m 2024-28; tick732
+bud_iriscare_infra_calls_10m_2026,iriscare,2026,10000000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,New infra project calls 10m/yr (+8 vs 2025); tick732
+bud_iriscare_sante_dot_path_plus_20_5m,iriscare,2026,20500000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SCR Sante dot to Iriscare path +20.5m to 469.6; tick732
+bud_iriscare_2025_extra_cl_22_8m,iriscare,2025,22800000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,Iriscare 2025 extra rec/CL 22.8m + eng 27.2m in figures CoA; tick732
+bud_samusocial_path_plus_72pct_class,new_samusocial,2026,71925000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,New Samusocial 71.925m balanced (+72pct vs 41.8 2025 multi-fund); tick732 recon
+bud_samusocial_scr_dot_path_plus_1_2m,new_samusocial,2026,1200000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,SCR fonct subvention Samusocial +1.2m to 27.4m; tick732
+bud_brusshelp_outside_cfp_flag,bruss_help,2026,3324000,,,budgeted,src_ccrek_cocom_bi2026_residual,strong,BrussHelp 3.324m <7m CFP threshold; CoA: should be outside budget perimeter; tick732
+bud_cocom_comptes_gap_flag,cocom,2026,0,,,estimate,src_ccrek_cocom_bi2026_residual,strong,COUNT flag: general accounts 2019-24 consol + ASBL Samusocial/BrussHelp never approved/transmitted CoA violation; tick732
+bud_dual_iriscare_aviq_af_class,gg_belgium,2026,1081400000,,,budgeted,src_dual_cocom_iriscare_aviq_tick732,strong,Iriscare AF 1081.4m dual AViQ AF ~3.01bn dual Groeipakket; not additive; tick732
+bud_dual_cocom_cocof_class,gg_belgium,2026,2040467000,,,budgeted,src_dual_cocom_iriscare_aviq_tick732,strong,COCOM SCR CL 2040.5m dual COCOF decret CL 677.5; tick732
+bud_dual_samusocial_fedasil_class,gg_belgium,2026,71925000,,,budgeted,src_dual_cocom_iriscare_aviq_tick732,strong,Samusocial multi-fund dual Fedasil/BCR/COCOM homelessness; tick732

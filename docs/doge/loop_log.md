@@ -8688,3 +8688,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+50); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_cocof_bi2026_residual_l5**; extracts + write script; rq_722=done; spawn **rq_723**; loop_state ticks=731
 - FOI opened: gap_cocof_bi2026_residual_l5 — ready (not sent); prior gap_cocof_phare_vgc_l5 remains ready
 - Next: rq_723; progress@740 in 9; rq_116 deferred
+
+### 2026-08-02T02:45:00Z — tick 732
+- Unit: **rq_723** (FOI-adjacent residual dual — **COCOM BI2026 residual dual Iriscare/Samusocial CoA 2026_25**)
+- Found (primary CoA 2026_25 residual vs tick234 aggregates):
+  - **Comptes gap:** consol 2019-24 never transmitted; ASBL Samusocial/BrussHelp never approved (OBCC breach); no justificative fiches Iriscare/Samu/BrussHelp
+  - **Fake recettes code 0:** **49.1m** (Iriscare **48.1** + Samu **0.9** + BrussHelp **0.1**) « sans fondement réel »
+  - SEC **-35.0m** after sous-util **64.7m** (vs 62.8 2025); path balance 2029; CSF **2.29%** omitted; multiyear stops 2029 not 2031
+  - Encours **193.5 → 180.8m**; **161.0m (83.2%)** health/aide invest
+  - Iriscare **1826.4** (+64.4); AF **1081.4** cuts foreign students **-6.1** / prescription **-3.0** / progwet **-5.0**; MR forfaits **353.7** (11600 beds)
+  - Samusocial **71.9** (+72pct); SCR dot **27.4**; BrussHelp **3.3** should be **outside CFP** (<7m rule)
+  - Dual AViQ AF ~3.01bn / COCOF Phare 210 / VGC
+- Wrote: budgets (+48); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_cocom_bi2026_residual_l5**; extracts + write script; rq_723=done; spawn **rq_724**; loop_state ticks=732
+- FOI opened: gap_cocom_bi2026_residual_l5 — ready prio8 (not sent)
+- Next: rq_724; progress@740 in 8; rq_116 deferred
