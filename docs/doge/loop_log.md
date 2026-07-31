@@ -8559,3 +8559,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_fed_vvpr_pillar2_series_l5 — ready (not sent; contacts TBD)
 - Next: rq_714; progress@730 in 8 ticks; rq_116 deferred
 
+
+### 2026-08-01T22:30:00Z — tick 723
+- Unit: **rq_714** (FOI-adjacent dual residual — **WAL SPAQuE UAP ops/stakes/Marshall dual OVAM**)
+- Found (primary SPAQuE RA 2024 chiffres + comptes + partenariats residual vs tick591 accounts):
+  - Ops: **24** sites investigated (**580** samples); **7** rehab chantiers; **63810 t** materials (**47%** recycled); **6** final eval **33 ha**; maint **49** sites (**34** owned)
+  - Renewables: **3.904m kWh** (PV **3.473m** + biogas **0.431m**) ~**935** households; **3** PV service + **2** project + **3** on landfills
+  - Stakes (mission déléguée): RECY* **25.1%** x4 · RECYDEL **12.55%** · RECYNAM **46.65%** · TRADECOWALL **25.2%**; fin assets related **12.125m**
+  - Marshall: loss **−27.764m** / report **−59.055m** RW capital cover; cash **236.2m** vs equity **7.7m**
+  - CA remun president **26.772** / VP **13.683**; dual OVAM residual; Strong RA; L5 FOI.
+- Wrote: budgets (+33); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_spaque_stakes_chantiers_l5_2024**; rq_714=done; spawn **rq_715**; loop_state ticks=723
+- FOI opened: gap_spaque_stakes_chantiers_l5_2024 — ready (not sent)
+- Next: rq_715; progress@730 in 7 ticks; rq_116 deferred
+

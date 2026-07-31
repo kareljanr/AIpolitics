@@ -14244,3 +14244,36 @@ bud_cit_path_plus_1224_8m_2026,fod_finance,2026,1224800000,,,budgeted,src_ccrek_
 bud_russian_assets_cit_1016m_2026,fod_finance,2026,1016000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,CIT advance payments include 1016m frozen Russian assets class; tick722
 bud_dlui_regularisation_bc_126m,fod_finance,2026,126000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Fiscal regularisation BC +126m (IB 84 path +42); tick722
 bud_dual_vvpr_pillar2_tick722,gg_belgium,2026,402100000,,,budgeted,src_dual_vvpr_pillar2_tick722,strong,Dual residual VVPR anticipation + Pillar2 slip; not TE-additive; tick722
+bud_spaque_fin_assets_related_12_125m,spaque,2024,12125000,,,outturn,src_spaque_ra_2024_residual,strong,Immobilisations financieres entreprises liees 12.125m (parts 125k + creances 12m); tick723
+bud_spaque_participations_link_886k,spaque,2024,885687.33,,,outturn,src_spaque_ra_2024_residual,strong,Participations lien de participation 885.7k eoy2024; tick723
+bud_spaque_stock_immeubles_vente_6_43m,spaque,2024,6428981.44,,,outturn,src_spaque_ra_2024_residual,strong,Immeubles destines a la vente stock 6.429m eoy2024; tick723
+bud_spaque_immob_en_cours_1_12m,spaque,2024,1124327.3,,,outturn,src_spaque_ra_2024_residual,strong,Immobilisations en cours et acomptes 1.124m eoy2024; tick723
+bud_spaque_corporeal_fixed_5_28m,spaque,2024,5283035.71,,,outturn,src_spaque_ra_2024_residual,strong,Immobilisations corporelles 5.283m eoy2024; tick723
+bud_spaque_sites_investigated_24,spaque,2024,24,,,outturn,src_spaque_ra_2024_residual,strong,24 sites investigues 2024 = 580 prelevements; tick723
+bud_spaque_samples_580,spaque,2024,580,,,outturn,src_spaque_ra_2024_residual,strong,580 prelevements investigations 2024; tick723
+bud_spaque_mech_borings_331,spaque,2024,331,,,outturn,src_spaque_ra_2024_residual,strong,331 forages mecaniques 2024; tick723
+bud_spaque_piezometers_121,spaque,2024,121,,,outturn,src_spaque_ra_2024_residual,strong,121 piezometres installes 2024; tick723
+bud_spaque_rehab_sites_7,spaque,2024,7,,,outturn,src_spaque_ra_2024_residual,strong,7 chantiers rehabilitation 2024; tick723
+bud_spaque_materials_t_63810,spaque,2024,63810,,,outturn,src_spaque_ra_2024_residual,strong,63810 t materials treated 2024; tick723
+bud_spaque_materials_recycled_t_29913,spaque,2024,29913,,,outturn,src_spaque_ra_2024_residual,strong,29913 t valorisees 47pct recycling 2024; tick723
+bud_spaque_final_eval_6_sites_33ha,spaque,2024,6,,,outturn,src_spaque_ra_2024_residual,strong,6 sites evaluation finale 33 ha 2024; tick723
+bud_spaque_pv_kwh_3904028,spaque,2024,3904028,,,outturn,src_spaque_ra_2024_residual,strong,PV+biogaz production 3904028 kWh 2024 (~935 WAL households); tick723
+bud_spaque_pv_kwh_3473370,spaque,2024,3473370,,,outturn,src_spaque_ra_2024_residual,strong,Photovoltaic 3473370 kWh of total renewable; tick723
+bud_spaque_biogas_kwh_430658,spaque,2024,430658,,,outturn,src_spaque_ra_2024_residual,strong,Biogas 430658 kWh 2024; tick723
+bud_spaque_pv_units_service_3,spaque,2024,3,,,outturn,src_spaque_ra_2024_residual,strong,3 centrales PV en service + 2 en projet + 3 unites on post-gestion landfills; tick723
+bud_spaque_maintenance_sites_49,spaque,2024,49,,,outturn,src_spaque_ra_2024_residual,strong,49 sites en maintenance 2024 (34 owned SPAQuE + 5 for tiers); tick723
+bud_spaque_owned_maint_sites_34,spaque,2024,34,,,outturn,src_spaque_ra_2024_residual,strong,34 sites propriete SPAQuE en maintenance; tick723
+bud_spaque_bdes_parcels_ha_14032,spaque,2024,14032,,,outturn,src_spaque_ra_2024_residual,strong,14032 ha parcels versed in BDES inventory 2024; tick723
+bud_spaque_vtr_pollutants_10,spaque,2024,10,,,outturn,src_spaque_ra_2024_residual,strong,10 non-normed pollutants with VTR/limit values determined 2024; tick723
+bud_spaque_stake_recyhoc_pct,spaque,2024,25.1,,,outturn,src_spaque_ra_2024_residual,strong,RECYHOC stake 25.1pct delegated mission RW; tick723
+bud_spaque_stake_recylieges_pct,spaque,2024,25.1,,,outturn,src_spaque_ra_2024_residual,strong,RECYLIEGE stake 25.1pct; tick723
+bud_spaque_stake_recymex_pct,spaque,2024,25.1,,,outturn,src_spaque_ra_2024_residual,strong,RECYMEX stake 25.1pct; tick723
+bud_spaque_stake_valorem_pct,spaque,2024,25.1,,,outturn,src_spaque_ra_2024_residual,strong,VALOREM stake 25.1pct; tick723
+bud_spaque_stake_recydel_pct,spaque,2024,12.55,,,outturn,src_spaque_ra_2024_residual,strong,RECYDEL stake 12.55pct; tick723
+bud_spaque_stake_recynam_pct,spaque,2024,46.65,,,outturn,src_spaque_ra_2024_residual,strong,RECYNAM stake 46.65pct; tick723
+bud_spaque_stake_tradecowall_pct,spaque,2024,25.2,,,outturn,src_spaque_ra_2024_residual,strong,TRADECOWALL cooperative stake 25.2pct; tick723
+bud_spaque_president_remun_26772,spaque,2024,26772,,,outturn,src_spaque_ra_2024_residual,strong,CA President remun brute 26772 EUR 2024 (8 sittings); tick723
+bud_spaque_vp_remun_13683,spaque,2024,13683,,,outturn,src_spaque_ra_2024_residual,strong,CA Vice-President remun 13683 EUR 2024; tick723
+bud_spaque_net_loss_27763807,spaque,2024,-27763807.47,,,outturn,src_spaque_ra_2024_residual,strong,Net loss 27.764m 2024 RW-covered via capital incr Marshall; tick723
+bud_spaque_loss_report_59054546,spaque,2024,-59054545.79,,,outturn,src_spaque_ra_2024_residual,strong,Perte reportee 59.055m after 2024 result Marshall annuities; tick723
+bud_dual_spaque_ovam_ops_2024,gg_belgium,2024,63810,,,outturn,src_dual_spaque_ovam_tick723,strong,Dual SPAQuE 63810t treated vs OVAM residual; not TE-additive; tick723
