@@ -8782,3 +8782,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity vwf; budgets (+55); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_vwf_av2025_residual_l5**; raw AV+JR PDFs+extracts+write; rq_729=done; spawn **rq_730**; loop_state ticks=738
 - FOI opened: gap_vwf_av2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_730; progress@740 in 2; rq_116 deferred
+
+### 2026-08-02T06:45:00Z — tick 739
+- Unit: **rq_730** (FOI-adjacent residual dual — **FLRBC Rapport annuel 2025 + CG entité financière residual dual VWF/SWCS/SLRB**)
+- Found (primary FLRBC RA2025 + Compte général entité financière 2025):
+  - Production: hyp **769** (acq **597** avg **220k** @ **3.39%**); ECORENO **678**; invest power engaged **€143.2m** of 184.1 planned
+  - Cash: total dep **€385m** — new credits **149.5** · debt repay **116.8** · interest **41.8** · housing invest **52.1**; treasury gap **-56m**
+  - Funding: loans raised only **€130m** (was 260) → **credit freeze 1 Jul–31 Dec 2025** (caretaker / lenders)
+  - Encours: **€1.607bn** / **16 015** loans; hyp B2 **€1.595bn** / 15 073; arrears **€2.193m** (0.14% SRD); CCP default **2.52%** vs BE **0.60%**
+  - GL: **1 254** helps; stock credits **€1.135m** arrears **22%**; BRU-GAL stock **€2.333m**
+  - BS: RA **€2.128bn** equity **303** LT debt **1.603** result **4**; CG fin-only **€1.780bn** equity **169** (art47 carveout gap)
+  - 2026: guarantee plafond **200m** + safety-net loan **50m**
+  - Dual VWF 9.70 / SWCS 1.75 / SLRB 1.67 / SWL 2.74 not TE-additive
+- Wrote: entity flrbc; budgets (+60); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_flrbc_ra2025_residual_l5**; raw RA+CG PDFs+extracts+write; rq_730=done; spawn **rq_731** progress@740; loop_state ticks=739
+- FOI opened: gap_flrbc_ra2025_residual_l5 — ready prio8 (not sent)
+- Next: **rq_731** mandatory progress@740; rq_116 deferred

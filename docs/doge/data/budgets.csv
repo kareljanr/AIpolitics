@@ -14961,3 +14961,65 @@ bud_vwf_receivables_lt_9_217bn_2025,vwf,2025,9217286757,,,outturn,src_vwf_jr2025
 bud_dual_vwf_prod_1_632bn_vs_swcs_2025,gg_belgium,2025,1632223520.98,,,outturn,src_dual_vwf_swcs_flw_tick738,strong,VWF prod 1.632bn dual SWCS 0.483bn / FLW invest 0.273; not TE-additive; tick738
 bud_dual_vwf_portfolio_9_698bn_vs_swcs,gg_belgium,2025,9698265413.95,,,outturn,src_dual_vwf_swcs_flw_tick738,strong,VWF portfolio 9.698bn dual SWCS encours 1.749bn / SWL debt 2.742 / VMSW 3.12; tick738
 bud_dual_vwf_hw_npl_9pct_vs_swcs_31pct,gg_belgium,2025,12299980.31,,,outturn,src_dual_vwf_swcs_flw_tick738,strong,VWF HW arrears 8.96pct dual SWCS garantie locative contentieux 31pct; tick738
+bud_flrbc_hyp_ops_n_769_2025,flrbc,2025,769,,,outturn,src_flrbc_ra2025_residual,strong,Hyp operations signed COUNT 769 2025 (was 810); tick739
+bud_flrbc_acq_ops_n_597_2025,flrbc,2025,597,,,outturn,src_flrbc_ra2025_residual,strong,Acquisition ops COUNT 597 avg 220311 @3.39pct 2025; tick739
+bud_flrbc_acq_avg_220311_2025,flrbc,2025,220311,,,outturn,src_flrbc_ra2025_residual,strong,Acquisition avg amount 220311 EUR 2025; tick739
+bud_flrbc_acq_rate_3_39pct_2025,flrbc,2025,339,,,outturn,src_flrbc_ra2025_residual,strong,Acquisition average debtor rate 3.39pct 2025; tick739
+bud_flrbc_acq_amount_class_131_5m_2025,flrbc,2025,131525667,,,outturn,src_flrbc_ra2025_residual,medium,Acquisition amount class 597*220311=131.5m not primary sum; tick739
+bud_flrbc_ecoreno_n_678_2025,flrbc,2025,678,,,outturn,src_flrbc_ra2025_residual,strong,ECORENO total COUNT 678 (496 hyp + 182 conso) 2025; tick739
+bud_flrbc_ecoreno_hyp_n_496_2025,flrbc,2025,496,,,outturn,src_flrbc_ra2025_residual,strong,ECORENO hyp COUNT 496 2025; tick739
+bud_flrbc_ecoreno_conso_n_182_2025,flrbc,2025,182,,,outturn,src_flrbc_ra2025_residual,strong,ECORENO consumer COUNT 182 amount 2.7m avg 15123 2025; tick739
+bud_flrbc_ecoreno_conso_amount_2_7m_2025,flrbc,2025,2700000,,,outturn,src_flrbc_ra2025_residual,strong,ECORENO consumer amount 2.7m 2025 (was 4.6m); tick739
+bud_flrbc_ecoreno_hyp_solo_n_120_5_4m_2025,flrbc,2025,5400000,,,outturn,src_flrbc_ra2025_residual,strong,ECORENO hyp not with acq 120 ops 5.4m avg 45125 @1.57pct 2025; tick739
+bud_flrbc_social_scale_82pct_2025,flrbc,2025,82,,,outturn,src_flrbc_ra2025_residual,strong,Borrower households on social housing income scales 82pct 2025; tick739
+bud_flrbc_invest_power_engaged_143_2m_2025,flrbc,2025,143182059,,,outturn,src_flrbc_ra2025_residual,strong,Investment power engaged B2 credits 143.182m of 184.092 planned 2025; tick739
+bud_flrbc_invest_power_planned_184_1m_2025,flrbc,2025,184092400,,,budgeted,src_flrbc_ra2025_residual,strong,Investment power initially planned B2 184.092m 2025; tick739
+bud_flrbc_new_credits_spend_149_5m_2025,flrbc,2025,149500000,,,outturn,src_flrbc_ra2025_residual,strong,Cash spend new credit origination 149.5m of 385m total dep 2025; tick739
+bud_flrbc_total_dep_385m_2025,flrbc,2025,385000000,,,outturn,src_flrbc_ra2025_residual,strong,Total cash expenditures 385m 2025; tick739
+bud_flrbc_debt_repay_116_8m_2025,flrbc,2025,116800000,,,outturn,src_flrbc_ra2025_residual,strong,Debt capital repayment 116.8m 2025; tick739
+bud_flrbc_interest_comm_41_8m_2025,flrbc,2025,41800000,,,outturn,src_flrbc_ra2025_residual,strong,Interest and guarantee commissions 41.8m 2025; tick739
+bud_flrbc_housing_invest_52_1m_2025,flrbc,2025,52100000,,,outturn,src_flrbc_ra2025_residual,strong,Investment and construction of dwellings cash 52.1m 2025; tick739
+bud_flrbc_goods_services_24_3m_2025,flrbc,2025,24300000,,,outturn,src_flrbc_ra2025_residual,strong,Goods and services current spend 24.3m 2025; tick739
+bud_flrbc_treasury_gap_minus_56m_2025,flrbc,2025,-56000000,,,outturn,src_flrbc_ra2025_residual,strong,Recettes-depenses gap -56m drawn from treasury eoy2025; tick739
+bud_flrbc_loans_raised_130m_2025,flrbc,2025,130000000,,,outturn,src_flrbc_ra2025_residual,strong,Borrowings raised 130m 2025 (was 260m 2024) funding freeze residual; tick739
+bud_flrbc_region_dots_15_8m_2025,flrbc,2025,15800000,,,outturn,src_flrbc_ra2025_residual,strong,Regional dots liquidated 15.8m (invest credits 11.1 + function 4.7) 2025; tick739
+bud_flrbc_dot_invest_credits_11_1m_2025,flrbc,2025,11100000,,,outturn,src_flrbc_ra2025_residual,strong,Investment dot for credits 11.1m liquidated 2025; tick739
+bud_flrbc_dot_function_4_7m_2025,flrbc,2025,4700000,,,outturn,src_flrbc_ra2025_residual,strong,Functioning dots 4.7m liquidated 2025; tick739
+bud_flrbc_encours_immo_1_607bn_2025,flrbc,2025,1607000000,,,outturn,src_flrbc_ra2025_residual,strong,Real-estate credit encours 1.607bn / 16015 loans eoy2025; tick739
+bud_flrbc_encours_n_16015_2025,flrbc,2025,16015,,,outturn,src_flrbc_ra2025_residual,strong,Real-estate credits COUNT 16015 eoy2025; tick739
+bud_flrbc_hyp_b2_1_595bn_2025,flrbc,2025,1595143660,,,outturn,src_flrbc_ra2025_residual,strong,B2 hyp stock 1.595bn / 15073 loans excl impayes eoy2025; tick739
+bud_flrbc_hyp_b2_n_15073_2025,flrbc,2025,15073,,,outturn,src_flrbc_ra2025_residual,strong,B2 hyp COUNT 15073 eoy2025 (+4pct); tick739
+bud_flrbc_ecoreno_conso_stock_11_785m_2025,flrbc,2025,11785056,,,outturn,src_flrbc_ra2025_residual,strong,ECORENO consumer stock 11.785m / 942 loans eoy2025; tick739
+bud_flrbc_arrears_2_193m_2025,flrbc,2025,2192708,,,outturn,src_flrbc_ra2025_residual,strong,Credit arrears total 2.193m / 840 clients (0.14pct of SRD) eoy2025; tick739
+bud_flrbc_arrears_gt3m_1_981m_2025,flrbc,2025,1980906,,,outturn,src_flrbc_ra2025_residual,strong,Arrears >3 months 1.981m / 444 clients eoy2025; tick739
+bud_flrbc_ccp_default_2_52pct_2025,flrbc,2025,252,,,outturn,src_flrbc_ra2025_residual,strong,CCP registered default contracts 2.52pct (403 of 16018) vs national 0.60pct; tick739
+bud_flrbc_loss_0_290m_2025,flrbc,2025,289629.52,,,outturn,src_flrbc_ra2025_residual,strong,Exceptional credit losses 18 contracts 0.290m 2025; tick739
+bud_flrbc_early_repay_39_15m_2025,flrbc,2025,39150000,,,outturn,src_flrbc_ra2025_residual,strong,Early full repayments 39.15m (353 credits) 2025; tick739
+bud_flrbc_gl_helps_n_1254_2025,flrbc,2025,1254,,,outturn,src_flrbc_ra2025_residual,strong,Rental deposit helps 1254 (746 credits + 508 BRU-GAL) 2025; tick739
+bud_flrbc_gl_credit_liquid_1_164m_2025,flrbc,2025,1164177,,,outturn,src_flrbc_ra2025_residual,strong,GL installment credits liquidated 1.164m / 746 2025; tick739
+bud_flrbc_gl_stock_1_135m_2025,flrbc,2025,1134747,,,outturn,src_flrbc_ra2025_residual,strong,GL credit stock 1.135m / 1290 eoy2025; tick739
+bud_flrbc_gl_arrears_0_252m_22pct_2025,flrbc,2025,252230,,,outturn,src_flrbc_ra2025_residual,strong,GL credit arrears 0.252m ratio 22pct of stock (378 of 1290 clients 29pct); tick739
+bud_flrbc_brug_al_stock_2_333m_2025,flrbc,2025,2332926,,,outturn,src_flrbc_ra2025_residual,strong,BRU-GAL fund stock 2.333m / 2369 affiliations eoy2025; tick739
+bud_flrbc_brug_al_advances_0_771m_2025,flrbc,2025,771070,,,outturn,src_flrbc_ra2025_residual,strong,BRU-GAL advances paid 0.771m / 508 affiliations 2025; tick739
+bud_flrbc_gl_writeoff_0_037m_2025,flrbc,2025,36859.5,,,outturn,src_flrbc_ra2025_residual,strong,GL exceptional losses 41 contracts 0.037m 2025; tick739
+bud_flrbc_patrimoine_1602_2025,flrbc,2025,1602,,,outturn,src_flrbc_ra2025_residual,strong,Rental patrimoine dwellings COUNT 1602 eoy2025; tick739
+bud_flrbc_tenants_1546_2025,flrbc,2025,1546,,,outturn,src_flrbc_ra2025_residual,strong,Tenant households 1546 eoy2025; tick739
+bud_flrbc_sales_90_2025,flrbc,2025,90,,,outturn,src_flrbc_ra2025_residual,strong,Dwellings sold rights-recognized COUNT 90 2025; tick739
+bud_flrbc_acquisitive_delivered_319_2025,flrbc,2025,319,,,outturn,src_flrbc_ra2025_residual,strong,Acquisitive dwellings delivered 319 2025; tick739
+bud_flrbc_in_production_262_2025,flrbc,2025,262,,,outturn,src_flrbc_ra2025_residual,strong,Dwellings in production on acquired sites 262 eoy2025 (was 596); tick739
+bud_flrbc_staff_164_2025,flrbc,2025,164,,,outturn,src_flrbc_ra2025_residual,strong,Staff COUNT 164 eoy2025; tick739
+bud_flrbc_bs_total_2_128bn_2025,flrbc,2025,2128000000,,,outturn,src_flrbc_ra2025_residual,strong,RA key total balance sheet 2.128bn eoy2025 (full entity class); tick739
+bud_flrbc_equity_303m_2025,flrbc,2025,303000000,,,outturn,src_flrbc_ra2025_residual,strong,RA key equity 303m eoy2025; tick739
+bud_flrbc_lt_debt_1_603bn_2025,flrbc,2025,1603000000,,,outturn,src_flrbc_ra2025_residual,strong,RA key LT debt >1y 1.603bn eoy2025; tick739
+bud_flrbc_result_4m_2025,flrbc,2025,4000000,,,outturn,src_flrbc_ra2025_residual,strong,RA key result 4m 2025 (was 10m); tick739
+bud_flrbc_guarantee_plafond_200m_2026,flrbc,2026,200000000,,,budgeted,src_flrbc_ra2025_residual,strong,Region guarantee plafond max 200m nominal new loans 2026 project ordinance; tick739
+bud_flrbc_safety_net_loan_50m_2026,flrbc,2026,50000000,,,budgeted,src_flrbc_ra2025_residual,strong,Region direct loan safety-net budget 50m 2026 art37; tick739
+bud_flrbc_fin_assets_1_780bn_2025,flrbc,2025,1779894093,,,outturn,src_flrbc_cg2025_fin,strong,CG financial entity total assets 1.780bn eoy2025 (art47 S.1312 carveout); tick739
+bud_flrbc_fin_equity_169_4m_2025,flrbc,2025,169447897,,,outturn,src_flrbc_cg2025_fin,strong,CG financial entity equity 169.4m eoy2025; tick739
+bud_flrbc_fin_debts_1_603bn_2025,flrbc,2025,1603198394,,,outturn,src_flrbc_cg2025_fin,strong,CG financial entity debts 1.603bn eoy2025; tick739
+bud_flrbc_fin_hyp_lt_1_535bn_2025,flrbc,2025,1534708371,,,outturn,src_flrbc_cg2025_fin,strong,CG LT mortgage loans to third parties 1.535bn eoy2025; tick739
+bud_flrbc_fin_result_1_95m_2025,flrbc,2025,1949571,,,outturn,src_flrbc_cg2025_fin,strong,CG financial entity result (net asset increase) 1.95m 2025; tick739
+bud_flrbc_offbal_securities_3_397bn_2025,flrbc,2025,3397087251,,,outturn,src_flrbc_cg2025_fin,strong,Off-balance securities by third parties guaranteeing FLRBC debts 3.397bn eoy2025; tick739
+bud_dual_flrbc_encours_1_607bn_vs_vwf_swcs,gg_belgium,2025,1607000000,,,outturn,src_dual_flrbc_vwf_swcs_slrb_tick739,strong,FLRBC encours 1.607bn dual VWF 9.698 / SWCS 1.749 / SWL debt 2.742 / SLRB 1.672; tick739
+bud_dual_flrbc_gl_npl_22pct_vs_vwf_swcs,gg_belgium,2025,252230,,,outturn,src_dual_flrbc_vwf_swcs_slrb_tick739,strong,FLRBC GL arrears 22pct dual VWF HW 9pct / SWCS garantie 31pct; tick739
+bud_dual_flrbc_funding_freeze_2025,gg_belgium,2025,130000000,,,outturn,src_dual_flrbc_vwf_swcs_slrb_tick739,strong,FLRBC loans raised only 130m (was 260) + credit freeze Jul-Dec dual caretaker funding risk; tick739

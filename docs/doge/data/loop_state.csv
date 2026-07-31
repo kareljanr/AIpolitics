@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T06:15:00Z,rq_729,738,no,tick738 VWF AV2025 residual dual SWCS/FLW; next rq_730; progress@740 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T06:45:00Z,rq_730,739,no,tick739 FLRBC RA2025 residual dual VWF/SWCS/SLRB; next rq_731 progress@740; rq_116 deferred
