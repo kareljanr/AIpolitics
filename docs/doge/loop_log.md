@@ -7249,3 +7249,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+flanders_make); budgets (+28); commitments (+2); leaderboard (+6); sources (+2); raw JPEGs; FOI draft gap_fm_vl_convenant_l5_2025; rq_587=done; spawn rq_588; loop_state ticks=596
 - FOI opened: gap_fm_vl_convenant_l5_2025 → ready (not sent)
 - Next: rq_588; progress@600 in 4 ticks; rq_116 deferred
+
+### 2026-07-31T15:00:00Z — tick 597
+- Unit: rq_588 (FOI-adjacent dual agri research hole-fill — **ILVO** VO/EV)
+- Found: **ILVO** AR2024 (primary PDF) + **Rekenhof** Onderzoek VL begroting 2025 p52. Dual **IVA ILVO-VO**: inkomsten **€2.6m** · uitgaven **€24.9m** VAK/VEK. **EV ILVO**: ESR in **€34.4m** · ESR out **€50.3m**. Staff Dec2024 **756** / FTE **710.7** (VO 206/191.6 · EV 550/519.1). Base endowment **29%** of op funds · project **71%**; mix ALZ 29+9 · VLAIO 4 · VL domains 6 · federal 12 · EU 14 · other 25. EV/VO ~2/3–1/3. Absolute total werkingsmiddelen not published → FOI. Dual CRA-W WAL class residual. Strong on CoA € + AR structure.
+- Wrote: entities (+ilvo +ilvo_vo +ilvo_ev); budgets (+20); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_ilvo_total_op_funds_l5_2024; rq_588=done; spawn rq_589; loop_state ticks=597
+- FOI opened: gap_ilvo_total_op_funds_l5_2024 → ready (not sent)
+- Next: rq_589; progress@600 in 3 ticks; rq_116 deferred

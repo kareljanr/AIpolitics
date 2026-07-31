@@ -11067,3 +11067,23 @@ bud_fm_creditors_lt_2025,flanders_make,2025,16459000,,,outturn,src_flanders_make
 bud_fm_creditors_st_2025,flanders_make,2025,105621000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make creditors within 1 year 105.621m 2025; tick596
 bud_fm_reg_liab_2025,flanders_make,2025,86568000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make liabilities regularisation accounts 86.568m 2025; tick596
 bud_fm_ecosystem_rev_2025,flanders_make,2025,134000000,,,outturn,src_flanders_make_ar_2025,medium,Flanders Make ecosystem revenue 134m 2025 (AR numbers graphic; not statutory perimeter); tick596
+bud_ilvo_iva_exp_2025,ilvo_vo,2025,24900000,,,outturn,src_ccrek_vl_budget_2025_ilvo,strong,ILVO IVA uitgaven 24.9m VAK/VEK BO2025 CoA; tick597
+bud_ilvo_iva_rev_2025,ilvo_vo,2025,2600000,,,outturn,src_ccrek_vl_budget_2025_ilvo,strong,ILVO IVA inkomsten 2.6m BO2025 CoA; tick597
+bud_ilvo_ev_esr_in_2025,ilvo_ev,2025,34400000,,,outturn,src_ccrek_vl_budget_2025_ilvo,strong,ILVO EV ESR inkomsten 34.4m BO2025 CoA; tick597
+bud_ilvo_ev_esr_out_2025,ilvo_ev,2025,50300000,,,outturn,src_ccrek_vl_budget_2025_ilvo,strong,ILVO EV ESR uitgaven 50.3m BO2025 CoA; tick597
+bud_ilvo_iva_exp_class_2025,ilvo,2025,24900000,,,outturn,src_ccrek_vl_budget_2025_ilvo,strong,ILVO combined label IVA exp arm 24.9m 2025 CoA; tick597
+bud_ilvo_ev_out_class_2025,ilvo,2025,50300000,,,outturn,src_ccrek_vl_budget_2025_ilvo,strong,ILVO combined label EV ESR out arm 50.3m 2025 CoA; tick597
+bud_ilvo_staff_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO staff headcount 756 Dec2024 (not EUR); tick597
+bud_ilvo_fte_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO FTE 710.7 Dec2024 VO 191.6 EV 519.1 (not EUR); tick597
+bud_ilvo_vo_fte_2024,ilvo_vo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO-VO FTE 191.6 staff 206 Dec2024 (not EUR); tick597
+bud_ilvo_ev_fte_2024,ilvo_ev,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO-EV FTE 519.1 staff 550 Dec2024 (not EUR); tick597
+bud_ilvo_base_endow_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO base endowment 29pct of total operating funds 2024 (share not EUR); tick597
+bud_ilvo_project_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO project-based financing 71pct of operating funds 2024 (share not EUR); tick597
+bud_ilvo_alz_basic_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO ALZ basic funding 29pct 2024 mix; tick597
+bud_ilvo_alz_endow_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO ALZ endowment 9pct 2024 mix; tick597
+bud_ilvo_vlaio_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO VLAIO 4pct 2024 mix; tick597
+bud_ilvo_federal_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO federal governments 12pct 2024 mix; tick597
+bud_ilvo_eu_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO EU 14pct 2024 mix; tick597
+bud_ilvo_other_private_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO other private Business Unit 25pct 2024 mix; tick597
+bud_ilvo_vl_domains_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO Flemish policy areas 6pct 2024 mix; tick597
+bud_ilvo_ev_vo_ratio_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO EV/VO balance about 2/3-1/3 2024 AR text; tick597

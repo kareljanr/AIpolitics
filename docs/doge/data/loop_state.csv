@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T14:45:00Z,rq_587,596,no,tick596 Flanders Make rev 37.3m convenant 21m dual imec VIB VITO SOC; next rq_588; progress@600 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T15:00:00Z,rq_588,597,no,tick597 ILVO dual VO/EV CoA 24.9m/50.3m staff 756; next rq_589; progress@600 in 3; rq_116 deferred
