@@ -1,0 +1,1550 @@
+
+---PAGE 1---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+1
+SPW
+Mobilité 
+Infrastructures
+Rapport annuel
+---PAGE 2---
+Éditeur responsable
+Pol Flamend, Directeur général
+8, Boulevard du Nord 5000 Namur
+2952-8917 (N)
+Juin 2026
+Photos
+© SPW - Antoine Poulin • © SPW Mobilité et Infrastructures • © AdobeStock
+www.wallonie.be • mobilite.wallonie.be • infrastructures.wallonie.be
+---PAGE 3---
+Avant-propos
+Chères lectrices, chers lecteurs,
+L’année 2025 a marqué pour moi une étape importante avec la prise de fonction à la tête 
+du Service public de Wallonie Mobilité et Infrastructures (SPW MI), une administration 
+essentielle au quotidien des Wallonnes et des Wallons. Forte de plus de 4 300 agents, notre 
+organisation agit chaque jour au service de l’intérêt général, avec un objectif clair : soutenir 
+le développement et l’attractivité de la Wallonie par des infrastructures performantes et 
+une mobilité accessible, sûre et durable.
+Qu’il s’agisse de routes, de voies hydrauliques, de transports publics, d’aéroports, de 
+mobilité active ou de gestion intelligente des réseaux, l’engagement envers les citoyens 
+constitue le fil conducteur de l’ensemble de nos actions. Cet engagement prend corps 
+sur le terrain, à travers des projets concrets, souvent complexes, menés par des équipes 
+compétentes, investies et profondément attachées à la qualité du service public.
+Dans un contexte marqué par des contraintes budgétaires, des évolutions technologiques 
+rapides, des attentes sociétales accrues et des enjeux majeurs en matière de sécurité, de 
+résilience et de transition, le SPW Mobilité et Infrastructures a poursuivi en 2025 son action 
+avec détermination. L’innovation, la collaboration avec nos nombreux partenaires et la 
+recherche constante d’efficience ont permis de continuer à moderniser nos infrastructures 
+tout en garantissant la continuité des services essentiels.
+L’année 2025 a également été marquée par une cyberattaque majeure ayant touché les 
+systèmes du Service public de Wallonie. Cet épisode, particulièrement exigeant, a mis 
+à l’épreuve notre organisation et rappelé la vulnérabilité croissante des infrastructures 
+numériques, en particulier dans un environnement industriel et opérationnel. Grâce à 
+la mobilisation rapide et exemplaire des équipes, au professionnalisme des agents 
+concernés et à une coordination étroite entre les services, le SPW Mobilité et Infrastructures 
+a pu limiter les impacts, assurer la continuité des missions essentielles et rétablir 
+progressivement une situation normale. Cette crise a été riche d’enseignements : elle a 
+renforcé notre détermination à élever durablement notre niveau de maturité en matière 
+de cybersécurité, à mieux protéger nos systèmes critiques et à intégrer ces enjeux au 
+cœur de notre stratégie de résilience.
+Ce rapport d’activités est l’occasion de mettre en lumière le travail remarquable accompli 
+par les femmes et les hommes du SPW MI, ainsi que les projets structurants qui façonnent 
+progressivement une Wallonie plus accessible, plus sûre et plus performante. À travers 
+5 thématiques, je vous invite à découvrir des projets qui ancrent notre région dans son 
+époque, en combinant modernité, nouvelles technologies, sécurité et collaboration.
+Vous y découvrirez plusieurs projets emblématiques qui auront, j’en suis convaincu, un 
+impact concret et durable sur la mobilité des Wallonnes et des Wallons, ainsi que sur la 
+qualité des services publics rendus. Ils illustrent la capacité de notre Administration à se 
+transformer, à innover et à agir avec responsabilité, même dans un environnement exigeant.
+Je vous souhaite une excellente lecture et vous remercie de l’intérêt que vous portez aux 
+missions du Service public de Wallonie Mobilité et Infrastructures.
+Pol Flamend
+Directeur général SPW Mobilité et Infrastructures
+---PAGE 4---
+Sommaire
+Innovations et nouvelles technologies 6
+Pecq : construction des infrastructures pour la première station-pilote  
+d’avitaillement en multicarburants verts  6
+La navigation déportée, une première en Wallonie 7
+Acquisition d’un nouveau scanner 3D : un outil au service de l’efficacité  
+des missions d’expertise  8
+Sonar et lidar téléguidés pour scanner nos cours d’eau  10
+Fiche de pré-analyse chantiers relative à l’impact sur la mobilité  11
+Suivi de la géolocalisation des chantiers mobiles  12
+Journée de rencontre pour les utilisateurs du point d'accès national  
+pour les données de mobilité (NAP users' day)  13
+L’usager au coeur de nos actions 14
+Un impact positif confirmé pour la prime vélo cargo  14
+Un déploiement de services modernisés pour la batellerie  
+sur le réseau Seine-Escaut  15
+Bilan  de la semaine de la Mobilité 2025 16
+La communication du SPW Mobilité & Infrastructures en 2025 17
+Plan wallon d’aides aux modes de transport alternatifs    18
+Un Liveblog pour suivre la situation à l’écluse d’Andenne  19
+Une information fluviale claire comme l’eau de roche  19
+L'éducation continue à la mobilité et à la sécurité routière  20
+Les chiffres du Service aux usagers (SAU)  21
+Sécurité des personnes et des biens 22
+2025 : Résilience opérationnelle et transformation de la cybersécurité   22
+Statistiques liées aux tableaux de bord sur l’état des ponts du SPW   24
+Calibration et test des vannes de restitution au barrage de l’Eau D’Heure  25
+Les radars, leviers essentiels dans le contrôle de la sécurité routière  
+pour atteindre l’objectif “Vision ZÉRO”  26
+---PAGE 5---
+Modernisation des infrastructures et de leur exploitation 28
+Obourg : le chantier de la nouvelle écluse 28
+Tourisme fluvial : modernisation des infrastructures nautiques de plaisance  
+en Wallonie  29
+Rénovation énergétique : un patrimoine public modernisé et durable 30
+Modernisation des équipements de la direction de la Géotechnique  
+avec l’arrivée du nouveau pénétromètre sur chenilles  31
+Entretien du plan incliné de Ronquières 31
+Nouvelles spécifications Qualiroutes pour le traitement des sols  32
+Du nouveau sur Le RAVeL 33
+Canal Nimy-Blaton  34
+Des études de navigation pour optimiser l’exploitation du réseau hydraulique  34
+Liaison E25/E40 : modulation de la vitesse pour assurer la fluidité  
+et la sécurité 36
+Les tunnels en 2025 37
+Mise à jour du processus GPS1  38
+MIRE, un nouvel élan pour le pilotage des investissements sur le  
+réseau des voies hydrauliques  38
+Aménagements cyclo‑piétons sur la N947 entre Jambes et Dave  39
+E411/A4 – Chantier Daussoulx ‑ Thorembais‑Saint‑Trond  40
+Ravel des Sources – Phase 1 de  Spa à Marteau Réalisation  
+d’un axe structurant cyclable  41
+Lancement des travaux du pont Capitte 42
+Appel à projets « rénovation énergétique des infrastructures sportives »  43
+une administration partenaire 44
+Carburants alternatifs et décarbonation : quelles perspectives pour le transport  
+fluvial sur le réseau Seine‑Escaut ? 44
+La mobilité active en Wallonie 45
+Le rôle de la cellule de Maîtrise interne des risques en matière d’audit  46
+Déploiement de bornes de recharge électrique sur le domaine communal 47
+Un convoi très exceptionnel   47
+Les espaces subsidiés : une année charnière 48
+---PAGE 6---
+6
+Innovations et nouvelles technologies
+Pecq : construction des infrastructures pour la première 
+station-pilote d’avitaillement en multicarburants verts 
+En 2025, le SPW Mobilité et Infrastructures a franchi une étape décisive dans 
+le développement du futur pôle multimodal de Pecq, un projet phare du Plan 
+de Relance de la Wallonie. Véritable première en Europe, cette station
+pilote d’avitaillement en carburants verts sera intégrée à un nouveau terminal 
+à conteneurs et à l’extension d’un quai sur le Haut Escaut. Pensé comme un 
+démonstrateur de la décarbonation du transport fluvial et routier, le site offrira 
+une solution « one stop shop » unique pour les bateaux et les poids lourds. Les 
+offres pour la réalisation des infrastructures sont attendues pour mi‑mai 2026, 
+marquant l’entrée du projet dans sa phase opérationnelle. 
+---PAGE 7---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+7
+La navigation déportée, une première en Wallonie
+La navigation intérieure fait face à une réalité préoccupante : la pénurie de personnel, et 
+particulièrement de capitaines. Les longues périodes loin du domicile et l’équilibre difficile 
+entre vie professionnelle et vie privée freinent les vocations, menaçant à terme les ambitions 
+du SPW en matière de mobilité des marchandises par voie d’eau. 
+Pour répondre à ce défi, le secteur explore une piste innovante : la navigation déportée. Le 
+principe est simple et prometteur : depuis une cabine de pilotage située dans un centre de 
+commande à terre, les capitaines manœuvreraient les bateaux à distance (éventuellement 
+plusieurs en parallèle), avant de rentrer chez eux chaque soir. Une évolution qui pourrait 
+rendre la profession nettement plus attractive. 
+Cette solution nécessite toutefois de contourner une obligation réglementaire fondamentale : 
+la présence d’un capitaine à bord. C’est précisément pour permettre l’expérimentation 
+contrôlée de nouvelles pratiques qu’un arrêté du Gouvernement wallon de 2023 autorise 
+des projets pilotes d'une durée maximale de cinq ans (renouvelables). Ils sont encadrés par 
+un comité d’évaluation du SPW et coordonnés par la direction de la Réglementation et du 
+Contrôle des voies hydrauliques. Une première avancée pour accompagner les mutations 
+du secteur. 
+Le premier projet pilote démarrera sa phase d’évaluation in situ début 2026. Il devrait relier 
+le canal Albert à l’écluse des Grands‑Malades, à Namur, offrant une occasion unique de 
+tester la navigation déportée dans des conditions variées : reliefs perturbant les réseaux, 
+zones urbaines denses à Liège et Huy, trajectoires exigeantes sur la Meuse, cours d’eau 
+naturel. Une véritable mise à l’épreuve des technologies. 
+L’un des principaux défis sera d’identifier et de réduire les risques liés à cette nouvelle forme 
+de navigation. Les enseignements tirés de ces tests pourraient, le cas échéant, mener à de 
+nouvelles adaptations réglementaires. 
+En soutenant concrètement l’innovation technologique dans la navigation intérieure, le SPW 
+Mobilité et Infrastructures s’inscrit pleinement dans les objectifs du Schéma stratégique 
+d’investissement et de gestion 2020‑2050 pour les voies hydrauliques. Une démarche qui 
+prépare l’avenir tout en répondant à l’urgence de maintenir l’attractivité du secteur. 
+ 
+Découvrez le projet en vidéo en cliquant sur le lien ou en scannant le QR code
+
+---PAGE 8---
+8
+Acquisition d’un nouveau scanner 3D : un outil au service de l’efficacité 
+des missions d’expertise 
+La numérisation 3D constitue aujourd’hui un outil essentiel dans les missions d’expertise 
+et de suivi des ouvrages menés par la direction de l’Expertise des ouvrages. Elle permet de 
+disposer d’une représentation fidèle de leur géométrie, d’analyser des déformations et de 
+mettre en évidence les évolutions dans le temps, avec pour objectif de faciliter l’aide à la 
+décision.  
+En 2025, un marché public intégrant des critères techniques très pointus a donc permis 
+d’acquérir un nouveau scanner, ainsi que les logiciels (Leica Register + Cyclone 3D). Si 
+l’objectif n’était pas d’augmenter la précision des mesures, déjà jugée satisfaisante, il 
+était d’améliorer le post-traitement et l’analyse des données grâce à de nouveaux outils 
+d’analyse plus puissants mais également plus efficients. 
+En seulement 2’47’’ , ce sont près de 200 millions de points ayant une précision de 2,9 mm 
+à 20 m qui sont relevés. Les différents objectifs photographiques présents sur le scanner 
+3D permettent également de coloriser le nuage de points obtenu. Il est donc possible 
+de réaliser un relevé d’une travée de pont de près de 660 m 2 en moins d’une dizaine de 
+minutes. Le viaduc de Sart‑Bernard, mesurant 410 m de long (17 travées), a par exemple pu 
+être modélisé en moins d’une demi-journée. 
+Les principaux apports du nouvel équipement concernent l’organisation et le déroulement 
+des opérations sur site. La rapidité d’acquisition accrue permet de réduire significativement 
+le temps passé sur le terrain, tandis que l’installation de l’appareil est simplifiée par 
+l’absence de nécessité d’un nivellement précis. Le relevé complet du tunnel de Cointe, qui 
+compte près de 17 milliards de points, a pu être réalisé en moins de 2 nuits alors que le 
+même travail était effectué en 2 fois plus de temps avec l’ancien équipement. Par ailleurs, 
+le contrôle des opérations est amélioré grâce à l’utilisation d’une tablette. 
+Celle-ci permet de visualiser le relevé en temps réel mais également, via son Lidar intégré, 
+de compléter le relevé dans les zones difficilement accessibles. 
+Les images illustrent une partie du relevé du tunnel de Cointe 
+(au total près de 3,2 km de relevés). Le relevé prend en compte 
+la partie circulée du tunnel (partie inférieure) mais également 
+la galerie d’air vicié (partie supérieure) qui permet d’évacuer 
+les fumées en cas d’incendie.
+---PAGE 9---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+9
+Cette visualisation directe 
+offre la possibilité de vérifier 
+immédiatement la couverture 
+des zones scannées et d’anticiper 
+d’éventuels compléments de 
+relevé, limitant ainsi les retours 
+ultérieurs sur site. 
+Les outils logiciels associés 
+intègrent également des 
+fonctionnalités facilitant le 
+traitement des données. Des 
+fonctions telles que le cloud to 
+cloud (nuage à nuage) permettent 
+de simplifier l’assemblage des 
+différentes stations réalisées, 
+rendant cette étape plus rapide 
+et plus intuitive. Les gains de temps se réalisent sur site comme sur le 
+terrain. 
+Ce nouveau scanner 3D offre ainsi de larges perspectives d’utilisation 
+sur le terrain, tant par la diversité des relevés réalisables que par 
+les possibilités de traitement associées. Son acquisition s’inscrit 
+également dans une logique de transversalité au sein du SPW Mobilité 
+et Infrastructures, plusieurs directions, dont celle de la Géotechnique, 
+ayant déjà manifesté leur intérêt pour l’utilisation de cet outil dans le 
+cadre de leurs propres missions. 
+Étude d’une voûte basée sur un relevé scanner 3D, 
+consistant à comparer la géométrie mesurée de 
+l’ouvrage à un cercle de référence théorique afin 
+d’identifier et de quantifier les déformations.
+Relevé complet du Viaduc de Sart Bernard réalisé en moins d’une ½ journée.17 travées pour 410m de long
+
+---PAGE 10---
+10
+Sonar et lidar téléguidés pour scanner nos cours d’eau 
+La connaissance précise de la topo-bathymétrie du lit mineur d’un cours d’eau et de 
+la géométrie de tous les ouvrages susceptibles de perturber son régime d’écoulement 
+constitue le point de départ des modélisations hydrauliques permettant l’étude de 
+propagation des débits, l’estimation des niveaux d’eau, ainsi que l’extension des 
+zones inondées. 
+C’est à la suite de ce constat qu’en 2025, la direction de la Gestion hydrologique a mis 
+à jour ces données sur les secteurs de l’Ourthe et l’Amblève gérés par le SPW Mobilité 
+et Infrastructures. Pour ce faire, trois techniques d’acquisition ont été déployées :  
+• • Sonar sur catamaran téléguidé pour les 
+zones sous eau ; 
+• • Lidar sur drone pour les zones hors eau ; 
+• • Station topographique totale pour les 
+ouvrages.  
+Ces données vont permettre, notamment, de réaliser 
+des études de résilience aux inondations de ces 
+cours d’eau et des communes traversées.  
+142 450 m de voies hydrauliques ‑ 3 330 profils en 
+travers - 189 ouvrages (ponts, passerelles, barrages) 
+
+---PAGE 11---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+11
+Fiche de pré-analyse chantiers relative à l’impact sur la mobilité 
+La nécessité de réaliser des chantiers pour entretenir et améliorer le réseau routier 
+n’est pas contestée. Néanmoins, la gêne causée par les chantiers lors de leur exécution 
+et spécialement la perte de temps est une source d’irritation et de stress. Dès lors, une 
+initiative transversale a été lancée au sein du SPW Mobilité et Infrastructures en vue de 
+diminuer les impacts grâce à une meilleure coordination et une optimisation de la durée 
+des chantiers. 
+L’objectif est de mener une réflexion préalable, au moment de la conception du projet, 
+afin de valider le scénario d’intervention le plus adapté, qui sera intégré dans le cahier des 
+charges. L’anticipation des conséquences pour le trafic, la coordination des différentes 
+phases de travaux et la simulation des impacts en termes de files et de déviations doivent 
+permettre de prendre des décisions éclairées quant à la planification et à l’organisation des 
+chantiers. Ainsi, par exemple, des 
+mesures accélératrices pourront 
+être intégrées sous la forme 
+d’options prévues et activables 
+selon le niveau de criticité. Une 
+évaluation coût/bénéfice permettra 
+d’objectiver le choix des mesures 
+et d’assurer une mobilisation 
+proportionnée des moyens. 
+Une première étape consiste 
+en la réalisation systématique 
+d’une fiche de pré‑analyse des 
+conséquences sur le trafic pour 
+tous les chantiers à entreprendre 
+sur le réseau autoroutier, que ce 
+soit lors de l’étude d’un nouveau 
+projet, lors de l’établissement des 
+bons de commande pour l’entretien 
+programmé des revêtements ou 
+lors de la validation définitive 
+d’un phasage ou d’un calendrier 
+d’exécution d’un projet déjà adjugé. 
+Elle est d’application depuis début 
+2026.  
+Les informations relatives à la 
+mise en œuvre du chantier sont 
+encodées par le chef de projet : 
+dates de réalisation prévues, 
+plans de localisation, plans de 
+signalisation provisoire, schémas de 
+déviation ainsi que, le cas échéant, 
+les localisations des dispositifs 
+particuliers (PMV , remorques, etc.) 
+Sur base de celles-ci, la direction de 
+l’Exploitation des réseaux routiers 
+(PEREX) réalise pour chaque 
+chantier concerné, une simulation 
+de l’impact sur la mobilité ainsi 
+qu’une évaluation de criticité.  
+
+---PAGE 12---
+12
+ Suivi de la géolocalisation des chantiers mobiles 
+La sécurité des travailleurs sur les chantiers constitue un enjeu essentiel. En effet, en 
+Belgique, plus de 60 % des conducteurs reconnaissent « oublier de ralentir à proximité d’une 
+zone de travaux » 1. Chaque année, sur les autoroutes wallonnes, on recense en moyenne  
+4 décès et 175 blessés à hauteur d’un chantier.  
+Ce sont souvent les chantiers de courte durée qui surprennent les usagers. Ils concernent 
+des opérations d’entretien, telles que des réparations ponctuelles de revêtement ou 
+d’équipements ou encore le ramassage de déchets. Très souvent, ces chantiers sont aussi 
+mobiles, c’est-à-dire que la zone de travail se déplace en fonction de la progression des 
+opérations. 
+Un dispositif de signalisation spécifique prévoit la présence d’un camion absorbeur de 
+chocs en amont de la zone de travail. Ce dispositif est régulièrement percuté par des 
+conducteurs distraits ou incapables de réduire suffisamment leur vitesse : en moyenne 3 
+fois par semaine sur les autoroutes belges. 
+Le projet mis en œuvre avec la collaboration de Mobibel, la fédération des entrepreneurs 
+de voirie, consiste à équiper les absorbeurs de chocs d’une balise GPS. Grâce à cette 
+balise, des informations précises peuvent être remontées vers le Centre PEREX, telles 
+que la localisation exacte de l’équipement et son état d’activité (activation de la flèche de 
+rabattement, message affiché). Ces informations sont mises en relation avec le chantier 
+correspondant présent dans la base de données. Il est ainsi possible de vérifier que le 
+chantier s’effectue bien dans le cadre de l’autorisation accordée par le district et également 
+d’informer les usagers en temps réel de la position exacte du site de chantier. Le flux de 
+données DATEX mis à disposition des fournisseurs de service pouvant être intégré dans les 
+applications et systèmes de guidage routier. 
+1 Moyenne décennale de 2015 à 2024. Source : AWSR / Statbel (DG statistiques – Statistics Belgium).
+
+---PAGE 13---
+Journée de rencontre pour les utilisateurs du point d'accès national 
+pour les données de mobilité (NAP users' day) 
+Le 20 novembre 2025 s’est tenue la toute première journée des utilisateurs du NAP , le point 
+d'accès national pour les données de mobilité. Elle était organisée à la Tour Iris à Bruxelles 
+par les Administrations régionales et fédérales des transports et l’Institut géographique 
+national (IGN), qui est l’opérateur du NAP en Belgique. 
+Pour rappel, le point d’accès national, prévu par la directive européenne STI (2010/40/EU), 
+doit être mis en place dans chaque État membre. L’objectif est de centraliser l'accès aux 
+jeux de données et aux services de mobilité en vue de faciliter leur réutilisation par des tiers, 
+tels que les prestataires de services d'informations sur les déplacements et les fabricants 
+de cartes numériques. 
+La rencontre avec les utilisateurs visait à permettre le partage de connaissances et à 
+offrir des opportunités de réseautage. Le programme a abordé des sujets clés, tels que la 
+politique européenne sur le NAP et l'EMDS (Espace européen des données de mobilité), 
+ainsi que le rôle du NAP belge dans la collaboration nationale et internationale. Pour établir 
+un lien entre la théorie et la pratique, plusieurs exemples concrets ont été présentés, 
+démontrant comment les outils basés sur les données de mobilité peuvent réellement 
+contribuer à une mobilité plus durable, plus intelligente et plus sûre. Dans l'après-midi, 
+les participants ont rejoint des sessions thématiques ciblées. Les sessions techniques se 
+sont concentrées sur l'échange de données pour l'information trafic en temps réel et pour 
+les données multimodales. Enfin, deux sessions interactives ont porté d’une part, sur la 
+mobilisation des données multimodales sur le NAP et d’autre part, sur la vision future du 
+NAP belge. 
+Les contributions, les retours obtenus et l'énergie positive des participants permettront de 
+continuer à améliorer transportdata.be conformément aux attentes des utilisateurs. 
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025 13
+---PAGE 14---
+14
+L’usager au coeur de nos actions
+Un impact positif confirmé pour la prime vélo cargo 
+À l’automne 2025, un sondage a été réalisé auprès des bénéficiaires de la prime 
+vélo cargo afin d’en mesurer l’impact sur leurs pratiques professionnelles. 
+Les résultats montrent une adoption importante de la cyclologistique : 
+77 % des répondants utilisaient un vélo cargo pour la première fois grâce 
+à la prime. 
+Le matériel acquis sert principalement à la prestation de services (56 %), 
+suivi du transport de marchandises pour compte propre (35 %). Les usages 
+se répartissent dans des cadres variés : 45 % en milieu rural, 27 % en milieu 
+urbain, 27 % en semi‑urbain, confirmant l’intérêt de la cyclologistique sur 
+l’ensemble du territoire. 
+Que vous a apporté le fait de bénéficier d’une prime à l’achat ?
+Si 40 % utilisent désormais exclusivement le vélo cargo pour leurs 
+déplacements professionnels, tous les répondants se déclarent satisfaits à 
+100 % de son utilisation. 
+ 
+L’élan pour passer au vélo cargo 38%
+Autre7%
+ L’envie de tester le vélo cargo8%
+Se doter de plus de matériel11%
+Se permettre du matériel
+de meilleure qualité 35%
+
+---PAGE 15---
+L’usager au coeur de nos actions | Rapport activités SPW Mobilité et Infrastructures 2025 15
+Un déploiement de services modernisés pour la 
+batellerie sur le réseau Seine-Escaut 
+Sur le réseau Seine-Escaut, la qualité de la navigation ne se 
+limite plus à la performance des ouvrages ou à la fluidité du 
+trafic : elle repose désormais sur un ensemble de services 
+essentiels destinés à améliorer les conditions de vie, l’efficacité 
+opérationnelle et l’impact environnemental du transport fluvial. 
+Le Schéma stratégique d’investissement et de gestion 2020–
+2050 place ainsi la structuration de ces services au cœur des 
+priorités publiques. 
+Ce cadre fixe des exigences claires : multiplier les postes 
+d’amarrage publics, garantir leur accessibilité, standardiser les 
+points d’alimentation électrique à quai et assurer la présence 
+régulière d’eau potable et de carburants, y compris alternatifs. 
+Ces services doivent être disponibles à des distances 
+compatibles avec les réalités de navigation : quatre heures pour 
+l’eau, une journée pour les carburants. L’enjeu est de taille : 
+confort à bord, réduction des émissions, compétitivité accrue. 
+Pour concrétiser ces ambitions, une étude majeure, cofinancée 
+par le Mécanisme pour l’Interconnexion en Europe dans 
+le cadre du programme Seine-Escaut 2.2, a été lancée en 
+octobre 2025. D’un montant de 506 843,80 € HTVA, elle s’étend 
+sur deux ans et mobilise une approche à la fois technique, 
+économique et territoriale. Benchmarking  européen, analyse 
+socio‑économique, identification des zones de services, 
+sélection d’emplacements pour bornes de recharge, conception 
+des futurs marchés concessifs : l’étude couvre l’ensemble du 
+cycle de mise en œuvre. 
+Son originalité tient notamment à sa dimension expérimentale. 
+Quatre bornes-test seront installées dans les ports autonomes 
+afin d’évaluer les usages et les modèles d’exploitation. Une 
+armoire-test permettra par ailleurs de valider les prescriptions 
+techniques en conditions réelles. L’harmonisation avec De 
+Vlaamse Waterweg nv, via un accord- cadre pour des boîtiers 
+standardisés, garantit une interopérabilité et une maintenance 
+simplifiée à l’échelle transfrontalière. 
+L’étude anticipe aussi les mutations à venir du secteur : 
+électrification progressive des unités, autonomie des zones de 
+services par rapport aux écluses pour éviter toute perturbation 
+du sassement, et même réflexion sur des services mobiles ou 
+des bateaux avitailleurs. L’objectif à long terme est la mise en 
+place de concessions pérennes assurant stabilité économique 
+et continuité de service. 
+En structurant un véritable réseau d’infrastructures de 
+services, Seine-Escaut renforce son attractivité, soutient la 
+professionnalisation de la filière et se positionne comme un 
+acteur clé de la transition énergétique du transport fluvial. Cette 
+étude ne constitue pas seulement un diagnostic : elle prépare 
+un modèle durable pour les décennies à venir. 
+
+---PAGE 16---
+16
+Quelques 
+chiffres
+Entités
+Pa r ra pport
+à  20 24
+Institutions
+publiques
+128
++15 %
+Écoles
+4 7
++194 %
+Entreprises
+10 8
++170 %
+Représenta nts
+des tra v a illeurs
+19
++36 %
+2 0 2 5
+  
+ 
+W ebina ire : 28 7 p a rticip a nts et 26 5  rep la y
+Quiz Mob ilité & Sa nté : 20 q uestions, réa lisé
+a v ec AVIQ & Ca b inet Cop p ieters
+Guides p ra tiq ues m is à  jour & tra d uits ( ALL)
+Nouv ea ux v isuels "p op  a rt" très a p p réciés
+V ues : 3.4 8 5  ( v s 2.788 en
+2024 et 1.406 en 2023)
+  Forte p rog ression et
+très b ons retours
+  
+Ob jectif fixé =  100.000 km
+Résulta ts =  213.715  km
+165.064 km  à  v élo
+48.651 km  à  p ied
+Pa rticip a nts : 129 entités
+Encod a g es : 6 .6 11
+25  séq uences ra d io
+15  interv entions d es
+a nim a teurs
+Fa ceb ook : 35 .0 0 9
+v ues ( sur 2 p osts)
+Insta g ra m  : 11.6 10
+v ues ( sur 2 p osts)
+Fa cebook : Vues =  1 m illion !
+Couv erture : 556.900 p ersonnes
+Nouv ea ux a b onnés : +1.18 4
+Insta g ra m  : Vues =  63.000
+Couv erture : 36.600 p ersonnes
+Nouv ea ux a b onnés : +4 92
+5  influenceurs, un p a r p rov ince d e Wa llonie
+Portée tota le : 212.0 30  p ersonnes
+Vues tota les : 313.76 0
+Retour sur inv estissem ent p ub licita ire : 91,24  %
+    ( m oy enne p our une ca m p a g ne institutionnelle =  50%)
+Bilan Semaine 
+de la Mobilité
+outils et nouveautés
+cartes des
+évènements
+challenge
+piétons & vélo
+Partenariat
+média
+Partenariat
+influenceurs
+réseaus 
+sociaux
+wallonie
+mobilité
+---PAGE 17---
+Facebook Wallonie Mobilité
+155 posts • Followers : 15 157
+Facebook Wallonie Infrastructures
+223 posts  • 4 778 Followers  
+Instagram Wallonie Mobilité
+126 posts • 2 866 Followers
+LinkedIn Batellerie en Wallonie 
+75 posts • plus de 1 000 abonnés
+Portail Wallonie Mobilité
+27 actualités
+Portail Wallonie Infrastructures
+63 actualités
+54 événements externes
+84 communiqués de presse
+Visuels
+58 reportages photo
+23 vidéos
+121 mises en page
+(folders/brochures/affiches/ bâches/PowerPoint)
+12 identités graphiques
+19 février 2026
+Lancement du nouveau LinkedIn Mobilité & Infrastructures
+Quelques 
+chiffres
+la communication du SPW Mobilité & Infrastructures en 2025
+17L’usager au coeur de nos actions | Rapport activités SPW Mobilité et Infrastructures 2025
+---PAGE 18---
+Plan wallon d’aides aux modes de transport alternatifs   
+Depuis 1996, six plans wallons successifs ont été mis en place par le Service public de 
+Wallonie pour développer le transport fluvial et intermodal de marchandises, ainsi que 
+pour pérenniser une flotte de navigation intérieure performante. 
+Retour sur les chiffres clés 
+Investissements liés au report modal vers la voie d’eau
+Plus de  100 dossiers introduits par les entreprises ; 
+Plus de  50 millions d’euros d’investissements privés ; 
+Plus de 12 millions d’euros d’aides allouées par la Wallonie. 
+Investissements pour l’amélioration de la flotte
+940 dossiers introduits par les bateliers ; 
+Plus de 100 millions d’investissements privés ; 
+Plus de 25 millions d’euros d’aides allouées par la Wallonie. 
+Un plan écoresponsable 
+Le Plan wallon génère chaque année un impact environnemental positif grâce au report 
+modal. 
+Au cours de l’année 2025, ce Plan a permis de transborder pas moins de  3,65 millions 
+de tonnes supplémentaires de marchandises, évitant ainsi 30 000 tonnes 
+de CO2 et épargnant entre 17 à 44 millions d’euros de coûts externes.
+Le SPW Mobilité et Infrastructures a pour ambition de poursuivre ces aides grâce à un  
+7e plan d’aide en cours d’élaboration. 
+Quelques 
+chiffres
+18
+---PAGE 19---
+Un Liveblog pour suivre la situation à l’écluse 
+d’Andenne 
+Début juin 2025, la porte amont de l’écluse d’Andenne a 
+rencontré un sérieux problème technique. Impossible de 
+la remettre en service sans une intervention lourde et une 
+mise à sec de l’écluse. Le temps de préparer l’intervention, 
+l’ouvrage est resté accessible aux bateaux de 85 mètres. 
+Par contre, les bateaux de 110 mètres ne pouvaient plus 
+passer, mettant en difficulté plusieurs entreprises de la 
+région namuroise. Afin d’informer le secteur fluvial et les 
+usagers de la voie d’eau, le SPW Mobilité et Infrastructures 
+a mis en place un «  Liveblog  », premier du genre. Un bel 
+effort de communication puisque ce liveblog, alimenté 
+à 28 reprises, a permis aux acteurs concernés de suivre 
+l’évolution de la situation, au plus près. L’écluse sera 
+finalement remise en service à la mi‑juillet. Envie de jeter 
+un coup d’œil dans le rétroviseur ?
+Cliquez sur le lien ou Scannez le QR-code
+Quelques 
+chiffres
+Une information fluviale claire comme l’eau de roche 
+Avec plus de 600 avis à la batellerie diffusés chaque année, il n’est pas toujours 
+évident d’y voir clair. S’ajoute plusieurs milliers d’avis à la batellerie diffusés par nos 
+voisins flamands, bruxellois, néerlandais et français. Pour aider les usagers de la 
+voie d’eau et les acteurs de la logistique fluviale, le SPW Mobilité et Infrastructures 
+a pris le soin de publier, mensuellement sous forme cartographique, les principaux 
+arrêts de navigation sur le réseau wallon mais également sur les réseaux voisins. Les 
+différentes cartes produites sont régulièrement actualisées. 
+Téléchargez-les depuis le portail Infrastructures en cliquant sur le lien ou en 
+scannant le QR code 
+L’usager au coeur de nos actions | Rapport activités SPW Mobilité et Infrastructures 2025 19
+---PAGE 20---
+20
+L'éducation continue à la mobilité et à la 
+sécurité routière 
+Dans le cadre de la Semaine de la mobilité 2025, la 
+cellule EMSR a développé, en collaboration avec le 
+Journal des enfants, un pack pédagogique destiné aux 
+élèves et aux enseignants. 
+Celui-ci comprenait une vidéo expliquant comment 
+utiliser le bus. Elle était accompagnée d’un feuillet 
+d’exercices visant à renforcer la compréhension des 
+horaires et des trajets. Un supplément de quatre 
+pages consacrées à la mobilité durable a également 
+été publié, abordant notamment la marche, le vélo, le 
+covoiturage, la sécurité et l’impact environnemental 
+des déplacements. 
+Pour retrouver les outils pédagogiques, 
+cliquez sur le lien ou Scannez le QR-code
+Pour retrouver les formations cliquez sur le lien ou Scannez le QR-code
+Les enseignants ont également bénéficié d'une formation spécialement 
+construite autour de leurs besoins puisque trois types de formations, d'une 
+journée chacune ont été inscrites au catalogue de l’IFPC, organisme officiel 
+de formation continuée des enseignants pour la Fédération Wallonie-
+Bruxelles. 
+Trois formations, trois objectifs :
+• • Référent EMSR pour le fondamental : 
+Familiarisation avec la mobilité et la sécurité routière à pied, à vélo 
+et en voiture des élèves, découverte d’outils, d’animations et de 
+bonnes pratiques.  
+• • Référent EMSR pour le secondaire
+Familiarisation avec la sécurité routière du piéton, cycliste, 
+conducteur et   passager de voiture, réflexion sur la mobilité durable, 
+découverte d’outils. 
+• • Comment se déplacer en rue avec mes élèves ?  
+Exercices pratiques en rue, révision du code de la route et conseils 
+de sécurité
+Quelques 
+chiffres
+---PAGE 21---
+Les chiffres du Service aux usagers (SAU) 
+Depuis 2020, le Service aux usagers (SAU) a mis en œuvre une collaboration grandissante 
+avec les différents départements et directions du SPW Mobilité et Infrastructures  pour 
+améliorer la relation usager
+En 2025, ce ne sont pas moins de :
+4 361 demandes d’usagers qui ont été traitées dont 3 871 concernaient directement le 
+SPW Mobilité et Infrastructures ; 
+127 plaintes provenant du formulaire en ligne et du Médiateur qui ont été traitées ; 
+Grâce à la collaboration de tous, l’usager reçoit une réponse précise dans les 29 jours 
+en moyenne ; 
++ 22 %  d’augmentation des interpellations reçues sur l’adresse mail générique du 
+service. 
+Outre le suivi apporté à ces mails, le SAU, avec les districts autoroutiers, poursuit 
+l’inspection des aires autoroutières concédées en allant sur le terrain pour s’assurer de la 
+qualité des infrastructures et des services offerts aux usagers.  
+Pour contacter le SAU : mobilite.infrastructures@spw.wallonie.be  
+Quelques 
+chiffres
+L’usager au coeur de nos actions | Rapport activités SPW Mobilité et Infrastructures 2025 21
+---PAGE 22---
+22
+Sécurité des personnes et des biens
+2025 : Résilience opérationnelle et transformation de la 
+cybersécurité  
+Un tournant structurel pour le SPW Mobilité et Infrastructures  
+L’année 2025 s’est révélée décisive pour le SPW Mobilité et Infrastructures, 
+marquant un changement profond dans notre approche de la sécurité 
+numérique. En avril, notre Administration a été confrontée à une cyberattaque 
+d’une ampleur sans précédent. Face à cette menace, nous avons su mobiliser 
+nos ressources afin de protéger les actifs critiques et garantir la continuité 
+des missions publiques. Cet événement n’a pas seulement impliqué une 
+réponse technique immédiate ; il a aussi joué le rôle de catalyseur pour une 
+transformation de notre stratégie numérique. Désormais, nous sommes 
+passés d’une gestion réactive à une posture volontairement proactive et 
+souveraine, visant à renforcer durablement notre sécurité.  
+Une gestion de crise rigoureuse et phasée  
+Le 15 avril 2025, la détection des premiers signes de compromission a nécessité 
+la prise de mesures radicales. La première étape a été l’isolement immédiat 
+du réseau industriel. Cette décision stratégique a permis de sanctuariser nos 
+infrastructures physiques, telles que les tunnels, barrages, écluses et fibres 
+optiques… en limitant le risque de propagation de la menace identifiée par le 
+SPW Digital.  
+La réponse technique s’est articulée autour de plusieurs axes 
+complémentaires :  
+• • Une gouvernance collaborative : Un Comité de direction 
+cybersécurité de crise s’est réuni quotidiennement au Cap Nord pour 
+aligner les décisions stratégiques et techniques. Ce pilotage a tiré sa force 
+d'une synergie inédite entre l’expertise transversale du SPW Digital, l'appui 
+méthodologique du Centre pour la Cybersécurité Belgique (CCB) et l’agilité 
+d'experts du secteur privé mobilisés en urgence.  
+• • Analyse et inventaire : En collaboration avec le Centre pour la 
+Cybersécurité Belgique (CCB), des analyses forensiques ont été menées 
+sur les composants critiques. Un inventaire exhaustif a été réalisé, couvrant 
+des centaines de serveurs et stations de travail, d’équipements réseaux et 
+plusieurs milliers d’équipements OT (Operational Technology) répartis sur 
+le territoire wallon.  
+• • Remédiation  et protection : Dès les premiers instants, le déploiement 
+massif de nouvelles solutions de sécurité a été engagé. Pour assurer la 
+continuité des flux critiques, une infrastructure de secours a été mise en 
+place. Parallèlement, une campagne de réduction durable de la surface 
+d’attaque a diminué l’exposition du SPW aux menaces.  
+• • Innovation et veille : En juin 2025, le SPW Mobilité et Infrastructures 
+a lancé un pilote pour une solution de détection réseau basée sur 
+l’intelligence artificielle, renforçant ainsi notre capacité à identifier des 
+comportements anormaux en temps réel.  
+---PAGE 23---
+Une mobilisation transversale exemplaire  
+La résolution de cette crise a reposé sur un engagement humain remarquable. 
+Les équipes de la cellule de la Transformation digitale, de la direction des 
+Télécommunications, du département de l’Exploitation des infrastructures, des 
+départements des Voies hydrauliques et du département du Support au métier ont 
+œuvré en synergie totale.  
+Cette solidarité interservices s’est traduite par la mobilisation d’agents sept jours sur 
+sept, au-delà de leurs missions habituelles. La collaboration avec le SPW Digital et le 
+CCB a été déterminante, apportant une expertise technique qui a permis de neutraliser 
+des menaces latentes.  
+Perspectives pour 2026  
+Si la menace numérique reste une réalité constante, le SPW Mobilité et Infrastructures 
+aborde l’année 2026 avec des infrastructures plus robustes et l’ambition d’une culture 
+de la sécurité désormais intégrée dans ses missions quotidiennes : l’amélioration de 
+la cybersécurité sur nos systèmes doit se poursuivre afin de garantir la sécurité des 
+usagers et la pérennité des infrastructures de la Wallonie.  
+23L’usager au coeur de nos actions | Rapport activités SPW Mobilité et Infrastructures 2025
+---PAGE 24---
+Statistiques liées aux tableaux de bord sur l’état des ponts du SPW  
+On recense 6 096 ouvrages d’art sous gestion du SPW Mobilité et Infrastructures, dont 
+2 257 sur le domaine SOFICO et 3 839 sur le domaine Service public de Wallonie. 
+Au total, cela représente 3,4 millions de mètres carrés de surface de tablier ou de 
+surface de mur de soutènement.
+149 ouvrages font plus de 200 m de long ;   
+5 721 sont des ponts ou tunnels et 363 sont des murs de soutènement (12 ouvrages 
+sont des structures spéciales) ;  
+1 901 ouvrages sont en maçonneries ;  
+2/3 de nos ouvrages ont plus de 50 ans ;   
+Notre pont routier le plus long mesure 1128 m et supporte une section du R9 à Charleroi. 
+Quelques 
+chiffres
+24
+---PAGE 25---
+Sécurité des personnes et des biens | Rapport activités SPW Mobilité et Infrastructures 2025
+25
+Quelques 
+chiffres
+Calibration et test des vannes de 
+restitution au barrage de l’Eau D’Heure 
+En 2025, la direction des Barrages-Réservoirs 
+(DBR) a rencontré l’ensemble de ses missions 
+principales de gestion de réserves d’eau potable, 
+d’écrêtages de crues, de soutiens d’étiages ou 
+encore de production d’électricité. Tout ceci en 
+mettant l’accent sur la sécurité des ouvrages, des 
+populations en aval et en valorisant les ouvrages 
+afin de permettre un développement touristique 
+optimal et compatible avec nos missions. 
+Une action plus particulière a été menée au niveau 
+du barrage de l’Eau D’Heure avec la recalibration 
+des vannes de restitution. 
+Celle-ci a été menée en collaboration avec 
+plusieurs autres directions du SPW Mobilité et 
+Infrastructures et du SPW Agriculture, Ressources 
+naturelles et Environnement (ARNE).  
+Tout d’abord, avec un calcul théorique des débits 
+de restitutions en fonction des degrés d’ouvertures 
+des vannes avec la direction des Recherches 
+hydrauliques. 
+Ensuite, par une validation sur terrain effectuée 
+par des tests grandeur nature via une ouverture 
+progressive et maitrisée des vannes. Ces tests ont 
+permis d’affiner les calculs théoriques et de vérifier 
+l’écoulement en aval. 
+En outre, les procédures de communication avec le 
+CORTEX, Centre de Coordination des Risques et de 
+la Transmission d’expertise de la Région wallonne, 
+ont également été testées avec succès. 
+La DBR poursuivra ses tests en 2026. L’ensemble 
+de ces actions augmentant la sécurité des 
+populations en aval. 
+---PAGE 26---
+26
+Les radars, leviers essentiels dans le contrôle de la sécurité 
+routière pour atteindre l’objectif “Vision ZÉRO” 
+La sécurité des usagers de la route et des travailleurs tant dans les zones à risquesque 
+dans les chantiers, est un défi quotidien pour le SPW Mobilité et Infrastructures. À 
+travers ses différents marchés publics liés aux installations de radars, la direction des 
+Systèmes de transports intelligents (DSTI) joue un rôle clé au niveau du volet sécurité 
+routière. En plus des marchés de location de Lidars et de placement de radars 
+répressifs, elle a également en charge l’entretien de l’ensemble des installations 
+radars ainsi que la rédaction du protocole d’installation qui est nécessaire pour la 
+verbalisation des infractions. 
+En effet, la première cause d’accidents mortels en Wallonie reste la vitesse, il est 
+donc important d’agir sur le contrôle de celle-ci pour atteindre l’objectif « Vision 
+zéro », à savoir zéro décès sur les routes et autoroutes wallonnes en 2050. La mise 
+en place de radars fixes et de radars déplaçables est donc un levier essentiel. En 
+effet, de nombreuses études et indicateurs montrent que les radars sont des moyens 
+efficaces pour réduire les vitesses excessives, améliorer le respect des limitations 
+de vitesse, sécuriser les chantiers et les zones sensibles et diminuer le nombre de 
+blessés et de décès sur la route. À titre d’illustration, le baromètre de la sécurité 
+routière (VIAS) indique qu’entre 2019 et 2024, en Wallonie, le nombre d’accidents 
+corporels a diminué de 7 %, le nombre de tués de 33 % et de blessés de 9 %.
+Différents radars pour différents besoins 
+Concrètement, le premier moyen de contrôler la vitesse est le placement de radars 
+déplaçables, mieux connu sous l’appellation « LIDAR ». Ceux-ci sont mis pour deux 
+raisons :  
+• • La sécurisation des travailleurs sur les chantiers autoroutiers ;  
+• • La surveillance des zones à risque par les Zones de Police. 
+Le second moyen concerne les installations permanentes de radars ; trois types de 
+radars sont déployés :  
+• • Les radars fixes qui mesurent la vitesse instantanée ; 
+• • Les radars tronçons qui mesurent la vitesse moyenne ;  
+• • Les radars de franchissement de feux qui constatent non seulement le 
+franchissement d’un feu rouge à un carrefour, mais aussi la vitesse instantanée.
+Lidar – Vitesse instantanée
+---PAGE 27---
+Sécurité des personnes et des biens | Rapport activités SPW Mobilité et Infrastructures 2025
+27
+La grande nouveauté de 2025 est la reprise, par la direction 
+des Systèmes de transports intelligents, de la mission de 
+sélection des radars permanents à installer annuellement. 
+Dans ce cadre, différentes étapes ont été mises en place et 
+une méthode de priorisation a été développée :  
+1. Introduction des demandes par les Zones de Police à travers 
+un formulaire dédié.  
+2. Ces demandes sont ensuite discutées lors des réunions 
+de concertation rassemblant toutes les parties (SPW MI, 
+Parquets, Zones de Police, Centre Régional de Traitement, 
+Communes…)  
+3. Élaboration de la liste définitive des demandes avec 
+priorisation à travers une méthode reprenant différents 
+critères objectifs :  
+• • Accidents survenus dans cette zone lors des  
+5 dernières années ; 
+• • V851 (pondération par rapport à la vitesse maximale autorisée) ;  
+• • Présence de « lieux sensibles (écoles/crèches, centres sportifs/ culturels/loisirs, 
+hôpitaux, passages à niveau) ;  
+• • Trafic ;  
+• • Nouveau ou remplacement ;  
+• • Zones d’agglomération ;  
+• • Répartition sur le territoire ;  
+• • Aménagement techniquement réalisable ou non. 
+La liste priorisée et l’estimation budgétaire sont transmises au Cabinet de tutelle pour 
+validation avant les installations sur le terrain.  
+Le futur ?  
+À terme, l’objectif est d’installer au minimum 150 radars permanents 
+par an durant la législature actuelle, à savoir 100 radars fixes, 40 radars 
+tronçons et 10 radars de franchissement de feux.  
+La DSTI a réalisé sa première sélection en 2025 et finalise la mise en 
+place des 150 radars sélectionnés, et recommence en 2026 ce même 
+processus avec les nouvelles demande reçues.  
+1 La V85 est la vitesse en dessous de laquelle circulent 85 % des véhicules (donnée représentative de la vitesse pratiquée par 
+la majorité des usagers).
+Lidar – Vitesse instantanée
+Radar tronçon – Vitesse moyenne
+Radars de franchissement de feux
+
+---PAGE 28---
+28
+Modernisation des infrastructures et 
+de leur exploitation
+Obourg : le chantier de la nouvelle écluse
+À Obourg, un chantier d’envergure redessine en profondeur le paysage fluvial. 
+Le SPW Mobilité et Infrastructures y réalise une nouvelle écluse stratégique, 
+inscrite dans le vaste programme européen Seine-Escaut. L’objectif est 
+d’augmenter la capacité du réseau et de permettre le passage des convois 
+de classe Va+, de 1 500 à 3 000 tonnes, aujourd’hui bloqués par les limites de 
+l’écluse existante (96 m x 12 m). Le nouvel ouvrage, long de 149 m et large de 
+12,5 m, deviendra un maillon clé entre la France, Namur et Liège. 
+Le projet représente un investissement conséquent de 129 millions d’euros, 
+cofinancé à 50 % hors TVA par l’Union européenne. Autour de l’écluse, c’est 
+tout un ensemble d’infrastructures qui sera modernisé : station de pompage 
+adaptée, hangar rénové, bâtiment de commande commun, nouveaux garages à 
+bateaux et création d’un bassin de virement indispensable à la manœuvre des 
+grands gabarits. 
+Le site présente une complexité géotechnique notable. Implantée dans la 
+vallée de la Haine, l’écluse repose sur des couches d’alluvions, de sable et de 
+tourbe recouvrant la craie d’Obourg. Une campagne d’essais géophysiques, 
+de forages et de modélisation 3D a permis de définir un phasage précis pour 
+sécuriser les terrassements profonds. Les travaux nécessitent également des 
+fouilles archéologiques, de vastes déplacements d’impétrants (dont des lignes 
+ELIA et un pipeline OTAN) et la création d’un exutoire pour évacuer 150 000 m³ 
+de terres. 
+Le chantier, lancé en 2024, se déroule en plusieurs phases : le fonçage de 
+palplanches, la pose de pieux, l’installation de tirants, les terrassements 
+partiellement sous eau ainsi que le bétonnage d’un bouchon armé.  La vidange 
+du sas est, quant à elle, prévue pour la fin d’année 2025. En parallèle, le bassin 
+de virement est excavé, tandis que la voirie et le RAVeL sont déviés pour libérer 
+l’emprise. 
+Au-delà de ses aspects techniques, le projet intègre une dimension paysagère 
+et environnementale avec la création de zones humides, la plantation d’arbres 
+et des aménagements du RAVeL. 
+À l’horizon 2027, l’axe fluvial Obourg–Havré évoluera ainsi vers une capacité 
+conforme aux standards européens. C’est une modernisation attendue qui 
+renforcera l’attractivité du transport fluvial et soutiendra la transition vers une 
+logistique plus durable. 
+Quelques 
+chiffres
+---PAGE 29---
+Modernisation des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025
+29
+Tourisme fluvial  : modernisation des infrastructures nautiques de 
+plaisance en Wallonie 
+Confrontés au vieillissement des installations et à l’évolution des attentes des plaisanciers , la 
+Wallonie s’engage dans une vaste opération de modernisation de ses infrastructures dédiées 
+au tourisme fluvial. L’ambition : offrir un accueil plus performant, plus confortable et mieux 
+adapté aux usages actuels. 
+Le port de plaisance de Thieu fait figure de précurseur. L’enveloppe, d’environ 600 000 euros 
+de ce marché pilote, représente un investissement stratégique pour un secteur touristique en 
+pleine diversification. Le tourisme fluvial constitue en effet un moteur d’attractivité locale et un 
+vecteur économique transversal pour les territoires bordant les voies navigables. 
+Le chantier mené à Thieu vise une modernisation en profondeur des services essentiels, en 
+particulier l’alimentation en eau et en électricité. Les nouvelles installations seront dotées d’un 
+système de gestion innovant : via une application dédiée, le capitaine du port pourra activer 
+ou couper les alimentations en un clic. Les plaisanciers disposeront quant à eux d’un accès 
+autonome grâce à un simple QR code. Cette digitalisation, encore rare sur le réseau wallon, 
+améliorera la réactivité, la maîtrise des consommations et la flexibilité des usages. L’objectif est 
+clair : faire de Thieu un exemple de port modernisé et capable d’anticiper les besoins futurs des 
+usagers. 
+Les retours d’expérience de ce projet alimenteront les opérations prévues dans le cadre du 
+Plan d’investissement des voies hydrauliques (PIVH) où 6 millions d’euros seront consacrés à 
+la modernisation des ports de plaisance dans les prochaines années. Thieu représente ainsi la 
+première étape d’un programme plus large visant à revitaliser l’ensemble du réseau wallon de 
+plaisance et à donner un nouveau souffle au tourisme fluvial. 
+Au-delà de l’innovation numérique, des interventions structurelles sont également prévues. 
+Les pontons existants, devenus vieillissants, seront remis en état afin de renforcer la sécurité et 
+d’améliorer le confort à l’amarrage. 
+Quelques 
+chiffres
+Dans le but de réhabiliter et sécuriser des infrastructures dédiées au tourisme fluvial, deux 
+enveloppes budgétaires ont été mobilisées :
+• • Un budget exceptionnel de 6 millions d’euros TVAC destiné aux aménagements 
+d’infrastructures liées au tourisme fluvial et fluvestre ;
+• • Un budget annuel de  500 000 d’euros TVAC, destiné à la sécurisation des 
+infrastructures de plaisance.
+Dans ce cadre, un montant de 5 93 158,67 d’euros a été ajouté au budget 2025 pour 
+permettre l’installation, au port de plaisance de Thieu, de nouvelles bornes permettant 
+l’alimentation des bateaux en eau et en électricité.
+---PAGE 30---
+30
+Rénovation énergétique : un patrimoine public modernisé et durable
+Grâce au Plan de Relance de la Wallonie (PRW), 
+le SPW Mobilité et Infrastructures (SPW MI) mène 
+un vaste programme de rénovation énergétique de 
+ses bâtiments. L’objectif : améliorer les conditions 
+de travail des agents tout en réduisant l’impact 
+environnemental du parc immobilier. 
+Face à la vétusté d’une partie importante de ses 
+bâtiments, le SPW MI a défini une stratégie de 
+rénovation reposant sur des audits énergétiques, une 
+priorisation des interventions et une approche globale 
+du cycle de vie des bâtiments. Cette démarche 
+vise à diminuer les consommations d’énergie et les 
+émissions de CO2, tout en assurant la pérennité d’un 
+patrimoine essentiel au service public. 
+Beaucoup de régies, maisons éclusières et bâtiments 
+techniques étaient devenus difficiles à exploiter au 
+quotidien : problèmes d’étanchéité, installations vieillissantes, inconfort thermique 
+et consommation énergétique excessive. Les rénovations engagées répondent 
+directement à ces difficultés. 
+La régie de Sinsin illustre parfaitement ce programme. Les bâtiments existants, 
+fortement dégradés et contenant de l’amiante, font l’objet d’une transformation 
+complète : assainissement, modernisation des installations, réorganisation des 
+espaces et amélioration de l’accessibilité. Les agents bénéficieront de locaux 
+modernes, fonctionnels et performants sur le plan énergétique. Ce projet a été conçu 
+en étroite collaboration avec les services concernés afin de tenir compte des usages 
+concrets du terrain. 
+Au-delà de ce projet phare, de nombreuses régies routières et autoroutières 
+bénéficient de rénovations importantes : toiture et façades remises en état, isolation 
+renforcée, chauffage et ventilation modernisés, éclairage LED plus performant. 
+Les maisons éclusières et barragistes font également l’objet d’améliorations 
+spécifiques, intégrant parfois des solutions d’énergie renouvelable. 
+Ces investissements se traduisent concrètement par des bâtiments plus fiables, 
+plus agréables et moins énergivores ainsi que par des conditions de travail mieux 
+adaptées. À travers ce programme, le SPW MI contribue à la qualité du service public 
+tout en s’inscrivant dans la transition climatique. 
+
+---PAGE 31---
+Modernisation des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025
+31
+Modernisation des équipements de 
+la direction de la Géotechnique avec 
+l’arrivée du nouveau pénétromètre 
+sur chenilles 
+Début décembre, la direction de la 
+Géotechnique a renforcé son équipement 
+grâce à l’arrivée d’un nouveau pénétromètre 
+sur chenilles. Livré le 5 décembre depuis le 
+siège du fournisseur néerlandais, cet appareil 
+remplace l’ancien modèle, arrivé en fin de vie 
+après plus de 30 ans de service. 
+Cet équipement joue un rôle essentiel dans 
+la réalisation d’essais de pénétration statique 
+(CPT), en particulier dans les zones difficiles 
+d’accès. Il contribue directement aux missions de reconnaissance de sol 
+menées par la direction de la Géotechnique pour le compte des collègues 
+gestionnaires d’infrastructures routières, hydrauliques et immobilières. 
+La méthode d’investigation utilisée, rapide et performante, permet de 
+déterminer les caractéristiques géomécaniques des terrains meubles. Depuis 
+sa mise en service à la mi-décembre, le nouveau pénétromètre a déjà permis 
+la réalisation d’une cinquantaine d’essais CPT, pour une profondeur totale 
+sondée avoisinant les 230 mètres. 
+Entretien du plan incliné de Ronquières
+Entré en service en 1968, le plan incliné de Ronquières commence à 
+présenter des signes d’usure, c’est pour cette raison qu’a débuté un gros 
+chantier de réhabilitation. Celui-ci se concentre sur un bac à la fois puisqu’il 
+faut intervenir sur les roulements des bacs ainsi que sur les rails, tout en 
+maintenant la navigation ouverte. C’est un chantier qui se poursuivra encore 
+2 ans avant d’entamer les mêmes travaux sur le second bac. 
+---PAGE 32---
+32
+Quelques 
+chiffres
+Nouvelles spécifications Qualiroutes pour le traitement  
+des sols 
+Les travaux du second groupe de travail « Qualiroutes » ont abouti à une 
+mise à jour importante de Qualiroutes, le référentiel technique encadrant 
+les chantiers routiers en Wallonie. Dès janvier 2026, de nouvelles règles 
+s’appliqueront au traitement des sols de remblai et de fond de coffre. 
+Le traitement des sols vise à améliorer leur compactibilité et leur portance, 
+solution essentielle lorsque la portance minimale spécifiée dans Qualiroutes 
+n’est pas atteinte. Cette technique permet également d’éviter ou de réduire 
+l’évacuation de sols, limitant ainsi les coûts et l’empreinte carbone des 
+chantiers. 
+La principale évolution réside dans la répartition des 
+responsabilités : le chef de projet ne devra plus préciser le 
+type d’additif nécessaire dans les documents de marché. 
+C’est désormais l’adjudicataire qui proposera l’additif le 
+plus approprié et remettra prix pour la solution qu’il estime 
+adéquate. 
+Pour permettre ce choix, le chef de projet devra toutefois 
+préciser les caractéristiques du sol à 
+traiter grâce à une étude préalable, dont la plupart des 
+essais sont réalisés au sein du laboratoire de la direction 
+de la Géotechnique. 
+Sur cette base, l’adjudicataire déterminera la formulation 
+garantissant l’atteinte des critères de portance. Cette 
+modernisation améliore l’efficacité des traitements des 
+sols et optimise les moyens financiers qui y sont consacrés. 
+
+---PAGE 33---
+Du nouveau sur Le RAVeL
+ Longueur (km) 2024 Longueur (km) 2025
+RAVeL 1507 1552
+dont routes et anciennes 
+lignes de chemin de fer 782 828
+dont halage 673 672
+dont chemins forestiers (DNF) 23 23
+dont chemins communaux 29 29
+Cyclostrades 3,8 14,8
+Activités ‑ Actions 2024 2025
+Nouvelles sections aménagées (km) 5,2 36
+Sections existantes rénovées (km) 32,3 9,6
+Nouvel ouvrage d'art aménagé (nombre) 2 4
+Ouvrages d'art existants rénovés (nombre) 0 18
+Sections balisées et itinéraires cyclables de longue distance (km) 20 23,7
+Nombre de projets engagés 15 15
+Quelques 
+chiffres
+Modernisation des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025 33
+---PAGE 34---
+34
+Canal Nimy-Blaton 
+Les travaux d’élargissement de la voie 
+d’eau sur le Canal Nimy-Blaton se sont 
+également poursuivis dans le cadre du 
+programme Seine‑Escaut. L’objectif ? 
+Élargir quatre courbes afin de permettre 
+non seulement le passage de bateaux 
+classe Va, mais aussi le croisement de 
+péniches dans cette zone qui s’étend 
+sur 3,3 km. Les travaux devraient se 
+terminer dans le courant de l’année 
+prochaine. 
+Ces travaux sont cofinancés par l’Union 
+européenne. 
+découvrez le projet en vidéo 
+en cliquant sur le lien ou en 
+scannant le QR code
+Des études de navigation pour optimiser l’exploitation du réseau 
+hydraulique 
+À partir de quel débit de crue faut‑il arrêter la navigation sur ce tronçon de rivière ? À quelle 
+vitesse maximale les bateaux peuvent ‑ils y naviguer sans risque pour la sécurité ? Quelle 
+est la plus grande dimension des convois que l’on peut y autoriser ? Une réponse à ce type 
+de questions conditionne l’exploitation optimale de nos voies hydrauliques au profit d’un 
+mode de transport durable et économique. C’est pour y répondre avec rigueur et précision 
+que la direction des Recherches hydrauliques a initié dès 2023 un marché d’études 
+nautiques, confié au groupement « IMDC, Flanders Hydraulics et Université de Gand ». 
+Quelques 
+chiffres
+---PAGE 35---
+Une méthodologie en deux temps a été définie par le cahier des charges :  
+• • Tout d’abord, la voie d’eau investiguée est analysée sur plans. Ses caractéristiques 
+principales sont déterminées tronçon par tronçon : largeur, profondeur, courbure, etc. 
+et sont comparées aux recommandations internationales en fonction du bateau cible. 
+Cette phase permet de vérifier si la navigation est possible en double sens, ou à sens 
+unique, avec ou sans limitations. Elle permet aussi d’identifier les tronçons sur lesquels 
+une validation plus approfondie est nécessaire. 
+• • Ensuite, la seconde phase fait appel à des simulateurs de navigation. Ces 
+simulateurs se composent d’un environnement immersif où un batelier peut prendre 
+place dans une cabine de pilotage authentique entourée d’écrans panoramiques 
+reproduisant une vue complète du bateau sur le cours d’eau. Le modèle mathématique 
+décrivant les mouvements du bateau intègre ensuite tous les phénomènes physiques 
+auxquels ce bateau est soumis : propulsion du moteur, action du gouvernail, effet du 
+courant, interaction avec les autres bateaux et avec les berges, force du vent, etc. Les 
+simulateurs permettent de tester de nombreuses situations de navigation, courantes 
+ou extrêmes, et d’en apprécier la sécurité et la fluidité, en prenant en compte le 
+comportement réel d’un bateau mais également le facteur humain. 
+Au cours de ces trois années d’études, plusieurs diagnostics ont pu être établis pour préciser 
+les règles d’exploitation de voies existantes ou pour guider des projets d’améliorations 
+futures. Tout d’abord dans la traversée de Liège, sur la Meuse, les études ont confirmé 
+l’intérêt qu’auraient la suppression des piles en rivière de la Passerelle Saucy et de la pile 
+droite du Pont des Arches pour faciliter la navigation en crue. Mais aussi dans la traversée 
+de Tournai, sur l’Escaut, les simulations ont permis d’optimiser la délimitation des zones 
+d’amarrage et de confirmer les restrictions applicables en régime de crue. Le tracé de 
+l’agrandissement de plusieurs bassins de virement du réseau a été validé. Les études ont 
+également permis de contrôler les conditions de navigation sur la Lys après rectification, sur 
+le versant Senne du Canal Charleroi-Bruxelles, et sur le Canal Nimy-Blaton-Péronnes après 
+travaux d’élargissement et réouverture du Canal Pommeroeul-Condé. Des simulations 
+se poursuivront en 2026, notamment pour optimiser l’implantation des futures nouvelles 
+écluses de Kain et de Hérinnes sur l’Escaut. 
+Quelques 
+chiffres
+Modernisation  
+des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025 35
+Développement du modèle numérique des inondations de l’Ourthe : 120 km couverts.
+Dragage des voies hydrauliques wallonnes : nouveau marché attribué : 134 812 654 
+EURos TVAC pour draguer 640 000 m³ de sédiments en 4 ans (thème usager).
+---PAGE 36---
+36
+Liaison E25/E40 : modulation de la vitesse pour assurer la fluidité  
+et la sécurité
+En 2025, une grande partie des efforts de la direction de l’Exploitation des tunnels s’est 
+concentrée sur la liaison E25/E40 à Liège. Il s’agit d’un axe autoroutier stratégique de 12,5 
+km qui traverse l’agglomération liégeoise et relie plusieurs itinéraires majeurs. Cette liaison 
+comprend des tunnels, des viaducs et des sections à ciel ouvert, et constitue l’un des 
+points de circulation les plus sensibles de Wallonie en raison de son trafic important et de 
+sa configuration urbaine.
+Pour assurer son fonctionnement et garantir la sécurité des usagers, l’ensemble de la liaison 
+est surveillé et piloté par le poste de commande du Centre Tilleuls. Elle est couverte par un 
+Plan d’intervention d’urgence (PIU) qui encadre la gestion des incidents. La zone centrale — 
+la partie qui comprend les tunnels et ouvrages d’art présentant les enjeux les plus critiques 
+— fait quant à elle l’objet d’un Plan particulier d’urgence et d’intervention (PPUI). Celui-ci 
+couvre le tronçon situé entre le viaduc des Guillemins et la trémie de Chênée.
+Par convention, la liaison est découpée en trois tronçons :
+• • la zone “tunnels” , au centre ;
+• • la zone d’approche de Burenville ;
+• • la zone d’approche d’Embourg.
+Cette année marque le retour à une exploitation nominale de la liaison E25/E40. La zone 
+des tunnels, limitée à 50 km/h depuis les inondations de 2021, a été remise à 80 km/h le 17 
+juillet 2025. Cette évolution très attendue par les usagers et les collectivités a été rendue 
+possible grâce à la modernisation des installations électromécaniques et au déploiement 
+de nouveaux équipements. Nous retrouvons ainsi une configuration proche de celle 
+d’avant le Covid et les inondations. Avant ces évènements, la quasi-totalité des 12,5 km de 
+la liaison était exploitée à 80 km/h. Lors de la réouverture à la rentrée 2021, la vitesse avait 
+été abaissée à 50 km/h dans la zone tunnels, entre le tunnel de Cointe et celui des Grosses 
+Battes.
+La grande nouveauté est la modulation de la vitesse pour assurer la fluidité et la sécurité.  
+En effet, la signalisation dynamique permet d’adapter la vitesse via des panneaux 
+adaptatifs (pouvant afficher 80, 70, 50 km/h selon le trafic, les incidents ou les conditions 
+de circulation). Des fermetures nocturnes ont été nécessaires pour installer et valider ces 
+équipements.
+L’engagement des équipes et des partenaires a permis d’atteindre ce résultat visible sur le 
+terrain. L’année 2026 sera consacrée à la consolidation des acquis et à la finalisation des 
+opérations encore en cours.
+Sur le plan opérationnel, deux scénarios majeurs ont dû être déclenchés en 2025. Ces 
+événements rappellent l’importance des dispositifs de sécurité et de la vigilance constante 
+des équipes. Ils soulignent également la nécessité d’être prêts à réagir face à des situations 
+imprévues.
+Quelques 
+chiffres
+---PAGE 37---
+Modernisation des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025
+37
+Quelques 
+chiffres
+Les tunnels en 2025
+Trafic moyen journalier en hausse de 14,57 %, atteignant 66 231 véhicules par jour 
+24,17 millions d’usagers sur l’année 
+Exploitation en mode nominal sur près de 85 % du temps 
+143 accidents recensés, avec une diminution des accidents corporels 
+183 incidents liés aux piétons, soit 14,95 % des incidents totaux 
+Taux d’accident de 36,76 % , dans une fourchette basse par rapport aux tunnels 
+interurbains internationaux 
+64 incidents techniques maîtrisés 
+14,6 % des incidents survenus dans la zone tunnels, qui représente 22 % du linéaire.
+À titre de comparaison, en 2018 et 2019, le trafic moyen journalier atteignait environ  
+75 000  véhicules par jour. Depuis les crises successives, la liaison n’a pas encore 
+retrouvé ce niveau de fréquentation.
+
+---PAGE 38---
+38
+Mise à jour du processus GPS1 
+En 2025, une soixantaine d’agents répartis en une dizaine de groupes de travail ont collaboré 
+à la mise à jour du processus GPS1 (Gestion de Projets routierS), un outil qui vise à identifier 
+et prioriser les besoins sur nos réseaux. Chaque groupe de travail porte généralement sur un 
+type d’infrastructure spécifique en lien avec la stratégie de gestion des actifs. Le processus 
+vise à collecter les besoins en matière de travaux d’investissement sur les infrastructures 
+de mobilité et à les hiérarchiser. Plus de 2 000 besoins ont notamment été encodés par les 
+agents des directions territoriales des voies hydrauliques et des routes, ces dernières se 
+faisant aussi le relais des communes wallonnes. Ces besoins ont ensuite été compilés, 
+traités et priorisés en première approche par la direction Asset Management. D’autres 
+thématiques font l’objet de priorisation propre par des directions transversales (ponts, 
+tunnels, bassins d’orage...). Une mission spécifique a également été menée par l’Autorité 
+organisatrice des Transports (AOT) pour la priorisation des besoins de mobilité collective. 
+La priorisation des besoins sera à la base de la proposition des projets du prochain plan 
+pluriannuel d’investissements, la feuille de route pour l’Administration en matière de 
+travaux sur les infrastructures de mobilité pour les années à venir. 
+MIRE, un nouvel élan pour le pilotage des investissements sur le  
+réseau des voies hydrauliques 
+Mis en production fin 2025 et lancé officiellement le 26 janvier 2026, MIRE1 
+constitue l’outil centralisé de reporting des projets d’investissements sur les 
+voies hydrauliques. Développé en cohérence avec la démarche d’amélioration 
+des données du SPW Mobilité et Infrastructures, il offre une vue harmonisée 
+et structurée des projets et de leur avancement. Conçu comme un support 
+fonctionnel de collecte et de consolidation des données, MIRE renforce la 
+transparence, facilite le suivi et soutient la prise de décision. Son déploiement 
+progressif accompagnera l’ensemble des acteurs pour renforcer une culture 
+commune du reporting au sein du SPW Mobilité et Infrastructures.  
+---PAGE 39---
+Aménagements cyclo-piétons sur la N947 
+entre Jambes et Dave 
+Finalisé en automne 2025, l’aménagement 
+cyclo‑piétons sur la N947 entre Jambes et Dave visait 
+à intégrer la mobilité douce sur un tronçon fortement 
+fréquenté où les vitesses pratiquées sont élevées voire 
+dépassées. 
+• • Longueur du tronçon : environ 2,4 km ; 
+• • Coût total TVAC : 2 600 560,83 € ; 
+• • Durée des travaux: 100 jours ouvrables ; 
+Le projet répondait à une nécessité clairement établie 
+et confirmée par les audits de sécurité. Le tronçon 
+long de 2,4 km, supporte au quotidien, un trafic de 
+plus de 9 500 véhicules avec des vitesses élevées, 
+ce qui plaçait les usagers faibles dans une situation 
+d’insécurité.  Il était impératif d’aménager et de 
+sécuriser l’itinéraire cyclable entre Jambes et Dave 
+en évitant aux cyclistes d’être en contact direct avec 
+le trafic motorisé.  Par ailleurs, le projet s’inscrit dans 
+la volonté régionale de renforcer les liaisons actives 
+sur les voiries du réseau régional, en particulier dans 
+des zones à enjeu comme la vallée mosane, où le 
+velotaf est en constante progression. En garantissant 
+une infrastructure claire, séparée physiquement de 
+la chaussée, et raccordée aux dispositifs existants, le 
+projet améliore significativement la cohabitation entre 
+les modes de déplacement et contribue à une mobilité 
+plus durable entre les deux pôles urbains de Jambes 
+et Dave. 
+Ce projet est le reflet de l’implication tout au long de 
+ce chantier de toute une équipe qui a su faire preuve 
+de professionnalisme, de rigueur et de réactivité, des 
+atouts précieux et indispensables à chaque étape. 
+Modernisation des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025 39
+---PAGE 40---
+40
+E411/A4 – Chantier Daussoulx - Thorembais-Saint-Trond 
+En 2023, le SPW a lancé un important chantier qui a débuté le 20 
+mars, pour se terminer le 10 juillet 2025.  Travaux indispensables en 
+vue de réhabiliter en profondeur toute la largeur de l’E411/A4.  En 
+direction de Bruxelles, ils s’étendaient sur un peu plus de 9 km entre 
+Daussoulx et Aische-en-Refail et sur plus de 10 km dans le sens 
+inverse, entre Thorembais-Saint-Trond et Dhuy. Tronçon sur lequel 
+un nouveau système de drainage fut, par ailleurs, aménagé. 
+Afin d’optimiser l’impact écologique de ces travaux, une plateforme 
+de recyclage et de production de matériaux a été installée sur l’aire 
+d’Ostin. Cette plateforme a permis non seulement le traitement et 
+le recyclage de plus de 495 000 tonnes de matériaux pour produire 
+157 000 tonnes d’asphalte mais aussi une économie significative 
+en termes de déplacements.  La proximité de la centrale a permis, 
+en effet, une économie substantielle de plus de 2 248 000 km, 
+autrement dit, 56 fois la circonférence de la Terre !! 
+En quelques chiffres, chaque jour entre 40 et 60 personnes 
+s’affairaient sur le chantier avec plus de 20 machines et 35 camions 
+pour y poser, au total, plus de 157 000 tonnes d’enrobés sur 135 000 
+m² de bétons, pour y couler 50 km d’éléments linéaires ou encore 
+pour y installer 20 km de glissières. 
+Ces travaux ont également permis d’améliorer le cadre de vie des 
+riverains de Warisoulx par la mise en place d’un mur antibruit ou 
+encore par le biais d’un merlon acoustique d’une hauteur de plus 
+de 4 m. 
+Ce chantier représente un budget de 50 millions d’€ HTVA financé 
+par la SOFICO, maître d’ouvrage
+---PAGE 41---
+Modernisation des infrastructures et de leur exploitation | Rapport activités SPW Mobilité et Infrastructures 2025
+41
+Ravel des Sources – Phase 1 de  Spa à Marteau Réalisation d’un axe 
+structurant cyclable 
+Sur l’Avenue Reine Astrid, artère majeure de l’entrée de Spa, un projet d’aménagement 
+de l’accotement sur une longueur de 2 km et de 8 à 15 m de large a été mené par la 
+direction des Routes de Verviers. 
+Cette première phase s’intègre dans un projet global d’un aménagement structurant 
+cyclable permettant à terme de relier Spa à la vallée de la Vesdre et donc à la future 
+« Vesdrienne » reliant Eupen à Liège. 
+Les aménagements réalisés ont significativement transformé l’accotement 
+disponible le long de cette nationale : 
+• • Création de 3 200 m² de noues d’infiltration végétalisées pour les eaux de 
+pluie de la voirie et des nouveaux aménagements ; 
+• • Matérialisation de 108 places de parking perméables engazonnées sur 2 500 
+m² pour supprimer le parking sauvage ; 
+• • Réalisation d’une piste cyclable bidirectionnelle en béton brossé et de 
+trottoirs piétons pavés. En zone urbaine : piste cyclable de 3 m de largeur et trottoir 
+de largeur 1,5 m minimum. En zone péri‑urbaine et rurale : piste de 4 m de largeur ; 
+• • Création de quais de bus et de zones de détente avec mobilier urbain tels que 
+bancs, poubelles, arceaux vélos, etc ; 
+Ajout de 32 arbres complémentaires d’alignement. 
+Par ailleurs, la Ville de Spa a équipé tout ce tronçon de Ravel d’un nouvel éclairage 
+public.
+découvrez le projet en vidéo en cliquant sur le lien ou en scannant le QR code
+---PAGE 42---
+42
+Lancement des travaux du pont Capitte
+Le chantier de démolition et de reconstruction du pont Capitte 
+à La Louvière a débuté en octobre 2025. Ces travaux visent à 
+remplacer la structure métallique centenaire et fragilisée par 
+la corrosion, qui, depuis sa construction, accueille les flux 
+de circulation sur la N535, un axe majeur entre La Louvière 
+et Le Roeulx, en franchissant le Canal historique du Centre.
+Le pont moderne, plus large et mieux intégré, permettra le 
+retour des véhicules lourds et assurera la sécurité de tous 
+les usagers. Il favorisera la mobilité partagée en incluant 
+une bande dédiée aux bus et des espaces sécurisés pour les 
+modes de déplacement actifs (piétons, cyclistes), avec une 
+liaison aisée vers le Ravel.
+La conception s’inspirera du tout premier pont construit sur 
+ce site, démoli dans les années 1930 : un pont-levis. Ce choix 
+technique permettra, ponctuellement, à certains créneaux 
+horaires pour un impact plus faible sur la mobilité, le passage 
+de plus gros bateaux de plaisance sur le Canal du Centre et 
+ses célèbres ascenseurs hydrauliques classés à l'UNESCO. 
+Cette solution sur mesure allie une amélioration du cadre 
+par la diminution importante des rampes, l’intégration de 
+mesures environnementales, la durabilité, l’utilité concrète 
+et l’intégration dans un environnement historique protégé.
+Ce chantier est le fruit d'une collaboration entre le SPW 
+Mobilité & Infrastructures, la Ville de La Louvière et les 
+services du Patrimoine. La mise en service du nouveau pont 
+est prévue au premier trimestre 2027.
+---PAGE 43---
+Appel à projets « rénovation énergétique des 
+infrastructures sportives » 
+En 2021, un appel à projets a été lancé dans le but d’opérer une 
+rénovation énergétique des infrastructures sportives. L’objectif ? 
+réaliser une rénovation énergétique, réduire les consommations 
+énergétiques, les émissions de CO₂ et les gaz à effet de serre tout en 
+améliorant la pratique sportive (nouveaux éclairages performants, 
+meilleure température intérieure, vestiaires et douches en 
+parfait état, ventilation améliorée, revêtement sportif renouvelé). 
+En 2025, pas moins de 26 chantiers ont été réceptionnés et au total, 
+une réduction moyenne des consommations d’énergie primaire de 
+55 % a été constatée, ainsi qu’une réduction annuelle des émissions 
+de CO₂ de 4 300 tonnes.  
+Ces chantiers ont été cofinancées par la Wallonie et l’Union 
+européenne.
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025 43
+---PAGE 44---
+44
+une administration partenaire
+Carburants alternatifs et décarbonation : quelles 
+perspectives pour le transport fluvial sur le réseau 
+Seine-Escaut ?
+La décarbonation du transport fluvial constitue un axe central des 
+politiques européennes de transition énergétique. Sur le corridor 
+Seine–Escaut, cette ambition s’inscrit dans une démarche 
+structurée portée par le Groupement d’intérêt économique (GIE) 
+Seine–Escaut. En 2025, les trois premières phases du travail 
+stratégique ont permis d’analyser les solutions énergétiques 
+disponibles et d’identifier les infrastructures nécessaires.
+Chaque itinéraire du réseau présente des spécificités : volumes 
+transportés, nature des marchandises, typologie de flotte, profils 
+d’exploitation et implantation industrielle. Cela impose une 
+approche différenciée plutôt qu’une stratégie uniforme. Le cadre 
+réglementaire européen, encore peu contraignant, apporte une 
+visibilité utile mais laisse subsister des incertitudes freinant 
+certains investissements.
+Plusieurs options de carburants sont aujourd’hui envisagées mais 
+aucune solution unique ne s’impose : le choix dépend des usages, 
+de la disponibilité locale et des enjeux fiscaux. La transition reposera 
+donc sur une combinaison progressive de solutions, intégrant des 
+carburants de transition et des technologies émergentes.
+Pour réussir cette transition, quatre leviers sont essentiels :
+1. Des infrastructures flexibles capables d’accueillir plusieurs 
+carburants ;
+2. Une coordination européenne pour garantir la cohérence 
+du réseau ;
+3. La mobilisation des acteurs locaux autour de partenariats 
+innovants ; 
+4. Des modèles d’investissements importants, désormais 
+mieux sécurisés.
+Avec ses nombreux atouts tels que des infrastructures 
+structurantes, un tissu industriel dense et le soutien européen 
+à la décarbonation, le réseau Seine–Escaut est bien positionné 
+pour engager une transition graduée vers la neutralité carbone 
+d’ici 2050. Le GIE doit désormais transformer cette ambition 
+environnementale en actions concrètes, conciliant performance 
+environnementale et compétitivité économique.
+---PAGE 45---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+45
+La mobilité active en Wallonie
+Les Managers Piéton
+Le SPW Mobilité et Infrastructures propose une nouvelle formation « Manager Piéton ». 
+L’objectif ?  Soutenir et outiller les communes et autres collectivités dans le développement 
+d’une politique piétonne globale qui réponde aux besoins des usagers. En 2025, 50 nouveaux 
+managers Piéton ont été certifiés!
+Les Compteurs cyclo‑piétons
+En 2025, le SPW Mobilité et Infrastructures a renforcé son réseau de comptage cyclo-piéton 
+avec l’installation de 11 nouveaux dispositifs, portant la flotte totale à 81 compteurs posés 
+entre 2024 et 2025.
+Les premiers résultats confirment une dynamique positive, puisqu’entre novembre et 
+décembre 2024 et la même période en 2025, la fréquentation cycliste a augmenté de 25 %. 
+Cette progression concerne l’ensemble du territoire et tous les usages :
+Installés majoritairement sur des itinéraires dédiés aux usagers actifs (RAVeL, 
+Cyclostrades), les compteurs mesurent en continu la fréquentation à vélo et à pied. Ces 
+données permettent d’objectiver l’évolution des pratiques, d’orienter les aménagements 
+et d’alimenter l’Observatoire des Modes actifs dans le cadre des plans Wallonie cyclable et 
+Wallonie piétonne.
+Certaines diminutions locales observées en 2025 s’expliquent par des travaux ou des 
+incidents techniques et feront l’objet d’analyses complémentaires en 2026.
+ 
+Loisir 33%
+Urbain22%
+Rural30%
+Semi-urbain26%
+Mixte23%
+Utilitaire 44%
+---PAGE 46---
+Le rôle de la cellule de Maîtrise interne des risques en matière d’audit 
+La cellule de Maîtrise interne des risques (MIRA) constitue un interlocuteur privilégié pour 
+les organismes d’audit et de contrôle, publics (Cour des comptes, direction de l’Audit 
+interne, etc.) ou privés.  
+Dans ce cadre, elle prépare et accompagne les audits de type organisationnel menés au 
+sein du SPW Mobilité et Infrastructures. Elle assure le reporting et le monitoring des actions 
+de suivi issues de ces audits via un tableau de bord de suivi coordonné par la direction de 
+l’Audit interne (DAI). 
+Concrètement, une mission d’audit se déroule schématiquement en 4 phases : 
+• • Préparation ; 
+• • Réalisation ; 
+• • Conclusion ; 
+• • Suivi. 
+La cellule MIRA intervient au moment de la préparation et pour les opérations de suivi. 
+Le travail de préparation vise à organiser les réunions préparatoires avec l’organisme 
+de contrôle, à faciliter les contacts avec les services du SPW Mobilité et Infrastructures 
+concernés par l’audit, à fournir toute une série d’informations préalables mais aussi, par 
+exemple, à aider un service qui souhaiterait mener un audit en son sein à rédiger un cahier 
+des charges et à lancer la procédure de marché. 
+En 2025, la Cellule MIRA a accompagné deux audits : 
+Processus d’inspection et d’entretien des ouvrages d’art hydrauliques (mené par la direction 
+de l’Audit interne) ; 
+Respect de la vitesse autorisée sur les routes wallonnes (mené par la Cour des comptes). 
+Pour le suivi, la Cellule MIRA assiste les services pour élaborer les plans d’actions qui 
+permettront de répondre aux recommandations issues de l’audit. Elle se charge également 
+de vérifier annuellement l’état d’avancement de ces plans d’actions. Le suivi se fait au 
+travers du tableau de bord de suivi coordonné par la DAI. 
+Quelques 
+chiffres
+Fin 2025, ce tableau contenait 542 recommandations issues de 31 rapports. 61 % de 
+ces recommandations sont rencontrées et les actions y relatives clôturées. 
+46
+---PAGE 47---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+47
+Quelques 
+chiffres
+Déploiement de bornes de recharge électrique sur 
+le domaine communal
+Depuis 2024, le SPW Mobilité et Infrastructures collabore avec 
+les huit agences de développement territorial (ADT) au travers 
+d’un accord de coopération horizontale pour réaliser un projet de 
+déploiement d’infrastructures de recharge lente sur le domaine 
+communal. Celui-ci prévoit l’installation d’environ 1 600 bornes, 
+soit près de 3 000 points de charge, afin de renforcer le maillage 
+de proximité sur l’ensemble du territoire wallon. 
+L’objectif est de densifier le réseau de recharge, en milieu urbain 
+comme rural, pour offrir aux citoyens une solution de recharge 
+accessible partout en Wallonie. Un marché de concession a 
+été publié à l’été 2025 avec une date de remise des offres au 
+1er décembre. Une fois le concessionnaire désigné et notifié, 
+les installations pourront débuter dans le courant du premier 
+semestre 2026. Il s’agit du premier projet wallon d’ampleur, qui 
+marque une étape clé vers une mobilité électrique décarbonée 
+et accessible.
+Un convoi très exceptionnel  
+Un transport très exceptionnel a eu lieu entre 
+les berges de Dinant et la centrale électrique 
+d’Achêne. La cargaison ? Deux transformateurs 
+de 7 mètres de haut, 21 mètres de long et 
+plus de 5 mètres de large pesant chacun 500 
+tonnes. Chaque virage et chaque obstacle avait 
+été anticipé ainsi que la fermeture temporaire 
+tronçon par tronçon pour garantir la sécurité et 
+le bon déroulement des opérations. Au final, le 
+trajet de 14 km a pris 12 heures au convoi.
+---PAGE 48---
+48
+Les espaces subsidiés : une année charnière
+En 2025, la direction des Espaces publics subsidiés, a été marquée non seulement par 
+l’aboutissement des programmations en cours mais aussi par la transition vers un nouveau 
+modèle d’accompagnement des communes.
+Au total, 261 communes ont bénéficié d’un accompagnement sur plus de  800 projets 
+instruits, représentant 400 millions d’euros de subsides.
+PIMACI1  : des réalisations visibles sur le terrain
+L’année 2025 a vu l’achèvement de 495 projets PIMACI, axés sur :
+• • Des liaisons cyclo piétonnes continues et sécurisées ;
+• • La requalification d’espaces piétons ;
+• • Des connexions intermodales renforcées.
+Parmi les projets emblématiques, on peut citer :
+• • La reconversion d’un ancien tronçon ferroviaire entre Boussu et le futur parking de 
+délestage, connecté au mobipôle de Saint Ghislain ;
+• • La liaison rue Ferrer – rue Montavaux à Frameries, améliorant l’accessibilité locale.
+Ces aménagements contribuent à structurer le réseau cyclable, réduire la pression 
+automobile et renforcer l’intermodalité.
+1 Plan d’Investissement Mobilité Active Communal et Intermodalité
+---PAGE 49---
+Innovations et nouvelles technologies | Rapport activités SPW Mobilité et Infrastructures 2025
+49
+« Cœur de village » : renforcer les centralités locales
+L’appel à projets destiné aux communes de moins de 12 000 habitants s’est poursuivi en 
+2025, avec 72 projets réceptionnés ou en exécution.
+Parmi les exemples marquants :
+• • Marchin : l’ancienne place du village a été transformée en un espace piétonnier 
+convivial ;
+• • Thimister Clermont : le centre historique a été reconfiguré, conciliant accessibilité, 
+patrimoine et gestion des eaux.
+Une transition structurelle majeure en 2025-2026
+L’année 2025 a vu les cycles du PIC 2  et du PIMACI se clôturer, tandis que débute le FERI 
+(Fonds extraordinaire régional d’investissement), un nouveau mécanisme régional de 
+financement des investissements communaux.
+Dans ce contexte, la direction évolue vers un rôle davantage centré sur :
+• • Le conseil ;
+• • La structuration des besoins ;
+• • Les choix techniques ;
+• • L’accompagnement jusqu’à la mise en service.
+2  Plan d’investissement communal 
+
+---PAGE 50---
+
+---PAGE 51---
+Les missions du SPW Mobilité et Infrastructures  
+vous intéressent ?  
+Retrouvez notre livret mission en scannant  
+ou en cliquant sur le QR code
+---PAGE 52---
+SPW
+Mobilité Infrastructures
+Rapport annuel 2025

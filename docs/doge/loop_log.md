@@ -6941,3 +6941,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_561=done spawn **rq_562**; ticks=570
 - FOI opened: none this tick
 - Next: prio5 **rq_562**; deferred **rq_116**; progress@580 in 10 ticks
+
+### 2026-07-31T10:40:00Z - tick 571
+- Unit: **rq_562** (FOI-adjacent hole-fill - **SOFICO comptes 2025 dual AWV roads**)
+- Found (strong primary SOFICO comptes AG 24 Apr 2026 + SPW MI RA2025 ops):
+  - **CA EUR 502.8m** (491.0m 2024); ventes **507.0m**; op profit **107.4m**; **net 111.7m** (+10.9%)
+  - **Costs:** services **215.6m**; amort **175.6m**; personnel **6.3m** (FTE **49.5**)
+  - **Balance:** assets **3.017bn**; equity **2.305bn** (cap sub **309.6m**); LT fin debt **467.6m**; cash **224.6m**
+  - **Invest:** land/buildings acq **245.8m** 2025
+  - **Dual roads:** AWV VEK **1.19bn**/VAK **1.02bn** 2024 class vs SOFICO SOE CA **503m** (different perimeter)
+  - SPW MI ops: lock invest class **129m** (50% EU); dual SOFICO domain
+- Wrote: sources +3; budgets +25; cmt +3; lb +6; FOI **gap_sofico_works_l5_2025** ready+draft; raw PDFs; entity; rq_562=done spawn **rq_563**; ticks=571
+- FOI opened: gap_sofico_works_l5_2025 (ready, human send) - not sent; gap_awv_sofico_l5 partial
+- Next: prio5 **rq_563**; deferred **rq_116**; progress@580 in 9 ticks
