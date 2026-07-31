@@ -9702,3 +9702,49 @@ bud_bipt_saldo_2027,bipt,2027,25000000,,,budgeted,src_kamer_expose_consol_multiy
 bud_dexia_holding_saldo_2027,sec_federal,2027,-4900000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Dexia Holding -4.9m 2027; tick549
 bud_dexia_holding_saldo_2029,sec_federal,2029,4000000,,,budgeted,src_kamer_expose_consol_multiyear_2027_29,strong,Table38 Dexia Holding +4.0m 2029; tick549
 bud_dual_spb_t7_vs_t32_2026,sec_federal,2026,1299000000,,,derived,src_kamer_expose_e1_spb_oneoffs_2025_26,medium,Dual Table7 SPB -11.601 vs Table32 -12.9 = ~1.3bn path method residual; tick549
+bud_fed_fiscal_esa_total_2024,fod_finance,2024,155889000000,,,outturn,src_kamer_expose_fiscal_receipts_2026,strong,Table1/6 ESA total fiscal receipts fed-collected 155889m 2024; tick551
+bud_fed_fiscal_esa_total_2025,fod_finance,2025,158099700000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table1/6 ESA total fiscal 158099.7m 2025 monitoring; tick551
+bud_fed_fiscal_esa_total_2026,fod_finance,2026,163805500000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table6 ESA total fiscal 163805.5m 2026 (+5.706bn / +3.6pct); tick551
+bud_fed_direct_tax_esa_2025,fod_finance,2025,96728300000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table1 direct taxes ESA 96728.3m 2025; tick551
+bud_fed_direct_tax_esa_2024,fod_finance,2024,94864500000,,,outturn,src_kamer_expose_fiscal_receipts_2026,strong,Table1 direct taxes ESA 94864.5m 2024; tick551
+bud_bvh_esa_2024,fod_finance,2024,63276800000,,,outturn,src_kamer_expose_fiscal_receipts_2026,strong,Table1/6 bedrijfsvoorheffing ESA 63276.8m 2024; tick551
+bud_bvh_esa_2025,fod_finance,2025,65987700000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,BVH ESA 65987.7m 2025; tick551
+bud_bvh_esa_2026,fod_finance,2026,66841400000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,BVH ESA 66841.4m 2026 (+853.7m); tick551
+bud_vat_esa_total_2024,fod_finance,2024,41713000000,,,outturn,src_kamer_expose_fiscal_receipts_2026,strong,VAT ESA total 41713.0m 2024; tick551
+bud_vat_esa_total_2025,fod_finance,2025,41934500000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,VAT ESA total 41934.5m 2025; tick551
+bud_vat_esa_total_2026,fod_finance,2026,45148500000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,VAT ESA total 45148.5m 2026 (+3214m / +7.7pct); tick551
+bud_vat_pure_esa_2025,fod_finance,2025,37825200000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Pure VAT ESA 37825.2m 2025; tick551
+bud_vat_pure_esa_2026,fod_finance,2026,40274300000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table5 pure VAT ESA 40274.3m 2026; tick551
+bud_venb_esa_2025,fod_finance,2025,26142700000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table5 VenB ESA 26142.7m 2025; tick551
+bud_venb_esa_2026,fod_finance,2026,26748200000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table5 VenB ESA 26748.2m 2026; tick551
+bud_venb_va_esa_2026,fod_finance,2026,21966100000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,VenB advances ESA 21966.1m 2026; tick551
+bud_rv_total_esa_2025,fod_finance,2025,7612400000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Roerende voorheffing total ESA 7612.4m 2025; tick551
+bud_rv_total_esa_2026,fod_finance,2026,7990000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,RV total ESA 7990.0m 2026; tick551
+bud_rv_natural_esa_2026,fod_finance,2026,7291700000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table5 RV natural persons ESA 7291.7m 2026; tick551
+bud_excise_esa_2025,fod_finance,2025,11216100000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Excise+divers ESA 11216.1m 2025; tick551
+bud_excise_esa_2026,fod_finance,2026,11211400000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Excise ESA 11211.4m 2026; tick551
+bud_customs_esa_2025,fod_finance,2025,3304900000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Customs ESA 3304.9m 2025 dual EU; tick551
+bud_customs_esa_2026,fod_finance,2026,3401900000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Customs ESA 3401.9m 2026 dual EU financing; tick551
+bud_registration_esa_2025,fod_finance,2025,2157100000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Registration rights ESA 2157.1m 2025; tick551
+bud_registration_esa_2026,fod_finance,2026,2259500000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Registration ESA 2259.5m 2026; tick551
+bud_inheritance_esa_2025,fod_finance,2025,1283600000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Inheritance ESA 1283.6m 2025; tick551
+bud_inheritance_esa_2026,fod_finance,2026,1253300000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Inheritance ESA 1253.3m 2026; tick551
+bud_va_total_esa_2025,fod_finance,2025,23184800000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Voorafbetalingen total ESA 23184.8m 2025; tick551
+bud_va_total_esa_2026,fod_finance,2026,23700500000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Voorafbetalingen total ESA 23700.5m 2026; tick551
+bud_pb_global_product_2026,fod_finance,2026,62370000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table5 global PB product current law 62370.0m 2026; tick551
+bud_fed_fiscal_cash_third_2025,fod_finance,2025,91100400000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table8 cash third-party+assigned fiscal 91100.4m 2025; tick551
+bud_fed_fiscal_cash_third_2026,fod_finance,2026,92508300000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table8 cash third-party+assigned 92508.3m 2026; tick551
+bud_fed_fiscal_middelen_cash_2025,fod_finance,2025,62247200000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table9 Middelen fiscal cash 62247.2m 2025; tick551
+bud_fed_fiscal_middelen_cash_2026,fod_finance,2026,65434500000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table9 Middelen fiscal cash 65434.5m 2026 (+3.187bn); tick551
+bud_bvh_cash_third_2026,fod_finance,2026,34004700000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table10 BVH cash third-party path 34004.7m 2026; tick551
+bud_bvh_middelen_cash_2026,fod_finance,2026,28080600000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table9 BVH Middelen cash 28080.6m 2026; tick551
+bud_tech_russian_cit_interest_2025,fod_finance,2025,-1260000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 tech: VenB profits frozen Russian assets interest -1260m 2025; tick551
+bud_tech_russian_cit_interest_2026,fod_finance,2026,1163000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 tech: VenB Russian frozen interest +1163m 2026; tick551
+bud_tech_vat_chain_2025,fod_finance,2025,1170000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3/5 VAT chain technical +1170m 2025; tick551
+bud_tech_bvh_reform_2026,fod_finance,2026,220800000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 BVH reform tech +220.8m 2026; tick551
+bud_tech_hedera_tbv_2026,fod_finance,2026,45700000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 HEDERA compensation TBV +45.7m 2026; tick551
+bud_tech_hedera_tcter_2026,fod_finance,2026,23100000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 HEDERA TCTER +23.1m 2026; tick551
+bud_tech_hedera_rv_2026,fod_finance,2026,-39200000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 HEDERA RV compensation -39.2m 2026; tick551
+bud_tech_bvh_inkohiering_2026,fod_finance,2026,-184000000,,,budgeted,src_kamer_expose_fiscal_receipts_2026,strong,Table3 BVH inkohiering rhythm -184m 2026; tick551
+bud_dual_fiscal_esa_vs_graph1_2026,fod_finance,2026,163805500000,,,derived,src_dual_fiscal_esa_graph1_tick551,strong,Dual Table6 ESA 163.8bn ~ Graph1 fiscal 164.3bn 2026; tick551
+bud_dual_middelen_vs_esa_wedge_2026,fod_finance,2026,98371000000,,,derived,src_dual_fiscal_esa_graph1_tick551,strong,Dual ESA 163.8 - Middelen cash 65.4 = assignment/third-party wedge ~98.4bn class; tick551

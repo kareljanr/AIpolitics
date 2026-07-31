@@ -6684,3 +6684,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_541=done spawn **rq_542**; ticks=550
 - FOI opened: none this tick
 - Next: prio5 **rq_542**; deferred **rq_116** SWA
+
+### 2026-07-31T09:00:00Z - tick 551
+- Unit: **rq_542** (FOI-adjacent hole-fill - **expose Part II fiscal receipts Tables1-10 ESA/cash dual**)
+- Found (strong primary DOC 56 1278/001 Part II Ch2; million-EUR):
+  - **ESA fiscal total:** 2024 **EUR 155.889bn** · 2025 **158.100** · 2026 **163.806** (+5.706 / +3.6%)
+  - **L5 2026 ESA:** BVH **66.841** · VAT **45.149** (pure **40.274**) · VenB **26.748** · RV **7.990** · excise **11.211** · customs **3.402**
+  - **Cash dual:** third-party+assigned **92.508bn** · Middelen **65.435bn** 2026
+  - **Tech factors:** Russian frozen CIT interest **-1.260 / +1.163bn**; VAT chain **+1.170bn** 2025; BVH reform **+221m**; HEDERA comps
+  - **Dual Graph1:** fiscal **164.3** ~ ESA **163.8**
+- Wrote: sources +2; budgets +46; cmt +4; lb +8; FOI **gap_fiscal_assignment_l5_2026** ready+draft; rq_542=done spawn **rq_543**; ticks=551
+- FOI opened: gap_fiscal_assignment_l5_2026 (ready, human send) - not sent
+- Next: prio5 **rq_543**; deferred **rq_116** SWA
