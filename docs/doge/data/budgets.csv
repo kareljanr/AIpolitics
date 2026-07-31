@@ -11625,3 +11625,26 @@ bud_do17_094_integration_cl_bi2025,wallonie_gov,2025,26500000,,,budgeted,src_ccr
 bud_do17_094_maisons_accueil_class,wallonie_gov,2025,44000000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Maisons accueil communautaires DF sum class ~44m eng=liq; facultative night-shelter cut ~4.7m
 bud_do17_095_creches_ce_bi2025,wallonie_gov,2025,14647000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 095 Creches petite enfance CE BI2025 14.647m path eng +2.482m
 bud_do17_095_creches_cl_bi2025,wallonie_gov,2025,12864000,,,budgeted,src_ccrek_do17_pouvoirs_locaux_bi2025,strong,Prog 095 CL BI2025 12.864m path liq +4.282m
+bud_do15_ce_ba2024,wallonie_gov,2024,672295000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,DO15 Agriculture RN env CE BA2024 672.295m
+bud_do15_cl_ba2024,wallonie_gov,2024,672373000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,DO15 CL BA2024 672.373m
+bud_do15_exec_class_ba2024,wallonie_gov,2024,352441000,,,outturn,src_ccrek_do15_agri_nature_bi2025,medium,DO15 exec class 352.441m BA2024 table
+bud_do15_path_eng_bi2025,wallonie_gov,2025,-35257000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,DO15 path eng -35.257m BI2025 vs BA2024
+bud_do15_path_liq_bi2025,wallonie_gov,2025,-67789000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,DO15 path liq -67.789m BI2025 vs BA2024
+bud_do15_056_transversal_ce_bi2025,wallonie_gov,2025,14572000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 056 transversal agri-env CE BI2025 14.572m path eng -8.477m
+bud_do15_056_transversal_cl_bi2025,wallonie_gov,2025,16038000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 056 CL BI2025 16.038m path liq -9.215m
+bud_do15_057_milieu_ce_bi2025,wallonie_gov,2025,88539000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 057 Develop etude milieu CE BI2025 88.539m
+bud_do15_057_milieu_cl_bi2025,wallonie_gov,2025,88599000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 057 CL BI2025 88.599m exec class 64.611m
+bud_do15_057_milieu_exec_class,wallonie_gov,2024,64611000,,,outturn,src_ccrek_do15_agri_nature_bi2025,medium,Prog 057 exec class 64.611m
+bud_do15_058_aides_ce_bi2025,opw_wallonie,2025,94210000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 058 Aides agriculture CE BI2025 94.210m path eng +2.072m
+bud_do15_058_aides_cl_bi2025,opw_wallonie,2025,94110000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 058 CL BI2025 94.110m path liq +2.128m exec 88.123m
+bud_do15_058_aides_exec_class,opw_wallonie,2024,88123000,,,outturn,src_ccrek_do15_agri_nature_bi2025,medium,Prog 058 exec class 88.123m high consumption
+bud_do15_059_animal_ce_bi2025,wallonie_gov,2025,2017000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 059 Bien-etre animal CE BI2025 2.017m
+bud_do15_059_animal_cl_bi2025,wallonie_gov,2025,1983000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 059 CL BI2025 1.983m
+bud_do15_060_nature_ce_bi2025,wallonie_gov,2025,21597000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 060 Nature Foret Chasse-peche CE BI2025 21.597m path eng -12.512m
+bud_do15_060_nature_cl_bi2025,wallonie_gov,2025,22106000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 060 CL BI2025 22.106m path liq -15.583m vs BA 37.689m
+bud_do15_060_nature_ce_ba2024,wallonie_gov,2024,34109000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 060 CE BA2024 34.109m
+bud_do15_061_espace_rural_ce_bi2025,wallonie_gov,2025,25625000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 061 Espace rural CE BI2025 25.625m path eng -10.995m
+bud_do15_061_espace_rural_cl_bi2025,wallonie_gov,2025,30191000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 061 CL BI2025 30.191m path liq -20.058m vs BA 50.249m
+bud_do15_062_air_eau_sol_ce_bi2025,wallonie_gov,2025,40322000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 062 Prevention Air Eau Sol CE BI2025 40.322m path eng -3.290m
+bud_do15_062_air_eau_sol_cl_bi2025,wallonie_gov,2025,40886000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Prog 062 CL BI2025 40.886m path liq -8.293m
+bud_do15_073_foncier_agri_bi2025,wallonie_gov,2025,625000,,,budgeted,src_ccrek_do15_agri_nature_bi2025,strong,Fonds politique fonciere agricole 073 CE=CL BI2025 0.625m path -1.318m vs BA 1.943m

@@ -7622,3 +7622,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_coa_do_wave_l5_matrix_2025 ready+draft; rq_631=done spawn rq_632; ticks=640
 - FOI opened: gap_dual_coa_do_wave_l5_matrix_2025 (ready, human send) - not sent
 - Next: prio5 **rq_632**; deferred **rq_116**; progress@650 in 10 ticks
+
+### 2026-08-01T02:00:00Z -- tick 641
+- Unit: rq_632 (FOI-adjacent dual agri/nature hole-fill -- **DO15 Agriculture RN env** CoA dual Landbouw/ANB/VMM)
+- Found: **DO15** (primary CoA): BI2025 CE **EUR637.0m** / CL **EUR604.6m** (path eng **-EUR35.3m** / liq **-EUR67.8m**; exec class **EUR352.4m**). **Prog 058 Aides agri:** CE **EUR94.2m** / CL **EUR94.1m** (path **+EUR2.1m**; exec **EUR88.1m**). **Prog 060 Nature/Foret:** CE **EUR21.6m** / CL **EUR22.1m** (path eng **-EUR12.5m** / liq **-EUR15.6m** vs BA CL **EUR37.7m**). **Prog 061 Espace rural:** CE **EUR25.6m** / CL **EUR30.2m** (path liq **-EUR20.1m** vs BA **EUR50.2m**). **Prog 057 milieu:** CL **EUR88.6m**. **Prog 062 Air/Eau/Sol:** CL **EUR40.9m** (path liq **-EUR8.3m**). **Prog 056 transversal:** path eng **-EUR8.5m**. Dual **Landbouw** VEK class **EUR140.8m** + **ANB** apparaatrek **EUR49.5m** + VMM/CRA-W/OPW prior. Strong confidence CoA; L5 residual FOI.
+- Wrote: budgets (+23); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do15_agri_nature_l5_2025; rq_632=done; spawn rq_633; loop_state ticks=641
+- FOI opened: gap_do15_agri_nature_l5_2025 -- ready (not sent)
+- Next: rq_633; progress@650 in 9 ticks; rq_116 deferred
