@@ -11363,3 +11363,17 @@ bud_sofico_bhns_received_class,sofico,2024,27600000,,,outturn,src_ccrek_sofico_b
 bud_sofico_bhns_spent_class,sofico,2024,3700000,,,outturn,src_ccrek_sofico_budget_bi2025,strong,CoA: Sofico BHNS Charleroi depenses 3.7m vs receipts 27.6m; tick623
 bud_sofico_liq_10m_2024_pimpt_prw,sofico,2024,156000000,,,outturn,src_ccrek_sofico_budget_bi2025,strong,CoA: invest liquidated 10 months 2024 156.0m (PIMPT 129.8 + PRW 26.2); tick623
 bud_dual_sofico_awv_budget_class_2025,gg_belgium,2025,570600000,,,budgeted,src_dual_sofico_awv_budget_tick623,strong,Sofico dep budget 570.6m BI2025 dual AWV GIP invest class not additive; tick623
+bud_otw_rw_subs_path_delta_2024_25,tec,2025,-35900000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA s8.5: RW subventions to OTW path -35.9m BI2025 vs BI2024 (incl PIMPT+PRW); tick624
+bud_otw_ab4602_expl_path_plus_63_5m,tec,2025,63500000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: AB46.02 exploitation intervention path +63.5m BI2025 (CSP index + quasi-gratuite was PRW 30.3m); tick624
+bud_otw_quasi_gratuite_prw_shift_30_3m,tec,2025,30300000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: quasi-gratuite compensation 30.3m shifted from PRW into AB46.02 expl path; tick624
+bud_otw_ab4601_scolaire_path_plus_13_4m,tec,2025,13400000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: AB46.01 transport scolaire path +13.4m (prefinancement 11.8m 2023-for-2024 effect); tick624
+bud_otw_scolaire_prefin_11_8m_class,tec,2024,11800000,,,outturn,src_ccrek_otw_subs_path_bi2025,strong,CoA: OTW prefinancement scolaire 11.8m received 2023 for year 2024; tick624
+bud_otw_ab661102_tram_liege_budget_46_9m,tec,2025,46900000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: AB66.11.02 tram Liege reimbursement budget 46.9m BI2025 path -21.6m vs BI2024; tick624
+bud_otw_tram_liege_path_minus_21_6m,tec,2025,-21600000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: tram Liege rembours path -21.6m BI2025 vs BI2024; tick624
+bud_otw_prw_rec_budget_78_4m_2025,tec,2025,78400000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: OTW PRW recettes budget 78.4m BI2025 path -66.3m; RW CL not on specific address; tick624
+bud_otw_prw_rec_path_minus_66_3m,tec,2025,-66300000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: PRW recettes path -66.3m BI2025 vs BI2024; tick624
+bud_otw_invest_pimpt_prw_146_8m_2025,tec,2025,146800000,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,CoA: OTW invest PIMPT+PRW subset 146.8m of total invest budget 315.9m BI2025; tick624
+bud_otw_invest_other_169_1m_2025,tec,2025,169100000,,,budgeted,src_ccrek_otw_subs_path_bi2025,medium,Derived: invest 315.9m minus PIMPT+PRW 146.8m = 169.1m other invest BI2025; tick624
+bud_otw_sec_solde_bi2025,tec,2025,-139363600,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,Derived SEC solde BI2025: 1018.39367m - 1157.75727m = -139.4m CoA note; tick624
+bud_otw_pimpt_prw_cons_rate_2023,tec,2023,59,,,outturn,src_ccrek_otw_subs_path_bi2025,strong,CoA: consommation credits liquidation PIMPT+PRW 59pct 2023 (51.3m of 86.4m); not EUR; tick624
+bud_dual_otw_delijn_company_dep_2025,gg_belgium,2025,1200600000,,,budgeted,src_dual_otw_delijn_subs_tick624,strong,OTW company dep 1.201bn BI2025 dual De Lijn PT class not additive; tick624

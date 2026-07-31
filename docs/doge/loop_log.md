@@ -7477,3 +7477,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update sofico; budgets (+16); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_sofico_budget_execution_l5_2025; rq_614=done; spawn rq_615; loop_state ticks=623
 - FOI opened: gap_sofico_budget_execution_l5_2025 -- ready (not sent)
 - Next: rq_615; progress@630 in 7 ticks; rq_116 deferred
+
+### 2026-07-31T21:45:00Z -- tick 624
+- Unit: rq_615 (FOI-adjacent dual PT hole-fill deepen -- **OTW** CoA s8.5 subsidy L5 path)
+- Found: **OTW/TEC** (primary CoA s8.4/8.5 path detail). Company BI2025 rec **EUR1.088.8m** / dep **EUR1.200.6m**; SEC **EUR1.018.4m** / **EUR1.157.8m** solde **-EUR139.4m**. **RW subs path -EUR35.9m** vs BI2024: expl AB46.02 **+EUR63.5m** (quasi-gratuite PRW shift **EUR30.3m**); scolaire **+EUR13.4m**; tram Liege **EUR46.9m** path **-EUR21.6m**; PRW rec **EUR78.4m** path **-EUR66.3m**. Invest **EUR315.9m** of which PIMPT+PRW **EUR146.8m** (cons 2023 **59pct**). Dual **De Lijn**. Strong confidence CoA; absolute AB series residual FOI.
+- Wrote: entity update tec; budgets (+14); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_otw_ab_series_absolute_l5_2025; rq_615=done; spawn rq_616; loop_state ticks=624
+- FOI opened: gap_otw_ab_series_absolute_l5_2025 -- ready (not sent)
+- Next: rq_616; progress@630 in 6 ticks; rq_116 deferred

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T21:30:00Z,rq_614,623,no,tick623 Sofico budget dep 570.6m dual AWV; next rq_615; progress@630 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T21:45:00Z,rq_615,624,no,tick624 OTW CoA subs path -35.9m dual De Lijn; next rq_616; progress@630 in 6; rq_116 deferred
