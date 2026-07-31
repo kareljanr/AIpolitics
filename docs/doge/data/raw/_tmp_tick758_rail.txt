@@ -1,0 +1,450 @@
+﻿p201| B.A. 33 51 01 110003: Bezoldigingen en allerhande
+p201| toelagen: vast en stagedoend statutair personeel.
+p201| A.B. 33 51 01 110003  : R├⌐mun├⌐rations et allocations
+p201| Vastleggingen 7.429 7.151 7.829 7191 7.056 6.921 Engagements
+p201| Vereffeningen 7.429 7.151 7.829 7.191 7.056 6.921 Liquidations
+p202| B.A. 33 51 01 110004: Bezoldigingen en allerhande
+p202| toelagen: ander dan statutair personeel.
+p202| A.B. 33 51 01 110004  : R├⌐mun├⌐rations et allocations
+p202| Vastleggingen 0 58 250 250 250 250 Engagements
+p202| Vereffeningen 0 58 250 250 250 250 Liquidations
+p203| B.A. 33 51 02 121101: Bestendige uitgaven voor de
+p203| A.B. 33 51 02 121101  : D├⌐penses permanentes pour
+p203| Vastleggingen 821 600 1.097 1.086 1.074 1.063 Engagements
+p203| Vereffeningen 802 600 1.097 1.086 1.074 1.063 Liquidations
+p205| Index werkingskredieten en investeringskredieten
+p206| NMBS en Infrabel als tussen CAPEX en OPEX  is
+p206| SNCB et Infrabel ainsi quΓÇÖentre CAPEX et OPEX  est
+p206| (opdrachten van openbare dienst van NMBS), art.
+p206| 199 (opdrachten van Infrabel);
+p206| dΓÇÖInfrabel) ;
+p206| - meerjareninvesteringsplan 2023 -2032 van de
+p206| NMBS en Infrabel;
+p206| SNCB et dΓÇÖInfrabel
+p206| NMBS en het performantiecontract 2023- 2032
+p206| tussen de Staat en Infrabel, goedgekeurd door de
+p206| performance entre lΓÇÖEtat et dΓÇÖInfrabel 2023- 2032,
+p206| recht NMBS en bericht betreffen de de
+p206| Infrabel);
+p206| anonyme de droit public Infrabel  ;
+p206| investeringstoelage van de NMBS met
+p206| exploitatietoelage met 6.000.000 euro2009 voor
+p206| vermindering van de investeringstoel age van
+p206| Infrabel met 200.000.000 euro voor 2009, die
+p206| exploitatietoelage met 10.000.000  euro2009 vanaf
+p206| majoration de la subvention dΓÇÖexploitation de
+p206| de la subvention dΓÇÖinvestissement dΓÇÖInfrabel de
+p206| majoration de la subvention dΓÇÖexploitation de
+p207| de NMBS -Holding, dat door de Ministerraad op
+p207| en de NMBS -Holding betreffende de financiering
+p207| (overdracht van het GEN -Fonds naar de NMBS
+p207| ΓÇ£Effici├½ntiewinsten structuren NMBS: Door een
+p207| overheadkosten wordt de subsidie van de NMBS
+p207| verlaagd. Er wordt niet bespaard op de investeringen
+p207| van Infrabel om een veroudering van de
+p207| investissements dΓÇÖInfrabel pour ├⌐viter dΓÇÖentrainer un
+p207| 10. Spoorwegexploitatie  10. Exploitation ferroviaire
+p208| contractuele compensatietraject van de NMBS, zoals
+p208| NMBS.
+p208| NMBS bepaald onder andere: ΓÇ£2.  De jaarlijkse
+p208| stortingen, door de Staat aan NMBS, van de geraamde
+p208| waarde van de Investeringscompensatie, de Variabele
+p208| Compensatie en de Vaste Exploitatiecompensatie
+p208| Compensatie en de Vaste Exploitatiecompensatie, en
+p208| voorschotten van de Vaste Exploitatiecompensatie en
+p208| Fixe dΓÇÖExploitation pour lΓÇÖann├⌐e T sont effectu├⌐s le 25
+p208| dΓÇÖExploitation et pay├⌐ de mani├¿re report├⌐e comme
+p208| acomptes de la Compensation Fixe dΓÇÖExploitation et
+p209| Art 144. Storting van de exploitatietoelage van het
+p209| performantiecontract 2023- 2032 met Infrabel bepaalt
+p209| Infrabel van zijn jaarlijkse exploitatietoelages
+p209| Art 144. Versement de la subvention d'exploitation de
+p209| contrat de performance 2023- 2032 avec Infrabel
+p209| Infrabel, de ses subventions annuelles dΓÇÖexploitation
+p209| Indexering van de exploitatiesubsidie  Indexation de la subvention dΓÇÖexploitation
+p209| Beheerscontract NMBS 2023- 2032: art 119 3.  bijlage
+p209| Performantiecontract Infrabel 2023- 2032 : art 142-143
+p209| Contrat de performance Infrabel 2023- 2032 : art 142-
+p209| De exploitatie -index is gebaseerd op twee indexen
+p209| LΓÇÖindexation exploitation est bas├⌐e sur deux indices
+p209| De exploitatie -index is bij de NMBS en bij Infrabel
+p209| Bij Infrabel bedragen de definitieve referentiewaarden
+p209| 2032 tussen de Staat en Infrabel).
+p209| Bij de NMBS bedragen de definitieve
+p209| 2023-2032 tussen de Staat en de NMBS , worden als
+p209| ├Ç la SNCB et chez Infrabel, l'indice d'exploitation est
+p209| Chez Infrabel, les valeurs de r├⌐f├⌐rence finales sont
+p209| 2032 entre l'Etat et Infrabel).
+p210| (1,085879/1,055471 (Infrabel) en 1,138109/1,106243
+p210| (NMBS)).
+p210| (Infrabel) et 1,138109/1,106243 (SNCB) ).
+p210| Infrabel
+p210| NMBS
+p210| B.A. 33 51 10 312107: Bijdrage voor maatregelen die
+p210| ten voordele van de NMBS.
+p210| A.B. 33 51 10 312107 : Contribution pour des mesures
+p210| Vastleggingen 39.876 41.200 42.500 43.800 45.800 48.300 Engagements
+p210| Vereffeningen 39.876 41.200 42.500 43.800 45.800 48.300 Liquidations
+p211| 2032 tussen de Staat en de NMBS, artikel 40 (gratis
+p211| contractuele limiet van de toelage overschrijden en het
+p211| saldo ten laste van de NMBS. Het oude
+p211| leggen maar de NMBS heeft dit niet gedaan om
+p211| NMBS /
+p212| B.A. 33 51 10 312202: Bijdrage voor het binnenlands
+p212| dienst, ten gunste van de NMBS .
+p212| A.B. 33 51 10 312202  : Contribution pour le transport
+p212| Vastleggingen 645.545 715.195 706.713 699.856 638.056 599.389 Engagements
+p212| Vereffeningen 645.545 715.195 706.713 699.856 638.056 599.389 Liquidations
+p212| Exploitatiecompensatie)
+p212| Compensation Fixe dΓÇÖExploitation)
+p213| NMBS bijkomende structurele middelen toegekend om
+p213| NMBS om prijsverhoging tegen te gaan. De regering
+p213| NMBS dd. 11/03/22 om de vervoertickets vanaf juli
+p213| zal de NMBS gecompenseerd worden voor het
+p213| ΓÇ£Beheerscontracten NMBS en Infrabel
+p213| voorstellen van nieuwe beheerscontracten voor NMBS
+p213| en Infrabel mogelijk te maken.
+p213| ┬½ Contrats de gestion SNCB/Infrabel
+p213| gestion pour la SNCB et Infrabel.
+p213| BA 33.51.10.31.22.02 NMBS Opex: 2023: 60.000 .000
+p213| De aldus aangepaste basisdotaties zullen
+p213| Les dotations de base ainsi adapt├⌐es seront index├⌐es
+p214| B.A. 33 51 10 312218: Variabele exploitatietoelage,
+p214| ten gunste van NMBS.
+p214| A.B. 33 51 10 312218  : Subvention dΓÇÖexploitation
+p214| Vastleggingen 440.063 550.032 556.750 601.489 621.213 646.856 Engagements
+p214| Vereffeningen 440.063 550.032 556.750 601.489 621.213 646.856 Liquidations
+p214| Variabele toelage: Subvention variable :
+p214| de Staat en de NMBS ΓÇô  artikel 118 (de Variabele
+p214| overleg tussen NMBS en
+p215| Exploitatiecompensatie, en uitgesteld betaald zoals
+p215| Exploitatiecompensatie en de Variabele Compensatie
+p215| dΓÇÖExploitation et pay├⌐ de mani├¿re report├⌐e comme
+p215| acomptes de la Compensation Fixe dΓÇÖExploitation et
+p215| B.A. 33 51 10 414001: Interventie op treinpadkosten
+p215| A.B. 33 51 10 414001  : Intervention sur les frais de
+p215| Vastleggingen 1.000 0 1.000 1.000 1.000 1.000 Engagements
+p215| Vereffeningen 1.000 0 1.000 1.000 1.000 1.000 Liquidations
+p216| van de belemmeringen voor de exploitatie van
+p216| B.A. 33 51 10 414051: Infrabel: onderhoud, beheer.  A.B. 33 51 10 414051 : Infrabel : entretien, gestion.
+p216| 516.954 582.875 564.527 545.843 521.577 487.715 Engagements
+p216| 516.964 582.875 564.527 545.843 521.577 487.715 Liquidations
+p216| Infrabel, artikelen 142 (exploitatietoelage), 143
+p216| Contrat de performance entre lΓÇÖEtat et Infrabel 2023 -
+p216| 2032, articles 142 (subside dΓÇÖexploitation), 143
+p216| De indexeringsparameters voor de exploitatietoelagen
+p216| spoorwegexploitatieΓÇ¥. Het mechanisme van overdracht
+p216| dΓÇÖexploitation sont d├⌐taill├⌐s plus haut au point ┬½ 10
+p216| exploitation ferroviaire ┬╗. Le m├⌐canisme de report
+p217| ΓÇ£Beheerscontracten NMBS en Infrabel
+p217| voorstellen van nieuwe beheerscontracten voor NMBS
+p217| en Infrabel mogelijk te maken.
+p217| ┬½ Contrats de gestion SNCB/Infrabel
+p217| gestion pour la SNCB et Infrabel.
+p217| BA 33.51.10.41.40.51 Infrabel Opex:
+p217| BA 33.51.10.41.40.51 Infrabel Opex :
+p217| B.A. 33 51 10 414053: Infrabel  : diabolo. A.B. 33 51 10 414053 : Infrabel: diabolo.
+p217| Vastleggingen 12.469 12.822 13.231 13.231 13.231 13.231 Engagements
+p217| Vereffeningen 12.469 12.822 13.231 13.231 13.231 13.231 Liquidations
+p218| tussen de Belgische Staat en Infrabel ΓÇô  artikel 139
+p218| conclu entre lΓÇÖEtat belge et Infrabel ΓÇô  Article 139
+p218| B.A. 33 51 10 414054: Infrabel: PPS Liefkenshoek.  A.B. 33 51 10 414054 : Infrabel: PPP Liefkenshoek.
+p218| Vastleggingen 52.855 51.775 51.880 51.880 51.880 51.880 Engagements
+p218| Vereffeningen 52.855 51.775 51.880 51.880 51.880 51.880 Liquidations
+p218| tussen de Staat en Infrabel ΓÇô artikel 140 voorziet een
+p218| conclu entre lΓÇÖEtat belge et Infrabel ΓÇô  Article 140
+p218| Deze exploitatietoelage moet Infrabel toelaten om
+p218| Cette subvention dΓÇÖexploitation doit permettre ├á
+p218| Infrabel de rencontrer ses obligations dans le cadre du
+p219| 11. Spoorweginvesteringen  11. Investissements ferroviaires
+p219| tussen de Staat en de NMBS: Hoofdstukken X.
+p219| investeringen en XI. Compensatie en financi├½le
+p219| Infrabel: Hoofdstukken V. Ontwerp, uitvoering en
+p219| opvolging van de investeringen en VI. Compensatie en
+p219| Financiering van de investeringen, 126 (jaarlijkse
+p219| basisinvesteringstoelage), 131 (indexering van de
+p219| basisinvesteringstoelage.
+p219| belge et Infrabel  : Les chapitres V. Conception,
+p219| Indexatie van de investeringssubsidie  Indexation de la subvention dΓÇÖinvestissement
+p219| Performantiecontract Infrabel: artikel 131  Contrat de Performance 2023 -2032 Infrabel  : article
+p219| Beheerscontract NMBS: bijlage 22, artikel x4 ┬º 1 en 4.  Contrat de gestion SNCB : Annexe 22, article x4 ┬º 1 et
+p220| de investeringssubsidie is de volgende:
+p220| Investering index T :
+p220| De investeringsindex is gebaseerd op twee indexen
+p220| De investeringsindex bij de NMBS en bij Infrabel zijn
+p220| Bij Infrabel bedragen de definitieve referentiewaarden
+p220| 2032 tussen de Staat en Infrabel).
+p220| Bij de NMBS bedragen de definitieve
+p220| 2032 tussen de Staat en de NMBS worden als
+p220| L'indice d'investissement de la SNCB et celui d'Infrabel
+p220| Chez Infrabel, les valeurs de r├⌐f├⌐rence finales sont
+p220| 2023-2032 entre l'Etat et Infrabel).
+p220| Infrabel
+p221| NMBS
+p221| B.A. 33 51 11 511101: Deelname van de Staat in het
+p221| kapitaal van de NMBS met het oog op de financiering
+p221| van de investeringen, ten gunste van de NMBS.
+p221| A.B. 33 51 11 511101  : Participation de l'Etat dans le
+p221| Vastleggingen 807.087 1.009.413 904.874 661.280 633.508 645.961 Engagement
+p221| Vereffeningen 807.087 1.009.413 904.874 661.280 633.508 645.961 Liquidations
+p221| de Staat en de NMBS ΓÇô artikel 117
+p221| investeringssubsidie.
+p222| B.A. 33 51 11 511102: Deelname van de Staat in het
+p222| kapitaal van NMBS met het oog op de financiering van
+p222| de investeringen in rollend materieel voor ETCS, ten
+p222| gunste van NMBS.
+p222| A.B. 33 51 11 511102 : Participation de lΓÇÖEtat au capital
+p222| B.A. 33 51 11 511104:  Investeringen in bijkomende
+p222| spoorwegcapaciteit ten gunste van de NMBS.
+p222| A.B. 33 51 11 511104  : Investissements en capacit├⌐
+p222| Vastleggingen 8.360 8.632 7.667 2.051 2.092 1.803 Engagements
+p222| Vereffeningen 8.360 8.632 7.667 2.051 2.092 1.803 Liquidations
+p223| de Staat en de NMBS, artikel 120 a) ΓÇ£De aanvullende
+p223| MIA INFRABEL/
+p223| van INFRABEL
+p223| NMBS
+p223| INFRABEL /
+p223| INFRABEL
+p223| NMBS
+p224| B.A. 33 51 11 614151: Investeringen Infrabel  A.B. 33 51 11 614151 : Investissements Infrabel
+p224| Vastleggingen 1.178.744 1.227.048 1.268.646 1.263.673 1.296.778 1.279.049 Engagements
+p224| Vereffeningen 1.178.744 1.227.048 1.268.646 1.263.673 1.296.778 1.279.049 Liquidations
+p224| Zie punt 11 Spoorweginvesteringen voor de
+p224| + artikel 128 specifieke investeringssubsidie Belgisch
+p225| BAΓÇÖs (B.A. 33 51 10 414053 en 33 51 10 414054).
+p225| (A.B. 33 51 10 414053 et 33 51 10 414054).
+p225| B.A. 33 51 11 614153: Invest.Infrabel bijkomende
+p225| A.B. 33 51 11 614153  : Invest.Infrabel capacit├⌐
+p225| Vastleggingen 49.371 50.685 33.906 6.460 6.214 5.994 Engagements
+p225| Vereffeningen 49.371 50.685 33.906 6.460 6.214 5.994 Liquidations
+p225| en Infrabel: artikel 129 Specifieke jaarlijkse
+p225| Meerjareninvesteringsplan)
+p225| belge et Infrabel : article 129 Contribution f ├⌐d├⌐rale
+p225| MIA INFRABEL/
+p225| van INFRABEL
+p225| NMBS
+p225| INFRABEL /
+p225| INFRABEL
+p225| NMBS
+p226| B.A. 33 51 11 614256 : Terugbetaling. Infrabel lening
+p226| A.B. 33 51 11 614256  : Remboursement.  Infrabel
+p226| Vastleggingen 7.970 7.970 7.970 7.970 7.970 7.970 Engagements
+p226| Vereffeningen 7.970 7.970 7.970 7.970 7.970 7.970 Liquidations
+p226| tussen de Staat en Infrabel ΓÇô artikel 141 voorziet een
+p226| conclu entre lΓÇÖEtat belge et Infrabel ΓÇô Article 141
+p227| Overeenkomstig het prefinancieringscontract met
+p227| terugbetaling van het kapitaal van de lening die
+p227| Infrabel heeft aangegaan.
+p227| Infrabel.
+p227| De Staat kent aan Infrabel van 2021 tot 2049 een
+p227| jaarlijkse specifieke toelage van 7.969.737,55 euro
+p227| deze lening.
+p227| euros courant est allou├⌐e par lΓÇÖ├ëtat ├á Infrabel de 2021
+p227| Deze toelage is niet ge├»ndexeerd. Cette subvention nΓÇÖest pas index├⌐e.
+p228| Deze specifieke toelage wordt door de Staat aan
+p228| Infrabel gestort volgens het terugbetalingsschema dat
+p228| is vastgelegd in het prefinancieringscontract met
+p228| Infrabel selon lΓÇÖ├⌐chelonnement des remboursements
+p228| 12 Terugbetaling leningen  12 Remboursement emprunts
+p228| NMBS: bijlage 22, Artikel X13. Terugbetaling door de
+p228| materieel van het GEN van NMBS, ┬º 3. Financiering
+p228| van het nieuwe Desiro- materieel van NMBS, ┬º  4.
+p228| Infrabel: Art 137. Subsidies voor bijzondere missies,
+p228| et Infrabel  : Art 137. Subventions pour missions
+p228| B.A. 33 51 12 211001: Terugbetaling lening NMBS
+p228| deel interesten.
+p228| A.B. 33 51 12 211001  : Remboursement emprunt
+p228| Vastleggingen 15.026 13.966 12.864 11.719 10.529 9.291 Engagements
+p228| Vereffeningen 15.026 13.966 12.864 11.719 10.529 9.291 Liquidations
+p229| B.A. 33 51 12 211051: Terugbetaling lening
+p229| INFRABEL deel interesten.
+p229| A.B. 33 51 12 211051  : Remboursement emprunt
+p229| INFRABEL partie int├⌐r├¬ts.
+p229| Vastleggingen 5.401 5.084 4.753 4.407 4.046 3.669 Engagements
+p229| Vereffeningen 5.401 5.084 4.753 4.407 4.046 3.669 Liquidations
+p229| B.A. 33 51 12 911001: Terugbetaling lening NMBS
+p229| A.B. 33 51 12 911001  : Remboursement emprunts
+p229| Vastleggingen 26.900 27.961 29.063 30.208 31.398 32.636 Engagements
+p229| Vereffeningen 26.900 27.961 29.063 30.208 31.398 32.636 Liquidations
+p229| B.A. 33 51 12 911051 : Terugbetaling lening
+p229| INFRABEL deel kapitaal.
+p229| A.B. 33 51 12 911051  : Remboursement emprunt
+p229| INFRABEL partie capital.
+p229| Vastleggingen 7.277 7.595 7.926 8.272 8.633 9.010 Engagements
+p229| Vereffeningen 7.277 7.595 7.926 8.272 8.633 9.010 Liquidations
+p229| B.A. 33 51 17 121122: Audits en studies betreffende
+p229| A.B. 33 51 17 121122 : Audits et ├⌐tudes relatifs aux
+p229| Vastleggingen 261 337 337 337 337 337 Engagements
+p229| Vereffeningen 187 331 331 331 331 331 Liquidations
+p230| Spoorvervoer: opvolging van de investeringen in de
+p230| investeringskosten verbonden aan de
+p230| opvolging van de investeringen in de veiligheid door
+p231| Aangezien de investeringen in spoorwegveiligheid niet
+p231| NMBS en Infrabel.
+p231| SNCB et ├á Infrabel.
+p231| B.A. 33 51 17 312203: Subsidies aan operatoren
+p231| A.B. 33 51 17 312203  : Subside aux op├⌐rateurs de
+p231| Vastleggingen 0 0 1.000 1.000 1.000 1.000 Engagements
+p231| Vereffeningen 0 0 1.000 1.000 1.000 1.000 Liquidations
+p231| BA 33.51.17.312220: OPEX NMBS leefbare en veilige
+p231| Vastleggingen 1.931 4.400 4.400 4.400 4.400 4.400 Engagements
+p231| Vereffeningen 1.931 4.400 4.400 4.400 4.400 4.400 Liquidations
+p232| cameranetwerk waarbij de beelden van de NMBS
+p232| NMBS en Infrabel buiten de bedragen voorzien door
+p232| ├á Infrabel en dehors des montants pr├⌐vus par leur
+p232| B.A. 33 51 17 354001: Aandeel van Belgi├½ in de
+p232| A.B. 33 51 17 354001 : Part contributive de la Belgique
+p232| Vastleggingen 70 77 79 79 79 79 Engagements
+p232| Vereffeningen 70 77 79 79 79 79 Liquidations
+p234| B.A. 33 51 17 511105: CAPEX NMBS leefbare en
+p234| A.B. 33 51 17 511105 : Capex SNCB gares vivables et
+p234| Vastleggingen 1.033 0 0 0 0 0 Engagements
+p234| Vereffeningen 1.033 0 0 0 0 0 Liquidations
+p234| de NMBS gedeeld worden met de lokale politiezones
+p234| NMBS en Infrabel buiten de bedragen voorzien door
+p234| ├á Infrabel en dehors des montants pr├⌐vus par leur
+p235| 18. HR Rail 18. HR Rail
+p235| B.A. 33 51 18 312201: Bijdrage tot dekking van kosten
+p235| van de NV van publiek recht HR Rail.
+p235| A.B. 33 51 18 312201 : Contribution destin├⌐e ├á couvrir
+p235| les co├╗ts d'exploitation de la SA de droit public HR
+p235| Vastleggingen 1.548 1.588 1.635 1.635 1.635 1.635 Engagements
+p235| Vereffeningen 1.548 1.588 1.635 1.635 1.635 1.635 Liquidations
+p235| de NMBS en het personeel van de Belgische
+p235| publiek recht, "HR -Rail" van een toelage ten laste
+p235| soci├⌐t├⌐ anonyme de droit public ┬½ HR-Rail ┬╗ dΓÇÖune
+p235| Een jaarlijkse toelage van 1.200.000  euro wordt
+p235| Pour cela, HR-Rail doit renvoyer un rapport d'activit├⌐s
+p236| - 40% van de toelage wordt uiterlijk op 15 januari
+p236| - 40% van de toelage wordt uiterlijk op 15 april
+p236| bijdrage tot dekking van de kosten aan HR Rail voor
+p236| couvrir les co├╗ts de HR Rail dans le cadre du budget
+p237| B.A. 33 51 70 121101: Werkingskosten duurzame
+p237| A.B. 33 51 70 121101  : Frais de fonctionnement
+p237| Vastleggingen 229 836 832 814 798 782 Engagements
+p237| Vereffeningen 430 836 832 814 798 782 Liquidations
+p241| Index werkingskredieten en investeringskredieten
+p242| B.A. 33 51 71 330001: Subsidies in het kader van het
+p242| A.B. 33 51 71 330001  : Subsides dans le cadre du
+p242| Vastleggingen 75 90 90 90 90 90 Engagements
+p242| Vereffeningen 60 90 90 90 90 90 Liquidations
+p243| 80: Toelagen in verband met de promotie van 80
+p243| B.A. 33 51 80 312203: Steun voor de modal shift naar
+p243| A.B. 33 51 80 312203 : Soutien au transfert modal vers
+p243| Vastleggingen 24.846 13.246 11.246 11.246 11.246 11.246 Engagements
+p243| Vereffeningen 28.039 13.246 11.246 11.246 11.246 11.246 Liquidations
+p245| 31 december 2025. Infrabel zal hiervoor dan een
+p245| 31 d├⌐cembre 2025. Infrabel re├ºoit une compensation
+p248| dienstverlening in overeenstemming met de
+p250| investeringsprogramma en heeft ze een belangrijk
+p255| technische exploitatie van luchtvaartuigen.
+p255| lΓÇÖexploitation technique des a├⌐ronefs.
+p255| Deze dienst levert exploitatievergunningen af aan
+p255| de commerci├½le voorwaarden voor exploitatie.
+p255| Ce service d├⌐livre des licences d'exploitation aux
+p255| conditions commerciales d'exploitation.
+p255| Le service exploitations sp├⌐cialis├⌐es traite les dossiers
+p255| autorisations dΓÇÖexploitation sp├⌐cialis├⌐es commerciales
+p255| concernant lΓÇÖexploitation de ballons.
+p256| exploitatievergunningen van de Belgische
+p256| d'exploitation des compagnies a├⌐riennes belges  ;
+p256| van de dossiers handelsluchtvaartexploitatie;
+p256| dossiers d'exploitation des compagnies a├⌐riennes
+p256| ΓÇó d├⌐livrance des autorisations dΓÇÖexploitations
+p259| aspecten betreffende de exploitatie van civiele drones
+p259| relatifs ├á lΓÇÖexploitation des drones  civils (UAS) en
+p259| exploitanten wier exploitatie een risico voor de
+p259| exploitatievergunningen, verklaringen,
+p259| les exploitants d'UAS dont l'exploitation peut
+p259| les autorisations d'exploitation d'UAS, les
+p260| met betrekking tot de exploitatie van drones om haar
+p260| li├⌐s ├á lΓÇÖexploitation des drones afin de rendre ses
+p261| telecommunicatie), met skeyes en met Defensie;
+p261| t├⌐l├⌐communications), skeyes et la D├⌐fense  ;
+p261| Staat en skeyes.
+p261| du contrat de gestion entre lΓÇÖEtat belge et skeyes .
+p262| en effici├½nte verlening van betrouwbare en effici├½nte
+p263| verlenen: skeyes voor de diensten ATS, ASM, ATFM,
+p263| a├⌐rienne : skeyes pour les services ATS, ASM, ATFM,
+p263| skeyes (BE), Maastricht UAC (NL), EUROCONTROL -
+p263| skeyes (BE), Maastricht UAC (NL), EUROCONTROL -
+p264| Skeyes is in 2022 aangewezen als  enige verlener van
+p264| Skeyes a ├⌐t├⌐ d├⌐sign├⌐ comme le prestataire unique de
+p266| skeyes;
+p266| donn├⌐es aupr├¿s de skeyes  ;
+p269| (commerci├½le exploitatie en algemene luchtvaart)
+p269| ΓÇó a├⌐ronefs belges et ├⌐trangers (exploitation
+p275| exploitatie van geregelde luchtdiensten door de
+p275| mati├¿re dΓÇÖaccords bilat├⌐raux pour lΓÇÖexploitation des
+p275| Company en skeyes.
+p275| au profit de Brussels Airport Company et de skeyes.
+p277| behoeve van Brussels Airport en skeyes. Ze volgt de
+p277| pour le compte de Brussels Airport et de skeyes. Il suit
+p278| B.A. 33 52 01 110003: Bezoldigingen en allerhande
+p278| toelagen: vast en stagedoend statutair personeel.
+p278| A.B. 33 52 01 110003  : R├⌐mun├⌐rations et allocations
+p278| Vastleggingen 13.254 12.413 13.081 12.844 12.612 12.379 Engagements
+p278| Vereffeningen 13.254 12.413 13.081 12.844 12.612 12.379 Liquidations
+p279| B.A. 33 52 01 110004:  Bezoldigingen en allerhande
+p279| toelagen: ander dan statutair personeel.
+p279| A.B. 33 52 01 110004  : R├⌐mun├⌐rations et allocations
+p279| Vastleggingen 528 546   521   508   497   486 Engagements
+p279| Vereffeningen 528 546   521   508   497   486 Liquidations
+p280| B.A. 33 52 01 122148: Betalingen voor gedetacheerd
+p280| A.B. 33 52 01 122148  : Paiements pour personnel
+p280| Vastleggingen 0 1.013 1.014 995 975 956 Engagements
+p280| Vereffeningen 0 1.014 1.015 996 976 957 Liquidations
+p281| B.A. 33 52 02 121101: Bestendige uitgave voor
+p281| A.B. 33 52 02 121101  : D├⌐penses permanentes pour
+p281| Vastleggingen 1.998 1.400 2.126 2.101 2.074 2.048 Engagements
+p281| Vereffeningen 1.664 1.400 2.126 2.101 2.074 2.048 Liquidations
+p282| -K.B van 13 juli 2017 tot vaststelling van de toelagen en
+p283| lΓÇÖexploitation dΓÇÖUAS.
+p286| Index werkingskredieten en investeringskredieten
+p287| B.A. 33 52 02 121122: Werkingskosten voor de
+p287| A.B. 33 52 02 121122 : Frais de fonctionnement pour la
+p287| Vastleggingen 0 0 0 0 0 0 Engagements
+p287| Vereffeningen 0 0 0 0 0 0 Liquidations
+p288| toelagen en vergoedingen werd uitgewerkt in het
+p289| B.A. 33 52 02 742201: Uitgaven voor de aankoop van
+p289| A.B. 33 52 02 742201  : D├⌐penses pour lΓÇÖacquisition de
+p289| Vastleggingen 5 10 10 10 10 10 Engagements
+p289| Vereffeningen 5 10 10 10 10 10 Liquidations
+p290| B.A. 33 52 14 354003: ICAO, ECAC, ABIS, FABEC
+p290| A.B. 33 52 14 354003  : OACI, CEAC, ABIS, FABEC et
+p290| Vastleggingen 610 631 663 663 663 663 Engagements
+p290| Vereffeningen 610 631 663 663 663 663 Liquidations
+p290| Toelage ICAO: Subside OACI :
+p290| toekenning van een toelage aan de Internationale
+p290| Toelage ECAC: Subside CEAC :
+p290| Het koninklijk besluit voor de toekenning van de toelage
+p290| vastgesteld wordt van de voorschotten van de toelagen
+p291| artikel 14(2) van de Stichting, zijn deze toelagen op
+p291| Toelage ABIS: Subside ABIS :
+p291| Toelage FABEC: Subside FABEC :
+p291| Exploitatiekosten in de Noord -Atlantische Oceaan: Frais d'exploitation dans l'Atlantique Nord  :
+p291| Koninklijk Besluit houdende toekenning van een toelage
+p293| ΓÇó Exploitatie van de meteorologische stations en de
+p293| ΓÇó Exploitation des stations m├⌐t├⌐orologiques et des
+p294| Exploitatiekosten voor Noord -Atlantisch Verdrag (North
+p294| Frais dΓÇÖexploitation dans lΓÇÖAtlantique Nord (North
+p295| VERGOEDING skeyes  REMUNERATION A skeyes
+p295| Zich ervan vergewissen dat skeyes in staat is te
+p295| SΓÇÖassurer que skeyes soit en mesure de fonctionner.
+p295| skeyes waarborgt de veiligheid van het luchtverkeer in
+p295| Belgocontrol/skeyes in voor het verlenen van
+p295| skeyes assure la s├⌐curit├⌐ de la navigation a├⌐rienne
+p295| de ses missions de service public, Belgocontrol/skeyes
+p296| 20. skeyes 20. skeyes
+p296| B.A. 33 52 20 312101: Financiering van de kosten voor
+p296| plaatselijke luchtvaartnavigatiedienstverlening op de
+p296| A.B. 33 52 20 312101  : Financement des co├╗ts pour la
+p296| Vastleggingen 30.102 34.157 35.705 37.837 37.837 37.837 Engagements
+p296| Vereffeningen 30.086 33.840 35.559 37.674 37.837 37.837 Liquidations
+p296| Belgische Staat en skeyes.
+p296| belge et skeyes.
+p296| luchtvaartnavigatiedienstverlening op de Belgische
+p296| het vierde beheerscontract tussen de Staat en skeyes
+p296| beheerscontract tussen de Staat en skeyes van 21 mei
+p296| quatri├¿me contrat de gestion entre lΓÇÖEtat et skeyes et
+p296| gestion entre lΓÇÖEtat et skeyes du 21 mai 2024.

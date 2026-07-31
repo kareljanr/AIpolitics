@@ -535,3 +535,4 @@ war_heritage_institute,War Heritage Institute WHI,War Heritage Institute WHI,War
 ngi,Nationaal Geografisch Instituut NGI,Institut Geographique National IGN,National Geographic Institute,agency,sec_federal,bi,https://www.ngi.be,,,EN autonomous OAP; fed dot 22.094m 2026 incl Open Data 1.18m; tick756
 cdsca,Centrale Dienst Sociale Culturele Actie Defensie CDSCA,Office Central Action Sociale Culturelle Defense OCASC,Defence Social and Cultural Action Central Service,agency,mod_defensie,bi,,,,EN_65057 Defence welfare/cultural service; personnel ~13.35m; ops ~19.3m 2026; tick756
 proefbank_vuurwapens,Proefbank der Vuurwapens,Banc d epreuves des armes a feu,Belgian Proof House for firearms,agency,fod_economy,bi,,,,Autonomous OAP proof testing firearms; tick756 residual detail FOI
+fod_mobility,FOD Mobiliteit en Vervoer,SPF Mobilite et Transports,FPS Mobility and Transport,ministry,sec_federal,bi,https://mobilit.belgium.be,,,Federal mobility ministry; tick758

@@ -9062,3 +9062,21 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_defence_equip_contract_l5 — ready prio8 (not sent)
 - Next: rq_749 (prefer Mobility 1281/016 or Economy 1281/015); progress@760 in 3; rq_116 deferred
 
+
+### 2026-08-02T18:00:00Z — tick 758
+- Unit: **rq_749** (FOI-adjacent residual — **Kamer DOC 56 1281/016 Mobility: NMBS/Infrabel/bpost/skeyes dual regional PT**)
+- Found (primary Kamer 1281/016, 440p, tables in **kEUR**):
+  - **NMBS opex 2026:** fixed BA312202 **€706.713m** + variable BA312218 **€556.750m** + measures BA312107 **€42.500m** = stack **€1.305.963m** (safe stations opex +€4.4m)
+  - **NMBS invest BA511101:** 2024 **€807.1m** · 2025 **€1.009bn** · 2026 **€904.9m** (MR −65m provisional +27m Dec path) · 2029 **€646.0m**
+  - **Infrabel opex stack 2026:** maintenance **€564.527m** + Diabolo **€13.231m** + Liefkenshoek PPP **€51.880m** = **€629.638m**
+  - **Infrabel invest BA614151:** 2026 **€1.268.646m** (contract base EUR2023 **€1.203.855m**); capacity MIA **€33.9m**; prefin repay **€7.97m/yr** to 2049
+  - **Rail loans 2026:** NMBS int+cap **€41.9m** · Infrabel **€12.7m** · total service **€54.6m**
+  - **Federal rail stack class:** NMBS **~€2.265bn** + Infrabel **~€1.953bn** + HR Rail **€1.635m** ≈ **€4.221bn** 2026
+  - **bpost SGEI BA312207:** 2026 **€154.917m** exact **€154.916.692** · path **€104.917m** from 2027
+  - **skeyes BA312101:** eng **€35.705m** / liq **€35.559m** 2026
+  - **MIA/GEN:** cumulative use **~€996.9m** 2016–31; 2026 slice **€41.6m**
+  - Dual: fed rail+bpost+skeyes **~€4.41bn** class vs De Lijn/OTW separate (not TE-additive)
+- Wrote: entities (+hr_rail/skeyes/beliris/fod_mobility as needed); budgets (+48); commitments (+10); leaderboard (+10); sources (+2); FOI draft **gap_mobility_rail_contract_l5**; raw 56K1281016; rq_749=done; spawn **rq_750**; ticks=758
+- FOI opened: gap_mobility_rail_contract_l5 — ready prio8 (not sent); partial fill notes vs gap_nmbs/gap_bpost
+- Next: rq_750 (Economy 1281/015 or BELSPO 018); progress@760 in 2; rq_116 deferred
+

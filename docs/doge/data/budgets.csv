@@ -15752,3 +15752,52 @@ bud_def_p509_whi_dot_2026,war_heritage_institute,2026,16150000,,,budgeted,src_ka
 bud_dual_def_equip_eng_liq_gap_2026,gg_belgium,2026,9291626000,,,derived,src_dual_defence_oap_tick757,strong,Dual eng-liq gap OA50 invest 14.124-4.641=9.484bn + equip prog 13.030-3.738=9.292bn class; multi-year backlog not cash waste; tick757
 bud_dual_def_whi_ngi_dots_2026,gg_belgium,2026,38244000,,,derived,src_dual_defence_oap_tick757,strong,Dual Defence 50.9 NGI 22.094 + WHI 16.150 = 38.244m exact match OAP autonome 1281/023; not TE-additive; tick757
 bud_dual_def_police_payroll_2026,gg_belgium,2026,0,,,derived,src_dual_defence_oap_tick757,strong,Dual Defence military pay 1.852bn vs Fed Police statutair 0.976bn 2026; not additive TE; security payroll dual map; tick757
+bud_bpost_sgei_rem_2024,bpost,2024,153233000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 33.41.52.312207 bpost SGEI rem 153233 kEUR 2024; tick758
+bud_bpost_sgei_rem_2025,bpost,2025,153300000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,bpost SGEI 153300 kEUR 2025; tick758
+bud_bpost_sgei_rem_2026,bpost,2026,154917000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,bpost SGEI rem eng=liq 154917 kEUR 2026; path falls to 104917 from 2027; tick758
+bud_bpost_sgei_rem_2027,bpost,2027,104917000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,bpost SGEI path 104917 kEUR 2027-29 after USO reform; tick758
+bud_bpost_advance_detail_2026,bpost,2026,154916692,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Exact cash class 154916692.02 EUR 2026 of which advance path 124926220 by 31Dec2026; tick758
+bud_nmbs_measures_312107_2026,nmbs,2026,42500000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 312107 free/staff measures for NMBS 42500 kEUR 2026; tick758
+bud_nmbs_fixed_opex_312202_2024,nmbs,2024,645545000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 312202 fixed exploitation compensation 645545 kEUR 2024; tick758
+bud_nmbs_fixed_opex_312202_2025,nmbs,2025,715195000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS fixed opex 715195 kEUR 2025; tick758
+bud_nmbs_fixed_opex_312202_2026,nmbs,2026,706713000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS fixed opex 706713 kEUR 2026 (path down to 599389 2029); tick758
+bud_nmbs_fixed_opex_312202_2029,nmbs,2029,599389000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS fixed opex path 599389 kEUR 2029; tick758
+bud_nmbs_var_opex_312218_2024,nmbs,2024,440063000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 312218 variable opex 440063 kEUR 2024; tick758
+bud_nmbs_var_opex_312218_2025,nmbs,2025,550032000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS variable opex 550032 kEUR 2025; tick758
+bud_nmbs_var_opex_312218_2026,nmbs,2026,556750000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS variable opex 556750 kEUR 2026; tick758
+bud_nmbs_var_opex_312218_2029,nmbs,2029,646856000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS variable opex path 646856 kEUR 2029; tick758
+bud_nmbs_opex_stack_2026,nmbs,2026,1305963000,,,derived,src_kamer_mobility_1281_016_2026,strong,NMBS opex stack 42.5+706.713+556.75=1305.963m 2026 excl invest/loans; tick758
+bud_nmbs_safe_stations_opex_2026,nmbs,2026,4400000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 312220 safe/livable stations opex 4400 kEUR 2026; tick758
+bud_nmbs_invest_capital_511101_2024,nmbs,2024,807087000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 511101 State capital for NMBS invest 807087 kEUR 2024; tick758
+bud_nmbs_invest_capital_511101_2025,nmbs,2025,1009413000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS invest capital 1009413 kEUR 2025; tick758
+bud_nmbs_invest_capital_511101_2026,nmbs,2026,904874000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS invest capital 904874 kEUR 2026 after MR saves -65m provisional +27m Dec path; tick758
+bud_nmbs_invest_capital_511101_2029,nmbs,2029,645961000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,NMBS invest capital path 645961 kEUR 2029; tick758
+bud_nmbs_gen_capacity_511104_2026,nmbs,2026,7667000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 511104 GEN/priority capacity NMBS 7667 kEUR 2026 of MIA 1bn envelope 2018-31; tick758
+bud_infrabel_opex_414051_2024,infrabel,2024,516954000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 414051 Infrabel maintenance/manage 516954 kEUR 2024; tick758
+bud_infrabel_opex_414051_2025,infrabel,2025,582875000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Infrabel opex 582875 kEUR 2025; tick758
+bud_infrabel_opex_414051_2026,infrabel,2026,564527000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Infrabel opex 564527 kEUR 2026 (path to 487715 2029); tick758
+bud_infrabel_diabolo_414053_2026,infrabel,2026,13231000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 414053 Diabolo 13231 kEUR 2026 flat path; tick758
+bud_infrabel_liefkenshoek_414054_2026,infrabel,2026,51880000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 414054 PPP Liefkenshoek 51880 kEUR 2026; tick758
+bud_infrabel_opex_stack_2026,infrabel,2026,629638000,,,derived,src_kamer_mobility_1281_016_2026,strong,Infrabel opex stack 564.527+13.231+51.880=629.638m 2026; tick758
+bud_infrabel_invest_614151_2024,infrabel,2024,1178744000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 614151 Infrabel invest 1178744 kEUR 2024; tick758
+bud_infrabel_invest_614151_2025,infrabel,2025,1227048000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Infrabel invest 1227048 kEUR 2025; tick758
+bud_infrabel_invest_614151_2026,infrabel,2026,1268646000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Infrabel invest 1268646 kEUR 2026 (contract base 1203855k EUR2023 + index/RRP); tick758
+bud_infrabel_invest_614151_2029,infrabel,2029,1279049000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Infrabel invest path 1279049 kEUR 2029; tick758
+bud_infrabel_capacity_614153_2026,infrabel,2026,33906000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 614153 Infrabel extra capacity MIA 33906 kEUR 2026; tick758
+bud_infrabel_prefin_614256_2026,infrabel,2026,7970000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 614256 Infrabel loan prefin repay flat 7970 kEUR/yr 2021-2049; tick758
+bud_nmbs_loan_interest_2026,nmbs,2026,12864000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 211001 NMBS loan interest 12864 kEUR 2026; tick758
+bud_nmbs_loan_capital_2026,nmbs,2026,29063000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 911001 NMBS loan capital 29063 kEUR 2026; tick758
+bud_infrabel_loan_interest_2026,infrabel,2026,4753000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 211051 Infrabel loan interest 4753 kEUR 2026; tick758
+bud_infrabel_loan_capital_2026,infrabel,2026,7926000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 911051 Infrabel loan capital 7926 kEUR 2026; tick758
+bud_hr_rail_contrib_2026,hr_rail,2026,1635000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 312201 HR Rail ops contrib 1635 kEUR 2026 (base 1.2m + index); tick758
+bud_modal_shift_rail_2026,fod_mobility,2026,11246000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 312203 modal shift rail support 11246 kEUR 2026 (was 24846 2024); tick758
+bud_skeyes_public_service_2024,skeyes,2024,30102000,,,outturn,src_kamer_mobility_1281_016_2026,strong,BA 312101 skeyes public service eng 30102 kEUR 2024; tick758
+bud_skeyes_public_service_2025,skeyes,2025,34157000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,skeyes 34157 kEUR eng 2025; tick758
+bud_skeyes_public_service_2026,skeyes,2026,35705000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,skeyes eng 35705 / liq 35559 kEUR 2026 4th management contract; tick758
+bud_rail_nmbs_class_2026,nmbs,2026,2264841000,,,derived,src_kamer_mobility_1281_016_2026,strong,NMBS class opex1.306+invest0.905+capacity0.008+loans0.042+safe0.004=2.265bn 2026; tick758
+bud_rail_infrabel_class_2026,infrabel,2026,1952838000,,,derived,src_kamer_mobility_1281_016_2026,strong,Infrabel class opex0.630+invest1.269+capacity0.034+prefin0.008+loans0.013=1.953bn 2026; tick758
+bud_rail_federal_stack_2026,fod_mobility,2026,4219314000,,,derived,src_kamer_mobility_1281_016_2026,strong,Federal rail stack NMBS+Infrabel+HR Rail class ~4.221bn 2026; tick758
+bud_dual_rail_bpost_skeyes_2026,gg_belgium,2026,4409936000,,,derived,src_dual_mobility_rail_bpost_tick758,strong,Dual rail 4.221 + bpost 0.155 + skeyes 0.036 = 4.410bn class not full TE; dual De Lijn/OTW separate; tick758
+bud_beliris_personnel_2026,beliris,2026,11769000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Beliris personnel statutair+contract 11281+488=11769 kEUR 2026; tick758
+bud_beliris_coop_bru_liq_2026,beliris,2026,6768000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 512105 Beliris-BRU coop liq 6768 kEUR 2026 (eng 0); tick758
+bud_beliris_slrb_liq_2026,beliris,2026,4518000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 512220 SLRB/BGHM toelage liq 4518 kEUR 2026; tick758
