@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:45:00Z,rq_575,584,no,tick584 AIDE Liege CA 79m dual OAA trio SPGE envelopes; next rq_576; progress@590 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T12:00:00Z,rq_576,585,no,tick585 Intradel Liege CA 125m dual HYGEA waste COPIDEC; next rq_577; progress@590 in 5; rq_116 deferred

@@ -1,4 +1,4 @@
-﻿entity_id,name_nl,name_fr,name_en,level,parent_id,community_language,website,foi_email,foi_postal,notes
+entity_id,name_nl,name_fr,name_en,level,parent_id,community_language,website,foi_email,foi_postal,notes
 gg_belgium,Overheid totaal (ESR),Ensemble des administrations publiques,General government,l0_general,,na,https://www.nbb.be,,,NBB/NAI ESA consolidation
 sec_federal,Federale overheid (ESA S.1311),Pouvoir fÃƒÆ’Ã‚Â©dÃƒÆ’Ã‚Â©ral (S.1311),Central/federal government S.1311,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated subsector total
 sec_ss,Sociale zekerheid (ESA S.1314),SÃƒÆ’Ã‚Â©curitÃƒÆ’Ã‚Â© sociale (S.1314),Social security funds S.1314,l1_sector,gg_belgium,bi,,,,Eurostat TE; unconsolidated
@@ -419,3 +419,5 @@ waterunie_operator,Waterunie Operator nv,Waterunie Operator,Farys-De Watergroep 
 inasep,INASEP Intercommunale Namur,INASEP,Namur province public water sanitation studies lab OAA,intercommunale,wallonie_gov,fr,https://www.inasep.be,,,OAA SPGE Namur; CA 49.1m net 2.05m assets 185.8m equity 55.2m LT 105m 2025; works SPGE 12.9m; dual Aquafin SWDE; tick581
 inbw,in BW Intercommunale Brabant wallon,in BW,Brabant wallon multi-utility water sanitation waste economic,intercommunale,wallonie_gov,fr,https://www.inbw.be,,,Multi-metier BW; result 4.84m assets 576m drink CA 53.6m assain 27.2m invest 20.5m staff 506 2025; dual INASEP SPGE; no dividend; tick582
 aide,AIDE Association Intercommunale Liege,AIDE,Liege province demergement wastewater sewer OAA,intercommunale,wallonie_gov,fr,https://www.aide.be,,,OAA full 84 communes; CA 78.7m op 10.2m net 2.08m assets 454m equity 140m LT lease SPGE 182m staff 291 2025; dual INASEP in BW; tick584
+intradel,INTRADEL,INTRADEL,Liege province household waste intercommunale SC,intercommunale,wallonie_gov,fr,https://www.intradel.be,,,Waste dual AIDE water; CA 125.1m ventes 155.8m loss 12.7m assets 187.4m equity 35.5m dettes 114.7m staff 314 ETP; 72 communes 1.05m hab; 49 recyparcs UVE Herstal CET Hallembaye; tick585
+uvelia,UVELIA SA,UVELIA,Intradel 70pct UVE operator Herstal,subsidiary,intradel,fr,,,Intradel participation 70pct 350k capital; LT claim 1.43m; tick585
