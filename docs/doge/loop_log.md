@@ -7671,3 +7671,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+1); budgets (+32); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_uap_sec_consol_l5_2025; rq_638=done; spawn rq_639; loop_state ticks=647
 - FOI opened: gap_uap_sec_consol_l5_2025 -- ready (not sent)
 - Next: rq_639; progress@650 in 3 ticks; rq_116 deferred
+
+### 2026-08-01T03:45:00Z -- tick 648
+- Unit: rq_639 (FOI-adjacent dual encours/EU hole-fill -- **Encours engagements + Section particuliere** dual EFRO)
+- Found: **Encours** (primary CoA s5.5): eoy2023 **EUR6.840bn** (hors SP); 12Nov2024 DO table **EUR7.565bn**; BI2025 potential reduction **EUR1.013bn** (CL>CE); incomplete **+EUR2.078bn** (CRAC/Sowafinal **EUR2.001bn** + dechets **EUR77.2m**). Top DO encours: DO10 **EUR2.488bn** / DO18 **EUR1.639bn** / DO14 **EUR1.525bn**. **Section particuliere:** rec **EUR389.1m** / dep **EUR158.7m** / start **-EUR311.8m** / eoy **-EUR81.4m**; Feder2127 rec **EUR92m** dep **EUR39.3m**; FSE2127 **EUR67.6/65.6m**. **DO36** CE **EUR224.8m** path eng **-EUR207.7m**. Effort structurel dep **EUR242.8m**. Dual **EFRO VL**. Strong confidence CoA; L5 residual FOI.
+- Wrote: entities (+2); budgets (+36); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_encours_section_part_l5_2025; rq_639=done; spawn rq_640; loop_state ticks=648
+- FOI opened: gap_encours_section_part_l5_2025 -- ready (not sent)
+- Next: rq_640; progress@650 in 2 ticks; rq_116 deferred

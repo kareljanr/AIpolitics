@@ -11800,3 +11800,39 @@ bud_do18_114_recherche_cl_bi2025,wallonie_gov,2025,199655000,,,budgeted,src_ccre
 bud_do18_114_recherche_exec_class,wallonie_gov,2024,140650000,,,outturn,src_ccrek_uap_sec_consol_bi2025,strong,Prog114 CoA exec class 140.650m; tick647
 bud_fonds_rdi_dep_bi2025,wallonie_gov,2025,13594000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,Fonds RDI depenses BI2025 13.594m surplus 9.106m; tick647
 bud_do18_total_cl_bi2025,wallonie_gov,2025,3786351000,,,budgeted,src_ccrek_uap_sec_consol_bi2025,strong,DO18 Entreprises emploi recherche CL BI2025 3786.351m path -164.409m; tick647
+bud_encours_eoy2023,encours_wal,2023,6839600000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,Encours engagements eoy2023 6839.6m hors section particuliere CoA s5.5; tick648
+bud_encours_12nov2024,encours_wal,2024,7565420000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,Encours DO table total 7565.42m at 12 Nov 2024; tick648
+bud_encours_potential_plus_ba2024,encours_wal,2024,107100000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,BA2024 CE-CL gap +107.1m potential encours increase; tick648
+bud_encours_potential_minus_bi2025,encours_wal,2025,1013000000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,BI2025 CL-CE surplus 1013.0m potential encours reduction; tick648
+bud_encours_missing_crac_sowafinal_2023,encours_wal,2023,2000500000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,CRAC+Sowafinal conventions not in encours stock eoy2023 2000.5m CoA; tick648
+bud_encours_missing_dechets_promesses_2023,encours_wal,2023,77200000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,Waste infra firm promises not in encours eoy2023 77.2m; tick648
+bud_encours_incomplete_add_2023,encours_wal,2023,2077700000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,Sum missing CRAC/Sowafinal+dechets 2000.5+77.2=2077.7m; true stock class ~8917m; tick648
+bud_encours_do10_12nov2024,do10_secretariat_wal,2024,2488401000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO10 encours 2488.401m 12Nov2024 (PRW-heavy); tick648
+bud_encours_do18_12nov2024,wallonie_gov,2024,1638625000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO18 encours 1638.625m 12Nov2024; tick648
+bud_encours_do14_12nov2024,wallonie_gov,2024,1524936000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO14 encours 1524.936m 12Nov2024; tick648
+bud_encours_do16_12nov2024,wallonie_gov,2024,708213000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO16 encours 708.213m 12Nov2024; tick648
+bud_encours_do17_12nov2024,wallonie_gov,2024,615290000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO17 encours 615.290m 12Nov2024; tick648
+bud_encours_do15_12nov2024,wallonie_gov,2024,381032000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO15 encours 381.032m 12Nov2024; tick648
+bud_encours_do11_12nov2024,wallonie_gov,2024,95234000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO11 encours 95.234m 12Nov2024; tick648
+bud_encours_do09_12nov2024,wallonie_gov,2024,44560000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO09 encours 44.560m 12Nov2024; tick648
+bud_encours_do12_12nov2024,wallonie_gov,2024,32010000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO12 Digital encours 32.010m 12Nov2024; tick648
+bud_encours_do19_12nov2024,wallonie_debt,2024,35933000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,DO19 Finances encours 35.933m 12Nov2024; tick648
+bud_do36_cofinanc_ce_bi2025,section_particuliere_wal,2025,224791000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,DO36 EU cofinanc 2021-27 CE BI2025 224.791m path eng -207.725m; tick648
+bud_do36_cofinanc_cl_bi2025,section_particuliere_wal,2025,57987000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,DO36 EU cofinanc 2021-27 CL BI2025 57.987m path +6.830m; tick648
+bud_do36_cofinanc_ce_ba2024,section_particuliere_wal,2024,432516000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,DO36 BA2024 CE 432.516m; tick648
+bud_do34_cofinanc_legacy_cl_ba2024,section_particuliere_wal,2024,56252000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,DO34 2014-20 cofinanc BA2024 CL 56.252m zeroed BI2025; tick648
+bud_sp_start_2025,section_particuliere_wal,2025,-311766000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Section part solde 01/01/25 -311.766m (kEUR); tick648
+bud_sp_recettes_bi2025,section_particuliere_wal,2025,389143000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Section part recettes BI2025 389.143m; tick648
+bud_sp_depenses_bi2025,section_particuliere_wal,2025,158745000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Section part depenses BI2025 158.745m; tick648
+bud_sp_eoy2025,section_particuliere_wal,2025,-81368000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Section part solde eoy2025 est -81.368m; tick648
+bud_sp_feder2127_rec_bi2025,section_particuliere_wal,2025,92000000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Feder 2021-27 recettes BI2025 92.0m; tick648
+bud_sp_feder2127_dep_bi2025,section_particuliere_wal,2025,39291000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Feder 2021-27 depenses BI2025 39.291m; tick648
+bud_sp_feder2127_start_2025,section_particuliere_wal,2025,-100111000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Feder 2021-27 solde 01/01/25 -100.111m; tick648
+bud_sp_fse2127_rec_bi2025,section_particuliere_wal,2025,67589000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,FSE 2021-27 recettes BI2025 67.589m; tick648
+bud_sp_fse2127_dep_bi2025,section_particuliere_wal,2025,65579000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,FSE 2021-27 depenses BI2025 65.579m; tick648
+bud_sp_feder1420_rec_bi2025,section_particuliere_wal,2025,183402000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Feder 2014-20 recettes close BI2025 183.402m (zero eoy); tick648
+bud_sp_rtet_dep_bi2025,section_particuliere_wal,2025,51624000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,RTE-T depenses BI2025 51.624m; tick648
+bud_effort_structurel_dep_bi2025,wallonie_gov,2025,242782000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Effort structurel depenses BI2025 242.782m (economy 101.065m 42pct); tick648
+bud_total_cl_bi2025_wal,wallonie_gov,2025,22029416000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Total general CL BI2025 22029.416m CoA DO table; tick648
+bud_total_ce_bi2025_wal,wallonie_gov,2025,21016449000,,,budgeted,src_ccrek_encours_section_part_bi2025,strong,Total general CE BI2025 21016.449m CoA DO table; tick648
+bud_exec_cl_12nov2024_wal,wallonie_gov,2024,16428938000,,,outturn,src_ccrek_encours_section_part_bi2025,strong,Execution CL 12Nov2024 16428.938m (75.4pct of BA CL); tick648
