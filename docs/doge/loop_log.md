@@ -7546,3 +7546,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+cesew +sparkoh; wallimage/visitwallonia update); budgets (+13); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_wallimage_av_l5_2025; rq_622=done; spawn rq_623; loop_state ticks=631
 - FOI opened: gap_wallimage_av_l5_2025 -- ready (not sent)
 - Next: rq_623; progress@640 in 9 ticks; rq_116 deferred
+
+### 2026-07-31T23:45:00Z -- tick 632
+- Unit: rq_623 (FOI-adjacent dual housing credit hole-fill -- **Guichets sociaux** CoA Table33 L5 dual SWCS/VWF)
+- Found: **Guichets sociaux** (primary CoA Table33 Type3). **BI2025:** rec **EUR54.350m** / dep **EUR49.895m** / solde **+EUR4.455m**. **BA2024:** non communique. Named L5 dep sum matches aggregate: **Travailleur chez Lui EUR11.504m**; **Credissimo EUR9.420m**; **Tous Proprietaires EUR4.490m**; Luxembourg **EUR3.097m**; Proxipret **EUR2.742m**; Bricoult **EUR2.869m**; Credissimo Hainaut **EUR2.396m**; Hainaut terrienne **EUR2.417m**; +8 smaller guichets. Dual **SWCS dep EUR215.6m** + **FLW EUR121.0m** + VWF loan auth class. Strong confidence CoA L5; BA2024/performance residual FOI.
+- Wrote: entities (+guichets_sociaux_wal); budgets (+12); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_guichets_sociaux_l5_2025; rq_623=done; spawn rq_624; loop_state ticks=632
+- FOI opened: gap_guichets_sociaux_l5_2025 -- ready (not sent)
+- Next: rq_624; progress@640 in 8 ticks; rq_116 deferred

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T23:30:00Z,rq_622,631,no,tick631 Wallimage 10.2m dual SF CESEW Sparkoh; next rq_623; progress@640 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T23:45:00Z,rq_623,632,no,tick632 Guichets sociaux 49.9m L5 dual SWCS; next rq_624; progress@640 in 8; rq_116 deferred

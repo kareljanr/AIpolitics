@@ -11483,3 +11483,15 @@ bud_sparkoh_dep_ba2024,sparkoh,2024,5682664,,,budgeted,src_ccrek_wallimage_cesew
 bud_visitwallonia_sec_bi2025,visitwallonia,2025,14938842,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 VisitWallonia rec=dep BI2025 14.939m; tick631
 bud_visitwallonia_sec_ba2024,visitwallonia,2024,16679510,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 VisitWallonia rec=dep BA2024 16.680m path -1.741m; tick631
 bud_dual_av_wallimage_sf_class_2025,gg_belgium,2025,13724009,,,budgeted,src_dual_av_wallimage_sf_tick631,strong,Wallimage SEC dep 10.224m + Screen Flanders 3.5m class dual not additive; tick631
+bud_guichets_rec_sec_bi2025,guichets_sociaux_wal,2025,54350038,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA Table33 Guichets sociaux recettes SEC BI2025 54.350m; tick632
+bud_guichets_dep_sec_bi2025,guichets_sociaux_wal,2025,49894963,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA Table33 Guichets sociaux depenses SEC BI2025 49.895m; tick632
+bud_guichets_solde_sec_bi2025,guichets_sociaux_wal,2025,4455075,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA Table33 Guichets sociaux solde SEC BI2025 +4.455m; tick632
+bud_guichet_travailleur_chez_lui_dep_2025,guichets_sociaux_wal,2025,11503850,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Le Travailleur chez Lui dep BI2025 11.504m; tick632
+bud_guichet_credissimo_dep_2025,guichets_sociaux_wal,2025,9420050,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Credissimo dep BI2025 9.420m; tick632
+bud_guichet_tous_proprietaires_dep_2025,guichets_sociaux_wal,2025,4490000,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Tous Proprietaires dep BI2025 4.490m; tick632
+bud_guichet_lux_dep_2025,guichets_sociaux_wal,2025,3097138,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Credit social Luxembourg dep BI2025 3.097m; tick632
+bud_guichet_proxipret_dep_2025,guichets_sociaux_wal,2025,2742050,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Proxipret dep BI2025 2.742m; tick632
+bud_guichet_bricoult_dep_2025,guichets_sociaux_wal,2025,2868583,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Credit hypothecaire O Bricoult dep BI2025 2.869m; tick632
+bud_guichet_credissimo_hainaut_dep_2025,guichets_sociaux_wal,2025,2396000,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Credissimo Hainaut dep BI2025 2.396m; tick632
+bud_guichet_hainaut_terrienne_dep_2025,guichets_sociaux_wal,2025,2416590,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Societe terrienne credit social Hainaut dep BI2025 2.417m; tick632
+bud_dual_guichets_swcs_class_2025,gg_belgium,2025,49894963,,,budgeted,src_dual_guichets_swcs_vwf_tick632,strong,Guichets 49.9m dual SWCS 215.6m FLW 121m class not additive; tick632
