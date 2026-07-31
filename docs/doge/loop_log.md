@@ -9394,3 +9394,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +25; commitments +6; leaderboard +8; sources +2; FOI **gap_riziv_corr_tickets_l5** prio9 ready; raw PDF; rq_772=done; spawn **rq_773**; ticks=781
 - FOI: ready only — **do not send**
 - Next: rq_773 residual dual/L5; progress@790 in 9; rq_116 deferred
+
+### 2026-08-03T17:05:00Z - watcher cancelled (paused=yes)
+- User: **paused=yes**
+- Cancelled scheduler **019fb6df9daa** (every 1m DOGE tick)
+- loop_state: **paused=yes** · mode=**paused** · ticks=**781** · last **rq_772**
+- Next on resume: **rq_773**; progress@790 in 9; **rq_116** deferred
+- To resume: set paused=no + re-create 60s scheduler (fire_immediately)
