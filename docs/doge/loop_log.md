@@ -8233,3 +8233,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+28); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_receipts_l5**; rq_690=done; spawn **rq_691 PROGRESS@700**; loop_state ticks=699
 - FOI opened: gap_wal_aju2026_receipts_l5 — ready (not sent)
 - Next: **rq_691 PROGRESS@700**; rq_116 deferred
+
+### 2026-08-01T16:45:00Z — tick 700
+- Unit: **rq_691** (mandatory **progress@700** coverage % + waste top10)
+- Coverage (honest, vs EUR 347.956bn TE):
+  - **A L0 100%** · **B L1 100%** · **C L2 ~99%** · **D L5 ~49-63%** (generous; not near-complete of 348bn) · **E FOI ready ~437** / answered ~9 / total ~451
+- Inventory: budgets ~13745 · commitments ~1615 · leaderboard ~2885 · entities ~531 · sources ~1378
+- Gain 690→700 (FOI-adjacent dual residual wave):
+  - VL ESR8/9 derden **−3.59bn** / externe schuld **+6.91bn** · Fluvius collapse **1.56bn** · Defensiefonds opaque **1bn** · Lineas **14.3** · RRF/SKF error **113.5** · debt ratio **91.6%** · HE debt **104.9** + basiskoten **100** · SKF **958.8** / REPower **191.5** / EC lag
+  - WAL debt **32.97bn** interest **753.7** Baa1 · receipts **22.09bn** IPP **3.80** Sainte-Emilie hospital **146** AAD soft
+  - FWB ES soft **117.9** SEC embed **+470/−70** · SS andere **5.65–7.65bn** FOI-only
+  - Dual map: ratings A1/Baa1/A3 · HE dual ES soft · SKF dual fed/BCR · IPP/opcent dual · Fluvius dual DSO
+- Waste top10: **stable** fossil/cars/cheque/consultancy; Fluvius collapse **1.56bn** just outside (#12 prio **8.20**); high-abs NEW: SKF EC lag · SEC embed · Sainte-Emilie net · debt calc error
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_691=done; spawn **rq_692**; loop_state ticks=700
+- FOI: none new (progress tick)
+- Next: prio5 **rq_692**; deferred **rq_116**; progress@710 in 10 ticks

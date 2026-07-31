@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **690** (2026-08-01) · **~2831** leaderboard rows  
+**As-of:** tick **700** (2026-08-01) · **~2885** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -26,23 +26,23 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 10 | `lb_fed_fossil_mazout_1_86bn` | Heating oil accise gap 1.86bn 2022 fossil inv | **1.86 bn** | 8 | 9.0 | 6 | **8.3** | fossil inventory |
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter:** Metro3 overrun/gap · Hedera CAP · VL Maastricht/consol debt **~€50–57bn** · WAL direct debt **~€30–34bn** · FWB direct debt **~€14–21bn path** · encours stocks · federal unconsol debt / E1 path / gross financing · **Infrabel equity 20.5bn** · **WE equity ~5bn** · **SACA report / fonds stocks** · **SS consol 148bn** · **Oosterweel VAK +2.5bn** · **ruiter carry 1.4bn** stay **off** pure annual top10 when annual=0, finance-not-TE, or structural entitlement mega without waste framing.  
-**Change vs tick 680:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 680–690 adds **FOI-adjacent dual residual** (Justice/Fedasil/return; De Lijn/RVA; efficiëntere overheid **€120m**; fonds deep; ruiter T8; Oosterweel VAK **€2.5bn**; BAC–RRI) that raise **L2 dual map + high-absurdity shortlist** more than FFS ranking.
+**Stock filter:** Metro3 overrun/gap · Hedera CAP · VL Maastricht/consol debt **~€50–57bn** · WAL direct debt **~€30–34bn** · FWB direct debt **~€14–21bn path** · encours stocks · federal unconsol debt / E1 path / gross financing · **Infrabel equity 20.5bn** · **WE equity ~5bn** · **SACA report / fonds stocks** · **SS consol 148bn** · **Oosterweel VAK +2.5bn** · **ruiter carry 1.4bn** · **SKF multi-year 0.96bn** · **Fluvius equity path 1.56bn** stay **off** pure annual top10 when annual=0, finance-not-TE, equity inject, or structural entitlement mega without waste framing.  
+**Change vs tick 690:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 690–700 adds **FOI-adjacent dual residual** (Fluvius collapse **€1.56bn** just outside #12 prio **8.20**; SS andere **€7.65bn** FOI; RRF/SKF error **€113.5m**; WAL Baa1 debt **€33bn**; HE debt **€105m**; FWB ES soft **€118m**; SKF **€959m**; WAL receipts dual) that raise **L2 dual map + high-absurdity shortlist** more than FFS ranking.
 
 ### Just outside top 10 (often relevant)
 
 | # | ID | Annual € | Priority | Note |
 |---|-----|----------:|---------:|------|
 | 11 | `lb_company_cars` | **3.14 bn** | 8.22 | Official FFS package |
-| 12 | `lb_cons_101_sample_2_2bn` | **0.73 / 2.2 bn** class | 8.15 | Systemic procurement failure |
-| 13 | `lb_cons_exclusion_17bn` | **0.57 / 1.7 bn** class | 8.15 | Exclusion grounds unchecked 67% |
-| 14 | `lb_eiwt_package` | **4.36 bn** | 8.08 | Top wage-subsidy instrument |
-| 15 | `lb_eiwt_night_shift_cluster` | **2.04 bn** | 8.08 | ~2.04bn 2024 cluster |
-| 16 | `lb_taxex_fed_29_7bn` | **29.7 bn** | 8.05 | Federal TE inventory 2023 (off-TE pie) |
-| 17 | `lb_specialty_defence_transfer_20bn` | **20.1 bn** | **8.0** | Specialty breach (control) |
-| 18 | `lb_vl_gsc_support` | **~0.8–1.1 bn** | 8.0 | Flanders GSC bill-side |
-| 19 | `lb_wage_subsidies_block` | **16.7 bn** | 7.98 | Enterprise package ~2/3 |
-| 20 | `lb_energy_assign_opacity_1_4bn` | **1.4 bn** | **7.85** | CoA assign opacity (tick676) |
+| 12 | `lb_fluvius_talks_collapsed_1560m` | **1.56 bn** | **8.20** | **NEW 693** equity talks collapsed, credits kept |
+| 13 | `lb_cons_101_sample_2_2bn` | **0.73 / 2.2 bn** class | 8.15 | Systemic procurement failure |
+| 14 | `lb_cons_exclusion_17bn` | **0.57 / 1.7 bn** class | 8.15 | Exclusion grounds unchecked 67% |
+| 15 | `lb_eiwt_package` | **4.36 bn** | 8.08 | Top wage-subsidy instrument |
+| 16 | `lb_def_asset_optim_3170m_unbooked` | **3.17 bn** | **8.05** | Defence asset optim unbooked (prior) |
+| 17 | `lb_taxex_fed_29_7bn` | **29.7 bn** | 8.05 | Federal TE inventory 2023 (off-TE pie) |
+| 18 | `lb_specialty_defence_transfer_20bn` | **20.1 bn** | **8.0** | Specialty breach (control) |
+| 19 | `lb_ss_andere_ontvangsten_7647m_opaque` | **7.65 bn** | **7.95** | **NEW 692** SS andere FOI-only L5 |
+| 20 | `lb_vl_off_maastricht_2_66bn_hidden` | **2.66 bn** | **7.95** | **NEW 693** hospital+autonomie off-M |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -53,16 +53,16 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_metro3_financing_gap_4bn` | **9.0** | ~€4.3bn BCR residual stock |
 | `lb_kenteken_sole_bidder_bpost` | **9.0** | sole bidder concession |
 | `lb_ypto_proc_law_fail` | **9.0** | rail IT procurement |
-| `lb_return_save_75m_untrackable` | **8.0** | **NEW 687** multi-dept attribution missing |
-| `lb_vl_ruiter_opaque_1415m` | **8.0** | **NEW 689** carry outside admin table |
-| `lb_oosterweel_vak_2514m_wedge` | **7.5** | **NEW 689** VAK vs build 987m |
-| `lb_vl_efficient_gov_opaque_120m` | **7.5** | **NEW 686** residual 40.5 + Digi mask |
-| `lb_vl_klimaat_deficit_vs_surplus` | **8.0** | **NEW 688** surplus masks historic deficit |
-| `lb_vl_energie_desaffect_conflict` | **7.5** | **NEW 688** 56.2 vs art32 46.2 |
-| `lb_employer_km_credit_opaque_2026` | **8.5** | 20m/mo no FOD data (prior) |
+| `lb_vl_debt_calc_error_113_5m` | **8.5** | **NEW 694** RRF/SKF ESR booking error |
+| `lb_fluvius_talks_collapsed_1560m` | **8.0** | **NEW 693** board talks collapsed credits kept |
+| `lb_defensiefonds_opaque_1bn` | **8.0** | **NEW 693** 1bn target zero projects |
+| `lb_be_skf_ec_filing_lag_2026` | **8.0** | **NEW 698** BE plan not filed EC |
+| `lb_ss_andere_ontvangsten_7647m_opaque` | **7.5** | **NEW 692** no public L5 nature split |
+| `lb_fwb_sec_embedded_opaque_2026` | **7.5** | **NEW 697** SEC +470/−70 outside table |
+| `lb_wal_sainte_emilie_hospital_net_146m` | **7.5** | **NEW 699** wrong hospital net dual FWB |
+| `lb_vl_debt_ratio_91_6_breach` | **7.5** | **NEW 694** 91.6% vs 65% norm |
+| `lb_return_save_75m_untrackable` | **8.0** | multi-dept attribution missing (prior) |
 | `lb_phoenix_cfd_583_6m_strike_gap` | **8.0** | strike price unknown (prior) |
-| `lb_riziv_save_miss_183m_2026` | **8.0** | pharma 145.7 of miss (prior) |
-| `lb_be_mtfsp_gap_2_5pp_2029` | **8.0** | path vs plan (prior) |
 
 ### Dual / mega map (not pure annual waste top 10)
 
@@ -72,12 +72,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_riziv_care_43_9bn_2026` | **43.9 bn** | dual AViQ/WVG |
 | `lb_fed_e1_path_36_2bn_2029` | **36.2 bn** | E1 path 2029 |
 | `lb_vl_dotaties_34_8bn_2026` | **34.8 bn** | BFW dual |
+| `lb_dual_wal_vl_debt_2026` | **33 / 57 bn** | **NEW 695** WAL Baa1 vs VL A1 |
 | `lb_ss_alt_finance_27_6bn_2026` | **27.6 bn** | BTW+RV assign |
-| `lb_fed_primary_cells_92bn_2026` | **92.05 bn** | **NEW 681** primary VEK cells |
-| `lb_defence_nato_path_2026` | **17.3 / 13.25 bn** | **NEW 683** defence/NATO |
-| `lb_rva_unemp_volume_287m_2026` | **4.84 bn** | **NEW 685** unemp BC dual |
-| `lb_vl_fonds_end_856m_opaque` | **0.86 bn** | **NEW 688** T9 matrix |
-| `lb_vl_ruiter_opaque_1415m` | **1.42 bn** carry | **NEW 689** commitment space |
-| `lb_oosterweel_vak_2514m_wedge` | **2.51 bn** VAK | **NEW 689** NEC4 lock-in |
-| `lb_fed_nonfiscal_7_83bn_2026` | **7.83 bn** | nonfiscal dual (prior) |
-| `lb_vl_debt_57bn_moody_a1_2026` | **57 bn** stock | dual ratings (prior) |
+| `lb_wal_rec` class (bud rows) | **22.09 bn** | **NEW 699** WAL receipts aju |
+| `lb_fed_primary_cells_92bn_2026` | **92.05 bn** | primary VEK cells |
+| `lb_vl_skf_958_8m_opaque_provisie_2026` | **0.96 bn** multi-year | **NEW 698** SKF T7 |
+| `lb_ss_andere_ontvangsten_7647m_opaque` | **7.65 bn** | **NEW 692** FOI residual |
+| `lb_fluvius_talks_collapsed_1560m` | **1.56 bn** | **NEW 693** DSO dual |

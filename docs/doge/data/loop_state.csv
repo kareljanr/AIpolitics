@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T16:30:00Z,rq_690,699,no,tick699 WAL receipts 22.09bn dual VL IPP; next rq_691 PROGRESS@700; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T16:45:00Z,rq_691,700,no,tick700 progress@700 L2~99 L5~49-63 FOI~437; next rq_692; progress@710 in 10; rq_116 deferred

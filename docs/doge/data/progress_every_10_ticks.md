@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 700** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual residual wave 691–699: VL consol debt path **€57bn** / WAL direct **€33.0bn** / FWB **€16.2bn** · WAL receipts **€22.09bn** · VL SKF multi-year **€0.96bn** · SS andere ontvangsten class **€5.7–7.6bn** · Fluvius equity path **€1.56/1.1bn** stalled · prior primary cells / SS **€148bn** / nonfiscal retained |
+| **D. L5 named / measure end-lines** | **~49-63%** of TE (generous) | **Gain 690→700 is FOI-adjacent dual residual (not near-complete of 348bn):** VL ESR8/9 derden **−€3.59bn** / externe schuld **+€6.91bn** · Fluvius talks collapse **€1.56bn** credits kept · Defensiefonds opaque **€1bn** · Lineas haircut **€14.3m** · RRF/SKF ESR error **€113.5m** · debt/receipts **91.6%** vs 65% · WAL interest **€753.7m** Moody **Baa1** · HE debt named **€104.9m** (UHasselt50/KdG35/Artevelde20) + basiskoten rent-free **€100m** · FWB ES soft **€117.9m** / SEC embed **+€470/−€70m** · SKF T7 **€958.8m** / REPower **€191.5m** / BE EC filing lag · WAL Sainte-Emilie hospital net **€146m** / AAD soft **+€10m** / vehicle encours **€346.5m** · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~437** drafts ready | Human send only; answered **~9**; total FOI rows **~451** (+ ESR8/9 · SS andere · Fluvius collapse · VL debt T15 · WAL debt/rating · HE basiskoten · FWB ES sous-util · SKF/REPower · WAL receipts · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** · **Oosterweel VAK stock** · **SKF multi-year €0.96bn** (EU climate envelope, partial TE when spent) · **Fluvius equity inject path €1.56bn** · **fonds stocks WAL** · UAP treasury remonte · WE equity **~5bn** · FRR/RePower conditional · **CSF NPE growth caps** · Moody rating actions (not euros).
+
+### Inventory (tick 700)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~13745 |
+| commitments.csv | ~1615 |
+| leaderboard.csv | ~2885 |
+| entities.csv | ~531 |
+| sources.csv | ~1378 |
+| FOI ready | ~437 |
+| FOI answered | ~9 |
+| FOI total rows | ~451 |
+| research_queue open | rq_116 deferred + rq_692 hole-fill after progress |
+
+### What improved since tick 690
+
+- **VL CoA residual (tick691, 693–694, 696, 698):** ESR8/9 T12 derden **−€3.59bn** / externe schuld **+€6.91bn** · Fluvius board talks collapsed **€1.56bn** VAK retained / VEK **€1.1bn** · Defensiefonds target **€1bn** empty governance · Lineas haircut **€14.3m** · debt T15 direct **+€7.405bn** · RRF/SKF ESR miscalc **€113.5m** · ratio **91.6%** / net assets **−€13.3bn** · HE debt **€104.9m** named + VMSW basiskoten rent-free **€100m** · SKF multi-year **€958.8m** (2026 **€99.2m**) · REPower aju **€191.5m** unutil VAK **€27.5m** · BE SKF plan not filed EC (fed+BCR lag).
+- **WAL CoA residual (tick695, 699):** direct debt eoy2026 **€32.974bn** / consol **€43.8bn** · interest **€753.7m** (path **€340→754** 2021–26) · Moody **Baa1** Apr2026 · financing residual soft sous-util **€350m** · receipts aju **€22.088bn** · IPP net **€3.801bn** taxex **€813.8m** · Sainte-Emilie **€4.761bn** / hospital past wrong net **€146m** · AAD soft **+€10m** · vehicle encours **€346.5m** (doubtful **€64.9m**).
+- **FWB dual (tick697):** ES sous-util package **€117.9m** (rates **−6.0%/−1.5%**) · perimeter soft **€312.6m** · SEC embedded **+€470.2/−€70.3m** opaque · financing need **€2.182bn** · dual VL HE onderbenutting **€323.6m**.
+- **SS residual (tick692):** andere ontvangsten BC **€7.647bn** multi-year path **€5.65–7.65bn** FOI-only L5 · dual andere uitgaven **€7.40bn**.
+- **Dual map:** Entity II debt+ratings **VL A1/AA- · WAL Baa1 · FWB A3** · HE debt dual ES soft · SKF dual federal/BCR lag · IPP/opcentiemen dual · Fluvius dual ORES/Sibelga DSO · SS andere dual uitgaven.
+
+---
+
 ## Snapshot at **tick 690** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
