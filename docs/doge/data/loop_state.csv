@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T16:30:00Z,rq_594,603,no,tick603 IBSA ops 0.68m staff 42 dual IWEPS; next rq_595; progress@610 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T16:45:00Z,rq_595,604,no,tick604 AWaP liq 49.1m subs 31.3m dual OE; next rq_596; progress@610 in 6; rq_116 deferred

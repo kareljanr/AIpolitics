@@ -7310,3 +7310,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+ibsa +perspective_bru); budgets (+11); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_ibsa_full_tco_l5_2025; rq_594=done; spawn rq_595; loop_state ticks=603
 - FOI opened: gap_ibsa_full_tco_l5_2025 → ready (not sent)
 - Next: rq_595; progress@610 in 7 ticks; rq_116 deferred
+
+### 2026-07-31T16:45:00Z — tick 604
+- Unit: rq_595 (FOI-adjacent dual heritage hole-fill deepen — **AWaP** dual OE Flanders)
+- Found: **AWaP** RA2025 (primary PDF) + decret Art.16. **Engagé €46.075933m** · **liquidé €49.134500m** · **subventions eng €31.313974m** (68%). RW subvention **€49.5m** · own **<€0.7m**. Staff **312**. Subs split: public **14.1m** · cadres **5.9m** · private **4.0m** · regional props **3.0m**. 176 dossiers. Budget 2025b: rec **€51.624m** / dep **€52.246m**. Dual OE Flanders VEK **€127.8m**. Strong confidence.
+- Wrote: entity update awap; budgets (+13); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_awap_subs_l5_2025; rq_595=done; spawn rq_596; loop_state ticks=604
+- FOI opened: gap_awap_subs_l5_2025 → ready (not sent)
+- Next: rq_596; progress@610 in 6 ticks; rq_116 deferred

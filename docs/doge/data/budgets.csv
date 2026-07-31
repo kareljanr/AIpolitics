@@ -11159,3 +11159,16 @@ bud_ibsa_liq_2024,ibsa,2024,516000,,,outturn,src_ibsa_ra_2024,strong,IBSA liquid
 bud_ibsa_staff_2025,ibsa,2025,0,,,outturn,src_ibsa_ra_2025,strong,IBSA staff 42 persons 31Dec2025 (not EUR; pay in Perspective); tick603
 bud_ibsa_staff_2024,ibsa,2024,0,,,outturn,src_ibsa_ra_2024,strong,IBSA staff 41 persons 31Dec2024 (not EUR); tick603
 bud_ibsa_stats_diffused_2025,ibsa,2025,0,,,outturn,src_ibsa_ra_2025,strong,IBSA statistics diffused 887 of which 34 new 2025 (not EUR); tick603
+bud_awap_eng_2025,awap,2025,46075933,,,outturn,src_awap_ra_2025,strong,AWaP total engagé 46.075933m 2025 RA; tick604
+bud_awap_liq_2025,awap,2025,49134500,,,outturn,src_awap_ra_2025,strong,AWaP total liquidé 49.134500m 2025 RA; tick604
+bud_awap_subs_eng_2025,awap,2025,31313974,,,outturn,src_awap_ra_2025,strong,AWaP subventions octroyées eng 31.313974m 68pct 2025; tick604
+bud_awap_rw_subvention_2025,awap,2025,49500000,,,outturn,src_awap_ra_2025,strong,AWaP RW annual subvention 49.5m 2025 RA text; tick604
+bud_awap_own_income_2025,awap,2025,700000,,,outturn,src_awap_ra_2025,medium,AWaP own activities under 0.7m 2025 RA approx; tick604
+bud_awap_subs_public_2025,awap,2025,14100000,,,outturn,src_awap_ra_2025,strong,AWaP subs public sector monuments 14.1m 2025; tick604
+bud_awap_subs_cadres_2025,awap,2025,5900000,,,outturn,src_awap_ra_2025,strong,AWaP accords-cadres pluriannuels 5.9m 2025; tick604
+bud_awap_subs_private_2025,awap,2025,4000000,,,outturn,src_awap_ra_2025,strong,AWaP subs private classified owners 4.0m 2025; tick604
+bud_awap_subs_regional_props_2025,awap,2025,3000000,,,outturn,src_awap_ra_2025,strong,AWaP regional properties direct works 3.0m 2025; tick604
+bud_awap_recettes_2025b,awap,2025,51624000,,,outturn,src_awap_budget_ajust_2025,strong,AWaP budget ajuste 2025 recettes 51.624m decret Art16; tick604
+bud_awap_depenses_2025b,awap,2025,52246000,,,outturn,src_awap_budget_ajust_2025,strong,AWaP budget ajuste 2025 depenses 52.246m decret Art16; tick604
+bud_awap_staff_2025,awap,2025,0,,,outturn,src_awap_ra_2025,strong,AWaP staff 312 agents 2025 (not EUR); tick604
+bud_awap_dossiers_2025,awap,2025,0,,,outturn,src_awap_ra_2025,strong,AWaP 176 dossiers travaux soutenus 2025 (not EUR); tick604
