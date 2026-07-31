@@ -7685,3 +7685,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+40); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_fa_ocpp_requalif_l5_2025; rq_640=done; spawn rq_641; loop_state ticks=649
 - FOI opened: gap_fa_ocpp_requalif_l5_2025 -- ready (not sent)
 - Next: rq_641; **progress@650 NEXT tick**; rq_116 deferred
+
+### 2026-08-01T04:15:00Z -- tick 650 (PROGRESS MILESTONE)
+- Unit: rq_641 (progress@650 + dual CoA DO/finance/recovery/UAP wave synthesis ticks641-649)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **Debt + financing:** DO19 direct **EUR29.95bn** / interest **EUR605m** dual VL; Ste-Emilie **EUR4.67bn** + LSF **EUR3.30bn** dual FWB
+  - **Recovery + admin:** DO10 PRW CL **EUR2.255bn** / FRR **EUR920m** dual VV; DO18 emploi pack **EUR3.14bn** / ZAE path **-EUR109m**; DO11 remun **EUR669m**; DO15 agri CL **EUR605m**
+  - **UAP + stocks + financial ops:** UAP unites **-EUR755m** (type3 **-EUR207m** OTW **-EUR139m**); Encours **EUR7.57bn** incomplete **+EUR2.08bn**; OCPP requalif **EUR125m** / after-corr **EUR435m**; FA+MD **+EUR75m**
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ PRW 2.27bn + debt 2.15bn + Ste-Emilie/LSF + UAP/encours/OCPP mega-fills)
+  - **D L5:** ~**45-58%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**392** · answered ~**9** · total FOI rows ~**402**
+- Inventory: budgets ~**11878** · cmt ~**1345** · lb ~**2612** · sources ~**1278** · entities ~**471**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55-8.30)
+- High-abs + dual NEW: OCPP requalif 125m · encours incomplete 2.08bn · FWCN gap 165/63 · PRW 2.25bn · debt 30bn · Ste-Emilie 4.67bn
+- Gain 640-650: WAL CoA finance/recovery/UAP dual wave (largest stock add = encours 7.57bn; largest transfer = Ste-Emilie 4.67bn)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_coa_wave_641_650_l5_2025 ready+draft; rq_641=done spawn rq_642; ticks=650
+- FOI opened: gap_dual_coa_wave_641_650_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_642**; deferred **rq_116**; progress@660 in 10 ticks

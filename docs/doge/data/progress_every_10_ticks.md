@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 650** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA finance/recovery/UAP wave: DO10 PRW CL **2.274bn** · DO19 debt **2.146bn** · Ste-Émilie **4.671bn** + LSF **3.304bn** · UAP unites **-755m** · Encours **7.565bn** · OCPP after-corr **435m** · prior DO11–18 mega retained |
+| **D. L5 named / measure end-lines** | **~45-58%** of TE (generous) | **Gain 640→650 is WAL CoA finance + recovery + UAP dual hole-fill:** DO19 direct debt **€30.0bn**/interest **€605m** dual VL · Ste-Émilie **€4.67bn** dual FWB · PRW/FRR CL **€2.255bn** dual VV · UAP type3 **-€207m** (OTW **-€139m**) · Encours incomplete **+€2.08bn** · OCPP requalif **€125m** · FA+MD **+€75m** · circulation **€779m** · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~392** drafts ready | Human send only; answered **~9**; total FOI rows **~402** (+ DO15 agri · DO11 personnel · DO18 ZAE · DO19 debt · Ste-Émilie · DO10 PRW · UAP SEC · encours/SP · FA/OCPP · dual wave matrix · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt** · **WAL direct debt stock ~€30bn** / VL Maastricht **€50.2bn** · **encours stock €7.57bn** (+ incomplete **€2.08bn**) · **fonds stocks** (env **495m** · Kyoto **445m** · déchets **221m** · RDI **171m**) · UAP treasury remonte **€576m** · WE equity **~5bn** · SPAQuE/Sowaer BS · FRR/RePower receipts conditional.
+
+### Inventory (tick 650)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~11878 |
+| commitments.csv | ~1345 |
+| leaderboard.csv | ~2612 |
+| entities.csv | ~471 |
+| sources.csv | ~1278 |
+| FOI ready | ~392 |
+| FOI answered | ~9 |
+| FOI total rows | ~402 |
+| research_queue open | rq_116 deferred + rq_642 hole-fill after progress |
+
+### What improved since tick 640
+
+- **Debt + financing (tick644–645):** DO19 CL **€2.146bn** / direct debt eoy2025est **€29.95bn** / interest **€605m** dual VL Maastricht · Recettes **€21.80bn** / Ste-Émilie **€4.67bn** / LSF competences **€3.30bn** dual FWB/fed.
+- **Recovery + admin (tick641–643, 646):** DO15 agri CL **€605m** dual Landbouw/ANB · DO11 personnel CL **€888m** / SPW remun **€669m** · DO18 ZAE path **-€109m** + emploi pack **€3.14bn** dual VLAIO/VDAB · DO10 PRW+FRR CL **€2.255bn** dual VV (FRR rec **€920m** + RePower **€110m**).
+- **UAP + stocks + financial ops (tick647–649):** UAP unites impact **-€755m** (type3 **-€207m** / AViQ **-€331m**) · Encours **€7.57bn** incomplete **+€2.08bn** + section part EU rec **€389m** dual EFRO · FA+MD **+€75m** / OCPP after-corr **€435m** / **requalif margin €125m** dual PMV · circulation **€779m**.
+
+---
+
 ## Snapshot at **tick 640** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
