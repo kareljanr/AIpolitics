@@ -12012,3 +12012,42 @@ bud_type1_solde_bi2025,uap_perimeter_wal,2025,-80317000,,,budgeted,src_ccrek_por
 bud_fonds_bas_carbone_path_zero_bi2025,wallonie_gov,2025,0,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Fonds bas carbone Type1 zeroed BI2025 (BI2024 rec=dep 25m path -25m); tick654
 bud_apaq_w_dep_bi2025,wallonie_gov,2025,14759000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Apaq-W Type2 dep BI2025 14.759m path +3.307m solde -0.562m; tick654
 bud_apaq_w_rec_bi2025,wallonie_gov,2025,14197000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Apaq-W rec BI2025 14.197m; tick654
+bud_aviq_consol_impact_bi2025,aviq,2025,-330600000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,AViQ impact solde financement consol -330.6m after inexec; tick655
+bud_aviq_prw_rec_bi2025,aviq,2025,2400000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,AViQ PRW recettes 2.4m but RW DF122.006 liq zero reallocation residual; tick655
+bud_aviq_nonmarchand_bi2024,aviq,2024,125100000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Non-marchand BI2024 125.1m; tick655
+bud_aviq_index_pivot_bi2025,aviq,2025,128400000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Index pivot depassements path +128.4m AViQ credits; tick655
+bud_aviq_papyboom_eng_bi2025,aviq,2025,23700000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Papy-boom elderly construction eng 23.7m BI2025; tick655
+bud_aviq_papyboom_liq_bi2025,aviq,2025,19900000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Papy-boom liq 19.9m BI2025; tick655
+bud_aviq_papyboom_encours_nov2024,aviq,2024,34000000,,,outturn,src_ccrek_aviq_branch_parlement_bi2025,strong,Papy-boom encours 34.0m at 7 Nov 2024; tick655
+bud_aviq_papyboom_cum_eng_nov2024,aviq,2024,113500000,,,outturn,src_ccrek_aviq_branch_parlement_bi2025,strong,Papy-boom cum eng mid-Nov 2024 113.5m; tick655
+bud_aviq_papyboom_cum_liq_nov2024,aviq,2024,80200000,,,outturn,src_ccrek_aviq_branch_parlement_bi2025,strong,Papy-boom cum liq mid-Nov 2024 80.2m; tick655
+bud_aviq_priority_places_bi2025,aviq,2025,79900000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Priority handicap places eng=liq 79.9m (+5m for 100 new places 2025); tick655
+bud_aviq_prevention_promo_bi2025,aviq,2025,40000000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Prevention/promo sante +40m (promo 15 + ETP-PSY 8.6 + provision 16.4) structuralize from PRW; tick655
+bud_aviq_promo_sante_15m_bi2025,aviq,2025,15000000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Agrement acteurs promotion sante 15.0m of prevention pack; tick655
+bud_aviq_etp_psy_bi2025,aviq,2025,8600000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,ETP PSY prolongation 1yr 8.6m; tick655
+bud_aviq_prevention_provision_bi2025,aviq,2025,16400000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Provision nouveaux projets prevention 16.4m; tick655
+bud_aviq_safa_bi2025,aviq,2025,4400000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Safa family aid +4.4m (contrib 0.4 to 1.9 EUR Jul2024); tick655
+bud_aviq_mr_mrs_extra_bi2025,aviq,2025,6800000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,MR/MRS sejour +6.8m (staff reinfort + programming); tick655
+bud_aviq_mr_staff_reinfort_est,aviq,2025,5400000,,,estimate,src_ccrek_aviq_branch_parlement_bi2025,medium,Staff reinfort MR estimate 5.4m within 6.8m CoA questions dual measure delivery; tick655
+bud_parlement_wal_ce_bi2025,parlement_wallonie,2025,77437000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,DO01 Parlement CE=CL BI2025 77.437m path +1.058m; tick655
+bud_parlement_wal_dot_bi2025,parlement_wallonie,2025,75572000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Dotation Parlement Wallonie BI2025 75.572m path +1.024m; tick655
+bud_mediateur_wal_bi2025,mediateur_wallonie,2025,1865000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Mediateur RW BI2025 1.865m path +0.034m; tick655
+bud_parlement_wal_exec_12nov2024,parlement_wallonie,2024,76379000,,,outturn,src_ccrek_aviq_branch_parlement_bi2025,strong,Parlement exec CL 12Nov2024 76.379m (100pct BA); tick655
+bud_cabinet_mp_budget_bi2025,do02_cabinets_wal,2025,5401000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet MP Budget/Finances/Recherche BI2025 5.401m path +0.350m; tick655
+bud_cabinet_territoire_bi2025,do02_cabinets_wal,2025,5177000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Territoire/Mobilite/PL BI2025 5.177m path +0.671m; tick655
+bud_cabinet_economie_bi2025,do02_cabinets_wal,2025,5325000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Economie/Emploi/Numerique BI2025 5.325m path +0.664m; tick655
+bud_cabinet_sante_bi2025,do02_cabinets_wal,2025,3251000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Sante/Env/Solidarites BI2025 3.251m path -0.788m; tick655
+bud_cabinet_fp_bi2025,do02_cabinets_wal,2025,1556000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Fonction publique/Sports BI2025 1.556m path -0.907m; tick655
+bud_cabinet_tourisme_bi2025,do02_cabinets_wal,2025,1408000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Tourisme/Patrimoine/PE BI2025 1.408m path -1.211m; tick655
+bud_cabinet_energie_bi2025,do02_cabinets_wal,2025,2954000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Energie/Climat/Logement/Aeroports BI2025 2.954m path -0.284m; tick655
+bud_cabinet_agriculture_bi2025,do02_cabinets_wal,2025,2954000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Cabinet Agriculture/Ruralite BI2025 2.954m path -0.146m; tick655
+bud_sec_other_corr_total_bi2025,wallonie_gov,2025,161100000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Autres corrections SEC BI2025 161.1m; tick655
+bud_sec_corr_hospital_capital_bi2025,wallonie_gov,2025,103300000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Hospital past+new invest capital fed refund corr 103.3m; tick655
+bud_sec_corr_green_certs_bi2025,wallonie_gov,2025,33000000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Certificats verts SEC corr 33.0m WFE projections; tick655
+bud_sec_corr_succession_lag_bi2025,wallonie_gov,2025,32000000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Succession cash lag 2-month corr 32.0m; tick655
+bud_sec_corr_garanties_std_bi2025,wallonie_gov,2025,-5000000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Garanties standardisees SEC corr -5.0m; tick655
+bud_sec_corr_amendes_routieres_bi2025,wallonie_gov,2025,-3100000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Decomptes amendes routieres -3.1m; tick655
+bud_sec_corr_leasing_cauchy_bi2025,wallonie_gov,2025,300000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Leasing financier Cauchy +0.3m; tick655
+bud_sec_corr_galileo_bi2025,wallonie_gov,2025,700000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Projet Galileo +0.7m; tick655
+bud_ocpp_requalif_effective_margin_bi2025,ocpp_wal,2025,75800000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,Effective requalif margin 75.8m after ICN 49.6m of 125.4m; tick655
+bud_icn_requalif_known_bi2025,ocpp_wal,2025,49600000,,,budgeted,src_ccrek_aviq_branch_parlement_bi2025,strong,ICN already requalified ops 49.6m in BI2025 projects (Sowaer 0.4 energy 0.4 avances 48.8); tick655

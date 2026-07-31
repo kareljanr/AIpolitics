@@ -7732,3 +7732,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+6); budgets (+36); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_ports_do02_do09_l5_2025; rq_645=done; spawn rq_646; loop_state ticks=654
 - FOI opened: gap_ports_do02_do09_l5_2025 -- ready (not sent)
 - Next: rq_646; progress@660 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T05:30:00Z -- tick 655
+- Unit: rq_646 (FOI-adjacent dual social/admin hole-fill -- **AViQ branch residual + Parlement/cabinets + SEC corr** dual VAPH)
+- Found: **AViQ Table34** (primary CoA s8.2): rec **EUR6.877bn** / dep **EUR7.256bn** / result **-EUR379m** (remonte **EUR335m**); consol impact **-EUR330.6m** after inexec **EUR48.6m**. **Non-marchand EUR276.2m** (path **+EUR151m**). Index **+EUR128.4m**. **Papy-boom** eng **EUR23.7m** / cum eng **EUR113.5m** / residual beds **1886+442**. Priority places **EUR79.9m**. Prevention **EUR40m** (PRW structuralize). Safa **+EUR4.4m**; MR/MRS **+EUR6.8m**. **Parlement DO01 EUR77.4m** (mediateur **EUR1.9m**). Cabinets L5: MP **EUR5.4m** / Eco **EUR5.3m** / Territoire **EUR5.2m**. SEC other corr **EUR161m** (hospital **EUR103m**). Dual **VAPH**. Strong confidence CoA; bed/places L5 residual FOI.
+- Wrote: entities (+2); budgets (+45); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_aviq_branch_parlement_l5_2025; rq_646=done; spawn rq_647; loop_state ticks=655
+- FOI opened: gap_aviq_branch_parlement_l5_2025 -- ready (not sent)
+- Next: rq_647; progress@660 in 5 ticks; rq_116 deferred
