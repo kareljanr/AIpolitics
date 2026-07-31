@@ -10547,3 +10547,46 @@ bud_sibelga_grid_gas_km_2025,sibelga,2025,2938,,,outturn,src_sibelga_essentiel_2
 bud_sibelga_energy_share_members_2025,sibelga,2025,2790,,,outturn,src_sibelga_essentiel_2025,strong,COUNT energy sharing participants 2790; tick578
 bud_sibelga_elec_plan_2026_30,sibelga,2025,600000000,,,outturn,src_sibelga_rf_2025,strong,Electricity Development Plan invest >600m 2026-2030 class; tick578
 bud_sibelga_gas_plan_2026_30,sibelga,2025,40000000,,,outturn,src_sibelga_rf_2025,strong,Gas network invest just over 40m 2026-2030 class; tick578
+bud_ores_ca_2025,ores,2025,1159409027,,,outturn,src_ores_assets_ra_2025,strong,Chiffre d affaires 1159.409m 2025 (+9.1pct vs 1062.3m 2024); tick579
+bud_ores_ventes_2025,ores,2025,1211220575,,,outturn,src_ores_assets_ra_2025,strong,Ventes et prestations 1211.221m 2025; tick579
+bud_ores_op_profit_2025,ores,2025,184576204,,,outturn,src_ores_assets_ra_2025,strong,Benefice d exploitation 184.576m 2025 (148.321m 2024); tick579
+bud_ores_pbt_2025,ores,2025,135119222,,,outturn,src_ores_assets_ra_2025,strong,Benefice avant impots 135.119m 2025; tick579
+bud_ores_net_2025,ores,2025,96505594,,,outturn,src_ores_assets_ra_2025,strong,Benefice de l exercice 96.506m 2025 (+33pct vs 72.378m); tick579
+bud_ores_net_a_affecter_2025,ores,2025,99393653,,,outturn,src_ores_assets_ra_2025,strong,Benefice a affecter 99.394m 2025; tick579
+bud_ores_dividend_2025,ores,2025,74078606,,,outturn,src_ores_assets_ra_2025,strong,Dividende a distribuer 74.079m 2025 (76.145m 2024; new dividend policy); tick579
+bud_ores_reserves_dot_2025,ores,2025,25315047,,,outturn,src_ores_assets_ra_2025,strong,Dotation reserves disponibles 25.315m 2025; tick579
+bud_ores_assets_2025,ores,2025,5227753741,,,outturn,src_ores_assets_ra_2025,strong,Total bilan/actif 5227.754m end-2025 (4873.759m 2024); tick579
+bud_ores_equity_2025,ores,2025,2070897517,,,outturn,src_ores_assets_ra_2025,strong,Capitaux propres 2070.898m end-2025; tick579
+bud_ores_dettes_total_2025,ores,2025,3116679358,,,outturn,src_ores_assets_ra_2025,strong,Dettes totales 3116.679m end-2025; tick579
+bud_ores_lt_debt_2025,ores,2025,2490477823,,,outturn,src_ores_assets_ra_2025,strong,Dettes >1an ~2490.5m (banks 119.1 + other loans 2368.6 + other 2.8); tick579
+bud_ores_lt_banks_2025,ores,2025,119071654,,,outturn,src_ores_assets_ra_2025,strong,LT bank credit 119.072m end-2025; tick579
+bud_ores_lt_other_loans_2025,ores,2025,2368611170,,,outturn,src_ores_assets_ra_2025,strong,LT other loans 2368.611m end-2025 (incl USPP 250m Apr2025); tick579
+bud_ores_st_debt_2025,ores,2025,530772686,,,outturn,src_ores_assets_ra_2025,strong,Dettes <=1an class ~530.8m (from total dettes-LT); tick579
+bud_ores_mva_install_2025,ores,2025,4244238447,,,outturn,src_ores_assets_ra_2025,strong,Installations machines outillage net 4244.238m end-2025; tick579
+bud_ores_mva_total_class_2025,ores,2025,4425198000,,,outturn,src_ores_assets_ra_2025,strong,Immobilisations corporelles total ~4425.2m end-2025 (+253m); tick579
+bud_ores_invest_brut_2025,ores,2025,541000000,,,outturn,src_ores_assets_ra_2025,strong,Investissements bruts 541m 2025 headline chiffres-cles; tick579
+bud_ores_invest_net_2025,ores,2025,444249000,,,outturn,src_ores_assets_ra_2025,strong,Investissements nets exercice +444.249m 2025 (comments BS); tick579
+bud_ores_da_2025,ores,2025,186772588,,,outturn,src_ores_assets_ra_2025,strong,Amortissements 186.773m 2025; tick579
+bud_ores_fin_charges_2025,ores,2025,53077651,,,outturn,src_ores_assets_ra_2025,strong,Charges financieres 53.078m 2025; tick579
+bud_ores_tax_2025,ores,2025,39200589,,,outturn,src_ores_assets_ra_2025,strong,Impots sur resultat 39.201m 2025; tick579
+bud_ores_transit_elec_2025,ores,2025,880261000,,,outturn,src_ores_assets_ra_2025,strong,Redevances transit electricite 880.261m 2025 (+22.8pct); tick579
+bud_ores_transit_gas_2025,ores,2025,221105000,,,outturn,src_ores_assets_ra_2025,strong,Redevances transit gaz 221.105m 2025 (+15.8pct); tick579
+bud_ores_ca_elec_2025,ores,2025,927318457,,,outturn,src_ores_assets_ra_2025,strong,CA secteur electricite 927.318m 2025; tick579
+bud_ores_ca_gas_2025,ores,2025,228908801,,,outturn,src_ores_assets_ra_2025,strong,CA secteur gaz 228.909m 2025; tick579
+bud_ores_cap_subsidies_2025,ores,2025,108299244,,,outturn,src_ores_assets_ra_2025,strong,Subsides en capital 108.299m end-2025; tick579
+bud_ores_reg_asset_cum_2025,ores,2025,252097000,,,outturn,src_ores_assets_ra_2025,strong,Cumul soldes regulatoires AR 252.097m eoy2025 (elec 199.3 + gas 52.8); tick579
+bud_ores_wacc_pct_x100_2025,ores,2025,403,,,outturn,src_ores_assets_ra_2025,strong,COUNT WaCC 4.027pct x100 on RAB hors reval 2025-29 fixed; tick579
+bud_ores_uspp_2025,ores,2025,250000000,,,outturn,src_ores_assets_ra_2025,strong,USPP bond placement 250m Apr2025 institutional; tick579
+bud_ores_staff_2025,ores,2025,2953,,,outturn,src_ores_assets_ra_2025,strong,COUNT collaborateurs 2953 actifs; tick579
+bud_ores_eans_elec_2025,ores,2025,1424431,,,outturn,src_ores_assets_ra_2025,strong,COUNT EAN elec 1424431; tick579
+bud_ores_eans_gas_2025,ores,2025,540739,,,outturn,src_ores_assets_ra_2025,strong,COUNT EAN gas 540739; tick579
+bud_ores_mwh_elec_2025,ores,2025,10743773,,,outturn,src_ores_assets_ra_2025,strong,COUNT MWh elec distribues 10743773; tick579
+bud_ores_mwh_gas_2025,ores,2025,12546898,,,outturn,src_ores_assets_ra_2025,strong,COUNT MWh gas distribues 12546898; tick579
+bud_ores_smart_meters_cum_2025,ores,2025,447961,,,outturn,src_ores_assets_ra_2025,strong,COUNT compteurs communicants 447961 (elec 423362 gas 24599); tick579
+bud_ores_grid_elec_km_2025,ores,2025,54212,,,outturn,src_ores_assets_ra_2025,strong,COUNT reseau elec 54212 km incl public lighting; tick579
+bud_ores_grid_gas_km_2025,ores,2025,10289,,,outturn,src_ores_assets_ra_2025,strong,COUNT reseau gas 10289 km; tick579
+bud_ores_led_share_pct_2025,ores,2025,6700,,,outturn,src_ores_assets_ra_2025,strong,COUNT luminaires LED 67pct of 472394 x100; tick579
+bud_ores_luminaires_2025,ores,2025,472394,,,outturn,src_ores_assets_ra_2025,strong,COUNT luminaires eclairage public 472394; tick579
+bud_ores_protected_clients_2025,ores,2025,57800,,,outturn,src_ores_assets_ra_2025,strong,COUNT clients proteges ~57800; tick579
+bud_ores_prepaid_meters_2025,ores,2025,60000,,,outturn,src_ores_assets_ra_2025,strong,COUNT compteurs prepaiement ~60000; tick579
+bud_ores_enzo_meters_plan,ores,2025,700000,,,outturn,src_ores_assets_ra_2025,strong,COUNT ENZO consortium ~700k meters to install ORES territory (joint RESA award); tick579

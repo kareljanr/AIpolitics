@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:15:00Z,rq_569,578,no,tick578 Sibelga RF2025 turnover 397m dual Fluvius DSO RAB 1.36bn; next rq_570; progress@580 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:20:00Z,rq_570,579,no,tick579 ORES Assets CA 1.16bn dual DSO trio invest 541m; next rq_571 progress@580; rq_116 deferred

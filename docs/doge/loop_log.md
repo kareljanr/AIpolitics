@@ -7062,3 +7062,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +44; cmt +3; lb +7; FOI **gap_sibelga_mar_l5_2025** ready+draft; entity; raw PDFs; rq_569=done spawn **rq_570**; ticks=578
 - FOI opened: gap_sibelga_mar_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_570**; deferred **rq_116**; progress@580 in 2 ticks
+
+### 2026-07-31T11:20:00Z - tick 579
+- Unit: **rq_570** (FOI-adjacent hole-fill - **ORES Assets RA2025 dual DSO trio + invest 541m**)
+- Found (strong primary ORES Assets Rapport annuel 2025, 178 pp):
+  - **CA EUR 1,159.4m** (+9.1% vs 1,062.3m); ventes **1,211.2m**; **op profit 184.6m**; **net 96.5m** (+33%)
+  - **Dividend 74.1m** (76.1m 2024; new policy); reserves dot **25.3m**
+  - **Balance:** assets **5.228bn**; equity **2.071bn**; dettes **3.117bn**; LT other loans **2.369bn** + banks **119m**; USPP **250m** Apr2025
+  - **MVA installations 4.244bn**; invest brut **541m** / net **+444m**
+  - Transit: elec **880.3m** (+23%) gas **221.1m** (+16%); WaCC **4.027%** fixed 2025-29
+  - Reg balances AR cum **252m** (elec 199 + gas 53)
+  - **Ops:** staff **2,953**; EAN elec **1.42m** gas **0.54m**; grids **54.2k** + **10.3k** km; smart meters **448k**; LED **67%** of 472k lights
+  - ENZO consortium **~700k** meters joint RESA from Sep2025
+  - **Dual DSO trio:** ORES **1.16bn / 541m / 3.0k** vs Sibelga **397m / 117m / 1.2k** vs Fluvius **4.60bn / 1.78bn / 6.0k** + Elia TSO
+- Wrote: sources +2; budgets +43; cmt +3; lb +7; FOI **gap_ores_rab_l5_2025** ready+draft; entity; raw PDF; rq_570=done spawn **rq_571 progress@580**; ticks=579
+- FOI opened: gap_ores_rab_l5_2025 (ready, human send) - not sent
+- Next: **rq_571 progress@580 mandatory**; deferred **rq_116**
