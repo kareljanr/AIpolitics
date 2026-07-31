@@ -13813,3 +13813,23 @@ bud_fwb_do26_sport_ce_aju_51_6m_2026,fwb_gov,2026,51600000,,,budgeted,src_ccrek_
 bud_fwb_do20_culture_cl_aju_324_6m_2026,fwb_gov,2026,324600000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO20 Culture CL aju 324.6 (IB 367.5 tech redistrib non-marchand); tick703
 bud_fwb_do20_culture_ce_aju_227_9m_2026,fwb_gov,2026,227900000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO20 Culture CE aju 227.9 (IB 267.2); tick703
 bud_dual_fwb_do56_vl_volwassenen_2026,gg_belgium,2026,271391000,,,budgeted,src_dual_fwb_vl_edu_tick703,strong,Dual FWB DO56 271.4 vs VL volwassenen save-fail 50 / Digisprong raid 24; not TE-additive; tick703
+bud_bru_debt_consol_eoy2025_16_1bn,brussels_gov,2025,16100000000,,,outturn,src_ccrek_bru_debt_stib_dual_2026,strong,BCR consol debt eoy2025 16.1bn (+3.5bn 2023-25); tick704
+bud_bru_debt_consol_path_eoy2026_17_7bn,brussels_gov,2026,17700000000,,,estimate,src_ccrek_bru_debt_stib_dual_2026,strong,CoA path consol 17.7bn eoy2026 (cash 1.5bn stable); tick704
+bud_bru_debt_consol_path_eoy2029_19_1bn,brussels_gov,2029,19100000000,,,estimate,src_ccrek_bru_debt_stib_dual_2026,strong,Gov +3bn debt limit path >19.1bn eoy2029 if cash 1.5; start date opaque; tick704
+bud_bru_direct_lt_debt_13_4bn_eoy2025,brussels_gov,2025,13400000000,,,outturn,src_ccrek_bru_debt_stib_dual_2026,strong,Direct LT debt 13.4bn eoy2025; amort to 2071 cap 0.5bn/yr; tick704
+bud_bru_interest_505_2m_2026,brussels_gov,2026,505200000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Direct debt interest credits 505.2 (+55.5 vs 2025); tick704
+bud_bru_interest_products_34_7m_2026,brussels_gov,2026,34700000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Debt management interest products 34.7 flat vs 2025; tick704
+bud_bru_financing_need_2130_1m_2026,brussels_gov,2026,2130100000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Financing need 2130.1 of which 652 raised by 17Feb2026; tick704
+bud_bru_financing_raised_652m_feb2026,brussels_gov,2026,652000000,,,outturn,src_ccrek_bru_debt_stib_dual_2026,strong,Financings already raised 652 by 17Feb; tick704
+bud_bru_credit_line_caissier_50m_2026,brussels_gov,2026,50000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Caissier credit line cut to 50 (was 500); second 500 not renewed; tick704
+bud_bru_guaranteed_debt_3_6bn_eoy2025,brussels_gov,2025,3600000000,,,outturn,src_ccrek_bru_debt_stib_dual_2026,strong,Guaranteed debt stock 3.6bn eoy2025; mainly FL 1.5 + FRBRTC 1.3 in consol; tick704
+bud_bru_fonds_logement_debt_1_5bn_2025,brussels_gov,2025,1500000000,,,outturn,src_ccrek_bru_debt_stib_dual_2026,strong,Fonds du logement debt class 1.5bn eoy2025 dual housing; tick704
+bud_bru_frbrtc_debt_1_3bn_2025,brussels_gov,2025,1300000000,,,outturn,src_ccrek_bru_debt_stib_dual_2026,strong,FRBRTC communal treasury refinancing debt 1.3bn; tick704
+bud_bru_guarantee_hydria_20m_auth_2026,brussels_gov,2026,20000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Guarantee auth Hydria max 20m 2026; tick704
+bud_bru_guarantee_centre_tri_60m_auth_2026,brussels_gov,2026,60000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Guarantee auth Centre de tri max 60m 2026; tick704
+bud_bru_guarantee_bru_energie_36m_auth_2026,brussels_gov,2026,36000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Guarantee auth Bruxelles Energie max 36m 2026; tick704
+bud_bru_guarantee_scs_25m_auth_2026,brussels_gov,2026,25000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,Guarantee auth social credit companies max 25m 2026; tick704
+bud_stib_ppi_cut_964_6m_2026_29,stib,2029,964600000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,STIB PPI gov path vs 2025 plan cut 964.6 over 2026-29 dual Metro3; tick704
+bud_stib_ppi_gov_2026_485m,stib,2026,485000000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,DPR STIB PPI liq path 2026 485 (STIB plan 591.5); tick704
+bud_stib_ppi_operator_2026_591_5m,stib,2026,591500000,,,budgeted,src_ccrek_bru_debt_stib_dual_2026,strong,STIB operator PPI plan 2026 591.5; tick704
+bud_dual_entity2_debt_bcr_16_1bn_2025,gg_belgium,2025,16100000000,,,outturn,src_dual_entity2_debt_ratings_tick704,strong,Dual BCR consol 16.1 vs VL57 WAL33 FWB16; not TE-additive; tick704

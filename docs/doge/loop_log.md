@@ -8285,3 +8285,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+19); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fwb_aju2026_edu_dual_vl_l5**; rq_694=done; spawn **rq_695**; loop_state ticks=703
 - FOI opened: gap_fwb_aju2026_edu_dual_vl_l5 — ready (not sent)
 - Next: rq_695; progress@710 in 7 ticks; rq_116 deferred
+
+### 2026-08-01T17:45:00Z — tick 704
+- Unit: **rq_695** (FOI-adjacent dual residual — **BCR debt 16.1→19.1 + STIB PPI cut 964.6 dual Entity II**)
+- Found (primary CoA 2026_17 ch.3 + §5.3.2):
+  - Consol debt eoy2025 **16.1bn** (+3.5 2023–25); CoA path eoy2026 **17.7** / 2029 **>19.1** (+3bn cap opaque)
+  - Direct LT **13.4bn**; interest **505.2** (+55.5); products **34.7**; credit lines cut **500→50** + second not renewed
+  - Financing need **2130.1** (raised **652** by 17Feb); cash-rich strategy; no multi-year projection (art 16/12 breach)
+  - S&P **A negative** (from A+); guarantees **3.6bn** (FL **1.5** FRBRTC **1.3**) + auths Hydria/Centre tri/BruÉnergie/SCS
+  - STIB PPI cut **964.6** 2026–29 (gov **485** vs operator **591.5** 2026) dual Metro3
+  - Dual VL A1 / WAL Baa1 / FWB A3; Strong CoA; L5 FOI.
+- Wrote: budgets (+20); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_bru_debt_stib_dual_l5**; rq_695=done; spawn **rq_696**; loop_state ticks=704
+- FOI opened: gap_bru_debt_stib_dual_l5 — ready (not sent)
+- Next: rq_696; progress@710 in 6 ticks; rq_116 deferred
