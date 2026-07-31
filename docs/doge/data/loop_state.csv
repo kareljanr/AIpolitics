@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:10:00Z,rq_556,565,no,tick565 FOREM DEI 255k dual PES; next rq_557; progress@570 in 5; rq_116 deferred
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-07-31T10:15:00Z,rq_557,566,no,tick566 Actiris DEI 93k+ADG 2.4k four-PES; next rq_558; progress@570 in 4; rq_116 deferred

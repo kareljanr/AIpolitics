@@ -6870,3 +6870,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +26; cmt +2; lb +7; FOI **gap_forem_ra_outturn_2024_25** ready+draft; gap_forem_budget notes; raw PDFs; rq_556=done spawn **rq_557**; ticks=565
 - FOI opened: gap_forem_ra_outturn_2024_25 (ready, human send) - not sent
 - Next: prio5 **rq_557**; deferred **rq_116**; progress@570 in 5 ticks
+
+### 2026-07-31T10:15:00Z - tick 566
+- Unit: **rq_557** (FOI-adjacent hole-fill - **Actiris DEI 2025-26 reform + ADG Q2 2026 dual four-PES**)
+- Found (strong primary Actiris press Dec2025/May/Jun2026 + ADG Arbeitsmarkt Q2 2026):
+  - **Actiris DEI:** eoy2025 **96.650** rate **15.4%** → May2026 **93.732** → Jun2026 **93.445** (+3.0% YoY; excl65+ **91.707** +1.1%); rate **14.6%**
+  - **Reform shift Jun:** UI-alloc DEI **-36.3%** (-18.120) · other DEI **+55.9%** · CPAS-linked **34.137** (36.5% of DEI **+83.5%** YoY) · JSI **+21%**
+  - **ADG eojun2026:** Vollarbeitslose **2.396** (-133) rate **6.4%** (was 6.7); UI share **37%**; ~**400** lost UI Jan-Apr (-28%); voluntary **29%** (+48%); school leavers **84**; Eupen **8.4%** vs south **3.4%**; LTU **57%**; vac Q2 **260** non-interim
+  - **Dual four-SPE rates:** VL **6.9** · WAL **14.3** · BRU **14.6** · DG **6.4**; ONEM BRU cash **€1.17bn** vs Actiris stock
+- Wrote: sources +5; entities +adg; budgets +30; cmt +4; lb +8; FOI **gap_actiris_reform_cpas_2026** + **gap_adg_budget_tco** ready+drafts; rq_557=done spawn **rq_558**; ticks=566
+- FOI opened: gap_actiris_reform_cpas_2026 + gap_adg_budget_tco (ready, human send) - not sent
+- Next: prio5 **rq_558**; deferred **rq_116**; progress@570 in 4 ticks

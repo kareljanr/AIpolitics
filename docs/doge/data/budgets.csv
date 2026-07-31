@@ -10186,3 +10186,33 @@ bud_forem_dei_rate_liege,forem,2025,17.7,,,outturn,src_forem_marche_emploi_2025,
 bud_forem_dei_rate_lux,forem,2025,12.1,,,outturn,src_forem_marche_emploi_2025,strong,PCT DEI rate Luxembourg 12.1 +0.9pp; tick565
 bud_forem_dei_rate_namur_bw,forem,2025,12.2,,,outturn,src_forem_marche_emploi_2025,strong,PCT DEI rate Namur/BW 12.2 +1.2pp; tick565
 bud_vdab_wzw_vs_forem_dei,vdab,2025,224630,,,outturn,src_dual_pes_forem_vdab_onem_tick565,strong,COUNT dual: VDAB WZW Flanders eoy 224630 rate 6.9 vs FOREM DEI avg 254921; tick565
+bud_actiris_dei_dec_2025,actiris,2025,96650,,,outturn,src_actiris_dei_dec_2025,strong,COUNT DEI eoy Dec2025 96650 (+4.4pct YoY); tick566
+bud_actiris_dei_rate_dec_2025,actiris,2025,15.4,,,outturn,src_actiris_dei_dec_2025,strong,PCT admin unemployment rate BRU Dec2025 15.4 (+0.65pp); tick566
+bud_actiris_cpas_dec_2025,actiris,2025,20038,,,outturn,src_actiris_dei_dec_2025,strong,COUNT DEI also CPAS Dec2025 20038 (20.7pct +12.9pct); tick566
+bud_actiris_entries_dec_2025,actiris,2025,10167,,,outturn,src_actiris_dei_dec_2025,strong,COUNT monthly entries Dec2025 10167 (rein 8172 new 1995); exits 7080; tick566
+bud_actiris_dei_may_2026,actiris,2026,93732,,,outturn,src_actiris_dei_may_2026,strong,COUNT DEI May2026 93732 (+4.2pct); excl65+ 91893 (+2.2pct); tick566
+bud_actiris_dei_rate_may_2026,actiris,2026,14.6,,,outturn,src_actiris_dei_may_2026,strong,PCT rate May2026 14.6 (+0.31pp YoY); tick566
+bud_actiris_alloc_yoy_may_2026,actiris,2026,-13572,,,outturn,src_actiris_dei_may_2026,strong,COUNT UI-alloc DEI YoY -13572 (-28.0pct) reform; tick566
+bud_actiris_other_dei_yoy_may_2026,actiris,2026,16500,,,outturn,src_actiris_dei_may_2026,strong,COUNT other DEI YoY +16500 (+46.4pct) category shift; tick566
+bud_actiris_cpas_may_2026,actiris,2026,31850,,,outturn,src_actiris_dei_may_2026,strong,COUNT CPAS-linked DEI May2026 31850 (34.0pct +72.2pct YoY); tick566
+bud_actiris_cpas_mom_may_2026,actiris,2026,2995,,,outturn,src_actiris_dei_may_2026,strong,COUNT MoM CPAS +2995 (+10.4pct); alloc MoM -8349 (-19.3pct); tick566
+bud_actiris_dei_jun_2026,actiris,2026,93445,,,outturn,src_actiris_dei_jun_2026,strong,COUNT DEI Jun2026 93445 (+3.0pct); excl65+ 91707 (+1.1pct); tick566
+bud_actiris_dei_rate_jun_2026,actiris,2026,14.6,,,outturn,src_actiris_dei_jun_2026,strong,PCT rate Jun2026 14.6 (+0.16pp YoY stable); tick566
+bud_actiris_alloc_yoy_jun_2026,actiris,2026,-18120,,,outturn,src_actiris_dei_jun_2026,strong,COUNT UI-alloc DEI YoY -18120 (-36.3pct); tick566
+bud_actiris_other_dei_yoy_jun_2026,actiris,2026,19689,,,outturn,src_actiris_dei_jun_2026,strong,COUNT other DEI YoY +19689 (+55.9pct); tick566
+bud_actiris_cpas_jun_2026,actiris,2026,34137,,,outturn,src_actiris_dei_jun_2026,strong,COUNT CPAS-linked DEI Jun2026 34137 (36.5pct +83.5pct YoY); dual leefloon spillover; tick566
+bud_actiris_jsi_yoy_jun_2026,actiris,2026,1183,,,outturn,src_actiris_dei_jun_2026,strong,COUNT young insertion stage YoY +1183 (+21.0pct); tick566
+bud_actiris_entries_jun_2026,actiris,2026,9303,,,outturn,src_actiris_dei_jun_2026,strong,COUNT entries Jun 9303 exits 9590 MoM -287; tick566
+bud_adg_voll_jun_2026,adg,2026,2396,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,COUNT Vollarbeitslose eojun2026 2396 (-133 YoY); tick566
+bud_adg_rate_jun_2026,adg,2026,6.4,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT rate DG 6.4 (was 6.7); dual VL ~6.4-6.9; tick566
+bud_adg_ui_share_jun_2026,adg,2026,37,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT Vollarbeitslose on UI benefit 37 eojun2026; tick566
+bud_adg_ui_lost_jan_apr_2026,adg,2026,400,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,COUNT ~400 lost UI/BEI Jan-Apr 2026 (-28pct UI recipients); tick566
+bud_adg_voluntary_share_jun_2026,adg,2026,29,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT voluntary seekers 29 (+48pct YoY stock class); tick566
+bud_adg_school_leavers_jun_2026,adg,2026,84,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,COUNT school leavers stage 84 (3.9pct); max 6m post-reform; tick566
+bud_adg_rate_eupen_jun_2026,adg,2026,8.4,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT rate canton Eupen 8.4 vs south 3.4; tick566
+bud_adg_rate_south_jun_2026,adg,2026,3.4,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT rate south DG 3.4; tick566
+bud_adg_ltu_share_jun_2026,adg,2026,57,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT long-term >1yr 57; tick566
+bud_adg_lowqual_share_jun_2026,adg,2026,42,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT formal low-qualified 42; tick566
+bud_adg_vacancies_q2_2026,adg,2026,260,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,COUNT non-interim vacancies Q2 2026 260 (92pct local employers); tick566
+bud_dual_adg_rate_vs_regions,adg,2026,6.4,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT dual ADG 6.4 = FL class; WAL 16.2 BRU 17.0 method-differ note; tick566
+bud_dual_onem_bru_vs_actiris_dei,onem_rva,2025,1167800000,,,outturn,src_dual_pes_four_actiris_adg_tick566,strong,EUR dual ONEM BRU benefits 1.168bn vs Actiris DEI ~97k eoy2025; unit-cost residual; tick566
