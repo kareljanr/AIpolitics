@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T13:30:00Z,rq_582,591,no,tick591 SPAQuE assets 534m dual OVAM soil; next rq_583; progress@600 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T13:45:00Z,rq_583,592,no,tick592 ISSeP CA 34.8m dual VITO env science; next rq_584; progress@600 in 8; rq_116 deferred

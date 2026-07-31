@@ -10944,3 +10944,25 @@ bud_spaque_relance143_spent_2024,spaque,2024,645801,,,outturn,src_spaque_ra_2024
 bud_spaque_sarec_envelope,spaque,2024,8000000,,,budgeted,src_spaque_ra_2024,strong,SPAQuE SAREC emergency waste envelope 8.0m; tick591
 bud_spaque_relance219_spent_2024,spaque,2024,713109,,,outturn,src_spaque_ra_2024,strong,SPAQuE Plan Relance 219 urban spent 0.713m 2024; tick591
 bud_spaque_materials_t_2024,spaque,2024,0,,,outturn,src_spaque_ra_2024,strong,SPAQuE 63810 t materials treated 47pct recycled 2024; not EUR; tick591
+bud_issep_ca_2024,issep,2024,34769734,,,outturn,src_issep_ra_2024,strong,ISSeP chiffre d affaires 34.770m 2024 (vs 31.297m 2023); tick592
+bud_issep_ventes_2024,issep,2024,38268891,,,outturn,src_issep_ra_2024,strong,ISSeP ventes et prestations 38.269m 2024; tick592
+bud_issep_other_op_prod_2024,issep,2024,3371191,,,outturn,src_issep_ra_2024,strong,ISSeP autres produits exploitation 3.371m 2024; tick592
+bud_issep_costs_2024,issep,2024,39231662,,,outturn,src_issep_ra_2024,strong,ISSeP cout ventes prestations 39.232m 2024; tick592
+bud_issep_personnel_2024,issep,2024,27051141,,,outturn,src_issep_ra_2024,strong,ISSeP remunerations 27.051m staff 304 / 262.1 ETP 2024; tick592
+bud_issep_services_2024,issep,2024,6687644,,,outturn,src_issep_ra_2024,strong,ISSeP services biens divers 6.688m 2024; tick592
+bud_issep_amort_2024,issep,2024,2710730,,,outturn,src_issep_ra_2024,strong,ISSeP amortissements 2.711m 2024; tick592
+bud_issep_op_result_2024,issep,2024,-962771,,,outturn,src_issep_ra_2024,strong,ISSeP perte exploitation -0.963m 2024; tick592
+bud_issep_fin_prod_2024,issep,2024,2719600,,,outturn,src_issep_ra_2024,strong,ISSeP produits financiers 2.720m 2024; tick592
+bud_issep_fin_charges_2024,issep,2024,5704,,,outturn,src_issep_ra_2024,strong,ISSeP charges financieres 0.006m 2024; tick592
+bud_issep_net_result_2024,issep,2024,1751124,,,outturn,src_issep_ra_2024,strong,ISSeP benefice exercice 1.751m 2024 (vs 0.298m 2023); tick592
+bud_issep_assets_2024,issep,2024,24574503,,,outturn,src_issep_ra_2024,strong,ISSeP total bilan 24.575m 2024 (vs 30.473m 2023); tick592
+bud_issep_fixed_assets_2024,issep,2024,8516785,,,outturn,src_issep_ra_2024,strong,ISSeP actifs immobilises 8.517m 2024; tick592
+bud_issep_cash_2024,issep,2024,10390428,,,outturn,src_issep_ra_2024,strong,ISSeP valeurs disponibles 10.390m 2024; tick592
+bud_issep_equity_2024,issep,2024,9298011,,,outturn,src_issep_ra_2024,strong,ISSeP capitaux propres 9.298m 2024; tick592
+bud_issep_capital_2024,issep,2024,4836843,,,outturn,src_issep_ra_2024,strong,ISSeP capital souscrit 4.837m 2024; tick592
+bud_issep_subsides_capital_2024,issep,2024,9631798,,,outturn,src_issep_ra_2024,strong,ISSeP subsides en capital 9.632m 2024; tick592
+bud_issep_provisions_2024,issep,2024,8012380,,,outturn,src_issep_ra_2024,strong,ISSeP provisions 8.012m (pension 3.729m + env 4.283m) 2024; tick592
+bud_issep_dettes_2024,issep,2024,7264113,,,outturn,src_issep_ra_2024,strong,ISSeP dettes totales 7.264m 2024; tick592
+bud_issep_st_debt_2024,issep,2024,6899032,,,outturn,src_issep_ra_2024,strong,ISSeP dettes ST 6.899m 2024; tick592
+bud_issep_receivables_st_2024,issep,2024,5027159,,,outturn,src_issep_ra_2024,strong,ISSeP creances a un an 5.027m 2024; tick592
+bud_issep_staff_headcount_2024,issep,2024,0,,,outturn,src_issep_ra_2024,strong,ISSeP 304 workers 262.1 ETP Liege 263 Colfontaine 41 2024; not EUR; tick592

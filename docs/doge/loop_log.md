@@ -7214,3 +7214,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update spaque; budgets (+28); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_spaque_site_l5_2024; rq_582=done; spawn rq_583; loop_state ticks=591
 - FOI opened: gap_spaque_site_l5_2024 → ready (not sent)
 - Next: rq_583; progress@600 in 9 ticks; rq_116 deferred
+
+### 2026-07-31T13:45:00Z — tick 592
+- Unit: rq_583 (FOI-adjacent dual env science hole-fill — **ISSeP** dual VITO)
+- Found: **ISSeP** RA/comptes 2024 (primary PDF, 108 pp). **CA €34.770m** (ventes €38.269m); **op −€0.963m**; **net +€1.751m**. **Assets €24.575m**; equity **€9.298m**; dettes **€7.264m**; provisions **€8.012m** (pension 3.7 + env 4.3); cash **€10.390m**. Personnel **€27.051m** / **304** staff / **262.1 ETP** (Liège 263 Colfontaine 41). UAP scientific env surveillance dual **VITO** Flanders + stack with **SPAQuE** soil. Strong confidence.
+- Wrote: entities (+issep); budgets (+22); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_issep_client_l5_2024; rq_583=done; spawn rq_584; loop_state ticks=592
+- FOI opened: gap_issep_client_l5_2024 → ready (not sent)
+- Next: rq_584; progress@600 in 8 ticks; rq_116 deferred
