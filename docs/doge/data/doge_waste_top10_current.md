@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **620** (2026-07-31) · **~2445** leaderboard rows  
+**As-of:** tick **630** (2026-07-31) · **~2501** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -26,8 +26,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 10 | `lb_fed_fossil_mazout_1_86bn` | Heating oil accise gap 1.86bn 2022 fossil inv | **1.86 bn** | 8 | 9.0 | 6 | **8.3** | fossil inventory |
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** · **imec assets 1.69bn** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 610:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 610-620 adds **WAL CoA Table33 SEC dual wave** (Forem 3.033bn dual VDAB; WBI 94m; AWEX 79m; CGT 67m; IFAPME 142m; ISSeP 47m; CRAC/EAP/PACO-PAC) that raise **L2 dual PES/export/tourism/vocational map** more than FFS ranking (see high-absurdity + dual tables).
+**Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** · **WE equity ~5bn** · **SPAQuE assets 534m** · **Sowaer 492m** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
+**Change vs tick 620:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 620-630 adds **WAL CoA mega-UAP dual wave** (AViQ 7.25bn; Famiwal 1.11bn; Sofico 571m; OTW path; Kyoto 200m; housing tripod ~703m; WE 265m; Sowaer 81m; SPAQuE 97m) that raise **L2 dual social/roads/PT/housing/holding map** more than FFS ranking (see high-absurdity + dual tables).
 
 ### Just outside top 10 (often relevant)
 
@@ -55,23 +55,17 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_ypto_proc_law_fail` | **9.0** | rail IT procurement |
 | `lb_lantis_under_vastleg_2_42bn` | **8.0** | NEC4 under-booking ~€2.42bn |
 | `lb_vlaio_prescription_16_4m` | **8.5** | eco write-offs solvent debtors |
-| `lb_tibi_ca_25m_loss_55m_2025` | **5.0** | structural loss **54.8m** / commune bill **42.7m** |
-| `lb_tibi_vs_ipalle_loss_profit_2025` | **5.0** | dual loss vs multi-utility profit |
-| `lb_dual_waste_copidec_stack_2025` | **4.0** | seven-operator COPIDEC map |
-| `lb_dual_soc_fm_imec_vib_vito_2025` | **—** | **NEW 596** SOC quartet dual map |
-| `lb_dual_agri_craw_ilvo_2025` | **—** | **NEW 598** dual agri CRA-W + ILVO |
-| `lb_dual_marine_vliz_ilvo_2025` | **—** | **NEW 599** dual marine VLIZ + ILVO |
-| `lb_dual_climate_agency_awac_veka_2025` | **—** | **NEW 606** climate agency dual AWAC 19.3m + VEKA apparaatrek 16.8m |
-| `lb_dual_heritage_awap_oe_2025` | **—** | **NEW 604** heritage AWaP 49m + OE 128m |
-| `lb_fwcn_solde_neg_63m_2025` | **6.0** | **NEW 607** disaster fund solde −63m / gov −165m gap |
-| `lb_dual_cap_payer_opw_vl_2025` | **—** | **NEW 608** CAP payer OPW 85m dual VL |
-| lb_dual_pes_forem_vdab_sec_2025 | **---** | **NEW 619** Forem SEC 3.033bn dual VDAB 0.75bn |
-| lb_dual_wbi_vl_sec_2025 | **---** | **NEW 618** WBI SEC 94m dual VL SN+FIT |
-| lb_dual_export_awex_fit_hub_2025 | **---** | **NEW 614** AWEX 79m dual FIT/hub |
-| lb_dual_tourism_cgt_vl_bru_2025 | **---** | **NEW 613** CGT 67m dual tourism VL/BRU |
-| lb_dual_vocational_ifapme_syntra_sec_2025 | **---** | **NEW 612** IFAPME 142m dual SYNTRA |
-| lb_dual_issep_vito_sec_2025 | **---** | **NEW 617** ISSeP SEC 47m dual VITO |
-| lb_dual_inland_ports_wal_vl_2025 | **---** | **NEW 616** PACO+PAC 12.4m dual inland ports |
+| `lb_we_claimed_cut_45m_partial` | **7.0** | **NEW 627** claimed −45m only −20m in BI2025 |
+| `lb_spaque_nordion_zero_eng_bi2025` | **6.5** | **NEW 629** Nordion zero eng despite convention |
+| `lb_kyoto_wal_burden_share_unsigned` | **6.0** | **NEW 625** burden sharing 2023+ unsigned |
+| `lb_secteur_aeroportuaire_path_minus_56m` | **6.0** | **NEW 628** airport sector impact path −55.9m |
+| lb_dual_housing_swl_vmsw_2025 | **—** | **NEW 626** housing tripod ~703m dual VMSW |
+| lb_dual_we_pmv_sec_2025 | **—** | **NEW 627** WE 265m dual PMV |
+| lb_dual_sowaer_bac_airports_2025 | **—** | **NEW 628** Sowaer 81m dual BAC |
+| lb_dual_spaque_ovam_sec_2025 | **—** | **NEW 629** SPAQuE 97m dual OVAM |
+| lb_dual_kyoto_wal_fed_ets_2025 | **—** | **NEW 625** Kyoto 200m dual fed ETS |
+| lb_dual_sofico_awv_budget_2025 | **—** | **NEW 623** Sofico 571m dual AWV |
+| lb_dual_otw_delijn_subs_2025 | **—** | **NEW 624** OTW dual De Lijn |
 | `lb_actiris_cpas_spill_34k` | **7.5** | reform spillover DEI→CPAS +83% |
 | `lb_dual_pes_four_rates` | **7.5** | FL6.9 WAL14.3 BRU14.6 DG6.4 |
 | `lb_dual_pt_four_layer` | **7.0** | NMBS+De Lijn+STIB+TEC |
@@ -83,14 +77,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_dual_pension_72bn` | **72.0 bn** benefits | emp+self+public pension stacks |
 | `lb_e1_nopol_financing_39bn` / post 31bn | **39.1 / 31.2 bn** | nopol vs measures 2029 |
 | `lb_vl_debt_50_2bn_2025` | **50.2 bn** Maastricht | VL debt eoy2025 |
-| `lb_imec_assets_1_69bn_2025` | **1.69 bn** | **NEW 594** nano RTO consol assets |
-| `lb_fm_assets_235m_2025` | **0.23 bn** | **NEW 596** manufacturing SOC BS |
-| `lb_vib_assets_309m_2024` | **0.31 bn** | **NEW 595** life sciences RTO |
-| `lb_ipalle_assets_380m_2025` | **0.38 bn** | multi-utility waste+water SOE |
-| `lb_tibi_debt_94m_uve_2025` | **0.09 bn** debt / UVE **52.5m** | UVE rehab leverage |
-| `lb_intradel_debt_115m_2025` | **0.11 bn** | waste SOE leverage |
+| `lb_kyoto_wal_stock_445m_2025` | **0.45 bn** stock | **NEW 625** Kyoto under-spend stock |
+| `lb_we_group` equity class | **~5.0 bn** | WE holding equity dual PMV |
+| `lb_spaque_assets_534m_2024` | **0.53 bn** | soil SOE balance |
+| `lb_sowaer_holding_492m` | **0.49 bn** | airport holding |
+| `lb_imec_assets_1_69bn_2025` | **1.69 bn** | nano RTO consol assets |
 | `lb_infrabel_assets_25_7bn` / equity 20.5 | **25.7 / 20.5 bn** | infra SOE balance |
-| `lb_infrabel_etcs_2_8bn` | **2.8 bn** completed | ETCS Masterplan done |
 | `lb_lantis_under_vastleg_2_42bn` / TV 3.85 | **2.42 / 3.85 bn** | NEC4 gap + TV financing |
 | `lb_vl_open_verb_7_37bn` | **7.37 bn** | toelage open verbintenissen |
 | `lb_riziv_care_39_7bn_2025` | **39.7 bn** | care authorized outturn |

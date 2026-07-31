@@ -11467,3 +11467,6 @@ bud_spaque_missions_impact_ba2024,spaque,2024,2449000,,,budgeted,src_ccrek_spaqu
 bud_spaque_missions_impact_bi2025,spaque,2025,-8325000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Table10 missions deleguees Spaque impact BI2025 -8.325m path -10.774m; tick629
 bud_spaque_path_dep_plus_bi2025,spaque,2025,35107000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA path dep +35.107m BI2025 vs BI2024; tick629
 bud_dual_spaque_ovam_dep_class_2025,gg_belgium,2025,97260000,,,budgeted,src_dual_spaque_ovam_sec_tick629,strong,SPAQuE dep SEC 97.3m dual OVAM ISE Afval class 105.9m not additive; tick629
+bud_dual_coa_wave_aviq_class_2025,gg_belgium,2025,7249000000,,,budgeted,src_dual_coa_mega_uap_wave_tick630,strong,Progress@630 AViQ SEC dep 7.249bn class largest L2 this wave; tick630
+bud_dual_coa_wave_housing_tripod_2025,gg_belgium,2025,702829593,,,budgeted,src_dual_coa_mega_uap_wave_tick630,strong,Progress@630 SWL+SWCS+FLW dep SEC sum ~702.8m dual VMSW; tick630
+bud_dual_coa_wave_we_group_2025,gg_belgium,2025,265260003,,,budgeted,src_dual_coa_mega_uap_wave_tick630,strong,Progress@630 WE group dep SEC 265.3m dual PMV; tick630

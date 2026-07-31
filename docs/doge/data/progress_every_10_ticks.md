@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 630** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** mega social AViQ **7.249bn** · Famiwal **1.110bn** · Sofico roads **570.6m** · OTW PT path · SWL/SWCS/FLW housing **~703m** · WE group **265m** · SPAQuE soil **97m** · Sowaer airports **81m** · Kyoto climate **200m** · prior Forem/WBI/AWEX wave retained |
+| **D. L5 named / measure end-lines** | **~43-56%** of TE (generous) | **Gain 620→630 is WAL CoA mega-UAP + dual housing/holding/airports/soil/climate:** AViQ SEC dep **€7.249bn** dual VAPH class · Famiwal **€1.110bn** dual Groeipakket · Sofico dep **€570.6m** dual AWV · OTW RW subs path **−€35.9m** dual De Lijn · Kyoto **€200m**/stock **€445m** dual fed ETS · SWL **€366m**+SWCS **€216m**+FLW **€121m** dual VMSW · WE group **€265m**/treasury **€110m** dual PMV · Sowaer **€81m**/DF046 **€91m** dual BAC · SPAQuE **€97m**/treasury **€40.5m** dual OVAM · FOI still bulk SLSP/stake/site L5 + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~372** drafts ready | Human send only; answered **~9**; total FOI rows **~382** (+ AViQ branch · Famiwal unit-cost · Sofico exec · OTW AB series · Kyoto project · SWL/SWCS/FLW recon · WE SEC recon · Sowaer SEC recon · SPAQuE SEC recon · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **utility/holding balance sheets** (WE equity **~5bn** · Sowaer assets **492m** · SPAQuE **534m** · imec **1.69bn**) · Kyoto stock under-spend dual fed ETS blocked **1.8bn** · UAP treasury rembours waves (WE **110m** · SPAQuE **40.5m** · Sowaer **20m** · AViQ **335m** class).
+
+### Inventory (tick 630)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~11468 |
+| commitments.csv | ~1261 |
+| leaderboard.csv | ~2501 |
+| entities.csv | ~447 |
+| sources.csv | ~1239 |
+| FOI ready | ~372 |
+| FOI answered | ~9 |
+| FOI total rows | ~382 |
+| research_queue | ~617 (open: rq_116 deferred + rq_622 hole-fill after progress) |
+
+### What improved since tick 620
+
+- **Mega social dual (tick621–622):** AViQ SEC dep **€7.249bn** / solde **−€380m** dual VAPH/VSB class · Famiwal SEC **€1.110bn** balanced dual Groeipakket **~€4.7bn** class.
+- **Roads + PT + climate funds (tick623–625):** Sofico dep **€570.6m** / invest **€290m** dual AWV · OTW company dep **€1.201bn** / RW subs path **−€35.9m** dual De Lijn · Fonds Kyoto **€200m** / stock **€445m** dual fed ETS **€1.8bn** blocked.
+- **Housing + holding + airports + soil (tick626–629):** SWL+SWCS+FLW dep SEC sum **~€703m** dual VMSW debt **€3.12bn** · WE group dep **€265m** / treasury rembours **€110m** dual PMV · Sowaer dep **€81.4m** / DF046 **€90.8m** dual BAC **€828m** · SPAQuE dep **€97.3m** / treasury **€40.5m** dual OVAM.
+
+---
+
+
 ## Snapshot at **tick 620** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

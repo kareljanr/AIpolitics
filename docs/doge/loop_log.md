@@ -7519,3 +7519,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update spaque; budgets (+11); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_spaque_sec_recon_l5_2025; rq_620=done; spawn rq_621; loop_state ticks=629
 - FOI opened: gap_spaque_sec_recon_l5_2025 -- ready (not sent)
 - Next: rq_621; **progress@630 next tick**; rq_116 deferred
+
+### 2026-07-31T23:15:00Z -- tick 630 (PROGRESS MILESTONE)
+- Unit: rq_621 (progress@630 + dual CoA mega-UAP wave synthesis ticks621-629)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **Mega social dual:** AViQ SEC dep **7.249bn** dual VAPH class; Famiwal **1.110bn** dual Groeipakket
+  - **Roads + PT + climate:** Sofico **570.6m** dual AWV; OTW path **-35.9m** dual De Lijn; Kyoto **200m**/stock **445m** dual fed ETS
+  - **Housing + holding + airports + soil:** SWL+SWCS+FLW **~703m** dual VMSW; WE **265m**/treasury **110m** dual PMV; Sowaer **81m**/DF046 **91m** dual BAC; SPAQuE **97m**/treasury **40.5m** dual OVAM
+  - **UAP treasury rembours pattern:** WE 110 + SPAQuE 40.5 + Sowaer 20 (+ AViQ 335 class) = RW cash rapatriement wave
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ AViQ 7.25bn mega-fill + housing/holding/airports/soil dual stack)
+  - **D L5:** ~**43-56%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**372** · answered ~**9** · total FOI rows ~**382**
+- Inventory: budgets ~**11468** · cmt ~**1261** · lb ~**2501** · sources ~**1239** · entities ~**447**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55-8.30)
+- High-abs + dual NEW: AViQ · housing tripod · WE claimed cut · SPAQuE Nordion · Kyoto stock · Sowaer sector path
+- Gain 620-630: WAL CoA mega-UAP dual wave (largest L2 = AViQ)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+bud dual wave; FOI gap_dual_coa_mega_uap_l5_matrix_2025 ready+draft; rq_621=done spawn rq_622; ticks=630
+- FOI opened: gap_dual_coa_mega_uap_l5_matrix_2025 (ready, human send) - not sent
+- Next: prio5 **rq_622**; deferred **rq_116**; progress@640 in 10 ticks
