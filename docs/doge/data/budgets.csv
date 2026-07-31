@@ -10069,3 +10069,32 @@ bud_ziv_kine_2035,riziv,2035,2093000000,,,projection,src_fpb_promes_2025_35,stro
 bud_ziv_medhuizen_2025,riziv,2025,389000000,,,outturn,src_fpb_promes_2025_35,strong,Medical houses 389m 2025; tick561
 bud_ziv_medhuizen_2035,riziv,2035,886000000,,,projection,src_fpb_promes_2025_35,strong,Medical houses 886m 2035 (+498 8.6pct/yr strongest %); tick561
 bud_ziv_demo_share_growth_pct,riziv,2035,32,,,projection,src_fpb_promes_2025_35,strong,PCT: demography explains 32pct of real growth 2026-35 (aging 21 pop 11); tick561
+bud_vdab_staff_eoy_2025,vdab,2025,4630,,,outturn,src_vdab_jv_2025,strong,COUNT headcount eoy2025 4630 employees (1pct temporary); tick562
+bud_vdab_staff_eoy_2024_jv,vdab,2024,4761,,,outturn,src_vdab_institutional_2024,medium,Prior class 4761 eoy2024 PQ/JV; delta to 2025 -131; tick562
+bud_vdab_staff_delta_2025,vdab,2025,-131,,,outturn,src_vdab_jv_2025,strong,COUNT headcount change ~-131 2024-25 if prior 4761; tick562
+bud_vdab_save_prior_legisl_22m,vdab,2024,22000000,,,outturn,src_vdab_jv_2025,strong,Prior legislature 2019-24 savings 22m on personnel (422 FTE); tick562
+bud_vdab_save_fte_prior_422,vdab,2024,422,,,outturn,src_vdab_jv_2025,strong,COUNT FTE cut 422 prior legislature with 22m personnel save; tick562
+bud_vdab_save_2025_jv,vdab,2025,20000000,,,budgeted,src_vdab_jv_2025,strong,Savings path 20m 2025 confirmed JV2025 Focus op de kern; tick562
+bud_vdab_save_2026_jv,vdab,2026,25000000,,,budgeted,src_vdab_jv_2025,strong,Savings path 25m 2026 (updates prior BBT 40m-class acceleration narrative); tick562
+bud_vdab_save_2027_jv,vdab,2027,40000000,,,budgeted,src_vdab_jv_2025,strong,Savings path 40m 2027; tick562
+bud_vdab_wzw_vl_eoy2025,vdab,2025,224630,,,outturn,src_vdab_jv_2025,strong,COUNT WZW Flanders residence eoy2025 224630; rate 6.9pct; tick562
+bud_vdab_wzw_rate_2025,vdab,2025,6.9,,,outturn,src_vdab_jv_2025,strong,PCT workseeker rate Flanders Dec2025 6.9 (was 6.6); tick562
+bud_vdab_wzw_ui_2025,vdab,2025,117500,,,outturn,src_vdab_jv_2025,strong,COUNT WZW with UI claim 117500 (52pct); tick562
+bud_vdab_wzw_nonact_2025,vdab,2025,93042,,,outturn,src_vdab_jv_2025,strong,COUNT former non-active WZW 93042 (41pct); tick562
+bud_vdab_wzw_bit_2025,vdab,2025,11057,,,outturn,src_vdab_jv_2025,strong,COUNT youth BIT 11057 (5pct); tick562
+bud_vdab_wzw_other_2025,vdab,2025,3031,,,outturn,src_vdab_jv_2025,strong,COUNT other WZW 3031; tick562
+bud_vdab_wzw_rate_ex_nonact,vdab,2025,4.1,,,outturn,src_vdab_jv_2025,strong,PCT rate without non-active 4.1 (was 3.9); tick562
+bud_vdab_vac_filled_2025,vdab,2025,36536,,,outturn,src_vdab_jv_2025,strong,COUNT vacancies actively filled by VDAB 36536; tick562
+bud_vdab_training_starts_2025,vdab,2025,34061,,,outturn,src_vdab_jv_2025,strong,COUNT vocational training starts 34061; tick562
+bud_vdab_nonact_reach_2025,vdab,2025,212036,,,outturn,src_vdab_jv_2025,strong,COUNT non-active persons reached 212036; tick562
+bud_vdab_nonact_to_work,vdab,2025,69348,,,outturn,src_vdab_jv_2025,strong,COUNT of non-active reached who went to work 69348; tick562
+bud_vdab_to_work_oct24_dec25,vdab,2025,209638,,,outturn,src_vdab_jv_2025,strong,COUNT people to work with VDAB+partners Oct2024-end2025 209638; tick562
+bud_vdab_empl_rate_vl_2025,vdab,2025,77.3,,,outturn,src_vdab_jv_2025,strong,PCT Flanders employment rate 20-64 77.3 in 2025 (74.7 in 2020); tick562
+bud_vdab_vac_neczu_2025,vdab,2025,271072,,,outturn,src_vdab_jv_2025,strong,COUNT NECzU vacancies reported to VDAB 271072 (-10pct vs 2024); tick562
+bud_vdab_classic_train_2025,vdab,2025,28894,,,outturn,src_vdab_jv_2025,strong,COUNT jobseekers with at least one classic training 28894; tick562
+bud_vdab_knelpunt_stream_train,vdab,2025,21000,,,outturn,src_vdab_jv_2025,strong,COUNT ~21000 jobseeker trainees in vocational streaming for shortage occupations; tick562
+bud_vdab_pmo_projects_2024,vdab,2024,200,,,outturn,src_vdab_jv_2025,strong,COUNT active PMO projects ~200 in 2024; tick562
+bud_vdab_pmo_projects_eoy2025,vdab,2025,150,,,outturn,src_vdab_jv_2025,strong,COUNT active PMO projects 150 eoy2025 (cut path 2026); tick562
+bud_vdab_web_visits_2025,vdab,2025,38800000,,,outturn,src_vdab_jv_2025,strong,COUNT vdab.be visits 38.8m (+15pct); jobs domain 30.8m; tick562
+bud_vdab_sat_jobseeker_2025,vdab,2025,94,,,outturn,src_vdab_jv_2025,strong,PCT jobseeker satisfaction contact 94; tick562
+bud_vdab_bru_cross_wzw,vdab,2025,4653,,,outturn,src_vdab_jv_2025,strong,COUNT WZW registered VL+BRU dual Actiris 4653; tick562

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:50:00Z,rq_552,561,no,tick561 RIZIV 39.7bn outturn + PROMES + AB 67m; next rq_553; progress@570 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T09:55:00Z,rq_553,562,no,tick562 VDAB JV2025 staff/savings/volumes; next rq_554; progress@570 in 8; rq_116 deferred

@@ -6821,3 +6821,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +38; cmt +4; lb +8; FOI **gap_riziv_sector_audit_2025** ready+draft; gap_ab_spend notes partial; rq_552=done spawn **rq_553**; ticks=561
 - FOI opened: gap_riziv_sector_audit_2025 (ready, human send) - not sent
 - Next: prio5 **rq_553**; deferred **rq_116**; progress@570 in 9 ticks
+
+### 2026-07-31T09:55:00Z - tick 562
+- Unit: **rq_553** (FOI-adjacent hole-fill - **VDAB Jaarverslag 2025 dual PES staff/savings/volumes**)
+- Found (strong primary VDAB JV2025 PDF):
+  - **Staff eoy2025:** **4.630** employees (prior class **4.761**; ~**-131**); prior legisl personnel save **EUR 22m** / **422** FTE
+  - **Savings Focus op de kern:** **20m** 2025 · **25m** 2026 · **40m** 2027 (4 axes beleid/werking/personeel/invest); PMO projects **200→150**
+  - **WZW Flanders eoy2025:** **224.630** rate **6.9%** (was 6.6): UI **117.500** · non-active **93.042** · BIT **11.057** · other **3.031**; rate ex-nonact **4.1%**
+  - **Flows:** vac filled **36.536** · training starts **34.061** · non-active reach **212.036** (to work **69.348**) · to work Oct24-end25 **209.638** · NECzU vac **271.072** (-10%) · classic train **28.894** · knelpunt stream ~**21.000**
+  - **Context:** VL employment rate **77.3%** (74.7 in 2020); dual Actiris/FOREM matching; BBT VEK **750.7m** 2026 still; full TCO residual FOI
+- Wrote: sources +2; budgets +29; cmt +3; lb +7; FOI **gap_vdab_jaarrekening_2025** ready+draft; gap_vdab_full_budget notes; raw PDF; rq_553=done spawn **rq_554**; ticks=562
+- FOI opened: gap_vdab_jaarrekening_2025 (ready, human send) - not sent
+- Next: prio5 **rq_554**; deferred **rq_116**; progress@570 in 8 ticks
