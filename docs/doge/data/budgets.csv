@@ -10467,3 +10467,39 @@ bud_farys_bedrijfsopbr_2024_restate,farys,2024,594159000,,,outturn,src_farys_jv_
 bud_farys_ebit_2024_restate,farys,2024,69941000,,,outturn,src_farys_jv_2025,strong,Bedrijfswinst 69.941m 2024 restated JV2025 (prior 73.7m); tick576
 bud_farys_st_debt_2024_restate,farys,2024,316808000,,,outturn,src_farys_jv_2025,strong,ST debt 316.808m 2024 restated JV2025 (prior 370.3m); tick576
 bud_farys_cap_subsidies_2024_restate,farys,2024,298802000,,,outturn,src_farys_jv_2025,strong,Kapitaalsubsidies 298.802m 2024 restated JV2025; tick576
+bud_swde_ca_full_2025,swde,2025,631287000,,,outturn,src_swde_faits_2025,strong,Chiffre d affaires full 631.287m 2025 Faits (incl assain pass-through class); +11pct vs 568.1m 2024; tick577
+bud_swde_assets_2025,swde,2025,2555872000,,,outturn,src_swde_faits_2025,strong,Total actif 2555.872m end-2025; tick577
+bud_swde_ebitda_2025,swde,2025,151534000,,,outturn,src_swde_faits_2025,strong,EBITDA 151.534m 2025 (132.5m 2024); tick577
+bud_swde_op_result_2025,swde,2025,24893000,,,outturn,src_swde_faits_2025,strong,Resultat d exploitation 24.893m 2025 (was -10.8m RF 2024 class); tick577
+bud_swde_fin_result_2025,swde,2025,-4373000,,,outturn,src_swde_faits_2025,strong,Resultat financier -4.373m 2025; tick577
+bud_swde_tax_2025,swde,2025,-1421000,,,outturn,src_swde_faits_2025,strong,Charges fiscales -1.421m 2025; tick577
+bud_swde_net_result_2025,swde,2025,19100000,,,outturn,src_swde_faits_2025,strong,Resultat net 19.100m 2025 (10.3m 2024); tick577
+bud_swde_gross_fin_debt_2025,swde,2025,842419000,,,outturn,src_swde_faits_2025,strong,Dettes financieres brutes 842.419m 2025 (722.0m 2024); tick577
+bud_swde_debt_passif_pct_2025,swde,2025,3303,,,outturn,src_swde_faits_2025,strong,COUNT dettes fin / total passif 33.03pct x100; tick577
+bud_swde_solvability_pct_2025,swde,2025,5960,,,outturn,src_swde_faits_2025,strong,COUNT solvabilite 59.60pct x100; tick577
+bud_swde_invest_2025,swde,2025,263500000,,,outturn,src_swde_faits_2025,strong,Investissements annee 263.5m 2025 (page invest; 2x ref engagement 100m/yr); tick577
+bud_swde_invest_srre_2025,swde,2025,89000000,,,outturn,src_swde_faits_2025,strong,SRRE share ~89m ~42pct of 2025 invest; tick577
+bud_swde_volume_preleve_m3_2025,swde,2025,164737764,,,outturn,src_swde_faits_2025,strong,COUNT volume eau preleve 164.737.764 m3 2025; tick577
+bud_swde_volume_produit_m3_2025,swde,2025,145365806,,,outturn,src_swde_faits_2025,strong,COUNT volume produit conso humaine 145.365.806 m3 2025; tick577
+bud_swde_volume_sold_other_m3_2025,swde,2025,38091562,,,outturn,src_swde_faits_2025,strong,COUNT vendu autres distributeurs 38.091.562 m3; tick577
+bud_swde_volume_bought_m3_2025,swde,2025,36087613,,,outturn,src_swde_faits_2025,strong,COUNT achete autres producteurs 36.087.613 m3; tick577
+bud_swde_volume_billed_m3_2025,swde,2025,104852716,,,outturn,src_swde_faits_2025,strong,COUNT consommation facturee 104.852.716 m3 2025; tick577
+bud_swde_ilvne_m3_km_day_2025,swde,2025,559,,,outturn,src_swde_faits_2025,strong,COUNT ILVNE 5.59 m3/km/jour x100 (2024 was 5.42); tick577
+bud_swde_cvd_eur_m3_cents_2025,swde,2025,315,,,outturn,src_swde_faits_2025,strong,COUNT CVD 3.15 EUR/m3 from 2025-02-01 (+0.35 vs 2024 2.80 class) x100 cents; tick577
+bud_swde_avg_bill_eur_2025,swde,2025,458,,,outturn,src_swde_faits_2025,strong,COUNT facture conso moyenne 458.39 EUR (+61.11 YoY); tick577
+bud_swde_avg_hh_m3_2025,swde,2025,7253,,,outturn,src_swde_faits_2025,strong,COUNT conso moyenne menages 72.53 m3 x100; tick577
+bud_swde_conformity_pct_2025,swde,2025,9900,,,outturn,src_swde_faits_2025,strong,COUNT taux conformite eau 99pct x100; tick577
+bud_swde_pop_served_2025,swde,2025,2537231,,,outturn,src_swde_faits_2025,strong,COUNT population desservie 2537231; tick577
+bud_swde_meters_2025,swde,2025,1174744,,,outturn,src_swde_faits_2025,strong,COUNT compteurs en service 1174744; tick577
+bud_swde_pipes_km_2025,swde,2025,36979,,,outturn,src_swde_faits_2025,strong,COUNT canalisations 36979 km incl 9153 raccordements; tick577
+bud_swde_connections_km_2025,swde,2025,9153,,,outturn,src_swde_faits_2025,strong,COUNT raccordements 9153 km of pipe total; tick577
+bud_swde_fte_2025,swde,2025,1318,,,outturn,src_swde_faits_2025,strong,COUNT ETP 1318; tick577
+bud_swde_communes_served_2025,swde,2025,189,,,outturn,src_swde_faits_2025,strong,COUNT communes desservies 189 of 261 WAL; tick577
+bud_swde_communes_associees_2025,swde,2025,206,,,outturn,src_swde_faits_2025,strong,COUNT communes associees 206; tick577
+bud_swde_water_intakes_2025,swde,2025,414,,,outturn,src_swde_faits_2025,strong,COUNT prises d eau en activite 414; tick577
+bud_swde_reservoirs_2025,swde,2025,1141,,,outturn,src_swde_faits_2025,strong,COUNT reservoirs et chateaux d eau 1141; tick577
+bud_swde_wal_prod_share_pct_2025,swde,2025,7800,,,outturn,src_swde_faits_2025,strong,COUNT 78pct volumes produits en Wallonie x100; tick577
+bud_swde_wal_dist_share_pct_2025,swde,2025,6500,,,outturn,src_swde_faits_2025,strong,COUNT 65pct volumes distribues en Wallonie x100; tick577
+bud_swde_co2_t_2024_bilan,swde,2025,76274,,,outturn,src_swde_faits_2025,strong,COUNT bilan carbone 76274 tCO2 (2024 bilan cited in RA2025); tick577
+bud_swde_renewable_mwh_2025,swde,2025,20368,,,outturn,src_swde_faits_2025,strong,COUNT production ENR 20368 MWh 2025; tick577
+bud_swde_horizon2030_invest_class,swde,2025,3000000000,,,outturn,src_swde_faits_2025,strong,Horizon 2030 plan industriel ~3bn EUR class SPGE+SWDE+ops (RA cite); residual calendar FOI; tick577

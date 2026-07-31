@@ -7029,3 +7029,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +49; cmt +3; lb +7; FOI **gap_farys_tariff_l5_2025** ready+draft; entities farys+waterunie_operator; raw PDFs; rq_567=done spawn **rq_568**; ticks=576
 - FOI opened: gap_farys_tariff_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_568**; deferred **rq_116**; progress@580 in 4 ticks
+
+### 2026-07-31T11:10:00Z - tick 577
+- Unit: **rq_568** (FOI-adjacent hole-fill - **SWDE Faits & chiffres 2025 dual VL drink + Horizon 2030**)
+- Found (strong primary SWDE Rapport annuel Faits 2025 PDF):
+  - **CA EUR 631.3m** (568.1m 2024 **+11%**); **EBITDA 151.5m**; op **24.9m**; fin **-4.4m**; tax **-1.4m**; **net 19.1m**
+  - **Assets 2.556bn**; gross fin debt **842.4m** (722m 2024); debt/passif **33.0%**; solvability **59.6%**
+  - **Invest 263.5m** (2x 100m ref); SRRE **~89m / 42%**; 5y cum **>1bn**
+  - **Ops:** preleve **164.7 Mm3**; prod **145.4**; billed **104.9**; sold other **38.1**; bought **36.1**
+  - Pop **2.537m**; meters **1.175m**; pipes **36,979 km**; ETP **1,318**; communes **189** / assoc **206**
+  - **CVD 3.15 EUR/m3** from 2025-02-01 (+0.35); avg bill **458 EUR** (+61); conformity **99%**
+  - WAL share: **78%** prod / **65%** dist volumes
+  - **Horizon 2030** industrial plan **~EUR 3bn** class SPGE+SWDE+ops (Eaux de Wallonie)
+  - **Dual BE drink:** SWDE **631m / 145 Mm3** vs VL trio DWG **974** + Pidpa **403** + Farys **577** (~1.95bn omzet class not TE-additive)
+- Wrote: sources +3; budgets +36; cmt +3; lb +7; FOI **gap_swde_rf_l5_2025** ready+draft; entity swde; raw PDF; rq_568=done spawn **rq_569**; ticks=577
+- FOI opened: gap_swde_rf_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_569**; deferred **rq_116**; progress@580 in 3 ticks
