@@ -8451,3 +8451,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_gip_l5_programmes_exec_2025 — ready (not sent)
 - Next: rq_707; progress@720 in 5 ticks; rq_116 deferred
 
+
+### 2026-08-01T20:45:00Z — tick 716
+- Unit: **rq_707** (FOI-adjacent dual residual — **VL GIP large projects selection/budget space dual SOFICO**)
+- Found (primary CoA 2026_27 §§3.3.2–3.5, 4.2.2, 4.5, 5.3.2):
+  - Entity submit avg **5137m/yr** vs hist GIP **2884m**; **>150** late adds; IC **~3 FTE**
+  - Large labels below decree: premetro **70m**, A12 Londerzeel **90m**; RA new Oostelijke Tangent + E403 3rd lane
+  - Select distortion: VR **85%/57%** high/low; AM **77%/60%**; shifts **301/347/325m**; **786** lines (**73** new)
+  - Onteigen ask **252** vs GIP2025 **104.2** hist charge **150** charge2025 **80.9**; fall tight **~190m**
+  - Squeeze AM+large **2182m (2030)** / **2577m (2032)** ~90% of 2027 GIP; beschikbaar **157.9→260.2→970.5** (2024/30/35)
+  - Actu2026 churn: new **444.5** (300) / removed **316.4** (83) / non-input **68.4** (43); raise **+2049** (OW **857** + leef **629.8**); lower **~690**; predraw Q1 **>900**; recurrent **631**
+  - Lantis loan **1.65bn** unrepayable; Scheldebrug **~240**; dual WAL SOFICO; Strong CoA; L5 FOI.
+- Wrote: budgets (+40); commitments (+6); leaderboard (+7); sources (+2); entities (+1); FOI draft **gap_vl_gip_large_projects_2026**; rq_707=done; spawn **rq_708**; loop_state ticks=716
+- FOI opened: gap_vl_gip_large_projects_2026 — ready (not sent)
+- Next: rq_708 WAL residual preferred; progress@720 in 4 ticks; rq_116 deferred
+

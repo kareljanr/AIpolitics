@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T20:30:00Z,rq_706,715,no,tick715 VL GIP L5 AM/fiets/exec dual; next rq_707; progress@720 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T20:45:00Z,rq_707,716,no,tick716 VL GIP large projects residual dual; next rq_708; progress@720 in 4; rq_116 deferred

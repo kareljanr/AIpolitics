@@ -14037,3 +14037,43 @@ bud_vl_gip_exec_over_188m_2025,vlaanderen_gov,2025,188000000,,,outturn,src_ccrek
 bud_vl_gip_lantis_off_gip_90_2m_2025,lantis,2025,90200000,,,outturn,src_ccrek_vl_gip_l5_programmes_2026,strong,4 Lantis projects 90.2m charged not in any GIP version; tick715
 bud_vl_gip_lines_559_2025,vlaanderen_gov,2025,559,,,outturn,src_ccrek_vl_gip_l5_programmes_2026,strong,GIP2025 559 project lines; 85 no charge 15pct; tick715
 bud_dual_gip_l5_exec_2025,gg_belgium,2025,2496000000,,,outturn,src_dual_gip_l5_exec_tick715,strong,Dual VL GIP exec 2496 vs BCR STIB residual; not TE-additive; tick715
+bud_vl_gip_entity_submit_avg_5137m,vlaanderen_gov,2025,5137000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Entity invest submissions 2025-29 avg 5137m/yr vs hist GIP avg 2884m 2020-24 CoA s3.3.1; tick716
+bud_vl_gip_hist_avg_2884m_2020_24,vlaanderen_gov,2024,2884000000,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,Historic GIP avg annual 2884m 2020-24 CoA; tick716
+bud_vl_gip_added_projects_150plus_2025,vlaanderen_gov,2025,150,,,budgeted,src_ccrek_vl_gip_large_projects_2026,medium,CoA counted >150 projects added spring 2025 after initial entity input; tick716
+bud_vl_gip_premetro_kerk_pothoek_70m,vlaanderen_gov,2026,70000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,GIP labels premetro Kerkstraat-Pothoekstraat 70m as large though below decree 100m works threshold; tick716
+bud_vl_gip_a12_londerzeel_zuid_90m,vlaanderen_gov,2026,90000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,GIP labels A12 Londerzeel Zuid 90m as large below 100m threshold; tick716
+bud_vl_gip_selection_shift_2025_301m,vlaanderen_gov,2025,301000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Admin first-to-final project shifts 301m 2025 CoA s3.5; tick716
+bud_vl_gip_selection_shift_2026_347m,vlaanderen_gov,2026,347000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Admin first-to-final project shifts 347m 2026; tick716
+bud_vl_gip_selection_shift_2027_325m,vlaanderen_gov,2027,325000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Admin first-to-final project shifts 325m 2027; tick716
+bud_vl_gip_lines_786_2025_27,vlaanderen_gov,2025,786,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,GIP2025-27 786 project lines; 713 all versions 73 new; 30 lines budget change; tick716
+bud_vl_gip_fietsfonds_up_25m,vlaanderen_gov,2026,25000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Fietsfonds upward revision 15 to 25m during decision process CoA; tick716
+bud_vl_gip_sint_annatunnel_cut_26_3m,vlaanderen_gov,2026,26300000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Sint-Annatunnel -26.3m over 2025-27 decision phase; tick716
+bud_vl_gip_onteigening_ask_avg_252m,vlaanderen_gov,2026,252000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Entities asked avg 252m/yr onteigeningen 2025-27 CoA s5.3.1; tick716
+bud_vl_gip_onteigening_gip2025_104_2m,vlaanderen_gov,2025,104200000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,GIP2025 onteigeningen only 104.2m excl AWV divers buffer; tick716
+bud_vl_gip_onteigening_hist_avg_150m,vlaanderen_gov,2024,150000000,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,Onteigeningen charged avg 150m/yr 2020-24; tick716
+bud_vl_gip_onteigening_charge_2025_80_9m,vlaanderen_gov,2025,80900000,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,Onteigeningen charged 80.9m 2025 VAK; +6.7m over plan excl buffer; AWV buffer +9.4m; tick716
+bud_vl_gip_budget_tight_190m_2025,vlaanderen_gov,2025,190000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,medium,Fall 2025 budget closing challenge ~190m CoA; tick716
+bud_vl_gip_overkap_feed_55m_yr,vlaanderen_gov,2025,55000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Overkappingsruiter annual feed need 55m; 2025 87.5pct from GIP (2024 67.5 2023 84.9); tick716
+bud_vl_gip_squeeze_2030_2182m,vlaanderen_gov,2030,2182000000,,,projected,src_ccrek_vl_gip_large_projects_2026,strong,AM + running large + RA large alone 2182m by 2030 ~90pct of 2027 GIP budget CoA Fig5; tick716
+bud_vl_gip_squeeze_2032_2577m,vlaanderen_gov,2032,2577000000,,,projected,src_ccrek_vl_gip_large_projects_2026,strong,Same stack >2577m by 2032 CoA; tick716
+bud_vl_gip_beschik_2024_157_9m,vlaanderen_gov,2024,157900000,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,Availability payments MOW 157.9m 2024 admin estimate; tick716
+bud_vl_gip_beschik_2030_260_2m,vlaanderen_gov,2030,260200000,,,projected,src_ccrek_vl_gip_large_projects_2026,strong,Availability payments path 260.2m 2030; tick716
+bud_vl_gip_beschik_2035_970_5m,vlaanderen_gov,2035,970500000,,,projected,src_ccrek_vl_gip_large_projects_2026,strong,Availability payments path 970.5m 2035 crowding-out risk; tick716
+bud_vl_gip_actu_non_input_68_4m,vlaanderen_gov,2026,68400000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie2026 43 projects not in consolidated entity input 68.4m CoA s4.5; tick716
+bud_vl_gip_actu_new_444_5m,vlaanderen_gov,2026,444500000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie2026 new projects 444.5m (300 projects) not in GIP2025-27 for 2026; tick716
+bud_vl_gip_actu_removed_316_4m,vlaanderen_gov,2026,316400000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie2026 removed 83 projects 316.4m from prior GIP2026 plan; tick716
+bud_vl_gip_actu_oosterweel_extra_857m,lantis,2026,857000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie2026 Oosterweel extra 857m VAK; tick716
+bud_vl_gip_actu_leefbaar_extra_629_8m,lantis,2026,629800000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie2026 leefbaarheid extra 629.8m overkap; tick716
+bud_vl_gip_actu_raise_total_2049m,vlaanderen_gov,2026,2049000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie raises selected 2026 GIP amounts total +2049m (incl OW 857 + leef 629.8); tick716
+bud_vl_gip_actu_lower_total_690m,vlaanderen_gov,2026,690000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie lowers other 2026 GIP amounts total ~690m; tick716
+bud_vl_gip_onteigen_buffer_actu_69m,vlaanderen_gov,2026,69000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Actualisatie2026 onteigeningen buffer 69m vs large-project ask ~115m; tick716
+bud_vl_gip_onteigen_large_ask_115m,vlaanderen_gov,2026,115000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Large-project onteigeningen ask alone ~115m CoA; tick716
+bud_vl_gip_recurrent_631m,vlaanderen_gov,2026,631000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Recurrent GIP class ~631m/yr availability FAST traffic lights etc CoA; tick716
+bud_vl_gip_predraw_q1_2026_900m,vlaanderen_gov,2026,900000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Q1 2026 monthly predraw list >900m before validated GIP CoA; tick716
+bud_vl_gip_actu_vs_avail_3864_3685,vlaanderen_gov,2026,3685000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Avail sources 3864 vs actu GIP 3685; strip maint/expl ~77 + shift 74 + EU receipts cut; tick716
+bud_vl_gip_scheldebrug_class_240m,vlaamse_waterweg,2026,240000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Fiets-voetgangersbrug Schelde class ~240m via overkap CoA; tick716
+bud_vl_gip_lantis_loan_1650m,lantis,2025,1650000000,,,budgeted,src_ccrek_vl_gip_large_projects_2026,strong,Subordinated loan Lantis 1.65bn end-2025; CoA unrepayable wants capital now not 2035; tick716
+bud_vl_gip_select_vr_high_85pct,vlaanderen_gov,2025,85,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,~85pct highest vervoerregio score projects selected vs 57pct lowest; tick716
+bud_vl_gip_select_am_high_77pct,vlaanderen_gov,2025,77,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,77pct highest AM urgency selected vs 60pct lowest category; tick716
+bud_vl_gip_ic_fte_3,vlaanderen_gov,2025,3,,,outturn,src_ccrek_vl_gip_large_projects_2026,strong,Investeringscel ~3 FTE (8 staff not full-time) CoA s3.2; tick716
+bud_dual_gip_large_sofico_2026,gg_belgium,2026,2182000000,,,projected,src_dual_gip_large_projects_tick716,strong,Dual VL large-project squeeze 2182m-2030 vs WAL SOFICO residual; not TE-additive; tick716
