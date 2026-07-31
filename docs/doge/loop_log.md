@@ -8741,3 +8741,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_slrb_ra2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_727; progress@740 in 5; rq_116 deferred
 
+
+### 2026-08-02T05:15:00Z — tick 736
+- Unit: **rq_727** (FOI-adjacent residual dual — **SWCS Rapport annuel 2025 residual dual VMSW/VWF/SLRB/FLW**)
+- Found (primary SWCS RA2025 web report + plaquette; FLW RA2024 dual class):
+  - **Production 2025:** global **483m** / **6878** households — hyp **281.3m** (1557, avg 180679) · reno **222.6m** (5575, avg 39922) · garantie locative **0.900m** (610)
+  - Of which zero-rate works pure **200.8m** + hyp works **21.7m** (prod reconcil hyp+zero_pure+garantie = 483)
+  - **Encours eoy2025:** **1.749bn** / **46355** loans · global NPL **3.2%** · hyp **1.359bn** (15306) NPL **3.3%** (was 2.8) · reno temp NPL **0.7%** · **garantie locative NPL 31%** (2471 / 1.665m)
+  - Ops: staff **140** + network **~250**; complaints **280** (-14%, founded 23%); AppiCredit **>60%**; LTV≥100 **69.5%**; C1/C2 **89%**; reno avg 24k→40k; **BEI+CEB** signed; Agency Habitation pending
+  - **FLW dual (RA2024):** BS **2.239bn** · invest **272.7m** (family loans 256.4 / 3155) · stock **28795** · CA **73.9m**
+  - Dual VMSW debt 3.12bn / SLRB liq 803 debt 1.67 / FLW 2.24 not TE-additive
+- Wrote: entity swcs notes; budgets (+51); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_swcs_ra2025_residual_l5**; plaquette PDF + extracts + write script; rq_727=done; spawn **rq_728**; loop_state ticks=736
+- FOI opened: gap_swcs_ra2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_728; progress@740 in 4; rq_116 deferred

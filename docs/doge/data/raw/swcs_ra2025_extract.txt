@@ -1,0 +1,46 @@
+SWCS Rapport annuel 2025 key extract (primary web report + plaquette)
+Source pages:
+- https://www.swcs.be/rapports-annuels/rapport-annuel-swcs-2025
+- https://www.swcs.be/rapports-annuels/rapport-annuel-swcs-2025/le-recouvrement-des-creances-2
+- https://www.swcs.be/rapports-annuels/rapport-annuel-swcs-2025/le-mot-de-la-directrice-generale-2
+- https://www.swcs.be/rapports-annuels/rapport-annuel-swcs-2025/bilan-social-2
+- https://www.swcs.be/rapports-annuels/rapport-annuel-swcs-2025/retour-sur-lactualite-2024-2
+- plaquette: https://www.swcs.be/uploads/documents/Rapport-annuel/Archives/PLAQUETTE_SWCS_2025_OK_FINAL_DIGITALE.pdf
+
+PRODUCTION 2025:
+- Global production: 483 million EUR (DG Ombelets)
+- Households: 6878
+- Mortgage credits: 1557; amount 281317377 EUR; avg 180679; of which zero-rate works 21737205
+- Renovation loans: 5575; amount 222566840 EUR; avg 39922; of which zero-rate works 200829635 + hyp 21737205
+- Rental deposit (garantie locative): 610; amount 899927 EUR; avg 1475
+- Note: 281.3 + 200.8 + 0.9 = 483.0m reconciles (hyp works 21.7 counted in hyp not double in production)
+
+ENCOURS eoy2025:
+- Global: 46355 loans / 1748503838 EUR; contentieux 3.2pct
+- Hyp: 15306 / 1358671640; avg 88767; contentieux 3.3pct (was 2.8 2024)
+- Temp total: 31049 / 389832198
+  - Reno works: 28551 / 388048243; avg 13591; contentieux 0.7pct
+  - Garantie locative: 2471 / 1664731; avg 674; contentieux 31pct
+  - Locaprets: 8 / 17357
+  - FRCE: 19 / 41043
+
+OPS:
+- Staff: 140 agents + 3 paid IFAPME interns (81 contract 59 statutory; 133 FTE 7 PT; 86F 54M)
+- Network: 17 guichets SWCS + 6 local entities = 102 people; ~250 total with SWCS
+- Complaints: 280 (-14pct); founded 23pct (was 41pct 2024)
+- AppiCredit: >60pct dossiers; 33000+ requests since launch
+- Reno avg: 24093 (2023) -> 39922 (2025); 30pct hit 60k cap
+- 89pct loans to C1/C2 (precarious/modest) for access product cluster
+- 69.5pct LTV >=100pct (access)
+- 450 loans to isolés under 30
+- House prices +~15pct YoY Wallonia
+- BEI + CEB financing contracts signed 2025
+- Institutional future: Agence wallonne de l Habitation under construction
+- New HQ Le Phare Charleroi (installation early 2026)
+
+FLW dual class (RA2024, not 2025):
+- Pied de bilan 2239047663
+- CA 73903255
+- Investments 272651529
+- Credits stock 28795; granted 3155
+- Family loan realisations 256409736 of total 272651529

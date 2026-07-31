@@ -14801,3 +14801,54 @@ bud_slrb_region_loan_125m_2023,slrb,2023,125000000,,,outturn,src_slrb_ra2025_res
 bud_dual_slrb_liq_vs_vmsw_swl_2025,gg_belgium,2025,802689567,,,outturn,src_dual_slrb_vmsw_swl_tick735,strong,SLRB liq exec 802.7 dual VMSW debt 3.12bn / SWL SEC dep 366; not TE-additive; tick735
 bud_dual_slrb_debt_vs_vmsw_2025,gg_belgium,2025,1671720429,,,outturn,src_dual_slrb_vmsw_swl_tick735,strong,SLRB BS debt 1.672bn dual VMSW debt 3.123bn dual SWL guarantees; tick735
 bud_dual_slrb_encours_1_131bn_housing,gg_belgium,2025,1131471548,,,outturn,src_dual_slrb_vmsw_swl_tick735,strong,SLRB eng encours 1.131bn dual VL/WAL housing investment stocks; tick735
+bud_swcs_prod_global_483m_2025,swcs,2025,483000000,,,outturn,src_swcs_ra2025_residual,strong,Global production 483m EUR DG Ombelets RA2025 (6878 households); tick736
+bud_swcs_households_6878_2025,swcs,2025,6878,,,outturn,src_swcs_ra2025_residual,strong,Households accompanied COUNT 6878 2025; tick736
+bud_swcs_hyp_count_1557_2025,swcs,2025,1557,,,outturn,src_swcs_ra2025_residual,strong,Mortgage credits COUNT 1557 2025; tick736
+bud_swcs_hyp_amount_281_317m_2025,swcs,2025,281317377,,,outturn,src_swcs_ra2025_residual,strong,Mortgage amount lent 281.317m 2025; tick736
+bud_swcs_hyp_avg_180679_2025,swcs,2025,180679,,,outturn,src_swcs_ra2025_residual,strong,Average mortgage 180679 EUR 2025; tick736
+bud_swcs_hyp_zero_works_21_737m_2025,swcs,2025,21737205,,,outturn,src_swcs_ra2025_residual,strong,Of hyp: zero-rate works loans 21.737m 2025; tick736
+bud_swcs_reno_count_5575_2025,swcs,2025,5575,,,outturn,src_swcs_ra2025_residual,strong,Renovation loans COUNT 5575 (4711 temp + 864 joint hyp) 2025; tick736
+bud_swcs_reno_amount_222_567m_2025,swcs,2025,222566840,,,outturn,src_swcs_ra2025_residual,strong,Renovation amount lent 222.567m 2025; tick736
+bud_swcs_reno_avg_39922_2025,swcs,2025,39922,,,outturn,src_swcs_ra2025_residual,strong,Average renovation loan 39922 EUR 2025 (was 24093 in 2023); tick736
+bud_swcs_reno_zero_works_200_830m_2025,swcs,2025,200829635,,,outturn,src_swcs_ra2025_residual,strong,Of reno: pure zero-rate works 200.830m 2025; tick736
+bud_swcs_garantie_loc_count_610_2025,swcs,2025,610,,,outturn,src_swcs_ra2025_residual,strong,Rental deposit loans COUNT 610 2025; tick736
+bud_swcs_garantie_loc_amount_0_900m_2025,swcs,2025,899927,,,outturn,src_swcs_ra2025_residual,strong,Rental deposit amount lent 0.900m 2025; tick736
+bud_swcs_garantie_loc_avg_1475_2025,swcs,2025,1475,,,outturn,src_swcs_ra2025_residual,strong,Average rental deposit loan 1475 EUR 2025; tick736
+bud_swcs_prod_reconcile_483m_2025,swcs,2025,483000000,,,outturn,src_swcs_ra2025_residual,strong,Prod reconcil: hyp 281.3 + zero-works 200.8 + garantie 0.9 = 483.0 (avoids double-count 21.7 hyp-works); tick736
+bud_swcs_encours_global_1_749bn_2025,swcs,2025,1748503838,,,outturn,src_swcs_ra2025_residual,strong,Loan book encours global eoy2025 1.749bn / 46355 loans; tick736
+bud_swcs_encours_loans_count_46355_2025,swcs,2025,46355,,,outturn,src_swcs_ra2025_residual,strong,Active loans COUNT 46355 eoy2025; tick736
+bud_swcs_contentieux_global_3_2pct_2025,swcs,2025,32,,,outturn,src_swcs_ra2025_residual,strong,Global contentieux rate 3.2pct of loan COUNT eoy2025; tick736
+bud_swcs_encours_hyp_1_359bn_2025,swcs,2025,1358671640,,,outturn,src_swcs_ra2025_residual,strong,Mortgage encours 1.359bn / 15306 loans eoy2025; tick736
+bud_swcs_encours_hyp_count_15306_2025,swcs,2025,15306,,,outturn,src_swcs_ra2025_residual,strong,Mortgage stock COUNT 15306 eoy2025; tick736
+bud_swcs_encours_hyp_avg_88767_2025,swcs,2025,88767,,,outturn,src_swcs_ra2025_residual,strong,Mortgage stock avg balance 88767 EUR eoy2025; tick736
+bud_swcs_contentieux_hyp_3_3pct_2025,swcs,2025,33,,,outturn,src_swcs_ra2025_residual,strong,Hyp contentieux 3.3pct COUNT (was 2.8pct 2024) eoy2025; tick736
+bud_swcs_encours_temp_389_832m_2025,swcs,2025,389832198,,,outturn,src_swcs_ra2025_residual,strong,Installment loan encours 389.832m / 31049 loans eoy2025; tick736
+bud_swcs_encours_temp_count_31049_2025,swcs,2025,31049,,,outturn,src_swcs_ra2025_residual,strong,Installment stock COUNT 31049 eoy2025; tick736
+bud_swcs_encours_reno_temp_388_048m_2025,swcs,2025,388048243,,,outturn,src_swcs_ra2025_residual,strong,Reno installment encours 388.048m / 28551 loans eoy2025; tick736
+bud_swcs_encours_reno_temp_count_28551_2025,swcs,2025,28551,,,outturn,src_swcs_ra2025_residual,strong,Reno installment COUNT 28551 eoy2025; tick736
+bud_swcs_contentieux_reno_0_7pct_2025,swcs,2025,7,,,outturn,src_swcs_ra2025_residual,strong,Reno installment contentieux 0.7pct COUNT eoy2025; tick736
+bud_swcs_encours_garantie_1_665m_2025,swcs,2025,1664731,,,outturn,src_swcs_ra2025_residual,strong,Rental deposit stock 1.665m / 2471 loans eoy2025; tick736
+bud_swcs_encours_garantie_count_2471_2025,swcs,2025,2471,,,outturn,src_swcs_ra2025_residual,strong,Rental deposit stock COUNT 2471 eoy2025; tick736
+bud_swcs_contentieux_garantie_31pct_2025,swcs,2025,310,,,outturn,src_swcs_ra2025_residual,strong,Rental deposit contentieux 31pct COUNT eoy2025 (very high vs 0.7 reno); tick736
+bud_swcs_locapret_encours_17357_2025,swcs,2025,17357,,,outturn,src_swcs_ra2025_residual,strong,Locaprets residual 8 dossiers 17357 EUR eoy2025; tick736
+bud_swcs_frce_encours_41043_2025,swcs,2025,41043,,,outturn,src_swcs_ra2025_residual,strong,FRCE energy-cost residual 19 dossiers 41043 EUR eoy2025; tick736
+bud_swcs_staff_agents_140_2025,swcs,2025,140,,,outturn,src_swcs_ra2025_residual,strong,SWCS staff 140 agents eoy2025 (+3 IFAPME interns); tick736
+bud_swcs_network_staff_102_2025,swcs,2025,102,,,outturn,src_swcs_ra2025_residual,strong,Guichets 17 + local entities 6 staff COUNT 102; total mobilised ~250 with SWCS; tick736
+bud_swcs_complaints_280_2025,swcs,2025,280,,,outturn,src_swcs_ra2025_residual,strong,Complaints treated 280 COUNT (-14pct vs 2024); founded 23pct; tick736
+bud_swcs_appicredit_share_60pct_2025,swcs,2025,60,,,outturn,src_swcs_ra2025_residual,medium,AppiCredit channel >60pct of dossiers 2025; 33000+ requests since launch; tick736
+bud_swcs_ltv_ge100_69_5pct_2025,swcs,2025,695,,,outturn,src_swcs_ra2025_residual,strong,Access mortgages LTV >=100pct share 69.5pct 2025; tick736
+bud_swcs_c1c2_share_89pct_2025,swcs,2025,89,,,outturn,src_swcs_ra2025_residual,strong,Access product loans to C1/C2 precarious/modest 89pct 2025; tick736
+bud_swcs_isoles_under30_450_2025,swcs,2025,450,,,outturn,src_swcs_ra2025_residual,strong,Loans to isolés under 30 COUNT 450 2025; tick736
+bud_swcs_reno_cap_hit_30pct_2025,swcs,2025,30,,,outturn,src_swcs_ra2025_residual,strong,Share of reno dossiers hitting 60k ceiling ~30pct 2025; tick736
+bud_swcs_reno_avg_2023_24093,swcs,2023,24093,,,outturn,src_swcs_ra2025_residual,strong,Reno zero-rate avg 24093 EUR 2023 path to 39922 in 2025; tick736
+bud_dual_swcs_prod_483m_vs_housing_2025,gg_belgium,2025,483000000,,,outturn,src_dual_swcs_vmsw_slrb_flw_tick736,strong,SWCS prod 483m dual VMSW loan auth 1bn class / SLRB liq 803m / FLW inv 273m; not TE-additive; tick736
+bud_dual_swcs_encours_1_749bn_housing,gg_belgium,2025,1748503838,,,outturn,src_dual_swcs_vmsw_slrb_flw_tick736,strong,SWCS loan book 1.749bn dual VMSW debt 3.12bn / SLRB debt 1.67bn / FLW BS 2.24bn; tick736
+bud_dual_swcs_garantie_contentieux_31pct,gg_belgium,2025,1664731,,,outturn,src_dual_swcs_vmsw_slrb_flw_tick736,strong,SWCS rental-deposit contentieux 31pct vs reno 0.7pct dual credit-risk residual; tick736
+bud_flw_pied_bilan_2_239bn_2024,flw,2024,2239047663,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW balance-sheet total 2.239bn eoy2024; tick736 dual SWCS
+bud_flw_ca_73_903m_2024,flw,2024,73903255,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW chiffre d affaires 73.903m 2024; tick736
+bud_flw_invest_272_652m_2024,flw,2024,272651529,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW investments realisations 272.652m 2024 (family loans 256.410); tick736
+bud_flw_family_loans_real_256_410m_2024,flw,2024,256409736,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW family loans realisations 256.410m / 3155 credits 2024; tick736
+bud_flw_credits_stock_28795_2024,flw,2024,28795,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW credits en cours COUNT 28795 eoy2024; tick736
+bud_flw_credits_granted_3155_2024,flw,2024,3155,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW credits granted COUNT 3155 2024; tick736
+bud_flw_debt_claims_ratio_81pct_2024,flw,2024,81,,,outturn,src_flw_ra2024_dual_tick736,strong,FLW dettes financieres LT / creances ratio 81pct eoy2024; tick736
+bud_dual_wal_credit_social_swcs_flw_2025,gg_belgium,2025,483000000,,,outturn,src_dual_swcs_vmsw_slrb_flw_tick736,strong,WAL social credit dual: SWCS prod 483m 2025 + FLW invest 273m 2024 class split max-2-kids vs large-fam; tick736
