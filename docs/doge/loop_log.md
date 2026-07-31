@@ -7491,3 +7491,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+fonds_kyoto_wallonie +fonds_bas_carbone_wal); budgets (+17); commitments (+3); leaderboard (+6); sources (+3); FOI draft gap_kyoto_wal_project_l5_2025; rq_616=done; spawn rq_617; loop_state ticks=625
 - FOI opened: gap_kyoto_wal_project_l5_2025 -- ready (not sent)
 - Next: rq_617; progress@630 in 5 ticks; rq_116 deferred
+
+### 2026-07-31T22:15:00Z -- tick 626
+- Unit: rq_617 (FOI-adjacent dual housing hole-fill -- **SWL + SWCS + FLW** CoA Table33 dual VMSW)
+- Found: **SWL** Type3 (primary CoA Table33): **BI2025** rec **EUR383.504m** / dep **EUR366.153m** / solde **+EUR17.351m**; **BA2024** rec **EUR351.743m** / dep **EUR295.982m** / solde **+EUR55.761m** (path dep **+EUR70.171m** / solde **-EUR38.410m**). **SWCS:** BI2025 rec **EUR218.077m** / dep **EUR215.628m** / solde **+EUR2.449m**; BA2024 rec **EUR156.249m** / dep **EUR165.627m** / solde **-EUR9.378m**; BA2024 aide exceptionnelle **EUR63.671m** (deficit **13.7m** + capital **50m**); impact solde BI2025 **-EUR9.378m** vs annex **+2.449m** recon residual. **FLW:** BI2025 rec **EUR112.784m** / dep **EUR121.048m** / solde **-EUR8.264m**; BA2024 solde **+EUR3.717m** (path dep **+EUR15.059m**). 119quater: SWL **79**/1.22m; SWCS **40**/0.618m. Dual **VMSW** debt **EUR3.12bn** / Wonen VEK **~EUR348m** (not additive). Strong confidence CoA; SLSP/loan L5 residual FOI.
+- Wrote: entities (swl/swcs update +flw); budgets (+22); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_swl_swcs_flw_recon_l5_2025; rq_617=done; spawn rq_618; loop_state ticks=626
+- FOI opened: gap_swl_swcs_flw_recon_l5_2025 -- ready (not sent)
+- Next: rq_618; progress@630 in 4 ticks; rq_116 deferred

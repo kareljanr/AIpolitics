@@ -11394,3 +11394,25 @@ bud_fonds_bas_carbone_rec_bi2024,fonds_bas_carbone_wal,2024,25000000,,,budgeted,
 bud_fonds_bas_carbone_dep_bi2024,fonds_bas_carbone_wal,2024,25000000,,,budgeted,src_ccrek_fonds_bas_carbone_table33,strong,CoA Table33 Fonds bas carbone dep SEC BI2024 25.0m balanced; tick625
 bud_fonds_bas_carbone_bi2025_zero,fonds_bas_carbone_wal,2025,0,,,budgeted,src_ccrek_fonds_bas_carbone_table33,strong,CoA Table33 Fonds bas carbone BI2025 zero closed path; tick625
 bud_dual_kyoto_wal_fed_class_2025,gg_belgium,2025,200000000,,,budgeted,src_dual_kyoto_wal_fed_ets_tick625,strong,WAL Kyoto 200m BI2025 dual federal ETS stock 1.8bn + spend 8m class not additive; tick625
+bud_swl_rec_sec_bi2025,swl,2025,383504268,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWL recettes SEC BI2025 383.504m; tick626
+bud_swl_dep_sec_bi2025,swl,2025,366153268,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWL depenses SEC BI2025 366.153m; tick626
+bud_swl_solde_sec_bi2025,swl,2025,17351000,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWL solde SEC BI2025 +17.351m; tick626
+bud_swl_rec_sec_ba2024,swl,2024,351743076,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWL recettes SEC BA2024 351.743m; tick626
+bud_swl_dep_sec_ba2024,swl,2024,295982076,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWL depenses SEC BA2024 295.982m; tick626
+bud_swl_solde_sec_ba2024,swl,2024,55761000,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWL solde SEC BA2024 +55.761m; path solde -38.410m; tick626
+bud_swcs_rec_sec_bi2025,swcs,2025,218077200,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWCS recettes SEC BI2025 218.077m; tick626
+bud_swcs_dep_sec_bi2025,swcs,2025,215628300,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWCS depenses SEC BI2025 215.628m; tick626
+bud_swcs_solde_sec_bi2025,swcs,2025,2448900,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWCS solde SEC BI2025 +2.449m (impact table -9.378m recon residual); tick626
+bud_swcs_rec_sec_ba2024,swcs,2024,156248900,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWCS recettes SEC BA2024 156.249m; tick626
+bud_swcs_dep_sec_ba2024,swcs,2024,165626600,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWCS depenses SEC BA2024 165.627m; tick626
+bud_swcs_solde_sec_ba2024,swcs,2024,-9377700,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 SWCS solde SEC BA2024 -9.378m; tick626
+bud_swcs_aide_exceptionnelle_ba2024,swcs,2024,63671000,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA BA2024 aide exceptionnelle SWCS 63.671m (deficit 13.7m + capital 50m); tick626
+bud_flw_rec_sec_bi2025,flw,2025,112784352,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 FLW recettes BI2025 112.784m; tick626
+bud_flw_dep_sec_bi2025,flw,2025,121048025,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 FLW depenses BI2025 121.048m; tick626
+bud_flw_solde_sec_bi2025,flw,2025,-8263673,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 FLW solde SEC BI2025 -8.264m; tick626
+bud_flw_rec_sec_ba2024,flw,2024,109705957,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 FLW recettes BA2024 109.706m; tick626
+bud_flw_dep_sec_ba2024,flw,2024,105988688,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 FLW depenses BA2024 105.989m; tick626
+bud_flw_solde_sec_ba2024,flw,2024,3717269,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Table33 FLW solde SEC BA2024 +3.717m; path dep +15.059m; tick626
+bud_swl_119quater_cost_2025,swl,2025,1219760,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Annex4 119quater SWL 79 agents cost est 1.21976m 2025; tick626
+bud_swcs_119quater_cost_2025,swcs,2025,617600,,,budgeted,src_ccrek_swl_swcs_flw_table33,strong,CoA Annex4 119quater SWCS 40 agents cost est 0.6176m 2025; tick626
+bud_dual_housing_wal_sec_dep_class_2025,gg_belgium,2025,702829593,,,budgeted,src_dual_housing_swl_vmsw_tick626,strong,WAL SWL+SWCS+FLW dep SEC BI2025 sum 366.153+215.628+121.048=702.83m class not dual-additive with VL; tick626

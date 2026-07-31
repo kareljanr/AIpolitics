@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T22:00:00Z,rq_616,625,no,tick625 Fonds Kyoto WAL 200m stock 445m dual ETS; next rq_617; progress@630 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T22:15:00Z,rq_617,626,no,tick626 SWL SWCS FLW housing SEC dual VMSW; next rq_618; progress@630 in 4; rq_116 deferred
