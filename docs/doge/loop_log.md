@@ -7168,3 +7168,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+ipalle); budgets (+40); commitments (+2); leaderboard (+7); sources (+2); raw PDF; FOI draft gap_ipalle_commune_l5_2025; rq_577=done; spawn rq_578; loop_state ticks=586
 - FOI opened: gap_ipalle_commune_l5_2025 → ready (not sent)
 - Next: rq_578; progress@590 in 4 ticks; rq_116 deferred
+
+### 2026-07-31T12:30:00Z — tick 587
+- Unit: rq_578 (FOI-adjacent dual waste hole-fill — **BEP Environnement** Namur province)
+- Found: **BEP Environnement** RG/comptes 2024 (primary PDF bep.be, 112 pp) + press résultats 2025 ops. **CA €26.760m** (ventes €69.409m); **op €2.607m**; **net €2.375m** (100% to reserves, **no dividend**). **Assets €77.190m**; **equity €36.182m**; **dettes €36.973m** (LT €22.113m ST €14.542m); **provisions €4.034m**; personnel **€18.261m** / **327** staff; **commune contrib €36.268m** + public sub **€5.166m**; **Energywall RV €8.548m**; 39 communes Province Namur; dual waste vs **IPALLE** (83m/380m) + **INTRADEL** (125m/187m loss). Ops 2025 medium: 500 kg/hab residual 96.9; 34 recyparcs. Strong confidence on 2024.
+- Wrote: entities (+bep_environnement); budgets (+30); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_bep_env_comptes_l5_2025; rq_578=done; spawn rq_579; loop_state ticks=587
+- FOI opened: gap_bep_env_comptes_l5_2025 → ready (not sent)
+- Next: rq_579; progress@590 in 3 ticks; rq_116 deferred

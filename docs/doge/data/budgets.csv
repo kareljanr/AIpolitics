@@ -10836,3 +10836,33 @@ bud_ipalle_eau_net_2025,ipalle,2025,717714,,,outturn,src_ipalle_rse_2025,strong,
 bud_ipalle_c1_ca_2025,ipalle,2025,11882066,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE DIB C1 CA 11.882m net 2.026m 2025; tick586
 bud_ipalle_c2_ca_2025,ipalle,2025,19948334,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE DIB C2 CA 19.948m net 1.789m 2025; tick586
 bud_ipalle_droit_tirage_eur_hab_2025,ipalle,2025,0,,,outturn,src_ipalle_rse_2025,strong,IPALLE droit de tirage 4.67 EUR/hab 2025; cum 30m/10y communes; amount per-hab not total; tick586
+bud_bep_env_ca_2024,bep_environnement,2024,26759733,,,outturn,src_bep_env_rg_2024,strong,BEP Env chiffre d affaires 26.760m 2024 (vs 23.822m 2023); tick587
+bud_bep_env_ventes_2024,bep_environnement,2024,69409213,,,outturn,src_bep_env_rg_2024,strong,BEP Env ventes et prestations 69.409m 2024; tick587
+bud_bep_env_other_op_prod_2024,bep_environnement,2024,42451350,,,outturn,src_bep_env_rg_2024,strong,BEP Env autres produits exploitation 42.451m 2024; tick587
+bud_bep_env_commune_contrib_2024,bep_environnement,2024,36268419,,,outturn,src_bep_env_rg_2024,strong,BEP Env contribution financiere communes 36.268m 2024; tick587
+bud_bep_env_public_sub_2024,bep_environnement,2024,5165932,,,outturn,src_bep_env_rg_2024,strong,BEP Env subsides interventions pouvoirs publics 5.166m 2024; tick587
+bud_bep_env_costs_2024,bep_environnement,2024,66802228,,,outturn,src_bep_env_rg_2024,strong,BEP Env cout ventes prestations 66.802m 2024; tick587
+bud_bep_env_services_2024,bep_environnement,2024,29841835,,,outturn,src_bep_env_rg_2024,strong,BEP Env services biens divers 29.842m 2024; tick587
+bud_bep_env_personnel_2024,bep_environnement,2024,18261340,,,outturn,src_bep_env_rg_2024,strong,BEP Env remunerations charges pensions 18.261m staff 327 2024; tick587
+bud_bep_env_amort_2024,bep_environnement,2024,5730361,,,outturn,src_bep_env_rg_2024,strong,BEP Env amortissements 5.730m 2024; tick587
+bud_bep_env_rv_creances_2024,bep_environnement,2024,8553106,,,outturn,src_bep_env_rg_2024,strong,BEP Env reductions valeur creances 8.553m (Energywall 8.548m) 2024; tick587
+bud_bep_env_op_result_2024,bep_environnement,2024,2606985,,,outturn,src_bep_env_rg_2024,strong,BEP Env benefice exploitation 2.607m 2024; tick587
+bud_bep_env_fin_prod_2024,bep_environnement,2024,556705,,,outturn,src_bep_env_rg_2024,strong,BEP Env produits financiers 0.557m 2024; tick587
+bud_bep_env_fin_charges_2024,bep_environnement,2024,625730,,,outturn,src_bep_env_rg_2024,strong,BEP Env charges financieres 0.626m 2024; tick587
+bud_bep_env_tax_2024,bep_environnement,2024,162671,,,outturn,src_bep_env_rg_2024,strong,BEP Env impots 0.163m 2024; tick587
+bud_bep_env_net_result_2024,bep_environnement,2024,2375288,,,outturn,src_bep_env_rg_2024,strong,BEP Env benefice exercice 2.375m all to reserves no dividend 2024; tick587
+bud_bep_env_assets_2024,bep_environnement,2024,77189516,,,outturn,src_bep_env_rg_2024,strong,BEP Env total bilan 77.190m 2024 (vs 79.407m 2023); tick587
+bud_bep_env_fixed_assets_2024,bep_environnement,2024,42158893,,,outturn,src_bep_env_rg_2024,strong,BEP Env actifs immobilises 42.159m 2024; tick587
+bud_bep_env_tangible_2024,bep_environnement,2024,42069138,,,outturn,src_bep_env_rg_2024,strong,BEP Env immobilisations corporelles 42.069m 2024; tick587
+bud_bep_env_current_assets_2024,bep_environnement,2024,35030623,,,outturn,src_bep_env_rg_2024,strong,BEP Env actifs circulants 35.031m 2024; tick587
+bud_bep_env_placements_2024,bep_environnement,2024,15416033,,,outturn,src_bep_env_rg_2024,strong,BEP Env placements tresorerie 15.416m 2024; tick587
+bud_bep_env_cash_2024,bep_environnement,2024,598498,,,outturn,src_bep_env_rg_2024,strong,BEP Env valeurs disponibles 0.598m 2024; tick587
+bud_bep_env_equity_2024,bep_environnement,2024,36182401,,,outturn,src_bep_env_rg_2024,strong,BEP Env capitaux propres 36.182m 2024; tick587
+bud_bep_env_reserves_2024,bep_environnement,2024,27822847,,,outturn,src_bep_env_rg_2024,strong,BEP Env reserves 27.823m (disponibles 27.806m) 2024; tick587
+bud_bep_env_subsides_capital_2024,bep_environnement,2024,8186329,,,outturn,src_bep_env_rg_2024,strong,BEP Env subsides en capital 8.186m 2024; tick587
+bud_bep_env_provisions_2024,bep_environnement,2024,4033948,,,outturn,src_bep_env_rg_2024,strong,BEP Env provisions GER 4.034m (CET 0.756 + GER 1.125 + conteneurs 2.153) 2024; tick587
+bud_bep_env_dettes_2024,bep_environnement,2024,36973167,,,outturn,src_bep_env_rg_2024,strong,BEP Env dettes totales 36.973m 2024; tick587
+bud_bep_env_lt_debt_2024,bep_environnement,2024,22112667,,,outturn,src_bep_env_rg_2024,strong,BEP Env dettes a plus un an 22.113m (banks 22.112m) 2024; tick587
+bud_bep_env_st_debt_2024,bep_environnement,2024,14541725,,,outturn,src_bep_env_rg_2024,strong,BEP Env dettes a un an 14.542m 2024; tick587
+bud_bep_env_receivables_st_2024,bep_environnement,2024,12300580,,,outturn,src_bep_env_rg_2024,strong,BEP Env creances a un an 12.301m 2024; tick587
+bud_bep_env_owd_subsides_lt_2024,bep_environnement,2024,3909425,,,outturn,src_bep_env_rg_2024,strong,BEP Env OWD investment subsides LT receivable 3.909m 2024; tick587
