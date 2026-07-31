@@ -6857,3 +6857,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +30; cmt +2; lb +8; FOI **gap_onem_region_unit_cost_l5** ready+draft; raw PDF; rq_555=done spawn **rq_556**; ticks=564
 - FOI opened: gap_onem_region_unit_cost_l5 (ready, human send) - not sent
 - Next: prio5 **rq_556**; deferred **rq_116**; progress@570 in 6 ticks
+
+### 2026-07-31T10:10:00Z - tick 565
+- Unit: **rq_556** (FOI-adjacent hole-fill - **FOREM DEI 2024-25 dual PES volumes vs VDAB/ONEM**)
+- Found (strong primary FOREM press 17 Jan 2025 + market infographic 2025):
+  - **DEI avg:** **235.011** 2024 (+7%) → **254.921** 2025 (+9.6%, excl DG)
+  - **Split 2025:** DEDA **119.188** (+5.1%) · free **78.340** (+25.1%) · JSI **29.735** (−3.8%) · other mand **27.658** (+8.4%)
+  - **2024 rate:** **14.3%** of active pop (dual VDAB WZW rate **6.9%**); provinces Hainaut/Liège ~**17.5–17.7%**
+  - **Offers:** **532.623** 2024 (+30%, interim **63.4%**) → **405.035** 2025 (−24%); ~1/3 penury/critical
+  - **Labour force 2025:** working-age **2.341m** · employed **1.480m** · BIT unemp **126k** · inactive **735k**
+  - **Dual:** ONEM WAL benefits **€2.66bn** vs FOREM stock; VDAB WZW **225k** / NECzU vac **271k**
+- Wrote: sources +3; budgets +26; cmt +2; lb +7; FOI **gap_forem_ra_outturn_2024_25** ready+draft; gap_forem_budget notes; raw PDFs; rq_556=done spawn **rq_557**; ticks=565
+- FOI opened: gap_forem_ra_outturn_2024_25 (ready, human send) - not sent
+- Next: prio5 **rq_557**; deferred **rq_116**; progress@570 in 5 ticks

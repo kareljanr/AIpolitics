@@ -10160,3 +10160,29 @@ bud_onem_temp_ui_wal_2025,onem_rva,2025,184400000,,,outturn,src_onem_ra_2025_vol
 bud_onem_temp_ui_bru_2025,onem_rva,2025,21200000,,,outturn,src_onem_ra_2025_vol2,strong,Temp UI Brussels 21.2m (4.6pct); tick564
 bud_onem_emploi_mes_wal_2025,onem_rva,2025,77700000,,,outturn,src_onem_ra_2025_vol2,strong,Employment measures Wallonia 77.7m of 108.9 total (71.4pct); dual FOREM activation; tick564
 bud_onem_alloc_delta_2025,onem_rva,2025,23200000,,,outturn,src_onem_ra_2025_vol2,strong,YoY increase allocated amounts +23.2m; tick564
+bud_forem_dei_avg_2024,forem,2024,235011,,,outturn,src_forem_dei_bilan_2024,strong,COUNT monthly avg DEI Wallonia 235011 2024 (+7.0pct +15429); tick565
+bud_forem_dei_avg_2025,forem,2025,254921,,,outturn,src_forem_marche_emploi_2025,strong,COUNT monthly avg DEI 254921 2025 excl DG (+9.6pct); tick565
+bud_forem_deda_avg_2024,forem,2024,114790,,,outturn,src_forem_dei_bilan_2024,strong,COUNT DEDA UI claimants avg 114790 2024 (49pct; -3.5pct); tick565
+bud_forem_deda_avg_2025,forem,2025,119188,,,outturn,src_forem_marche_emploi_2025,strong,COUNT DEDA avg 119188 2025 (+5.1pct) dual ONEM reform onset; tick565
+bud_forem_jsi_avg_2024,forem,2024,31104,,,outturn,src_forem_dei_bilan_2024,strong,COUNT young insertion stage avg 31104 2024 (-12.2pct); tick565
+bud_forem_jsi_avg_2025,forem,2025,29735,,,outturn,src_forem_marche_emploi_2025,strong,COUNT JSI avg 29735 2025 (-3.8pct); tick565
+bud_forem_free_avg_2024,forem,2024,63013,,,outturn,src_forem_dei_bilan_2024,strong,COUNT free registrations avg 63013 2024 (+56pct admin retention); tick565
+bud_forem_free_avg_2025,forem,2025,78340,,,outturn,src_forem_marche_emploi_2025,strong,COUNT free avg 78340 2025 (+25.1pct) decree non-reinscription effect; tick565
+bud_forem_other_mand_2024,forem,2024,26104,,,outturn,src_forem_dei_bilan_2024,strong,COUNT other mandatory DE avg 26104 2024 (+5.2pct); tick565
+bud_forem_other_mand_2025,forem,2025,27658,,,outturn,src_forem_marche_emploi_2025,strong,COUNT other mandatory 27658 2025 (+8.4pct); tick565
+bud_forem_dei_rate_2024,forem,2024,14.3,,,outturn,src_forem_dei_bilan_2024,strong,PCT DEI/active pop Wallonia 14.3 2024; dual VDAB 6.9; tick565
+bud_forem_offers_2024,forem,2024,532623,,,outturn,src_forem_dei_bilan_2024,strong,COUNT job offers diffused 532623 2024 excl other SPE (+30pct); tick565
+bud_forem_offers_2025,forem,2025,405035,,,outturn,src_forem_marche_emploi_2025,strong,COUNT offers 405035 2025 excl other SPE (-24pct vs 2024); ~1/3 penury/critical; tick565
+bud_forem_interim_offers_2024,forem,2024,337783,,,outturn,src_forem_dei_bilan_2024,strong,COUNT interim offers 337783 2024 (63.4pct of diffused); tick565
+bud_forem_cdi_offers_2024,forem,2024,123826,,,outturn,src_forem_dei_bilan_2024,strong,COUNT CDI offers 123826 2024 (23.2pct); tick565
+bud_forem_cdd_offers_2024,forem,2024,49082,,,outturn,src_forem_dei_bilan_2024,strong,COUNT CDD offers 49082 2024 (9.2pct); tick565
+bud_forem_offers_via_other_spe,forem,2024,98948,,,outturn,src_forem_dei_bilan_2024,strong,COUNT offers from other SPE 98948; total site traffic 631571 2024; tick565
+bud_forem_wal_working_age_2025,forem,2025,2340842,,,outturn,src_forem_marche_emploi_2025,strong,COUNT working-age pop 15-64 Wallonia 2340842 2025 Q3 EFT; tick565
+bud_forem_wal_employed_2025,forem,2025,1480102,,,outturn,src_forem_marche_emploi_2025,strong,COUNT employed 1480102 Wallonia; salariés 1122478 ONSS; tick565
+bud_forem_wal_bit_unemp_2025,forem,2025,126174,,,outturn,src_forem_marche_emploi_2025,strong,COUNT BIT unemployed 126174 (LFS class dual DEI admin 255k); tick565
+bud_forem_wal_inactive_2025,forem,2025,734566,,,outturn,src_forem_marche_emploi_2025,strong,COUNT inactive 734566; tick565
+bud_forem_dei_rate_hainaut,forem,2025,17.5,,,outturn,src_forem_marche_emploi_2025,strong,PCT DEI rate Hainaut 17.5 +1.6pp; tick565
+bud_forem_dei_rate_liege,forem,2025,17.7,,,outturn,src_forem_marche_emploi_2025,strong,PCT DEI rate Liege-Huy-Verviers 17.7 +1.5pp; tick565
+bud_forem_dei_rate_lux,forem,2025,12.1,,,outturn,src_forem_marche_emploi_2025,strong,PCT DEI rate Luxembourg 12.1 +0.9pp; tick565
+bud_forem_dei_rate_namur_bw,forem,2025,12.2,,,outturn,src_forem_marche_emploi_2025,strong,PCT DEI rate Namur/BW 12.2 +1.2pp; tick565
+bud_vdab_wzw_vs_forem_dei,vdab,2025,224630,,,outturn,src_dual_pes_forem_vdab_onem_tick565,strong,COUNT dual: VDAB WZW Flanders eoy 224630 rate 6.9 vs FOREM DEI avg 254921; tick565
