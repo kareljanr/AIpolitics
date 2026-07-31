@@ -8714,3 +8714,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+40); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vgc_jr2025_residual_l5**; extracts + write script; rq_724=done; spawn **rq_725**; loop_state ticks=733
 - FOI opened: gap_vgc_jr2025_residual_l5 — ready (not sent); prior Phare/VGC FOI remains ready
 - Next: rq_725; progress@740 in 7; rq_116 deferred
+
+### 2026-08-02T04:00:00Z — tick 734
+- Unit: **rq_725** (FOI-adjacent residual dual — **SPW Rapport annuel 2025 residual dual Entity II / VL**)
+- Found (primary SPW RA2025 residual multi-DG):
+  - **IAS:** local powers financing **2.322bn** alloue; natural calamities **96.533m** granted / **96.001m** paid
+  - **ARNE/OPW:** PAC/rural aids **379m** (EU **317** + RW **62**); agri calamity **2.835m**; watercourse eng/liq **8.322/5.805m**
+  - **TLPE logement/énergie:** reno+energy aids **>110m**; prog243 public housing **14.681m**; AWaP heritage **31.3m**; CV support **~330m** (5.08m certs); redevances voirie **60.7m**; UREBA liq **>4.1m** / eng **5.27m**; MEBAR **2.707m**
+  - **EER:** R&D creances **315.4m** (5740 decl); enterprise invest **128m** (1127 firms); parcs activité **98.647m**; chèques-entreprises **~16.9m**; Einstein **20m** (+200m if sited)
+  - **Finances:** expense control **17.98bn** (148891 dossiers); liq rate **95.96%**; fixed assets **380.255m**; bilan **34.11bn** / loss **2.73bn**; eng/liq credits **>21/>22bn**; fiscal percu **3.266bn**; reverse communes **1.287bn** + provinces **0.825bn** + véhicules **56.4m**
+  - Dual Entity II: local fin / CV / housing / PAC / R&D vs VL stacks (not TE-additive)
+- Wrote: budgets (+50); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_spw_ra2025_residual_l5**; raw PDF extract + write script; rq_725=done; spawn **rq_726**; loop_state ticks=734
+- FOI opened: gap_spw_ra2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_726; progress@740 in 6; rq_116 deferred
+

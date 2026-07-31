@@ -14696,3 +14696,53 @@ bud_dual_vgc_cocof_exp_2025_26,gg_belgium,2025,173627909,,,outturn,src_dual_vgc_
 bud_dual_vgc_werksubs_vs_phare,gg_belgium,2025,53883069,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC werksubs granted 53.9 dual Phare 210.3 COCOF; different instruments; tick733
 bud_dual_vgc_surplus_vs_cocof_sec,gg_belgium,2025,51335168,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC exp surplus 51.3 dual COCOF SEC path -22.7 2026; tick733
 bud_dual_vgc_debt_vs_cocof,gg_belgium,2025,242125466,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC debt 242.1 dual COCOF path 203.7 2026; tick733
+bud_spw_audit_eu_projects_100m_class,wallonie_gov,2025,100000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Service commun Audit EU projects audited >100m class 2025; tick734
+bud_spw_support_nettoyage_save_300k,spw_support_do11,2025,300000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Cleaning markets rationalisation savings ~300k 2025; tick734
+bud_spw_arne_pac_aids_total_2025,opw_wallonie,2025,379000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,SPW ARNE OPW paid 379m farmer/rural aids 2025; tick734
+bud_spw_arne_pac_eu_share_2025,opw_wallonie,2025,317000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Of PAC aids 317m EU financing 2025; tick734
+bud_spw_arne_pac_rw_share_2025,opw_wallonie,2025,62000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Of PAC aids 62m RW financing 2025; tick734
+bud_spw_arne_calamite_agri_2025,wallonie_gov,2025,2835062.96,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Agricultural calamity indemnity 2.835m (1209 claims) 2025; tick734
+bud_spw_arne_cours_eau_eng_2025,wallonie_gov,2025,8322000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,1st-category watercourse maintenance eng 8.322m 2025; tick734
+bud_spw_arne_cours_eau_liq_2025,wallonie_gov,2025,5805000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Watercourse works liquidated 5.805m 2025; tick734
+bud_spw_tlpe_ops_programmes_18m,wallonie_gov,2025,18000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,14 operational programmes ~18m (36 projects) 2025; tick734
+bud_spw_tlpe_sar_sites_7_265m,wallonie_gov,2025,7265000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,11 SAR sites supported ~7.265m 2025; tick734
+bud_spw_logement_subs_public_prog243,wallonie_gov,2025,14681072,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Prog243 public housing creation subsidies 14.681m to operators 2025; tick734
+bud_spw_logement_reno_energy_aids_110m,wallonie_gov,2025,110000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Housing renovation+energy performance aids >110m invested 2025; tick734
+bud_spw_awap_heritage_subs_31_3m,wallonie_gov,2025,31300000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,AWaP heritage restoration/valorisation grants 31.3m 2025; tick734
+bud_spw_energie_pape_cpas_1_86m,spw_energie,2025,1860000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,89 PAPE energy prevention plans CPAS subsidised 1.86m 2025; tick734
+bud_spw_energie_mebar_liq_2_707m,spw_energie,2025,2707303.67,,,outturn,src_spw_rapport_annuel_2025_residual,strong,MEBAR operation liquidated 2.707m (1169 dossiers) 2025; tick734
+bud_spw_energie_ureba_liq_4_1m,spw_energie,2025,4100000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,UREBA public buildings 304 dossiers liquidated >4.1m 2025; tick734
+bud_spw_energie_ureba_eng_5_27m,spw_energie,2025,5270000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,UREBA 601 dossiers engaged 5.27m 2025; tick734
+bud_spw_energie_redevances_voirie_60_7m,spw_energie,2025,60700000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Electricity/gas right-of-way fees to entities 60.7m 2025; tick734
+bud_spw_energie_cv_soutien_330m_class,spw_energie,2025,330000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Green certificates ~5.08m issued ~330m support class renewable production 2025; tick734
+bud_spw_energie_amureba_cheques_4_354m,spw_energie,2025,4353810,,,outturn,src_spw_rapport_annuel_2025_residual,strong,AMUREBA energy cheques 297 firms 4.354m 2025; tick734
+bud_spw_ias_calamites_acc_96_533m,wallonie_gov,2025,96533480.15,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Natural calamities aids granted 96.533m 2025; tick734
+bud_spw_ias_calamites_paid_96_001m,wallonie_gov,2025,96000854.28,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Natural calamities aids paid 96.001m 2025; tick734
+bud_spw_ias_fin_pouvoirs_locaux_2_322bn,wallonie_gov,2025,2322355000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,General financing local powers allocated 2.322355bn 2025; tick734
+bud_spw_eer_einstein_20m,wallonie_gov,2025,20000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Einstein Telescope candidacy support 20m (5m firms) 2025; tick734
+bud_spw_eer_einstein_if_sited_200m,wallonie_gov,2025,200000000,,,commitment,src_spw_rapport_annuel_2025_residual,medium,Einstein implant perspective 200m if sited (conditional); tick734
+bud_spw_eer_ape_fines_769k,wallonie_gov,2025,769133.75,,,outturn,src_spw_rapport_annuel_2025_residual,strong,APE/CFISPA inspection fines 769.134k (1561 controls; part suspended); tick734
+bud_spw_eer_indemn_commercants_2_972m,wallonie_gov,2025,2972400,,,outturn,src_spw_rapport_annuel_2025_residual,strong,510 compensatory indemnities traders works impact 2.972m 2025; tick734
+bud_spw_eer_parcs_activite_98_647m,wallonie_gov,2025,98647000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Activity parks invest 98.647m (70 dossiers) 2025; tick734
+bud_spw_eer_cheques_entreprises_16_9m,wallonie_gov,2025,16900000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,2973 chèques-entreprises ~16.9m 2025; tick734
+bud_spw_eer_invest_entreprises_128m,wallonie_gov,2025,128000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Enterprise investment support 128m (1127 firms) 2025; tick734
+bud_spw_eer_rd_creances_315_4m,wallonie_gov,2025,315400000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,R&D claim declarations 5740 total 315.4m 2025; tick734
+bud_spw_fin_dep_control_17_98bn,wallonie_gov,2025,17980000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Expense control processed 148891 invoices/subs 17.98bn 2025; tick734
+bud_spw_fin_liq_rate_95_96pct,wallonie_gov,2025,9596,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Liquidation credit execution rate 95.96pct COUNT basis 100; tick734
+bud_spw_fin_actifs_immo_380_255m,wallonie_gov,2025,380255000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Fixed-asset invoices booked 380.255m (vs 355.528 2024); tick734
+bud_spw_fin_bilan_pied_34_11bn,wallonie_gov,2025,34110000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,SPW balance-sheet foot ~34.11bn eoy2025 (vs 33.82); tick734
+bud_spw_fin_result_loss_2_73bn,wallonie_gov,2025,2730000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,SPW P&L loss 2.73bn 2025 (vs 2.61 2024); tick734
+bud_spw_fin_budget_eng_21bn_class,wallonie_gov,2025,21000000000,,,budgeted,src_spw_rapport_annuel_2025_residual,strong,RW budget 2631 addresses eng credits >21bn class 2025; tick734
+bud_spw_fin_budget_liq_22bn_class,wallonie_gov,2025,22000000000,,,budgeted,src_spw_rapport_annuel_2025_residual,strong,RW budget liq credits >22bn class 2025; tick734
+bud_spw_fin_droits_fisc_etablis_3_275bn,wallonie_gov,2025,3275000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Fiscal rights established 3.275bn (precompte immo 2.219bn) 2025; tick734
+bud_spw_fin_precompte_immo_etabli_2_219bn,wallonie_gov,2025,2219000000,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Precompte immobilier established 2.219bn of 3.275bn 2025; tick734
+bud_spw_fin_recettes_fisc_3_266bn,wallonie_gov,2025,3266305853,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Fiscal recettes perceived 3.266305853bn 2025; tick734
+bud_spw_fin_reverse_communes_1_287bn,wallonie_gov,2025,1286971280,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Precompte reverse to cities/communes 1.28697128bn 2025; tick734
+bud_spw_fin_reverse_vehicules_56_392m,wallonie_gov,2025,56391670,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Vehicle tax reverse to local 56.392m 2025; tick734
+bud_spw_fin_reverse_provinces_824_506m,wallonie_gov,2025,824506447,,,outturn,src_spw_rapport_annuel_2025_residual,strong,Reverse to provinces 824.506m 2025; tick734
+bud_dual_spw_local_fin_vs_vl_2_322bn,gg_belgium,2025,2322355000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL local powers fin 2.322bn dual VL municipal fund path; not additive; tick734
+bud_dual_spw_cv_vs_vl_green_330m,gg_belgium,2025,330000000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL green-cert support ~330m dual VL renewable support stack; tick734
+bud_dual_spw_housing_reno_vs_vl_110m,gg_belgium,2025,110000000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL housing reno/energy aids >110m dual VL wonen subsidies; tick734
+bud_dual_spw_pac_vs_vl_379m,gg_belgium,2025,379000000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL PAC/rural aids 379m dual VL agriculture CAP path; tick734
+bud_dual_spw_rd_vs_vl_315m,gg_belgium,2025,315400000,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL R&D creances 315.4m dual VL FWO/VLAIO research stack; tick734
+bud_dual_spw_calamites_vs_vl_96_5m,gg_belgium,2025,96533480,,,outturn,src_dual_spw_vl_entity2_tick734,strong,WAL natural calamities 96.5m dual VL disaster/flood residual; tick734
