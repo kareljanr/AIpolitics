@@ -8068,3 +8068,19 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_fed_aju2026_return_mantelzorg_l5 — ready (not sent)
 - Next: rq_679; progress@690 in 3 ticks; rq_116 deferred
 
+
+### 2026-08-01T13:45:00Z — tick 688
+- Unit: **rq_679** (FOI-adjacent dual residual — **VL begrotingsfondsen T9/T10 residual deepen**)
+- Found (primary CoA 2026_28 §2.2.3 + §8.2):
+  - **T9 matrix:** begin **928.7** → end **856.5** (rec **866.8** exp **608.6** desaffect **330.4**; **−72.2 / −7.8%**)
+  - **VV:** end **180.2** flat; fines FPS **168.3** (IB **202.8**; **−34.5**; threshold **161.2**)
+  - **Klimaat:** end surplus **58.5** vs historic deficit **~54**; rec **264.5** des **252.8**; REG→Energie **+31.6**; auction **+11.7**; ICL **194** (−23)
+  - **Energie:** end **257.2** (−32.8); rec **218.5** (own **166.9**+int **51.6**); desaffect admin **56.2** vs art32 max **46.2** (IB was **27.8**)
+  - **Wedden OND:** end **93.6** (−29.7/−24.1%); **Andere** end **267**
+  - ESR rec **791.9** + int **73.2** + part **1.1** + loans **0.6**; vordering impact **+265.8** (ESR exp **526.1**); toelichting **812.9** vs decree **866.8**
+  - Missing desaffect **OS 0.8** + **ESF 25.9**; ruiter VAK transfer **1415.3**; variable fonds **678.9**
+  - Dual WAL. Strong CoA; L5 FOI.
+- Wrote: budgets (+34); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_fonds_deep_l5**; rq_679=done; spawn **rq_680**; loop_state ticks=688
+- FOI opened: gap_vl_ba2026_fonds_deep_l5 — ready (not sent)
+- Next: rq_680; progress@690 in 2 ticks; rq_116 deferred
+

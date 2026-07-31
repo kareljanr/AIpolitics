@@ -13462,3 +13462,37 @@ bud_mantelzorg_daily_rate_unemp_29_27,rva,2026,29.27,,,budgeted,src_ccrek_fed_aj
 bud_mantelzorg_daily_rate_inschakel_24_88,rva,2026,24.88,,,budgeted,src_ccrek_fed_aju2026_return_mantelzorg,strong,Mantelzorg vrijstelling daily rate inschakeling 24.88 EUR from 1Mar2026; unit EUR/day; tick687
 bud_sciensano_carers_1_3m_context,sciensano,2025,1300000,,,estimate,src_ccrek_fed_aju2026_return_mantelzorg,medium,Sciensano HS 2023-24 via CoA: ~1.3m informal carers BE of which ~300k >10h/wk; count not EUR; tick687
 bud_dual_return_mantelzorg_2026,gg_belgium,2026,75000000,,,budgeted,src_dual_return_mantelzorg_tick687,strong,Dual return 75m class + mantelzorg unbudgeted stack; not TE-additive; tick687
+bud_vl_fonds_begin_928_7m_2026,vlaanderen_gov,2026,928700000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Begrotingsfondsen effective begin saldo 928.7m 2026; tick688
+bud_vl_fonds_end_856_5m_2026,vlaanderen_gov,2026,856500000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Begrotingsfondsen end saldo 856.5m after full desaffect 330.4 (middelen text had 902.7 pre full); tick688
+bud_vl_fonds_rec_866_8m_2026,vlaanderen_gov,2026,866800000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Fonds receipts total 866.8m (ESR 791.9 + internal 73.2 + part 1.1 + loans 0.6); tick688
+bud_vl_fonds_esr_rec_791_9m_2026,vlaanderen_gov,2026,791900000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Fonds ESR own receipts 791.9m; tick688
+bud_vl_fonds_exp_608_6m_2026,vlaanderen_gov,2026,608600000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Fonds VEK outlays 608.6m 2026; tick688
+bud_vl_fonds_desaffect_330_4m_2026,vlaanderen_gov,2026,330400000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Total desaffectaties 330.4m to general means; no vorderingensaldo effect; tick688
+bud_vl_fonds_vordering_impact_265_8m,vlaanderen_gov,2026,265800000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Fonds positive impact vorderingensaldo +265.8m (ESR rec791.9 - ESR exp526.1); tick688
+bud_vl_fonds_esr_exp_526_1m_2026,vlaanderen_gov,2026,526100000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Fonds ESR outlays 526.1m (vs budget VEK 608.6); tick688
+bud_vl_vv_fonds_end_180_2m,vlaanderen_gov,2026,180200000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Verkeersveiligheidsfonds end 180.2m flat (rec40 exp37.4 des2.6); tick688
+bud_vl_vv_fonds_rec_40m,vlaanderen_gov,2026,40000000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,VV fonds receipts 40.0m 2026; tick688
+bud_vl_vv_fines_fps_168_3m,vlaanderen_gov,2026,168300000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,FPS Feb traffic fines raming 168.3m (IB 202.8; -34.5); threshold 161.2 so full delta in VV fonds; tick688
+bud_vl_vv_fines_ib_202_8m,vlaanderen_gov,2026,202800000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,IB traffic fines raming 202.8m; tick688
+bud_vl_klimaat_fonds_end_58_5m,vlaanderen_gov,2026,58500000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Klimaatfonds end surplus 58.5m (begin58.1 rec264.5 exp11.3 des252.8); tick688
+bud_vl_klimaat_fonds_rec_264_5m,vlaanderen_gov,2026,264500000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Klimaatfonds receipts 264.5m; tick688
+bud_vl_klimaat_desaffect_252_8m,vlaanderen_gov,2026,252800000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Klimaatfonds desaffect 252.8m 2026; tick688
+bud_vl_klimaat_cum_deficit_54m,vlaanderen_gov,2026,54000000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Klimaat historic engagements cum deficit ~54m eoy2026 (IB56); dual fund surplus 58.5; tick688
+bud_vl_klimaat_to_energie_reg_31_6m,vlaanderen_gov,2026,31600000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Klimaat->Energie toelage +31.6m for REG OSP; tick688
+bud_vl_klimaat_auction_up_11_7m,vlaanderen_gov,2026,11700000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Higher ETS auction receipts +11.7m vs plan; tick688
+bud_vl_icl_carbon_leakage_194m,vlaanderen_gov,2026,194000000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Indirect carbon leakage costs 194.0m 2026 (path -23); tick688
+bud_vl_energie_fonds_end_257_2m,vlaanderen_gov,2026,257200000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Energiefonds end 257.2m (begin290 rec218.5 exp205.1 des46.2; -32.8/-11.3pct); tick688
+bud_vl_energie_rec_218_5m,vlaanderen_gov,2026,218500000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Energiefonds rec 218.5 = own166.9 + internal51.6; tick688
+bud_vl_energie_own_166_9m,vlaanderen_gov,2026,166900000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Energiefonds own ESR 166.9m; tick688
+bud_vl_energie_internal_51_6m,vlaanderen_gov,2026,51600000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Energiefonds internal streams 51.6m (incl Klimaat REG); tick688
+bud_vl_energie_desaffect_art32_46_2m,vlaanderen_gov,2026,46200000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Art32 uitgavendecreet max Energie desaffect 46.2m; tick688
+bud_vl_energie_desaffect_admin_56_2m,vlaanderen_gov,2026,56200000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Admin table Energie desaffect 56.2m (conflict art32 46.2; IB was 27.8 energy interest); tick688
+bud_vl_wedden_fonds_end_93_6m,vlaanderen_gov,2026,93600000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Fonds Wedden/Toelagen Onderwijs end 93.6m (begin123.3 rec147 exp176.7; -29.7/-24.1pct); tick688
+bud_vl_wedden_fonds_rec_147m,vlaanderen_gov,2026,147000000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Wedden recuperatie fonds receipts 147.0m; tick688
+bud_vl_andere_fonds_end_267m,vlaanderen_gov,2026,267000000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Andere fonds end 267.0m (begin277 rec196.9 exp178.1 des28.8); tick688
+bud_vl_desaffect_os_0_8m_missing,vlaanderen_gov,2026,800000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,OS fonds desaffect 0.8m missing from middelendecreet overview; tick688
+bud_vl_desaffect_esf_25_9m_missing,vlaanderen_gov,2026,25900000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,ESF cofinancing fonds desaffect 25.9m missing from overview; tick688
+bud_vl_toelichting_assign_rec_812_9m,vlaanderen_gov,2026,812900000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Algemene toelichting assigned receipts 812.9m ESR class (-91.2 vs IB) vs decree 866.8 recon; tick688
+bud_vl_ruiter_vak_transfer_1415_3m,vlaanderen_gov,2026,1415300000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Ruiter overdracht VAK 2025->2026 1415.3m (of which ESR8 126.9); variable fonds 678.9 not in T8; tick688
+bud_vl_beleidskredieten_vak_67788_9m,vlaanderen_gov,2026,67788900000,,,budgeted,src_ccrek_vl_ba2026_fonds_deep,strong,Consolidated ESR policy VAK BA2026 67788.9m (T8); tick688
+bud_dual_vl_fonds_matrix_856m,gg_belgium,2026,856500000,,,budgeted,src_dual_vl_fonds_deep_tick688,strong,Dual VL fonds end 856.5m matrix class; not TE-additive; tick688

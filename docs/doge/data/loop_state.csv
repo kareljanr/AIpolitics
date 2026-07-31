@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T13:30:00Z,rq_678,687,no,tick687 return 75m untrackable + mantelzorg unbudgeted dual; next rq_679; progress@690 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T13:45:00Z,rq_679,688,no,tick688 VL fonds T9 856.5 Klimaat54 Energie desaffect conflict VV-34.5 dual; next rq_680; progress@690 in 2; rq_116 deferred
