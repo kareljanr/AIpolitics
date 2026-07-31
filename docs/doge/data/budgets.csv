@@ -10418,3 +10418,52 @@ bud_pidpa_energy_primary_kwh_2025,pidpa,2025,81294556,,,outturn,src_pidpa_jv_202
 bud_pidpa_co2_total_t_2025,pidpa,2025,14149,,,outturn,src_pidpa_jv_2025,strong,COUNT total fossil GHG 14149 tCO2e 2025 (+1.02pct YoY; -20.75 vs 2016); tick575
 bud_pidpa_wpc_count_2025,pidpa,2025,11,,,outturn,src_pidpa_jv_2025,strong,COUNT water production centres 11 (new Oud-Turnhout 2025); tick575
 bud_pidpa_sewer_munis_2025,pidpa,2025,48,,,outturn,src_pidpa_jv_2025,strong,COUNT sewer municipalities 48 eoy2025; tick575
+bud_farys_omzet_2025,farys,2025,576928000,,,outturn,src_farys_jv_2025,strong,Omzet 576.928m 2025 (kEUR table JV); +14pct vs 506.3m; tick576
+bud_farys_bedrijfsopbr_2025,farys,2025,631603000,,,outturn,src_farys_jv_2025,strong,Bedrijfsopbrengsten 631.603m 2025; +37.4m YoY mainly drink+zuivering omzet; tick576
+bud_farys_bedrijfskosten_2025,farys,2025,557357000,,,outturn,src_farys_jv_2025,strong,Bedrijfskosten 557.357m 2025; tick576
+bud_farys_ebit_2025,farys,2025,74246000,,,outturn,src_farys_jv_2025,strong,Bedrijfswinst 74.246m 2025 (69.941m 2024 restated JV2025); tick576
+bud_farys_pbt_2025,farys,2025,40654000,,,outturn,src_farys_jv_2025,strong,Winst voor belasting 40.654m 2025; tick576
+bud_farys_net_2025,farys,2025,40276000,,,outturn,src_farys_jv_2025,strong,Te bestemmen winst 40.276m 2025 (38.180m 2024); tick576
+bud_farys_fin_income_2025,farys,2025,12463000,,,outturn,src_farys_jv_2025,strong,Financiele opbrengsten 12.463m 2025 (mostly cap-subsidy take-up); tick576
+bud_farys_fin_cost_2025,farys,2025,46055000,,,outturn,src_farys_jv_2025,strong,Financiele kosten 46.055m 2025 (debt interest banks+MTN); tick576
+bud_farys_personnel_2025,farys,2025,104103000,,,outturn,src_farys_jv_2025,strong,Bezoldigingen sociale lasten pensioenen 104.103m 2025; tick576
+bud_farys_fte_2025,farys,2025,987,,,outturn,src_farys_jv_2025,strong,COUNT FTE eoy 987.2 (959.6 2024); tick576
+bud_farys_assets_2025,farys,2025,3813057000,,,outturn,src_farys_jv_2025,strong,Balanstotaal 3813.057m end-2025; tick576
+bud_farys_equity_2025,farys,2025,2040929000,,,outturn,src_farys_jv_2025,strong,Eigen vermogen 2040.929m end-2025; tick576
+bud_farys_mva_2025,farys,2025,3352859000,,,outturn,src_farys_jv_2025,strong,Materiele vaste activa 3352.859m end-2025 (~88pct assets); tick576
+bud_farys_lt_debt_2025,farys,2025,1433941000,,,outturn,src_farys_jv_2025,strong,Schulden >1jr 1433.941m end-2025 (banks 927.6 + MTN 481.3 + participants 25.1); tick576
+bud_farys_st_debt_2025,farys,2025,295964000,,,outturn,src_farys_jv_2025,strong,Schulden <=1jr 295.964m end-2025 (JV2025 restates 2024 ST 316.8m); tick576
+bud_farys_cap_subsidies_2025,farys,2025,325345000,,,outturn,src_farys_jv_2025,strong,Kapitaalsubsidies 325.345m end-2025 (298.802m 2024 restated); tick576
+bud_farys_invest_mva_2025,farys,2025,217288000,,,outturn,src_farys_jv_2025,strong,Aanschaffingen MVA 217.288m 2025 (vs 190.1m 2024 class); tick576
+bud_farys_new_bank_loans_2025,farys,2025,60000000,,,outturn,src_farys_jv_2025,strong,New bank loans 60m 2025 incl green loan 60m; tick576
+bud_farys_mtn_place_2025,farys,2025,110000000,,,outturn,src_farys_jv_2025,strong,Institutional MTN placement 110m 2025; tick576
+bud_farys_fin_debt_total_2025,farys,2025,1507000000,,,outturn,src_farys_jv_2025,strong,Financial debt vs funders+participants ~1507m eoy2025 (67pct banks 33pct institutional); tick576
+bud_farys_goods_costs_2025,farys,2025,256511000,,,outturn,src_farys_jv_2025,strong,Handelsgoederen grond-hulpstoffen 256.511m 2025; tick576
+bud_farys_services_2025,farys,2025,86965000,,,outturn,src_farys_jv_2025,strong,Diensten diverse goederen 86.965m 2025; tick576
+bud_farys_da_2025,farys,2025,90257000,,,outturn,src_farys_jv_2025,strong,Afschrijvingen/waardeverminderingen IVA/MVA 90.257m 2025; tick576
+bud_farys_drink_volume_in_m3_2025,farys,2025,99900872,,,outturn,src_farys_jv_2025,strong,COUNT m3 water purchased+produced 99.900.872 2025; tick576
+bud_farys_drink_volume_out_m3_2025,farys,2025,97994668,,,outturn,src_farys_jv_2025,strong,COUNT m3 water delivered 97.994.668 2025; tick576
+bud_farys_own_production_m3_2025,farys,2025,6846429,,,outturn,src_farys_jv_2025,strong,COUNT own production 6.846.429 m3 6.85pct (was 17.65pct 2024; Mainvault JV SWDE split); tick576
+bud_farys_drink_customers_2025,farys,2025,722140,,,outturn,src_farys_jv_2025,strong,COUNT drinkwater customers 722140 2025; tick576
+bud_farys_dist_munis_2025,farys,2025,59,,,outturn,src_farys_jv_2025,strong,COUNT distributie deelnemers 59; tick576
+bud_farys_supply_munis_2025,farys,2025,65,,,outturn,src_farys_jv_2025,strong,COUNT toevoer deelnemers 65; tick576
+bud_farys_dist_pipes_km_2025,farys,2025,11861,,,outturn,src_farys_jv_2025,strong,COUNT distributieleidingen 11861 km; tick576
+bud_farys_supply_pipes_km_2025,farys,2025,673,,,outturn,src_farys_jv_2025,strong,COUNT toevoerleidingen 673 km; tick576
+bud_farys_net_invest_supply_2025,farys,2025,29800000,,,outturn,src_farys_jv_2025,strong,Netto-investering toevoer 29.8m after subsidies; tick576
+bud_farys_net_invest_dist_2025,farys,2025,59600000,,,outturn,src_farys_jv_2025,strong,Netto-investering distributie 59.6m after subsidies/participant; tick576
+bud_farys_net_invest_sewer_2025,farys,2025,74100000,,,outturn,src_farys_jv_2025,strong,Netto-investering zuivering 74.1m; bruto 109m; tick576
+bud_farys_gross_invest_sewer_2025,farys,2025,109000000,,,outturn,src_farys_jv_2025,strong,Bruto-investeringen zuivering 109m 2025; tick576
+bud_farys_sewer_customers_2025,farys,2025,632000,,,outturn,src_farys_jv_2025,strong,COUNT zuiveringsklanten ~632000; tick576
+bud_farys_sewer_munis_2025,farys,2025,51,,,outturn,src_farys_jv_2025,strong,COUNT sewer deelnemers 51; tick576
+bud_farys_sewer_km_2025,farys,2025,7963,,,outturn,src_farys_jv_2025,strong,COUNT rioolleiding 7963 km; tick576
+bud_farys_sewer_coverage_pct_2025,farys,2025,9364,,,outturn,src_farys_jv_2025,strong,COUNT rioleringsgraad herwogen 93.64pct x100; tick576
+bud_farys_purchase_waterlink_m3_2025,farys,2025,55498253,,,outturn,src_farys_jv_2025,strong,COUNT aankoop Water-link 55.498.253 m3 55.55pct; tick576
+bud_farys_purchase_vivaqua_m3_2025,farys,2025,23884764,,,outturn,src_farys_jv_2025,strong,COUNT aankoop Vivaqua 23.884.764 m3 23.91pct; tick576
+bud_farys_purchase_mainvault_m3_2025,farys,2025,8610695,,,outturn,src_farys_jv_2025,strong,COUNT aankoop Mainvault JV SWDE 8.610.695 m3 8.62pct; tick576
+bud_farys_purchase_dwg_m3_2025,farys,2025,3424757,,,outturn,src_farys_jv_2025,strong,COUNT aankoop De Watergroep 3.424.757 m3 3.43pct; tick576
+bud_farys_wpc_hofstade_m3_2025,farys,2025,193119,,,outturn,src_farys_jv_2025,strong,COUNT WPC Hofstade DPR production 193119 m3 Jun-Dec2025 (Waterunie); tick576
+bud_farys_avg_bank_rate_pct_2025,farys,2025,240,,,outturn,src_farys_jv_2025,strong,COUNT avg bancaire intrest 2.4pct x100 2025; tick576
+bud_farys_bedrijfsopbr_2024_restate,farys,2024,594159000,,,outturn,src_farys_jv_2025,strong,Bedrijfsopbrengsten 594.159m 2024 restated JV2025 (prior 598.0m tick181); tick576
+bud_farys_ebit_2024_restate,farys,2024,69941000,,,outturn,src_farys_jv_2025,strong,Bedrijfswinst 69.941m 2024 restated JV2025 (prior 73.7m); tick576
+bud_farys_st_debt_2024_restate,farys,2024,316808000,,,outturn,src_farys_jv_2025,strong,ST debt 316.808m 2024 restated JV2025 (prior 370.3m); tick576
+bud_farys_cap_subsidies_2024_restate,farys,2024,298802000,,,outturn,src_farys_jv_2025,strong,Kapitaalsubsidies 298.802m 2024 restated JV2025; tick576

@@ -7011,3 +7011,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +31; cmt +4; lb +7; FOI **gap_pidpa_tariff_l5_2025** ready+draft; update gap_poab_authority; entities; raw PDFs; rq_566=done spawn **rq_567**; ticks=575
 - FOI opened: gap_pidpa_tariff_l5_2025 (ready, human send) - not sent; gap_poab_authority_budget_l5 updated
 - Next: prio5 **rq_567**; deferred **rq_116**; progress@580 in 5 ticks
+
+### 2026-07-31T11:05:00Z - tick 576
+- Unit: **rq_567** (FOI-adjacent hole-fill - **Farys Jaarverslag 2025 dual VL water trio + Waterunie Operator**)
+- Found (strong primary Farys JV2025 PDF maatschappelijke jaarrekening + ops):
+  - **Omzet EUR 576.9m** (506.3m 2024 **+14%**); bedrijfsopbr **631.6m**; bedrijfskosten **557.4m**
+  - **Bedrijfswinst 74.2m**; PBT **40.7m**; **net 40.3m** (38.2m 2024)
+  - **Balance:** assets **3.813bn**; equity **2.041bn** (cap sub **325.3m**); LT debt **1.434bn**; ST **296.0m**; MVA **3.353bn** (~88%)
+  - **Costs:** personnel **104.1m** / FTE **987.2**; goods **256.5m**; services **87.0m**; D&A **90.3m**; fin costs **46.1m**
+  - **Invest MVA 217.3m**; new bank/green **60m** + MTN **110m**; fin debt total **~1.51bn** (banks 67% / institutional 33%); avg bank rate **2.4%**
+  - **Drink ops:** volume in **99.9 Mm3** / delivered **98.0**; own prod **6.85%** (Mainvault JV SWDE split); cust **722k**; dist pipes **11,861 km** + supply **673 km**
+  - Supply mix: Water-link **55.5%** Vivaqua **23.9%** Mainvault **8.6%** DWG **3.4%** own **6.85%**
+  - Net invest: toevoer **29.8m** dist **59.6m** sewer **74.1m** (bruto sewer **109m**)
+  - **Sewer:** **7,963 km** / **51** munis / **632k** cust; rioleringsgraad **93.64%**
+  - **Waterunie Operator** founded **2025-10-06** 50/50 Farys+DWG; WPC Hofstade DPR **193k m3** first partial year
+  - **Dual VL drink trio:** DWG **974m / 125 Mm3 / 3.4m** + Pidpa **403m / 62 / 1.5m** + Farys **577m / 100 / 0.72m** (~1.95bn omzet class not TE-additive)
+- Wrote: sources +3; budgets +49; cmt +3; lb +7; FOI **gap_farys_tariff_l5_2025** ready+draft; entities farys+waterunie_operator; raw PDFs; rq_567=done spawn **rq_568**; ticks=576
+- FOI opened: gap_farys_tariff_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_568**; deferred **rq_116**; progress@580 in 4 ticks

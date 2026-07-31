@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:00:00Z,rq_566,575,no,tick575 POAB factsheet L5 cargo + Pidpa ops dual DWG; next rq_567; progress@580 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:05:00Z,rq_567,576,no,tick576 Farys JV2025 omzet 577m dual VL trio + Waterunie Operator; next rq_568; progress@580 in 4; rq_116 deferred
