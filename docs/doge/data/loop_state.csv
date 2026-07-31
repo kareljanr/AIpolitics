@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T10:00:00Z,rq_664,673,no,tick673 VL WZC 2.74bn CoA gap 36m VIPA shortfall 27m Lantis VAK 2.48bn dual; next rq_665; progress@680 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T10:15:00Z,rq_665,674,no,tick674 fed E1 path -24.5 to -36.2bn interest 17.5 dual E2; next rq_666; progress@680 in 6; rq_116 deferred

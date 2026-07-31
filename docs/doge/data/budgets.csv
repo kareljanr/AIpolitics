@@ -12952,3 +12952,48 @@ bud_waterweg_scheldebrug_path_minus_73m,vlaanderen_gov,2026,-73000000,,,budgeted
 bud_waterweg_vs_gip_plus_21_3m,vlaanderen_gov,2026,21300000,,,budgeted,src_ccrek_vl_ba2026_wvg_lantis,strong,Waterweg 21.3m more invest than GIP line CoA flag; tick673
 bud_dual_wzc_aviq_elderly_2026,gg_belgium,2026,2737700000,,,budgeted,src_dual_vl_wvg_lantis_tick673,strong,Dual VL WZC VEK 2.74bn vs WAL AViQ elderly/MR channel (not sum); tick673
 bud_dual_lantis_oosterweel_vak_2026,gg_belgium,2026,2479400000,,,budgeted,src_dual_vl_wvg_lantis_tick673,strong,Dual Lantis VAK 2.48bn Oosterweel vs WAL DO14/Sofico infra class; not TE-additive; tick673
+bud_fed_e1_deficit_aju_24_5bn_2026,sec_federal,2026,-24500000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Entity I financing deficit aju 24.5bn (-3.7pct GDP) after MR measures (init 24.6); tick674
+bud_fed_e1_deficit_path_36_2bn_2029,sec_federal,2029,-36200000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Entity I deficit path 2029 36.2bn (-5pct GDP); worsen 11.7bn vs 2026 (init path only 6.6); tick674
+bud_fed_e1_primary_deficit_12_2bn_2026,sec_federal,2026,-12200000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,E1 primary deficit 2026 12.2bn path to 18.7 2029; tick674
+bud_fed_e1_primary_deficit_18_7bn_2029,sec_federal,2029,-18700000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,E1 primary deficit 2029 18.7bn (exp +21.2 rec +12.8 2026-29); tick674
+bud_fed_interest_path_17_5bn_2029,sec_federal,2029,17500000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Interest charges path 17.5bn 2029 from 12.3bn 2026 (+5.2); tick674
+bud_fed_exp_share_gdp_2026,sec_federal,2026,32.4,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,E1 exp share GDP 32.4pct 2026 (stable 32.5 2029); tick674
+bud_fed_rec_share_gdp_2026,sec_federal,2026,30.4,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,E1 rec share GDP 30.4pct 2026 path 29.5 2029 (2022 was 30.8); tick674
+bud_fed_rec_share_gdp_2029,sec_federal,2029,29.5,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,E1 rec share GDP 29.5pct 2029 falling fiscal pressure; tick674
+bud_fed_mr_tech_517m_2026,sec_federal,2026,517000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,MR 3Apr technical improve ~517m of +615 total (customs reest + VVPRbis 475 + prison/space defer 187 - reinteg -112); tick674
+bud_fed_mr_policy_98m_2026,sec_federal,2026,98000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,MR 3Apr policy net ~98m (cancel personnel control hit +179; Regie 50; Fedasil -41 cyber -40 energy -20); tick674
+bud_fed_vvprbis_customs_reest_475m,sec_federal,2026,475000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,VVPRbis + EU customs reestimation cluster ~475m technical; tick674
+bud_fed_prison_space_defer_187m,sec_federal,2026,187000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Prison overcrowding + EU space policy spend defer to 2027 187m; tick674
+bud_fed_reinteg_sick_minus_112m,sec_federal,2026,-112000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Long-term sick reintegration receipts -112m vs plan; tick674
+bud_fed_personnel_control_cancel_179m,sec_federal,2026,179000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Cancel negative impact of staff cuts on fiscal/social controls +179m (FOD Finance calc); tick674
+bud_fed_regie_invest_plus_50m,sec_federal,2026,50000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Regie der Gebouwen invest program adjust +50m saldo improve; tick674
+bud_fed_fedasil_path_plus_41m,sec_federal,2026,41000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Refugee reception decision -41m on saldo; tick674
+bud_fed_cyber_plus_40m,sec_federal,2026,40000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Cybersecurity +40m spend; tick674
+bud_fed_energy_support_plus_20m,sec_federal,2026,20000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Energy support measures +20m; tick674
+bud_fed_vat_takeaway_scrap_475m,sec_federal,2026,475000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,VAT rate change takeaway/non-alc/sport scrap cost 475m vs BO plan; tick674
+bud_fed_ecommerce_handling_scrap_210m,sec_federal,2026,210000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,E-commerce handling fee scrap pending EU 210m; tick674
+bud_fed_pension_3rd_read_cost_51_6m_2026,sec_federal,2026,51600000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Pension reform 3rd reading adjustments cost 51.6m 2026 (most from 2027; yield 1.8bn 2029); tick674
+bud_fed_pension_reform_yield_1_8bn_2029,sec_federal,2029,1800000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Pension reform package expected yield 1.8bn 2029; tick674
+bud_fed_spilindex_ss_benefits_minus_360m,sec_ss,2026,-360300000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,FOD SZ: earlier spilindex (Jun vs Nov) impact benefits -360.3m 2026 (3 months centenindex); tick674
+bud_fed_spilindex_ss_contrib_plus_164m,sec_ss,2026,164200000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,FOD SZ: earlier spilindex contrib +164.2m; tick674
+bud_fed_spilindex_ss_net_minus_196m,sec_ss,2026,-196100000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Net SS spilindex impact -196.1m (benefits -360.3 + contrib +164.2); not in aju receipts/exp fully; tick674
+bud_be_saldo_pct_at_2026,gg_belgium,2026,-4.9,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,BE saldo AT toelichting -4.9pct GDP 2026 (MTFSP -4.6; APR -4.9); tick674
+bud_be_saldo_pct_at_2029,gg_belgium,2029,-5.5,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,BE saldo AT path -5.5pct GDP 2029 vs MTFSP -3.0 gap -2.5pp; tick674
+bud_be_saldo_pct_mtfsp_2029,gg_belgium,2029,-3.0,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,MTFSP Mar2025 BE saldo target -3.0pct GDP 2029; tick674
+bud_be_saldo_pct_2025_apr,gg_belgium,2025,-5.2,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,BE saldo 2025 -5.2pct GDP (APR/AT); tick674
+bud_e1_saldo_pct_gdp_2026,sec_federal,2026,-3.7,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Entity I saldo -3.7pct GDP 2026; defence ESR spend 1.6pct GDP (+0.2pp); tick674
+bud_defence_share_gdp_1_6pct_2026,sec_federal,2026,1.6,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Defence ESR-attributable exp 1.6pct GDP 2026; tick674
+bud_be_implicit_rate_2026,gg_belgium,2026,2.41,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Implicit interest rate GG debt 2.41pct 2026 path 2.96 2031; tick674
+bud_be_nominal_gdp_growth_2026,gg_belgium,2026,3.32,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Nominal GDP growth 3.32pct 2026; tick674
+bud_be_snowball_gap_2026,gg_belgium,2026,-0.91,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Snowball differential i-g -0.91pp 2026 path -0.06 2031 (still negative = not triggering); tick674
+bud_be_snowball_gap_2031,gg_belgium,2031,-0.06,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Snowball i-g gap path -0.06pp 2031 nearly zero; tick674
+bud_fed_me_macro_cum_effort_6_7bn,sec_federal,2029,6700000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,BOSA 15Apr: ME macro param worsen may require ~6.7bn cumulative extra effort to end-2029; tick674
+bud_fed_gdp_slow_0_5_impact_1_4bn,sec_federal,2026,1400000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Sensitivity: 0.5pp GDP slow worsens E1 saldo ~1.4bn 2026; tick674
+bud_pens_overleving_cancel_16m,fpd_pensioenen,2026,-16000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Overlevingspensioen->overgangsuitkering not 2026: save cancel -16m (spend stays); tick674
+bud_pens_igo_save_13m_ba,fpd_pensioenen,2026,13000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,IGO control+residence save BA 13m (BO 26m; law not ready; KB path); tick674
+bud_pens_ziektepensioen_save_32m,fpd_pensioenen,2026,32000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Uitdoven ziektepensioen ambtenaren save 32m (BO 26; delay to 1Jun but moratorium); RIZIV +9m offset; tick674
+bud_pens_limited_index_save_53_5m,fpd_pensioenen,2026,53500000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,Limited index high pensions save BA 53.5m (BO 39.9); may understate if Jun spilindex; tick674
+bud_pens_riziv_ziekte_offset_9m,riziv,2026,9000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,RIZIV extra from ziektepensioen reform 9m 2026; tick674
+bud_fpd_mypension_it_plus_5m,fpd_pensioenen,2026,5000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,FPD MyPension+legacy IT +5m; tick674
+bud_dual_e1_e2_saldo_class_2026,gg_belgium,2026,-31911000000,,,budgeted,src_dual_e1_e2_path_tick674,strong,Dual class E1 -24.5bn + VL -3.643 + WAL -2.015 + FWB -1.753 ~ -31.9bn (metrics differ ESR/SEC; not TE-additive); tick674
+bud_dual_be_mtfsp_gap_2_5pp_2029,gg_belgium,2029,-2.5,,,budgeted,src_dual_e1_e2_path_tick674,strong,Dual: AT BE saldo -5.5 vs MTFSP -3.0 = -2.5pp gap 2029; tick674

@@ -7890,3 +7890,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+35); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_vl_ba2026_wvg_lantis_l5; rq_664=done; spawn rq_665; loop_state ticks=673
 - FOI opened: gap_vl_ba2026_wvg_lantis_l5 -- ready (not sent)
 - Next: rq_665; progress@680 in 7 ticks; rq_116 deferred
+
+### 2026-08-01T10:15:00Z -- tick 674
+- Unit: rq_665 (FOI-adjacent dual residual -- **federal CoA BA2026 multi-year E1 path -24.5 to -36.2bn + pension dual E2**)
+- Found (primary CoA 2026_22): **E1 deficit aju EUR24.5bn** (-3.7pct GDP) path **2029 EUR36.2bn** (-5pct); primary **12.2->18.7**; interest **12.3->17.5**; MR **+615** (tech 517 pol 98). Scrapped VAT takeaway **475** e-comm **210**; pension 3rd read **51.6** (yield **1.8bn 2029**). Spilindex SS **-360.3/+164.2** net **-196**. BE saldo AT **-4.9** path **-5.5 2029** vs MTFSP **-3.0**. Snowball i-g **-0.91->-0.06**. ME cum effort **~6.7bn**. Pension L5: overleving cancel **16**; IGO **13** not 26; ziektepens **32**; limited idx **53.5**. Dual E1+E2 class **~32bn**. Strong CoA; L5 FOI.
+- Wrote: entities (+1); budgets (+45); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fed_aju2026_multiyear_pension_l5; rq_665=done; spawn rq_666; loop_state ticks=674
+- FOI opened: gap_fed_aju2026_multiyear_pension_l5 -- ready (not sent)
+- Next: rq_666; progress@680 in 6 ticks; rq_116 deferred
