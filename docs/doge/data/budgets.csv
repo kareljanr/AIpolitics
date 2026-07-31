@@ -16300,3 +16300,52 @@ bud_residence_palace_ops_narrative_2026,residence_palace,2026,2345000,,,budgeted
 bud_cc_egmont_ops_2026,saca_cc_egmont,2026,338754,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops 0.339m + Sablon 15k in table; tick776
 bud_saca_social_ops_2026,saca_activites_sociales,2026,614000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Ops 0.614m 2026; tick776
 bud_saca_social_dot_2026,saca_activites_sociales,2026,29000,,,budgeted,src_kamer_saca_1281_021_2026,strong,Dot 29k 2026; tick776
+bud_fpb_pers_baremes_2026,fpb_planbureau,2026,12453954,,,budgeted,src_kamer_oap_1281_022_2026,strong,11.11 baremes stack 12.454m 2026 (base 11.014 +1.4m CM 12/12/2025 +index -savings); tick777
+bud_fpb_ops_2026,fpb_planbureau,2026,1889389,,,budgeted,src_kamer_oap_1281_022_2026,strong,12.11 ops ~1.889m 2026; tick777
+bud_fpb_dot_oap_2026,fpb_planbureau,2026,14445000,,,budgeted,src_kamer_oap_1281_022_2026,strong,46.10 OAP dot 14.445m 2026 (Econ+SS+index +1.4m CM); supersedes older path 11.858m class; tick777
+bud_fpb_own_sales_2026,fpb_planbureau,2026,500000,,,budgeted,src_kamer_oap_1281_022_2026,strong,Own sales/conventions 0.5m 2026; tick777
+bud_fpb_cm_extra_1_4m_2026,fpb_planbureau,2026,1400000,,,budgeted,src_kamer_oap_1281_022_2026,strong,CM 12/12/2025 notification +1.4m in FPB 2026 package; tick777
+bud_favv_pers_baremes_2026,favv,2026,70568294,,,budgeted,src_kamer_oap_1281_022_2026,strong,11.11 baremes 70.568m 2026 (index +2.855 Brexit -3.067); tick777
+bud_favv_pers_other_2026,favv,2026,16053788,,,budgeted,src_kamer_oap_1281_022_2026,strong,Other remun elements 16.054m 2026; tick777
+bud_favv_social_contrib_2026,favv,2026,44986833,,,budgeted,src_kamer_oap_1281_022_2026,strong,Employer social contrib 44.987m 2026; tick777
+bud_favv_wages_nature_2026,favv,2026,1469905,,,budgeted,src_kamer_oap_1281_022_2026,strong,Wages in kind 1.470m 2026; tick777
+bud_favv_pers_stack_2026,favv,2026,133078820,,,budgeted,src_kamer_oap_1281_022_2026,strong,Pers stack baremes+other+social+nature ~133.079m 2026; tick777
+bud_favv_ops_total_2026,favv,2026,81131988,,,budgeted,src_kamer_oap_1281_022_2026,strong,12.11 ops total 81.132m 2026; tick777
+bud_favv_ops_bmo_vet_2026,favv,2026,45191900,,,budgeted,src_kamer_oap_1281_022_2026,strong,BMO veterinarian third-party 45.192m 2026 (Pax Veterinaria +2.651); tick777
+bud_favv_ops_ict_2026,favv,2026,9552910,,,budgeted,src_kamer_oap_1281_022_2026,strong,ICT 9.553m 2026 (+Smals consultancy reclass 2.601); tick777
+bud_favv_ops_labs_ext_2026,favv,2026,7933316,,,budgeted,src_kamer_oap_1281_022_2026,strong,External labs 7.933m 2026; tick777
+bud_favv_ops_labs_int_2026,favv,2026,2974654,,,budgeted,src_kamer_oap_1281_022_2026,strong,Internal labs 2.975m 2026; tick777
+bud_favv_ops_third_other_2026,favv,2026,3574160,,,budgeted,src_kamer_oap_1281_022_2026,strong,Other third-party 3.574m 2026; tick777
+bud_favv_ops_building_2026,favv,2026,3832286,,,budgeted,src_kamer_oap_1281_022_2026,strong,Building/ops 3.832m 2026; tick777
+bud_favv_invest_2026,favv,2026,2528418,,,budgeted,src_kamer_oap_1281_022_2026,strong,74.22 invest 2.528m 2026; tick777
+bud_favv_retributions_2026,favv,2026,65581917,,,budgeted,src_kamer_oap_1281_022_2026,strong,16.11 retributions 65.582m 2026 (Brexit -6.077 Pax +2.651); tick777
+bud_favv_heffingen_2026,favv,2026,42425170,,,budgeted,src_kamer_oap_1281_022_2026,strong,36.90 heffingen 42.425m 2026; tick777
+bud_favv_dot_oap_confirm_2026,favv,2026,114506196,,,budgeted,src_kamer_oap_1281_022_2026,strong,46.10 OAP dot 114.506m confirms 014 path 114.507kEUR; tick777
+bud_favv_rff_digi_2026,favv,2026,1274365,,,budgeted,src_kamer_oap_1281_022_2026,strong,RRF digi FAVV excl VAT 1.274m 2026 (was 3.2 path); tick777
+bud_favv_spend_class_2026,favv,2026,216739226,,,budgeted,src_kamer_oap_1281_022_2026,strong,Pers 133.079 + ops 81.132 + invest 2.528 = 216.739m spend class 2026; tick777
+bud_afd_pers_2026,debt_agency_be,2026,3832385,,,budgeted,src_kamer_oap_1281_022_2026,strong,11.11 pers total 3.832m 2026; tick777
+bud_afd_ops_2026,debt_agency_be,2026,3638407,,,budgeted,src_kamer_oap_1281_022_2026,strong,12.11 ops 3.638m 2026 (Bloomberg LSEG Euronext class); tick777
+bud_afd_dot_2026,debt_agency_be,2026,7873000,,,budgeted,src_kamer_oap_1281_022_2026,strong,46.10 federal dot 7.873m 2026 (path 7.936/8.207/7.873); tick777
+bud_afd_euronext_listing_2026,debt_agency_be,2026,687000,,,budgeted,src_kamer_oap_1281_022_2026,strong,Euronext listing fees class 0.687m within ops 2026; tick777
+bud_afd_bloomberg_2026,debt_agency_be,2026,476806,,,budgeted,src_kamer_oap_1281_022_2026,strong,Bloomberg terminals 0.477m 2026; tick777
+bud_hermreg_pdf_vl_solde_2026,vlaanderen_gov,2026,-3000000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,HermReg T14 PDF solde -3.0bn 2026 (xlsx -3049m); tick777
+bud_hermreg_pdf_vl_solde_2027,vlaanderen_gov,2027,-900000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,HermReg T14 solde -0.9bn 2027 near balance excl Oosterweel narrative; tick777
+bud_hermreg_pdf_vl_solde_2029,vlaanderen_gov,2029,-2000000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,HermReg T14 solde -2.0bn 2029; tick777
+bud_hermreg_pdf_vl_interest_2026,vlaanderen_gov,2026,1300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T14 interest 1.3bn 2026 path to 2.2bn 2031; tick777
+bud_hermreg_pdf_wal_solde_2026,wallonie_gov,2026,-2100000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T16 solde -2.1bn 2026; tick777
+bud_hermreg_pdf_wal_solde_2027,wallonie_gov,2027,-1500000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T16 solde -1.5bn 2027; tick777
+bud_hermreg_pdf_wal_solde_2029,wallonie_gov,2029,-1600000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T16 solde -1.6bn 2029-31 plateau; tick777
+bud_hermreg_pdf_fwb_solde_2026,fwb_gov,2026,-1800000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T15 solde -1.8bn 2026 (LSF lag + school invest); tick777
+bud_hermreg_pdf_fwb_solde_2029,fwb_gov,2029,-1200000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T15 solde -1.2bn 2029; tick777
+bud_hermreg_pdf_bcr_solde_2026,brussels_gov,2026,-1000000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T17 BCR+COCOM solde -1.0bn 2026; tick777
+bud_hermreg_pdf_bcr_solde_2029,brussels_gov,2029,-800000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T17 solde -0.8bn 2029; tick777
+bud_hermreg_pdf_e2_stack_2026,sec_s1312,2026,-7900000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,Entity II deficit stack 2026 VL3+WAL2.1+FWB1.8+BCR1.0=7.9bn (not TE-additive to GG); tick777
+bud_hermreg_pdf_cr_solde_pct_2026,sec_s1312,2026,-1.2,,,esa_outlook_pct,src_fpb_hermreg_pdf_jul2026_tick777,strong,T13 C&R ensemble solde -1.2pct GDP 2026 path to -0.5 by 2029-31; amount is pct; tick777
+bud_hermreg_pdf_vl_rec_2026,vlaanderen_gov,2026,73200000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T14 rec 73.2bn 2026; tick777
+bud_hermreg_pdf_vl_dep_2026,vlaanderen_gov,2026,76300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T14 dep 76.3bn 2026; tick777
+bud_hermreg_pdf_wal_rec_2026,wallonie_gov,2026,19100000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T16 rec 19.1bn 2026; tick777
+bud_hermreg_pdf_wal_dep_2026,wallonie_gov,2026,21300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T16 dep 21.3bn 2026; tick777
+bud_hermreg_pdf_fwb_rec_2026,fwb_gov,2026,26300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T15 rec 26.3bn 2026; tick777
+bud_hermreg_pdf_fwb_dep_2026,fwb_gov,2026,28100000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T15 dep 28.1bn 2026; tick777
+bud_hermreg_pdf_bcr_rec_2026,brussels_gov,2026,8300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T17 rec 8.3bn 2026; tick777
+bud_hermreg_pdf_bcr_dep_2026,brussels_gov,2026,9300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T17 dep 9.3bn 2026; tick777

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T12:00:00Z,rq_767,776,no,tick776 SACA 021 non-RGA eID/RRN 76.2 consular 47.6 FEDOREST 36 BELNET 22.4; next rq_768 EntityII/Kamer residual; progress@780 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T13:00:00Z,rq_768,777,no,tick777 OAP022 FAVV 216.7 FPB 14.4 AFD 7.9 HermReg E2 7.9bn; next rq_769 flexi-jobs/Fedasil residual; progress@780 in 3; rq_116 deferred

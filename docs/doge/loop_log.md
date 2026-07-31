@@ -9324,3 +9324,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities +10; budgets +53; commitments +8; leaderboard +9; sources +2; FOI **gap_saca_eid_consular_fedorest_l5** prio8 ready; rq_767=done; spawn **rq_768**; ticks=776
 - FOI: ready only — **do not send**
 - Next: rq_768 Entity II / Kamer 011-012-016 residual; progress@780 in 4; rq_116 deferred
+
+## Tick 777 — 2026-08-03T13:00:00Z
+
+- Unit: **rq_768** (FOI-adjacent residual — **Kamer DOC 56 1281/022 OAP non-Regie + HermReg Entity II dual**, 306p OAP + FPB PDF)
+- Found (primary 56K1281022 + HermReg FOR_2631):
+  - **FAVV:** pers stack **€133.079m** · ops **€81.132m** (BMO vet **€45.192m** · ICT **€9.553m** +Smals 2.601 · labs ext **€7.933m**) · invest **€2.528m** → spend class **€216.739m**; retributions **€65.582m** · heffingen **€42.425m** · dot **€114.506m**
+  - **FPB:** pers **€12.454m** · ops **€1.889m** · dot **€14.445m** (+**€1.4m** CM 12/12/2025 vs older path ~11.9m)
+  - **Debt Agency:** pers **€3.832m** · ops **€3.638m** · dot **€7.873m** (Bloomberg/Euronext class)
+  - **HermReg Entity II 2026 soldes:** VL **-€3.0bn** · WAL **-€2.1bn** · FWB **-€1.8bn** · BCR+COCOM **-€1.0bn** → stack **€7.9bn**; C&R ensemble **-1.2% GDP**
+  - VL interest path **€1.3→2.2bn** 2026-31; dual not TE-additive
+- Wrote: budgets +47; commitments +5; leaderboard +8; sources +3; FOI **gap_oap_favv_fpb_afd_l5** prio8 ready; raw OAP+HermReg PDF; rq_768=done; spawn **rq_769**; ticks=777
+- FOI: ready only — **do not send**
+- Next: rq_769 flexi-jobs CoA/FPB or Fedasil OAP residual; progress@780 in 3; rq_116 deferred
