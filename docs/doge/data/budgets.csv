@@ -10503,3 +10503,47 @@ bud_swde_wal_dist_share_pct_2025,swde,2025,6500,,,outturn,src_swde_faits_2025,st
 bud_swde_co2_t_2024_bilan,swde,2025,76274,,,outturn,src_swde_faits_2025,strong,COUNT bilan carbone 76274 tCO2 (2024 bilan cited in RA2025); tick577
 bud_swde_renewable_mwh_2025,swde,2025,20368,,,outturn,src_swde_faits_2025,strong,COUNT production ENR 20368 MWh 2025; tick577
 bud_swde_horizon2030_invest_class,swde,2025,3000000000,,,outturn,src_swde_faits_2025,strong,Horizon 2030 plan industriel ~3bn EUR class SPGE+SWDE+ops (RA cite); residual calendar FOI; tick577
+bud_sibelga_turnover_2025,sibelga,2025,396711061,,,outturn,src_sibelga_rf_2025,strong,Turnover 396.711m 2025 (415.398m 2024 -4.5pct); elec 283.2 gas 113.6; tick578
+bud_sibelga_op_income_2025,sibelga,2025,436220486,,,outturn,src_sibelga_rf_2025,strong,Operating income 436.220m 2025; tick578
+bud_sibelga_op_profit_2025,sibelga,2025,86135523,,,outturn,src_sibelga_rf_2025,strong,Operating profit 86.136m 2025 (74.749m 2024); tick578
+bud_sibelga_net_2025,sibelga,2025,55004211,,,outturn,src_sibelga_rf_2025,strong,Net profit 55.004m 2025 (49.068m 2024); tick578
+bud_sibelga_dividend_2025,sibelga,2025,55061555,,,outturn,src_sibelga_rf_2025,strong,Dividend to municipalities 55.062m 2025 (49.125m 2024); tick578
+bud_sibelga_assets_2025,sibelga,2025,1515105470,,,outturn,src_sibelga_rf_2025,strong,Total assets 1515.105m end-2025; tick578
+bud_sibelga_equity_2025,sibelga,2025,861416055,,,outturn,src_sibelga_rf_2025,strong,Equity 861.416m end-2025; tick578
+bud_sibelga_lt_fin_debt_2025,sibelga,2025,380099187,,,outturn,src_sibelga_rf_2025,strong,LT financial debts 380.099m (bonds 190m + banks 190.1m); tick578
+bud_sibelga_st_payable_2025,sibelga,2025,142426325,,,outturn,src_sibelga_rf_2025,strong,Amounts payable within 1yr 142.426m; tick578
+bud_sibelga_mva_2025,sibelga,2025,1369702261,,,outturn,src_sibelga_rf_2025,strong,Tangible fixed assets 1369.702m end-2025; tick578
+bud_sibelga_rab_total_2025,sibelga,2025,1363892304,,,outturn,src_sibelga_rf_2025,strong,RAB total regulated assets 1363.892m end-2025 (elec 956.1 + gas 407.8); tick578
+bud_sibelga_rab_elec_2025,sibelga,2025,956067731,,,outturn,src_sibelga_rf_2025,strong,RAB electricity 956.068m end-2025; tick578
+bud_sibelga_rab_gas_2025,sibelga,2025,407824573,,,outturn,src_sibelga_rf_2025,strong,RAB gas 407.825m end-2025; tick578
+bud_sibelga_net_invest_2025,sibelga,2025,117228281,,,outturn,src_sibelga_rf_2025,strong,Net investments 117.228m 2025 (elec 104.6 + gas 12.7); matches Essentiel 116m class; tick578
+bud_sibelga_net_invest_elec_2025,sibelga,2025,104576583,,,outturn,src_sibelga_rf_2025,strong,Net invest electricity 104.577m 2025; tick578
+bud_sibelga_net_invest_gas_2025,sibelga,2025,12651699,,,outturn,src_sibelga_rf_2025,strong,Net invest gas 12.652m 2025; tick578
+bud_sibelga_fin_charges_2025,sibelga,2025,13023573,,,outturn,src_sibelga_rf_2025,strong,Financial charges 13.024m 2025; tick578
+bud_sibelga_tax_2025,sibelga,2025,20346758,,,outturn,src_sibelga_rf_2025,strong,Income taxes 20.347m 2025; tick578
+bud_sibelga_gridfee_elec_2025,sibelga,2025,272398955,,,outturn,src_sibelga_rf_2025,strong,Grid fee electricity operating income 272.399m 2025; tick578
+bud_sibelga_gridfee_gas_2025,sibelga,2025,112391241,,,outturn,src_sibelga_rf_2025,strong,Grid fee gas operating income 112.391m 2025; tick578
+bud_sibelga_result_elec_2025,sibelga,2025,41323928,,,outturn,src_sibelga_rf_2025,strong,Activity result electricity 41.324m 2025; tick578
+bud_sibelga_result_gas_2025,sibelga,2025,13680284,,,outturn,src_sibelga_rf_2025,strong,Activity result gas 13.680m 2025; tick578
+bud_sibelga_fair_rem_elec_2025,sibelga,2025,43863108,,,outturn,src_sibelga_rf_2025,strong,Fair remuneration electricity 43.863m (WACC x RAB class); tick578
+bud_sibelga_fair_rem_gas_2025,sibelga,2025,16936754,,,outturn,src_sibelga_rf_2025,strong,Fair remuneration gas 16.937m; tick578
+bud_sibelga_pso_streetlight_2025,sibelga,2025,39418131,,,outturn,src_sibelga_rf_2025,strong,PSO street lighting cost 39.418m 2025; tick578
+bud_sibelga_pso_protected_2025,sibelga,2025,10960426,,,outturn,src_sibelga_rf_2025,strong,PSO protected customers elec+gas ~10.96m (6.86+4.10); tick578
+bud_sibelga_road_fees_2025,sibelga,2025,38473897,,,outturn,src_sibelga_rf_2025,strong,Road usage fees elec+gas ~38.47m (25.53+12.95); tick578
+bud_sibelga_mar_proposal_2025,sibelga,2025,386100000,,,outturn,src_sibelga_rf_2025,strong,MAR total elec+gas tariff proposal 386.1m 2025 (ex ante before revisions); tick578
+bud_sibelga_mar_cc_2025,sibelga,2025,227400000,,,outturn,src_sibelga_rf_2025,strong,MAR controllable costs 227.4m proposal 2025; tick578
+bud_sibelga_mar_ncc_2025,sibelga,2025,129700000,,,outturn,src_sibelga_rf_2025,strong,MAR non-controllable costs 129.7m proposal 2025; tick578
+bud_sibelga_mar_rci_2025,sibelga,2025,59300000,,,outturn,src_sibelga_rf_2025,strong,MAR remuneration invested capital 59.3m proposal 2025; tick578
+bud_sibelga_wacc_pct_x100_2025,sibelga,2025,491,,,outturn,src_sibelga_rf_2025,strong,COUNT WACC 4.91pct x100 fixed 2025-2029; tick578
+bud_sibelga_tariff_balance_eoy_2025,sibelga,2025,115730679,,,outturn,src_sibelga_rf_2025,strong,Tariff balance eoy2025 115.731m (elec 32.4 + gas 83.3); liability to users; tick578
+bud_sibelga_reg_bonus_malus_liab_2025,sibelga,2025,125471374,,,outturn,src_sibelga_rf_2025,strong,Deferred liability regulatory bonus/malus 125.471m; tick578
+bud_sibelga_staff_2025,sibelga,2025,1200,,,outturn,src_sibelga_essentiel_2025,strong,COUNT staff ~1200 Energizers Essentiel; tick578
+bud_sibelga_smart_meters_new_2025,sibelga,2025,72000,,,outturn,src_sibelga_essentiel_2025,strong,COUNT smart meters installed 72000 in 2025 (+58pct YoY); tick578
+bud_sibelga_smart_meters_cum_2025,sibelga,2025,166702,,,outturn,src_sibelga_essentiel_2025,strong,COUNT smart meters cum 166702 (23pct of 724k meters); tick578
+bud_sibelga_ev_chargers_public_2025,sibelga,2025,3850,,,outturn,src_sibelga_essentiel_2025,strong,COUNT public EV charge points ~3850 eoy2025 (+850); tick578
+bud_sibelga_led_share_pct_2025,sibelga,2025,4500,,,outturn,src_sibelga_essentiel_2025,strong,COUNT LED share ~45pct of 90798 public lights x100; tick578
+bud_sibelga_grid_elec_km_2025,sibelga,2025,6540,,,outturn,src_sibelga_essentiel_2025,strong,COUNT electricity network 6540 km; tick578
+bud_sibelga_grid_gas_km_2025,sibelga,2025,2938,,,outturn,src_sibelga_essentiel_2025,strong,COUNT gas network 2938 km; tick578
+bud_sibelga_energy_share_members_2025,sibelga,2025,2790,,,outturn,src_sibelga_essentiel_2025,strong,COUNT energy sharing participants 2790; tick578
+bud_sibelga_elec_plan_2026_30,sibelga,2025,600000000,,,outturn,src_sibelga_rf_2025,strong,Electricity Development Plan invest >600m 2026-2030 class; tick578
+bud_sibelga_gas_plan_2026_30,sibelga,2025,40000000,,,outturn,src_sibelga_rf_2025,strong,Gas network invest just over 40m 2026-2030 class; tick578

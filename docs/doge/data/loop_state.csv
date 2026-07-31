@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:10:00Z,rq_568,577,no,tick577 SWDE Faits2025 CA 631m dual VL drink + Horizon2030; next rq_569; progress@580 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:15:00Z,rq_569,578,no,tick578 Sibelga RF2025 turnover 397m dual Fluvius DSO RAB 1.36bn; next rq_570; progress@580 in 2; rq_116 deferred

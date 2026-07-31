@@ -7045,3 +7045,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +36; cmt +3; lb +7; FOI **gap_swde_rf_l5_2025** ready+draft; entity swde; raw PDF; rq_568=done spawn **rq_569**; ticks=577
 - FOI opened: gap_swde_rf_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_569**; deferred **rq_116**; progress@580 in 3 ticks
+
+### 2026-07-31T11:15:00Z - tick 578
+- Unit: **rq_569** (FOI-adjacent hole-fill - **Sibelga RF2025 dual Fluvius DSO + RAB/MAR**)
+- Found (strong primary Sibelga Annual Accounts 2025 EN + L Essentiel 2025):
+  - **Turnover EUR 396.7m** (415.4m 2024 **-4.5%**); op income **436.2m**; **op profit 86.1m**; **net 55.0m**
+  - **Dividend 55.1m** to 19 BCR municipalities (full appropriation)
+  - **Balance:** assets **1.515bn**; equity **861.4m**; LT fin debt **380.1m** (bonds 190 + banks 190); MVA **1.370bn**
+  - **RAB 1.364bn** (elec **956.1** + gas **407.8**); WACC **4.91%** fixed 2025-29
+  - Fair rem elec **43.9m** + gas **16.9m**; activity result elec **41.3** + gas **13.7**
+  - **Net invest 117.2m** (elec 104.6 + gas 12.7); matches Essentiel **116m** class
+  - MAR proposal **386.1m** (CC 227.4 + NCC 129.7 + RCI 59.3); tariff balance eoy **115.7m**
+  - Grid fee: elec **272.4m** + gas **112.4m**; PSO street lighting **39.4m**
+  - **Ops:** staff **1,200**; smart meters **+72k** cum **166.7k** (23% of 724k); EV public **3,850**; LED **~45%** of 90,798; grids elec **6,540 km** gas **2,938 km**
+  - Plan 2026-30: elec **>600m** + gas **~40m**; dual Fluvius EG **4.60bn** rev / CAPEX **1.78bn** + Elia TSO layer
+- Wrote: sources +3; budgets +44; cmt +3; lb +7; FOI **gap_sibelga_mar_l5_2025** ready+draft; entity; raw PDFs; rq_569=done spawn **rq_570**; ticks=578
+- FOI opened: gap_sibelga_mar_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_570**; deferred **rq_116**; progress@580 in 2 ticks
