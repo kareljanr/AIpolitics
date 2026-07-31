@@ -7933,3 +7933,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+50); commitments (+6); leaderboard (+6); sources (+2); entity rsz_globaal_beheer; FOI draft **gap_fed_aju2026_ss_receipts_l5**; rq_668=done; spawn **rq_669**; loop_state ticks=677
 - FOI opened: gap_fed_aju2026_ss_receipts_l5 — ready (not sent)
 - Next: rq_669; progress@680 in 3 ticks; rq_116 deferred
+
+### 2026-08-01T11:15:00Z — tick 678
+- Unit: **rq_669** (FOI-adjacent dual residual — **VL BA2026 begrotingsfondsen Table9–10 dual WAL**)
+- Found (primary CoA 2026_28 §2.2.3 + §7.1):
+  - **Fonds total:** begin **EUR928.7m** → end **856.5** (−72.2); rec **866.8** exp **−608.6** desaffect **−330.4**; ESA impact **+265.8** (ESR rec 791.9 / exp 526.1)
+  - **Verkeersveiligheid** end **180.2** (rec 40 / exp −37.4 / des −2.6); fines est **168.3** (was 202.8; threshold 161.2)
+  - **Klimaat** end surplus **58.5** but **cum deficit ~54**; rec **264.5** des **−252.8**; →Energie **+31.6** REG; ICL **194** (−23); auction **+11.7**
+  - **Energie** end **257.2** (rec 218.5 = own 166.9 + int 51.6; exp −205.1); desaffect **art32 46.2 vs admin 56.2** (IB 27.8) conflict
+  - **Wedden onderwijs** end **93.6** (rec 147 / exp −176.7); Andere end **267**
+  - Missing desaffect ODA **0.8** + ESF **25.9**; buffer provisie **+58.5** no specialty; index under **48.3+7.0**
+  - Dual WAL fonds stocks. Strong CoA; L5 FOI.
+- Wrote: budgets (+50); commitments (+6); leaderboard (+6); sources (+2); entities (+3); FOI draft **gap_vl_ba2026_begrotingsfondsen_l5**; rq_669=done; spawn **rq_670**; loop_state ticks=678
+- FOI opened: gap_vl_ba2026_begrotingsfondsen_l5 — ready (not sent)
+- Next: rq_670; progress@680 in 2 ticks; rq_116 deferred

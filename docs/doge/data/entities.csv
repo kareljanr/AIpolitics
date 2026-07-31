@@ -524,3 +524,6 @@ fpd_pensioenen,Federale Pensioendienst FPD,Service federal des Pensions,Federal 
 
 be_nuc,Be-NUC,Be-NUC,Be-NUC nuclear JV State+Engie 50/50,parastatal,sec_federal,bi,,,Phoenix LTO Doel4/Tihange3 JV; CoA ch4 tick676
 rsz_globaal_beheer,RSZ-Globaal Beheer,ONSS-Gestion globale,NSSO Global Management employees,agency,rsz,bi,,,CoA SS receipts dots+alt finance perimeter; tick677
+vl_begrotingsfondsen,Vlaamse begrotingsfondsen,Fonds budgetaires flamands,Flanders budget funds perimeter,agency,vlaanderen_gov,nl,,,CoA BA2026 T9 end 856.5m; tick678
+vl_verkeersveiligheidsfonds,Verkeersveiligheidsfonds,Fonds securite routiere VL,Flanders road safety budget fund,agency,vlaanderen_gov,nl,,,CoA BA2026 end 180.2m fines threshold 161.2; tick678
+vl_weddenrecuperatiefonds,Fonds Wedden en Toelagen Onderwijs,Fonds salaires enseignement,Flanders education wage recovery fund,agency,vlaanderen_gov,nl,,,CoA BA2026 end 93.6m rec 147; tick678

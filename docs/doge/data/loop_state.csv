@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T11:00:00Z,rq_668,677,no,tick677 SS rec 148.0bn alt 27.6bn dots 8.66bn evenwicht settle 547m dual; next rq_669; progress@680 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T11:15:00Z,rq_669,678,no,tick678 VL fonds 856.5m Klimaat deficit 54 Energie desaffect 46/56 dual; next rq_670; progress@680 in 2; rq_116 deferred
