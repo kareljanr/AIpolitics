@@ -10364,3 +10364,26 @@ bud_aquafin_pumps_count,aquafin,2025,2122,,,outturn,src_aquafin_jv_2025,strong,C
 bud_aquafin_pipes_km,aquafin,2025,7562,,,outturn,src_aquafin_jv_2025,strong,COUNT leidingen km 7562; tick573
 bud_aquafin_compliance_pct,aquafin,2025,99.4,,,outturn,src_aquafin_jv_2025,strong,PCT installaties compliant all norms 99.4; tick573
 bud_dual_aquafin_vs_spge_ca,aquafin,2025,636870000,,,outturn,src_dual_water_sanitation_vl_wal_tick573,strong,EUR dual Aquafin omzet 637m 2025 vs SPGE CA 418m 2024 class; tick573
+bud_dwg_omzet_2025,de_watergroep,2025,974000000,,,outturn,src_dwg_feiten_2025,strong,Omzet 974m 2025 (838m 2024 +16pct class); tick574
+bud_dwg_omzet_2024,de_watergroep,2024,838000000,,,outturn,src_dwg_feiten_2025,strong,Omzet 838m 2024; tick574
+bud_dwg_profit_2025,de_watergroep,2025,24100000,,,outturn,src_dwg_resultaten_2025,strong,Boekhoudkundige winst 24.1m 2025 (drink 11.6 + waste 13); was -6.7m 2024; tick574
+bud_dwg_profit_drink_2025,de_watergroep,2025,11600000,,,outturn,src_dwg_resultaten_2025,strong,Drinkwater result share 11.6m of 24.1m; tick574
+bud_dwg_profit_waste_2025,de_watergroep,2025,13000000,,,outturn,src_dwg_resultaten_2025,strong,Afvalwater result share 13m of 24.1m; tick574
+bud_dwg_production_2025,de_watergroep,2025,125400000,,,outturn,src_dwg_feiten_2025,strong,COUNT production m3 125.4m 2025 (123.9m 2024); tick574
+bud_dwg_customers_2025,de_watergroep,2025,3398870,,,outturn,src_dwg_feiten_2025,strong,COUNT customers 3398870 2025; tick574
+bud_dwg_connections_2025,de_watergroep,2025,1552455,,,outturn,src_dwg_resultaten_2025,strong,COUNT drinkwateraftakkingen 1552455; tick574
+bud_dwg_pipes_km_2025,de_watergroep,2025,34926,,,outturn,src_dwg_feiten_2025,strong,COUNT pipe km 34926; tick574
+bud_dwg_municipalities_2025,de_watergroep,2025,167,,,outturn,src_dwg_feiten_2025,strong,COUNT aangesloten gemeenten 167 (pre-fusion class); tick574
+bud_dwg_staff_2025,de_watergroep,2025,1636,,,outturn,src_dwg_feiten_2025,strong,COUNT personnel 1636 2025 (1651 2024); tick574
+bud_dwg_dist_invest_2025,de_watergroep,2025,162000000,,,outturn,src_dwg_resultaten_2025,strong,Distributie toevoerleidingen invest 162m 2025 (141m 2024) EIB loan; tick574
+bud_dwg_dist_invest_2024,de_watergroep,2024,141000000,,,outturn,src_dwg_resultaten_2025,strong,Dist invest 141m 2024; tick574
+bud_dwg_gavers_invest_2025,de_watergroep,2025,10500000,,,outturn,src_dwg_resultaten_2025,strong,WPC De Gavers Harelbeke invest 10.5m 2025 capacity 32k to 55k m3/d; tick574
+bud_dwg_digital_meters_2025,de_watergroep,2025,78012,,,outturn,src_dwg_resultaten_2025,strong,COUNT digital meters installed 2025 78012; cumulative 313169; tick574
+bud_dwg_digital_meters_cum,de_watergroep,2025,313169,,,outturn,src_dwg_resultaten_2025,strong,COUNT cumulative digital meters 313169; goal all by 2030; tick574
+bud_dwg_network_renew_pct,de_watergroep,2025,1.25,,,outturn,src_dwg_resultaten_2025,strong,PCT network renewed 1.25 in 2025; tick574
+bud_dwg_quality_pct,de_watergroep,2025,99.8,,,outturn,src_dwg_resultaten_2025,strong,PCT parameters compliant 99.8; 420k tests 46101 samples; tick574
+bud_dwg_hh_use_m3,de_watergroep,2025,65.38,,,outturn,src_dwg_resultaten_2025,strong,Avg household use m3/connection/yr 65.38 (64.37 2024); tick574
+bud_poab_throughput_2025,port_antwerp_bruges,2025,266500000,,,outturn,src_poab_jaarcijfers_2025,strong,COUNT maritime throughput tonnes 266.5m 2025 (-4.1pct); bulk -12.8 general +0.7; tick574
+bud_poab_us_trade_2025,port_antwerp_bruges,2025,31300000,,,outturn,src_poab_jaarcijfers_2025,strong,COUNT US trade partner tonnes 31.3m largest 2025; tick574
+bud_poab_strike_loss_2025,port_antwerp_bruges,2025,2400000,,,outturn,src_poab_jaarcijfers_2025,strong,COUNT strike loss ~2.4 Mt ~1pct annual (~25 strike days); tick574
+bud_dual_dwg_vs_aquafin_omzet,de_watergroep,2025,974000000,,,outturn,src_dual_water_dwg_aquafin_tick574,strong,EUR dual DWG drink+waste omzet 974m vs Aquafin sanitation 637m 2025; tick574

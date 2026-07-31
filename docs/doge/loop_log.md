@@ -6981,3 +6981,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +22; cmt +2; lb +6; FOI **gap_aquafin_tariff_l5_2025** ready+draft; raw PDF; entity; rq_564=done spawn **rq_565**; ticks=573
 - FOI opened: gap_aquafin_tariff_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_565**; deferred **rq_116**; progress@580 in 7 ticks
+
+### 2026-07-31T10:55:00Z - tick 574
+- Unit: **rq_565** (FOI-adjacent hole-fill - **De Watergroep 2025 dual Aquafin + POAB throughput**)
+- Found (strong primary DWG feiten+jaarresultaten 2025 + POAB press):
+  - **DWG omzet EUR 974m** (838m 2024); **profit 24.1m** (drink **11.6** + waste **13**; was **-6.7m**)
+  - Ops: production **125.4 Mm3**; customers **3.399m**; pipes **34,926 km**; staff **1,636**; municipalities **167**
+  - Invest: distribution **162m** (141m 2024); De Gavers **10.5m**; network renew **1.25%**
+  - Digital meters **78,012** in 2025 (cum **313,169**); quality **99.8%**
+  - **Dual VL water:** DWG drink **974m** vs Aquafin sanitation **637m** (Riopact joint)
+  - **POAB:** throughput **266.5 Mt** (-4.1%); US **31.3 Mt** largest partner; strike loss **~2.4 Mt**
+- Wrote: sources +4; budgets +23; cmt +3; lb +6; FOI **gap_dwg_accounts_l5_2025** + **gap_poab_authority_budget_l5** ready+drafts; entities; rq_565=done spawn **rq_566**; ticks=574
+- FOI opened: gap_dwg_accounts_l5_2025 + gap_poab_authority_budget_l5 (ready, human send) - not sent
+- Next: prio5 **rq_566**; deferred **rq_116**; progress@580 in 6 ticks
