@@ -7836,3 +7836,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+cwape ceseffb iweps); budgets (+75); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_annex_prog_l5; rq_658=done; spawn rq_659; loop_state ticks=667
 - FOI opened: gap_wal_aju2026_annex_prog_l5 -- ready (not sent)
 - Next: rq_659; progress@670 in 3 ticks; rq_116 deferred
+
+### 2026-08-01T08:45:00Z -- tick 668
+- Unit: rq_659 (FOI-adjacent dual residual -- **FWB aju2026 full DO matrix 16.50bn + debt Moody A3 + economies dual WAL**)
+- Found (primary CoA 2026_33): **Total** CE **EUR16.410bn** / CL **EUR16.504bn** path **+193.7/+184.6**; exec Jun **EUR8.572bn** (52pct). Matrix: **DO52 sec EUR3.648bn** / **DO51 fond EUR2.958bn** / **DO54 uni EUR1.166bn** / **DO85 dette EUR1.313bn** / **DO55 EUR756m** / **DO19 enfance EUR775m** / **DO90 RW+COCOF EUR581m** / **DO25 AV EUR458m** / **DO17 AJ EUR474m** / **DO20 cult CL EUR325m** / **DO23 jeun EUR182m** / **cabinets EUR16.788m** (dual WAL **28.043m**). **Debt:** eoy2025 **EUR14.421bn** path eoy2026 **EUR16.200bn** / 2029 **EUR20.625bn**; financing **EUR2.182bn**; interest **EUR356.5m** path **EUR561m** 2029; ratio debt/rec **98.4%->140%**; **Moody A3** Apr2026 (from A2). **Economies** 2026 **EUR253.6m** (enfance **118** oblig **87.5**). **CRP netting >EUR493.8m**; index **+EUR158.8m**; pupils **-3503** but **+151 ETP**. Dual WAL SEC **-2.015** + FWB **-1.753** = **-3.768bn**. Strong CoA; L5 FOI.
+- Wrote: entities (+fwb_cabinets); budgets (+75); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fwb_aju2026_do_debt_l5; rq_659=done; spawn rq_660; loop_state ticks=668
+- FOI opened: gap_fwb_aju2026_do_debt_l5 -- ready (not sent)
+- Next: rq_660; progress@670 in 2 ticks; rq_116 deferred

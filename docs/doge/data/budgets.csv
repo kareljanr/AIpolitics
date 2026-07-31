@@ -12682,3 +12682,80 @@ bud_financing_raised_may2026,wallonie_gov,2026,3415000000,,,outturn,src_ccrek_wa
 bud_interest_re_code21_aju_2026,wallonie_gov,2026,729100000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Interest code21 RE aju 729.1 path +44.8 vs init 684.3; total charge 753.7; tick667
 bud_interest_swaps_aju_2026,wallonie_gov,2026,11900000,,,budgeted,src_ccrek_wal_aju2026_annex_prog,strong,Swaps aju 11.9m path -2.6; tick667
 bud_dette_indirecte_eoy2025,wallonie_gov,2025,10859000000,,,outturn,src_ccrek_wal_aju2026_annex_prog,strong,Dette indirecte ICN Apr2026 eoy2025 10859.0m; brute path eoy2026 43833; tick667
+bud_fwb_do_total_ce_aju_2026,fwb_gov,2026,16409539000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Total CE aju 16409.539m path +193.698 (+1.2pct) vs init 16215.841; tick668
+bud_fwb_do_total_cl_aju_2026,fwb_gov,2026,16504162000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Total CL aju 16504.162m path +184.554 (+1.1pct) vs init 16319.608; exec 29Jun 8572.210 (52pct); tick668
+bud_fwb_do_total_ce_init_2026,fwb_gov,2026,16215841000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Total CE init 16215.841m; tick668
+bud_fwb_do_total_cl_init_2026,fwb_gov,2026,16319608000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Total CL init 16319.608m; tick668
+bud_fwb_credits_lim_ce_aju_2026,fwb_gov,2026,7878700000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Credits limitatifs CE aju 7878.7m path -42.8; tick668
+bud_fwb_credits_nonlim_ce_aju_2026,fwb_gov,2026,8485100000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Credits non limitatifs CE=CL aju 8485.1m path +235.2 (mainly enseignement); tick668
+bud_fwb_fonds_budg_ce_aju_2026,fwb_gov,2026,45800000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Fonds budgetaires CE=CL aju 45.8m path +1.4; tick668
+bud_fwb_exec_cl_jun2026,fwb_gov,2026,8572209698,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,CL execution 29Jun2026 8572.210m ~52pct of aju CL; tick668
+bud_fwb_do01_parlement_aju_2026,fwb_gov,2026,37561000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO01 Parlement+Mediateur CE=CL aju 37.561m path +0.024 exec 20.601 (55pct); dual WAL DO01 88.9; tick668
+bud_fwb_cabinets_aju_2026,fwb_cabinets,2026,16788000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO06 cabinets CE=CL aju 16.788m path -0.084 exec 5.681 (34pct); dual WAL 28.043m; tick668
+bud_fwb_do11_sg_ce_aju_2026,fwb_gov,2026,879834000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO11 Affaires gen SG CE aju 879.834 CL 862.328 path -23.245/-22.110; tick668
+bud_fwb_do11_sg_cl_aju_2026,fwb_gov,2026,862328000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO11 SG CL aju 862.328m; tick668
+bud_fwb_do12_it_aju_2026,fwb_gov,2026,129469000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO12 Informatique CE=CL aju 129.469m path -4.668 exec 96.872 (75pct); dual Digitaal; tick668
+bud_fwb_do13_immeubles_aju_2026,fwb_gov,2026,59420000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO13 Gestion immeubles CE=CL aju 59.420m path -0.027 exec near 0; tick668
+bud_fwb_do14_ri_fonds_aju_2026,fwb_gov,2026,50515000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO14 Relations int + Fonds EU CE aju 50.515 CL 50.516; tick668
+bud_fwb_do15_infra_sante_aju_2026,fwb_gov,2026,81069000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO15 Infra sante/sociale/culture/sport CE aju 81.069 CL 81.506; tick668
+bud_fwb_do17_aj_ce_aju_2026,fwb_gov,2026,474404000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO17 Aide a la Jeunesse CE aju 474.404 CL 474.143 path +3.873/+3.526; dual VL jeugdhulp; tick668
+bud_fwb_do18_mdj_ce_aju_2026,fwb_gov,2026,28708000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO18 Maisons de Justice CE aju 28.708 CL 30.356 path +0.346/+0.232; tick668
+bud_fwb_do19_enfance_ce_aju_2026,fwb_gov,2026,774994000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO19 Enfance CE=CL aju 774.994m path +14.017 exec 518.655 (67pct); dual ONE/KO; tick668
+bud_fwb_do20_culture_ce_aju_2026,fwb_gov,2026,227942000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO20 Culture (hors EP/jeun/AV) CE aju 227.942 CL 324.618 path -39.271/-42.850; tick668
+bud_fwb_do20_culture_cl_aju_2026,fwb_gov,2026,324618000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO20 Culture CL aju 324.618m; tick668
+bud_fwb_do23_jeunesse_ce_aju_2026,fwb_gov,2026,168350000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO23 Jeunesse+EP CE aju 168.350 CL 181.570 path +69.957/+69.829 exec 169.344 (93pct); tick668
+bud_fwb_do23_jeunesse_cl_aju_2026,fwb_gov,2026,181570000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO23 Jeunesse+EP CL aju 181.570m; tick668
+bud_fwb_do25_audiovisuel_ce_aju_2026,rtbf,2026,457266000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO25 Audiovisuel Multimedia CE aju 457.266 CL 458.497 path +6.770/+6.636 (RTBF channel dual VRT); tick668
+bud_fwb_do25_audiovisuel_cl_aju_2026,rtbf,2026,458497000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO25 AV CL aju 458.497m; tick668
+bud_fwb_do26_sport_aju_2026,fwb_gov,2026,51647000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO26 Sport CE aju 51.647 CL 53.330 path +3.331/+3.349; tick668
+bud_fwb_do40_services_communs_aju_2026,fwb_gov,2026,162858000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO40 services communs CE aju 162.858 CL 162.920 path -3.803/-4.868; tick668
+bud_fwb_do41_pilotage_ens_aju_2026,fwb_gov,2026,103447000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO41 Pilotage enseignement CE aju 103.447 CL 102.287 path +8.536/+7.254; tick668
+bud_fwb_do42_dot_wallonie_aju_2026,fwb_gov,2026,39858000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO42 Dotation a Wallonie CE=CL aju 39.858m path +0.122; dual transfer; tick668
+bud_fwb_do44_batiments_scol_aju_2026,fwb_gov,2026,225864000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO44 Batiments scolaires CE aju 225.864 CL 227.144 path +1.090/+0.570 exec 6pct; tick668
+bud_fwb_do45_recherche_ce_aju_2026,fwb_gov,2026,265750000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO45 Recherche scientifique CE aju 265.750 CL 262.637 path +3.003/-0.119; dual FWO; tick668
+bud_fwb_do47_alloc_etudes_aju_2026,fwb_gov,2026,105590000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO47 Allocations d etudes CE=CL aju 105.590m path +7.229; tick668
+bud_fwb_do48_pms_aju_2026,fwb_gov,2026,144217000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO48 Centres PMS CE=CL aju 144.217m path +2.718; tick668
+bud_fwb_do51_fondamental_aju_2026,fwb_gov,2026,2957618000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO51 prescolaire+primaire CE=CL aju 2957.618m path +39.160; tick668
+bud_fwb_do52_secondaire_ce_aju_2026,fwb_gov,2026,3648284000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO52 secondaire CE aju 3648.284 CL 3648.478 path +69.902; tick668
+bud_fwb_do52_secondaire_cl_aju_2026,fwb_gov,2026,3648478000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO52 secondaire CL aju 3648.478m; tick668
+bud_fwb_do53_specialise_aju_2026,fwb_gov,2026,942276000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO53 specialise CE=CL aju 942.276m path +1.737; poles territoriaux -4.2m hyp; tick668
+bud_fwb_do54_universite_aju_2026,fwb_gov,2026,1166169000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO54 universitaire CE=CL aju 1166.169m path +11.506; dual VL unis; tick668
+bud_fwb_do55_sup_hors_uni_aju_2026,fwb_gov,2026,756042000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO55 sup hors uni/HE CE=CL aju 756.042m path +1.612; tick668
+bud_fwb_do56_promo_soc_aju_2026,fwb_gov,2026,271391000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO56 promotion sociale CE=CL aju 271.391m path +3.844; tick668
+bud_fwb_do57_artistique_aju_2026,fwb_gov,2026,265039000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO57 enseignement artistique CE=CL aju 265.039m path +3.438; tick668
+bud_fwb_do58_distance_aju_2026,fwb_gov,2026,2372000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO58 enseignement a distance CE=CL aju 2.372m flat; tick668
+bud_fwb_do85_dette_directe_aju_2026,fwb_gov,2026,1312974000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO85 dette directe CE=CL aju 1312.974m path +7.500; tick668
+bud_fwb_do90_dot_rw_cocof_aju_2026,fwb_gov,2026,580939000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO90 Dotations RW+COCOF CE=CL aju 580.939m path +5.623 (Ste-Emilie channel dual); tick668
+bud_fwb_pupils_jan2026,fwb_gov,2026,868731,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,Population scolaire obligatoire 15Jan2026 868731 vs 2025 872234 (-3503); charges still up +151 ETP; tick668
+bud_fwb_pupils_jan2025,fwb_gov,2025,872234,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,Population scolaire 15Jan2025 872234; tick668
+bud_fwb_etp_plus_151_2026,fwb_gov,2026,151,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Creation 151 ETP pedagogiques malgre baisse eleves; tick668
+bud_fwb_poles_territoriaux_minus_4_2m,fwb_gov,2026,-4200000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,DO53 poles territoriaux path -4.2m (nouvelle hypothese calcul CoA flags weak); tick668
+bud_fwb_index_path_158_8m_ce,fwb_gov,2026,158800000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Indexation traitements+fonctionnement path +158.8m CE / +158.6m CL conclave; tick668
+bud_fwb_crp_netting_493_8m,fwb_gov,2026,493800000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,CRP+transition pension netted vs IPP dot understate rec+dep >493.8m (no net impact); universality breach; tick668
+bud_fwb_debt_direct_eoy2018,fwb_gov,2018,6911000000,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,Dette directe eoy2018 6911.0m; tick668
+bud_fwb_debt_direct_eoy2025,fwb_gov,2025,14421300000,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,Dette directe eoy2025 14421.3m (+108.7pct vs 2018); tick668
+bud_fwb_debt_path_eoy2026,fwb_gov,2026,16200300000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Dette directe path eoy2026 16200.3m (+1779 need; +285.6 vs init path); tick668
+bud_fwb_debt_path_eoy2029,fwb_gov,2029,20624800000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Dette directe path eoy2029 20624.8m (+61.4pct vs eoy2024); tick668
+bud_fwb_debt_brute_consol_eoy2024,fwb_gov,2024,14240600000,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,Dette brute consol eoy2024 ICN 14240.6m (+6134.7 vs 2018 +75.7pct); tick668
+bud_fwb_financing_need_aju_2026,fwb_gov,2026,2181700000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Financing need total aju 2181.7m (init 2081.9; 2025 aju 1825.8); tick668
+bud_fwb_financing_need_hors_amort_2026,fwb_gov,2026,1779000000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Financing need hors amort 1779.0m; tick668
+bud_fwb_interest_charges_aju_2026,fwb_gov,2026,343500000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Interest charges aju 343.5m (init 340.0; exec2025 285.2); tick668
+bud_fwb_swaps_aju_2026,fwb_gov,2026,13000000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Swaps aju 13.0m (init 17.0; 2025 9.2); tick668
+bud_fwb_interest_total_aju_2026,fwb_gov,2026,356500000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Interest total aju 356.5m (init 357.0 nearly flat); taux implicite 2.2pct; tick668
+bud_fwb_interest_path_2029,fwb_gov,2029,560600000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Interest path ~560.6m 2029 (3.8pct recettes) from 255.4 2024 (2.0pct); tick668
+bud_fwb_debt_rec_ratio_2024,fwb_gov,2024,98.4,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,Debt/recettes ratio 98.4pct 2024; tick668
+bud_fwb_debt_rec_ratio_path_2029,fwb_gov,2029,140.0,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Debt/recettes path 140.0pct 2029; tick668
+bud_fwb_refi_plus_new_2025_29,fwb_gov,2029,10115500000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Refi+new financing 2025-29 10115.5m (refi 2458.9 + new 7656.7); snowball risk; tick668
+bud_fwb_new_loan_rate_2025,fwb_gov,2025,3.6,,,outturn,src_ccrek_fwb_aju2026_do_debt,strong,New loan rate 2025 3.6pct vs 1.6pct 2021; fixed share 92.2pct 2025 (94.5 2024); tick668
+bud_fwb_econ_oblig_esa_2026,fwb_gov,2026,87500000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Economies enseignement obligatoire+ESAHR+adultes SEC 87.5m 2026 (path 300.1 2029); tick668
+bud_fwb_econ_path_2029_total,fwb_gov,2029,733000000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Economies SEC path total 733.0m 2029 (2026 253.6 already seeded); tick668
+bud_fwb_consol_inst_aju_2026,fwb_gov,2026,-49700000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Solde institutions consol aju -49.7m path +83.5 vs init -133.2; tick668
+bud_fwb_saca_sec_aju_2026,fwb_gov,2026,35400000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,SACA SEC aju +35.4m path +76.8 vs init -41.4; tick668
+bud_fwb_type2_sec_aju_2026,fwb_gov,2026,62700000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,OAP type2 SEC aju +62.7m path -5.1; tick668
+bud_fwb_type3_sec_aju_2026,fwb_gov,2026,-33700000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,OAP type3 SEC aju -33.7m path -2.3; tick668
+bud_fwb_ens_sup_sec_aju_2026,fwb_gov,2026,-108000000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Etablissements ens superieur SEC aju -108.0m path +14.1; tick668
+bud_fwb_solde_net_consol_aju_2026,fwb_gov,2026,-1966800000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Solde net consol aju -1966.8m path -29.3; tick668
+bud_fwb_emprunts_prod_aju_2026,fwb_gov,2026,2690300000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Produits d emprunts aju 2690.3m path +111.0; tick668
+bud_fwb_amort_dette_aju_2026,fwb_gov,2026,912700000,,,budgeted,src_ccrek_fwb_aju2026_do_debt,strong,Amortissements dette aju 912.7m flat; tick668
+bud_dual_fwb_wal_sec_aju_2026,gg_belgium,2026,-3768200000,,,budgeted,src_dual_fwb_wal_aju2026_tick668,strong,Dual Entity II SEC aju FWB -1752.8 + WAL -2015.4 = -3768.2m (not TE-additive); tick668
+bud_dual_cabinets_fwb_wal_2026,gg_belgium,2026,44831000,,,budgeted,src_dual_fwb_wal_aju2026_tick668,strong,Dual cabinets FWB 16.788 + WAL 28.043 = 44.831m (not full BE cabinets); tick668

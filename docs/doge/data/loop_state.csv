@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T08:30:00Z,rq_658,667,no,tick667 annex prog L5 cabinets PRW/FRR 1.73bn DO17 sante 7.05bn dual; next rq_659; progress@670 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T08:45:00Z,rq_659,668,no,tick668 FWB aju DO matrix 16.5bn Moody A3 debt 16.2bn dual WAL Baa1; next rq_660; progress@670 in 2; rq_116 deferred
