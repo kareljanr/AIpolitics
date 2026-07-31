@@ -6794,3 +6794,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +18; cmt +3; lb +6; FOI **gap_ab_spend_l5** ready+draft; raw PDFs; rq_550=done spawn **rq_551**; ticks=559
 - FOI opened: gap_ab_spend_l5 (ready, human send) - not sent
 - Next: prio5 **rq_551** = **progress@560 mandatory** on next tick; deferred **rq_116**
+
+### 2026-07-31T09:45:00Z - tick 560
+- Unit: **rq_551** (**progress@560** coverage % + waste top10; no new euro invent)
+- Progress layers vs EUR **347.956bn** TE:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (fiscal assignment dual + VL accounts/debt + dual gemengd map)
+  - **D L5:** ~**36-49%** generous (Part II fiscal L5 · VL RR residual Lantis/open-verb/relance/VLAIO · dual Ethias/Viapass/BAC · AMR 281m · not near-complete of 348bn)
+  - **E FOI ready:** ~**301** · answered ~**9** · total FOI rows ~**313**
+- Inventory: budgets ~**10032** · cmt ~**1104** · lb ~**2092** · sources ~**1069** · entities ~**414**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30); stocks Metro3 still top raw prio but annual=0 filtered; high-abs Lantis 2.42bn · VLAIO prescription · AB non-reimb · GO inventory · AMR 281m
+- Gain 550→560: expose fiscal Part II (164/92.5bn) · CoA VL RR residual (debt 50.2 · Lantis 2.42 · open verb 7.37 · relance 342m · VLAIO · dual 66 gemengd) · antibiotics AMR 281m dual non-reimb
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_551=done spawn **rq_552**; ticks=560
+- FOI opened: none this tick
+- Next: prio5 **rq_552**; deferred **rq_116** SWA

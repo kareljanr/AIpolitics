@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 560** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** fiscal assignment dual cash **92.5bn** · VL accounts/debt path · Lantis/TV financing · dual gemengde perimeter · Viapass/Ethias/BAC |
+| **D. L5 named / measure end-lines** | **~36-49%** of TE (generous) | **Gain 550→560 is VL CoA residual + federal fiscal Part II + AMR wave:** expose Tables1-11 fiscal ESA **164bn**/cash third **92.5bn** (BVH/VAT/VenB L5 · measures **+1.58bn** · Table11 beneficiary matrix) · CoA VL RR debt **50.2bn** / Zaventem **2.55** · Lantis under-vastleg **~2.42bn** · open verb **7.37bn** · TV fin **3.85bn** · relance underuse **342m** · PAS **3.65bn** · REPowerEU · VLAIO recovery/print · dual **66** gemengd (Ethias **741m** Viapass **~102-105m**) · GO inventory **1.0bn** · AMR cost **281m** / AB reimb **-8%** dual non-reimb **12%** · FOI still bulk ASBL/firm + cash delivery L5 |
+| **E. FOI-ready gaps** | **~301** drafts ready | Human send only; answered **~9**; total FOI rows **~313** (+ fiscal assignment residual · tax measures outturn · VL AVB · accounts balance · Lantis NEC4 · VLAIO recovery KPI · dual gemengd · AB spend L5 · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem/PMV) · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** is social-cost estimate not budget line · consolidating ESA saldos dual.
+
+### Inventory (tick 560)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~10032 |
+| commitments.csv | ~1104 |
+| leaderboard.csv | ~2092 |
+| entities.csv | ~414 |
+| sources.csv | ~1069 |
+| FOI ready | ~301 |
+| FOI answered | ~9 |
+| FOI total rows | ~313 |
+| research_queue | ~551 (open: rq_116 deferred + rq_552 hole-fill after progress) |
+
+### What improved since tick 550
+
+- **Federal fiscal Part II (tick551–554):** ESA fiscal **€164bn** 2026 L5 (BVH **66.8** VAT **45.1** VenB **26.7**); cash dual third-party+assigned **€92.5bn**; Table4 measures **+€1.58bn**; Table11 beneficiary matrix EU/C&R/SS.
+- **VL CoA rekeningen residual (tick555–556):** financing **-€3.98bn**; Maastricht debt **€50.2bn** (+**8.38**); Zaventem PMV **€2.55bn**; Lantis under-commitment **~€2.42bn** on NEC4; open toelage-verb **€7.37bn**; TV financing cum **€3.85bn**.
+- **Relance + VLAIO + dual gemengd (tick557–558):** relance underuse **€342m** 2025; PAS envelope **€3.65bn**; REPowerEU path; VLAIO impaired **€93.5m** / corona recover **€196.5m** / print eco **€22m**; dual **66** mixed entities Ethias/Viapass/BAC/GO.
+- **AMR antibiotics CoA (tick559):** social cost **€281m**/yr; reimbursed AB **-8%**; non-reimb share **12%** outside RIZIV control dual FAGG.
+
+---
+
 ## Snapshot at **tick 550** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
