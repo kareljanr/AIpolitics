@@ -7512,3 +7512,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update sowaer; budgets (+18); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_sowaer_sec_recon_l5_2025; rq_619=done; spawn rq_620; loop_state ticks=628
 - FOI opened: gap_sowaer_sec_recon_l5_2025 -- ready (not sent)
 - Next: rq_620; progress@630 in 2 ticks; rq_116 deferred
+
+### 2026-07-31T23:00:00Z -- tick 629
+- Unit: rq_620 (FOI-adjacent dual soil hole-fill -- **SPAQuE / Groupe Spaque** CoA Annex3 dual OVAM)
+- Found: **SPAQuE** (primary CoA Annex3 Type3; group=entity identical). **BI2025:** rec **EUR45.760m** / dep **EUR97.260m** / solde **-EUR51.500m**. **BI2024:** rec **EUR37.953m** / dep **EUR62.153m** / solde **-EUR24.200m** (path dep **+EUR35.107m** / solde **-EUR27.300m**). Impact matches annex. Treasury rembours **EUR40.5m**. Missions deleguees impact BA2024 **+EUR2.449m** / BI2025 **-EUR8.325m** (path **-EUR10.774m**): **Sarec Vise** waste + **Happe-Chapois** landfill follow-up. **Nordion** DF097.012 **zero eng** BI2025 despite new convention mid2025-29. Dual **OVAM** ISE Afval class **EUR105.9m**. Prior RA assets **EUR534m**. Strong confidence CoA; site/mission L5 residual FOI.
+- Wrote: entity update spaque; budgets (+11); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_spaque_sec_recon_l5_2025; rq_620=done; spawn rq_621; loop_state ticks=629
+- FOI opened: gap_spaque_sec_recon_l5_2025 -- ready (not sent)
+- Next: rq_621; **progress@630 next tick**; rq_116 deferred

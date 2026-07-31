@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T22:45:00Z,rq_619,628,no,tick628 Sowaer SEC 81m DF046 91m dual BAC; next rq_620; progress@630 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T23:00:00Z,rq_620,629,no,tick629 SPAQuE SEC 97m dual OVAM treasury 40.5m; next rq_621; progress@630 next tick; rq_116 deferred

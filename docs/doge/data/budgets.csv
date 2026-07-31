@@ -11456,3 +11456,14 @@ bud_sowaer_missions_deleguees_ba2024,sowaer,2024,2271000,,,budgeted,src_ccrek_so
 bud_sowaer_treasury_rembours_2025,sowaer,2025,20000000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA treasury rembours excess Sowaer 20m in 2025 recettes path; tick628
 bud_sowaer_ba2024_ajust_path_plus,sowaer,2024,34100000,,,budgeted,src_ccrek_sowaer_sec_bi2025,strong,CoA BA2024 ajust Sowaer SEC improve +34.1m vs BI2024 (baux +13.5 ZAE +7.1 Liege invest slow +15.3 ZAE travaux -4.9); tick628
 bud_dual_sowaer_bac_dep_class_2025,gg_belgium,2025,81366251,,,budgeted,src_dual_sowaer_bac_airports_tick628,strong,Sowaer dep SEC 81.4m dual BAC rev 828m class not additive; tick628
+bud_spaque_rec_sec_bi2025,spaque,2025,45760000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Annex3 SPAQuE recettes SEC BI2025 45.76m; tick629
+bud_spaque_dep_sec_bi2025,spaque,2025,97260000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Annex3 SPAQuE depenses SEC BI2025 97.26m; tick629
+bud_spaque_solde_sec_bi2025,spaque,2025,-51500000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Annex3 SPAQuE solde SEC BI2025 -51.5m; tick629
+bud_spaque_rec_sec_bi2024,spaque,2024,37953000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Annex3 SPAQuE recettes SEC BI2024 37.953m; tick629
+bud_spaque_dep_sec_bi2024,spaque,2024,62153000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Annex3 SPAQuE depenses SEC BI2024 62.153m; tick629
+bud_spaque_solde_sec_bi2024,spaque,2024,-24200000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Annex3 SPAQuE solde SEC BI2024 -24.2m; path solde -27.3m; tick629
+bud_spaque_treasury_rembours_2025,spaque,2025,40500000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA treasury rembours excess Spaque 40.5m drives BI2025 solde impact; tick629
+bud_spaque_missions_impact_ba2024,spaque,2024,2449000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Table10 missions deleguees Spaque impact BA2024 +2.449m; tick629
+bud_spaque_missions_impact_bi2025,spaque,2025,-8325000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA Table10 missions deleguees Spaque impact BI2025 -8.325m path -10.774m; tick629
+bud_spaque_path_dep_plus_bi2025,spaque,2025,35107000,,,budgeted,src_ccrek_spaque_sec_bi2025,strong,CoA path dep +35.107m BI2025 vs BI2024; tick629
+bud_dual_spaque_ovam_dep_class_2025,gg_belgium,2025,97260000,,,budgeted,src_dual_spaque_ovam_sec_tick629,strong,SPAQuE dep SEC 97.3m dual OVAM ISE Afval class 105.9m not additive; tick629
