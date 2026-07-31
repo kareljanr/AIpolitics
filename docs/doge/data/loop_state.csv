@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T23:15:00Z,rq_621,630,no,tick630 progress@630 mega-UAP dual wave AViQ to SPAQuE; next rq_622; progress@640 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T23:30:00Z,rq_622,631,no,tick631 Wallimage 10.2m dual SF CESEW Sparkoh; next rq_623; progress@640 in 9; rq_116 deferred

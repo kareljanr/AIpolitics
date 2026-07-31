@@ -7539,3 +7539,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+bud dual wave; FOI gap_dual_coa_mega_uap_l5_matrix_2025 ready+draft; rq_621=done spawn rq_622; ticks=630
 - FOI opened: gap_dual_coa_mega_uap_l5_matrix_2025 (ready, human send) - not sent
 - Next: prio5 **rq_622**; deferred **rq_116**; progress@640 in 10 ticks
+
+### 2026-07-31T23:30:00Z -- tick 631
+- Unit: rq_622 (FOI-adjacent dual AV/culture hole-fill -- **Wallimage** CoA Table33 dual Screen Flanders + **CESEW/Sparkoh/VisitWallonia** residual)
+- Found: **Wallimage** (primary CoA Table33). **BI2025:** rec **EUR9.468m** / dep **EUR10.224m** / solde **-EUR0.756m**. **BA2024:** rec=dep **EUR8.594m** solde **0** (path dep **+EUR1.630m**). Dual **Screen Flanders Hermes EUR3.5m** + **VAF** dots class **EUR30.8m** + screen.brussels **~EUR3m**. **CESEW** BI2025 rec=dep **EUR9.198m** (BA2024 **EUR9.035m**). **Sparkoh!** BI2025 rec **EUR6.177m** / dep **EUR5.987m** / solde **+EUR0.190m**. **VisitWallonia** BI2025 rec=dep **EUR14.939m** (path **-EUR1.741m** vs BA2024 **EUR16.680m**). Strong confidence CoA; award L5 residual FOI.
+- Wrote: entities (+cesew +sparkoh; wallimage/visitwallonia update); budgets (+13); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_wallimage_av_l5_2025; rq_622=done; spawn rq_623; loop_state ticks=631
+- FOI opened: gap_wallimage_av_l5_2025 -- ready (not sent)
+- Next: rq_623; progress@640 in 9 ticks; rq_116 deferred

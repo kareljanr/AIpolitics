@@ -11470,3 +11470,16 @@ bud_dual_spaque_ovam_dep_class_2025,gg_belgium,2025,97260000,,,budgeted,src_dual
 bud_dual_coa_wave_aviq_class_2025,gg_belgium,2025,7249000000,,,budgeted,src_dual_coa_mega_uap_wave_tick630,strong,Progress@630 AViQ SEC dep 7.249bn class largest L2 this wave; tick630
 bud_dual_coa_wave_housing_tripod_2025,gg_belgium,2025,702829593,,,budgeted,src_dual_coa_mega_uap_wave_tick630,strong,Progress@630 SWL+SWCS+FLW dep SEC sum ~702.8m dual VMSW; tick630
 bud_dual_coa_wave_we_group_2025,gg_belgium,2025,265260003,,,budgeted,src_dual_coa_mega_uap_wave_tick630,strong,Progress@630 WE group dep SEC 265.3m dual PMV; tick630
+bud_wallimage_rec_sec_bi2025,wallimage,2025,9467681,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Wallimage recettes BI2025 9.468m; tick631
+bud_wallimage_dep_sec_bi2025,wallimage,2025,10224009,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Wallimage depenses BI2025 10.224m; tick631
+bud_wallimage_solde_sec_bi2025,wallimage,2025,-756328,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Wallimage solde SEC BI2025 -0.756m; tick631
+bud_wallimage_rec_dep_ba2024,wallimage,2024,8593845,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Wallimage rec=dep BA2024 8.594m solde 0; tick631
+bud_cesew_rec_dep_bi2025,cesew,2025,9198000,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 CESEW rec=dep BI2025 9.198m balanced; tick631
+bud_cesew_rec_dep_ba2024,cesew,2024,9035000,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 CESEW rec=dep BA2024 9.035m; path +0.163m; tick631
+bud_sparkoh_rec_bi2025,sparkoh,2025,6176500,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Sparkoh recettes BI2025 6.177m; tick631
+bud_sparkoh_dep_bi2025,sparkoh,2025,5986500,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Sparkoh depenses BI2025 5.987m solde +0.190m; tick631
+bud_sparkoh_rec_ba2024,sparkoh,2024,5872610,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Sparkoh recettes BA2024 5.873m; tick631
+bud_sparkoh_dep_ba2024,sparkoh,2024,5682664,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 Sparkoh depenses BA2024 5.683m solde +0.190m; tick631
+bud_visitwallonia_sec_bi2025,visitwallonia,2025,14938842,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 VisitWallonia rec=dep BI2025 14.939m; tick631
+bud_visitwallonia_sec_ba2024,visitwallonia,2024,16679510,,,budgeted,src_ccrek_wallimage_cesew_sparkoh_bi2025,strong,CoA Table33 VisitWallonia rec=dep BA2024 16.680m path -1.741m; tick631
+bud_dual_av_wallimage_sf_class_2025,gg_belgium,2025,13724009,,,budgeted,src_dual_av_wallimage_sf_tick631,strong,Wallimage SEC dep 10.224m + Screen Flanders 3.5m class dual not additive; tick631
