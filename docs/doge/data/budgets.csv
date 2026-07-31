@@ -13890,3 +13890,27 @@ bud_bru_commissions_691_7m_2026,brussels_gov,2026,691675000,,,budgeted,src_ccrek
 bud_bru_measures_local_comm_neg4m_2026,brussels_gov,2026,-4000000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Trajectory measures pouvoirs locaux+commissions -4m 2026 path to +28 2029; tick707
 bud_bru_measures_securite_neg5m_2026,brussels_gov,2026,-5000000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Trajectory measures sécurité -5m 2026 path to -15 2028-29; tick707
 bud_dual_siamu_bps_fire_security_2026,gg_belgium,2026,272084000,,,budgeted,src_dual_fire_security_local_tick707,strong,Dual SIAMU/BPS presented fire-security stack residual; not TE-additive; tick707
+bud_bru_recettes_total_7898_8m_2026,brussels_gov,2026,7898800000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,SGRBC total recettes voies et moyens 7898.8m incl loans and debt ops; tick708
+bud_bru_recettes_core_5739_7m_2026,brussels_gov,2026,5739700000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Recettes excl loans>1y (~2bn) and debt fund prog023 = 5739.7m; tick708
+bud_bru_ipp_regional_1257_9m_2026,brussels_gov,2026,1257900000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,IPP regional prog 36.201 1257.9m dual VL opcentiemen; tick708
+bud_bru_fed_financing_1528_2m_2026,brussels_gov,2026,1528200000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Financement federal prog 36.050 1528.2m; tick708
+bud_bru_regional_taxes_fed_1355_3m_2026,brussels_gov,2026,1355300000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Regional taxes via fed progs 36.203-207/218/220 total 1355.3m; tick708
+bud_bru_regional_taxes_fed_est_1252_8m,brussels_gov,2025,1252800000,,,outturn,src_ccrek_bru_receipts_parking_reporte_2026,medium,Federal Sept2025 est for same tax package 1252.8m vs budget 1355.3; tick708
+bud_bru_games_tax_path_37_6m_2026,brussels_gov,2026,37600000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,medium,Games/paris tax path +5 to 37.6 online betting; tick708
+bud_bru_property_circ_tax_195_6m_2026,brussels_gov,2026,195600000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Precompte immobilier + circulation + mise en circulation 195.6m; tick708
+bud_bru_property_tax_built_120m_2026,brussels_gov,2026,120000000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Taxe proprietaires immeubles batis 120m status quo 2025; tick708
+bud_bru_tourist_tax_7_2m_2026,brussels_gov,2026,7200000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,medium,Tourist accommodation tax ~7.2 (~double Airbnb regularisation); tick708
+bud_bru_regie_sales_40m_2026,brussels_gov,2026,40000000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,medium,Regie fonciere sales 38.005.62 40m; CoA no asset list; tick708
+bud_bru_eu_neutralisation_table_114_5m_2026,brussels_gov,2026,114500000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,EU neutralisation table 114.5 (vs expose 82.5 PRR36.6 REPower27.7 Feder18.2); tick708
+bud_bru_eu_remboursements_table_149_5m_2026,brussels_gov,2026,149500000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,EU remboursements/prefinancing table 149.5 (expose 155.2); tick708
+bud_bru_env_fiscal_not_retained_49_1m,brussels_gov,2024,49100000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Env fiscal 41.032.55 49.1 BI2024 extended producer not retained BI2026; tick708
+bud_bru_beliris_reorient_50m_2026,brussels_gov,2026,50000000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,medium,Beliris 50m reorient to bridges/tunnels needs avenant 15; tick708
+bud_bru_traffic_fines_budget_33_2m_2026,brussels_gov,2026,33200000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Traffic fines fund 42.036 budget 33.2 vs fed est 59.4 gap FOI; tick708
+bud_bru_traffic_fines_fed_est_59_4m,brussels_gov,2025,59400000,,,outturn,src_ccrek_bru_receipts_parking_reporte_2026,medium,Federal Sept2025 est traffic fines 59.4 vs BCR budget 33.2; tick708
+bud_parking_bru_presented_228m_2026,parking_brussels,2026,227975000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,parking.brussels presented balanced 227.975m reporté inflated; tick708
+bud_parking_bru_corrected_dep_153_2m_2026,parking_brussels,2026,153195000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,parking.brussels dep corrected 153.195 after reporté strip; tick708
+bud_parking_bru_hidden_surplus_25_1m_2026,parking_brussels,2026,25091000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,parking.brussels true solde +25.091 hidden by reporté; tick708
+bud_brusoc_presented_84_6m_2026,brusoc,2026,84561000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Brusoc presented 84.561m balanced; corr solde +0.915; tick708
+bud_abe_hidden_surplus_2_2m_2026,abe_bru,2026,2193000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,ABE entrepreneurship agency corrected solde +2.193; tick708
+bud_oaa_missions_solde_shift_300_6m_2026,brussels_gov,2026,300603000,,,budgeted,src_ccrek_bru_receipts_parking_reporte_2026,strong,Consolidated OAA+missions solde 34.045 to +300.603 after reporté strip; tick708
+bud_dual_bru_ipp_vl_opcent_2026,gg_belgium,2026,1257900000,,,budgeted,src_dual_receipts_parking_tick708,strong,Dual BRU IPP 1257.9 vs VL opcentiemen residual; not TE-additive; tick708

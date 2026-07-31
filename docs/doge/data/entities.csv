@@ -533,3 +533,6 @@ artevelde,Arteveldehogeschool,Arteveldehogeschool,Artevelde University of Applie
 siamu,SIAMU (DBDMH),Service d'incendie et d'aide médicale urgente,Brussels fire and emergency medical service,agency,brussels_gov,bi,https://www.firebru.brussels,,,CoA Annexe2 2026 presented 272.1m balanced; true solde +19.1 after reporté strip; tick707
 bps_bru,BPS Brussel Preventie en Veiligheid,Bruxelles Prévention et Sécurité,Brussels prevention and security agency,agency,brussels_gov,bi,,,CoA Annexe2 2026 presented 240.3m balanced; true solde +22.2 after reporté strip; tick707
 frbrtc,FRBRTC,Fonds régional bruxellois de refinancement des trésoreries communales,Brussels regional fund refinancing municipal treasuries,agency,brussels_gov,fr,,,CoA Annexe2 rec 1657.6 dep 1657.8 solde -0.3; guarantee stock class 1.3bn; tick707
+parking_brussels,parking.brussels,Agence du stationnement de la Région de Bruxelles-Capitale,Brussels regional parking agency,agency,brussels_gov,bi,,,CoA Annexe2 presented 228m balanced; true solde +25.1 after reporté strip; tick708
+brusoc,Brusoc,Brusoc,Brussels SME financing agency,agency,brussels_gov,fr,,,CoA Annexe2 presented 84.6m; corr solde +0.9; tick708
+abe_bru,ABE,Agence bruxelloise pour l'entrepreneuriat,Brussels entrepreneurship agency,agency,brussels_gov,fr,,,CoA Annexe2 corrected solde +2.2; tick708

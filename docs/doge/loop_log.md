@@ -8340,3 +8340,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_siamu_bps_reporte_local_l5 — ready (not sent)
 - Next: rq_699; progress@710 in 3 ticks; rq_116 deferred
 
+### 2026-08-01T18:45:00Z — tick 708
+- Unit: **rq_699** (FOI-adjacent dual residual — **BCR receipts ch4 + parking/Brusoc reporté + EU mismatch**)
+- Found (primary CoA 2026_17 ch.4 + Annexe2 p36; image OCR):
+  - Total recettes **7898.8**; core excl loans+debt fund **5739.7**
+  - IPP regional **1257.9**; federal financing **1528.2**; regional taxes via fed **1355.3** (fed est **1252.8**)
+  - Games path **37.6**; property package **195.6**; built tax **120**; tourist **~7.2** (~double Airbnb); regie sales **40**
+  - EU neutralisation table **114.5** vs expose **82.5** (PRR36.6 REPower27.7 Feder18.2); rembourse table **149.5** vs **155.2**
+  - Traffic fines budget **33.2** vs fed est **59.4** (gap **26.2**); Beliris reorient **50** needs avenant
+  - Env fiscal 49.1 BI2024 not retained 2026; parking.brussels reporté hide **+25.1** (was fake-balance 228)
+  - Consol OAA+missions solde **34.0 → +300.6** after strip; Brusoc/ABE/FBG residual surpluses
+  - Dual VL opcentiemen / WAL IPP; Strong CoA; L5 FOI.
+- Wrote: budgets (+24); commitments (+6); leaderboard (+7); sources (+2); entities (+3); FOI draft **gap_bru_receipts_parking_reporte_l5**; rq_699=done; spawn **rq_700**; loop_state ticks=708
+- FOI opened: gap_bru_receipts_parking_reporte_l5 — ready (not sent)
+- Next: rq_700; progress@710 in 2 ticks; rq_116 deferred
+

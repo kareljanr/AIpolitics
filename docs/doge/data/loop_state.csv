@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T18:30:00Z,rq_698,707,no,tick707 BCR SIAMU/BPS reporté FRBRTC local dual; next rq_699; progress@710 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T18:45:00Z,rq_699,708,no,tick708 BCR receipts parking reporté EU mismatch dual; next rq_700; progress@710 in 2; rq_116 deferred
