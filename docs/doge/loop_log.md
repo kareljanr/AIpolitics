@@ -6611,3 +6611,9 @@ Append-only. Each tick adds a short entry.
 - State: ticks=545 last_unit=rq_536; next on resume **rq_537**
 - No research tick; FOI not sent
 
+
+### 2026-07-31T08:32:16Z - resume
+- User: **paused=no**
+- 60s watcher recreated; fire_immediately first tick
+- State: ticks=545 last_unit=rq_536; next **rq_537** (progress@550 soon)
+
