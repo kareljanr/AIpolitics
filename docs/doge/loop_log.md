@@ -7093,3 +7093,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_571=done spawn **rq_572**; ticks=580
 - FOI opened: none this tick
 - Next: prio5 **rq_572**; deferred **rq_116**; progress@590 in 10 ticks
+
+### 2026-07-31T11:30:00Z - tick 581
+- Unit: **rq_572** (FOI-adjacent hole-fill - **INASEP RA2025 dual SPGE OAA Namur + prog 128.7m**)
+- Found (strong primary INASEP Rapport annuel 2025, 179 pp — new entity):
+  - **CA EUR 49.1m** (+1.74m); ventes **62.3m**; **op profit 2.27m**; **net 2.05m** (all to reporte)
+  - Fin result **-0.18m**; personnel **24.6m**; D&A **8.76m**
+  - **Balance:** assets **185.8m**; equity **55.2m**; LT debt **105.1m**; ST **19.1m**; MVA **119.4m**
+  - CA split: exploit **18.8m** drink **17.7m** studies **8.8m** lab **1.85m** support CSU **2.0m**
+  - Drink result **-0.70m** (CVD lag); water sales **16.7m**; new CVD **3.7414 EUR/m3** approved Apr2026
+  - **SPGE works 12.86m** HTVA 2025; cum **536.7m** 2001-25; prog **2022-27 128.7m** / 92 dossiers
+  - Ops: **113** STEPs · **352** pumps · **589 km** collectors · exploit ETP **97**
+  - **Dual OAA:** INASEP **49m** / works **13m** vs SPGE WAL **418m** class vs Aquafin VL **637m**
+- Wrote: sources +2; budgets +38; cmt +3; lb +7; FOI **gap_inasep_spge_l5_2025** ready+draft; entity **inasep** NEW; raw PDF; rq_572=done spawn **rq_573**; ticks=581
+- FOI opened: gap_inasep_spge_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_573**; deferred **rq_116**; progress@590 in 9 ticks

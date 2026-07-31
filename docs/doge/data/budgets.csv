@@ -10590,3 +10590,41 @@ bud_ores_luminaires_2025,ores,2025,472394,,,outturn,src_ores_assets_ra_2025,stro
 bud_ores_protected_clients_2025,ores,2025,57800,,,outturn,src_ores_assets_ra_2025,strong,COUNT clients proteges ~57800; tick579
 bud_ores_prepaid_meters_2025,ores,2025,60000,,,outturn,src_ores_assets_ra_2025,strong,COUNT compteurs prepaiement ~60000; tick579
 bud_ores_enzo_meters_plan,ores,2025,700000,,,outturn,src_ores_assets_ra_2025,strong,COUNT ENZO consortium ~700k meters to install ORES territory (joint RESA award); tick579
+bud_inasep_ca_2025,inasep,2025,49137305,,,outturn,src_inasep_ra_2025,strong,Chiffre d affaires 49.137m 2025 (+1.74m vs 47.396m); tick581
+bud_inasep_ventes_2025,inasep,2025,62295111,,,outturn,src_inasep_ra_2025,strong,Ventes et prestations 62.295m 2025; tick581
+bud_inasep_op_profit_2025,inasep,2025,2273641,,,outturn,src_inasep_ra_2025,strong,Resultat d exploitation 2.274m 2025 (0.991m 2024); tick581
+bud_inasep_net_2025,inasep,2025,2048365,,,outturn,src_inasep_ra_2025,strong,Resultat de l exercice 2.048m 2025 (all to reporte); tick581
+bud_inasep_fin_result_2025,inasep,2025,-179958,,,outturn,src_inasep_ra_2025,strong,Resultat financier -0.180m 2025; tick581
+bud_inasep_fin_income_2025,inasep,2025,5364626,,,outturn,src_inasep_ra_2025,strong,Produits financiers 5.365m 2025; tick581
+bud_inasep_fin_charges_2025,inasep,2025,5544584,,,outturn,src_inasep_ra_2025,strong,Charges financieres 5.545m 2025; tick581
+bud_inasep_personnel_2025,inasep,2025,24603302,,,outturn,src_inasep_ra_2025,strong,Cout du personnel 24.603m 2025; tick581
+bud_inasep_services_2025,inasep,2025,14248798,,,outturn,src_inasep_ra_2025,strong,Services et biens divers 14.249m 2025; tick581
+bud_inasep_goods_2025,inasep,2025,11965308,,,outturn,src_inasep_ra_2025,strong,Marchandises et sous-traitances 11.965m 2025; tick581
+bud_inasep_da_2025,inasep,2025,8757117,,,outturn,src_inasep_ra_2025,strong,Amortissements 8.757m 2025; tick581
+bud_inasep_assets_2025,inasep,2025,185829631,,,outturn,src_inasep_ra_2025,strong,Total actif 185.830m end-2025; tick581
+bud_inasep_equity_2025,inasep,2025,55223797,,,outturn,src_inasep_ra_2025,strong,Capitaux propres 55.224m end-2025; tick581
+bud_inasep_lt_debt_2025,inasep,2025,105067103,,,outturn,src_inasep_ra_2025,strong,Dettes >1an 105.067m end-2025; tick581
+bud_inasep_st_debt_2025,inasep,2025,19132738,,,outturn,src_inasep_ra_2025,strong,Dettes <=1an 19.133m end-2025; tick581
+bud_inasep_dettes_total_2025,inasep,2025,129263647,,,outturn,src_inasep_ra_2025,strong,Dettes totales 129.264m end-2025; tick581
+bud_inasep_mva_2025,inasep,2025,119445810,,,outturn,src_inasep_ra_2025,strong,Immobilisations corporelles 119.446m end-2025; tick581
+bud_inasep_cap_subs_2025,inasep,2025,2896320,,,outturn,src_inasep_ra_2025,strong,Subsides en capital 2.896m end-2025; tick581
+bud_inasep_ca_exploit_2025,inasep,2025,18828053,,,outturn,src_inasep_ra_2025,strong,CA Exploitation SEU 18.828m 2025; tick581
+bud_inasep_ca_drink_2025,inasep,2025,17734683,,,outturn,src_inasep_ra_2025,strong,CA Distribution d eau 17.735m 2025; tick581
+bud_inasep_ca_studies_2025,inasep,2025,8806646,,,outturn,src_inasep_ra_2025,strong,CA Bureaux d etudes 8.807m 2025; tick581
+bud_inasep_ca_lab_2025,inasep,2025,1849625,,,outturn,src_inasep_ra_2025,strong,CA Laboratoire 1.850m 2025; tick581
+bud_inasep_ca_support_2025,inasep,2025,1999319,,,outturn,src_inasep_ra_2025,strong,CA Services supports CSU 1.999m 2025; tick581
+bud_inasep_water_sales_2025,inasep,2025,16675000,,,outturn,src_inasep_ra_2025,strong,Recettes vente d eau 16.675m 2025; tick581
+bud_inasep_drink_result_2025,inasep,2025,-703388,,,outturn,src_inasep_ra_2025,strong,Resultat Production Distribution eau -0.703m 2025 (CVD lag); tick581
+bud_inasep_spge_works_2025,inasep,2025,12858890,,,outturn,src_inasep_ra_2025,strong,Travaux assainissement executes pour SPGE 12.859m HTVA 2025; tick581
+bud_inasep_spge_works_cum_2001_25,inasep,2025,536665228,,,outturn,src_inasep_ra_2025,strong,Travaux assainissement cum 2001-2025 536.665m HTVA SPGE; tick581
+bud_inasep_prog_invest_2022_27,inasep,2025,128700261,,,outturn,src_inasep_ra_2025,strong,Programme invest SPGE 2022-2027 128.700m / 92 dossiers; tick581
+bud_inasep_prog_invest_2017_21,inasep,2025,67833929,,,outturn,src_inasep_ra_2025,strong,Programme invest SPGE 2017-2021 67.834m / 45 dossiers; tick581
+bud_inasep_studies_avantprojets_2025,inasep,2025,26000000,,,outturn,src_inasep_ra_2025,strong,9 avant-projets assainissement ~26m 2025 class; tick581
+bud_inasep_adjudged_2025,inasep,2025,23000000,,,outturn,src_inasep_ra_2025,strong,6 dossiers adjuges ~23m 2025 class; tick581
+bud_inasep_steps_count_2025,inasep,2025,113,,,outturn,src_inasep_ra_2025,strong,COUNT stations epuration 113 eoy2025; tick581
+bud_inasep_pumps_count_2025,inasep,2025,352,,,outturn,src_inasep_ra_2025,strong,COUNT pompages 352; tick581
+bud_inasep_collectors_km_2025,inasep,2025,589,,,outturn,src_inasep_ra_2025,strong,COUNT canalisations 589 km (grav 442 + pression 147 + vide 3); tick581
+bud_inasep_exploit_etp_2025,inasep,2025,97,,,outturn,src_inasep_ra_2025,strong,COUNT effectif assainissement ETP 97.13 2025; tick581
+bud_inasep_lab_params_2025,inasep,2025,152046,,,outturn,src_inasep_ra_2025,strong,COUNT lab parametres 152046 / 13778 echantillons; tick581
+bud_inasep_cvd_new_2026_cents,inasep,2025,37414,,,outturn,src_inasep_ra_2025,strong,COUNT new CVD 3.7414 EUR/m3 x10000 approved 2026-04-21; tick581
+bud_inasep_prod_immo_2025,inasep,2025,1235881,,,outturn,src_inasep_ra_2025,strong,Production immobilisee drink 1.236m 2025; tick581

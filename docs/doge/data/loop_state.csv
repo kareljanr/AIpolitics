@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:25:00Z,rq_571,580,no,tick580 progress@580 L2~99 L5~38-51 FOI ready~321; next rq_572; progress@590 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:30:00Z,rq_572,581,no,tick581 INASEP RA2025 CA 49m dual SPGE OAA prog 128.7m; next rq_573; progress@590 in 9; rq_116 deferred
