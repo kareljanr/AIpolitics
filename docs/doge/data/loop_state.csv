@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T18:30:00Z,rq_602,611,no,tick611 CRAC fonct 7.71m alt 13.1m dual local finance; next rq_603; progress@620 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T18:45:00Z,rq_603,612,no,tick612 IFAPME SEC 142.2m dual SYNTRA EPJE gap; next rq_604; progress@620 in 8; rq_116 deferred

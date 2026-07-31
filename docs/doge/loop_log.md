@@ -7380,3 +7380,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+crac); budgets (+12); commitments (+2); leaderboard (+6); sources (+5); FOI draft gap_crac_loanbook_l5_2025; rq_602=done; spawn rq_603; loop_state ticks=611
 - FOI opened: gap_crac_loanbook_l5_2025 ? ready (not sent)
 - Next: rq_603; progress@620 in 9 ticks; rq_116 deferred
+
+### 2026-07-31T18:45:00Z — tick 612
+- Unit: rq_603 (FOI-adjacent dual vocational hole-fill deepen — **IFAPME** Type2 SEC dual SYNTRA)
+- Found: **IFAPME** (primary CoA Table33 + prog112). **BI2025 SEC:** recettes **€142.518m** · dépenses **€142.212m** · solde **+€0.306m**. **BI2024 SEC:** rec **€140.156m** · dep **€149.850m** · solde **-€9.694m** (path solde **+€10.0m**). **Prog 112 / EPJE class:** ~**€82.3m** BI2025 (CoA) / **€88.3m** 2026 — **subset** of full SEC UAP (**gap ~€60m** own/other residual FOI). Dual **SYNTRA** package **€49.7m**. Strong confidence SEC; perimeter recon FOI.
+- Wrote: entity update ifapme; budgets (+9); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_ifapme_sec_epje_recon_l5_2025; rq_603=done; spawn rq_604; loop_state ticks=612
+- FOI opened: gap_ifapme_sec_epje_recon_l5_2025 ? ready (not sent)
+- Next: rq_604; progress@620 in 8 ticks; rq_116 deferred

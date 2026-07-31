@@ -11235,3 +11235,12 @@ bud_crac_alt_pwi_bi2025,crac,2025,-12213000,,,budgeted,src_ccrek_crac_alt_financ
 bud_crac_long_terme_bi2025,crac,2025,3352000,,,budgeted,src_ccrek_crac_alt_finance_bi2025,strong,CRAC long terme BI2025 3.352m (vs 23.625m BA2024 path -20.273m) CoA Table10
 bud_crac_fonds_communes_dot_ba2025b,crac,2025,38553000,,,budgeted,src_wallex_crac_fonds_communes_2025,strong,Dotation CRAC refinancement fonds des communes BA2025b 38.553m DF 091.023 decret Art.3/6
 bud_crac_oxygene_borrow_2025,crac,2025,210000000,,,budgeted,src_pw_cri8_oxygene_210m,strong,Prior Plan Oxygene CRAC bank borrow 210m (2x105m) on-lend 2025 six cities class
+bud_ifapme_rec_sec_bi2025,ifapme,2025,142518376,,,budgeted,src_ccrek_ifapme_budget_bi2025,strong,IFAPME Type2 recettes SEC BI2025 142.518m CoA Table33 full UAP
+bud_ifapme_dep_sec_bi2025,ifapme,2025,142212376,,,budgeted,src_ccrek_ifapme_budget_bi2025,strong,IFAPME depenses SEC BI2025 142.212m CoA Table33; dual SYNTRA
+bud_ifapme_solde_sec_bi2025,ifapme,2025,306000,,,budgeted,src_ccrek_ifapme_budget_bi2025,strong,IFAPME solde SEC BI2025 +0.306m (path +10.0m vs BI2024 -9.694m)
+bud_ifapme_rec_sec_bi2024,ifapme,2024,140155568,,,budgeted,src_ccrek_ifapme_budget_bi2025,strong,IFAPME recettes SEC BI2024 140.156m CoA Table33
+bud_ifapme_dep_sec_bi2024,ifapme,2024,149849568,,,budgeted,src_ccrek_ifapme_budget_bi2025,strong,IFAPME depenses SEC BI2024 149.850m CoA Table33
+bud_ifapme_solde_sec_bi2024,ifapme,2024,-9694000,,,budgeted,src_ccrek_ifapme_budget_bi2025,strong,IFAPME solde SEC BI2024 -9.694m
+bud_ifapme_prog112_bi2025_coa,ifapme,2025,82300000,,,budgeted,src_ccrek_ifapme_prog112_bi2025,strong,CoA emploi-formation table prog 112 IFAPME ~82.3m BI2025 (RW budget line subset of full SEC UAP 142m)
+bud_ifapme_sec_vs_epje_gap_2025,ifapme,2025,59959376,,,derived,src_ccrek_ifapme_budget_bi2025,medium,Illustrative gap full SEC dep 142.212m minus EPJE/prog112 class ~82.3m ~59.96m own/other perimeter residual FOI recon
+bud_dual_vocational_ifapme_syntra_sec_2025,gg_belgium,2025,142212376,,,budgeted,src_dual_vocational_ifapme_syntra_tick612,medium,Illustrative dual vocational: IFAPME full SEC 142.2m + SYNTRA package 49.7m class; not additive TE; EPJE-only dual understates IFAPME
