@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T01:45:00Z,rq_721,730,no,tick730 PROGRESS coverage % + waste top10; next rq_722; progress@740 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T02:15:00Z,rq_722,731,no,tick731 COCOF residual dual VGC/VAPH; next rq_723; progress@740 in 9; rq_116 deferred

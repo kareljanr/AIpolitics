@@ -8675,3 +8675,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_721=done; spawn **rq_722**; loop_state ticks=730
 - FOI: none new (progress tick)
 - Next: prio5 **rq_722**; deferred **rq_116**; progress@740 in 10 ticks
+
+### 2026-08-02T02:15:00Z — tick 731
+- Unit: **rq_722** (FOI-adjacent residual dual — **COCOF BI2026 residual dual VGC/VAPH CoA 2026_21**)
+- Found (primary CoA 2026_21 residual vs tick235 aggregates):
+  - SEC corr **-22.708m** (sous-util **35.758** +10.4; immunisation infra **0** was 15.0); SNF **-58.5m**; path to balance **2029** without measures (art21 flag)
+  - Debt **182.7 → 203.7m** (+21); first **credit line 20m** + CP max **20m** + SPABS advance **20m**
+  - Decret rec **625.6** / CL **677.5** / CE **667.6**; Phare CL **210.3** (31.5pct, +3pct); Aide pers **113.9**; Formation **91.8** (BF dot **63.2**)
+  - RBC edu special **45.8m still on 2010 pupil count** CoA fairness flag dual VGC
+  - Non-marchand provision **+13m CL** in M30; encours **101.5 → 91.6m**; CSF growth rec **2.88%** omitted from expose
+  - Sainte-Emilie **22.8m** (-2.2 linear dual WAL); dual VAPH ~2.86bn / VGC ~174m
+- Wrote: budgets (+50); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_cocof_bi2026_residual_l5**; extracts + write script; rq_722=done; spawn **rq_723**; loop_state ticks=731
+- FOI opened: gap_cocof_bi2026_residual_l5 — ready (not sent); prior gap_cocof_phare_vgc_l5 remains ready
+- Next: rq_723; progress@740 in 9; rq_116 deferred

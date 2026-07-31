@@ -14558,3 +14558,53 @@ bud_tv_flank_invest_toelage_2026_13_3m,lantis,2026,13300000,,,budgeted,src_ccrek
 bud_tv_flank_werk_toelage_2026_6m,lantis,2026,6000000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Lantis werk toelage Modal Shift team 6.0m 2026 (BO26 11.5); tick729
 bud_tv_flank_vvf_2026_6_7m,lantis,2026,6700000,,,budgeted,src_ccrek_tv6_leef_haven_modal_residual,strong,Verkeersveiligheidsfonds toelage Lantis 6.7m 2026; DWV same class 5.0; tick729
 bud_dual_tv_modal_no_task_budget,gg_belgium,2026,0,,,estimate,src_dual_tv_leef_modal_gip_tick729,strong,CoA: no overarching task budget modal pillar — unlimited + no finance mode; dual GIP lines not mappable to Routeplan; tick729
+bud_cocof_sec_corr_2026,cocof,2026,-22708000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,SEC financing solde corr -22.708m after sous-util 35.758; tick731 residual
+bud_cocof_snf_2026,cocof,2026,-58466000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Solde net a financer -58.466m before sous-util; tick731
+bud_cocof_budget_brut_2026,cocof,2026,-60074000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Solde budgetaire brut consol -60.074m; tick731
+bud_cocof_sousutil_2026,cocof,2026,35758000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Sous-utilisation credits 35.758m (+10.414 vs BA2024 25.344); tick731
+bud_cocof_sousutil_path_plus_10_4m,cocof,2026,10414000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Sous-util path +10.414m vs BA2024; tick731
+bud_cocof_immunisation_infra_2026,cocof,2026,0,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Immunisation certain infra exp 0 (was 14.964m BA2024); tick731
+bud_cocof_amort_debt_2026,cocof,2026,1608000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Debt amort 1.608m 2026; tick731
+bud_cocof_decret_rec_2026,cocof,2026,625624000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Decret recettes 625.624m (+0.452 vs BA2024); tick731
+bud_cocof_decret_dep_cl_2026,cocof,2026,677505000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Decret dep liquidations 677.505m (+18.313 vs BA2024); tick731
+bud_cocof_decret_dep_ce_2026,cocof,2026,667600000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Decret dep engagements 667.6m (+19.6/+3.0pct vs prov 2025); tick731
+bud_cocof_reglement_rec_2026,cocof,2026,16112000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Reglement recettes 16.112m; tick731
+bud_cocof_reglement_dep_cl_2026,cocof,2026,24305000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Reglement dep CL 24.305m; tick731
+bud_cocof_debt_eoy2025,cocof,2025,182700000,,,estimated,src_ccrek_cocof_bi2026_residual,strong,Debt total eoy2025 182.7m college estimate; tick731
+bud_cocof_debt_eoy2026,cocof,2026,203700000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Debt total path eoy2026 203.7m (+21.0m); tick731
+bud_cocof_debt_path_plus_21m,cocof,2026,21000000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Debt path +21.0m 2025-26; tick731
+bud_cocof_credit_line_20m_2026,cocof,2026,20000000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,SPFB cashier credit line 20m first use 2026; tick731
+bud_cocof_cp_programme_max_20m,cocof,2026,20000000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Commercial paper programme max 20m launch 2026; tick731
+bud_cocof_spabs_advance_max_20m,cocof,2026,20000000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,SPABS bruxelloise treasury advance max 20m convention 5Feb2026 ends eoy2026; tick731
+bud_cocof_dot_rbc_m01_2026,cocof,2026,352378000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Mission01 RBC dot 352.378m (inst 352.3 + green cert 0.1); tick731
+bud_cocof_dot_cf_m02_2026,cocof,2026,166778000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Mission02 CF dot 166.778m (+2.862); tick731
+bud_cocof_dot_actiris_m03_2026,cocof,2026,3500000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Mission03 Actiris employment aids reimburse 3.5m; tick731
+bud_cocof_dot_fed_m04_2026,cocof,2026,94834000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Mission04 federal dot 94.834m (+1.551); tick731
+bud_cocof_rec_divers_m06_2026,cocof,2026,7634000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Mission06 divers 7.634m (mostly undue recoveries 6.6); tick731
+bud_cocof_interest_rec_m08_2026,cocof,2026,500000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Mission08 financial interest rec 0.5m (-0.5 vs 2025); tick731
+bud_cocof_edu_special_rbc_45_8m,cocof,2026,45800000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,RBC special education financing 45.8m still calculated on 2010 pupil count FR vs NL commissions CoA flag; tick731
+bud_cocof_cf_special_dots_129_8m,cocof,2026,129800000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,CF special dots total 129.8m 2026 (+1.3 vs CF budget figure); tick731
+bud_cocof_sainte_emilie_22_8m,cocof,2026,22800000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Sainte-Emilie additional CF transfer 22.8m (-2.2 linear cut dual WAL); tick731
+bud_cocof_edu_rec_path_13_4m,cocof,2026,13400000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,CF education-related receipts path 13.4m (was 9.0 2025); tick731
+bud_cocof_cf_decompte_repay_0_7m,cocof,2026,700000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,CF 2025 decompte repay due 0.7m; budget only 0.5m understate 0.2m CoA; tick731
+bud_cocof_phare_ce_2026,phare_cocof,2026,210047000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Phare M32 CE 210.047m (+7.378/+3.6pct); tick731 residual
+bud_cocof_phare_cl_2026,phare_cocof,2026,210270000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Phare M32 CL 210.270m (+6.168/+3.0pct); 31.5pct of decret dep; tick731
+bud_cocof_aide_pers_ce_2026,cocof,2026,113944000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Aide aux personnes M22 CE 113.944m (+2.680); tick731
+bud_cocof_aide_pers_cl_2026,cocof,2026,113898000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Aide aux personnes M22 CL 113.898m (+1.910); 17.1pct; tick731
+bud_cocof_formation_ce_2026,cocof,2026,92030000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Formation pro M26 CE 92.030m (-1.020); tick731
+bud_cocof_formation_cl_2026,cocof,2026,91766000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Formation pro M26 CL 91.766m (-1.159); 13.8pct; tick731
+bud_cocof_bf_dot_63_2m,bruxelles_formation,2026,63200000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Bruxelles Formation organe dot 63.2m flat; dual VDAB/Actiris; tick731 residual
+bud_cocof_nonmarchand_prov_ce_12_9m,cocof,2026,12900000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Provision accord non-marchand +12.9m CE (M30); tick731
+bud_cocof_nonmarchand_prov_cl_13_0m,cocof,2026,13000000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Provision accord non-marchand +13.0m CL; tick731
+bud_cocof_encours_eoy2025,cocof,2025,101537000,,,outturn,src_ccrek_cocof_bi2026_residual,strong,Encours engagements eoy2025 101.537m; tick731
+bud_cocof_encours_eoy2026_path,cocof,2026,91642000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Encours path eoy2026 91.642m (-9.895 if full use); tick731
+bud_cocof_infra_eng_path_minus_3_7m,cocof,2026,-3700000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Infra M31 eng path -3.7m (-12.2pct); tick731
+bud_cocof_csf_growth_rec_2_88pct,cocof,2026,2.88,,,estimate,src_ccrek_cocof_bi2026_residual,strong,PCT CSF recommends 2.88 net primary growth 2026 / 2.97 avg 2025-31; expose omits metric CoA; tick731
+bud_cocof_traj_sec_2027,cocof,2027,-15000000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Trajectory SEC -15.0m 2027 toward balance 2029; no measures listed CoA art21 flag; tick731
+bud_cocof_traj_sec_2028,cocof,2028,-7500000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Trajectory SEC -7.5m 2028; tick731
+bud_cocof_traj_sec_2029,cocof,2029,0,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Trajectory SEC balance 0 2029 goal; measures unspecified CoA; tick731
+bud_cocof_infra_ce_2026,cocof,2026,28523000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Infra eng path Table1 28.523m 2026; tick731
+bud_cocof_infra_cl_2026,cocof,2026,37055000,,,budgeted,src_ccrek_cocof_bi2026_residual,strong,Infra liq path Table1 37.055m 2026; tick731
+bud_dual_phare_vaph_class,gg_belgium,2026,210270000,,,budgeted,src_dual_cocof_vgc_vaph_tick731,strong,Phare CL 210.3m dual VAPH ~2.86bn not additive; tick731
+bud_dual_cocof_vgc_exp_class,gg_belgium,2026,677505000,,,budgeted,src_dual_cocof_vgc_vaph_tick731,strong,COCOF decret CL 677.5m dual VGC exp ~174m outturn class; tick731
+bud_dual_bf_vdab_class,gg_belgium,2026,63200000,,,budgeted,src_dual_cocof_vgc_vaph_tick731,strong,Bruxelles Formation 63.2m dual VDAB/Actiris PES training; tick731

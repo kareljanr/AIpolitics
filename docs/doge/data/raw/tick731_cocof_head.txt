@@ -1,0 +1,255 @@
+﻿pages 24
+=== 1 ===
+ 
+ 
+ 
+Projets de d├⌐crets et de 
+r├¿glements contenant les 
+budgets de la Commission 
+communautaire fran├ºaise pour 
+lΓÇÖann├⌐e 2026 
+Rapport 
+Approuv├⌐ par la chambre fran├ºaise le 31 mars 2026 
+
+=== 2 ===
+TABLE DES MATI├êRES / 2 
+ 
+ 
+Avant-propos 4  
+ Chapitre 1 5  
+Trajectoire budg├⌐taire dans le contexte europ├⌐en 5  
+ Chapitre 2 6  
+Soldes budg├⌐taire, de financement et respect des objectifs 6  
+2.1 Trajectoire de la Commission communautaire fran├ºaise 6  
+2.2 Solde de financement de la Commission communautaire fran├ºaise 7  
+ Chapitre 3 8  
+Dette de la Commission communautaire fran├ºaise 8  
+ Chapitre 4 10  
+Projet de d├⌐cret 10  
+4.1 Budget des voies et moyens 10  
+4.1.1 Pr├⌐ambule 10  
+4.1.2 Aper├ºu g├⌐n├⌐ral 10  
+4.1.3 Dotations de la R├⌐gion de Bruxelles-Capitale (Missions 01 et 03) 11  
+4.1.4 Dotation de la Communaut├⌐ fran├ºaise (Mission 02) 11  
+4.1.5 Dotation f├⌐d├⌐rale (Mission 04) 13  
+4.1.6 Recettes diverses (Mission 06) 14  
+4.2 Budget g├⌐n├⌐ral des d├⌐penses 14  
+4.2.1 Pr├⌐ambule 14  
+4.2.2 Analyse du dispositif 14  
+4.2.3 Aper├ºu g├⌐n├⌐ral 16  
+4.2.4 Analyse des cr├⌐dits de d├⌐penses 17  
+4.2.5 ├ëvolution de lΓÇÖencours des engagements 19  
+ Chapitre 5 20  
+Projet de r├¿glement 20  
+5.1 Budget des voies et moyens 20  
+5.1.1 Aper├ºu g├⌐n├⌐ral 20  
+5.2 Budget g├⌐n├⌐ral des d├⌐penses 20  
+5.2.1 Aper├ºu g├⌐n├⌐ral 20  
+5.2.2 Analyse des cr├⌐dits de d├⌐penses 21  
+5.2.3 ├ëvolution de lΓÇÖencours des engagements 21  
+ Chapitre 6 22  
+6.1 Budget de Bruxelles Formation 22  
+6.1.1 Pr├⌐sentation du budget 22  
+6.1.2 Recettes 22  
+6.1.3 D├⌐penses 22  
+ 
+
+=== 3 ===
+/ 3 
+ 
+  
+
+
+=== 4 ===
+/ 4 
+ 
+Avant-propos 
+En application de lΓÇÖarticle 29, dernier alin├⌐a, du d├⌐cret du 24 avril 20141, la Cour des comptes 
+transmet ├á lΓÇÖAssembl├⌐e de la Commission communautaire fran├ºaise2 les commentaires et 
+observations quΓÇÖappelle lΓÇÖexamen des projets de d├⌐crets et de r├¿glements contenant les 
+budgets de la Commission communautaire fran├ºaise pour lΓÇÖann├⌐e budg├⌐taire 2026. 
+Le budget d├⌐cr├⌐tal contient les d├⌐penses et les recettes li├⌐es aux mati├¿res transf├⌐r├⌐es de la 
+Communaut├⌐ fran├ºaise et celles reprises de la province de Brabant, hors missions 
+culturelles3, cons├⌐cutivement ├á sa scission. 
+Le budget r├⌐glementaire contient les d├⌐penses et les recettes relatives aux comp├⌐tences de 
+la Commission communautaire fran├ºaise en tant que pouvoir subordonn├⌐ ├á la Communaut├⌐ 
+fran├ºaise. 
+Le rapport de la Cour des comptes se base sur les projets de d├⌐crets et de r├¿glements, ainsi 
+que sur lΓÇÖexpos├⌐ g├⌐n├⌐ral, qui lui ont ├⌐t├⌐ transmis le 20 mars 2026.  
+ 
+1  D├⌐cret du 24 avril 2014 portant les dispositions applicables au budget, ├á la comptabilit├⌐ et au contr├┤le des services 
+administratifs de la Commission communautaire fran├ºaise et des organismes publics qui en d├⌐pendent (ci-apr├¿s 
+d├⌐nomm├⌐ ┬½ d├⌐cret du 24 avril 2014 ┬╗). 
+2  Ci-apr├¿s d├⌐nomm├⌐e ┬½ Assembl├⌐e ┬╗. 
+3  Ces d├⌐penses sont int├⌐gr├⌐es au budget r├⌐glementaire. 
+
+=== 5 ===
+BUDGETS DE LA COMMISSION COMMUNAUTAIRE FRAN├çAISE POUR LΓÇÖANN├ëE 2026 / 5 
+ 
+Chapitre 1  
+Trajectoire budg├⌐taire dans le contexte 
+europ├⌐en  
+Conform├⌐ment au dispositif de la nouvelle gouvernance budg├⌐taire europ├⌐enne, les pouvoirs 
+publics belges doivent respecter une norme de croissance de leurs d├⌐penses primaires nettes4 au 
+cours des prochaines ann├⌐es. 
+Cette norme de croissance, contenue dans le plan budg├⌐taire et structurel national ├á moyen terme 
+(medium-term fiscal structural plan ou MTFSP) d├⌐pos├⌐ le 18 mars 2025 par la Belgique, a ├⌐t├⌐ 
+approuv├⌐e par les autorit├⌐s europ├⌐ennes le 20 juin suivant. Sur cette base, les d├⌐penses primaires 
+nettes des autorit├⌐s belges ne peuvent pas cro├«tre de plus de 2,5 % par an en moyenne5. 
+Le Conseil sup├⌐rieur des finances, dans un avis dat├⌐ du 18 avril 2025, a propos├⌐ une r├⌐partition de 
+cet effort pluriannuel entre les diff├⌐rents pouvoirs publics belges. Pour la Commission 
+communautaire fran├ºaise, lΓÇÖ├⌐volution nominale propos├⌐e est une augmentation moyenne annuelle 
+des d├⌐penses primaires nettes de 2,97 % pour la p├⌐riode 2025-2031. Pour lΓÇÖann├⌐e 2026, le Conseil 
+sup├⌐rieur des finances recommande une augmentation de 2,88 % de ces d├⌐penses.  
+La Cour des comptes observe que lΓÇÖexpos├⌐ g├⌐n├⌐ral reprend une projection pluriannuelle du solde 
+de financement et des d├⌐penses en infrastructures pour les ann├⌐es 2025 ├á 2029. En revanche, il ne 
+donne aucune indication sur lΓÇÖ├⌐volution des d├⌐penses primaires nettes, telles que d├⌐finies par les 
+autorit├⌐s europ├⌐ennes, pour cette p├⌐riode. La Cour recommande dΓÇÖint├⌐grer ├á lΓÇÖavenir cette 
+├⌐volution dans les documents budg├⌐taires. 
+ 
+4  ├Ç savoir, sous r├⌐serve de quelques exceptions, les d├⌐penses de lΓÇÖentit├⌐ en dehors des charges dΓÇÖint├⌐r├¬t et amortissements de 
+la dette, des d├⌐penses exceptionnelles et non r├⌐currentes (one off) ainsi que des d├⌐penses couvertes par un financement 
+europ├⌐en. 
+5  Une d├⌐viation temporaire a ├⌐t├⌐ autoris├⌐e le 8 juillet 2025 pour neutraliser jusquΓÇÖen 2029 une partie de la hausse des d├⌐penses 
+militaires. 
+
+=== 6 ===
+BUDGETS DE LA COMMISSION COMMUNAUTAIRE FRAN├çAISE POUR LΓÇÖANN├ëE 2026 / 6 
+ 
+Chapitre 2  
+Soldes budg├⌐taire, de financement et 
+respect des objectifs  
+2.1 Trajectoire de la Commission communautaire fran├ºaise 
+LΓÇÖobjectif du coll├¿ge, pr├⌐sent├⌐ dans lΓÇÖexpos├⌐ g├⌐n├⌐ral, est dΓÇÖatteindre lΓÇÖ├⌐quilibre budg├⌐taire, en 
+termes SEC (syst├¿me europ├⌐en des comptes), ├á lΓÇÖhorizon 2029. 
+Le point de d├⌐part de la projection est fix├⌐ ├á lΓÇÖexercice budg├⌐taire 2025 pour lequel lΓÇÖexpos├⌐ g├⌐n├⌐ral 
+mentionne un solde de financement ├á lΓÇÖ├⌐quilibre. La Cour des comptes rappelle quΓÇÖau cours de cet 
+exercice budg├⌐taire, la Commission communautaire fran├ºaise a eu recours aux cr├⌐dits provisoires. 
+Les projets de d├⌐crets et r├¿glements y relatifs ├⌐taient d├⌐pourvus dΓÇÖexpos├⌐ g├⌐n├⌐ral, de sorte que le 
+coll├¿ge nΓÇÖavait ├⌐tabli aucune projection du solde de financement de la Commission communautaire 
+fran├ºaise.  
+Par ailleurs, les derniers comptes transmis concernent lΓÇÖexercice 20246. En cons├⌐quence, la Cour 
+des comptes nΓÇÖest pas en mesure de se prononcer sur la fiabilit├⌐ du point de d├⌐part fix├⌐ pour lΓÇÖann├⌐e 
+budg├⌐taire 2025.  
+LΓÇÖexpos├⌐ g├⌐n├⌐ral reprend ├⌐galement une trajectoire pour les d├⌐penses en infrastructures. 
+Tableau 1 ΓÇô Trajectoire de la Commission communautaire fran├ºaise pour la p├⌐riode 2025-2029 
+(en milliers dΓÇÖeuros) 
+ 2025 2026 2027 2028 2029 
+Solde de financement 0  -22.708 -15.000 -7.500 0 
+D├⌐penses en infrastructures      
+Cr├⌐dits dΓÇÖengagement 30.668 28.523 23.571 19.621 19.621 
+Cr├⌐dits de liquidation 35.606 37.055 27.759 25.027 23.577 
+Source : Expos├⌐ g├⌐n├⌐ral  
+La Cour des comptes constate que lΓÇÖexpos├⌐ g├⌐n├⌐ral ne pr├⌐cise pas les mesures, tant en recettes quΓÇÖen 
+d├⌐penses, qui seront mises en ┼ôuvre pour atteindre lΓÇÖ├⌐quilibre en 2029. Or, lΓÇÖarticle 21 du d├⌐cret du 
+24 avril 2014 pr├⌐voit que lΓÇÖexpos├⌐ g├⌐n├⌐ral du premier projet de d├⌐cret contenant le budget, d├⌐pos├⌐ 
+apr├¿s la prestation de serment des membres du coll├¿ge ├á la suite dΓÇÖ├⌐lections l├⌐gislatives, doit 
+contenir les param├¿tres et la strat├⌐gie pour atteindre les objectifs budg├⌐taires de la l├⌐gislature.  
+De plus, cet expos├⌐ g├⌐n├⌐ral doit ├⌐galement contenir des notes dΓÇÖorientation qui ├⌐tablissent le lien 
+entre les objectifs budg├⌐taires et les axes fondamentaux de la politique gouvernementale. La Cour 
+des comptes constate que ces notes dΓÇÖorientation ne figurent pas dans lΓÇÖexpos├⌐ g├⌐n├⌐ral. La note de 
+politique g├⌐n├⌐rale incluse dans ce document est davantage ax├⌐e sur les d├⌐penses de lΓÇÖann├⌐e 2026. 
+LΓÇÖexpos├⌐ g├⌐n├⌐ral pr├⌐cise que les d├⌐penses dΓÇÖinvestissements seront influenc├⌐es par les d├⌐penses 
+(engagements et liquidations) dans les infrastructures scolaires au cours de lΓÇÖann├⌐e 2026 et, quΓÇÖ├á 
+partir de 2027, celles-ci diminueront sensiblement. En revanche, les liquidations relatives aux 
+infrastructures pour personnes handicap├⌐es et l
+
+=== 7 ===
+BUDGETS DE LA COMMISSION COMMUNAUTAIRE FRAN├çAISE POUR LΓÇÖANN├ëE 2026 / 7 
+ 
+La Cour des comptes rappelle que lΓÇÖarticle 21 pr├⌐cit├⌐ impose que cette projection des 
+investissements soit accompagn├⌐e dΓÇÖune note de synth├¿se pr├⌐cisant notamment les effets sociaux 
+et environnementaux de ces investissements, lesquels ne sont pas repris dans lΓÇÖexpos├⌐ g├⌐n├⌐ral. 
+2.2 Solde de financement de la Commission communautaire fran├ºaise 
+Les projets de budget pour lΓÇÖann├⌐e 2026 d├⌐gagent un solde de financement, en termes SEC, de la 
+Commission communautaire fran├ºaise, de -22,7 millions dΓÇÖeuros, soit une d├⌐gradation du m├¬me 
+montant par rapport au solde de financement fix├⌐ ├á lΓÇÖ├⌐quilibre au dernier budget vot├⌐ par 
+lΓÇÖAssembl├⌐e (budget ajust├⌐ de lΓÇÖann├⌐e 2024). 
+En lΓÇÖabsence de budget des voies et moyens et dΓÇÖestimation des recettes pour lΓÇÖexercice 2025, la Cour 
+des comptes nΓÇÖest pas en mesure dΓÇÖ├⌐valuer le solde de financement pour cet exercice, ni de le 
+comparer avec dΓÇÖautres exercices. 
+Tableau 2 ΓÇô Soldes de financement de la Commission communautaire fran├ºaise (en milliers dΓÇÖeuros) 
+  
+Projet de 
+budget 
+2026 
+(1) 
+Budget 
+ajust├⌐ 2024  
+(2) 
+Variation      
+(1)-(2) 
+Budget d├⌐cr├⌐tal       
+Recettes (1) 625.624  625.172 452 
+D├⌐penses (liquidations) (2) -677.505 -659.192 -18.313 
+Budget r├⌐glementaire       
+Recettes (3) 16.112 15.853 259 
+D├⌐penses (liquidations) (4) -24.305 -23.583 -722 
+Solde budg├⌐taire brut (5)=(1)+(2)+(3)+(4) -60.074 -41.750 -18.324 
+Solde budg├⌐taire brut des institutions consolid├⌐es (IC) (6) 0 0 0 
+Solde budg├⌐taire brut consolid├⌐ (7)=(5)+(6) -60.074 -41.750 -18.324 
+Amortissements de la dette (8) 1.608 1.442 166 
+Solde net ├á financer (9)=(7)+(8) -58.466 -40.308 -18.158 
+Corrections SEC (10) 0 0 0 
+Solde de financement SEC (11) = (9)+(10) -58.466 -40.308 -18.158 
+Sous-utilisation de cr├⌐dits (12) 35.758 25.344 10.414 
+Immunisation de certaines d├⌐penses dΓÇÖinfrastructure (13)7 0 14.964 -14.964 
+Solde de financement SEC corrig├⌐ des sous-utilisations (14) = 
+(11)+(12)+(13) -22.708 0 -22.708 
+Source : Tableau ├⌐tabli par la Cour des comptes  
+La Cour des comptes constate que le solde de financement sΓÇÖam├⌐liore par rapport au solde net ├á 
+financer, ├á la faveur dΓÇÖune pr├⌐vision de sous-utilisation des cr├⌐dits de d├⌐penses ├á hauteur de 
+35,8 millions dΓÇÖeuros, soit 5,10 % des d├⌐penses inscrites aux projets de budget. LΓÇÖexpos├⌐ g├⌐n├⌐ral 
+indique que ce pourcentage a ├⌐t├⌐ ├⌐tabli selon la moyenne effectivement constat├⌐e dans le cadre de 
+la pr├⌐figuration des derniers exercices. 
+DΓÇÖapr├¿s les donn├⌐es des comptes 2022 ├á 20248, la Cour des comptes observe que le taux retenu par 
+le coll├¿ge est r├⌐aliste. En effet, le taux de sous-utilisation sΓÇÖ├⌐l├¿ve ├á 6,34 % sur la moyenne de ces 
+trois exercices. ├Ç titre comparatif, le pourcentage de sous-utilisation, retenu par le coll├¿ge au 
+bu
+
+=== 8 ===
+BUDGETS DE LA COMMISSION COMMUNAUTAIRE FRAN├çAISE POUR LΓÇÖANN├ëE 2026 / 8 
+ 
+Chapitre 3 
+Dette de la Commission communautaire 
+fran├ºaise  
+Au 31 d├⌐cembre 2025, lΓÇÖendettement total de la Commission communautaire fran├ºaise, tel 
+quΓÇÖestim├⌐ par le coll├¿ge dans lΓÇÖexpos├⌐ g├⌐n├⌐ral, sΓÇÖ├⌐l├¿ve ├á 182,7 millions dΓÇÖeuros.  
+Sur la base des documents budg├⌐taires sous examen et des donn├⌐es obtenues dans le cadre de 
+lΓÇÖexamen des comptes g├⌐n├⌐raux du Service public francophone bruxellois (SPFB), la Cour des 
+comptes observe que lΓÇÖendettement global devrait atteindre 203,7 millions dΓÇÖeuros au 
+31 d├⌐cembre 2026, soit une augmentation de 21,0 millions dΓÇÖeuros par rapport ├á fin 2025. 
+Tableau 3 ΓÇô ├ëvolution de la dette de la Commission communautaire fran├ºaise (en milliers dΓÇÖeuros) 
+ Estimations 
+2026 
+Expos├⌐ 
+g├⌐n├⌐ral 
+2025 
+Diff├⌐rence 
+Annuit├⌐s dues pour l'immeuble rue des Palais 0  1.608 -1.608 
+Bail emphyt├⌐otique pour l'immeuble ├á Paris 287  332 -45 
+Financement du centre sportif de la Woluwe 395  496 -101 
+Emprunts ┬½ de soudure ┬╗ 180.310 9 180.310 0 
+Solde net ├á financer10  22.708  Non disponible 22.708 
+Total 203.700 182.746 20.954 
+Source : Expos├⌐ g├⌐n├⌐ral et Cour des comptes 
+Pour rappel, lΓÇÖInstitut des comptes nationaux regroupe au sein de la dette directe de la Commission 
+communautaire fran├ºaise lΓÇÖensemble des ├⌐l├⌐ments repris dans le tableau ci-dessus, en ce compris 
+les emprunts ┬½ de soudure ┬╗ de la SPABS11 bruxelloise.  
+Ces emprunts d├⌐coulent dΓÇÖun m├⌐canisme de financement de la Communaut├⌐ fran├ºaise, cons├⌐cutif 
+au transfert, en 1993, dΓÇÖune partie de ses b├ótiments scolaires aux six SPABS, dont celle de Bruxelles, 
+pour pr├¿s dΓÇÖun milliard dΓÇÖeuros. En contrepartie, les SPABS ont emprunt├⌐ ce montant (appel├⌐ 
+emprunts ┬½ de soudure ┬╗) pour le reverser ├á la Communaut├⌐ fran├ºaise. Ces emprunts sont g├⌐r├⌐s par 
+les SPABS qui peuvent refinancer un emprunt arriv├⌐ ├á ├⌐ch├⌐ance ou rembourser anticipativement 
+certains emprunts si elles disposent dΓÇÖune tr├⌐sorerie suffisante. Les emprunts de la SPABS 
+bruxelloise b├⌐n├⌐ficient de la garantie de la Commission communautaire fran├ºaise qui sont 
+enregistr├⌐s dans la rubrique ┬½ engagement hors bilan ┬╗ dans les comptes annuels du SPFB. Les 
+int├⌐r├¬ts des emprunts ┬½ de soudure ┬╗ sont pris en charge par les SPABS au moyen des loyers vers├⌐s 
+par la Communaut├⌐ fran├ºaise. 
+La derni├¿re annuit├⌐ relative ├á lΓÇÖemprunt contract├⌐ pour lΓÇÖachat du b├ótiment sis rue des Palais 
+(1,6 million dΓÇÖeuros) sera liquid├⌐e en 2026. 
+La Cour des comptes constate que lΓÇÖexpos├⌐ g├⌐n├⌐ral ne pr├⌐cise pas les mesures envisag├⌐es par le 
+coll├¿ge pour financer le solde net ├á financer de 22,7 millions dΓÇÖeuros12. Toutefois, lΓÇÖexpos├⌐ g├⌐n├⌐ral 
+mentionne que la ligne de cr├⌐dit de 20 millions dΓÇÖeuros mise ├á disposition par le caissier du SPFB 
+sera utilis├⌐e pour la premi├¿re fois en 2026 
+
