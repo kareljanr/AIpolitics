@@ -15075,3 +15075,56 @@ bud_dual_vmsw_assets_12_383bn_vs_housing_2025,gg_belgium,2025,12382615326.78,,,o
 bud_dual_vmsw_debt_10_499bn_vs_housing,gg_belgium,2025,10499249132.5,,,outturn,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW debt 10.499bn dual VWF 9.730 SWL 2.742 FLRBC 1.603 SLRB 1.672; tick741
 bud_dual_vmsw_fs3_870m_vs_swl_works,gg_belgium,2025,870000000,,,budgeted,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW FS3 870m/yr dual SWL works 364.3 / SLRB liq 803 / FLRBC invest power 143; tick741
 bud_dual_vmsw_fs3_underuse_108m_2024,gg_belgium,2024,108298947.48,,,outturn,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW FS3 underuse 108.3m (effective lost 8.2 after basiskoten reauth) dual delivery lag SWL plan reno; tick741
+bud_wiv_social_stock_178743_2025,wonen_in_vlaanderen,2025,178743,,,outturn,src_wiv_jv2025_residual,strong,Social rental dwellings Flanders total 178743 eoy2025 (166077 owned + 12666 rented-in); tick742
+bud_wiv_owned_stock_166077_2025,wonen_in_vlaanderen,2025,166077,,,outturn,src_wiv_jv2025_residual,strong,WM-owned social rental stock 166077 eoy2025; tick742
+bud_wiv_rented_in_stock_12666_2025,wonen_in_vlaanderen,2025,12666,,,outturn,src_wiv_jv2025_residual,strong,Rented-in social stock 12666 eoy2025 (-5pct YoY); tick742
+bud_wiv_vacancy_owned_18793_2025,wonen_in_vlaanderen,2025,18793,,,outturn,src_wiv_jv2025_residual,strong,Vacant owned social dwellings 18793 (10.51pct of 166077); 59pct structural; tick742
+bud_wiv_vacancy_rate_10_51pct_2025,wonen_in_vlaanderen,2025,1051,,,outturn,src_wiv_jv2025_residual,strong,Owned stock vacancy rate 10.51pct eoy2025; structural +6pct path; tick742
+bud_wiv_waitlist_cir_215337_2025,wonen_in_vlaanderen,2025,215337,,,outturn,src_wiv_jv2025_residual,strong,CIR active social-housing waitlist inscriptions 215337 eoy2025 (15pct already social tenants); tick742
+bud_wiv_waitlist_new_44521_2025,wonen_in_vlaanderen,2025,44521,,,outturn,src_wiv_jv2025_residual,strong,New CIR inscriptions 44521 2025; deleted 34149; tick742
+bud_wiv_waitlist_deleted_34149_2025,wonen_in_vlaanderen,2025,34149,,,outturn,src_wiv_jv2025_residual,strong,CIR deletions 34149 2025 (assign accepted 12379 primary); tick742
+bud_wiv_avg_wait_5y_2025,wonen_in_vlaanderen,2025,5,,,outturn,src_wiv_jv2025_residual,strong,Average wait years before assign 5 years 2025; tick742
+bud_wiv_mean_social_rent_427_33_2025,wonen_in_vlaanderen,2025,427.33,,,outturn,src_wiv_jv2025_residual,strong,Mean social rent owned stock 427.33 EUR/mo 2025; tick742
+bud_wiv_adapted_housing_demand_11081_2025,wonen_in_vlaanderen,2025,11081,,,outturn,src_wiv_jv2025_residual,strong,CIR adapted-housing demand dossiers 11081 (5.15pct waitlist); tick742
+bud_wiv_huursubsidie_68_512m_2025,wonen_in_vlaanderen,2025,68511515,,,outturn,src_wiv_jv2025_residual,strong,Vlaamse huursubsidie paid 68.512m / 21877 beneficiaries eoy2025; tick742
+bud_wiv_huursubsidie_benef_21877_2025,wonen_in_vlaanderen,2025,21877,,,outturn,src_wiv_jv2025_residual,strong,Huursubsidie beneficiaries COUNT 21877 Dec2025; tick742
+bud_wiv_huursubsidie_apps_8421_2025,wonen_in_vlaanderen,2025,8421,,,outturn,src_wiv_jv2025_residual,strong,Huursubsidie applications 8421 (approve 3805 refuse 4969) 2025; tick742
+bud_wiv_huurpremie_63_508m_2025,wonen_in_vlaanderen,2025,63507503,,,outturn,src_wiv_jv2025_residual,strong,Vlaamse huurpremie paid 63.508m / 23353 beneficiaries avg 219.40/mo 2025; tick742
+bud_wiv_huurpremie_benef_23353_2025,wonen_in_vlaanderen,2025,23353,,,outturn,src_wiv_jv2025_residual,strong,Huurpremie beneficiaries COUNT 23353 Dec2025; tick742
+bud_wiv_ekm_loans_90_346m_2025,wonen_in_vlaanderen,2025,90346386,,,outturn,src_wiv_jv2025_residual,strong,EKM non-subsidised social mortgages 90.346m / 576 loans 2025; tick742
+bud_wiv_ekm_n_576_2025,wonen_in_vlaanderen,2025,576,,,outturn,src_wiv_jv2025_residual,strong,EKM loans COUNT 576 2025; tick742
+bud_wiv_fbu_approved_256_2025,wonen_in_vlaanderen,2025,256,,,outturn,src_wiv_jv2025_residual,strong,FBU eviction-prevention agreements approved 256 of 278 filed 2025 (-15.5pct); tick742
+bud_wiv_noodwoningen_subs_10_189m_2025,wonen_in_vlaanderen,2025,10189260,,,outturn,src_wiv_jv2025_residual,strong,Emergency housing call 2025 subsidies 10.189m / 28 projects / 62 new + 92 reno; tick742
+bud_wiv_vgw_payouts_4_992m_2025,wonen_in_vlaanderen,2025,4992035.49,,,outturn,src_wiv_jv2025_residual,strong,VGW insurance Ethias payouts total 4.992m 2025 (+13.45pct; 1815 interventions); tick742
+bud_wiv_fs3_assign_on_2024_budget_761_7m,wonen_in_vlaanderen,2025,761701053,,,outturn,src_wiv_jv2025_residual,strong,FS3 assigned in 2025 on 2024 budget 761.7m of 870 (NB 345.9 reno 396.3 zero-rate transfer 19.5); tick742
+bud_wiv_fs3_zero_transfer_19_52m_2025,wonen_in_vlaanderen,2025,19517170.7,,,outturn,src_wiv_jv2025_residual,strong,Zero-rate loans for WM property transfers 19.52m 2025 (3pct of FS3 assign); tick742
+bud_wiv_market_finance_202_87m_2025,wonen_in_vlaanderen,2025,202870000,,,outturn,src_wiv_jv2025_residual,strong,Market-rate finance assigned 202.87m of max 220m 2025; tick742
+bud_wiv_market_finance_cap_220m_2025,wonen_in_vlaanderen,2025,220000000,,,budgeted,src_wiv_jv2025_residual,strong,Market-rate finance annual cap 220m 2024-25; tick742
+bud_wiv_doorverhuur_base_29_725m_2025,wonen_in_vlaanderen,2025,29724551.56,,,outturn,src_wiv_jv2025_residual,strong,Doorverhuur base+aanvullend subsidy 29.725m to 41 WM 2025; tick742
+bud_wiv_doorverhuur_growth_0_172m_2025,wonen_in_vlaanderen,2025,171925.75,,,outturn,src_wiv_jv2025_residual,strong,Doorverhuur growth subsidy 0.172m 2025; tick742
+bud_wiv_doorverhuur_via_1_380m_2025,wonen_in_vlaanderen,2025,1380450.11,,,outturn,src_wiv_jv2025_residual,strong,Doorverhuur VIA subsidy 1.380m 2025; tick742
+bud_wiv_doorverhuur_total_class_31_3m_2025,wonen_in_vlaanderen,2025,31276927.42,,,outturn,src_wiv_jv2025_residual,strong,Doorverhuur total class base+growth+VIA 31.277m 2025; tick742
+bud_wiv_newbuild_tender_rental_830_2025,wonen_in_vlaanderen,2025,830,,,outturn,src_wiv_jv2025_residual,medium,Newbuild tenders rental COUNT 830 2025 provisional undercount; tick742
+bud_wiv_newbuild_tender_sale_145_2025,wonen_in_vlaanderen,2025,145,,,outturn,src_wiv_jv2025_residual,medium,Newbuild tenders sale COUNT 145 2025 provisional; tick742
+bud_wiv_newbuild_delivered_rental_1190_2025,wonen_in_vlaanderen,2025,1190,,,outturn,src_wiv_jv2025_residual,medium,Newbuild delivered rental 1190 2025 provisional undercount; tick742
+bud_wiv_newbuild_delivered_sale_275_2025,wonen_in_vlaanderen,2025,275,,,outturn,src_wiv_jv2025_residual,medium,Newbuild delivered sale 275 2025 provisional; tick742
+bud_wiv_purchases_good_stock_141_2025,wonen_in_vlaanderen,2025,141,,,outturn,src_wiv_jv2025_residual,strong,Good existing dwellings purchased 141 2025; tick742
+bud_wiv_sales_social_261_2025,wonen_in_vlaanderen,2025,261,,,outturn,src_wiv_jv2025_residual,strong,Social rental dwellings sold 261 2025 (moratorium to 2028); tick742
+bud_wiv_reno_delivered_1566_2025,wonen_in_vlaanderen,2025,1566,,,outturn,src_wiv_jv2025_residual,medium,Renovated social dwellings delivered 1566 2025 provisional; tick742
+bud_wiv_replacement_build_648_2025,wonen_in_vlaanderen,2025,648,,,outturn,src_wiv_jv2025_residual,medium,Replacement builds delivered 648 2025 provisional; tick742
+bud_wiv_vkf_energy_prem_28_994m_2025,wonen_in_vlaanderen,2025,28993525,,,outturn,src_wiv_jv2025_residual,strong,VKF energy renovation premiums granted 28.994m 2025 (cum 2021-25 115.54m); tick742
+bud_wiv_vkf_energy_prem_cum_115_54m_2021_25,wonen_in_vlaanderen,2025,115540000,,,outturn,src_wiv_jv2025_residual,strong,VKF energy premiums cumulative 2021-2025 115.54m class; tick742
+bud_wiv_design_insulate_roofs_5_441m_2025,wonen_in_vlaanderen,2025,5441176.78,,,outturn,src_wiv_jv2025_residual,strong,Design&Insulate roofs framework assigned 5.441m 2025; tick742
+bud_wiv_design_insulate_cavity_1_943m_cum,wonen_in_vlaanderen,2025,1942559.14,,,outturn,src_wiv_jv2025_residual,strong,Design&Insulate cavity walls ordered cum 1.943m eoy2025; tick742
+bud_wiv_modular_framework_543_units,wonen_in_vlaanderen,2025,543,,,outturn,src_wiv_jv2025_residual,strong,Modular housing framework mini-competitions 543 dwellings (18 delivered 2025); tick742
+bud_wiv_basiskoten_100m_1744_2024,wonen_in_vlaanderen,2024,100000000,,,outturn,src_wiv_jv2025_residual,strong,Boost basiskot track3 100m fully assigned 2024 for 1744 rooms (864 net growth class); tick742
+bud_wiv_staff_480_2025,wonen_in_vlaanderen,2025,480,,,outturn,src_wiv_jv2025_residual,strong,WiV staff COUNT 480 / 440.5 FTE eoy2025; tick742
+bud_wiv_staff_fte_440_5_2025,wonen_in_vlaanderen,2025,440.5,,,outturn,src_wiv_jv2025_residual,strong,WiV FTE 440.5 eoy2025; tick742
+bud_wiv_complaints_mvp_633_2025,wonen_in_vlaanderen,2025,633,,,outturn,src_wiv_jv2025_residual,strong,MVP MijnVerbouwPremie complaints receivable 633 (170 grounded) 2025; tick742
+bud_wiv_helpdesk_8825_2025,wonen_in_vlaanderen,2025,8825,,,outturn,src_wiv_jv2025_residual,strong,Helpdesk questions answered 8825 2025 (was 10979); tick742
+bud_wiv_municipal_vacancy_register_30807_2025,wonen_in_vlaanderen,2025,30807,,,outturn,src_wiv_jv2025_residual,medium,Municipal vacancy register stock ~30807 dwellings/buildings (~200 communes) eoy2025; tick742
+bud_wiv_vdab_fines_564_2025,wonen_in_vlaanderen,2025,564,,,outturn,src_wiv_jv2025_residual,strong,Toezicht VDAB-registration fines COUNT 564 2025 (many later waived for disability ~1/3); tick742
+bud_dual_wiv_stock_178743_vs_swl_103293,gg_belgium,2025,178743,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL social stock 178743 dual SWL 103293 / SLRB ~42k class / FLRBC 1602 own; not TE-additive; tick742
+bud_dual_wiv_waitlist_215337_vs_swl_49945,gg_belgium,2025,215337,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL CIR waitlist 215337 dual SWL 49945 / BCR demand residual; tick742
+bud_dual_wiv_vacancy_10_51pct_vs_housing,gg_belgium,2025,18793,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL owned vacancy 10.51pct (18793) dual SWL rotation 6.69pct / SLRB arrears residual; tick742
+bud_dual_wiv_huursubsidie_68_5m_vs_wal,gg_belgium,2025,68511515,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL huursubsidie 68.5m + huurpremie 63.5m dual WAL housing aids class; tick742

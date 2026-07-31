@@ -8825,3 +8825,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity vmsw notes; budgets (+52); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_vmsw_jv2025_residual_l5**; raw JV+JR PDFs+txt+write; rq_732=done; spawn **rq_733**; loop_state ticks=741
 - FOI opened: gap_vmsw_jv2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_733; progress@750 in 9; rq_116 deferred
+
+### 2026-08-02T08:15:00Z — tick 742
+- Unit: **rq_733** (FOI-adjacent residual dual — **Wonen in Vlaanderen Jaarverslag 2025 residual dual VMSW/SWL**)
+- Found (primary WiV JV2025, 96p, publicaties.vlaanderen.be/view-file/85714):
+  - **Stock:** **178 743** social rentals (owned **166 077** + rented-in **12 666**); vacancy owned **18 793 (10.51%)** of which **59% structural** (+6% YoY)
+  - **Waitlist CIR:** **215 337** active (15% already social tenants); new 44 521 / deleted 34 149; avg wait **5 years**
+  - **Affordability:** huursubsidie **€68.5m** / 21 877 · huurpremie **€63.5m** / 23 353 · EKM **€90.3m** / 576 · mean social rent **€427.33**
+  - **Finance (agency lens dual VMSW):** FS3 assign on 2024 budget **€761.7m** (NB 345.9 reno 396.3 zero-transfer 19.5); **FS3 2025 still €0 assign**; market finance **€202.9m** of 220; doorverhuur **€31.3m**
+  - **Supply:** tenders 830 rental+145 sale; delivered 1190+275 provisional; reno 1566 + replacement 648; VKF energy **€29.0m** (cum 115.5)
+  - **Security:** FBU 256 approved; noodwoningen call **€10.2m**; VGW Ethias payouts **€4.99m**
+  - Staff **480** / 440.5 FTE; MVP complaints 633 (170 grounded)
+  - Dual SWL stock 103k waitlist 50k / VMSW debt 10.5bn / SLRB liq 803 not TE-additive
+- Wrote: entity wonen_in_vlaanderen; budgets (+55); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_wiv_jv2025_residual_l5**; raw PDF+txt+write; rq_733=done; spawn **rq_734**; loop_state ticks=742
+- FOI opened: gap_wiv_jv2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_734; progress@750 in 8; rq_116 deferred

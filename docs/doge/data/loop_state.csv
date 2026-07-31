@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T07:45:00Z,rq_732,741,no,tick741 VMSW JV/JR2025 residual dual SWL/SLRB/FLRBC; next rq_733; progress@750 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T08:15:00Z,rq_733,742,no,tick742 WiV JV2025 residual dual VMSW/SWL; next rq_734; progress@750 in 8; rq_116 deferred
