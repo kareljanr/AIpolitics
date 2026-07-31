@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T12:00:00Z,rq_576,585,no,tick585 Intradel Liege CA 125m dual HYGEA waste COPIDEC; next rq_577; progress@590 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T12:15:00Z,rq_577,586,no,tick586 IPALLE multi-utility CA 83m assets 380m dual Intradel waste COPIDEC; next rq_578; progress@590 in 4; rq_116 deferred

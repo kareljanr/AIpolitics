@@ -7161,3 +7161,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+intradel +uvelia); budgets (+38); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_intradel_commune_l5_2025; rq_576=done; spawn rq_577; loop_state ticks=585
 - FOI opened: gap_intradel_commune_l5_2025 → ready (not sent)
 - Next: rq_577; progress@590 in 5 ticks; rq_116 deferred
+
+### 2026-07-31T12:15:00Z — tick 586
+- Unit: rq_577 (FOI-adjacent dual waste hole-fill — **IPALLE** Wallonie picarde / Sud-Hainaut)
+- Found: **IPALLE** RSE Finances et Durabilité 2025 (primary PDF Beloeil AG 2026, 244 pp). **CA €83.021m** (ventes €128.125m); **op €6.719m**; **net €8.886m**; **dividend €4.637m** + reserves €4.250m. **Assets €379.702m**; **equity €185.416m**; **dettes €162.900m** (LT €98.618m ST €55.072m); **provisions €31.386m**; personnel **€33.651m** / ~**420** staff; **31 communes** / **400k+ hab** (treats waste for ~**1m** incl Mons region); **26 recyparcs**; UVE Thumaide sector A prest **€37.578m** CA **€19.892m** net **€1.273m** elec ~**283 GWh**; eau F ventes **€27.080m** assets **€107.160m**; droit tirage **4.67 EUR/hab**; dual waste vs **INTRADEL** (profit 8.9m/assets 380m vs loss 12.7m/assets 187m). Strong confidence.
+- Wrote: entities (+ipalle); budgets (+40); commitments (+2); leaderboard (+7); sources (+2); raw PDF; FOI draft gap_ipalle_commune_l5_2025; rq_577=done; spawn rq_578; loop_state ticks=586
+- FOI opened: gap_ipalle_commune_l5_2025 → ready (not sent)
+- Next: rq_578; progress@590 in 4 ticks; rq_116 deferred

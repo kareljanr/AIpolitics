@@ -10796,3 +10796,43 @@ bud_intradel_waste_kg_hab_2025,intradel,2025,478,,,outturn,src_intradel_rg_2025,
 bud_intradel_ubdo_subsidy_prov_2025,intradel,2025,1863845,,,outturn,src_intradel_rg_2025,strong,Provision moratoire subsides UBDO infrastructure 1.864m 2025; tick585
 bud_intradel_mtm_hedge_2025,intradel,2025,-450046,,,outturn,src_intradel_rg_2025,strong,MTM couverture taux COLLAR/IRS ING -0.450m 2025; tick585
 bud_intradel_gross_invest_cumul,intradel,2025,523739452,,,outturn,src_intradel_rg_2025,strong,Valeur brute investissements cumul depuis creation 523.739m; tick585
+bud_ipalle_ca_2025,ipalle,2025,83021338,,,outturn,src_ipalle_rse_2025,strong,IPALLE chiffre d affaires 83.021m 2025 (vs 77.782m 2024); tick586
+bud_ipalle_ventes_2025,ipalle,2025,128124970,,,outturn,src_ipalle_rse_2025,strong,IPALLE ventes et prestations 128.125m 2025; tick586
+bud_ipalle_other_op_prod_2025,ipalle,2025,45469109,,,outturn,src_ipalle_rse_2025,strong,IPALLE autres produits exploitation 45.469m 2025; tick586
+bud_ipalle_costs_2025,ipalle,2025,121405603,,,outturn,src_ipalle_rse_2025,strong,IPALLE cout ventes prestations 121.406m 2025; tick586
+bud_ipalle_services_2025,ipalle,2025,59468907,,,outturn,src_ipalle_rse_2025,strong,IPALLE services biens divers 59.469m 2025; tick586
+bud_ipalle_personnel_2025,ipalle,2025,33650644,,,outturn,src_ipalle_rse_2025,strong,IPALLE remunerations charges pensions 33.651m 2025; tick586
+bud_ipalle_amort_2025,ipalle,2025,13639142,,,outturn,src_ipalle_rse_2025,strong,IPALLE amortissements 13.639m 2025; tick586
+bud_ipalle_op_result_2025,ipalle,2025,6719366,,,outturn,src_ipalle_rse_2025,strong,IPALLE resultat exploitation 6.719m 2025; tick586
+bud_ipalle_fin_prod_2025,ipalle,2025,12984565,,,outturn,src_ipalle_rse_2025,strong,IPALLE produits financiers 12.985m 2025; tick586
+bud_ipalle_fin_charges_2025,ipalle,2025,6637535,,,outturn,src_ipalle_rse_2025,strong,IPALLE charges financieres 6.638m 2025; tick586
+bud_ipalle_tax_2025,ipalle,2025,4180126,,,outturn,src_ipalle_rse_2025,strong,IPALLE impots sur resultat 4.180m 2025; tick586
+bud_ipalle_net_result_2025,ipalle,2025,8886271,,,outturn,src_ipalle_rse_2025,strong,IPALLE benefice exercice 8.886m 2025 (vs 10.319m 2024); tick586
+bud_ipalle_dividend_2025,ipalle,2025,4636618,,,outturn,src_ipalle_rse_2025,strong,IPALLE remuneration apport dividend 4.637m 2025; tick586
+bud_ipalle_reserves_alloc_2025,ipalle,2025,4249653,,,outturn,src_ipalle_rse_2025,strong,IPALLE affectation reserves disponibles 4.250m 2025; tick586
+bud_ipalle_assets_2025,ipalle,2025,379702045,,,outturn,src_ipalle_rse_2025,strong,IPALLE total bilan 379.702m 2025 (vs 366.250m 2024); tick586
+bud_ipalle_fixed_assets_2025,ipalle,2025,220488045,,,outturn,src_ipalle_rse_2025,strong,IPALLE actifs immobilises 220.488m 2025; tick586
+bud_ipalle_tangible_2025,ipalle,2025,163488326,,,outturn,src_ipalle_rse_2025,strong,IPALLE immobilisations corporelles 163.488m 2025; tick586
+bud_ipalle_fin_assets_2025,ipalle,2025,55573047,,,outturn,src_ipalle_rse_2025,strong,IPALLE immobilisations financieres 55.573m 2025; tick586
+bud_ipalle_current_assets_2025,ipalle,2025,159214000,,,outturn,src_ipalle_rse_2025,strong,IPALLE actifs circulants 159.214m 2025; tick586
+bud_ipalle_placements_2025,ipalle,2025,120631769,,,outturn,src_ipalle_rse_2025,strong,IPALLE placements tresorerie 120.632m 2025; tick586
+bud_ipalle_cash_2025,ipalle,2025,8965111,,,outturn,src_ipalle_rse_2025,strong,IPALLE valeurs disponibles 8.965m 2025; tick586
+bud_ipalle_equity_2025,ipalle,2025,185415760,,,outturn,src_ipalle_rse_2025,strong,IPALLE capitaux propres 185.416m 2025; tick586
+bud_ipalle_provisions_2025,ipalle,2025,31386244,,,outturn,src_ipalle_rse_2025,strong,IPALLE provisions 31.386m 2025; tick586
+bud_ipalle_dettes_2025,ipalle,2025,162900041,,,outturn,src_ipalle_rse_2025,strong,IPALLE dettes totales 162.900m 2025; tick586
+bud_ipalle_lt_debt_2025,ipalle,2025,98618088,,,outturn,src_ipalle_rse_2025,strong,IPALLE dettes a plus un an 98.618m 2025; tick586
+bud_ipalle_st_debt_2025,ipalle,2025,55071621,,,outturn,src_ipalle_rse_2025,strong,IPALLE dettes a un an 55.072m 2025; tick586
+bud_ipalle_lease_lt_2025,ipalle,2025,44460960,,,outturn,src_ipalle_rse_2025,strong,IPALLE location-financement LT 44.461m 2025; tick586
+bud_ipalle_bank_lt_2025,ipalle,2025,46223418,,,outturn,src_ipalle_rse_2025,strong,IPALLE etablissements credit LT 46.223m 2025; tick586
+bud_ipalle_subsides_capital_2025,ipalle,2025,13040056,,,outturn,src_ipalle_rse_2025,strong,IPALLE subsides en capital 13.040m 2025; tick586
+bud_ipalle_uve_prest_2025,ipalle,2025,37578232,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE secteur A prestations 37.578m CA 19.892m 2025; tick586
+bud_ipalle_uve_ca_2025,ipalle,2025,19892110,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE Thumaide CA 19.892m 2025; tick586
+bud_ipalle_uve_net_2025,ipalle,2025,1272794,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE secteur A net 1.273m 2025; tick586
+bud_ipalle_pc_ventes_2025,ipalle,2025,22273536,,,outturn,src_ipalle_rse_2025,strong,IPALLE PC recyparcs collectes ventes 22.274m 2025; tick586
+bud_ipalle_pc_net_2025,ipalle,2025,184401,,,outturn,src_ipalle_rse_2025,strong,IPALLE PC net 0.184m (op loss -0.099m); tick586
+bud_ipalle_eau_ventes_2025,ipalle,2025,27079893,,,outturn,src_ipalle_rse_2025,strong,IPALLE eau secteur F ventes 27.080m (SPGE exploit); tick586
+bud_ipalle_eau_assets_2025,ipalle,2025,107160486,,,outturn,src_ipalle_rse_2025,strong,IPALLE eau secteur F assets 107.160m 2025; tick586
+bud_ipalle_eau_net_2025,ipalle,2025,717714,,,outturn,src_ipalle_rse_2025,strong,IPALLE eau secteur F net 0.718m 2025; tick586
+bud_ipalle_c1_ca_2025,ipalle,2025,11882066,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE DIB C1 CA 11.882m net 2.026m 2025; tick586
+bud_ipalle_c2_ca_2025,ipalle,2025,19948334,,,outturn,src_ipalle_rse_2025,strong,IPALLE UVE DIB C2 CA 19.948m net 1.789m 2025; tick586
+bud_ipalle_droit_tirage_eur_hab_2025,ipalle,2025,0,,,outturn,src_ipalle_rse_2025,strong,IPALLE droit de tirage 4.67 EUR/hab 2025; cum 30m/10y communes; amount per-hab not total; tick586
