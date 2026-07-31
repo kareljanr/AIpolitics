@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T03:00:00Z,rq_636,645,no,tick645 recettes Ste Emilie 4.67bn LSF competences 3.30bn dual FWB fed; next rq_637; progress@650 in 5; rq_116 deferred
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-01T03:15:00Z,rq_637,646,no,tick646 DO10 PRW FRR 2.255bn CL dual VV; next rq_638; progress@650 in 4; rq_116 deferred

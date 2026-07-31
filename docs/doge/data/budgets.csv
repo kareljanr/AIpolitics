@@ -1,4 +1,4 @@
-﻿budget_id,entity_id,year,amount_eur,amount_min_eur,amount_max_eur,basis,source_id,confidence,notes
+budget_id,entity_id,year,amount_eur,amount_min_eur,amount_max_eur,basis,source_id,confidence,notes
 bud_gg_2025_total,gg_belgium,2025,347956000000,,,esa,src_nbb_edp_2025_apr,strong,Total expenditure S.13 ESA/EDP; 54.2% of GDP; NAI Table 1 (EUR million 347956). Cross-check Eurostat TE 347956.3m
 bud_gg_2025_primary,gg_belgium,2025,333675000000,,,esa,src_nbb_edp_2025_apr,strong,Primary expenditure; 52.0% of GDP; NAI Table 1 (EUR million 333675); subset of total
 bud_gg_2024_total,gg_belgium,2024,335100000000,,,esa,src_nbb_edp_2025_apr,strong,Total expenditure S.13; 54.1% of GDP; NAI Table 1 (EUR million 335100). Eurostat TE 335100.1m
@@ -11742,3 +11742,31 @@ bud_wal_amendes_routieres_rec_bi2025,wallonie_gov,2025,56950000,,,budgeted,src_c
 bud_wal_rrf_ue_rec_bi2025,wallonie_gov,2025,1029600000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Recettes RRF UE 1029.600m path -43.864m
 bud_wal_emprunts_rec_bi2025,wallonie_debt,2025,4075143000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Recettes d emprunts 4075.143m path +700.636m
 bud_fwb_ste_emilie_sp_class_bi2025,fwb_gov,2025,4498500000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,medium,FWB section particuliere Ste Emilie retrocession class 4498.5m (CoA: wrongly reduced by 172.2m hospital past charges)
+bud_do10_ce_bi2025,do10_secretariat_wal,2025,732811000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 Secretariat BI2025 CE 732.811m path eng -1303.115m vs BA2024 2035.926m; tick646
+bud_do10_cl_bi2025,do10_secretariat_wal,2025,2274208000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 Secretariat BI2025 CL 2274.208m path liq -117.339m vs BA2024 2391.547m; tick646
+bud_do10_ce_ba2024,do10_secretariat_wal,2024,2035926000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 BA2024 CE 2035.926m (pre path to BI2025); tick646
+bud_do10_cl_ba2024,do10_secretariat_wal,2024,2391547000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 BA2024 CL 2391.547m; tick646
+bud_do10_exec_class_coa,do10_secretariat_wal,2024,638794000,,,outturn,src_ccrek_do10_prw_frr_bi2025,strong,DO10 CoA table execution class 638.794m (reference col); tick646
+bud_do10_path_eng_bi2025,do10_secretariat_wal,2025,-1303115000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 path eng -1303.115m BI2025 vs BA2024; tick646
+bud_do10_path_liq_bi2025,do10_secretariat_wal,2025,-117339000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 path liq -117.339m BI2025 vs BA2024; tick646
+bud_prw_122_ce_ba2024,prw_frr_wallonie,2024,1999932000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Prog122 PRW+FRR BA2024 CE 1999.932m; tick646
+bud_prw_122_cl_ba2024,prw_frr_wallonie,2024,2239004000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Prog122 PRW+FRR BA2024 CL 2239.004m; tick646
+bud_prw_122_path_eng_bi2025,prw_frr_wallonie,2025,-1286432000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Prog122 path eng -1286.432m BI2025 (CE 713.5 from 2000); tick646
+bud_prw_122_path_liq_bi2025,prw_frr_wallonie,2025,15950000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Prog122 path liq +15.950m BI2025; tick646
+bud_prw_122_exec_class_coa,prw_frr_wallonie,2024,4586000,,,outturn,src_ccrek_do10_prw_frr_bi2025,medium,Prog122 CoA execution class only 4.586m vs CL 2.255bn opacity signal; tick646
+bud_prw_provision_eng_bi2025,prw_frr_wallonie,2025,444100000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Provision Plan de relance wallon eng 444.1m BI2025 path -43.7pct vs BI2024 1016.6m; tick646
+bud_prw_provision_eng_bi2024,prw_frr_wallonie,2024,1016600000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Provision PRW eng BI2024 1016.6m; tick646
+bud_frr_recettes_bi2025,prw_frr_wallonie,2025,920000000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,FRR/RRF recettes BI2025 920.0m (two AB half code8); tick646
+bud_repower_eu_recettes_bi2025,prw_frr_wallonie,2025,109600000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,RePower EU recettes BI2025 109.6m half code8; tick646
+bud_frr_rrf_repower_rec_sum_bi2025,prw_frr_wallonie,2025,1029600000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,FRR 920 + RePower 109.6 = 1029.6m class (matches recettes RRF line prior); tick646
+bud_frr_ba2024_adj_eng,prw_frr_wallonie,2024,447000000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,BA2024 adjustment FRR DF122.002/003 eng +447.0m; tick646
+bud_frr_ba2024_adj_liq,prw_frr_wallonie,2024,200000000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,BA2024 adjustment FRR liq +200.0m; tick646
+bud_prw_traj_bi2025_class,prw_frr_wallonie,2025,2240000000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Gouv trajectory: plan de relance spend class 2240m at BI2025 project; tick646
+bud_prw_traj_2026_class,prw_frr_wallonie,2026,1180600000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Trajectory PRW-linked spend class 1180.6m in 2026; tick646
+bud_prw_traj_2028_class,prw_frr_wallonie,2028,150000000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Trajectory PRW spend class 150m in 2028 and 2029; tick646
+bud_prw_prog028_cl_ba2024,prw_frr_wallonie,2024,119491000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Prog028 Plan de relance BA2024 CL 119.491m zeroed BI2025 (reclass to 122); tick646
+bud_prw_prog028_path_liq_bi2025,prw_frr_wallonie,2025,-119491000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,Prog028 path liq -119.491m BI2025 (zeroed); tick646
+bud_do10_018_tourisme_cl_bi2025,do10_secretariat_wal,2025,69868000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 prog018 Tourisme CL BI2025 69.868m path -4.904m; tick646
+bud_do10_019_rel_ext_cl_bi2025,do10_secretariat_wal,2025,30698000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 prog019 Relations exterieures CL 30.698m path -7.589m; tick646
+bud_do10_020_awex_cl_bi2025,do10_secretariat_wal,2025,67547000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO10 prog020 Commerce exterieur AWEX CL 67.547m path -9.428m; tick646
+bud_do12_gestion_digital_cl_bi2025,wallonie_gov,2025,54914000,,,budgeted,src_ccrek_do10_prw_frr_bi2025,strong,DO12 prog029 Gestion du digital CL 54.914m; tick646
