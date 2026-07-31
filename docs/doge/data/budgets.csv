@@ -13716,3 +13716,31 @@ bud_vl_repower_unutil_vak_27_5m_2025,vlaanderen_gov,2025,27500000,,,outturn,src_
 bud_vl_repower_go_scholen_25_5m,vlaanderen_gov,2026,25500000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU GO! scholen total 25.5 paid 2.2 residual 23.3; dual SKF; tick698
 bud_vl_repower_vipa_zorg_24m,vlaanderen_gov,2026,24000000,,,budgeted,src_ccrek_vl_ba2026_skf_repower_t67,strong,REPowerEU VIPA zorg 24 paid 4.8 residual 19.2; tick698
 bud_dual_skf_fed_bcr_lag_2026,gg_belgium,2026,0,,,estimate,src_dual_vl_skf_fed_bcr_tick698,strong,Dual: VL plan ready fed+BCR lag BE EC filing; receipt risk; tick698
+bud_wal_rec_total_aju_22087_9m_2026,wallonie_gov,2026,22087935000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Total receipts aju 22087.9m (+602.2 / +2.8pct vs IB 21485.7); T7; tick699
+bud_wal_rec_fiscal_7024_8m_2026,wallonie_gov,2026,7024782000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Fiscal receipts aju 7024.8 (+182.3); tick699
+bud_wal_ipp_net_3801_0m_2026,wallonie_gov,2026,3801038000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,IPP additionnels net aju 3801.0 (+128.9); T8; tick699
+bud_wal_ipp_brut_4639_6m_2026,wallonie_gov,2026,4639607000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,IPP centimes brut aju 4639.6 (+123.7); tick699
+bud_wal_ipp_taxex_813_8m_2026,wallonie_gov,2026,813763000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,WAL IPP depenses fiscales 813.8 (+0.8); dual taxex; tick699
+bud_wal_impots_regionaux_3092_6m_2026,wallonie_gov,2026,3092610000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Impots regionaux total 3092.6 (+54.4); fed-perceived 2151.9 region 940.7; tick699
+bud_wal_rec_transferees_8600_7m_2026,wallonie_gov,2026,8600671000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Transferred receipts 8600.7 (+26.2); tick699
+bud_wal_sainte_emilie_4761_2m_2026,wallonie_gov,2026,4761198000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Sainte-Emilie from FWB 4761.2 (+18.9); dual FWB; tick699
+bud_wal_sainte_emilie_fwb_section_4615_2m,wallonie_gov,2026,4615200000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,FWB section particuliere Sainte-Emilie 4615.2 before wrong hospital net; tick699
+bud_wal_hospital_past_charges_146m_2026,wallonie_gov,2026,146000000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Hospital past charges 146 wrongly netted by FWB; WAL books DF093.027 expense; non-compensation; tick699
+bud_wal_fwb_decret2_451_1m_2026,wallonie_gov,2026,451139000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,FWB Decret II 1993 dotation 451.1 (+7.4 inflation); tick699
+bud_wal_competences_transferees_3331_4m_2026,wallonie_gov,2026,3331384000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,LSF competences transferrees 3331.4 stable; tick699
+bud_wal_fisir_road_fines_139_2m_2026,wallonie_gov,2026,139200000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Road fines 57.0 general + 82.2 Fisir = 139.2 (IB 144.5); tick699
+bud_wal_fisir_affect_82_2m_2026,wallonie_gov,2026,82200000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Fisir affected road fines 82.2 (threshold 57); tick699
+bud_wal_aad_tax_30m_2026,wallonie_gov,2026,30000000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,medium,AAD automatic games tax aju 30 (IB 20); CoA soft if 2025 outturn 20.9 not 8.7; tick699
+bud_wal_divertissement_total_91_4m_2026,wallonie_gov,2026,91400000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Divertissement total aju 91.4 (jeux 61.4 + AAD 30); tick699
+bud_wal_vehicle_taxes_797_1m_2026,wallonie_gov,2026,797123000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Vehicle TC+TMC aju 797.1 (+9.8); dual VL traffic; tick699
+bud_wal_vehicle_encours_346_5m_2026,wallonie_gov,2026,346500000,,,outturn,src_ccrek_wal_aju2026_receipts_t7_11,strong,Vehicle tax encours 346.5 at 30Apr2026; doubtful 64.9 pending 69.7; tick699
+bud_wal_vehicle_doubtful_64_9m_2026,wallonie_gov,2026,64900000,,,outturn,src_ccrek_wal_aju2026_receipts_t7_11,strong,Vehicle tax doubtful receivables 64.9; tick699
+bud_wal_rec_diverses_836_9m_2026,wallonie_gov,2026,836854000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Recettes diverses 836.9 (+55.4); tick699
+bud_wal_we_treso_repat_20m_2026,wallonie_gov,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,WE treasury repatriation +20 to ease financing need; dual UAP cash pool; tick699
+bud_wal_opw_refund_11_9m_2026,wallonie_gov,2026,11900000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,OPW 2025 dotation surplus refund 11.9; tick699
+bud_wal_rep_retail_waste_17_7m_2026,wallonie_gov,2026,17700000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,REP retail waste half-year contribution 17.7 (coop 9Feb2026); tick699
+bud_wal_rrf_rec_1188_7m_2026,wallonie_gov,2026,1188666000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,RRF receipts aju 1188.7 (+354.3 matches dep); dual VL RRF; tick699
+bud_wal_emprunt_rec_4059_5m_2026,wallonie_gov,2026,4059524000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,Borrowing receipts 4059.5 (renew 1101.9 new 2957.6); Lobo option +85 path; tick699
+bud_wal_june_params_upside_123_5m,wallonie_gov,2026,123500000,,,estimate,src_ccrek_wal_aju2026_receipts_t7_11,medium,If June 2026 BFP params used LSF receipts +123.5 vs Feb; not booked; tick699
+bud_all_regions_centimes_16897_5m_2026,gg_belgium,2026,16897500000,,,budgeted,src_ccrek_wal_aju2026_receipts_t7_11,strong,All-region IPP centimes pool aju 16897.5 (IB 16485.8); tick699
+bud_dual_wal_ipp_vl_opcent_2026,gg_belgium,2026,3801038000,,,budgeted,src_dual_wal_vl_ipp_receipts_tick699,strong,Dual WAL IPP 3.80bn vs VL opcentiemen 10.79bn; not TE-additive; tick699

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T16:15:00Z,rq_689,698,no,tick698 VL SKF 958.8 REPower dual; next rq_690; progress@700 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T16:30:00Z,rq_690,699,no,tick699 WAL receipts 22.09bn dual VL IPP; next rq_691 PROGRESS@700; rq_116 deferred

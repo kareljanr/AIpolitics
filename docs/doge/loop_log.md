@@ -8220,3 +8220,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+26); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_skf_repower_l5**; rq_689=done; spawn **rq_690**; loop_state ticks=698
 - FOI opened: gap_vl_ba2026_skf_repower_l5 — ready (not sent)
 - Next: rq_690; progress@700 in 2 ticks; rq_116 deferred
+
+### 2026-08-01T16:30:00Z — tick 699
+- Unit: **rq_690** (FOI-adjacent dual residual — **WAL receipts 22.09bn + IPP 3.80 + Sainte-Émilie hospital 146 dual VL**)
+- Found (primary CoA 2026_26 T7–T11):
+  - Total rec aju **22087.9** (+**602.2** / +2.8%): fiscal **7024.8** · transferred **8600.7** · nonfisc **1214.3** · RRF **1188.7** (+354.3) · emprunts **4059.5**
+  - **IPP** net **3801.0** (+128.9): brut **4639.6** taxex **813.8** coeff **99.52%**; all-region centimes **16897.5**
+  - **Sainte-Émilie 4761.2** (+18.9); FWB section **4615.2** wrongly nets hospital past **146** (WAL expense DF093.027 non-compensation)
+  - FWB Decret II **451.1**; Fisir fines **57+82.2=139.2**; AAD **+10 soft** (admin 8.7 vs outturn 20.9)
+  - Vehicle **797.1** encours **346.5** doubtful **64.9** pending **69.7**; WE treso **+20**; REP **17.7**; June params upside **+123.5** unused
+  - Dual VL opcentiemen **10.79bn**; Strong CoA; L5 FOI.
+- Wrote: budgets (+28); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_receipts_l5**; rq_690=done; spawn **rq_691 PROGRESS@700**; loop_state ticks=699
+- FOI opened: gap_wal_aju2026_receipts_l5 — ready (not sent)
+- Next: **rq_691 PROGRESS@700**; rq_116 deferred
