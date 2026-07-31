@@ -15900,3 +15900,45 @@ bud_fsi_dots_stack_2026,belspo,2026,132588000,,,derived,src_kamer_belspo_1281_01
 bud_dual_esa_defence_cm25_2026,gg_belgium,2026,0,,,derived,src_dual_belspo_esa_fsi_tick761,strong,Dual ESA CM25: BELSPO budget 227m + Defence 168m path + 400m provis 2026-29 not TE-additive cash years FOI; tick761
 bud_dual_myrrha_belspo_economy_2026,gg_belgium,2026,18145000,,,derived,src_dual_belspo_esa_fsi_tick761,strong,Dual MYRRHA BELSPO 7.11+1.485 + Economy 7.9+1.65 class ~18.1m 2026 not double-count TE; tick761
 bud_dual_whi_defence_belspo_2026,gg_belgium,2026,16150000,,,derived,src_dual_belspo_esa_fsi_tick761,strong,Dual WHI fed 16.15m via Defence OAP/50.9 not BELSPO FSI table; Horizon50-200 detach residual; tick761
+bud_fin_oa40_total_eng_2026,fod_finance,2026,740512000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 staff services total eng 740512 kEUR 2026 (liq 742512); tick762
+bud_fin_oa40_statutair_2026,fod_finance,2026,126500000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 statutair pay 126500 kEUR 2026; tick762
+bud_fin_oa40_contract_2026,fod_finance,2026,19500000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 non-statutair 19500 kEUR 2026; tick762
+bud_fin_oa40_ops_2026,fod_finance,2026,118700000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 general ops 118700 kEUR 2026; tick762
+bud_fin_oa40_it_ops_eng_2026,fod_finance,2026,164000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 IT ops eng 164000 / liq 171000 kEUR 2026 digitalisation; tick762
+bud_fin_oa40_it_ops_liq_2026,fod_finance,2026,171000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 IT ops liq 171000 kEUR 2026; tick762
+bud_fin_oa40_egov_smals_2026,fod_finance,2026,39600000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 eGov detached personnel 39600 kEUR 2026 dual Smals path; tick762
+bud_fin_oa40_court_costs_2026,fod_finance,2026,55860000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 court/prosecution costs 55860 kEUR 2026; tick762
+bud_fin_oa40_bpost_trans_2026,fod_finance,2026,8579000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 state accountants Post/bpost transactions 8579 kEUR 2026 (was 23000 2024); tick762
+bud_fin_oa40_invest_gen_2026,fod_finance,2026,31500000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 general invest eng 31500 kEUR 2026; tick762
+bud_fin_oa40_invest_it_2026,fod_finance,2026,24700000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 IT invest 24700 kEUR 2026; tick762
+bud_fin_oa40_fedorest_2026,fod_finance,2026,30772000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 FEDOREST cafeteria/dot 30772 kEUR 2026; tick762
+bud_fin_oa40_reg_tax_vl_2026,fod_finance,2026,62765000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 Flanders regional tax collection dot 62765 kEUR 2026; tick762
+bud_fin_oa40_reg_tax_wal_2026,fod_finance,2026,18479000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 Wallonia regional tax collection dot 18479 kEUR 2026; tick762
+bud_fin_oa40_reg_tax_bru_2026,fod_finance,2026,6724000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA40 BCR group4 tax service residual 6724 kEUR 2026; tick762
+bud_fin_oa51_fiscal_total_2026,fod_finance,2026,582700000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA51 fiscal admin (KMO+GO) total 582700 kEUR 2026; tick762
+bud_fin_oa51_statutair_2026,fod_finance,2026,540000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA51 statutair tax staff 540000 kEUR 2026; tick762
+bud_fin_oa51_contract_2026,fod_finance,2026,28400000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA51 non-statutair 28400 kEUR 2026; tick762
+bud_fin_oa51_indemn_2026,fod_finance,2026,14300000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA51 staff indemnities telework/travel 14300 kEUR 2026; tick762
+bud_fin_oa52_customs_total_2026,fod_finance,2026,230197000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA52 Customs and Excise total 230197 kEUR 2026; tick762
+bud_fin_oa52_statutair_2026,fod_finance,2026,219000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA52 customs statutair 219000 kEUR 2026; tick762
+bud_fin_oa53_collection_total_2026,fod_finance,2026,231121000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA53 Collection and recovery total 231121 kEUR 2026; tick762
+bud_fin_oa53_statutair_2026,fod_finance,2026,164000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA53 collection statutair 164000 kEUR 2026; tick762
+bud_fin_oa53_alimony_adv_2026,fod_finance,2026,43621000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA53 alimony claim advances 43621 kEUR 2026; tick762
+bud_fin_oa54_bbi_total_2026,fod_finance,2026,71800000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA54 Special Tax Inspectorate class total 71800 kEUR 2026; tick762
+bud_fin_oa54_statutair_2026,fod_finance,2026,70300000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA54 BBI statutair 70300 kEUR 2026; tick762
+bud_fin_oa50_beo_total_2026,fod_finance,2026,9800000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA50 policy expertise support total 9800 kEUR 2026; tick762
+bud_fin_oa61_total_2026,fod_finance,2026,166205000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA61 Treasury total eng 166205 kEUR 2026 (excl 2024 one-shot guarantee fund); tick762
+bud_fin_oa61_consign_interest_2026,fod_finance,2026,124000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA61 interest on deposits/consignations 124000 kEUR 2026 flat; tick762
+bud_fin_oa61_fpim_ops_2026,fpim,2026,5900000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA61 FPIM/SFPI ops 5900 kEUR 2026 (was 16022 2024); tick762
+bud_fin_oa61_statutair_2026,fod_finance,2026,12100000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA61 treasury statutair 12100 kEUR 2026; tick762
+bud_fin_oa61_paneuropean_2026,fod_finance,2026,26720000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA61 Pan-European Guarantee Fund path 26720 kEUR 2026; tick762
+bud_fin_oa61_berd_2026,fod_finance,2026,18394000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA61 EBRD capital increase 18394 kEUR 2026; tick762
+bud_fin_oa70_total_2026,fod_finance,2026,246568000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA70 Patrimonial Documentation total eng 246568 kEUR 2026; tick762
+bud_fin_oa70_statutair_2026,fod_finance,2026,214000000,,,budgeted,src_kamer_finance_1281_010_2026,strong,OA70 cadaster/patrimony statutair 214000 kEUR 2026; tick762
+bud_fin_payroll_stack_2026,fod_finance,2026,1454000000,,,derived,src_kamer_finance_1281_010_2026,strong,Major statutair+contract payroll OA40/51/52/53/54/61/70 class ~1.454bn 2026; tick762
+bud_fin_ops_core_stack_2026,fod_finance,2026,2278903000,,,derived,src_kamer_finance_1281_010_2026,strong,Core ops stack OA40+51+52+53+54+50+61+70 totals ~2.279bn 2026 excl assignment funds; tick762
+bud_fin_fund_pit_regions_2026,fod_finance,2026,7319655000,,,budgeted,src_kamer_finance_1281_010_2026,strong,Assignment fund PIT to regions total ~7319655 kEUR 2026 (VL 2831+WAL 3172+BRU 1316m class); tick762
+bud_fin_fund_tobacco_ss_2026,fod_finance,2026,2774178000,,,budgeted,src_kamer_finance_1281_010_2026,strong,Assignment fund tobacco excise to SS 2774178 kEUR 2026; tick762
+bud_fin_fund_aseva_2026,fod_finance,2026,40148000,,,budgeted,src_kamer_finance_1281_010_2026,strong,Assignment fund ASEVA/energy class 40148 kEUR 2026; tick762
+bud_dual_fin_smals_egov_2026,gg_belgium,2026,39600000,,,derived,src_dual_finance_tax_admin_tick762,strong,Dual Finance eGov 39.6m vs Justice Smals 7.9 + Police 6.0 class; not TE-additive; tick762
+bud_dual_fin_bpost_trans_2026,gg_belgium,2026,8579000,,,derived,src_dual_finance_tax_admin_tick762,strong,Dual Finance bpost state accounts 8.6m vs bpost SGEI 154.9m Mobility; tick762

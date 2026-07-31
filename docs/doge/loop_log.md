@@ -9125,3 +9125,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_belspo_esa_cm25_fsi_l5 — ready prio8 (not sent)
 - Next: rq_753 Finance 1281/010 or Emploi 1281/012; progress@770 in 9; rq_116 deferred
 
+
+### 2026-08-02T22:00:00Z — tick 762
+- Unit: **rq_753** (FOI-adjacent residual — **Kamer DOC 56 1281/010 FOD Financiën ops dual Smals/bpost**)
+- Found (primary Kamer 1281/010, 106p, kEUR):
+  - **Core ops stack 2026 ~€2.279bn:** OA40 staff **€740.5m** · OA51 fiscal **€582.7m** · OA52 customs **€230.2m** · OA53 collection **€231.1m** · OA54 BBI **€71.8m** · OA50 BEO **€9.8m** · OA61 treasury **€166.2m** · OA70 cadaster **€246.6m**
+  - **Payroll class ~€1.45bn:** OA51 statutair **€540m** · OA70 **€214m** · OA52 **€219m** · OA53 **€164m** · OA40 **€126.5+19.5m** · OA54 **€70.3m**
+  - **IT:** ops eng **€164m** / liq **€171m** · invest **€24.7m** · eGov detache **€39.6m** dual Smals
+  - **Treasury:** consign interest **€124m** · FPIM ops **€5.9m** · Pan-EU fund **€26.7m**
+  - **bpost state accounts** **€8.579m** 2026 (was **€23m** 2024)
+  - **Regional tax service dots:** VL **€62.8m** · WAL **€18.5m** · BCR **€6.7m**
+  - **Assignment funds (transfers):** PIT→regions **~€7.32bn** · tobacco→SS **€2.77bn** · ASEVA **€40.1m** (not discretionary waste)
+- Wrote: entities (+fod_finance/fpim as needed); budgets (+42); commitments (+10); leaderboard (+10); sources (+2); FOI draft **gap_finance_ops_fte_it_l5**; rq_753=done; spawn **rq_754**; ticks=762
+- FOI opened: gap_finance_ops_fte_it_l5 — ready prio8 (not sent)
+- Next: rq_754 Emploi/SS/Debt; progress@770 in 8; rq_116 deferred
+

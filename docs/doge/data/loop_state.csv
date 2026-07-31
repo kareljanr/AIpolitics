@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T21:00:00Z,rq_752,761,no,tick761 BELSPO ESA 227m FSI 132.6 R&D 34; next rq_753 Finance/Emploi; progress@770 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T22:00:00Z,rq_753,762,no,tick762 Finance ops 2.28bn payroll 1.45 IT 164 eGov 39.6; next rq_754 Emploi/SS/Debt; progress@770 in 8; rq_116 deferred

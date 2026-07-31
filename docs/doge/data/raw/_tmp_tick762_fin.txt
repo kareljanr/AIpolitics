@@ -1,0 +1,133 @@
+﻿p16|H| 1281/010DOC 56
+p16|H| 16
+p16| Bezoldigingen statutairen -  40   0   1  11.00.03 e 118.791 125. 200 126.500 125.274 125.058 124.883
+p16| Bezoldigingen niet-statutairen -  40   0   1  11.00.04 e 18.901 20.000 19.500 19.252 18.905 18.566
+p16| Algemene werkingskosten -  40   0   2  12.11.01 e 117.414 121.275 118.700 117.169 114.978 113.430
+p16| Werkingskosten informatica -  40   0   2  12.11.04 e 139.658 108.300 164.000 167.043 167.003 166.803
+p16| Verrichtingen staatsrekenplichtigen - Post  40   0   2  12.11.10 e 23.000 6.417 8.579 8.579 8.579 8.579
+p16| Gerechts- en vervolgingskosten -  40   0   2  12.11.11 e 45.299 56.270 55.860 54.894 53.906 52.935
+p16| Gedetacheerd personeel eGov  40   0   2  12.21.20 e 31.355 35.800 39.600 38.817 38.118 37.433
+p16| Algemene investeringen -  40   0   2  74.22.01 e 9.417 10.410 31.500 19.000 27.000 21.500
+p16| Investeringen informatica -  40   0   2  74.22.04 e 28.349 11.550 24.700 14.700 12.700 12.700
+p17| Dotatie FEDOREST -  40   0  4  41 30.30 e 23.924 24.802 30.772 30.189 29.625 29.060
+p17| rekenplichtigen - Post  40   0  6  21.10.01 e 15.000 4.183 0 0 0 0
+p17| Dotaties Gewestbelastingen - Vlaamse Gem    40   0  7  45.25.01 e 60.227 62.581 62.765 64.520 65.682 66.798
+p17| Dotaties Gewestbelastingen - Waals Gewes    40   0  7  45.34.01 e 17.732 18.425 18.479 18.996 19.338 19.667
+p17| Totalen - Totaux e 666.119 622.408 740.512 696.005 698.303 689.807
+p17| Totalen - Totaux o 665.197 629.528 742.512 714.359 703.935 692.766
+p20| Total  / totaal 117.414 111.100 121.275 121.275 118.700 118.700
+p21| Total - Totaal 164.000 171.000
+p30| Total - Totaal 31.500 36.500
+p42|H| 1281/010DOC 56
+p42|H| 42
+p42|H| ORGANISATIEAFDELING : 50
+p42| Totalen - Totaux e 8.394 9.800 9.800 9.631 9.458 9.288
+p42| Totalen - Totaux o 8.401 9.800 9.800 9.631 9.458 9.287
+p42| Bezoldigingen statutair personeel -  50   1  1  11.00.03 e 15.122 16. 000 15.700 15.400 15.123 14.850
+p42| Totalen - Totaux e 15.904 16.900 16.700 16.363 16.069 15.779
+p42| Totalen - Totaux o 15.904 16.900 16.700 16.363 16.069 15.779
+p44|H| 1281/010DOC 56
+p44|H| 44
+p44|H| vennootschapsbelasting, rechtspersonenbelasting en
+p44|H| belasting niet -inwoners -ΓÇ»vennootschappen,  btw, alle
+p44|H| voorheffingen en de speciale en diverse taksen voor
+p44|H| zijn specifieke doelgroep.
+p44| Bezoldigingen statutair personeel -  51   1  1  11.00.03 e 517.451 539.500 540.000 530.733 521.190 511.822
+p44| Bezoldigingen niet-statutair personeel -  51   1  1  11.00.04 e 27.929 29.000 28.400 27.930 27.427 26.934
+p44| Vergoedingen personeel  51   0  2  12.11.99 e 12.881 11.500 14.300 14.016 13.764 13.517
+p44| Totalen - Totaux e 558.261 580.000 582.700 572.679 562.381 552.273
+p44| Totalen - Totaux o 558.182 580.000 582.700 572.679 562.381 552.273
+p45| Bezoldigingen statutair personeel -  52   0   1  11.00.03 e 204.727 212.100 219.000 219.041 217.283 216.594
+p45| Bezoldigingen niet-statutair personeel  -  52   0   1  11.00.04 e 10.312 10.800 10.800 10.594 10.404 10.217
+p45| Totalen - Totaux e 215.633 223.367 230.197 230.040 228.084 227.202
+p46| Bezoldigingen statutair personeel -  53   0   1  11.00.03 e 156.992 165.076 164.000 161.029 158.119 155.263
+p46| Bezoldigingen niet-statutair personeel -  53   0   1  11.00.04 e 21.852 23.100 23.500 23.114 22.698 22.290
+p46| Voorschotten Alimentatievorderingen  53   0   3  53.20.02 e 43.621 43.621 43.621 48.772 51.571 54.532
+p46| Totalen - Totaux e 222.465 231.797 231.121 232.915 232.388 232.085
+p49| Bez oldigingen statutair personeel  -  54   0   1  11.00.03 e 56.938 59.500 70.300 69.985 71.813 70.663
+p49| Totalen - Totaux e 58.313 61.000 71.800 71.434 73.235 72.060
+p52|H| 1281/010DOC 56
+p52|H| 52
+p52|H| B.A: 61.02.121105 Werkingskosten FPIM  A.B. : 61.02.121105 Frais de fonctionnement SFPI
+p52| Bezoldigingen statutairen -  61   0   1  11.00.03 e 11.038 11.500 12.100 11.857 11.650 11.445
+p52| Werkingskosten FPIM  61   0   2  12.11.05 e 16.022 9.973 5.900 5.704 5.541 5.381
+p52| Rente op borgtochten en consignaties -  61   0   6  21.10.06 e 124.000 124.000 124.000 124.000 124.000 124.000
+p52| Wederopbouw Garantiefonds  61   0   6  61.22.01 e 6.683.695 00000
+p52| Lening Lineas -  61   0   6  81.12.03 e 61.000
+p52| Terugstorting NBB - uit omloop genomen muntstukk  61   0   9  92.00.01 e 10.000 15. 000 10.000 10.000 10.000 10.000
+p52| Totalen - Totaux e 6.856.845 235.682 166.205 165.517 164.917 164.174
+p61| Belgische bijdrage - Steun aan Oekra├»ne  61   1   3  35.10.03 e 24.200 4.532 000 0
+p61| Bijdrage IMF  61   1   7  84.23.01 e 2.945.012 000 0
+p61| BERD - kapitaalverhoging  61   1  7  84.23.04 e 18.394 18.394 18.394 18.394 18.394
+p61| Paneuropean fonds -  61   1   8  54.12.01 e 41.801 41.400 26.720 7.850 800 3.590
+p61| Steun aan Oekra├»ne - Wereldbankgroep  61   1   8  54.42.07 e 10.000 0 000 0
+p61| Bijdrage aan IDA  61   1   8  84.14.01 e 85.320 85.330 000 0
+p61| Kapitaalverhoging CEB  61   1   8  84.21.02 e 18.000 9.004 9.004 0 00
+p61| Totalen - Totaux e 191.340 3.109.041 59.177 31.303 24.253 27.043
+p61| Totalen - Totaux o 157.918 3.109.041 59.177 31.303 24.253 27.043
+p68| Bez oldigingen statutair personeel -  70    0   1  11.00.03 e 204.244 213.300 214.000 209.961 206.186 202.481
+p68| Bez oldigingen niet-statutair personeel -  70    0   1  11.00.04 e 24.237 24.500 24.500 24.077 23.644 23.219
+p68| Studies onroerende goederen SHA PE -  70    0   4  72.00.01  e 34.956 331 335 0 0 0
+p68| Totalen - Totaux e 270.686 245.777 246.568 241.662 237.323 233.064
+p68| Totalen - Totaux o 265.383 283.251 267.362 242.428 238.075 233.803
+p69| Studies onroerende goederen SHAPE -  70    0   4  72.00.01  e 34.956 331 335 0 0 0
+p69| Totalen - Totaux e 39.841 5.777 5.768 5.308 5.220 5.131
+p69| Totalen - Totaux o 34.576 43.251 26.562 6.074 5.972 5.870
+p73| Totaal 8.349.948 8.352.064 7.621.589 Total
+p74| Totaal 815.898 812.497 651.448 Total
+p75| Totaal 23.822.753 23.319.301 21.791.771 Total
+p77| Totaal 1.548 1.548 1.484 Total
+p78| Totaal saldo en ontvangsten 13.127.355 12.985.235 12.555.519 Total solde et recettes
+p78| Totaal van de uitgaven 22.503.641 22.311.137 21.641.412 Total des d├⌐penses
+p79| Totaal saldo en ontvangsten  10.942.326 10.873.449 10.516.526 Total solde et recettes
+p79| Totaal van de uitgaven 10.942.326 10.873.449 10.507.949 Total des d├⌐penses.
+p81| Totaal saldo en Ontvangsten  7.482.756 7.546.977 7.319.655 Total solde et recettes
+p81| Totaal van de uitgaven 7.482.756 7.546.977 7.319.655 Total des d├⌐penses
+p82| Totaal saldo en ontvangsten  173.314 170.579 164.758 Total solde et recettes
+p82| Totaal van de uitgaven  173.314 170.579 164.758 Total des d├⌐penses
+p84| Totaal saldo en ontvangsten 406.642 277.285 332.830 Total solde et recettes
+p84| Totaal van de uitgaven 406.642 277.285 332.830 Total des d├⌐penses
+p85| Totaal saldo en Ontvangsten -178.396 17.261 252.457 Total solde et recettes
+p85| Totaal van de uitgaven -178.396 17.261 252.457 Total des d├⌐penses.
+p88| Totalen saldo en Ontvangsten 31 28 31 Totaux solde et recettes
+p88| Totalen van de uitgaven 24 17 22 Totaux des d├⌐penses
+p89| Totaal saldo en Ontvangsten 14.466.603 13.848.871 13.244.889 Total solde et recettes
+p89| Totaal van de uitgaven 14.466.603 13.848.871 13.244.889 Total des d├⌐penses.
+p90| Totaal saldo en ontvangsten 28.482 28.482 28.482 Total solde et recettes
+p90| Totaal van de uitgaven 0 0 0 Total des d├⌐penses
+p91| Totaal saldo en Ontvangsten 2.774.178 2.794.864 2.534.661 Total solde et recettes
+p91| Totaal van de uitgaven 2.774.178 2.794.864 2.534.661 Total des d├⌐penses
+p92| Totaal saldo en Ontvangsten 1.411.596 2.058.163 691.895 Total solde et recettes
+p92| Totaal van de uitgaven 939.696 1.586.263 219.995 Total des d├⌐penses
+p93| Totaal saldo en Ontvangsten
+p93| 0  0  14.954 Total solde et recettes
+p93| Totaal van de uitgaven  0 0 14.954 Total des d├⌐penses
+p94| Totaal saldo en ontvangsten 15.913.345 14.934.575 14.747.966 Total solde et recettes
+p94| Totaal van de uitgaven 15.865.750 14.886.980 14.700.371 Total des d├⌐penses
+p95| Total g├⌐n├⌐ral  14.700.371
+p96| Total g├⌐n├⌐ral  14.886.980
+p96| Total g├⌐n├⌐ral
+p96| Totaal saldo en Ontvangsten  122.764 122.764 117.623 Total solde et recettes
+p96| Totaal van de uitgaven  102.437 102.437 97.296 Total des d├⌐penses
+p97| Totaal saldo en ontvangsten 422.067 415.838 402.306 Total solde et recettes
+p97| Totaal van de uitgaven 378.136 371.907 358.375 Total des d├⌐penses
+p98| Totaal saldo en Ontvangsten 39.665 0 0 Total solde et recettes
+p98| Totaal van de uitgaven 39.665 0 0 Total des d├⌐penses
+p99| Totaal saldo en ontvangsten 1.234.174 1.236.312 1.321.020 Total solde et recettes
+p99| Totaal van de uitgaven 1.234.174 1.236.312 1.321.020 Total des d├⌐penses
+p100| Totaal saldo en ontvangsten 29.531 51.949 36.429 Total solde et recettes
+p100| Totaal van de uitgaven 29.531 51.949 36.429 Total des d├⌐penses
+p101| Totaal saldo en ontvangsten 40.148 40.148 44.198 Total solde et recettes
+p101| Totaal van de uitgaven 40.148 40.148 44.198 Total des d├⌐penses
+p101| Totaal saldo en ontvangsten 45.650 10.000 0 Total solde et recettes
+p101| Totaal van de uitgaven 45.650 10.000 0 Total des d├⌐penses
+p102| Totaal saldo en ontvangsten 23.113  10.000 0 Total solde et recettes
+p102| Totaal van de uitgaven 23.113  10.000 0 Total des d├⌐penses
+p103| Totaal saldo en ontvangsten 79.904 71.409 0 Total solde et recettes
+p103| Totaal van de uitgaven 79.904 71.409 0 Total des d├⌐penses
+p104| Totaal saldo en ontvangsten 0 0 0 Total solde et recettes
+p104| Totaal van de uitgaven 0 0 0 Total des d├⌐penses
+p104| Totaal saldo en ontvangsten 7.641.959 7.550.166 6.531.663 Total solde et recettes
+p104| Totaal van de uitgaven 7.641.959 7.550.166 6.531.663 Total des d├⌐penses
+p105| Totaal saldo en ontvangsten 1.000 1.000 878 Total solde et recettes
+p105| Totaal van de uitgaven 1.000 1.000 878 Total des d├⌐penses
