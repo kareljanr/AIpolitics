@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T08:45:00Z,rq_659,668,no,tick668 FWB aju DO matrix 16.5bn Moody A3 debt 16.2bn dual WAL Baa1; next rq_660; progress@670 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T09:00:00Z,rq_660,669,no,tick669 FWB SACA -215m report 1.10bn Piebs/CUR/ONE dual; next rq_661; progress@670 NEXT tick; rq_116 deferred

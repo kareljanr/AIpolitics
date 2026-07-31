@@ -7843,3 +7843,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+fwb_cabinets); budgets (+75); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fwb_aju2026_do_debt_l5; rq_659=done; spawn rq_660; loop_state ticks=668
 - FOI opened: gap_fwb_aju2026_do_debt_l5 -- ready (not sent)
 - Next: rq_660; progress@670 in 2 ticks; rq_116 deferred
+
+### 2026-08-01T09:00:00Z -- tick 669
+- Unit: rq_660 (FOI-adjacent dual residual -- **FWB aju2026 SACA/OAP perimeter L5 + encours + reserve repay dual WAL**)
+- Found (primary CoA 2026_33): **SACA** 17 units rec **EUR498.8m** CE **865.9** CL **714.1** solde **-215.4**; **CUR** CL **267.0** solde **-171.3** (PRR path +86.5 to **401** total); **Piebs** eng **400** report stock **699.5->299.5**; **PPT** CL **48**; **FBSCF** CL **124.2**; **FBSELS** solde **+39.4**; report total **1103->735**. **OAP:** Etnic CL **143.1** SEC **-11.1** repay **11.1**; ONE CL **821.6** SEC **-18.5** repay **29.5**; WBE **78.0**; Ecureuil CL **49.8** SEC **+85.4** (reserve **83.6** misbooked); T2 total CL **1010.8** SEC **+62.6**; repay total **41.5**. Perimeter ICN **148** budgets **112/113**. Encours eoy2025 **863.1** path **768.5**. Fonds budg solde **15.1**. Dual WAL Type3/SACA. Strong CoA; L5 FOI.
+- Wrote: entities (+6); budgets (+70); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fwb_aju2026_saca_oap_l5; rq_660=done; spawn rq_661; loop_state ticks=669
+- FOI opened: gap_fwb_aju2026_saca_oap_l5 -- ready (not sent)
+- Next: rq_661; **progress@670 NEXT tick**; rq_116 deferred
