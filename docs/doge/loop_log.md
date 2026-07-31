@@ -9096,3 +9096,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_phoenix_cfd_social_energy_l5 — ready prio9 (not sent)
 - Next: **rq_751 progress@760 mandatory**; then rq_752 BELSPO/Finance; rq_116 deferred
 
+
+### 2026-08-02T20:00:00Z — tick 760
+- Unit: **rq_751** (mandatory **progress@760** coverage % + waste top10)
+- Progress (anchor TE **€347.956bn**):
+  - **A L0:** **100%** strong
+  - **B L1:** **100%** unconsol map
+  - **C L2:** ~**99%** (+ Defence OA50 eng €20.1bn · rail stack €4.22bn · Credendo · Police €976m · VAPH €2.75bn)
+  - **D L5:** ~**55–69%** generous — gain 750→760: federal Kamer residual wave (Regie DBFM fees · VAPH dual · Police · RGA · OAP Credendo/culture · Defence equip 13bn · rail 4.22bn · Phoenix 694m · social energy 2.35bn · energienorm 265m)
+  - **E FOI:** ready **~491** · answered **~9** · total rows **~505**
+  - Inventory: budgets **~15861** · cmt **~1955** · lb **~3267** · sources **~1496** · entities **~540**
+- Waste top10: **GIP monitor fail 2.5bn holds #1** (prio 8.70); fossil/cars/cheque/reporté #2–10 stable; stocks filtered (Metro3, Oosterweel snowball, Defence eng backlog, Phoenix multi-year, housing books); high-abs NEW cluster: i-Police SSG · Phoenix opacity · Defence eng-liq gap · rail dual PT
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_751=done; **rq_752** remains open head; loop_state ticks=760
+- FOI: none new (progress tick)
+- Next: prio5 **rq_752** (BELSPO 1281/018 or Finance 1281/010); deferred **rq_116**; progress@770 in 10
+

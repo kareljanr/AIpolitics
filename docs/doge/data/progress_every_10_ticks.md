@@ -20,6 +20,44 @@
 
 ---
 
+## Snapshot at **tick 760** (2026-08-02)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Defence OA50 eng **€20.1bn** / liq **€10.8bn** · federal rail stack **~€4.22bn** (NMBS+Infrabel+HR) · Credendo own prem **€276.5m** / claims **€153m** · Fed Police statutair **€976m** · VAPH **€2.75bn** · prior AViQ/Regie/housing retained |
+| **D. L5 named / measure end-lines** | **~55-69%** of TE (generous) | **Gain 750→760 is federal Kamer residual wave (not near-complete of 348bn):** Regie DBFM fee table **€86.9m** site L5 · VAPH residual dual AViQ · Fed Police OA40–43 / Smals / RSR-IT **€37.2m** / i-Police SSG · RGA Prison Cloud **€5.6m** + domestic zero-sum **€5.056m** · OAP autonome Credendo/culture/FANC · Defence equip eng **€13.0bn** / military pay **€1.85bn** · Mobility NMBS opex **€1.31bn** / invest **€0.90bn** · Infrabel opex **€0.63bn** / invest **€1.27bn** · bpost SGEI **€154.9m** · Economy Phoenix class **~€694m** + social energy bench **€2.35bn** + energienorm **€265m** · FOI still bulk L5 awards + CfD strike + rail project matrices |
+| **E. FOI-ready gaps** | **~491** drafts ready | Human send only; answered **~9**; total FOI rows **~505** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL/FWB/BCR debt paths** · **Hedera CAP €15bn** · **Phoenix LTO multi-year loans/CfD** (2026 class **~€694m** on-budget; multi-year off pure TE) · **Defence eng-liq backlog ~€9.3bn** (engagement ≠ same-year cash) · **Credendo claims/premiums commercial ECA** · **VL begrotingsfondsen / ruiter stocks** · **Oosterweel VAK/bond/sub snowball stocks** · **VWF/VMSW/SWL/SWCS/FLRBC/SLRB housing finance stocks** · **Regie rent/DBFM lock-in dual Justice redev** · **CSF NPE growth caps** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 760)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~15861 |
+| commitments.csv | ~1955 |
+| leaderboard.csv | ~3267 |
+| entities.csv | ~540 |
+| sources.csv | ~1496 |
+| FOI ready | ~491 |
+| FOI answered | ~9 |
+| FOI total rows | ~505 |
+| research_queue open | rq_116 deferred + rq_752 after progress |
+
+### What improved since tick 750
+
+- **Justice/Regie residual deepen (tick751–752, 755):** Regie DBFM prisons invest+maint by site **€86.9m** (Haren **€34.3m**) · rents L5 private **€423m** / need **€500m** · invest dots **€177m** · Merksplas MP3 **€155.6m** · NOR/Mobius fit-outs · RGA CE1211 **€16.4m** / Prison Cloud **€5.6m** / domestic **€5.056m** zero-sum EPI.
+- **Entity II + police (tick753–754):** VAPH agency **€2.75bn** exp / **+€57m** result / under-exec **€52.5m** dual AViQ · Fed Police statutair OA40–43 **€975.7m** · Smals **€6.0m** · meal **€14.4m** · RSR-IT **€37.2m** · i-Police SSG eval.
+- **OAP autonome + Credendo (tick756):** Credendo own prem **€276.5m** / claims **€153.0m** / ops **€96.0m** · Monnaie **€42.25m** · WHI **€16.15m** · FANC fees **€30.8m** · KCE Trials **€10.1m**.
+- **Defence (tick757):** OA50 eng **€20.109bn** / liq **€10.767bn** · equip 50.2 eng **€13.030bn** · military pay **€1.852bn** · dual NGI/WHI 50.9 exact match OAP.
+- **Mobility rail (tick758):** federal rail stack **~€4.221bn** · NMBS opex **€1.306bn** + invest **€0.905bn** · Infrabel opex **€0.630bn** + invest **€1.269bn** · bpost SGEI **€154.9m** → **€104.9m** 2027 · skeyes **€35.7m**.
+- **Economy/Energy (tick759):** Phoenix class **~€694m** (BE-WATT finance **€487.6m**) · social energy bench **€2.352bn** · energienorm **€265m** · SCK **€58m** · NIRAS IRE **€43m** · FOI prio9 CfD residual.
+- **Dual map:** federal capacity lock-in (Defence+Regie+Justice) · rail PT dual regional · Phoenix security vs social energy · Credendo commercial ECA dual State/own books.
+
+---
+
 ## Snapshot at **tick 750** (2026-08-02)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

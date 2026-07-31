@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T19:00:00Z,rq_750,759,no,tick759 Economy Phoenix 694m social 2.35bn energienorm 265; next rq_751 progress@760 then rq_752; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T20:00:00Z,rq_751,760,no,tick760 progress@760 L2~99 L5~55-69 FOI~491; waste top10 stable; next rq_752 BELSPO/Finance; rq_116 deferred
