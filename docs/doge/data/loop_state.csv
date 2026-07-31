@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T11:45:00Z,rq_740,749,no,tick749 Regie dots 739m rents 492 DBFM 103 detentiehuizen; next rq_741 PROGRESS@750; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T12:15:00Z,rq_741,750,no,tick750 progress coverage% + waste top10; next rq_742; rq_116 deferred

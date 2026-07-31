@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 750** (2026-08-02)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** AViQ RA2024 class **€7.155bn** · Regie federal dots **€739m** · Justice redev/ops/legal-aid residual stacks · VMSW BS **€12.4bn** assets / **€10.5bn** debt · WiV stock dual · prior housing OIP dual retained |
+| **D. L5 named / measure end-lines** | **~54-68%** of TE (generous) | **Gain 740→750 is FOI-adjacent residual (not near-complete of 348bn):** VMSW/WiV housing residual · CoA AV2025 recs **15.8%** full · hernieuwbare GSC tech **€10.5bn** / bill-borne **~85%** · CoA fed JV2025 recs **23%** full · prisons DBFM Justice redev **€46.6m** + CPL **€31.2m** · legal aid **€241m** · Crossborder bpost provis **€56.3m** · AViQ pie + divers **€391m** · Regie rents **€492m** / DBFM alt **€103m** / detentiehuizen **€103.5m** · FOI still bulk L5 awards + dual unit-cost/NPL/fee-split matrices |
+| **E. FOI-ready gaps** | **~482** drafts ready | Human send only; answered **~9**; total FOI rows **~496** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **BCR consol debt €16.1→19.1bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** · **Oosterweel VAK + BC interest/sub snowball stocks** · **project-bond over-plafond path** · **SKF multi-year €0.96bn** · **Fluvius equity inject path €1.56bn** · **FRBRTC/refinance stocks** · **OAA reporté fiction** · **GIP beschikbaarheid path** · **Sofico guaranteed debt / CAPEX commit** · **VWF portfolio €9.7bn / SWL debt €2.74bn / SWCS encours €1.75bn / FLRBC encours €1.61bn / SLRB debt €1.67bn / VMSW debt €10.5bn** (housing finance stocks dual, not pure TE) · **Regie rent/DBFM lock-in dual Justice redev** · **AViQ rembours/treasury reverse transfers** · **flexi privilege TE class** · **internal security dual-use / NATO classification** · **CSF NPE growth caps** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 750)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~15446 |
+| commitments.csv | ~1883 |
+| leaderboard.csv | ~3192 |
+| entities.csv | ~531 |
+| sources.csv | ~1477 |
+| FOI ready | ~482 |
+| FOI answered | ~9 |
+| FOI total rows | ~496 |
+| research_queue open | rq_116 deferred + next hole-fill after progress |
+
+### What improved since tick 740
+
+- **Housing OIP residual complete (tick741–742):** VMSW JV/JR2025 FS3 **€870m** underuse **€108m** / BS debt **€10.499bn** / VL loan **€1bn @0%** · WiV stock **178743** / waitlist **215337** / vacancy **10.51%** / huursubsidie **€68.5m** + huurpremie **€63.5m** / FS3 2025 still **€0** assign.
+- **CoA governance residual (tick743–745):** VL AV2025 recs full-impl only **15.8%** · hernieuwbare GSC PV **€7.078bn (67%)** of **€10.508bn** / budget-borne only **~14.5%** of **€12.97bn** RES · federal JV2025 outturn **€66.1m** / FTE **475** / recs full **23%** not-exec **21%** / kwijting **€2.876m**.
+- **Justice/Regie capacity dual (tick746–747, 749):** Justice DBFM redev **€46.633m** + CPL **€31.161m** combo **€77.8m** · legal-aid stack **€241.1m** (BA344145 **€207.2m**) · Crossborder bpost **€56.32m** BOSA park · prison ops residual **€111.2m** · Regie dots **€739.3m** (rents **€492.2m** · DBFM alt **€102.9m** Antwerp **+€14.2m** · personnel **€104.9m**) · detentiehuizen envelope **€103.5m**.
+- **Entity II social dual (tick748):** AViQ RA2024 total **€7.155bn** (AF+APA **€3.071bn** / aînés **€1.663bn** / handicap **€1.012bn** / rembours **€352.6m**) · CG initial **€6.962bn** with **divers €391.2m** · dual Iriscare/VAPH not TE-additive.
+- **Dual map:** housing OIP + social-credit books · federal prison/estate lock-in (Regie+Justice) · Entity II social mega (AViQ) · CoA rec follow-through weak multi-level.
+
+---
+
 ## Snapshot at **tick 740** (2026-08-02)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

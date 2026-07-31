@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **740** (2026-08-02) · **~3128** leaderboard rows  
+**As-of:** tick **750** (2026-08-02) · **~3192** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,17 +27,21 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · Hedera CAP · VL/WAL/FWB/BCR debt stocks · **`lb_owv_sub_snowball_27bn_2083` (raw high pi — eoy2083 sub debt €27bn)** · Oosterweel VAK/bond plafond residual · encours · federal unconsol debt / E1 path · Infrabel/WE equity · SS consol 148bn · Fluvius equity path · Sofico CAPEX commit / guaranteed debt · **VWF portfolio €9.7bn · SWL debt €2.74bn · SWCS/FLRBC/SLRB encours duals** · ruiter carry · FRBRTC refinance.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap (raw pi 9.05/8.78) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · **`lb_owv_sub_snowball_27bn_2083` (raw high pi — eoy2083 sub debt €27bn)** · Oosterweel VAK/bond plafond residual · encours · federal unconsol debt / E1 path · Infrabel/WE equity · SS consol 148bn · Fluvius equity path · Sofico CAPEX commit / guaranteed debt · **VWF portfolio €9.7bn · VMSW debt €10.5bn · SWL debt €2.74bn · SWCS/FLRBC/SLRB encours duals** · Regie rent/DBFM stocks dual · ruiter carry · FRBRTC refinance.
 
-**Change vs tick 730:** pure annual top10 **largely stable** (GIP monitor #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual off pure top10 / just outside:** FLRBC funding freeze · VWF rate-subsidy spread · SWL plan-reno delivery lag · SWCS/FLRBC/VWF deposit-loan NPL band **9–31%** · full dual housing OIP stack mapped. Gain 730–740 is **BE social-housing + social-credit dual residual** more than FFS reshuffle.
+**Change vs tick 740:** pure annual top10 **stable** (GIP monitor #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual off pure top10 / just outside:** Crossborder bpost **€56.3m** BOSA park · Regie rents **€492m** / DBFM alt **€103m** · AViQ divers **€391m** · Justice legal-aid stack **€241m** · VMSW FS3 lag / **€10.5bn** debt · RES bill-borne **~85%** of **€13bn** support · GSC PV legacy **€7.1bn**. Gain 740–750 is **federal justice/estate lock-in + Entity II AViQ + housing residual close-out + CoA recs/RES residual** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
 | # | ID | Annual € | Priority | Note |
 |---|-----|----------:|---------:|------|
+| — | `lb_metro3_overrun_477pct` | **stock** | **9.05** | STOCK filtered; +477pct overrun |
 | — | `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | **8.55** | STOCK filtered; CoA unjustified FM assignment |
-| — | `lb_flrbc_funding_freeze_2025` | **130.00 m** | **7.20** | **NEW 739** BCR credit freeze Jul–Dec 2025 |
-| — | `lb_vwf_prod_1_632bn_2025` | **1.63 bn** | **7.05** | **NEW 738** lend 2.48% vs fund 4.21% |
+| — | `lb_vl_gsc_pv_legacy_7_078bn` | **class stock** | **8.05** | **NEW 744** GSC PV 67% of 10.5bn legacy |
+| — | `lb_justice_crossborder_bpost_56m_provis` | **56.32 m** | **7.55** | **NEW 747** bpost park in BOSA provis |
+| — | `lb_regie_dbfm_alt_finance_103m_2026` | **102.88 m** | **7.45** | **NEW 749** Regie DBFM alt-finance |
+| — | `lb_regie_rents_492m_2026` | **492.21 m** | **7.40** | **NEW 749** largest Regie slice |
+| — | `lb_aviq_divers_391m_2024` | **391.15 m** | **7.30** | **NEW 748** divers 5.62% opacity |
 | 11 | `lb_vl_gip_large_squeeze_2182m_2030` | **2.18 bn** | **8.38** | GIP large+AM squeeze 2182m by 2030 ~90pct budget |
 | 12 | `lb_vl_gip_horizon_collapse_5_to_1y` | **3.69 bn** | **8.35** | GIP horizon collapse 5y ambition to 1y actu2026 |
 | 13 | `lb_fed_fossil_company_cars_ehs_3_4bn` | **3.43 bn** | **8.35** | Company cars EHS fossil inventory 3.43bn 2022 |
@@ -58,13 +62,11 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_owv_sub_snowball_27bn_2083` | **9.0** | Sub loans snowball to 27.0bn eoy2083 — CoA unjustified FM assignment |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | OAA+missions reporté solde shift +300.6m |
 | `lb_bcr_annexe2_reporte_wave` | **9.0** | BCR Annexe2 reporté wave systemic 2026 |
-| `lb_oaa_reporte_sincerity_225m` | **9.0** | OAA1 reporté sincerity shift +225m |
 | `lb_kenteken_sole_bidder_bpost` | **9.0** | Plates concession sole bidder bpost advantage |
-| `lb_ypto_proc_law_fail` | **9.0** | Ypto procurement law not correctly applied CoA |
-| `lb_metro3_total_4_76bn` | **9.0** | Metro3 total estimate 4.76bn Dec2024 CoA |
 | `lb_crossborder_228_vs_6` | **9.0** | Crossborder 228 external vs 6 statutory 2023 |
-| `lb_cocom_comptes_gap_asbl` | **9.0** | COCOM/ASBL general accounts 2019-24 never approved or transmitted |
-| `lb_siod_net_fte_8_2_vs_270` | **9.0** | Net FTE +8.2 vs 270 extra posts 2021-24 |
+| `lb_justice_crossborder_bpost_56m_provis` | **8.0** | **NEW 747** €56.3m parked BOSA pending bpost talks |
+| `lb_aviq_divers_391m_2024` | **7.5** | **NEW 748** 5.6% of AViQ without public L5 |
+| `lb_regie_rents_492m_2026` | **7.0** | **NEW 749** landlord concentration residual |
 
 ### Dual / mega map (not pure annual waste top 10)
 
@@ -76,9 +78,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_vl_dotaties_34_8bn_2026` | **34.8 bn** | BFW dual |
 | `lb_dual_wal_vl_debt_2026` | **33 / 57 bn** | WAL Baa1 vs VL A1 |
 | `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | Lantis sub eoy2083 |
-| `lb_vwf_portfolio_9_698bn_2025` | **9.70 bn stock** | **NEW 738** largest BE social-credit book |
-| `lb_swl_debt_2_742bn_2024` | **2.74 bn stock** | **NEW 737** SWL BS debt |
-| `lb_flrbc_encours_1_607bn_2025` | **1.61 bn stock** | **NEW 739** FLRBC credit book |
-| `lb_swcs_encours_1_749bn` | **1.75 bn stock** | **NEW 736** SWCS loan book |
-| `lb_slrb_debt_1_672bn` | **1.67 bn stock** | **NEW 735** SLRB BS debt |
-| dual housing OIP stack | multi-bn | VMSW/VWF/SLRB/FLRBC/SWL/SWCS/FLW mapped 735–739 |
+| `lb_vmsw_debt_10_499bn_2025` | **10.50 bn stock** | **NEW 741** largest BE social-housing intermediary debt |
+| `lb_vwf_portfolio_9_698bn_2025` | **9.70 bn stock** | VWF social-credit book |
+| `lb_aviq_ra2024_7_155bn` | **7.16 bn** | **NEW 748** Entity II social mega |
+| `lb_regie_dots_739m_2026` | **0.74 bn** | **NEW 749** federal estate vehicle |
+| `lb_justice_legalaid_stack_241m_2026` | **0.24 bn** | **NEW 747** second-line aid stack |
+| dual housing OIP stack | multi-bn | VMSW/VWF/SLRB/FLRBC/SWL/SWCS/FLW/WiV mapped 735–742 |
+| dual Regie+Justice capacity | multi-bn lock-in | DBFM redev + rents + detentiehuizen + ops 746–749 |

@@ -8942,3 +8942,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_regie_dots_detentie_l5 — ready prio8 (not sent)
 - Next: **rq_741 progress@750**; rq_116 deferred
 
+
+### 2026-08-02T12:15:00Z — tick 750
+- Unit: **rq_741** (mandatory progress@750 — coverage % layers A–E + waste top10; no invent euros)
+- Found / inventory:
+  - **A/B:** 100% L0 TE €347.956bn + L1 subsectors unchanged
+  - **C L2:** ~**99%** (+ AViQ €7.155bn · Regie dots €739m · VMSW BS €12.4/10.5bn · Justice redev/ops stacks)
+  - **D L5:** ~**54–68%** generous — gain 740→750: housing OIP close (VMSW/WiV) · CoA recs VL 15.8% / fed 23% · RES GSC PV €7.1bn / bill ~85% · Justice redev €77.8m + legal aid €241m + Crossborder bpost €56.3m · AViQ divers €391m · Regie rents €492m / DBFM alt €103m / detentiehuizen €103.5m
+  - **E FOI:** ready **~482** · answered **~9** · total rows **~496**
+  - Inventory: budgets **~15446** · cmt **~1883** · lb **~3192** · sources **~1477** · entities **~531**
+- Waste top10: **GIP monitor fail 2.5bn holds #1** (prio 8.70); fossil/cars/cheque/reporté #2–10 stable; stocks filtered (Metro3, Oosterweel snowball, VMSW/VWF housing books, Regie dual); high-abs NEW: Crossborder bpost park · Regie rents · AViQ divers · RES bill stack
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_741=done; spawn **rq_742**; loop_state ticks=750
+- FOI: none new (progress tick)
+- Next: prio5 **rq_742**; deferred **rq_116**; progress@760 in 10 ticks
+
