@@ -8870,3 +8870,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_hernieuwbare_residual_l5 — ready prio8 (not sent)
 - Next: rq_736; progress@750 in 6; rq_116 deferred
 
+
+### 2026-08-02T09:45:00Z — tick 745
+- Unit: **rq_736** (FOI-adjacent residual — **CoA federal Jaarverslag 2025 / 2026_30 residual dual VL AV2025**)
+- Found (primary CoA JV2025, 65p, AG 24 Jun 2026):
+  - **Budget/outturn:** plan exp **€71.569m** (+2.9%); outturn exp **€66.133m** (+1.98%); deficit **€828k**; global result **€5.422m**; pay **83.5%**; IT budget **+20.85%** cloud/cyber
+  - **Capacity:** cadre **624** · headcount **514** · FTE **475** · occupancy **92.41%** · training **2057** days · hires 22 / exits 21
+  - **Audit volume:** rekenplichtigen closed **2277** · agency certs **370** (2024 accounts 350) · officieuze OISZ **16** · thematic products **37** of which follow-ups **19** · budget reviews 15+13+18 · bill advice **42**
+  - **Recs monitor:** full **23%** · in progress **48%** · not executed **21%** · not assessed **8%** · full-or-partial **71%**
+  - **Judicial:** automatic 5y discharges **€2.876m** (n=5) · non-summons n=8 · convictions **0** (2023-25)
+  - **Mandates:** lists **10972** · assets **5980** · fines **77** · non-filers 16+15
+  - Dual VL: full-impl **15.8%** (tick743) vs fed monitor **23%**; capacity VL **58.5 FTE** vs fed **475**
+- Wrote: entity rekenhof notes; budgets (+66); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_ccrek_fed_jv2025_residual_l5**; full extract + write; rq_736=done; spawn **rq_737**; loop_state ticks=745
+- FOI opened: gap_ccrek_fed_jv2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_737; progress@750 in 5; rq_116 deferred
+

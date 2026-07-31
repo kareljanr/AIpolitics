@@ -15207,3 +15207,70 @@ bud_vl_gsc_2020,vlaanderen_gov,2020,1142000000,,,outturn,src_ccrek_hernieuwbare_
 bud_dual_vl_res_bill_vs_budget_85pct,gg_belgium,2023,855,,,outturn,src_dual_vl_res_support_bill_vs_budget_tick744,strong,VL RES support ~85.5pct on electricity bill dual federal GSC/Elia assign opacity; tick744
 bud_dual_vl_heat_underfunded_vs_use,gg_belgium,2023,16,,,outturn,src_dual_vl_res_support_bill_vs_budget_tick744,strong,Heat gets 16pct of VL RES support while >50pct energy use is heat; dual WAL CV residual; tick744
 bud_dual_fluvius_grid_vs_res_support,gg_belgium,2033,11000000000,,,budgeted,src_dual_vl_res_support_bill_vs_budget_tick744,medium,Fluvius transition+baseline class 11bn dual with VL RES support 13bn cum 2014-23 not additive; tick744
+bud_ccrek_fed_budget_exp_2025,rekenhof,2025,71569300,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,CoA JV2025 T1: expenditure budget 71.5693m 2025 (+2.90pct vs 2024); tick745
+bud_ccrek_fed_budget_receipts_2025,rekenhof,2025,65298700,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Budget receipts 65.2987m 2025; tick745
+bud_ccrek_fed_budget_dotatie_2025,rekenhof,2025,64562800,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Dotatie 64.5628m 2025 (after own receipts+boni reduce need); tick745
+bud_ccrek_fed_budget_own_receipts_2025,rekenhof,2025,735900,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Own receipts estimated 735.9k 2025; tick745
+bud_ccrek_fed_budget_boni_2023_used_2025,rekenhof,2025,6270600,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,2023 boni 6.2706m used to finance 2025 exp; tick745
+bud_ccrek_fed_budget_pay_2025,rekenhof,2025,58602500,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Loonmassa budget 58.6025m 2025 (81.89pct of exp); tick745
+bud_ccrek_fed_budget_other_pay_2025,rekenhof,2025,4810000,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Other remuneration 4.810m 2025 (6.71pct); tick745
+bud_ccrek_fed_budget_it_2025,rekenhof,2025,2516000,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,IT+office material 2.516m 2025 (+20.85pct cloud/cyber); tick745
+bud_ccrek_fed_budget_exp_2024,rekenhof,2024,69550700,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Budget exp 69.5507m 2024 T1; tick745
+bud_ccrek_fed_budget_exp_2023,rekenhof,2023,65998900,,,budgeted,src_ccrek_2026_30_jv2025_residual,strong,Budget exp 65.9989m 2023 T1; tick745
+bud_ccrek_fed_outturn_exp_2025,rekenhof,2025,66132527.49,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Outturn exp 66.132527m 2025 (+1.98pct / +1.28554m); tick745
+bud_ccrek_fed_outturn_receipts_2025,rekenhof,2025,65304193.19,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Outturn receipts 65.304193m 2025 (-70.87k); tick745
+bud_ccrek_fed_outturn_deficit_2025,rekenhof,2025,828340,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Budget result deficit 828.34k 2025 (vs surplus 2024); tick745
+bud_ccrek_fed_global_result_2025,rekenhof,2025,5422280,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Global result after carried boni 5.42228m eoy2025; tick745
+bud_ccrek_fed_outturn_pay_2025,rekenhof,2025,55224893.73,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Outturn loonmassa 55.224894m (83.51pct); tick745
+bud_ccrek_fed_outturn_other_pay_2025,rekenhof,2025,4675937.24,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Other remuneration outturn 4.675937m (7.07pct); tick745
+bud_ccrek_fed_outturn_ops_2025,rekenhof,2025,2630362.96,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Ops+invest outturn 2.630363m (3.98pct); tick745
+bud_ccrek_fed_outturn_it_2025,rekenhof,2025,1875042.56,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,IT+office outturn 1.875043m (2.84pct); tick745
+bud_ccrek_fed_outturn_building_fee_2025,rekenhof,2025,1726291.0,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Building occupation fee 1.726291m (2.61pct); tick745
+bud_ccrek_fed_outturn_exp_2024,rekenhof,2024,64846990,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Outturn exp 64.84699m 2024; tick745
+bud_ccrek_fed_outturn_receipts_2024,rekenhof,2024,65375060,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Outturn receipts 65.37506m 2024 (dotatie 64.644m incl); tick745
+bud_ccrek_fed_outturn_surplus_2024,rekenhof,2024,528070,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Budget surplus 528.07k 2024; tick745
+bud_ccrek_fed_global_result_2024,rekenhof,2024,4709240,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Global result 4.70924m eoy2024; tick745
+bud_ccrek_fed_staff_headcount_2025,rekenhof,2025,514,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Staff headcount 514 eoy2025 (454 statutory + 60 contract); tick745
+bud_ccrek_fed_staff_fte_2025,rekenhof,2025,475,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Staff FTE 475 2025; tick745
+bud_ccrek_fed_cadre_624,rekenhof,2025,624,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Personnel cadre 624 posts (equal NL/FR); tick745
+bud_ccrek_fed_occupancy_92_41pct,rekenhof,2025,9241,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Occupancy 92.41pct of cadre (FTE/cadre*100 stored as 9241 bps); tick745
+bud_ccrek_fed_hires_2025,rekenhof,2025,22,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Hires 22 in 2025; tick745
+bud_ccrek_fed_exits_2025,rekenhof,2025,21,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Exits 21 in 2025; tick745
+bud_ccrek_fed_exits_expected_to_2028,rekenhof,2028,22,,,projection,src_ccrek_2026_30_jv2025_residual,strong,Expected exits to 2028 COUNT 22; tick745
+bud_ccrek_fed_training_days_2025,rekenhof,2025,2057,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Training days 2057 in 2025 (~2/3 internal); tick745
+bud_ccrek_fed_budget_reports_initial_2025,rekenhof,2025,15,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Budget review reports initial budgets COUNT 15 in 2025 (was 14/18); tick745
+bud_ccrek_fed_budget_reports_prov_credits_2025,rekenhof,2025,13,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Budget reviews on provisional credits COUNT 13 in 2025 (caretaker); tick745
+bud_ccrek_fed_budget_reports_amends_2025,rekenhof,2025,18,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Budget amendment reviews COUNT 18 in 2025; tick745
+bud_ccrek_fed_rekenplichtigen_closed_2025,rekenhof,2025,2277,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Rekenplichtigen accounts closed COUNT 2277 in 2025; tick745
+bud_ccrek_fed_reken_periodiek_1860,rekenhof,2025,1860,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Periodic rekenplichtigen accounts 1860 in 2025; tick745
+bud_ccrek_fed_reken_eindebeheer_414,rekenhof,2025,414,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,End-of-management accounts 414 in 2025; tick745
+bud_ccrek_fed_reken_tekort_3,rekenhof,2025,3,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Deficit accounts 3 in 2025 (was 7/17); tick745
+bud_ccrek_fed_oisz_agency_certs_370,rekenhof,2025,370,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,OISZ/agency/DAB accounts certified or checked COUNT 370 in 2025; tick745
+bud_ccrek_fed_agency_certs_2024_accounts_350,rekenhof,2025,350,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Of which 2024-year accounts 350; tick745
+bud_ccrek_fed_oisz_officieuze_16,rekenhof,2025,16,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Officieuze OISZ accounts checked but not yet formally submitted COUNT 16; tick745
+bud_ccrek_fed_thematic_reports_29_2025,rekenhof,2025,29,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Thematic audit reports COUNT 29 in 2025 (was 41/31); tick745
+bud_ccrek_fed_thematic_articles_8_2025,rekenhof,2025,8,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Thematic articles in Boeken COUNT 8 in 2025; tick745
+bud_ccrek_fed_thematic_products_37_2025,rekenhof,2025,37,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Thematic products 37 in 2025 incl 19 follow-ups; tick745
+bud_ccrek_fed_thematic_followups_19_2025,rekenhof,2025,19,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Follow-up audits COUNT 19 of 37 thematic products 2025; tick745
+bud_ccrek_fed_mandatenlijsten_10972,rekenhof,2025,10972,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Mandates lists filed COUNT 10972 for year 2024; tick745
+bud_ccrek_fed_vermogens_5980,rekenhof,2025,5980,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Asset declarations filed COUNT 5980; tick745
+bud_ccrek_fed_mandate_fines_77,rekenhof,2025,77,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Definitive administrative fines COUNT 77 for declaration year 2024; tick745
+bud_ccrek_fed_no_asset_decl_16,rekenhof,2025,16,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Persons with no asset declaration COUNT 16; tick745
+bud_ccrek_fed_no_either_decl_15,rekenhof,2025,15,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Persons with neither mandates nor asset list COUNT 15; tick745
+bud_ccrek_fed_niet_dagvaarding_n_8_2025,rekenhof,2025,8,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Non-summons decisions COUNT 8 in 2025; tick745
+bud_ccrek_fed_niet_dagvaarding_eur_185636,rekenhof,2025,185636.94,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Non-summons amounts 700+184936.94=185636.94 EUR 2025 T8; tick745
+bud_ccrek_fed_veroordelingen_0_2025,rekenhof,2025,0,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Convictions COUNT 0 / 0 EUR in 2025 (also 0 in 2023-24); tick745
+bud_ccrek_fed_kwijting_5y_n_5,rekenhof,2025,5,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Automatic discharges after 5 years COUNT 5 in 2025; tick745
+bud_ccrek_fed_kwijting_5y_eur_2_876m,rekenhof,2025,2876269.11,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Automatic discharge amounts 2.876269m EUR 2025; tick745
+bud_ccrek_fed_bill_advice_42_2025,rekenhof,2025,42,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Financial-impact advice on bills/decrees COUNT 42 in 2025; tick745
+bud_ccrek_fed_mp_inzage_25_2025,rekenhof,2025,25,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,MP individual access answers COUNT 25 to 21 MPs in 2025; tick745
+bud_ccrek_fed_exec_advice_recv_8,rekenhof,2025,8,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Executive advice requests received COUNT 8 in 2025; tick745
+bud_ccrek_fed_exec_advice_admissible_6,rekenhof,2025,6,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Admissible executive advice COUNT 6 (fed2 BRU3 DG1); tick745
+bud_ccrek_fed_recs_full_or_partial_71pct,rekenhof,2025,71,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Recs fully or partially followed 71pct (monitor); tick745
+bud_ccrek_fed_recs_full_23pct,rekenhof,2025,23,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Recs fully executed 23pct; tick745
+bud_ccrek_fed_recs_in_progress_48pct,rekenhof,2025,48,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Recs in progress 48pct; tick745
+bud_ccrek_fed_recs_not_executed_21pct,rekenhof,2025,21,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Recs not executed 21pct; tick745
+bud_ccrek_fed_recs_not_assessed_8pct,rekenhof,2025,8,,,outturn,src_ccrek_2026_30_jv2025_residual,strong,Recs not assessed by CoA 8pct; tick745
+bud_dual_coa_fed_full_23pct_vs_vl_15_8pct,gg_belgium,2025,23,,,outturn,src_dual_coa_fed_vl_recs_tick745,strong,Fed multi-entity monitor full-exec 23pct vs VL thematic full 15.8pct dual residual; tick745
+bud_dual_coa_fed_not_exec_21pct_vs_vl_dead,gg_belgium,2025,21,,,outturn,src_dual_coa_fed_vl_recs_tick745,strong,Fed not-executed 21pct dual VL no-action 14.2pct + intention 19pct class; tick745
+bud_dual_coa_capacity_fed_475_vs_vl_58_5,gg_belgium,2025,475,,,outturn,src_dual_coa_fed_vl_recs_tick745,strong,Fed CoA FTE 475 vs VL chamber VG-level 58.5 dual capacity map; tick745
