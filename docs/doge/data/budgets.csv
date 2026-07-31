@@ -14317,3 +14317,32 @@ bud_dg_eoi_iawm_6_97m,sec_dg,2026,6973000,,,budgeted,src_ccrek_dg_aju2026,strong
 bud_dg_eoi_zkb_12_97m,sec_dg,2026,12972000,,,budgeted,src_ccrek_dg_aju2026,strong,ZKB Kinderbetreuung AE 12.972m; tick724
 bud_dg_liquidity_note_missed_5m,sec_dg,2026,5000000,,,budgeted,src_ccrek_dg_aju2026,strong,CoA: capital tilgung forecast misses Mar2025 liquidity note due Sep2026 5.0m; tick724
 bud_dual_dg_entity2_debt_tick724,gg_belgium,2026,1467776000,,,projected,src_dual_dg_entity2_tick724,strong,Dual DG debt 1.47bn vs VL/WAL/FWB residual; not TE-additive; tick724
+bud_dbfm_vfm_school_npv_dbfm_5_60pct,regie_gebouwen,2026,174040000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBFM NPV 174.040m at private WACC 5.60pct; tick725
+bud_dbfm_vfm_school_npv_dbm_5_60pct,regie_gebouwen,2026,193636000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBM NPV 193.636m at 5.60pct; tick725
+bud_dbfm_vfm_school_npv_dbfm_4_41pct,regie_gebouwen,2026,212937000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBFM NPV 212.937m at 4.41pct; tick725
+bud_dbfm_vfm_school_npv_dbm_4_41pct,regie_gebouwen,2026,215406000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBM NPV 215.406m at 4.41pct; tick725
+bud_dbfm_vfm_school_npv_dbfm_3_32pct,regie_gebouwen,2026,254548000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBFM NPV 254.548m at OLO30 3.32pct; CoA premium +14.7m; tick725
+bud_dbfm_vfm_school_npv_dbm_3_32pct,regie_gebouwen,2026,239888000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBM NPV 239.888m at OLO30 3.32pct; tick725
+bud_dbfm_vfm_school_npv_dbfm_3_00pct,regie_gebouwen,2026,274273000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBFM NPV 274.273m at 3.00pct; tick725
+bud_dbfm_vfm_school_npv_dbm_3_00pct,regie_gebouwen,2026,248164000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,VFM school DBM NPV 248.164m at 3.00pct; tick725
+bud_dbfm_vfm_school_premium_olo_14_7m,regie_gebouwen,2026,14700000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,CoA: at OLO30 3.32pct DBFM costs +14.7m vs DBM for European school example; tick725
+bud_dbfm_vfm_private_wacc_5_60pct,regie_gebouwen,2026,5.6,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Private partner WACC 5.60pct used in Regie VFM school example; tick725
+bud_dbfm_vfm_olo30_3_32pct,regie_gebouwen,2026,3.32,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,OLO 30y rate 3.32pct CoA preferred discount for state cost; tick725
+bud_dbfm_vresse_roof_rv_own_1_0m,regie_gebouwen,2026,1000000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Vresse roof residual value own-management scenario 1.0m after 25y CoA footnote; tick725
+bud_dbfm_vresse_roof_rv_dbfm_6_1m,regie_gebouwen,2026,6100000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Vresse roof residual value DBFM scenario 6.1m after 25y without concrete justification CoA; tick725
+bud_dbfm_vresse_roof_rv_gap_5_1m,regie_gebouwen,2026,5100000,,,estimate,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Roof residual value wedge 5.1m biases VFM toward DBFM CoA critique; tick725
+bud_dbfm_mod_cm_threshold_q_maint_40k,regie_gebouwen,2024,40000,,,budgeted,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,CM 3 May 2024: ops mods with quarterly maint cost >40k EUR need CM after IF; tick725
+bud_dbfm_sla_critical_penalty_400,dg_epi,2023,400,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Critical SLA 10min miss redevance reduction 400 EUR not uniformly applied CoA 2023; tick725
+bud_dbfm_gpp_etp_2023,regie_gebouwen,2023,6.7,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Regie GPP cadre 6.7 ETP 2023 mostly architects CoA; tick725 COUNT_ETP
+bud_dbfm_ppp_dir_cadre_target,dg_epi,2023,7,,,budgeted,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Justice PPP direction cadre target 7 agents; tick725 COUNT
+bud_dbfm_ppp_dir_staff_2023,dg_epi,2023,4,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Justice PPP direction staffed 4 of 7 in 2023; tick725 COUNT
+bud_dbfm_ppp_dir_staff_2026,dg_epi,2026,6,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Justice PPP direction staffed 6 of 7 at suivi; lawyer recruit 2026; tick725 COUNT
+bud_dbfm_facility_mgrs_in_post_2026,regie_gebouwen,2026,2,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Facility managers in post: FL 2025 + WAL 15Jan2026; BRU still open; tick725 COUNT
+bud_dbfm_recs_done_9,regie_gebouwen,2026,9,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,CoA 30 recs: 9 fully applied as of 31Jan2026; tick725 COUNT
+bud_dbfm_recs_ongoing_16,regie_gebouwen,2026,16,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,CoA 30 recs: 16 ongoing; tick725 COUNT
+bud_dbfm_recs_not_5,regie_gebouwen,2026,5,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,CoA 30 recs: 5 not followed (incl federal PPP law frame rec6; uniform price revision rec30; etc); tick725 COUNT
+bud_dbfm_ops_prisons_5,dg_epi,2026,5,,,outturn,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,5 DBFM prisons in ops: Marche Beveren Leuze Haren Dendermonde; tick725 COUNT
+bud_dbfm_project_prisons_4,dg_epi,2026,4,,,budgeted,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,4 project DBFM: Antwerp mid2026 Leopoldsburg2029 Vresse2029 Verviers2031; tick725 COUNT
+bud_dbfm_cpl_3_dbfmo,dg_epi,2026,3,,,budgeted,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,3 CPL DBFMO planned Paifve Wavre Aalst not in initial 2023 audit; tick725 COUNT
+bud_dbfm_offbalance_still_2_6bn_class,dg_epi,2022,2600000000,,,commitment,src_ccrek_prisons_dbfm_suivi_residual_tick725,strong,Legal commit 2.6bn eoy2022 still not in general accounts hors-bilan at 2026 suivi; tick725
+bud_dual_dbfm_vfm_method_tick725,gg_belgium,2026,14700000,,,estimate,src_dual_dbfm_vfm_tick725,strong,Dual residual: federal DBFM VFM school premium 14.7m method flag vs VL PPP decree reportage; not TE-additive; tick725

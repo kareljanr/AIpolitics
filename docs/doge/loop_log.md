@@ -8586,3 +8586,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_dg_aju2026_debt_npe_l5 — ready (not sent; contacts TBD)
 - Next: rq_716; progress@730 in 6 ticks; rq_116 deferred
 
+
+### 2026-08-01T23:15:00Z — tick 725
+- Unit: **rq_716** (FOI-adjacent residual dual — **CoA prisons PPP suivi 2026_24 VFM/HR/IWMS residual**)
+- Found (primary CoA 2026_24 Nouvelles prisons PPP suivi, AG 27 May 2026; residual vs tick491/534):
+  - VFM Table1 European school NPV (kEUR): DBFM/DBM at 5.60% **174.0/193.6**; 4.41% **212.9/215.4**; OLO 3.32% **254.5/239.9** → CoA premium **+14.7m**; 3.00% **274.3/248.2**
+  - Private WACC **5.60%** vs OLO30 **3.32%** flips ranking; residual-value bias Vresse roof **1.0m own vs 6.1m DBFM** (wedge **5.1m**)
+  - CM 3 May 2024: ops mods quarterly maint **>40k EUR** need CM after IF; redevances = invest fixed + maint indexed + facility Justice
+  - SLA critical 10min miss reduction **400 EUR** not uniform (2023 finding residual)
+  - HR: GPP **6.7 ETP** 2023; PPP dir **4→6/7**; facility managers FL 2025 + WAL 15Jan2026; BRU open; collab agreement **18 Mar 2026**
+  - IWMS unfunded; BMS extend to May2026 then +3y; DBFM module **~2029**; blocks cost/quality dashboard rec33
+  - Recs **9 done / 16 ongoing / 5 not** of 30; 5 ops + 4 project prisons; 3 CPL DBFMO; off-balance **2.6bn** still unrecorded; dual VL PPP decree
+  - Strong CoA residual; L5 FOI VFM workbooks + IWMS path.
+- Wrote: budgets (+29); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_dbfm_vfm_iwms_l5**; raw PDF + extract; rq_716=done; spawn **rq_717**; loop_state ticks=725
+- FOI opened: gap_dbfm_vfm_iwms_l5 — ready (not sent); prior gap_dbfm_fees / gap_dbfm_maint notes updated
+- Next: rq_717; progress@730 in 5 ticks; rq_116 deferred
