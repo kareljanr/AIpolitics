@@ -11907,3 +11907,47 @@ bud_enreg_non_transmissions_bi2025_class,fiscal_enregistrement_wal,2025,11625000
 bud_spw_119quater_economy_gross_bi2025,wallonie_gov,2025,26100000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,119quater already statutaires 2472 agents gross employer SSC economy 26.1m/yr; tick651
 bud_spw_119quater_potential_full_gross,wallonie_gov,2025,43300000,,,estimate,src_ccrek_fiscal_ipp_enregistrement_bi2025,medium,If all 1635 remaining statutarisables: gross economy 43.3m/yr CoA; tick651
 bud_spw_119quater_economy_net_bi2025,wallonie_gov,2025,15900000,,,budgeted,src_ccrek_fiscal_ipp_enregistrement_bi2025,strong,119quater net economy after CRP 15.9m/yr (6416 EUR/agent); tick651
+bud_nonfiscal_diverses_bi2025,nonfiscal_diverses_wal,2025,871500000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Recettes diverses non fiscales BI2025 871.5m path -164.4m; tick652
+bud_nonfiscal_tresorerie_remonte_uap_bi2025,nonfiscal_diverses_wal,2025,536600000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Rapatriement tresoreries UAP 536.6m (component of 575.6m total remonte); tick652
+bud_nonfiscal_remonte_aviq_bi2025,aviq,2025,335300000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte AViQ 335.3m of UAP treasury; tick652
+bud_nonfiscal_remonte_we_bi2025,wallonie_entreprendre,2025,110000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte WE 110.0m; tick652
+bud_nonfiscal_remonte_spaque_bi2025,spaque,2025,40500000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte SPAQuE 40.5m; tick652
+bud_nonfiscal_remonte_sowaer_bi2025,sowaer,2025,20000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte Sowaer 20.0m; tick652
+bud_nonfiscal_remonte_iweps_bi2025,wallonie_gov,2025,8000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte IWEPS 8.0m; tick652
+bud_nonfiscal_remonte_crac_lt_bi2025,crac,2025,5000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte CRAC long terme 5.0m; tick652
+bud_nonfiscal_remonte_cgt_bi2025,tourisme_wallonie,2025,4400000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte CGT 4.4m; tick652
+bud_nonfiscal_remonte_wbi_bi2025,wbi,2025,4000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte WBI 4.0m; tick652
+bud_nonfiscal_remonte_craw_bi2025,cra_w,2025,2000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Remonte CRA-W 2.0m; tick652
+bud_nonfiscal_fn_herstal_bi2025,nonfiscal_diverses_wal,2025,15000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Dividendes FN Herstal 15.0m within 55m; tick652
+bud_nonfiscal_sofico_expropri_bi2025,sofico,2025,15800000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Sofico expropriation remboursements 15.8m (matched dep); tick652
+bud_nonfiscal_vente_immeubles_bi2025,nonfiscal_diverses_wal,2025,10000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Vente immeubles 10.0m (7 sites Liege Mons Malmedy); tick652
+bud_nonfiscal_coupe_bois_bi2025,nonfiscal_diverses_wal,2025,14000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Vente coupe de bois 14.0m; tick652
+bud_nonfiscal_interets_placements_bi2025,nonfiscal_diverses_wal,2025,5000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Interets crediteurs placements 5.0m; tick652
+bud_nonfiscal_interets_tresorerie_bi2025,nonfiscal_diverses_wal,2025,70000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Interets tresorerie 70.0m; tick652
+bud_nonfiscal_swaps_bi2025,nonfiscal_diverses_wal,2025,68400000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Revenus des swaps 68.4m; tick652
+bud_nonfiscal_spf_pp_rembours_bi2025,nonfiscal_diverses_wal,2025,19300000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,SPF Finances precompte rembours 19.3m (scientific 16 + night 3.3); tick652
+bud_nonfiscal_pp_scientific_bi2025,nonfiscal_diverses_wal,2025,16000000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Precompte professionnel fonctions scientifiques 16.0m; tick652
+bud_nonfiscal_pp_night_budget_bi2025,nonfiscal_diverses_wal,2025,3300000,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,medium,Precompte night/team budget 3.3m CoA overstate; tick652
+bud_nonfiscal_pp_night_actual_2024,nonfiscal_diverses_wal,2024,85000,,,outturn,src_ccrek_nonfiscal_we_subs_bi2025,strong,Actual night/team PP recovery 2024 (remun 2023) only 0.085m CoA; tick652
+bud_we_int_rec_bi2025,we_international,2025,4838417,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WE International rec BI2025 4.838m; tick652
+bud_we_int_dep_bi2025,we_international,2025,2626957,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WE International dep BI2025 2.627m solde +2.211m; tick652
+bud_socamut_rec_bi2025,socamut,2025,4102523,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Socamut rec BI2025 4.103m; tick652
+bud_socamut_dep_bi2025,socamut,2025,2431688,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Socamut dep BI2025 2.432m solde +1.671m; tick652
+bud_novallia_rec_bi2025,novallia,2025,4493756,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Novallia rec BI2025 4.494m; tick652
+bud_novallia_dep_bi2025,novallia,2025,277773,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Novallia dep BI2025 0.278m solde +4.216m; tick652
+bud_we_acc_rec_bi2025,we_accompagnement,2025,19723899,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WE Accompagnement rec BI2025 19.724m; tick652
+bud_we_acc_dep_bi2025,we_accompagnement,2025,19058112,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WE Accompagnement dep BI2025 19.058m solde +0.666m; tick652
+bud_wow_rec_bi2025,wow_wallonie,2025,3560776,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WOW rec BI2025 3.561m; tick652
+bud_wow_dep_bi2025,wow_wallonie,2025,719862,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WOW dep BI2025 0.720m solde +2.841m; tick652
+bud_arceo_rec_bi2025,arceo_wal,2025,6024300,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Arceo rec BI2025 6.024m; tick652
+bud_arceo_dep_bi2025,arceo_wal,2025,7251319,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Arceo dep BI2025 7.251m solde -1.227m; tick652
+bud_fpw_rec_bi2025,fpw_participation,2025,877370,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,FPW rec BI2025 0.877m; tick652
+bud_fpw_dep_bi2025,fpw_participation,2025,186834,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,FPW dep BI2025 0.187m solde +0.691m; tick652
+bud_we_env_rec_bi2025,we_environnement,2025,10130781,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,WE Environnement rec BI2025 10.131m; tick652
+bud_be_fin_rec_bi2025,be_fin_wal,2025,6581495,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,BE Fin rec BI2025 6.581m; tick652
+bud_be_fin_dep_bi2025,be_fin_wal,2025,6022279,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,BE Fin dep BI2025 6.022m solde +0.559m; tick652
+bud_wallonie_sante_rec_bi2025,wallonie_sante_invest,2025,4016956,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Wallonie Sante rec BI2025 4.017m; tick652
+bud_wallonie_sante_dep_bi2025,wallonie_sante_invest,2025,1916319,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Wallonie Sante dep BI2025 1.916m solde +2.101m; tick652
+bud_espace_fin_dep_bi2025,wallonie_entreprendre,2025,911928,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Espace Financement dep BI2025 0.912m solde -0.332m (path +11.2m vs BI2024 -11.5m); tick652
+bud_invests_rec_bi2025,wallonie_entreprendre,2025,4166260,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Invests rec BI2025 4.166m path -1.011m; tick652
+bud_invests_dep_bi2025,wallonie_entreprendre,2025,2570968,,,budgeted,src_ccrek_nonfiscal_we_subs_bi2025,strong,Invests dep BI2025 2.571m solde +1.595m; tick652

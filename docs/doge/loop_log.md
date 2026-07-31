@@ -7711,3 +7711,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+30); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_fiscal_ipp_enregistrement_l5_2025; rq_642=done; spawn rq_643; loop_state ticks=651
 - FOI opened: gap_fiscal_ipp_enregistrement_l5_2025 -- ready (not sent)
 - Next: rq_643; progress@660 in 9 ticks; rq_116 deferred
+
+### 2026-08-01T04:45:00Z -- tick 652
+- Unit: rq_643 (FOI-adjacent dual nonfiscal/holding hole-fill -- **Recettes non fiscales diverses + WE Type3 residual** dual PMV)
+- Found: **Nonfiscal diverses** (primary CoA s4.5.1): BI2025 **EUR871.5m** (path **-EUR164.4m**). Remonte UAP **EUR536.6m** (AViQ **EUR335.3m** / WE **EUR110m** / SPAQuE **EUR40.5m** / Sowaer **EUR20m**). Dividendes **EUR55m** (FN Herstal **EUR15m**). Swaps **EUR68.4m**; tresorerie int **EUR70m**; Sofico expropri **EUR15.8m**. **PP night budget EUR3.3m vs actual EUR0.085m** (CoA overstate). **WE Type3 residual:** Novallia solde **+EUR4.2m**; Socamut **+EUR1.7m**; WE Int **+EUR2.2m**; WOW **+EUR2.8m**; WE Acc **+EUR0.7m**; Arceo **-EUR1.2m**; WE Env **+EUR3.3m**; Wallonie Sante **+EUR2.1m**. Dual **PMV**. Strong confidence CoA; non-communique residual FOI.
+- Wrote: entities (+11); budgets (+45); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_nonfiscal_we_subs_l5_2025; rq_643=done; spawn rq_644; loop_state ticks=652
+- FOI opened: gap_nonfiscal_we_subs_l5_2025 -- ready (not sent)
+- Next: rq_644; progress@660 in 8 ticks; rq_116 deferred

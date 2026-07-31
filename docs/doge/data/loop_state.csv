@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T04:30:00Z,rq_642,651,no,tick651 IPP 3.74bn enregistrement reform path -253m dual VL; next rq_643; progress@660 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T04:45:00Z,rq_643,652,no,tick652 nonfiscal 871.5m WE subs dual PMV; next rq_644; progress@660 in 8; rq_116 deferred
