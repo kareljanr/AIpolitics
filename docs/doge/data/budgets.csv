@@ -10331,3 +10331,14 @@ bud_sofico_land_acq_2025,sofico,2025,245773562,,,outturn,src_sofico_comptes_2025
 bud_sofico_fte_2025,sofico,2025,49.5,,,outturn,src_sofico_comptes_2025,strong,Effectif moyen FTE 49.5 (51 headcount eoy); tick571
 bud_spw_mi_lock_invest_class,spw_mi,2025,129000000,,,budgeted,src_spw_mi_ra_2025,medium,Ecluse invest class 129m 50pct EU cofinanced; tick571
 bud_dual_sofico_vs_awv_vek,sofico,2025,502753680,,,outturn,src_dual_roads_awv_sofico_2025_tick571,strong,EUR dual SOFICO CA 503m vs AWV VEK 1.19bn 2024 class different perimeter; tick571
+bud_dwv_invest_projects_2025,de_werkvennootschap,2025,244900000,,,outturn,src_dwv_jv_2025,strong,Total project investments 244.9m 2025 JV (aligns GIP class 243.8m); tick572
+bud_dwv_invest_bike_2025,de_werkvennootschap,2025,76400000,,,outturn,src_dwv_jv_2025,strong,Bike infrastructure investments 76.4m of 244.9m total (~31pct); bridges and fietssnelwegen; tick572
+bud_dwv_invest_nonbike_2025,de_werkvennootschap,2025,168500000,,,outturn,src_dwv_jv_2025,strong,Implied non-bike project invest 168.5m (244.9-76.4); roads PPS/ring class; tick572
+bud_dwv_permits_2025,de_werkvennootschap,2025,12,,,outturn,src_dwv_jv_2025,strong,COUNT omgevingsvergunningen obtained 12 in 2025; tick572
+bud_dwv_groundbreak_2025,de_werkvennootschap,2025,5,,,outturn,src_dwv_jv_2025,strong,COUNT project groundbreakings 5 in 2025; tick572
+bud_dwv_commissioned_2025,de_werkvennootschap,2025,7,,,outturn,src_dwv_jv_2025,strong,COUNT projects commissioned/opened 7 in 2025; tick572
+bud_dwv_staff_2025,de_werkvennootschap,2025,25,,,outturn,src_dwv_jv_2025,strong,COUNT employees 25 (lean PPS coordinator model dual AWV); tick572
+bud_dwv_participations_2025,de_werkvennootschap,2025,70,,,outturn,src_dwv_jv_2025,strong,COUNT info/participation moments >70; tick572
+bud_awv_overbruggen_bridges,awv,2025,30,,,outturn,src_awv_av_2025_overbruggen,strong,COUNT OverBruggen DBFM ~30 fixed bridges to renovate maintain to 2060; tick572
+bud_awv_overbruggen_design_ready,awv,2025,10,,,outturn,src_awv_av_2025_overbruggen,strong,COUNT bridges design ready end-2025: 10 of program; tick572
+bud_dual_dwv_gip_vs_jv_invest,de_werkvennootschap,2025,244900000,,,outturn,src_dual_vl_roads_pps_tick572,strong,EUR dual: JV invest 244.9m vs GIP envelope 243.8m 2025 recon class strong; tick572

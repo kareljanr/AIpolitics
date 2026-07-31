@@ -6954,3 +6954,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +25; cmt +3; lb +6; FOI **gap_sofico_works_l5_2025** ready+draft; raw PDFs; entity; rq_562=done spawn **rq_563**; ticks=571
 - FOI opened: gap_sofico_works_l5_2025 (ready, human send) - not sent; gap_awv_sofico_l5 partial
 - Next: prio5 **rq_563**; deferred **rq_116**; progress@580 in 9 ticks
+
+### 2026-07-31T10:45:00Z - tick 572
+- Unit: **rq_563** (FOI-adjacent hole-fill - **DWV Jaarverslag 2025 invest L5 + AWV OverBruggen dual roads PPS**)
+- Found (strong primary DWV JV2025 site + AWV Activiteitenverslag 2025):
+  - **DWV project invest EUR 244.9m** 2025 (recon GIP **243.8m** class)
+  - **Bike infra EUR 76.4m** (~31% of invest); non-bike **168.5m** class
+  - Ops KPIs: **12** permits · **5** groundbreakings · **7** commissioned · **>70** participation moments
+  - Staff **25** (lean PPS coordinator dual AWV capacity)
+  - Projects: R4WO · SPI.R0 · NZL Fase1 · HOV · Gentspoort · R0 Noord-Zaventem dialoog
+  - **AWV OverBruggen:** DBFM **~30** bridges TM Brugfabriek to **2060**; design ready **10**; works **2027** / open **2028**
+  - **Dual roads:** DWV **245m** + OverBruggen stock vs SOFICO CA **503m** / land acq **246m** (tick571)
+- Wrote: sources +3; budgets +11; cmt +3; lb +6; FOI **gap_dwv_accounts_l5_2025** ready+draft; entity; rq_563=done spawn **rq_564**; ticks=572
+- FOI opened: gap_dwv_accounts_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_564**; deferred **rq_116**; progress@580 in 8 ticks
