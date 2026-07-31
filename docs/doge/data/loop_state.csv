@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T09:00:00Z,rq_764,773,no,tick773 organs IGVM 31.1 UNIA 4.0 Myria 1.6; next rq_765 Kanselarij/Royal; progress@780 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T10:00:00Z,rq_765,774,no,tick774 Kanselarij culture 68.7 NCIA 137.4 CCB 26.6; next rq_766 Royal/SACA; progress@780 in 6; rq_116 deferred

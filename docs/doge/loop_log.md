@@ -9279,3 +9279,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_765 Kanselarij 002 / Royal 001 / SACA 021; progress@780 in 7; rq_116 deferred
 
+
+## Tick 774 — 2026-08-03T10:00:00Z
+
+- Unit: **rq_765** (FOI-adjacent residual — **Kamer DOC 56 1281/002 FOD Kanselarij**, 61p)
+- Found (primary 56K1281002, kEUR eng≈liq unless noted):
+  - **Federal culture** Monnaie **€42.248m** + NOB **€10.943m** + BOZAR **€15.523m** = stack **€68.725m** (Monnaie dual exact OAP023)
+  - **NCIA construction** eng **€137.4m** 2026 / liq **€0.34m**; envelope text **€137.399852m**; eng 2025 **€90.73m**
+  - **NATO pensions** **€30.766m** · **CCB total €26.553m** (EGOV/Smals **€13.3m** reclass from IT ops)
+  - **iPolice** **€13.010m** · ICT ops **€12.220m** · ICT prog total **€28.662m**
+  - Union premiums **€17.682m** · HNS SHAPE stack **€9.348m**
+- Wrote: entities (+kanselarij/ccb/ncia); budgets +21; commitments +8; leaderboard +10; sources +2; FOI **gap_kanselarij_ncia_ccb_culture_l5** prio8 ready; rq_765=done; spawn **rq_766**; ticks=774
+- FOI: ready only — **do not send**
+- Next: rq_766 Royal 001 / SACA 021; progress@780 in 6; rq_116 deferred
+

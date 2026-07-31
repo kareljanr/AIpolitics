@@ -554,3 +554,6 @@ fod_bz,FOD Buitenlandse Zaken Buitenlandse Handel en Ontwikkelingssamenwerking,S
 persopoint,Persopoint (BOSA HR shared service),Persopoint,Persopoint federal HR shared services,agency,fod_bosa,bi,https://bosa.belgium.be,,,2nd pillar contractuels 31m; tick772
 igvm,Instituut voor de Gelijkheid van Vrouwen en Mannen IGVM,Institut pour l egalite des femmes et des hommes IEHF,Institute for the Equality of Women and Men,agency,sec_federal,bi,https://igvm-iefh.belgium.be,,,Fed dot 31.101m 2026; tick773
 unia,Unia Interfederaal Centrum gelijke kansen,Unia Centre interfederal egalite des chances,Unia Interfederal Centre for Equal Opportunities,agency,sec_federal,bi,https://www.unia.be,,,Fed dot 4.034m 2026; law total 7.84m+index from 2015; tick773
+fod_kanselarij,FOD Kanselarij van de Eerste Minister,SPF Chancellerie du Premier Ministre,FPS Chancellery of the Prime Minister,ministry,sec_federal,bi,https://www.premier.be,,,Section 02; culture CCB NCIA; tick774
+ccb,Centrum voor Cybersecurity België CCB,Centre pour la Cybersécurité Belgique,Centre for Cybersecurity Belgium,agency,fod_kanselarij,bi,https://ccb.belgium.be,,,Program total 26.553m 2026; tick774
+ncia,NATO Communications and Information Agency NCIA (Brussels host),NCIA,NCIA NATO C&I Agency host-nation works,intl,fod_kanselarij,en,https://www.ncia.nato.int,,,Build eng 137.4m 2026; tick774

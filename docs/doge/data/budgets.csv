@@ -16204,3 +16204,24 @@ bud_myria_dot_2029,myria,2029,1516000,,,budgeted,src_kamer_organs_1281_004_2026,
 bud_organs_equality_stack_2026,sec_federal,2026,36735000,,,derived,src_kamer_organs_1281_004_2026,strong,IGVM+UNIA+Myria federal dots 36735 kEUR 2026; tick773
 bud_unia_law_base_2015,unia,2015,7840000,,,statute,src_kamer_organs_1281_004_2026,strong,Law 19 Jan 2014 art16 base budget 7.84m from 2015 excl own revenue incl handicap mission indexed health index; tick773
 bud_dual_unia_fed_vs_total_2026,gg_belgium,2026,4034000,,,derived,src_dual_organs_equality_tick773,strong,Dual federal UNIA 4.034m vs statutory interfed base 7.84m+index class; not TE-additive; tick773
+bud_monnaie_kanselarij_dot_2026,fod_kanselarij,2026,42248000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.31.20.41.40.21 Monnaie/KMS via Kanselarij 42248 kEUR 2026 eng=liq MATCH OAP023; tick774
+bud_nob_kanselarij_dot_2026,fod_kanselarij,2026,10943000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.31.20.41.40.22 NOB/ONB 10943 kEUR 2026; tick774
+bud_bozar_kanselarij_dot_2026,fod_kanselarij,2026,15523000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.31.20.41.40.25 BOZAR/PSK 15523 kEUR 2026; tick774
+bud_fed_culture_kanselarij_stack_2026,fod_kanselarij,2026,68725000,,,derived,src_kamer_kanselarij_1281_002_2026,strong,derived
+bud_ncia_build_eng_2026,ncia,2026,137400000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.36.14.72.00.01 NCIA construction eng 137400 kEUR 2026 (liq 340); multi-year; tick774
+bud_ncia_build_liq_2026,ncia,2026,340000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.36.14.72.00.01 NCIA build liq 340 kEUR 2026; tick774
+bud_ncia_build_eng_2025,ncia,2025,90730000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,NCIA build eng 90730 kEUR 2025; tick774
+bud_ncia_envelope_total,ncia,2026,137399852,,,commitment,src_kamer_kanselarij_1281_002_2026,strong,Text total updated NCIA budget envelope 137399852 EUR (MR); tick774
+bud_ncia_studies_2026,ncia,2026,1560000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.36.14.12.11.15 NCIA studies eng 1560 kEUR 2026; tick774
+bud_nato_pension_fund_2026,fod_kanselarij,2026,30766000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.36.15.35.40.04 NATO former staff pension scheme 30766 kEUR 2026; tick774
+bud_ccb_total_2026,ccb,2026,26553000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,CCB program 02.34.0 total eng=liq 26553 kEUR 2026; tick774
+bud_ccb_it_ops_2026,ccb,2026,7182000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.34.01.12.11.04 CCB IT ops 7182 kEUR 2026 (after -13.3m EGOV reclass); tick774
+bud_ccb_egov_smals_2026,ccb,2026,13300000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.34.01.12.21.20 CCB EGOV/Smals 13300 kEUR 2026 reclass from IT; tick774
+bud_ccb_statutair_2026,ccb,2026,3386000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.34.01.11.00.03 CCB statutair 3386 kEUR 2026; tick774
+bud_kanselarij_ict_ops_2026,fod_kanselarij,2026,12220000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.21.10.12.11.23 ICT ops 12220 kEUR 2026; tick774
+bud_kanselarij_ipolice_2026,fod_kanselarij,2026,13010000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.21.10.12.11.31 iPolice ops 13010 kEUR 2026 (path drop to 1313); tick774
+bud_kanselarij_ict_prog_total_2026,fod_kanselarij,2026,28662000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,Program 02.21.1 ICT total eng 28662 kEUR 2026; tick774
+bud_kanselarij_union_premiums_2026,fod_kanselarij,2026,17682000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,BA 02.32.31.11.12.01 union premiums vakbondspremies 17682 kEUR 2026; tick774
+bud_hns_shape_stack_2026,fod_kanselarij,2026,9348000,,,budgeted,src_kamer_kanselarij_1281_002_2026,strong,HNS SHAPE force protection+ZHC+REM stack 9348 kEUR 2026; tick774
+bud_dual_culture_kanselarij_oap_2026,gg_belgium,2026,42248000,,,derived,src_dual_kanselarij_culture_ncia_tick774,strong,Dual Monnaie Kanselarij 42.248 exact class OAP023 42.25; not TE-additive; tick774
+bud_dual_ncia_host_nation_2026,gg_belgium,2026,137400000,,,derived,src_dual_kanselarij_culture_ncia_tick774,strong,Dual NCIA host-nation build eng 137.4m multi-year vs BZ host residual; not TE-additive; tick774
