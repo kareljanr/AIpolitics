@@ -9585,3 +9585,61 @@ bud_e1_gov_supported_invest_2027,sec_federal,2027,7980000000,,,budgeted,src_kame
 bud_e1_gov_supported_invest_2028,sec_federal,2028,8135000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 8135m 2028; tick547
 bud_e1_gov_supported_invest_2029,sec_federal,2029,8344000000,,,budgeted,src_kamer_expose_invest_e1_2026,strong,Table40 investments supported by gov 8344m 2029; tick547
 bud_dual_e1_ion_vs_consol_invest_2026,sec_federal,2026,1559000000,,,derived,src_dual_invest_e1_consol_tick547,strong,Dual Table40 ION 1559m 2026 vs consol invest share class; tick547
+bud_e1_nopol_financing_2026,sec_federal,2026,-26200000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy financing saldo -26.2bn 2026; tick548
+bud_e1_nopol_financing_2027,sec_federal,2027,-29400000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy financing -29.4bn 2027; tick548
+bud_e1_nopol_financing_2028,sec_federal,2028,-31800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy financing -31.8bn 2028; tick548
+bud_e1_nopol_financing_2029,sec_federal,2029,-39100000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy financing -39.1bn 2029; tick548
+bud_e1_nopol_primary_2026,sec_federal,2026,-14000000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy primary saldo -14.0bn 2026; tick548
+bud_e1_nopol_primary_2029,sec_federal,2029,-20800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy primary -20.8bn 2029; tick548
+bud_e1_nopol_primary_exp_2026,sec_federal,2026,215100000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy primary exp 215.1bn 2026; tick548
+bud_e1_nopol_primary_exp_2029,sec_federal,2029,235700000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy primary exp 235.7bn 2029; tick548
+bud_e1_nopol_ss_benefits_2026,sec_ss,2026,135600000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy SS benefits 135.6bn 2026; tick548
+bud_e1_nopol_ss_benefits_2029,sec_ss,2029,151100000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy SS benefits 151.1bn 2029; tick548
+bud_e1_nopol_interest_2026,sec_federal,2026,12200000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy interest 12.2bn 2026; tick548
+bud_e1_nopol_interest_2029,sec_federal,2029,18300000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table29 no-policy interest 18.3bn 2029; tick548
+bud_e1_measures_impact_fin_2026,sec_federal,2026,1600000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures impact financing +1.6bn 2026; tick548
+bud_e1_measures_impact_fin_2027,sec_federal,2027,2400000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures impact financing +2.4bn 2027; tick548
+bud_e1_measures_impact_fin_2028,sec_federal,2028,3000000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures impact financing +3.0bn 2028; tick548
+bud_e1_measures_impact_fin_2029,sec_federal,2029,8000000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures impact financing +8.0bn 2029; tick548
+bud_e1_measures_impact_primary_2026,sec_federal,2026,1600000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures impact primary +1.6bn 2026; tick548
+bud_e1_measures_impact_primary_2029,sec_federal,2029,7500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures impact primary +7.5bn 2029; tick548
+bud_e1_measures_unalloc_2026,sec_federal,2026,500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 onverdeeld measures +0.5bn 2026; tick548
+bud_e1_measures_unalloc_2029,sec_federal,2029,1500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 onverdeeld measures +1.5bn 2029; dual CM path; tick548
+bud_e1_measures_ss_benefits_save_2029,sec_ss,2029,2500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table30 measures reduce SS benefits path +2.5bn saldo effect 2029; tick548
+bud_e1_measures_budget_ion_2026,sec_federal,2026,-900000000,,,budgeted,src_kamer_expose_e1_path_2026_29,medium,Table30 measures on budget+ION primary -0.9bn 2026 (sign: primary exp line); tick548
+bud_e1_post_financing_2026,sec_federal,2026,-24600000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures financing -24.6bn 2026 (-3.7pct GDP); tick548
+bud_e1_post_financing_2027,sec_federal,2027,-26900000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures financing -26.9bn 2027; tick548
+bud_e1_post_financing_2028,sec_federal,2028,-28800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures financing -28.8bn 2028; tick548
+bud_e1_post_financing_2029,sec_federal,2029,-31200000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures financing -31.2bn 2029 (-4.3pct GDP); tick548
+bud_e1_post_primary_2026,sec_federal,2026,-12500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures primary -12.5bn 2026 (-1.9pct); tick548
+bud_e1_post_primary_2027,sec_federal,2027,-13000000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures primary -13.0bn 2027; tick548
+bud_e1_post_primary_2028,sec_federal,2028,-13000000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures primary -13.0bn 2028; tick548
+bud_e1_post_primary_2029,sec_federal,2029,-13400000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 after measures primary -13.4bn 2029 (-1.8pct); tick548
+bud_e1_post_interest_2026,sec_federal,2026,12200000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 interest 12.2bn 2026; tick548
+bud_e1_post_interest_2027,sec_federal,2027,13900000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 interest 13.9bn 2027; tick548
+bud_e1_post_interest_2028,sec_federal,2028,15700000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 interest 15.7bn 2028; tick548
+bud_e1_post_interest_2029,sec_federal,2029,17800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 interest 17.8bn 2029 (+5.6 vs 2026); tick548
+bud_e1_post_rec_2026,sec_federal,2026,202000000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 receipts 202.0bn 2026; tick548
+bud_e1_post_rec_2029,sec_federal,2029,216900000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 receipts 216.9bn 2029; tick548
+bud_e1_post_ss_benefits_2026,sec_ss,2026,135500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 SS benefits 135.5bn 2026 after measures; tick548
+bud_e1_post_ss_benefits_2029,sec_ss,2029,148600000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table31 SS benefits 148.6bn 2029 after measures; tick548
+bud_e1_spb_2026,sec_federal,2026,-12900000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 structural primary saldo -12.9bn 2026 (-1.9pct GDP); tick548
+bud_e1_spb_2027,sec_federal,2027,-12800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 SPB -12.8bn 2027 (-1.9pct); tick548
+bud_e1_spb_2028,sec_federal,2028,-12800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 SPB -12.8bn 2028 (-1.8pct); tick548
+bud_e1_spb_2029,sec_federal,2029,-12500000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 SPB -12.5bn 2029 (-1.7pct); improve only +0.4bn vs 2026; tick548
+bud_e1_struct_saldo_2026,sec_federal,2026,-25100000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 structural saldo -25.1bn 2026 (-3.8pct); tick548
+bud_e1_struct_saldo_2029,sec_federal,2029,-30400000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 structural saldo -30.4bn 2029 (-4.2pct); tick548
+bud_e1_oneoff_2026,sec_federal,2026,600000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 one-off +0.6bn 2026; tick548
+bud_e1_oneoff_2029,sec_federal,2029,-800000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 one-off -0.8bn 2029 (fiscal reform class); tick548
+bud_e1_gdp_2026,gg_belgium,2026,662067000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 GDP 662.067bn 2026; tick548
+bud_e1_gdp_2027,gg_belgium,2027,682511000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 GDP 682.511bn 2027; tick548
+bud_e1_gdp_2028,gg_belgium,2028,702749000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 GDP 702.749bn 2028; tick548
+bud_e1_gdp_2029,gg_belgium,2029,724680000000,,,budgeted,src_kamer_expose_e1_path_2026_29,strong,Table32 GDP 724.680bn 2029; tick548
+bud_e1_debt_ratio_pct_2026,sec_federal,2026,856,,,budgeted,src_kamer_expose_e1_debt_table34_2026,strong,Table34 E1 debt ratio 85.6pct GDP 2026 (amount_eur=856 means 85.6pp scale*10); tick548
+bud_e1_debt_ratio_pct_2027,sec_federal,2027,871,,,budgeted,src_kamer_expose_e1_debt_table34_2026,strong,Table34 E1 debt ratio 87.1pct GDP 2027; tick548
+bud_e1_debt_ratio_pct_2028,sec_federal,2028,888,,,budgeted,src_kamer_expose_e1_debt_table34_2026,strong,Table34 E1 debt ratio 88.8pct GDP 2028; tick548
+bud_e1_debt_ratio_pct_2029,sec_federal,2029,903,,,budgeted,src_kamer_expose_e1_debt_table34_2026,strong,Table34 E1 debt ratio 90.3pct GDP 2029; tick548
+bud_e1_debt_stock_est_2026,sec_federal,2026,566729000000,,,derived,src_kamer_expose_e1_debt_table34_2026,medium,Derived 85.6pct*662.067bn ~566.7bn E1 debt stock 2026; tick548
+bud_e1_debt_stock_est_2029,sec_federal,2029,654386000000,,,derived,src_kamer_expose_e1_debt_table34_2026,medium,Derived 90.3pct*724.680bn ~654.4bn E1 debt stock 2029; tick548
+bud_e1_nopol_vs_post_wedge_2029,sec_federal,2029,7900000000,,,derived,src_kamer_expose_e1_path_2026_29,strong,Dual no-policy financing -39.1 vs post -31.2 = measures wedge 7.9bn ~Table30 +8.0; tick548
+bud_dual_e1_spb_vs_mtfsp_2029,gg_belgium,2029,-12500000000,,,derived,src_dual_e1_spb_mtfsp_tick548,strong,Dual E1 SPB -12.5bn/-1.7pct vs MTFSP GG SPB target +0.6pct 2029; tick548

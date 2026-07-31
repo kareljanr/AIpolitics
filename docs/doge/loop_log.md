@@ -6643,3 +6643,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +44; cmt +4; lb +8; FOI **gap_e1_invest_l5_codes** ready+draft; rq_538=done spawn **rq_539**; ticks=547
 - FOI opened: gap_e1_invest_l5_codes (ready, human send) - not sent
 - Next: prio5 **rq_539**; deferred **rq_116** SWA; progress@550 in 3 ticks
+
+### 2026-07-31T08:45:00Z - tick 548
+- Unit: **rq_539** (FOI-adjacent hole-fill - **Kamer expose Part I Tables29-32+34 Entity I nopol/measures/SPB/debt 2026-29**)
+- Found (strong primary DOC 56 1278/001 Part I; billion-EUR tables):
+  - **No-policy financing:** 2026 **-EUR 26.2bn** · 2027 **-29.4** · 2028 **-31.8** · 2029 **-39.1** (-5.4% GDP)
+  - **After measures:** **-24.6 / -26.9 / -28.8 / -31.2bn** (-3.7 to -4.3% GDP)
+  - **Measures impact:** **+1.6 / +2.4 / +3.0 / +8.0bn** on financing; unalloc **+0.5 → +1.5bn**
+  - **Primary after:** **-12.5 / -13.0 / -13.0 / -13.4bn**; interest **12.2 → 17.8bn**
+  - **SPB Table32:** **-12.9 / -12.8 / -12.8 / -12.5bn** (-1.9 to **-1.7% GDP**); only **+0.4bn** improve 29vs26
+  - **Debt ratio Table34:** **85.6 → 87.1 → 88.8 → 90.3% GDP**; endogenous ~1.3-1.6pp/yr
+  - **Dual:** E1 SPB stuck ~-1.7% vs MTFSP GG target **+0.6%** 2029
+- Wrote: sources +3; budgets +56; cmt +4; lb +8; FOI **gap_e1_measures_delivery_l5** ready+draft; rq_539=done spawn **rq_540**; ticks=548
+- FOI opened: gap_e1_measures_delivery_l5 (ready, human send) - not sent
+- Next: prio5 **rq_540**; deferred **rq_116** SWA; progress@550 in 2 ticks
