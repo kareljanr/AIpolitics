@@ -8797,3 +8797,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity flrbc; budgets (+60); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_flrbc_ra2025_residual_l5**; raw RA+CG PDFs+extracts+write; rq_730=done; spawn **rq_731** progress@740; loop_state ticks=739
 - FOI opened: gap_flrbc_ra2025_residual_l5 — ready prio8 (not sent)
 - Next: **rq_731** mandatory progress@740; rq_116 deferred
+
+### 2026-08-02T07:15:00Z — tick 740
+- Unit: **rq_731** (mandatory **progress@740** coverage % + waste top10)
+- Coverage (honest, vs EUR 347.956bn TE):
+  - **A L0 100%** · **B L1 100%** · **C L2 ~99%** · **D L5 ~53-67%** (generous; not near-complete of 348bn) · **E FOI ready ~473** / answered ~9 / total ~487
+- Inventory: budgets ~15011 · commitments ~1825 · leaderboard ~3128 · entities ~529 · sources ~1451
+- Gain 730→740 (FOI-adjacent dual residual wave 731–739):
+  - COCOF/COCOM/VGC community dual residual
+  - SPW RA2025 Entity II residual
+  - **Housing dual stack:** SLRB liq **€802.7m** / PRL gap **€577m** · SWCS prod **€483m** / encours **€1.749bn** / GL NPL **31%** · SWL works **€364.3m** / plan reno **€1.1675bn** · VWF prod **€1.632bn** @2.48% vs bonds **€1.55bn** @4.21% / portfolio **€9.698bn** · FLRBC encours **€1.607bn** / **credit freeze Jul–Dec 2025** / debt service **€158.6m** / GL arrears **22%** / CCP **2.52%** vs BE **0.60%**
+- Waste top10: **GIP monitor fail 2.5bn holds #1** (prio 8.70); fossil/cars/cheque/reporté #2–10 stable; stocks filtered (Oosterweel snowball, VWF portfolio, SWL/SWCS/FLRBC/SLRB books); high-abs NEW: FLRBC freeze · VWF rate spread · deposit NPL band 9–31%
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_731=done; spawn **rq_732**; loop_state ticks=740
+- FOI: none new (progress tick)
+- Next: prio5 **rq_732**; deferred **rq_116**; progress@750 in 10 ticks

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 740** (2026-08-02)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** FLRBC full RA2025 BS **€2.128bn** / encours **€1.607bn** · VWF portfolio **€9.698bn** / prod **€1.632bn** · SWL BS debt **€2.742bn** · SWCS encours **€1.749bn** · SLRB liq **€803m** / debt **€1.672bn** · prior GIP/OTW/Oosterweel/BCR retained |
+| **D. L5 named / measure end-lines** | **~53-67%** of TE (generous) | **Gain 730→740 is FOI-adjacent dual housing residual wave (not near-complete of 348bn):** SLRB RA2025 residual (liq 802.7 / PRL gap 577 / ARS 52.5) · SWCS RA2025 (prod 483m / encours 1.749bn / garantie NPL **31%**) · SWL RA2024 (works 364.3m / plan reno envelope **1.1675bn** delivery lag) · VWF AV2025 (prod **1.632bn** @2.48% vs bonds **1.55bn** @4.21% / portfolio **9.698bn**) · FLRBC RA2025 (**credit freeze Jul–Dec 2025** / debt service 158.6 > new credit 149.5 / GL arrears **22%** / CCP default **2.52%** vs BE 0.60) · COCOF/COCOM/VGC/SPW residual duals retained · FOI still bulk L5 awards + dual unit-cost/NPL matrices |
+| **E. FOI-ready gaps** | **~473** drafts ready | Human send only; answered **~9**; total FOI rows **~487** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **BCR consol debt €16.1→19.1bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** · **Oosterweel VAK + BC interest/sub snowball stocks** · **project-bond over-plafond path** · **SKF multi-year €0.96bn** · **Fluvius equity inject path €1.56bn** · **FRBRTC/refinance stocks** · **OAA reporté fiction** · **GIP beschikbaarheid path** · **Sofico guaranteed debt / CAPEX commit** · **VWF portfolio €9.7bn / SWL debt €2.74bn / SWCS encours €1.75bn / FLRBC encours €1.61bn / SLRB debt €1.67bn** (housing finance stocks dual, not pure TE) · **flexi privilege TE class** · **internal security dual-use / NATO classification** · **CSF NPE growth caps** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 740)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~15011 |
+| commitments.csv | ~1825 |
+| leaderboard.csv | ~3128 |
+| entities.csv | ~529 |
+| sources.csv | ~1451 |
+| FOI ready | ~473 |
+| FOI answered | ~9 |
+| FOI total rows | ~487 |
+| research_queue open | rq_116 deferred + next hole-fill after progress |
+
+### What improved since tick 730
+
+- **BCR community dual residual (tick731–733):** COCOF BI2026 SEC **−€22.7m** / debt **€203.7m** / Phare **€210.3m** · COCOM fake recettes **€49.1m** / sous-util **€64.7m** / Iriscare **€1.83bn** · VGC JR2025 onderwijs **€53.9m** / werksubs **€53.9m** / PPS Deleers **~€64m**.
+- **WAL Entity II residual (tick734–737):** SPW RA2025 local fin **€2.322bn** / CV **~€330m** / housing reno **>€110m** · SLRB RA2025 liq **€802.7m** / debt **€1.672bn** / encours **€1.131bn** / PRL gap **€577m** · SWCS RA2025 prod **€483m** / encours **€1.749bn** / garantie NPL **31%** · SWL RA2024 works **€364.3m** / plan reno envelope **€1.1675bn** (invest 231m / receptions only 126) / BS debt **€2.742bn**.
+- **VL+BCR social credit dual (tick738–739):** VWF AV2025 prod **€1.632bn** @**2.48%** vs bonds **€1.55bn** @**4.21%** / portfolio **€9.698bn** / HW NPL **9%** · FLRBC RA2025 encours **€1.607bn** / **credit freeze Jul–Dec 2025** (loans **€130m** vs 260) / debt service **€158.6m** / GL arrears **22%** / CCP **2.52%** vs BE **0.60%** / BS **€2.128bn** vs fin-CG **€1.780bn** carveout.
+- **Dual map:** full BE social-housing + social-credit OIP stack (VMSW/VWF/SLRB/FLRBC/SWL/SWCS/FLW) with unit-cost and NPL matrices still FOI-heavy; BCR funding freeze is 2025 governance outlier.
+
+---
+
 ## Snapshot at **tick 730** (2026-08-02)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **730** (2026-08-02) · **~3066** leaderboard rows  
+**As-of:** tick **740** (2026-08-02) · **~3128** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -14,58 +14,57 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 | # | ID | Name | Annual € (class) | Abs | Cost | Diff | **Priority** | Why it ranks |
 |---|-----|------|------------------:|----:|-----:|-----:|-------------:|--------------|
-| 1 | `lb_vl_gip_monitor_fail_2_5bn` | GIP steers ~2.5bn without VEK/encours public report | **2.50 bn** | 9.0 | 9.0 | 5 | **8.70** | Governance opacity on multi-mode invest (not pure TE waste) |
+| 1 | `lb_vl_gip_monitor_fail_2_5bn` | GIP steers ~2.5bn without VEK encours public report | **2.50 bn** | 9.0 | 9.0 | 5 | **8.70** | Governance opacity on multi-mode invest (not pure TE waste) |
 | 2 | `lb_fed_fossil_direct_13_3bn` | Federal fossil direct subsidies 13.3bn 2022 bench1 | **13.27 bn** | 8 | 9.5 | 7 | **8.55** | 4e fossil inventory |
 | 3 | `lb_fed_fossil_accises_10_5bn` | Fossil accise rate gaps+exemptions 10.5bn 2022 | **10.54 bn** | 8 | 9.5 | 6 | **8.50** | fossil inventory |
 | 4 | `lb_company_cars_fpb` | Company cars TE package FPB ~4.7-5.2bn | **4.70 bn** | 8.5 | 9.5 | 7 | **8.50** | FPB package |
 | 5 | `lb_exc_heatoil` | Excise preference: heating gas oil (low sulfur) | **1.84 bn** | 8 | 9.5 | 6 | **8.43** | FFS multi-year |
-| 6 | `lb_cheque_economy` | Cheque economy meal vouchers (para)fiscal + restricted  | **1.07 bn** | 8.5 | 9.5 | 8 | **8.40** | CoA TE layer B; face=wages; pure waste admin+DWL only |
-| 7 | `lb_co2_vs_ordinary_ssc_gap_1bn` | Company car CO₂ vs ordinary SSC gap >1bn by 2026 | **1.00 bn** | 8.5 | 9.5 | 6 | **8.40** | CoA CO₂ under-collection path |
-| 8 | `lb_oaa_consol_reporte_300_6m` | OAA+missions reporté solde shift +300.6m | **0.30 bn** | 9.0 | 9.0 | 3 | **8.40** | Systemic CFP art13 budget fiction |
-| 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **0.30 bn** | 9.0 | 9.0 | 3 | **8.40** | Reporté sincerity cluster |
-| 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO₂ SSC under-collection vs taxex | **0.28 bn** receipts class | 8.5 | 9.5 | 6 | **8.40** | dual SSC+taxex under-pricing |
+| 6 | `lb_cheque_economy` | Cheque economy meal vouchers (para)fiscal + restricted scrip | **1.07 bn** | 8.5 | 9.5 | 8 | **8.40** | CoA TE layer B; face=wages; pure waste admin+DWL only |
+| 7 | `lb_co2_vs_ordinary_ssc_gap_1bn` | Company car CO2 vs ordinary SSC gap >1bn by 2026 | **1.00 bn** | 8.5 | 9.5 | 6 | **8.40** | CoA CO₂ under-collection path |
+| 8 | `lb_oaa_consol_reporte_300_6m` | OAA+missions reporté solde shift +300.6m | **300.60 m** | 9.0 | 9.0 | 3 | **8.40** | Systemic CFP art13 budget fiction |
+| 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.40** | Reporté sincerity cluster |
+| 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.40** | dual SSC+taxex under-pricing |
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · Hedera CAP · VL/WAL/FWB/BCR debt stocks · **`lb_owv_sub_snowball_27bn_2083` (raw pi 8.55 — eoy2083 sub debt €27bn, multi-decade finance not annual TE)** · Oosterweel VAK/bond plafond residual · encours · federal unconsol debt / E1 path · Infrabel/WE equity · SS consol 148bn · Fluvius equity path · Sofico CAPEX commit / guaranteed debt · ruiter carry · FRBRTC refinance.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · Hedera CAP · VL/WAL/FWB/BCR debt stocks · **`lb_owv_sub_snowball_27bn_2083` (raw high pi — eoy2083 sub debt €27bn)** · Oosterweel VAK/bond plafond residual · encours · federal unconsol debt / E1 path · Infrabel/WE equity · SS consol 148bn · Fluvius equity path · Sofico CAPEX commit / guaranteed debt · **VWF portfolio €9.7bn · SWL debt €2.74bn · SWCS/FLRBC/SLRB encours duals** · ruiter carry · FRBRTC refinance.
 
-**Change vs tick 720:** pure annual top10 **stable** (GIP monitor #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual off pure top10:** Oosterweel BC2026 finance (bonds over plafond **€2.25bn** pi~8.15 · sub snowball **€27bn** · MJR underbook **€1.68bn**) · TV leef overrun / Haventrace / modal empty · intsec dual-use + antifraud staffing dead · OTW CSP reliability/e-bus dual. Gain 720–730 is **mega-mobility finance residual + federal dual-use security/antifraud + OTW CSP** more than FFS reshuffle.
+**Change vs tick 730:** pure annual top10 **largely stable** (GIP monitor #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual off pure top10 / just outside:** FLRBC funding freeze · VWF rate-subsidy spread · SWL plan-reno delivery lag · SWCS/FLRBC/VWF deposit-loan NPL band **9–31%** · full dual housing OIP stack mapped. Gain 730–740 is **BE social-housing + social-credit dual residual** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
 | # | ID | Annual € | Priority | Note |
 |---|-----|----------:|---------:|------|
-| — | `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | **8.55** | **NEW 728** STOCK filtered; CoA unjustified FM assignment |
-| 11 | `lb_vl_gip_large_squeeze_2182m_2030` | **2.18 bn** | **8.38** | AM+large lock ~90% of 2027 GIP |
-| 12 | `lb_vl_gip_horizon_collapse_5_to_1y` | **3.69 bn** | **8.35** | 5y→1y actu calendar fail |
-| 13 | `lb_fed_fossil_company_cars_ehs_3_4bn` | **3.43 bn** | 8.35 | fossil inventory |
-| 14 | `lb_cons_no_costbenefit_18bn` | **0.60 / 1.8 bn** class | 8.35 | CoA 101-contract compliance |
-| 15 | `lb_fed_fossil_mazout_1_86bn` | **1.86 bn** | 8.30 | fossil inventory |
-| 16 | `lb_company_cars` | **3.14 bn** | 8.22 | Official FFS package |
-| 17 | `lb_fluvius_talks_collapsed_1560m` | **1.56 bn** | **8.20** | equity talks collapsed, credits kept |
-| 18 | `lb_owv_bonds_over_plafond_2_25bn` | **2.25 bn** | **8.15** | **NEW 728** bonds 7.75 vs plafond 5.5 |
-| 19 | `lb_oaa_reporte_sincerity_225m` | **0.23 bn** | **8.15** | OAA1 reporté shift |
-| 20 | `lb_owv_mjr_underbook_1_68bn` | **1.68 bn** | **7.95** | **NEW 728** MJR underbooks Lantis draws |
+| — | `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | **8.55** | STOCK filtered; CoA unjustified FM assignment |
+| — | `lb_flrbc_funding_freeze_2025` | **130.00 m** | **7.20** | **NEW 739** BCR credit freeze Jul–Dec 2025 |
+| — | `lb_vwf_prod_1_632bn_2025` | **1.63 bn** | **7.05** | **NEW 738** lend 2.48% vs fund 4.21% |
+| 11 | `lb_vl_gip_large_squeeze_2182m_2030` | **2.18 bn** | **8.38** | GIP large+AM squeeze 2182m by 2030 ~90pct budget |
+| 12 | `lb_vl_gip_horizon_collapse_5_to_1y` | **3.69 bn** | **8.35** | GIP horizon collapse 5y ambition to 1y actu2026 |
+| 13 | `lb_fed_fossil_company_cars_ehs_3_4bn` | **3.43 bn** | **8.35** | Company cars EHS fossil inventory 3.43bn 2022 |
+| 14 | `lb_cons_no_costbenefit_18bn` | **600.00 m** | **8.35** | No cost-benefit 78pct of consultancy 1.8bn sample |
+| 15 | `lb_cons_no_inventory` | **0** | **8.35** | No central federal consultancy inventory |
+| 16 | `lb_fed_fossil_mazout_1_86bn` | **1.86 bn** | **8.30** | Heating oil accise gap 1.86bn 2022 fossil inv |
+| 17 | `lb_entity1_path_worsen_11_7bn` | **11.70 bn** | **8.25** | Entity I deficit path worsens +11.7bn to 36.2bn 20 |
+| 18 | `lb_vl_gip_raming_cut_1057m` | **1.06 bn** | **8.25** | GIP raming cut 1.057bn unmotivated 502 projects |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
 | ID | Abs | Note |
 |----|----:|------|
-| `lb_metro3_overrun_477pct` | **9.5** | +477% 0.82→4.76bn stock (prio **9.05** #1 raw) |
-| `lb_vl_wassalon_podcast` | **9.5** | Small € high absurdity |
-| `lb_metro3_financing_gap_4bn` | **9.0** | ~€4.3bn BCR residual stock |
-| `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP steers 2.5bn without VEK/public report |
-| `lb_owv_sub_snowball_27bn_2083` | **9.0** | **NEW 728** sub debt snowball eoy2083 |
-| `lb_oaa_consol_reporte_300_6m` | **9.0** | Systemic reporté fiction |
-| `lb_bcr_annexe2_reporte_wave` | **9.0** | Annexe2 reporté cluster |
-| `lb_oaa_reporte_sincerity_225m` | **9.0** | OAA1 reporté shift |
-| `lb_kenteken_sole_bidder_bpost` | **9.0** | sole bidder concession |
-| `lb_ypto_proc_law_fail` | **9.0** | rail IT procurement |
-| `lb_antifraud_staffing_dead_2026` | **8.5** | **NEW 727** €600m booked, recruit not started |
-| `lb_intsec_dual_use_opaque_177m` | **8.0** | **NEW 727** dual-use military share unclear |
-| `lb_tv_modal_target_already_met` | **8.0** | **NEW 729** 50-50 met, no finance/goals |
-| `lb_tv_leef_overrun_103_5m` | **7.5** | **NEW 729** leef task overrun |
-| `lb_otw_service_gap_4pp_2025` | **7.5** | **NEW 726** service 95.74 vs 99.8 |
+| `lb_metro3_overrun_477pct` | **9.5** | Metro3 cost +477pct 0.82 to 4.76bn |
+| `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast Het Wassalon 800k over 3y |
+| `lb_metro3_financing_gap_4bn` | **9.0** | Metro3 BCR financing gap ~4.3bn residual |
+| `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP steers ~2.5bn without VEK encours public report |
+| `lb_owv_sub_snowball_27bn_2083` | **9.0** | Sub loans snowball to 27.0bn eoy2083 — CoA unjustified FM assignment |
+| `lb_oaa_consol_reporte_300_6m` | **9.0** | OAA+missions reporté solde shift +300.6m |
+| `lb_bcr_annexe2_reporte_wave` | **9.0** | BCR Annexe2 reporté wave systemic 2026 |
+| `lb_oaa_reporte_sincerity_225m` | **9.0** | OAA1 reporté sincerity shift +225m |
+| `lb_kenteken_sole_bidder_bpost` | **9.0** | Plates concession sole bidder bpost advantage |
+| `lb_ypto_proc_law_fail` | **9.0** | Ypto procurement law not correctly applied CoA |
+| `lb_metro3_total_4_76bn` | **9.0** | Metro3 total estimate 4.76bn Dec2024 CoA |
+| `lb_crossborder_228_vs_6` | **9.0** | Crossborder 228 external vs 6 statutory 2023 |
+| `lb_cocom_comptes_gap_asbl` | **9.0** | COCOM/ASBL general accounts 2019-24 never approved or transmitted |
+| `lb_siod_net_fte_8_2_vs_270` | **9.0** | Net FTE +8.2 vs 270 extra posts 2021-24 |
 
 ### Dual / mega map (not pure annual waste top 10)
 
@@ -76,13 +75,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_fed_e1_path_36_2bn_2029` | **36.2 bn** | E1 path 2029 |
 | `lb_vl_dotaties_34_8bn_2026` | **34.8 bn** | BFW dual |
 | `lb_dual_wal_vl_debt_2026` | **33 / 57 bn** | WAL Baa1 vs VL A1 |
-| `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | **NEW 728** Lantis sub eoy2083 |
-| `lb_ss_alt_finance_27_6bn_2026` | **27.6 bn** | BTW+RV assign |
-| `lb_fed_primary_cells_92bn_2026` | **92.05 bn** | primary VEK cells |
-| `lb_owv_interest_paid_24_5bn` | **24.5 bn path** | **NEW 728** interest paid 2026-2083 |
-| `lb_bru_debt_16_1bn_path_19_1` | **16.1→19.1 bn** | BCR S&P A neg |
-| `lb_vl_gip_actu_3685m` / GIP class | **2.5–3.7 bn** | MOW multi-mode |
-| `lb_owv_bonds_over_plafond_2_25bn` | **2.25 bn** | **NEW 728** bond plafond breach |
-| `lb_tv_haventrace_1_6bn_no_task` | **1.6 bn class** | **NEW 729** Tijsmans no task budget |
-| `lb_otw` / TEC company class | **~1.2 bn** | **NEW 726** CSP residual dual De Lijn |
-| `lb_dual_intsec_antifraud_soft_2026` | **0.82 bn class** | **NEW 727** soft packs dual |
+| `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | Lantis sub eoy2083 |
+| `lb_vwf_portfolio_9_698bn_2025` | **9.70 bn stock** | **NEW 738** largest BE social-credit book |
+| `lb_swl_debt_2_742bn_2024` | **2.74 bn stock** | **NEW 737** SWL BS debt |
+| `lb_flrbc_encours_1_607bn_2025` | **1.61 bn stock** | **NEW 739** FLRBC credit book |
+| `lb_swcs_encours_1_749bn` | **1.75 bn stock** | **NEW 736** SWCS loan book |
+| `lb_slrb_debt_1_672bn` | **1.67 bn stock** | **NEW 735** SLRB BS debt |
+| dual housing OIP stack | multi-bn | VMSW/VWF/SLRB/FLRBC/SWL/SWCS/FLW mapped 735–739 |
