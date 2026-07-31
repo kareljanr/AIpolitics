@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T09:15:00Z,rq_661,670,no,tick670 progress coverage + waste top10; dual aju WAL/FWB wave 661-669; next rq_662; progress@680 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T09:30:00Z,rq_662,671,no,tick671 VL BA2026 residual dual Moody A1 Fitch AA- GIP shortfall 82m Digisprong; next rq_663; progress@680 in 9; rq_116 deferred

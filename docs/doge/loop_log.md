@@ -7869,3 +7869,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_aju_wave_661_670_l5_2026 ready+draft; rq_661=done spawn rq_662; ticks=670
 - FOI opened: gap_dual_aju_wave_661_670_l5_2026 (ready, human send) - not sent
 - Next: prio5 **rq_662**; deferred **rq_116**; progress@680 in 10 ticks
+
+### 2026-08-01T09:30:00Z -- tick 671
+- Unit: rq_662 (FOI-adjacent dual residual -- **Flanders CoA BA2026 debt ratings GIP Digisprong dual WAL/FWB**)
+- Found (primary CoA 2026_28): **Saldo BA -EUR3.643bn** path **-742.6** (rec **+665.4** dep **+1080.5** onderbenutting **-299.8**); doel **-EUR2.181bn** after Oosterweel **986.7** VV rec **324.9**/dep **800.1**. **Debt** consol **EUR56.971bn** direct **49.802** path **+6.799**; ratio **91.6%**; CoA SKF corr **+113.5m**; non-Maastricht hospital **2.184** autonomie **0.474**. **Ratings:** Fitch **AA-** / Moody **A1** / S&P **AA-** (dual WAL **Baa1** FWB **A3**). **FB:** buffer **+58.5** specialty; index under **48.3+7.0**; Finocas **177.5** unclear; Viapass **99.3**. **OV:** Digisprong raid **24.0** (levensbeschouwing hold + volwassenen fail **50**). **WVG:** reserves **12**; BTZ gap est **35.9**. **MOW:** GIP **3864** vs **2424** shortfall **82.4**; Lantis PFAS **842.8** off GIP; Fluvius VEK **1100**. Dual Entity II. Strong CoA; L5 FOI.
+- Wrote: entities (+3); budgets (+50); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_vl_ba2026_residual_l5; rq_662=done; spawn rq_663; loop_state ticks=671
+- FOI opened: gap_vl_ba2026_residual_l5 -- ready (not sent)
+- Next: rq_663; progress@680 in 9 ticks; rq_116 deferred

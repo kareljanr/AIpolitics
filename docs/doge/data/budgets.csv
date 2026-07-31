@@ -12826,3 +12826,53 @@ bud_fwb_encours_aju_reduce_94_6m,fwb_gov,2026,-94600000,,,budgeted,src_ccrek_fwb
 bud_prr_cur_total_401m,saca_cur,2026,401000000,,,budgeted,src_ccrek_fwb_aju2026_saca_oap,strong,CUR PRR total envelope target 401.0m (dot path +86.5 to complete); tick669
 bud_dual_fwb_saca_solde_vs_wal_2026,gg_belgium,2026,-215367000,,,budgeted,src_dual_fwb_saca_oap_tick669,strong,Dual FWB SACA solde -215.4m vs WAL SACA/Type stacks; not TE-additive; tick669
 bud_dual_one_ko_channel_2026,gg_belgium,2026,821600000,,,budgeted,src_dual_fwb_saca_oap_tick669,strong,Dual ONE CL 821.6m vs VL Kind en Gezin/Oproeien channel (compare not sum); tick669
+bud_vl_ba2026_saldo_exact,vlaanderen_gov,2026,-3642700000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,ESR vorderingensaldo BA2026 -3642.7m path -742.6 vs BO -2900.1; tick671
+bud_vl_ba2026_saldo_bo,vlaanderen_gov,2026,-2900100000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,ESR saldo BO2026 -2900.1m; tick671
+bud_vl_ba2026_rec_path_plus_665m,vlaanderen_gov,2026,665400000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,ESR ontvangsten path +665.4m (VG 550.1 + RP 115.3); tick671
+bud_vl_ba2026_dep_path_plus_1081m,vlaanderen_gov,2026,1080500000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,ESR uitgaven path +1080.5m (VG 732.5 + RP 348.1); tick671
+bud_vl_ba2026_onderbenutting_path_minus_300m,vlaanderen_gov,2026,-299800000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Onderbenutting path -299.8m (lower under-exec worsens saldo); tick671
+bud_vl_ba2026_doel_minus_2181m,vlaanderen_gov,2026,-2180800000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Saldo vs evenwichtsdoel BA -2180.8m after excl Oosterweel 986.7 + VV; tick671
+bud_vl_ba2026_oosterweel_bouw_986_7m,vlaanderen_gov,2026,986700000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Oosterweel bouwkost excl from doel 986.7m (BO 889.9 path +96.8); still in EU NPE; tick671
+bud_vl_ba2026_vv_rec_324_9m,vlaanderen_gov,2026,324900000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Vlaamse Veerkracht rec BA 324.9m (BO 163.4); tick671
+bud_vl_ba2026_vv_dep_800_1m,vlaanderen_gov,2026,800100000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Vlaamse Veerkracht dep BA 800.1m (BO 436.4); tick671
+bud_vl_debt_consol_ba2026,vlaanderen_gov,2026,56971100000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Maastricht geconsolideerde schuld BA2026 56971.1m path +6799.1 vs 2025 50171.9; tick671
+bud_vl_debt_direct_ba2026,vlaanderen_gov,2026,49801600000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Directe schuld MVG BA 49801.6m path +7405.0 vs 2025 42396.6; tick671
+bud_vl_debt_consol_2025,vlaanderen_gov,2025,50171900000,,,outturn,src_ccrek_vl_ba2026_residual,strong,Geconsolideerde schuld realisatie 2025 50171.9m; tick671
+bud_vl_debt_entities_ba2026,vlaanderen_gov,2026,7169500000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Financiele schulden geconsolideerde entiteiten BA 7169.5m path -605.8; tick671
+bud_vl_debt_pps_ba2026,vlaanderen_gov,2026,635200000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Geconsolideerde PPS-schuld BA 635.2m; tick671
+bud_vl_debt_gsc_ba2026,vlaanderen_gov,2026,553200000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Groene stroom certificaten schuld 553.2m flat; tick671
+bud_vl_debt_intrasector_corr_ba2026,vlaanderen_gov,2026,-10796800000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Intrasectorale correctie S1312 -10796.8m; tick671
+bud_vl_debt_ratio_receipts_91_6pct,vlaanderen_gov,2026,91.6,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Schuld/lopende ontvangsten 91.6pct BA2026; tick671
+bud_vl_skf_coa_corr_113_5m,vlaanderen_gov,2026,113500000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,CoA: schuldgroei 113.5m higher vs gov (SKF EU receipts not correctly neutralized); tick671
+bud_vl_hospital_debt_non_maastricht,vlaanderen_gov,2026,2184300000,,,outturn,src_ccrek_vl_ba2026_residual,strong,Ziekenhuisinfrastructuur schuld 2184.3m non-Maastricht federal claim (not in toelichting); tick671
+bud_vl_autonomie_factor_non_maastricht,vlaanderen_gov,2026,473800000,,,outturn,src_ccrek_vl_ba2026_residual,strong,Autonomiefactor 473.8m non-Maastricht federal claim; tick671
+bud_vl_fitch_aa_minus_2026,vlaanderen_gov,2026,0,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Fitch AA- stable confirmed 15May2026 (downgrade 20Jun2025 from AA after fed A+); tick671
+bud_vl_moody_a1_apr2026,vlaanderen_gov,2026,0,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Moody A1 stable Apr2026 (from Aa3 path; dual WAL Baa1 FWB A3); tick671
+bud_vl_sp_aa_minus_apr2026,vlaanderen_gov,2026,0,,,budgeted,src_ccrek_vl_ba2026_residual,strong,S&P AA- stable Apr2026 dual; tick671
+bud_vl_buffer_provisie_plus_58_5m,vlaanderen_gov,2026,58500000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Buffer/Monitoring provisie VEK +58.5m no specialty (CoA flags); tick671
+bud_vl_index_provisie_under_48_3m,vlaanderen_gov,2026,48300000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Index provisie understated 48.3m (spilindex Jun vs Jul BFP); tick671
+bud_vl_gezondheidsindex_under_7m,vlaanderen_gov,2026,7000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Gezondheidsindex 3.2pct vs BA 2.7 impact ~7.0m extra; tick671
+bud_finocas_capital_plan_177_5m,finocas,2026,177500000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Finocas capital inject BA plan 177.5m; prior 140m 2025 not executed CoA unclear; tick671
+bud_viapass_availability_99_3m,viapass,2026,99300000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Viapass beschikbaarheidsvergoeding 99.3m path +5.2 (CO2 tariff); save 10m not realizable; tick671
+bud_viapass_save_10m_not_realizable,viapass,2026,10000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Viapass 10m save retained but CoA says not contract-feasible; tick671
+bud_vl_levensbeschouwing_hold_save,vlaanderen_gov,2026,-9400000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Levensbeschouwelijke vakken save -9.4 basisonderwijs wages on hold (RvS); wrong cut; tick671
+bud_vl_levensbeschouwing_sec_hold,vlaanderen_gov,2026,-17500000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Levensbeschouwelijke vakken -17.5m sec wages on hold; compensated Digisprong -22.3 + kwaliteit -4.6; tick671
+bud_vl_digisprong_raid_24m,vlaanderen_gov,2026,-24000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Digisprong provisie raided total 24.0m to cover failed education saves (22.3+1.7); Digiplan risk; tick671
+bud_vl_volwassenen_save_fail_50m,vlaanderen_gov,2026,50000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Volwassenenonderwijs rationalisatie target save 50m not met (wages -16.9-10.7 fees -19.6); one-off AGION/Digi/kwaliteit; tick671
+bud_vl_volwassenen_fees_path_minus_19_6m,vlaanderen_gov,2026,-19600000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Inschrijvingsgelden volwassenen path -19.6m (BO +33.4 to BA +13.8); tick671
+bud_vl_wvg_reserves_save_12m,vlaanderen_gov,2026,12000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,WVG activate historic reserves save 12.0m (Zorg 7.0 residual after 1.4 reshuffle); uncertain CoA; tick671
+bud_vl_btz_gap_est_35_9m,vlaanderen_gov,2026,35900000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,CoA est BTZ basistegemoetkoming zorg shortfall 35.9m (half planned beds + control lag); tick671
+bud_asobv_fusion_save_0_8m,asobv,2026,800000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,ASOBV fusion wage save 0.8m (prior ASO+OBV cuts) retro 1Jan2026; dual FWB culture; tick671
+bud_vrt_nieuwbouw_life_deficit_1_3m,vrt,2026,-1300000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,VRT nieuwbouw intertemporal deficit -1.3m over 2014-2044 (improved 4.6); autofinance claim; tick671
+bud_vrt_nieuwbouw_repower_minus_7_1m,vrt,2026,-7100000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,VRT nieuwbouw RePowerEU subsidy path -7.1m in updated plan; tick671
+bud_vl_gip_2026_planned_3864m,vlaanderen_gov,2026,3864000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,GIP actualisatie 2026 planned 3864m (GIP 2025-27 had 2424 for 2026); Oosterweel/leefbaarheid; tick671
+bud_vl_gip_2026_baseline_2424m,vlaanderen_gov,2026,2424000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,GIP 2025-2027 Jul2025 figure for 2026 was 2424m; tick671
+bud_vl_gip_budget_shortfall_82_4m,vlaanderen_gov,2026,82400000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,CoA: at least 82.4m underfunded vs GIP 2026 (onteig 35 + AWV 24.5 + safety 26.2); tick671
+bud_vl_gip_buffer_13_8m,vlaanderen_gov,2026,13800000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,GIP article residual buffer 13.8m price/expropriation; tick671
+bud_lantis_pfas_842_8m,vlaanderen_gov,2026,842800000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Lantis PFAS uitgaven 842.8m not in GIP; dual Oosterweel; tick671
+bud_vl_mijnverbouw_vak_plus_350_3m,vlaanderen_gov,2026,350300000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,MijnVerbouwLening VAK +350.3m (280.2 rebook 2025 + 70.1 energy crisis); no VEK yet; tick671
+bud_vl_school_energy_loans_vak_100m,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Energieleningen scholen VAK +100m VEK unchanged; tick671
+bud_vl_basiskoten_loans_vak_100m,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Renteloze leningen basiskoten VAK +100m VEK unchanged; tick671
+bud_vl_fluvius_vek_1100m_confirm,vlaanderen_gov,2026,1100000000,,,budgeted,src_ccrek_vl_ba2026_residual,strong,Fluvius VEK 1100m of 1560 VAK multi-year equity reinforce; dual grid; tick671
+bud_dual_ratings_vl_wal_fwb_2026,gg_belgium,2026,0,,,budgeted,src_dual_vl_wal_fwb_ba_aju_tick671,strong,Dual ratings 2026: VL Fitch AA-/Moody A1/SP AA- vs WAL Moody Baa1 vs FWB Moody A3; tick671
+bud_dual_saldo_e2_vl_wal_fwb_2026,gg_belgium,2026,-7407500000,,,budgeted,src_dual_vl_wal_fwb_ba_aju_tick671,strong,Dual Entity II saldo class VL -3.643 + WAL SEC -2.015 + FWB SEC -1.753 = -7.411bn (not TE-additive; metrics differ ESR/SEC); tick671
