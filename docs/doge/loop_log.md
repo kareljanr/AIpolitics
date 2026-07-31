@@ -7317,3 +7317,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update awap; budgets (+13); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_awap_subs_l5_2025; rq_595=done; spawn rq_596; loop_state ticks=604
 - FOI opened: gap_awap_subs_l5_2025 → ready (not sent)
 - Next: rq_596; progress@610 in 6 ticks; rq_116 deferred
+
+### 2026-07-31T17:00:00Z — tick 605
+- Unit: rq_596 (FOI-adjacent dual climate hole-fill — **AWAC** dual VEKA)
+- Found: **AWAC** SACA (primary CoA Table33 + decret Art.15). **BI2025 SEC:** recettes **€19.428m** · dépenses **€19.333m** · solde **+€0.095m**. **BI2024 SEC:** rec **€19.664m** · dep **€23.142m** · solde **−€3.478m** (path +€3.573m). Dual **VEKA** Flanders E&K domain VEK ~**€1.1bn** package scale vs AWAC agency **€19.3m**. Strong confidence budget; staff/RA residual FOI.
+- Wrote: entity update awac; budgets (+8); commitments (+2); leaderboard (+6); sources (+3); raw CoA PDF; FOI draft gap_awac_ra_staff_l5_2025; rq_596=done; spawn rq_597; loop_state ticks=605
+- FOI opened: gap_awac_ra_staff_l5_2025 → ready (not sent)
+- Next: rq_597; progress@610 in 5 ticks; rq_116 deferred

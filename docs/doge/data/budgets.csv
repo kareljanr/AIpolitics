@@ -11172,3 +11172,11 @@ bud_awap_recettes_2025b,awap,2025,51624000,,,outturn,src_awap_budget_ajust_2025,
 bud_awap_depenses_2025b,awap,2025,52246000,,,outturn,src_awap_budget_ajust_2025,strong,AWaP budget ajuste 2025 depenses 52.246m decret Art16; tick604
 bud_awap_staff_2025,awap,2025,0,,,outturn,src_awap_ra_2025,strong,AWaP staff 312 agents 2025 (not EUR); tick604
 bud_awap_dossiers_2025,awap,2025,0,,,outturn,src_awap_ra_2025,strong,AWaP 176 dossiers travaux soutenus 2025 (not EUR); tick604
+bud_awac_rec_sec_2025,awac,2025,19428000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC recettes SEC BI2025 19.428m CoA/decret; tick605
+bud_awac_dep_sec_2025,awac,2025,19333000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC depenses SEC BI2025 19.333m CoA/decret; tick605
+bud_awac_solde_sec_2025,awac,2025,95000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC solde SEC BI2025 +0.095m CoA; tick605
+bud_awac_rec_sec_2024,awac,2024,19664000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC recettes SEC BI2024 19.664m CoA; tick605
+bud_awac_dep_sec_2024,awac,2024,23142000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC depenses SEC BI2024 23.142m CoA; tick605
+bud_awac_solde_sec_2024,awac,2024,-3478000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC solde SEC BI2024 -3.478m CoA; tick605
+bud_awac_rec_ajust_2025,awac,2025,19428000,,,outturn,src_awac_budget_ajust_2025_art15,strong,AWAC budget ajuste 2025 recettes 19.428m Art15; tick605
+bud_awac_dep_ajust_2025,awac,2025,19333000,,,outturn,src_awac_budget_ajust_2025_art15,strong,AWAC budget ajuste 2025 depenses 19.333m Art15; tick605
