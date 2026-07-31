@@ -7324,3 +7324,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update awac; budgets (+8); commitments (+2); leaderboard (+6); sources (+3); raw CoA PDF; FOI draft gap_awac_ra_staff_l5_2025; rq_596=done; spawn rq_597; loop_state ticks=605
 - FOI opened: gap_awac_ra_staff_l5_2025 â†’ ready (not sent)
 - Next: rq_597; progress@610 in 5 ticks; rq_116 deferred
+
+### 2026-07-31T17:15:00Z — tick 606
+- Unit: rq_597 (FOI-adjacent dual climate hole-fill deepen — **VEKA** apparaatrek dual AWAC)
+- Found: **VEKA** BBT Energie & Klimaat Begrotingsuitvoering 2025 (primary VP PDF). **Apparaatrek QA QE0:** BA VAK **€18.470m** / VEK **€18.620m**; BA-JR **€18.765m** / **€18.985m**; **BU VAK €16.828m** / VEK **€16.730m**. **Lonen** BU **€15.853m** / **€15.782m** (BA-JR 17.787/17.937; underbenutting **€1.934m** delayed Fit for 55 vacancies). **Werking** BU **€0.976m** / **€0.948m**. IVA zonder rechtspersoonlijkheid. Dual **AWAC** SACA SEC dep **€19.333m** agency-scale (vs prior domain E&K VEK **~€1.1–1.2bn** policy package). Strong confidence; staff FTE residual FOI.
+- Wrote: entity update veka; budgets (+18); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_veka_staff_fte_l5_2025; rq_597=done; spawn rq_598; loop_state ticks=606
+- FOI opened: gap_veka_staff_fte_l5_2025 ? ready (not sent)
+- Next: rq_598; progress@610 in 4 ticks; rq_116 deferred

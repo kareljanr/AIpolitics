@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T17:00:00Z,rq_596,605,no,tick605 AWAC SEC 19.3m dual VEKA; next rq_597; progress@610 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T17:15:00Z,rq_597,606,no,tick606 VEKA apparaatrek 16.8m dual AWAC 19.3m; next rq_598; progress@610 in 4; rq_116 deferred

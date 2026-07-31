@@ -11180,3 +11180,21 @@ bud_awac_dep_sec_2024,awac,2024,23142000,,,outturn,src_ccrek_awac_budget_bi2025,
 bud_awac_solde_sec_2024,awac,2024,-3478000,,,outturn,src_ccrek_awac_budget_bi2025,strong,AWAC solde SEC BI2024 -3.478m CoA; tick605
 bud_awac_rec_ajust_2025,awac,2025,19428000,,,outturn,src_awac_budget_ajust_2025_art15,strong,AWAC budget ajuste 2025 recettes 19.428m Art15; tick605
 bud_awac_dep_ajust_2025,awac,2025,19333000,,,outturn,src_awac_budget_ajust_2025_art15,strong,AWAC budget ajuste 2025 depenses 19.333m Art15; tick605
+bud_veka_apparaat_ba2025_vak,veka,2025,18470000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QA QE0 VEKA apparaatrek BA2025 VAK 18.470m (duizend euro BBT)
+bud_veka_apparaat_ba2025_vek,veka,2025,18620000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QA QE0 VEKA apparaatrek BA2025 VEK 18.620m
+bud_veka_apparaat_bajr2025_vak,veka,2025,18765000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QA QE0 VEKA apparaatrek BA-JR2025 VAK 18.765m (incl herverdelingen)
+bud_veka_apparaat_bajr2025_vek,veka,2025,18985000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QA QE0 VEKA apparaatrek BA-JR2025 VEK 18.985m
+bud_veka_apparaat_bu2025_vak,veka,2025,16828000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QA QE0 VEKA apparaatrek BU2025 VAK 16.828m outturn
+bud_veka_apparaat_bu2025_vek,veka,2025,16730000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QA QE0 VEKA apparaatrek BU2025 VEK 16.730m outturn dual AWAC agency-scale
+bud_veka_lonen_ba2025_vak,veka,2025,17492000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-LO lonen BA2025 VAK 17.492m
+bud_veka_lonen_ba2025_vek,veka,2025,17642000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-LO lonen BA2025 VEK 17.642m
+bud_veka_lonen_bajr2025_vak,veka,2025,17787000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-LO lonen BA-JR2025 VAK 17.787m
+bud_veka_lonen_bajr2025_vek,veka,2025,17937000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-LO lonen BA-JR2025 VEK 17.937m
+bud_veka_lonen_bu2025_vak,veka,2025,15853000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-LO lonen BU2025 VAK 15.853m; underbenutting vacatures Fit for 55
+bud_veka_lonen_bu2025_vek,veka,2025,15782000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-LO lonen BU2025 VEK 15.782m
+bud_veka_werking_ba2025,veka,2025,978000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BA2025 VAK=VEK 0.978m
+bud_veka_werking_bajr2025_vak,veka,2025,978000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BA-JR2025 VAK 0.978m
+bud_veka_werking_bajr2025_vek,veka,2025,1048000,,,budgeted,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BA-JR2025 VEK 1.048m
+bud_veka_werking_bu2025_vak,veka,2025,976000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BU2025 VAK 0.976m
+bud_veka_werking_bu2025_vek,veka,2025,948000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BU2025 VEK 0.948m
+bud_dual_climate_agency_awac_veka_2025,gg_belgium,2025,36063000,,,budgeted,src_dual_climate_agency_awac_veka_tick606,medium,Illustrative dual agency ops: AWAC SEC dep 19.333m + VEKA apparaatrek BU VAK 16.828m = 36.161m (not additive TE; domain VEKA 1.1bn separate)
