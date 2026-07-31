@@ -10966,3 +10966,23 @@ bud_issep_dettes_2024,issep,2024,7264113,,,outturn,src_issep_ra_2024,strong,ISSe
 bud_issep_st_debt_2024,issep,2024,6899032,,,outturn,src_issep_ra_2024,strong,ISSeP dettes ST 6.899m 2024; tick592
 bud_issep_receivables_st_2024,issep,2024,5027159,,,outturn,src_issep_ra_2024,strong,ISSeP creances a un an 5.027m 2024; tick592
 bud_issep_staff_headcount_2024,issep,2024,0,,,outturn,src_issep_ra_2024,strong,ISSeP 304 workers 262.1 ETP Liege 263 Colfontaine 41 2024; not EUR; tick592
+bud_vito_inkomsten_2024,vito,2024,297056000,,,outturn,src_vito_impact_2024,strong,VITO totale inkomsten 297.056m 2024 (Impactrapport); tick593
+bud_vito_bedrijfsopbr_2024,vito,2024,141107000,,,outturn,src_vito_impact_2024,strong,VITO bedrijfsopbrengsten 141.107m +19pct YoY 2024; tick593
+bud_vito_rd_activation_2024,vito,2024,90000000,,,outturn,src_vito_impact_2024,strong,VITO activering R&D 90.0m 2024 (matching afschrijving); tick593
+bud_vito_subsidies_2024,vito,2024,65949000,,,outturn,src_vito_impact_2024,strong,VITO subsidies 65.949m 2024; tick593
+bud_vito_uitgaven_2024,vito,2024,299666000,,,outturn,src_vito_impact_2024,strong,VITO totale uitgaven 299.666m 2024; tick593
+bud_vito_personnel_2024,vito,2024,128539000,,,outturn,src_vito_impact_2024,strong,VITO personeelskosten 128.539m 2024; tick593
+bud_vito_opex_2024,vito,2024,72256000,,,outturn,src_vito_impact_2024,strong,VITO werkingskosten 72.256m 2024; tick593
+bud_vito_rd_amort_2024,vito,2024,90000000,,,outturn,src_vito_impact_2024,strong,VITO afschrijvingen R&D 90.0m 2024; tick593
+bud_vito_amort_2024,vito,2024,6620000,,,outturn,src_vito_impact_2024,strong,VITO afschrijvingen 6.620m 2024; tick593
+bud_vito_other_exp_2024,vito,2024,2251000,,,outturn,src_vito_impact_2024,strong,VITO overige uitgaven 2.251m 2024; tick593
+bud_vito_private_rev_2024,vito,2024,18900000,,,outturn,src_vito_impact_2024,strong,VITO opbrengsten prive 18.9m (VL 10.8m) 2024; tick593
+bud_vito_public_rev_2024,vito,2024,31100000,,,outturn,src_vito_impact_2024,strong,VITO opbrengsten openbare sector 31.1m 2024; tick593
+bud_vito_ip_rev_2024,vito,2024,900000,,,outturn,src_vito_impact_2024,strong,VITO IP-inkomsten 0.9m 2024; tick593
+bud_vito_beheers_uplift_2024,vito,2024,8000000,,,budgeted,src_vito_impact_2024,strong,VITO VL beheersovereenkomst uplift +8m in 2024 path 2024-28; tick593
+bud_vito_pilot_invest_2024,vito,2024,6000000,,,outturn,src_vito_impact_2024,strong,VITO pilot infrastructure extra invest 6m 2024; tick593
+bud_vito_bedrijfsopbr_2023,vito,2023,101294000,,,outturn,src_vito_jv_2023,strong,VITO bedrijfsopbrengsten 101.294m 2023; tick593
+bud_vito_toelagen_2023,vito,2023,62705000,,,outturn,src_vito_jv_2023,strong,VITO toelagen 62.705m 2023; tick593
+bud_vito_personnel_2023,vito,2023,114837000,,,outturn,src_vito_jv_2023,strong,VITO personeelskosten 114.837m staff 1296 2023; tick593
+bud_vito_ref_tasks_2023,vito,2023,13803000,,,outturn,src_vito_jv_2023,strong,VITO financiering referentietaken 13.803m 2023; tick593
+bud_vito_staff_2024,vito,2024,0,,,outturn,src_vito_impact_2024,strong,VITO ~1300 medewerkers +66 FTE YoY 2024; not EUR; tick593

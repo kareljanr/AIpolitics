@@ -7221,3 +7221,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+issep); budgets (+22); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_issep_client_l5_2024; rq_583=done; spawn rq_584; loop_state ticks=592
 - FOI opened: gap_issep_client_l5_2024 → ready (not sent)
 - Next: rq_584; progress@600 in 8 ticks; rq_116 deferred
+
+### 2026-07-31T14:00:00Z — tick 593
+- Unit: rq_584 (FOI-adjacent dual env science hole-fill — **VITO** dual ISSeP)
+- Found: **VITO** Impactrapport 2024 (primary PDF) + JV 2023. **Inkomsten €297.056m** (bedrijfsopbrengsten **€141.107m** +19% · R&D activering **€90m** · subsidies **€65.949m**); **uitgaven €299.666m** (personnel **€128.539m** · werkings **€72.256m** · R&D amort **€90m**). Staff **~1.300** / **+66 FTE** YoY. VL beheersovereenkomst 2024-28 uplift **+€8m** 2024; pilot invest **€6m**. Private rev **€18.9m** / public **€31.1m**. Dual **ISSeP** CA 34.8m/304 staff (~8.5x scale). Strong on P&L lines; full BS residual FOI.
+- Wrote: entities (+vito); budgets (+20); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_vito_jaarrekening_l5_2024; rq_584=done; spawn rq_585; loop_state ticks=593
+- FOI opened: gap_vito_jaarrekening_l5_2024 → ready (not sent)
+- Next: rq_585; progress@600 in 7 ticks; rq_116 deferred
