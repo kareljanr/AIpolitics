@@ -12334,3 +12334,59 @@ bud_interreg_lux_wal_vl_dep_2025,interreg_wal,2025,2645817,,,budgeted,src_ccrek_
 bud_pole_reconversion_dep_2025,pole_reconversion_wal,2025,1897863,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Pole de reconversion dep BI2025 1.898m solde +0.069m; tick662
 bud_centre_habitat_durable_dep_2025,centre_habitat_durable,2025,1086023,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Centre etudes habitat durable dep BI2025 1.086m solde -0.200m; tick662
 bud_futurocite_dep_bi2025,futurocite,2025,655494,,,budgeted,src_ccrek_type3_mutual_invest_bi2025,strong,Futurocite dep BI2025 0.655m solde +0.098m; tick662
+bud_wal_emprunts_aju_2026,wallonie_debt,2026,4059500000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Table1 produits emprunts aju 4059.5m path -16.0; tick663
+bud_wal_amort_aju_2026,wallonie_debt,2026,1110900000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Table1 amort aju 1110.9m path -3.6; CoA understated +10m redistrib; tick663
+bud_wal_amort_understate_10m_2026,wallonie_debt,2026,10000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Amort understated 10.0m post-conclave redistrib; SEC understated due; tick663
+bud_wal_ocpp_nets_aju_2026,wallonie_gov,2026,273200000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Table1 OCPP nets aju 273.2m path -9.8; tick663
+bud_wal_autres_corr_sec_aju_2026,wallonie_gov,2026,166200000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Table1 autres corr SEC aju 166.2m path +8.8; tick663
+bud_wal_fa_missions_aju_2026,financement_alternatif_wal,2026,111600000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,FA+missions aju 111.6m path -18.7 (missions -20.1); tick663
+bud_wal_fa_crac_aju_2026,crac,2026,74000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,CRAC FA impact aju 74.0m path +1.3; tick663
+bud_wal_fa_sowafinal_aju_2026,sowafinal,2026,55600000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Sowafinal FA impact aju 55.6m flat; tick663
+bud_wal_unites_inst_aju_2026,uap_perimeter_wal,2026,-486500000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Unites institutionnelles aju -486.5m path +75.8; tick663
+bud_wal_solde_net_consol_aju_2026,wallonie_gov,2026,-2978700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Solde net consolide aju -2978.7m path +86.4; tick663
+bud_wal_tresorerie_uap_aju_2026,uap_perimeter_wal,2026,460700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,UAP treasury remonte aju 460.7m (init 440.7 + extra 20.0); no SEC net impact; tick663
+bud_wal_tresorerie_uap_extra_20m_2026,uap_perimeter_wal,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Extra UAP treasury remonte +20.0m aju vs init; tick663
+bud_wal_dep_net_sousutil_class_2026,wallonie_gov,2026,20303000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Dep after sous-util 20303.0m vs rec after UAP remonte 17567.7m gap 2735.3m; tick663
+bud_wal_rec_net_remonte_class_2026,wallonie_gov,2026,17567700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Rec after hors emprunts remonte 17567.7m class; tick663
+bud_wal_provisions_eng_aju_2026,wallonie_gov,2026,521600000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Provisions+reserves eng aju 521.6m specialty risk; tick663
+bud_wal_provisions_liq_aju_2026,wallonie_gov,2026,1221700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Provisions+reserves liq aju 1221.7m specialty risk; tick663
+bud_wal_prw_frr_redistrib_eng_2026,prw_frr_wallonie,2026,99700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,PRW/FRR provision redistrib eng YTD 99.7m without Parlement; tick663
+bud_wal_prw_frr_redistrib_liq_2026,prw_frr_wallonie,2026,547200000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,PRW/FRR provision redistrib liq YTD 547.2m specialty breach; tick663
+bud_wal_index_pivot_impact_24_8m_2026,wallonie_gov,2026,24800000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Index pivot revision impact +24.8m on WAL dep (pivot Jun/Sep then Dec 2026); tick663
+bud_wal_ce_aju_2026,wallonie_gov,2026,21452905000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Table12 total CE aju 21452.905m path +276.5m; tick663
+bud_wal_cl_aju_2026,wallonie_gov,2026,21937935000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Table12 total CL aju 21937.935m path +602.2m; tick663
+bud_encours_eoy2025,encours_wal,2025,5937100000,,,outturn,src_ccrek_wal_aju2026_residual,strong,Encours eng eoy2025 5937.1m (down vs Nov2024 7565m class); tick663
+bud_encours_potential_reduce_2026,encours_wal,2026,485000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Potential encours reduction 485.0m (CL>CE aju); tick663
+bud_encours_incomplete_crac_sowafinal_2025,encours_wal,2025,1891200000,,,outturn,src_ccrek_wal_aju2026_residual,strong,Incomplete encours CRAC+Sowafinal eoy2025 1891.2m; tick663
+bud_encours_incomplete_dechets_2025,encours_wal,2025,53300000,,,outturn,src_ccrek_wal_aju2026_residual,strong,Incomplete encours dechets promesses eoy2025 53.3m; tick663
+bud_encours_incomplete_sum_2025,encours_wal,2025,1944500000,,,outturn,src_ccrek_wal_aju2026_residual,strong,Incomplete encours sum 1944.5m eoy2025; tick663
+bud_emploi_pack_ce_aju_2026,forem,2026,3126200000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Emploi-formation pack CE aju 3126.2m path +43.6; ~80pct DO18 / 15pct WAL dep; tick663
+bud_emploi_pack_cl_aju_2026,forem,2026,3114300000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Emploi-formation pack CL aju 3114.3m path +43.7; tick663
+bud_forem_prog130_ce_cl_aju_2026,forem,2026,2876000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Prog 130 Forem CE=CL aju 2876.0m path +42.4 vs init 2833.6; tick663
+bud_forem_sec_aju_2026,forem,2026,3007400000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Forem institutional CE=CL aju 3007.4m path +42.4 (macro +22.2 Job+ +31.9 -aides -12.4); tick663
+bud_job_plus_32m_aju_2026,forem,2026,32000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Job+ unique hiring aid DF130.021 32.0m (Sesam 2.4 act 8.6 tirage 3.7 CPAS 13.2 health 2.2 indus 2.4); tick663
+bud_ape_creches_plus_2_1m_2026,wallonie_gov,2026,2100000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,APE +2.1m creches Plan Cigogne; tick663
+bud_cisp_plus_2_8m_2026,wallonie_gov,2026,2800000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,CISP +2.8m reform savings not delivered; tick663
+bud_fonds_communes_path_31_3m_2026,wallonie_gov,2026,31300000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Fonds des communes DF091.027 path +31.3m BFP params; +1pct index still suppressed; tick663
+bud_aides_compensatoires_aju_2026,wallonie_gov,2026,105700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Aides compensatoires communes 105.7m aju (init 58.9 path +46.8); reform delayed to 2027; tick663
+bud_aides_compensatoires_init_2026,wallonie_gov,2026,58900000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Aides compensatoires init 58.9m (was 102.4 BA2025); tick663
+bud_aviq_rec_aju_2026,aviq,2026,7007848000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,AViQ rec aju 7007.848m path +35.5 (+0.5pct); tick663
+bud_aviq_dep_aju_2026,aviq,2026,7523550000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,AViQ dep aju 7523.550m path +232.1 (+3.2pct); tick663
+bud_aviq_result_aju_2026,aviq,2026,-515702000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,AViQ result aju -515.702m path -196.6 vs init -319.1; tick663
+bud_aviq_consol_impact_aju_2026,aviq,2026,-258900000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,AViQ consol impact -258.9m after inexec 58.6 + MR billing corr 198.1; tick663
+bud_aviq_inexec_presumee_aju_2026,aviq,2026,58600000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,AViQ inexec presumee 58.6m aju; tick663
+bud_aviq_mr_billing_14m_shock_2026,aviq,2026,198100000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,MR/MRS/CSJ monthly e-billing shock +198.1m (14 months in 2026 vs 12); tick663
+bud_aviq_protection_sociale_path_194_7m,aviq,2026,194700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Protection sociale wallonne path +194.7m mainly billing; tick663
+bud_aviq_nonmarchand_harmonisation_cut_5m,aviq,2026,-5000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Non-marchand salary harmonisation MR cut -5.0m underuse; tick663
+bud_aviq_soins_etranger_cut_6_7m,aviq,2026,-6700000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Soins Wallons a l etranger path -6.7m; tick663
+bud_uap_perimeter_count_2026,uap_perimeter_wal,2026,136,,,outturn,src_ccrek_wal_aju2026_residual,strong,ICN perimeter Apr2026 COUNT 136 institutions (5 exited); tick663
+bud_swl_prw251_liq_2026_residual,swl,2026,23800000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,SWL PRW project 251 residual liq 23.8m 2026 (112.7m in 2025 of 135.5 total); SEC degrade; tick663
+bud_sowaer_sec_path_plus_24m_2026,sowaer,2026,24000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Sowaer SEC path +24.0m (rec +7.1 invest slow +18.7); tick663
+bud_spaque_sec_path_minus_5_4m_2026,spaque,2026,-5400000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,SPAQuE SEC path -5.4m aju; tick663
+bud_apr_npe_cum_2025_26_pct,gg_belgium,2026,5.9,,,projection,src_ccrek_wal_aju2026_residual,strong,APR2026: NPE cum 2025-26 5.9pct vs commit 6.1 (3.6+2.5); tick663
+bud_mtfsp_npe_2025_pct,gg_belgium,2025,3.6,,,projection,src_ccrek_wal_aju2026_residual,strong,MTFSP commit NPE growth 3.6pct 2025; tick663
+bud_mtfsp_npe_2026_pct,gg_belgium,2026,2.5,,,projection,src_ccrek_wal_aju2026_residual,strong,MTFSP commit NPE growth 2.5pct 2026; tick663
+bud_fed_entities_eu_mff_500m_from_2028,sec_s1312,2028,500000000,,,budgeted,src_ccrek_wal_aju2026_residual,strong,Federated entities annual contribution 500m from 2028 EU MFF not in WAL traj; tick663
+bud_fmi_be_def_2025_pct_gdp,gg_belgium,2025,-5.3,,,projection,src_ccrek_wal_aju2026_residual,strong,FMI Apr2026 BE deficit -5.3pct GDP 2025; tick663
+bud_fmi_be_def_2031_pct_gdp,gg_belgium,2031,-5.8,,,projection,src_ccrek_wal_aju2026_residual,strong,FMI BE deficit -5.8pct GDP 2031 constant policy; tick663
+bud_fmi_be_debt_2031_pct_gdp,gg_belgium,2031,122.3,,,projection,src_ccrek_wal_aju2026_residual,strong,FMI BE debt 122.3pct GDP 2031 (2nd after Italy); tick663

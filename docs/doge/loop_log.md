@@ -7801,3 +7801,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+7); budgets (+32); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_mutualistes_smr_type3_l5_2025; rq_653=done; spawn rq_654; loop_state ticks=662
 - FOI opened: gap_mutualistes_smr_type3_l5_2025 -- ready prio6 (not sent)
 - Next: rq_654; progress@670 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T07:30:00Z -- tick 663
+- Unit: rq_654 (FOI-adjacent dual fiscal residual -- **CoA aju2026 AViQ billing + Job+ + provisions specialty + encours + SWA/APR**)
+- Found (primary CoA 2026_26): **AViQ aju** rec **EUR7.008bn** / dep **EUR7.524bn** / result **-EUR515.7m** (path **-EUR197m**); consol **-EUR258.9m** after inexec **EUR58.6m** + **MR billing 14-month shock +EUR198.1m**. **Job+** DF130.021 **EUR32m** (Sesam 2.4 + act 8.6 + tirage 3.7 + CPAS 13.2 + health 2.2 + indus 2.4); Forem prog130 **EUR2.876bn**; pack **EUR3.126bn** eng. **Provisions** eng **EUR521.6m** / liq **EUR1.222bn**; PRW/FRR redistrib eng **EUR99.7m** / liq **EUR547.2m** specialty breach. **Encours** eoy2025 **EUR5.937bn** + incomplete CRAC/Sowafinal **EUR1.891bn** + dechets **EUR53.3m**. **Aides compensatoires** **EUR105.7m** (init 58.9 path +46.8; reform delay 2027). **SWA** signed **2026-03-25** assent pending; **APR** NPE cum **5.9%** vs commit **6.1%**; FMI BE def **-5.3?-5.8%** debt **122.3%** 2031; EU MFF entities **EUR500m/yr** from 2028 not in traj; fiches confidential CoA denied. Dual VL. Strong confidence CoA; L5 residual FOI.
+- Wrote: budgets (+55); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_residual_l5; raw PDF; rq_654=done; spawn rq_655; rq_116 notes SWA assent pending; loop_state ticks=663
+- FOI opened: gap_wal_aju2026_residual_l5 -- ready (not sent)
+- Next: rq_655; progress@670 in 7 ticks; rq_116 deferred (SWA assent pending assemblies)
