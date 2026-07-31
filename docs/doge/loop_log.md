@@ -6719,3 +6719,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +26; cmt +4; lb +8; FOI **gap_vl_avb_prof_outturn_l5** ready+draft; rq_544=done spawn **rq_545**; ticks=553
 - FOI opened: gap_vl_avb_prof_outturn_l5 (ready, human send) - not sent
 - Next: prio5 **rq_545**; deferred **rq_116** SWA
+
+### 2026-07-31T09:15:00Z - tick 554
+- Unit: **rq_545** (FOI-adjacent hole-fill - **expose Table11 A/B fiscal assignment by beneficiary cash**)
+- Found (strong primary DOC 56 1278/001 Part II Table11; million-EUR cash):
+  - **Total third-party+assigned 2026:** **EUR 92.508bn** (2025 91.100 · 2024 86.589)
+  - **By beneficiary 2026:** EU **4.150** · Regions **25.600** · Communities **33.563** · SS **27.325** · divers **1.870**
+  - **Communities:** PB **11.060** + VAT **22.504**; **Regions:** taxes **3.772** + PB share **7.539** + autonomy **14.288**
+  - **SS alt fin L5:** emp **23.392** (RV **6.403** · VAT **13.275** · tobacco **2.774** · BVH **0.940**) · self **3.830** · BBSZ **0.102**
+  - **Energy divers:** Elia **761.5** · CREG **512.4** · Hedera **148.7** (TACT+TBV+RV)
+  - **Dual:** T11 C&R 59.2 vs Graph1 E2 81.5 perimeter; SS alt 27.22 dual Part IV/I.3
+- Wrote: sources +2; budgets +40; cmt +4; lb +8; FOI **gap_fiscal_assignment_l5_2026** notes updated (matrix filled; residual per-region); rq_545=done spawn **rq_546**; ticks=554
+- FOI: no new letter; partial fill existing gap - not sent
+- Next: prio5 **rq_546**; deferred **rq_116** SWA
