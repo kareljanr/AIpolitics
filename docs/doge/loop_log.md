@@ -8423,3 +8423,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_port_innoviris_l5 — ready (not sent)
 - Next: rq_705 VL/WAL residual; progress@720 in 7 ticks; rq_116 deferred
 
+### 2026-08-01T20:15:00Z — tick 714
+- Unit: **rq_705** (FOI-adjacent dual residual — **VL GIP CoA 2026_27 MOW invest dual STIB**)
+- Found (primary CoA 2026_27 GIP, 78p, NL chamber 16 Jun 2026):
+  - GIP avg invest **~2.5bn/yr**; GIP2025-27 avg **2503m**; path fin **2585/2424/2501** (2025-27)
+  - **Actualisatie 2026 total 3685m** (optimistic CoA): ministerie **1012** · toelage RP **584** · DWV **265** · Oosterweel/Lantis **1042** · overkap leefbaarheid **639** · VVF **38**
+  - Extra 2025 promise **530** delivered **363** (gap **167**; part maintenance reclass)
+  - Entity submit 2026 **4270m** vs path; 2026-29 avg submit **3122m**
+  - Unmotivated raming cut **1057m** on **502** projects 2025
+  - Assetmgmt 2025 **1529/1374** (89.9%); fiets **320/275** (85.9%); studies actu **208.5**
+  - Asset Wijzer backlog **14550m**; RA MOW envelope **1785** of **3195**; De Lijn fleet green **400m**
+  - Dual BCR STIB PPI / WAL infra; Strong CoA; L5 FOI.
+- Wrote: budgets (+26); commitments (+6); leaderboard (+7); sources (+2); raw PDF; FOI draft **gap_vl_gip_2026_27_l5**; rq_705=done; spawn **rq_706**; loop_state ticks=714
+- FOI opened: gap_vl_gip_2026_27_l5 — ready (not sent)
+- Next: rq_706; progress@720 in 6 ticks; rq_116 deferred
+

@@ -13981,3 +13981,29 @@ bud_innoviris_corrected_41_2m_2026_tick713,innoviris,2026,41198000,,,budgeted,sr
 bud_innoviris_reporte_strip_52_0m_2026,innoviris,2026,51959000,,,budgeted,src_ccrek_bru_port_innoviris_2026,strong,Innoviris reporté strip 51.959 both sides; tick713
 bud_dual_port_bru_poab_2026,gg_belgium,2026,65371000,,,budgeted,src_dual_ports_rdi_tick713,strong,Dual Port BRU 65.4 presented vs POAB 507 class; not TE-additive; tick713
 bud_dual_innoviris_vlaio_fwo_2026,gg_belgium,2026,93157000,,,budgeted,src_dual_ports_rdi_tick713,strong,Dual Innoviris 93.2 presented vs VL FWO/VLAIO residual; not TE-additive; tick713
+bud_vl_gip_avg_2503m_2025_27,vlaanderen_gov,2026,2503000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,GIP 2025-27 annual average invest ~2503m MOW dual; tick714
+bud_vl_gip_path_2025_2585m,vlaanderen_gov,2025,2585000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,GIP financing sources total 2585m 2025 Table6; tick714
+bud_vl_gip_path_2026_2424m,vlaanderen_gov,2026,2424000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,GIP 2025-27 path 2026 financing 2424m; tick714
+bud_vl_gip_path_2027_2501m,vlaanderen_gov,2027,2501000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,GIP 2025-27 path 2027 financing 2501m; tick714
+bud_vl_gip_actualisatie_2026_3685m,vlaanderen_gov,2026,3685000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,GIP actualisatie 2026 financing total 3685m (optimistic CoA); tick714
+bud_vl_gip_ministerie_2026_actu_1012m,vlaanderen_gov,2026,1012000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Actualisatie2026 ministeriebegroting 1012m; tick714
+bud_vl_gip_toelage_rp_2026_actu_584m,vlaanderen_gov,2026,584000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Actualisatie2026 toelage rechtspersonen 584m; tick714
+bud_vl_gip_oosterweel_lantis_2026_actu_1042m,lantis,2026,1042000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Actualisatie2026 Oosterweel financieel model via Lantis 1042m; tick714
+bud_vl_gip_leefbaarheid_overkap_2026_actu_639m,lantis,2026,639000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Actualisatie2026 leefbaarheidsprojecten overkappingsruiter 639m; tick714
+bud_vl_gip_dwv_voorschot_2026_actu_265m,de_werkvennootschap,2026,265000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Actualisatie2026 voorschotprocedure DWV 265m; tick714
+bud_vl_gip_vvf_2026_actu_38m,vlaanderen_gov,2026,38000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Actualisatie2026 verkeersveiligheidsfonds 38m (path 60); tick714
+bud_vl_gip_extra_2025_promised_530m,vlaanderen_gov,2025,530000000,,,budgeted,src_ccrek_vl_gip_2026_27,medium,Extra invest 2025 promise 530m; tick714
+bud_vl_gip_extra_2025_delivered_363m,vlaanderen_gov,2025,363000000,,,outturn,src_ccrek_vl_gip_2026_27,strong,Extra invest 2025 delivered 363m (part maintenance reclass not pure invest); tick714
+bud_vl_gip_extra_2025_gap_167m,vlaanderen_gov,2025,167000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Extra invest 2025 shortfall 167m vs promise; tick714
+bud_vl_gip_entity_submit_2026_4270m,vlaanderen_gov,2026,4270000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Entities submitted invest programmes 4270m for 2026 vs path; tick714
+bud_vl_gip_entity_submit_avg_3122m_2026_29,vlaanderen_gov,2026,3122000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Entities submit avg 3122m/yr 2026-29; tick714
+bud_vl_gip_raming_cut_1057m_2025,vlaanderen_gov,2025,1057000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Unmotivated downward raming cut 1057m on 502 projects 2025; tick714
+bud_vl_gip_studies_actu_2026_208_5m,vlaanderen_gov,2026,208500000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,GIP studies actualisatie2026 total 208.5 (project 168.8); tick714
+bud_vl_gip_assetmgmt_approved_1529m_2025,vlaanderen_gov,2025,1529000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Assetmanagement GIP approved 1529m 2025; tick714
+bud_vl_gip_assetmgmt_committed_1374m_2025,vlaanderen_gov,2025,1374000000,,,outturn,src_ccrek_vl_gip_2026_27,strong,Assetmanagement committed 1374m 2025 (89.9pct); tick714
+bud_vl_gip_fiets_approved_320m_2025,vlaanderen_gov,2025,320000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,Fietsinfrastructuur GIP approved 320m 2025; tick714
+bud_vl_gip_fiets_committed_275m_2025,vlaanderen_gov,2025,275000000,,,outturn,src_ccrek_vl_gip_2026_27,strong,Fiets committed 275m 2025 (85.9pct); tick714
+bud_vl_asset_wijzer_backlog_14550m,vlaanderen_gov,2024,14550000000,,,estimate,src_ccrek_vl_gip_2026_27,medium,Asset Wijzer 2024 renovation backlog 14550m class; tick714
+bud_vl_ra_mow_invest_envelope_1785m,vlaanderen_gov,2026,1785000000,,,budgeted,src_ccrek_vl_gip_2026_27,medium,RA2024-29 MOW invest envelope 1785 of total 3195; tick714
+bud_vl_de_lijn_fleet_green_400m_2025,de_lijn,2025,400000000,,,budgeted,src_ccrek_vl_gip_2026_27,strong,De Lijn fleet greening 400m drives GIP 2025 bump; tick714
+bud_dual_gip_stib_2026,gg_belgium,2026,2424000000,,,budgeted,src_dual_gip_stib_wal_infra_tick714,strong,Dual VL GIP path 2424 vs BCR STIB residual; not TE-additive; tick714
