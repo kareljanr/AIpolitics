@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T07:00:00Z,rq_762,771,no,tick771 IBZ Fedasil 702 fire 189 Astrid 59; next rq_763 BOSA/004; progress@780 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T08:00:00Z,rq_763,772,no,tick772 BOSA provisions ~1.71bn; next rq_764 organs/Kanselarij; progress@780 in 8; rq_116 deferred

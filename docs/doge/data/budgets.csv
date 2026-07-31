@@ -16154,3 +16154,32 @@ bud_ibz_asylum_reception_core_2026,fod_ibz,2026,702205000,,,budgeted,src_kamer_i
 bud_ibz_civil_safety_stack_2026,fod_ibz,2026,256208000,,,derived,src_kamer_ibz_1281_006_2026,strong,derived
 bud_ibz_bxl_finance_stack_2026,fod_ibz,2026,298378000,,,derived,src_kamer_ibz_1281_006_2026,strong,derived
 bud_dual_ibz_fedasil_path_2026,gg_belgium,2026,702205000,,,derived,src_dual_ibz_asylum_civil_tick771,strong,Dual Fedasil declining path vs asylum chain dual POD MI/DVZ; not TE-additive; tick771
+bud_bosa_prov_justice_damages_2024,fod_bosa,2024,599722000,,,outturn,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.01 justice costs/damages provision 599722 kEUR 2024; tick772
+bud_bosa_prov_justice_damages_2025,fod_bosa,2025,829737000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.01 justice costs/damages provision 829737 kEUR 2025; tick772
+bud_bosa_prov_justice_damages_2026,fod_bosa,2026,630671000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.01 justice costs/damages provision 630671 kEUR 2026; tick772
+bud_bosa_prov_justice_damages_2027,fod_bosa,2027,1374671000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.01 justice costs/damages provision 1374671 kEUR 2027; tick772
+bud_bosa_prov_justice_damages_2028,fod_bosa,2028,1005171000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.01 justice costs/damages provision 1005171 kEUR 2028; tick772
+bud_bosa_prov_index_2024,fod_bosa,2024,555106000,,,outturn,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.07 indexation meerkosten provision 555106 kEUR 2024; tick772
+bud_bosa_prov_index_2025,fod_bosa,2025,485201000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.07 indexation meerkosten provision 485201 kEUR 2025; tick772
+bud_bosa_prov_index_2026,fod_bosa,2026,485201000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.07 indexation meerkosten provision 485201 kEUR 2026; tick772
+bud_bosa_prov_index_2027,fod_bosa,2027,485201000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.07 indexation meerkosten provision 485201 kEUR 2027; tick772
+bud_bosa_prov_index_2028,fod_bosa,2028,485201000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.07 indexation meerkosten provision 485201 kEUR 2028; tick772
+bud_bosa_prov_ukraine_2024,fod_bosa,2024,439973000,,,outturn,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.09 Ukraine war expenditures provision 439973 kEUR 2024; tick772
+bud_bosa_prov_ukraine_2025,fod_bosa,2025,442814000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.09 Ukraine war expenditures provision 442814 kEUR 2025; tick772
+bud_bosa_prov_ukraine_2026,fod_bosa,2026,220955000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.09 Ukraine war expenditures provision 220955 kEUR 2026; tick772
+bud_bosa_prov_security_return_2024,fod_bosa,2024,305000000,,,outturn,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.10 security services+return policy provision 305000 kEUR 2024; tick772
+bud_bosa_prov_security_return_eng_2025,fod_bosa,2025,364723000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.10 eng 364723 kEUR 2025 (liq 366864); tick772
+bud_bosa_prov_security_return_2026,fod_bosa,2026,372700000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.10 security+return provision 372700 kEUR 2026 eng=liq; tick772
+bud_bosa_prov_new_policy_2026,fod_bosa,2026,3340000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 06.90.10.01.00.06 new policy provision mainly IT security 3340 kEUR 2026; tick772
+bud_bosa_prov_stack_2026,fod_bosa,2026,1712867000,,,derived,src_kamer_bosa_1281_003_2026,strong,derived
+bud_bosa_statutair_pay_2026,fod_bosa,2026,83594000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.00.110003 statutair personnel eng=liq 83594 kEUR 2026; tick772
+bud_bosa_egov_detach_2026,fod_bosa,2026,16673000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.00.122120 EGOV/Smals detache eng 16673 kEUR 2026 (liq 16676); tick772
+bud_bosa_digitisation_ops_2026,fod_bosa,2026,33487000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.31.121126 digitalisering werkingskosten eng=liq 33487 kEUR 2026; tick772
+bud_bosa_digital_transform_ops_eng_2026,fod_bosa,2026,50197000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 41.12.12.11.42 digital transformation ops eng 50197 kEUR 2026 (year-seq); tick772
+bud_bosa_digital_transform_ss_eng_2026,fod_bosa,2026,26338000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 41.12.42.90.42 digital transform transfers to SS orgs eng 26338 kEUR 2026; tick772
+bud_bosa_digital_transform_invest_eng_2026,fod_bosa,2026,14007000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 41.12.74.22.42 digital transform invest eng 14007 kEUR 2026; tick772
+bud_bosa_digital_transform_stack_2026,fod_bosa,2026,90542000,,,derived,src_kamer_bosa_1281_003_2026,strong,derived
+bud_bosa_2nd_pillar_contract_2026,persopoint,2026,30998000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 80.20.112011 2nd pillar pension payments contractuels 30998 kEUR 2026; tick772
+bud_bosa_accounting_eng_2025,fod_bosa,2025,39472000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.13.121122 accounting processes eng spike 39472 kEUR 2025 (liq 16624); tick772
+bud_bosa_accounting_liq_2026,fod_bosa,2026,16537000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.13.121122 accounting processes liq 16537 kEUR 2026 (eng 5661); tick772
+bud_dual_bosa_provisions_2026,gg_belgium,2026,1712867000,,,derived,src_dual_bosa_provisions_tick772,strong,Dual BOSA provisions parking ~1.71bn vs end departments; not TE-additive; tick772

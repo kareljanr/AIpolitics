@@ -9251,3 +9251,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_763 BOSA 003 / organs 004 / Kanselarij 002; progress@780 in 9; rq_116 deferred
 
+
+## Tick 772 — 2026-08-03T08:00:00Z
+
+- Unit: **rq_763** (FOI-adjacent residual — **Kamer DOC 56 1281/003 FOD BOSA**, 101p)
+- Found (primary 56K1281003; eng=liq pairs; years corrected):
+  - **Interdept provisions 2026 stack ~€1.713bn**: justice/damages **€630.671m** · index **€485.201m** · Ukraine **€220.955m** · security/return **€372.7m** · new policy **€3.34m**
+  - Path notes: justice 2025 peak €829.7 · 2027 spike €1.375bn; Ukraine down from ~€440m; security path 305→373→398
+  - BOSA ops: statutair **€83.594m** · EGOV detache **€16.67m** · digi werkingskosten **€33.49m**
+  - Digital transform eng class **~€90.5m** (ops 50.2 + SS transfers 26.3 + invest 14.0)
+  - 2nd pillar contractuels **€31.0m** (Persopoint)
+  - Dual: provisions parking vs end-dept (Justice/IBZ/index)
+- Wrote: entity persopoint; budgets +29; commitments +9; leaderboard +10; sources +2; FOI **gap_bosa_provisions_digital_l5** prio9 ready; rq_763=done; spawn **rq_764**; ticks=772
+- FOI: ready only — **do not send**
+- Next: rq_764 organs 004 / Kanselarij 002 / SACA 021; progress@780 in 8; rq_116 deferred
+
