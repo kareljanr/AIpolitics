@@ -10098,3 +10098,35 @@ bud_vdab_pmo_projects_eoy2025,vdab,2025,150,,,outturn,src_vdab_jv_2025,strong,CO
 bud_vdab_web_visits_2025,vdab,2025,38800000,,,outturn,src_vdab_jv_2025,strong,COUNT vdab.be visits 38.8m (+15pct); jobs domain 30.8m; tick562
 bud_vdab_sat_jobseeker_2025,vdab,2025,94,,,outturn,src_vdab_jv_2025,strong,PCT jobseeker satisfaction contact 94; tick562
 bud_vdab_bru_cross_wzw,vdab,2025,4653,,,outturn,src_vdab_jv_2025,strong,COUNT WZW registered VL+BRU dual Actiris 4653; tick562
+bud_onem_global_exp_2025,onem_rva,2025,7371035000,,,outturn,src_onem_ra_2025_vol1,strong,ONEM global expenditure 7371.035m 2025 Table1.4.6.I; tick563
+bud_onem_global_rec_2025,onem_rva,2025,7343783000,,,outturn,src_onem_ra_2025_vol1,strong,ONEM global receipts 7343.783m 2025; tick563
+bud_onem_global_saldo_2025,onem_rva,2025,-27252000,,,outturn,src_onem_ra_2025_vol1,strong,ONEM global saldo -27.252m 2025; tick563
+bud_onem_global_exp_2024,onem_rva,2024,7011991000,,,outturn,src_onem_ra_2025_vol1,strong,ONEM global exp 7011.991m 2024 restated; tick563
+bud_onem_missions_exp_2025,onem_rva,2025,6950791000,,,outturn,src_onem_ra_2025_vol1,strong,Missions expenditure 6950.791m 2025; tick563
+bud_onem_missions_exp_2024,onem_rva,2024,6600640000,,,outturn,src_onem_ra_2025_vol1,strong,Missions exp 6600.640m 2024; delta +350.151m; tick563
+bud_onem_missions_delta_2025,onem_rva,2025,350151000,,,outturn,src_onem_ra_2025_vol1,strong,Missions budget +350.15m +5.30pct YoY; tick563
+bud_onem_ss_benefits_2025,onem_rva,2025,6383351000,,,outturn,src_onem_ra_2025_vol1,strong,Social benefits (UI/enterprise/credit-temps) 6383.351m 2025 +20.51m +0.32pct; tick563
+bud_onem_ss_benefits_2024,onem_rva,2024,6362845000,,,outturn,src_onem_ra_2025_vol1,strong,Social benefits 6362.845m 2024; tick563
+bud_onem_op_indem_2025,onem_rva,2025,233604000,,,outturn,src_onem_ra_2025_vol1,strong,Payment organisms indemnisation 233.604m 2025 (-1.39m -0.59pct); dual gap_unemp_pay_unit_cost residual per-union; tick563
+bud_onem_op_indem_2024,onem_rva,2024,234995000,,,outturn,src_onem_ra_2025_vol1,strong,OP indemnisation 234.995m 2024; tick563
+bud_onem_missions_divers_2025,onem_rva,2025,333837000,,,outturn,src_onem_ra_2025_vol1,strong,Missions diverses 333.837m 2025 (+35.88m +12.04pct); tick563
+bud_onem_missions_rec_2025,onem_rva,2025,7219572000,,,outturn,src_onem_ra_2025_vol1,strong,Missions receipts total 7219.572m 2025; tick563
+bud_onem_missions_rec_gg_2025,onem_rva,2025,6658819000,,,outturn,src_onem_ra_2025_vol1,strong,Missions from global management 6658.819m 2025; tick563
+bud_onem_missions_rec_own_2025,onem_rva,2025,560753000,,,outturn,src_onem_ra_2025_vol1,strong,Missions own receipts 560.753m 2025; tick563
+bud_onem_gestion_exp_2025,onem_rva,2025,306638000,,,outturn,src_onem_ra_2025_vol1,strong,Management budget exp 306.638m 2025 (+11.39m); tick563
+bud_onem_gestion_exp_2024,onem_rva,2024,295248000,,,outturn,src_onem_ra_2025_vol1,strong,Management exp 295.248m 2024; tick563
+bud_onem_personnel_2025,onem_rva,2025,236021000,,,outturn,src_onem_ra_2025_vol1,strong,Personnel 236.021m 2025 (77pct gestion; was 220.513); tick563
+bud_onem_personnel_2024,onem_rva,2024,220513000,,,outturn,src_onem_ra_2025_vol1,strong,Personnel 220.513m 2024; tick563
+bud_onem_fonctionnement_2025,onem_rva,2025,65826000,,,outturn,src_onem_ra_2025_vol1,strong,Operating exp 65.826m 2025 (was 66.797); tick563
+bud_onem_invest_2025,onem_rva,2025,4352000,,,outturn,src_onem_ra_2025_vol1,strong,Investment 4.352m 2025 (was 7.371); tick563
+bud_onem_ui_full_avg_2025,onem_rva,2025,288077,,,outturn,src_onem_ra_2025_press,strong,COUNT monthly avg full unemployment beneficiaries 288077 (+1.13pct +3218); tick563
+bud_onem_career_interrupt_avg,onem_rva,2025,244023,,,outturn,src_onem_ra_2025_press,strong,COUNT monthly avg career interrupt/credit-temps/thematic 244023 (+1.5pct); tick563
+bud_onem_total_recipients_avg,onem_rva,2025,726387,,,outturn,src_onem_ra_2025_press,strong,COUNT monthly avg total ONEM benefit recipients 726387 (-2.9pct mainly temp UI); tick563
+bud_onem_temp_ui_decline_pct,onem_rva,2025,20.2,,,outturn,src_onem_ra_2025_press,strong,PCT temporary unemployment -20.2pct 2025; tick563
+bud_onem_bankruptcies_2025,onem_rva,2025,11675,,,outturn,src_onem_ra_2025_press,strong,COUNT bankruptcies 11675 record +11pct; jobs lost 34238; tick563
+bud_onem_jobs_lost_ffe_2025,onem_rva,2025,34238,,,outturn,src_onem_ra_2025_press,strong,COUNT jobs lost via bankruptcies 34238; tick563
+bud_onem_reform_endrights_class,onem_rva,2025,173000,,,estimate,src_onem_ra_2025_press,medium,COUNT ~173k persons end-of-rights class UI time-limit reform estimates; dual prior CoA waves; tick563
+bud_onem_process_14d_pct,onem_rva,2025,90.03,,,outturn,src_onem_ra_2025_press,strong,PCT UI claims processed within 14d 90.03 (was 99.80 reform load); tick563
+bud_onem_quality_pct,onem_rva,2025,96.07,,,outturn,src_onem_ra_2025_press,strong,PCT dossiers without error 96.07 (was 95.89); tick563
+bud_onem_ec3_payments_2025,onem_rva,2025,2100000,,,outturn,src_onem_ra_2025_press,strong,COUNT eC3 payments >2.1m; new users 122336; tick563
+bud_onem_ffe_gestion_2025,onem_rva,2025,8477683,,,outturn,src_onem_ra_2025_vol1,strong,FFE management exp 8.478m 2025; tick563

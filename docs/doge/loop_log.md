@@ -6833,3 +6833,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +29; cmt +3; lb +7; FOI **gap_vdab_jaarrekening_2025** ready+draft; gap_vdab_full_budget notes; raw PDF; rq_553=done spawn **rq_554**; ticks=562
 - FOI opened: gap_vdab_jaarrekening_2025 (ready, human send) - not sent
 - Next: prio5 **rq_554**; deferred **rq_116**; progress@570 in 8 ticks
+
+### 2026-07-31T10:00:00Z - tick 563
+- Unit: **rq_554** (FOI-adjacent hole-fill - **ONEM/RVA RA2025 missions budget + dual PES UI reform**)
+- Found (strong primary ONEM RA2025 vol1 Tables 1.4.6 + press):
+  - **Global 2025:** exp **EUR 7.371bn** / rec **7.344bn** / saldo **-27.3m**
+  - **Missions exp 6.951bn** (+**350.15m** +5.3%): social benefits **6.383bn** (+0.32%) · OP indemnisation **233.6m** (−0.59%) · diverses **333.8m** (+12.0%)
+  - **Gestion 306.6m** (+11.4m): personnel **236.0m** (77%) · fonctionnement **65.8m** · invest **4.4m**
+  - **Volumes:** full UI avg **288.077** (+1.13%) · temp UI **−20.2%** · career interrupt **244.023** · total recipients **726.387** (−2.9%) · bankruptcies **11.675** / jobs lost **34.238** · reform end-rights ~**173k**
+  - **Service:** process 14d **90.03%** (was 99.8) · quality **96.07%** · eC3 **>2.1m** payments · dual partners VDAB/FOREM/Actiris/ADG/OP/CPAS
+- Wrote: sources +3; budgets +32; cmt +3; lb +8; FOI **gap_onem_op_union_l5_2025** ready+draft; gap_unemp_pay_unit_cost notes; raw PDF; rq_554=done spawn **rq_555**; ticks=563
+- FOI opened: gap_onem_op_union_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_555**; deferred **rq_116**; progress@570 in 7 ticks

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:55:00Z,rq_553,562,no,tick562 VDAB JV2025 staff/savings/volumes; next rq_554; progress@570 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T10:00:00Z,rq_554,563,no,tick563 ONEM missions 6.95bn dual PES reform; next rq_555; progress@570 in 7; rq_116 deferred
