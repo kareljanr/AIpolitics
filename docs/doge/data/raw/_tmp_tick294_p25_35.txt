@@ -1,0 +1,1667 @@
+﻿\n======== PAGE 26 ========
+2933/016
+DOC 55
+26
+l'Entit├⌐  dΓÇÖen consulter les donn├⌐es et le cas 
+├⌐ch├⌐ant, dΓÇÖen modifier certaines imm├⌐diatement.  
+ 
+ 
+Plusieurs applications ont ├⌐t├⌐ sp├⌐cialement 
+d├⌐velopp├⌐es pour les administrations, autorit├⌐s, 
+services et autres instances pour lesquelles un 
+acc├¿s aux donn├⌐es de la BCE est n├⌐cessaire 
+dans le cadre de leurs missions l├⌐gales.  
+ 
+LΓÇÖinterface web BCE (BCEwi) et les webservices 
+BCE 
+(BCEws) 
+permettent 
+la 
+consultation, 
+lΓÇÖintroduction ou la modification dans la BCE, des 
+donn├⌐es relatives ├á une entit├⌐ d├⌐termin├⌐e. 
+ 
+Via les extraits XML BCE, le contenu de la base 
+de donn├⌐es compl├¿te est offert (fichier complet) 
+ou les modifications sont distribu├⌐es (fichier de 
+mutation). 
+ 
+BCE Select permet de cr├⌐er des listes de 
+donn├⌐es en toute simplicit├⌐. 
+vertegenwoordigen, de gegevens ervan kunnen 
+raadplegen en bepaalde ervan onmiddellijk 
+kunnen aanpassen.  
+ 
+Een aantal toepassingen werden specifiek 
+ontwikkeld voor besturen, overheden, diensten 
+en andere instanties die een toegang tot de KBO-
+gegevens nodig hebben in het kader van de 
+uitvoering van hun wettelijke opdracht.  
+ 
+De KBO web interface (KBOwi) en de KBO 
+webservices (KBOws) zorgen ervoor dat alle 
+gegevens van een entiteit in de KBO kunnen 
+worden geconsulteerd, ingeschreven, aangepast 
+of verbeterd. 
+Via de KBO XML-extracten wordt de inhoud van 
+de 
+volledige 
+databank 
+(volledig 
+bestand) 
+aangeboden of worden de wijzigingen verspreid 
+(mutatiebestand).  
+ 
+KBO Select laat toe om op eenvoudige manier 
+lijsten te maken van gegevens.  
+ 
+ 
+ 
+A.B. : 21.30.121101 : 
+Libell├⌐ : Frais de fonctionnement 
+B.A: 21.30.121101 : 
+Tekst : Werkingskosten 
+ 
+ 
+Fonctionnement 
+g├⌐n├⌐ral 
+ 
+et 
+formations 
+sp├⌐cifiques ICT. 
+Algemene werkingskosten en specifieke ICT 
+opleidingen. 
+ 
+ 
+ 
+A.B. : 21.30.121199 : 
+Libell├⌐ : Indemnit├⌐s forfaitaires 
+ 
+Frais de d├⌐placement et de s├⌐jour, indemnit├⌐s 
+kilom├⌐triques. 
+B.A: 21.30.121199 : 
+Tekst : Forfaitaire vergoedingen 
+Reis en verblijfkosten, kilometer vergoedingen. 
+ 
+ 
+ 
+ 
+A.B. : 21.30.121104 : 
+Libell├⌐ : Frais de fonctionnement (informatique) 
+B.A: 21.30.121104 : 
+Tekst : Werkingskosten (informatica) 
+ 
+ 
+Ce budget sert notamment ├á couvrir tous les frais 
+informatiques li├⌐s ├á lΓÇÖinformatique, entre autre 
+Dit budget dient om de diverse werkingskosten 
+verbonden aan de informatica te betalen, onder 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+149 
+322 
+318 
+314 
+314 
+314 
+314 
+Vastleggingen 
+Liquidation 
+120 
+324 
+320 
+316 
+316 
+316 
+316 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+39 
+27 
+28 
+28 
+28 
+28 
+28 
+Vastleggingen 
+Liquidation 
+39 
+27 
+28 
+28 
+28 
+28 
+28 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+12 264 
+15 982 
+19 200 
+12 679 
+12 679 
+12 679 
+12 679 
+Vastleggingen 
+Liquidation 
+10 640 
+16 038 
+18 557 
+13 436 
+13 436 
+13 436 
+13 436 
+Vereffeningen 
+
+\n======== PAGE 27 ========
+27
+2933/016
+DOC 55
+pour la mise ├á disposition de lΓÇÖinfrastructure 
+n├⌐cessaire ou des licences dΓÇÖoutils utilis├⌐s par 
+tout le personnel ou pour des applications 
+sp├⌐cifiques. 
+meer voor het ter beschikking stellen van de 
+nodige infrastructuur en licenties voor producten 
+gebruikt door al het personeel of voor specifieke 
+toepassingen . 
+ 
+A.B. : 21.30.742204 : 
+Libell├⌐ : Investissements (informatique) 
+B.A: 21.30.742204 : 
+Tekst : Investeringen (informatica) 
+ 
+ 
+A.B. : 21.31.121101 : 
+Libell├⌐ : BCE-Frais de fonctionnement 
+B.A: 21.31.121101 : 
+Tekst : KBO-Werkingskosten 
+ 
+ 
+A.B. : 21.31.121104 : 
+Libell├⌐ : BCE-Frais de fonctionnement 
+(informatique) 
+B.A: 21.31.121104 : 
+Tekst : KBO-Werkingskosten (informatica) 
+ 
+ 
+A.B. : 21.31.742204 : 
+Libell├⌐ : BCE-Investissement (informatique) 
+B.A: 21.31.742204 : 
+Tekst : KBO-Investering (informatica) 
+ 
+ 
+Programme 21/62 
+Fonds KBO 
+Programme 21/62 
+KBO fonds 
+ 
+ 
+A.B. : 21.62.121104 : 
+Libell├⌐ : BCE-Investissement (informatique) 
+B.A: 21.62.121104 : 
+Tekst : KBO-Investering (informatica) 
+ 
+ 
+ 
+ 
+ 
+ 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+736 
+789 
+798 
+713 
+713 
+713 
+713 
+Vastleggingen 
+Liquidation 
+397 
+797 
+806 
+721 
+721 
+721 
+721 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+94 
+155 
+153 
+151 
+151 
+151 
+151 
+Vastleggingen 
+Liquidation 
+87 
+156 
+154 
+152 
+152 
+152 
+152 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+2 215 
+2 345 
+2 319 
+2 293 
+2 293 
+2 293 
+2 293 
+Vastleggingen 
+Liquidation 
+2 152 
+2 345 
+2 319 
+2 293 
+2 293 
+2 293 
+2 293 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+ 
+195 
+195 
+195 
+195 
+195 
+195 
+Vastleggingen 
+Liquidation 
+ 
+195 
+195 
+195 
+195 
+195 
+195 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+2021 
+Engagement 
+416 
+490 
+ 
+ 
+ 
+ 
+ 
+Vastleggingen 
+Liquidation 
+488 
+490 
+ 
+ 
+ 
+ 
+ 
+Vereffeningen 
+
+\n======== PAGE 28 ========
+2933/016
+DOC 55
+28
+PROGRAMME DΓÇÖACTIVITE 21/4 
+ 
+Subventions ├á des organismes externes 
+ACTIVITEITEN PROGRAMMA 21/4 
+ 
+Toelagen aan externe organismen. 
+ 
+A.B. : 21.40.031001 (Bud DO PA A.B.). 
+Paiements des montants dus aux organes de 
+contr├┤le de lΓÇÖEtat aupr├¿s et pour le compte des 
+organismes dΓÇÖint├⌐r├¬t public 
+ 
+B.A. : 21.40.031001 (Beg OA AP B.A.). 
+Betaling van de bijdragen verschuldigd aan de 
+controleorganen van de Staat bij en voor 
+rekening van de instellingen van openbaar nut  
+ 
+ 
+ 
+Le 
+cr├⌐dit 
+est 
+destin├⌐ 
+au 
+paiement 
+des 
+r├⌐mun├⌐rations et des frais des organes de 
+contr├┤le de lΓÇÖEtat aupr├¿s et pour compte des 
+institutions dΓÇÖint├⌐r├¬t public soumises aux lois du 
+10 juin 1937 et du 16 mars 1954, ainsi quΓÇÖaupr├¿s 
+de tous les autres organismes parastataux. 
+Het krediet is bestemd voor de uitkering van de 
+bezoldigingen en de onkosten van de contr├┤le-
+organen van de Staat bij en voor rekening van de 
+instellingen van openbaar nut onderworpen aan 
+de wetten van 10 juni 1937 en van 16 maart 1954, 
+alsmede bij alle andere parastatale instellingen. 
+ 
+ 
+A.B. : 21.40.330001 (Bud DO PA A.B.). 
+Intervention dans les frais de publication de    
+rapports et dΓÇÖ├⌐tudes, ainsi que dans les frais 
+dΓÇÖorganisation de congr├¿s et de colloques 
+ 
+B.A. : 21.40.330001 (Beg OA AP B.A.). 
+Tussenkomst in de publicatiekosten van 
+verslagen en studies, evenals in de 
+organisatiekosten van congressen en colloquia 
+ 
+ 
+ 
+Note explicative: 
+Ce cr├⌐dit est destin├⌐ ├á des subsides facultatifs 
+accord├⌐s par arr├¬t├⌐ royal ├á des associations, 
+instituts, organismes et asbl, ├á titre dΓÇÖintervention 
+dans les frais de publication de rapports et 
+dΓÇÖ├⌐tudes, 
+de 
+m├¬me 
+que 
+dans 
+les 
+frais 
+dΓÇÖorganisation de congr├¿s et de colloques, dans 
+le cadre des comp├⌐tences ├⌐conomiques des 
+autorit├⌐s f├⌐d├⌐rales. 
+ 
+Toelichtingsnota : 
+Ce cr├⌐dit est destin├⌐ ├á des subsides facultatifs 
+accord├⌐s par arr├¬t├⌐ royal ├á des associations, 
+instituts, organismes et asbl, ├á titre dΓÇÖintervention 
+dans les frais de publication de rapports et 
+dΓÇÖ├⌐tudes, 
+de 
+m├¬me 
+que 
+dans 
+les 
+frais 
+dΓÇÖorganisation de congr├¿s et de colloques, dans 
+le cadre des comp├⌐tences ├⌐conomiques des 
+autorit├⌐s f├⌐d├⌐rales. 
+ 
+ 
+ 
+A.B. : 21.40.354001 (Bud DO PA A.B.). 
+Subvention au Bureau permanent de la 
+Commission internationale permanente (CIP) 
+pour lΓÇÖ├⌐preuve des armes ├á feu portatives 
+B.A. : 21.40.354001 (Beg OA AP B.A.). 
+Subsidie aan het Vast Bureau van de Vaste 
+Internationale Commissie (VIC) ter beproeving 
+van de draagbare vuurwapens 
+ 
+ 
+ 
+A.B. : 21.40.414001 (Bud DO PA A.B.). 
+Subvention ├á la Commission de R├⌐gulation de 
+lΓÇÖElectricit├⌐ et du Gaz (CREG) dans le cadre de 
+lΓÇÖ├⌐largissement du tarif social pour le gaz et 
+lΓÇÖ├⌐lectricit├⌐  
+B.A. : 21.40.414001 (Beg OA AP B.A.). 
+Subsidie aan de Commissie voor de Regulering 
+van de Elektriciteit en het Gas (CREG) in het 
+kader van de uitbreiding van het sociaal tarief 
+voor elektriciteit  
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+5 
+8 
+8 
+8 
+8 
+8 
+8 
+Vastleggingen 
+Liquidation 
+ 
+8 
+8 
+8 
+8 
+8 
+8 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+3 
+8 
+8 
+8 
+8 
+8 
+8 
+Vastleggingen 
+Liquidation 
+3 
+8 
+8 
+8 
+8 
+8 
+8 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+10 
+11 
+11 
+11 
+11 
+11 
+11 
+Vastleggingen 
+Liquidation 
+10 
+11 
+11 
+11 
+11 
+11 
+11 
+Vereffeningen 
+
+\n======== PAGE 29 ========
+29
+2933/016
+DOC 55
+ 
+ 
+ 
+ 
+LΓÇÖapplication ├⌐tendue du tarif social gaz 
+et ├⌐lectricit├⌐ est prolong├⌐e jusquΓÇÖ├á fin 
+mars 2023. 
+De uitgebreide toepassing van het 
+sociaal tarief gas en elektriciteit tot het 
+einde van maart 2023 wordt verlengd. 
+ 
+ 
+A.B. : 21.40.414002 (Bud DO PA A.B.). 
+Subvention au Conseil Central de lΓÇÖEconomie 
+B.A. : 21.40.414002 (Beg OA AP B.A.). 
+Subsidie voor de Centrale Raad voor het 
+Bedrijfsleven 
+ 
+ 
+Base l├⌐gale/raison dΓÇÖ├¬tre de la subvention : 
+Le Conseil Central de lΓÇÖEconomie ΓÇô en abr├⌐g├⌐ 
+CCE - est un ├⌐tablissement public cr├⌐├⌐ par la Loi 
+du 20 septembre 1948 portant organisation de 
+lΓÇÖ├⌐conomie, publi├⌐e au Moniteur Belge du 27 ΓÇô 28 
+septembre 1948. Le budget annuel, dress├⌐ par le 
+conseil, est soumis avec la proposition de subside 
+├á lΓÇÖapprobation du ministre comp├⌐tent, qui inscrit 
+les cr├⌐dits n├⌐cessaires au budget de son 
+d├⌐partement selon la Section 1 article 4 ┬º 5 de la 
+Loi du 20 septembre 1948 pr├⌐cit├⌐e. 
+ 
+ 
+ 
+Pr├⌐sentation 
+compl├¿te 
+de 
+lΓÇÖOrganisme 
+subventionn├⌐ :  
+Le CCE compte au maximum cinquante membres 
+effectifs et autant de membres suppl├⌐ants. Les 
+membres sont nomm├⌐s, sur proposition des 
+organisations repr├⌐sentatives des employeurs et 
+des travailleurs sur une base paritaire, par arr├¬t├⌐ 
+royal pour une p├⌐riode de 4 ans ; leur mandat est 
+renouvelable. Les membres ainsi nomm├⌐s 
+d├⌐signent ensuite 6 membres suppl├⌐ants connus 
+pour leurs capacit├⌐s scientifiques ou techniques. 
+Le CCE est pr├⌐sid├⌐ par une personnalit├⌐ 
+ind├⌐pendante nΓÇÖappartenant ni ├á lΓÇÖadministration 
+ni aux organisations repr├⌐sent├⌐es en son sein. Le 
+pr├⌐sident est nomm├⌐ par le Roi apr├¿s consultation 
+du Conseil. Son mandat, dΓÇÖune dur├⌐e de six ans, 
+est renouvelable. Le pr├⌐sident est assist├⌐ de 
+quatre Vice-pr├⌐sidents, d├⌐sign├⌐s sur une base 
+paritaire par lΓÇÖassembl├⌐ pl├⌐ni├¿re. La mission 
+g├⌐n├⌐rale du CCE est d├⌐finie dans lΓÇÖarticle 1er  de 
+la Loi du 20 septembre 1948 portant organisation 
+de lΓÇÖ├⌐conomie, elle consiste ├á adresser, ├á un 
+ministre ou aux chambres l├⌐gislatives, soit 
+dΓÇÖinitiative, soit ├á la demande de ces autorit├⌐s et 
+Wettelijke basis/doel van de subsidie : 
+De Centrale Raad voor het Bedrijfsleven (CRB) is een 
+overheidsorgaan dat werd opgericht bij Wet van 20 
+september 
+1948 
+houdende 
+organisatie 
+van 
+het 
+bedrijfsleven. Deze wet werd gepubliceerd in het 
+Belgisch Staatsblad van 27-28 september 1948. De door 
+de Raad opgestelde jaarlijkse begroting wordt samen 
+met het voorstel voor subsidie voor goedkeuring 
+voorgelegd aan de bevoegde minister, die de nodige 
+middelen in de begroting van zijn departement inschrijft 
+volgens Sectie 1, artikel 4 ┬º 5 van voornoemde Wet van 
+20 september 1948. 
+ 
+Volledige voorstelling van het gesubsidieerde 
+orgaan :  
+De CRB telt maximum vijftig werkende leden en 
+evenveel plaatsvervangers. De leden worden op 
+voorstel van de werkgevers- en werknemersorganisaties 
+paritair benoemd bij koninklijk besluit voor een periode 
+van 4 jaar; hun mandaat kan worden verlengd. De aldus 
+benoemde leden duiden vervolgens 6 plaatsvervangers 
+aan, die bekend staan om hun wetenschappelijke of 
+technische bekwaamheden. De CRB wordt voorgezeten 
+door een onafhankelijke persoon die noch behoort tot de 
+administratie, 
+noch 
+tot 
+de 
+organisaties 
+die 
+er 
+vertegenwoordigd zijn. De voorzitter wordt door de 
+Koning benoemd na raadpleging van de Raad. Zijn 
+mandaat, dat 6 jaar duurt, kan worden verlengd. De 
+voorzitter wordt bijgestaan door vier ondervoorzitters, 
+die paritair door de plenaire vergadering worden 
+aangesteld. De algemene opdracht van de CRB wordt 
+bepaald in artikel 1 van de Wet van 20 september 1948 
+houdende organisatie van het bedrijfsleven en bestaat 
+erin adviezen of voorstellen aan een minister of aan de 
+wetgevende 
+kamers 
+te 
+verstrekken 
+aangaande 
+problemen die betrekking hebben op de nationale 
+economie of op de verschillende bedrijfstakken. Dit kan 
+gebeuren op eigen initiatief of op verzoek van deze 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+276 000 
+733 340 
+642 400 
+3 400 
+3 400 
+3 400 
+3 400 
+Vastleggingen 
+Liquidation 
+276 000 
+733 340 
+642 400 
+3 400 
+3 400 
+3 400 
+3 400 
+Vereffeningen 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+4 929 
+5 290 
+5 409 
+5 359 
+5 375 
+5 390 
+5 405 
+Vastleggingen 
+Liquidation 
+4 929 
+5 290 
+5 409 
+5 359 
+5 375 
+5 390 
+5 405 
+Vereffeningen 
+
+\n======== PAGE 30 ========
+2933/016
+DOC 55
+30
+sous forme de rapports exprimant les diff├⌐rents 
+points de vue expos├⌐s en son sein, tous avis ou 
+propositions concernant les probl├¿mes relatifs ├á 
+lΓÇÖ├⌐conomie nationale ou des diff├⌐rents secteurs 
+dΓÇÖactivit├⌐s. Le r├┤le du CCE est de favoriser 
+lΓÇÖ├⌐mergence dΓÇÖun compromis socio-├⌐conomique 
+entre les interlocuteurs sociaux, permettant 
+dΓÇÖassurer une coh├⌐rence entre les politiques du 
+gouvernement et les enjeux de la n├⌐gociation 
+collective en mati├¿re dΓÇÖemploi, de salaire et plus 
+g├⌐n├⌐ralement des conditions de travail. Les 
+principaux th├¿mes abord├⌐s concernent : la 
+politique socio-├⌐conomique, le d├⌐veloppement 
+durable, 
+lΓÇÖorganisation 
+de 
+lΓÇÖ├⌐conomie, 
+la 
+concurrence, 
+la 
+politique 
+europ├⌐enne 
+et 
+lΓÇÖ├⌐conomie sectorielle. Le conseil a aussi une 
+s├⌐rie de mission l├⌐gale sp├⌐cifique comme la 
+r├⌐alisation du Rapport technique sur les marges 
+maximales disponibles qui lancent tous les deux 
+ans le round de n├⌐gociation interprofessionnelle. 
+Pour remplir sa mission le CCE dispose dΓÇÖun 
+secr├⌐tariat dont les t├óches sont dΓÇÖorganiser les 
+d├⌐bats entre les interlocuteurs sociaux et dΓÇÖen 
+assurer le greffe ainsi que de r├⌐aliser des ├⌐tudes 
+et des rapports sur la base desquels le compromis 
+peut se nouer. 
+ 
+A.B. : 21.40.414003 (Bud DO PA A.B.). 
+Subvention ├á la Commission de R├⌐gulation de 
+lΓÇÖElectricit├⌐ et du Gaz (CREG) dans le cadre le 
+cadre du forfait de base (prime chauffage) 
+ 
+autoriteiten en in de vorm van verslagen waarin de 
+verschillende standpunten binnen de Raad worden 
+uiteengezet. De CRB moet een sociaal-economisch 
+compromis tussen de sociale partners trachten tot stand 
+te brengen, dat zorgt voor samenhang tussen de 
+beleidslijnen van de regering en de belangen van 
+collectieve 
+onderhandelingen 
+op 
+het 
+vlak 
+van 
+werkgelegenheid, lonen en, meer in het algemeen, 
+arbeidsvoorwaarden. De voornaamste behandelde 
+themaΓÇÖs zijn : sociaal-economisch beleid, duurzame 
+ontwikkeling, 
+organisatie 
+van 
+het 
+bedrijfsleven,  
+mededinging, Europees beleid en  economie van de 
+sectoren. De Raad heeft ook een aantal specifieke 
+wettelijke taken, zoals de opstelling van het Technisch 
+verslag over de beschikbare maximummarges die om de 
+twee jaar de interprofessionele onderhandelingsronde 
+op gang brengen. Om zijn opdracht te volbrengen, 
+beschikt de CRB over een secretariaat dat instaat voor 
+de organisatie van de debatten tussen de sociale 
+partners en het opmaken van de verslagen ervan. Het 
+stelt ook studies en verslagen op, op basis waarvan een 
+compromis kan worden bereikt. 
+ 
+ 
+ 
+ 
+ 
+B.A. : 21.40.414003 (Beg OA AP B.A.). 
+Subsidie aan de Commissie voor de Regulering van de 
+Elektriciteit en het Gas (CREG) in het kader van het 
+basispakket (verwarmingspremie) 
+ 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro
+Engagement 
+ 
+517 204 
+1 444 500 
+ 
+ 
+ 
+ 
+Vastleggingen 
+Liquidation 
+ 
+517 204 
+1 444 500 
+ 
+ 
+ 
+ 
+Vereffeningen 
+ 
+ 
+Prolongation du forfait de base  
+Le forfait de base est prolong├⌐ pour les mois de 
+janvier, f├⌐vrier et mars 2023.  
+ 
+- ├ëlectricit├⌐ : 620.700 kEUR 
+- Gaz : 823.800 kEUR 
+ 
+ 
+ 
+A.B. : 21.40.414006 (Bud DO PA A.B.). 
+Dotation ├á lΓÇÖInstitut des comptes nationaux (ICN) 
+ 
+ 
+Verlenging basispakket 
+Het basispakket wordt verlengd voor de maanden 
+januari, februari en maart 2023.  
+ 
+- Elektriciteit: 620.700 kEUR 
+- Gas: 823.800 kEUR 
+ 
+ 
+ 
+B.A. : 21.40.414006 (Beg OA AP B.A.). 
+Dotatie aan het Instituut voor de nationale 
+rekeningen (INR) 
+ 
+ 
+Base l├⌐gale/raison de la subvention : 
+Par la loi du 21 d├⌐cembre 1994 portant des 
+dispositions sociales et diverses, il a ├⌐t├⌐ cr├⌐e 
+lΓÇÖInstitut 
+des 
+comptes 
+nationaux 
+(ICN), 
+├⌐tablissement public dot├⌐ de la personnalit├⌐ 
+juridique 
+sous 
+lΓÇÖautorit├⌐ 
+du 
+Ministre 
+de 
+lΓÇÖEconomie. La loi du 21 d├⌐cembre 1994 pr├⌐voit 
+Wettelijke basis/doel van de subsidie : 
+Bij de wet van 21 december 1994 houdende 
+sociale en diverse bepalingen, werd het Instituut 
+voor de nationale rekeningen (INR) opgericht als 
+openbare instelling met rechtspersoonlijkheid 
+onder het gezag van de Minister van Economie. 
+De wet van 21 december 1994 voorziet dat er 
+(en milliers dΓÇÖeuro) 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+(in duizenden euro) 
+Engagement 
+1 261 
+1 329 
+1 320 
+1 291 
+1 291 
+1 291 
+1 291 
+Vastleggingen 
+Liquidation 
+1 255 
+1 329 
+1 320 
+1 291 
+1 291 
+1 291 
+1 291 
+Vereffeningen 
+
+\n======== PAGE 31 ========
+31
+2933/016
+DOC 55
+que lΓÇÖICN b├⌐n├⌐ficie dΓÇÖune subvention annuelle, 
+laquelle est inscrite au budget du SPF Economie. 
+ 
+Pr├⌐sentation 
+compl├¿te 
+de 
+lΓÇÖOrganisme 
+subventionn├⌐ : 
+LΓÇÖICN associe trois institutions d├⌐sign├⌐es par la 
+loi : lΓÇÖInstitut National de Statistique (SPF 
+Economie), la Banque Nationale de Belgique et 
+le Bureau f├⌐d├⌐ral du Plan.  Avec la collaboration 
+des 
+ces 
+trois 
+institutions 
+mais 
+sous 
+sa 
+responsabilit├⌐ propre, lΓÇÖICN ├⌐tablit les statistiques 
+et pr├⌐visions ├⌐conomiques suivantes :  
+ΓÇó 
+les comptes nationaux et r├⌐gionaux, 
+ΓÇó 
+les statistiques du commerce ext├⌐rieur, 
+ΓÇó 
+le budget ├⌐conomique, 
+ΓÇó 
+les tableaux entr├⌐es-sorties de lΓÇÖ├⌐conomie. 
+ 
+ 
+LΓÇÖICN est g├⌐r├⌐ par un conseil dΓÇÖadministration, 
+pr├⌐sid├⌐ par le Pr├⌐sident du SPF Economie, en 
+tant que repr├⌐sentant du Ministre de lΓÇÖEconomie. 
+Le secr├⌐tariat est assur├⌐ par le SPF Economie en 
+collaboration avec la Banque Nationale de 
+Belgique. 
+ 
+A 
+la 
+suite 
+des 
+exigences 
+europ├⌐ennes 
+compl├⌐mentaires, 
+un 
+cr├⌐dit 
+suppl├⌐mentaire 
+r├⌐current de 1,25 mio est octroy├⌐ ├á lΓÇÖICN (AB 
+32.21.40.41.40.06) qui le versera ├á son tour ├á la 
+BNB eu ├⌐gard ├á la t├óche suppl├⌐mentaire 
+d├⌐coulant sp├⌐cifiquement de lΓÇÖ├⌐tablissement de 
+ces statistiques concernant la proc├⌐dure de 
+d├⌐ficit excessif ├á la suite de la loi du 28.02.2014 
+modifiant, en ce qui concerne lΓÇÖInstitut des 
+Comptes nationaux, la loi du 21 d├⌐cembre 1994 
+portant des dispositions sociales et diverses. 
+ 
+jaarlijks een dotatie aan het INR wordt voorzien 
+op de begroting van de FOD Economie. 
+ 
+ 
+Volledige voorstelling van het gesubsideerd 
+orgaan : 
+Het INR brengt de volgende bij wet aangeduide 
+instellingen samen: het Nationaal Instituut voor 
+de Statistiek (FOD Economie), de Nationale Bank 
+van Belgi├½ en het Federaal Planbureau.  Met 
+medewerking van deze instellingen, maar onder 
+eigen verantwoordelijkheid, maakt het INR de 
+volgende 
+statistieken 
+en 
+economische 
+vooruitzichten : 
+ΓÇó 
+de nationale en regionale rekeningen, 
+ΓÇó 
+de statistieken van de buitenlandse handel, 
+ΓÇó 
+de economische begroting, 
+ΓÇó 
+de input-outputtabellen van de economie. 
+Het INR wordt bestuurd door een raad van 
+bestuur, waarvan de Voorzitter van de FOD 
+Economie van rechtswege voorzitter is, als 
+vertegenwoordiger 
+van 
+de 
+Minister 
+van 
+Economie. Het secretariaat wordt waargenomen 
+door de FOD Economie, in samenwerking met de 
+Nationale Bank van Belgi├½. 
+In gevolge de bijkomende Europese eisen wordt 
+een recurrent bijkomend krediet van 1,25 mio 
+toegekend aan het INR (BA 32.21.40.41.40.06) 
+die dit op zijn beurt zal doorstorten aan de NBB 
+gelet op de bijkomende taak die specifiek 
+voortvloeit uit het opstellen van die statistieken 
+inzake de procedure bij buitensporige tekorten 
+ingevolge de wet van 28.02.2014 tot wijziging, 
+wat het Instituut voor de Nationale Rekeningen 
+betreft, van de wet van 21 december 1994 
+houdende sociale en diverse bepalingen. 
+ 
+ 
+ 
+ 
+DIVISION ORGANIQUE : 21/5 
+ORGANISATIEAFDELING : 21/5 
+Missions assign├⌐es  
+ 
+Par la note de service 200543/S1/P-0 dat├⌐e du 4 
+octobre 2005, le Pr├⌐sident du Comit├⌐ de Direction 
+communiquait aux directeurs g├⌐n├⌐raux et aux 
+directeurs des services dΓÇÖencadrement la cr├⌐ation 
+du 
+Service 
+dΓÇÖencadrement 
+Communication 
+op├⌐rationnelle (S4), renomm├⌐ par la suite Direction 
+Communication. Ce nouveau service a pour 
+mission lΓÇÖorganisation de la communication externe 
+du 
+d├⌐partement, 
+la 
+communication 
+interne, 
+lΓÇÖinformation ainsi que le soutien mat├⌐riel et 
+notamment le Print room, lΓÇÖ├⌐quipe Internet-Intranet 
+et la qualit├⌐ linguistique. Tous les services de S4 
+sont situ├⌐s au City Atrium sauf le Print room 
+(NGIII). 
+Toegewezen opdrachten 
+ 
+Met dienstorder 200543/S1/P-0 van 4 oktober 2005 deelde 
+de Voorzitter van het Directiecomit├⌐ de directeurs-generaal 
+en de directeurs van de stafdiensten de oprichting mee van 
+de Stafdienst Operationele Communicatie (S4), nadien 
+omgedoopt tot Directie Communicatie. Deze nieuwe dienst 
+is belast met de organisatie van de externe en interne 
+communicatie van het departement, de informatie, de 
+materi├½le ondersteuning, met name de Printroom, het 
+internet-intranet-team en de taalbewaking . Alle diensten 
+van S4 zijn gevestigd in het City Atrium, behalve de 
+Printroom (NGIII). 
+ 
+
+\n======== PAGE 32 ========
+2933/016
+DOC 55
+32
+ 
+ 
+Programme 2023 
+ 
+Service S401  
+SERVICE DU PORTE PAROLE 
+ 
+Le r├┤le des porte-paroles consiste principalement 
+├á :  
+ΓÇó 
+cr├⌐er un lien constant entre lui et le public;  
+ΓÇó 
+permettre aux projets d├⌐velopp├⌐s par le 
+SPF dΓÇÖ├¬tre connus ;  
+ΓÇó 
+├¬tre un point unique de contact entre le 
+SPF et les m├⌐dias ;  
+ΓÇó 
+augmenter la visibilit├⌐ du groupe et 
+am├⌐liorer la perception de celui-ci par le 
+public ; 
+ΓÇó 
+donner une figure ├á lΓÇÖorganisation dans les 
+├⌐v├⌐nements publics. 
+Les porte-paroles ne font pas seulement passer les 
+messages, ce sont eux  qui les con├ºoit en 
+d├⌐terminant lΓÇÖimage du SPF ├á diffuser.  
+Ce sont 
+aussi les porte-paroles qui sont 
+responsables des contacts avec les porte-parole 
+des ministres.  
+Contacts avec la presse 
+Les porte-paroles sont les seules personnes 
+autoris├⌐es ├á donner des interviews ├á la presse. 
+Toutes les d├⌐marches de communication externe 
+proactives 
+(communiqu├⌐s, 
+conf├⌐rence 
+de 
+presseΓÇª) ou r├⌐actives (la presse nous contacte 
+pour obtenir une information) doivent recevoir 
+lΓÇÖaval 
+du 
+service 
+du 
+porte-parole 
+et 
+├¬tre 
+d├⌐termin├⌐es par celui-ci, ├⌐ventuellement apr├¿s 
+accord du ministre.  
+ Il arrive toutefois que dans certains cas, un expert 
+de la mati├¿re concern├⌐e soit autoris├⌐ ├á r├⌐pondre ├á 
+la presse. Il sΓÇÖagit bien l├á dΓÇÖune exception 
+n├⌐cessitant lΓÇÖaval des porte-paroles. Au besoin, 
+lΓÇÖexpert en question sera form├⌐ aux techniques 
+dΓÇÖinterview par les porte-paroles. 
+ 
+ 
+ 
+Programma 2023 
+ 
+Dienst S401  
+WOORDVOERDERSCHAP  
+ 
+De woordvoerders zorgen er voornamelijk voor dat : 
+ 
+ΓÇó 
+er een constante link is met de burger; 
+ΓÇó 
+projecten van onze FOD de nodige ruchtbaarheid 
+krijgen in de buitenwereld; 
+ΓÇó 
+de 
+media 
+beschikken 
+over 
+├⌐├⌐n 
+centraal 
+aanspreekpunt met onze FOD; 
+ΓÇó 
+de perceptie van onze FOD ten opzichte van de 
+burger 
+verbetert; 
+ 
+ΓÇó 
+onze FOD vertegenwoordigd wordt op openbare 
+evenementen. 
+De woordvoerders zijn niet alleen een doorgeefluik van 
+berichten; ze bedenken welke de beste strategie is om 
+bepaalde zaken te communiceren. 
+ Ze zijn eveneens verantwoordelijk voor de contacten met 
+de 
+woordvoerders 
+van 
+de 
+ministers. 
+ 
+Perscontacten 
+Enkel de woordvoerders mogen persinterviews geven. Alle 
+externe communicatieacties (zowel proactieve zoals 
+persberichten versturen, persconferenties organiseren, ΓÇª 
+als reactieve zoals persvragen beantwoorden) moeten door 
+de Dienst van de Woordvoerder worden goedgekeurd en 
+vormgegeven, eventueel na akkoord van de minister. 
+ 
+ 
+ In sommige gevallen mag een expert in een specifieke 
+materie de pers te woord staan. Het gaat evenwel om 
+uitzonderingen 
+waarvoor 
+de 
+goedkeuring 
+van 
+de 
+woordvoerders 
+nodig 
+is. 
+Indien 
+nodig 
+leren 
+de 
+woordvoerders de expert in kwestie interviewtechnieken 
+aan. 
+ 
+ 
+ 
+
+\n======== PAGE 33 ========
+33
+2933/016
+DOC 55
+Service S402  
+SOUTIEN AU MANAGEMENT 
+ 
+S4021 Secr├⌐tariat & S4022 : Management 
+Support 
+Objectif strat├⌐gique : 
+ 
+Le secr├⌐tariat du staff pr├⌐pare les r├⌐unions et les 
+diff├⌐rents aspects administratifs qui entourent cette 
+activit├⌐ y compris lΓÇÖorganisation interne de S4. 
+ 
+HR : 
+ΓÇó 
+Gestion du service du personnel 
+ΓÇó 
+Circulation des notes de service 
+ΓÇó 
+Examens de carri├¿re 
+ΓÇó 
+Organisation des cours de formation 
+destin├⌐s au personnel de S4 
+ΓÇó 
+Formalit├⌐s horaire variable 
+ΓÇó 
+L├⌐gislation sociale 
+ 
+ 
+Budget et logistique : 
+ΓÇó 
+Elaboration budget S4 et surveillance des 
+d├⌐penses 
+ΓÇó 
+Gestion des bons de commande 
+ΓÇó 
+Gestion des notes de frais de S4. 
+ΓÇó 
+Logistique 
+ 
+S4023 : Traitement de lΓÇÖinformation 
+ 
+Cette 
+division 
+met 
+une 
+revue 
+de 
+presse 
+├⌐lectronique journali├¿re (via le service Presse) ├á 
+disposition dΓÇÖun certain nombre de collaborateurs 
+du SPF. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dienst S402  
+MANAGEMENTONDERSTEUNING 
+ 
+S4021 Secretariaat & S4022 : Management Support 
+ 
+Strategische doelstellingen : 
+Het secretariaat van de staf bereidt de vergaderingen voor 
+evenals de verschillende administratieve aspecten die 
+betrekking hebben op deze activiteit, met inbegrip van de 
+interne organisatie van S4. 
+ 
+HR : 
+ΓÇó 
+Beheer personeelsdienst S4 
+ΓÇó 
+Verspreiding dienstorders 
+ΓÇó 
+Loopbaanexamens 
+ΓÇó 
+Organisatie van opleidingen voor de medewerkers 
+van S4 
+ΓÇó 
+Variabele arbeidstijd 
+ΓÇó 
+Sociale wetgeving 
+ 
+ 
+Budget & Logistiek : 
+ΓÇó 
+Opmaak begroting  S4 en controle van de uitgaven. 
+ΓÇó 
+Beheer van de bestelbons van de dienst 
+ΓÇó 
+Beheer van de onkostennotaΓÇÖs S4 
+ΓÇó 
+Logistiek 
+ 
+ 
+S4023 : Informatie verwerking 
+ 
+Deze afdeling stelt een dagelijks elektronisch persoverzicht 
+(via de Persdienst) ter beschikking van een aantal 
+medewerkers van de FOD. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+\n======== PAGE 34 ========
+2933/016
+DOC 55
+34
+Service S41 
+BUREAU DE COMMUNICATION 
+ 
+S413 : Qualit├⌐ de la communication 
+ 
+Objectif strat├⌐gique : 
+ 
+Ce service  effectue un travail de relecture, de 
+v├⌐rification de la lisibilit├⌐ et de r├⌐├⌐criture des textes 
+envoy├⌐s, via les Accounts de S4, par les autres 
+directions g├⌐n├⌐rales et services dΓÇÖencadrement du 
+SPF. Ce service  g├¿re ├⌐galement le contenu des 
+sites Internet et Intranet du D├⌐partement en veillant 
+├á ce que ceux-ci soit toujours actualis├⌐. Il publie 
+r├⌐guli├¿rement des newsletters internes et externes 
+( ├⌐labore enfin (lΓÇÖeco-news) accessibles via 
+lΓÇÖIntranet ou le site web. 
+Ces travaux sont, bien ├⌐videmment, soumis ├á 
+lΓÇÖaccord du Pr├⌐sident du Comit├⌐ de direction et de 
+┬½ T ┬╗ 
+ 
+Objectifs poursuivis par le programme 
+Service S411 
+ACCOUNTMANAGEMENT 
+ 
+Account managers 
+ 
+Objectif strat├⌐gique : 
+Cette division est charg├⌐e des contacts avec les 
+clients 
+(internes) 
+de 
+S4 
+(autres 
+directions 
+g├⌐n├⌐rales et services dΓÇÖencadrement). 
+ 
+Les accounts managers ont un r├┤le proactif en 
+faisant des propositions pour la communication 
+interne et externe.  Ils ├⌐laborent avec les clients un 
+plan 
+de 
+communication 
+et 
+lΓÇÖex├⌐cutent 
+en 
+collaboration avec les divisions concern├⌐es de S4. 
+ 
+Programme transversaux : 
+ 
+De par leur r├┤le dΓÇÖinterm├⌐diaires entre toutes les 
+DG et S2 pour lΓÇÖorganisation dΓÇÖ├⌐v├⌐nements, les 
+Dienst S41 
+COMMUNICATIEBUREAU 
+ 
+S413 : Kwaliteit van de communicatie 
+ 
+Strategische doelstelling : 
+ 
+Hier worden de teksten die via de accounts van S4 door de 
+andere algemene directies en stafdiensten van de FOD 
+worden opgestuurd, gecontroleerd op leesbaarheid en 
+herschreven. De Dienst  beheert eveneens de inhoud van 
+de internet- en intranetsites van het departement 
+(uitgezonderd Statbel) en zorgt ervoor dat die steeds 
+bijgewerkt zijn. Daarnaast publiceert hij regelmatig interne 
+en externe  newsletters (eco-news) op die via het intranet of 
+de 
+website 
+kunnen 
+worden 
+geraadpleegd. 
+ 
+Deze 
+werkzaamheden 
+worden 
+vanzelfsprekend 
+onderworpen aan de goedkeuring van de Voorzitter van het 
+Directiecomit├⌐ en van ┬½ T ┬╗. 
+ 
+Nagestreefde doelstellingen door het programma 
+ 
+Dienst S411 
+ACCOUNTMANAGEMENT 
+ 
+Accountmanagers 
+Strategische doelstellingen : 
+Deze afdeling staat in voor de contacten met de (interne) 
+klanten 
+van 
+S4 
+(andere 
+algemene 
+directies 
+en 
+stafdiensten). 
+ 
+De account managers spelen een proactieve rol door 
+voorstellen te doen in verband met de interne en externe 
+communicatie, 
+werken 
+met 
+de 
+klanten 
+een 
+communicatieplan 
+uit 
+en 
+voeren 
+dit 
+plan 
+uit 
+in 
+samenwerking met de betrokken afdelingen van S4. 
+ 
+Transversale programmaΓÇÖs : 
+ 
+Gelet op hun rol als tussenpersoon tussen alle ADΓÇÖs en S2 
+voor het organiseren van events worden de account 
+
+\n======== PAGE 35 ========
+35
+2933/016
+DOC 55
+account managers sont concern├⌐s par lΓÇÖensemble 
+des programmes de communication du SPF. 
+ 
+Event support : 
+ 
+Objectif strat├⌐gique : 
+Organise les diff├⌐rences t├óches des accounts 
+managers ; 
+suivi 
+administratif, 
+mailing 
+des 
+invitations, support logistique, communiqu├⌐s de 
+presse etcΓÇª 
+Ce service assure la pr├⌐sence du SPF Economie 
+aux manifestations   publiques qui concernent les 
+comp├⌐tences de notre d├⌐partement. Ainsi, il tient 
+un stand ├á la foire de Libramont. Le stand de ce 
+service distribue une partie des publications du 
+SPF ainsi que les statistiques ├⌐dit├⌐es par Statbel. 
+ 
+Service S412 
+POLITIQUE DE COMMUNICATION 
+ 
+Toute communication vers lΓÇÖext├⌐rieur n├⌐cessite 
+lΓÇÖassociation de plusieurs canaux et supports pour 
+atteindre son public cible et faire passer son 
+message. Cela sΓÇÖop├¿re par la mise sur pied de 
+diff├⌐rentes actions de communication, dites ┬½ 
+campagne de communication ┬╗ ou ┬½ projet de 
+communication ┬╗. 
+Style maison et templates 
+LΓÇÖidentit├⌐ visuelle de notre SPF repose sur un 
+ensemble 
+de 
+caract├⌐ristiques 
+graphiques, 
+d├⌐clin├⌐es de fa├ºon coh├⌐rente et syst├⌐matique sur 
+tous les supports de communication. 
+Cet ensemble de normes graphiques obligatoires 
+constitue le style maison de notre d├⌐partement. Il 
+a pour but dΓÇÖaugmenter la visibilit├⌐ de notre SPF. 
+LΓÇÖidentit├⌐ visuelle ne se r├⌐sume donc pas au seul 
+logo du SPF, m├¬me si celui-ci en est un ├⌐l├⌐ment 
+essentiel en tant quΓÇÖ├⌐l├⌐ment de reconnaissance de 
+lΓÇÖorganisation, non seulement aux yeux des 
+collaborateurs mais aussi du monde ext├⌐rieur. 
+Les brochures et publications sont adapt├⌐es et mis 
+en forme selon les normes utilis├⌐es par notre SPF 
+(cf. le style maison). 
+managers bij alle communicatieprogrammaΓÇÖs van de FOD 
+betrokken. 
+ 
+Event Support : 
+ 
+Strategische doelstellingen : 
+┬½ Account ┬╗-secretariaat : organiseert de verschillende 
+taken van de account managers; administratieve follow-up, 
+mailing 
+van 
+uitnodigingen, 
+logistieke 
+ondersteuning, 
+persberichten, enzΓÇª 
+ 
+Deze dienst zorgt ervoor dat de FOD vertegenwoordigd is 
+op openbare evenementen die betrekking hebben op de 
+bevoegdheden van ons departement. Zo heeft de dienst 
+een stand op de Beurs van Libramont. De stand van deze 
+dienst verspreidt een deel van de publicaties van de FOD, 
+evenals de door Statbel gepubliceerde statistieken. 
+ 
+Dienst S412 
+COMMUNICATIEBELEID 
+ 
+Voor alle communicatie naar de buitenwereld moeten 
+diverse kanalen en dragers worden ingezet om de 
+boodschap bij het doelpubliek te brengen. Dit gebeurt via 
+verschillende 
+communicatieacties, 
+namelijk 
+de 
+ΓÇ£communicatiecampagneΓÇ¥ of het ΓÇ£communicatieprojectΓÇ¥. 
+ 
+ 
+Huisstijl en template 
+De visuele identiteit van onze FOD berust op een geheel 
+van grafische kenmerken die coherent en systematisch op 
+alle 
+communicatiedragers 
+zijn 
+aangebracht. 
+ 
+Al deze verplichte grafische normen vormen de huisstijl van 
+ons departement. De huisstijl moet de zichtbaarheid van 
+onze FOD vergroten. 
+De visuele identiteit beperkt zich dus niet alleen tot het logo 
+van de FOD, ook al is dit zowel voor de medewerkers als 
+voor de buitenwereld een essentieel element van 
+herkenning van de organisatie. 
+ 
+De brochures en publicaties worden aangepast en gelay-
+out volgens de door de FOD gehanteerde normen (cf. 
+huisstijl). 
+
+\n======== PAGE 36 ========
+2933/016
+DOC 55
+36
+Le style maison du SPF Economie a ├⌐t├⌐ formalis├⌐ 
+dans deux documents : la charte graphique et le 
+guide de style. 
+M├⌐dias sociaux 
+Facebook, Twitter, Instagram, Linked In, Pinterest, 
+Google +, ΓÇª des noms qui ne vous sont pas 
+inconnus. Les m├⌐dias sociaux jouent un r├┤le de 
+plus en plus important dans la diffusion de 
+lΓÇÖinformation au sein de notre soci├⌐t├⌐. Voil├á 
+pourquoi notre SPF y est ├⌐galement actif. 
+Toutefois, si les m├⌐dias sociaux sont autant de 
+canaux de communication populaires et faciles 
+dΓÇÖacc├¿s, dans un cadre professionnel il convient de 
+les utiliser ├á bon escient et dans le respect de 
+certaines r├¿gles. Nous devons veiller ├á garantir une 
+coh├⌐rence dΓÇÖensemble de la communication de 
+notre d├⌐partement et donner ainsi une image 
+positive de notre SPF. 
+Voil├á pourquoi, la Direction Communication (S4) 
+g├¿re les comptes principaux m├⌐dias sociaux du 
+SPF, au niveau de la publication dΓÇÖinformations et 
+en mati├¿re de dialogue avec nos publics cibles. 
+ 
+Service S414 
+CONTACT CENTER 
+ 
+Contact Center : 
+ 
+ΓÇó pour les th├¿mes quΓÇÖil traite, r├⌐pondre aux 
+questions les plus fr├⌐quemment pos├⌐es afin de 
+soulager les services comp├⌐tents. 
+ 
+ΓÇó pour les th├¿mes quΓÇÖil ne traite pas, diriger les 
+personnes vers lΓÇÖinformation quΓÇÖelles recherchent 
+ou le service qui pourra leur apporter lΓÇÖinformation 
+via diff├⌐rents canaux : t├⌐l├⌐phone ΓÇô e-mails ΓÇô fax. 
+ 
+Service S415 
+PRINTROOM 
+ 
+Ce service est charg├⌐e de la r├⌐alisation des 
+travaux dΓÇÖimpression pour le SPF. 
+ 
+De huisstijl van de FOD Economie is in twee documenten 
+vastgelegd: het grafische charter en de stijlgids. 
+ 
+Sociale media 
+Facebook, Twitter, Instagram, Linked In, Pinterest, Google 
++, ΓÇª klinken je zeker vertrouwd in de oren. Aangezien 
+social media in onze samenleving  een steeds grotere rol 
+spelen bij de verspreiding van informatie, hanteert onze 
+FOD 
+ze 
+ook 
+als 
+communicatiekanaal. 
+Hoewel 
+sociale 
+media 
+populaire 
+en 
+gemakkelijk 
+toegankelijke communicatiekanalen zijn, moeten ze in een 
+professionele omgeving verstandig en in overeenstemming 
+met bepaalde regels worden gebruikt. Het is onze taak te 
+zorgen voor een globale coherentie in de communicatie van 
+ons departement en zo een positief beeld te geven van onze 
+FOD. 
+ 
+ 
+Daarom beheert de Directie Communicatie (S4) de 
+belangrijkste social media accounts van de FOD om 
+informatie te publiceren en met ons doelpubliek te 
+dialogeren. 
+ 
+Dienst S414 
+CONTACT CENTER 
+ 
+Contact Center : 
+ 
+ΓÇó voor de themaΓÇÖs die aan bod komen : de meest gestelde 
+vragen beantwoorden om de bevoegde diensten te 
+ontlasten. 
+ 
+ΓÇó voor de themaΓÇÖs die het CC niet behandelt: de mensen 
+zeggen waar ze de gevraagde informatie kunnen vinden of 
+ze doorverwijzen naar de dienst die hun die informatie kan 
+geven via verschillende kanalen : telefoon ΓÇô e-mails ΓÇô fax. 
+ 
+Dienst S415 
+PRINTROOM 
+ 
+Deze dienst is belast met het drukwerk voor de FOD. 
+ 
+ 
+

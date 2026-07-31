@@ -1,0 +1,10 @@
+EXERCICE :                                  No I.N.S. : 52011
+                                            FONCT     :
+     EXERCICE PROPRE-RECETTES
+CIC: VFP002
+    ARTICLE          FSER         LIBELLECOMP
+ GEN
+ COMPTE      BUDGET       BUDGET    ESTIMATION
+DR. CONST.               (+MOD BUDG)
+                                                                                                                                                          2026                                                                                                        SANTE ET HYGIENE                                      870-872                                                                      2024       2025       2025       2026          
+230

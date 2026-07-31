@@ -7242,3 +7242,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+vib); budgets (+25); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_vib_vl_grant_l5_2024; rq_586=done; spawn rq_587; loop_state ticks=595
 - FOI opened: gap_vib_vl_grant_l5_2024 → ready (not sent)
 - Next: rq_587; progress@600 in 5 ticks; rq_116 deferred
+
+### 2026-07-31T14:45:00Z — tick 596
+- Unit: rq_587 (FOI-adjacent dual Flanders SOC hole-fill — **Flanders Make** dual imec/VIB/VITO)
+- Found: **Flanders Make** Activity Report 2025 (primary balance image + site conclusion). **Revenues €37.325m** (turnover **€33.220m**: convenant **€20.876m** · non-convenant **€10.980m** · membership **€1.364m** + other **€4.105m**); costs **€37.134m** (salaries SS **€24.319m** · op **€12.440m**); **op result €0.191m**; fin **€1.710m**; tax **€0.356m**; **profit €1.545m**. **Assets €234.739m** (cash **€131.396m** · stocks **€42.818m**); equity **€26.028m**; creditors **€208.648m** (ST 105.6 · reg 86.6). Ecosystem graphic: **€134m** rev · **+1100** researchers · **+210** members · 526 companies · 1200 projects. Dual SOC quartet vs **imec** 1.22bn / **VIB** 169m / **VITO** 297m (FM smallest manufacturing). Strong confidence.
+- Wrote: entities (+flanders_make); budgets (+28); commitments (+2); leaderboard (+6); sources (+2); raw JPEGs; FOI draft gap_fm_vl_convenant_l5_2025; rq_587=done; spawn rq_588; loop_state ticks=596
+- FOI opened: gap_fm_vl_convenant_l5_2025 → ready (not sent)
+- Next: rq_588; progress@600 in 4 ticks; rq_116 deferred

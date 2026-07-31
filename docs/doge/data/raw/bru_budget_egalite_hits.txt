@@ -1,0 +1,194 @@
+
+---PAGE 2---
+TABLE DES MATIÈRES / 2 
+TABLE DES MATIÈRES 
+Avant-propos 4 
+Chapitre 1 
+Norme et trajectoire budgétaire 5 
+1.1 Trajectoire budgétaire dans le contexte européen 5 
+1.2 Conformité du projet de budget au cadre européen et au cadre régional 5 
+1.2.1 Programmation budgétaire pluriannuelle 5 
+1.2.2 Comparaison avec le précédent cadre budgétaire à moyen terme 6 
+1.2.3 Organismes non repris dans les budgets 6 
+1.2.4 Budget consolidé de l’entité régionale 7 
+1.2.5 Tableaux budgétaires 7 
+ Chapitre 2 
+Soldes budgétaires, de financement et respect des objectifs 8 
+2.1 Trajectoire de la Région de Bruxelles-Capitale 8 
+2.2 Soldes budgétaires des services du gouvernement 9 
+2.3 Soldes budgétaires des organismes autonomes administratifs 10 
+2.4 Calcul du solde de financement 11 
+2.4.1 Solde de financement SEC de l’entité régionale 11 
+2.4.2 Méthodologie 12 
+2.4.3 Périmètre de consolidation 13 
+2.4.4 Requalification d’opérations (non) financières 13 
+2.4.5 Différences de contenu 14 
+2.4.6 Opérations budgétaires (sous-utilisations) 14 
+2.4.7 Conclusion 14 
+ Chapitre 3 
+Dette 15 
+3.1 Dette consolidée 15 
+3.2 Dette directe 16 
+3.3 Estimation des besoins de financement pour 2026 17 
+3.4 Évaluation externe du rating financier 18 
+3.5 Dette garantie 18 
+3.6 Conclusion 19 
+ Chapitre 4 
+Recettes 20 
+4.1 Aperçu général des recettes des SGRBC 20 
+4.2 Analyse du dispositif 21 
+ Chapitre 5 
+Dépenses 23 
+5.1 Aperçu général des dépenses des SGRBC 23 
+5.2 Analyse du dispositif 24 
+5.2.1 Commentaire général 24 
+---PAGE 9---
+PROJETS D’ORDONNANCES CONTENANT LES BUDGETS POUR 2026 DE LA RÉGION DE BRUXELLES-CAPITALE / 9 
+Vu le délai limité pour examiner les documents budgétaires, la Cour des comptes ne peut pas se 
+prononcer sur le bien-fondé de cette trajectoire. 
+Toutefois, la Cour des comptes relève que l’exposé général contient très peu d’informations sur les 
+mesures prévues, en particulier pour les années 2027 à 2029 où l’impact des mesures est le plus 
+important. Une information plus détaillée permettrait aux différents acteurs d’anticiper ces 
+mesures et de s’assurer de la cohérence entre la trajectoire et les projets de budget déposés au 
+Parlement. Ainsi, il aurait été utile d’annexer à la trajectoire un tableau qui détaille le montant des 
+mesures par programme. 
+L’exposé général annonce des investissements par le biais de prises de participations ou d’octrois 
+de crédits à certaines sociétés, avec toutefois une enveloppe maximale d’un milliard d’euros. Dans 
+la classification économique, ces transactions sont considérées comme des opérations financières 
+(transactions avec un code 8) qui n’ont pas d’impact sur le solde de financement SEC, pour autant 
+qu’elles ne fassent pas l’objet d’une requalification par l’ICN. 
+Ces nouvelles opérations financières, sur l’ensemble de la trajectoire, seront principalement 
+conclues avec la SLRB (400 millions d’euros), Vivaqua (180 millions d’euros), la société qui aura la 
+charge du projet Confex 10 (150 millions d’euros) et la fondation Kanal (60 millions d’euros). Ces 
+transactions ne sont pas détaillées dans l’exposé général. 
+2.2 Soldes budgétaires des services du gouvernement 
+Le solde budgétaire brut, tel qu’il résulte de l’exécution des budgets des recettes et des dépenses 
+des institutions, correspond à la différence entre l’ensemble des recettes et des dépenses, en droits 
+constatés. Contrairement au solde net à financer, le solde budgétaire brut prend en compte les 
+recettes et les dépenses relatives à la gestion de la dette. 
+Le projet de budget initial 2026 dégage un solde brut positif de 11,4 millions d’euros, soit une 
+variation de +282,8 millions d’euros par rapport aux crédits provisoires 2025. Celle-ci résulte d’une 
+augmentation des recettes (+358,7 millions d’euros), conjuguée à une hausse moindre des 
+autorisations de dépenses (+75,9 millions d’euros). 
+Tableau 2 – Soldes budgétaires des SGRBC 2025-2026 (en milliers d’euros) 
+Crédits 
+provisoires 
+2025 
+Budget 
+initial 
+2026 
+Variation 
+1 Total des recettes Tous les agrégats ͳ.Ͳͯͭ.ͬͲͱ ͳ.͵ʹ͵.ͳͱͭ +ͯͱʹ.ͲʹͲ 
+2 Total des dépenses (liquidations) Tous les agrégats  ͳ.͵ͬͮ.Ͱͱ͵ ͳ.͵ͳʹ.ͯͳͬ +ͳͱ.͵ͭͭ 
+3 Solde budgétaire brut 1-2 -ͮͳͭ.ͯ͵Ͱ ͭͭ.ͯʹͭ +ͮʹͮ.ͳͳͱ 
+4 Opérations internes R Agrégat 52 ͳ.Ͳͬͬ ͳ.͵ͬͬ +ͯͬͬ
+5 Opérations internes D Agrégat 02 ͱ.ͭͬͬ Ͳ.ͬͰͰ +͵ͰͰ
+6 Solde budgétaire net 3-(4-5) -ͮͳͯ.ʹ͵Ͱ ͵.ͱͮͱ +ͮʹͯ.Ͱͭ͵ 
+7 Recettes concernant la dette publique 
+(codes 9) R Agrégat 64 ͭ.ʹͱʹ.ͭͱͲ ͮ.ͭͯ͵.Ͳͮͳ +ͮʹͭ.Ͱͳͭ 
+8 Dépenses concernant la dette publique 
+(codes 9) D Agrégat 16 ͮ͵Ͳ.ͳͰ͵ ͯʹͯ.ͳͰ͵ +ʹͳ.ͬͬͬ 
+9 Solde net à financer 6-(7-8) -ͭ.ʹͯͱ.ͯͬͭ -ͭ.ͳͰͲ.ͯͱͯ +ʹʹ.͵Ͱʹ 
+10 Futur centre de convention sur le plateau du Heysel. 
+---PAGE 13---
+PROJETS D’ORDONNANCES CONTENANT LES BUDGETS POUR 2026 DE LA RÉGION DE BRUXELLES-CAPITALE / 13 
+Graphique 1 – Évolution du solde de financement entre 2022 et 2026 (en millions d’euros) 
+Source : exposé général des projets de budget 2022 à 2024 et 2026, exposé du projet d’ordonnance de 
+finances ouvrant des crédits provisoires (4 e tranche 2025) et comptes des administrations publiques 2022 à 
+2024 établis par l’Institut des comptes nationaux 
+Les corrections opérées par l’ICN portent principalement sur : 
+ des différences de périmètre ;
+ la requalification d’opérations (non) financières ;
+ des différences de moment d’enregistrement ;
+ des différences de contenu.
+La Cour des comptes a vérifié, dans la limite des informations et du délai dont elle a pu disposer, la 
+cohérence entre les  données utilisées pour l’estimation du solde de financement de l’année 2026 
+(tableaux budgétaires et exposé général). 
+2.4.3 Périmètre de consolidation 
+Ces opérations consistent à tenir compte du solde de financement des  entités qui font partie du 
+périmètre SEC de la  Région mais qui ne sont actuellement pas  consolidées budgétairement. Les 
+principales entités concernées sont le  Parlement bruxellois,  la fondation Kanal 14, Brugel, 
+Homegrade, Screen.brussels, l’Érap et la fondation Civa. 
+Pour les transferts de revenus et en capital à ces entités, le budget régional utilise les agrégats 10 et 
+13, qui sont inclus dans le calcul du solde de financement SEC de l’entité régionale. Les corrections 
+de l’ICN consisteront  à décaler la prise en compte de ces  transferts au moment où les  dépenses 
+financées par ces transferts seront effectivement réalisées. 
+Pour les entités qui sont financées principalement par des subventions de fonctionnement 
+régionales, l’impact du décalage devrait être négligeable. 
+2.4.4 Requalification d’opérations (non) financières 
+Les nouvelles opérations financières, de code 8 (agrégat 15), évoquées au point 2.1 Trajectoire de la 
+Région de Bruxelles-Capitale , sont actuellement exclues du calcul du solde de financement de 
+l’entité régionale. Si les opérations réalisées avec des unités situées en dehors de l’entité régionale 
+14 Jusqu’à ce que son budget soit effectivement repris dans le budget consolidé de l’entité régionale. 
+
+---PAGE 14---
+PROJETS D’ORDONNANCES CONTENANT LES BUDGETS POUR 2026 DE LA RÉGION DE BRUXELLES-CAPITALE / 14 
+étaient requalifiées par l’ICN en opérations non financières, elles auraient un impact négatif sur le 
+solde de financement SEC de la Région. Quoi qu’il en soit, la Cour des comptes rappelle que ces 
+opérations influencent négativement le solde net à financer et la dette régionale. 
+Les principales opérations concernées pour l’exercice 2026 sont la participation régionale au capital 
+de Vivaqua et au centre de congrès Confex (130,0 millions d’euros au poste budgétaire 36.044.15) et 
+l’apport régional à Kanal (60,0 millions d’euros au poste budgétaire 39.145.15). 
+2.4.5 Différences de contenu 
+Au sein de l’entité régionale, les totaux des dépenses et des recettes, d’une part, des transferts de 
+revenus intrarégionaux (agrégats 09 et 57), d’autre part, des transferts en capital intrarégionaux 
+(agrégats 12 et 60), ainsi que des annulations de créances et remboursements intrarégionaux 
+(agrégats 18 et 66), devraient être parfaitement égaux et se neutraliser parfaitement. 
+Or, les différences identifiées conduisent à une neutralisation de 21,6 millions d’euros de dépenses 
+intrarégionales de plus que de recettes intrarégionales dans le calcul du solde de financement. 
+2.4.6 Opérations budgétaires (sous-utilisations) 
+Le gouvernement a fixé à 35,0 millions d’euros le montant des opérations budgétaires qui ne 
+seraient pas réalisées, ce qui a une incidence positive de même ampleur sur le solde de financement. 
+Cette correction se compose exclusivement du montant présumé des sous-utilisations des crédits 
+budgétaires, tous budgets confondus. 
+2.4.7 Conclusion 
+Le solde de financement de l’entité régionale présenté par le gouvernement s’établit 
+à -956,6 millions d’euros. Toutefois, tenant compte des différences de contenu identifiées, ce solde 
+s’établit à -978,2 millions d’euros. 
+---PAGE 26---
+PROJETS D’ORDONNANCES CONTENANT LES BUDGETS POUR 2026 DE LA RÉGION DE BRUXELLES-CAPITALE / 26 
+Enfin, l’alinéa 2 permet aux services du gouvernement de déroger à l’article 7, § 1 er, alinéa 2, de 
+l’ordonnance conjointe du 14 décembre 2017, en indiquant seulement le total des montants engagés 
+pour les marchés publics d’un montant inférieur à 30.000 euros. 
+5.2.6 Application de l’OOBCC aux comptes antérieurs à 2025 
+L’article 32 du dispositif constitue une disposition transitoire au CFP, qui précise que la clôture, 
+l’établissement, l’approbation, le règlement définitif et le contrôle des comptes généraux et des 
+comptes des comptables-trésoriers relatifs aux exercices antérieurs à 2025 restent soumis à 
+l’OOBCC et à ses arrêtés d’exécution. 
+5.2.7 Annulations et remboursements pour compte de tiers de droits constatés d’années 
+antérieures 
+L’article 45 du dispositif prévoit que : « L’ordonnateur compétent est autorisé à effectuer sur le poste 
+budgétaire 36.071.17 les annulations de droits constatés d’années antérieures et, le cas échéant, les 
+remboursements, pour compte de tiers, pour autant que les crédits budgétaires prévus au budget 
+permettent d’imputer la part imputable au budget régional. » 
+Bien que le commentaire de l’article indique qu’il vise à « résoudre le problème des annulations et 
+remboursements pour le compte de tiers  », et que « [ces] droits pour le compte de tiers ne peuvent 
+pas être imputés au budget », la formulation imprécise de l’article pourrait amener les ordonnateurs 
+à imputer sur le poste mentionné, non seulement la part imputable à la Région, mais également la 
+part de ces remboursements imputable à des tiers. 
+Il est donc recommandé de modifier le texte de l’article afin qu’il ressorte clairement que seule la 
+part de la Région puisse être imputée. 
+Par ailleurs, la Cour des comptes rappelle le caractère limitatif de ce poste budgétaire, qui, suivant 
+les articles 10 et 11 de la Constitution, ne peut conduire à une inégalité de traitement ou à une 
+discrimination entre contribuables. 
+5.2.8 Périmètre de consolidation des comptes généraux 
+L’article 46, alinéa 1er, du dispositif précise que les OAA2 « qui, en vertu de l’article 4, § 2 et § 3, du 
+code, ne sont pas soumis aux dispositions de ladite ordonnance  », sont exclus du périmètre de 
+consolidation des comptes généraux prévu à l’article 89 du CFP. 
+La Cour des comptes observe que l’article 4, § 2, du CFP n’a pas pour effet d’exclure les OAA2 qu’il 
+vise de son champ d’application, mais d’alléger leurs obligations, en les limitant à la transmission 
+de leur budget, de leur programmation budgétaire, de leur exécution budgétaire et « de toute 
+information comptable, dont les comptes généraux, et de trésorerie ». Les autorisations accordées et 
+les obligations imposées aux tiers par le CFP sont d’application pour ces OAA2. 
+Il en est ainsi de la consolidation de leurs comptes généraux, pour laquelle ils ont l’obligation de 
+« transmission de toute information comptable, dont les comptes généraux  », requise dans le cadre 
+des articles 3 à 6 de l’AGRBC du 5 février 2026 28, dont l’article 2, 4°, confirme expressément 
+l’applicabilité à ces OAA2. 
+5.2.9 Exclusion partielle du Fonds du logement de la Région de Bruxelles-Capitale du 
+champ d’application du CFP 
+L’article 47 du dispositif modifie la définition d’un OAA – reprise à l’article 2 du CFP – en la limitant, 
+dans le cas du Fonds du logement de la Région de Bruxelles-Capitale (FLRBC), à une (sous-) entité 
+classée dans la liste de l’ICN dans le sous-secteur S.1312, c’est-à-dire en ne conservant que les 
+activités financières du FLRBC. 
+28 Arrêté du gouvernement de la Région de Bruxelles-Capitale du 5 février 2026 établissant les modalités de la consolidation visée 
+à l’article 89 de l’ordonnance du 4 avril 2024 portant le code des finances publiques de la Région de Bruxelles-Capitale. 

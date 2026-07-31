@@ -1,0 +1,699 @@
+
+---PAGE 1---
+ 
+ 
+ 
+ 
+Ursprünglicher Haushalt 2025 
+Bericht über den Dekretentwurf zur Festlegung der Haushaltspläne 
+der Einnahmen und Ausgaben der Deutschsprachigen Gemeinschaft 
+für das Haushaltsjahr 2025 
+ 
+Bericht beschlossen vom Rechnungshof in seiner Sitzung der Allgemeinen Versammlung vom 13. November 2024 
+---PAGE 2---
+ZUSAMMENFASSUNG / 2 
+ 
+Zusammenfassung 
+Ursprünglicher Haushalt 2025 
+Allgemeine Bemerkungen  
+Der konsolidierte ESVG-Finanzierungssaldo ex ante 2025 wird auf -113,9 Mio. Euro geschätzt. In diesem 
+Defizit sind die Investitionsausgaben in Höhe von 104,4 Mio. Euro berücksichtigt. 
+Das tatsächliche Defizit wird die Verschuldung der Deutschsprachigen Gemeinschaft weiter erhöhen. 
+Darüber hinaus wird die Entwicklung der Zinskurve einen nicht zu vernachlässigenden Einfluss auf die 
+Verschuldungskosten haben, wenn neue Kredite aufgenommen werden, insbesond ere bei der 
+Rückzahlung der fälligen Kredite. 
+---PAGE 3---
+INHALTSVERZEICHNIS / 3 
+ 
+Kapitel 1 4 
+Norm und Haushaltspfad 4 
+1.1 Entwurf eines belgischen Haushaltsplans 4 
+Kapitel 2 6 
+Mehrjährige Haushaltssimulation 6 
+2.1 Einführung 6 
+2.2 Kohärenz zwischen Haushaltssimulation und Haushaltspläne  6 
+2.3 Analyse der mehrjährigen Haushaltssimulation 7 
+2.3.1 Makroökonomische Parameter 7 
+2.3.2 Spielraum und Haushaltsziel 7 
+2.3.3 Investitionsausgaben 7 
+2.3.4 Dotationen an lokalen Behörden 9 
+2.3.5 Finanzierungsbedarf und Gesamtverschuldung 9 
+2.4 Sensitivitätsanalyse 9 
+2.4.1 Sensitivität zur Wachstumsrate 9 
+2.4.2 Sensitivität zur Inflation 9 
+2.4.3 Sensitivität zur Zinsrate 10 
+Kapitel 3 11 
+Haushaltsentwürfe für das Jahr 2025 11 
+3.1 Tabelle der Haushaltsausgleiche 11 
+3.2 Verfügender Teil 13 
+3.3 Dienste der Hauptverwaltung 13 
+3.3.1 Einnahmen 13 
+3.3.2 Ausgaben 14 
+3.4 Dienste mit getrennter Geschäftsführung 16 
+3.4.1 Gesetzliche Bestimmungen 16 
+3.4.2 Arbeitsamt 17 
+3.4.3 Dienststelle für Selbstbestimmtes Leben 17 
+ 
+---PAGE 4---
+URSPRÜNGLICHER HAUSHALT 2025 / 4 
+ 
+Kapitel 1  
+Norm und Haushaltspfad 
+1.1 Entwurf eines belgischen Haushaltsplans 
+Die Kontrolle der öffentlichen Finanzen durch die europäischen Behörden stützt sich nun auf den 
+zentralen Begriff der Entwicklung der „Netto-Primärausgaben“. 
+Die „Netto-Primärausgaben“ sind definiert als alle Ausgaben (ausschließlich der Kapitaltilgungen) 
+der öffentlichen Behörden, mit Ausnahme von: 
+• Zinsausgaben für die Staatsverschuldung; 
+• Nicht-diskretionäre Ausgaben für Arbeitslosigkeit, die mit der konjunkturellen Entwicklung 
+der Wirtschaft zusammenhängen; 
+• Einmalige und sonstige befristete Maßnahmen („one-off“); 
+• Ausgaben, die aus europäischen Programmen finanziert werden  (da normalerweise der Saldo 
+aus Einnahmen und Ausgaben in diesem Rahmen gleich 0 ist). 
+Außerdem beeinflusst auch jede diskretionäre Maßnahme, die zu einer dauerhaften Veränderung 
+der Einnahmen beiträgt, das Kriterium der Entwicklung der Netto -Primärausgaben. Genauer 
+gesagt: Jede neue Netto-Primärausgabe beeinflusst die Wachstumsrate negativ, es sei denn, sie wird 
+von einer gleichwertigen neuen wiederkehrenden Einnahme begleitet. Dasselbe gilt für jeden 
+Rückgang der Primäreinnahmen, der nicht durch einen gleich wertigen Rückgang der 
+Primärausgaben ausgeglichen wird. 
+Konkret legt die Europäische Kommission nun die Wachstumsraten der Netto -Primärausgaben 
+fest, die die Mitgliedstaaten in einem Zeitraum, der sich je nach Fall auf 4 oder 7 Jahre erstreckt, 
+nicht überschreiten dürfen. Die Möglichkeit, den Zeitraum für die Haushaltsanpassung auf 7 Jahre 
+auszudehnen, hängt davon ab, ob der Mitgliedstaat Strukturreformen vorlegt, die sein 
+Wirtschaftspotenzial oder seine finanzielle Tragfähigkeit fördern. 
+Diese Wachstumsraten sind so festgelegt, dass sie die Anforderung der mittelfristigen Tragfähigkeit 
+der öffentlichen Finanzen erfüllen, insbesondere einen Finanzierungssaldo von weniger als 3 % des 
+BIP und einen strukturellen Rückgang der Schuldenquote auf 60  % des BIP. Sie berücksichtigen 
+auch die zusätzlichen Anforderungen, die für Staaten gelten, die hoch verschuldet sind oder dem 
+Verfahren bei einem übermäßigen Defizit unterliegen (was bei Belgien der Fall ist).  
+Für den gesamten belgischen Staat liegt die maximale Wachstumsrate der Netto -Primärausgaben 
+im Jahresdurchschnitt 2024 bis 2031 bei 2,6  % pro Jahr und damit unter dem durchschnittlichen 
+nominalen BIP-Wachstum (3,5 %). 
+Die Europäische Kommission teilt die geforderten Anstrengungen nicht auf die verschiedenen 
+belgischen Behörden auf. Diese Aufgabe wird dem Hohen Rat für Finanzen (HRF) übertragen. Die 
+Stellungnahme, die er bei dieser Gelegenheit erstellt, ist jedoch nicht bindend und ihre Annahme 
+hängt von einer kollektiven Vereinbarung zwischen denselben öffentlichen Behörden ab.  
+Am 25.  Juli veröffentlichte der HRF die erwartete Stellungnahme zur Verteilung der 
+Haushaltsanstrengungen 2025-2031, die auf einer eigenen Methodik beruht. Generell empfahl der 
+HRF allen Entitäten, die Entwicklung ihrer Netto -Primärausgaben unterhalb der Wachstumsrate 
+des nominalen (d.h. indexierten) BIP zu halten. Für die Deutschsprachige Gemeinschaft 
+(einschließlich der lokalen Behörden) führt der empfohlene Pfad zu einer Begrenzung des 
+jährlichen nominalen Wachstums der begrenzten Netto -Primärausgaben auf durchschnittlich 
+0,34 % pro Jahr. 
+---PAGE 5---
+URSPRÜNGLICHER HAUSHALT 2025 / 5 
+ 
+Tabelle 1 – Übersicht über das normalisierte nominale Wachstum der Netto -Primärausgaben nach 
+Gebietseinheiten über einen Anpassungszeitraum von 7 Jahren  
+ (%) 
+ 
+Durchschnitt 
+2025-2028 
+Durchschnitt 
+2025-2031 2025 2026 2027 2028 2029 2030 2031 
+Entität I 2,74 2,83 2,89 2,52 2,91 2,63 2,85 3,00 3,03 
+Flämische Gemeinschaft(*) 2,37 2,49 2,56 2,20 2,38 2,35 2,62 2,68 2,67 
+Französische Gemeinschaft 1,18 1,40 1,37 1,08 1,23 1,03 1,63 1,70 1,75 
+Wallonische Region(*) 1,06 1,32 1,15 0,90 1,10 1,09 1,65 1,69 1,67 
+Region 
+Brüssel-Hauptstadt(*) -0,03 0,21 0,24 -0,01 0,08 -0,44 0,49 0,57 0,59 
+Deutschsprachige 
+Gemeinschaft(*) 0,05 0,34 0,49 0,08 0,03 -0,39 0,67 0,79 0,70 
+Französische 
+Gemeinschaftskommission 2,79 2,85 2,91 2,59 2,85 2,80 2,84 2,96 2,98 
+Flämische 
+Gemeinschaftskommission 1,83 1,98 2,03 1,68 1,95 1,64 2,10 2,22 2,23 
+Gemeinsame 
+Gemeinschaftskommission 2,41 2,42 2,63 2,12 2,30 2,59 2,44 2,43 2,46 
+p.m. Nominales 
+potenzielles BIP-Wachstum 3,43 3,46 3,55 3,19 3,50 3,47 3,42 3,54 3,56 
+(*) einschließlich ihrer jeweiligen lokalen Behörden, für die sie zuständig sind  
+Quelle: Stellungnahme des Hohen Rates für Finanzen 
+Der Rechnungshof weist schließlich darauf hin, dass Belgien bis heute noch keinen mittelfristigen 
+nationalen Haushalts - und Strukturplan bei der Europäischen Kommission eingereicht hat, der 
+seine Verpflichtungen im Bereich des Haushalts, der Wirtschaftsref ormen und der Investitionen 
+für die Dauer der Legislaturperiode enthält.  
+---PAGE 6---
+URSPRÜNGLICHER HAUSHALT 2025 / 6 
+ 
+Kapitel 2  
+Mehrjährige Haushaltssimulation 
+2.1 Einführung 
+In Folge der Entwicklung der Wirtschaftsparameter und der Ausarbeitung der Haushaltspläne 
+2023-2024 hat die Regierung der Deutschsprachigen Gemeinschaft ihre mehrjährige 
+Haushaltssimulation aktualisiert. Der Rechnungshof hat hierunter eine Analyse der am 
+15. Oktober 2024 erstellten Simulation durchgeführt. 
+Die zukünftigen Haushaltsergebnisse der Deutschsprachigen Gemeinschaft, wie sie aus der 
+mehrjährigen Haushaltssimulation hervorgehen, sehen wie folgt aus: 
+Tabelle 2 – Von der Regierung in der Simulation vorgestellten Haushaltssalden 
+ (Tausend Euro) 
+ 2023 2024 2025 2026 2027 
+Primärsaldo -29.969 -214.334 15.861 32.951 26.896 
+Netto zu finanzierender Saldo = Norm HFR 
+Durch Neutralisierung von Investitionen -46.494 -215.659 1.020 5.644 6.639 
+Brutto zu finanzierender Saldo -40.103 116.428 14.414 18.797 1.652 
+Quelle: Mehrjährige Haushaltssimulation 
+2.2 Kohärenz zwischen Haushaltssimulation und Haushaltspläne 
+Die Angaben der Hauptverwaltung der Krankenhausinfrastrukturdaten wurden in der 
+mehrjährigen Haushaltssimulation als negative Einnahmen kodiert, während diese Angaben 
+gemäß den administrativen Haushaltsplänen  2024 und 202 5 als Einnahmen und Ausgaben zu 
+erfassen sind, ohne Verrechnung. Dieser Unterschied in der Darstellung hat jedoch keine 
+Auswirkungen auf die Haushaltssalden. 
+Darüber hinaus berücksichtigen die in der mehrjährigen Haushaltssimulation dargestellten 
+Haushaltssalden des Ministeriums Investitionsneutralisierungen in Höhe von 135.075 bzw. 
+104.441 Tsd. Euro in den Jahren 2024 bzw. 2025. 
+Die anderen Angaben sind, bis auf Abrundungsdifferenzen, kohärent mit den administrativen 
+Haushaltsplänen 2024 und 2025. 
+Die Prüfung des Fibel -Dokuments „ Entwicklung Norm Hoher Finanzrat “ erbringt keine 
+Anmerkungen. Die Angaben sind kohärent mit den administrativen Haushaltsplänen.  
+Die Haushaltsdaten des DgG -Gemeinschaftszentren wurden weder in die mehrjährige 
+Haushaltssimulation noch in das Dokument „ Entwicklung Norm Hoher Finanzrat “ seit dem 
+Haushaltsjahr 2020 einbezogen. Darüber hinaus sind die dem DgG zugewiesenen Dotationen nicht 
+mehr aufgeführt1. 
+ 
+1 Eine Dotation von 172  Tsd. Euro ist in der Zuweisung 40.18.41.30  Dotation an die Gemeinschaftszentren  des Haushalts der 
+Hauptverwaltung enthalten. 
+---PAGE 7---
+URSPRÜNGLICHER HAUSHALT 2025 / 7 
+ 
+2.3 Analyse der mehrjährigen Haushaltssimulation 
+2.3.1 Makroökonomische Parameter 
+Die Simulation wurde für die Jahre 202 4-2025 auf der Grundlage der Inflationsparameter erstellt, 
+die vom Föderalen Planbüro in seinem Wirtschaftsbudget vom 11. September 2024 veröffentlicht 
+wurden. 
+Tabelle 3 – Makroökonomische Parameter 
+ Inflation Wachstum 
+ 2024 2025 2024 2025 
+Föderales Planbüro 
+Deutschsprachige Gemeinschaft 3,2 % 1,9 % 1,1 % 1,3 % 
+Quelle: Wirtschaftsbudget, Mehrjährige Haushaltssimulation 
+Für die folgenden Jahre stützt sich die Deutschsprachige Gemeinschaft bei ihrer Simulation auf 
+Parameter, die von den festgelegten Parametern der jüngsten Prognosen des Föderalen Planbüros 
+für die Geschäftsjahre 2026 bis 20292 abweichen. 
+Tabelle 4 – Makroökonomische Parameter 
+ Inflation Wachstum 
+ 2026 2027 2028 2029 2026 2027 2028 2029 
+Föderales Planbüro 1,8 % 1,8 % 1,8 % 1,8 % 1,5 % 1,5 % 1,5 % 1,5 % 
+Deutschsprachige Gemeinschaft 2,5 % 2,5 % 2,5 % 2,5 % 1,8 % 1,8 % 1,8 % 1,8 % 
+Quelle: Wirtschaftsbudget, Mehrjährige Haushaltssimulation 
+Das Föderale Planbüro veröffentlicht in seinem Wirtschaftsbudget vom September  2024 die 
+folgenden Informationen. 
+• Vor dem Hintergrund einer rückläufigen Inflation dürfte die Europäische Zentralbank ihren 
+Leitzins weiter senken. Und in ihrem Gefolge dürften auch die Marktzinsen sinken, was die 
+Finanzierungsbedingungen für Unternehmen günstiger machen würde. 
+• Der aktuelle Pivotindex soll im Januar 2025 überschritten werden, und der nächste Index im 
+Jahr 2025 nicht erreicht werden. 
+2.3.2 Spielraum und Haushaltsziel 
+Der ESVG-Saldo aller Einrichtungen der Deutschsprachigen Gemeinschaft beläuft sich für das 
+Jahr 2025 auf +1,0 Mio. Euro. 
+Die ESVG-Haushaltsziele in den Geschäftsjahren  2025 bis 2028 werden nur unter der Bedingung 
+erreicht, dass die geplanten Infrastrukturausgaben des Organisationsbereichs 70  Infrastruktur 
+(ohne Haushaltsfonds) ( 282,9 Mio. Euro) für die Berechnung der Norm neutralisiert werden. Der 
+Rechnungshof erinnert daran, dass solche Neutralisierungen für die Analyse der 
+Haushaltsergebnisse Belgiens auf europäischer Ebene irrelevant sind.  
+2.3.3 Investitionsausgaben 
+Die Deutschsprachige Gemeinschaft führt eine Neuordnung der Mittel im Bereich der 
+Infrastrukturausgaben durch: 
+ 
+2 Föderales Planbüro, Ökonomische Aussichte 2023-2028, veröffentlicht am 18. Juli 2023. 
+---PAGE 8---
+URSPRÜNGLICHER HAUSHALT 2025 / 8 
+ 
+• Verpflichtungsermächtigungen für neue Investitionen in Höhe von 22,9 Mio. Euro werden vom 
+Haushaltsjahr 2024 auf das Haushaltsjahr 2025 übertragen. Andere in Höhe von 4,5  Mio. Euro 
+werden hingegen von 2026 auf 2025 vorgezogen. Insgesamt werden diese Mittel kurzfristig um 
+2,5 Mio. Euro gekürzt. In der Legislaturperiode  2030-2034 werden sie jährl ich um 
+10,0 Mio. Euro gekürzt. 
+• In der letzten und der aktuellen Legislaturperiode werden die Verpflichtungsermächtigungen 
+für Ausstattung um 1,2 Mio. Euro nach unten korrigiert. 
+Tabelle 5 – Investitionsausgaben – Verpflichtungsermächtigungen 
+ (Tausend Euro) 
+ 2023 2024 2025 2023-2025 2026-2029 
+1. Haushaltsanpassung 2024      
+Infrastrukturausgaben 76.682 106.140 69.261 252.083 64.149 
+Ausstattung 1.338 2.603 1.311 5.252 5.239 
+Gesamtsumme 78.020 108.743 70.572 257.335 69.388 
+Ursprünglicher Haushalt 2025      
+Infrastrukturausgaben 76.683 83.205 94.231 254.119 59.614 
+Ausstattung 252 2.391 1.439 4.082 5.239 
+Gesamtsumme 76.935 85.596 95.670 258.201 64.853 
+Unterschied -1.085 -23.147 25.098  866 -4.535 
+Quelle: Mehrjährige Haushaltssimulationen von den 6. März und 15. Oktober 2024 
+Auf der Ebene der Ausgabenermächtigungen ist eine Verschiebung von vorher im 
+Haushaltsjahr 2023 vorgesehenen Ausgaben ( 2,9 Mio. Euro) im Jahr  2024, sowie die Vorziehung 
+von zuvor für die Haushaltsjahre  2027 und 2028 vorgesehenen Ausgaben (24,3  Mio. Euro) 
+hauptsächlich auf das Jahr 2025, zu beachten. 
+Zudem werden die Ausrüstungsausgaben der Periode 202 4-2028 um 3,2 Mio. Euro nach oben 
+revidiert. Diese gleichen Mittel werden um 22,1 Mio. Euro für den Zeitraum 20 29-2031 erhöht. 
+Anschließend werden sie in die Periode 2032-2037 jährlich um etwa 2,1 Mio. Euro gekürzt. 
+Tabelle 6 – Investitionsausgaben – Ausgabenermächtigungen 
+ (Tausend Euro) 
+ 2023 2024 2025 2023-2025 2026-2029 
+1. Haushaltsanpassung 2024      
+Infrastrukturausgaben 48.410 92.456 65.606 206.472 157.732 
+Ausstattung 921 2.446 545 3.912 4.545 
+Ausrüstung 38.216 8.829 8.249 55.294 26.716 
+Gesamtsumme 87.547 103.731 74.400 265.678 188.993 
+Ursprünglicher Haushalt 2025      
+Infrastrukturausgaben 45.526 95.368 86.036 226.930 134.775 
+Ausstattung 273 2.262 1.502 4.037 3.687 
+Ausrüstung 34.745 9.035 9.194 52.974 32.309 
+Gesamtsumme 80.544 106.665 96.732 283.941 170.771 
+---PAGE 9---
+URSPRÜNGLICHER HAUSHALT 2025 / 9 
+ 
+ 2023 2024 2025 2023-2025 2026-2029 
+Unterschied -7.003 2.934 22.332 18.263 -18.222 
+Quelle: Mehrjährige Haushaltssimulationen von den 17. April und 6. Oktober 2023 
+Die Deutschsprachige Gemeinschaft plant  Ausgabeermächtigungen für Infrastrukturausgaben im 
+Zeitraum 2024-2029 auf 267,5 Mio. Euro. Infolgedessen werden während dieser Legislaturperiode 
+Verpflichtungsermächtigungen in Höhe von 17,7 Mio. Euro genommen, die jedoch während der 
+Legislaturperiode 2029-2034 liquidiert werden 
+2.3.4 Dotationen an lokalen Behörden 
+Über seine Bemerkung im Rahmen der  zweiten Anpassung der Haushalte  2024 der 
+Deutschsprachigen Gemeinschaft hinaus stellt der Rechnungshof fest, dass in der mehrjährigen 
+Haushaltssimulation die jährlichen Unterhalts- und Straßendotationen für die Jahre 2025  bis 2039 
+auf 3,0 Mio. Euro festgesetzt werden. 
+Die Straßendotation für die Jahre  2025 bis 2031 wird auf das Jahr  2024 vorgezogen, während die 
+Unterhaltsdotation nicht über das Jahr 2032 hinaus fortgesetzt zu werden scheint. Folglich müssten 
+die Haushaltsergebnisse für die Jahre  2032 und folgende, wie i n der Simulation dargestellt, um 
+mindestens 3,0  Mio. Euro nach unten korrigiert werden (da diese Unterhaltsdotation ab  2032 
+anhand von Indexkoeffizienten angepasst würde). 
+2.3.5 Finanzierungsbedarf und Gesamtverschuldung 
+In der Simulation sind d ie Einnahmen der Hauptverwaltung aus Neuaufnahmen von Anleihen 
+angegeben. Der Rechnungshof stellt fest, dass die Verschuldung sich im Zeitraum 202 4-2025 um 
+392,8 Mio. Euro verschlechtern wird. Darüber hinaus würde sich die Verschuldung bis zum Ende 
+der Legislaturperiode wird die Verschuldung nochmals um 106,0 Mio. Euro steigen.  Allerdings, 
+wenn die für die Legislaturperiode vorgesehenen Bruttohaushaltsüberschüsse ( 60,8 Mio. Euro) 
+realisiert werden sollten, würde die Zunahme der Verschuldung der Hauptverwaltung 
+438,0 Mio. Euro betragen. 
+2.4 Sensitivitätsanalyse 
+In Anwendung von Artikel  16/11 des Gesetzes vom 16.  Mai 2003 legte die Deutschsprachige 
+Gemeinschaft die Sensitivitätsanalysen zur Wachstums - und Zinsrate vor. Darüber hinaus wurde 
+auch eine Sensitivitätsanalyse zur Inflation übernommen. 
+2.4.1 Sensitivität zur Wachstumsrate 
+Die Sensitivitätsanalyse zur Wachstumsrate verdeutlicht, dass eine Anpassung der 
+Wachstumsparameter sich nur auf die Einnahmen der Hauptverwaltung aus der Dotation des 
+Föderalstaats auswirkt. Eine Veränderung des Wachstums um 0,1  % (positiv oder negativ) in 202 4 
+und 202 5 würde das Haushaltsergebnis der Deutschsprachigen Gemeinschaft im Jahr  2025 um 
+570 Tsd. Euro verbessern oder verschlechtern. 
+2.4.2 Sensitivität zur Inflation 
+Die Simulation basiert auf der Annahme, dass eine Änderung der Inflationsparameter einen 
+Einfluss auf fast alle Einnahmen haben würde, jedoch praktisch keinen Einfluss auf die Ausgaben 
+(nur auf die OB 20 Lokale Behörden und OB 30 Unterricht und Ausbildung). 
+Der Rechnungshof stellt fest, dass eine allgemeine Preiserhöhung allerdings alle Wirtschaftsakteure 
+und damit alle Einrichtungen und Haushaltsposten betrifft und nicht nur die, auf die sich die 
+Simulation bezieht. Zum Beispiel beliefen sich die monatlichen Gehaltsausgaben des Ministeriums 
+im Geschäftsjahr 2023 durchschnittlich auf 13,9 Mio. Euro. Wenn der Pivot-Index daher ein Monat 
+---PAGE 10---
+URSPRÜNGLICHER HAUSHALT 2025 / 10 
+ 
+früher als vorgesehen überschritten würde, würden die Gehaltsaufwendungen um rund 
+279 Tsd. Euro steigen. 
+2.4.3 Sensitivität zur Zinsrate 
+Die Sensitivitätsanalyse der mehrjährigen Haushaltssimulation erfordert keine spezifischen 
+Kommentare. 
+In Anbetracht der Verschuldung der Deutschsprachigen Gemeinschaft sowie der bevorstehenden 
+Rückzahlungsfristen, die eine Erneuerung der Schulden erfordern, macht der Rechnungshof auf die 
+Entwicklung der Zinskurve in den letzten sechs Monaten aufmerksam. Obwohl diese Entwicklung 
+für die kurz- und mittelfristigen Zinssätze günstig erscheint, bleiben die langfristigen Zinssätze im 
+Großen und Ganzen stabil. 
+Mit Ausnahme derjenigen für eine Laufzeit von drei Jahren liegen jedoch alle OLO -Sätze, die als 
+Grundlage für die Ausgabe von Liquiditätsscheine mit einer Laufzeit von mehr als einem Jahr 
+dienen, über dem gewichteten Durchschnittssatz für Liquiditätsscheine, die am 31. Dezember 2023 
+ausgegeben werden. Eine Refinanzierung der Schulden würde daher zu einer Erhöhung der 
+Schuldenfinanzierungskosten führen. 
+Diese Entwicklung der Zinskurve wird einen nicht zu vernachlässigenden Einfluss auf die 
+Finanzierungskosten der Schulden der Deutschsprachigen Gemeinschaft haben .  
+---PAGE 11---
+URSPRÜNGLICHER HAUSHALT 2025 / 11 
+ 
+Kapitel 3  
+Haushaltsentwürfe für das Jahr 2025 
+3.1 Tabelle der Haushaltsausgleiche 
+Aus dem Entwurf zur Festlegung der Haushalte der Einnahmen und der Ausgaben für das 
+Haushaltsjahr 2025 ergibt sich das folgende Haushaltsergebnis 3: 
+Tabelle 7 – Haushaltsausgleiche 
+ (Tausend Euro) 
+Einrichtung 2023 
+(Realisierungen) 
+2024 
+(2. HHA) 
+2025 
+(UHH) 
+VE AE VE AE VE AE 
+Parlament 
+Einnahmen  8.805  9.165  9.321 
+Ausgaben 8.535 8.567 8.832 8.832  8.986 
+Zu finanzierender Bruttosaldo (1)  0  333  335 
+Kapitaltilgungen  878  910  943 
+Anleihen und finanzielle Leasings  0  0  0 
+Zu finanzierender Nettosaldo  1.116  1.242  1.278 
+Korrekturen der Klasse 8  0  0  0 
+Finanzierungssaldo ESVG (1’)  1.116  1.242  1.278 
+Hauptverwaltung 
+Einnahmen  654.218  873.703  595.819 
+Ausgaben 804.013 782.857 863.165 890.599 687.602 685.707 
+Zu finanzierender Bruttosaldo (2)  -128.638  -16.896  -89.888 
+Kapitaltilgungen  182.570  72.504  75.487 
+Anleihen und finanzielle Leasings  211.000  429.613  111.194 
+Zu finanzierender Nettosaldo  -157.069  -374.005  -125.595 
+Korrekturen der Klasse 8  -20.400  -22.065  21.191 
+Finanzierungssaldo ESVG (2’)  -136.669  -351.940  -104.404 
+Dienste mit getrennter Geschäftsführung 
+Einnahmen  10.502  42.059  42.524 
+Ausgaben 14.453 14.605 55.575 53.197 111.843 53.425 
+Zu finanzierender Bruttosaldo (3)  -4.103  -11.138  -10.901 
+Kapitaltilgungen  79  1.234  51 
+Anleihen und finanzielle Leasings  0  22  0 
+Zu finanzierender Nettosaldo  -4.024  -9.926  -10.850 
+Korrekturen der Klasse 8  0  -784  -98 
+Finanzierungssaldo ESVG (3’)  -4.024  -9.142  -10.752 
+ 
+3 Der Rechnungshof lenkt die Aufmerksamkeit darauf, 
+• dass alle in der untenstehenden Tabelle erwähnten Beträge auf der Annahme einer hundertprozentigen Realisierung der im 
+Haushaltsplan vorgesehenen Einnahmen und Ausgaben basieren; 
+• dass die Verrichtungen der Klasse  8 unter Vorbehalt einer eventuellen zukünftigen Neuklassierung durch das Institut für 
+Volkswirtschaftliche Gesamtrechnungen (IVG) oder Eurostat übernommen wurden. 
+---PAGE 12---
+URSPRÜNGLICHER HAUSHALT 2025 / 12 
+ 
+Einrichtung 2023 
+(Realisierungen) 
+2024 
+(2. HHA) 
+2025 
+(UHH) 
+VE AE VE AE VE AE 
+Einrichtungen öffentlichen Interesses 
+Einnahmen  71.190  28.094  29.537 
+Ausgaben 73.062 71.181 28.152 28.152 29.595 29.595 
+Zu finanzierender Bruttosaldo (4)  9  -58  -58 
+Kapitaltilgungen  156  58  58 
+Anleihen und finanzielle Leasings  0  0  0 
+Zu finanzierender Nettosaldo  165  0  0 
+Korrekturen der Klasse 8  -527  0  0 
+Finanzierungssaldo ESVG (4’)  692  0  0 
+Andere durch Dekret geschaffene Einrichtungen 
+Einnahmen  588  591  595 
+Ausgaben 561 561 591 591 595 595 
+Zu finanzierender Bruttosaldo (6)  27  0  0 
+Kapitaltilgungen  0  0  0 
+Anleihen und finanzielle Leasings  0  0  0 
+Zu finanzierender Nettosaldo  27  0  0 
+Korrekturen der Klasse 8  0  0  0 
+Finanzierungssaldo ESVG (6’)  27  0  0 
+Konsolidation       
+Zu finanzierender Bruttosaldo 
+(6 = 1+2+3+4+5)  -132.467  -27.759  -100.512 
+Finanzierungssaldo ESVG 
+(6’ = 1’+2’+3’+4’+5’)  -138.857  -359.840  -113.878 
+Haushaltspfad       
+Haushaltsziel    -150.700   
+Unterschied4    -209.140   
+Quelle: Rechnungslegung 2023; Administrative Haushalte 
+Der geschätzte konsolidierte ESVG-Saldo beläuft sich auf -113,9 Mio. Euro. 
+Der ex ante zu finanzierende Bruttosaldo der Hauptverwaltung beläuft sich auf -89,9  Mio. Euro. 
+Nach Abzug der Tilgungsbeträge für die Anleihen und der finanzielle Leasings ( 75,5  Mio. Euro), 
+sowie rechnungstragend der Zunahme des Saldos der emittierten lang - und mittelfristigen 
+Liquiditätsscheine ( 111,2 Mio. Euro) beläuft sich der zu finanzierende Nettosaldo 
+auf -125,6 Mio. Euro. Unter Berücksichtigung der Korrekturen bezüglich der normneutralen 
+vorgenommenen Verrichtungen der Klasse  8 ( 21,2  Mio. Euro), beläuft sich der ESVG-Saldo der 
+Hauptverwaltung auf -104,4  Mio. Euro. 
+Die Dienste mit getrennter Geschäftsführung präsentieren einen ausgeglichenen Haushalt, was den 
+ESVG-Finanzierungssaldo anbelangt, mit Ausnahme de s DgG Gemeinschaftszentren 
+(-10,5 Mio. Euro) und d es Arbeitsamtes (-299 Tsd. Euro). Die Differenz zum zu finanzierenden 
+Bruttosaldo resultiert aus der Kapitalrückzahlung von Schulen im Rahmen der UREBA -Zuschüsse 
+(+45 Tsd. Euro), aus den Einnahmen in Zusammenhang mit der Rückzahlung eines Darlehens, das 
+vom DgG Gemeinschaftszentren gewährt wurde (+10 Tsd. Euro ), der Kapitaltilgung eines Leasings 
+ 
+4 Diese Tabelle berücksichtigt das Haushaltsergebnis des DgG Gemeinschaftszentren, das 2024 ein ESVG -Defizit von 
+10.453 Tsd. Euro aufweist (effektives Defizit von 4,3 Mio. Euro im Jahr 2023 , voraussichtlich 9,1 Mio. Euro in Folge der zweiten 
+Haushaltsanpassung 2024). Wenn man dies von der Berechnung ausschließt, wird der konsolidierte ESVG-Finanzierungssaldo auf 
+103.425 Tsd. Euro geschätzt. 
+---PAGE 13---
+URSPRÜNGLICHER HAUSHALT 2025 / 13 
+ 
+des DgG  Gemeinschaftszentren ( -6 Tsd. Euro) sowie des Auswirkung der Kredite die an 
+Dienstleistungsträger durch die Dienststelle für selbstbestimmtes Leben gewährt werden 
+(-108 Tsd. Euro). 
+Die Einrichtungen öffentlichen Interesses legen einen ausgeglichenen Haushalt vor, was den ESVG-
+Finanzierungssaldo angeht. Die Differenz zum zu finanzierenden Bruttosaldo ergibt sich aus den 
+Kapitalrückzahlungen des Instituts für Aus - und Weiterbildung im Mittelstand und in KMU 
+(28 Tsd. Euro) und des Zentrums für Kinderbetreuung (30 Tsd. Euro). 
+In Erwartung der Bildung einer neuen föderalen Regierung wurde keine Sitzung des 
+Konzertierungsausschusses einberufen. Folglich wurde die Einhaltung eines spezifischen 
+Haushaltsziels für die Deutschsprachige Gemeinschaft weder vom Ministerpräsidenten vorgelegt 
+und a fortiori nicht erörtert oder genehmigt. Das Haushaltsziel wird daher a ls der Saldo definiert, 
+der auf der Ebene der mehrjährigen Haushaltssimulation dargestellt wird, wobei das Ergebnis des 
+DgG Gemeinschaftszentren ausgeschlossen und die Neutralisierung von Ausgaben nicht 
+berücksichtigt wird. 
+3.2 Verfügender Teil 
+Die Kohärenz zwischen den im verfügenden Teil und in den administrativen Haushaltsplänen 
+übernommenen Beträgen wurde überprüft. Die Analyse der Haushalte wird in den nachstehenden 
+Punkten detailliert. 
+Der Dekretentwurf sieht für die Regierung die Möglichkeit vor, für Investitionsausgaben, Anleihen 
+aufzunehmen oder Liquiditätsscheine zu emittieren und dies bis zu einer zugenommenen 
+Maximalhöhe von 2 Mrd. Euro. 
+Die Artikeln 5 bis 7 des Dekretentwurfs bleiben im Vergleich zum Dekret über den Haushalt 202 4 
+unverändert und erfordern keine besonderen Kommentare. 
+Der Dekretentwurf sieht den Verteilungsschlüssel in Bezug auf die von der Provinz Lüttich 
+gewährten Mitteln. Diese Mittel ergeben sich aus dem Zusammenarbeitsabkommen zwischen der 
+Deutschsprachigen Gemeinschaft, der Provinz Lüttich und der Bürgermeisterkon ferenz der 
+Deutschsprachigen Gemeinden. 
+Der Dekretentwurf sieht vor, dass die Regierung die Möglichkeit hat, Vorschüsse in Höhe von 
+maximal 90  % des zugesagten Zuschussbetrags für bestimmte in dem Gesetz aufgeführte 
+Infrastrukturprojekte sowie für von den Gemeinden, ÖSHZ (Öffentliche Sozialhilfezentren) und 
+autonome Gemeinderegien unterstützte Infrastrukturprojekte zu leisten.  
+Der Dekretentwurf sieht in Artikel  12 außerdem vor, die VoG Bischöfliche Schulen der 
+Deutschsprachigen Gemeinschaft einen einmaligen zusätzlichen Zuschuss in Höhe von 
+21 Tsd. Euro (aufgerundet) für Infrastrukturprojekte zu gewähren. 
+Der Rechnungshof stellt fest, dass Artikel  13 des verfügenden Teils vom Gemeindedekret vom 
+23. April 2018 abweicht, das den Gemeinden des deutschen Sprachgebiets gestattet, für das 
+Haushaltsjahr 2025 ein Haushaltsdefizit vorzulegen.  Der Rechnungshof stellt fest, dass die Praxis 
+der Änderung von Rechtsvorschriften durch die Technik der Haushaltszusatzbestimmung 
+unangemessen ist. Derartige Änderungen oder Neuschaffungen sollten im Rahmen der üblichen 
+Dekretverfahren erfolgen. 
+3.3 Dienste der Hauptverwaltung 
+3.3.1 Einnahmen 
+Dotation des Föderalstaates 
+Im September  2024 hat das Föderale Planbüro der Föderalregierung die neuen Zahlen des 
+ökonomischen Budgets mitgeteilt. Dieses ökonomische Budget geht vorläufig von einer Inflation 
+---PAGE 14---
+URSPRÜNGLICHER HAUSHALT 2025 / 14 
+ 
+von 1,9 % und einem BIP-Wachstum von 1,3 % für 2025 aus und setzt diese Parameter vorläufig auf 
+3,2 % und 1,1 % für 2024 fest. 
+Die geschätzten Einnahmen der Dotationen entsprechen  den Bestimmungen des Gesetzes vom 
+31. Dezember 1983 über institutionellen Reformen für die Deutschsprachige Gemeinschaft . Diese 
+Schätzungen berücksichtigen nicht nur den für 202 5 zu gewährenden Betrag, sondern auch die 
+voraussichtliche Abrechnung für 2024. 
+Basierend auf den Sensitivitätsanalysen werden die geschätzten Auswirkungen der Variation der 
+Parameter auf den Einnahmen in der folgenden Tabelle zusammengefasst:  
+Tabelle 8 – Auswirkungen der Parameter auf Schätzung der Einnahmen 
+ (Tausend Euro) 
+Parameter 
+Auswirkung einer Änderung des 
+Parameters um 0,1 % für das 
+Geschäftsjahr 2024 
+Auswirkungen einer Änderung des 
+Parameters um 0,1 % für die Geschäftsjahre 
+2024 und 2025 
+Wachstum ±275 ±570 
+Inflation ±404 ±840 
+Quelle: Sensitivitätsanalysen der mehrjährigen Haushaltssimulation  
+Ein Teil dieser Dotation ( 21,2 Mio. Euro) wird den zweckgebundenen Einnahmen zugewiesen, 
+sodass die allgemeinen Einnahmen aus der Globaldotation nun 321,3 Mio. Euro betragen, was einer 
+Gesamtdotation von 342,5 Mio. Euro entspricht. 
+Dotation der Wallonischen Region für die Ausübung von Befugnissen  
+Die Wallonische Region hat gemäß Artikel 139 der Verfassung und auf der Grundlage von Dekreten 
+einen Teil ihrer Befugnisse an die Deutschsprachige Gemeinschaft übertragen. Mit Ausnahme der 
+Tourismuskompetenz geht die Weitergabe von Kompetenzen mit einer Weitergabe von 
+Ressourcen einher. Für das Haushaltsjahr 2025 werden diese Mittel auf 93,1 Mio. Euro veranschlagt, 
+was einer Abnahme um 0,4 % gegenüber dem bereinigten Haushalt 2024 entspricht. 
+Der Rechnungshof konnte noch keine Einsicht in die Haushaltsvoranschläge für die Wallonische 
+Region nehmen. Daher konnte noch nicht überprüft werden, ob die Einnahmen der 
+Deutschsprachigen Gemeinschaft mit den Ausgaben der Wallonischen Region übereinstimme n. 
+Einnahmen aus Anleihen 
+Die Einnahmen aus Anleihen sind auf 111,2 Mio. Euro geschätzt für das Jahr 202 5, wovon 
+11,2 Mio. Euro aus der Aufbau- und Resilienzfazilität. 
+Eigene Einnahmen 
+Die eigenen Einnahmen der Deutschsprachigen Gemeinschaft werden für das Haushaltsjahr  2025 
+insgesamt auf 15,2 Mio. Euro geschätzt, was einem Anstieg um 111,9 % gegenüber dem angepassten 
+Haushalt 2024 entspricht. Der Artikel 16.20  Erstattungen und Verkauf von Gütern und 
+Dienstleistungen (öffentlicher Sektor) , dessen Einnahmen auf 14,3  Mio. Euro geschätzt werden, 
+erfasst insbesondere Rückerstattungen von zu viel gezahlten Beträgen im Zusammenhang mit 
+Vorauszahlungen auf Infrastrukturzuschüsse (bis zu 90 % des Zuschusses). 
+3.3.2 Ausgaben 
+Verpflichtungsermächtigungen 
+Im Vergleich zur zweiten Haushaltsanpassung 202 4 sinken die Mittel für 202 5 um 25,9 % und 
+werden auf 549,8 Mio. Euro festgelegt. 
+---PAGE 15---
+URSPRÜNGLICHER HAUSHALT 2025 / 15 
+ 
+Tabelle 9 – Verteilung der Verpflichtungsermächtigungen per Organisationsbereich  
+(Tausend Euro) 
+ 2023 
+Realisierungen 
+2024 
+2. HHA 
+2025 
+UHH Entwicklung 
+01 Parlament der DG 6.578 7.937 8.090 1,9 % 
+10 Regierung der DG 4.466 5.441 5.367 -1,4 % 
+20 Ministerium der DG 86.584 177.624 68.317 -61,5 % 
+30 Unterricht, Beschäftigung und 
+Ausbildung 165.788 187.641 187.823 0,1 % 
+40 Jugend, Volks- und 
+Erwachsenenbildung, Kultur, 
+Sport, Tourismus 
+19.942 22.981 22.782 -0,9 % 
+50 Gesundheit und Soziales 125.948 218.396 146.711 -32,8 % 
+70 Infrastruktur 113.522 121.885 110.707 -9,2 % 
+Total 522.828 741.905 549.797 -25,9 % 
+Quelle: Rechnungslegung 2023, administrative Haushalte 
+Für den Organisationsbereich 70 Infrastruktur wurden 110,7 Mio. Euro für folgende Ausgaben 
+veranschlagt: 
+• Dotationen an die Gemeinden zur Finanzierung von Unterhaltsarbeiten (3,0 Mio. Euro) und 
+die Kapitaldotationen an die Einrichtungen der Deutschsprachigen Gemeinschaft 
+(1,7 Mio. Euro); 
+• Zuschüsse (3,0 Mio. Euro), insbesondere für d ie Programme „22 Gesundheit“ (0,5 Mio. Euro), 
+„27 Senioren und Personen mit Unterstützungsbedarf “ (0,6 Mio. Euro) und „28 Energie und 
+Wohnungswesen“ (0,9 Mio. Euro); 
+• IT-Investitionsausgaben des Programms „26 Informatik“ (6,5 Mio. Euro); 
+• Ausrüstung und Materialien für das Unterrichtswesen der Gemeinschaft (0,6 Mio. Euro); 
+• verschiedene Einkäufe (0,6 Mio. Euro). 
+Darüber hinaus sind 142 Projekte in den Infrastrukturplan einbezogen, was Investitionen in Höhe 
+von 94,2 Mio. Euro entspricht. 
+Ausgabenermächtigungen 
+Die Ausgabe nermächtigungen werden auf 542,9 Mio. Euro festgesetzt, was einer Minderung in 
+Höhe von 28,4 % gegenüber dem angepassten Haushalt 2024 entspricht. 
+Tabelle 10 – Verteilung der Ausgabeermächtigungen per Organisationsbereich  
+(Tausend Euro) 
+ 2023 
+Realisierungen 
+2024 
+2. HHA 
+2025 
+UHH Entwicklung 
+01 Parlament der DG 6.578 7.937 8.090 1,9 % 
+10 Regierung der DG 4.462 5.441 5.367 -1,4 % 
+20 Ministerium der DG 73.207 182.158 69.744 -61,7 % 
+30 Unterricht, Beschäftigung und 
+Ausbildung 165.814 187.861 187.097 -0,4 % 
+40 Jugend, Volks- und 
+Erwachsenenbildung, Kultur, 
+Sport, Tourismus 
+19.803 23.208 22.792 -1,8 % 
+50 Gesundheit und Soziales 123.615 217.331 146.039 -32,8 % 
+70 Infrastruktur 68.273 134.435 103.773 -22,8 % 
+---PAGE 16---
+URSPRÜNGLICHER HAUSHALT 2025 / 16 
+ 
+ 2023 
+Realisierungen 
+2024 
+2. HHA 
+2025 
+UHH Entwicklung 
+Total 461.752 758.371 542.902 -28,4 % 
+Quelle: Rechnungslegung 2023, administrative Haushalte 
+Der Rechnungshof hat die Kohärenz der gegenseitigen Einnahmen - und Ausgabenprognosen in 
+den ihm zugesandten Haushaltsentwürfen der Einrichtungen überprüft . Der Rechnungshof stellt 
+fest, dass der Ausgabenhaushalt des Ministeriums ein Zusch uss an die AHS für die Förderung von 
+Zusatzkompetenzen der Studenten von 5  Tsd. Euro vor sieht, während im Einnahmenhaushalt 
+dieser Einrichtung dies nicht erhalten ist. 
+Der Rechnungshof hat für die Personalausgaben die Kredite aller Organisationsbereiche einen 
+Vergleich zwischen de m angepassten Haushalt 2024 und dem Ursprungshaushalt  2025 
+durchgeführt. 
+Tabelle 11 – Entwicklung der Personalausgaben nach Organisationsbereich  
+ (Tausend Euro) 
+ AE 2024 AE 2025 Entwicklung 
+10 Regierung der DG 5.160 5.086 -1,4% 
+20 Ministerium der DG 42.667 42.256 -1,0% 
+30 Unterrichtswesen 139.389 140.413 0,7% 
+Total 187.216 187.755 0,3% 
+Quelle: Rechnungslegung 2023, administrative Haushalte 
+Im Ursprungshaushaltsplan  2025 wurden für die Finanzierung der direkten Personalausgaben 
+539 Tsd. Euro mehr vorgesehen ( +0,3 % im Vergleich zum angepassten Haushalt  2024). Im 
+Haushalt 2025 stellen diese Kredite allein 27 % der Gesamtausgaben der Hauptverwaltung dar.  
+Die Prognose der Gehaltskosten berücksichtigen folgende Elemente: 
+• die Lohnindexierungen: im Rahmen seiner Inflationsprognose vom 1. November 2023 ging 
+das Föderale Planungsbüro davon aus, dass der Pivot -index i m Monat Januar 2025 
+überschritten würde. Der Rechnungshof hat auf dieser Grundlage sowie anhand der 
+Steigerungskoeffizienten der letzten Jahre errechnet, dass die für 202 5 erwartete 
+Gehaltsentwicklung bei ansonsten gleichbleibenden Bedingungen einen Anstieg um 
+2,50 % bedeuten wird. 
+• die Auswirkungen der Baremaentwicklungen , die im Allgemeinen auf +/-1 % Anstieg der 
+Personalausgaben zwischen zwei aufeinanderfolgenden Jahren geschätzt werden.  
+• die Entwicklung der Zahl der Vollzeitäquivalent. 
+• Die Sparmaßnahmen im Bereich der Personalkosten, d.  h. die Abschaffung des variablen 
+Teils der Jahresendprämie. Am Ende des Geschäftsjahres  2023 beliefen sich die 
+Jahresendprämien für die Mitarbeiter der Hauptverwaltung, des Arbeitsamts und der 
+Dienststelle für selbstbestimmtes Leben auf insgesamt 5,2 Mio. Euro. 
+3.4 Dienste mit getrennter Geschäftsführung 
+3.4.1 Gesetzliche Bestimmungen 
+Gemäß Artikel  76, §  2, Absatz  2 DHO, „ Einzige Gliederungsebene des Haushaltsplanes der 
+Einnahmen ist der Einnahmenartikel […]“. Die Haushaltsentwürfe der DgG „Gemeinschaftszentren“, 
+„Dienststelle für Selbstbestimmtes Leben“  und „Service & Logistik im Unterrichtswesen“ erfüllen 
+---PAGE 17---
+URSPRÜNGLICHER HAUSHALT 2025 / 17 
+ 
+diese Vorschrift nicht. Die Einnahmen werden ebenfalls unter verschiedenen 
+Organisationsbereichen/Programmen gegliedert. 
+3.4.2 Arbeitsamt 
+Die Umwandlung des Arbeitsamtes von einer Einrichtung öffentlichen Interesses in einen Dienst 
+mit getrennter Geschäftsführung bedeutet insbesondere, dass die Personalkosten direkt von den 
+Diensten der Hauptverwaltung getragen werden.  Dies beeinträchtigt die Transparenz der 
+Haushaltskosten dieser Politik. 
+Darüber hinaus ist die vom ADG erhaltene Kapitaldotation um 170  Tsd. Euro gesunken, während 
+die Investitionsausgaben um 172  Tsd. Euro gestiegen sind. Die geplanten Investitionen 
+(0,5 Mio. Euro) sollen die Kosten für die Renovierung des Quartum Centers und die damit 
+verbundenen Honorare decken. 
+3.4.3 Dienststelle für Selbstbestimmtes Leben 
+Seit dem Haushaltsjahr 2020 wird die Finanzierung der von der Dienststelle bezuschussten 
+Einrichtungen in Bezug auf die Personalkosten nunmehr über ein Drittzahlersystem im Rahmen 
+einer „Leistungsvereinbarung“ geregelt. Konkret bedeutet dies, dass die Dienststelle die Gehälter 
+der Mitarbeiter von Dienstleistern direkt bezahlt, was sie unter Code  8 verbucht. Im Laufe des 
+folgenden Jahres erstellt die Dienststelle eine Abrechnung, die alle gezahlten Gehälter 
+zusammenfasst und die sie an die Dienstleister send et. Auf der Grundlage dieser Abrechnungen 
+verbucht die Dienststelle die tatsächlich an die Begünstigten gezahlten Ausgaben als Zuschuss. Der 
+Rechnungshof ist der Ansicht, dass die Gehaltszahlungen keine Finanztransaktionen (Code  8) 
+darstellen und daher als Zuschuss (Code 3) verbucht werden müssen, sobald sie festgestellt sind.  
+---PAGE 18---
+URSPRÜNGLICHER HAUSHALT 2025 / 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANSCHRIFT 
+Rechnungshof 
+Rue de la Régence 2 
+1000 Bruxelles 
+ 
+TEL.  
++32 2 551 81 11 
+ 
+rechnungshof.be 
+ 

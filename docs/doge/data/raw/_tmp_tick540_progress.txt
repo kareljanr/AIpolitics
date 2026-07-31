@@ -1,0 +1,47 @@
+﻿budgets.csv 9288
+commitments.csv 1025
+leaderboard.csv 1942
+entities.csv 414
+sources.csv 1026
+foi_queue.csv 295
+research_queue.csv 526
+FOI status {'docs/doge/foi/drafts/gap_example_001.md': 1, 'answered': 9, 'ready': 283, 'https://www.cgvs.be': 1, '2026-07-29': 1}
+ready 283 draft 0 answered 9 sent 0
+rq open 2
+rq total 526
+open ids ['rq_116', 'rq_531']
+lb rows 1942 with annual>0 1706
+TOP20:
+1 lb_fed_fossil_direct_13_3bn Federal fossil direct subsidies 13.3bn 2022 bench1 13267800000 abs 8 cost 9.5 diff 7 pi 8.55 tick247
+2 lb_fed_fossil_accises_10_5bn Fossil accise rate gaps+exemptions 10.5bn 2022 10536000000 abs 8 cost 9.5 diff 6 pi 8.5 tick247
+3 lb_company_cars_fpb Company cars TE package FPB ~4.7-5.2bn 4700000000 abs 8.5 cost 9.5 diff 7 pi 8.5 tick141 updates ranking class
+4 lb_exc_heatoil Excise preference: heating gas oil (low sulfur) 1836400000 abs 8 cost 9.5 diff 6 pi 8.43 tick111 FFS multi-year supersedes single taxex 133
+5 lb_cheque_economy Cheque economy meal vouchers (para)fiscal + restricted scrip 1070000000 abs 8.5 cost 9.5 diff 8 pi 8.4 THREE LAYERS: (A) face ~3.55bn/yr VIA=mostly wages
+6 lb_co2_vs_ordinary_ssc_gap_1bn Company car CO2 vs ordinary SSC gap >1bn by 2026 1000000000 abs 8.5 cost 9.5 diff 6 pi 8.4 tick527
+7 lb_dual_cars_ssc_taxex Dual company car CO2 SSC under-collection vs taxex 278520000 abs 8.5 cost 9.5 diff 6 pi 8.4 tick527
+8 lb_fed_fossil_company_cars_ehs_3_4bn Company cars EHS fossil inventory 3.43bn 2022 3434200000 abs 8 cost 9.0 diff 7 pi 8.35 tick247
+9 lb_cons_no_costbenefit_18bn No cost-benefit 78pct of consultancy 1.8bn sample 600000000 abs 8.5 cost 9.0 diff 4 pi 8.35 tick518
+10 lb_fed_fossil_mazout_1_86bn Heating oil accise gap 1.86bn 2022 fossil inv 1856800000 abs 8 cost 9.0 diff 6 pi 8.3 tick247
+11 lb_company_cars Company cars tax expenditure package 3141700000 abs 8 cost 9.5 diff 8 pi 8.22 Official FFS package supersedes Tax Foundation sec
+12 lb_cons_101_sample_2_2bn Consultancy 101-contract sample 2.2bn non-compliance 733000000 abs 8.0 cost 9.0 diff 5 pi 8.15 tick518
+13 lb_cons_exclusion_17bn Exclusion grounds unchecked 67pct 1.7bn 567000000 abs 8.0 cost 9.0 diff 3 pi 8.15 tick518
+14 lb_eiwt_package EIWT partial remittance bedrijfsvoorheffing package 4356060000 abs 7 cost 9.5 diff 6 pi 8.08 Top wage-subsidy instrument
+15 lb_eiwt_night_shift_cluster EIWT night+shift+continuous+construction cluster 2041520000 abs 7 cost 9.5 diff 6 pi 8.08 
+16 lb_taxex_fed_29_7bn Federal tax expenditures 29.7bn 2023 29700000000 abs 7.5 cost 9.5 diff 6 pi 8.05 tick399
+17 lb_specialty_defence_transfer_20bn Defence full engagement credits transferable without parliament 20.1bn 20100000000 abs 8.0 cost 9.0 diff 7 pi 8.0 tick439
+18 lb_vl_gsc_support Flanders green electricity certificates GSC ~0.8-1.1bn/yr 822000000 abs 8 cost 9.0 diff 6 pi 8.0 tick151
+19 lb_wage_subsidies_block Wage subsidies block (~2/3 of enterprise package) 16700000000 abs 7 cost 9.5 diff 7 pi 7.98 BV partial non-remittance; SSC target groups; dien
+20 lb_ffs_direct_total Federal direct fossil fuel subsidies total FFS 10781900000 abs 7 cost 9.5 diff 7 pi 7.98 tick109 5th inventory; opportunity cost vs gasolin
+HIGH_ABSURDITY:
+lb_metro3_overrun_477pct Metro3 cost +477pct 0.82 to 4.76bn abs 9.5 ann 0 pi 9.05
+lb_vl_wassalon_podcast VL gelijke kansen vodcast Het Wassalon 800k over 3y abs 9.5 ann 266667 pi 7.4
+lb_metro3_financing_gap_4bn Metro3 BCR financing gap ~4.3bn residual abs 9.0 ann 0 pi 8.78
+lb_kenteken_sole_bidder_bpost Plates concession sole bidder bpost advantage abs 9.0 ann 40000000 pi 7.85
+lb_ypto_proc_law_fail Ypto procurement law not correctly applied CoA abs 9.0 ann 0 pi 7.85
+lb_metro3_total_4_76bn Metro3 total estimate 4.76bn Dec2024 CoA abs 9.0 ann 394000000 pi 7.68
+lb_crossborder_228_vs_6 Crossborder 228 external vs 6 statutory 2023 abs 9.0 ann 0 pi 7.45
+lb_siod_net_fte_8_2_vs_270 Net FTE +8.2 vs 270 extra posts 2021-24 abs 9.0 ann 0 pi 6.95
+lb_metro3_sm_bmn_conflict Metro3 opportunity study conflict of interest SM BMN abs 9.0 ann 19107586 pi 6.88
+lb_vl_airco_mvp_luchtlucht Flanders MVP air-to-air heat pump (aircon dual-use) premiums abs 9.0 ann 300 pi 6.85
+lb_ipolice_spent_77m_cancelled I-Police IT project 76.7m spent then cancelled abs 9.0 ann 76700000 pi 6.85
+lb_kenteken_recs_0_of_17 Plates CoA recs 0 of 17 done 2024 follow-up abs 9.0 ann 0 pi 6.2

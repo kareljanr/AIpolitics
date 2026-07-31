@@ -1,0 +1,1 @@
+{'budgets': 9322, 'commitments': 1029, 'leaderboard': 1950, 'entities': 414, 'sources': 1028, 'foi_total': 296, 'foi_ready': 284, 'foi_answered': 9, 'rq': 527}

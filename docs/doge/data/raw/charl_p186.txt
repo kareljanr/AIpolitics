@@ -1,0 +1,10 @@
+EXERCICE :                                  No I.N.S. : 52011
+                                            FONCT     :
+     EXERCICE PROPRE-RECETTES
+CIC: VFP002
+    ARTICLE          FSER         LIBELLECOMP
+ GEN
+ COMPTE      BUDGET       BUDGET    ESTIMATION
+DR. CONST.               (+MOD BUDG)
+                                                                                                                                                          2026                                                                                                        EDUCATION POPULAIRE ET ARTS                           76-77-78                                                                     2024       2025       2025       2026          
+186

@@ -11039,3 +11039,31 @@ bud_vib_op_income_2023,vib,2023,156174000,,,outturn,src_vib_ar_2024,strong,VIB o
 bud_vib_grants_2023,vib,2023,113687000,,,outturn,src_vib_ar_2024,strong,VIB grants subsidies 113.687m 2023; tick595
 bud_vib_personnel_2023,vib,2023,83348000,,,outturn,src_vib_ar_2024,strong,VIB personnel 83.348m 2023; tick595
 bud_vib_fte_2024,vib,2024,0,,,outturn,src_vib_ar_2024,strong,VIB 1900 FTEs 2024 nutshell; not EUR; tick595
+bud_fm_revenues_2025,flanders_make,2025,37325000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make total revenues 37.325m 2025; tick596
+bud_fm_turnover_2025,flanders_make,2025,33220000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make turnover 33.220m 2025; tick596
+bud_fm_convenant_2025,flanders_make,2025,20876000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make FM convenant revenue 20.876m 2025 (VL structural path); tick596
+bud_fm_non_convenant_2025,flanders_make,2025,10980000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make FM non-convenant revenue 10.980m 2025; tick596
+bud_fm_membership_2025,flanders_make,2025,1364000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make membership fees and other revenues 1.364m 2025; tick596
+bud_fm_other_rev_2025,flanders_make,2025,4105000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make other revenue 4.105m 2025; tick596
+bud_fm_costs_2025,flanders_make,2025,37134000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make total costs 37.134m 2025; tick596
+bud_fm_personnel_2025,flanders_make,2025,24319000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make salaries and social security 24.319m 2025; tick596
+bud_fm_op_costs_2025,flanders_make,2025,12440000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make operating costs 12.440m 2025; tick596
+bud_fm_other_costs_2025,flanders_make,2025,375000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make other costs 0.375m 2025; tick596
+bud_fm_op_result_2025,flanders_make,2025,191000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make operating result 0.191m 2025; tick596
+bud_fm_fin_result_2025,flanders_make,2025,1710000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make financial and exceptional result 1.710m 2025; tick596
+bud_fm_profit_bt_2025,flanders_make,2025,1901000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make profit before tax 1.901m 2025; tick596
+bud_fm_tax_2025,flanders_make,2025,356000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make tax on result 0.356m 2025; tick596
+bud_fm_profit_2025,flanders_make,2025,1545000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make profit to appropriate 1.545m 2025; tick596
+bud_fm_assets_2025,flanders_make,2025,234739000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make total assets 234.739m 2025; tick596
+bud_fm_fixed_assets_2025,flanders_make,2025,31938000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make fixed assets 31.938m 2025; tick596
+bud_fm_tangible_2025,flanders_make,2025,28543000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make tangible assets 28.543m 2025; tick596
+bud_fm_current_assets_2025,flanders_make,2025,202801000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make current assets 202.801m 2025; tick596
+bud_fm_stocks_2025,flanders_make,2025,42818000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make stocks and orders 42.818m 2025; tick596
+bud_fm_receivables_2025,flanders_make,2025,27072000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make accounts receivable within 1y 27.072m 2025; tick596
+bud_fm_cash_2025,flanders_make,2025,131396000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make cash at bank and in hand 131.396m 2025; tick596
+bud_fm_equity_2025,flanders_make,2025,26028000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make capital and reserves 26.028m 2025; tick596
+bud_fm_creditors_2025,flanders_make,2025,208648000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make creditors total 208.648m 2025; tick596
+bud_fm_creditors_lt_2025,flanders_make,2025,16459000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make creditors after 1 year 16.459m 2025; tick596
+bud_fm_creditors_st_2025,flanders_make,2025,105621000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make creditors within 1 year 105.621m 2025; tick596
+bud_fm_reg_liab_2025,flanders_make,2025,86568000,,,outturn,src_flanders_make_ar_2025,strong,Flanders Make liabilities regularisation accounts 86.568m 2025; tick596
+bud_fm_ecosystem_rev_2025,flanders_make,2025,134000000,,,outturn,src_flanders_make_ar_2025,medium,Flanders Make ecosystem revenue 134m 2025 (AR numbers graphic; not statutory perimeter); tick596

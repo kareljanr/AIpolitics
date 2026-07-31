@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T14:30:00Z,rq_586,595,no,tick595 VIB op income 169m dual imec VITO SOC; next rq_587; progress@600 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T14:45:00Z,rq_587,596,no,tick596 Flanders Make rev 37.3m convenant 21m dual imec VIB VITO SOC; next rq_588; progress@600 in 4; rq_116 deferred

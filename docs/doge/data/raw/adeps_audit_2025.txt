@@ -1,0 +1,2134 @@
+
+---PAGE 1---
+1 
+Audit de fonctionnement 
+de l’Administration 
+générale du Sport (AGS) 
+Rapport final 
+13/01/2026
+---PAGE 2---
+2 
+Table des matières 
+1 Objet du rapport final d’audit 7 
+2 Contexte de l’audit 9 
+3 Approche méthodologique 10 
+4 Organisation 12 
+4.1 Stratégie 12 
+4.1.1 Mission de l’AGS 12 
+4.1.2 Vision 13 
+4.1.3 Objectifs stratégiques 15 
+4.2 Processus 15 
+4.2.1 Cartographie des Processus 15 
+4.2.2 Organisation orientée processus 16 
+4.2.3 Ré partition des processus par services 17 
+4.3 Services 20 
+4.3.1 Inventaire des services aux usagers 20 
+4.3.2 Articulation des services avec les missions de l’AGS 25 
+5 Usagers 27 
+5.1 Types d’usager 27 
+5.2 Segmentation des usagers 27 
+5.3 Utilisation des services 29 
+6 Ressources 31 
+6.1 Humaines 31 
+6.2 Matérielles 32 
+6.3 Technologiques 32 
+6.4 Budgétaires 32 
+7 Réponses aux questions d’audit 34 
+7.1 Axe usagers 41 
+---PAGE 3---
+3 
+ 
+7.1.1 Question 1 : Qui sont les usagers de l’AGS ? (typologie 
+et segmentation) 41 
+7.1.2 Question 2 : Quels sont les différents services offerts 
+aux usagers ? Quelles sont les différentes 
+réglementations qui les concernent ? 42 
+7.1.3 Question 3 : Y-a-t-il des obstacles géographiques, 
+temporels ou technologiques à l’accès aux services 
+(horaires, fractures numériques, …) ? 49 
+7.1.4 Question 4 : Quelles sont les différentes missions 
+menées par l’AGS auprès des usagers ? (conseil, 
+contrôle,…) 54 
+7.1.5 Question 5 : Les missions et services actuels de l’AGS 
+répondent-ils aux besoins et attentes des usagers ? 55 
+7.1.6 Question 6 : Description et analyse des différents 
+processus impactant les usagers : 60 
+7.1.6.1 Question 6.1 : Sont-ils clairement définis et expliqués aux 
+usagers ? 60 
+7.1.6.2 Question 6.2 : Les délais de traitement sont-ils raisonnables 
+et respectés ? 65 
+7.1.6.3 Question 6.3 : Les processus répondent-ils efficacement aux 
+missions de l’AGS ? 68 
+7.1.7 Question 7 : Quels sont les services soumis à la 
+concurrence ? Qui sont les concurrents ? 70 
+7.1.8 Question 8 : Est-ce que la satisfaction des usagers est 
+mesurée de manière régulière ? Des plans d’action sont-
+ils mis en place à la suite de ces mesures ? 74 
+7.1.9 Recommandations portant sur l’axe usagers 79 
+7.2 Axe ressources 90 
+7.2.1 Ressources humaines 90 
+7.2.1.1 Question 1 : Est-ce que l’organisation actuelle des 
+ressources humaines est adaptée aux besoins des usagers 
+qu’elle doit satisfaire ? 90 
+---PAGE 4---
+4 
+ 
+7.2.1.2 Question 2 : Est-ce que tous les usagers d’un même groupe 
+sont abordés, traités de la même manière ? 96 
+7.2.1.3 Question 3 : Est-ce que la répartition des ressources 
+humaines à disposition de l’AGS est efficiente par rapport 
+aux processus impactant les usagers ? 98 
+7.2.1.4 Question 4 : La délimitation des compétences actuelles 
+correspondent-elles aux services que l’AGS doit rendre ? 102 
+7.2.1.5 Question 5 : Existe-t-il des normes de qualité pour l'accueil et 
+le traitement des demandes des usagers ? 106 
+7.2.1.6 Recommandations portant sur l’axe ressources humaines
+ 108 
+7.2.2 Ressources matérielles 114 
+7.2.2.1 Question 1 : Quelles sont les ressources matérielles mises à 
+disposition des usagers ? 114 
+7.2.2.2 Question 2 : Les infrastructures et équipements (sportifs et 
+non sportifs) sont-ils alloués de manière efficiente ? 119 
+7.2.2.3 Question 3 : Les infrastructures sont-elles facilement 
+accessibles ? 128 
+7.2.2.4 Recommandations portant sur l’axe ressources matérielles
+ 140 
+7.2.3 Ressources technologiques 144 
+7.2.3.1 Question 1 : Les outils actuels répondent-ils efficacement 
+aux processus impactant les usagers ? 144 
+7.2.3.2 Question 2 : Les outils numériques sont-ils adaptés aux 
+enjeux futurs ? A la diversité des outils utilisés (PC’s, Mobile, 
+…) 148 
+7.2.3.3 Question 3 : Quels outils sont disponibles pour les usagers et 
+sont-ils uniformes ? 150 
+7.2.3.4 Question 4 : Les usagers avec un accès limité aux nouvelles 
+technologies peuvent-ils bénéficier de services équivalents 
+dans des formats traditionnels (par exemple, guichets 
+physiques) ? 153 
+---PAGE 5---
+5 
+ 
+7.2.3.5 Question 5 : Les usagers peuvent-ils facilement effectuer des 
+démarches administratives sur Internet, comme remplir des 
+formulaires ou suivre l'avancement de leurs demandes ? 
+(Partagé) 156 
+7.2.3.6 Question 6 : Les données de l’AGS sont-elles exploitables et 
+accessibles aux usagers pour améliorer leur expérience (par 
+exemple, avec le principe "Only Once") ? 156 
+7.2.3.7 Question 7 : Les outils de communication facilitent-ils le 
+parcours des usagers ? (par exemple, possibilité de 
+réservation dans les Centres AGS, accès aux formulaires de 
+demande de subvention, …) 159 
+7.2.3.8 Question 8 : Les infrastructures sont-elles suffisamment 
+équipées (au niveau IT) pour l’accueil de nos usagers ? 162 
+7.2.3.9 Question 9 : Existe-t-il un système de suivi des demandes 
+des usagers (demande, réclamation, problème technique, 
+…) ? 164 
+7.2.3.10 Recommandations portant sur les ressources technologiques
+ 165 
+7.2.4 Ressources budgétaires 170 
+7.2.4.1 Question 1 : Les tarifs pratiqués sont-ils homogènes dans les 
+Centres AGS ou tout autre activité facturée aux usagers ? 
+Existe-t-il des particularités en matière de tarification ? 170 
+7.2.4.2 Question 2 : Quels sont les processus qui nécessitent le plus 
+de ressources budgétaires ? Quels sont ceux qui en 
+génèrent le plus de bénéfices ? Analyse coûts/bénéfices 177 
+7.2.4.3 Question 3 : Est-ce que les ressources budgétaires 
+disponibles actuellement sont allouées, de manière 
+efficiente, aux missions accomplies par l’AGS ? 190 
+7.2.4.4 Recommandations portant sur les ressources budgétaires
+ 197 
+8 Annexes 202 
+8.1 Annexe 1 : Périmètre de l’audit 202 
+---PAGE 6---
+6 
+ 
+8.2 Annexe 2 : Inventaire des ressources 202 
+8.3 Annexe 3 : Référentiel d’analyse 202 
+8.4 Annexe 4 : Tableau comportant les détails des calculs pour la 
+partie ressources budgétaires 202 
+8.5 Annexe 5 : Activités réalisées 203 
+8.6 Annexe 6 : Index des tableaux 212 
+8.7 Annexe 7 : Cartographie des processus de l’AGS 213 
+ 
+---PAGE 7---
+7 
+ 
+1 Objet du rapport final d’audit 
+Le présent livrable constitue le rapport final de l’audit de fonctionnement de l’AGS et a 
+pour objectifs de :  
+• Croiser les données collectées lors de l’analyse documentaire, des entr etiens de 
+fonctionnement, des entretiens supplémentaires, des ateliers usagers, budgétaires et 
+services ; 
+• Réaliser une évaluation pour chacun des critères et proposer des réponses aux 
+questions d’audit. 
+• Formuler les recommandations finales destinées à améliorer le fonctionnement de 
+l’AGS. 
+Ce rapport intègre donc l’ensemble des constats, analyses et recommandations et 
+constitue le livrable final de la mission. 
+Précaution méthodologique 
+Le présent rapport a pour objectif principal de répondre aux questions formulées dans le 
+cadre de l’audit, en s’appuyant strictement sur les critères définis et validés dans la note 
+de cadrage. L’ensemble des analyses et conclusions présentées repose sur ces critères, 
+qui ont structuré la méthodologie adoptée.  Le rapport formule également les 
+recommandations issues de cette analyse, en vue d’améliorer le fonctionnement de 
+l’AGS. 
+Les informations nécessaires ont été collectées à travers une combinaison de méthodes 
+complémentaires, incluant : des entretiens, des visites sur site, une analyse 
+documentaire, une analyse des données, des ateliers usagers , des ateliers services et 
+des ateliers recommandations. 
+Ces différentes approches ont permis de croiser les perspectives et de garantir une 
+compréhension approfondie des enjeux. 
+Il convient toutefois de préciser que, bien que ces activités aient été spécifiquement 
+conçues pour répondre aux objectifs de l’audit, elles ont également permis de recueillir 
+des données supplémentaires qui, bien que pertinentes, ne relèvent pas directement du 
+périmètre de cette étude. Ces données annexes n’ont donc pas été intégrées dans les 
+analyses présentées dans ce document. 
+Par ailleurs, il est important de souligner que les données utilisées dans ce rapport n’ont 
+pas fait l’objet d’un audit ou d’une vérification approfondie de leur exactitude. Elles ont 
+été exploitées telles qu’elles ont été communiquées par les parties prenantes. En outre, 
+certaines données historiques, qui n’avaient pas été collectées de manière systématique 
+dans le passé, ont dû être reconstituées à partir des informations disponibles. Ces 
+données reconstituées comportent une marge d’incertitude inhérente,  mais elles 
+permettent néanmoins d’identifier des tendances générales et des dynamiques 
+pertinentes pour répondre aux questions de l’audit. 
+---PAGE 8---
+8 
+ 
+Enfin, bien que les données reconstituées soient suffisantes pour éclairer les 
+problématiques soulevées dans le cadre de cet audit, une collecte plus rigoureuse et 
+systématique sur une période définie serait nécessaire pour répondre à des besoins 
+d’analyse plus précis ou pour réduire davantage les incertitudes associées. 
+---PAGE 9---
+9 
+ 
+2 Contexte de l’audit 
+Dans la Déclaration de Politique Communautaire (ci-après « DPC »), le Gouvernement 
+a acté sa volonté d’œuvrer à « une amélioration de l’organisation du sport francophone 
+» (pages 71 et 72). Le texte de la DPC prévoit un audit externe de fonctionnement de 
+l’Administration Générale du Sport (ci-après « AGS »). Ce texte vise par ailleurs une 
+amélioration globale du secteur, qu’il s’agisse du sport pour tous ou du sport de haut 
+niveau.  
+Pour mettre en œuvre cet audit de fonctionnement, l’AGS a commandé une mission dont 
+les objectifs ont été documentés dans une note reprise en annexe intitulée « périmètre 
+de l’audit » par ailleurs validée par le Cabinet de tutelle. Cette initiative s’inscrit dans une 
+volonté d’améliorer l’efficacité des services internes et de mieux répondre aux besoins 
+et attentes des usagers.  
+L’objectif est de disposer d’une analyse des missions, des processus et activités, ainsi 
+que de l’utilisation des ressources budgétaires octroyées  et des ressources humaines, 
+matérielles et technologiques allouées afin de juger de leur pertinence et de proposer 
+des recommandations visant à optimiser l’efficacité des services destinés aux usagers. 
+L’audit vise à analyser et évaluer l’organisation et le fonctionnement de l’ AGS afin d’en 
+améliorer l’efficience globale. Plus précisément, l’analyse portera sur :  
+• Les missions, processus et activités de l’AGS ;  
+• L’utilisation et l’allocation des ressources budgétaires, humaines, matérielles et 
+technologiques ;  
+• La pertinence des structures et des modes de fonctionnement en place. 
+Sur la base des constats, un ensemble de recommandations é été formulé. Ensuite, un 
+plan d’actions sera élaboré par l’ AGS afin de mettre en œuvre les mesures 
+d’amélioration qui seront retenues parmi celles proposées et décrites dans les 
+recommandations.  
+L’audit couvrira les entités suivantes :  
+• Le Service Général des Centres Sportifs, incluant les 17  Centres Sportifs (ci-après 
+« CS ») ;  
+• Le Service Général du Sport pour Tous, incluant notamment les 7 Centres de Conseil 
+du Sport (ci-après « CCS »), le Centre de Prêt de Matériel Sportif de Villers-le-Bouillet 
+(ci-après « CAPMaS ») et le Service Points Verts (ci-après « SPV ») ;  
+• Le Service Général de la Politique Sportive ;  
+• Les Services de Support directement rattachés à l’Administrateur général.  
+  
+---PAGE 10---
+10 
+ 
+3 Approche méthodologique 
+Afin de mener l’évaluation du fonctionnement de l’AGS, l’équipe projet s’est appuyée sur 
+une méthodologie structurée en trois phases, mobilisant une combinaison d’outils 
+d’analyse complémentaires. Cette démarche vis ait à produire une appréciation 
+approfondie et objectivée du dispositif, ainsi qu’à formuler des recommandations 
+concrètes, adaptées aux réalités opérationnelles et aisément transposables en actions. 
+Phase 1 – Cadrage  
+La première phase consist ait à assurer un alignement clair sur le périmètre et les 
+objectifs de l’évaluation, ainsi que sur l’organisation pratique de la mission (planning, 
+livrables, modalités d’interaction). Elle a permis également de définir avec précision les 
+axes d’analyse, « usagers » et « ressources », ainsi que les critères de jugement qui ont 
+constitué le référentiel d’évaluation. Les questions d’audit, établies conformément aux 
+attentes du pouvoir adjudicateur, ont structuré l’ensemble du cadre analytique et ont 
+guidé la préparation des outils de collecte, notamment les guides d’entretien. 
+Phase 2 – Etat des lieux et diagnostic du fonctionnement actuel   
+La deuxième phase a reposée sur une collecte systématique d’informations quantitatives 
+et qualitatives portant à la fois sur l’expérience des usagers et sur les ressources 
+mobilisées par l’AGS pour assurer ses missions. Cette collecte a menée au moyen 
+d’outils méthodologiques préalablement définis, tels que l’analyse documentaire, les 
+entretiens de fonctionnement et les ateliers dédiés aux usagers et aux services. 
+Les données recueillies ont fait  l’objet d’analyses croisées visant à apprécier le niveau 
+d’atteinte de chaque critère selon une échelle graduée (« non atteint », « partiellement 
+atteint », « satisfaisant », « atteint »). Les constats issus de ces travaux ont été 
+consolidés afin d’offrir une vision transversale, objectivée et étayée du fonctionnement 
+opérationnel des services de l’AGS au regard des questions d’audit. 
+Phase 3 – Formulation des recommandations  
+La troisième phase visait quant à elle à identifier les pistes d’amélioration permettant de 
+renforcer l’efficience, l’efficacité et la qualité des services de l’AGS. Toute situation dans 
+laquelle le niveau d’atteinte d’un critère n’est pas « atteint » a entrainé l’élaboration d’une 
+recommandation. Par ailleurs, certaines recommandations s e sont appliquées à 
+plusieurs critères, tandis que d’autres ont constitué des prérequis à la mise en œuvre 
+d’améliorations plus larges. En conséquence, leur nombre ne correspond pas forcément 
+à celui des critères qui n’ont pas obtenus l’évaluation « atteint ». 
+Les recommandations ont  été structurées selon les  cinq axes thématiques (usagers, 
+ressources humaines, ressources matérielles, ressources technologiques et ressources 
+budgétaires). Leur pertinence a été  vérifiée au moyen d’ateliers avec les équipes 
+concernées, permettant d’ajuster ou de compléter les propositions initiales. Chaque 
+recommandation a ensuite été positionnée sur une matrice « effort / impact  » afin d’en 
+faciliter la priorisation , ce  positionnement étant complété, lorsque nécessaire, par 
+---PAGE 11---
+11 
+ 
+l’identification des dépendances avec des acteurs externes à l’AGS .
+ 
+Enfin, les recommandations ont été organisées en fonction de leur importance pour la 
+mise en œuvre, afin d’en faciliter la traduction en plans d’action concrets. Combinées à 
+leur positionnement dans la matrice de priorisation, elles offrent à l’AGS un cadr e 
+décisionnel permettant de distinguer les actions à prioriser (fort impact et faible effort), 
+les actions à programmer à moyen terme (fort impact mais effort élevé) et les actions à 
+déléguer lorsque cela est pertinent (impact modéré et effort limité). 
+À intégrer dans le plan
+d’actions selon la capacité
+et les budgets disponibles
+Prioriser
+Déployer les ressources
+nécessaires (externes) afin
+d’implémenter l’opportunité
+rapidement
+Déléguer
+À considérer dans un plan
+d’actions ultérieur ou si
+toutes les actions du plan
+prioritaire sont couvertes
+et que le temps et la
+capacité le permettent
+Retarder
+Retours et bénéfices
+insuffisants que pour être
+considérée dans le plan
+d’actions
+Éliminer 
+Urgent et important
+Faible
+Impact
+Effort
+Faible Élevé
+Important et non-urgent
+Non-important et non-urgentUrgent et non-important
+Élevé
+---PAGE 12---
+12 
+ 
+4 Organisation  
+4.1 Stratégie  
+4.1.1 Mission de l’AGS 
+L’AGS a pour mission principale de promouvoir et de soutenir la pratique d’activités 
+sportives et physiques en Fédération Wallonie- Bruxelles. Cette mission s’inscrit dans 
+une double perspective : d’une part, encourager le sport pour tous, en rendant les 
+activités physiques accessibles à l’ensemble de la population, et d’autre part, 
+accompagner les sportifs de haut niveau dans leur parcours, notamment en soutenant 
+leur double carrière (sportive et professionnelle). 
+L’AGS est également responsable de la gestion d’ infrastructures sportives, du soutien 
+financier aux fédérations sportives, et de la mise en œuvre de politiques sportives 
+inclusives et innovantes. Ces responsabilités incluent : 
+• Le subventionnement et la reconnaissance des fédérations sportives, des 
+associations sportives, et des opérateurs sportifs locaux, tels que les Centres Sportifs 
+Locaux (ci-après « CSL »). 
+• Le contrôle des subventions, assuré par un service dédié et les CCS. 
+• La formation et l’octroi de brevets dans des domaines variés, tels que le sauvetage, 
+l’encadrement sportif, et la gestion sportive. 
+• L’organisation d’activités et d’événements sportifs, accessibles à tous les publics. 
+• La promotion et la sensibilisation aux bienfaits de l’activité physique et sportive, en 
+mettant l’accent sur l’inclusion et l’accessibilité. 
+Ces responsabilités sont exercées dans le cadre des objectifs définis par les contrats 
+d’administration, qui constituent les fondements stratégiques de l’organisation
+1. 
+En examinant le périmètre de l’audit organisationnel, il apparaît que certaines 
+dimensions supplémentaires pourraient être considérées comme des missions implicites 
+ou émergentes de l’ AGS. Ces dimensions, bien qu’elles ne figurent pas explicitement 
+dans les documents stratégiques traditionnels, reflètent des attentes croissantes envers 
+l’organisation et des évolutions dans son rôle au sein de la Fédération Wallonie-
+Bruxelles. Ces missions complémentaires incluent : 
+• Renforcement de la gouvernance et de la coordination intersectorielle : Le périmètre 
+met en avant la nécessité pour l’ AGS de jouer un rôle central dans la coordination 
+entre les différents acteurs du sport, y compris les fédérations, les clubs, les écoles, 
+et les collectivités locales. Cette mission dépasse la simple gestion d’infrastructures 
+ 
+1 La DPC consacre les priorités politiques du gouvernement et est publiée après sa formation. Les priorités 
+qu’elle fixe peuvent être déclinées en objectifs opérationnels ou en projets, sans pour autant modifier les 
+fondements stratégiques ni les missions légales de l’AGS. 
+---PAGE 13---
+13 
+ 
+ou des subventions et implique une gouvernance proactive pour aligner les efforts 
+de tous les partenaires. 
+• Promotion de la transition écologique dans le sport  : Bien que non explicitement 
+mentionnée dans les missions traditionnelles, la transition écologique est identifiée 
+comme un enjeu transversal dans les plans stratégiques de la Fédération Wallonie-
+Bruxelles. L’AGS est appelée à intégrer des pratiques durables dans la gestion de 
+ses infrastructures sportives et à sensibiliser les usagers aux enjeux 
+environnementaux. 
+• Renforcement de l’accessibilité et de l’inclusion : Bien que l’inclusivité soit déjà une 
+priorité dans les missions traditionnelles, le périmètre met un accent particulier sur 
+l’accessibilité des services pour des publics spécifiques, tels que les personnes en 
+situation de handicap, les jeunes issus de milieux défavorisés, et les femmes. Cette 
+mission implique une adaptation continue des offres spo rtives pour répondre aux 
+besoins diversifiés de la population. 
+Les missions traditionnelles de l’ AGS, telles que décrites dans les documents 
+institutionnels, restent au cœur de son action. Cependant, le périmètre  de l’audit 
+organisationnel met en lumière des responsabilités élargies qui reflètent les attentes 
+croissantes envers l’organisation. Ces missions complémentaires, telles que le 
+renforcement de la gouvernance, la transition écologique, l’innovation numérique, et 
+l’inclusion, témoignent de l’évolution du rôle de l’AGS dans un contexte en mutation. 
+En intégrant ces dimensions dans sa stratégie, l’AGS peut non seulement répondre aux 
+attentes actuelles, mais aussi anticiper les défis futurs, consolidant ainsi sa position en 
+tant qu’acteur clé du sport en Fédération Wallonie- Bruxelles. Ces missions élargies 
+seront prises en compte dans l’analyse et les recommandations formulées dans le cadre 
+de cet audit. 
+4.1.2 Vision  
+La vision stratégique de l’ AGS repose sur l’ambition de devenir un acteur clé dans la 
+promotion du sport et du bien- être en Fédération Wallonie- Bruxelles. Cette vision est 
+alignée sur les objectifs de la Fédération Wallonie- Bruxelles, qui visent à faire du sport 
+un levier de cohésion sociale, de santé publique et de développement personnel. L’AGS 
+aspire à être une organisation robuste, adaptable et performante, capable de répondre 
+aux besoins évolutifs de ses usagers tout en incarnant des valeurs telles que la 
+transparence, la responsabilisation et le sens de l’intérêt général. 
+Dans cette optique, l’AGS s’engage à : 
+• Promouvoir une pratique sportive inclusive, accessible à tous, indépendamment de 
+l’âge, du genre, du niveau de compétence ou de la situation socio-économique ; 
+• Encourager l’innovation dans les services offerts, notamment par l’exploitation des 
+données et l’intégration de solutions numériques modernes, tout en maintenant un 
+équilibre entre le numérique et le contact humain ; 
+---PAGE 14---
+14 
+ 
+• Renforcer la gouvernance du sport francophone en améliorant la coordination entre 
+les différents acteurs du secteur et en optimisant l’utilisation des ressources 
+disponibles. 
+  
+---PAGE 15---
+15 
+ 
+4.1.3 Objectifs stratégiques 
+Les objectifs stratégiques de l’ AGS sont définis dans le cadre de ses contrats 
+d’administration. Nous avons repris l’essentiel de l’information ci-dessous afin de fournir 
+un cadre clair pour l’analyse des performances de l’ AGS et orienter les 
+recommandations qui seront formulées dans le cadre de cet audit. 
+Ces objectifs se déclinent donc comme suit : 
+• Augmenter la pratique sportive : l’ AGS vise à encourager un maximum de citoyens 
+à intégrer une activité physique régulière dans leur quotidien. Cet objectif est soutenu 
+par des campagnes de sensibilisation, des partenariats avec les fédérations 
+sportives, et l’organisation d’événements sportifs accessibles à tous. 
+• Accompagner les sportifs de haut niveau : l’AGS s’engage à fournir un soutien adapté 
+aux sportifs d’élite, notamment en matière de formation, de suivi médical, et de 
+gestion de carrière.   L’objectif est de permettre à ces sportifs de concilier leurs 
+ambitions sportives avec leur développement personnel et professionnel  
+• Améliorer la gouvernance et l’efficience organisationnelle : l’AGS cherche à optimiser 
+ses processus internes et à renforcer la coordination entre ses différents services. 
+Cela inclut une meilleure exploitation des données pour le pilotage stratégique, ainsi 
+qu’une révision des processus pour réduire les lourdeurs administratives et améliorer 
+l’expérience des usagers. 
+• Promouvoir l’inclusivité et l’innovation :  l’AGS met un point d’honneur à améliorer 
+l’expérience usager en développant des services adaptés aux besoins spécifiques 
+de chacun, sur base d’une compréhension fine de leurs attentes et de leurs retours. 
+Cette orientation implique la simplification continue des parcours administratifs, ainsi 
+que l’adoption d’une approche centrée sur l’usager. Elle s’appuie également sur 
+l’intégration de technologies modernes , notamment l’intelligence artificielle et des 
+solutions numériques innovantes. 
+4.2 Processus  
+4.2.1 Cartographie des Processus 
+L’AGS repose sur une organisation structurée autour de 49 processus propres. Ces 
+processus sont répartis en domaines fonctionnels, eux -mêmes subdivisés en macro -
+processus, permettant une gestion claire et cohérente des activités sportives, 
+administratives, et stratégiques.  
+Les processus identifiés sont classés en domaines fonctionnels, qui reflètent les grandes 
+missions
+2 de l’AGS : 
+ 
+2 Pour les besoins du présent exercice, nous avons réparti les missions en 8 missions traditionnelles : 
+promouvoir et soutenir la pratique d’activités sportives et physiques ; accompagner les sportifs de haut 
+niveau ; gérer les infrastructures sportives ; subventionner et reconnaître les acteurs sportifs ; contrôler les 
+ 
+---PAGE 16---
+16 
+ 
+• Logistique 
+• Pilotage et support 
+• Promotion du sport 
+• Promotion du sport de haut niveau 
+• Ressources humaines du MFWB 
+Ces domaines sont ensuite déclinés en macro-processus, qui regroupent les processus 
+et activités spécifiques. Les principaux macro-processus sont : 
+• Agréer / Autoriser / Délivrer : Processus liés à l’octroi de reconnaissances, labels, ou 
+statuts. 
+• Conseiller / Rendre des avis / Expertiser  : Processus d’accompagnement et de 
+conseil stratégique. 
+• Contrôler / Accompagner : Processus de vérification et de suivi des activités. 
+• Former : Processus liés à l’organisation et à la dispense de formations pour les 
+cadres sportifs et autres publics. 
+• Gérer le recrutement : Processus relatifs à l’attraction et à la gestion des ressources 
+humaines.  
+• Mettre à disposition : Processus visant à fournir des infrastructures, des biens, ou 
+des services. 
+• Organiser des événements / stages / cycles : Processus liés à la planification et à la 
+mise en œuvre d’activités sportives. 
+• Subventionner / Allouer : Processus d’octroi de subventions et de moyens financiers. 
+4.2.2 Organisation orientée processus 
+Les travaux de cartographie tendent à démontrer que l’ AGS adopte une approche 
+organisationnelle orientée processus.   
+L’analyse des processus propres à l’AGS met en lumière une organisation qui, bien que 
+structurée, pr ésente des ma rges d’ amélioration en termes de documentation et de 
+pilotage. Parmi ses 493 processus : 
+• 47 processus disposent d’ un responsable identifi é, ce qui assure une r épartition 
+claire des rôles et responsabilités. 
+• Seulement 10 processus disposent d’une description existante. 
+ 
+subventions ; former et octroyer des brevets ; organiser des activités et des événements sportifs ; 
+promouvoir et sensibiliser aux bienfaits de l’activité physique et sportive. À cela s’ajoutent 5 missions 
+complémentaires : renforcement de la gouvernance et de la coordination intersectorielle ; promotion de la 
+transition écologique dans le sport ; développement de l’innovation et de la transformation numérique ; 
+renforcement de l’accessibilité et de l’inclusion ; amélioration de l’expérience usager. 
+3 Le tableau de cartographie des processus utilisé pour cet exercice est disponible en annexe du présent 
+rapport. 
+---PAGE 17---
+17 
+ 
+• 7 processus sont en cours de description, 8 ne disposent d’aucune description, pas 
+et 24 nécessitent potentiellement d’ une documentation à  prévoir (dont 5 sont 
+couverts par des dispositions réglementaires).  
+• 8 processus sont gérés en mode projet4, notamment ceux liés à l’organisation et au 
+soutien d’événements sportifs annuels, ce qui reflète une certaine flexibilité dans leur 
+gestion.  
+Cette situation souligne l ’importance de renforcer la documentation et le suivi des 
+processus. En effet, la cartographie joue un rôle central dans le pilotage strat égique et 
+remplit plusieurs objectifs clés :   
+• Structuration des activit és : en regroupant les processus par domaines et macro-
+processus, elle peut offrir plus de clarté sur les responsabilités de chaque service.   
+• Identification des opportunit és d ’amélioration : elle peut per mettre de mettre en 
+lumière les redondances, inefficiences, et lacunes documentaires.   
+• Pilotage strat égique : en regroupant les processus par finalit é, elle peut aider à 
+prioriser les actions, à allouer les ressources de manière optimale, et à garantir une 
+cohérence entre les objectifs stratégiques et les activités opérationnelles. 
+En adoptant une organisation orientée processus, l’AGS se dote d’un cadre structurant 
+qui s’inscrit dans une démarche d’amélioration continue. Toutefois, sans anticiper sur 
+les analyses et recommandations à venir, il apparaît essentiel, pour maximiser les 
+bénéfices de cette orientation, de combler les lacunes  documentaires identifiées, de 
+renforcer la maîtrise des processus critiques et de systématiser l’usage de la 
+cartographie comme véritable outil de pilotage stratégique.  
+4.2.3 Répartition des processus par services 
+L’AGS s’appuie sur une répartition de ses processus entre ses trois services généraux 
+et ses services transversaux. Chaque service, illustré dans l’organigramme ci-dessous, 
+assume un rôle dans la mise en œuvre des processus, en adéquation avec ses missions 
+et ses domaines d’expertise. Cette section présente en détail la contribution de chaque 
+service à la réalisation des processus, comme illustré dans l’annexe 2 : Inventaire des 
+ressources – Processus.  
+4 Nous avons compris qu’une méthodologie de gestion de projet a fait l’objet d’une formation auprès du 
+personnel concerné. Le présent audit n’a pas couvert l’évaluation de cette formation ni celle des modèles 
+utilisés en gestion de projet.  
+---PAGE 18---
+18 
+ 
+ 
+De manière général e et en regard des ateliers «  services », nous retiendrons les 
+éléments suivants de manière non exhaustive et à titre illustratif :  
+Le Service Général des Centres Sportifs (SGCS) est principalement chargé de la gestion 
+et de l’exploitation des infrastructures sportives de la Fédération Wallonie- Bruxelles. Il 
+joue un rôle central dans la mise en œuvre des processus liés à l’organisation des 
+activités sportives et à la gestion des ressources matérielles. Ses principales 
+contributions incluent : 
+• Gestion des infrastructures sportives : entretien, maintenance, et mise à disposition 
+des installations, incluant les espaces verts, les espaces de restauration, et les 
+hébergements. 
+• Organisation d’activités sportives  : mise en œuvre des processus liés aux stages, 
+cours, séjours sportifs, et programmes d’accueil pour les écoles (journées sportives, 
+mi-temps sportifs). 
+• Gestion des ressources humaines spécifiques  : recrutement, suivi administratif, et 
+encadrement des moniteurs occasionnels. 
+• Soutien logistique : gestion des ressources mobilières et des équipements sportifs, 
+tels que les vélos et bateaux. 
+Le Service Général du Sport pour Tous (SGST)  se concentre sur la promotion de la 
+pratique sportive auprès de tous les publics, en mettant l’accent sur l’accessibilité et 
+l’inclusion. Il est responsable de plusieurs processus clés visant à encourager l’activité 
+physique et à soutenir les acteurs locaux. Ses contributions incluent : 
+
+---PAGE 19---
+19 
+ 
+• Organisation des Marches Adeps (Points verts) : coordination, soutien et promotion 
+des marches. 
+• Gestion du CAPMaS : prêt et transport de matériel pour les événements sportifs, 
+avec une attention particulière pour les besoins des écoles et des structures 
+accueillant des publics spécifiques. 
+• Coordination des CCS : soutien aux acteurs locaux (communes, clubs, fédérations) 
+pour diversifier et augmenter l’offre sportive, ainsi que l’évaluation annuelle des 
+CSL. 
+• Sensibilisation et promotion : actions visant à encourager une pratique sportive 
+régulière. 
+Le Service Général de la Politique Sportive (SGPS) est dédié au soutien des fédérations 
+sportives, des sportifs de haut niveau, et à la gestion des relations internationales dans 
+le domaine du sport. Il contribue à la mise en œuvre des processus stratégiques et 
+opérationnels suivants : 
+• Suivi des fédérations sportives : subventions et plans -programmes pour les 
+fédérations sportives et les associations. 
+• Soutien aux sportifs de haut niveau : g estion des contrats pour les sportifs de haut 
+niveau, des statuts de sportifs de haut niveau, et des programmes de double carrière 
+(projet de vie). 
+• Formation des cadres sportifs : organisation des cursus de formation, homologation 
+des diplômes, et valorisation des acquis d’expérience. 
+• Etudes, Recherches et développement : réalisation et commande d’études. 
+• Relations internationales : coordination des projets de coopération internationale et 
+représentation de la Fédération Wallonie- Bruxelles dans les instances sportives 
+internationales. 
+Les services transversaux assurent des fonctions de support pour l’ensemble de l’AGS. 
+Ils jouent un rôle clé dans la gestion des processus administratifs, financiers, et 
+stratégiques, en facilitant la coordination entre les différents services généraux. Leurs 
+contributions incluent notamment : 
+• Gestion des ressources humaines  et appui juridique : recrutement, formation, 
+évaluation et suivi administratif du personnel , expertise et conseil en matière de 
+réglementation et de contentieux. 
+• Gestion des finances : élaboration du budget, suivi de l’exécution budgétaire, gestion 
+comptable et de trésorerie, pilotage des processus et procédures budgétaires et 
+financiers. 
+• Subventions : reconnaissance des fédérations, suivi administratif et financier des 
+subventions. 
+• Développement numérique et logistique : gestion des outils numériques, des bases 
+de données, et des infrastructures technologiques. 
+---PAGE 20---
+20 
+ 
+• Modernisation, stratégie et c ommunication : diagnostics stratégiques, 
+accompagnement et co-construction des contrats d'administration, coordination des 
+actions de communication,  suivi et pilotage des différents plans  transversaux du 
+Ministère de la FWB, suivi des indicateurs de performance. 
+• Gestion des Marchés publics.  
+4.3 Services  
+4.3.1 Inventaire des services aux usagers 
+Notre démarche nous a conduit à identifier et inventorier les services offerts aux usagers. 
+Pour les besoins de cette évaluation, nous nous sommes concentrés sur les usagers 
+mentionnés dans la section suivante de ce rapport. 
+Les différents services analysés dans le cadre des questions d’audit ne proviennent pas 
+d’un catalogue préétabli. Ils résultent d’une réflexion approfondie menée à partir des 
+processus identifiés dans la cartographie. Cette approche a permis de mettre en 
+évidence les résultats ou produits des processus directement destinés aux usagers, 
+aboutissant ainsi à l’identification de 21 services principaux.
+---PAGE 21---
+21 
+ 
+Le tableau ci-dessous reprend l’inventaire des services aux usagers. 
+# Services aux 
+usagers Description du service 
+1 
+Support 
+administratif des 
+activités 
+Ce service transversal assure l’accompagnement administratif des usagers de l’AGS dans la réalisation de leurs démarches. Il vise à faciliter la 
+gestion et le suivi de leurs demandes. Ce service est rendu au travers de la réception des demandes usagers via différents canaux (téléphone, email, 
+plateforme), la redirection vers le service compétent au sein de l’AGS capable de répondre ou de soutenir l’usager, ainsi que le suivi et la traçabilité 
+des demandes jusqu’à leur résolution. Il inclut également la mise à disposition d’informations claires et actualisées sur les procédures, la 
+documentation administrative et les formulaires nécessaires, ainsi que l’accompagnement dans la constitution des dossiers complexes. L’objectif est 
+de réduire la charge administrative des usagers, d’améliorer la qualité et la rapidité du traitement des demandes et de garantir une expérience usager 
+cohérente et efficace. 
+2 
+Reconnaissance 
+des associations 
+sportives 
+L’AGS octroie des reconnaissances aux opérateurs sportifs ayant leur siège social sur le territoire francophone de la Wallonie et de Bruxelles-Capitale. 
+Ce service procède à l’agrément et à la validation officielle des associations sportives, leur conférant une légitimité pour exercer leurs activités pour 
+une durée de 8 ans. La procédure passe par le dépôt d’un dossier via la plateforme dédiée, l'analyse de ce dernier par le service compétent et une 
+validation ministérielle.  Le service inclut l’accompagnement des associations dans la préparation du dossier, un suivi annuel et offre une opportunité 
+de réflexion stratégique sur la vision et le développement de l’association. Chaque année, les associations reconnues doivent remettre un rapport 
+d'activités démontrant que leurs missions et activités restent conformes aux conditions du décret. La reconnaissance leur permet d’accéder à divers 
+dispositifs de soutien. 
+3 Reconnaissance 
+des centres sportifs 
+L’AGS octroie des reconnaissances aux centres sportifs locaux (intégrés) de Wallonie et Bruxelles-Capitale, leur conférant un statut officiel et une 
+légitimité pour leurs activités pour une durée de 10 ans. La procédure passe par le dépôt d’un dossier via la plateforme dédiée, l'analyse de ce dernier 
+par le service compétent et une validation ministérielle. Chaque année, les centres définissent des objectifs alignés à une thématique transversale et 
+répondant à leurs réalités locales au travers d'une note d’orientation. Ils sont soumis à des inspections pour vérifier leur conformité aux critères de 
+reconnaissance et doivent remettre un rapport d'activités démontrant que leurs missions et activités restent conformes aux conditions du décret. La 
+reconnaissance permet aux CSL(I) d’accéder à des subventions et à un accompagnement, elle renforce aussi leur crédibilité institutionnelle et facilite 
+la collaboration avec les partenaires locaux. 
+4 Reconnaissance 
+des fédérations 
+L’AGS octroie des reconnaissances aux fédérations sportives de Wallonie et Bruxelles-Capitale, leur conférant un statut officiel et une légitimité pour 
+leurs activités pour une durée de 8 ans. La procédure passe par le dépôt d’un dossier via la plateforme dédiée, l'analyse de ce dernier par le service 
+compétent, rédaction d’un rapport et soumission au Conseil Supérieur du Sport avant la validation ministérielle. Chaque année, les fédérations 
+reconnues doivent remettre un rapport d'activités démontrant que leurs missions et activités restent conformes aux conditions du décret. Cette 
+reconnaissance permet aux fédérations d’accéder à des subventions et à une représentation dans les instances nationales et internationales. 
+5 
+Octroi d'une 
+subvention 
+organique 
+L’AGS alloue des subventions organiques aux fédérations, associations et centres sportifs locaux (intégrés) préalablement reconnus, destinées à 
+couvrir leurs dépenses de fonctionnement récurrentes. La procédure passe par le dépôt d’un dossier via la plateforme dédiée avec soumission des 
+pièces justificatives (soumission et validation des comptes de l’année N–1), qui est analysé par l’Administration pour en vérifier la conformité. Le 
+montant de la subvention est calculé selon des critères légaux et indicateurs préétablis (nombre de clubs affiliés, licenciés, superficie, etc.) et peut être 
+indexé selon les crédits budgétaires disponibles. Une avance est versée, suivie du solde après validation des rapports d’activités et justificatifs. La 
+redistribution suit une règle définie (60 % pour le personnel, 40 % pour le fonctionnement), assurant une allocation équilibrée des fonds. 
+L’Administration effectue des contrôles pour garantir la bonne utilisation des subventions et peut demander un remboursement ou une annulation en 
+cas de non-respect des conditions. 
+---PAGE 22---
+22 
+ 
+6 
+Octroi d’une 
+subvention 
+facultative 
+L’AGS alloue des subventions facultatives qui financent des projets spécifiques et ponctuels, tels que le développement du sport de haut niveau, 
+l’achat de matériel sportif (AMS) ou l’organisation d’actions sportives (ASL). La procédure passe par le dépôt d’un dossier via la plateforme dédiée 
+avec soumission des pièces justificatives. Ce dossier est ensuite analysé par l’Administration pour en vérifier la conformité, la pertinence et l’impact 
+avant de le soumettre à une décision ministérielle. L'Administration effectue des contrôles pour s'assurer de la bonne utilisation des fonds. En cas de 
+non-respect des conditions, un remboursement peut être exigé. Ce dispositif offre une souplesse financière, permettant d’adapter l’appui public aux 
+besoins concrets du terrain. 
+7 Octroi de brevets 
+L’AGS délivre des brevets qui certifient les compétences des cadres sportifs (animateurs, initiateurs, éducateurs et entraîneurs), afin de garantir un 
+encadrement de qualité dans les activités sportives. La procédure débute par l’inscription à une formation via la plateforme dédiée, souvent à l’initiative 
+des fédérations sportives, et peut nécessiter des prérequis spécifiques. Les candidats suivent d’abord une formation générale en ligne, incluant des 
+modules sur la méthodologie, l’éthique et la sécurité, avant d’accéder à une formation spécifique organisée par les fédérations selon un cahier des 
+charges validé par l'AGS. Cette formation comprend des cours théoriques et pratiques, ainsi que des stages obligatoires. À l’issue de ces étapes, les 
+candidats passent des évaluations pour valider leurs compétences, incluant des examens théoriques, des démonstrations pratiques et des rapports de 
+stage. Les brevets obtenus sont reconnus au niveau national.
+ 
+8 Octroi de labels 
+L’AGS attribue des labels de qualité aux communes (3 ans) et clubs (durée variable) : 
+• Pour les communes qui démontrent une excellence organisationnelle, une capacité à innover et une intégration des dimensions sociales et 
+environnementales valorisant celles qui développent un sport accessible à tous et mettent en avant leurs infrastructures sportives. 
+• Pour les clubs qui répondent à une qualité d’encadrement, un respect des normes d’éthique sportive, la mise en œuvre d’objectifs de développement 
+durable et la présence d’arbitres ou juges officiels. 
+La procédure passe par un appel à candidature.  Les communes ou clubs remplissent une grille d’évaluation et soumettent les pièces justificatives 
+nécessaires. L’Administration ou un jury examine ensuite les candidatures afin d’assurer une reconnaissance objective de la qualité et de promouvoir 
+le partage des bonnes pratiques entre acteurs. 
+9 Octroi de statuts de 
+sportifs 
+L’AGS attribue des statuts de sportifs de haut niveau, espoirs sportifs ou jeunes talents, afin de reconnaître officiellement leur niveau de performance 
+et de leur offrir des avantages spécifiques pour soutenir leur carrière. La procédure commence par la soumission d’une demande par la fédération du 
+sportif via un formulaire dédié, accompagné de pièces justificatives telles que les performances sportives, les classements ou les sélections pour des 
+compétitions nationales ou internationales. L’Administration analyse les dossiers pour vérifier leur conformité aux critères d’éligibilité, qui varient selon 
+le type de statut demandé et est spécifique à chaque discipline. Une fois validée, l'attribution dépend de la signature ministérielle. Le statut est 
+généralement accordé pour une durée d’un an, avec possibilité de renouvellement. Les sportifs sous statut bénéficient d’aménagements scolaires, 
+d’un accès gratuit à des infrastructures spécialisées comme les salles de musculation de l’Adeps, ainsi que de services tels que le Centre d’Aide à la 
+Performance Sportive (CAPS). Ce dispositif offre un soutien essentiel pour concilier carrière sportive et académique.
+ 
+10 
+Octroi de contrats 
+de travail aux 
+sportifs 
+L’AGS octroie des contrats de travail aux sportifs de haut niveau afin de leur permettre de se consacrer pleinement à leur carrière sportive tout en 
+bénéficiant d’un cadre légal et financier adapté. La procédure passe par la soumission d’une demande par le sportif ou sa fédération, accompagnée de 
+documents justificatifs tels que les performances sportives et les qualifications. L’Administration analyse les dossiers, notamment le niveau de 
+performance et la participation à des compétitions internationales. Une fois validée, l'attribution dépend de la signature ministérielle. Le contrat est 
+généralement établi sous forme de CDD d’une durée maximale d’un an, renouvelable sous certaines conditions. Ce dispositif vise à promouvoir le 
+sport de haut niveau et à représenter la Communauté française sur la scène internationale. 
+11 Services de double 
+carrière 
+L’AGS propose un service de double carrière destiné aux sportifs sous statut. Ce service est conçu pour aider les sportifs à concilier leur carrière 
+sportive et leur parcours académique ou professionnel. Il prévoit des aménagements scolaires, un suivi personnalisé et des formations à compétences 
+transférables. La procédure inclut la coordination avec les établissements éducatifs, l’accompagnement individualisé et l’évaluation régulière afin de 
+préparer efficacement la reconversion et l’après-carrière. 
+---PAGE 23---
+23 
+ 
+12 Mise à disposition 
+d'infrastructures 
+L'AGS met à disposition ses infrastructures sportives (incluant des locaux, des terrains et des hébergements) afin de soutenir la pratique, la formation 
+et le développement du sport sur l’ensemble du territoire de la Fédération Wallonie-Bruxelles. La procédure passe par une demande des usagers 
+(clubs, écoles, associations, etc.), précisant les besoins, les dates souhaitées et le type d’activité envisagée. L’Administration examine la disponibilité 
+des installations, la conformité du projet et sa cohérence avec les objectifs de promotion du sport définis par l'AGS. Une convention d’occupation est 
+ensuite établie, précisant les conditions d’utilisation, les responsabilités et les coûts associés. Ce dispositif favorise un accès équitable et structuré aux 
+équipements sportifs publics, tout en garantissant leur utilisation optimale au service du sport de loisirs, de la formation et du haut niveau. 
+13 
+Entretien et 
+maintenance des 
+infrastructures 
+L’AGS assure l’entretien et la maintenance des infrastructures sportives afin de garantir leur sécurité, leur fonctionnalité et leur durabilité. Le processus 
+repose sur une planification régulière des interventions, incluant des contrôles techniques, des réparations et des travaux de rénovation. Les équipes 
+techniques internes ou des prestataires externes sont mobilisés pour effectuer des inspections périodiques, comme le contrôle des installations 
+électriques, des systèmes de sécurité incendie, ou des équipements sportifs. Les besoins spécifiques en maintenance sont identifiés à partir de 
+rapports d’utilisation, de signalements des usagers, ou d’audits techniques. Les interventions sont ensuite programmées en fonction de leur urgence et 
+des ressources disponibles. Ce service est essentiel pour préserver la qualité des infrastructures et assurer leur conformité aux normes de sécurité.
+ 
+14 Service de repas 
+L’AGS propose un service de repas dans certains centres sportifs afin de répondre aux besoins nutritionnels des usagers, notamment les sportifs, les 
+encadrants et les participants aux activités. Le processus commence par la planification des menus, élaborés en collaboration avec des diététiciens 
+pour garantir un équilibre alimentaire adapté aux exigences sportives et aux besoins spécifiques des usagers. Les repas sont préparés par des 
+équipes dédiées, incluant des cuisiniers, qui assurent également le service en salle et l’entretien des espaces de restauration. Les produits utilisés 
+sont sélectionnés selon des critères de qualité et, dans certains cas, respectent des labels diététiques comme le Label Radis. Ce service contribue à la 
+promotion d’une alimentation saine et adaptée au sport. 
+15 Prêt de matériel 
+sportif 
+L’AGS propose un service de prêt de matériel sportif afin de soutenir les activités des clubs, écoles, fédérations, et autres acteurs locaux dans 
+l’organisation d’événements et d’activités sportives. Le processus débute par la soumission d’une demande via une plateforme dédiée ou directement 
+auprès du Centre de Prêt de Matériel Sportif. Les bénéficiaires doivent fournir des informations détaillées sur leurs besoins, incluant le type de 
+matériel, les quantités nécessaires, et les dates d’utilisation. Les demandes sont ensuite analysées par l’Administration pour vérifier la disponibilité du 
+matériel et la conformité aux règles d’attribution, qui priorisent certains usagers selon leur statut ou l’urgence de la demande. Une fois validée, le 
+matériel est préparé, vérifié, et livré ou mis à disposition pour retrait. Les bénéficiaires sont responsables de son bon usage et doivent le retourner 
+dans l’état initial. Ce service facilite l’accès à des équipements sportifs de qualité, encourage la pratique sportive, et soutient les initiatives locales.
+ 
+16 Organisation 
+d'activités 
+L’AGS organise des activités sportives variées, telles que des stages, des cours, des journées sportives, et des événements, afin de promouvoir la 
+pratique sportive auprès de tous les publics, y compris les enfants, adolescents, adultes, et personnes en situation de handicap. Elle met en œuvre 
+des actions de communication et de promotion destinées à assurer une diffusion optimale de ces activités sportives et renforcer sa visibilité. Le 
+processus commence par la planification des activités, qui inclut l’élaboration des programmes pédagogiques, la réservation des infrastructures, et la 
+mobilisation des moniteurs et encadrants qualifiés. Les inscriptions sont généralement ouvertes via des plateformes en ligne ou directement auprès 
+des centres sportifs, permettant aux participants de choisir les activités adaptées à leurs besoins et niveaux. Les activités sont ensuite mises en œuvre 
+selon les objectifs pédagogiques et sportifs définis, avec un suivi assuré par les équipes d’encadrement pour garantir la qualité et la sécurité. Ce 
+service joue un rôle clé dans la démocratisation du sport et le développement des compétences physiques et sociales. 
+17 
+Support à 
+l'organisation des 
+marches 
+L’AGS offre un support à l’organisation des marches Adeps afin de faciliter la mise en place de ces événements accessibles à tous, qu’ils soient 
+destinés aux familles, sportifs, ou personnes à mobilité réduite. Le processus commence par la proposition de dates aux organisateurs, avec une 
+priorité donnée aux anciens organisateurs, suivie de la validation des parcours et des autorisations nécessaires, comme celles des communes et des 
+zones sensibles. L’Administration fournit des solutions clés en main, incluant des affiches personnalisables, des textes prérédigés pour les demandes 
+d’autorisation, et des coffres contenant le matériel nécessaire au balisage des parcours. Les organisateurs sont responsables de l’accueil, de la 
+---PAGE 24---
+24 
+ 
+sécurité, du fléchage, et du défléchage des parcours, ainsi que du retour du matériel aux délégués provinciaux. Un rapport d’activité simplifié doit être 
+rempli après chaque marche pour obtenir une indemnité. Ce service encourage la pratique sportive en plein air et la socialisation. 
+18 
+Garantie qualité des 
+formations 
+spécifiques 
+L’AGS assure la garantie qualité des formations spécifiques destinées aux cadres sportifs afin de certifier leur conformité aux standards 
+pédagogiques, sécuritaires, et managériaux. Le processus débute par la validation des cahiers des charges des formations, élaborés par les 
+fédérations sportives et soumis à l’Adeps pour approbation. Les formations sont ensuite organisées par les fédérations, avec un suivi assuré par 
+l’Administration pour vérifier le respect des modalités d’évaluation, des contenus pédagogiques, et des qualifications des intervenants. Des visites sur 
+le terrain et des contrôles lors des examens permettent de garantir la qualité des enseignements et des certifications délivrées. Les formations sont 
+également évaluées à travers des indicateurs de satisfaction et des retours des participants. Ce service vise à harmoniser les standards de formation 
+et à renforcer la compétence des cadres sportifs.
+ 
+19 
+Représentation 
+dans les instances 
+nationales et 
+internationales 
+L'AGS agit comme porte-voix des intérêts du sport francophone belge en représentant ses membres dans les instances officielles (conseils, 
+commissions, réunions internationales). Le processus implique l’élaboration d’une stratégie de communication institutionnelle, la coordination avec 
+d’autres acteurs (comme le Comité Olympique) et la préparation de dossiers ou de prises de parole. 
+20 Etudes et 
+statistiques 
+L’AGS réalise des études et des statistiques, notamment en vue de mieux comprendre les besoins des usagers et d’orienter les politiques sportives de 
+manière efficace et adaptée. Le processus passe par l’identification des thématiques prioritaires en collaboration avec les différents services et 
+partenaires locaux. Des enquêtes sont ensuite conçues et déployées. Les données collectées sont analysées par le Service Études, Recherche et 
+Développement, qui utilise des outils statistiques pour produire des rapports détaillés et des recommandations stratégiques. Les résultats sont 
+partagés avec les parties prenantes et intégrés dans les processus décisionnels pour ajuster les offres et les services.
+ 
+21 
+Support à 
+l’organisation 
+d’évènements 
+sportifs 
+L'AGS assure la gestion complète du matériel événementiel et promotionnel, depuis le stockage jusqu’à la mise en place sur l’ensemble des 
+événements organisés ou soutenus par l'organisation.  
+ 
+Tableau 1 : Liste et description des 21 services de l'AGS
+---PAGE 25---
+25 
+ 
+4.3.2 Articulation des services avec les missions de l’AGS 
+Au-delà de la correspondance entre les services et les différents usagers, il est 
+intéressant d’examiner comment ceux-ci reflètent les responsabilités institutionnelles de 
+l’organisation ainsi que les missions de l’AGS. 
+Qu’elles soient traditionnelles ou complémentaires, les missions définissent le cadre 
+stratégique dans lequel s’inscrivent ces services. Le tableau ci -dessous illustre 
+l’articulation entre les services offerts aux usagers et les missions. 
+ 
+Tableau 2 : Articulation entre les services offerts par l'AGS et les missions 
+L’analyse de la correspondance entre les missions institutionnelles de l’AGS et les 
+services offerts aux usagers met en évidence une couverture globale et cohérente de 
+l’ensemble des missions. 
+Les missions traditionnelles sont bien représentées. Chacune d’entre elles est soutenue 
+par plusieurs services (entre trois et six selon les cas). Par exemple, la mission relative 
+à l’accompagnement des sportifs de haut niveau est concrètement assurée par les 
+services d’octroi de statuts de sportifs, d’octroi de contrats de travail et par le service de 
+double carrière. De même, la mission de subventionnement et de reconnaissance des 
+acteurs sportifs se traduit par les trois dispositifs de reconnaissance (as sociations, 
+fédérations, centres), les deux types de subventions (organiques et facultatives) ainsi 
+que par le support administratif apporté, notamment via les CCS. 
+# Services aux usagers
+Promouvoir et soutenir la pratique 
+d’activités sportives et physiques
+Accompagner les sportifs de haut 
+niveau
+Gérer les infrastructures sportives
+Subventionner et reconnaître les 
+acteurs sportifs
+Contrôler les subventions
+Former et octroyer des brevets
+Organiser des activités et des 
+événements sportifs
+Promouvoir et sensibiliser aux bienfaits 
+de l’activité physique et sportive
+Renforcement de la gouvernance et de 
+la coordination intersectorielle  
+Promotion de la transition écologique 
+dans le sport  
+Renforcement de l’accessibilité et de 
+l’inclusion  
+1 Support administratif des activités
+2 Reconnaissance des associations sportives
+3 Reconnaissance des centres sportifs
+4 Reconnaissance des fédérations
+5 Octroi d'une subvention organique
+6 Octroi dune subvention facultative
+7 Octroi de brevets
+8 Octroi de labels
+9 Octroi de statuts de sportifs
+1
+0 Octroi de contrats de travail aux sportifs
+11 Services de double carrière
+12 Mise à disposition d'infrastructures (locaux ou hébergements)
+13 Entretien et maintenance des infrastructures
+14 Service de repas
+15 Prêt de matériel sportif
+16 Organisation d'activités
+17 Support à l'organisation des marches
+18 Garantie qualité des formations spécifiques
+19 Représentation dans les instances nationales et internationales
+20 Etudes et statistiques
+21 Support à l’organisation d’évènements sportifs
+Traditionnelles Complémentaires Missions
+---PAGE 26---
+26 
+ 
+Les missions complémentaires présentent une couverture plus restreinte, bien qu’elles 
+soient toutes soutenues par au moins un service. Parmi celles -ci, la mission de 
+renforcement de l’accessibilité et de l’inclusion est la mieux représentée.  
+De manière générale, l’ensemble des missions de l’AGS  bénéficie d’une traduction 
+opérationnelle à travers au moins un service à l’usager. L’analyse ne met en évidence 
+aucune redondance ni chevauchement significatif entre les services contribuant à une 
+même mission. Les constats confirment ainsi une cohérence  d’ensemble entre les 
+missions institutionnelles de l’AGS et les services effectivement proposés aux usagers. 
+---PAGE 27---
+27 
+ 
+5 Usagers 
+5.1 Types d’usager 
+La notion d’usagers, telle qu’utilisée  dans le cadre de cet audit, se réfère à toute 
+personne ou organisation qui bénéficie, directement ou indirectement, des services 
+proposés par l’AGS.  
+Les usagers de l'AGS sont segmentés de façon générique en fonction de divers critères, 
+mais cette segmentation n'est pas uniformément documentée. Trois groupes d'usagers 
+sont identifiés : 
+ 
+Tableau 3 : Identification des trois groupes d'usagers 
+5.2 Segmentation des usagers 
+Plusieurs critères de segmentation sont envisagés afin d’adapter les offres et les 
+services aux besoins spécifiques des  usagers. Bien qu’ils ne soient pas utilisés de 
+manière uniforme en fonction des missions et des objectifs, l’AGS dispose d’informations 
+concernant les critères suivants : 
+Critères démographiques :  
+• L’âge : l’offre de services peut être adaptée selon la tranche d’âge pour les enfants, 
+les adolescents, les adultes et les seniors. 
+• Le genre : certaines activit és ou programmes peuvent être spécifiquement conçus 
+pour répondre à des besoins d’inclusivité. 
+• La composition familiale : des offres spé cifiques pour les familles ou, au contraire, 
+pour les personnes seules. 
+Critères géographiques : 
+Organismes sportifs
+Fédérations sportives et Fédérations sportives de loisir
+ASBL
+ sportives (AISF, CAPS, COIB) et autres associations sportives (Enéosport, AFFSS, ASEUS, Féma) 
+Clubs sportifs affiliés aux fédérations et associations reconnues
+Centres sportifs locaux
+Centres sportifs locaux intégrés
+Groupement organisateur (des marches Adeps)
+Organisateur d'évènements sportifs
+Citoyens
+Sportifs sous statut (JT, ES, SHN, Reconversion)
+Sportifs amateurs / occasionnels (participants aux cours de sport, stagiaires enfants, stagiaires adultes, marcheurs) 
+Partenaires d'entraînement et arbitres
+Moniteurs sportifs, dirigeants et secouristes
+Parents de stagiaires
+Organismes non-sportifs
+Ecoles (primaires, secondaires, hautes-écoles, universités)
+Autorités publiques (dont communes)
+Autres autorités communautaires, nationales ou internationales
+Opérateur de formation
+---PAGE 28---
+28 
+ 
+• La province ou la commune, afin de prendre en compte les particularités locales, les 
+infrastructures disponibles et les habitudes sportives régionales. 
+• Le milieu (urbain, périurbain, rural), afin de répondre aux besoins et attentes qui 
+varient en fonction de l’environnement de vie. 
+Critères thématiques : 
+• La discipline : permettant notamment d'adapter les ressources, les infrastructures, les 
+formations ou les soutiens en fonction des besoins propres à chaque discipline 
+sportive. 
+• La complexité disciplinaire : selon qu’il s’agit de disciplines simples ou complexes, 
+des programmes, des ressources spécialisées, des équipements spécifiques et des 
+formations avancées peuvent être proposés pour répondre aux exigences 
+techniques. 
+• Le niveau de pratique (débutant, intermédiaire, avancé, élite) : permet d’adapter les 
+programmes, les infrastructures et les encadrements en fonction des compétences et 
+des objectifs des usagers. 
+• La modalité pratique : en fonction qu’il s’agisse de sports collectifs ou individuels, des 
+offres adaptées aux besoins, ainsi que des infrastructures et des programmes 
+spécifiques, peuvent être mis en place pour favoriser la cohésion et les interactions 
+sociales. 
+• L’accessibilité financière : des offres différenciées pour les publics socio-
+économiquement défavorisés, incluant des réductions ou des subventions, afin de 
+proposer des activités à faible coût et d’encourager la participation de tous. 
+Critères organisationnels : 
+Le type d’organisation : en fonction de leur type  (fédérations, clubs, associations) des 
+offres peuvent être développées pour répondre aux besoins spécifiques des structures 
+sportives. 
+La taille de l’organisation : permet d’optimiser la gestion du fonctionnement interne et de 
+proposer un accompagnement plus spécifique, notamment dans le cadre de services 
+spécialisés. 
+L’utilisation et la combinaison de ces critères est spécifique aux types d’usagers et aux 
+services qui lui sont offerts. Le premier tableau ci-dessous reprend à titre informatif 
+quels critères sont utilisés par l’AGS à l’égard de ses usagers. 
+---PAGE 29---
+29 
+ 
+ 
+Tableau 4 : Présentation des critères utilisés par l'AGS à l'égard de ses types d'usagers 
+La segmentation est essentielle pour élaborer des stratégies adaptées, car elle permet 
+de mieux comprendre la diversité des publics et de concevoir des programmes et 
+infrastructures répondant à leurs besoins. Elle aide également à optimiser l’allocation 
+des ressources, la communication et à encourager la pratique sportive auprès de 
+populations spécifiques. Les analyses et réponses aux questions d’audit ci-dessous 
+illustrent comment la segmentation actuelle est valorisée par l’AGS. 
+5.3 Utilisation des services 
+À partir des services à l’usager inventoriés  précédemment, ainsi que des informations 
+recueillies sur la base de l’analyse documentaire et des ateliers usagers, nous avons pu 
+établir le panorama ci- dessous concernant l’utilisation des services par les différents 
+usagers.  
+DémographiquesGéographiquesThématiquesOrganisationnels
+Organismes sportifs
+Fédérations sportives
+ASBL et associations sportives
+Clubs sportifs
+Centres sportifs locaux
+Centres sportifs locaux intégrés
+Groupement organisateur des marches
+Organisateur d'évènements sportifs
+Citoyens
+Sportifs sous statut
+Sportifs amateurs / occasionnels
+Partenaires d'entraînement et arbitres
+Moniteurs sportifs, dirigeants et secouristes
+Parents de stagiaires
+Organismes non-sportifs
+Ecoles
+Autorités publiques
+Autres autorités communautaires, nationales ou internationales
+Opérateur de formation
+---PAGE 30---
+30 
+ 
+ 
+Tableau 5 : Répartition des services utilisés par type d'usager 
+L'évaluation de l'utilisation de ces services sera analysée et documentée dans le présent 
+rapport afin d'apporter des réponses aux questions soulevées dans le cadre de l'audit.  
+Fédérations sportivesASBL et associations sportivesClubs sportifsCentres sportifs locauxCentres sportifs locaux intégrésGroupement organisateur des marchesOrganisateur d'évènements sportifsSportifs sous statutSportifs amateurs / occasionnelsPartenaires d'entraînement et arbitresMoniteurs, dirigeants et secouristesParents de stagiairesEcolesAutorités publiquesAutres autoritésOpérateur de formation
+Support administratif des activités
+Reconnaissance des associations sportives
+Reconnaissance des centres sportifs
+Reconnaissance des fédérations
+Octroi d'une subvention organique
+Octroi dune subvention facultative
+Octroi de brevets
+Octroi de labels
+Octroi de statuts de sportifs
+Octroi de contrats de travail aux sportifs
+Services de double carrière
+Mise à disposition d'infrastructures (locaux ou hébergements)
+Entretien et maintenance des infrastructures
+Service de repas
+Prêt de matériel sportif
+Organisation d'activités
+Support à l'organisation des marches
+Garantie qualité des formations spécifiques
+Représentation dans les instances nationales et internationales
+Etudes et statistiques
+---PAGE 31---
+31 
+ 
+6 Ressources  
+6.1 Humaines  
+Notre définition des ressources humaines est la suivante : Les ressources humaines 
+désignent l’ensemble des personnes, liées par un contrat ou un statut géré par la 
+DGFPRH, le personnel subventionné, le personnel occasionnel du Service Administratif 
+à Comptabilité Autonome (ci-après « SACA») et les sportifs de haut niveau sous contrat 
+détachés dans une fédération sportive, ainsi que les pratiques visant à gérer, développer 
+et mobiliser leurs compétences de manière optimale. Cela inclut une allocation efficace 
+du personnel, adaptée aux fluctuations de l’activité et aux périodes de forte charge, la 
+mise en place de processus  performants, la structuration des procédures, le 
+renforcement des compétences par la formation, ainsi que l’adaptation continue des 
+pratiques selon les retours des usagers et les indicateurs de qualité.  
+L’effectif considéré au moment de la validation de l’inventaire réalisé dans la phase de 
+cadrage se compose de collaborateurs sous divers types de contrats, reflétant la pluralité 
+des statuts au sein de l’organisation.  La gestion des contrats du personnel permanent 
+(136 ETP statutaires et 347,19 ETP contractuels), ainsi que ceux financés dans le cadre 
+du dispositif Maribel social (mesure fédérale favorisant la création d’emplois dans le 
+secteur non marchand grâce à une réduction des cotisations patronales de sécurité 
+sociale), relève de la Direction générale de la Fonction publique et  des Ressources 
+humaines (DGFPRH). Pour les autres types de contrats, le recrutement s’opère via des 
+subventions spécifiques. 
+Au total, les trois Services généraux et l’Administration centrale regroupent 483,19 ETP 
+effectifs pour un cadre de 537,35 ETP autorisés  dans le cadre arrêté par le MFWB. Le 
+personnel se compose de profils de fonction diversifiés, définis et encadrés  par le 
+Ministère : personnel de direction, administratif, ouvrier, de cuisine, technicien de surface 
+ainsi que personnel pédagogique.  
+Afin de garantir la continuité des activités pédagogiques, en particulier dans les CS  et 
+partiellement dans les CCS, un recours régulier est fait à du personnel dit occasionnel . 
+Ces travailleurs interviennent en appui aux chefs d’activités pour l’encadrement, et sont 
+rémunérés via le SACA. Pour l’ensemble des CS, l’estimation pour l’année 2024 fait état 
+de 7.715 contrats occasionnels signés dans les CS Adeps, représentant l’équivalent de 
+82 ETP. 
+Par ailleurs, un dispositif particulier concerne les sportifs de haut niveau. En 2025, ceux-
+ci bénéficient de 42,5 ETP répartis de la manière suivante : 20 ETP sous contrats APE 
+(Aides à la Promotion de l’Emploi, mécanisme de financement régional visant à soutenir 
+l’emploi dans le secteur non marchand), 17 ETP sous le payroll du Ministère (DGFPRH), 
+et 5,5 ETP dans le cadre de contrats ACS (Agents contractuels subventionnés), 
+détachés dans les fédérations sportives. 
+---PAGE 32---
+32 
+ 
+Dans le cadre de l’audit, l’objectif est d’examiner l’organisation actuelle et la répartition 
+des ressources humaines au regard des missions, processus et activités identifiés, 
+conformément au périmètre défini. 
+Il convient de noter que les données relatives aux ressources humaines présentées dans 
+ce rapport correspondent aux équivalents temps plein (ETP) arrêtés au début du mois 
+de mai 2025. Elles constituent une photographie de la situation à cette date et sont 
+susceptibles d’ évoluer quotidiennement. Bien qu’elles reflètent globalement 
+l’organisation, de légères variations ont pu survenir au cours de la mission. 
+6.2 Matérielles  
+Notre compréhension du terme «  ressources matérielles  » s’appuie sur la définition 
+suivante : Les ressources matérielles de l' AGS comprennent les infrastructures, le 
+matériel, les espaces dédiés et les espaces naturels. Les infrastructures sont les 
+installations immobilières destinées à la pratique sportive et non sportive, incluant 
+l'hébergement et la restauration. Le matériel inclut les équipements nécessaires pour la 
+pratique des activités sportives, utilisés par les sportifs ainsi que les véhicules qui 
+permettent le transport lors d'un prêt. Les espaces dédiés sont les lieux spécifiquement 
+aménagés pour accueillir des activités sportives. Les espaces naturels sont les 
+environnements extérieurs, aménagés ou non, utilisés pour des activités sportives en 
+plein air. 
+Il convient de préciser que lorsqu’il est question des ressources matérielles des CS , 
+l’analyse porte uniquement sur les infrastructures et équipements des entités qui ne 
+relèvent pas des ASBL de gestion. L’AGS dispose en effet de 17 CS, dont 7 sont gérés 
+pour tout ou partie par des ASBL de gestion.  
+6.3 Technologiques  
+Dans le cadre de cet audit organisationnel, l es ressources technologiques désignent 
+l’ensemble des solutions numériques (logiciels, applications, plateformes en ligne, bases 
+de données, systèmes de gestion et autres technologies informatiques) et des outils de 
+communication (systèmes de messagerie, l es réseaux sociaux, les plateformes de 
+visioconférence, les sites web, et les outils de collaboration en ligne) actuellement 
+utilisés ou en cours de développement par l’AGS, qui concernent ou impactent 
+directement les usagers. Ces ressources incluent toutes les solutions et outils gérés, 
+exploités ou pilotés en interne, en tenant compte des interdépendances avec d'autres 
+entités (ex : l'ETNIC). 
+6.4 Budgétaires 
+Conformément au périmètre de l’audit, les ressources budgétaires sont définies comme 
+suit : Le budget est un acte annuel de prévision des recettes à percevoir et des dépenses 
+à effectuer pour une période déterminée. Il constitue également une autorisation donnée 
+par le pouvoir législatif au pouvoir exécutif pour réaliser ces dépenses et percevoir  ces 
+---PAGE 33---
+33 
+ 
+recettes. Il s’agit donc à la fois d’un acte de prévision, d’autorisation et d’expression 
+politique. Les ressources budgétaires correspondent à l’ensemble des moyens 
+financiers mis à disposition pour financer des projets ou mener à bien des activités au 
+cours d’un exercice budgétaire. Elles représentent des crédits alloués au sein d’un 
+budget, permettant d’engager des obligations financières. Dans le cadre de l’audit, les 
+ressources budgétaires désignent l’ensemble du budget sport de la FWB, réparti entre 
+plusieurs entités : l’AGS, qui se subdivise en SACA Sport et en Division organique 26 ; 
+le Secrétariat général, qui comprend la DGFPRH et la DGI ; l’ETNIC ; ainsi que les 
+différentes ASBL chargées de la gestion des centres Adeps. Ces ressources doivent 
+permettre le bon fonctionnement de chaque entité et la réalisation des objectifs fixés.  
+ 
+---PAGE 34---
+34 
+ 
+7 Réponses aux questions d’audit 
+Dans le cadre de cette évaluation, les réponses aux questions sont formulées en 
+référence aux critères de jugement définis en amont. Pour chaque question, un constat 
+global est établi, suivi de l’attribution d’un score évaluant le degré de conformité au 
+critère suivant l’échelle ci-dessous :  
+ 
+• Atteint : si tous les éléments présents dans le critère de jugement ont été rencontrés. 
+• Satisfaisant : si une partie significative des éléments présents dans le critère de 
+jugement ont été rencontrés. 
+• Partiel : si une partie des éléments présents dans le critère de jugement ont été 
+rencontrés. 
+• Non atteint : si aucun ou une minorité des éléments présents dans le critère de 
+jugement ont été rencontrés. 
+Chaque constat est ensuite développé, avec des explications et illustrations concrètes 
+permettant de justifier l’évaluation. Une évaluation globale des constats synthétise les 
+conclusions de chacun des critères , offrant ainsi une vision intégrée  en réponse à la 
+question d’audit. Pour chaque axe, des recommandations détaillées et opérationnelles 
+sont présentées pour guider l’élaboration du futur plan d’actions. 
+Précaution méthodologique  
+Dans le cadre de cet audit de fonctionnement de l'AGS, il est primordial de préciser que 
+l'évaluation des critères étudiés doit intégrer le degré de contrôle exercé par l' AGS sur 
+ces derniers. En effet, selon les cas, l' AGS peut être entièrement responsable, 
+partiellement impliquée ou ne pas avoir de contrôle direct sur certains aspects évalués. 
+Cette variabilité dans le niveau de responsabilité ou d'influence a été systématiquement 
+prise en compte afin d'éviter toute interprétation biaisée des résultats. Ainsi, pour chaque 
+critère analysé, nous avons explicitement indiqué, lorsque cela était nécessaire, le degré 
+d'implication de l'AGS, tout en tenant compte des facteurs externes ou des contraintes 
+structurelles susceptibles de limiter son champ d'action. 
+Cette démarche garantit une analyse nuancée, tout en évitant de formuler des 
+conclusions qui ne reflètent pas fidèlement la réalité des responsabilités et des capacités 
+de l'AGS. 
+Par ailleurs, l’analyse réalisée a pour objectif de comparer la situation actuelle avec un 
+référentiel de maturité, dont les critères ont été formulés de manière à représenter le 
+niveau de maturité le plus élevé. 
+AtteintSatisfaisantNon atteint Partiel
+---PAGE 35---
+35 
+ 
+Il est important de souligner que l’atteinte de ce niveau maximal ne constitue pas une 
+finalité en soi. Elle relève avant tout d’une décision stratégique, à apprécier en fonction 
+des ressources disponibles, des priorités fixées par les entités et des orientations 
+globales d’une organisation. 
+L’approche retenue vise donc à identifier les écarts entre la situation observée et les 
+pratiques de référence, afin de fournir un éclairage objectif sur les leviers d’amélioration 
+et de soutenir une progression maîtrisée et cohérente vers le niveau de mat urité jugé 
+pertinent. 
+Les tableaux c i-dessous présent ent un premier aperçu,  par axe , de l’évaluation des 
+différentes questions et des critères sous -jacents. Nous y avons également inclus une 
+mention (direct / partagé / indirect) qui précise si l’évaluation porte directement sur l’AGS 
+ou si elle l’évalue de manière indirecte, dans les cas où l’AGS n’a pas la responsabilité 
+finale du critère en raison de dépendances avec d’autres intervenants (DGI, D GFPRH, 
+DGBF, ETNIC, etc.). De plus, il est mentionné dans le tableau pour chacun des critères, 
+quelle(s) recommandation(s) traite(nt) dudit critère. 
+Ces tableaux peuvent ainsi être utilisé s pour identifier de manière transversale les 
+niveaux d’atteinte des critères. 
+En ce qui concerne l’axe usagers5 :  
+ 
+ 
+ 
+5 Les correspondances entre les recommandations et leurs codes (colonne Recommandations) pour l’axe 
+usagers, sont présentées dans la section 6.1.9 Recommandation portant sur l’axe usagers.  
+Critères de jugement 
+Direct / Indirect
+Non atteint
+Partiel
+Satisfaisant
+Atteint
+Recommandation
+Usagers 
+Question 1 : Qui sont les usagers de l’AGS ? (typologie et segmentation)
+Les différents groupes d'usagers sont correctement identifiés et documentés (Typologie). D
+La segmentation des usagers présente des répartitions lisibles par segment. D
+Question 2 : Quels sont les différents services offerts aux usagers ? Quelles sont les différentes 
+réglementations qui les concernent ?
+L’inventaire des différents services proposés est documenté (en ce compris les démarches 
+administratives, les activités proposées, les supports techniques, etc.). D
+Les services proposés sont conformes avec les réglementations en vigueur. D
+Des procédures et des politiques internes régissent les services offerts. D
+Question 3 : Y a-t-il des obstacles géographiques, temporels ou technologiques à l’accès aux 
+services (horaires, fractures numériques,…) ?
+Les services offerts répondent aux critères géographiques de proximité (distance avec les usagers, 
+zones de services, etc.) et d'accessibilité des transports (disponibilité et fréquence des transports 
+publics, infrastructure routière adaptée aux conditions météorologiques, etc.).
+I
+Les services offerts répondent aux critères temporels suivants : des horaires d'ouverture 
+compatibles avec les horaires de travail et de vie des usagers, des temps d'attente maîtrisés, et 
+une disponibilité accrue (fréquence, régularité, flexibilité des rendez-vous en dehors des heures 
+normales de bureau).
+D
+Les services offerts répondent aux critères technologiques tels que : l'accès digital disponible via 
+divers dispositifs numériques (ordinateurs, smartphones, etc.), une assistance technique accessible 
+et des mesures de sécurité robustes, notamment en matière de protection des données.
+D
+U9 
+U10
+U16 
+U20
+U22 
+U23
+---PAGE 36---
+36 
+ 
+ 
+ 
+ 
+ 
+Critères de jugement 
+Direct / Indirect
+Non atteint
+Partiel
+Satisfaisant
+Atteint
+Recommandation
+Usagers 
+Question 4 : Quelles sont les différentes missions menées par l’AGS auprès des usagers ? (conseil, 
+contrôle,…)
+Les missions de l’AGS sont définies et accessible pour l’ensemble des usagers. D U1 
+U2
+Question 5 : Les missions et services actuels de l’AGS répondent-ils aux besoins et attentes des 
+usagers ?
+L’ensemble (ou une partie) des missions actuelles sont orientées vers l’usager. D
+Les besoins et les attentes des usagers sont identifiés et mesurés régulièrement afin d’apporter les 
+ajustements nécessaires. D
+Les missions orientées vers les usagers répondent à tout ou partie de leurs besoins et attentes. D
+Question 6.1 : Description et analyse des différents processus impactant les usagers : Sont-ils 
+clairement définis et expliqués aux usagers ?
+La cartographie des processus est claire, compréhensible et offre la possibilité d’identifier 
+clairement les processus impactant les usagers. D
+Pour les processus impactant les usagers, les informations sont facilement accessibles via 
+différents canaux (site web, brochures, etc.). D
+Les parcours usagers (démarches administratives) sont simplifiés et dématérialisés pour faciliter 
+l'accès et la compréhension. P
+Les agents assurant le support interne sont formés à l'orientation usagers de manière 
+systématique. D
+Question 6.2 : Description et analyse des différents processus impactant les usagers : Les délais 
+de traitement sont-ils raisonnables et respectés ?
+Les délais de traitement sont clairement définis pour chaque processus. D
+Les délais sont suivis et les délais réels de traitement correspondent aux délais définis. D
+Les usagers sont satisfaits des délais de traitement. D
+Des outils de gestion et d'automatisation sont utilisés pour améliorer les délais de traitement. P
+Question 6.3 : Description et analyse des différents processus impactant les usagers :  Les 
+processus répondent-ils efficacement aux missions de l’AGS ?
+La cartographie des processus est claire, compréhensible et permet d'identifier les processus clés 
+à chaque mission de l'AGS. D
+Les processus concernés disposent d’indicateurs qui permettent de confirmer leur efficacité au 
+regard des missions de l’AGS. D
+L'analyse des indicateurs valide l'efficacité des processus évalués. D
+Question 7 : Quels sont les services soumis à la concurrence ? Qui sont les concurrents ?
+L’inventaire des différents services proposés est documenté (en ce compris les démarches 
+administratives, les activités proposées, les supports techniques, etc.). D
+Les principaux concurrents acteurs du marché offrant des services similaires sont clairement 
+identifiés. D
+Les offres de services des concurrents sont (régulièrement) comparées avec celles de l’ADEPS 
+pour identifier les points de concurrence (notamment en termes de types de service, tarification, 
+satisfaction,etc.).
+D
+Question 8 : Est-ce que la satisfaction des usagers est mesurée de manière régulière ? Des plans 
+d’action sont-ils mis en place à la suite de ces mesures ?
+Il existe des dispositifs spécifiques pour recueillir la satisfaction des usagers, tels que des 
+enquêtes, sondages, questionnaires, ou feedbacks automatiques après la prestation de services. D
+La satisfaction des usagers portant sur les services existants est mesurée à intervalles réguliers. D
+La satisfaction des usagers portant sur la pertinence des services offerts est mesurée à intervalles 
+réguliers. D
+Les résultats des mesures de satisfaction sont systématiquement documentés, analysés, et 
+conservés pour une utilisation future. D
+Des plans d’action sont élaborés et mis en œuvre en réponse aux résultats des mesures de 
+satisfaction des usagers. D
+Les actions mises en place sont suivies et évaluées régulièrement pour mesurer leur efficacité et 
+ajuster les stratégies si necessaire. D
+Les plans d’action et les résultats des mesures de satisfaction sont communiqués aux parties 
+prenantes, incluant les usagers et le personnel. D
+Il existe un processus d’amélioration continue basé sur les feedbacks des usagers et les résultats 
+des mesures de satisfaction, visant à optimiser les services et répondre aux attentes des usagers. D
+U23
+U3 
+U4 
+U5 
+U6 
+U8 
+U11 
+U12 
+U17 
+U19 
+U22
+U18 
+U21
+U15
+U13
+---PAGE 37---
+37 
+ 
+En ce qui concerne l’axe ressources humaines6 : 
+ 
+  
+ 
+6 Les correspondances entre les recommandations et leurs codes (colonne Recommandations) pour l’axe 
+ressources humaines, sont présentées dans la section 6.2.1.6 Recommandation portant sur l’axe 
+ressources humaines.  
+Critères de jugement 
+Direct / Indirect
+Non atteint
+Partiel
+Satisfaisant
+Atteint
+Recommandation
+Ressources humaines 
+Question 1 : Est-ce que l’organisation actuelle des ressources humaines est adaptée aux besoins 
+des usagers qu’elle doit satisfaire ?
+L’organisation des ressources humaines s’appuie sur une évaluation régulière et précise des 
+besoins actuels et futurs des usagers, permettant d’adapter en continu les ressources mobilisées. P
+La répartition des effectifs, l’organigramme et les processus RH sont structurés pour répondre 
+efficacement aux missions liées aux usagers. D
+La répartition des ressources humaines tient compte des priorités de service et des variations 
+d’activité, ce qui contribue à limiter les situations de sous-effectif pouvant affecter la qualité du 
+service rendu aux usagers.
+P
+Les profils et compétences du personnel en place correspondent aux missions à réaliser et aux 
+attentes des usagers. D
+Les processus de recrutement, de mobilité interne et de remplacement assurent la continuité du 
+service aux usagers. I
+Question 2 : Est-ce que tous les usagers d’un même groupe sont abordés, traités de la même 
+manière ?
+Des procédures claires et formalisées, connues de tous les agents, encadrent l’accueil et 
+l’accompagnement des usagers au sein d’un même groupe, avec un faible écart entre théorie et 
+pratique.
+D
+Les agents bénéficient d’une formation et d’une sensibilisation régulières à l’application uniforme des 
+procédures pour garantir un traitement standardisé des usagers. D
+Des mécanismes de contrôle ou de suivi existent pour détecter et corriger les écarts éventuels dans 
+le traitement des usagers appartenant au même groupe. D
+Question 3 : Est-ce que la répartition des ressources humaines à disposition de l’AGS est efficiente 
+par rapport aux processus impactant les usagers ?
+La répartition des effectifs par processus est clairement documentée et régulièrement mise à jour 
+afin de mesurer et d’orienter la gestion des ressources humaines. D
+L’allocation des effectifs est objectivement déterminée en fonction du volume, de la complexité et de 
+la fréquence des activités liées aux processus usagers. P
+Des indicateurs de suivi mesurent régulièrement l’efficacité de la répartition des ressources 
+humaines, permettant d’ajuster l’allocation si nécessaire. D
+Question  4 : La délimitation des compétences actuelles correspondent-elles aux services que 
+l’AGS doit rendre ?
+Les compétences de l’AGS sont formalisées et documentées. D
+Les missions exercées par l’AGS en pratique correspondent à celles prévues par le cadre légal 
+définissant ses compétences. D
+L’AGS exerce effectivement, conformément à la loi, l’ensemble des missions correspondant aux 
+besoins des usagers qu’elle doit satisfaire. D
+La répartition des compétences entre l’AGS et d’autres structures ou partenaires est définie de 
+manière précise et sans chevauchement. P
+Question 5 : Existe-t-il des normes de qualité pour l'accueil et le traitement des demandes des 
+usagers ?
+Des normes ou chartes de qualité de service, documentées et adaptées aux spécificités de chaque 
+catégorie d’usagers, encadrent l’accueil et le traitement des demandes. D
+Des indicateurs de performance liés à la qualité des services sont suivis régulièrement et 
+permettent d’identifier les axes d’amélioration et d’ajuster les pratiques en conséquence. D
+Des actions de formation et de sensibilisation à la qualité de service sont régulièrement proposées 
+au personnel. D
+H8
+H1
+H2
+H3
+H4
+H6
+H7
+H8
+H9
+U20
+H8
+H2
+H3
+H5
+U2
+H10
+H11
+---PAGE 38---
+38 
+ 
+En ce qui concerne l’axe ressources matérielles7 : 
+ 
+ 
+  
+ 
+7 Les correspondances entre les recommandations et leurs codes (colonne Recommandations) pour l’axe 
+ressources matérielles, sont présentées dans la section 6.2.2.4 Recommandation portant sur l’axe 
+ressources matérielles.  
+Critères de jugement 
+Direct / Indirect
+Non atteint
+Partiel
+Satisfaisant
+Atteint
+Recommandation
+Ressources matérielles      
+Question 1 : Quelles sont les ressources matérielles mises à disposition des usagers ?
+L'AGS dispose d'un inventaire des infrastructures et équipements qui peuvent être mis à disposition 
+des usagers. D
+L'AGS a une vue complète et actualisée sur la disponibilité des ressources matérielles. D
+Les infrastructures et équipements sont adaptés aux besoins spécifiques des usagers, incluant les 
+différents types de sports et activités mais également les aspects non sportifs (hébergement et 
+restauration).
+D
+Question 2 : Les infrastructures et équipements (sportifs et non sportifs) sont-ils alloués de manière 
+efficiente ?
+Les infrastructures et équipements sont utilisés de manière à maximiser leur utilisation et à éviter les 
+périodes de sous-utilisation. D
+Les centres sont spécialisés dans des activités spécifiques, évitant la duplication des mêmes 
+services et optimisant l'utilisation des moyens disponibles. P
+L'ensemble des installations et équipements sont bien entretenus, garantissant leur qualité et leur 
+durabilité. P
+Les infrastructures et équipements peuvent être facilement reconfigurés ou adaptés pour différents 
+usagers. P
+Le matériel le plus demandé est celui qui est le plus disponible en stock. D
+Les plages horaires sont réparties de manière à permettre à tous les types d'usagers (sportifs de 
+haut niveau, écoles, clubs) d'accéder aux installations et équipements. D
+Question 3 : Les infrastructures sont-elles facilement accessibles ?
+Les infrastructures sont disponibles à des horaires adéquats selon les profils des usagers. D
+Les infrastructures sont situées dans des endroits accessibles par les transports en commun et par 
+la route. I
+Les infrastructures sont bien réparties dans toutes les provinces et à Bruxelles, permettant à un 
+maximum de personnes d'y accéder sans avoir à parcourir de longues distances. I
+Les infrastructures sont bien réparties sur le territoire, assurant une distribution équitable entre les 
+zones urbaines et rurales. I
+Les infrastructures sont adaptées aux personnes à mobilité réduite, avec des rampes, des 
+ascenseurs et des toilettes accessibles. I
+Les tarifs demandés pour l'utilisation des infrastructures sont en adéquation avec le profil des 
+usagers. D
+M4
+M5
+M6
+M7
+M8
+M1
+M2
+M3
+M4
+M5
+M6
+M1
+M2
+M3
+M4
+---PAGE 39---
+39 
+ 
+En ce qui concerne l’axe ressources technologiques8 : 
+  
+ 
+8 Les correspondances entre les recommandations et leurs codes (colonne Recommandations) pour l’axe 
+ressources technologiques, sont présentées dans la section 6.2.3.10 Recommandation portant sur l’axe 
+ressources technologiques.  
+Critères de jugement 
+Direct / Indirect
+Non atteint
+Partiel
+Satisfaisant
+Atteint
+Recommandation
+Ressources technologiques
+Question 1 : Les outils actuels répondent-ils efficacement aux processus impactant les usagers ? 
+Les outils supportent les activités des processus métiers qui concernent/impactent directement les 
+usagers.   P
+Les fonctionnalités offertes par les différents outils sont uniformes pour l’ensemble des usagers. P
+Question 2 : Les outils numériques sont-ils adaptés aux enjeux futurs ? A la diversité des outils 
+utilisés (PC’s, Mobile, …) 
+Les outils sont utilisables sur différents supports (ordinateur, smartphone, tablette) sans perte de 
+fonctionnalités. P
+Les outils fonctionnent de manière stable, sans bugs fréquents, et les données sont sécurisées. I
+Les outils sont régulièrement mis à jour pour corriger les bugs, renforcer la sécurité et proposer de 
+nouvelles fonctionnalités. I
+Question 3 : Quels outils sont disponibles pour les usagers et sont-ils uniformes ?  
+Les outils sont faciles d’accès pour tous les usagers (interfaces claires, intuitives et ergonomiques), 
+y compris ceux ayant des besoins spécifiques (accessibilité numérique, langues, handicap, etc.). P
+Les outils sont facilement identifiables, ils sont bien référencés dans un environnement centralisé. P
+Les outils donnent envie d’être utilisés grâce à leurs fonctionnalités innovantes. P
+Question 4 : Les usagers avec un accès limités aux nouvelles technologies peuvent-ils bénéficier de 
+services équivalents dans des formats traditionnels (par exemple, guichets physiques) ?
+Les services traditionnels offrent les mêmes fonctionnalités que les services numériques. D
+Les services traditionnels sont offerts au sein de chaque CS ou CCS. D
+Les services traditionnels sont disponibles pendant des heures adaptées aux besoins des usagers. D
+Question 5 : Les usagers peuvent-ils facilement effectuer des démarches administratives sur 
+Internet, comme remplir des formulaires ou suivre l'avancement de leurs demandes
+Les usagers peuvent suivre l'avancement de leurs demandes en ligne de manière claire et 
+transparente. P U23
+Question 6 : Les données de l’AGS sont-elles exploitables et accessibles aux usagers pour 
+améliorer leur expérience (par exemple, avec le principe "Only Once")
+Les usagers ne doivent fournir leurs informations qu'une seule fois pour toutes les démarches 
+administratives en ligne. I
+Les données de l’AGS sont intégrées avec d’autres systèmes et plateformes. P
+Les données de l’AGS sont utilisées pour personnaliser et améliorer les services offerts aux 
+usagers. D
+Question 7 : Les outils de communication facilitent-ils le parcours des usagers ? (par exemple, 
+possibilité de réservation dans les Centres ADEPS, accès aux formulaires de demande de 
+subvention, …)
+Des outils de communication sont déployés pour chaque démarche proposée par l’ADEPS, afin de 
+faciliter le parcours de l’usager en répondant à ses besoins spécifiques à chaque étape. D
+Les outils de communication mis en place par l’ADEPS améliorent l’accès à l’information pour tous 
+les usagers, en privilégiant un langage simple et explicite. D
+Les outils de communication sont exploités pour valoriser et faire connaitre les outils de l’AGS. D
+Question 8 : Les infrastructures sont-elles suffisamment équipées (au niveau IT) pour l’accueil de 
+nos usagers ?
+Les infrastructures sont modernes et adaptées aux besoins des usagers en matière d’équipement 
+IT. P
+Les infrastructures IT permettent une connexion rapide et fiable pour les usagers et les agents au 
+service des usagers. P
+Les infrastructures IT sont suffisamment équipées pour gérer un grand nombre d’usagers 
+simultanément. P
+Question 9 : Existe-t-il un système de suivi des demandes des usagers (demande, réclamation, 
+problème technique, …) ?
+Un système de suivi des demandes des usagers est en place et opérationnel. D
+Le système de suivi des demandes des usagers offre une vue de l’avancement de celles-ci en 
+temps réel. D
+Le système de suivi des demandes des usagers permet de répondre rapidement aux besoins des 
+usagers. D
+Les systèmes de suivi permettent d’identifier des besoins usagers récurrents. D
+T1 
+T2 
+T3 
+T4 
+T5 
+T14
+T10 
+T11 
+T12 
+T13
+U13 
+T2 
+T14
+U3
+U17
+T6 
+T7 
+T8 
+T9
+M5
+---PAGE 40---
+40 
+ 
+En ce qui concerne l’axe ressources budgétaires9 : 
+ 
+Tableau 6 : Aperçu, par axe, de l'évaluation des différentes questions et des critères sous-jacents 
+  
+ 
+9 Les correspondances entre les recommandations et leurs codes (colonne Recommandations) pour l’axe 
+ressources budgétaires, sont présentées dans la section 6.2.4.4 Recommandation portant sur l’axe 
+ressources budgétaires.  
+ 
+Critères de jugement 
+Direct / Indirect
+Non atteint
+Partiel
+Satisfaisant
+Atteint
+Recommandation
+Ressources budgétaires
+Question 1 : Les tarifs pratiqués sont-ils homogènes dans les Centres ADEPS ou tout autre activité 
+facturée aux usagers ? Existe-t-il des particularités en matière  de tarification ?
+Les tarifs des locations, des droits d'entrées et abbonnements sont identiques dans tous les 
+centres ADEPS et conformes à la circulaire. D
+Les tarifs pour une même activité sont identiques dans tous les centres ADEPS et conformes à la 
+circulaire. D
+L’ensemble des activités faisant l’objet d’une tarification est repris dans la circulaire. D
+Les prix appliqués par les ASBL de gestion pour les occupations par l’ADEPS tiennent compte du 
+lien institutionnel entre l’ADEPS et les ASBL. P
+Question 2 : Quels sont les processus (services) qui nécessitent le plus de ressources budgétaires 
+? Quels sont ceux qui en génèrent le plus de bénéfices ? Analyse coûts/bénéfices 
+La comptabilité budgétaire permet d’identifier les services qui dégagent les bonis les plus 
+significatifs. P
+Les différentes entités disposent d'un outil analytique permettant une analyse précise des centres 
+de couts/profits et ordres internes. D
+Les budgets de dépenses et de recettes par activités sont en équilibre. D
+La structure et la granularité des budgets des différentes entités permettent une analyse recettes et 
+dépenses par processus (services). P
+Question 3 : Est-ce que les ressources budgétaires disponibles actuellement sont allouées, de 
+manière efficiente , aux missions (service) accomplies par l’AGS ?
+L'efficience est mesurée sur la base des résultats atteints ainsi que des moyens investis plutot que 
+sur la base du taux de réalisation du budget. D
+Les ressources budgétaires permettent de rencontrer des objectifs prédéfinis. D
+Les activités auxquelles sont allouées les ressources budgétaires atteignent les indicateurs de 
+participation. D
+Les activités organisées à l’aide des ressources budgétaires rencontrent un taux suffisant de 
+satisfaction des usagers. D
+Les ressources budgétaires sont distribuées de manière équitable selon le type d’utilisateur. D
+M3
+U6
+B4
+B5
+B6
+B7
+M1
+M2
+M7
+---PAGE 41---
+41 
+ 
+7.1 Axe usagers 
+Précaution méthodologique 
+Les a nalyses ci-dessous s’appuient notamment sur des ateliers usagers. Bien qu’ils 
+aient permis de recueillir des retours riches et pertinents, ces échanges ne sauraient être 
+considérés comme représentatifs de l’ensemble des usagers de l'AGS. La participation 
+a en effet été influencée par plusieurs contraintes organisationnelles, notamment les 
+dates, les horaires et les localisations des ateliers, susceptibles d’avoir limité la diversité 
+des profils présents. Les résultats doivent donc être interprétés comme des contributions 
+qualitatives et contextuelles, et non comme l’expression de la voix de tous les usagers. 
+7.1.1 Question 1 : Qui sont les usagers de l’AGS ? (typologie et segmentation)  
+Critère 1  : Les différents groupes d'usagers sont correctement identifiés et 
+documentés (typologie). (Direct) 
+Le critère est partiellement atteint . L’AGS compte de nombreux usagers 
+répartis en plusieurs groupes et sous -groupes. Cependant, la 
+nomenclature utilisée pour les désigner varie selon les besoins et les 
+utilisateurs de l’information. Ces groupes ne font pas l’objet d’une 
+identification ou d’une documentation formalisée et homogène au sein de 
+la documentation interne. 
+Les recherches menées ont permis de mettre en évidence l’existence de plusieurs 
+sources et bases de données relatives aux usagers. Ces dernières sont gérées de 
+manière décentralisée, selon le type d’usager, et contiennent des informations 
+typologiques hétérogènes, voire incomplètes dans certains cas.  En l’absence d’une 
+typologie officielle, les différents groupes d’usagers ont pu être reconstitués à partir des 
+données disponibles. Cette reconstitution est détaillée dans la section 5.1 « Types 
+d’usagers » du présent rapport. 
+Critère 2  : La segmentation des usagers présente des répartitions lisibles par 
+segment. (Direct) 
+Le critère est partiellement atteint . S i l’AGS  dispose de données 
+actualisées sur ses usagers, celles-ci ne permettent pas encore d’obtenir 
+une segmentation offrant des répartitions claires et exploitables. Les bases 
+de données existantes, régulièrement mises à jour grâce à la collecte 
+annuelle d’informations, sont principalement utilisées dans le cadre 
+d’analyse, par exemple pour vérifier l’éligibilité aux subventions ou gérer les inscriptions 
+aux stages.  
+Ces données ne sont toutefois pas structurées ni collectées dans une logique de 
+segmentation permettant d’identifier et d’analyser les différents profils d’usagers.  Une 
+segmentation est techniquement possible sur certains critères (démographiques, 
+Partiel
+Partiel
+---PAGE 42---
+42 
+ 
+géographiques, thématiques ou organisationnels), tels que présentés dans la section 5.2 
+« Segmentation des usagers » du présent rapport. Cependant, l’absence de 
+centralisation et de réflexion préalable sur les données à collecter limite leur exploitation 
+et ne permet pas de disposer d’une vue consolidée par segment.  
+La disponibilité et la mise à jour régulière des données constituent néanmoins une base 
+solide pour développer une segmentation plus pertinente.  
+ 
+Evaluation globale   
+ 
+L’AGS dispose de données actualisées permettant d’identifier ses principaux types 
+d’usagers, répartis en plusieurs groupes. Pour les besoins de l ’évaluation, 16 types 
+d’usagers ont été identifiés. Cependant, ces groupes ne sont pas formellement définis 
+ni documentés de manière homogène.  Si l’AGS connaît ses usagers, elle ne dispose 
+pas encore des moyens permettant une segmentation exploitable. Cette absence de 
+segmentation limite la capacité à identifier les besoins des usagers, à adapter les 
+services, à garantir la qualité et l’équité d’accès. 
+7.1.2 Question 2 : Quels sont les différents services offerts aux usagers ? 
+Quelles sont les différentes réglementations qui les concernent ? 
+Critère 1  : L’inventaire des différents services proposés  est documenté (en ce 
+compris les démarches administratives, les activités proposées, les supports 
+techniques, etc.). (Direct) 
+Le critère est satisfaisant , mais se doit d’être  nuancé en regard de 
+l’utilisateur ( collaborateur interne ou des usagers externes). En effet, 
+comme mentionné dans le  cadre de cette évaluation, les services aux 
+usagers ont été identifiés en collaboration avec l’équipe projet  interne à 
+l’AGS, aboutissant à la définition de 21 services distincts, repris dans le 
+tableau présenté à la section 4.3  « Services » du présent rapport. Cette classification, 
+issue du travail de cartographie des processus, permet d’obtenir une vue consolidée des 
+services rendus à l’usager. Toutefois, cette répartition n’est pas formalisée ni partagée 
+au sein de toute l’organisation. Au-delà de ces travaux de formalisation pour les besoins 
+du présent exercice, les services offerts aux usagers sont disponibles via le site internet 
+de l’AGS. Le site permet d’accéder à une vue d’ensemble des prestations offertes, 
+incluant les activités sportives, les démarches administratives, les dispositifs de 
+subvention et les différents types d’accompagnement. Toutefois, la structuration de ces 
+informations manque d’homogénéité. 
+L’arborescence du site ne distingue pas toujours clairement les services offerts des 
+publics auxquels ils s’adressent : certaines rubriques sont organisées par type d’usager 
+(ex. : AGS Pro), d’autres par type de service (ex. : label, reconnaissance), ou encore par 
+thématique informative (ex. : éthique sportive). Cette organisation rend la lecture et 
+l’accès aux services parfois complexes, d’autant que tous les usagers n’ont pas accès à 
+l’ensemble des prestations (ex. : prêt de matériel, subventions, Caps ). À noter que le 
+Satisfaisant
+---PAGE 43---
+43 
+ 
+site est actuellement en cours de refonte, avec une arborescence et une navigation plus 
+orientées usagers. Le calendrier et les délais de cette refonte dépendent de la Dircom 
+FWB et de l’ETNIC. 
+Par ailleurs, le niveau de détail varie selon le type de service. Pour les activités sportives 
+(stages, cours, etc.), les informations sont complètes et normalisées précisant 
+notamment l’âge, le centre, les dates, le prix, le niveau requis et la discipline.  
+En revanche, pour les offres plus personnalisées (stages sur mesure, journées 
+pédagogiques, etc.), la description reste sommaire et renvoie souvent vers les 
+infrastructures disponibles ou les services à contacter.  
+L’hétérogénéité s’observe également dans la présentation. S elon les CS , certains 
+publient directement leurs informations sur le site de l’AGS, tandis que d’autres redirigent 
+vers leurs propres pages externes (souvent Facebook). De même, certains services, tels 
+que l’octroi de brevets, mènent vers un autre site dédié à la formation, avec une interface 
+et une structuration différente.  
+Le site de l’ AGS met à disposition un catalogue des démarches administratives 
+permettant d’obtenir certaines informations et formulaires en ligne en quelques clics, ce 
+qui contribue à une meilleure accessibilité pour les usagers.  
+Critère 2 : Les services proposés sont conformes avec les réglementations en 
+vigueur. (Direct) 
+Le critère est atteint, car l’AGS opère dans le respect des différentes bases 
+légales qui encadrent ses activités. L’ensemble des services proposés aux 
+usagers s’appuie sur des décrets spécifiques, répertoriés ci-dessous. 
+Lorsque certains services ne relèvent pas d’un cadre réglementaire 
+particulier, la mention « pas d’application » est indiquée.  
+Service usager Base légale 
+Reconnaissance 
+des associations 
+sportives 
+• 30/03/2007 – Décret organisant la reconnaissance et le subventionnement d’une association 
+de fédérations sportives, de fédérations sportives de loisirs et d’associations sportives 
+francophones. 
+• 23/05/2008 – Décret visant la reconnaissance et le subventionnement du Comité olympique et 
+interfédéral belge. 
+• 11/04/2014 – Décret organisant la reconnaissance et le subventionnement d’une association 
+inter universitaire d’aide à la performance sportive. 
+• 10/07/2014 - Arrêté du Gouvernement de la Communauté française portant reconnaissance 
+d'une association inter universitaire d'aide à la performance sportive. 
+Reconnaissance 
+des centres sportifs 
+• 27/02/2003 – Décret organisant la reconnaissance et le subventionnement des centres 
+sportifs locaux et des centres sportifs locaux intégrés. 
+Atteint
+---PAGE 44---
+44 
+ 
+Reconnaissance 
+des fédérations 
+• 30/03/2007 – Décret organisant la reconnaissance et le subventionnement d’une association 
+de fédérations sportives, de fédérations sportives de loisirs et d’associations sportives 
+francophones. 
+• 30/03/2007 – Arrêté du Gouvernement de la Communauté française fixant la liste des 
+disciplines de tir sportif. 
+• 20/12/2011 – Décret relatif à la pratique du tir sportif. 
+• 18/10/2012 – Arrêté ministériel fixant le modèle de rapport visé à l'article 22 du décret du 20 
+décembre 2011 relatif à la pratique du tir sportif. 
+• 18/10/2012 - Arrêté ministériel fixant les modèles de licence provisoire et de licence de tireur 
+sportif. 
+• 13/09/2012 – Arrêté du Gouvernement de la Communauté française portant exécution du 
+décret du 20 décembre 2011 relatif à la pratique du tir sportif. 
+• 11/02/2021 – Arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 
+50 relatif au tir sportif et au mouvement sportif organisé en Communauté française. 
+Octroi d'une 
+subvention 
+organique 
+• 31/03/2022 – Arrêté fixant la procédure d’introduction des demandes de subventions 
+forfaitaires de fonctionnement des fédérations et associations sportives reconnues. 
+Octroi dune 
+subvention 
+facultative 
+• 19/10/2023 – Arrêté fixant les conditions d’octroi des subventions pour l’organisation de 
+compétitions sportives nationales et internationales. 
+• 19/01/2001 – Arrêté fixant les conditions d’octroi des subventions pour l’achat de matériel 
+sportif. 
+• 14/11/2018 – Décret en matière de subventionnement de l’organisation de modules et de 
+programmes sportifs de promotion et de développement du sport. 
+• 24/10/2008 – Décret déterminant les conditions de subventionnement de l’emploi dans les 
+secteurs socioculturels de la Communauté française. 
+• 05/11/2003 – Arrêté du Gouvernement de la Communauté française relatif à l'achat de 
+matériel sportif destiné aux activités de psychomotricité. 
+Octroi de brevets 
+• 12/10/2000 – Décret portant assentiment à la convention contre le dopage et annexe, faite à 
+Strasbourg le 16 novembre 1989 
+• 01/02/2008 – Décret portant assentiment à la Convention internationale contre le dopage 
+dans le sport, faite à Paris le 19 octobre 2005  
+• 19/04/2012 – Décret portant assentiment à l’Accord de coopération du 9 décembre 2011 
+conclu entre la Communauté flamande, la Communauté française, la Communauté 
+germanophone et la Commission communautaire commune en matière de prévention et de 
+lutte contre le dopage dans le sport 
+• 10/12/2015 - Décret portant assentiment à l'accord de coopération du 17 décembre 2014 
+conclu entre la Communauté flamande, la Communauté française, la Communauté 
+germanophone et la Commission communautaire commune modifiant l'accord de coopération 
+du 9 décembre 2011 conclu entre la Communauté flamande, la Communauté française, la 
+Communauté germanophone et la Commission communautaire commune en matière de 
+prévention et de lutte contre le dopage dans le sport  
+• 14/07/2021 – Décret portant assentiment à l'accord de coopération du 7 mai 2021 conclu 
+entre la Communauté flamande, la Communauté française, la Communauté germanophone et 
+la Commission communautaire commune modifiant l'accord de coopération du 9 décembre 
+2011 conclu entre la Communauté flamande, la Communauté française, la Communauté 
+germanophone et la Commission communautaire commune en matière de prévention et de 
+lutte contre le dopage dans le sport. 
+• 14/07/2021 – Décret relatif à la lutte contre le dopage et à sa prévention  
+• 20/07/1988 – Décret portant approbation de la Convention européenne sur la violence et les 
+débordements des spectateurs lors de manifestations sportives et notamment de matchs de 
+football, faite à Strasbourg le 19 août 1985. 
+• 03/05/2019 – Décret portant sur le mouvement sportif organisé en Communauté française 
+Octroi de labels • 10/05/2013 – Décret instaurant une procédure de reconnaissance des salles de fitness de 
+qualité. 
+---PAGE 45---
+45 
+ 
+Octroi de statuts de 
+sportifs 
+• 17/12/2020 – Arrêté fixant la procédure d’introduction et d’examen des demandes en vue de 
+la reconnaissance comme sportif de haut niveau, arbitre de haut niveau, espoir sportif, etc 
+• 09/02/2011 – Arrêté du Gouvernement de la Communauté française fixant les disciplines 
+sportives et les catégories d'âge en vue de la reconnaissance des sportifs de haut niveau, des 
+espoirs sportifs et des partenaires d'entraînement et abrogeant l'arrêté du Gouvernement de la 
+Communauté française du 10 mars 2010  
+• 08/10/2013 – Arrêté du Gouvernement de la Communauté française portant nomination des 
+membres de la Commission d'avis instituée pour l'octroi ou le retrait de la qualité de sportif de 
+haut niveau, d'espoir sportif ou de partenaire d'entraînement . 
+• 19/11/2020 – Arrêté du Gouvernement de la Communauté française fixant la procédure de 
+reconnaissance et de classement du mouvement sportif organisé ainsi que le 
+subventionnement pour le développement du sport de haut niveau et des formations de cadre 
+• 17/12/2020 – Arrêté du Gouvernement de la Communauté française fixant la procédure 
+d'introduction et d'examen des demandes en vue de la reconnaissance comme sportif de haut 
+niveau, arbitre de haut niveau, espoir sportif, jeune talent, sportif en reconversion et partenaire 
+d'entraînement ainsi que la procédure de retrait de cette reconnaissance. 
+Octroi de contrats 
+de travail aux 
+sportifs 
+Pas d'application 
+Services de double 
+carrière 
+• 17/07/2020 – Circulaire 7671 relative à l’octroi d’un congé pour activités sportives dans 
+l’enseignement. 
+Mise à disposition 
+d'infrastructures 
+(locaux ou 
+hébergements) 
+Pas d'application 
+Entretien et 
+maintenance des 
+infrastructures 
+Pas d'application 
+Service de repas Pas d'application 
+Prêt de matériel 
+sportif Pas d'application 
+Organisation 
+d'activités Pas d'application  
+Support à 
+l'organisation des 
+marches 
+Pas d'application 
+Garantie qualité des 
+formations 
+spécifiques 
+• 21/12/2023 – Arrêté modifiant l’arrêté fixant la procédure de reconnaissance et de classement 
+du mouvement sportif organisé ainsi que le subventionnement pour le développement du sport 
+de haut niveau et des formations de cadre. 
+Représentation 
+dans les instances 
+nationales et 
+internationales 
+Pas d'application 
+Etudes et 
+statistiques Pas d'application 
+---PAGE 46---
+46 
+ 
+Support 
+administratif des 
+activités 
+• 20/10/2011 – Décret instituant le Conseil supérieur des Sports 
+• 20/03/2014 – Décret portant diverses mesures en faveur de l'éthique dans le sport en ce 
+compris l'élaboration du code d'éthique sportive et la reconnaissance et le subventionnement 
+d'un comité d'éthique sportive. 
+• 14/10/2021 – Décret visant l'éthique sportive et instituant un observatoire de l'éthique dans les 
+activités physiques et sportives, ainsi qu'un réseau éthique  
+• 23/11/23 – Décret portant assentiment à la Convention du Conseil de l'Europe sur la 
+manipulation de compétitions, faite à Macolin, le 18 septembre 2014. 
+• 27/03/2003 – Décret portant assentiment à l'accord de coopération du 19 juin 2001 en matière 
+de pratique du sport dans le respect des impératifs de santé, conclu entre la Communauté 
+française, la Communauté flamande, la Communauté germanophone et la Commission 
+communautaire commune. 
+• 08/02/2007 – Arrêté du Gouvernement de la Communauté française nommant les membres 
+de la Commission francophone de Promotion de la Santé dans la pratique du Sport. 
+• 13/11/2009 – Arrêté du Gouvernement de la Communauté française nommant les membres 
+du Conseil de coordination visé à l'article 4 de l'accord de coopération du 19 juin 2001 en 
+matière de pratique du sport dans le respect des impératifs de santé, conclu entre la 
+Communauté flamande, la Communauté française, la Communauté germanophone et la 
+Commission communautaire commune. 
+• 14/11/2018 – Décret modifiant le décret du 20 octobre 2011 relatif à la lutte contre le dopage 
+et modifiant le décret du 10 mai 2013 instaurant une procédure de reconnaissance des salles 
+de fitness de qualité. 
+• 20/12/2011 – Décret portant sur l’organisation du budget et de la comptabilité des services du 
+Gouvernement de la Communauté française (dit « WBFin »).  
+Tableau 7 : Liste des bases légales par service usager 
+Outre ces bases légales propres à chaque service, d’autres textes à portée plus 
+transversale s’appliquent également, notamment en lien avec les orientations politiques, 
+comme la promotion du sport féminin. 
+Les personnes rencontrées dans le cadre de l’audit ont confirmé la bonne application 
+des décrets en vigueur. Celle-ci s’effectue de manière rigoureuse, bien que l’application 
+opérationnelle soit parfois perçue comme administrativement lourde et manquant de  
+clarté. En effet, les critères fixés par certains décrets, jugés trop larges, laissent place à 
+une certaine interprétation dans leur mise en œuvre, ce qui peut engendrer des 
+différences d’appréciation selon les acteurs concernés. 
+Ainsi, bien que les décrets soient  appliqués conformément à leurs dispositions, leur 
+caractère parfois imprécis réduit leur valeur ajoutée. Cette situation est aggravée par la 
+complexité administrative qui accompagne leur mise en œuvre. 
+Critère 3 : Des procédures et des politiques internes régissent les services offerts. 
+(Direct) 
+Le critère est partiellement atteint, car si certains services reposent sur un 
+cadre légal clairement défini, les autres ne sont pas systématiquement 
+encadrés par des procédures internes formalisées. 
+Pour les services régis par un décret ou une base légale, celui-ci fait office 
+de procédure. Ces services sont appliqués conformément aux dispositions 
+réglementaires en vigueur, comme décrit dans le critère précédent. 
+En revanche, pour les services non couverts par un décret (mention « pas d’application 
+»), la formalisation de procédures internes varie selon le type de service : 
+Partiel
+---PAGE 47---
+47 
+ 
+• Octroi d’une subvention organique : Le service d’octroi des subventions organiques 
+bénéficie d’un encadrement légal et réglementaire clair, notamment via le décret 
+relatif au financement des fédérations sportives reconnues ainsi que les arrêtés 
+d’exécution qui en précisent les modalités de c alcul. Les procédures de traitement 
+des demandes, d’engagement budgétaire, de liquidation et de contrôle sont 
+formalisées et appliquées de manière systématique, même si l’interprétation de 
+certains critères légaux reste complexe et peut conduire à des incohérences selon 
+les catégories de fédération. En outre, l’absence de définitions homogènes sur 
+certaines notions ( par exemple : nombre de moniteurs ou d’affiliés actifs) et la 
+difficulté à vérifier l’exactitude des données transmises (par exemple : données 
+relatives aux clubs affiliés) par les bénéficiaires fragilisent le caractère équitable et 
+uniforme du dispositif. De plus, bien que la procédure de liquidation soit formalisée, 
+elle n’est pas appliquée de manière uniforme. Pour certaines subventions organiques, 
+une avance de 80 % est versée, suivie d’un solde de 20 % après validation des 
+rapports d’activités et des pièces justificatives. Dans  d’autres cas, notamment pour 
+les subventions destinées aux CSL/CSLI, l’avance et le solde représentent chacun 
+50 % du montant octroyé. Cette hétérogénéité met en évidence la nécessité 
+d’harmoniser les processus afin de renforcer la cohérence et l’équité du dispositif 
+d’octroi. 
+• Octroi d’une subvention facultative : L’octroi d’une subvention facultative ne repose 
+pas toujours sur un cadre légal structuré. Si certaines aides (ex. plans programmes, 
+formation des cadres) s’appuient sur des bases décrétales, les critères d’éligibilité, 
+les méthodes de calcul, ou encore les plafonds ne sont pas systématiquement définis 
+par voie réglementaire, ce qui laisse une large place à l’appréciation administrative 
+ou ministérielle. Les procédures restent hétérogènes selon les types d’aides (AMS, 
+ASL, etc.) et l’absence d’outils de pil otage harmonisés peut générer un manque 
+d’objectivité, des délais importants ainsi que des risques en matière d’équité de 
+traitement, voire de double financement (à plusieurs niveaux de pouvoir). 
+• Octroi de contrats de travail aux sportifs : L’octroi dépend du statut de sportif de haut 
+niveau, défini par décret. Toutefois, les conditions d’accès (résultats sportifs, objectifs 
+individuels, besoins spécifiques, décision ministérielle et disponibilité budgétaire) ne 
+font pas l’objet de critères publiés ni d’une grille d’évaluation standardisée accessible 
+aux usagers.  Une formalisation existe néanmoins en interne, sous la forme de 
+tableaux d’analyse transmis au Cabinet pour prise de décision. La procédur e (rôles, 
+étapes, calendrier, documents requis) reste partiellement documentée pour les 
+parties prenantes externes. En l’absence de publication des critères et d’une 
+documentation procédurale stabilisée, l’appréciation demeure au cas par cas, ce qui 
+laisse place à une part de subjectivité dans les décisions. 
+• Mise à disposition des infrastructures  : Un cadre uniforme est défini par la 
+coordination générale pour les achats liés aux infrastructures, ce qui assure une 
+certaine cohérence dans les acquisitions. En revanche, la mise à disposition et 
+l’organisation des infrastructures ne font pas l’objet de directives consolidées, chaque 
+centre adapte ses pratiques selon son fonctionnement. Cette situation entraîne des 
+variations dans la formalisation et l’organisation du service d’un centre à l’autre. 
+---PAGE 48---
+48 
+ 
+• Service repas  : La gestion des repas et des menus s’appuie sur les exigences 
+Eurofood et AFSCA, intégrées dans les pratiques opérationnelles et faisant l’objet de 
+contrôles réguliers tracés dans des tableurs. Les cuisiniers suivent un recyclage 
+annuel avec Serge Pieters, diététicien du haut niveau, qui définit une ligne de conduite 
+adaptée à chaque centre. Les régimes alimentaires spécifiques sont pris en compte 
+à la suite des réunions des directeurs. De plus, l e projet « cantine durable » est en 
+cours d’uniformisation à l’échelle des centres.  
+• Entretien et maintenance des infrastructures : Les pratiques dépendent de contrats 
+externes (Veolia, Equans, etc.) ou des équipes techniques locales. Un cadre 
+d’entretien et de maintenance est toutefois bien formalisé et assorti de contrôles 
+stricts, encodés dans des logiciels spécifiques. Les contrôles et visites concernent 
+notamment les pompiers, Vinçotte, la médecine du travail, la DGI et le SIPPT. U n 
+agent dédié veille au suivi des recommandations pour l’ensemble des CS et CCS, et 
+un PIU (plan interne d’urgence) commun est en place pour tous les services.  
+• Prêt de matériel sportif : Ce service dispose de procédures internes formalisées et 
+documentées par le CAPMaS. Les règles de prêt, d’assurance, d’éligibilité et de 
+gestion du matériel sont clairement établies. 
+• Support à l’organisation des marches : Des pratiques internes existent mais ne sont 
+pas documentées ; leur maîtrise repose  essentiellement sur l’expérience des 
+collaborateurs. 
+• Représentation dans les instances officielles et études et statistiques : Le service 
+assure une participation active dans de nombreuses instances officielles ( par 
+exemple : CONFEGES, CIJF, UNESCO, commissions mixtes, Conseil de lutte contre 
+la pauvreté et les inégalités sociales, Yapaka,  etc.), ce qui témoigne d’un rôle 
+structurant et reconnu au niveau institutionnel. Ces mandats reposent sur des 
+attentes définies par les partenaires et s’appuient sur un suivi assuré par les équipes 
+internes. Toutefois, mal gré l’existence de pratiques établies, les modalités internes 
+d’organisation (critères de désignation des représentants, suivi des mandats, 
+diffusion des informations, reporting décisionnel…) ne sont pas formalisées dans des 
+procédures écrites. Ainsi, le cadre opérationnel demeure principalement implicite, ce 
+qui peut limiter la capitalisation des connaissances et la continuité de service en cas 
+de changement d’interlocuteurs. 
+• Organisation d’activités : Seules les activités encadrées par les stages et cours de 
+sport AGS suivent des procédures établies. Pour les autres  activités (non 
+centralisées), les pratiques varient d’un centre à l’autre, selon les agents et leurs 
+connaissances du terrain et de leurs usagers. 
+• Support administratif : La gestion des demandes et la relation avec les usagers 
+dépendent largement des interlocuteurs en place. Certains usagers bénéficient d’un 
+référent identifié, facilitant les échanges, tandis que d’autres peinent à obtenir des 
+réponses, ce qui reflète une absence de cadre uniforme et une organisation encore 
+perçue comme travaillant en silos. 
+Ainsi, hormis pour les services soumis à un décret ou bénéficiant d’une formalisation 
+spécifique (comme le prêt de matériel), la majorité des services reposent davantage sur 
+des pratiques locales non documentées et sur la connaissance individuelle des agents 
+---PAGE 49---
+49 
+ 
+que sur de véritables procédures internes harmonisées. Cette situation engendre des 
+différences d’application, un risque d’incohérence dans la prestation de service et une 
+dépendance forte aux personnes en poste.  
+Ce constat corrobore l’absence, à ce stade, d’un outil permettant d’objectiver la 
+répartition des ressources humaines entre centres d’activités. En pratique, les arbitrages 
+s’appuient sur le regroupement de plusieurs indices (par exemple volumétrie des 
+demandes, fréquentation, contraintes opérationnelles) afin d’étayer au mieux des 
+décisions aussi objectives que possible. 
+ 
+Evaluation globale   
+ 
+Les services identifiés couvrent différents domaines, de la reconnaissance et du soutien 
+aux acteurs sportifs à la mise à disposition d’infrastructures, en passant par les 
+formations, les subventions, le prêt de matériel ou encore le soutien logistique.  
+Cependant, bien qu'une liste de services soit disponible sur le site internet de l’AGS, 
+l’inventaire des services présente une structuration hétérogène, ce qui ne permet pas 
+toujours d’identifier clairement les services destinés à chaque public. 
+Les services sont, pour la plupart, conformes aux décrets et bases légales en vigueur. 
+Leur application est assurée avec rigueur, mais demeure parfois marquée par une 
+lourdeur administrative et un manque de clarté liés aux limites intrinsèques des textes  
+légaux. 
+En revanche, si les dispositifs encadrés par un décret disposent d’un cadre clair, d’autres 
+reposent sur des pratiques locales non documentées et une forte dépendance à la 
+connaissance individuelle des agents. Peu de directives uniformes sont diffusées à 
+l’échelle de l’organisation, ce qui limite l’harmonisation et la traçabilité des pratiques. 
+En résumé, l’ AGS dispose d’une offre de services riche et globalement conforme au 
+cadre réglementaire, mais qui gagnerait à être mieux structurée, centralisée et soutenue 
+par des procédures internes homogènes afin d’assurer une meilleure lisibilité pour les 
+usagers et une plus grande cohérence dans leur application. 
+7.1.3 Question 3  : Y -a-t-il des obstacles géographiques, temporels ou 
+technologiques à l’accès aux services (horaires, fractures numériques, 
+…) ?  
+Critère 1 : Les services offerts répondent aux critères géographiques de proximité 
+(distance avec les usagers, zones de services, etc.) et d'accessibilité des 
+transports (disponibilité et fréquence des transports publics, infrastructure 
+routière adaptée aux conditions météorologiques, etc.). (Indirect) 
+La majorité des services proposés par l’ AGS sont gérés à distance, 
+notamment ceux liés à la reconnaissance, à l’octroi de subsides ou de 
+labels, ce qui limite la contrainte géographique pour les usagers. Ces 
+services peuvent néanmoins être accompagnés en présentiel par les CCS, 
+Satisfaisant
+---PAGE 50---
+50 
+ 
+au nombre de sept, répartis sur Bruxelles et l’ensemble de la Wallonie (un par province, 
+un à Bruxelles, et deux dans le Hainaut -  Est et Ouest). Cette répartition traduit une 
+volonté de garantir une couverture territoriale équilibrée. 
+Les avis des usagers sont partagés quant à la proximité et à l’accessibilité des 
+infrastructures sportives de l’AGS. Certains, comme les écoles, considèrent les centres 
+Adeps bien situés et faciles d’accès, tandis que d’autres, notamment les associations au 
+nom de leurs affiliés , relèvent des difficultés d’accès à plusieurs centres, à l’exception 
+de celui de Louvain- la-Neuve, mieux desservi par les transports publics et les grands 
+axes routiers. À noter que certains sites spécifiques, comme le CAPMaS, bénéficient 
+d’une accessibilité routière directe (proximité de l’E42) et sont aisément accessibles, y 
+compris pour des véhicules utilitaires de grande taille. Les centres plus reculés pâtissent 
+d’une accessibilité limitée, ce qui peut restreindre leur fréquentation, notamment pour 
+les usagers ne disposant pas de moyens de transport individuels. 
+L’organisation des activités sportives (stages, cours, journées pédagogiques, etc.) 
+s’appuie directement sur ces infrastructures réparties sur le territoire, contribuant ainsi à 
+la couverture géographique de l’offre de services. Toutefois, les différences 
+d’accessibilité entre centres peuvent influer sur la participation selon les publics. Le détail 
+de cette répartition territoriale des infrastructures et de leurs caractéristiques sera 
+présenté dans la section dédiée aux ressources matérielles  7.2.2.2. « Ressources 
+matérielles ». 
+Le service de prêt de matériel sportif, dont le dépôt est centralisé à Villers -le-Bouillet, 
+bénéficie d’une bonne accessibilité routière (proximité de l’E42) et concentre sa zone de 
+chalandise prioritaire sur la province d’implantation, qui représente environ 41 % des 
+prêts. La centralisation en un lieu unique présente plusieurs avantages pour les usagers 
+: un interlocuteur unique et des démarches simplifiées, une meilleure visibilité sur 
+l’ensemble de l’offre disponible, l’élimination des confusions liées à la dispersion des 
+stocks, ainsi qu’un modèle plus économique et rationnel sur le plan budgétaire. Pour le 
+cœur de cible (ASBL à vocation sportive), l’impact sur l’accès est limité, celles-ci pouvant 
+bénéficier, dans la plupart des cas, du système de transport proposé. Cela étant, pour 
+certains publics (par exemple des écoles ou structures locales éloignées et sans solution 
+logistique propre), la localisation unique peut encore constituer un frein et conduire à 
+privilégier des acteurs proposant la livraison intégrée. Cette centralisation réduit donc la 
+portée territoriale du service. 
+Enfin, pour le service d’octroi de brevets, l’AGS a introduit des formations générales en 
+ligne, renforçant la flexibilité géographique et l’accessibilité pour les usagers, quelle que 
+soit leur localisation.  L’avis des usagers à ce sujet est très favorable, soulignant la 
+pertinence de cette modalité d’apprentissage à distance. 
+Critère 2 : Les services offerts répondent aux critères temporels suivants : des 
+horaires d'ouverture compatibles avec les horaires de travail et de vie des 
+usagers, des temps d'attente maîtrisés, et une disponibilité accrue (fréquence, 
+régularité, flexibilité des rendez-vous en dehors des heures normales de bureau). 
+(Direct) 
