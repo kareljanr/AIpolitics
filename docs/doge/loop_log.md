@@ -8702,3 +8702,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+48); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_cocom_bi2026_residual_l5**; extracts + write script; rq_723=done; spawn **rq_724**; loop_state ticks=732
 - FOI opened: gap_cocom_bi2026_residual_l5 — ready prio8 (not sent)
 - Next: rq_724; progress@740 in 8; rq_116 deferred
+
+### 2026-08-02T03:15:00Z — tick 733
+- Unit: **rq_724** (FOI-adjacent residual dual — **VGC jaarrekening 2025 residual dual COCOF**)
+- Found (primary VGC JR2025 residual vs tick235 aggregates):
+  - Functional exp: Onderwijs **53.85** (31%) · Cultuur/Jeugd/Sport **43.38** · Alg zaken **46.31** · Welzijn **19.36** · Alg fin **10.73**
+  - Economic: personnel **89.02** (+6.4pct) · werksubs granted **53.88** · fin exp **10.32** · goods **19.04**
+  - Dots: BCR **96.79** (shortfall **1.65**) · VL **50.81** · fed **23.44** = **171.03**; specific werksubs rec **42.24** (VL **36.96**); own rev only **1.98**
+  - Invest: MVA **81.46** (classic **~18.1** + PPS Deleers lease **~64**); invsubs **17.57**
+  - Exp saldo **51.3 vs MJP 30.1** (+21.2 under-spend/treasury); debt **242.1**; dual COCOF SEC **-22.7** / Phare **210**
+- Wrote: budgets (+40); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vgc_jr2025_residual_l5**; extracts + write script; rq_724=done; spawn **rq_725**; loop_state ticks=733
+- FOI opened: gap_vgc_jr2025_residual_l5 — ready (not sent); prior Phare/VGC FOI remains ready
+- Next: rq_725; progress@740 in 7; rq_116 deferred

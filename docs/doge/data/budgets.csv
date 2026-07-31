@@ -14656,3 +14656,43 @@ bud_cocom_comptes_gap_flag,cocom,2026,0,,,estimate,src_ccrek_cocom_bi2026_residu
 bud_dual_iriscare_aviq_af_class,gg_belgium,2026,1081400000,,,budgeted,src_dual_cocom_iriscare_aviq_tick732,strong,Iriscare AF 1081.4m dual AViQ AF ~3.01bn dual Groeipakket; not additive; tick732
 bud_dual_cocom_cocof_class,gg_belgium,2026,2040467000,,,budgeted,src_dual_cocom_iriscare_aviq_tick732,strong,COCOM SCR CL 2040.5m dual COCOF decret CL 677.5; tick732
 bud_dual_samusocial_fedasil_class,gg_belgium,2026,71925000,,,budgeted,src_dual_cocom_iriscare_aviq_tick732,strong,Samusocial multi-fund dual Fedasil/BCR/COCOM homelessness; tick732
+bud_vgc_func_alg_fin_2025,vgc,2025,10730000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Functional Algemene financiering exp 10.73m (lease/debt central); tick733
+bud_vgc_func_alg_zaken_2025,vgc,2025,46310000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Functional Algemene zaken exp 46.31m (26.7pct); tick733
+bud_vgc_func_onderwijs_2025,vgc,2025,53850000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Functional Onderwijs en Vorming exp 53.85m (31.0pct largest); tick733
+bud_vgc_func_cultuur_2025,vgc,2025,43380000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Functional Cultuur Jeugd Sport exp 43.38m (25.0pct); tick733
+bud_vgc_func_welzijn_2025,vgc,2025,19360000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Functional Welzijn Gezondheid Gezin exp 19.36m (11.2pct); tick733
+bud_vgc_func_total_recon_2025,vgc,2025,173630000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Functional exp total 173.63m recon schema T1; tick733
+bud_vgc_econ_goederen_2025,vgc,2025,19040000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Economic goods/services 19.04m; tick733
+bud_vgc_econ_personeel_2025,vgc,2025,89020000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Economic personnel 89.02m (51.3pct; +6.4pct vs 83.6 2024); tick733
+bud_vgc_econ_werksubs_2025,vgc,2025,53880000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Economic granted werksubs 53.88m (31.0pct); tick733
+bud_vgc_econ_fin_uit_2025,vgc,2025,10320000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Economic financial exp 10.32m (lease Deleers PPS activation); tick733
+bud_vgc_personeel_path_plus_6_4pct,vgc,2025,6400000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Personnel path +~6.4m class (+6.4pct) barema/index/staff; cadre underfilled vs MJP; tick733
+bud_vgc_pers_vast_niet_ond_2025,vgc,2025,18383908,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Pers vastbenoemd non-teaching 18.384m; tick733
+bud_vgc_pers_niet_vast_2025,vgc,2025,39329653,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Pers non-vast non-teaching 39.330m; tick733
+bud_vgc_pers_onderwijs_2025,vgc,2025,6995935,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Teaching staff on VGC charge 6.996m; tick733
+bud_vgc_pers_andere_2025,vgc,2025,5011809,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Other personnel costs 5.012m; tick733
+bud_vgc_dot_fed_2025,vgc,2025,23435510,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Dot federal 23.436m; tick733
+bud_vgc_dot_vl_2025,vgc,2025,50810927,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Dot Flanders 50.811m; tick733
+bud_vgc_dot_bcr_2025,vgc,2025,96785278,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Dot BCR 96.785m (shortfall ~1.65m vs plan); tick733
+bud_vgc_dot_total_2025,vgc,2025,171031716,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Dotaties total 171.032m; tick733
+bud_vgc_bcr_shortfall_1_65m,vgc,2025,-1650000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,BCR minderontvangst 1.65m vs plan 2025; tick733
+bud_vgc_spec_werksubs_rec_2025,vgc,2025,42239723,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Specific werksubs received 42.240m (+5.8 vs 36.5 2024); tick733
+bud_vgc_spec_werksubs_vl_2025,vgc,2025,36956424,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Specific werksubs from Flanders 36.956m (was 31.3); tick733
+bud_vgc_spec_werksubs_bcr_2025,vgc,2025,4527422,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Specific werksubs from BCR 4.527m; tick733
+bud_vgc_alg_werksubs_rec_2025,vgc,2025,745000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,General werksubs received 0.745m (reclass to specific); tick733
+bud_vgc_own_werking_rec_2025,vgc,2025,1977747,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Own operation receipts 1.978m (limited own revenue capacity); tick733
+bud_vgc_fin_ont_2025,vgc,2025,5544223,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Financial receipts 5.544m (treasury interest; >> MJP 0.54); tick733
+bud_vgc_dots_subs_total_2025,vgc,2025,214016438,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Dotaties+werksubs received 214.016m; tick733
+bud_vgc_inv_mva_2025,vgc,2025,81458036,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Invest MVA 81.458m (classic ~18.1 + PPS Deleers lease activation ~64); tick733
+bud_vgc_inv_classic_infra_2025,vgc,2025,18100000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Classic own infra invest ~18.1m (buildings 13.0 movable 4.6 imm 0.5); tick733
+bud_vgc_inv_pps_deleers_lease_64m,vgc,2025,64000000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,PPS Deleers lease activation ~64m in use 2025; tick733
+bud_vgc_invsubs_granted_2025,vgc,2025,17566417,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Investment subsidies granted 17.566m (education/welfare/sport); tick733
+bud_vgc_invsubs_onderwijs_ap11_class,vgc,2025,9656966,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Invsubs onderwijs infrastructure class ~9.66m (6.573+3.084 AP11); tick733
+bud_vgc_invsubs_welzijn_ap64_2_82m,vgc,2025,2822923,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Invsubs welzijn AP64 2.823m; tick733
+bud_vgc_exp_saldo_vs_mjp_gap,vgc,2025,21244000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Exp saldo 51.335 vs MJP 30.091 gap +21.24m (under-spend + treasury interest); tick733
+bud_vgc_afschrijvingen_2025,vgc,2025,12450000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,Depreciation 12.45m (vs 42.18 2024; one-off responsabilisering 31.21 2024); tick733
+bud_vgc_responsabiliserings_prov_2024,vgc,2024,31210000,,,outturn,src_vgc_jaarrekening_2025_residual,strong,One-off responsabilisering provision 31.21m booked 2024 for 2025-30; tick733
+bud_dual_vgc_cocof_exp_2025_26,gg_belgium,2025,173627909,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC exp outturn 173.6 dual COCOF decret CL 677.5 2026; not additive; tick733
+bud_dual_vgc_werksubs_vs_phare,gg_belgium,2025,53883069,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC werksubs granted 53.9 dual Phare 210.3 COCOF; different instruments; tick733
+bud_dual_vgc_surplus_vs_cocof_sec,gg_belgium,2025,51335168,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC exp surplus 51.3 dual COCOF SEC path -22.7 2026; tick733
+bud_dual_vgc_debt_vs_cocof,gg_belgium,2025,242125466,,,outturn,src_dual_vgc_cocof_tick733,strong,VGC debt 242.1 dual COCOF path 203.7 2026; tick733
