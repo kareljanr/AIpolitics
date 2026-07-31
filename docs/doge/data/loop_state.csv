@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T06:00:00Z,rq_648,657,no,tick657 solde SEC -2.287bn sous-util 148m fonds 530m dual; next rq_649; progress@660 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T06:15:00Z,rq_649,658,no,tick658 traj SEC +58m 2029 debt ratio 190pct aides 32m dual; next rq_650; progress@660 in 2; rq_116 deferred

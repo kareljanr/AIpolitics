@@ -12140,3 +12140,68 @@ bud_fonds_trafic_fluvial_rec_bi2025,fonds_budgetaires_wal,2025,2000000,,,budgete
 bud_fonds_rdi_rec_bi2025,fonds_budgetaires_wal,2025,22700000,,,budgeted,src_ccrek_fonds_budgetaires_bi2025,strong,Table32 fonds RDI rec 22.7m dep 13.594m; tick657
 bud_sofico_opt_concessions_bi2025,sofico,2025,2000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Sofico concessions recettes +2.0m in consol other corr; tick657
 bud_opt_reductions_fiscales_uap_bi2025,uap_perimeter_wal,2025,5000000,,,budgeted,src_ccrek_solde_financement_bi2025,strong,Optimisation reductions fiscales UAP +5.0m (PP night class); tick657
+bud_traj_sec_bi2025,wallonie_gov,2025,-2286000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 SEC BI2025 -2286m; tick658
+bud_traj_sec_2026,wallonie_gov,2026,-2005000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 SEC path 2026 -2005m; tick658
+bud_traj_sec_2027,wallonie_gov,2027,-1116000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 SEC path 2027 -1116m; tick658
+bud_traj_sec_2028,wallonie_gov,2028,-587000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 SEC path 2028 -587m; tick658
+bud_traj_sec_2029,wallonie_gov,2029,58000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 SEC path 2029 +58m balance target; tick658
+bud_traj_solde_brut_bi2025,wallonie_gov,2025,-2905000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 solde brut a financer BI2025 -2905m (expose traj perimeter); tick658
+bud_traj_solde_brut_2026,wallonie_gov,2026,-3071000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 solde brut 2026 -3071m; tick658
+bud_traj_solde_brut_2027,wallonie_gov,2027,-2291000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 solde brut 2027 -2291m; tick658
+bud_traj_solde_brut_2028,wallonie_gov,2028,-2102000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 solde brut 2028 -2102m; tick658
+bud_traj_solde_brut_2029,wallonie_gov,2029,-1557000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 solde brut 2029 -1557m; tick658
+bud_traj_rec_bi2025,wallonie_gov,2025,19124000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 recettes traj BI2025 19124m (expose path perimeter); tick658
+bud_traj_dep_bi2025,wallonie_gov,2025,22029000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 depenses traj BI2025 22029m; tick658
+bud_traj_rec_2026,wallonie_gov,2026,17931000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 recettes 2026 17931m; tick658
+bud_traj_dep_2026,wallonie_gov,2026,21002000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 depenses 2026 21002m; tick658
+bud_traj_rec_2029,wallonie_gov,2029,18857000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 recettes 2029 18857m; tick658
+bud_traj_dep_2029,wallonie_gov,2029,20414000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 depenses 2029 20414m; tick658
+bud_traj_corr_sec_bi2025,wallonie_gov,2025,619000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 corr SEC package BI2025 619m (regroup -470 + sous-util 609 + autres 480 class); tick658
+bud_traj_corr_sec_2026,wallonie_gov,2026,1066000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 corr SEC 2026 1066m; tick658
+bud_traj_corr_sec_2029,wallonie_gov,2029,1615000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 corr SEC 2029 1615m; tick658
+bud_traj_sous_util_flat,wallonie_gov,2025,609000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table7 sous-util flat 609m each year 2025-2029; tick658
+bud_traj_enreg_reform_2026_29,wallonie_gov,2029,-525200000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Enregistrement reform cum impact -525.2m 2026-2029 (196.8/147.9/114.7/65.8); tick658
+bud_traj_enreg_2026,wallonie_gov,2026,-196800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Enregistrement reform 2026 -196.8m; tick658
+bud_traj_enreg_2027,wallonie_gov,2027,-147900000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Enregistrement reform 2027 -147.9m; tick658
+bud_traj_enreg_2028,wallonie_gov,2028,-114700000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Enregistrement reform 2028 -114.7m; tick658
+bud_traj_enreg_2029,wallonie_gov,2029,-65800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Enregistrement reform 2029 -65.8m; tick658
+bud_traj_succession_2028_29,wallonie_gov,2029,-675600000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Succession reform cum -675.6m 2028-2029 (337.8 each); tick658
+bud_traj_succession_2028,wallonie_gov,2028,-337800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Succession reform 2028 -337.8m; tick658
+bud_traj_succession_2029,wallonie_gov,2029,-337800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Succession reform 2029 -337.8m; tick658
+bud_traj_prw_2028_29,prw_frr_wallonie,2028,150000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,PRW path 150m 2028 and 2029 vs BI2025 2240m; tick658
+bud_traj_flood_loan_code9_yr,wallonie_debt,2025,170600000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Flood insurer loan code9 170.6m/yr to 2031 (no SEC impact); tick658
+bud_dette_directe_eoy2023,wallonie_debt,2023,25274000000,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2023 25274.0m; tick658
+bud_dette_directe_eoy2024est,wallonie_debt,2024,27663000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2024 est 27663.0m; tick658
+bud_dette_directe_eoy2025est,wallonie_debt,2025,29951600000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2025 est 29951.6m; tick658
+bud_dette_directe_eoy2026est,wallonie_debt,2026,31804700000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2026 est 31804.7m; tick658
+bud_dette_directe_eoy2027est,wallonie_debt,2027,32877100000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2027 est 32877.1m; tick658
+bud_dette_directe_eoy2028est,wallonie_debt,2028,33760600000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2028 est 33760.6m; tick658
+bud_dette_directe_eoy2029est,wallonie_debt,2029,34098700000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 dette directe eoy2029 est 34098.7m (+34.9pct vs eoy2023); tick658
+bud_dette_ratio_2023_pct,wallonie_debt,2023,158.9,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 debt/receipts ratio 158.9pct 2023; tick658
+bud_dette_ratio_2025_pct,wallonie_debt,2025,174.2,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 debt/receipts ratio 174.2pct 2025; tick658
+bud_dette_ratio_2027_pct,wallonie_debt,2027,194.8,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 debt/receipts ratio peak-ish 194.8pct 2027; tick658
+bud_dette_ratio_2029_pct,wallonie_debt,2029,190.2,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table17 debt/receipts ratio 190.2pct 2029; tick658
+bud_dette_brute_eoy2025est,wallonie_debt,2025,41100000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Dette brute consolidee eoy2025 est 41.1bn (indirecte flat 11.195); tick658
+bud_dette_hopitaux_part_wal_class,wallonie_debt,2025,3900000000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Hospital debt federalised package 3.9bn still unallocated among entities; increases brute when assigned; tick658
+bud_interets_re_bi2025,wallonie_debt,2025,569800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table16 interets code21 RE BI2025 569.8m; tick658
+bud_interets_swaps_bi2025,wallonie_debt,2025,21700000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table16 swaps BI2025 21.7m; tick658
+bud_interets_spabs_bi2025,wallonie_debt,2025,13700000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table16 SPABS BI2025 13.7m; tick658
+bud_interets_total_bi2025,wallonie_debt,2025,605200000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table16 total interest BI2025 605.2m implicit 2.0pct; tick658
+bud_interets_total_2023,wallonie_debt,2023,372400000,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,Table16 total interest 2023 372.4m implicit 1.5pct; tick658
+bud_interets_total_ba2024,wallonie_debt,2024,493800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,Table16 total interest BA2024 493.8m implicit 1.8pct; tick658
+bud_taux_nouveaux_emprunts_2024_pct,wallonie_debt,2024,3.571,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,New loan rate 2024 3.571pct vs 2021 0.699pct; tick658
+bud_taux_nouveaux_emprunts_2021_pct,wallonie_debt,2021,0.699,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,New loan rate 2021 0.699pct; tick658
+bud_dette_fixed_rate_pct,wallonie_debt,2024,97.1,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,Direct debt fixed-rate share 97.1pct; tick658
+bud_sensi_plus1pct_interet_2025,wallonie_debt,2025,43800000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,+1pct interest sensitivity 2025 43.8m (fixed 36.9 + var 6.9); CoA no expose analysis; tick658
+bud_sensi_plus1pct_interet_2026,wallonie_debt,2026,41200000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,+1pct interest sensitivity 2026 41.2m (fixed 35.4 + var 5.8); tick658
+bud_do_total_ce_bi2025,wallonie_gov,2025,21016449000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,DO table total CE BI2025 21016.449m path eng -874.3m; tick658
+bud_do_total_cl_bi2025,wallonie_gov,2025,22029416000,,,budgeted,src_ccrek_traj_debt_ratio_bi2025,strong,DO table total CL BI2025 22029.416m path liq +245.8m; tick658
+bud_do_total_exec_2024_nov,wallonie_gov,2024,16428938000,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,DO table exec CL 12Nov2024 16428.938m = 75.4pct BA; tick658
+bud_do_total_encours_nov2024,wallonie_gov,2024,7565420000,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,DO table encours 12Nov2024 7565.420m; tick658
+bud_do18_cl_bi2025,wallonie_gov,2025,3786351000,,,budgeted,src_ccrek_do18_aides_invest_bi2025,strong,DO18 CL BI2025 3786.351m path -164.4m; tick658
+bud_do18_ce_bi2025,wallonie_gov,2025,3839169000,,,budgeted,src_ccrek_do18_aides_invest_bi2025,strong,DO18 CE BI2025 3839.169m path -247.5m; tick658
+bud_do18_aides_eco_effort_15m,wallonie_gov,2025,15000000,,,budgeted,src_ccrek_do18_aides_invest_bi2025,strong,Structural save aides eco 15m via DF096.003 reform; tick658
+bud_do18_096003_path_vs_ba,wallonie_gov,2025,-19000000,,,budgeted,src_ccrek_do18_aides_invest_bi2025,strong,DF096.003 eng path -19m vs BA2024 (-15m vs BI2024); tick658
+bud_do18_096003_backlog_2023,wallonie_gov,2024,32000000,,,outturn,src_ccrek_do18_aides_invest_bi2025,strong,700 dossiers 2023 rolled 2024 for 32m eng backlog DF096.003; tick658
+bud_do18_096003_dossiers_backlog,wallonie_gov,2024,700,,,outturn,src_ccrek_do18_aides_invest_bi2025,strong,Backlog COUNT 700 dossiers 2023 to 2024; tick658
+bud_moody_a3_negative,wallonie_debt,2024,0,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,Moody A3 negative Oct2024 (was stable Dec2023); tick658

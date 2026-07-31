@@ -7753,3 +7753,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+fonds_budgetaires_wal); budgets (+53); commitments (+6); leaderboard (+6); sources (+3); FOI draft gap_solde_fonds_sousutil_l5_2025; rq_648=done; spawn rq_649; loop_state ticks=657
 - FOI opened: gap_solde_fonds_sousutil_l5_2025 -- ready (not sent)
 - Next: rq_649; progress@660 in 3 ticks; rq_116 deferred
+
+### 2026-08-01T06:15:00Z -- tick 658
+- Unit: rq_649 (FOI-adjacent dual fiscal/debt hole-fill -- **Trajectoire Table7 SEC to +58m 2029 + debt ratio Table17 + interest sensi + DO18 aides**)
+- Found: **Table7** (primary CoA): SEC path **EUR-2286 / -2005 / -1116 / -587 / +58m** (2025-29); brut **-2905 to -1557**; sous-util flat **EUR609m**; enreg reform cum **-EUR525.2m**; succession **-EUR675.6m**; PRW end **EUR150m**; flood code9 **EUR170.6m/yr**. **Table17:** debt eoy **EUR25.3 to 34.1bn** (+34.9pct); ratio **158.9% to 190.2%**; brute eoy2025 **EUR41.1bn**; hospital unalloc **EUR3.9bn**. **Table16:** interest **EUR605.2m** (RE 569.8 + swaps 21.7 + SPABS 13.7) implicit **2.0%**; new loans **3.571%** vs 2021 **0.699%**; fixed **97.1%**; **+1% sensi EUR43.8m/41.2m**; Moody **A3 negative**. **DO18 aides:** effort **EUR15m**; DF096.003 path **-EUR19m**; backlog **700 dossiers / EUR32m**. Dual **VL Maastricht/VLAIO**. Strong confidence CoA; measures L5 residual FOI.
+- Wrote: entities (+wal_trajectoire_sec); budgets (+65); commitments (+6); leaderboard (+6); sources (+3); FOI draft gap_traj_debt_aides_l5_2025; rq_649=done; spawn rq_650 (progress@660); loop_state ticks=658
+- FOI opened: gap_traj_debt_aides_l5_2025 -- ready (not sent)
+- Next: rq_650; **progress@660 in 2 ticks**; rq_116 deferred
