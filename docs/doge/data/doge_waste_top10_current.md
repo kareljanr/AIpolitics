@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **600** (2026-07-31) · **~2334** leaderboard rows  
+**As-of:** tick **610** (2026-07-31) · **~2389** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
 **Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** · **imec assets 1.69bn** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 590:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 590–600 adds **Flanders dual research stack** (SOC quartet · ILVO/CRA-W agri · VLIZ marine · ISSeP/VITO env) that raise **L2/L5 public RTO completeness and dual-structure map** more than FFS ranking (see high-absurdity + dual tables).
+**Change vs tick 600:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 600–610 adds **WAL dual SACA/UAP + climate agency-scale stack** (Meise · IWEPS/IBSA · AWaP · AWAC/VEKA apparaatrek · FWCN · OPW · APAQ-W) that raise **L2 dual-structure map and agency-vs-domain labelling** more than FFS ranking (see high-absurdity + dual tables).
 
 ### Just outside top 10 (often relevant)
 
@@ -61,6 +61,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_dual_soc_fm_imec_vib_vito_2025` | **—** | **NEW 596** SOC quartet dual map |
 | `lb_dual_agri_craw_ilvo_2025` | **—** | **NEW 598** dual agri CRA-W + ILVO |
 | `lb_dual_marine_vliz_ilvo_2025` | **—** | **NEW 599** dual marine VLIZ + ILVO |
+| `lb_dual_climate_agency_awac_veka_2025` | **—** | **NEW 606** climate agency dual AWAC 19.3m + VEKA apparaatrek 16.8m |
+| `lb_dual_heritage_awap_oe_2025` | **—** | **NEW 604** heritage AWaP 49m + OE 128m |
+| `lb_fwcn_solde_neg_63m_2025` | **6.0** | **NEW 607** disaster fund solde −63m / gov −165m gap |
+| `lb_dual_cap_payer_opw_vl_2025` | **—** | **NEW 608** CAP payer OPW 85m dual VL |
 | `lb_actiris_cpas_spill_34k` | **7.5** | reform spillover DEI→CPAS +83% |
 | `lb_dual_pes_four_rates` | **7.5** | FL6.9 WAL14.3 BRU14.6 DG6.4 |
 | `lb_dual_pt_four_layer` | **7.0** | NMBS+De Lijn+STIB+TEC |

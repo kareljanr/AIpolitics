@@ -7352,3 +7352,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+apaq_w); budgets (+8); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_apaq_ra_campaign_l5_2025; rq_600=done; spawn rq_601; loop_state ticks=609
 - FOI opened: gap_apaq_ra_campaign_l5_2025 ? ready (not sent)
 - Next: rq_601; **progress@610 next tick**; rq_116 deferred
+
+### 2026-07-31T18:15:00Z — tick 610 (PROGRESS MILESTONE)
+- Unit: rq_601 (progress@610 + **dual SACA/UAP wave synthesis** ticks601-609)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **Climate agency dual:** AWAC SEC dep **19.3m** · VEKA apparaatrek BU **16.8m** (lonen **15.9m**; domain E&K **~1.2bn** separate)
+  - **Heritage dual:** AWaP liq **49.1m**/subs **31.3m**/staff **312** · OE Flanders VEK **128m**
+  - **Stats dual:** IWEPS rec **9.1m**/staff **60** · IBSA ops **0.68m**/staff **42** (TCO FOI)
+  - **CAP + disaster + agri promo:** OPW SEC **85.0m** · FWCN dep **73.3m**/solde **-63.3m** (gov **-165m**) · APAQ-W **14.8m** dual VL TK **5.7m**
+  - **Community:** Meise **33.3m**/staff **217** dual VL/FWB
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ dual climate/heritage/stats/CAP/disaster · prior research/utility)
+  - **D L5:** ~**41-54%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**349** · answered ~**9** · total FOI rows ~**363**
+- Inventory: budgets ~**11224** · cmt ~**1219** · lb ~**2389** · sources ~**1191** · entities ~**443**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30)
+- High-abs + dual NEW: climate AWAC/VEKA · heritage AWaP · FWCN solde gap · CAP OPW
+- Gain 600?610: WAL SACA/UAP + climate agency-scale dual wave
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual wave; FOI **gap_dual_saca_uap_fte_matrix_l5** ready+draft; rq_601=done spawn **rq_602**; ticks=610
+- FOI opened: gap_dual_saca_uap_fte_matrix_l5 (ready, human send) - not sent
+- Next: prio5 **rq_602**; deferred **rq_116**; progress@620 in 10 ticks

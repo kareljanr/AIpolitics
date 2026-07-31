@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T18:00:00Z,rq_600,609,no,tick609 APAQ-W dep 14.759m dual agri promo VL; next rq_601; progress@610 next; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T18:15:00Z,rq_601,610,no,tick610 progress@610 dual SACA/UAP wave; next rq_602; progress@620 in 10; rq_116 deferred

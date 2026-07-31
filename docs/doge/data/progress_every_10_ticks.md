@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 610** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual climate agency (AWAC/VEKA apparaatrek) · dual heritage AWaP/OE · dual stats IWEPS/IBSA · dual CAP OPW · dual disaster FWCN · dual agri promo APAQ-W · dual community Meise · prior research SOC/utility retained |
+| **D. L5 named / measure end-lines** | **~41-54%** of TE (generous) | **Gain 600→610 is WAL SACA/UAP + dual climate/heritage/stats/CAP/disaster wave:** Meise ontvangsten **33.3m**/staff **217** dual VL/FWB · IWEPS rec **9.1m**/staff **60** · IBSA ops liq **0.68m**/staff **42** (TCO FOI) · AWaP liq **49.1m**/subs **31.3m**/staff **312** · AWAC SEC dep **19.3m** · VEKA apparaatrek BU **16.8m** (lonen **15.9m**) agency dual · FWCN dep **73.3m**/solde **−63.3m** (flood path; gov objectif **−165m**) · OPW SEC **85.0m** balanced · APAQ-W dep **14.8m** dual VL TK promotie **5.7m** · FOI still bulk ASBL/firm + claim/campaign L5 + dual FTE matrices |
+| **E. FOI-ready gaps** | **~349** drafts ready | Human send only; answered **~9**; total FOI rows **~363** (+ Meise final · IWEPS outturn · IBSA TCO · AWaP subs · AWAC/VEKA staff · FWCN claims · OPW RA · APAQ campaign · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **utility/RTO balance sheets** (imec **1.69bn** · VIB **309m** · FM **235m** · SPAQuE **534m**) · Waterunie fusion TCO residual · FWCN flood stock timing (subs 2022-23 / pay 2024-25).
+
+### Inventory (tick 610)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~11224 |
+| commitments.csv | ~1219 |
+| leaderboard.csv | ~2389 |
+| entities.csv | ~443 |
+| sources.csv | ~1191 |
+| FOI ready | ~349 |
+| FOI answered | ~9 |
+| FOI total rows | ~363 |
+| research_queue | ~597 (open: rq_116 deferred + rq_602 hole-fill after progress) |
+
+### What improved since tick 600
+
+- **Dual community + stats (tick601–603):** Plantentuin Meise ontvangsten **€33.3m** / uitgaven **€30.0m** staff **217** (VL **101** · FWB **25** · own **91**) · IWEPS rec **€9.1m** / dep **€11.4m** staff **60** · IBSA ops-only liq **€0.68m** / staff **42** (personnel in Perspective parent — TCO FOI).
+- **Dual heritage + climate agency-scale (tick604–606):** AWaP liq **€49.1m** subs eng **€31.3m** staff **312** dual OE Flanders VEK **€128m** · AWAC SACA SEC dep **€19.3m** · VEKA apparaatrek BU **€16.8m** (BA **€18.5m**; lonen **€15.9m**; domain E&K **~€1.2bn** separate policy package).
+- **Dual disaster + CAP + agri promo (tick607–609):** FWCN Type1 dep SEC **€73.3m** / solde **−€63.3m** (gov objectif **−€165m** flood 2021 path) · OPW SACA SEC **€85.0m** balanced (BA2025b **€87.9m**) dual VL Landbouw **€141m** · APAQ-W Type2 dep **€14.8m** dual VL TK promotie **€5.7m**.
+
+---
+
 ## Snapshot at **tick 600** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
