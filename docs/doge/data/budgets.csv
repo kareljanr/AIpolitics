@@ -9934,3 +9934,56 @@ bud_vl_debt_vmsw_2025,vmsw,2025,3123400000,,,outturn,src_ccrek_vl_rekeningen_202
 bud_vl_debt_school_invest_2025,school_invest,2025,933400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,School Invest debt 933.4m eoy2025; tick556
 bud_vl_debt_vipa_2025,vipa,2025,798400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,VIPA debt 798.4m eoy2025; tick556
 bud_vl_debt_gsc_2025,vlaanderen_gov,2025,553200000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Groene stroomcertificaten debt component 553.2m eoy2025; tick556
+bud_relance_raming_2025,vlaanderen_gov,2025,741500000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Relance VEK raming BA2025 741.5m; tick557
+bud_relance_spend_2025_rr,vlaanderen_gov,2025,399400000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Relance spend 399.4m 2025; underuse 342.1m; tick557
+bud_relance_underuse_2025,vlaanderen_gov,2025,342100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Total underuse vs BA raming 342.1m Table39; tick557
+bud_vv013_spend_2025,vlaanderen_gov,2025,44700000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV013 fietsnetwerk spend 44.7 vs raming 63.6 underuse 18.9; tick557
+bud_vv013_underuse_2025,vlaanderen_gov,2025,18900000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV013 underuse 18.9m 2025; tick557
+bud_vv014_spend_2025,vlaanderen_gov,2025,38800000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV014 gemeentewegen fiets 38.8 vs 131.0 underuse 92.2; tick557
+bud_vv014_underuse_2025,vlaanderen_gov,2025,92200000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV014 underuse 92.2m largest 2025; deadline extended; tick557
+bud_vv017_underuse_2025,vlaanderen_gov,2025,10300000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV017 kwetsbaren underuse 10.3m (double-count raming 10.4 already 2024); tick557
+bud_vv018_underuse_2025,vlaanderen_gov,2025,12500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV018 opleidingsoffensief underuse 12.5m; competentiechecks cut 10 to 3m; tick557
+bud_vv022_underuse_2025,vlaanderen_gov,2025,17300000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV022 O&O underuse 17.3m; firm bankruptcy 11.0m project; tick557
+bud_vv047_underuse_2025,vlaanderen_gov,2025,34400000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV047 waterstof underuse 34.4m; EU cut 75 to 61.2m; tick557
+bud_vv048_underuse_2025,vlaanderen_gov,2025,20200000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV048 LED lighting underuse 20.2m quality issues; tick557
+bud_vv013_open_liq_2025,vlaanderen_gov,2025,48000000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV013 still to liquidate 48.0m (commit 252.1 EU 210.9 paid 204.1); tick557
+bud_vv014_open_liq_2025,vlaanderen_gov,2025,92200000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV014 open liq 92.2m (commit 156.7 paid 64.5); tick557
+bud_vv047_open_liq_2025,vlaanderen_gov,2025,87100000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV047 open liq 87.1m (commit 125 paid 37.9 EU 61.1); tick557
+bud_vv099_open_liq_2025,vlaanderen_gov,2025,48100000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV099 erfgoed open 48.1m; ~15m spills to regular budget 2026-32; tick557
+bud_vv110_open_liq_2025,vlaanderen_gov,2025,57500000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VV110 congresinfra open 57.5m (commit 70.5 paid 12.9); peak 2029-31; tick557
+bud_relance_open_liq_top_2025,vlaanderen_gov,2025,664000000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Table40 largest open-to-liq projects sum 664m (includes Andere 331.1); tick557
+bud_relance_pmv_biotech_realloc,pmv,2026,39800000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Unused RRF 39.8m (23.3 relance+16.6 REPower) reallocated PMV biotech capital by 31 Jul 2026; tick557
+bud_repowereu_vl_initial,vlaanderen_gov,2023,208000000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,REPowerEU VL envelope initial 208m; tick557
+bud_repowereu_vl_revised,vlaanderen_gov,2025,191400000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,REPowerEU cut -16.6m to 191.4m 2025; tick557
+bud_repowereu_vl_paid_cum_2025,vlaanderen_gov,2025,107700000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,REPowerEU paid cum eoy2025 107.7m (34.5 to 2024 +72.2 in 2025); residual ~83.7 for 2026; tick557
+bud_repowereu_vl_spend_2025,vlaanderen_gov,2025,72200000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,REPowerEU liquidation 72.2m 2025; tick557
+bud_repowereu_vak_carry_eoy2024,vlaanderen_gov,2024,76700000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,REPowerEU unused VAK eoy2024 76.7m; eoy2025 27.5 then lapsed; ~25m still needed 2026; tick557
+bud_repowereu_vak_unused_eoy2025,vlaanderen_gov,2025,27500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,REPowerEU unused VAK eoy2025 27.5m lapsed no carry rule; tick557
+bud_pas_decree_envelope_2022_30,vlaanderen_gov,2022,3649000000,,,commitment,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Stikstofdecreet estimated budget impact 3.649bn 2022-2030; tick557
+bud_pas_provisie_available_2025,vlaanderen_gov,2025,434300000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,PAS provisie available 2025 434.3m (carry 234.3 + new); tick557
+bud_pas_redistrib_vak_2025,vlaanderen_gov,2025,186500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,PAS redistributed VAK 186.5m 2025 flank measures; tick557
+bud_pas_redistrib_vek_2025,vlaanderen_gov,2025,85200000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,PAS redistributed VEK 85.2m 2025; tick557
+bud_pas_carry_vak_2026,vlaanderen_gov,2026,244300000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,PAS VAK carry to 2026 244.3m; VEK underuse 114.3m 2025; tick557
+bud_pas_underuse_vek_2025,vlaanderen_gov,2025,114300000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,PAS VEK underuse 114.3m 2025; tick557
+bud_overkapping_wrong_carry_2025,lantis,2025,39500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Overkappingsfonds wrong carry +39.5m VAK to 2026 (missing year-end reclass); tick557
+bud_spoor_cofin_carry_2026,vlaanderen_gov,2026,108100000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Cofinanciering spoor/combimobiliteit carry 108.1m to 2026; idle since 2018 almost no projects; tick557
+bud_culture_infra_impulse_2025,vlaanderen_gov,2025,100000000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Culture infra impulse +100m 2025 regeerakkoord; commit 43.1 carry to 76.9; tick557
+bud_culture_infra_commit_2025,vlaanderen_gov,2025,43100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Culture infra VAK committed 43.1m of 100m impulse 2025; tick557
+bud_culture_infra_carry_2026,vlaanderen_gov,2026,76900000,,,budgeted,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Culture infra VAK carry 76.9m to 2026 (incl prior Gent opera 20); tick557
+bud_energiefonds_vak_carry_2025,vlaanderen_gov,2025,208000000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Energiefonds VAK carry eoy2025 208.0m (from 236.4); tick557
+bud_verkeersveiligheid_vak_2025,vlaanderen_gov,2025,85200000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Verkeersveiligheidsfonds VAK carry 85.2m eoy2025; receipts error dual FOD Fin; tick557
+bud_onderwijs_lonen_fonds_vek_2025,vlaanderen_gov,2025,123300000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Terugvordering lonen onderwijs fonds VEK ~123.3m eoy2025 (from ~183.9); tick557
+bud_vlaio_support_paid_2025,vlaio,2025,971100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VLAIO total support paid 971.1m 2025 Table41; tick557
+bud_vlaio_recoveries_2025,vlaio,2025,50800000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VLAIO recoveries booked 50.8m 2025; tick557
+bud_vlaio_receivables_eoy2025,vlaio,2025,125600000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VLAIO open receivables eoy2025 125.6m; tick557
+bud_vlaio_impaired_eoy2025,vlaio,2025,93500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VLAIO impaired doubtful receivables 93.5m eoy2025 (100pct provision); tick557
+bud_vlaio_writeoffs_2025,vlaio,2025,26100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,VLAIO write-offs 26.1m 2025; tick557
+bud_vlaio_corona_paid_2020,vlaio,2020,1896100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona support paid 1896.1m 2020; tick557
+bud_vlaio_corona_paid_2021,vlaio,2021,740300000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona support paid 740.3m 2021; tick557
+bud_vlaio_corona_receivables_2025,vlaio,2025,57000000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona receivables eoy2025 57.0m of which impaired 43.7; tick557
+bud_vlaio_eco_receivables_2025,vlaio,2025,28500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Ecologiepremie receivables eoy2025 28.5m impaired 26.9 writeoffs 16.6; tick557
+bud_vlaio_corona_inspect_paid_cum,vlaio,2025,2627600000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona measures Table42 total paid 2627.6m / 642133 dossiers; tick557
+bud_vlaio_corona_inspect_ctrl_cum,vlaio,2025,384600000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona inspected 384.6m (15pct of paid) / 50435 dossiers; tick557
+bud_vlaio_corona_recover_after_annul,vlaio,2025,196500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona recovered after annul 196.5m (~51pct of inspected EUR); tick557
+bud_vlaio_hinderpremie_paid,vlaio,2020,1160900000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona hinderpremie paid 1160.9m; recover after annul 89.5; tick557
+bud_vlaio_event_advance_recover,vlaio,2025,35100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Event sector repayable advance: paid 50.3 inspected 23.0 recover 35.1 after annul; tick557

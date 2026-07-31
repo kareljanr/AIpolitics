@@ -6758,3 +6758,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +44; cmt +4; lb +8; FOI **gap_lantis_vastleg_nec4_l5** ready+draft; rq_547=done spawn **rq_548**; ticks=556
 - FOI opened: gap_lantis_vastleg_nec4_l5 (ready, human send) - not sent; related gap_lantis_oosterweel_cash / gap_vl_debt_nonbudget_bridge_l5 still ready
 - Next: prio5 **rq_548**; deferred **rq_116**; progress@560 in 4 ticks
+
+### 2026-07-31T09:30:00Z - tick 557
+- Unit: **rq_548** (FOI-adjacent hole-fill - **CoA 2026_32 residual relance underuse L5 + PAS/REPowerEU + VLAIO recovery**)
+- Found (strong primary Rekenhof RR2025 §4.3-4.5; million-EUR):
+  - **Relance 2025:** raming **741.5** / spend **399.4** / underuse **342.1** (Table39): VV014 **92.2** · VV047 **34.4** · VV048 **20.2** · VV013 **18.9** · VV022 **17.3** (bankrupt 11) · VV018 **12.5** · VV017 **10.3**
+  - **Open to liq Table40 ~664m class:** VV014 **92.2** · VV047 **87.1** · VV110 **57.5** · VV013 **48** · VV099 **48.1** (+Andere **331**); cum open **0.7bn**; deadline **30 Jun 2026** EU; PMV biotech realloc **39.8**
+  - **REPowerEU:** **208→191.4** (-16.6); paid cum **107.7** (2025 **72.2**); residual ~**83.7** for 2026; VAK lapse **27.5**
+  - **PAS stikstof:** envelope **3.649bn** 2022-30; 2025 available **434.3** redistrib VAK **186.5** / VEK **85.2**; carry **244.3**; underuse VEK **114.3**
+  - **Idle/ops:** overkapping wrong carry **39.5**; spoor cofin idle **108.1** since 2018; culture infra +**100** commit **43.1** carry **76.9**
+  - **VLAIO Table41 2025:** support **971.1** · recoveries **50.8** · receivables **125.6** · impaired **93.5** · writeoffs **26.1**; corona 2020-21 **1896+740**; Table42 paid **2627.6** inspect **15%** recover after annul **196.5**
+- Wrote: sources +2; budgets +53; cmt +6; lb +8; FOI **gap_vlaio_recovery_kpi_l5** ready+draft; rq_548=done spawn **rq_549**; ticks=557
+- FOI opened: gap_vlaio_recovery_kpi_l5 (ready, human send) - not sent; gap_vl_accounts_balance_l5 notes partial fill
+- Next: prio5 **rq_549**; deferred **rq_116**; progress@560 in 3 ticks

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:25:00Z,rq_547,556,no,tick556 CoA RR residual Lantis 2.42bn open verb 7.37bn; next prio5 rq_548; progress@560 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T09:30:00Z,rq_548,557,no,tick557 relance underuse 342m + VLAIO recovery; next prio5 rq_549; progress@560 in 3; rq_116 deferred
