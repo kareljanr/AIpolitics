@@ -11495,3 +11495,16 @@ bud_guichet_bricoult_dep_2025,guichets_sociaux_wal,2025,2868583,,,budgeted,src_c
 bud_guichet_credissimo_hainaut_dep_2025,guichets_sociaux_wal,2025,2396000,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Credissimo Hainaut dep BI2025 2.396m; tick632
 bud_guichet_hainaut_terrienne_dep_2025,guichets_sociaux_wal,2025,2416590,,,budgeted,src_ccrek_guichets_sociaux_bi2025,strong,CoA named L5 Societe terrienne credit social Hainaut dep BI2025 2.417m; tick632
 bud_dual_guichets_swcs_class_2025,gg_belgium,2025,49894963,,,budgeted,src_dual_guichets_swcs_vwf_tick632,strong,Guichets 49.9m dual SWCS 215.6m FLW 121m class not additive; tick632
+bud_craw_rec_sec_bi2025,cra_w,2025,51370000,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Table33 CRA-W recettes SEC BI2025 51.370m; tick633
+bud_craw_dep_sec_bi2025,cra_w,2025,54292000,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Table33 CRA-W depenses SEC BI2025 54.292m; tick633
+bud_craw_solde_sec_bi2025,cra_w,2025,-2922000,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Table33 CRA-W solde SEC BI2025 -2.922m; tick633
+bud_craw_rec_sec_ba2024,cra_w,2024,50882000,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Table33 CRA-W recettes SEC BA2024 50.882m; tick633
+bud_craw_dep_sec_ba2024,cra_w,2024,52340000,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Table33 CRA-W depenses SEC BA2024 52.340m; tick633
+bud_craw_solde_sec_ba2024,cra_w,2024,-1458000,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Table33 CRA-W solde SEC BA2024 -1.458m; path solde -1.464m; tick633
+bud_craw_impact_solde_bi2025,cra_w,2025,-1460000,,,budgeted,src_ccrek_craw_sec_bi2025,medium,CoA impact Type1 Cra-W solde BI2025 -1.460m (flat vs BA2024; recon vs annex -2.922m residual); tick633
+bud_craw_119quater_cost_2025,cra_w,2025,864640,,,budgeted,src_ccrek_craw_sec_bi2025,strong,CoA Annex4 119quater CRA-W 56 agents cost est 0.865m 2025; tick633
+bud_filiere_bois_dep_bi2025,filiere_bois_wal,2025,2929304,,,budgeted,src_ccrek_filiere_bois_wel_bi2025,strong,CoA Filiere bois rec=dep BI2025 2.929m balanced; tick633
+bud_filiere_bois_dep_ba2024,filiere_bois_wal,2024,3551399,,,budgeted,src_ccrek_filiere_bois_wel_bi2025,strong,CoA Filiere bois dep BA2024 3.551m solde -0.666m; tick633
+bud_wel_research_dep_bi2025,wel_research,2025,1695968,,,budgeted,src_ccrek_filiere_bois_wel_bi2025,strong,CoA WEL Research dep BI2025 1.696m solde +0.009m; tick633
+bud_wel_research_dep_ba2024,wel_research,2024,1252100,,,budgeted,src_ccrek_filiere_bois_wel_bi2025,strong,CoA WEL Research dep BA2024 1.252m; tick633
+bud_dual_craw_ilvo_dep_class_2025,gg_belgium,2025,54292000,,,budgeted,src_dual_craw_ilvo_sec_tick633,strong,CRA-W dep SEC 54.3m dual ILVO EV 50.3m class not additive; tick633

@@ -7553,3 +7553,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+guichets_sociaux_wal); budgets (+12); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_guichets_sociaux_l5_2025; rq_623=done; spawn rq_624; loop_state ticks=632
 - FOI opened: gap_guichets_sociaux_l5_2025 -- ready (not sent)
 - Next: rq_624; progress@640 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T00:00:00Z -- tick 633
+- Unit: rq_624 (FOI-adjacent dual agri research hole-fill -- **CRA-W** CoA Table33 Type1 dual ILVO + Filiere bois/WEL residual)
+- Found: **CRA-W** (primary CoA Table33 Type1). **BI2025:** rec **EUR51.370m** / dep **EUR54.292m** / solde **-EUR2.922m**. **BA2024:** rec **EUR50.882m** / dep **EUR52.340m** / solde **-EUR1.458m** (path dep **+EUR1.952m** / solde **-EUR1.464m**). Impact Type1 flat **-EUR1.460m** both years (recon residual vs annex). 119quater **56** agents **EUR0.865m**. Prior decret dep class **EUR54.839m**. Dual **ILVO** IVA **EUR24.9m** / EV **EUR50.3m** / staff **756**. Residual: **Filiere bois** BI2025 balanced **EUR2.929m** (BA2024 solde **-EUR0.666m**); **WEL Research** dep **EUR1.696m**. Strong confidence CoA; solde recon FOI.
+- Wrote: entity update cra_w +filiere_bois_wal +wel_research; budgets (+13); commitments (+4); leaderboard (+6); sources (+3); FOI draft gap_craw_sec_recon_l5_2025; rq_624=done; spawn rq_625; loop_state ticks=633
+- FOI opened: gap_craw_sec_recon_l5_2025 -- ready (not sent)
+- Next: rq_625; progress@640 in 7 ticks; rq_116 deferred

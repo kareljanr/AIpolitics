@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T23:45:00Z,rq_623,632,no,tick632 Guichets sociaux 49.9m L5 dual SWCS; next rq_624; progress@640 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T00:00:00Z,rq_624,633,no,tick633 CRA-W SEC 54.3m dual ILVO Filiere bois WEL; next rq_625; progress@640 in 7; rq_116 deferred
