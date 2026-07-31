@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T07:15:00Z,rq_731,740,no,tick740 progress@740 L2~99 L5~53-67 FOI ready~473; next rq_732; rq_116 deferred; housing dual wave 731-739
+main,continuous,hole_fill,2026-08-02T07:45:00Z,rq_732,741,no,tick741 VMSW JV/JR2025 residual dual SWL/SLRB/FLRBC; next rq_733; progress@750 in 9; rq_116 deferred

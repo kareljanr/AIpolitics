@@ -15023,3 +15023,55 @@ bud_flrbc_offbal_securities_3_397bn_2025,flrbc,2025,3397087251,,,outturn,src_flr
 bud_dual_flrbc_encours_1_607bn_vs_vwf_swcs,gg_belgium,2025,1607000000,,,outturn,src_dual_flrbc_vwf_swcs_slrb_tick739,strong,FLRBC encours 1.607bn dual VWF 9.698 / SWCS 1.749 / SWL debt 2.742 / SLRB 1.672; tick739
 bud_dual_flrbc_gl_npl_22pct_vs_vwf_swcs,gg_belgium,2025,252230,,,outturn,src_dual_flrbc_vwf_swcs_slrb_tick739,strong,FLRBC GL arrears 22pct dual VWF HW 9pct / SWCS garantie 31pct; tick739
 bud_dual_flrbc_funding_freeze_2025,gg_belgium,2025,130000000,,,outturn,src_dual_flrbc_vwf_swcs_slrb_tick739,strong,FLRBC loans raised only 130m (was 260) + credit freeze Jul-Dec dual caretaker funding risk; tick739
+bud_vmsw_fs3_budget_870m_2025,vmsw,2025,870000000,,,budgeted,src_vmsw_jv2025_residual,strong,FS3 total annual budget 870m 2025 (NB 478.5 + RENO 391.5) same as 2024; tick741
+bud_vmsw_fs3nb_budget_478_5m_2025,vmsw,2025,478500000,,,budgeted,src_vmsw_jv2025_residual,strong,FS3NB nieuwbouw budget 478.5m 2025; tick741
+bud_vmsw_fs3reno_budget_391_5m_2025,vmsw,2025,391500000,,,budgeted,src_vmsw_jv2025_residual,strong,FS3RENO budget 391.5m 2025; tick741
+bud_vmsw_fs3_assigned_0_2025,vmsw,2025,0,,,outturn,src_vmsw_jv2025_residual,strong,FS3 assigned 0 in calendar 2025 (can still assign in 2026 on 2025 budget); tick741
+bud_vmsw_fs3_budget_870m_2024,vmsw,2024,870000000,,,budgeted,src_vmsw_jv2025_residual,strong,FS3 total budget 870m 2024; tick741
+bud_vmsw_fs3_assigned_761_701m_2024,vmsw,2024,761701052.52,,,outturn,src_vmsw_jv2025_residual,strong,FS3 assigned 761.701m 2024 incl retro 2025 zero-rate WM formation loans (87.55pct); tick741
+bud_vmsw_fs3_underuse_108_299m_2024,vmsw,2024,108298947.48,,,outturn,src_vmsw_jv2025_residual,strong,FS3 underuse 108.299m 2024; of which 100m reserved basiskoten 2026; effective lost 8.2m; tick741
+bud_vmsw_fs3_effective_lost_8_2m_2024,vmsw,2024,8200000,,,outturn,src_vmsw_jv2025_residual,strong,FS3 effective lost budget 8.2m after 100m basiskoten re-auth 2026; tick741
+bud_vmsw_fs3nb_assigned_345_872m_2024,vmsw,2024,345872271,,,outturn,src_vmsw_jv2025_residual,strong,FS3NB assigned 345.872m 2024; tick741
+bud_vmsw_fs3reno_assigned_396_312m_2024,vmsw,2024,396311610.82,,,outturn,src_vmsw_jv2025_residual,strong,FS3RENO assigned 396.312m 2024 (over NB+RENO split via reclass); tick741
+bud_vmsw_ssi_budget_40_301m_2025,vmsw,2025,40301000,,,budgeted,src_vmsw_jv2025_residual,strong,SSI infrastructure subsidy budget 40.301m 2025; tick741
+bud_vmsw_ssi_assigned_30_328m_2025,vmsw,2025,30328023.47,,,outturn,src_vmsw_jv2025_residual,strong,SSI assigned 30.328m 2025 (75.25pct); tick741
+bud_vmsw_ssi_budget_43_601m_2024,vmsw,2024,43601000,,,budgeted,src_vmsw_jv2025_residual,strong,SSI budget 43.601m 2024 100pct assigned; tick741
+bud_vmsw_loan_vl_1bn_0pct_2025,vmsw,2025,1000000000,,,outturn,src_vmsw_jv2025_residual,strong,VMSW borrowed 1bn from Flanders at 0pct for FS3 fund 2025; tick741
+bud_vmsw_infra_subs_59_2m_2025,vmsw,2025,59200000,,,outturn,src_vmsw_jv2025_residual,strong,Environment infrastructure subsidies assigned 59.2m 2025 (-3.5m vs 2024); tick741
+bud_vmsw_infra_tenlast_28_2m_2025,vmsw,2025,28200000,,,outturn,src_vmsw_jv2025_residual,strong,Of infra: tenlasteneming ~28.2m 2025; tick741
+bud_vmsw_infra_dossiers_31m_2025,vmsw,2025,31000000,,,outturn,src_vmsw_jv2025_residual,strong,Of infra: subsidy dossiers ~31m 2025; tick741
+bud_vmsw_infra_projects_tender_51_2025,vmsw,2025,51,,,outturn,src_vmsw_jv2025_residual,strong,Road/sewer/env works projects tendered COUNT 51 covering 3336 rental + 149 sale dwellings; tick741
+bud_vmsw_infra_dwellings_rental_3336_2025,vmsw,2025,3336,,,outturn,src_vmsw_jv2025_residual,strong,Rental dwellings in tendered infra projects 3336 COUNT 2025; tick741
+bud_vmsw_infra_projects_completed_24_2025,vmsw,2025,24,,,outturn,src_vmsw_jv2025_residual,strong,Infra projects completed COUNT 24 2025; tick741
+bud_vmsw_wachtebeke_sale_4_353m_2025,vmsw,2025,4353282.05,,,outturn,src_vmsw_jv2025_residual,strong,Wachtebeke stock sold to Woonpijler at outstanding debt 4.353m 31Jan2025; tick741
+bud_vmsw_budgethuren_subs_0_685m_2025,vmsw,2025,684962.66,,,outturn,src_vmsw_jv2025_residual,strong,Budgethuren/geconventioneerd subsidies 0.685m to 20 private + 2 WM (84 social + 205 convent units); tick741
+bud_vmsw_solidarisering_6_593m_2025,vmsw,2025,6592500.56,,,outturn,src_vmsw_jv2025_residual,strong,Solidarisering meerkost huursubsidie ingehuurde woningen 6.593m skimming 2025; tick741
+bud_vmsw_vlabinvest_loans_11_8m_2025,vmsw,2025,11800000,,,outturn,src_vmsw_jv2025_residual,strong,New Vlabinvest zero-rate loans assigned 11.8m 2025; tick741
+bud_vmsw_basiskoten_100m_2024,vmsw,2024,100000000,,,outturn,src_vmsw_jv2025_residual,strong,Basiskoten zero-rate loans to HE 100m for 1744 student rooms 2024; no new HE loans 2025; tick741
+bud_vmsw_basiskoten_rooms_1744_2024,vmsw,2024,1744,,,outturn,src_vmsw_jv2025_residual,strong,Basiskoten rooms COUNT 1744 under 100m HE programme 2024; tick741
+bud_vmsw_rc_total_589_425m_2025,vmsw,2025,589424911.35,,,outturn,src_vmsw_jv2025_residual,strong,Woonmaatschappijen RC total 589.425m eoy2025 (was 654.771; -65.3m); tick741
+bud_vmsw_rc_kt_321_845m_2025,vmsw,2025,321844967.55,,,outturn,src_vmsw_jv2025_residual,strong,RC short-term 321.845m eoy2025 (was 452.297); tick741
+bud_vmsw_rc_lt_189_646m_2025,vmsw,2025,189645911.01,,,outturn,src_vmsw_jv2025_residual,strong,RC long-term 189.646m eoy2025 (was 140.193); tick741
+bud_vmsw_rc_herinvestering_76_032m_2025,vmsw,2025,76031930.68,,,outturn,src_vmsw_jv2025_residual,strong,RC herinvestering sales 76.032m eoy2025 (ends Mar2026 into KT); tick741
+bud_vmsw_rc_herinvestering_wm_1_902m_2025,vmsw,2025,1902102.11,,,outturn,src_vmsw_jv2025_residual,strong,RC herinvestering WM transfers 1.902m eoy2025; tick741
+bud_vmsw_assets_12_383bn_2025,vmsw,2025,12382615326.78,,,outturn,src_vmsw_jr2025,strong,JR total assets 12.383bn eoy2025 (was 11.873); tick741
+bud_vmsw_equity_1_814bn_2025,vmsw,2025,1814111427.99,,,outturn,src_vmsw_jr2025,strong,JR equity 1.814bn eoy2025 (was 1.877); tick741
+bud_vmsw_debt_total_10_499bn_2025,vmsw,2025,10499249132.5,,,outturn,src_vmsw_jr2025,strong,JR total debts 10.499bn eoy2025 (was 9.926); prior CoA class 3.12bn may be subset — FOI; tick741
+bud_vmsw_lt_fin_debt_9_186bn_2025,vmsw,2025,9186264727.93,,,outturn,src_vmsw_jr2025,strong,JR LT financial debt 9.186bn (banks 2.263 + other loans 6.924) eoy2025; tick741
+bud_vmsw_bank_debt_2_263bn_2025,vmsw,2025,2262753568.54,,,outturn,src_vmsw_jr2025,strong,JR LT bank debt 2.263bn eoy2025; tick741
+bud_vmsw_other_lt_loans_6_924bn_2025,vmsw,2025,6923511159.39,,,outturn,src_vmsw_jr2025,strong,JR other LT loans 6.924bn eoy2025 (VL 0pct path class); tick741
+bud_vmsw_lt_receivables_11_172bn_2025,vmsw,2025,11171581893.64,,,outturn,src_vmsw_jr2025,strong,JR LT other receivables (loan book class) 11.172bn eoy2025; tick741
+bud_vmsw_cash_349_010m_2025,vmsw,2025,349009546.52,,,outturn,src_vmsw_jr2025,strong,JR cash 349.010m eoy2025 (was 151.949); tick741
+bud_vmsw_investments_262_326m_2025,vmsw,2025,262326140.06,,,outturn,src_vmsw_jr2025,strong,JR short-term investments 262.326m eoy2025 (was 321.5); tick741
+bud_vmsw_provisions_69_255m_2025,vmsw,2025,69254766.29,,,outturn,src_vmsw_jr2025,strong,JR provisions+deferred tax 69.255m eoy2025; tick741
+bud_vmsw_net_profit_5_210m_2025,vmsw,2025,5210442.79,,,outturn,src_vmsw_jr2025,strong,JR net profit 5.210m 2025 (GAF 21.165 + BOF -15.955); tick741
+bud_vmsw_gaf_result_21_165m_2025,vmsw,2025,21165212.47,,,outturn,src_vmsw_jr2025,strong,GAF autonomous fund result 21.165m 2025; tick741
+bud_vmsw_bof_result_minus_15_955m_2025,vmsw,2025,-15954769.68,,,outturn,src_vmsw_jr2025,strong,BOF result after VL toelage floor -15.955m (FS3 Huur -16m path) 2025; tick741
+bud_vmsw_op_loss_8_093m_2025,vmsw,2025,-8092726.57,,,outturn,src_vmsw_jr2025,strong,Operating loss -8.093m 2025 (costs covered via fin income); tick741
+bud_vmsw_fin_income_363_616m_2025,vmsw,2025,363616395.81,,,outturn,src_vmsw_jr2025,strong,Financial income 363.616m 2025; tick741
+bud_vmsw_fin_costs_353_713m_2025,vmsw,2025,353712671.51,,,outturn,src_vmsw_jr2025,strong,Financial costs 353.713m (debt costs 333.339m) 2025; tick741
+bud_vmsw_debt_costs_333_339m_2025,vmsw,2025,333338895.19,,,outturn,src_vmsw_jr2025,strong,Debt interest costs 333.339m 2025; tick741
+bud_dual_vmsw_assets_12_383bn_vs_housing_2025,gg_belgium,2025,12382615326.78,,,outturn,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW assets 12.383bn dual VWF 10.003 SWL 3.509 SLRB 2.370 FLRBC 2.128; not TE-additive; tick741
+bud_dual_vmsw_debt_10_499bn_vs_housing,gg_belgium,2025,10499249132.5,,,outturn,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW debt 10.499bn dual VWF 9.730 SWL 2.742 FLRBC 1.603 SLRB 1.672; tick741
+bud_dual_vmsw_fs3_870m_vs_swl_works,gg_belgium,2025,870000000,,,budgeted,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW FS3 870m/yr dual SWL works 364.3 / SLRB liq 803 / FLRBC invest power 143; tick741
+bud_dual_vmsw_fs3_underuse_108m_2024,gg_belgium,2024,108298947.48,,,outturn,src_dual_vmsw_swl_slrb_flrbc_tick741,strong,VMSW FS3 underuse 108.3m (effective lost 8.2 after basiskoten reauth) dual delivery lag SWL plan reno; tick741

@@ -1,0 +1,294 @@
+---PAGE 1---
+Jaarverslag 
+2025
+VLAAMSE MAATSCHAPPIJ VOOR SOCIAAL WONEN
+Financiering 
+en activiteiten
+(rekenschap over het beleid 
+conform art 33 statuten van 18 november 2024)
+
+---PAGE 2---
+3
+De statuten van de VMSW (art. 33 gecoördineerde versie van 18 november 2024) bepalen dat de raad van bestuur 
+van de VMSW een jaarverslag opstelt over het gevoerde beleid:  
+‘Op het einde van elk boekjaar zorgt de raad van bestuur voor het opmaken van de inventaris en van de jaar­
+rekening. De jaarrekening bestaat uit de balans, de resultatenrekening en de toelichting en vormt één geheel. 
+De raad van bestuur stelt bovendien een jaarverslag op waarin hij rekenschap geeft over zijn 
+beleid. De jaarrekening van de vennootschap, met het volledig jaarverslag van de raad van bestuur, 
+wordt binnen de veertien dagen na goedkeuring door de algemene vergadering mee­gedeeld aan 
+de Vlaamse Regering, samen met het volledig verslag zoals opgesteld door de commissaris, of college van 
+commissarissen, bedoeld in artikel 35, §1 van deze statuten.’
+Hieronder volgt een jaarverslag waarbij de VMSW rekenschap geeft van het beleid over de opdrachten die ze heeft. 
+De financiële cijfers maken verder deel uit van een ander document, nl. de jaarrekening en de toelichting daarbij.
+Financiering 
+Artikel 4.13 van de Vlaamse Codex Wonen (overgenomen in de statuten artikel 3,§1) specifieert:
+‘De VMSW wordt belast met de uitvoering van het investeringsprogramma […]. Hiertoe ondersteunt ze de 
+sociale woonorganisaties, gemeenten, intergemeentelijke samenwerkingsverbanden, OCMW’s en welzijns­
+verenigingen op financieel en ICT-vlak bij de realisatie van woonprojecten en bij het kwaliteitsgerichte en 
+kostprijsbewuste beheer van hun woningpatrimonium, voor zover die actoren in hun werking rekening 
+houden met de bijzondere doelstellingen van het woonbeleid.’
+De toegekende jaarbudgetten en de toewijzingen voor gesubsidieerde financiering en infrastructuursubsidies 
+waren als volgt:
+Belangrijk: het eigenlijk toegewezen FS3-budget 2024 bedraagt 742.183.881,82 euro. Begin 2026 werd echter beslist om 
+het in 2025 toegewezen bedrag aan renteloze leningen (in het kader van de vorming van de woonmaatschappijen) aan 
+de benutting toe te voegen en zo ook in de rapportering op te nemen. Dit brengt het resultaat op het FS3-budget 2024 
+op een toegewezen bedrag van 761.701.052,52 euro en een benutting van 87,55%. Hoewel de onderbenutting hiermee 
+dus op 108.298.947,48 euro uitkomt is het belangrijk om mee te geven dat er bij de begrotingsgesprekken in 2026 al 
+rekening werd gehouden om éénmalig 100 mio euro machtiging (uit de onderbenutting op FS3-2024) te voorzien voor 
+een nieuwe ronde basiskoten. Dit brengt het effectief ‘verloren’ gegaan budget op FS3-2024 op 8,2 mio euro. 
+Op de budgetten van 2025 kan ook in kalenderjaar 2026 toegewezen worden.
+TOEGEKENDE JAARBUDGETTEN EN TOEWIJZINGEN VOOR GESUBSIDIEERDE FINANCIERING EN INFRASTRUCTUURSUBSIDIES
+2024
+2025
+FS3NB budget
+     € 478.500.000,00 
+        € 478.500.000,00 
+FS3NB toewijzing
+    € 345.872.271,00 
+€ 0,00 
+FS3RENO budget
+     € 391.500.000,00 
+        € 391.500.000,00 
+FS3RENO toewijzing
+    € 396.311.610,82 
+€ 0,00 
+Totaal FS3 budget
+     € 870.000.000,00 
+        € 870.000.000,00 
+Toegewezen
+     € 761.701.052,52 
+€ 0,00 
+Onderbenutting
+     € 108.298.947,48 
+        € 870.000.000,00 
+Verbruik %
+87,55%
+0,00%
+SSI budget
+       € 43.601.000,00 
+          € 40.301.000,00 
+SSI toewijzing
+€ 43.601.000,00
+€ 30.328.023,47
+Onderbenutting
+€ 0,00
+Niet van toepassing
+Verbruik %
+100,00%
+75,25%
+
+---PAGE 3---
+5
+4
+Beleid - strategie
+De VMSW is een loyale uitvoerder van het beleid op vlak van voornamelijk sociaal wonen. De VMSW schakelt snel 
+bij nieuwe opdrachten, maar blijft vooral de ondersteuner van woonmaatschappijen. De ICT-toepassingen die 
+daarbij ingezet worden, zijn verouderd. Daarom werkt de VMSW op twee domeinen aan vernieuwing:
+1) Project DOUW & PB (digitalisatie ontwikkeling en uitvoering woonprojecten & patrimonium beheer)
+Dit is een ICT-project dat het de woonmaatschappijen gemakkelijk maakt om de ontwikkeling van hun projecten 
+en de uitvoering ervan op te volgen, en hun patrimonium te beheren. Het is onder andere een aanvulling of 
+uitbreiding op de toepassing Projectportaal maar omvat ook bijvoorbeeld het CWR – Centraal Woningenregister. 
+Dit kadert in het bestuursakkoord onder de administratieve vereenvoudiging voor de woonmaatschappijen om de 
+benutting van gesubsidieerde financiering te verhogen.
+2) Project Bankfunctie
+Voor einde 2028 is het de bedoeling het hele financiële opvolgingssysteem bijgewerkt te hebben op volgende vlakken:
+•	 Beheer rekening-courant en leningen
+•	 Projectfinanciering in relatie tot begroting
+•	 Onderhoudscontract SAP en migratie naar S4/Hana
+•	 Communicatiesysteem met woonactoren op financieel vlak
+
+In 2025 werd een bestek met twee percelen opgesteld (a) migratie naar S4/Hana, b) oplossing voor beheer reke­
+ning-courant en leningen). In 2026 volgt de gunning van de opdracht.
+De VMSW is bij het Centrum voor Cyberveiligheid België (CCB) geregistreerd en door het CCB erkend als een ‘belangrijke’ 
+organisatie in uitvoering van de NIS2-wet. Samen met Wonen in Vlaanderen wordt een beheersysteem rond informatie­
+veiligheid (ISMS) geïmplementeerd volgens de ISO/IEC 27001 standaard. Het ISMS documenteert de technische, operati­
+onele of organisatorische maatregelen waarmee VMSW de risico’s met betrekking tot de beveiliging van haar netwerk- 
+en informatiesystemen kan beheren en cyberincidenten kan voorkomen of de gevolgen ervan beperken.
+Beleid - operationeel
+Wat volgt is een overzicht van de voornaamste activiteiten in 2025, wat het operationele beleid illustreert:
+1. ICT-activiteiten 
+•	 In 2025 werd binnen het patrimoniumbeheer verder ingezet op de versterking van het Centraal Woningenre­
+gister (CWR) als centrale databron voor het beheer en de opvolging van het Vlaamse sociaal woonpatrimo­
+nium. De focus lag op het verbeteren van de datakwaliteit, het ondersteunen van beleidsopvolging en het 
+versterken van de digitale samenhang met interne toepassingen bij de woonmaatschappijen.
+•	 Binnen het Projectportaal werd vooral gewerkt aan de verdere digitalisering van de ontwikkeling en financie­
+ring van sociale woonprojecten. De belangrijkste realisatie was de verdere uitwerking van een geïntegreerd di­
+gitaal verwervingsdossier, waarmee woonmaatschappijen aankopen van onroerende goederen via het Project­
+portaal kunnen indienen en laten beoordelen op kredietwaardigheid, risico en financiering. Daarnaast werd 
+het Projectportaal inhoudelijk voorbereid op nieuwe en gewijzigde regelgeving, met name het nieuwe Bindend 
+Sociaal Objectief (BSO), de implementatie van besluitversie 2026 van de FS4simulatietabel en andere maatrege­
+len in het kader van de rationalisatie van de financiering van woonmaatschappijen. Verder werd ingezet op de 
+ondersteuning van nieuwe projectvormen, zoals kamers en kamerwoningen en op een versterkte beveiliging, 
+waardoor het Projectportaal zijn rol als centrale, betrouwbare toepassing voor woonprojecten verder heeft 
+geconsolideerd.
+•	 In 2025 werd binnen SAP en het Financiële Informatiesysteem (FIS) ingezet op de verdere automatisering, mo­
+dernisering en versterking van de financiële kernsystemen, met het oog op efficiëntere processen, verhoogde 
+transparantie en toekomstbestendigheid. Belangrijke realisaties waren de volledige integratie van het beta­
+lingsverkeer via Isabel Connect, waardoor betaal  en CODA verwerking voortaan geïntegreerd en gecontroleerd 
+verlopen, en de modernisering van de rapportering rond financiële middelen buiten de VMSW die rond maart 
+2026 beschikbaar zal zijn. Daarnaast werd het strategische traject van de bankfunctie opgestart, met focus op 
+procesbeschrijving, architecturale keuzes en het bestek voor leningen en rekening courant. Een cruciale mijl­
+paal was ook de succesvolle upgrade van SAP ECC 6.0 over alle omgevingen, die de stabiliteit en continuïteit 
+van de financiële systemen verzekert. Tot slot werden stappen gezet in de digitalisering van uitgaande factu­
+ratie via e invoicing. Met deze aanpassingen hebben SAP en FIS hun rol als robuuste en betrouwbare financiële 
+ruggengraat verder versterkt.
+2. Beheer van financiële middelen 
+1) Rekening-courant woonmaatschappijen
+De VMSW beheert de financiële middelen van woonmaatschappijen die niet noodzakelijk zijn voor hun dagelijkse 
+werking. Er zijn daartoe verschillende rekeningen-courant gecreëerd. 
+In de eerste plaats is er de rekening-courant korte termijn (RC KT). Daarop worden de middelen gestort die niet 
+noodzakelijk zijn voor de dagelijkse werking van de woonmaatschappijen en van waaruit investeringen betaald 
+worden. Op de rekening-courant lange termijn (RC LT) worden middelen geplaatst die een woonmaatschappij 
+gedurende een kalenderjaar niet nodig heeft. Daarnaast zijn nog rekeningen-courant gecreëerd:
+•	 om herinvesteringsverplichtingen op te volgen naar aanleiding van de verkoop van sociale huurwoningen (RC 
+herinvestering). Deze rekening verdwijnt vanaf maart 2026. De middelen worden dan gestort op de reke­
+ning-courant korte termijn; 
+•	 bij overdrachten tussen woonmaatschappijen (RC herinvestering WM). 
+
+---PAGE 4---
+7
+6
+De cijfers op de verschillende rekeningen-courant waren als volgt, gesaldeerd (in euro):
+2) Beleggingen en financieringen
+De VMSW beheert middelen in verschillende fondsen. De VMSW belegt deze middelen conform de bepalingen in 
+het decreet houdende de Vlaamse Codex Overheidsfinanciën (VCO), het besluit van de Vlaamse Regering ter uit­
+voering van de VCO en een lijst met gedefinieerde financiële instrumenten die is goedgekeurd door het thesaurie­
+comité. De VMSW belegde in 2025 vooral in Vlaams papier bij Vlaanderen en een beperkt deel op termijn­
+rekeningen bij banken. 
+De VMSW financiert zich rechtstreeks bij Vlaanderen. In 2025 leende de VMSW 1 miljard euro bij Vlaanderen tegen 
+0% voor het financieringsfonds FS3. 
+3. Wooninfrastructuur
+In 2025 wezen we 59,2 miljoen aan subsidies toe voor de realisatie van omgevingsaanleg bij sociale woonprojecten – 
+op de budgetten van verschillende jaren. Dit is een daling van bijna 3,5 miljoen ten opzichte van 2024. 
+Het gaat over ongeveer 28,2 miljoen aan tenlasteneming en 31 miljoen aan subsidiedossiers. Er werden 51 projecten 
+aanbesteed voor wegen- riolerings- en omgevingswerken waarbij 3.336 huurwoningen en 149 koopwoningen zijn 
+betrokken.
+Er werden 24 projecten opgeleverd.
+4. Zelf woonprojecten realiseren
+De VMSW heeft in 2025 zelf geen woonprojecten gerealiseerd. Door het traject naar woonmaatschappijen is het 
+juist de bedoeling dat het patrimonium in handen van de VMSW overgaat naar een woonmaatschappij.
+Daarom was er de verkoopakte op 31 januari 2025 van het VMSW-patrimonium in Wachtebeke aan de woonmaat­
+schappij Woonpijler. Conform de wens van het beleid gebeurde dit tegen een prijs die gelijk was aan de open­
+staande schuld (4.353.282,05 euro), vermits die hoger was dan de boekwaarde.
+5. Grondbeleidsmaatregelen uitvoeren die noodzakelijk worden geacht om een 
+hoogwaardige woningkwaliteit te behouden of te bevorderen
+In het kader van het Rollend Grondfonds kon de VMSW zelf gronden aankopen of leningen verstrekken (afhanke­
+lijk van het geval: bijzondere FS3-lening of RGF-lening) aan initiatiefnemers om gronden te kopen. Die gronden 
+moesten zich dan situeren in Vlabinvestgebied (Vlaamse rand rond Brussel) of in de duurdere gemeenten elders in 
+Vlaanderen. In het kader van de budgetten die voorzien werden voor basiskoten, zijn de bedragen met betrekking 
+tot het Rollend Grondfonds geheroriënteerd in functie van betaalbare studentenhuisvesting (zie punt 9). 
+Op 4 juni 2024 verkocht de VMSW grond te Londerzeel, Argo-site aan Vlabinvest apb. Deze grond was in 2012 
+aangekocht met middelen van het Rollend Grondfonds. De verkoopopbrengst bedroeg 1.053.775,21 euro. Dit bedrag 
+kan worden aangewend voor nieuwe grondaankopen door de VMSW binnen Vlabinvest-gebied (op verzoek van 
+Vlabinvest apb) en het verstrekken van RGF-leningen aan Vlabinvest apb.
+In 2025 heeft de VMSW geen gronden aangekocht of leningen (RGF-lening of bijzondere FS3-lening) verstrekt in 
+het kader van het Rollend Grondfonds.
+Op 22 mei 2025 verlengde de VMSW het recht van opstal ten voordele van Vlabinvest apb op de grond te Meise, 
+Vilvoordsesteenweg. Het recht van opstal werd verlengd voor een duur van vijftien jaar, vanaf 1 augustus 2025 
+om te eindigen op 1 augustus 2040.
+De VMSW was op 31 december 2025 nog eigenaar van de volgende gronden die werden aangekocht met middelen 
+van het Rollend Grondfonds:
+•	 Kortenberg, Vierhuizen
+•	 Zaventem (Nossegem), Namenstraat
+•	 Meise, Vilvoordsesteenweg (met opstal tot 1 augustus 2040)
+•	 Merelbeke (Lemberge), Burgemeester Maenhoutstraat
+•	 Brasschaat, Het Leeg - Rietbeemden
+6. Restgronden en gronden sociale last
+De VMSW is nog eigenaar van diverse historische restgronden en gronden die overgedragen moeten worden naar 
+het openbaar domein. In 2025 ondertekende  de VMSW negen verkoopakten, waarvan zes restgronden aan par­
+ticulieren en drie gronden naar het openbaar domein werden overgedragen. Op 31 december 2025 was de VMSW 
+nog eigenaar van 52 dergelijke gronden.
+In het kader van het decreet grond- en pandenbeleid (sociale last), kocht de VMSW in het verleden gronden op een 
+aantal locaties. Door het kerntakenplan (2016) zijn veel van deze gronden weer verkocht, in eerste instantie door 
+er een sociale woonbestemming aan te geven. Indien dit niet kon, verkocht de VMSW de gronden via een open­
+bare verkoop. In 2025 waren er geen verkopen en had de VMSW nog gronden in eigendom op twee locaties: drie 
+loten in Kapelle-op-den-Bos en twee loten in Maldegem, telkens in een goedgekeurde, niet-vervallen verkaveling.
+7. Subsidies uitbetalen voor geconventioneerde verhuur
+De Vlaamse Regering wil het aantal betaalbare sociale en private huurwoningen omhoog en werkte hiervoor 
+geconventioneerde verhuur uit. Burgers kennen dit onder de naam ‘budgethuren’. Private initiatiefnemers kunnen 
+gemengde projecten (sociale en geconventioneerde woningen) realiseren en hiervoor een subsidie krijgen. Ook 
+woonmaatschappijen kunnen geconventioneerde huurwoningen realiseren. Dit vervangt het concept ‘bescheiden 
+woningen’.
+De VMSW verstrekte in 2025 voor 684.962,66 euro subsidies geconventioneerde verhuur aan twintig private 
+initiatief­nemers en twee woonmaatschappijen. Die realiseerden samen 84 sociale woningen en 205 geconventio­
+neerde woningen. 
+De bedoeling is om het systeem geconventioneerde verhuur meer bekendheid te geven.
+8. Solidariseringsfonds beheren
+Sinds 1 januari 2024 zijn de huurprijzen voor huurwoningen en ingehuurde woningen meer op elkaar afgestemd. 
+Deze harmonisering kwam er door de huursubsidie bij ingehuurde woningen te verhogen en de sociale korting 
+bij de eigen woningen te verlagen (waardoor de netto-huurprijs stijgt). De hogere kost aan huursubsidies wordt 
+gecompenseerd met hogere huurinkomsten van de eigen woningen van woonmaatschappijen. Op 26 april 2024 
+keurde de Vlaamse Regering het besluit goed dat deze compensatie concreet moet regelen. 
+De meerkost van de hogere huursubsidie voor huurders van ingehuurde woningen bedroeg 6.592.500,56 euro. Dit 
+bedrag is afgeroomd a rato van het aandeel van de theoretische huurinkomsten opgenomen in de verrekening 
+‘Gewestelijke Sociale Correctie’ van de woonmaatschappij ten opzichte van de totale theoretische huurinkomsten. 
+CIJFERS OP DE VERSCHILLENDE REKENINGEN-COURANT
+31/12/2024
+31/12/2025
+Beweging
+RC KT
+€452.297.355,81 
+€321.844.967,55 
+€-130.452.388,26 
+RC LT
+€140.192.932,56 
+€189.645.911,01 
+ €+49.452.978,45 
+RC herinvestering
+€60.898.764,95 
+€76.031.930,68 
+ €+15.133.165,73 
+RC herinvestering WM
+€1.382.102,11 
+€1.902.102,11 
+ €+520.000,00
+Totaal
+ € 654.771.155,43 
+ € 589.424.911,35 
+ € -65.346.244,08 
+
+---PAGE 5---
+8
+9. De VMSW verstrekt kredieten aan verschillende actoren
+1) Aan woonmaatschappijen
+De VMSW verstrekt zowel gesubsidieerde als marktconforme leningen aan de woonmaatschappijen. Voor woon­
+projecten met sociale huurwoningen zijn dit in hoofdzaak gesubsidieerde FS3-leningen tegen een -1%-rentevoet. 
+Met het regelgevend traject ‘Rationalisatie financiering’ (definitieve goedkeuring 13/02/2026) zal het FS4-systeem 
+in werking treden en FS3 vervangen. De VMSW verstrekt hierdoor gesubsidieerde FS4-leningen tegen een -2%-rentevoet. 
+De realisatie van sociale koopwoningen, geconventioneerde huurwoningen en de bijhorende infrastructuuraanleg 
+bij dergelijke woonprojecten kan enkel marktconform gefinancierd worden. Ook dit verandert in het kader van 
+‘Rationalisatie financiering’ maar pas vanaf 1 juli 2026. Vanaf dat moment zal er ook een gesubsidieerde FS4-finan­
+ciering gegeven kunnen worden voor de aanleg van wooninfrastructuur. Hoewel de VMSW ook gesubsidieerde 
+SSI-financiering aan lokale besturen verstrekt, zullen zij geen beroep kunnen doen op FS4-leningen. Deze leningen 
+blijven dus uitsluitend voor woonmaatschappijen bedoeld. 
+De overname van sociaal patrimonium van andere woonmaatschappijen in het werkingsgebied kan gefinancierd 
+worden met gesubsidieerde renteloze leningen.
+Woonmaatschappijen kunnen ook voor de financiering van alle andere investeringen (niet gelinkt aan een woon­
+project zoals een kantoorgebouw of een handelsruimte) bij de VMSW terecht voor marktconforme leningen. 
+Door een dading is er een renteloze vordering ontstaan die over een periode van 15 jaar betaald wordt. Conform 
+de wettelijke bepalingen is er geen disconto of waardevermindering toegepast op deze vordering. Een eerste 
+schijf is ontvangen in 2025.
+2) Aan Vlabinvest APB
+De VMSW verstrekt vanuit het Vlaams Financieringsfonds renteloze kredieten aan Vlabinvest APB. Vlabinvest kent 
+daarmee marktconforme kredieten toe aan woonmaatschappijen voor de realisatie van huurwoningen in de Vlaamse 
+randgemeenten rond Brussel. In 2025 werd er voor 11,8 mio euro aan nieuwe Vlabinvest-leningen toegewezen.
+3) 	Voor de realisatie van betaalbare studentenhuisvesting aan hogeronderwijsinstellingen en woon­
+maatschappijen
+De VMSW kende in 2024 voor 100 miljoen euro renteloze leningen toe aan hogeronderwijsinstellingen voor de rea­
+lisatie van ‘basiskoten’. Dat zijn studentenkamers waarbij toilet, badfunctie en keuken gemeenschappelijk zijn. De 
+projecten van deze hogeronderwijsinstellingen betreffen nieuwbouw en/of renovatie van 1.744 basiskoten in ver­
+schillende steden in Vlaanderen. In 2025 verstrekte de VMSW geen nieuwe renteloze leningen aan hogeronderwijs­
+instellingen.
+Aan woonmaatschappijen zijn er in 2025 zijn nog geen kredieten toegekend voor dergelijke projecten. Woonmaat­
+schappijen gaan in op vragen van een hogeronderwijsinstelling of van lokale besturen. Momenteel is nog geen 
+enkel project voldoende uitgewerkt opdat een krediet toegekend kan worden. Hiervoor zijn wel nog middelen 
+beschikbaar.
+Er is tot hiertoe geen grondverwerving gebeurd voor het programma ‘boost het basiskot’ met de middelen van 
+het Rollend Grondfonds, maar de middelen zijn voorzien.  
+10. Subsidies verstrekken
+De VMSW fungeert als doorgeefluik naar woonmaatschappijen voor subsidies, bijvoorbeeld met betrekking tot het 
+Vlaams Klimaatfonds. Er zijn ook andere subsidies, zoals hoger ook vermeld. Wanneer subsidies worden toegekend, is 
+het mogelijk dat bepaalde gesubsidieerde financiering verminderd moet worden zodat oversubsidiëring vermeden 
+wordt.
+
+---PAGE 6---

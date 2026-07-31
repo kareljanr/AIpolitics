@@ -8811,3 +8811,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_731=done; spawn **rq_732**; loop_state ticks=740
 - FOI: none new (progress tick)
 - Next: prio5 **rq_732**; deferred **rq_116**; progress@750 in 10 ticks
+
+### 2026-08-02T07:45:00Z — tick 741
+- Unit: **rq_732** (FOI-adjacent residual dual — **VMSW Jaarverslag + Jaarrekening 2025 residual dual SWL/SLRB/FLRBC**)
+- Found (primary VMSW JV2025 6p + JR2025 28p, publicaties.vlaanderen.be):
+  - **FS3:** budget **€870m/yr** (NB 478.5 + RENO 391.5); 2024 assign **€761.7m** (87.55%) underuse **€108.3m** (100m basiskoten reauth → effective lost **€8.2m**); **2025 assign still €0** (open into 2026)
+  - **SSI:** 2025 budget **€40.3m** assign **€30.3m** (75.25%)
+  - **Funding:** VL loan **€1bn @ 0%** for FS3 2025; debt interest costs **€333.3m**
+  - **RC woonmaatschappijen:** total **€589.4m** eoy2025 (−65.3m; KT 321.8 LT 189.6)
+  - **BS:** assets **€12.383bn** · equity **€1.814bn** · debts **€10.499bn** (LT fin **€9.186bn**) · LT recv **€11.172bn** · cash **€349m** · net profit **€5.21m** (GAF +21.2 / BOF −16 floor)
+  - Ops: infra subs **€59.2m** · solidarisering **€6.59m** · Vlabinvest **€11.8m** · basiskoten 100m/1744 rooms 2024 · Wachtebeke sale **€4.35m**
+  - Dual SWL debt 2.74 / SLRB 1.67 / FLRBC 1.61 / VWF 9.73 not TE-additive; completes housing OIP residual wave
+- Wrote: entity vmsw notes; budgets (+52); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_vmsw_jv2025_residual_l5**; raw JV+JR PDFs+txt+write; rq_732=done; spawn **rq_733**; loop_state ticks=741
+- FOI opened: gap_vmsw_jv2025_residual_l5 — ready prio8 (not sent)
+- Next: rq_733; progress@750 in 9; rq_116 deferred
