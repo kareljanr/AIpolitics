@@ -14396,3 +14396,44 @@ bud_otw_km_total_regular_2025,tec,2025,95494409,,,outturn,src_letec_ra_csp_resid
 bud_otw_pnrr_greening_bus_21_3m,tec,2026,21300000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,PNRR greening bus fleet +21.3m aju path recon; dual De Lijn 400m; tick726
 bud_otw_pnrr_chatelet_10m,tec,2026,10000000,,,budgeted,src_ccrek_wal_aju2026_recettes_otw,strong,PNRR Chatelet antenna reno/extension +10m; tick726
 bud_dual_otw_dep_aju_vs_delijn_class,gg_belgium,2026,1196300000,,,budgeted,src_dual_otw_delijn_ebus_missions_tick726,strong,OTW dep aju 1196.3m dual De Lijn multi-bn VEK class not additive; tick726
+bud_antifraud_fiscal_yield_2026,sec_federal,2026,300000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Fiscal fraud yield claim 300m structural 2026 CoA; no method from FPS Finance; tick727
+bud_antifraud_fiscal_yield_2029,sec_federal,2029,600000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Fiscal fraud yield claim 600m 2029 path; method still missing at aju; tick727
+bud_antifraud_social_yield_2026,sec_ss,2026,300000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Social fraud additional yield claim 300m 2026 unchanged since early 2025; no measure split; tick727
+bud_antifraud_social_yield_2027,sec_ss,2027,375000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Social fraud path 375m 2027 (+75); tick727
+bud_antifraud_social_yield_2028,sec_ss,2028,450000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Social fraud path 450m 2028 (+75); tick727
+bud_antifraud_social_yield_2029,sec_ss,2029,600000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Social fraud path 600m 2029 (+150); no L5 measure matrix CoA; tick727
+bud_antifraud_dual_pack_2026,sec_federal,2026,600000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Dual fiscal+social antifraud booked 600m 2026; method dual opaque; tick727
+bud_antifraud_dual_pack_2029,sec_federal,2029,1200000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Dual antifraud path 1.2bn 2029 (600 fiscal + 600 social); tick727
+bud_parquet_financier_yield_2029_recon,fod_justice,2029,196000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,weak,Financial parket yield claim 196m 2029; no execution/method; bill DOC56 1536/001 just filed; tick727
+bud_antifraud_fte_bbi_150,fod_finance,2026,150,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT planned BBI VTE 150 antifraud; CoA: FPS Finance recruit NOT started; tick727
+bud_antifraud_fte_justice_107,fod_justice,2026,107,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT planned Justice VTE 107 antifraud; CoA: recruit NOT started; tick727
+bud_antifraud_fte_police_130,police_federale,2026,130,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT planned Federal Police VTE 130 antifraud; tick727
+bud_antifraud_fte_total_387,sec_federal,2026,387,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT planned antifraud staff 150+107+130=387; tick727
+bud_antifraud_fte_police_live_18_oct2026,police_federale,2026,18,,,outturn,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT Federal Judicial Police only 18 staff by 1 Oct 2026 via internal mobility; tick727
+bud_antifraud_fte_police_gap_112,police_federale,2026,112,,,estimate,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT police staffing gap 130-18=112 residual vs plan; tick727
+bud_antifraud_fte_finance_justice_started_0,sec_federal,2026,0,,,outturn,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,COUNT recruit procedures FPS Finance+Justice NOT started at CoA aju; tick727
+bud_intsec_sect16_177m_2026,mod_defensie,2026,177000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Internal security from sect16 VEK 177m 2026 (5pct additional defence if NATO-class); tick727 recon
+bud_intsec_nato_trust_45m_fa,fod_foreign_affairs,2026,45000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,NATO trust fund 45m in FA sect14 (not sect16 as initially planned); tick727
+bud_intsec_pack_222m_2026,mod_defensie,2026,222000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Internal security pack 177+45=222m if trust included per MR 18Jul2025; tick727
+bud_intsec_scattered_ba_tracking_hard,mod_defensie,2026,177000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,177m assigned to existing programmes/BAs of sect16 — tracking difficult CoA; tick727
+bud_security_return_prov_546m_recon,sec_federal,2026,546000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,ID provisie security services+return 546m VEK Justice/IBZ/Police; tick727 recon
+bud_security_return_prov_carry_179m,sec_federal,2026,179000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Unused 2025 security/return credits +179m loaded on 2026 provisie; tick727
+bud_support_cell_security_prov_plus_178_8m,fod_bosa,2026,178800000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Support cell: security provisie +178.8m BC vs IB; tick727
+bud_support_cell_id_prov_minus_207_4m,fod_bosa,2026,-207400000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Support cell: ID provisies transferred out -207.4m; tick727
+bud_support_cell_index_minus_485_2m,fod_bosa,2026,-485200000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Support cell: index provisie allocated out -485.2m; tick727
+bud_support_cell_new_policy_plus_40_6m,fod_bosa,2026,40600000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Support cell: new policy provisie +40.6m; tick727
+bud_authority_cell_plus_390m,sec_federal,2026,390000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Authority cell VEK +390m (Def +188.2 Interior +100 Justice +81); tick727
+bud_justice_section_2925m_aju,fod_justice,2026,2925000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Justice section VEK 2925m aju (+81); of which personnel +39.5m; tick727
+bud_interior_plus_100m_aju,fod_interior,2026,100000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Interior +100m aju of which Fedasil 41.6; tick727
+bud_defence_sect16_plus_188_2m,mod_defensie,2026,188200000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Defence sect16 +188.2m for NATO 2pct path; tick727
+bud_intsec_fed_police_heli_class,police_federale,2026,0,,,unknown,src_ccrek_fed_aju2026_intsec_antifraud_residual,medium,Named dual-use: Fed Police helicopter purchase in intsec pack; military share unclear CoA; EUR FOI; tick727
+bud_intsec_belspo_plane_class,belspo,2026,0,,,unknown,src_ccrek_fed_aju2026_intsec_antifraud_residual,medium,Named dual-use: BELSPO plane in intsec pack; military share unclear CoA; EUR FOI; tick727
+bud_intsec_cuas_police_class,police_federale,2026,0,,,unknown,src_ccrek_fed_aju2026_intsec_antifraud_residual,medium,Named dual-use: C-UAS police credits (drone detect/neutralise) in intsec; military share unclear; EUR FOI; tick727
+bud_intsec_bsc_class,mod_defensie,2026,0,,,unknown,src_ccrek_fed_aju2026_intsec_antifraud_residual,medium,Named dual-use: Belgian Secure Communications (BSC AR 17Jul2024) credits in intsec; military share unclear; EUR FOI; tick727
+bud_intsec_fipa_no_reimburse_class,mod_defensie,2026,0,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,MR 20Mar2026: Defence support Fed Police mixed rail patrols + FIPA Brussels charged to intsec without Police reimburse (law 7Dec1998); amount in 177 pack; tick727
+bud_dual_intsec_antifraud_soft_pack,gg_belgium,2026,822000000,,,estimate,src_dual_intsec_antifraud_tick727,medium,Dual class: intsec 222m + antifraud 600m 2026 soft/opaque packs not TE-additive pure waste; tick727
+bud_nato_effort_bc_13296m,mod_defensie,2026,13296000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,NATO effort BC 13296m (GDP 664778); fill 13246 gap ~50; tick727 recon
+bud_nato_fill_budget_10958m,mod_defensie,2026,10958000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Defence budget fill 10958m BC; tick727
+bud_nato_fill_external_2288m,mod_defensie,2026,2288000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,External defence effort 2288m (pens 1988 -40 FPD; norm 168; COFOG 131); tick727
+bud_nato_fill_total_13246m,mod_defensie,2026,13246000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Total defence effort fill 13246m vs target 13296 gap ~50m; tick727
+bud_primary_vek_cells_92050m,sec_federal,2026,92050000000,,,budgeted,src_ccrek_fed_aju2026_intsec_antifraud_residual,strong,Primary VEK cells total BC 92050 (+41 vs IB 92009); tick727

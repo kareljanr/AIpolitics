@@ -8617,3 +8617,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+50); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_otw_csp_missions_transfer_l5**; raw RA PDF + write script; rq_717=done; spawn **rq_718**; loop_state ticks=726
 - FOI opened: gap_otw_csp_missions_transfer_l5 — ready (not sent); prior gap_otw_dotatie_cash remains ready
 - Next: rq_718; progress@730 in 4 ticks; rq_116 deferred
+
+### 2026-08-02T00:15:00Z — tick 727
+- Unit: **rq_718** (FOI-adjacent residual dual — **internal security dual-use + antifraud delivery lag CoA 2026_22**)
+- Found (primary CoA 2026_22 s2.3.2 + s3.2.3 residual vs tick397/507/683):
+  - Intsec: **177m** sect16 VEK + **45m** NATO trust FA = **222m**; scattered across existing BAs (tracking hard)
+  - Named dual-use (military share **unclear**): Fed Police **helicopter**; BELSPO **plane**; **C-UAS** police; **BSC**; FIPA/mixed rail patrols **no Police reimburse** (MR 20 Mar 2026; law 1998)
+  - Security/return ID provisie **546m** + **179m** 2025 carry; support cell security **+178.8m**
+  - Antifraud fiscal **300→600m** / social **300/375/450/600** — **no method/split** CoA
+  - Financial parket yield **196m** 2029; bill **DOC 56 1536/001** just filed; execution unknown
+  - Staff plan **150 BBI + 107 Justice + 130 Police = 387**; Finance+Justice recruit **NOT started**; Federal Judicial Police only **18** by 1 Oct 2026 (internal mobility)
+  - Dual soft pack class **~822m** 2026 (intsec 222 + antifraud 600) not TE-additive
+  - Strong CoA residual; L5 FOI named EUR + military share + hiring calendar
+- Wrote: budgets (+41); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_intsec_dual_use_antifraud_l5**; extract + write script; rq_718=done; spawn **rq_719**; loop_state ticks=727
+- FOI opened: gap_intsec_dual_use_antifraud_l5 — ready (not sent); related antifraud/defence FOIs remain ready
+- Next: rq_719; progress@730 in 3 ticks; rq_116 deferred
