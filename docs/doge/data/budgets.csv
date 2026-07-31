@@ -11198,3 +11198,11 @@ bud_veka_werking_bajr2025_vek,veka,2025,1048000,,,budgeted,src_vl_bbt_ek_apparaa
 bud_veka_werking_bu2025_vak,veka,2025,976000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BU2025 VAK 0.976m
 bud_veka_werking_bu2025_vek,veka,2025,948000,,,outturn,src_vl_bbt_ek_apparaat_qa_bu2025,strong,QE0-1QAB2ZZ-WT werking BU2025 VEK 0.948m
 bud_dual_climate_agency_awac_veka_2025,gg_belgium,2025,36063000,,,budgeted,src_dual_climate_agency_awac_veka_tick606,medium,Illustrative dual agency ops: AWAC SEC dep 19.333m + VEKA apparaatrek BU VAK 16.828m = 36.161m (not additive TE; domain VEKA 1.1bn separate)
+bud_fwcn_rec_sec_bi2025,fwcn,2025,9912000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN Type1 UAP recettes SEC BI2025 9.912m CoA Table33
+bud_fwcn_dep_sec_bi2025,fwcn,2025,73250000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN depenses SEC BI2025 73.250m CoA Table33 flood indemnity path
+bud_fwcn_solde_sec_bi2025,fwcn,2025,-63338000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN solde SEC BI2025 -63.338m (path +27.862m vs BI2024 -91.2m)
+bud_fwcn_rec_sec_bi2024,fwcn,2024,20439000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN recettes SEC BI2024 20.439m CoA Table33
+bud_fwcn_dep_sec_bi2024,fwcn,2024,111639000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN depenses SEC BI2024 111.639m CoA Table33
+bud_fwcn_solde_sec_bi2024,fwcn,2024,-91200000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN solde SEC BI2024 -91.200m
+bud_fwcn_sec_objectif_gov_2025,fwcn,2025,-165000000,,,budgeted,src_ccrek_fwcn_budget_bi2025,medium,Gov SEC objective FWCN -165m 2025 (inondations juil2021 indemnites; subsidies paid 2022-23); budget project only -63.3m CoA notes dossiers en cours
+bud_fwcn_dep_path_delta_2024_25,fwcn,2025,-38389000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,Depenses SEC path BI2024 111.639m to BI2025 73.250m delta -38.389m

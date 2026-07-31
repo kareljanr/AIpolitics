@@ -7331,3 +7331,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update veka; budgets (+18); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_veka_staff_fte_l5_2025; rq_597=done; spawn rq_598; loop_state ticks=606
 - FOI opened: gap_veka_staff_fte_l5_2025 ? ready (not sent)
 - Next: rq_598; progress@610 in 4 ticks; rq_116 deferred
+
+### 2026-07-31T17:30:00Z — tick 607
+- Unit: rq_598 (FOI-adjacent dual disaster hole-fill — **FWCN** Type1)
+- Found: **FWCN** Fonds wallon des calamités naturelles (primary CoA Table33 + p26). **BI2025 SEC:** recettes **€9.912m** · dépenses **€73.250m** · solde **-€63.338m**. **BI2024 SEC:** rec **€20.439m** · dep **€111.639m** · solde **-€91.200m** (path dep -€38.389m). Gov SEC objectif **-€165m** (indemnités inondations juil2021; subsidies versées 2022-23) vs budget project **-€63.3m** (dossiers en cours). Type1 UAP BCE **772472960**. Dual VL disaster residual FOI. Strong confidence SEC; claims L5 residual.
+- Wrote: entities (+fwcn); budgets (+8); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_fwcn_claims_l5_2025; rq_598=done; spawn rq_599; loop_state ticks=607
+- FOI opened: gap_fwcn_claims_l5_2025 ? ready (not sent)
+- Next: rq_599; progress@610 in 3 ticks; rq_116 deferred
