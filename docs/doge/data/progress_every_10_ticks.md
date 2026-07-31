@@ -1,4 +1,4 @@
-# DOGE progress — every 10 ticks
+﻿# DOGE progress — every 10 ticks
 
 **Protocol:** At ticks **10, 20, 30, …** (and anytime human asks), refresh this file **and** append a short block to `loop_log.md`.  
 **Anchor:** ESA S.13 total expenditure **€347.956 bn (2025)** = 100% of the “public spend pie” for flow coverage.  
@@ -20,17 +20,50 @@
 
 ---
 
+## Snapshot at **tick 570** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual PES four-SPE volumes · dual four-layer PT (NMBS+De Lijn+STIB+TEC) · dual rail NMBS+Infrabel JV2025 · ONEM/RIZIV outturn refresh |
+| **D. L5 named / measure end-lines** | **~37-50%** of TE (generous) | **Gain 560→570 is labour market + mobility dual wave:** RIZIV care **39.7bn** / PROMES path · VDAB staff **4630** savings **20/25/40** · ONEM missions **6.95bn** / region L5 **6.59bn** · FOREM DEI **255k** · Actiris DEI **93k** reform CPAS spill · ADG **2.4k** · TEC used **804m** · NMBS RRF **66.2m** ETS **22m** · Infrabel REBITDA **127m** invest **~1.27bn** ETCS **2.8bn** complete · FOI still bulk ASBL/firm + FPS cash codes |
+| **E. FOI-ready gaps** | **~313** drafts ready | Human send only; answered **~9**; total FOI rows **~323** (+ RIZIV sector · VDAB jaarrekening · ONEM OP/region · FOREM RA · Actiris reform CPAS · ADG TCO · TEC CSP rewrite · NMBS RRF/ETS · Infrabel JV2025 L5 · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **Infrabel equity 20.5bn / assets 25.7bn** stocks.
+
+### Inventory (tick 570)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~10307 |
+| commitments.csv | ~1132 |
+| leaderboard.csv | ~2160 |
+| entities.csv | ~415 |
+| sources.csv | ~1097 |
+| FOI ready | ~313 |
+| FOI answered | ~9 |
+| FOI total rows | ~323 |
+| research_queue | ~561 (open: rq_116 deferred + rq_562 hole-fill after progress) |
+
+### What improved since tick 560
+
+- **Health + PES dual (tick561–566):** RIZIV care outturn **€39.712bn** (undershoot **201m**) + PROMES ZIV **37.7→48.6bn** 2035 · AB open-pharm **~67m** · VDAB JV staff **4,630** / savings path **€20/25/40m** · ONEM global **€7.37bn** / missions **6.95** / benefits by region FL **2.76** WAL **2.66** BRU **1.17** · FOREM DEI **255k** rate dual **14.3 vs VL 6.9** · Actiris DEI **93.4k** rate **14.6** / CPAS spill **+83%** · ADG **2,396** rate **6.4** (four-SPE map complete).
+- **Regional + federal PT dual (tick567–568):** TEC OTW used **€804m** / voyages **150.8m** / staff **5,818** / farebox **66m** dual De Lijn **1.21bn** VL / STIB **1.17bn** BCR · NMBS RRF **€66.2m** + ETS **€22m** dual four-layer PT.
+- **Rail infra dual close (tick569):** Infrabel JV2025 **REBITDA €127.3m** · omzet **1.43bn** · staatsdotatie **606m** · invest **~1.27bn** · FTE **9,768** · ETCS full network **6,399 km** (~**€2.8bn** Masterplan) dual NMBS fleet 100% / shared punctuality **91.7%** / strike **27d**.
+
+---
 ## Snapshot at **tick 560** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** fiscal assignment dual cash **92.5bn** · VL accounts/debt path · Lantis/TV financing · dual gemengde perimeter · Viapass/Ethias/BAC |
-| **D. L5 named / measure end-lines** | **~36-49%** of TE (generous) | **Gain 550→560 is VL CoA residual + federal fiscal Part II + AMR wave:** expose Tables1-11 fiscal ESA **164bn**/cash third **92.5bn** (BVH/VAT/VenB L5 · measures **+1.58bn** · Table11 beneficiary matrix) · CoA VL RR debt **50.2bn** / Zaventem **2.55** · Lantis under-vastleg **~2.42bn** · open verb **7.37bn** · TV fin **3.85bn** · relance underuse **342m** · PAS **3.65bn** · REPowerEU · VLAIO recovery/print · dual **66** gemengd (Ethias **741m** Viapass **~102-105m**) · GO inventory **1.0bn** · AMR cost **281m** / AB reimb **-8%** dual non-reimb **12%** · FOI still bulk ASBL/firm + cash delivery L5 |
-| **E. FOI-ready gaps** | **~301** drafts ready | Human send only; answered **~9**; total FOI rows **~313** (+ fiscal assignment residual · tax measures outturn · VL AVB · accounts balance · Lantis NEC4 · VLAIO recovery KPI · dual gemengd · AB spend L5 · …) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** fiscal assignment dual cash **92.5bn** Â· VL accounts/debt path Â· Lantis/TV financing Â· dual gemengde perimeter Â· Viapass/Ethias/BAC |
+| **D. L5 named / measure end-lines** | **~36-49%** of TE (generous) | **Gain 550â†’560 is VL CoA residual + federal fiscal Part II + AMR wave:** expose Tables1-11 fiscal ESA **164bn**/cash third **92.5bn** (BVH/VAT/VenB L5 Â· measures **+1.58bn** Â· Table11 beneficiary matrix) Â· CoA VL RR debt **50.2bn** / Zaventem **2.55** Â· Lantis under-vastleg **~2.42bn** Â· open verb **7.37bn** Â· TV fin **3.85bn** Â· relance underuse **342m** Â· PAS **3.65bn** Â· REPowerEU Â· VLAIO recovery/print Â· dual **66** gemengd (Ethias **741m** Viapass **~102-105m**) Â· GO inventory **1.0bn** Â· AMR cost **281m** / AB reimb **-8%** dual non-reimb **12%** Â· FOI still bulk ASBL/firm + cash delivery L5 |
+| **E. FOI-ready gaps** | **~301** drafts ready | Human send only; answered **~9**; total FOI rows **~313** (+ fiscal assignment residual Â· tax measures outturn Â· VL AVB Â· accounts balance Â· Lantis NEC4 Â· VLAIO recovery KPI Â· dual gemengd Â· AB spend L5 Â· â€¦) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem/PMV) · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** is social-cost estimate not budget line · consolidating ESA saldos dual.
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** Â· company cars/cheque/EIWT Â· lottery stakes Â· FPB *options* Â· Tax Shelter Â· private PPP Â· equity injections (Zaventem/PMV) Â· reform *savings paths* Â· Belfius sale/div one-offs Â· **gross financing / OLO** debt finance Â· **unconsol federal debt stock** Â· **E1 SPB/financing path** fiscal control not pure TE Â· AMR **281m** is social-cost estimate not budget line Â· consolidating ESA saldos dual.
 
 ### Inventory (tick 560)
 
@@ -48,10 +81,10 @@
 
 ### What improved since tick 550
 
-- **Federal fiscal Part II (tick551–554):** ESA fiscal **€164bn** 2026 L5 (BVH **66.8** VAT **45.1** VenB **26.7**); cash dual third-party+assigned **€92.5bn**; Table4 measures **+€1.58bn**; Table11 beneficiary matrix EU/C&R/SS.
-- **VL CoA rekeningen residual (tick555–556):** financing **-€3.98bn**; Maastricht debt **€50.2bn** (+**8.38**); Zaventem PMV **€2.55bn**; Lantis under-commitment **~€2.42bn** on NEC4; open toelage-verb **€7.37bn**; TV financing cum **€3.85bn**.
-- **Relance + VLAIO + dual gemengd (tick557–558):** relance underuse **€342m** 2025; PAS envelope **€3.65bn**; REPowerEU path; VLAIO impaired **€93.5m** / corona recover **€196.5m** / print eco **€22m**; dual **66** mixed entities Ethias/Viapass/BAC/GO.
-- **AMR antibiotics CoA (tick559):** social cost **€281m**/yr; reimbursed AB **-8%**; non-reimb share **12%** outside RIZIV control dual FAGG.
+- **Federal fiscal Part II (tick551â€“554):** ESA fiscal **â‚¬164bn** 2026 L5 (BVH **66.8** VAT **45.1** VenB **26.7**); cash dual third-party+assigned **â‚¬92.5bn**; Table4 measures **+â‚¬1.58bn**; Table11 beneficiary matrix EU/C&R/SS.
+- **VL CoA rekeningen residual (tick555â€“556):** financing **-â‚¬3.98bn**; Maastricht debt **â‚¬50.2bn** (+**8.38**); Zaventem PMV **â‚¬2.55bn**; Lantis under-commitment **~â‚¬2.42bn** on NEC4; open toelage-verb **â‚¬7.37bn**; TV financing cum **â‚¬3.85bn**.
+- **Relance + VLAIO + dual gemengd (tick557â€“558):** relance underuse **â‚¬342m** 2025; PAS envelope **â‚¬3.65bn**; REPowerEU path; VLAIO impaired **â‚¬93.5m** / corona recover **â‚¬196.5m** / print eco **â‚¬22m**; dual **66** mixed entities Ethias/Viapass/BAC/GO.
+- **AMR antibiotics CoA (tick559):** social cost **â‚¬281m**/yr; reimbursed AB **-8%**; non-reimb share **12%** outside RIZIV control dual FAGG.
 
 ---
 
@@ -61,11 +94,11 @@
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** full Part III–IV exposé dual map (Graph1 · C&R · EU · consol · SS stacks) · Entity I invest/GCF · SPB path · consol multi-year FPIM/Hedera |
-| **D. L5 named / measure end-lines** | **~35-48%** of TE (generous) | **Gain 540→550 is exposé residual close wave:** Part IV SS L5 (employees pensions **43.3** illness **14.9** unemp **4.6** · RIZIV **41.3** · self **7.0** · public pens **22.8** · three-stack **72.0** · other SS **1.57bn** FSO/Ex-OSZ/RVA emp) · E1 invest gov-supported **7.71bn** / NMBS aid **1.09** / defence ESA corr **−1.39** · nopol vs post financing **−39.1 vs −31.2** 2029 · SPB **−12.5bn/−1.7%** · debt ratio **85.6→90.3%** · rate/growth sensitivity · one-offs Belfius **+500m** · FOI still bulk ASBL/firm + delivery L5 |
-| **E. FOI-ready gaps** | **~295** drafts ready | Human send only; answered **~9**; total FOI rows **~305** (+ other-SS case · E1 invest codes · measures delivery · sensitivity/one-off method · prior ODA/partner · pubpen employer · …) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** full Part IIIâ€“IV exposÃ© dual map (Graph1 Â· C&R Â· EU Â· consol Â· SS stacks) Â· Entity I invest/GCF Â· SPB path Â· consol multi-year FPIM/Hedera |
+| **D. L5 named / measure end-lines** | **~35-48%** of TE (generous) | **Gain 540â†’550 is exposÃ© residual close wave:** Part IV SS L5 (employees pensions **43.3** illness **14.9** unemp **4.6** Â· RIZIV **41.3** Â· self **7.0** Â· public pens **22.8** Â· three-stack **72.0** Â· other SS **1.57bn** FSO/Ex-OSZ/RVA emp) Â· E1 invest gov-supported **7.71bn** / NMBS aid **1.09** / defence ESA corr **âˆ’1.39** Â· nopol vs post financing **âˆ’39.1 vs âˆ’31.2** 2029 Â· SPB **âˆ’12.5bn/âˆ’1.7%** Â· debt ratio **85.6â†’90.3%** Â· rate/growth sensitivity Â· one-offs Belfius **+500m** Â· FOI still bulk ASBL/firm + delivery L5 |
+| **E. FOI-ready gaps** | **~295** drafts ready | Human send only; answered **~9**; total FOI rows **~305** (+ other-SS case Â· E1 invest codes Â· measures delivery Â· sensitivity/one-off method Â· prior ODA/partner Â· pubpen employer Â· â€¦) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** is fiscal control not pure TE slice · consol ESA **+1.1bn** improves Entity I perimeter.
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** Â· company cars/cheque/EIWT Â· lottery stakes Â· FPB *options* Â· Tax Shelter Â· private PPP Â· equity injections Â· reform *savings paths* Â· Belfius sale/div one-offs Â· **gross financing / OLO** debt finance Â· **unconsol federal debt stock** Â· **E1 SPB/financing path** is fiscal control not pure TE slice Â· consol ESA **+1.1bn** improves Entity I perimeter.
 
 ### Inventory (tick 550)
 
@@ -83,10 +116,10 @@
 
 ### What improved since tick 540
 
-- **Intergov + EU + consol (tick541–542):** C&R federal means **€76.8bn** dual Graph1 E2 **81.5**; SS federal **53.9**; local **4.3**; EU **9.145bn**; consol ESA **+1.392bn** 2026 (FPIM/BE-WATT/Hedera).
-- **Part IV SS complete class (tick543–546):** social protection **€194.5bn** exp; benefits L5 emp/self/public/RIZIV/assistance; other schemes **€1.57bn** (FSO **824m** total / Ex-OSZ **336m** benefits).
-- **E1 capital + fiscal path (tick547–548):** invest gov-supported **€7.71bn** 2026 (1.2% GDP); nopol financing **−39.1bn** 2029 vs post **−31.2**; SPB stuck **~−1.7%**; debt **90.3%** 2029.
-- **Sensitivity + one-offs + consol multi-year (tick549):** +100bp **€2.79bn** 2029; growth −0.5pp **−€6.4bn**; Belfius **+500m** one-off; consol ESA **+1.1bn** class 2027–29.
+- **Intergov + EU + consol (tick541â€“542):** C&R federal means **â‚¬76.8bn** dual Graph1 E2 **81.5**; SS federal **53.9**; local **4.3**; EU **9.145bn**; consol ESA **+1.392bn** 2026 (FPIM/BE-WATT/Hedera).
+- **Part IV SS complete class (tick543â€“546):** social protection **â‚¬194.5bn** exp; benefits L5 emp/self/public/RIZIV/assistance; other schemes **â‚¬1.57bn** (FSO **824m** total / Ex-OSZ **336m** benefits).
+- **E1 capital + fiscal path (tick547â€“548):** invest gov-supported **â‚¬7.71bn** 2026 (1.2% GDP); nopol financing **âˆ’39.1bn** 2029 vs post **âˆ’31.2**; SPB stuck **~âˆ’1.7%**; debt **90.3%** 2029.
+- **Sensitivity + one-offs + consol multi-year (tick549):** +100bp **â‚¬2.79bn** 2029; growth âˆ’0.5pp **âˆ’â‚¬6.4bn**; Belfius **+500m** one-off; consol ESA **+1.1bn** class 2027â€“29.
 
 ---
 
@@ -96,11 +129,11 @@
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Entity I Graph1 dual fed available **27.5bn** vs SS **148bn** · federal primary VEK/VLK map · Defence dual · ODA multi-actor · federal debt financing Agency |
-| **D. L5 named / measure end-lines** | **~34-47%** of TE (generous) | **Gain 530→540 is Kamer exposé 2026 residual dual wave:** combined permit / DEM-DVZ · DBFM prison invest fees **~53m/yr** remain **~0.95bn** · TACT due **470→362m** · spending-review save paths (WASO post **15–67.5m**; return **150m** by 2029) · aging SCvV **25.8→27.5% GDP** · Graph1 transfers E2 **81.5** / SS **54.3** / EU **9.1** · primary **VEK 99.7 / VLK 90.9bn** · Defence **20.1/10.8** · COFOG gen admin **41.2** · ODA **2.35bn** 0.35% GNI dual DGD/EC/Fedasil · fed interest **12.34bn** · gross financing **59.7bn** · unconsol debt **601bn** · FOI still bulk ASBL/firm + partner L5 + Table6 unallocated |
-| **E. FOI-ready gaps** | **~284** drafts ready | Human send only; answered **~9**; total FOI rows **~296** (+ GV volumes · DBFM maint · TACT digital · SR delivery · aging cash · E1 unallocated · Defence VEK/VLK · ODA partner L5, …) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Entity I Graph1 dual fed available **27.5bn** vs SS **148bn** Â· federal primary VEK/VLK map Â· Defence dual Â· ODA multi-actor Â· federal debt financing Agency |
+| **D. L5 named / measure end-lines** | **~34-47%** of TE (generous) | **Gain 530â†’540 is Kamer exposÃ© 2026 residual dual wave:** combined permit / DEM-DVZ Â· DBFM prison invest fees **~53m/yr** remain **~0.95bn** Â· TACT due **470â†’362m** Â· spending-review save paths (WASO post **15â€“67.5m**; return **150m** by 2029) Â· aging SCvV **25.8â†’27.5% GDP** Â· Graph1 transfers E2 **81.5** / SS **54.3** / EU **9.1** Â· primary **VEK 99.7 / VLK 90.9bn** Â· Defence **20.1/10.8** Â· COFOG gen admin **41.2** Â· ODA **2.35bn** 0.35% GNI dual DGD/EC/Fedasil Â· fed interest **12.34bn** Â· gross financing **59.7bn** Â· unconsol debt **601bn** Â· FOI still bulk ASBL/firm + partner L5 + Table6 unallocated |
+| **E. FOI-ready gaps** | **~284** drafts ready | Human send only; answered **~9**; total FOI rows **~296** (+ GV volumes Â· DBFM maint Â· TACT digital Â· SR delivery Â· aging cash Â· E1 unallocated Â· Defence VEK/VLK Â· ODA partner L5, â€¦) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale · **gross financing / OLO issuance** are debt finance not TE · **unconsol federal debt stock** dual vs GG Maastricht · ODA is largely TE-adjacent but multi-actor dual.
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· FPB *options* Â· Tax Shelter Â· private PPP Â· equity injections Â· reform *savings paths* Â· Belfius sale Â· **gross financing / OLO issuance** are debt finance not TE Â· **unconsol federal debt stock** dual vs GG Maastricht Â· ODA is largely TE-adjacent but multi-actor dual.
 
 ### Inventory (tick 540)
 
@@ -118,10 +151,10 @@
 
 ### What improved since tick 530
 
-- **CoA residual close (tick531–535):** combined permit DEM-DVZ dual volumes · DBFM prison invest fees Table41 (Haren **29.4m**/yr … 4 prisons remain **~€950m**) · TACT due path **470/395/362m** · digital KPI FOI.
-- **Exposé spending reviews + aging (tick536–537):** WASO post save band **€15–67.5m** · Fedasil open **€1.1m**/yr specialist · return/closed centres path **€150m** by 2029 · SCvV social exp **25.8→27.5% GDP**; dual E1/E2 aging; policy save **>€2.7bn** exp + **>€1.9bn** LT-sick by 2029.
-- **Entity I dual flows + primary map (tick538–539):** Graph1 federal available only **€27.5bn** of **173.7** after E2 **81.5** + SS **54.3** + EU **9.1**; E1 deficit **−€24.6bn (−3.7% GDP)**; primary VEK **€99.7bn** / VLK **€90.9bn**; Defence dual **20.1/10.8**; econ SS transfers **€26.5bn**; COFOG gen admin **€41.2bn (45%)**.
-- **ODA + debt finance (tick540):** ODA **€2.99bn (0.48% GNI) 2024 → €2.35bn (0.35%) 2026**; DGD VLK **€1.04bn** / VEK **€0.65bn**; Fedasil ODA dual **437→234m**; EC share **€897m**; federal interest series trough **€6.93bn** 2022 → **€12.34bn** 2026; gross financing **€59.7bn**; unconsol fed debt **€540.7→601.3bn**.
+- **CoA residual close (tick531â€“535):** combined permit DEM-DVZ dual volumes Â· DBFM prison invest fees Table41 (Haren **29.4m**/yr â€¦ 4 prisons remain **~â‚¬950m**) Â· TACT due path **470/395/362m** Â· digital KPI FOI.
+- **ExposÃ© spending reviews + aging (tick536â€“537):** WASO post save band **â‚¬15â€“67.5m** Â· Fedasil open **â‚¬1.1m**/yr specialist Â· return/closed centres path **â‚¬150m** by 2029 Â· SCvV social exp **25.8â†’27.5% GDP**; dual E1/E2 aging; policy save **>â‚¬2.7bn** exp + **>â‚¬1.9bn** LT-sick by 2029.
+- **Entity I dual flows + primary map (tick538â€“539):** Graph1 federal available only **â‚¬27.5bn** of **173.7** after E2 **81.5** + SS **54.3** + EU **9.1**; E1 deficit **âˆ’â‚¬24.6bn (âˆ’3.7% GDP)**; primary VEK **â‚¬99.7bn** / VLK **â‚¬90.9bn**; Defence dual **20.1/10.8**; econ SS transfers **â‚¬26.5bn**; COFOG gen admin **â‚¬41.2bn (45%)**.
+- **ODA + debt finance (tick540):** ODA **â‚¬2.99bn (0.48% GNI) 2024 â†’ â‚¬2.35bn (0.35%) 2026**; DGD VLK **â‚¬1.04bn** / VEK **â‚¬0.65bn**; Fedasil ODA dual **437â†’234m**; EC share **â‚¬897m**; federal interest series trough **â‚¬6.93bn** 2022 â†’ **â‚¬12.34bn** 2026; gross financing **â‚¬59.7bn**; unconsol fed debt **â‚¬540.7â†’601.3bn**.
 
 ---
 
@@ -131,11 +164,11 @@
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Metro3 dual STIB/Beliris programme map · SIOD/social-inspection HR stack · COVID federal support package · plates/DIV · rail procurement residual entities |
-| **D. L5 named / measure end-lines** | **~33-46%** of TE (generous) | **Gain 520→530 is CoA residual dual/L5 wave:** SIOD HR **18.3m**/270 VTE → net **+8.2** · BBBC RRF path · COVID federal **19.4bn** 2020 (recs 2/19 done) · kenteken concession **~240m** sole bidder / **0/17** recs · Ypto/TUC/Infrabel proc residual · company-car **CO₂** receipts **278.5m** / cum gap **958m** / vs ordinary SSC **>1bn** · mobiliteitsbudget **72m**/10k workers (**~50×** smaller than cars) · **Metro3 €4.76bn** (+**477%** vs 0.82bn) spent **421m** Beliris divert **403m** BCR gap **~4.3bn** · FOI still bulk ASBL/firm + cash-by-year L5 |
-| **E. FOI-ready gaps** | **~274** drafts ready | Human send only; answered **~9**; total FOI rows **~286** (+ SIOD · BBBC · COVID · plates · rail proc · CO₂/DIV · MB pillar2 · Metro3 cash L5, …) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Metro3 dual STIB/Beliris programme map Â· SIOD/social-inspection HR stack Â· COVID federal support package Â· plates/DIV Â· rail procurement residual entities |
+| **D. L5 named / measure end-lines** | **~33-46%** of TE (generous) | **Gain 520â†’530 is CoA residual dual/L5 wave:** SIOD HR **18.3m**/270 VTE â†’ net **+8.2** Â· BBBC RRF path Â· COVID federal **19.4bn** 2020 (recs 2/19 done) Â· kenteken concession **~240m** sole bidder / **0/17** recs Â· Ypto/TUC/Infrabel proc residual Â· company-car **COâ‚‚** receipts **278.5m** / cum gap **958m** / vs ordinary SSC **>1bn** Â· mobiliteitsbudget **72m**/10k workers (**~50Ã—** smaller than cars) Â· **Metro3 â‚¬4.76bn** (+**477%** vs 0.82bn) spent **421m** Beliris divert **403m** BCR gap **~4.3bn** Â· FOI still bulk ASBL/firm + cash-by-year L5 |
+| **E. FOI-ready gaps** | **~274** drafts ready | Human send only; answered **~9**; total FOI rows **~286** (+ SIOD Â· BBBC Â· COVID Â· plates Â· rail proc Â· COâ‚‚/DIV Â· MB pillar2 Â· Metro3 cash L5, â€¦) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow · reform *savings paths* are budget deltas not TE flow · Belfius sale is asset finance not pure TE · **Metro3 multi-year envelope** annualised for ranking only (stock path; not pure annual TE).
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· FPB *options* Â· Tax Shelter Â· private PPP Â· equity injections (Zaventem) are debt/finance not TE flow Â· reform *savings paths* are budget deltas not TE flow Â· Belfius sale is asset finance not pure TE Â· **Metro3 multi-year envelope** annualised for ranking only (stock path; not pure annual TE).
 
 ### Inventory (tick 530)
 
@@ -153,11 +186,11 @@
 
 ### What improved since tick 520
 
-- **Social inspection / multi-OISZ (tick522):** CoA HR SIOD **18.283m** credits for **270** VTE → net staff **+8.2** only (inspect +50.6 / support −42.4); wage bill **148.1m** 2024.
-- **RRF / crisis residual (tick523-524):** BBBC CE PHV call1 **6.98m** / package residual · COVID federal **103** measures **€19.40bn** 2020 (+**1.15bn** H1 2021); recs **2 done / 9 progress / 6 not / 2 n/a**.
-- **Procurement / concessions (tick525-526):** kenteken **€240m** sole-bidder bpost; **0/17** recs follow-up; DIV document refusal · residual federal proc sample (Ypto **>154m** class / TUC half without tender / Infrabel **550m**).
-- **Company cars dual taxex+SSC (tick527-528):** CO₂ contrib **278.52m** 2022 for **560,941** vehicles; avg **€497** (−38% vs 2008); cum target gap **958m**; MB **72.0m** / **10,250** workers still **~50×** smaller; pillar2 **50.8m** opaque.
-- **Metro3 dual federal-regional (tick529):** CoA **2025_33** full programme **€4,759.7m** Dec2024; service **2035**; spent **421.3m**; Beliris **464.4m** of which **402.7m diverted**; BCR financing gap **~€4.29bn**; STIB scenarios A **4.375** / A-PPP **7.743** / B **1.653** / E **1.002** bn; EIB **475m**.
+- **Social inspection / multi-OISZ (tick522):** CoA HR SIOD **18.283m** credits for **270** VTE â†’ net staff **+8.2** only (inspect +50.6 / support âˆ’42.4); wage bill **148.1m** 2024.
+- **RRF / crisis residual (tick523-524):** BBBC CE PHV call1 **6.98m** / package residual Â· COVID federal **103** measures **â‚¬19.40bn** 2020 (+**1.15bn** H1 2021); recs **2 done / 9 progress / 6 not / 2 n/a**.
+- **Procurement / concessions (tick525-526):** kenteken **â‚¬240m** sole-bidder bpost; **0/17** recs follow-up; DIV document refusal Â· residual federal proc sample (Ypto **>154m** class / TUC half without tender / Infrabel **550m**).
+- **Company cars dual taxex+SSC (tick527-528):** COâ‚‚ contrib **278.52m** 2022 for **560,941** vehicles; avg **â‚¬497** (âˆ’38% vs 2008); cum target gap **958m**; MB **72.0m** / **10,250** workers still **~50Ã—** smaller; pillar2 **50.8m** opaque.
+- **Metro3 dual federal-regional (tick529):** CoA **2025_33** full programme **â‚¬4,759.7m** Dec2024; service **2035**; spent **421.3m**; Beliris **464.4m** of which **402.7m diverted**; BCR financing gap **~â‚¬4.29bn**; STIB scenarios A **4.375** / A-PPP **7.743** / B **1.653** / E **1.002** bn; EIB **475m**.
 
 ---
 
@@ -167,11 +200,11 @@
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** BRU SEC deficit **957m** · STIB **1.17bn** · Justice digi multi-source · consultancy inventory **2.5bn**/3y · Smals broker · Entity I residual fills |
-| **D. L5 named / measure end-lines** | **~32-45%** of TE (generous) | **Gain 510->520 is CoA residual aju + consultancy mega-audit + Justice digi dual:** Phoenix CfD **584m** · customs/VVPR/opcent · defence asset optim **3.17bn** / Belfius **~2bn** · Fedasil save gap · federal consultancy **2.525bn** 2020-22 (IT **81%**) · Smals broker framework **1.8bn** / orders **471m** · 101-contract sample **2.2bn** systemic non-compliance · Justice digi **~140m**/2023 + **~500** consultants · JustSign/bpost **5.8m** · FAM ops **12.5m** · FOI still bulk ASBL/firm + named contractor L5 |
-| **E. FOI-ready gaps** | **~265** drafts ready | Human send only; answered **~9**; total FOI rows **~277** (+ Phoenix · customs · defence · consultancy inventory · BRU measures · FAM · Smals broker · 101 overruns · Justice digi, ...) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** BRU SEC deficit **957m** Â· STIB **1.17bn** Â· Justice digi multi-source Â· consultancy inventory **2.5bn**/3y Â· Smals broker Â· Entity I residual fills |
+| **D. L5 named / measure end-lines** | **~32-45%** of TE (generous) | **Gain 510->520 is CoA residual aju + consultancy mega-audit + Justice digi dual:** Phoenix CfD **584m** Â· customs/VVPR/opcent Â· defence asset optim **3.17bn** / Belfius **~2bn** Â· Fedasil save gap Â· federal consultancy **2.525bn** 2020-22 (IT **81%**) Â· Smals broker framework **1.8bn** / orders **471m** Â· 101-contract sample **2.2bn** systemic non-compliance Â· Justice digi **~140m**/2023 + **~500** consultants Â· JustSign/bpost **5.8m** Â· FAM ops **12.5m** Â· FOI still bulk ASBL/firm + named contractor L5 |
+| **E. FOI-ready gaps** | **~265** drafts ready | Human send only; answered **~9**; total FOI rows **~277** (+ Phoenix Â· customs Â· defence Â· consultancy inventory Â· BRU measures Â· FAM Â· Smals broker Â· 101 overruns Â· Justice digi, ...) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow · reform *savings paths* are budget deltas not TE flow · Belfius sale is asset finance not pure TE.
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· FPB *options* Â· Tax Shelter Â· private PPP Â· equity injections (Zaventem) are debt/finance not TE flow Â· reform *savings paths* are budget deltas not TE flow Â· Belfius sale is asset finance not pure TE.
 
 ### Inventory (tick 520)
 
@@ -189,24 +222,24 @@
 
 ### What improved since tick 510
 
-- **Entity I residual (tick511-513):** energy L5 Phoenix CfD **~584m** + assignment-fund opacity · fiscal customs/VVPR/opcent contingent · defence multi-year financing + asset optim **3.17bn** / Belfius **~2bn** · Fedasil save gap residual.
-- **Consultancy mega-wave (tick514,517-518):** federal consultancy **EUR 2.525bn** 2020-22 (IT **2.03bn** / non-IT **492m**) · top buyers NMBS/Infrabel/Fin/BOSA · Smals broker **1.8bn** framework / **471m** orders / single bidder · 101-contract sample **2.2bn** non-compliance (no cost-benefit **78%/1.8bn**).
-- **Entity II + social (tick515-516):** BRU SEC **~-957m** / debt path **17.7bn** / STIB **1.17bn** / Kanal omission · FAM medical accidents ops **12.5m** / indemn cumul **101m**.
-- **Justice digi dual IT (tick519):** policy-cell **~140m** 2023 · SD ICT **93.4m** commit · PHV **115m** · **~500** external consultants (Crossborder **228 vs 6** statutory) · JustSign/bpost irregular **5.8m** · dual I-Police/Persona/Cepage.
+- **Entity I residual (tick511-513):** energy L5 Phoenix CfD **~584m** + assignment-fund opacity Â· fiscal customs/VVPR/opcent contingent Â· defence multi-year financing + asset optim **3.17bn** / Belfius **~2bn** Â· Fedasil save gap residual.
+- **Consultancy mega-wave (tick514,517-518):** federal consultancy **EUR 2.525bn** 2020-22 (IT **2.03bn** / non-IT **492m**) Â· top buyers NMBS/Infrabel/Fin/BOSA Â· Smals broker **1.8bn** framework / **471m** orders / single bidder Â· 101-contract sample **2.2bn** non-compliance (no cost-benefit **78%/1.8bn**).
+- **Entity II + social (tick515-516):** BRU SEC **~-957m** / debt path **17.7bn** / STIB **1.17bn** / Kanal omission Â· FAM medical accidents ops **12.5m** / indemn cumul **101m**.
+- **Justice digi dual IT (tick519):** policy-cell **~140m** 2023 Â· SD ICT **93.4m** commit Â· PHV **115m** Â· **~500** external consultants (Crossborder **228 vs 6** statutory) Â· JustSign/bpost irregular **5.8m** Â· dual I-Police/Persona/Cepage.
 
 ---
 
 ## Snapshot at **tick 510** (2026-07-28)
 
-| Layer | Coverage of €347.956 bn TE | Assessment |
+| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Entity I aju deficit **24.5bn** · SS BC **148.0bn** near balance · Fedasil **848m** · Justice **2.9bn** · unemp **4.84bn** · dual E1/E2 residual |
-| **D. L5 named / measure end-lines** | **~31–44%** of TE (generous) | **Gain 500→510 is CoA mobility + federal aju residual wave:** DWV studies **~125m** four-pack overruns · Oosterweel exec **10.1bn** / interest **24.5bn** 2026-83 · E1 energy **~2.6bn** · MPKV coast **466m** / Kustvisie **21m** / century **2–5bn** · KMO VenB control uplift **>5.6bn** · BBI bank assess **2.3bn** / collect **36m** · Fedasil save path gap · POD MI soft save **13m** undeliverable · RIZIV miss **183m** · unemp reform path **1.69→2.45bn** / exclusion **194k** / leefloon shift **32%** · invalidity cumul miss **334m** · FOI still bulk ASBL/firm + dual cash |
-| **E. FOI-ready gaps** | **~257** drafts ready | Human send only; answered **~9**; total FOI rows **~268** (+ DWV · Oosterweel · energy funds · MPKV · KMO · BBI · Fedasil · POD MI · RVA/leefloon, …) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Entity I aju deficit **24.5bn** Â· SS BC **148.0bn** near balance Â· Fedasil **848m** Â· Justice **2.9bn** Â· unemp **4.84bn** Â· dual E1/E2 residual |
+| **D. L5 named / measure end-lines** | **~31â€“44%** of TE (generous) | **Gain 500â†’510 is CoA mobility + federal aju residual wave:** DWV studies **~125m** four-pack overruns Â· Oosterweel exec **10.1bn** / interest **24.5bn** 2026-83 Â· E1 energy **~2.6bn** Â· MPKV coast **466m** / Kustvisie **21m** / century **2â€“5bn** Â· KMO VenB control uplift **>5.6bn** Â· BBI bank assess **2.3bn** / collect **36m** Â· Fedasil save path gap Â· POD MI soft save **13m** undeliverable Â· RIZIV miss **183m** Â· unemp reform path **1.69â†’2.45bn** / exclusion **194k** / leefloon shift **32%** Â· invalidity cumul miss **334m** Â· FOI still bulk ASBL/firm + dual cash |
+| **E. FOI-ready gaps** | **~257** drafts ready | Human send only; answered **~9**; total FOI rows **~268** (+ DWV Â· Oosterweel Â· energy funds Â· MPKV Â· KMO Â· BBI Â· Fedasil Â· POD MI Â· RVA/leefloon, â€¦) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow · reform *savings paths* are budget deltas not TE flow.
+**Off-TE (do not mix into 348 bn):** federal taxex **â‚¬29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· FPB *options* Â· Tax Shelter Â· private PPP Â· equity injections (Zaventem) are debt/finance not TE flow Â· reform *savings paths* are budget deltas not TE flow.
 
 ### Inventory (tick 510)
 
@@ -224,24 +257,24 @@
 
 ### What improved since tick 500
 
-- **Mobility dual (tick501–502):** DWV study four-pack spent class **~€125m** (R0N **36→104m** est) · Toekomstverbond Oosterweel exec **€10.055bn** · BC interest **€24.495bn** 2026–2083 · dual Lantis/GIP.
-- **Federal aju macro (tick503):** Entity I deficit **€24.5bn** · primary **12.2→18.7** · interest **12.3→17.5** · defence multi-year **17.3bn** · energy **~2.6bn** · dual E2.
-- **Coast + tax control (tick504–506):** MPKV **€321+144m** / Kustvisie **€21m** / century **€2–5bn** · KMO VenB **>€5.6bn** control uplifts · BBI bank **€2.3bn** assess / **€36m** collect (~1.6%).
-- **Social residual (tick507–509):** Justice **€2.9bn** + prison provis **€259m** · Fedasil **€848m** · SS **€148.0bn** · POD MI OCMW **€2.31bn** soft save slip · unemp reform **€1.69bn** path dual leefloon **31.9%** Q1 · invalidity multi-year miss **€334m**.
+- **Mobility dual (tick501â€“502):** DWV study four-pack spent class **~â‚¬125m** (R0N **36â†’104m** est) Â· Toekomstverbond Oosterweel exec **â‚¬10.055bn** Â· BC interest **â‚¬24.495bn** 2026â€“2083 Â· dual Lantis/GIP.
+- **Federal aju macro (tick503):** Entity I deficit **â‚¬24.5bn** Â· primary **12.2â†’18.7** Â· interest **12.3â†’17.5** Â· defence multi-year **17.3bn** Â· energy **~2.6bn** Â· dual E2.
+- **Coast + tax control (tick504â€“506):** MPKV **â‚¬321+144m** / Kustvisie **â‚¬21m** / century **â‚¬2â€“5bn** Â· KMO VenB **>â‚¬5.6bn** control uplifts Â· BBI bank **â‚¬2.3bn** assess / **â‚¬36m** collect (~1.6%).
+- **Social residual (tick507â€“509):** Justice **â‚¬2.9bn** + prison provis **â‚¬259m** Â· Fedasil **â‚¬848m** Â· SS **â‚¬148.0bn** Â· POD MI OCMW **â‚¬2.31bn** soft save slip Â· unemp reform **â‚¬1.69bn** path dual leefloon **31.9%** Q1 Â· invalidity multi-year miss **â‚¬334m**.
 
 ---
 
 ## Snapshot at **tick 500** (2026-07-28)
 
-| Layer | Coverage of €347.956 bn TE | Assessment |
+| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA Entity II aju quartet complete (FWB/WAL/DG) · VL Onderwijs **17.25bn** · VL certified RR2025 outturn/debt · GIP **3.685bn** class · prison DBFM follow-up |
-| **D. L5 named / measure end-lines** | **~30–43%** of TE (generous) | **Gain 490→500 is CoA dual education + Entity II aju + VL certified accounts:** prison DBFM Antwerp fees · GIP actualisatie **3.685bn** / bike **220m** · FWB SEC aju **−1.753bn** economies **254→733m** · WAL SEC aju **−2.015bn** debt **30.7→33.0bn** · DG ESVG **−0.11bn** debt path **1.47bn** · FWB Cepage IT **35–96m** unsubstantiated + Etnic **~118m** · VL Persona **16m** cancelled dual · VL OV savings **~322m** · AVB **52.2m** + inductie **48.7m** + bonus **24.7m** · VL RR ESR **−3.98bn** / Maastricht **50.2bn** (+**8.4bn**) / Zaventem PMV **2.55bn** / nonbudget debt **1.07bn** / Toekomstverbond **3.85bn** · FOI still bulk named ASBL/firm + debt bridge L5 |
-| **E. FOI-ready gaps** | **~248** drafts ready | Human send only; answered **~9**; total FOI rows **~259** (+ debt bridge, Persona, AVB, Cepage, WAL fiches, DG infra, FWB economies programme, …) |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA Entity II aju quartet complete (FWB/WAL/DG) Â· VL Onderwijs **17.25bn** Â· VL certified RR2025 outturn/debt Â· GIP **3.685bn** class Â· prison DBFM follow-up |
+| **D. L5 named / measure end-lines** | **~30â€“43%** of TE (generous) | **Gain 490â†’500 is CoA dual education + Entity II aju + VL certified accounts:** prison DBFM Antwerp fees Â· GIP actualisatie **3.685bn** / bike **220m** Â· FWB SEC aju **âˆ’1.753bn** economies **254â†’733m** Â· WAL SEC aju **âˆ’2.015bn** debt **30.7â†’33.0bn** Â· DG ESVG **âˆ’0.11bn** debt path **1.47bn** Â· FWB Cepage IT **35â€“96m** unsubstantiated + Etnic **~118m** Â· VL Persona **16m** cancelled dual Â· VL OV savings **~322m** Â· AVB **52.2m** + inductie **48.7m** + bonus **24.7m** Â· VL RR ESR **âˆ’3.98bn** / Maastricht **50.2bn** (+**8.4bn**) / Zaventem PMV **2.55bn** / nonbudget debt **1.07bn** / Toekomstverbond **3.85bn** Â· FOI still bulk named ASBL/firm + debt bridge L5 |
+| **E. FOI-ready gaps** | **~248** drafts ready | Human send only; answered **~9**; total FOI rows **~259** (+ debt bridge, Persona, AVB, Cepage, WAL fiches, DG infra, FWB economies programme, â€¦) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* (not adopted budget) · Tax Shelter · private PPP · equity injections (Zaventem) are debt/finance not TE flow.
+**Off-TE (do not mix into 348 bn):** federal taxex **â‚¬29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· FPB *options* (not adopted budget) Â· Tax Shelter Â· private PPP Â· equity injections (Zaventem) are debt/finance not TE flow.
 
 ### Inventory (tick 500)
 
@@ -259,24 +292,24 @@
 
 ### What improved since tick 490
 
-- **CoA prison DBFM + GIP (tick491–492):** Antwerp DBFM fees/VFM dual VL PPP · GIP actualisatie **€3.685bn** class + bike **€220m** dual SOFICO.
-- **Entity II aju complete (tick493–495):** FWB SEC **−1.753bn** economies **254→733m** · WAL SEC **−2.015bn** debt **30.7bn** eoy25 path **33.0** · DG ESVG **−0.11bn** debt path **1.47bn** · dual quartet residual map closed with DG.
-- **Dual education IT + OV (tick496–498):** FWB Cepage **35–96m** uncosted under personnel **€7.1bn** · VL Persona **€16m** stop · VL OV **€17.25bn** + savings **~€322m** · AVB+inductie **>€100m** + bonus **€24.7m**.
-- **VL certified accounts (tick499):** ESR **−€3.98bn** · Maastricht **€50.2bn** (+**€8.4bn**) · Zaventem/PMV **€2.55bn** · nonbudget debt build **€1.07bn** FOI · Toekomstverbond cum **€3.85bn**.
+- **CoA prison DBFM + GIP (tick491â€“492):** Antwerp DBFM fees/VFM dual VL PPP Â· GIP actualisatie **â‚¬3.685bn** class + bike **â‚¬220m** dual SOFICO.
+- **Entity II aju complete (tick493â€“495):** FWB SEC **âˆ’1.753bn** economies **254â†’733m** Â· WAL SEC **âˆ’2.015bn** debt **30.7bn** eoy25 path **33.0** Â· DG ESVG **âˆ’0.11bn** debt path **1.47bn** Â· dual quartet residual map closed with DG.
+- **Dual education IT + OV (tick496â€“498):** FWB Cepage **35â€“96m** uncosted under personnel **â‚¬7.1bn** Â· VL Persona **â‚¬16m** stop Â· VL OV **â‚¬17.25bn** + savings **~â‚¬322m** Â· AVB+inductie **>â‚¬100m** + bonus **â‚¬24.7m**.
+- **VL certified accounts (tick499):** ESR **âˆ’â‚¬3.98bn** Â· Maastricht **â‚¬50.2bn** (+**â‚¬8.4bn**) Â· Zaventem/PMV **â‚¬2.55bn** Â· nonbudget debt build **â‚¬1.07bn** FOI Â· Toekomstverbond cum **â‚¬3.85bn**.
 
 ---
 
-## Snapshot at **tick 490** (2026-07-28) — archived
+## Snapshot at **tick 490** (2026-07-28) â€” archived
 
-| Layer | Coverage of €347.956 bn TE | Assessment |
+| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | Unchanged core SOEs/utilities; **+** Entity I path CM Jul (net exp **197.6→219.6bn** class) · FWB/BRU/VL/WAL consolidation control maps · CoA VL kunsten institutional L2 |
-| **D. L5 named / measure end-lines** | **~29–42%** of TE (generous) | **Gain 480→490 is Entity I/II consolidation dual + culture CoA wave:** VL measures path **0.72→2.76bn** · Jobbonus save **242m** · Warm/Welvarend expansion · WAL economies **270m** · BRU SEC measures **297→1186m** · FWB SEC **-1.608→-1.224bn** + net effort **500m** · Entity II quartet class **2.65bn** 2026 · FPB **263** options inventory · E1 residual control **4.9→7.7bn** 2029 + unalloc L5 **2.19bn** · CoA VL Kunstendecreet awards **201.9m** (WS 187 / KS 14.9; 9 neg-advice overrides) · NL Democracy Fund **0.50m** + Regie **3.09m** residual · FOI still bulk named ASBL/firm + top-50 culture |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | Unchanged core SOEs/utilities; **+** Entity I path CM Jul (net exp **197.6â†’219.6bn** class) Â· FWB/BRU/VL/WAL consolidation control maps Â· CoA VL kunsten institutional L2 |
+| **D. L5 named / measure end-lines** | **~29â€“42%** of TE (generous) | **Gain 480â†’490 is Entity I/II consolidation dual + culture CoA wave:** VL measures path **0.72â†’2.76bn** Â· Jobbonus save **242m** Â· Warm/Welvarend expansion Â· WAL economies **270m** Â· BRU SEC measures **297â†’1186m** Â· FWB SEC **-1.608â†’-1.224bn** + net effort **500m** Â· Entity II quartet class **2.65bn** 2026 Â· FPB **263** options inventory Â· E1 residual control **4.9â†’7.7bn** 2029 + unalloc L5 **2.19bn** Â· CoA VL Kunstendecreet awards **201.9m** (WS 187 / KS 14.9; 9 neg-advice overrides) Â· NL Democracy Fund **0.50m** + Regie **3.09m** residual Â· FOI still bulk named ASBL/firm + top-50 culture |
 | **E. FOI-ready gaps** | **~239** drafts ready | Human send only; answered **~9**; total FOI rows **~250** (+ gap_vl_kunsten_neg9_cash) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · FPB *options* (not adopted budget) · Tax Shelter · private PPP.
+**Off-TE (do not mix into 348 bn):** federal taxex **â‚¬29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· FPB *options* (not adopted budget) Â· Tax Shelter Â· private PPP.
 
 ### Inventory (tick 490)
 
@@ -294,25 +327,25 @@
 
 ### What improved since tick 480
 
-- **NL residual dual (tick481–482):** Democracy Fund KBF **€500k / 18** projects · Regie patrimonium NL **€3.09m** · VL dienstencheques multi-year reform path dual titres WAL+BRU class **€872m**.
-- **VL consolidation (tick483–484):** measures path **722m→2.764bn** 2025–29 · Jobbonus save **242m** · own gov **572m→1bn** · Warm/Welvarend expansion · dual WAL structural economies **270m**.
-- **BRU + FWB dual (tick485–486):** BRU SEC measures **297/565/907/1186m** · FWB SEC **-1.608→-1.224bn** · net effort **500m** · Entity II **quartet** class **2.65bn** 2026 (VL+WAL+BRU+FWB; different perimeter).
-- **Entity I residual (tick487–488):** FPB **263** measures inventory · control residual **4.9bn** Mar → CM Jul **7.7bn** 2029 / **9.8bn** 2031 · unalloc L5 package **2.192bn** (fraud 482 · FIOD 193 · subsidy cut 199 · reorg/central 150+150 · replace 175 · social/tax fraud 200+200).
-- **CoA VL kunsten (tick489):** awards **€201.9m** 2024 · KI **69.4m** · 9 neg-advice overrides · dual FWB arts vivants **104m** · FOI named L5 ready.
+- **NL residual dual (tick481â€“482):** Democracy Fund KBF **â‚¬500k / 18** projects Â· Regie patrimonium NL **â‚¬3.09m** Â· VL dienstencheques multi-year reform path dual titres WAL+BRU class **â‚¬872m**.
+- **VL consolidation (tick483â€“484):** measures path **722mâ†’2.764bn** 2025â€“29 Â· Jobbonus save **242m** Â· own gov **572mâ†’1bn** Â· Warm/Welvarend expansion Â· dual WAL structural economies **270m**.
+- **BRU + FWB dual (tick485â€“486):** BRU SEC measures **297/565/907/1186m** Â· FWB SEC **-1.608â†’-1.224bn** Â· net effort **500m** Â· Entity II **quartet** class **2.65bn** 2026 (VL+WAL+BRU+FWB; different perimeter).
+- **Entity I residual (tick487â€“488):** FPB **263** measures inventory Â· control residual **4.9bn** Mar â†’ CM Jul **7.7bn** 2029 / **9.8bn** 2031 Â· unalloc L5 package **2.192bn** (fraud 482 Â· FIOD 193 Â· subsidy cut 199 Â· reorg/central 150+150 Â· replace 175 Â· social/tax fraud 200+200).
+- **CoA VL kunsten (tick489):** awards **â‚¬201.9m** 2024 Â· KI **69.4m** Â· 9 neg-advice overrides Â· dual FWB arts vivants **104m** Â· FOI named L5 ready.
 
 ---
 
-## Snapshot at **tick 480** (2026-08-03) — archived
+## Snapshot at **tick 480** (2026-08-03) â€” archived
 
-| Layer | Coverage of €347.956 bn TE | Assessment |
+| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | Unchanged core FWI/culture; **+** NL society dual return **€385m** 2025 (doelen 240 + rent 145) · omzet **€1.666bn** institutional path |
-| **D. L5 named / measure end-lines** | **~28–41%** of TE (generous) | **Gain 470→480 is NL dual deep-fill wave:** Be Gold **€3.5m** · poverty dual **€2.61m** + homeless innov **€1.28m** · cat4 calls **€9.0m** (21 poverty / 68 SDG) · sport residual batch **€7.25m** (32 feds 2.7 · women 2.0 · BPC 1.55 · EYOF 1.0) · prestige **2024 cash €18.57m / 614 dossiers** L3 split · classical residual **€1.64m** · financial supports arch **€201.2m** (nominative 34 **€181.5m**) · residual micro **€0.505m** · FOI still bulk prestige 2025 named + nominative matrix + Art5 notes |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | Unchanged core FWI/culture; **+** NL society dual return **â‚¬385m** 2025 (doelen 240 + rent 145) Â· omzet **â‚¬1.666bn** institutional path |
+| **D. L5 named / measure end-lines** | **~28â€“41%** of TE (generous) | **Gain 470â†’480 is NL dual deep-fill wave:** Be Gold **â‚¬3.5m** Â· poverty dual **â‚¬2.61m** + homeless innov **â‚¬1.28m** Â· cat4 calls **â‚¬9.0m** (21 poverty / 68 SDG) Â· sport residual batch **â‚¬7.25m** (32 feds 2.7 Â· women 2.0 Â· BPC 1.55 Â· EYOF 1.0) Â· prestige **2024 cash â‚¬18.57m / 614 dossiers** L3 split Â· classical residual **â‚¬1.64m** Â· financial supports arch **â‚¬201.2m** (nominative 34 **â‚¬181.5m**) Â· residual micro **â‚¬0.505m** Â· FOI still bulk prestige 2025 named + nominative matrix + Art5 notes |
 | **E. FOI-ready gaps** | **~234** drafts ready | Human send only; answered **~9**; total FOI rows **~245** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes (omzet **€1.666bn**) · KBF pass-through · private PPP · Tax Shelter.
+**Off-TE (do not mix into 348 bn):** federal taxex **â‚¬29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes (omzet **â‚¬1.666bn**) Â· KBF pass-through Â· private PPP Â· Tax Shelter.
 
 ### Inventory (tick 480)
 
@@ -330,29 +363,29 @@
 
 ### What improved since tick 470
 
-- **Be Gold dual (tick471):** multi-community topsport **€3.5m** (NL 1.5 · BOIC 0.75 · VL 0.74 · ADEPS 0.5 · DG 0.01); cumulative **€49.3m**.
-- **Health/human residual (tick472):** Fairwork NL **€250k** + batch **€2.175m** (IARC · Antikanker · Opvang · Holocaust).
-- **Paola dual (tick473):** NL **€260k** + Pelicano ~**€1.09m**; culture/social residual batch **€3.32m**.
-- **Poverty dual (tick474):** core stack **€2.61m** + homeless innov **€1.28m** + poverty call **€2.5m**.
-- **UCI + Lees + cat4 (tick475):** UCI 1.1 **€600k** race-class sample · Leesbevordering **€1.5m** path 3→1.5 · cat4 calls **€9.0m**.
-- **Sport dual batch (tick476):** **€7.25m** = feds 2.7 (32 count) + women 2.0 + BPC 1.55 + EYOF 1.0 Flanders host dual.
-- **Prestige + classical (tick477):** 2024 prestige outturn **€18.57m / 614** cult/soc/sport split · classical residual **€1.635m** · proximity **€1.26m**.
-- **Financial supports arch (tick478):** 725 ben **€201.2m** = nominative 34 **€181.5m** + prestige 18.6 + child poverty 1.02 + eco 0.115.
-- **Society dual 2025 (tick479):** doelen **€240m** + rent **€145m** = **€385m** (upgrades press ~370); omzet **€1.666bn**; **1970** projects.
+- **Be Gold dual (tick471):** multi-community topsport **â‚¬3.5m** (NL 1.5 Â· BOIC 0.75 Â· VL 0.74 Â· ADEPS 0.5 Â· DG 0.01); cumulative **â‚¬49.3m**.
+- **Health/human residual (tick472):** Fairwork NL **â‚¬250k** + batch **â‚¬2.175m** (IARC Â· Antikanker Â· Opvang Â· Holocaust).
+- **Paola dual (tick473):** NL **â‚¬260k** + Pelicano ~**â‚¬1.09m**; culture/social residual batch **â‚¬3.32m**.
+- **Poverty dual (tick474):** core stack **â‚¬2.61m** + homeless innov **â‚¬1.28m** + poverty call **â‚¬2.5m**.
+- **UCI + Lees + cat4 (tick475):** UCI 1.1 **â‚¬600k** race-class sample Â· Leesbevordering **â‚¬1.5m** path 3â†’1.5 Â· cat4 calls **â‚¬9.0m**.
+- **Sport dual batch (tick476):** **â‚¬7.25m** = feds 2.7 (32 count) + women 2.0 + BPC 1.55 + EYOF 1.0 Flanders host dual.
+- **Prestige + classical (tick477):** 2024 prestige outturn **â‚¬18.57m / 614** cult/soc/sport split Â· classical residual **â‚¬1.635m** Â· proximity **â‚¬1.26m**.
+- **Financial supports arch (tick478):** 725 ben **â‚¬201.2m** = nominative 34 **â‚¬181.5m** + prestige 18.6 + child poverty 1.02 + eco 0.115.
+- **Society dual 2025 (tick479):** doelen **â‚¬240m** + rent **â‚¬145m** = **â‚¬385m** (upgrades press ~370); omzet **â‚¬1.666bn**; **1970** projects.
 
 ---
 
-## Snapshot at **tick 470** (2026-08-03) — archived
+## Snapshot at **tick 470** (2026-08-03) â€” archived
 
-| Layer | Coverage of €347.956 bn TE | Assessment |
+| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE €347.956bn) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** BELSPO **four FWI pools €132.3m** structural (Doc 33.2 · Space 30.7 · Nature 35.4 · Art 33.0) · Cinematek dual **€4.0m** · KIK-IRPA dual **€7.0m** · culture triple Beliris capex layer · LOV2030 programme **€72.5m** envelope |
-| **D. L5 named / measure end-lines** | **~27–40%** of TE (generous) | **Gain 460→470 is NL definitive + dual culture/sport/heritage wave:** NL definitive **€240m** full L5 (+€40m vs prov) · LOV2030 **€10.5m** plan dual bidbook **€72.5m** · Pro League FSR **€3.5m** · CPVS INAMI stack **€26.4m** · Beliris Flagey/NOB/Monnaie **€9.6m** · Chinese Pavilion PPP **€6–7m** class · Festivals VL/WAL **€0.45m** · Europalia dual **€0.57m** · CRE dual **€0.24m** · Proximity **€1.0m** · residual FOI still bulk prestige/ASBL/firm |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** BELSPO **four FWI pools â‚¬132.3m** structural (Doc 33.2 Â· Space 30.7 Â· Nature 35.4 Â· Art 33.0) Â· Cinematek dual **â‚¬4.0m** Â· KIK-IRPA dual **â‚¬7.0m** Â· culture triple Beliris capex layer Â· LOV2030 programme **â‚¬72.5m** envelope |
+| **D. L5 named / measure end-lines** | **~27â€“40%** of TE (generous) | **Gain 460â†’470 is NL definitive + dual culture/sport/heritage wave:** NL definitive **â‚¬240m** full L5 (+â‚¬40m vs prov) Â· LOV2030 **â‚¬10.5m** plan dual bidbook **â‚¬72.5m** Â· Pro League FSR **â‚¬3.5m** Â· CPVS INAMI stack **â‚¬26.4m** Â· Beliris Flagey/NOB/Monnaie **â‚¬9.6m** Â· Chinese Pavilion PPP **â‚¬6â€“7m** class Â· Festivals VL/WAL **â‚¬0.45m** Â· Europalia dual **â‚¬0.57m** Â· CRE dual **â‚¬0.24m** Â· Proximity **â‚¬1.0m** Â· residual FOI still bulk prestige/ASBL/firm |
 | **E. FOI-ready gaps** | **~223** drafts ready | Human send only; answered **~9**; total FOI rows **~234** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **€29.7bn** · company cars/cheque/EIWT · lottery player stakes · KBF pass-through · private PPP Chinese Pavilion · Tax Shelter.
+**Off-TE (do not mix into 348 bn):** federal taxex **â‚¬29.7bn** Â· company cars/cheque/EIWT Â· lottery player stakes Â· KBF pass-through Â· private PPP Chinese Pavilion Â· Tax Shelter.
 
 ### Inventory (tick 470)
 
@@ -370,27 +403,27 @@
 
 ### What improved since tick 460
 
-- **NL definitive 2025 (tick461–463):** provisional **€200m** → definitive **€240m** (+€40m); Prestige **€10m**; LOV2030 **€10.5m**; Pro League **€3.5m**; women sport **€2m**.
-- **CPVS dual (tick462):** IEFH cash **€10.9m** + NL SARC **€1.62m** + INAMI 2026 stack **€26.4m** (11.7+5.8+8.9).
-- **LOV2030 (tick464):** total operating **€72.5m** bidbook; public stack **€62.5m**; FOI cash schedule.
-- **Pro League + Beliris (tick465):** NL FSR **€3.5m** dual own club **€0.2m**; Beliris culture Flagey **3.235** + NOB **3.4** + Monnaie package **2.96** = **€9.6m**.
-- **Chinese Pavilion + Festivals (tick466):** PPP class **€6–7m** + NL **€0.5m** multi-year; Festivals VL/WAL **€450k**.
-- **Cinematek/Europalia/CRE (tick467):** Cinematek dual **€4.006m** (fed 3.306+NL 0.7); Europalia **€573k**; CRE **€240k** + Chapelle **€155k**; DIGIT-04 **€37.63m** shared.
-- **KIK-IRPA + Art pool + Proximity (tick468):** IRPA dual **€6.973m**; Art pool **€33.025m**; Proximity **€1m**.
-- **FWI four pools (tick469):** full structural map **€132.271m** Doc+Space+Nature+Art.
+- **NL definitive 2025 (tick461â€“463):** provisional **â‚¬200m** â†’ definitive **â‚¬240m** (+â‚¬40m); Prestige **â‚¬10m**; LOV2030 **â‚¬10.5m**; Pro League **â‚¬3.5m**; women sport **â‚¬2m**.
+- **CPVS dual (tick462):** IEFH cash **â‚¬10.9m** + NL SARC **â‚¬1.62m** + INAMI 2026 stack **â‚¬26.4m** (11.7+5.8+8.9).
+- **LOV2030 (tick464):** total operating **â‚¬72.5m** bidbook; public stack **â‚¬62.5m**; FOI cash schedule.
+- **Pro League + Beliris (tick465):** NL FSR **â‚¬3.5m** dual own club **â‚¬0.2m**; Beliris culture Flagey **3.235** + NOB **3.4** + Monnaie package **2.96** = **â‚¬9.6m**.
+- **Chinese Pavilion + Festivals (tick466):** PPP class **â‚¬6â€“7m** + NL **â‚¬0.5m** multi-year; Festivals VL/WAL **â‚¬450k**.
+- **Cinematek/Europalia/CRE (tick467):** Cinematek dual **â‚¬4.006m** (fed 3.306+NL 0.7); Europalia **â‚¬573k**; CRE **â‚¬240k** + Chapelle **â‚¬155k**; DIGIT-04 **â‚¬37.63m** shared.
+- **KIK-IRPA + Art pool + Proximity (tick468):** IRPA dual **â‚¬6.973m**; Art pool **â‚¬33.025m**; Proximity **â‚¬1m**.
+- **FWI four pools (tick469):** full structural map **â‚¬132.271m** Doc+Space+Nature+Art.
 
 ---
-## Snapshot at **tick 460** (2026-08-02) — archived
+## Snapshot at **tick 460** (2026-08-02) â€” archived
 
-| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
+| Layer | Coverage of Ã¢â€šÂ¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn; dual EDP/COM path) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE Ã¢â€šÂ¬347.956bn; dual EDP/COM path) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
-| **C. L2 entity totals** | **~98â€“99%** (order of magnitude) | Unchanged core; **+** federal culture triple TCO (Monnaie **â‚¬65.4m** Â· Bozar public stack **â‚¬18.6m** Â· NOB stack **â‚¬12.4m**) Â· RKV institutional **â‚¬313m** (asylum/blood/hum dual) Â· BOIC NL sport stack class |
-| **D. L5 named / measure end-lines** | **~26â€“39%** of TE (generous) | **Gain 450â†’460 is dual NL end-receiver method wave:** Antigif **â‚¬2.2m** Â· Child Focus **â‚¬1.6m** plan Â· Unia **â‚¬4.31m** inside federal Â· culture NL protocol **â‚¬7m** (Bozar 3.5 Munt 1.75 NOB 1.75) Â· BOIC plan **â‚¬3.73m** + Paris premies **â‚¬1.06m** Â· Myria NL **â‚¬1.08m** Â· RKV asylum **â‚¬140m** Fedasil L5 partial Â· residual FOI still dominates bulk ASBL/firm registers |
+| **C. L2 entity totals** | **~98Ã¢â‚¬â€œ99%** (order of magnitude) | Unchanged core; **+** federal culture triple TCO (Monnaie **Ã¢â€šÂ¬65.4m** Ã‚Â· Bozar public stack **Ã¢â€šÂ¬18.6m** Ã‚Â· NOB stack **Ã¢â€šÂ¬12.4m**) Ã‚Â· RKV institutional **Ã¢â€šÂ¬313m** (asylum/blood/hum dual) Ã‚Â· BOIC NL sport stack class |
+| **D. L5 named / measure end-lines** | **~26Ã¢â‚¬â€œ39%** of TE (generous) | **Gain 450Ã¢â€ â€™460 is dual NL end-receiver method wave:** Antigif **Ã¢â€šÂ¬2.2m** Ã‚Â· Child Focus **Ã¢â€šÂ¬1.6m** plan Ã‚Â· Unia **Ã¢â€šÂ¬4.31m** inside federal Ã‚Â· culture NL protocol **Ã¢â€šÂ¬7m** (Bozar 3.5 Munt 1.75 NOB 1.75) Ã‚Â· BOIC plan **Ã¢â€šÂ¬3.73m** + Paris premies **Ã¢â€šÂ¬1.06m** Ã‚Â· Myria NL **Ã¢â€šÂ¬1.08m** Ã‚Â· RKV asylum **Ã¢â€šÂ¬140m** Fedasil L5 partial Ã‚Â· residual FOI still dominates bulk ASBL/firm registers |
 | **E. FOI-ready gaps** | **~217** drafts ready | Human send only; answered **~9**; total FOI rows **~227** (+ gap_boic_institutional_tco) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **â‚¬29.7bn** Â· company cars/cheque/EIWT Â· IPP reform path Â· NATO extra Â· ESSPROS broader Â· **lottery player stakes** Â· **KBF managed-fund pass-through** Â· private co-op capital Â· Tax Shelter Monnaie net **â‚¬4.6m**.
+**Off-TE (do not mix into 348 bn):** federal taxex **Ã¢â€šÂ¬29.7bn** Ã‚Â· company cars/cheque/EIWT Ã‚Â· IPP reform path Ã‚Â· NATO extra Ã‚Â· ESSPROS broader Ã‚Â· **lottery player stakes** Ã‚Â· **KBF managed-fund pass-through** Ã‚Â· private co-op capital Ã‚Â· Tax Shelter Monnaie net **Ã¢â€šÂ¬4.6m**.
 
 ### Inventory (tick 460)
 
@@ -408,26 +441,26 @@
 
 ### What improved since tick 450
 
-- **Antigif (tick451):** costs/income **â‚¬3.42m** Â· NL base **â‚¬2.2m** dual plan closed Â· staff **20.5 FTE**.
-- **Child Focus (tick452):** income **â‚¬9.6m** Â· NL plan **â‚¬1.6m** pie **~20%** Â· private majority.
-- **Unia (tick453):** federal **â‚¬8.17/8.31m** Â· NL plan **â‚¬4.31m** (~53% of federal) Â· TCO **â‚¬11.7m** Â· BS equity **â‚¬5.5m**.
-- **Bozar (tick454):** public stack **â‚¬18.6m** (fed 15.5 + NL 3.1) Â· visitors **626k** Â· staff **243**.
-- **Monnaie (tick455):** full AR TCO income **â‚¬65.4m** / exp **â‚¬64.6m** Â· fed outturn **â‚¬42.5m** Â· NL **â‚¬1.59m** (base+Ring prestige).
-- **NOB + culture protocol (tick456):** stack **â‚¬12.4m** Â· NL protocols **â‚¬7.0m** (3.5+1.75+1.75) Â· 2026 cut path medium ~67.8m triple.
-- **BOIC (tick457):** NL plan stack **â‚¬3.73m** Â· Paris premies cash **â‚¬1.058m** Â· VL topsport **â‚¬31.5m** of which BOIC **â‚¬0.5m** Â· FOI AR TCO.
-- **Rode Kruis-VL (tick458):** TCO **â‚¬312.8m** income / **â‚¬314.4m** costs Â· asylum **â‚¬140m** dual Fedasil Â· NL **â‚¬1.63m** ~0.5%.
-- **Myria (tick459):** AB multi-year **â‚¬1.27â€“1.65m** Â· NL plan **â‚¬1.077m** Â· additive stack class **â‚¬2.66m** Â· political 2.415m weak recon.
+- **Antigif (tick451):** costs/income **Ã¢â€šÂ¬3.42m** Ã‚Â· NL base **Ã¢â€šÂ¬2.2m** dual plan closed Ã‚Â· staff **20.5 FTE**.
+- **Child Focus (tick452):** income **Ã¢â€šÂ¬9.6m** Ã‚Â· NL plan **Ã¢â€šÂ¬1.6m** pie **~20%** Ã‚Â· private majority.
+- **Unia (tick453):** federal **Ã¢â€šÂ¬8.17/8.31m** Ã‚Â· NL plan **Ã¢â€šÂ¬4.31m** (~53% of federal) Ã‚Â· TCO **Ã¢â€šÂ¬11.7m** Ã‚Â· BS equity **Ã¢â€šÂ¬5.5m**.
+- **Bozar (tick454):** public stack **Ã¢â€šÂ¬18.6m** (fed 15.5 + NL 3.1) Ã‚Â· visitors **626k** Ã‚Â· staff **243**.
+- **Monnaie (tick455):** full AR TCO income **Ã¢â€šÂ¬65.4m** / exp **Ã¢â€šÂ¬64.6m** Ã‚Â· fed outturn **Ã¢â€šÂ¬42.5m** Ã‚Â· NL **Ã¢â€šÂ¬1.59m** (base+Ring prestige).
+- **NOB + culture protocol (tick456):** stack **Ã¢â€šÂ¬12.4m** Ã‚Â· NL protocols **Ã¢â€šÂ¬7.0m** (3.5+1.75+1.75) Ã‚Â· 2026 cut path medium ~67.8m triple.
+- **BOIC (tick457):** NL plan stack **Ã¢â€šÂ¬3.73m** Ã‚Â· Paris premies cash **Ã¢â€šÂ¬1.058m** Ã‚Â· VL topsport **Ã¢â€šÂ¬31.5m** of which BOIC **Ã¢â€šÂ¬0.5m** Ã‚Â· FOI AR TCO.
+- **Rode Kruis-VL (tick458):** TCO **Ã¢â€šÂ¬312.8m** income / **Ã¢â€šÂ¬314.4m** costs Ã‚Â· asylum **Ã¢â€šÂ¬140m** dual Fedasil Ã‚Â· NL **Ã¢â€šÂ¬1.63m** ~0.5%.
+- **Myria (tick459):** AB multi-year **Ã¢â€šÂ¬1.27Ã¢â‚¬â€œ1.65m** Ã‚Â· NL plan **Ã¢â€šÂ¬1.077m** Ã‚Â· additive stack class **Ã¢â€šÂ¬2.66m** Ã‚Â· political 2.415m weak recon.
 
 ---
 
-## Snapshot at **tick 450** (2026-08-02) â€” archived
+## Snapshot at **tick 450** (2026-08-02) Ã¢â‚¬â€ archived
 
-| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
+| Layer | Coverage of Ã¢â€šÂ¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn; dual EDP/COM path) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE Ã¢â€šÂ¬347.956bn; dual EDP/COM path) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
-| **C. L2 entity totals** | **~98â€“99%** (order of magnitude) | Unchanged core; **+** Nationale Loterij SOE omzet **â‚¬1.55â€“1.67bn** / society **â‚¬362.5m** Â· KBF foundation budget **â‚¬220â€“273m** (public-utility, largely off pure TE pie) Â· impact-finance dual map (BIO/Alterfin/Incofin/Kampani/BRS) |
-| **D. L5 named / measure end-lines** | **~25â€“38%** of TE (generous) | **Gain since 440 is discretionary lottery + ODA/impact L5:** NL verdelingsplan provisional **â‚¬200m** named table (DGD **â‚¬84.7m** Â· VL **â‚¬33.1m** Â· FWB **â‚¬21.3m** Â· KBF **â‚¬9.8m** Â· Unia **â‚¬4.3m** Â· BOIC/culture/HR named) Â· DGD channels/themes/top20 Â· BIO named investees Â· Incofin/Kampani/Alterfin/BRS dual private MF Â· residual FOI still dominates bulk ASBL/firm registers |
+| **C. L2 entity totals** | **~98Ã¢â‚¬â€œ99%** (order of magnitude) | Unchanged core; **+** Nationale Loterij SOE omzet **Ã¢â€šÂ¬1.55Ã¢â‚¬â€œ1.67bn** / society **Ã¢â€šÂ¬362.5m** Ã‚Â· KBF foundation budget **Ã¢â€šÂ¬220Ã¢â‚¬â€œ273m** (public-utility, largely off pure TE pie) Ã‚Â· impact-finance dual map (BIO/Alterfin/Incofin/Kampani/BRS) |
+| **D. L5 named / measure end-lines** | **~25Ã¢â‚¬â€œ38%** of TE (generous) | **Gain since 440 is discretionary lottery + ODA/impact L5:** NL verdelingsplan provisional **Ã¢â€šÂ¬200m** named table (DGD **Ã¢â€šÂ¬84.7m** Ã‚Â· VL **Ã¢â€šÂ¬33.1m** Ã‚Â· FWB **Ã¢â€šÂ¬21.3m** Ã‚Â· KBF **Ã¢â€šÂ¬9.8m** Ã‚Â· Unia **Ã¢â€šÂ¬4.3m** Ã‚Â· BOIC/culture/HR named) Ã‚Â· DGD channels/themes/top20 Ã‚Â· BIO named investees Ã‚Â· Incofin/Kampani/Alterfin/BRS dual private MF Ã‚Â· residual FOI still dominates bulk ASBL/firm registers |
 | **E. FOI-ready gaps** | **~215** drafts ready | Human send only; answered **~9**; total FOI rows **~226** (stable) |
 
 ### Inventory (tick 450)
@@ -446,25 +479,25 @@
 
 ### What improved since tick 440
 
-- **DGD ODA L5 (tick441):** total **â‚¬1.118bn** Â· channels gov **250** / nongov **247** / multi **258** Â· themes climate **365** Â· top20 Â· named LDCF/CGIAR/Sahel.
-- **BIO named L5 (tick442):** approvals **â‚¬235m**/30 Â· signed **â‚¬166m** Â· stock **â‚¬1.2bn** Â· Coris/Orchidia/Kampani sample.
-- **Alterfin (tick443):** capital **â‚¬69.7m** Â· portfolio **â‚¬122m** Â· tax-break capital drain dual.
-- **BRS MFC dissolve (tick444):** assets **â‚¬22m** Â· dissolve **2026-06-30** Â· pivot Alterfin/Incofin.
-- **Incofin IMF (tick445):** capital **â‚¬50m** Â· portfolio **â‚¬62m** Â· **VL Flanders stake â‚¬1.0m (2%)** public L5.
-- **Kampani (tick446):** fund **â‚¬14.6m** Â· DGD first-loss **â‚¬0.9m** Â· BIO equity **â‚¬2m** Â· named portfolio L5.
-- **KBF (tick447):** budget **â‚¬220.3m 2025 / â‚¬273m 2026** Â· lottery **â‚¬10m** Â· support given **>â‚¬202m**.
-- **Nationale Loterij (tick448â€“449):** society **â‚¬362.5m** (doelen **217.5** + monopolierente **145**) Â· full provisional verdelingsplan L5 **â‚¬200m** table Â· definitive **â‚¬217.5m**.
+- **DGD ODA L5 (tick441):** total **Ã¢â€šÂ¬1.118bn** Ã‚Â· channels gov **250** / nongov **247** / multi **258** Ã‚Â· themes climate **365** Ã‚Â· top20 Ã‚Â· named LDCF/CGIAR/Sahel.
+- **BIO named L5 (tick442):** approvals **Ã¢â€šÂ¬235m**/30 Ã‚Â· signed **Ã¢â€šÂ¬166m** Ã‚Â· stock **Ã¢â€šÂ¬1.2bn** Ã‚Â· Coris/Orchidia/Kampani sample.
+- **Alterfin (tick443):** capital **Ã¢â€šÂ¬69.7m** Ã‚Â· portfolio **Ã¢â€šÂ¬122m** Ã‚Â· tax-break capital drain dual.
+- **BRS MFC dissolve (tick444):** assets **Ã¢â€šÂ¬22m** Ã‚Â· dissolve **2026-06-30** Ã‚Â· pivot Alterfin/Incofin.
+- **Incofin IMF (tick445):** capital **Ã¢â€šÂ¬50m** Ã‚Â· portfolio **Ã¢â€šÂ¬62m** Ã‚Â· **VL Flanders stake Ã¢â€šÂ¬1.0m (2%)** public L5.
+- **Kampani (tick446):** fund **Ã¢â€šÂ¬14.6m** Ã‚Â· DGD first-loss **Ã¢â€šÂ¬0.9m** Ã‚Â· BIO equity **Ã¢â€šÂ¬2m** Ã‚Â· named portfolio L5.
+- **KBF (tick447):** budget **Ã¢â€šÂ¬220.3m 2025 / Ã¢â€šÂ¬273m 2026** Ã‚Â· lottery **Ã¢â€šÂ¬10m** Ã‚Â· support given **>Ã¢â€šÂ¬202m**.
+- **Nationale Loterij (tick448Ã¢â‚¬â€œ449):** society **Ã¢â€šÂ¬362.5m** (doelen **217.5** + monopolierente **145**) Ã‚Â· full provisional verdelingsplan L5 **Ã¢â€šÂ¬200m** table Ã‚Â· definitive **Ã¢â€šÂ¬217.5m**.
 
 ---
 
-## Snapshot at **tick 440** (2026-08-02) â€” archived
+## Snapshot at **tick 440** (2026-08-02) Ã¢â‚¬â€ archived
 
-| Layer | Coverage of â‚¬347.956 bn TE | Assessment |
+| Layer | Coverage of Ã¢â€šÂ¬347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
-| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE â‚¬347.956bn; dual EDP/COM path) |
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE Ã¢â€šÂ¬347.956bn; dual EDP/COM path) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS deficits dual EDP |
-| **C. L2 entity totals** | **~98â€“99%** (order of magnitude) | **+** SS consol **â‚¬147.86bn** 2026 Â· Entity I social triple **â‚¬6.5bn** Â· SPP IS CPAS **â‚¬2.24bn** Â· NATO effort **â‚¬13.1bn** Â· Fedasil package **â‚¬802m** Â· coop **â‚¬1.04bn** Â· federal liq **â‚¬92bn** by cellule |
-| **D. L5 named / measure end-lines** | **~24â€“37%** of TE (generous) | Reform/measure L5: pens Â· RTW Â· INAMI sante Â· IPP Â· chomage waves Â· Fedasil Â· personnel austerity Â· residual FOI ASBL/firm |
+| **C. L2 entity totals** | **~98Ã¢â‚¬â€œ99%** (order of magnitude) | **+** SS consol **Ã¢â€šÂ¬147.86bn** 2026 Ã‚Â· Entity I social triple **Ã¢â€šÂ¬6.5bn** Ã‚Â· SPP IS CPAS **Ã¢â€šÂ¬2.24bn** Ã‚Â· NATO effort **Ã¢â€šÂ¬13.1bn** Ã‚Â· Fedasil package **Ã¢â€šÂ¬802m** Ã‚Â· coop **Ã¢â€šÂ¬1.04bn** Ã‚Â· federal liq **Ã¢â€šÂ¬92bn** by cellule |
+| **D. L5 named / measure end-lines** | **~24Ã¢â‚¬â€œ37%** of TE (generous) | Reform/measure L5: pens Ã‚Â· RTW Ã‚Â· INAMI sante Ã‚Â· IPP Ã‚Â· chomage waves Ã‚Â· Fedasil Ã‚Â· personnel austerity Ã‚Â· residual FOI ASBL/firm |
 | **E. FOI-ready gaps** | **~215** drafts ready | answered **~9**; total FOI rows **~226** |
 
 ### Inventory (tick 440)
@@ -487,4 +520,5 @@
 - Coverage % for C/D is **order-of-magnitude judgment**, not a SQL sum of budgets.csv.
 - Reform save/cost paths and lottery/ODA L5 improve **transparency of named euro claims** even when not pure TE end-receivers.
 - FOI queue: humans send; agent drafts only.
+
 

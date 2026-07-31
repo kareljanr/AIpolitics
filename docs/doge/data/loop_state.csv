@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:30:00Z,rq_560,569,no,tick569 Infrabel JV2025 dual NMBS; next rq_561; progress@570 next; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T10:35:00Z,rq_561,570,no,tick570 progress@570; next rq_562; progress@580 in 10; rq_116 deferred

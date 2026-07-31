@@ -6927,3 +6927,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +40; cmt +3; lb +8; FOI **gap_infrabel_jv2025_l5** ready+draft; raw PDF; entity; rq_560=done spawn **rq_561**; ticks=569
 - FOI opened: gap_infrabel_jv2025_l5 (ready, human send) - not sent; gap_infrabel_dotatie_cash partial
 - Next: prio5 **rq_561** = **progress@570 mandatory** on next tick; deferred **rq_116**
+
+### 2026-07-31T10:35:00Z - tick 570
+- Unit: **rq_561** (**progress@570** coverage % + waste top10; no new euro invent)
+- Progress layers vs EUR **347.956bn** TE:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (PES four-SPE + dual four-layer PT + dual rail NMBS/Infrabel JV2025)
+  - **D L5:** ~**37-50%** generous (Part II fiscal + VL CoA residual + PES/ONEM/RIZIV wave + TEC/NMBS RRF/ETS + Infrabel 1.27bn · not near-complete of 348bn)
+  - **E FOI ready:** ~**313** · answered ~**9** · total FOI rows ~**323**
+- Inventory: budgets ~**10307** · cmt ~**1132** · lb ~**2160** · sources ~**1097** · entities ~**415**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30); stocks Metro3 still top raw prio but annual=0 filtered; high-abs + dual: Actiris CPAS spill · four-PES rates · four-layer PT · Infrabel ETCS 2.8bn / assets 25.7bn · ONEM region cash
+- Gain 560→570: RIZIV/PROMES · VDAB/ONEM/FOREM/Actiris/ADG dual PES · TEC dual PT · NMBS RRF/ETS · Infrabel JV2025 dual rail
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_561=done spawn **rq_562**; ticks=570
+- FOI opened: none this tick
+- Next: prio5 **rq_562**; deferred **rq_116**; progress@580 in 10 ticks
