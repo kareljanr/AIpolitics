@@ -7436,3 +7436,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update forem; budgets (+14); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_forem_sec_ra_recon_l5_2025; rq_610=done; spawn rq_611; loop_state ticks=619
 - FOI opened: gap_forem_sec_ra_recon_l5_2025 -- ready (not sent)
 - Next: rq_611; **progress@620 next tick**; rq_116 deferred
+
+### 2026-07-31T20:45:00Z -- tick 620 (PROGRESS MILESTONE)
+- Unit: rq_611 (progress@620 + dual CoA Table33 SEC wave synthesis ticks611-619)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **PES dual:** Forem SEC dep **3.033bn** (RW dest **2.922bn** + other **80.8m**; reserves **-30m**) dual VDAB VEK **0.751bn**
+  - **Intl + export:** WBI SEC **94.1m** dual VL SN+FIT; AWEX SEC **79.4m** dual FIT/hub
+  - **Tourism + vocational + env:** CGT **67.0m**; IFAPME **142.2m** dual SYNTRA; ISSeP SEC **47.0m** dual VITO (path solde **+8.6m**)
+  - **Local + joint + ports:** CRAC fonct **7.71m**; EAP **6.69m** dual FWB 35%; PACO+PAC **12.4m** (PAL/PAN non-communique)
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ Forem 3.03bn CoA SEC dual PES mega-fill + UAP stack)
+  - **D L5:** ~**42-55%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**358** · answered ~**9** · total FOI rows ~**372**
+- Inventory: budgets ~**11309** · cmt ~**1236** · lb ~**2445** · sources ~**1216** · entities ~**444**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55-8.30)
+- High-abs + dual NEW: Forem/VDAB · WBI · AWEX · CGT · IFAPME · ISSeP · inland ports
+- Gain 610-620: WAL CoA Table33 SEC dual wave (largest L2 = Forem)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual wave; FOI gap_dual_coa_table33_fte_matrix_l5 ready+draft; rq_611=done spawn rq_612; ticks=620
+- FOI opened: gap_dual_coa_table33_fte_matrix_l5 (ready, human send) - not sent
+- Next: prio5 **rq_612**; deferred **rq_116**; progress@630 in 10 ticks

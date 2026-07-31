@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **610** (2026-07-31) · **~2389** leaderboard rows  
+**As-of:** tick **620** (2026-07-31) · **~2445** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
 **Stock filter:** Metro3 overrun/gap (priority **9.05/8.78** but annual=0) · Hedera CAP · VL Maastricht debt · Lantis under-vastleg · federal unconsol debt / gross financing / E1 SPB path · **Infrabel equity 20.5bn / ETCS 2.8bn stock** · **imec assets 1.69bn** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 600:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 600–610 adds **WAL dual SACA/UAP + climate agency-scale stack** (Meise · IWEPS/IBSA · AWaP · AWAC/VEKA apparaatrek · FWCN · OPW · APAQ-W) that raise **L2 dual-structure map and agency-vs-domain labelling** more than FFS ranking (see high-absurdity + dual tables).
+**Change vs tick 610:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 610-620 adds **WAL CoA Table33 SEC dual wave** (Forem 3.033bn dual VDAB; WBI 94m; AWEX 79m; CGT 67m; IFAPME 142m; ISSeP 47m; CRAC/EAP/PACO-PAC) that raise **L2 dual PES/export/tourism/vocational map** more than FFS ranking (see high-absurdity + dual tables).
 
 ### Just outside top 10 (often relevant)
 
@@ -65,6 +65,13 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_dual_heritage_awap_oe_2025` | **—** | **NEW 604** heritage AWaP 49m + OE 128m |
 | `lb_fwcn_solde_neg_63m_2025` | **6.0** | **NEW 607** disaster fund solde −63m / gov −165m gap |
 | `lb_dual_cap_payer_opw_vl_2025` | **—** | **NEW 608** CAP payer OPW 85m dual VL |
+| lb_dual_pes_forem_vdab_sec_2025 | **---** | **NEW 619** Forem SEC 3.033bn dual VDAB 0.75bn |
+| lb_dual_wbi_vl_sec_2025 | **---** | **NEW 618** WBI SEC 94m dual VL SN+FIT |
+| lb_dual_export_awex_fit_hub_2025 | **---** | **NEW 614** AWEX 79m dual FIT/hub |
+| lb_dual_tourism_cgt_vl_bru_2025 | **---** | **NEW 613** CGT 67m dual tourism VL/BRU |
+| lb_dual_vocational_ifapme_syntra_sec_2025 | **---** | **NEW 612** IFAPME 142m dual SYNTRA |
+| lb_dual_issep_vito_sec_2025 | **---** | **NEW 617** ISSeP SEC 47m dual VITO |
+| lb_dual_inland_ports_wal_vl_2025 | **---** | **NEW 616** PACO+PAC 12.4m dual inland ports |
 | `lb_actiris_cpas_spill_34k` | **7.5** | reform spillover DEI→CPAS +83% |
 | `lb_dual_pes_four_rates` | **7.5** | FL6.9 WAL14.3 BRU14.6 DG6.4 |
 | `lb_dual_pt_four_layer` | **7.0** | NMBS+De Lijn+STIB+TEC |

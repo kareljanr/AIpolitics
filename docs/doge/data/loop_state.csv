@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T20:30:00Z,rq_610,619,no,tick619 Forem SEC dep 3.033bn dual VDAB; next rq_611; progress@620 next; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T20:45:00Z,rq_611,620,no,tick620 progress@620 CoA dual wave Forem 3.03bn; next rq_612; progress@630 in 10; rq_116 deferred

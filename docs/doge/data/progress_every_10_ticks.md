@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 620** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA Table33 SEC dual wave: Forem **3.033bn** · WBI **94.1m** · AWEX **79.4m** · CGT **67.0m** · ISSeP **47.0m** · IFAPME **142.2m** · CRAC · EAP · PACO/PAC inland ports · prior SACA/UAP/climate/heritage retained |
+| **D. L5 named / measure end-lines** | **~42-55%** of TE (generous) | **Gain 610→620 is WAL CoA UAP SEC dual map:** Forem full SEC **€3.033bn** (RW dest **€2.922bn** + other **€80.8m**; reserves **−€30m**) dual VDAB VEK **€0.751bn** · WBI SEC **€94.1m** dual VL SN+FIT · AWEX **€79.4m** dual FIT/hub · CGT **€67.0m** dual tourism · ISSeP SEC **€47.0m** dual VITO (path solde **+€8.6m**) · IFAPME **€142.2m** dual SYNTRA · CRAC fonct **€7.7m** + alt finance · EAP **€6.7m** dual FWB 35% · PACO+PAC **€12.4m** dual inland · FOI still bulk ASBL/firm + RA recon + PAL/PAN non-communique + dual FTE matrices |
+| **E. FOI-ready gaps** | **~358** drafts ready | Human send only; answered **~9**; total FOI rows **~372** (+ CRAC loanbook · IFAPME recon · CGT staff · AWEX RA · EAP dual funding · PACO/PAC · ISSeP SEC-RA · WBI network · Forem SEC-RA · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **utility/RTO balance sheets** (imec **1.69bn** · VIB **309m** · FM **235m** · SPAQuE **534m**) · Waterunie fusion TCO residual · FWCN flood stock timing · Forem APE/titres passthrough not pure agency ops.
+
+### Inventory (tick 620)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~11309 |
+| commitments.csv | ~1236 |
+| leaderboard.csv | ~2445 |
+| entities.csv | ~444 |
+| sources.csv | ~1216 |
+| FOI ready | ~358 |
+| FOI answered | ~9 |
+| FOI total rows | ~372 |
+| research_queue | ~606 (open: rq_116 deferred + rq_612 hole-fill after progress) |
+
+### What improved since tick 610
+
+- **Local finance + vocational + tourism + export (tick611–614):** CRAC fonct SEC **€7.71m** / alt finance impact path · IFAPME SEC dep **€142.2m** (EPJE subset gap ~**€60m**) dual SYNTRA **€49.7m** · CGT SEC dep **€67.0m** dual Toerisme VL/visit.brussels · AWEX SEC dep **€79.4m** dual FIT **€63.1m** + hub **€46.2m**.
+- **Joint dual + inland ports + env science (tick615–617):** EAP Type2 joint FWB-RW dep **€6.69m** (FWB share **€2.59m** 35%) · PACO+PAC dual inland ports **€12.4m** (PAL/PAN BI2025 non-communique) · ISSeP SEC dep **€47.0m** (path solde **+€8.6m**; RA CA **€34.8m** recon residual) dual VITO **€297m**.
+- **International + PES mega-fill (tick618–619):** WBI Type1 SEC dep **€94.1m** (path **−€7.4m**; FWB+WAL dots **€73.0m**) dual VL SN **€9.0m**+FIT · **Forem Type2 SEC dep €3.033bn** (RW dest **€2.922bn**; reserves **−€30m**; FSE **€18.6m**) dual VDAB VEK **€0.751bn** — largest single L2 CoA fill this decade of ticks.
+
+---
+
 ## Snapshot at **tick 610** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
