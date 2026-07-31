@@ -16349,3 +16349,35 @@ bud_hermreg_pdf_fwb_rec_2026,fwb_gov,2026,26300000000,,,esa_outlook,src_fpb_herm
 bud_hermreg_pdf_fwb_dep_2026,fwb_gov,2026,28100000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T15 dep 28.1bn 2026; tick777
 bud_hermreg_pdf_bcr_rec_2026,brussels_gov,2026,8300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T17 rec 8.3bn 2026; tick777
 bud_hermreg_pdf_bcr_dep_2026,brussels_gov,2026,9300000000,,,esa_outlook,src_fpb_hermreg_pdf_jul2026_tick777,strong,T17 dep 9.3bn 2026; tick777
+bud_fedasil_wages_main_2026,fedasil,2026,194062124,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,11.11/001 wages main 194.062m 2026; tick778
+bud_fedasil_wages_eu_2026,fedasil,2026,7399794,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,11.11/002 EU project wages 7.400m 2026; tick778
+bud_fedasil_wages_total_2026,fedasil,2026,201461918,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,11.11 total wages 201.462m 2026; tick778
+bud_fedasil_other_remun_2026,fedasil,2026,3169757,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,11.12 other remun 3.170m 2026; tick778
+bud_fedasil_wages_nature_2026,fedasil,2026,3738720,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,11.40 wages in kind 3.739m 2026; tick778
+bud_fedasil_pers_stack_2026,fedasil,2026,208411174,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,Pers stack wages+other+nature+allow ~208.4m 2026; tick778
+bud_fedasil_ops_1211_2026,fedasil,2026,38515218,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,12.11 ops total 38.515m 2026 (varia 24.117 third-party 4.176 litigation 2.215); tick778
+bud_fedasil_ops_varia_bld_2026,fedasil,2026,24116507,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,12.11/003 building/varia/insurance 24.117m 2026; tick778
+bud_fedasil_ops_third_2026,fedasil,2026,4175710,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,12.11/008 third-party 4.176m 2026; tick778
+bud_fedasil_ops_litigation_2026,fedasil,2026,2214970,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,12.11/006 litigation 2.215m 2026; tick778
+bud_fedasil_rent_2026,fedasil,2026,23973610,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,12.12 building rent total 23.974m 2026 (main 23.893); tick778
+bud_fedasil_ops_rent_stack_2026,fedasil,2026,62488828,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,Ops 38.515 + rent 23.974 = 62.489m 2026; tick778
+bud_fedasil_xfer_orgs_2026,fedasil,2026,117879644,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,33.00/002 grants to orgs 117.880m 2026 (cut from 274.780m 2025); tick778
+bud_fedasil_xfer_33_total_2026,fedasil,2026,120017814,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,33.00 total transfers 120.018m 2026 (was 281.211); tick778
+bud_fedasil_xfer_conventions_2026,fedasil,2026,848770,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,33.00/001 specific conventions 0.849m 2026 (-7.9pct); tick778
+bud_fedasil_future_orient_2026,fedasil,2026,1289400,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,33.00/004 Toekomstorientatie 1.289m 2026; tick778
+bud_fedasil_loi_2026,fedasil,2026,67071200,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,LOI local reception init 67.071m 2026; tick778
+bud_fedasil_pocket_money_2026,fedasil,2026,9073358,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,34.31 cash pocket/community 9.073m 2026; capacity 13434 places; tick778
+bud_fedasil_inkind_centers_2026,fedasil,2026,54635423,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,34.32 in-kind federal centers food/hygiene 54.635m 2026; tick778
+bud_fedasil_medical_2026,fedasil,2026,17753686,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,Medical costs asylum 17.754m 2026; tick778
+bud_fedasil_vt_package_2026,fedasil,2026,11574822,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,Voluntary return package 11.575m 2026 (VT 4.680 IOM-Reab 3.875 reinteg 4.008); tick778
+bud_fedasil_vt_iom_caritas_2026,fedasil,2026,3785156,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,IOM 1.908 + Caritas 1.877 = 3.785m within VT stack; tick778
+bud_fedasil_invest_bldg_2026,fedasil,2026,7090002,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,Building invest 7.090m 2026; tick778
+bud_fedasil_dot_oap_2026,fedasil,2026,702205147,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,46.10 OAP federal dot total 702.205m 2026 confirms 006/CoA path; tick778
+bud_fedasil_dot_eu_cofin_2026,fedasil,2026,2306892,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,46.10/002 EU cofin portion of federal dot 2.307m 2026; tick778
+bud_fedasil_capacity_places_2026,fedasil,2026,13434,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,Federal centers capacity 13434 places 2026 (count not EUR); tick778
+bud_fedasil_org_cut_yoy_2026,fedasil,2026,-156899962,,,budgeted,src_kamer_fedasil_oap_1281_022_2026,strong,YoY cut orgs transfer 274.780-117.880 = -156.900m 2026; tick778
+bud_flexi_wage_mass_q4_2024_confirm,sec_ss,2024,220071000,,,outturn_onss,src_fpb_flexijobs_coa_2026_tick778,strong,Q4-2024 wage mass 220.071m confirms tick407; tick778
+bud_flexi_error_flags_q4_2024,sec_ss,2024,17130,,,outturn_onss,src_fpb_flexijobs_coa_2026_tick778,strong,Q4-2024 DmfA error flags 17130 (of 184360 jobs ~9pct); tick778
+bud_flexi_inspections_2024,sec_ss,2024,270,,,outturn,src_fpb_flexijobs_coa_2026_tick778,strong,Flexi inspections 270 in 2024 of which 154 infringe 57pct; tick778
+bud_flexi_infringe_2024,sec_ss,2024,154,,,outturn,src_fpb_flexijobs_coa_2026_tick778,strong,Flexi inspection infringements 154 2024; tick778
+bud_flexi_cap_nonretire_2024,sec_ss,2024,12000,,,budgeted,src_fpb_flexijobs_coa_2026_tick778,strong,Annual flexi pay cap non-retirees 12000 EUR (path raise 18000 planned); tick778

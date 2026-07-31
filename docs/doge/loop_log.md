@@ -9337,3 +9337,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47; commitments +5; leaderboard +8; sources +3; FOI **gap_oap_favv_fpb_afd_l5** prio8 ready; raw OAP+HermReg PDF; rq_768=done; spawn **rq_769**; ticks=777
 - FOI: ready only — **do not send**
 - Next: rq_769 flexi-jobs CoA/FPB or Fedasil OAP residual; progress@780 in 3; rq_116 deferred
+
+## Tick 778 — 2026-08-03T14:00:00Z
+
+- Unit: **rq_769** (FOI-adjacent residual — **OAP 022 Fedasil L5 + flexi CoA/FPB residual**)
+- Found (primary 56K1281022 Fedasil EN_62005 + REP_FLEXIJOBS_13336):
+  - **Fedasil pers** stack **€208.4m** (wages **€201.5m**)
+  - **Ops+rent** **€62.5m** (12.11 **€38.5m** varia 24.1 · rent **€24.0m**)
+  - **Org transfers** **€117.9m** (cut from **€274.8m** 2025 → **−€156.9m** YoY)
+  - **LOI** **€67.1m** · in-kind centers **€54.6m** · medical **€17.8m** · pocket **€9.1m**
+  - **VT package** **€11.6m** (IOM+Caritas+reinteg) · invest bldg **€7.1m**
+  - Federal capacity **13,434 places** · OAP dot **€702.2m** confirms 006
+  - **Flexi residual:** Q4-2024 184,360 workers · 14.0m hours · wage mass **€220.1m** · FTE 29,500; error flags 17.1k; inspections 270/154 (57%)
+- Wrote: budgets +37; commitments +6; leaderboard +9; sources +3; FOI **gap_fedasil_oap_loi_org_l5** prio9 ready; raw flexi PDF; rq_769=done; spawn **rq_770**; ticks=778
+- FOI: ready only — **do not send**
+- Next: rq_770 FAGG annex / Entity II L5; progress@780 in 2; rq_116 deferred
