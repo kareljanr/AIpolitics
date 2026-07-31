@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T17:30:00Z,rq_598,607,no,tick607 FWCN SEC 73.25m solde -63.3m dual disaster; next rq_599; progress@610 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T17:45:00Z,rq_599,608,no,tick608 OPW SEC 84.961m dual CAP VL; next rq_600; progress@610 in 2; rq_116 deferred

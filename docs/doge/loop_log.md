@@ -7338,3 +7338,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+fwcn); budgets (+8); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_fwcn_claims_l5_2025; rq_598=done; spawn rq_599; loop_state ticks=607
 - FOI opened: gap_fwcn_claims_l5_2025 ? ready (not sent)
 - Next: rq_599; progress@610 in 3 ticks; rq_116 deferred
+
+### 2026-07-31T17:45:00Z — tick 608
+- Unit: rq_599 (FOI-adjacent dual CAP hole-fill deepen — **OPW** SACA dual VL Landbouw)
+- Found: **OPW** Organisme Payeur de Wallonie (primary CoA Table33 + decret Art.17). **BI2025 SEC:** recettes **€84.961m** · dépenses **€84.961m** · solde **0**. **BI2024 SEC:** rec **€89.090m** · dep **€111.790m** · solde **-€22.700m** (path dep -€26.829m / solde +€22.7m). **BA2025b:** rec=dep **€87.873m**. Prior DO15 2026 package **€81.813m**. Dual **VL Landbouw** domain VEK **€140.8m**. Strong confidence; staff/RA residual FOI.
+- Wrote: entity update opw_wallonie; budgets (+9); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_opw_ra_staff_l5_2025; rq_599=done; spawn rq_600; loop_state ticks=608
+- FOI opened: gap_opw_ra_staff_l5_2025 ? ready (not sent)
+- Next: rq_600; progress@610 in 2 ticks; rq_116 deferred

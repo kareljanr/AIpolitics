@@ -11206,3 +11206,12 @@ bud_fwcn_dep_sec_bi2024,fwcn,2024,111639000,,,budgeted,src_ccrek_fwcn_budget_bi2
 bud_fwcn_solde_sec_bi2024,fwcn,2024,-91200000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,FWCN solde SEC BI2024 -91.200m
 bud_fwcn_sec_objectif_gov_2025,fwcn,2025,-165000000,,,budgeted,src_ccrek_fwcn_budget_bi2025,medium,Gov SEC objective FWCN -165m 2025 (inondations juil2021 indemnites; subsidies paid 2022-23); budget project only -63.3m CoA notes dossiers en cours
 bud_fwcn_dep_path_delta_2024_25,fwcn,2025,-38389000,,,budgeted,src_ccrek_fwcn_budget_bi2025,strong,Depenses SEC path BI2024 111.639m to BI2025 73.250m delta -38.389m
+bud_opw_rec_sec_bi2025,opw_wallonie,2025,84961000,,,budgeted,src_ccrek_opw_budget_bi2025,strong,OPW SACA recettes SEC BI2025 84.961m CoA Table33
+bud_opw_dep_sec_bi2025,opw_wallonie,2025,84961000,,,budgeted,src_ccrek_opw_budget_bi2025,strong,OPW SACA depenses SEC BI2025 84.961m balanced solde 0 CoA Table33
+bud_opw_solde_sec_bi2025,opw_wallonie,2025,0,,,budgeted,src_ccrek_opw_budget_bi2025,strong,OPW solde SEC BI2025 0 (path +22.7m vs BI2024 -22.7m)
+bud_opw_rec_sec_bi2024,opw_wallonie,2024,89090000,,,budgeted,src_ccrek_opw_budget_bi2025,strong,OPW recettes SEC BI2024 89.090m CoA Table33
+bud_opw_dep_sec_bi2024,opw_wallonie,2024,111790000,,,budgeted,src_ccrek_opw_budget_bi2025,strong,OPW depenses SEC BI2024 111.790m CoA Table33
+bud_opw_solde_sec_bi2024,opw_wallonie,2024,-22700000,,,budgeted,src_ccrek_opw_budget_bi2025,strong,OPW solde SEC BI2024 -22.700m
+bud_opw_ba2025b_rec,opw_wallonie,2025,87873000,,,budgeted,src_wallex_opw_budget_ajust_2025,strong,OPW budget ajuste 2025 recettes 87.873m decret Art.17
+bud_opw_ba2025b_dep,opw_wallonie,2025,87873000,,,budgeted,src_wallex_opw_budget_ajust_2025,strong,OPW budget ajuste 2025 depenses 87.873m balanced decret Art.17
+bud_dual_cap_payer_opw_vl_2025,gg_belgium,2025,84961000,,,budgeted,src_dual_cap_payer_opw_vl_tick608,medium,Illustrative dual CAP payer ops: OPW SEC 84.961m BI2025 vs VL Landbouw domain VEK 140.8m 2026 class; not additive TE; not full CAP payments stock
