@@ -6617,3 +6617,16 @@ Append-only. Each tick adds a short entry.
 - 60s watcher recreated; fire_immediately first tick
 - State: ticks=545 last_unit=rq_536; next **rq_537** (progress@550 soon)
 
+
+### 2026-07-31T08:35:00Z - tick 546
+- Unit: **rq_537** (FOI-adjacent hole-fill - **Kamer expose Part IV Ch5 other SS Tables V.1-V.2 L5**)
+- Found (strong primary DOC 56 1278/001 Part IV Ch5; thousand-EUR tables):
+  - **Other SS total 2025:** rec **EUR 1.645bn** · exp **1.522bn** · result **+122.9m**
+  - **Other SS total 2026:** rec **EUR 1.569bn** · exp **1.570bn** · result **-1.2m**
+  - **Benefits L5 2026:** FSO **319.9m** · Ex-OSZ **336.0m** · RVA emp missions **261.4m** · medical **37.6m** · asbestos **23.4m** · Fedris-AO cap **15.4m** · PPO **15.2m** · war/terror **4.7m** · total **1.014bn**
+  - **FSO dual:** benefits **438.1m (2025)** with CoA periodisation **+113.0m** (58.5pct of rise); total exp **823.7m 2026** (divers **352m** class)
+  - **Federal toelagen** dual I.3: **454.0m / 463.5m** 2025-26; federated share **55.7 / 60.6m** (RVA emp)
+  - Asbestos: **3Q** employer contrib 2026; fed toelage **-3.7m**; medical RIZIV uplift **+20.4m** 2025 arrears path
+- Wrote: sources +2; budgets +46; cmt +4; lb +8; FOI **gap_other_ss_l5_detail** ready+draft; rq_537=done spawn **rq_538**; ticks=546
+- FOI opened: gap_other_ss_l5_detail (ready, human send) - not sent
+- Next: prio5 **rq_538** (Part IV complete class → next public residual); deferred **rq_116** SWA; progress@550 in 4 ticks

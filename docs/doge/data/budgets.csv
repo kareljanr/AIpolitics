@@ -9495,3 +9495,49 @@ bud_pubpen_total_exp_2026,sec_ss,2026,24481410000,,,budgeted,src_kamer_expose_se
 bud_pubpen_result_2026,sec_ss,2026,98305000,,,budgeted,src_kamer_expose_self_pubpen_2026,strong,Table VII.2 public pensions budgetary result +98.305m 2026; tick545
 bud_dual_pension_three_stacks_2026,sec_ss,2026,72019000000,,,derived,src_dual_pension_three_stacks_tick545,strong,Dual pension benefits emp 43.271 + self 5.920 + public 22.828 = 72.019bn 2026; tick545
 bud_dual_riziv_from_self_rsvz_2026,sec_ss,2026,3550642000,,,derived,src_kamer_expose_self_pubpen_2026,strong,Dual self-emp table to RIZIV 3.551 vs RSVZ path 3.348 in IV.1 residual class; tick545
+bud_other_ss_rec_2025,sec_ss,2025,1645062000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 other SS total current receipts 1645.062m 2025; tick546
+bud_other_ss_exp_2025,sec_ss,2025,1522198000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 other SS total current exp 1522.198m 2025; tick546
+bud_other_ss_result_2025,sec_ss,2025,122864000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 other SS current result +122.864m 2025; tick546
+bud_other_ss_rec_2026,sec_ss,2026,1568649000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 other SS total current receipts 1568.649m 2026; tick546
+bud_other_ss_exp_2026,sec_ss,2026,1569855000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 other SS total current exp 1569.855m 2026; tick546
+bud_other_ss_result_2026,sec_ss,2026,-1206000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 other SS current result -1.206m 2026 (vs +122.9m 2025); tick546
+bud_other_ss_benefits_2025,sec_ss,2025,1098806000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 other SS benefits 1098.806m 2025; tick546
+bud_other_ss_benefits_2026,sec_ss,2026,1013554000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 other SS benefits 1013.554m 2026 (-85.3m YoY); tick546
+bud_other_ss_admin_2025,sec_ss,2025,44388000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 other SS admin 44.388m 2025; tick546
+bud_other_ss_admin_2026,sec_ss,2026,44632000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 other SS admin 44.632m 2026; tick546
+bud_other_ss_contrib_2025,sec_ss,2025,592570000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 other SS contributions 592.570m 2025; tick546
+bud_other_ss_contrib_2026,sec_ss,2026,619065000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 other SS contributions 619.065m 2026; tick546
+bud_other_ss_fed_toelage_2025,sec_ss,2025,454041000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 federal toelagen other SS 454.041m 2025 dual I.3; tick546
+bud_other_ss_fed_toelage_2026,sec_ss,2026,463463000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 federal toelagen other SS 463.463m 2026 dual I.3; tick546
+bud_other_ss_fed_entities_toelage_2025,sec_ss,2025,55676000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 federated-entity share (RVA emp dual) 55.676m 2025; tick546
+bud_other_ss_fed_entities_toelage_2026,sec_ss,2026,60551000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 federated-entity share 60.551m 2026; tick546
+bud_other_ss_divers_exp_2025,sec_ss,2025,220291000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 divers exp 220.291m 2025 (FSO-heavy); tick546
+bud_other_ss_divers_exp_2026,sec_ss,2026,354803000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 divers exp 354.803m 2026 (+134.5m FSO class); tick546
+bud_fedris_ao_cap_benefits_2025,fedris,2025,15413000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 Fedris-AO capitalisation benefits 15.413m 2025; tick546
+bud_asbestos_benefits_2025,fedris,2025,22615000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 asbestos fund benefits 22.615m 2025; tick546
+bud_fedris_ppo_benefits_2025,fedris,2025,14924000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 Fedris-BZ PPO/APL sector benefits 14.924m 2025; tick546
+bud_ex_osz_benefits_2025,sec_ss,2025,330434000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 RSZ Ex-OSZ overseas SS benefits 330.434m 2025; tick546
+bud_rva_emp_missions_benefits_2025,sec_ss,2025,235356000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 RVA employment-missions benefits 235.356m 2025 (fed+entities dual); tick546
+bud_medical_accidents_benefits_2025,sec_ss,2025,37000000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 medical accidents fund benefits 37.000m 2025; tick546
+bud_war_terror_benefits_2025,sec_ss,2025,4961000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 war+terror victims benefits 4.961m 2025; tick546
+bud_fso_benefits_2025,fso,2025,438103000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.1 FSO enterprise-closure benefits 438.103m 2025; periodisation +113m Q1-26 class; tick546
+bud_fedris_ao_cap_benefits_2026,fedris,2026,15368000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 Fedris-AO capitalisation benefits 15.368m 2026; tick546
+bud_asbestos_benefits_2026,fedris,2026,23415000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 asbestos fund benefits 23.415m 2026; 3Q employer contrib; tick546
+bud_fedris_ppo_benefits_2026,fedris,2026,15219000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 Fedris-BZ PPO/APL benefits 15.219m 2026; tick546
+bud_ex_osz_benefits_2026,sec_ss,2026,335960000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 RSZ Ex-OSZ overseas SS benefits 335.960m 2026; tick546
+bud_rva_emp_missions_benefits_2026,sec_ss,2026,261422000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 RVA employment-missions benefits 261.422m 2026; tick546
+bud_medical_accidents_benefits_2026,sec_ss,2026,37566000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 medical accidents fund benefits 37.566m 2026; tick546
+bud_war_terror_benefits_2026,sec_ss,2026,4694000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 war+terror victims benefits 4.694m 2026; tick546
+bud_fso_benefits_2026,fso,2026,319910000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 FSO benefits 319.910m 2026 (-118m vs 2025 periodisation class); tick546
+bud_fso_total_exp_2026,fso,2026,823746000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 FSO total current exp 823.746m 2026 (benefits+divers+admin+ext); tick546
+bud_ex_osz_total_exp_2026,sec_ss,2026,352589000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 Ex-OSZ total current exp 352.589m 2026; tick546
+bud_rva_emp_missions_total_exp_2026,sec_ss,2026,261422000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 RVA emp missions total exp 261.422m 2026 (=benefits line); tick546
+bud_medical_accidents_total_exp_2026,sec_ss,2026,48782000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 medical accidents total exp 48.782m 2026; tick546
+bud_asbestos_total_exp_2026,fedris,2026,24973000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 asbestos fund total exp 24.973m 2026; tick546
+bud_fedris_ao_cap_total_exp_2026,fedris,2026,31699000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Table V.2 Fedris-AO capitalisation total exp 31.699m 2026; tick546
+bud_fso_periodisation_q1_impact_2025,fso,2025,113007000,,,budgeted,src_kamer_expose_other_ss_2026,strong,FSO CoA periodisation incl Q1 N+1 impact 113.007m on 2025 benefits (58.5pct of FSO rise); tick546
+bud_medical_riziv_dot_uplift_2025,sec_ss,2025,20376000,,,budgeted,src_kamer_expose_other_ss_2026,strong,RIZIV dotatie uplift to medical accidents fund +20.376m 2025 arrears path; tick546
+bud_asbestos_fed_toelage_delta_2026,fedris,2026,-3742000,,,budgeted,src_kamer_expose_other_ss_2026,strong,Asbestos federal toelage -3.742m 2026 vs 2025 (3Q employer contrib offset); tick546
+bud_rva_career_break_save_fed_2026,sec_ss,2026,4690000,,,budgeted,src_kamer_expose_other_ss_2026,medium,RVA career-break harmonisation save path 4.690m 2026 federal emp-missions share; policy est; tick546
+bud_dual_other_ss_fed_i3_2025,sec_ss,2025,454041000,,,derived,src_dual_other_ss_i3_tick546,strong,Dual I.3 Andere stelsels fed means 454.041m = V.1 federal toelagen; tick546
+bud_dual_other_ss_fed_i3_2026,sec_ss,2026,463463000,,,derived,src_dual_other_ss_i3_tick546,strong,Dual I.3 Andere stelsels fed means 463.463m = V.2 federal toelagen; tick546
