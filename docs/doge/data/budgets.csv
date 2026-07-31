@@ -11337,3 +11337,13 @@ bud_aviq_inexec_presume_bi2025,aviq,2025,48600000,,,budgeted,src_ccrek_aviq_budg
 bud_aviq_nonmarchand_bi2025,aviq,2025,276200000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA s8.2: accords non-marchand 2021-24 full 276.2m BI2025 (was 125.1m BI2024 +151.1m); tick621
 bud_aviq_facultatives_cut_bi2025,aviq,2025,10000000,,,budgeted,src_ccrek_aviq_budget_bi2025,strong,CoA: economy cut facultatives dotation 10.0m BI2025 (5m on subs + 5m via inexec); tick621
 bud_dual_aviq_vl_social_class_2025,gg_belgium,2025,7249333000,,,budgeted,src_dual_aviq_vl_social_sec_tick621,strong,AViQ SEC dep 7.249bn BI2025 dual VL VAPH/VSB/Opgroeien class not additive; tick621
+bud_famiwal_rec_sec_bi2025,famiwal,2025,1109819565,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal recettes SEC BI2025 1109.820m CoA Table33; tick622
+bud_famiwal_dep_sec_bi2025,famiwal,2025,1109819565,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal depenses SEC BI2025 1109.820m CoA Table33 balanced; tick622
+bud_famiwal_solde_sec_bi2025,famiwal,2025,0,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal solde SEC BI2025 0 CoA; tick622
+bud_famiwal_rec_sec_bi2024,famiwal,2024,1093045000,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal recettes SEC BI2024 1093.045m CoA Table33; tick622
+bud_famiwal_dep_sec_bi2024,famiwal,2024,1094041000,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal depenses SEC BI2024 1094.041m CoA Table33; tick622
+bud_famiwal_solde_sec_bi2024,famiwal,2024,-996000,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal solde SEC BI2024 -0.996m CoA; tick622
+bud_famiwal_dep_path_delta_2024_25,famiwal,2025,15778565,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal dep path BI2025-BI2024 +15.779m CoA; tick622
+bud_famiwal_solde_path_delta_2024_25,famiwal,2025,996000,,,budgeted,src_ccrek_famiwal_budget_bi2025,strong,Famiwal solde path BI2025-BI2024 +0.996m to balance; tick622
+bud_dual_wal_caf_famiwal_share_2025,famiwal,2025,1109819565,,,budgeted,src_dual_famiwal_groeipakket_sec_tick622,strong,Famiwal public CAF SEC 1.110bn BI2025 dual private CAF prest stack ~1.93bn 2026 class; tick622
+bud_dual_famiwal_groeipakket_class_2025,gg_belgium,2025,1109819565,,,budgeted,src_dual_famiwal_groeipakket_sec_tick622,strong,Famiwal SEC 1.110bn dual VL Groeipakket awards ~4.7bn class not additive; tick622

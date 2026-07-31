@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T21:00:00Z,rq_612,621,no,tick621 AViQ SEC dep 7.249bn dual VL social; next rq_613; progress@630 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T21:15:00Z,rq_613,622,no,tick622 Famiwal SEC 1.110bn dual CAF/Groeipakket; next rq_614; progress@630 in 8; rq_116 deferred

@@ -7463,3 +7463,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update aviq; budgets (+17); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_aviq_sec_branch_recon_l5_2025; rq_612=done; spawn rq_613; loop_state ticks=621
 - FOI opened: gap_aviq_sec_branch_recon_l5_2025 -- ready (not sent)
 - Next: rq_613; progress@630 in 9 ticks; rq_116 deferred
+
+### 2026-07-31T21:15:00Z -- tick 622
+- Unit: rq_613 (FOI-adjacent dual family benefits hole-fill deepen -- **Famiwal** Type2 CoA SEC)
+- Found: **Famiwal** (primary CoA Table33). **BI2025 SEC:** recettes = depenses **EUR1.109820bn** / solde **0**. **BI2024 SEC:** rec **EUR1.093045bn** / dep **EUR1.094041bn** / solde **-EUR0.996m** (path dep **+EUR15.779m** / solde **+EUR0.996m**). Prior BI2026 total **EUR1.119bn** prest **EUR1.081bn** fonct **EUR37.0m**. Dual private **Parentia/KidsLife/Camille** prest stack + **VL Groeipakket ~EUR4.7bn** class (not additive). Strong confidence CoA; dual unit-cost residual FOI.
+- Wrote: entity update famiwal; budgets (+10); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_famiwal_sec_unit_cost_l5_2025; rq_613=done; spawn rq_614; loop_state ticks=622
+- FOI opened: gap_famiwal_sec_unit_cost_l5_2025 -- ready (not sent)
+- Next: rq_614; progress@630 in 8 ticks; rq_116 deferred
