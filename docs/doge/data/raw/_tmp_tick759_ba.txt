@@ -1,0 +1,156 @@
+﻿---p70---
+B.A: 42.30.414022 Dotatie aan NIRAS voor het technisch | passief van het IRE  ΓÇô gedeelte radioactief afval en | uitbatingsuranium) | A.B.: 42.30.414022 Dotation ├á lΓÇÖONDRAF pour le passif | technique de lΓÇÖIRE - partie d├⌐chets radioactifs et uranium | dΓÇÖexploitation | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 14 250 | 14 250 | 22 915 | 22 825 | 43 047 | 42 957 | 32 122 | 32 032 | 30 569 | 30 479
+
+---p72---
+B.A: 42.30.414024 Dotatie aan NIRAS voor het technisch | passief van het IRE - gedeelte ontmanteling | A.B.: 42.30.414024 Dotation ├á l'ONDRAF pour le passif | technique de lΓÇÖIRE - partie d├⌐classement | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 62 | 62 | 63 | 63 | 160 | 160 | 160 | 160 | 161 | 161 | 161 | 161
+
+---p74---
+B.A: 42.40344102  Verlenging basispakket - premie | collectieve verwarmingsinstallatie | A.B.: 42.40.344102 Extension du forfait de base - prime ├á | l'installation de chauffage collectif | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 415 | 415 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+---p75---
+B.A: 42.40.344103 Premie mazout 300 euros + pellets  A.B.: 42.40.344103 Prime mazout 300 euros + pellets | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 163 | 159 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Engagement
+
+---p75---
+B.A: 42.40.344104 Sociaal tarief voor collectieve | installaties | A.B.: 42.40.344104 Tarif social installations collectives | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro)
+
+---p76---
+B.A: 42.40.414001 - Sociaal stookolie fonds  A.B.: 42.40.414001 -  Fond social mazout | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 17 087 | 5 410 | 21 014 | 21 014 | 21 004 | 21 004 | 12 591 | 12 591 | 12 583 | 12 583 | 12 575 | 12 575 | Engagement
+
+---p82---
+B.A:42.50.010001 voorlopig krediet verplichte betalingen | Phoenix-deal | A.B. : 42.50.010001 cr├⌐dit provisionnel obligations | paiement Phoenix-deal | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 80 508 | 80 508 | 0 | 0 | 0 | 0
+
+---p83---
+B.A:42.50.010002 voorlopige kredieten financi├½le | verplichtingen Phoenix-deal | A.B. : 42.50.010002 cr├⌐dit provisionnel obligations | financi├¿res Phoenix -deal | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 65 450 | 65 450 | 0 | 0 | 0 | 0
+
+---p84---
+B.A:42.50.010003 provisie energienorm  A.B. : 42.50.010003 provision norme ├⌐nerg├⌐tique
+
+---p86---
+B.A:42.50.313205 Subsidies in het kader van de | ontwikkeling van een flexibele elektrolyser  voor groen | staal | A.B. : 42.50.313205 Subventions dans le cadre du | d├⌐veloppement dΓÇÖune ├⌐lectrolyser flexible pour acier vert | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 2 000 | 0 | 1 000 | 0 | 0 | 0
+
+---p86---
+B.A:42.50.313206 Subsidie aan NV ELECTRABEL in het | kader van de verlenging van de kerncentrales Doel 4 en | Tihange 3 | A.B. : 42.50.313206 Subvention ├á ELECTRABEL SA dans | le cadre de la prolongation des centrales nucl├⌐aires Doel | 4 et Tihange 3 | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro)
+
+---p87---
+B.A: 42.50.313221 Toelage aan de Belgische | ondernemingen in het kader van de hulp van Belgi├½ ter | verbetering van de nucleaire veiligheid in de landen van | Centraal- en Oost-Europa en in andere landen in het kader | van het Europees Instrument voor Internationale | Samenwerking op het gebied van Nucleaire Veiligheid | INSC en het Europees nabuurschapsbeleid | A.B. : 42.50.313221 Subvention aux entreprises belges | dans le cadre de lΓÇÖaide belge ├á lΓÇÖam├⌐lioration de la s├╗ret├⌐ | nucl├⌐aire dans l
+
+---p90---
+B.A:42.50.330008 Subsidie voor de bevordering van | Belgische deskundigheid in medische toepassingen | A.B. : 42.50.330008 Subvention pour la  promotion de | lΓÇÖexpertise belge dans les applications m├⌐dicales | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40
+
+---p91---
+B.A:42.50.352001 aankoop statistieken hernieuwbare | energie | A.B. : 42.50.352001 Achat statistiques ├⌐nergie | renouvelable | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 4 091 | 4 091 | 13 125 | 13 125 | 14 250 | 14 250 | 0 | 0 | 0 | 0
+
+---p91---
+B.A: 42.50.354007 Bijdrage van Belgi├½ aan het Europees | Centrum voor Kernonderzoek (ECKO) te Gen├¿ve | A.B. : 42.50.354007 Cotisation de la Belgique au Centre | europ├⌐en de Recherche nucl├⌐aire (C.E.R.N.) ├á Gen├¿ve | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 35 376 | 35 376 | 35 402 | 35 402 | 36 552 | 36 552 | 36 552 | 36 552 | 36 552 | 36 552
+
+---p94---
+B.A: 42.50.354008 Internationale onderzoeksprojecten | Energietransitie (R&D Energie) | A.B.: 42.50.354008 Projets de recherche internationaux | Transition ├⌐nerg├⌐tique (R&D Energie) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 111 | 111 | 188 | 188 | 188 | 188 | 188 | 188 | 188 | 188
+
+---p94---
+B.A: 42.50.354009 Toelage aan het IEA  A.B.: 42.50.354009 Subvention ├á lΓÇÖAIE | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro)
+
+---p95---
+B.A: 42.50.354010 Toelage aan de Internationale | Agentschap voor Hernieuwbare Energie (IRENA). | A.B.: 42.50.354010 Subvention ├á lΓÇÖAgence Internationale | pour lΓÇÖ├ënergie Renouvelable (IRENA). | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 35 | 35 | 45 | 45 | 45 | 45 | 45 | 45 | 45 | 45
+
+---p96---
+B.A: 42.50.354011 Bijdrage aan de groep van hoog niveau | van het Nucleair Energie Agentschap over medische | radio-isotopen | A.B.: 42.50.354011 Contribution au groupe de haut niveau | de lΓÇÖAgence pour lΓÇÖ├ënergie nucl├⌐aire sur des radio- | isotopes m├⌐dicaux | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 5 | 5 | 5 | 5 | 5 | 5
+
+---p98---
+B.A: 42.50.354020 Bijdrage aan het Wetenschappelijk | Comit├⌐ van de Verenigde Naties inzake de Gevolgen van | Atoomstraling (UNSCEAR) | A.B.: 42.50.354020 Contribution au Comit├⌐ | scientifique des Nations Unies pour lΓÇÖ├⌐tude des effets des | rayonnements ionisants (UNSCEAR) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15
+
+---p99---
+Deze B.A. bestond sinds 2021. Voorheen werd de | bijdrage geleverd door de FOD Buitenlandse Zaken, | Buitenlandse Handel en Ontwikkelingssamenwerking. | Cette A.B. existe depuis 2021. Pr├⌐c├⌐demment, la | contribution ├⌐tait apport├⌐e par le SPF Affaires ├⌐trang├¿res, | Commerce ext├⌐rieur et Coop├⌐ration au D├⌐veloppement. | Gender Impact Gender Impact | Gender nota ΓÇô categorie 2 (indien nodig):  Note genre ΓÇô cat├⌐gorie 2 (si n├⌐cessaire)  : | - - | Gender opmerking ΓÇô categorie 3 (indien nodig):  Commenta
+
+---p99---
+B.A:42.50.413001 dotatie BE -WATT: Werkings - en | personeelskosten | A.B. : 42.50.413001 dotation BE -WATT : frais de | fonctionnement et de personnel | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 2 000 | 2 000 | 2 000 | 2 000 | 2 000 | 2 000
+
+---p100---
+B.A:42.50.413002 dotatie BE -WATT | betalingsverplichtingen (CFDΓÇÖs) | A.B. : 42.50.413002 dotation BE -WATT obligations de | paiements (CFD's) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 0 | 0 | 101 314 | 101 314 | 141 094 | 141 094
+
+---p101---
+B.A:42.50.613101 dotatie BE -WATT | financieringsverplichtingen | A.B. : 42.50.613101 dotation BE -WATT obligations | financi├¿res | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro)
+
+---p103---
+B.A: 42.50.414005 Werkingssubsidie toegekend aan het | Studiecentrum voor Kernenergie (SCK CEN) | A.B.: 42.50.414005 Subvention de fonctionnement | allou├⌐e au Centre dΓÇÖEtudes de lΓÇÖ├ënergie nucl├⌐aire (SCK | CEN) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 58 118 | 58 118 | 58 055 | 58 055 | 57 974 | 57 974 | 56 830 | 56 830 | 55 705
+
+---p104---
+uit van de aparte basisallocatie (B.A.42.50.414007 | en 42.50.330007); | ΓÇó le d├⌐veloppement de MYRRHA, une installation | dΓÇÖirradiation multifonctionnelle, exp├⌐rimentale, ├á | grande ├⌐chelle, flexible et ├á spectre rapide : ce | projet fait lΓÇÖobjet de lΓÇÖallocation de base s├⌐par├⌐e | (A.B. 42.50.414007 et 42.50.330007) ; | ΓÇó bijdrage aan het fusie -onderzoek: bijdrage aan de | fusietestreactor ITER, de internationale | fusiematerialenbestralingsinfrastructuur IFMIF, de | toekomstige fusie- energiece
+
+---p107---
+B.A: 42.50.414007 Bijkomende subsidie aan het | Studiecentrum voor Kernenergie (SCK CEN) voor het | MYR-RHA- project - Gedeelten 2 en 3 | A.B.: 42.50.414007 Subvention suppl├⌐mentaire au Centre | dΓÇÖ├ëtude de lΓÇÖ├ënergie Nucl├⌐aire (SCK CEN) pour le projet | MYRRHA - Parties 2 et 3 | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 7 750 | 7 750 | 1 750 | 1 750 | 1 650 | 1 650 | 0 | 0
+
+---p108---
+B.A: 42.50.414009 Toelage aan Belgoprocess in het kader | van de hulp van Belgi├½ ter verbetering van de nucleaire | veiligheid in de landen van Centraal - en Oost -Europa en | in andere landen in het kader van het Europees Instrument | voor Internationale Samenwerking op het gebied van | Nucleaire Veiligheid INSC en het Europees | nabuurschapsbeleid | A.B.: 42.50.414009 Subvention ├á Belgoprocess dans le | cadre de lΓÇÖaide belge ├á lΓÇÖam├⌐lioration de la s├╗ret├⌐ nucl├⌐aire | dans les pays de lΓÇÖEurope c
+
+---p110---
+B.A: 42.50.414010 Toelage aan het Studiecentrum voor | Kernenergie (SCK CEN) in het kader van de hulp van | Belgi├½ ter verbetering van de nucleaire veiligheid in de | landen van Centraal- en Oost-Europa en in andere landen | in het kader van het Europees Instrumen t voor | Internationale Samenwerking op het gebied van Nucleaire | Veiligheid INSC en het Europees nabuurschapsbeleid | A.B.: 42.50.414010 Subvention au Centre dΓÇÖ├ëtude de | lΓÇÖ├ënergie nucl├⌐aire (SCK CEN) dans le cadre de lΓÇÖaide | belge 
+
+---p112---
+B.A: 42.50.414012 Subsidie voor het MYRRHA -project - | Gedeelte I Bouw IVZW | A.B.: 42.50.414012 Subvention pour le projet MYRRHA - | Phase I Construction AISBL | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 17 350 | 17 350 | 8 050 | 8 050 | 7 900 | 7 900 | 6 350 | 6 350 | 6 400 | 6 400
+
+---p113---
+B.A: 42.50.414018 Subsidie in het kader van de | ontwikkeling van de SMR-technologie in  Belgi├½ | A.B. : 42.50.414018 Subvention dans le cadre du | d├⌐veloppement de la technologie SMR en Belgique | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 12 500 | 0 | 12 500 | 0 | 12 500 | 0 | 0 | 0 | 0
+
+---p114---
+B.A: 42.50.443002 Tussenkomst in de kosten van | colloquia georganiseerd door de universiteiten voor de | aanmoediging van studenten naar nucleaire opleiding. | A.B.: 42 .50.443002 Intervention dans les frais de | colloques organis├⌐s aupr├¿s des universit├⌐s pour | lΓÇÖencouragement dΓÇÖ├⌐tudiants ├á la formation nucl├⌐aire. | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5
+
+---p116---
+B.A: 42.50.455001 Subsidie aan het Interuniversitair | Instituut voor Kernwetenschappen (IIKW) | A.B.: 42.50.455001 Subvention ├á lΓÇÖInstitut | interuniversitaire des sciences nucl├⌐aires (I.I.S.N.) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 3 764 | 3 764 | 3 764 | 3 764 | 3 764 | 3 764 | 3 764 | 3 764 | 3 764 | 3 764
+
+---p118---
+B.A: 42.50.511101 Dotatie aan het Nationaal Instituut voor | Radio-elementen (IRE) voor de verwerking van het verrijkt | uranium | A.B.: 42.50.511101 Dotation ├á lΓÇÖInstitut national de | Radio├⌐l├⌐ments (IRE) pour le traitement de lΓÇÖuranium | enrichi | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 9 112 | 9 122 | 9 490 | 9 490 | 32 870 | 32 870 | 31 074 | 31 074
+
+---p119---
+B.A: 42.50.511102 IRE investeringen fysieke beveiliging  A.B.: 42.50.511102 IRE Investissements protection | physique | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 7 215 | 7 215 | 6 486 | 6 486 | 6 734 | 6 734 | 1 596 | 1 596
+
+---p120---
+B.A: 42.50.511105 Bijkomende subsidie aan het Nationaal | Instituut voor Radio- elementen (IRE) voor de uitvoering | van nieuwe studies, investeringen en projecten -  Project | SMART | A.B.: 42.50.511105 Subvention suppl├⌐mentaire ├á lΓÇÖInstitut | national de Radio├⌐l├⌐ments (IRE) pour lΓÇÖex├⌐cution de | nouveaux investissements, projets et ├⌐tudes -  Projet | SMART | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 0 | 0
+
+---p122---
+B.A: 42.50.51.11.07 Subsidie voor investeringen aan het | Nationaal  Instituut voor Radio -elementen (IRE) | A.B.: 42.50.51.11.07 Subvention pour investissements ├á | lΓÇÖInstitut national de Radio├⌐l├⌐ments (IRE) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 4 221 | 4 221 | 4  306 | 4 306 | 4 392 | 4 392 | 0 | 0 | 0 | 0
+
+---p124---
+B.A: 42.50.614103 Subsidie voor investeringen te | verrichten door het Studiecentrum voor Kernenergie (SCK | CEN) | A.B.: 42.50.614103 Subvention pour investissements ├á | effectuer par le Centre dΓÇÖ├ëtude de lΓÇÖ├ënergie nucl├⌐aire | (SCK CEN) | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 4 111 | 4 111 | 4 111 | 4 111 | 4 111 | 4 111 | 4 111 | 4 111
+
+---p125---
+B.A:42.50.614104 Bijkomende dotatie aan het Nationaal | Instituut voor Radio- elementen (IRE) voor investeringen | met betrekking tot de fysische beveiliging | A.B. : 42.50.614104 Dotation suppl├⌐mentaire ├á lΓÇÖInstitut | national de Radio├⌐l├⌐ments (IRE) pour des | investissements relatifs ├á la protection physique | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+---p126---
+B.A: 42.50.614105 Dotatie aan het Studiecentrum voor | Kernenergie (SCK CEN) voor de fysische bescherming | (beveiliging) van zijn nucleaire materialen en installaties | A.B.: 42.50.614105 Dotation au Centre dΓÇÖEtude de | lΓÇÖ├ënergie nucl├⌐aire (SCK CEN) pour la protection physique | (s├⌐curit├⌐) de ses mati├¿res et installations nucl├⌐aires | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 9 536 | 9 536 | 9 727 | 9 727 | 9 921 | 9 921 | 0 |
+
+---p129---
+B.A:42.50.811201 Terugvorderbare voorschotten aan | NV ELECTRABEL in het kader van de verlenging van de | de kerncentrales Doel 4 en Tihange 3 | A.B. : 42.50.811201 Avances r├⌐cup├⌐rables ├á | ELECTRABEL SA dans le cadre de la prolongation des | centrales nucl├⌐aires Doel 4 et Tihange 3 | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+---p130---
+B.A: 42.60.121121 Prospectieve studies  A.B.: 42.60.121121 Etudes prospectives | (in duizenden | euro) | 2024 2025 2026 2027 2028 2029 (en milliers | dΓÇÖeuro) | Vastleggingen | Vereffeningen | 374 | 302 | 374 | 375 | 372 | 373 | 365 | 366 | 358 | 359 | 350 | 352 | Engagement
+
+---p135---
+B.A: 42.80.320001 Toelage aan AGORIA voor de | financiering van de contactcel ter ondersteuning van de | nijverheid die levert aan ITER | A.B. : 42.80.320001 Subvention ├á AGORIA pour le | financement de la  cellule de contact portant assistance ├á | l'industrie qui fournit ├á ITER | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 40 | 40 | 104 | 104 | 104 | 104 | 104 | 104 | 104 | 104 | 104
+
+---p137---
+B.A:.42.80.354001 Directe bijdrage aan de Gezamenlijke | Onderneming voor ITER en andere fusie -activiteiten | A.B. : 42.80.354001 Contribution directe ├á l'Entreprise | Commune pour ITER et autres activit├⌐s de fusion | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 224 | 224 | 160 | 160 | 280 | 280 | 235 | 235 | 235 | 235 | 235 | 235 | Engagement
+
+---p138---
+B.A: 42.80.414001 Toelage aan de Koninklijke Militaire | School vo or de onderzoeksactiviteiten ter ondersteuning | van ITER | A.B.: 42.80.414001 Subvention ├á l'├ëcole Royale Militaire | pour les activit├⌐s de recherche en support d'ITER | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162
+
+---p139---
+B.A: 42.80.414002 Toelage aan de Koninklijke Militaire | School voor de ontwikkeling en de levering van prototypes | voor ITER | A.B. : 42.80.414002 Subvention ├á l'├ëcole Royale Militaire | pour le d├⌐veloppement et la fourniture de prototypes pour | ITER | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 267 | 267 | 267 | 267 | 267 | 267 | 267 | 267 | 267 | 267 | 267
+
+---p140---
+B.A.: 42.80.414011 Toelage aan het Studiecentrum voor | Kernenergie (SCK CEN) voor het onderzoek op het vlak | van de fusie | A.B. : 42.80.414011 Subvention au Centre dΓÇÖ├ëtude de | lΓÇÖ├ënergie nucl├⌐aire (SCK CEN) pour la recherche dans le | domaine de la fusion nucl├⌐aire | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 67 | 67 | 67 | 67 | 67 | 67 | 67 | 67 | 67 | 67 | 67
+
+---p141---
+B.A.: 42.80.414012 Toelage aan de Koninklijke Militaire | School (KMS) voor het onderzoek op het vlak van de fusie | A.B. : 42.80.414012 Subvention ├á l'├ëcole Royale Militaire | (ERM) pour la recherche dans le domaine de la fusion | nucl├⌐aire | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 686 | 686 | 686 | 686 | 686 | 686 | 686 | 686 | 686 | 686 | 686 | 686
+
+---p143---
+B.A.: 42.80.452401 Toelage aan de Franstalige | universiteiten voor het onderzoek op het vlak van de fusie | A.B. : 42.80.452401 Subvention aux universit├⌐s | francophones pour la recherche dans le domaine de la | fusion nucl├⌐aire | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134
+
+---p144---
+B.A.: 42.80.452501 Toelage aan de Nederlandstalige | universiteiten voor het onderzoek op het vlak van de fusie | A.B. : 42.80.452501 Subvention aux universit├⌐s | n├⌐erlandophones pour la recherche dans le domaine de la | fusion nucl├⌐aire | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134 | 134
+
+---p145---
+B.A: 42.90.313201 Energietransitiefonds  A.B.: 42.90.313201 Fonds de transition ├⌐nerg├⌐tique | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 3 939 | 7 245 | 24 750 | 24 750 | 24 560 | 12 615 | 7 925 | 5 597 | Engagement | Liquidation
+
+---p148---
+B.A.: 42.90.121101 Werkingskosten  A.B.: 42.90.121101 Frais de fonctionnement | (in duizenden euro)  2024 2025 2026 2027 2028 2029 (en milliers dΓÇÖeuro) | Vastleggingen | Vereffeningen | 223 | 198 | 250 | 250 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Engagement | Liquidation | Omschrijving / Wettelijke basis / Reglementaire basis  Description / Base l├⌐gale / Base r├⌐glementaire | Alle noodzakelijke kosten voor de goede werking van het
+

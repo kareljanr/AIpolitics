@@ -9080,3 +9080,19 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_mobility_rail_contract_l5 — ready prio8 (not sent); partial fill notes vs gap_nmbs/gap_bpost
 - Next: rq_750 (Economy 1281/015 or BELSPO 018); progress@760 in 2; rq_116 deferred
 
+
+### 2026-08-02T19:00:00Z — tick 759
+- Unit: **rq_750** (FOI-adjacent residual — **Kamer DOC 56 1281/015 Economy/Energy: Phoenix LTO + social energy + nuclear R&D**)
+- Found (primary Kamer 1281/015, 295p, kEUR tables):
+  - **Social energy benches cited:** electricity **€984.7m** + gas **€1,304.4m** + collective gas **€63m** = **€2,352.1m**; collective premium BA344104 **€3.984m/yr**; heating-oil fund **€21.004m** 2026
+  - **Phoenix/BE-WATT 2026 class ~€694m:** provis pay **€80.508m** + provis fin **€65.450m** + Electrabel LTO **€60.657m** + BE-WATT finance loans **€487.550m** + ops **€2.0m** (CfD net **€0** budgeted 2026; path **€101.3m** 2027 / **€141.1m** 2028)
+  - **Energienorm provisie:** **€265m** 2025–26 (path **€249m** 2024 → **€165m** 2027+)
+  - **NIRAS IRE waste:** **€43.047m** 2026 (14.3/22.9/43.0 path); decommissioning **€0.16m**
+  - **SCK CEN:** working **€57.974m**; MYRRHA I **€7.9m** + II/III **€1.65m**; phys prot **€9.921m**
+  - **IRE:** uranium **€32.870m** 2026 (was 9.5); phys sec **€7.215m**
+  - **ETF:** eng **€24.560m** / liq **€12.615m** 2026; **CERN** **€36.552m**; **FPB** **€14.054m**; **BMA** **€9.696m**
+  - Dual: Phoenix security stack vs social energy benches (not TE-additive)
+- Wrote: entities (+be_watt/ire/fpb/fod_economy as needed); budgets (+58); commitments (+10); leaderboard (+10); sources (+2); FOI draft **gap_phoenix_cfd_social_energy_l5** prio9; rq_750=done; spawn **rq_751 progress@760** + **rq_752**; ticks=759
+- FOI opened: gap_phoenix_cfd_social_energy_l5 — ready prio9 (not sent)
+- Next: **rq_751 progress@760 mandatory**; then rq_752 BELSPO/Finance; rq_116 deferred
+

@@ -536,3 +536,6 @@ ngi,Nationaal Geografisch Instituut NGI,Institut Geographique National IGN,Natio
 cdsca,Centrale Dienst Sociale Culturele Actie Defensie CDSCA,Office Central Action Sociale Culturelle Defense OCASC,Defence Social and Cultural Action Central Service,agency,mod_defensie,bi,,,,EN_65057 Defence welfare/cultural service; personnel ~13.35m; ops ~19.3m 2026; tick756
 proefbank_vuurwapens,Proefbank der Vuurwapens,Banc d epreuves des armes a feu,Belgian Proof House for firearms,agency,fod_economy,bi,,,,Autonomous OAP proof testing firearms; tick756 residual detail FOI
 fod_mobility,FOD Mobiliteit en Vervoer,SPF Mobilite et Transports,FPS Mobility and Transport,ministry,sec_federal,bi,https://mobilit.belgium.be,,,Federal mobility ministry; tick758
+be_watt,BE-WATT ADBA,BE-WATT SACA,BE-WATT Phoenix remuneration vehicle,agency,fod_economy,bi,,,,ADBA for Phoenix CfD and financing; tick759
+ire,Nationaal Instituut voor Radio-elementen IRE,Institut national des Radioelements IRE,National Institute for Radioelements,agency,fod_economy,bi,https://www.ire.eu,,,Medical isotopes uranium; tick759
+fpb,Federaal Planbureau,Bureau federal du Plan,Federal Planning Bureau,agency,sec_federal,bi,https://www.plan.be,,,Dot 14.054m 2026; tick759

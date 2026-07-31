@@ -15801,3 +15801,62 @@ bud_dual_rail_bpost_skeyes_2026,gg_belgium,2026,4409936000,,,derived,src_dual_mo
 bud_beliris_personnel_2026,beliris,2026,11769000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,Beliris personnel statutair+contract 11281+488=11769 kEUR 2026; tick758
 bud_beliris_coop_bru_liq_2026,beliris,2026,6768000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 512105 Beliris-BRU coop liq 6768 kEUR 2026 (eng 0); tick758
 bud_beliris_slrb_liq_2026,beliris,2026,4518000,,,budgeted,src_kamer_mobility_1281_016_2026,strong,BA 512220 SLRB/BGHM toelage liq 4518 kEUR 2026; tick758
+bud_social_tariff_elec_bench_k,fod_economy,2023,984700000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Kamer 1281/015 cites electricity social/base package bench 984700 kEUR; crisis forfait context; tick759
+bud_social_tariff_gas_bench_k,fod_economy,2023,1304400000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Gas social/base package bench 1304400 kEUR cited 1281/015; tick759
+bud_social_tariff_collective_gas_bench_k,fod_economy,2023,63000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Collective gas installations bench 63000 kEUR; tick759
+bud_social_tariff_energy_bench_stack,fod_economy,2023,2352100000,,,derived,src_kamer_economy_energy_1281_015_2026,strong,Social/base energy package stack 984.7+1304.4+63=2352.1m cited; dual assignment funds; tick759
+bud_social_collective_premium_2025,fod_economy,2025,3984000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.40.344104 collective social tariff premium 3984 kEUR 2025-29 path; tick759
+bud_social_collective_premium_2026,fod_economy,2026,3984000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Collective social tariff premium 3984 kEUR 2026; tick759
+bud_social_heating_oil_fund_2024,fod_economy,2024,17087000,,,outturn,src_kamer_economy_energy_1281_015_2026,strong,BA 42.40.414001 social heating oil fund eng 17087 kEUR 2024 (liq 5410); tick759
+bud_social_heating_oil_fund_2025,fod_economy,2025,21014000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Social heating oil fund 21014 kEUR 2025; tick759
+bud_social_heating_oil_fund_2026,fod_economy,2026,21004000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Social heating oil fund 21004 kEUR 2026 then ~12.6m path; tick759
+bud_phoenix_provis_pay_2026,be_watt,2026,80508000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.010001 provisional Phoenix payment obligations 80508 kEUR 2026; tick759
+bud_phoenix_provis_fin_2026,be_watt,2026,65450000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.010002 provisional Phoenix financial obligations 65450 kEUR 2026; tick759
+bud_phoenix_provis_stack_2026,be_watt,2026,145958000,,,derived,src_kamer_economy_energy_1281_015_2026,strong,Phoenix provisional credits sum 80.508+65.450=145.958m 2026; tick759
+bud_electrabel_lto_subsidy_2026,be_nuc,2026,60657000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.313206 Electrabel LTO Doel4/Tihange3 subsidy 60657 kEUR 2026; tick759
+bud_bewatt_ops_dot_2026,be_watt,2026,2000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.413001 BE-WATT ops/personnel 2000 kEUR 2026-29; tick759
+bud_bewatt_cfd_2027,be_watt,2027,101314000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.413002 BE-WATT CfD path 101314 kEUR 2027 (0 expected net 2026 if receipts offset); tick759
+bud_bewatt_cfd_2028,be_watt,2028,141094000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BE-WATT CfD 141094 kEUR 2028; tick759
+bud_bewatt_finance_loans_2026,be_watt,2026,487550000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.613101 BE-WATT financing obligations Shareholder/SDC/WCF loans 487550 kEUR 2026; tick759
+bud_bewatt_finance_loans_2027,be_watt,2027,281809000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BE-WATT finance path 281809 kEUR 2027; tick759
+bud_bewatt_finance_loans_2028,be_watt,2028,365800000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BE-WATT finance path 365800 kEUR 2028; tick759
+bud_phoenix_lto_class_2026,be_watt,2026,694165000,,,derived,src_kamer_economy_energy_1281_015_2026,strong,Phoenix class 2026 provis 146+Electrabel 60.7+BE-WATT finance 487.6+ops 2.0=694.2m (CfD 0 net budgeted); tick759
+bud_energienorm_provis_2024,fod_economy,2024,249000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.010003 energienorm provision 249000 kEUR 2024 class; tick759
+bud_energienorm_provis_2025,fod_economy,2025,265000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Energienorm provision 265000 kEUR 2025-26 class; tick759
+bud_energienorm_provis_2026,fod_economy,2026,265000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Energienorm provision 265000 kEUR 2026; dual prior CoA 249m path; tick759
+bud_energienorm_provis_2027,fod_economy,2027,165000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,Energienorm path 165000 kEUR 2027+; tick759
+bud_niras_ire_waste_2024,niras,2024,14250000,,,outturn,src_kamer_economy_energy_1281_015_2026,strong,BA 42.30.414022 NIRAS IRE technical passive waste 14250 kEUR 2024; tick759
+bud_niras_ire_waste_2025,niras,2025,22915000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,NIRAS IRE waste 22915 kEUR 2025; tick759
+bud_niras_ire_waste_2026,niras,2026,43047000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,NIRAS IRE waste eng 43047 / liq 42957 kEUR 2026; tick759
+bud_niras_ire_decom_2026,niras,2026,160000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 42.30.414024 NIRAS IRE decommissioning 160 kEUR 2026; tick759
+bud_sck_working_2024,sck_cen,2024,58118000,,,outturn,src_kamer_economy_energy_1281_015_2026,strong,BA 42.50.414005 SCK CEN working subsidy 58118 kEUR 2024; tick759
+bud_sck_working_2025,sck_cen,2025,58055000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,SCK CEN working 58055 kEUR 2025; tick759
+bud_sck_working_2026,sck_cen,2026,57974000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,SCK CEN working 57974 kEUR 2026; tick759
+bud_sck_myrrha_p2_2026,sck_cen,2026,1650000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 414007 MYRRHA parts 2-3 1650 kEUR 2026; tick759
+bud_myrrha_phase1_2024,sck_cen,2024,17350000,,,outturn,src_kamer_economy_energy_1281_015_2026,strong,BA 414012 MYRRHA phase I 17350 kEUR 2024; tick759
+bud_myrrha_phase1_2025,sck_cen,2025,8050000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,MYRRHA phase I 8050 kEUR 2025; tick759
+bud_myrrha_phase1_2026,sck_cen,2026,7900000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,MYRRHA phase I 7900 kEUR 2026; tick759
+bud_smr_dev_2025,fod_economy,2025,12500000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 414018 SMR technology 12500 kEUR 2025 eng (liq 12500 2026); tick759
+bud_smr_dev_liq_2026,fod_economy,2026,12500000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,SMR subsidy liq 12500 kEUR 2026; tick759
+bud_sck_phys_prot_2026,sck_cen,2026,9921000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 614105 SCK physical protection 9921 kEUR 2026; tick759
+bud_sck_invest_2026,sck_cen,2026,4111000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 614103 SCK invest subsidy 4111 kEUR 2026 flat; tick759
+bud_ire_uranium_2025,ire,2025,9490000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 511101 IRE enriched uranium 9490 kEUR 2025; tick759
+bud_ire_uranium_2026,ire,2026,32870000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,IRE uranium processing 32870 kEUR 2026; tick759
+bud_ire_phys_sec_2026,ire,2026,7215000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 511102 IRE physical security invest 7215 kEUR 2026; tick759
+bud_ire_invest_2026,ire,2026,4392000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 511107 IRE investments 4392 kEUR 2026; tick759
+bud_iikw_2026,fod_economy,2026,3764000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 455001 IIKW/IISN nuclear sciences 3764 kEUR 2026 flat; tick759
+bud_cern_contrib_2026,fod_economy,2026,36552000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 354007 CERN contribution 36552 kEUR 2026; tick759
+bud_etf_2024_eng,fod_economy,2024,3939000,,,outturn,src_kamer_economy_energy_1281_015_2026,strong,BA 42.90.313201 Energy Transition Fund eng 3939 kEUR 2024 (liq 7245); tick759
+bud_etf_2025,fod_economy,2025,24750000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,ETF 24750 kEUR eng=liq 2025; tick759
+bud_etf_2026_eng,fod_economy,2026,24560000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,ETF eng 24560 / liq 12615 kEUR 2026; tick759
+bud_etf_2026_liq,fod_economy,2026,12615000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,ETF liq 12615 kEUR 2026; tick759
+bud_green_steel_electrolyser_2025,fod_economy,2025,2000000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 313205 green steel flexible electrolyser 2000 eng 2025 / 1000 liq 2026; tick759
+bud_renewable_stats_2026,fod_economy,2026,14250000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 352001 renewable energy statistics purchase 14250 kEUR 2026; tick759
+bud_bma_dot_2026,bma_abc,2026,9696000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 41.10.414001 BMA competition authority 9696 kEUR 2026; tick759
+bud_fpb_dot_2024,fpb,2024,12726000,,,outturn,src_kamer_economy_energy_1281_015_2026,strong,BA 60.10.414003 Federal Planning Bureau 12726 kEUR 2024; tick759
+bud_fpb_dot_2025,fpb,2025,12622000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,FPB 12622 kEUR 2025; tick759
+bud_fpb_dot_2026,fpb,2026,14054000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,FPB 14054 kEUR 2026; tick759
+bud_crb_cce_2026,fod_economy,2026,5840000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 21.40.414002 Central Economic Council 5840 kEUR 2026; tick759
+bud_inr_icn_2026,fod_economy,2026,1292000,,,budgeted,src_kamer_economy_energy_1281_015_2026,strong,BA 21.40.414006 Institute National Accounts 1292 kEUR 2026; tick759
+bud_dual_social_energy_phoenix_2026,gg_belgium,2026,0,,,derived,src_dual_phoenix_social_energy_tick759,strong,Dual: social energy benches 2.35bn crisis class + heating oil 21m + collective 4m vs Phoenix LTO class 0.69bn 2026; not TE-additive; tick759
+bud_nuclear_research_stack_2026,fod_economy,2026,166349000,,,derived,src_kamer_economy_energy_1281_015_2026,strong,Nuclear research stack SCK 57.97+MYRRHA 9.55+phys/invest 14.03+IRE 44.48+IIKW 3.76+CERN 36.55=166.3m 2026 class; tick759

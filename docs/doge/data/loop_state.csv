@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T18:00:00Z,rq_749,758,no,tick758 Mobility rail 4.22bn NMBS 1.31/0.90 Infrabel 0.63/1.27 bpost 154.9; next rq_750; progress@760 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T19:00:00Z,rq_750,759,no,tick759 Economy Phoenix 694m social 2.35bn energienorm 265; next rq_751 progress@760 then rq_752; rq_116 deferred
