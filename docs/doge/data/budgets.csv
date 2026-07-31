@@ -11508,3 +11508,15 @@ bud_filiere_bois_dep_ba2024,filiere_bois_wal,2024,3551399,,,budgeted,src_ccrek_f
 bud_wel_research_dep_bi2025,wel_research,2025,1695968,,,budgeted,src_ccrek_filiere_bois_wel_bi2025,strong,CoA WEL Research dep BI2025 1.696m solde +0.009m; tick633
 bud_wel_research_dep_ba2024,wel_research,2024,1252100,,,budgeted,src_ccrek_filiere_bois_wel_bi2025,strong,CoA WEL Research dep BA2024 1.252m; tick633
 bud_dual_craw_ilvo_dep_class_2025,gg_belgium,2025,54292000,,,budgeted,src_dual_craw_ilvo_sec_tick633,strong,CRA-W dep SEC 54.3m dual ILVO EV 50.3m class not additive; tick633
+bud_adn_rec_dep_ba2024,adn_wallonie,2024,8305346,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA Table33 ADN rec=dep BA2024 8.305m balanced; BI2025 non communique; tick634
+bud_df115_ce_bi2025,wallonie_gov,2025,28883000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA DF115 Numerique CE BI2025 28.883m; tick634
+bud_df115_cl_bi2025,wallonie_gov,2025,25578000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA DF115 Numerique CL BI2025 25.578m; tick634
+bud_df115_ce_ba2024,wallonie_gov,2024,31019000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA DF115 Numerique CE BA2024 31.019m path eng -2.136m; tick634
+bud_df115_cl_ba2024,wallonie_gov,2024,28658000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA DF115 Numerique CL BA2024 28.658m path liq -3.080m; tick634
+bud_df115_exec_class,wallonie_gov,2024,21819000,,,outturn,src_ccrek_adn_df115_numerique_bi2025,medium,CoA DF115 execution column 21.819m; tick634
+bud_ewbs_ce_cl_bi2025,wallonie_gov,2025,4489000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA e-Wallonie-Bruxelles-Simplification CE=CL BI2025 4.489m path eng -1.407m; tick634
+bud_ewbs_ce_ba2024,wallonie_gov,2024,5896000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA e-WBS CE BA2024 5.896m; tick634
+bud_futurocite_dep_bi2025,wallonie_gov,2025,655494,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA Futurocite dep BI2025 0.655m solde +0.098m; tick634
+bud_abbaye_villers_dep_bi2025,abbaye_villers,2025,3593500,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA Abbaye Villers dep BI2025 3.594m rec 3.695m solde +0.102m; tick634
+bud_solvay_lahulpe_dep_bi2025,domaine_solvay_lahulpe,2025,913000,,,budgeted,src_ccrek_adn_df115_numerique_bi2025,strong,CoA Domaine Solvay La Hulpe dep BI2025 0.913m solde -0.079m; tick634
+bud_dual_digital_adn_df115_class_2025,gg_belgium,2025,25578000,,,budgeted,src_dual_digital_adn_smals_tick634,strong,DF115 CL 25.6m dual Smals 579m class not additive; tick634

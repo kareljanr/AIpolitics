@@ -7560,3 +7560,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update cra_w +filiere_bois_wal +wel_research; budgets (+13); commitments (+4); leaderboard (+6); sources (+3); FOI draft gap_craw_sec_recon_l5_2025; rq_624=done; spawn rq_625; loop_state ticks=633
 - FOI opened: gap_craw_sec_recon_l5_2025 -- ready (not sent)
 - Next: rq_625; progress@640 in 7 ticks; rq_116 deferred
+
+### 2026-08-01T00:15:00Z -- tick 634
+- Unit: rq_625 (FOI-adjacent dual digital hole-fill -- **ADN + DF115 Numerique** dual Smals/Digipolis + heritage residual)
+- Found: **DF115 Numerique** (primary CoA DO table): **BI2025** CE **EUR28.883m** / CL **EUR25.578m** (path vs BA2024 eng **-EUR2.136m** / liq **-EUR3.080m**; exec class **EUR21.819m**). **ADN** Type3: BA2024 rec=dep **EUR8.305m** balanced; **BI2025 non communique**. **e-WBS** BI2025 **EUR4.489m** (path eng **-EUR1.407m**). **Futurocite** dep **EUR0.655m**. Residual heritage: **Abbaye Villers** dep **EUR3.594m**; **Solvay La Hulpe** dep **EUR0.913m**. Dual **Smals** omzet class **EUR579m** / Digipolis AGB **EUR246m**. Strong confidence CoA; ADN BI2025 FOI.
+- Wrote: entities (+adn_wallonie +abbaye_villers +domaine_solvay_lahulpe); budgets (+12); commitments (+3); leaderboard (+6); sources (+2); FOI draft gap_adn_df115_digital_l5_2025; rq_625=done; spawn rq_626; loop_state ticks=634
+- FOI opened: gap_adn_df115_digital_l5_2025 -- ready (not sent)
+- Next: rq_626; progress@640 in 6 ticks; rq_116 deferred
