@@ -12390,3 +12390,69 @@ bud_fed_entities_eu_mff_500m_from_2028,sec_s1312,2028,500000000,,,budgeted,src_c
 bud_fmi_be_def_2025_pct_gdp,gg_belgium,2025,-5.3,,,projection,src_ccrek_wal_aju2026_residual,strong,FMI Apr2026 BE deficit -5.3pct GDP 2025; tick663
 bud_fmi_be_def_2031_pct_gdp,gg_belgium,2031,-5.8,,,projection,src_ccrek_wal_aju2026_residual,strong,FMI BE deficit -5.8pct GDP 2031 constant policy; tick663
 bud_fmi_be_debt_2031_pct_gdp,gg_belgium,2031,122.3,,,projection,src_ccrek_wal_aju2026_residual,strong,FMI BE debt 122.3pct GDP 2031 (2nd after Italy); tick663
+bud_wal_debt_direct_eoy2021,wallonie_debt,2021,20562600000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Dette directe eoy2021 20562.6m ICN; tick664
+bud_wal_debt_direct_eoy2024,wallonie_debt,2024,27811400000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Dette directe eoy2024 27811.4m; tick664
+bud_wal_debt_direct_eoy2025_icn,wallonie_debt,2025,30699400000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Dette directe eoy2025 30699.4m ICN Apr2026 (+49.3pct vs 2021); tick664
+bud_wal_debt_brute_path_eoy2026,wallonie_debt,2026,43833000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Dette brute consolidee path eoy2026 43833m; tick664
+bud_wal_interets_re_aju_2026,wallonie_debt,2026,729100000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Table6 interets RE code21 aju 729.1m (init 684.3); tick664
+bud_wal_interets_swaps_aju_2026,wallonie_debt,2026,11900000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Swaps aju 11.9m; tick664
+bud_wal_interets_spabs_aju_2026,wallonie_debt,2026,9000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,SPABS aju 9.0m; tick664
+bud_wal_interets_tresorerie_aju_2026,wallonie_debt,2026,3700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Interets tresorerie aju 3.7m; tick664
+bud_wal_interets_total_aju_2026,wallonie_debt,2026,753700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Table6 total interest aju 753.7m path +41.1 vs init 712.6; tick664
+bud_wal_new_loan_rate_2026_ytd_pct,wallonie_debt,2026,3.8,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,New LT loans YTD May2026 all-in 3.80pct (95.9pct fixed WAM 11.95y) vs 3.58pct 2025; tick664
+bud_wal_debt_fixed_pct_mar2026,wallonie_debt,2026,96.2,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Direct debt fixed-rate share 96.2pct at 2026-03-31; tick664
+bud_wal_implicit_rate_mar2026_pct,wallonie_debt,2026,1.88,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Implicit rate 1.88pct Mar2026; tick664
+bud_wal_sensi_plus1pct_2026,wallonie_debt,2026,5700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,+1pct interest sensi 5.7m 2026 (variable only; financing covered); tick664
+bud_wal_sensi_plus1pct_2027,wallonie_debt,2027,41500000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,+1pct interest sensi 41.5m 2027 (fixed 33.4 + var 8.1); tick664
+bud_wal_financing_need_brut_2026,wallonie_debt,2026,3919400000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Table5 besoins financement 3919.4m; tick664
+bud_wal_raised_may2026,wallonie_debt,2026,3415000000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Raised YTD 31May2026 3415.0m; tick664
+bud_wal_bei_loan_2026,wallonie_debt,2026,200000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,BEI loan 200.0m 2026; tick664
+bud_wal_financing_residual_pre_sousutil_2026,wallonie_debt,2026,304400000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Residual need 304.4m before treasury sous-util 350m; tick664
+bud_wal_sousutil_tresorerie_350m_2026,wallonie_gov,2026,350000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Sous-util optique tresorerie 350.0m covers residual financing; tick664
+bud_wal_amort_echeance_2026,wallonie_debt,2026,1101900000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Amort echeance 2026 1101.9m; tick664
+bud_moody_baa1_apr2026,wallonie_debt,2026,0,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Moody downgrade A3 to Baa1 2026-04-21 (sovereign Aa3 to A1); tick664
+bud_do14_mob_trio_ce_aju_2026,wallonie_gov,2026,1634300000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,DO14 mobility trio CE aju 1634.3m path eng -6.4; tick664
+bud_do14_mob_trio_cl_aju_2026,wallonie_gov,2026,1482100000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,DO14 mobility trio CL aju 1482.1m path liq +32.2; tick664
+bud_pimpt_liq_init_2026,sofico,2026,70900000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,PIMPT liq init 70.9m; tick664
+bud_pimpt_liq_aju_2026,sofico,2026,115400000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,PIMPT liq aju 115.4m path +44.5 (struct need +34.5 + PIVH reclass 10); tick664
+bud_rtet_liq_aju_2026,wallonie_gov,2026,54200000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,RTE-T Seine-Escaut liq aju 54.2m path +25.0; encours 86.4m 18May; tick664
+bud_rtet_encours_may2026,wallonie_gov,2026,86400000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,RTE-T encours 86.4m at 2026-05-18; tick664
+bud_pivh_eng_path_minus_35m_2026,wallonie_gov,2026,-35000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,PIVH eng path -35.0m under-consumption; tick664
+bud_pivh_liq_path_minus_40m_2026,wallonie_gov,2026,-40000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,PIVH liq path -40.0m projects to 2027; tick664
+bud_primes_stock_dossiers_apr2026,wallonie_gov,2026,40151,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Primes energy/logement stock COUNT 40151 end-Apr2026 (from 51837 Feb2025 -23pct); tick664
+bud_primes_stock_historic_regimes,wallonie_gov,2026,28451,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Historic regimes 2019/2023 COUNT 28451 = 71pct of stock; tick664
+bud_primes_stock_temp_2025_regime,wallonie_gov,2026,11700,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Temporary 2025 regime COUNT 11700 = 29pct; tick664
+bud_primes_stock_value_apr2026,wallonie_gov,2026,262000000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Primes stock monetary value 262m end-Apr2026 (from 269m end-Jan); tick664
+bud_primes_stock_value_jan2026,wallonie_gov,2026,269000000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Primes stock value 269m end-Jan2026; tick664
+bud_primes_stock_peak_feb2025,wallonie_gov,2025,51837,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Primes stock peak COUNT 51837 end-Feb2025; tick664
+bud_primes_maintien_recevable_2025,wallonie_gov,2025,21609,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Maintien regime anterieur recevable 21609 of 24000 requests; tick664
+bud_primes_credits_total_2026,wallonie_gov,2026,110000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Primes credits DF080.028 10m + PNRR 080.073 100m = 110m unchanged aju; tick664
+bud_primes_pnrr_080073_2026,wallonie_gov,2026,100000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,DF 080.073 PNRR primes 100m (51pct eng / 26pct liq at 18May); tick664
+bud_primes_delai_travaux_2023_years,wallonie_gov,2026,2.0,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Processing delay primes travaux regime 2023 ~2 years at 2026-05-01; tick664
+bud_fonds_rec_aju_2026,fonds_budgetaires_wal,2026,489700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Table14/16 fonds rec aju 489.7m path -1.4; tick664
+bud_fonds_dep_aju_2026,fonds_budgetaires_wal,2026,390900000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds dep aju 390.9m path -6.9; tick664
+bud_fonds_solde_aju_2026,fonds_budgetaires_wal,2026,98800000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds solde annee aju +98.8m; tick664
+bud_fonds_report_eng_aju_2026,fonds_budgetaires_wal,2026,1269900000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Table15 soldes reportes eng aju path eoy2026 1269.9m; tick664
+bud_fonds_report_liq_aju_2026,fonds_budgetaires_wal,2026,1552700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Soldes reportes liq aju path 1552.7m; tick664
+bud_fonds_report_liq_eoy2025,fonds_budgetaires_wal,2025,1453900000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,Soldes reportes liq eoy2025 1453.9m; tick664
+bud_fonds_env_report_liq_class_2026,fonds_budgetaires_wal,2026,518100000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds env protection report liq class 518.1m (~part of 81.5pct top4); tick664
+bud_fonds_kyoto_aju_2026,fonds_kyoto_wallonie,2026,158000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Kyoto rec=dep aju 158.0m; tick664
+bud_fonds_env_rec_aju_2026,fonds_budgetaires_wal,2026,81900000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds env rec aju 81.9m dep liq 61.3; tick664
+bud_fonds_env_dep_liq_aju_2026,fonds_budgetaires_wal,2026,61300000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds env dep liq aju 61.3m; tick664
+bud_fonds_renopack_aju_2026,fonds_ecopack_renopack_wal,2026,72400000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Ecopack Renopack fonds aju 72.4m balanced; tick664
+bud_fonds_dechets_rec_aju_2026,fonds_budgetaires_wal,2026,42000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds dechets rec 42.0 dep 23.5 aju; tick664
+bud_fonds_dechets_dep_aju_2026,fonds_budgetaires_wal,2026,23500000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds dechets dep aju 23.5m; tick664
+bud_fonds_rdi_rec_aju_2026,fonds_budgetaires_wal,2026,25700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds RDI rec 25.7 dep 13.6 aju; tick664
+bud_fonds_fisir_rec_aju_2026,fonds_budgetaires_wal,2026,89400000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,FISIR roads rec 89.4 dep 45.0 aju; tick664
+bud_fonds_energie_rec_aju_2026,spw_energie,2026,15600000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Fonds Energie rec aju 15.6m (renewable surplus sale fed 4.6 class); tick664
+bud_fonds_sec_objectif_237m_2026,fonds_budgetaires_wal,2026,237200000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,SEC objectif global fonds +237.2m aju (programming contravenes fonds principle); tick664
+bud_do12_digital_prov_eng_aju_2026,wallonie_gov,2026,10000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,DO12 digital provision eng +10.0m no project list; tick664
+bud_do12_digital_prov_liq_aju_2026,wallonie_gov,2026,3500000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,DO12 digital provision liq +3.5m; tick664
+bud_creches_ce_aju_2026,wallonie_gov,2026,30700000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Prog 095 creches CE aju 30.7m path +14.4 vs init 16.3; tick664
+bud_aides_comp_fill_prw_20m_2026,wallonie_gov,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Aides compensatoires non-structural fill PRW recalib 20m; tick664
+bud_aides_comp_fill_we_20m_2026,wallonie_gov,2026,20000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Aides compensatoires fill via Wallonie Entreprendre 20m; tick664
+bud_aides_comp_fill_hydraulique_5m_2026,wallonie_gov,2026,5000000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,Aides compensatoires fill voies hydrauliques calendar 5m; tick664
+bud_swcs_renopack_need_2026,swcs,2026,100100000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,SWCS Renopack need 100.1m (89.1 prior +11.0 new) vs RW credits 76.6 gap 23.5; tick664
+bud_swcs_renopack_rw_credits_2026,swcs,2026,76600000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,RW credits to SWCS Renopack class 76.6m; tick664
+bud_swcs_bei_interest_sub_4_3m_2026,swcs,2026,4300000,,,budgeted,src_ccrek_wal_aju2026_debt_fonds,strong,SWCS BEI interest subvention DF080.031 4.3m; tick664
+bud_renopack_swcs_primes_outturn_2025,swcs,2025,110900000,,,outturn,src_ccrek_wal_aju2026_debt_fonds,strong,SWCS Renopack primes financed 110.9m 2025; tick664

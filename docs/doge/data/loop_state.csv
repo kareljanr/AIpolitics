@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T07:30:00Z,rq_654,663,no,tick663 aju2026 AViQ billing 198m Job+32m provisions 1.22bn dual; next rq_655; progress@670 in 7; rq_116 deferred SWA assent
+main,continuous,hole_fill,2026-08-01T07:45:00Z,rq_655,664,no,tick664 Moody Baa1 interest 754m primes stock 262m PIMPT dual; next rq_656; progress@670 in 6; rq_116 deferred

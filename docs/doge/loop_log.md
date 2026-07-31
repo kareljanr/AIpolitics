@@ -7808,3 +7808,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+55); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_residual_l5; raw PDF; rq_654=done; spawn rq_655; rq_116 notes SWA assent pending; loop_state ticks=663
 - FOI opened: gap_wal_aju2026_residual_l5 -- ready (not sent)
 - Next: rq_655; progress@670 in 7 ticks; rq_116 deferred (SWA assent pending assemblies)
+
+### 2026-08-01T07:45:00Z -- tick 664
+- Unit: rq_655 (FOI-adjacent dual fiscal residual -- **aju2026 Moody Baa1 + interest 754m + DO14 PIMPT + primes stock 262m + fonds**)
+- Found (primary CoA 2026_26): **Debt:** eoy2025 **EUR30.699bn** (+49.3pct vs 2021); path eoy2026 **EUR32.974bn** / brute **EUR43.833bn**; interest aju **EUR753.7m** (RE 729.1); new loans **3.80%** fixed **96.2%** implicit **1.88%**; +1% sensi **EUR5.7m/41.5m**; **Moody Baa1** 2026-04-21 (from A3); financing 3919 raised 3415 + BEI 200 residual 304 covered. **DO14:** trio CE **EUR1.634bn** / CL **EUR1.482bn**; PIMPT liq **EUR115.4m** (+44.5); RTE-T **EUR54.2m** (+25) encours 86.4; PIVH path **-35/-40**. **Primes stock:** **40151** dossiers / **EUR262m** (71% historic); delays ~2y; credits 110m. **Fonds aju:** rec **EUR489.7m** / dep **EUR390.9m** / report liq **EUR1.553bn** / SEC obj **+EUR237.2m** (programming contravenes); Kyoto 158 Renopack 72.4 FISIR 89.4. Dual VL. Strong confidence CoA; L5 residual FOI.
+- Wrote: budgets (+68); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_wal_aju2026_debt_primes_fonds_l5; rq_655=done; spawn rq_656; loop_state ticks=664
+- FOI opened: gap_wal_aju2026_debt_primes_fonds_l5 -- ready (not sent)
+- Next: rq_656; progress@670 in 6 ticks; rq_116 deferred
