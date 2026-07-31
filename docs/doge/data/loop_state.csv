@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T15:15:00Z,rq_589,598,no,tick598 CRA-W budget 53.4/54.8m staff 454 dual ILVO; next rq_590; progress@600 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T15:30:00Z,rq_590,599,no,tick599 VLIZ turnover 19.6m Flemish grants 11.9m dual ILVO marine; next rq_591; progress@600 NEXT; rq_116 deferred

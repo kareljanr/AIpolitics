@@ -11092,3 +11092,15 @@ bud_craw_depenses_2025,cra_w,2025,54839000,,,outturn,src_craw_budget_ajust_2025,
 bud_craw_staff_2025,cra_w,2025,0,,,outturn,src_craw_ra_2025,strong,CRA-W effectif 454 agents 31Dec2025 (not EUR); tick598
 bud_craw_scientifiques_2025,cra_w,2025,0,,,outturn,src_craw_ra_2025,strong,CRA-W agents scientifiques 141 Dec2025 (not EUR); tick598
 bud_craw_hires_2025,cra_w,2025,0,,,outturn,src_craw_ra_2025,strong,CRA-W nouveaux engages 34 en 2025 (not EUR); tick598
+bud_vliz_turnover_2025,vliz,2025,19610837,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ turnover 19.610837m 2025 management indicators; tick599
+bud_vliz_turnover_2024,vliz,2024,26402745,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ turnover 26.402745m 2024 (spike YoY); tick599
+bud_vliz_turnover_2023,vliz,2023,19162933,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ turnover 19.162933m 2023; tick599
+bud_vliz_flemish_grants_2025,vliz,2025,11879000,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ Flemish grants operations+investment 11.879m 2025; tick599
+bud_vliz_external_fin_2025,vliz,2025,10077970,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ external financing 10.07797m 2025 (84.8pct of Flemish grants); tick599
+bud_vliz_social_liab_2025,vliz,2025,1593513,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ social liability 1.593513m 2025; tick599
+bud_vliz_social_liab_2024,vliz,2024,1504130,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ social liability 1.50413m 2024; tick599
+bud_vliz_staff_2025,vliz,2025,0,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ total employees 178 2025 (not EUR); tick599
+bud_vliz_fixed_staff_2025,vliz,2025,0,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ fixed employees 66 2025 (not EUR); tick599
+bud_vliz_contract_staff_2025,vliz,2025,0,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ contractual employees 109 2025 (not EUR); tick599
+bud_vliz_projects_init_2025,vliz,2025,0,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ initiated research projects external budget 27 in 2025 (30 in 2024); tick599
+bud_vliz_members_2025,vliz,2025,0,,,outturn,src_vliz_mgmt_indicators_2025,strong,VLIZ members 1119 of which partner 338 institutional 34; tick599

@@ -7263,3 +7263,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+cra_w); budgets (+5); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_craw_comptes_l5_2025; rq_589=done; spawn rq_590; loop_state ticks=598
 - FOI opened: gap_craw_comptes_l5_2025 → ready (not sent)
 - Next: rq_590; progress@600 in 2 ticks; rq_116 deferred
+
+### 2026-07-31T15:30:00Z — tick 599
+- Unit: rq_590 (FOI-adjacent dual marine research hole-fill — **VLIZ** dual ILVO/Belgica)
+- Found: **VLIZ** management indicators 2025 (primary PDF). **Turnover €19.610837m** (2025) · **€26.402745m** (2024 spike) · **€19.162933m** (2023). **Flemish grants €11.879m** · **external financing €10.07797m** (84.8% of Flemish grants). Social liability **€1.593513m**. Staff **178** (fixed 66 · contractual 109). 27 new external projects. Dual marine vs **ILVO** stack (InnovOcean Ostend) + RV Belgica federal. Project revenue methodology change 2025 noted. Strong confidence.
+- Wrote: entities (+vliz); budgets (+12); commitments (+2); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_vliz_jaarrekening_l5_2025; rq_590=done; spawn rq_591; loop_state ticks=599
+- FOI opened: gap_vliz_jaarrekening_l5_2025 → ready (not sent)
+- Next: rq_591; **progress@600 next tick**; rq_116 deferred
