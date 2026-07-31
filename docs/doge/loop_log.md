@@ -7189,3 +7189,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+tibi); budgets (+30); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_tibi_commune_l5_2025; rq_580=done; spawn rq_581; loop_state ticks=589
 - FOI opened: gap_tibi_commune_l5_2025 → ready (not sent)
 - Next: rq_581; **progress@590 next tick**; rq_116 deferred
+
+### 2026-07-31T13:15:00Z — tick 590 (PROGRESS MILESTONE)
+- Unit: rq_581 (progress@590 + **dual COPIDEC waste stack synthesis** from ticks585-589 primary)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **COPIDEC 7 ops map:** Tibi CA **25.4m** cout net communes **42.7m** net loss **54.8m** assets **151m** personnel **47m** · IDELUX Env **66.1m**/+**3.0m** cout **114.20 €/EqH** · IPALLE **83.0m**/+**8.9m** assets **380m** · Intradel **125.1m**/−**12.7m** · BEP Env **26.8m**/+**2.4m** (2024) · HYGEA Mons package only **7.76m** (full FOI) · inBW waste **−1.87m** partial
+  - Dual incentive: multi-utility profit model (IPALLE/IDELUX) vs structural commune-funded loss (Tibi/Intradel)
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (dual COPIDEC waste · dual OAA water · prior utility/DSO/roads)
+  - **D L5:** ~**39-52%** generous (waste dual wave · not near-complete of 348bn)
+  - **E FOI ready:** ~**330** · answered ~**9** · total FOI rows ~**342**
+- Inventory: budgets ~**10905** · cmt ~**1179** · lb ~**2280** · sources ~**1142** · entities ~**424**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55–8.30); stocks Metro3 still top raw prio but annual=0 filtered
+- High-abs + dual NEW: COPIDEC stack · Tibi vs IPALLE loss/profit · Tibi cout net 42.7m
+- Gain 580→590: WAL multi-utility OAA · COPIDEC waste dual five full RAs
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb dual COPIDEC; FOI **gap_hygea_group_ca_l5** ready+draft; rq_581=done spawn **rq_582**; ticks=590
+- FOI opened: gap_hygea_group_ca_l5 (ready, human send) - not sent
+- Next: prio5 **rq_582**; deferred **rq_116**; progress@600 in 10 ticks

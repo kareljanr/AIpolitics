@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T13:00:00Z,rq_580,589,no,tick589 Tibi Charleroi CA 25m cout net communes 42.7m dual COPIDEC; next rq_581; progress@590 next tick; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T13:15:00Z,rq_581,590,no,tick590 progress coverage + dual COPIDEC waste stack; next rq_582; progress@600 in 10; rq_116 deferred

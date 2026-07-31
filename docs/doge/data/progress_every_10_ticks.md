@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 590** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual COPIDEC waste stack (Tibi/IDELUX/IPALLE/Intradel/BEP) · dual WAL multi-utility OAA (AIDE/INASEP/inBW/IPALLE eau) · prior utility/DSO/roads wave retained |
+| **D. L5 named / measure end-lines** | **~39-52%** of TE (generous) | **Gain 580→590 is WAL waste dual + multi-utility wave:** Tibi CA **25.4m** cout net communes **42.7m** loss **54.8m** assets **151m** personnel **47m** · IDELUX Env **66.1m**/+**3.0m** cout **114.20 €/EqH** · IPALLE **83.0m**/+**8.9m** assets **380m** · Intradel **125.1m**/−**12.7m** · BEP Env **26.8m**/+**2.4m** · INASEP/inBW/AIDE OAA water dual · FOI still bulk ASBL/firm + HYGEA full group + commune matrices |
+| **E. FOI-ready gaps** | **~330** drafts ready | Human send only; answered **~9**; total FOI rows **~342** (+ Tibi commune · IDELUX bilan · IPALLE commune · Intradel commune · BEP 2025 · HYGEA full group · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** fiscal control not pure TE · AMR **281m** social-cost estimate · consolidating ESA saldos dual · **utility SOE balance sheets** (IPALLE 380m · Tibi 151m · Intradel 187m · IDELUX Env capital thin · ORES/Farys/SWDE/Aquafin stocks) · Waterunie fusion TCO residual.
+
+### Inventory (tick 590)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~10905 |
+| commitments.csv | ~1179 |
+| leaderboard.csv | ~2280 |
+| entities.csv | ~424 |
+| sources.csv | ~1142 |
+| FOI ready | ~330 |
+| FOI answered | ~9 |
+| FOI total rows | ~342 |
+| research_queue | ~577 (open: rq_116 deferred + rq_582 hole-fill after progress) |
+
+### What improved since tick 580
+
+- **WAL multi-utility OAA (tick581–584):** INASEP CA **€49.1m** · in BW result **4.84m** assets **576m** · IDEA deepen **441m** · AIDE Liege CA **€78.7m** dual SPGE CSU trio.
+- **COPIDEC waste dual (tick585–590):** Intradel **€125.1m**/loss **12.7m** · IPALLE **€83.0m**/profit **8.9m** assets **380m** · BEP Env **€26.8m**/+**2.4m** · IDELUX Env **€66.1m**/+**3.0m** · Tibi **€25.4m**/cout net **42.7m**/loss **54.8m** personnel **47m** · dual stack synthesis (profit vs structural-loss models) · residual **HYGEA full group** FOI.
+- **Dual water (side):** IDELUX Eau **€26.3m** · IPALLE eau F **€27.1m** · AIDE/INASEP/inBW assain path dual SPGE.
+
+---
 ## Snapshot at **tick 580** (2026-07-31)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
