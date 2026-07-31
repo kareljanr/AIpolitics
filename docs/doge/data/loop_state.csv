@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T10:15:00Z,rq_737,746,no,tick746 CoA 2026_24 residual + Justice redev path BA121135/121136; next rq_738; progress@750 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T10:45:00Z,rq_738,747,no,tick747 Justice residual legalaid 207m Crossborder bpost 56m; next rq_739; progress@750 in 3; rq_116 deferred

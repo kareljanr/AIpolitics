@@ -8900,3 +8900,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_dbfm_justice_redev_path_l5 — ready prio8 (not sent)
 - Next: rq_738; progress@750 in 4; rq_116 deferred
 
+
+### 2026-08-02T10:45:00Z — tick 747
+- Unit: **rq_738** (FOI-adjacent residual — **Justice Kamer 1281/005 residual L5: legal aid + Crossborder/bpost + Smals + prison ops dual**)
+- Found (primary Kamer DOC 56 1281/005 residual vs tick746 redev-only):
+  - **Legal aid BA 344145** eng/liq **€207.242m** 2026 flat to 2029 (path 162.6 / 196.6 / 207.2); index point **+€10.661m** (AR 21 Feb 2024); Van Hecke credit **stops 2026**
+  - **Stack 2026:** bureaux **€19.727m** (8.108% envelope) + Salduz **€1.026m** + Fund lawyers **€11.031m** + Fund bureaux **€0.973m** + Casa Legal **€1.099m** = **€241.1m**
+  - **Crossborder:** BOSA provis **€56.32m** parked pending **bpost** talks (off BA 121124); Justice fine share **5→9%** est **€17.292m**; BA 121124 path **44.9 / 3.8 / 21.5 / 48.0 / 57.3 / 61.2 m** 2024–29; IT ops **€14.8m** + invest **€11.0m** + act05 IT **€7.1m**/invest **€5.8m**; class with provis **~€116.5m**
+  - **Smals/Egov personnel** **€7.943m** (+**€2.803m** transfer from central IT **€42.8m**)
+  - **Prison ops residual** (excl redev): food **€25.15m** (+813k vol) · med ops **€18.99m** (+624k) · med costs **€13.09m** · goods **€48.86m** · gratifs **€5.06m** = **€111.2m**; dual tick746 redev prison+CPL **€77.8m**
+  - NICC **€20.3m** · victim compens **€24.0m** · dual VL AJH **€240m** package not additive
+- Wrote: budgets (+45); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_justice_legalaid_crossborder_l5**; parse+write scripts; rq_738=done; spawn **rq_739**; ticks=747
+- FOI opened: gap_justice_legalaid_crossborder_l5 — ready prio8 (not sent)
+- Next: rq_739 (hint AViQ RA2024 raw on disk); progress@750 in 3; rq_116 deferred
+

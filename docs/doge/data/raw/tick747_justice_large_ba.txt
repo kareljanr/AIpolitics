@@ -1,0 +1,37 @@
+p17 12.21.01.121104 2026=42786k eng=[57.212 44.935 42.786 42.801 42.801 42.801] | Allerhande werkingsuitgaven met betrekking tot
+p18 12.21.01.122120 2026=7943k eng=[3.600 5.039 7.943 7.943 7.943 7.943] | Personeel Egov en Smals Libellé : Personnel Egov et Smals
+p20 12.21.02.121170 2026=3716k eng=[2.473 3.668 3.716 3.716 3.716 3.716] | Bestendige uitgaven voor de aankoop van niet -
+p46 12.51.02.121101 2026=48863k eng=[47.759 46.720 48.863 48.863 48.863 48.863] | Bestendige uitgaven voor de aankoop van niet -
+p48 12.51.02.742201 2026=9267k eng=[6.421 9.148 9.267 9.600 9.569 9.569] | Uitgaven voor de aankoop van duurzame
+p50 12.51.10.122110 2026=5056k eng=[4.593 4.991 5.056 5.824 5.777 5.777] | Gratificaties van de gedetineerden die zich
+p51 12.51.11.121131 2026=25150k eng=[22.300 23.629 25.150 25.150 25.150 25.150] | • Voeding en onderhoud van de gedetineerden in
+p53 12.51.32.121131 2026=13093k eng=[16.500 12.657 13.093 13.093 13.093 13.093] | Medische kosten ten behoeve van gedetineerden,
+p55 12.51.71.121135 2026=46633k eng=[41.310 40.168 46.633 48.306 48.306 51.991] | Contractuele vergoedingen voor het gebruik van
+p55 12.51.71.121136 2026=31161k eng=[28.895 30.084 31.161 31.791 32.754 33.296] | Contractuele vergoedingen voor de forensische
+p55 12.51.72.313201 2026=3905k eng=[3.788 3.905 3.905 5.665 5.665 5.665] | Transitiehuizen (Commerciële uitbaters) Libellé : Maisons de transitions (Opérateurs
+p60 12.55.02.121101 2026=6879k eng=[5.781 6.779 6.879 6.911 6.911 6.911] | Bestendige uitgaven voor de aankoop van niet -
+p60 12.55.02.121104 2026=3760k eng=[7.115 3.212 3.760 3.774 3.774 3.774] | Allerhande werkingsuitgaven met betrekking tot
+p61 12.55.02.742201 2026=3236k eng=[1.400 3.194 3.236 3.236 3.236 3.236] | Uitgaven voor de aankoop van duurzame
+p62 12.55.02.742204 2026=8277k eng=[8.147 8.705 8.277 8.267 8.267 8.267] | Investeringsuitgaven inzake de informatica Libellé : Dépenses d’investissement relatives à
+p72 12.56.03.121142 2026=4384k eng=[5.281 4.328 4.384 4.384 4.384 4.384] | Vergoeding van de Staat aan curatoren bij
+p72 12.56.03.121143 2026=4384k eng=[5.281 4.328 4.384 4.384 4.384 4.384] | Gerechtskosten in criminele, correctionele en
+p75 12.56.05.121104 2026=7144k eng=[1.825 2.052 7.144 7.144 7.144 7.144] | Allerhande werkingsuitgaven met betrekking tot
+p76 12.56.05.742204 2026=5762k eng=[6.413 10.688 5.762 5.762 5.762 5.762] | Investeringsuitgaven inzake de informatica Libellé : Dépenses d’investissement relatives à
+p78 12.56.06.121104 2026=14806k eng=[8.601 13.512 14.806 18.143 19.492 19.946] | Allerhande werkingsuitgaven met betrekking tot
+p78 12.56.06.121124 2026=21492k eng=[44.900 3.765 21.492 47.954 57.291 61.204] | Werkingsuitgaven verbonden aan de inning van
+p79 12.56.06.742204 2026=11015k eng=[3.551 11.056 11.015 11.777 12.592 12.578] | Investeringsuitgaven inzake de informatica Libellé : Dépenses d’investissement relatives à
+p82 12.56.11.344145 2026=207242k eng=[162.575 196.581 207.242 207.242 207.242 207.242] | Vergoedingen van de advocaten belast met de
+p83 12.56.11.344149 2026=11031k eng=[10.398 11.025 11.031 11.031 11.031 11.031] | Vergoedingen van de advocaten belast met de
+p85 12.56.22.432201 2026=6774k eng=[6.643 6.774 6.774 6.658 6.658 6.658] | Financiële hulp aan organisaties voor de
+p86 12.56.23.330002 2026=5472k eng=[- 5.472 5.472 5.472 5.472 5.472] | Financiële hulp aan organisaties voor de
+p87 12.56.31.121104 2026=5596k eng=[5.223 5.524 5.596 5.596 5.596 5.596] | Allerhande werkingsuitgaven met betrekking tot
+p87 12.56.32.741001 2026=5596k eng=[5.223 5.524 5.596 5.596 5.596 5.596] | Uitgaven voor de aankoop van het
+p88 12.56.32.742204 2026=13676k eng=[11.227 13.500 13.676 13.676 13.676 13.676] | Investeringsuitgaven inzake de informatica Libellé : Dépenses d’investissement relatives à
+p89 12.56.61.414001 2026=20299k eng=[19.674 19.999 20.299 20.299 20.299 20.299] | Dotatie aan het Instituut voor Gerechtelijke
+p108 12.58.11.121102 2026=6175k eng=[8.497 6.096 6.175 6.175 6.175 6.175] | Allerhande uitgaven met betrekking tot een
+p112 12.58.31.121137 2026=9632k eng=[3.934 3.007 9.632 6.632 6.632 6.632] | Bescherming van personen en van goederen –
+p113 12.58.41.452402 2026=3137k eng=[2.989 3.040 3.137 - - -] | Jeugdbescherming – Bemiddeling op het niveau
+p113 12.58.41.452502 2026=4705k eng=[4.483 4.560 4.705 - - -] | Jeugdbescherming – Bemiddeling op het niveau
+p125 12.62.11.413001 2026=16025k eng=[15.865 15.745 16.025 16.025 16.025 16.025] | Dotatie aan het Nationaal Instituut voor
+p132 12.62.43.343122 2026=24000k eng=[20.000 24.000 24.000 24.000 24.000 24.000] | Betaling van vergoedingen aan de slachtoffers
+p132 12.62.43.343140 2026=3009k eng=[800 3.009 3.009 3.009 3.009 3.009] | Betaling van vergoedingen aan de slachtoffers
