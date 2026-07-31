@@ -11254,3 +11254,12 @@ bud_cgt_ba2025b_rec,tourisme_wallonie,2025,68845000,,,budgeted,src_wallex_cgt_bu
 bud_cgt_ba2025b_dep,tourisme_wallonie,2025,70845000,,,budgeted,src_wallex_cgt_budget_ajust_2025,strong,CGT budget ajuste 2025 depenses 70.845m decret Art.23
 bud_cgt_dep_path_delta_2024_25,tourisme_wallonie,2025,-14298000,,,budgeted,src_ccrek_cgt_budget_bi2025,strong,Depenses path BI2024 81.296m to BI2025 66.998m delta -14.298m
 bud_dual_tourism_cgt_vl_bru_2025,gg_belgium,2025,66998000,,,budgeted,src_dual_tourism_cgt_tick613,medium,Illustrative dual tourism admin: CGT SEC 67.0m + Toerisme VL SQ class 74.8m + visit.brussels 14.9m; not additive TE; VISITWallonia promo separate
+bud_awex_rec_sec_bi2025,awex,2025,72733000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,AWEX Type2 recettes SEC BI2025 72.733m CoA Table33
+bud_awex_dep_sec_bi2025,awex,2025,79385000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,AWEX depenses SEC BI2025 79.385m CoA Table33 dual FIT
+bud_awex_solde_sec_bi2025,awex,2025,-6652000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,AWEX solde SEC BI2025 -6.652m (path +4.493m vs BI2024 -11.145m)
+bud_awex_rec_sec_bi2024,awex,2024,80086000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,AWEX recettes SEC BI2024 80.086m CoA Table33
+bud_awex_dep_sec_bi2024,awex,2024,91231000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,AWEX depenses SEC BI2024 91.231m CoA Table33
+bud_awex_solde_sec_bi2024,awex,2024,-11145000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,AWEX solde SEC BI2024 -11.145m
+bud_awex_dep_path_delta_2024_25,awex,2025,-11846000,,,budgeted,src_ccrek_awex_budget_bi2025,strong,Depenses path BI2024 91.231m to BI2025 79.385m delta -11.846m
+bud_awex_sec_vs_package_gap_2025,awex,2025,11838000,,,derived,src_ccrek_awex_budget_bi2025,medium,Illustrative gap full SEC dep 79.385m minus EP package 67.547m 2025 ~11.8m residual FOI recon (treasury remonte path)
+bud_dual_export_awex_fit_hub_sec_2025,gg_belgium,2025,79385000,,,budgeted,src_dual_export_awex_fit_tick614,medium,Illustrative dual export: AWEX SEC 79.4m + FIT package 63.1m + hub 46.2m class; not additive TE

@@ -7394,3 +7394,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update tourisme_wallonie; budgets (+10); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_cgt_ra_staff_l5_2025; rq_604=done; spawn rq_605; loop_state ticks=613
 - FOI opened: gap_cgt_ra_staff_l5_2025 ? ready (not sent)
 - Next: rq_605; progress@620 in 7 ticks; rq_116 deferred
+
+### 2026-07-31T19:15:00Z — tick 614
+- Unit: rq_605 (FOI-adjacent dual export hole-fill deepen — **AWEX** Type2 SEC dual FIT/hub)
+- Found: **AWEX** (primary CoA Table33 + p26). **BI2025 SEC:** recettes **€72.733m** · dépenses **€79.385m** · solde **-€6.652m**. **BI2024 SEC:** rec **€80.086m** · dep **€91.231m** · solde **-€11.145m** (dep path **-€11.846m** / solde path **+€4.493m**). CoA notes dotation cut path **~-€9m**. Prior EP package **€67.547m** 2025 / **€76.843m** 2026 is **subset** of full SEC (**gap ~€11.8m** 2025 residual FOI). Dual **FIT** package **€63.1m** + **hub.brussels** **€46.2m**. Strong confidence; staff/L5 residual FOI.
+- Wrote: entity update awex; budgets (+9); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_awex_ra_staff_l5_2025; rq_605=done; spawn rq_606; loop_state ticks=614
+- FOI opened: gap_awex_ra_staff_l5_2025 ? ready (not sent)
+- Next: rq_606; progress@620 in 6 ticks; rq_116 deferred
