@@ -8272,3 +8272,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+18); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_local_creches_primes_l5**; rq_693=done; spawn **rq_694**; loop_state ticks=702
 - FOI opened: gap_wal_aju2026_local_creches_primes_l5 — ready (not sent)
 - Next: rq_694; progress@710 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T17:30:00Z — tick 703
+- Unit: **rq_694** (FOI-adjacent dual residual — **FWB edu DO51–56 + pupils/ETP dual VL Digisprong/volwassenen**)
+- Found (primary CoA 2026_33 §5.4.2; dual VL 2026_28 §7.2):
+  - DO51 **2957.6** · DO52 **3648.3/3648.5** · DO53 **942.3** (poles **−4.2** weak hyp)
+  - Pupils **872234→868731 (−3503)** but **+151 ETP** charges
+  - DO54 **+11.5** · DO55 **+1.6** · HE minerval reform DP2 **58/10/10** unverified
+  - DO56 promo sociale **271.4** (+3.8) dual VL volwassenen save-fail **50** / Digisprong raid **24**
+  - DO11 critical replacement **+17.2** recurrent; DO19 **+14**; sport federations **+2.6** review only by **2028**
+  - Dual VL Digisprong/volwassenen; Strong CoA; L5 FOI.
+- Wrote: budgets (+19); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fwb_aju2026_edu_dual_vl_l5**; rq_694=done; spawn **rq_695**; loop_state ticks=703
+- FOI opened: gap_fwb_aju2026_edu_dual_vl_l5 — ready (not sent)
+- Next: rq_695; progress@710 in 7 ticks; rq_116 deferred

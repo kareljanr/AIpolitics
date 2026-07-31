@@ -13794,3 +13794,22 @@ bud_wal_primes_maintien_recevable_21609,wallonie_gov,2025,0,,,outturn,src_ccrek_
 bud_wal_primes_received_prior_17657_mar25_apr26,wallonie_gov,2026,0,,,outturn,src_ccrek_wal_aju2026_local_creches_primes,strong,Prior-regime prime dossiers received Mar2025-Apr2026 17657; tick702
 bud_wal_primes_still_expected_8400_2026,wallonie_gov,2026,0,,,estimate,src_ccrek_wal_aju2026_local_creches_primes,medium,Admin est ~8400 dossiers still expected by 30Sep2026 (600 travaux); stock value may rise; tick702
 bud_dual_wal_compensatoire_vl_2026,gg_belgium,2026,105700000,,,budgeted,src_dual_wal_local_vl_tick702,strong,Dual WAL aides compensatoires 105.7 vs VL local fiscal tools; not TE-additive; tick702
+bud_fwb_do51_fond_aju_2957_6m_2026,fwb_gov,2026,2957600000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO51 fondamental CE=CL aju 2957.6 (IB 2918.5 +39.1); tick703
+bud_fwb_do52_sec_ce_aju_3648_3m_2026,fwb_gov,2026,3648284000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO52 secondaire CE aju 3648.284 (+69.902); tick703
+bud_fwb_do52_sec_cl_aju_3648_5m_2026,fwb_gov,2026,3648478000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO52 secondaire CL aju 3648.478 (+69.896); exec Jun 53pct; tick703
+bud_fwb_do53_spe_aju_942_3m_2026,fwb_gov,2026,942276000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO53 specialise CE=CL aju 942.276 (+1.737); poles -4.2 weak hyp; tick703
+bud_fwb_do53_poles_cut_4_2m_2026,fwb_gov,2026,-4200000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,medium,Poles territoriaux -4.2 new calculation hypothesis CoA weak evidence; tick703
+bud_fwb_pupils_2026_868731,fwb_gov,2026,0,,,outturn,src_ccrek_fwb_aju2026_edu_dual_vl,strong,Pupils 15Jan2026 868731 (2025 872234 -3503); charges +151 ETP; tick703
+bud_fwb_pupils_2025_872234,fwb_gov,2025,0,,,outturn,src_ccrek_fwb_aju2026_edu_dual_vl,strong,Pupils 15Jan2025 872234; tick703
+bud_fwb_etp_plus_151_2026,fwb_gov,2026,0,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,Expose general +151 ETP pedagogical despite pupil drop; dual VL Digisprong opacity; tick703
+bud_fwb_do54_uni_path_11_5m_2026,fwb_gov,2026,11506000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO54 uni path +11.506 CE=CL; tick703
+bud_fwb_do55_sup_path_1_6m_2026,fwb_gov,2026,1612000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO55 sup hors uni/HE path +1.612; tick703
+bud_fwb_do56_promo_soc_aju_271_4m_2026,fwb_gov,2026,271391000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO56 Promotion Sociale aju 271.391 (+3.844) dual VL volwassenen; tick703
+bud_fwb_do57_artistique_aju_265_0m_2026,fwb_gov,2026,265039000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO57 artistique aju 265.039 (+3.438); tick703
+bud_fwb_do11_personnel_path_12_2m_2026,fwb_gov,2026,12200000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO11 admin personnel path +12.2 from provision; tick703
+bud_fwb_critical_replacement_17_2m_2026,fwb_gov,2026,17200000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,Critical mission 100pct replacement cost +17.2 recurrent; non-critical 20pct; tick703
+bud_fwb_do19_enfance_path_14m_2026,fwb_gov,2026,14000000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO19 enfance path +14 (ONE index 5.3 + emploi soutien 7.0); tick703
+bud_fwb_do26_sport_ce_aju_51_6m_2026,fwb_gov,2026,51600000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO26 Sport CE aju 51.6 (IB 48.3); federations +2.6; review decree by 2028; tick703
+bud_fwb_do20_culture_cl_aju_324_6m_2026,fwb_gov,2026,324600000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO20 Culture CL aju 324.6 (IB 367.5 tech redistrib non-marchand); tick703
+bud_fwb_do20_culture_ce_aju_227_9m_2026,fwb_gov,2026,227900000,,,budgeted,src_ccrek_fwb_aju2026_edu_dual_vl,strong,DO20 Culture CE aju 227.9 (IB 267.2); tick703
+bud_dual_fwb_do56_vl_volwassenen_2026,gg_belgium,2026,271391000,,,budgeted,src_dual_fwb_vl_edu_tick703,strong,Dual FWB DO56 271.4 vs VL volwassenen save-fail 50 / Digisprong raid 24; not TE-additive; tick703

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T17:15:00Z,rq_693,702,no,tick702 WAL compensatoire/creches/primes dual VL; next rq_694; progress@710 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T17:30:00Z,rq_694,703,no,tick703 FWB edu dual VL Digisprong; next rq_695; progress@710 in 7; rq_116 deferred
