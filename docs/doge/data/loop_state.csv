@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T12:00:00Z,rq_672,681,no,tick681 primary cells 92.05bn Justice provis Fedasil 848 save gap 61 dual; next rq_673; progress@690 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T12:15:00Z,rq_673,682,no,tick682 GIP 3685 Lantis 2479 overkap ruiter 642 dual; next rq_674; progress@690 in 8; rq_116 deferred

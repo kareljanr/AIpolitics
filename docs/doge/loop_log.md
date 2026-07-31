@@ -7992,3 +7992,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+55); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_primary_cells_justice_l5**; rq_672=done; spawn **rq_673**; loop_state ticks=681
 - FOI opened: gap_fed_aju2026_primary_cells_justice_l5 — ready (not sent)
 - Next: rq_673; progress@690 in 9 ticks; rq_116 deferred
+
+### 2026-08-01T12:15:00Z — tick 682
+- Unit: **rq_673** (FOI-adjacent dual residual — **VL BA2026 GIP + Lantis VAK split + overkappingsruiter dual**)
+- Found (primary CoA 2026_28 §7.5):
+  - **GIP:** Jul2025 plan **EUR2.424bn** → early plan **3.864** → actualised May **3.685** (−179); shortfall min **82.4** (onteigen **35** AWV **24.5** safety **26.2**); buffer art **13.8**; PFAS **842.8 off GIP**; DVW **+21.3** vs GIP; monthly advance lists vs GIP 2.0; CoA **unrealistic**
+  - **Lantis:** board awards **7.469bn**; deferred lock **~2.380bn**; BA VAK **2.479.4** = exog **1.006.8** + PFAS **842.8** + overkap2 **629.8**; loan **1.65bn** (draw **1.158** of which 2nd **522**); herijk 2035 min **2.822.3**; VEK **1.196.8**; CoA: capitalise loan now
+  - **Overkap ruiter:** eoy2025 **286.9**; BA assign **642.3** (Lantis **626** Scheldebrug **10**); feed **55**/yr; Scheldebrug total **246.2** by 2030; T20 eoy2030 **−53.4** if bridge; Lantis lock residual **257** eoy2030
+  - **De Lijn/Terneuzen residual:** rev **−25** werking **+39.4** exploit **+27.1** PPS **3.5** missing; Terneuzen VEK **21.5** NL **15** missing
+  - Dual WAL OTW. Strong CoA; L5 FOI.
+- Wrote: budgets (+50); commitments (+6); leaderboard (+6); sources (+2); entity overkap_ruiter_vl; FOI draft **gap_vl_ba2026_gip_lantis_overkap_l5**; rq_673=done; spawn **rq_674**; loop_state ticks=682
+- FOI opened: gap_vl_ba2026_gip_lantis_overkap_l5 — ready (not sent)
+- Next: rq_674; progress@690 in 8 ticks; rq_116 deferred

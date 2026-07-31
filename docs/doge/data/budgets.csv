@@ -13271,3 +13271,51 @@ bud_fedasil_path_internal_220_7m_2027,fedasil,2027,220700000,,,budgeted,src_ccre
 bud_fedasil_traj_save_688m_2029,fedasil,2029,688000000,,,budgeted,src_ccrek_fed_aju2026_primary_cells_justice,strong,MR Feb2025 traj save 688m by 2029 (reception 538 + return 150); tick681
 bud_dual_primary_cells_92bn_2026,gg_belgium,2026,92050000000,,,budgeted,src_dual_primary_cells_tick681,strong,Dual fed primary cells 92.05bn residual vs VL BA VEK class; not TE-additive; tick681
 bud_dual_fedasil_pack_848m_2026,gg_belgium,2026,848200000,,,budgeted,src_dual_primary_cells_tick681,strong,Dual Fedasil 848.2m vs regional reception class; tick681
+bud_vl_gip_jul2025_plan_2424m_2026,vlaanderen_gov,2026,2424000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,GIP 2025-2027 Jul2025 assumed 2026 spend 2424m; CoA 7.5; tick682
+bud_vl_gip_early2026_plan_3864m,vlaanderen_gov,2026,3864000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Early-2026 planned GIP 2026 spend 3864m (Oosterweel+leefbaarheid drive); tick682
+bud_vl_gip_actualised_3685m_2026,vlaanderen_gov,2026,3685000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Actualised GIP 2026 published 22 May 2026 total projects 3685.0m (-179 vs invest-cell start); CoA unrealistic; tick682
+bud_vl_gip_cut_from_start_179m_2026,vlaanderen_gov,2026,179000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,GIP 2026 cut 179m from invest-cell opening (maint/exploit out ~77 + Scheldebrug delay 73 class); tick682
+bud_vl_gip_maint_out_77m_2026,vlaanderen_gov,2026,77000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Regular maintenance AWV/DVW/AMDK + exploitatie removed from GIP almost 77m; tick682
+bud_vl_gip_scheldebrug_delay_cut_73m_2026,vlaamse_waterweg,2026,73000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,DVW invest toelage from overkappingsruiter -73m Scheldebrug partial award delay; tick682
+bud_vl_gip_budget_shortfall_82_4m_2026,vlaanderen_gov,2026,82400000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,CoA min shortfall 82.4m VAK vs GIP actualisation: onteigen buffer 35 + AWV structural 24.5 + traffic safety 26.2; tick682
+bud_vl_gip_onteigen_short_35m_2026,vlaanderen_gov,2026,35000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Expropriation buffer underfunded 35.0m vs GIP; tick682
+bud_vl_gip_awv_maint_short_24_5m_2026,awv,2026,24500000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,AWV structural maintenance underfunded 24.5m vs GIP; tick682
+bud_vl_gip_safety_short_26_2m_2026,vlaanderen_gov,2026,26200000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Traffic safety invest underfunded 26.2m vs GIP; tick682
+bud_vl_gip_buffer_article_13_8m_2026,vlaanderen_gov,2026,13800000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Central GIP article residual buffer 13.8m price revisions/expropriations after redistribute; tick682
+bud_vl_gip_dvw_above_gip_21_3m_2026,vlaamse_waterweg,2026,21300000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,DVW entity budget invest 21.3m above GIP line; tick682
+bud_lantis_pfas_842_8m_off_gip_2026,lantis,2026,842800000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Lantis PFAS 842.8m NOT in GIP actualisation; CoA dual; tick682
+bud_lantis_board_awards_7469m_2024,lantis,2024,7469000000,,,commitment,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Lantis board Sep2024 approved Oosterweelknoop+Rechteroever contractor bids 7469.0m; tick682
+bud_lantis_deferred_lock_2380m_2024,lantis,2024,2380000000,,,commitment,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Deferred budget lock ~2380m (price level 2024) pending financing after 2024 aju; CoA warn; tick682
+bud_lantis_vak_2479_4m_2026,lantis,2026,2479400000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Lantis BA2026 VAK 2479.4m to lock remaining Sep2024 awards (political steercom 1 Dec2025); tick682
+bud_lantis_exogenous_1006_8m_2026,lantis,2026,1006800000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Exogenous factors main works VAK 1006.8m (2024 est 985m Jan2024 price); soil/pollution/norms; tick682
+bud_lantis_pfas_direct_842_8m_2026,lantis,2026,842800000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Direct PFAS remediation VAK 842.8m (2024 total PFAS ~1207m of which 399 already financed toll/VL/3M); tick682
+bud_lantis_pfas_total_est_1207m_2024,lantis,2024,1207000000,,,estimate,src_ccrek_vl_ba2026_gip_lantis_deep,strong,PFAS remediation LL+RO est ~1207m Jan2024 price level; tick682
+bud_lantis_pfas_prefinanced_399m,lantis,2024,399000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,PFAS prefinanced 399m from toll+VL+3M before 2026 VAK lock; tick682
+bud_lantis_overkap2_629_8m_2026,lantis,2026,629800000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Second overkapping series VAK 629.8m (2024 est 643m optimized); via overkappingsruiter; tick682
+bud_lantis_loan_1650m_subord,lantis,2026,1650000000,,,commitment,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Second subordinated loan 1.65bn via kaderovereenkomst addendum; CoA: convert to capital/grant now not 2035; tick682
+bud_lantis_herijk_min_takeover_2822_3m_2035,lantis,2035,2822300000,,,estimate,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Herijk 2035 min Vlaanderen takeover subordinated debt 2822.3m to align debt service with modelled tolls; tick682
+bud_lantis_vek_invest_1196_8m_2026,lantis,2026,1196800000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Lantis invest VEK BA 1196.8m (from IB 1089.8; +107 planning/optim/design); tick682
+bud_lantis_loan_draw_1158m_2026,lantis,2026,1158000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Lantis loan draw receipts 1158.0m 2026 (+261.1 vs IB); tick682
+bud_lantis_second_loan_partial_522m_2026,lantis,2026,522000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Partial draw second subordinated loan 522.0m of 1650 envelope 2026; rest commercial paper to capped bond; tick682
+bud_lantis_first_loan_fully_drawn,lantis,2025,0,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,First subordinated loan fully drawn before 2026; residual note tick682
+bud_vl_overkap_ruiter_saldo_eoy2025_286_9m,vlaanderen_gov,2025,286900000,,,outturn,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Overkappingsruiter saldo end 2025 286.9m; tick682
+bud_vl_overkap_ruiter_assign_642_3m_2026,vlaanderen_gov,2026,642300000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,BA2026 assigns 642.3m rightsperson exp financed via overkappingsruiter; tick682
+bud_vl_overkap_lantis_underbouw_626m_2026,lantis,2026,626000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Overkap ruiter to Lantis underbouw second series 626.0m of 642.3 assign (contract end2024); tick682
+bud_vl_overkap_scheldebrug_vak_10m_2026,vlaamse_waterweg,2026,10000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Scheldebrug bike/ped VAK 10.0m via overkappingsruiter 2026 (phased awards); tick682
+bud_vl_scheldebrug_total_246_2m,vlaamse_waterweg,2030,246200000,,,commitment,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Scheldebrug fiets/voetganger total project est 246.2m by 2030; tick682
+bud_vl_overkap_ruiter_feed_55m_yr,vlaanderen_gov,2026,55000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Overkappingsruiter typical annual feed 55.0m (unused MOW VAK / redistributes); CoA advise budget explicitly; tick682
+bud_vl_overkap_ruiter_eoy2026_340_9m,vlaanderen_gov,2026,340900000,,,estimate,src_ccrek_vl_ba2026_gip_lantis_deep,medium,CoA T20 overkap saldo eoy2026 340.9m excl other leefbaarheid if feed 55 + Lantis underbouw path; tick682
+bud_vl_overkap_ruiter_eoy2030_minus_53_4m,vlaanderen_gov,2030,53400000,,,estimate,src_ccrek_vl_ba2026_gip_lantis_deep,medium,CoA T20: if Scheldebrug 246.2 by 2030 saldo -53.4m (excl intendant 2-3m/yr other); tick682
+bud_lantis_overkap_lock_residual_257m_2030,lantis,2030,257000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Lantis overkapping VAK residual still 257.0m eoy2030 to liquidate after; tick682
+bud_vl_overkap_intendant_2_3m_yr,vlaanderen_gov,2026,2500000,,,estimate,src_ccrek_vl_ba2026_gip_lantis_deep,medium,Toekomstverbond intendant ops ~2-3m/yr on ruiter class; tick682
+bud_delijn_net_rev_minus_25m_path_2026,de_lijn,2026,25000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Net transport revenue path -25m vs IB (IB had held +50 from toelage); tick682
+bud_delijn_werking_up_39_4m_2026,de_lijn,2026,39400000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,De Lijn werkingstoelage +39.4m (GIP provis 33.7 + OV expansion 25; DWV delay -12.6; efficiency -5.5); tick682
+bud_delijn_gip_provis_33_7m_2026,de_lijn,2026,33700000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,GIP provisie into De Lijn werking 33.7m; tick682
+bud_delijn_ov_expansion_25m_2026,de_lijn,2026,25000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,OV expansion policy into De Lijn werking 25.0m; tick682
+bud_delijn_exploit_green_up_27_1m_2026,de_lijn,2026,27100000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Exploitanten greening step-up cost +27.1m (contracts Jul2025); tick682
+bud_delijn_pps_missing_3_5m_2026,de_lijn,2026,3500000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,PPS project deliveries 3.5m 2026 without added credits (2025 issue 23.7 auditor reservation); tick682
+bud_terneuzen_vek_21_5m_2026,vlaamse_waterweg,2026,21500000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Nieuwe Sluis Terneuzen VEK 21.5m BA (kasplan Mar2026); ruiter end2025 76.2; tick682
+bud_terneuzen_nl_payment_15m_missing_2026,vlaamse_waterweg,2026,15000000,,,budgeted,src_ccrek_vl_ba2026_gip_lantis_deep,strong,NL final settlement 15.0m in kasplan+GIP but VEK missing from BA; CoA; tick682
+bud_terneuzen_ruiter_eoy2025_76_2m,vlaamse_waterweg,2025,76200000,,,outturn,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Terneuzen overdracht/ruiter end 2025 76.2m covers VAK side; tick682
+bud_dual_gip_lantis_2026,gg_belgium,2026,3685000000,,,budgeted,src_dual_gip_lantis_tick682,strong,Dual VL GIP 3.685bn + Lantis VAK 2.48bn class vs WAL OTW; not TE-additive; tick682
+bud_dual_overkap_ruiter_path_2026,gg_belgium,2026,642300000,,,budgeted,src_dual_gip_lantis_tick682,strong,Dual overkappingsruiter assign 642.3m path exhaustion 2030 class; tick682
