@@ -15445,3 +15445,45 @@ bud_regie_rec_rents_third_2026,regie_gebouwen,2026,2959271,,,budgeted,src_kamer_
 bud_regie_rec_art16_2026,regie_gebouwen,2026,12125954,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,Art16 receipts total 12125954 2026; tick749
 bud_dual_regie_justice_dbfm_2026,gg_belgium,2026,102880000,,,derived,src_dual_regie_justice_dbfm_tick749,strong,Dual Regie alt-finance DBFM 102.88m vs Justice redev 46.6+CPL 31.2; not additive; tick749
 bud_dual_detentiehuizen_dbfm_capacity,gg_belgium,2026,103500000,,,derived,src_dual_regie_justice_dbfm_tick749,strong,Dual capacity stack: detentiehuizen envelope 103.5m + prison DBFM lock-in; tick749
+bud_regie_dbfm_leuze_invest_2026,regie_gebouwen,2026,7514792,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie share Leuze invest redevance 7514792 2026; tick751
+bud_regie_dbfm_leuze_maint_2026,regie_gebouwen,2026,1597409,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie share Leuze maint 1597409 2026; tick751
+bud_regie_dbfm_leuze_tot_2026,regie_gebouwen,2026,9112201,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Leuze invest+maint 9112201 2026; tick751
+bud_regie_dbfm_marche_invest_2026,regie_gebouwen,2026,6859500,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Marche invest 6859500 2026; tick751
+bud_regie_dbfm_marche_maint_2026,regie_gebouwen,2026,1579198,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Marche maint 1579198 2026; tick751
+bud_regie_dbfm_marche_tot_2026,regie_gebouwen,2026,8438699,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Marche tot 8438699 2026; tick751
+bud_regie_dbfm_beveren_invest_2026,regie_gebouwen,2026,9088298,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Beveren invest 9088298 2026; tick751
+bud_regie_dbfm_beveren_maint_2026,regie_gebouwen,2026,1330625,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Beveren maint 1330625 2026; tick751
+bud_regie_dbfm_beveren_tot_2026,regie_gebouwen,2026,10418924,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Beveren tot 10418924 2026; tick751
+bud_regie_dbfm_dendermonde_invest_2026,regie_gebouwen,2026,8941028,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Dendermonde invest 8941028 2026; tick751
+bud_regie_dbfm_dendermonde_maint_2026,regie_gebouwen,2026,1426740,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Dendermonde maint 1426740 2026; tick751
+bud_regie_dbfm_dendermonde_tot_2026,regie_gebouwen,2026,10367768,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Dendermonde tot 10367768 2026; tick751
+bud_regie_dbfm_haren_invest_2026,regie_gebouwen,2026,29221033,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Haren invest 29221033 2026 dual Table41 29.4m; tick751
+bud_regie_dbfm_haren_maint_2026,regie_gebouwen,2026,5125846,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Haren maint 5125846 2026 FIRST public maint fee; tick751
+bud_regie_dbfm_haren_tot_2026,regie_gebouwen,2026,34346879,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Haren tot 34346879 2026; tick751
+bud_regie_dbfm_antwerp_invest_2026,regie_gebouwen,2026,12810117,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Antwerp invest share 12810117 2026 (path to 17080156); tick751
+bud_regie_dbfm_antwerp_maint_2026,regie_gebouwen,2026,1381161,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Antwerp maint 1381161 2026 (path to 1841548); tick751
+bud_regie_dbfm_antwerp_tot_2026,regie_gebouwen,2026,14191278,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie Antwerp tot 14191278 2026 matches 003 add; tick751
+bud_regie_dbfm_prisons_invest_tot_2026,regie_gebouwen,2026,74434768,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie all6 prisons invest sum table TOT 74434768 2026; tick751
+bud_regie_dbfm_prisons_maint_tot_2026,regie_gebouwen,2026,12440979,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie all6 prisons maint TOT 12440979 2026 FIRST full maint public; tick751
+bud_regie_dbfm_prisons_grand_tot_2026,regie_gebouwen,2026,86875749,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie prisons grand tot invest+maint 86875749 2026; tick751
+bud_regie_dbfm_prisons_grand_tot_2027,regie_gebouwen,2027,91606175,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie prisons grand tot 91606175 2027 path (Antwerp full year); tick751
+bud_regie_dbfm_prisons_invest_tot_2027,regie_gebouwen,2027,78704807,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie prisons invest TOT 78704807 2027; tick751
+bud_regie_dbfm_prisons_maint_tot_2027,regie_gebouwen,2027,12901366,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Regie prisons maint TOT 12901366 2027; tick751
+bud_regie_albertina_annuity_2026,regie_gebouwen,2026,300786,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Albertina parking annuity 300786 2026 (5.75pct 20y on 2.91m works); tick751
+bud_regie_namur_courthouse_lease_2026,regie_gebouwen,2026,6837263,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Namur Palais Justice operational lease 6837263 2026 (INR reclass; index +180137); tick751
+bud_regie_namur_lease_index_2026,regie_gebouwen,2026,180137,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,Namur lease index add +180137 (base idx 130.95 to 137.78); tick751
+bud_regie_alt_finance_003_recon_2026,regie_gebouwen,2026,102879261,,,budgeted,src_kamer_regie_dbfm_fees_table_tick751,strong,003 recon: prisons 86.876m + Albertina 0.301 + Namur 6.837 = 102.879m rounded 102.880m; tick751
+bud_regie_rents_private_2026,regie_gebouwen,2026,423100460,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Existing private-sector rents 423100460 2026; tick751
+bud_regie_rents_public_2026,regie_gebouwen,2026,23818303,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Intra-public rents 23818303 2026; tick751
+bud_regie_rents_terminations_2026,regie_gebouwen,2026,-28971780,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Terminations incl taxes -28971780 2026; tick751
+bud_regie_rents_renegotiations_2026,regie_gebouwen,2026,-4081474,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Renegotiations -4081474 2026; tick751
+bud_regie_rents_taxes_2026,regie_gebouwen,2026,68286611,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Taxes/charges on existing leases 68286611 2026; tick751
+bud_regie_rents_new_contracts_2026,regie_gebouwen,2026,850849,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,New lease contracts 850849 2026; tick751
+bud_regie_rents_index_2026,regie_gebouwen,2026,8266768,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Indexation 2026 component 8266768; tick751
+bud_regie_rents_index_2025_lag,regie_gebouwen,2026,7879768,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Indexation 2025 lag component 7879768 in 2026; tick751
+bud_regie_emphyteusis_2026,regie_gebouwen,2026,741310,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Emphyteusis/erfpacht 741310 2026; tick751
+bud_regie_rents_total_needed_2026,regie_gebouwen,2026,499890814,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,Total rent cash needed 499890814 vs dot 492213000 gap ~7.7m prioritisation; tick751
+bud_regie_rents_save_mr_25m_2026,regie_gebouwen,2026,-25000000,,,budgeted,src_kamer_regie_rents_l5_tick751,strong,CM 14Feb2025 rent save -25m on path to 492.2m dot; tick751
+bud_regie_rents_gap_dot_vs_need_2026,regie_gebouwen,2026,7677814,,,derived,src_kamer_regie_rents_l5_tick751,strong,Need 499.891m minus dot 492.213m = 7.678m absorption gap; tick751
+bud_dual_regie_justice_dbfm_maint_2026,gg_belgium,2026,12440979,,,derived,src_dual_regie_dbfm_maint_tick751,strong,FIRST public Regie maint stack 12.44m dual FOI gap_dbfm_maint; tick751
+bud_dual_regie_justice_dbfm_full_2026,gg_belgium,2026,86875749,,,derived,src_dual_regie_dbfm_maint_tick751,strong,Regie prisons 86.88m dual Justice BA121135 46.6m different components; tick751

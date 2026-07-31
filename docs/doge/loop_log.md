@@ -8956,3 +8956,16 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (progress tick)
 - Next: prio5 **rq_742**; deferred **rq_116**; progress@760 in 10 ticks
 
+
+### 2026-08-02T12:45:00Z — tick 751
+- Unit: **rq_742** (FOI-adjacent residual — **Regie Kamer 1281/022 DBFM prison fee table + rent L5 path dual Justice**)
+- Found (primary Kamer DOC 56 1281/022 residual deepen vs tick749 aggregates):
+  - **Regie share DBFM 6 prisons 2026 invest+maint by site:** Haren **€34.347m** (inv 29.22 + maint **5.13**) · Beveren **€10.419m** · Dendermonde **€10.368m** · Leuze **€9.112m** · Marche **€8.439m** · Antwerp **€14.191m** (inv 12.81 + maint 1.38)
+  - **TOT 2026:** invest **€74.435m** + maint **€12.441m** = **€86.876m** · path **2027 €91.606m** (Antwerp full year)
+  - **003 recon:** prisons **€86.876m** + Albertina **€0.301m** + Namur PJ lease **€6.837m** = **€102.879m** ≈ dot **€102.880m**
+  - **Rent L5 need 2026 €499.891m:** private **€423.100m** · public **€23.818m** · taxes **€68.287m** · terminations **−€28.972m** · reneg **−€4.081m** · new **€0.851m** · index · emphyteusis **€0.741m** vs dot **€492.213m** (MR save **−€25m**; gap **~€7.7m** prioritisation)
+  - **FIRST public maint stack** partial-fills prior FOI `gap_dbfm_maint_facility_fees_l5`; facility third component residual
+- Wrote: budgets (+42); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_regie_dbfm_facility_residual_l5**; rq_742=done; spawn **rq_743**; ticks=751
+- FOI opened: gap_regie_dbfm_facility_residual_l5 — ready prio7 (not sent); maint FOI notes partial fill
+- Next: rq_743; progress@760 in 9; rq_116 deferred
+
