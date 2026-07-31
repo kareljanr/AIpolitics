@@ -14204,3 +14204,43 @@ bud_vl_kunsten_survey_response_407_990,cultuur_cjm_vl,2024,407,,,outturn,src_ccr
 bud_vl_kunsten_ws_also_project_55of225,cultuur_cjm_vl,2022,55,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,55 of 225 WS orgs also had project grant 2019-22 stepping-stone path; tick721
 bud_vl_kunsten_landschap_5pct_ws,cultuur_cjm_vl,2023,5,,,budgeted,src_ccrek_vl_kunsten_residual_2026,strong,Landscape commission reserve 5pct of WS budget unmotivated CoA; tick721
 bud_dual_kunsten_fwb_class_2024,gg_belgium,2024,201941900,,,awarded,src_dual_kunsten_fwb_tick721,strong,Dual VL KD awards 201.9m vs FWB arts vivants residual; not TE-additive; tick721
+bud_vvpr_jan_apr_2026_plus_406_3m,fod_finance,2026,406300000,,,outturn,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,VVPRbis receipts Jan-Apr 2026 +406.3m vs same period 2025 CoA; tick722
+bud_vvpr_exceptional_402_1m_15pct_2026,fod_finance,2026,402100000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,RV exceptional VVPR-bis at still-15pct 402.1m due delayed progwet CoA p28; tick722
+bud_vvpr_tech_corr_2025_minus_402_1m,fod_finance,2025,-402100000,,,outturn,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Technical correction -402.1m neutralizing 2025 anticipation spike CoA; tick722
+bud_vvpr_bis_conclave_add_334_5m,fod_finance,2026,334500000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Conclave adds 334.5m VVPR residual after prior +67.6 already in base; tick722
+bud_vvpr_prior_base_plus_67_6m,fod_finance,2026,67600000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Base 2026 already included +67.6m VVPR behaviour before conclave top-up; tick722
+bud_rv_total_path_plus_403_7m_2026,fod_finance,2026,403700000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Roerende voorheffing total path +403.7m 2026 (+5.1pct) incl VVPR exceptional; tick722
+bud_pillar2_ib_32m_2026,fod_finance,2026,32000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Pillar2 minimum tax IB 2026 +32m; tick722
+bud_pillar2_bc_minus_87m_2026,fod_finance,2026,-87000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Pillar2 BC 2026 -87m; slip -119 vs IB; tick722
+bud_pillar2_slip_119m_2026,fod_finance,2026,-119000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Pillar2 reestimate slip -119m 2026 CoA table; tick722
+bud_pillar2_slip_184m_2027,fod_finance,2027,-184000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Pillar2 reestimate slip -184m 2027 CoA; tick722
+bud_pillar2_filing_deadline_2026_09_30,fod_finance,2026,1,,,outturn,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Pillar2 AY2025 filings deferred to 30 Sep 2026 CoA; tick722
+bud_vat_reform_ib_580_5m,fod_finance,2026,580500000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,VAT reform IB impact +580.5m; tick722
+bud_vat_reform_bc_177m,fod_finance,2026,177000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,VAT reform BC +177m slip -403.5; tick722
+bud_vat_reform_slip_403_5m,fod_finance,2026,-403500000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,VAT reform reestimate slip -403.5m vs IB; tick722
+bud_vat_chain_cash_lag_2025_520_9m,fod_finance,2025,520900000,,,outturn,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,VAT chain reform 2025 lower cash receipts 520.9m CoA; tick722
+bud_gas_excise_ib_91m,fod_finance,2026,91000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Gas excise hike IB +91m; tick722
+bud_gas_excise_bc_21_2m,fod_finance,2026,21200000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Gas excise BC +21.2m slip -69.8; tick722
+bud_elec_social_tariff_minus_23_3m,fod_finance,2026,-23300000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Electricity excise cut protected clients -23.3m; tick722
+bud_elec_residential_bc_minus_30_6m,fod_finance,2026,-30600000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Electricity residential excise cut BC -30.6m (IB -50); tick722
+bud_authors_rights_software_cost_142_1m,fod_finance,2026,-142100000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,medium,Authors rights scope expand software -142.1m annual; FOD keeps estimate CoA; tick722
+bud_authors_rights_forfait_remove_39m,fod_finance,2026,39000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Remove forfait cost deduction authors rights +39m annual; lag until law publish; tick722
+bud_pit_reform_half_shift_96m,fod_finance,2026,96000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,PIT reform payroll withholding from Jul shifts H1 cost 96m to 2027-28 rolls; tick722
+bud_pit_reform_extra_delay_48m,fod_finance,2026,48000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,medium,If law delay to Sep another 48m of 2026 cost slides to 2027-28 CoA; tick722
+bud_fiscal_measures_net_1830_8m_2026,fod_finance,2026,1830800000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Net fiscal measures impact 2026 +1830.8m (prior +1099.9 + conclave +730.9); tick722
+bud_fiscal_conclave_new_730_9m,fod_finance,2026,730900000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Conclave 3 Apr new fiscal measures +730.9m; tick722
+bud_fiscal_prior_measures_1099_9m,fod_finance,2026,1099900000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Prior decided fiscal measures impact +1099.9m 2026; tick722
+bud_fiscal_receipts_esr_164541m_2026,fod_finance,2026,164541200000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Fiscal receipts ESR after conclave 164541.2m; tick722
+bud_fiscal_base_fod_163810m_2026,fod_finance,2026,163810400000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,FOD Finance base fiscal ESR 163810.4m; tick722
+bud_mr_apr3_improve_615m,sec_federal,2026,615000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,MR 3 Apr improves MC balance +615m; tick722
+bud_mr_apr3_tech_517m,sec_federal,2026,517000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Of +615 technical ~517m (customs+VVPRbis 475 + defer 187 - reinteg -112); tick722
+bud_mr_apr3_vvpr_customs_475m,sec_federal,2026,475000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Customs reest + VVPRbis reest cluster ~475m of technical package; tick722
+bud_mr_apr3_decisions_98m,sec_federal,2026,98000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Non-technical government decisions net ~+98m of 615; tick722
+bud_control_staff_cut_reverse_179m,fod_finance,2026,179000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Reverse negative impact of staff cuts on tax/SS control 179m; tick722
+bud_eu_handling_fee_77_4m_unalloc,fod_finance,2026,77400000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,medium,EU handling fee est 77.4m from Nov 2026 unallocated correction law not final; tick722
+bud_entity1_deficit_24_5bn_2026,sec_federal,2026,24500000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Entity I financing deficit after measures 24.5bn 2026 (-3.7pct GDP); tick722
+bud_entity1_deficit_36_2bn_2029,sec_federal,2029,36200000000,,,projected,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Entity I path deficit 36.2bn 2029 (-5pct GDP) worsen +11.7bn vs Jan path +6.6; tick722
+bud_cit_path_plus_1224_8m_2026,fod_finance,2026,1224800000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,CIT receipts +1224.8m 2026; advance payments include Russian assets 1016m; tick722
+bud_russian_assets_cit_1016m_2026,fod_finance,2026,1016000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,CIT advance payments include 1016m frozen Russian assets class; tick722
+bud_dlui_regularisation_bc_126m,fod_finance,2026,126000000,,,budgeted,src_ccrek_fed_aju_vvpr_pillar2_2026,strong,Fiscal regularisation BC +126m (IB 84 path +42); tick722
+bud_dual_vvpr_pillar2_tick722,gg_belgium,2026,402100000,,,budgeted,src_dual_vvpr_pillar2_tick722,strong,Dual residual VVPR anticipation + Pillar2 slip; not TE-additive; tick722

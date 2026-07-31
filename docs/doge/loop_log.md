@@ -8544,3 +8544,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_kunsten_fair_pay_fin_vuln_l5 — ready (not sent)
 - Next: rq_713; progress@730 in 9 ticks; rq_116 deferred
 
+
+### 2026-08-01T22:15:00Z — tick 722
+- Unit: **rq_713** (FOI-adjacent dual residual — **fed VVPR/Pillar2 CoA 2026_22 recheck dual**)
+- Found (primary CoA 2026_22 fed aju):
+  - VVPRbis exceptional **402.1m** still at **15%** (delayed progwet); tech corr **−402.1m** on 2025 spike
+  - Jan–Apr 2026 **+406.3m** vs 2025; conclave residual **+334.5m** (after base **+67.6m**)
+  - RV total path **+403.7m**; Pillar2 IB **+32** → BC **−87** slip **−119** (2027 **−184**); filings to **30 Sep 2026**
+  - VAT reform **580.5→177** slip **−403.5**; gas **91→21.2**; elec social **−23.3**
+  - Fiscal net measures **+1830.8m** (prior **1099.9** + conclave **730.9**); ESR receipts **164.5bn**
+  - MR 3 Apr **+615m** (tech **517** of which VVPR/customs **~475**; decisions **~98**); Entity I **24.5bn → 36.2bn 2029**
+  - CIT path **+1224.8m** incl Russian assets **1016m**; Strong CoA; L5 FOI.
+- Wrote: budgets (+40); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_fed_vvpr_pillar2_series_l5**; rq_713=done; spawn **rq_714**; loop_state ticks=722
+- FOI opened: gap_fed_vvpr_pillar2_series_l5 — ready (not sent; contacts TBD)
+- Next: rq_714; progress@730 in 8 ticks; rq_116 deferred
+
