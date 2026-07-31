@@ -7108,3 +7108,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +38; cmt +3; lb +7; FOI **gap_inasep_spge_l5_2025** ready+draft; entity **inasep** NEW; raw PDF; rq_572=done spawn **rq_573**; ticks=581
 - FOI opened: gap_inasep_spge_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_573**; deferred **rq_116**; progress@590 in 9 ticks
+
+### 2026-07-31T11:35:00Z - tick 582
+- Unit: **rq_573** (FOI-adjacent hole-fill - **in BW RG2025 dual OAA INASEP + waste muni debt**)
+- Found (strong primary in BW Rapport de gestion 2025, 107 pp — new entity):
+  - **Result EUR 4.84m** after waste deficit neutralization (2.97m before); **no dividend** (statutes)
+  - **Assets 576.1m** (+10.3m); equity **+15.9m** class; invest **20.5m**; cashflow **25.5m** / debt service **14.7m**
+  - **Drink:** CA **53.6m** result **4.86m**; volume **10.58 Mm3**; CVD **2.60 EUR/m3**; invest **8.9m** renew **1.28%**
+  - **Assain:** CA **27.2m** result **0.69m**; adjud **19.4m** works **13.1m**; cadastre **77%** inspect **154 km**
+  - **Waste:** result **-1.87m** (collect +0.20 / recyparc +0.58 / treatment **-2.65**); muni debt cum **8.58m**; access control **-40%** tonnage
+  - **Economic** **-0.48m** works **11m**; Pollec **-0.23m**; staff **506**
+  - BEI ratios OK: net debt/equity **67%**; EBITDA/DS **2.3**; net debt/EBITDA **6.3**
+  - **Dual OAA:** in BW drink **53.6** + assain **27.2** / assets **576m** vs INASEP **49m** / **186m**; both SPGE CSU
+- Wrote: sources +2; budgets +38; cmt +3; lb +7; FOI **gap_inbw_accounts_l5_2025** ready+draft; entity **inbw** NEW; raw PDF; rq_573=done spawn **rq_574**; ticks=582
+- FOI opened: gap_inbw_accounts_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_574**; deferred **rq_116**; progress@590 in 8 ticks

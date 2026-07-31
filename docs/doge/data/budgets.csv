@@ -10628,3 +10628,41 @@ bud_inasep_exploit_etp_2025,inasep,2025,97,,,outturn,src_inasep_ra_2025,strong,C
 bud_inasep_lab_params_2025,inasep,2025,152046,,,outturn,src_inasep_ra_2025,strong,COUNT lab parametres 152046 / 13778 echantillons; tick581
 bud_inasep_cvd_new_2026_cents,inasep,2025,37414,,,outturn,src_inasep_ra_2025,strong,COUNT new CVD 3.7414 EUR/m3 x10000 approved 2026-04-21; tick581
 bud_inasep_prod_immo_2025,inasep,2025,1235881,,,outturn,src_inasep_ra_2025,strong,Production immobilisee drink 1.236m 2025; tick581
+bud_inbw_result_2025,inbw,2025,4839491,,,outturn,src_inbw_rg_2025,strong,Benefice exercice 4.839m 2025 after waste deficit neutralization (3.952m 2024); no dividend; tick582
+bud_inbw_result_before_waste_neut_2025,inbw,2025,2970186,,,outturn,src_inbw_rg_2025,strong,Resultat avant neutralisation dechets 2.970m 2025; tick582
+bud_inbw_assets_2025,inbw,2025,576116610,,,outturn,src_inbw_rg_2025,strong,Total bilan 576.117m end-2025 (565.832m 2024); tick582
+bud_inbw_equity_increase_2025,inbw,2025,15900000,,,outturn,src_inbw_rg_2025,strong,Capitaux propres +15.9m class 2025 (includes result + subsides); tick582
+bud_inbw_invest_2025,inbw,2025,20495188,,,outturn,src_inbw_rg_2025,strong,Investissements 20.495m 2025; tick582
+bud_inbw_cashflow_2025,inbw,2025,25500000,,,outturn,src_inbw_rg_2025,strong,Cash-flow 25.5m 2025; after credit repay 14.7m available 10.8m; tick582
+bud_inbw_credit_repay_2025,inbw,2025,14700000,,,outturn,src_inbw_rg_2025,strong,Remboursement credits 14.7m 2025; tick582
+bud_inbw_pae_infra_stock_2025,inbw,2025,9700000,,,outturn,src_inbw_rg_2025,strong,Travaux infrastructure stock terrains PAE 9.7m 2025; tick582
+bud_inbw_lt_fin_debt_change_2025,inbw,2025,-17331455,,,outturn,src_inbw_rg_2025,strong,Dettes financieres >1an -17.331m 2025; tick582
+bud_inbw_st_credit_2025,inbw,2025,6000000,,,outturn,src_inbw_rg_2025,strong,Dettes etablissement credit CT 6.0m term fixed 2025; tick582
+bud_inbw_drink_result_2025,inbw,2025,4857355,,,outturn,src_inbw_rg_2025,strong,Resultat eau potable 4.857m 2025 (+42pct YoY); tick582
+bud_inbw_drink_ca_2025,inbw,2025,53582093,,,outturn,src_inbw_rg_2025,strong,CA eau potable 53.582m 2025; tick582
+bud_inbw_drink_volume_m3_2025,inbw,2025,10584200,,,outturn,src_inbw_rg_2025,strong,COUNT m3 eau facturee 10584200 (+2.1pct); tick582
+bud_inbw_drink_invest_2025,inbw,2025,8900000,,,outturn,src_inbw_rg_2025,strong,Investissements eau potable 8.9m 2025 (renewal 1.28pct); tick582
+bud_inbw_cvd_cents_2025,inbw,2025,260,,,outturn,src_inbw_rg_2025,strong,COUNT CVD 2.60 EUR/m3 from 2025-02-01 (was 2.47) x100; tick582
+bud_inbw_cva_cents_2025,inbw,2025,2615,,,outturn,src_inbw_rg_2025,strong,COUNT CVA 2.615 EUR/m3 2025 (+10.4pct; 2.695 from 2026-01-01) x1000; tick582
+bud_inbw_assain_result_2025,inbw,2025,689928,,,outturn,src_inbw_rg_2025,strong,Resultat assainissement 0.690m 2025; tick582
+bud_inbw_assain_ca_2025,inbw,2025,27213233,,,outturn,src_inbw_rg_2025,strong,CA assainissement 27.213m 2025; tick582
+bud_inbw_assain_adjud_2025,inbw,2025,19400000,,,outturn,src_inbw_rg_2025,strong,Adjudications assainissement 19.4m 2025; tick582
+bud_inbw_assain_works_2025,inbw,2025,13100000,,,outturn,src_inbw_rg_2025,strong,Travaux realises assainissement 13.1m 2025; tick582
+bud_inbw_waste_result_2025,inbw,2025,-1869306,,,outturn,src_inbw_rg_2025,strong,Resultat dechets -1.869m 2025 (neutralized to LT receivable); tick582
+bud_inbw_waste_collect_2025,inbw,2025,200745,,,outturn,src_inbw_rg_2025,strong,Boni collecte dechets 0.201m 2025; tick582
+bud_inbw_waste_recyparc_2025,inbw,2025,579046,,,outturn,src_inbw_rg_2025,strong,Boni recyparcs 0.579m 2025; tick582
+bud_inbw_waste_traitement_2025,inbw,2025,-2649097,,,outturn,src_inbw_rg_2025,strong,Mali traitement dechets -2.649m 2025; tick582
+bud_inbw_waste_debt_cum_2024,inbw,2025,8575661,,,outturn,src_inbw_rg_2025,strong,Dette communale dechets cum 2020-2024 8.576m eoy2024; tick582
+bud_inbw_econ_result_2025,inbw,2025,-477571,,,outturn,src_inbw_rg_2025,strong,Resultat economique -0.478m 2025; tick582
+bud_inbw_econ_works_2025,inbw,2025,11000000,,,outturn,src_inbw_rg_2025,strong,Travaux infrastructure economique 11m 2025; tick582
+bud_inbw_pollec_result_2025,inbw,2025,-230221,,,outturn,src_inbw_rg_2025,strong,Resultat Pollec Smartregion RenoBW -0.230m 2025; tick582
+bud_inbw_ca_change_2025,inbw,2025,6600000,,,outturn,src_inbw_rg_2025,strong,Chiffre d affaires +6.6m YoY 2025; tick582
+bud_inbw_ventes_change_2025,inbw,2025,3300000,,,outturn,src_inbw_rg_2025,strong,Ventes et prestations +3.3m YoY 2025; tick582
+bud_inbw_prod_immo_2025,inbw,2025,6900000,,,outturn,src_inbw_rg_2025,strong,Production immobilisee 6.9m 2025 (drink networks staff); tick582
+bud_inbw_staff_2025,inbw,2025,506,,,outturn,src_inbw_rg_2025,strong,COUNT travailleurs 506; tick582
+bud_inbw_net_debt_equity_pct_2025,inbw,2025,6700,,,outturn,src_inbw_rg_2025,strong,COUNT ratio dettes nettes/fonds propres 67pct x100 (BEI max 110); tick582
+bud_inbw_ebitda_ds_2025,inbw,2025,230,,,outturn,src_inbw_rg_2025,strong,COUNT EBITDA/service dette 2.3 x100 (BEI min 1.40); tick582
+bud_inbw_net_debt_ebitda_2025,inbw,2025,630,,,outturn,src_inbw_rg_2025,strong,COUNT dette nette/EBITDA 6.3 x100 (BEI max 12); tick582
+bud_inbw_sewer_cadastre_pct_2025,inbw,2025,7700,,,outturn,src_inbw_rg_2025,strong,COUNT reseau egouttage cadastre 77pct x100; tick582
+bud_inbw_sewer_inspect_km_2025,inbw,2025,154,,,outturn,src_inbw_rg_2025,strong,COUNT km egouts inspectes camera 154; tick582
+bud_inbw_recyparc_tonnage_cut_pct_2025,inbw,2025,4000,,,outturn,src_inbw_rg_2025,strong,COUNT recyparc tonnage -40pct after access control x100; tick582

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:30:00Z,rq_572,581,no,tick581 INASEP RA2025 CA 49m dual SPGE OAA prog 128.7m; next rq_573; progress@590 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:35:00Z,rq_573,582,no,tick582 in BW RG2025 result 4.84m dual OAA INASEP waste debt; next rq_574; progress@590 in 8; rq_116 deferred
