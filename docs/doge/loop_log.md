@@ -8840,3 +8840,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity wonen_in_vlaanderen; budgets (+55); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_wiv_jv2025_residual_l5**; raw PDF+txt+write; rq_733=done; spawn **rq_734**; loop_state ticks=742
 - FOI opened: gap_wiv_jv2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_734; progress@750 in 8; rq_116 deferred
+
+### 2026-08-02T08:45:00Z — tick 743
+- Unit: **rq_734** (FOI-adjacent residual — **CoA Rekenhof NL Activiteitenverslag 2025 recs/certification residual**)
+- Found (primary CoA 2026_37, 38p, approved 23 Jun 2026):
+  - **Recs monitor 2018-25:** **42** VL thematic audits · **453** recs · assessed **379** · **full impl only 15.8%** · started 45.6% · intention-only 19% · **no action 14.2%** · not assessed 5.4% · 16.3% not yet followed (too recent)
+  - **Certification 2024:** commercial accounts **disclaimer (onthouding)** · budget execution **qualified** · ESR + consol ESR **unqualified** · **5** entities no 2024 accounts
+  - **Verantwoordingsdag:** first plenary **28 Jun 2027** · 7 workstreams · needs earlier docs than 21 May
+  - Capacity: VL sector **67.5 FTE** of which **58.5** VG-level
+  - 2025 wave: TV 5th progress · Kustbeveiliging lag · hernieuwbare energie (green heat underused) · schakel · combined permit · buitengewoon edu **+13%** pupils · VDAB outsourcing further follow-up
+  - Dual: governance residual (not pure TE) — open recs block waste cut follow-through
+- Wrote: entity rekenhof_nl; budgets (+28); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_ccrek_av2025_recs_impl_l5**; extracts+write; rq_734=done; spawn **rq_735**; loop_state ticks=743
+- FOI opened: gap_ccrek_av2025_recs_impl_l5 — ready prio8 (not sent)
+- Next: rq_735; progress@750 in 7; rq_116 deferred

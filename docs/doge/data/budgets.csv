@@ -15128,3 +15128,31 @@ bud_dual_wiv_stock_178743_vs_swl_103293,gg_belgium,2025,178743,,,outturn,src_dua
 bud_dual_wiv_waitlist_215337_vs_swl_49945,gg_belgium,2025,215337,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL CIR waitlist 215337 dual SWL 49945 / BCR demand residual; tick742
 bud_dual_wiv_vacancy_10_51pct_vs_housing,gg_belgium,2025,18793,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL owned vacancy 10.51pct (18793) dual SWL rotation 6.69pct / SLRB arrears residual; tick742
 bud_dual_wiv_huursubsidie_68_5m_vs_wal,gg_belgium,2025,68511515,,,outturn,src_dual_wiv_vmsw_swl_tick742,strong,VL huursubsidie 68.5m + huurpremie 63.5m dual WAL housing aids class; tick742
+bud_ccrek_vl_thematic_audits_n_42_2018_25,rekenhof_nl,2025,42,,,outturn,src_ccrek_2026_37_av2025_residual,strong,VL thematic audit reports COUNT 42 in 2018-2025 monitor; tick743
+bud_ccrek_vl_recs_total_453_2018_25,rekenhof_nl,2025,453,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Recommendations in VL thematic audits 453 COUNT 2018-2025; tick743
+bud_ccrek_vl_recs_not_yet_followed_16_3pct,rekenhof_nl,2025,163,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Share recs not yet followed up 16.3pct (too recent for first assessment); tick743
+bud_ccrek_vl_recs_assessed_379,rekenhof_nl,2025,379,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Recommendations assessed COUNT 379 of 453 2018-2025; tick743
+bud_ccrek_vl_recs_full_impl_15_8pct,rekenhof_nl,2025,158,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Fully implemented share of assessed recs 15.8pct 2018-2025; tick743
+bud_ccrek_vl_recs_full_impl_n_60,rekenhof_nl,2025,60,,,outturn,src_ccrek_2026_37_av2025_residual,medium,Fully implemented COUNT ~60 (=15.8pct of 379 assessed) calculated; tick743
+bud_ccrek_vl_recs_started_45_6pct,rekenhof_nl,2025,456,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Actions planned+started share 45.6pct of assessed; tick743
+bud_ccrek_vl_recs_intention_only_19pct,rekenhof_nl,2025,190,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Intention only (not started) share 19pct of assessed; tick743
+bud_ccrek_vl_recs_no_action_14_2pct,rekenhof_nl,2025,142,,,outturn,src_ccrek_2026_37_av2025_residual,strong,No action and no intention share 14.2pct of assessed; tick743
+bud_ccrek_vl_recs_no_action_n_54,rekenhof_nl,2025,54,,,outturn,src_ccrek_2026_37_av2025_residual,medium,No-action COUNT ~54 (=14.2pct of 379) calculated; tick743
+bud_ccrek_vl_recs_not_assessed_5_4pct,rekenhof_nl,2025,54,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Not assessed (insufficient BBT info) share 5.4pct of assessed; tick743
+bud_ccrek_vl_recs_weak_followup_class_38_6pct,rekenhof_nl,2025,386,,,outturn,src_ccrek_2026_37_av2025_residual,medium,Weak follow-up class intention+none+not_assessed 19+14.2+5.4=38.6pct of assessed; tick743
+bud_ccrek_vl_cert_disclaimer_commercial_2024,rekenhof_nl,2024,1,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Certification disclaimer (onthouding) on VL commercial annual accounts 2024; tick743
+bud_ccrek_vl_cert_qualified_budget_exec_2024,rekenhof_nl,2024,1,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Qualified opinion (met voorbehoud) on VL budget execution 2024; tick743
+bud_ccrek_vl_cert_clean_esr_2024,rekenhof_nl,2024,1,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Unqualified opinion on ESR reporting and consolidated ESR 2024; tick743
+bud_ccrek_vl_entities_rekeningen_180,rekenhof_nl,2024,180,,,outturn,src_ccrek_2026_37_av2025_residual,strong,VL legal entities/DABs in rekeningen overview ~180 (footnote 185 of which 5 no accounts 2024); tick743
+bud_ccrek_vl_entities_no_accounts_5_2024,rekenhof_nl,2024,5,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Entities that did not submit 2024 accounts COUNT 5; tick743
+bud_ccrek_vl_staff_fte_67_5_2026,rekenhof_nl,2026,675,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Rekenhof VL sector FTE 67.5 of which 58.5 for VG level 1Jan2026; tick743
+bud_ccrek_vl_staff_vg_fte_58_5_2026,rekenhof_nl,2026,585,,,outturn,src_ccrek_2026_37_av2025_residual,strong,VG-level FTE 58.5 in Rekenhof VL sector 1Jan2026; tick743
+bud_ccrek_verantwoordingsdag_first_2027,rekenhof_nl,2027,1,,,budgeted,src_ccrek_2026_37_av2025_residual,strong,First Verantwoordingsdag planned plenary 28 Jun 2027 (Dutch model accountability day); tick743
+bud_ccrek_verantwoordingsdag_werven_7,rekenhof_nl,2026,7,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Technical working group 7 workstreams for Verantwoordingsdag (charter); tick743
+bud_ccrek_vl_audits_published_class_2025,rekenhof_nl,2025,8,,,outturn,src_ccrek_2026_37_av2025_residual,medium,"Thematic audits reported to VL parliament class ~8 in 2025 wave (TV, coast, renewables, schakel, combined permit, performance budget, digisprong, buitengewoon edu); tick743"
+bud_ccrek_impact_notes_6_2025,rekenhof_nl,2025,6,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Impact-evaluation notes produced COUNT 6 in 2025; tick743
+bud_ccrek_followup_notes_5_2025,rekenhof_nl,2025,5,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Follow-up notes COUNT 5 in 2025; VDAB outsourcing needs further follow-up; tick743
+bud_ccrek_buitengewoon_edu_pupils_plus_13pct,rekenhof_nl,2024,13,,,outturn,src_ccrek_2026_37_av2025_residual,strong,Special education pupils +nearly 13pct in 4 years (no path to inclusive education); tick743
+bud_dual_coa_recs_full_impl_only_15_8pct,gg_belgium,2025,158,,,outturn,src_dual_coa_recs_implement_tick743,strong,VL CoA recs fully implemented only 15.8pct of assessed dual federal/BCR CoA follow-up residual; tick743
+bud_dual_coa_disclaimer_accounts_vs_esr_clean,gg_belgium,2024,1,,,outturn,src_dual_coa_recs_implement_tick743,strong,VL commercial accounts disclaimer vs clean ESR dual reporting quality residual; tick743
+bud_dual_verantwoordingsdag_2027_vs_bbt_quality,gg_belgium,2027,1,,,budgeted,src_dual_coa_recs_implement_tick743,strong,Verantwoordingsdag 2027 depends on earlier BBT delivery dual performance-budget residual; tick743
