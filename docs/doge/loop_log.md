@@ -8004,3 +8004,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets (+50); commitments (+6); leaderboard (+6); sources (+2); entity overkap_ruiter_vl; FOI draft **gap_vl_ba2026_gip_lantis_overkap_l5**; rq_673=done; spawn **rq_674**; loop_state ticks=682
 - FOI opened: gap_vl_ba2026_gip_lantis_overkap_l5 — ready (not sent)
 - Next: rq_674; progress@690 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T12:30:00Z — tick 683
+- Unit: **rq_674** (FOI-adjacent dual residual — **fed CoA defence multi-year NATO + asset optim dual**)
+- Found (primary CoA 2026_22 §3.2.2 + §2.3):
+  - **Defence 2025–29 EUR17.336bn** (+552.8 GDP); 2026 sect16 **+188.2**
+  - **Temp finance:** Russian assets CIT path **−942** (2025 **1.148**; 2026–29 **1.016**/yr; residual measures **735** for 2027–29)
+  - **Higher deficit 4.804** of which asset optim **3.170** (2026 **1.268** = 40% **not booked** conclaves; Belfius 20% sale est **2bn** ~2027; residual gap **1.170**)
+  - **NATO 2%:** GDP **664.8bn** target **13.296**; fill budget **10.958** + external **2.288** (pens **1.988** −40; norm **168**; COFOG **131**) = **13.246** gap **~50**
+  - **Internal security 177** sect16 + trust **45** FA = **222**; mixed civil/military opacity; FIPA no Police reimburse
+  - Dual Entity II ratings. Strong CoA; L5 FOI.
+- Wrote: budgets (+45); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_defence_nato_l5**; rq_674=done; spawn **rq_675**; loop_state ticks=683
+- FOI opened: gap_fed_aju2026_defence_nato_l5 — ready (not sent)
+- Next: rq_675; progress@690 in 7 ticks; rq_116 deferred

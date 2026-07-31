@@ -13319,3 +13319,47 @@ bud_terneuzen_nl_payment_15m_missing_2026,vlaamse_waterweg,2026,15000000,,,budge
 bud_terneuzen_ruiter_eoy2025_76_2m,vlaamse_waterweg,2025,76200000,,,outturn,src_ccrek_vl_ba2026_gip_lantis_deep,strong,Terneuzen overdracht/ruiter end 2025 76.2m covers VAK side; tick682
 bud_dual_gip_lantis_2026,gg_belgium,2026,3685000000,,,budgeted,src_dual_gip_lantis_tick682,strong,Dual VL GIP 3.685bn + Lantis VAK 2.48bn class vs WAL OTW; not TE-additive; tick682
 bud_dual_overkap_ruiter_path_2026,gg_belgium,2026,642300000,,,budgeted,src_dual_gip_lantis_tick682,strong,Dual overkappingsruiter assign 642.3m path exhaustion 2030 class; tick682
+bud_def_exp_2025_29_17335_8m,mod_defensie,2025,17335800000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Defence exp envelope 2025-2029 17335.8m (+552.8 GDP path) for NATO 2pct; CoA 3.2.2; tick683
+bud_def_exp_path_up_552_8m_2025_29,mod_defensie,2026,552800000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Defence multi-year uplift +552.8m from FPB Feb2026 GDP vs prior; tick683
+bud_def_sect16_up_188_2m_2026,mod_defensie,2026,188200000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Section 16 Landsverdediging +188.2m volume aju2026 bilateral; tick683
+bud_def_russian_assets_cit_2025_1148m,sec_federal,2025,1148000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Corp tax on frozen Russian assets profit 2025 AT 1148m (IB 1208; -60); temporary defence finance; tick683
+bud_def_russian_assets_cit_2026_1016m,sec_federal,2026,1016000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Russian assets CIT path 1016m/yr 2026-2029 (was rising to 1297); tick683
+bud_def_russian_assets_cit_2027_1016m,sec_federal,2027,1016000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Russian assets CIT 1016m 2027 path; tick683
+bud_def_russian_assets_cit_2028_1016m,sec_federal,2028,1016000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Russian assets CIT 1016m 2028 path; tick683
+bud_def_russian_assets_cit_2029_1016m,sec_federal,2029,1016000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Russian assets CIT 1016m 2029 path; tick683
+bud_def_russian_assets_cit_shortfall_942m_2025_29,sec_federal,2026,942000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Russian assets CIT less-receipt 942m over 2025-2029 vs IB path total 6154; tick683
+bud_def_russian_assets_residual_measures_735m_2027_29,sec_federal,2027,735000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Residual 735m 2027-2029 Russian CIT gap still needs government measures (to-2026 already booked); tick683
+bud_def_russian_assets_cit_ib_path_6154m,sec_federal,2025,6154000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,IB path Russian assets CIT total 6154m 2025-2029 (2025 1208 to 2029 1297); tick683
+bud_def_higher_deficit_4804m_2025_29,sec_federal,2025,4804000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,MR 11 Apr 2025 higher deficit for defence 4804m of which ~2/3 asset optim; tick683
+bud_def_asset_optim_3170m_2025_29,sec_federal,2025,3170000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Asset optimisation compensation 3170m of 4804 higher deficit; CoA: not booked 2026 conclaves; tick683
+bud_def_asset_optim_2026_1268m,sec_federal,2026,1268000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Asset optim path 2026 40pct of 3170 = 1268m (MonCom Mar2026); NOT in budget conclaves; tick683
+bud_def_asset_optim_2027_951m,sec_federal,2027,951000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Asset optim path 2027 30pct of 3170 = 951m class; tick683
+bud_def_asset_optim_2028_634m,sec_federal,2028,634000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Asset optim path 2028 20pct of 3170 = 634m class; tick683
+bud_def_asset_optim_2029_317m,sec_federal,2029,317000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Asset optim path 2029 10pct of 3170 = 317m class; tick683
+bud_belfius_sale_20pct_est_2bn,sfpim,2027,2000000000,,,estimate,src_ccrek_fed_aju2026_defence_residual,medium,20pct Belfius participation sale est 2bn after ECB/NBB/FSMA (likely 2027); part of asset optim; tick683
+bud_def_asset_optim_residual_gap_1170m,sec_federal,2026,1170000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Asset optim residual gap 1170m after Belfius 2bn class; CoA no further info; tick683
+bud_gdp_bc_664778m_2026,gg_belgium,2026,664778000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,GDP BC2026 664778m (IB 655357; +9421); tick683
+bud_nato_2pct_target_13296m_2026,mod_defensie,2026,13296000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,NATO 2pct target expenditure 13296m 2026 (+188); tick683
+bud_nato_2pct_target_ib_13107m_2026,mod_defensie,2026,13107000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,NATO 2pct IB target 13107m 2026; tick683
+bud_def_budget_sect16_10958m_2026,mod_defensie,2026,10958000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Defence budget sect16 10958m (+188); tick683
+bud_def_external_effort_2288m_2026,mod_defensie,2026,2288000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,External defence effort 2288m (-40): pensions+normering+COFOG; tick683
+bud_def_military_pensions_1988m_2026,fpd_pensioenen,2026,1988000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Military pensions FPD 1988m (gov ram lower by up to 40 vs prior); tick683
+bud_def_normering_168m_2026,sec_federal,2026,168000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Normering other-dept spend counted as defence 168m 2026; tick683
+bud_def_cofog02_other_depts_131m_2026,sec_federal,2026,131000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,COFOG 02 other departments 131m; tick683
+bud_def_partial_cofog_2m_2026,sec_federal,2026,2000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Partial COFOG 02 (Von Karman Belgica ID provis UNISONO) 2m; tick683
+bud_def_total_effort_b_13246m_2026,mod_defensie,2026,13246000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Total defence effort fill B 13246m (+148) vs NATO target A 13296; gap ~50m; tick683
+bud_def_nato_fill_gap_50m_2026,mod_defensie,2026,50000000,,,estimate,src_ccrek_fed_aju2026_defence_residual,medium,NATO fill gap target 13296 - effort 13246 ~50m class; tick683
+bud_def_internal_security_177m_2026,mod_defensie,2026,177000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Internal security/resilience from sect16 VEK 177m 2026 (5pct of additional defence if NATO-classifiable); tick683
+bud_def_nato_trust_fund_45m_2026,sec_federal,2026,45000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,NATO trust fund 45m in Foreign Affairs sect14 (not sect16 as initially planned); tick683
+bud_def_internal_security_pack_222m_2026,mod_defensie,2026,222000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,Internal security pack 222m if trust fund 45 included with 177; tick683
+bud_def_fipa_patrols_no_reimburse_2026,mod_defensie,2026,0,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Defence support Fed Police mixed rail patrols + FIPA Brussels charged to internal security without Police reimbursement (law 1998); amount in 177 pack; tick683
+bud_euroclear_russian_assets_gt1bn_yr_to_2031,sec_federal,2026,1000000000,,,estimate,src_ccrek_fed_aju2026_defence_residual,medium,MonCom assumes no intl agreement before 2031 on frozen Russian assets Euroclear → permanent exceptional receipt >1bn/yr; tick683
+bud_fod_fin_control_drag_433m_to_2029,sec_federal,2029,433000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,strong,FOD Fin alone negative impact 433m to 2029 from personnel save measures on control yield; not in algemene toelichting; tick683
+bud_entity2_eu_mff_contrib_500m_yr_2028,sec_federal,2028,500000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Entity II annual 500m from 2028 for new EU MFF financing; no agreement with entities yet; tick683
+bud_eu_mff_2028_34_envelope_2000bn,gg_belgium,2028,2000000000000,,,commitment,src_ccrek_fed_aju2026_defence_residual,strong,EU MFF 2028-2034 Commission envelope 2000bn (was 1216 in 2021-27); extra 784bn from own resources plan not MS contrib raise; tick683
+bud_fiscal_fraud_yield_300m_2026,sec_federal,2026,300000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Fiscal fraud yield claim 300m 2026 path 600 2029; CoA no method from FOD Fin; tick683
+bud_social_fraud_yield_300m_2026,sec_federal,2026,300000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Social fraud yield claim 300m 2026 path 375/450/600; no measure split; tick683
+bud_fiscal_fraud_path_600m_2029,sec_federal,2029,600000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Fiscal fraud path 600m 2029; tick683
+bud_social_fraud_path_600m_2029,sec_federal,2029,600000000,,,budgeted,src_ccrek_fed_aju2026_defence_residual,medium,Social fraud path 600m 2029; tick683
+bud_dual_nato_effort_13_25bn_2026,gg_belgium,2026,13246000000,,,budgeted,src_dual_defence_tick683,strong,Dual NATO effort fill 13.25bn vs Entity II debt ratings dual; not TE-additive; tick683
+bud_dual_asset_optim_opacity_3_17bn,gg_belgium,2026,3170000000,,,budgeted,src_dual_defence_tick683,strong,Dual asset optim 3.17bn unbooked opacity class; tick683

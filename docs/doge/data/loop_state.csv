@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T12:15:00Z,rq_673,682,no,tick682 GIP 3685 Lantis 2479 overkap ruiter 642 dual; next rq_674; progress@690 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T12:30:00Z,rq_674,683,no,tick683 defence 17.3bn NATO 13.25 asset optim 3.17 unbooked dual; next rq_675; progress@690 in 7; rq_116 deferred
