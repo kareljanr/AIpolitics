@@ -9366,3 +9366,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +31; commitments +4; leaderboard +8; sources +2; FOI **gap_fagg_fees_nat_sciensano_l5** prio8 ready; rq_770=done; spawn **rq_771 PROGRESS@780**; ticks=779
 - FOI: ready only — **do not send**
 - Next: **rq_771 mandatory progress@780**; rq_116 deferred
+
+## Tick 780 — 2026-08-03T16:00:00Z
+
+- Unit: **rq_771** (mandatory **progress@780** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ HermReg E2 stack 7.9bn · BOSA prov 1.71bn · Fedasil 702 · FAVV 217 · FAGG fees 105)
+  - **D L5:** ~**57–71%** generous — gain 770→780: federal residual OAP/SACA/admin (IBZ Fedasil · BOSA provisions · organs · Kanselarij · Royal · SACA eID/consular/FEDOREST · FAVV · HermReg E2 · Fedasil L5 · FAGG fees/NAT/Sciensano)
+  - **E FOI ready:** ~**509** (answered ~9; total ~524)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks filtered (Metro3, OWV snowball, debt principal roll, E2 deficit stack, BOSA parking)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_771=done; spawn **rq_772**; loop_state ticks=780
+- FOI: none new this tick
+- Next: prio5 **rq_772** (residual dual / FOI-adjacent L5); deferred **rq_116**; progress@790 in 10

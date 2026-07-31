@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T15:00:00Z,rq_770,779,no,tick779 FAGG fees 104.8 pers 81.6 NAT 9 Sciensano 10.8 dot 15.7; next rq_771 PROGRESS@780; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T16:00:00Z,rq_771,780,no,tick780 progress@780 A/B100 C~99 D~57-71 FOI~509; next rq_772 residual dual/L5; rq_116 deferred

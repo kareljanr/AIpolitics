@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **770** (2026-08-03) · **~3346** leaderboard rows  
+**As-of:** tick **780** (2026-08-03) · **~3424** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap (raw pi 9.05/8.78) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · **`lb_owv_sub_snowball_27bn_2083`** · Oosterweel VAK/bond residual · federal unconsol debt / E1 path · **Defence eng €20.1bn / equip eng €13.0bn** · **debt principal repay €31.19bn / purchases €7.24bn** (roll) · **EU GNI path €6.22bn 2029** (own resource) · **CSO multi-year eng €665.6m 2027** · SS consol 148bn · housing finance stocks · Phoenix multi-year · Regie rent/DBFM stocks.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap (raw pi 9.05/8.78) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · **`lb_owv_sub_snowball_27bn_2083`** · Oosterweel VAK/bond residual · federal unconsol debt / E1 path · **Defence eng / equip eng** · **debt principal repay / purchases** (roll) · **EU GNI path** (own resource) · **Entity II HermReg deficit stack €7.9bn** (financing balances) · **BOSA provisions parking ~€1.71bn** · **CSO multi-year eng** · SS consol · housing finance stocks · Phoenix multi-year · Regie rent/DBFM stocks.
 
-**Change vs tick 760:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual off pure top10 / high dual (ticks 761–769):** SS mega dots **~€30.64bn** · debt interest core **€12.49bn** · EU GNI **€4.994bn** · POD MI RMI **€2.085bn** / OCMW mega **€2.353bn** · DGD core cash **~€856m** · Santé core **~€818m** · Finance ops **~€2.28bn** · CSO eng spike **€665.6m 2027**. Gain 760–770 is **federal Kamer residual (SS/Debt/EU/Santé/POD MI/BZ)** more than FFS reshuffle.
+**Change vs tick 770:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual off pure top10 / high dual (ticks 771–779):** BOSA provisions **~€1.71bn** · Entity II HermReg **€7.9bn** · Fedasil **€702m** + org cut **−€157m** · FAVV **€217m** · FAGG fees **€105m** · SACA eID/RRN **€76m** / consular **€48m** · NCIA eng **€137m** · justitiehuizen **€147m**. Gain 770–780 is **OAP/SACA residual + Entity II dual** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -37,13 +37,13 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |---|-----|----------:|---------:|------|
 | — | `lb_metro3_overrun_477pct` | **stock** | **9.05** | STOCK filtered; +477pct overrun |
 | — | `lb_owv_sub_snowball_27bn_2083` | **27.0 bn stock** | **8.55** | STOCK filtered |
-| — | `lb_ss_dots_mega_30_64bn_2026` / dual SS | **~30.6 bn** | **~6.5** | **NEW 764** channel mega |
-| — | `lb_debt_interest_core_12_49bn_2026` | **12.49 bn** | **7.25** | **NEW 765** interest (not pure waste) |
-| — | `lb_eu_gni_bni_4_99bn_2026` | **4.99 bn** | **6.35** | **NEW 766** own resource |
-| — | `lb_podmi_rmi_2_085bn_2026` | **2.09 bn** | **6.35** | **NEW 768** safety net |
-| — | `lb_dgd_core_cash_856m_2026` | **0.86 bn** | **6.35** | **NEW 769** ODA cash class |
-| — | `lb_dgd_cso_eng_665m_2027` | **0.67 bn eng** | **6.75** | **NEW 769** multi-year eng spike |
-| — | `lb_sante_zorgpersoneel_402m_2026` | **0.40 bn** | **6.15** | **NEW 767** care-staff stack |
+| — | `lb_bosa_prov_stack_1_71bn_2026` | **~1.71 bn** | **7.20** | **NEW 772** interdept parking |
+| — | `lb_entity2_deficit_stack_7_9bn_2026` | **7.9 bn** | **6.65** | **NEW 777** HermReg E2 dual |
+| — | `lb_fedasil_dot_702m_2026` / path | **0.70 bn** | **~6.3** | **NEW 771/778** reception |
+| — | `lb_favv_spend_217m_2026` | **0.22 bn** | **5.50** | **NEW 777** fee+dot food agency |
+| — | `lb_afmps_fees_105m_2026` | **0.10 bn** | **5.50** | **NEW 779** fee-funded regulator |
+| — | `lb_saca_eid_rrn_76m_2026` | **0.08 bn** | **5.70** | **NEW 776** eID/RRN |
+| — | `lb_ncia_build_eng_137m_2026` | **0.14 bn eng** | **6.40** | **NEW 774** multi-year eng |
 | 11 | `lb_vl_gip_large_squeeze_2182m_2030` | **2.18 bn** | **8.38** | GIP large+AM squeeze |
 | 12 | `lb_vl_gip_horizon_collapse_5_to_1y` | **3.69 bn** | **8.35** | GIP horizon collapse |
 | 13 | `lb_fed_fossil_company_cars_ehs_3_4bn` | **3.43 bn** | **8.35** | Company cars EHS fossil |
@@ -58,28 +58,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast |
 | `lb_metro3_financing_gap_4bn` | **9.0** | Metro3 BCR financing gap |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
-| `lb_owv_sub_snowball_27bn_2083` | **9.0** | Sub loans snowball |
-| `lb_oaa_consol_reporte_300_6m` | **9.0** | OAA reporté fiction |
-| `lb_bcr_annexe2_reporte_wave` | **9.0** | BCR reporté wave |
-| `lb_kenteken_sole_bidder_bpost` | **9.0** | Plates sole bidder |
-| `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG eval |
-| `lb_dgd_cso_eng_665m_2027` | **5.5** | **NEW 769** CSO eng spike opacity |
-| `lb_eu_section52_scope_gni_only` | **5.0** | **NEW 766** TOR off section52 |
-| `lb_hda_dot_10_1m_2026` | **5.5** | **NEW 767** HDA jump +5.6m |
+| `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
 
-### Dual / mega map (not pure annual waste top 10)
+### Methodology notes
 
-| ID | Envelope / peak | Note |
-|----|----------------:|------|
-| `lb_ss_exp_148bn_2026` | **148 bn** | SS near-balance dual |
-| SS mega dots dual (tick764) | **~30.6 bn** | FPD/RSZ/handicap channel |
-| `lb_debt_interest_core_12_49bn_2026` | **12.49 bn** | **NEW 765** federal interest |
-| `lb_debt_principal_repay_31_19bn_2026` | **31.19 bn** | **NEW 765** roll/refi |
-| `lb_eu_gni_bni_4_99bn_2026` | **4.99 bn** | **NEW 766** GNI own resource |
-| `lb_podmi_ocmw_mega_2_35bn_2026` | **2.35 bn** | **NEW 768** OCMW stack |
-| `lb_dgd_core_cash_856m_2026` | **0.86 bn** | **NEW 769** DGD cash |
-| `lb_dual_sante_core_2026` | **0.82 bn** | **NEW 767** AMU+care+agencies |
-| `lb_def_oa50_eng_20_1bn_2026` | **20.1 bn eng** | Defence OA50 |
-| `lb_rail_federal_stack_4_22bn_2026` | **4.22 bn** | federal rail |
-| `lb_social_energy_bench_2_35bn` | **2.35 bn bench** | social energy |
-| `lb_phoenix_lto_694m_2026` | **0.69 bn class** | Phoenix LTO |
+- **Source class:** prefer parliamentary Kamer DOC / CoA / FPB / NBB primary.  
+- **Do not sum** leaderboard annuals into TE coverage.  
+- Stocks and multi-year eng without same-year cash stay **off pure top10** unless annualised with source.

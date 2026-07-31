@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 780** (2026-08-03)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** HermReg Entity II deficit stack **€7.9bn** 2026 (VL 3.0 · WAL 2.1 · FWB 1.8 · BCR 1.0) · BOSA interdept provisions **~€1.71bn** · Fedasil OAP package **€702m** · FAVV spend class **€217m** · FAGG fees **€105m** · prior SS mega / debt interest / EU GNI / POD MI / DGD retained |
+| **D. L5 named / measure end-lines** | **~57-71%** of TE (generous) | **Gain 770→780 is residual federal OAP/SACA/admin L5 (not near-complete of 348bn):** IBZ Fedasil path **€702m** / fire zones **€189m** / Astrid **€59m** · BOSA provisions justice **€631m** / index **€485m** / security **€373m** · organs IGVM **€31.1m** / UNIA / Myria · Kanselarij culture **€68.7m** / NCIA eng **€137m** / CCB **€26.6m** · Royal civil+personal **€17.6m** / justitiehuizen **€147m** / prison prefin **€18.2m** · SACA eID/RRN **€76.2m** / consular **€47.6m** / FEDOREST **€36m** / BELNET **€22.4m** · FAVV **€217m** (BMO vet **€45m**) · HermReg E2 dual · Fedasil L5 pers **€208m** / org cut **−€157m** / LOI **€67m** · FAGG fees **€105m** / pers **€82m** / NAT **€9m** / Sciensano class **€11m** · FOI still bulk partner rankings + unit costs + fee tariffs |
+| **E. FOI-ready gaps** | **~509** drafts ready | Human send only; answered **~9**; total FOI rows **~524** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **debt principal repay / securities purchases** (roll) · **Entity II HermReg soldes €7.9bn** (financing balances, dual map not pure TE waste sum) · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP €15bn** · **Phoenix LTO multi-year / CfD** · **Defence eng-liq backlog** · **Credendo commercial ECA** · **CSO multi-year eng** · **EU GNI path** (own resource) · **housing finance stocks** · **Regie rent/DBFM lock-in** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 780)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~16413 |
+| commitments.csv | ~2093 |
+| leaderboard.csv | ~3424 |
+| entities.csv | ~569 |
+| sources.csv | ~1534 |
+| FOI ready | ~509 |
+| FOI answered | ~9 |
+| FOI total rows | ~524 |
+| research_queue open | rq_116 deferred + rq_772 hole-fill after progress |
+
+### What improved since tick 770
+
+- **IBZ + BOSA residual (tick771–772):** Fedasil **€702.2m** path down · fire zones **€189m** · Astrid **€59m** · BOSA provisions stack **~€1.71bn** (justice **€631m** · index **€485m** · Ukraine **€221m** · security/return **€373m**) · digital/EGOV residual.
+- **Organs + Kanselarij + Royal (tick773–775):** IGVM **€31.1m** · UNIA fed **€4.0m** · Myria **€1.6m** · culture Monnaie+NOB+BOZAR **€68.7m** · NCIA eng **€137.4m** · CCB **€26.6m** · civil list personal dots **€17.6m** · justitiehuizen **€147m** · prison prefin **€18.2m**.
+- **SACA non-RGA + OAP residual (tick776–779):** eID/RRN spend class **€76.2m** · consular **€47.6m** · FEDOREST **€36.0m** · BELNET transfer **€22.4m** · FAVV **€216.7m** (BMO vet **€45.2m** · ICT **€9.6m**) · FPB dot **€14.4m** · Debt Agency admin **€7.9m** · HermReg E2 stack **€7.9bn** · Fedasil OAP L5 pers **€208m** / org cut **−€157m** / LOI **€67m** / VT **€11.6m** · FAGG fees **€104.8m** / NAT **€9.0m** / Sciensano class **€10.8m**.
+- **Dual map:** asylum/civil safety · BOSA provisions parking · royal vs community justice houses · eID vs consular documents · Entity II financing balances · fee-funded food/pharma regulators (FAVV/FAGG) vs Sciensano/Smals.
+
+---
+
 ## Snapshot at **tick 770** (2026-08-03)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
