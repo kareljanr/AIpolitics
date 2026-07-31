@@ -11715,3 +11715,30 @@ bud_wal_amort_emprunts_2025,wallonie_debt,2025,1396684000,,,budgeted,src_ccrek_d
 bud_wal_recettes_totales_bi2025,wallonie_gov,2025,21802469000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Recettes totales BI2025 21802.469m path +767.763m
 bud_wal_effort_structurel_bi2025,wallonie_gov,2025,268000000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Effort structurel 268m BI2025 (rec +25.2 dep -242.8) on top prior 500m class
 bud_wal_tresorerie_remonte_uap_2025,wallonie_gov,2025,575600000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Treasury remonte operation 575.6m improves general services solde without SEC impact (UAP excess 536.6 + dots 39)
+bud_wal_recettes_fiscales_bi2025,wallonie_gov,2025,6925679000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Recettes fiscales BI2025 6925.679m path +22.510m
+bud_wal_additionnels_dep_fiscales_bi2025,wallonie_gov,2025,3743367000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Additionnels-depenses fiscales IPP 3743.367m path +213.291m
+bud_wal_impots_regionaux_total_bi2025,wallonie_gov,2025,3060283000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Impots regionaux total 3060.283m path -192.139m
+bud_wal_impots_regionaux_fed_bi2025,wallonie_gov,2025,2167322000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Impots regionaux percus par Etat federal 2167.322m path -233.027m
+bud_wal_impots_regionaux_rw_bi2025,wallonie_gov,2025,892961000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Impots regionaux percus par Region 892.961m path +40.888m
+bud_wal_recettes_transferes_bi2025,wallonie_gov,2025,8475025000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Recettes transferes total 8475.025m path +217.027m
+bud_wal_competences_transferees_bi2025,wallonie_gov,2025,3303606000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Competences transferees 6e reforme 3303.606m (Table19)
+bud_wal_comp_emploi_bi2025,wallonie_gov,2025,708952000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Dotation emploi LSF 708.952m BI2025
+bud_wal_comp_dep_fiscales_bi2025,wallonie_gov,2025,657733000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Dotation depenses fiscales 657.733m
+bud_wal_comp_residuelle_bi2025,wallonie_gov,2025,541128000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Dotation residuelle 541.128m (key 41.37pct WAL)
+bud_wal_comp_transition_bi2025,wallonie_gov,2025,558485000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Mecanisme transition 558.485m
+bud_wal_comp_solidarite_bi2025,wallonie_gov,2025,878377000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Mecanisme solidarite 878.377m
+bud_wal_comp_navetteurs_bi2025,wallonie_gov,2025,-16798000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Compensation navetteurs BCR -16.798m (CoA: should be expense not netted)
+bud_wal_comp_pensions_bi2025,wallonie_gov,2025,-24272000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Responsabilisation pensions -24.272m (CoA: should be expense not netted)
+bud_wal_facteur_autonomie_2025,wallonie_gov,2025,47000000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Facteur autonomie last year 2025 47.0m apure dette vs federal
+bud_wal_ste_emilie_total_bi2025,ste_emilie,2025,4670739000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Sainte-Emilie total BI2025 4670.739m (incl decomptes 9.203m)
+bud_wal_ste_emilie_af_bi2025,ste_emilie,2025,2830102000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Ste Emilie allocations familiales 2830.102m
+bud_wal_ste_emilie_ages_bi2025,ste_emilie,2025,1497979000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Ste Emilie personnes agees 1497.979m
+bud_wal_ste_emilie_sante_bi2025,ste_emilie,2025,288768000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Ste Emilie soins sante part RW 288.768m
+bud_wal_ste_emilie_hopitaux_bi2025,ste_emilie,2025,223502000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Ste Emilie hopitaux dotation part RW 223.502m
+bud_wal_ste_emilie_fipi_bi2025,ste_emilie,2025,8192000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Ste Emilie FIPI 8.192m
+bud_wal_ste_emilie_socle_bi2025,ste_emilie,2025,-177805000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Ste Emilie socle et transition -177.805m
+bud_wal_dotation_cf_bi2025,wallonie_gov,2025,443730000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Dotation Communaute francaise 443.730m path +15.245m (excl Ste Emilie)
+bud_wal_amendes_routieres_rec_bi2025,wallonie_gov,2025,56950000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Amendes routieres recettes 56.950m (cavalier threshold to fonds)
+bud_wal_rrf_ue_rec_bi2025,wallonie_gov,2025,1029600000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Recettes RRF UE 1029.600m path -43.864m
+bud_wal_emprunts_rec_bi2025,wallonie_debt,2025,4075143000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,strong,Recettes d emprunts 4075.143m path +700.636m
+bud_fwb_ste_emilie_sp_class_bi2025,fwb_gov,2025,4498500000,,,budgeted,src_ccrek_recettes_wal_ste_emilie_bi2025,medium,FWB section particuliere Ste Emilie retrocession class 4498.5m (CoA: wrongly reduced by 172.2m hospital past charges)

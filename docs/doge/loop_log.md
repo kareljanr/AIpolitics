@@ -7650,3 +7650,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+wallonie_debt); budgets (+25); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do19_dette_l5_2025; rq_635=done; spawn rq_636; loop_state ticks=644
 - FOI opened: gap_do19_dette_l5_2025 -- ready (not sent)
 - Next: rq_636; progress@650 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T03:00:00Z -- tick 645
+- Unit: rq_636 (FOI-adjacent dual financing hole-fill -- **Recettes Wallonie Ste-Emilie + competences LSF** dual FWB/fed)
+- Found: **Recettes totales** (primary CoA Table18): BI2025 **EUR21.802bn** (path **+EUR768m**). **Transferees EUR8.475bn:** competences **EUR3.304bn** + **Ste-Emilie EUR4.671bn** + CF **EUR443.7m** + amendes **EUR57.0m**. **Ste-Emilie L5:** AF **EUR2.830bn**; ages **EUR1.498bn**; sante **EUR288.8m**; hopitaux **EUR223.5m**; FIPI **EUR8.2m**; socle **-EUR177.8m**. FWB SP class **EUR4.499bn** wrongly nets hospital past **-EUR172.2m** (CoA). **Competences LSF:** emploi **EUR709.0m**; dep fiscales **EUR657.7m**; residuelle **EUR541.1m**; transition **EUR558.5m**; solidarite **EUR878.4m**; navetteurs **-EUR16.8m**; pensions **-EUR24.3m**; facteur autonomie last **EUR47m**. Fiscal: additionnels **EUR3.743bn** path **+EUR213m**; impots via fed **EUR2.167bn** path **-EUR233m**. Emprunts rec **EUR4.075bn**. Dual **FWB/LSF/fed**. Strong confidence CoA; dual recon residual FOI.
+- Wrote: entities (+ste_emilie); budgets (+27); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_recettes_ste_emilie_l5_2025; rq_636=done; spawn rq_637; loop_state ticks=645
+- FOI opened: gap_recettes_ste_emilie_l5_2025 -- ready (not sent)
+- Next: rq_637; progress@650 in 5 ticks; rq_116 deferred
