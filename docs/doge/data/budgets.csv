@@ -12997,3 +12997,44 @@ bud_pens_riziv_ziekte_offset_9m,riziv,2026,9000000,,,budgeted,src_ccrek_fed_aju2
 bud_fpd_mypension_it_plus_5m,fpd_pensioenen,2026,5000000,,,budgeted,src_ccrek_fed_aju2026_multiyear_pension,strong,FPD MyPension+legacy IT +5m; tick674
 bud_dual_e1_e2_saldo_class_2026,gg_belgium,2026,-31911000000,,,budgeted,src_dual_e1_e2_path_tick674,strong,Dual class E1 -24.5bn + VL -3.643 + WAL -2.015 + FWB -1.753 ~ -31.9bn (metrics differ ESR/SEC; not TE-additive); tick674
 bud_dual_be_mtfsp_gap_2_5pp_2029,gg_belgium,2029,-2.5,,,budgeted,src_dual_e1_e2_path_tick674,strong,Dual: AT BE saldo -5.5 vs MTFSP -3.0 = -2.5pp gap 2029; tick674
+bud_ss_total_exp_bc2026,sec_ss,2026,148026600000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,SS consolidated exp BC2026 148026.6m path +168.1 (+0.1pct) vs IB; tick675
+bud_ss_total_exp_ib2026,sec_ss,2026,147858500000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,SS total exp IB2026 147858.5m; tick675
+bud_ss_prestaties_bc2026,sec_ss,2026,137624300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Sociale prestaties BC 137624.3m path +2132.0 (+1.6pct); tick675
+bud_ss_gb_werknemers_bc2026,sec_ss,2026,63267100000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Globaal Beheer werknemers BC 63267.1m path -74.9; tick675
+bud_ss_pens_werknemers_bc2026,sec_ss,2026,43036600000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Pensioenen werknemers BC 43036.6m path -234.1; tick675
+bud_ss_ao_werknemers_bc2026,sec_ss,2026,14839400000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Arbeidsongeschiktheid werknemers BC 14839.4m path -40.0; tick675
+bud_ss_werkloosheid_bc2026,sec_ss,2026,4836400000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Werkloosheid BC 4836.4m path +198.5 (+4.3pct); tick675
+bud_ss_gb_zelfstandigen_bc2026,sec_ss,2026,6945300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Globaal Beheer zelfstandigen BC 6945.3m path -66.8; tick675
+bud_ss_pens_zelfstandigen_bc2026,sec_ss,2026,5857300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Pensioenen zelfstandigen BC 5857.3m path -62.6; tick675
+bud_ss_ao_zelfstandigen_bc2026,sec_ss,2026,1064600000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,AO zelfstandigen BC 1064.6m path -5.4; tick675
+bud_ss_geneeskundige_verzorging_bc2026,riziv,2026,43857400000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Geneeskundige verzorging BC 43857.4m path +2560.2 (+6.2pct); dual AViQ/WVG; tick675
+bud_ss_overheidspensioenen_bc2026,sec_ss,2026,22526800000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Overheidspensioenen BC 22526.8m path -300.7; tick675
+bud_ss_beheer_kosten_bc2026,sec_ss,2026,3006800000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Beheer- en betalingskosten BC 3006.8m path +10.5; tick675
+bud_ss_andere_uitgaven_bc2026,sec_ss,2026,7395500000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Andere uitgaven BC 7395.5m path -1974.4 (-21.1pct); tick675
+bud_ss_prestaties_2025_prov,sec_ss,2025,132212000000,,,outturn,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Sociale prestaties 2025 provisional 132212.0m; tick675
+bud_riziv_doelstelling_bc2026,riziv,2026,44103500000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,RIZIV begrotingsdoelstelling BC 44103.5m path +2806.3 (hospital state share into doel); tick675
+bud_riziv_hospital_into_doel_2806m,riziv,2026,2806300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Staatsgedeelte ziekenhuisfinanciering 2806.3m moved into care doelstelling from transfers 2026; tick675
+bud_riziv_niet_aanwendbaar_246_1m,riziv,2026,246100000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Niet-aanwendbaar binnen doelstelling 246.1m path +4.6 (was NAP-AMR now FOD VG direct); tick675
+bud_riziv_save_package_ib_801_4m,riziv,2026,801400000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,RIZIV save package IB2026 801.4m; tick675
+bud_riziv_save_miss_183_1m_bc,riziv,2026,183100000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,RIZIV of 801.4 save 183.1m not realized 2026 BC (pharma 145.7; klin bio -11.2 imaging -23.6 lower); tick675
+bud_riziv_pharma_save_miss_145_7m,riziv,2026,145700000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Geneesmiddelen save measures not yet designed 145.7m of miss; tick675
+bud_ao_measures_impact_2026_minus_129_3m,riziv,2026,-129300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,AO measures re-estimate total budget impact 2026 -129.3m vs IB; tick675
+bud_ao_measures_impact_2029_minus_323_4m,riziv,2029,-323400000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,AO measures cum impact 2029 -323.4m (less save / less revenue); tick675
+bud_ao_versterkte_opvolging_save_slip_110_2m,riziv,2026,-110200000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Versterkte opvolging AO save slip -110.2m 2026 (emp 103.3 self 6.9); 4 months not full year; tick675
+bud_ao_versterkte_opvolging_excl_4197,riziv,2026,4197,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Excluded invalidity persons 4197 (7667 emp + 526 self) vs prior higher plan -8193 delta; tick675
+bud_ao_versterkte_opvolging_path_2029_minus_197m,riziv,2029,-197100000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Versterkte opvolging save path 2029 -197.1m vs IB; start planned 1Sep2026; tick675
+bud_ao_hercontrole_path_2029_minus_46_6m,riziv,2029,-46600000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Hercontrole/thematische overestimate fix path -46.6m 2029; tick675
+bud_ao_solidariteit_contrib_98_4m_2026,sec_ss,2026,98400000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Solidariteitsbijdrage employers >50 FTE months 2-3 AO: 98.4m 2026 path -24 vs IB; tick675
+bud_ao_solidariteit_m4_5_yield_53m_2027,sec_ss,2027,53000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Solidarity months 4-5 from 2027 yield 53m (path -19 vs plan; offsets SSC cut); law not ready; tick675
+bud_ao_maatwerk_save_slip_3_5m,riziv,2026,-3500000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Maatwerk cumulatie measure delay to 1Jul2026: -3.5m 2026; cum 2029 -3.9; tick675
+bud_ao_ziektepensioen_riziv_exp_9_3m,riziv,2026,9300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Ziektepensioen transition RIZIV exp BC 9.3m (path -7.7 vs IB; actual start 1Jul overstates); tick675
+bud_ao_responsab_total_137m_2026,riziv,2026,137000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Responsabilisering mutualities+workers+doctors 137.0m 2026 path 398 2029; tick675
+bud_ao_responsab_mutual_77m,riziv,2026,77000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Responsabilisering ziekenfondsen 77m 2026 path 248 2029; tick675
+bud_ao_responsab_workers_10m,riziv,2026,10000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Responsabilisering werknemers 10m 2026 path 25 2029; tick675
+bud_ao_responsab_doctors_50m,riziv,2026,50000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Responsabilisering artsen 50m 2026 (law incomplete - full save at risk); path 125 2029; tick675
+bud_ao_unemp_inflow_ziv_44_1m_2026,riziv,2026,44100000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,RIZIV: 5000/yr unemp-loss inflow to ZIV cost 44.1m 2026 path ~97.5 2029; RVA monitoring mild so far; tick675
+bud_ao_prestaties_path_minus_45_3m,riziv,2026,-45300000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,AO prestaties total path -45.3m vs IB (emp -40 self -5.3) from fewer primary days; tick675
+bud_pens_reform_save_path_2030_2212m,fpd_pensioenen,2030,2212000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Pension reform laws package save path 2212m by 2030 (IB 2229); tick675
+bud_pens_gelijkstelling_save_2027_7m,fpd_pensioenen,2027,7000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Gelijkgestelde perioden limit save 7m 2027 (IB 12; older plan 48); 2030 69; tick675
+bud_dual_riziv_care_43_9bn_2026,gg_belgium,2026,43857400000,,,budgeted,src_dual_ss_riziv_ao_tick675,strong,Dual RIZIV care 43.86bn vs VL WVG WZC 2.74 + WAL AViQ 7+ class (not sum); tick675
+bud_dual_ao_14_8bn_2026,gg_belgium,2026,14839400000,,,budgeted,src_dual_ss_riziv_ao_tick675,strong,Dual AO werknemers 14.84bn residual reform slip; tick675

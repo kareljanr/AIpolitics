@@ -7897,3 +7897,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+1); budgets (+45); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fed_aju2026_multiyear_pension_l5; rq_665=done; spawn rq_666; loop_state ticks=674
 - FOI opened: gap_fed_aju2026_multiyear_pension_l5 -- ready (not sent)
 - Next: rq_666; progress@680 in 6 ticks; rq_116 deferred
+
+### 2026-08-01T10:30:00Z -- tick 675
+- Unit: rq_666 (FOI-adjacent dual residual -- **federal CoA BA2026 SS RIZIV care 43.9bn + AO measures dual**)
+- Found (primary CoA 2026_22): **SS total exp EUR148.027bn** path **+168m**; prestaties **137.624** (+2132). Matrix: pens emp **43.037** AO emp **14.839** unemp **4.836** (+198.5) care **43.857** (+2560) gov pens **22.527** beheer **3.007**. **RIZIV:** doel **44.104** (hospital **+2806** into doel); nonuse **246.1**; save miss **183.1**/801.4 (pharma **145.7**). **AO measures** impact **2026 -129.3** path **2029 -323.4**; versterkte opvolging **-110.2** excl **4197**; solid **98.4**; responsab **137** (mutual 77/doc 50); unemp->ZIV **+44.1**. Dual AViQ/WVG. Strong CoA; L5 FOI.
+- Wrote: budgets (+40); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fed_aju2026_ss_riziv_ao_l5; rq_666=done; spawn rq_667; loop_state ticks=675
+- FOI opened: gap_fed_aju2026_ss_riziv_ao_l5 -- ready (not sent)
+- Next: rq_667; progress@680 in 5 ticks; rq_116 deferred

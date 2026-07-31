@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T10:15:00Z,rq_665,674,no,tick674 fed E1 path -24.5 to -36.2bn interest 17.5 dual E2; next rq_666; progress@680 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T10:30:00Z,rq_666,675,no,tick675 SS exp 148.0bn RIZIV care 43.9bn AO save slip dual; next rq_667; progress@680 in 5; rq_116 deferred
