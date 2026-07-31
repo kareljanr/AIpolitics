@@ -9352,3 +9352,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37; commitments +6; leaderboard +9; sources +3; FOI **gap_fedasil_oap_loi_org_l5** prio9 ready; raw flexi PDF; rq_769=done; spawn **rq_770**; ticks=778
 - FOI: ready only — **do not send**
 - Next: rq_770 FAGG annex / Entity II L5; progress@780 in 2; rq_116 deferred
+
+## Tick 779 — 2026-08-03T15:00:00Z
+
+- Unit: **rq_770** (FOI-adjacent residual — **OAP 022 Annex I FAGG/AFMPS**, ~73p annex)
+- Found (primary 56K1281022 Annex I):
+  - **Pers** stack **€81.6m** (baremes **€44.3m** · social **€29.9m** · other **€6.4m**)
+  - **Fees** stack **€104.8m** (36.20 **€41.6m** · 36.90 **€63.2m**; AMM **€18.8m** · registrations **€12.7m** · MDR **€9.9m**)
+  - **ICT** **€6.4m** · Sciensano/public ops **€10.8m** · 1FM **€1.9m** · private third **€3.3m**
+  - **NAT** **€9.0m** · BCFI **€2.9m** · CF_02 earmark **€12.1m**
+  - **CF_00 dot** **€15.7m** (path **€22.2m** 2025 → 15.7; CTR summer one-offs off)
+  - **ATMP** package **+€1.0m**; dual Sciensano/Smals/INAMI
+- Wrote: budgets +31; commitments +4; leaderboard +8; sources +2; FOI **gap_fagg_fees_nat_sciensano_l5** prio8 ready; rq_770=done; spawn **rq_771 PROGRESS@780**; ticks=779
+- FOI: ready only — **do not send**
+- Next: **rq_771 mandatory progress@780**; rq_116 deferred

@@ -16381,3 +16381,34 @@ bud_flexi_error_flags_q4_2024,sec_ss,2024,17130,,,outturn_onss,src_fpb_flexijobs
 bud_flexi_inspections_2024,sec_ss,2024,270,,,outturn,src_fpb_flexijobs_coa_2026_tick778,strong,Flexi inspections 270 in 2024 of which 154 infringe 57pct; tick778
 bud_flexi_infringe_2024,sec_ss,2024,154,,,outturn,src_fpb_flexijobs_coa_2026_tick778,strong,Flexi inspection infringements 154 2024; tick778
 bud_flexi_cap_nonretire_2024,sec_ss,2024,12000,,,budgeted,src_fpb_flexijobs_coa_2026_tick778,strong,Annual flexi pay cap non-retirees 12000 EUR (path raise 18000 planned); tick778
+bud_afmps_pers_baremes_2026,afmps,2026,44294697,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,11.11 baremes 44.295m 2026; tick779
+bud_afmps_pers_other_2026,afmps,2026,6388795,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,11.12 other remun 6.389m 2026; tick779
+bud_afmps_social_contrib_2026,afmps,2026,29857012,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,11.20 social contrib total 29.857m 2026; tick779
+bud_afmps_social_030_2026,afmps,2026,24466272,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,11.20/001 24.466m 2026; tick779
+bud_afmps_social_patron_2026,afmps,2026,5390740,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Employer SS part 5.391m 2026; tick779
+bud_afmps_pers_stack_2026,afmps,2026,81554071,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Pers stack baremes+other+social ~81.554m 2026; tick779
+bud_afmps_ops_lim_2026,afmps,2026,8393141,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,12.11 lim ops 8.393m 2026; tick779
+bud_afmps_ict_nlim_2026,afmps,2026,6435000,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,ICT n.lim 6.435m 2026 (Smals framework class); tick779
+bud_afmps_private_third_2026,afmps,2026,3297220,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Private-sector third-party 3.297m 2026; tick779
+bud_afmps_1fm_2026,afmps,2026,1930302,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,1FM Galilee facility share 1.930m 2026 dual Sante/INAMI; tick779
+bud_afmps_sciensano_ops_2026,afmps,2026,10790094,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,12.21 public-sector ops/Sciensano class 10.790m 2026; tick779
+bud_afmps_smals_eu_2026,afmps,2026,216000,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,SMALS/EU projects ICT 0.216m 2026; tick779
+bud_afmps_atmp_package_2026,afmps,2026,1023000,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,ATMP expertise package +1.023m embedded across lines 2026; tick779
+bud_afmps_nat_tests_2026,afmps,2026,8987265,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,NAT blood tests subsidies 8.987m 2026 dual transfusion; tick779
+bud_afmps_bcfi_2026,afmps,2026,2928860,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,BCFI/CBIP subsidy 2.929m 2026; tick779
+bud_afmps_patient_orgs_2026,afmps,2026,197268,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Patient orgs LUSS+VPP 0.197m 2026; tick779
+bud_afmps_earmark_cf02_2026,afmps,2026,12113394,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,46.10 CF_02 earmarked NAT+BCFI+patients 12.113m 2026; tick779
+bud_afmps_dot_cf00_2026,afmps,2026,15747722,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,46.10 CF_00 main federal dot 15.748m 2026 (path 22.224 2025->15.748 CTR one-offs off); tick779
+bud_afmps_dot_total_2026,afmps,2026,27861116,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,CF_00 15.748 + CF_02 12.113 = 27.861m federal transfer stack 2026; tick779
+bud_afmps_dot_cf00_2025,afmps,2025,22224474,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,CF_00 total 22.224m 2025 (incl CTR summer deal advances); tick779
+bud_afmps_fees_3620_2026,afmps,2026,41644558,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,36.20 consumption taxes/redev stack 41.645m 2026; tick779
+bud_afmps_fees_packaging_2026,afmps,2026,14044983,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Packaging/conditionnements class 14.045m 2026; tick779
+bud_afmps_fees_dm_3620_2026,afmps,2026,18074670,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Medical devices 36.20 line 18.075m 2026; tick779
+bud_afmps_fees_3690_2026,afmps,2026,63186508,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,36.90 redevances/fees stack 63.187m 2026; tick779
+bud_afmps_fees_amm_2026,afmps,2026,18805674,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,AMM authorisations 18.806m 2026; tick779
+bud_afmps_fees_registrations_2026,afmps,2026,12725547,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Drug registrations 12.726m 2026; tick779
+bud_afmps_fees_mdr_2026,afmps,2026,9872659,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,MDR devices fees 9.873m 2026; tick779
+bud_afmps_fees_total_2026,afmps,2026,104831066,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Fee stack 36.20+36.90 104.831m 2026; tick779
+bud_afmps_interest_2026,afmps,2026,959388,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,Debt Agency reserve interest 0.959m 2026; tick779
+bud_afmps_eu_projects_rec_2026,afmps,2026,888400,,,budgeted,src_kamer_fagg_oap_1281_022_2026,strong,EU project receipts 0.888m 2026; tick779
+bud_afmps_spend_class_2026,afmps,2026,110519400,,,budgeted,src_kamer_fagg_oap_1281_022_2026,medium,Approx spend class pers 81.6 + ops lim 8.4 + ICT 6.4 + Sciensano 10.8 + earmark subs 12.1 + private/1FM ~5.2 ~110.5m; medium sum of OAP lines not full P&L; tick779

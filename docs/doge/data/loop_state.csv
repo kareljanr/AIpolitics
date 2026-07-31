@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T14:00:00Z,rq_769,778,no,tick778 Fedasil OAP L5 pers 208 org cut 157 LOI 67 VT 11.6 places 13434 + flexi residual; next rq_770 FAGG/EntityII; progress@780 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T15:00:00Z,rq_770,779,no,tick779 FAGG fees 104.8 pers 81.6 NAT 9 Sciensano 10.8 dot 15.7; next rq_771 PROGRESS@780; rq_116 deferred
