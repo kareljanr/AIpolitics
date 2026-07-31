@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 710** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** BCR dual residual wave 701–709: SGRBC eng **€8.87bn** / liq **€7.98bn** · core recettes **€5.74bn** · STIB **€1.17bn** · Actiris **€648m** · commissions **€692m** · local powers **€758m** · FRBRTC **€1.66bn** · parking **€228m** · IBGE **€317m** · SIAMU **€272m** · BPS **€240m** · prior Entity II debt/receipts/SS retained |
+| **D. L5 named / measure end-lines** | **~50-64%** of TE (generous) | **Gain 700→710 is FOI-adjacent BCR dual residual (not near-complete of 348bn):** OAA consol reporté solde shift **+€300.6m** (systemic CFP art13) · OAA1 **+€225.2m** · parking hide **+€25.1m** · SIAMU **+€19.1m** / BPS **+€22.2m** · Proprete Hydria double-book **€178.3m** + GC **€7.7m** · SLRB eng/liq **€687/418m** · routes encours **€382m** / path **€1.1bn** · STIB PPI cut **€965m** / personnel gap **+€16m** · Actiris **−€78.2m** · titres reform **€304m** · Kanal omit **€86.7+60m** · EU neut mismatch **€114.5 vs 82.5m** · fines gap **€33.2 vs 59.4m** · M41 eng cut **−€75.8m** · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~446** drafts ready | Human send only; answered **~9**; total FOI rows **~461** (+ WAL perimeter/creches · FWB edu · BCR debt/STIB · emploi/Kanal · Proprete/SLRB · SIAMU/BPS · receipts/parking · IBGE/M41 · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **BCR consol debt €16.1→19.1bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** · **Oosterweel VAK stock** · **SKF multi-year €0.96bn** · **Fluvius equity inject path €1.56bn** · **FRBRTC/refinance stocks** · **OAA reporté fiction (accounting, not new TE)** · **CSF NPE growth caps** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 710)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~13933 |
+| commitments.csv | ~1669 |
+| leaderboard.csv | ~2943 |
+| entities.csv | ~538 |
+| sources.csv | ~1396 |
+| FOI ready | ~446 |
+| FOI answered | ~9 |
+| FOI total rows | ~461 |
+| research_queue open | rq_116 deferred + rq_702 hole-fill after progress |
+
+### What improved since tick 700
+
+- **WAL CoA residual (tick701–702):** CE **€21.45bn** / CL **€21.94bn** · provis liq **€1.22bn** specialty · fonds report **€1.55bn** · AViQ result **−€516m** consol **−€259m** · FOREM Job+ · OTW dual · aides compensatoires **€105.7m** save-fail **€45m** · crèches **€30.7m** · primes stock **€262m** delays **~2y**.
+- **FWB dual (tick703):** DO51–56 pupils **−3503** but **+151 ETP** · DO56 promo sociale **€271m** dual VL Digisprong/volwassenen · HE minerval reform unverified.
+- **BCR CoA residual (tick704–709):** debt consol **€16.1bn** path **>€19.1bn** · interest **€505m** · STIB PPI cut **€965m** · Actiris **−€78.2m** · titres **€304m** reform · Kanal omit · Proprete Hydria **€178.3m** double-book / GC **€7.7m** · SLRB **€687/418m** · routes encours **€382m** · SIAMU/BPS reporté masks **+€19.1/+€22.2m** · FRBRTC **€1.66bn** · OAA1 solde **−€9.7→+€225m** · core recettes **€5.74bn** · parking reporté **+€25.1m** · OAA consol **+€300.6m** · EU neut mismatch · fines gap **€26.2m** · M41 env cut **−€75.8m** · IBGE reporté · Annexe3 comparative integrity flags.
+- **Dual map:** Entity II debt+ratings **VL A1/AA- · WAL Baa1 · FWB A3 · BCR S&P A neg** · titres/PES dual · housing/waste/roads dual · fire/security/local dual · receipts/parking dual · env IBGE dual OVAM · reporté sincerity cross-OAA.
+
+---
+
 ## Snapshot at **tick 700** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

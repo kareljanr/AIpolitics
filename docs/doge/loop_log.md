@@ -8368,3 +8368,20 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_ibge_mission41_env_l5 — ready (not sent)
 - Next: **rq_701 PROGRESS@710**; rq_116 deferred
 
+### 2026-08-01T19:15:00Z — tick 710
+- Unit: **rq_701** (mandatory **progress@710** coverage % + waste top10)
+- Coverage (honest, vs EUR 347.956bn TE):
+  - **A L0 100%** · **B L1 100%** · **C L2 ~99%** · **D L5 ~50-64%** (generous; not near-complete of 348bn) · **E FOI ready ~446** / answered ~9 / total ~461
+- Inventory: budgets ~13933 · commitments ~1669 · leaderboard ~2943 · entities ~538 · sources ~1396
+- Gain 700→710 (FOI-adjacent BCR dual residual wave 701–709):
+  - WAL CE/CL **21.45/21.94bn** · AViQ **−516** · compensatoire **105.7** save-fail **45** · primes stock **262**
+  - FWB DO51–56 pupils−ETP paradox · DO56 **271** dual Digisprong
+  - BCR debt **16.1→19.1** · STIB PPI cut **965** · Actiris **−78.2** · titres **304** · Kanal omit
+  - Proprete Hydria **178.3** double-book · GC **7.7** · SLRB **687/418** · routes encours **382**
+  - SIAMU/BPS reporté **+19.1/+22.2** · FRBRTC **1.66bn** · OAA1 **+225** · parking **+25.1** · OAA consol **+300.6**
+  - Core recettes **5739.7** · EU neut mismatch · fines gap **26.2** · M41 cut **−75.8** · IBGE reporté
+- Waste top10: **OAA consol reporté +300.6m enters #7** (prio 8.40 abs 9.0); fossil/cars/cheque stable; mazout drops #11; high-abs NEW: reporté cluster SIAMU/BPS/parking/IBGE/Hydria · Annexe3 integrity
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_701=done; spawn **rq_702**; loop_state ticks=710
+- FOI: none new (progress tick)
+- Next: prio5 **rq_702**; deferred **rq_116**; progress@720 in 10 ticks
+

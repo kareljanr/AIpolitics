@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T19:00:00Z,rq_700,709,no,tick709 BCR IBGE/M41 env dual; next rq_701 PROGRESS@710; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T19:15:00Z,rq_701,710,no,tick710 progress@710; next rq_702; progress@720 in 10; rq_116 deferred
