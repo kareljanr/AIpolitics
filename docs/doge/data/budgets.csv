@@ -11087,3 +11087,8 @@ bud_ilvo_eu_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO EU 14p
 bud_ilvo_other_private_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO other private Business Unit 25pct 2024 mix; tick597
 bud_ilvo_vl_domains_share_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO Flemish policy areas 6pct 2024 mix; tick597
 bud_ilvo_ev_vo_ratio_2024,ilvo,2024,0,,,outturn,src_ilvo_ar_2024,strong,ILVO EV/VO balance about 2/3-1/3 2024 AR text; tick597
+bud_craw_recettes_2025,cra_w,2025,53417000,,,outturn,src_craw_budget_ajust_2025,strong,CRA-W budget ajuste 2025 recettes 53.417m decret Art21; tick598
+bud_craw_depenses_2025,cra_w,2025,54839000,,,outturn,src_craw_budget_ajust_2025,strong,CRA-W budget ajuste 2025 depenses 54.839m decret Art21; tick598
+bud_craw_staff_2025,cra_w,2025,0,,,outturn,src_craw_ra_2025,strong,CRA-W effectif 454 agents 31Dec2025 (not EUR); tick598
+bud_craw_scientifiques_2025,cra_w,2025,0,,,outturn,src_craw_ra_2025,strong,CRA-W agents scientifiques 141 Dec2025 (not EUR); tick598
+bud_craw_hires_2025,cra_w,2025,0,,,outturn,src_craw_ra_2025,strong,CRA-W nouveaux engages 34 en 2025 (not EUR); tick598

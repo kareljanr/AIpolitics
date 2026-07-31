@@ -7256,3 +7256,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+ilvo +ilvo_vo +ilvo_ev); budgets (+20); commitments (+2); leaderboard (+6); sources (+3); raw PDFs; FOI draft gap_ilvo_total_op_funds_l5_2024; rq_588=done; spawn rq_589; loop_state ticks=597
 - FOI opened: gap_ilvo_total_op_funds_l5_2024 → ready (not sent)
 - Next: rq_589; progress@600 in 3 ticks; rq_116 deferred
+
+### 2026-07-31T15:15:00Z — tick 598
+- Unit: rq_589 (FOI-adjacent dual agri research hole-fill — **CRA-W** dual ILVO)
+- Found: **CRA-W** budget ajusté 2025 (primary décret 9 Jul 2025 Art.21 Wallex): **recettes €53.417m** · **dépenses €54.839m**. **RA 2025** (primary PDF): staff **454** (scientifiques **141**; hires **34**); statut mix 31% statutaire / 34% CDI / 33% CDD. Dual ILVO: WAL single UAP **54.8m/454** vs VL IVA **24.9m** + EV **50.3m** / **756** staff. Strong confidence.
+- Wrote: entities (+cra_w); budgets (+5); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_craw_comptes_l5_2025; rq_589=done; spawn rq_590; loop_state ticks=598
+- FOI opened: gap_craw_comptes_l5_2025 → ready (not sent)
+- Next: rq_590; progress@600 in 2 ticks; rq_116 deferred

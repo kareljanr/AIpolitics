@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T15:00:00Z,rq_588,597,no,tick597 ILVO dual VO/EV CoA 24.9m/50.3m staff 756; next rq_589; progress@600 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T15:15:00Z,rq_589,598,no,tick598 CRA-W budget 53.4/54.8m staff 454 dual ILVO; next rq_590; progress@600 in 2; rq_116 deferred
