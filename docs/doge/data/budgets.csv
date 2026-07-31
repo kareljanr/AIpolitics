@@ -14171,3 +14171,36 @@ bud_sofico_reserves_indispo_2025,sofico,2025,554180541,,,outturn,src_sofico_comp
 bud_sofico_equity_path_2025,sofico,2025,2305147846,,,outturn,src_sofico_comptes_2025_residual,strong,Equity 2.305bn eoy2025 path +130.8m vs 2.174bn 2024; tick719
 bud_sofico_cap_subs_bs_2025,sofico,2025,309629431,,,outturn,src_sofico_comptes_2025_residual,strong,Subsides en capital BS 309.6m (290.6m 2024); tick719
 bud_dual_sofico_commit_awv_gip_2025,gg_belgium,2025,280022174,,,outturn,src_dual_sofico_awv_gip_tick719,strong,Dual Sofico CAPEX commit 280m vs VL GIP exec residual; not TE-additive; tick719
+bud_vl_kunsten_short_share_2024_11_5pct,cultuur_cjm_vl,2024,11.5,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Short-term subsidy share 11.5pct 2024 vs 12.5pct legal min of residual after KI/kerntaken CoA; tick721
+bud_vl_kunsten_short_share_2023_11_7pct,cultuur_cjm_vl,2023,11.7,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Short-term share 11.7pct 2023 <12.5pct decree min; tick721
+bud_vl_kunsten_short_share_total_lt8pct,cultuur_cjm_vl,2024,8,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Short-term share of total arts budget stays under 8pct CoA; tick721
+bud_vl_kunsten_extra_ws_4_2m_short,cultuur_cjm_vl,2023,4200000,,,budgeted,src_ccrek_vl_kunsten_residual_2026,strong,Of 25.3m extra WS package 4.2m added to short-term via 12.5pct rule CoA; tick721
+bud_vl_kunsten_neg_advice_apps_66,cultuur_cjm_vl,2023,66,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,66 orgs applying 5/10y WS got negative advice; 9 still subsidised; tick721
+bud_vl_kunsten_neg9_avg_award_pct_64,cultuur_cjm_vl,2023,64,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,9 neg-advice orgs still subsidised get avg only 64pct of asked amount; tick721
+bud_vl_kunsten_stable_core_171_2023_27,cultuur_cjm_vl,2023,171,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Stable core 171 orgs 73.7pct always funded since first award; tick721
+bud_vl_kunsten_core_since_2006_134,cultuur_cjm_vl,2023,134,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,134 orgs 57.8pct funded since first period 2006-09; tick721
+bud_vl_kunsten_switchers_10_3pct,cultuur_cjm_vl,2023,10.3,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Switchers 10.3pct of WS recipients current period; tick721
+bud_vl_kunsten_fin_vuln_35_of_235,cultuur_cjm_vl,2023,35,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,35 of 235 WS orgs (14.9pct) serious financial vulnerability CoA T10; tick721
+bud_vl_kunsten_fin_vuln_all5_indicators_10,cultuur_cjm_vl,2023,10,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,10 orgs 4.2pct bad on all 5 financial indicators 2023; tick721
+bud_vl_kunsten_fin_any_bad_45_1pct,cultuur_cjm_vl,2023,45.1,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,45.1pct WS orgs at least 1 unfavourable financial indicator 2023; tick721
+bud_vl_kunsten_fin_vuln_under70pct_award_10,cultuur_cjm_vl,2023,10,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Of 35 financially fragile orgs 10 get <70pct of asked subsidy T11; tick721
+bud_vl_kunsten_fin_vuln_under90pct_award_25,cultuur_cjm_vl,2023,25,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,25 of 35 fragile orgs get <90pct of asked amount; tick721
+bud_vl_kunsten_ws5y_avg_award_pct_80,cultuur_cjm_vl,2023,80,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,5y WS orgs receive avg 80pct of asked; tick721
+bud_vl_kunsten_ws10y_avg_award_pct_87,cultuur_cjm_vl,2023,87,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,10y WS orgs receive avg 87pct of asked; tick721
+bud_vl_kunsten_ws5y_under70pct_26_8pct,cultuur_cjm_vl,2023,26.8,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,26.8pct of 5y WS awardees get 70pct or less of asked; tick721
+bud_vl_kunsten_hefboom_work_272k_2024,cultuur_cjm_vl,2024,272000,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Hefboom working grant 272k + risk guarantee 380k + one-off cofin 1.9m class; tick721
+bud_vl_kunsten_hefboom_risk_380k,cultuur_cjm_vl,2024,380000,,,budgeted,src_ccrek_vl_kunsten_residual_2026,strong,Hefboom risk guarantee 380k; tick721
+bud_vl_kunsten_hefboom_cofin_1_9m,cultuur_cjm_vl,2024,1900000,,,budgeted,src_ccrek_vl_kunsten_residual_2026,strong,Hefboom one-off cofinancing 1.9m; tick721
+bud_vl_kunsten_fair_min_hourly_13_07,cultuur_cjm_vl,2023,13.07,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,juistisjuist absolute min hourly EUR 13.07 music cat D 0y 2023 CoA; tick721
+bud_vl_kunsten_fair_min_hourly_19_08,cultuur_cjm_vl,2023,19.08,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Min hourly with 1.46 coeff EUR 19.08 CoA; tick721
+bud_vl_kunsten_fair_orgs_under_min_17,cultuur_cjm_vl,2023,17,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,17 of 26 sample orgs avg freelancers below min hourly 13.07 without coeff; tick721
+bud_vl_kunsten_fair_orgs_under_coeff_18,cultuur_cjm_vl,2023,18,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,18 of 26 under min with 1.46 coeff; tick721
+bud_vl_kunsten_fair_toezicht_false_positive_31_35,cultuur_cjm_vl,2023,31,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Dept marked 31 of 35 dossiers positive on correct pay while data insufficient CoA; tick721
+bud_vl_kunsten_fair_employee_fail_3of8,cultuur_cjm_vl,2023,3,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,3 of 8 sample orgs fail employee pay norm; 19 of 152 employees under barema; tick721
+bud_vl_kunsten_fair_employee_under_19of152,cultuur_cjm_vl,2023,19,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,19 of 152 full-time permanent artists under barema norm in sample; tick721
+bud_vl_kunsten_barema_music_34447,cultuur_cjm_vl,2023,34447.13,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,juistisjuist barema music A/B 0y EUR 34447.13 2023; tick721
+bud_vl_kunsten_barema_podium_34908,cultuur_cjm_vl,2023,34908.11,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,juistisjuist barema podium A/B 0y EUR 34908.11 2023; tick721
+bud_vl_kunsten_survey_response_407_990,cultuur_cjm_vl,2024,407,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,Survey 407 of 990 subsidised artists 41.1pct response; tick721
+bud_vl_kunsten_ws_also_project_55of225,cultuur_cjm_vl,2022,55,,,outturn,src_ccrek_vl_kunsten_residual_2026,strong,55 of 225 WS orgs also had project grant 2019-22 stepping-stone path; tick721
+bud_vl_kunsten_landschap_5pct_ws,cultuur_cjm_vl,2023,5,,,budgeted,src_ccrek_vl_kunsten_residual_2026,strong,Landscape commission reserve 5pct of WS budget unmotivated CoA; tick721
+bud_dual_kunsten_fwb_class_2024,gg_belgium,2024,201941900,,,awarded,src_dual_kunsten_fwb_tick721,strong,Dual VL KD awards 201.9m vs FWB arts vivants residual; not TE-additive; tick721

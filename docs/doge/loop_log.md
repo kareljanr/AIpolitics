@@ -8529,3 +8529,18 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (progress tick)
 - Next: prio5 **rq_712**; deferred **rq_116**; progress@730 in 10 ticks
 
+
+### 2026-08-01T22:00:00Z — tick 721
+- Unit: **rq_712** (FOI-adjacent dual residual — **VL Kunstendecreet CoA residual fair-pay / fin-vuln / short-share dual FWB**)
+- Found (primary CoA 2026_36 residual vs tick489 aggregates):
+  - Short-term share **11.7% (2023) / 11.5% (2024)** < legal **12.5%**; total-arts share **<8%**; linked **+4.2m** with **25.3m** WS extra
+  - Fin vulnerability: **45.1%** ≥1 bad indicator; **35/235 (14.9%)** serious; **10 (4.2%)** all-5 bad; **25** get **<90%** asked; **10** **<70%**
+  - Neg-advice path: **66** apps neg; **9** still funded avg **64%** asked; quality fail dominant
+  - Stable core **73.7%** (171) / since-2006 **57.8%** (134); switchers **10.3%**
+  - Fair pay: min hourly **13.07** (coeff **19.08**); **17/26** freelancers under min; **18** with coeff; dept **31/35** positive despite weak data; employees **3/8** orgs / **19/152** under barema
+  - 5y avg award **80%** / 10y **87%**; **26.8%** of 5y at ≤70% asked; dual FWB residual
+  - Strong CoA; L5 FOI names residual.
+- Wrote: budgets (+33); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_vl_kunsten_fair_pay_fin_vuln_l5**; rq_712=done; spawn **rq_713**; loop_state ticks=721
+- FOI opened: gap_vl_kunsten_fair_pay_fin_vuln_l5 — ready (not sent)
+- Next: rq_713; progress@730 in 9 ticks; rq_116 deferred
+

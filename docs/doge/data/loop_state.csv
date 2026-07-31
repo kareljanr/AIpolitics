@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T21:45:00Z,rq_711,720,no,tick720 PROGRESS coverage+top10; next rq_712; progress@730 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T22:00:00Z,rq_712,721,no,tick721 VL kunsten fair-pay fin-vuln residual dual FWB; next rq_713; progress@730 in 9; rq_116 deferred
