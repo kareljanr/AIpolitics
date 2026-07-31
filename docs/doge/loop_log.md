@@ -8053,3 +8053,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_ba2026_efficient_gov_l5 — ready (not sent)
 - Next: rq_678; progress@690 in 4 ticks; rq_116 deferred
 
+
+### 2026-08-01T13:30:00Z — tick 687
+- Unit: **rq_678** (FOI-adjacent dual residual — **fed return 75m tracking + mantelzorg unbudgeted L5 dual**)
+- Found (primary CoA 2026_22 §2.2.2 + §5.2.1):
+  - **Return efficiency 75m** 2026 removed from Fedasil dot; design deferred **IB2027**; multi-dept (POD MI + Justice) tracking hard CoA
+  - **POD MI medical** BC **100.3** vs IB **112.3** (**−12**): volume claim illegal-stay urgent care; CoA: avg cost/beneficiary falls + no type split → **return attribution unverifiable**
+  - Path class **75/100/125/150** 2026–29 (prior tables)
+  - **Mantelzorg leave** law 22 Mar 2026 from **1 Jul**: RVA **+0.8m/yr** half-year **0.4** **not in BA**
+  - **Vrijstelling beschikbaarheid**: rates **15.01→29.27** (unemp) / **24.88** (inschakeling); CoA min **1.2m** 2026 / **2.3m/yr** from 2027 **not in RVA forecasts**
+  - Sciensano context **~1.3m** carers / **~300k** >10h/wk
+  - Dual unemp→ZIV **44.1**; leefloon prior. Strong CoA; L5 FOI.
+- Wrote: budgets (+13); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_fed_aju2026_return_mantelzorg_l5**; rq_678=done; spawn **rq_679**; loop_state ticks=687
+- FOI opened: gap_fed_aju2026_return_mantelzorg_l5 — ready (not sent)
+- Next: rq_679; progress@690 in 3 ticks; rq_116 deferred
+
