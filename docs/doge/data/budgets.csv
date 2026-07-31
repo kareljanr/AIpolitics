@@ -13575,3 +13575,15 @@ bud_vl_externe_schuld_rec_1415_1m,vlaanderen_gov,2026,1415100000,,,budgeted,src_
 bud_vsb_fb_interne_imbalance_50m,vlaanderen_gov,2026,50000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Internal krediet imbalance ~50m VSB-FB (receipt not booked VSB); tick691
 bud_fluvius_vak_ib_1560m_path,vlaanderen_gov,2026,1560000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Fluvius equity strengthen IB VAK 1.56bn multi-year; BA VEK 1.1bn; board Apr2026 talks; tick691
 bud_dual_vl_esr89_externe_6907m,gg_belgium,2026,6907100000,,,budgeted,src_dual_vl_esr89_fed_tick691,strong,Dual VL externe schuld 6.91bn class vs fed E1/nonfiscal; not TE-additive; tick691
+bud_ss_andere_ontvangsten_2022,sec_ss,2022,5651300000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,Autres recettes consol SS 5651.3m 2022 CoA 182e T12; tick692
+bud_ss_andere_ontvangsten_2023,sec_ss,2023,6145600000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,Autres recettes 6145.6m 2023 (+8.75pct); tick692
+bud_ss_andere_ontvangsten_2024,sec_ss,2024,7153700000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,Autres recettes 7153.7m 2024 (+16.40pct YoY); tick692
+bud_ss_andere_ontvangsten_2025_prov,sec_ss,2025,7388300000,,,estimate,src_ccrek_ss_andere_ontvangsten_path,strong,Andere ontvangsten 7388.3m 2025 provisional CoA 2026_22; tick692
+bud_ss_andere_ontvangsten_ib_7591_6m_2026,sec_ss,2026,7591600000,,,budgeted,src_ccrek_ss_andere_ontvangsten_path,strong,IB 2026 andere ontvangsten 7591.6m; tick692
+bud_ss_andere_ontvangsten_bc_7647_2m_2026,sec_ss,2026,7647200000,,,budgeted,src_ccrek_ss_andere_ontvangsten_path,strong,BC 2026 andere ontvangsten 7647.2m (+55.6/+0.7pct); no public L5; tick692
+bud_ss_andere_ontvangsten_delta_55_6m_2026,sec_ss,2026,55600000,,,budgeted,src_ccrek_ss_andere_ontvangsten_path,strong,BC vs IB andere ontvangsten +55.6m; tick692
+bud_ss_andere_share_pct_class_2026,sec_ss,2026,517,,,estimate,src_ccrek_ss_andere_ontvangsten_path,medium,Share class ~5.17pct of SS rec 148002.4 (unit 0.01pct; 517=5.17); not euros; tick692
+bud_ss_total_rec_2022_182e,sec_ss,2022,120790000000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,SS consol rec 120790.0m 2022 CoA 182e T12; tick692
+bud_ss_total_rec_2023_182e,sec_ss,2023,132159000000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,SS consol rec 132159.0m 2023; tick692
+bud_ss_total_rec_2024_182e,sec_ss,2024,139794800000,,,outturn,src_ccrek_ss_182e_autres_recettes,strong,SS consol rec 139794.8m 2024; tick692
+bud_dual_ss_andere_vs_andere_uitg_2026,gg_belgium,2026,7647200000,,,budgeted,src_ccrek_ss_andere_ontvangsten_path,strong,Dual andere ontvangsten 7.65bn vs andere uitgaven 7.40bn class; not additive TE; FOI L5 both; tick692

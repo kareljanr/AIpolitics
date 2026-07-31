@@ -8129,3 +8129,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_ba2026_esr89_t12_l5 — ready (not sent)
 - Next: rq_683; progress@700 in 9 ticks; rq_116 deferred
 
+
+### 2026-08-01T14:45:00Z — tick 692
+- Unit: **rq_683** (FOI-adjacent residual — **SS andere ontvangsten FOI-only L5**)
+- Found (primary CoA 2026_22 + 182e 2025; **no invented L5**):
+  - Path **andere ontvangsten / autres recettes:** 2022 **5651.3** · 2023 **6145.6** (+8.75%) · 2024 **7153.7** (**+16.40%**) · 2025 prov **7388.3** · IB2026 **7591.6** · BC2026 **7647.2** (+55.6 / +0.7%)
+  - Share of SS rec BC **~5.17%** of **148002.4**
+  - **Honest search:** aju2026 table + 182e T12 = **aggregates only** — no nature×regime L5 public
+  - Dual **andere uitgaven** BC **7395.5**
+  - FOI-only residual justified (prio6)
+- Wrote: budgets (+12); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_ss_andere_ontvangsten_l5** ready; rq_683=done; spawn **rq_684**; loop_state ticks=692
+- FOI opened: gap_ss_andere_ontvangsten_l5 — ready (not sent)
+- Next: rq_684; progress@700 in 8 ticks; rq_116 deferred
+
