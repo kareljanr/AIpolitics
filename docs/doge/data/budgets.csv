@@ -15413,3 +15413,35 @@ bud_aviq_ra_vs_initial_gap_2024,aviq,2024,193400000,,,derived,src_dual_aviq_ra_i
 bud_dual_aviq_iriscare_af_2024,gg_belgium,2024,3070867000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,strong,Dual AViQ AF+APA 3.071bn vs Iriscare AF 1.081bn not additive; tick748
 bud_dual_aviq_vaph_handicap_2024,gg_belgium,2024,1011986000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,strong,Dual AViQ handicap 1.012bn vs VAPH disability mega class not additive; tick748
 bud_dual_aviq_rembours_treasury_2024,gg_belgium,2024,352584000,,,derived,src_dual_aviq_ra_iriscare_vaph_tick748,strong,Dual rembours dotation RA 352.6m vs treasury rembours path 335.3m BI2025; tick748
+bud_regie_detentiehuizen_env_103_5m,regie_gebouwen,2023,103500000,,,commitment,src_kamer_regie_1281_011_2026,strong,CM 31Mar2023 AS5 envelope 103.5m Regie for Justice detention houses; tick749
+bud_regie_detentiehuizen_2024,regie_gebouwen,2024,6906000,,,budgeted,src_kamer_regie_1281_011_2026,strong,BA 19.55.21.01.00.01 eng=liq 6906 kEUR 2024; tick749
+bud_regie_detentiehuizen_2025,regie_gebouwen,2025,41029000,,,budgeted,src_kamer_regie_1281_011_2026,strong,BA detentiehuizen path 41029 kEUR class 2025 table; tick749
+bud_regie_detentiehuizen_2026,regie_gebouwen,2026,29150000,,,budgeted,src_kamer_regie_1281_011_2026,strong,BA detentiehuizen 29150 kEUR 2026 table path; note narrative also cites 41029 reprogram; tick749
+bud_regie_detentiehuizen_2027,regie_gebouwen,2027,9030000,,,budgeted,src_kamer_regie_1281_011_2026,strong,BA detentiehuizen 9030 kEUR 2027; tick749
+bud_regie_detentiehuizen_reprogram_2026,regie_gebouwen,2026,34123000,,,budgeted,src_kamer_regie_1281_011_2026,strong,Volume reprogram +34123k from multi-year invest plan CM 17May2024; tick749
+bud_regie_dot_total_2024,regie_gebouwen,2024,734319473,,,outturn,src_kamer_regie_oap_1281_022_2026,strong,Sum federal dots art 46.10 to Regie 734319473 EUR 2024 outturn; tick749
+bud_regie_dot_total_2025,regie_gebouwen,2025,740721000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,Federal dots total 740721000 EUR 2025 initial; tick749
+bud_regie_dot_total_2026,regie_gebouwen,2026,739342113,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,Federal dots total 739342113 EUR 2026 initial; tick749
+bud_regie_dot_personnel_ops_2024,regie_gebouwen,2024,106755127,,,outturn,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/001 personnel+ops 106755127 2024; tick749
+bud_regie_dot_personnel_ops_2025,regie_gebouwen,2025,104599000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/001 104599000 2025; tick749
+bud_regie_dot_personnel_ops_2026,regie_gebouwen,2026,104891000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/001 104891000 2026 (index +save MR path); tick749
+bud_regie_dot_occupation_fee_2024,regie_gebouwen,2024,29103000,,,outturn,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/002 occupation redevance 29103000 2024; tick749
+bud_regie_dot_occupation_fee_2025,regie_gebouwen,2025,28682000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/002 28682000 2025; tick749
+bud_regie_dot_occupation_fee_2026,regie_gebouwen,2026,33075000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/002 33075000 2026 incl NEKP transit invest shift; tick749
+bud_regie_dot_alt_finance_dbfm_2024,regie_gebouwen,2024,90375710,,,outturn,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/003 alt finance DBFM/leasing 90375710 2024; tick749
+bud_regie_dot_alt_finance_dbfm_2025,regie_gebouwen,2025,91128000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/003 91128000 2025; tick749
+bud_regie_dot_alt_finance_dbfm_2026,regie_gebouwen,2026,102880000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/003 102880000 2026: DBFM prison index +99682 + Antwerp +14191278; tick749
+bud_regie_dbfm_antwerp_add_2026,regie_gebouwen,2026,14191278,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,DBFM Antwerp prison add +14191278 to alt-finance dot 2026; dual Table41 17.1m invest; tick749
+bud_regie_dbfm_prisons_index_2026,regie_gebouwen,2026,99682,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,DBFM prisons index +99682 EUR 2026; tick749
+bud_regie_dot_rents_2024,regie_gebouwen,2024,502315000,,,outturn,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/004 rents/loyers 502315000 2024; tick749
+bud_regie_dot_rents_2025,regie_gebouwen,2025,510484000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/004 rents 510484000 2025; tick749
+bud_regie_dot_rents_2026,regie_gebouwen,2026,492213000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/004 rents 492213000 2026 (-18.3m vs 2025); tick749
+bud_regie_dot_rental_charges_2026,regie_gebouwen,2026,1089000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/005 rental charges 1089000 2026; tick749
+bud_regie_dot_maintenance_2026,regie_gebouwen,2026,3884000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/009 maintenance 3884000 2026; tick749
+bud_regie_dot_010_2026,regie_gebouwen,2026,1099000,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/010 1099000 2026 residual label FOI; tick749
+bud_regie_dot_100_2026,regie_gebouwen,2026,211113,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,46.10.00/100 211113 2026 new line; tick749
+bud_regie_rec_art12_2026,regie_gebouwen,2026,5620802,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,Art12 goods/services receipts total 5620802 2026; tick749
+bud_regie_rec_rents_third_2026,regie_gebouwen,2026,2959271,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,Lease contracts total 2959271 of which rents 2597299 taxes 361972; tick749
+bud_regie_rec_art16_2026,regie_gebouwen,2026,12125954,,,budgeted,src_kamer_regie_oap_1281_022_2026,strong,Art16 receipts total 12125954 2026; tick749
+bud_dual_regie_justice_dbfm_2026,gg_belgium,2026,102880000,,,derived,src_dual_regie_justice_dbfm_tick749,strong,Dual Regie alt-finance DBFM 102.88m vs Justice redev 46.6+CPL 31.2; not additive; tick749
+bud_dual_detentiehuizen_dbfm_capacity,gg_belgium,2026,103500000,,,derived,src_dual_regie_justice_dbfm_tick749,strong,Dual capacity stack: detentiehuizen envelope 103.5m + prison DBFM lock-in; tick749

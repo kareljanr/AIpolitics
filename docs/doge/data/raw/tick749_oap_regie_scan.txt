@@ -1,0 +1,723 @@
+﻿python : Ignoring wrong pointing object 7271 0 (offset 0)
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Ignoring wrong ...71 0 (offset 0):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+pages 306
+hit pages [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 41, 42, 43] count 97
+==== 1 ====
+1281/022DOC 56 1281/022DOC 56
+02927
+KAMER ΓÇó 3 e ┬áZITTING VAN DE 56 e ┬áZITTINGSPERIODE 2025 2026 CHAMBRE  3 e ┬áSESSION DE LA 56 e ┬áL├ëGISLATURE
+Chambre des repr├⌐sentants  
+de belgique
+belgisChe Kamer van  
+volKsvertegenwoordigers
+28 januari 2026 28 janvier 2026
+JUSTIFICATION DU  
+BUDGET G├ëN├ëRAL  
+DES D├ëPENSES
+pour lΓÇÖann├⌐e budg├⌐taire 2026
+VERANTWOORDING  
+VAN DE ALGEMENE  
+UITGAVENBEGROTING 
+voor het begrotingsjaar 2026
+* Le n┬░ de la justification correspond au n┬░ de la section dans les 
+tableaux du budget g├⌐n├⌐ral des D├⌐penses.
+* Het nummer van de verantwoording stemt overeen met het nummer 
+van de sectie in de tabellen van de Algemene Uitgavenbegroting. 
+VERANTWOORDINGEN VAN DE BEGROTINGEN 
+VAN DE ADMINISTRATIEVE OPENBARE  
+INSTELLINGEN MET MINISTERIEEL BEHEER
+ JUSTIFICATION DES BUDGETS DES  
+ORGANISMES ADMINISTRATIFS PUBLICS  
+├Ç GESTION MINISTERIELLE 
+Voir:
+Doc 56 1281/ (2025/2026):
+001: 01.  Dotations et Activit├⌐s de la Famille Royale
+002: 02.  SPF Chancellerie du Premier Ministre
+003: 06.  SPF Strat├⌐gie et Appui
+004: 07.  Organes ind├⌐pendants
+005: 12.  SPF Justice
+006: 13.  SPF Int├⌐rieur 
+007: 14.  SPF Affaires ├⌐trang├¿res, Commerce ext├⌐rieur et Coop├⌐ration au
+            D├⌐veloppement
+008: 16.  Minist├¿re de la D├⌐fense nationale
+009: 17.  Police f├⌐d├⌐rale et Fonctionnement int├⌐gr├⌐ 
+010: 18.  SPF Finances 
+011: 19.  R├⌐gie des B├ótiments
+012: 23.  SPF Emploi, Travail et Concertation sociale 
+013: 24.  SPF S├⌐curit├⌐ sociale
+014: 25.  SPF Sant├⌐ publique, S├⌐curit├⌐ de la Cha├«ne alimentaire et 
+  Environnement 
+015: 32.  SPF ├ëconomie, PME, Classes moyennes et ├ënergie
+016: 33.  SPF Mobilit├⌐ et Transports
+017: 44.  SPP Int├⌐gration sociale, Lutte contre la pauvret├⌐ et ├ëconomie  
+ sociale
+018: 46.  SPP Politique scientifique
+019: 51.  SPF Finances, pour la Dette publique 
+020: 52.  SPF Finances, pour le Financement de lΓÇÖUnion europ├⌐enne
+021:  Justification des budgets des services administratifs ├á comptabilit├⌐ 
+autonome
+022: Justification des budgets des organismes administratifs publics ├á 
+gestion ministerielle
+023:  Justification des budgets des organismes administratifs publics  
+ ├á gestion autonome
+Zie:
+Doc 56 1281/ (2025/2026):
+001: 01.  Dotaties en activiteiten van de Koninklijke Familie 
+002: 02. FOD Kanselarij van de Eerste Minister 
+003: 06.  FOD Beleid en Ondersteuning      
+004: 07.  Onafhankelijke organen 
+005: 12.  FOD Justitie 
+006: 13.  FOD Binnenlandse Zaken 
+007: 14.  FOD Buitenlandse Zaken, Buitenlandse Handel en 
+   Ontwikkelingssamenwerking  
+008: 16
+
+==== 3 ====
+3
+1281/022DOC 56
+ 
+ 
+ 
+REGIE DER GEBOUWEN R├ëGIE DES B├éTIMENTS 
+  
+  
+A. AARD EN RAMING VAN DE ONTVANGSTEN 
+ 
+ 
+ARTIKEL 12 - Aankoop van niet duurzame 
+goederen en diensten 
+ 
+Synthesetabel  
+ 
+A. NATURE ET ESTIMATION DES RECETTES 
+ 
+ 
+ARTICLE 12 - Achats de biens non durables et de 
+services 
+ 
+Tableau de synth├¿se 
+EC-CE /  LIT FC-CF KS-SC 
+2024 2025 2026 
+Realisaties Initieel Initieel 
+R├⌐alisations initial initial 
+      
+12.11.00           
+            
+12.11.00/100 CF_00 n.lim 533.767 629.165 607.328 
+            
+Totaal-total     533.767 629.165 607.328 
+12.12.00           
+            
+12.12.00/100 CF_00 n.lim 3.210.603 647.471 2.054.203 
+12.12.00/101 CF_00 n.lim 3.791.557 3.097.343 2.959.271 
+            
+Totaal-total     7.002.160 3.744.814 5.013.474 
+Total art 12 - 
+Totaal art 12     7.535.927 4.373.979 5.620.802 
+ 
+ 
+ECONOMISCHE CODE: 12.11.00 
+Algemene werkingskosten vergoed aan 
+andere sectoren dan de overheidssector 
+ 
+CODE ECONOMIQUE: 12.11.00  
+Frais g├⌐n├⌐raux de fonctionnement pay├⌐s ├á des 
+secteurs autres que le secteur des administrations 
+publiques 
+ 
+12.11.00/100 - Recuperatie van diverse uitgaven 
+ 
+a) Aard van de ontvangst 
+ 
+Ontvangsten voortvloeiend uit de recuperatie van: 
+(1) uitgaven voor onderhoudswerken ten onrechte 
+aangegaan voor rekening van derden bij de 
+bezetters, eigenaars of bij eventuele andere 
+derden van uitgaven voor onderhoudswerken 
+die, om wat voor reden ook, ten onrechte werden 
+aangerekend op een onderhoudsartike l van de 
+begroting van de Regie der Gebouwen. 
+  
+(2) sommen die ten onrechte aangerekend en 
+betaald werden door de Regie der Gebouwen. 
+Het betreft met name recuperaties van niet -
+patrimoniale uitgaven, o.m. terugvordering van 
+dubbele betalingen, bedrijfskosten (roerende en 
+onroerende voorheffing, wedden, kind erbijslag, 
+verplaatsingskosten enz.) en de recuperatie van 
+voordelen in natura. 
+ 
+12.11.00/100 - R├⌐cup├⌐ration de d├⌐penses diverses 
+ 
+a) Nature de la recette 
+ 
+Recettes r├⌐sultant de la r├⌐cup├⌐ration : 
+(1) de travaux d'entretien, engag├⌐s erron├⌐ment pour 
+le compte de tiers aupr├¿s des occupants, des 
+propri├⌐taires ou, le cas ├⌐ch├⌐ant, d'autres tiers, de 
+d├⌐penses pour des travaux d'entretien imput├⌐s 
+erron├⌐ment (pour n'importe quelle raison) sur un 
+article dΓÇÖentre tien du budget de la R├⌐gie des 
+B├ótiments. 
+ 
+(2) de sommes imput├⌐es et pay├⌐es ind├╗ment par la 
+R├⌐gie des B├ótiments. Il s'agit notamment de 
+r├⌐cup├⌐rations de d├⌐penses non patrimoniales, 
+e.a. la r├⌐cup├⌐ration de doubles paiements, d
+
+==== 4 ====
+1281/022DOC 56
+4
+ 
+(3) bepaalde uitgaven die de Regie der Gebouwen 
+ten laste heeft genomen voor rekening van 
+derden  
+ 
+(4) kosten van alle aard voortvloeiend uit schade 
+berokkend door derden : 
+- schadevergoedingen verschuldigd door 
+derden ingevolge schade toegebracht aan 
+onroerende goederen, eigendom van de 
+Staat en beheerd door de Regie der 
+Gebouwen; 
+- schadevergoedingen verschuldigd door 
+derden ingevolge schade toegebracht aan 
+roerende en onroerende goederen, 
+eigendom van de Regie der Gebouwen; 
+- schadevergoedingen verschuldigd door 
+derden ingevolge schade toegebracht aan 
+het personeel van de Regie der 
+Gebouwen. 
+ 
+(5)  niet verschuldigde uitgaven verricht op ├⌐├⌐n 
+van de onderhoudsartikels. Het gaat om 
+uitgaven die (ten gevolge van het opleggen 
+van refacties, van door de Regie betaalde 
+maar ten laste van de aannemers vallende 
+proeven, van eventuele creditnota's enz.) van 
+de aannemers werden teruggevorderd of door 
+hen werden teruggestort na het opmaken van 
+de eindafrekening of het afsluiten van het 
+begrotingsjaar. 
+ 
+b) Berekeningsmethode van de ontvangst in 
+2026 
+ 
+Bedrag  2025 629.165 
+Realisatie 2023 597.131 
+Realisatie 2024 533.767 
+Raming 2026 607.328 
+  
+ 
+(3) de certaines d├⌐penses que la R├⌐gie des 
+B├ótiments a prises en charge pour le compte de 
+tiers  
+ 
+(4) de frais de toute nature r├⌐sultant de dommages 
+caus├⌐s par des tiers :  
+- des indemnit├⌐s dues par des tiers suite ├á des 
+dommages caus├⌐s aux biens immobiliers, 
+propri├⌐t├⌐ de l'Etat et g├⌐r├⌐s par la R├⌐gie des 
+B├ótiments; 
+ 
+- des indemnit├⌐s dues par des tiers suite ├á des 
+dommages caus├⌐s aux biens meubles et 
+immeubles, propri├⌐t├⌐ de la R├⌐gie des B├ótiments; 
+ 
+- des indemnit├⌐s dues par des tiers suite ├á des 
+dommages caus├⌐s au personnel de la R├⌐gie des 
+B├ótiments. 
+ 
+ 
+(5) D├⌐penses indues effectu├⌐es sur un des articles 
+d'entretien. Il s'agit de d├⌐penses indues (suite ├á 
+l'application de r├⌐factions, du paiement par la 
+R├⌐gie d'essais ├á charge de l'entrepreneur, 
+d'├⌐ventuelles notes de cr├⌐dit, etc.), r├⌐clam├⌐es aux 
+entrepreneurs o u revers├⌐es par ceux -ci apr├¿s 
+l'├⌐tablissement du d├⌐compte final ou de la cl├┤ture 
+de l'ann├⌐e budg├⌐taire. 
+ 
+ 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+ 
+Montant 2025  629.165 
+R├⌐alisation 2023 597.131 
+R├⌐alisation 2024 533.767 
+Estimation 2026 607.328 
+ 
+ECONOMISCHE CODE: 12.12.00  
+Huurgelden van gebouwen vergoed aan 
+andere sectoren dan de overheidssector 
+ 
+CODE ECONOMIQUE: 12.12.00  
+Locations de b├ótiments pay├⌐es ├á des secteurs 
+au
+
+==== 5 ====
+5
+1281/022DOC 56
+ 
+12.12.00/101 Recuperatie huurgelden niet-
+Staatsdiensten 
+ 
+a) Aard van de ontvangst 
+ 
+Op het ontvangstenartikel 12.12.00/101 worden de 
+huurgelden en de bijhorende taksen gerecupereerd die 
+de Regie der Gebouwen, om wat voor reden ook, 
+betaalt voor de huisvesting van overheidsdiensten in 
+wier huisvesting zij krachtens haar organieke wet niet 
+hoeft te voorzien. Het gaat met name om de 
+Gemeenschappen en Gewesten en om bepaalde 
+Administratieve Openbare Instellingen. 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+Totaal bedrag van de bestaande huurcontracten: 
+2.959.271 euro, waarvan 2.597.299 euro huurgelden 
+en 361.972 euro taksen. 
+ 
+Zie ook de verantwoording van de uitgavenartikels 
+12.12.00/102 en 12.50.00/102. 
+ 
+12.50.00/100 - Recuperatie taksen 
+ 
+a) Aard van de ontvangst 
+ 
+Recuperatie van de taksen die door de Regie der 
+Gebouwen, om wat voor reden ook, bij vergissing te 
+veel of ten onrechte aan de eigenaar -verhuurder 
+werden betaald. 
+ 
+12.12.00/101 - R├⌐cup├⌐ration loyers services non-
+Etat 
+ 
+a) Nature de la recette 
+ 
+L'article des recettes 12.12.00/101 est utilis├⌐ pour la 
+r├⌐cup├⌐ration des loyers et des taxes y aff├⌐rentes pay├⌐s 
+par la R├⌐gie des B├ótiments, pour n'importe quelle 
+raison, pour le logement de services publics dont 
+l'h├⌐bergement ne rel├¿ve pas de la comp├⌐tence  de la 
+R├⌐gie, en vertu de sa loi organique. Il s'agit notamment 
+des Communaut├⌐s et des R├⌐gions et de certains 
+Organismes Administratifs Publics. 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+Montant total des contrats de location  : 2.959.271 
+euros dont 2.597.299 euros de loyers et 361.972 euros 
+de taxes. 
+ 
+Voir aussi la justification des articles des d├⌐penses 
+12.12.00/102 et 12.50.00/102. 
+ 
+12.50.00/100 - R├⌐cup├⌐ration taxes 
+ 
+a) Nature de la recette 
+ 
+R├⌐cup├⌐ration de taxes pay├⌐s par erreur en trop ou 
+ind├╗ment (pour n'importe quelle raison) au propri├⌐taire-
+bailleur par la R├⌐gie des B├ótiments. 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+Bedrag  2025 0 
+Realisatie 2023 0 
+Realisatie 2024  231.018 
+Raming 2026 124.064 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+Montant 2025 0 
+R├⌐alisation 2023 0 
+R├⌐alisation 2024                        231.018 
+Estimation 2026 124.064 
+ 
+ 
+ 
+EC-CE /  LIT FC-CF KS-SC 
+2024 2025 2026 
+Realisaties Initieel Initieel 
+R├⌐alisations initial initial 
+      
+12.50.00           
+            
+12.50.00/100 CF_00 lim 231.018 0 124.064 
+            
+Totaal-total     231.018 0 124.064 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== 6 ====
+1281/022DOC 56
+6
+ 
+ARTIKEL 16 - Verkoop van niet duurzame 
+goederen en diensten 
+ 
+ 
+ARTICLE 16 - Ventes de biens non durables et de 
+services 
+ 
+Synthesetabel Tableau de synth├¿se 
+ 
+ 
+EC-CE /  LIT FC-CF KS-SC 
+2024 2025 2026 
+Realisaties Initieel Initieel 
+R├⌐alisations initial initial 
+      
+16.11.00           
+            
+16.11.00/100 CF_00 n.lim 4.374.700 2.123.903 3.536.331 
+16.11.00/101 CF_00 n.lim 0 0 0 
+            
+Totaal-total     4.374.700 2.123.903 3.536.331 
+16.12.00           
+            
+16.12.00/100 CF_00 n.lim 591.070 722.008 685.422 
+16.12.00/101 CF_00 n.lim 0 0 0 
+            
+Totaal-total     591.070 722.008 685.422 
+16.13.00           
+            
+16.13.00/100 CF_00 n.lim 105.907 110.348 113.119 
+16.13.00/101 CF_00 n.lim 0 0 0 
+            
+Totaal-total     105.907 110.348 113.119 
+16.20.00           
+            
+16.20.00/100 CF_00 n.lim 4.866.199 5.290.599 5.309.860 
+16.20.00/101 CF_00 n.lim 1.884.430 2.066.058 2.012.385 
+16.20.00/102 CF_00 n.lim 398.106 405.754 411.029 
+16.20.00/103 CF_00 n.lim 0 57.066 57.808 
+            
+Totaal-total     7.148.735 7.819.477 7.791.082 
+Total art 16 - 
+Totaal art 16     12.220.412 10.775.736 12.125.954 
+ 
+ 
+ECONOMISCHE CODE: 16.11.00  
+Verkoop van niet-duurzame goederen en diensten 
+aan bedrijven 
+ 
+16.11.00/100 ΓÇô Huuropbrengst van de 
+Rijksgebouwen niet betrokken door 
+Rijksdiensten ΓÇô aan bedrijven 
+ 
+a) Aard van de ontvangst 
+ 
+Ontvangsten voortvloeiend uit het verhuren van 
+onroerende goederen (gebouwen, aanhorigheden en 
+terreinen) door de Regie der Gebouwen aan derden 
+in wier huisvesting de Regie krachtens haar 
+organieke wet niet hoeft te voorzien, voor zover deze 
+derden behoren tot de priv├⌐sector. 
+ 
+ 
+ 
+CODE ECONOMIQUE: 16.11.00 
+Ventes de biens non durables et de services aux 
+entreprises 
+ 
+16.11.00/100 - Produit de la mise en location des 
+immeubles de l'Etat non occup├⌐s par des services 
+de l'Etat ΓÇô aux entreprises 
+ 
+a) Nature de la recette 
+ 
+Recettes r├⌐sultant de la mise en location de biens 
+immeubles (b├ótiments, d├⌐pendances et terrains) par la 
+R├⌐gie des B├ótiments ├á des tiers ├á l'h├⌐bergement 
+desquels la R├⌐gie ne doit pas pourvoir en vertu de sa 
+loi organique, pour autant que ces tiers appartie nnent 
+au secteur priv├⌐. 
+ 
+ 
+ 
+ 
+
+==== 7 ====
+7
+1281/022DOC 56
+ 
+b) Berekeningsmethode van de ontvangst in 
+2026 
+ 
+Bedrag  2025 2.123.903 
+Realisatie 2023 3.292.481 
+Realisatie 2024 4.374.700 
+Raming 2026 3.536.331 
+ 
+ b) M├⌐thode de calcul de la recette en 2026 
+ 
+ 
+Montant 2025  2.123.903 
+R├⌐alisation 2023 3.292.481 
+R├⌐alisation 2024 4.374.700 
+Estimation 2026 3.536.331  
+ 
+ 
+ 
+ 
+ECONOMISCHE CODE: 16.12.00  
+Verkoop van niet-duurzame goederen en diensten 
+aan vzwΓÇÖs ten behoeve van de gezinnen en aan 
+gezinnen 
+ 
+CODE ECONOMIQUE : 16.12.00  
+Ventes de biens non durables et de services aux 
+ASBL au service des m├⌐nages et aux m├⌐nages 
+  
+16.12.00/100 - Huuropbrengst van de 
+Rijksgebouwen niet betrokken door Rijksdiensten 
+ΓÇô aan vzwΓÇÖs en gezinnen 
+ 
+a) Aard van de ontvangst 
+ 
+Ontvangsten voortvloeiend uit het verhuren van 
+onroerende goederen (gebouwen, aanhorigheden en 
+terreinen) door de Regie der Gebouwen aan derden in 
+wier huisvesting de Regie krachtens haar organieke 
+wet niet hoeft te voorzien, voor zover deze derden 
+behoren tot de sector van vzw's en gezinnen. 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+Bedrag  2025 722.008 
+Realisatie 2023 685.247 
+Realisatie 2024 591.070 
+Raming 2026 685.422 
+  
+ 
+16.12.00/100 ΓÇô Produit de la mise en location des 
+immeubles de lΓÇÖEtat non occup├⌐s par des services 
+de lΓÇÖEtat ΓÇô aux ASBL et m├⌐nages 
+ 
+a) Nature de la recette 
+ 
+Recettes r├⌐sultant de la mise en location de biens 
+immeubles (b├ótiments, d├⌐pendances et terrains) par la 
+R├⌐gie des B├ótiments ├á des tiers ├á lΓÇÖh├⌐bergement 
+desquels la R├⌐gie ne doit pas pourvoir en vertu de sa 
+loi organique, pour autant que ces tiers appartie nnent 
+au secteur des asbl et des m├⌐nages. 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+Montant 2025     722.008 
+R├⌐alisation 2023 685.247 
+R├⌐alisation 2024 591.070 
+Estimation 2026 685.422 
+ 
+ECONOMISCHE CODE: 16.13.00  
+Verkoop van niet-duurzame goederen en diensten 
+aan het buitenland 
+ 
+CODE ECONOMIQUE: 16.13.00  
+Ventes de biens non durables et de services ├á 
+l'├⌐tranger 
+ 
+16.13.00/100  Huuropbrengst van de 
+Rijksgebouwen niet betrokken door Rijksdiensten 
+ΓÇô aan het buitenland 
+ 
+a) Aard van de ontvangst 
+ 
+Ontvangsten voortvloeiend uit het verhuren van 
+onroerende goederen (gebouwen, aanhorigheden en 
+terreinen) door de Regie der Gebouwen aan 
+buitenlandse derden in wier huisvesting de Regie 
+krachtens haar organieke wet niet hoeft te voorzien. 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+Bedrag  2025 110.348 
+Realisatie 2023 104.730 
+Realisatie 2024 105.9
+
+==== 8 ====
+1281/022DOC 56
+8
+ 
+ECONOMISCHE CODE: 16.20.00  
+Verkoop van niet-duurzame goederen en diensten 
+binnen de overheidssector 
+ 
+CODE ECONOMIQUE: 16.20.00  
+Ventes de biens non durables et de services ├á 
+l'int├⌐rieur du secteur des administrations 
+publiques 
+ 
+16.20.00/100 ΓÇô Huuropbrengst van de 
+Rijksgebouwen niet betrokken door Rijksdiensten 
+ΓÇô overheidssector 
+ 
+a) Aard van de ontvangst 
+ 
+Ontvangsten voortvloeiend uit het verhuren van 
+onroerende goederen (gebouwen, aanhorigheden en 
+terreinen) door de Regie der Gebouwen aan derden in 
+wier huisvesting de Regie krachtens haar organieke 
+wet niet hoeft te voorzien. 
+ 
+De betrokken derden zijn overheidsdiensten die niet 
+behoren tot de categorie├½n bedoeld in art. 2 van de wet 
+van 1 april 1971, zoals gewijzigd bij K.B. van 18 
+november 1996 en bij wet van 15 januari 1999, of die 
+de kosten van hun huisvesting zelf moeten dra gen: 
+Gemeenschappen en Gewesten, gemeenten, 
+OCMWΓÇÖs, intercommunales, provincies, regionale 
+diensten, sommige instellingen van openbaar nut, 
+sommige internationale instellingen (b.v. SHAPE, Raad 
+van Europa, Europees Parlement) en sommige 
+diensten ressortere nd onder Federale 
+Overheidsdiensten (b.v. Landsverdediging) enz.  
+ 
+Al deze diensten betalen huurgeld indien zij gebruik 
+maken van onroerende goederen beheerd door de 
+Regie der Gebouwen (tenzij specifieke 
+overeenkomsten een andere regeling toestaan). 
+ 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+Bedrag  2025 5.290.599 
+Realisatie 2023 5.021.230 
+Realisatie 2024 4.866.199 
+Raming 2026 5.309.860   
+ 
+ 
+16.20.00/101 - Opbrengst van de verkoop van 
+goederen en diensten ΓÇô overheidssector 
+ 
+b) a) Aard van de ontvangst 
+ 
+Zie art 16.12.00/101 
+ 
+1) Ontvangsten waarmee de Regie der 
+Gebouwen vergoed wordt voor prestaties die 
+ze levert voor rekening van derden. 
+ 
+2) Terugvordering van de kosten voor het 
+personeel dat door de Regie der Gebouwen ter 
+beschikking wordt gesteld van federale 
+overheidsdiensten (b.v. Rampenfonds), van de 
+Gemeenschaps- en Gewestregeringen, van 
+ministeri├½le beleidsorganen, vakbonden enz., 
+16.20.00/100 - Produit de la mise en location des 
+immeubles de l'Etat non occup├⌐s par des services 
+de l'Etat ΓÇô secteur public 
+ 
+a) Nature de la recette 
+ 
+Recettes r├⌐sultant de la mise en location de biens 
+immeubles (b├ótiments, d├⌐pendances et terrains) par la 
+R├⌐gie des B├ótiments ├á des tiers ├á l'h├⌐bergement 
+desquels la R├⌐gie ne doit pas pourvoir en vertu de sa 
+loi organique. 
+ 
+Les tiers concern├⌐s sont
+
+==== 9 ====
+9
+1281/022DOC 56
+ 
+evenals de terugbetalingen in het raam van 
+tewerkstellingsplannen (Rosetta, eerste 
+tewerkstelling enz.). 
+ 
+3) Ontvangsten voortvloeiend uit de beslissing 
+van 5 februari 1976 van het Ministerieel 
+Begrotingscomit├⌐ waarbij de Regie der 
+Gebouwen gemachtigd wordt om een 
+vergoeding van 1,5% op te betalen huurgelden 
+aan te rekenen aan de bezetter van een 
+gehuurd gebouw, indien dit geen Staatsdienst 
+is in wiens huisvesting de Regie der 
+Gebouwen krachtens art. 2 van haar organieke 
+wet moet voorzien. 
+ 
+4) Ontvangsten ge├»mputeerd die voortvloeien uit 
+de aanrekening van een bezettingsvergoeding 
+aan de openbare diensten, andere dan 
+federale overheidsdiensten, die bezetter zijn 
+van onroerende goederen die door de Regie 
+der Gebouwen beheerd worden. Het gaat om 
+een vergoeding die een gedeelte van de 
+bedrijfskosten van de Regie (personeels - en 
+algemene onkosten) moet dekken, in 
+verhouding tot de oppervlakte die door de 
+betrokken diensten ingenomen wordt. 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+Bedrag 2025 2.066.058 
+Realisatie 2023 1.970.453 
+Realisatie 2024 1.884.430 
+Raming 2026 2.012.385 
+ 
+ 
+Daarbij komen nog de bezettingsvergoedingen: 
+ 
+ainsi que les remboursements dans le cadre des 
+programmes d'emploi (Rosetta, premier emploi 
+etc.). 
+ 
+(3) Recettes r├⌐sultant de la d├⌐cision du 5 f├⌐vrier 
+1976 par laquelle le Comit├⌐ minist├⌐riel du 
+Budget autorise la R├⌐gie des B├ótiments ├á porter 
+en compte aux occupants des immeubles lou├⌐s 
+une indemnit├⌐ de 1,5%, ├á calculer sur les loyers 
+├á payer, si cet occupant n'est pas un service de 
+l'Etat qui doit ├¬tre log├⌐ par la R├⌐gie en vertu de 
+l'article 2 de sa loi organique. 
+ 
+ 
+ 
+(4)  Recettes d├⌐coulant de la facturation d'une 
+redevance d'occupation aux occupants, 
+services publics autres que l'Etat f├⌐d├⌐ral, de 
+biens immobiliers g├⌐r├⌐s par la R├⌐gie des 
+B├ótiments. Il s'agit d'une redevance qui doit 
+servir ├á couvrir une partie des frais de  
+fonctionnement de la R├⌐gie (frais de personnel 
+et autres frais g├⌐n├⌐raux), en fonction des 
+surfaces occup├⌐es par les services concern├⌐s. 
+ 
+ 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+Montant 2025 2.066.058 
+R├⌐alisation 2023 1.970.453 
+R├⌐alisation 2024 1.884.430 
+Estimation 2026 2.012.385  
+  
+ 
+Ces montants reprennent les redevances dΓÇÖoccupation 
+suivantes : 
+ 
+ 
+  Totaal Rekenhof Grondw Hof  
+  Total Cour des Comptes Cour constitutionnelle  
+          
+         
+Prijs per m┬▓ 2025 47,78 47,78 47,78 Prix au m┬▓ 2025 
+Indexatie 2026 1,
+

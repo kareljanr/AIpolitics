@@ -8928,3 +8928,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_aviq_ra2024_residual_l5 — ready prio8 (not sent)
 - Next: rq_740; progress@750 in 2; rq_116 deferred
 
+
+### 2026-08-02T11:45:00Z — tick 749
+- Unit: **rq_740** (FOI-adjacent residual dual — **Regie der Gebouwen Kamer 1281/011+022 dots + detentiehuizen dual Justice DBFM**)
+- Found (primary Kamer DOC 56 1281/011 + 1281/022 OAP ministerial):
+  - **Federal dots art 46.10 total:** 2024 **€734.319m** · 2025 **€740.721m** · 2026 **€739.342m**
+  - **2026 split:** rents **/004 €492.213m** · alt-finance DBFM/leasing **/003 €102.880m** · personnel+ops **/001 €104.891m** · occupation fee **/002 €33.075m** · maint **/009 €3.884m** · rental charges **/005 €1.089m**
+  - **DBFM 003 calc:** Antwerp **+€14.191m** + prisons index **+€0.100m** → 102.880m; dual Justice redev path / Table41 invest 17.1m
+  - **Detentiehuizen** BA 19.55.21.01.00.01: CM 31 Mar 2023 AS5 envelope **€103.5m**; path **6.9 / 41.0 / 29.2 / 9.0 m** 2024–27; reprogram volume **+€34.1m** (CM invest plan 17 May 2024)
+  - Own receipts art12 **€5.6m** · lease contracts **€2.96m** (rents 2.60 + taxes 0.36)
+  - Dual Justice redev combo 77.8 + prison ops 111 + legal aid 241 not TE-additive with Regie 739
+- Wrote: budgets (+32); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_regie_dots_detentie_l5**; extracts; rq_740=done; spawn **rq_741 PROGRESS@750**; ticks=749
+- FOI opened: gap_regie_dots_detentie_l5 — ready prio8 (not sent)
+- Next: **rq_741 progress@750**; rq_116 deferred
+

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T11:15:00Z,rq_739,748,no,tick748 AViQ RA2024 dual Entity II 7.155bn; next rq_740; progress@750 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T11:45:00Z,rq_740,749,no,tick749 Regie dots 739m rents 492 DBFM 103 detentiehuizen; next rq_741 PROGRESS@750; rq_116 deferred
