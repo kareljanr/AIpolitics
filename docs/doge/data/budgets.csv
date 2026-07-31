@@ -13868,3 +13868,25 @@ bud_bru_initiatives_liq_130m_2026,brussels_gov,2026,130000000,,,budgeted,src_ccr
 bud_bru_local_powers_liq_757_6m_2026,brussels_gov,2026,757611000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,Pouvoirs locaux prog 40.041 liq 757.611 eng 784.298; tick706
 bud_bru_eu_funds_liq_130m_2026,brussels_gov,2026,129958000,,,budgeted,src_ccrek_bru_proprete_slrb_routes_2026,strong,EU projects prog 39.073 liq 129.958 eng 304.838; tick706
 bud_dual_slrb_vmsw_housing_2026,gg_belgium,2026,418258000,,,budgeted,src_dual_housing_waste_routes_tick706,strong,Dual BRU SLRB liq 418 vs VL VMSW/WAL SWL residual; not TE-additive; tick706
+bud_siamu_presented_272_1m_2026,siamu,2026,272084000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,SIAMU budget presented balanced 272.084m (reporté inflated); tick707
+bud_siamu_corrected_dep_163_4m_2026,siamu,2026,163420000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,SIAMU dep corrected 163.420 after strip reporté; tick707
+bud_siamu_corrected_rec_182_5m_2026,siamu,2026,182533000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,SIAMU rec corrected 182.533 after strip reporté; tick707
+bud_siamu_hidden_surplus_19_1m_2026,siamu,2026,19113000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,SIAMU true solde +19.113 hidden by reporté presentation; tick707
+bud_bps_presented_240_3m_2026,bps_bru,2026,240295000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,BPS budget presented balanced 240.295m (reporté inflated); tick707
+bud_bps_corrected_dep_107_3m_2026,bps_bru,2026,107290000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,BPS dep corrected 107.290 after strip reporté; tick707
+bud_bps_corrected_rec_129_5m_2026,bps_bru,2026,129456000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,BPS rec corrected 129.456 after strip reporté; tick707
+bud_bps_hidden_surplus_22_2m_2026,bps_bru,2026,22166000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,BPS true solde +22.166 hidden by reporté; tick707
+bud_frbrtc_rec_1657_6m_2026,frbrtc,2026,1657551000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,FRBRTC rec 1657.551m dual commune treasury; tick707
+bud_frbrtc_dep_1657_8m_2026,frbrtc,2026,1657842000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,FRBRTC dep 1657.842 solde -0.291; tick707
+bud_frbrtc_solde_neg_0_3m_2026,frbrtc,2026,-291000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,FRBRTC solde -0.291m; tick707
+bud_innoviris_presented_93_2m_2026,innoviris,2026,93157000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Innoviris presented 93.157 balanced; corr reporté -51.959; tick707
+bud_innoviris_corrected_41_2m_2026,innoviris,2026,41198000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Innoviris corrected 41.198 after reporté strip; tick707
+bud_perspective_hidden_surplus_6_2m_2026,perspective_bru,2026,6241000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,perspective.brussels corrected solde +6.241 after reporté; tick707
+bud_oaa1_reporte_solde_shift_225_2m_2026,brussels_gov,2026,225175000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,OAA1 aggregate solde shift -9.692 to +225.175 after reporté strip; tick707
+bud_oaa2_reporte_solde_shift_44_7m_2026,brussels_gov,2026,44692000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,OAA2 aggregate solde shift +33.804 to +78.496 (delta +44.692); tick707
+bud_bru_mission40_liq_1073_9m_2026,brussels_gov,2026,1073943000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Mission 40 Affaires intérieures liq 1073.943 eng 1100.353; tick707
+bud_bru_mission45_liq_739_3m_2026,brussels_gov,2026,739332000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Mission 45 Social-Santé liq 739.332 eng 738.391; tick707
+bud_bru_commissions_691_7m_2026,brussels_gov,2026,691675000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Commissions communautaires 45.001-003 CE=CL 691.675 dual; tick707
+bud_bru_measures_local_comm_neg4m_2026,brussels_gov,2026,-4000000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Trajectory measures pouvoirs locaux+commissions -4m 2026 path to +28 2029; tick707
+bud_bru_measures_securite_neg5m_2026,brussels_gov,2026,-5000000,,,budgeted,src_ccrek_bru_siamu_bps_reporte_2026,strong,Trajectory measures sécurité -5m 2026 path to -15 2028-29; tick707
+bud_dual_siamu_bps_fire_security_2026,gg_belgium,2026,272084000,,,budgeted,src_dual_fire_security_local_tick707,strong,Dual SIAMU/BPS presented fire-security stack residual; not TE-additive; tick707

@@ -8325,3 +8325,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_proprete_slrb_routes_l5 — ready (not sent)
 - Next: rq_698; progress@710 in 4 ticks; rq_116 deferred
 
+### 2026-08-01T18:30:00Z — tick 707
+- Unit: **rq_698** (FOI-adjacent dual residual — **BCR SIAMU/BPS reporté + FRBRTC + local/commissions**)
+- Found (primary CoA 2026_17 Annexe2 + Annexe1 + T9 + T1; image OCR of tables):
+  - **SIAMU** presented balanced **272.1**; corrected rec **182.5** dep **163.4** solde **+19.1** (reporté mask)
+  - **BPS** presented balanced **240.3**; corrected rec **129.5** dep **107.3** solde **+22.2**
+  - **FRBRTC** rec **1657.6** dep **1657.8** solde **-0.3** (dual guarantee class 1.3bn)
+  - OAA1 solde shift **-9.7 → +225.2** after strip reporté (CFP art13 sincerity); OAA2 **+33.8 → +78.5**
+  - Innoviris **93.2 → 41.2**; perspective.brussels hidden surplus **+6.2**
+  - Mission 40 eng **1100.4** / liq **1073.9**; commissions **691.7**; local powers **757.6**
+  - Trajectory measures local/comm **-4/-11/+23/+28**; sécurité **-5/-10/-15/-15**
+  - Dual VL brandweer / WAL security; Strong CoA; L5 FOI.
+- Wrote: budgets (+22); commitments (+6); leaderboard (+7); sources (+2); entities (+5); FOI draft **gap_bru_siamu_bps_reporte_local_l5**; rq_698=done; spawn **rq_699**; loop_state ticks=707
+- FOI opened: gap_bru_siamu_bps_reporte_local_l5 — ready (not sent)
+- Next: rq_699; progress@710 in 3 ticks; rq_116 deferred
+
