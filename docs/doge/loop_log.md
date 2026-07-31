@@ -8118,3 +8118,14 @@ Append-only. Each tick adds a short entry.
 - FOI: no new send; wave FOIs already ready (human only)
 - Next: prio5 **rq_682**; deferred **rq_116**; progress@700 in 10 ticks
 
+
+### 2026-08-01T14:30:00Z — tick 691
+- Unit: **rq_682** (FOI-adjacent dual residual — **VL ESR 8/9 T12–T13 debt/participations dual fed**)
+- Found (primary CoA 2026_28 §4 T12–T13):
+  - **T12 BA nets:** derden **−3587.2** (delta **−860.4**); deelnemingen **−1554.1** (delta **−1060.6**); gezinnen **−1319.8**; bedrijven **−804.8**; EU/buitenland **+511.5**; lokale **−389.6**; interne net **−10.8** (imbalances); **externe schuld +6907.1** (delta **+1412**)
+  - **T13 moves:** Fluvius **VEK/VAK +1100** (IB VAK **1560**); Defensiefonds **−65**/rebook; Lineas **13.3/20**; VMSW fin **−150** / woonmaatsch VEK **−29.4** VAK **−143** / basiskoten **+100**; VWF **+40.4/−34**; MVP **+350.3**; Lantis fin **382**; DWV **52.9/61.7**; EU subs **+94.8**; Agion/GO **+100**; PMV biotech **39.8**; externe schuld rec **1415.1**
+  - No vorderingensaldo impact; **Maastricht debt**. Dual fed nonfiscal/E1. Strong CoA; L5 FOI.
+- Wrote: budgets (+31); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_vl_ba2026_esr89_t12_l5**; rq_682=done; spawn **rq_683**; loop_state ticks=691
+- FOI opened: gap_vl_ba2026_esr89_t12_l5 — ready (not sent)
+- Next: rq_683; progress@700 in 9 ticks; rq_116 deferred
+

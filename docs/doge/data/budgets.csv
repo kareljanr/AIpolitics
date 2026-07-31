@@ -13544,3 +13544,34 @@ bud_oosterweel_build_986_7m_2026,lantis,2026,986700000,,,budgeted,src_ccrek_vl_b
 bud_vv_relance_rec_324_9m_2026,vlaanderen_gov,2026,324900000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Vlaamse Veerkracht rec BA 324.9m (IB 163.4); tick689
 bud_vv_relance_exp_800_1m_2026,vlaanderen_gov,2026,800100000,,,budgeted,src_ccrek_vl_ba2026_ruiter_t8,strong,Vlaamse Veerkracht exp BA 800.1m (IB 436.4); tick689
 bud_dual_ruiter_bac_2026,gg_belgium,2026,1415300000,,,budgeted,src_dual_ruiter_bac_tick689,strong,Dual VL ruiter 1.4bn class + BAC/RRI chain; not TE-additive; tick689
+bud_vl_esr89_krediet_bedrijven_804_8m,vlaanderen_gov,2026,-804800000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 kredietverlening bedrijven net -804.8m BA (delta +51.3 vs IB -856.1); tick691
+bud_vl_esr89_deelnemingen_1554_1m,vlaanderen_gov,2026,-1554100000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 deelnemingen bedrijven net -1554.1m (delta -1060.6 Fluvius-heavy); tick691
+bud_vl_esr89_krediet_gezinnen_1319_8m,vlaanderen_gov,2026,-1319800000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 kredietverlening gezinnen net -1319.8m (delta +44.2); tick691
+bud_vl_esr89_krediet_gez_bed_30_4m,vlaanderen_gov,2026,-30400000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 krediet gezinnen+bedrijven residual net -30.4m; tick691
+bud_vl_esr89_eu_buitenland_511_5m,vlaanderen_gov,2026,511500000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 krediet EU/buitenland net +511.5m (delta +109.7); tick691
+bud_vl_esr89_lokale_389_6m,vlaanderen_gov,2026,-389600000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 krediet lokale besturen net -389.6m; tick691
+bud_vl_esr89_derden_total_3587_2m,vlaanderen_gov,2026,-3587200000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 krediet/deelneming derden total net -3587.2m (delta -860.4); tick691
+bud_vl_esr89_interne_krediet_51m,vlaanderen_gov,2026,-51000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 interne kredietverlening net -51.0m; tick691
+bud_vl_esr89_interne_deel_40_2m,vlaanderen_gov,2026,40200000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 interne deelnemingen net +40.2m; tick691
+bud_vl_esr89_interne_total_10_8m,vlaanderen_gov,2026,-10800000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 interne krediet+deel net -10.8m (should be ~0; imbalances); tick691
+bud_vl_esr89_externe_schuld_6907_1m,vlaanderen_gov,2026,6907100000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T12 externe schuldfinanciering net +6907.1m (delta +1412); Maastricht debt path; tick691
+bud_vl_esr89_externe_schuld_delta_1412m,vlaanderen_gov,2026,1412000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Externe schuld BA vs IB +1412.0m; tick691
+bud_vwf_rec_up_40_4m_2026,vwf,2026,40400000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T13 VWF krediet gezinnen rec +40.4m; tick691
+bud_vwf_financing_minus_34m_2026,vwf,2026,-34000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T13 financing VWF -34m rec/VEK/VAK; tick691
+bud_vmsw_financing_minus_150m_2026,vlaanderen_gov,2026,-150000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T13 financing VMSW -150m all columns; tick691
+bud_vmsw_woonmaatsch_vek_minus_29_4m,vlaanderen_gov,2026,-29400000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,VMSW woonmaatschappijen VEK -29.4m (FS4 betaalkalender); tick691
+bud_vmsw_woonmaatsch_vak_minus_143m,vlaanderen_gov,2026,-143000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,VMSW woonmaatschappijen VAK -143m (loan auth -13pct / -130m class); tick691
+bud_vmsw_basiskoten_vak_100m_t13,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,VMSW basiskoten interest-free loans VAK +100m; tick691
+bud_lineas_vek_13_3m_2026,vlaanderen_gov,2026,13300000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Lineas restructure VEK +13.3m (haircut path); tick691
+bud_lineas_vak_20m_2026,vlaanderen_gov,2026,20000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Lineas VAK +20.0m; tick691
+bud_eu_subs_relance_repower_rec_94_8m,vlaanderen_gov,2026,94800000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,EU subsidies relance+RePowerEU rec +94.8m of EU/buitenland move; tick691
+bud_agion_go_energy_loan_vak_100m,vlaanderen_gov,2026,100000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Energieleningen Agion/GO! VAK +100m; tick691
+bud_dwv_voorschotten_52_9m_2026,vlaanderen_gov,2026,52900000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Voorschotten De Werkvennootschap rec/VEK 52.9m VAK 61.7m; tick691
+bud_lantis_financing_382m_2026,lantis,2026,382000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T13 Financiering Lantis kapitaal+rente 382m all columns; tick691
+bud_pmv_fluvius_1100m_2026,vlaanderen_gov,2026,1100000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,PMV Fluvius internal 1100m rec/VEK; BA VEK of IB VAK 1560 path; tick691
+bud_pmv_defensiefonds_t13_minus_65m,vlaanderen_gov,2026,-65000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,PMV Defensiefonds rec/VEK -65m vs VAK +500 rebook; tick691
+bud_pmv_biotech_relance_39_8m,vlaanderen_gov,2026,39800000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,PMV Biotech relance 39.8m on relance provisie (not pure ESR8/9); tick691
+bud_vl_externe_schuld_rec_1415_1m,vlaanderen_gov,2026,1415100000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,T13 externe schuldfinanciering rec move +1415.1m; tick691
+bud_vsb_fb_interne_imbalance_50m,vlaanderen_gov,2026,50000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Internal krediet imbalance ~50m VSB-FB (receipt not booked VSB); tick691
+bud_fluvius_vak_ib_1560m_path,vlaanderen_gov,2026,1560000000,,,budgeted,src_ccrek_vl_ba2026_esr89_t12,strong,Fluvius equity strengthen IB VAK 1.56bn multi-year; BA VEK 1.1bn; board Apr2026 talks; tick691
+bud_dual_vl_esr89_externe_6907m,gg_belgium,2026,6907100000,,,budgeted,src_dual_vl_esr89_fed_tick691,strong,Dual VL externe schuld 6.91bn class vs fed E1/nonfiscal; not TE-additive; tick691

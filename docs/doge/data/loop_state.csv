@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T14:15:00Z,rq_681,690,no,tick690 progress@690 coverage+waste top10; dual residual wave 681-689; next rq_682; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T14:30:00Z,rq_682,691,no,tick691 VL ESR8/9 T12 derden -3.59 externe +6.91 Fluvius 1.1 dual fed; next rq_683; progress@700 in 9; rq_116 deferred
