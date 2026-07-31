@@ -16030,3 +16030,15 @@ bud_debt_interest_core_stack_2026,fod_debt,2026,12490339000,,,derived,src_kamer_
 bud_debt_interest_plus_costs_2026,fod_debt,2026,12705432000,,,derived,src_kamer_debt_1281_019_2026,strong,Interest core + FX diff + commissions + tax + buyback cost ~12.705bn 2026; tick765
 bud_debt_principal_plus_purchases_2026,fod_debt,2026,38430155000,,,derived,src_kamer_debt_1281_019_2026,strong,Principal repay + securities purchases ~38.43bn 2026 financing roll; tick765
 bud_dual_debt_gg_interest_2026,gg_belgium,2026,12490339000,,,derived,src_dual_debt_interest_tick765,strong,Dual federal debt interest core 12.49bn vs GG EDP interest 14.28bn 2025 class; not TE-additive; tick765
+bud_eu_gni_bni_ba_52_40_2024,fod_eu_financing,2024,3402089000,,,outturn,src_kamer_eu_1281_020_2026,strong,BA 52.40.10.35.10.10 BNI-bijdrage 3402089 kEUR 2024 eng=liq; Kamer 1281/020; tick766
+bud_eu_gni_bni_ba_52_40_2025,fod_eu_financing,2025,3835076000,,,budgeted,src_kamer_eu_1281_020_2026,strong,BA 52.40.10.35.10.10 BNI-bijdrage 3835076 kEUR 2025 eng=liq; Kamer 1281/020; tick766
+bud_eu_gni_bni_ba_52_40_2026,fod_eu_financing,2026,4994373000,,,budgeted,src_kamer_eu_1281_020_2026,strong,BA 52.40.10.35.10.10 BNI-bijdrage 4994373 kEUR 2026 eng=liq; Kamer 1281/020; tick766
+bud_eu_gni_bni_ba_52_40_2027,fod_eu_financing,2027,5907776000,,,budgeted,src_kamer_eu_1281_020_2026,strong,BA 52.40.10.35.10.10 BNI-bijdrage 5907776 kEUR 2027 eng=liq; Kamer 1281/020; tick766
+bud_eu_gni_bni_ba_52_40_2028,fod_eu_financing,2028,6183661000,,,budgeted,src_kamer_eu_1281_020_2026,strong,BA 52.40.10.35.10.10 BNI-bijdrage 6183661 kEUR 2028 eng=liq; Kamer 1281/020; tick766
+bud_eu_gni_bni_ba_52_40_2029,fod_eu_financing,2029,6224483000,,,budgeted,src_kamer_eu_1281_020_2026,strong,BA 52.40.10.35.10.10 BNI-bijdrage 6224483 kEUR 2029 eng=liq; Kamer 1281/020; tick766
+bud_eu_gni_delta_2025_26,fod_eu_financing,2026,1159297000,,,budgeted,src_kamer_eu_1281_020_2026,strong,GNI BNI +1159.3m 2025->2026 (3835.1->4994.4); MC 22 Sep 2025; tick766
+bud_eu_gni_delta_2026_27,fod_eu_financing,2027,913403000,,,budgeted,src_kamer_eu_1281_020_2026,strong,GNI BNI +913.4m 2026->2027 (4994.4->5907.8); multi-year path; tick766
+bud_eu_gni_delta_2026_29,fod_eu_financing,2029,1230110000,,,budgeted,src_kamer_eu_1281_020_2026,strong,GNI BNI +1230.1m 2026->2029 path to 6224.5m; tick766
+bud_eu_gni_path_end_2029,fod_eu_financing,2029,6224483000,,,budgeted,src_kamer_eu_1281_020_2026,strong,End-path BNI 6224.483m 2029; tick766
+bud_dual_eu_gni_vs_total_financing_2026,gg_belgium,2026,4994373000,,,derived,src_dual_eu_gni_expose_tick766,strong,Dual GNI 4.994bn within EU financing total 9.145bn (customs 3.402 VAT 0.748); not TE-additive; tick766
+bud_eu_section52_only_gni_2026,fod_eu_financing,2026,4994373000,,,budgeted,src_kamer_eu_1281_020_2026,strong,Section 52 expenditure-side only BNI; TOR customs/VAT on receipts side not here; tick766

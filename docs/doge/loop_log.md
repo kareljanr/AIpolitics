@@ -9161,3 +9161,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +19; commitments +8; leaderboard +7; sources +2; entity fod_debt; foi_queue gap_debt_interest_implicit_rate_l5 ready; FOI draft; rq_756=done; rq_757 open; ticks=765
 - FOI opened: gap_debt_interest_implicit_rate_l5 (ready, not sent)
 - Next: rq_757 OAP 022/023 or EU financing 020; progress@770 in 5
+
+## Tick 766 — 2026-08-03T02:00:00Z
+
+- Unit: **rq_757** (FOI-adjacent residual — **Kamer DOC 56 1281/020 EU financing / BNI fourth own resource**)
+- Found (primary Kamer 56K1281020.pdf, 3p, kEUR eng=liq same row):
+  - Section **52** FOD Financiën EU financing; OA **40**; Prog **40/1** Vierde Middelenbron only
+  - BA **52.40.10.35.10.10** BNI-bijdrage: **2024 €3.402bn · 2025 €3.835bn · 2026 €4.994bn · 2027 €5.908bn · 2028 €6.184bn · 2029 €6.224bn**
+  - YoY **+€1.159bn** 2025→2026; path **+€1.230bn** 2026→2029 end
+  - Basis: **Monitoringcomité 22 Sep 2025** + EU draft budget 2026
+  - Dual: exact match exposé Table6 GNI; total EU financing still **~€9.145bn** (customs+VAT on receipts side — not in this expenditure justification)
+  - Plastic own resource + TOR cash recon + regional 500m path residual FOI
+- Wrote: entity fod_eu_financing; budgets +12; commitments +6; leaderboard +7; sources +2; FOI draft **gap_eu_gni_plastic_tor_mc_l5** prio8 ready; rq_757=done; spawn **rq_758**; ticks=766
+- FOI: ready only — **do not send**
+- Next: rq_758 Santé 1281/014 or POD MI 1281/017 or BZ 1281/007; progress@770 in 4; rq_116 deferred
+
