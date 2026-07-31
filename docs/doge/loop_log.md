@@ -8969,3 +8969,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_regie_dbfm_facility_residual_l5 — ready prio7 (not sent); maint FOI notes partial fill
 - Next: rq_743; progress@760 in 9; rq_116 deferred
 
+
+### 2026-08-02T13:15:00Z — tick 752
+- Unit: **rq_743** (FOI-adjacent residual — **Regie invest dots 66.11 + Masterplan III Merksplas + transit dual Justice**)
+- Found (primary Kamer DOC 56 1281/022 residual invest deepen):
+  - **Invest capital dots art66.11 total:** 2024 **€156.013m** · 2025 **€204.222m** · 2026 **€177.039m**
+  - **/001 main invest 2026 €132.565m:** norm base **€77.800m** + Merksplas **€3.435m** + NOR **€29.306m** + Möbius **€23.500m** + Vottem **€2.0m** + PBM **€0.525m** − maint reclass **€4.0m**
+  - **Masterplan III classic (CM 18 Nov 2016):** Merksplas renovation **€155.6m** (path peak **€53.2m** 2029–30; 2026 **€3.43m**) · Ruiselede+Jamioulx+Ieper **€25.7m**
+  - **Fit-outs:** Networks NOR **€45.639m** (2026 **€29.306m**) · Möbius Tower **€33.534m** (2026 **€23.5m**, replace North Gate leases)
+  - **Transit envelope CM Oct2021 €120m:** FINTO→North Galaxy path **€8.0m** · incentives **€11.5m** · residual project list FOI
+  - **Vottem Fed Police** phase2 path **€32.0m** (2026 **€2.0m**); royal domains invest **€0.945m**; first-fitout /007 **€20.339m**
+  - Dual: classic MP3 vs DBFM Regie fees **€86.9m/yr** + Justice redev (not TE-additive)
+- Wrote: budgets (+43); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_regie_invest_mp3_l5**; rq_743=done; spawn **rq_744**; ticks=752
+- FOI opened: gap_regie_invest_mp3_l5 — ready prio8 (not sent)
+- Next: rq_744; progress@760 in 8; rq_116 deferred
+

@@ -15487,3 +15487,46 @@ bud_regie_rents_save_mr_25m_2026,regie_gebouwen,2026,-25000000,,,budgeted,src_ka
 bud_regie_rents_gap_dot_vs_need_2026,regie_gebouwen,2026,7677814,,,derived,src_kamer_regie_rents_l5_tick751,strong,Need 499.891m minus dot 492.213m = 7.678m absorption gap; tick751
 bud_dual_regie_justice_dbfm_maint_2026,gg_belgium,2026,12440979,,,derived,src_dual_regie_dbfm_maint_tick751,strong,FIRST public Regie maint stack 12.44m dual FOI gap_dbfm_maint; tick751
 bud_dual_regie_justice_dbfm_full_2026,gg_belgium,2026,86875749,,,derived,src_dual_regie_dbfm_maint_tick751,strong,Regie prisons 86.88m dual Justice BA121135 46.6m different components; tick751
+bud_regie_invest_dots_tot_2024,regie_gebouwen,2024,156012557,,,outturn,src_kamer_regie_invest_tick752,strong,Art66.11 invest dots total 156012557 2024; tick752
+bud_regie_invest_dots_tot_2025,regie_gebouwen,2025,204221750,,,budgeted,src_kamer_regie_invest_tick752,strong,Art66.11 invest dots total 204221750 2025; tick752
+bud_regie_invest_dots_tot_2026,regie_gebouwen,2026,177039000,,,budgeted,src_kamer_regie_invest_tick752,strong,Art66.11 invest dots total 177039000 2026; tick752
+bud_regie_invest_main_001_2024,regie_gebouwen,2024,93399000,,,outturn,src_kamer_regie_invest_tick752,strong,66.11.00/001 main invest 93399000 2024; tick752
+bud_regie_invest_main_001_2025,regie_gebouwen,2025,130764000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/001 130764000 2025; tick752
+bud_regie_invest_main_001_2026,regie_gebouwen,2026,132565000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/001 132565000 2026 (norm 77.8 + Merksplas/transit projects); tick752
+bud_regie_invest_norm_base_2026,regie_gebouwen,2026,77799651,,,budgeted,src_kamer_regie_invest_tick752,strong,Normed invest base after technicals 77799651 before Merksplas/transit adds; tick752
+bud_regie_invest_merksplas_add_2026,regie_gebouwen,2026,3435000,,,budgeted,src_kamer_regie_invest_tick752,strong,Merksplas add +3435000 in 001 path 2026; tick752
+bud_regie_invest_networks_nor_2026,regie_gebouwen,2026,29305599,,,budgeted,src_kamer_regie_invest_tick752,strong,Networks NOR fit-out 29305599 2026 of 45.639m total; tick752
+bud_regie_invest_mobius_2026,regie_gebouwen,2026,23500000,,,budgeted,src_kamer_regie_invest_tick752,strong,Mobius Tower fit-out 23500000 2026 of 33.534m total; tick752
+bud_regie_invest_vottem_2026,regie_gebouwen,2026,2000000,,,budgeted,src_kamer_regie_invest_tick752,strong,Vottem police masterplan phase2 2000000 2026; tick752
+bud_regie_invest_pbm_2026,regie_gebouwen,2026,525000,,,budgeted,src_kamer_regie_invest_tick752,strong,PMR/accessibility action 525000 2026; tick752
+bud_regie_invest_maint_reclass_2026,regie_gebouwen,2026,-4000000,,,budgeted,src_kamer_regie_invest_tick752,strong,Maint redistribution -4000000 from invest 001 2026; tick752
+bud_regie_royal_domains_invest_2026,regie_gebouwen,2026,945000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/006 royal domains invest 945000 2026 (palace Laken crypt); tick752
+bud_regie_first_fitout_007_2024,regie_gebouwen,2024,39390000,,,outturn,src_kamer_regie_invest_tick752,strong,66.11.00/007 first fit-out leased bldgs 39390000 2024; tick752
+bud_regie_first_fitout_007_2025,regie_gebouwen,2025,37304000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/007 37304000 2025; tick752
+bud_regie_first_fitout_007_2026,regie_gebouwen,2026,20339000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/007 20339000 2026 after transit reclass; tick752
+bud_regie_invest_008_2026,regie_gebouwen,2026,2480000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/008 2480000 2026 residual label FOI; tick752
+bud_regie_invest_009_2024,regie_gebouwen,2024,18346000,,,outturn,src_kamer_regie_invest_tick752,strong,66.11.00/009 18346000 2024; tick752
+bud_regie_invest_009_2025,regie_gebouwen,2025,26825000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/009 26825000 2025; tick752
+bud_regie_invest_009_2026,regie_gebouwen,2026,20710000,,,budgeted,src_kamer_regie_invest_tick752,strong,66.11.00/009 20710000 2026 residual label FOI; tick752
+bud_regie_merksplas_envelope_155_6m,regie_gebouwen,2016,155600000,,,commitment,src_kamer_regie_invest_tick752,strong,CM 18Nov2016 Merksplas renovation envelope 155.6m classic Regie (not DBFM); tick752
+bud_regie_merksplas_path_tot,regie_gebouwen,2030,155099975,,,commitment,src_kamer_regie_invest_tick752,strong,Merksplas liq path sum 155099975 ~envelope; tick752
+bud_regie_merksplas_liq_2026,regie_gebouwen,2026,3434847,,,budgeted,src_kamer_regie_invest_tick752,strong,Merksplas liq 2026 3434847 (infra 756181 + works 2678666); tick752
+bud_regie_merksplas_liq_2027,regie_gebouwen,2027,24396272,,,budgeted,src_kamer_regie_invest_tick752,strong,Merksplas liq 2027 24396272 spike; tick752
+bud_regie_merksplas_liq_2029,regie_gebouwen,2029,53230961,,,budgeted,src_kamer_regie_invest_tick752,strong,Merksplas liq 2029 53230961 peak phase; tick752
+bud_regie_merksplas_liq_2030,regie_gebouwen,2030,53230961,,,budgeted,src_kamer_regie_invest_tick752,strong,Merksplas liq 2030 53230961; tick752
+bud_regie_mp3_ruiselede_jamioulx_ieper_env,regie_gebouwen,2016,25700000,,,commitment,src_kamer_regie_invest_tick752,strong,MP3 Ruiselede+Jamioulx+Ieper total path 25700000; tick752
+bud_regie_mp3_ruiselede_tot,regie_gebouwen,2028,8061000,,,budgeted,src_kamer_regie_invest_tick752,strong,Ruiselede extension path tot 8061000 (liq 2028); tick752
+bud_regie_mp3_jamioulx_tot,regie_gebouwen,2029,8061000,,,budgeted,src_kamer_regie_invest_tick752,strong,Jamioulx extension path tot 8061000 (liq 2029); tick752
+bud_regie_mp3_ieper_tot,regie_gebouwen,2023,9578000,,,budgeted,src_kamer_regie_invest_tick752,strong,Ieper extension path tot 9578000 (mostly 2022-23); tick752
+bud_regie_vottem_path_tot,regie_gebouwen,2030,31997163,,,commitment,src_kamer_regie_invest_tick752,strong,Vottem Fed Police phase2 path tot 31997163 (base 23.37 + transit 8.62); tick752
+bud_regie_vottem_phase2_base_tot,regie_gebouwen,2030,23372350,,,commitment,src_kamer_regie_invest_tick752,strong,Vottem phase2 base path 23372350; tick752
+bud_regie_vottem_transit_tot,regie_gebouwen,2027,8624813,,,commitment,src_kamer_regie_invest_tick752,strong,Vottem transit invest add path 8624813; tick752
+bud_regie_networks_nor_fitout_tot,regie_gebouwen,2027,45639206,,,commitment,src_kamer_regie_invest_tick752,strong,Networks NOR fit-out total 45639206 2023-27; tick752
+bud_regie_mobius_fitout_tot,regie_gebouwen,2027,33533924,,,commitment,src_kamer_regie_invest_tick752,strong,Mobius Tower fit-out total 33533924 replace North Gate leases; tick752
+bud_regie_transit_envelope_120m,regie_gebouwen,2021,120000000,,,commitment,src_kamer_regie_invest_tick752,strong,CM 20Oct2021 transit invest envelope 120m (Masterplan Brussels 3 etc); tick752
+bud_regie_finto_north_galaxy_tot,regie_gebouwen,2026,7999639,,,commitment,src_kamer_regie_invest_tick752,strong,FPS Finance FINTO to North Galaxy path tot 7999639; tick752
+bud_regie_finto_north_galaxy_2026,regie_gebouwen,2026,818912,,,budgeted,src_kamer_regie_invest_tick752,strong,FINTO/North Galaxy 818912 2026; tick752
+bud_regie_transit_incentives_tot,regie_gebouwen,2026,11514440,,,commitment,src_kamer_regie_invest_tick752,strong,Transit incentives path tot 11514440; tick752
+bud_regie_transit_incentives_2026,regie_gebouwen,2026,2483728,,,budgeted,src_kamer_regie_invest_tick752,strong,Transit incentives 2483728 2026; tick752
+bud_dual_regie_invest_dbfm_2026,gg_belgium,2026,309904000,,,derived,src_dual_regie_invest_mp3_tick752,strong,Dual Regie invest dots 177m + DBFM alt 103m class ~280m not additive with Justice redev; tick752
+bud_dual_mp3_classic_vs_dbfm,gg_belgium,2026,155600000,,,derived,src_dual_regie_invest_mp3_tick752,strong,Dual classic MP3 Merksplas 155.6m vs DBFM prisons 3.83bn/25y class; tick752

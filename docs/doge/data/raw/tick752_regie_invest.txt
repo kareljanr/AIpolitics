@@ -1,0 +1,3943 @@
+
+===== PAGE 38 =====
+1281/022DOC 56
+38
+--------------------
+Subsidie 2026: 1.099.000
+46.10.00/100 - Inkomensoverdrachten binnen een
+institutionele groep (diverse ontvangsten)
+Berekeningsmethode van de ontvangst in 2026
+Bedrag 2025 0
+Realisatie 2024 0
+Realisatie 2023 393.111
+Raming 2026 211.113
+--------------------
+Subside 2026 : 1.099.000
+46.10.00/100 - Transferts de revenus à l'intérieur d'un
+groupe institutionnel (recettes diverses)
+Méthode de calcul de la recette en 2026
+Montant 2025 0
+Realisation 2024 0
+Realisation 2023 393.111
+Estimation 2026 211.113
+ARTIKEL 66 - Kapitaaloverdrachten binnen een
+institutionele groep
+ECONOMISCHE CODE 66.11.00
+Investeringsbijdragen van de institutionele
+overheid
+Synthesetabel
+ARTICLE 66 - Transferts en capital à l’intérieur d’un
+groupe institutionnel
+CODE ECONOMIQUE 66.11.00
+Aides à l’investissement du pouvoir institutionnel
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+66.11.00
+66.11.00/001 CF_00 lim 93.399.000 130.764.000 132.565.000
+66.11.00/006 CF_00 lim 1.033.000 1.052.000 945.000
+66.11.00/007 CF_00 lim 39.390.000 37.304.000 20.339.000
+66.11.00/008 CF_00 lim 1.897.656 2.597.000 2.480.000
+66.11.00/009 CF_00 lim 18.346.000 26.825.000 20.710.000
+66.11.00/010 CF_00 lim 1.609.009 4.694.008 0
+66.11.00/011 CF_00 lim 337.892 985.742 0
+Totaal-total 156.012.557 204.221.750 177.039.000
+66.11.00/001 - Dotatie voor investeringen
+(B.A. 19.55.21.61.41.03 van de AUB)
+a) Aard van de ontvangst
+Krediet door de Staat ter beschikking gesteld van de
+Regie der Gebouwen en bestemd voor de
+aanzuivering:
+1) van verbintenissen voor investeringswerken
+die in vorige begrotingsjaren door de Regie der
+Gebouwen werden aangegaan ;
+2) van nieuwe verbintenissen die gedurende het
+begrotingsjaar 202 6 zullen aangegaan worden voor
+investeringsuitgaven.
+66.11.00/001 - Dotation d’investissements
+(A.B. 19.55.21.61.41.03 du BGD)
+a) Nature de la recette
+Crédit mis à la disposition de la Régie des Bâtiments par
+l’Etat et destiné à l’apurement :
+1) des obligations pour des travaux d’investissement
+contractées par la Régie des Bâtiments dans les
+années budgétaires antérieures ;
+2) des nouvelles obligations à contracter au cours de
+l’année budgétaire 202 6 pour des dépenses
+d’investissement.
+
+===== PAGE 39 =====
+39
+1281/022DOC 56
+Dit ontvangstenartikel is de tegenhanger in de
+begroting van de Regie der Gebouwen van de dotatie
+ingeschreven op B.A. 19 .55.21.61.41.03 van de
+Algemene Uitgaven-begroting.
+b) Berekeningsmethode van de ontvangst in 2026
+1. Genormeerde begroting
+Dotatie 2025: 130.764.000
+Technische correcties:
+Merksplas: -517.000
+Ruiselede, Jamioulx en Ieper: -850.000
+Vottem -7.474.000
+Vottem: -8.624.813
+Energieauditen -2.719.331
+Networks NØR -18 155.046
+Möbius Tower : -15 622.575
+--------------------
+Basis 2026 : 76.801.235
+Index 1,3% 998.416
+--------------------
+Genormeerde dotatie 2026 77.799.651
+Merksplas: 3.435.000
+Transitie-investeringen
+PBM 525.000
+Vottem: 2.000.000
+Networks NØR 29.305.599
+Möbius Tower : 23.500.000
+herverdeling onderhoud -4.000.000
+----------------
+Dotatie 2026 (afronding) 132.565.000
+Cet article de recettes est le pendant, dans le budget de
+la Régie des Bâtiments, de la dotation inscrite sur l’A.B.
+19.55.21.61.41.03 du Budget général des Dépenses.
+b) Méthode de calcul de la recette en 2026
+1. Budget normé
+Dotation 2025 : 130.764.000
+Corrections techniques :
+Merksplas: -517.000
+Ruiselede, Jamioulx et Ypres: -850.000
+Vottem -7.474.000
+Vottem: -8.624.813
+Etudes énergétiques -2.719.331
+Networks NØR -18 155.046
+Möbius Tower : -15 622.575
+--------------------
+Base 2026 : 76.801.235
+Index 1,3% 998.416
+--------------------
+Dotation 2026 normée 77.799.651
+Merksplas: 3.435.000
+Investissements de transition
+PMR 525.000
+Vottem: 2.000.000
+Networks NØR 29.305.599
+Möbius Tower : 23.500.000
+Redistribution entretien -4.000.000
+------------------
+Dotation 2026 (arrondie) 132.565.000
+2. Gevangenissen: masterplan III
+Het “Masterplan gevangenissen III”, goedgekeurd door
+de Ministerraad op 18/11/2016, bevat vier projecten die
+de Regie der Gebouwen moet realiseren in eigen
+beheer (en dus niet met een “alternatieve financiering):
+- renovatie van de gevangenis van Merksplas;
+- uitbreiding van het PLC van Ruiselede;
+- uitbreiding van de instelling voor gedetineerden van
+Jamioulx;
+- uitbreiding van de gevangenis van Ieper.
+Voor deze projecten heeft de Ministerraad een
+bijkomende dotatie toegekend.
+2.1. Merksplas
+Voor de renovatie van de gevangenis van Merksplas
+heeft de Ministerraad van 18/11/2016 een totaal budget
+van 155 .600.000 euro goedgekeurd, waarbij deze
+middelen bijkomend in een aparte investerings -
+enveloppe worden voorzien.
+De werken zullen uitgevoerd worden in vijf fasen,
+gespreid over 8 tot 10 jaar. Het traject werd vastgelegd
+bij de begrotingscontrole 2017, maar uiteraard zal dit in
+2. Prisons : masterplan III
+Le « Masterplan prisons III », approuvé par le Conseil
+des Ministres du 18/11/2016, contient quatre projets à
+réaliser par la Régie des Bâtiments en gestion propre
+(c’est-à-dire sans financement alternatif) :
+- rénovation de la prison de Merksplas ;
+- extension du CP de Ruiselede ;
+- extension de l’établissement pour détenus de
+Jamioulx ;
+- extension de la prison d’Ypres.
+Le Conseil des Ministres a accordé une dotation
+supplémentaire pour ces projets.
+2.1. Merksplas
+Pour la rénovation de la prison de Merksplas, le Conseil
+des Ministres du 18/11/2016 a approuvé un budget total
+de 155.600.000 euros, avec des moyens
+supplémentaires à prévoir dans une enveloppe
+d’investissements distincte.
+Les travaux seront exécutés en cinq phases, étalées sur
+8 à 10 ans. Le trajet a été déterminé lors du contrôle
+budgétaire 2017, mais l’échelle temporelle évoluera dans
+
+===== PAGE 40 =====
+1281/022DOC 56
+40
+de loop der jaren nog evolueren en zal dit jaarlijks
+bijgesteld moeten worden.
+De huidige planning voorziet de volgende
+vereffeningskalender:
+le courant des années, de sorte qu’elle devra être mise
+au point annuellement.
+La planification actuelle prévoit le calendrier de
+liquidation suivant :
+Vereffeningen Infrastructuur Studies Werken fase 1-2 Totaal
+Liquidations Infrastructure Etudes Travaux phase 1-
+2 Total
+<2022 127.000 1.367.000 1.494.000
+2022 489.843 489.843
+2023 114.139 1.524.114 1.638.253
+2024 211.408 829.676 1.041.084
+2025 269.203 565.040 834.243
+2026 756.181 2.678.666 3.434.847
+2027 1.317.868 23.078.404 24.396.272
+2028 383.091 14.926.420 15.309.511
+2029 841.215 52.389.746 53.230.961
+2030 841.215 52.389.746 53.230.961
+Tot. 1.477.931 10.837.728 142.784.316 155.099.975
+2.2. Ruiselede, Jamioulx, Ieper (Ministerraad van
+18/11/2016)
+De huidige planning voorziet de volgende
+vereffeningskalender:
+2.2. Ruiselede, Jamioulx, Ypres (Conseil des mini stres
+du 18/11/2016)
+La planification actuelle prévoit le calendrier de
+liquidation suivant :
+Vereffeningen
+Liquidations Ruiselede Jamioulx Ieper Tot.
+<2022 0 0 0 0
+2022 0 0 2.049.000 2.049.000
+2023 0 0 7.526.000 7.526.000
+2024 0 0 3.000 3.000
+2025 0 0 0 0
+2026 0 0 0 0
+2027 0 0 0 0
+2028 8.061.000 0 0 8.061.000
+2029 0 8.061.000 0 8.061.000
+2030 0 0 0 0
+Tot. 8.061.000 8.061.000 9.578.000 25.700.000
+
+===== PAGE 41 =====
+41
+1281/022DOC 56
+3. Vottem, masterplan Federale Politie
+De Ministerraad van 24/07/2015 heeft het masterplan
+voor de diensten van de Federale Politie van Luik
+goedgekeurd. Al deze diensten zullen gehergroepeerd
+worden op de site van Vottem.
+Dit project zal uitgevoerd worden in twee fasen.
+De eerste fase (noodcentrale 112 en laboratorium)
+wordt volledig aangerekend op de reguliere
+investeringsenveloppe van de Regie der Gebouwen.
+Voor de tweede fase (hergroepering van alle andere
+diensten) heeft de Minister van Begroting op
+17/07/2015 bes list dat de investeringsdotatie van de
+Regie wordt verhoogd met 50% van de kostprijs van de
+werken, gespreid volgens het ritme van de
+vereffeningen.
+Bovendien werd een bijkomende dotatie toegekend in
+het kader van de transitie -investeringen (CM
+10/12/2021).
+De huidige planning voorziet de volgende
+vereffeningskalender:
+3. Vottem, masterplan Police fédérale
+Le Conseil des Ministres du 24/07/2015 a approuvé le
+masterplan pour les services de la Police fédérale de
+Liège. Le plan vise à regrouper l’ensemble de ces
+services sur le site de Vottem.
+Ce projet sera phasé en deux parties.
+La première phase (centre d’appels d’urgence et
+laboratoires) sera entièrement imputée sur l’enveloppe
+d’investissement régulière.
+Pour la deuxième phase (regroupement de tous les
+autres services) le Ministre du Budget a décidé, le
+17/07/2015, que la dotation d’investissement de la Régie
+sera augmentée de 50% du coût des travaux, étalé sur
+les années budgétaires suivant le rythme des
+liquidations.
+En outre, une dotation supplémentaire a été accordée
+dans le cadre des investissements de transition (CM
+10/12/2021).
+La planification actuelle prévoit le calendrier de
+liquidation suivant :
+Dotation
+supplémentaire
+accordée
+investissements de transition
+Vereffeningen Bijkomende dotatie
+toegekend transitie-investeringen Tot.
+Liquidations Phase 2 Phase 2
+2026 2.000.000 2.000.000
+2027 7.474.189 6.624.813 14.099.002
+2028 5.510.161 5.510.161
+2029 5.194.000 5.194.000
+2030 5.194.000 5.194.000
+Tot. 23.372.350 8.624.813 31.997.163
+Het krediet nodig in 2026 wordt aangepast : 2.000.000
+euro.
+Ook de meerjarenraming wordt aangepast.
+4. Transitie-investeringen
+4.1. PBM
+De Regie der Gebouwen wil een voorbeeldfunctie
+vervullen bij de verbetering van de toegankelijkheid van
+de gebouwen die zij beheert. In uitvoering van het
+"Federaal plan gehandicapten " zal zij een inventaris
+maken van de toegankelijkheid van de federale
+gebouwen en een actieplan opstellen om de
+dringendste behoeften te identificeren en aan te
+pakken.
+Enerzijds zal de Regie meer rekening houden met de
+toegankelijkheid van gebouwen voor personen met een
+handicap:
+Le crédit nécessaire en 202 6 est adapté : 2.000.000
+euros.
+L'estimation pluriannuelle est également ajustée.
+4. Investissements de transition
+4.1. PMR
+La Régie des Bâtiments entend jouer un rôle exemplaire
+pour améliorer l’accessibilité des bâtiments qu’elle gère.
+En exécution du "plan fédéral handicap", la Régie
+travaillera à l’élaboration d’un inventaire de l'accessibilité
+des bâtiments fédéraux assort i d’un plan d'action afin
+d’identifier et répondre aux besoins les plus urgents.
+D’une part, la Régie veille ra à mieux prendre en compte
+l’accessibilité des bâtiments aux personnes porteuses de
+handicap :
+
+===== PAGE 42 =====
+1281/022DOC 56
+42
+- via de formele aanwijzing van referentie -ambtenaren
+binnen de Regie en hun passende opleiding;
+- via de digitalisering van diagnosefiche s voor de
+toegankelijkheid van gebouwen;
+- door het sluiten van een overheidsopdracht voor het
+opstellen van een globale diagnose op basis van
+deze diagnosefiches.
+Anderzijds z al de R egie dat de meest relevante en
+actuele aanbevelingen voor de toegankelijkheid van
+gebouwen voor personen met beperkte mobiliteit
+integreren :
+- in de renovatie van bestaande gebouwen , op basis
+van de aanbevelingen in de diagnosefiche en in
+eerste instantie gericht op enkele testgebouwen;
+- in nieuwbouw projecten, op basis van een door de
+Regie der Gebouwen opgestelde gids (die rekening
+houdt met de geldende regionale regelgeving en
+deze aanvult met strengere normen);
+- in beide gevallen door het sluiten van een
+overheidsopdracht voor de begeleiding bij de
+uitwerking van het project en de controle op de
+uitvoering.
+Tenslotte zal bijzondere aandacht worden besteed aan
+de kantoren van DG Personen met een handicap, ten
+einde aanpassingen te kunnen doen die een voorbeeld
+kunnen zijn om personen met een handicap te
+ontvangen.
+Voor deze drie actiepunten is een krediet voorzien, als
+volgt verdeeld:
+2025: 518.209 euro
+2026: 525.000 euro
+2027: 525.000 euro
+5.2. Vottem – Fase II – werken vaste deel
+Cf. punt 4
+4.3. Networks NØR
+Bepaalde federale diensten worden gehergroepeerd in
+het gebouw "Networks NØR", dat de Regie eind 2021
+heeft aangekocht.
+De inrichting van het nieuw gebouw zal in totaal
+45.639.206 euro kosten, als volgt gespreid:
+2023: 247.724 euro
+2024: 998 633 euro
+2025 : 512 148 euro
+2026 : 29.305.599 euro
+2027 : 14.575.102 euro
+------------------------
+Tot.: 45.639.206 euro
+4.4. Möbius Tower
+Eind 2021 heeft de Regie der Gebouwen het gebouw
+"Möbius Tower" gekocht, dat onderdak zal bieden aan
+- via la désignation formelle d’agents référents au sein de
+la Régie et via leur formation adéquate ;
+- via la digitalisation d’une fiche de diagnostic de
+l’accessibilité des bâtiments ;
+- via la conclusion d’un marché public pour
+l’établissement d’un diagnostic sur la base de ladite
+fiche ;
+D’autre part, la Régie veille ra à intégrer les
+recommandations les plus pertinentes et actuelles pour
+l’accessibilité des bâtiments aux personnes à mobilité
+réduite :
+- lors de la rénovation du patrimoine existant, sur la base
+des recommandations reprises dans la fiche de
+diagnostic, en ciblant dans un premier temps quelques
+bâtiments-tests ;
+- lors de la construction de nouveau x bâtiments, sur la
+base d'un guide établi par la Régie des bâtiments (qui
+tient compte des règlementations régionales
+applicables en les complétant de normes plus strictes) ;
+- dans les deux cas, via la conclusion d’un marché public
+de guidance dans la définition du projet et d ans l e
+contrôle de l’exécution.
+Enfin une attention particulière sera apportée aux
+antennes de la DG Personnes handicapé es afin de faire
+de celles -ci des vitrines de l’exemplarité en matière
+d’aménagement pour l’accueil de personnes en situation
+de handicap.
+Dans la période 2025 - 2027 un crédit est prévu pour ces
+trois points d'action, réparti comme suit:
+2025: 518.209 euros
+2026: 525.000 euros
+2027: 525.000 euros
+4.2. Vottem – Phase II – travaux tranche ferme
+Cf. point 4
+4.3. Networks NØR
+Certains services fédéraux seront regroupés dans
+l'immeuble "Networks NØR", a cquis par la Régie fin
+2021.
+Le coût d'aménagement du nouveau bâtiment s'élèvera
+à 45.639.206 euros, réparti comme suit :
+2023: 247.724 euros
+2024: 998 633 euros
+2025 : 512 148 euros
+2026 : 29.305.599 euros
+2027 : 14.575.102 euros
+------------------------
+Tot.: 45.639.206 euros
+4.4. Möbius Tower
+Fin 2021 la Régie des Bâtiments a acheté l'immeuble
+"Möbius Tower", qui sera utilisé pour l'hébergement de
+
+===== PAGE 43 =====
+43
+1281/022DOC 56
+diensten die momenteel gehuisvest zijn in de gehuurde
+gebouwen North Gate I en II. De inrichting van het
+nieuw gebouw zal in totaal 33.533.924 euro kosten, als
+volgt gespreid:
+2023: 67.000 euro
+2024: 101.098 euro
+2025 : 2.633.130 euro
+2026 : 23.500.000 euro
+2027 : 7.232.696 euro
+------------------------
+Tot.: 33.533.924 euro
+services actuellement logés dans les bâtiments loués
+North Gate I et II. Le coût d'aménagement du nouveau
+bâtiment s'élèvera à 33.533.924 euros, réparti comme
+suit :
+2023: 67.000 euros
+2024: 101.098 euros
+2025 : 2.633.130 euros
+2026 : 23.500.000 euros
+2027 : 7.232.696 euros
+------------------------
+Tot.: 33.533.924 euros
+66.11.00/006 - Dotatie voor investeringen in de
+koninklijke domeinen
+(B.A. 01.30.65.61.41.03 van de AUB)
+a) Aard van de ontvangst
+De Regie der Gebouwen ontvangt een dotatie
+ingeschreven in sectie 01 van de algemene
+uitgavenbegroting, waarmee zij de uitgaven moet
+dekken die zij ten laste moet nemen voor
+investeringen in de koninklijke domeinen, voor zover
+het gaat om onroerende goederen die eigendom zijn
+van de federale Staat en beheerd worden door de
+Regie der Gebouwen.
+Het gaat meer bepaald om het paleis van Brussel,
+het kasteel van Laken, een gedeelte van het park van
+Laken en de crypte van de kerk van Laken.
+De aard van de uitgaven is identiek aan die van het
+artikel 72.00.00/100 (investeringen) voor een meer
+gedetailleerde beschrijving: zie dit artikel.
+b) Berekeningsmethode van de ontvangst in 2026
+Begrotingsnorm
+Dotatie 2025: 1.052.000
+Indexering 2026 (1,3 %): +13.000
+Herverdeling onderhoud: -120.000
+--------------------
+Dotatie 2026: 945.000
+66.11.00/006 - Dotation pour investissements dans
+les domaines royaux
+(A.B 01.30.65.61.41.03 du BGD)
+a) Nature de la recette
+La Régie des Bâtiments reçoit une dotation inscrite dans
+la section 01 du budget général des dépenses, qu’elle
+doit utiliser à couvrir les dépenses qu’elle doit prendre en
+charge pour des investissements dans les domaines
+royaux, pour autant qu’il s’agit d e biens immobiliers
+propriété de l’Etat fédéral et gérés par la Régie des
+Bâtiments.
+Il s’agit plus particulièrement du palais de Bruxelles, du
+château de Laeken, d’une partie du parc de Laeken et de
+la crypte de l’église de Laeken.
+La nature des travaux est identique à celle de l’article
+72.00.00/100 (investissements); description plus
+détaillée : voir cet article.
+b) Méthode de calcul de la recette en 2026
+Norme budgétaire
+Dotation 2025 : 1.052.000
+Indexation 2026 (1,3 %) : +13.000
+Redistribution entretien : -120.000
+-------------------
+Dotation 2026 : 945.000
+66.11.00/007- Dotatie voor eerste inrichtingswerken
+in gehuurde gebouwen
+(B.A. 19.55.22.61.41.01 van de AUB)
+a) Aard van de ontvangst
+Dotatie toegekend aan de Regie der Gebouwen en
+bestemd voor de betaling van “eerste
+inrichtingswerken” in gebouwen die de Regie der
+Gebouwen inhuurt voor rekening van de Staat, in
+uitvoering van haar statutaire opdracht.
+66.11.00/007 - Dotation pour frais de première
+installation dans des bâtiments loués.
+(A.B. 19.55.22.61.41.01 du BGD)
+a) Nature de la recette
+Dotation accordée à la Régie des Bâtiments et destinée
+à payer les frais de « première installation » dans des
+bâtiments pris en location pour le compte de l’Etat par la
+Régie des Bâtiments en vertu de sa mission statutaire.
+
+===== PAGE 44 =====
+1281/022DOC 56
+44
+b) Berekeningsmethode van de ontvangst in 2026
+Tot en met het begrotingsjaar 2018 werd een globale
+dotatie toegekend voor de huurgelden en de eerste
+inrichtingswerken in gehuurde gebouwen. Bij de
+opmaak van de begroting 2019 werd beslist om deze
+twee categorieën van uitgaven te splitsen over een
+huurdotatie (economische code 46) en een dotatie
+voor inrichtingswerken (economische code 66).
+1) Transitie-investeringen
+De Ministerraad van 20/10/2021 heeft een bedrag
+van 120.000.000 euro toegekend aan de Regie der
+Gebouwen in het kader van de transitie -
+investeringen.
+Het gaat om kredieten bestemd voor het “Masterplan
+Brussel 3”, in het kader waarvan:
+- De diensten van FOD Financiën verhuizen
+naar het Finto-gebouw naar het North Galaxy gebouw,
+en waarvan de geactualiseerde verdeling als volgt is:
+2023 : 0 euro
+2024 : 654.597 euro
+2025 : 6.526.130 euro
+2026 : 818.912 euro
+-------------------------
+Totaal : 7.999.639 euro
+In de tweede plaats zijn de volgende
+stimuleringsmaatregelen gepland (inclusief 287 .980
+euro in 2025 voor NETWORKS NØR) :
+2023 : 0 euro
+2024 : 458.533 euro
+2025 : 8.572.179 euro
+2026 : 2.483.728 euro
+-----------------------
+Totaal : 11.514.440 euro
+2) Genormeerde dotatie
+Rekening houdend hiermee bedraagt de
+genormeerde dotatie 2026:
+Initiële dotatie 2025 : 37.304.000
+Transitie-investeringen: -20.486.780
+--------------------
+Basis dotatie 2026: 16.817.000
+Index (1,3%) 219.000
+Transitie-investeringen: 3.302.640
+--------------------
+Dotatie 2026 (afronding) : 20.339.000
+Voor de details: zie de verantwoording van de
+uitgavenartikels 72.00.00/112 en 74.22.00/101.
+b) Méthode de calcul de la recette en 2026
+Jusque l’année budgétaire 2018 , il n’existait qu’une
+dotation globale pour les loyers et pour les frais de
+première installation dans les bâtiments loués. Lors de
+l’élaboration du budget 2019 , il a été décidé de scinder
+ces deux catégories de dépenses entre une dotation pour
+loyers (code économique 46) et une dotation pour
+travaux d’installation (code économique 66).
+1) Investissements de transition
+Le Conseil des Ministres du 20/10/2021 a octroyé un
+montant de 120.000.000 euros dans le cadre de la
+politique d’investissements de transition.
+Il s’agit en l’occurrence de crédits destinés au
+“Masterplan Bruxelles 3”, dans le cadre duquel :
+- les services du SPF Finances déménageront de
+l’immeuble FINTO au bâtiment North Galaxy , et dont la
+répartition actualisée est la suivante :
+2023 : 0 euros
+2024 : 654.597 euros
+2025 : 6.526.130 euros
+2026 : 818.912 euros
+-------------------------
+Total : 7.999.639 euros
+Dans un second temps, les incentives suivants sont
+prévus (dont 287.980 euros en 2025 pour le NETWORKS
+NØR) :
+2023 : 0 euros
+2024 : 458.533 euros
+2025 : 8.572.179 euros
+2026 : 2.483.728 euros
+-----------------------
+Total : 11.514.440 euros
+2) Dotation normée
+Compte tenu de cela, la dotation 2026 normée s’élève à :
+Dotation initiale 2025 : 37.304.000
+Investissements de transition : -20.486.780
+--------------------
+Dotation de base 2026 : 16.817.000
+Index (1,3%) 219.000
+Investissements de transition : 3.302.640
+--------------------
+Dotation 2026 (arrondie) : 20.339.000
+Pour les détails : voir la justification des articles de
+dépenses 72.00.00/112 et 74.22.00/101.
+
+===== PAGE 45 =====
+45
+1281/022DOC 56
+66.11.00/008 - Subsidies van de FOD Kanselarij
+voor investeringen in de gebouwen bezet door
+internationale instellingen
+a) Aard van de ontvangst
+Subsidie bestemd voor de betaling van de bedragen
+die verschuldigd zijn voor de investeringswerken in
+de Staatsgebouwen beheerd door de Regie der
+Gebouwen en bezet door internationale instellingen.
+Het gaat om dezelfde soort uitgaven als beschreven
+in de verantwoording van het uitgavenartikel
+72.00.00/100.
+b) Berekeningsmethode van de ontvangst in 2026
+1) Principe
+Zie art 46.10.00/010
+Het krediet moet beschouwd worden als een gesloten
+enveloppe, bepaald op basis van een
+investeringsprogramma.
+Deze procedure werd verder uitgewerkt in een
+protocol afgesloten tussen de FOD Kanselarij en de
+Regie der Gebouwen.
+2) Berekening
+Dotatie 2025: 2.597.000
+Indexering 2026 (1,3 %) : 33.000
+Herverdeling onderhoud : -150.000
+--------------------
+Dotatie 2026: 2.480.000
+66.11.00/008 - Subsides du SPF Chancellerie pour
+des investissements dans les bâtiments occupés
+par des institutions internationales
+a) Nature de la recette
+Subvention destinée au paiement des sommes dues
+pour des travaux d’investissement dans les bâtiments de
+l’Etat gérés par la Régie des Bâtiments et occupés par
+des institutions internationales.
+Il s'agit du même type de dépenses comme décrites dans
+la justification de l’ article de dépenses 72.00.00/100.
+b) Méthode de calcul de la recette en 2026
+1) Principe
+Voir art 46.10.00/010
+Le crédit est à considérer comme une enveloppe fermée,
+fixée sur base d’un programme d’investissement.
+Cette procédure est développée plus profondément dans
+un protocole conclu entre le SPF Chancellerie et la Régie
+des Bâtiments.
+2) Calcul
+Dotation 2025 : 2.597.000
+Indexation 2026 (1,3 %) : 33.000
+Redistribution entretien -150.000
+-------------------
+Dotation 2026 : 2.480.000
+66.11.00/009 - Dotatie voor de renovatie van
+Staatsgebouwen als surplus bij het Europees
+herstelplan “Recovery and Resilience Facility”
+(B.A. 19.55.21.61.41.05 van de AUB)
+a) Aard van de ontvangst
+Tijdens het begrotingsconclaaf van 2 april 2021 heeft
+de Ministerraad beslist dat, bovenop de middelen van
+het Europees herstelplan “Recovery and Resilience
+Facility”, een bijkomend budget van 170 miljoen euro
+(exclusief BTW) in de komende jaren wordt voorzien
+voor de renovatie van Staatsgebouwen beheerd door
+de Regie der Gebouwen.
+b) Berekeningsmethode van de ontvangst in 2026
+Initieel dotatie 2025: 26.825.000
+--------------------
+Actualisatie van verschuivingen: -6.115.000
+------------------
+Dotatie 2026: 20.710.000
+Met de btw inbegrepen is er een krediet van 205,7
+miljoen euro beschikbaar.
+De kredieten van deze artikels worden aangepast
+overeenkomstig de actualisering van het
+66.11.00/009 - Dotation pour la rénovation des
+bâtiments de l’Etat en plus du plan de relance
+européen « Recovery and Resilience Facility »
+(A.B. 19.55.21.61.41.05 du BGD)
+a) Nature de la recette
+Le Conseil des Ministres, en conclave budgétaire du 2
+avril 2021, a décidé que, en plus des ressources du plan
+de relance européen « Recovery and Resilience
+Facility », un budget supplémentaire de 170 millions
+d’euros (hors TVA) sera prévu dans les années à venir
+pour la rénovation de bâtiments de l’Etat gérés par la
+Régie des Bâtiments.
+b) Méthode de calcul de la recette en 2026
+Dotation initiale 2025 : 26.825.000
+--------------------
+Actualisation des glissements : -6.115.000
+--------------------
+Dotation 2026 : 20.710.000
+TVA comprise, un crédit de 205,7 millions d’ euros sera
+disponible.
+Les crédits de ces articles sont adaptés conformément à
+l’actualisation du plan pluriannuel 2021-2026 (2041) pour
+
+===== PAGE 46 =====
+1281/022DOC 56
+46
+meerjarenplan 2021 -2026 (2041) voor de
+vastgoedbehoeften van de Regie der Gebouwen
+(Ministerraad van 17/05/2024).
+Nieuwe verschuivingen zijn nodig. Dit geeft de
+volgende verdeling:
+Brussel, Justitiepaleis: buitenrenovatie
+2022 0 euro
+2023 2.875.000 euro
+2024 12.326.000 euro
+2025 15.966.000 euro
+2026 11.440.000 euro
+2027 9.964.000 euro
+2028 8.768.000 euro
+2029 6.723.000 euro
+Tot. 68.062.000 euro
+Federale wetenschappelijke instellingen
+(Legermuseum, Jubelpark, KMSK): renovatie van de
+daken, gevels en ramen
+2022 3.325.000 euro
+2023 2.169.000 euro
+2024 1.800.000 euro
+2025 5.742.000 euro
+2026 7.057.000 euro
+2027 14.918.000 euro
+2028 13.367.000 euro
+2029 6.097.000 euro
+Tot. 54.475.000 euro
+Verbetering van de energieprestatie van:
+- Bruxelles, Palais royal
+- Brussel, NICC (herhuisvesting)
+- Brussel, Rekenhof
+- Brussel, Koninklijk paleis
+2022 0 euro
+2023 2.176.000 euro
+2024 5.557.000 euro
+2025 1.516.000 euro
+2026 2.213.000 euro
+2027 12.982.000 euro
+2028 27.539.000 euro
+2029 31.172.000 euro
+Tot. 83.155.000 euro
+Au total:
+2022 3.325.000 euro
+2023 7.220.000 euro
+2024 19.683.000 euro
+2025 23.224.000 euro
+2026 20.710.000 euro
+les besoins immobiliers de la Régie des Bâtiments
+(Conseil des ministres du 17/05/2024).
+De nouveaux glissements sont nécessaires. Ce qui
+donne la répartition suivante :
+Bruxelles, Palais de Justice : rénovation extérieure
+2022 0 euros
+2023 2.875.000 euros
+2024 12.326.000 euros
+2025 15.966.000 euros
+2026 11.440.000 euros
+2027 9.964.000 euros
+2028 8.768.000 euros
+2029 6.723.000 euros
+Tot. 68.062.000 euros
+Institutions scientifiques fédérales
+(Musée de l’Armée, Cinquantenaire, MRBA) :
+rénovation des toitures, façades et châssis
+2022 3.325.000 euros
+2023 2.169.000 euros
+2024 1.800.000 euros
+2025 5.742.000 euros
+2026 7.057.000 euros
+2027 14.918.000 euros
+2028 13.367.000 euros
+2029 6.097.000 euros
+Tot. 54.475.000 euros
+Amélioration de la performance énergétique de :
+- Bruxelles, centre logistique Baron van Hamme
+- Bruxelles, INCC (relogement)
+- Bruxelles, Cour des Comptes
+- Bruxelles, Palais royal
+2022 0 euros
+2023 2.176.000 euros
+2024 5.557.000 euros
+2025 1.516.000 euros
+2026 2.213.000 euros
+2027 12.982.000 euros
+2028 27.539.000 euros
+2029 31.172.000 euros
+Tot. 83.155.000 euros
+Au total:
+2022 3.325.000 euros
+2023 7.220.000 euros
+2024 19.683.000 euros
+2025 23.224.000 euros
+2026 20.710.000 euros
+
+===== PAGE 47 =====
+47
+1281/022DOC 56
+2027 37.864.000 euro
+2028 49.674.000 euro
+2029 43.992.000 euro
+Tot. 205.692.000 euro
+66.11.00/010 - RRF REPower EU
+a) a) Aard van de ontvangst
+Conform de beslissingen van de Ministerraad van
+14/07/2023 werd op 20/07/2023 een aangepast plan
+aan de Commissie overgemaakt.
+b) Berekeningsmethode van de ontvangst in 2026
+Het project is afgerond in 2025.
+66.11.00/011 - RRF REPower EU BTW
+a) Aard van de ontvangst
+Conform de beslissingen van de Ministerraad van
+14/07/2023 werd op 20/07/2023 een aangepast plan
+aan de Commissie overgemaakt.
+b) Berekeningsmethode van de ontvangst in 2026
+Het project is afgerond in 2025.
+2027 37.864.000 euros
+2028 49.674.000 euros
+2029 43.992.000 euros
+Tot. 205.692.000 euros
+66.11.00/010 - RRF REPower EU
+a) Nature de la recette
+Conformément aux décisions du Conseil des ministres
+du 14/07/2023, un plan adapté a été transmis au Conseil
+des ministres le 20/07/2023.
+b) Méthode de calcul de la recette en 2026
+Le projet est terminé en 2025.
+66.11.00/011 - RRF REPower EU TVA
+a) Nature de la recette
+Conformément aux décisions du Conseil des ministres
+du 14/07/2023, un plan adapté a été transmis au Conseil
+des ministres le 20/07/2023.
+b) Méthode de calcul de la recette en 2026
+Le projet est terminé en 2025.
+CE-EC / LIT CF - FC SC - KS
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+66.71.00
+66.71.00/100 CF_00 n.lim 12.499.083 3.087.872 3.087.872
+Total - totaal 12.499.083 3.087.872 3.087.872
+ECONOMISCHE CODE: 66.71.00
+Investeringsbijdragen van andere eenheden van
+de overheid
+66.71.00/100 N.LIM - Subsidies van de Nationale
+Loterij, bestemd voor de verrijking en de
+bescherming van het nationaal patrimonium
+a) Aard van de ontvangst
+Een gedeelte van de winst van de Nationale Loterij
+wordt uitgekeerd onder de vorm van subsidies (bij een
+in de Ministerraad overlegd Koninklijk Besluit, op
+voordracht van de Minister bevoegd voor de Nationale
+Loterij). Daarbij wordt ieder jaar een bijzonde re
+bijdrage toegekend aan de Regie der Gebouwen. De
+Regie mag deze bijdrage uitsluitend aanwenden voor
+“de verrijking en de bescherming van het nationaal
+patrimonium”.
+CODE ECONOMIQUE : 66.71.00
+Aides à l’investissement des autres unités
+publiques
+66.71.00/100 N.LIM - Subsides de la Loterie
+nationale, destinée à l’enrichissement et la
+protection du patrimoine national
+a) Nature de la recette
+Une partie des bénéfices de la Loterie Nationale est
+distribuée sous forme de subventions (au moyen d’un
+Arrêté Royal délibéré en Conseil des Ministres, sur la
+proposition du Ministre qui a la Loterie Nationale dans
+ses attributions). Dans ce cadre, une co ntribution
+spéciale est annuellement octroyée à la Régie des
+Bâtiments. La Régie est autorisée à affecter cette
+contribution exclusivement à « l’enrichissement et la
+protection du patrimoine national ».
+
+===== PAGE 48 =====
+1281/022DOC 56
+48
+b) Berekeningsmethode van de ontvangst in 2026
+Tijdens het begrotingsconclaaf van 14 -15/10/2000
+werd beslist dat jaarlijks een bedrag van (toen) 400
+miljoen BEF van de winstuitkering van de Nationale
+Loterij wordt toegekend aan de Regie der Gebouwen,
+met het oog op investerings- en restauratiewerken aan
+het nationaal bouwkundig erfgoed (t.t.z. monumenten
+en beschermde gebouwen die beheerd worden door de
+Regie der Gebouwen).
+In 2016 werd de subsidie aan de Regie der Gebouwen
+volledig geschrapt (K.B. van 11/08/2017); in het
+jaarlijkse verdelingsplan van de subsidies werd dan
+weer een bedrag van 3.087.872 euro ingeschreven ten
+voordele van de Regie der Gebouwen.
+Subsidie 2026: 3.087.872
+b) Méthode de calcul de la recette en 2026
+Lors du conclave budgétaire du 14 -15/10/2000 il a été
+décidé qu’un montant annuel de (d’alors) 400 millions de
+BEF provenant de la distribution des dividendes de la
+Loterie Nationale soit affecté à la Régie des Bâtiments,
+en vue de l’exécution de travaux d ’investissement et de
+restauration au patrimoine immobilier national (des
+monuments et des immeubles protégés gérés par la
+Régie des Bâtiments).
+En 2016, la subvention à la Régie des Bâtiments a été
+supprimée entièrement (A.R. du 11/08/2017) ; par
+contre, une somme de 3.087.872 euros au profit de la
+Régie des Bâtiments est inscrite dans le plan annuel de
+répartition des subsides.
+Subside 2026 : 3.087.872
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+72.00.00
+72.00.00/100 CF_00 n.lim 0 100 100
+72.00.00/101 CF_00 n.lim 0 0 10.275.304
+Totaal-total 0 100 10.275.404
+ARTIKEL 72 – Nieuwbouw van gebouwen
+ECONOMISCHE CODE: 72.00.00
+Nieuwbouw van gebouwen
+Synthesetabel
+72.00.00/100 - Recuperatie van
+investeringsuitgaven
+a) Aard van de ontvangst
+Recuperatie van niet verschuldigde uitgaven verricht
+op één van de investeringsartikels 72.00:
+- uitgaven die (ten gevolge van het opleggen van
+rafacties, van door de Regie betaalde maar ten laste
+van de aannemers vallende proeven, van eventuele
+creditnota’s enz.) van de aannemers werden
+teruggevorderd of door hen werden teruggestort na het
+opmaken van de eindafrekening of het afsluiten van het
+begrotingsjaar;
+- andere terugbetalingen van
+investeringsuitgaven verricht door derden, andere dan
+aannemers.
+b) Berekeningsmethode van de ontvangst in 2026
+Bedrag 2025 100
+Realisatie 2024 0
+Raming 2026 100
+ARTICLE 72 – Constructions de bâtiments
+CODE ECONOMIQUE : 72.00.00
+Constructions de bâtiments
+Tableau de synthèse
+72.00.00/100 - Récupération de dépenses
+d’investissement
+a) Nature de la recette
+Récupération de dépenses indues effectuées sur un
+des articles des investissements 72.00 :
+- dépenses indues (suite à l’application de
+réfactions, au paiement par la Régie d’essais à charge
+de l’entrepreneur, à d’éventuelles notes de crédit, etc.),
+réclamées aux entrepreneurs ou reversées par ceux-ci
+après l’établissement du décompte final ou de la
+clôture de l’année budgétaire ;
+- autres remboursements de dépenses
+d’investissement effectués par des tiers, autres que
+des entrepreneurs.
+b) Méthode de calcul de la recette en 2026
+Montant 2025 100
+Réalisation 2024 0
+Estimation 2026 100
+
+===== PAGE 49 =====
+49
+1281/022DOC 56
+72.00.00/101 - tussenkomst eigenaar
+a) Aard van de ontvangst
+De kredieten van deze artikel worden aangepast
+overeenkomstig de actualisering van het
+meerjarenplan 2021 -2026 (2041) voor de
+vastgoedbehoeften van de Regie der Gebouwen
+(Ministerraad van 17/05/2024).
+b) Berekeningsmethode van de ontvangst in 2026
+- North Galaxy : 3.545.263 euro
+- Finto : 6.730.041 euro
+Bedrag 2025 0
+Realisatie 2024 0
+Raming 2026 10.275.304
+72.00.00/101 - intervention propriétaire
+a) Nature de la recette
+Les crédits de cet article sont adaptés conformément à
+l’actualisation du plan pluriannuel 2021 -2026 (2041)
+pour les besoins immobiliers de la Régie des Bâtiments
+(Conseil des ministres du 17/05/2024).
+b) Méthode de calcul de la recette en 2026
+- North Galaxy : 3.545.263 euros
+- Finto : 6.730.041 euros
+Montant 2025 0
+Réalisation 2024 0
+Estimation 2026 10.275.304
+ARTIKEL 74 - Verwerving van overige
+investeringsgoederen, waaronder
+immateriële goederen
+Synthesetabel
+ARTICLE 74 - Acquisitions d’autres biens
+d’investissement, y compris les
+biens incorporels
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+74.10.00
+74.10.00/100 CF_00 n.lim 0 100 100
+Totaal-total 0 100 100
+74.22.00
+74.22.00/100 CF_00 n.lim 0 100 100
+Totaal-total 0 100 100
+Total art 74 -
+Totaal art 74 0 200 200
+Titel van de economische codes :
+- 74.10.00 Aankoop van vervoermaterieel
+- 74.22.00 Verwerving van overig materieel
+Intitulé des codes économiques :
+- 74.10.00 : Achats de matériel de transport
+- 74.22.00 : Acquisitions d’autre matériel
+
+===== PAGE 50 =====
+1281/022DOC 56
+50
+ARTIKEL 76 - Verkoop van onroerende
+goederen in het binnenland
+Synthesetabel
+ARTICLE 76 - Ventes de biens immobiliers dans le
+pays
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+76.11.00
+76.11.00/100 CF_00 n.lim 1.990.499 500.000 500.000
+Totaal-total 1.990.499 500.000 500.000
+76.12.00
+76.12.00/100 CF_00 n.lim 837.006 500.000 500.000
+Totaal-total 837.006 500.000 500.000
+76.31.00
+76.31.00/100 CF_00 n.lim 408.024 12.000.000 12.000.000
+Totaal-total 408.024 12.000.000 12.000.000
+76.32.00
+76.32.00/100 CF_00 n.lim 1.660.529 12.000.000 20.230.178
+Totaal-total 1.660.529 12.000.000 20.230.178
+Total Art 76
+Totaal Art 76 4.896.058 25.000.000 33.230.178
+a) Aard van de ontvangst
+Opbrengsten voortvloeiend uit de bepalingen van
+artikel 335, § 2, van de programmawet van
+22/12/1989 (B.S. van 30/12/1989).
+Dit artikel bepaalt dat binnen de Regie der
+Gebouwen een financieringsfonds wordt opgericht.
+In afwijking van artikels 60 en 68 van de wet van 22
+mei 2003 houdende organisatie van de begroting en
+van de comptabiliteit van de federale Staat, wordt dit
+fonds gestijfd door de opbrengst van alle onroerende
+verrichtingen met betrekking tot goederen van de
+Staat die ressorteren onder de Staatssecretaris die
+bevoegd is voor de Regie der Gebouwen:
+- Verkoop van onroerende goederen beheerd
+door de Regie der Gebouwen;
+- Verkoop van onroerende goederen van het
+voormalig Ministerie van Openbare Werken;
+- Andere onroerende verrichtingen.
+Artikel 335, §4 van de vermelde programmawet
+bepaalt dat de middelen van het fonds worden
+aangewend ter financiering van de opdrachten
+toevertrouwd aan de Regie der Gebouwen. In de
+praktijk worden deze middelen haast altijd gebruikt
+voor investeringsuitgaven, maar ook huurgelden of
+a) Nature de la recette
+Recettes provenant des dispositions de l’article 335, §2,
+de la loi -programme du 22/12/1989 (M.B. du
+30/12/1989).
+Cet article prévoit la création d’un fonds de financement
+à la Régie des Bâtiments. Par dérogation aux articles 60
+et 68 de la loi du 22 mai 2003 portant organisation du
+budget et de la comptabilité de l’Etat fédéral, ce fonds est
+alimenté par le produit d e toutes les opérations
+immobilières relatives aux biens de l’Etat qui relèvent de
+la compétence du Secrétaire d’Etat qui a la Régie des
+Bâtiments dans ses attributions :
+- Vente de biens immobiliers gérés par la Régie des
+Bâtiments ;
+- Vente de biens immobiliers de l’ancien Ministère
+des Travaux publics ;
+- Autres opérations immobilières.
+L’article 335, §4, de la loi-programme mentionnée stipule
+que les ressources du Fonds seront affectées au
+financement des missions dévolues à la Régie des
+Bâtiments. En pratique, ces ressources sont presque
+toujours utilisées pour des dépenses d’investisse ment,
+mais des dépenses de loyers ou d’entretien peuvent
+aussi être financées de cette manière.
+
+===== PAGE 51 =====
+51
+1281/022DOC 56
+onderhoudsuitgaven kunnen hiermee gefinancierd
+worden.
+b) Berekeningsmethode van de ontvangst in 2026
+De Regie der Gebouwen heeft een lijst aangelegd
+van de onroerende goederen die in 202 6 in
+aanmerking komen om verkocht te worden.
+b) Méthode de calcul de la recette en 2026
+La Régie des Bâtiments a établi une liste des biens
+immobiliers éligibles à être vendus en 2026.
+Titel van de economische codes
+- 76.11.00-Verkoop van gronden binnen de
+overheidssector
+- 76.12.00-Verkoop van gronden aan andere
+sectoren dan de overheidssector
+- 76.31.00-Verkoop van bestaande gebouwen
+binnen de overheidssector
+- 76.32.00- Verkoop van bestaande gebouwen
+aan andere sectoren dan de overheidssector
+Intitulé des codes économiques :
+- 76.11.00 -Ventes de terrains à l’intérieur du
+secteur des administrations publiques
+- 76.12.00-Ventes de terrains à d’autres secteurs
+que le secteur des administrations publiques
+- 76.31.00 – Ventes de bâtiments existants à
+l’intérieur du secteur des administrations publiques
+- 76.32.00 – Ventes de bâtiments existants à
+d’autres secteurs que le secteur des administrations
+publiques
+ARTIKEL 77 - Verkoop van overige
+investeringsgoederen, waaronder
+immateriële goederen
+Synthesetabel
+ARTICLE 77 - Ventes d’autres biens
+d’investissement, y compris les biens
+incorporels
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+77.10.00
+77.10.00/100 CF_00 n.lim 6.541 84.548 46.606
+Totaal-total 6.541 84.548 46.606
+77.20.00
+77.20.00/100 CF_00 n.lim 9.001 41.919 26.199
+Totaal-total 9.001 41.919 26.199
+Totaal art 77
+Total art 77 15.542 126.467 72.805
+Titel van de economische codes :
+- 77.10.00 Verkoop van vervoermaterieel
+- 77.20.00 Verkoop van overig materieel
+Intitulé des codes économiques :
+- 77.10.00 : Ventes de matériel de transport
+- 77.20.00 : Ventes d’autre matériel
+ARTIKEL 96 - Opbrengst van leningen met een
+looptijd van meer dan één jaar
+ECONOMISCHE CODE 96.70.00
+Opbrengst van leningen bij financiële leasing
+Synthesetabel
+ARTICLE 96 - Produits des emprunts émis à plus
+d’un an
+CODE ECONOMIQUE 96.70.00
+Produits d’emprunts lors de leasing financier
+Tableau de synthèse
+
+===== PAGE 52 =====
+1281/022DOC 56
+52
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+96.70.00
+96.70.00/100 CF_00 n.lim 93.628.659 0 0
+Totaal-total 93.628.659 0 0
+96.70.00/100 - Opname financiële leasing
+a) Aard van de ontvangst
+Tegenwaarde van financiële leasing in het raam van
+alternatieve financiering.
+b) Berekeningsmethode van de ontvangst in 2026
+Voor de bouw van het nieuw gerechtshof in Namen
+heeft de Regie der Gebouwen een promotieopdracht
+uitgeschreven. De bedoeling was dat de promotor het
+gebouw zou oprichten en daarna voor een periode van
+18 jaar zou verhuren aan de Regie (zuivere huur, aan
+te rekenen op de huurdotatie). Het Instituut voor de
+Nationale Rekeningen heeft deze operatie echter
+geherkwalificeerd tot een operationele leasing, met de
+verplichting om de investering ESR -matig te boeken
+naargelang van de vordering van de werken (maar
+budgettair bij de oplevering van het gebouw). De huur
+moet dan beschouwd worden als een afbetaling, te
+splitsen in een gedeelte “wedersamenstelling van het
+kapitaal” en een deel “intresten”.
+De terbeschikkingstelling wordt ge realiseerd tegen
+2024. Dat betekent dat de Regie der Gebouwen:
+- in 2024 een investering van 93.628.658,82
+euro moest aanrekenen op haar begroting;
+- in de periode 2024 de volgende investeringen
+in mindering moe st brengen van haar ESR -saldo met
+93.628.658,82 euro.
+- in de periode 2024 – 2041 in totaal 36
+geïndexeerde semestrialiteiten van 3.249.163,42 euro
+moet betalen, telkens gesplitst in een deel
+“kapitaalsaflossing” en een deel “intrest”.
+96.70.00/100 - Prélèvements leasings financiers
+a) Nature de la recette
+Contre-valeur de leasing financier dans le cadre du
+financement alternatif.
+b) Méthode de calcul de la recette en 2026
+En vue de la construction du nouveau Palais de Justice
+à Namur, la Régie des Bâtiments a lancé un marché de
+promotion. Il était envisagé que le promoteur
+construise le bâtiment qu’il louera ensuite à la Régie
+pour une période de 18 ans (un loyer simple, à imputer
+sur la dotation pour les loyers). Or, l’Institut des
+Comptes Nationaux a requalifié cette opération comme
+un leasing opérationnel, imposant l’imputation de
+l’investissement en termes SEC au fur et à mesure de
+l’avancement des travaux de constructio n (mais
+budgétairement au moment de la mise à disposition de
+l’immeuble). Dès lors, le loyer doit être considéré
+comme un amortissement, à scinder en une partie
+« reconstitution du capital » et une partie « intérêts ».
+La mise à disposition est réalisée en 2024. Cela signifie
+que la Régie des Bâtiments :
+- a dû imputer un investissement de
+93.628.658,82 euros sur son budget 2024 ;
+- a dû diminuer son solde SEC dans la période
+2024 à concurrence de 93.628.658,82 euros.
+- doit payer au total 36 semestrialités de 3.249.163,42
+euros indexées dans la période 2024 – 2041, chaque
+fois scindées en « amortissement » et « intérêts ».
+
+===== PAGE 53 =====
+53
+1281/022DOC 56
+SAMENVATTING VAN DE VERRICHTINGEN IN DE
+BEGROTING VAN DE REGIE DER GEBOUWEN
+RÉSUMÉ DES OPÉRATIONS DANS LE BUDGET DE LA
+RÉGIE DES BÂTIMENTS
+1) Verrichtingen voor de werkingskosten
+1) Opérations concernant les frais de
+fonctionnement
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes
+Estimation
+Estimation Dépenses Article
+12.11.00/100
+Recuperatie van diverse
+uitgaven 607.328
+44.983.704
+Bezoldiging weddeschaal stat. 11.11.00/100
+Récupération dépenses
+diverses
+Rémun. barémique statut.
+12.12.00/100 Recuperatie huur - privé 2.054.203
+4.110.701
+Bezoldiging weddeschaal contr. 11.11.00/101
+Récupération loyers -
+privé
+Rémun. barémique contract.
+12.50.00/100 Recuperatie taksen 124.064
+5.438.316
+Bezoldiging stat.: andere elem. 11.12.00/100
+Récupération taxes Rémun. statut.: autres élém.
+16.11.00/100
+Huuropbrengst -
+bedrijven 3.536.331
+593.934
+Bezoldiging contr.: andere elem. 11.12.00/101
+Recettes locatives -
+entreprises
+Rémun. contract.: autres élém.
+1.324.873
+Vergoedingen en toelagen 11.12.00/102
+Indemnités et allocations
+16.12.00/100
+Huuropbrengst -
+gezinnen 685.422
+24.561.512
+Sociale lasten 11.20.00/100
+Recettes locatives -
+ménages
+Charges sociales
+73.647 Directe toelagen statutairen 11.31.00/100
+Allocations directes statutaires
+16.13.00/100
+Huuropbrengst -
+buitenland 113.119
+Directe toelagen contractuelen 11.31.00/101
+Recettes locatives -
+étranger
+Allocations directes contractuels
+255.168
+Arbeidsongevallen 11.31.00/102
+Accidents de travail
+16.20.00/100
+Huuropbrengst -
+overheid 5.309.860
+529.853
+Doorbetaling loon statutairen 11.32.00/100
+Recettes locatives -
+public
+Paiements maintenus statut.
+16.20.00/101
+Niet-patrimoniale ontv. -
+overheid 2.012.385 29.517
+Doorbetaling loon contract. 11.32.00/101
+Recettes non patrim. -
+public
+Paiements maintenus contract.
+26.10.00/100
+Intrest op beleggingen -
+privé
+647.630 Maaltijdchèque 11.40.00/100
+Intérêts sur placements -
+privé Chèques repas
+26.20.00/100
+Intrest op beleggingen -
+overheid 1.146.361
+9.561.445
+Werkingskosten - aan privé 12.11.00/100
+Intérêts sur placements -
+public
+Frais de fonctionnement - privé
+28.10.00/100
+Opbrengst van
+concessies
+100
+2.370.292
+Intercalaire kosten - privé-sector 12.11.00/101
+Produits de concessions Frais intercalaires - secteur privé
+28.20.00/100 Financiële inkomsten
+- Consultancy 12.11.00/112
+Recettes financières Consultancy
+
+===== PAGE 54 =====
+1281/022DOC 56
+54
+28.30.00/100 Huuropbrengst gronden
+100
+7.074.483
+Huur van lokalen 12.12.00/100
+Recettes locatives
+terrains
+Location de locaux
+38.10.00/100 Boeten en inhoudingen 560.594
+2.931.270
+Werkingskosten - aan overheid 12.21.00/100
+Pénalités et retenues Frais de fonctionnement - public
+38.50.00/100 Boeten en inhoudingen 946.597
+4.472.012
+Intercalaire kosten - overheid 12.21.00/101
+Pénalités et retenues Frais intercalaires - secteur public
+46.10.00/001 Werkingsdotatie
+104.891.00
+0 2.165.407
+egov 12.21.00/999
+Dotation de
+fonctionnement
+egov
+46.10.00/100 andere ontv fed inst 211.113 8.000.000 Belastingen en taksen 12.50.00/100
+Autres recettes inst fed Impôts et taxes
+72.00.00/100
+Recuperatie
+investeringen
+100 1.000
+Terugbetaling teveel geïnd 16.11.00/100
+Récupération
+investissements
+Remboursement de trop-perçu
+74.10.00/100
+Recuperatie patrim. -
+voertuigen
+100 838.256
+Verwijlintresten 21.40.00/100
+Récupér. patrim. -
+véhicules
+Intérêts de retard
+74.22.00/100
+Recuperatie patrim. -
+overig
+100
+100
+Gerechtelijke intresten 21.60.00/100
+Récupér. patrim. - autres Intérêts judiciaires
+77.10.00/100 Verkoop van voertuigen 46.606 505.450 Schadeverg. en gerechtskosten 32.00.00/100
+Ventes de véhicules Dédomm. et frais de justice
+77.20.00/100
+Verkoop patrimon.
+goederen 26.199 1.000
+Kwijtschelding boeten 38.10.00/100
+Remise d'amendes
+45.000 Vakbondspremie 41.10.00/100
+Prime syndicale
+241.000 Sociale Dienst 41.60.00/100
+Service social
+1.000 Oninvorderbare schuldvorder. 51.22.00/100
+Créances irrécouvrables
+Transfert en capital à des unités
+interrégionales 65.50.00/100
+Kapitaaloverdrachten aan interregionale eenheden
+465.000 Aankoop van rollend materieel 74.10.00/100
+Achats de matériel roulant
+1.050.112 Aankoop van overig materieel 74.22.00/100
+Acquisitions d'autre matériel 122.271.683 122.271.682
+Saldo / Solde
+0
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC-12.11.00/100 607.328 607.328 607.328 607.328 607.328
+INC-12.12.00/100 2.054.203 2.054.203 2.054.203 2.054.203 2.054.203
+
+===== PAGE 55 =====
+55
+1281/022DOC 56
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC-12.50.00/100 124.064 124.064 124.064 124.064 124.064
+INC-16.11.00/100 3.536.331 3.536.331 3.536.331 3.536.331 3.536.331
+INC-16.11.00/101
+INC-16.12.00/100 685.422 685.422 685.422 685.422 685.422
+INC-16.12.00/101
+INC-16.13.00/100 113.119 113.119 113.119 113.119 113.119
+INC-16.13.00/101
+INC-16.20.00/100 5.309.860 5.309.860 5.309.860 5.309.860 5.309.860
+INC-16.20.00/101 2.012.385 2.012.385 2.012.385 2.012.385 2.012.385
+INC-26.10.00/100
+INC-26.20.00/100 1.146.361 1.146.361 1.146.361 1.146.361 1.146.361
+INC-28.10.00/100 100 100 100 100 100
+INC-28.20.00/100
+INC-28.30.00/100 100 100 100 100 100
+INC-38.10.00/100 560.594 560.594 560.594 560.594 560.594
+INC-38.50.00/100 946.597 946.597 946.597 946.597 946.597
+INC-46.10.00/001 104.891.000 103.807.000 102.723.000 101.639.000 101.639.000 d
+INC-46.10.00/100 211.113 211.113 211.113 211.113 211.113
+INC-72.00.00/100 100 100 100 100 100
+INC-74.10.00/100 100 100 100 100 100
+INC-74.22.00/100 100 100 100 100 100
+INC-77.10.00/100 46.606 46.606 46.606 46.606 46.606
+INC-77.20.00/100 26.199 26.199 26.199 26.199 26.199
+Rés.fin. / Fin. res.
+EXP-11.11.00/100 44.983.704 43.581.211 42.178.718 40.776.225 40.776.225
+
+===== PAGE 56 =====
+1281/022DOC 56
+56
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+EXP-11.11.00/101 4.110.701 4.110.701 4.110.701 4.110.701 4.110.701
+EXP-11.12.00/100 5.438.316 5.438.316 5.438.316 5.438.316 5.438.316
+EXP-11.12.00/101 593.934 593.934 593.934 593.934 593.934
+EXP-11.12.00/102 1.324.873 1.324.873 1.324.873 1.324.873 1.324.873
+EXP-11.20.00/100 24.561.512 25.459.512 26.357.512 27.255.512 27.255.512
+EXP-11.31.00/100 73.647 73.647 73.647 73.647 73.647
+EXP-11.31.00/101
+EXP-11.31.00/102 255.168 255.168 255.168 255.168 255.168
+EXP-11.32.00/100 529.853 529.853 529.853 529.853 529.853
+EXP-11.32.00/101 29.517 29.517 29.517 29.517 29.517
+EXP-11.40.00/100 647.630 647.630 647.630 647.630 647.630
+EXP-12.11.00/100 9.561.445 8.981.938 8.402.431 7.822.924 7.822.924
+EXP-12.11.00/101 2.370.292 2.370.292 2.370.292 2.370.292 2.370.292
+EXP-12.12.00/100 7.074.483 7.074.483 7.074.483 7.074.483 7.074.483
+EXP-12.21.00/100 2.931.270 2.931.270 2.931.270 2.931.270 2.931.270
+EXP-12.21.00/101 4.472.012 4.472.012 4.472.012 4.472.012 4.472.012
+EXP-12.21.00/999 2.165.407 2.165.407 2.165.407 2.165.407 2.165.407
+EXP-12.50.00/100 8.000.000 8.000.000 8.000.000 8.000.000 8.000.000
+EXP-16.11.00/100 1.000 1.000 1.000 1.000 1.000
+EXP-21.40.00/100 838.256 838.256 838.256 838.256 838.256
+EXP-21.60.00/100 100 100 100 100 100
+EXP-32.00.00/100 505.450 505.450 505.450 505.450 505.450
+EXP-38.10.00/100 1.000 1.000 1.000 1.000 1.000
+EXP-41.10.00/100 45.000 45.000 45.000 45.000 45.000
+EXP-41.60.00/100 241.000 241.000 241.000 241.000 241.000
+
+===== PAGE 57 =====
+57
+1281/022DOC 56
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+EXP-51.22.00/100 1.000 1.000 1.000 1.000 1.000
+EXP-65.00.00/100
+EXP-74.10.00/100 465.000 465.000 465.000 465.000 465.000
+EXP-74.22.00/100 1.050.112 1.050.112 1.050.112 1.050.112 1.050.112
+Contrôle 0 0 0 0 0
+EXP 122.271.682 121.187.682 120.103.682 119.019.682 119.019.682
+INC 122.271.683 121.187.683 120.103.683 119.019.683 119.019.683
+d = dotatie BA 19.55.22.41.40.02
+d = dotation AB 19.55.22.41.40.02
+2) Verrichtingen betreffende de huren 2) Opérations concernant les loyers
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+12.12.00/101 Recup. niet-Staat 2.959.271 400.506.331 Huur Staat - privé 12.12.00/101
+Récup. non-Etat Loyers Etat - privé
+46.10.00/004 Huurdotatie 492.213.000 2.597.299 Huur niet-Staat 12.12.00/102
+Dotation loyers Loyer non-Etat
+24.564.768 Huur Staat - overheid 12.22.00/100
+Loyers Etat - public
+66.400.591 Taksen Staatsdiensten 12.50.00/101
+Taxes services Etat
+361.972 Taksen niet-Staatsd. 12.50.00/102
+Taxes serv. non- Etat
+736.310 Erfpacht privé 24.10.00/101
+Emphytéoses privés
+5.000 Erfpacht overheid 24.20.00/101
+Emphytéoses public
+495.172.271 495.172.271
+Saldo / Solde 0
+
+===== PAGE 58 =====
+1281/022DOC 56
+58
+Meerjarenraming
+Artikel
+- 2026 2.027 2.028 2.029 2.030
+Article
+INC - 12.12.00/101 2.959.271 2.959.271 2.959.271 2.959.271 2.959.271
+INC - 46.10.00/004 492.213.000 467.213.000 417.213.000 292.213.000 292.213.000 d
+EXP - 12.12.00/101 400.506.331 375.506.331 325.506.331 200.506.331 200.506.331
+EXP - 12.12.00/102 2.597.299 2.597.299 2.597.299 2.597.299 2.597.299
+EXP - 12.22.00/100 24.564.768 24.564.768 24.564.768 24.564.768 24.564.768
+EXP - 12.50.00/101 66.400.591 66.400.591 66.400.591 66.400.591 66.400.591
+EXP - 12.50.00/102 361.972 361.972 361.972 361.972 361.972
+EXP - 24.10.00/101 736.310 736.310 736.310 736.310 736.310
+EXP - 24.20.00/101 5.000 5.000 5.000 5.000 5.000
+Afronding
+Arrondi 0 0
+Controle 0 0 0 0 0
+EXP 495.172.271 470.172.271 420.172.271 295.172.271 295.172.271
+INC 495.172.271 470.172.271 420.172.271 295.172.271 295.172.271
+d = dotatie BA 19.55.22.41.40.01
+d = dotation AB 19.55.22.41.40.01
+3) Verrichtingen betreffende de lasten van
+alternatieve financiering
+3) Opérations concernant les frais de financements
+alternatifs
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+46.10.00/003 Dotatie
+102.880.000
+86.875.749 Beschikbaarheidsverg. 12.11.00/111
+Dotation Redev. de disponibilité
+638.983 Intresten leningen 21.10.00/100
+Intérêts emprunts
+2.608.670 Intresten leasing 21.50.00/100
+Intérêts leasing
+- Investeringen 72.00.00/101
+Investissements n-lim
+
+===== PAGE 59 =====
+59
+1281/022DOC 56
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+6.767.641 Aflossingen leningen 91.10.00/100
+Amort. emprunts
+5.988.956 Aflossingen leasing 91.70.00/100
+Amort. leasing
+102.880.000
+102.880.000
+Saldo / Solde 0
+ESR Saldo / Solde SEC 12.756.597
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC - 46.10.00/003 102.880.000 107.553.911 103.059.622 100.503.847 100.203.064 d
+EXP - 12.11.00/111 86.875.749 91.606.175 91.606.175 91.606.175 91.606.175
+EXP - 21.10.00/100 638.983 391.060 134.275 65.718 0
+EXP - 21.50.00/100 2.608.670 2.446.396 2.280.475 2.110.048 1.934.991
+EXP - 72.00.00/101 0 0 0 0 0
+n-lim
+EXP - 91.10.00/100 6.767.641 6.959.789 2.722.285 235.066 0
+EXP - 91.70.00/100 5.988.956 6.150.491 6.316.412 6.486.840 6.661.897
+Controle 0 0 0 0 0
+EXP 102.880.000 107.553.911 103.059.622 100.503.847 100.203.064
+INC 102.880.000 107.553.911 103.059.622 100.503.847 100.203.064
+solde budgétaire 0 0 0 0 0
+solde sec 12.756.598 13.110.280 9.038.697 6.721.906 6.661.897
+d = dotatie BA 19.55.22.41.40.04
+d = dotation AB 19.55.22.41.40.04
+
+===== PAGE 60 =====
+1281/022DOC 56
+60
+4) Verrichtingen voor de huurlasten van
+beleidsorganen
+4) Opérations concernant les charges locatives
+des cellules stratégiques
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+46.10.00/005 Dotatie 1.089.000 Lasten beleidsorg.
+- privé 12.11.00/107
+Dotation Charges org. strat.
+- privé
+1.089.000 Lasten beleidsorg.
+- overheid 12.21.00/104
+Charges org. strat.
+- public
+1.089.000 1.089.000
+Saldo / Solde -
+Meerjarenraming
+Artikel
+- 2026 2.027 2.028 2.029 2.030
+Article
+INC-46.10.00/005 1.089.000 1.070.000 1.050.000 1.030.000 1.010.000 d
+EXP-12.11.00/107 - - - - -
+EXP-12.21.00/104 1.089.000 1.070.000 1.050.000 1.030.000 1.010.000
+Controle - - - - -
+EXP 1.089.000 1.070.000 1.050.000 1.030.000 1.010.000
+INC 1.089.000 1.070.000 1.050.000 1.030.000 1.010.000
+d = dotatie B.A. 19.55.22.41.40.09
+5) Verrichtingen voor de koninklijke
+domeinen (exploitatie en onderhoud)
+d = dotation A.B. 19.55.22.41.40.09
+5) Opérations concernant les domaines royaux
+(exploitation et entretien)
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+46.10.00/009 Dotatie 3.884.000 255.000 Verbruiksuitgaven - privé 12.11.00/109
+Dotation Consommation - privé
+3.338.000 Gewoon onderhoud 12.11.00/110
+Entretien ordinaire
+291.000 Verbruiksuitgaven - overheid 12.21.00/106
+Consommation - public
+3.884.000 3.884.000
+Saldo / Solde -
+
+===== PAGE 61 =====
+61
+1281/022DOC 56
+Meerjarenraming
+Artikel
+- 2026 2.027 2.028 2.029 2.030
+Article
+INC - 46.10.00/009 3.884.000 3.814.000 3.744.000 3.674.000 3.674.000
+EXP - 12.11.00/109 255.000 255.000 255.000 255.000 255.000
+EXP - 12.11.00/110 3.338.000 3.268.000 3.198.000 3.128.000 3.128.000
+EXP - 12.21.00/106 291.000 291.000 291.000 291.000 291.000
+EXP 3.884.000 3.814.000 3.744.000 3.674.000 3.674.000
+INC 3.884.000 3.814.000 3.744.000 3.674.000 3.674.000
+d = dotatie B.A. 01.30.65.41.40.02
+6) Verrichtingen betreffende investeringen
+d = dotation A.B 01.30.65.41.40.02
+6) Opérations concernant les investissements
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+28.30.00/101 Opbrengst erfpacht
+100
+5.000.000 65.50.00/100
+Produits emphytéoses
+66.71.00/100 Subsidie Nat. Loterij 3.087.872 Aankoop grond overheid 71.11.00/100
+Subsides Loterie nat. Achat terrains sect. pub.
+66.11.00/001 Dotatie 132.565.000 4.680.000 Aankoop gronden privé 71.12.00/100
+Dotation Achat terrains sect. privé
+76.11.00/100 Verkoop grond overheid 500.000 Aankoop geb. overheid 71.31.00/100
+Vente terrains sect. pub. Achat bât. sect. public
+76.12.00/100 Verkoop grond privé 500.000 Aankoop geb. privé 71.32.00/100
+Vente terrains sect. privé Achat bât. sect. privé
+76.31.00/100 Verkoop geb. overheid 12.000.000 153.006.450 Investeringen 72.00.00/100
+Ventes bât. sect. public Investissements
+76.32.00/100 Verkoop geb. privé 20.230.178 2.600.000 Investeringen REG 72.00.00/101
+Ventes bât. sect. privé Investissements URE
+- Fin. reserves 2.000.000 Buitengewoon onderhoud 72.00.00/102
+Réserves fin.
+Entretien extraordinaire
+700.000 Restauratie patrimonium 72.00.00/103
+Restauration patrimoine
+196.700 Restauratie patrimonium 72.00.00/104
+Restauration patrimoine
+700.000 Asbestsanering 72.00.00/105
+Assainissement amiante
+168.883.150 168.883.150
+Solde / Saldo -
+
+===== PAGE 62 =====
+1281/022DOC 56
+62
+Meerjarenraming
+Artikel
+-
+2.024
+2026
+2.027
+2.028
+2.029
+2.030
+Article
+INC - 28.30.00/101
+63.171
+100
+100
+100
+100
+100
+INC - 66.71.00/100
+3.087.872
+3.087.872
+3.087.872
+3.087.872
+3.087.872
+3.087.872
+INC - 66.11.00/001
+107.341.000
+132.565.000
+134.627.000
+102.681.000
+140.286.000
+132.225.000
+INC - 66.11.00/003
+INC - 66.11.00/004
+INC - 76.11.00/100
+500.000
+500.000
+500.000
+500.000
+500.000
+500.000
+INC - 76.12.00/100 -
+500.000
+500.000
+500.000
+500.000
+500.000
+INC - 76.31.00/100
+8.267.500
+12.000.000
+32.699.245
+12.000.000
+12.000.000
+12.000.000
+INC - 76.32.00/100
+15.942.000
+20.230.178
+8.000.000
+12.000.000
+12.000.000
+12.000.000
+Rés.fin. / Fin. res.
+3.500.000 - - - - -
+EXP - 65.50.00/100
+5.000.000
+5.000.000 - - -
+EXP - 71.11.00/100
+125.000 - - - - -
+EXP - 71.12.00/100
+125.000
+4.680.000 - - - -
+EXP - 71.31.00/100
+125.000 - - - - -
+EXP - 71.32.00/100
+125.000 - - - - -
+EXP - 72.00.00/100
+108.867.671
+153.006.450
+168.217.517
+124.572.272
+162.177.272
+156.116.272
+EXP - 72.00.00/101
+12.200.000
+2.600.000
+2.600.000
+2.600.000
+2.600.000
+2.600.000
+EXP - 72.00.00/102
+11.826.000
+2.000.000
+2.000.000
+2.000.000
+2.000.000
+700.000
+
+===== PAGE 63 =====
+63
+1281/022DOC 56
+Meerjarenraming
+Artikel
+-
+2.024
+2026
+2.027
+2.028
+2.029
+2.030
+Article
+EXP - 72.00.00/103
+3.087.872
+700.000
+700.000
+700.000
+700.000
+196.700
+EXP - 72.00.00/104
+1.875.000
+196.700
+196.700
+196.700
+196.700 -
+EXP - 72.00.00/105
+345.000
+700.000
+700.000
+700.000
+700.000
+700.000
+EXP
+138.701.543
+168.883.150
+179.414.217
+130.768.972
+168.373.972
+160.312.972
+INC
+138.701.543
+168.883.150
+179.414.217
+130.768.972
+168.373.972
+160.312.972
+De investeringsdotatie wordt aangevuld door de
+volgende "eigen ontvangsten" van de Regie:
+art. 28.30.00/101 Opbrengsten van erfpacht
+e.d.
+art. 46.70.00/100 Subsidies van de Nationale
+Loterij
+art. 76.11.00/100 Verkoop van gronden binnen
+de overheidssector
+art. 76.12.00/100 Verkoop van gronden aan de
+privé-sector
+art. 76.31.00/100 Verkoop van gebouwen
+binnen de overheidssector
+art. 76.32.00/100 Verkoop van gebouwen aan
+de privé-sector
+- Eigen financiële reserves
+Het geheel van deze ontvangsten wordt aan de
+uitgavenzijde aangewend voor:
+art. 71.11.00/100 Aankoop van gronden binnen
+de overheidssector
+art. 71.12.00/100 Aankoop van gronden van de
+privé-sector
+art. 71.31.00/100 Aankoop van gebouwen
+binnen de overheidssector
+art. 71.32.00/100 Aankoop gebouwen van de
+privé-sector
+art. 72.00.00/100 Investeringswerken
+art. 72.00.00/101 Investeringen REG
+art. 72.00.00/102 Buitengewone
+onderhoudswerken
+art. 72.00.00/103 Restauratie patrimonium
+art. 72.00.00/104 Restauration van het
+Justitiepaleis van Brussel
+La dotation d'investissement est complétée par les
+"recettes propres" suivantes de la Régie:
+art. 28.30.00/101 Produits d'emphytéose etc.
+art. 46.70.00/100 Subsides de la Loterie
+nationale
+art. 76.11.00/100 Vente de terrains à l'intérieur du
+secteur public
+art. 76.12.00/100 Vente de terrains au secteur
+privé
+art. 76.31.00/100 Vente de bâtiments à l'intérieur
+du secteur public
+art. 76.32.00/100 Vente de bâtiments au secteur
+privé
+- Réserves financières propres
+La totalité de ces recettes est utilisée dans le
+budget des dépenses pour:
+art. 71.11.00/100 Achat de terrains à l'intérieur du
+secteur public
+art. 71.12.00/100 Achat de terrains du secteur
+privé
+art. 71.31.00/100 Achat de bâtiments à l'intérieur
+du secteur public
+art. 71.32.00/100 Achat de bâtiments (secteur
+privé)
+art. 72.00.00/100 Travaux d'investissements
+art. 72.00.00/101 Investissements URE
+art. 72.00.00/102 Travaux d'entretien
+extraordinaire
+art. 72.00.00/103 Restauration patrimoine
+art. 72.00.00/104 Restauration du Palais de
+Justice de Bruxelles
+
+===== PAGE 64 =====
+1281/022DOC 56
+64
+art. 72.00.00/105 Saneringswerken in
+gebouwen waar de aanwezigheid van asbest is
+vastgesteld
+art. 72.00.00/105 Assainissement dans des
+bâtiments où la présence d’amiante a été constatée
+d = dotatie BA 19.55.21.61.41.03
+7) Verrichtingen voor de koninklijke domeinen
+(investeringen)
+d = dotation AB 19.55.21.61.41.03
+7) Opérations concernant les domaines royaux
+(investissements)
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+66.11.00/006 Dotatie 945.000 945.000 Investeringen 72.00.00/106
+Dotation Investissements
+0 Buitengewoon onderhoud 72.00.00/107
+Entretien extraordinaire
+945.000 945.000
+Saldo / Solde 0
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC - 66.11.00/006 945.000 945.000 945.000 945.000 945.000
+EXP - 72.00.00/106 945.000 945.000 945.000 945.000 945.000
+EXP - 72.00.00/107 0 0 0 0 0
+controle 0 0 0 0
+EXP 945.000 945.000 945.000 945.000 945.000
+INC 945.000 945.000 945.000 945.000 945.000
+d = dotatie B.A. 01.30.65.61.41.03
+d = dotation A.B. 01.30.65.61.41.03
+
+===== PAGE 65 =====
+65
+1281/022DOC 56
+8) Verrichtingen betreffende eerste
+inrichtingswerken
+8) Opérations concernant les frais de première
+installation
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+66.11.00/007 Dotatie EIW 20.339.000 0 EIW bezetters 72.00.00/102
+Dotation TPI TPIoccupants n-lim
+72.00.00/101 Voorschotten EIW 10.275.304 27.704.440 EIW Regie 72.00.00/112
+Avances TPI TPI Régie
+76.31.00/100 Verkoop geb. overheid 0 2.909.864 Incentives 74.22.00/101
+Ventes bât. sect. public Incentives
+76.32.00/100 Verkoop geb. privé 0 Afronding dotatie 72.00.00/112
+Ventes bât. sect. privé Arrondi dotation
+Fin. reserves
+30.614.304 30.614.304
+Saldo / Solde 0
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC - 66.11.00/007 20.339.000 17.036.000 17.036.000 17.036.000 17.036.000
+INC - 72.00.00/101 10.275.304 - - - -
+INC -76.31.00/100 - - - - -
+INC - 76.32.00/100 - - - - -
+EXP - 72.00.00/102 - - - - -
+n-lim
+EXP - 72.00.00/112 27.704.440 17.036.000 17.036.000 17.036.000 17.036.000
+EXP - 74.22.00/101 2.909.864 - - - -
+Controle - - - - -
+EXP 30.614.304 17.036.000 17.036.000 17.036.000 17.036.000
+INC 30.614.304 17.036.000 17.036.000 17.036.000 17.036.000
+d = dotatie B.A. 19.55.22.61.41.01
+d = dotation A.B. 19.55.22.61.41.01
+
+===== PAGE 66 =====
+1281/022DOC 56
+66
+9) Verrichtingen betreffende Subsidies van de FOD
+Kanselarij voor investeringen in de gebouwen
+bezet door internationale instellingen
+9) Opérations concernant les subsides du
+SPF Chancellerie pour des investissements
+dans les bâtiments occupés par des
+institutions internationales
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+66.11.00/008 Subsidie Kanselarij
+2.480.000
+100 Erelonen 12.11.00/102
+Subsides Chancellerie Honoraires
+46.10.00/010 Subsidie FOD Kanselarij
+1.099.000
+1.099.000
+Onderhoud Zetelbeleid 12.11.00/103
+Subsides SPF
+Chancellerie
+Entretien Pol. Sièges
+5.000
+Verwijlintresten 21.40.00/101
+Intérêts de retard
+-
+Schadeverg. en
+gerechtskosten 32.00.00/101
+Dédomm. et frais de justice
+2.474.900
+Investeringen 72.00.00/110
+Investissements
+- Buitengewoon onderhoud 72.00.00/111
+Entretien extraordinaire
+3.579.000
+3.579.000
+Saldo / Solde -
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC - 66.11.00/008 2.480.000 2.480.000 2.480.000 2.480.000 2.480.000
+INC - 46.10.00/010 1.099.000 1.079.000 1.059.000 1.039.000 1.019.000
+EXP - 12.11.00/102 100 100 100 100 100
+EXP - 12.11.00/103 1.099.000 1.079.000 1.059.000 1.039.000 1.019.000
+EXP - 21.40.00/101 5.000 5.000 5.000 5.000 5.000
+EXP - 32.00.00/101 0 0 0 0 0
+EXP - 72.00.00/110 2.474.900 2.474.900 2.474.900 2.474.900 2.474.900
+EXP - 72.00.00/111 0 0 0 0 0
+EXP - 84.11.00/100 0 0 0 0
+
+===== PAGE 67 =====
+67
+1281/022DOC 56
+EXP 3.579.000 3.559.000 3.539.000 3.519.000 3.499.000
+INC 3.579.000 3.559.000 3.539.000 3.519.000 3.499.000
+d = dotatie B.A. 02 36 16 414001 02 36 16 614101
+10) Verrichtingen in het raam van het
+Recovery and Resilience Facility
+d = dotation A.B. 02 36 16 414001 02 36 16 614101
+10) Opérations concernant Recovery and Resilience
+Facility
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+66.11.00/009 Dotatie 20.710.000 20.710.000 Renovatiewerken RRF 72.00.00/113
+Dotation Travaux de rénovation
+RRF
+20.710.000 20.710.000
+Saldo / Solde 0
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC - 66.11.00/009 20.710.000 37.864.000 49.674.000 43.992.000 - d
+EXP - 72.00.00/113 20.710.000 37.864.000 49.674.000 43.992.000 -
+Controle - - - - -
+EXP 20.710.000 37.864.000 49.674.000 43.992.000 -
+INC 20.710.000 37.864.000 49.674.000 43.992.000 -
+d = dotatie B.A. 19.55.21.61.41.05
+d = dotation A.B. 19.55.21.61.41.05
+11) Verrichtingen voor de onderhoudskosten – 11) Opérations concernant l’entretien
+2026
+Artikel Ontvangsten Raming Raming Uitgaven Artikel
+- - - - - -
+Article Recettes Estimation Estimation Dépenses Article
+16.20.00/102 Bezettingsvergoeding 411.029 23.689.421 Onderhoud Staat - privé 12.11.00/104
+Redevance d'occupation Entretien Etat - privé
+
+===== PAGE 68 =====
+1281/022DOC 56
+68
+16.20.00/103 Huuropbrengst G&G 57.808 457.017 Onderh. niet-Staat - privé 12.11.00/105
+Recettes locatives C&R Entr. non-Etat - privé
+46.10.00/002 Dotatie 33.075.000 4.314.457 Onderhoud - privé-sector 12.11.00/108
+Dotation , Entretien - secteur privé
+- Fin. reserves 525.000 Energieaudits 12.11.00/113
+Réserves fin. Audits énergétiques
+4.536.122 Onderhoud Staat - overh. 12.21.00/102
+Entretien Etat - public
+11.820
+Onderh. niet-Staat -
+overh. 12.21.00/103
+Entr. non-Etat - public
+10.000 Onderhoud - overheid 12.21.00/105
+33.543.837 33.543.837
+Saldo / Solde 0
+Meerjarenraming
+Artikel
+- 2026 2027 2028 2029 2030
+Article
+INC - 16.20.00/102 411.029 411.029 411.029 411.029 411.029
+INC - 16.20.00/103 57.808 57.808 57.808 57.808 57.808
+INC - 46.10.00/002 33.075.000 32.577.000 32.079.000 31.581.000 31.581.000 d
+EXP - 12.11.00/104 23.689.421 23.191.421 23.218.421 22.720.421 22.720.421
+EXP - 12.11.00/105 457.017 457.017 457.017 457.017 457.017
+EXP - 12.11.00/108 4.314.457 4.314.457 4.314.457 4.314.457 4.314.457
+EXP - 12.11.00/113 525.000 525.000
+EXP - 12.21.00/102 4.536.122 4.536.122 4.536.122 4.536.122 4.536.122
+EXP - 12.21.00/103 11.820 11.820 11.820 11.820 11.820
+EXP-12.21.00/105 10.000 10.000 10.000 10.000 10.000
+Controle 0 0 0 0 0
+EXP 33.543.837 33.045.837 32.547.837 32.049.837 32.049.837
+INC 33.543.837 33.045.837 32.547.837 32.049.837 32.049.837
+d = dotatie B.A. 19.55.22.41.40.03 d = dotation A.B. 19.55.22.41.40.03
+
+===== PAGE 69 =====
+69
+1281/022DOC 56
+B. AARD EN RAMING VAN DE UITGAVEN
+ARTIKEL 11 – Lonen en sociale lasten
+Synthesetabel
+B. NATURE ET ESTIMATION DES DEPENSES
+ARTICLE 11 - Salaires et charges sociales
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+11.11.00
+11.11.00/100 CF_00 lim 37.847.856 44.809.627 44.983.704
+11.11.00/101 CF_00 lim 3.591.486 4.338.458 4.110.701
+Totaal-total 41.439.341 49.148.085 49.094.405
+11.12.00
+11.12.00/100 CF_00 lim 5.964.342 5.393.731 5.438.316
+11.12.00/101 CF_00 lim 687.468 565.036 593.934
+11.12.00/102 CF_00 lim 931.271 1.300.000 1.324.873
+Totaal-total 7.583.081 7.258.767 7.357.123
+11.20.00
+11.20.00/100 CF_00 lim 25.442.417 24.220.500 24.561.512
+Totaal-total 25.442.417 24.220.500 24.561.512
+11.31.00
+11.31.00/100 CF_00 lim 9.124 70.000 73.647
+11.31.00/101 CF_00 lim 0 0 0
+11.31.00/102 CF_00 lim 201.858 250.000 255.168
+Totaal-total 210.981 320.000 328.815
+11.32.00
+11.32.00/100 CF_00 lim 532.901 525.000 529.853
+11.32.00/101 CF_00 lim 72.327 25.000 29.517
+Totaal-total 605.227 550.000 559.370
+11.40.00
+11.40.00/100 CF_00 lim 641.950 640.000 647.630
+Totaal-total 641.950 640.000 647.630
+Total art 11
+Totaal art 11 75.922.999 82.137.352 82.548.855
+Berekening van de personeelsenveloppe (prorata
+eBMC) :
+Aangepaste enveloppe 2025: 82.137.352
+Indexering (4%) 3.176.149
+Besparing (1,8%) -1.402.168
+Pool der parastatalen (+0,5%) +225.000
+Herziening indexering (-2%) -1.587.478
+--------------------
+Enveloppe 2026 82.548.855
+Calcul de l’enveloppe de personnel (prorata eBMC) :
+Enveloppe 2025 : 82.137.352
+Indexation (4%) 3.176.149
+Economie (1,8%) -1.402.168
+Pool des parastataux (+0,5%) +225.000
+Révision indexation (-2%) -1.587.478
+--------------------
+Enveloppe 2026 82.548.855
+
+===== PAGE 70 =====
+1281/022DOC 56
+70
+Titel van de economische codes:
+- 11.11.00/100 Bezoldiging volgens
+weddeschaal statutair
+- 11.11.00/101 Bezoldiging volgens
+weddeschaal
+- 11.12.00/100 Bezoldiging statutairen: andere
+elementen
+- 11.12.00/101 Bezoldiging contractuelen:
+andere elementen
+- 11.12.00/102 Andere vergoedingen en
+toelagen
+- 11.20.00/100 Sociale lasten
+- 11.31.00/100 Directe toelagen statutairen
+- 11.31.00/101 Directe toelagen contractuelen
+- 11.31.00/102 Arbeidsongevallen
+- 11.32.00/100 Doorbetaling van loon
+statutairen
+- 11.32.00/101 Doorbetaling van loon
+contractuelen
+- 11.40.00/100 (lonen in natura)
+Intitulé des codes économiques :
+- 11.11.00/100 Rémunération barémique
+statutaire
+- 11.11.00/101 Rémunération barémique
+contractuels
+- 11.12.00/100 Rémunération statutaire :
+autres éléments
+- 11.12.00/101 Rémunération contractuelle :
+autres éléments
+- 11.12.00/102 Autres indemnités et allocations
+- 11.20.00/100 Charges sociales
+- 11.31.00/100 Allocations directes statutaires
+- 11.31.00/101 Allocations directes contractuels
+- 11.31.00/102 Accidents de travail
+- 11.32.00/100 Paiement maintenu statutaires
+- 11.32.00/101 Paiement maintenu contractuels
+- 11.40.00/100 Salaire en nature (chèque repas)
+ARTIKEL 12 - Aankoop van niet duurzame
+goederen en diensten
+ECONOMISCHE CODE: 12.11.00 Algemene
+werkingskosten (buiten overheidssector)
+Synthesetabel
+ARTICLE 12 - Achats de biens non durables et de
+services
+CODE ECONOMIQUE: 12.11.00 Frais généraux de
+fonctionnement (hors administrations publiques)
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+12.11.00
+12.11.00/100 CF_00 lim 6.596.014 9.153.009 9.561.445
+12.11.00/101 CF_00 lim 2.305.043 2.000.000 2.370.292
+12.11.00/102 CF_00 lim 0 100 100
+12.11.00/103 CF_00 lim 705.455 957.898 1.099.000
+12.11.00/104 CF_00 lim 16.064.175 19.821.421 23.689.421
+12.11.00/105 CF_00 lim 298.662 451.000 457.017
+12.11.00/107 CF_00 lim 0 0 0
+12.11.00/108 CF_00 lim 2.200.947 4.314.457 4.314.457
+12.11.00/109 CF_00 lim 273.225 255.000 255.000
+12.11.00/110 CF_00 lim 3.450.485 3.235.000 3.338.000
+12.11.00/111 CF_00 lim 71.935.626 72.585.734 86.875.749
+12.11.00/112 CF_00 lim 0 0 0
+12.11.00/113 CF_00 lim 0 0 525.000
+Totaal-total 103.829.633 112.773.619 132.485.481
+
+===== PAGE 71 =====
+71
+1281/022DOC 56
+12.11.00/100
+Werkingskosten
+a) Aard van de uitgave
+Werkingskosten van de Regie der Gebouwen
+betreffende:
+(1) Verschillende kosten gedragen door de Regie
+der Gebouwen ter bevordering van de beroepskennis
+en -kwalificaties van haar personeel en van het
+personeel dat haar ter beschikking wordt gesteld,
+vergoedingen aan lesgevers inbegrepen.
+(2) Betaling van alle uitgaven die door de fiscale
+overheid beschouwd worden als vergoedingen en
+toelagen die werkelijke lasten dekken en die dus niet
+belastbaar zijn.
+(3) Honoraria die per abonnement worden betaald
+aan personen die geen deel uitmaken van de
+administratie (advokaten, dokters, deskundigen enz.),
+evenals de retributie voor aansluiting bij de VZW
+IDEWE.
+(4) Betaling van allerlei kosten die de diensten en
+ambtenaren van de Regie der Gebouwen moeten
+maken en die inherent zijn aan de uitoefening en/of
+de verantwoordelijkheden van hun functie of
+opdracht.
+(5) Betaling van :
+-zendingen naar het buitenland;
+- reis- en verblijfskosten;
+(6) Receptiekosten te dekken die o.m. voortvloeien
+uit de organisatie van manifestaties en openbare
+plechtigheden, zoals inhuldigingen,
+eerstesteenleggingen, persconferenties, colloquia,
+congressen enz.
+(7) Betaling van de huur van roerende goederen
+(meubilair, kantoormachines, rekenmachines,
+fotokopieermachines, brandblusapparaten enz.) en
+van eventueel door de Regie gehuurde voertuigen
+(met uitsluiting van de vergoedingen verschuldigd uit
+hoofde van een overeenkomst van het type
+huur/financiering).
+Tegenwoordig gaat het vooral om kopieerapparaten
+en apparaten voor planafdruk.
+(8) Betaling van:
+- Onderhouds- en herstellingskosten en kosten
+voor het terug in goede staat brengen van gebouwen
+en lokalen bezet door de diensten van de Regie der
+Gebouwen. Het gaat hier uitsluitend om onderhouds-
+en herstellingswerken ten laste van de bezetter,
+m.a.w. om werken die niet kunnen beschouwd
+worden als gewoon of buitengewoon
+eigenaarsonderhoud, dat aangerekend moet worden
+op lit. 12.11.00/103 of 72.00.00/102 (indien het
+12.11.00/100
+Frais de fonctionnement
+a) Nature de la dépense
+Frais de fonctionnement de la Régie des bâtiments
+relatifs à :
+(1) Frais divers supportés par la Régie des
+Bâtiments en vue d'accroître les connaissances et les
+qualifications professionnelles des membres de son
+personnel ainsi que du personnel mis à sa disposition,
+y compris les émoluments des chargés de cours.
+(2) Paiement de toutes les dépenses considérées
+par l'Administration fiscale comme des indemnités ou
+des allocations couvrant des charges réelles et pour
+cette raison comme non imposables.
+(3) Versement d'honoraires payés par
+abonnement aux personnes étrangères à
+l'administration qui sont rémunérées forfaitairement
+(avocats, médecins, experts, etc.), ainsi que de la
+redevance pour l'affiliation à l’A.S.B.L. IDEWE.
+(4) Paiement des frais de toute nature que les
+services et les fonctionnaires de la Régie des
+Bâtiments doivent exposer et qui sont inhérent à
+l'exécution et/ou aux responsabilités de leur fonction
+ou de leur mission.
+(5) Paiement :
+- des missions à l'étranger;
+- des frais de parcours et de séjour;
+(6) Frais de réception résultant e.a. de
+l'organisation de manifestations et cérémonies
+publiques telles que cérémonies d'inauguration,
+poses de première pierre, conférences de presse,
+colloques, congrès, etc.
+(7) Paiement de la location de biens meubles
+(mobilier, machines de bureau, machines à calculer,
+photocopieuses, extincteurs, etc.) et au paiement de
+la location éventuelle de véhicules automobiles par la
+Régie (à l'exclusion des redevances dues en vertu
+d'un contrat de type location/financement).
+A présent, il s'agit principalement de photocopieurs et
+de tireuses de plans.
+(8) Paiement:
+- Des frais d'entretien, de réparation ou de
+remise en état des bâtiments et des locaux occupés
+par les services de la Régie des Bâtiments; Il s'agit
+exclusivement de travaux d'entretien ou de réparation
+à charge de l'occupant, c.-à-d. des travaux qui ne
+peuvent pas être considérés comme des travaux
+d'entretien ordinaire ou extraordinaire incombant au
+propriétaire, qui doivent être imputés sur le lit.
+12.11.00/103 ou 72.00.00/102 (si le bâtiment est géré
+
+===== PAGE 72 =====
+1281/022DOC 56
+72
+gebouw beheerd wordt door de Regie der Gebouwen)
+of eventueel op lit. 12.11.00/108 (indien het om een
+gehuurd gebouw gaat). Tot het onderhoud ten laste
+van de bezetter behoort ook het onderhoud van
+telefooncentrales.
+- Verbruiksuitgaven die verband houden met de
+bezetting van gebouwen en lokalen door de diensten
+van de Regie der Gebouwen (waterverbruik
+inbegrepen). Tot deze categorie van uitgaven
+behoren ook de milieuvergunningen die eventueel
+vereist zijn voor de exploitatie van het gebouw,
+evenals alle soorten retributies (b.v. voor het
+verwijderen van vuilnis).
+(9) Betaling van onderhouds- en
+herstellingskosten van materieel en meubilair van de
+Regie of door haar gehuurd, met uitzondering van het
+informaticamaterieel;
+(10) Betaling van onderhouds- en
+herstellingskosten van het rollend materieel van de
+Regie of door haar gehuurd, met inbegrip van de
+kosten voor motorbrandstof, benzine, olie enz., voor
+dit rollend materieel.
+(11) Betaling van de verzekeringspremies
+(12) De verwarming en de verlichting van de
+gebouwen bezet door de eigen diensten van de Regie
+der Gebouwen .
+(13) Allerhande uitgaven (aankoop en onderhoud)
+voor de uitrusting van het administratief en technisch
+personeel van de Regie.
+(14) Kleine uitgaven voor lokalen en materieel die
+niet kunnen aangerekend worden op de andere
+artikels van de rubriek.
+(15) Betaling van :
+- kantoorbehoeften;
+- telefoon-, GSM- en faxkosten, met inbegrip van
+de kosten van internet- en e-mailverbindingen
+evenals de kosten voor de aansluiting op het
+telefoonnet;
+- niet-duurzame documentatie, waarvan de
+minieme waarde geen aanrekening op artikel 74
+toelaat (b.v. dagbladen en tijdschriften, uittreksels uit
+het kadaster, lijsten van geregistreerde aannemers,
+notarisakten, adresbestanden, bijwerking van
+abonnementen enz., met uitzondering van
+handleidingen voor informaticamaterieel en software);
+- bankkosten;
+- frankeerkosten;
+klein bureaumaterieel (niet aan de inventaris
+onderworpen);
+- fiscale zegels;
+- "Reprobel"-vergoeding, indien ze afzonderlijk
+gefactureerd wordt;
+- koffie in de "coffee corners" van de NWOW-
+kantoren;
+- varia.
+par la Régie des Bâtiments) ou éventuellement sur le
+lit. 12.11.00/108 (s'il s'agit d'un bâtiment loué).
+L'entretien des centrales téléphoniques fait partie
+également de l'entretien incombant à l'occupant.
+- Des dépenses de consommation en rapport
+avec l'occupation de bâtiments et locaux par les
+services de la Régie des Bâtiments (y compris la
+consommation d'eau). Cette catégorie de dépenses
+comprend également les permis d'environnement qui
+peuvent être requis en vue de l'exploitation du
+bâtiment, ainsi que toutes sortes de redevances (p.e.
+pour l'enlèvement des immondices).
+(9) Paiement des frais d'entretien et de réparation
+du matériel et du mobilier de la Régie ou loués par
+elle, à l'exception du matériel informatique;
+(10) Paiement des frais d'entretien et de réparation
+du matériel roulant de la Régie ou loué par elle, y
+compris les frais de carburant, d'essence, d'huile, etc.,
+nécessité par ce même matériel.
+(11) Paiement des primes d'assurances
+(12) Chauffage et à l'éclairage des bâtiments
+occupés par les services de la Régie des Bâtiments.
+(13) Dépenses de toute nature (achat et entretien)
+relatives à l'équipement du personnel administratif et
+technique de la Régie.
+(14) Petites dépenses pour locaux et matériel qui ne
+peuvent être imputées sur les autres articles de la
+rubrique.
+(15) Paiement :
+- de fournitures de bureau,
+- des frais de téléphone, GSM et fax, y compris les
+frais des connections internet et e-mail ainsi que des
+frais de raccordement au réseau téléphonique;
+- de documentation non durable, dont la valeur
+minimale ne permet pas une imputation sur l'article 74
+(p.e. journaux et périodiques, extraits du cadastre,
+listes des entrepreneurs enregistrés, des actes
+notariés, listes d'adresses, mises à jour
+d'abonnements, etc., à l'exception de manuels pour le
+matériel informatique et des logiciels);
+- des frais de banque;
+- des frais d'affranchissement;
+- de petit matériel de bureau (non soumis à
+l'inventaire);
+- de timbres fiscaux;
+- de la redevance "Reprobel", si elle est facturée
+séparément;
+- du café dans les "coffee corners" des bureaux
+NWOW:
+- de divers.
+
+===== PAGE 73 =====
+73
+1281/022DOC 56
+(16) Betaling van uitgaven van allerlei aard in
+verband met de werking en het onderhoud van de
+informatica- en burotica-installaties
+(17) Kosten te dekken van o.m.:
+- de publicatie van de tijdschriften en periodieken
+die de Regie der Gebouwen uitgeeft, met inbegrip van
+de kosten voor het drukken ervan en de vergoeding
+van gelegenheids-medewerkers;
+- alle publicaties die uitgaan van de Persdienst van
+de Regie der Gebouwen, met inbegrip van eventuele
+audiovisuele documentatie;
+- de deelneming aan of organisatie van
+tentoonstellingen en allerlei manifestaties (o.a.
+informatieve panelen, vergoeding voor prestaties van
+gidsen, deelnemers, sprekers, presentators,
+moderators, podiumkunstenaars, enz.);
+-de plaatsing van gedenkstenen (b.v. bij
+inhuldigingen) indien de uitgave ten laste wordt
+gelegd van de Regie der Gebouwen.
+(18) Betaling van erelonen verschuldigd aan
+deurwaarders, advocaten, deskundigen enz. die niet
+forfaitair betaald worden, maar met inbegrip van
+provisionele voorschotten;
+(19) Betaling van bedragen verschuldigd aan
+derden op wier medewerking de Regie der Gebouwen
+een beroep moet doen om haar taken te kunnen
+vervullen. Het betreft verrichtingen die verband
+houden hetzij met de uitoefening van de statutaire
+opdracht van de Regie, hetzij met de normale werking
+van de instelling en die zij normaal zelf zou kunnen of
+moeten uitvoeren, maar die, om welke reden dan ook,
+uitbesteed worden aan derden:
+b) Berekeningsmethode van de uitgave in 2026
+Bedrag 2025 9.153.009
+Besparing ebmc werkingskosten -536.985
+Index ebmc werkingskosten 397.212
+Herverdeling 548.209
+Bedrag 2026 9.561.445
+(16) Paiement de dépenses de toute nature se
+rapportant aux frais de fonctionnement, d'assistance
+et de maintenance des installations informatiques et
+bureautiques.
+(17) Frais résultant e.a.:
+- de la publication des revues et périodiques édités
+par la Régie des Bâtiments, y compris les frais
+d'impression ainsi que les rétributions allouées aux
+collaborateurs occasionnels;
+- de toutes les publications sortant du service de
+Presse de la Régie des Bâtiments, y compris, le cas
+échéant, la documentation audiovisuelle;
+- de la participation à ou l'organisation des
+expositions et des manifestations diverses (e.a. des
+panneaux d'information, la rémunération des
+prestations de guides, de participants, d'orateurs, de
+présentateurs, de modérateurs, d'artistes, etc.);
+- de la mise en place de plaques commémoratives
+(p.e. d'inauguration) à condition que la dépense soit
+mise à la charge de la Régie des Bâtiments
+(18) Paiement des honoraires dus aux huissiers,
+avocats, experts, etc., non payés forfaitairement,
+mais y compris les avances provisionnelles;
+(19) Paiement des sommes dues à des tiers dont la
+Régie des Bâtiments doit s'assurer le concours pour
+pouvoir exercer sa mission. Il s'agit des opérations de
+toute nature relatives à l'exécution de la mission
+statutaire de la Régie ou au fonctionnement normal
+de l'organisme, c'est-à-dire, des opérations qui sont
+normalement à effectuer par la Régie elle-même,
+mais qui sont, pour n'importe quelle raison, cédées à
+un tiers:
+b) Méthode de calcul de la dépense en 2026
+Montant 2025 9.153.009
+Économie ebmc crédits fonctionnement -536.985
+Index ebmc crédits fonctionnement 397.212
+Redistribution 548.209
+Montant 2026 9.561.445
+
+===== PAGE 74 =====
+1281/022DOC 56
+74
+12.11.00/101 Intercalaire kosten
+a) Aard van de uitgave
+Krediet bestemd voor de betaling van:
+1. De kosten die zich voordoen in:
+- de periode tussen het oprichten of aankopen van
+een onroerend goed en de bezetting ervan;
+- de periode tussen de overdracht voor verkoop
+van onroerende goederen en de werkelijke verkoop
+ervan;
+- periodes van leegstand waarbij de Regie der
+Gebouwen bepaalde uitgaven ten laste moet nemen
+die zij noch aan de vorige noch aan de toekomstige
+bezetter kan factureren;
+- periodes waarin een onroerend goed, of een deel
+ervan, wordt verhuurd aan derden, in afwachting van
+een andere bestemming.
+Het betreft o.m. de kosten van water-, gas- en
+elektriciteitsverbruik, verwarmingskosten, de kosten
+die gepaard gaan met het wegnemen van water-, gas-
+en elektriciteitsmeters, kosten van contracten
+aangegaan n.a.v. een vroegere bezetting maar die
+doorlopen tijdens de periode van leegstand (b.v.
+kuisen van ruiten, gemeenschappelijke lasten,
+bezettersaandeel in het onderhoud van de centrale
+verwarming, ...) enz.
+Opmerking: het "eigenaarsonderhoud" dat in
+dergelijke periodes uitgevoerd wordt (inclusief de
+contracten "totale waarborg"), moet aangerekend
+worden op art. 12.11.00/104.
+2. De kosten die voortvloeien uit het te koop stellen
+van onroerende goederen die door de Regie der
+Gebouwen aan het Bestuur van de Domeinen voor
+verkoop werden overgedragen: opmetingskosten,
+maken van plannen, bodemonderzoek, publiciteit in
+de pers, affiches en panelen enz.
+3. Publiciteit voorafgaand aan het afsluiten van een
+overeenkomst voor bezetting ter bede.
+b) Berekeningsmethode van de uitgave in 2026
+Gemiddelde 2023-2024 2.206.847
+Raming 2026 2.370.292
+12.11.00/101 Frais intercalaires
+a) Nature de la dépense
+Crédit destiné au paiement:
+1. Des frais qui se présentent:
+- pendant l'intervalle entre la construction ou
+l'acquisition d'un bien immeuble et son occupation;
+- durant la période entre la remise pour vente
+d'un immeuble et sa vente proprement dite;
+- pendant que le bâtiment est inoccupé si la
+Régie des Bâtiments doit prendre en charge certaines
+dépenses qu'elle ne sait pas facturer à l'occupant
+précédent ou futur;
+- durant la période au cours de laquelle un bien
+immobilier, ou une partie de celui-ci, est loué à des
+tiers en attendant une autre destination.
+Il s'agit notamment de frais de consommation
+d'eau, de gaz et d'électricité, de frais de chauffage,
+des frais résultant de l'enlèvement de compteurs à
+eau, à gaz et de compteurs d'électricité, des frais
+résultant de contrats engagés suite à une occupation
+précédente et qui se poursuivent durant la période de
+non-occupation (lavage de vitres, frais communs,
+partie de l'occupant de l'entretien du chauffage
+central, ...), etc.
+Observation: les "travaux d'entretien", appartenant
+au propriétaire et exécutés pendant ces périodes (y
+compris les contrats de "garantie totale"), doivent être
+imputés sur les articles 12.11.00/104.
+2. Des frais résultant de la mise en vente de biens
+immobiliers qui ont été transmis par la Régie des
+Bâtiments à l'Administration des Domaines en vue
+d'être vendus: frais géométriques, plans, prospection
+du sol, publicité dans la presse, affiches, panneaux,
+etc.
+3. Publicité préalable à la conclusion d'un contrat
+pour occupation à titre précaire.
+b) Méthode de calcul de la dépense en 2026
+Moyenne 2023-2024 2.206.847
+Estimation 2026 2.370.292
+
+===== PAGE 75 =====
+75
+1281/022DOC 56
+12.11.00/102
+Honoria van advocaten, experten, deurwaarders
+(internationale instellingen)
+a) Aard van de uitgave
+Krediet bestemd voor de betaling van erelonen
+verschuldigd aan deurwaarders, advocaten,
+deskundigen enz. die niet forfaitair betaald worden
+(maar met inbegrip van provisionele voorschotten) in
+het kader van geschillen naar aanleiding van werken
+uitgevoerd ten behoeve van de Europese Unie of
+andere internationale instellingen.
+b) Berekeningsmethode van de uitgave in 2026
+Er wordt jaarlijks een provisioneel krediet van 100
+euro voorzien.
+c) Uitleg i.v.m. het verschil tussen het
+gevraagde bedrag en de genormeerde begroting
+2025
+Krediet 2025: 100
+--------------------
+Voorgesteld krediet 2026: 100
+12.11.00/103
+Onderhoud van de gebouwen bezet door
+internationale instellingen.
+Financieringsbron: 100% subsidie vanwege de FOD
+Kanselarij van de Eerste Minister.
+Zie art 46.10.00/010 in ontvangsten
+a) Berekeningsmethode van de uitgave in 2026
+De totale subsidie van de FOD Kanselarij wordt
+gesplitst over twee ontvangstenartikels, naargelang
+het gaat om gewone onderhoudsuitgaven of
+investeringsuitgaven. Art. 12.11.00/103 bevat de
+uitgavenkredieten voor het onderhoud.
+Krediet 2025: 957.898
+Indexering (1,3%): 12.000
+Besparing (MR 14.02.2025) -16.000
+Herverdeling investering 145.102
+--------------------
+Krediet 2026: 1.099.000
+12.11.00/104
+Onderhoud van de Rijksgebouwen beheerd door
+de Regie der Gebouwen
+a) Aard van de uitgave
+Artikel 12.11.00/104 is bestemd voor de betaling van
+de bedragen die verschuldigd zijn voor het gewoon
+onderhoud van de Rijksgebouwen beheerd door de
+12.11.00/102
+Honoraires d’avocats, experts, huissiers
+(institutions internationales)
+a) Nature de la dépense
+Crédit destiné au paiement des honoraires dus aux
+huissiers, avocats, experts, etc., non payés
+forfaitairement (mais y compris les avances
+provisionnelles) dans le cadre de litiges en rapport
+avec des travaux effectués au profit de l'Union
+européenne ou d'autres institutions internationales.
+b) Méthode de calcul de la dépense en 2026
+Chaque année un crédit provisionnel de 100 euros
+est prévu.
+c) Explication relative à la différence entre le
+montant demandé et le budget normé 2025
+Crédit 2025 : 100
+--------------------
+Crédit 2026 proposé: 100
+12.11.00/103
+Entretien des bâtiments occupés par des
+institutions internationales.
+Source de financement: 100% subsides de la part du
+SPF Chancellerie du Premier Ministre.
+Voir art 46.10.00/010 en recettes
+a) Méthode de calcul de la dépense en 2026
+Le subside total du SPF Chancellerie est réparti entre
+deux articles de recettes, suivant qu'il s'agit de
+dépenses d'entretien ou d'investissement. L'art.
+12.11.00/103 comprend les crédits de dépenses pour
+l'entretien.
+Crédit 2025: 957.898
+Indexation (1,3%): 12.000
+Economie (CM.14.02.2025) -16.000
+Redistribution investissement 145.102
+--------------------
+Crédit 2026 : 1.099.000
+12.11.00/104
+Entretien des bâtiments de l'Etat gérés par la
+Régie des Bâtiments
+a) Nature de la dépense
+L'article 12.11.00/104 est destiné au paiement des
+sommes dues pour l'entretien ordinaire des bâtiments
+de l'Etat gérés par la Régie des Bâtiments, pour
+
+===== PAGE 76 =====
+1281/022DOC 56
+76
+Regie der Gebouwen, voor zover de begunstigden
+behoren tot de privésector.
+Met "gewoon onderhoud" wordt bedoeld: het dagelijks
+eigenaarsonderhoud, zowel aan de binnenkant als
+aan de buitenkant van de gebouwen, evenals het
+dagelijks onderhoud van centrale
+verwarmingsinstallaties, liften, beplantingen, sanitair,
+elektriciteit enz.
+Onder "eigenaarsonderhoud" verstaat men alle
+onderhoudswerken die krachtens het Administratief
+Reglement ten laste vallen van de eigenaar van de
+onroerende goederen die door de Regie der
+Gebouwen beheerd worden in naam en voor rekening
+van de federale Staat (in tegenstelling tot het
+"bezettersonderhoud", dat ten laste valt van de
+begroting van de bezettende diensten). De Regie
+voert in principe geen eigenaarsonderhoud uit in
+gebouwen die geen federaal Staatseigendom zijn.
+Onder "dagelijks onderhoud" verstaat men alle
+onderhoudswerken die geen enkele meerwaarde
+geven aan het patrimonium, maar die nodig zijn om
+het gebouw normaal en ononderbroken in gebruik te
+houden, in dezelfde staat en voor dezelfde
+doeleinden. Zo b.v.:
+1. Werken die nodig zijn om het gebouw continu in
+goede staat te bewaren, die regelmatig voorkomen
+en/of die gering van omvang zijn:
+- permanente controle, nazicht en behandeling;
+- herstellingen en vervangingen zonder
+meerwaarde;
+- bij defecten (b.v. lekken, verstoppingen,
+kortsluitingen, bevriezing, roest, defecten veroorzaakt
+door vocht of vuil, beschadigingen door ongevallen of
+vandalisme of door natuurelementen, ...);
+- bij normale slijtage of ouderdom (b.v.
+vloerbekleding, schrijnwerk, lampen,
+buitenschilderwerk, ...);
+- preventief (b.v. van dakbedekking, hout,
+metaal, ...).
+2. Contracten "totale waarborg".
+(Opmerking: de contracten "technisch beheer"
+zijn een bezetterslast).
+3. Het reinigen van een gebouw vóór de bezetting
+ervan.
+4. Bepaalde uitgaven die rechtstreeks verband
+houden met de uitvoering van gewone
+onderhoudswerken (b.v. voorbereidende studies,
+proeven, huren en plaatsen van stellingen, parking
+voor de aannemers enz.).
+Onder " Buitengewone onderhoudswerken " verstaat
+men periodieke of eenmalige onderhoudswerken die
+geen substantiële meerwaarde geven aan het
+patrimonium, maar waarbij elementen aan de
+binnenkant of aan de buitenkant van de gebouwen al
+dan niet volledig vernieuwd worden, op een manier
+autant que les bénéficiaires appartiennent au secteur
+privé.
+On entend par "entretien ordinaire", l'entretien courant
+du propriétaire, à l'extérieur comme à l'intérieur des
+bâtiments, ainsi que l'entretien courant des
+installations du chauffage central, des ascenseurs,
+des abords, des installations sanitaires, de
+l'électricité, etc.
+"L'entretien du propriétaire" comprend tous les
+travaux d'entretien qui, en vertu du "Règlement
+administratif", sont à la charge du propriétaire des
+biens immobiliers gérés par la Régie des Bâtiments
+au nom et pour le compte de l'Etat fédéral (par
+opposition à "l'entretien de l'occupant", à prendre en
+charge par le budget des services occupants). En
+principe, la Régie n'effectue pas de l'entretien de
+propriétaire dans des bâtiments qui ne sont pas
+propriété de l'Etat fédéral.
+"L'entretien courant" comprend tous les travaux
+d'entretien qui n'apportent aucune plus-value au
+patrimoine, mais qui sont nécessaires pour l'utilisation
+normale et ininterrompue de l'immeuble, dans les
+mêmes conditions et pour la même destination. Ainsi
+p.e.:
+1. Travaux qui sont nécessaires pour maintenir le
+bâtiment continuellement en bon état, qui sont
+exécutés régulièrement et/ou dont la valeur est
+minime:
+- contrôles, inspections et traitements
+permanents;
+- réparations et remplacements sans plus-value ;
+- lors de défauts (p.e. fuites, obstructions, court-
+circuits, gel, rouille, défauts occasionnés par
+l'humidité ou par la saleté, dégâts causés par des
+accidents ou du vandalisme ou par des phénomènes
+naturels, ...);
+- suite à l'usure normale ou à la vétusté (p.e.
+revêtement du sol, menuiserie, lampes, peinture
+extérieure, ...);
+- préventivement (p.e. revêtement des toits,
+éléments en bois ou métalliques, ...).
+2. Contrats "garantie totale".
+(Remarque: les contrats "gestion technique"
+sont des charges de l'occupant).
+3. Le nettoyage d'un immeuble avant son occupation.
+4. Certaines dépenses qui sont directement liées à
+l'exécution de travaux d'entretien courant (p.e. études
+préliminaires, essais, la location et la mise en place
+d'échafaudages, parcage pour les entrepreneurs,
+etc.).
+"L'entretien extraordinaire" comprend tous les travaux
+d'entretien périodiques ou uniques qui n'apportent
+pas de plus-value importante au patrimoine, mais
+pendant lesquels des éléments à l'intérieur ou à
+l'extérieur des bâtiments sont renouvelés
+(complètement ou pas), d'une manière qui dépasse
+
+===== PAGE 77 =====
+77
+1281/022DOC 56
+die verder gaat dan het dagelijkse onderhoud dat
+nodig is om de gebouwen in goede staat te bewaren.
+b) Berekeningsmethode van de uitgave in 2026
+Krediet 2025: 19.821.421
+Indexering 366.000
+Besparing (MR.14.02.2025) -498.000
+Herverdeling investering 4.000.000
+--------------------
+Krediet 2026: 23.689.421
+12.11.00/105
+Onderhoud van de Rijksgebouwen bezet door
+openbare diensten, andere dan de federale Staat
+en gerecupereerd bij de bezetters.
+a) Aard van de uitgave
+Krediet bestemd voor de betaling, aan begunstigden
+uit de privésector, van onderhoudswerken in de
+Staatsgebouwen beheerd door de Regie der
+Gebouwen, maar bezet door derden, openbare
+diensten andere dan de federale Staat. Het gaat om
+dezelfde werken als gespecifieerd bij de
+verantwoording van artikel 12.11.00/104.
+Deze uitgaven wordt gerecupereerd bij de bezetters,
+met aanrekening op de ontvangstenartikels
+16.20.00/100 (huuropbrengsten) of 16.20.00/102
+(bezettingsvergoeding). Er zijn nog maar twee
+instellingen die een bezettingsvergoeding betalen,
+namelijk het Rekenhof en het Grondwettelijk Hof.
+b) Berekeningsmethode van de uitgave in 2026
+1. Rekenhof en Grondwettelijk Hof
+Aan het Rekenhof en het Grondwettelijk Hof wordt
+een totale onderhoudsvergoeding aangerekend tegen
+de prijs per m² die overeenstemt met het
+onderhoudskrediet dat beschikbaar is voor de
+Staatsdiensten:
+Rekenhof:
+reële bezette bureauoppervlakte: 58.274 m²
+vergoeding: 58.274 * 6,26 *1,013 = 369.538
+euro.
+Grondwettelijk Hof:
+reële bezette bureauoppervlakte: 6.543 m²
+vergoeding: 6.543 * 6,26 *1,013 = 41.492 euro.
+Totale bezettingsvergoeding voor onderhoud:
+369.538 + 41.492 = 411.029 euro.
+2. Gemeenschappen en Gewesten
+De diensten van de Gemeenschappen en Gewesten
+bezetten bureauoppervlakte in gebouwen die
+eigendom zijn van de federale Staat. De
+l'entretien courant nécessaire pour maintenir les
+bâtiments en bon état.
+b) Méthode de calcul de la dépense en 2026
+Crédit 2025 : 19.821.421
+Indexation 366.000
+Economie (CM.14.02.2025) -498.000
+Redistribution investissement 4.000.000
+--------------------
+Crédit 2026 : 23.689.421
+12.11.00/105
+Entretien des bâtiments de l'Etat occupés par
+des services publics autres que l'Etat fédéral et
+récupérés auprès des occupants.
+a) Nature de la dépense
+Crédit destiné au paiement, aux bénéficiaires
+appartenant au secteur privé, des dépenses
+d'entretien des bâtiments de l'Etat gérés par la Régie
+des Bâtiments, mais occupés par des tiers, services
+publics autres que l'Etat fédéral. Il s'agit des mêmes
+types de travaux que ceux spécifiés dans la
+justification de l'article 12.11.00/104.
+Ces dépenses sont récupérées auprès des
+occupants, avec imputation sur les articles des
+recettes 16.20.00/100 (recettes locatives) ou
+16.20.00/102 (redevance d'occupation). Il ne reste
+que deux institutions qui paient une redevance
+d'occupation, à savoir la Cour des Comptes et la Cour
+constitutionnelle.
+b) Méthode de calcul de la dépense en 2026
+1. Cour des Comptes et Cour constitutionnelle
+Une redevance d'occupation totale pour entretien est
+mise en compte de la Cour des Comptes et de la Cour
+constitutionnelle, au prix au m² qui correspond au
+crédit d'entretien disponible pour les services de
+l'Etat:
+Cour des Comptes:
+surface de bureau occupée réelle: 58.274 m²
+redevance: 58.274 * 6,26 *1,013 = 369.538 euros.
+Cour constitutionnelle:
+surface de bureau occupée réelle: 6.543 m²
+redevance: 6.543 * 6,26 *1,013 = 41.492 euros.
+Redevance d'occupation pour entretien totale:
+369.538 + 41.492 = 411.029 euros.
+2. Communautés et Régions
+Les services des Communautés et des Régions
+occupent des surfaces "plateau" dans des immeubles
+propriétés de l'Etat fédéral. Les frais d'entretien de
+
+===== PAGE 78 =====
+1281/022DOC 56
+78
+onderhoudskosten van deze lokalen worden gedekt
+door het huurgeld betaald door de Gemeenschappen
+en Gewesten, tegen een prijs/m² van 6,26 euro (zie
+ook artikel 16.20.00/100).
+Onderhoudskrediet:
+57.808 euro.
+3. Totaal krediet
+411.029 + 57.808 = 468.837 euro.
+Dit krediet wordt als volgt verdeeld:
+Artikel 12.11.00/105
+(betalingen aan de privésector): 457.017
+Artikel 12.21.00/103
+(betalingen aan de openbare sector): 11.820
+--------------------
+Totaal 468.837
+ces locaux sont couverts par le loyer payé par les
+Communautés et les Régions, à un prix de 6,26 euros
+au m² (voir également l'article 16.20.00/100).
+Crédit d'entretien:
+57.808 euros
+3. Crédit total
+411.029 + 57.808 = 468.837 euros.
+Ce crédit est réparti comme suit:
+Article 12.11.00/105
+(paiements au secteur privé): 457.017
+Article 12.21.00/103
+(paiements au secteur public): 11.820
+--------------------
+Total 468.837
+12.11.00/108
+Diverse werken en studies in gebouwen die geen
+Staatseigendom zijn maar die wel gebruikt
+worden voor de huisvesting van Staatsdiensten,
+van door de Staat beheerde openbare diensten of
+van sommige categorieën door de Staat bezoldigd
+personeel.
+a) Aard van de uitgave
+Krediet bestemd voor de betaling van
+onderhoudswerken, studies en diverse andere
+werken in gebouwen die geen eigendom zijn van de
+federale Staat en als dusdanig niet door de Regie der
+Gebouwen beheerd worden, maar die wel gebruikt
+worden voor de huisvesting van Staatsdiensten, van
+door de Staat beheerde openbare diensten of van
+sommige categorieën door de Staat bezoldigd
+personeel.
+De bedoelde werken mogen geen investerings-
+karakter hebben en mogen evenmin behoren tot de
+categorie van werken die gewoonlijk ten laste van de
+bezetter vallen of waarvoor de bezetter kredieten kan
+voorzien op zijn eigen begroting.
+De noodzaak om bepaalde werken in niet-
+Staatsgebouwen moet aan te rekenen op de
+begroting van de Regie der Gebouwen uitdrukkelijk
+en ondubbelzinnig verantwoord worden (door
+vonnissen, arresten, rechtspraak, beslissingen van de
+Ministerraad, conventies, (huur)contracten of andere
+overeenkomsten).
+12.11.00/108
+Divers travaux et études dans des bâtiments qui
+ne sont pas propriété de l'Etat mais qui sont
+utilisés pour le logement des services de l'Etat,
+des services publics gérés par l'Etat ou pour
+certaines catégories du personnel rétribué par
+l'Etat.
+a) Nature de la dépense
+Crédit destiné à l'exécution de travaux d'entretien,
+d'études et d'autres travaux divers dans des
+bâtiments qui ne sont pas propriété de l'Etat fédéral
+et qui, par conséquent, ne sont pas gérés par la Régie
+des Bâtiments, mais qui sont tout de même utilisés
+pour le logement des services de l'Etat, des services
+publics gérés par l'Etat ou pour certaines catégories
+du personnel rétribué par l'Etat.
+Les travaux envisagés ne peuvent pas présenter un
+caractère d'investissement ni faire partie de la
+catégorie des travaux qui sont normalement à la
+charge de l'occupant ou pour lesquels l'occupant peut
+inscrire des crédits sur son propre budget.
+La nécessité d'imputer certains travaux dans des
+bâtiments qui ne sont pas propriété de l'Etat sur le
+budget de la Régie des Bâtiments, doit être justifiée
+explicitement et indiscutablement (par un arrêt, un
+jugement, la jurisprudence, une décision du Conseil
+des Ministres, une convention, un contrat (de loyer)
+ou d'autres accords).
+
+===== PAGE 79 =====
+79
+1281/022DOC 56
+b) Berekeningsmethode van de uitgave in 2026
+Krediet 2025: 4.314.457
+Indexatie – compensatie 0
+--------------------
+Krediet 2026: 4.314.457
+b) Méthode de calcul de la dépense en 2026
+Crédit 2025 : 4.314.457
+Indexation – compensation 0
+--------------------
+Crédit 2026 : 4.314.457
+12.11.00/109
+Verbruiksuitgaven van de koninklijke paleizen.
+a) Aard van de uitgave
+Krediet bestemd voor de verbruiksuitgaven van de
+Koninklijke paleizen, met name het water- en
+elektriciteitsverbruik en de verwarming van:
+- het koninklijk kasteel van Laken;
+- het koninklijk paleis van Brussel.
+Het gaat meer bepaald om betalingen aan
+leveranciers die behoren tot de privésector.
+De verdeling van het elektriciteitsverbruik gebeurt op
+basis van de verschillende teller opnames en volgens
+een verdeelsleutel afgesproken tussen de Regie en
+de Civiele Lijst. Deze verdeling wordt jaarlijks
+herberekend op basis van het reëel verbruik van het
+voorgaande jaar.
+b) Berekeningsmethode van de uitgave in 2026
+Krediet 2025: 255.000
+Indexatie – compensatie 0
+--------------------
+Krediet 2026: 255.000
+12.11.00/109
+Dépenses de consommation des palais royaux.
+a) Nature de la dépense
+Crédit destiné à couvrir les dépenses de
+consommation des palais royaux, notamment la
+consommation d'eau et d'électricité et le chauffage:
+- du château royal de Laeken;
+- du palais royal de Bruxelles.
+Il s'agit plus particulièrement des paiements aux
+fournisseurs appartenant au secteur privé.
+La répartition de la consommation d'électricité se fait
+sur base des différents enregistrements des
+compteurs, suivant une clé de répartition fixée en
+concertation entre la Régie et la Liste Civile. Cette
+répartition est révisée annuellement, tablée sur la
+consommation réelle de l'année précédente.
+b) Méthode de calcul de la dépense en 2026
+Crédit 2025 : 255.000
+Indexation – compensation 0
+--------------------
+Crédit 2026 : 255.000
+9. 12.11.00/110
+Gewoon onderhoud van de Koninklijke domeinen
+beheerd door de Regie der Gebouwen.
+a) Aard van de uitgave
+Krediet bestemd voor de betaling van de bedragen die
+verschuldigd zijn voor het gewoon onderhoud van de
+Koninklijke domeinen (gebouwen en parken) beheerd
+door de Regie der Gebouwen.
+Voor meer details: zie art. 12.11.00/104.
+b) Berekeningsmethode van de uitgave in 2026
+Krediet 2025: 3.235.000
+Indexatie besparing 2025 48.000
+Herverdeling 120.000
+Besparing (MR.14.02.2025) -65.000
+--------------------
+Krediet 2026: 3.338.000
+9. 12.11.00/110
+Entretien ordinaire des domaines royaux gérés
+par la Régie des Bâtiments.
+a) Nature de la dépense
+Crédit destiné au paiement des sommes dues pour
+l'entretien ordinaire des domaines royaux (bâtiments
+et parcs) gérés par la Régie des Bâtiments.
+Plus de détails: cfr. l'art. 12.11.00/104.
+b) Méthode de calcul de la dépense en 2026
+Crédit 2025 : 3.235.000
+Indexation dotation 2025 48.000
+Redistribution 120.000
+Economie (CM.14.02.2025) -65.000
+--------------------
+Crédit 2026 : 3.338.000
+
+===== PAGE 80 =====
+1281/022DOC 56
+80
+12.11.00/111
+Beschikbaarheidsvergoedingen DBFM
+(“Design, Build, Finance, Maintain”)
+Financieringsbron: 100% dotatie.
+a) Aard van de uitgave
+Voor de gebouwen opgericht via een DBFM(O)-
+procedure wordt de investeringskost geactiveerd op
+de balans van de promotoren en vervolgens door die
+promotoren afgeschreven over de duurtijd van de
+operationele periode. De federale Staat hoeft dus
+geen investeringswaarde te boeken; hij betaalt
+gedurende de operationele periode alleen een
+trimestriële "beschikbaarheidsvergoeding",
+bestaande uit:
+- een vaste investeringsvergoeding, ter dekking
+van de bouwkosten en de financieringskosten;
+- een indexeerbare vergoeding voor onderhoud
+en facilitaire diensten.
+Alleen de investeringsvergoeding en de
+onderhoudsvergoeding zijn (al dan niet gedeeltelijk)
+ten laste van de Regie der Gebouwen; de andere
+kosten zijn ten laste van de bezetters.
+De beschikbaarheidsvergoeding is verschuldigd
+vanaf het begin van de operationele periode en moet
+dus vanaf dan voorzien worden in de dotatie.
+b) Berekeningsmethode van de uitgave in 2026
+De Ministerraad heeft op 13/10/2023 de volgende
+beslissing genomen in het kader van de voorbereiding
+van de initiële begroting voor 2024 (notificaties van de
+Ministerraad van 13 oktober 2023, punt 23, blz. 73 en
+74):
+12.11.00/111
+Redevances de disponibilité DBFM
+(“Design, Build, Finance, Maintain”)
+Source de financement: 100% dotation.
+a) Nature de la dépense
+Par rapport aux bâtiments construits via une
+procédure DBFM(O), le coût d'investissement est
+activé sur le bilan des promoteurs et par la suite
+amorti par ces promoteurs durant la période
+opérationnelle. Dès lors, aucune valeur
+d'investissement ne doit être imputée par l'Etat
+fédéral; celui-ci payera uniquement une "redevance
+de disponibilité" trimestrielle, tout le long de la période
+opérationnelle. Cette redevance couvre:
+- une indemnité d'investissement fixe couvrant
+les coûts de construction et de financement;
+- une indemnité indexable pour l'entretien et
+pour des services logistiques.
+Seules la redevance d'investissement et la redevance
+d'entretien sont (partiellement ou non) à charge de la
+Régie des Bâtiments; les autres frais sont à charge
+des occupants.
+La redevance de disponibilité est due à partir du début
+de la période opérationnelle; à partir de ce moment
+elle est à inscrire dans la dotation.
+b) Méthode de calcul de la dépense en 2026
+Le Conseil des Ministres a pris la décision suivante en
+date du 13/10/2023 dans le cadre de l’élaboration du
+budget initial 2024 (notifications du Conseil des
+Ministres du 13 octobre 2023, point 23, pages 73 et
+74) :
+
+===== PAGE 81 =====
+81
+1281/022DOC 56
+De volgende methodologie werd gevalideerd:
+De basis voor het bedrag van alle vergoedingen
+(inclusief de investeringen) wordt berekend op basis
+van het bedrag van de vergoedingen zoals
+vastgelegd in de Financial close (goedgekeurd door
+de Ministerraad);
+Voor de vergoedingen die worden betaald door de
+Regie der Gebouwen EN de FOD Justitie
+(investeringen en onderhoud) wordt de verdeling van
+de bijdrage door de Regie der Gebouwen en de FOD
+Justitie berekend volgens de aanvaarde WOG's;
+De DBFM-kredieten zijn opgenomen in specifieke
+basisallocaties die een gesloten envelop vormen.
+Gezamenlijke berekening van de indexering :
+Het voorlopige bedrag van de vergoedingen (met
+uitzondering van de investeringsvergoeding, die niet
+wordt geïndexeerd) wordt als volgt berekend:
+- Facturatie + indexering Planbureau + 3% marge
+- Facturatie: laatst gekende, geverifieerde en
+afgehandelde kwartaalfactuur, die vervolgens wordt
+vermenigvuldigd met 4 + BTW;
+- Indexering Planbureau: toepassing van de index van
+de consumptieprijzen aan de hand van de laatste
+ramingen van het Planbureau;
+- Marge van 3%: ter dekking van eventuele
+schommelingen van de parameters die groter zijn dan
+het indexcijfer van de consumptieprijzen. Dit
+percentage wordt bepaald op basis van de historiek
+van de voorbije jaren (index van de consumptieprijzen
+parallel met de indexeringsparameters in de
+omzendbrieven). Dit geraamde percentage kan
+worden aangepast in functie van de evolutie van het
+indexcijfer van de consumptieprijzen in de volgende
+begrotingsjaren.
+Op basis van de gemeenschappelijke
+begrotingsmethode is in artikel 12.11.00/111 een
+totaal krediet van 86.875.749 euro opgenomen.
+La méthodologie suivante a été validée :
+La base du montant de toutes les redevances (y
+compris investissement) est calculée à partir du
+montant des redevances tel que repris dans les
+Financial close (approuvés en Conseil des Ministres)
+;
+Pour les redevances qui sont prises en charge par la
+Régie des Bâtiments ET le SPF Justice
+(investissement et entretien), la répartition de
+l’intervention de la Régie des Bâtiments et du SPF
+Justice est calculée selon les MDO acceptées ;
+Les crédits DBFM sont repris sur des allocations de
+base/articles spécifiques qui forment une enveloppe
+fermée.
+Calcul commun de l’indexation :
+Le montant provisionnel des redevances (excepté la
+redevance d’investissement qui n’est pas indexée)
+est calculé de la manière suivante :
+- Facturation + indexation Bureau du plan + marge de
+3%
+- Facturation : dernière facturation trimestrielle
+connue, vérifiée et liquidée qui est ensuite multipliée
+par 4 + TVA ;
+- Indexation Bureau du Plan : application de l’indice
+des prix à la consommation en prenant les dernières
+estimations du Bureau du Plan ;
+- Marge de 3% : afin de couvrir les éventuelles
+fluctuations des paramètres qui seraient plus
+importantes que l’indice des prix à la consommation.
+Ce pourcentage est déterminé sur base de
+l’historique des dernières années (indices des prix à
+la consommation en parallèle avec les paramètres
+d’indexation repris dans les circulaires budgétaires).
+Ce pourcentage prévisionnel peut être ajusté en
+fonction de l'évolution de l'indice des prix à la
+consommation lors d'exercices budgétaires
+ultérieurs.
+Sur base de la méthodologie commune de
+budgétisation, un crédit total de 86.875.749 euros est
+inscrit sur l'article 12.11.00/111.
+1. Antwerpen
+In 2026 zal de Regie der Gebouwen voor het eerst
+ook een volledige beschikbaarheidsvergoeding
+moeten betalen voor het nieuw penitentiair complex
+van Antwerpen.
+1. Anvers
+En 2026, la Régie des Bâtiments devra payer pour la
+première fois une redevance de disponibilité complète
+pour le nouveau complexe pénitentiaire d’ Anvers.
+
+===== PAGE 82 =====
+1281/022DOC 56
+82
+Zij bedraagt 18.921.704 euro per jaar (deel Regie der
+Gebouwen) en 14.191.278 euro voor 2026
+(operationele gevangenis in het 2e kwartaal). Deze
+bedragen kunnen nog veranderen in functie van de
+inflatie.
+Voor meer details over het project: zie artikel
+46.10.00/003.
+De definitieve verdeelsleutel Regie der Gebouwen –
+FOD Justitie, zal pas bepaald worden vlak voor de
+beschikbaarheidsdatum (voorlopig nog 2026).
+Elle s'élève à 18.921.704 euros par an (partie Régie
+des Bâtiments), et à 14.191.278 euros pour 2026
+(prison opérationnelle au 2ème trimestre). Ces
+montants sont encore révisables en fonction de
+l'inflation.
+Pour plus de détails concernant ce projet: voir l'article
+46.10.00/003.
+Juste avant la date de mise à disposition
+(provisoirement en 2026), la clé de répartition
+définitive entre la Régie des Bâtiments et le SPF
+Justice sera fixée.
+(Aandeel van de Regie der Gebouwen)
+(Quote-part de la Régie des Bâtiments)
+Jaar / année 2024 réalisé 2025 ini 2025 CB 2026 2027 2028 2029 2030
+Leuze Investering /
+Investissement 7.514.792 7.514.792 7.514.792 7.514.792 7.514.792 7.514.792 7.514.792 7.514.792
+Onderhoud /
+Entretien 1.463.504 1.515.993 1.576.909 1.597.409 1.597.409 1.597.409 1.597.409 1.597.409
+Tot. 8.978.296 9.030.785 9.091.701 9.112.201 9.112.201 9.112.201 9.112.201 9.112.201
+Marche Investering /
+Investissement 6.859.500 6.859.500 6.859.500 6.859.500 6.859.500 6.859.500 6.859.500 6.859.500
+Onderhoud /
+Entretien 1.434.535 1.532.011 1.551.275 1.579.198 1.579.198 1.579.198 1.579.198 1.579.198
+Tot. 8.294.035 8.391.511 8.410.776 8.438.699 8.438.699 8.438.699 8.438.699 8.438.699
+Beveren Investering /
+Investissement 9.088.298 9.088.298 9.088.298 9.088.298 9.088.298 9.088.298 9.088.298 9.088.298
+Onderhoud /
+Entretien 1.267.107 1.336.546 1.313.549 1.330.625 1.330.625 1.330.625 1.330.625 1.330.625
+Tot. 10.355.405 10.424.844 10.401.848 10.418.924 10.418.924 10.418.924 10.418.924 10.418.924
+Dendermonde
+Investering /
+Investissement 8.976.931 8.913.515 8.941.028 8.941.028 8.941.028 8.941.028 8.941.028 8.941.028
+Onderhoud /
+Entretien 1.290.583 1.370.748 1.408.430 1.426.740 1.426.740 1.426.740 1.426.740 1.426.740
+Tot. 10.267.514 10.284.263 10.349.459 10.367.768 10.367.768 10.367.768 10.367.768 10.367.768
+Haren Investering /
+Investissement 29.221.033 29.221.033 29.221.033 29.221.033 29.221.033 29.221.033 29.221.033 29.221.033
+Onderhoud /
+Entretien 4.819.343 5.180.915 5.060.065 5.125.846 5.125.846 5.125.846 5.125.846 5.125.846
+Tot. 34.040.376 34.401.948 34.281.098 34.346.879 34.346.879 34.346.879 34.346.879 34.346.879
+Antwerpen Investering /
+Investissement
+12.810.117 17.080.156 17.080.156 17.080.156 17.080.156
+Onderhoud /
+Entretien
+1.381.161 1.841.548 1.841.548 1.841.548 1.841.548
+Tot. 14.191.278 18.921.704 18.921.704 18.921.704 18.921.704
+TOT.
+Investering /
+Investissement
+61.660.554 61.597.138 61.624.651 74.434.768 78.704.807 78.704.807 78.704.807 78.704.807
+TOT.
+Onderhoud /
+Entretien
+10.275.072 10.936.213 10.910.228 12.440.979 12.901.366 12.901.366 12.901.366 12.901.366
+Alg. tot. gén. 71.935.626 72.533.351 72.534.882 86.875.749 91.606.175 91.606.175 91.606.175 91.606.175
+
+===== PAGE 83 =====
+83
+1281/022DOC 56
+12.11.00/113
+Energieaudits: toegekend bijkrediet gebruikt voor
+energiestudies en voor het plaatsen van
+mazouttellers
+Transitie-investeringen NEKP
+Het toegekende bijkrediet zal gebruikt worden voor
+energiestudies en voor het plaatsen van
+mazouttellers.
+In de periode 2024 -2027 is een krediet voorzien, als
+volgt verdeeld:
+2025: 518.209 euro
+2026: 525.000 euro
+2027: 525.000 euro
+Bedrag 2025 0
+Compensatie 72.00.00/101lim 525.000
+Bedrag 2026 525.000
+ECONOMISCHE CODE: 12.12.00 Huurgelden van
+gebouwen
+Synthesetabel
+12.11.00/113
+Audits énergétiques : crédit supplémentaire
+actuellement accordé et utilisé pour des études
+énergétiques et le placement de compteurs de
+mazout
+Investissements de transition PNEC
+Le crédit supplémentaire actuellement accordé sera
+utilisé pour des études énergétiques et le placement
+de compteurs de mazout.
+Dans la période 2025 - 2027 un crédit est prévu pour
+ces trois points d'action, réparti comme suit:
+2025: 518.209 euros
+2026: 525.000 euros
+2027: 525.000 euros
+Montant 2025 0
+Compensation 72.00.00/101lim 525.000
+Montant 2026 525.000
+CODE ECONOMIQUE: 12.12.00 Locations de
+bâtiments
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+12.12.00
+12.12.00/100 CF_00 lim 6.769.896 6.855.376 7.074.483
+12.12.00/101 CF_00 lim 419.711.910 411.248.020 400.506.331
+12.12.00/102 CF_00 lim 4.634.574 2.639.243 2.597.299
+Totaal-total 431.116.380 420.742.639 410.178.113
+
+===== PAGE 84 =====
+1281/022DOC 56
+84
+12.12.00/100
+Huur van lokalen en huurlasten ten behoeve van
+de eigen diensten van de Regie der Gebouwen
+a) Aard van de uitgave
+Krediet bestemd voor het betalen van de huurgelden
+en alle bijkomende lasten die verband houden met het
+huren van gebouwen of lokalen bestemd voor de
+huisvesting van de eigen diensten van de Regie der
+Gebouwen (inbegrepen schadevergoedingen en alle
+andere kosten die voortspruiten uit de huur en die in
+het huurcontract voorzien zijn).
+b) Berekeningsmethode van de uitgave in 2026
+Totaal bedrag te betalen voor de huurcontracten die
+van kracht waren, rekening houdend met de mogelijke
+opzeggingen: 7.074.483 euro.
+12.12.00/100
+Loyers de locaux et charges locatives pour les
+besoins des services propres de la Régie des
+Bâtiments
+a) Nature de la dépense
+Crédit destiné au paiement des loyers et de toutes les
+charges complémentaires résultant de la location
+d’immeubles ou de locaux pour le logement des
+services propres de la Régie des Bâtiments (y
+compris les dégâts locatifs et tous les autres frais
+résultant de la location et prévus dans le contrat de
+location).
+b) Méthode de calcul de la dépense en 2026
+Montant total à payer pour les contrats de location en
+vigueur, compte tenu des résiliations possibles :
+7.074.483 euros.
+12.12.00/101
+Huur van lokalen en huurlasten ten behoeve van
+de Staatsdiensten, klanten van de Regie der
+Gebouwen
+a) Aard van de uitgave
+Artikel 12.12.00/101 is bestemd om, voor rekening
+van de Staat, aan de verhuurders (met name:
+eigenaars uit de privésector) de huurgelden te betalen
+voor de onroerende goederen (gebouwen,
+aanhorigheden en terreinen), gehuurd door de Regie
+der Gebouwen en bezet door Staatsdiensten, door de
+Staat beheerde openbare diensten en door sommige
+categorieën van door de Staat bezoldigd personeel in
+wier huisvesting moet worden voorzien (art. 2, art.19,
+2° en art. 20, § 1.2°, van de wet van 1 april 1971
+houdende oprichting van een Regie der Gebouwen).
+(Voor de huurgelden te betalen aan eigenaars die
+behoren tot de overheidssector: zie art.
+12.22.00/100).
+b) Berekeningsmethode van de uitgave in 2026
+1. Bestaande huurcontracten
+Voor de huurcontracten die in voege waren en die
+aangerekend moeten worden op artikel 12.12.00/101,
+moet in 2026 een totaal huurgeld betaald worden van
+408.184.146 euro.
+2. Opgezegde contracten
+De besparing die in 2026 mogelijk is ten gevolge van
+de opzegging en de heronderhandeling van
+huurcontracten wordt geraamd op 24.945.657 euro.
+12.12.00/101
+Loyers de locaux et charges locatives pour les
+besoins des services de l'Etat, clients de la Régie
+des Bâtiments
+a) Nature de la dépense
+L'article 12.12.00/101 est destiné à payer, pour le
+compte de l'Etat, aux bailleurs (à savoir: aux
+propriétaires appartenant au secteur privé) les loyers
+des biens immobiliers (bâtiments avec leurs
+dépendances et terrains) loués par la Régie des
+Bâtiments et occupés par des services de l'Etat, par
+les services publics gérés par l'Etat ou par certaines
+catégories de personnel rétribué par l'Etat au
+logement desquelles il y a lieu de pourvoir (art. 2,
+art.19, 2° et art. 20, § 1.2° de la loi du 1 avril 1971
+créant une Régie des Bâtiments).
+(Pour les loyers à payer aux propriétaires appartenant
+au secteur public: voir art. 12.22.00/100).
+b) Méthode de calcul de la dépense en 2026
+1. Contrats de location existants
+Le loyer total à payer en 2026 pour les contrats de
+location en vigueur, à imputer sur l'article
+12.12.00/101, s'élèvera à 408.184.146 euros.
+2. Contrats résiliés
+Les économies rendues possibles en 2026 suite à la
+résiliation et à la renégociation de baux sont estimées
+à 24.945.657 euros.
+
+===== PAGE 85 =====
+85
+1281/022DOC 56
+3. Samenvatting art. 12.12.00/101
+Bestaande huurcontracten: 423.100.460
+Indexatie 2026: 6.788.891
+Indexatie 2025: 6.471.077
+Op te zeggen inhuringen: -24.945.657
+Heronderhandelingen: -4.081.474
+Nieuwe inhuringen: 850.849
+-------------------------
+Totaal: 408.184.146
+Dotatie: 400.506.331
+Het verschil tussen de inkomsten en geraamde
+uitgaven zal worden opgevangen door een
+priorisering en besparingsacties.
+3. Récapitulatif art. 12.12.00/101
+Baux en vigueur : 423.100.460
+Indexation 2026 : 6.788.891
+Indexation 2025 : 6.471.077
+Baux à résilier : -24.945.657
+Renégociations : -4.081.474
+Nouveaux baux : 850.849
+--------------------------
+Total: 408.184.146
+Dotation : 400.506.331
+La différence entre les recettes et les dépenses
+estimées sera absorbée par une priorisation et par des
+mesures d’économie.
+12.12.00/102
+Huur van lokalen en huurlasten ten behoeve van
+niet-Staatsdiensten, klanten van de Regie der
+Gebouwen
+a) Aard van de uitgave
+Op art. 12.12.00/102 worden de huurgelden
+aangerekend die de Regie der Gebouwen, om wat
+voor reden ook, betaalt voor de huisvesting van
+overheidsdiensten in wier huisvesting zij krachtens
+haar organieke wet niet hoeft te voorzien. Het gaat
+met name om de Gemeenschappen en Gewesten en
+om bepaalde Administratieve Openbare Instellingen.
+Deze huurgelden worden volledig teruggevorderd van
+de betrokken bezetters (met aanrekening op het
+ontvangstenartikel 12.12.00/101).
+b) Berekeningsmethode van de uitgave in 2026
+Totaal bedrag van de bestaande huurcontracten :
+2.597.299 euro.
+Deze totale huurprijs bevat:
+- alle reële indexeringen;
+- de indexering geschat door het planbureau voor 2025
+en 2026;
+- opzeggingen zodat de betrokken contracten
+verwijderd werden uit de inventaris;
+- de nieuwe of vervangende inhuringen, de huurprijs -
+verhogingen.
+12.12.00/102
+Loyers de locaux et charges locatives pour les
+besoins des services non-Etat, clients de la Régie
+des Bâtiments
+a) Nature de la dépense
+L'art. 12.12.00/102 est utilisé pour l'imputation des
+loyers payés par la Régie des Bâtiments, pour
+n'importe quelle raison, pour le logement de services
+publics dont l'hébergement ne relève pas de la
+compétence de la Régie, en vertu de sa loi organique.
+Il s'agit notamment des Communautés et des Régions
+et de certains Organismes Administratifs Publics. Ces
+loyers sont entièrement récupérés de ces services
+occupants (imputation sur l'article des recettes
+12.12.00/101).
+b) Méthode de calcul de la dépense en 2026
+Montant total des contrats de location en vigueur :
+2.597.299 euros.
+Ce loyer total comprend:
+- toutes les indexations réelles ;
+- l'indexation estimée par le bureau du plan pour 2025
+et 2026;
+- les résiliations de sorte que les contrats concernés
+sont retirés de l'inventaire;
+- les locations nouvelles ou de substitution ainsi que
+les augmentations de loyer.
+
+===== PAGE 86 =====
+1281/022DOC 56
+86
+ECONOMISCHE CODE: 12.21.00
+Algemene werkingskosten (overheidssector)
+Synthesetabel
+CODE ECONOMIQUE: 12.21.00
+Frais généraux de fonctionnement (secteur public)
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+12.21.00
+12.21.00/100 CF_00 lim 2.311.137 3.000.000 2.931.270
+12.21.00/101 CF_00 lim 3.543.910 3.600.000 4.472.012
+12.21.00/102 CF_00 lim 4.484.993 4.536.122 4.536.122
+12.21.00/103 CF_00 lim 0 11.820 11.820
+12.21.00/104 CF_00 lim 1.704.038 1.094.000 1.089.000
+12.21.00/105 CF_00 lim 0 10.000 10.000
+12.21.00/106 CF_00 lim 304.390 291.000 291.000
+12.21.00/107 CF_00 lim 192.181 0 0
+12.21.00/999 CF_00 lim 875.814 2.200.000 2.165.407
+Totaal-total 13.416.463 14.742.942 15.506.631
+12.21.00/100
+Werkingskosten: aan overheidssector
+a) Aard van de uitgave
+Krediet bestemd voor de betaling aan begunstigden uit
+de openbare sector van dezelfde uitgaven als diegene
+beschreven in de verantwoording van artikel
+12.11.00/100 (zie hierboven).
+b) Berekeningsmethode van de uitgave in 2026
+Bedrag 2025 3.000.000
+Besparing 1,8% 2026 -54.000
+Herverdeling -14.730
+Bedrag 2026 2.931.270
+12.21.00/100
+Frais de fonctionnement : au secteur public
+a) Nature de la dépense
+Crédit destiné au paiement à des bénéficiaires du
+secteur public pour les dépenses décrites aux
+justifications de l’article 12.11.00/100 (voir supra).
+b) Méthode de calcul de la dépense en 2026
+Montant 2025 3.000.000
+Économie 1,8% 2026 -54.000
+Redistribution -14.730
+Montant 2026 2.931.270
+12.21.00/101
+Intercalaire kosten: aan overheidssector
+a) Aard van de uitgave
+Krediet bestemd voor de betaling aan begunstigden uit
+de openbare sector van dezelfde uitgaven als diegene
+beschreven in de verantwoording van artikel
+12.11.00/101 (zie hierboven).
+b) Berekeningsmethode van de uitgave in 2026
+Gemiddelde 2023 – 2024: 4.163.641
+Raming 2026 4.472.012
+12.21.00/101
+Frais intercalaires : au secteur public
+a) Nature de la dépense
+Crédit destiné au paiement à des bénéficiaires du
+secteur public pour les dépenses décrites aux
+justifications de l’article 12.11.00/101 (voir supra).
+b) Méthode de calcul de la dépense en 2026
+Moyenne 2023 – 2024 : 4.163.641
+Estimation 2026 4.472.012
+
+===== PAGE 87 =====
+87
+1281/022DOC 56
+1. 12.21.00/102
+Onderhoud van de Rijksgebouwen beheerd door
+de Regie der Gebouwen: overheid
+a) Aard van de uitgave
+Artikel 12.21.00/102 is bestemd voor de betaling van
+de bedragen die verschuldigd zijn voor het
+onderhoud van de Rijksgebouwen beheerd door de
+Regie der Gebouwen, voor zover de begunstigden
+behoren tot de openbare sector.
+De aard van de aan te rekenen uitgaven is identiek
+aan die van artikel 12.11.00/104; zie daar.
+b) Berekeningsmethode van de uitgave in 2026
+Krediet 2026 4.536.122
+Dit bedrag stemt bijna uitsluitend overeen met het
+akkoord voor het beheer van de groene ruimten van
+de Federale Staat en de Koninklijke Schenking.
+Deze overeenkomst, die in werking is getreden op 1
+januari 2023, is aangegaan voor een periode van 10
+jaar. De diensten van Brussel Leefmilieu worden
+vergoed op basis van een jaarlijks forfait van
+4.300.000 euro, te indexeren. Dit bedrag ligt dus vast
+en moet jaarlijks worden geïndexeerd.
+12.21.00/103
+Onderhoud van de Rijksgebouwen bezet door
+openbare diensten, andere dan de federale Staat
+en te recupereren bij de bezetters: overheid
+a) Aard van de uitgave
+Krediet bestemd voor de betaling, aan begunstigden
+uit de overheidssector, van gewone
+onderhoudswerken in de Staatsgebouwen beheerd
+door de Regie der Gebouwen, maar bezet door
+derden, openbare diensten andere dan de federale
+Staat. Het gaat om dezelfde werken als
+gespecifieerd bij de verantwoording van artikel
+12.11.00/104.
+Deze uitgaven wordt gerecupereerd bij de bezetters,
+met aanrekening op de ontvangstenartikels
+16.20.00/100 (huuropbrengsten) of 16.20.00/102
+(bezettings-vergoeding). Er zijn nog maar twee
+instellingen die een bezettingsvergoeding betalen,
+namelijk het Rekenhof en het Grondwettelijk Hof.
+b) Berekeningsmethode van de uitgave in 2026
+zie artikel 12.11.00/105
+1. 12.21.00/102
+Entretien des bâtiments de l'Etat gérés par la Régie
+des Bâtiments : public
+a) Nature de la dépense
+L'article 12.21.00/102 est destiné au paiement des
+sommes dues pour l'entretien des bâtiments de l'Etat
+gérés par la Régie des Bâtiments pour autant que les
+bénéficiaires appartiennent au secteur public.
+La nature des dépenses à imputer est identique à
+celle de l'article 12.11.00/104; voir cet article.
+b) Méthode de calcul de la dépense en 2026
+Crédit 2026 4.536.122
+Ce montant correspond presqu’uniquement à la
+convention pour la gestion d’espaces verts de l’Etat
+fédéral et la Donation royale.
+Cette convention, entrée en vigueur le 1 er janvier
+2023, a été conclue pour une durée de 10 ans. Les
+prestations de Bruxelles environnement sont
+rémunérées sur la base d’un forfait annuel de
+4.300.000 euros, à indexer. Ce montant est donc fixe
+et devra être indexé annuellement.
+12.21.00/103
+Entretien des bâtiments de l'Etat occupés par des
+services publics autres que l'Etat fédéral et à
+récupérer auprès des occupants: public
+a) Nature de la dépense
+Crédit destiné au paiement, aux bénéficiaires
+appartenant au secteur public, des dépenses
+d'entretien ordinaire des bâtiments de l'Etat gérés
+par la Régie des Bâtiments, mais occupés par des
+tiers, services publics autres que l'Etat fédéral. Il
+s'agit des mêmes types de travaux que ceux
+spécifiés dans la justification de l'article
+12.11.00/104.
+Ces dépenses sont récupérées auprès des
+occupants, avec imputation sur les articles des
+recettes 16.20.00/100 (recettes locatives) ou
+16.20.00/102 (redevance d'occupation). Il ne reste
+que deux institutions qui paient une redevance
+d'occupation, à savoir la Cour des Comptes et la
+Cour constitutionnelle.
+b) Méthode de calcul de la dépense en 2026
+voir article 12.11.00/105
+
+===== PAGE 88 =====
+1281/022DOC 56
+88
+12.21.00/104
+Specifieke bezettingslasten van de
+beleidsorganen van Ministers en
+Staatssecretarissen die ten laste vallen van de
+Regie der Gebouwen: overheid
+a) Aard van de uitgave
+(ontvangsten-artikel 46.10.00/005 - Dotatie voor
+huurlasten van beleidsorganen).
+b) Berekeningsmethode van de uitgave in 2026
+Raming 2026
+Krediet 2025: 1.094.000
+Indexatie 2026 dotatie1,3% +14.000
+Besparing dotatie (MR 14.02.2025) -19.000
+------------------
+Krediet 2026 1.089.000
+12.21.00/105
+Diverse werken en studies in gebouwen die geen
+Staatseigendom zijn maar die wel gebruikt worden
+voor de huisvesting van Staatsdiensten, van door
+de Staat beheerde openbare diensten of van
+sommige categorieën door de Staat bezoldigd
+personeel: overheid.
+a) Aard van de uitgave
+Krediet bestemd voor de betaling van gewone en
+buitengewone onderhoudswerken, studies en diverse
+andere werken in gebouwen die geen eigendom zijn
+van de federale Staat en als dusdanig niet door de
+Regie der Gebouwen beheerd worden, maar die wel
+gebruikt worden voor de huisvesting van
+Staatsdiensten, van door de Staat beheerde openbare
+diensten of van sommige categorieën door de Staat
+bezoldigd personeel.
+Het gaat om dezelfde werken als gespecifieerd bij de
+verantwoording van artikel 12.11.00/108.
+b) Berekeningsmethode van de uitgave in 2026
+Raming 2026 10.000
+12.21.00/106
+Verbruiksuitgaven koninklijke paleizen.
+a) Aard van de uitgave
+Krediet bestemd voor de verbruiksuitgaven van de
+Koninklijke paleizen, met name het water- en
+elektriciteitsverbruik en de verwarming van:
+- het koninklijk kasteel van Laken;
+- het koninklijk paleis van Brussel.
+Het gaat meer bepaald om betalingen aan
+leveranciers die behoren tot de overheidssector.
+12.21.00/104
+Frais spécifiques d'occupation des cellules
+stratégiques des Ministres et des Secrétaires
+d'Etat à prendre en charge par la Régie des
+Bâtiments : public
+a) Nature de la dépense
+(article des recettes 46.10.00/005 - Dotation pour
+charges locatives des organes stratégiques):
+b) Méthode de calcul de la dépense en 2026
+Estimation 2026
+Crédits 2025 : 1.094.000
+Indexation 2026 dotation 1,3% +14.000
+Economie dotation (CM.14.02.2025) -19.000
+------------------
+Crédits 2026 1.089.000
+12.21.00/105
+Divers travaux et études dans des bâtiments qui
+ne sont pas propriété de l'Etat mais qui sont
+utilisés pour le logement des services de l'Etat,
+des services publics gérés par l'Etat ou pour
+certaines catégories du personnel rétribué par
+l'Etat: public.
+a) Nature de la dépense
+Crédit destiné à l'exécution de travaux d'entretien
+ordinaire et extraordinaire, d'études et d'autres
+travaux divers dans des bâtiments qui ne sont pas
+propriété de l'Etat fédéral et qui, par conséquent, ne
+sont pas gérés par la Régie des Bâtiments, mais qui
+sont tout de même utilisés pour le logement des
+services de l'Etat, des services publics gérés par
+l'Etat ou pour certaines catégories du personnel
+rétribué par l'Etat.
+Il s'agit des mêmes types de travaux que ceux
+spécifiés dans la justification de l'article 12.11.00/108.
+b) Méthode de calcul de la dépense en 2026
+Estimation 2026 10.000
+12.21.00/106
+Dépenses de consommation palais royaux.
+a) Nature de la dépense
+Crédit destiné à couvrir les dépenses de
+consommation des palais royaux, notamment la
+consommation d'eau et d'électricité et le chauffage:
+- du château royal de Laeken;
+- du palais royal de Bruxelles.
+Il s'agit plus particulièrement des paiements aux
+fournisseurs appartenant au secteur public.
+
+===== PAGE 89 =====
+89
+1281/022DOC 56
+Zie ook artikel 12.11.00/109 (betalingen aan
+leveranciers die behoren tot de privésector).
+b) Berekeningsmethode van de uitgave in 2026
+Krediet 2026 291.000
+12.21.00/107
+Onderhoud van de gebouwen bezet door
+internationale instellingen – overheidssector
+Krediet bestemd voor de betaling van de bedragen
+die verschuldigd zijn voor het onderhoud van de
+gebouwen beheerd door de Regie der Gebouwen en
+bezet door internationale instellingen (zetelbeleid-
+artikel 12.11.00/103) – publieke sector.
+12.21.00/999
+Personeel eGOV
+a) Aard van de uitgave
+Conform de omzendbrief van 13 januari 2023
+betreffende de begrotingscontrole 2023-2024 en de
+meerjarenramingen - richtlijnen werd een nieuw
+artikel 12.21.00/LI-999 gecreëerd voor de imputatie
+van gedetacheerde Smals/E-GOV-medewerkers.
+b) Berekeningsmethode van de uitgave in 2026
+(prorata eBMC)
+Krediet 2025: 2.200.000
+Besparing 1,8% 2025 -39.600
+Besparing 1,8% 2026 -38.887
+Index 4% 2026 86.416
+Herziening Indexatie (-2%) -42.522
+Krediet 2026 2.165.407
+ECONOMISCHE CODE: 12.22.00
+Huurgelden van gebouwen (overheidssector)
+Synthesetabel
+Voir également l'article 12.11.00/109 (paiements aux
+fournisseurs appartenant au secteur public).
+b) Méthode de calcul de la dépense en 2026
+Crédit 2026 : 291.000
+12.21.00/107
+Entretien des bâtiments occupés par des
+institutions internationales – secteur publique
+Crédit destiné au paiement des sommes dues pour
+l'entretien des bâtiments gérés par la Régie des
+Bâtiments et occupés par des institutions
+internationales (politique de siège -article
+12.11.00/103) – secteur public.
+12.21.00/999
+Personnel eGOV
+a) Nature de la dépense
+Conformément à la circulaire du 13 janvier 2023
+relative au contrôle budgétaire 2023- 2024 et aux
+estimations pluriannuelles - directives, un nouvel
+article 12.21.00/LI-999 a été créé pour l’imputation
+du personnel détaché Smals/E-GOV.
+b) Méthode de calcul de la dépense en 2026
+(prorata eBMC)
+Montant 2025
+2.200.000
+Économie 1,8% 2025 -39.600
+Économie 1,8% 2026 -38.887
+Index 4% 2026 86.416
+Révision Indexation (-2%) -42.522
+Crédit 2026 2.165.407
+CODE ECONOMIQUE: 12.22.00
+Locations de bâtiments (secteur public)
+Tableau de synthèse
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+12.22.00
+12.22.00/100 CF_00 lim 9.047.060 28.749.610 24.564.768
+Totaal-total 9.047.060 28.749.610 24.564.768
+
+===== PAGE 90 =====
+1281/022DOC 56
+90
+12.22.00/100
+Huur van gebouwen: overheid.
+a) Aard van de uitgave
+Artikel 12.22.00/100 is bestemd om, voor rekening van
+de Staat, aan de verhuurders (met name: eigenaars uit
+de overheidssector) de huurgelden te betalen voor de
+onroerende goederen (gebouwen, aanhorigheden en
+terreinen), gehuurd door de Regie der Gebouwen en
+bezet door Staatsdiensten, door de Staat beheerde
+openbare diensten en door sommige categorieën van
+door de Staat bezoldigd personeel in wier huisvesting
+moet worden voorzien (art. 2, art.19, 2° en art. 20, §
+1.2°, van de wet van 1 april 1971 houdende oprichting
+van een Regie der Gebouwen).
+(Voor de huurgelden te betalen aan eigenaars die
+behoren tot de privésector: zie art. 12.12.00/101).
+b) Berekeningsmethode van de uitgave in 2026
+1. Bestaande huurcontracten
+Voor de huurcontracten die in voege waren en die
+aangerekend moeten worden op artikel 12.22.00/100,
+moet in 2026 een totaal huurgeld betaald worden van
+24.564.768 euro.
+2. Samenvatting art. 12.22.00/100
+Bestaande huurcontracten: 23.818.303
+Indexering 2026: 382.178
+Indexering 2025: 364.287
+--------------------
+Totaal: 24.564.768
+12.22.00/100
+Location de bâtiments : secteur public.
+a) Nature de la dépense
+L'article 12.22.00/100 est destiné à payer, pour le
+compte de l'Etat, aux bailleurs (à savoir: aux
+propriétaires appartenant au secteur public) les loyers
+des biens immobiliers (bâtiments avec leurs
+dépendances et terrains) loués par la Régie des
+Bâtiments et occupés par des services de l'Etat, par
+les services publics gérés par l'Etat ou par certaines
+catégories de personnel rétribué par l'Etat au logement
+desquelles il y a lieu de pourvoir (art. 2, art.19, 2° et
+art. 20, § 1.2° de la loi du 1 avril 1971 créant une Régie
+des Bâtiments).
+(Pour les loyers à payer aux propriétaires appartenant
+au secteur privé: voir art. 12.12.00/101).
+b) Méthode de calcul de la dépense en 2026
+1. Contrats de location existants
+Le loyer total à payer en 2026 pour les contrats de
+location en vigueur, à imputer sur l'article
+12.22.00/100, s'élèvera à 24.564.768 euros.
+2. Récapitulatif art. 12.22.00/100
+Baux en vigueur: 23.818.303
+Indexation 2026: 382.178
+Indexation 2025: 364.287
+-------------------------
+Total: 24.564.768
+ECONOMISCHE CODE: 12.50.00 Belastingen
+betaald aan sub sectoren van de overheidssector.
+Tableau de synthèse
+CODE ECONOMIQUE: 12.50.00 Impôts payés à
+des sous-secteurs du secteur des administrations
+publiques.
+Synthesetabel
+EC-CE / LIT FC-CF KS-SC
+2024 2025 2026
+Realisaties Initieel Initieel
+Réalisations initial initial
+12.50.00
+12.50.00/100 CF_00 lim 9.893.671 7.115.671 8.000.000
+12.50.00/101 CF_00 lim 75.254.806 69.783.643 66.400.591
+12.50.00/102 CF_00 lim 517.446 458.100 361.972
+Totaal-total 85.665.923 77.357.414 74.762.563
