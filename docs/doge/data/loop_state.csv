@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T22:30:00Z,rq_714,723,no,tick723 SPAQuE UAP residual dual OVAM; next rq_715; progress@730 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T22:45:00Z,rq_715,724,no,tick724 DG aju residual dual Entity II; next rq_716; progress@730 in 6; rq_116 deferred

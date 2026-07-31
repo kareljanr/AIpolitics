@@ -14277,3 +14277,43 @@ bud_spaque_vp_remun_13683,spaque,2024,13683,,,outturn,src_spaque_ra_2024_residua
 bud_spaque_net_loss_27763807,spaque,2024,-27763807.47,,,outturn,src_spaque_ra_2024_residual,strong,Net loss 27.764m 2024 RW-covered via capital incr Marshall; tick723
 bud_spaque_loss_report_59054546,spaque,2024,-59054545.79,,,outturn,src_spaque_ra_2024_residual,strong,Perte reportee 59.055m after 2024 result Marshall annuities; tick723
 bud_dual_spaque_ovam_ops_2024,gg_belgium,2024,63810,,,outturn,src_dual_spaque_ovam_tick723,strong,Dual SPAQuE 63810t treated vs OVAM residual; not TE-additive; tick723
+bud_dg_aju_gross_saldo_worsen_36_7m,sec_dg,2026,36700000,,,budgeted,src_ccrek_dg_aju2026,strong,1.HHA worsens consol brutto saldo 36.7m CoA T1; tick724
+bud_dg_aju_esvg_worsen_2_6m,sec_dg,2026,2600000,,,budgeted,src_ccrek_dg_aju2026,strong,ESVG financing saldo worsen only 2.6m (loans neutral); tick724
+bud_dg_aju_fed_dot_minus_4m,sec_dg,2026,-4000000,,,budgeted,src_ccrek_dg_aju2026,strong,Federal dotation path -4.0m aju; tick724
+bud_dg_aju_wal_dot_plus_2_3m,sec_dg,2026,2300000,,,budgeted,src_ccrek_dg_aju2026,strong,WAL region dots +2.3m (CoA: overstated by ~1.0m); tick724
+bud_dg_aju_own_rec_plus_3m,sec_dg,2026,3000000,,,budgeted,src_ccrek_dg_aju2026,strong,Own rec +3.0m (refunds local dots 1.7 + 5G license share residual); tick724
+bud_dg_aju_rrf_rev_plus_16_6m,sec_dg,2026,16600000,,,budgeted,src_ccrek_dg_aju2026,strong,RRF receipts +16.6m aju; tick724
+bud_dg_aju_rrf_exp_plus_21m,sec_dg,2026,21000000,,,budgeted,src_ccrek_dg_aju2026,strong,RRF VE=AE +21.0m aju; tick724
+bud_dg_aju_fiber_rrf_19_5m,sec_dg,2026,19500000,,,budgeted,src_ccrek_dg_aju2026,strong,RRF fiber underserved areas 19.5m; promoter claim 27 Apr 2026 target met; tick724
+bud_dg_aju_communes_dot_plus_3_3m,sec_dg,2026,3300000,,,budgeted,src_ccrek_dg_aju2026,strong,Communes/OCMW dots +3.3m after 90/10 key restore retro 2024; tick724
+bud_dg_aju_personnel_plus_1_8m,sec_dg,2026,1800000,,,budgeted,src_ccrek_dg_aju2026,strong,Personnel +1.8m aju (gov +90k min +767k teachers +908k); CoA lacks calc; tick724
+bud_dg_aju_infra_ve_plus_19_4m,sec_dg,2026,19400000,,,budgeted,src_ccrek_dg_aju2026,strong,Infrastructure plan VE +19.4m (65 projects 21.3m class); tick724
+bud_dg_aju_infra_ae_plus_4_2m,sec_dg,2026,4200000,,,budgeted,src_ccrek_dg_aju2026,strong,Infrastructure AE only +4.2m vs VE +19.4; tick724
+bud_dg_aju_particip_plus_2_8m,sec_dg,2026,2800000,,,budgeted,src_ccrek_dg_aju2026,strong,Financing/participations VE/AE +2.8m to 16.8m (OEWOB capital +4.5); tick724
+bud_dg_aju_oewob_capital_4_5m,sec_dg,2026,4500000,,,budgeted,src_ccrek_dg_aju2026,strong,OEWOB capital increase 4.5m in participations line; tick724
+bud_dg_hv_rev_aju_672_6m,sec_dg,2026,672624000,,,budgeted,src_ccrek_dg_aju2026,strong,Hauptverwaltung receipts aju 672.624m (UHH 655.337 path +17.287); tick724
+bud_dg_hv_ve_aju_728_0m,sec_dg,2026,727996000,,,budgeted,src_ccrek_dg_aju2026,strong,HV VE aju 728.0m (UHH 666.2 path +62m class); tick724
+bud_dg_hv_ae_aju_750_8m,sec_dg,2026,750842000,,,budgeted,src_ccrek_dg_aju2026,strong,HV AE aju 750.842m (UHH 703.799 path +47.043); tick724
+bud_dg_hv_esvg_aju_minus_112_4m,sec_dg,2026,-112373000,,,budgeted,src_ccrek_dg_aju2026,strong,HV ESVG financing saldo aju -112.373m (UHH -116.713 path +4.340); tick724
+bud_dg_hv_net_fin_aju_minus_137_9m,sec_dg,2026,-137870000,,,budgeted,src_ccrek_dg_aju2026,strong,HV net financing need aju -137.870m; tick724
+bud_dg_debt_eoy2024_1252m,sec_dg,2024,1252232000,,,outturn,src_ccrek_dg_aju2026,strong,Consol gross debt eoy2024 1252.2m (from 578.1m eoy2020 +117pct); tick724
+bud_dg_debt_eoy2025_est_1344m,sec_dg,2025,1343959000,,,outturn,src_ccrek_dg_aju2026,medium,Consol debt eoy2025 est 1344.0m preliminary; tick724
+bud_dg_debt_eoy2026_est_1468m,sec_dg,2026,1467776000,,,projected,src_ccrek_dg_aju2026,strong,Consol debt eoy2026 est 1467.8m (+132pct since eoy2021); tick724
+bud_dg_fin_need_2026_199_7m,sec_dg,2026,199689000,,,budgeted,src_ccrek_dg_aju2026,strong,Total financing need 2026 199.7m (tilg + deficit + GZ); residual after 100m raised -99.7m; tick724
+bud_dg_net_deficit_aju_110_5m,sec_dg,2026,110519000,,,budgeted,src_ccrek_dg_aju2026,strong,Net financing deficit aju 110.519m; tick724
+bud_dg_gz_deficit_aju_13_3m,sec_dg,2026,13298000,,,budgeted,src_ccrek_dg_aju2026,strong,Gemeinschaftszentren net deficit aju 13.298m; tick724
+bud_dg_interest_aju_41_2m,sec_dg,2026,41244000,,,budgeted,src_ccrek_dg_aju2026,strong,Interest aju 41.244m (2025 33.7; 2024 25.3); tick724
+bud_dg_implicit_rate_2026_2_81pct,sec_dg,2026,2.81,,,projected,src_ccrek_dg_aju2026,strong,Implicit rate consol debt 2.81pct 2026 (2.50 2025; 2.02 2024); tick724
+bud_dg_debt_rev_ratio_2026_257pct,sec_dg,2026,257,,,projected,src_ccrek_dg_aju2026,strong,Debt/revenue excl loans 257pct 2026 path 278pct 2029; tick724
+bud_dg_npe_growth_2026_8_98pct,sec_dg,2026,8.98,,,budgeted,src_ccrek_dg_aju2026,strong,NPE growth 2026 +8.98pct vs self-cap 5pct (breach ~4pp); tick724
+bud_dg_npe_cum_2025_29_minus_5_12pct,sec_dg,2029,-5.12,,,projected,src_ccrek_dg_aju2026,strong,NPE cumulative 2025-29 -5.12pct (driven by 2025 drop); tick724
+bud_dg_alt_fin_ivg_corr_175_2m_2024,sec_dg,2024,175200000,,,outturn,src_ccrek_dg_aju2026,strong,IVG alt finance model corr 175.2m 2024 (communes OCMW WPZS multi-year); tick724
+bud_dg_infra_ve_cut_2030_36_96m,sec_dg,2035,96000000,,,projected,src_ccrek_dg_aju2026,strong,VE new invest cut 96m over 2030-36 (peak 2035 -44m) unsustainable pace; tick724
+bud_dg_dgg_gz_ae_plus_7_3m,sec_dg,2026,7290000,,,budgeted,src_ccrek_dg_aju2026,strong,Gemeinschaftszentren AE +7.29m invest ViDo/Worriken self-financed debt; tick724
+bud_dg_dgg_dsl_plus_210k,sec_dg,2026,210000,,,budgeted,src_ccrek_dg_aju2026,strong,DSL Tuavia disability +210k for 3 FTE avert insolvency 2027; tick724
+bud_dg_dgg_ser_plus_1_0m,sec_dg,2026,1000000,,,budgeted,src_ccrek_dg_aju2026,strong,SER education logistics +1.0m fire/tech/maint after 2025 audit; tick724
+bud_dg_eoi_brf_7_91m,sec_dg,2026,7908000,,,budgeted,src_ccrek_dg_aju2026,strong,BRF AE aju 7.908m (+10k ecoschecks); dual VRT residual; tick724
+bud_dg_eoi_iawm_6_97m,sec_dg,2026,6973000,,,budgeted,src_ccrek_dg_aju2026,strong,IAWM VE 6.973m (+110k PR tender); tick724
+bud_dg_eoi_zkb_12_97m,sec_dg,2026,12972000,,,budgeted,src_ccrek_dg_aju2026,strong,ZKB Kinderbetreuung AE 12.972m; tick724
+bud_dg_liquidity_note_missed_5m,sec_dg,2026,5000000,,,budgeted,src_ccrek_dg_aju2026,strong,CoA: capital tilgung forecast misses Mar2025 liquidity note due Sep2026 5.0m; tick724
+bud_dual_dg_entity2_debt_tick724,gg_belgium,2026,1467776000,,,projected,src_dual_dg_entity2_tick724,strong,Dual DG debt 1.47bn vs VL/WAL/FWB residual; not TE-additive; tick724

@@ -8572,3 +8572,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_spaque_stakes_chantiers_l5_2024 — ready (not sent)
 - Next: rq_715; progress@730 in 7 ticks; rq_116 deferred
 
+
+### 2026-08-01T22:45:00Z — tick 724
+- Unit: **rq_715** (FOI-adjacent dual residual — **DG CoA aju 2026 debt/NPE/infra dual Entity II**)
+- Found (primary CoA 2026_23 DG 1.HHA, AG 27 May 2026):
+  - Aju impact: gross saldo **−36.7m**; ESVG **−2.6m**; HV AE **750.8m** / VE **728.0m** / rev **672.6m**
+  - Drivers: RRF **+21m** exp · infra VE **+19.4m** (AE **+4.2**) · communes **+3.3** · personnel **+1.8** · particip **+2.8** (OEWOB **+4.5**) · fed dot **−4.0**
+  - Debt: **1252m (2024) → 1344 (2025) → 1468 (2026)** path **1700 (2029)**; implicit rate **2.81%**; ratio **257%** rev
+  - Fin need **199.7m** (raised **100m** residual **~100m**); missed liquidity note **5m**
+  - NPE **+8.98%** 2026 vs self-cap **5%**; macro DG growth **0.2%** / infl **3.2%** vs FPB **1.1/1.9**
+  - GZ self-finance AE **+7.3m**; fiber RRF **19.5m**; dual Entity II map; Strong CoA; L5 FOI.
+- Wrote: budgets (+40); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_dg_aju2026_debt_npe_l5**; rq_715=done; spawn **rq_716**; loop_state ticks=724
+- FOI opened: gap_dg_aju2026_debt_npe_l5 — ready (not sent; contacts TBD)
+- Next: rq_716; progress@730 in 6 ticks; rq_116 deferred
+
