@@ -11377,3 +11377,20 @@ bud_otw_invest_other_169_1m_2025,tec,2025,169100000,,,budgeted,src_ccrek_otw_sub
 bud_otw_sec_solde_bi2025,tec,2025,-139363600,,,budgeted,src_ccrek_otw_subs_path_bi2025,strong,Derived SEC solde BI2025: 1018.39367m - 1157.75727m = -139.4m CoA note; tick624
 bud_otw_pimpt_prw_cons_rate_2023,tec,2023,59,,,outturn,src_ccrek_otw_subs_path_bi2025,strong,CoA: consommation credits liquidation PIMPT+PRW 59pct 2023 (51.3m of 86.4m); not EUR; tick624
 bud_dual_otw_delijn_company_dep_2025,gg_belgium,2025,1200600000,,,budgeted,src_dual_otw_delijn_subs_tick624,strong,OTW company dep 1.201bn BI2025 dual De Lijn PT class not additive; tick624
+bud_kyoto_wal_rec_bi2025,fonds_kyoto_wallonie,2025,200000000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA s6.2.1 Kyoto recettes BI2025 200m ETS auctions; tick625
+bud_kyoto_wal_dep_ce_bi2025,fonds_kyoto_wallonie,2025,200000000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: Kyoto CE=CL 200.0m BI2025; tick625
+bud_kyoto_wal_dep_cl_bi2025,fonds_kyoto_wallonie,2025,200000000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: Kyoto CL 200.0m BI2025; tick625
+bud_kyoto_wal_ce_ba2024,fonds_kyoto_wallonie,2024,210384000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA annex: Kyoto CE=CL BA2024 210.384m path -10.384m to BI2025; tick625
+bud_kyoto_wal_rec_path_minus_30m,fonds_kyoto_wallonie,2025,-30000000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: recettes path -30m vs BA2024 (quota price); 3.227m quotas x63EUR; tick625
+bud_kyoto_wal_stock_liq_eoy2025,fonds_kyoto_wallonie,2025,444900000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: solde fonds opt liquidations 444.9m eoy2025 forecast; tick625
+bud_kyoto_wal_stock_eng_eoy2025,fonds_kyoto_wallonie,2025,407600000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: solde fonds opt engagements 407.6m eoy2025 forecast; tick625
+bud_kyoto_wal_sec_neutral_133_4m,fonds_kyoto_wallonie,2025,133400000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: GW SEC correction neutralises 133.4m Kyoto dep (non code8); tick625
+bud_kyoto_wal_non_code8_auth_66_6m,fonds_kyoto_wallonie,2025,66600000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA derived: 200m credits minus 133.4m neutralised = 66.6m non-code8 authorised 2025; tick625
+bud_kyoto_wal_code874_2024,fonds_kyoto_wallonie,2024,57200000,,,outturn,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: 57.2m depenses code 874 charged to Kyoto 2024; tick625
+bud_kyoto_wal_cons_avg_pct_2016_23,fonds_kyoto_wallonie,2023,58,,,outturn,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: consommation moyenne credits Kyoto 58.2pct 2016-2023; not EUR; tick625
+bud_kyoto_wal_quota_count_bi2025,fonds_kyoto_wallonie,2025,3227000,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,strong,CoA: 3.227m quotas ETS at 63EUR avg for 200m recette; count not EUR; tick625
+bud_kyoto_wal_burden_share_pct,fonds_kyoto_wallonie,2025,30,,,budgeted,src_ccrek_fonds_kyoto_wal_bi2025,medium,CoA: WFE uses prior burden-sharing key 30.65pct WAL; 2023+ accord not signed; pct class; tick625
+bud_fonds_bas_carbone_rec_bi2024,fonds_bas_carbone_wal,2024,25000000,,,budgeted,src_ccrek_fonds_bas_carbone_table33,strong,CoA Table33 Fonds bas carbone rec SEC BI2024 25.0m; tick625
+bud_fonds_bas_carbone_dep_bi2024,fonds_bas_carbone_wal,2024,25000000,,,budgeted,src_ccrek_fonds_bas_carbone_table33,strong,CoA Table33 Fonds bas carbone dep SEC BI2024 25.0m balanced; tick625
+bud_fonds_bas_carbone_bi2025_zero,fonds_bas_carbone_wal,2025,0,,,budgeted,src_ccrek_fonds_bas_carbone_table33,strong,CoA Table33 Fonds bas carbone BI2025 zero closed path; tick625
+bud_dual_kyoto_wal_fed_class_2025,gg_belgium,2025,200000000,,,budgeted,src_dual_kyoto_wal_fed_ets_tick625,strong,WAL Kyoto 200m BI2025 dual federal ETS stock 1.8bn + spend 8m class not additive; tick625

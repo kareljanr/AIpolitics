@@ -7484,3 +7484,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity update tec; budgets (+14); commitments (+2); leaderboard (+6); sources (+2); FOI draft gap_otw_ab_series_absolute_l5_2025; rq_615=done; spawn rq_616; loop_state ticks=624
 - FOI opened: gap_otw_ab_series_absolute_l5_2025 -- ready (not sent)
 - Next: rq_616; progress@630 in 6 ticks; rq_116 deferred
+
+### 2026-07-31T22:00:00Z -- tick 625
+- Unit: rq_616 (FOI-adjacent dual climate hole-fill -- **Fonds Kyoto Wallonie** CoA s6.2.1 + bas carbone residual)
+- Found: **Fonds Kyoto** (primary CoA s6.2.1 + annex). **BI2025:** recettes **EUR200m** (3.227m quotas x EUR63; path **-EUR30m**) / CE=CL **EUR200m**. Stock eoy2025 **EUR444.9m** liq / **EUR407.6m** eng. Cons avg **58.2pct** 2016-23; 2024 code874 **EUR57.2m**. SEC neutral **EUR133.4m** / non-code8 **EUR66.6m**. Burden sharing 2023+ **unsigned** (prior key **30.65pct** WAL). **Fonds bas carbone** Type1 BI2024 **EUR25m** balanced / BI2025 **zero**. Dual **federal ETS stock EUR1.8bn** / spend **EUR8m**. Strong confidence CoA; project L5 residual FOI.
+- Wrote: entities (+fonds_kyoto_wallonie +fonds_bas_carbone_wal); budgets (+17); commitments (+3); leaderboard (+6); sources (+3); FOI draft gap_kyoto_wal_project_l5_2025; rq_616=done; spawn rq_617; loop_state ticks=625
+- FOI opened: gap_kyoto_wal_project_l5_2025 -- ready (not sent)
+- Next: rq_617; progress@630 in 5 ticks; rq_116 deferred

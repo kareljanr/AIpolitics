@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T21:45:00Z,rq_615,624,no,tick624 OTW CoA subs path -35.9m dual De Lijn; next rq_616; progress@630 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T22:00:00Z,rq_616,625,no,tick625 Fonds Kyoto WAL 200m stock 445m dual ETS; next rq_617; progress@630 in 5; rq_116 deferred
