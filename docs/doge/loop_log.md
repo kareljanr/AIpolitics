@@ -6745,3 +6745,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +24; cmt +4; lb +8; FOI **gap_vl_accounts_balance_l5** ready+draft; rq_546=done spawn **rq_547**; ticks=555
 - FOI opened: gap_vl_accounts_balance_l5 (ready, human send) - not sent
 - Next: prio5 **rq_547**; deferred **rq_116**; progress@560 in 5 ticks
+
+### 2026-07-31T09:25:00Z - tick 556
+- Unit: **rq_547** (FOI-adjacent hole-fill - **CoA 2026_32 residual Lantis NEC4 + open verbintenissen + TV financing**)
+- Found (strong primary Rekenhof rekeningenrapport 2025 residual L5; million-EUR):
+  - **Lantis under-vastlegging:** approved NEC4 bids **EUR 7.469bn**; prior **2.891bn**; needed extra **4.578bn**; booked only **+2.159bn** (tol share) → shortfall **~2.419bn**; BA2026 extra kredieten
+  - **Open verb toelage Table10 2025:** total **7.372bn** (2024 6.831): VMSW **1.745** · FIO **1.505** · De Lijn **0.941** · FWO **0.879** · VAPH **0.788** · AGIOn **0.591** · DVW **0.468** · VWF **0.457**
+  - **Outside table:** ~**5.5bn** other open verb of which BAM **~4.5bn**; contracts **6.8bn** JV2025
+  - **TV financing Table23 eoy2025 cum ~3.852bn:** cash **885** · natura **287** · land **176** · loans **2.401** · overkapping **102**; loans path **250/950/1.128**; plafond **6.7bn** @ **5%** subord
+  - **New LT loans 2025 3.955bn:** VWF **1.550** · Lantis **1.128** · VMSW **1.000** · Roadrunner **216**; fin assets **+5.686bn**
+  - **Internal toelage imbalance 70.8m** on ~27bn eliminated streams; **central financing stock 17.464bn**; GO! patrimony **1.004bn** inventory gap
+- Wrote: sources +2; budgets +44; cmt +4; lb +8; FOI **gap_lantis_vastleg_nec4_l5** ready+draft; rq_547=done spawn **rq_548**; ticks=556
+- FOI opened: gap_lantis_vastleg_nec4_l5 (ready, human send) - not sent; related gap_lantis_oosterweel_cash / gap_vl_debt_nonbudget_bridge_l5 still ready
+- Next: prio5 **rq_548**; deferred **rq_116**; progress@560 in 4 ticks

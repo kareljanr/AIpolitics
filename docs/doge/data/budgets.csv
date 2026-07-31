@@ -9890,3 +9890,47 @@ bud_vl_zandvlietsluis_nbv_2025,vlaanderen_gov,2025,366600000,,,outturn,src_ccrek
 bud_vl_fwo_commitment_adj,vlaanderen_gov,2025,561600000,,,estimate,src_ccrek_vl_rekeningen_2025,strong,Open commitments opening balance still needs +561.6m FWO adjustment; tick555
 bud_vl_fio_commitment_adj,vlaanderen_gov,2025,188600000,,,estimate,src_ccrek_vl_rekeningen_2025,strong,Open commitments FIO adjustment +188.6m still needed; tick555
 bud_dual_vl_debt_zaventem_2025,vlaanderen_gov,2025,2553600000,,,derived,src_dual_vl_debt_zaventem_tick555,strong,Dual debt rise driven by Zaventem equity 2.55bn of +8.38bn; tick555
+bud_lantis_nec4_bids_2024,lantis,2024,7469000000,,,commitment,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Approved NEC4 bids Oosterweelknoop+rechteroever total 7469.0m; CoA Lantis ch; tick556
+bud_lantis_prior_vastleg_oost_ro,lantis,2024,2891300000,,,commitment,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Prior vastlegging Oosterweelknoop+RO 2891.3m before additional bids; tick556
+bud_lantis_extra_vastleg_booked,lantis,2025,2158700000,,,commitment,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Lantis booked only +2158.7m additional (tol-financed share) vs needed 4577.7; tick556
+bud_lantis_extra_vastleg_needed,lantis,2025,4577700000,,,commitment,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Needed additional vastlegging full project 4577.7m (=7469-2891.3); tick556
+bud_lantis_under_vastleg_gap,lantis,2025,2419000000,,,commitment,src_ccrek_vl_rekeningen_2025_l5_residual,strong,CoA est ~2419m too few vastleggingen in BU 2024-25; BA2026 extra kredieten; tick556
+bud_vl_open_verb_toelage_2025,vlaanderen_gov,2025,7372200000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Table10 open verbintenissen financed by VL toelagen 7372.2m 2025 (6831.4m 2024); tick556
+bud_vl_open_verb_toelage_2024,vlaanderen_gov,2024,6831400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Table10 open verb 6831.4m 2024; tick556
+bud_de_lijn_open_verb_2025,de_lijn,2025,940900000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,De Lijn open verb toelage-financed 940.9m 2025 (553.3m 2024 first listed); tick556
+bud_de_lijn_open_verb_2024,de_lijn,2024,553300000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,De Lijn open verb 553.3m 2024; tick556
+bud_vaph_open_verb_2025,vaph,2025,788000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,VAPH open verb toelage 788.0m 2025 (488.1m 2024); tick556
+bud_vmsw_open_verb_2025,vmsw,2025,1745200000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,VMSW open verb 1745.2m 2025; tick556
+bud_fio_open_verb_2025,fio,2025,1504700000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,FIO open verb 1504.7m 2025 (1678.4m 2024); tick556
+bud_fwo_open_verb_2025,fwo,2025,878800000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,FWO open verb 878.8m 2025 (+561.6m correction still needed on ministry side); tick556
+bud_agion_open_verb_2025,agion,2025,590500000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,AGIOn open verb 590.5m 2025; tick556
+bud_vwf_open_verb_2025,vwf,2025,456500000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Vlaams Woningfonds open verb 456.5m 2025; tick556
+bud_dvw_open_verb_2025,de_vlaamse_waterweg,2025,467600000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Vlaamse Waterweg open verb 467.6m 2025; tick556
+bud_bam_open_verb_other_2025,lantis,2025,4500000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Outside Table10: ~5.5bn other open verb of which ~4.5bn BAM/Lantis; contracts 6.8bn per JV2025; tick556
+bud_bam_contracts_jv_2025,lantis,2025,6800000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,BAM/Lantis open obligations from closed works contracts 6.8bn jaarrekening 2025; not all as open verb; tick556
+bud_lantis_loan_2023,lantis,2023,250000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Ministry LT loans to Lantis 250m 2023; tick556
+bud_lantis_loan_2024,lantis,2024,950000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Ministry LT loans to Lantis 950m 2024; tick556
+bud_lantis_loan_2025,lantis,2025,1128000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Ministry LT loans to Lantis 1128m 2025; matches prior bud_vl_lantis; tick556
+bud_lantis_loan_ceiling,lantis,2025,6700000000,,,commitment,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Lantis loan plafond prelim 6.7bn; rising with Oosterweel; tick556
+bud_tv_financing_cum_2025,lantis,2025,3851600000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Table23 Toekomstverbond financing cum eoy2025 3851.6m path; tick556
+bud_tv_cap_cash_cum,lantis,2025,885100000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,TV capital cash total 885.1m Table23; tick556
+bud_tv_cap_natura_cum,lantis,2025,287100000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,TV capital natura 287.1m (studies+Liefkenshoek shares); tick556
+bud_tv_land_claim_cum,lantis,2025,176500000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,TV land sale claim 176.5m; tick556
+bud_tv_loans_cum_2025,lantis,2025,2401300000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,TV loans component = Lantis debt 2401.3m Table23; tick556
+bud_tv_overkapping_cum,lantis,2025,101600000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Overkappingsfonds financing 101.6m Table23; tick556
+bud_vl_new_lt_loans_2025,vlaanderen_gov,2025,3955200000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,New LT loans to VL public entities 3955.2m 2025; tick556
+bud_vwf_new_loan_2025,vwf,2025,1550000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,New LT loan VWF 1550m 2025; tick556
+bud_vmsw_new_loan_2025,vmsw,2025,1000000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,New LT loan VMSW 1000m 2025; tick556
+bud_roadrunner_loan_2025,pmv,2025,216400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Roadrunner Invest LT loan 216.4m 2025 (Zaventem vehicle); tick556
+bud_vl_internal_toelage_in_2025,vlaanderen_gov,2025,26935800000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Internal toelage streams eliminated in consol IN 26935.8m; tick556
+bud_vl_internal_toelage_out_2025,vlaanderen_gov,2025,27006600000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Internal toelage OUT 27006.6m; imbalance 70.8m (0.3pct); tick556
+bud_vl_internal_toelage_imbalance,vlaanderen_gov,2025,70800000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Consol internal toelage imbalance 70.8m 2025; tick556
+bud_vl_central_financing_stock_2025,vlaanderen_gov,2025,17464200000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Centrally financed entities stock eoy2025 17464.2m (VMSW VWF SchoolInvest Lantis Diestsepoort); tick556
+bud_go_patrimony_2025,go_onderwijs,2025,1004000000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,GO! land/buildings book 1004.0m (79pct balance) without matching inventory; fix promised 2026; tick556
+bud_dienstencheques_prepay_2024,vlaanderen_gov,2024,715700000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Dienstencheques prepayments 715.7m 2024 dropped from current assets 2025; tick556
+bud_vl_fin_fixed_assets_delta_2025,vlaanderen_gov,2025,5685600000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Financial fixed assets +5685.6m 2025 (PMV Zaventem + LT loans); tick556
+bud_vl_debt_vwf_2025,vwf,2025,6062800000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,VWF debt component Table22 6062.8m eoy2025 (+1196.4); tick556
+bud_vl_debt_vmsw_2025,vmsw,2025,3123400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,VMSW debt 3123.4m eoy2025; tick556
+bud_vl_debt_school_invest_2025,school_invest,2025,933400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,School Invest debt 933.4m eoy2025; tick556
+bud_vl_debt_vipa_2025,vipa,2025,798400000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,VIPA debt 798.4m eoy2025; tick556
+bud_vl_debt_gsc_2025,vlaanderen_gov,2025,553200000,,,outturn,src_ccrek_vl_rekeningen_2025_l5_residual,strong,Groene stroomcertificaten debt component 553.2m eoy2025; tick556
