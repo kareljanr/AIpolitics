@@ -11670,3 +11670,23 @@ bud_do12_digital_cl_bi2025,wallonie_gov,2025,55060000,,,budgeted,src_ccrek_do11_
 bud_do12_029_gestion_digital_cl_bi2025,wallonie_gov,2025,54914000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 029 Gestion digital CL BI2025 54.914m
 bud_prw_122_ce_bi2025,wallonie_gov,2025,713500000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 122 PRW FRR CE BI2025 713.500m path eng -1286.432m vs BA 1999.932m
 bud_prw_122_cl_bi2025,wallonie_gov,2025,2254954000,,,budgeted,src_ccrek_do11_support_personnel_bi2025,strong,Prog 122 PRW FRR CL BI2025 2254.954m path liq +15.950m
+bud_do18_097_outils_ce_bi2025,wallonie_entreprendre,2025,159452000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 097 Outils economiques CE BI2025 159.452m path eng -51.062m
+bud_do18_097_outils_cl_bi2025,wallonie_entreprendre,2025,173721000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 097 CL BI2025 173.721m path liq -23.057m
+bud_do18_097_014_we_actions_bi2025,wallonie_entreprendre,2025,122200000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,DF 097.014 WE moyens d actions 122.2m BI2025 path -20m vs BA (claimed structural cut 45m partial)
+bud_do18_098_zae_ce_bi2025,wallonie_gov,2025,59226000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 098 ZAE CE BI2025 59.226m path eng -108.919m (-64.9pct)
+bud_do18_098_zae_cl_bi2025,wallonie_gov,2025,71744000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 098 ZAE CL BI2025 71.744m path liq -57.788m
+bud_do18_098_zae_ce_ba2024,wallonie_gov,2024,168145000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 098 ZAE CE BA2024 168.145m
+bud_do18_098_zae_cl_ba2024,wallonie_gov,2024,129532000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 098 ZAE CL BA2024 129.532m
+bud_do18_098_sowafinal_eng_ba2024,sowafinal,2024,87500000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Sowafinal3 DF098.022-024 eng BA2024 class 87.5m; BI2025 zero eng
+bud_do18_098_sowafinal_encours_2024,sowafinal,2024,27600000,,,outturn,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Encours eng 098.022-024 class 27.6m at 2024-11-12; BI2025 zero liq CoA
+bud_do18_098_sowafinal_cum_eng_2022_24,sowafinal,2024,330600000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Cum eng BI 2022-24 on Sowafinal DF 330.6m vs selected projects 2018 class 198m
+bud_do18_098_sowafinal_projects_2018,sowafinal,2018,198000000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,medium,Selected Sowafinal3 projects 2018 class 198m CoA
+bud_do18_emploi_formation_pack_bi2025,forem,2025,3140000000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Emploi-formation programmes pack class 3140m BI2025 (83pct DO18 / 14pct WAL total CoA)
+bud_do18_102_forem_bi2025,forem,2025,370072000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 102 Forem CE=CL BI2025 370.072m path -60.3m vs BA
+bud_do18_103_resorption_chomage_bi2025,forem,2025,1426881000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 103 Plan resorption chomage via Forem CE=CL 1426.881m path +13.1m
+bud_do18_106_titres_services_bi2025,forem,2025,567614000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 106 Titres services Forem CE=CL 567.614m path +3.2m
+bud_do18_107_rsc_groupes_cibles_bi2025,forem,2025,187610000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 107 RSC groupes cibles Forem CE=CL 187.610m path +40.1m
+bud_do18_110_forem_formation_bi2025,forem,2025,344624000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 110 Forem Formation CE=CL 344.624m path +2.6m
+bud_do18_104_eco_sociale_cl_bi2025,wallonie_gov,2025,29925000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 104 Economie sociale CL BI2025 29.925m path liq -5.381m
+bud_do18_099_competitivite_cl_bi2025,wallonie_gov,2025,35270000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 099 Competitivite innovation CL BI2025 35.270m
+bud_do18_100_fonds_struct_zero_bi2025,wallonie_gov,2025,0,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 100 fonds structurels CE=CL zero BI2025 (BA eng 40.818m path -40.8m)

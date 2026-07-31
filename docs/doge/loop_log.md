@@ -7636,3 +7636,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+sepac); budgets (+22); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_do11_personnel_l5_2025; rq_633=done; spawn rq_634; loop_state ticks=642
 - FOI opened: gap_do11_personnel_l5_2025 -- ready (not sent)
 - Next: rq_634; progress@650 in 8 ticks; rq_116 deferred
+
+### 2026-08-01T02:30:00Z -- tick 643
+- Unit: rq_634 (FOI-adjacent dual enterprise/employment hole-fill -- **DO18 ZAE/Sowafinal3 + outils WE + emploi pack** dual VLAIO/VDAB)
+- Found: **Prog 098 ZAE** (primary CoA): BI2025 CE **EUR59.2m** / CL **EUR71.7m** (path eng **-EUR108.9m** / **-64.9%** / liq **-EUR57.8m**). **Sowafinal3** DF098.022-024 eng **zero** (BA **EUR87.5m**); financing moved to DO16 **079.070** -- CoA **specialty breach** (communes DF vs interco; new ZAE vs reamenagement); encours **EUR27.6m** zero liq; cum eng BI2022-24 **EUR330.6m** vs projects 2018 **~EUR198m**; extended to **2029-06-30**. **Prog 097 outils:** CE **EUR159.5m** / CL **EUR173.7m**; WE DF097.014 **EUR122.2m** path **-EUR20m** vs claimed structural **-EUR45m** (CoA: recycles prior); Nordion **097.012 zero eng**. **Emploi-formation pack** class **EUR3.140bn** (83% DO18 / 14% WAL total): Forem 102 **EUR370m** path **-EUR60m**; titres 106 **EUR567.6m**; RSC 107 **EUR187.6m** path **+EUR40m**; formation 110 **EUR344.6m**. Dual **VLAIO/VDAB**. Strong confidence CoA; project L5 residual FOI.
+- Wrote: entities (+sowafinal); budgets (+20); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_do18_zae_emploi_l5_2025; rq_634=done; spawn rq_635; loop_state ticks=643
+- FOI opened: gap_do18_zae_emploi_l5_2025 -- ready (not sent)
+- Next: rq_635; progress@650 in 7 ticks; rq_116 deferred
