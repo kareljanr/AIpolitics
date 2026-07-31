@@ -7408,3 +7408,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+eap_wallonie_fwb); budgets (+8); commitments (+2); leaderboard (+6); sources (+3); FOI draft gap_eap_ra_staff_l5_2025; rq_606=done; spawn rq_607; loop_state ticks=615
 - FOI opened: gap_eap_ra_staff_l5_2025 ? ready (not sent)
 - Next: rq_607; progress@620 in 5 ticks; rq_116 deferred
+
+### 2026-07-31T19:45:00Z -- tick 616
+- Unit: rq_607 (FOI-adjacent dual inland ports hole-fill -- **PACO** + **PAC** Type2)
+- Found: **PACO** Port autonome du Centre et de l Ouest (primary CoA Table33). **BI2025 SEC:** recettes **EUR7.628617m** / depenses **EUR7.449614m** / solde **+EUR0.179m**. **BI2024 SEC:** rec **EUR5.723m** / dep **EUR5.044m** / solde **+EUR0.679m** (path dep **+EUR2.406m** / solde **-EUR0.500m**). **PAC** Charleroi: BI2025 rec **EUR5.126m** / dep **EUR4.937m** / solde **+EUR0.189m** flat; path dep **-EUR0.845m**. Dual sum dep **EUR12.386m**. **PAL/PAN** BI2025 **non communique** (CoA). Dual **VL Waterweg** omzet **EUR59-62m** class (different mandate). Strong confidence CoA; RA/concessions/PAL-PAN residual FOI.
+- Wrote: entities (+paco +pac_charleroi); budgets (+14); commitments (+3); leaderboard (+6); sources (+3); FOI draft gap_paco_pac_ra_staff_l5_2025; rq_607=done; spawn rq_608; loop_state ticks=616
+- FOI opened: gap_paco_pac_ra_staff_l5_2025 -- ready (not sent)
+- Next: rq_608; progress@620 in 4 ticks; rq_116 deferred

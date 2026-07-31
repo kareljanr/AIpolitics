@@ -11271,3 +11271,17 @@ bud_eap_dep_bi2024,eap_wallonie_fwb,2024,7147000,,,budgeted,src_ccrek_eap_budget
 bud_eap_dep_path_delta_2024_25,eap_wallonie_fwb,2025,-455000,,,budgeted,src_ccrek_eap_budget_bi2025,strong,Depenses path BI2024 7.147m to BI2025 6.692m delta -0.455m
 bud_eap_rw_dotation_class_2025,eap_wallonie_fwb,2025,4500000,,,budgeted,src_ccrek_eap_dotation_note,medium,CoA note: RW dotation EAP ~4.5m (does not increase vs prior path); residual recon FOI with FWB share
 bud_dual_eap_fwb_rw_2026,eap_wallonie_fwb,2026,7406000,,,derived,src_dual_eap_fwb_rw_tick615,medium,Illustrative dual: FWB share 2.592m (35pct) implies total ~7.406m if key holds; aligns CoA ~7.1m scale; not exact audit recon
+bud_paco_rec_bi2025,paco,2025,7628617,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO recettes SEC BI2025 7.628617m CoA Table33; tick616
+bud_paco_dep_bi2025,paco,2025,7449614,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO depenses SEC BI2025 7.449614m CoA Table33; tick616
+bud_paco_solde_bi2025,paco,2025,179002,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO solde SEC BI2025 +0.179m CoA; tick616
+bud_paco_rec_bi2024,paco,2024,5723000,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO recettes SEC BI2024 5.723m CoA Table33; tick616
+bud_paco_dep_bi2024,paco,2024,5044000,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO depenses SEC BI2024 5.044m CoA Table33; tick616
+bud_paco_solde_bi2024,paco,2024,679000,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO solde SEC BI2024 +0.679m CoA; path solde -0.500m; tick616
+bud_paco_dep_path_delta_2024_25,paco,2025,2405614,,,budgeted,src_ccrek_paco_budget_bi2025,strong,PACO dep path BI2025-BI2024 +2.405614m CoA; tick616
+bud_pac_rec_bi2025,pac_charleroi,2025,5125720,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC recettes SEC BI2025 5.125720m CoA Table33; tick616
+bud_pac_dep_bi2025,pac_charleroi,2025,4936720,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC depenses SEC BI2025 4.936720m CoA Table33; tick616
+bud_pac_solde_bi2025,pac_charleroi,2025,189000,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC solde SEC BI2025 +0.189m CoA (flat vs BI2024); tick616
+bud_pac_rec_bi2024,pac_charleroi,2024,5970500,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC recettes SEC BI2024 5.9705m CoA; tick616
+bud_pac_dep_bi2024,pac_charleroi,2024,5781500,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC depenses SEC BI2024 5.7815m CoA; tick616
+bud_pac_dep_path_delta_2024_25,pac_charleroi,2025,-844780,,,budgeted,src_ccrek_pac_budget_bi2025,strong,PAC dep path BI2025-BI2024 -0.84478m CoA; tick616
+bud_dual_wal_inland_ports_paco_pac_2025,gg_belgium,2025,12386334,,,budgeted,src_dual_inland_ports_wal_vl_tick616,strong,Derived PACO+PAC dep BI2025 7.450+4.937=12.386m SEC; PAL/PAN residual FOI; tick616
