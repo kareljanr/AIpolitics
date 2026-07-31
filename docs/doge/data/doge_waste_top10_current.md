@@ -1,8 +1,8 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **540** (2026-07-29) · **~1950** leaderboard rows  
+**As-of:** tick **550** (2026-07-31) · **~2022** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
-**Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
+**Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
 
 **This is a prioritisation for cuts/review**, not a claim that these euros are illegal.  
@@ -26,8 +26,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 10 | `lb_fed_fossil_mazout_1_86bn` | Heating oil accise gap 1.86bn 2022 fossil inv | **1.86 bn** | 8 | 9.0 | 6 | **8.3** | fossil inventory |
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter:** Hedera CAP / ETS blocked / VL Maastricht debt / Metro3 multi-year envelopes / federal unconsol debt / gross financing stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 530:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy dominate). Exposé wave (531–540) adds **high dual-structure** rows (Defence VEK/VLK, Graph1 flows, ODA composition, interest series) that rank below pure FFS on priority_index but matter for **opacity and dual perimeters** (see high-absurdity + stock tables).
+**Stock filter:** Hedera CAP / ETS blocked / VL Maastricht debt / Metro3 multi-year envelopes / federal unconsol debt / gross financing / E1 SPB path stay **off** pure annual top10 when annual=0 or finance-not-TE.  
+**Change vs tick 540:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy dominate). Exposé residual close (541–549) adds **high dual-structure / fiscal-honesty** rows (pension three-stack **72bn**, other SS **1.57bn**, E1 invest **7.7bn**, nopol **−39bn**, SPB **−12.5bn**, rate/growth sensitivity) that rank below pure FFS on priority_index but matter for **opacity, dual perimeters, and plan delivery** (see high-absurdity + stock tables).
 
 ### Just outside top 10 (often relevant)
 
@@ -42,7 +42,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 17 | `lb_specialty_defence_transfer_20bn` | **20.1 bn** | **8.0** | Specialty breach (control) |
 | 18 | `lb_vl_gsc_support` | **~0.8–1.1 bn** | 8.0 | Flanders GSC bill-side |
 | 19 | `lb_wage_subsidies_block` | **16.7 bn** | 7.98 | Enterprise package ~2/3 |
-| 20 | `lb_defence_vek_20_1bn` | **20.1 bn** eng | **7.5** | **NEW 539** VEK dual VLK 10.8 |
+| 20 | `lb_e1_nopol_financing_39bn` | **39.1 bn** counterfactual | **7.85** | **NEW 548** no-policy financing 2029 |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,25 +56,30 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_crossborder_228_vs_6` | **9.0** | Justice digi outsourcing |
 | `lb_siod_net_fte_8_2_vs_270` | **9.0** | inspection FTE leakage |
 | `lb_mb_vs_cars_50x` | **8.5** | modal-shift instrument fail |
-| `lb_oda_fedasil_dual_437_234m` | **7.0** | **NEW 540** refugee ODA composition dual |
-| `lb_dual_oda_composition` | **6.0** | **NEW 540** DGD vs EC vs Fedasil |
+| `lb_e1_growth_shock_6_4bn` | **7.0** | **NEW 549** growth −0.5pp → −€6.4bn 2029 |
+| `lb_belfius_div_500m` | **6.0** | **NEW 549** one-off masks SPB |
 
 ### Large stock / off-TE / dual-structure / reform map (not pure annual waste top 10)
 
 | ID | Stock / envelope / peak | Note |
 |-----|------------------:|------|
-| `lb_fed_debt_stock_601bn` | **601.3 bn** eoy2026 | **NEW 540** unconsol federal debt dual vs GG |
-| `lb_fed_gross_financing_59_7bn` | **59.7 bn** 2026 | **NEW 540** Debt Agency gross need (finance not TE) |
-| `lb_fed_interest_12_34bn_series` | **12.34 bn** 2026 | **NEW 540** interest trough 6.93 (2022) → 12.34 |
-| `lb_oda_total_2_35bn` / dual | **2.35 / 2.99 bn** | **NEW 540** ODA 0.35% GNI path |
-| `lb_defence_vek_20_1bn` | **20.1 / 10.8 bn** | **NEW 539** Defence VEK vs VLK dual |
-| `lb_fed_primary_vek_99_7bn` / VLK | **99.7 / 90.9 bn** | **NEW 539** federal primary dual |
-| `lb_dual_fed_ss_flows` | **27.5 / 148 bn** | **NEW 538** Graph1 available vs SS |
+| `lb_dual_pension_72bn` | **72.0 bn** benefits | **NEW 545** emp+self+public pension stacks |
+| `lb_e1_nopol_financing_39bn` / post 31bn | **39.1 / 31.2 bn** | **NEW 548** nopol vs measures 2029 |
+| `lb_e1_spb_12_5bn` / T7 11.6 | **12.5 / 11.6 bn** | **NEW 548–549** SPB dual presentations |
+| `lb_e1_gov_supported_invest_7_7bn` | **7.71 bn** 2026 | **NEW 547** E1 invest 1.2% GDP |
+| `lb_e1_debt_ratio_90_3` | **90.3% GDP** 2029 | **NEW 548** E1 debt path |
+| `lb_e1_growth_shock_6_4bn` / rate 2.79 | **6.4 / 2.79 bn** | **NEW 549** macro sensitivity |
+| `lb_other_ss_total_1_57bn` / FSO 824m | **1.57 / 0.82 bn** | **NEW 546** residual SS schemes |
+| `lb_fed_debt_stock_601bn` | **601.3 bn** eoy2026 | unconsol federal debt dual vs GG |
+| `lb_fed_gross_financing_59_7bn` | **59.7 bn** 2026 | Debt Agency gross need (finance not TE) |
+| `lb_fed_interest_12_34bn_series` | **12.34 → 17.8 bn** | interest path (E1 Table31 to 2029) |
+| `lb_defence_vek_20_1bn` | **20.1 / 10.8 bn** | Defence VEK vs VLK dual |
+| `lb_fed_primary_vek_99_7bn` / VLK | **99.7 / 90.9 bn** | federal primary dual |
+| `lb_dual_fed_ss_flows` | **27.5 / 148 bn** | Graph1 available vs SS |
 | `lb_metro3_total_4_76bn` / gap / PPP | **4.76 / ~4.3 / 7.74 bn** | CoA Metro3 multi-year dual |
-| `lb_hedera_cap_15bn` | **~15 bn** CAP | Phoenix nuclear waste finance stock |
-| `lb_lpm_invest_33_8bn_2026_34` | **33.8 bn** eng | Military programming 2026–34 |
+| `lb_hedera_cap_15bn` / saldo 465m | **~15 bn** CAP / **465m** ESA | Phoenix + multi-year consol |
+| `lb_fpim_saldo_650m` | **650 m** 2029 | **NEW 549** consol surplus driver |
 | `lb_edp_gg_debt_692_5bn_2025` | **692.5 bn** | GG Maastricht debt 107.9% GDP |
 | `lb_ss_exp_148bn_bc2026` | **148.0 bn** | SS BC2026 macro |
 | `lb_e1_deficit_24_5bn_aju` | **24.5–24.6 bn** | Entity I deficit 2026 |
-| `lb_covid_support_19_4bn_2020` | **19.4 bn** | federal COVID package class |
-| `lb_fed_consultancy_2_5bn` | **2.525 bn / 3y** | Federal consultancy inventory gap |
+| `lb_consol_esa_1_1bn` | **~1.1 bn** ESA | **NEW 549** off-budget E1 buffer |

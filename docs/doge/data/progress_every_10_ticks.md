@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 550** (2026-07-31)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** full Part III–IV exposé dual map (Graph1 · C&R · EU · consol · SS stacks) · Entity I invest/GCF · SPB path · consol multi-year FPIM/Hedera |
+| **D. L5 named / measure end-lines** | **~35-48%** of TE (generous) | **Gain 540→550 is exposé residual close wave:** Part IV SS L5 (employees pensions **43.3** illness **14.9** unemp **4.6** · RIZIV **41.3** · self **7.0** · public pens **22.8** · three-stack **72.0** · other SS **1.57bn** FSO/Ex-OSZ/RVA emp) · E1 invest gov-supported **7.71bn** / NMBS aid **1.09** / defence ESA corr **−1.39** · nopol vs post financing **−39.1 vs −31.2** 2029 · SPB **−12.5bn/−1.7%** · debt ratio **85.6→90.3%** · rate/growth sensitivity · one-offs Belfius **+500m** · FOI still bulk ASBL/firm + delivery L5 |
+| **E. FOI-ready gaps** | **~295** drafts ready | Human send only; answered **~9**; total FOI rows **~305** (+ other-SS case · E1 invest codes · measures delivery · sensitivity/one-off method · prior ODA/partner · pubpen employer · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery stakes · FPB *options* · Tax Shelter · private PPP · equity injections · reform *savings paths* · Belfius sale/div one-offs · **gross financing / OLO** debt finance · **unconsol federal debt stock** · **E1 SPB/financing path** is fiscal control not pure TE slice · consol ESA **+1.1bn** improves Entity I perimeter.
+
+### Inventory (tick 550)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~9691 |
+| commitments.csv | ~1062 |
+| leaderboard.csv | ~2022 |
+| entities.csv | ~414 |
+| sources.csv | ~1045 |
+| FOI ready | ~295 |
+| FOI answered | ~9 |
+| FOI total rows | ~305 |
+| research_queue | ~541 (open: rq_116 deferred + rq_542 hole-fill after progress) |
+
+### What improved since tick 540
+
+- **Intergov + EU + consol (tick541–542):** C&R federal means **€76.8bn** dual Graph1 E2 **81.5**; SS federal **53.9**; local **4.3**; EU **9.145bn**; consol ESA **+1.392bn** 2026 (FPIM/BE-WATT/Hedera).
+- **Part IV SS complete class (tick543–546):** social protection **€194.5bn** exp; benefits L5 emp/self/public/RIZIV/assistance; other schemes **€1.57bn** (FSO **824m** total / Ex-OSZ **336m** benefits).
+- **E1 capital + fiscal path (tick547–548):** invest gov-supported **€7.71bn** 2026 (1.2% GDP); nopol financing **−39.1bn** 2029 vs post **−31.2**; SPB stuck **~−1.7%**; debt **90.3%** 2029.
+- **Sensitivity + one-offs + consol multi-year (tick549):** +100bp **€2.79bn** 2029; growth −0.5pp **−€6.4bn**; Belfius **+500m** one-off; consol ESA **+1.1bn** class 2027–29.
+
+---
+
 ## Snapshot at **tick 540** (2026-07-29)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
