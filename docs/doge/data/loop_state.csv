@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T11:35:00Z,rq_573,582,no,tick582 in BW RG2025 result 4.84m dual OAA INASEP waste debt; next rq_574; progress@590 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T11:40:00Z,rq_574,583,no,tick583 IDEA deepen ventes 72m dual in BW multi-utility; next rq_575; progress@590 in 7; rq_116 deferred

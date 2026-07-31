@@ -7123,3 +7123,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +38; cmt +3; lb +7; FOI **gap_inbw_accounts_l5_2025** ready+draft; entity **inbw** NEW; raw PDF; rq_573=done spawn **rq_574**; ticks=582
 - FOI opened: gap_inbw_accounts_l5_2025 (ready, human send) - not sent
 - Next: prio5 **rq_574**; deferred **rq_116**; progress@590 in 8 ticks
+
+### 2026-07-31T11:40:00Z - tick 583
+- Unit: **rq_574** (FOI-adjacent hole-fill - **IDEA deepen L5 dual in BW multi-utility**)
+- Found (strong primary IDEA RA2025 full statutory + sector analysis; deepen tick232):
+  - **Ventes EUR 71.87m** (62.4m 2024); **CA 28.73m**; autres prod **44.05m**
+  - **Op result -0.59m**; fin prod **16.40m** (immob fin **12.47m** CENEO); fin charges **2.27m**
+  - **Net 13.74m** / a affecter **13.27m**; **dividend 11.39m**; report stock **69.83m**
+  - **Balance:** assets **441.3m**; equity **279.3m**; dettes **144.1m**; LT fin **96.5m** (lease 28.0 + banks 68.5); MVA **77.2m**; fin assets **166.4m**
+  - Sector: infra eco **+2.33m** CA 5.27m; drink **+2.31m** CA 9.55m; eng **-2.26m** CA 9.46m; geo **-0.30m**; amgt **-1.41m**
+  - Ops: staff **352**; drink **9.3 Mm3**; wastewater **41 Mm3**; **31** STEPs; geo **30.9k MWh**; PAE **21.9 ha** / firm invest **99.7m**
+  - Off-BS pension responsabilisation **25.8m** 2026-31
+  - **Dual multi-utility:** IDEA assets **441m** result **13.3m** vs in BW **576m** / **4.84m** (tick582)
+- Wrote: sources +2; budgets +44; cmt +2; lb +7; FOI **gap_idea_sector_l5_2025** ready+draft; entity update; raw PDF; rq_574=done spawn **rq_575**; ticks=583
+- FOI opened: gap_idea_sector_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_575**; deferred **rq_116**; progress@590 in 7 ticks

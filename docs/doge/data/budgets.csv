@@ -10666,3 +10666,47 @@ bud_inbw_net_debt_ebitda_2025,inbw,2025,630,,,outturn,src_inbw_rg_2025,strong,CO
 bud_inbw_sewer_cadastre_pct_2025,inbw,2025,7700,,,outturn,src_inbw_rg_2025,strong,COUNT reseau egouttage cadastre 77pct x100; tick582
 bud_inbw_sewer_inspect_km_2025,inbw,2025,154,,,outturn,src_inbw_rg_2025,strong,COUNT km egouts inspectes camera 154; tick582
 bud_inbw_recyparc_tonnage_cut_pct_2025,inbw,2025,4000,,,outturn,src_inbw_rg_2025,strong,COUNT recyparc tonnage -40pct after access control x100; tick582
+bud_idea_ventes_2025,idea_hainaut,2025,71873671,,,outturn,src_idea_ra_2025_deepen,strong,Ventes et prestations 71.874m 2025 (62.393m 2024); tick583
+bud_idea_ca_2025,idea_hainaut,2025,28731871,,,outturn,src_idea_ra_2025_deepen,strong,Chiffre d affaires 28.732m 2025 (27.729m 2024); tick583
+bud_idea_autres_prod_2025,idea_hainaut,2025,44051421,,,outturn,src_idea_ra_2025_deepen,strong,Autres produits d exploitation 44.051m 2025; tick583
+bud_idea_op_result_2025,idea_hainaut,2025,-585707,,,outturn,src_idea_ra_2025_deepen,strong,Benefice d exploitation -0.586m 2025 (was +0.271m); tick583
+bud_idea_cout_ventes_2025,idea_hainaut,2025,72459378,,,outturn,src_idea_ra_2025_deepen,strong,Cout des ventes et prestations 72.459m 2025; tick583
+bud_idea_goods_2025,idea_hainaut,2025,8825832,,,outturn,src_idea_ra_2025_deepen,strong,Approvisionnements marchandises 8.826m 2025; tick583
+bud_idea_services_2025,idea_hainaut,2025,19365905,,,outturn,src_idea_ra_2025_deepen,strong,Services et biens divers 19.366m 2025; tick583
+bud_idea_da_2025,idea_hainaut,2025,5810514,,,outturn,src_idea_ra_2025_deepen,strong,Amortissements 5.811m 2025; tick583
+bud_idea_fin_charges_2025,idea_hainaut,2025,2269391,,,outturn,src_idea_ra_2025_deepen,strong,Charges financieres 2.269m 2025; tick583
+bud_idea_net_raw_2025,idea_hainaut,2025,13739441,,,outturn,src_idea_ra_2025_deepen,strong,Benefice de l exercice 13.739m 2025 before immunisees; tick583
+bud_idea_pbt_2025,idea_hainaut,2025,13542945,,,outturn,src_idea_ra_2025_deepen,strong,Benefice avant impots 13.543m 2025; tick583
+bud_idea_dettes_total_2025,idea_hainaut,2025,144081413,,,outturn,src_idea_ra_2025_deepen,strong,Dettes totales 144.081m end-2025; tick583
+bud_idea_lt_fin_debt_2025,idea_hainaut,2025,96492936,,,outturn,src_idea_ra_2025_deepen,strong,Dettes financieres >1an 96.493m (leasing 27.96 + banks 68.54); tick583
+bud_idea_lt_lease_2025,idea_hainaut,2025,27955429,,,outturn,src_idea_ra_2025_deepen,strong,Location-financement LT 27.955m end-2025; tick583
+bud_idea_lt_banks_2025,idea_hainaut,2025,68537507,,,outturn,src_idea_ra_2025_deepen,strong,Etablissements de credit LT 68.538m end-2025; tick583
+bud_idea_st_debt_2025,idea_hainaut,2025,37355103,,,outturn,src_idea_ra_2025_deepen,strong,Dettes <=1an 37.355m end-2025; tick583
+bud_idea_mva_2025,idea_hainaut,2025,77212022,,,outturn,src_idea_ra_2025_deepen,strong,Immobilisations corporelles 77.212m end-2025; tick583
+bud_idea_fin_assets_2025,idea_hainaut,2025,166397560,,,outturn,src_idea_ra_2025_deepen,strong,Immobilisations financieres 166.398m end-2025 (+SPGE capital); tick583
+bud_idea_cap_subs_2025,idea_hainaut,2025,33671738,,,outturn,src_idea_ra_2025_deepen,strong,Subsides en capital 33.672m end-2025; tick583
+bud_idea_report_2025,idea_hainaut,2025,69827661,,,outturn,src_idea_ra_2025_deepen,strong,Benefice reporte 69.828m end-2025; tick583
+bud_idea_provisions_2025,idea_hainaut,2025,17908261,,,outturn,src_idea_ra_2025_deepen,strong,Provisions et impots differes 17.908m end-2025; tick583
+bud_idea_invest_mva_2025,idea_hainaut,2025,3900000,,,outturn,src_idea_ra_2025_deepen,strong,Investissements corporels 3.9m 2025 mainly water prod; tick583
+bud_idea_infra_eco_result_2025,idea_hainaut,2025,2329000,,,outturn,src_idea_ra_2025_deepen,strong,Resultat infrastructures economiques 2.329m 2025; tick583
+bud_idea_infra_eco_ca_2025,idea_hainaut,2025,5271000,,,outturn,src_idea_ra_2025_deepen,strong,CA infrastructures economiques 5.271m 2025; tick583
+bud_idea_drink_result_2025,idea_hainaut,2025,2307000,,,outturn,src_idea_ra_2025_deepen,strong,Resultat production distribution eau 2.307m 2025; tick583
+bud_idea_drink_ca_2025,idea_hainaut,2025,9552000,,,outturn,src_idea_ra_2025_deepen,strong,CA production distribution eau 9.552m 2025; tick583
+bud_idea_eng_result_2025,idea_hainaut,2025,-2262000,,,outturn,src_idea_ra_2025_deepen,strong,Resultat Engineering -2.262m 2025; tick583
+bud_idea_geo_result_2025,idea_hainaut,2025,-303000,,,outturn,src_idea_ra_2025_deepen,strong,Resultat geothermie -0.303m 2025; tick583
+bud_idea_geo_ca_2025,idea_hainaut,2025,1443000,,,outturn,src_idea_ra_2025_deepen,strong,CA geothermie 1.443m 2025; tick583
+bud_idea_halls_result_2025,idea_hainaut,2025,876000,,,outturn,src_idea_ra_2025_deepen,strong,Resultat halls relais Garocentre 0.876m 2025; tick583
+bud_idea_amgt_result_2025,idea_hainaut,2025,-1408000,,,outturn,src_idea_ra_2025_deepen,strong,Resultat amenagement territoire -1.408m 2025; tick583
+bud_idea_ceneo_div_sector_2025,idea_hainaut,2025,11202000,,,outturn,src_idea_ra_2025_deepen,strong,Secteur III.B CENEO result 11.202m class 2025; tick583
+bud_idea_hist_result_2025,idea_hainaut,2025,764000,,,outturn,src_idea_ra_2025_deepen,strong,Secteur I Historique benefice 0.764m 2025; tick583
+bud_idea_staff_2025,idea_hainaut,2025,352,,,outturn,src_idea_ra_2025_deepen,strong,COUNT collaborateurs 352 (113F 239M); tick583
+bud_idea_communes_2025,idea_hainaut,2025,27,,,outturn,src_idea_ra_2025_deepen,strong,COUNT communes associees 27; tick583
+bud_idea_drink_m3_sold_2025,idea_hainaut,2025,9300000,,,outturn,src_idea_ra_2025_deepen,strong,COUNT m3 eau potable vendus SWDE+entreprises 9.3m; tick583
+bud_idea_wastewater_m3_2025,idea_hainaut,2025,41000000,,,outturn,src_idea_ra_2025_deepen,strong,COUNT m3 eaux usees assainies 41m (Wasmuel 16.3m); tick583
+bud_idea_steps_2025,idea_hainaut,2025,31,,,outturn,src_idea_ra_2025_deepen,strong,COUNT stations epuration 31; tick583
+bud_idea_pumps_2025,idea_hainaut,2025,114,,,outturn,src_idea_ra_2025_deepen,strong,COUNT stations pompage 114; tick583
+bud_idea_geo_mwh_2025,idea_hainaut,2025,30926,,,outturn,src_idea_ra_2025_deepen,strong,COUNT geothermie 30926 MWh 2025; tick583
+bud_idea_pae_ha_sold_2025,idea_hainaut,2025,2190,,,outturn,src_idea_ra_2025_deepen,strong,COUNT ha commercialises PAE 21.90 x100; tick583
+bud_idea_pae_firms_invest_2025,idea_hainaut,2025,99732643,,,outturn,src_idea_ra_2025_deepen,strong,Investissements entreprises parcs 99.733m 2025 (21.9ha); tick583
+bud_idea_pension_offbs_2026_31,idea_hainaut,2025,25843000,,,outturn,src_idea_ra_2025_deepen,strong,Engagement hors bilan cotisation responsabilisation 25.843m 2026-2031; tick583
+bud_idea_fin_prod_immob_2025,idea_hainaut,2025,12472950,,,outturn,src_idea_ra_2025_deepen,strong,Produits immobilisations financieres 12.473m 2025 (CENEO heavy); tick583
