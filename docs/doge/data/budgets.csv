@@ -16072,3 +16072,30 @@ bud_sante_medex_workacc_2026,fod_sante,2026,15757000,,,budgeted,src_kamer_sante_
 bud_sante_env_goods_28m_2026,fod_sante,2026,28000000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.55.25.1211.01 env non-durable goods/services 28000 kEUR 2026; tick767
 bud_sante_amu_hosp_agencies_core_2026,fod_sante,2026,817953000,,,derived,src_kamer_sante_1281_014_2026,strong,Core L5 AMU 239.7 + care-staff 402.0 + agencies 176.3 = 818.0m class 2026; tick767
 bud_dual_sante_smals_map_2026,gg_belgium,2026,8529000,,,derived,src_kamer_sante_1281_014_2026,strong,Dual Sante Smals 8.53m residual vs Finance/SS Smals; not TE-additive; tick767
+bud_podmi_rmi_leefloon_2024,pod_mi,2024,1679448000,,,outturn,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435216 OCMW recht op MI/leefloon 1679448 kEUR 2024; tick768
+bud_podmi_rmi_leefloon_2025,pod_mi,2025,1772975000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435216 OCMW recht op MI/leefloon 1772975 kEUR 2025; tick768
+bud_podmi_rmi_leefloon_2026,pod_mi,2026,2085102000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435216 OCMW recht op MI/leefloon 2085102 kEUR 2026; tick768
+bud_podmi_rmi_leefloon_2027,pod_mi,2027,1934941000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435216 OCMW recht op MI/leefloon 1934941 kEUR 2027; tick768
+bud_podmi_rmi_leefloon_2028,pod_mi,2028,1897628000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435216 OCMW recht op MI/leefloon 1897628 kEUR 2028; tick768
+bud_podmi_rmi_leefloon_2029,pod_mi,2029,1898316000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435216 OCMW recht op MI/leefloon 1898316 kEUR 2029; tick768
+bud_podmi_rmi_delta_2025_26,pod_mi,2026,312127000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,RMI +312.127m 2025->2026 (1773->2085); tick768
+bud_podmi_wet2apr_2024,pod_mi,2024,451614000,,,outturn,src_kamer_podmi_1281_017_2026,strong,BA 55.12.435223 OCMW wet 2 apr 1965 451614 kEUR 2024; tick768
+bud_podmi_wet2apr_2025,pod_mi,2025,173321000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.435223 OCMW wet 2 apr 1965 173321 kEUR 2025; tick768
+bud_podmi_wet2apr_2026,pod_mi,2026,155778000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.435223 OCMW wet 2 apr 1965 155778 kEUR 2026; tick768
+bud_podmi_wet2apr_2027,pod_mi,2027,94641000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.435223 OCMW wet 2 apr 1965 94641 kEUR 2027; tick768
+bud_podmi_wet2apr_2028,pod_mi,2028,53883000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.435223 OCMW wet 2 apr 1965 53883 kEUR 2028; tick768
+bud_podmi_wet2apr_2029,pod_mi,2029,13125000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.435223 OCMW wet 2 apr 1965 13125 kEUR 2029; tick768
+bud_podmi_hziv_med_2024,hziv_caami,2024,93911000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.343200 HZIV/CAAMI med reimbursements 93911 kEUR 2024; tick768
+bud_podmi_hziv_med_2025,hziv_caami,2025,106096000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.343200 HZIV/CAAMI med reimbursements 106096 kEUR 2025; tick768
+bud_podmi_hziv_med_2026,hziv_caami,2026,112271000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.12.343200 HZIV/CAAMI med reimbursements 112271 kEUR 2026; tick768
+bud_podmi_ocmw_mega_stack_2026,pod_mi,2026,2353151000,,,derived,src_kamer_podmi_1281_017_2026,strong,RMI+wet2apr+HZIV 2085.102+155.778+112.271=2353.151m 2026; tick768
+bud_podmi_participatie_eng_2026,pod_mi,2026,6086000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435201 participatie/activering eng 6086 kEUR (liq 6758); tick768
+bud_podmi_participatie_liq_2026,pod_mi,2026,6758000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435201 liq 6758 kEUR 2026; tick768
+bud_podmi_installatie_dakloos_2026,pod_mi,2026,5894000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435202 installatiepremie daklozen 5894 kEUR; tick768
+bud_podmi_winteropvang_2026,pod_mi,2026,1350000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.11.330033 winteropvang 1350 kEUR 2026; tick768
+bud_podmi_aanvullende_remi_2024,pod_mi,2024,34590000,,,outturn,src_kamer_podmi_1281_017_2026,strong,BA 55.11.435203 aanvullende REMI 34590 kEUR 2024 only then 0; tick768
+bud_podmi_pay_statutair_2026,pod_mi,2026,9784000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.01.110003 statutair pay 9784 kEUR 2026; tick768
+bud_podmi_smals_egov_2026,pod_mi,2026,1013000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.08.122120 Smals eGov detache 1013 kEUR 2026; tick768
+bud_podmi_esf_plus_envelope_2021_27,pod_mi,2026,53110537,,,budgeted,src_kamer_podmi_1281_017_2026,strong,ESF+ food/material aid envelope ~53.110537m period 2021-2027 narrative; tick768
+bud_podmi_it_ops_2026,pod_mi,2026,3249000,,,budgeted,src_kamer_podmi_1281_017_2026,strong,BA 55.08.121104 IT ops 3249 kEUR 2026; tick768
+bud_dual_podmi_rmi_vs_coa_2026,gg_belgium,2026,2085102000,,,derived,src_dual_podmi_rmi_coa_tick768,strong,Dual Kamer RMI 2085.1 vs CoA BC OCMW RMI 2133 class; not TE-additive; tick768

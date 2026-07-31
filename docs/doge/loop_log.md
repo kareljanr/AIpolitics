@@ -9192,3 +9192,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_759 POD MI 1281/017 or BZ 1281/007; progress@770 in 3; rq_116 deferred
 
+
+## Tick 768 — 2026-08-03T04:00:00Z
+
+- Unit: **rq_759** (FOI-adjacent residual — **Kamer DOC 56 1281/017 POD Maatschappelijke Integratie**, 61p)
+- Found (primary 56K1281017, kEUR eng≈liq):
+  - **RMI/leefloon** BA 55.11.435216 **€2.085,102 m** 2026 (2024 1.679 · 2025 1.773 · +**€312 m** YoY; pad 2027–29 ~1.90 mrd)
+  - **Wet 2 apr 1965** BA 55.12.435223 **€155,778 m** (dalend: 451.6→173.3→155.8→94.6→53.9→13.1)
+  - **HZIV/CAAMI** med **€112,271 m** → OCMW mega stack **€2.353 mrd**
+  - Dual CoA BC RMI 2133 + wet65 176 = 2309 vs Kamer mega 2353 (HZIV scope)
+  - Participatie eng 6.086 / liq 6.758; installatie dakloos 5.894; winter 1.350; pay 9.784; Smals eGov 1.013; ESF+ envelope ~53.1m 2021–27
+  - Aanvullende REMI 34.59 only 2024 then 0
+- Wrote: entities (+pod_mi/hziv); budgets +27; commitments +9; leaderboard +8; sources +2; FOI **gap_podmi_rmi_volume_softsave_l5** prio9 ready; rq_759=done; spawn **rq_760**; ticks=768
+- FOI: ready only — **do not send**
+- Next: rq_760 Buitenlandse Zaken 1281/007; progress@770 in 2; rq_116 deferred
+

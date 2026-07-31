@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T03:00:00Z,rq_758,767,no,tick767 Sante AMU 239.7 zorg 402 agencies 176; next rq_759 POD MI/BZ; progress@770 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T04:00:00Z,rq_759,768,no,tick768 POD MI RMI 2085.1 mega 2353; next rq_760 BZ 007; progress@770 in 2; rq_116 deferred
