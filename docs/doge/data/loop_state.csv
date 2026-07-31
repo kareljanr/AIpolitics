@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T06:30:00Z,rq_650,659,no,tick659 CSF NPE dual WAL 1.32pct BA2024 +806m titres 568m; next rq_651 progress@660; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T06:45:00Z,rq_651,660,no,tick660 progress@660 dual CoA wave 651-659; next rq_652; progress@670 in 10; rq_116 deferred

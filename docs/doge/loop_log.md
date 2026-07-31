@@ -7767,3 +7767,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+csf_npe_caps_be); budgets (+50); commitments (+6); leaderboard (+6); sources (+3); FOI draft gap_csf_npe_ba2024_emploi_l5_2025; rq_650=done; spawn rq_651 (progress@660); loop_state ticks=659
 - FOI opened: gap_csf_npe_ba2024_emploi_l5_2025 -- ready (not sent)
 - Next: rq_651; **progress@660 NEXT tick**; rq_116 deferred
+
+### 2026-08-01T06:45:00Z -- tick 660 (PROGRESS MILESTONE)
+- Unit: rq_651 (progress@660 + dual CoA residual wave synthesis ticks651-659)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **Fiscal path:** SEC **-EUR2.287bn** / traj to **+EUR58m 2029** / debt **EUR25.3?34.1bn** ratio **190%** / interest **EUR605m** dual VL
+  - **HR + governance:** UAP 119quater **EUR34.4m** vs SPW net **EUR15.9m** / revent eng **EUR2.36bn** / sous-util squeeze **EUR148m** / factures shift **EUR248m**
+  - **Social duals:** AViQ **EUR7.256bn** / CAF stack **~EUR2.69bn** / titres **EUR568m** / RSC path **+EUR40m** dual Groeipakket/VDAB
+  - **EU dual:** CSF NPE WAL **1.32%** avg (2026 **0.90%**) vs VL **2.49%** / BA2024 **+EUR806m** / MTFSP gap 4y ref
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ AViQ branch + solde/traj + CAF + fonds + CSF dual)
+  - **D L5:** ~**46-59%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**402** / answered ~**9** / total FOI rows ~**412**
+- Inventory: budgets ~**12256** / cmt ~**1395** / lb ~**2666** / sources ~**1300** / entities ~**498**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55-8.30)
+- High-abs + dual NEW: revent 2.36bn / 119quater 34.4m / sous-util squeeze / factures 248m / debt ratio 190% / CSF NPE dual / CAF 2.69bn / AViQ 7.26bn
+- Gain 650-660: WAL CoA dual governance/fiscal/HR/social residual (largest flow = solde/SEC 2.29bn + AViQ 7.26bn; largest stock path = debt to 34.1bn)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_coa_wave_651_660_l5_2025 ready+draft; rq_651=done spawn rq_652; ticks=660
+- FOI opened: gap_dual_coa_wave_651_660_l5_2025 (ready, human send) - not sent
+- Next: prio5 **rq_652**; deferred **rq_116**; progress@670 in 10 ticks

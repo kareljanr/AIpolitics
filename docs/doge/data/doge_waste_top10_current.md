@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **650** (2026-08-01) · **~2612** leaderboard rows  
+**As-of:** tick **660** (2026-08-01) · **~2666** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks with annual € = 0 filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -26,8 +26,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 10 | `lb_fed_fossil_mazout_1_86bn` | Heating oil accise gap 1.86bn 2022 fossil inv | **1.86 bn** | 8 | 9.0 | 6 | **8.3** | fossil inventory |
 
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter:** Metro3 overrun/gap · Hedera CAP · VL Maastricht debt · WAL direct debt **~€30bn** · encours **€7.57bn** · federal unconsol debt / gross financing · **Infrabel equity 20.5bn** · **WE equity ~5bn** · **fonds stocks** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
-**Change vs tick 640:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 640-650 adds **WAL CoA finance/recovery/UAP dual wave** (PRW **€2.25bn**; debt **€30bn**/interest **€605m**; Ste-Émilie **€4.67bn**; UAP **-€755m**; encours **€7.57bn**; OCPP requalif **€125m**) that raise **L2 dual financing/recovery/UAP map** more than FFS ranking (see high-absurdity + dual tables).
+**Stock filter:** Metro3 overrun/gap · Hedera CAP · VL Maastricht debt · WAL direct debt **~€30–34bn** · encours **€7.57bn** · federal unconsol debt / gross financing · **Infrabel equity 20.5bn** · **WE equity ~5bn** · **fonds stocks** stay **off** pure annual top10 when annual=0 or finance-not-TE.  
+**Change vs tick 650:** pure annual **top10 unchanged** (fossil/cars/cheque/consultancy). Gain 650-660 adds **WAL CoA dual governance/fiscal/HR/social residual wave** (solde SEC **−€2.29bn**; traj to **+€58m 2029**; debt ratio **190%**; 119quater **€34.4m**; revent **€2.36bn**; CAF **€1.58bn**; CSF NPE dual; BA2024 **+€806m**) that raise **L2 dual map** more than FFS ranking (see high-absurdity + dual tables).
 
 ### Just outside top 10 (often relevant)
 
@@ -54,46 +54,30 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_kenteken_sole_bidder_bpost` | **9.0** | sole bidder concession |
 | `lb_ypto_proc_law_fail` | **9.0** | rail IT procurement |
 | `lb_vlaio_prescription_16_4m` | **8.5** | eco write-offs solvent debtors |
-| `lb_ocpp_requalif_125m_2025` | **7.5** | **NEW 649** OCPP requalif margin €125m |
-| `lb_encours_incomplete_2_08bn_2023` | **7.5** | **NEW 648** CRAC/Sowafinal+déchets off-book |
-| `lb_encours_7_57bn_2024` | **7.5** | **NEW 648** commitment stock €7.57bn |
-| `lb_fwcn_obj_gap_165m_2025` | **6.5** | **NEW 647** FWCN obj −165 vs budget −63 |
-| `lb_sowafinal3_specialty_breach_2025` | **7.0** | specialty breach DO16 residual |
-| `lb_prw_122_cl_2_25bn_2025` | **7.0** | **NEW 646** PRW sticky CL vs eng collapse |
+| `lb_wal_revent_2_36bn_2023` | **8.0** | **NEW 656** specialty revent eng €2.36bn |
+| `lb_factures_shift_248m_2023_24` | **8.0** | **NEW 657** year-end invoice shift €248m |
+| `lb_uap_119quater_overcost_34m` | **7.5** | **NEW 656** UAP statutory conversion overcost |
+| `lb_sous_util_squeeze_148m_2025` | **7.5** | **NEW 657** under-exec assumption squeeze |
+| `lb_dette_ratio_190pct_2029` | **7.0** | **NEW 658** debt/receipts to 190% |
+| `lb_traj_sec_balance_2029` | **6.5** | **NEW 658** SEC path to +58m optimistic residual |
+| `lb_mtfsp_gap_4y_ref_2024` | **7.5** | **NEW 659** MTFSP not deposited 4y ref |
+| `lb_ocpp_requalif_125m_2025` | **7.5** | OCPP requalif margin €125m (prior) |
+| `lb_encours_incomplete_2_08bn_2023` | **7.5** | CRAC/Sowafinal+déchets off-book (prior) |
 
-### Dual / DO mega map (not pure annual waste top 10)
+### Dual / mega map (not pure annual waste top 10)
 
 | ID | Envelope / peak | Note |
 |----|----------------:|------|
-| `lb_do17_cl_9_52bn_2025` | **9.52 bn** | DO17 local social dual VAPH (prior 639) |
-| `lb_ste_emilie_4_67bn_2025` | **4.67 bn** | **NEW 645** Ste-Émilie dual FWB |
-| `lb_competences_lsf_3_30bn_2025` | **3.30 bn** | **NEW 645** LSF competences dual fed |
-| `lb_do10_cl_2_27bn_2025` | **2.27 bn** | **NEW 646** DO10 Secretariat PRW-heavy |
-| `lb_prw_122_cl_2_25bn_2025` | **2.25 bn** | **NEW 646** PRW+FRR dual VV |
-| `lb_do19_dette` / interets class | **2.15 / 0.61 bn** | **NEW 644** DO19 debt dual VL |
-| `lb_do14_cl_1_65bn_2025` | **1.65 bn** | DO14 mobility dual De Lijn |
-| `lb_uap_unites_impact_755m_2025` | **0.76 bn** impact | **NEW 647** UAP SEC consol |
-| `lb_ocpp_after_corr_435m_2025` | **0.44 bn** | **NEW 649** OCPP after GW corr |
-| `lb_fiscal_circulation_779m_2025` | **0.78 bn** | **NEW 649** vehicle tax dual VL |
-| `lb_dual_financing_wal_fwb_fed_2025` | dual | **NEW 645** Ste-Émilie/LSF dual |
-| `lb_dual_prw_vv_recovery_2025` | dual | **NEW 646** PRW vs VV |
-| `lb_dual_debt_wal_vl_2025` | dual | **NEW 644** debt dual |
-| `lb_dual_uap_sec_wal_vl_2025` | dual | **NEW 647** UAP SEC dual |
-| `lb_dual_encours_eu_wal_vl_2025` | dual | **NEW 648** encours/EU dual |
-| `lb_dual_fa_ocpp_wal_vl_2025` | dual | **NEW 649** FA/OCPP dual |
-
-### Large stock / off-TE / dual-structure / reform map (not pure annual waste top 10)
-
-| ID | Stock / envelope / peak | Note |
-|-----|------------------:|------|
-| `lb_dual_pension_72bn` | **72.0 bn** benefits | emp+self+public pension stacks |
-| `lb_vl_debt_50_2bn_2025` | **50.2 bn** Maastricht | VL debt eoy2025 |
-| `lb_wal_dette_directe_30bn_2025` | **~30.0 bn** | **NEW 644** WAL direct debt eoy2025est |
-| `lb_encours_7_57bn_2024` | **7.57 bn** stock | **NEW 648** unliquidated commitments |
-| `lb_encours_incomplete_2_08bn_2023` | **2.08 bn** stock | **NEW 648** off-book CRAC/Sowafinal/déchets |
-| `lb_e1_nopol_financing_39bn` / post 31bn | **39.1 / 31.2 bn** | nopol vs measures 2029 |
-| `lb_fonds_prot_env_stock_495m_2025` | **0.50 bn** stock | largest WAL fonds stock |
-| `lb_kyoto_wal_stock_445m_2025` | **0.45 bn** stock | Kyoto under-spend |
-| `lb_we_group` equity class | **~5.0 bn** | WE holding dual PMV |
-| `lb_infrabel_assets_25_7bn` / equity 20.5 | **25.7 / 20.5 bn** | infra SOE balance |
-| `lb_riziv_care_39_7bn_2025` | **39.7 bn** | care authorized outturn |
+| `lb_do17_cl_9_52bn_2025` | **9.52 bn** | DO17 local social dual VAPH (prior) |
+| `lb_aviq_dep_7_26bn_table34_2025` | **7.26 bn** | **NEW 655** AViQ branch Table34 dual VAPH |
+| `lb_ste_emilie_4_67bn_2025` | **4.67 bn** | Ste-Émilie dual FWB (prior) |
+| `lb_wal_solde_sec_2_29bn_2025` | **2.29 bn** | **NEW 657** SEC solde dual VL |
+| `lb_caf_stack_2_69bn_2025` | **2.69 bn** | **NEW 653** CAF private+Famiwal dual Groeipakket |
+| `lb_prw_122_cl_2_25bn_2025` | **2.25 bn** | PRW+FRR dual VV (prior) |
+| `lb_fonds_budgetaires_530m_2025` | **0.53 / 1.75 bn** stock | **NEW 657** assigned funds + report |
+| `lb_titres_services_568m_2025` | **0.57 bn** | **NEW 659** titres dual VL |
+| `lb_csf_wal_npe_1_32pct` | rate | **NEW 659** CSF NPE dual tight WAL |
+| `lb_dual_119quater_spw_uap_2025` | dual | **NEW 656** SPW save vs UAP overcost |
+| `lb_dual_traj_debt_wal_vl_2025` | dual | **NEW 658** traj+debt dual VL |
+| `lb_dual_csf_npe_entities_2025` | dual | **NEW 659** all-entity NPE caps |
+| `lb_dual_coa_wave_651_660_2025` | dual | **NEW 660** wave synthesis |
