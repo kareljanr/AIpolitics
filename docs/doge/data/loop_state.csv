@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T01:00:00Z,rq_628,637,no,tick637 DO14 mobility 1.65bn OTW CSP shortfall 22m SEE 200m dual De Lijn; next rq_629; progress@640 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T01:15:00Z,rq_629,638,no,tick638 DO16 logement prive path -90m Renopack 71m dual MVP; next rq_630; progress@640 in 2; rq_116 deferred

@@ -7588,3 +7588,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+otw +fonds_infractions); budgets (+25); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do14_mobilite_l5_2025; rq_628=done; spawn rq_629; loop_state ticks=637
 - FOI opened: gap_do14_mobilite_l5_2025 -- ready (not sent)
 - Next: rq_629; progress@640 in 3 ticks; rq_116 deferred
+
+### 2026-08-01T01:15:00Z -- tick 638
+- Unit: rq_629 (FOI-adjacent dual housing hole-fill -- **DO16 Logement/energie** CoA dual VMSW/MVP + Renopack)
+- Found: **DO16** (primary CoA): BI2025 CE **EUR772.7m** / CL **EUR737.1m** (path eng **-EUR41.8m** / liq **-EUR93.6m**). **Prog 080 prive:** CE **EUR203.8m** / CL **EUR206.8m** (path eng **-EUR89.4m** / liq **-EUR89.7m**; exec class **EUR108.5m**). **Prog 081 public:** CE **EUR153.0m** / CL **EUR151.7m** (path liq **-EUR18.0m**). **DF 081.052 sans-abri:** structural cut **EUR10.2m** to ~**EUR4.0m**; **zero** eng/liq exec 2024. **Fonds Ecopack/Renopack 090:** CE=CL **EUR71.2m** (path **+EUR43.5m** vs BA **EUR27.7m**; full non-code8 SEC correction). **Prog 083 Energie:** CL **EUR83.7m** (path liq **-EUR15.1m**). Dual **MVP** VAK class **EUR204m** 2025 / cut class **EUR70.5m** 2026 + SWL/SWCS SEC prior. Strong confidence CoA; L5 line residual FOI.
+- Wrote: entities (+fonds_ecopack_renopack); budgets (+21); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do16_logement_l5_2025; rq_629=done; spawn rq_630; loop_state ticks=638
+- FOI opened: gap_do16_logement_l5_2025 -- ready (not sent)
+- Next: rq_630; progress@640 in 2 ticks; rq_116 deferred

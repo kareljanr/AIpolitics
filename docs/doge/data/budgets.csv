@@ -11581,3 +11581,24 @@ bud_do14_049_see23_liq_bi2025,wallonie_gov,2025,43000000,,,budgeted,src_ccrek_do
 bud_do14_053_infractions_dep_bi2025,fonds_infractions_routieres_wal,2025,26007000,,,budgeted,src_ccrek_do14_mobilite_bi2025,strong,Fonds infractions routieres dep CE=CL BI2025 26.007m
 bud_do14_053_infractions_rec_bi2025,fonds_infractions_routieres_wal,2025,74334000,,,budgeted,src_ccrek_do14_mobilite_bi2025,strong,Fonds infractions rec BI2025 74.334m surplus 48.327m
 bud_do14_050_secu_routiere_bi2025,wallonie_gov,2025,5800000,,,budgeted,src_ccrek_do14_mobilite_bi2025,strong,Fonds securite routiere CE=CL 5.800m BI2025
+bud_do16_ce_bi2025,wallonie_gov,2025,772659000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,DO16 Amenagement logement patrimoine energie CE BI2025 772.659m
+bud_do16_cl_bi2025,wallonie_gov,2025,737149000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,DO16 CL BI2025 737.149m path liq -93.615m vs BA2024 830.764m
+bud_do16_ce_ba2024,wallonie_gov,2024,814459000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,DO16 CE BA2024 814.459m
+bud_do16_cl_ba2024,wallonie_gov,2024,830764000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,DO16 CL BA2024 830.764m
+bud_do16_exec_class_ba2024,wallonie_gov,2024,309202000,,,outturn,src_ccrek_do16_logement_bi2025,medium,DO16 exec class 309.202m BA2024 table under-spend
+bud_do16_080_prive_ce_bi2025,wallonie_gov,2025,203849000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 080 Logement prive CE BI2025 203.849m path eng -89.373m
+bud_do16_080_prive_cl_bi2025,wallonie_gov,2025,206818000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 080 CL BI2025 206.818m path liq -89.666m vs BA 296.484m
+bud_do16_080_prive_ce_ba2024,wallonie_gov,2024,293222000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 080 CE BA2024 293.222m
+bud_do16_080_prive_exec_class,wallonie_gov,2024,108476000,,,outturn,src_ccrek_do16_logement_bi2025,medium,Prog 080 exec class 108.476m BA2024
+bud_do16_081_public_ce_bi2025,swl,2025,152952000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 081 Logement public CE BI2025 152.952m path eng -16.826m
+bud_do16_081_public_cl_bi2025,swl,2025,151650000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 081 CL BI2025 151.650m path liq -18.027m
+bud_do16_081_052_sansabri_cut,swl,2025,10200000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,DF 081.052 sans-abri structural economy 10.2m to ~4.0m residual credits; zero exec 2024
+bud_do16_081_052_sansabri_residual,swl,2025,4000000,,,budgeted,src_ccrek_do16_logement_bi2025,medium,DF 081.052 residual credits a little over 4.0m BI2025 after 10.2m cut CoA
+bud_do16_083_energie_ce_bi2025,spw_energie,2025,89449000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 083 Energie CE BI2025 89.449m path eng +0.924m
+bud_do16_083_energie_cl_bi2025,spw_energie,2025,83702000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 083 CL BI2025 83.702m path liq -15.050m vs BA 98.752m
+bud_do16_089_fonds_energie_bi2025,spw_energie,2025,8000000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Fonds energie 089 CE=CL BI2025 8.000m path +0.400m
+bud_do16_090_renopack_bi2025,fonds_ecopack_renopack_wal,2025,71200000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Fonds Ecopack Renopack 090 CE=CL BI2025 71.200m path +43.502m vs BA 27.698m
+bud_do16_090_renopack_ba2024,fonds_ecopack_renopack_wal,2024,27698000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Fonds Ecopack Renopack BA2024 27.698m
+bud_do16_082_monuments_bi2025,wallonie_gov,2025,46215000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 082 Monuments sites fouilles CE=CL 46.215m BI2025 path -1.469m
+bud_do16_079_renov_urbaine_ce_bi2025,wallonie_gov,2025,137490000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 079 renovation urbaine CE BI2025 137.490m path eng +22.220m
+bud_do16_079_renov_urbaine_cl_bi2025,wallonie_gov,2025,107466000,,,budgeted,src_ccrek_do16_logement_bi2025,strong,Prog 079 CL BI2025 107.466m path liq -7.889m
