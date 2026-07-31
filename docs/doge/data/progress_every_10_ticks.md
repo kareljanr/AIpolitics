@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 720** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL GIP multi-mode invest class **~€2.5bn/yr** / actu **€3.685bn** · SOFICO CA **€503m** / assets **€3.02bn** · flexi wage mass Q4 **€220m** (off pure TE privilege) · prior BCR dual residual OAA/SGRBC/STIB retained |
+| **D. L5 named / measure end-lines** | **~51-65%** of TE (generous) | **Gain 710→720 is FOI-adjacent dual residual (not near-complete of 348bn):** GIP actualisatie **€3.685bn** · raming cut **€1.057bn**/502 · AM fleet pollution **€378.5m** · fiets gap **−€102m** · exec off-plan **€229m** / under-over **€454/188m** · large-project squeeze **€2.182bn (2030)** / beschikbaar path **€970.5m (2035)** · monitor fail on **~€2.5bn** (no VEK/encours public) · flexi HERMES V2 **+€213m** fiscal counterfactual · SOFICO CAPEX commit **€280m** / guaranteed debt **€495m** · BCR Citydev/Port/Innoviris reporté residual · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~455** drafts ready | Human send only; answered **~9**; total FOI rows **~470** (+ GIP programmes/exec/large/monitor · flexi HERMES full-sector · Sofico CAPEX commit · prior BCR reporté cluster) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt / E1 path €24.5–36.2bn** · **VL Maastricht/consol debt ~€50–57bn** · **WAL direct debt ~€30–34bn** / **FWB ~€14–21bn path** · **BCR consol debt €16.1→19.1bn path** · **Hedera CAP €15bn** · **Phoenix CfD multi-year** · **VL begrotingsfondsen stocks ~€0.86bn** · **VL ruiter carry €1.4bn** · **Oosterweel VAK stock** · **SKF multi-year €0.96bn** · **Fluvius equity inject path €1.56bn** · **FRBRTC/refinance stocks** · **OAA reporté fiction (accounting, not new TE)** · **GIP beschikbaarheid path to €0.97bn** · **Sofico guaranteed debt / CAPEX commit stocks** · **flexi privilege TE class** · **CSF NPE growth caps** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 720)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~14172 |
+| commitments.csv | ~1721 |
+| leaderboard.csv | ~3003 |
+| entities.csv | ~549 |
+| sources.csv | ~1414 |
+| FOI ready | ~455 |
+| FOI answered | ~9 |
+| FOI total rows | ~470 |
+| research_queue open | rq_116 deferred + rq_712 hole-fill after progress |
+
+### What improved since tick 710
+
+- **BCR dual residual close-out (tick711–713):** Citydev/SAU/missions/SRIB reporté · Visit/ABE/FBG tourism dual · Port reporté strip **~€28m** · Innoviris reporté **€52m** · closes Annexe2 reporté wave.
+- **VL GIP CoA 2026_27 trilogy (tick714–717):** avg **€2.503bn** · actu **€3.685bn** · raming cut **€1.057bn** · AM fleet **€378.5m** · fiets **−€102m** · exec **€2.496bn** / off-plan **€229m** · large squeeze **€2.182bn (2030)** / beschikbaar **€157.9→970.5m** · selection VR **85/57** · monitor: VEK not live, no public exec report, IC **~3 FTE**, **16** CoA recs.
+- **Fed flexi CoA 2026_34 residual (tick718):** wage mass Q4 **€220.071m** · HERMES V2 budget **+€213m** (0.03pp GDP) · enforcement **154** findings / **5** high-SS regularisations · **~85% VL**.
+- **WAL Sofico comptes residual (tick719):** CAPEX commit **€280.0m** · guaranteed debt **€494.8m** · land acq **€245.8m** · lean **49.5 FTE** on **€3.02bn** assets · dual GIP transparency asymmetry.
+- **Dual map:** GIP vs STIB/SOFICO invest · flexi regional incidence · reporté sincerity BCR vs GIP data chaos · entity II transport mega-project fiscal space.
+
+---
+
 ## Snapshot at **tick 710** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

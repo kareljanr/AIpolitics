@@ -8513,3 +8513,19 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_sofico_capex_commit_l5_2025 — ready (not sent)
 - Next: **rq_711 PROGRESS@720**; rq_116 deferred
 
+
+### 2026-08-01T21:45:00Z — tick 720
+- Unit: **rq_711** (mandatory **progress@720** coverage % + waste top10)
+- Coverage (honest, vs EUR 347.956bn TE):
+  - **A L0 100%** · **B L1 100%** · **C L2 ~99%** · **D L5 ~51-65%** (generous; not near-complete of 348bn) · **E FOI ready ~455** / answered ~9 / total ~470
+- Inventory: budgets ~14172 · commitments ~1721 · leaderboard ~3003 · entities ~549 · sources ~1414
+- Gain 710→720 (FOI-adjacent dual residual wave 711–719):
+  - BCR Citydev/SAU/Visit/Port/Innoviris reporté close-out
+  - VL GIP trilogy: actu **3685** · raming cut **1057** · AM fleet **378.5** · fiets **−102** · exec off **229** · large squeeze **2182/2577** · beschikbaar path **970.5** · monitor VEK fail / IC ~3 FTE / 16 recs
+  - Flexi HERMES V2 **+213m** · wage mass Q4 **220m** · VL **85%** · enforcement thin
+  - Sofico CAPEX commit **280m** · guaranteed debt **495m** · dual GIP asymmetry
+- Waste top10: **GIP monitor fail 2.5bn enters #1** (prio 8.70 abs 9.0; governance-on-volume not pure TE waste); fossil/cars/cheque/reporté hold #2–10; high-abs NEW: GIP select/exec/large · flexi enforcement · Sofico commit
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_711=done; spawn **rq_712**; loop_state ticks=720
+- FOI: none new (progress tick)
+- Next: prio5 **rq_712**; deferred **rq_116**; progress@730 in 10 ticks
+
