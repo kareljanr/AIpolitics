@@ -7760,3 +7760,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+wal_trajectoire_sec); budgets (+65); commitments (+6); leaderboard (+6); sources (+3); FOI draft gap_traj_debt_aides_l5_2025; rq_649=done; spawn rq_650 (progress@660); loop_state ticks=658
 - FOI opened: gap_traj_debt_aides_l5_2025 -- ready (not sent)
 - Next: rq_650; **progress@660 in 2 ticks**; rq_116 deferred
+
+### 2026-08-01T06:30:00Z -- tick 659
+- Unit: rq_650 (FOI-adjacent dual fiscal/emploi hole-fill -- **CSF Table6 NPE dual caps + BA2024 Table4-5 L5 + emploi pack residual**)
+- Found: **CSF Table6** (primary CoA s1.1): NPE growth caps avg 2025-31 **WAL 1.32%** (2025 **1.15** / 2026 **0.90**) / **VL 2.49%** / **FWB 1.40%** / **BRU 0.21%** / **E1 2.83%** / **COCOF 2.85** / **VGC 1.98** / **COCOM 2.42** / **DG 0.34**; GDP pot **3.46%**; BE EU avg **2.6%**. CoA: expose lacks WAL pluriannual NPE; **MTFSP not deposited** Nov2024 -> **4y** ref traj; EC def **-4.6% to -5.3% GDP** worst EU. **BA2024 Table4-5:** CE **+EUR805.5m** / CL **+EUR690.9m**; FRR eng **447** / liq **200**; communes eng **62.0** / liq **160.7**; amort **104.2**; encours liq **88.8** (specialty flag); SWCS **63.7**; interest **45.5**; hospital past **37.0**; Ukraine **19.3**; env eng **25**; EU cofin **-30**. **Emploi L5:** titres **EUR567.6m** / RSC **EUR187.6m** path **+EUR40.1m** / form **EUR344.6m**. Dual all entities + VDAB. Strong confidence CoA; NPE actual series residual FOI.
+- Wrote: entities (+csf_npe_caps_be); budgets (+50); commitments (+6); leaderboard (+6); sources (+3); FOI draft gap_csf_npe_ba2024_emploi_l5_2025; rq_650=done; spawn rq_651 (progress@660); loop_state ticks=659
+- FOI opened: gap_csf_npe_ba2024_emploi_l5_2025 -- ready (not sent)
+- Next: rq_651; **progress@660 NEXT tick**; rq_116 deferred

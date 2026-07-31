@@ -12205,3 +12205,53 @@ bud_do18_096003_path_vs_ba,wallonie_gov,2025,-19000000,,,budgeted,src_ccrek_do18
 bud_do18_096003_backlog_2023,wallonie_gov,2024,32000000,,,outturn,src_ccrek_do18_aides_invest_bi2025,strong,700 dossiers 2023 rolled 2024 for 32m eng backlog DF096.003; tick658
 bud_do18_096003_dossiers_backlog,wallonie_gov,2024,700,,,outturn,src_ccrek_do18_aides_invest_bi2025,strong,Backlog COUNT 700 dossiers 2023 to 2024; tick658
 bud_moody_a3_negative,wallonie_debt,2024,0,,,outturn,src_ccrek_traj_debt_ratio_bi2025,strong,Moody A3 negative Oct2024 (was stable Dec2023); tick658
+bud_csf_npe_e1_avg_2025_31_pct,sec_federal,2025,2.83,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF Table6 Entity I NPE growth avg 2025-31 2.83pct; tick659
+bud_csf_npe_e1_2025_pct,sec_federal,2025,2.89,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF Entity I NPE 2025 2.89pct; tick659
+bud_csf_npe_vl_avg_2025_31_pct,vlaanderen_gov,2025,2.49,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF Flanders+locals NPE avg 2025-31 2.49pct; tick659
+bud_csf_npe_vl_2025_pct,vlaanderen_gov,2025,2.56,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF Flanders NPE 2025 2.56pct; tick659
+bud_csf_npe_vl_2026_pct,vlaanderen_gov,2026,2.2,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF Flanders NPE 2026 2.20pct; tick659
+bud_csf_npe_fwb_avg_2025_31_pct,fwb_gov,2025,1.4,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF FWB NPE avg 2025-31 1.40pct; tick659
+bud_csf_npe_fwb_2025_pct,fwb_gov,2025,1.37,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF FWB NPE 2025 1.37pct; tick659
+bud_csf_npe_wal_avg_2025_31_pct,wallonie_gov,2025,1.32,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL+locals NPE avg 2025-31 1.32pct; tick659
+bud_csf_npe_wal_avg_2025_28_pct,wallonie_gov,2025,1.06,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL NPE avg 2025-28 1.06pct; tick659
+bud_csf_npe_wal_2025_pct,wallonie_gov,2025,1.15,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL NPE 2025 1.15pct; tick659
+bud_csf_npe_wal_2026_pct,wallonie_gov,2026,0.9,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL NPE 2026 0.90pct tightest near-term; tick659
+bud_csf_npe_wal_2027_pct,wallonie_gov,2027,1.1,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL NPE 2027 1.10pct; tick659
+bud_csf_npe_wal_2028_pct,wallonie_gov,2028,1.09,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL NPE 2028 1.09pct; tick659
+bud_csf_npe_wal_2029_pct,wallonie_gov,2029,1.65,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF WAL NPE 2029 1.65pct; tick659
+bud_csf_npe_bru_avg_2025_31_pct,brussels_gov,2025,0.21,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF BRU+locals NPE avg 2025-31 0.21pct; tick659
+bud_csf_npe_bru_2025_pct,brussels_gov,2025,0.24,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF BRU NPE 2025 0.24pct; tick659
+bud_csf_npe_bru_2026_pct,brussels_gov,2026,-0.01,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF BRU NPE 2026 -0.01pct; tick659
+bud_csf_npe_dg_avg_2025_31_pct,dg_gov,2025,0.34,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF DG NPE avg 2025-31 0.34pct; tick659
+bud_csf_npe_cocof_avg_2025_31_pct,cocof,2025,2.85,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF COCOF NPE avg 2025-31 2.85pct; tick659
+bud_csf_npe_vgc_avg_2025_31_pct,vgc,2025,1.98,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF VGC NPE avg 2025-31 1.98pct; tick659
+bud_csf_npe_cocom_avg_2025_31_pct,cocom,2025,2.42,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF COCOM NPE avg 2025-31 2.42pct; tick659
+bud_csf_gdp_pot_avg_2025_31_pct,gg_belgium,2025,3.46,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,CSF potential nominal GDP growth avg 2025-31 3.46pct; tick659
+bud_csf_be_avg_npe_eu_2024_31_pct,gg_belgium,2025,2.6,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,EU max NPE growth BE avg 2.6pct/yr 2024-31 vs GDP nom 3.5pct; tick659
+bud_ec_def_be_2024_pct_gdp,gg_belgium,2024,-4.6,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,EC Autumn2024: BE deficit -4.6pct GDP 2024 path to -5.3 2026 worst EU; tick659
+bud_ec_def_be_2026_pct_gdp,gg_belgium,2026,-5.3,,,projection,src_ccrek_csf_npe_ba2024_bi2025,strong,EC Autumn2024: BE deficit -5.3pct GDP 2026 constant policy; tick659
+bud_ba2024_ce_total,wallonie_gov,2024,21890736000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table4 BA2024 total CE 21890.736m path +805.5 vs BI; tick659
+bud_ba2024_cl_total,wallonie_gov,2024,21783657000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table4 BA2024 total CL 21783.657m path +690.9; tick659
+bud_ba2024_ce_path,wallonie_gov,2024,805530000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table4/5 BA2024 CE adjustment +805.530m (+3.8pct); tick659
+bud_ba2024_cl_path,wallonie_gov,2024,690920000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table4/5 BA2024 CL adjustment +690.920m (+3.3pct); tick659
+bud_ba2024_frr_eng,prw_frr_wallonie,2024,447000000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 FRR 122.002/003 eng +447.0m BA2024; tick659
+bud_ba2024_frr_liq,prw_frr_wallonie,2024,200000000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 FRR liq +200.0m BA2024; tick659
+bud_ba2024_communes_compl_eng,wallonie_gov,2024,62027000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 communes/provinces tax-ex complement eng +62.027m 2023-24; tick659
+bud_ba2024_communes_compl_liq,wallonie_gov,2024,160657000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 communes/provinces complement liq +160.657m; tick659
+bud_ba2024_amort_path,wallonie_debt,2024,104173000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 amortissements 036.012 +104.173m; tick659
+bud_ba2024_prov_encours_liq,wallonie_gov,2024,88760000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 provision encours 028.008 liq +88.760m (PME primes 24 + dec2008 20 + flood land 12.6 class); tick659
+bud_ba2024_swcs_aide,swcs,2024,63671000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 SWCS aide exceptionnelle 63.671m (dot 13.7 + capital 50); tick659
+bud_ba2024_interets_path,wallonie_debt,2024,45469000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 interets 036.001 +45.469m; tick659
+bud_ba2024_hospital_past,wallonie_gov,2024,37043000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 hospital past charges federal 093.027 +37.043m; tick659
+bud_ba2024_eu_cofin_liq,wallonie_gov,2024,-30000000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 EU cofin 2014-20 120.001 liq -30.0m; tick659
+bud_ba2024_ukraine_housing,wallonie_gov,2024,19254000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 Ukraine collective housing 080.054 +19.254m; tick659
+bud_ba2024_env_fonds_eng,fonds_budgetaires_wal,2024,25000000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 fonds protection environnement eng +25.0m; tick659
+bud_ba2024_indemnites_tiers,wallonie_gov,2024,1999000,,,budgeted,src_ccrek_csf_npe_ba2024_bi2025,strong,Table5 indemnites responsabilite 049.021 +1.999m; tick659
+bud_do18_106_titres_bi2025,forem,2025,567614000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 106 titres-services Forem CL=CE BI2025 567.614m path +3.217; tick659
+bud_do18_107_rsc_bi2025,forem,2025,187610000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 107 RSC target groups BI2025 187.610m path +40.073; tick659
+bud_do18_105_controle_bi2025,forem,2025,25387000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 105 controle disponibilite Forem 25.387m path +0.516; tick659
+bud_do18_104_eco_sociale_ce_bi2025,wallonie_gov,2025,32042000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 104 economie sociale CE 32.042 CL 29.925 path eng -5.338; tick659
+bud_do18_108_proximite_bi2025,wallonie_gov,2025,26309000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 108 emplois proximite 26.309m path +2.240; tick659
+bud_do18_109_form_pro_cl_bi2025,wallonie_gov,2025,27191000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 109 formation pro CL 27.191m path +3.772; tick659
+bud_do18_110_forem_form_bi2025,forem,2025,344624000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 110 Forem Formation 344.624m path +2.580; tick659
+bud_do18_113_politiques_croisees_cl,wallonie_gov,2025,18251000,,,budgeted,src_ccrek_emploi_pack_residual_bi2025,strong,Prog 113 politiques croisees formation CL 18.251m path -2.050; tick659
