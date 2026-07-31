@@ -16042,3 +16042,33 @@ bud_eu_gni_delta_2026_29,fod_eu_financing,2029,1230110000,,,budgeted,src_kamer_e
 bud_eu_gni_path_end_2029,fod_eu_financing,2029,6224483000,,,budgeted,src_kamer_eu_1281_020_2026,strong,End-path BNI 6224.483m 2029; tick766
 bud_dual_eu_gni_vs_total_financing_2026,gg_belgium,2026,4994373000,,,derived,src_dual_eu_gni_expose_tick766,strong,Dual GNI 4.994bn within EU financing total 9.145bn (customs 3.402 VAT 0.748); not TE-additive; tick766
 bud_eu_section52_only_gni_2026,fod_eu_financing,2026,4994373000,,,budgeted,src_kamer_eu_1281_020_2026,strong,Section 52 expenditure-side only BNI; TOR customs/VAT on receipts side not here; tick766
+bud_sante_amu_112_2025,fod_sante,2025,239662000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.52.03.3300.06 AMU/112 ambulance subsidies 239662 kEUR 2025; tick767
+bud_sante_amu_112_2026,fod_sante,2026,239662000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.52.03.3300.06 AMU/112 ambulance subsidies 239662 kEUR 2026; tick767
+bud_sante_amu_112_2027,fod_sante,2027,239662000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.52.03.3300.06 AMU/112 ambulance subsidies 239662 kEUR 2027; tick767
+bud_sante_amu_112_2028,fod_sante,2028,239662000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.52.03.3300.06 AMU/112 ambulance subsidies 239662 kEUR 2028; tick767
+bud_sante_amu_112_2029,fod_sante,2029,239662000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.52.03.3300.06 AMU/112 ambulance subsidies 239662 kEUR 2029; tick767
+bud_sante_hosp_private_zorgpersoneel_2026,fod_sante,2026,208606000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.21.3132.01 private hospitals Zorgpersoneelfonds 208606 kEUR; law 9 Dec 2019; tick767
+bud_sante_hosp_public_zorgpersoneel_2026,fod_sante,2026,86430000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.21.3122.01 public hospitals 86430 kEUR; tick767
+bud_sante_maribel_2026,fod_sante,2026,56060000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.21.0100.01 Fonds Maribel 56060 kEUR flat; tick767
+bud_sante_nurse_independent_2026,fod_sante,2026,50904000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.21.0100.02 independent nursing support 50904 kEUR; tick767
+bud_sante_zorgpersoneel_stack_2026,fod_sante,2026,402000000,,,derived,src_kamer_sante_1281_014_2026,strong,Care-staff stack private+public+Maribel+nurse 208.606+86.430+56.060+50.904=402.0m 2026; tick767
+bud_favv_dot_2026,favv,2026,114507000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.54.51.4140.01 FAVV/AFSCA dot 114507 kEUR (2024 115981 2025 113769); tick767
+bud_favv_dot_2025,favv,2025,113769000,,,budgeted,src_kamer_sante_1281_014_2026,strong,FAVV dot 113769 kEUR 2025; tick767
+bud_sciensano_dot_2026,sciensano,2026,33923000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.56.51.4140.01 Sciensano 33923 kEUR (2025 30909); tick767
+bud_fagg_dot_2026,fagg,2026,27861000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.59.02.4140.01 FAGG/AFMPS 27861 kEUR (2025 34273); tick767
+bud_fagg_dot_2025,fagg,2025,34273000,,,budgeted,src_kamer_sante_1281_014_2026,strong,FAGG 34273 kEUR 2025 peak; tick767
+bud_sante_agencies_stack_2026,fod_sante,2026,176291000,,,derived,src_kamer_sante_1281_014_2026,strong,FAVV+Sciensano+FAGG 114.507+33.923+27.861=176.291m 2026; tick767
+bud_sante_pay_statutair_2026,fod_sante,2026,69195000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.21.41.1100.03 statutair pay 69195 kEUR 2026 (2025 61534); tick767
+bud_sante_pay_nonstatutair_2026,fod_sante,2026,12309000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.21.41.1100.04 non-statutair 12309 kEUR; tick767
+bud_sante_pay_core_2026,fod_sante,2026,81504000,,,derived,src_kamer_sante_1281_014_2026,strong,OA21 payroll core statutair+non 69.195+12.309=81.504m; tick767
+bud_hda_dot_2026,health_data_authority,2026,10109000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.21.51.4130.01 HDA 10109 kEUR 2026 (2024/25 ~4.51/4.53); tick767
+bud_hda_dot_2025,health_data_authority,2025,4527000,,,budgeted,src_kamer_sante_1281_014_2026,strong,HDA 4527 kEUR 2025; tick767
+bud_sante_smals_pay_2026,fod_sante,2026,5202000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.21.42.1221.20 Smals detache pay 5202 kEUR; tick767
+bud_sante_smals_ops_oa51_2026,fod_sante,2026,3327000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.02.1221.20 Smals OA51 3327 kEUR; tick767
+bud_sante_smals_stack_2026,fod_sante,2026,8529000,,,derived,src_kamer_sante_1281_014_2026,strong,Smals sante stack 5.202+3.327=8.529m 2026; tick767
+bud_sante_plasma_blood_2026,fod_sante,2026,7260000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.34.3300.01 plasma blood institutions 7260 kEUR; tick767
+bud_sante_kce_dot_2026,fod_sante,2026,1338000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.51.81.4220.01 KCE/Kenniscentrum 1338 kEUR; dual OAP023; tick767
+bud_sante_medex_workacc_2026,fod_sante,2026,15757000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.53.13.3441.01 Medex work accidents 15757 kEUR; tick767
+bud_sante_env_goods_28m_2026,fod_sante,2026,28000000,,,budgeted,src_kamer_sante_1281_014_2026,strong,BA 25.55.25.1211.01 env non-durable goods/services 28000 kEUR 2026; tick767
+bud_sante_amu_hosp_agencies_core_2026,fod_sante,2026,817953000,,,derived,src_kamer_sante_1281_014_2026,strong,Core L5 AMU 239.7 + care-staff 402.0 + agencies 176.3 = 818.0m class 2026; tick767
+bud_dual_sante_smals_map_2026,gg_belgium,2026,8529000,,,derived,src_kamer_sante_1281_014_2026,strong,Dual Sante Smals 8.53m residual vs Finance/SS Smals; not TE-additive; tick767

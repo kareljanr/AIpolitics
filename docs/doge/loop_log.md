@@ -9176,3 +9176,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_758 Santé 1281/014 or POD MI 1281/017 or BZ 1281/007; progress@770 in 4; rq_116 deferred
 
+
+## Tick 767 — 2026-08-03T03:00:00Z
+
+- Unit: **rq_758** (FOI-adjacent residual — **Kamer DOC 56 1281/014 FOD Volksgezondheid / Santé**, 303p)
+- Found (primary 56K1281014, kEUR eng≈liq):
+  - **AMU/112** BA 25.52.03.3300.06 **€239.662m** flat 2025–2029 (ambulance subsidies)
+  - **Zorgpersoneelfonds stack €402.0m**: privé 208.606 + publiek 86.430 + Maribel 56.060 + zelfst. verpleging 50.904
+  - **Agencies €176.3m**: FAVV **114.507** · Sciensano **33.923** · FAGG **27.861** (2025 peak 34.273)
+  - OA21 payroll **€81.5m** (statutair 69.195 + non 12.309)
+  - **HDA €10.109m** (jump from ~4.5m 2024–25)
+  - **Smals** stack **€8.53m** (5.202+3.327); plasma 7.26; KCE 1.338; Medex workacc 15.757; env goods 28.0
+  - Core dual map AMU+care+agencies **~€818m** class (not TE-additive)
+- Wrote: entities (+fod_sante/fagg/HDA); budgets +30; commitments +9; leaderboard +10; sources +2; FOI **gap_sante_amu_zorgpersoneel_agency_l5** prio8 ready; rq_758=done; spawn **rq_759**; ticks=767
+- FOI: ready only — **do not send**
+- Next: rq_759 POD MI 1281/017 or BZ 1281/007; progress@770 in 3; rq_116 deferred
+
