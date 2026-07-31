@@ -7175,3 +7175,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+bep_environnement); budgets (+30); commitments (+2); leaderboard (+6); sources (+3); raw PDF; FOI draft gap_bep_env_comptes_l5_2025; rq_578=done; spawn rq_579; loop_state ticks=587
 - FOI opened: gap_bep_env_comptes_l5_2025 → ready (not sent)
 - Next: rq_579; progress@590 in 3 ticks; rq_116 deferred
+
+### 2026-07-31T12:45:00Z — tick 588
+- Unit: rq_579 (FOI-adjacent dual waste hole-fill — **IDELUX Environnement** Luxembourg)
+- Found: **IDELUX** RA 2025 (primary PDF 122 pp). **Environnement CA €66.058m** result **+€3.007m** (turnaround from **−€4.141m** 2024 / −2.011m 2023); capital **€0.960m**. Ops: **54 communes** (43 Lux + 11 Liege) / **54 recyparcs**; **276 413 t**; **564 kg/EqH**; **cout 114.20 EUR/EqH**; **387 952 EqH**; biometh **36 827 t**; elec **8 988 MWh**. **Eau CA €26.320m** net **€1.722m** (111 STEPs 41.9 Mm3). Group staff **536**. Dual waste quartet vs **BEP** 26.8m / **IPALLE** 83m / **INTRADEL** 125m. Strong on CA/result; full BS residual FOI.
+- Wrote: entities (+idelux_environnement +idelux_eau); budgets (+20); commitments (+3); leaderboard (+6); sources (+2); raw PDF; FOI draft gap_idelux_env_bilan_l5_2025; rq_579=done; spawn rq_580; loop_state ticks=588
+- FOI opened: gap_idelux_env_bilan_l5_2025 → ready (not sent)
+- Next: rq_580; progress@590 in 2 ticks; rq_116 deferred

@@ -10866,3 +10866,23 @@ bud_bep_env_lt_debt_2024,bep_environnement,2024,22112667,,,outturn,src_bep_env_r
 bud_bep_env_st_debt_2024,bep_environnement,2024,14541725,,,outturn,src_bep_env_rg_2024,strong,BEP Env dettes a un an 14.542m 2024; tick587
 bud_bep_env_receivables_st_2024,bep_environnement,2024,12300580,,,outturn,src_bep_env_rg_2024,strong,BEP Env creances a un an 12.301m 2024; tick587
 bud_bep_env_owd_subsides_lt_2024,bep_environnement,2024,3909425,,,outturn,src_bep_env_rg_2024,strong,BEP Env OWD investment subsides LT receivable 3.909m 2024; tick587
+bud_idelux_env_ca_2025,idelux_environnement,2025,66058000,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement CA 66.058m 2025 (vs 58.175m 2024); tick588
+bud_idelux_env_ca_2024,idelux_environnement,2024,58175000,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement CA 58.175m 2024; tick588
+bud_idelux_env_ca_2023,idelux_environnement,2023,52842000,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement CA 52.842m 2023; tick588
+bud_idelux_env_net_2025,idelux_environnement,2025,3007000,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement resultat +3.007m 2025 (turnaround from -4.141m 2024); tick588
+bud_idelux_env_net_2024,idelux_environnement,2024,-4141000,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement resultat -4.141m 2024; tick588
+bud_idelux_env_net_2023,idelux_environnement,2023,-2011000,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement resultat -2.011m 2023; tick588
+bud_idelux_env_capital_2025,idelux_environnement,2025,959700,,,outturn,src_idelux_ra_2025,strong,IDELUX Environnement capital social K 0.960m 31/12/2025; tick588
+bud_idelux_env_cout_eqh_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Env cout moyen collecte+traitement 114.20 EUR/EqH 2025; per-EqH not total; tick588
+bud_idelux_env_tonnage_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Env 276413 t dechets municipaux+pro 2025; tonnage not EUR; tick588
+bud_idelux_eau_ca_2025,idelux_eau,2025,26320000,,,outturn,src_idelux_ra_2025,strong,IDELUX Eau CA 26.320m 2025 (vs 25.131m 2024); tick588
+bud_idelux_eau_net_2025,idelux_eau,2025,1722000,,,outturn,src_idelux_ra_2025,strong,IDELUX Eau resultat 1.722m 2025; tick588
+bud_idelux_eau_capital_2025,idelux_eau,2025,49797925,,,outturn,src_idelux_ra_2025,strong,IDELUX Eau capital social K 49.798m 31/12/2025; tick588
+bud_idelux_finances_encours_2025,idelux_environnement,2025,235300000,,,outturn,src_idelux_ra_2025,strong,IDELUX Finances encours financement 235.3m 31/12/2025 (group dual); tick588
+bud_idelux_finances_result_2025,idelux_environnement,2025,1000000,,,outturn,src_idelux_ra_2025,strong,IDELUX Finances resultat 1.0m dividend 0.5m 2025; tick588
+bud_idelux_dev_ca_2025,idelux_environnement,2025,6490000,,,outturn,src_idelux_ra_2025,strong,IDELUX Developpement/Projets publics ventes 6.490m result 0.544m 2025; tick588
+bud_idelux_group_staff_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Groupe 536 collaborateurs 31/12/2025 (7e employer province); not Env-only; tick588
+bud_idelux_env_eqh_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Env 387952 EqH 2025; population-equivalent not EUR; tick588
+bud_idelux_eau_m3_2025,idelux_eau,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Eau 41.9 Mm3 eaux usees epurees 2025; volume not EUR; tick588
+bud_idelux_env_biometh_t_2025,idelux_environnement,2025,0,,,outturn,src_idelux_ra_2025,strong,IDELUX Env biomethanisation 36827 t 2025; elec 8988 MWh thermal 9725 MWh; tick588
+bud_idelux_env_cout_total_est_2025,idelux_environnement,2025,44304000,,,outturn,src_idelux_ra_2025,medium,IDELUX Env implied commune bill ~114.20*387952 EqH ~44.3m 2025; medium recon not full CA; tick588
