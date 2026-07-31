@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-03T08:00:00Z,rq_763,772,no,tick772 BOSA provisions ~1.71bn; next rq_764 organs/Kanselarij; progress@780 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T09:00:00Z,rq_764,773,no,tick773 organs IGVM 31.1 UNIA 4.0 Myria 1.6; next rq_765 Kanselarij/Royal; progress@780 in 7; rq_116 deferred

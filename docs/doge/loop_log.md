@@ -9266,3 +9266,16 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: rq_764 organs 004 / Kanselarij 002 / SACA 021; progress@780 in 8; rq_116 deferred
 
+
+## Tick 773 — 2026-08-03T09:00:00Z
+
+- Unit: **rq_764** (FOI-adjacent residual — **Kamer DOC 56 1281/004 Onafhankelijke organen**, 6p)
+- Found (primary 56K1281004, eng=liq kEUR):
+  - **IGVM** BA 41.10.414001 **€31.101m** 2026 (2024 34.400 · path down to 29.778 2029)
+  - **UNIA** federal BA 41.10.414002 **€4.034m** 2026 (2024 4.862 · 2025 3.996); law total base **€7.84m** from 2015 + health index interfed
+  - **Myria** BA 41.10.414003 **€1.600m** 2026 (path 1.579/1.614/1.600; KB 1.5m+index from 2014)
+  - Stack federal **€36.735m**; dual UNIA fed vs interfed residual
+- Wrote: entities (+igvm/unia); budgets +21; commitments +5; leaderboard +6; sources +2; FOI **gap_organs_unia_igvm_interfed_l5** prio7 ready; rq_764=done; spawn **rq_765**; ticks=773
+- FOI: ready only — **do not send**
+- Next: rq_765 Kanselarij 002 / Royal 001 / SACA 021; progress@780 in 7; rq_116 deferred
+

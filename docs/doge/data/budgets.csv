@@ -16183,3 +16183,24 @@ bud_bosa_2nd_pillar_contract_2026,persopoint,2026,30998000,,,budgeted,src_kamer_
 bud_bosa_accounting_eng_2025,fod_bosa,2025,39472000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.13.121122 accounting processes eng spike 39472 kEUR 2025 (liq 16624); tick772
 bud_bosa_accounting_liq_2026,fod_bosa,2026,16537000,,,budgeted,src_kamer_bosa_1281_003_2026,strong,BA 40.13.121122 accounting processes liq 16537 kEUR 2026 (eng 5661); tick772
 bud_dual_bosa_provisions_2026,gg_belgium,2026,1712867000,,,derived,src_dual_bosa_provisions_tick772,strong,Dual BOSA provisions parking ~1.71bn vs end departments; not TE-additive; tick772
+bud_igvm_dot_2024,igvm,2024,34400000,,,outturn,src_kamer_organs_1281_004_2026,strong,BA 41.10.414001 IGVM federal dot 34400 kEUR 2024 eng=liq; tick773
+bud_igvm_dot_2025,igvm,2025,31116000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414001 IGVM federal dot 31116 kEUR 2025 eng=liq; tick773
+bud_igvm_dot_2026,igvm,2026,31101000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414001 IGVM federal dot 31101 kEUR 2026 eng=liq; tick773
+bud_igvm_dot_2027,igvm,2027,30652000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414001 IGVM federal dot 30652 kEUR 2027 eng=liq; tick773
+bud_igvm_dot_2028,igvm,2028,30211000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414001 IGVM federal dot 30211 kEUR 2028 eng=liq; tick773
+bud_igvm_dot_2029,igvm,2029,29778000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414001 IGVM federal dot 29778 kEUR 2029 eng=liq; tick773
+bud_unia_fed_dot_2024,unia,2024,4862000,,,outturn,src_kamer_organs_1281_004_2026,strong,BA 41.10.414002 UNIA federal share 4862 kEUR 2024 eng=liq; tick773
+bud_unia_fed_dot_2025,unia,2025,3996000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414002 UNIA federal share 3996 kEUR 2025 eng=liq; tick773
+bud_unia_fed_dot_2026,unia,2026,4034000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414002 UNIA federal share 4034 kEUR 2026 eng=liq; tick773
+bud_unia_fed_dot_2027,unia,2027,4034000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414002 UNIA federal share 4034 kEUR 2027 eng=liq; tick773
+bud_unia_fed_dot_2028,unia,2028,4034000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414002 UNIA federal share 4034 kEUR 2028 eng=liq; tick773
+bud_unia_fed_dot_2029,unia,2029,4034000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414002 UNIA federal share 4034 kEUR 2029 eng=liq; tick773
+bud_myria_dot_2024,myria,2024,1579000,,,outturn,src_kamer_organs_1281_004_2026,strong,BA 41.10.414003 Myria federal dot 1579 kEUR 2024 eng=liq; tick773
+bud_myria_dot_2025,myria,2025,1614000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414003 Myria federal dot 1614 kEUR 2025 eng=liq; tick773
+bud_myria_dot_2026,myria,2026,1600000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414003 Myria federal dot 1600 kEUR 2026 eng=liq; tick773
+bud_myria_dot_2027,myria,2027,1572000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414003 Myria federal dot 1572 kEUR 2027 eng=liq; tick773
+bud_myria_dot_2028,myria,2028,1543000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414003 Myria federal dot 1543 kEUR 2028 eng=liq; tick773
+bud_myria_dot_2029,myria,2029,1516000,,,budgeted,src_kamer_organs_1281_004_2026,strong,BA 41.10.414003 Myria federal dot 1516 kEUR 2029 eng=liq; tick773
+bud_organs_equality_stack_2026,sec_federal,2026,36735000,,,derived,src_kamer_organs_1281_004_2026,strong,IGVM+UNIA+Myria federal dots 36735 kEUR 2026; tick773
+bud_unia_law_base_2015,unia,2015,7840000,,,statute,src_kamer_organs_1281_004_2026,strong,Law 19 Jan 2014 art16 base budget 7.84m from 2015 excl own revenue incl handicap mission indexed health index; tick773
+bud_dual_unia_fed_vs_total_2026,gg_belgium,2026,4034000,,,derived,src_dual_organs_equality_tick773,strong,Dual federal UNIA 4.034m vs statutory interfed base 7.84m+index class; not TE-additive; tick773
