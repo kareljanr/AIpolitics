@@ -6771,3 +6771,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +2; budgets +53; cmt +6; lb +8; FOI **gap_vlaio_recovery_kpi_l5** ready+draft; rq_548=done spawn **rq_549**; ticks=557
 - FOI opened: gap_vlaio_recovery_kpi_l5 (ready, human send) - not sent; gap_vl_accounts_balance_l5 notes partial fill
 - Next: prio5 **rq_549**; deferred **rq_116**; progress@560 in 3 ticks
+
+### 2026-07-31T09:35:00Z - tick 558
+- Unit: **rq_549** (FOI-adjacent hole-fill - **CoA 2026_32 residual dual gemengde entiteiten + VLAIO eco/print + GO inventory**)
+- Found (strong primary Rekenhof RR2025 §4.5-4.7; million-EUR):
+  - **VLAIO residual:** drukkerij eco claims ~**22** (repaid **7.8**; **12.6** in 2020; 129 dossiers/59 firms); corona+eco receivables **85.6** (half collectible long); CIC collect **2.7/5.4** 2023-24; prescription writeoffs **8.5+7.9**; fraud dading **12.7** recollected full; impaired corona **43.7** eco **26.9**
+  - **GO!:** book **1.004bn** (79pct balance); ~**4000** buildings; inventory unmatched multi-year; target **30 Jun 2026**; ~200 zakelijke rechten open
+  - **Dual gemengd Apr2026:** **66** entities (**21** S13 / **45** firms); Ethias cluster **34** (VL/FPIM/WE each **31.66%**); Ethias VL book **740.7** (econ **753.4** from inject **500** 2008); BAC Zaventem dual FPIM **25%**+VL 2025; Viapass collect ~**710** VL fee **102.3**; AB ~**3** Flagey ~**1.5**; De Lijn BMC **18.6%**
+- Wrote: sources +2; budgets +26; cmt +6; lb +8; FOI **gap_dual_gemengd_l5** ready+draft; rq_549=done spawn **rq_550**; ticks=558
+- FOI opened: gap_dual_gemengd_l5 (ready, human send) - not sent; gap_vlaio_recovery_kpi_l5 notes partial
+- Next: prio5 **rq_550**; deferred **rq_116**; progress@560 in 2 ticks

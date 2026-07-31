@@ -9987,3 +9987,29 @@ bud_vlaio_corona_inspect_ctrl_cum,vlaio,2025,384600000,,,outturn,src_ccrek_vl_re
 bud_vlaio_corona_recover_after_annul,vlaio,2025,196500000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona recovered after annul 196.5m (~51pct of inspected EUR); tick557
 bud_vlaio_hinderpremie_paid,vlaio,2020,1160900000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Corona hinderpremie paid 1160.9m; recover after annul 89.5; tick557
 bud_vlaio_event_advance_recover,vlaio,2025,35100000,,,outturn,src_ccrek_vl_rekeningen_2025_relance_vlaio,strong,Event sector repayable advance: paid 50.3 inspected 23.0 recover 35.1 after annul; tick557
+bud_vlaio_eco_print_recover_claim,vlaio,2025,22000000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Drukkerijsector eco-premie recoveries 2019-25 ~22m across 129 dossiers/59 firms; tick558
+bud_vlaio_eco_print_repaid,vlaio,2025,7800000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Of ~22m print-sector claims only 7.8m repaid eoy2025; tick558
+bud_vlaio_eco_print_recover_2020,vlaio,2020,12600000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,12.6m of print recoveries booked in 2020; tick558
+bud_vlaio_corona_eco_receivables,vlaio,2025,85600000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Corona+eco share of receivables 85.6m = 2/3 of total eoy2025; half expected collectible long-horizon; tick558
+bud_vlaio_cic_collected_2023,vlaio,2023,2700000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,VLABEL CIC collected 2.7m 2023 from VLAIO transfer dossiers; tick558
+bud_vlaio_cic_collected_2024,vlaio,2024,5400000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,VLABEL CIC collected 5.4m 2024 (dossiers 1357->3584); tick558
+bud_vlaio_writeoff_prescription_2024,vlaio,2024,8500000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Write-offs mainly eco due to prescription 8.5m 2024 (past weak debtor follow-up; many solvent); tick558
+bud_vlaio_writeoff_prescription_2025,vlaio,2025,7900000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Write-offs mainly eco prescription 7.9m 2025; tick558
+bud_vlaio_fraud_dading_writeoff_2025,vlaio,2025,12700000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Fraud eco dading: write off 12.7m firm claims then rebook 12.7m on director+firms; tick558
+bud_vlaio_fraud_dading_collected_2025,vlaio,2025,12700000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Fraud dading rebooked claim fully collected 12.7m 2025; tick558
+bud_vlaio_impaired_corona_2025,vlaio,2025,43700000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Impaired corona receivables 43.7m of 93.5m total; tick558
+bud_vlaio_impaired_eco_2025,vlaio,2025,26900000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Impaired eco receivables 26.9m of 93.5m total; tick558
+bud_go_patrimony_book_2025,go_onderwijs,2025,1004000000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,GO! land/buildings book 1004.0m = 79pct total balance; inventory still unmatched; tick558
+bud_go_active_buildings_count,go_onderwijs,2025,4000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,COUNT not EUR: ~4000 active buildings in FMIS valuation scope; ~1700 owned land plots planned; tick558
+bud_ethias_vl_participation_book,vlaanderen_gov,2025,740700000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Ethias VL participation book 740.7m 2025 (econ value 753.4 after Vitrufin unwind from 500m 2008); VL 31.66pct dual FPIM/WE; tick558
+bud_ethias_vl_econ_value_2019,vlaanderen_gov,2019,753400000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Ethias econ valuation VL share 753.4m at Vitrufin dissolve Oct2019 (group 2.4bn); tick558
+bud_ethias_vl_capital_inject_2008,vlaanderen_gov,2008,500000000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,VL capital 500m into Vitrufin/Ethias 2008 crisis; tick558
+bud_viapass_km_tax_collect_2025,viapass,2025,710000000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Viapass km-tax collection via SSP ~710m 2025 (3 regions dual); tick558
+bud_viapass_vl_fee_2025,viapass,2025,102300000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,VL annual fee/subsidy to Viapass ~102.3m ESA 45.50 almost exclusive interreg stream; tick558
+bud_ancienne_belgique_vl_sub_2025,vlaanderen_gov,2025,3000000,,,budgeted,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Ancienne Belgique annual operating subsidy ~3m class; dual BRU culture; tick558
+bud_flagey_vl_sub_2025,vlaanderen_gov,2025,1500000,,,budgeted,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,Flagey annual operating subsidy ~1.5m dual BRU/FWB; tick558
+bud_school_invest_kcb_capital_sub,school_invest,2018,5000000,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,School Invest capital subsidy 5m 2017-18 for Koninklijk Conservatorium Brussel renovation 1/3 share; capital 0.5m; tick558
+bud_gemengd_entities_count_2026,vlaanderen_gov,2026,66,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,COUNT not EUR: 66 mixed public entities shared VL control Apr2026 (21 S13 + 45 S11/S12); tick558
+bud_gemengd_s13_count,vlaanderen_gov,2026,21,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,COUNT: 21 mixed entities in government sector S13; tick558
+bud_ethias_group_entities_count,ethias,2026,34,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,COUNT: 34 of 45 mixed companies linked to Ethias group (76pct); tick558
+bud_de_lijn_bmc_share_pct,de_lijn,2025,18.6,,,outturn,src_ccrek_vl_rekeningen_2025_dual_gemengd,strong,PCT not EUR: De Lijn holds 18.6pct Belgian Mobility Company dual STIB/TEC/NMBS; tick558

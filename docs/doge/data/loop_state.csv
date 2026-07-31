@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T09:30:00Z,rq_548,557,no,tick557 relance underuse 342m + VLAIO recovery; next prio5 rq_549; progress@560 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T09:35:00Z,rq_549,558,no,tick558 dual gemengd Ethias/Viapass + VLAIO residual + GO; next rq_550; progress@560 in 2; rq_116 deferred
