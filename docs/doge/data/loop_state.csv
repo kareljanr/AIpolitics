@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-07-31T10:20:00Z,rq_558,567,no,tick567 TEC OTW 804m dual De Lijn/STIB; next rq_559; progress@570 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-07-31T10:25:00Z,rq_559,568,no,tick568 NMBS RRF 66m ETS 22m dual four-PT; next rq_560; progress@570 in 2; rq_116 deferred

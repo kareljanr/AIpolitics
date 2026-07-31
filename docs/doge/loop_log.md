@@ -6897,3 +6897,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +36; cmt +4; lb +8; FOI **gap_tec_csp_rewrite_l5** ready+draft; raw PDFs; rq_558=done spawn **rq_559**; ticks=567
 - FOI opened: gap_tec_csp_rewrite_l5 (ready, human send) - not sent; gap_otw_dotatie_cash partial 2025 fill
 - Next: prio5 **rq_559**; deferred **rq_116**; progress@570 in 3 ticks
+
+### 2026-07-31T10:25:00Z - tick 568
+- Unit: **rq_559** (FOI-adjacent hole-fill - **NMBS RRF 66.2m + ETS 22m dual four-layer PT**)
+- Found (strong primary NMBS facts-and-figures 2025 + Results 2025 refresh):
+  - **RRF financing raised to EUR 66.2m** (accessibility 27 stations, 9k bike places, multimodal app)
+  - **ETS climate subsidy EUR 22m** received Dec2025 for projects **2026-2029**
+  - Solar park energy savings **~EUR 0.75m** 2025
+  - Refresh dual: pax **207.8m** refined method **-9.7%** vs 2019; satisfaction **68%**; ETCS **100%** fleet; M7 **130** delivered; stations raised platforms **212** / accessible **132**
+  - **Dual four-layer PT:** NMBS pax **208m** / invest **820m** / staff **17k** vs De Lijn pax **373m** / VL **1.21bn** vs STIB BCR **1.17bn** vs TEC used **804m** / voyages **151m** / staff **5.8k**
+- Wrote: sources +4; budgets +14; cmt +3; lb +6; FOI **gap_nmbs_rrf_ets_l5** ready+draft; rq_559=done spawn **rq_560**; ticks=568
+- FOI opened: gap_nmbs_rrf_ets_l5 (ready, human send) - not sent
+- Next: prio5 **rq_560**; deferred **rq_116**; progress@570 in 2 ticks
+- Note: Infrabel JV2025 PDF (54MB) incomplete download this tick — residual for later

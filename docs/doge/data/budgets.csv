@@ -10252,3 +10252,17 @@ bud_tec_service_rate_2025,tec,2025,95.74,,,outturn,src_tec_ra_2025,strong,PCT se
 bud_tec_satisfaction_2025,tec,2025,62,,,outturn,src_tec_ra_2025,strong,PCT client satisfaction 62; tick567
 bud_tec_staff_2025,tec,2025,5818,,,outturn,src_tec_ra_2025,strong,COUNT collaborateurs 5818; tick567
 bud_dual_delijn_tec_pax_2025,de_lijn,2025,372891948,,,outturn,src_dual_transit_three_2025_tick567,strong,COUNT dual De Lijn pax 372.9m vs TEC voyages 150.8m 2025; tick567
+bud_nmbs_rrf_financing_2025,nmbs,2025,66200000,,,outturn,src_nmbs_facts_fin_2025,strong,RRF financing raised to 66.2m for accessibility digital multimodal app bike 9000 places 27 stations; tick568
+bud_nmbs_ets_subsidy_2025,nmbs,2025,22000000,,,outturn,src_nmbs_facts_ets_2025,strong,ETS climate subsidy 22m received Dec2025 for projects 2026-2029; tick568
+bud_nmbs_solar_savings_2025,nmbs,2025,750000,,,outturn,src_nmbs_facts_ets_2025,strong,Solar park operated by NMBS energy savings ~0.75m 2025 (Ostend workshop 900 panels class); tick568
+bud_nmbs_pax_vs_2019_refined,nmbs,2025,207800000,,,outturn,src_nmbs_results_2025_page_refresh,strong,COUNT pax 207.8m refined method -9.7pct vs 2019 230m class; telework drive; tick568
+bud_nmbs_satisfaction_2025,nmbs,2025,68,,,outturn,src_nmbs_results_2025_page_refresh,strong,PCT satisfaction >=7/10 is 68 (was 65); tick568
+bud_nmbs_strike_days_2025,nmbs,2025,27,,,outturn,src_nmbs_results_2025_page_refresh,strong,COUNT strike days 27 in 2025; tickets -2m class; tick568
+bud_nmbs_hire_2025,nmbs,2025,1100,,,outturn,src_nmbs_results_2025_page_refresh,strong,COUNT new hires >1100 in 2025; staff eoy path 16976 on 2026-01-01; tick568
+bud_nmbs_stations_raised_platform,nmbs,2025,212,,,outturn,src_nmbs_facts_fin_2025,strong,COUNT stations with raised 76cm platforms 212 cumulative after +9 in 2025; tick568
+bud_nmbs_stations_accessible,nmbs,2025,132,,,outturn,src_nmbs_facts_fin_2025,strong,COUNT autonomously accessible stations 132 after +16 in 2025; tick568
+bud_nmbs_m7_delivered_2025,nmbs,2025,130,,,outturn,src_nmbs_facts_fin_2025,strong,COUNT new M7 coaches delivered 130 in 2025; tick568
+bud_nmbs_etcs_fleet_pct_2025,nmbs,2025,100,,,outturn,src_nmbs_results_2025_page_refresh,strong,PCT NMBS fleet ETCS-equipped 100 since Dec2025; tick568
+bud_dual_nmbs_vs_delijn_pax,nmbs,2025,207800000,,,outturn,src_dual_pt_four_layer_tick568,strong,COUNT dual NMBS pax 207.8m vs De Lijn 372.9m 2025 (not additive modes); tick568
+bud_dual_nmbs_vs_tec_pax,nmbs,2025,207800000,,,outturn,src_dual_pt_four_layer_tick568,strong,COUNT dual NMBS 207.8m vs TEC voyages 150.8m; tick568
+bud_dual_nmbs_staff_vs_tec,nmbs,2026,16976,,,outturn,src_dual_pt_four_layer_tick568,strong,COUNT dual NMBS staff 16976 vs TEC 5818 vs De Lijn FTE 7637; tick568
