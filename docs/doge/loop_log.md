@@ -8168,3 +8168,17 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vl_ba2026_debt_t15_l5 — ready (not sent)
 - Next: rq_686; progress@700 in 6 ticks; rq_116 deferred
 
+
+### 2026-08-01T15:30:00Z — tick 695
+- Unit: **rq_686** (FOI-adjacent dual residual — **WAL debt path 32.97bn + interest 753.7 + Moody Baa1 dual VL**)
+- Found (primary CoA 2026_26 §3):
+  - Solde net aju **−2798.6** → direct debt eoy2026 **32974**; consol brute **43833** (indirect **~10859** eoy2025)
+  - Financing need **3919.4** (amort **1101.9** + leasing **18.9** + deficit); raised **3415** by 31May + BEI **200**; residual **304.4**; sous-util trés **350** covers (**+45.6**)
+  - LT 5m **~3.6bn** all-in **3.80%** (95.9% fixed, dur **11.95y**); fixed share **96.2%**; implicit **1.88%**
+  - Interest aju **753.7** (IB **712.6**; path **340→753.7** 2021–26); +1% **5.7** 2026 / **41.5** 2027
+  - Moody **Baa1** from **A3** 21 Apr 2026 after sovereign **A1**; dual VL **A1/AA-**
+  - Strong CoA; L5 FOI.
+- Wrote: budgets (+28); commitments (+6); leaderboard (+6); sources (+2); FOI draft **gap_wal_aju2026_debt_rating_l5**; rq_686=done; spawn **rq_687**; loop_state ticks=695
+- FOI opened: gap_wal_aju2026_debt_rating_l5 — ready (not sent)
+- Next: rq_687; progress@700 in 5 ticks; rq_116 deferred
+

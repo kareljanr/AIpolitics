@@ -13632,3 +13632,31 @@ bud_vl_debt_ratio_91_6pct_deep,vlaanderen_gov,2026,91.6,,,budgeted,src_ccrek_vl_
 bud_vl_net_assets_minus_13_3bn_2024,vlaanderen_gov,2024,-13300000000,,,outturn,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Netto-actief -13.3bn eoy2024 (target positive); eoy2025 report autumn 2026; tick694
 bud_vl_debt_vs_2024_up_37pct_class,vlaanderen_gov,2026,37.0,,,budgeted,src_ccrek_vl_ba2026_debt_t15_ratings,strong,Consol debt +37.0pct vs BU2024 to ~57.0bn BA2026; unit pct; tick694
 bud_dual_vl_debt_error_113_5m,gg_belgium,2026,113500000,,,budgeted,src_dual_vl_wal_fwb_ratings_tick694,strong,Dual VL debt calc error 113.5 class vs Entity II ratings stack; not TE-additive; tick694
+bud_wal_solde_net_aju_minus_2798_6m,wallonie_gov,2026,-2798600000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Solde budgetaire net aju -2798.6m; drives direct debt path; tick695
+bud_wal_direct_debt_eoy2026_32974m,wallonie_debt,2026,32974000000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Direct debt eoy2026 path 32974.0m after solde+sous-util 524; tick695
+bud_wal_indirect_debt_10859m_2025,wallonie_debt,2025,10859000000,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Indirect debt ICN provisional Apr2026 10859.0m eoy2025 stable class; tick695
+bud_wal_consol_brute_43833m_2026,wallonie_debt,2026,43833000000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Consol brute debt path 43833.0m eoy2026 (direct+indirect); tick695
+bud_wal_financing_need_3919_4m_2026,wallonie_debt,2026,3919400000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Financing need 3919.4m = amort 1101.9 + leasing 18.9 + deficit 2798.6; tick695
+bud_wal_amort_1101_9m_2026,wallonie_debt,2026,1101900000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Amortissements emprunts 2026 1101.9m; tick695
+bud_wal_leasing_cap_18_9m_2026,wallonie_debt,2026,18900000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Location-financement/promotion capital repay 18.9m; tick695
+bud_wal_raised_3415m_by_31may2026,wallonie_debt,2026,3415000000,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Amounts raised 2026 by 31 May 3415.0m; tick695
+bud_wal_bei_loan_200m_2026,wallonie_debt,2026,200000000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,BEI loan 200.0m 2026 financing; tick695
+bud_wal_financing_residual_304_4m,wallonie_debt,2026,304400000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Net financing residual 304.4m before sous-util; tick695
+bud_wal_sousutil_treso_350m_2026,wallonie_gov,2026,350000000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Sous-utilisation tresorerie est 350m covers residual need; tick695
+bud_wal_financing_covered_plus_45_6m,wallonie_debt,2026,45600000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,After sous-util: financing covered net +45.6m; tick695
+bud_wal_lt_loans_5m_3600m_2026,wallonie_debt,2026,3600000000,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,LT loans first 5 months 2026 ~3.6bn; tick695
+bud_wal_lt_rate_allin_3_80pct_2026,wallonie_debt,2026,3.8,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Weighted all-in rate 3.80pct (95.9pct fixed; duration 11.95y); tick695
+bud_wal_lt_rate_allin_3_58pct_2025,wallonie_debt,2025,3.58,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Same period 2025 all-in 3.58pct duration 13.35y; tick695
+bud_wal_fixed_share_96_2pct_mar2026,wallonie_debt,2026,96.2,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Direct debt fixed-rate share 96.2pct at 31 Mar 2026 (82.7pct eoy2014); tick695
+bud_wal_implicit_rate_1_88pct_2026,wallonie_debt,2026,1.88,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Implicit rate direct debt 1.88pct; still below inflation 2.47/3.40 path; tick695
+bud_wal_interest_total_753_7m_aju,wallonie_debt,2026,753700000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Interest charges total aju 753.7m (IB 712.6); tick695
+bud_wal_interest_re_729_1m_aju,wallonie_debt,2026,729100000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Interest code21 RE 729.1m aju; tick695
+bud_wal_interest_swaps_11_9m_aju,wallonie_debt,2026,11900000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Swaps 11.9m aju (IB 14.5); tick695
+bud_wal_interest_spabs_9m_aju,wallonie_debt,2026,9000000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Spabs interest 9.0m aju; tick695
+bud_wal_interest_treso_3_7m_aju,wallonie_debt,2026,3700000,,,budgeted,src_ccrek_wal_aju2026_debt_rating_deep,strong,Tresorerie interest 3.7m aju; tick695
+bud_wal_interest_2021_340m,wallonie_debt,2021,340000000,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Interest path 340.0m 2021; tick695
+bud_wal_interest_2025_592_5m,wallonie_debt,2025,592500000,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Interest path 592.5m 2025 prov; tick695
+bud_wal_rate_sensi_plus1_5_7m_2026,wallonie_debt,2026,5700000,,,estimate,src_ccrek_wal_aju2026_debt_rating_deep,strong,+1pct rate impact 5.7m 2026 (variable only; financing covered); tick695
+bud_wal_rate_sensi_plus1_41_5m_2027,wallonie_debt,2027,41500000,,,estimate,src_ccrek_wal_aju2026_debt_rating_deep,strong,+1pct impact 41.5m 2027 (fixed 33.4 + var 8.1); tick695
+bud_wal_moody_baa1_apr2026,wallonie_debt,2026,0,,,outturn,src_ccrek_wal_aju2026_debt_rating_deep,strong,Moody Baa1 from A3 on 21 Apr 2026 after sovereign A1; tick695
+bud_dual_wal_vl_debt_interest_2026,gg_belgium,2026,753700000,,,budgeted,src_dual_wal_vl_debt_ratings_tick695,strong,Dual WAL interest 753.7 vs VL debt path; not TE-additive; tick695
