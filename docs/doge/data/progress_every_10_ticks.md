@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 670** (2026-08-01)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** dual Entity II aju wave: WAL DO CL **21.94bn** · FWB DO CL **16.50bn** · WAL DO17 **9.89bn** / AViQ channel **7.05bn** · FWB DO52 **3.65bn** · FWB SACA CL **714m** · ONE **822m** · WAL SPW remun **741m** · PRW/FRR CL **1.73bn** · prior AViQ/CAF/CSF retained |
+| **D. L5 named / measure end-lines** | **~47-60%** of TE (generous) | **Gain 660→670 is dual WAL+FWB CoA aju2026 residual:** WAL Moody **Baa1** debt path **€33.0bn**/interest **€754m** · FWB Moody **A3** debt **€16.2bn**/interest **€357m** · dual cabinets **€16.8m+€28.0m** · dual SEC aju **−€1.753bn/−€2.015bn** · Piebs eng **€400m** · CUR **€267m** · annex programmes · Job+/APE/CISP · digital no-plan **€10m** · Ecureuil reserve bookkeeping · FOI still bulk L5 awards + dual unit-cost matrices |
+| **E. FOI-ready gaps** | **~408** drafts ready | Human send only; answered **~9**; total FOI rows **~422** (+ aju recettes/OTW · DO matrix · annex prog · FWB debt/DO · SACA/OAP · dual aju wave 661–670 · …) |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **unconsol federal debt** · **WAL direct debt ~€30–34bn** / **FWB direct debt ~€14–21bn path** / VL Maastricht **€50.2bn** · **WAL encours €5.94bn** incomplete **+€1.94bn** / **FWB encours €863m** · **SACA report stocks €1.10→€0.73bn** · **fonds stocks** · UAP treasury remonte · WE equity **~5bn** · SPAQuE/Sowaer BS · FRR/RePower conditional · **CSF NPE growth caps** · Moody rating actions (not euros).
+
+### Inventory (tick 670)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~12815 |
+| commitments.csv | ~1447 |
+| leaderboard.csv | ~2721 |
+| entities.csv | ~517 |
+| sources.csv | ~1318 |
+| FOI ready | ~408 |
+| FOI answered | ~9 |
+| FOI total rows | ~422 |
+| research_queue open | rq_116 deferred + rq_662 hole-fill after progress |
+
+### What improved since tick 660
+
+- **WAL aju2026 residual (tick663–667):** AViQ billing shock **+€198m** / Job+ **€32m** · provisions specialty **€1.22bn liq** · debt eoy2025 **€30.7bn** path **€33.0bn** / Moody **Baa1** / interest **€754m** · primes stock **€262m** · recettes **€22.09bn** / Ste-Émilie gap **€146m** / OTW capital **−€75m** · full **DO CE/CL matrix** (DO17 **€9.89bn** DO18 **€3.76bn**) · SPW remun **€740.8m** · Emploi Table13 **€3.13bn** · Annex cabinets **€28.0m** / PRW+FRR CL **€1.73bn** / DO17 sante **€7.05bn** / AWEX **€76.8m**.
+- **FWB aju2026 dual (tick668–669):** full **DO matrix CL €16.50bn** (DO52 **€3.65bn** DO51 **€2.96bn** DO54 **€1.17bn**) · debt **€14.42→€16.20bn** / path **€20.6bn 2029** / Moody **A3** / interest **€357m** path **€561m** · cabinets **€16.8m** dual WAL **€28.0m** · dual SEC **−€3.77bn** · **SACA** solde **−€215m** report **€1.10→€0.73bn** · Piebs eng **€400m** · CUR CL **€267m** · ONE **€822m** · Etnic **€143m** · Ecureuil SEC **+€85m** reserve bookkeeping · encours **€863→€769m**.
+- **Dual Entity II map:** Moody **Baa1 (WAL) vs A3 (FWB)** · cabinets dual · PRW/FRR vs FWB PRR/CUR · education dual (WAL emploi pack vs FWB DO51–55) · SACA/OAP vs WAL Type3.
+
+---
+
 ## Snapshot at **tick 660** (2026-08-01)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

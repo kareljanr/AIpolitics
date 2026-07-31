@@ -7850,3 +7850,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+6); budgets (+70); commitments (+6); leaderboard (+6); sources (+2); FOI draft gap_fwb_aju2026_saca_oap_l5; rq_660=done; spawn rq_661; loop_state ticks=669
 - FOI opened: gap_fwb_aju2026_saca_oap_l5 -- ready (not sent)
 - Next: rq_661; **progress@670 NEXT tick**; rq_116 deferred
+
+### 2026-08-01T09:15:00Z -- tick 670 (PROGRESS MILESTONE)
+- Unit: rq_661 (progress@670 + dual aju WAL/FWB residual wave synthesis ticks661-669)
+- Found (synthesis strong, primary-sourced no invent euros):
+  - **WAL aju:** DO CL **EUR21.94bn** · DO17 **9.89bn** · Moody **Baa1** debt **33.0bn** interest **754m** · cabinets **28.0m** · PRW/FRR **1.73bn** · SPW remun **740.8m** · Ste-Emilie gap **146m** · OTW capital **-75m**
+  - **FWB aju:** DO CL **EUR16.50bn** · DO52 **3.65bn** · Moody **A3** debt **16.2bn** interest **357m** path **561m 2029** · cabinets **16.8m** · SACA **-215m** report **1.10->0.73bn** · ONE **822m** · Piebs eng **400m** · CUR **267m**
+  - **Dual:** SEC aju **FWB -1.753 + WAL -2.015 = -3.768bn** · Moody **A3/Baa1** · cabinets **44.8m** · education/emploi dual packs
+- Progress coverage:
+  - **A/B:** 100% (L0 TE + L1 subsectors)
+  - **C L2:** ~**99%** (+ dual Entity II aju DO matrices + SACA/OAP + debt ratings)
+  - **D L5:** ~**47-60%** generous (not near-complete of 348bn)
+  - **E FOI ready:** ~**408** / answered ~**9** / total FOI rows ~**422**
+- Inventory: budgets ~**12815** / cmt ~**1447** / lb ~**2721** / sources ~**1318** / entities ~**517**
+- Waste top10: **unchanged** fossil/cars/cheque/consultancy (priority 8.55-8.30)
+- High-abs + dual NEW: Ecureuil bookkeeping · digital no-plan · Piebs 400m · FWB Moody A3 · PRW/FRR 1.73bn · dual SEC 3.77bn · DO17 9.89bn · ONE 822m · SPW remun 741m
+- Gain 660-670: largest flow dual = DO matrices **21.9+16.5bn**; largest stock path = WAL debt **33bn** + FWB debt **16.2bn** + SACA report **1.1bn**
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; cmt+lb+src dual wave; FOI gap_dual_aju_wave_661_670_l5_2026 ready+draft; rq_661=done spawn rq_662; ticks=670
+- FOI opened: gap_dual_aju_wave_661_670_l5_2026 (ready, human send) - not sent
+- Next: prio5 **rq_662**; deferred **rq_116**; progress@680 in 10 ticks
