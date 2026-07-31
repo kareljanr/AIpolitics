@@ -10216,3 +10216,39 @@ bud_adg_lowqual_share_jun_2026,adg,2026,42,,,outturn,src_adg_arbeitsmarkt_q2_202
 bud_adg_vacancies_q2_2026,adg,2026,260,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,COUNT non-interim vacancies Q2 2026 260 (92pct local employers); tick566
 bud_dual_adg_rate_vs_regions,adg,2026,6.4,,,outturn,src_adg_arbeitsmarkt_q2_2026,strong,PCT dual ADG 6.4 = FL class; WAL 16.2 BRU 17.0 method-differ note; tick566
 bud_dual_onem_bru_vs_actiris_dei,onem_rva,2025,1167800000,,,outturn,src_dual_pes_four_actiris_adg_tick566,strong,EUR dual ONEM BRU benefits 1.168bn vs Actiris DEI ~97k eoy2025; unit-cost residual; tick566
+bud_tec_result_2025,tec,2025,4864206,,,outturn,src_tec_rapport_financier_2025,strong,Net result +4.864m (vs -2.513m 2024); return to surplus; tick567
+bud_tec_prog14045_credits_2025,tec,2025,853794462,,,budgeted,src_tec_rapport_financier_2025,strong,Prog 14.045 credits after adjust 853.8m (init 845 +8); tick567
+bud_tec_prog14045_used_2025,tec,2025,804427895,,,outturn,src_tec_rapport_financier_2025,strong,Prog 14.045 used/accounted 804.4m (-49.4m vs credits); tick567
+bud_tec_df014_comp_used_2025,tec,2025,576181733,,,outturn,src_tec_rapport_financier_2025,strong,DF045.014 public service compensation used 576.2m of 587.7m (-11.5m service penalties); tick567
+bud_tec_df019_offer_2025,tec,2025,8464000,,,outturn,src_tec_rapport_financier_2025,strong,DF045.019 offer evolution compensation 8.464m; tick567
+bud_tec_df026_invest_2025,tec,2025,50286000,,,outturn,src_tec_rapport_financier_2025,strong,DF045.026 regional share exploit investment 50.286m; tick567
+bud_tec_df016_social_2025,tec,2025,33224063,,,outturn,src_tec_rapport_financier_2025,strong,DF045.016 social commitments 33.224m; tick567
+bud_tec_op_mission_used_2025,tec,2025,668207796,,,outturn,src_tec_rapport_financier_2025,strong,Internal operator mission total used 668.2m of 679.5m; tick567
+bud_tec_scolaire_used_2025,tec,2025,65335707,,,outturn,src_tec_rapport_financier_2025,strong,Delegated school transport used 65.336m of 64.467m; tick567
+bud_tec_tpmr_used_2025,tec,2025,4911036,,,outturn,src_tec_rapport_financier_2025,strong,PRM transport used 4.911m of 5.225m; tick567
+bud_tec_tram_liege_reimb_2025,tec,2025,34175716,,,outturn,src_tec_rapport_financier_2025,strong,Tram Liege cost reimburse used 34.176m of 46.9m; tick567
+bud_tec_metro_charleroi_2025,tec,2025,13284000,,,outturn,src_tec_rapport_financier_2025,strong,Metro Charleroi participation 13.284m; tick567
+bud_tec_pimpt_used_2025,tec,2025,552004,,,outturn,src_tec_rapport_financier_2025,strong,PIMPT 2020-26 common transport used only 0.552m of 30.64m timing lag; tick567
+bud_tec_delegated_used_2025,tec,2025,136220099,,,outturn,src_tec_rapport_financier_2025,strong,Delegated missions total used 136.2m of 174.3m; tick567
+bud_tec_ca_2025,tec,2025,66426706,,,outturn,src_tec_rapport_financier_2025,strong,Traffic CA/farebox 66.427m (-2.3pct); passengers +2.97pct; tick567
+bud_tec_tariff_sub_2025,tec,2025,62826000,,,outturn,src_tec_rapport_financier_2025,strong,Regional subsidy for tariff reductions 62.826m (BIM clients +11.1pct); tick567
+bud_tec_other_op_products_2025,tec,2025,773133839,,,outturn,src_tec_rapport_financier_2025,strong,Other operating products 773.1m (regional compensations dominant); tick567
+bud_tec_ventes_total_2025,tec,2025,849269558,,,outturn,src_tec_rapport_financier_2025,strong,Total ventes et prestations 849.3m; tick567
+bud_tec_op_costs_2025,tec,2025,881208367,,,outturn,src_tec_rapport_financier_2025,strong,Operating costs 881.2m; tick567
+bud_tec_personnel_2025,tec,2025,441906798,,,outturn,src_tec_rapport_financier_2025,strong,Personnel charges 441.9m; tick567
+bud_tec_services_2025,tec,2025,286438835,,,outturn,src_tec_rapport_financier_2025,strong,Services and other goods 286.4m; tick567
+bud_tec_op_result_2025,tec,2025,-31938809,,,outturn,src_tec_rapport_financier_2025,strong,Operating result -31.9m (improved from -35.0m); tick567
+bud_tec_assets_2025,tec,2025,1914492696,,,outturn,src_tec_rapport_financier_2025,strong,Total assets 1.914bn (tram capitalization jump); tick567
+bud_tec_fixed_assets_2025,tec,2025,1428448464,,,outturn,src_tec_rapport_financier_2025,strong,Fixed assets 1.428bn; tick567
+bud_tec_equity_2025,tec,2025,877203072,,,outturn,src_tec_rapport_financier_2025,strong,Equity 877.2m of which capital subsidies 849.9m; tick567
+bud_tec_cap_subs_2025,tec,2025,849905844,,,outturn,src_tec_rapport_financier_2025,strong,Capital subsidies stock 849.9m; tick567
+bud_tec_debt_lt_2025,tec,2025,704588358,,,outturn,src_tec_rapport_financier_2025,strong,Debt >1yr 704.6m incl TramArdent commercial ~417.6m; tick567
+bud_tec_bank_debt_lt_2025,tec,2025,249072100,,,outturn,src_tec_rapport_financier_2025,strong,Bank LT debt 249.1m (+35.3m new loans 2025); tick567
+bud_tec_tram_ardent_redev_2025,tec,2025,22723400,,,outturn,src_tec_rapport_financier_2025,strong,TramArdent redevances 22.723m fully RW-subsidized; tick567
+bud_tec_tram_infra_immob_2025,tec,2025,333664500,,,outturn,src_tec_rapport_financier_2025,strong,Tram Liege infra immobilized 333.7m + leasing rolling stock 112.3m; tick567
+bud_tec_voyages_2025,tec,2025,150767081,,,outturn,src_tec_ra_2025,strong,COUNT regular line voyages 150767081; tick567
+bud_tec_km_2025,tec,2025,95494409,,,outturn,src_tec_ra_2025,strong,COUNT km en charge regular 95494409; tick567
+bud_tec_service_rate_2025,tec,2025,95.74,,,outturn,src_tec_ra_2025,strong,PCT service execution rate 95.74; tick567
+bud_tec_satisfaction_2025,tec,2025,62,,,outturn,src_tec_ra_2025,strong,PCT client satisfaction 62; tick567
+bud_tec_staff_2025,tec,2025,5818,,,outturn,src_tec_ra_2025,strong,COUNT collaborateurs 5818; tick567
+bud_dual_delijn_tec_pax_2025,de_lijn,2025,372891948,,,outturn,src_dual_transit_three_2025_tick567,strong,COUNT dual De Lijn pax 372.9m vs TEC voyages 150.8m 2025; tick567

@@ -6881,3 +6881,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; entities +adg; budgets +30; cmt +4; lb +8; FOI **gap_actiris_reform_cpas_2026** + **gap_adg_budget_tco** ready+drafts; rq_557=done spawn **rq_558**; ticks=566
 - FOI opened: gap_actiris_reform_cpas_2026 + gap_adg_budget_tco (ready, human send) - not sent
 - Next: prio5 **rq_558**; deferred **rq_116**; progress@570 in 4 ticks
+
+### 2026-07-31T10:20:00Z - tick 567
+- Unit: **rq_558** (FOI-adjacent hole-fill - **OTW/TEC Rapport financier + RA 2025 dual regional PT**)
+- Found (strong primary OTW RF2025 + RA2025 PDFs):
+  - **Result:** **+EUR 4.864m** (vs **-2.513m** 2024); return to surplus
+  - **Prog 14.045:** credits **853.8m** / used **804.4m**; DF014 base **576.2m** (-11.5m service penalties)
+  - **Operator mission used 668.2m**; delegated **136.2m** (school **65.3**; tram reimb **34.2**; metro CH **13.3**)
+  - **CA farebox 66.4m** (-2.3%); tariff reduction sub **62.8m** (BIM +11.1%); other op **773.1m**; ventes **849.3m**
+  - **Costs:** personnel **441.9m**; services **286.4m**; op result **-31.9m**
+  - **Balance:** assets **1.914bn** (tram infra **333.7** + leasing **112.3**); equity **877m** (cap sub **850m**); LT debt **704.6m** (TramArdent ~**418m**)
+  - **Ops:** voyages **150.8m** (+2.97%); km **95.5m**; service **95.74%**; staff **5.818**; satisfaction **62%**
+  - **CSP rewrite:** opex cut **20m** by 2029; farebox **10→14%** by 2030; draft summer 2026
+  - **Dual:** De Lijn omzet **1.42bn** / VL **1.21bn** / pax **373m** / staff **7.6k** vs STIB BCR **1.17bn** vs TEC used **804m** / voyages **151m** / staff **5.8k**
+- Wrote: sources +3; budgets +36; cmt +4; lb +8; FOI **gap_tec_csp_rewrite_l5** ready+draft; raw PDFs; rq_558=done spawn **rq_559**; ticks=567
+- FOI opened: gap_tec_csp_rewrite_l5 (ready, human send) - not sent; gap_otw_dotatie_cash partial 2025 fill
+- Next: prio5 **rq_559**; deferred **rq_116**; progress@570 in 3 ticks
