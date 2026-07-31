@@ -536,3 +536,4 @@ frbrtc,FRBRTC,Fonds régional bruxellois de refinancement des trésoreries commu
 parking_brussels,parking.brussels,Agence du stationnement de la Région de Bruxelles-Capitale,Brussels regional parking agency,agency,brussels_gov,bi,,,CoA Annexe2 presented 228m balanced; true solde +25.1 after reporté strip; tick708
 brusoc,Brusoc,Brusoc,Brussels SME financing agency,agency,brussels_gov,fr,,,CoA Annexe2 presented 84.6m; corr solde +0.9; tick708
 abe_bru,ABE,Agence bruxelloise pour l'entrepreneuriat,Brussels entrepreneurship agency,agency,brussels_gov,fr,,,CoA Annexe2 corrected solde +2.2; tick708
+ibge,Leefmilieu Brussel / IBGE,Bruxelles Environnement (IBGE),Brussels Environment agency,agency,brussels_gov,bi,https://environnement.brussels,,,CoA Annexe2 presented 316.8m balanced; true solde +0.3 after reporté strip; Mission41 dual; tick709

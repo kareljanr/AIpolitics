@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-01T18:45:00Z,rq_699,708,no,tick708 BCR receipts parking reporté EU mismatch dual; next rq_700; progress@710 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-01T19:00:00Z,rq_700,709,no,tick709 BCR IBGE/M41 env dual; next rq_701 PROGRESS@710; rq_116 deferred

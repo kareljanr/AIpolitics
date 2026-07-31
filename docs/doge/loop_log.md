@@ -8355,3 +8355,16 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_bru_receipts_parking_reporte_l5 — ready (not sent)
 - Next: rq_700; progress@710 in 2 ticks; rq_116 deferred
 
+### 2026-08-01T19:00:00Z — tick 709
+- Unit: **rq_700** (FOI-adjacent dual residual — **BCR IBGE/Mission41 env cut + Annexe3 comparative**)
+- Found (primary CoA 2026_17 Annexe1-3 + T1; image OCR):
+  - Mission 41 eng **691.3** / liq **690.8** (2025 **767.1/758.0**); path eng **−75.8 (−9.9%)** liq **−67.2 (−8.9%)**
+  - IBGE presented balanced **316.8**; corrected rec **203.3** dep **203.0** solde **+0.3** (reporté strip ~113.5)
+  - Measures env+proprete path **34/25/57/57** 2026-29
+  - Annexe3 comparative integrity: 41.020 **40.656→40.000**; 41.032 **9.066→8.266**; 41.102 **32.214→33.014**; 41.041 energy/water drift
+  - SGRBC totals eng **8865.8** / liq **7978.4** (+6.0% / +1.0%)
+  - Dual VL OVAM/Omgeving WAL SPW Env; Strong CoA; L5 FOI.
+- Wrote: budgets (+18); commitments (+6); leaderboard (+6); sources (+2); entities (+1); FOI draft **gap_bru_ibge_mission41_env_l5**; rq_700=done; spawn **rq_701** PROGRESS@710; loop_state ticks=709
+- FOI opened: gap_bru_ibge_mission41_env_l5 — ready (not sent)
+- Next: **rq_701 PROGRESS@710**; rq_116 deferred
+
