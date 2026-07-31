@@ -11690,3 +11690,28 @@ bud_do18_110_forem_formation_bi2025,forem,2025,344624000,,,budgeted,src_ccrek_do
 bud_do18_104_eco_sociale_cl_bi2025,wallonie_gov,2025,29925000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 104 Economie sociale CL BI2025 29.925m path liq -5.381m
 bud_do18_099_competitivite_cl_bi2025,wallonie_gov,2025,35270000,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 099 Competitivite innovation CL BI2025 35.270m
 bud_do18_100_fonds_struct_zero_bi2025,wallonie_gov,2025,0,,,budgeted,src_ccrek_do18_zae_outils_emploi_bi2025,strong,Prog 100 fonds structurels CE=CL zero BI2025 (BA eng 40.818m path -40.8m)
+bud_do19_ce_bi2025,wallonie_gov,2025,2143640000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,DO19 Finances CE BI2025 2143.640m path eng +635.006m
+bud_do19_cl_bi2025,wallonie_gov,2025,2145777000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,DO19 CL BI2025 2145.777m path liq +634.446m
+bud_do19_ce_ba2024,wallonie_gov,2024,1508634000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,DO19 CE BA2024 1508.634m
+bud_do19_cl_ba2024,wallonie_gov,2024,1511331000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,DO19 CL BA2024 1511.331m
+bud_do19_exec_class_ba2024,wallonie_gov,2024,816819000,,,outturn,src_ccrek_do19_dette_wal_bi2025,medium,DO19 exec class 816.819m BA2024 table
+bud_do19_036_dettes_garanties_bi2025,wallonie_debt,2025,2095474000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Prog 036 Dettes et garanties CE=CL BI2025 2095.474m path +628.536m
+bud_do19_036_dettes_garanties_ba2024,wallonie_debt,2024,1466938000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Prog 036 Dettes garanties BA2024 CE=CL 1466.938m
+bud_wal_dette_directe_eoy2023,wallonie_debt,2023,25274000000,,,outturn,src_ccrek_do19_dette_wal_bi2025,strong,Dette directe eoy2023 25274m (doubled from 12.6bn eoy2019)
+bud_wal_dette_directe_eoy2024_est,wallonie_debt,2024,27663900000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Dette directe est eoy2024 27663.9m CoA Table15
+bud_wal_dette_directe_eoy2025_est,wallonie_debt,2025,29951500000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Dette directe est eoy2025 29951.5m CoA Table15 (~30bn)
+bud_wal_dette_brute_consol_eoy2023,wallonie_debt,2023,36468900000,,,outturn,src_ccrek_do19_dette_wal_bi2025,strong,Dette brute consolidee eoy2023 36468.9m ICN (direct 69.3pct)
+bud_wal_dette_indirecte_eoy2023,wallonie_debt,2023,11195000000,,,outturn,src_ccrek_do19_dette_wal_bi2025,strong,Dette indirecte eoy2023 11195m (UAP 7759.9 missions 2286 floods 987.3 housing 150 leases 11.5)
+bud_wal_dette_brute_consol_eoy2025_est,wallonie_debt,2025,41100000000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,medium,Dette brute consol est eoy2025 41.1bn if indirecte stable CoA
+bud_wal_interets_dette_total_bi2025,wallonie_debt,2025,605200000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Charges interets dette directe total BI2025 605.2m (code21 569.8 + swaps 21.7 + spabs 13.7)
+bud_wal_interets_dette_total_ba2024,wallonie_debt,2024,493800000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Charges interets total BA2024 493.8m
+bud_wal_interets_dette_total_2023,wallonie_debt,2023,372400000,,,outturn,src_ccrek_do19_dette_wal_bi2025,strong,Charges interets exec 2023 372.4m taux implicite 1.5pct
+bud_wal_interets_code21_bi2025,wallonie_debt,2025,569800000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Interets code21 RE BI2025 569.8m
+bud_wal_deficit_net_bi2025,wallonie_gov,2025,2896600000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Solde net a financer BI2025 -2896.6m (path improve 360.3m vs BA -3256.9m)
+bud_wal_sec_solde_bi2025,wallonie_gov,2025,2286500000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Solde financement SEC BI2025 -2286.5m govt estimate
+bud_wal_besoin_financement_brut_2025,wallonie_debt,2025,4293200000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Besoins financement 2025 4293.2m (amort 1396.684 + deficit 2896.6)
+bud_wal_besoin_financement_net_corr_2025,wallonie_debt,2025,3647200000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Besoins nets after prefin 37m and sous-util 609m = 3647.2m vs Coret max 3300m
+bud_wal_amort_emprunts_2025,wallonie_debt,2025,1396684000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Amortissements emprunts echeance 2025 1396.684m
+bud_wal_recettes_totales_bi2025,wallonie_gov,2025,21802469000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Recettes totales BI2025 21802.469m path +767.763m
+bud_wal_effort_structurel_bi2025,wallonie_gov,2025,268000000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Effort structurel 268m BI2025 (rec +25.2 dep -242.8) on top prior 500m class
+bud_wal_tresorerie_remonte_uap_2025,wallonie_gov,2025,575600000,,,budgeted,src_ccrek_do19_dette_wal_bi2025,strong,Treasury remonte operation 575.6m improves general services solde without SEC impact (UAP excess 536.6 + dots 39)

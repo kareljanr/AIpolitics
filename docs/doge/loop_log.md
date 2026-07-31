@@ -7643,3 +7643,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+sowafinal); budgets (+20); commitments (+4); leaderboard (+6); sources (+2); FOI draft gap_do18_zae_emploi_l5_2025; rq_634=done; spawn rq_635; loop_state ticks=643
 - FOI opened: gap_do18_zae_emploi_l5_2025 -- ready (not sent)
 - Next: rq_635; progress@650 in 7 ticks; rq_116 deferred
+
+### 2026-08-01T02:45:00Z -- tick 644
+- Unit: rq_635 (FOI-adjacent dual debt hole-fill -- **DO19 Finances + dette wallonne** CoA ch.3 dual VL Maastricht)
+- Found: **DO19** (primary CoA): BI2025 CE **EUR2.144bn** / CL **EUR2.146bn** (path **+EUR635m**). **Prog 036 Dettes/garanties:** CE=CL **EUR2.095bn** (path **+EUR629m**). **Dette directe:** eoy2023 **EUR25.274bn** / eoy2024est **EUR27.664bn** / eoy2025est **EUR29.952bn** (~**+73%** since eoy2020); eoy2029 class **EUR34.1bn**; debt/receipts **158.9%** (2023) to **190.2%** (2029). **Brute consolidee** eoy2023 **EUR36.469bn** (indirecte **EUR11.195bn**); eoy2025est class **EUR41.1bn**. **Interets** BI2025 **EUR605.2m** (2023 **EUR372.4m**; implicit **2.0%**); new loans 2024 **3.571%** vs 2021 **0.699%**. **Besoin financement 2025** brut **EUR4.293bn** / net corr **EUR3.647bn** vs Coret max **EUR3.300bn** (excess **EUR347m**). **SEC solde** **-EUR2.287bn**. **Moody A3 negative** Oct2024. Dual **VL Maastricht** class **EUR50.2bn**. Strong confidence CoA; L5 residual FOI.
+- Wrote: entities (+wallonie_debt); budgets (+25); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_do19_dette_l5_2025; rq_635=done; spawn rq_636; loop_state ticks=644
+- FOI opened: gap_do19_dette_l5_2025 -- ready (not sent)
+- Next: rq_636; progress@650 in 6 ticks; rq_116 deferred
