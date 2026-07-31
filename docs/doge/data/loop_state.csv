@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-02T13:45:00Z,rq_744,753,no,tick753 VAPH 2.75bn dual AViQ residual; next rq_745; progress@760 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-02T14:15:00Z,rq_745,754,no,tick754 Fed Police 975.7m statutair dual Smals/RSR/iPolice; next rq_746; progress@760 in 6; rq_116 deferred

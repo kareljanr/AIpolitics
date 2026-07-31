@@ -8997,3 +8997,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vaph_agency_2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_745; progress@760 in 7; rq_116 deferred
 
+
+### 2026-08-02T14:15:00Z — tick 754
+- Unit: **rq_745** (FOI-adjacent residual dual — **Federal Police Kamer DOC 56 1281/009 residual personnel/IT/Smals/i-Police**)
+- Found (primary Kamer 1281/009, 122p):
+  - **Statutair pay OA40–43 2026:** CG **€180.456m** · OA41 **€338.603m** (sectoral reval AR 10 Sep 2023) · OA42 **€351.852m** · OA43 **€104.758m** → sum **€975.669m**
+  - **Inconvenients** OA40+41+42 **€111.254m**; staff FTE partial OA40 **2,549.7** · OA42 **4,282.5** · OA43 **1,725**
+  - **Smals/eGov detache** BA 122120 **€6.044m** 2026 (dual Justice **€7.943m**); meal cheques **€14.351m**; detache other **€10.465m**
+  - **OA44 ops+IT:** goods **€54.681m** + IT **€22.833m**; OA80 forfait **€60.463m** + IT class **€32.5m**
+  - **RSR-AC 2025 €37.216m** to Integrated Police for Focus/Centrex/GVC consultancy+maint (dual Crossborder fine-IT)
+  - **i-Police:** SSG Sopra Steria framework eval launched 2025, path TBD; dual historical ~€76m failure class
+  - Anti-drone / Light Utility heli programme residual (EUR L5 FOI)
+- Wrote: budgets (+29); commitments (+6); leaderboard (+7); sources (+2); FOI draft **gap_police_fed_budget_l5**; raw PDF+extract; rq_745=done; spawn **rq_746**; ticks=754
+- FOI opened: gap_police_fed_budget_l5 — ready prio8 (not sent)
+- Next: rq_746; progress@760 in 6; rq_116 deferred
+

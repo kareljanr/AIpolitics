@@ -15565,3 +15565,32 @@ bud_vaph_index_toelage_vek_41_672k,vaph,2025,41672000,,,budgeted,src_vl_bbt_wvg_
 bud_dual_vaph_aviq_handicap_2025,gg_belgium,2025,2753213000,,,derived,src_dual_vaph_aviq_tick753,strong,Dual VAPH exp 2.753bn 2025 vs AViQ handicap class 1.012bn RA2024 not additive; tick753
 bud_dual_vaph_aviq_agency_scale,gg_belgium,2025,2810173000,,,derived,src_dual_vaph_aviq_tick753,strong,Dual VAPH rec 2.810bn vs AViQ total 7.155bn Entity II social scale; tick753
 bud_dual_vaph_surplus_vs_aviq_rembours,gg_belgium,2025,56960000,,,derived,src_dual_vaph_aviq_tick753,strong,Dual VAPH +57m budget result vs AViQ rembours 352.6m reverse transfer different mechanism; tick753
+bud_police_oa40_statutair_pay_2026,police_federale,2026,180456000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA40 BA 40.11.110003 statutair pay 180456 kEUR 2026; tick754
+bud_police_oa40_nonstat_pay_2026,police_federale,2026,2428000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA40 BA 40.11.110004 non-statutair 2428 kEUR; tick754
+bud_police_oa40_inconv_2026,police_federale,2026,21870000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA40 BA 40.12.110003 inconvenients 21870 kEUR; tick754
+bud_police_oa40_staff_fte_2026,police_federale,2026,2549.7,,,stock_fte,src_kamer_police_1281_009_2026,strong,OA40 staff total 2549.7 FTE plan (eoy2024 base); tick754
+bud_police_oa41_statutair_pay_2026,police_federale,2026,338603000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA41 BA 41.11.110003 statutair 338603 kEUR 2026 (+sectoral reval AR 10Sep2023); tick754
+bud_police_oa41_inconv_2026,police_federale,2026,60519000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA41 BA 41.12.110003 inconvenients 60519 kEUR; tick754
+bud_police_oa41_ops_goods_2026,police_federale,2026,14194000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA41 BA 41.21.121101 ops goods 14194 kEUR 2026; tick754
+bud_police_oa42_statutair_pay_2026,police_federale,2026,351852000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA42 BA 42.11.110003 statutair 351852 kEUR 2026; tick754
+bud_police_oa42_inconv_2026,police_federale,2026,28865000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA42 BA 42.12.110003 inconvenients 28865 kEUR; tick754
+bud_police_oa42_staff_fte_2026,police_federale,2026,4282.5,,,stock_fte,src_kamer_police_1281_009_2026,strong,OA42 staff total 4282.5 FTE; tick754
+bud_police_oa42_it_ops_2026,police_federale,2026,6589000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA42 BA 42.21.121104 IT ops 6589 kEUR; tick754
+bud_police_oa42_vehicles_2026,police_federale,2026,8000000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA42 BA 42.21.741001 transport invest 8000 kEUR; tick754
+bud_police_oa43_statutair_pay_2026,police_federale,2026,104758000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA43 BA 43.11.110003 statutair 104758 kEUR 2026; tick754
+bud_police_oa43_staff_fte_2026,police_federale,2026,1725.0,,,stock_fte,src_kamer_police_1281_009_2026,strong,OA43 staff total 1725 FTE; tick754
+bud_police_oa43_ops_forfait_2026,police_federale,2026,15831000,,,budgeted,src_kamer_police_1281_009_2026,strong,OA43 BA 43.11.121199 forfait 15831 kEUR; tick754
+bud_police_statutair_pay_oa40_43_2026,police_federale,2026,975669000,,,derived,src_kamer_police_1281_009_2026,strong,Sum OA40-43 statutair 110003 180456+338603+351852+104758=975669 kEUR; tick754
+bud_police_inconv_oa40_42_2026,police_federale,2026,111254000,,,derived,src_kamer_police_1281_009_2026,strong,Sum inconvenients OA40+41+42 21870+60519+28865=111254 kEUR; tick754
+bud_police_staff_oa40_42_43_fte,police_federale,2026,8557.2,,,stock_fte,src_kamer_police_1281_009_2026,strong,Sum staff OA40+42+43 2549.7+4282.5+1725=8557.2 FTE partial org map; tick754
+bud_police_meal_cheques_2026,police_federale,2026,14351000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 44.11.110014 meal cheques 14351 kEUR 2026; tick754
+bud_police_smals_egov_detache_2026,police_federale,2026,6044000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 44.11.122120 Smals/eGov detached personnel 6044 kEUR 2026; dual Justice Smals 7.9m; tick754
+bud_police_detache_other_2026,police_federale,2026,10465000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 44.11.122148 detache other 10465 kEUR 2026; tick754
+bud_police_oa44_ops_goods_2026,police_federale,2026,54681000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 44.21.121101 ops goods 54681 kEUR 2026; tick754
+bud_police_oa44_it_ops_2026,police_federale,2026,22833000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 44.21.121104 IT ops 22833 kEUR 2026; tick754
+bud_police_oa80_forfait_2026,police_federale,2026,60463000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 80.11.121199 forfait 60463 kEUR 2026; tick754
+bud_police_oa80_it_ops_2026,police_federale,2026,32549000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 80.21.121104 / 741001 IT class 32549 kEUR 2026; tick754
+bud_police_oa80_it_ops_alt_2026,police_federale,2026,21389000,,,budgeted,src_kamer_police_1281_009_2026,strong,BA 80.33.121104 IT 21389 kEUR 2026; tick754
+bud_police_rsr_ac_revenue_2025,police_federale,2025,37216000,,,outturn,src_kamer_police_1281_009_2026,strong,Integrated police received 37216000 from RSR-AC road safety revenues 2025 for IT/consultancy; tick754
+bud_dual_police_smals_justice_2026,gg_belgium,2026,13987000,,,derived,src_dual_police_intsec_tick754,strong,Dual Smals detache police 6.044 + Justice 7.943 = 13.987m class not full Smals bill; tick754
+bud_dual_police_rsr_crossborder_2025,gg_belgium,2025,37216000,,,derived,src_dual_police_intsec_tick754,strong,Dual RSR-AC 37.2m police IT vs Justice Crossborder bpost stack; tick754
