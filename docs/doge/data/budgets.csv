@@ -15274,3 +15274,37 @@ bud_ccrek_fed_recs_not_assessed_8pct,rekenhof,2025,8,,,outturn,src_ccrek_2026_30
 bud_dual_coa_fed_full_23pct_vs_vl_15_8pct,gg_belgium,2025,23,,,outturn,src_dual_coa_fed_vl_recs_tick745,strong,Fed multi-entity monitor full-exec 23pct vs VL thematic full 15.8pct dual residual; tick745
 bud_dual_coa_fed_not_exec_21pct_vs_vl_dead,gg_belgium,2025,21,,,outturn,src_dual_coa_fed_vl_recs_tick745,strong,Fed not-executed 21pct dual VL no-action 14.2pct + intention 19pct class; tick745
 bud_dual_coa_capacity_fed_475_vs_vl_58_5,gg_belgium,2025,475,,,outturn,src_dual_coa_fed_vl_recs_tick745,strong,Fed CoA FTE 475 vs VL chamber VG-level 58.5 dual capacity map; tick745
+bud_justice_dbfm_redev_eng_2024,dg_epi,2024,41310000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 12.51.71.121135 eng 41310 kEUR Justice share redevances Marche Beveren Leuze Haren Dendermonde; tick746
+bud_justice_dbfm_redev_liq_2024,dg_epi,2024,41668000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121135 liq 41668 kEUR 2024; tick746
+bud_justice_dbfm_redev_2025,dg_epi,2025,40168000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121135 eng=liq 40168 kEUR 2025 5 ops prisons Justice share; tick746
+bud_justice_dbfm_redev_2026,dg_epi,2026,46633000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121135 eng=liq 46633 kEUR 2026 incl Antwerp +5021k for 3Q from Q2; tick746
+bud_justice_dbfm_redev_2027,dg_epi,2027,48306000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121135 eng=liq 48306 kEUR 2027; tick746
+bud_justice_dbfm_redev_2028,dg_epi,2028,48306000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121135 eng=liq 48306 kEUR 2028 flat; tick746
+bud_justice_dbfm_redev_2029,dg_epi,2029,51991000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121135 eng=liq 51991 kEUR 2029 path peak; tick746
+bud_justice_dbfm_redev_antwerp_3q_2026,dg_epi,2026,5021000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,Antwerp DBFM Justice redevances +5021k for 3 trimesters 2026 (open Q2); annualized class ~6695k; tick746
+bud_justice_dbfm_redev_sum_2024_2029,dg_epi,2029,276714000,,,commitment,src_kamer_justice_justif_1281_005_2026,strong,Sum eng BA 121135 2024-29 276714 kEUR Justice prison redev path only; not full Regie TCO; tick746
+bud_justice_cpl_redev_eng_2024,dg_epi,2024,28895000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 12.51.71.121136 eng 28895 kEUR CPL Gent+Antwerp redevances; tick746
+bud_justice_cpl_redev_liq_2024,dg_epi,2024,28888000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 liq 28888 kEUR 2024; tick746
+bud_justice_cpl_redev_eng_2025,dg_epi,2025,30084000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 eng 30084 kEUR 2025; tick746
+bud_justice_cpl_redev_liq_2025,dg_epi,2025,29950000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 liq 29950 kEUR 2025; tick746
+bud_justice_cpl_redev_2026,dg_epi,2026,31161000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 eng=liq 31161 kEUR 2026 CPL Gent+Antwerp; tick746
+bud_justice_cpl_redev_2027,dg_epi,2027,31791000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 eng=liq 31791 kEUR 2027; tick746
+bud_justice_cpl_redev_2028,dg_epi,2028,32754000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 eng=liq 32754 kEUR 2028; tick746
+bud_justice_cpl_redev_2029,dg_epi,2029,33296000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 121136 eng=liq 33296 kEUR 2029; tick746
+bud_justice_cpl_redev_sum_2024_2029,dg_epi,2029,187981000,,,commitment,src_kamer_justice_justif_1281_005_2026,strong,Sum eng BA 121136 2024-29 187981 kEUR CPL Gent+Antwerp; tick746
+bud_justice_dbfm_cpl_redev_combo_2026,dg_epi,2026,77794000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,Combo Justice prison+CPL redev 46633+31161=77794 kEUR 2026; dual Table41 invest Regie perimeter; tick746
+bud_justice_transitie_commercial_2026,dg_epi,2026,3905000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 12.51.72.313201 eng 3905 kEUR transitiehuizen commercial operators 2026; liq 4312; tick746
+bud_justice_transitie_commercial_2027,dg_epi,2027,5665000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 313201 eng=liq 5665 kEUR 2027-29 path; tick746
+bud_justice_transitie_other_2026,dg_epi,2026,2839000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 12.51.72.330008 eng 2839 kEUR transitiehuizen other 2026; liq 2554; tick746
+bud_justice_transitie_other_2027,dg_epi,2027,3978000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 330008 eng=liq 3978 kEUR 2027-29; tick746
+bud_justice_transitie_total_2026,dg_epi,2026,6744000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,Transitiehuizen sum eng 3905+2839=6744 kEUR 2026; cap target 100 places; tick746
+bud_justice_detainee_volume_credit_2026,dg_epi,2026,436000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,Volume credit 436k eng+liq 2026 for detainee rise vs 2025 base 12404 (Q1 2025 12831); tick746
+bud_dbfm_budget_est_margin_3pct,regie_gebouwen,2026,3,,,method_pct,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,CoA: budget redevance est = last Q invoice x4 + VAT + Plan index + 3pct buffer margin; tick746 PCT
+bud_dbfm_dbm_maint_horizon_9y,regie_gebouwen,2026,9,,,method_years,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,CoA VFM: Regie assumes DBM private maint only 9y then own/new vs DBFM 25y; biases VFM; tick746 COUNT_Y
+bud_dbfm_bms_extend_may2026_2y,regie_gebouwen,2024,2,,,stock_years,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,BMS building-mgmt contract extended 2y in 2024 to May 2026; IWMS unfunded; tick746
+bud_dbfm_bms_extend_mid2026_3y,regie_gebouwen,2026,3,,,stock_years,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,Mid-2026 Regie to request +3y BMS prolong (fixed tranche + optional maint); tick746
+bud_dbfm_recs_done_9,regie_gebouwen,2026,9,,,stock_count,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,CoA suivi recs fully done 9 of 30; tick746 COUNT
+bud_dbfm_recs_ongoing_16,regie_gebouwen,2026,16,,,stock_count,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,CoA suivi recs ongoing 16 of 30; tick746 COUNT
+bud_dbfm_recs_not_5,regie_gebouwen,2026,5,,,stock_count,src_ccrek_prisons_dbfm_suivi_residual_tick746,strong,CoA suivi recs not implemented 5 of 30 incl off-balance rec10 + Regie refuse rec13; tick746 COUNT
+bud_dual_justice_table41_invest_gap_2026,gg_belgium,2026,52900000,,,derived,src_dual_dbfm_justice_regie_tick746,strong,Dual: Table41 invest-only 4prisons ~52.9m vs Justice BA121135 46.633m 2026 different perimeter; not additive; tick746
+bud_sex_offender_therapy_grant_2026,fod_justice,2026,1129000,,,budgeted,src_kamer_justice_justif_1281_005_2026,strong,BA 12.51.32.330007 eng=liq 1129 kEUR sexual-offender therapy orgs UFC Antwerp UPPL Steunpunt BRU; tick746

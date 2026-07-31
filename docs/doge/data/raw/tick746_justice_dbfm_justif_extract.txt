@@ -1,0 +1,2510 @@
+\n===== PAGE 17 =====\n17
+1281/005DOC 56
+ 
+ 
+   
+ 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 1.100 1.150 1.116 1.116 1.067 1.067 Engagement 
+Vereffeningen 1.106 1.155 1.121 1.121 1.072 1.072 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria, de energiekosten, onderhoud van lokalen 
+en machines, dienstverplaatsingen, zitpenningen, 
+telefonie,… 
+ 
+Het budget voor 2026 is met 11 .000 euro verlaagd als 
+gevolg van de besparingsmaatregelen met betrekking tot 
+buitenlandse reizen die de regering tijdens de 
+ministerraad van 12 december 2025 heeft genomen. 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment les 
+dépenses en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie,… 
+ 
+Le budget 2026 est diminué de 11 .000 euros suite aux 
+décisions d’économie relatives aux voyages à l’étranger  
+prise par le gouvernement en conseil des ministres du  
+12 décembre 2025. 
+B.A. : 12.21.01.121104 A.B. : 12.21.01.121104 
+Tekst : Allerhande werkingsuitgaven met betrekking tot 
+de informatica 
+Libellé : Dépenses diverses de fonctionnement relatives 
+à l’informatique 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 57.212 44.935 42.786 42.801 42.801 42.801 Engagement 
+Vereffeningen 55.636 44.900 42.751 42.766 42.766 42.766 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dekt hoofdzakelijk de volgende 
+uitgaven: 
+ 
+• Onderhoudskosten van datacenters, servers, 
+laptops en desktops en netwerken. 
+ 
+ 
+• Netwerk: onderhoud van het netwerk in de 
+gebouwen (Local Area Network) en de veiligheid 
+van deze systemen. 
+ 
+• Onderhoudskosten van softwarelicenties en 
+serverssoftware om ze voldoende actueel te 
+houden evenals de support. 
+ 
+ 
+• Kosten van correctief en adaptief onderhoud, 
+support en continue uitrol van nieuwe 
+ontwikkelingen, specifiek voor de FOD Justitie 
+(MaCH, SIDIS). 
+ 
+ 
+• Externen: gespecialiseerde IT -profielen die de 
+dienstverlening inzake IT verzekeren. 
+ 
+ 
+• MFP en andere printers: huur van de 
+multifunctionele toestellen en de kost per print. 
+ 
+ 
+Note explicative 
+ 
+Cette allocation de base couvre principalement : 
+ 
+ 
+• Coûts des maintenances des centres de 
+données, des serveurs, des laptops et desktops 
+et des infrastructures réseaux. 
+ 
+• Réseau : de la maintenance réseau à l’intérieur 
+des bâtiments (Local Area Network) et de la 
+sécurité des systèmes. 
+ 
+• Coûts de maintenance des licences clients et/ou 
+serveurs de logiciels standard pour pouvoir 
+assurer leur mise à niveau et leur support. 
+ 
+• Coûts des maintenances correctives et 
+adaptives, du support et des déploiements 
+continus des applications développées 
+spécifiquement pour le SPF Justice (MaCH, 
+SIDIS). 
+ 
+• Externes : profils informatiques spécialisés 
+externes assurant la continuité des services ICT. 
+ 
+• MFP et autres imprimantes  : coûts de location 
+des photocopieurs multifonctions et les coûts 
+d’impression. 
+ 
+• Petites fournitures informatiques du SPF Justice. 
+ \n\n===== PAGE 25 =====\n25
+1281/005DOC 56
+ 
+ 
+   
+ 
+l’exécution de ses missions. 
+Dienst Logistiek en beveiliging Service Logistique et sécurité 
+• Toegangscontrole en bewakingsmaatregelen in 
+de vier gebouwen van de centrale diensten ; 
+ 
+• Preventief en curatief onderhoud van de 
+gebouwen van de centrale diensten en het 
+beheer van de contracten ; 
+• Het beheer van de verschillende technische 
+installaties. 
+• Contrôle d’accès et mesures de surveillance 
+dans les quatre bâtiments de l’administration 
+centrale ; 
+• Entretien préventif et curatif des bâtiments de 
+l’administration centrale et gestion des contrats ; 
+• Gestion des différentes installations techniques. 
+Dienst FMIS Service FMIS 
+De dienst FMIS is verantwoordelijk voor de uitvoering van 
+de software FMIS (Facility Management Information 
+System). 
+Le service FMIS est en charge de l’implémentation du 
+logiciel FMIS (Facility Management Information System). 
+Het doel van een FMIS is positief gevolg te geven aan de 
+noden van operationele, tactische en strategische 
+diensten van een organisatie. 
+Le but d’un FMIS est de répondre aux besoins en 
+information des échelons opérationnel, tactique et 
+stratégique d’une organisation. 
+Het gebruik van een software FMIS biedt vele voordelen. L’application d’un logiciel FMIS offre divers avantages 
+De informatie wordt niet meer verspreid over gans de 
+organisatie maar geconcentreerd in één databank, ter 
+beschikking van de verschillende departementen en 
+diensten.  Het verhoogt de doeltreffendheid van de 
+organisatie, vermindert aanzienlijk de kosten en verbetert 
+de prestaties van iedereen. 
+L’information n’est plus dispersée aux quatre coins de 
+l’organisation, mais concentré dans une seule base de 
+données, à la disposition des différents départements et 
+services.  Il augmente l’efficacité de l’organisation, 
+permet d’importantes réductions de coûts et améliore les 
+prestations de tous. 
+Een FMIS levert gegevens dewelke een grote steun 
+kunnen betekenen in tactische beslissingen, beheert 
+verschillende processen en diensten van de werkplek en 
+genereert de nodige beheersinformatie.  Het levert de 
+nodige informatie om tot een goede uitvoering van de 
+gevraagde taken te komen. 
+Un FMIS fournit des données qui peuvent jouer un rôle 
+de soutien lors de décisions tactiques, prend en charge 
+divers processus et services du lieu de travail et génère 
+des informations de management essentielles.  Il livre 
+des renseignements qui rendent possibles une bonne 
+exécution des services. 
+De dienst FMIS bevat zelf ook verscheidene cellen : Le service FMIS englobe également différentes cellules : 
+• Cel “Fleet Management” beheert het volledige 
+wagenpark van het centraal bestuur, het 
+coördineert de verschillende wagenparken 
+tussen de entiteiten om hun beheer te 
+optimaliseren.  Het levert hen ook operationele 
+steun en stelt hum expertise ter beschikking van 
+het beheer van het wagenpark ; 
+ 
+• Cel “Zendingen & Vergaderzalen” is belast met 
+het vervoer van personen in het kader van hun 
+specifieke opdracht.  Logistieke steun wordt 
+verleend voor de vergaderingen georganiseerd 
+door de centrale diensten; 
+• Cel “GSM” is belast met het beheer van de 
+aanvragen betreffende GSM/Smartphones & 
+abonnementen ten dienste van het centraal 
+bestuur en brengt bij tot een beter up- to-date 
+bestand.  Houdt het gegevensbestand bij van 
+mobiele telefoons en het daarbij horende type 
+abonnement ; 
+• Cel “Contact” brengt gegevens betreffende 
+• Cellule «  Fleet Management  » gère 
+complètement les véhicules de l’administration 
+centrale.  Il coordonne les différents parcs 
+automobiles des entités entre eux afin 
+d’optimaliser leur gestion.  Il leur apport 
+également un soutien opérationnel en 
+transmettant son expertise dans le domaine de 
+l’automobile ; 
+• Cellule « Missions & Salles de réunion » se 
+charge du transport des personnes dans le cadre 
+de missions.  Appui logistique lors de réunions 
+organisées dans les services centraux ; 
+• Cellule «  GSM » répond aux demandes de 
+GSM/Smartphones et d’abonnement pour 
+l’administration centrale tout en améliorant la 
+gestion actuelle.  Tient à jour l’ensemble de la 
+base de données sur les téléphones mobiles et 
+le type d’abonnement de l’administration 
+centrale ; 
+• Cellule « Contact  » encode dans FMIS les 
+demandes d’intervention (tickets) suite à des \n\n===== PAGE 31 =====\n31
+1281/005DOC 56
+ 
+ 
+   
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria, de energiekosten, onderhoud van lokalen 
+en machines, dienstverplaatsingen, zitpenningen, 
+telefonie, … 
+ 
+Deze basisallocatie is onderhevig aan de indexering op 
+de werkingskredieten. Echter een bedrag van  
+10.000 euro werd tevens afgehouden om naar de Fod 
+Bosa over te hevelen ter betaling aan Unisono. 
+ 
+De Ministerraad van 13 februari 2022 besliste immers de 
+betaling voor alle aan Unisono voor alle 
+departementen/instellingen te centraliseren bij de Fod 
+Bosa.  Deze beschikt nu over onvoldoende kredieten 
+hiervoor en 46.000 euro dient structureel 
+gecompenseerd.  
+ 
+Het aandeel van Justitie , 10.000 euro wordt bijgevolg 
+vanaf 2026 in mindering gebracht op deze basisallocatie. 
+Note explicative  
+ 
+Cette allocation de base vise à couvrir, notamment les 
+dépenses en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie,… 
+ 
+Cette allocation de base a bénéficié de l'indexation sur 
+les crédits de fonctionnement. Toutefois, un montant de 
+10.000 euros a également été retenu pour être transféré 
+au SPF Bosa en vue du paiement à Unisono. 
+ 
+Le Conseil des ministres du 13 février 2022 a en effet 
+décidé de centraliser le paiement à Unisono pour tous les 
+départements/institutions auprès du SPF Bosa. Celui -ci 
+ne dispose actuellement pas de crédits suffisants à cet 
+effet et 46.000 euros doivent être compensés de manière 
+structurelle. 
+ 
+ La part de la Justice, soit 10. 000 euros, sera donc 
+déduite de cette allocation de base à partir de 2026. 
+B.A. : 12.40.02.121102 A.B. : 12.40.02.121102 
+Tekst : Werkingsuitgaven betreffende het restaurant van 
+het Justitiepaleis 
+Libellé : Dépenses de fonctionnement relatives au 
+restaurant du Palais de Justice 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 433 459 465 465 465 465 Engagement 
+Vereffeningen 389 459 465 465 465 465 Liquidation 
+ 
+Verklarende nota 
+ 
+Het betreft hoofdzakelijk de kosten van de aankoop van 
+voedingsmiddelen om te verwerken in de keuken. 
+Note explicative 
+ 
+Il s’agit essentiellement des frais pour l’achat de vivres 
+qui sont transformés en cuisine. 
+B.A. : 12.40.02.121199 A.B. : 12.40.02.121199 
+Tekst : Forfaitaire en andere onkostenvergoedingen 
+(fiscaal niet belastbaar) aan het personeel 
+Libellé : Indemnités forfaitaires et autres (fiscalement non 
+imposables) au personnel 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 667 1.207 1.223 1.223 1.223 1.223 Engagement 
+Vereffeningen 667 1.207 1.223 1.223 1.223 1.223 Liquidation 
+ 
+Verklarende nota 
+ 
+Vanaf het begrotingsjaar 2012 wordt de aanrekening van 
+dit type vergoedingen afgescheiden van de gebruikelijke 
+basisallocatie 12 11 01 omwille van de betaling via de 
+dienst “Persopoint”. 
+Note explicative 
+ 
+Depuis l’année budgétaire 2012, l’imputation de ce type 
+de frais est séparé de l’allocation de base habituelle  
+12 11 01 en raison du paiement via le service 
+« Persopoint ». 
+B.A. : 12.40.02.121206 A.B. : 12.40.02.121206 
+Tekst : Huren van onroerende goederen Libellé : Loyers des biens immobiliers 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 5 55 56 56 56 56 Engagement 
+Vereffeningen 3 55 56 56 56 56 Liquidation 
+ \n\n===== PAGE 39 =====\n39
+1281/005DOC 56
+ 
+ 
+   
+ 
+strafuitvoering te onttrekken of, erger nog, in het 
+gevangenisverblijf prikkels te zien voor de verderzetting 
+van de criminele carrière na de invrijheidstelling.  
+Prioritaire domeinen zijn o.a. een gedifferentieerd en 
+geïndividualiseerd detentiebeheer waar binnen de 
+gedetineerde centraal staat en gericht op zijn re-
+integratie, dynamische veiligheid en een humaan 
+leefklimaat, een meer intense aanpak van radicalisering, 
+de minimale dienstverlening, de organisatie van de 
+penitentiaire diensten, het statuut van het penitentiair 
+personeel en opleiding voor het gevangenispersoneel.  
+Middelen zijn nodig om deze richtinggevende 
+doelstellingen te realiseren en om in een context van 
+dagelijkse uitdagingen op een humane en professionele 
+manier de kernopdrachten van de organisatie – van de 
+gevangenissen en van de (centrale) penitentiaire 
+administratie – te kunnen uitvoeren. 
+l’exécution de la peine ou, plus grave encore, à voir dans 
+le séjour en prison un incitant à poursuivre une carrière 
+criminelle après la libération.  Les domaines prioritaires 
+sont notamment une gestion de la détention différenciée 
+et individualisée centrée sur le détenu et axée sur sa 
+réinsertion, la sécurité dynamique et un cadre de vie 
+humain, une approche plus intense de la radicalisation, le 
+service minimum, l’organisation des services 
+pénitentiaires, le statut du personnel pénitentiaire et sa 
+formation.  Des moyens sont nécessaires pour réaliser 
+ces objectifs directeurs et pour pouvoir exécuter, de 
+manière humaine et professionnelle, dans un contexte de 
+défis quotidiens, les missions essentielles de 
+l’organisation – prisons et administration pénitentia ire 
+(centrale). 
+Het is de gezamenlijke opdracht van alle gevangenissen 
+en diensten binnen het DG EPI om bij te dragen tot een 
+gevangenisklimaat waarbinnen samen met de 
+gedetineerde aan zijn re- integratie kan worden gewerkt.  
+Deze kernopdracht en ambitie zitten onder meer ook 
+vervat in de wet op de externe maar ook de interne 
+rechtspositie.  Dat gevangenisklimaat moet zich 
+kenmerken door: 
+Toutes les prisons et tous les services de la DG EPI ont 
+pour mission commune de contribuer à un climat carcéral 
+permettant de travailler avec le détenu à sa réinsertion.  
+Cette mission- clé et cette ambition figurent notamment 
+également dans la loi relativ e au statut juridique externe 
+mais aussi interne.  Ce climat carcéral doit se caractériser 
+par : 
+• respect voor de menselijke waardigheid van 
+eenieder binnen de gevangenismuren; 
+• een cultuur van menselijkheid gebaseerd op 
+transparantie, eerlijkheid, gelijkwaardigheid; 
+• bejegende interactie tussen personeel en 
+gedetineerden met oog op re -integratie, 
+gebaseerd op vertrouwen, 
+verantwoordelijkheidszin, gekenmerkt door 
+praktische en emotionele ondersteuning; 
+• rechtvaardigheid, rechtszekerheid en 
+rechtsgelijkheid in de beslissingen ten aanzien 
+van gedetineerden; 
+• het zorgen voor en waken over de orde en 
+veiligheid, mede door het creëren van autonomie 
+voor de gedetineerden in een omgeving die 
+bescherming biedt tegen het toebrengen van 
+schade en waarbinnen de psychische en fysieke 
+integriteit van eenieder gevrijwaard blijft ; 
+• het substantieel meer toegankelijk maken van 
+voorzieningen en activiteiten die gedetineerden 
+op een meer bewuste wijze hun detentie-  en re-
+integratietraject doen beleven en in eigen 
+handen doen nemen ; 
+• gedetineerden voldoende tijd buiten de cel te 
+laten doorbrengen om verder sociaal isolement 
+te vermijden en, ruimer, door het sociaal leven 
+onder gevangenen te faciliteren ; 
+ 
+• verder te investeren in het versterken van het 
+sociaal netwerk rond de gedetineerde en als 
+sluitstuk het optimaliseren van het doorlopen van 
+het detentietraject. 
+• le respect de la dignité humaine de chacun dans 
+l’enceinte de la prison ; 
+• une culture de l’humanité basée sur la 
+transparence, l’honnêteté, l’égalité ; 
+• une interaction entre le personnel et les détenus 
+qui vise la réinsertion, basée sur la confiance, le 
+sens des responsabilités, caractérisée par un 
+soutien pratique et émotionnel ; 
+ 
+• la justice, la sécurité et l’égalité juridiques dans 
+les décisions prises à l’égard des détenus ; 
+ 
+• le fait de veiller à l’ordre et à la sécurité, en créant 
+notamment une autonomie pour les détenus 
+dans un environnement qui offre une protection 
+contre les préjudices et qui continue de garantir 
+l’intégrité physique et psychique de chacun ; 
+ 
+• un accès substantiellement plus important aux 
+structures et activités au travers desquelles les 
+détenus vivent et prennent entre leurs mains de 
+manière plus consciente leur parcours de 
+détention et de réinsertion ; 
+• le fait de laisser les détenus passer suffisamment 
+de temps hors de leur cellule pour éviter 
+davantage d’isolement social et, plus largement, 
+faciliter la vie sociale parmi les prisonniers ; 
+• la poursuite des investissements dans le 
+renforcement du réseau social qui entoure le 
+détenu et comme clé de voûte, l’optimalisation du 
+parcours de détention. \n\n===== PAGE 40 =====\n1281/005DOC 56
+40
+ 
+ 
+   
+ 
+Middelen zijn nodig om deze principes actief vorm te 
+geven en om deze versterkte missie, visie en waarden 
+van het DG EPI te concretiseren.  Gevangenissen en de 
+voor hen ondersteunende centrale diensten dragen 
+hiertoe dagelijks bij en werken aan het garanderen van 
+een me nselijk, rechtvaardig en veilig leefklimaat foor 
+gedetineerden, wat mede bepalend is voor de 
+werkomstandigheden van het personeel. 
+Des moyens sont nécessaires pour donner activement 
+forme à ces principes et pour concrétiser les missions, 
+visions et valeurs renforcées de la DG EPI.  Les prisons 
+et les services centraux qui les soutiennent y contribuent 
+quotidiennement et œuvrent à la g arantie d’un climat de 
+vie humain, équitable et sûr pour les détenus, ce qui est 
+également déterminant pour les conditions de travail du 
+personnel. 
+Detentieplanning en gedifferentieerd regime Planning de la détention et régime différencié 
+Het uitgangspunt van elke gevangenisstraf is de 
+terugkeer van de gedetineerde in de maatschappij.  Het 
+DG EPI streeft ernaar om de kansen op re-integratie van 
+gedetineerden te vergoten door hun detentietijd zo zinvol 
+mogelijk in te vullen en door detentieschade te beperken.  
+Er wordt ingezet op een langetermijnvisie waarbinnen 
+detentieplanning en reclasseringsplanning als een 
+continuüm worden beschouwd en waarbij voor en met 
+elke gedetineerde een traject wordt uitgestippeld 
+waarmee hij een zinvollere invulling kan geven aan zijn 
+tijd in detentie en zijn re- integratie zo snel mogelijk kan 
+voorbereiden.  Binnen dit kader is het de bedoel ing om 
+gedetineerden met lage(re) kans op recidive sneller door 
+het detentietraject te laten evolueren.  De aandacht moet 
+in de fase vooraf aan het toekennen van modaliteiten – 
+van zodra de tijdsvoorwaarden dit toelaten – verschuiven 
+van detentieplanning naar reclasseringsplanning, en 
+ondersteund worden door een gedifferentieerd aanbod 
+van regimes waarbij classificatie gebeurt op basis van de 
+behoeften van de gedetineerden in functie van zijn re-
+integratie. Het DG EPI focust daarbij op detentie op maat, 
+waarbij de penitentiaire omgeving (m.a.w. het aanbod 
+aan gedifferentieerde regimes) is afgestemd op het 
+profiel van de gedetineerde (-o.a. behoeften in functie re-
+integratie, mogelijkheden, risico’s, persoonlijkheid, 
+detentietijd, enz.) op basis van het samen spel van  
+4 pijlers: de sociale capaciteiten van de gedetineerde, 
+veiligheidsindicatoren, aspecten van kwetsbaarheid en 
+strafrechtelijke gegevens (i.h.b. de duur van de 
+straftoemeting).  Een aanbod aan activiteiten, opleiding, 
+gevangenisarbeid, algemene en specifieke medico-
+psychosociale omkadering, gezondheidspreventie 
+(drugs, enz.), begeleiding en therapie nemen vult dit 
+kader concreet in. 
+Le principe de chaque peine d’emprisonnement est le 
+retour du détenu dans la société.  La DG EPI s’efforce 
+d’améliorer les possibilités de réinsertion des détenus en 
+rendant leur période de détention aussi sensée que 
+possible et en limitant les effets préj udiciables de la 
+détention.  L’accent est mis sur une vision à long terme 
+dans laquelle le planning de détention et de réinsertion 
+sont considérés comme un continuum et où un parcours 
+est établi pour et avec chaque détenu, parcours qui lui 
+permet de donner un contenu plus sensé à son temps de 
+détention et de préparer le plus rapidement possible sa 
+réinsertion.  Dans ce cadre, l’objectif est de faire évoluer 
+plus rapidement dans le parcours de détention les 
+détenus qui présentent un risque de récidive (plus) faible.  
+Dans la phase précédant l’octroi de modalités –  dès que 
+les conditions de temps le permettent - , l’attention doit se 
+déplacer du planning de détention vers le planning de 
+réinsertion et être soutenue par une offre différenciée de 
+régimes dans laquelle la classification s’effectue sur la 
+base des besoins du détenu par rapport à sa réinsertion.  
+La DG EPI se concentre en outre sur la détention sur 
+mesure, l’environnement carcéral (en d’autres termes 
+l’offre de régimes différenciés) correspondant au profil du 
+détenu (notamment ses besoins par rapport  à la 
+réinsertion, les possibilités, les risques, la personnalité, le 
+temps de détention, etc.) sur la base de la conjonction de 
+4 piliers : les capacités sociales du détenu, les indicateurs 
+de sécurité, les aspects de vulnérabilité et les données 
+pénales (en particulier la durée de la fixation de la peine).  
+Une offre d’activités, de formation, de travail pénitentiaire, 
+d’encadrement médico- psychosocial général et 
+spécifique, de prévention sanitaire (dro gues, etc.), 
+d’accompagnement et de thérapie complète 
+concrètement ce cadre.  
+De focus op een meer gedifferentieerde en 
+geïndividualiseerde strafuitvoering beantwoordt aan de 
+Belgische regelgeving en Europese en andere 
+supranationale standaarden dir nadruk leggen op de 
+classificatie van penitentiaire inrichtingen en op een 
+individuele detentieplanning. 
+La focalisation sur une fixation de la peine plus 
+différenciée et individualisée répond à la règlementation 
+belge et à des standards supranationaux européens et 
+autres qui mettent l’accent sur la classification des 
+établissements pénitentiaires et sur un p lanning de 
+détention individuel. 
+Het vertrekpunt hiervoor is het organiseren van een 
+gestructureerd assessment van de gedetineerde binnen 
+de context van de hierboven geciteerde pijlers en de 
+analyse van het risico op recidive op basis van een 
+gemeenschappelijke methode voor alle betrokken 
+actoren.  Dit assessment laat toe om op een zo 
+objectiveerbaar mogelijke manier het profiel van de 
+gedetineerde te bepalen rekening houdende met de 
+Le point de départ ici est l’organisation d’une évaluation 
+structurée du détenu dans le contexte des piliers précités 
+et de l’analyse du risque de récidive sur la base d’une 
+méthode commune à tous les acteurs concernés.  Cette 
+évaluation permet de définir le profil du détenu de la 
+manière la plus objective possible, en tenant compte des 
+éventuels risques, possibilités et besoins, sur la base 
+duquel il est possible de définir l’offre en termes de \n\n===== PAGE 42 =====\n1281/005DOC 56
+42
+ 
+ 
+   
+ 
+Integrale veiligheid Sécurité intégrale 
+Het garanderen van een veilige detentie is een 
+belangrijke kernopdracht van het DG EPI.  Het DG EPI 
+heeft de ambitie om het beleid rond veiligheid integraal 
+en geïntegreerd te benaderen aangezien het een 
+hefboom is voor een geslaagde re-integratie. 
+La garantie d’une détention sûre est une mission -clé 
+fondamentale de la DG EPI.  La DG EPI a l’ambition 
+d’aborder de manière intégrale et intégrée la politique 
+relative à la sécurité car il s’agit d’un levier pour une 
+réinsertion réussie. 
+Het uitbouwen van een integrale veiligheid omvat zowel 
+het beheer van individuele dossiers als het ontwikkelen 
+en ondersteunen van het invoeren van een 
+veiligheidsbeleid in de meest brede betekenis van het 
+woord. 
+Le développement d’une sécurité intégrale englobe à la 
+fois la gestion de dossiers individuels et le 
+développement ainsi que le support de l’introduction 
+d’une politique de sécurité au sens le plus large du terme. 
+Het assessment van gedetineerden leidt tot een beter 
+zicht op de diversiteit van de populatie gedetineerden en 
+laat ons toe het beheer, het beleid en het aanbod aan te 
+passen aan de verschillende doelgroepen. Voor profielen 
+met specifieke behoeften en risico’s  wordt een beleid op 
+maat ontwikkeld, inclusief het beheer van hun individuele 
+dossier. 
+L’évaluation des détenus conduit à une meilleure vision 
+de la diversité de la population des détenus et nous 
+permet d’adapter la gestion, la politique et l’offre aux 
+différents groupes cibles.  Concernant les profils 
+présentant des besoins et risques spéci fiques, une 
+politique sur mesure est développée, qui inclut la gestion 
+de leur dossier individuel. 
+Dit geldt voor “high profile” gedetineerden zoals 
+gedetineerden veroordeeld wegens terroristische feiten 
+of terro-gerelateerde feiten, gedetineerden in de context 
+van radicalisme/extremisme (FTF, HTF, 
+haatpropagandisten, andere geradicaliseerde 
+gedetineerden), spijtsoptanten, gedetineerden die onder 
+een getuigenbeschermingsprogramma vallen, 
+gedetineerden in de context van extreemlinkse of – 
+rechtse dossiers of in de context van de georganiseerde 
+misdaad, maar ook gedetineerden die voor belangrijke 
+(interne) veiligheidsproblemen zorgen. 
+Cela vaut pour les détenus «  high profile », comme les 
+détenus condamnés pour des faits de terrorisme ou des 
+faits liés au terrorisme, les détenus dans le contexte de 
+radicalisme/extrémisme (FTF, HTF, prédicateurs de 
+haine, autres détenus radicalisés), les  repentis, les 
+détenus qui relèvent d’un programme de protection des 
+témoins, les détenus dans le cadre de dossiers 
+d’extrémisme de droite ou de gauche ou dans le cadre du 
+crime organisé, mais également les détenus qui 
+occasionnent d’importants problèmes s ur le plan de la 
+sécurité (interne). 
+Maar dit geldt ook voor de andere kant van het continuüm 
+waar gedetineerden met een laag risicoprofiel een 
+aangepaste huisvesting (binnen een lagere 
+veiligheidsperimeter of zelfs extra muros) en omkadering 
+nodig hebben. 
+Mais il en va de même pour l’autre côté du continuum où 
+les détenus présentant un profil de risque faible ont 
+besoin d’un logement (dans un périmètre de sécurité 
+moindre, voire hors des murs) et d’un encadrement 
+adaptés. 
+De ontwikkeling en ondersteuning van een geïntegreerd 
+veiligheidsbeleid richt zich naast het casuïstische beheer 
+en beleid ook – maar niet exhaustief – op domeinen zoals 
+de opvolging en ontwikkeling van methodieken rond 
+dynamische veiligheid, de opvolging en ontwikkeling van 
+veiligheidsprocedures en –processen, de uitvoering van 
+operationele veiligheidsaudits in de gevangenissen, 
+research op het vlak veiligheidsinstallaties en de 
+opvolging en ontwikkeling van de nood-  en 
+interventieplannen. 
+Le développement et le support d’une politique de 
+sécurité intégrée se concentrent également, outre sur la 
+gestion et la stratégie casuistiques – mais pas de manière 
+exhaustive -, sur des domaines tels que le suivi et le 
+développement de méthodologies relatives à la sécurité 
+dynamique, le suivi et le développement de procédures 
+et processus de sécurité, la réalisation d’audits de 
+sécurité opérationnels dans les prisons, la recherche 
+dans le domaine des installations de sécurité et le suivi 
+ainsi que le déve loppement des plans d’urgence et 
+d’intervention. 
+Uitbreiding celcapaciteit en modern en 
+gedifferentieerd penitentiair park 
+Extension de la capacité cellulaire et parc 
+pénitentiaire moderne et différencié 
+Een hedendaagse en aangepaste penitentiaire 
+infrastructuur is een sleutelfactor om een humaan en op 
+re-integratie en veiligheid gericht beleid te kunnen 
+voeren.  Een verouderde infrastructuur van het 
+penitentiair park en onvoldoende capaciteit om de 
+overbevolking om te vangen, blijven echter 
+problematieken waarmee het DG EPI geconfronteerd 
+Une infrastructure pénitentiaire moderne et adaptée est 
+un facteur-clé pour pouvoir mener une politique humaine 
+axée sur la réinsertion et la sécurité.  Le caractère 
+obsolète de l’infrastructure du parc pénitentiaire et le 
+manque de capacité pour faire fac e à la surpopulation 
+restent toutefois des problématiques auxquelles est 
+confrontée la DG EPI et qui compliquent une application \n\n===== PAGE 43 =====\n43
+1281/005DOC 56
+ 
+ 
+   
+ 
+wordt en die een correcte dagelijkse uitvoering van het 
+gevangenisbeleid bemoeilijken.  De bepalingen binnen 
+het nieuwe wetboek strafuitvoering zullen bovendien voor 
+extra druk zorgen.  Capaciteitsuitbreiding en 
+modernisering zijn noodzaak en moeten vorm krijgen met 
+de verdere uitvoering van de Masterplannen 
+Gevangenissen. 
+quotidienne correcte de la politique pénitentiaire.  En 
+outre, les dispositions du nouveau Code de l’exécution 
+des peines génèreront une pression supplémentaire.  
+L’extension capacitaire et la modernisation sont 
+indispensables et doivent se concrétiser dans l’exécution 
+des Masterplans des prisons. 
+Dit is ook een belangrijke randvoorwaarde met het oog 
+op een gedifferentieerd detentiebeheer zoals hierboven 
+beschreven waarbinnen gedetineerden in functie van hun 
+profiel worden ondergebracht in een voor hun meest 
+aangepaste inrichting.  Concreet betekent dit dat de 
+inrichtingen wo rden ingedeeld per veiligheidsniveau en 
+dat er wordt gestreefd naar een toereikende capaciteit in 
+functie van het veiligheidsrisico van de populatie.  Dit leidt 
+tot een grotere differentiatie in het patrimonium dan wat 
+in het verleden het geval was.  Het beschikken over een 
+toereikende capaciteit, zijnde een beschikbare 
+opvangcapaciteit binnen een bepaald veiligheidsniveau 
+die in overeenstemming is met de benodigde 
+opvangcapaciteit voor de gevangenisbevolking die 
+binnen dat niveau is geclassificeerd is cruc iaal voor het 
+welslagen van een geïntegreerd gedetineerdenbeheer.  
+De Masterplannen zijn een belangrijke hefboom om dit 
+nieuwe detentiebeleid vorm te geven door een verhoging 
+van de differentiatie binnen de detentiecapaciteit. 
+C’est également une condition connexe importante pour 
+une gestion de la détention différenciée telle que décrite 
+ci-dessus, dans laquelle, en fonction de leur profil, les 
+détenus sont hébergés dans l’établissement le plus 
+adapté pour eux.  Cela signifie concrètement que les 
+établissements sont classés par niveau de sécurité et que 
+l’on essaye de parvenir à une capacité suffisante en 
+fonction du risque de sécurité de la population.  Il en 
+résulte une plus grande différenciation dans le patrimoine 
+que par le passé.  Disposer d’une capacité suffisante, à 
+savoir d’une capacité d’accueil disponible pour un niveau 
+de sécurité donné, correspondant à la capacité d’accueil 
+nécessaire pour la population carcérale classée dans ce 
+niveau, est essentiel à la réussite d’une gestion intégrée 
+des détenus.  Les Masterplans représentent un levier 
+important pour donner forme à cette nouvelle politique de 
+détention au travers de l’augmentation de la 
+différenciation au sein de la capacité de détention.  
+De oprichting van in het bijzonder de transitiehuizen is 
+een belangrijke vernieuwing en concretisering van een 
+gedifferentieerd detentiebeleid.  Dit is evenwel geen 
+statisch gegeven.  Daarom zal een gestructureerd en 
+geïnformatiseerd proces moeten worden ontwikkeld met 
+het oog op een proactief capaciteitsbeheer. 
+La création de maisons de transition en particulier 
+constitue une modernisation et une concrétisation 
+majeures d’une politique de détention différenciée.  Il ne 
+s’agit toutefois pas d’une donnée statique.  C’est 
+pourquoi un processus structuré et informati sé doit être 
+élaboré en vue d’une gestion proactive de la capacité. 
+De totaalvisie van het meest recente Masterplan III steunt 
+op vier pijlers: 
+La vision globale du Masterplan III, le plus récent, 
+s’appuie sur quatre piliers : 
+• de bouw van nieuwe gevangenissen/uitbreiding 
+bestaande gevangenissen; 
+• de renovatie van bestaande gevangenissen; 
+• een gedifferentieerd detentiebeleid, met 
+transitiehuizen; 
+• het Masterplan Internering: aangepaste 
+infrastructuur voor elke geïnterneerde. 
+• la construction de nouvelles prisons / extension 
+de prisons existantes ; 
+• la rénovation de prisons existantes ; 
+• une politique de détention différenciée, avec des 
+maisons de transition ; 
+• le Masterplan Internement  : une infrastructure 
+adaptée pour chaque interné.  
+De langetermijnvisie moet de problemen binnen de 
+gevangenissen helpen wegwerken: 
+La vision à long terme doit mettre fin aux problèmes dans 
+les prisons : 
+• overbevolking; 
+• infrastructuurproblemen; 
+• onmenselijke leefomstandigheden in sommige 
+inrichtingen; 
+• een onaangepaste infrastructuur om de re-
+integratie van gedetineerden te realiseren; 
+• een onveilige werkomgeving voor penitentiair 
+personeel; 
+• de facto onmogelijkheid om een beleid inzake 
+strafdifferentiatie te ontwikkelen en uit te  
+voeren; 
+• het gebrek aan aangepaste infrastructuur buiten 
+• surpopulation ; 
+• problèmes d’infrastructure ; 
+• conditions de vie inhumaines dans certains 
+établissements ; 
+• une infrastructure inadaptée pour réaliser la 
+réinsertion des détenus ; 
+• un environnement de travail non sécurisé pour le 
+personnel pénitentiaire ; 
+• l’impossibilité de facto de développer et 
+d’exécuter une politique de différenciation des 
+peines ; 
+• l’absence d’une infrastructure adaptée en dehors \n\n===== PAGE 44 =====\n1281/005DOC 56
+44
+ 
+ 
+   
+ 
+de gevangenissen voor de verzorging en 
+begeleiding van geïnterneerden. 
+des prisons pour les soins et l’accompagnement 
+des internés. 
+Blijvende aandacht moet ook uitgaan naar het 
+preventieve, reactieve en adaptieve onderhoud van de 
+reeds bestaande gevangenissen, voor zover dit buiten de 
+bevoegdheid van de Regie der Gebouwen valt. 
+Une attention constante doit également être accordée à 
+l’entretien préventif, réactif et adaptatif des prisons 
+existantes, pour autant que cela ne relève pas des 
+compétences de la Régie des Bâtiments. 
+De impact van nieuwe wetgevende initiatieven op de 
+populatie 
+L’impact de nouvelles initiatives législatives sur la 
+population 
+Dat de bepalingen van de wet van 2006 met betrekking 
+tot de externe rechtspositie ook van toepassing worden 
+op de korgestraften (i.c. veroordeelden met een 
+gevangenisstraf tot 3 jaar) zal bijdragen tot de 
+geloofwaardigheid van én de straftoemeting én de 
+strafuitvoering maar men kan in tijden van overbevolking 
+niet voorbijgaan aan het effect dat de inwerkingtreding 
+van deze bepalingen zullen hebben op de 
+gevangenisbevolking. 
+L’application des dispositions de la loi de 2006 relative au 
+statut juridique externe aux courtes peines également 
+(i.c. les condamnés à un emprisonnement de 3 ans 
+maximum) contribuera à la crédibilité et de la fixation de 
+la peine et de son exécution, mai s en périodes de 
+surpopulation, on ne peut négliger l’effet qu’aura l’entrée 
+en vigueur de ces dispositions sur la population 
+carcérale. 
+Deze wetgevende initiatieven zullen dus extra druk 
+creëren op de gedetineerdenpopulatie (op basis van de 
+huidige prognose valt een verhoging van de populatie op 
+dag basis te verwachten tussen 400 en 600 
+gedetineerden).  Het ligt voor de hand dat de snelhei d 
+waarmee de infrastructuurprojecten opgenomen in de 
+opeenvolgende Masterplannen gerealiseerd kunnen 
+worden, de stijgende trend wat de gevangenisbevolking 
+betreft niet zal kunnen bijbenen.  En er zal dus dienen 
+nagegaan te worden of geen initiatieven kunnen 
+genomen worden om de penitentiaire capaciteit sneller uit 
+te breiden via alternatieve detentiecentra.  De 
+kortgestraften die tot op heden quasi automatisch in 
+elektronisch toezicht worden geplaatst (voorafgegaan 
+door een periode van strafonderbreking) en dus niet of 
+uiterst beperkt in de gevangenissen verblijven, vormen 
+wellicht een categorie van veroordeelden die in 
+inrichtingen met een (erg) laag veiligheidsniveau kunnen 
+opgenomen worden.  Hun detentieperiode zal 
+doorgaans, door de aard van de straftoem eting van 
+relatief korte duur zijn en het is dus zaak om extra 
+detentieschade te vermijden door een detentieomgeving 
+te creëren die de nadelen/bedreigingen van een 
+klassieke gevangenis niet in zich draagt.  
+Ces initiatives législatives généreront donc une pression 
+supplémentaire sur la population carcérale (sur la base 
+du pronostic actuel, on s’attend à une augmentation de la 
+population de 400 à 600 détenus sur une base 
+quotidienne).  Il va de soi que la rapidité avec laquelle les 
+projets d’infrastructure figurant dans les Masterplans 
+pourront être réalisés ne pourra suivre la tendance à la 
+hausse en termes de surpopulation carcérale.  Il 
+conviendra donc de vérifier si des initiatives ne peuvent 
+pas être prises afin d’étendre plus rapidement la capacité 
+pénitentiaires via des centres de détention alternatifs.  
+Les courtes peines qui actuellement dont quasiment 
+automatiquement placées sous surveillance électronique 
+(précédée d’une période d’interruption de peine) et qui ne 
+séjournent pas ou seulement de manière extrêmement 
+limitée dans les prisons forment peut -être une catégorie 
+de condamnés qui peuvent être accueillis dans ces 
+établissements d’un niveau de sécurité (très) faible.  De 
+par la nature de la fixation  de la peine, leur période de 
+détention sera en général relativement courte et il y a 
+donc lieu d’éviter des effets préjudiciables de la détention 
+supplémentaires en créant un environnement de 
+détention qui ne présente pas en soi les 
+désagréments/menaces d’une prison classique. 
+Dit alles heeft uiteraard tevens een aanzienlijke invloed 
+op de werkingskosten maar eveneens op de marge die 
+de organisaties heeft om beleidsveranderingen door te 
+voeren. 
+ 
+Tout cela a bien entendu également une influence 
+importante sur les frais de fonctionnement mais aussi sur 
+la marge dont dispose l’organisation pour mettre en 
+œuvre des changements de politique. 
+Penitentiaire wet – Organisatie van het 
+gevangeniswezen en de minimale dienstverlening 
+Loi pénitentiaire – Organisation de l’administration 
+pénitentiaire et du service minimum 
+De penitentiaire wet van 23 maart 2019 moet toelaten de 
+bovenstaande ambitie te realiseren op organisatorisch en 
+operationeel vlak. 
+La loi pénitentiaire du 23 mars 2019 doit permettre de 
+réaliser l’ambition précitée sur le plan organisationnel et 
+opérationnel. 
+Een belangrijke voorwaarde is de toekomstige 
+samenstelling van het personeelsleden van de 
+penitentiaire organisaties waarbij de herziening van de 
+Une condition essentielle réside dans l’élaboration future 
+du plan de personnel de l’organisation pénitentiaire selon 
+laquelle la révision des profils du personnel s’effectue à \n\n===== PAGE 45 =====\n45
+1281/005DOC 56
+ 
+ 
+   
+ 
+personeelsprofielen kadert in het licht van de 
+evoluerende opdrachten van de gevangenissen zoals 
+hierboven beschreven.  Er moet geïnvesteerd worden in 
+een verdere professionalisering van de opdrachten en dit 
+vertaalt zich onvermijdelijk in functiedifferent iatie.  Deze 
+differentiatie zal uiteindelijk ook zichtbaar moeten worden 
+in de wijze van valorisatie en dus ook van de verloning 
+die erop moet gericht zijn medewerkers te stimuleren te 
+kiezen voor een functie die het meest inzet op “werken 
+met gedetineerden” en hun loopbaan daarop gericht uit 
+te bouwen.  Ook het bepalen van specifieke 
+deontologische regels en bepalingen rond het statuut die 
+afwijken van de algemene bepalingen zijn voorwaarden 
+voor deze professionalisering.  Loopbaanontwikkeling, 
+competentieontwikkeling en opleiding zijn speerpunten 
+van het beleid. 
+la lumière de l’évolution des missions des prisons décrite 
+plus haut.  Il convient d’investir dans une 
+professionnalisation plus poussée des missions, laquelle 
+se traduit inévitablement dans la différenciation des 
+fonctions.  Au final, cette différenciation devra également 
+être visible dans le mode de valorisation et donc 
+également dans la rémunération qui doit inciter les 
+collaborateurs à opter pour une fonction qui s’investit le 
+plus dans le « travail avec les détenus » et à développer 
+leur carrière de ma nière ciblée sur cette fonction.   
+La définition de règles déontologiques spécifiques et de 
+dispositions relatives au statut qui dérogent aux 
+dispositions générales est également une condition pour 
+la réalisation de cette professionnalisation.   
+Le développement de la carrière, le développement des 
+compétences et la formation sont des fers de lance de 
+cette politique. 
+Een andere belangrijke randvoorwaarde is de invoering 
+van de minimale dienstverlening die de minimale rechten 
+van gedetineerden garandeert tijdens stakingen en zorgt 
+voor betere detentieomstandigheden, waarmee 
+tegemoet wordt gekomen aan de openbare verklar ing 
+van 13 juli 2017 van het Europese comité ter voorkoming 
+van foltering en onmenselijke behandeling (CPT).  
+Sociaal overleg blijft het uitgangspunt bij conflicten maar 
+de wet voorziet in een plan van aanpak om de 
+aanwezigheid van een minimaal aantal pers oneelsleden 
+te waarborgen. 
+Une autre condition connexe importante est l’introduction 
+du service minimum qui garantit les droits minimums des 
+détenus pendant les grèves et offre de meilleures 
+conditions de détention, répondant ainsi à la déclaration 
+publique du 13 juillet 2017 du Comité européen pour la 
+prévention de la torture et des peines ou traitements 
+inhumains ou dégradants (CPT).   La concertation sociale 
+reste le principe en cas de conflit, mais la loi prévoit un 
+plan d’approche afin de garantir la présence d’un nombre 
+minimum de membre du personnel. 
+De invoering van de gegarandeerde dienstverlening 
+maakt bovendien deel uit van een breder kader om het 
+gevangeniswezen als geheel naar een hoger niveau te 
+tillen en vorm te geven aan de gevangenissen van de 
+toekomst.  Speerpunten zijn: 
+L’introduction d’un service garanti s’inscrit en outre dans 
+un cadre plus large destiné à élever l’administration 
+pénitentiaire en tant qu’ensemble vers un niveau plus 
+élevé et à donner forme aux prisons du futur.  Les 
+priorités sont : 
+• versterking van het draagvlak voor het 
+penitentiair beleid en het betrekken en 
+responsabiliseren van andere partners; 
+• versterking van het intern toezicht op het 
+rechtsconform handelen binnen de penitentiaire 
+praktijk; 
+• versterking van de performantie van de 
+organisatie en haar medewerkers, o.a. door 
+opleiding te opwaarderen en een meer centrale 
+plaats te geven bij indiensttreding en gedurende 
+de loopbaan van personeelsleden.  Opleiding zal 
+een prioritaire pijler worden b innen het 
+gevangenisbeleid van de komende jaren; 
+• versterking van het prestatieniveau van de 
+organisatie om in het bijzonder fenomenen als 
+het absenteïsme te bestrijden. 
+• le renforcement de l’adhésion à une politique 
+pénitentiaire ainsi que l’implication et la 
+responsabilisation des autres partenaires ; 
+• le renforcement du contrôle interne sur les 
+actions conformes au droit dans la pratique 
+pénitentiaire ; 
+• le renforcement de la performance de 
+l’organisation et de ses collaborateurs, 
+notamment en valorisant la formation et en lui 
+accordant une place plus centrale lors de l’entrée 
+en service et durant la carrière des membres du 
+personnel.  La formation deviend ra un pilier 
+prioritaire dans la politique pénitentiaire des 
+prochaines années ; 
+• le renforcement du niveau de prestation de 
+l’organisation afin de lutter en particulier contre 
+des phénomènes tels que l’absentéisme. 
+De wet moderniseert ook de organisatie van de 
+penitentiaire diensten en moet het gevangeniswezen dan 
+weer tot een performante werkplek maken waar het goed 
+is om te werken. 
+La loi modernise également l’organisation des services 
+pénitentiaires et doit faire à nouveau de l’administration 
+pénitentiaire un lieu de travail performant où il fait bon 
+travailler. 
+BESTAANSMIDDELENPROGRAMMA 51/0 PROGRAMME DE SUBSISTANCE 51/0 \n\n===== PAGE 46 =====\n1281/005DOC 56
+46
+ 
+ 
+   
+ 
+01 – Personeelsuitgaven 01 – Dépenses de personnel 
+(in duizenden euro) (en milliers d’euros) 
+ 01.11.00.03 01.11.00.04 Totaal / Total 
+2024 (rea) 526.759 53.376 580.135 
+2025 (vak/eng) 529.066 42.651 571.717 
+2026 (vak/eng) 538.254 43.504 581.758 
+ 
+Verklarende nota 
+ 
+Overeenkomstig de bepalingen van de circulaire nr  526 
+van 13 juli 2002 van Ambtenarenzaken wordt het 
+Directoraat-Generaal Penitentiaire Inrichtingen 
+(buitendiensten) geïntegreerd in een globale enveloppe. 
+ 
+In 202 6 wordt verder gewerkt aan de realisatie van de 
+Masterplannen gevangenissen.  Zo zal in het tweede 
+trimester van 2026 de nieuwe inrichting van Antwerpen in 
+gebruik genomen worden. 
+ 
+In het kader van de actualis atie van het Masterplan, 
+zullen ook kredieten toegekend worden vanuit de provisie 
+voor het openhouden van de inrichting te Antwerpen en  
+Sint-Gillis. 
+ 
+De uitrol van de detentiehuizen gaat ook verder in 202 6. 
+Zij zullen uitgebaat worden als een gevangenis door het 
+DG EPI en de kosten zullen dus op de gebruikelijke 
+basisallocaties van programma 0, 1 en 3 aangerekend 
+worden. 
+ 
+In 2026, wordt een bedrag van 1.357.000 euro naar  de 
+begroting van de Federale Politie overgedragen. Het 
+betreft de technische uitvoering van een beslissing van 
+de Regering (Raad 31 maart 2023) om de 
+chauffeursfuncties binnen het penitentiair kader over te 
+plaatsen naar het operationeel kader van de federale 
+politie (in casu naar de Directie Algemene Beveiliging of 
+DAB). De overdracht wordt gespreid uitgevoerd, tot en 
+met het jaar 2026. 
+Note explicative 
+ 
+Conformément aux dispositions de la circulaire n°526 du 
+13 juillet 2002 de la Fonction publique, la Direction 
+Générale Etablissements Pénitentiaires (services 
+extérieurs) est intégrée dans une enveloppe globale. 
+ 
+ 
+En 2026 , on poursuivra la réalisation des Masterplan 
+prisons.  Ainsi, au cours du deuxième trimestre 2026, le 
+nouvel établissement d'Anvers sera mis en service. 
+ 
+ 
+Dans le cadre de l'actualisation du Masterplan, des 
+crédits seront également accordés à partir de la provision 
+destinée au maintien en activité des établissements 
+d'Anvers et de Saint-Gilles. 
+ 
+Le déploiement des maisons de détention se prolonge en 
+2026.  Elles seront exploitées par la DGEPI comme une 
+prison et les coûts seront donc imputés sur les allocations 
+de base usuelles des programmes 0, 1 et 3. 
+ 
+ 
+En 202 6, un montant de 1.357.000 euros est transféré 
+vers le budget de la Police Fédérale. Il s'agit de 
+l'exécution technique d'une décision du Gouvernement 
+(Conseil 31 mars 2023) de transférer les fonctions de 
+chauffeur au sein du cadre pénitentiaire vers le cadre 
+opérationnel de la police fédérale (en l'occurrence vers la 
+Direction de la sécurisation ou DAB).  Le transfert sera 
+exécuté de manière échelonnée, jusqu'à l'année 2026 
+incluse. 
+02 – Werkingskosten 02 – Frais de fonctionnement 
+In dit programma worden de werkingskredieten van alle 
+strafinrichtingen opgenomen. 
+Dans ce programme de subsistance sont remis les frais 
+de fonctionnement de tous les établissements 
+pénitentiaires. 
+B.A. : 12.51.02.121101 A.B. : 12.51.02.121101 
+Tekst : Bestendige uitgaven voor de aankoop van niet -
+duurzame goederen en van diensten (met uitsluiting van 
+de informaticauitgaven) 
+Libellé : Dépenses permanentes pour achats de biens 
+non durables et de services (à l’exclusion des dépenses 
+informatiques) 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 47.759 46.720 48.863 48.863 48.863 48.863 Engagement 
+Vereffeningen 45.966 46.720 48.863 48.863 48.863 48.863 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir : \n\n===== PAGE 47 =====\n47
+1281/005DOC 56
+ 
+ 
+   
+ 
+betrekking tot : 
+ 
+• prestaties van derden (arbeidsgeneeskunde, 
+consultancy, milieu, commissies, …) ; 
+ 
+• water ; 
+• energie (mazout, gas, elektriciteit, stoom, 
+brandstof) ; 
+• inentingen hepatitis B ; 
+• onderhoud gebouwen en installaties ; 
+• bureaukosten ; 
+• representatiekosten ; 
+• huur roerende goederen ; 
+• belastingen en retributies ; 
+• uniformkledij ; 
+• PBM (persoonlijke beschermingsmiddelen) ; 
+• Vervoerskosten personeel door NMBS ; 
+• Buitenlandse zendingen ; 
+• Studiebureau voor technische bijstand voor de 
+overheidsopdrachten omtrent werken en 
+onderhoud in het kader van de bij-akte tussen de 
+Regie der gebouwen en de FOD Justitie. 
+ 
+In 202 6 wordt een bedrag van 79.000 euro naar  de 
+begroting van de Federale Politie overgedragen. Het 
+betreft de technische uitvoering van een beslissing van 
+de Regering (Raad 31 maart 2023) om de 
+chauffeursfuncties binnen het penitentiair kader over te 
+plaatsen naar het operationeel kader van de federale 
+politie (in casu naar de Directie Algemene Beveiliging of 
+DAB).  De overdracht wordt gespreid uitgevoerd, tot en 
+met het jaar 2026. 
+ 
+Voor 2026 wordt rekening gehouden met een toename 
+van het aantal gedetineerden ten opzichte van het aantal 
+dat als basis is gebruikt voor de berekening van de 
+kredieten in de begrotingswet 2025  (12.404 
+gedetineerden tegenover 12.831 in het eerste kwartaal 
+van 2025).  Daartoe worden in 2026 1.609.000 euro 
+vastleggingskredieten en 1.609.000 euro 
+vereffeningskredieten toegekend als volume- krediet.  
+Extra kredieten kunnen worden toegekend via de 
+interdepartementale provisie “Veiligheid”, deel  
+“overbevolking” die door de Ministerraden  van 11 april 
+2025 en 12 december 2025 werden goedgekeurd. 
+ 
+Het budget voor 2026 is met 4.000 euro verlaagd als 
+gevolg van de besparingsmaatregelen met betrekking tot 
+buitenlandse reizen die de regering tijdens de 
+ministerraad van 12 december 2025 heeft genomen. 
+ 
+ 
+• prestations de tiers (soins médical de travail, 
+consultancy, environnement, commissions, …) ; 
+• l’eau ; 
+• énergie (mazout, gaz, électricité, vapeur, 
+carburant) ; 
+• vaccins hépatite B ; 
+• entretien bâtiments et installations ; 
+• frais de bureaux ; 
+• frais de représentations ; 
+• location de biens immatériel ; 
+• taxes et redistributions ; 
+• habillement du personnel, uniforme ; 
+• MPI (moyen protection individuel) ; 
+• frais de déplacement du personnel par SNCB ; 
+• missions à l’étranger ; 
+• bureau d’étude pour aide technique pour les 
+marchés publiques concernant travaux et 
+entretien dans le cadre d’avenant entre la Régie 
+de bâtiment et SPF Justice. 
+ 
+En 2026, un montant de 79.000 euros est transféré vers 
+le budget de la Police Fédérale. Il s'agit de l'exécution 
+technique d'une décision du Gouvernement (Conseil  
+31 mars 2023) de transférer les fonctions de chauffeur au 
+sein du cadre pénitentiaire vers le cadre opérationnel de 
+la police fédérale (en l'occurrence vers la Direction de la 
+sécurisation ou DAB) Le transfert sera exécuté de 
+manière échelonnée, jusqu'à l'année 2026 incluse. 
+ 
+ 
+Pour 2026 , il est tenu compte d’un accroissement du 
+nombre de détenus par rapport au nombre utilisé comme 
+calcul de base des crédits dans la loi budgétaire 2025  
+(12.404 détenus par rapport à 12 .831 au premier 
+quadrimestre 2025).  A cet effet, 1.609 .000 euros en 
+engagement et 1.609.000 euros en liquidation sont 
+accordés en 2026 en tant que crédit-volume.  Des crédits 
+supplémentaires pourront être alloués par moyen de  la 
+provision interdépartemental e « Sécurité  », partie 
+« surpopulation », approuvée en Conseil des Ministres 
+des 11 avril 2025 et 12 décembre 2025. 
+ 
+ 
+Le budget 2026 est diminué de 4.000 euros suite aux 
+décisions d’économie relatives aux voyages à l’étranger 
+prise par le gouvernement en conseil des ministres du  
+12 décembre 2025. 
+B.A.: 12.51.02.121107 A.B. : 12.51.02.121107 
+Tekst : Uitgaven voor uitzonderlijke aankopen van niet -
+duurzame goederen en van diensten 
+Libellé : Dépenses pour achats exceptionnels de biens 
+non durables et de services 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen - 1 1 1 1 1 Engagement \n\n===== PAGE 50 =====\n1281/005DOC 56
+50
+ 
+ 
+   
+ 
+gedetineerden, burgers en de maatschappij. Tevens 
+moeten zij ook voorzien in veiligheidstaken. 
+De même, elles doivent assurer un rôle sécuritaire. 
+ 
+04 – Medische en paramedische personeelsuitgaven 04 – Dépenses de personnel médical et paramédical 
+(in duizenden euro) (en milliers d’euros) 
+ 04.11.00.03 04.11.00.04 Totaal / Total 
+2024 (rea) 21.998 1.054 23.052 
+2025 (vak/eng) 25.437 4.328 29.765 
+2026 (vak/eng) 25.946 4.415 30.361 
+ 
+Verklarende nota 
+ 
+Deze basisallocaties hebben betrekking op het medisch 
+en paramedisch personeel. 
+Note explicative 
+ 
+Ces allocations de base couvrent les dépenses relatives 
+au personnel médical et paramédical. 
+ACTIVITEITENPROGRAMMA 51/1 PROGRAMME D’ACTIVITES 51/1 
+Onderhoud en hulpverlening aan gedetineerden Entretien et aide aux détenus 
+Aangewende middelen om de nagestreefde 
+doelstellingen te realiseren : 
+Moyens mis en œuvre pour réaliser les objectifs 
+poursuivis : 
+cfr. de hiernavolgende basisallocatie. cfr. les allocations de base ci-après. 
+10 – Personeel 10 – Personnel 
+B.A. : 12.51.10.122110 A.B. : 12.51.10.122110 
+Tekst : Gratificaties van de gedetineerden die zich 
+bezighouden met het onderhoud van de lokalen, het 
+meubilair, het materieel en de huishoudelijke werken 
+Libellé : Gratifications des détenus occupés aux travaux 
+d’entretien des locaux, du mobilier et du matériel et aux 
+travaux domestiques 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 4.593 4.991 5.056 5.824 5.777 5.777 Engagement 
+Vereffeningen 4.921 5.007 5.072 5.841 5.794 5.794 Liquidation 
+ 
+Verklarende nota 
+ 
+a) Poetsen en onderhoud van de gebouwen; 
+b) Technische dienst, onderhoud van buitenkant 
+gebouwen en pleinen; 
+c) Keukendienst voeding gedetineerden en mess 
+personeel; 
+d) Vestiaire – wasserij – ontvangst gedetineerden; 
+e) Culturele activiteiten – sportieve activiteiten ; 
+f) Voorbereiden en verdelen van kantine ; 
+g) Andere taken (vb : hulp in bezoekzaal). 
+Note explicative 
+ 
+a) Nettoyage et entretien des bâtiments ; 
+b) Service technique, entretien des extérieurs et 
+des préaux ; 
+c) Cuisine détenus et mess du personnel ; 
+ 
+d) Vestiaire – buanderie – réception des détenus ; 
+e) Activités culturelles  – activités sportives ; 
+f) Préparation et distribution des cantines ; 
+g) Autres tâches (ex : aide en salle de visite). 
+ 
+B.A. : 12.51.10.122111 A.B. : 12.51.10.122111 
+Tekst : Aanmoedigingspremie aan gedetineerden met het 
+oog op het bekomen van een studiegetuigschrift 
+Libellé : Prime d’encouragement à l’étude aux détenus en 
+vue de l’obtention d’un certificat d’étude 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 102 162 164 171 169 169 Engagement 
+Vereffeningen 116 162 164 171 169 169 Liquidation 
+ 
+Verklarende nota 
+ 
+De gedetineerden die lessen volgen overeenkomstig de 
+criteria uit de ministeriële circulaire n°1639 van 
+Note explicative 
+ 
+Les détenus qui suivent des cours correspondant aux 
+critères de la circulaire ministérielle n°1639 du \n\n===== PAGE 51 =====\n51
+1281/005DOC 56
+ 
+ 
+   
+ 
+23/12/1994 en dit met het oog op het bekomen van een 
+getuigschrift van lager en lager secundair onderwijs 
+kunnen gedurende de eraan bestede tijd geen 
+penitentiaire arbeid verrichten.  Teneinde hun 
+reclassering maximaal voor te bereiden en hun hiervoor 
+te motiveren wordt hen een vergoeding identiek aan het 
+tarief van de penitentiaire l onen voor huishoudelijk werk 
+toegekend.  (de opleidingstoelage bedraagt 0,70 euro per 
+uur) 
+ 
+Er kan gesteld worden dat +/ - 1% van de 
+gevangenisbevolking in aanmerking komt voor de 
+toekenning van deze premie. 
+23/12/1994 et ce en vue de l’obtention du certificat 
+d’enseignement primaire et secondaire inférieur ne 
+peuvent accomplir aucun travail pénitentiaire durant 
+ceux-ci.  Afin de garantir leur reclassement au maximum 
+et de les motiver, une indemnité d’un montant identique 
+aux tarifs des salaires des travaux domestiques leurs est 
+octroyée. (l’allocation de formation se monte à 0,70 euro 
+par heure) 
+ 
+ 
+Il faut considérer que +/ - 1% de la population carcérale 
+est concernée par l’octroi de cette prime. 
+ 
+11 – Goederen en diensten 11 – Biens et services 
+B.A. : 12.51.11.121131 A.B. : 12.51.11.121131 
+Tekst : 
+• Voeding en onderhoud van de gedetineerden in 
+de gevangenissen; 
+• Overbrenging van sommige gedetineerden per 
+buitengewone verbinding en reiskosten van hun 
+bewaarders; 
+• Vervoerkosten van gedetineerden die, op het 
+ogenblik van hun invrijheidsstelling, de nodige 
+middelen ontbreken om terug te keren naar hun 
+woon- of verblijfplaats. 
+Libellé :  
+• Nourriture et entretien des détenus dans les 
+prisons ; 
+• Transfèrement de certains détenus par 
+correspondance extraordinaire et frais de voyage 
+de leurs gardiens ; 
+• Frais de transport des détenus qui, au moment 
+de leur libération, manquent de ressources pour 
+retourner au lieu de leur domicile ou de leur 
+résidence. 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 22.300 23.629 25.150 25.150 25.150 25.150 Engagement 
+Vereffeningen 21.890 23.629 25.150 25.150 25.150 25.150 Liquidation 
+ 
+Verklarende nota 
+ 
+Vaststelling van het nodige krediet op basis van de 
+verwachte gemiddelde gevangenisbevolking en van het 
+aantal onderhoudsdagen.   
+ 
+Het krediet omvat volgende grote uitgavenposten: 
+voeding, kledij, hygiëne en toiletgrief, ontspannings - en 
+sportartikelen, wasserij kosten, keuken-  en eetgerief, 
+klein divers materiaal (kapper -kleermakerij), materiaal 
+eredienst, vervoer gedetineerden. 
+ 
+ 
+Voor 2026 wordt rekening gehouden met een toename 
+van het aantal gedetineerden ten opzichte van het aantal 
+dat als basis is gebruikt voor de berekening van de 
+kredieten in de begrotingswet 2025  (12.404 
+gedetineerden tegenover 12.831 in het eerste kwartaal 
+van 2025).  Daartoe worden in 2026 813.000 euro 
+vastleggingskredieten en 813.000 euro 
+vereffeningskredieten toegekend als volume- krediet.  
+Extra kredieten kunnen worden toegekend via de 
+interdepartementale provisie “Veiligheid”, deel 
+“overbevolking” die do or de Ministerraden van 11 april 
+2025 en 12 december 2025 werden goedgekeurd. 
+ 
+Note explicative 
+ 
+Fixation du crédit nécessaire sur base de la population 
+carcérale moyenne attendue et du nombre de journée 
+d’entretien.     
+ 
+Le crédit reprend les gros postes de dépenses suivants : 
+nourriture, habillement, hygiène et matériel de toilette, 
+articles de détente et de sport, frais de lessive, matériel 
+de cuisine et de table, coiffeur –  couture et petit matériel 
+divers, matériel pour la pratique des cultes, transfèrement 
+détenus. 
+ 
+Pour 2026, il est tenu compte d’un accroissement du 
+nombre de détenus par rapport au nombre utilisé comme 
+calcul de base des crédits dans la loi budgétaire 2025 
+(12.404 détenus par rapport à 12.831 au premier 
+quadrimestre 2025).  A cet effet, 813.000 euros  en 
+engagement et 813.000 euros en liquidation sont 
+accordés en 2026 en tant que crédit-volume.  Des crédits 
+supplémentaires pour ront être alloués par moyen de la 
+provision interdépartementale « Sécurité  », partie 
+« surpopulation », approuvée en Conseil des Ministres 
+des 11 avril 2025 et 12 décembre 2025. 
+ \n\n===== PAGE 53 =====\n53
+1281/005DOC 56
+ 
+ 
+   
+ 
+Vastleggingen 17.602 18.130 18.990 18.990 18.990 18.990 Engagement 
+Vereffeningen 17.507 18.130 18.990 18.990 18.990 18.990 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria van de zelfstandige medici, de 
+energiekosten, onderhoud van lokalen en machines, 
+dienstverplaatsingen, zitpenningen, telefonie,… 
+ 
+Voor 2026 wordt rekening gehouden met een 
+toenamevan het aantal gedetineerden ten opzichte van 
+het aantal dat als basis is gebruikt voor de berekening 
+van de kredieten in de begrotingswet 2025 (12.404 
+gedetineerden tegenover 12.831 in het eerste kwartaal 
+van 2025).  Daartoe worden in 2026 624.000 euro 
+vastleggingskredieten en 624.000 euro 
+vereffeningskredieten toegekend als volume- krediet.  
+Extra kredieten kunnen worden toegekend via de 
+interdepartementale provisie “Veiligheid”, deel 
+“overbevolking” die door de Ministerraden van 11 april 
+2025 en 12 december 2025 werden goedgekeurd. 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment les 
+dépenses en matière de frais de bureaux, d’honoraires 
+des médecins indépendants, d’énergies, d’entretien de 
+locaux et de machines, d’indemnités kilométriques, de 
+jetons de présence, de téléphonie,… 
+ 
+ 
+Pour 2026, il est tenu compte d’un accroissement du 
+nombre de détenus par rapport au nombre utilisé comme 
+calcul de base des crédits dans la loi budgétaire 2025 
+(12.404 détenus par rapport à 12.831 au premier 
+quadrimestre 2025).  A cet effet, 624.000 euros  en 
+engagement et 624.000 euros en liquidation sont 
+accordés en 2026 en tant que crédit-volume.  Des crédits 
+supplémentaires pour ront être alloués par moyen de la 
+provision interdépartementale « Sécurité  », partie 
+« surpopulation », approuvée en Conseil des Ministres 
+des 11 avril 2025 et 12 décembre 2025. 
+ 
+B.A. : 12.51.31.742201 A.B. : 12.51.31.742201 
+Tekst : Uitgaven voor de aankoop van duurzame 
+roerende goederen, met uitsluiting van de 
+informaticauitgaven en van het vervoermaterieel 
+Libellé : Dépenses pour l’acquisition de biens meubles 
+durables, à l’exclusion des dépenses informatiques et de 
+matériel de transport 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 497 1.464 1.483 1.455 780 780 Engagement 
+Vereffeningen 663 1.473 1.492 1.464 790 790 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dekt de investeringsuitgaven met 
+betrekking tot de medische uitrusting, machines en 
+meubilair. 
+Note explicative 
+ 
+Cette allocation de base couvre les dépenses relatives 
+aux investissements en matériel médical, machines et 
+mobiliers. 
+32 – Andere werkingsuitgaven 32 – Autres dépenses relatives au fonctionnement 
+B.A. : 12.51.32.121131 A.B. : 12.51.32.121131 
+Tekst : Medische kosten ten behoeve van gedetineerden, 
+voeding en onderhoud van de krachtens de wet tot 
+bescherming van de maatschappij geïnterneerden 
+recidivisten en abnormalen 
+Libellé : Frais médicaux au profit des détenus, nourriture 
+et entretien des récidivistes et anormaux internés en 
+vertu de la loi sur la défense sociale 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 16.500 12.657 13.093 13.093 13.093 13.093 Engagement 
+Vereffeningen 16.306 12.657 13.093 13.093 13.093 13.093 Liquidation 
+ 
+Verklarende nota 
+ 
+Om een uniforme herfinanciering van geneeskundige 
+verzorging voor alle geïnterneerden te realiseren evenals 
+een gelijke behandeling van alle verzekerden, werd er 
+voorzien dat de verplichte verzekering voor 
+Note explicative 
+ 
+Afin d’assurer un refinancement uniforme des soins de 
+santé de tous les internés et un traitement égal de tous 
+les assurés, il avait été prévu qu’à partir du 1 er janvier 
+2018, l’assurance obligatoire soins de santé prenne en \n\n===== PAGE 54 =====\n1281/005DOC 56
+54
+ 
+ 
+   
+ 
+geneeskundige verzorging, de geneeskundige 
+verzorging aan geplaatste geïnterneerden ten laste 
+neemt vanaf 1 januari 2018 volgens de gebruikelijke 
+regels. 
+ 
+Voor geplaatste geïnterneerden zullen aldus de 
+gebruikelijke ZIV regels gelden, net zoals dit steeds het 
+geval is geweest voor geïnterneerden vrij op proef. 
+ 
+Voor 2026 wordt rekening gehouden met een toename 
+van het aantal gedetineerden ten opzichte van het aantal 
+dat als basis is gebruikt voor de berekening van de 
+kredieten in de begrotingswet 2025 (12.404 
+gedetineerden tegenover 12.831 in het eerste kwartaal 
+van 2025).  Daartoe worden in 2026 , 436.000 euro 
+vastleggingskredieten en 436.000 euro 
+vereffeningskredieten toegekend als volume- krediet.  
+Extra kredieten kunnen worden toegekend via de 
+interdepartementale provisie “Veiligheid”, deel 
+“overbevolking” die d oor de Ministerraden van 11 april 
+2025 en 12 december 2025 werden goedgekeurd. 
+charge les soins de santé des internés placés selon les 
+règles ordinaires. 
+ 
+ 
+ 
+Les règles habituelles de l’assurance soins de santé 
+s’appliqueront donc aux internés placés comme aux 
+internés libérés à l’essai. 
+ 
+Pour 2026, il est tenu compte d’un accroissement du 
+nombre de détenus par rapport au nombre utilisé comme 
+calcul de base des crédits dans la loi budgétaire 2025 
+(12.404 détenus par rapport à 12.831 au premier 
+quadrimestre 2025).  A cet effet, 436.000 euros  en 
+engagement et 436.000 euros en liquidation sont 
+accordés en 2026 en tant que crédit-volume.  Des crédits 
+supplémentaires pour ront être alloués par moyen de la 
+provision interdépartementale « Sécurité  », partie 
+« surpopulation », approuvée en Conseil des Ministres 
+des 11 avril 2025 et 12 décembre 2025. 
+B.A. : 12.51.32.330007 A.B. : 12.51.32.330007 
+Tekst : Toelagen aan organismen belast met de 
+therapeutische begeleiding van de daders van seksuele 
+misdrijven 
+Libellé : Subsides à des organismes chargés de 
+l’accompagnement thérapeutique des auteurs 
+d’agressions sexuelles 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 1.024 1.129 1.129 1.129 1.129 1.129 Engagement 
+Vereffeningen 996 1.129 1.129 1.129 1.129 1.129 Liquidation 
+ 
+Verklarende nota 
+ 
+Dit krediet is bestemd voor de toekenning van een 
+toelage aan instellingen en onderzoekscentra als 
+financiële tussenkomst in de personneels - en 
+werkingskosten voor de behandeling van de daders van 
+seksuele misdrijven (Universitair Forensisch Centrum 
+Antwerpen, UPPL Doornik en Steunpunt Brussel). 
+Note explicative 
+ 
+Ce crédit est destiné à l’octroi d’un subside aux 
+établissements et centres de recherche à titre 
+d’intervention financière dans les frais de personnel et de 
+fonctionnement afférents aux traitements d’auteurs 
+d’agressions sexuelles  (Universitair Forensisch Centrum 
+Antwerpen, UPPL Tournai et Centre d’appui bruxellois). 
+ACTIVITEITENPROGRAMMA 51/7 PROGRAMME D’ACTIVITES 51/7 
+Vergoedingen voor nieuwe inrichtingen en centra Redevances pour nouveaux établissements et centres 
+Nagestreefde doelstellingen Objectifs poursuivis 
+Dit programma omvat de kredieten bestemd voor de 
+opvolging van de vergoedingen die contractueel werden 
+vastgelegd voor het gebruik van nieuwe penitentiaire 
+inrichtingen of nieuwe forensisch psychiatrische centra. 
+ 
+ 
+In het kader van het Masterplan 2008-2012-2016 heeft de 
+Regering in 2009 beslist om 4 nieuwe penitentiaire 
+inrichtingen te bouwen volgens een formule van DBFM.  
+De aanbestedende overheid zal na contractsluiting 
+gedurende een periode van 25 jaren een trimes triële 
+vergoeding dienen te betalen voor het gebruik van de 
+inrichting. 
+ 
+Ce programme contient les crédits destinés au suivi des 
+redevances qui ont été déterminées de façon 
+contractuelle en vue de l’usage des nouveaux 
+établissements pénitentiaires ou de nouveaux centres 
+psychiatriques forensiques. 
+ 
+Dans le cadre du Masterplan 2008- 2012-2016, le 
+Gouvernement a décidé, en 2009, de construire  
+4 nouveaux établissements pénitentiaires suivant la 
+formule du DBFM.  Le pouvoir adjudicateur devra, après 
+conclusion du contrat et ce pendant une période de  
+25 ans, pour l’usage de l’établissement payer une 
+redevance trimestrielle. 
+ \n\n===== PAGE 55 =====\n55
+1281/005DOC 56
+ 
+ 
+   
+ 
+Gelet op het structureel karakter wordt ervoor gekozen 
+om deze kredieten af te zonderen in een specifiek 
+programma. 
+Compte tenu du caractère structurel de ces crédits, il a 
+été décidé de les séparer dans un programme spécifique. 
+71 – Goederen en diensten 71 – Biens et services 
+B.A. : 12.51.71.121135 A.B. : 12.51.71.121135 
+Tekst : Contractuele vergoedingen voor het gebruik van 
+nieuwe penitentiaire inrichtingen 
+Libellé : Redevances contractuelles pour l’utilisation des 
+nouveaux établissements pénitentiaires 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 41.310 40.168 46.633 48.306 48.306 51.991 Engagement 
+Vereffeningen 41.668 40.168 46.633 48.306 48.306 51.991 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze vergoedingen (vastgelegd volgens het DBFM-
+principe) betreffen de eerder geopende penitentiaire 
+inrichtingen van Marche- en-Famenne, Beveren, Leuze-
+en-Hainaut en sinds 2023 deze voor Haren en 
+Dendermonde. Volgens de bepalingen van het contract 
+dienen de vergoedingen jaarlijks aangepast te worden 
+aan de evolutie van de index. 
+ 
+Naar aanleiding van de geplande opening van DBFM 
+Antwerpen in het tweede trimester van 2026 wordt een 
+bijkomend bedrag van 5.021.000 euro toegekend om de 
+daaraan verbonden cotractuele vergoedingen te dekken 
+(dus voor 3 trimesters in 2026). 
+Note explicative 
+ 
+Ces redevances (définies selon le principe DBFM) 
+concernent les 3 établissements pénitentiaires ouverts 
+précédemment à savoir Marche- en-Famenne, Beveren 
+et Leuze- en-Hainaut et depuis 2023 ceux de Haren et 
+Termonde. Selon les dispositions du contrat, les 
+redevances doivent être adaptées annuellement à 
+l’évolution de l’index. 
+ 
+Suite à l’ouverture prévue au second trimestre 2026 du 
+DBFM Anvers, un montant de 5.021.000 euros 
+supplémentaire est accordé afin de couvrir les frais  
+contractuels y afférents (donc pour 3 trimestres en 2026). 
+B.A. : 12.51.71.121136 A.B. : 12.51.71.121136 
+Tekst : Contractuele vergoedingen voor de forensische 
+psychiatrische centra (FPC) 
+Libellé : Redevances contractuelles des centres 
+psychiatriques légaux (CPL) 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 28.895 30.084 31.161 31.791 32.754 33.296 Engagement 
+Vereffeningen 28.888 29.950 31.161 31.791 32.754 33.296 Liquidation 
+ 
+Verklarende nota 
+ 
+De kredieten dekken de contractuele vergoedingen voor 
+de FPC Gent en Antwerpen. Volgens de bepalingen van 
+het contract dienen de vergoedingen jaarlijks aangepast 
+te worden aan de evolutie van de index. 
+Note explicative 
+ 
+Les crédits couvrent les redevances contractuelles pour 
+les CPL Gand et Anvers.  Selon les dispositions du 
+contrat, les redevances doivent être adaptées 
+annuellement à l’évolution de l’index. 
+72 – Financiering transitiehuizen 72 – Financement des maisons de transitions 
+B.A. : 12.51.72.313201 A.B. : 12.51.72.313201 
+Tekst : Transitiehuizen (Commerciële uitbaters) Libellé : Maisons de transitions (Opérateurs 
+commerciaux) 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 3.788 3.905 3.905 5.665 5.665 5.665 Engagement 
+Vereffeningen 3.359 4.312 4.312 5.665 5.665 5.665 Liquidation 
+ 
+Verklarende nota 
+ 
+De transitiehuizen worden voorzien ten einde in een 
+Note explicative 
+ 
+Les maisons de transition sont créées pour apporter une \n\n===== PAGE 58 =====\n1281/005DOC 56
+58
+ 
+ 
+   
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria, de energiekosten, onderhoud van lokalen 
+en machines, dienstverplaatsingen, zitpenningen, 
+telefonie,… 
+ 
+Het budget voor 2026 is met 1.000 euro verlaagd als 
+gevolg van de besparingsmaatregelen met betrekking tot 
+buitenlandse reizen die de regering tijdens de 
+ministerraad van 12 december 2025 heeft genomen. 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment, les 
+dépenses en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie,… 
+ 
+Le budget 2026 est diminué de 1.000 euros suite aux 
+décisions d’économie relatives aux voyages à l’étranger 
+prise par le gouvernement en conseil des ministres du  
+12 décembre 2025. 
+B.A. : 12.53.02.121104 A.B. : 12.53.02.121104 
+Tekst : Allerhande werkingsuitgaven met betrekking tot 
+de informatica 
+Libellé : Dépenses diverses de fonctionnement relatives 
+à l’informatique 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 225 249 252 252 252 252 Engagement 
+Vereffeningen 218 249 252 252 252 252 Liquidation 
+ 
+Verklarende nota 
+ 
+Zie tekst. 
+Note explicative 
+ 
+Voir libellé. 
+B.A. : 12.53.02.121107 A.B. : 12.53.02.121107 
+Tekst : Uitgaven voor uitzonderlijke aankopen van niet -
+duurzame goederen en van diensten 
+Libellé : Dépenses pour achats exceptionnels de biens 
+non durables et de services 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 24 35 35 35 35 35 Engagement 
+Vereffeningen 21 35 35 35 35 35 Liquidation 
+ 
+Verklarende nota 
+ 
+Kosten van eerste inrichting en verhuiskosten. 
+Note explicative 
+ 
+Frais de première installation et de déménagements. 
+B.A.: 12.53.02.741001 A.B. : 12.53.02.741001 
+Tekst: Uitgaven voor de aankoop van het 
+vervoermaterieel 
+Libellé : Dépenses pour l’acquisition de matériel de 
+transport 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen - 21 21 21 21 21 Engagement 
+Vereffeningen - 21 21 21 21 21 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dekt de uitgaven met betrekking tot 
+de aankoop van functie- en/of dienstwagens. 
+Note explicative 
+ 
+Cette allocation de base couvre les dépenses en matière 
+d’achat de véhicules de service et/ou de fonction. 
+B.A. : 12.53.02.742201 A.B. : 12.53.02.742201 
+Tekst: Uitgaven voor de aankoop van duurzame roerende 
+goederen, met uitsluiting van de informaticauitgaven en 
+van het vervoermaterieel 
+Libellé : Dépenses pour l’acquisition de biens meubles 
+durables, à l’exclusion des dépenses informatiques et de 
+matériel de transport 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 10 19 19 19 19 19 Engagement \n\n===== PAGE 60 =====\n1281/005DOC 56
+60
+ 
+ 
+   
+ 
+02 – Werkingskosten 02 – Frais de fonctionnement 
+In dit programma zijn de werkingskosten opgenomen van 
+de buitendiensten en van het administratief personeel 
+van de Veiligheid van de Staat. 
+Dans ce programme de subsistance sont repris les frais 
+de fonctionnement des services extérieurs et du 
+personnel administratif de la Sûreté de l’Etat. 
+B.A. : 12.55.02.121101 A.B. : 12.55.02.121101 
+Tekst : Bestendige uitgaven voor de aankoop van niet -
+duurzame goederen en van diensten (met uitsluiting van 
+de informaticauitgaven) 
+Libellé : Dépenses permanentes pour achats de biens 
+non durables et de services (à l’exclusion des dépenses 
+informatiques) 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 5.781 6.779 6.879 6.911 6.911 6.911 Engagement 
+Vereffeningen 5.016 6.675 6.774 6.805 6.805 6.805 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria, de energiekosten, onderhoud van lokalen 
+en machines, dienstverplaatsingen, zitpenningen, 
+telefonie,… 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment, les 
+dépenses en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie,… 
+B.A. : 12.55.02.121104 A.B. : 12.55.02.121104 
+Tekst : Allerhande werkingsuitgaven met betrekking tot 
+de informatica 
+Libellé : Dépenses diverses de fonctionnement relatives 
+à l’informatique 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 7.115 3.212 3.760 3.774 3.774 3.774 Engagement 
+Vereffeningen 4.248 3.196 3.744 3.755 3.755 3.755 Liquidation 
+ 
+Verklarende nota 
+ 
+Een bijkomend krediet van 500.000 euro wordt voorzien 
+voor de hervorming van de NVO. 
+Note explicative 
+ 
+Un crédit supplémentaire de 500.000 euros est prévu 
+pour la réforme de l’ANS. 
+B.A. : 12.55.02.121199 A.B. : 12.55.02.121199 
+Tekst : Forfaitaire en andere onkostenvergoedingen 
+(fiscaal niet belastbaar) aan het personeel 
+Libellé : Indemnités forfaitaires et autres (fiscalement non 
+imposables) au personnel 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 280 - - - - - Engagement 
+Vereffeningen 280 - - - - - Liquidation 
+ 
+Verklarende nota 
+ 
+Vanaf het begrotingsjaar 2012 wordt de aanrekening van 
+dit type vergoedingen afgescheiden van de gebruikelijke 
+basisallocatie 121101 omwille van de betaling via de 
+dienst “Persopoint”. 
+Note explicative 
+ 
+Depuis l’année budgétaire 2012, l’imputation de ce type 
+de frais est séparé de l’allocation de base habituelle  
+121101 en raison du paiement via le service 
+« Persopoint ». 
+B.A. : 12.55.02.121206 A.B. : 12.55.02.121206 
+Tekst : Huur van onroerende goederen Libellé : Loyers de biens immobiliers 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 11 12 - - - - Engagement 
+Vereffeningen 11 12 - - - - Liquidation 
+ \n\n===== PAGE 66 =====\n1281/005DOC 56
+66
+ 
+ 
+   
+ 
+ Dienst gerechtskosten  Service frais de justice 
+Staat in foor het ter beschikking stellen van de nodige 
+kredieten inzake gerechtskosten aan de nieuwe bureaus 
+voor gerechtskosten die zullen instaan voor het beheren, 
+verifiëren en betalen van de gemaakte gerechtskosten in 
+strafzaken aan de gevorderde gerechtsdeskundigen.  Het 
+centrale bureau voor gerechtskosten bij de FOD staat in 
+voor het opvolgen van de benutting van de beschikbare 
+kredieten inzake gerechtskosten. 
+Veille à mettre à la disposition des nouveaux bureaux de 
+frais de justice les crédits nécessaires en matière de frais 
+de justice.  Ces bureaux vont gérer, vérifier et payer aux 
+experts judiciaires requis les frais de justice exposés en 
+matière répressive.  Le bureau central des frais de justice 
+auprès du SPF assure le suivi de l’utilisation des crédits 
+disponibles en matière de frais de justice. 
+ Dienst centraal strafregister  Service casier judiciaire central 
+Staat in voor het invoeren in de centrale gegevensbank 
+van de strafrechtelijke beslissingen uitgesproken door de 
+Belgische en buitenlandse gerechtelijke diensten tegen 
+Belgische onderdanen en door Belgische gerechtelijke 
+diensten tegen buitenlandse onderdanen. 
+Introduit dans la banque de données centrale les 
+décisions pénales prononcées par les services judiciaires 
+belges et étrangers à charge de ressortissants belges et 
+par les services judiciaires belges à charge des 
+ressortissants étrangers. 
+De dienst verstrekt uittreksels uit het strafregister aan de 
+nationale gerechtelijke diensten, aan de politie-  en 
+inlichtingendiensten, aan de strafregisters van de 
+Europese unie, aan de bij KB daartoe gemachtigde 
+administratieve overheden en aan de privépersonen die 
+erom verzoeken. 
+Délivre les extraits du casier judiciaire aux services 
+judiciaires nationaux, aux services de police et de 
+renseignements, aux casiers judiciaires de l’Union 
+européenne, aux autorités administratives y autorisées 
+par AR et aux particuliers qui le demandent. 
+ Dienst nationaal register van gerechtsexperten 
+en vertalers en tolken 
+ Service registre national des experts judiciaires 
+et des traducteurs et interprètes 
+Staat in voor het beheer van de registers en verzorgt het 
+secretariaat dat de aanvragen tot opname in het register 
+voorlegt aan de aanvaardingscommissie. 
+Il assure la gestion des registres et du secrétariat qui 
+soumet les demandes d’admission au registre à la 
+Commission d’acceptation. 
+Directie Infrastructuur Direction Infrastructure 
+De directie infrastructuur voert, in samenwerking met de 
+diensten van de Regie der gebouwen en de diensten 
+belast met preventie en bescherming op het werk (IDPB), 
+het volledige takenpakket van projectontwerper uit voor 
+alle werkzaamheden in het kader van de bouw, de 
+uitbreiding of de verbetering van de gebouwen met het 
+oog op een gepaste huisvesting voor de gerechtelijke 
+diensten. 
+La direction infrastructure, en collaboration avec les 
+services de la Régie des bâtiments et les services 
+chargés de la prévention et de la protection du travail 
+(SIPP), exécute les tâches complètes d’auteur de projet 
+pour tous travaux de construction, d’agrandissement ou 
+d’amélioration des bâtiments en vue d’une installation 
+adéquate des services judiciaires. 
+Zij zorgt voor de instandhouding en het onderhoud van 
+de gebouwen en de technische installaties (met inbegrip 
+van het veiligheidsaspect). 
+Elle assure la maintenance et l’entretien des bâtiments et 
+des installations techniques (en ce compris l’aspect 
+sécurisation). 
+Zij zorgt eveneens voor de uitrusting en de materiële 
+behoeften van de gerechtelijke diensten. 
+Elle veille également à l’équipement et aux besoins 
+matériels des services judiciaires. 
+Centraal Orgaan voor de Inbeslagneming en de 
+Verbeurdverklaring (C.O.I.V.) als onderdeel van  
+de rechterlijke orde 
+Organes Central pour la Saisie et la Confiscation 
+(O.C.S.C.) dans le cadre de l’ordre judiciaire 
+Overeenkomstig de Europese richtlijn nr. 91/308 werd 
+een gespecialiseerde dienst opgericht inzake de 
+bijzondere verbeurdverklaring en ontneming van 
+vermogensvoordelen verkregen uit misdrijven, genaamd 
+“Centraal Orgaan voor de inbeslagneming en de 
+Verbeurdverklaring”. 
+Conformément à la directive Européenne n° 91/308 il a 
+été créé un service spécialisé relatif à la confiscation 
+particulière et la saisie de biens d’origine criminelle, 
+nommé «  Organe Central pour la Saisie et la 
+Confiscation ». 
+Deze dienst heeft als doel: 
+ 
+Ce service a pour objectif : 
+ \n\n===== PAGE 67 =====\n67
+1281/005DOC 56
+ 
+ 
+   
+ 
+- fungeren als informatiepunt inzake 
+inbeslagneming; 
+- ondersteuning bieden in dossiers aan de leden 
+van het Openbaar ministerie teneinde tot een 
+efficiënt en uniform criminaliteitsbeleid te komen, 
+gericht op de patrimoniale bestraffing van diverse 
+criminaliteitsfenomenen, voornamelijk gericht 
+tegen de bijzond er winstgevende 
+georganiseerde criminaliteit. 
+- de fonctionner en tant que point d’information en 
+matière de confiscation ; 
+- d’offrir un appui par dossier aux membres du 
+Ministère public, afin d’arriver à une politique 
+criminelle efficace, uniforme et coordonnée sur la 
+répression patrimoniale des phénomènes de 
+criminalité qui sont principalement orientés vers 
+des formes particul ièrement lucratives de 
+délinquance organisée.  
+BESTAANSMIDDELENPROGRAMME 56/0 PROGRAMME DE SUBSISTANCE 56/0 
+01 – Personeelsuitgaven 01 – Dépenses de personnel  
+(in duizenden euro) (en milliers d’euros) 
+ 01.11.00.03 01.11.00.04 Totaal / Total 
+2024 (rea) 10.142 29.738 39.880 
+2025 (vak/eng) 22.738 26.513 49.251 
+2026 (vak/eng) 23.193 10.341 33.534 
+ 
+Verklarende nota 
+ 
+Dit activiteitenprogramma centraliseert alle 
+personeelskredieten.  Het enige verschil ligt nog bij de 
+statutairen of contractuelen. 
+ 
+Er dient genoteerd dat de personeelskredieten van de 
+twee colleges (activiteitenprogramma 7 en 8) en van het  
+Hof van Cassatie (activiteitenprogramma 9) afgezonderd 
+blijven. 
+Note explicative 
+ 
+Ce programme d’activité centralise tous les crédits en 
+matière de personnel.  La seule distinction faite est celle 
+des statutaires ou contractuels. 
+ 
+A noter que les crédits de personnel de deux collèges 
+(programmes d’activités 7 et 8) et de la Cour de 
+Cassation (programme d’activité 9) sont séparés. 
+De wedden van de personeelsleden van het niveau A, de 
+griffiers en de secretarissen, zijn vastgesteld bij artikelen 
+370 en 372 van het Gerechtelijk wetboek (gewijzigd bij 
+wet van 10 april 2014). 
+Les traitements des membres du personnel du niveau A, 
+des greffiers et des secrétaires ont été fixés aux articles 
+370 et 372 du Code judiciaire (modifiés par la loi  du 10 
+avril 2014). 
+De wedden van de (administratief) deskundigen, 
+assistenten en medewerkers worden vastgesteld bij 
+koninklijk besluit van 10 november 2006 (gewijzigd bij 
+koninklijk besluit van 25 april 2014). 
+Les traitements des collaborateurs, assistants et experts 
+(administratifs) sont fixés par l’arrêté royal  
+du 10 novembre 2006 (modifié par l’arrêté royal  
+du 25 avril 2014). 
+De wedden van de vertalers, eerstaanwezend vertalers, 
+opstellers, eerstaanwezend opstellers, beambten, 
+eerstaanwezend beambten, boden, eerstaanwezend 
+boden en hoofboden van de griffies en parketten en van 
+de attachés in de dienst van documentatie en 
+overeenstemming der teksten bij het Hof van Cassatie 
+worden vastgesteld door de Koning (op basis van artikel 
+380 van het Gerechtelijk wetboek en gestipuleerd in het 
+K.B. van 19 maart 1996). 
+Les traitements des traducteurs, des traducteurs 
+principaux, des rédacteurs, des rédacteurs principaux, 
+des employés, des employés principaux, des huissiers, 
+des huissiers principaux et des huissiers en chef des 
+greffes et parquets  ; et des attachés au ser vice de la 
+documentation et de la concordance des textes auprès 
+de la Cour de Cassation ont été fixés par la Roi (sur base 
+de l’article 380 du Code judiciaire et stipulé dans l’A.R. du 
+19 mars 1996). 
+Een bedrag van 16.702.000 euro wordt overgedragen 
+naar BA 12.56.70.110004 en 12.56.80.110004 voor 
+respectievelijk 15.932.000 euro en 770.000 euro om de 
+uitgaven voor het onderhoudspersoneel correct te 
+boeken. 
+Un montant de 16.702.000 euros est transféré vers les 
+AB 12.56.70.110004 et 12.56.80.110004 respectivement 
+pour 15.932.000 euros et 770.000 euros afin d’imputer 
+correctement les dépenses relatives au personnel 
+d’entretien. 
+02 – Werkingskosten 02 – Frais de fonctionnement 
+B.A. : 12.56.02.121101 A.B. : 12.56.02.121101 
+Tekst : Bestendige uitgaven voor de aankoop van niet -
+duurzame goederen en van diensten (met uitsluiting van 
+Libellé : Dépenses permanentes pour achats de biens 
+non durables et de services (à l’exclusion des dépenses \n\n===== PAGE 68 =====\n1281/005DOC 56
+68
+ 
+ 
+   
+ 
+de informaticauitgaven) informatiques) 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 65.201 48.366 49.103 49.134 49.134 49.134 Engagement 
+Vereffeningen 61.937 48.591 49.331 49.362 49.362 49.362 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot de werking van de rechterlijke orde 
+waaronder onder andere de bureaubenodigdheden, de 
+honoraria, de energiekosten, onderhoud van lokalen en 
+machines, dienstverplaatsingen, zitpenningen, telefonie, 
+post, onderhoudscontracten voor de gerechtsgebouwen, 
+onderhoud van beveiligingsinstallaties,… 
+ 
+Naar aanleiding van de beslissing van de regering van 12 
+december 2025 wordt het budget met 108.000 euro 
+verhoogd om enerzijds de werkingskosten te dekken in 
+het kader van de strijd tegen fiscale en sociale fraude dat 
+het departement moet voeren en anderzijds in het kader 
+van de oprichting van het nationaal financieel parket. 
+ 
+Het budget voor 2026 is met 21.000 euro verlaagd als 
+gevolg van de besparingsmaatregelen met betrekking tot 
+buitenlandse reizen die de regering tijdens de 
+ministerraad van 12 december 2025 heeft genomen. 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment, les 
+dépenses concernant le fonctionnement de l’ordre 
+judiciaire en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie, de poste, des contrats d’entretien pour les 
+bâtiments judiciaires, d’entretien des installations de 
+sécurité,… 
+ 
+Suite à la décision du gouvernement en date du 12 
+décembre 2025, l e budget est augmenté de 108.000 
+euros afin de couvrir les frais de fonctionnement dans le 
+cadre de la lutte contre la fraude fiscale et sociale à 
+laquelle le département doit faire face d’une part, et dans 
+le cadre de la création du parquet financier national 
+d’autre part. 
+ 
+Le budget 2026 est diminué de 21.000 euros suite aux 
+décisions d’économie relatives aux voyages à l’étranger 
+prise par le gouvernement en conseil des ministres du  
+12 décembre 2025 
+B.A. : 12.56.02.121107 A.B. : 12.56.02.121107 
+Tekst : Uitgaven voor uitzonderlijke aankopen van niet -
+duurzame goederen en van diensten 
+Libellé : Dépenses pour achats exceptionnels de biens 
+non durables et de services 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 671 898 910 910 910 910 Engagement 
+Vereffeningen 388 902 914 914 914 914 Liquidation 
+ 
+Verklarende nota 
+ 
+Kosten van onder meer eerste inrichting en 
+verhuiskosten. 
+Note explicative 
+ 
+Frais de première installation et de déménagements 
+entre autres. 
+B.A. : 12.56.02.121199 A.B. : 12.56.02.121199 
+Tekst : Forfaitaire en andere onkostenvergoedingen 
+(fiscaal niet belastbaar) aan het personeel 
+Libellé : Indemnités forfaitaires et autres (fiscalement non 
+imposables) au personnel 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 2.111 82 84 84 84 84 Engagement 
+Vereffeningen 2.111 82 84 84 84 84 Liquidation 
+ 
+Verklarende nota 
+ 
+Vanaf het begrotingsjaar 2012 wordt de aanrekening van 
+dit type vergoedingen afgescheiden van de gebruikelijke 
+basisallocatie 121101 omwille van de betaling via de 
+dienst “Persopoint”. 
+ 
+Note explicative 
+ 
+Depuis l’année budgétaire 2012, l’imputation de ce type 
+de frais est séparé de l’allocation de base habituelle  
+121101 en raison du paiement via le service 
+« Persopoint ».   
+ \n\n===== PAGE 74 =====\n1281/005DOC 56
+74
+ 
+ 
+   
+ 
+• De bewaking van het proces in zijn 
+operationalisering; 
+• De coördinatie met alle actoren en 
+belanghebbenden; 
+• Het change management voor de actoren  
+• De communicatie naar het publiek; 
+• De rapportage en statistieken; 
+• Het beheer van de projecten 
+verkeersveiligheidsfonds (9% aandeel Justitie); 
+• Het beheer van klachten; 
+• Het beheer van contracten met de verschillende 
+externe leveranciers; 
+• Het beheer van de preventiecampagnes; 
+• Het beheer van de verschillende investeringen; 
+• Het beheer van alle procesveranderingen die op 
+komst zijn; 
+• Het beheer van de impact van de zesde 
+staatshervorming en vooral de regionalisering 
+van bepaalde verkeersovertredingen. 
+ 
+En anderzijds de voortzetting van de investeringen in het 
+IT-platform voor de afhandeling van de boetes en 
+toevoeging van nieuwe functionaliteiten en modaliteiten. 
+ 
+Activiteit 06 bevat  het Crossborder budget dat 
+gerelateerd is aan de ontvangsten die gerealiseerd 
+worden voor: 
+• Enerzijds de administratieve toeslag per boete.  
+Vanaf 23 augustus 2021 werd een bijkomende, 
+administratieve toeslag geheven op de boetes 
+die via het Crossborder-platform worden geïnd. 
+Voortaan betalen overtreders dus mee aan de 
+administratieve en operationele 
+verwerkingskosten van het platform; 
+ 
+• Anderzijds het aandeel van de FOD Justitie in de 
+opbrengsten van de verkeersboetes in uitvoering 
+van artikel 4 van de Wet van 6 december 2005. 
+Een wetswijziging heeft dit percentage op 9% 
+gebracht. 
+ 
+Het budget van activiteit 06 wordt ook opgedeeld volgens 
+quasi dezelfde basisallocaties als in activiteit 05. 
+• La surveillance du processus dans son 
+opérationnalisation ; 
+• La coordination avec tous les acteurs et les 
+parties prenantes ; 
+• Le change management pour les acteurs ; 
+• La communication vers le public ; 
+• Le rapportage et les statistiques ; 
+• La gestion des projets fonds de sécurité routière 
+(part de 9% de la Justice) ; 
+• La gestion des plaintes ; 
+• La gestion des contrats avec les différents 
+fournisseurs ; 
+• La gestion des campagnes de prévention ; 
+• La gestion des différents investissements ; 
+• La gestion de tous les changements de 
+processus à venir ; 
+• La gestion de l’impact de la sixième réforme de 
+l’état et particulièrement la régionalisation de 
+certaines infractions routières. 
+ 
+Et d’autre part la poursuite des investissements dans la 
+plateforme IT pour le traitement des amendes et l’ajout 
+de nouvelles fonctionnalités et modalités. 
+ 
+ 
+L’activité 06 contient le budget Crossborder qui est liée 
+aux recettes qui sont réalisées par : 
+ 
+• D’une part, la redevance administrative par 
+amende. Depuis le 23 aout 2021 un supplément 
+adminsitratif est prélevé sur les amendes qui sont 
+perçues via la plateforme Crossborder. 
+Dorénavant les contrevenants participent donc 
+au paiement des frais de traitement administratifs 
+et opératonnels de la plateforme ; 
+ 
+• D’autre part, la quote- part du SPF Justice dans 
+les recettes des infractions routières en 
+exécution de l’article 4 de la Loi du 6 décembre 
+2005. Une modification législative a porté ce 
+pourcentage à 9%. 
+ 
+Le budget de l’activité 06 est également subdivisé d’après 
+quasiment les mêmes allocations de base que celles de 
+l’activité 05. 
+Werkingskosten Frais de fonctionnement 
+B.A. : 12.56.05.121101 A.B. : 12.56.05.121101 
+Tekst : Bestendige uitgaven voor de aankoop van niet -
+duurzame goederen en van diensten (met uitsluiting van 
+de informaticauitgaven) 
+Libellé : Dépenses permanentes pour achats de biens 
+non durables et de services (à l’exclusion des dépenses 
+informatiques) 
+ 
+ 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 14 144 146 146 146 146 Engagement 
+Vereffeningen 182 144 146 146 146 146 Liquidation 
+ \n\n===== PAGE 75 =====\n75
+1281/005DOC 56
+ 
+ 
+   
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria, de energiekosten, onderhoud van lokalen 
+en machines, dienstverplaatsingen, zitpenningen, 
+telefonie,… 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment, les 
+dépenses en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie,… 
+B.A. : 12.56.05.121104 A.B. : 12.56.05.121104 
+Tekst : Allerhande werkingsuitgaven met betrekking tot 
+de informatica, verbonden aan de inning van 
+verkeersboetes, in nationaal en internationaal kader 
+Libellé : Dépenses diverses de fonctionnement relatives 
+à l’informatique, liées à la perception des amendes 
+routières dans le cadre national et international 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 1.825 2.052 7.144 7.144 7.144 7.144 Engagement 
+Vereffeningen 3.131 2.052 7.144 7.144 7.144 7.144 Liquidation 
+ 
+Verklarende nota 
+ 
+Het betreft het jaarlijkse onderhoud van de applicaties en 
+de support voor het onlineplatform. 
+ 
+Een bedrag van 5.065.000 euro wordt overgedragen naar 
+BA 12.56.05.742204 
+Note explicative  
+ 
+Cela concerne l’entretien annuel des applications et la 
+maintenance de la plateforme online. 
+ 
+Un montant de 5.065.000 euros est transféré de l’AB 
+12.56.05.742204. 
+B.A. : 12.56.05.121124 A.B. : 12.56.05.121124 
+Tekst : Werkingsuitgaven verbonden aan de inning van 
+verkeersboetes, in nationaal en internationaal kader 
+Libellé : Dépenses de fonctionnement liées à la 
+perception des amendes routières dans le cadre national 
+et international 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 268 398 403 403 403 403 Engagement 
+Vereffeningen 4.163 398 403 403 403 403 Liquidation 
+ 
+Verklarende nota 
+ 
+Het betreft hoofdzakelijk kosten voor drukken en 
+verzenden van de schuldvorderingen, kosten voor het 
+callcenter en kosten voor de betalingstransacties. 
+Note explicative 
+ 
+Il s’agit essentiellement des frais pour l’impression et 
+l’envoi des déclarations de créances, des frais pour le 
+callcenter et des frais pour les transactions de paiement. 
+B.A. : 12.56.05.122120 A.B. : 12.56.05.122120 
+Tekst : Personeel Egov en Smals Libellé : Personnel Egov et Smals 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen - - 103 103 103 103 Engagement 
+Vereffeningen - - 103 103 103 103 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie heeft tot doel de kosten af te 
+zonderen van het personeel dat aangeworven wordt via 
+een contract met Egov Select of de vzw Smals. 
+ 
+Het bedrag van 103.000 euro is afkomstig van BA 
+12.56.05.741001. 
+Note explicative 
+ 
+Cette allocation de base vise à isoler le coût du personnel 
+recruté dans le cadre d'un contrat avec Egov Select ou 
+l’asbl Smals. 
+ 
+Le montant de 103.000 euros provient de l’AB 
+12.56.05.741001. 
+B.A. : 12.56.05.741001 A.B. : 12.56.05.741001 \n\n===== PAGE 77 =====\n77
+1281/005DOC 56
+ 
+ 
+   
+ 
+ 
+• Ten eerste de beslissing om 
+voorzichtigheidshalve een budget van 
+56.320.000 euro in de interdepartementale 
+provisie van de sectie 06 BOSA in te schrijven (in 
+plaats van op de BA 12.56.06.121124).  Dit wordt 
+gedaan in afwachting van de onderhandelingen 
+met bpost over de lopende contracten ; 
+ 
+• Ten tweede de verhoging van het aandeel van de 
+FOD Justitie (van 5% naar 9%) in de federale 
+opbrengst van de verkeersboetes. Het 9% 
+aandeel wordt geraamd op 17.292.000 euro.  
+ 
+• Dit totaalbudget wordt verdeeld op de volgende 
+basisallocaties van activiteit 06. 
+ 
+• Primo, la décision d’inscrire, par mesure de 
+sécurité,  un budget de 56.320.000 euros dans la 
+provision interdépartementale de la section 06 
+BOSA (en lieu et place de l’AB 12.56.06.121124). 
+Ceci est effectué en attendant les négociations 
+avec bpost sur les contrats en cours ; 
+ 
+ 
+• Secundo, l’augmentation de la quote- part du 
+SPF Justice (de 5 % à 9%) dans les recettes 
+fédérales des amendes routières. La part des 9% 
+est estimée à 17.292.000 euros. 
+ 
+• Ce budget total est réparti sur les allocations de 
+base suivantes de l’activité 06. 
+Personeelsuitgaven Dépenses de personnel 
+(in duizenden euro) (en milliers d’euros) 
+ 06.11.00.03 06.11.00.04 Totaal / Total 
+2024 (rea) - - - 
+2025 (vak/eng) 883 - 883 
+2026 (vak/eng) 939 - 939 
+ 
+Verklarende nota 
+ 
+Complementair budget voorzien voor de uitbouw van een 
+Beheersdienst crossborder op het niveau van het 
+departement. 
+ 
+De kredieten in de activiteit 06 evolueren in functie van 
+bepaalde ontvangsten (zijnde de administratieve toeslag 
+en het 9% aandeel van Justitie in de federale 
+opbrengsten inzake verkeersboetes). In het budget voor 
+2026 wordt een volumeverhoging op jaarbasis 
+ingecalculeerd van 38.000 euro.   
+Note explicative 
+ 
+Budget complémentaire prévu pour le déploiement d’un 
+Service de gestion crossborder  au niveau du 
+département. 
+ 
+Les crédits de l’activité 06 évoluent en fonction des 
+certaines recettes (étant la redevance administrative et la 
+quote-part de la Justice de 9% dans les recettes 
+fédérales des amendes routières). Dans le budget de 
+2026, une augmentation de volume de 38.000 euros sur 
+base annuelle est prise en compte. 
+Werkingskosten Frais de fonctionnement 
+B.A. : 12.56.06.121101 A.B. : 12.56.06.121101 
+Tekst : Bestendige uitgaven voor de aankoop van niet -
+duurzame goederen en van diensten (met uitsluiting van 
+de informaticauitgaven) 
+Libellé : Dépenses permanentes pour achats de biens 
+non durables et de services (à l’exclusion des dépenses 
+informatiques) 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 50 70 73 78 83 83 Engagement 
+Vereffeningen 29 70 73 78 83 83 Liquidation 
+ 
+Verklarende nota 
+ 
+Deze basisallocatie dient tot dekking van de uitgaven met 
+betrekking tot onder andere de bureaubenodigdheden, 
+de honoraria, de energiekosten, onderhoud van lokalen 
+en machines, dienstverplaatsingen, zitpenningen, 
+telefonie,… 
+ 
+De kredieten in de activiteit 06 evolueren in functie van 
+bepaalde ontvangsten (zijnde de administratieve toeslag 
+en het 9% aandeel van Justitie in de federale 
+Note explicative 
+ 
+Cette allocation de base vise à couvrir, notamment, les 
+dépenses en matière de frais de bureaux, d’honoraires, 
+d’énergies, d’entretien de locaux et de machines, 
+d’indemnités kilométriques, de jetons de présence, de 
+téléphonie,… 
+ 
+Les crédits de l’activité 06 évoluent en fonction des 
+certaines recettes (étant la redevance administrative et la 
+quote-part de la Justice de 9% dans les recettes \n\n===== PAGE 78 =====\n1281/005DOC 56
+78
+ 
+ 
+   
+ 
+opbrengsten inzake verkeersboetes). In het budget voor 
+2026 wordt een volumeverhoging op jaarbasis 
+ingecalculeerd van 2.000 euro.   
+fédérales des amendes routières). Dans le budget de 
+2026 une augmentation volume est calculée de  
+2.000 euros  sur base annuelle. 
+B.A. : 12.56.06.121104 A.B. : 12.56.06.121104 
+Tekst : Allerhande werkingsuitgaven met betrekking tot 
+de informatica, verbonden aan de inning van 
+verkeersboetes, in nationaal en internationaal kader 
+Libellé : Dépenses diverses de fonctionnement relatives 
+à l’informatique, liées à la perception des amendes 
+routières dans le cadre national et international 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 8.601 13.512 14.806 18.143 19.492 19.946 Engagement 
+Vereffeningen 4.547 13.512 14.806 18.143 19.492 19.946 Liquidation 
+ 
+Verklarende nota 
+ 
+Het betreft het jaarlijkse onderhoud van de applicaties en 
+de support voor het onlineplatform. 
+ 
+De kredieten in de activiteit 06 evolueren in functie van 
+bepaalde ontvangsten (zijnde de administratieve toeslag 
+en het 9% aandeel van Justitie in de federale 
+opbrengsten inzake verkeersboetes).  In het budget voor 
+2026 wordt een volumeverhoging op jaarbasis 
+ingecalculeerd van 1.118.000 euro.   
+Note explicative  
+ 
+Cela concerne l’entretien annuel des applications et la 
+maintenance de la plateforme online. 
+ 
+Les crédits de l’activité 06 évoluent en fonction des 
+certaines recettes (étant la redevance administrative et la 
+quote-part de la Justice de 9% dans les recettes 
+fédérales des amendes routières). Dans le budget de 
+2026 une augmentation volume est calculée de  
+1.118.000 euros  sur base annuelle. 
+B.A. : 12.56.06.121124 A.B. : 12.56.06.121124 
+Tekst : Werkingsuitgaven verbonden aan de inning van 
+verkeersboetes, in nationaal en internationaal kader 
+Libellé : Dépenses de fonctionnement liées à la 
+perception des amendes routières dans le cadre national 
+et international 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen 44.900 3.765 21.492 47.954 57.291 61.204 Engagement 
+Vereffeningen 43.527 3.765 21.492 47.954 57.291 61.204 Liquidation 
+ 
+Verklarende nota 
+ 
+Het betreft hoofdzakelijk kosten voor drukken en 
+verzenden van de schuldvorderingen, kosten voor het 
+callcenter en kosten voor de betalingstransacties. 
+ 
+De kredieten in de activiteit 06 evolueren in functie van 
+bepaalde ontvangsten (zijnde de administratieve toeslag 
+en het 9% aandeel van Justitie in de federale 
+opbrengsten inzake verkeersboetes).  In het budget voor 
+2026 wordt een volumeverhoging op jaarbasis 
+ingecalculeerd van 17.678.000 euro.   
+Note explicative 
+ 
+Il s’agit essentiellement des frais pour l’impression et 
+l’envoi des déclarations de créances, des frais pour le 
+callcenter et des frais pour les transactions de paiement. 
+ 
+Les crédits de l’activité 06 évoluent en fonction des 
+certaines recettes (étant la redevance administrative et la 
+quote-part de la Justice de 9% dans les recettes 
+fédérales des amendes routières). Dans le budget de 
+2026 une augmentation volume est calculée de 
+17.678.000 euros sur base annuelle. 
+B.A. : 12.56.06.741001 A.B. : 12.56.06.741001 
+Tekst : Uitgaven voor de aankoop van het 
+vervoermaterieel 
+Libellé : Dépenses pour l’acquisition de matériel de 
+transport 
+(in duizenden euro) 2024 2025 2026 2027 2028 2029 (en milliers d’euros) 
+Vastleggingen - - - - - - Engagement 
+Vereffeningen - - - - - - Liquidation 
+ 
+Verklarende nota 
+ 
+Note explicative 
+ 

@@ -8885,3 +8885,18 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_ccrek_fed_jv2025_residual_l5 — ready prio8 (not sent)
 - Next: rq_737; progress@750 in 5; rq_116 deferred
 
+
+### 2026-08-02T10:15:00Z — tick 746
+- Unit: **rq_737** (FOI-adjacent residual — **CoA 2026_24 prisons DBFM residual + Justice Kamer 1281/005 redev path dual Table41**)
+- Found (primary Kamer DOC 56 1281/005 p.55 + CoA 2026_24 residual vs tick491/725):
+  - **Justice BA 12.51.71.121135** prison redevances eng/liq kEUR: **41310 / 40168 / 46633 / 48306 / 48306 / 51991** (2024–2029); sum eng **€276.714m**
+  - **Antwerp** open Q2 2026: **+€5.021m** for **3** trimesters (annualized class ~€6.7m Justice share)
+  - **CPL BA 121136** Gent+Antwerp: **28895 → 33296** kEUR eng 2024–2029; sum eng **€187.981m**; 2026 **€31.161m**
+  - **Combo 2026** prison+CPL Justice redev **€77.794m** (dual Table41 invest-only ~€52.9m 4 prisons + Antwerp invest €17.1m Regie — different perimeter, not additive)
+  - **Transitiehuizen** eng 2026 **€3.905m** commercial + **€2.839m** other = **€6.744m**; cap **100** places; Hamme 2026; sites Mechelen Gentbrugge Leuven Edingen
+  - **CoA residual method:** budget est = last Q ×4 + VAT + Plan index + **3% margin**; fee stack invest / entretien / facilitaires; BMS to May2026 then **+3y**; IWMS still unfunded; recs **9/16/5** of 30; DBM maint horizon **9y** vs DBFM 25y; Justice minister **no reply** to CoA
+  - Dual VL PPP decree 2019 still federal legal vacuum (working group 6 Feb 2026)
+- Wrote: budgets (+34); commitments (+6); leaderboard (+7); sources (+3); FOI draft **gap_dbfm_justice_redev_path_l5**; raw Justice PDF+extract + write script; rq_737=done; spawn **rq_738**; loop_state ticks=746
+- FOI opened: gap_dbfm_justice_redev_path_l5 — ready prio8 (not sent)
+- Next: rq_738; progress@750 in 4; rq_116 deferred
+
