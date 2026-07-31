@@ -7725,3 +7725,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities (+2); budgets (+29); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_caf_family_benefits_l5_2025; rq_644=done; spawn rq_645; loop_state ticks=653
 - FOI opened: gap_caf_family_benefits_l5_2025 -- ready (not sent)
 - Next: rq_645; progress@660 in 7 ticks; rq_116 deferred
+
+### 2026-08-01T05:15:00Z -- tick 654
+- Unit: rq_645 (FOI-adjacent dual ports/admin hole-fill -- **Ports autonomes + DO02/DO09** dual Waterweg)
+- Found: **Ports** (primary CoA Table33): **PAC** BI2025 dep **EUR4.937m** solde **+EUR0.189m**; **PACO** **EUR7.450m** (prior); known BI2025 **EUR12.386m**. **PAL** BI2024 dep **EUR6.722m** solde **+EUR3.863m** / **PAN** **EUR1.693m** — **BI2025 non communique**. All4 BI2024 dep class **EUR19.2m**. **DO02 cabinets:** CE=CL **EUR28.0m** path **-EUR1.7m** exec **63.3%**. **DO09:** CL **EUR208.3m** path **-EUR22.7m** (Tourisme **EUR69.9m** / AWEX **EUR67.5m** / CESE **EUR7.7m** / eWBS path **-EUR1.4m**). Type1 solde **-EUR80.3m**. Dual **Waterweg**. Strong confidence CoA; PAL/PAN FOI residual.
+- Wrote: entities (+6); budgets (+36); commitments (+5); leaderboard (+6); sources (+2); FOI draft gap_ports_do02_do09_l5_2025; rq_645=done; spawn rq_646; loop_state ticks=654
+- FOI opened: gap_ports_do02_do09_l5_2025 -- ready (not sent)
+- Next: rq_646; progress@660 in 6 ticks; rq_116 deferred

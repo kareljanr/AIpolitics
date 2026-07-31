@@ -11980,3 +11980,35 @@ bud_namur_innovation_rec_bi2025,wallonie_entreprendre,2025,700716,,,budgeted,src
 bud_namur_innovation_dep_bi2025,wallonie_entreprendre,2025,365002,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,Namur Innovation dep BI2025 0.365m solde +0.336m; tick653
 bud_imbc2020_rec_bi2025,wallonie_entreprendre,2025,750000,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,IMBC 2020 rec BI2025 0.750m; tick653
 bud_imbc2020_dep_bi2025,wallonie_entreprendre,2025,838800,,,budgeted,src_ccrek_caf_family_benefits_bi2025,strong,IMBC 2020 dep BI2025 0.839m solde -0.089m; tick653
+bud_pal_rec_bi2024,port_autonome_liege,2024,10585000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAL recettes SEC BI2024 10.585m; BI2025 non communique; tick654
+bud_pal_dep_bi2024,port_autonome_liege,2024,6722000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAL depenses SEC BI2024 6.722m solde +3.863m; tick654
+bud_pal_solde_bi2024,port_autonome_liege,2024,3863000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAL solde SEC BI2024 +3.863m; tick654
+bud_pan_rec_bi2024,port_autonome_namur,2024,2485000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAN recettes SEC BI2024 2.485m; BI2025 non communique; tick654
+bud_pan_dep_bi2024,port_autonome_namur,2024,1693000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAN depenses SEC BI2024 1.693m solde +0.792m; tick654
+bud_pan_solde_bi2024,port_autonome_namur,2024,792000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAN solde SEC BI2024 +0.792m; tick654
+bud_ports_known_dep_bi2025,ports_inland_wal_stack,2025,12386334,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAC+PACO dep BI2025 12.386m (PAL/PAN non communique); tick654
+bud_ports_all4_dep_bi2024,ports_inland_wal_stack,2024,19240500,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,PAC+PACO+PAL+PAN dep BI2024 class 19.241m; tick654
+bud_ports_all4_solde_bi2024,ports_inland_wal_stack,2024,5523000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Ports all4 solde BI2024 class +5.523m; tick654
+bud_do02_ce_bi2025,do02_cabinets_wal,2025,28026000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO02 cabinets CE BI2025 28.026m path -1.651m; tick654
+bud_do02_cl_bi2025,do02_cabinets_wal,2025,28026000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO02 cabinets CL BI2025 28.026m; tick654
+bud_do02_exec_12nov2024,do02_cabinets_wal,2024,18788000,,,outturn,src_ccrek_ports_do02_do09_bi2025,strong,DO02 exec CL 12Nov2024 18.788m (63.3pct); tick654
+bud_do02_encours_12nov2024,do02_cabinets_wal,2024,1185000,,,outturn,src_ccrek_ports_do02_do09_bi2025,strong,DO02 encours 12Nov2024 1.185m; tick654
+bud_do02_ce_ba2024,do02_cabinets_wal,2024,29677000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO02 BA2024 CE=CL 29.677m; tick654
+bud_do09_ce_bi2025,do09_services_gov_wal,2025,207075000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 CE BI2025 207.075m path eng -20.928m; tick654
+bud_do09_cl_bi2025,do09_services_gov_wal,2025,208325000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 CL BI2025 208.325m path liq -22.665m; tick654
+bud_do09_exec_12nov2024,do09_services_gov_wal,2024,191924000,,,outturn,src_ccrek_ports_do02_do09_bi2025,strong,DO09 exec CL 12Nov2024 191.924m (83.1pct); tick654
+bud_do09_encours_12nov2024,do09_services_gov_wal,2024,44560000,,,outturn,src_ccrek_ports_do02_do09_bi2025,strong,DO09 encours 12Nov2024 44.560m; tick654
+bud_do09_cese_cl_bi2025,do09_services_gov_wal,2025,7748000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog012 CESE CL BI2025 7.748m; tick654
+bud_do09_service_social_cl_bi2025,do09_services_gov_wal,2025,6067000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog013 Service social CL 6.067m; tick654
+bud_do09_saapc_cl_bi2025,do09_services_gov_wal,2025,5509000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog014 SAAPC cabinets assistance CL 5.509m; tick654
+bud_do09_ewbs_cl_bi2025,do09_services_gov_wal,2025,4489000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog015 e-WBS CL 4.489m path -1.407m eng; tick654
+bud_do09_sg_cl_bi2025,do09_services_gov_wal,2025,742000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog016 Secretariat GW CL 0.742m; tick654
+bud_do09_ministres_sortis_cl_bi2025,do09_services_gov_wal,2025,741000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog017 ministres sortis CL 0.741m; tick654
+bud_do09_iweps_cl_bi2025,do09_services_gov_wal,2025,7742000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog021 IWEPS CL 7.742m flat; tick654
+bud_do09_sca_cl_bi2025,do09_services_gov_wal,2025,6858000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,DO09 prog123 Service commun audit CL 6.858m path +0.655m; tick654
+bud_type1_rec_bi2025,uap_perimeter_wal,2025,279951000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Type1 UAP rec SEC BI2025 279.951m path -52.953m; tick654
+bud_type1_dep_bi2025,uap_perimeter_wal,2025,360268000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Type1 UAP dep SEC BI2025 360.268m path -84.619m solde -80.317m; tick654
+bud_type1_solde_bi2025,uap_perimeter_wal,2025,-80317000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Type1 UAP solde SEC BI2025 -80.317m path +31.666m; tick654
+bud_fonds_bas_carbone_path_zero_bi2025,wallonie_gov,2025,0,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Fonds bas carbone Type1 zeroed BI2025 (BI2024 rec=dep 25m path -25m); tick654
+bud_apaq_w_dep_bi2025,wallonie_gov,2025,14759000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Apaq-W Type2 dep BI2025 14.759m path +3.307m solde -0.562m; tick654
+bud_apaq_w_rec_bi2025,wallonie_gov,2025,14197000,,,budgeted,src_ccrek_ports_do02_do09_bi2025,strong,Apaq-W rec BI2025 14.197m; tick654
