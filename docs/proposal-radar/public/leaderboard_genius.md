@@ -4,7 +4,7 @@ Highest **genius_score** among scored proposals (medium/strong confidence).
 Genius is rare — solid reforms often land mid-high, not 9–10.
 Rubric: [docs/09-proposal-radar.md](../../09-proposal-radar.md)
 
-Last refresh: 2026-07-31 14:03 UTC
+Last refresh: 2026-08-01 14:03 UTC
 
 | Rank | Genius | Clown | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |
 |------|-------:|------:|------:|--------------:|----------------:|------------:|-------|------|
@@ -21,5 +21,5 @@ Last refresh: 2026-07-31 14:03 UTC
 | 11 | 3.5 | 5.5 | -2.0 | 3067.0 | 2016.9 | 25.16 | Volvo Car Gent support package up to EUR 119m (Flanders + federal MoU) | [memo](../analyses/prop_2026_volvo_gent_119m.md) |
 | 12 | 3.0 | 6.5 | -3.5 |  |  |  | Arizona soft rehab of hybrid company-car deductibility | [memo](../analyses/prop_2025_hybrid_car_rehab.md) |
 | 13 | 3.0 | 6.5 | -3.5 | 4123.7 | 2711.9 | 33.83 | Federal energy support: temporary commute km tax credit package (EUR 80m) | [memo](../analyses/prop_2026_energy_commute_taxcredit_80m.md) |
-| 14 | 2.0 | 7.0 | -5.0 | 18.0 | 11.9 | 0.15 | Project subsidy max €350k for 2027 CX World Championships Ostend | [memo](../analyses/prop_2026_wk_veldrijden_ostend.md) |
-| 15 | 1.5 | 8.0 | -6.5 | 1958.8 | 1288.1 | 16.07 | Smaakhaven (Vlaams Culinair Centrum) — €38m relance subsidy trail | [memo](../analyses/prop_2022_smaakhaven_38m.md) |
+| 14 | 2.5 | 7.0 | -4.5 |  |  |  | New federal Regeringsdienst voor Beleidscoordinatie (policy-coordination super-cabinet) | [memo](../analyses/prop_2026_regeringsdienst_beleidscordinatie.md) |
+| 15 | 2.0 | 7.0 | -5.0 | 18.0 | 11.9 | 0.15 | Project subsidy max €350k for 2027 CX World Championships Ostend | [memo](../analyses/prop_2026_wk_veldrijden_ostend.md) |

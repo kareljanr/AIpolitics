@@ -1,15 +1,15 @@
 # Clowns & Genius — weekly pack
 
-Auto-generated 2026-07-31 14:03 UTC.
-Scored proposals in pack universe: **15**.
+Auto-generated 2026-08-01 14:03 UTC.
+Scored proposals in pack universe: **16**.
 
 ## This week’s clowns
 
 - **Smaakhaven (Vlaams Culinair Centrum) — €38m relance subsidy trail** — clown 8.0 / genius 1.5 (index -6.5) · **1958.8 Belasting-FTE** / 1288.1 nettoloon-jaren / **16.07 werkminuten**/werknemer — Flemish government / Toerisme Vlaanderen / City of Antwerp · flanders · [memo](../analyses/prop_2022_smaakhaven_38m.md)
 - **Project subsidy max €350k for 2027 CX World Championships Ostend** — clown 7.0 / genius 2.0 (index -5.0) · **18.0 Belasting-FTE** / 11.9 nettoloon-jaren / **0.15 werkminuten**/werknemer — Diependaele / Depraetere / De Ridder · flanders · [memo](../analyses/prop_2026_wk_veldrijden_ostend.md)
+- **New federal Regeringsdienst voor Beleidscoordinatie (policy-coordination super-cabinet)** — clown 7.0 / genius 2.5 (index -4.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2026_regeringsdienst_beleidscordinatie.md)
 - **Arizona soft rehab of hybrid company-car deductibility** — clown 6.5 / genius 3.0 (index -3.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2025_hybrid_car_rehab.md)
 - **Federal energy support: temporary commute km tax credit package (EUR 80m)** — clown 6.5 / genius 3.0 (index -3.5) · **4123.7 Belasting-FTE** / 2711.9 nettoloon-jaren / **33.83 werkminuten**/werknemer — Federal government De Wever I / Van Peteghem · federal · [memo](../analyses/prop_2026_energy_commute_taxcredit_80m.md)
-- **Federal antifraud revenue path EUR 300m (2026) / 1.2bn legislature + 300 investigators** — clown 6.0 / genius 4.0 (index -2.0) — Jan Jambon / Federal government De Wever I · federal · [memo](../analyses/prop_2026_jambon_antifraud_300m.md)
 
 ## This week’s solid / genius
 
