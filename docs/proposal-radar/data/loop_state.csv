@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-08-01T14:30:00Z,prop_2026_regeringsdienst_beleidscordinatie,7,16,no,tick 7 scored Regeringsdienst Beleidscoordinatie; daily scheduler 019fa3e112ab
+main,analyse,2026-08-02T14:30:00Z,prop_2026_de_ridder_egis_luchthaven_dading,8,17,no,tick 8 scored De Ridder Egis airport dading; daily scheduler 019fa3e112ab

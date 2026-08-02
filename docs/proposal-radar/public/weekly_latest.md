@@ -1,15 +1,15 @@
 # Clowns & Genius — weekly pack
 
-Auto-generated 2026-08-01 14:03 UTC.
-Scored proposals in pack universe: **16**.
+Auto-generated 2026-08-02 14:03 UTC.
+Scored proposals in pack universe: **17**.
 
 ## This week’s clowns
 
 - **Smaakhaven (Vlaams Culinair Centrum) — €38m relance subsidy trail** — clown 8.0 / genius 1.5 (index -6.5) · **1958.8 Belasting-FTE** / 1288.1 nettoloon-jaren / **16.07 werkminuten**/werknemer — Flemish government / Toerisme Vlaanderen / City of Antwerp · flanders · [memo](../analyses/prop_2022_smaakhaven_38m.md)
+- **Flanders-Egis secret settlement (dading) on Deurne and Ostend regional airports** — clown 7.5 / genius 2.0 (index -5.5) · **623.7 Belasting-FTE** / 410.2 nettoloon-jaren / **5.12 werkminuten**/werknemer — Annick De Ridder / Vlaamse Regering / Egis · flanders · [memo](../analyses/prop_2026_de_ridder_egis_luchthaven_dading.md)
 - **Project subsidy max €350k for 2027 CX World Championships Ostend** — clown 7.0 / genius 2.0 (index -5.0) · **18.0 Belasting-FTE** / 11.9 nettoloon-jaren / **0.15 werkminuten**/werknemer — Diependaele / Depraetere / De Ridder · flanders · [memo](../analyses/prop_2026_wk_veldrijden_ostend.md)
 - **New federal Regeringsdienst voor Beleidscoordinatie (policy-coordination super-cabinet)** — clown 7.0 / genius 2.5 (index -4.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2026_regeringsdienst_beleidscordinatie.md)
 - **Arizona soft rehab of hybrid company-car deductibility** — clown 6.5 / genius 3.0 (index -3.5) — Federal government De Wever I · federal · [memo](../analyses/prop_2025_hybrid_car_rehab.md)
-- **Federal energy support: temporary commute km tax credit package (EUR 80m)** — clown 6.5 / genius 3.0 (index -3.5) · **4123.7 Belasting-FTE** / 2711.9 nettoloon-jaren / **33.83 werkminuten**/werknemer — Federal government De Wever I / Van Peteghem · federal · [memo](../analyses/prop_2026_energy_commute_taxcredit_80m.md)
 
 ## This week’s solid / genius
 

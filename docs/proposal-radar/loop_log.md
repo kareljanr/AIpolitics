@@ -280,3 +280,37 @@ Coordination problem real; instrument is new layer + cabinet profiles + dual FOD
 5. ing_e48f01c225 — De Wever+21 premiers EU migration letter
 
 Scheduler 019fa3e112ab still daily.
+
+
+---
+
+## 2026-08-02T14:30Z — tick 8 — analyse prop_2026_de_ridder_egis_luchthaven_dading
+
+### Unit
+nalyse — Flanders-Egis secret dading Deurne/Ostend airports; IF 3x negative; subsidies to 2039.
+
+### Ingest
+- Ran 
+un_pipeline.py: 110 entries, +2 enqueued.
+- Promoted ing_d2bf2bb637 -> scored.
+- Rejected local noise (Londerzeel, Pepingen).
+
+### Scores
+| Field | Value |
+|-------|------:|
+| clownpoints | 7.5 |
+| genius_score | 2.0 |
+| policy_index | -5.5 |
+| recommendation | reject |
+| pain (12.1m forgone claim) | ~624 Belasting-FTE / ~410 nettoloon-jaren / ~5.1 werkminuten |
+
+### Why
+Litigation steelman real; secret mutual wipe + triple IF no + 2039 lock is fiscal-governance clown. Related 96m envelope disputed separately.
+
+### Next queue head
+1. ing_ddd0a86892 — Free-Time vzw 229k (DOGE-adjacent)
+2. ing_ba222759d0 — Brussels e-bikes
+3. ing_5d2990aa80 — warmtenetten
+4. ing_e48f01c225 — De Wever+21 EU migration letter
+
+Scheduler 019fa3e112ab still daily.
