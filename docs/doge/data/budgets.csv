@@ -17895,3 +17895,41 @@ bud_ie_fiscal_2025,city_ieper,2025,36386368,,,outturn,src_ieper_jr2025,strong,J5
 bud_ie_werk_subs_rec_2025,city_ieper,2025,36119739,,,outturn,src_ieper_jr2025,strong,J5 werkingssubsidies ontvangen 36.120m; tick851
 bud_ie_gemeentefonds_2025,city_ieper,2025,17041641,,,outturn,src_ieper_jr2025,strong,Gemeentefonds 17.042m; tick851
 bud_ie_fin_costs_2025,city_ieper,2025,633301,,,outturn,src_ieper_jr2025,strong,J5 financiele kosten 0.633m; tick851
+bud_ld_assets_2025,city_landen,2025,101347443,,,outturn,src_landen_jr2025,strong,Consol stad+OCMW total assets YE2025 101.347m; tick852
+bud_ld_equity_2025,city_landen,2025,65035061,,,outturn,src_landen_jr2025,strong,Nettoactief YE2025 65.035m; tick852
+bud_ld_debt_total_2025,city_landen,2025,36312382,,,outturn,src_landen_jr2025,strong,Total schulden YE2025 36.312m; tick852
+bud_ld_fin_debt_2025,city_landen,2025,27046050,,,outturn,src_landen_jr2025,strong,T4 total financiele schulden YE2025 27.046m (LT 24.784 + ST due 2.262); tick852
+bud_ld_fin_debt_lt_2025,city_landen,2025,24784088,,,outturn,src_landen_jr2025,strong,Financiele schulden LT YE2025 24.784m; tick852
+bud_ld_fin_debt_st_due_2025,city_landen,2025,2261962,,,outturn,src_landen_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.262m; tick852
+bud_ld_pension_prov_2025,city_landen,2025,2664447,,,outturn,src_landen_jr2025,strong,Pensioenvoorzieningen LT YE2025 2.664m; tick852
+bud_ld_cash_2025,city_landen,2025,13504702,,,outturn,src_landen_jr2025,strong,Liquide middelen YE2025 13.505m; tick852
+bud_ld_cap_subs_2025,city_landen,2025,18803999,,,outturn,src_landen_jr2025,strong,Kapitaalsubsidies YE2025 18.804m; tick852
+bud_ld_fva_total_2025,city_landen,2025,9311357,,,outturn,src_landen_jr2025,strong,Financiele vaste activa YE2025 9.311m; tick852
+bud_ld_fva_igs_2025,city_landen,2025,8399643,,,outturn,src_landen_jr2025,strong,Fin VA IGS YE2025 8.400m; tick852
+bud_ld_mva_2025,city_landen,2025,63849681,,,outturn,src_landen_jr2025,strong,Materiele vaste activa YE2025 63.850m; tick852
+bud_ld_onbeschikbaar_2025,city_landen,2025,981393,,,outturn,src_landen_jr2025,strong,Onbeschikbare gelden J2 0.981m; tick852
+bud_ld_expl_rec_2025,city_landen,2025,40341787,,,outturn,src_landen_jr2025,strong,Exploitatieontvangsten 40.342m; tick852
+bud_ld_expl_exp_2025,city_landen,2025,35649256,,,outturn,src_landen_jr2025,strong,Exploitatieuitgaven 35.649m; tick852
+bud_ld_expl_saldo_2025,city_landen,2025,4692531,,,outturn,src_landen_jr2025,strong,Exploitatiesaldo +4.693m; tick852
+bud_ld_invest_exp_2025,city_landen,2025,4100474,,,outturn,src_landen_jr2025,strong,Investeringsuitgaven J2 4.100m; tick852
+bud_ld_invest_rec_2025,city_landen,2025,1573928,,,outturn,src_landen_jr2025,strong,Investeringsontvangsten J2 1.574m; tick852
+bud_ld_invest_saldo_2025,city_landen,2025,-2526547,,,outturn,src_landen_jr2025,strong,Investeringssaldo -2.527m; tick852
+bud_ld_fin_rec_2025,city_landen,2025,293725,,,outturn,src_landen_jr2025,strong,Financieringsontvangsten 0.294m; tick852
+bud_ld_fin_exp_2025,city_landen,2025,2458846,,,outturn,src_landen_jr2025,strong,Financieringsuitgaven 2.459m; tick852
+bud_ld_new_loans_2025,city_landen,2025,95820,,,outturn,src_landen_jr2025,strong,Nieuwe leningen 0.096m (other entities only); tick852
+bud_ld_aflossingen_2025,city_landen,2025,2458846,,,outturn,src_landen_jr2025,strong,Periodieke aflossingen 2.459m; tick852
+bud_ld_afm_2025,city_landen,2025,2769248,,,outturn,src_landen_jr2025,strong,AFM +2.769m; tick852
+bud_ld_afm_corr_2025,city_landen,2025,2875367,,,outturn,src_landen_jr2025,strong,Gecorrigeerde AFM +2.875m; tick852
+bud_ld_bbr_2025,city_landen,2025,15045123,,,outturn,src_landen_jr2025,strong,BBR 15.045m after onbeschikbaar 0.981m; tick852
+bud_ld_budget_result_2025,city_landen,2025,864,,,outturn,src_landen_jr2025,strong,Budgettair resultaat boekjaar +0.001m; tick852
+bud_ld_cum_br_2025,city_landen,2025,16026516,,,outturn,src_landen_jr2025,strong,Gecumuleerd budgettair resultaat 16.027m; tick852
+bud_ld_pnl_result_2025,city_landen,2025,1835844,,,outturn,src_landen_jr2025,strong,Vennootschapsresultaat J5 +1.836m; tick852
+bud_ld_personnel_2025,city_landen,2025,19613100,,,outturn,src_landen_jr2025,strong,J5/T2 bezoldigingen 19.613m; tick852
+bud_ld_toelagen_2025,city_landen,2025,5011739,,,outturn,src_landen_jr2025,strong,Toegestane werkingssubsidies 5.012m (politie 2.284 fire 0.958 AGB 0.243 other 1.129); tick852
+bud_ld_ocmw_aid_2025,city_landen,2025,2244031,,,outturn,src_landen_jr2025,strong,OCMW individuele hulp 2.244m; tick852
+bud_ld_fiscal_2025,city_landen,2025,16577712,,,outturn,src_landen_jr2025,strong,J5 fiscale opbrengsten en boetes 16.578m; tick852
+bud_ld_werk_subs_rec_2025,city_landen,2025,13792222,,,outturn,src_landen_jr2025,strong,J5 werkingssubsidies ontvangen 13.792m; tick852
+bud_ld_gemeentefonds_2025,city_landen,2025,5091386,,,outturn,src_landen_jr2025,strong,Gemeentefonds 5.091m; tick852
+bud_ld_fin_costs_2025,city_landen,2025,615582,,,outturn,src_landen_jr2025,strong,J5 financiele kosten 0.616m; tick852
+bud_ld_police_toelage_2025,city_landen,2025,2284400,,,outturn,src_landen_jr2025,strong,Toelage politiezone 2.284m; tick852
+bud_ld_fire_toelage_2025,city_landen,2025,957576,,,outturn,src_landen_jr2025,strong,Toelage hulpverleningszone 0.958m; tick852

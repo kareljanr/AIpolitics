@@ -10484,3 +10484,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +36; commitments +4; leaderboard +7; sources +2; entity city_ieper; FOI **gap_ieper_onbeschikbaar_debt_subs_l5** prio7 ready + draft; raw PDF+extract; rq_841=done; spawn **rq_842**; ticks=851
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_842** residual dual L5 (Roeselare/Landen/Lier/VUB/skeyes); deferred **rq_116**; progress@860 in 9
+
+## Tick 852 - 2026-08-05T23:00:00Z
+
+- Unit: **rq_842** (FOI-adjacent residual dual - **Stad+OCMW Landen Jaarrekening 2025** + Ieper dual)
+- Found (strong primary BBC JR2025 107p, GR/RMW 25.06.2026, published 30.06.2026):
+  - Assets **EUR101.3m** · equity **EUR65.0m** · debt total **EUR36.3m** · fin debt **EUR27.0m** (LT **EUR24.8m** · ST due **EUR2.3m**; was **EUR29.4m**)
+  - Pension **EUR2.7m** · cash **EUR13.5m** · cap subs **EUR18.8m** · FVA IGS **EUR8.4m** · onbeschikbaar **EUR0.98m**
+  - Exploitatie: ontvangsten **EUR40.3m** · uitgaven **EUR35.6m** · saldo **+EUR4.7m**
+  - AFM **+EUR2.8m** (gecorr **+EUR2.9m**) · BBR **EUR15.0m** · budget result **+EUR0.001m** · P&L **+EUR1.8m**
+  - Personnel **EUR19.6m** · toelagen **EUR5.0m** (police **EUR2.3m** · fire **EUR1.0m** · AGB **EUR0.2m** · other **EUR1.1m**) · OCMW aid **EUR2.2m** · fiscal **EUR16.6m**
+  - Invest **EUR4.1m** · new loans **EUR0.1m** · gemeentefonds **EUR5.1m**
+  - Debt intensity: fin debt/assets **~27%** vs Ieper **~7%** (similar absolute debt stock ~EUR24-27m)
+- Dual: Ieper **EUR333m** / fin debt **EUR24m** / AFM **+EUR16.0m** / cash **EUR74m** (tick851) - not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_landen; FOI **gap_landen_debt_subs_l5** prio7 ready + draft; raw PDF+extract; rq_842=done; spawn **rq_843**; ticks=852
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_843** residual dual L5 (Roeselare portal/Lier/VUB/skeyes); deferred **rq_116**; progress@860 in 8
