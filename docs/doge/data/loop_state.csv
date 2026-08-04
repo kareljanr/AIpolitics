@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T19:30:00Z,rq_788,797,no,tick797 KMO024 VAT franchise 15.16m accounts 3.571 SKF micro24 FOI; next rq_789 local/CoA residual; progress@800 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T20:00:00Z,rq_789,798,no,tick798 Fin013 VAT demo 250m heatpump 10.1 SFPIM Defence FOI; next rq_790 Beliris020/Regie029 residual; progress@800 in 2; rq_116 deferred

@@ -9627,3 +9627,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +12; commitments +5; leaderboard +6; sources +2; FOI **gap_kmo_vat_franchise_skf_l5** prio8 ready; raw PDF; rq_788=done; spawn **rq_789**; ticks=797
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_789** residual local/CoA; deferred **rq_116**; progress@800 in 3
+
+## Tick 798 — 2026-08-04T20:00:00Z
+
+- Unit: **rq_789** (FOI-adjacent residual — **Kamer DOC 56 1282/013 Beleidsnota Financiën**, 12p)
+- Found (primary 56K1282013):
+  - VAT **sloop/heropbouw** reduction: cruise-speed tax cut **€250m**; avg saving **€48k**/taxpayer (programmawet BS 29 Jul 2025)
+  - Heat-pump VAT reduction reintroduced **1 Jan 2026**: budget cost **€10.1m** (dual prior CoA)
+  - Equity tax credit doubled **€3,750 → €7,500**; CGT annual exemption **€10k** (up to **€15k**)/person
+  - **SRFF** + **100** staff for fraud fight (payroll Unknown)
+  - Admin sites path to **21** buildings; Cost Reduction Law II planned
+  - **SFPIM Defence** entity create/ops (capital Unknown); EU customs abolishes **€150** franchise
+- Wrote: budgets +10; commitments +7; leaderboard +6; sources +2; FOI **gap_fin_vat_demo_sfpim_defence_l5** prio9 ready; raw PDF; rq_789=done; spawn **rq_790**; ticks=798
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_790** residual Beliris020/Regie029; deferred **rq_116**; progress@800 in 2
