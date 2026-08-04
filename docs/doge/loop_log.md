@@ -9436,3 +9436,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +16; commitments +6; leaderboard +9; sources +2; FOI **gap_werk_unemp_illness_l5** prio9 ready; raw PDF; rq_774=done; spawn **rq_775**; ticks=783
 - FOI: ready only — **do not send**
 - Next: rq_775 residual dual/L5; progress@790 in 7; rq_116 deferred
+
+## Tick 784 — 2026-08-04T13:00:00Z
+
+- Unit: **rq_775** (FOI-adjacent residual — **Kamer DOC 56 1282/042 Beleidsnota Zelfstandigen**)
+- Found (primary 56K1282042):
+  - **Evenwichtsdotatie €612.744m** 2025 (budget law; final Mar 2026 control)
+  - **Vulnerable envelope €25m** 2026 all schemes → **€100m** 2029 (+€25m/yr)
+  - RSVZ pension-reform ops **€0.602m** 2025 / **€1.047m** 2026 / structural **€0.352m**/yr from 2027
+  - RSVZ digitalisation RRP **€10m** (deadline 1 Jul 2026)
+  - **VAPZ** max rate **8.17→8.5%** 2026; birth SS exemption **1→2** quarters; maternity aid **105** service cheques kept
+- Wrote: budgets +13; commitments +6; leaderboard +8; sources +2; FOI **gap_rsvz_dot_vuln_egov_l5** prio8 ready; raw PDF; rq_775=done; spawn **rq_776**; ticks=784
+- FOI: ready only — **do not send**
+- Next: rq_776 residual dual/L5 (Pensioenen 014 / Asiel 038 / …); progress@790 in 6; rq_116 deferred
