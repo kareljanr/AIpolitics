@@ -10455,3 +10455,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_tongeren_borgloon; FOI **gap_tb_fusion_debt_subs_l5** prio8 ready + draft; raw PDF+extract; rq_839=done; spawn **rq_850** progress + **rq_841**; ticks=849
 - FOI: ready only - **do not send**
 - Next: **progress@850 NEXT** (prio10 rq_850); then prio5 **rq_841** residual dual L5; deferred **rq_116**
+
+## Tick 850 - 2026-08-05T22:00:00Z
+
+- Unit: **rq_850** (mandatory **progress@850** - coverage % layers A-E + waste top10)
+- Found / assessed (no new primary euros this tick - inventory refresh after ticks 841-849):
+  - **A L0:** **100%** (EUR347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL cities Leuven **EUR957m** / Oostende **EUR642m** / SN **EUR647m** / Turnhout **EUR333m** / Herentals **EUR279m** / Veurne **EUR143m** / Beringen **EUR326m** / Geel **EUR255m** / Tongeren-Borgloon **EUR410m**)
+  - **D L5:** ~**64-78%** generous - gain 841-849: city personnel **EUR129/117/97/67/62/53/45/40/28m** · toelagen Leuven **EUR96m** / Oostende **EUR59m** · AFM spectrum **-EUR5.3m to +EUR21.6m** · Beringen meerwaarden **EUR36.2m** · Veurne stad BBR **-EUR2.0m** · Geel pension≈debt **EUR67/69m** · TB fusiebonus **~EUR21m**
+  - **E FOI ready:** ~**548** (answered ~9; partial ~27; total ~589)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2-10; stocks filtered (Metro3, OWV, MOG II, city/uni balance sheets, fusion/one-off gains)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_850=done; next **rq_841**; loop_state ticks=850
+- FOI: none new this tick
+- Next: prio5 **rq_841** residual dual L5 (Roeselare/Lier/VUB/skeyes); deferred **rq_116**; progress@860 in 10

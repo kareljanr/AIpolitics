@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T21:30:00Z,rq_839,849,no,tick849 Tongeren-Borgloon JR2025 dual Geel fusion; FOI gap_tb_fusion_debt_subs_l5; next progress@850 (rq_850); then rq_841 residual; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T22:00:00Z,rq_850,850,no,tick850 progress coverage % + waste top10; next rq_841 residual dual L5; progress@860 in 10; rq_116 deferred

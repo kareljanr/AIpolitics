@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 850** (2026-08-05)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL city JR2025 residual stack: Leuven **EUR957m** / Oostende **EUR642m** / Sint-Niklaas **EUR647m** / Turnhout **EUR333m** / Herentals **EUR279m** / Veurne **EUR143m** / Beringen **EUR326m** / Geel **EUR255m** / Tongeren-Borgloon fusion **EUR410m** · prior Brugge **EUR1.46bn** / Kortrijk **EUR720m** / Genk **EUR629m** / HE KUL/UGent/UA/UH retained |
+| **D. L5 named / measure end-lines** | **~64-78%** of TE (generous) | **Gain 840→850 is VL city L5 residual hole-fill (not near-complete of 348bn):** city personnel Leuven **EUR117m** / Oostende **EUR129m** / SN **EUR97m** / Turnhout **EUR62m** / Herentals **EUR40m** / Veurne **EUR28m** / Beringen **EUR45m** / Geel **EUR67m** / Tongeren-Borgloon **EUR53m** · city toelagen Leuven **EUR96m** / Oostende **EUR59m** / SN **EUR44m** / Beringen **EUR13m** / Geel **EUR13m** · AFM spread Turnhout **+EUR17.4m** / Beringen **+EUR8.4m** / TB **+EUR7.6m** / Oostende **−EUR5.3m** · Beringen **meerwaarden EUR36.2m** one-off · Veurne **stad-only BBR −EUR2.0m** dual-structure · Geel pension **EUR67.4m** ≈ debt **EUR69.5m** · TB **VL fusiebonus ~EUR21m** · FOI still VUB encoding · BELNET 2025 accounts · fusion debt schedules · city debt/pension matrices |
+| **E. FOI-ready gaps** | **~548** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~589** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Tongeren-Borgloon **EUR410m** / Beringen **EUR326m** / Geel **EUR255m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 850)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~17860 |
+| commitments.csv | ~2381 |
+| leaderboard.csv | ~3820 |
+| entities.csv | ~590 |
+| sources.csv | ~1678 |
+| FOI ready | ~548 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~589 |
+| research_queue open | rq_116 deferred + rq_841 hole-fill after progress |
+
+### What improved since tick 840
+
+- **VL city JR2025 residual (tick841–849):** Leuven assets **EUR957m** / fin debt **EUR335m** / personnel **EUR117m** / toelagen **EUR96m** / AFM **+EUR21.6m** · Oostende **EUR642m** / debt **EUR249m** (EUR3454/capita) / personnel **EUR129m** / AFM **−EUR5.3m** · Sint-Niklaas **EUR647m** / debt **EUR236m** (+EUR32m YoY) / AFM **+EUR2.3m** · Turnhout **EUR333m** / debt **EUR54m** / pension **EUR54m** / AFM **+EUR17.4m** · Herentals **EUR279m** / debt **EUR41m** / pension release **EUR71→58m** / P&L **+EUR16.4m** · Veurne **EUR143m** / debt **EUR27m** / **stad BBR −EUR2.0m** vs consol **+EUR6.4m** · Beringen **EUR326m** (+EUR72m YoY) / **meerwaarden EUR36.2m** / AFM **+EUR8.4m** / cash **EUR43m** · Geel **EUR255m** / debt **EUR69.5m** / pension **EUR67.4m** / personnel **EUR67m** · Tongeren-Borgloon **fusion EUR410m** / debt **EUR51m** / AFM **+EUR7.6m** / **fusiebonus ~EUR21m**.
+- **Entity II residual:** BELNET AR2025 narrative-only (no statutory euros) → FOI accounts; VUB encoding still blocked.
+- **Dual map:** VL cities Leuven–Oostende–SN–Turnhout–Herentals–Veurne–Beringen–Geel–Tongeren-Borgloon · AFM spectrum **−5.3m to +21.6m** · fusion vs steady cities · pension≈debt (Turnhout/Geel) · one-off gains (Beringen) · dual-structure BBR (Veurne).
+
+---
+
 ## Snapshot at **tick 840** (2026-08-05)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
