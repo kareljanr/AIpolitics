@@ -16899,3 +16899,21 @@ bud_ugent_klik_effect_2025,ugent,2025,11300000,,,outturn,src_ugent_jv2025,strong
 bud_ugent_iof_revenue_2025,ugent,2025,22400000,,,outturn,src_ugent_jv2025,strong,IOF total revenue 22.4m (toelage 18.14 + 4m prior year book); tick819
 bud_ugent_werkings_share_pct_2025,ugent,2025,297,,,outturn,src_ugent_jv2025,strong,UGent share of VL werkingsmiddelen 29.7pct (amount stores bps 297); tick819
 bud_dual_ugent_kuleuven_assets_2025,gg_belgium,2025,1376000000,1376000000,3400000000,synthesis,src_dual_ugent_kuleuven_tick819,strong,Dual UGent 1.376bn vs KU Leuven 3.4bn assets; not TE-additive; tick819
+bud_sowaer_sales_2025,sowaer,2025,46985558,,,outturn,src_sowaer_comptes_ye2025,strong,Ventes et prestations YE2025 46.986m (YE2024 64.837m); tick821
+bud_sowaer_sales_2024,sowaer,2024,64836954,,,outturn,src_sowaer_comptes_ye2025,strong,Ventes YE2024 64.837m; tick821
+bud_sowaer_gross_margin_2025,sowaer,2025,40021444,,,outturn,src_sowaer_comptes_ye2025,strong,Marge brute YE2025 40.021m; tick821
+bud_sowaer_depreciation_2025,sowaer,2025,31011741,,,outturn,src_sowaer_comptes_ye2025,strong,Amortissements YE2025 31.012m; tick821
+bud_sowaer_services_goods_2025,sowaer,2025,6964114,,,outturn,src_sowaer_comptes_ye2025,strong,Services et biens divers YE2025 6.964m; tick821
+bud_sowaer_op_result_2025,sowaer,2025,-3829251,,,outturn,src_sowaer_comptes_ye2025,strong,Resultat exploitation YE2025 -3.829m; tick821
+bud_sowaer_net_result_2025,sowaer,2025,299618,,,outturn,src_sowaer_comptes_ye2025,strong,Resultat exercice YE2025 +0.300m (after financials); tick821
+bud_sowaer_net_result_2024,sowaer,2024,7406412,,,outturn,src_sowaer_comptes_ye2025,strong,Resultat exercice YE2024 +7.406m; tick821
+bud_sowaer_fixed_assets_2025,sowaer,2025,412316998,,,outturn,src_sowaer_comptes_ye2025,strong,Actifs immobilises YE2025 412.317m; tick821
+bud_sowaer_corporeal_2025,sowaer,2025,374366112,,,outturn,src_sowaer_comptes_ye2025,strong,Immobilisations corporelles YE2025 374.366m; tick821
+bud_sowaer_financial_fixed_2025,sowaer,2025,37895551,,,outturn,src_sowaer_comptes_ye2025,strong,Immobilisations financieres YE2025 37.896m (stakes BSCA/Liege class); tick821
+bud_sowaer_capital_subsidies_2025,sowaer,2025,63401473,,,outturn,src_sowaer_comptes_ye2025,strong,Subsides en capital YE2025 63.401m; tick821
+bud_sowaer_debt_2025,sowaer,2025,124825416,,,outturn,src_sowaer_comptes_ye2025,strong,Dettes totales YE2025 124.825m; tick821
+bud_sowaer_debt_st_2025,sowaer,2025,27338060,,,outturn,src_sowaer_comptes_ye2025,strong,Dettes <=1 an YE2025 27.338m; tick821
+bud_sowaer_loss_carryforward_2025,sowaer,2025,-45970456,,,outturn,src_sowaer_comptes_ye2025,strong,Resultat reporte YE2025 -45.970m; tick821
+bud_sowaer_fin_income_2025,sowaer,2025,5701755,,,outturn,src_sowaer_comptes_ye2025,strong,Produits financiers recurrents YE2025 5.702m; tick821
+bud_sowaer_fin_charges_2025,sowaer,2025,1588892,,,outturn,src_sowaer_comptes_ye2025,strong,Charges financieres recurrentes YE2025 1.589m; tick821
+bud_dual_sowaer_airports_tick821,gg_belgium,2025,491746944,,,synthesis,src_dual_sowaer_bsca_bac_tick821,strong,Dual SOWAER 492m assets vs BSCA/BAC residual; not TE-additive; tick821

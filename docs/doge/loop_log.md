@@ -9979,3 +9979,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_811=done; next **rq_812**; loop_state ticks=820
 - FOI: none new this tick
 - Next: prio5 **rq_812** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 10
+
+## Tick 821 — 2026-08-05T07:30:00Z
+
+- Unit: **rq_812** (FOI-adjacent residual dual — **SOWAER comptes YE2025** + BSCA/BAC airport dual)
+- Found (strong primary statutory P&L + balance 3p, dated 07/07/2026):
+  - Sales **€46.986m** (2024 **€64.837m**, −28%) · gross margin **€40.021m**
+  - Op result **−€3.829m** · net **+€0.300m** (fin income **€5.702m** · fin charges **€1.589m**)
+  - Personnel **€7.688m** · depreciation **€31.012m** · services **€6.964m**
+  - Assets **€491.747m** · equity **€366.922m** · capital **€322.266m** · capital-subs **€63.401m**
+  - Debt **€124.825m** (LT **€89.868m** · ST **€27.338m**) · cash **€49.845m**
+  - Financial fixed assets **€37.896m** · loss carryforward **−€45.970m**
+- Dual: prior BSCA ~**€127m** rev / BAC ~**€828m** rev class (not TE-additive)
+- Wrote: budgets +24; commitments +3; leaderboard +5; sources +2; FOI **gap_sowaer_stakes_sales_l5** prio7 ready + draft; raw txt; rq_812=done; spawn **rq_813**; ticks=821
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_813** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 9

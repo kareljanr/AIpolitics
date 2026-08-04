@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T07:00:00Z,rq_811,820,no,tick820 progress A-E + waste top10; next rq_812 residual dual L5/local/CoA; progress@830 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T07:30:00Z,rq_812,821,no,tick821 SOWAER YE2025 492m assets sales47 op-3.8 dual airports FOI; next rq_813 residual dual L5/local; progress@830 in 9; rq_116 deferred
