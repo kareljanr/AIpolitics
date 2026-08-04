@@ -1,0 +1,28 @@
+Veurne Stad+OCMW Jaarrekening 2025 — extract tick846
+Source: https://www.veurne.be/nl/bestuur/beleidsdocumenten/jaarrekening-stad-ocmw-en-agb
+PDF: https://www.veurne.be/sites/default/files/2026-05/Jaarrekening_2025_STAD-EN-OCMW.pdf
+Local: docs/doge/data/raw/veurne_jr2025.pdf (140p, 12.9MB)
+Bekendmaking 01/06/2026 · GR/RMW 26/05/2026
+KSZ Stad 0207.494.579 / OCMW 0212.177.008
+AD Joke Jonckheere · FD Kris Degraeve · Sint-Denisplaats 16 8630
+
+J2 consol GE+OCMW (p51):
+Expl +3.179.173 (rec 49.752.344 / exp 46.573.171)
+Invest -6.217.979 (rec 6.209.932 / exp 12.427.911)
+Fin +515.235 (rec 3.488.291 / exp 2.973.056)
+BR -2.523.571 · BBR 6.405.164 · AFM +911.322 · gecorr AFM +1.538.033
+AG BBR 1.279.186 · consol BBR 7.684.351
+Note: Stad-only BBR -1.986.383 (p53) vs OCMW positive — dual structure residual
+
+J4 (p58-59) YE2025:
+ACTIVA 142.969.387 · schulden 53.448.147 · nettoactief 89.521.240
+Kas 3.190.249 · FVA 32.633.942 (EVA 17.025.000 IGS 15.439.955) · MVA 88.040.832
+Pensioen LT 16.139.631 · fin LT 22.908.246 · ST due 2.729.242 · ST fin 1.500.000
+T4 total fin debt 27.077.487 · new loans 3.361.229
+
+J5 (p64): Kosten 53.688.898 (bezold 27.677.969 · toelagen 3.817.108 · OCMW aid 1.474.057)
+Opbrengsten 50.805.558 (fiscal 16.296.028 · werk-subs 20.073.561) · resultaat -2.883.339
+
+T2: politie 1.729.014 · brand 1.005.566 · gemeentefonds 5.538.287
+
+Dual: Herentals assets 278.8m / fin debt 40.6m / AFM +5.5m (tick845) — not TE-additive

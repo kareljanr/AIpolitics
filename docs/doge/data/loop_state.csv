@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T19:30:00Z,rq_835,845,no,tick845 Herentals JR2025 dual Turnhout; FOI gap_herentals_debt_pension_subs_l5; next rq_836 residual dual L5; progress@850 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T20:00:00Z,rq_836,846,no,tick846 Veurne JR2025 dual Herentals; FOI gap_veurne_debt_split_subs_l5; next rq_837 residual dual L5; progress@850 in 4; rq_116 deferred

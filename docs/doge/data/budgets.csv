@@ -17705,3 +17705,42 @@ bud_he_gemeentefonds_2025,city_herentals,2025,11781889,,,outturn,src_herentals_j
 bud_he_fin_costs_2025,city_herentals,2025,1852353,,,outturn,src_herentals_jr2025,strong,J5 financiele kosten 1.852m; tick845
 bud_he_ocmw_cover_2025,city_herentals,2025,7676667,,,outturn,src_herentals_jr2025,strong,Tussenkomst stad in OCMW-tekort 7.677m; tick845
 bud_he_debt_per_capita_2025,city_herentals,2025,1401,,,outturn,src_herentals_jr2025,strong,Openstaande schuld per inwoner 1401 EUR; tick845
+bud_ve_assets_2025,city_veurne,2025,142969387,,,outturn,src_veurne_jr2025,strong,Consol stad+OCMW total assets YE2025 142.969m; tick846
+bud_ve_equity_2025,city_veurne,2025,89521240,,,outturn,src_veurne_jr2025,strong,Nettoactief YE2025 89.521m; tick846
+bud_ve_debt_total_2025,city_veurne,2025,53448147,,,outturn,src_veurne_jr2025,strong,Total schulden YE2025 53.448m; tick846
+bud_ve_fin_debt_2025,city_veurne,2025,27077487,,,outturn,src_veurne_jr2025,strong,T4 total financiele schulden YE2025 27.077m (LT 22.848 + ST due 2.729 + ST 1.500); tick846
+bud_ve_fin_debt_lt_2025,city_veurne,2025,22908246,,,outturn,src_veurne_jr2025,strong,Financiele schulden LT J4 YE2025 22.908m; tick846
+bud_ve_fin_debt_st_due_2025,city_veurne,2025,2729242,,,outturn,src_veurne_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.729m; tick846
+bud_ve_fin_debt_st_2025,city_veurne,2025,1500000,,,outturn,src_veurne_jr2025,strong,Financiele schulden ST treasury YE2025 1.500m; tick846
+bud_ve_pension_prov_2025,city_veurne,2025,16139631,,,outturn,src_veurne_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.140m; tick846
+bud_ve_cash_2025,city_veurne,2025,3190249,,,outturn,src_veurne_jr2025,strong,Liquide middelen YE2025 3.190m; tick846
+bud_ve_cap_subs_2025,city_veurne,2025,21064417,,,outturn,src_veurne_jr2025,strong,Kapitaalsubsidies YE2025 21.064m; tick846
+bud_ve_fva_total_2025,city_veurne,2025,32633942,,,outturn,src_veurne_jr2025,strong,Financiele vaste activa YE2025 32.634m; tick846
+bud_ve_fva_eva_2025,city_veurne,2025,17025000,,,outturn,src_veurne_jr2025,strong,Fin VA EVA/AG YE2025 17.025m; tick846
+bud_ve_fva_igs_2025,city_veurne,2025,15439955,,,outturn,src_veurne_jr2025,strong,Fin VA IGS YE2025 15.440m; tick846
+bud_ve_mva_2025,city_veurne,2025,88040832,,,outturn,src_veurne_jr2025,strong,Materiele vaste activa YE2025 88.041m; tick846
+bud_ve_expl_rec_2025,city_veurne,2025,49752344,,,outturn,src_veurne_jr2025,strong,Exploitatieontvangsten 49.752m; tick846
+bud_ve_expl_exp_2025,city_veurne,2025,46573171,,,outturn,src_veurne_jr2025,strong,Exploitatieuitgaven 46.573m; tick846
+bud_ve_expl_saldo_2025,city_veurne,2025,3179173,,,outturn,src_veurne_jr2025,strong,Exploitatiesaldo +3.179m; tick846
+bud_ve_invest_exp_2025,city_veurne,2025,12427911,,,outturn,src_veurne_jr2025,strong,Investeringsuitgaven J2 12.428m; tick846
+bud_ve_invest_rec_2025,city_veurne,2025,6209932,,,outturn,src_veurne_jr2025,strong,Investeringsontvangsten J2 6.210m; tick846
+bud_ve_invest_saldo_2025,city_veurne,2025,-6217979,,,outturn,src_veurne_jr2025,strong,Investeringssaldo -6.218m; tick846
+bud_ve_fin_rec_2025,city_veurne,2025,3488291,,,outturn,src_veurne_jr2025,strong,Financieringsontvangsten 3.488m; tick846
+bud_ve_fin_exp_2025,city_veurne,2025,2973056,,,outturn,src_veurne_jr2025,strong,Financieringsuitgaven 2.973m; tick846
+bud_ve_new_loans_2025,city_veurne,2025,3361229,,,outturn,src_veurne_jr2025,strong,Nieuwe leningen 3.361m; tick846
+bud_ve_aflossingen_2025,city_veurne,2025,2613056,,,outturn,src_veurne_jr2025,strong,Periodieke aflossingen 2.613m; tick846
+bud_ve_afm_2025,city_veurne,2025,911322,,,outturn,src_veurne_jr2025,strong,AFM +0.911m consol GE+OCMW; tick846
+bud_ve_afm_corr_2025,city_veurne,2025,1538033,,,outturn,src_veurne_jr2025,strong,Gecorrigeerde AFM +1.538m; tick846
+bud_ve_bbr_2025,city_veurne,2025,6405164,,,outturn,src_veurne_jr2025,strong,BBR consol GE+OCMW 6.405m; tick846
+bud_ve_bbr_stad_only_2025,city_veurne,2025,-1986383,,,outturn,src_veurne_jr2025,strong,BBR Stad-only -1.986m (OCMW carries consol positive); tick846
+bud_ve_budget_result_2025,city_veurne,2025,-2523571,,,outturn,src_veurne_jr2025,strong,Budgettair resultaat boekjaar -2.524m; tick846
+bud_ve_cum_br_2025,city_veurne,2025,6405164,,,outturn,src_veurne_jr2025,strong,Gecumuleerd budgettair resultaat 6.405m; tick846
+bud_ve_pnl_result_2025,city_veurne,2025,-2883339,,,outturn,src_veurne_jr2025,strong,Vennootschapsresultaat J5 -2.883m; tick846
+bud_ve_personnel_2025,city_veurne,2025,27677969,,,outturn,src_veurne_jr2025,strong,J5/T2 bezoldigingen 27.678m; tick846
+bud_ve_toelagen_2025,city_veurne,2025,3817108,,,outturn,src_veurne_jr2025,strong,Toegestane werkingssubsidies 3.817m (politie 1.729 fire 1.006); tick846
+bud_ve_ocmw_aid_2025,city_veurne,2025,1474057,,,outturn,src_veurne_jr2025,strong,OCMW individuele hulp 1.474m; tick846
+bud_ve_fiscal_2025,city_veurne,2025,16296028,,,outturn,src_veurne_jr2025,strong,J5 fiscale opbrengsten en boetes 16.296m; tick846
+bud_ve_werk_subs_rec_2025,city_veurne,2025,20073561,,,outturn,src_veurne_jr2025,strong,J5 werkingssubsidies ontvangen 20.074m; tick846
+bud_ve_gemeentefonds_2025,city_veurne,2025,5538287,,,outturn,src_veurne_jr2025,strong,Gemeentefonds 5.538m; tick846
+bud_ve_fin_costs_2025,city_veurne,2025,789594,,,outturn,src_veurne_jr2025,strong,J5 financiele kosten 0.790m; tick846
+bud_ve_ag_bbr_2025,city_veurne,2025,1279186,,,outturn,src_veurne_jr2025,strong,AG Veurne BBR 1.279m; tick846
