@@ -18015,3 +18015,42 @@ bud_wg_fin_costs_2025,city_waregem,2025,990691,,,outturn,src_waregem_jr2025,stro
 bud_wg_police_toelage_2025,city_waregem,2025,4682127,,,outturn,src_waregem_jr2025,strong,Toelage politiezone 4.682m; tick854
 bud_wg_fire_toelage_2025,city_waregem,2025,1261695,,,outturn,src_waregem_jr2025,strong,Toelage hulpverleningszone 1.262m; tick854
 bud_wg_other_toelagen_2025,city_waregem,2025,6464807,,,outturn,src_waregem_jr2025,strong,Toelagen andere begunstigden 6.465m FOI-adjacent; tick854
+bud_dd_assets_2025,city_dendermonde,2025,258302587,,,outturn,src_dendermonde_jr2025,strong,Consol stad+OCMW total assets YE2025 258.303m; tick855
+bud_dd_equity_2025,city_dendermonde,2025,157507669,,,outturn,src_dendermonde_jr2025,strong,Nettoactief YE2025 157.508m; tick855
+bud_dd_debt_total_2025,city_dendermonde,2025,100794919,,,outturn,src_dendermonde_jr2025,strong,Total schulden YE2025 100.795m (was 125.1m); tick855
+bud_dd_fin_debt_2025,city_dendermonde,2025,46722862,,,outturn,src_dendermonde_jr2025,strong,T4 total financiele schulden YE2025 46.723m (LT 43.168 + ST due 3.555); tick855
+bud_dd_fin_debt_lt_2025,city_dendermonde,2025,43167932,,,outturn,src_dendermonde_jr2025,strong,Financiele schulden LT YE2025 43.168m; tick855
+bud_dd_fin_debt_st_due_2025,city_dendermonde,2025,3554930,,,outturn,src_dendermonde_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 3.555m; tick855
+bud_dd_pension_prov_2025,city_dendermonde,2025,31872997,,,outturn,src_dendermonde_jr2025,strong,Pensioenvoorzieningen LT YE2025 31.873m (was 60.365m YE2024); tick855
+bud_dd_cash_2025,city_dendermonde,2025,10860904,,,outturn,src_dendermonde_jr2025,strong,Liquide middelen YE2025 10.861m; tick855
+bud_dd_cap_subs_2025,city_dendermonde,2025,38377911,,,outturn,src_dendermonde_jr2025,strong,Kapitaalsubsidies YE2025 38.378m; tick855
+bud_dd_fva_total_2025,city_dendermonde,2025,37367628,,,outturn,src_dendermonde_jr2025,strong,Financiele vaste activa YE2025 37.368m; tick855
+bud_dd_fva_igs_2025,city_dendermonde,2025,36687306,,,outturn,src_dendermonde_jr2025,strong,Fin VA IGS YE2025 36.687m; tick855
+bud_dd_mva_2025,city_dendermonde,2025,181818116,,,outturn,src_dendermonde_jr2025,strong,Materiele vaste activa YE2025 181.818m; tick855
+bud_dd_onbeschikbaar_2025,city_dendermonde,2025,1293,,,outturn,src_dendermonde_jr2025,strong,Onbeschikbare gelden J2 1.3k; tick855
+bud_dd_expl_rec_2025,city_dendermonde,2025,128317823,,,outturn,src_dendermonde_jr2025,strong,Exploitatieontvangsten 128.318m; tick855
+bud_dd_expl_exp_2025,city_dendermonde,2025,122372488,,,outturn,src_dendermonde_jr2025,strong,Exploitatieuitgaven 122.372m; tick855
+bud_dd_expl_saldo_2025,city_dendermonde,2025,5945335,,,outturn,src_dendermonde_jr2025,strong,Exploitatiesaldo +5.945m; tick855
+bud_dd_invest_exp_2025,city_dendermonde,2025,8895091,,,outturn,src_dendermonde_jr2025,strong,Investeringsuitgaven J2 8.895m; tick855
+bud_dd_invest_rec_2025,city_dendermonde,2025,1725901,,,outturn,src_dendermonde_jr2025,strong,Investeringsontvangsten J2 1.726m; tick855
+bud_dd_invest_saldo_2025,city_dendermonde,2025,-7169190,,,outturn,src_dendermonde_jr2025,strong,Investeringssaldo -7.169m; tick855
+bud_dd_fin_rec_2025,city_dendermonde,2025,10368439,,,outturn,src_dendermonde_jr2025,strong,Financieringsontvangsten 10.368m; tick855
+bud_dd_fin_exp_2025,city_dendermonde,2025,4014638,,,outturn,src_dendermonde_jr2025,strong,Financieringsuitgaven 4.015m; tick855
+bud_dd_new_loans_2025,city_dendermonde,2025,10060654,,,outturn,src_dendermonde_jr2025,strong,Nieuwe leningen 10.061m; tick855
+bud_dd_aflossingen_2025,city_dendermonde,2025,3671178,,,outturn,src_dendermonde_jr2025,strong,Periodieke aflossingen 3.671m; tick855
+bud_dd_afm_2025,city_dendermonde,2025,2581941,,,outturn,src_dendermonde_jr2025,strong,AFM +2.582m; tick855
+bud_dd_afm_corr_2025,city_dendermonde,2025,3026448,,,outturn,src_dendermonde_jr2025,strong,Gecorrigeerde AFM +3.026m; tick855
+bud_dd_bbr_2025,city_dendermonde,2025,14719934,,,outturn,src_dendermonde_jr2025,strong,BBR 14.720m after onbeschikbaar 1.3k; tick855
+bud_dd_budget_result_2025,city_dendermonde,2025,5129946,,,outturn,src_dendermonde_jr2025,strong,Budgettair resultaat boekjaar +5.130m; tick855
+bud_dd_cum_br_2025,city_dendermonde,2025,14721226,,,outturn,src_dendermonde_jr2025,strong,Gecumuleerd budgettair resultaat 14.721m; tick855
+bud_dd_pnl_result_2025,city_dendermonde,2025,23779685,,,outturn,src_dendermonde_jr2025,strong,Vennootschapsresultaat J5 +23.780m (pension release effect); tick855
+bud_dd_personnel_2025,city_dendermonde,2025,76644056,,,outturn,src_dendermonde_jr2025,strong,J5/T2 bezoldigingen 76.644m (incl onderwijs other-gov 8.279m); tick855
+bud_dd_toelagen_2025,city_dendermonde,2025,18856916,,,outturn,src_dendermonde_jr2025,strong,Toegestane werkingssubsidies 18.857m (politie 9.000 fire 1.272 IGS 4.478 AGB 1.130 other 2.557); tick855
+bud_dd_ocmw_aid_2025,city_dendermonde,2025,6949105,,,outturn,src_dendermonde_jr2025,strong,OCMW individuele hulp 6.949m; tick855
+bud_dd_fiscal_2025,city_dendermonde,2025,42830861,,,outturn,src_dendermonde_jr2025,strong,J5 fiscale opbrengsten en boetes 42.831m; tick855
+bud_dd_werk_subs_rec_2025,city_dendermonde,2025,52653104,,,outturn,src_dendermonde_jr2025,strong,J5 werkingssubsidies ontvangen 52.653m; tick855
+bud_dd_gemeentefonds_2025,city_dendermonde,2025,18758284,,,outturn,src_dendermonde_jr2025,strong,Gemeentefonds 18.758m; tick855
+bud_dd_fin_costs_2025,city_dendermonde,2025,1606657,,,outturn,src_dendermonde_jr2025,strong,J5 financiele kosten 1.607m; tick855
+bud_dd_police_toelage_2025,city_dendermonde,2025,9000000,,,outturn,src_dendermonde_jr2025,strong,Toelage politiezone 9.000m; tick855
+bud_dd_fire_toelage_2025,city_dendermonde,2025,1271882,,,outturn,src_dendermonde_jr2025,strong,Toelage hulpverleningszone 1.272m; tick855
+bud_dd_pension_drop_yoy_2025,city_dendermonde,2025,-28491970,,,outturn,src_dendermonde_jr2025,strong,Pension provisions drop YE2024 60.365m to YE2025 31.873m; tick855

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T00:00:00Z,rq_844,854,no,tick854 Waregem JR2025 dual Izegem; FOI gap_waregem_pension_subs_l5; next rq_845 residual dual L5; progress@860 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T00:30:00Z,rq_845,855,no,tick855 Dendermonde JR2025 dual Waregem; FOI gap_dendermonde_pension_loans_l5; next rq_846 residual dual L5; progress@860 in 5; rq_116 deferred

@@ -10530,3 +10530,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_waregem; FOI **gap_waregem_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_844=done; spawn **rq_845**; ticks=854
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_845** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 6
+
+## Tick 855 - 2026-08-06T00:30:00Z
+
+- Unit: **rq_845** (FOI-adjacent residual dual - **Stad+OCMW Dendermonde Jaarrekening 2025** + Waregem dual)
+- Found (strong primary BBC JR2025 286p, GR/RMW 10.06.2026 pub 12.06.2026):
+  - Assets **EUR258.3m** · equity **EUR157.5m** · debt total **EUR100.8m** (was **EUR125.1m**) · fin debt **EUR46.7m** (LT **EUR43.2m** · ST due **EUR3.6m**; was **EUR40.3m**)
+  - Pension **EUR31.9m** (was **EUR60.4m** YE2024; drop **-EUR28.5m**) · cash **EUR10.9m** · cap subs **EUR38.4m** · FVA IGS **EUR36.7m**
+  - Exploitatie: ontvangsten **EUR128.3m** · uitgaven **EUR122.4m** · saldo **+EUR5.9m**
+  - AFM **+EUR2.6m** (gecorr **+EUR3.0m**) · BBR **EUR14.7m** · budget result **+EUR5.1m** · P&L **+EUR23.8m** (pension release / afschr **-EUR16.3m**)
+  - Personnel **EUR76.6m** · toelagen **EUR18.9m** (police **EUR9.0m** · IGS **EUR4.5m** · fire **EUR1.3m** · AGB **EUR1.1m** · other **EUR2.6m**) · OCMW aid **EUR6.9m** · fiscal **EUR42.8m**
+  - Invest **EUR8.9m** · new loans **EUR10.1m** · gemeentefonds **EUR18.8m**
+- Dual: Waregem **EUR346m** / fin debt **EUR33m** / AFM **+EUR11.1m** / pension stock **EUR37m** (tick854) - not TE-additive
+- Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_dendermonde; FOI **gap_dendermonde_pension_loans_l5** prio8 ready + draft; raw PDF+extract; rq_845=done; spawn **rq_846**; ticks=855
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_846** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 5
