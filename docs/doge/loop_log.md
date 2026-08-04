@@ -9422,3 +9422,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +18; commitments +7; leaderboard +9; sources +2; FOI **gap_sz_tnw_egov_alt_l5** prio9 ready; raw PDF; rq_773=done; spawn **rq_774**; ticks=782
 - FOI: ready only — **do not send**
 - Next: rq_774 residual dual/L5; progress@790 in 8; rq_116 deferred
+
+## Tick 783 — 2026-08-04T12:30:00Z
+
+- Unit: **rq_774** (FOI-adjacent residual — **Kamer DOC 56 1282/003 Beleidsnota Werk**, primary)
+- Found (primary 56K1282003):
+  - **Illness benefits employees €14.2bn** 2025 (primary+invalidity, monitoring committee)
+  - Path **€18.2bn** 2030 without policy; long-term sick stock **549,996** end-2024
+  - **SS spend €140.2bn** of state **€274bn** 2024; SS deficit **€6.2bn**
+  - Unemp duration cap from **1 Jan 2026** (access 312d/36m; ~65% replacement); OCMW plan € Unknown
+  - **Familiekrediet** base **€25m**/yr + **€15m** 2026–27 + **€35m** from 2028
+  - Meal cheques +2 → **€440 net/yr** unit; index 5.5% dual-income **€1,250**/yr; flexi cap **€18k**
+- Wrote: budgets +16; commitments +6; leaderboard +9; sources +2; FOI **gap_werk_unemp_illness_l5** prio9 ready; raw PDF; rq_774=done; spawn **rq_775**; ticks=783
+- FOI: ready only — **do not send**
+- Next: rq_775 residual dual/L5; progress@790 in 7; rq_116 deferred

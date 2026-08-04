@@ -16442,3 +16442,19 @@ bud_centenindex_benefit_threshold_2k_2026,sec_ss,2026,2000,,,policy,src_kamer_be
 bud_egov30_it_credits_2026_29,rsz,2026,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,weak,e-Gov 3.0 IT credits provided 2026-2029 per 1282/008; annual amounts Unknown public; FOI; tick782
 bud_employer_solidarity_30pct_m2_3_2026,riziv,2026,,,,policy,src_kamer_beleid_sociale_1282_008_2026,strong,Employer solidarity 30pct of benefit months 2-3 (or 18pct gross) firms >50 staff age 18-55; extend m4-5 from 2027; yield partial in prior rows; tick782 cross-ref
 bud_dual_sociale_zaken_map_2026,gg_belgium,2026,198000000,,,synthesis,src_dual_sociale_zaken_tick782,strong,Dual map anchor: alt finance delta 198m as public L5 residual of SZ note; not full TE; tick782
+bud_illness_benefits_emp_14_2bn_2025,riziv,2025,14200000000,,,estimated,src_kamer_beleid_werk_1282_003_2026,strong,Monitoring committee estimate illness benefits employees primary+invalidity 14.2bn 2025; tick783 1282/003
+bud_illness_benefits_emp_path_18_2bn_2030,riziv,2030,18200000000,,,projected,src_kamer_beleid_werk_1282_003_2026,medium,Monitoring committee path without policy: illness benefits employees 18.2bn 2030; tick783
+bud_ss_spend_140_2bn_2024,sec_ss,2024,140200000000,,,reported,src_kamer_beleid_werk_1282_003_2026,strong,Social security expenditure 140.2bn of state total 274bn 2024 (note citation); tick783
+bud_state_spend_total_274bn_2024,sec_federal,2024,274000000000,,,reported,src_kamer_beleid_werk_1282_003_2026,medium,State total expenditure 274bn 2024 as cited in Werk note vs SS 140.2bn; tick783 cross-check
+bud_ss_deficit_6_2bn_2024,sec_ss,2024,6200000000,,,estimated,src_kamer_beleid_werk_1282_003_2026,strong,SS deficit estimated 6.2bn 2024 (note); illness path major driver; tick783
+bud_familiekrediet_base_25m_2026,fod_emploi,2026,25000000,,,budgeted,src_kamer_beleid_werk_1282_003_2026,strong,Familiekrediet annual base envelope 25m multi-year budget; tick783
+bud_familiekrediet_extra_15m_2026,fod_emploi,2026,15000000,,,budgeted,src_kamer_beleid_werk_1282_003_2026,strong,Familiekrediet complementary financing 15m 2026 (and 2027); tick783
+bud_familiekrediet_extra_15m_2027,fod_emploi,2027,15000000,,,budgeted,src_kamer_beleid_werk_1282_003_2026,strong,Familiekrediet complementary 15m 2027; tick783
+bud_familiekrediet_extra_35m_2028,fod_emploi,2028,35000000,,,budgeted,src_kamer_beleid_werk_1282_003_2026,strong,Familiekrediet complementary raised to 35m from 2028; tick783
+bud_meal_cheque_gain_unit_440_2026,fod_emploi,2026,440,,,policy,src_kamer_beleid_werk_1282_003_2026,strong,Meal cheque +2 face (8to10) + fiscal deduct 2to4 = 440 EUR net/yr per beneficiary; total Unknown; tick783
+bud_index_gain_dual_income_1250_2026,fod_emploi,2026,1250,,,illustrative,src_kamer_beleid_werk_1282_003_2026,medium,Illustrative: low/mid wage index 5.5pct 2025-26 = 1250 EUR net/yr dual-income avg household end 2026; tick783
+bud_work_benefit_gap_target_500_mo,fod_emploi,2029,500,,,target,src_kamer_beleid_werk_1282_003_2026,medium,Policy target: net gap work income vs replacement benefit >=500 EUR/mo by end legislature; tick783
+bud_flexi_income_cap_18k_2026,rsz,2026,18000,,,policy,src_kamer_beleid_werk_1282_003_2026,strong,Flexi-jobs max annual income raised to 18000 EUR; horeca max hourly 21 EUR; tick783
+bud_labor_cost_hourly_48_2_2024,fod_emploi,2024,48.2,,,reported,src_kamer_beleid_werk_1282_003_2026,strong,Average hourly labour cost BE 48.2 EUR vs eurozone 37.3 EU 33.5 2024; tick783
+bud_longterm_sick_stock_549996_2024,riziv,2024,,,,stock,src_kamer_beleid_werk_1282_003_2026,strong,Long-term incapacity stock employees+self-employed 549996 end 2024; tick783
+bud_dual_werk_illness_map_2026,gg_belgium,2026,14200000000,,,synthesis,src_dual_werk_illness_tick783,strong,Dual map anchor illness benefits 14.2bn 2025 class; not full TE; tick783
