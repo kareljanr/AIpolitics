@@ -9843,3 +9843,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +12; commitments +4; leaderboard +7; sources +4; FOI **gap_secal_recovery_davo_path_l5** prio8 ready; raw; rq_802=done; spawn **rq_803**; ticks=811
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_803** residual CoA IT/prisons; deferred **rq_116**; progress@820 in 9
+
+## Tick 812 — 2026-08-05T03:00:00Z
+
+- Unit: **rq_803** (FOI-adjacent residual dual — **CREG RA2960 MOG II / PE Island** + **FPS PEZ re-tender** + **EIB island/lot1**)
+- Found (strong primary CREG RA2960 EN 84p AG 24 Jan 2025; FPS Economy offshore tenders update 4 May 2026; EIB 20230946 / 20240726):
+  - MOG II CAPEX path **€2.2bn (2021)** → **€3.6bn (2023)** → **€7–8bn (Nov 2024)** ~**3.5×**
+  - AC public **€1.4bn**; Elia unilateral design uplift **≥€1.570bn** (CREG+DNV; DC 1.4→2 GW class)
+  - Tariff if design retained **~€800m/yr from 2034** (res **€9.8/MWh ~€34.4/yr**; ind **€4.45/MWh**); at €7bn path **€629.5m** (~**€27/yr** +67% vs 2024)
+  - Decomm provision **€381m** (1.6.2023); OPEX **€74–97m/yr**; RFF island grant max **€100m** deadline **31.8.2026**
+  - Connect option1 **~€620m/yr 2032** (+OPEX/decomm **~€728m** excl Nautilus)
+  - PEZ CfD support min **€470–520m/yr** full 3.15–3.5 GW (strike **€90**/ref **€50** → **€40/MWh**); partial 1.9–2.1 GW **€293–320m**; connect+support stack **€1.1–1.4bn/yr**
+  - Dual: PE I cancelled **2 Jul 2025** re-tender **spring 2026**; 2-sided CfD fixed; flexible connection **255 MW** fixed phase1; EIB island **€650m** of **€1.105bn** signed; lot1 appraisal **€1bn/€2.5bn** ~700 MW
+- Wrote: budgets +19; commitments +5; leaderboard +6; sources +5; FOI **gap_mog2_pez_cfd_tariff_l5** prio9 ready + draft; raw PDFs/txt CREG EN/NL/FR; gap_noordzee note update; rq_803=done; spawn **rq_804**; ticks=812
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_804** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 8

@@ -16724,3 +16724,22 @@ bud_mpkv_residual_ge144m,vlaanderen_gov,2025,144000000,144000000,,estimate,src_c
 bud_kustvisie_studies_21m_2014_24,vlaanderen_gov,2024,21000000,,,outturn,src_ccrek_kustbeveiliging_2026,strong,Vlaamse Baaien + Kustvisie studies spend 21m 2014-2024; dual prior kustvisie; tick811
 bud_kustvisie_project_2_5bn_class,vlaanderen_gov,2025,3500000000,2000000000,5000000000,estimate,src_ccrek_kustbeveiliging_2026,medium,Kustvisie project societal CBA NPV class 2-5bn; not approved full plan; stock/plan class; tick811
 bud_dual_secal_advances_2024,gg_belgium,2024,38800000,,,synthesis,src_dual_secal_davo_kust_tick811,strong,Dual SECAL advances 38.8m vs DAVO max path residual; not TE-additive; tick811
+bud_mog2_capex_2021_baseline,elia,2021,2200000000,,,estimate,src_creg_ra2960_mog2_2025,strong,CREG RA2960: MOG II design budget 2.2bn Oct/Dec2021 incl 12pct contingency; tick812
+bud_mog2_capex_2023_tariff,elia,2023,3600000000,,,estimate,src_creg_ra2960_mog2_2025,strong,CREG: first major revision 2.2->3.6bn in Elia 2024-2027 tariff proposal context; tick812
+bud_mog2_capex_2024_range,elia,2024,7500000000,7000000000,8000000000,estimate,src_creg_ra2960_mog2_2025,strong,CREG non-conf Nov2024 Elia est between 7 and 8bn (~3.5x vs 2.2bn); mid 7.5bn; tick812
+bud_mog2_ac_part_public,elia,2024,1400000000,,,estimate,src_creg_ra2960_mog2_2025,strong,Public AC part total 1.4bn (minister/Elia); DC still negotiating; tick812
+bud_mog2_tariff_yr_2034_design,elia,2034,800000000,,,projection,src_creg_ra2960_mog2_2025,strong,If current design retained ~800m/yr transmission tariffs from 2034 full commission; tick812
+bud_mog2_tariff_yr_2034_at7bn,elia,2034,629500000,,,projection,src_creg_ra2960_mog2_2025,strong,CREG at 7bn invest: financing+depr ~629.5m in 2034; residential 7.7EUR/MWh ~27/yr (+67pct vs2024); industrial 3.5EUR/MWh (+78pct); tick812
+bud_mog2_elia_unilateral_design_uplift,elia,2024,1570000000,,,estimate,src_creg_ra2960_mog2_2025,strong,CREG+DNV: at least 1.570bn of cost increase attributable to Elia unilateral technical choices (DC 1.4->2GW etc) incl market effects; tick812
+bud_mog2_decomm_provision_2023,elia,2023,381000000,,,budgeted,src_creg_ra2960_mog2_2025,strong,Decommissioning provision 381m constant value 1 Jun 2023 (RD domain concession 21 Mar 2024); tick812
+bud_mog2_opex_yr_range,elia,2030,85500000,74000000,97000000,estimate,src_creg_ra2960_mog2_2025,strong,Elia OPEX est 74-97m/yr; mid 85.5m; tick812
+bud_mog2_rff_grant_max,elia,2026,100000000,,,grant,src_creg_ra2960_mog2_2025,strong,RRF grant up to 100m for island; lose if not complete by 31 Aug 2026; CREG says lateness cost not to grid users; tick812
+bud_mog2_annual_connect_2032_base,elia,2032,620000000,,,projection,src_creg_ra2960_mog2_2025,strong,Elia connection cost option1 ~620m/yr 2032 excl OPEX/decomm; with those ~728m excl Nautilus; tick812
+bud_pez_cfd_support_full_gw_yr,fod_economie,2035,495000000,470000000,520000000,projection,src_creg_ra2960_mog2_2025,medium,CREG conservative CfD strike90/ref50: 470-520m/yr for 3.15-3.5GW PEZ (~40EUR/MWh); not TE additive with MOG; tick812
+bud_pez_cfd_support_partial_gw_yr,fod_economie,2032,306500000,293000000,320000000,projection,src_creg_ra2960_mog2_2025,medium,CREG same assumptions: 293-320m/yr for 1.925-2.1GW; tick812
+bud_pez_connect_plus_support_stack_yr,gg_belgium,2034,1250000000,1100000000,1400000000,projection,src_creg_ra2960_mog2_2025,medium,CREG: connecting+supporting offshore stack 1.1-1.4bn/yr Belgian consumers; dual; tick812
+bud_eib_pei_island_loan_650m,elia,2024,650000000,,,loan,src_eib_pei_island_20230946,strong,EIB signed 650m 23 Oct 2024 for PE Island phase1; total cost ~1105m; dual full MOG 7-8bn; tick812
+bud_eib_pei_island_total_phase1,elia,2024,1105000000,,,estimate,src_eib_pei_island_20230946,strong,EIB sheet total cost approx 1105m phase1 island electricity infra; subset of MOG II; tick812
+bud_eib_pez_lot1_finance_appraisal,fod_economie,2025,1000000000,,,loan,src_eib_pez_lot1_20240726,medium,EIB under appraisal proposed finance ~1000m of ~2500m total for ~700MW PEZ lot1; excludes island/export; tick812
+bud_eib_pez_lot1_total_appraisal,fod_economie,2025,2500000000,,,estimate,src_eib_pez_lot1_20240726,medium,EIB total cost approx 2500m PEZ lot1 SPE; dual retender risk after Jul2025 cancel; tick812
+bud_dual_mog2_pez_stack_tick812,gg_belgium,2034,800000000,7000000000,8000000000,synthesis,src_dual_mog2_pez_tick812,strong,Dual annual tariff class ~800m vs CAPEX 7-8bn MOG + PEZ CfD residual; not TE-additive; tick812

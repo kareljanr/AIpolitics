@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T02:30:00Z,rq_802,811,no,tick811 CoA SECAL 452.7m/38.8m recovery26.6 dual flexi220 MPKV321+144 FOI; next rq_803 residual CoA IT/prisons; progress@820 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T03:00:00Z,rq_803,812,no,tick812 CREG MOG II 7-8bn/800m tariff Elia1.57bn dual PEZ retender EIB650 FOI; next rq_804 residual dual L5/local; progress@820 in 8; rq_116 deferred

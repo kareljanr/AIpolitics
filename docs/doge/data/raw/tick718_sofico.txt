@@ -1,0 +1,953 @@
+﻿===p 19 ===
+ETAT DU CAPITAL ET STRUCTURE DE L'ACTIONNARIAT
+Codes
+Exercice
+Exercice pr├⌐c├⌐dent
+ETAT DU CAPITAL
+Capital
+Capital souscrit au terme de l'exercice
+100P
+XXXXXXXXXX
+Capital souscrit au terme de l'exercice
+(100)
+1.450.261.223
+Codes
+Montants
+Nombre d'actions
+Modifications au cours de l'exercice
+Repr├⌐sentation du capital
+Cat├⌐gories d'actions
+Cat├⌐gorie A
+1.443.444.151
+136.290
+Cat├⌐gorie B
+6.817.072
+550
+Actions nominatives
+8702
+XXXXXXXXXX
+Actions d├⌐mat├⌐rialis├⌐es
+8703
+XXXXXXXXXX
+Codes
+Montant non appel├⌐
+Montant appel├⌐, non vers├⌐
+Capital non lib├⌐r├⌐
+Capital non appel├⌐
+(101)
+8.924.167
+XXXXXXXXXX
+Capital appel├⌐, non vers├⌐
+8712
+XXXXXXXXXX
+Actionnaires redevables de lib├⌐ration
+Codes
+Exercice
+Actions propres
+D├⌐tenues par la soci├⌐t├⌐ elle-m├¬me
+Montant du capital d├⌐tenu
+8721
+Nombre d'actions correspondantes
+8722
+D├⌐tenues par ses filiales
+Montant du capital d├⌐tenu
+8731
+Nombre d'actions correspondantes
+8732
+Engagement d'├⌐mission d'actions
+Suite ├á l'exercice de droits de conversion
+Montant des emprunts convertibles en cours
+8740
+Montant du capital ├á souscrire
+8741
+Nombre maximum correspondant d'actions ├á ├⌐mettre
+8742
+Suite ├á l'exercice de droits de souscription
+Nombre de droits de souscription en circulation
+8745
+Montant du capital ├á souscrire
+8746
+Nombre maximum correspondant d'actions ├á ├⌐mettre
+8747
+Capital autoris├⌐ non souscrit
+8751
+Codes
+Exercice
+Parts non repr├⌐sentatives du capital
+R├⌐partition
+Nombre de parts
+8761
+Nombre de voix qui y sont attach├⌐es
+8762
+Ventilation par actionnaire
+Nombre de parts d├⌐tenues par la soci├⌐t├⌐ elle-m├¬me
+8771
+Nombre de parts d├⌐tenues par les filiales
+8781
+N┬░
+0252151302
+C-cap 6.7.1
+Page 19 of 65
+
+
+===p 22 ===
+ETAT DES DETTES ET COMPTES DE R├ëGULARISATION DU PASSIF
+Codes
+Exercice
+VENTILATION DES DETTES ├Ç L'ORIGINE ├Ç PLUS D'UN AN, EN FONCTION DE LEUR DUR├ëE
+R├ëSIDUELLE
+Dettes ├á plus d'un an ├⌐ch├⌐ant dans l'ann├⌐e
+Dettes financi├¿res
+8801
+27.185.439
+Emprunts subordonn├⌐s
+8811
+Emprunts obligataires non subordonn├⌐s
+8821
+Dettes de location-financement et dettes assimil├⌐es
+8831
+Etablissements de cr├⌐dit
+8841
+27.185.439
+Autres emprunts
+8851
+Dettes commerciales
+8861
+Fournisseurs
+8871
+Effets ├á payer
+8881
+Acomptes sur commandes
+8891
+Autres dettes
+8901
+Total des dettes ├á plus d'un an ├⌐ch├⌐ant dans l'ann├⌐e
+(42)
+27.185.439
+Dettes ayant plus d'un an mais 5 ans au plus ├á courir
+Dettes financi├¿res
+8802
+154.435.459
+Emprunts subordonn├⌐s
+8812
+Emprunts obligataires non subordonn├⌐s
+8822
+Dettes de location-financement et dettes assimil├⌐es
+8832
+Etablissements de cr├⌐dit
+8842
+106.935.459
+Autres emprunts
+8852
+47.500.000
+Dettes commerciales
+8862
+Fournisseurs
+8872
+Effets ├á payer
+8882
+Acomptes sur commandes
+8892
+Autres dettes
+8902
+Total des dettes ayant plus d'un an mais 5 ans au plus ├á courir
+8912
+154.435.459
+Dettes ayant plus de 5 ans ├á courir
+Dettes financi├¿res
+8803
+313.141.576
+Emprunts subordonn├⌐s
+8813
+Emprunts obligataires non subordonn├⌐s
+8823
+Dettes de location-financement et dettes assimil├⌐es
+8833
+Etablissements de cr├⌐dit
+8843
+191.141.576
+Autres emprunts
+8853
+122.000.000
+Dettes commerciales
+8863
+Fournisseurs
+8873
+Effets ├á payer
+8883
+Acomptes sur commandes
+8893
+Autres dettes
+8903
+28.600
+Total des dettes ayant plus de 5 ans ├á courir
+8913
+313.170.176
+N┬░
+0252151302
+C-cap 6.9
+Page 22 of 65
+
+
+===p 23 ===
+Codes
+Exercice
+DETTES GARANTIES (COMPRISES DANS LES RUBRIQUES 17 ET 42/48 DU PASSIF)
+Dettes garanties par les pouvoirs publics belges
+Dettes financi├¿res
+8921
+494.762.474
+Emprunts subordonn├⌐s
+8931
+Emprunts obligataires non subordonn├⌐s
+8941
+Dettes de location-financement et dettes assimil├⌐es
+8951
+Etablissements de cr├⌐dit
+8961
+325.262.474
+Autres emprunts
+8971
+169.500.000
+Dettes commerciales
+8981
+Fournisseurs
+8991
+Effets ├á payer
+9001
+Acomptes sur commandes
+9011
+Dettes salariales et sociales
+9021
+Autres dettes
+9051
+Total des dettes garanties par les pouvoirs publics belges
+9061
+494.762.474
+Dettes garanties par des s├╗ret├⌐s r├⌐elles constitu├⌐es ou irr├⌐vocablement promises sur les actifs de la
+soci├⌐t├⌐
+Dettes financi├¿res
+8922
+Emprunts subordonn├⌐s
+8932
+Emprunts obligataires non subordonn├⌐s
+8942
+Dettes de location-financement et dettes assimil├⌐es
+8952
+Etablissements de cr├⌐dit
+8962
+Autres emprunts
+8972
+Dettes commerciales
+8982
+Fournisseurs
+8992
+Effets ├á payer
+9002
+Acomptes sur commandes
+9012
+Dettes fiscales, salariales et sociales
+9022
+Imp├┤ts
+9032
+R├⌐mun├⌐rations et charges sociales
+9042
+Autres dettes
+9052
+Total des dettes garanties par des s├╗ret├⌐s r├⌐elles constitu├⌐es ou irr├⌐vocablement promises sur les actifs
+de la soci├⌐t├⌐
+9062
+Codes
+Exercice
+DETTES FISCALES, SALARIALES ET SOCIALES
+Imp├┤ts (rubriques 450/3 et 179 du passif)
+Dettes fiscales ├⌐chues
+9072
+Dettes fiscales non ├⌐chues
+9073
+10.529.555
+Dettes fiscales estim├⌐es
+450
+22.337.321
+R├⌐mun├⌐rations et charges sociales (rubriques 454/9 et 179 du passif)
+Dettes ├⌐chues envers l'Office National de S├⌐curit├⌐ Sociale
+9076
+Autres dettes salariales et sociales
+9077
+1.084.288
+Exercice
+COMPTES DE R├ëGULARISATION
+Ventilation de la rubrique 492/3 du passif si celle-ci repr├⌐sente un montant important
+Charges ├á imputer
+3.273.980
+Produits ├á reporter
+8.320.824
+N┬░
+0252151302
+C-cap 6.9
+Page 23 of 65
+
+
+===p 24 ===
+R├ëSULTATS D'EXPLOITATION
+Codes
+Exercice
+Exercice pr├⌐c├⌐dent
+PRODUITS D'EXPLOITATION
+CHIFFRE D'AFFAIRES NET
+Ventilation par cat├⌐gorie d'activit├⌐
+Ventilation par march├⌐ g├⌐ographique
+Autres produits d'exploitation
+Subsides d'exploitation et montants compensatoires obtenus des pouvoirs publics
+740
+CHARGES D'EXPLOITATION
+Travailleurs pour lesquels la soci├⌐t├⌐ a introduit une d├⌐claration DIMONA ou qui sont
+inscrits au registre g├⌐n├⌐ral du personnel
+Nombre total ├á la date de cl├┤ture
+9086
+51
+48
+Effectif moyen du personnel calcul├⌐ en ├⌐quivalents temps plein
+9087
+49,5
+47,4
+Nombre d'heures effectivement prest├⌐es
+9088
+68.632
+69.266
+Frais de personnel
+R├⌐mun├⌐rations et avantages sociaux directs
+620
+4.016.436
+3.671.247
+Cotisations patronales d'assurances sociales
+621
+1.103.585
+983.255
+Primes patronales pour assurances extral├⌐gales
+622
+842.470
+641.896
+Autres frais de personnel
+623
+316.489
+282.465
+Pensions de retraite et de survie
+624
+N┬░
+0252151302
+C-cap 6.10
+Page 24 of 65
+
+
+===p 25 ===
+Codes
+Exercice
+Exercice pr├⌐c├⌐dent
+Provisions pour pensions et obligations similaires
+Dotations (utilisations et reprises)
+(+)/(-)
+635
+R├⌐ductions de valeur
+Sur stocks et commandes en cours
+Act├⌐es
+9110
+Reprises
+9111
+Sur cr├⌐ances commerciales
+Act├⌐es
+9112
+Reprises
+9113
+Provisions pour risques et charges
+Constitutions
+9115
+Utilisations et reprises
+9116
+Autres charges d'exploitation
+Imp├┤ts et taxes relatifs ├á l'exploitation
+640
+Autres
+641/8
+554.587
+Personnel int├⌐rimaire et personnes mises ├á la disposition de la soci├⌐t├⌐
+Nombre total ├á la date de cl├┤ture
+9096
+1
+1
+Nombre moyen calcul├⌐ en ├⌐quivalents temps plein
+9097
+1
+0,1
+Nombre d'heures effectivement prest├⌐es
+9098
+1.500
+15
+Frais pour la soci├⌐t├⌐
+617
+101.230
+593
+N┬░
+0252151302
+C-cap 6.10
+Page 25 of 65
+
+
+===p 26 ===
+R├ëSULTATS FINANCIERS
+Codes
+Exercice
+Exercice pr├⌐c├⌐dent
+PRODUITS FINANCIERS R├ëCURRENTS
+Autres produits financiers
+Subsides accord├⌐s par les pouvoirs publics et imput├⌐s au compte de r├⌐sultats
+Subsides en capital
+9125
+14.029.440
+11.853.616
+Subsides en int├⌐r├¬ts
+9126
+Ventilation des autres produits financiers
+Diff├⌐rences de change r├⌐alis├⌐es
+754
+Autres
+Activation en cr├⌐ances LT int├⌐r├¬ts E411-E25
+135.286
+208.279
+CHARGES FINANCI├êRES R├ëCURRENTES
+Amortissement des frais d'├⌐mission d'emprunts
+6501
+Int├⌐r├¬ts port├⌐s ├á l'actif
+6502
+R├⌐ductions de valeur sur actifs circulants
+Act├⌐es
+6510
+Reprises
+6511
+Autres charges financi├¿res
+Montant de l'escompte ├á charge de la soci├⌐t├⌐ sur la n├⌐gociation de cr├⌐ances
+653
+Provisions ├á caract├¿re financier
+Dotations
+6560
+Utilisations et reprises
+6561
+Ventilation des autres charges financi├¿res
+Diff├⌐rences de change r├⌐alis├⌐es
+654
+Ecarts de conversion de devises
+655
+Autres
+N┬░
+0252151302
+C-cap 6.11
+Page 26 of 65
+
+
+===p 29 ===
+DROITS ET ENGAGEMENTS HORS BILAN
+Codes
+Exercice
+GARANTIES PERSONNELLES CONSTITU├ëES OU IRR├ëVOCABLEMENT PROMISES PAR LA SOCI├ëT├ë
+POUR S├¢RET├ë DE DETTES OU D'ENGAGEMENTS DE TIERS
+9149
+Dont
+Effets de commerce en circulation endoss├⌐s par la soci├⌐t├⌐
+9150
+Effets de commerce en circulation tir├⌐s ou avalis├⌐s par la soci├⌐t├⌐
+9151
+Montant maximum ├á concurrence duquel d'autres engagements de tiers sont garantis par la soci├⌐t├⌐
+9153
+GARANTIES R├ëELLES
+Garanties r├⌐elles constitu├⌐es ou irr├⌐vocablement promises par la soci├⌐t├⌐ sur ses actifs propres pour
+s├╗ret├⌐ de dettes et engagements de la soci├⌐t├⌐
+Hypoth├¿ques
+Valeur comptable des immeubles grev├⌐s
+91611
+Montant de l'inscription
+91621
+Pour les mandats irr├⌐vocables d'hypoth├⌐quer, le montant pour lequel le mandataire est autoris├⌐ ├á prendre
+inscription en vertu du mandat
+91631
+Gages sur fonds de commerce
+Le montant maximum ├á concurrence duquel la dette est garantie et qui fait l'objet de l'enregistrement
+91711
+Pour les mandats irr├⌐vocables de mise en gage du fonds de commerce, le montant pour lequel le mandataire
+est autoris├⌐ ├á proc├⌐der ├á l'enregistrement en vertu du mandat
+91721
+Gages sur d'autres actifs ou mandats irr├⌐vocables de mise en gage d'autres actifs
+La valeur comptable des actifs grev├⌐s
+91811
+Le montant maximum ├á concurrence duquel la dette est garantie
+91821
+S├╗ret├⌐s constitu├⌐es ou irr├⌐vocablement promises sur actifs futurs
+Le montant des actifs en cause
+91911
+Le montant maximum ├á concurrence duquel la dette est garantie
+91921
+Privil├¿ge du vendeur
+La valeur comptable du bien vendu
+92011
+Le montant du prix non pay├⌐
+92021
+N┬░
+0252151302
+C-cap 6.14
+Page 29 of 65
+
+
+===p 30 ===
+Codes
+Exercice
+Garanties r├⌐elles constitu├⌐es ou irr├⌐vocablement promises par la soci├⌐t├⌐ sur ses actifs propres pour
+s├╗ret├⌐ de dettes et engagements de tiers
+Hypoth├¿ques
+Valeur comptable des immeubles grev├⌐s
+91612
+Montant de l'inscription
+91622
+Pour les mandats irr├⌐vocables d'hypoth├⌐quer, le montant pour lequel le mandataire est autoris├⌐ ├á prendre
+inscription en vertu du mandat
+91632
+Gages sur fonds de commerce
+Le montant maximum ├á concurrence duquel la dette est garantie et qui fait l'objet de l'enregistrement
+91712
+Pour les mandats irr├⌐vocables de mise en gage du fonds de commerce, le montant pour lequel le mandataire
+est autoris├⌐ ├á proc├⌐der ├á l'enregistrement en vertu du mandat
+91722
+Gages sur d'autres actifs ou mandats irr├⌐vocables de mise en gage d'autres actifs
+La valeur comptable des actifs grev├⌐s
+91812
+Le montant maximum ├á concurrence duquel la dette est garantie
+91822
+S├╗ret├⌐s constitu├⌐es ou irr├⌐vocablement promises sur actifs futurs
+Le montant des actifs en cause
+91912
+Le montant maximum ├á concurrence duquel la dette est garantie
+91922
+Privil├¿ge du vendeur
+La valeur comptable du bien vendu
+92012
+Le montant du prix non pay├⌐
+92022
+Codes
+Exercice
+BIENS ET VALEURS D├ëTENUS PAR DES TIERS EN LEUR NOM MAIS AUX RISQUES ET PROFITS DE LA
+SOCI├ëT├ë, S'ILS NE SONT PAS PORT├ëS AU BILAN
+ENGAGEMENTS IMPORTANTS D'ACQUISITION D'IMMOBILISATIONS
+Encours des Engagements au 31/12/2025
+280.022.174
+ENGAGEMENTS IMPORTANTS DE CESSION D'IMMOBILISATIONS
+MARCH├ë ├Ç TERME
+Marchandises achet├⌐es (├á recevoir)
+9213
+Marchandises vendues (├á livrer)
+9214
+Devises achet├⌐es (├á recevoir)
+9215
+Devises vendues (├á livrer)
+9216
+N┬░
+0252151302
+C-cap 6.14
+Page 30 of 65
+
+
+===p 31 ===
+Exercice
+ENGAGEMENTS R├ëSULTANT DE GARANTIES TECHNIQUES ATTACH├ëES ├Ç DES VENTES OU
+PRESTATIONS D├ëJ├Ç EFFECTU├ëES
+Exercice
+MONTANT, NATURE ET FORME DES LITIGES ET AUTRES ENGAGEMENTS IMPORTANTS
+R├ëGIMES COMPL├ëMENTAIRES DE PENSION DE RETRAITE OU DE SURVIE INSTAUR├ëS AU PROFIT DU PERSONNEL OU DES
+DIRIGEANTS
+Description succincte
+Une assurance-groupe ayant pour but de garantir :
+- Un compl├⌐ment de pension
+- Un compl├⌐ment de salaire en cas de maladie de plus d'un mois de salaire garanti
+- Une couverture d├⌐c├¿s
+Mesures prises pour en couvrir la charge
+Une cotisation patronale mensuelle telle que d├⌐termin├⌐e par l'organisme assureur et une cotisation de l'employ├⌐ mensuelle ├á hauteur de 1% du
+salaire brut.
+Codes
+Exercice
+PENSIONS DONT LE SERVICE INCOMBE ├Ç LA SOCI├ëT├ë ELLE-M├èME
+Montant estim├⌐ des engagements r├⌐sultant de prestations d├⌐j├á effectu├⌐es
+9220
+Bases et m├⌐thodes de cette estimation
+Exercice
+NATURE ET IMPACT FINANCIER DES ├ëV├êNEMENTS SIGNIFICATIFS POST├ëRIEURS ├Ç LA DATE DE
+CL├öTURE, non pris en compte dans le bilan ou le compte de r├⌐sultats
+N┬░
+0252151302
+C-cap 6.14
+Page 31 of 65
+
+
+===p 33 ===
+RELATIONS FINANCI├êRES AVEC
+Codes
+Exercice
+LES ADMINISTRATEURS ET G├ëRANTS, LES PERSONNES PHYSIQUES OU MORALES QUI CONTR├öLENT
+DIRECTEMENT OU INDIRECTEMENT LA SOCI├ëT├ë SANS ├èTRE LI├ëES ├Ç CELLE-CI OU LES AUTRES
+ENTREPRISES CONTR├öL├ëES DIRECTEMENT OU INDIRECTEMENT PAR CES PERSONNES
+Cr├⌐ances sur les personnes pr├⌐cit├⌐es
+9500
+Conditions principales des cr├⌐ances, taux d'int├⌐r├¬t, dur├⌐e, montants ├⌐ventuellement rembours├⌐s, annul├⌐s ou
+auxquels il a ├⌐t├⌐ renonc├⌐
+Garanties constitu├⌐es en leur faveur
+9501
+Autres engagements significatifs souscrits en leur faveur
+9502
+R├⌐mun├⌐rations directes et indirectes et pensions attribu├⌐es, ├á charge du compte de r├⌐sultats, pour autant
+que cette mention ne porte pas ├á titre exclusif ou principal sur la situation d'une seule personne
+identifiable
+Aux administrateurs et g├⌐rants
+9503
+Aux anciens administrateurs et anciens g├⌐rants
+9504
+Codes
+Exercice
+LE OU LES COMMISSAIRE(S) ET LES PERSONNES AVEC LESQUELLES IL EST LI├ë (ILS SONT LI├ëS)
+Emoluments du (des) commissaire(s)
+9505
+40.885
+Emoluments pour prestations exceptionnelles ou missions particuli├¿res accomplies au sein de la soci├⌐t├⌐
+par le(s) commissaire(s)
+Autres missions d'attestation
+95061
+Missions de conseils fiscaux
+95062
+Autres missions ext├⌐rieures ├á la mission r├⌐visorale
+95063
+Emoluments pour prestations exceptionnelles ou missions particuli├¿res accomplies au sein de la soci├⌐t├⌐
+par des personnes avec lesquelles le ou les commissaire(s) est li├⌐ (sont li├⌐s)
+Autres missions d'attestation
+95081
+Missions de conseils fiscaux
+95082
+Autres missions ext├⌐rieures ├á la mission r├⌐visorale
+95083
+Mentions en application de l'article 3:64, ┬º2 et ┬º4 du Code des soci├⌐t├⌐s et des associations
+N┬░
+0252151302
+C-cap 6.16
+Page 33 of 65
+
+
+===p 35 ===
+ 
+ 
+REGLES D'EVALUATION ARRETEES PAR LE CONSEIL D'ADMINISTRATION EN SA SEANCE DU 31 MARS 2023 
+ 
+Conform├⌐ment ├á ce que pr├⌐voient le d├⌐cret constitutif et les dispositions statutaires, la soci├⌐t├⌐ est soumise aux dispositions 
+du Code des Soci├⌐t├⌐s et Associations ainsi qu'├á ses arr├¬t├⌐s d'ex├⌐cution relatifs ├á la tenue de la comptabilit├⌐ ainsi qu'├á 
+l'├⌐tablissement des comptes annuels, en particulier l'arr├¬t├⌐ royal du 29 avril 2019. 
+ 
+A. ACTIF 
+ 
+II. IMMOBILISATIONS INCORPORELLES 
+Celles-ci sont port├⌐es ├á l'actif du bilan ├á leur valeur d'acquisition et sont amorties en 3 ans. 
+Le rendement actualis├⌐ des aires autorouti├¿res et des centrales hydro├⌐lectriques est amorti lin├⌐airement sur la dur├⌐e restant 
+├á courir des contrats de concession actuellement en cours. 
+ 
+III. IMMOBILISATIONS CORPORELLES 
+A. Terrains et constructions 
+ 
+1) Les terrains b├ótis et non b├ótis, les constructions ├⌐difi├⌐es et leurs agencements sont enregistr├⌐s sous la rubrique " Terrains 
+et constructions ". Ils peuvent faire l'objet de plus-values de r├⌐├⌐valuation. Les immobilisations corporelles dont la dur├⌐e 
+d'utilisation est limit├⌐e dans le temps sont soumises ├á l'amortissement. 
+ 
+2) Pour les constructions relatives au p├┤le routier, diff├⌐rentes cat├⌐gories sont d├⌐finies en fonction du type d'actif comme 
+pr├⌐cis├⌐ dans le tableau ci-dessous : 
+ 
+-  Amortissement lin├⌐aire en 10 ans 
+   Couche de roulement en asphalte, panneaux acoustiques, signalisation horizontale (marquages) et verticale 
+ 
+-  Amortissement lin├⌐aire en 20 ans 
+   Couche de liaison en asphalte, glissi├¿res en acier 
+ 
+-  Amortissement lin├⌐aire en 30 ans 
+   Couche de base en asphalte, Glissi├¿res en b├⌐ton 
+ 
+-  Amortissement lin├⌐aire en 50 ans 
+   Terrassements, sous-fondations, fondations, b├⌐ton arm├⌐ continu (BAC) 
+ 
+En ce qui concerne l'├⌐lectrom├⌐canique, les r├¿gles d'├⌐valuation pr├⌐voient une dur├⌐e de 15 ans. M├¬me si ces investissements 
+peuvent ├¬tre d├⌐compos├⌐s ├á leur tour en sous cat├⌐gories avec des ├⌐quipements de dur├⌐e de vie moyenne variant entre 5 et 
+20 ans, il faut noter qu'il est difficile de les scinder en sous-cat├⌐gories. L'├⌐lectrom├⌐canique est d├¿s lors amorti sur 15 ans. 
+ 
+3) Pour le p├┤le fluvial (Canal du Centre et ├⌐cluses), le g├⌐nie civil est amortissable ├⌐galement lin├⌐airement en 50 ans. La 
+premi├¿re dotation aux amortissements est calcul├⌐e selon la logique " prorata temporis ". 
+ 
+L'├⌐lectrom├⌐canique est amortissable en 15 ans et l'entretien extraordinaire en 7,5 ans. 
+ 
+En ce qui concerne les travaux dΓÇÖapprofon
+
+===p 36 ===
+ 
+ 
+C. Mobilier et mat├⌐riel roulant 
+ 
+Ceux-ci sont port├⌐s ├á l'actif du bilan ├á leur valeur d'acquisition. Le mat├⌐riel informatique est amorti en 3 ans, le 
+mobilier et le mat├⌐riel roulant sont amortis en 5 ans. 
+ 
+En ce qui concerne ces trois rubriques, les nouveaux immobilis├⌐s sont amortis prorata temporis, ├á partir de la 
+date de leur acquisition. 
+ 
+D. Immobilisations d├⌐tenues en location-financement et droits similaires, Immobilisations corporelles d├⌐tenues 
+en emphyt├⌐ose 
+ 
+Sont port├⌐s sous cette rubrique les droits d'usage ├á long terme sur les immobilisations corporelles dont l'entreprise dispose 
+en vertu de contrats non r├⌐siliables d'emphyt├⌐ose, de superficie, de location-financement ou de conventions similaires, ├á 
+condition : 
+ 
+- que les redevances ├⌐chelonn├⌐es pr├⌐vues au contrat couvrent, outre les int├⌐r├¬ts et les charges de l'op├⌐ration, la 
+reconstitution int├⌐grale du capital investi par le donneur ; 
+ 
+- que la propri├⌐t├⌐ de l'immobilis├⌐ soit, au terme du contrat, transf├⌐r├⌐e de plein droit ├á l'entreprise ou que le contrat comporte 
+une option d'achat pour l'entreprise. 
+ 
+Il s'agit de contrats non r├⌐siliables entre le preneur (locataire) et le donneur (bailleur). Le locataire a le droit d'usage sur un 
+bien   moyennant paiements p├⌐riodiques au bailleur (redevance annuelle). 
+ 
+Ces contrats impliquent, dans le chef du locataire, l'affectation durable d'une immobilisation corporelle ├á son activit├⌐, 
+amortissable sur une dur├⌐e d├⌐cid├⌐e dans le plan d'amortissement. 
+ 
+Les droits similaires d'emphyt├⌐ose relatifs aux aires autorouti├¿res, aux centrales hydro├⌐lectriques et ├á la r├⌐serve fonci├¿re li├⌐e 
+aux pyl├┤nes multi-op├⌐rateurs sont amortis lin├⌐airement sur la dur├⌐e du droit d'emphyt├⌐ose, soit 99 ans. 
+ 
+Les droits similaires de superficie relatifs ├á la 4├¿me ├⌐cluse de Lanaye, Ivoz-Ramet et Ampsin-Neuville sont amortis 
+lin├⌐airement sur la dur├⌐e du droit de superficie, soit 50 ans. 
+ 
+Pour le R├⌐seau structurant, l'amortissement porte sur une dur├⌐e de 50 ans. 
+ 
+E. Immobilisations en cours 
+Les travaux relatifs aux chantiers sont enregistr├⌐s sous la rubrique des immobilisations en cours, ├á la valeur d'acquisition, 
+aussi longtemps que ces installations ne sont pas mises en exploitation, et ne font pas l'objet d'amortissements. 
+ 
+Par ailleurs, les charges financi├¿res d├⌐coulant d'emprunts contract├⌐s en vue du financement d'immobilisations corporelles 
+sont reprises dans la valeur d'acquisition dans la mesure o├╣ lesdites charges financi├¿res ont trait ├á l
+
+===p 37 ===
+VI. CREANCES A UN AN AU PLUS 
+ 
+Les cr├⌐ances ├á un an au plus sont ├⌐valu├⌐es ├á leur valeur nominale. 
+ 
+Les cr├⌐ances font l'objet de r├⌐ductions de valeur si leur remboursement ├á l'├⌐ch├⌐ance est en tout ou en partie incertain ou 
+compromis. 
+ 
+VII. PLACEMENTS DE TRESORERIE 
+ 
+Les placements de tr├⌐sorerie sont ├⌐valu├⌐s : 
+ 
+- ├á la valeur nominale pour les d├⌐p├┤ts aupr├¿s d'├⌐tablissements de cr├⌐dit ; 
+- ├á leur valeur d'acquisition pour les actions et parts. 
+ 
+Lorsque la valeur d'acquisition diff├¿re de la valeur de remboursement, la diff├⌐rence entre les deux est prise en r├⌐sultat prorata 
+temporis sur la dur├⌐e restant ├á couvrir des titres, comme ├⌐l├⌐ment constitutif des int├⌐r├¬ts produits par ces titres et est port├⌐e, 
+selon les cas, en majoration ou en r├⌐duction de la valeur d'acquisition des titres. 
+ 
+Les avoirs en devises ├⌐trang├¿res sont valoris├⌐s aux taux en vigueur ├á la date de cl├┤ture du bilan. Les pertes ├⌐ventuelles sont 
+enregistr├⌐es en charges financi├¿res, les gains ├⌐ventuels sont report├⌐s au niveau des comptes de r├⌐gularisation du passif. 
+ 
+IX. VALEURS DISPONIBLES 
+ 
+Les valeurs disponibles sont ├⌐valu├⌐es ├á leur valeur nominale. 
+Les avoirs en devises ├⌐trang├¿res sont valoris├⌐s aux taux en vigueur ├á la date de cl├┤ture du bilan. L'imputation est la m├¬me 
+que pour les 
+placements de tr├⌐sorerie. 
+ 
+B. PASSIF 
+ 
+I. CAPITAL 
+ 
+La rubrique "Capital" est ├⌐valu├⌐e ├á sa valeur nominale. Le capital souscrit et le capital non appel├⌐ doivent ├¬tre mentionn├⌐s 
+s├⌐par├⌐ment. 
+ 
+Le solde des deux donne le capital r├⌐ellement lib├⌐r├⌐. 
+ 
+II. PLUS-VALUES DE REEVALUATION 
+ 
+Ce sont les plus-values non r├⌐alis├⌐es, exprim├⌐es dans les comptes sur ├⌐l├⌐ments de l'actif immobilis├⌐, conform├⌐ment ├á l'AR 
+du 29/04/2019. La plus-value peut ├¬tre transf├⌐r├⌐e aux r├⌐serves disponibles ├á concurrence du montant de la dotation 
+exc├⌐dentaire aux amortissements. 
+ 
+III. RESERVES 
+ 
+Les r├⌐serves comprennent les rubriques suivantes : 
+- la r├⌐serve l├⌐gale constitu├⌐e en vertu de l'article 18 des statuts; 
+- la r├⌐serve disponible constitu├⌐e de la part amortie des plus-values. 
+ 
+IV. SUBSIDES EN CAPITAL 
+ 
+La rubrique enregistre les montants obtenus des Pouvoirs publics en consid├⌐ration d'investissements en immobilisations. 
+Les subsides font l'objet de r├⌐ductions ├⌐chelonn├⌐es par imputation au poste IV. C "Autres produits financiers" au rythme de 
+la prise en charge des amortissements sur les immobilisations pour l'acquisition desquels ils ont ├⌐t├⌐ obtenus. 
+Les redevances de concessions autorouti├¿res reprise
+
+===p 38 ===
+Les droits de navigation repris au niveau des subventions en capital sont transf├⌐r├⌐s en r├⌐sultat au m├¬me rythme que 
+l'amortissement des investissements li├⌐s au canal du Centre, soit lin├⌐airement sur une dur├⌐e de 50 ans. Le premier transfert 
+op├⌐r├⌐ en 2002 r├⌐pond au principe des amortissements " prorata temporis ", soit, compte tenu du fait que la mise en 
+exploitation desdits investissements est intervenue en septembre 2002, ├á concurrence d'une proportion de quatre 
+douzi├¿mes. 
+ 
+V. PROVISIONS POUR RISQUES ET CHARGES 
+ 
+Des provisions " Contentieux de roulage " sont constitu├⌐es pour les dossiers individuellement significatifs en vue de 
+l'indemnisation, le cas ├⌐ch├⌐ant, des usagers du r├⌐seau structurant 
+ 
+VIII. DETTES A PLUS D'UN AN 
+ 
+Les dettes ├á plus d'un an sont ├⌐valu├⌐es ├á leur valeur nominale. 
+ 
+IX. DETTES A UN AN AU PLUS 
+ 
+Les dettes ├á un an au plus sont ├⌐valu├⌐es ├á leur valeur nominale. 
+Les dettes en devises sont enregistr├⌐es sur base du cours de r├⌐f├⌐rence du dernier jour de l'exercice. Tant les malis que les 
+bonis d├⌐gag├⌐s font l'objet d'une prise en r├⌐sultats. 
+ 
+Dettes commerciales 
+Afin d'assurer le correct rattachement des op├⌐rations comptables ├á l'exercice concern├⌐, les d├⌐penses d'investissement 
+(enregistr├⌐es en immobilisations corporelles) et d'exploitation (enregistr├⌐es en services et bien divers) relatives ├á 
+l'ex├⌐cution de chantiers, ainsi que leur contrepartie en dettes commerciales, sont comptabilis├⌐es sur la base de d├⌐clarations 
+de cr├⌐ances ├⌐mises par les entrepreneurs et valid├⌐es par un agent habilit├⌐ ├á cet effet. 
+ 
+Page 38 of 65
+
+
+===p 44 ===
+ 
+  
+ 
+ 
+4 
+ 
+ 
+ 
+principalement 
+s octroy├⌐s par la Banque 
+pour un 
+ 298,1 millions EUR 
+s obligataires (programme MTN) pour un montant de 169,5 millions EUR. 
+ 
+1.2.4 Dettes ├á un an au plus (Total 232.165.063 EUR) 
+Les dettes ├á un an au plus sont compos├⌐es de la quotit├⌐ des emprunts long-terme BEI et MTN 
+(├á concurrence de 27,2 millions EUR), des dettes commerciales vis-├á-vis 
+de tiers pour un montant de 139,3 millions EUR, des dettes fiscales et salariales pour 34,0 
+millions EUR 
+. 
+ 
+1.2.5 Comptes de R├⌐gularisation (Total 11.594.804 EUR) 
+Les comptes de r├⌐gularisation passifs sont principalement compos├⌐s de produits ├á reporter 
+8,3 millions EUR).  
+ 
+ 
+ 
+ 
+1.3.1 Ventes et Prestations (Total 507.032.626 EUR) 
+ de 
+ 2025 
+ 502,8 millions EUR en hausse de 11,7 millions 
+EUR par rapport ├á 
+. Cette hausse est principalement li├⌐e 
+mentation 
+des recettes du pr├⌐l├¿vement kilom├⌐trique poids lourds. 
+  
+ concernent le recouvrement de frais aupr├¿s de tiers et 
+4,3 millions EUR. Ils sont comparables aux exercices pr├⌐c├⌐dents.  
+ 
+1.3.2 Co├╗t des ventes et prestations (Total 399.657.285 EUR) 
+Les rubriques principales concernent : 
+- 
+Les services et bien divers (215,6 millions EUR), principalement li├⌐s aux d├⌐penses 
+d
+des infrastructures SOFICO, au premier rang desquelles le r├⌐seau routier 
+structurant ; 
+- 
+Les amortissements et r├⌐ductions de valeur sur frais d'├⌐tablissement, sur 
+immobilisations incorporelles et corporelles (
+hausse ├á 175,6 millions 
+EUR), qui concernent principalement la d├⌐pr├⌐ciation comptable des infrastructures 
+routi├¿res, voies navigables et fibres optiques. 
+ 
+Le r├⌐sultat 
+ 
+5 
+baisse ├á 107,4 millions EUR contre 97,6 
+. 
+ 
+1.3.3 R├⌐sultat financier (Total 9.359.306 EUR) 
+Le r├⌐sultat financier se compose, 
+de produits financiers pour un montant de 19,6 
+millions EUR qui repr├⌐sente principalement 
+comptable des subsides re├ºus et, 
+, de charges financi├¿res pour un montant de 10,3 millions EUR qui sont 
+principalement les 
+int├⌐r├¬ts sur les emprunts contract├⌐s par la SOFICO (dettes 
+financi├¿res BEI et MTN). 
+ 
+1.3.4 Imp├┤ts sur le r├⌐sultat (Total 5.021.036 EUR) 
+Page 44 of 65
+
+
+===p 45 ===
+ 
+  
+ 
+ 
+5 
+ 
+ 
+ 
+La charge fiscale 
+(pour un montant net de 5,0 millions EUR) est principalement 
+relative au pr├⌐compte mobilier d├╗ sur les redevances per├ºues sur les concessions 
+autorouti├¿res.  
+ 
+R├⌐sultant de ce qui pr├⌐c├¿de, le b├⌐n├⌐fice 
+ de la 
+5 
+111,7 millions EUR.  
+ 
+ 
+ 
+2. AFFECTATION DU R├ëSULTAT 
+la totalit├⌐ du r├⌐sultat aux r├⌐serves indisponibles 
+conform├⌐ment aux dispositions statutaires (article 16), de la mani├¿re suivante : 
+ 
+ :  
+111.713.611 EUR (B├⌐n├⌐fice ├á affecter) 
+ 
+ 
+Affectation aux capitaux propres :  
+- A la r├⌐serve l├⌐gale : 
+5.585.681 EUR 
+- Aux autres r├⌐serves : 
+106.127.930 EUR  
+ 
+(Autres r├⌐serves indisponibles) 
+ 
+TOTAL AFFECTE :  
+111.713.611 EUR 
+ 
+ 
+ 
+3. 
+├ëV├êNEMENTS IMPORTANTS SURVENUS APR├êS LA 
+CL├öTURE DE       L EXERCICE 
+ 
+N├⌐ant 
+ 
+ 
+ 
+4. ├ëV├ëNEMENTS SUSCEPTIBLES D AVOIR UNE INFLUENCE 
+NOTABLE SUR LE D├ëVELOPPEMENT DE LA SOCI├ëT├ë 
+ 
+N├⌐ant 
+ 
+ 
+Page 45 of 65
+
+

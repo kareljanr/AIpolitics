@@ -1,0 +1,4966 @@
+﻿=== 118 ===
+1281/022DOC 56
+118
+INITI├ïLE  BEGROTING 2026 
+VERANTWOORDING  
+EN_62003 FEDERAAL PLANBUREAU 
+BUDGET INITIAL 2026 
+JUSTIFICATION  
+EN_62003 BUREAU FEDERAL DU PLAN 
+ARTIKEL 11 ΓÇô Personeelskosten 
+ECONOMISCHE CODE : 11.XX.00 personeelskosten 
+per financieringsbron | CF_XX 
+Synthesetabel 
+ARTICLE 11 ΓÇô Frais de personnel 
+CODE ECONOMIQUE : 11.XX.00 frais de personnel 
+par source de financement | CF_XX 
+Tableau de synth├¿se 
+SC 
+CS 
+2024 
+R├⌐alisations 
+Realisatie 
+2025 
+BUDGET 
+Ajust├⌐  
+Aangepast 
+2026 
+BUDGET 
+Initial 
+Initieel 
+CF_01 : code fin 
+11.XX.00
+Dotaties
+11.11.00/001 
+11.12.00/001 
+11.20.00/001 
+   11.33.00/001 
+   11.40.00/001 
+Total - totaal 
+lim 
+lim 
+lim 
+lim 
+  lim 
+6.062.234 
+1.195.413 
+3.394.165 
+221.202  
+140.796 
+11.013.810 
+  7.474.487 
+  1.197.801 
+  3.418.947 
+  221.643 
+  141.076 
+12.453.954 
+11.XX.00 CF_02
+Conventies
+11.11.00/002 
+11.12.00/002 
+11.20.00/002 
+   11.40.00/002 
+n.lim
+n.lim
+n.lim
+n.lim
+286.470 
+  41.030 
+  99.430 
+    8.070 
+286.470 
+  41.030 
+  99.430 
+    8.070 
+Total - totaal 435.000 435.000 
+a.2 11.xx.00/002 Cr├⌐dits de personnel  : conventions  :
+Base r├⌐glementaire  : contrats avec des tiers pour
+projets sp├⌐cifiques: charge salariale
+
+=== 119 ===
+119
+1281/022DOC 56
+ 
+b. Berekeningsmethode van de uitgave  in 2026 en 
+uitleg i.v.m. het verschil tussen het gevraagde 
+bedrag en de genormeerde begroting 2025 
+b.1. 11.xx.00/001 CF_01 -  Personeelskredieten 2025 
+Aangepast : 11.013.810 ( FOD Econ  + FOD Soc. 
+Zek.) +  220.243 (index 2%)  - 198.099 (besparingen 
+1,8%)  + 18.000 (pool der parastat. + 1.400.000 
+(Notific. MR van 12/12/2025) = 12.453.954 euro 
+ : 11.013.810 (SPF Econ + SPF 
+S├⌐c.Soc.) + 220.243 (index 2%) - 198.099 (├⌐conomies 
+1,8%) + 18.000 (pool des parastat. + 1.400.000 
+(Notific CM de 12/12/2025)= 12.453.954 euros
+b.2. 11.xx.00/002 CF_02 -  Personeelskredieten: 
+conventies  :  nieuwe conventies 435.000 
+ : Cr├⌐dits de personnel  : 
+conventions : Nouvelles conventions 435.000
+ 
+  
+ARTIKEL 12 ΓÇô Werkingskosten 
+ 
+ARTICLE 12 ΓÇô Frais de fonctionnement 
+ 
+ECONOMISCHE CODE : 12.XX.00 werkingskosten 
+per financieringsbron | CF_XX 
+ 
+Synthesetabel 
+CODE ECONOMIQUE : 12.XX.00 frais de 
+fonctionnement par source de financement | CF_XX 
+ 
+Tableau de synth├¿se 
+ 
+ 
+ SC 
+ 
+CS 
+2024 
+R├⌐alisations 
+Realisatie  
+2025 
+BUDGET 
+Ajust├⌐   
+Aangepast 
+2026 
+BUDGET 
+Initial 
+Initieel 
+CF_01 : code fin     
+12.XX.00  
+Dotaties 
+12.11.00/001 
+12.12.00/001 
+12.21.00/001 
+ΓÇª 
+ 
+Total - totaal 
+ 
+ 
+lim 
+lim 
+lim 
+ 
+ 
+  
+ 
+   765.674 
+1.129.497 
+       3.707 
+ 
+ 
+1.898.878 
+ 
+ 
+   761.848 
+1.123.853 
+       3.688 
+ 
+ 
+1.889.389 
+CF_02     
+12.XX.00 
+Conventies 
+12.11.00/002 
+ 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+  
+ 
+65.000 
+ 
+ 
+ 
+65.000 
+Total - totaal   65.000 65.000 
+ 
+frais de fonctionnement
+a.2 12.xx.00/002 CF_02 Frais de fonctionnement  : 
+frais de fonctionnement
+a.2 12.xx.00/002 CF_02 Frais de fonctionnement  : 
+
+=== 120 ===
+1281/022DOC 56
+120
+conventions :  Base r├⌐glementaire :  contrats avec des 
+tiers pour projets sp├⌐cifiques : frais de fonctionnement 
+directs li├⌐s au projet 
+ 
+conventions :  Base r├⌐glementaire :  contrats avec des 
+tiers pour projets sp├⌐cifiques : frais de fonctionnement 
+directs li├⌐s au projet
+  = 1.898.878 euro + 
+24.666euro (Index 1,3%)
+ 
+ 
+  = 1.898.878 euros + 
+24.666 euros (Index 1,3%)
+ 
+ 
+  
+ARTICLE 74 ΓÇô frais dΓÇÖinvestissement 
+ 
+ARTICLE 74 ΓÇô frais dΓÇÖinvestissement 
+ 
+CODE ECONOMIQUE : 74.22.00 frais 
+dΓÇÖinvestissement par source de financement | CF_01 
+ 
+Tableau de synth├¿se 
+ 
+ 
+CODE ECONOMIQUE : 74.22.00 frais 
+dΓÇÖinvestissement par source de financement | CF_01 
+ 
+Tableau de synth├¿se 
+ 
+ 
+ SC 
+ 
+CS 
+2024 
+R├⌐alisations 
+Realisatie  
+ 2025 
+BUDGET 
+Ajust├⌐ 
+ 
+2026 
+BUDGET 
+Initial 
+Initieel 
+CF_01 : code fin      
+74.22.00  
+Dotaties 
+74.22.00/001 
+ 
+Total - totaal 
+ 
+ 
+lim 
+ 
+ 
+   
+ 
+100.354 
+ 
+100.354 
+ 
+ 
+ 101.657 
+ 
+ 101.657 
+      
+      
+ 
+ 
+ 
+ 
+b.  Berekeningsmethode van de uitgave in 2026 en 
+
+
+=== 121 ===
+121
+1281/022DOC 56
+uitleg i.v.m. het verschil tussen het gevraagde 
+bedrag en de genormeerde begroting 2025 
+b.1. 74.22.00/001 -  CF_01 -  Investeringskredieten 
+2025 Aangepast = 100.354 euro +  1.303 (Index 1,3%) 
+= 101.657 euro 
+ = 100.354 euros + 
+ 
+  
+ARTIKEL 46.10 ΓÇô Dotatie 
+ 
+ARTICLE 46.10 - Dotation 
+ 
+ECONOMISCHE CODE : 46.10.00 Dotatie per 
+financieringsbron | CF_01 
+ 
+ 
+ 
+ 
+Synthesetabel 
+CODE ECONOMIQUE : 46.10.00 Dotation par source 
+de financement | CF_01 
+ 
+ 
+ 
+ 
+Tableau de synth├¿se 
+ 
+ 
+ SC 
+ 
+CS 
+2024 
+R├⌐alisations 
+Realisatie  
+2025 
+BUDGET 
+Ajust├⌐   
+Aangepast 
+2026 
+BUDGET 
+Initial 
+Initieel 
+CF_01 : code fin     
+08.20.00 
+Interne Verrichting 
+46.10.00  
+Dotaties 
+46.10.00/001 
+FOD Economie 
+46.10.00/002 
+FOD Soc. Zekerh. 
+16.11.00/001 
+    Verkopen 
+  Lim 
+ 
+ 
+Lim 
+ 
+Lim 
+ 
+Lim 
+ 
+      0 
+ 
+ 
+12.622.042 
+ 
+     381.000 
+ 
+       10.000 
+ 
+ 
+  
+    0 
+ 
+ 
+14.054.000 
+ 
+     381.000 
+ 
+       10.000 
+Total - totaal     
+16.XX.00 CF_02 
+Conventies 
+16.11.00/002 
+16.13.00/001 
+16.20.00/002 
+ 
+ 
+ 
+n.lim 
+n.lim 
+n.lim 
+ 
+ 
+ 
+ 
+ 
+ 
+           0 
+147.000 
+353.000 
+ 
+ 
+           0 
+147.000 
+353.000 
+Total - totaal   500.000 500.000 
+ 
+ 
+a.2 16.xx.00/002 CF_02 Recettes : conventions : Base 
+r├⌐glementaire :  contrats avec des tiers pour projets 
+sp├⌐cifiques.
+
+=== 122 ===
+1281/022DOC 56
+122
+ 
+ 
+b. Berekeningsmethode van de ontvangsten in 
+2026 en u itleg i.v.m. het verschil tussen het 
+gevraagde bedrag en de genormeerde begroting 
+2025 
+b.1. 46.10.00/001 -  CF_01 -  Dotatie 2025 Aangepast 
+FOD Economie  :   12 .622.042 euro + 246.212 euro 
+(index) + Dotatie Soc. Zek. 2025 :   3 81.000 euro + 
+verkoop aan bedrijven :   10.000 euro  - 232.254 
+(besparing 1,8%) + 18.000 (pool der parastat.) + 
+1.400.000 
+ Notific. MR van 12/12/2025) = 14.445.000 
+euro 
+ : 
+12.622.042 euros (SPF Econ) + 246.212 euros (index)  
++381.000 euros dotation Sec. Soc. Initial 2025 + 
+10.000 euros vente aux entreprises 16.11  - 232.254 
+(├⌐conomies 1,8%) + 18.000 (pool des parastat.) + 
+1.400.000 (Notific CM de 12/12/2025) = 14.445.000 
+euros
+b.2. 16.xx.00/002 -  CF_02 -  Ontvangsten: conventies  
+: nieuwe conventies: 500.000 euro 
+
+
+=== 123 ===
+123
+1281/022DOC 56
+INITI├ïLE BEGROTING 2026 
+VERANTWOORDING  
+EN_62004 - FEDERAAL AGENTSCHAP VOOR DE 
+VEILIGHEID VAN DE VOEDSELKETEN 
+BUDGET INITIAL 2026 
+JUSTIFICATION  
+EN_62004 - AGENCE FEDERALE POUR LA 
+SECURITE DE LA CHAINE ALIMENTAIRE 
+  
+ARTIKEL 11 ΓÇô Lonen en sociale lasten 
+ 
+ARTICLE 11 ΓÇô Salaires et charges sociales 
+ 
+ECONOMISCHE CODE : 11.11.00 Bezoldiging 
+volgens weddeschalen 
+CODE ECONOMIQUE : 11.11.00 R├⌐mun├⌐ration 
+suivant les bar├¿mes 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+11.11.00  
+ 
+11.11.00/003 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+75.212.068 
+ 
+ 
+71.382.985 
+ 
+ 
+70.568.294 
+Totaal - total   75.212.068 71.382.985 70.568.294 
+11.11.00 
+ 
+11.11.00/998 
+ 
+ 
+ 
+CF_02 
+ 
+ 
+lim 
+ 
+ 
+ 
+197.753 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   197.753 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 11.11.00/003/CF_00 -  Bezoldiging volgens 
+weddeschalen : 70.568.294 euro 
+ 
+1. 11.11.00/003/CF_00 ΓÇô R├⌐mun├⌐ration suivant les 
+bar├¿mes : 70.568.294 euros 
+ 
+a) Aard van de uitgaven 
+ Bezoldiging van statutair personeel 
+ Bezoldiging van contractueel personeel 
+ 
+a) Nature des d├⌐penses  
+ R├⌐mun├⌐ration du personnel statutaire 
+ R├⌐mun├⌐ration du personnel contractuel  
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+NL 8111100003 
+Initieel budget 2025 71.382.985 
+Indexatie IB 2026 (100%) 2.855.319 
+Correctie besparingen 2025 20.062 
+Besparingen 2026 -642.120 
+Brexit -3.066.579 
+Vermindering index personeel (4% > 2%) -713.466 
+Verhoging heffingen/personeelskredieten  732.092 
+Initieel budget 2026 70.568.294 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+FR 8111100003 
+Budget initial 2025 71.382.985 
+Indexation BI 2026 (100%) 2.855.319 
+Correction ├⌐conomies 2025 20.062 
+Economies 2026 -642.120 
+Brexit -3.066.579 
+Diminution index personnel (4% > 2%) -713.466 
+Augmentation contributions/cr├⌐dits de 
+personnel 732.092 
+Budget initial 2026 70.568.294 
+  
+
+=== 124 ===
+1281/022DOC 56
+124
+2. 11.11.00/998/CF_02 -  Bezoldiging volgens 
+weddeschalen ΓÇô EU-Voorzitterschap : 0 euro 
+ 
+a) Aard van de uitgaven 
+ 
+Zie 11.11.00/003, maar in het kader van de EU -
+voorzitterschap 2024 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+Niet van toepassing 
+ 
+ECONOMISCHE CODE : 11.12.00 Overige 
+bezoldigingselementen 
+2. 11.11.00/998/CF_02 ΓÇô R├⌐mun├⌐ration suivant les 
+bar├¿mes ΓÇô Pr├⌐sidence UE : 0 euro 
+ 
+a) Nature des d├⌐penses  
+ 
+Voir 11.11.00/003, mais dans le cadre de la pr├⌐sidence 
+UE 2024 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ 
+Pas dΓÇÖapplication 
+ 
+CODE ECONOMIQUE : 11.12.00 Autres ├⌐l├⌐ments de 
+la r├⌐mun├⌐ration 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+11.12.00  
+ 
+11.12.00/003 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+lim 
+ 
+ 
+12.227.887 
+ 
+ 
+16.235.346 
+ 
+ 
+16.053.788 
+Totaal - total   12.227.887 16.235.346 16.053.788 
+11.12.00  
+ 
+11.12.00/998 
+ 
+ 
+ 
+CF_02 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+31.396 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   31.396 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 11.12.00/003/CF_00 -  Overige 
+bezoldigingselementen : 16.053.788 euro 
+1. 11.12.00/003/CF_00 ΓÇô Autres ├⌐l├⌐ments de la 
+r├⌐mun├⌐ration : 16.053.788 euros 
+ 
+a) Aard van de uitgaven 
+ Premies (eindejaarstoelage, competentiepremie, 
+tweetaligheidspremie, vakantiegeldΓÇª 
+ Tegemoetkoming verplaatsing woon-werkverkeer  
+ 
+ 
+a) Nature des d├⌐penses  
+ Primes (primes de fin dΓÇÖann├⌐e, de comp├⌐tence 
+de bilinguisme, p├⌐cules de vacancesΓÇª)  
+ Avantages frais d├⌐placement domicile -lieu de 
+travail
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8111200003 
+Initieel budget 2025 16.235.346 
+Indexatie IB 2026 (100%) 649.414 
+Correctie besparingen 2025 4.563 
+Besparingen 2026 -146.044 
+Brexit -683.390 
+Vermindering index personeel (4% > 2%) -162.271 
+Verhoging heffingen/personeelskredieten  156.170 
+Initieel budget 2026 16.053.788 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8111200003 
+Budget initial 2025 16.235.346 
+Indexation BI 2026 (100%) 649.414 
+Correction ├⌐conomies 2025 4.563 
+Economies 2026 -146.044 
+Brexit -683.390 
+Diminution index personnel (4% > 2%) -162.271 
+Augmentation contributions/cr├⌐dits de 
+personnel 156.170 
+Budget initial 2026 16.053.788 
+ 
+ 
+ 
+ 
+
+=== 125 ===
+125
+1281/022DOC 56
+2. 11.12.00/998/CF_02 -  Overige 
+bezoldigingselementen ΓÇô EU-Voorzitterschap : 0 euro 
+ 
+a) Aard van de uitgaven 
+ 
+Zie 11.12.00/003, maar in het kader van de EU -
+voorzitterschap 2024 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+Niet van toepassing 
+ 
+ 
+ECONOMISCHE CODE : 11.20.00  Sociale bijdragen 
+ten laste van de werkgevers, afgedragen aan 
+instellingen of fondsen 
+2. 11.12.00/998/CF_02 ΓÇô Autres ├⌐l├⌐ments de la 
+r├⌐mun├⌐ration ΓÇô Pr├⌐sidence UE : 0 euro 
+ 
+a) Nature des d├⌐penses  
+ 
+Voir 11.12.00/003, mais dans le cadre de la pr├⌐sidence 
+UE 2024 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ 
+Pas dΓÇÖapplication 
+ 
+ 
+CODE ECONOMIQUE : 11.20.00 Cotisations sociales 
+├á charge des employeurs, vers├⌐es ├á des institutions 
+ou fonds 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+11.20.00  
+ 
+11.20.00/003 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+43.646.359 
+ 
+ 
+44.154.196 
+ 
+ 
+44.986.833 
+Totaal - total   43.646.359 44.154.196 44.986.833 
+11.20.00  
+ 
+11.20.00/998 
+ 
+ 
+ 
+CF_02 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+62.163 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   62.163 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+ 
+1. 11.20.00/003/CF_00 -  Sociale bijdragen : 
+44.986.833 euro 
+ 
+1. 11.20.00/003/CF_00 ΓÇô Cotisations sociales  : 
+44.986.833 euros 
+ 
+a) Aard van de uitgaven 
+ Pensioenlasten 
+ Sociale lasten (sociale wetgeving ΓÇô 
+werkgeversaandeel) 
+a) Nature des d├⌐penses  
+ Charges des pensions 
+ Charges sociales (lois sociales - part patronale) 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8112000003 
+Initieel budget 2025 44.154.196 
+Indexatie IB 2026 (100%) 1.766.168 
+Correctie besparingen 2025 12.410 
+Besparingen 2026 -397.185 
+Pool Parastatalen (52,5%>>53%) 297.473 
+Brexit -1.069.423 
+Vermindering index personeel (4% > 2%) -441.317 
+Pool Parastatalen (MR 12/12/2025) 200.000 
+Verhoging heffingen/personeelskredieten 464.511 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8112000003 
+Budget initial 2025 44.154.196 
+Indexation BI 2026 (100%) 1.766.168 
+Correction ├⌐conomies 2025 12.410 
+Economies 2026 -397.185 
+Pool Parastataux 2026 (52,5%>>53%) 297.473 
+Brexit -1.069.423 
+Diminution index personnel (4% > 2%) -441.317 
+Pool Parastataux (CM 12/12/2025) 200.000 
+
+=== 126 ===
+1281/022DOC 56
+126
+  
+Initieel budget 2026 44.986.833 
+ 
+ 
+2. 11.20.00/998/CF_02 -  Sociale bijdragen ΓÇô EU-
+Voorzitterschap : 0 euro 
+ 
+a) Aard van de uitgaven 
+ 
+Zie 11.20.00/998, maar in het kader van de EU -
+voorzitterschap 2024 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+Niet van toepassing 
+ 
+ 
+Augmentation contributions/cr├⌐dits de 
+personnel 464.511 
+Budget initial 2026 44.986.833 
+ 
+ 
+2. 11.20.00/998/CF_02 ΓÇô Cotisations sociales ΓÇô 
+Pr├⌐sidence UE : 0 euro 
+ 
+a) Nature des d├⌐penses  
+ 
+Voir 11.20.00/998, mais dans le cadre de la pr├⌐sidence 
+UE 2024 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ECONOMISCHE CODE : 11.31.00  Directe toelagen CODE ECONOMIQUE : 11.31.00 Allocations directes 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+11.31.00  
+ 
+11.31.00/003 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+lim 
+ 
+ 
+ 
+856.972 
+ 
+ 
+176.850 
+ 
+ 
+180.615 
+Totaal - total   856.972 176.850 180.615 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 11.31.00/003/CF_00 -  Directe toelagen : 180.615 
+euro 
+1. 11.31.00/003/CF_00 ΓÇô Allocations directes : 180.615 
+euros
+ 
+a) Aard van de uitgaven 
+ Arbeidsongevallen 
+ Diverse forfaitaire vergoedingen 
+(begrafeniskosten) 
+a) Nature des d├⌐penses  
+ Accidents de travail 
+ Indemnit├⌐s forfaitaires diverses (frais de 
+fun├⌐railles)
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8113100003 
+Initieel budget 2025 176.850 
+Indexatie IB 2026 (100%) 7.074 
+Correctie besparingen 2025 50 
+Besparingen 2026 -1.591 
+Vermindering index personeel (4% > 2%) -1.768 
+Initieel budget 2026 180.615 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8113100003 
+Budget initial 2025 176.850 
+Indexation BI 2026 (100%) 7.074 
+Correction ├⌐conomies 2025 50 
+Economies 2026 -1.591 
+Diminution index personnel (4% > 2%) -1.768 
+Budget initial 2026 180.615 
+ 
+ 
+ECONOMISCHE CODE : 11.32.00  Doorbetaling van 
+ 
+ 
+CODE ECONOMIQUE : 11.32.00 Paiement maintenu 
+
+=== 127 ===
+127
+1281/022DOC 56
+loon du salaire 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+11.32.00  
+ 
+11.32.00/001 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+622.867 
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+0 
+Totaal - total   622.867 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif 
+ 
+ 
+1. 11.32.00/001/CF_00 -   Doorbetaling van loon : 0 
+euro 
+ 
+1. 11.32.00/001/CF_00 ΓÇô Paiement maintenu du 
+salaire : 0 euro 
+ 
+a) Aard van de uitgaven 
+ Loon tijdens inactiviteit van de werknemer 
+a) Nature des d├⌐penses  
+ Salaire pendant inactivit├⌐ du travailleur 
+b) Berekeningsmethode van de uitgave in 2026 
+Interne herverdelingen zullen in de loop van het jaar 
+worden uitgevoerd op basis van de te verrichten 
+uitgaven. 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+Des transferts internes seront effectu├⌐s en cours 
+dΓÇÖann├⌐e en fonction des d├⌐penses ├á effectuer. 
+ECONOMISCHE CODE : 11.40.00  Lonen in natura CODE ECONOMIQUE : 11.40.00 Salaires en nature 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+  
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+11.40.00  
+ 
+11.40.00/002 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+lim 
+ 
+ 
+ 
+921.978 
+ 
+ 
+1.442.496 
+ 
+ 
+1.469.905 
+Totaal - total   921.978 1.442.496 1.469.905 
+11.40.00  
+ 
+11.40.00/998 
+ 
+ 
+ 
+CF_02 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+-1.047 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   -1.047 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+ 
+ 
+ 
+
+=== 128 ===
+1281/022DOC 56
+128
+ 
+1. 11.40.00/002/CF_00 -   Lonen in natura : 1. 469.905 
+euro 
+ 
+1. 11.40.00/002/CF_00 ΓÇô Salaires en nature : 1.469.905 
+euros 
+ 
+a) Aard van de uitgaven 
+ 
+ Maaltijdcheques 
+ Sociale voordelen 
+ Hospitalisatieverzekering 
+ Diverse lonen in natura 
+a) Nature des d├⌐penses  
+ 
+ Ch├¿ques-repas 
+ Avantages sociaux 
+ Assurance hospitalisation 
+ Divers salaires en nature 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8114000002 
+Initieel budget 2025 1.442.495 
+Indexatie IB 2026 (100%) 57.700 
+Correctie besparingen 2025 405 
+Beparingen 2026 -12.976 
+Brexit -3.302 
+Vermindering index personeel (4% > 2%) -14.418 
+Initieel budget 2026 1.469.905 
+ 
+2. 11.40.00/998/CF_02 -   Lonen in natura ΓÇô EU-
+Voorzitterschap : 0 euro 
+ 
+a) Aard van de uitgaven 
+ 
+Zie 11.40.00/002, maar in het kader van de EU -
+voorzitterschap 2024 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+Niet van toepassing 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8114000002 
+Budget initial 2025 1.442.495 
+Indexation BI 2026 (100%) 57.700 
+Correction ├⌐conomies 2025 405 
+Economies 2026 -12.976 
+Brexit -3.302 
+Diminution index personnel (4% > 2%) -14.418 
+Budget initial 2026 1.469.905 
+ 
+2. 11.40.00/998/CF_02 ΓÇô Salaires en nature ΓÇô 
+Pr├⌐sidence UE : 0 euro 
+ 
+a) Nature des d├⌐penses  
+ 
+Voir 11.40.00/002, mais dans le cadre de la pr├⌐sidence 
+UE 2024 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ 
+ 
+ARTIKEL 12 ΓÇô  Aankoop van niet -duurzame 
+goederen en diensten 
+ 
+ 
+ARTICLE 12 ΓÇô Achat de biens non durables et de 
+services 
+ECONOMISCHE CODE : 12.11.00  Algemene 
+werkingskosten 
+CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de 
+fonctionnement 
+Synthesetabel (euro) 
+ 
+Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+12.11.00  
+ 
+12.11.00/041 
+12.11.00/042 
+12.11.00/043 
+12.11.00/044 
+12.11.00/045 
+12.11.00/046 
+12.11.00/047 
+12.11.00/048 
+12.11.00/049 
+12.11.00/050 
+ 
+ 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+ 
+ 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+ 
+ 
+4.299.708 
+1.873.590 
+7.288.341 
+9.312.817 
+1.854.978 
+1.024.154 
+389.473 
+3.532.454 
+33.865.598 
+6.033.877 
+ 
+ 
+3.927.134 
+1.906.536 
+7.016.740 
+7.898.496 
+3.256.021 
+193.505 
+1.021.009 
+2.961.598 
+42.726.481 
+5.463.577 
+ 
+ 
+3.832.286 
+1.722.963 
+9.552.910 
+7.933.316 
+3.574.160 
+194.358 
+1.025.510 
+2.974.654 
+45.191.900 
+0 
+
+=== 129 ===
+129
+1281/022DOC 56
+12.11.00/999 
+ 
+CF_00 
+ 
+lim 
+ 
+0 
+ 
+0 5.129.931 
+Totaal - total   69.474.990 76.371.097 81.131.988 
+ 
+12.11.00  
+ 
+12.11.00/051 
+12.11.00/052 
+12.11.00/998 
+ 
+ 
+ 
+ 
+CF_02 
+CF_02 
+CF_02 
+ 
+ 
+ 
+lim 
+lim 
+lim 
+ 
+ 
+ 
+ 
+2.500.888 
+525.186 
+211.958 
+ 
+ 
+3.200.000 
+672.000 
+0 
+ 
+ 
+1.274.365 
+267.617 
+0 
+Totaal - total   3.238.033 3.872.000 1.541.982 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 12.11.00/041/CF_00 -   Kosten gebonden aan de 
+werking en aan het gebouw : 3.832.286 euro 
+ 
+1. 12.11.00/041/CF_00 ΓÇô Frais li├⌐s au fonctionnement 
+et au b├ótiment : 3.832.286 euros 
+ 
+a) Aard van de uitgaven 
+ Huur materiaal en meubilair 
+ Huur van autoΓÇÖs 
+ Onderhoud en herstelling van lokalen, 
+uitrusting, meubelen en voertuigen 
+ Water, elektriciteit, brandstof voor lokalen en 
+voertuigen 
+ Documentatie 
+ Kantoorbenodigdheden en kleine 
+werkingsmateriaal 
+ Aankoop van monsters en staalnamemateriaal  
+ Bescherming- en dienstkledij en controle-
+uitrusting voor controle en laboΓÇÖs 
+ Verzekeringen van de dienstwagens, gehuurde 
+machines en labotoestellen 
+ Frankering van brieven 
+ Vaste en mobiele telefonie voor de diensten 
+a) Nature des d├⌐penses  
+ Location de mat├⌐riel et mobilier 
+ Location de voitures 
+ Entretien et frais de r├⌐paration des locaux, 
+mat├⌐riel, mobilier et voitures 
+ Eau, ├⌐lectricit├⌐, combustibles locaux et voitures 
+ Documentation 
+ Fournitures de bureau et petit mat├⌐riel de 
+fonctionnement 
+ Achat dΓÇÖ├⌐chantillons et de mat├⌐riel 
+dΓÇÖ├⌐chantillonnage 
+ V├¬tements de protection et de service et 
+mat├⌐riel de contr├┤le pour les contr├┤les et les 
+laboratoires 
+ Assurances des voitures de service, des 
+machines en location et des appareils de 
+laboratoire 
+ Affranchissements 
+ T├⌐l├⌐phonie fixe et mobile pour les services
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100041 
+Initieel budget 2025 3.927.134 
+Indexatie IB 2026 (100%) 51.053 
+Unisono -1.000 
+Correctie besparingen 2025 1.586 
+Beparingen 2026 -35.326 
+Brexit -111.160 
+Initieel budget 2026 3.832.286 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100041 
+Budget initial 2025 3.927.134 
+Indexation BI 2026 (100%) 51.053 
+Unisono -1.000 
+Correction ├⌐conomies 2025 1.586 
+Economies 2026 -35.326 
+Brexit -111.160 
+Budget initial 2026 3.832.286 
+2. 12.11.00/042/CF_00 -    Werkingsmiddelen voor 
+het beheer van het personeel : 1.722.963 euro 
+ 
+2. 12.11.00/042/CF_00 ΓÇô Moyens de fonctionnement 
+pour la gestion du personnel : 1.722.963 euros  
+a) Aard van de uitgaven 
+ Opleidingen 
+ Kosten voor externe vergaderingen 
+a) Nature des d├⌐penses  
+ Formations 
+ Frais de r├⌐unions externes 
+
+=== 130 ===
+1281/022DOC 56
+130
+ Kosten voor verplaatsingen : reisvorderingen 
+ FAVV events, teambuilding en diverse 
+socioculturele activiteiten 
+ Omnium verzekeringen ΓÇ£dienstopdrachtenΓÇ¥ en 
+24u/24u, tegen geweld, schadeloosstelling 
+zaakschade 
+ Overheadkosten (catering, broodjes, 
+drankenΓÇª) 
+ Mobiele telefonie en internet abonnementen 
+voor het personeel 
+ Representaties en buitenlandse 
+dienstopdrachten 
+ 
+ 
+ Frais de d├⌐placement : r├⌐quisitoires de transport  
+ Ev├⌐nements AFSCA, teambuilding et diverses 
+activit├⌐s socioculturelles 
+ Assurances omnium ΓÇ£missions de serviceΓÇ¥ et 
+24h/24h, contre la violence, indemnisation 
+dommage aux biens 
+ Frais dΓÇÖexploitation (catering, sandwiches, 
+boissonsΓÇª) 
+ T├⌐l├⌐phonie mobile et abonnements internet 
+pour le personnel 
+ Repr├⌐sentations et missions de service ├á 
+lΓÇÖ├⌐tranger 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100042 
+Initieel budget 2025 1.906.536 
+forfaitaire onkostenvergoedingen aan het 
+personeel -132.000 
+Indexatie IB 2026 (100%) 23.069 
+Correctie besparingen 2025 770 
+Beparingen 2026 -15.963 
+Brexit -59.449 
+Initieel budget 2026 1.722.963 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100042 
+Budget initial 2025 1.906.536 
+indemnit├⌐s forfaitaires compensatoires de 
+frais au personnel -132.000 
+Indexation BI 2026 (100%) 23.069 
+Correction ├⌐conomies 2025 770 
+Economies 2026 -15.963 
+Brexit -59.449 
+Budget initial 2026 1.722.963 
+3. 12.11.00/043/CF_00 - ICT : 9.552.910 euro 3 12.11.00/043/CF_00 ΓÇô ICT : 9.552.910 euros 
+ 
+a) Aard van de uitgaven 
+ 
+ Sanitrace 
+ PIA 
+ LIMS 
+ Debohra 
+ Overige onderhoudscontracten 
+ Support infrastructuur 
+ Project beheer logistiek (FMIS) 
+ DMS 
+ Consultancy voor projecten (namelijk SMALS) 
+ ΓÇª
+a) Nature des d├⌐penses  
+ 
+ Sanitrace 
+ PIA 
+ LIMS 
+ Debohra 
+ Autres contrats de maintenance 
+ Support infrastructure 
+ Projet gestion logistique (FMIS) 
+ DMS 
+ Consultance pour projets (notamment SMALS) 
+ ΓÇª 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100043 
+Initieel budget 2025 7.016.740 
+Herverdeling SMALS consultancy ICT  2.600.511 
+Indexatie IB 2026 (100%) 125.024 
+Correctie besparingen 2025 2.833 
+Beparingen 2026 -86.511 
+Brexit -105.687 
+Initieel budget 2026 9.552.910 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100043 
+Budget initial 2025 7.016.740 
+Redistribution SMALS consultance ICT  2.600.511 
+Indexation BI 2026 (100%) 125.024 
+Correction ├⌐conomies 2025 2.833 
+Economies 2026 -86.511 
+Brexit -105.687 
+Budget initial 2026 9.552.910 
+
+=== 131 ===
+131
+1281/022DOC 56
+4. 12.11.00/044/CF_00 - Prestaties door derden ΓÇô 
+externe laboΓÇÖs : 7.933.316 euro 
+a) Aard van de uitgaven 
+ ARSIA - DGZ 
+ Overeenkomsten met de nationale 
+referentielaboratoria 
+ Routineanalyses (CP / Foodlims) 
+ Analyses NCP / Foodlims 
+ Analyses Niet-Foodlims 
+ Analyses NOE 
+ Antibioticaresistenties 
+ Specifieke acties en / of begeleiding 
+ Analyses blauwtong 
+ Tuberculine  
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100044 
+Initieel budget 2025 7.898.496 
+Indexatie IB 2026 (100%) 102.680 
+Correctie besparingen 2025 3.189 
+Beparingen 2026 -71.050 
+Initieel budget 2026 7.933.316 
+5. 12.11.00/045/CF_00 -  Prestaties door derden - 
+andere : 3.574.160 euro 
+a) Aard van de uitgaven 
+ Kosten voor personeelsbeheer (preventiedienst 
+- Provikmo) 
+ Publicaties en communicatie 
+ Bankkosten 
+ Controleorganen van de Staat (revisor) 
+ Honoraria experten (vertalers, tolken,ΓÇª) 
+ Vergoedingen Wetenschappelijk comit├⌐  
+ Verhuis 
+ Diverse prestaties door derden 
+ USDA cooperative Service Agreement Belgian 
+Bulbs en certificatie van lelies 
+ Identificatie fraude (Rendac) 
+ Operationele kosten (vervoer, afslachting, 
+vernietiging en ontkoppen) 
+ Onkosten voor advocaten (dossiers 
+Financiering) 
+ Studies en onderzoek : verbetertrajecten, 
+studies, interne audit, raamcontracten, Q-fever, 
+Brucellose, DGZ-ARSIA, specifieke acties en / 
+of begeleiding 
+4. 12.11.00/044/CF_00 ΓÇô Prestations par des tiers ΓÇô 
+labo externes : 7.933.316 euros 
+a) Nature des d├⌐penses  
+ ARSIA - DGZ 
+ Conventions avec les laboratoires de r├⌐f├⌐rence 
+nationaux 
+ Analyses de routine (PC / Foodlims) 
+ Analyses NPC / Foodlims 
+ Analyses Non-Foodlims 
+ Analyses UNE 
+ R├⌐sistance contre les antibiotiques 
+ Actions sp├⌐cifiques et / ou accompagnement 
+ Analyses langue bleue 
+ Tuberculine  
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100044 
+Budget initial 2025 7.898.496 
+Indexation BI 2026 (100%) 102.680 
+Correction ├⌐conomies 2025 3.189 
+Economies 2026 -71.050 
+Budget initial 2026 7.933.316 
+5. 12.11.00/045/CF_00 ΓÇô Prestations par des tiers ΓÇô 
+autres : 3.574.160 euros 
+a) Nature des d├⌐penses  
+ Frais de gestion du personnel (service de 
+pr├⌐vention ΓÇô Provikmo) 
+ Publications et communication 
+ Frais de banque 
+ Organes de contr├┤le de lΓÇÖEtat (r├⌐viseur) 
+ Honoraires dΓÇÖexperts (traducteurs, 
+interpr├¿tes,ΓÇª) 
+ Indemnit├⌐s Comit├⌐ scientifique 
+ D├⌐m├⌐nagement 
+ Diverses prestations par des tiers 
+ USDA cooperative Service Agreement Belgian 
+Bulbs et certification des lys 
+ Identification ├á la fraude (Rendac) 
+ Co├╗ts op├⌐rationnels (transport, abattage, 
+destruction et d├⌐capitations) 
+ Frais dΓÇÖavocats (dossiers Financement) 
+ Etudes et recherche : projets dΓÇÖam├⌐lioration, 
+├⌐tudes, audit interne, contrats-cadre, Fi├¿vre Q, 
+Brucellose, DGZ-ARSIA, actions sp├⌐cifiques et 
+/ ou accompagnem
+
+=== 132 ===
+1281/022DOC 56
+132
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100045 
+Initieel budget 2025 3.256.021 
+Indexatie IB 2026 (100%) 42.328 
+Correctie besparingen 2025 1.315 
+Beparingen 2026 -29.289 
+Nieuw systeem administratieve boetes 303.785 
+Initieel budget 2026 3.574.160 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100045 
+Budget initial 2025 3.256.021 
+Indexation BI 2026 (100%) 42.328 
+Correction ├⌐conomies 2025 1.315 
+Economies 2026 -29.289 
+Nouv. syst├¿me amendes administratives 303.785 
+Budget initial 2026 3.574.160 
+6. 12.11.00/046/CF_00 -   Crisisbeheer : 194.358 
+euro 
+a) Aard van de uitgaven 
+Werking van de crisiscel 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100046 
+Initieel budget 2025 193.505 
+Indexatie IB 2026 (100%) 2.516 
+Correctie besparingen 2025 78 
+Beparingen 2026 -1.741 
+Initieel budget 2026 194.358 
+7. 12.11.00/047/CF_00 -   Geschillen : 1.025.510 euro 
+ 
+ 
+a) Aard van de uitgaven 
+ 
+Kosten voor geschillen 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100047 
+Initieel budget 2025 1.021.009 
+Indexatie IB 2026 (100%) 13.273 
+Correctie besparingen 2025 412 
+Beparingen 2026 -9.184 
+Initieel budget 2026 1.025.510 
+ 
+8. 12.11.00/048/CF_00 -  Kosten voor interne laboΓÇÖs   
+: 2.974.654 euro 
+ 
+a) Aard van de uitgaven 
+ 
+ Onderhoud en herstelling van meubelen van 
+laboΓÇÖs 
+ Producten voor de analyses in de laboΓÇÖs 
+6. 12.11.00/046/CF_00 ΓÇô Gestion de crise: 194.358 
+euros 
+a) Nature des d├⌐penses  
+Fonctionnement de la cellule de crise 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100046 
+Budget initial 2025 193.505 
+Indexation BI 2026 (100%) 2.516 
+Correction ├⌐conomies 2025 78 
+Economies 2026 -1.741 
+Budget initial 2026 194.358 
+7. 12.11.00/047/CF_00 ΓÇô Contentieux: 1. 025.510 
+euros 
+ 
+a) Nature des d├⌐penses  
+ 
+Frais de litiges 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100047 
+Budget initial 2025 1.021.009 
+Indexation BI 2026 (100%) 13.273 
+Correction ├⌐conomies 2025 412 
+Economies 2026 -9.184 
+Budget initial 2026 1.025.510 
+ 
+ 
+8. 12.11.00/048/CF_00 ΓÇô Frais de laboratoires 
+internes : 2.974.654 euros 
+ 
+a) Nature des d├⌐penses  
+ 
+ Entretien et r├⌐paration du mobilier des 
+laboratoires 
+ Produits pour les analyses dans les laboratoires 
+
+=== 133 ===
+133
+1281/022DOC 56
+ Ringtests 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100048 
+Initieel budget 2025 2.961.598 
+Indexatie IB 2026 (100%) 38.501 
+Correctie besparingen 2025 1.196 
+Beparingen 2026 -26.641 
+Initieel budget 2026 2.974.654 
+ 
+ 
+9. 12.11.00/049/CF_00 -   Prestaties door derden ΓÇô 
+BMO : 45.191.900 euro 
+a) Aard van de uitgaven 
+ 
+Tarieven van de BMOΓÇÖs (externen belast met opdracht) 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100049 
+Initieel budget 2025 42.726.481 
+Indexatie IB 2026 (100%) 1.110.888 
+Link indexatie ontvangsten - indexatie 
+uitgaven 2026 -918.646 
+Indexatie BC2025 -10.922 
+Correctie besparingen 2025 17.251 
+Beparingen 2026 -384.343 
+Pax Veterinaria 2.651.190 
+Initieel budget 2026 45.191.900 
+ 
+10. 12.11.00/050/CF_00 ΓÇô Forfaitaire 
+onkostenvergoedingen aan het personeel : 0 euro 
+ 
+ 
+a) Aard van de uitgaven 
+ 
+ Kosten voor verplaatsingen : 
+kilometercontingenten 
+ Dienstverplaatsingen - fiets 
+ Forfaitaire verblijfsvergoedingen voor reizende 
+ambtenaren 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100050 
+Initieel budget 2025 5.463.577 
+forfaitaire onkostenvergoedingen aan het 
+personeel -5.463.577 
+Initieel budget 2026 0 
+ Ringtests 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100048 
+Budget initial 2025 2.961.598 
+Indexation BI 2026 (100%) 38.501 
+Correction ├⌐conomies 2025 1.196 
+Economies 2026 -26.641 
+Budget initial 2026 2.974.654 
+ 
+ 
+9. 12.11.00/049/CF_00 ΓÇô Prestations par des tiers ΓÇô 
+CDM : 45.191.900 euros 
+a) Nature des d├⌐penses  
+ 
+Tarifs des CDM (charg├⌐s de mission externes) 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100049 
+Budget initial 2025 42.726.481 
+Indexation BI 2026 (100%) 1.110.888 
+Lien indexation recettes - indexation 
+d├⌐penses 2026 -918.646 
+Indexation CB2025 -10.922 
+Correction ├⌐conomies 2025 17.251 
+Economies 2026 -384.343 
+Pax Veterinaria 2.651.190 
+Budget initial 2026 45.191.900 
+10. 12.11.00/050/CF_00 ΓÇô Indemnit├⌐s forfaitaires 
+compensatoires de frais au personnel : 0 euro 
+ 
+ 
+a) Nature des d├⌐penses  
+ 
+ Frais de d├⌐placement : contingents 
+kilom├⌐triques 
+ Frais de d├⌐placement de service - v├⌐lo 
+ Indemnit├⌐s de s├⌐jour forfaitaires pour itin├⌐rants 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100050 
+Budget initial 2025 5.463.577 
+indemnit├⌐s forfaitaires compensatoires de 
+frais au personnel -5.463.577 
+Budget initial 2026 0 
+
+=== 134 ===
+1281/022DOC 56
+134
+ 
+11. 12.11.00/999/CF_00 ΓÇô Forfaitaire 
+onkostenvergoedingen aan het personeel  : 
+5.129.931 euro 
+ 
+a) Aard van de uitgaven 
+ 
+ Kosten voor verplaatsingen : 
+kilometercontingenten 
+ Dienstverplaatsingen - fiets 
+ Forfaitaire verblijfsvergoedingen voor reizende 
+ambtenaren 
+ Vergoedingen telewerk 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+NL 8121100999 
+Initieel budget 2025 0 
+forfaitaire onkostenvergoedingen aan het 
+personeel 5.595.577 
+Indexatie IB 2026 (100%) 223.823 
+Correctie besparingen 2025 2.206 
+Beparingen 2026 -50.335 
+Brexit -641.341 
+Vermindering index personeel (4% > 2%) 0 
+Initieel budget 2026 5.129.931 
+ 
+ 
+12. 12.11.00/051/CF_02 ΓÇô RFF ΓÇô Digitalisatie van het 
+FAVV (excl. BTW)  : 1.274.365 euro 
+ 
+ 
+a) Aard van de uitgaven 
+ 
+Bedragen exclusief BTW van uitgaven gerealiseerd in 
+het kader van het project ΓÇ£Digitalisation of the AFSCAΓÇÖs 
+services for operators and consumers (I205025 / BE -
+C[C22-I[I-205])ΓÇ¥. 
+Project ingeschreven in het plan voor herstel en 
+veerkracht (RRF). 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100051 
+Initieel budget 2025 3.200.000 
+Actualisatie DIFA 2026 -1.925.635 
+Initieel budget 2026 1.274.365 
+ 
+ 
+13. 12.11.00/052/CF_02 ΓÇô RFF ΓÇô Digitalisatie van het 
+FAVV (BTW)  : 267.617 euro 
+ 
+ 
+a) Aard van de uitgaven 
+ 
+ 
+11. 12.11.00/999/CF_00 ΓÇô Indemnit├⌐s forfaitaires 
+compensatoires de frais au personnel : 5.129.931 
+euros 
+ 
+a) Nature des d├⌐penses  
+ 
+ Frais de d├⌐placement : contingents 
+kilom├⌐triques 
+ Frais de d├⌐placement de service - v├⌐lo 
+ Indemnit├⌐s de s├⌐jour forfaitaires pour itin├⌐rants 
+ Indemnit├⌐s t├⌐l├⌐travail 
+ 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ 
+FR 8121100999 
+Budget initial 2025 0 
+indemnit├⌐s forfaitaires compensatoires de 
+frais au personnel 5.595.577 
+Indexation BI 2026 (100%) 223.823 
+Correction ├⌐conomies 2025 2.206 
+Economies 2026 -50.335 
+Brexit -641.341 
+Diminution index personnel (4% > 2%) 0 
+Budget initial 2026 5.129.931 
+ 
+ 
+12. 12.11.00/051/CF_02 ΓÇô PRR-Digitalisation de 
+lΓÇÖAFSCA (HTVA) : 1.274.365 euros 
+ 
+ 
+a) Nature des d├⌐penses  
+ 
+Montants hors TVA des d├⌐penses r├⌐alis├⌐es dans le 
+cadre du projet ΓÇ£Digitalisation of the AFSCAΓÇÖs services 
+for operators and consumers (I205025 / BE -C[C22-I[I-
+205])ΓÇ¥. 
+Projet inscrit dans le plan pour la reprise et la r├⌐silience 
+(PRR). 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100051 
+Budget initial 2025 3.200.000 
+Actualisation DIFA 2026 -1.925.635 
+Budget initial 2026 1.274.365 
+ 
+ 
+ 
+13. 12.11.00/052/CF_02 ΓÇô PRR-Digitalisation de 
+lΓÇÖAFSCA (TVA) : 267.617 euros 
+ 
+ 
+
+=== 135 ===
+135
+1281/022DOC 56
+Bedragen van de BTW van uitgaven gerealiseerd in 
+het kader van het project ΓÇ£Digitalisation of the AFSCAΓÇÖs 
+services for operators and consumers (I205025 / BE -
+C[C22-I[I-205])ΓÇ¥. 
+Project ingeschreven in het planvoor herstel en 
+veerkracht (RRF). 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8121100052 
+Initieel budget 2025 672.000 
+Actualisatie DIFA 2026 -404.383 
+Initieel budget 2026 267.617 
+ 
+ 
+14. 12.11.00/998/CF_02 -    Werkingsmiddelen ΓÇô EU-
+Voorzitterschap : 0 euro 
+ 
+a) Aard van de uitgaven 
+Werkingsmiddelen in het kader van de EU 
+voorzitterschap 2024 
+b) Berekeningsmethode van de uitgave in 2026 
+Niet van toepassing 
+ 
+ 
+ECONOMISCHE CODE : 12.12.00   Huurgelden van 
+gebouwen 
+a) Nature des d├⌐penses  
+Montants de la TVA des d├⌐penses r├⌐alis├⌐es dans le 
+cadre du projet ΓÇ£Digitalisation of the AFSCAΓÇÖs services 
+for operators and consumers (I205025 / BE -C[C22-I[I-
+205])ΓÇ¥. 
+Projet inscrit dans le plan pour la reprise et la r├⌐silience 
+(PRR). 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8121100052 
+Budget initial 2025 672.000 
+Actualisation DIFA 2026 -404.383 
+Budget initial 2026 267.617 
+ 
+ 
+14. 12.11.00/998/CF_02 ΓÇô Moyens de fonctionnement 
+ΓÇô Pr├⌐sidence UE : 0 euro 
+ 
+a) Nature des d├⌐penses  
+Frais de fonctionnement dans le cadre de la pr├⌐sidence 
+UE 2024 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+Pas dΓÇÖapplication 
+ 
+CODE ECONOMIQUE : 12.12.00 Locations de 
+b├ótiments 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+12.12.00  
+ 
+12.12.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+629.974 
+ 
+ 
+981.621 
+ 
+ 
+945.843 
+Totaal - total   629.974 981.621 945.843 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif 
+ 
+1. 12.12.00/002/CF_00 -  Huurgelden van gebouwen  
+: 945.843 euro 
+ 
+1. 12.12.00/002/CF_00 ΓÇô Locations de b├ótiments : 
+945.843 euros 
+ 
+a) Aard van de uitgaven 
+Huur van lokalen - huurlasten  
+ 
+a) Nature des d├⌐penses  
+Locations des locaux ΓÇô charges locatives  
+ 
+b) Berekeningsmethode van de uitgave in 2026 b) M├⌐thode de calcul de la d├⌐pense en 2026 
+
+=== 136 ===
+1281/022DOC 56
+136
+NL 8121200002 
+Initieel budget 2025 981.621 
+Indexatie IB 2026 (100%) 12.761 
+Correctie besparingen 2025 396 
+Beparingen 2026 -8.830 
+Brexit -40.105 
+Initieel budget 2026 945.843 
+ 
+FR 8121200002 
+Budget initial 2025 981.621 
+Indexation BI 2026 (100%) 12.761 
+Correction ├⌐conomies 2025 396 
+Economies 2026 -8.830 
+Brexit -40.105 
+Budget initial 2026 945.843 
+ 
+ 
+ECONOMISCHE CODE : 12.21.00 Algemene 
+werkingskosten 
+ 
+CODE ECONOMIQUE : 12.21.00 Frais g├⌐n├⌐raux de 
+fonctionnement 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+12.21.00  
+ 
+12.21.00/041 
+12.21.00/042 
+12.21.00/043 
+12.21.00/044 
+12.21.00/045 
+12.21.00/046 
+12.21.00/047 
+12.21.00/048 
+12.21.00/999 
+ 
+ 
+ 
+ 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+ 
+ 
+ 
+ 
+ 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+lim 
+ 
+ 
+ 
+ 
+572.125 
+85.174 
+206.781 
+7.083.728 
+160.740 
+900.144 
+2.145 
+14.691 
+7.565.753 
+ 
+ 
+ 
+653.316 
+38.805 
+10.361 
+8.249.903 
+377.126 
+210.213 
+5.047 
+98.601 
+3.468.906 
+ 
+ 
+619.867 
+38.976 
+10.406 
+8.286.271 
+378.788 
+211.140 
+5.069 
+99.036 
+862.048 
+Totaal - total   16.591.280 13.112.278 10.511.601 
+ 
+12.21.00  
+ 
+12.21.00/051 
+12.21.00/998 
+ 
+ 
+ 
+CF_02 
+CF_02 
+ 
+ 
+ 
+lim 
+lim 
+ 
+ 
+ 
+ 
+111.691 
+291.679 
+ 
+ 
+0 
+0 
+ 
+ 
+0 
+0 
+Totaal - total   403.370 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+1. 12.21.00/041/CF_00 -   Kosten gebonden aan de 
+werking en aan het gebouw : 619.867 euro 
+ 
+1. 12.21.00/041/CF_00 ΓÇô Frais li├⌐s au fonctionnement 
+et au b├ótiment : 619.867 euros 
+ 
+a) Aard van de uitgaven 
+Zie 12.11.00/041, maar binnen de overheidssector
+ 
+a) Nature des d├⌐penses  
+Voir 12.11.00/041, mais ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100041 
+Initieel budget 2025 653.316 
+Indexatie IB 2026 (100%) 8.493 
+Correctie besparingen 2025 264 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100041 
+Budget initial 2025 653.316 
+Indexation BI 2026 (100%) 8.493 
+Correction ├⌐conomies 2025 264 
+
+=== 137 ===
+137
+1281/022DOC 56
+Besparingen 2026 -5.877 
+Brexit -36.329 
+Initieel budget 2026 619.867 
+ 
+Economies 2026 -5.877 
+Brexit -36.329 
+Budget initial 2026 619.867 
+ 
+2. 12.21.00/042/CF_00 -    Werkingsmiddelen voor 
+het beheer van het personeel : 38.976 euro 
+ 
+2. 12.21.00/042/CF_00 ΓÇô Moyens de fonctionnement 
+pour la gestion du personnel : 38.976 euros 
+ 
+a) Aard van de uitgaven 
+Zie 12.11.00/042, maar binnen de overheidssector 
+ 
+a) Nature des d├⌐penses  
+Voir 12.11.00/042, mais ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100042 
+Initieel budget 2025 38.805 
+Indexatie IB 2026 (100%) 504 
+Correctie besparingen 2025 16 
+Besparingen 2026 -349 
+Initieel budget 2026 38.976 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100042 
+Budget initial 2025 38.805 
+Indexation BI 2026 (100%) 504 
+Correction ├⌐conomies 2025 16 
+Economies 2026 -349 
+Budget initial 2026 38.976 
+ 
+3. 12.21.00/043/CF_00 -    ICT : 10.406 euro 
+ 
+3. 12.21.00/043/CF_00 ΓÇô ICT : 10.406 euros 
+ 
+a) Aard van de uitgaven 
+ Zie 12.11.00/043 , maar binnen de 
+overheidssector 
+ Transacties IBZ 
+ 
+a) Nature des d├⌐penses  
+ Voir 12.11.00/043, mais ├á lΓÇÖint├⌐rieur du secteur 
+des administrations publiques 
+ Transactions IBZ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100043 
+Initieel budget 2025 10.361 
+Indexatie IB 2026 (100%) 135 
+Correctie besparingen 2025 4 
+Besparingen 2026 -93 
+Initieel budget 2026 10.406 
+4. 12.21.00/044/CF_00 ΓÇô Prestations par des tiers ΓÇô 
+labos externes : 8.286.271 euro 
+a) Aard van de uitgaven 
+ Zie 12.11.00/044 , maar binnen de 
+overheidssector 
+ CODA ΓÇô CERVA 
+ ΓÇª 
+b) Berekeningsmethode van de uitgave in 2026 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100043 
+Budget initial 2025 10.361 
+Indexation BI 2026 (100%) 135 
+Correction ├⌐conomies 2025 4 
+Economies 2026 -93 
+Budget initial 2026 10.406 
+4. 12.21.00/044/CF_00 ΓÇô Prestations par des tiers ΓÇô 
+labos externes : 8.286.271 euros 
+a) Nature des d├⌐penses  
+ Voir 12.11.00/044, mais ├á lΓÇÖint├⌐rieur du secteur 
+des administrations publiques 
+ CODA ΓÇô CERVA 
+ ΓÇª 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100044 
+
+=== 138 ===
+1281/022DOC 56
+138
+NL 8122100044 
+Initieel budget 2025 8.249.903 
+Indexatie IB 2026 (100%) 107.249 
+Correctie besparingen 2025 3.331 
+Besparingen 2026 -74.211 
+Initieel budget 2026 8.286.271 
+5. 12.21.00/045/CF_00 -      Prestaties door derden - 
+andere : 378.788 euro 
+a) Aard van de uitgaven 
+ Zie 12.11.00/045, maar binnen de 
+overheidssector 
+ SMALS (facturatie van de heffingen en contact 
+center) 
+ Drukkerij facturen 
+ ΓÇª 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100045 
+Initieel budget 2025 377.126 
+Indexatie IB 2026 (100%) 4.903 
+Correctie besparingen 2025 152 
+Besparingen 2026 -3.392 
+Initieel budget 2026 378.788 
+6. 12.21.00/046/CF_00 -       Crisisbeheer : 211.140 
+euro 
+a) Aard van de uitgaven 
+Zie 12.11.00/046, maar binnen de overheidssector 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100046 
+Initieel budget 2025 210.213 
+Indexatie IB 2026 (100%) 2.733 
+Correctie besparingen 2025 85 
+Besparingen 2026 -1.891 
+Initieel budget 2026 211.140 
+7. 12.21.00/047/CF_00 - Geschillen : 5.069 euro 
+a) Aard van de uitgaven 
+Zie 12.11.00/047, maar binnen de overheidssector 
+Budget initial 2025 8.249.903 
+Indexation BI 2026 (100%) 107.249 
+Correction ├⌐conomies 2025 3.331 
+Economies 2026 -74.211 
+Budget initial 2026 8.286.271 
+5. 12.21.00/045/CF_00 ΓÇô Prestations par des tiers ΓÇô 
+autres : 378.788 euros 
+a) Nature des d├⌐penses  
+ Voir 12.11.00/045, mais ├á lΓÇÖint├⌐rieur du secteur 
+des administrations publiques 
+ SMALS (facturation des contributions et call 
+center) 
+ Impression factures 
+ ΓÇª 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100045 
+Budget initial 2025 377.126 
+Indexation BI 2026 (100%) 4.903 
+Correction ├⌐conomies 2025 152 
+Economies 2026 -3.392 
+Budget initial 2026 378.788 
+6. 12.21.00/046/CF_00 ΓÇô Gestion de crise : 2 11.140 
+euros 
+a) Nature des d├⌐penses  
+Voir 12.11.00/046, mais ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100046 
+Budget initial 2025 210.213 
+Indexation BI 2026 (100%) 2.733 
+Correction ├⌐conomies 2025 85 
+Economies 2026 -1.891 
+Budget initial 2026 211.140 
+7. 12.21.00/047/CF_00 ΓÇô Contentieux : 5.069 euros 
+a) Nature des d├⌐penses  
+Voir 12.11.00/047, mais ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques 
+
+=== 139 ===
+139
+1281/022DOC 56
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100047 
+Initieel budget 2025 5.047 
+Indexatie IB 2026 (100%) 66 
+Correctie besparingen 2025 2 
+Besparingen 2026 -45 
+Initieel budget 2026 5.069 
+8. 12.21.00/048/CF_00 -  Kosten voor interne laboΓÇÖs   
+: 99.036 euro 
+a) Aard van de uitgaven 
+Zie 12.11.00/048, maar binnen de overheidssector 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122100048 
+Initieel budget 2025 98.602 
+Indexatie IB 2026 (100%) 1.282 
+Correctie besparingen 2025 40 
+Besparingen 2026 -887 
+Initieel budget 2026 99.036 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8122100047 
+Budget initial 2025 5.047 
+Indexation BI 2026 (100%) 66 
+Correction ├⌐conomies 2025 2 
+Economies 2026 -45 
+Budget initial 2026 5.069 
+8. 12.21.00/048/CF_00 ΓÇô Frais de laboratoires 
+internes : 99.036 euros 
+a) Nature des d├⌐penses  
+Voir 12.11.00/048, mais ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques 
+b) M├⌐thode de calcul de la d├⌐pense en 2026  
+FR 8122100048 
+Budget initial 2025 98.602 
+Indexation BI 2026 (100%) 1.282 
+Correction ├⌐conomies 2025 40 
+Economies 2026 -887 
+Budget initial 2026 99.036 
+9. 12.21.00/999/CF_00 -  Prestaties door derden - 
+SMALS  : 862.048 euro 
+ 
+a) Aard van de uitgaven 
+ 
+ Gedetacheerden SMALS 
+ 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+NL 8122100999 
+Initieel budget 2025 3.468.905 
+Herverdeling SMALS consultancy ICT  -2.600.511 
+Indexatie IB 2026 (100%) 34.736 
+Correctie besparingen 2025 1.401 
+Besparingen 2026 -7.812 
+Vermindering index personeel (4% > 2%) -34.671 
+Initieel budget 2026 862.048 
+ 
+ 
+10. 12.21.00/051/CF_02 -  RFF ΓÇô Digitalisatie van het 
+FAVV (excl. BTW)  : 0 euro 
+9. 12.21.00/999/CF_00 ΓÇô Prestations par des tiers - 
+SMALS : 862.048 euros 
+ 
+a) Nature des d├⌐penses  
+ 
+ D├⌐tach├⌐s SMALS 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+FR 8122100999 
+Budget initial 2025 3.468.905 
+Redistribution SMALS consultance ICT  -2.600.511 
+Indexation BI 2026 (100%) 34.736 
+Correction ├⌐conomies 2025 1.401 
+Economies 2026 -7.812 
+Diminution index personnel (4% > 2%) -34.671 
+Budget initial 2026 862.048 
+ 
+ 
+10. 12.21.00/051/CF_02 ΓÇô PRR - Digitalisation de 
+lΓÇÖAFSCA (HTVA) : 0 euro 
+
+=== 140 ===
+1281/022DOC 56
+140
+ 
+a) Aard van de uitgaven 
+ 
+Zie 12.11.00/051, maar binnen de overheidssector 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+ECONOMISCHE CODE : 12.22.00   Huurgelden van 
+gebouwen 
+ 
+a) Nature des d├⌐penses  
+ 
+Voir 12.11.00/051, mais ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Pas dΓÇÖapplication 
+ 
+ 
+CODE ECONOMIQUE : 12.22.00 Locations de 
+b├ótiments 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+12.22.00  
+ 
+12.22.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+867.910 
+ 
+ 
+839.277 
+ 
+ 
+783.528 
+Totaal - total   867.910 839.277 783.528 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+ 
+1. 12.22.00/002/CF_00 -  Huurgelden van gebouwen  
+: 783.528 euro 
+ 
+1. 12.22.00/002/CF_00 ΓÇô Locations de b├ótiments : 
+783.528 euros 
+ 
+a) Aard van de uitgaven 
+Huur van lokalen ΓÇô huurlasten, maar betaalde 
+bedragen voor het huren van gebouwen waarvan de 
+eigenaar tot de overheidssector behoort 
+a) Nature des d├⌐penses  
+Locations des locaux ΓÇô charges locatives , mais 
+montants pay├⌐s pour la location de b├ótiments dont le 
+propri├⌐taire appartient au secteur des administrations 
+publiques 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8122200002 
+Initieel budget 2025 839.277 
+Indexatie IB 2026 (100%) 10.911 
+Correctie besparingen 2025 339 
+Beparingen 2026 -7.550 
+Brexit -59.449 
+Initieel budget 2026 783.528 
+ 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026  
+FR 8122200002 
+Budget initial 2025 839.277 
+Indexation BI 2026 (100%) 10.911 
+Correction ├⌐conomies 2025 339 
+Economies 2026 -7.550 
+Brexit -59.449 
+Budget initial 2026 783.528 
+ 
+ECONOMISCHE CODE : 12.50.00    Belastingen 
+betaald aan subsectoren van de overheidssector 
+CODE ECONOMIQUE : 12.50.00 Imp├┤ts pay├⌐s ├á des 
+sous-secteurs du secteur des administrations 
+publiques 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+2025 
+Initieel BUDGET  
+2026 
+Initieel BUDGET initial 
+
+=== 141 ===
+141
+1281/022DOC 56
+R├⌐alisations  initial  
+12.50.00  
+ 
+12.50.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+14.251 
+ 
+ 
+25.730 
+ 
+ 
+23.295 
+Totaal - total   14.251 25.730 23.295 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 12.50.00/002/CF_00 -   Belastingen betaald aan 
+subsectoren van de overheidssector : 23.295 euro 
+1. 12.50.00/002/CF_00 ΓÇô Imp├┤ts pay├⌐s ├á des sous-
+secteurs du secteur des administrations publiques : 
+23.295 euros 
+ 
+a) Aard van de uitgaven 
+Belastingen en taksen ΓÇô bijdragen milieu 
+a) Nature des d├⌐penses  
+Imp├┤ts et taxes ΓÇô contributions environnement 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8125000002 
+Initieel budget 2025 25.730 
+Indexatie IB 2026 (100%) 334 
+Correctie besparingen 2025 10 
+Beparingen 2026 -231 
+Brexit -2.548 
+Initieel budget 2026 23.295 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8125000002 
+Budget initial 2025 25.730 
+Indexation BI 2026 (100%) 334 
+Correction ├⌐conomies 2025 10 
+Economies 2026 -231 
+Brexit -2.548 
+Budget initial 2026 23.295 
+ 
+ 
+ARTIKEL 21 ΓÇô  Interestlasten 
+ 
+ 
+ 
+ARTICLE 21 ΓÇô Charges dΓÇÖint├⌐r├¬t 
+ 
+ECONOMISCHE CODE : 21.40.00  Rente op 
+commerci├½le schuld 
+CODE ECONOMIQUE : 21.40.00 Int├⌐r├¬ts de la dette 
+commerciale 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+21.40.00  
+ 
+21.40.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+200 
+ 
+ 
+200 
+Totaal - total   0 200 200 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 21.40.00/002/CF_00 -   Rente op commerci├½le 
+schuld : 200 euro 
+ 
+1. 21.40.00/002/CF_00 ΓÇô Int├⌐r├¬ts de la dette 
+commerciale : 200 euros 
+ 
+a) Aard van de uitgaven 
+Verwijlinteresten 
+a) Nature des d├⌐penses  
+Int├⌐r├¬ts de retard 
+
+=== 142 ===
+1281/022DOC 56
+142
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8214000002 
+Initieel budget 2025 200 
+Initieel budget 2026 200 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8214000002 
+Budget initial 2025 200 
+Budget initial 2026 200 
+ECONOMISCHE CODE : 21.60.00    Andere rente CODE ECONOMIQUE : 21.60.00 Autres int├⌐r├¬ts 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+21.60.00  
+ 
+21.60.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+83.758 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   83.758 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 21.60.00/002/CF_00 -  Andere rente  : 0 euro 
+ 
+1. 21.60.00/002/CF_00 ΓÇô Autres int├⌐r├¬ts : 0 euro 
+ 
+a) Aard van de uitgaven 
+Interesten ΓÇô Interdepartementale provisie voor 
+gerechtskosten  
+a) Nature des d├⌐penses  
+Int├⌐r├¬ts ΓÇô Provision interd├⌐partementale pour frais de 
+justice   
+ 
+b) Berekeningsmethode van de uitgave in 2026 b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ARTIKEL 32 ΓÇô   Inkomensoverdrachten, die geen 
+exploitatiesubsidies zijn, aan bedrijven en 
+financi├½le instellingen 
+ 
+ARTICLE 32 ΓÇô Transferts de revenus, autres que des 
+subventions dΓÇÖexploitation, aux entreprises et 
+institutions financi├¿res 
+ 
+ECONOMISCHE CODE : 32.00.00   
+Inkomensoverdrachten, die geen 
+exploitatiesubsidies zijn, aan bedrijven en 
+financi├½le instellingen 
+CODE ECONOMIQUE : 32.00.00 Transferts de 
+revenus, autres que des subventions dΓÇÖexploitation, 
+aux entreprises et institutions financi├¿res 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+32.00.00  
+ 
+32.00.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+255.131 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   255.131 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+
+=== 143 ===
+143
+1281/022DOC 56
+ 
+ 
+ 
+1. 32.00.00/002/CF_00 -    Inkomensoverdrachten 
+aan bedrijven en financi├½le instellingen : 0 euro 
+ 
+1. 32.00.00/002/CF_00 ΓÇô Transferts de revenus aux 
+entreprises et institutions financi├¿res : 0 euro 
+ 
+a) Aard van de uitgaven 
+Schadevergoedingen en gerechtskosten ΓÇô bedrijven 
+(interdepartementale provisie) 
+ 
+a) Nature des d├⌐penses  
+Dommages et frais de justice ΓÇô entreprises (provision 
+interd├⌐partementale) 
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026
+ARTIKEL 33 ΓÇô    Inkomensoverdrachten aan vzwΓÇÖs 
+ten behoeve van de gezinnen 
+ 
+ARTICLE 33 ΓÇô Transferts de revenus aux ASBL au 
+service des m├⌐nages 
+ 
+ECONOMISCHE CODE : 33.00.00    
+Inkomensoverdrachten aan vzwΓÇÖs ten behoeve van 
+de gezinnen 
+CODE ECONOMIQUE : 33.00.00 Transferts de 
+revenus aux ASBL au service des m├⌐nages 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+33.00.00  
+ 
+33.00.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   0 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 33.00.00/002/CF_00 -     Inkomensoverdrachten 
+aan vzwΓÇÖs ten behoeve van de gezinnen : 0 euro 
+ 
+1. 33.00.00/002/CF_00 ΓÇô Transferts de revenus aux 
+ASBL au service des m├⌐nages : 0 euro 
+ 
+a) Aard van de uitgaven 
+Schadevergoedingen en gerechtskosten ΓÇô vzwΓÇÖs 
+(interdepartementale provisie) 
+ 
+a) Nature des d├⌐penses  
+Dommages et frais de justice ΓÇô ASBL (provision 
+interd├⌐partementale) 
+b) Berekeningsmethode van de uitgave in 2026 b) M├⌐thode de calcul de la d├⌐pense en 2026
+ARTIKEL 34 ΓÇô Inkomensoverdrachten aan gezinnen 
+ 
+ARTICLE 34 ΓÇô Transferts de revenus aux m├⌐nages 
+ 
+ECONOMISCHE CODE : 34.32.00 Uitkeringen in 
+natura 
+CODE ECONOMIQUE : 34.32.00 Prestations en 
+nature 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+34.32.00  
+ 
+34.32.00/002 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+3.568 
+ 
+ 
+20.223 
+ 
+ 
+20.223 
+
+=== 144 ===
+1281/022DOC 56
+144
+  
+Totaal - total   3.568 20.223 20.223 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 34.32.00/002/CF_00 - Inkomensoverdrachten aan 
+gezinnen ΓÇô Overige sociale uitkeringen in natura  : 
+20.223 euro 
+ 
+1. 34.32.00/002/CF_00 ΓÇô Transferts de revenus aux 
+m├⌐nages ΓÇô Autres prestations sociales en nature  : 
+20.223 euros 
+ 
+a) Aard van de uitgaven 
+Terugbetaling van medische kosten 
+a) Nature des d├⌐penses  
+Remboursement des frais m├⌐dicaux 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8343200002 
+Initieel budget 2025 20.223 
+Initieel budget 2026 20.223 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8343200002 
+Budget initial 2025 20.223 
+Budget initial 2026 20.223 
+ 
+ECONOMISCHE CODE : 34.41.00 Geldelijke 
+uitkeringen 
+CODE ECONOMIQUE : 34.41.00 Prestations en 
+esp├¿ces 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+34.41.00  
+ 
+34.41.00/002 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   0 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 34.41.00/002/CF_00 -  Inkomensoverdrachten aan 
+gezinnen ΓÇô Overige geldelijke uitkeringen : 0 euro 
+ 
+1. 34.41.00/002/CF_00 ΓÇô Transferts de revenus aux 
+m├⌐nages ΓÇô Autres prestations en esp├¿ces : 0 euro 
+ 
+a) Aard van de uitgaven 
+Schadevergoedingen en gerechtskosten ΓÇô gezinnen 
+(interdepartementale provisie) 
+ 
+a) Nature des d├⌐penses  
+Dommages et frais de justice ΓÇô m├⌐nages (provision 
+interd├⌐partementale) 
+b) Berekeningsmethode van de uitgave in 2026 b) M├⌐thode de calcul de la d├⌐pense en 2026
+ARTIKEL 41 ΓÇô  Inkomensoverdrachten binnen een 
+institutionele groep  
+ARTICLE 41 ΓÇô Transferts de revenus ├á lΓÇÖint├⌐rieur 
+dΓÇÖun groupe institutionnel 
+ 
+ECONOMISCHE CODE : 41.10.00  
+Inkomensoverdrachten aan de institutionele 
+overheid 
+CODE ECONOMIQUE : 41.10.00 Transferts de 
+revenus au pouvoir institutionnel 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT CF - FC SC - KS 2024  2025 2026 
+
+=== 145 ===
+145
+1281/022DOC 56
+   Realisatie 
+R├⌐alisations  
+Initieel BUDGET  
+initial  
+Initieel BUDGET initial 
+41.10.00  
+ 
+41.10.00/001 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+0 
+ 
+ 
+0 
+ 
+Totaal - total   0 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 41.10.00/001/CF_00 - Storting aan de Thesaurie ΓÇô 
+crisis Fipronil  : 0 euro 
+ 
+1. 41.10.00/001/CF_00 ΓÇô Versement au Tr├⌐sor ΓÇô crise 
+Fipronil : 0 euro 
+ 
+a) Aard van de uitgaven 
+Deze economische code bevat de overdracht van een 
+deel van de financi├½le reserve van het FAVV naar de 
+FOD BOSA om over te gaan op de compensatie van 
+de verliezen die de operatoren geleden hebben in het 
+kader van de Fipronilcrisis.  
+ 
+a) Nature des d├⌐penses  
+Ce code ├⌐conomique comprend le transfert dΓÇÖune part 
+de la r├⌐serve financi├¿re de lΓÇÖAFSCA vers le SPF BOSA 
+afin de proc├⌐der ├á la compensation des pertes subies 
+par les op├⌐rateurs dans le cadre de la crise du Fipronil.  
+b) Berekeningsmethode van de uitgave in 2026 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+ARTIKEL 51 ΓÇô  Kapitaaloverdrachten aan bedrijven 
+en financi├½le instellingen  
+ARTICLE 51 ΓÇô Transferts en capital aux entreprises 
+et institutions financi├¿res 
+ 
+ECONOMISCHE CODE : 51.22.00 Overige 
+kapitaaloverdrachten aan priv├⌐bedrijven 
+CODE ECONOMIQUE : 51.22.00 Autres transferts en 
+capital aux entreprises priv├⌐es 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+51.22.00  
+ 
+51.22.00/001 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+754.844 
+ 
+ 
+1.581.570 
+ 
+ 
+1.581.570 
+Totaal - total   754.844 1.581.570 1.581.570 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 51.22.00/001/CF_00 - Overige 
+kapitaaloverdrachten aan priv├⌐bedrijven : 1.581.570 
+euro 
+ 
+1. 51.22.00/001/CF_00 ΓÇô Autres transferts en capital 
+aux entreprises priv├⌐es : 1.581.570 euros 
+ 
+a) Aard van de uitgaven 
+Oninbare vorderingen 
+ 
+a) Nature des d├⌐penses  
+Cr├⌐ances irr├⌐couvrables 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8512200001 
+Initieel budget 2025 1.581.570 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8512200001 
+Budget initial 2025 1.581.570 
+
+=== 146 ===
+1281/022DOC 56
+146
+Initieel budget 2026 1.581.570 
+ 
+ 
+Budget initial 2026 1.581.570 
+ARTIKEL 74 ΓÇô Verwerving van overige 
+investeringsgoederen, waaronder immateri├½le 
+goederen  
+ARTICLE 74 ΓÇô Acquisitions dΓÇÖautres biens 
+dΓÇÖinvestissement, y compris les biens incorporels 
+ 
+ECONOMISCHE CODE : 74.10.00  Aankoop van 
+vervoermaterieel 
+CODE ECONOMIQUE : 74.10.00 Achats de mat├⌐riel 
+de transport 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+74.10.00  
+ 
+74.10.00/001 
+ 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+6.293 
+ 
+ 
+217.608 
+ 
+ 
+220.436 
+Totaal - total   6.293 217.608 220.436 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 74.10.00/001/CF_00 - Aankoop van 
+vervoermaterieel : 220.436 euro 
+ 
+1. 74.10.00/001/CF_00 ΓÇô Achats de mat├⌐riel de 
+transport : 220.436 euros 
+ 
+a) Aard van de uitgaven 
+Aankoop van voertuigen, fietsen, bestelwagenΓÇª 
+ 
+a) Nature des d├⌐penses  
+Achat de voitures, v├⌐los, camionnettesΓÇª 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8741000001 
+Initieel budget 2025 217.608 
+Indexatie IB 2026 (100%) 2.829 
+Initieel budget 2026 220.436 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8741000001 
+Budget initial 2025 217.608 
+Indexation BI 2026 (100%) 2.829 
+Budget initial 2026 220.436 
+ECONOMISCHE CODE : 74.22.00   Verwerving van 
+overig materieel 
+CODE ECONOMIQUE : 74.22.00 Acquisitions dΓÇÖautre 
+mat├⌐riel 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+74.22.00  
+ 
+74.22.00/007 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+lim 
+ 
+ 
+ 
+ 
+2.247.507 
+ 
+ 
+ 
+2.692.056 
+ 
+ 
+2.528.418 
+Totaal - total   2.247.507 2.692.056 2.528.418 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+ 
+
+=== 147 ===
+147
+1281/022DOC 56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 74.22.00/007/CF_00 -  Investeringen : 2.528.418 
+euro 
+ 
+1. 74.22.00/007/CF_00 ΓÇô Investissements : 2.528.418 
+euros 
+ 
+a) Aard van de uitgaven 
+Aankoop van patrimoniale goederen 
+ Algemeen 
+ Controle 
+ Laboratoria 
+ Informatica 
+ 
+a) Nature des d├⌐penses  
+Achat de biens patrimoniaux 
+ G├⌐n├⌐ral 
+ Contr├┤le 
+ Laboratoires 
+ Informatique 
+ 
+b) Berekeningsmethode van de uitgave in 2026 
+NL 8742200007 
+Initieel budget 2025 2.692.056 
+Indexatie IB 2026 (100%) 34.997 
+Brexit -198.635 
+Initieel budget 2026 2.528.418 
+ 
+b) M├⌐thode de calcul de la d├⌐pense en 2026 
+FR 8742200007 
+Budget initial 2025 2.692.056 
+Indexation BI 2026 (100%) 34.997 
+Brexit -198.635 
+Budget initial 2026 2.528.418 
+ 
+ 
+ARTIKEL 16 ΓÇô  Verkoop van niet -duurzame 
+goederen en diensten 
+ 
+ 
+ 
+ARTICLE 16 ΓÇô  Ventes de biens non durables et de 
+services 
+ 
+ECONOMISCHE CODE : 16.11.00  Verkoop van 
+niet-duurzame goederen en diensten aan andere 
+sectoren dan de overheidssector (aan bedrijven) 
+CODE ECONOMIQUE : 16.11.00  Ventes de biens 
+non durables et de services ├á dΓÇÖautres secteurs 
+que le secteur des administrations publiques (aux 
+entreprises) 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+16.11.00  
+ 
+16.11.00/009 
+16.11.00/010 
+ 
+ 
+ 
+CF_00 
+CF_00 
+ 
+ 
+ 
+ 
+n.lim 
+n.lim 
+ 
+ 
+ 
+50.864.536 
+1.460.030 
+ 
+ 
+67.343.313 
+1.310.000 
+ 
+ 
+65.581.917 
+1.310.000 
+Totaal - total   52.324.566 68.653.313 66.891.917 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 16.11.00/009/CF_00 - Retributies : 65.581.917 
+euro 
+ 
+1. 16.11.00/009/CF_00 ΓÇô R├⌐tributions : 6 5.581.917 
+euros 
+ 
+a) Aard van de ontvangsten 
+ Certificatie van producten en dieren, 
+a) Nature des recettes  
+ Certification de produits et animaux, 
+
+=== 148 ===
+1281/022DOC 56
+148
+voornamelijk in het kader van in- en uitvoer 
+(fytosanitaire certificaten, andere certificaten, 
+ΓÇª) 
+ Keuring 
+ Audit op aanvraag (validering 
+autocontrolesysteem, ΓÇª.) 
+ Hercontroles non-conformiteiten 
+ Opsporen van residuen voorzien in de 
+Europese Reglementering 
+ Controlerechten 
+ BSE-testen 
+ 
+notamment dans le cadre de lΓÇÖimportation et 
+lΓÇÖexportation (certificats phytosanitaires, autres 
+certficats,ΓÇª) 
+ Expertise 
+ Audit sur demande (Validation dΓÇÖun syst├¿me 
+dΓÇÖautocontr├┤le, ΓÇª) 
+ Recontr├┤les non-conformit├⌐s 
+ D├⌐tection de r├⌐sidus comme pr├⌐vu par la 
+r├¿glementation europ├⌐enne 
+ Droits de contr├┤le 
+ Tests ESB  
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9161100009 
+Initieel budget 2025 67.343.313 
+Indexatie IB 2026 1.710.520 
+Indexatie BC2025 -45.710 
+Brexit -6.077.397 
+Pax Veterinaria 2.651.190 
+Initieel budget 2026 65.581.917 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9161100009 
+Budget initial 2025 67.343.313 
+Indexation BI 2026 1.710.520 
+Indexation CB2025 -45.710 
+Brexit -6.077.397 
+Pax Veterinaria 2.651.190 
+Budget initial 2026 65.581.917 
+2. 16.11.00/010/CF_00 -  Andere ontvangsten 
+(bedrijven) : 1.310.000 euro 
+ 
+2. 16.11.00/010/CF_00 ΓÇô Autres recettes 
+(entreprises) : 1.310.000 euros 
+ 
+a) Aard van de ontvangsten 
+ Opbrengsten FAVV-laboΓÇÖs 
+ Verdubbelingen en verhogingen retributies 
+ Diverse ontvangsten 
+a) Nature des recettes  
+ Recettes des labos AFSCA 
+ Doublements et majorations r├⌐tributions 
+ Recettes diverses  
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9161100010 
+Initieel budget 2025 1.310.000 
+Initieel budget 2026 1.310.000 
+ECONOMISCHE CODE : 16.12.00  Verkoop van 
+niet-duurzame goederen en diensten aan andere 
+sectoren dan de overheidssector (aan vzwΓÇÖs ten 
+behoeve van de gezinnen en aan gezinnen) 
+Synthesetabel (euro)
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9161100010 
+Budget initial 2025 1.310.000 
+Budget initial 2026 1.310.000 
+CODE ECONOMIQUE : 16.12.00  Ventes de biens 
+non durables et de services ├á dΓÇÖautres secteurs 
+que le secteur des administrations publiques (aux 
+ASBL au service des m├⌐nages et aux m├⌐nages)
+Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+16.12.00  
+ 
+16.12.00/010 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+11.655 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   11.655 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+
+=== 149 ===
+149
+1281/022DOC 56
+ 
+ 
+ 
+1. 16.12.00/010/CF_00 ΓÇô Andere ontvangsten 
+(gezinnen) : 0 euro 
+a) Aard van de ontvangsten 
+ Diverse ontvangsten (verkoop meubilair, ICT -
+materiaal, tweedehandswagensΓÇª) 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+1. 16.12.00/010/CF_00 ΓÇô  Autres recettes (m├⌐nages) 
+ : 0 euro 
+a) Nature des recettes  
+ Recettes diverses (vente mobilier, mat├⌐riel 
+ICT, voitures dΓÇÖoccasionΓÇª) 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+ARTIKEL 26 ΓÇô Rente-ontvangsten van 
+overheidsvorderingen 
+ 
+ARTICLE 26 ΓÇô   Int├⌐r├¬ts de cr├⌐ances des pouvoirs 
+publics  
+ECONOMISCHE CODE : 26.20.00 Rente -
+ontvangsten binnen de overheidssector 
+CODE ECONOMIQUE : 26.20.00 Perception 
+dΓÇÖint├⌐r├¬ts ├á lΓÇÖint├⌐rieur du secteur des 
+administrations publiques 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+26.20.00  
+ 
+26.20.00/002 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+2.749.190 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   2.749.190 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 26.20.00/002/CF_00 -  Rente-ontvangsten binnen 
+de overheidssector  : 0 euro 
+ 
+1. 26.20.00/002/CF_00 ΓÇô Perception dΓÇÖint├⌐r├¬ts ├á 
+lΓÇÖint├⌐rieur du secteur des AP : 0 euro 
+ 
+a) Aard van de ontvangsten 
+Financi├½le ontvangsten (interesten op beleggingen) 
+ 
+a) Nature des recettes  
+Recettes financi├¿res (int├⌐r├¬ts sur placements) 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+ 
+ 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ARTIKEL 36 ΓÇô  Indirecte belastingen en heffingen 
+ 
+ARTICLE 36 ΓÇô Imp├┤ts indirects et taxes   
+ECONOMISCHE CODE : 36.90.00 Diverse 
+belastingen 
+CODE ECONOMIQUE : 36.90.00  Taxes diverses 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+36.90.00  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== 150 ===
+1281/022DOC 56
+150
+36.90.00/005 
+36.90.00/006 
+ 
+CF_00 
+CF_00 
+ 
+n.lim 
+n.lim 
+ 
+41.986.550 
+1.662.343 
+40.081.532 
+1.050.000 
+42.425.170 
+1.050.000 
+Totaal - total   43.648.893 41.131.532 43.475.170 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 36.90.00/005/CF_00 - Heffingen : 42.425.170 euro 
+ 
+1. 36.90.00/005/CF_00 ΓÇô Contributions : 42.425.170 
+euros 
+a) Aard van de ontvangsten 
+Heffingen  
+a) Nature des recettes  
+Contributions 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9369000005 
+Initieel budget 2025 40.081.532 
+Indexatie IB 2026 1.018.071 
+Indexatie BC2025 -27.206 
+Verhoging heffingen/personeelskredieten 1.352.773 
+Initieel budget 2026 42.425.170 
+ 
+ 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9369000005 
+Budget initial 2025 40.081.532 
+Indexation BI 2026 1.018.071 
+Indexation CB2025 -27.206 
+Augmentation contributions/cr├⌐dits de 
+personnel 1.352.773 
+Budget initial 2026 42.425.170 
+2. 36.90.00/006/CF_00 - Verdubbelingen en 
+verhogingen heffingen : 1.050.000 euro 
+ 
+2. 36.90.00/006/CF_00 ΓÇô Doublements et 
+majorations contributions : 1.050.000 euros 
+ 
+a) Aard van de ontvangsten 
+Verdubbelingen en verhogingen heffingen  
+ 
+a) Nature des recettes  
+Doublements et majorations contributions 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9369000006 
+Initieel budget 2025 1.050.000 
+Initieel budget 2026 1.050.000 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9369000006 
+Budget initial 2025 1.050.000 
+Budget initial 2026 1.050.000 
+ARTIKEL 38 ΓÇô Overige inkomensoverdrachten van 
+bedrijven, financi├½le instellingen, vzwΓÇÖs ten 
+behoeve van de gezinnen en van gezinnen 
+ 
+ARTICLE 38 ΓÇô  Autres transferts de revenus des 
+entreprises, institutions financi├¿res, ASBL au 
+service des m├⌐nages et des m├⌐nages    
+ECONOMISCHE CODE : 38.10.00  Overige 
+inkomensoverdrachten van bedrijven 
+CODE ECONOMIQUE : 38.10.00   Autres transferts 
+de revenus des entreprises 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+38.10.00  
+ 
+38.10.00/002 
+38.10.00/003 
+ 
+ 
+CF_00 
+CF_00 
+ 
+ 
+n.lim 
+n.lim 
+ 
+ 
+85.046 
+2.475.529 
+ 
+ 
+25.000 
+5.869.016 
+ 
+ 
+25.000 
+5.869.016 
+
+=== 151 ===
+151
+1281/022DOC 56
+   
+Totaal - total   2.560.575 5.894.016 5.894.016 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 38.10.00/002/CF_00 -  
+Rechtsplegingsvergoeding - bedrijven : 25.000 
+euro 
+ 
+1. 38.10.00/002/CF_00 ΓÇô Indemnit├⌐s de proc├⌐dure - 
+entreprises : 25.000 euros 
+ 
+a) Aard van de ontvangsten 
+Rechtsplegingsvergoeding - bedrijven  
+a) Nature des recettes  
+Indemnit├⌐s de proc├⌐dure - entreprises  
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9381000002 
+Initieel budget 2025 25.000 
+Initieel budget 2026 25.000 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9381000002 
+Budget initial 2025 25.000 
+Budget initial 2026 25.000 
+2. 38.10.00/003/CF_00 - Administratieve boetes  : 
+5.869.016 euro 
+ 
+2. 38.10.00/003/CF_00 ΓÇô Amendes administratives : 
+5.869.016 euros 
+ 
+a) Aard van de ontvangsten 
+Administratieve boetes  
+a) Nature des recettes  
+Amendes administratives  
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9381000003 
+Initieel budget 2025 5.869.016 
+Initieel budget 2026 5.869.016 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9381000003 
+Budget initial 2025 5.869.016 
+Budget initial 2026 5.869.016 
+ 
+ 
+ECONOMISCHE CODE : 38.40.00 Overige 
+inkomensoverdrachten van vzwΓÇÖs ten behoeve van 
+de gezinnen 
+ 
+ 
+CODE ECONOMIQUE : 38.40.00    Autres transferts 
+de revenus des ASBL au service des m├⌐nages 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+38.40.00  
+ 
+38.40.00/002 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+763 
+ 
+ 
+0 
+ 
+ 
+0 
+Totaal - total   763 0 0 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 38.40.00/002/CF_00 -   
+Rechtsplegingsvergoeding - vzw : 0 euro 
+ 
+1. 38.40.00/002/CF_00 ΓÇô Indemnit├⌐s de proc├⌐dure - 
+ASBL : 0 euro 
+ 
+a) Aard van de ontvangsten a) Nature des recettes  
+
+=== 152 ===
+1281/022DOC 56
+152
+Rechtsplegingsvergoeding - vzw  Indemnit├⌐s de proc├⌐dure - ASBL  
+ 
+b) Berekeningsmethode van de ontvangst in 2026 b) M├⌐thode de calcul de la recette en 2026 
+ 
+ECONOMISCHE CODE : 38.50.00 Overige 
+inkomensoverdrachten van gezinnen 
+ 
+CODE ECONOMIQUE : 38.50.00 Autres transferts 
+de revenus des m├⌐nages 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+38.50.00  
+ 
+38.50.00/002 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+34.646 
+ 
+ 
+25.000 
+ 
+ 
+25.000 
+Totaal - total   34.646 25.000 25.000 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 38.50.00/002/CF_00 -   
+Rechtsplegingsvergoeding - gezinnen : 25.000 
+euro 
+ 
+1. 38.50.00/002/CF_00 ΓÇô Indemnit├⌐s de proc├⌐dure - 
+m├⌐nages : 25.000 euros 
+a) Aard van de ontvangsten 
+Rechtsplegingsvergoeding - gezinnen  
+ 
+a) Nature des recettes  
+Indemnit├⌐s de proc├⌐dure - m├⌐nages 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9385000002 
+Initieel budget 2025 25.000 
+Initieel budget 2026 25.000 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9385000002 
+Budget initial 2025 25.000 
+Budget initial 2026 25.000 
+ARTIKEL 39 ΓÇô  Inkomensoverdrachten van het 
+buitenland 
+ 
+ARTICLE 39 ΓÇô   Transferts de revenus de lΓÇÖ├⌐tranger     
+ECONOMISCHE CODE : 39.10.00 Inkomens - 
+overdrachten van EU-instellingen 
+CODE ECONOMIQUE : 39.10.00 Transferts de 
+revenus des institutions de lΓÇÖUE 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+39.10.00  
+ 
+39.10.00/002 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+2.438.211 
+ 
+ 
+928.050 
+ 
+ 
+928.050 
+Totaal - total   2.438.211 928.050 928.050 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 39.10.00/002/CF_00 - Cofinanciering van de EU  : 
+928.050 euro 
+ 
+1. 39.10.00/002/CF_00 ΓÇô Cofinancement de lΓÇÖUE : 
+928.050 euros 
+ 
+
+=== 153 ===
+153
+1281/022DOC 56
+a) Aard van de ontvangsten 
+Co-financiering door de Europese Commissie voor de 
+Belgische programmaΓÇÖs. De ontvangsten worden 
+ingeschreven in de begroting van het jaar waarin de 
+programmaΓÇÖs werden uitgevoerd.
+ 
+a) Nature des recettes  
+Cofinancement par la Commission Europ├⌐enne pour 
+les programmes belges. Les recettes sont inscrites au 
+budget de lΓÇÖann├⌐e dans laquelle les programmes ont 
+├⌐t├⌐ effectu├⌐s. 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9391000002 
+Initieel budget 2025 928.050 
+Initieel budget 2026 928.050 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9391000002 
+Budget initial 2025 928.050 
+Budget initial 2026 928.050 
+ARTIKEL 46 ΓÇô   Inkomensoverdrachten binnen een 
+institutionele groep 
+ 
+ARTICLE 46 ΓÇô    Transferts de revenus ├á lΓÇÖint├⌐rieur 
+du groupe institutionnel      
+ECONOMISCHE CODE : 46.10.00  Inkomens - 
+overdrachten van de institutionele overheid 
+CODE ECONOMIQUE : 46.10.00  Transferts de 
+revenus du pouvoir institutionnel 
+Synthesetabel (euro) Tableau de synth├¿se (euros) 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+46.10.00  
+ 
+46.10.00/001 
+46.10.00/003 
+ 
+ 
+ 
+CF_00 
+CF_00 
+ 
+ 
+lim 
+lim 
+ 
+ 
+114.742.555 
+1.136.861 
+ 
+ 
+113.768.029 
+0 
+ 
+ 
+114.506.196 
+0 
+Totaal - total   115.879.416 113.768.029 114.506.196 
+ 
+46.10.00  
+ 
+46.10.00/004 
+46.10.00/005 
+46.10.00/998 
+ 
+ 
+ 
+ 
+ 
+CF_02 
+CF_02 
+CF_02 
+ 
+ 
+ 
+lim 
+lim 
+lim 
+ 
+ 
+ 
+ 
+2.612.579 
+525.186 
+1.000.000 
+ 
+ 
+3.200.000 
+672.000 
+0 
+ 
+ 
+1.274.365 
+267.617 
+0 
+Totaal - total   4.137.766 3.872.000 1.541.982 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 46.10.00/001/CF_00 -  Dotatie FAVV : 114.506.196 
+euro 
+ 
+1. 46.10.00/001/CF_00 ΓÇô Dotation AFSCA : 
+114.506.196 euros 
+ 
+a) Aard van de ontvangsten 
+Dotatie FAVV  
+a) Nature des recettes  
+Dotation AFSCA
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9461000001 
+Initieel budget 2025 113.768.029 
+Indexatie IB 2026 3.643.525 
+Indexatie BC2025 61.993 
+Correctie besparingen 2025 74.366 
+Besparingen 2026 -2.021.467 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9461000001 
+Budget initial 2025 113.768.029 
+Indexation BI 2026 3.643.525 
+Indexation CB2025 61.993 
+Correction ├⌐conomies 2025 74.366 
+Economies 2026 -2.021.467 
+
+=== 154 ===
+1281/022DOC 56
+154
+Pool Parastatalen 2026 (52,5%>>53%) 148.661 
+Unisono -1.000 
+Vermindering index personeel (4% > 2%) -1.367.911 
+Pool Parastatalen (MR 12/12/2025) 200.000 
+Initieel budget 2026 114.506.196 
+ 
+Pool Parastataux 2026 (52,5%>>53%) 148.661 
+Unisono -1.000 
+Diminution index personnel (4% > 2%) -1.367.911 
+Pool Parastataux (CM 12/12/2025) 200.000 
+Budget initial 2026 114.506.196 
+ 
+2. 46.10.00/003/CF_00 - Interdepartementale 
+provisie : 0 euro 
+ 
+2. 46.10.00/003/CF_00 ΓÇô Provision 
+interd├⌐partementale : 0 euro 
+ 
+a) Aard van de ontvangsten 
+Interdepartementale provisie  
+a) Nature des recettes  
+Provision interd├⌐partementale  
+ 
+b) Berekeningsmethode van de ontvangst in 2026 b) M├⌐thode de calcul de la recette en 2026
+  
+3. 46.10.00/004/CF_02 -  RFF ΓÇô Digitalisatie van het 
+FAVV (excl. BTW) : 1.274.365 euro 
+ 
+3. 46.10.00/004/CF_02 ΓÇô PRR ΓÇô Digitalisation de 
+lΓÇÖAFSCA (HTVA) : 1.274.365 euros 
+ 
+a) Aard van de ontvangsten 
+Subsidie vanuit FOD BOSA voor de financiering van 
+de bedragen exclusief BTW van uitgaven gerealiseerd 
+in het kader van het project ΓÇ£Digitalisation of the 
+AFSCAΓÇÖs services for operators and consumers 
+(I205025 / BE-C[C22-I[I-205])ΓÇ¥. 
+Project ingeschreven in het plan voor herstel en 
+veerkracht (RRF). 
+a) Nature des recettes  
+Subside du SPF BOSA pour financer les montants 
+hors TVA des d├⌐penses r├⌐alis├⌐es dans le cadre du 
+projet ΓÇ£Digitalisation of the AFSCAΓÇÖs services for 
+operators and consumers (I205025 / BE -C[C22-I[I-
+205])ΓÇ¥. 
+Projet inscrit dans le plan pour la reprise et la 
+r├⌐silience (PRR)
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9461000004 
+Initieel budget 2025 3.200.000 
+Actualisatie DIFA 2026 -1.925.635 
+Initieel budget 2026 1.274.365 
+ 
+ 
+4. 46.10.00/005/CF_02 -  RFF ΓÇô Digitalisatie van het 
+FAVV (BTW) : 267.617 euro 
+ 
+ 
+a) Nature des recettes 
+ 
+Dotatie vanuit FOD BOSA voor de financiering van de 
+bedragen van de BTW van uitgaven gerealiseerd in 
+het kader van het project ΓÇ£Digitalisation of the 
+AFSCAΓÇÖs services for operators and consumers 
+(I205025 / BE-C[C22-I[I-205])ΓÇ¥. 
+Project ingeschreven in het plan  voor herstel en 
+veerkracht (RRF). 
+ 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9461000005 
+Initieel budget 2025 672.000 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9461000004 
+Budget initial 2025 3.200.000 
+Actualisation DIFA 2026 -1.925.635 
+Budget initial 2026 1.274.365 
+ 
+ 
+4. 46.10.00/005/CF_02 ΓÇô PRR ΓÇô Digitalisation de 
+lΓÇÖAFSCA (TVA) : 267.617 euros 
+ 
+ 
+a) Nature des recettes 
+ 
+Dotation du SPF BOSA pour financer les montants de 
+la TVA des d├⌐penses r├⌐alis├⌐es dans le cadre du 
+projet ΓÇ£Digitalisation of the AFSCAΓÇÖs services for 
+operators and consumers (I205025 / BE -C[C22-I[I-
+205])ΓÇ¥. 
+Projet inscrit dans le plan pour la reprise et la 
+r├⌐silience (PRR). 
+ 
+ 
+b) M├⌐thode de cal
+
+=== 155 ===
+155
+1281/022DOC 56
+ 
+Actualisatie DIFA 2026 -404.383 
+Initieel budget 2026 267.617 
+ 
+ 
+5. 46.10.00/998/CF_02 -  Interdepartementale 
+provisie ΓÇô UE-Voorzitterschap : 0 euro 
+ 
+a) Aard van de ontvangsten 
+ 
+Interdepartementale provisie in het kader van de EU - 
+voorzitterschap 2024 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+Actualisation DIFA 2026 -404.383 
+Budget initial 2026 267.617 
+ 
+ 
+5. 46.10.00/998/CF_02 ΓÇô Provision 
+interd├⌐partementale ΓÇô Pr├⌐sidence UE : 0 euro 
+ 
+a) Nature des recettes  
+ 
+Provision interd├⌐partementale dans le cadre de la 
+pr├⌐sidence UE 2024 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+ 
+ 
+ARTIKEL 57 ΓÇô Kapitaaloverdrachten van bedrijven 
+en financi├½le instellingen (exclusief 
+vermogensheffingen        
+ 
+ 
+ARTICLE 57 ΓÇô Transferts en capital des 
+entreprises et institutions financi├¿res (├á 
+lΓÇÖexclusion des imp├┤ts en capital)  
+ECONOMISCHE CODE : 57.20.00 Overige 
+kapitaaloverdrachten van bedrijven 
+CODE ECONOMIQUE : 57.20.00 Autres transferts 
+en capital des entreprises 
+Synthesetabel (euro) 
+ 
+Tableau de synth├¿se (euros) 
+ 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations  
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET initial 
+57.20.00  
+ 
+57.20.00/001 
+ 
+ 
+ 
+CF_00 
+ 
+ 
+ 
+n.lim 
+ 
+ 
+ 
+2.114 
+ 
+ 
+45.000 
+ 
+ 
+45.000 
+Totaal - total   2.114 45.000 45.000 
+ 
+EC-CE /LIT  : EC / LIT : Economische code / Littera - Code Economique / Littera  
+FC ΓÇô CF : Financieringscode -  Code Financement  
+KS ΓÇô SC : Krediet soort (limitatief ΓÇô niet limitatief) - Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) 
+ 
+1. 57.20.00/001/CF_00 ΓÇô Overige 
+kapitaaloverdrachten van bedrijven  : 45.000 euro 
+ 
+1. 57.20.00/001/CF_00 ΓÇô Autres transferts en 
+capital des entreprises : 45.000 euros 
+ 
+a) Aard van de ontvangsten 
+Vereffeningsopbrengsten 
+ 
+a) Nature des recettes  
+Boni de liquidation 
+ 
+b) Berekeningsmethode van de ontvangst in 2026 
+NL 9572000001 
+Initieel budget 2025 45.000 
+Initieel budget 2026 45.000 
+ 
+b) M├⌐thode de calcul de la recette en 2026 
+FR 9572000001 
+Budget initial 2025 45.000 
+Budget initial 2026 45.000 
+
+=== 156 ===
+1281/022DOC 56
+156
+INITI├ïLE BEGROTING 2026 
+VERANTWOORDING  
+EN_62005 ΓÇô FEDASIL 
+ 
+ 
+BUDGET INITIAL 2026 
+ JUSTIFICATION  
+EN_62005 - FEDASIL 
+ 
+A. AARD EN RAMING VAN DE UITGAVEN    A. NATURE ET ESTIMATION DES DEPENSES  
+ 
+ARTIKEL 11 ΓÇô Lonen en sociale lasten  ARTICLE 11 ΓÇô Salaires et charges sociales  
+ 
+ 
+ECONOMISCHE CODE : 11.11.00 Eigenlijke lonen 
+per financieringsbron  
+ 
+Synthesetabel 
+CODE ECONOMIQUE : 11.11.00 R├⌐mun├⌐ration 
+suivant les bar├¿mes par source de financement  
+ 
+Tableau de synth├¿se  
+ 
+ CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations 
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET 
+initial 
+11.11.00  
+ 
+11.11.00/001 
+11.11.00/002 
+ 
+ 
+ 
+CF_00 
+CF_00 
+ 
+ 
+lim 
+lim 
+ 
+ 
+ 
+165.215.475 
+5.898.357 
+ 
+ 
+ 
+173.990.372 
+9.381.866 
+ 
+ 
+194.062.124 
+7.399.794 
+Totaal - total   171.113.833 183.372.238 201.461.918 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CE- EC/LIT  : Code Economique / Littera - EC / LIT : Economische code / Littera 
+CF ΓÇô FC : Code Financement - Financieringscode 
+SC ΓÇô KS : Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) -   krediet soort (limitatief ΓÇô niet limitatief) 
+ 
+1. 11.11.00/001/CF_00 Eigenlijke lonen ΓÇô 
+Personeelskosten (511-01) : 194.062.124 euro 
+1. 11.11.00/001/CF_00 R├⌐mun├⌐ration suivant 
+les bar├¿mes ΓÇô  Frais de personnel (511 -01) :         
+194.062.124 euros 
+ 
+a) Aard van de uitgaven  
+  
+Deze kredieten dekken de bruto bezoldigingen van het 
+personeel, de anci├½nniteitsvergoedingen en indexaties, 
+de premies gelinkt aan de Copernicus-hervorming voor 
+niveau A en andere, het vakantiegeld, de bijdragen en 
+sociale lasten, de vergoedingen voor onregelmatige 
+prestaties (bijv. nachtwerk), familiale premies, etc.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ces cr├⌐dits couvrent les r├⌐mun├⌐rations brutes du 
+personnel, les primes dΓÇÖanciennet├⌐ et les indexations, 
+les primes li├⌐es ├á la r├⌐forme copernicienne pour le 
+niveau A et autres, le p├⌐cule de vacances, les 
+cotisations et charges sociales, les indemnit├⌐s pour 
+prestations irr├⌐guli├¿res (ex  : travail de nuit), les primes 
+familiales, etc. 
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Gebaseerd op het initi├½le budget 2025  rekening 
+houdend met :  
+- De indexatie van 2,00% ; 
+- Het volume- effect (gemiddelde capaciteit 
+federale centra : 13.434 plaatsen) ; 
+- Het protocol FOD BOSA betreffende de 
+ondersteuning van 3 VTE's voor 
+Overheidsopdrachten ;  
+- De implementatie van het nieuwe tariefsysteem 
+voor opvangplaatsen . 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Bas├⌐ sur le budget initial 2025 et en tenant compte  : 
+- De lΓÇÖindexation de 2,00% ; 
+- De lΓÇÖeffet volume (capacit├⌐ moyenne centres 
+f├⌐d├⌐raux : 13.434 places) ; 
+- Du Protocle FEDASIL -SPF BOSA concernant 
+lΓÇÖappui de 3 ETP pour les March├⌐s Publics  ;  
+- De l ΓÇÖimpl├⌐mentation du nouveau syst├¿me de 
+tari
+
+=== 157 ===
+157
+1281/022DOC 56
+- De beslissingen die tijdens de bilaterale 
+vergadering zijn genomen.  
+ 
+ 
+ 
+Een hervedeling tot codes 11.XX kan tijden het jaar 
+uitgevoerd worden.  
+ 
+Une redistribution vers les codes 11.XX pourra ├¬tre 
+faite en cours dΓÇÖann├⌐e.  
+ 
+2. 11.11.00/002/CF_00 Eigenlijke lonen ΓÇô 
+Personeelskosten Europese projecten (541- 01) :   
+7.399.794 euro 
+2. 11.11.00/002/CF_00 R├⌐mun├⌐ration suivant 
+les bar├¿mes ΓÇô  Frais de personnel pour les projets 
+europ├⌐ens (541-01) :  7.399.794 euros 
+ 
+a) Aard van de uitgaven  
+ 
+Deze kredieten dekken de bruto bezoldigingen van het 
+personeel die werken op een Europees project, de 
+anci├½nniteitsvergoedingen en indexaties, de premies, 
+het vakantiegeld, de bijdragen en sociale lasten, de 
+vergoedingen voor onregelmatige prestaties (bijv. 
+nachtwerk), familiale premies, etc.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ces cr├⌐dits couvrent les r├⌐mun├⌐rations brutes du 
+personnel qui travaille pour un projet europ├⌐en, les 
+primes dΓÇÖanciennet├⌐ et les indexations, le p├⌐cule de 
+vacances, les cotisations et charges sociales, les 
+indemnit├⌐s pour prestations irr├⌐guli├¿res (ex  : travail de 
+nuit), les primes familiales, etc. 
+b) Berekeningsmethode van de uitgave in 202 6 
+ 
+Volgens de opmaak van de Europese projecten.  
+Voor meer informatie, zie code 46.10.00/001/CF_02.  
+b) M├⌐thode de calcul de la d├⌐pense en 202 6 
+ 
+Selon lΓÇÖ├⌐tablissement du budget des projets europ├⌐ens. 
+Pour plus dΓÇÖinformations, voir code 
+46.10.00/001/CF_02. 
+ 
+ECONOMISCHE CODE : 11.12.00 Overige 
+bezoldigingselementen per financieringsbron  
+ 
+CODE ECONOMIQUE : 11.12.00 Autres ├⌐l├⌐ments de 
+la r├⌐mun├⌐ration par source de financement  
+ 
+Synthesetabel   Tableau de synth├¿se  
+ 
+ CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations 
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET 
+initial 
+11.12.00  
+ 
+11.12.00/002 
+11.12.00/003 
+11.12.00/005 
+11.12.00/006 
+ 
+ 
+ 
+CF_00 
+CF_00 
+CF_00 
+CF_00 
+ 
+ 
+lim 
+lim 
+lim  
+lim 
+ 
+ 
+542.372 
+1.806.753 
+105.726 
+34.735 
+ 
+ 
+492.000 
+1.740.000 
+275.683 
+79.664 
+ 
+ 
+500.038 
+2.489.727 
+123.881 
+56.111 
+Totaal - total   2.489.586 2.587.347 3.169.757 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CE- EC/LIT  : Code Economique / Littera - EC / LIT : Economische code / Littera 
+CF ΓÇô FC : Code Financement - Financieringscode 
+SC ΓÇô KS : Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) -   krediet soort (limitatief ΓÇô niet limitatief) 
+ 
+1.  11.12.00/002/CF_00 Overige 
+bezoldigingselementen ΓÇô Andere 
+Personeelskosten (511-02) : 500.038 euro 
+1. 11.12.00/002/CF_00 Autres ├⌐l├⌐ments de la 
+r├⌐mun├⌐ration ΓÇô Autres frais de personnel (511-02) : 
+500.038 euros 
+ 
+a) Aard van de uitgaven  
+ 
+Deze code betreft de uitgaven voor de syndicale 
+premies en de vergoedingen verbonden aan telewerk.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ce code concerne les d├⌐penses p
+
+=== 158 ===
+1281/022DOC 56
+158
+b)  Berekeningsmethode van de uitgave in 2026 
+ 
+Gebaseerd op het initi├½le budget 2025 rekening 
+houdend met :  
+- De indexatie van 2,00%;  
+- Het volume-effect (capaciteit federale centra : 
+13.434 plaatsen);  
+- De implementatie van het nieuwe 
+tariefsysteem voor opvangplaatsen.  
+ 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Bas├⌐ sur le budget initial 2025 et en tenant compte : 
+- De lΓÇÖindexation de 2,00%  ; 
+- De lΓÇÖeffet volume (capacit├⌐ centres f├⌐d├⌐raux  : 
+13.434 places) ;  
+- De lΓÇÖimpl├⌐mentation du nouveau syst├¿me de 
+tarification pour les places dΓÇÖaccueil.  
+ 
+2. 11.12.00/003/CF_00 Overige 
+bezoldigingselementen ΓÇô Representatie-  en 
+verplaatsingskosten (513- 01) : 2.489.727 euro 
+ 
+2. 11.12.00/003/CF_00 Autres ├⌐l├⌐ments de la 
+r├⌐mun├⌐ration ΓÇô Frais de repr├⌐sentation et de 
+d├⌐placement (513-01) : 2.489.727 euros  
+ 
+a) Aard van de uitgaven  
+ 
+Deze code betreft de fietsvergoedingen en sociale 
+abonnementen van de personeelsleden.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ce code concerne les indemnit├⌐s de v├⌐lo et les 
+abonnements sociaux du personnel.  
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Gebaseerd op het initi├½le budget 2025 rekening 
+houdend met :  
+- De indexatie van 2,00%;  
+- Het volume effect gebaseerd op een capaciteit 
+van 13.434 plaatsen;  
+- De implementatie van het nieuwe 
+tariefsysteem voor opvangplaatsen.  
+ 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Bas├⌐ sur le budget initial 2025 et en tenant compte : 
+- De lΓÇÖindexation de 2,00%  ; 
+- De l'effet volume bas├⌐ sur une capacit├⌐ de 
+13.434 places ;  
+- De lΓÇÖimpl├⌐mentation du nouveau syst├¿me de 
+tarification pour les places dΓÇÖaccueil.  
+ 
+3. 11.12.00/005/CF_00 Overige 
+bezoldigingselementen ΓÇô Representatie-  en 
+verplaatsingskosten Europese projecten (541- 03) : 
+123.881 euro 
+ 
+3. 11.12.00/005/CF_00 Autres ├⌐l├⌐ments de la 
+r├⌐mun├⌐ration ΓÇô Frais de repr├⌐sentation et de 
+d├⌐placement pour les projets europ├⌐ens (541- 03) : 
+123.881 euros 
+ 
+a) Aard van de uitgaven  
+ 
+Dit betreft de fietsvergoedingen en sociale 
+abonnementen van de personeelsleden die onder een 
+Europees project vallen.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ce code concerne les indemnit├⌐s de v├⌐lo et les 
+abonnements sociaux du personnel qui travaille pour 
+un projet europ├⌐en. 
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Volgens de opmaak van de Europese projecten.  
+Voor meer informatie zie code 46.10.00/001/CF_02.  
+ 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Selon lΓÇÖ├⌐tablissement du budget des projets europ├⌐ens. 
+Pour plus dΓÇÖinformations, voir code 
+46.10.00/001/CF_02. 
+ 
+4. 11.12.00/006/CF_00 Overige 
+bezoldigingselementen ΓÇô Andere 
+Personeelskosten (541-02) : 56.111 euro 
+4. 11.12.00/006/CF_00 Autres ├⌐l├⌐ments de la 
+r├⌐mun├⌐ration ΓÇô Autres frais de personnel (541- 02) : 
+56.111 eur
+
+=== 159 ===
+159
+1281/022DOC 56
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Volgens de opmaak van de Europese projecten.  
+Voor meer informatie, zie code 46.10.00/001/CF_02.  
+ 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Selon lΓÇÖ├⌐tablissement du budget des projets europ├⌐ens. 
+Pour plus dΓÇÖinformations, voir code 
+46.10.00/001/CF_02. 
+ 
+ECONOMISCHE CODE : 11.31.00 Directe toelagen 
+per financieringsbron  
+ 
+CODE ECONOMIQUE : 11.31.00 Allocations 
+directes par source de financement  
+ 
+Synthesetabel 
+ 
+Tableau de synth├¿se  
+ CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations 
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET 
+initial 
+11.31.00  
+ 
+11.31.00/002 
+ 
+ 
+CF_00 
+ 
+ 
+lim 
+ 
+ 
+ 
+37.516 
+ 
+ 
+40.000 
+ 
+ 
+ 
+40.779 
+ 
+Total ΓÇô totaal   37.516 40.000 40.779 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CE- EC/LIT  : Code Economique / Littera - EC / LIT : Economische code / Littera 
+CF ΓÇô FC : Code Financement - Financieringscode 
+SC ΓÇô KS : Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) -   krediet soort (limitatief ΓÇô niet limitatief) 
+ 
+1. 11.31.00/002/CF_00  Directe toelagen ΓÇô 
+Andere Personeelskosten (511- 02) : 40.779 euro 
+ 
+1. 11.31.00/002/CF_00 Allocations directes ΓÇô  
+Autres frais de personnel (511- 02) : 40.779 euros 
+ 
+a) Aard van de uitgaven  
+ 
+Dit betreft de schadevergoedingen en premies voor de 
+personeelsleden. 
+a) Nature des d├⌐penses  
+ 
+Cela concerne les indemnit├⌐s li├⌐es aux accidents du 
+travail et primes pour le personnel.  
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Gebaseerd op het initi├½le budget 2025 rekening 
+houdend met de indexatie van 2,00%.  
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Bas├⌐ sur le budget initial 2025 et en tenant compte de 
+lΓÇÖindexation de 2,00%. 
+ 
+ECONOMISCHE CODE : 11.40.00 Lonen in natura 
+per financieringsbron  
+ 
+CODE ECONOMIQUE : 11.40.00 Salaire en nature 
+par source de financement  
+ 
+Synthesetabel Tableau de synth├¿se  
+ 
+ 
+CE-EC /  LIT 
+ 
+CF - FC 
+ 
+SC - KS 
+ 
+2024  
+Realisatie 
+R├⌐alisations 
+2025 
+Initieel BUDGET  
+initial  
+2026 
+Initieel BUDGET 
+initial 
+11.40.00  
+ 
+11.40.00/002 
+11.40.00/003 
+ 
+ 
+CF_00 
+CF_00 
+ 
+ 
+lim 
+lim 
+ 
+ 
+ 
+3.515.283 
+95.975 
+ 
+ 
+3.702.000 
+166.435 
+ 
+ 
+3.630.819 
+107.901 
+Total ΓÇô totaal   3.611.258 3.868.435 3.738.720 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== 160 ===
+1281/022DOC 56
+160
+CE- EC/LIT  : Code Economique / Littera - EC / LIT : Economische code / Littera 
+CF ΓÇô FC : Code Financement - Financieringscode 
+SC ΓÇô KS : Sorte cr├⌐dit (limitatif  ΓÇô non limitatif) -   krediet soort (limitatief ΓÇô niet limitatief) 
+ 
+1. 11.40.00/002/CF_00  Lonen in natura ΓÇô 
+Andere Personeelskosten (511- 02): 3.630.819 euro 
+ 
+1. 11.40.00/002/CF_00 Salaire en nature ΓÇô 
+Autres frais de personnel  (511- 02) : 3.630.819  
+euros 
+ 
+a) Aard van de uitgaven  
+ 
+Deze code omvat de kost van maaltijdcheques voor 
+personeel en de sociale dienst.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ce code comprend les d├⌐penses en ch├¿que-repas pour 
+le personnel et le secr├⌐tariat social.  
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Gebaseerd op het initi├½le budget 2025 rekening 
+houdend met :  
+- De indexatie van 2,00%;  
+- Het volume-effect (capaciteit federale centra : 
+13.434 plaatsen); 
+- De implementatie van het nieuwe 
+tariefsysteem voor opvangplaatsen.  
+ 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Bas├⌐ sur le budget initial 2025 et en tenant compte : 
+- De lΓÇÖindexation de 2,00%  ; 
+- De lΓÇÖeffet volume (capacit├⌐ centres 
+f├⌐d├⌐raux : 13.434 places) ;  
+- De lΓÇÖimpl├⌐mentation du nouveau syst├¿me 
+de tarification pour les places dΓÇÖaccueil.  
+ 
+2. 11.40.00/003/CF_00 Lonen in natura ΓÇô 
+Andere Personeelskosten  Europese projecten 
+(541-02) : 107.901 euro 
+ 
+2. 11.40.00/003/CF_00 Salaire en nature -  
+Autres frais de personnel pour les projets 
+europ├⌐ens (541-02) : 107.901 euros 
+ 
+a) Aard van de uitgaven  
+ 
+Deze code omvat de kost van maaltijdcheques voor 
+personeelsleden die tewerkgesteld worden op een 
+EU-project.  
+ 
+a) Nature des d├⌐penses  
+ 
+Ce code comprend les d├⌐penses en ch├¿que-repas pour 
+le personnel qui travaille pour un projet europ├⌐en.  
+ 
+b)  Berekeningsmethode van de uitgave in 2026  
+ 
+Volgens de opmaak van de Europese projecten.  
+Voor meer informatie zie code 46.10.00/001/CF_02.  
+ 
+b)  M├⌐thode de calcul de la d├⌐pense en 2026  
+ 
+Selon lΓÇÖ├⌐tablissement du budget des projets europ├⌐ens. 
+Pour plus dΓÇÖinformations, voir code 
+46.10.00/001/CF_02. 
+ 
+ARTIKEL 12 ΓÇô Aankoop van niet -duurzame 
+goederen en diensten  
+ARTICLE 12  ΓÇô Achats de biens non durables et de 
+services 
+ 
+ 
+ECONOMISCHE CODE : 12.11.00 Algemene 
+werkingskosten per financieringsbron  
+ 
+CODE ECONOMIQUE : 12.11.00 Frais g├⌐n├⌐raux de 
+fonctionnement par source de financement  
+ 
+Synthesetabel Tableau de synth├¿se  
+ 
+ 
+
