@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T01:30:00Z,rq_847,857,no,tick857 Heist JR2025 dual Lommel; FOI gap_heist_invest_subs_l5; next rq_848 residual dual L5; progress@860 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T02:00:00Z,rq_848,858,no,tick858 Geraardsbergen JR2025 dual Heist; FOI gap_geraardsbergen_debt_loans_l5; next rq_849 residual dual L5; progress@860 in 2; rq_116 deferred

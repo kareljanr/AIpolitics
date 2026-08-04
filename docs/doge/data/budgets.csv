@@ -18132,3 +18132,41 @@ bud_hb_gemeentefonds_2025,city_heist_op_den_berg,2025,12603279,,,outturn,src_hei
 bud_hb_fin_costs_2025,city_heist_op_den_berg,2025,439554,,,outturn,src_heist_jr2025,strong,J5 financiele kosten 0.440m; tick857
 bud_hb_police_toelage_2025,city_heist_op_den_berg,2025,6302531,,,outturn,src_heist_jr2025,strong,Toelage politiezone 6.303m; tick857
 bud_hb_fire_toelage_2025,city_heist_op_den_berg,2025,2104124,,,outturn,src_heist_jr2025,strong,Toelage hulpverleningszone 2.104m; tick857
+bud_gb_assets_2025,city_geraardsbergen,2025,158893712,,,outturn,src_geraardsbergen_jr2025,strong,Consol stad+OCMW total assets YE2025 158.894m; tick858
+bud_gb_equity_2025,city_geraardsbergen,2025,63247103,,,outturn,src_geraardsbergen_jr2025,strong,Nettoactief YE2025 63.247m; tick858
+bud_gb_debt_total_2025,city_geraardsbergen,2025,95646609,,,outturn,src_geraardsbergen_jr2025,strong,Total schulden YE2025 95.647m; tick858
+bud_gb_fin_debt_2025,city_geraardsbergen,2025,50732626,,,outturn,src_geraardsbergen_jr2025,strong,T4 total financiele schulden YE2025 50.733m (LT 45.562 + ST due 5.171); tick858
+bud_gb_fin_debt_lt_2025,city_geraardsbergen,2025,45562059,,,outturn,src_geraardsbergen_jr2025,strong,Financiele schulden LT YE2025 45.562m; tick858
+bud_gb_fin_debt_st_due_2025,city_geraardsbergen,2025,5170566,,,outturn,src_geraardsbergen_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 5.171m; tick858
+bud_gb_pension_prov_2025,city_geraardsbergen,2025,29849402,,,outturn,src_geraardsbergen_jr2025,strong,Pensioenvoorzieningen LT YE2025 29.849m; tick858
+bud_gb_cash_2025,city_geraardsbergen,2025,11097698,,,outturn,src_geraardsbergen_jr2025,strong,Liquide middelen YE2025 11.098m; tick858
+bud_gb_cap_subs_2025,city_geraardsbergen,2025,14597485,,,outturn,src_geraardsbergen_jr2025,strong,Kapitaalsubsidies YE2025 14.597m; tick858
+bud_gb_fva_total_2025,city_geraardsbergen,2025,29073485,,,outturn,src_geraardsbergen_jr2025,strong,Financiele vaste activa YE2025 29.073m; tick858
+bud_gb_fva_igs_2025,city_geraardsbergen,2025,20311797,,,outturn,src_geraardsbergen_jr2025,strong,Fin VA IGS YE2025 20.312m; tick858
+bud_gb_mva_2025,city_geraardsbergen,2025,93125830,,,outturn,src_geraardsbergen_jr2025,strong,Materiele vaste activa YE2025 93.126m; tick858
+bud_gb_onbeschikbaar_2025,city_geraardsbergen,2025,360000,,,outturn,src_geraardsbergen_jr2025,strong,Onbeschikbare gelden J2 0.360m; tick858
+bud_gb_expl_rec_2025,city_geraardsbergen,2025,83125080,,,outturn,src_geraardsbergen_jr2025,strong,Exploitatieontvangsten 83.125m; tick858
+bud_gb_expl_exp_2025,city_geraardsbergen,2025,73297855,,,outturn,src_geraardsbergen_jr2025,strong,Exploitatieuitgaven 73.298m; tick858
+bud_gb_expl_saldo_2025,city_geraardsbergen,2025,9827225,,,outturn,src_geraardsbergen_jr2025,strong,Exploitatiesaldo +9.827m; tick858
+bud_gb_invest_exp_2025,city_geraardsbergen,2025,10465903,,,outturn,src_geraardsbergen_jr2025,strong,Investeringsuitgaven J2 10.466m; tick858
+bud_gb_invest_rec_2025,city_geraardsbergen,2025,691366,,,outturn,src_geraardsbergen_jr2025,strong,Investeringsontvangsten J2 0.691m; tick858
+bud_gb_invest_saldo_2025,city_geraardsbergen,2025,-9774537,,,outturn,src_geraardsbergen_jr2025,strong,Investeringssaldo -9.775m; tick858
+bud_gb_fin_rec_2025,city_geraardsbergen,2025,6628324,,,outturn,src_geraardsbergen_jr2025,strong,Financieringsontvangsten 6.628m; tick858
+bud_gb_fin_exp_2025,city_geraardsbergen,2025,5250276,,,outturn,src_geraardsbergen_jr2025,strong,Financieringsuitgaven 5.250m; tick858
+bud_gb_new_loans_2025,city_geraardsbergen,2025,6335699,,,outturn,src_geraardsbergen_jr2025,strong,Nieuwe leningen 6.336m; tick858
+bud_gb_aflossingen_2025,city_geraardsbergen,2025,5074807,,,outturn,src_geraardsbergen_jr2025,strong,Periodieke aflossingen 5.075m; tick858
+bud_gb_afm_2025,city_geraardsbergen,2025,5560442,,,outturn,src_geraardsbergen_jr2025,strong,AFM +5.560m; tick858
+bud_gb_afm_corr_2025,city_geraardsbergen,2025,6517510,,,outturn,src_geraardsbergen_jr2025,strong,Gecorrigeerde AFM +6.518m; tick858
+bud_gb_bbr_2025,city_geraardsbergen,2025,12892119,,,outturn,src_geraardsbergen_jr2025,strong,BBR 12.892m after onbeschikbaar 0.360m; tick858
+bud_gb_budget_result_2025,city_geraardsbergen,2025,1430736,,,outturn,src_geraardsbergen_jr2025,strong,Budgettair resultaat boekjaar +1.431m; tick858
+bud_gb_cum_br_2025,city_geraardsbergen,2025,13252119,,,outturn,src_geraardsbergen_jr2025,strong,Gecumuleerd budgettair resultaat 13.252m; tick858
+bud_gb_pnl_result_2025,city_geraardsbergen,2025,4364093,,,outturn,src_geraardsbergen_jr2025,strong,Vennootschapsresultaat J5 +4.364m; tick858
+bud_gb_personnel_2025,city_geraardsbergen,2025,43367250,,,outturn,src_geraardsbergen_jr2025,strong,J5 bezoldigingen 43.367m (T2 43.333m; incl onderwijs other-gov 3.187m); tick858
+bud_gb_toelagen_2025,city_geraardsbergen,2025,8766004,,,outturn,src_geraardsbergen_jr2025,strong,Toegestane werkingssubsidies 8.766m (politie 5.159 fire 1.542 AGB 0.808 other 0.600); tick858
+bud_gb_ocmw_aid_2025,city_geraardsbergen,2025,4825973,,,outturn,src_geraardsbergen_jr2025,strong,OCMW individuele hulp 4.826m; tick858
+bud_gb_fiscal_2025,city_geraardsbergen,2025,28752381,,,outturn,src_geraardsbergen_jr2025,strong,J5 fiscale opbrengsten en boetes 28.752m; tick858
+bud_gb_werk_subs_rec_2025,city_geraardsbergen,2025,32589218,,,outturn,src_geraardsbergen_jr2025,strong,J5 werkingssubsidies ontvangen 32.589m; tick858
+bud_gb_gemeentefonds_2025,city_geraardsbergen,2025,12235878,,,outturn,src_geraardsbergen_jr2025,strong,Gemeentefonds 12.236m; tick858
+bud_gb_fin_costs_2025,city_geraardsbergen,2025,1366112,,,outturn,src_geraardsbergen_jr2025,strong,J5 financiele kosten 1.366m; tick858
+bud_gb_police_toelage_2025,city_geraardsbergen,2025,5159223,,,outturn,src_geraardsbergen_jr2025,strong,Toelage politiezone 5.159m; tick858
+bud_gb_fire_toelage_2025,city_geraardsbergen,2025,1541570,,,outturn,src_geraardsbergen_jr2025,strong,Toelage hulpverleningszone 1.542m; tick858

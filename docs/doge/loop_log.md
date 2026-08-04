@@ -10575,3 +10575,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_heist_op_den_berg; FOI **gap_heist_invest_subs_l5** prio7 ready + draft; raw PDF+extract; rq_847=done; spawn **rq_848**; ticks=857
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_848** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 3
+
+## Tick 858 - 2026-08-06T02:00:00Z
+
+- Unit: **rq_848** (FOI-adjacent residual dual - **Stad+OCMW Geraardsbergen Jaarrekening 2025** + Heist dual)
+- Found (strong primary BBC JR2025 236p, GR 26.05.2026 pub 03.06.2026):
+  - Assets **EUR158.9m** · equity **EUR63.2m** · debt total **EUR95.6m** · fin debt **EUR50.7m** (LT **EUR45.6m** · ST due **EUR5.2m**; ~**32pct** assets)
+  - Pension **EUR29.8m** · cash **EUR11.1m** · cap subs **EUR14.6m** · FVA IGS **EUR20.3m** · onbeschikbaar **EUR0.4m**
+  - Exploitatie: ontvangsten **EUR83.1m** · uitgaven **EUR73.3m** · saldo **+EUR9.8m**
+  - AFM **+EUR5.6m** (gecorr **+EUR6.5m**) · BBR **EUR12.9m** · budget result **+EUR1.4m** · P&L **+EUR4.4m**
+  - Personnel **EUR43.4m** · toelagen **EUR8.8m** (police **EUR5.2m** · fire **EUR1.5m** · AGB **EUR0.8m**) · OCMW aid **EUR4.8m** · fiscal **EUR28.8m**
+  - Invest **EUR10.5m** · new loans **EUR6.3m** · gemeentefonds **EUR12.2m**
+- Dual: Heist **EUR233m** / fin debt **EUR18m** / AFM **+EUR10.8m** / invest-subs **EUR5.2m** (tick857) - not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_geraardsbergen; FOI **gap_geraardsbergen_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_848=done; spawn **rq_849**; ticks=858
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_849** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 2
