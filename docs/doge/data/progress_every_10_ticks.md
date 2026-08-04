@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 790** (2026-08-04)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Werk illness benefits path **€14.2bn** 2025 → **€18.2bn** 2030 · SS spend class **€140.2bn** / deficit **€6.2bn** 2024 · RSVZ evenwicht **€612.7m** · SAFE BE loans **€8.34bn** (financing, dual) · prior HermReg E2 / BOSA provisions / Fedasil / FAVV / FAGG retained |
+| **D. L5 named / measure end-lines** | **~58-72%** of TE (generous) | **Gain 780→790 is federal beleidsnota residual wave (not near-complete of 348bn):** RIZIV ZIV/AMI **€41.3bn** + corr **~€475m** / tickets **€125m** · Sociale Zaken alt finance delta **€198m** / TNW OA % path · illness benefits **€14.2bn** + familiekrediet **€25+15m** · RSVZ digital RRP **€10m** / vuln envelope **€25→100m** · Pensioenen Wijninckx **12.5%** / solidarity **4%** / statut employer **38%** path · Economie procurement thresholds / MAKE € Unknown · Defensie Ukraine **€1bn/yr** / List **€100m** / NATO **3.5+1.5% GDP** path · Mobiliteit RER overrun **€308.4m** / rail save **€100m** / SFPIM loan **€61m** · Justitie Hefboom **€21m** / fraud **€7.2m** / courts **€6.4m** · FOI still bulk SAFE drawdown + RER IF audit + Childfocus subsidy + measure euro bases |
+| **E. FOI-ready gaps** | **~518** drafts ready | Human send only; answered **~9**; total FOI rows **~532** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **debt principal repay / securities purchases** (roll) · **SAFE loans €8.34bn BE / €150bn EU pool** (debt instrument, not pure TE) · **Entity II HermReg soldes €7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP €15bn** · **Phoenix LTO multi-year / CfD** · **Defence eng-liq backlog** · **Ukraine multi-year 1bn/yr** (may dual TE) · **EU GNI path** · **housing finance stocks** · **Regie rent/DBFM lock-in** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 790)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~16524 |
+| commitments.csv | ~2141 |
+| leaderboard.csv | ~3493 |
+| entities.csv | ~569 |
+| sources.csv | ~1548 |
+| FOI ready | ~518 |
+| FOI answered | ~9 |
+| FOI total rows | ~532 |
+| research_queue open | rq_116 deferred + next hole-fill after progress |
+
+### What improved since tick 780
+
+- **RIZIV + Sociale Zaken (tick781–782):** ZIV/AMI **€41.297bn** · correction package **~€475m** · tickets **€125m** · effic path **€247/684m** · alt finance net **+€198m** · GGMMI **+€35** / meal **+€2** · TNW OA **5→15%** path.
+- **Werk + Zelfstandigen (tick783–784):** illness benefits **€14.2bn** 2025 path **€18.2bn** 2030 · familiekrediet **€25m+€15m** · RSVZ evenwicht **€612.7m** · vuln envelope **€25→100m** · digital RRP **€10m** · VAPZ **8.5%**.
+- **Pensioenen + Economie (tick785–786):** SCvV ageing **3.6→1.7pp** GDP · Wijninckx **3→12.5%** · solidarity **2→4%** above **€150k** · statut employer to **38%** · procurement **€50k/€15k** · MAKE € Unknown · CS3D **€1.5bn** threshold.
+- **Defensie + Mobiliteit + Justitie (tick787–789):** SAFE BE **€8.34bn** · Ukraine **€1bn/yr** · List **€100m** · NATO **3.5+1.5% GDP** · RER overrun **€308.4m** · rail save **€100m** · SFPIM **€61m** · Hefboom **€21m** · fraud **€7.2m** · courts **€6.4m**.
+- **Dual map:** care objective vs corrections · RSZ alt finance vs illness · pension rates vs 11.3% GDP stack · SAFE loans vs NATO cash · rail save vs RER overrun · Hefboom vs prison package.
+
+---
+
 ## Snapshot at **tick 780** (2026-08-03)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -9516,3 +9516,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +11; commitments +5; leaderboard +7; sources +2; FOI **gap_just_hefboom_childfocus_l5** prio8 ready; raw PDF; rq_781=done; ticks=789
 - FOI: ready only — **do not send**
 - Next: **rq_780 MANDATORY progress@790**; rq_116 deferred
+
+## Tick 790 — 2026-08-04T16:00:00Z
+
+- Unit: **rq_780** (mandatory **progress@790** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ illness 14.2bn · SS 140.2bn class · RSVZ 612.7m · SAFE dual 8.34bn · prior HermReg/BOSA/Fedasil)
+  - **D L5:** ~**58–72%** generous — gain 780→790: federal beleidsnota residual (RIZIV 41.3 · SZ alt finance 198 · Werk illness/familiekrediet · Zelfstandigen · Pensioenen rates · Economie procurement · Defensie SAFE/Ukraine 1bn · Mobiliteit RER 308.4 · Justitie Hefboom 21)
+  - **E FOI ready:** ~**518** (answered ~9; total ~532)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks/loans filtered (Metro3, SAFE 8.34, illness 14.2 dual, E2 deficit, BOSA parking)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_780=done; spawn **rq_782**; loop_state ticks=790
+- FOI: none new this tick
+- Next: prio5 **rq_782** residual dual/L5; deferred **rq_116**; progress@800 in 10
