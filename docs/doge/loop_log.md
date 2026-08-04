@@ -10273,3 +10273,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_828** residual dual L5 (Roeselare/Leuven city/UGent-UA-VUB/BELNET/skeyes); deferred **rq_116**; progress@840 in 3
 
+
+## Tick 838 — 2026-08-05T16:00:00Z
+
+- Unit: **rq_828** (FOI-adjacent residual dual — **UGent Jaarrekening 2025** VL neerlegging + KU Leuven dual)
+- Found (strong primary VO form 39p, AV 27.03.2026; amounts kEUR ×1000):
+  - Assets **€1.375.8m** · equity **€901.8m** · debt total **€369.7m** · fin debt **€61.2m** (LT **€25.5m** · ST banks **€34.9m**)
+  - Cash+beleggingen **€702.8m** · MVA **€532.3m** · pension prov **€60.8m** · project prepay **€189.6m**
+  - Omzet **€979.5m** · bedrijfsopbr **€996.2m** · bedrijfskosten **€971.4m** · bedrijfsresultaat **+€24.8m**
+  - Bezoldigingen **€666.6m** · diensten **€227.9m** · resultaat **+€61.9m** (was **−€32.3m** 2024 = CRC match)
+  - **1st stream NOT split** in VO neerlegging model → FOI residual (dual KUL/UH have strong 1st)
+- Dual: KU Leuven assets **€3.386bn** / 1st **€567.9m** / bezold **€917.5m** (tick837) — not TE-additive
+- Wrote: budgets +25; commitments +3; leaderboard +5; sources +2; entity ugent; FOI **gap_ugent_1st_stream_l5** prio6 ready + draft; raw PDF+extract; rq_828=done; spawn **rq_829**; ticks=838
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_829** residual dual L5 (Roeselare/Leuven city/UA/VUB/BELNET/skeyes); deferred **rq_116**; progress@840 in 2
+

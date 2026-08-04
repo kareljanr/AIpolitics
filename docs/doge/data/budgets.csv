@@ -17472,3 +17472,28 @@ bud_kuleuven_result_2025,kuleuven,2025,198755329,,,cash,src_kuleuven_jv2025,stro
 bud_kuleuven_result_cashview_2025,kuleuven,2025,154209191,,,cash,src_kuleuven_jv2025,strong,Overschot cashview 154.209m; tick837
 bud_kuleuven_vte_2025,kuleuven,2025,10160,,,outturn,src_kuleuven_jv2025,strong,Verbruiks-VTE 10159.6 2025 (was 10075.2); tick837
 bud_kuleuven_project_prepay_2025,kuleuven,2025,189835604,,,stock,src_kuleuven_jv2025,strong,Ontvangen vooruitbetalingen op projecten YE2025 189.836m; tick837
+bud_ugent_assets_2025,ugent,2025,1375787000,,,stock,src_ugent_jr2025,strong,Total assets YE2025 1375.787m (VL neerlegging kEUR form); tick838
+bud_ugent_equity_2025,ugent,2025,901843000,,,stock,src_ugent_jr2025,strong,Eigen vermogen YE2025 901.843m; tick838
+bud_ugent_kapitaal_2025,ugent,2025,319750000,,,stock,src_ugent_jr2025,strong,Geplaatst kapitaal YE2025 319.750m; tick838
+bud_ugent_bestemde_fondsen_2025,ugent,2025,501010000,,,stock,src_ugent_jr2025,strong,Bestemde fondsen YE2025 501.010m (was 533.286m); tick838
+bud_ugent_cap_subs_2025,ugent,2025,19208000,,,stock,src_ugent_jr2025,strong,Kapitaalsubsidies YE2025 19.208m; tick838
+bud_ugent_debt_total_2025,ugent,2025,369674000,,,stock,src_ugent_jr2025,strong,Total schulden YE2025 369.674m; tick838
+bud_ugent_fin_debt_2025,ugent,2025,61171000,,,stock,src_ugent_jr2025,strong,Fin schulden LT 25.453 + ST due 0.775 + ST banks 34.943 = 61.171m YE2025; tick838
+bud_ugent_fin_debt_lt_2025,ugent,2025,25453000,,,stock,src_ugent_jr2025,strong,Fin schulden LT YE2025 25.453m (lease 14.854 other 10.599); tick838
+bud_ugent_provisions_2025,ugent,2025,104269000,,,stock,src_ugent_jr2025,strong,Voorzieningen YE2025 104.269m; tick838
+bud_ugent_pension_prov_2025,ugent,2025,60803000,,,stock,src_ugent_jr2025,strong,Pensioenvoorzieningen YE2025 60.803m; tick838
+bud_ugent_cash_2025,ugent,2025,130551000,,,stock,src_ugent_jr2025,strong,Liquide middelen YE2025 130.551m; tick838
+bud_ugent_geldbeleggingen_2025,ugent,2025,572199000,,,stock,src_ugent_jr2025,strong,Geldbeleggingen YE2025 572.199m; tick838
+bud_ugent_cash_beleg_2025,ugent,2025,702750000,,,stock,src_ugent_jr2025,strong,Cash+beleggingen YE2025 702.750m; tick838
+bud_ugent_mva_2025,ugent,2025,532312000,,,stock,src_ugent_jr2025,strong,Materiele vaste activa YE2025 532.312m; tick838
+bud_ugent_bedrijfsopbr_2025,ugent,2025,996207000,,,cash,src_ugent_jr2025,strong,Bedrijfsopbrengsten 996.207m (omzet 979.465m); 1st stream not split in VO form FOI; tick838
+bud_ugent_omzet_2025,ugent,2025,979465000,,,cash,src_ugent_jr2025,strong,Omzet 979.465m; tick838
+bud_ugent_bedrijfskosten_2025,ugent,2025,971444000,,,cash,src_ugent_jr2025,strong,Bedrijfskosten 971.444m; tick838
+bud_ugent_bezold_2025,ugent,2025,666570000,,,cash,src_ugent_jr2025,strong,Bezoldigingen 666.570m (+4.9pct vs 635.132m); tick838
+bud_ugent_diensten_2025,ugent,2025,227875000,,,cash,src_ugent_jr2025,strong,Diensten en diverse goederen 227.875m (was 306.116m); tick838
+bud_ugent_afschr_2025,ugent,2025,62874000,,,cash,src_ugent_jr2025,strong,Afschrijvingen 62.874m; tick838
+bud_ugent_bedrijfs_2025,ugent,2025,24763000,,,cash,src_ugent_jr2025,strong,Bedrijfsresultaat +24.763m (was -45.614m); tick838
+bud_ugent_result_2025,ugent,2025,61875000,,,cash,src_ugent_jr2025,strong,Resultaat boekjaar +61.875m (was -32.276m CRC 2024 strong match); tick838
+bud_ugent_fin_opbr_2025,ugent,2025,24245000,,,cash,src_ugent_jr2025,strong,Financiele opbrengsten 24.245m; tick838
+bud_ugent_project_prepay_2025,ugent,2025,189556000,,,stock,src_ugent_jr2025,strong,Ontvangen vooruitbetalingen op bestellingen/projecten YE2025 189.556m; tick838
+bud_ugent_result_2024_jv,ugent,2024,-32276000,,,outturn,src_ugent_jr2025,strong,Resultaat 2024 -32.276m (matches CRC 2024 -32.3m); tick838

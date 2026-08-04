@@ -1,0 +1,600 @@
+UGent JR2025 key extract tick838 (amounts kEUR in source)
+
+===== PAGE 5 =====
+Nr.
+0248015142
+VO  3.1
+Toel.
+Codes
+Boekjaar
+Vorig boekjaar
+BALANS NA WINSTVERDELING
+ACTIVA
+OPRICHTINGSKOSTEN
+20
+-
+-
+VASTE ACTIVA
+21/28
+558.452
+542.173
+Immateriële vaste activa
+6.2
+21
+-
+-
+Materiële vaste activa 
+6.3
+22/27
+532.312
+518.260
+Terreinen en gebouwen
+22
+347.887
+358.479
+Installaties, machines en uitrusting
+23
+69.080
+72.798
+Meubilair en rollend materieel
+24
+8.888
+9.418
+Leasing en soortgelijke rechten
+25
+32.531
+34.378
+Overige materiële vaste activa
+26
+22.465
+12.946
+Activa in aanbouw en vooruitbetalingen
+27
+51.461
+30.242
+Financiële vaste activa 
+6.4/5
+28
+26.140
+23.913
+Verbonden ondernemingen
+280/1
+-
+-
+Deelnemingen
+280
+-
+-
+Vorderingen
+281
+-
+-
+Ondernemingen waarmee een deelnemings-
+verhouding bestaat
+282/3
+12.727
+12.014
+Deelnemingen
+282
+12.727
+12.014
+Vorderingen
+283
+-
+-
+Andere Financiële vaste activa
+284/8
+13.413
+11.899
+Aandelen
+284
+12.868
+11.506
+Vorderingen en Borgtochten in contanten
+285/8
+545
+393
+VLOTTENDE ACTIVA
+29/58
+817.335
+728.973
+Vorderingen op meer dan één jaar
+29
+24.754
+25.836
+Handelsvorderingen
+290
+-
+-
+Overige vorderingen
+291
+24.754
+25.836
+Voorraden en bestellingen in uitvoering
+3
+-
+-
+Voorraden
+30/36
+-
+-
+Grond- en hulpstoffen
+30/31
+-
+-
+Goederen in bewerking
+32
+-
+-
+Gereed product
+33
+-
+-
+Handelsgoederen
+34
+-
+-
+Onroerende goederen bestemd voor
+verkoop
+35
+-
+-
+Vooruitbetalingen
+36
+-
+-
+Bestellingen in uitvoering
+37
+-
+-
+Vorderingen op ten hoogste één jaar
+40/41
+71.293
+61.801
+Handelsvorderingen
+6.6
+40
+47.440
+39.618
+Overige vorderingen
+41
+23.853
+22.183
+Geldbeleggingen
+6.6
+50/53
+572.199
+541.818
+Eigen aandelen
+50
+-
+-
+Overige beleggingen
+51/53
+572.199
+541.818
+Liquide middelen
+54/58
+130.551
+86.214
+Overlopende rekeningen
+6.6
+490/1
+18.539
+13.306
+TOTAAL DER ACTIVA
+20/58
+1.375.787
+1.271.147
+Pagina 5 van 38
+
+===== PAGE 6 =====
+Nr.
+0248015142
+VO 3.2
+Toel.
+Codes
+Boekjaar
+Vorig boekjaar
+PASSIVA
+EIGEN VERMOGEN
+10/15
+901.843
+841.393
+Kapitaal
+6.7
+10
+319.750
+319.750
+Geplaatst kapitaal
+100
+319.750
+319.750
+Niet-opgevraagd kapitaal
+101
+-
+-
+Uitgiftepremies
+11
+-
+-
+Herwaarderingsmeerwaarden
+12
+-
+-
+Reserves / Bestemde Fondsen (*)
+13
+501.010
+533.286
+Wettelijke reserve
+130
+-
+-
+Onbeschikbare reserves
+131
+-
+-
+Belastingvrije reserves
+132
+-
+-
+Beschikbare reserves
+133
+-
+-
+Bestemde Fondsen(*)
+6.7
+134
+501.010
+533.286
+Overgedragen positief (negatief) resultaat   (+/-)
+14
+61.875
+-32.276
+Kapitaalsubsidies
+6.8
+15
+19.208
+20.633
+Voorschot aan vennoten op verdeling van het netto-
+actief
+19
+-
+-
+VOORZIENINGEN EN UITGESTELDE BELASTINGEN
+16
+104.269
+105.745
+Voorzieningen voor risico's en kosten
+6.8
+160/5
+104.269
+105.745
+Pensioenen en soortgelijke verplichtingen
+160
+60.803
+59.196
+Fiscale lasten
+161
+-
+-
+Grote herstellings- en onderhoudswerken
+162
+-
+-
+Milieuverplichtingen
+163
+-
+-
+Overige risico's en kosten (toelichting. VII)
+164/5
+43.466
+46.550
+Uitgestelde belastingen
+6.8
+168
+-
+-
+SCHULDEN
+17/49
+369.674
+324.008
+Schulden op meer dan één jaar
+6.9
+17
+25.453
+15.629
+Financiële schulden
+170/4
+25.453
+15.629
+Achtergestelde leningen
+170
+-
+-
+Niet-achtergestelde obligatieleningen
+171
+-
+-
+Leasing en soortgelijke schulden
+172
+14.854
+15.629
+Kredietinstellingen
+173
+-
+-
+Overige leningen
+174
+10.599
+-
+Handelsschulden
+175
+-
+-
+Ontvangen vooruitbetalingen op bestellingen
+176
+-
+-
+Overige schulden
+178/9
+-
+-
+-
+Schulden op ten hoogste één jaar
+6.9
+42/48
+344.219
+307.932
+Schulden op meer dan één jaar die binnen
+het jaar vervallen
+6.9
+42
+775
+775
+Financiële schulden
+43
+34.943
+34.919
+Kredietinstellingen
+430/8
+34.943
+34.919
+Overige leningen
+439
+-
+-
+Handelsschulden
+6.8
+44
+44.003
+37.203
+Ontvangen vooruitbetalingen op bestellingen
+46
+189.556
+183.349
+Schulden met betrekking tot belastingen,
+bezoldigingen en sociale lasten
+6.9
+45
+67.322
+44.666
+Belastingen
+450/3
+21.632
+356
+Bezoldigingen en sociale lasten
+454/9
+45.690
+44.311
+Overige schulden
+6.9
+47/48
+7.620
+7.020
+Overlopende rekeningen
+6.9
+492/3
+2
+447
+TOTAAL DER PASSIVA
+10/49
+1.375.787
+1.271.147
+(*) Bestemde Fondsen: exclusieve rubriek voor Hoger Onderwijs
+Pagina 6 van 38
+
+===== PAGE 7 =====
+Nr.
+0248015142
+VO 4
+Toel.
+Codes
+Boekjaar
+Vorig boekjaar
+RESULTATENREKENING
+Bedrijfsopbrengsten
+70/76A
+996.207
+1.019.361
+Omzet
+70
+979.465
+1.011.114
+Voorraad goederen in bewerking en gereed product
+en bestellingen in uitvoering: toename (afname) …
+(+)/(-)
+71
+-6.208
+-11.748
+Geproduceerde vaste activa
+72
+-
+-
+Andere bedrijfsopbrengsten
+73/74
+18.776
+15.506
+Niet-recurrente bedrijfsopbrengsten
+6.12
+76A
+4.173
+4.488
+Bedrijfskosten (-)
+60/66A
+971.444
+1.064.975
+Handelsgoederen, grond- en hulpstoffen
+60
+3.595
+3.672
+Aankopen
+600/8
+3.595
+3.672
+Voorraad: afname +, toename -
+609
+-
+-
+Diensten en diverse goederen
+61
+227.875
+306.116
+Bezoldigingen, sociale lasten en pensioenen
+62
+666.570
+635.132
+Afschrijvingen en waardeverminderingen op
+oprichtingskosten, op immateriële en materiële
+vaste activa
+630
+62.874
+66.127
+Waardeverminderingen op voorraden, op
+bestellngen in uitvoering en op handelsvorderingen:
+toevoegen (terugnemingen)…(+)/(-)
+631/4
+-221
+493
+Voorzieningen voor risico's en kosten (toevoegingen
++, bestedingen en terugnemingen)  …(+)/(-)
+635/8
+-1.476
+46.133
+Andere bedrijfskosten
+640/8
+3.760
+4.274
+Als herstructueringskosten geactiveerde
+bedrijfskosten …. (-)
+649
+-
+-
+Niet-recurrente bedrijfskosten
+6.12
+66A
+8.466
+3.028
+Positief (Negatief) Resultaat (+/-)
+9901
+24.763
+-45.614
+Financiële opbrengsten
+6.11
+75/76B
+24.245
+23.134
+Recurrente financiële opbrengsten
+75
+24.245
+22.947
+Opbrengsten uit financiële vaste activa
+750
+-
+-
+Opbrengsten uit vlottende activa
+751
+12.720
+16.382
+Andere financiële opbrengsten
+752/9
+11.525
+6.566
+Niet-recurrente financiële opbrengsten
+6.12
+76B
+-
+186
+Financiële kosten (-)
+6.11
+65/66B
+-12.868
+9.795
+Recurrente financiële kosten
+65
+-12.868
+8.859
+Kosten van schulden
+650
+23
+8
+Waardeverminderingen op vlottende activa andere
+dan voorraden, bestellingen in uitvoering en
+handelsvorderingen: toevoegingen
+(terugnemingen)…(+)/(-)
+651
+-19.257
+2.705
+Andere financiële kosten
+652/9
+6.366
+6.145
+Niet-recurrente financiële kosten
+6.12
+66B
+-
+936
+Positief (Negatief) resultaat van het boekjaar voor
+belasting (+/-)
+9903
+61.875
+-32.276
+Onttrekking aan de uitgestelde belastingen
+780
+-
+-
+Overboeking naar de uitgestelde belastingen
+680
+-
+-
+Belasingen op het resultaat   (+)/(-)
+67/77
+-
+-
+Belastingen
+670/3
+-
+-
+Regularisering van belastingen en terugneming van
+voorzieningen voor belastingen
+77
+-
+-
+Positief (Negatief) resultaat van het boekjaar (+/-)
+9904
+61.875
+-32.276
+Onttrekking aan de belastingvrije reserves
+789
+-
+-
+Overboeking naar de belastingvrije reserves
+689
+-
+-
+Te bestemmen positief (negatief) resultaat van het
+boekjaar  (+/-)
+9905
+61.875
+-32.276
+Pagina 7 van 38
