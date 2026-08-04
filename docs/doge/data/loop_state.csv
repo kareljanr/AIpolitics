@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T11:30:00Z,rq_820,829,no,tick829 Mechelen JR2025 611m assets expl268 personnel113 AFM+2.5 dual Gent/Antwerp FOI; next rq_821; **progress@830 NEXT**; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T12:00:00Z,rq_830,830,no,tick830 progress coverage % + waste top10; WAL quintet+Mechelen gain 820-829; next rq_821 residual dual L5; progress@840 in 10; rq_116 deferred

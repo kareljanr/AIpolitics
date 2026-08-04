@@ -10144,3 +10144,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +4; leaderboard +6; sources +2; entity city_mechelen; FOI **gap_mechelen_debt_pension_subs_l5** prio7 ready + draft; raw PDF+txt; rq_820=done; spawn **rq_821**; ticks=829
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_821**; **progress@830 NEXT tick**; deferred **rq_116**
+
+## Tick 830 — 2026-08-05T12:00:00Z
+
+- Unit: **rq_830** (mandatory **progress@830** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh after ticks 821–829):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ WE consol **€6.38bn** · SOFICO **€3.02bn** · SOWAER **€492m** · **WAL 5 provinces BI2026** Hainaut **€878m** / Liège **€564m** / Namur **€240m** / BW **€202m** / Lux **€136m** · Mechelen **€611m** · prior WAL BI2026 **€21.34bn** / VMSW / KUL / UGent retained)
+  - **D L5:** ~**62–76%** generous — gain 820→830: WE liberations **€613m** / write-downs **€72m** · SOFICO LUWA **€590m** / CAPEX **€265m** · ZS provincial stack **€78+51+30+16+18m** paths to 2030 · Ethias debudget Namur **~€10m** / Lux **€3.1m** · Mechelen personnel **€113m** / toelagen **~€90m** / pension prov **€135m** / AFM **+€2.5m**
+  - **E FOI ready:** ~**554** (answered ~9; total ~568)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks filtered (Metro3, OWV snowball, MOG II CAPEX, WE/SOFICO/Mechelen balance sheets, provincial debt stocks)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_830=done; next **rq_821**; loop_state ticks=830
+- FOI: none new this tick
+- Next: prio5 **rq_821** residual dual L5/local/CoA (VL city/province); deferred **rq_116**; progress@840 in 10

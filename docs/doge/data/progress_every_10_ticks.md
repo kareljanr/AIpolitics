@@ -20,6 +20,43 @@
 
 ---
 
+## Snapshot at **tick 830** (2026-08-05)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** WE consol **€6.38bn** / SA **€5.36bn** · SOFICO **€3.02bn** · SOWAER **€492m** · **WAL 5 provinces BI2026 ordinary** Hainaut **€878m** / Liège **€564m** / Namur **€240m** / BW **€202m** / Lux **€136m** · Mechelen stad+OCMW **€611m** · prior WAL BI2026 **€21.34bn** / VMSW **€12.38bn** / KUL **€3.4bn** / UGent **€1.38bn** retained |
+| **D. L5 named / measure end-lines** | **~62-76%** of TE (generous) | **Gain 820→830 is SOE residual + full WAL provincial CoA map + VL city L5 (not near-complete of 348bn):** WE liberations **€612.6m** / write-downs **€71.6m** / guarantees **€208m** / provision **€102m** · SOFICO sales **€503m** / CAPEX **€265m** / LUWA PPP **€590m** / capital-subs **€310m** · SOWAER sales **€47m** / op **−€3.8m** · **ZS provincial path** Hainaut **€78m→€127m 2030** · Liège **€51m→€90m** · Namur **€30m→€44m** · Lux **€18m→€29m** · BW **€16m→€27m** · Ethias pension debudget Namur **~€10m** / Lux **€3.1m** · Mechelen personnel **€113m** / toelagen **~€90m** / pension prov **€135m** / AFM **+€2.5m** · FOI still PEZ/ISI/DWV/uni grant matrices + provincial ZS commune matrices + WE portfolio book + SOFICO PKPL + Mechelen debt schedule |
+| **E. FOI-ready gaps** | **~554** drafts ready | Human send only; answered **~9**; total FOI rows **~568** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery society · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **debt principal repay** · **SAFE loans €8.34bn BE** · **Entity II HermReg soldes €7.9bn** · **VL/WAL/FWB/BCR debt stocks** (WAL gross **€30.3bn** class; provincial debt stocks Hainaut **€282m** / Liège **€127m** / BW **€50m** / Lux **€38m** / Namur ratio **20.5%**) · **Hedera CAP €15bn** · **Phoenix LTO / CfD** · **Defence eng-liq / SFPIM Defence capital** · **Ukraine multi-year** · **EU GNI / MFF** · **housing finance stocks** (VMSW loans **€11.6bn**) · **MOG II / PE Island multi-bn grid** · **Regie rent/DBFM** · **Metro3 multi-bn** · **university/SOE balance sheets** (WE **€6.4bn** / SOFICO **€3.0bn** / KUL **€3.4bn** / UGent **€1.4bn** / Mechelen **€611m** not full TE) · **LUWA PPP €590m** commit · private gambling **€31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 830)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~17247 |
+| commitments.csv | ~2308 |
+| leaderboard.csv | ~3703 |
+| entities.csv | ~576 |
+| sources.csv | ~1636 |
+| FOI ready | ~554 |
+| FOI answered | ~9 |
+| FOI total rows | ~568 |
+| research_queue open | rq_116 deferred + rq_821 hole-fill after progress |
+
+### What improved since tick 820
+
+- **SOWAER YE2025 (tick821):** assets **€492m** · sales **€47m** (−28%) · op **−€3.8m** · capital-subs **€63.4m** · dual BSCA/BAC.
+- **WE AR2025 residual (tick822):** consol **€6.38bn** / SA **€5.36bn** · liberations **€612.6m** · guarantees **€208m** · write-downs **€71.6m** · top div SAB **€49.6m** · dual PMV/SFPIM.
+- **SOFICO YE2025 (tick823):** assets **€3.02bn** · sales **€503m** · net **€112m** · CAPEX **€265m** · LUWA PPP **€590m** / **€30.3m**/yr · capital-subs **€310m** · dual AWV.
+- **WAL provincial CoA BI2026 complete (tick824–828):** **all 5** provinces primary — Hainaut ordinary **€878m** / personnel **€621m** / ZS **€78m** · Liège **€564m** / **€398m** / ZS **€51m** · Namur **€240m** / **€126m** / ZS **€30m** / Ethias debudget **~€10m** · BW **€202m** / **€137m** / debt ratio **68%** · Lux **€136m** / **€79m** / ZS **€18m** / Ethias **€3.1m** / GSM tax **€0.6m**.
+- **Mechelen JR2025 (tick829):** assets **€611m** · expl **€268m** · personnel **€113m** · AFM **+€2.5m** · fin debt **€284m** · pension prov **€135m** · toelagen **~€90m** · dual Gent/Antwerp.
+- **Dual map:** WE vs PMV/SFPIM · SOFICO vs AWV · SOWAER vs airports · **WAL provincial quintet ZS paths** · Ethias pension debudget Namur/Lux · Mechelen vs VL cities.
+
+---
+
 ## Snapshot at **tick 820** (2026-08-05)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
