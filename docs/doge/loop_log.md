@@ -9734,3 +9734,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +5; commitments +4; leaderboard +5; sources +3; FOI **gap_belspo_defence_esa_268m_l5** prio8 ready; raw txt; rq_795=done; spawn **rq_796**; ticks=804
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_796** residual 028/005/036; deferred **rq_116**; progress@810 in 6
+
+## Tick 805 — 2026-08-04T23:30:00Z
+
+- Unit: **rq_796** (FOI-adjacent residual — **Kamer DOC 56 1282/010 Armoedebestrijding**, 13p; dual **1282/040 Grootsteden** 5p + **1282/036 Handicap** 17p)
+- Found (primary 56K1282010):
+  - DAVO/SECAL max advance **€175 → €200**/child from 1 Jan 2026; then **+€25**/yr to max **€350**/mo/child
+  - Automatic DAVO default collection for new enforceable titles (Finance coord)
+  - White book 2.0 care access budget **€24.73m** (0.5-line, street nurses, convalescence)
+- Dual (56K1282040 / 036):
+  - Housing First Loterij call **€2.5m** 2026–2028 (HF4Y + hospital discharge)
+  - GAS mediation: **42** mediators · **481** communes · **>11k** dossiers 2024 (subsidy EUR Unknown)
+  - IVT cat. B singles **+2%** 2026 and 2028 (retro 1 Jan 2026); index kept ≤€2000
+- Wrote: budgets +6; commitments +5; leaderboard +5; sources +4; FOI **gap_armoede_davo_hf_l5** prio8 ready; raw; rq_796=done; spawn **rq_797**; ticks=805
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_797** residual 028/005/037; deferred **rq_116**; progress@810 in 5
