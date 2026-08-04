@@ -9669,3 +9669,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_791=done; next **rq_792**; loop_state ticks=800
 - FOI: none new this tick
 - Next: prio5 **rq_792** residual Regie029/Loterij015; deferred **rq_116**; progress@810 in 10
+
+## Tick 801 — 2026-08-04T21:30:00Z
+
+- Unit: **rq_792** (FOI-adjacent residual — **Kamer DOC 56 1282/029 Beleidsnota Regie der Gebouwen**, 23p)
+- Found (primary 56K1282029):
+  - Federal portfolio **>7m m²**; NEKP compliance internal estimate **>€3bn** to 2050
+  - Accessibility study Brussels **€350k**
+  - Rented surface **−1.68%** 2025; 2026 further **−1.69%** → structural save **€13.78m**
+  - Arlon/Neufchâteau end lease **~€4m** (free **14,838 m²**); Jardins Couronne lease **~€9m** / **38,210 m²** to terminate
+  - Sales target 2026: **108,166 m²** unused → revenue **>€50m** (2025: 28 buildings / 52,278 m²)
+  - Justice capacity taskforce credits **€264m** 2026 · **€336m** by 2028 (MR 18 Jul 2025)
+  - DBFM prisons avg **€96.5m**/yr; Vresse prison build **2027–28** available early **2029**
+- Wrote: budgets +10; commitments +6; leaderboard +6; sources +2; FOI **gap_regie_nekp_3bn_prison_264m_l5** prio9 ready; raw PDF; rq_792=done; spawn **rq_793**; ticks=801
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_793** residual Loterij015/PODMI; deferred **rq_116**; progress@810 in 9

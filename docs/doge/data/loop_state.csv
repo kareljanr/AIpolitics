@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T21:00:00Z,rq_791,800,no,tick800 MANDATORY progress@800 coverage A-E + waste top10 stable; next rq_792 Regie029/Loterij015 residual; progress@810 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T21:30:00Z,rq_792,801,no,tick801 Regie029 NEKP>3bn Justice264/336 DBFM96.5 rent save13.78 FOI; next rq_793 Loterij015/PODMI039 residual; progress@810 in 9; rq_116 deferred
