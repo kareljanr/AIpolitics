@@ -10634,3 +10634,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_koksijde; FOI **gap_koksijde_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_861=done; spawn **rq_862**; ticks=861
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_862** residual dual L5 (Roeselare/Lier/Poperinge/VUB/skeyes); deferred **rq_116**; progress@870 in 9
+
+## Tick 862 - 2026-08-06T04:00:00Z
+
+- Unit: **rq_862** (FOI-adjacent residual dual - **Stad+OCMW Oudenaarde Jaarrekening 2025** + Koksijde dual)
+- Found (strong primary BBC JR2025 208p, pub 25.06.2026 class):
+  - Assets **EUR278.7m** / equity **EUR198.2m** / debt total **EUR80.6m** / fin debt **EUR41.7m** (LT **EUR37.3m** / ST due **EUR4.4m**; was **EUR32.9m**)
+  - Pension **EUR25.3m** / cash **EUR6.3m** / cap subs **EUR49.5m** / FVA IGS **EUR34.1m** / onbeschikbaar **EUR0.016m**
+  - Exploitatie: ontvangsten **EUR80.9m** / uitgaven **EUR76.5m** / saldo **+EUR4.4m**
+  - AFM **+EUR1.5m** (gecorr **+EUR2.8m**) / BBR **EUR14.3m** / budget result **-EUR1.5m** / P&L **-EUR6.2m**
+  - Personnel **EUR41.1m** (onderwijs other-gov **EUR2.8m**) / toelagen **EUR8.0m** (police **EUR4.6m** / fire **EUR1.1m** / other **EUR2.0m**) / OCMW aid **EUR5.5m** / fiscal **EUR31.0m**
+  - Invest **EUR17.4m** / new loans **EUR12.7m** (bank **EUR12.5m**) / gemeentefonds **EUR13.2m**
+- Dual: Koksijde **EUR330m** / fin debt **EUR78m** / AFM **+EUR10.3m** / fiscal **EUR58m** (tick861) - not TE-additive
+- Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_oudenaarde; FOI **gap_oudenaarde_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_862=done; spawn **rq_863**; ticks=862
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_863** residual dual L5 (Roeselare/Lier/Poperinge/Vilvoorde/VUB/skeyes); deferred **rq_116**; progress@870 in 8

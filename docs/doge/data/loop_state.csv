@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T03:30:00Z,rq_861,861,no,tick861 Koksijde JR2025 dual Aarschot; FOI gap_koksijde_debt_loans_l5; next rq_862 residual dual L5; progress@870 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T04:00:00Z,rq_862,862,no,tick862 Oudenaarde JR2025 dual Koksijde; FOI gap_oudenaarde_debt_loans_l5; next rq_863 residual dual L5; progress@870 in 8; rq_116 deferred

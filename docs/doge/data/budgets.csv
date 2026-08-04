@@ -18247,3 +18247,43 @@ bud_kx_fin_costs_2025,city_koksijde,2025,2707988,,,outturn,src_koksijde_jr2025,s
 bud_kx_police_toelage_2025,city_koksijde,2025,5885303,,,outturn,src_koksijde_jr2025,strong,Toelage politiezone 5.885m; tick861
 bud_kx_fire_toelage_2025,city_koksijde,2025,1117626,,,outturn,src_koksijde_jr2025,strong,Toelage hulpverleningszone 1.118m; tick861
 bud_kx_mjp2026_new_loans_plan,city_koksijde,2026,25057041,,,budgeted,src_koksijde_jr2025,strong,MJP planned new loans 2026 25.057m; tick861
+bud_oa_assets_2025,city_oudenaarde,2025,278725324,,,stock,src_oudenaarde_jr2025,strong,Consol stad+OCMW total assets YE2025 278.725m; tick862
+bud_oa_equity_2025,city_oudenaarde,2025,198167208,,,stock,src_oudenaarde_jr2025,strong,Nettoactief YE2025 198.167m; tick862
+bud_oa_debt_total_2025,city_oudenaarde,2025,80558116,,,stock,src_oudenaarde_jr2025,strong,Schulden total YE2025 80.558m; tick862
+bud_oa_fin_debt_2025,city_oudenaarde,2025,41702204,,,stock,src_oudenaarde_jr2025,strong,Financiele schulden total YE2025 41.702m (LT 37.271 + ST due 4.431); tick862
+bud_oa_fin_debt_lt_2025,city_oudenaarde,2025,37271069,,,stock,src_oudenaarde_jr2025,strong,Financiele schulden LT YE2025 37.271m; tick862
+bud_oa_fin_debt_st_2025,city_oudenaarde,2025,4431135,,,stock,src_oudenaarde_jr2025,strong,Fin schulden LT binnen jaar YE2025 4.431m; tick862
+bud_oa_pension_prov_2025,city_oudenaarde,2025,25279360,,,stock,src_oudenaarde_jr2025,strong,Pensioenvoorzieningen YE2025 25.279m; tick862
+bud_oa_cash_2025,city_oudenaarde,2025,6347425,,,stock,src_oudenaarde_jr2025,strong,Liquide middelen YE2025 6.347m; tick862
+bud_oa_cap_subs_2025,city_oudenaarde,2025,49521117,,,stock,src_oudenaarde_jr2025,strong,Kapitaalsubsidies YE2025 49.521m; tick862
+bud_oa_fva_igs_2025,city_oudenaarde,2025,34118178,,,stock,src_oudenaarde_jr2025,strong,Fin VA IGS YE2025 34.118m; tick862
+bud_oa_onbeschikbaar_2025,city_oudenaarde,2025,15641,,,stock,src_oudenaarde_jr2025,strong,Onbeschikbare gelden YE2025 0.016m; tick862
+bud_oa_cumul_deficit_2025,city_oudenaarde,2025,4494090,,,stock,src_oudenaarde_jr2025,strong,Gecumuleerd tekort absolute YE2025 4.494m (sign negative in JR); tick862
+bud_oa_expl_rec_2025,city_oudenaarde,2025,80926455,,,outturn,src_oudenaarde_jr2025,strong,Exploitatieontvangsten 80.926m 2025; tick862
+bud_oa_expl_exp_2025,city_oudenaarde,2025,76494325,,,outturn,src_oudenaarde_jr2025,strong,Exploitatieuitgaven 76.494m 2025; tick862
+bud_oa_expl_saldo_2025,city_oudenaarde,2025,4432130,,,outturn,src_oudenaarde_jr2025,strong,Exploitatiesaldo +4.432m 2025; tick862
+bud_oa_invest_exp_2025,city_oudenaarde,2025,17419446,,,outturn,src_oudenaarde_jr2025,strong,Investeringsuitgaven 17.419m 2025; tick862
+bud_oa_invest_rec_2025,city_oudenaarde,2025,2512822,,,outturn,src_oudenaarde_jr2025,strong,Investeringsontvangsten 2.513m 2025; tick862
+bud_oa_invest_saldo_2025,city_oudenaarde,2025,-14906624,,,outturn,src_oudenaarde_jr2025,strong,Investeringssaldo -14.907m 2025; tick862
+bud_oa_fin_rec_2025,city_oudenaarde,2025,12845041,,,outturn,src_oudenaarde_jr2025,strong,Financieringsontvangsten 12.845m 2025; tick862
+bud_oa_fin_exp_2025,city_oudenaarde,2025,3913622,,,outturn,src_oudenaarde_jr2025,strong,Financieringsuitgaven 3.914m 2025; tick862
+bud_oa_fin_saldo_2025,city_oudenaarde,2025,8931419,,,outturn,src_oudenaarde_jr2025,strong,Financieringssaldo +8.931m 2025; tick862
+bud_oa_budget_result_2025,city_oudenaarde,2025,-1543075,,,outturn,src_oudenaarde_jr2025,strong,Budgettair resultaat boekjaar -1.543m 2025; tick862
+bud_oa_bbr_2025,city_oudenaarde,2025,14271054,,,outturn,src_oudenaarde_jr2025,strong,Beschikbaar budgettair resultaat 14.271m YE2025; tick862
+bud_oa_afm_2025,city_oudenaarde,2025,1470826,,,outturn,src_oudenaarde_jr2025,strong,Autofinancieringsmarge AFM +1.471m 2025; tick862
+bud_oa_afm_corr_2025,city_oudenaarde,2025,2751063,,,outturn,src_oudenaarde_jr2025,strong,Gecorrigeerde AFM +2.751m 2025; tick862
+bud_oa_personnel_2025,city_oudenaarde,2025,41059415,,,outturn,src_oudenaarde_jr2025,strong,Personeelsuitgaven/bezold 41.059m 2025 (incl onderwijs other-gov 2.808m); tick862
+bud_oa_personnel_onderwijs_other_2025,city_oudenaarde,2025,2807659,,,outturn,src_oudenaarde_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.808m 2025; tick862
+bud_oa_goederen_diensten_2025,city_oudenaarde,2025,20054113,,,outturn,src_oudenaarde_jr2025,strong,Goederen en diensten 20.054m 2025; tick862
+bud_oa_toelagen_2025,city_oudenaarde,2025,7968644,,,outturn,src_oudenaarde_jr2025,strong,Toegestane werkingssubsidies 7.969m 2025; tick862
+bud_oa_toelagen_police_2025,city_oudenaarde,2025,4571116,,,outturn,src_oudenaarde_jr2025,strong,Toelage politiezone 4.571m 2025; tick862
+bud_oa_toelagen_fire_2025,city_oudenaarde,2025,1052886,,,outturn,src_oudenaarde_jr2025,strong,Toelage hulpverleningszone 1.053m 2025; tick862
+bud_oa_toelagen_other_2025,city_oudenaarde,2025,2006192,,,outturn,src_oudenaarde_jr2025,strong,Toelagen andere begunstigden 2.006m 2025 FOI-adjacent; tick862
+bud_oa_ocmw_aid_2025,city_oudenaarde,2025,5490366,,,outturn,src_oudenaarde_jr2025,strong,OCMW individuele hulpverlening 5.490m 2025; tick862
+bud_oa_fiscal_2025,city_oudenaarde,2025,31018617,,,outturn,src_oudenaarde_jr2025,strong,Fiscale ontvangsten en boetes 31.019m 2025; tick862
+bud_oa_gemeentefonds_2025,city_oudenaarde,2025,13230399,,,outturn,src_oudenaarde_jr2025,strong,Gemeentefonds 13.230m 2025; tick862
+bud_oa_new_loans_2025,city_oudenaarde,2025,12698516,,,outturn,src_oudenaarde_jr2025,strong,Nieuwe financiele schulden 12.699m (bank 12.5m + other 0.199m); tick862
+bud_oa_new_loans_bank_2025,city_oudenaarde,2025,12500000,,,outturn,src_oudenaarde_jr2025,strong,Opname leningen bij financiele instellingen 12.500m 2025; tick862
+bud_oa_pl_costs_2025,city_oudenaarde,2025,89587690,,,outturn,src_oudenaarde_jr2025,strong,Staat kosten total 89.588m 2025; tick862
+bud_oa_pl_opbrengsten_2025,city_oudenaarde,2025,83339244,,,outturn,src_oudenaarde_jr2025,strong,Staat opbrengsten total 83.339m 2025; tick862
+bud_oa_pl_result_2025,city_oudenaarde,2025,-6248446,,,outturn,src_oudenaarde_jr2025,strong,Boekhoudkundig tekort -6.248m 2025; tick862
