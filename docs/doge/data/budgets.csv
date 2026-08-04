@@ -17352,3 +17352,33 @@ bud_aalst_werk_subs_rec_2025,city_aalst,2025,129218541,,,cash,src_aalst_jr2025,s
 bud_aalst_fin_costs_2025,city_aalst,2025,3986665,,,cash,src_aalst_jr2025,strong,J5 financiele kosten 3.987m; tick833
 bud_aalst_inv_subs_granted_2025,city_aalst,2025,3627926,,,cash,src_aalst_jr2025,strong,Toegestane investeringssubsidies 3.628m; tick833
 bud_aalst_debt_per_capita_2025,city_aalst,2025,1784,,,stock,src_aalst_jr2025,strong,Openstaande schuld per inwoner 1784 EUR (incl ST); tick833
+bud_brugge_assets_2025,city_brugge,2025,1462253952,,,stock,src_brugge_jr2025,strong,Consol stad+OCMW total assets YE2025 1462.254m (largest VL city BS found); tick834
+bud_brugge_equity_2025,city_brugge,2025,1105315589,,,stock,src_brugge_jr2025,strong,Nettoactief YE2025 1105.316m (stad 1038.7 ocmw 66.6); tick834
+bud_brugge_debt_total_2025,city_brugge,2025,356938363,,,stock,src_brugge_jr2025,strong,Total schulden YE2025 356.938m; tick834
+bud_brugge_fin_debt_2025,city_brugge,2025,191714838,,,stock,src_brugge_jr2025,strong,Financiele schulden total YE2025 191.715m (LT 136.162 + ST 45.671 + ST due 9.882); tick834
+bud_brugge_fin_debt_lt_2025,city_brugge,2025,136162394,,,stock,src_brugge_jr2025,strong,Financiele schulden LT YE2025 136.162m; tick834
+bud_brugge_fin_debt_st_2025,city_brugge,2025,45670655,,,stock,src_brugge_jr2025,strong,Financiele schulden ST YE2025 45.671m (was 52.75m treasury); tick834
+bud_brugge_lt_loans_kern_2025,city_brugge,2025,133800000,,,stock,src_brugge_jr2025,strong,Kerncijfers LT loans excl leasing 133.8m (stad 125.1 ocmw 8.6); tick834
+bud_brugge_pension_prov_2025,city_brugge,2025,116226729,,,stock,src_brugge_jr2025,strong,Pensioenvoorzieningen LT YE2025 116.227m (was 111.785m); dual Genk 312.6m Mechelen 134.8m; tick834
+bud_brugge_cash_2025,city_brugge,2025,36651428,,,stock,src_brugge_jr2025,strong,Liquide middelen YE2025 36.651m (was 59.926m); tick834
+bud_brugge_cap_subs_2025,city_brugge,2025,55778861,,,stock,src_brugge_jr2025,strong,Kapitaalsubsidies YE2025 55.779m; tick834
+bud_brugge_fva_igs_2025,city_brugge,2025,152020047,,,stock,src_brugge_jr2025,strong,Fin VA IGS 152.020m; tick834
+bud_brugge_fva_other_2025,city_brugge,2025,540164050,,,stock,src_brugge_jr2025,strong,Andere FVA 540.164m (Port Antwerp-Bruges/MBZ ~538.7m class); tick834
+bud_brugge_expl_rec_2025,city_brugge,2025,419083263,,,cash,src_brugge_jr2025,strong,Exploitatieontvangsten consol 419.083m; tick834
+bud_brugge_expl_exp_2025,city_brugge,2025,380702498,,,cash,src_brugge_jr2025,strong,Exploitatieuitgaven consol 380.702m; tick834
+bud_brugge_expl_saldo_2025,city_brugge,2025,38380765,,,cash,src_brugge_jr2025,strong,Exploitatiesaldo +38.381m; tick834
+bud_brugge_invest_exp_2025,city_brugge,2025,84319077,,,cash,src_brugge_jr2025,strong,Investeringsuitgaven 84.319m; tick834
+bud_brugge_invest_rec_2025,city_brugge,2025,21704947,,,cash,src_brugge_jr2025,strong,Investeringsontvangsten 21.705m; tick834
+bud_brugge_invest_saldo_2025,city_brugge,2025,-62614130,,,cash,src_brugge_jr2025,strong,Investeringssaldo -62.614m; tick834
+bud_brugge_fin_rec_2025,city_brugge,2025,32374255,,,cash,src_brugge_jr2025,strong,Financieringsontvangsten 32.374m; tick834
+bud_brugge_fin_exp_2025,city_brugge,2025,9968567,,,cash,src_brugge_jr2025,strong,Financieringsuitgaven 9.969m; tick834
+bud_brugge_afm_2025,city_brugge,2025,30771546,,,cash,src_brugge_jr2025,strong,Autofinancieringsmarge AFM +30.772m; tick834
+bud_brugge_afm_corr_2025,city_brugge,2025,26185934,,,cash,src_brugge_jr2025,strong,Gecorrigeerde AFM +26.186m; tick834
+bud_brugge_bbr_2025,city_brugge,2025,31966250,,,cash,src_brugge_jr2025,strong,Beschikbaar budgettair resultaat BBR 31.966m; tick834
+bud_brugge_budget_result_2025,city_brugge,2025,-1827677,,,cash,src_brugge_jr2025,strong,Budgettair resultaat boekjaar -1.828m; tick834
+bud_brugge_personnel_2025,city_brugge,2025,189200000,,,cash,src_brugge_jr2025,strong,Bruto personeelsuitgaven kerncijfers 189.2m (stad 150.9 ocmw 38.3; +2.7pct); tick834
+bud_brugge_toelagen_2025,city_brugge,2025,95200000,,,cash,src_brugge_jr2025,strong,Toegestane werkingssubsidies kerncijfers 95.2m (stad 86.7 ocmw 8.6; -2.0pct); dual prior register ~98m; tick834
+bud_brugge_fiscal_2025,city_brugge,2025,141900000,,,cash,src_brugge_jr2025,strong,Fiscale ontvangsten kerncijfers 141.9m (+5.6pct); tick834
+bud_brugge_werk_subs_rec_2025,city_brugge,2025,200600000,,,cash,src_brugge_jr2025,strong,Ontvangen werkingssubsidies kerncijfers 200.6m (+4.2pct); tick834
+bud_brugge_ocmw_cover_2025,city_brugge,2025,22200000,,,cash,src_brugge_jr2025,strong,Stedelijke bijdrage OCMW circa 22.2m (narrative; excl from stad/ocmw budget result split); tick834
+bud_brugge_respo_prov_lt_2025,city_brugge,2025,67100000,,,stock,src_brugge_jr2025,strong,LT voorziening responsabiliseringsbijdrage stad ~67.1m YE2025 (narrative); tick834

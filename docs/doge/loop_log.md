@@ -10208,3 +10208,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_824** residual dual L5/local/CoA (Roeselare/Hasselt/BELNET/skeyes); deferred **rq_116**; progress@840 in 7
 
+
+## Tick 834 — 2026-08-05T14:00:00Z
+
+- Unit: **rq_824** (FOI-adjacent residual dual — **Stad+OCMW Brugge Jaarrekening 2025** + Aalst/Genk city dual)
+- Found (strong primary BBC JR2025 boekdeel 2, 310p, publ. 2 jul 2026, Burg 12):
+  - Assets **€1.462.3m** (largest VL city BS; FVA Port/MBZ ~**€538.7m**) · equity **€1.105.3m** · debt total **€356.9m** · fin debt **€191.7m** (LT **€136.2m** · ST **€45.7m** · ST due **€9.9m**)
+  - Pension provisions **€116.2m** · respo LT stad ~**€67.1m** · cash **€36.7m** · cap subs **€55.8m** · FVA IGS **€152.0m**
+  - Exploitatie: ontvangsten **€419.1m** · uitgaven **€380.7m** · saldo **+€38.4m**
+  - AFM **+€30.8m** (gecorr **+€26.2m**) · BBR **€32.0m** · budget result **−€1.8m**
+  - Bruto personnel **€189.2m** (stad **€150.9m** · OCMW **€38.3m**) · toelagen **€95.2m** · fiscal **€141.9m** · werk-subs rec **€200.6m**
+  - Invest **€84.3m** · OCMW cover ~**€22.2m** · fin rec **€32.4m** · fin exp **€10.0m**
+- Dual: Aalst **€616.5m** / expl **€276m** (tick833) · Genk **€628.7m** / pension **€312.6m** (tick832) — not TE-additive
+- Wrote: budgets +30; commitments +4; leaderboard +8; sources +2; entity city_brugge update; FOI **gap_brugge_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_824=done; spawn **rq_825**; ticks=834
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_825** residual dual L5/local/CoA (Roeselare/Hasselt/BELNET/skeyes); deferred **rq_116**; progress@840 in 6
+
