@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T04:00:00Z,rq_805,814,no,tick814 CoA ISI bank 2.3bn/36m 1.57pct dual SECAL FOI; next rq_806 residual dual L5/local; progress@820 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T04:30:00Z,rq_806,815,no,tick815 CoA DWV studies R0 85.4/103.6m four~133.7m OP9.4 dual GIP FOI; next rq_807 residual dual L5/local; progress@820 in 5; rq_116 deferred

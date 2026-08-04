@@ -9890,3 +9890,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +14; commitments +3; leaderboard +5; sources +2; FOI **gap_isi_bank_inquiry_collection_l5** prio9 ready + draft; raw full txt extract; rq_805=done; spawn **rq_806**; ticks=814
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_806** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 6
+
+## Tick 815 — 2026-08-05T04:30:00Z
+
+- Unit: **rq_806** (FOI-adjacent residual dual — **CoA 2026_19 De Werkvennootschap studieopdrachten** + GIP dual)
+- Found (strong primary Rekenhof NL chamber 31 Mar 2026, 73p Table1 excl VAT):
+  - **R0 Noord:** award **€35.728m** · spent Mar2025 **€85.405m** (>2×) · revised study budget **€103.6m** · OP posts ~**€9.4m** no competition
+  - **R0 Oost:** **€3.520m**/yr base · spent **€11.092m** · quick wins **€3.7m** same provider 2023 unpublished
+  - **Brabantnet:** award **€5.9m** · spent **€11.064m** + extra studies **€8.75m** (ring 0.1 · airport tram 5.1 · sneltram 3.6)
+  - **R4 W/O:** award **€12.093m** · spent **€17.373m** (+44%) · plafond +**€5.6m** · deelopdracht4 **€4.3→9.2m**
+  - Four-pack spent class **~€124.9m** + Brabant extra → **~€133.7m**; DWV invest budget 2025 **€226.2m**
+  - 3 of 4 heavily overrun; all four delayed; provider lock-in risk
+- Dual: prior GIP/WADR residual (not TE-additive)
+- Wrote: budgets +17; commitments +3; leaderboard +5; sources +2; FOI **gap_dwv_study_overruns_l5** prio8 ready + draft; raw txt extract; rq_806=done; spawn **rq_807**; ticks=815
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_807** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 5
