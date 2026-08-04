@@ -9749,3 +9749,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +6; commitments +5; leaderboard +5; sources +4; FOI **gap_armoede_davo_hf_l5** prio8 ready; raw; rq_796=done; spawn **rq_797**; ticks=805
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_797** residual 028/005/037; deferred **rq_116**; progress@810 in 5
+
+## Tick 806 — 2026-08-05T00:00:00Z
+
+- Unit: **rq_797** (FOI-adjacent residual — **Kamer DOC 56 1282/028 Ambtenarenzaken**, 28p; dual **1282/037 Gelijke Kansen**, **1282/005 Landbouw**, **1282/034 Consument**)
+- Found (primary 56K1282028):
+  - Support centralisation entities **<500 staff** (excl OISZ) → BOSA+Regie with **ETP+budget transfer**
+  - Entities **>500 ETP**: rationalise support to standard ratio; CBA for **BC2026**
+  - Missions analysis → social pole Jan / other by **3 Feb 2026**; integrate BC2026
+  - External consultancy inventory + KPI reduction + annual savings report (aggregate EUR FOI)
+  - Gender pay gap corrected **7%**; Medex psychic/stress **43.7%** of sick days (record)
+  - RE-BOrn: **61%** burnout agents never used instruments; disability manager by **2028**
+- Dual:
+  - Gelijke: CSO subsidy framework reform (named EUR FOI); MSA budgets phase-1 Unknown; football reporting points
+  - Landbouw: agri-food exports **~€40bn** 2024 (market dual FAVV)
+  - Consument: UBD max **€60** manual bank tx; ATM protocol eval spring 2026
+- Wrote: budgets +8; commitments +6; leaderboard +6; sources +5; FOI **gap_ambtenaren_centralise_consultancy_l5** prio9 ready; raw; rq_797=done; spawn **rq_798**; ticks=806
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_798** residual 035/033; deferred **rq_116**; progress@810 in 4

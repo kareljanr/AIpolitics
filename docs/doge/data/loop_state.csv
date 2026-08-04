@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T23:30:00Z,rq_796,805,no,tick805 Armoede010 DAVO200-350 +24.73m dual HF2.5 IVT+2 FOI; next rq_797 residual 028/005/037; progress@810 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T00:00:00Z,rq_797,806,no,tick806 Ambtenaren028 centralise/consultancy/sick43.7 dual Gelijke037 Landbouw40bn FOI; next rq_798 residual 035/033; progress@810 in 4; rq_116 deferred
