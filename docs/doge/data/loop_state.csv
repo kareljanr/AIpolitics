@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T20:30:00Z,rq_790,799,no,tick799 Beliris020 save25m Nord suspend canopy13 FOI; next rq_791 MANDATORY progress@800; then rq_792 Regie029 residual; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T21:00:00Z,rq_791,800,no,tick800 MANDATORY progress@800 coverage A-E + waste top10 stable; next rq_792 Regie029/Loterij015 residual; progress@810 in 10; rq_116 deferred

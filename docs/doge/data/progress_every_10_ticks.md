@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 800** (2026-08-04)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** Beliris residual dual Metro3 class · Fin taxex cruise **€250m** demo/rebuild · IBZ security provision **~€0.5bn** · Plan Grote Steden **€71.3m** · federal culture 3-inst dots **€68.7m** · Fedasil dual **€802.2m** package class retained · prior RIZIV/SS/SAFE/illness stacks retained |
+| **D. L5 named / measure end-lines** | **~59-73%** of TE (generous) | **Gain 790→800 is federal beleidsnota residual wave (not near-complete of 348bn):** Klima SKF BE **€2.21bn** / fed EU **€217–218m** / cofin **€72m** · Asiel 038 euro-opaque dual Fedasil · Culture Monnaie TCO **€64.7m** / Bozar ops **€35.6m** / 3-inst **€68.7m** · IBZ cameras **€25m** paid / Plan GV **€71.3m** / digital floor **>€150m** / DSU **>€30m** · BZ refi **€35m** / ODA **−25%** dual DGD **€1.118bn** · Energie ETF call9 **€16.97m** / Phoenix support opaque · KMO VAT franchise path **€15.16m** / accounts fee cut **€3.571m** / SKF micro **~€24m** · Fin VAT demo cruise **€250m** / heatpump **€10.1m** / SFPIM Defence capital opaque / SRFF **+100** · Beliris metro save **€25m** / Nord suspend since 2023 / Schuman canopy **≥€13m** not ordered · FOI still bulk provision exact € + Phoenix cash + Nord recurrent + SFPIM capital |
+| **E. FOI-ready gaps** | **~527** drafts ready | Human send only; answered **~9**; total FOI rows **~541** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** (incl. demo/rebuild cruise **€250m** class, heatpump **€10.1m**, VAT franchise path) · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **debt principal repay / securities purchases** (roll) · **SAFE loans €8.34bn BE** · **Entity II HermReg soldes €7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP €15bn** · **Phoenix LTO multi-year / CfD / support mechanism** · **Defence eng-liq backlog / SFPIM Defence capital** · **Ukraine multi-year 1bn/yr** · **EU GNI / MFF 2028–2034 ~€1.985tn class** · **housing finance stocks** · **Regie rent/DBFM lock-in** · **Metro3 multi-bn stock** · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 800)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~16630 |
+| commitments.csv | ~2192 |
+| leaderboard.csv | ~3547 |
+| entities.csv | ~569 |
+| sources.csv | ~1566 |
+| FOI ready | ~527 |
+| FOI answered | ~9 |
+| FOI total rows | ~541 |
+| research_queue open | rq_116 deferred + rq_792 hole-fill after progress |
+
+### What improved since tick 790
+
+- **Klima + Asiel (tick791–792):** SKF plan **€2.21bn** (EU **€1.66bn** + cofin **€0.55bn**) · federal **13.13% = €217–218m** · cofin **~€72m** · NEH pilot **€600k** · Asiel 038 euro-opaque dual Fedasil package **€802.2m** · Dublin2/FastTrack/Masterplan FOI.
+- **Culture + IBZ (tick793–794):** 3-inst dots **€68.714m** · Monnaie TCO **€64.7m** · Bozar ops **€35.6m** · Loterij class **~€7m** · security+return provision **~€0.5bn** · Plan Grote Steden **€71.3m** · cameras **€25m** paid · material+digital **>€150m** · DSU **>€30m**.
+- **BZ + Energie + KMO (tick795–797):** BZ refi **€35m** · ODA **−25%** dual DGD **€1.118bn** / cut **−€106m** · ETF call9 **€16.97m** · call10 residual Unknown · Phoenix support opaque · VAT franchise path **€15.16m** 2026–29 · accounts fee cut **€3.571m** · SME info **€550k** · SKF micro **~€24m**.
+- **Fin + Beliris (tick798–799):** VAT demo/rebuild cruise **€250m** · heatpump **€10.1m** · CGT **€10–15k** unit · SFPIM Defence capital opaque · SRFF **+100** · Beliris metro save **€25m** · Nord suspend since **2023-03-17** · canopy **≥€13m** not ordered · cleanup **€126k**.
+- **Dual map:** SKF Klima vs KMO · Fedasil vs Asiel ops · culture 3-inst vs city culture · Plan GV vs prior police GV · ETF vs BA path · Fin taxex vs FPS inventory · Beliris save vs Metro3 multi-bn stock.
+
+---
+
 ## Snapshot at **tick 790** (2026-08-04)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

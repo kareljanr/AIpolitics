@@ -9655,3 +9655,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +6; commitments +5; leaderboard +5; sources +2; FOI **gap_beliris_metro3_save25_l5** prio9 ready; raw PDF; rq_790=done; spawn **rq_791 PROGRESS@800** + rq_792; ticks=799
 - FOI: ready only — **do not send**
 - Next: **rq_791 MANDATORY progress@800**; deferred **rq_116**
+
+## Tick 800 — 2026-08-04T21:00:00Z
+
+- Unit: **rq_791** (mandatory **progress@800** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ culture 68.7 · IBZ Plan GV 71.3 · security provision ~0.5bn class · Beliris dual Metro3 · Fin taxex 250+10.1)
+  - **D L5:** ~**59–73%** generous — gain 790→800: SKF 2.21bn · Fedasil dual · culture TCO · Plan GV/cameras · ODA −25% · ETF 16.97 · VAT franchise 15.16 · Fin demo 250 · Beliris save 25 / Nord suspend / canopy 13
+  - **E FOI ready:** ~**527** (answered ~9; total ~541)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks/loans filtered (Metro3, SAFE, illness, Phoenix, SFPIM Defence capital)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_791=done; next **rq_792**; loop_state ticks=800
+- FOI: none new this tick
+- Next: prio5 **rq_792** residual Regie029/Loterij015; deferred **rq_116**; progress@810 in 10
