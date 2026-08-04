@@ -17133,3 +17133,42 @@ bud_prov_hainaut_voies_eau_2026,province_hainaut,2026,2300000,,,budgeted,src_ccr
 bud_prov_hainaut_it_o365_2026,province_hainaut,2026,1900000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Plan strategique IT / Office 365 licences +1.9m; tick826
 bud_prov_hainaut_credits_reserve_2026,province_hainaut,2026,1296823,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Credits de reserve cavaliers 1.297m; tick826
 bud_dual_prov_hainaut_liege_namur_tick826,gg_belgium,2026,878323448,,,synthesis,src_dual_prov_hainaut_liege_namur_tick826,strong,Dual Hainaut 878m vs Liege 564m / Namur 240m ordinary; not TE-additive; tick826
+bud_prov_bw_ord_rec_ep_2026,province_brabant_wallon,2026,200776958,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Budget ordinaire EP recettes BI2026 200.777m; tick827
+bud_prov_bw_ord_dep_ep_2026,province_brabant_wallon,2026,199406787,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Budget ordinaire EP depenses BI2026 199.407m; solde +1.370m; tick827
+bud_prov_bw_ord_rec_global_2026,province_brabant_wallon,2026,202312581,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Budget ordinaire global recettes 202.313m; tick827
+bud_prov_bw_ord_dep_global_2026,province_brabant_wallon,2026,199611104,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Budget ordinaire global depenses 199.611m; solde +2.701m; tick827
+bud_prov_bw_personnel_2026,province_brabant_wallon,2026,136825347,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Depenses personnel EP 136.825m (68.6pct); tick827
+bud_prov_bw_personnel_hors_subv_2026,province_brabant_wallon,2026,80300000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Personnel hors subventions-traitements 80.3m; tick827
+bud_prov_bw_subv_traitements_2026,province_brabant_wallon,2026,56525347,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Subventions-traitements residual ~56.5m (personnel total - hors subv); tick827
+bud_prov_bw_fonctionnement_2026,province_brabant_wallon,2026,22409581,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Fonctionnement EP 22.410m; tick827
+bud_prov_bw_transferts_2026,province_brabant_wallon,2026,27272539,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Transferts EP 27.273m; tick827
+bud_prov_bw_provisions_const_2026,province_brabant_wallon,2026,1781454,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Constitution provisions Aviq 1.781m (trop percu IMP fusion); tick827
+bud_prov_bw_dette_service_2026,province_brabant_wallon,2026,11117866,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Service dette ordinaire 11.118m (amort 7.791 + interets 3.154); tick827
+bud_prov_bw_impots_taxes_2026,province_brabant_wallon,2026,103644880,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Impots et taxes 103.645m; tick827
+bud_prov_bw_pri_additionnels_2026,province_brabant_wallon,2026,102900000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Centimes additionnels PRI Region est 102.9m; tick827
+bud_prov_bw_taxes_propres_2026,province_brabant_wallon,2026,600000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Taxes provinciales propres 0.6m (affichage/banques/CET); tick827
+bud_prov_bw_fonds_provinces_2026,province_brabant_wallon,2026,13900000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Fonds des provinces 13.9m (tutelle 5 Sep 2025); tick827
+bud_prov_bw_compens_wal_2026,province_brabant_wallon,2026,600000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Compensations regionales 0.6m (PRI 0.3 + Marshall 0.3 + Natura 0.019); tick827
+bud_prov_bw_prestations_2026,province_brabant_wallon,2026,6318355,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Recettes prestations EP 6.318m; tick827
+bud_prov_bw_zs_16_1m_2026,province_brabant_wallon,2026,16100000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Zones de secours 16.1m (flat vs 2025; below GW path 17.5m); tick827
+bud_prov_bw_zs_path_gap_2026,province_brabant_wallon,2026,1400000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Ecart ZS budget vs GW trajectory 17.5-16.1=1.4m; buffer provisions 4m + FRE 3m; tick827
+bud_prov_bw_zs_path_2030,province_brabant_wallon,2030,27100000,,,commitment,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Trajectoire ZS Brabant wallon 2030 27.1m (CoA figure from 4.4m 2020); tick827
+bud_prov_bw_zs_soutien_reg_2026,province_brabant_wallon,2026,4200000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Soutien regional ZS recettes 4.2m (1.2 circ + 1.6 complement + residual); tick827
+bud_prov_bw_pension_solid_2026,province_brabant_wallon,2026,9644402,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Cotisation solidarite pensions 9.644m; tick827
+bud_prov_bw_pension_resp_2026,province_brabant_wallon,2026,2724000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Cotisation responsabilisation 2.724m; tick827
+bud_prov_bw_debt_stock_2026,province_brabant_wallon,2026,50248190,,,stock,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Encours dette 01/01/2026 50.248m (province 49.113 + subsidie 1.135); tick827
+bud_prov_bw_debt_amort_2026,province_brabant_wallon,2026,7790661,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Charges amortissements 7.791m; tick827
+bud_prov_bw_emprunt_new_2026,province_brabant_wallon,2026,8601725,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Nouvelles autorisations emprunt EP 2026 8.602m; tick827
+bud_prov_bw_emprunt_auth_ea_calc_2026,province_brabant_wallon,2026,48432046,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Autorisations EA retenues pour calcul interets 48.432m (vs EP recettes 8.6m); tick827
+bud_prov_bw_extraord_invest_2026,province_brabant_wallon,2026,13166910,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Investissements extraordinaires 13.167m; tick827
+bud_prov_bw_extraord_dep_global_2026,province_brabant_wallon,2026,16331910,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Extraordinaire global depenses 16.332m; tick827
+bud_prov_bw_bassins_orage_2026,province_brabant_wallon,2026,3100000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Bassins d orage terrains/travaux 3.1m (Beauvechain Forges 1.6m class); tick827
+bud_prov_bw_helecine_brasserie_2026,province_brabant_wallon,2026,1300000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Nouvelle brasserie Chateau d Helecine 1.3m; tick827
+bud_prov_bw_cyclable_2026,province_brabant_wallon,2026,1200000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Reseau cyclable points-noeuds 1.2m; tick827
+bud_prov_bw_ipes_wavre_2026,province_brabant_wallon,2026,800000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Renovation Quai aux Huitres IPES Wavre 0.8m (marche 12.5m total 2023); tick827
+bud_prov_bw_reserves_prov_ye2025,province_brabant_wallon,2025,53091405,,,stock,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Fonds reserves+provisions YE2025 53.091m; tick827
+bud_prov_bw_reserves_prov_ye2026,province_brabant_wallon,2026,47240104,,,stock,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Fonds reserves+provisions est YE2026 47.240m; tick827
+bud_prov_bw_provisions_ye2025,province_brabant_wallon,2025,16017904,,,stock,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Provisions stock 16.018m YE2025; tick827
+bud_prov_bw_entities_sub_2026,province_brabant_wallon,2026,10000000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,31 entites consolidees subventions total 10.0m; tick827
+bud_prov_bw_loth_info_div_2026,province_brabant_wallon,2026,200000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Dividende SC Loth-Info 0.2m; tick827
+bud_dual_prov_bw_wal_quartet_tick827,gg_belgium,2026,202312581,,,synthesis,src_dual_prov_bw_wal_quartet_tick827,strong,Dual BW 202m vs Hainaut 878 / Liege 564 / Namur 240 ordinary; not TE-additive; tick827

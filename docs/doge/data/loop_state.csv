@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T10:00:00Z,rq_817,826,no,tick826 CoA Prov Hainaut BI2026 878m personnel621 ZS78 path127 dual Liege/Namur FOI; next rq_818 residual dual L5/local/CoA (BW candidate); progress@830 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T10:30:00Z,rq_818,827,no,tick827 CoA Prov BW BI2026 202m personnel137 ZS16 debt68pct dual WAL quartet FOI; next rq_819 residual dual L5/local/CoA (Lux/VL/city); progress@830 in 3; rq_116 deferred

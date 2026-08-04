@@ -10088,3 +10088,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +4; leaderboard +6; sources +2; entity province_hainaut; FOI **gap_prov_hainaut_zs_entities_l5** prio7 ready + draft; raw PDF+txt; rq_817=done; spawn **rq_818** (BW candidate); ticks=826
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_818** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 4
+
+## Tick 827 — 2026-08-05T10:30:00Z
+
+- Unit: **rq_818** (FOI-adjacent residual dual — **CoA Province du Brabant wallon BI2026** + WAL provincial quartet dual)
+- Found (strong primary CoA 2026_11, 26p, chambre FR 25 Nov 2025):
+  - Ordinaire EP: rec **€200.8m** · dep **€199.4m** · solde **+€1.4m**
+  - Ordinaire global: rec **€202.3m** · dep **€199.6m** · solde **+€2.7m**
+  - Personnel **€136.8m** (hors subv-trait **€80.3m** · subv ~**€56.5m**) · fonctionnement **€22.4m** · transferts **€27.3m**
+  - PRI Region **€102.9m** · impôts/taxes **€103.6m** · fonds provinces **€13.9m** · compens **€0.6m**
+  - ZS: **€16.1m** (below GW path **€17.5m**) · path **€4.4m**(2020)→**€27.1m**(2030) · buffers provisions **€4m** + FRE **€3m**
+  - Pensions: solidarité **€9.6m** · responsabilisation **€2.7m**
+  - Dette service **€11.1m** · encours **€50.2m** · ratio volume **68%** (highest WAL quartet) · new loans **€8.6m** · EA auth calc **€48.4m**
+  - Extraord invest **€13.2m** (bassins orage **€3.1m** · Hélécine brasserie **€1.3m** · cyclable **€1.2m** · IPES Wavre **€0.8m**)
+  - Provisions YE2025 **€16.0m** · total reserves+prov **€53.1m** · Aviq clawback provision **€1.8m**
+  - **31** entités consolidées **€10.0m** (motivated) · **34** contrats gestion eval scheduled
+- Dual: Hainaut **€878m** / Liège **€564m** / Namur **€240m** (ticks 824-826) — not TE-additive; **WAL provincial quartet primary complete** (Luxembourg residual)
+- Wrote: budgets +39; commitments +4; leaderboard +6; sources +2; entity province_brabant_wallon; FOI **gap_prov_bw_zs_debt_aviq_l5** prio7 ready + draft; raw PDF+txt; rq_818=done; spawn **rq_819**; ticks=827
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_819** residual dual L5/local/CoA (Lux/VL/city); deferred **rq_116**; progress@830 in 3
