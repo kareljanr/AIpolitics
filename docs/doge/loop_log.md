@@ -10014,3 +10014,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50; commitments +4; leaderboard +6; sources +2; FOI **gap_we_portfolio_book_l5** prio7 ready + draft; raw PDF+txt; rq_813=done; spawn **rq_814**; ticks=822
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_814** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 8
+
+## Tick 823 — 2026-08-05T08:30:00Z
+
+- Unit: **rq_814** (FOI-adjacent residual dual — **SOFICO comptes annuels YE2025** + AWV/VL road dual)
+- Found (strong primary NBB C-cap 65p, AG 24/04/2026, gestion 27/03/2026):
+  - Assets **€3.0167bn** (2024 **€2.9499bn**) · equity **€2.3051bn** · capital-subs **€309.6m** (+**€25.9m** new)
+  - Sales **€502.8m** · op products **€507.0m** · services **€215.6m** · depreciation **€175.6m** · personnel **€6.28m**
+  - Op result **€107.4m** · net **€111.7m** (all to reserves; no dividend)
+  - CAPEX acquisitions **€265m** (terrains/const **€245.8m**) · cash **€224.6m** (RW advances **€57.3m**)
+  - Debt **€711.4m** (LT banks/BEI-class **€298.1m** · MTN **€169.5m** · ST **€232.2m**)
+  - LUWA PPP commit **€590.5m** to 2039 · annual SBD **€30.27m** 2025
+  - PRW capital grants: 80 **€4.6m** · 84 **€6.9m** · 87 **€4.2m** · 94 **€5.0m** · 133 **€0.2m** + réseau **€4.95m**
+  - Staff **51** / **49.5** ETP · PKPL/shadow receivables class **€59.5m**
+- Dual: prior AWV/VL road residual maps (not TE-additive)
+- Wrote: budgets +45; commitments +4; leaderboard +6; sources +2; FOI **gap_sofico_pkpl_pimpt_luwa_l5** prio7 ready + draft; raw PDF+txt; rq_814=done; spawn **rq_815**; ticks=823
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_815** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 7

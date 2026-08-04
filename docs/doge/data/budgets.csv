@@ -16967,3 +16967,48 @@ bud_we_disposals_cash_2025,wallonie_entreprendre,2025,208549000,,,outturn,src_we
 bud_we_roadmap_guarantees_5y,wallonie_entreprendre,2029,1250000000,,,commitment,src_we_rapport_2025,strong,Strategy 2025-2029 guarantees envelope 1.25bn class; tick822
 bud_we_roadmap_profit_5y,wallonie_entreprendre,2029,750000000,,,commitment,src_we_rapport_2025,strong,Strategy 2025-2029 cumulative profit target 750m; tick822
 bud_dual_we_pmv_sfpim_tick822,gg_belgium,2025,6383000000,,,synthesis,src_dual_we_pmv_sfpim_tick822,strong,Dual WE consol 6.383bn vs PMV 4.236bn / SFPIM 11.679bn; not TE-additive; tick822
+bud_sofico_assets_2025,sofico,2025,3016660912,,,stock,src_sofico_comptes_ye2025,strong,Total actif YE2025 3.016661bn (YE2024 2.949882bn); tick823
+bud_sofico_fixed_assets_2025,sofico,2025,2649685331,,,stock,src_sofico_comptes_ye2025,strong,Actifs immobilises YE2025 2.649685bn; tick823
+bud_sofico_tangible_2025,sofico,2025,2646649294,,,stock,src_sofico_comptes_ye2025,strong,Immobilisations corporelles 2.646649bn YE2025; tick823
+bud_sofico_terrains_const_2025,sofico,2025,2251384425,,,stock,src_sofico_comptes_ye2025,strong,Terrains et constructions net 2.251384bn YE2025; tick823
+bud_sofico_leasing_rights_2025,sofico,2025,344996996,,,stock,src_sofico_comptes_ye2025,strong,Location-financement et droits similaires 345.0m YE2025; tick823
+bud_sofico_wip_2025,sofico,2025,49646060,,,stock,src_sofico_comptes_ye2025,strong,Immobilisations en cours et acomptes 49.646m YE2025; tick823
+bud_sofico_current_assets_2025,sofico,2025,366975581,,,stock,src_sofico_comptes_ye2025,strong,Actifs circulants 366.976m YE2025; tick823
+bud_sofico_cash_2025,sofico,2025,224561353,,,stock,src_sofico_comptes_ye2025,strong,Valeurs disponibles 224.561m YE2025 (incl RW advances 57.3m); tick823
+bud_sofico_rw_advances_2025,sofico,2025,57300000,,,stock,src_sofico_comptes_ye2025,strong,Prefinancements/avances RW dans cash 57.3m YE2025; tick823
+bud_sofico_recv_st_2025,sofico,2025,139681115,,,stock,src_sofico_comptes_ye2025,strong,Creances a un an 139.681m (commercial 101.3m); tick823
+bud_sofico_recv_pkpl_shadow_2025,sofico,2025,59500000,,,stock,src_sofico_comptes_ye2025,strong,Creances RS shadow toll+PKPL class 59.5m of commercial; tick823
+bud_sofico_equity_2025,sofico,2025,2305147846,,,stock,src_sofico_comptes_ye2025,strong,Capitaux propres YE2025 2.305148bn (YE2024 2.174375bn); tick823
+bud_sofico_capital_2025,sofico,2025,1441337056,,,stock,src_sofico_comptes_ye2025,strong,Capital appele 1.441337bn (souscrit 1.450261 non-appele 8.924m); tick823
+bud_sofico_reserves_2025,sofico,2025,554180541,,,stock,src_sofico_comptes_ye2025,strong,Reserves indisponibles 554.181m YE2025; tick823
+bud_sofico_capital_subs_2025,sofico,2025,309629431,,,stock,src_sofico_comptes_ye2025,strong,Subsides en capital stock 309.629m YE2025 (290.570m YE2024); tick823
+bud_sofico_capital_subs_new_2025,sofico,2025,25900000,,,outturn,src_sofico_comptes_ye2025,strong,Nouveaux subsides en capital octroyes 25.9m 2025 (gestion); tick823
+bud_sofico_prw80_sub_2025,sofico,2025,4600000,,,outturn,src_sofico_comptes_ye2025,strong,Subside PRW 80 capital 4.6m 2025; tick823
+bud_sofico_prw84_sub_2025,sofico,2025,6916000,,,outturn,src_sofico_comptes_ye2025,strong,Subside PRW 84 capital 6.916m 2025; tick823
+bud_sofico_prw87_sub_2025,sofico,2025,4184000,,,outturn,src_sofico_comptes_ye2025,strong,Subside PRW 87 capital 4.184m 2025; tick823
+bud_sofico_prw94_sub_2025,sofico,2025,5000000,,,outturn,src_sofico_comptes_ye2025,strong,Subside PRW 94 capital 5.0m 2025; tick823
+bud_sofico_prw133_sub_2025,sofico,2025,200000,,,outturn,src_sofico_comptes_ye2025,strong,Subside PRW133 capital 0.2m 2025; tick823
+bud_sofico_reseau_struct_sub_2025,sofico,2025,4953228,,,outturn,src_sofico_comptes_ye2025,strong,Subsides reseau structurant capital 4.953m 2025; tick823
+bud_sofico_debt_total_2025,sofico,2025,711365502,,,stock,src_sofico_comptes_ye2025,strong,Dettes totales 711.366m YE2025 (775.360m YE2024); tick823
+bud_sofico_debt_lt_2025,sofico,2025,467605635,,,stock,src_sofico_comptes_ye2025,strong,Dettes a plus d un an 467.606m YE2025; tick823
+bud_sofico_eib_class_debt_2025,sofico,2025,298077035,,,stock,src_sofico_comptes_ye2025,strong,Etablissements de credit LT (BEI class) 298.077m YE2025; tick823
+bud_sofico_mtn_2025,sofico,2025,169500000,,,stock,src_sofico_comptes_ye2025,strong,Autres emprunts LT MTN obligations 169.5m YE2025; tick823
+bud_sofico_debt_st_2025,sofico,2025,232165063,,,stock,src_sofico_comptes_ye2025,strong,Dettes a un an 232.165m YE2025; tick823
+bud_sofico_suppliers_2025,sofico,2025,139328459,,,stock,src_sofico_comptes_ye2025,strong,Dettes fournisseurs 139.328m YE2025; tick823
+bud_sofico_sales_2025,sofico,2025,502753680,,,outturn,src_sofico_comptes_ye2025,strong,Chiffre d affaires YE2025 502.754m (491.032m YE2024); tick823
+bud_sofico_op_products_2025,sofico,2025,507032626,,,outturn,src_sofico_comptes_ye2025,strong,Ventes et prestations 507.033m YE2025; tick823
+bud_sofico_op_costs_2025,sofico,2025,399657285,,,outturn,src_sofico_comptes_ye2025,strong,Cout des ventes et prestations 399.657m YE2025; tick823
+bud_sofico_services_2025,sofico,2025,215588209,,,outturn,src_sofico_comptes_ye2025,strong,Services et biens divers 215.588m (entretien reseau class); tick823
+bud_sofico_personnel_2025,sofico,2025,6278980,,,outturn,src_sofico_comptes_ye2025,strong,Remunerations charges pensions 6.279m; staff 51 / 49.5 ETP; tick823
+bud_sofico_depreciation_2025,sofico,2025,175587667,,,outturn,src_sofico_comptes_ye2025,strong,Amortissements immobilisations 175.588m YE2025; tick823
+bud_sofico_op_result_2025,sofico,2025,107375341,,,outturn,src_sofico_comptes_ye2025,strong,Benefice d exploitation 107.375m YE2025 (97.642m YE2024); tick823
+bud_sofico_fin_income_2025,sofico,2025,19648676,,,outturn,src_sofico_comptes_ye2025,strong,Produits financiers 19.649m (subs capital amort 14.029m class); tick823
+bud_sofico_cap_subs_amort_2025,sofico,2025,14029440,,,outturn,src_sofico_comptes_ye2025,strong,Subsides en capital imputes P&L 14.029m YE2025; tick823
+bud_sofico_fin_charges_2025,sofico,2025,10289370,,,outturn,src_sofico_comptes_ye2025,strong,Charges financieres 10.289m (interets dettes 8.661m); tick823
+bud_sofico_tax_2025,sofico,2025,5021036,,,outturn,src_sofico_comptes_ye2025,strong,Impots 5.021m (precompte mobilier concessions class); tick823
+bud_sofico_net_2025,sofico,2025,111713611,,,outturn,src_sofico_comptes_ye2025,strong,Benefice net YE2025 111.714m (100.712m YE2024); all to reserves; tick823
+bud_sofico_capex_acq_2025,sofico,2025,265000000,,,outturn,src_sofico_comptes_ye2025,strong,Acquisitions immobilisations 265m 2025 (gestion; PIMPT+PsFO); tick823
+bud_sofico_terrains_acq_2025,sofico,2025,245773562,,,outturn,src_sofico_comptes_ye2025,strong,Acquisitions terrains/constructions 245.774m 2025; tick823
+bud_sofico_luwa_ppp_commit,sofico,2039,590460718,,,commitment,src_sofico_comptes_ye2025,strong,PPP LUWA Plan Lumiere engagement total to 14/02/2039 590.461m; tick823
+bud_sofico_luwa_annual_2025,sofico,2025,30271217,,,outturn,src_sofico_comptes_ye2025,strong,LUWA PPP SBD annual charge 30.271m 2025 (29.486m 2024); tick823
+bud_dual_sofico_awv_tick823,gg_belgium,2025,3016660912,,,synthesis,src_dual_sofico_awv_tick823,strong,Dual SOFICO 3.017bn assets vs AWV/VL road residual; not TE-additive; tick823

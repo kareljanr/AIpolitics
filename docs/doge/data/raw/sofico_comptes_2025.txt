@@ -1,38 +1,67 @@
 
----PAGE 1---
+
+===== PAGE 1 =====
 COMPTES ANNUELS ET/OU AUTRES
 DOCUMENTS À DÉPOSER EN VERTU DU
 CODE DES SOCIÉTÉS ET DES ASSOCIATIONS
 DONNÉES D'IDENTIFICATION (à la date du dépôt)
-Dénomination : SOCIETE WALLONNE DE FINANCEMENT COMPLEMENTAIRE DES INFRASTRUCTURES
-Forme juridique : Personne morale de droit public
-Adresse : Rue Canal-de-l'Ourthe N° : 9 Boîte : 3
-Code postal : 4031 Commune : Angleur
-Pays : Belgique
-Registre des personnes morales (RPM) - Tribunal de l'entreprise de Liège, division Liège
+Dénomination :
+SOCIETE WALLONNE DE FINANCEMENT COMPLEMENTAIRE DES INFRASTRUCTURES
+Forme juridique :
+Personne morale de droit public
+Adresse :
+Rue Canal-de-l'Ourthe
+N° : 9
+Boîte : 3
+Code postal :
+4031
+Commune :
+Angleur
+Pays :
+Belgique
+Registre des personnes morales (RPM) - Tribunal de l'entreprise de 
+Liège, division Liège
 Adresse Internet :
 Adresse e-mail :
-Numéro d'entreprise 0252.151.302
+Numéro d'entreprise
+0252.151.302
 Date du dépôt du document le plus récent mentionnant la date de publication des actes constitutif
-et modificatif(s) des statuts 22-08-2024
+et modificatif(s) des statuts
+22-08-2024
 Ce dépôt concerne :
-les COMPTES ANNUELS en EURO approuvés par l’assemblée générale du 24-04-2026
+les COMPTES ANNUELS en
+EURO
+approuvés par l’assemblée générale du
+24-04-2026
 les AUTRES DOCUMENTS
 relatifs à
-l'exercice couvrant la période du 01-01-2025 au 31-12-2025
-l'exercice précédent des comptes annuels du 01-01-2024 au 31-12-2024
+l'exercice couvrant la période du
+01-01-2025
+au
+31-12-2025
+l'exercice précédent des comptes annuels du
+01-01-2024
+au
+31-12-2024
 Les montants relatifs à l'exercice précédent sont identiques à ceux publiés antérieurement.
 Numéros des sections du document normalisé non déposées parce que sans objet :
 Ce document imprimé n'est pas destiné à être déposé auprès de la Banque nationale de Belgique.
-xxxx-xxxxxxxx 0252151302 2025 EUR 25.0.9 m02-f xx/xx/xxxx
-65 C-cap 1
-Page 1 of
-65 
+xxxx-xxxxxxxx
+0252151302
+2025
+EUR
+25.0.9
+m02-f
+xx/xx/xxxx
+65
+C-cap 1
+Page 1 of 65
 C-cap 6.1,  C-cap 6.2.1,  C-cap 6.2.2,  C-cap 6.2.4,  C-cap 6.2.5,  C-cap 6.3.2,  C-cap 6.3.5,  C-cap 6.4.1,  C-cap 6.4.2,  C-cap 6.5.1,
 C-cap 6.5.2,  C-cap 6.7.2,  C-cap 6.15,  C-cap 6.17,  C-cap 6.18.1,  C-cap 6.18.2,  C-cap 9,  C-cap 12,  C-cap 13,  C-cap 14,  C-cap
 15
- 
----PAGE 2---
+
+
+===== PAGE 2 =====
 LISTE DES ADMINISTRATEURS, GÉRANTS ET COMMISSAIRES
  
 LISTE COMPLÈTE des nom, prénoms, profession, domicile (adresse, numéro, code postal et commune) et fonction au sein de la société
@@ -43,62 +72,87 @@ GAIONI Christine
 Rue Monfort 126
 4430 Ans
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 CIEPERS Christophe
 Rue Tasiaux 43
 5590 Ciney
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 KINARD François
 Rue du Calvaire 19
 6791 Athus
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Président du Conseil d'Administration
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Président du Conseil d'Administration
 PIETTE François
 Rue El Vau 2
 5170 Profondeville
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 COMIJN Justine
 Rue des Ecoles 6
 4537 Verlaine
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 MAES Marie-Laure
 Rue du Pont-Neuf 46
 1357 Hélécine
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 REUL Michaël
 Rue Jacques Manne 18
 1070 Anderlecht
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 LACROIX Simon
 Rue du Centre 39
 5340 Gesves
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
 LESPLINGART Thierry
 Rue du Nord 42
 7500 Tournai
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Administrateur
-N° 0252151302 C-cap 2.1
-Page 2 of
-65 
----PAGE 3---
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Administrateur
+N°
+0252151302
+C-cap 2.1
+Page 2 of 65
+
+
+===== PAGE 3 =====
 DEFRANG-FIRKET Virginie
 Avenue de la Chevauchée 35
 4121 Neuville-en-Condroz
 BELGIQUE
-Début de mandat : 2025-09-01 Fin de mandat : 2031-08-31 Vice-président du Conseil d'Administration
+Début de mandat : 2025-09-01
+Fin de mandat : 2031-08-31
+Vice-président du Conseil d'Administration
 BDO Réviseurs d'entreprises (B00023)
 0431088289
 Rue Waucomont 51
 4651 Battice
 BELGIQUE
-Début de mandat : 2023-08-25 Fin de mandat : 2026-04-24 Commissaire
+Début de mandat : 2023-08-25
+Fin de mandat : 2026-04-24
+Commissaire
 Représenté directement ou indirectement par :
 BERNARD Jean-François (B01009)
 Réviseur d'entreprises
@@ -110,7 +164,9 @@ Cour des Comptes (0000)
 Rue de la Régence 2
 1000 Bruxelles
 BELGIQUE
-Début de mandat : 2023-04-28 Fin de mandat : 2026-04-24 Commissaire
+Début de mandat : 2023-04-28
+Fin de mandat : 2026-04-24
+Commissaire
 Représenté directement ou indirectement par :
 BOLLY Alain (0000)
 Greffier en chef
@@ -118,16 +174,23 @@ FRANCOIS Camille (0000)
 Rue du Canal de l'Ourthe 9
 4031 Angleur
 BELGIQUE
-Début de mandat : 2024-09-05 Fin de mandat : Commissaire du Gouvernement
+Début de mandat : 2024-09-05
+Fin de mandat :
+Commissaire du Gouvernement
 JACMAIN Cédric (0000)
 Rue du Canal de l'Ourthe 9
 4031 Angleur
 BELGIQUE
-Début de mandat : 2025-06-19 Fin de mandat : Commissaire du Gouvernement
-N° 0252151302 C-cap 2.1
-Page 3 of
-65 
----PAGE 4---
+Début de mandat : 2025-06-19
+Fin de mandat :
+Commissaire du Gouvernement
+N°
+0252151302
+C-cap 2.1
+Page 3 of 65
+
+
+===== PAGE 4 =====
 DÉCLARATION CONCERNANT UNE MISSION DE VÉRIFICATION OU DE REDRESSEMENT COMPLÉMENTAIRE
  
  
@@ -150,827 +213,1814 @@ auprès de l'Institut des Conseillers fiscaux et des Experts-comptables (ICE) ai
  
 (* Mention facultative.)
  
-Nom, prénoms, profession, domicile Numéro de membre Nature de la mission (A, B, C
+Nom, prénoms, profession, domicile
+Numéro de membre
+Nature de la mission (A, B, C
 et/ou D)
-N° 0252151302 C-cap 2.2
-Page 4 of
-65 
----PAGE 5---
+N°
+0252151302
+C-cap 2.2
+Page 4 of 65
+
+
+===== PAGE 5 =====
 BILAN APRÈS RÉPARTITION
 COMPTES ANNUELS
-Ann. Codes Exercice Exercice précédent
+Ann.
+Codes
+Exercice
+Exercice précédent
 ACTIF
-FRAIS D'ÉTABLISSEMENT 6.1 20
-ACTIFS IMMOBILISÉS 21/28 2.649.685.331 2.582.368.811
-Immobilisations incorporelles 6.2 21 3.007.887 1.645.136
-Immobilisations corporelles 6.3 22/27 2.646.649.294 2.580.695.675
-Terrains et constructions 22 2.251.384.425 2.150.644.733
-Installations, machines et outillage 23
-Mobilier et matériel roulant 24 621.813 407.120
-Location-financement et droits similaires 25 344.996.996 360.461.952
-Autres immobilisations corporelles 26
-Immobilisations en cours et acomptes versés 27 49.646.060 69.181.870
-Immobilisations financières 6.4/6.5.1 28 28.150 28.000
-Entreprises liées 6.15 280/1
-Participations 280
-Créances 281
-Entreprises avec lesquelles il existe un lien de participation 6.15 282/3
-Participations 282
-Créances 283
-Autres immobilisations financières 284/8 28.150 28.000
-Actions et parts 284
-Créances et cautionnements en numéraire 285/8 28.150 28.000
-N° 0252151302 C-cap 3.1
-Page 5 of
-65 
----PAGE 6---
-Ann. Codes Exercice Exercice précédent
-ACTIFS CIRCULANTS 29/58 366.975.581 367.513.624
-Créances à plus d'un an 29 13.056.297
-Créances commerciales 290 13.056.297
-Autres créances 291
-Stocks et commandes en cours d'exécution 3 2.008.621 2.118.287
-Stocks 30/36 2.008.621 2.118.287
-Approvisionnements 30/31 2.008.621 2.118.287
-En-cours de fabrication 32
-Produits finis 33
-Marchandises 34
-Immeubles destinés à la vente 35
-Acomptes versés 36
-Commandes en cours d'exécution 37
-Créances à un an au plus 40/41 139.681.115 154.423.743
-Créances commerciales 40 101.319.621 81.421.924
-Autres créances 41 38.361.494 73.001.819
-Placements de trésorerie 6.5.1/6.6 50/53
-Actions propres 50
-Autres placements 51/53
-Valeurs disponibles 54/58 224.561.353 197.014.579
-Comptes de régularisation 6.6 490/1 724.492 900.718
-TOTAL DE L'ACTIF 20/58 3.016.660.912 2.949.882.435
-N° 0252151302 C-cap 3.1
-Page 6 of
-65 
----PAGE 7---
-Ann. Codes Exercice Exercice précédent
+FRAIS D'ÉTABLISSEMENT
+6.1
+20
+ACTIFS IMMOBILISÉS
+21/28
+2.649.685.331
+2.582.368.811
+Immobilisations incorporelles
+6.2
+21
+3.007.887
+1.645.136
+Immobilisations corporelles
+6.3
+22/27
+2.646.649.294
+2.580.695.675
+Terrains et constructions
+22
+2.251.384.425
+2.150.644.733
+Installations, machines et outillage
+23
+Mobilier et matériel roulant
+24
+621.813
+407.120
+Location-financement et droits similaires
+25
+344.996.996
+360.461.952
+Autres immobilisations corporelles
+26
+Immobilisations en cours et acomptes versés
+27
+49.646.060
+69.181.870
+Immobilisations financières
+6.4/6.5.1
+28
+28.150
+28.000
+Entreprises liées
+6.15
+280/1
+Participations
+280
+Créances
+281
+Entreprises avec lesquelles il existe un lien de participation
+6.15
+282/3
+Participations
+282
+Créances
+283
+Autres immobilisations financières
+284/8
+28.150
+28.000
+Actions et parts
+284
+Créances et cautionnements en numéraire
+285/8
+28.150
+28.000
+N°
+0252151302
+C-cap 3.1
+Page 5 of 65
+
+
+===== PAGE 6 =====
+Ann.
+Codes
+Exercice
+Exercice précédent
+ACTIFS CIRCULANTS
+29/58
+366.975.581
+367.513.624
+Créances à plus d'un an
+29
+13.056.297
+Créances commerciales
+290
+13.056.297
+Autres créances
+291
+Stocks et commandes en cours d'exécution
+3
+2.008.621
+2.118.287
+Stocks
+30/36
+2.008.621
+2.118.287
+Approvisionnements
+30/31
+2.008.621
+2.118.287
+En-cours de fabrication
+32
+Produits finis
+33
+Marchandises
+34
+Immeubles destinés à la vente
+35
+Acomptes versés
+36
+Commandes en cours d'exécution
+37
+Créances à un an au plus
+40/41
+139.681.115
+154.423.743
+Créances commerciales
+40
+101.319.621
+81.421.924
+Autres créances
+41
+38.361.494
+73.001.819
+Placements de trésorerie
+6.5.1/6.6
+50/53
+Actions propres
+50
+Autres placements
+51/53
+Valeurs disponibles
+54/58
+224.561.353
+197.014.579
+Comptes de régularisation
+6.6
+490/1
+724.492
+900.718
+TOTAL DE L'ACTIF
+20/58
+3.016.660.912
+2.949.882.435
+N°
+0252151302
+C-cap 3.1
+Page 6 of 65
+
+
+===== PAGE 7 =====
+Ann.
+Codes
+Exercice
+Exercice précédent
 PASSIF
-CAPITAUX PROPRES 10/15 2.305.147.846 2.174.375.166
-Apport 6.7.1 10/11 1.441.337.874 1.441.337.874
-Capital 10 1.441.337.056 1.441.337.056
-Capital souscrit 100 1.450.261.223 1.450.261.223
-Capital non appelé 101 8.924.167 8.924.167
-En dehors du capital 11 818 818
-Primes d'émission 1100/10 818 818
-Autres 1109/19
-Plus-values de réévaluation 12
-Réserves 13 554.180.541 442.466.930
-Réserves indisponibles 130/1 554.180.541 442.466.930
-Réserve légale 130 28.575.459 22.989.778
-Réserves statutairement indisponibles 1311
-Acquisition d'actions propres 1312
-Soutien financier 1313
-Autres 1319 525.605.082 419.477.152
-Réserves immunisées 132
-Réserves disponibles 133
-Bénéfice (Perte) reporté(e) (+)/(-) 14
-Subsides en capital 15 309.629.431 290.570.362
-Avance aux associés sur la répartition de l'actif net 19
-PROVISIONS ET IMPÔTS DIFFÉRÉS 16 147.564 147.564
-Provisions pour risques et charges 160/5 147.564 147.564
-Pensions et obligations similaires 160
-Charges fiscales 161
-Grosses réparations et gros entretien 162
-Obligations environnementales 163
-Autres risques et charges 6.8 164/5 147.564 147.564
-Impôts différés 168
-N° 0252151302 C-cap 3.2
-Page 7 of
-65 
----PAGE 8---
-Ann. Codes Exercice Exercice précédent
-DETTES 17/49 711.365.502 775.359.705
-Dettes à plus d'un an 6.9 17 467.605.635 494.791.074
-Dettes financières 170/4 467.577.035 494.762.474
-Emprunts subordonnés 170
-Emprunts obligataires non subordonnés 171
-Dettes de location-financement et dettes assimilées 172
-Etablissements de crédit 173 298.077.035 325.262.474
-Autres emprunts 174 169.500.000 169.500.000
-Dettes commerciales 175
-Fournisseurs 1750
-Effets à payer 1751
-Acomptes sur commandes 176
-Autres dettes 178/9 28.600 28.600
-Dettes à un an au plus 6.9 42/48 232.165.063 270.780.310
-Dettes à plus d'un an échéant dans l'année 42 27.185.439 26.580.278
-Dettes financières 43 12.500.000
-Etablissements de crédit 430/8
-Autres emprunts 439 12.500.000
-Dettes commerciales 44 139.328.459 170.330.337
-Fournisseurs 440/4 139.328.459 170.330.337
-Effets à payer 441
-Acomptes sur commandes 46
-Dettes fiscales, salariales et sociales 6.9 45 33.951.165 29.669.695
-Impôts 450/3 32.866.877 28.696.715
-Rémunérations et charges sociales 454/9 1.084.288 972.980
-Autres dettes 47/48 31.700.000 31.700.000
-Comptes de régularisation 6.9 492/3 11.594.804 9.788.321
-TOTAL DU PASSIF 10/49 3.016.660.912 2.949.882.435
-N° 0252151302 C-cap 3.2
-Page 8 of
-65 
----PAGE 9---
+CAPITAUX PROPRES
+10/15
+2.305.147.846
+2.174.375.166
+Apport
+6.7.1
+10/11
+1.441.337.874
+1.441.337.874
+Capital
+10
+1.441.337.056
+1.441.337.056
+Capital souscrit
+100
+1.450.261.223
+1.450.261.223
+Capital non appelé
+101
+8.924.167
+8.924.167
+En dehors du capital
+11
+818
+818
+Primes d'émission
+1100/10
+818
+818
+Autres
+1109/19
+Plus-values de réévaluation
+12
+Réserves
+13
+554.180.541
+442.466.930
+Réserves indisponibles
+130/1
+554.180.541
+442.466.930
+Réserve légale
+130
+28.575.459
+22.989.778
+Réserves statutairement indisponibles
+1311
+Acquisition d'actions propres
+1312
+Soutien financier
+1313
+Autres
+1319
+525.605.082
+419.477.152
+Réserves immunisées
+132
+Réserves disponibles
+133
+Bénéfice (Perte) reporté(e)
+(+)/(-)
+14
+Subsides en capital
+15
+309.629.431
+290.570.362
+Avance aux associés sur la répartition de l'actif net
+19
+PROVISIONS ET IMPÔTS DIFFÉRÉS
+16
+147.564
+147.564
+Provisions pour risques et charges
+160/5
+147.564
+147.564
+Pensions et obligations similaires
+160
+Charges fiscales
+161
+Grosses réparations et gros entretien
+162
+Obligations environnementales
+163
+Autres risques et charges
+6.8
+164/5
+147.564
+147.564
+Impôts différés
+168
+N°
+0252151302
+C-cap 3.2
+Page 7 of 65
+
+
+===== PAGE 8 =====
+Ann.
+Codes
+Exercice
+Exercice précédent
+DETTES
+17/49
+711.365.502
+775.359.705
+Dettes à plus d'un an
+6.9
+17
+467.605.635
+494.791.074
+Dettes financières
+170/4
+467.577.035
+494.762.474
+Emprunts subordonnés
+170
+Emprunts obligataires non subordonnés
+171
+Dettes de location-financement et dettes assimilées
+172
+Etablissements de crédit
+173
+298.077.035
+325.262.474
+Autres emprunts
+174
+169.500.000
+169.500.000
+Dettes commerciales
+175
+Fournisseurs
+1750
+Effets à payer
+1751
+Acomptes sur commandes
+176
+Autres dettes
+178/9
+28.600
+28.600
+Dettes à un an au plus
+6.9
+42/48
+232.165.063
+270.780.310
+Dettes à plus d'un an échéant dans l'année
+42
+27.185.439
+26.580.278
+Dettes financières
+43
+12.500.000
+Etablissements de crédit
+430/8
+Autres emprunts
+439
+12.500.000
+Dettes commerciales
+44
+139.328.459
+170.330.337
+Fournisseurs
+440/4
+139.328.459
+170.330.337
+Effets à payer
+441
+Acomptes sur commandes
+46
+Dettes fiscales, salariales et sociales
+6.9
+45
+33.951.165
+29.669.695
+Impôts
+450/3
+32.866.877
+28.696.715
+Rémunérations et charges sociales
+454/9
+1.084.288
+972.980
+Autres dettes
+47/48
+31.700.000
+31.700.000
+Comptes de régularisation
+6.9
+492/3
+11.594.804
+9.788.321
+TOTAL DU PASSIF
+10/49
+3.016.660.912
+2.949.882.435
+N°
+0252151302
+C-cap 3.2
+Page 8 of 65
+
+
+===== PAGE 9 =====
 COMPTE DE RÉSULTATS
-Ann. Codes Exercice Exercice précédent
-Ventes et prestations 70/76A 507.032.626 495.392.234
-Chiffre d'affaires 6.10 70 502.753.680 491.032.419
+Ann.
+Codes
+Exercice
+Exercice précédent
+Ventes et prestations
+70/76A
+507.032.626
+495.392.234
+Chiffre d'affaires
+6.10
+70
+502.753.680
+491.032.419
 En-cours de fabrication, produits finis et commandes en cours
 d'exécution: augmentation (réduction)
-(+)/(-) 71
-Production immobilisée 72
-Autres produits d'exploitation 6.10 74 4.278.946 4.070.574
-Produits d'exploitation non récurrents 6.12 76A 289.241
-Coût des ventes et des prestations 60/66A 399.657.285 397.750.412
-Approvisionnements et marchandises 60 1.428.982 932.105
-Achats 600/8 1.319.316 1.154.070
-Stocks: réduction (augmentation) (+)/(-) 609 109.666 -221.965
-Services et biens divers 61 215.588.209 230.145.815
-Rémunérations, charges sociales et pensions (+)/(-) 6.10 62 6.278.980 5.578.863
+(+)/(-)
+71
+Production immobilisée
+72
+Autres produits d'exploitation
+6.10
+74
+4.278.946
+4.070.574
+Produits d'exploitation non récurrents
+6.12
+76A
+289.241
+Coût des ventes et des prestations
+60/66A
+399.657.285
+397.750.412
+Approvisionnements et marchandises
+60
+1.428.982
+932.105
+Achats
+600/8
+1.319.316
+1.154.070
+Stocks: réduction (augmentation)
+(+)/(-)
+609
+109.666
+-221.965
+Services et biens divers
+61
+215.588.209
+230.145.815
+Rémunérations, charges sociales et pensions
+(+)/(-)
+6.10
+62
+6.278.980
+5.578.863
 Amortissements et réductions de valeur sur frais
 d'établissement, sur immobilisations incorporelles et corporelles
-630 175.587.667 160.940.677
+630
+175.587.667
+160.940.677
 Réductions de valeur sur stocks, sur commandes en cours
 d'exécution et sur créances commerciales: dotations (reprises)
-(+)/(-) 6.10 631/4
+(+)/(-)
+6.10
+631/4
 Provisions pour risques et charges: dotations (utilisations et
 reprises)
-(+)/(-) 6.10 635/8
-Autres charges d'exploitation 6.10 640/8 554.587
+(+)/(-)
+6.10
+635/8
+Autres charges d'exploitation
+6.10
+640/8
+554.587
 Charges d'exploitation portées à l'actif au titre de frais de
 restructuration
-(-) 649
-Charges d'exploitation non récurrentes 6.12 66A 218.860 152.952
-Bénéfice (Perte) d'exploitation (+)/(-) 9901 107.375.341 97.641.822
-N° 0252151302 C-cap 4
-Page 9 of
-65 
----PAGE 10---
-Ann. Codes Exercice Exercice précédent
-Produits financiers 75/76B 19.648.676 17.009.553
-Produits financiers récurrents 75 19.648.676 17.009.553
-Produits des immobilisations financières 750
-Produits des actifs circulants 751 1.760.054 2.642.658
-Autres produits financiers 6.11 752/9 17.888.622 14.366.895
-Produits financiers non récurrents 6.12 76B
-Charges financières 65/66B 10.289.370 9.265.294
-Charges financières récurrentes 6.11 65 10.289.370 9.265.294
-Charges des dettes 650 8.661.313 9.200.890
+(-)
+649
+Charges d'exploitation non récurrentes
+6.12
+66A
+218.860
+152.952
+Bénéfice (Perte) d'exploitation
+(+)/(-)
+9901
+107.375.341
+97.641.822
+N°
+0252151302
+C-cap 4
+Page 9 of 65
+
+
+===== PAGE 10 =====
+Ann.
+Codes
+Exercice
+Exercice précédent
+Produits financiers
+75/76B
+19.648.676
+17.009.553
+Produits financiers récurrents
+75
+19.648.676
+17.009.553
+Produits des immobilisations financières
+750
+Produits des actifs circulants
+751
+1.760.054
+2.642.658
+Autres produits financiers
+6.11
+752/9
+17.888.622
+14.366.895
+Produits financiers non récurrents
+6.12
+76B
+Charges financières
+65/66B
+10.289.370
+9.265.294
+Charges financières récurrentes
+6.11
+65
+10.289.370
+9.265.294
+Charges des dettes
+650
+8.661.313
+9.200.890
 Réductions de valeur sur actifs circulants autres que stocks,
 commandes en cours et créances commerciales: dotations
 (reprises)
-(+)/(-) 651
-Autres charges financières 652/9 1.628.057 64.404
-Charges financières non récurrentes 6.12 66B
-Bénéfice (Perte) de l'exercice avant impôts (+)/(-) 9903 116.734.647 105.386.081
-Prélèvement sur les impôts différés 780
-Transfert aux impôts différés 680
-Impôts sur le résultat (+)/(-) 6.13 67/77 5.021.036 4.674.133
-Impôts 670/3 5.021.036 4.674.133
-Régularisation d'impôts et reprise de provisions fiscales 77
-Bénéfice (Perte) de l'exercice (+)/(-) 9904 111.713.611 100.711.948
-Prélèvement sur les réserves immunisées 789
-Transfert aux réserves immunisées 689
-Bénéfice (Perte) de l'exercice à affecter (+)/(-) 9905 111.713.611 100.711.948
-N° 0252151302 C-cap 4
-Page 10 of
-65 
----PAGE 11---
+(+)/(-)
+651
+Autres charges financières
+652/9
+1.628.057
+64.404
+Charges financières non récurrentes
+6.12
+66B
+Bénéfice (Perte) de l'exercice avant impôts
+(+)/(-)
+9903
+116.734.647
+105.386.081
+Prélèvement sur les impôts différés
+780
+Transfert aux impôts différés
+680
+Impôts sur le résultat
+(+)/(-)
+6.13
+67/77
+5.021.036
+4.674.133
+Impôts
+670/3
+5.021.036
+4.674.133
+Régularisation d'impôts et reprise de provisions fiscales
+77
+Bénéfice (Perte) de l'exercice
+(+)/(-)
+9904
+111.713.611
+100.711.948
+Prélèvement sur les réserves immunisées
+789
+Transfert aux réserves immunisées
+689
+Bénéfice (Perte) de l'exercice à affecter
+(+)/(-)
+9905
+111.713.611
+100.711.948
+N°
+0252151302
+C-cap 4
+Page 10 of 65
+
+
+===== PAGE 11 =====
 AFFECTATIONS ET PRÉLÈVEMENTS
-Codes Exercice Exercice précédent
-Bénéfice (Perte) à affecter (+)/(-) 9906 111.713.611 100.711.948
-Bénéfice (Perte) de l'exercice à affecter (+)/(-) (9905) 111.713.611 100.711.948
-Bénéfice (Perte) reporté(e) de l'exercice précédent (+)/(-) 14P
-Prélèvement sur les capitaux propres 791/2 21.903.798
-sur l'apport 791
-sur les réserves 792 21.903.798
-Affectation aux capitaux propres 691/2 111.713.611 122.615.746
-à l'apport 691
-à la réserve légale 6920 5.585.681 5.035.597
-aux autres réserves 6921 106.127.930 117.580.149
-Bénéfice (Perte) à reporter (+)/(-) (14)
-Intervention des associés dans la perte 794
-Bénéfice à distribuer 694/7
-Rémunération de l'apport 694
-Administrateurs ou gérants 695
-Travailleurs 696
-Autres allocataires 697
-N° 0252151302 C-cap 5
-Page 11 of
-65 
----PAGE 12---
+Codes
+Exercice
+Exercice précédent
+Bénéfice (Perte) à affecter
+(+)/(-)
+9906
+111.713.611
+100.711.948
+Bénéfice (Perte) de l'exercice à affecter
+(+)/(-)
+(9905)
+111.713.611
+100.711.948
+Bénéfice (Perte) reporté(e) de l'exercice précédent
+(+)/(-)
+14P
+Prélèvement sur les capitaux propres
+791/2
+21.903.798
+sur l'apport
+791
+sur les réserves
+792
+21.903.798
+Affectation aux capitaux propres
+691/2
+111.713.611
+122.615.746
+à l'apport
+691
+à la réserve légale
+6920
+5.585.681
+5.035.597
+aux autres réserves
+6921
+106.127.930
+117.580.149
+Bénéfice (Perte) à reporter
+(+)/(-)
+(14)
+Intervention des associés dans la perte
+794
+Bénéfice à distribuer
+694/7
+Rémunération de l'apport
+694
+Administrateurs ou gérants
+695
+Travailleurs
+696
+Autres allocataires
+697
+N°
+0252151302
+C-cap 5
+Page 11 of 65
+
+
+===== PAGE 12 =====
 ANNEXE
  
 ETAT DES IMMOBILISATIONS INCORPORELLES
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 CONCESSIONS, BREVETS, LICENCES, SAVOIR-FAIRE, MARQUES ET
 DROITS SIMILAIRES
-Valeur d'acquisition au terme de l'exercice 8052P XXXXXXXXXX 67.022.932
+Valeur d'acquisition au terme de l'exercice
+8052P
+XXXXXXXXXX
+67.022.932
 Mutations de l'exercice
-Acquisitions, y compris la production immobilisée 8022 2.915.955
-Cessions et désaffectations 8032
-Transferts d'une rubrique à une autre (+)/(-) 8042
-Valeur d'acquisition au terme de l'exercice 8052 69.938.887
-Amortissements et réductions de valeur au terme de l'exercice 8122P XXXXXXXXXX 65.377.796
+Acquisitions, y compris la production immobilisée
+8022
+2.915.955
+Cessions et désaffectations
+8032
+Transferts d'une rubrique à une autre
+(+)/(-)
+8042
+Valeur d'acquisition au terme de l'exercice
+8052
+69.938.887
+Amortissements et réductions de valeur au terme de l'exercice
+8122P
+XXXXXXXXXX
+65.377.796
 Mutations de l'exercice
-Actés 8072 1.553.204
-Repris 8082
-Acquis de tiers 8092
-Annulés à la suite de cessions et désaffectations 8102
-Transférés d'une rubrique à une autre (+)/(-) 8112
-Amortissements et réductions de valeur au terme de l'exercice 8122 66.931.000
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE 211 3.007.887
-N° 0252151302 C-cap 6.2.3
-Page 12 of
-65 
----PAGE 13---
+Actés
+8072
+1.553.204
+Repris
+8082
+Acquis de tiers
+8092
+Annulés à la suite de cessions et désaffectations
+8102
+Transférés d'une rubrique à une autre
+(+)/(-)
+8112
+Amortissements et réductions de valeur au terme de l'exercice
+8122
+66.931.000
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+211
+3.007.887
+N°
+0252151302
+C-cap 6.2.3
+Page 12 of 65
+
+
+===== PAGE 13 =====
 ETAT DES IMMOBILISATIONS CORPORELLES
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 TERRAINS ET CONSTRUCTIONS
-Valeur d'acquisition au terme de l'exercice 8191P XXXXXXXXXX 3.214.514.034
+Valeur d'acquisition au terme de l'exercice
+8191P
+XXXXXXXXXX
+3.214.514.034
 Mutations de l'exercice
-Acquisitions, y compris la production immobilisée 8161 245.773.562
-Cessions et désaffectations 8171
-Transferts d'une rubrique à une autre (+)/(-) 8181 13.171.208
-Valeur d'acquisition au terme de l'exercice 8191 3.473.458.804
-Plus-values au terme de l'exercice 8251P XXXXXXXXXX 595.188.847
+Acquisitions, y compris la production immobilisée
+8161
+245.773.562
+Cessions et désaffectations
+8171
+Transferts d'une rubrique à une autre
+(+)/(-)
+8181
+13.171.208
+Valeur d'acquisition au terme de l'exercice
+8191
+3.473.458.804
+Plus-values au terme de l'exercice
+8251P
+XXXXXXXXXX
+595.188.847
 Mutations de l'exercice
-Actées 8211
-Acquises de tiers 8221
-Annulées 8231
-Transférées d'une rubrique à une autre (+)/(-) 8241
-Plus-values au terme de l'exercice 8251 595.188.847
-Amortissements et réductions de valeur au terme de l'exercice 8321P XXXXXXXXXX 1.659.058.148
+Actées
+8211
+Acquises de tiers
+8221
+Annulées
+8231
+Transférées d'une rubrique à une autre
+(+)/(-)
+8241
+Plus-values au terme de l'exercice
+8251
+595.188.847
+Amortissements et réductions de valeur au terme de l'exercice
+8321P
+XXXXXXXXXX
+1.659.058.148
 Mutations de l'exercice
-Actés 8271 158.205.078
-Repris 8281
-Acquis de tiers 8291
-Annulés à la suite de cessions et désaffectations 8301
-Transférés d'une rubrique à une autre (+)/(-) 8311
-Amortissements et réductions de valeur au terme de l'exercice 8321 1.817.263.226
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE (22) 2.251.384.425
-N° 0252151302 C-cap 6.3.1
-Page 13 of
-65 
----PAGE 14---
-Codes Exercice Exercice précédent
+Actés
+8271
+158.205.078
+Repris
+8281
+Acquis de tiers
+8291
+Annulés à la suite de cessions et désaffectations
+8301
+Transférés d'une rubrique à une autre
+(+)/(-)
+8311
+Amortissements et réductions de valeur au terme de l'exercice
+8321
+1.817.263.226
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+(22)
+2.251.384.425
+N°
+0252151302
+C-cap 6.3.1
+Page 13 of 65
+
+
+===== PAGE 14 =====
+Codes
+Exercice
+Exercice précédent
 MOBILIER ET MATÉRIEL ROULANT
-Valeur d'acquisition au terme de l'exercice 8193P XXXXXXXXXX 3.635.681
+Valeur d'acquisition au terme de l'exercice
+8193P
+XXXXXXXXXX
+3.635.681
 Mutations de l'exercice
-Acquisitions, y compris la production immobilisée 8163 579.122
-Cessions et désaffectations 8173
-Transferts d'une rubrique à une autre (+)/(-) 8183
-Valeur d'acquisition au terme de l'exercice 8193 4.214.803
-Plus-values au terme de l'exercice 8253P XXXXXXXXXX
+Acquisitions, y compris la production immobilisée
+8163
+579.122
+Cessions et désaffectations
+8173
+Transferts d'une rubrique à une autre
+(+)/(-)
+8183
+Valeur d'acquisition au terme de l'exercice
+8193
+4.214.803
+Plus-values au terme de l'exercice
+8253P
+XXXXXXXXXX
 Mutations de l'exercice
-Actées 8213
-Acquises de tiers 8223
-Annulées 8233
-Transférées d'une rubrique à une autre (+)/(-) 8243
-Plus-values au terme de l'exercice 8253
-Amortissements et réductions de valeur au terme de l'exercice 8323P XXXXXXXXXX 3.228.561
+Actées
+8213
+Acquises de tiers
+8223
+Annulées
+8233
+Transférées d'une rubrique à une autre
+(+)/(-)
+8243
+Plus-values au terme de l'exercice
+8253
+Amortissements et réductions de valeur au terme de l'exercice
+8323P
+XXXXXXXXXX
+3.228.561
 Mutations de l'exercice
-Actés 8273 364.429
-Repris 8283
-Acquis de tiers 8293
-Annulés à la suite de cessions et désaffectations 8303
-Transférés d'une rubrique à une autre (+)/(-) 8313
-Amortissements et réductions de valeur au terme de l'exercice 8323 3.592.990
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE (24) 621.813
-N° 0252151302 C-cap 6.3.3
-Page 14 of
-65 
----PAGE 15---
-Codes Exercice Exercice précédent
+Actés
+8273
+364.429
+Repris
+8283
+Acquis de tiers
+8293
+Annulés à la suite de cessions et désaffectations
+8303
+Transférés d'une rubrique à une autre
+(+)/(-)
+8313
+Amortissements et réductions de valeur au terme de l'exercice
+8323
+3.592.990
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+(24)
+621.813
+N°
+0252151302
+C-cap 6.3.3
+Page 14 of 65
+
+
+===== PAGE 15 =====
+Codes
+Exercice
+Exercice précédent
 LOCATION-FINANCEMENT ET DROITS SIMILAIRES
-Valeur d'acquisition au terme de l'exercice 8194P XXXXXXXXXX 741.103.275
+Valeur d'acquisition au terme de l'exercice
+8194P
+XXXXXXXXXX
+741.103.275
 Mutations de l'exercice
-Acquisitions, y compris la production immobilisée 8164
-Cessions et désaffectations 8174
-Transferts d'une rubrique à une autre (+)/(-) 8184
-Valeur d'acquisition au terme de l'exercice 8194 741.103.275
-Plus-values au terme de l'exercice 8254P XXXXXXXXXX
+Acquisitions, y compris la production immobilisée
+8164
+Cessions et désaffectations
+8174
+Transferts d'une rubrique à une autre
+(+)/(-)
+8184
+Valeur d'acquisition au terme de l'exercice
+8194
+741.103.275
+Plus-values au terme de l'exercice
+8254P
+XXXXXXXXXX
 Mutations de l'exercice
-Actées 8214
-Acquises de tiers 8224
-Annulées 8234
-Transférées d'une rubrique à une autre (+)/(-) 8244
-Plus-values au terme de l'exercice 8254
-Amortissements et réductions de valeur au terme de l'exercice 8324P XXXXXXXXXX 380.641.323
+Actées
+8214
+Acquises de tiers
+8224
+Annulées
+8234
+Transférées d'une rubrique à une autre
+(+)/(-)
+8244
+Plus-values au terme de l'exercice
+8254
+Amortissements et réductions de valeur au terme de l'exercice
+8324P
+XXXXXXXXXX
+380.641.323
 Mutations de l'exercice
-Actés 8274 15.464.956
-Repris 8284
-Acquis de tiers 8294
-Annulés à la suite de cessions et désaffectations 8304
-Transférés d'une rubrique à une autre (+)/(-) 8314
-Amortissements et réductions de valeur au terme de l'exercice 8324 396.106.279
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE (25) 344.996.996
+Actés
+8274
+15.464.956
+Repris
+8284
+Acquis de tiers
+8294
+Annulés à la suite de cessions et désaffectations
+8304
+Transférés d'une rubrique à une autre
+(+)/(-)
+8314
+Amortissements et réductions de valeur au terme de l'exercice
+8324
+396.106.279
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+(25)
+344.996.996
 DONT
-Terrains et constructions 250
-Installations, machines et outillage 251
-Mobilier et matériel roulant 252 344.996.996
-N° 0252151302 C-cap 6.3.4
-Page 15 of
-65 
----PAGE 16---
-Codes Exercice Exercice précédent
+Terrains et constructions
+250
+Installations, machines et outillage
+251
+Mobilier et matériel roulant
+252
+344.996.996
+N°
+0252151302
+C-cap 6.3.4
+Page 15 of 65
+
+
+===== PAGE 16 =====
+Codes
+Exercice
+Exercice précédent
 IMMOBILISATIONS EN COURS ET ACOMPTES VERSÉS
-Valeur d'acquisition au terme de l'exercice 8196P XXXXXXXXXX 78.502.345
+Valeur d'acquisition au terme de l'exercice
+8196P
+XXXXXXXXXX
+78.502.345
 Mutations de l'exercice
-Acquisitions, y compris la production immobilisée 8166
-Cessions et désaffectations 8176 6.364.602
-Transferts d'une rubrique à une autre (+)/(-) 8186 -13.171.208
-Valeur d'acquisition au terme de l'exercice 8196 58.966.535
-Plus-values au terme de l'exercice 8256P XXXXXXXXXX
+Acquisitions, y compris la production immobilisée
+8166
+Cessions et désaffectations
+8176
+6.364.602
+Transferts d'une rubrique à une autre
+(+)/(-)
+8186
+-13.171.208
+Valeur d'acquisition au terme de l'exercice
+8196
+58.966.535
+Plus-values au terme de l'exercice
+8256P
+XXXXXXXXXX
 Mutations de l'exercice
-Actées 8216
-Acquises de tiers 8226
-Annulées 8236
-Transférées d'une rubrique à une autre (+)/(-) 8246
-Plus-values au terme de l'exercice 8256
-Amortissements et réductions de valeur au terme de l'exercice 8326P XXXXXXXXXX 9.320.475
+Actées
+8216
+Acquises de tiers
+8226
+Annulées
+8236
+Transférées d'une rubrique à une autre
+(+)/(-)
+8246
+Plus-values au terme de l'exercice
+8256
+Amortissements et réductions de valeur au terme de l'exercice
+8326P
+XXXXXXXXXX
+9.320.475
 Mutations de l'exercice
-Actés 8276
-Repris 8286
-Acquis de tiers 8296
-Annulés à la suite de cessions et désaffectations 8306
-Transférés d'une rubrique à une autre (+)/(-) 8316
-Amortissements et réductions de valeur au terme de l'exercice 8326 9.320.475
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE (27) 49.646.060
-N° 0252151302 C-cap 6.3.6
-Page 16 of
-65 
----PAGE 17---
+Actés
+8276
+Repris
+8286
+Acquis de tiers
+8296
+Annulés à la suite de cessions et désaffectations
+8306
+Transférés d'une rubrique à une autre
+(+)/(-)
+8316
+Amortissements et réductions de valeur au terme de l'exercice
+8326
+9.320.475
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+(27)
+49.646.060
+N°
+0252151302
+C-cap 6.3.6
+Page 16 of 65
+
+
+===== PAGE 17 =====
 ETAT DES IMMOBILISATIONS FINANCIÈRES
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 AUTRES ENTREPRISES - PARTICIPATIONS, ACTIONS ET PARTS
-Valeur d'acquisition au terme de l'exercice 8393P XXXXXXXXXX
+Valeur d'acquisition au terme de l'exercice
+8393P
+XXXXXXXXXX
 Mutations de l'exercice
-Acquisitions 8363
-Cessions et retraits 8373
-Transferts d'une rubrique à une autre (+)/(-) 8383
-Valeur d'acquisition au terme de l'exercice 8393
-Plus-values au terme de l'exercice 8453P XXXXXXXXXX
+Acquisitions
+8363
+Cessions et retraits
+8373
+Transferts d'une rubrique à une autre
+(+)/(-)
+8383
+Valeur d'acquisition au terme de l'exercice
+8393
+Plus-values au terme de l'exercice
+8453P
+XXXXXXXXXX
 Mutations de l'exercice
-Actées 8413
-Acquises de tiers 8423
-Annulées 8433
-Transférées d'une rubrique à une autre (+)/(-) 8443
-Plus-values au terme de l'exercice 8453
-Réductions de valeur au terme de l'exercice 8523P XXXXXXXXXX
+Actées
+8413
+Acquises de tiers
+8423
+Annulées
+8433
+Transférées d'une rubrique à une autre
+(+)/(-)
+8443
+Plus-values au terme de l'exercice
+8453
+Réductions de valeur au terme de l'exercice
+8523P
+XXXXXXXXXX
 Mutations de l'exercice
-Actées 8473
-Reprises 8483
-Acquises de tiers 8493
-Annulées à la suite de cessions et retraits 8503
-Transférées d'une rubrique à une autre (+)/(-) 8513
-Réductions de valeur au terme de l'exercice 8523
-Montants non appelés au terme de l'exercice 8553P XXXXXXXXXX
-Mutations de l'exercice (+)/(-) 8543
-Montants non appelés au terme de l'exercice 8553
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE (284)
+Actées
+8473
+Reprises
+8483
+Acquises de tiers
+8493
+Annulées à la suite de cessions et retraits
+8503
+Transférées d'une rubrique à une autre
+(+)/(-)
+8513
+Réductions de valeur au terme de l'exercice
+8523
+Montants non appelés au terme de l'exercice
+8553P
+XXXXXXXXXX
+Mutations de l'exercice
+(+)/(-)
+8543
+Montants non appelés au terme de l'exercice
+8553
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+(284)
 AUTRES ENTREPRISES - CRÉANCES
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE 285/8P XXXXXXXXXX 28.000
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+285/8P
+XXXXXXXXXX
+28.000
 Mutations de l'exercice
-Additions 8583 150
-Remboursements 8593
-Réductions de valeur actées 8603
-Réductions de valeur reprises 8613
-Différences de change (+)/(-) 8623
-Autres (+)/(-) 8633
-VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE (285/8) 28.150
+Additions
+8583
+150
+Remboursements
+8593
+Réductions de valeur actées
+8603
+Réductions de valeur reprises
+8613
+Différences de change
+(+)/(-)
+8623
+Autres
+(+)/(-)
+8633
+VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE
+(285/8)
+28.150
 RÉDUCTIONS DE VALEUR CUMULÉES SUR CRÉANCES AU TERME DE
 L'EXERCICE
 8653
-N° 0252151302 C-cap 6.4.3
-Page 17 of
-65 
----PAGE 18---
+N°
+0252151302
+C-cap 6.4.3
+Page 17 of 65
+
+
+===== PAGE 18 =====
 PLACEMENTS DE TRÉSORERIE ET COMPTES DE RÉGULARISATION DE L'ACTIF
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 AUTRES PLACEMENTS DE TRÉSORERIE
-Actions, parts et placements autres que placements à revenu fixe 51
-Actions et parts - Valeur comptable augmentée du montant non appelé 8681
-Actions et parts - Montant non appelé 8682
-Métaux précieux et œuvres d'art 8683
-Titres à revenu fixe 52
-Titres à revenu fixe émis par des établissements de crédit 8684
-Comptes à terme détenus auprès des établissements de crédit 53
+Actions, parts et placements autres que placements à revenu fixe
+51
+Actions et parts - Valeur comptable augmentée du montant non appelé
+8681
+Actions et parts - Montant non appelé
+8682
+Métaux précieux et œuvres d'art
+8683
+Titres à revenu fixe
+52
+Titres à revenu fixe émis par des établissements de crédit
+8684
+Comptes à terme détenus auprès des établissements de crédit
+53
 Avec une durée résiduelle ou de préavis
-d'un mois au plus 8686
-de plus d'un mois à un an au plus 8687
-de plus d'un an 8688
-Autres placements de trésorerie non repris ci-avant 8689
+d'un mois au plus
+8686
+de plus d'un mois à un an au plus
+8687
+de plus d'un an
+8688
+Autres placements de trésorerie non repris ci-avant
+8689
 Exercice
 COMPTES DE RÉGULARISATION
 Ventilation de la rubrique 490/1 de l'actif si celle-ci représente un montant important
-Charges à reporter FCT 333.118
-Produits acquis 391.374
-N° 0252151302 C-cap 6.6
-Page 18 of
-65 
----PAGE 19---
+Charges à reporter FCT
+333.118
+Produits acquis
+391.374
+N°
+0252151302
+C-cap 6.6
+Page 18 of 65
+
+
+===== PAGE 19 =====
 ETAT DU CAPITAL ET STRUCTURE DE L'ACTIONNARIAT
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 ETAT DU CAPITAL
 Capital
-Capital souscrit au terme de l'exercice 100P XXXXXXXXXX
-Capital souscrit au terme de l'exercice (100) 1.450.261.223
-Codes Montants Nombre d'actions
+Capital souscrit au terme de l'exercice
+100P
+XXXXXXXXXX
+Capital souscrit au terme de l'exercice
+(100)
+1.450.261.223
+Codes
+Montants
+Nombre d'actions
 Modifications au cours de l'exercice
 Représentation du capital
 Catégories d'actions
-Catégorie A 1.443.444.151 136.290
-Catégorie B 6.817.072 550
-Actions nominatives 8702 XXXXXXXXXX
-Actions dématérialisées 8703 XXXXXXXXXX
-Codes Montant non appelé Montant appelé, non versé
+Catégorie A
+1.443.444.151
+136.290
+Catégorie B
+6.817.072
+550
+Actions nominatives
+8702
+XXXXXXXXXX
+Actions dématérialisées
+8703
+XXXXXXXXXX
+Codes
+Montant non appelé
+Montant appelé, non versé
 Capital non libéré
-Capital non appelé (101) 8.924.167 XXXXXXXXXX
-Capital appelé, non versé 8712 XXXXXXXXXX
+Capital non appelé
+(101)
+8.924.167
+XXXXXXXXXX
+Capital appelé, non versé
+8712
+XXXXXXXXXX
 Actionnaires redevables de libération
-Codes Exercice
+Codes
+Exercice
 Actions propres
 Détenues par la société elle-même
-Montant du capital détenu 8721
-Nombre d'actions correspondantes 8722
+Montant du capital détenu
+8721
+Nombre d'actions correspondantes
+8722
 Détenues par ses filiales
-Montant du capital détenu 8731
-Nombre d'actions correspondantes 8732
+Montant du capital détenu
+8731
+Nombre d'actions correspondantes
+8732
 Engagement d'émission d'actions
 Suite à l'exercice de droits de conversion
-Montant des emprunts convertibles en cours 8740
-Montant du capital à souscrire 8741
-Nombre maximum correspondant d'actions à émettre 8742
+Montant des emprunts convertibles en cours
+8740
+Montant du capital à souscrire
+8741
+Nombre maximum correspondant d'actions à émettre
+8742
 Suite à l'exercice de droits de souscription
-Nombre de droits de souscription en circulation 8745
-Montant du capital à souscrire 8746
-Nombre maximum correspondant d'actions à émettre 8747
-Capital autorisé non souscrit 8751
-Codes Exercice
+Nombre de droits de souscription en circulation
+8745
+Montant du capital à souscrire
+8746
+Nombre maximum correspondant d'actions à émettre
+8747
+Capital autorisé non souscrit
+8751
+Codes
+Exercice
 Parts non représentatives du capital
 Répartition
-Nombre de parts 8761
-Nombre de voix qui y sont attachées 8762
+Nombre de parts
+8761
+Nombre de voix qui y sont attachées
+8762
 Ventilation par actionnaire
-Nombre de parts détenues par la société elle-même 8771
-Nombre de parts détenues par les filiales 8781
-N° 0252151302 C-cap 6.7.1
-Page 19 of
-65 
----PAGE 20---
+Nombre de parts détenues par la société elle-même
+8771
+Nombre de parts détenues par les filiales
+8781
+N°
+0252151302
+C-cap 6.7.1
+Page 19 of 65
+
+
+===== PAGE 20 =====
 Exercice
 EXPLICATION COMPLÉMENTAIRE RELATIVE À L'APPORT (Y COMPRIS L'APPORT EN INDUSTRIE)
-N° 0252151302 C-cap 6.7.1
-Page 20 of
-65 
----PAGE 21---
+N°
+0252151302
+C-cap 6.7.1
+Page 20 of 65
+
+
+===== PAGE 21 =====
 PROVISIONS POUR AUTRES RISQUES ET CHARGES
 Exercice
 VENTILATION DE LA RUBRIQUE 164/5 DU PASSIF SI CELLE-CI REPRÉSENTE UN MONTANT IMPORTANT
-Provision Sinistres RS 147.564
-N° 0252151302 C-cap 6.8
-Page 21 of
-65 
----PAGE 22---
+Provision Sinistres RS
+147.564
+N°
+0252151302
+C-cap 6.8
+Page 21 of 65
+
+
+===== PAGE 22 =====
 ETAT DES DETTES ET COMPTES DE RÉGULARISATION DU PASSIF
-Codes Exercice
+Codes
+Exercice
 VENTILATION DES DETTES À L'ORIGINE À PLUS D'UN AN, EN FONCTION DE LEUR DURÉE
 RÉSIDUELLE
 Dettes à plus d'un an échéant dans l'année
-Dettes financières 8801 27.185.439
-Emprunts subordonnés 8811
-Emprunts obligataires non subordonnés 8821
-Dettes de location-financement et dettes assimilées 8831
-Etablissements de crédit 8841 27.185.439
-Autres emprunts 8851
-Dettes commerciales 8861
-Fournisseurs 8871
-Effets à payer 8881
-Acomptes sur commandes 8891
-Autres dettes 8901
-Total des dettes à plus d'un an échéant dans l'année (42) 27.185.439
+Dettes financières
+8801
+27.185.439
+Emprunts subordonnés
+8811
+Emprunts obligataires non subordonnés
+8821
+Dettes de location-financement et dettes assimilées
+8831
+Etablissements de crédit
+8841
+27.185.439
+Autres emprunts
+8851
+Dettes commerciales
+8861
+Fournisseurs
+8871
+Effets à payer
+8881
+Acomptes sur commandes
+8891
+Autres dettes
+8901
+Total des dettes à plus d'un an échéant dans l'année
+(42)
+27.185.439
 Dettes ayant plus d'un an mais 5 ans au plus à courir
-Dettes financières 8802 154.435.459
-Emprunts subordonnés 8812
-Emprunts obligataires non subordonnés 8822
-Dettes de location-financement et dettes assimilées 8832
-Etablissements de crédit 8842 106.935.459
-Autres emprunts 8852 47.500.000
-Dettes commerciales 8862
-Fournisseurs 8872
-Effets à payer 8882
-Acomptes sur commandes 8892
-Autres dettes 8902
-Total des dettes ayant plus d'un an mais 5 ans au plus à courir 8912 154.435.459
+Dettes financières
+8802
+154.435.459
+Emprunts subordonnés
+8812
+Emprunts obligataires non subordonnés
+8822
+Dettes de location-financement et dettes assimilées
+8832
+Etablissements de crédit
+8842
+106.935.459
+Autres emprunts
+8852
+47.500.000
+Dettes commerciales
+8862
+Fournisseurs
+8872
+Effets à payer
+8882
+Acomptes sur commandes
+8892
+Autres dettes
+8902
+Total des dettes ayant plus d'un an mais 5 ans au plus à courir
+8912
+154.435.459
 Dettes ayant plus de 5 ans à courir
-Dettes financières 8803 313.141.576
-Emprunts subordonnés 8813
-Emprunts obligataires non subordonnés 8823
-Dettes de location-financement et dettes assimilées 8833
-Etablissements de crédit 8843 191.141.576
-Autres emprunts 8853 122.000.000
-Dettes commerciales 8863
-Fournisseurs 8873
-Effets à payer 8883
-Acomptes sur commandes 8893
-Autres dettes 8903 28.600
-Total des dettes ayant plus de 5 ans à courir 8913 313.170.176
-N° 0252151302 C-cap 6.9
-Page 22 of
-65 
----PAGE 23---
-Codes Exercice
+Dettes financières
+8803
+313.141.576
+Emprunts subordonnés
+8813
+Emprunts obligataires non subordonnés
+8823
+Dettes de location-financement et dettes assimilées
+8833
+Etablissements de crédit
+8843
+191.141.576
+Autres emprunts
+8853
+122.000.000
+Dettes commerciales
+8863
+Fournisseurs
+8873
+Effets à payer
+8883
+Acomptes sur commandes
+8893
+Autres dettes
+8903
+28.600
+Total des dettes ayant plus de 5 ans à courir
+8913
+313.170.176
+N°
+0252151302
+C-cap 6.9
+Page 22 of 65
+
+
+===== PAGE 23 =====
+Codes
+Exercice
 DETTES GARANTIES (COMPRISES DANS LES RUBRIQUES 17 ET 42/48 DU PASSIF)
 Dettes garanties par les pouvoirs publics belges
-Dettes financières 8921 494.762.474
-Emprunts subordonnés 8931
-Emprunts obligataires non subordonnés 8941
-Dettes de location-financement et dettes assimilées 8951
-Etablissements de crédit 8961 325.262.474
-Autres emprunts 8971 169.500.000
-Dettes commerciales 8981
-Fournisseurs 8991
-Effets à payer 9001
-Acomptes sur commandes 9011
-Dettes salariales et sociales 9021
-Autres dettes 9051
-Total des dettes garanties par les pouvoirs publics belges 9061 494.762.474
+Dettes financières
+8921
+494.762.474
+Emprunts subordonnés
+8931
+Emprunts obligataires non subordonnés
+8941
+Dettes de location-financement et dettes assimilées
+8951
+Etablissements de crédit
+8961
+325.262.474
+Autres emprunts
+8971
+169.500.000
+Dettes commerciales
+8981
+Fournisseurs
+8991
+Effets à payer
+9001
+Acomptes sur commandes
+9011
+Dettes salariales et sociales
+9021
+Autres dettes
+9051
+Total des dettes garanties par les pouvoirs publics belges
+9061
+494.762.474
 Dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs de la
 société
-Dettes financières 8922
-Emprunts subordonnés 8932
-Emprunts obligataires non subordonnés 8942
-Dettes de location-financement et dettes assimilées 8952
-Etablissements de crédit 8962
-Autres emprunts 8972
-Dettes commerciales 8982
-Fournisseurs 8992
-Effets à payer 9002
-Acomptes sur commandes 9012
-Dettes fiscales, salariales et sociales 9022
-Impôts 9032
-Rémunérations et charges sociales 9042
-Autres dettes 9052
+Dettes financières
+8922
+Emprunts subordonnés
+8932
+Emprunts obligataires non subordonnés
+8942
+Dettes de location-financement et dettes assimilées
+8952
+Etablissements de crédit
+8962
+Autres emprunts
+8972
+Dettes commerciales
+8982
+Fournisseurs
+8992
+Effets à payer
+9002
+Acomptes sur commandes
+9012
+Dettes fiscales, salariales et sociales
+9022
+Impôts
+9032
+Rémunérations et charges sociales
+9042
+Autres dettes
+9052
 Total des dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs
 de la société
 9062
-Codes Exercice
+Codes
+Exercice
 DETTES FISCALES, SALARIALES ET SOCIALES
 Impôts (rubriques 450/3 et 179 du passif)
-Dettes fiscales échues 9072
-Dettes fiscales non échues 9073 10.529.555
-Dettes fiscales estimées 450 22.337.321
+Dettes fiscales échues
+9072
+Dettes fiscales non échues
+9073
+10.529.555
+Dettes fiscales estimées
+450
+22.337.321
 Rémunérations et charges sociales (rubriques 454/9 et 179 du passif)
-Dettes échues envers l'Office National de Sécurité Sociale 9076
-Autres dettes salariales et sociales 9077 1.084.288
+Dettes échues envers l'Office National de Sécurité Sociale
+9076
+Autres dettes salariales et sociales
+9077
+1.084.288
 Exercice
 COMPTES DE RÉGULARISATION
 Ventilation de la rubrique 492/3 du passif si celle-ci représente un montant important
-Charges à imputer 3.273.980
-Produits à reporter 8.320.824
-N° 0252151302 C-cap 6.9
-Page 23 of
-65 
----PAGE 24---
+Charges à imputer
+3.273.980
+Produits à reporter
+8.320.824
+N°
+0252151302
+C-cap 6.9
+Page 23 of 65
+
+
+===== PAGE 24 =====
 RÉSULTATS D'EXPLOITATION
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 PRODUITS D'EXPLOITATION
 CHIFFRE D'AFFAIRES NET
 Ventilation par catégorie d'activité
 Ventilation par marché géographique
 Autres produits d'exploitation
-Subsides d'exploitation et montants compensatoires obtenus des pouvoirs publics 740
+Subsides d'exploitation et montants compensatoires obtenus des pouvoirs publics
+740
 CHARGES D'EXPLOITATION
 Travailleurs pour lesquels la société a introduit une déclaration DIMONA ou qui sont
 inscrits au registre général du personnel
-Nombre total à la date de clôture 9086 51 48
-Effectif moyen du personnel calculé en équivalents temps plein 9087 49,5 47,4
-Nombre d'heures effectivement prestées 9088 68.632 69.266
+Nombre total à la date de clôture
+9086
+51
+48
+Effectif moyen du personnel calculé en équivalents temps plein
+9087
+49,5
+47,4
+Nombre d'heures effectivement prestées
+9088
+68.632
+69.266
 Frais de personnel
-Rémunérations et avantages sociaux directs 620 4.016.436 3.671.247
-Cotisations patronales d'assurances sociales 621 1.103.585 983.255
-Primes patronales pour assurances extralégales 622 842.470 641.896
-Autres frais de personnel 623 316.489 282.465
-Pensions de retraite et de survie 624
-N° 0252151302 C-cap 6.10
-Page 24 of
-65 
----PAGE 25---
-Codes Exercice Exercice précédent
+Rémunérations et avantages sociaux directs
+620
+4.016.436
+3.671.247
+Cotisations patronales d'assurances sociales
+621
+1.103.585
+983.255
+Primes patronales pour assurances extralégales
+622
+842.470
+641.896
+Autres frais de personnel
+623
+316.489
+282.465
+Pensions de retraite et de survie
+624
+N°
+0252151302
+C-cap 6.10
+Page 24 of 65
+
+
+===== PAGE 25 =====
+Codes
+Exercice
+Exercice précédent
 Provisions pour pensions et obligations similaires
-Dotations (utilisations et reprises) (+)/(-) 635
+Dotations (utilisations et reprises)
+(+)/(-)
+635
 Réductions de valeur
 Sur stocks et commandes en cours
-Actées 9110
-Reprises 9111
+Actées
+9110
+Reprises
+9111
 Sur créances commerciales
-Actées 9112
-Reprises 9113
+Actées
+9112
+Reprises
+9113
 Provisions pour risques et charges
-Constitutions 9115
-Utilisations et reprises 9116
+Constitutions
+9115
+Utilisations et reprises
+9116
 Autres charges d'exploitation
-Impôts et taxes relatifs à l'exploitation 640
-Autres 641/8 554.587
+Impôts et taxes relatifs à l'exploitation
+640
+Autres
+641/8
+554.587
 Personnel intérimaire et personnes mises à la disposition de la société
-Nombre total à la date de clôture 9096 1 1
-Nombre moyen calculé en équivalents temps plein 9097 1 0,1
-Nombre d'heures effectivement prestées 9098 1.500 15
-Frais pour la société 617 101.230 593
-N° 0252151302 C-cap 6.10
-Page 25 of
-65 
----PAGE 26---
+Nombre total à la date de clôture
+9096
+1
+1
+Nombre moyen calculé en équivalents temps plein
+9097
+1
+0,1
+Nombre d'heures effectivement prestées
+9098
+1.500
+15
+Frais pour la société
+617
+101.230
+593
+N°
+0252151302
+C-cap 6.10
+Page 25 of 65
+
+
+===== PAGE 26 =====
 RÉSULTATS FINANCIERS
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 PRODUITS FINANCIERS RÉCURRENTS
 Autres produits financiers
 Subsides accordés par les pouvoirs publics et imputés au compte de résultats
-Subsides en capital 9125 14.029.440 11.853.616
-Subsides en intérêts 9126
+Subsides en capital
+9125
+14.029.440
+11.853.616
+Subsides en intérêts
+9126
 Ventilation des autres produits financiers
-Différences de change réalisées 754
+Différences de change réalisées
+754
 Autres
-Activation en créances LT intérêts E411-E25 135.286 208.279
+Activation en créances LT intérêts E411-E25
+135.286
+208.279
 CHARGES FINANCIÈRES RÉCURRENTES
-Amortissement des frais d'émission d'emprunts 6501
-Intérêts portés à l'actif 6502
+Amortissement des frais d'émission d'emprunts
+6501
+Intérêts portés à l'actif
+6502
 Réductions de valeur sur actifs circulants
-Actées 6510
-Reprises 6511
+Actées
+6510
+Reprises
+6511
 Autres charges financières
-Montant de l'escompte à charge de la société sur la négociation de créances 653
+Montant de l'escompte à charge de la société sur la négociation de créances
+653
 Provisions à caractère financier
-Dotations 6560
-Utilisations et reprises 6561
+Dotations
+6560
+Utilisations et reprises
+6561
 Ventilation des autres charges financières
-Différences de change réalisées 654
-Ecarts de conversion de devises 655
+Différences de change réalisées
+654
+Ecarts de conversion de devises
+655
 Autres
-N° 0252151302 C-cap 6.11
-Page 26 of
-65 
----PAGE 27---
+N°
+0252151302
+C-cap 6.11
+Page 26 of 65
+
+
+===== PAGE 27 =====
 PRODUITS ET CHARGES DE TAILLE OU D'INCIDENCE EXCEPTIONNELLE
-Codes Exercice Exercice précédent
-PRODUITS NON RÉCURRENTS 76 289.241
-Produits d'exploitation non récurrents (76A) 289.241
+Codes
+Exercice
+Exercice précédent
+PRODUITS NON RÉCURRENTS
+76
+289.241
+Produits d'exploitation non récurrents
+(76A)
+289.241
 Reprises d'amortissements et de réductions de valeur sur immobilisations
 incorporelles et corporelles
 760
 Reprises de provisions pour risques et charges d'exploitation non
 récurrents
 7620
-Plus-values sur réalisation d'immobilisations incorporelles et corporelles 7630
-Autres produits d'exploitation non récurrents 764/8
-Produits financiers non récurrents (76B)
-Reprises de réductions de valeur sur immobilisations financières 761
-Reprises de provisions pour risques et charges financiers non récurrents 7621
-Plus-values sur réalisation d'immobilisations financières 7631
-Autres produits financiers non récurrents 769
-CHARGES NON RÉCURRENTES 66 218.860 152.952
-Charges d'exploitation non récurrentes (66A) 218.860 152.952
+Plus-values sur réalisation d'immobilisations incorporelles et corporelles
+7630
+Autres produits d'exploitation non récurrents
+764/8
+Produits financiers non récurrents
+(76B)
+Reprises de réductions de valeur sur immobilisations financières
+761
+Reprises de provisions pour risques et charges financiers non récurrents
+7621
+Plus-values sur réalisation d'immobilisations financières
+7631
+Autres produits financiers non récurrents
+769
+CHARGES NON RÉCURRENTES
+66
+218.860
+152.952
+Charges d'exploitation non récurrentes
+(66A)
+218.860
+152.952
 Amortissements et réductions de valeur non récurrents sur frais
 d'établissement, sur immobilisations incorporelles et corporelles
 660
 Provisions pour risques et charges d'exploitation non récurrents: dotations
 (utilisations)
-(+)/(-) 6620
-Moins-values sur réalisation d'immobilisations incorporelles et corporelles 6630
-Autres charges d'exploitation non récurrentes 664/7 218.860 152.952
+(+)/(-)
+6620
+Moins-values sur réalisation d'immobilisations incorporelles et corporelles
+6630
+Autres charges d'exploitation non récurrentes
+664/7
+218.860
+152.952
 Charges d'exploitation non récurrentes portées à l'actif au titre de frais de
 restructuration
-(-) 6690
-Charges financières non récurrentes (66B)
-Réductions de valeur sur immobilisations financières 661
+(-)
+6690
+Charges financières non récurrentes
+(66B)
+Réductions de valeur sur immobilisations financières
+661
 Provisions pour risques et charges financiers non récurrents: dotations
 (utilisations)
-(+)/(-) 6621
-Moins-values sur réalisation d'immobilisations financières 6631
-Autres charges financières non récurrentes 668
+(+)/(-)
+6621
+Moins-values sur réalisation d'immobilisations financières
+6631
+Autres charges financières non récurrentes
+668
 Charges financières non récurrentes portées à l'actif au titre de frais de
 restructuration
-(-) 6691
-N° 0252151302 C-cap 6.12
-Page 27 of
-65 
----PAGE 28---
+(-)
+6691
+N°
+0252151302
+C-cap 6.12
+Page 27 of 65
+
+
+===== PAGE 28 =====
 IMPÔTS ET TAXES
-Codes Exercice
+Codes
+Exercice
 IMPÔTS SUR LE RÉSULTAT
-Impôts sur le résultat de l'exercice 9134 5.019.158
-Impôts et précomptes dus ou versés 9135 3.359.472
-Excédent de versements d'impôts ou de précomptes porté à l'actif 9136
-Suppléments d'impôts estimés 9137 1.659.686
-Impôts sur le résultat d'exercices antérieurs 9138 1.878
-Suppléments d'impôts dus ou versés 9139 1.878
-Suppléments d'impôts estimés ou provisionnés 9140
+Impôts sur le résultat de l'exercice
+9134
+5.019.158
+Impôts et précomptes dus ou versés
+9135
+3.359.472
+Excédent de versements d'impôts ou de précomptes porté à l'actif
+9136
+Suppléments d'impôts estimés
+9137
+1.659.686
+Impôts sur le résultat d'exercices antérieurs
+9138
+1.878
+Suppléments d'impôts dus ou versés
+9139
+1.878
+Suppléments d'impôts estimés ou provisionnés
+9140
 Principales sources de disparités entre le bénéfice avant impôts, exprimé dans les comptes, et le bénéfice
 taxable estimé
 Exercice
 Incidence des résultats non récurrents sur le montant des impôts sur le résultat de l'exercice
-Codes Exercice
+Codes
+Exercice
 Sources de latences fiscales
-Latences actives 9141
-Pertes fiscales cumulées, déductibles des bénéfices taxables ultérieurs 9142
+Latences actives
+9141
+Pertes fiscales cumulées, déductibles des bénéfices taxables ultérieurs
+9142
 Autres latences actives
-Latences passives 9144
+Latences passives
+9144
 Ventilation des latences passives
-Codes Exercice Exercice précédent
+Codes
+Exercice
+Exercice précédent
 TAXES SUR LA VALEUR AJOUTÉE ET IMPÔTS À CHARGE DE TIERS
 Taxes sur la valeur ajoutée, portées en compte
-A la société (déductibles) 9145 113.332.390 110.954.185
-Par la société 9146 203.308.116 196.716.618
+A la société (déductibles)
+9145
+113.332.390
+110.954.185
+Par la société
+9146
+203.308.116
+196.716.618
 Montants retenus à charge de tiers, au titre de
-Précompte professionnel 9147 1.277.412 1.155.445
-Précompte mobilier 9148
-N° 0252151302 C-cap 6.13
-Page 28 of
-65 
----PAGE 29---
+Précompte professionnel
+9147
+1.277.412
+1.155.445
+Précompte mobilier
+9148
+N°
+0252151302
+C-cap 6.13
+Page 28 of 65
+
+
+===== PAGE 29 =====
 DROITS ET ENGAGEMENTS HORS BILAN
-Codes Exercice
+Codes
+Exercice
 GARANTIES PERSONNELLES CONSTITUÉES OU IRRÉVOCABLEMENT PROMISES PAR LA SOCIÉTÉ
 POUR SÛRETÉ DE DETTES OU D'ENGAGEMENTS DE TIERS
 9149
 Dont
-Effets de commerce en circulation endossés par la société 9150
-Effets de commerce en circulation tirés ou avalisés par la société 9151
-Montant maximum à concurrence duquel d'autres engagements de tiers sont garantis par la société 9153
+Effets de commerce en circulation endossés par la société
+9150
+Effets de commerce en circulation tirés ou avalisés par la société
+9151
+Montant maximum à concurrence duquel d'autres engagements de tiers sont garantis par la société
+9153
 GARANTIES RÉELLES
 Garanties réelles constituées ou irrévocablement promises par la société sur ses actifs propres pour
 sûreté de dettes et engagements de la société
 Hypothèques
-Valeur comptable des immeubles grevés 91611
-Montant de l'inscription 91621
+Valeur comptable des immeubles grevés
+91611
+Montant de l'inscription
+91621
 Pour les mandats irrévocables d'hypothéquer, le montant pour lequel le mandataire est autorisé à prendre
 inscription en vertu du mandat
 91631
 Gages sur fonds de commerce
-Le montant maximum à concurrence duquel la dette est garantie et qui fait l'objet de l'enregistrement 91711
+Le montant maximum à concurrence duquel la dette est garantie et qui fait l'objet de l'enregistrement
+91711
 Pour les mandats irrévocables de mise en gage du fonds de commerce, le montant pour lequel le mandataire
 est autorisé à procéder à l'enregistrement en vertu du mandat
 91721
 Gages sur d'autres actifs ou mandats irrévocables de mise en gage d'autres actifs
-La valeur comptable des actifs grevés 91811
-Le montant maximum à concurrence duquel la dette est garantie 91821
+La valeur comptable des actifs grevés
+91811
+Le montant maximum à concurrence duquel la dette est garantie
+91821
 Sûretés constituées ou irrévocablement promises sur actifs futurs
-Le montant des actifs en cause 91911
-Le montant maximum à concurrence duquel la dette est garantie 91921
+Le montant des actifs en cause
+91911
+Le montant maximum à concurrence duquel la dette est garantie
+91921
 Privilège du vendeur
-La valeur comptable du bien vendu 92011
-Le montant du prix non payé 92021
-N° 0252151302 C-cap 6.14
-Page 29 of
-65 
----PAGE 30---
-Codes Exercice
+La valeur comptable du bien vendu
+92011
+Le montant du prix non payé
+92021
+N°
+0252151302
+C-cap 6.14
+Page 29 of 65
+
+
+===== PAGE 30 =====
+Codes
+Exercice
 Garanties réelles constituées ou irrévocablement promises par la société sur ses actifs propres pour
 sûreté de dettes et engagements de tiers
 Hypothèques
-Valeur comptable des immeubles grevés 91612
-Montant de l'inscription 91622
+Valeur comptable des immeubles grevés
+91612
+Montant de l'inscription
+91622
 Pour les mandats irrévocables d'hypothéquer, le montant pour lequel le mandataire est autorisé à prendre
 inscription en vertu du mandat
 91632
 Gages sur fonds de commerce
-Le montant maximum à concurrence duquel la dette est garantie et qui fait l'objet de l'enregistrement 91712
+Le montant maximum à concurrence duquel la dette est garantie et qui fait l'objet de l'enregistrement
+91712
 Pour les mandats irrévocables de mise en gage du fonds de commerce, le montant pour lequel le mandataire
 est autorisé à procéder à l'enregistrement en vertu du mandat
 91722
 Gages sur d'autres actifs ou mandats irrévocables de mise en gage d'autres actifs
-La valeur comptable des actifs grevés 91812
-Le montant maximum à concurrence duquel la dette est garantie 91822
+La valeur comptable des actifs grevés
+91812
+Le montant maximum à concurrence duquel la dette est garantie
+91822
 Sûretés constituées ou irrévocablement promises sur actifs futurs
-Le montant des actifs en cause 91912
-Le montant maximum à concurrence duquel la dette est garantie 91922
+Le montant des actifs en cause
+91912
+Le montant maximum à concurrence duquel la dette est garantie
+91922
 Privilège du vendeur
-La valeur comptable du bien vendu 92012
-Le montant du prix non payé 92022
-Codes Exercice
+La valeur comptable du bien vendu
+92012
+Le montant du prix non payé
+92022
+Codes
+Exercice
 BIENS ET VALEURS DÉTENUS PAR DES TIERS EN LEUR NOM MAIS AUX RISQUES ET PROFITS DE LA
 SOCIÉTÉ, S'ILS NE SONT PAS PORTÉS AU BILAN
 ENGAGEMENTS IMPORTANTS D'ACQUISITION D'IMMOBILISATIONS
-Encours des Engagements au 31/12/2025 280.022.174
+Encours des Engagements au 31/12/2025
+280.022.174
 ENGAGEMENTS IMPORTANTS DE CESSION D'IMMOBILISATIONS
 MARCHÉ À TERME
-Marchandises achetées (à recevoir) 9213
-Marchandises vendues (à livrer) 9214
-Devises achetées (à recevoir) 9215
-Devises vendues (à livrer) 9216
-N° 0252151302 C-cap 6.14
-Page 30 of
-65 
----PAGE 31---
+Marchandises achetées (à recevoir)
+9213
+Marchandises vendues (à livrer)
+9214
+Devises achetées (à recevoir)
+9215
+Devises vendues (à livrer)
+9216
+N°
+0252151302
+C-cap 6.14
+Page 30 of 65
+
+
+===== PAGE 31 =====
 Exercice
 ENGAGEMENTS RÉSULTANT DE GARANTIES TECHNIQUES ATTACHÉES À DES VENTES OU
 PRESTATIONS DÉJÀ EFFECTUÉES
@@ -986,17 +2036,22 @@ Une assurance-groupe ayant pour but de garantir :
 Mesures prises pour en couvrir la charge
 Une cotisation patronale mensuelle telle que déterminée par l'organisme assureur et une cotisation de l'employé mensuelle à hauteur de 1% du
 salaire brut.
-Codes Exercice
+Codes
+Exercice
 PENSIONS DONT LE SERVICE INCOMBE À LA SOCIÉTÉ ELLE-MÊME
-Montant estimé des engagements résultant de prestations déjà effectuées 9220
+Montant estimé des engagements résultant de prestations déjà effectuées
+9220
 Bases et méthodes de cette estimation
 Exercice
 NATURE ET IMPACT FINANCIER DES ÉVÈNEMENTS SIGNIFICATIFS POSTÉRIEURS À LA DATE DE
 CLÔTURE, non pris en compte dans le bilan ou le compte de résultats
-N° 0252151302 C-cap 6.14
-Page 31 of
-65 
----PAGE 32---
+N°
+0252151302
+C-cap 6.14
+Page 31 of 65
+
+
+===== PAGE 32 =====
 Exercice
 ENGAGEMENTS D'ACHAT OU DE VENTE DONT LA SOCIÉTÉ DISPOSE COMME ÉMETTEUR D'OPTIONS DE
 VENTE OU D'ACHAT
@@ -1007,49 +2062,73 @@ A condition que les risques ou les avantages découlant de ces opérations soien
 la divulgation des risques ou avantages soit nécessaire pour l'appréciation de la situation financière de la société
 Exercice
 AUTRES DROITS ET ENGAGEMENTS HORS BILAN (dont ceux non susceptibles d'être quantifiés)
-N° 0252151302 C-cap 6.14
-Page 32 of
-65 
----PAGE 33---
+N°
+0252151302
+C-cap 6.14
+Page 32 of 65
+
+
+===== PAGE 33 =====
 RELATIONS FINANCIÈRES AVEC
-Codes Exercice
+Codes
+Exercice
 LES ADMINISTRATEURS ET GÉRANTS, LES PERSONNES PHYSIQUES OU MORALES QUI CONTRÔLENT
 DIRECTEMENT OU INDIRECTEMENT LA SOCIÉTÉ SANS ÊTRE LIÉES À CELLE-CI OU LES AUTRES
 ENTREPRISES CONTRÔLÉES DIRECTEMENT OU INDIRECTEMENT PAR CES PERSONNES
-Créances sur les personnes précitées 9500
+Créances sur les personnes précitées
+9500
 Conditions principales des créances, taux d'intérêt, durée, montants éventuellement remboursés, annulés ou
 auxquels il a été renoncé
-Garanties constituées en leur faveur 9501
-Autres engagements significatifs souscrits en leur faveur 9502
+Garanties constituées en leur faveur
+9501
+Autres engagements significatifs souscrits en leur faveur
+9502
 Rémunérations directes et indirectes et pensions attribuées, à charge du compte de résultats, pour autant
 que cette mention ne porte pas à titre exclusif ou principal sur la situation d'une seule personne
 identifiable
-Aux administrateurs et gérants 9503
-Aux anciens administrateurs et anciens gérants 9504
-Codes Exercice
+Aux administrateurs et gérants
+9503
+Aux anciens administrateurs et anciens gérants
+9504
+Codes
+Exercice
 LE OU LES COMMISSAIRE(S) ET LES PERSONNES AVEC LESQUELLES IL EST LIÉ (ILS SONT LIÉS)
-Emoluments du (des) commissaire(s) 9505 40.885
+Emoluments du (des) commissaire(s)
+9505
+40.885
 Emoluments pour prestations exceptionnelles ou missions particulières accomplies au sein de la société
 par le(s) commissaire(s)
-Autres missions d'attestation 95061
-Missions de conseils fiscaux 95062
-Autres missions extérieures à la mission révisorale 95063
+Autres missions d'attestation
+95061
+Missions de conseils fiscaux
+95062
+Autres missions extérieures à la mission révisorale
+95063
 Emoluments pour prestations exceptionnelles ou missions particulières accomplies au sein de la société
 par des personnes avec lesquelles le ou les commissaire(s) est lié (sont liés)
-Autres missions d'attestation 95081
-Missions de conseils fiscaux 95082
-Autres missions extérieures à la mission révisorale 95083
+Autres missions d'attestation
+95081
+Missions de conseils fiscaux
+95082
+Autres missions extérieures à la mission révisorale
+95083
 Mentions en application de l'article 3:64, §2 et §4 du Code des sociétés et des associations
-N° 0252151302 C-cap 6.16
-Page 33 of
-65 
----PAGE 34---
+N°
+0252151302
+C-cap 6.16
+Page 33 of 65
+
+
+===== PAGE 34 =====
 RÈGLES D'ÉVALUATION
  
-N° 0252151302 C-cap 6.19
-Page 34 of
-65 
----PAGE 35---
+N°
+0252151302
+C-cap 6.19
+Page 34 of 65
+
+
+===== PAGE 35 =====
  
  
 REGLES D'EVALUATION ARRETEES PAR LE CONSEIL D'ADMINISTRATION EN SA SEANCE DU 31 MARS 2023 
@@ -1111,9 +2190,10 @@ B. Installations, machines et outillage
 Les biens acquis dans le cadre de l'exploitation, et dont la valeur individuelle est inférieure à 2.500 euros HTVA, sont intégrés 
 dans le compte de résultats, dans la rubrique " Services et biens divers ". 
  
-Page 35 of
-65 
----PAGE 36---
+Page 35 of 65
+
+
+===== PAGE 36 =====
  
  
 C. Mobilier et matériel roulant 
@@ -1175,9 +2255,10 @@ réhabilitation et de maintenance des autoroutes E411 et E25 en province de Luxe
 mesure de l'avancement des travaux. Celui-ci décroîtra de par l'apurement sur une période de 17 ans par la Région wallonne 
 de la facture émise lors de la fin des travaux. 
  
-Page 36 of
-65 
----PAGE 37---
+Page 36 of 65
+
+
+===== PAGE 37 =====
 VI. CREANCES A UN AN AU PLUS 
  
 Les créances à un an au plus sont évaluées à leur valeur nominale. 
@@ -1238,9 +2319,10 @@ droits similaires).
 Les redevances de centrales hydroélectriques reprises au niveau des subventions en capital ont été transférées en résultat à 
 concurrence du taux moyen d'amortissement des investissements relatifs aux centrales hydroélectriques (rendements 
 actualisés et droits similaires). 
-Page 37 of
-65 
----PAGE 38---
+Page 37 of 65
+
+
+===== PAGE 38 =====
 Les droits de navigation repris au niveau des subventions en capital sont transférés en résultat au même rythme que 
 l'amortissement des investissements liés au canal du Centre, soit linéairement sur une durée de 50 ans. Le premier transfert 
 opéré en 2002 répond au principe des amortissements " prorata temporis ", soit, compte tenu du fait que la mise en 
@@ -1268,9 +2350,10 @@ Afin d'assurer le correct rattachement des opérations comptables à l'exercice 
 l'exécution de chantiers, ainsi que leur contrepartie en dettes commerciales, sont comptabilisées sur la base de déclarations 
 de créances émises par les entrepreneurs et validées par un agent habilité à cet effet. 
  
-Page 38 of
-65 
----PAGE 39---
+Page 38 of 65
+
+
+===== PAGE 39 =====
 AUTRES INFORMATIONS À COMMUNIQUER DANS L'ANNEXE
  
 Subsides en Capital - Octrois 2025
@@ -1291,63 +2374,366 @@ Montant 2022 imputé en SBD : 23.150.325,59 €
 Montant 2023 imputé en SBD : 29.267.902,62 €
 Montant 2024 imputé en SBD : 29.485.543,49 €
 Montant 2025 imputé en SBD : 30.271.216,77 €
-N° 0252151302 C-cap 6.20
-Page 39 of
-65 
----PAGE 40---
+N°
+0252151302
+C-cap 6.20
+Page 39 of 65
+
+
+===== PAGE 40 =====
 RAPPORT DE GESTION
  
 AUTRES DOCUMENTS À DÉPOSER EN VERTU DU CODE DES
 SOCIÉTÉS ET DES ASSOCIATIONS
-N° 0252151302 C-cap 7
-Page 40 of
-65 
----PAGE 41---
-SOFICORUE CANAL DE LURTHE 9BTE34031 ANGLEURBE 0252.151.302
-Page 41 of
-65 
----PAGE 42---
-   
-  2    
-Angleur, le 27 mars 2026   Rapport de gestion  relatif exercice clos le 31 décembre 2025    Préambule   relatif à la création de la Société wallonne de Financement Complémentaire des Infrastructures du 10 mars 1994 (modifié pour la dernière fois le 5 mai 2022).  3.5 du Code des Sociétés et des Associations, nous avons le 31 décembre 2025.    1. EXPOSE SUR LEVOLUTION ET LE RESULTAT DES AFFAIRES AINSI QUE SUR LA SITUATION DE LA SOCIETE :     1.1.1 Immobilisations Incorporelles (Total 3.007.887 EUR) Les immobilisations incorporelles sont constituées principalement de logiciels informatiques  et à la gestion du réseau structurant.   1.1.2 Immobilisations Corporelles (Total 2.646.649.294 EUR) Au cours de la période, la société a effectué des acquisitions pour un montant total de 265 millions EUR.  Celles-ci concernent principalement les 2 plans stratégiques poursuivis par la société :  - Le Plan Infrastructures et Mobilité Pour Tous (PIMPT). Les projets sous-jacents sont principalement relatifs à (i) des dépenses  projets routiers géolocalisés sous la forme de listes de chantiers identifiés ; ainsi que (ii) de dépenses en réhabilitation des routes, tunnels et voies navigables .  - Le Plan stratégique Fibres Optiques (PsFO), dont les dépenses sont liées à son extension Wallonie.
-Page 42 of
-65 
----PAGE 43---
-   
-  3    
- 1.1.3 Actifs Circulants (Total 366.975.581 EUR) Les actifs circulants se composent des éléments suivants :  - Un stock de sel pour le déneigement élevant à 2,0 millions EUR.  - Des créances commerciales à court-terme qui -jacent. Au 31 décembre 2025, elles à 101,3 millions EUR, principalement liées aux activités Réseau Structurant (créances de shadow toll et de prélèvement kilométrique sur poids lourds) pour un montant de 59,5 millions EUR.  - Les autres créances 38,4 millions EUR et ont principalement trait à des subsides à recevoir.   - Des élevant à 224,6 millions EUR. Ce solde inclut des préfinancements (avances) pour un montant total de 57,3 millions EUR en provenance de la Région Wallonne pour des projets en cours ou encore à initier.  1.1.4 Comptes de Régularisation (Total 724.492 EUR) Les comptes de régularisation actifs sont relatifs à des charges à reporter pour un montant de 0,7 million EUR.       1.2.1 Capitaux Propres (Total 2.305.147.847 EUR) Les capitaux propres se composent :  - Du capital de la société pour un montant de 1.450,3 millions EUR dont 8,9 millions EUR non encore libérés.  - Des réserves pour un montant de 554,2 millions EUR comprenant le bénéfice de  2025, proposé pour affectation aux réserves indisponibles pour un montant de 111,7 millions EUR.  - De la valeur nette comptable des subsides en capital reçus pour un montant de 309,6 millions EUR. A cet égard, durant  2025, un montant total de 25,9 millions EUR a été octroyé à la SOFICO 1.2.2 Provision et impôt différés (Total 147.564 EUR). Cette rubrique réfère à une provision pour autres risques et charges à concurrence de 0,1 million EUR.  1.2.3  (Total 467.605.635 EUR) 
-Page 43 of
-65 
----PAGE 44---
-   
-  4    
-principalement s octroyés par la Banque pour un  298,1 millions EUR s obligataires (programme MTN) pour un montant de 169,5 millions EUR.  1.2.4 Dettes à un an au plus (Total 232.165.063 EUR) Les dettes à un an au plus sont composées de la quotité des emprunts long-terme BEI et MTN (à concurrence de 27,2 millions EUR), des dettes commerciales vis-à-vis de tiers pour un montant de 139,3 millions EUR, des dettes fiscales et salariales pour 34,0 millions EUR .  1.2.5 Comptes de Régularisation (Total 11.594.804 EUR) Les comptes de régularisation passifs sont principalement composés de produits à reporter 8,3 millions EUR).      1.3.1 Ventes et Prestations (Total 507.032.626 EUR)  de  2025  502,8 millions EUR en hausse de 11,7 millions EUR par rapport à . Cette hausse est principalement liée mentation des recettes du prélèvement kilométrique poids lourds.    concernent le recouvrement de frais auprès de tiers et 4,3 millions EUR. Ils sont comparables aux exercices précédents.   1.3.2 Coût des ventes et prestations (Total 399.657.285 EUR) Les rubriques principales concernent : - Les services et bien divers (215,6 millions EUR), principalement liés aux dépenses ddes infrastructures SOFICO, au premier rang desquelles le réseau routier structurant ; - Les amortissements et réductions de valeur sur frais d'établissement, sur immobilisations incorporelles et corporelles (hausse à 175,6 millions EUR), qui concernent principalement la dépréciation comptable des infrastructures routières, voies navigables et fibres optiques.  Le résultat  5 baisse à 107,4 millions EUR contre 97,6 .  1.3.3 Résultat financier (Total 9.359.306 EUR) Le résultat financier se compose, de produits financiers pour un montant de 19,6 millions EUR qui représente principalement comptable des subsides reçus et, , de charges financières pour un montant de 10,3 millions EUR qui sont principalement les intérêts sur les emprunts contractés par la SOFICO (dettes financières BEI et MTN).  1.3.4 Impôts sur le résultat (Total 5.021.036 EUR) 
-Page 44 of
-65 
----PAGE 45---
-   
-  5    
-La charge fiscale (pour un montant net de 5,0 millions EUR) est principalement relative au précompte mobilier dû sur les redevances perçues sur les concessions autoroutières.   Résultant de ce qui précède, le bénéfice  de la 5 111,7 millions EUR.     2. AFFECTATION DU RÉSULTAT la totalité du résultat aux réserves indisponibles conformément aux dispositions statutaires (article 16), de la manière suivante :   :  111.713.611 EUR (Bénéfice à affecter)   Affectation aux capitaux propres :  - A la réserve légale : 5.585.681 EUR - Aux autres réserves : 106.127.930 EUR   (Autres réserves indisponibles)  TOTAL AFFECTE :  111.713.611 EUR    3. ÉVÈNEMENTS IMPORTANTS SURVENUS APRÈS LA CLÔTURE DE       LEXERCICE  Néant    4. ÉVÉNEMENTS SUSCEPTIBLES DAVOIR UNE INFLUENCE NOTABLE SUR LE DÉVELOPPEMENT DE LA SOCIÉTÉ  Néant   
-Page 45 of
-65 
----PAGE 46---
-   
-  6    
-5. ACTIVITÉ EN MATIÈRE DE RECHERCHE ET DÉVELOPPEMENT  Néant   6. EXISTENCE DE SUCCURSALES  Néant   7. JUSTIFICATION DES RÈGLES COMPTABLES DE CONTINUITÉ  Néant   8. CONFLIT DINTÉRÊT  Néant   9. UTILISATION DES INSTRUMENTS FINANCIERS  Néant   10. AUGMENTATION DE CAPITAL ET ÉMISSION DOBLIGATIONS CONVERTIBLES DE DROITS DE SOUSCRIPTION  Néant.   11. RACHAT DACTIONS PROPRES  Néant. 
-Page 46 of
-65 
----PAGE 47---
+N°
+0252151302
+C-cap 7
+Page 40 of 65
+
+
+===== PAGE 41 =====
+SOFICO
+RUE CANAL DE L
+URTHE 9 BTE3
+4031 ANGLEUR
+BE 0252.151.302
+Page 41 of 65
+
+
+===== PAGE 42 =====
+ 
+  
+ 
+ 
+2 
+ 
+ 
+ 
+Angleur, le 27 mars 2026 
+ 
+ 
+Rapport de gestion  
+relatif 
+exercice clos le 31 décembre 2025 
+ 
+  
+Préambule 
+ 
+ relatif à la création de la Société wallonne de Financement 
+Complémentaire des Infrastructures du 10 mars 1994 (modifié pour la dernière fois le 5 
+mai 2022). 
+ 3.5 du Code des Sociétés et des Associations, nous avons 
+le 31 décembre 2025. 
+ 
+ 
+ 
+1. 
+EXPOSE SUR L EVOLUTION ET LE RESULTAT DES 
+AFFAIRES AINSI QUE SUR LA SITUATION DE LA SOCIETE :  
+ 
+ 
+ 
+1.1.1 Immobilisations Incorporelles (Total 3.007.887 EUR) 
+Les immobilisations incorporelles sont constituées principalement de logiciels informatiques 
+ et à la gestion du réseau structurant.  
+ 
+1.1.2 Immobilisations Corporelles (Total 2.646.649.294 EUR) 
+Au cours de la période, la société a effectué des acquisitions pour un montant total de 265 
+millions EUR. 
+ 
+Celles-ci concernent principalement les 2 plans stratégiques poursuivis par la société : 
+ 
+- 
+Le Plan Infrastructures et Mobilité Pour Tous (PIMPT). Les projets sous-jacents sont 
+principalement relatifs à (i) des dépenses 
+ projets routiers 
+géolocalisés sous la forme de listes de chantiers identifiés ; ainsi que (ii) de dépenses 
+en réhabilitation des routes
+, tunnels et voies 
+navigables 
+. 
+ 
+- 
+Le Plan stratégique Fibres Optiques (PsFO), dont les dépenses 
+sont 
+liées à son extension 
+Wallonie.
+Page 42 of 65
+
+
+===== PAGE 43 =====
+ 
+  
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+1.1.3 Actifs Circulants (Total 366.975.581 EUR) 
+Les actifs circulants se composent des éléments suivants : 
+ 
+- 
+Un stock de sel pour le déneigement élevant à 2,0 millions EUR. 
+ 
+- 
+Des créances commerciales à court-terme qui 
+-jacent. Au 31 décembre 2025, elles 
+à 101,3 millions EUR, principalement liées aux activités Réseau Structurant (créances 
+de shadow toll et de prélèvement kilométrique sur poids lourds) pour un montant de 
+59,5 millions EUR. 
+ 
+- 
+Les autres créances 
+38,4 millions EUR et ont principalement trait à des 
+subsides à recevoir.  
+ 
+- 
+Des 
+élevant à 224,6 millions EUR. Ce solde inclut des 
+préfinancements (avances) pour un montant total de 57,3 millions EUR en 
+provenance de la Région Wallonne pour des projets en cours ou encore à initier. 
+ 
+1.1.4 Comptes de Régularisation (Total 724.492 EUR) 
+Les comptes de régularisation actifs sont relatifs à des charges à reporter pour un montant de 
+0,7 million EUR. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2.1 Capitaux Propres (Total 2.305.147.847 EUR) 
+Les capitaux propres se composent : 
+ 
+- 
+Du capital de la société pour un montant de 1.450,3 millions EUR dont 8,9 millions EUR 
+non encore libérés. 
+ 
+- 
+Des réserves pour un montant de 554,2 millions EUR comprenant le bénéfice de 
+ 2025, proposé pour affectation aux réserves indisponibles pour un montant 
+de 111,7 millions EUR.  
+- 
+De la valeur nette comptable des subsides en capital reçus pour un montant de 309,6 
+millions EUR. A cet égard, durant 
+ 2025, un montant total de 25,9 millions 
+EUR a été octroyé à la SOFICO
+ 
+1.2.2 Provision et impôt différés (Total 147.564 EUR). 
+Cette rubrique réfère à une provision pour autres risques et charges à concurrence de 0,1 
+million EUR. 
+ 
+1.2.3 
+ (Total 467.605.635 EUR) 
+Page 43 of 65
+
+
+===== PAGE 44 =====
+ 
+  
+ 
+ 
+4 
+ 
+ 
+ 
+principalement 
+s octroyés par la Banque 
+pour un 
+ 298,1 millions EUR 
+s obligataires (programme MTN) pour un montant de 169,5 millions EUR. 
+ 
+1.2.4 Dettes à un an au plus (Total 232.165.063 EUR) 
+Les dettes à un an au plus sont composées de la quotité des emprunts long-terme BEI et MTN 
+(à concurrence de 27,2 millions EUR), des dettes commerciales vis-à-vis 
+de tiers pour un montant de 139,3 millions EUR, des dettes fiscales et salariales pour 34,0 
+millions EUR 
+. 
+ 
+1.2.5 Comptes de Régularisation (Total 11.594.804 EUR) 
+Les comptes de régularisation passifs sont principalement composés de produits à reporter 
+8,3 millions EUR).  
+ 
+ 
+ 
+ 
+1.3.1 Ventes et Prestations (Total 507.032.626 EUR) 
+ de 
+ 2025 
+ 502,8 millions EUR en hausse de 11,7 millions 
+EUR par rapport à 
+. Cette hausse est principalement liée 
+mentation 
+des recettes du prélèvement kilométrique poids lourds. 
+  
+ concernent le recouvrement de frais auprès de tiers et 
+4,3 millions EUR. Ils sont comparables aux exercices précédents.  
+ 
+1.3.2 Coût des ventes et prestations (Total 399.657.285 EUR) 
+Les rubriques principales concernent : 
+- 
+Les services et bien divers (215,6 millions EUR), principalement liés aux dépenses 
+d
+des infrastructures SOFICO, au premier rang desquelles le réseau routier 
+structurant ; 
+- 
+Les amortissements et réductions de valeur sur frais d'établissement, sur 
+immobilisations incorporelles et corporelles (
+hausse à 175,6 millions 
+EUR), qui concernent principalement la dépréciation comptable des infrastructures 
+routières, voies navigables et fibres optiques. 
+ 
+Le résultat 
+ 
+5 
+baisse à 107,4 millions EUR contre 97,6 
+. 
+ 
+1.3.3 Résultat financier (Total 9.359.306 EUR) 
+Le résultat financier se compose, 
+de produits financiers pour un montant de 19,6 
+millions EUR qui représente principalement 
+comptable des subsides reçus et, 
+, de charges financières pour un montant de 10,3 millions EUR qui sont 
+principalement les 
+intérêts sur les emprunts contractés par la SOFICO (dettes 
+financières BEI et MTN). 
+ 
+1.3.4 Impôts sur le résultat (Total 5.021.036 EUR) 
+Page 44 of 65
+
+
+===== PAGE 45 =====
+ 
+  
+ 
+ 
+5 
+ 
+ 
+ 
+La charge fiscale 
+(pour un montant net de 5,0 millions EUR) est principalement 
+relative au précompte mobilier dû sur les redevances perçues sur les concessions 
+autoroutières.  
+ 
+Résultant de ce qui précède, le bénéfice 
+ de la 
+5 
+111,7 millions EUR.  
+ 
+ 
+ 
+2. AFFECTATION DU RÉSULTAT 
+la totalité du résultat aux réserves indisponibles 
+conformément aux dispositions statutaires (article 16), de la manière suivante : 
+ 
+ :  
+111.713.611 EUR (Bénéfice à affecter) 
+ 
+ 
+Affectation aux capitaux propres :  
+- A la réserve légale : 
+5.585.681 EUR 
+- Aux autres réserves : 
+106.127.930 EUR  
+ 
+(Autres réserves indisponibles) 
+ 
+TOTAL AFFECTE :  
+111.713.611 EUR 
+ 
+ 
+ 
+3. 
+ÉVÈNEMENTS IMPORTANTS SURVENUS APRÈS LA 
+CLÔTURE DE       L EXERCICE 
+ 
+Néant 
+ 
+ 
+ 
+4. ÉVÉNEMENTS SUSCEPTIBLES D AVOIR UNE INFLUENCE 
+NOTABLE SUR LE DÉVELOPPEMENT DE LA SOCIÉTÉ 
+ 
+Néant 
+ 
+ 
+Page 45 of 65
+
+
+===== PAGE 46 =====
+ 
+  
+ 
+ 
+6 
+ 
+ 
+ 
+5. ACTIVITÉ EN MATIÈRE DE RECHERCHE ET 
+DÉVELOPPEMENT 
+ 
+Néant 
+ 
+ 
+6. EXISTENCE DE SUCCURSALES 
+ 
+Néant 
+ 
+ 
+7. JUSTIFICATION DES RÈGLES COMPTABLES DE 
+CONTINUITÉ 
+ 
+Néant 
+ 
+ 
+8. CONFLIT D INTÉRÊT 
+ 
+Néant 
+ 
+ 
+9. UTILISATION DES INSTRUMENTS FINANCIERS 
+ 
+Néant 
+ 
+ 
+10. AUGMENTATION DE CAPITAL ET ÉMISSION 
+D OBLIGATIONS CONVERTIBLES DE DROITS DE 
+SOUSCRIPTION 
+ 
+Néant. 
+ 
+ 
+11. RACHAT D ACTIONS PROPRES 
+ 
+Néant. 
+Page 46 of 65
+
+
+===== PAGE 47 =====
 7
-12. RISQUES ET INCERTITUDESNéant.François KinardVirginie Defrang-FirketVice-présidente du C
-Page 47 of
-65 
----PAGE 48---
+12. RISQUES ET INCERTITUDES
+Néant.
+François Kinard
+Virginie Defrang-Firket
+Vice-présidente du 
+C
+Page 47 of 65
+
+
+===== PAGE 48 =====
 RAPPORT DES COMMISSAIRES
  
-N° 0252151302 C-cap 8
-Page 48 of
-65 
----PAGE 49---
+N°
+0252151302
+C-cap 8
+Page 48 of 65
+
+
+===== PAGE 49 =====
 BDO Bedrijfsrevisoren / BDO Réviseurs d'Entreprises BV/SRL, a company under Belgian law in the form of a private limited liability company, is a member of 
 BDO International Limited, a UK company limited by guarantee, and forms part of the international BDO network of independent member firms. BDO is the 
 brand name for the BDO network and for each of the BDO Member Firms. 
@@ -1390,9 +2776,10 @@ INFRASTRUCTURES « SOFICO »
  
  
  
-Page 49 of
-65 
----PAGE 50---
+Page 49 of 65
+
+
+===== PAGE 50 =====
 BDO Bedrijfsrevisoren / BDO Réviseurs d'Entreprises BV/SRL, a company under Belgian law in the form of a private limited liability company, is a member of 
 BDO International Limited, a UK company limited by guarantee, and forms part of the international BDO network of independent member firms. BDO is the 
 brand name for the BDO network and for each of the BDO Member Firms. 
@@ -1426,9 +2813,9 @@ choisi parmi les membres de l’Institut des réviseurs d’entreprises (IRE). B
 d’Entreprises SRL a été nommé en tant que commissaire par l’assemblée générale du 25 août 
 2023 conformément à la proposition du conseil d’administration. Le mandat de commissaire 
 de BDO Réviseurs d’Entreprises vient à échéance à la date de l’assemblée générale délibérant 
-sur les comptes annuels clôturés au 31 décembre 2025. Le second membre du collège de s 
+sur les comptes annuels clôturés au 31 décembre 2025. Le second membre du collège des 
 commissaires aux comptes, a été désigné par la chambre française de la Cour des comptes le 
-23 août 2023 et nommé par l’assemblée générale de la SOFICO le 25 août 2023.  Le collège des 
+23 août 2023 et nommé par l’assemblée générale de la SOFICO le 25 août 2023. Le collège des 
 commissaires précité a exercé le contrôle légal des comptes annuels de la société pour la 
 troisième année. 
  
@@ -1474,12 +2861,14 @@ d’administration et des préposés de la
 société, les explications et informations 
 requises pour notre audit. 
  
-Page 50 of
-65 
----PAGE 51---
+Page 50 of 65
+
+
+===== PAGE 51 =====
  
 SOCIÉTÉ WALLONNE DE FINANCEMENT COMPLÉMENTAIRE DES INFRASTRUCTURES – « SOFICO » 
-Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  2. 
+Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  
+2. 
  
 Nous estimons que les éléments probants 
 que nous avons recueillis sont suffisants et 
@@ -1581,12 +2970,14 @@ falsification, les omissions volontaires,
 les fausses déclarations ou le 
 contournement du contrôle interne ; 
  
-Page 51 of
-65 
----PAGE 52---
+Page 51 of 65
+
+
+===== PAGE 52 =====
  
 SOCIÉTÉ WALLONNE DE FINANCEMENT COMPLÉMENTAIRE DES INFRASTRUCTURES – « SOFICO » 
-Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  3. 
+Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  
+3. 
  
 • nous prenons connaissance du contrôle 
 interne pertinent pour l’audit afin de 
@@ -1677,13 +3068,16 @@ respect du Code des sociétés et des
 associations et des statuts de la société. 
  
  
-  
-Page 52 of
-65 
----PAGE 53---
+ 
+ 
+Page 52 of 65
+
+
+===== PAGE 53 =====
  
 SOCIÉTÉ WALLONNE DE FINANCEMENT COMPLÉMENTAIRE DES INFRASTRUCTURES – « SOFICO » 
-Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  4. 
+Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  
+4. 
  
 Responsabilités du collège des 
 commissaires 
@@ -1771,13 +3165,16 @@ dispositions légales et statutaires.
 d’opération conclue ou de décision prise 
 en violation des statuts ou du Code des 
 sociétés et des associations. 
-  
-Page 53 of
-65 
----PAGE 54---
+ 
+ 
+Page 53 of 65
+
+
+===== PAGE 54 =====
  
 SOCIÉTÉ WALLONNE DE FINANCEMENT COMPLÉMENTAIRE DES INFRASTRUCTURES – « SOFICO » 
-Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  5. 
+Rapport du collège des commissaires à l'assemblée générale pour l'exercice clos le 31/12/2025  
+5. 
  
 • En application de l’article 14 des 
 statuts, le collège des commissaires aux 
@@ -1825,9 +3222,10 @@ Bernard
 2026.04.10 
 11:27:49
 +02'00'
-Page 54 of
-65 
----PAGE 55---
+Page 54 of 65
+
+
+===== PAGE 55 =====
 BILAN SOCIAL
  
 ETAT DES PERSONNES OCCUPÉES
@@ -1836,135 +3234,350 @@ TRAVAILLEURS POUR LESQUELS LA SOCIÉTÉ A INTRODUIT UNE DÉCLARATION DIMONA OU Q
 GÉNÉRAL DU PERSONNEL
  
 Numéros des commissions paritaires dont dépend la société:
-Au cours de l'exercice Codes Total 1. Hommes 2. Femmes
+Au cours de l'exercice
+Codes
+Total
+1. Hommes
+2. Femmes
 Nombre moyen de travailleurs
-Temps plein 1001 45,9 26,6 19,3
-Temps partiel 1002 4,3 1 3,3
-Total en équivalents temps plein (ETP) 1003 49,5 27,4 22,1
+Temps plein
+1001
+45,9
+26,6
+19,3
+Temps partiel
+1002
+4,3
+1
+3,3
+Total en équivalents temps plein (ETP)
+1003
+49,5
+27,4
+22,1
 Nombre d'heures effectivement prestées
-Temps plein 1011 63.559 38.965 24.594
-Temps partiel 1012 5.073 931 4.142
-Total 1013 68.632 39.896 28.736
+Temps plein
+1011
+63.559
+38.965
+24.594
+Temps partiel
+1012
+5.073
+931
+4.142
+Total
+1013
+68.632
+39.896
+28.736
 Frais de personnel
-Temps plein 1021 5.822.327 3.374.159 2.448.168
-Temps partiel 1022 456.653 126.848 329.805
-Total 1023 6.278.980 3.501.007 2.777.973
-Montant des avantages accordés en sus du salaire 1033 63.460 35.954 27.506
-Au cours de l'exercice précédent Codes P. Total 1P. Hommes 2P. Femmes
-Nombre moyen de travailleurs en ETP 1003 46,4 26,7 19,7
-Nombre d'heures effectivement prestées 1013 60.436 37.780 22.656
-Frais de personnel 1023 5.215.546 3.260.364 1.955.182
-Montant des avantages accordés en sus du salaire 1033 63.443 38.802 24.641
-N° 0252151302 C-cap 10
-Page 55 of
-65 
----PAGE 56---
+Temps plein
+1021
+5.822.327
+3.374.159
+2.448.168
+Temps partiel
+1022
+456.653
+126.848
+329.805
+Total
+1023
+6.278.980
+3.501.007
+2.777.973
+Montant des avantages accordés en sus du salaire
+1033
+63.460
+35.954
+27.506
+Au cours de l'exercice précédent
+Codes
+P. Total
+1P. Hommes
+2P. Femmes
+Nombre moyen de travailleurs en ETP
+1003
+46,4
+26,7
+19,7
+Nombre d'heures effectivement prestées
+1013
+60.436
+37.780
+22.656
+Frais de personnel
+1023
+5.215.546
+3.260.364
+1.955.182
+Montant des avantages accordés en sus du salaire
+1033
+63.443
+38.802
+24.641
+N°
+0252151302
+C-cap 10
+Page 55 of 65
+
+
+===== PAGE 56 =====
 TRAVAILLEURS POUR LESQUELS LA SOCIÉTÉ A INTRODUIT UNE DÉCLARATION DIMONA OU QUI SONT INSCRITS AU REGISTRE
 GÉNÉRAL DU PERSONNEL (suite)
  
 PERSONNEL INTÉRIMAIRE ET PERSONNES MISES À LA DISPOSITION DE LA SOCIÉTÉ
  
-A la date de clôture de l'exercice Codes 1. Temps plein 2. Temps partiel 3. Total en équivalents
+A la date de clôture de l'exercice
+Codes
+1. Temps plein
+2. Temps partiel
+3. Total en équivalents
 temps plein
-Nombre de travailleurs 105 46 5 50,2
+Nombre de travailleurs
+105
+46
+5
+50,2
 Par type de contrat de travail
-Contrat à durée indéterminée 110 45 5 49,2
-Contrat à durée déterminée 111 1 1
-Contrat pour l'exécution d'un travail nettement défini 112 
-Contrat de remplacement 113 
+Contrat à durée indéterminée
+110
+45
+5
+49,2
+Contrat à durée déterminée
+111
+1
+1
+Contrat pour l'exécution d'un travail nettement défini
+112
+Contrat de remplacement
+113
 Par sexe et niveau d'études
-Hommes 120 27 1 27,8
-de niveau primaire 1200 
-de niveau secondaire 1201 6 1 6,8
-de niveau supérieur non universitaire 1202 5 5
-de niveau universitaire 1203 16 16
-Femmes 121 19 4 22,4
-de niveau primaire 1210 
-de niveau secondaire 1211 5 5
-de niveau supérieur non universitaire 1212 10 1 10,9
-de niveau universitaire 1213 4 3 6,5
+Hommes
+120
+27
+1
+27,8
+de niveau primaire
+1200
+de niveau secondaire
+1201
+6
+1
+6,8
+de niveau supérieur non universitaire
+1202
+5
+5
+de niveau universitaire
+1203
+16
+16
+Femmes
+121
+19
+4
+22,4
+de niveau primaire
+1210
+de niveau secondaire
+1211
+5
+5
+de niveau supérieur non universitaire
+1212
+10
+1
+10,9
+de niveau universitaire
+1213
+4
+3
+6,5
 Par catégorie professionnelle
-Personnel de direction 130 
-Employés 134 46 5 50,2
-Ouvriers 132 
-Autres 133 
-Au cours de l'exercice Codes 1. Personnel intérimaire 2. Personnes mises à la
+Personnel de direction
+130
+Employés
+134
+46
+5
+50,2
+Ouvriers
+132
+Autres
+133
+Au cours de l'exercice
+Codes
+1. Personnel intérimaire
+2. Personnes mises à la
 disposition de la société
-Nombre moyen de personnes occupées 150 1 
-Nombre d'heures effectivement prestées 151 1.500 
-Frais pour la société 152 101.230 
-N° 0252151302 C-cap 10
-Page 56 of
-65 
----PAGE 57---
+Nombre moyen de personnes occupées
+150
+1
+Nombre d'heures effectivement prestées
+151
+1.500
+Frais pour la société
+152
+101.230
+N°
+0252151302
+C-cap 10
+Page 56 of 65
+
+
+===== PAGE 57 =====
 TABLEAU DES MOUVEMENTS DU PERSONNEL AU COURS DE L'EXERCICE
  
-ENTRÉES Codes 1. Temps plein 2. Temps partiel 3. Total en équivalents
+ENTRÉES
+Codes
+1. Temps plein
+2. Temps partiel
+3. Total en équivalents
 temps plein
 Nombre de travailleurs pour lesquels la société a
 introduit une déclaration DIMONA ou qui ont été inscrits
-au registre général du personnel au cours de l'exercice 205 6 6
+au registre général du personnel au cours de l'exercice
+205
+6
+6
 Par type de contrat de travail
-Contrat à durée indéterminée 210 4 4
-Contrat à durée déterminée 211 2 2
-Contrat pour l'exécution d'un travail nettement défini 212 
-Contrat de remplacement 213 
-SORTIES Codes 1. Temps plein 2. Temps partiel 3. Total en équivalents
+Contrat à durée indéterminée
+210
+4
+4
+Contrat à durée déterminée
+211
+2
+2
+Contrat pour l'exécution d'un travail nettement défini
+212
+Contrat de remplacement
+213
+SORTIES
+Codes
+1. Temps plein
+2. Temps partiel
+3. Total en équivalents
 temps plein
 Nombre de travailleurs dont la date de fin de contrat a été
 inscrite dans une déclaration DIMONA ou au registre
-général du personnel au cours de l'exercice 305 3 3
+général du personnel au cours de l'exercice
+305
+3
+3
 Par type de contrat de travail
-Contrat à durée indéterminée 310 
-Contrat à durée déterminée 311 3 3
-Contrat pour l'exécution d'un travail nettement défini 312 
-Contrat de remplacement 313 
+Contrat à durée indéterminée
+310
+Contrat à durée déterminée
+311
+3
+3
+Contrat pour l'exécution d'un travail nettement défini
+312
+Contrat de remplacement
+313
 Par motif de fin de contrat
-Pension 340 
-Chômage avec complément d'entreprise 341 
-Licenciement 342 
-Autre motif 343 3 3
+Pension
+340
+Chômage avec complément d'entreprise
+341
+Licenciement
+342
+Autre motif
+343
+3
+3
 Dont: le nombre de personnes qui continuent, au moins à mi-
 temps, à prester des services au profit de la société comme
-indépendants 350 
-N° 0252151302 C-cap 10
-Page 57 of
-65 
----PAGE 58---
+indépendants
+350
+N°
+0252151302
+C-cap 10
+Page 57 of 65
+
+
+===== PAGE 58 =====
 RENSEIGNEMENTS SUR LES FORMATIONS POUR LES TRAVAILLEURS AU COURS DE L'EXERCICE
  
-Codes Hommes Codes Femmes
+Codes
+Hommes
+Codes
+Femmes
 Initiatives en matière de formation professionnelle continue à caractère
 formel à charge de l'employeur
-Nombre de travailleurs concernés 5801 24 5811 19
-Nombre d'heures de formation suivies 5802 190 5812 217
-Coût net pour la société 5803 18.580,5 5813 15.415,8
-dont coût brut directement lié aux formations 58031 16.429,9 58131 12.964,2
-dont cotisations payées et versements à des fonds collectifs 58032 2.150,6 58132 2.451,6
-dont subventions et autres avantages financiers reçus (à déduire) 58033 58133 
+Nombre de travailleurs concernés
+5801
+24
+5811
+19
+Nombre d'heures de formation suivies
+5802
+190
+5812
+217
+Coût net pour la société
+5803
+18.580,5
+5813
+15.415,8
+dont coût brut directement lié aux formations
+58031
+16.429,9
+58131
+12.964,2
+dont cotisations payées et versements à des fonds collectifs
+58032
+2.150,6
+58132
+2.451,6
+dont subventions et autres avantages financiers reçus (à déduire)
+58033
+58133
 Initiatives en matière de formation professionnelle continue à caractère
 moins formel ou informel à charge de l'employeur
-Nombre de travailleurs concernés 5821 5831 
-Nombre d'heures de formation suivies 5822 5832 
-Coût net pour la société 5823 5833 
+Nombre de travailleurs concernés
+5821
+5831
+Nombre d'heures de formation suivies
+5822
+5832
+Coût net pour la société
+5823
+5833
 Initiatives en matière de formation professionnelle initiale à charge de
 l'employeur
-Nombre de travailleurs concernés 5841 5851 
-Nombre d'heures de formation suivies 5842 5852 
-Coût net pour la société 5843 5853 
-N° 0252151302 C-cap 10
-Page 58 of
-65 
----PAGE 59---
+Nombre de travailleurs concernés
+5841
+5851
+Nombre d'heures de formation suivies
+5842
+5852
+Coût net pour la société
+5843
+5853
+N°
+0252151302
+C-cap 10
+Page 58 of 65
+
+
+===== PAGE 59 =====
 RAPPORT DE RÉMUNÉRATION
  
 pour les sociétés dans lesquelles les pouvoirs publics ou une ou plusieurs personnes morales de droit public exercent un contrôle (article 3:12, §1, 9° du Code des sociétés et
 des associations)
  
-N° 0252151302 C-cap 11
-Page 59 of
-65 
----PAGE 60---
+N°
+0252151302
+C-cap 11
+Page 59 of 65
+
+
+===== PAGE 60 =====
  
 1 
  
@@ -1973,55 +3586,138 @@ Rapport de rémunération 20251
  
 Informations générales 
  
-Nom de l’organisme SOFICO 
-Nature juridique Personne morale de droit public 
-Références légales Décret du 10 mars 1994 relatif à la création de la SOFICO 
-Ministres de tutelle Monsieur F. DESQUESNES – Ministre du Territoire, des Infrastructures, de la 
+Nom de l’organisme 
+SOFICO 
+Nature juridique 
+Personne morale de droit public 
+Références légales 
+Décret du 10 mars 1994 relatif à la création de la SOFICO 
+Ministres de tutelle 
+Monsieur F. DESQUESNES – Ministre du Territoire, des Infrastructures, de la 
 Mobilité et des Pouvoirs Locaux 
-Monsieur P. -Y. JEHOLET – Ministre de l’Economie, de l’Industrie, du 
+Monsieur P.-Y. JEHOLET – Ministre de l’Economie, de l’Industrie, du 
 Numérique, de l’Emploi et de la Formation 
-Période de reporting 2025 
+Période de reporting 
+2025 
  
  
-A. Informations relatives aux administrateurs publics 
+A. 
+Informations relatives aux administrateurs publics 
  
  
-1. Informations relatives aux mandats et à la rémunération  
+1. 
+Informations relatives aux mandats et à la rémunération  
  
-Nom de l’organe de gestion  Titre 
+Nom de l’organe de gestion  
+Titre 
 Date de 
 désignation 
 Durée du 
 mandat 
 Rémunération 
 brute annuelle 
-JJ/MM/AAAA Années EUR 
-Thierry LESPLINGART (3) Président 01/04/2021 5 28.154,64 € 
-Thierry LESPLINGART (2) Administrateur 01/09/2025 6 681,70 € 
-Olivier SOUMERYN (1) Vice-Président 01/04/2021 5 1.090,72 € 
-François KINARD (3) Président 01/09/2025 6 14.146,64 € 
-Virginie DEFRANG-FIRKET (2) Vice-Présidente 01/09/2025 6 681,70 € 
-Jean-Pierre BOURDEAUD’HUY (1) Administrateur 28/04/2022 5 818,04 € 
-Christophe CIEPERS (2) Administrateur 01/09/2025 6 681,70 € 
-Justine COMIJN (2) ; (4) Administratrice 01/09/2025 6 818,04 € 
-Christine GAIONI (1) ; (2) ; (4) Administratrice 01/02/2024 5 1.908,76 € 
-Pierre GENGOUX (1) ; (4) Administrateur  01/04/2021 5 1.363,40 € 
-Anaïs GOFFINET (1) ; (5) Administratrice 01/04/2021 5 0 € 
-Simon LACROIX (2) ; (4) Administrateur 01/09/2025 6 818,04 € 
-John LEWIS (1) Administrateur 01/04/2021 5 818,04 € 
-Marie-Laure MAES (1) ; (2) Administratrice 01/04/2021 5 1.090,72 € 
-Géraldine MARTIN (1) Administratrice 01/04/2021 5 818,04 € 
-François PIETTE (2) Administrateur 01/09/2025 6 681,70 € 
-Michaël REUL (2) Administrateur 01/09/2025 6 681,70 € 
-Martin VAN AUDENRODE (1) Administrateur 01/04/2021 5 818,04 € 
+JJ/MM/AAAA 
+Années 
+EUR 
+Thierry LESPLINGART (3) 
+Président 
+01/04/2021 
+5 
+28.154,64 € 
+Thierry LESPLINGART (2) 
+Administrateur 
+01/09/2025 
+6 
+681,70 € 
+Olivier SOUMERYN (1) 
+Vice-Président 
+01/04/2021 
+5 
+1.090,72 € 
+François KINARD (3) 
+Président 
+01/09/2025 
+6 
+14.146,64 € 
+Virginie DEFRANG-FIRKET (2) 
+Vice-Présidente 
+01/09/2025 
+6 
+681,70 € 
+Jean-Pierre BOURDEAUD’HUY (1) 
+Administrateur 
+28/04/2022 
+5 
+818,04 € 
+Christophe CIEPERS (2) 
+Administrateur 
+01/09/2025 
+6 
+681,70 € 
+Justine COMIJN (2) ; (4) 
+Administratrice 
+01/09/2025 
+6 
+818,04 € 
+Christine GAIONI (1) ; (2) ; (4) 
+Administratrice 
+01/02/2024 
+5 
+1.908,76 € 
+Pierre GENGOUX (1) ; (4) 
+Administrateur 
+ 01/04/2021 
+5 
+1.363,40 € 
+Anaïs GOFFINET (1) ; (5) 
+Administratrice 
+01/04/2021 
+5 
+0 € 
+Simon LACROIX (2) ; (4) 
+Administrateur 
+01/09/2025 
+6 
+818,04 € 
+John LEWIS (1) 
+Administrateur 
+01/04/2021 
+5 
+818,04 € 
+Marie-Laure MAES (1) ; (2) 
+Administratrice 
+01/04/2021 
+5 
+1.090,72 € 
+Géraldine MARTIN (1) 
+Administratrice 
+01/04/2021 
+5 
+818,04 € 
+François PIETTE (2) 
+Administrateur 
+01/09/2025 
+6 
+681,70 € 
+Michaël REUL (2) 
+Administrateur 
+01/09/2025 
+6 
+681,70 € 
+Martin VAN AUDENRODE (1) 
+Administrateur 
+01/04/2021 
+5 
+818,04 € 
  
  
 1 Le rapport de rémunération comprend les informations individuelles et nominatives prévues à l’article 15, §2 
 et §3 du décret du 12 février 2004 relatif au statut l’administrateur public et du décret du 12 février 2004 relatif 
 au statut de l’administrateur public pour les matières réglées en vertu de l’article 138 de la Constitution. 
-Page 60 of
-65 
----PAGE 61---
+Page 60 of 65
+
+
+===== PAGE 61 =====
  
 2 
  
@@ -2038,15 +3734,18 @@ présence pour 2025
 1. Règles générales relatives à la rémunération des administrateurs publics 
  
  
-• La rémunération annuelle octroyée au Président et aux administrateurs est plafonnée en vertu 
-de l’article 15bis du décret du 12 février 2004 relatif au statut de l’administrateur public , et 
+• 
+La rémunération annuelle octroyée au Président et aux administrateurs est plafonnée en vertu 
+de l’article 15bis du décret du 12 février 2004 relatif au statut de l’administrateur public, et 
 modifié par le décret du 24 novembre 2016, art. 5. 
  
-• Les membres du Conseil d’Administration de la SOFICO  (administrateurs et Vice -Président) 
+• 
+Les membres du Conseil d’Administration de la SOFICO (administrateurs et Vice-Président) 
 perçoivent un jeton de présence par réunion d’un montant de 136,34 € bruts par présence aux 
 séances (tel que précisé dans le décret constitutif de la SOFICO, du 10 mars 1994) ; 
  
-• Pour les réunions en présentiel, ils bénéficient également du remboursement des km effectués 
+• 
+Pour les réunions en présentiel, ils bénéficient également du remboursement des km effectués 
 pour se rendre aux réunions, au taux légal (actuellement : 0,4449 € / km). 
  
  
@@ -2055,7 +3754,7 @@ pour se rendre aux réunions, au taux légal (actuellement : 0,4449 € / km).
 2. Informations relatives aux mandats dérivés 
  
 Le mandat dérivé est le mandat que l’administrateur public a obtenu dans une personne morale dans 
-laquelle l'organisme détient des participations ou au fonctionnement de  laquelle il contribue et où 
+laquelle l'organisme détient des participations ou au fonctionnement de laquelle il contribue et où 
 l’administrateur public a été désigné sur sa proposition. 
  
 Commentaires 
@@ -2065,14 +3764,27 @@ Il n’y a pas de mandat dérivé à la SOFICO.
  
 3. Informations relatives à la répartition des genres 
  
-Membres de l’organe de gestion Femmes Hommes Total 
-- dont administrateurs publics  4 6 10 
-- dont administrateurs non publics 0 0 0 
+Membres de l’organe de gestion 
+Femmes 
+Hommes 
+Total 
+- 
+dont administrateurs publics  
+4 
+6 
+10 
+- 
+dont administrateurs non publics 
+0 
+0 
+0 
  
-  
-Page 61 of
-65 
----PAGE 62---
+ 
+ 
+Page 61 of 65
+
+
+===== PAGE 62 =====
  
 3 
  
@@ -2080,34 +3792,72 @@ Page 61 of
  
 4. Informations relatives à la participation aux réunions 
  
-Membres Organe de gestion = CA Comité d’audit  
-Thierry LESPLINGART  12/13  
-François KINARD 5/5  
-Olivier SOUMERYN 8/8  
-Virginie DEFRANG-FIRKET 5/5  
-Jean-Pierre BOURDEAUD’HUY 6/8  
-Christophe CIEPERS 5/5  
-Justine COMIJN 5/5 1/1 
-Christine GAIONI 12/13 2/2 
-Pierre GENGOUX  8/8 2/2 
-Anaïs GOFFINET  1/8  
-Simon LACROIX 5/5 1/1 
-John LEWIS 6/8  
-Marie-Laure MAES 8/13  
-Géraldine MARTIN 6/8  
-François PIETTE 5/5  
-Michaël REUL 5/5  
-Martin VAN AUDENRODE 6/8  
+Membres 
+Organe de gestion = CA 
+Comité d’audit  
+Thierry LESPLINGART  
+12/13 
+ 
+François KINARD 
+5/5 
+ 
+Olivier SOUMERYN 
+8/8 
+ 
+Virginie DEFRANG-FIRKET 
+5/5 
+ 
+Jean-Pierre BOURDEAUD’HUY 
+6/8 
+ 
+Christophe CIEPERS 
+5/5 
+ 
+Justine COMIJN 
+5/5 
+1/1 
+Christine GAIONI 
+12/13 
+2/2 
+Pierre GENGOUX  
+8/8 
+2/2 
+Anaïs GOFFINET  
+1/8 
+ 
+Simon LACROIX 
+5/5 
+1/1 
+John LEWIS 
+6/8 
+ 
+Marie-Laure MAES 
+8/13 
+ 
+Géraldine MARTIN 
+6/8 
+ 
+François PIETTE 
+5/5 
+ 
+Michaël REUL 
+5/5 
+ 
+Martin VAN AUDENRODE 
+6/8 
+ 
  
 Commentaires 
  
 13 réunions du Conseil d’Administration se sont tenues entre le 01/01/2025 et le 31/12/2025. 
 3 réunions du Comité d’audit se sont tenues en 2025 (les 21/03, 25/06 et 24/10/2025). 
  
-  
-Page 62 of
-65 
----PAGE 63---
+ 
+ 
+Page 62 of 65
+
+
+===== PAGE 63 =====
  
 4 
  
@@ -2116,7 +3866,8 @@ B. Informations relatives au(x) gestionnaire(s)
 1. Informations relatives à la relation de travail 
  
 Nom  
-et Prénom Titre 
+et Prénom 
+Titre 
 Nature de 
 la relation de 
 travail 
@@ -2136,8 +3887,8 @@ Directeur
 général 
 Contrat de 
 travail 
-- CDD de 5 ans  
-- (1er juillet 2023 – 30 
+CDD de 5 ans  
+(1er juillet 2023 – 30 
 juin 2028) 
 Désignation par le 
 Gouvernement wallon 
@@ -2149,11 +3900,16 @@ le 1er juillet 2023.
  
 Détail de la rémunération brute annuelle relative à la période de reporting (montants en EUR). 
  
-Rémunération brute annuelle Jean-Luc GOSSELIN 
-Rémunération de base : brut soumis ONSS 187.677,84 € 
-Plan de pension complémentaire2 0 € 
-Rémunération variable 0 € 
-TOTAL 187.677,84 € 
+Rémunération brute annuelle 
+Jean-Luc GOSSELIN 
+Rémunération de base : brut soumis ONSS 
+187.677,84 € 
+Plan de pension complémentaire2 
+0 € 
+Rémunération variable 
+0 € 
+TOTAL 
+187.677,84 € 
  
  
  
@@ -2170,7 +3926,7 @@ NA
 5. Informations relatives aux mandats dérivés 
  
 Le mandat dérivé est le mandat que le gestionnaire a obtenu dans une personne morale dans laquelle 
-l'organisme détient des participations ou au fonctionnement de  laquelle il contribue et où le 
+l'organisme détient des participations ou au fonctionnement de laquelle il contribue et où le 
 gestionnaire a été désigné sur sa proposition. 
  
  
@@ -2179,17 +3935,18 @@ Le Gouvernement wallon a désigné la SOFICO en tant qu’administrateur personn
 l’entité interfédérale VIAPASS.  
  
 2 Le plan de pension complémentaire du Directeur général n'a été mis en place ni en 2023 ni en 2024 ni en 2025 
-et n’a dès lors pas  fait l'objet de cotisations patronales durant les exercices 2023, 2024 et 2025.  Ce plan sera 
+et n’a dès lors pas fait l'objet de cotisations patronales durant les exercices 2023, 2024 et 2025. Ce plan sera 
 mis en place en 2026 avec effet rétroactif au 1er juillet 2023, date de la désignation du Directeur général par le 
 Gouvernement wallon. 
-Page 63 of
-65 
----PAGE 64---
+Page 63 of 65
+
+
+===== PAGE 64 =====
  
 5 
  
  
-Jean-Luc GOSSELIN a été désigné en tant que représentant permanent de la SOFICO  à ce titre, 
+Jean-Luc GOSSELIN a été désigné en tant que représentant permanent de la SOFICO à ce titre, 
 par décision du Conseil d’administration de la SOFICO du 29 septembre 2023.  
  
 Les jetons de présence éventuels relatifs aux réunions du Conseil d’administration de VIAPASS 
@@ -2199,10 +3956,12 @@ titre de l’exercice 2025.
  
  
  
-  
-Page 64 of
-65 
----PAGE 65---
+ 
+ 
+Page 64 of 65
+
+
+===== PAGE 65 =====
  
 6 
  
@@ -2213,26 +3972,43 @@ Page 64 of
  
 Prénoms et Noms 
 Date 
-de désignation Durée du mandat Rémunération 
+de désignation 
+Durée du mandat 
+Rémunération 
 brute annuelle 
-JJ/MM/AAAA Années EUR 
-Pol FLAMEND 05/09/2024 19/06/2025 681,70 € 
-Camille FRANCOIS 05/09/2024 Pas de terme 1.227,06 € 
-Cédric JACMAIN 19/06/2025 Pas de terme 681,70 € 
+JJ/MM/AAAA 
+Années 
+EUR 
+Pol FLAMEND 
+05/09/2024 
+19/06/2025 
+681,70 € 
+Camille FRANCOIS 
+05/09/2024 
+Pas de terme 
+1.227,06 € 
+Cédric JACMAIN 
+19/06/2025 
+Pas de terme 
+681,70 € 
  
 Commentaires 
  
  
-• Démission de Pol FLAMEND le 19 juin 2025 
+• 
+Démission de Pol FLAMEND le 19 juin 2025 
  
-• Désignation de Cédric JACMAIN le 19 juin 2025 (en remplacement de Pol Flamend, 
+• 
+Désignation de Cédric JACMAIN le 19 juin 2025 (en remplacement de Pol Flamend, 
 démissionnaire) 
  
-• Les Commissaires du Gouvernement perçoivent un jeton de présence par réunion, d’un 
+• 
+Les Commissaires du Gouvernement perçoivent un jeton de présence par réunion, d’un 
 montant de 136,34 € bruts par présence aux séances, équivalent à celui des Administrateurs, 
 membres du Conseil. 
  
-• Pour les réunions en présentiel, ils bénéficient également du remboursement des km effectués 
+• 
+Pour les réunions en présentiel, ils bénéficient également du remboursement des km effectués 
 pour se rendre aux réunions, au taux légal (actuellement : 0,4449 € / km). 
  
  
@@ -2240,15 +4016,18 @@ pour se rendre aux réunions, au taux légal (actuellement : 0,4449 € / km).
  
 3. Informations relatives à la participation aux réunions 
  
-Prénoms et Noms  Organe de gestion = Conseil d’Administration 
-Pol FLAMEND 5/5 
-Camille FRANCOIS 9/13 
-Cédric JACMAIN 5/8 
+Prénoms et Noms  
+Organe de gestion = Conseil d’Administration 
+Pol FLAMEND 
+5/5 
+Camille FRANCOIS 
+9/13 
+Cédric JACMAIN 
+5/8 
  
 Commentaires 
  
 13 réunions du Conseil d’Administration se sont tenues entre le 01/01/2025 et le 31/12/2025. 
  
  
-Page 65 of
-65 
+Page 65 of 65
