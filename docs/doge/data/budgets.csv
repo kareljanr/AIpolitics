@@ -16876,3 +16876,26 @@ bud_kuleuven_horizon_pillar2_cum,kuleuven,2025,139500000,,,outturn,src_kuleuven_
 bud_kuleuven_hes_horizon_total_rank,kuleuven,2025,334200000,,,outturn,src_kuleuven_jv2025,medium,HES Horizon Europe ranking total 334.2m 562 projects (system class not all KU); tick818
 bud_kuleuven_basiskoten_new_loans_2025,kuleuven,2025,11000000,,,outturn,src_kuleuven_jv2025,strong,New loans basiskoten +11.0m in debt mutations; tick818
 bud_dual_kuleuven_fwb_he_tick818,gg_belgium,2025,3400000000,,,synthesis,src_dual_kuleuven_fwb_he_tick818,strong,Dual KU Leuven 3.4bn balance vs FWB HE residual; not TE-additive; tick818
+bud_ugent_assets_2025,ugent,2025,1376000000,,,outturn,src_ugent_jv2025,strong,Total assets YE2025 1.376bn (2024 1.271bn); tick819
+bud_ugent_assets_2024,ugent,2024,1271000000,,,outturn,src_ugent_jv2025,strong,Total assets YE2024 1.271bn; tick819
+bud_ugent_fixed_assets_2025,ugent,2025,558500000,,,outturn,src_ugent_jv2025,strong,Fixed assets 558.5m (+14.1m); tick819
+bud_ugent_auc_2025,ugent,2025,51500000,,,outturn,src_ugent_jv2025,strong,Assets under construction 51.5m (+21.2m); tick819
+bud_ugent_current_assets_2025,ugent,2025,817300000,,,outturn,src_ugent_jv2025,strong,Current assets 817.3m (+82.3m); tick819
+bud_ugent_investments_2025,ugent,2025,572200000,,,outturn,src_ugent_jv2025,strong,Geldbeleggingen 572.2m (+30.4m); tick819
+bud_ugent_cash_2025,ugent,2025,130600000,,,outturn,src_ugent_jv2025,strong,Liquide middelen 130.6m (+43.7m); tick819
+bud_ugent_equity_2025,ugent,2025,901800000,,,outturn,src_ugent_jv2025,strong,Eigen vermogen 901.8m (+54.4m); solvency 65.6pct; tick819
+bud_ugent_provisions_2025,ugent,2025,104300000,,,outturn,src_ugent_jv2025,strong,Provisions 104.3m (pensions ~60.8 + other ~43.5); tick819
+bud_ugent_debt_2025,ugent,2025,369600000,,,outturn,src_ugent_jv2025,strong,Schulden 369.6m (+45.6m); ST 344.2 LT 25.5; tick819
+bud_ugent_project_prepayments_2025,ugent,2025,189600000,,,outturn,src_ugent_jv2025,strong,Ontvangen vooruitbetalingen projecten 189.6m; tick819
+bud_ugent_net_cash_2025,ugent,2025,643000000,,,outturn,src_ugent_jv2025,strong,Netto kaspositie ~643m (2024 577.5m); cash+invest-fin debt; tick819
+bud_ugent_working_capital_2025,ugent,2025,473100000,,,outturn,src_ugent_jv2025,strong,Werkkapitaal 473.1m (2024 421m); tick819
+bud_ugent_result_2025,ugent,2025,61900000,,,outturn,src_ugent_jv2025,strong,Resultaat boekjaar +61.9m te bestemmen overschot; tick819
+bud_ugent_analytical_result_2025,ugent,2025,35900000,,,outturn,src_ugent_jv2025,strong,Analytisch resultaat +35.9m; cum surplus 652.6m; tick819
+bud_ugent_cum_surplus_2025,ugent,2025,652600000,,,outturn,src_ugent_jv2025,strong,Gecumuleerd saldo 652.6m; tick819
+bud_ugent_personnel_costs_2025,ugent,2025,667000000,,,outturn,src_ugent_jv2025,strong,Personeelskosten ca 667m largest cost; tick819
+bud_ugent_depreciation_2025,ugent,2025,62900000,,,outturn,src_ugent_jv2025,strong,Afschrijvingen 62.9m; tick819
+bud_ugent_indexatie_effect_2025,ugent,2025,8400000,,,outturn,src_ugent_jv2025,strong,Indexatie effect werkings 8.4m; tick819
+bud_ugent_klik_effect_2025,ugent,2025,11300000,,,outturn,src_ugent_jv2025,strong,Klik 2pct VOW+VOZ effect 11.3m; tick819
+bud_ugent_iof_revenue_2025,ugent,2025,22400000,,,outturn,src_ugent_jv2025,strong,IOF total revenue 22.4m (toelage 18.14 + 4m prior year book); tick819
+bud_ugent_werkings_share_pct_2025,ugent,2025,297,,,outturn,src_ugent_jv2025,strong,UGent share of VL werkingsmiddelen 29.7pct (amount stores bps 297); tick819
+bud_dual_ugent_kuleuven_assets_2025,gg_belgium,2025,1376000000,1376000000,3400000000,synthesis,src_dual_ugent_kuleuven_tick819,strong,Dual UGent 1.376bn vs KU Leuven 3.4bn assets; not TE-additive; tick819

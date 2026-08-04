@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T06:00:00Z,rq_809,818,no,tick818 KU Leuven 3.4bn/782m research VL cut-31.4 Stuvo-10 dual FWB FOI; next rq_810 residual dual L5; progress@820 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T06:30:00Z,rq_810,819,no,tick819 UGent 1.376bn equity902 result+62 personnel667 dual KU Leuven FOI; next rq_811 MANDATORY progress@820; rq_116 deferred

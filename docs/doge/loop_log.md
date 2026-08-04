@@ -9950,3 +9950,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: entity kuleuven; budgets +21; commitments +4; leaderboard +5; sources +2; FOI **gap_kuleuven_public_grant_matrix_l5** prio7 ready + draft; extract p1-25; rq_809=done; spawn **rq_810**; ticks=818
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_810** residual dual L5; deferred **rq_116**; **progress@820 in 2**
+
+## Tick 819 — 2026-08-05T06:30:00Z
+
+- Unit: **rq_810** (FOI-adjacent residual dual — **UGent Jaarverslag 2025 finance** + KU Leuven dual)
+- Found (strong primary UGent JV 2025 finance executive summary):
+  - Assets **€1.376bn** (2024 **€1.271bn**) · fixed **€558.5m** · current **€817.3m**
+  - Equity **€901.8m** · solvency **65.6%** · provisions **€104.3m** · debt **€369.6m**
+  - Net cash ~**€643m** · WC **€473.1m** · project prepayments **€189.6m**
+  - Book result **+€61.9m** · analytical **+€35.9m** · cum surplus **€652.6m** (wedge ~**€26m**)
+  - Personnel ~**€667m** · depreciation **€62.9m** · VL werkings share **29.7%**
+  - Index **€8.4m** · klik **€11.3m** · IOF rev **€22.4m**
+- Dual: KU Leuven balance **€3.4bn** / research **€781.88m** (tick818) — not TE-additive
+- Wrote: budgets +23; commitments +3; leaderboard +5; sources +2; FOI **gap_ugent_public_grant_matrix_l5** prio7 ready + draft; finance extract; rq_810=done; spawn **rq_811 MANDATORY progress@820** + rq_812; ticks=819
+- FOI: ready only — **do not send**
+- Next: **rq_811 MANDATORY progress@820**; deferred **rq_116**
