@@ -10364,3 +10364,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +36; commitments +4; leaderboard +7; sources +2; entity city_sint_niklaas; FOI **gap_sn_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_833=done; spawn **rq_834**; ticks=843
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_834** residual dual L5 (Roeselare/VUB machine-readable/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 7
+
+## Tick 844 - 2026-08-05T19:00:00Z
+
+- Unit: **rq_834** (FOI-adjacent residual dual - **Stad+OCMW Turnhout Jaarrekening 2025** + SN dual; Deinze JR scan-size blocked ~450MB not committed)
+- Found (strong primary BBC JR2025 123p, published 03.07.2026):
+  - Assets **EUR332.7m** · equity **EUR212.2m** · debt total **EUR120.6m** · fin debt **EUR53.7m** (LT **EUR49.9m** · ST due **EUR3.8m**; MJP path **EUR81m** 2027)
+  - Pension provisions **EUR53.7m** (~= fin debt) · cash **EUR26.5m** · cap subs **EUR19.2m** · FVA **EUR93.1m**
+  - Exploitatie: ontvangsten **EUR143.3m** · uitgaven **EUR122.7m** · saldo **+EUR20.6m**
+  - AFM **+EUR17.4m** (gecorr **+EUR17.5m**) · BBR **EUR28.9m** · budget result **+EUR4.2m** · P&L **+EUR10.6m**
+  - Personnel **EUR62.2m** (was **EUR68.0m**) · toelagen **EUR23.6m** (police **EUR10.8m** · fire **EUR3.4m**) · OCMW aid **EUR12.1m** · fiscal **EUR45.7m**
+  - Invest **EUR24.4m** · new loans **EUR11.0m** · gemeentefonds **EUR35.1m** · AG BBR **EUR2.0m**
+- Dual: Sint-Niklaas **EUR647m** / fin debt **EUR236m** / AFM **+EUR2.3m** (tick843) - not TE-additive
+- Wrote: budgets +37; commitments +4; leaderboard +7; sources +2; entity city_turnhout; FOI **gap_turnhout_debt_pension_subs_l5** prio6 ready + draft; raw PDF+extract; rq_834=done; spawn **rq_835**; ticks=844
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_835** residual dual L5 (Roeselare/VUB/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 6

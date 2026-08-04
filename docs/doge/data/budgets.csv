@@ -17630,3 +17630,40 @@ bud_sn_werk_subs_rec_2025,city_sint_niklaas,2025,118209770,,,outturn,src_sint_ni
 bud_sn_gemeentefonds_2025,city_sint_niklaas,2025,57300333,,,outturn,src_sint_niklaas_jr2025,strong,Gemeentefonds 57.300m; tick843
 bud_sn_fin_costs_2025,city_sint_niklaas,2025,5681170,,,outturn,src_sint_niklaas_jr2025,strong,J5 financiele kosten 5.681m; tick843
 bud_sn_invest_subs_granted_2025,city_sint_niklaas,2025,5117539,,,outturn,src_sint_niklaas_jr2025,strong,Toegestane investeringssubsidies 5.118m; tick843
+bud_th_assets_2025,city_turnhout,2025,332712966,,,outturn,src_turnhout_jr2025,strong,Consol stad+OCMW total assets YE2025 332.713m; tick844
+bud_th_equity_2025,city_turnhout,2025,212160131,,,outturn,src_turnhout_jr2025,strong,Nettoactief YE2025 212.160m; tick844
+bud_th_debt_total_2025,city_turnhout,2025,120552835,,,outturn,src_turnhout_jr2025,strong,Total schulden YE2025 120.553m; tick844
+bud_th_fin_debt_2025,city_turnhout,2025,53716761,,,outturn,src_turnhout_jr2025,strong,Financiele schulden T4 YE2025 53.717m (LT 49.943 + ST due 3.774); tick844
+bud_th_fin_debt_lt_2025,city_turnhout,2025,49943235,,,outturn,src_turnhout_jr2025,strong,Financiele schulden LT YE2025 49.943m; tick844
+bud_th_fin_debt_st_due_2025,city_turnhout,2025,3773526,,,outturn,src_turnhout_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 3.774m; tick844
+bud_th_pension_prov_2025,city_turnhout,2025,53726911,,,outturn,src_turnhout_jr2025,strong,Pensioenvoorzieningen LT YE2025 53.727m (~equal fin debt stock); tick844
+bud_th_cash_2025,city_turnhout,2025,26464334,,,outturn,src_turnhout_jr2025,strong,Liquide middelen YE2025 26.464m; tick844
+bud_th_cap_subs_2025,city_turnhout,2025,19186933,,,outturn,src_turnhout_jr2025,strong,Kapitaalsubsidies YE2025 19.187m; tick844
+bud_th_fva_total_2025,city_turnhout,2025,93051551,,,outturn,src_turnhout_jr2025,strong,Financiele vaste activa YE2025 93.052m; tick844
+bud_th_fva_igs_2025,city_turnhout,2025,33630245,,,outturn,src_turnhout_jr2025,strong,Fin VA IGS YE2025 33.630m; tick844
+bud_th_fva_ocmw_ver_2025,city_turnhout,2025,47313057,,,outturn,src_turnhout_jr2025,strong,Fin VA OCMW-verenigingen YE2025 47.313m; tick844
+bud_th_mva_2025,city_turnhout,2025,189996980,,,outturn,src_turnhout_jr2025,strong,Materiele vaste activa YE2025 189.997m; tick844
+bud_th_expl_rec_2025,city_turnhout,2025,143260291,,,outturn,src_turnhout_jr2025,strong,Exploitatieontvangsten 143.260m; tick844
+bud_th_expl_exp_2025,city_turnhout,2025,122656499,,,outturn,src_turnhout_jr2025,strong,Exploitatieuitgaven 122.656m; tick844
+bud_th_expl_saldo_2025,city_turnhout,2025,20603793,,,outturn,src_turnhout_jr2025,strong,Exploitatiesaldo +20.604m; tick844
+bud_th_invest_exp_2025,city_turnhout,2025,24364719,,,outturn,src_turnhout_jr2025,strong,Investeringsuitgaven J2 24.365m; tick844
+bud_th_invest_rec_2025,city_turnhout,2025,2077779,,,outturn,src_turnhout_jr2025,strong,Investeringsontvangsten J2 2.078m; tick844
+bud_th_invest_saldo_2025,city_turnhout,2025,-22286940,,,outturn,src_turnhout_jr2025,strong,Investeringssaldo -22.287m; tick844
+bud_th_fin_rec_2025,city_turnhout,2025,11622144,,,outturn,src_turnhout_jr2025,strong,Financieringsontvangsten 11.622m; tick844
+bud_th_fin_exp_2025,city_turnhout,2025,5732790,,,outturn,src_turnhout_jr2025,strong,Financieringsuitgaven 5.733m; tick844
+bud_th_new_loans_2025,city_turnhout,2025,11029621,,,outturn,src_turnhout_jr2025,strong,Nieuwe leningen 11.030m; tick844
+bud_th_aflossingen_2025,city_turnhout,2025,3777352,,,outturn,src_turnhout_jr2025,strong,Periodieke aflossingen 3.777m; tick844
+bud_th_afm_2025,city_turnhout,2025,17418964,,,outturn,src_turnhout_jr2025,strong,AFM +17.419m (strong structural surplus); tick844
+bud_th_afm_corr_2025,city_turnhout,2025,17479156,,,outturn,src_turnhout_jr2025,strong,Gecorrigeerde AFM +17.479m; tick844
+bud_th_bbr_2025,city_turnhout,2025,28924312,,,outturn,src_turnhout_jr2025,strong,BBR 28.924m; tick844
+bud_th_budget_result_2025,city_turnhout,2025,4206206,,,outturn,src_turnhout_jr2025,strong,Budgettair resultaat boekjaar +4.206m; tick844
+bud_th_cum_br_2025,city_turnhout,2025,29443700,,,outturn,src_turnhout_jr2025,strong,Gecumuleerd budgettair resultaat 29.444m; tick844
+bud_th_pnl_result_2025,city_turnhout,2025,10553990,,,outturn,src_turnhout_jr2025,strong,Vennootschapsresultaat J5 +10.554m; tick844
+bud_th_personnel_2025,city_turnhout,2025,62158409,,,outturn,src_turnhout_jr2025,strong,J5/T2 bezoldigingen 62.158m (was 67.953m 2024); tick844
+bud_th_toelagen_2025,city_turnhout,2025,23646462,,,outturn,src_turnhout_jr2025,strong,Toegestane werkingssubsidies 23.646m (politie 10.795 fire 3.447); tick844
+bud_th_ocmw_aid_2025,city_turnhout,2025,12139744,,,outturn,src_turnhout_jr2025,strong,OCMW individuele hulp 12.140m; tick844
+bud_th_fiscal_2025,city_turnhout,2025,45663410,,,outturn,src_turnhout_jr2025,strong,J5 fiscale opbrengsten en boetes 45.663m; tick844
+bud_th_werk_subs_rec_2025,city_turnhout,2025,76597076,,,outturn,src_turnhout_jr2025,strong,J5 werkingssubsidies ontvangen 76.597m; tick844
+bud_th_gemeentefonds_2025,city_turnhout,2025,35137273,,,outturn,src_turnhout_jr2025,strong,Gemeentefonds 35.137m; tick844
+bud_th_fin_costs_2025,city_turnhout,2025,1282552,,,outturn,src_turnhout_jr2025,strong,J5 financiele kosten 1.283m; tick844
+bud_th_ag_bbr_2025,city_turnhout,2025,2027882,,,outturn,src_turnhout_jr2025,strong,AG Turnhout BBR 2.028m (consol path); tick844

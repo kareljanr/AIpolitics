@@ -1,0 +1,27 @@
+Turnhout Stad+OCMW Jaarrekening 2025 — extract tick844
+Source: https://www.turnhout.be/nl/jaarrekening-2025-stadocmw-turnhout
+PDF: https://www.turnhout.be/nl/media/9961 (1.87MB, 123p, published 3 jul 2026)
+Perimeter: consolidatie Stad + OCMW Turnhout (BBC)
+KSZ Stad 0207.533.082 / OCMW 0212.175.721 · NIS 13040
+AD Bie De Busser · FD Anke Hendrickx · Campus Blairon 200
+
+J2 (p25): Expl +20.603.793 (rec 143.260.291 / exp 122.656.499)
+Invest -22.286.940 (rec 2.077.779 / exp 24.364.719)
+Fin +5.889.354 (rec 11.622.144 / exp 5.732.790)
+BR +4.206.206 · gecum 29.443.700 · onbeschikbaar 519.388 · BBR 28.924.312
+AFM +17.418.964 · gecorr AFM +17.479.156
+AG Turnhout BBR 2.027.882 · consol BBR 30.952.195
+
+J4 (p30-31) YE2025:
+ACTIVA 332.712.966 · PASSIVA schulden 120.552.835 · nettoactief 212.160.131
+Kas 26.464.334 · FVA 93.051.551 (EVA 11.578.014 IGS 33.630.245 OCMW-ver 47.313.057)
+MVA 189.996.980 · pensioen LT 53.726.911 · fin LT 49.943.234 · ST due 3.773.526
+T4 fin debt total 53.716.761 (was 46.464.492) · new loans 11.029.621
+
+J5 (p33): Kosten 134.294.966 (bezold 62.158.409 · toelagen 23.646.462 · OCMW aid 12.139.744)
+Opbrengsten 144.848.956 (fiscal 45.663.410 · werk-subs 76.597.076) · resultaat +10.553.990
+
+T2 (p41): politie toelage 10.794.666 · brand 3.446.679 · welzijn 2.440.780 · gemeentefonds 35.137.273
+Bezold drop YoY (was 67.953.134) — statutair vast 15.2m (was 23.8m)
+
+Dual: Sint-Niklaas assets 646.7m / fin debt 236m / AFM +2.3m (tick843) — not TE-additive
