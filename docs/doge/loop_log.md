@@ -9905,3 +9905,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +17; commitments +3; leaderboard +5; sources +2; FOI **gap_dwv_study_overruns_l5** prio8 ready + draft; raw txt extract; rq_806=done; spawn **rq_807**; ticks=815
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_807** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 5
+
+## Tick 816 — 2026-08-05T05:00:00Z
+
+- Unit: **rq_807** (FOI-adjacent residual dual — **Wallonie ExpGen BI2026** + FWB Entity II dual)
+- Found (strong primary SPW Finances ExpGen 189p):
+  - Recettes **€18,515.7m** · dépenses **€21,335.7m** · solde brut **-€2,820.0m**
+  - SEC corrections **+€804.3m** · **solde SEC -€2,015.7m** (vs 2025ini **-€2,286.5m**, +€270.8m)
+  - Interest **€1,102m** 2026 (**€1,007m** 2025) · primary net spend **€19,056m** (**-2.09%**)
+  - Debt gross YE2024 **€27,795m** / 30.09.2025 **€30,333m** · net **€25,514m** / **€27,890m**
+  - Loans raised to Sep2025 **€3,722m** · EMTN ceiling **€30bn** · SPW remun **€736m**
+  - FEDER 374 projects **€775.1m** (UE **314.3** · WAL **428** · ops **32.8**) · EU FTJ prog **€778m**
+- Dual: prior FWB CoA SEC **~-€1.75bn** class Entity II (not TE-additive)
+- Wrote: budgets +27; commitments +4; leaderboard +5; sources +2; FOI **gap_wal_bi2026_l5_matrix** prio8 ready + draft; p1-40 extract; rq_807=done; spawn **rq_808**; ticks=816
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_808** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 4

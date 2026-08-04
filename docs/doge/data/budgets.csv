@@ -16803,3 +16803,29 @@ bud_dwv_r4_plafond_uplift_5_6m,de_werkvennootschap,2023,5600000,,,commitment,src
 bud_dwv_four_studies_spent_mar2025,de_werkvennootschap,2025,124933506,,,outturn,src_ccrek_2026_19_dwv_studies,strong,Sum four Table1 spent Mar2025 85.405+11.092+11.064+17.373=124.934m excl Brabantnet extra 8.75m; tick815
 bud_dwv_four_studies_plus_extra,de_werkvennootschap,2025,133683506,,,outturn,src_ccrek_2026_19_dwv_studies,strong,Four studies spent + Brabantnet extra 8.75m ~133.684m Mar2025 class; tick815
 bud_dual_dwv_studies_tick815,gg_belgium,2025,133683506,,,synthesis,src_dual_dwv_gip_tick815,strong,Dual DWV study spend class vs GIP residual; not TE-additive; tick815
+bud_wal_recettes_bi2026,wallonie_gov,2026,18515734000,,,budgeted,src_wal_expgen_bi2026,strong,WAL BI2026 recettes 18515.734m kEUR; tick816
+bud_wal_depenses_bi2026,wallonie_gov,2026,21335748000,,,budgeted,src_wal_expgen_bi2026,strong,WAL BI2026 depenses 21335.748m; tick816
+bud_wal_recettes_bi2025,wallonie_gov,2025,19123923000,,,budgeted,src_wal_expgen_bi2026,strong,WAL BI2025 ini recettes 19123.923m ExpGen compare; tick816
+bud_wal_depenses_bi2025,wallonie_gov,2025,22029416000,,,budgeted,src_wal_expgen_bi2026,strong,WAL BI2025 ini depenses 22029.416m; tick816
+bud_wal_solde_brut_bi2026,wallonie_gov,2026,-2820014000,,,budgeted,src_wal_expgen_bi2026,strong,Solde brut a financer -2820.014m BI2026; tick816
+bud_wal_solde_sec_bi2026,wallonie_gov,2026,-2015736000,,,budgeted,src_wal_expgen_bi2026,strong,Solde SEC BI2026 -2015.736m after +804.278m corrections; tick816
+bud_wal_sec_corrections_bi2026,wallonie_gov,2026,804278000,,,budgeted,src_wal_expgen_bi2026,strong,SEC corrections +804.278m (sous-util 609 + OCPP 282.92 + other); tick816
+bud_wal_interest_bi2026,wallonie_debt,2026,1102000000,,,budgeted,src_wal_expgen_bi2026,strong,Interest charges path Table3 1102m 2026 (1007m 2025); tick816
+bud_wal_interest_bi2025,wallonie_debt,2025,1007000000,,,budgeted,src_wal_expgen_bi2026,strong,Interest charges 1007m 2025 Table3 primary spend calc; tick816
+bud_wal_primary_net_spend_2026,wallonie_gov,2026,19056000000,,,budgeted,src_wal_expgen_bi2026,strong,Depenses primaires nettes 19056m 2026 (-2.09pct vs 19463m 2025); tick816
+bud_wal_primary_net_spend_2025,wallonie_gov,2025,19463000000,,,budgeted,src_wal_expgen_bi2026,strong,Depenses primaires nettes 19463m 2025 Table3; tick816
+bud_wal_debt_gross_2024,wallonie_debt,2024,27795185456,,,outturn,src_wal_expgen_bi2026,strong,Dette regionale brute YE2024 27795.185m; tick816
+bud_wal_debt_gross_20250930,wallonie_debt,2025,30333276860,,,outturn,src_wal_expgen_bi2026,strong,Dette brute 30 Sep 2025 30333.277m; tick816
+bud_wal_debt_net_2024,wallonie_debt,2024,25514030916,,,outturn,src_wal_expgen_bi2026,strong,Dette regionale nette YE2024 25514.031m; tick816
+bud_wal_debt_net_20250930,wallonie_debt,2025,27890100841,,,outturn,src_wal_expgen_bi2026,strong,Dette nette 30 Sep 2025 27890.101m; tick816
+bud_wal_debt_lt_20250930,wallonie_debt,2025,29539776860,,,outturn,src_wal_expgen_bi2026,strong,Dette LT 30 Sep 2025 29539.777m; tick816
+bud_wal_debt_st_20250930,wallonie_debt,2025,793500000,,,outturn,src_wal_expgen_bi2026,strong,Dette CT 793.5m stable YE2024-Sep2025; tick816
+bud_wal_loans_raised_2025_sep,wallonie_debt,2025,3722000000,,,outturn,src_wal_expgen_bi2026,strong,19 market loans raised 3722m to 30 Sep 2025; tick816
+bud_wal_emtn_ceiling_30bn,wallonie_debt,2025,30000000000,,,commitment,src_wal_expgen_bi2026,strong,EMTN programme ceiling raised to 30bn EUR; tick816
+bud_wal_spw_remuneration_2026,wallonie_gov,2026,736000000,,,budgeted,src_wal_expgen_bi2026,strong,SPW agent remunerations envelope 736m 2026 (replacement norm); tick816
+bud_wal_feder_ftj_eu_prog,wallonie_gov,2027,778000000,,,commitment,src_wal_expgen_bi2026,strong,FEDER-FTJ EU envelope 778m Wallonie 2021-2027 programme; tick816
+bud_wal_feder_374_projects_total,wallonie_gov,2025,775100000,,,commitment,src_wal_expgen_bi2026,strong,374 FEDER projects 775.1m (UE 314.3 + WAL 428 + ops 32.8); tick816
+bud_wal_feder_374_wal_share,wallonie_gov,2025,428000000,,,commitment,src_wal_expgen_bi2026,strong,WAL share of 374 FEDER projects 428m; tick816
+bud_wal_structural_funds_3bn_class,wallonie_gov,2027,3000000000,,,commitment,src_wal_expgen_bi2026,medium,Structural funds envelope >3bn cofinanced 2021-2027 (EU+WAL+FWB+COCOF+benef); class; tick816
+bud_wal_rrf_repower_rec_2026,wallonie_gov,2026,834382000,,,budgeted,src_wal_expgen_bi2026,strong,RRF and Repower recettes 834.382m BI2026 (vs 1029.6m 2025); tick816
+bud_dual_wal_fwb_sec_tick816,gg_belgium,2026,-2015736000,,,synthesis,src_dual_wal_fwb_bi2026_tick816,strong,Dual WAL SEC -2015.736m vs FWB residual; not TE-additive; tick816

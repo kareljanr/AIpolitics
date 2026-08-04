@@ -1,0 +1,2092 @@
+1 
+ 
+ 
+ 
+ 
+BUDGETS DES RECETTES ET DES 
+DEPENSES 
+DE LA REGION WALLONNE 
+POUR L’ANNEE BUDGETAIRE 2026 
+ 
+ 
+ 
+EXPOSE GENERAL 
+ 
+ 
+ 
+  
+ 
+
+2 
+ 
+Table des matières 
+Introduction _______________________________________________________________ 4 
+Préambule _____________________________________________________________________ 4 
+Première partie – Lignes directrices du budget ____________________________________ 6 
+1. 
+Paramètres macroéconomiques ______________________________________________ 6 
+2. 
+Soldes budgétaires _________________________________________________________ 7 
+3. 
+Dépenses primaires nettes _________________________________________________ 10 
+3.1. 
+Nouveau cadre budgétaire général _________________________________________ 10 
+3.2. 
+Situation de la Belgique _________________________________________________ 10 
+3.3. 
+Répartition interne des objectifs __________________________________________ 10 
+4. 
+Cadre et orientations de politiques générales __________________________________ 12 
+4.1. 
+Ministre-Président et Ministre du Budget, des Finances, de la Recherche et du Bien-être 
+animal  ____________________________________________________________________ 12 
+4.2. 
+Vice-Président et Ministre du Territoire, des Infrastructures, de la Mobilité et des Pouvoirs 
+locaux  ____________________________________________________________________ 16 
+4.3. 
+Vice-Président et Ministre de l'Economie, de l’Industrie, du Numérique, de l’Emploi et de 
+la Formation _________________________________________________________________ 21 
+4.4. 
+Ministre de la Santé, de l'Environnement, des Solidarités et de l’Economie sociale __ 25 
+4.5. 
+Ministre de la Fonction publique, de la Simplification administrative et des Infrastructures 
+sportives ____________________________________________________________________ 39 
+4.6. 
+Ministre du Tourisme, du Patrimoine et de la Petite enfance ____________________ 43 
+4.7. 
+Ministre de l'Énergie, du Plan Air-Climat, du Logement et des Aéroports __________ 48 
+4.8. 
+Ministre de l'Agriculture et de la Ruralité ___________________________________ 51 
+Deuxième partie – Synthèse des recettes et des dépenses ___________________________ 55 
+1. 
+Recettes ________________________________________________________________ 55 
+2. 
+Dépenses ________________________________________________________________ 56 
+Troisième partie – Analyse de sensibilité ________________________________________ 59 
+Quatrième partie – Rapport budgétaire et financier _______________________________ 60 
+1. 
+Projections pluriannuelles _________________________________________________ 60 
+2. 
+Recettes de la Région wallonne pour 2026 ____________________________________ 60 
+2.1. 
+Sources de financement _________________________________________________ 60 
+2.2. 
+Recettes courantes _____________________________________________________ 62 
+2.3. 
+Recettes en capital _____________________________________________________ 62 
+2.4. 
+Tableau détaillé des recettes _____________________________________________ 63 
+2.5. 
+Inventaire des dépenses fiscales __________________________________________ 67 
+3. 
+Dépenses de la Région wallonne pour 2026 ___________________________________ 70 
+3.1. 
+Crédits d’engagements _________________________________________________ 70 
+3.2. 
+Crédits de liquidation ___________________________________________________ 80 
+3.3. 
+Revue des dépenses ____________________________________________________ 91 
+3.4. 
+Encours des engagements _______________________________________________ 91 
+4. 
+Dette régionale ___________________________________________________________ 96 
+4.1. 
+Les principes de gestion de la dette ________________________________________ 97 
+4.2. 
+La dette régionale _____________________________________________________ 99 
+4.3. 
+La dette garantie _____________________________________________________ 108 
+4.4. 
+La dette régionale consolidée (version Maastricht) ___________________________ 111 
+4.5. 
+Le rating financier ____________________________________________________ 114 
+
+3 
+ 
+4.6. 
+La centralisation financière des trésoreries des Unités d’Administration Publique 
+wallonnes __________________________________________________________________ 115 
+5. 
+Trésorerie _____________________________________________________________ 118 
+5.1. 
+Les flux de recettes ___________________________________________________ 118 
+5.2. 
+Les flux de dépenses __________________________________________________ 121 
+ANNEXES ______________________________________________________________ 123 
+ANNEXE 1 : Regroupements fonctionnel et économique des recettes et des dépenses de la 
+Région wallonne ______________________________________________________________ 124 
+ANNEXE 2 :  Inventaire des dépenses fiscales _____________________________________ 136 
+ 
+ 
+ 
+
+4 
+ 
+Introduction 
+Les propositions budgétaires des différentes administrations ont été transmises le 18 août 2025 aux 
+Ministres. Ces propositions ont été analysées et consolidées par chaque cabinet ministériel et elles ont 
+fait l’objet de discussions en réunions bilatérales courant septembre. La circulaire 2025/03 approuvée 
+par le Gouvernement wallon le 5 juin 2025 a fixé notamment les modalités des travaux relatifs à la 
+confection du budget initial 2026. 
+Le Gouvernement s’est réuni en conclave budgétaire début octobre. Les résultats de ces discussions ont 
+été traduits dans les documents budgétaires qui ont été transmis au Parlement de Wallonie.  
+Un glossaire des termes budgétaires fréquemment utilisés dans la pratique budgétaire de la Région est 
+disponible sur le site du SPW Finances.  
+L’exposé général est composé de quatre parties. Dans un premier temps, les lignes directrices du budget 
+sont étayées. Cette première partie de l’exposé général comprend les soldes budgétaires, les dépenses 
+primaires nettes ainsi que le cadre et les orientations de politiques générales. Dans un deuxième temps, 
+vient la partie relative à la synthèse des recettes et des dépenses. Une analyse de sensibilité est ensuite 
+présentée au sein de la troisième partie. Enfin, un rapport budgétaire et financier est exposé et comprend 
+un chapitre sur les projections pluriannuelles et un chapitre reprenant les recettes et les dépenses de la 
+Région wallonne pour l’année 2026. Cette quatrième partie comprend également un chapitre relatif à la 
+dette ainsi que la trésorerie de la Région wallonne.  
+Préambule 
+L’élaboration des budgets s’inscrit dans le cadre du décret du 15 décembre 2011 portant organisation 
+du budget, de la comptabilité et du rapportage des unités d’administration publique wallonnes (décret 
+« WBFin »). 
+Cette législation régionale met en œuvre l’autonomie des entités fédérées en matière d’organisation 
+budgétaire et financière, prévue au titre VII de la loi spéciale du 16 janvier 1989 relative au financement 
+des Communautés et des Régions, récemment modifiée dans le cadre de la Sixième Réforme de l’Etat 
+par loi spéciale portant réforme du financement des Communautés et des Régions, élargissement de 
+l'autonomie fiscale des Régions et financement des nouvelles compétences. Cette réforme organise un 
+important transfert de compétences fédérales vers les entités fédérées et révise plusieurs mécanismes de 
+financement des Communautés et Régions.  
+L’élargissement des compétences des entités fédérées concerne principalement la politique de l’emploi, 
+des prestations familiales, des soins de santé et d’aide aux personnes âgées, de la mobilité mais aussi de 
+certaines dépenses fiscales à l’impôt des personnes physiques (logement, dépenses d’investissement 
+économiseur d’énergie, …).  
+En matière de financement, la Région wallonne dispose d’une autonomie fiscale accrue par le biais de 
+l’impôt des personnes physiques (IPP) mais aussi d’une responsabilisation renforcée liée aux recettes 
+fiscales. Ainsi, la Loi spéciale du 6 janvier 2014 révise les mécanismes de financement actuels et 
+organise le financement des nouvelles compétences transférées.  
+Enfin, parallèlement à la Sixième Réforme de l’Etat, le décret du 11 avril 2014 a prévu un transfert de 
+compétences entre la Communauté française et la Région Wallonne. 
+Le budget demeure l’acte qui prévoit et autorise dans des décrets et pour chaque année budgétaire (du 
+1er janvier au 31 décembre), toutes les recettes et toutes les dépenses, sans compensation entre elles.  
+L’article 9 du décret « WBFin » stipule que le budget est accompagné des documents informatifs et 
+justificatifs suivants : un exposé général et un exposé particulier. L’exposé général présente notamment 
+les lignes directrices du budget, une synthèse des recettes et des dépenses, le contexte socio-économique 
+dans lequel elles s’inscrivent, un rapport financier, un inventaire des dépenses fiscales. Il doit également 
+présenter une projection pluriannuelle des recettes et des dépenses.  
+
+5 
+ 
+L’article 10 du décret « WBFin » précise que « le Gouvernement dépose, au plus tard à la mi-novembre 
+de l’année précédente, les projets de décret du budget de l’année budgétaire accompagnés des 
+documents visés à l’article 9, devant le Parlement qui les adopte au plus tard le 31 décembre suivant. 
+Le décret contenant les recettes du budget doit être publié au Moniteur belge du 31 décembre au plus 
+tard ».  
+Par ailleurs, la Région wallonne s’est dotée d’un système comptable moderne appelé WBFIN-SAP. 
+Le budget 2025 doit être élaboré selon les dispositions du décret « WBFin ». Le décret « WBFin » 
+reproduit les principes fondamentaux de légalité, d’annualité, d’universalité et d’unité du budget, qui 
+demeure un acte politique d’estimation des recettes et d’autorisation des dépenses auxquelles des crédits 
+sont attribués. Le budget est un instrument de gestion disponible notamment pour le Gouvernement, le 
+Parlement et les SPW en vue d'une utilisation optimale des deniers publics. 
+Champ d’application du décret « WBFin » : 
+Le décret « WBFin » s’applique aux Services du Gouvernement wallon (administrations, cabinets 
+ministériels et cellules assimilées) qui, sur le plan comptable, forment une seule entité et aux entreprises 
+régionales. Il régit également les « services administratifs à comptabilité autonome » (SACA), 
+anciennement dénommés « services à gestion séparée ». Non dotés de la personnalité juridique, ces 
+services sont néanmoins constitués en entités comptables distinctes, disposant d’une trésorerie et d’une 
+comptabilité qui leur sont propres. En Région wallonne, cela concerne actuellement l’Agence wallonne 
+de l’Air et du Climat (AWAC), l’Agence wallonne du Patrimoine (AWaP) et l’Organisme Payeur de 
+Wallonie (OPW). Enfin, les modifications décrétales intervenues le 17 décembre 2015 ont élargi le 
+champ d’application du décret « WBFin » aux organismes administratifs publics et a emporté 
+abrogation, pour ce qui concerne les organismes qui y étaient toujours soumis, de la loi du 16 mars 1954 
+relative au contrôle de certains organismes d’intérêt public. 
+Structure du budget :  
+Les budgets conservent une structure arborescente :  
+- 
+les estimations de recettes sont structurées en subdivisions réparties ensuite en domaines 
+fonctionnels en suivant la classification économique SEC. Dans WBFIN-SAP, le code SEC est 
+repris dans le « compte budgétaire » (aux positions 2 à 5) ; 
+- 
+les estimations de dépenses sont structurées en :  
+o divisions organiques. Dans WBFIN-SAP, la division organique (DO) est intégrée à la 
+notion de centre financier (CF). Chaque division organique comporte toujours deux 
+types de programmes : un programme fonctionnel, regroupant les dépenses générales 
+de fonctionnement, et un ou plusieurs programmes opérationnels pour les dépenses 
+consacrées au financement d’une activité ou d’un ensemble d’activités spécifiques. 
+o en programmes. Dans WBFIN-SAP, le programme sera enregistré dans la notion de 
+domaine fonctionnel (3 premières positions) ;  
+o en domaines fonctionnels (DF), au niveau desquels la classification économique SEC 
+sera également suivie.  
+La structure des budgets des recettes et des dépenses est présentée sur le site du SPW Finances.  
+ 
+ 
+ 
+ 
+
+6 
+ 
+Première partie – Lignes directrices du budget 
+Sous cette première partie, les lignes directrices du budget seront exposées et comprennent les 
+paramètres macroéconomiques (chapitre 1), les soldes budgétaires (chapitre 2), les dépenses primaires 
+nettes (chapitre 3) ainsi qu’un cadre et des orientations de politiques générales (chapitre 4). 
+1.  Paramètres macroéconomiques 
+Conformément à la loi spéciale de financement, les paramètres macroéconomiques retenus pour 
+l’élaboration du budget sont ceux prévus par le budget économique établi par le Bureau fédéral du Plan 
+et approuvé par l’Institut des Comptes Nationaux (I.C.N).  
+Pour le budget 2026 initial, les paramètres utilisés proviennent du budget économique de septembre 
+2025 :  
+ 
+Budget 2026 initial 
+Croissance de l’indice des prix à la consommation 
+1,4% 
+Croissance réelle du PIB 
+1,2% 
+ 
+Compte tenu des prévisions mensuelles de l’indice santé, l’indice pivot suivant (133,28) devrait être 
+atteint en janvier 2026. Par conséquent, les allocations sociales et les salaires dans la fonction publique 
+seraient une nouvelle fois adaptés au coût de la vie, en d’autres termes augmentés de 2% en avril 2026. 
+L'indice pivot suivant (135,95) ne serait pas dépassé en 2026. 
+ 
+ 
+ 
+ 
+
+7 
+ 
+2. Soldes budgétaires 
+Le tableau ci-dessous reprend les différents soldes de la Wallonie pour l’année 2026 : 
+ 
+Soldes budgétaires (milliers €) 
+2025 ini 
+2026 Ini 
+Variation 
+  
+  
+  
+  
+(1) RECETTES 
+19.123.923 18.515.734 
+-608.189 
+Recettes 6ème réforme 
+7.046.973 
+7.003.520 
+-43.453 
+Recettes Ste-Emilie 
+4.670.739 
+4.742.307 
+71.568 
+Recettes diverses du Fédéral 
+75.171 
+75.522 
+351 
+Moyens issus du niveau régional  
+4.461.113 
+4.310.683 
+-150.430 
+Recettes St-Quentin 
+443.730 
+443.784 
+54 
+Produits de refinancement d'emprunts 
+1.396.597 
+1.105.536 
+-291.061 
+RRF et Repower 
+1.029.600 
+834.382 
+-195.218 
+(2) DEPENSES 
+22.029.416 21.335.748 
+-693.668 
+  
+  
+  
+  
+(3) SOLDE BRUT A FINANCER = (1)-(2) 
+-2.905.493 -2.820.014 
+85.479 
+  
+  
+  
+  
+(4) CORRECTIONS SEC 
+618.998 
+804.278 
+185.280 
+Solde du regroupement économique 
+-469.943 
+-254.054 
+215.889 
+Amortissements 
+8.941 
+9.032 
+91 
+Sous-utilisation de crédits 
+609.000 
+609.000 
+0 
+OCPP nets 
+309.917 
+282.920 
+-26.997 
+Autres 
+161.083 
+157.380 
+-3.703 
+(5) SOLDE SEC 
+= (3) + (4) 
+-2.286.495 -2.015.736 
+270.759 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+
+8 
+ 
+Les recettes 
+Les recettes courantes représentent 72% des recettes totales (89% des recettes hors produits d’emprunts). 
+Il s’agit principalement de recettes transférées (Fédéral et Communauté française) et de recettes fiscales 
+telles que les additionnels à l’IPP (sous réduction des dépenses fiscales) et les taxes et impôts régionaux.   
+Les deux autres sources de recettes sont les recettes de capital dont les recettes européennes et les 
+produits d’emprunts. 
+Les graphiques suivants représentent la répartition des grandes sources de recettes de la Région wallonne 
+avec et hors produits d’emprunts. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 
+ 
+Les dépenses 
+Au niveau du poste de dépenses et suite à la 6ème réforme de l’État, 35 % des dépenses sont réalisées 
+en matière de santé, de protection sociale, d’handicap et de la famille (allocations familiales). Viennent 
+ensuite l’emploi avec le financement du Forem (dont le dispositif APE) et le financement des pouvoirs 
+locaux.  
+Les autres dépenses comprennent notamment les dépenses en matière de mobilité et infrastructures, des 
+subventions et dotations, etc. 
+Les graphiques suivants représentent la répartition des dépenses de la Région wallonne avec et hors 
+remboursements d’emprunts. 
+ 
+
+10 
+ 
+3. Dépenses primaires nettes 
+3.1. 
+Nouveau cadre budgétaire général 
+La réforme du cadre de gouvernance économique dans l’Union européenne, entrée en vigueur le 30 avril 
+2024, apporte une modification substantielle dans la manière d’appréhender les objectifs budgétaires 
+des pays et des entités. 
+Auparavant, les objectifs des Etats membres étaient calculés en fonction d’un objectif de solde structurel, 
+actualisé chaque année. 
+Désormais, les nouvelles règles européennes s’appuient sur une analyse pluriannuelle de soutenabilité 
+pour déterminer une trajectoire budgétaire de référence. En cas de non-respect des critères fondamentaux 
+du traité de Maastricht (déficit inférieur à 3% du PIB, dette inférieure à 60% du PIB), une période 
+d’ajustement budgétaire de 4 ans est déterminée par la Commission européenne. Au terme de celle-ci, 
+le déficit et la dette sont supposés converger vers les objectifs fondamentaux, à politique inchangée. 
+Lorsque des investissements productifs et/ou des réformes structurelles majeures sont mises en place, 
+l’UE autorise un allongement de la période d’ajustement à 7 ans. 
+Sur base des trajectoires soutenables obtenues, la Commission européenne en déduit le taux de 
+croissance maximum correspondant des dépenses primaires nettes pour respecter les objectifs. Cette 
+norme de croissance des dépenses constitue alors l’indicateur unique d’évaluation pour l’Europe. 
+3.2. 
+Situation de la Belgique 
+Le 18 mars 2025, la Belgique a soumis son plan budgétaire et structurel de moyen terme 2024-2029 à 
+la Commission européenne en sollicitant une trajectoire d’ajustement à 7 ans. La trajectoire a été 
+validée quelques semaines plus tard par l’Europe, principalement en raison des réformes structurelles 
+importantes au niveau fédéral (chômage et pension). 
+Elle mène aux objectifs suivants pour la Belgique :  
+ 
+Tableau 1 : Objectif de taux de croissance des dépenses primaires pour la Belgique pour la période 
+2025-2029 
+2025 
+2026 
+2027 
+2028 
+2029 
+3,6% 
+2,5% 
+2,5% 
+2,1% 
+2,1% 
+Source : Plan budgétaire et structurel de moyen terme 2024-2029 de la Belgique, p.12 
+ 
+En parallèle, la Belgique a également activé la clause dérogatoire nationale, permettant d’exclure de la 
+trajectoire une partie des dépenses de défense sur la période 2025-2028, offrant ainsi une plus grande 
+flexibilité pour le respect de la norme belge de croissance des dépenses primaires nettes. 
+3.3. 
+Répartition interne des objectifs 
+Compte-tenu des nouvelles directives européennes, les règles belges de répartition interne des efforts 
+budgétaires ont dû être adaptées. Le cadre juridique est basé sur l’accord de coopération du 13 
+décembre 2013. Cet accord confie plusieurs missions à la section Besoins de financement du Conseil 
+supérieur des Finances (CSF). 
+En juillet 2024, le CSF a publié une nouvelle méthodologie de répartition des efforts internes visant à 
+transposer les objectifs de soldes en norme de croissance des dépenses primaires nettes. 
+La méthodologie s’appuie sur une clé de répartition qui serait appliquée sur le solde structurel de la 
+Belgique en fin de période d’ajustement. 
+La clé préférentielle du CSF est construite à partir de la moyenne de deux autres clés, calculées sur 
+l’année 2016 : 
+
+11 
+ 
+- 
+La clé « dépenses primaires finales » ; 
+- 
+La clé « recettes propres ». 
+Tableau 2: Comparaison des différentes clés de répartition envisagées par le CSF 
+Entité 
+Clé 
+dépenses 
+Clé 
+recettes 
+Clé CSF 
+Clé solde 
+structurel 
+Clé part 
+dette 
+publique 
+Entité I 
+57,8% 
+78,5% 
+68,2% 
+60,2% 
+79,5% 
+Entité II 
+42,2% 
+21,5% 
+31,8% 
+39,8% 
+20,5% 
+Communauté flamande 
+22,1% 
+12,4% 
+17,2% 
+15,2% 
+5,7% 
+Dont administrations locales 
+flamandes 
+4,9% 
+3,9% 
+4,4% 
+n.d. 
+n.d. 
+Communauté française 
+4,1% 
+0,6% 
+2,4% 
+4,9% 
+2,0% 
+Région wallonne 
+8,2% 
+5,5% 
+6,8% 
+9,3% 
+5,9% 
+Dont administrations locales 
+wallonnes 
+3% 
+2,0% 
+2,5% 
+n.d. 
+n.d. 
+Région de Bruxelles-Capitale 
+2,7% 
+2,2% 
+2,4% 
+5,0% 
+2,0% 
+Dont 
+administrations 
+bruxelloises 
+1,1% 
+0,8% 
+0,9% 
+n.d. 
+n.d. 
+Communauté germanophone 
+0,2% 
+0% 
+0,1% 
+0,5% 
+0,2% 
+Dont administrations locales 
+germanophones 
+0,1% 
+0% 
+0% 
+n.d. 
+n.d. 
+Cocof 
+0,2% 
+0% 
+0,1% 
+0,1% 
+0% 
+VGC 
+0,1% 
+0% 
+0% 
+0,1% 
+0% 
+Cocom 
+0,6% 
+0% 
+0,3% 
+-0,1% 
+0% 
+Non réparti 
+0,4% 
+0,4% 
+0,4% 
+0,1% 
+0,6% 
+Source : Rapport du CSF de juillet 2024, p.33 
+ 
+La proposition du CSF constitue une première base de négociation pour un nouvel accord de 
+coopération. Toutefois, elle ne constitue pas un consensus pour l’ensemble des entités. En l’absence 
+d’accord, l’objectif de croissance des dépenses primaires nettes de la Wallonie reste donc incertain à ce 
+stade. 
+A titre purement indicatif, l’exercice de respect de la norme est réalisé ci-dessous pour l’année 2026, en 
+considérant que la clé CSF serait adoptée sans autres corrections.  
+ 
+Tableau 3 : Calcul du respect de la norme de croissance des dépenses primaires nettes pour la Région 
+wallonne en 2026, selon la clé CSF d'avril 2025 (en millions EUR) 
+ 
+2025 
+2026 
+Dépenses totales 
+20 973 
+20 694 
+- charges d’intérêt 
+1 007 
+1 102 
+- financements UE 
+515 
+453 
+- cofinancements européens 
+129 
+215 
+- DRM 
+-240 
+-158 
+- one-off 
+99 
+25 
+= Dépenses primaires nettes 
+19 463 
+19 056 
+Evolution dépenses primaires nettes de la Région wallonne 
+ 
+-2,09% 
+Norme clé CSF avril 2025 
+ 
+0,92% 
+Différence évolution – norme CSF 
+ 
+-3,01% 
+  
+Le  
+Tableau 3 repart du total des dépenses consolidées en Région wallonne. Ce montant est corrigé par 
+plusieurs éléments pour aboutir à la définition des dépenses primaires nettes, telle qu’établie par 
+l’Europe :  
+- 
+Les charges d’intérêt ; 
+- 
+Les financements européens (plan de relance) ; 
+- 
+Les cofinancements européens ; 
+
+12 
+ 
+- 
+Les mesures discrétionnaires en recettes (essentiellement, la réforme des droits 
+d’enregistrement) ; 
+- 
+Les one-off validés par l’Europe (Ukraine, inondations). 
+Il en résulte que les dépenses primaires nettes wallonnes diminuent de 2,09% entre 2025 et 2026, alors 
+que la norme CSF autoriserait une croissance de 0,92% pour l’année 2026. La Région wallonne ferait 
+donc mieux de près de 3 points de pourcentage que cet objectif théorique. 
+ 
+4. Cadre et orientations de politiques générales 
+4.1. 
+Ministre-Président et Ministre du Budget, des Finances, de la Recherche et du Bien-
+être animal 
+Relations Internationales 
+La Déclaration de Politique régionale 2024-2029 jette les bases du renforcement de l’action 
+internationale de la Wallonie selon un principe d’intensification de son action dans le cadre d’un champ 
+d’intervention priorisé et correspondant aux objectifs stratégiques qui seront fixés par le Gouvernement. 
+Ainsi, la stratégie de politique internationale de la Wallonie a été définie dans le cadre d’une note de 
+politique internationale, commune avec la Fédération Wallonie-Bruxelles, présentée le 7 juillet 2025 en 
+Commission. 
+Il nous revient de faire entendre une voix wallonne qui défend ses intérêts avec détermination, qui 
+valorise ses talents avec fierté et qui promeut ses valeurs avec exigence. 
+La Wallonie met en avant un engagement actif dans la coopération transfrontalière au sein des 
+coopérations existantes, telles que la Grande Région, le Benelux, l’Euregio Meuse-Rhin ou encore 
+l’Eurométropole Lille-Courtrai-Tournai. 
+En 2026, la Wallonie préside encore la « Grande Région », qui regroupe la Région wallonne, les 
+Communautés française et germanophone, les Länder de Sarre et de Rhénanie-Palatinat en Allemagne, 
+la Région Grand Est en France et le Grand-Duché de Luxembourg.  Cette année est l’occasion de 
+renforcer nos échanges avec les pays partenaires et les acteurs économiques, comme illustré par le 
+Sommet de la Grande Région tenu le 25 novembre 2025, en vue de dynamiser le déploiement des 
+activités de nos entreprises et la prospérité sociale et environnementale wallonne.  
+Notre coopération internationale doit viser des partenariats cohérents, objectivés, durables et 
+mutuellement bénéfiques, qui seront également des leviers dans la politique plus large de nos entités, de 
+la Belgique et de l’Union européenne. Ces instruments devront répondre à deux exigences : la lisibilité 
+pour les bénéficiaires et l’impact stratégique pour nos politiques publiques. Ainsi, une réforme de nos 
+outils de coopération internationale est amorcée afin de mieux mobiliser ces outils pour répondre à nos 
+priorités, améliorer la lisibilité, la prévisibilité et l’évaluation des résultats. 
+L’Union européenne reste, pour la Wallonie, notre premier cadre d’action, de partenariat, d’influence. 
+La Wallonie entend pleinement prendre sa place et œuvrer chaque jour au renforcement d’une Union 
+européenne plus intégrée et efficace, mais aussi plus juste et protectrice. Dans ce cadre, les négociations 
+relatives au Cadre Financier Pluriannuel 2028-2034 sont capitales pour la définition du futur du projet 
+européen. La Wallonie défend le maintien d’une politique de cohésion avec un budget fort à la hauteur 
+des nombreux défis qu’elle continue de relever dans toutes les régions d’Europe, avec une politique 
+agricole commune forte avec un budget renforcé, basé sur deux piliers, qui garantissent un secteur 
+agricole en bonne santé économique ainsi qu’un soutien ambitieux à la recherche, à l’innovation, à la 
+réindustrialisation. 
+La Wallonie entend également renforcer le positionnement de la Wallonie et de ses acteurs dans le cadre 
+des programmes de financement européen, de projets, de réseaux, d’alliances et de partenariats 
+
+13 
+ 
+européens, particulièrement à destination des petites et moyennes entreprises et autres organismes 
+concernés.  
+Enfin, la Wallonie continuera de défendre une approche ouverte mais équilibrée du libre-échange. Les 
+accords commerciaux doivent être des leviers pour renforcer notre autonomie stratégique et diversifier 
+nos approvisionnements tout en protégeant nos secteurs sensibles – notamment agricoles – et en 
+garantissant le respect de nos normes sociales, sanitaires et environnementales.   
+ 
+Fonds structurels 
+La politique de cohésion, au travers des fonds structurels européens (programmes Feder-FTJ, Fonds 
+social européen et Interreg) permet à notre Région de consentir à des investissements importants et 
+structurants. Elle représente, pour la programmation actuelle 2021-2027, une enveloppe globale de plus 
+de 3 milliards d’euros cofinancée par l’Union européenne, la Wallonie, la Fédération Wallonie-
+Bruxelles, la Commission communautaire française et les bénéficiaires. 
+ 
+Le FEDER  
+En Wallonie, l’Europe investit 778 millions euros sur le Programme FEDER-FTJ sur l’ensemble de la 
+programmation 2021-2027.  
+Pour la période de programmation actuelle 2021-2027, les Provinces du Hainaut, de Namur et de Liège 
+bénéficient du statut de région en transition, alors que la Province du Luxembourg a le statut de région 
+moins développée. Le Brabant wallon est considéré quant à lui comme une région plus développée. 
+374 projets ont été sélectionnés dans le cadre du premier appel à projets FEDER. Ils représentent un 
+investissement de 775,1 millions pour des projets sur le territoire wallon : 314,3 millions à charge de 
+l’UE, 428 millions à charge de la Région wallonne et 32,8 millions à charge des opérateurs. 
+L’enveloppe dédiée aux années 2026 et 2027 a fait l’objet d’une allocation au cours de l’année 2025, 
+faisant suite à la réalisation de l’évaluation à mi-parcours et à la publication par la Commission 
+européenne des Règlements relatifs à la modernisation de la politique de Cohésion en septembre 2025. 
+Le montant de la flexibilité, réservé pour les années 2026-2027, est donc alloué à hauteur de 86.876.226 
+euros vers des priorités telles que la recherche, la formation, le logement durable ou encore la défense. 
+ 
+Le fonds social européen (FSE+) 
+Au total, 427 projets FSE+ ont été sélectionnés lors du premier appel à projets. Ils représentent un 
+investissement de 994,6 millions, dont 497,3 millions sont pris en charge par l’UE. La différence est 
+apportée par les opérateurs à partir de subventions publiques. Les opérateurs ont jusqu’au 31 décembre 
+2025 pour mener leur projet à bien.  
+L’enveloppe dédiée aux années 2026 et 2027 fera l’objet d’une allocation selon un processus 
+d’évaluation et de reconduction des opérations. 
+ 
+INTERREG 
+Outre ces programmes FEDER/FTJ et FSE régionaux, la Wallonie continue à investir dans les 
+Programmes 
+de 
+Coopération 
+Transfrontalière 
+via 
+INTERREG 
+VI : 
+Interreg 
+France/Wallonie/Vlaanderen, Interreg Grande Région, Interreg Meuse-Rhin. La Wallonie prend 
+également part aux Programmes Interreg transnationaux et interrégionaux Interreg Europe du Nord-
+Ouest, Interreg URBACT et Interreg EUROPE. 
+Programmation 2021-2027 
+
+14 
+ 
+Ces programmes permettent de soutenir des projets de coopération le long de nos frontières terrestres 
+en matière de recherche, formation, emploi, transition énergétique, mobilité, tourisme ou encore dans le 
+secteur de la santé.  
+Pour l’Interreg France-Wallonie-Vlaanderen, le programme dispose d’un budget FEDER de 
+286.882.570 €. 
+Pour l’Interreg Europe du Nord-Ouest, le programme dispose d’un budget FEDER de 310.480.455 €. 
+Pour Interreg Grande Région, le Programme dispose d’un budget FEDER de 181.942.401,00 €.  
+Pour l’Interreg Euregio Meuse-Rhin, le Programme dispose d’un budget FEDER de 125.677,095 €. 
+Pour l’Interreg Europe et Urbact : le programme Interreg Europe dispose d’un budget FEDER de 
+379.482.670 €. Le programme URBACT dispose pour sa part d’un budget FEDER de 79.769.799 €. 
+Les différents Programmes de coopérations relatifs à Interreg ont fait l’objet d’une validation par le 
+Gouvernement. Plusieurs appels se déroulent sur chaque Programme tout au long de la Programmation.  
+ 
+Provisions interdépartementales pour la programmation 2021-2027 des cofinancements 
+européens 
+La DO 36 (D F121.001 « Cofinancements européens programmation 2021-2027 ») est alimentée à 
+hauteur de 119.940.000 EUR en CL. 
+La situation budgétaire de cette programmation sera réévaluée à l’occasion de l’ajustement 2026. 
+ 
+Recherche 
+La politique régionale de la recherche constitue un atout aux yeux des investisseurs et des chercheurs en 
+Wallonie. Dans ce cadre, la Wallonie doit pouvoir se doter d’une politique industrielle ambitieuse 
+décomplexée participant au redéploiement industriel européen et à son autonomie stratégique, en vue de 
+contribuer au développement de l’économie régionale et tout en s’inscrivant pleinement dans la double 
+transition numérique et bas-carbone.  
+Dans un objectif d’amplification de l’impact sur le déploiement économique de la Wallonie, la note 
+d’orientation relative à la réforme de la politique de recherche présentée au Gouvernement le 23 octobre 
+dernier vise à renforcer l’efficacité, la transparence et l’impact économique des dispositifs de soutien. Il 
+s’agit par-là de renforcer leur contribution directe au développement économique de la Wallonie, de 
+mieux structurer nos efforts, de rendre les synergies plus efficaces et de faire de la R&D un levier concret 
+pour la compétitivité.  
+La réforme de la politique de la Recherche met en place un pilotage stratégique axé sur les résultats, 
+fondé sur l’évaluation des besoins. La réforme s’accompagne d’un choc de simplification réglementaire 
+et administratif, d’une digitalisation accrue, d’une meilleure adaptation des dispositifs aux réalités des 
+entreprises, notamment un soutien à toutes les étapes du processus de développement (en ce compris le 
+soutien aux investissements relatifs à la phase de développement préindustriels), des dispositifs 
+renforcés pour les PME, une ouverture à l’international et une meilleure lisibilité des aides accessibles. 
+La mise en œuvre de la réforme sera ainsi mise en œuvre sur base des orientations identifiées. Une 
+attention particulière sera consacrée à la valorisation des résultats de la Recherche, sur base d’une 
+évaluation de l’impact des dispositifs actuels, en intégrant des actions visant à intensifier les relations 
+entre les universités et les entreprises. 
+Tenant compte des enseignements, une nouvelle stratégie relative à la massification des centres de 
+Recherche sera mise en œuvre, notamment dans le cadre de la révision de l’Arrêté du Gouvernement 
+wallon, qui fixe les conditions d’agrément des centres de recherche agréés, dans le cadre plus global de 
+la révision du décret recherche.   
+La participation des acteurs wallons aux projets européens de R&D demeure en deçà de leur 
+potentiel. La mise en place d’un cadre stratégique ambitieux de participation européenne des acteurs de 
+
+15 
+ 
+la R&D apparaît nécessaire et doit se concevoir conjointement avec la Fédération Wallonie Bruxelles. 
+Un plan d’action stratégique sera ainsi élaboré, doté d’objectifs clairs à chaque étape du cycle de 
+participation européenne des acteurs de la recherche, ce afin de transformer la participation européenne 
+en levier de développement scientifique, économique et sociétal. 
+En outre, un accent spécifique sera placé sur le soutien au développement et au renforcement de la 
+position de la Wallonie dans les secteurs identifiés comme stratégiques. 
+La mise en place d’une meilleure articulation entre les activités de la Région Wallonne et celles de la 
+Fédération Wallonie Bruxelles sera également poursuivie afin d’assurer un continuum entre les activités 
+de recherches financées par les deux entités.  
+ 
+Bien-être animal 
+La stratégie relative au Bien-être animal figurant dans la note d’orientation du 3 juillet 2025 met en 
+œuvre la Déclaration de politique régionale 2024-2029 en proposant des mesures concrètes qui 
+renforceront la protection et le bien-être de tous les animaux, en reconnaissant pleinement ceux-ci en 
+tant qu’êtres sensibles. Il s’agira de revoir le Code wallon du Bien-être des animaux, au regard des 
+objectifs fixés par celle-ci, mais aussi pour s’aligner sur la réalité de terrain et permettre une 
+simplification administrative.  
+La Déclaration de politique régionale prévoit notamment de rendre au permis de détention sa fonction 
+initiale qui est prioritairement de lutter contre la maltraitance animale.  Actuellement, le permis de 
+détention impose au citoyen de fournir un extrait de fichier central attestant qu’il n’a pas été condamné 
+pour maltraitance ou négligence animale pour pouvoir acquérir un animal de compagnie. Mais rien 
+n’empêche actuellement un citoyen d’obtenir un permis vierge s’il vient, par exemple, d’être dessaisi de 
+ses animaux pour suspicion de négligence ou maltraitance. 
+Pour contrer les effets pervers de sa mise en œuvre actuelle et les lourdeurs administratives pour les 
+communes, il est prévu de remplacer le permis de détention par un certificat de confiance. Ce certificat 
+de confiance sera numérique, délivré automatiquement aux citoyens sans condamnation et accessible 
+via « Mon Espace Wallonie ». Il y aura un délai de plusieurs jours entre la demande et l’obtention de ce 
+certificat, afin de limiter les achats et adoptions impulsifs. Il prendra en considération l’ensemble des 
+individus composant le ménage qui souhaite accueillir un animal. Il est également proposé de prévoir la 
+suspension provisoire du certificat en cas de procédure en cours relative à la négligence ou à la 
+maltraitance, pour une durée maximale de 60 jours avant toute décision (via le fonctionnaire 
+sanctionnateur ou le juge). 
+La révision du Code du Bien-être des animaux comprendra également un volet relatif au renforcement 
+des sanctions en cas de maltraitance ou de négligence, en procédant à la révision de la gravité de 
+certaines infractions.  
+ 
+En outre, l’interdiction de l’abattage à domicile des ovins, caprins et porcins pour les particuliers et de 
+la vente d’animaux sur les marchés communaux sera mise en œuvre dans le cadre de la révision du 
+Code. 
+Par ailleurs, il s’agira de continuer à soutenir les communes pour leurs actions en matière de bien-être 
+animal, en ciblant davantage les moyens alloués aux besoins identifiés sur le terrain, mais aussi en 
+accordant une importance particulière à l’information et à la formation de ces acteurs qui jouent un rôle 
+primordial dans la lutte contre la maltraitance animale. 
+Enfin, afin de renforcer l’efficacité de cette politique, le Gouvernement entend désormais structurer la 
+prévention, notamment contre l’abandon, mais aussi la sensibilisation autour d’un appel à projets 
+pluriannuel et mieux réparti sur le territoire et par thématique. Le portail du Bien-être animal sera 
+également enrichi de ressources pédagogiques variées et de campagnes ciblées. Un encadrement 
+pédagogique des futurs détenteurs sera par ailleurs mis en place afin de prévenir les adoptions 
+
+16 
+ 
+impulsives, promouvoir une détention responsable et d’informer correctement sur les spécificités 
+comportementales, sanitaires et environnementales de certaines races ou catégories d’animaux. 
+4.2. 
+Vice-Président et Ministre du Territoire, des Infrastructures, de la Mobilité et des 
+Pouvoirs locaux 
+Aménagement du territoire 
+Les enjeux essentiels de l’aménagement du territoire sont exprimés dans la déclaration de politique 
+régionale qui vise le développement d’un territoire agile, attractif et résilient.  
+Le Gouvernement promeut un développement territorial attractif et durable qui intègre les besoins 
+actuels et futurs de la société et qui est en mesure de s’adapter aux changements climatiques en cours.  
+Il met l’accent sur la qualité de vie des villes et villages en ce compris la cohésion sociale, la préservation 
+des terres agricoles et des espaces verts ainsi que sur la biodiversité. Il poursuit également sa politique 
+ambitieuse en matière de lutte contre l’artificialisation des sols et contre l’étalement urbain. 
+Pour ce faire, il veille à la mise en œuvre des réformes du Code de développement territorial (CoDT) et 
+du Schéma de développement du territoire (SDT), et entend, dans ce cadre, poursuivre son soutien aux 
+pouvoirs locaux notamment les communes rurales et/ou de petite taille dans la mise en œuvre 
+opérationnelle et budgétaire de leur schéma de développement communal (SDC) mais également dans 
+leurs prérogatives étendues en matière d’implantations commerciales.  
+Il entend également renforcer la communication et la sensibilisation des citoyens autour des enjeux de 
+lutte contre l’artificialisation des sols et de lutte contre l’étalement urbain afin que ceux-ci puissent 
+mieux adhérer aux politiques menées en matière d’aménagement du territoire. 
+Sur le plan économique, le Gouvernement a pour ambition de réindustrialiser le territoire de la Wallonie 
+et de soutenir son développement économique et social toujours dans le respect d’une utilisation 
+parcimonieuse et optimisée des sols. 
+Le Gouvernement s’est accordé sur une note d’orientation approuvant une stratégie transversale pour 
+renforcer l’attractivité du territoire wallon envers les projets industriels et économiques. L’ambition est 
+double : accroître la disponibilité de foncier économique, en valorisant en priorité les friches, et 
+rationaliser les procédures administratives, afin de simplifier le parcours des porteurs de projets. 
+Il est également indispensable de soutenir la reconversion des sites à réaménager et friches, le cas 
+échéant en recourant à des partenariats public-privé, en uniformisant les différents cadastres existants 
+afin de constituer une liste de sites « prêts à l’emploi » et en les actionnant. Les friches stratégiques – 
+identifiées notamment pour leur caractère multimodal – seront actionnées pour des besoins 
+exclusivement économiques. Les plus petites friches présentes dans les centres urbain et ruraux, où la 
+réindustrialisation ne sera pas propice seront dédiées aux projets immobiliers mixtes (logements, 
+bureaux, commerces et services) ou le cas échéant, en cas de contraintes techniques et/ou financières 
+élevées (en raison notamment de la pollution) à des espaces verts.  
+Pour parvenir à mettre en œuvre ces divers objectifs, la Wallonie doit également faire preuve de 
+simplification administrative, et veiller continuellement à la praticabilité des normes. Celle-ci passera 
+notamment par la dématérialisation effective des permis d’urbanisme pour fluidifier le processus 
+administratif en apportant plus de confort tant aux demandeurs, aux instances d’avis, aux citoyens 
+qu’aux autorités compétentes.  
+Un premier jalon va être franchi cette année 2026 avec, le 31 mars, le lancement de la dématérialisation 
+pour les demandes de permis d’urbanisme qui relèvent de la compétence du fonctionnaire délégué ou 
+du Gouvernement au sein de 20 communes pilotes (10 pour la direction extérieure de Namur et 10 pour 
+la direction extérieure de Hainaut 1).  
+Il s’agit d’un projet central car la dématérialisation des permis est essentielle pour moderniser l’action 
+publique et simplifier la vie des citoyens et des entreprises.  
+ 
+
+17 
+ 
+Mesures spécifiques pour le Schéma stratégique Multidisciplinaire 
+Le schéma stratégique du bassin-versant de l’Ourthe aval a été attribué fin 2025. En 2026, il sera lancé 
+un schéma stratégique sur un troisième bassin-versant. Celui-ci sera déterminé en fonction des 
+modélisations hydrologiques réalisées par la direction des cours d’eau non-navigables.   
+Mesures spécifiques pour le permis gouvernemental :  
+Dans le cadre du redéploiement territorial de l’économie et de l’industrie en Wallonie et de la 
+sécurisation des Projets d’Intérêt Stratégique, un projet de décret propose d’élargir la liste des projets 
+stratégiques visés par un permis gouvernemental tel que défini à l’article D.IV.25 du Code du 
+développement territorial qui fixe la liste des actes et travaux pour lesquels il existe des motifs impérieux 
+d’intérêt général et qui, de ce fait, sont visés par des permis de compétence Gouvernementale.  
+S’agissant de permis à enjeu, ceux-ci font souvent l’objet de recours administratifs et sont, in fine, traités 
+par le Gouvernement (le Ministre du Territoire) après un parcours administratif long. Le permis 
+gouvernemental permet de s’affranchir de la décision de 1ère instance, ce qui induit une accélération du 
+processus. 
+Mesures spécifiques à la rénovation urbaine/au développement urbain 
+Des modifications légistiques ont été apportées afin de réduire le taux de subvention pour les projets 
+relevant de la rénovation urbaine de 80 à 50% afin de soutenir plus de projets, avec les mêmes moyens 
+et de revoir le mode de liquidation en échelonnant celui-ci entre N+4 et N+7 pour garantir un usage 
+responsable des crédits disponibles et apurer prioritairement les engagements du passé.  
+L’objectif est d’assurer de cette manière la soutenabilité budgétaire et la pérennité de la politique de 
+soutien au développement urbain, politique centrale pour le développement territorial de notre Région. 
+ 
+Parcs d’activités économiques 
+Les infrastructures d’accueil des activités économiques sont sans conteste l’un des axes primordiaux de 
+la politique gouvernementale de développement et de soutien à l’économie. Afin de profiter de l’atout 
+que constitue le territoire wallon, il est indispensable de valoriser au mieux les espaces disponibles (ou 
+à libérer) dans le cadre de la politique de soutien économique. Pour traduire ces plans en actions 
+concrètes et développer de nouvelles activités économiques, la Wallonie veille à créer et à maintenir des 
+conditions d’accueil optimales pour l’implantation et le maintien des entreprises sur son territoire.  
+La Déclaration de politique régionale 2024-2029 ambitionne de soutenir un développement économique 
+résilient pour la Wallonie. Elle prévoit en ce sens de déployer d’ici 2030, 15 millions de m2, pour 
+favoriser la réindustrialisation et la création d’emplois sur notre territoire. Pour ce faire, le 
+Gouvernement entend renforcer la disponibilité des terrains en travaillant prioritairement sur la 
+valorisation des friches stratégiques, au travers de partenariats publics privés, mais également en 
+déployant un plan d’activation de nouveaux parcs d’activités économiques et en renforçant l’équipement 
+des parcs existants, tout en assurant une utilisation parcimonieuse et optimisée des sols et en préservant 
+les terres agricoles. 
+La Cour des comptes avait établi en mars 2023 un audit interpellant sur la politique d’accueil des 
+activités économiques. La Cour y dénonçait notamment l’absence de stratégie régionale et la 
+dissémination des moyens régionaux. 
+C’est pourquoi le Gouvernement s’est attelé à la préparation d’une réforme du décret du 2 février 2017 
+relatif au développement des parcs d’activités économiques, elle-même précédée d’une vision 
+stratégique s’inscrivant dans une trajectoire tenant compte de la réduction de l’artificialisation des sols 
+d’ici 2050 et de la nécessaire réindustrialisation du territoire. 
+Pour ce faire, l’Administration a désigné un consortium de consultants emmené par IDEA Consult en 
+vue d’élaborer pour la première fois une stratégie en la matière à l’échelle régionale. 
+
+18 
+ 
+Les premiers résultats de la mission confiée à IDEA Consult ont été présentés et débattus avec les 
+opérateurs de développement économique à l’automne 2025. Une note d’orientation stratégique sera dès 
+lors soumise prochainement au Gouvernement tenant compte des travaux et consultations en cours. 
+S’en suivra la rédaction d’un avant-projet de décret au premier semestre de l’année 2026, lequel devrait 
+être présenté au Parlement au deuxième semestre 2026. Au vu du calendrier de la réforme annoncée, le 
+budget 2026 n’a pas subi de modifications substantielles à ce stade au sein du programme 18.098. 
+Entre-temps, le Gouvernement veille à maintenir des conditions optimales pour l’accueil des entreprises 
+sur son territoire tout en favorisant l’intensification des usages économiques au sein des parcs d’activités 
+existants afin de préserver les espaces non artificialisés.  
+S’agissant de projets d’infrastructure, le financement  des actes et travaux éligibles ainsi que des frais 
+généraux est accordé aux opérateurs, d’une part, par des subventions réglementées au moyen des 
+domaines fonctionnels du programme 18.098 en crédits classiques et au moyen d’un mécanisme 
+d’emprunt par le biais de la S.A. SOWAFINAL, dont les annuités de l'emprunt sont remboursées au 
+travers des crédits classiques, et, d’autre part, par des subventions facultatives au moyen des fonds 
+structurels européens (essentiellement FEDER) et au moyen du plan inondations. Tout comme pour les 
+SAR, le programme SOWAFINAL 3 se poursuit sur crédits classiques, dans l’objectif de soulager les 
+charges de la dette. 
+ 
+Pouvoirs Locaux 
+Le Gouvernement affirme sa volonté de renforcer l’autonomie des communes, de simplifier les 
+mécanismes de financement et responsabiliser davantage les autorités locales dans leurs choix 
+d’investissement tout en veillant à une gestion rigoureuse et pérenne des finances locales.  
+Les réformes introduites s’inscrivent dans cette dynamique et visent à moderniser le soutien régional 
+aux investissements communaux en offrant aux communes des outils plus souples et plus lisibles. 
+Fonds Extraordinaire Régional d’Investissement (FERI) : confiance et responsabilisation  
+À partir du 1er janvier 2026, le FRIC est définitivement abrogé et remplacé par le FERI. L’aide au 
+financement des travaux subsidiés passe d’une logique de subsidiation contrôlée à une logique de 
+financement général sur base d’une dotation libre d’affectation.  
+Deux enveloppes distinctes sont alors créées : une enveloppe applicable aux villes et communes de 
+moins de 50.000 habitants et une dotation nouvelle « grandes villes » pour les communes de plus de 
+50.000 habitants.  
+En outre, le subside dédié à la fonction de Capitale régionale alloué à Namur est désormais consacré 
+sous forme de dotation « Namur Capitale ».  
+Les dotations “Grandes Villes” et “Namur Capitale” s’accompagne d’une simplification administrative 
+d’ampleur.  Plusieurs politiques poursuivant des objectifs similaires – notamment l’ancienne politique 
+des grandes villes – sont rassemblées au sein d’un cadre unique, cohérent et plus efficace. 
+CPAS 
+Concernant les CPAS, le Fonds spécial de l’aide sociale (FSAS) est maintenu en l’état. Aucune 
+économie n’est réalisée sur ce domaine fonctionnel.  
+Aides compensatoires : un nouveau cadre pour un financement local plus juste 
+Dans le même esprit de responsabilisation et d’équité entre entités locales, le Gouvernement a choisi de 
+remettre en question certains mécanismes hérités du passé qui conduisaient à ce que quelques communes 
+bénéficient de manière disproportionnée du soutien régional, au détriment d’autres territoires et de la 
+soutenabilité des finances régionales. Le complément régional dit « Plan Marshall » a ainsi été réformé 
+et transformé en aides compensatoires. Ce nouveau dispositif vise à maintenir un soutien aux nouveaux 
+investissements des entreprises, tout en évitant les effets d’aubaine et les dérives. Concrètement, le 
+dispositif s’articule autour d’exemptions ciblées sur deux taxes communales, la taxe sur la force motrice 
+
+19 
+ 
+et le précompte immobilier sur le matériel et outillage et pour une durée de cinq ans, période durant 
+laquelle la Région intervient à titre compensatoire. À l’issue de cette période, la commune retrouve 
+pleinement son autonomie fiscale, ce qui assure à la fois l’attractivité économique et la 
+responsabilisation locale, le tout dans un cadre budgétaire maîtrisé.  
+Trajectoire d’intervention provinciale dans le financement général des communes (direct ou indirect) 
+Le Gouvernement poursuit l’objectif de soutien au financement général des communes et entend 
+consacrer l’intervention des Provinces dans celui-ci. Ceci entend apporter la stabilité nécessaire aux 
+communes ; elles qui doivent absorber une série d’impacts résultant de décisions d’autres niveaux de 
+pouvoirs, notamment en termes de pension, de CPAS ou de zones de police et zones de secours. Les 
+premiers effets de cette trajectoire d’intervention se fera déjà sentir dans les budgets communaux 2026. 
+ 
+Mobilité, Infrastructures et Sécurité routière 
+En accord avec la vision FAST 2030, les objectifs du Gouvernement sont d’atteindre une mobilité 
+efficiente, fluide, accessible, sécurisée, fiable, partagée, décarbonée, respectueuse de l’environnement, 
+soutenante de la santé et inclusive. 
+Pour ce faire, le Gouvernement développe des solutions adaptées, attractives et guidées par la demande 
+actuelle et future tout en veillant à l’utilisation la plus efficace de chaque euro dépensé. Il assurera une 
+intermodalité efficace tout en permettant aux citoyens de choisir librement le mode de transport qui leur 
+convient le mieux selon leur situation, leur territoire et leurs besoins. 
+L’évaluation sera de mise pour différents dispositifs budgétaires afin d’être plus efficient pour atteindre 
+les objectifs de transfert modal et d’intermodalité. 
+Un large plan d’investissement portant sur les infrastructures sera présenté afin de réinvestir dans nos 
+routes tant sur le réseau structurant que non structurant avec également une attention particulière portée 
+aux ouvrages d’art et à la mobilité fluviale. 
+La sécurité des infrastructures passe également par la gestion des risques cyber ; le Gouvernement 
+entend ainsi renforcer la cybersécurité liée à l’informatique industrielle des infrastructures wallonnes. 
+Transport en commun 
+Dès le début de cette législature, force a été de constater que le Contrat de Service Public 2024-2028 
+(CSP) de l’OTW n’était pas financé de façon pérenne (« trajectoire indicative »). L’opérateur ne 
+disposait donc pas des moyens budgétaires en vue de lui permettre de rencontrer les objectifs de son 
+CSP, en ce compris la couverture des missions lui déléguées par la Région. Un nouveau CSP doit donc 
+être élaboré ; il couvrira les années 2026 à 2030. Celui-ci disposera désormais de moyens budgétaires à 
+la fois cohérents et engageants pour les deux parties.  
+Les éléments qui nous guideront : augmenter la fiabilité (notamment la ponctualité), la simplicité 
+(notamment tarifaire), l’agilité (notamment la capacité de réagir rapidement pour faire évoluer l’offre 
+en adéquation avec les besoins), la complémentarité (notamment en optimisant les relations avec les 
+autres offres de transport) et l’effet bénéfique sur le climat et l’environnement avec l’électrification des 
+bus qui est une priorité réaffirmée. 
+Le Gouvernement définira les priorités dans les investissements d’infrastructure en transports en 
+commun afin de maximaliser le ratio bénéfices/coûts pour la collectivité. Les grands projets régionaux 
+d’infrastructure en cours (busways de Liège, métro léger de Charleroi) seront menés à leur terme ainsi 
+que les deux lignes prioritaires vers Seraing et Herstal.  
+Le programme d’électrification et de décarbonation de la flotte au sens large sera poursuivi, dans le 
+respect de la réglementation européenne. 
+Pour augmenter l’attractivité des transports en commun, le Gouvernement cherchera, avec l’OTW, à 
+améliorer l’expérience client tout au long du trajet, en l’articulant à une intégration et une simplification 
+tarifaire et billettique.  
+
+20 
+ 
+L’offre de transport scolaire sera optimisée, de manière à améliorer la qualité du service spécialement 
+pour les enfants issus de l’enseignement spécialisé, en bonne intelligence avec la Fédération Wallonie-
+Bruxelles, les pouvoirs organisateurs et les représentants des parents. 
+En matière ferroviaire, l’objectif général poursuivi sera de promouvoir le rail comme mode alternatif 
+principal à la voiture, de développer au mieux des synergies entre la SNCB et l’OTW. 
+Multimodalité 
+Les plateformes multimodales et les nœuds de correspondance seront renforcés. Le Gouvernement fera 
+également une priorité des finalisations du RER et de la modernisation de l’Axe 3 Bruxelles-
+Luxembourg et du renforcement des axes de fret ferroviaire, qui sont des enjeux de multimodalité 
+importants. Une attention particulière sera également accordée au développement de solutions 
+multimodales pour les deux aéroports wallons. 
+De plus, le Gouvernement veillera à la sécurisation et l’amélioration des cheminements piétons et 
+cyclables dans le but de favoriser les petits déplacements du quotidien en mode actif. 
+Mobilité active 
+Les modes actifs continueront à être encouragés, notamment à travers l’amélioration et la création 
+d’infrastructures sécurisées de qualité, inclusives, et d’équipements connexes (stations vélo, passages 
+piétons, bancs, etc.) en concertation avec les acteurs locaux et en consultant les usagers. Un nouveau 
+Plan Wallonie cyclable sera élaboré en ciblant les actions et investissements favorisant l’usage quotidien 
+du vélo. 
+Sécurité routière 
+Pour atteindre l’objectif « All for zero » du plan interfédéral de sécurité routière à l’horizon 2050, 
+l’Agence wallonne de sécurité routière a présenté en novembre 2025 les positions issues des états 
+généraux de la sécurité routière visant à une amélioration de la sécurité des usagers.  
+Parallèlement, le Gouvernement poursuivra un déploiement ciblé de dispositifs de contrôle de vitesse 
+guidé par un objectif de sécurité sur les voiries communales. Le décret relatif aux sanctions 
+administratives en matière de sécurité routière sera élargi aux communes pour les routes communales 
+dans le cadre de politiques locales de la sécurité routière. 
+Infrastructures routières 
+L’évaluation du PIMPT est en cours. Les nouveaux besoins d’investissement sur les infrastructures 
+régionales ont été collectés en coordination avec les différentes parties prenantes, dont les pouvoirs 
+locaux. Sur cette base, une nouvelle stratégie d’investissement sera définie par le Gouvernement courant 
+2026.  
+Le nouveau Plan d’Investissement devrait être adopté par le Gouvernement courant 2026. 
+Celui-ci confirmera l’importance pour la Wallonie de voir se concrétiser, avec le concours de la 
+SOFICO, plusieurs chainons manquants au réseau structurant tels que la route d’accès à Pairi Daiza, la 
+finalisation du contournement de Lessines, de la N54 ainsi que le contournement Nord de Tubize. 
+Le parc d’ouvrages d’art wallons est composé de 5661 actifs. 29 % du réseau non structurant et 47% du 
+réseau structurant présentent des signes de dégradation accélérée. Le Gouvernement développera une 
+planification claire de la sécurisation, la réhabilitation et l’entretien du parc d’ouvrages d’art wallon. 
+Comme pour les ouvrages d’art, les routes seront gérées avec une dynamique visant à relever l’ensemble 
+de la qualité du réseau. Pour ce faire, le raclage-pose sera optimalisé. 
+La stratégie d’investissement dans les infrastructures du réseau fera l’objet d’une coordination entre les 
+parties prenantes telles que le SPW-MI, la SOFICO, l’OTW, la SPGE, ... 
+La redevance kilométrique pour les poids lourds, majoritairement supportée par les transporteurs 
+étrangers, sera alignée au 1er juillet 2026 sur les tarifs pratiqués par la Région flamande.   
+Electromobilité et densification du réseau de bornes de recharge 
+
+21 
+ 
+A la suite de l’audit de la Cour des comptes, une task force électromobilité veillera à la mise en place 
+des recommandations. L’ensemble des instruments disponibles ou nécessaires pour créer un réseau de 
+bornes de recharge rapides couvrant l’ensemble du territoire, avec le concours des opérateurs privés sera 
+utilisé afin d’accélérer le déploiement en accord avec le règlement AFIR. 
+Un marché cadre d’installation de 1724 bornes (environ 3.400 points de charge) sur l’espace public 
+communal est en phase d’attribution sous l’égide des agences de développement territorial. 
+Voies hydrauliques et le transport de marchandises 
+Une gestion plus moderne et efficiente des quatre ports fluviaux wallons sera mise en place afin de 
+répondre le plus efficacement aux enjeux économiques, climatiques et de mobilité grâce à la création 
+d’une nouvelle société vouée à devenir l’unique grand port wallon Cette réforme ambitieuse permettra 
+à la Wallonie de jouer un rôle encore plus important à l’échelle maritime et fluviale européenne en y 
+associant les acteurs locaux du développement territorial ainsi que les acteurs privés de la voie d’eau. 
+La qualité du réseau des voies hydraulique sera améliorée en l’adaptant aux besoins du transport de 
+marchandises et aux normes internationales, en maintenant une profondeur suffisante des cours d’eau, 
+en modernisant les écluses et en augmentant les horaires de franchissement d’écluses grâce à une 
+automatisation et une téléopération accrue. 
+Les pôles intermodaux pour le fret et la logistique seront stimulés. 
+4.3. 
+Vice-Président et Ministre de l'Economie, de l’Industrie, du Numérique, de l’Emploi 
+et de la Formation 
+Economie  
+La Wallonie a pour ambition de confirmer sa place parmi les régions européennes les plus dynamiques, 
+résilientes et compétitives. Pour y parvenir, notre action publique s’appuiera sur une vision claire : faire 
+de l’innovation, de l’accompagnement des entreprises et de l’ouverture internationale les leviers d’une 
+croissance durable et inclusive. 
+En 2026, notre soutien se concentrera en priorité sur les secteurs stratégiques identifiés dans la 
+Déclaration de Politique Régionale (les biotechnologies, l’aéronautique, les technologies vertes, la 
+défense et l’intelligence artificielle). Nous renforcerons les investissements dans l’industrie 4.0 et dans 
+les initiatives innovantes qui favorisent une croissance respectueuse des enjeux environnementaux et 
+sociétaux. Les écosystèmes d’innovation joueront un rôle central dans cette dynamique. Pour les rendre 
+plus efficaces, nous simplifierons les procédures de financement et clarifierons les missions des pôles 
+de compétitivité et des clusters, en veillant à une meilleure articulation entre les outils publics, les 
+entreprises – et en particulier les PME –, les universités et les centres de recherche. Cette approche 
+permettra de renforcer la cohérence et l’impact du soutien régional à l’innovation. 
+Les recommandations issues de l’évaluation de la Stratégie de Spécialisation Intelligente (S3) feront 
+l’objet d’une évaluation approfondie afin d’affiner les domaines prioritaires et de mieux les ancrer dans 
+la réalité économique wallonne. Parallèlement, la stratégie « Circular Wallonia 2.0 » sera déployée à 
+travers un plan d’actions permettant de répondre aux attentes des acteurs économiques et renforcer notre 
+compétitivité sur la scène européenne. 
+Les PME, TPE, indépendants et artisans restent au cœur de notre politique économique. Ils sont non 
+seulement des créateurs d’emplois, mais aussi des moteurs d’innovation et de vitalité locale. En 2026, 
+nous redoublerons d’efforts pour les accompagner, en simplifiant leurs démarches administratives et en 
+accélérant leur digitalisation mais également en sollicitant les Invest wallons afin qu’ils continuent de 
+proposer à nos entreprises des solutions de financement adaptées à leurs besoins. Nous faciliterons 
+également l’accès aux outils régionaux qui leur permettent de se lancer et de se développer. Pour ce 
+faire, nous proposerons au Parlement une réforme du dispositif des chèques entreprises et ainsi que du 
+paysage de l’accompagnement économique. 
+Pour stimuler l’entrepreneuriat, nous continuerons à développer les outils dédiés au scaling-up, afin 
+d’aider les PME à franchir le cap de la croissance et à augmenter leur taille moyenne. Nous déploierons 
+
+22 
+ 
+également le dispositif « RéAction 2.0 », en élargissant ses missions pour inclure l’accompagnement 
+post-faillite et en renforçant la collaboration entre les acteurs publics et privés. Pair ailleurs, la 
+sensibilisation à l’esprit d’entreprendre, notamment auprès des jeunes, sera généralisée dans les filières 
+d’enseignement, en partenariat avec la Fédération Wallonie-Bruxelles. 
+Sur le plan international, la Wallonie adoptera une diplomatie économique proactive et ambitieuse 
+comme prévu au sein de la feuille de route 2026-2029 adoptée par l’AWEX. Sur base d’un plan d’actions 
+développé par l’Agence, nous améliorerons les outils et incitants proposés pour soutenir nos entreprises, 
+en particulier les PME, dans leur conquête de nouveaux marchés. Nous diversifierons nos chaînes 
+d’approvisionnement et renforcerons nos partenariats stratégiques, tout en capitalisant sur les atouts de 
+la Wallonie. L’attraction des investissements étrangers sera une priorité, avec une stratégie ciblée sur 
+les projets créateurs de valeurs et contributeurs à la réindustrialisation de notre région. Le réseau des 
+conseillers économiques à l’étranger sera rationalisé et spécialisé, en collaboration avec Wallonie-
+Bruxelles Internationale (WBI) et les partenaires belges, pour maximiser notre impact à l’international. 
+Enfin, nous resterons conscients des réalités budgétaires de notre Région. Chaque euro public sera 
+investi de manière responsable, en privilégiant les projets qui offrent le meilleur retour sur 
+investissement pour la collectivité. Notre objectif est clair : construire une Wallonie plus forte, plus 
+innovante et plus solidaire, où chaque acteur économique, qu’il soit grand ou petit, peut s’épanouir et 
+contribuer à notre prospérité commune. 
+  
+Industrie  
+L’industrie reste un pilier essentiel du développement économique wallon, un levier clé pour la création 
+d’emplois de qualité, l’innovation et la compétitivité de notre région. En Wallonie, elle incarne bien plus 
+qu’un simple secteur économique : elle est un moteur de productivité, un vecteur de diversification et 
+un acteur majeur de l’exportation de biens à haute valeur ajoutée. Face aux défis de la transition 
+numérique et climatique, ainsi qu’à la concurrence internationale, notre ambition est claire : faire de la 
+Wallonie une région industrielle de référence en Europe, alliant résilience, innovation et durabilité. 
+Pour y parvenir, nous mettrons en œuvre une politique industrielle ambitieuse, fondée sur une 
+coordination renforcée entre l’administration régionale, les partenaires économiques et les entrepreneurs 
+locaux. Cette politique visera à renforcer notre autonomie stratégique et à créer un écosystème favorable 
+à l’implantation, à la consolidation et au développement des activités industrielles sur notre territoire. 
+Notre action s’articulera autour de plusieurs axes prioritaires. D’abord, nous concentrerons notre soutien 
+sur les secteurs stratégiques identifiés dans la Stratégie de Spécialisation Intelligente (S3), qui répondent 
+aux enjeux d’innovation et de compétitivité de la Wallonie. Nous capitaliserons sur nos secteurs 
+d’excellence, tels que les biotechnologies, la pharmacie, l’aéronautique, le spatial et la défense, qui sont 
+déjà des fers de lance de notre économie. En parallèle, nous renforcerons notre positionnement dans des 
+domaines émergents et porteurs d’avenir, comme la transition énergétique, le nucléaire, le stockage du 
+carbone, l’hydrogène, l’économie circulaire et la cybersécurité. Ces secteurs, en pleine expansion, 
+offrent des opportunités uniques pour moderniser notre tissu industriel et créer des emplois durables. 
+Pour accompagner cette transformation, nous déploierons des mesures concrètes visant à faciliter l’accès 
+aux financements, à simplifier les démarches administratives et à renforcer les partenariats entre les 
+acteurs publics et privés. Nous encouragerons également les synergies entre les grandes entreprises et 
+les PME, afin de favoriser l’innovation collaborative et de renforcer la compétitivité de l’ensemble de 
+notre écosystème industriel. 
+Enfin, nous accorderons une attention particulière à la réindustrialisation de la Wallonie, en attirant de 
+nouveaux investissements et en soutenant les projets industriels créateurs d’emplois. Nous travaillerons 
+à moderniser nos infrastructures et à développer des filières d’excellence, en nous appuyant sur les atouts 
+de notre région, comme notre position géographique centrale en Europe, notre expertise technologique 
+et notre main-d’œuvre qualifiée. 
+Toutes ces orientations seront, comme en 2025, discutées au sein du Forum industriel wallon. 
+  
+
+23 
+ 
+Numérique  
+Le numérique est aujourd’hui bien plus qu’un simple outil : il est un pilier essentiel de notre économie, 
+de notre société et de notre quotidien. À l’heure où les transformations digitales redéfinissent les modèles 
+économiques et les modes de vie, la Wallonie doit se positionner comme une région innovante, résiliente 
+et compétitive, en phase avec les ambitions européennes pour 2030. Le numérique constitue une 
+nécessité stratégique pour garantir notre croissance socio-économique et notre souveraineté 
+technologique. 
+Pour concrétiser cette ambition, nous entendons déployer la stratégie Digital Wallonia 2025-2029 et ses 
+six axes prioritaires adoptée par le Gouvernement. Les entreprises et les citoyens wallons sont désormais 
+conscients des enjeux et des opportunités offertes par le numérique. Notre priorité est désormais de leur 
+offrir un cadre structuré, efficace et agile, capable de répondre aux défis technologiques en constante 
+évolution. Dans cette optique, le décret renforçant et redéfinissant le rôle de l’Agence du Numérique 
+(AdN), pour en faire l’acteur de référence unique en Wallonie, sera présenté au Parlement. Cette réforme 
+vise à garantir la stabilité de ses missions, l’adéquation de ses ressources et une meilleure cohérence de 
+l’écosystème numérique wallon, tout en préservant l’agilité nécessaire pour s’adapter aux innovations 
+technologiques. 
+Enfin, de manière transversale, nous considérerons la donnée comme une infrastructure essentielle. Elle 
+sera au cœur de l’action publique pour améliorer la performance de nos services et renforcer la confiance 
+des citoyens envers leurs institutions. En exploitant intelligemment les données, nous optimiserons la 
+prise de décision et stimulerons l’innovation au service de tous. 
+ 
+Emploi  
+Parallèlement aux réformes fédérales portant en particulier sur la limitation du chômage dans le 
+temps, le Gouvernement a entrepris un travail de réforme en profondeur du Forem, de 
+l’accompagnement et du contrôle des chercheurs d’emploi. Ce travail porte notamment sur les 
+éléments suivants :  
+- 
+Un accompagnement immédiat pour chaque chercheur d’emploi, calibré en fonction de son 
+profil : dorénavant, tous les chercheurs d’emploi sont accompagnés par le Forem, 
+indépendamment de leur statut administratif. Dès lors qu’un individu est à la recherche d’un 
+emploi, il doit pouvoir bénéficier d’un accompagnement rapide et personnalisé à son profil. 
+L’objectif est de garantir un accompagnement pour chaque chercheur d’emploi, dans une 
+logique d’équité, en adaptant l’intensité de l’accompagnement en fonction des freins 
+identifiés et leurs impacts sur son insertion dans l’emploi. Cette approche vise à favoriser une 
+insertion rapide sur le marché du travail, en cohérence avec la réforme fédérale prévoyant 
+une limitation dans le temps des allocations de chômage. 
+ 
+- 
+Mise en place du dossier unique du chercheur d’emploi : dans la continuité des mesures 
+visant à renforcer l’accompagnement des chercheurs d’emploi, le Forem doit s’appuyer sur 
+la mise en place rapide d’un réel dossier unique. Cet outil central permet de rassembler toutes 
+les informations relatives au parcours du chercheur d’emploi, offrant une vision globale, 
+cohérente et actualisée de sa situation. Ce dossier unique, alimenté en continu par le FOREm 
+et les autres acteurs de l’insertion, constitue un levier essentiel pour assurer un 
+accompagnement efficace et individualisé. Associé à la mise en place de signaux d’alerte, il 
+permet au Forem de détecter rapidement les chercheurs d’emploi en difficulté, en demande 
+d’aide ou en situation d’inactivité, afin d’intervenir immédiatement et d’adapter 
+l’accompagnement si nécessaire. En garantissant une intervention ciblée et adaptée, ce 
+dispositif est primordial pour accompagner l’ensemble des chercheurs d’emploi, tout en 
+
+24 
+ 
+maintenant les moyens humains constants, conformément aux orientations fixées dans la 
+DPR. Ce dispositif contribue également à maintenir la motivation du chercheur d’emploi, en 
+lui offrant une visibilité sur sa progression.  
+- 
+Responsabiliser chaque acteur : le chercheur d’emploi est appelé à être un acteur actif et 
+proactif de son parcours. Il doit notamment rechercher activement de l’emploi et documenter 
+ses démarches de recherche d’emploi dans son dossier unique. Mais cette responsabilisation 
+s’applique également à tout acteur du parcours : le Forem est garant de la cohérence du 
+parcours du chercheur d’emploi. À ce titre, il est tenu d’assurer une mobilisation rapide, un 
+suivi régulier et une agilité continue en fonction de l’évolution des besoins du chercheur et 
+du marché du travail. Les opérateurs tiers sont également responsabilisés sur l’alimentation 
+régulière du dossier unique, qui constitue la pierre angulaire de la réforme. C’est par cette 
+collaboration étroite, autour d’un outil commun et partagé, que l’on garantit un 
+accompagnement fluide, réactif et cohérent pour chaque chercheur d’emploi. 
+En 2026, le Gouvernement poursuivra également la réforme du paysage de l’emploi au profit des 
+bénéficiaires, notamment en encourageant et en stimulant la rationalisation de l’ensemble des acteurs 
+de l’insertion socio-professionnelle présents en Wallonie suivant une logique de lisibilité du parcours 
+pour les chercheurs d’emploi, de mise en cohérence de l’action de ces acteurs sur leur bassin 
+d’emploi, de parfaite articulation avec l’action des services territoriaux du FOREM et d’efficience 
+des moyens publics mis en œuvre. 
+Le Gouvernement poursuivra également une réforme des incitants à l’embauche, tout en veillant à 
+préserver les crédits affectés aujourd’hui aux différents dispositifs d’aide à l’emploi (Impulsion 55 
+ans+, Impulsion 12 mois+, Impulsion -25 ans, Sesam et Tremplin 24 mois+). La réforme en projet 
+vise à créer un incitant unique qui ciblera les chercheurs d’emploi plus éloignés de l’emploi. Une 
+période transitoire est prévue pour maintenir les aides actuelles tout en resserrant les critères d’accès 
+afin de pouvoir financer concomitamment le nouvel incitant. 
+Soucieux de maîtriser l’évolution du budget de la politique des Aides à la Promotion de l’Emploi 
+(APE) et de responsabiliser les bénéficiaires dans une logique d’effort partagé, le Gouvernement 
+wallon a décidé de réduire la subvention de toute une série d’employeurs du secteur des pouvoirs 
+locaux, régionaux et communautaires, et supprimer la subvention octroyée aux provinces ainsi qu’aux 
+zones de police et de secours. Ces dispositions s’ajoutent au gel de l’indexation des subventions APE, 
+sauf pour le secteur non-marchand et du secteur de l’enseignement, en vigueur depuis le 1er janvier 
+2025. 
+S’agissant des titres-services, le Gouvernement entend mener une lutte plus efficace contre les abus 
+en matière de cumul entre subventions publiques pour un même travailleur. 
+Le Gouvernement souhaite par ailleurs inciter les CISP à proposer des formations menant vers 
+l’emploi, ou à tout le moins vers une formation professionnalisante. Aussi, il est proposé de supprimer 
+l’agréation et le financement des filières connaissant un taux d’insertion dans la formation ou l’emploi 
+égal à 0 %. Le Gouvernement poursuivra ses travaux en 2026 afin de proposer une réforme plus 
+globale du paysage de l’insertion socioprofessionnelle, dans laquelle les CISP auront une place 
+importante dès lors qu’ils participent au trajet de retour vers l’emploi. 
+  
+Formation  
+La formation et le développement des compétences restent au cœur des objectifs du Gouvernement 
+en soutien à des perspectives positives en termes d’emploi. 
+L’accès à une main-d’œuvre qualifiée est un facteur clé de compétitivité pour les entreprises. En 
+outre, les citoyens, jeunes et moins jeunes, sont de plus en plus conscients que la formation constitue 
+un enjeu majeur dans leur évolution personnelle ou professionnelle. 
+
+25 
+ 
+Pour relever le défi des compétences, s’appuyant sur les travaux menés au cours des précédentes 
+législatures, le Gouvernement, en concertation avec la Fédération Wallonie-Bruxelles, poursuit la 
+mise en œuvre d’une réforme systémique de l’enseignement qualifiant, de l’enseignement de 
+promotion sociale et de la formation 
+Professionnelle. 
+Le Gouvernement a structuré les réformes à mener en 13 domaines de travail structurants qui seront 
+menés de manière séquencée afin d’en assurer la soutenabilité. Il s’appuiera en outre sur les 
+dispositifs mis en place – tels que Wallonie Compétences d’Avenir, OTLAV, les carrefours et cités 
+des métiers, le réseau des Centres de Compétences, ... - et les structures existantes, dont notamment 
+le Forem, l’IFAPME et les organismes issus des accords de coopération. 
+Un des axes majeurs de cette vision est la construction d’une stratégie de formation professionnelle 
+commune, accompagnée d’un modèle de gouvernance clair et d’un pilotage efficace permettant de 
+clarifier le périmètre des structures existantes et de fluidifier les parcours individuels tout en 
+garantissant un cadre de qualité pour tous les acteurs impliqués. C’est en sens que les Gouvernements 
+conjoints de la Wallonie et de la Fédération Wallonie-Bruxelles ont adopté une feuille de route 
+commune le 12 juin 2025 (“Réforme systémique de l’enseignement qualifiant, de l’enseignement 
+pour adultes et de la formation professionnelle. Plan d’opérationnalisation”). 
+Parallèlement, le Gouvernement s’est attelé à stabiliser les initiatives en cours et à dégager des 
+budgets complémentaires soit 13 millions d’euros – afin notamment de poursuivre le soutien à 
+l’obtention du permis de conduire via la mesure “passeport drive” et à la participation à la formation 
+professionnelle via le doublement de l’indemnité de formation. 
+Cependant, conformément à la DPR, afin d’harmoniser les dispositifs actuels, de lever les freins à la 
+formation tout en supprimant les effets d’aubaine et d’octroyer un incitant sur la base de critères 
+objectifs, dont la délivrance d’une certification et l’insertion à l’emploi du bénéficiaire, mais 
+également dans une perspective de maîtrise budgétaire, le Gouvernement a décidé d’abroger 
+l’incitant+ et de revoir les conditions d’octroi liées aux 2€ par heure de formation. 
+4.4. 
+Ministre de la Santé, de l'Environnement, des Solidarités et de l’Economie sociale 
+L’amélioration de la qualité de vie des Wallonnes et des Wallons est au centre des ambitions du 
+Gouvernement wallon.  
+Pour atteindre cet objectif, il doit positionner les politiques de la santé, de l'environnement, de 
+l'économie sociale, de la lutte contre les discriminations et des solidarités dans ses priorités et ce, de 
+manière la plus transversale possible.  
+Ces politiques, par leur nature, reposent sur de nombreux leviers en capacité d’impacter directement le 
+bien-être de nos concitoyens. C’est pourquoi le travail initié en 2025 se poursuivra en 2026, dans une 
+démarche tout autant proactive et concourant à des résultats concrets. La gestion équilibrée des 
+ressources, la résilience et la transversalité guideront nos actions, soutenues par une collaboration étroite 
+avec les administrations et tous les acteurs de terrain.  
+   
+Nous continuerons à élaborer et mettre en œuvre des stratégies multifactorielles, intégrées et 
+transversales dans tous ces domaines et secteurs essentiels pour la Wallonie.  
+Une attention sera particulièrement donnée en :  
+- 
+Santé : à la réforme de la 1ère ligne, au bien vieillir avec le lancement de la garantie autonomie, 
+au handicap, à la prévention et la santé mentale en particulier des jeunes. 
+- 
+Environnement :  à la protection des zones de captages, aux permis environnementaux et au 
+coût-vérité, 
+- 
+Solidarités : à la lutte contre le sans-abrisme, au soutien des familles monoparentales, à 
+l’accompagnement de la réforme du chômage 
+- 
+Egalité des chances, Droits des femmes : au pack nouveau départ et aux droits des femmes 
+
+26 
+ 
+ 
+Action sociale 
+Le Gouvernement, conformément aux orientations indiquées dans la DPR, place au centre de son action 
+la garantie des droits fondamentaux, l’émancipation des personnes et la prise en compte de l’impact des 
+politiques sociales. Pour atteindre ces objectifs, il entend accorder une place prioritaire à la santé et 
+mobiliser des dispositifs d’innovation sociale. En partenariat avec les secteurs concernés, il sera porteur 
+d’exigences en matière d'impact des politiques sociales, mesurant leurs effets sur l’entièreté de la 
+population au moyen d’indicateurs combinés et prédéfinis. L’ensemble repose sur la mise en réseau 
+d’aides et d’accompagnements solidaires qui doivent, en partenariat, générer une dynamique de 
+cohésion sociale à l’échelle de la Région. 
+En Wallonie, les politiques d’Action sociale — auxquelles s’ajoutent celles relatives à l’Égalité des 
+chances et aux Droits des femmes — cherchent avant tout à répondre aux défis sociétaux contemporains 
+: renforcer l’autonomie des personnes, améliorer la qualité de vie, replacer la santé comme priorité 
+publique et garantir l’accès effectif aux droits.  
+Ainsi, en 2026, les politiques de lutte contre la pauvreté, de soutien aux familles monoparentales et de 
+sortie du sans-abrisme seront structurellement renforcées afin de mettre en œuvre ces objectifs et de 
+promouvoir une approche intégrée liant santé et inclusion sociale. 
+ 
+La lutte contre la pauvreté 
+La pauvreté en Wallonie constitue un enjeu complexe et toujours saillant, qui touche près d’une personne 
+sur cinq. Elle se traduit par des inégalités marquées dans de multiples domaines, de la santé au logement, 
+en passant par l’accès aux droits et aux ressources. Ces défis exigent une approche collective et 
+coordonnée, impliquant l’ensemble des acteurs concernés : pouvoirs publics, associations, partenaires 
+sociaux et citoyens. La lutte contre la pauvreté est et restera l’affaire de tous.  
+Le Gouvernement s’était engagé à élaborer en 2025 le cadre des actions à mener en matière de lutte 
+contre la pauvreté.  
+Les travaux ont été pilotés en collaboration avec l’ensemble des partenaires concernés. L’essentiel de 
+l’année 2025 a été consacré à : 
+• 
+L'élaboration d’un diagnostic approfondi, fondé à la fois sur les analyses scientifiques du Haut 
+Conseil stratégique et sur les expériences vécues par les personnes concernées (RWLP) ; 
+• 
+L’identification des inégalités et des vulnérabilités majeures, notamment en santé (maladies 
+chroniques, santé mentale, accessibilité des soins), pauvreté infantile (18 % des enfants 
+concernés par au moins trois privations essentielles), précarité des locataires et vulnérabilité lors 
+de la reprise d’un emploi ; 
+• 
+La mise en place de groupes de travail thématiques en Santé, Emploi, Logement et Recours aux 
+droits, réunissant plus d’une centaine de participants, afin de formuler des hypothèses d’action 
+et proposer des réponses concrètes ; 
+• 
+L’élaboration d’un cahier de recommandations, présenté au Gouvernement wallon, servant de 
+fondement à la stratégie globale à déployer. 
+Ainsi, la nouvelle Stratégie de lutte contre la pauvreté, vise à durablement améliorer les conditions de 
+vie des personnes en situation de pauvreté.  
+Elle traitera les grands enjeux de façon transversale. Ainsi :   
+• 
+En santé et santé mentale, des efforts seront engagés pour améliorer l’accessibilité des services 
+et renforcer les approches de proximité ; 
+• 
+En matière de ressources et de droits sociaux, il s’agira notamment de mieux sécuriser les 
+parcours de vie et de mettre l’accent sur les recours aux droits ;  
+
+27 
+ 
+• 
+En logement, des actions sont envisagées pour élargir l’accès à des logements abordables et 
+lever les obstacles qui freinent l’installation dans un cadre stable. 
+En 2026, la priorité sera de procéder au déploiement opérationnel des premiers projets, tout en mettant 
+en place un dispositif structuré d’évaluation de leur impact. En effet, un cadre d’évaluation sera 
+coconstruit avec les bénéficiaires, visant à mesurer les effets concrets des politiques publiques et 
+associatives sur les conditions de vie. Cette évaluation intégrera également les impacts indirects ou 
+inattendus ainsi que leurs dimensions politiques, économiques et symboliques. Cette démarche vise à 
+garantir l’efficacité et la durabilité des mesures mises en œuvre dans la lutte contre la pauvreté. Le 
+Gouvernement a également souhaité disposer un état des avancées des actions en 2026 pour chaque 
+Ministre concerné. 
+ 
+Le sans-abrisme 
+Les derniers dénombrements font état d’un nombre de personnes sans-abris ou sans chez-soi estimé à 
+près de 20.000 personnes, dont plus de 5.000 enfants. Les trajectoires sont diverses : vie en rue, 
+hébergement d’urgence, squats, séjours répétés en institution ou hébergement temporaire chez des tiers.  
+Le recours aux dispositifs de solidarité – maisons d’accueil, abris de nuit, relais sociaux et relais santé, 
+dispositifs Housing First – demeure indispensable. Ces structures constituent un filet de sécurité 
+essentiel, même si elles ne permettent pas, à elles seules, de répondre à l’ensemble des besoins identifiés. 
+C’est dans ce contexte que s’inscrit la Stratégie coordonnée de sortie du sans-abrisme. Elle vise à 
+dépasser l’approche fragmentée, marquée par des expérimentations ponctuelles et non pérennes, pour 
+construire une réponse cohérente, territorialisée et intersectorielle. Elle repose sur trois piliers :  la 
+prévention, la résolution et la réponse à l’urgence. 
+En 2026, la priorité sera d’entamer le déploiement opérationnel de cette stratégie.  
+Le cadre réglementaire des maisons d’accueil, des abris de nuit et des relais sociaux sera applicable 
+début janvier 2026. Sa mise en œuvre permettra d’harmoniser les pratiques, de clarifier les missions et 
+de renforcer la cohérence des dispositifs d’hébergement et d’accompagnement, afin de soutenir 
+davantage la continuité des parcours. 
+Cette évolution répond à la nécessité de disposer d’un cadre plus lisible, plus stable et mieux adapté aux 
+constats posés lors des travaux d’élaboration de la stratégie.  
+Le système actuel, bien que solide et engagé, reste marqué par des pratiques hétérogènes, des difficultés 
+de coordination et une continuité parfois insuffisante entre la mise à l’abri, l’accompagnement et l’accès 
+au logement. L’objectif est de renforcer progressivement la cohérence de l’ensemble des acteurs, de 
+prévenir les ruptures dans les trajectoires et de mieux tenir compte de la diversité des situations, 
+notamment celles des femmes et des familles. 
+Le renforcement du cadre applicable aux maisons d’accueil et aux abris de nuit s’inscrit dans la volonté 
+de garantir un accueil plus adapté aux réalités actuelles, de soutenir l’accompagnement vers la 
+stabilisation et d’améliorer les conditions de prise en charge des personnes en difficulté sociale. De 
+même, l’adaptation du cadre des relais sociaux vise à consolider leur rôle de coordination territoriale, 
+essentiel pour organiser des réponses locales cohérentes et assurer une continuité entre accueil 
+d’urgence, accompagnement social, accès aux soins et démarches de relogement. 
+Ces orientations traduisent l’ambition portée par la stratégie : passer d’une succession de réponses 
+ponctuelles à une action publique structurée, concertée et orientée vers la prévention et les sorties 
+durables du sans-abrisme. En 2026, la mise en œuvre de ces cadres réglementaires constituera une étape 
+importante pour consolider les bases de ce système plus efficace, plus lisible et davantage centré sur la 
+continuité des parcours et la dignité des personnes. 
+ 
+ 
+ 
+
+28 
+ 
+L’insertion et l’aide sociale 
+A partir du 1er janvier 2025, le secteur de l’accueil de jour a disposé d’un cadre règlementaire.  26  
+opérateurs ont déjà été agréés et ils disposeront d’un subventionnement réglementé en 2026. De même, 
+la réforme des Services d’insertion sociale (SIS) a été finalisée en concertation avec le secteur. L’arrêté 
+d’exécution adopté par le Gouvernement wallon a permis l’application, au 1er janvier 2025 et encore en 
+2026, portant notamment sur la programmation des agréments, le financement basé sur un nombre 
+d’heures d’activités collectives par an et une diminution de la fréquence des réunions d’équipes et 
+d’évaluations, dans un souci de simplification administrative.   
+Enfin, le dispositif d’accompagnement des personnes prostituées s’inscrit pleinement dans la lutte contre 
+les inégalités. Bien qu’il soit ouvert à tous, il vise principalement, dans la pratique, une majorité de 
+femmes. L’appui au renforcement et à l’extension des services dédiés à l’aide et aux soins pour ce public 
+sera garanti en 2026. 
+ 
+Les familles monoparentales 
+Les familles monoparentales rencontrent des difficultés économiques et sociales spécifiques qui doivent 
+être davantage intégrées dans les politiques publiques. Ainsi, conformément aux orientations de la DPR, 
+le Gouvernement opérationnalisera une stratégie globale et transversale, centrée sur les principaux 
+facteurs de précarité, afin de répondre efficacement à leurs besoins et de favoriser leur inclusion sociale 
+et économique. 
+Par cette dernière, la Wallonie entend porter la question des familles monoparentales au rang de priorité. 
+La finalité de cette stratégie est d’améliorer concrètement les conditions de vie des familles 
+monoparentales, en renforçant leur accès aux droits, à l’emploi, au logement, à la santé, et en facilitant 
+la conciliation entre vie familiale et vie professionnelle. Cela passera notamment par une meilleure 
+articulation des dispositifs existants et une coordination renforcée dans les domaines de politiques 
+mentionnés ci-dessus.   
+Pour y parvenir, la stratégie reposera sur cinq axes complémentaires :   
+• 
+Agir sur les politiques fonctionnelles  
+• 
+Augmenter les revenus et garantir l'accès aux droits  
+• 
+Renforcer l’accès à l’emploi et à la formation  
+• 
+Soutenir et accompagner les familles monoparentales  
+• 
+Mise à l’agenda et sensibilisation 
+En 2026, la priorité sera de travailler au déploiement opérationnel des mesures prévues par la stratégie, 
+en veillant à leur mise en œuvre coordonnée et transversale sur l’ensemble des axes et à la pérennisation 
+des dispositifs permettant de soutenir et d’accompagner les familles monoparentales. Le réseau de 
+travailleurs sociaux des Relais Familles Mono, déployés en Région wallonne, constitue un levier 
+précieux pour accompagner ces familles, prévenir les ruptures et favoriser leur inclusion socio-
+professionnelle. 
+ 
+Le parcours d’intégration 
+La DPR rappelle que la diversité est une richesse, qui nécessite également un socle commun de valeurs. 
+C’est pourquoi il est essentiel de mettre en œuvre des mesures visant pleinement à l’intégration et à 
+l’émancipation des personnes amenées à vivre en Wallonie et d’évaluer l’offre proposée afin de s’assurer 
+de leur adéquation aux objectifs et besoins des bénéficiaires et du secteur.  
+Ainsi, en 2026, le Gouvernement wallon travaillera à une programmation territoriale de l’offre des 
+initiatives locales d’intégration afin d’ajuster l’offre aux besoins locaux, de renforcer la complémentarité 
+entre opérateurs et de garantir un accès équitable aux primo-arrivants sur tout le territoire. 
+
+29 
+ 
+Ceci répond également aux objectifs de la réforme de l’intégration entrée en vigueur au 1er janvier 2025, 
+visant à renforcer et professionnaliser le secteur de l’intégration, en favorisant l’agrément et en passant 
+d’un financement facultatif vers un financement structurel et règlementé. 
+Afin d’assurer une transition harmonieuse, le Gouvernement a validé le 22 mai 2025 le renouvellement 
+de l’appel à projets Initiatives locales d’intégration jusqu’au 31 décembre 2025. Cette phase transitoire 
+a permis aux structures non agréées d’introduire leur demande d’agrément et d’assurer la continuité des 
+services. 
+Une enveloppe de 1,166 million € est dédiée à l’accueil et l’intégration des réfugiés ukrainiens, via un 
+dispositif d’équipes mobiles bio-psycho-sociales, ainsi qu’un renfort de certains opérateurs (CRI, 
+ethnopsy, Setis), afin de faire face aux besoins spécifiques de ce public bénéficiant du statut européen 
+de protection temporaire jusqu’en mars 2026. 
+ 
+La Cohésion sociale 
+En 2026, les communes engagées dans le dispositif prévu à l’article 20 du décret relatif au Plan de 
+Cohésion sociale poursuivront la mise en œuvre de leurs plans locaux validés par le Gouvernement.  
+Elles seront soutenues pour développer des actions portant notamment sur le harcèlement, 
+l’alimentation, les violences, les assuétudes et l’accompagnement des parents dans le cadre du parcours 
+d’intégration. Un budget annuel d’environ 1,5 million d’euros sera mobilisé à cet effet. 
+  
+La lutte contre le surendettement 
+En matière de lutte contre le surendettement, la Wallonie dispose de dispositifs couvrant à la fois 
+l’accompagnement des personnes en difficulté financière et des actions de prévention. Aucun besoin 
+complémentaire n'a été identifié pour 2026.   
+Parallèlement, le marché relatif au crédit social accompagné a été attribué pour 2025-2028. Ce dispositif 
+permet aux personnes à faibles revenus, souvent exclues du système de crédit traditionnel, d’accéder à 
+un crédit à la consommation adapté à leur situation sociale et financière. Conçu comme un outil social 
+de prévention du surendettement, il repose sur une approche pédagogique et constitue un moyen d’éviter 
+le recours à des formes de crédit facile. Les montants accordés, compris entre 500 et 10.000 € - voire 
+15.000 € sous certaines conditions - visent l’amélioration du bien-être quotidien et/ou le soutien au 
+processus d’insertion socioprofessionnelle.  
+ 
+Economie sociale 
+La Wallonie soutient activement l’économie sociale par le développement, l’accompagnement et la 
+valorisation de ce secteur. Depuis de nombreuses années, elle fait figure de pionnière en Europe dans ce 
+domaine. 
+La stratégie menée lors de la précédente législature fait aujourd’hui l’objet d’une évaluation, et une 
+nouvelle feuille de route est élaborée. Celle-ci vise à poursuivre les actions efficaces, à ajuster celles 
+dont l’impact demeure limité en matière de création d’emplois et de développement économique, et à 
+renforcer le rôle de l’économie sociale comme levier majeur pour l’emploi durable, la cohésion sociale 
+et la transition écologique. 
+Le secteur représente près de 6.600 entreprises et 150.000 emplois, soit plus de 12 % de l’emploi en 
+Belgique francophone. Il repose sur trois principes fondamentaux : la finalité de service à la collectivité, 
+la primauté des personnes sur le capital et une gouvernance démocratique. 
+Depuis le décret de 2008, plusieurs mesures ont été mises en place pour encourager et consolider les 
+modèles de gouvernance propres à l’entrepreneuriat social. L’économie sociale ne cesse de croître.  
+
+30 
+ 
+Le Gouvernement souhaite poursuivre les travaux d’évaluation liés aux Agences conseil en économie 
+sociale (ACES) avec l’objectif de renforcer l’efficacité du travail des agences conseil et de mieux les 
+intégrer dans l’écosystème de l’accompagnement économique général. 
+Le premier incubateur en économie sociale, iES! installé à Liège sera évalué dans le but d’apprécier les 
+conditions de reproduire du dispositif dans les zones où il pourra avoir le plus d’impact, tout en veillant 
+à ne pas négliger les territoires moins bien desservis. 
+Le nombre de coopératives citoyennes a fortement progressé ces dernières années, notamment dans les 
+circuits courts et les énergies renouvelables, deux domaines présentant un fort potentiel de 
+développement pour les modèles coopératifs. 
+L’innovation dans ce secteur est primordiale. Par conséquent, l’accès au financement pour des projets 
+en économie sociale sera amélioré grâce à des critères de sélection adaptés et des indicateurs élargis. 
+W.Alter, l’outil public de financement dédié à l’économie sociale, jouera un rôle central dans cette 
+politique, et ses missions seront prolongées. Ses moyens continueront à être augmentés. Dès 2027, un 
+chèque en économie sociale sera instauré pour simplifier et accélérer le financement des projets en phase 
+de pre-création et de création. Les bourses en économie sociale ont par ailleurs été relancées en 2025 
+pour soutenir les projets innovants. 
+Le Gouvernement wallon souhaite également renforcer les collaborations et les passerelles entre les 
+acteurs de l’économie sociale et ceux de l’économie classique notamment dans les dispositifs comme 
+celui des SINE. 
+Après l’adoption du décret réformant les Agences-conseil en économie sociale (A.C.E.S.), leur rôle sera 
+consolidé. Le texte vise à spécialiser et professionnaliser leurs services autour de missions prioritaires 
+(sensibilisation, promotion, information, orientation, accompagnement et consultance ponctuelle), à 
+revaloriser leur financement, et à intégrer des indicateurs de performance (plan d’action triennal, rapport 
+d’activité) conditionnant les subventions. 
+Le Gouvernement poursuivra également la dématérialisation de la collecte de données et 
+l’harmonisation des pratiques en matière de rapportage. Les livrables harmonisés seront systématisés en 
+cohérence avec le référentiel de Wallonie Entreprendre, dans une démarche de qualité. 
+L’incubateur I’ES, ouvert en 2023, sera renforcé, et la création de nouveaux incubateurs sera étudiée en 
+fonction des opportunités et des contraintes budgétaires. Cet incubateur informe le public sur l’économie 
+sociale, constitue un point d’entrée pour les porteurs de projets, et offre un espace de coworking, un 
+accompagnement sur mesure, des formations adaptées et un réseau de soutien. 
+Le Gouvernement poursuivra également la réforme des IDESS afin de moderniser ce dispositif 
+répondant à des besoins sociaux non couverts tout en créant de l’emploi pour des personnes éloignées 
+du marché du travail. Cette réforme visera à maîtriser les coûts, actualiser les activités et tirer parti des 
+enseignements des projets Territoir’ES. 
+La réforme du dispositif VESTA sera également mise en œuvre pour renforcer les coopératives 
+immobilières agréées en tant qu’entreprises sociales. L’objectif est de les professionnaliser, d’assurer 
+leur pérennité grâce à une subvention structurelle liée au développement de nouveaux projets, et 
+d’augmenter l’offre de logements abordables et adaptés aux publics fragilisés. 
+ 
+Droits des femmes et égalité des chances 
+En 2026, la Wallonie franchit une étape déterminante dans la construction d’une société plus égalitaire, 
+cohésive et résiliente. Après une année 2025 consacrée à la préparation des plans stratégiques, 2026 sera 
+l’année de la mise en œuvre, de l’opérationnalisation et du déploiement renforcé des politiques liées à 
+l’égalité, à la lutte contre les violences faites aux femmes, aux discriminations et à la défense des droits 
+des personnes LGBTQIA+. Dans un contexte où les tensions identitaires, les violences sexistes et les 
+disparités sociales continuent d’affecter la cohésion collective, notre volonté est de continuer à agir afin 
+de réduire les inégalités structurelles et renforcer la prévention qui constituent des leviers essentiels de 
+résilience démocratique. 
+
+31 
+ 
+Droits des femmes  
+Les inégalités de genre demeurent profondément ancrées dans les structures économiques, sociales et 
+culturelles qui limitent encore aujourd’hui les possibilités d’émancipation des femmes. C’est pourquoi 
+2026 verra l’entrée en vigueur de la Stratégie genre et droits des femmes 2025-2029 commune entre la 
+Région wallonne et la Fédération Wallonie-Bruxelles. Celle-ci vise à renforcer l’indépendance 
+économique des femmes, à accorder une priorité à la santé des femmes, à agir sur les stéréotypes de 
+genre, à améliorer l’intégration de la perspective genrée dans l’ensemble des politiques publiques et à 
+consolider le ‘gender budgeting’ comme outil d’évaluation de l’impact des choix budgétaires sur les 
+femmes et les hommes. Ces orientations s’inscrivent dans une approche systémique et préventive.  
+Au niveau de la Wallonie, le Conseil wallon de l’Égalité entre les femmes et les hommes (CWEHF) qui 
+constitue une instance d’avis essentielle dans ces matières, voit son subside porté à 210.000 €, 
+garantissant la continuité de son expertise et de sa capacité d’accompagnement des pouvoirs publics. 
+Afin d’améliorer la mixité réelle dans les instances concernées par les décrets de 2014 et la 
+représentation des femmes aux lieux de décision, un benchmark approfondi a été lancé fin 2025. Celui-
+ci analysera de manière comparative les législations et pratiques existantes en matière de mixité de genre 
+dans les organes d’administration des organismes privés agréés par les pouvoirs publics et les instances 
+publiques à l’échelle locale, supra-locale et régionale. 
+Parallèlement le protocole d’accord entre la FWB, la Région wallonne et les provinces wallonnes destiné 
+à structurer la politique locale d’égalité entre les femmes et les hommes fera l’objet d’une révision dans 
+le but d’aboutir à un accord de coopération. Cet accord renforcera la cohérence des actions menées au 
+niveau provincial et soutiendra la coordination des acteurs de terrain. La Wallonie y consacrera 107.000 
+€ par an, exclusivement sur le budget du Ministre de l’Égalité des chances, afin de financer les treize 
+plateformes provinciales de concertation, soutenir les initiatives locales de prévention des violences 
+faites aux femmes et promouvoir l’égalité entre les femmes et les hommes, au plus près des territoires. 
+Cet instrument permettra d’assurer un maillage territorial renforcé et une mise en œuvre plus efficace 
+de la politique régionale d’égalité. 
+ 
+Lutte contre les violences faites aux femmes 
+S’agissant de la lutte contre les violences faites aux femmes, 2026 sera l’année de déploiement du PVIF 
+(plan de lutte contre les violences faites aux femmes) qui met l’accent sur la notion de consentement 
+pour prévenir les violences sexistes et sexuelles, la lutte contre les cyberviolences, la mise en place du 
+Pack nouveau départ et l’accompagnement pour une meilleure prise en charge des auteurs afin lutter 
+contre la récidive.  
+Les moyens destinés aux services ambulatoires spécialisés sont renforcés, atteignant 3,539 millions € 
+en 2026. Cette enveloppe permettra notamment de maintenir et renforcer le financement des dix-neuf 
+services agréés, des six structures subsidiées de manière facultative et de soutenir les dispositifs 
+interdisciplinaires de lutte contre les violences intrafamiliales. Les DIVICO bénéficieront d’une 
+extension à l’ensemble du territoire, avec une augmentation de 115.000 € consacrée à ces dispositifs. Le 
+Pôle de ressources en violences conjugales, structure essentielle regroupant la ligne d’écoute 0800/30 
+030, la formation des professionnels et la coordination du DIVICO liégeois, bénéficiera d’un 
+financement permettant de répondre à l’augmentation des demandes et d’améliorer l’accompagnement 
+global des victimes comme des auteurs. En parallèle, la mise en ligne le 25 novembre 2025 du site web 
+de référence sur les violences en Belgique francophone « Stop violences faites aux femmes » permettra 
+en 2026 d’assurer une information fiable, accessible et centralisée pour le grand public et les 
+professionnels. 
+ 
+Lutte contre les discriminations  
+La politique de lutte contre les discriminations poursuivra son renforcement en 2026 avec la révision du 
+Décret wallon du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination. Cette 
+révision s’impose également afin de répondre aux exigences d’une directive européenne, qui impose 
+
+32 
+ 
+une mise en conformité des législations régionales en matière d’égalité de traitement et de protection 
+contre les discriminations. A cet égard une coopération accrue est prévue avec l’IEFH et UNIA, dont 
+les protocoles et l’accord de coopération seront actualisés pour tenir compte des nouveaux critères 
+protégés. Le Gouvernement continuera d’agir pour la déconstruction des stéréotypes de genre, la 
+promotion de la mixité dans l’emploi, la transparence salariale et la lutte contre toutes les formes de 
+discriminations.  
+ 
+Lutte contre le racisme 
+En matière de lutte contre le racisme, 2026 constituera une année clé. Le premier Plan wallon de lutte 
+contre le racisme 2023-2026 fera l’objet d’une évaluation et des travaux préparatoires pour le lancement 
+d’une nouvelle stratégie de lutte contre le racisme commune entre la Région wallonne et la FWB seront 
+effectués. La CIM égalité des chances qui a été lancée le 21 octobre dernier, prévoit la mise en place 
+d’un plan interfédéral de lutte contre le racisme et une collaboration renforcée avec le fédéral. Le Conseil 
+wallon de lutte contre le racisme, désormais installé au sein du CESE avec un subside de 100.000 €, 
+jouera un rôle important dans ces processus.  En tant qu’instance d’avis, il accompagnera le 
+Gouvernement dans la mise en place, l’évaluation et l’orientation des futures politiques régionales, 
+constituant ainsi un maillon essentiel de la gouvernance publique en matière de lutte contre le racisme. 
+ 
+Droits et accompagnement des personnes LGBTQIA+ 
+L’année 2026 sera également marquée par le lancement de la nouvelle Stratégie wallonne pour les droits 
+et l’inclusion des personnes LGBTQIA+. Cette stratégie rassemblera l’ensemble des actions visant à 
+prévenir les violences et discriminations, renforcer le soutien aux jeunes LGBTQIA+ en rupture avec 
+leur milieu familial, sensibiliser les acteurs de l’enseignement, de la santé et de la jeunesse, reconnaître 
+toutes les formes de parentalités, assurer l’intégrité des personnes intersexe et intégrer les personnes 
+LGBTQIA+ dans les structures pour aînés. Cette stratégie vise à transformer les principes d’égalité et 
+de non-discrimination en réalités tangibles dans la vie quotidienne des personnes concernées.  
+ 
+Ce budget 2026 inscrit l’égalité, la lutte contre les violences et contre toutes les formes de discrimination 
+au cœur du projet collectif wallon. Par une approche intégrée, préventive et systémique, le 
+Gouvernement entend garantir la dignité et l’émancipation de toutes et tous, et affirmer que l’égalité 
+constitue l’un des fondements essentiels de notre société. 
+ 
+One Health et Environnement 
+Dans un monde secoué par des crises sanitaires, environnementales et climatiques, la Wallonie se doit 
+d’adopter une politique environnementale audacieuse, portée par la transversalité, la durabilité et la 
+résilience. Au cœur de cette vision, l’approche « One Health » relie la santé humaine, animale et 
+environnementale, et devient le socle d’une stratégie ambitieuse et globale. Cette démarche 
+multidimensionnelle s’attaque aux grands défis de notre époque : la lutte contre les polluants émergents, 
+la promotion de pratiques durables dans tous les secteurs d’activité et la préservation d’un 
+environnement sain pour les générations futures.  
+La collaboration intersectorielle et entre tous les niveaux de pouvoir est la clé pour anticiper les crises 
+sanitaires et garantir un développement durable. Le déploiement de cette politique reposera sur des 
+partenariats solides entre les entités publiques régionales et fédérales, assurant une surveillance et un 
+contrôle intégrés des risques environnementaux et sanitaires. Ces alliances permettront à la Wallonie de 
+rester à la pointe de l’innovation et de la prévention, en renforçant la cohérence des politiques publiques 
+à chaque échelon.  
+Enfin, l’évolution des travaux européens sera suivie avec vigilance et ambition, afin de refléter 
+pleinement les spécificités wallonnes et d’affirmer son rôle moteur dans la transition écologique.  
+
+33 
+ 
+Cette politique s’inscrit dans les engagements pris à Ostrava et Budapest dans le cadre des 6 et 7èmes 
+conférences ministérielles de l’Organisation mondiale de la Santé sur l’environnement et la santé. Elle 
+vise à conjuguer les efforts pour renforcer la santé publique, avec une attention particulière pour les 
+publics vulnérables, et protéger l’environnement. Cette approche transversale favorise des solutions 
+durables qui associent santé, environnement et économie et permet de coordonner et rationaliser les 
+dispositifs existants.  
+Les politiques environnementales portées durant cette législature s’appuieront avec force sur trois piliers 
+essentiels : l’objectivation des données scientifiques dans le respect du principe de précaution, une 
+transparence totale et la responsabilisation de chaque acteur, afin de restaurer durablement la confiance.  
+Notre ambition est de renforcer l’état des connaissances scientifiques ; réduire progressivement l’usage 
+des produits nocifs et promouvoir des pratiques de production responsables, en particulier dans les 
+secteurs agricole et industriel.  
+L’intégration de la durabilité et de la gestion de crise au cœur de la gouvernance régionale permettra 
+non seulement d’anticiper les défis, mais aussi d’y répondre avec efficacité et vision. C’est ainsi que 
+nous préparerons la Wallonie à relever les besoins présents et futurs, avec conviction et détermination. 
+ 
+Lutte contre les polluants émergents & PFAS 
+Le Gouvernement wallon est déterminé à poursuivre et amplifier les actions engagées pour combattre 
+la présence des PFAS dans notre environnement. Avec une approche ambitieuse et rigoureuse, la Région 
+place la protection de la santé publique, la préservation de l’environnement et le développement 
+économique durable au cœur de sa stratégie. Cet engagement se traduit par un renforcement de la 
+réglementation environnementale, tout en soutenant l’innovation dans les secteurs économiques afin de 
+transformer ce défi en opportunité de progrès. 
+La gestion des PFAS constitue un enjeu majeur et figure parmi les priorités absolues du Gouvernement 
+wallon. Un plan de gestion adopté en septembre 2024 et complété en mai 2025 structure des mesures 
+fortes : surveillance des zones à risque, campagnes exploratoires, suivi du biomonitoring des populations 
+concernées et élaboration de normes plus strictes pour réduire l’exposition à ces polluants. Ces actions 
+s’inscrivent dans une stratégie cohérente et durable, enrichie par des campagnes de sensibilisation pour 
+mobiliser chaque citoyen. 
+Le Gouvernement s’engage également à soutenir les agriculteurs et les industriels dans la recherche de 
+pratiques alternatives, afin de réduire l’empreinte environnementale des PFAS. Les actions concertées 
+avec les entreprises permettront d’introduire des valeurs seuils temporaires pour les rejets industriels et 
+d’assurer un contrôle rigoureux des boues d’épuration, tout en respectant les exigences économiques et 
+sociales des parties prenantes. Ensemble, nous faisons de la Wallonie un territoire pionnier dans la lutte 
+contre les polluants éternels et dans la construction d’un avenir plus sain et durable. 
+  
+Permis d’environnement : simplification administrative et dématérialisation 
+Le permis d’environnement est un outil fondamental de la protection de l’environnement, de façon 
+intégrée pour toute exploitation en permettant de concilier l’économie et l’environnement.  Il s’agit d’un 
+enjeu primordial pour le développement de la Wallonie. 
+La simplification administrative pour les permis passe, entre autres, par la dématérialisation des 
+procédures. 
+Les axes de travail pour améliorer le processus dans la demande des permis d’environnement sont : 
+• 
+Permettre d’effectuer les démarches de manière complétement électronique ; 
+• 
+Fournir à l’usager des outils d’aide pour compléter sa demande (pré-remplissage, cartographie, 
+vérification de la complétude, aide aux choix des rubriques d’activités/installations, délégation, 
+…) ; 
+• 
+Améliorer la lisibilité et simplifier les formulaires et les courriers associés aux démarches ; 
+
+34 
+ 
+• 
+Maximiser les gains de charges administratives, pour le SPW mais aussi pour les villes et les 
+communes, tout en garantissant la sécurité juridique des autorisations délivrées. 
+Plusieurs phases du projet de dématérialisation ont déjà été testées et validées durant l’année 2024. Au 
+printemps 2025, le système de dématérialisation a été testé en injectant des projets tests, la 
+dématérialisation sera effective pour janvier 2026 et d’application pour toutes les communes wallonnes 
+en 2027. 
+  
+Education et sensibilisation à l’environnement 
+ Les associations environnementales s’imposent comme des partenaires incontournables et stratégiques 
+pour relayer et concrétiser nos politiques d’éducation et de sensibilisation à l’environnement. En outre, 
+grâce à leur proximité avec les citoyens, elles garantissent que les décisions prises au niveau 
+gouvernemental se traduisent en résultats tangibles sur le terrain. Les travaux d’adaptation du cadre 
+réglementaire ont significativement avancé. Les textes révisés visent à mieux répondre aux réalités du 
+terrain, à clarifier les attentes et à stabiliser durablement les acteurs. L’objectif est d’aboutir en 2026 à 
+un dispositif modernisé, cohérent, structurant et efficace. 
+Par ailleurs, malgré les contraintes budgétaires, nous avons préservé en 2026 le montant des subventions 
+octroyées aux associations environnementales dans le cadre de leur Programme d’Actions 
+Environnementales (PAE). Ce maintien constitue un signal clair : notre soutien au secteur associatif 
+reste entier, et nous veillons à ce que chaque euro investi contribue à renforcer la préservation de 
+l’environnement et un écosystème associatif solide. 
+  
+Des sols qui augmentent le capital naturel 
+La Wallonie doit rassembler les connaissances de l’état des sols en ce compris avec les organes de 
+recherche afin d’avoir une vision d’ensemble régulièrement actualisée et des données objectives sur 
+l’état des sols.  
+Il est nécessaire de disposer de données wallonnes actualisées sur l’état biologique des sols, de l’humus, 
+du taux de carbone, et des différentes pollutions, ce qui permettra de construire des politiques ciblées 
+par secteur pour améliorer les pratiques et la gestion des sols.  
+Des études environnementales préalables - réévaluées régulièrement - sont réalisées sur des zones 
+spécifiques afin de faciliter les procédures individuelles ultérieures pour l’implantation économique. Les 
+zones assainies ou dont l’état environnemental est déjà connu sont prioritairement concernées.  
+La SPAQuE est chargée de fournir l’expertise nécessaire pour la définition de ces zones.  
+  
+Le Ministre de l’Environnement porte l’accélération de la dépollution des sols et la réhabilitation des 
+friches en simplifiant les procédures de réaffectation des sites (demandes de permis, etc.). La création 
+de sites récepteurs de terres excavées se doit d’être facilitée ainsi que l'évaluation de la règlementation 
+afin d’améliorer son efficience et de réduire la charge financière et administrative sur les acteurs 
+concernés.   
+Dans le cadre de l’évolution de la règlementation européenne, l’évaluation du décret sols sera poursuivie 
+au regard des éléments de santé publique et de conservation et restauration des milieux naturels. 
+Dans la même logique que celle de la protection de la ressource en eau, un soutien à l’approche agricole 
+systémique de la transition sera menée.  
+  
+Eau 
+Les travaux entamés dans le Schéma Régional des Ressources en Eau (SRRE) 3.0 seront poursuivis et 
+déployés conformément aux décisions du Gouvernement et aux engagements budgétaires 2024 et 2025.  
+
+35 
+ 
+Le Gouvernement travaillera étroitement avec les parties prenantes du secteur afin d’assurer une eau de 
+distribution qualitative pour tous. La gestion des polluants émergents, dont les PFAS, fera l’objet d’une 
+attention spécifique. Le monitoring complet initié en 2025 sera poursuivi avec les acteurs du secteur de 
+l’eau : de la distribution et de l’assainissement afin d’affiner au maximum la connaissance sur les 
+substances émergentes et en vue d’avoir un état des lieux complet dans le cadre notamment des travaux 
+de révision des Directives européennes ayant un impact à ce sujet. 
+Des actions préventives de préservation de la ressource en eau seront mises en œuvre afin d’agir en 
+amont des contaminations en parallèle des travaux législatifs. Ces actions passent notamment par un 
+soutien à l’encadrement agricole pour soutenir le secteur dans sa transition. Certaines structures 
+bénéficieront d’ailleurs d’engagement quinquennal. C'est par exemple le cas de Greenotec. 
+D’autres subventions étant liées et intégrées dans la dynamique du PwRP bénéficieront d’une subvention 
+liée à la durée du Programme, par souci de cohérence. 
+Le Gouvernement supervisera le prix de l’eau par une trajectoire quinquennale rapportée annuellement 
+afin de maitriser le prix de l’eau.  
+Il veillera à assurer un usage le plus adapté du Fond social de l’eau afin de soutenir les publics les plus 
+précarisés et cela en concertation avec la Fédération des CPAS et le Réseau wallon de lutte contre la 
+pauvreté notamment. 
+ 
+Pollution sonore et lumineuse 
+La Wallonie entend poursuivre ses efforts en matière d’optimisation de l’éclairage public avec des 
+objectifs pluriels tenant compte à la fois des besoins en sécurité publique et en efficacité énergétique, de 
+la lutte contre les pollutions sonore et lumineuse et des enjeux de la biodiversité. 
+  
+Gestion des déchets optimisée 
+Le Gouvernement a décidé de poursuivre la mise en œuvre du Plan Wallon des Déchets-Ressources 
+existant plutôt que de procéder à sa révision et il a approuvé les critères de priorisation et les thématiques 
+prioritaires de mise en œuvre du PWD-R pour cette législature et la méthodologie de mise en œuvre et 
+de suivi. 
+Le Gouvernement dressera un état des lieux et déploiera la stratégie d’économie circulaire en vue d’une 
+circularité maximale en 2050. 
+  
+Le Gouvernement soutient les acteurs de la réparation, du réemploi et de la réutilisation. Les produits 
+biosourcés, durables et locaux seront encouragés ainsi que les principes d’écoconception, de durabilité 
+dans le temps et réparabilité des produits.  
+La règlementation européenne fixe des objectifs ambitieux de traitement des emballages d’ici 2030. 
+Concernant l’évaluation environnementale et sanitaire des gobelets réutilisables, de nombreuses études 
+ont déjà été réalisées sur le sujet. A ce titre, l’administration a recensé plusieurs études pertinentes qui 
+sont actuellement à l’examen. Une synthèse des conclusions existantes sera disponible d’ici la fin de 
+l’année. 
+La Wallonie, au travers de la réforme du coût-vérité des déchets, récompensera les efforts de réduction 
+et de tri des déchets menés par les citoyens et les acteurs économiques, en concertation avec les pouvoirs 
+communaux et les intercommunales. 
+L’utilisation du Fonds de la gestion des déchets sera révisée en 2026 afin de simplifier et harmoniser 
+l’octroi des subventions, tout en renforçant leur efficacité pour atteindre les objectifs de prévention et 
+de réduction des déchets. 
+  
+
+36 
+ 
+Lutte contre la délinquance environnementale 
+Le Gouvernement porte l’ambition de lutter efficacement contre les déchets sauvages. Pour y remédier, 
+il travaille tant sur la prévention que sur la répression en application du principe “pollueur-payeur”. La 
+Wallonie améliorera la règlementation afin de la rendre plus effective. Elle continuera à développer le 
+fichier central relatif à la délinquance environnementale afin que tous les acteurs de terrain concernés 
+puissent y avoir accès, de manière à lutter pleinement contre les récidivistes.   
+La Wallonie adoptera, en 2026, la deuxième stratégie wallonne de politique répressive 
+environnementale. Cette stratégie est double. Elle vise d’une part à renforcer la lutte contre la 
+délinquance et la criminalité environnementale et d’autre part à combattre le sentiment d’impunité dans 
+ces domaines. 
+  
+Lutte contre tous les gaspillages 
+À la suite de l’évaluation du plan REGAL, intégré dans le PWDR, le gouvernement poursuivra les 
+efforts engagés pour réduire le gaspillage alimentaire de 50 % en 2030, à travers l’ensemble de la chaîne, 
+en renforçant la gouvernance et les collaborations. 
+Le Gouvernement travaillera à l’objectivation des données relatives à la destruction de biens non 
+alimentaires neufs et prendra le cas échéant des mesures visant à favoriser le don et la réutilisation et à 
+limiter ce gaspillage de ressources. Il veillera à sensibiliser sur les comportements qui nuisent à la santé, 
+à l’environnement ou à la cohésion sociale.  Dans la même lignée, il soutiendra les initiatives de récolte 
+et redistribution du matériel électroménager endommagé et impropre à la vente. 
+La mise en œuvre progressive des obligations européennes liées à la prévention du gaspillage textile 
+sera poursuivie, en préparant le cadre pour la responsabilité élargie des producteurs (REP). 
+  
+Alimentation Durable 
+En 2026, la Wallonie engagera une nouvelle étape pour consolider sa politique d’alimentation saine et 
+durable. Après l’évaluation de la stratégie Manger Demain et du plan Food Wallonia, et face aux enjeux 
+de santé publique, d’environnement, d’accessibilité, l’objectif sera de renforcer la cohérence, l’efficacité 
+et la lisibilité de l’action publique. Cette nouvelle dynamique doit permettre de structurer un cadre plus 
+solide pour accompagner l’ensemble des acteurs du système alimentaire, du producteur au 
+consommateur, dans une transition plus juste et plus durable. 
+Afin de traduire cette ambition en actions concrètes, le Gouvernement wallon a validé des feuilles de 
+route qui constituent le cœur opérationnel de la trajectoire 2026. Élaborées à partir des enseignements 
+tirés des politiques précédentes, elles visent à organiser de manière cohérente et efficace l’ensemble des 
+interventions liées au système alimentaire. Elles offrent un cadre structuré permettant d’orienter les 
+priorités, de renforcer la coordination et de garantir une mise en œuvre alignée avec les objectifs 
+environnementaux, sociaux, sanitaires et économiques.  
+Les quatre feuilles de route prioritaires dans mes compétences sont :  
+− 
+La restauration collective :  rinaliser un cadre post-2025, renforcer les achats issus des filières 
+courtes et bio et pérenniser les engagements du Green Deal Cantines. 
+− 
+Le gaspillage alimentaire : réduire le gaspillage, renforcer les liens entre prévention, 
+redistribution et accessibilité tout en veillant à l’atteinte des objectifs de la dernière directive 
+européenne en matière de lutte contre les pertes et gaspillages alimentaires. 
+− 
+Le réseau d’animations territoriales : clarifier les rôles des multiples acteurs territoriaux, éviter 
+les chevauchements, mieux articuler initiatives locales et régionales et valoriser pleinement les 
+investissements PNRR. 
+− 
+Le droit à l’alimentation et la justice alimentaire : garantir que chacun puisse accéder à une 
+alimentation de qualité, durable et culturellement appropriée. Elle visera à renforcer l’équité 
+
+37 
+ 
+dans le système alimentaire, en soutenant les publics les plus vulnérables et en intégrant la 
+dimension sociale dans l’ensemble des politiques alimentaires. 
+En renforçant la transversalité entre les politiques de santé, d’environnement, d’économie sociale et 
+d’action sociale, et en améliorant la cohérence entre les niveaux régional et local, l’année 2026 marquera 
+un tournant. Elle permettra de consolider les acquis, d’éviter la dispersion des efforts et de mettre en 
+œuvre une politique alimentaire capable de répondre aux défis systémiques tout en garantissant une 
+alimentation de qualité, durable et accessible à tous. 
+ 
+Santé :  
+En 2026, en s’appuyant sur nos politiques en matière de santé, nous voulons franchir de nouvelles étapes 
+pour construire une Wallonie encore plus résiliente, solidaire, et inclusive. Nos choix budgétaires, qui 
+invitent à l’innovation et à l’efficience, s’inscrivent dans la continuité de ces ambitions. 
+ 
+AVIQ : une agence résiliente et efficace 
+Dans un dialogue constant avec l’AVIQ, mais aussi ses organes de gestion, nous engageons une 
+réflexion en profondeur sur son organisation dont l’objectif est de s’assurer que chaque euro dépensé 
+serve pleinement ses missions essentielles – santé, handicap, vieillissement, bien-être. Nous 
+travaillerons à : 
+• 
+Rationaliser et recentrer sur les missions essentielles en santé, handicap, vieillissement et bien-
+être ; 
+• 
+Maintenir une capacité d’action sur les politiques de santé et sociales malgré les économies ; 
+• 
+Garantir une flexibilité interne pour protéger les fonctions critiques (coordination, suivi 
+sanitaire, inspection) ; 
+• 
+Développer notre vision : préserver l’accès équitable à la santé pour toutes et tous. 
+ 
+Ce travail est fondamental : il vise à harmoniser, simplifier et rendre plus efficient le soutien apporté 
+aux différents secteurs, afin que chaque centime investi ait un impact réel et mesurable. 
+ 
+Garantir l’autonomie et soutenir les aidants proches 
+Nous préparons la mise en place du modèle wallon de la Garantie Autonomie. Ce dispositif permettra à 
+nos aînés, aux personnes accidentées ou personnes en situation de handicap, de rester chez elles le plus 
+longtemps possible, dans la dignité. 
+Il offrira des solutions de répit aux proches aidants – majoritairement des femmes – et créera de l’emploi 
+local dans les métiers du soin. 
+Cette réforme introduit une véritable dimension d’égalité et valorise les métiers du ‘Care’, contribuant 
+à l’autonomisation économique des travailleuses. 
+Elle ne se traduit pas encore en chiffres dans le budget 2026, qui sera dédié à la mise en place d’un 
+groupe d’experts qui proposera au Gouvernement des mesures concrètes.   
+La garantie autonomie constituera donc un élément clé de notre action en 2026 et guidera l’ensemble de 
+nos travaux, notamment dans la stratégie « Bien vieillir ». 
+ 
+ 
+ 
+
+38 
+ 
+Handicap : répondre à l’urgence et anticiper les besoins 
+Les besoins continuent de grandir : en vingt ans, les situations prioritaires ont été multipliées par quatre. 
+Pour y répondre, nous mobilisons 5 millions d’euros supplémentaires afin de créer 80 à 100 nouvelles 
+places dans les structures d’hébergement. Ces moyens seront pérennes.  
+ 
+Santé : immunisation et revalorisation 
+Parce que la santé est prioritaire, nous avons choisi d’immuniser les moyens budgétaires alloués à ce 
+secteur. Nous consacrons dès lors 8,6 millions d’euros pour compenser le report d’indexation décidé par 
+le fédéral.  
+Par ailleurs, parce que la santé et le social reposent sur des femmes et des hommes engagés, nous 
+poursuivrons en 2026 notre travail pour renforcer l’attractivité des métiers du soin et de 
+l’accompagnement. Ces professions sont essentielles, mais elles souffrent encore d’un manque de 
+reconnaissance et de conditions de travail difficiles. 
+C’est un signal fort que nous souhaitons donner, le gouvernement protège les métiers du soin et affirme 
+leur valeur. 
+ 
+La santé se construit par la prévention et la promotion de la santé : un investissement et une 
+approche structurante 
+Car chaque euro investi en prévention peut générer entre 2 et 10 euros d’économie en soins selon le 
+domaine (vaccination, lutte contre le tabagisme, dépistage, activité physique…), nous nous devons 
+d’amplifier les dynamiques préventives. 
+Ces initiatives s’inscrivent dans la refonte du Plan WAPPS à savoir le Plan de prévention et de promotion 
+de la santé adopté en 2018. Il fait actuellement l’objet d’une évaluation en vue de sa refonte début 2027. 
+2026 sera donc une année charnière pour sa construction.  
+Ces stratégies ont été construites sur la base de 12 objectifs transversaux dont la prise en compte de la 
+dimension genre. Cela signifie que les spécificités liées au genre ainsi que les inégalités sociales de santé 
+sont intégrées dans chacune des priorités présentes dans la programmation à savoir, la promotion des 
+modes de vie et des milieux de vie favorables à la santé, la promotion d’une bonne santé mentale et du 
+bien-être, la prévention des maladies chroniques, des maladies infectieuses et des traumatismes. 
+La santé mentale est également un enjeu majeur de notre société. Elle exige une approche décloisonnée, 
+associant soins, prévention et accompagnement social. Nous travaillerons à renforcer la coordination 
+entre acteurs, à développer des dispositifs accessibles et à promouvoir une culture de la santé mentale 
+positive, afin de lutter contre la stigmatisation et soutenir le bien-être collectif. 
+ 
+Une première ligne une porte essentielle du système de santé. 
+En 2026 nous poursuivrons cette réforme qui repose sur une approche territoriale intégrée, où les 
+professionnels – médecins, paramédicaux, acteurs sociaux – travaillent en réseau et assument une 
+responsabilité collective envers la population. Cette organisation vise à mieux coordonner 
+l’accompagnement, réduire les inégalités et renforcer la robustesse du système face aux défis actuels et 
+futurs. 
+ 
+Allocations familiales : simplification et justice sociale 
+Comme prévu dans la DPR, nous réformons les allocations familiales pour soutenir les familles 
+monoparentales et favoriser l’autonomie des jeunes. 
+Cela passe par : 
+
+39 
+ 
+• 
+Le rehaussement du plafond de revenus pour le supplément majoré ; 
+• 
+L’introduction d’un « pot de 12 mois » pour les jeunes de 18 à 21 ans ; 
+• 
+La digitalisation pour simplifier les démarches. 
+Ces ambitions sont notre feuille de route pour une Wallonie qui protège, qui soutient et qui émancipe. 
+Une Wallonie où l’autonomie, la santé et l’égalité deviennent des réalités pour toutes et tous. 
+4.5. 
+Ministre de la Fonction publique, de la Simplification administrative et des 
+Infrastructures sportives  
+Fonction publique 
+Le Gouvernement a la ferme volonté d’inscrire la fonction publique dans une dynamique nouvelle afin 
+de rendre celle-ci plus en adéquation avec les réalités actuelles. Ce processus de modernisation de la 
+Fonction Publique se traduira au travers de la mise en place de plusieurs objectifs :   
+Une relation politico-administrative harmonieuse et une administration renforcée 
+Le rôle de la fonction publique en tant que haute administration au service de l’Etat sera appuyée en 
+privilégiant le travail direct des Ministres avec leurs administrations. La relation politico-administrative 
+sera formalisée dans un document qui comprendra des objectifs clairs, resserrés et réalistes et précisera 
+des modalités de collaboration permettant davantage d’autonomie ainsi qu’un dialogue régulier et 
+efficace.  
+Une administration moderne, efficiente, harmonisée et attractive 
+Les futurs engagements prendront la forme de contrats à durée indéterminée afin de mettre fin 
+progressivement au régime statutaire dans la fonction publique. Dans cette optique, le Gouvernement a 
+approuvé l’abrogation de l’article 119 quater § 2, ce qui met fin aux statutarisations depuis le début de 
+l’année 2025. Afin de tendre vers une équivalence avec le régime de pension des membres statutaires, 
+le Gouvernement travaillera à la mise en œuvre d’un second pilier pour le membre contractuel. Un 
+budget de 5 millions d’euros est mis à disposition en 2026. 
+Les possibilités de mobilité interne et externe seront développées pour tous les membres du personnel.  
+La réforme en profondeur du Code de la Fonction publique wallonne ne se fera bien entendu que dans 
+le cadre du respect du statut syndical et moyennant une large concertation. C’est un processus de longue 
+haleine que le Gouvernement va initier encore en 2025. 
+Un management responsabilisé 
+Le Gouvernement veillera à ce que l’administration soit toujours en ordre de marche en la dotant de ses 
+plus hauts fonctionnaires. 
+Les procédures de désignation des hauts fonctionnaires seront progressivement revues afin d’ouvrir plus 
+largement l’accès à ces emplois à des candidats externes à la fonction publique. 
+La pertinence de la comparaison des titres et mérites des candidats sera renforcée par le biais d’une 
+audition. Cela devrait permettre d’attirer des candidats de tous les horizons afin d’apporter des idées 
+nouvelles au sein de l’Administration wallonne. 
+La procédure d’évaluation des fonctions dirigeantes sera également revue afin d’être plus dynamique, 
+plus régulière et de pouvoir être enclenchée plus rapidement, d’initiative, si des difficultés sont 
+constatées.  
+Enfin, les hauts fonctionnaires seront davantage responsabilisés quant à la mise en œuvre des moyens à 
+leur disposition par des objectifs clairs, des évaluations régulières, le renforcement des formations en 
+management public et le levier des délégations. Une partie de leur rémunération sera liée à l’atteinte 
+d’objectif clairement définis par le Gouvernement wallon. C’est également dans cette optique, qu’en 
+collaboration avec les hauts fonctionnaires (COSTRA), le Gouvernement a défini une trajectoire 
+budgétaire claire pour les rémunérations des agents, et ce pour l’ensemble de la législature. Pour 2026, 
+
+40 
+ 
+les moyens alloués pour les rémunérations des agents seront de 736 millions d’euros. Cela laissera une 
+véritable autonomie de gestion aux hauts fonctionnaires en matière de gestion des ressources humaines. 
+Une fonction publique neutre, inclusive et exemplaire 
+L’accessibilité des services du Gouvernement et organismes publics aux personnes porteuses d’un 
+handicap sera renforcée.  
+L’administration tendra également à l’exemplarité en termes de responsabilité sociétale. A cet égard, 
+une attention particulière sera apportée à la transition climatique dont elle doit être le moteur. 
+Gestion immobilière 
+Le Gouvernement a développé une stratégie immobilière visant à mettre en adéquation les besoins 
+immobiliers de la Fonction Publique wallonne avec les ressources dont elle dispose.  
+Les objectifs de cette stratégie sont : 
+• 
+de procéder, dans la mesure des possibilités en tenant compte des spécificités du télétravail, à 
+un regroupement des bâtiments par DG. A l’heure actuelle, certaines directions générales sont 
+dispersées sur plusieurs sites, parfois géographiquement fort éloignés ce qui n’est pas sans 
+générer des surcoûts logistiques et des difficultés de gestion ;  
+• 
+de promouvoir la mobilité douce en rapprochant les implantations des transports en commun. 
+A titre d’information, augmenter de 15 % le nombre de collaborateurs qui viennent en transport 
+en commun aurait un impact sur la diminution des gaz à effet de serre aussi important que la 
+rénovation complète des deux implantations administratives les plus importantes, à savoir les 
+bâtiments de la place de la Wallonie et du Cap Nord ; 
+• 
+d’améliorer l’efficacité énergétique des bâtiments, en appliquant les normes et objectifs 
+européens en la matière et en se basant sur le cadastre détaillé des bâtiments. 
+C’est dans le cadre de cette stratégie immobilière que nous avons assisté (ou que nous assisterons dans 
+les mois à venir) : 
+• 
+au regroupement des agents du SPW Finances au sein du bâtiment Crosspoint situé Boulevard 
+Ernest Mélot ; 
+• 
+au déménagement des agents du Secrétariat Général dans le bâtiment « CapSud » ; 
+• 
+un projet de rationalisation des espaces occupés par les cabinets ministériels est également à 
+l’étude au sein du Collège des Secrétaires de cabinet. 
+D’autres grands déménagements sont actuellement à l’étude avec notamment le regroupement des 
+agents du SPW ARNE dans le bâtiment sis à la Place de la Wallonie, le rassemblement des agents du 
+SPW TLPE rue des Brigades d’Irlande et enfin le rassemblement des agents du SPW IAS à Bomel.  
+La stratégie immobilière fait l’objet d’une actualisation et d’une réévaluation permanente afin de 
+coïncider en permanence avec la réalité opérationnelle du terrain. 
+ 
+Gestion mobilière 
+Une réflexion est également menée à la demande du Gouvernement wallon en matière de dépenses 
+mobilières.  
+La centralisation des crédits mobiliers porte déjà ses fruits et une optimalisation avec une vision 
+budgétaire globale et maîtrisée s’encre plus fort chaque jour au bénéfice d’un meilleur service aux 
+usagers.  
+Dans une logique de responsabilisation des hauts fonctionnaires, les Directions générales se verront 
+attribuer des lignes de crédit pour leurs dépenses mobilières au sein de la Direction générale Support. 
+Cette approche permettra de conserver les avantages liés à la centralisation des disponibilités budgétaires 
