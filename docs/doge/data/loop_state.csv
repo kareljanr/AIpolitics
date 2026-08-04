@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T07:30:00Z,rq_812,821,no,tick821 SOWAER YE2025 492m assets sales47 op-3.8 dual airports FOI; next rq_813 residual dual L5/local; progress@830 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T08:00:00Z,rq_813,822,no,tick822 WE AR2025 residual consol 6.38bn SA 5.36bn write-downs 71.6m dual PMV/SFPIM FOI; next rq_814 residual dual L5/local/CoA; progress@830 in 8; rq_116 deferred

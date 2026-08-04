@@ -16917,3 +16917,53 @@ bud_sowaer_loss_carryforward_2025,sowaer,2025,-45970456,,,outturn,src_sowaer_com
 bud_sowaer_fin_income_2025,sowaer,2025,5701755,,,outturn,src_sowaer_comptes_ye2025,strong,Produits financiers recurrents YE2025 5.702m; tick821
 bud_sowaer_fin_charges_2025,sowaer,2025,1588892,,,outturn,src_sowaer_comptes_ye2025,strong,Charges financieres recurrentes YE2025 1.589m; tick821
 bud_dual_sowaer_airports_tick821,gg_belgium,2025,491746944,,,synthesis,src_dual_sowaer_bsca_bac_tick821,strong,Dual SOWAER 492m assets vs BSCA/BAC residual; not TE-additive; tick821
+bud_we_liberations_exact_2025,wallonie_entreprendre,2025,612575374,,,outturn,src_we_rapport_2025,strong,Group liberations exact 612.575m to 1330 firms (table p9); tick822
+bud_we_liberations_fp_group_2025,wallonie_entreprendre,2025,546000000,,,outturn,src_we_rapport_2025,strong,Fonds propres liberations 546m = 89pct of 2025 liberations; tick822
+bud_we_large_deals_ge10m_2025,wallonie_entreprendre,2025,296363190,,,outturn,src_we_rapport_2025,strong,11 deals >=10m totalling 296.363m (48pct of liberations); tick822
+bud_we_small_lt500k_2025,wallonie_entreprendre,2025,104565379,,,outturn,src_we_rapport_2025,strong,1167 deals <500k totalling 104.565m (co-financing/EasyGreen class); tick822
+bud_we_sector_metal_defense_2025,wallonie_entreprendre,2025,154505846,,,outturn,src_we_rapport_2025,strong,Sector fabrications metalliques/machines/defense liberations 154.506m (25pct); tick822
+bud_we_sector_aero_2025,wallonie_entreprendre,2025,125995589,,,outturn,src_we_rapport_2025,strong,Sector autres fabrications dont aeronautique 125.996m (21pct); tick822
+bud_we_guarantees_exact_2025,wallonie_entreprendre,2025,208473474,,,outturn,src_we_rapport_2025,strong,Guarantees decided exact 208.473m to 1588 firms; tick822
+bud_we_guarantees_levered_2025,wallonie_entreprendre,2025,286700000,,,outturn,src_we_rapport_2025,strong,Bank finance levered by guarantees 286.7m (2024 338.8m); tick822
+bud_we_encours_garanties_md_2025,wallonie_entreprendre,2025,361000000,,,stock,src_we_rapport_2025,strong,Encours non contentieux mission deleguee 361.0m YE2025 (383.1m YE2024); tick822
+bud_we_encours_garanties_fp_2025,wallonie_entreprendre,2025,201700000,,,stock,src_we_rapport_2025,strong,Encours non contentieux fonds propres 201.7m YE2025; tick822
+bud_we_provision_sinistralite_2025,wallonie_entreprendre,2025,101800000,,,stock,src_we_rapport_2025,strong,Provision risque sinistralite garanties 101.8m YE2025; tick822
+bud_we_fei_cover_2025,wallonie_entreprendre,2025,22500000,,,stock,src_we_rapport_2025,strong,FEI counter-guarantee cover on MD encours 22.5m (was 30.8m); tick822
+bud_we_assets_sa_2025,wallonie_entreprendre,2025,5357969000,,,stock,src_we_rapport_2025,strong,WE SA total assets YE2025 5.357969bn (kEUR table); tick822
+bud_we_equity_sa_k_2025,wallonie_entreprendre,2025,4981089000,,,stock,src_we_rapport_2025,strong,WE SA fonds propres YE2025 4.981089bn (AR kEUR; aligns NBB ~4.981bn); tick822
+bud_we_fin_assets_sa_2025,wallonie_entreprendre,2025,4482304000,,,stock,src_we_rapport_2025,strong,WE SA immobilisations financieres 4.482304bn YE2025; tick822
+bud_we_portfolio_part_2025,wallonie_entreprendre,2025,3075240000,,,stock,src_we_rapport_2025,strong,Portfolio participations book 3.075240bn YE2025; tick822
+bud_we_portfolio_loans_2025,wallonie_entreprendre,2025,1407064000,,,stock,src_we_rapport_2025,strong,Portfolio prets book 1.407064bn YE2025; tick822
+bud_we_cash_sa_2025,wallonie_entreprendre,2025,789371000,,,stock,src_we_rapport_2025,strong,WE SA tresorerie 789.371m YE2025 (was 834.454m); tick822
+bud_we_debt_lt_sa_2025,wallonie_entreprendre,2025,256087000,,,stock,src_we_rapport_2025,strong,WE SA exigible LT 256.087m YE2025; tick822
+bud_we_debt_st_sa_2025,wallonie_entreprendre,2025,120793000,,,stock,src_we_rapport_2025,strong,WE SA exigible CT 120.793m YE2025; tick822
+bud_we_debt_sofriwal_2025,wallonie_entreprendre,2025,148165000,,,stock,src_we_rapport_2025,strong,Debt to SOFRIWAL (Fonds renovation industrielle) 148.165m; tick822
+bud_we_debt_fpw_2025,wallonie_entreprendre,2025,46011000,,,stock,src_we_rapport_2025,strong,Debt Fonds de Participations de Wallonie 46.011m; tick822
+bud_we_debt_eib_2025,wallonie_entreprendre,2025,98475000,,,stock,src_we_rapport_2025,strong,EIB external financing 98.475m; tick822
+bud_we_result_sa_exact_2025,wallonie_entreprendre,2025,151221809,,,outturn,src_we_rapport_2025,strong,WE SA resultat exercice exact 151.22180866m (AR affectation; matches press 151m); tick822
+bud_we_portfolio_result_2025,wallonie_entreprendre,2025,156201000,,,outturn,src_we_rapport_2025,strong,Resultat sur portefeuille 156.201m (102pct of pre-tax); tick822
+bud_we_write_downs_fin_2025,wallonie_entreprendre,2025,71550000,,,outturn,src_we_rapport_2025,strong,Reductions de valeur nettes immobilisations financieres 71.550m P&L; tick822
+bud_we_plus_values_2025,wallonie_entreprendre,2025,50857000,,,outturn,src_we_rapport_2025,strong,Plus-values nettes cessions 50.857m (Esobiotec 38.5m lead); tick822
+bud_we_div_income_shares_2025,wallonie_entreprendre,2025,138242000,,,outturn,src_we_rapport_2025,strong,Revenus immob. financieres actions (dividendes) 138.242m; tick822
+bud_we_interest_claims_2025,wallonie_entreprendre,2025,39021000,,,outturn,src_we_rapport_2025,strong,Revenus immob. financieres creances 39.021m; tick822
+bud_we_remun_2025,wallonie_entreprendre,2025,31187000,,,outturn,src_we_rapport_2025,strong,Remunerations SA 31.187m 2025 (was 29.239m); tick822
+bud_we_functioning_cost_2025,wallonie_entreprendre,2025,44276000,,,outturn,src_we_rapport_2025,strong,Frais de fonctionnement total 44.276m; tick822
+bud_we_treasury_result_2025,wallonie_entreprendre,2025,17290000,,,outturn,src_we_rapport_2025,strong,Resultat sur tresorerie 17.290m; tick822
+bud_we_top_div_sab_2025,wallonie_entreprendre,2025,49600000,,,outturn,src_we_rapport_2025,strong,Top dividend received Safran Aero Boosters 49.6m; tick822
+bud_we_top_div_ethias_2025,wallonie_entreprendre,2025,35700000,,,outturn,src_we_rapport_2025,strong,Top dividend received Ethias 35.7m; tick822
+bud_we_top_div_fn_2025,wallonie_entreprendre,2025,20000000,,,outturn,src_we_rapport_2025,strong,Top dividend received FN Browning 20m; tick822
+bud_we_exit_esobiotec_2025,wallonie_entreprendre,2025,38500000,,,outturn,src_we_rapport_2025,strong,Top exit plus-value Esobiotec 38.5m; tick822
+bud_we_exit_automation_2025,wallonie_entreprendre,2025,11800000,,,outturn,src_we_rapport_2025,strong,Top exit plus-value Automation et Robotics 11.8m; tick822
+bud_we_consol_assets_2025,wallonie_entreprendre,2025,6383000000,,,stock,src_we_rapport_2025,strong,Groupe WE consol total actif 6.383bn YE2025 (6.210bn YE2024); tick822
+bud_we_consol_equity_2025,wallonie_entreprendre,2025,5807000000,,,stock,src_we_rapport_2025,strong,Groupe WE fonds propres part groupe 5.807bn YE2025; tick822
+bud_we_consol_debt_2025,wallonie_entreprendre,2025,446000000,,,stock,src_we_rapport_2025,strong,Groupe WE dettes 446m YE2025 (LT 323 + CT 123); tick822
+bud_we_consol_cash_2025,wallonie_entreprendre,2025,990000000,,,stock,src_we_rapport_2025,strong,Groupe WE placements+disponibilites 990m YE2025; tick822
+bud_we_consol_result_group_2025,wallonie_entreprendre,2025,251600000,,,outturn,src_we_rapport_2025,strong,Resultat consolide part groupe 251.6m (2024 476.1m); tick822
+bud_we_invests_partner_2025,wallonie_entreprendre,2025,271000000,,,outturn,src_we_rapport_2025,strong,Invests partner network interventions 271m / 760 decisions; tick822
+bud_we_energy_infra_2025,wallonie_entreprendre,2025,65000000,,,outturn,src_we_rapport_2025,strong,Energy infrastructure invests 65m (avoid ~850kt CO2 class); tick822
+bud_we_intl_invest_2025,wallonie_entreprendre,2025,40000000,,,outturn,src_we_rapport_2025,strong,Internationalisation invests 40m (Easi Trustup class); tick822
+bud_we_sa_liberations_2025,wallonie_entreprendre,2025,414524000,,,outturn,src_we_rapport_2025,strong,WE SA alone liberations FP 259.956m + loans 154.568m = 414.524m; tick822
+bud_we_disposals_cash_2025,wallonie_entreprendre,2025,208549000,,,outturn,src_we_rapport_2025,strong,Cash receipts from participation disposals 208.549m; tick822
+bud_we_roadmap_guarantees_5y,wallonie_entreprendre,2029,1250000000,,,commitment,src_we_rapport_2025,strong,Strategy 2025-2029 guarantees envelope 1.25bn class; tick822
+bud_we_roadmap_profit_5y,wallonie_entreprendre,2029,750000000,,,commitment,src_we_rapport_2025,strong,Strategy 2025-2029 cumulative profit target 750m; tick822
+bud_dual_we_pmv_sfpim_tick822,gg_belgium,2025,6383000000,,,synthesis,src_dual_we_pmv_sfpim_tick822,strong,Dual WE consol 6.383bn vs PMV 4.236bn / SFPIM 11.679bn; not TE-additive; tick822

@@ -9994,3 +9994,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +24; commitments +3; leaderboard +5; sources +2; FOI **gap_sowaer_stakes_sales_l5** prio7 ready + draft; raw txt; rq_812=done; spawn **rq_813**; ticks=821
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_813** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 9
+
+## Tick 822 — 2026-08-05T08:00:00Z
+
+- Unit: **rq_813** (FOI-adjacent residual dual — **WE Rapport annuel 2025** full statutory/consol L5 + PMV/SFPIM dual)
+- Found (strong primary AR2025 84p, dated gestion 10/06/2026):
+  - Liberations exact **€612.575m** / **1.330** firms · FP share **€546m** (89%) · **11** deals ≥10m **€296.36m**
+  - Sector metal/defense **€154.5m** (25%) · aero **€126.0m** (21%) · energy infra **€65m** · intl **€40m**
+  - Guarantees exact **€208.473m** · bank leverage **€286.7m** · encours MD **€361m** / FP **€202m** · FEI **€22.5m**
+  - Provision sinistralité **€101.8m** · denounced risk MD **€15.3m** pre-FEI
+  - WE SA: assets **€5.358bn** · equity **€4.981bn** · fin assets **€4.482bn** (part **€3.075bn** + loans **€1.407bn**)
+  - Cash SA **€789m** · debt SOFRIWAL **€148m** / FPW **€46m** / EIB **€98.5m**
+  - Result SA **€151.222m** · portfolio result **€156.2m** · write-downs **€71.55m** · plus-values **€50.86m**
+  - Top div: SAB **€49.6m** · Ethias **€35.7m** · FN **€20m** · exit Esobiotec **€38.5m**
+  - Remunerations **€31.2m** · functioning **€44.3m** · treasury result **€17.3m**
+  - Consol: assets **€6.383bn** · equity **€5.807bn** · debt **€446m** · cash **€990m** · result group **€251.6m**
+  - Invests partners **€271m**/760 · roadmap 2025-29 invest **€2.5bn** / guarantees **€1.25bn** / profit **€750m**
+- Dual: prior PMV statutory assets **€4.236bn** / equity **€4.180bn** · SFPIM **€11.679bn** (not TE-additive)
+- Wrote: budgets +50; commitments +4; leaderboard +6; sources +2; FOI **gap_we_portfolio_book_l5** prio7 ready + draft; raw PDF+txt; rq_813=done; spawn **rq_814**; ticks=822
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_814** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 8
