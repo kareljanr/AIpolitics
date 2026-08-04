@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T18:00:00Z,rq_785,794,no,tick794 IBZ019 provision~0.5bn PlanGV71.3 cameras25 digital>150 FOI; next rq_786 Energie041/Buitenland006 residual; progress@800 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T18:30:00Z,rq_786,795,no,tick795 BZ006 refi35m ODA-25pct dual DGD1.118bn FOI; next rq_787 Energie041/Digi030 residual; progress@800 in 5; rq_116 deferred

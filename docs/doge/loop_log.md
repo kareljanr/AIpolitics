@@ -9587,3 +9587,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +19; commitments +6; leaderboard +7; sources +2; FOI **gap_ibz_plan_grote_steden_l5** prio9 ready; raw PDF; rq_785=done; spawn **rq_786**; ticks=794
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_786** residual Energie041/Buitenland006; deferred **rq_116**; progress@800 in 6
+
+## Tick 795 — 2026-08-04T18:30:00Z
+
+- Unit: **rq_786** (FOI-adjacent residual — **Kamer DOC 56 1282/006 Beleidsnota Buitenlandse Zaken / Ontwikkelingssamenwerking**, 44p)
+- Found (primary 56K1282006):
+  - FOD BZ security-department status: **exempt linear cuts** (except operating costs) + non-replacement exemption
+  - Complementary **refinancing €35m** over legislature (o.a. reinforce posts)
+  - ODA/cooperation budget **−25%** path; decisions Kamer **May 2025**; implementation **2026+**; possible legal-frame review
+  - Dual prior DGD total **€1,117.97m** 2025 and first-year cut **−€106m**
+  - EU MFF 2028–2034 Commission proposal **~€1.985tn class** (1.26% GNI); BZ leads BE negotiation with BOSA (EU-level not BE TE)
+- Wrote: budgets +7; commitments +4; leaderboard +5; sources +2; FOI **gap_bz_refi_oda25_l5** prio8 ready; raw PDF; rq_786=done; spawn **rq_787**; ticks=795
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_787** residual Energie041/Digi030; deferred **rq_116**; progress@800 in 5
