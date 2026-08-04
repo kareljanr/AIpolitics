@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T14:30:00Z,rq_778,787,no,user paused=no; next rq_779; progress@790 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T15:00:00Z,rq_779,788,no,user paused=no; next rq_781 hole-fill; progress@790 via rq_780 in 2; rq_116 deferred

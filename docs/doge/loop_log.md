@@ -9490,3 +9490,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +10; commitments +5; leaderboard +7; sources +2; FOI **gap_def_safe_ukraine_l5** prio9 ready; raw PDF; rq_778=done; spawn **rq_779**; ticks=787
 - FOI: ready only — **do not send**
 - Next: rq_779 residual dual/L5; progress@790 in 3; rq_116 deferred
+
+## Tick 788 — 2026-08-04T15:00:00Z
+
+- Unit: **rq_779** (FOI-adjacent residual — **Kamer DOC 56 1282/025 Beleidsnota Mobiliteit**, 71p)
+- Found (primary 56K1282025):
+  - Rail budget **save €100m** 2026 (efficiency under fixed envelope)
+  - **RER/GEN overrun €308.4m** current EUR (PSPI Mar 2025; 3rd gov after Vivaldi **€204.6m**)
+  - **SFPIM loan €61m** to rail freight operator (MR 21 Jul 2025; EU notification)
+  - Congestion cost **€5.3bn** 2024 (dual prior); SNCB fare caps **€14** / train+ **€5.5**
+  - PSO/performance contracts to **2032**; IF audit mission Apr 2025
+- Wrote: budgets +8; commitments +5; leaderboard +6; sources +2; FOI **gap_rail_rer_overrun_l5** prio9 ready; raw PDF; rq_779=done; spawn **rq_780 PROGRESS@790** + rq_781; ticks=788
+- FOI: ready only — **do not send**
+- Next: hole-fill residual or progress after +2; progress@790 in 2; rq_116 deferred
