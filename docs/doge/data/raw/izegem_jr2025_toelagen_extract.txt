@@ -1,0 +1,1198 @@
+--- PAGE 1 ---
+Entiteit ST : Stad Izegem - werkingssubsidies
+Jaar
+Entiteit
+Soort budget
+Uitg/Ontv
+Krediet 2025
+Geboekt 2025
+Afwijking
+2025 ST : Stad Izegem
+649001
+adviesraad  - noord zuid raad - Noodhulp
+01600
+Fair Trade
+E
+U
+3.000,00 €
+3.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649002
+adviesraad  - seniorenraad
+09590
+Seniorenbeleid
+E
+U
+22.000,00 €
+13.980,19 €
+€ 8.019,81
+2025 ST : Stad Izegem
+649003
+adviesraad  - milieuraad
+03200
+Milieubeleid
+E
+U
+1.500,00 €
+1.421,30 €
+€ 78,70
+2025 ST : Stad Izegem
+649004
+adviesraad  - cultuurraad
+07390
+VES
+E
+U
+3.000,00 €
+1.736,99 €
+€ 1.263,01
+2025 ST : Stad Izegem
+649005
+adviesraad  - sportraad
+07400
+Sportsector- en verenigingsondersteuning
+E
+U
+900,00 €
+0,00 €
+€ 900,00
+2025 ST : Stad Izegem
+649006
+adviesraad  - jeugdraad
+07500
+Jeugddienst
+E
+U
+6.200,00 €
+5.884,07 €
+€ 315,93
+2025 ST : Stad Izegem
+649007
+adviesraad integratie en diversiteit
+09020
+Migranten
+E
+U
+1.500,00 €
+0,00 €
+€ 1.500,00
+2025 ST : Stad Izegem
+649100
+gemeentelijk - kerkfabriek H. Familie Bosmolens
+07900
+Erediensten
+E
+U
+65.433,48 €
+65.433,48 €
+€ 0,00
+2025 ST : Stad Izegem
+649101
+gemeentelijk - kerkfabriek Sint Hilonius Izegem
+07900
+Erediensten
+E
+U
+114.992,35 €
+114.992,35 €
+€ 0,00
+2025 ST : Stad Izegem
+649102
+gemeentelijk - kerkfabriek Sint Pieter
+07900
+Erediensten
+E
+U
+19.398,21 €
+19.398,20 €
+€ 0,01
+2025 ST : Stad Izegem
+649103
+gemeentelijk - kerkfabriek Sint Jan
+07900
+Erediensten
+E
+U
+60.420,17 €
+60.420,17 €
+€ 0,00
+2025 ST : Stad Izegem
+649120
+intergemeentelijk - midwestoverleg
+01901
+Intergemeentelijke samenwerking (niet sectoraal)
+E
+U
+25.300,00 €
+23.841,34 €
+€ 1.458,66
+2025 ST : Stad Izegem
+649121
+intergemeentelijk - bijdrage stadslandschap
+01901
+Intergemeentelijke samenwerking (niet sectoraal)
+E
+U
+6.997,00 €
+7.989,67 €
+-€ 992,67
+2025 ST : Stad Izegem
+649122
+intergemeentelijk - woondienst
+06290
+Huisvestingsdienst
+E
+U
+275.878,19 €
+275.878,19 €
+€ 0,00
+2025 ST : Stad Izegem
+649123
+intergemeentelijk - dotatie politiezone
+04000
+Bijdrage aan de politiezone
+E
+U
+4.797.817,38 €
+4.797.817,38 €
+€ 0,00
+2025 ST : Stad Izegem
+649124
+intergemeentelijk - bijdrage wedde nood- en interventieambte
+04001
+Overige verrichtingen betreffende de politiediensten
+E
+U
+33.360,28 €
+22.701,19 €
+€ 10.659,09
+2025 ST : Stad Izegem
+649125
+intergemeentelijk - bijdrage wedde coördinator integrale vei
+04001
+Overige verrichtingen betreffende de politiediensten
+E
+U
+29.896,00 €
+33.254,84 €
+-€ 3.358,84
+2025 ST : Stad Izegem
+649126
+intergemeentelijk - dotatie brandweerzone
+04100
+Bijdrage voor de brandweer
+E
+U
+839.381,50 €
+839.381,50 €
+€ 0,00
+2025 ST : Stad Izegem
+649127
+intergemeentelijk - bemiddeling GAS
+04801
+Gemeentelijke Administatieve Sancties (GAS)
+E
+U
+1.885,00 €
+12,80 €
+€ 1.872,20
+2025 ST : Stad Izegem
+649128
+intergemeentelijk - bijdrage cel PSH
+04902
+PSH
+E
+U
+1.000,00 €
+0,00 €
+€ 1.000,00
+2025 ST : Stad Izegem
+649129
+intergemeentelijk - BIE BROERE
+07030
+Bibliotheek
+E
+U
+3.000,00 €
+0,00 €
+€ 3.000,00
+2025 ST : Stad Izegem
+649130
+intergemeentelijk - BIE  RADAR
+07290
+Onroerend erfgoed
+E
+U
+7.200,00 €
+4.988,17 €
+€ 2.211,83
+2025 ST : Stad Izegem
+649131
+intergemeentelijk - BIE TERF
+07291
+Roerend erfgoed
+E
+U
+31.000,00 €
+31.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649132
+intergemeentelijk - doorstorting subs. aan filialen
+08200
+Kunstenacademie
+E
+U
+15.000,00 €
+11.229,34 €
+€ 3.770,66
+2025 ST : Stad Izegem
+649133
+intergemeentelijk - toelage FARYS exploitatie
+07421
+Sportinfrastructuur - in Farys
+E
+U
+861.689,00 €
+760.916,64 €
+€ 100.772,36
+2025 ST : Stad Izegem
+649134
+intergemeentelijk - bijdrage deradicaliseringsambtenaar
+04001
+Overige verrichtingen betreffende de politiediensten
+E
+U
+18.400,00 €
+21.063,02 €
+-€ 2.663,02
+2025 ST : Stad Izegem
+649135
+intergemeentelijk - toelage IVIO exploitatie
+03001
+IVIO
+E
+U
+2.470.372,00 €
+2.423.256,00 €
+€ 47.116,00
+2025 ST : Stad Izegem
+649136
+intergemeentelijke - archiefdienst DVV Midwest
+01130
+Archief
+E
+U
+31.664,77 €
+25.054,92 €
+€ 6.609,85
+2025 ST : Stad Izegem
+649137
+intergemeentelijk - tenlastename huur FCU en VVEK
+07421
+Sportinfrastructuur - in Farys
+E
+U
+1,00 €
+0,00 €
+€ 1,00
+2025 ST : Stad Izegem
+649138
+intergemeentelijk - midwest - preventiemedewerker gezonde ge
+09490
+Sociaal huis
+E
+U
+6.500,00 €
+6.624,00 €
+-€ 124,00
+2025 ST : Stad Izegem
+649140
+intergemeentelijk - energiehuis- woondienst
+06290
+Huisvestingsdienst
+E
+U
+45.000,00 €
+45.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649150
+provinciaal - bijdrage opmaak economische digitale kaart
+05000
+Lokale economie
+E
+U
+1.000,00 €
+998,25 €
+€ 1,75
+2025 ST : Stad Izegem
+649151
+provinciaal - bijdrage doorgangsgebouw
+05000
+Lokale economie
+E
+U
+3.000,00 €
+3.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649200
+nominatief - VZW Samenspel
+09040
+Sociale tewerkstelling
+E
+U
+25.000,00 €
+25.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649201
+nominatief - kringloopcentrum
+09040
+Sociale tewerkstelling
+E
+U
+16.000,00 €
+12.350,75 €
+€ 3.649,25
+2025 ST : Stad Izegem
+649203
+nominatief - Gezinsbond Izegem
+09430
+Gezinshulp
+E
+U
+420,00 €
+420,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649204
+nominatief - Gezinsbond Emelgem
+09430
+Gezinshulp
+E
+U
+165,00 €
+0,00 €
+€ 165,00
+2025 ST : Stad Izegem
+649205
+nominatief - Gezinsbond Kachtem
+09430
+Gezinshulp
+E
+U
+165,00 €
+0,00 €
+€ 165,00
+2025 ST : Stad Izegem
+649206
+nominatief - WIEGWIJS
+09430
+Gezinshulp
+E
+U
+900,00 €
+900,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649207
+nominatief - fietspooling
+02900
+Overige mobiliteit en verkeer
+E
+U
+2.000,00 €
+2.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649208
+nominatief -  organisatie batjes
+05000
+Lokale economie
+E
+U
+5.000,00 €
+5.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649209
+nominatief - bijdrage MUG-heli
+04900
+Overige elementen van openbare orde en veiligheid
+E
+U
+1.500,00 €
+1.500,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649210
+nominatief - bijdrage Rode Kruis
+04900
+Overige elementen van openbare orde en veiligheid
+E
+U
+310,00 €
+0,00 €
+€ 310,00
+2025 ST : Stad Izegem
+649211
+nominatief - bijdrage Vlaams Kruis
+04900
+Overige elementen van openbare orde en veiligheid
+E
+U
+310,00 €
+310,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649212
+nominatief - Izegem klinkt
+07100
+Feesten en plechtigheden
+E
+U
+2.500,00 €
+2.500,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649213
+nominatief - Wereldfestival Izegem
+07100
+Feesten en plechtigheden
+E
+U
+47.000,00 €
+47.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649214
+nominatief - herdenking WOI
+07100
+Feesten en plechtigheden
+E
+U
+125,00 €
+0,00 €
+€ 125,00
+BIJLAGE 2: OVERZICHT TOEGESTANE WERKINGS- EN INVESTERINGSSUBSIDIES
+Algemene rekening
+Beleidsitem
+Lokaal bestuur Izegem
+DOC 2 - overzicht toegestane werkings- en investeringssubsidies
+Jaarrekening 2025
+
+--- PAGE 2 ---
+Jaar
+Entiteit
+Soort budget
+Uitg/Ontv
+Krediet 2025
+Geboekt 2025
+Afwijking
+Algemene rekening
+Beleidsitem
+2025 ST : Stad Izegem
+649215
+nominatief - Bond oud politieke gevangenen afdeling Izegem
+07100
+Feesten en plechtigheden
+E
+U
+150,00 €
+0,00 €
+€ 150,00
+2025 ST : Stad Izegem
+649216
+nominatief - Ten Mandere
+07291
+Roerend erfgoed
+E
+U
+3.750,00 €
+3.750,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649217
+nominatief - Izegemse triathlonclub
+07400
+Sportsector- en verenigingsondersteuning
+E
+U
+6.000,00 €
+0,00 €
+€ 6.000,00
+2025 ST : Stad Izegem
+649218
+nominatief - Flanders boxing corporation
+07400
+Sportsector- en verenigingsondersteuning
+E
+U
+10.000,00 €
+5.000,00 €
+€ 5.000,00
+2025 ST : Stad Izegem
+649219
+nominatief - Comité Izegem Koers
+07400
+Sportsector- en verenigingsondersteuning
+E
+U
+12.500,00 €
+12.500,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649220
+nominatief - keramiekcollectief
+07391
+Kunst
+E
+U
+3.300,00 €
+3.300,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649221
+nominatief - jeugdhuis
+07500
+Jeugddienst
+E
+U
+1.500,00 €
+1.500,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649222
+nominatief - 't Kringske
+09090
+Vrijetijdsparticipatie
+E
+U
+1.500,00 €
+1.500,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649223
+nominatief - radio IRO
+07390
+VES
+E
+U
+0,00 €
+0,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649224
+nominatief - Feestcomité Bosmolens
+07100
+Feesten en plechtigheden
+E
+U
+6.000,00 €
+6.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649225
+nominatief - Emelgemse feesten
+07100
+Feesten en plechtigheden
+E
+U
+3.000,00 €
+0,00 €
+€ 3.000,00
+2025 ST : Stad Izegem
+649226
+nominatief - aandeel vrijetijdscheque (stad+Vlaams)
+09090
+Vrijetijdsparticipatie
+E
+U
+0,00 €
+0,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649227
+nominatief - Kachtem Ommegang
+07100
+Feesten en plechtigheden
+E
+U
+6.000,00 €
+6.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649229
+nominatief - De Mantel
+09430
+Gezinshulp
+E
+U
+1.250,00 €
+0,00 €
+€ 1.250,00
+2025 ST : Stad Izegem
+649230
+nominatief - Child Focus
+09430
+Gezinshulp
+E
+U
+500,00 €
+0,00 €
+€ 500,00
+2025 ST : Stad Izegem
+649236
+nominatief - Humanistisch verbond afdeling Izegem
+07390
+VES
+E
+U
+1.000,00 €
+0,00 €
+€ 1.000,00
+2025 ST : Stad Izegem
+649238
+nominatief - Midwest Erfgoeddepot
+07291
+Roerend erfgoed
+E
+U
+3.125,00 €
+3.125,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649239
+nominatief - rhodesgoed wandel 2-daagse
+07100
+Feesten en plechtigheden
+E
+U
+5.000,00 €
+5.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649240
+nominatief - amateurboksgala Izegem
+07400
+Sportsector- en verenigingsondersteuning
+E
+U
+800,00 €
+800,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649241
+nominatief - jubileumtoelage Wereldfestival
+07100
+Feesten en plechtigheden
+E
+U
+17.500,00 €
+17.500,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649302
+reglement - onderneming - arbeidszorgprojecten
+09040
+Sociale tewerkstelling
+E
+U
+16.000,00 €
+12.117,43 €
+€ 3.882,57
+2025 ST : Stad Izegem
+649304
+reglement - onderneming - ondersteuning kinderopvang
+09450
+Lokaal Overleg Kinderopvang
+E
+U
+8.000,00 €
+3.850,00 €
+€ 4.150,00
+2025 ST : Stad Izegem
+649305
+reglement - onderneming - verhuis naar het handelscentrum
+05000
+Lokale economie
+E
+U
+30.000,00 €
+0,00 €
+€ 30.000,00
+2025 ST : Stad Izegem
+649307
+reglement - onderneming - carbon farming
+03500
+Klimaat en energie
+E
+U
+5.000,00 €
+667,50 €
+€ 4.332,50
+2025 ST : Stad Izegem
+649400
+reglement - gezinnen - eco-luiers
+09430
+Gezinshulp
+E
+U
+675,00 €
+225,00 €
+€ 450,00
+2025 ST : Stad Izegem
+649401
+reglement - gezinnen - gescheiden riolering
+03100
+Riolering
+E
+U
+19.500,00 €
+0,00 €
+€ 19.500,00
+2025 ST : Stad Izegem
+649402
+reglement - gezinnen - bouwpremies
+06200
+woonbeleid
+E
+U
+200.000,00 €
+195.065,12 €
+€ 4.934,88
+2025 ST : Stad Izegem
+649403
+reglement - gezinnen - begrafeniskosten oudstrijders
+07100
+Feesten en plechtigheden
+E
+U
+250,00 €
+125,00 €
+€ 125,00
+2025 ST : Stad Izegem
+649404
+reglement - gezinnen - hart voor je buurt
+09092
+Wijkwerking
+E
+U
+6.500,00 €
+5.420,31 €
+€ 1.079,69
+2025 ST : Stad Izegem
+649405
+reglement - gezinnen - adopteer het groen
+06800
+Parken en plantsoenen
+E
+U
+4.000,00 €
+185,00 €
+€ 3.815,00
+2025 ST : Stad Izegem
+649407
+reglement - gezinnen - kleine landschapselementen
+03490
+Bescherming van de biodiversiteit/landschappen
+E
+U
+2.150,00 €
+1.828,50 €
+€ 321,50
+2025 ST : Stad Izegem
+649450
+reglement - vereniging - fractietoelage
+01000
+Politieke organen
+E
+U
+23.500,00 €
+18.504,30 €
+€ 4.995,70
+2025 ST : Stad Izegem
+649451
+reglement - vereniging - jumelageprojecten
+01500
+Externe Relaties
+E
+U
+11.000,00 €
+3.400,00 €
+€ 7.600,00
+2025 ST : Stad Izegem
+649452
+reglement - vereniging - organisaties ontwikkelingshulp
+01600
+Fair Trade
+E
+U
+17.162,00 €
+17.161,96 €
+€ 0,04
+2025 ST : Stad Izegem
+649453
+reglement - vereniging - seniorenverenigingen
+09590
+Seniorenbeleid
+E
+U
+9.000,00 €
+9.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649454
+reglement - vereniging - oudstrijdersverenigingen
+07100
+Feesten en plechtigheden
+E
+U
+250,00 €
+250,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649455
+reglement - vereniging - cultuurverenigingen
+07390
+VES
+E
+U
+69.000,00 €
+68.434,86 €
+€ 565,14
+2025 ST : Stad Izegem
+649456
+reglement - vereniging - podiumkunsten
+07100
+Feesten en plechtigheden
+E
+U
+5.000,00 €
+1.452,15 €
+€ 3.547,85
+2025 ST : Stad Izegem
+649458
+reglement - vereniging - sportverenigingen
+07400
+Sportsector- en verenigingsondersteuning
+E
+U
+82.500,00 €
+82.382,11 €
+€ 117,89
+2025 ST : Stad Izegem
+649460
+reglement - vereniging - jeugdverenigingen
+07500
+Jeugddienst
+E
+U
+60.000,00 €
+60.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649462
+reglement - vereniging - G-werking
+07390
+VES
+E
+U
+10.000,00 €
+0,00 €
+€ 10.000,00
+2025 ST : Stad Izegem
+649463
+reglement - vereniging - pekkerspot
+07390
+VES
+E
+U
+10.000,00 €
+10.000,00 €
+€ 0,00
+2025 ST : Stad Izegem
+649464
+reglement - vereniging - fuifsecurity
+07100
+Feesten en plechtigheden
+E
+U
+900,00 €
+0,00 €
+€ 900,00
+2025 ST : Stad Izegem
+649500
+Prijssubsidie AGIZ
+07000
+AGIZ AGB Eperon d'or
+E
+U
+252.000,00 €
+341.242,74 €
+-€ 89.242,74
+2025 ST : Stad Izegem
+649501
+Prijssubsidie FARYS
+07421
+Sportinfrastructuur - in Farys
+E
+U
+95.740,00 €
+91.745,69 €
+€ 3.994,31
+Totaal toegestane werkingssubsidies Stad : 
+10.926.083,33 €
+10.706.287,42 €
+219.795,91 €
+Entiteit OCMW : OCMW - werkingssubsidies
+Lokaal bestuur Izegem
+DOC 2 - overzicht toegestane werkings- en investeringssubsidies
+Jaarrekening 2025
+
+--- PAGE 3 ---
+Jaar
+Entiteit
+Soort budget
+Uitg/Ontv
+Krediet 2025
+Geboekt 2025
+Afwijking
+Algemene rekening
+Beleidsitem
+2025 OC : O.C.M.W. IZEGEM
+649104 gemeentelijk - toelage ZORG
+09830
+Overige verrichtingen inzake verzorgingsinstellingen
+E
+U
+900.000,00 €
+900.000,00 €
+0,00 €
+2025 OC : O.C.M.W. IZEGEM
+649106 gemeentelijk - Zorg - aandeel regularisatie GECO-tewerkstell
+09830
+Overige verrichtingen inzake verzorgingsinstellingen
+E
+U
+453.854,00 €
+453.854,00 €
+0,00 €
+2025 OC : O.C.M.W. IZEGEM
+649122 intergemeentelijk - woondienst
+09300
+Sociale huisvesting
+E
+U
+220.129,21 €
+220.129,21 €
+0,00 €
+2025 OC : O.C.M.W. IZEGEM
+649202 nominatief - De Stamper
+09093
+Sociale kruidenier
+E
+U
+47.168,68 €
+47.168,68 €
+0,00 €
+2025 OC : O.C.M.W. IZEGEM
+649280 nominatief - DYZO
+09050
+Collectieve schuldbemiddeling en juridisch advies
+E
+U
+2.393,00 €
+2.690,49 €
+-297,49 €
+2025 OC : O.C.M.W. IZEGEM
+649282 nominatief - Foodsavers
+09490
+Sociaal huis
+E
+U
+18.831,32 €
+18.831,32 €
+0,00 €
+2025 OC : O.C.M.W. IZEGEM
+649450 reglement - vereniging - fractietoelage
+01000
+Politieke organen
+E
+U
+763,29 €
+0,00 €
+763,29 €
+Totaal toegestane werkingssubsidies OCMW:
+1.643.139,50 €
+1.642.673,70 €
+465,80 €
+Totaal toegestane werkingssubsidies STAD + OCMW:
+€ 12.569.222,83
+€ 12.348.961,12
+€ 220.261,71
+Entiteit ST : Stad Izegem - investeringssubsidies
+Jaar
+Entiteit
+Soort budget
+Uitg/Ontv
+Krediet 2025
+Geboekt 2025
+Afwijking
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+00500
+Patrimonium zonder maatschappelijk doel
+I
+U
+357.268,50 €
+21.613,53 €
+€ 335.654,97
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+03100
+Riolering
+I
+U
+1.805.797,18 €
+0,00 €
+€ 1.805.797,18
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+03500
+Klimaat en energie
+I
+U
+111.421,33 €
+70.173,16 €
+€ 41.248,17
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+04000
+Bijdrage aan de politiezone
+I
+U
+76.256,70 €
+76.256,70 €
+€ 0,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+04001
+Overige verrichtingen betreffende de politiediensten
+I
+U
+33.298,71 €
+0,00 €
+€ 33.298,71
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+04100
+Bijdrage voor de brandweer
+I
+U
+184.093,50 €
+184.093,50 €
+€ 0,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+05000
+Lokale economie
+I
+U
+0,00 €
+0,00 €
+€ 0,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+07000
+AGIZ AGB Eperon d'or
+I
+U
+0,00 €
+0,00 €
+€ 0,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+07390
+VES
+I
+U
+10.881,00 €
+4.294,00 €
+€ 6.587,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+07420
+Sportinfrastructuur - eigen beheer
+I
+U
+0,00 €
+0,00 €
+€ 0,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+07500
+Jeugddienst
+I
+U
+4.293,65 €
+4.293,65 €
+€ 0,00
+2025 ST : Stad Izegem
+664000
+Toegestane investeringssubsidie
+07900
+Erediensten
+I
+U
+0,00 €
+0,00 €
+€ 0,00
+Totaal toegestane investeringstoelages STAD:
+2.583.310,57 €
+360.724,54 €
+2.222.586,03 €
+Entiteit OC : OCMW Izegem - investeringssubsidies
+Jaar
+Entiteit
+Soort budget
+Uitg/Ontv
+Krediet 2025
+Geboekt 2025
+Afwijking
+0,00 €
+0,00 €
+0,00 €
+Totaal toegestane investeringstoelages OCMW:
+0,00 €
+0,00 €
+0,00 €
+Totaal toegestane investeringssubsidies STAD + OCMW:
+€ 2.583.310,57
+€ 360.724,54
+€ 2.222.586,03
+Totaal toegestane werkings- en investeringstoelages STAD + OCMW:
+€ 15.152.533,40
+€ 12.709.685,66
+€ 2.442.847,74
+Algemene rekening
+Subproject
+Subproject
+Algemene rekening
+Lokaal bestuur Izegem
+DOC 2 - overzicht toegestane werkings- en investeringssubsidies
+Jaarrekening 2025

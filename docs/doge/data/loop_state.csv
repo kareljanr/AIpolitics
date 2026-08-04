@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T23:00:00Z,rq_842,852,no,tick852 Landen JR2025 dual Ieper; FOI gap_landen_debt_subs_l5; next rq_843 residual dual L5; progress@860 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T23:30:00Z,rq_843,853,no,tick853 Izegem JR2025 dual Landen; FOI gap_izegem_etiz_loans_l5; next rq_844 residual dual L5; progress@860 in 7; rq_116 deferred

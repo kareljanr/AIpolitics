@@ -10500,3 +10500,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_landen; FOI **gap_landen_debt_subs_l5** prio7 ready + draft; raw PDF+extract; rq_842=done; spawn **rq_843**; ticks=852
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_843** residual dual L5 (Roeselare portal/Lier/VUB/skeyes); deferred **rq_116**; progress@860 in 8
+
+## Tick 853 - 2026-08-05T23:30:00Z
+
+- Unit: **rq_843** (FOI-adjacent residual dual - **Stad+OCMW Izegem Jaarrekening 2025** + Landen dual)
+- Found (strong primary BBC JR2025 107p + DOC2 named toelagen, GR 22.06.2026 pub 29.06.2026):
+  - Assets **EUR203.6m** · equity **EUR176.4m** · debt total **EUR27.2m** · fin debt **EUR18.7m** (LT **EUR15.9m** · ST due **EUR2.8m**; Farys **EUR9.8m** / excl **EUR8.8m**)
+  - Pension **EUR5.3m** · cash **EUR8.7m** · cap subs **EUR12.1m** · FVA IGS **EUR38.2m** · onbeschikbaar **EUR0**
+  - Exploitatie: ontvangsten **EUR57.1m** · uitgaven **EUR51.4m** · saldo **+EUR5.7m**
+  - AFM **+EUR3.1m** (gecorr **+EUR4.5m**) · BBR **EUR14.4m** · consol BBR **EUR10.1m** (ETIZ 2024 lag **-EUR4.5m**) · budget result **-EUR3.6m** · P&L **-EUR0.13m**
+  - Personnel **EUR27.7m** · toelagen **EUR12.3m** (police **EUR4.9m** · IVIO **EUR2.4m** · fire **EUR0.8m** · Farys **EUR0.8m** · named DOC2 public) · OCMW aid **EUR4.0m** · fiscal **EUR26.4m**
+  - Invest **EUR8.4m** · new loans **EUR0.3m** · gemeentefonds **EUR9.2m** · MJP2026 planned loans **EUR15.0m** jump
+- Dual: Landen **EUR101m** / fin debt **EUR27m** / AFM **+EUR2.8m** (tick852) - not TE-additive
+- Wrote: budgets +43; commitments +4; leaderboard +7; sources +2; entity city_izegem; FOI **gap_izegem_etiz_loans_l5** prio7 ready + draft; raw PDF+extract+DOC2; rq_843=done; spawn **rq_844**; ticks=853
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_844** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 7

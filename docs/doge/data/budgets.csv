@@ -17933,3 +17933,46 @@ bud_ld_gemeentefonds_2025,city_landen,2025,5091386,,,outturn,src_landen_jr2025,s
 bud_ld_fin_costs_2025,city_landen,2025,615582,,,outturn,src_landen_jr2025,strong,J5 financiele kosten 0.616m; tick852
 bud_ld_police_toelage_2025,city_landen,2025,2284400,,,outturn,src_landen_jr2025,strong,Toelage politiezone 2.284m; tick852
 bud_ld_fire_toelage_2025,city_landen,2025,957576,,,outturn,src_landen_jr2025,strong,Toelage hulpverleningszone 0.958m; tick852
+bud_iz_assets_2025,city_izegem,2025,203558009,,,outturn,src_izegem_jr2025,strong,Consol stad+OCMW total assets YE2025 203.558m; tick853
+bud_iz_equity_2025,city_izegem,2025,176389794,,,outturn,src_izegem_jr2025,strong,Nettoactief YE2025 176.390m; tick853
+bud_iz_debt_total_2025,city_izegem,2025,27168215,,,outturn,src_izegem_jr2025,strong,Total schulden YE2025 27.168m; tick853
+bud_iz_fin_debt_2025,city_izegem,2025,18665103,,,outturn,src_izegem_jr2025,strong,T4 total financiele schulden YE2025 18.665m (LT 15.866 + ST due 2.799); tick853
+bud_iz_fin_debt_lt_2025,city_izegem,2025,15866338,,,outturn,src_izegem_jr2025,strong,Financiele schulden LT YE2025 15.866m; tick853
+bud_iz_fin_debt_st_due_2025,city_izegem,2025,2798766,,,outturn,src_izegem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.799m; tick853
+bud_iz_fin_debt_excl_farys_2025,city_izegem,2025,8828888,,,outturn,src_izegem_jr2025,strong,Fin debt excl Farys share YE2025 8.829m; tick853
+bud_iz_farys_debt_share_2025,city_izegem,2025,9836216,,,outturn,src_izegem_jr2025,strong,Farys aandeel in fin debt YE2025 9.836m; tick853
+bud_iz_pension_prov_2025,city_izegem,2025,5330433,,,outturn,src_izegem_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.330m; tick853
+bud_iz_cash_2025,city_izegem,2025,8670452,,,outturn,src_izegem_jr2025,strong,Liquide middelen YE2025 8.670m; tick853
+bud_iz_cap_subs_2025,city_izegem,2025,12057982,,,outturn,src_izegem_jr2025,strong,Kapitaalsubsidies YE2025 12.058m; tick853
+bud_iz_fva_total_2025,city_izegem,2025,76518817,,,outturn,src_izegem_jr2025,strong,Financiele vaste activa YE2025 76.519m; tick853
+bud_iz_fva_igs_2025,city_izegem,2025,38172519,,,outturn,src_izegem_jr2025,strong,Fin VA IGS YE2025 38.173m; tick853
+bud_iz_mva_2025,city_izegem,2025,103335798,,,outturn,src_izegem_jr2025,strong,Materiele vaste activa YE2025 103.336m; tick853
+bud_iz_onbeschikbaar_2025,city_izegem,2025,0,,,outturn,src_izegem_jr2025,strong,Onbeschikbare gelden J2 0; tick853
+bud_iz_expl_rec_2025,city_izegem,2025,57126433,,,outturn,src_izegem_jr2025,strong,Exploitatieontvangsten 57.126m; tick853
+bud_iz_expl_exp_2025,city_izegem,2025,51432168,,,outturn,src_izegem_jr2025,strong,Exploitatieuitgaven 51.432m; tick853
+bud_iz_expl_saldo_2025,city_izegem,2025,5694265,,,outturn,src_izegem_jr2025,strong,Exploitatiesaldo +5.694m; tick853
+bud_iz_invest_exp_2025,city_izegem,2025,8428720,,,outturn,src_izegem_jr2025,strong,Investeringsuitgaven J2 8.429m; tick853
+bud_iz_invest_rec_2025,city_izegem,2025,1763256,,,outturn,src_izegem_jr2025,strong,Investeringsontvangsten J2 1.763m; tick853
+bud_iz_invest_saldo_2025,city_izegem,2025,-6665464,,,outturn,src_izegem_jr2025,strong,Investeringssaldo -6.665m; tick853
+bud_iz_fin_rec_2025,city_izegem,2025,764852,,,outturn,src_izegem_jr2025,strong,Financieringsontvangsten 0.765m; tick853
+bud_iz_fin_exp_2025,city_izegem,2025,3407853,,,outturn,src_izegem_jr2025,strong,Financieringsuitgaven 3.408m; tick853
+bud_iz_new_loans_2025,city_izegem,2025,279996,,,outturn,src_izegem_jr2025,strong,Nieuwe leningen/leasings 0.280m; tick853
+bud_iz_aflossingen_2025,city_izegem,2025,3140046,,,outturn,src_izegem_jr2025,strong,Periodieke aflossingen 3.140m; tick853
+bud_iz_afm_2025,city_izegem,2025,3051592,,,outturn,src_izegem_jr2025,strong,AFM +3.052m; tick853
+bud_iz_afm_corr_2025,city_izegem,2025,4469625,,,outturn,src_izegem_jr2025,strong,Gecorrigeerde AFM +4.470m; tick853
+bud_iz_bbr_2025,city_izegem,2025,14397337,,,outturn,src_izegem_jr2025,strong,BBR stad+OCMW 14.397m (onbeschikbaar 0); tick853
+bud_iz_bbr_consol_agencies_2025,city_izegem,2025,10095125,,,outturn,src_izegem_jr2025,strong,Consol BBR incl AGIZ/ETIZ 10.095m (ETIZ 2024 lag -4.525m); tick853
+bud_iz_budget_result_2025,city_izegem,2025,-3614200,,,outturn,src_izegem_jr2025,strong,Budgettair resultaat boekjaar -3.614m; tick853
+bud_iz_cum_br_2025,city_izegem,2025,14397337,,,outturn,src_izegem_jr2025,strong,Gecumuleerd budgettair resultaat 14.397m; tick853
+bud_iz_pnl_result_2025,city_izegem,2025,-131860,,,outturn,src_izegem_jr2025,strong,Vennootschapsresultaat J5 -0.132m; tick853
+bud_iz_personnel_2025,city_izegem,2025,27705366,,,outturn,src_izegem_jr2025,strong,J5/T2 bezoldigingen 27.705m; tick853
+bud_iz_toelagen_2025,city_izegem,2025,12348961,,,outturn,src_izegem_jr2025,strong,Toegestane werkingssubsidies 12.349m (politie 4.854 fire 0.839 AGB 0.433 IVIO 2.423 Farys 0.761); tick853
+bud_iz_ocmw_aid_2025,city_izegem,2025,3962953,,,outturn,src_izegem_jr2025,strong,OCMW individuele hulp 3.963m; tick853
+bud_iz_fiscal_2025,city_izegem,2025,26363804,,,outturn,src_izegem_jr2025,strong,J5 fiscale opbrengsten en boetes 26.364m; tick853
+bud_iz_werk_subs_rec_2025,city_izegem,2025,22067993,,,outturn,src_izegem_jr2025,strong,J5 werkingssubsidies ontvangen 22.068m; tick853
+bud_iz_gemeentefonds_2025,city_izegem,2025,9226635,,,outturn,src_izegem_jr2025,strong,Gemeentefonds 9.227m; tick853
+bud_iz_fin_costs_2025,city_izegem,2025,551681,,,outturn,src_izegem_jr2025,strong,J5 financiele kosten 0.552m; tick853
+bud_iz_police_toelage_2025,city_izegem,2025,4853786,,,outturn,src_izegem_jr2025,strong,Toelage politiezone 4.854m; tick853
+bud_iz_fire_toelage_2025,city_izegem,2025,839382,,,outturn,src_izegem_jr2025,strong,Toelage hulpverleningszone 0.839m; tick853
+bud_iz_ivio_toelage_2025,city_izegem,2025,2423256,,,outturn,src_izegem_jr2025,strong,Toelage IVIO exploitatie 2.423m (DOC2); tick853
+bud_iz_mjp2026_new_loans_plan,city_izegem,2026,14988669,,,budgeted,src_izegem_jr2025,strong,MJP planned new loans 2026 14.989m (path jump); tick853
