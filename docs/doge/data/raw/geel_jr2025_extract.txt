@@ -1,0 +1,27 @@
+Geel Stad+OCMW Jaarrekening 2025 — extract tick848
+Source: https://www.geel.be/product/2128/jaarrekening-stad-ocmw
+PDF fin nota: https://www.geel.be/file/download/59787/... (13p)
+PDF toelichting: https://www.geel.be/file/download/59789/... (87p)
+GR/RMW 29.06.2026 · published 30.06.2026
+KSZ Stad 0207.533.874 / OCMW 0212.212.541
+AD François Mylle · FD Steven Lambrecht · Werft 20 2440 Geel
+
+J2: Expl +10.281.446 (rec 125.146.328 / exp 114.864.883)
+Invest -8.582.996 (rec 1.679.809 / exp 10.262.804)
+Fin -9.925.866 (rec 1.870.067 / exp 11.795.932)
+BR -8.227.416 · BBR 4.057.972 · AFM +3.730.113 · gecorr AFM +5.224.552
+AG cultuur BBR 2.100.648 · AG sport 322.481 · consol BBR 6.481.101
+
+J4 YE2025/2024:
+ACTIVA 255.134.076 / 264.509.998
+Schulden 162.362.747 · nettoactief 92.771.329
+Kas 7.970.370 · FVA 28.746.050 (IGS 28.278.793) · MVA 183.654.240
+Pensioen LT 67.437.181 (was 72.067.727) · fin LT 63.606.183 · ST due 5.870.155
+T4 fin debt total 69.476.338 (was 79.689.224) · new loans 551.823 · early repay 2.895.026
+
+J5: Kosten 122.713.388 (bezold 67.252.519 · toelagen 13.168.797 · OCMW aid 5.905.691)
+Opbrengsten 128.633.358 (fiscal 41.982.961 · werk-subs 54.888.677) · resultaat +5.919.970
+
+T2: politie 7.021.091 · brand 1.635.028 · AGB 3.088.911 · gemeentefonds 18.385.302
+
+Dual: Beringen assets 326.1m / fin debt 29.4m / AFM +8.4m / meerwaarden 36.2m (tick847) — not TE-additive

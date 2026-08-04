@@ -10425,3 +10425,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37; commitments +4; leaderboard +7; sources +3; entity city_beringen; FOI x2 ready + drafts; raw PDF+extract; rq_837=done; spawn **rq_838**; ticks=847
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_838** residual dual L5 (Roeselare/Geel/Lier/VUB/skeyes); deferred **rq_116**; progress@850 in 3
+
+## Tick 848 - 2026-08-05T21:00:00Z
+
+- Unit: **rq_838** (FOI-adjacent residual dual - **Stad+OCMW Geel Jaarrekening 2025** + Beringen dual)
+- Found (strong primary BBC JR2025 fin nota 13p + toelichting 87p, GR 29.06.2026):
+  - Assets **EUR255.1m** · equity **EUR92.8m** · debt total **EUR162.4m** · fin debt **EUR69.5m** (LT **EUR63.6m** · ST due **EUR5.9m**; was **EUR79.7m**)
+  - Pension provisions **EUR67.4m** (~= fin debt) · cash **EUR8.0m** · cap subs **EUR42.0m** · FVA **EUR28.7m**
+  - Exploitatie: ontvangsten **EUR125.1m** · uitgaven **EUR114.9m** · saldo **+EUR10.3m**
+  - AFM **+EUR3.7m** (gecorr **+EUR5.2m**) · BBR **EUR4.1m** · budget result **-EUR8.2m** · P&L **+EUR5.9m**
+  - Personnel **EUR67.3m** · toelagen **EUR13.2m** (police **EUR7.0m** · fire **EUR1.6m** · AGB **EUR3.1m**) · OCMW aid **EUR5.9m** · fiscal **EUR42.0m**
+  - Invest **EUR10.3m** · new loans **EUR0.55m** · early repay **EUR2.9m** · gemeentefonds **EUR18.4m** · AG BBR cultuur **EUR2.1m** / sport **EUR0.3m**
+- Dual: Beringen **EUR326m** / fin debt **EUR29m** / AFM **+EUR8.4m** / meerwaarden **EUR36m** (tick847) - not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_geel; FOI **gap_geel_debt_pension_subs_l5** prio7 ready + draft; raw fin nota+toelichting+extract; rq_838=done; spawn **rq_839**; ticks=848
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_839** residual dual L5 (Roeselare/Lier/VUB/skeyes); deferred **rq_116**; progress@850 in 2

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T20:30:00Z,rq_837,847,no,tick847 Beringen JR2025 dual Veurne; FOI gap_beringen_meerwaarden_debt_subs_l5 + belnet accounts; next rq_838 residual dual L5; progress@850 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T21:00:00Z,rq_838,848,no,tick848 Geel JR2025 dual Beringen; FOI gap_geel_debt_pension_subs_l5; next rq_839 residual dual L5; progress@850 in 2; rq_116 deferred

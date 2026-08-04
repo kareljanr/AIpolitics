@@ -17781,3 +17781,41 @@ bud_be_fiscal_2025,city_beringen,2025,44442985,,,outturn,src_beringen_jr2025,str
 bud_be_werk_subs_rec_2025,city_beringen,2025,37630654,,,outturn,src_beringen_jr2025,strong,J5 werkingssubsidies ontvangen 37.631m; tick847
 bud_be_gemeentefonds_2025,city_beringen,2025,15236258,,,outturn,src_beringen_jr2025,strong,Gemeentefonds 15.236m; tick847
 bud_be_fin_costs_2025,city_beringen,2025,757893,,,outturn,src_beringen_jr2025,strong,J5 financiele kosten 0.758m; tick847
+bud_ge_assets_2025,city_geel,2025,255134076,,,outturn,src_geel_jr2025,strong,Consol stad+OCMW total assets YE2025 255.134m; tick848
+bud_ge_equity_2025,city_geel,2025,92771329,,,outturn,src_geel_jr2025,strong,Nettoactief YE2025 92.771m; tick848
+bud_ge_debt_total_2025,city_geel,2025,162362747,,,outturn,src_geel_jr2025,strong,Total schulden YE2025 162.363m; tick848
+bud_ge_fin_debt_2025,city_geel,2025,69476338,,,outturn,src_geel_jr2025,strong,T4 total financiele schulden YE2025 69.476m (LT 63.606 + ST due 5.870); tick848
+bud_ge_fin_debt_lt_2025,city_geel,2025,63606183,,,outturn,src_geel_jr2025,strong,Financiele schulden LT YE2025 63.606m; tick848
+bud_ge_fin_debt_st_due_2025,city_geel,2025,5870155,,,outturn,src_geel_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 5.870m; tick848
+bud_ge_pension_prov_2025,city_geel,2025,67437181,,,outturn,src_geel_jr2025,strong,Pensioenvoorzieningen LT YE2025 67.437m (~equal fin debt); tick848
+bud_ge_cash_2025,city_geel,2025,7970370,,,outturn,src_geel_jr2025,strong,Liquide middelen YE2025 7.970m; tick848
+bud_ge_cap_subs_2025,city_geel,2025,41957354,,,outturn,src_geel_jr2025,strong,Kapitaalsubsidies YE2025 41.957m; tick848
+bud_ge_fva_total_2025,city_geel,2025,28746050,,,outturn,src_geel_jr2025,strong,Financiele vaste activa YE2025 28.746m; tick848
+bud_ge_fva_igs_2025,city_geel,2025,28278793,,,outturn,src_geel_jr2025,strong,Fin VA IGS YE2025 28.279m; tick848
+bud_ge_mva_2025,city_geel,2025,183654240,,,outturn,src_geel_jr2025,strong,Materiele vaste activa YE2025 183.654m; tick848
+bud_ge_expl_rec_2025,city_geel,2025,125146328,,,outturn,src_geel_jr2025,strong,Exploitatieontvangsten 125.146m; tick848
+bud_ge_expl_exp_2025,city_geel,2025,114864883,,,outturn,src_geel_jr2025,strong,Exploitatieuitgaven 114.865m; tick848
+bud_ge_expl_saldo_2025,city_geel,2025,10281446,,,outturn,src_geel_jr2025,strong,Exploitatiesaldo +10.281m; tick848
+bud_ge_invest_exp_2025,city_geel,2025,10262804,,,outturn,src_geel_jr2025,strong,Investeringsuitgaven J2 10.263m; tick848
+bud_ge_invest_rec_2025,city_geel,2025,1679809,,,outturn,src_geel_jr2025,strong,Investeringsontvangsten J2 1.680m; tick848
+bud_ge_invest_saldo_2025,city_geel,2025,-8582996,,,outturn,src_geel_jr2025,strong,Investeringssaldo -8.583m; tick848
+bud_ge_fin_rec_2025,city_geel,2025,1870067,,,outturn,src_geel_jr2025,strong,Financieringsontvangsten 1.870m; tick848
+bud_ge_fin_exp_2025,city_geel,2025,11795932,,,outturn,src_geel_jr2025,strong,Financieringsuitgaven 11.796m; tick848
+bud_ge_new_loans_2025,city_geel,2025,551823,,,outturn,src_geel_jr2025,strong,Nieuwe leningen 0.552m; tick848
+bud_ge_aflossingen_2025,city_geel,2025,7869577,,,outturn,src_geel_jr2025,strong,Periodieke aflossingen 7.870m; tick848
+bud_ge_early_repay_2025,city_geel,2025,2895026,,,outturn,src_geel_jr2025,strong,Vervroegde aflossing T4 2.895m; tick848
+bud_ge_afm_2025,city_geel,2025,3730113,,,outturn,src_geel_jr2025,strong,AFM +3.730m; tick848
+bud_ge_afm_corr_2025,city_geel,2025,5224552,,,outturn,src_geel_jr2025,strong,Gecorrigeerde AFM +5.225m; tick848
+bud_ge_bbr_2025,city_geel,2025,4057972,,,outturn,src_geel_jr2025,strong,BBR 4.058m after onbeschikbaar 0.293m; tick848
+bud_ge_budget_result_2025,city_geel,2025,-8227416,,,outturn,src_geel_jr2025,strong,Budgettair resultaat boekjaar -8.227m; tick848
+bud_ge_cum_br_2025,city_geel,2025,4351305,,,outturn,src_geel_jr2025,strong,Gecumuleerd budgettair resultaat 4.351m; tick848
+bud_ge_pnl_result_2025,city_geel,2025,5919970,,,outturn,src_geel_jr2025,strong,Vennootschapsresultaat J5 +5.920m (was -17.003m); tick848
+bud_ge_personnel_2025,city_geel,2025,67252519,,,outturn,src_geel_jr2025,strong,J5/T2 bezoldigingen 67.253m; tick848
+bud_ge_toelagen_2025,city_geel,2025,13168797,,,outturn,src_geel_jr2025,strong,Toegestane werkingssubsidies 13.169m (politie 7.021 fire 1.635 AGB 3.089); tick848
+bud_ge_ocmw_aid_2025,city_geel,2025,5905691,,,outturn,src_geel_jr2025,strong,OCMW individuele hulp 5.906m; tick848
+bud_ge_fiscal_2025,city_geel,2025,41982961,,,outturn,src_geel_jr2025,strong,J5 fiscale opbrengsten en boetes 41.983m; tick848
+bud_ge_werk_subs_rec_2025,city_geel,2025,54888677,,,outturn,src_geel_jr2025,strong,J5 werkingssubsidies ontvangen 54.889m; tick848
+bud_ge_gemeentefonds_2025,city_geel,2025,18385302,,,outturn,src_geel_jr2025,strong,Gemeentefonds 18.385m; tick848
+bud_ge_fin_costs_2025,city_geel,2025,2320441,,,outturn,src_geel_jr2025,strong,J5 financiele kosten 2.320m; tick848
+bud_ge_ag_cultuur_bbr_2025,city_geel,2025,2100648,,,outturn,src_geel_jr2025,strong,AG cultuur BBR 2.101m; tick848
+bud_ge_ag_sport_bbr_2025,city_geel,2025,322481,,,outturn,src_geel_jr2025,strong,AG sport BBR 0.322m; tick848
