@@ -10619,3 +10619,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_860=done; next **rq_861**; loop_state ticks=860
 - FOI: none new this tick
 - Next: prio5 **rq_861** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@870 in 10
+
+## Tick 861 - 2026-08-06T03:30:00Z
+
+- Unit: **rq_861** (FOI-adjacent residual dual - **Gemeente+OCMW Koksijde Jaarrekening 2025** + Aarschot dual)
+- Found (strong primary BBC JR2025 463p, pub 25.06.2026 class):
+  - Assets **EUR330.4m** · equity **EUR216.5m** · debt total **EUR113.9m** · fin debt **EUR77.8m** (LT **EUR69.9m** · ST due **EUR7.8m**; was **EUR66.2m**)
+  - Pension **EUR15.6m** · cash **EUR16.5m** (was **EUR5.7m**) · cap subs **EUR30.3m** · FVA IGS **EUR31.5m**
+  - Exploitatie: ontvangsten **EUR90.3m** · uitgaven **EUR72.3m** · saldo **+EUR18.0m**
+  - AFM **+EUR10.3m** (gecorr **+EUR13.0m**) · BBR **EUR13.2m** · budget result **+EUR18.6m** · P&L **+EUR4.5m**
+  - Personnel **EUR41.3m** · toelagen **EUR10.3m** (police **EUR5.9m** · fire **EUR1.1m** · other **EUR2.8m**) · OCMW aid **EUR1.4m** · fiscal **EUR58.0m** (coastal)
+  - Invest **EUR19.7m** · new loans **EUR24.5m** · gemeentefonds **EUR5.5m** · MJP2026 planned loans **EUR25.1m**
+- Dual: Aarschot **EUR172m** / fin debt **EUR43m** / AFM **+EUR5.1m** / new loans **EUR9.8m** (tick859) - not TE-additive
+- Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_koksijde; FOI **gap_koksijde_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_861=done; spawn **rq_862**; ticks=861
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_862** residual dual L5 (Roeselare/Lier/Poperinge/VUB/skeyes); deferred **rq_116**; progress@870 in 9

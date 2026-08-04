@@ -18208,3 +18208,42 @@ bud_aa_gemeentefonds_2025,city_aarschot,2025,11881729,,,outturn,src_aarschot_jr2
 bud_aa_fin_costs_2025,city_aarschot,2025,1131077,,,outturn,src_aarschot_jr2025,strong,J5 financiele kosten 1.131m; tick859
 bud_aa_police_toelage_2025,city_aarschot,2025,5475877,,,outturn,src_aarschot_jr2025,strong,Toelage politiezone 5.476m; tick859
 bud_aa_fire_toelage_2025,city_aarschot,2025,1656889,,,outturn,src_aarschot_jr2025,strong,Toelage hulpverleningszone 1.657m; tick859
+bud_kx_assets_2025,city_koksijde,2025,330404427,,,outturn,src_koksijde_jr2025,strong,Consol gemeente+OCMW total assets YE2025 330.404m; tick861
+bud_kx_equity_2025,city_koksijde,2025,216485888,,,outturn,src_koksijde_jr2025,strong,Nettoactief YE2025 216.486m; tick861
+bud_kx_debt_total_2025,city_koksijde,2025,113918539,,,outturn,src_koksijde_jr2025,strong,Total schulden YE2025 113.919m; tick861
+bud_kx_fin_debt_2025,city_koksijde,2025,77761004,,,outturn,src_koksijde_jr2025,strong,T4 total financiele schulden YE2025 77.761m (LT 69.942 + ST due 7.819); tick861
+bud_kx_fin_debt_lt_2025,city_koksijde,2025,69942217,,,outturn,src_koksijde_jr2025,strong,Financiele schulden LT YE2025 69.942m; tick861
+bud_kx_fin_debt_st_due_2025,city_koksijde,2025,7818787,,,outturn,src_koksijde_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 7.819m; tick861
+bud_kx_pension_prov_2025,city_koksijde,2025,15605262,,,outturn,src_koksijde_jr2025,strong,Pensioenvoorzieningen LT YE2025 15.605m; tick861
+bud_kx_cash_2025,city_koksijde,2025,16515522,,,outturn,src_koksijde_jr2025,strong,Liquide middelen YE2025 16.516m (was 5.680m); tick861
+bud_kx_cap_subs_2025,city_koksijde,2025,30260798,,,outturn,src_koksijde_jr2025,strong,Kapitaalsubsidies YE2025 30.261m; tick861
+bud_kx_fva_total_2025,city_koksijde,2025,36124550,,,outturn,src_koksijde_jr2025,strong,Financiele vaste activa YE2025 36.125m; tick861
+bud_kx_fva_igs_2025,city_koksijde,2025,31487684,,,outturn,src_koksijde_jr2025,strong,Fin VA IGS YE2025 31.488m; tick861
+bud_kx_mva_2025,city_koksijde,2025,260097080,,,outturn,src_koksijde_jr2025,strong,Materiele vaste activa YE2025 260.097m; tick861
+bud_kx_onbeschikbaar_2025,city_koksijde,2025,0,,,outturn,src_koksijde_jr2025,strong,Onbeschikbare gelden J2 0; tick861
+bud_kx_expl_rec_2025,city_koksijde,2025,90299459,,,outturn,src_koksijde_jr2025,strong,Exploitatieontvangsten 90.299m; tick861
+bud_kx_expl_exp_2025,city_koksijde,2025,72265983,,,outturn,src_koksijde_jr2025,strong,Exploitatieuitgaven 72.266m; tick861
+bud_kx_expl_saldo_2025,city_koksijde,2025,18033475,,,outturn,src_koksijde_jr2025,strong,Exploitatiesaldo +18.033m (very strong); tick861
+bud_kx_invest_exp_2025,city_koksijde,2025,19732482,,,outturn,src_koksijde_jr2025,strong,Investeringsuitgaven J2 19.732m; tick861
+bud_kx_invest_rec_2025,city_koksijde,2025,3495748,,,outturn,src_koksijde_jr2025,strong,Investeringsontvangsten J2 3.496m; tick861
+bud_kx_invest_saldo_2025,city_koksijde,2025,-16236734,,,outturn,src_koksijde_jr2025,strong,Investeringssaldo -16.237m; tick861
+bud_kx_fin_rec_2025,city_koksijde,2025,24769159,,,outturn,src_koksijde_jr2025,strong,Financieringsontvangsten 24.769m; tick861
+bud_kx_fin_exp_2025,city_koksijde,2025,7950916,,,outturn,src_koksijde_jr2025,strong,Financieringsuitgaven 7.951m; tick861
+bud_kx_new_loans_2025,city_koksijde,2025,24528293,,,outturn,src_koksijde_jr2025,strong,Nieuwe leningen 24.528m (large); tick861
+bud_kx_aflossingen_2025,city_koksijde,2025,7950916,,,outturn,src_koksijde_jr2025,strong,Periodieke aflossingen 7.951m; tick861
+bud_kx_afm_2025,city_koksijde,2025,10323425,,,outturn,src_koksijde_jr2025,strong,AFM +10.323m (very strong); tick861
+bud_kx_afm_corr_2025,city_koksijde,2025,12979651,,,outturn,src_koksijde_jr2025,strong,Gecorrigeerde AFM +12.980m; tick861
+bud_kx_bbr_2025,city_koksijde,2025,13182615,,,outturn,src_koksijde_jr2025,strong,BBR 13.183m after onbeschikbaar 0; tick861
+bud_kx_budget_result_2025,city_koksijde,2025,18614985,,,outturn,src_koksijde_jr2025,strong,Budgettair resultaat boekjaar +18.615m; tick861
+bud_kx_cum_br_2025,city_koksijde,2025,13182615,,,outturn,src_koksijde_jr2025,strong,Gecumuleerd budgettair resultaat 13.183m (was -5.432m YE2024); tick861
+bud_kx_pnl_result_2025,city_koksijde,2025,4469414,,,outturn,src_koksijde_jr2025,strong,Vennootschapsresultaat J5 +4.469m; tick861
+bud_kx_personnel_2025,city_koksijde,2025,41306333,,,outturn,src_koksijde_jr2025,strong,J5/T2 bezoldigingen 41.306m (incl onderwijs other-gov 4.780m); tick861
+bud_kx_toelagen_2025,city_koksijde,2025,10317935,,,outturn,src_koksijde_jr2025,strong,Toegestane werkingssubsidies 10.318m (politie 5.885 fire 1.118 other 2.779); tick861
+bud_kx_ocmw_aid_2025,city_koksijde,2025,1438974,,,outturn,src_koksijde_jr2025,strong,OCMW individuele hulp 1.439m; tick861
+bud_kx_fiscal_2025,city_koksijde,2025,57967199,,,outturn,src_koksijde_jr2025,strong,J5 fiscale opbrengsten en boetes 57.967m (coastal/tourist); tick861
+bud_kx_werk_subs_rec_2025,city_koksijde,2025,21994329,,,outturn,src_koksijde_jr2025,strong,J5 werkingssubsidies ontvangen 21.994m; tick861
+bud_kx_gemeentefonds_2025,city_koksijde,2025,5515653,,,outturn,src_koksijde_jr2025,strong,Gemeentefonds 5.516m; tick861
+bud_kx_fin_costs_2025,city_koksijde,2025,2707988,,,outturn,src_koksijde_jr2025,strong,J5 financiele kosten 2.708m; tick861
+bud_kx_police_toelage_2025,city_koksijde,2025,5885303,,,outturn,src_koksijde_jr2025,strong,Toelage politiezone 5.885m; tick861
+bud_kx_fire_toelage_2025,city_koksijde,2025,1117626,,,outturn,src_koksijde_jr2025,strong,Toelage hulpverleningszone 1.118m; tick861
+bud_kx_mjp2026_new_loans_plan,city_koksijde,2026,25057041,,,budgeted,src_koksijde_jr2025,strong,MJP planned new loans 2026 25.057m; tick861
