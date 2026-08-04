@@ -17667,3 +17667,41 @@ bud_th_werk_subs_rec_2025,city_turnhout,2025,76597076,,,outturn,src_turnhout_jr2
 bud_th_gemeentefonds_2025,city_turnhout,2025,35137273,,,outturn,src_turnhout_jr2025,strong,Gemeentefonds 35.137m; tick844
 bud_th_fin_costs_2025,city_turnhout,2025,1282552,,,outturn,src_turnhout_jr2025,strong,J5 financiele kosten 1.283m; tick844
 bud_th_ag_bbr_2025,city_turnhout,2025,2027882,,,outturn,src_turnhout_jr2025,strong,AG Turnhout BBR 2.028m (consol path); tick844
+bud_he_assets_2025,city_herentals,2025,278776040,,,outturn,src_herentals_jr2025,strong,Consol stad+OCMW total assets YE2025 278.776m (was 300.9m); tick845
+bud_he_equity_2025,city_herentals,2025,151884314,,,outturn,src_herentals_jr2025,strong,Nettoactief YE2025 151.884m; tick845
+bud_he_debt_total_2025,city_herentals,2025,126891726,,,outturn,src_herentals_jr2025,strong,Total schulden YE2025 126.892m; tick845
+bud_he_fin_debt_2025,city_herentals,2025,40617041,,,outturn,src_herentals_jr2025,strong,Openstaande schulden uit leningen kengetallen YE2025 40.617m (J4 LT+ST due ~40.600m); tick845
+bud_he_fin_debt_lt_2025,city_herentals,2025,37984067,,,outturn,src_herentals_jr2025,strong,Financiele schulden LT J4 YE2025 37.984m; tick845
+bud_he_fin_debt_st_due_2025,city_herentals,2025,2616380,,,outturn,src_herentals_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.616m; tick845
+bud_he_fin_debt_t4_2025,city_herentals,2025,56061185,,,outturn,src_herentals_jr2025,strong,T4 total financiele schulden YE2025 56.061m (series vs J4 ~40.6m gap FOI); tick845
+bud_he_pension_prov_2025,city_herentals,2025,58207715,,,outturn,src_herentals_jr2025,strong,Pensioenvoorzieningen LT YE2025 58.208m (was 70.933m); tick845
+bud_he_cash_2025,city_herentals,2025,24530243,,,outturn,src_herentals_jr2025,strong,Liquide middelen YE2025 24.530m; tick845
+bud_he_cap_subs_2025,city_herentals,2025,19637482,,,outturn,src_herentals_jr2025,strong,Kapitaalsubsidies YE2025 19.637m; tick845
+bud_he_fva_total_2025,city_herentals,2025,38170074,,,outturn,src_herentals_jr2025,strong,Financiele vaste activa YE2025 38.170m; tick845
+bud_he_fva_igs_2025,city_herentals,2025,23461397,,,outturn,src_herentals_jr2025,strong,Fin VA IGS YE2025 23.461m; tick845
+bud_he_mva_2025,city_herentals,2025,186527427,,,outturn,src_herentals_jr2025,strong,Materiele vaste activa YE2025 186.527m; tick845
+bud_he_expl_rec_2025,city_herentals,2025,75494526,,,outturn,src_herentals_jr2025,strong,Exploitatieontvangsten 75.495m; tick845
+bud_he_expl_exp_2025,city_herentals,2025,66743980,,,outturn,src_herentals_jr2025,strong,Exploitatieuitgaven 66.744m; tick845
+bud_he_expl_saldo_2025,city_herentals,2025,8750546,,,outturn,src_herentals_jr2025,strong,Exploitatiesaldo +8.751m; tick845
+bud_he_invest_exp_2025,city_herentals,2025,15440465,,,outturn,src_herentals_jr2025,strong,Investeringsuitgaven J2 15.440m; tick845
+bud_he_invest_rec_2025,city_herentals,2025,6544897,,,outturn,src_herentals_jr2025,strong,Investeringsontvangsten J2 6.545m; tick845
+bud_he_invest_saldo_2025,city_herentals,2025,-8895568,,,outturn,src_herentals_jr2025,strong,Investeringssaldo -8.896m; tick845
+bud_he_fin_rec_2025,city_herentals,2025,1749572,,,outturn,src_herentals_jr2025,strong,Financieringsontvangsten 1.750m; tick845
+bud_he_fin_exp_2025,city_herentals,2025,4464311,,,outturn,src_herentals_jr2025,strong,Financieringsuitgaven 4.464m; tick845
+bud_he_new_loans_2025,city_herentals,2025,894757,,,outturn,src_herentals_jr2025,strong,Nieuwe leningen 0.895m; tick845
+bud_he_aflossingen_2025,city_herentals,2025,4107752,,,outturn,src_herentals_jr2025,strong,Periodieke aflossingen J2 4.108m; tick845
+bud_he_afm_2025,city_herentals,2025,5526505,,,outturn,src_herentals_jr2025,strong,AFM +5.527m J2; tick845
+bud_he_afm_corr_2025,city_herentals,2025,4875122,,,outturn,src_herentals_jr2025,strong,Gecorrigeerde AFM +4.875m; tick845
+bud_he_bbr_2025,city_herentals,2025,20075972,,,outturn,src_herentals_jr2025,strong,BBR 20.076m after onbeschikbaar 0.195m; tick845
+bud_he_budget_result_2025,city_herentals,2025,-2859761,,,outturn,src_herentals_jr2025,strong,Budgettair resultaat boekjaar -2.860m; tick845
+bud_he_cum_br_2025,city_herentals,2025,20270618,,,outturn,src_herentals_jr2025,strong,Gecumuleerd budgettair resultaat 20.271m; tick845
+bud_he_pnl_result_2025,city_herentals,2025,16411727,,,outturn,src_herentals_jr2025,strong,Vennootschapsresultaat J5 +16.412m (was -25.159m; pension release); tick845
+bud_he_personnel_2025,city_herentals,2025,39781979,,,outturn,src_herentals_jr2025,strong,J5/T2 bezoldigingen 39.782m (was 44.945m); tick845
+bud_he_toelagen_2025,city_herentals,2025,7869670,,,outturn,src_herentals_jr2025,strong,Toegestane werkingssubsidies 7.870m (politie 3.912 fire 0.826); tick845
+bud_he_ocmw_aid_2025,city_herentals,2025,3293036,,,outturn,src_herentals_jr2025,strong,OCMW individuele hulp 3.293m; tick845
+bud_he_fiscal_2025,city_herentals,2025,31813352,,,outturn,src_herentals_jr2025,strong,J5 fiscale opbrengsten en boetes 31.813m; tick845
+bud_he_werk_subs_rec_2025,city_herentals,2025,28837430,,,outturn,src_herentals_jr2025,strong,J5 werkingssubsidies ontvangen 28.837m; tick845
+bud_he_gemeentefonds_2025,city_herentals,2025,11781889,,,outturn,src_herentals_jr2025,strong,Gemeentefonds 11.782m; tick845
+bud_he_fin_costs_2025,city_herentals,2025,1852353,,,outturn,src_herentals_jr2025,strong,J5 financiele kosten 1.852m; tick845
+bud_he_ocmw_cover_2025,city_herentals,2025,7676667,,,outturn,src_herentals_jr2025,strong,Tussenkomst stad in OCMW-tekort 7.677m; tick845
+bud_he_debt_per_capita_2025,city_herentals,2025,1401,,,outturn,src_herentals_jr2025,strong,Openstaande schuld per inwoner 1401 EUR; tick845

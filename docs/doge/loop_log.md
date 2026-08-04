@@ -10379,3 +10379,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37; commitments +4; leaderboard +7; sources +2; entity city_turnhout; FOI **gap_turnhout_debt_pension_subs_l5** prio6 ready + draft; raw PDF+extract; rq_834=done; spawn **rq_835**; ticks=844
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_835** residual dual L5 (Roeselare/VUB/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 6
+
+## Tick 845 - 2026-08-05T19:30:00Z
+
+- Unit: **rq_835** (FOI-adjacent residual dual - **Stad+OCMW Herentals Jaarrekening 2025** + Turnhout dual)
+- Found (strong primary BBC JR2025 395p, GR 02.06.2026):
+  - Assets **EUR278.8m** (was **EUR300.9m**) · equity **EUR151.9m** · debt total **EUR126.9m** · loan stock **EUR40.6m** (T4 alt **EUR56.1m** gap) · **EUR1401/capita**
+  - Pension provisions **EUR58.2m** (was **EUR70.9m**) · cash **EUR24.5m** · cap subs **EUR19.6m** · FVA **EUR38.2m**
+  - Exploitatie: ontvangsten **EUR75.5m** · uitgaven **EUR66.7m** · saldo **+EUR8.8m**
+  - AFM **+EUR5.5m** (gecorr **+EUR4.9m**) · BBR **EUR20.1m** · budget result **-EUR2.9m** · P&L **+EUR16.4m** (pension release)
+  - Personnel **EUR39.8m** (was **EUR44.9m**) · toelagen **EUR7.9m** (police **EUR3.9m**) · OCMW aid **EUR3.3m** · OCMW cover **EUR7.7m** · fiscal **EUR31.8m**
+  - Invest **EUR15.4m** · new loans **EUR0.9m** · gemeentefonds **EUR11.8m**
+- Dual: Turnhout **EUR333m** / fin debt **EUR54m** / AFM **+EUR17.4m** (tick844) - not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_herentals; FOI **gap_herentals_debt_pension_subs_l5** prio6 ready + draft; raw PDF+extract; rq_835=done; spawn **rq_836**; ticks=845
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_836** residual dual L5 (Roeselare/Veurne/VUB/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 5

@@ -1,0 +1,35 @@
+Herentals Stad+OCMW Jaarrekening 2025 — extract tick845
+Source: https://www.herentals.be/het-stadsbestuur/schepencollege-en-vast-bureau/jaarrekening
+PDF: https://www.herentals.be/sites/default/files/public/stad/Bestuur/Documenten/Jaarrekening/2025/20260602_JR2025_StadOCMWHerentals.pdf
+Local: docs/doge/data/raw/herentals_jr2025.pdf (395p, 6.5MB)
+GR/RMW 2 juni 2026 · dossier 20/04/2026
+KSZ Stad 0207.504.675 / OCMW 0208.038.769
+AD Tanja Mattheus · FD Muriel Poortmans · Augustijnenlaan 30 2200
+
+KENGETALLEN (p6) consol:
+Kas 24.530.243 · Expl rec 75.494.526 / exp 66.743.980 · saldo +8.750.546
+Invest -8.895.568 · new loans 894.757 · openstaande leningen 40.617.041
+Interest 1.827.479 · BR -2.859.761 · gecum 20.270.618 · AFM 5.036.822 (kengetal)
+OCMW cover 7.676.667 · BBR/inw 699 · schuld/inw 1.401 (~29k inw)
+
+J2 (p112): Expl +8.750.546 · Invest -8.895.568 · Fin -2.714.739
+BR -2.859.761 · BBR 20.075.972 · AFM +5.526.505 · gecorr AFM +4.875.122
+AG consol BBR 21.837.381 (AG 51.773 + Sport 1.709.637)
+
+J4 (p115-116) YE2025 / 2024:
+ACTIVA 278.776.040 / 300.911.828
+PASSIVA schulden 126.891.726 · nettoactief 151.884.314
+Kas 24.530.243 · FVA 38.170.074 (IGS 23.461.397 · OCMW-ver 11.339.197)
+MVA 186.527.427 · pensioen LT 58.207.715 (was 70.933.042)
+Fin LT 37.984.067 + ST due 2.616.380 = ~40.600.447 ≈ kengetallen 40.617.041
+T4 total fin debt 56.061.185 (series vs J4 gap — FOI residual)
+
+J5 (p117): Kosten 60.182.065 (bezold 39.781.979 · toelagen 7.869.670 · OCMW aid 3.293.036)
+  afschr/voorz -7.263.573 (pension release) · fin 1.852.353
+Opbrengsten 76.593.792 (fiscal 31.813.352 · werk-subs 28.837.430)
+Resultaat +16.411.727 (was -25.159.088)
+
+T2: politie 3.912.205 · brand 826.062 · welzijn 1.413.527 · gemeentefonds 11.781.889
+Personnel drop 44.9m→39.8m
+
+Dual: Turnhout assets 332.7m / fin debt 53.7m / AFM +17.4m (tick844) — not TE-additive
