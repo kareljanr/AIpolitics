@@ -10649,3 +10649,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_oudenaarde; FOI **gap_oudenaarde_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_862=done; spawn **rq_863**; ticks=862
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_863** residual dual L5 (Roeselare/Lier/Poperinge/Vilvoorde/VUB/skeyes); deferred **rq_116**; progress@870 in 8
+
+## Tick 863 - 2026-08-06T04:30:00Z
+
+- Unit: **rq_863** (FOI-adjacent residual dual - **Stad+OCMW Vilvoorde Jaarrekening 2025** + Oudenaarde dual)
+- Found (strong primary BBC JR2025 355p, GR 22.06.2026 pub 23.06.2026):
+  - Assets **EUR275.7m** / equity **EUR200.8m** / debt total **EUR74.8m** / fin debt **EUR15.6m** (LT **EUR14.3m** / ST due **EUR1.3m**; was **EUR17.0m**)
+  - Pension **EUR38.9m** / cash **EUR4.0m** / cap subs **EUR34.6m** / FVA IGS **EUR32.2m** (was **EUR0.54m**) / herwaard **EUR31.7m** / onbeschikbaar **EUR0.009m**
+  - Exploitatie: ontvangsten **EUR126.5m** / uitgaven **EUR112.6m** / saldo **+EUR13.9m**
+  - AFM **+EUR12.6m** (gecorr **+EUR13.1m**) / BBR **EUR8.6m** / budget result **-EUR3.0m** / P&L **+EUR2.4m**
+  - Personnel **EUR60.8m** (onderwijs other-gov **EUR23.8m**) / toelagen **EUR20.9m** (police **EUR8.4m** / welzijn **EUR4.5m** / fire **EUR3.2m** / AGB **EUR2.0m** / IGS **EUR1.9m** / other **EUR0.9m**) / OCMW aid **EUR8.8m** / fiscal **EUR48.1m**
+  - Invest **EUR18.3m** / new loans **EUR0.58m** (VL noodkoopfonds; no bank) / gemeentefonds **EUR19.9m** / MJP2026-27 planned loans **EUR12.0m + EUR5.0m**
+- Dual: Oudenaarde **EUR279m** / fin debt **EUR42m** / AFM **+EUR1.5m** / new loans **EUR12.7m** (tick862) - not TE-additive
+- Wrote: budgets +47; commitments +4; leaderboard +7; sources +2; entity city_vilvoorde; FOI **gap_vilvoorde_igs_loans_l5** prio7 ready + draft; raw PDF+extract; rq_863=done; spawn **rq_864**; ticks=863
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_864** residual dual L5 (Roeselare/Lier/Poperinge/Sint-Truiden/VUB/skeyes); deferred **rq_116**; progress@870 in 7

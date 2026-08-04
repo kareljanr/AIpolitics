@@ -18287,3 +18287,50 @@ bud_oa_new_loans_bank_2025,city_oudenaarde,2025,12500000,,,outturn,src_oudenaard
 bud_oa_pl_costs_2025,city_oudenaarde,2025,89587690,,,outturn,src_oudenaarde_jr2025,strong,Staat kosten total 89.588m 2025; tick862
 bud_oa_pl_opbrengsten_2025,city_oudenaarde,2025,83339244,,,outturn,src_oudenaarde_jr2025,strong,Staat opbrengsten total 83.339m 2025; tick862
 bud_oa_pl_result_2025,city_oudenaarde,2025,-6248446,,,outturn,src_oudenaarde_jr2025,strong,Boekhoudkundig tekort -6.248m 2025; tick862
+bud_vv_assets_2025,city_vilvoorde,2025,275654751,,,stock,src_vilvoorde_jr2025,strong,Consol stad+OCMW total assets YE2025 275.655m; tick863
+bud_vv_equity_2025,city_vilvoorde,2025,200831996,,,stock,src_vilvoorde_jr2025,strong,Nettoactief YE2025 200.832m; tick863
+bud_vv_debt_total_2025,city_vilvoorde,2025,74822755,,,stock,src_vilvoorde_jr2025,strong,Schulden total YE2025 74.823m; tick863
+bud_vv_fin_debt_2025,city_vilvoorde,2025,15631926,,,stock,src_vilvoorde_jr2025,strong,Financiele schulden total YE2025 15.632m (LT 14.340 + ST due 1.291); tick863
+bud_vv_fin_debt_lt_2025,city_vilvoorde,2025,14340433,,,stock,src_vilvoorde_jr2025,strong,Financiele schulden LT YE2025 14.340m; tick863
+bud_vv_fin_debt_st_2025,city_vilvoorde,2025,1291493,,,stock,src_vilvoorde_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.291m; tick863
+bud_vv_pension_prov_2025,city_vilvoorde,2025,38937063,,,stock,src_vilvoorde_jr2025,strong,Pensioenvoorzieningen YE2025 38.937m (incl responsabilisering class); tick863
+bud_vv_cash_2025,city_vilvoorde,2025,3956015,,,stock,src_vilvoorde_jr2025,strong,Liquide middelen YE2025 3.956m; tick863
+bud_vv_cap_subs_2025,city_vilvoorde,2025,34552059,,,stock,src_vilvoorde_jr2025,strong,Kapitaalsubsidies YE2025 34.552m; tick863
+bud_vv_fva_igs_2025,city_vilvoorde,2025,32223799,,,stock,src_vilvoorde_jr2025,strong,Fin VA IGS YE2025 32.224m (was 0.541m 2024; reval FOI-adjacent); tick863
+bud_vv_fva_ocmw_ver_2025,city_vilvoorde,2025,12849079,,,stock,src_vilvoorde_jr2025,strong,Fin VA OCMW-verenigingen YE2025 12.849m; tick863
+bud_vv_reval_reserves_2025,city_vilvoorde,2025,31661712,,,stock,src_vilvoorde_jr2025,strong,Herwaarderingsreserves YE2025 31.662m (was 0); tick863
+bud_vv_onbeschikbaar_2025,city_vilvoorde,2025,9215,,,stock,src_vilvoorde_jr2025,strong,Onbeschikbare gelden YE2025 0.009m; tick863
+bud_vv_cumul_surplus_2025,city_vilvoorde,2025,62342244,,,stock,src_vilvoorde_jr2025,strong,Gecumuleerd overschot YE2025 62.342m; tick863
+bud_vv_expl_rec_2025,city_vilvoorde,2025,126518828,,,outturn,src_vilvoorde_jr2025,strong,Exploitatieontvangsten 126.519m 2025; tick863
+bud_vv_expl_exp_2025,city_vilvoorde,2025,112624975,,,outturn,src_vilvoorde_jr2025,strong,Exploitatieuitgaven 112.625m 2025; tick863
+bud_vv_expl_saldo_2025,city_vilvoorde,2025,13893853,,,outturn,src_vilvoorde_jr2025,strong,Exploitatiesaldo +13.894m 2025; tick863
+bud_vv_invest_exp_2025,city_vilvoorde,2025,18344648,,,outturn,src_vilvoorde_jr2025,strong,Investeringsuitgaven 18.345m 2025; tick863
+bud_vv_invest_rec_2025,city_vilvoorde,2025,2831845,,,outturn,src_vilvoorde_jr2025,strong,Investeringsontvangsten 2.832m 2025; tick863
+bud_vv_invest_saldo_2025,city_vilvoorde,2025,-15512803,,,outturn,src_vilvoorde_jr2025,strong,Investeringssaldo -15.513m 2025; tick863
+bud_vv_fin_rec_2025,city_vilvoorde,2025,1108112,,,outturn,src_vilvoorde_jr2025,strong,Financieringsontvangsten 1.108m 2025; tick863
+bud_vv_fin_exp_2025,city_vilvoorde,2025,2538880,,,outturn,src_vilvoorde_jr2025,strong,Financieringsuitgaven 2.539m 2025; tick863
+bud_vv_fin_saldo_2025,city_vilvoorde,2025,-1430768,,,outturn,src_vilvoorde_jr2025,strong,Financieringssaldo -1.431m 2025; tick863
+bud_vv_budget_result_2025,city_vilvoorde,2025,-3049719,,,outturn,src_vilvoorde_jr2025,strong,Budgettair resultaat boekjaar -3.050m 2025; tick863
+bud_vv_bbr_2025,city_vilvoorde,2025,8648872,,,outturn,src_vilvoorde_jr2025,strong,Beschikbaar budgettair resultaat 8.649m YE2025; tick863
+bud_vv_afm_2025,city_vilvoorde,2025,12568662,,,outturn,src_vilvoorde_jr2025,strong,Autofinancieringsmarge AFM +12.569m 2025; tick863
+bud_vv_afm_corr_2025,city_vilvoorde,2025,13087696,,,outturn,src_vilvoorde_jr2025,strong,Gecorrigeerde AFM +13.088m 2025; tick863
+bud_vv_personnel_2025,city_vilvoorde,2025,60826518,,,outturn,src_vilvoorde_jr2025,strong,Personeelsuitgaven/bezold 60.827m 2025 (incl onderwijs other-gov 23.844m); tick863
+bud_vv_personnel_onderwijs_other_2025,city_vilvoorde,2025,23843510,,,outturn,src_vilvoorde_jr2025,strong,Onderwijzend personeel ten laste andere overheden 23.844m 2025; tick863
+bud_vv_goederen_diensten_2025,city_vilvoorde,2025,21391640,,,outturn,src_vilvoorde_jr2025,strong,Goederen en diensten 21.392m 2025; tick863
+bud_vv_toelagen_2025,city_vilvoorde,2025,20877454,,,outturn,src_vilvoorde_jr2025,strong,Toegestane werkingssubsidies 20.877m 2025; tick863
+bud_vv_toelagen_police_2025,city_vilvoorde,2025,8351717,,,outturn,src_vilvoorde_jr2025,strong,Toelage politiezone 8.352m 2025; tick863
+bud_vv_toelagen_fire_2025,city_vilvoorde,2025,3155796,,,outturn,src_vilvoorde_jr2025,strong,Toelage hulpverleningszone 3.156m 2025; tick863
+bud_vv_toelagen_agb_2025,city_vilvoorde,2025,2029069,,,outturn,src_vilvoorde_jr2025,strong,Toelage eigen AGB 2.029m 2025; tick863
+bud_vv_toelagen_welzijn_2025,city_vilvoorde,2025,4537744,,,outturn,src_vilvoorde_jr2025,strong,Toelage welzijnsverenigingen 4.538m 2025; tick863
+bud_vv_toelagen_igs_2025,city_vilvoorde,2025,1895106,,,outturn,src_vilvoorde_jr2025,strong,Toelage IGS 1.895m 2025; tick863
+bud_vv_toelagen_other_2025,city_vilvoorde,2025,863060,,,outturn,src_vilvoorde_jr2025,strong,Toelagen andere begunstigden 0.863m 2025 FOI-adjacent; tick863
+bud_vv_ocmw_aid_2025,city_vilvoorde,2025,8826503,,,outturn,src_vilvoorde_jr2025,strong,OCMW individuele hulpverlening 8.827m 2025; tick863
+bud_vv_fiscal_2025,city_vilvoorde,2025,48060634,,,outturn,src_vilvoorde_jr2025,strong,Fiscale ontvangsten en boetes 48.061m 2025; tick863
+bud_vv_gemeentefonds_2025,city_vilvoorde,2025,19940647,,,outturn,src_vilvoorde_jr2025,strong,Gemeentefonds 19.941m 2025; tick863
+bud_vv_new_loans_2025,city_vilvoorde,2025,576894,,,outturn,src_vilvoorde_jr2025,strong,Nieuwe financiele schulden 0.577m 2025 (VL noodkoopfonds; no bank); tick863
+bud_vv_mjp2026_new_loans_plan,city_vilvoorde,2025,11950000,,,plan,src_vilvoorde_jr2025,strong,MJP planned new loans 2026 11.950m (T4); tick863 FOI-adjacent
+bud_vv_mjp2027_new_loans_plan,city_vilvoorde,2025,4950000,,,plan,src_vilvoorde_jr2025,strong,MJP planned new loans 2027 4.950m (T4); tick863 FOI-adjacent
+bud_vv_pl_costs_2025,city_vilvoorde,2025,126545111,,,outturn,src_vilvoorde_jr2025,strong,Staat kosten total 126.545m 2025; tick863
+bud_vv_pl_opbrengsten_2025,city_vilvoorde,2025,128976868,,,outturn,src_vilvoorde_jr2025,strong,Staat opbrengsten total 128.977m 2025; tick863
+bud_vv_pl_result_2025,city_vilvoorde,2025,2431757,,,outturn,src_vilvoorde_jr2025,strong,Boekhoudkundig overschot +2.432m 2025; tick863
+bud_vv_consol_afm_2025,city_vilvoorde,2025,13788541,,,outturn,src_vilvoorde_jr2025,strong,Consol AFM stad+OCMW+AG+Zorgbedrijf +13.789m 2025; tick863
