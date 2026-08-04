@@ -16743,3 +16743,34 @@ bud_eib_pei_island_total_phase1,elia,2024,1105000000,,,estimate,src_eib_pei_isla
 bud_eib_pez_lot1_finance_appraisal,fod_economie,2025,1000000000,,,loan,src_eib_pez_lot1_20240726,medium,EIB under appraisal proposed finance ~1000m of ~2500m total for ~700MW PEZ lot1; excludes island/export; tick812
 bud_eib_pez_lot1_total_appraisal,fod_economie,2025,2500000000,,,estimate,src_eib_pez_lot1_20240726,medium,EIB total cost approx 2500m PEZ lot1 SPE; dual retender risk after Jul2025 cancel; tick812
 bud_dual_mog2_pez_stack_tick812,gg_belgium,2034,800000000,7000000000,8000000000,synthesis,src_dual_mog2_pez_tick812,strong,Dual annual tariff class ~800m vs CAPEX 7-8bn MOG + PEZ CfD residual; not TE-additive; tick812
+bud_vmsw_balance_total_2025,vmsw,2025,12382615327,,,outturn,src_vmsw_jr2025,strong,Balance total YE2025 12382.615m (vs 11872.8m YE2024); tick813
+bud_vmsw_balance_total_2024,vmsw,2024,11872800000,,,outturn,src_vmsw_jr2025,strong,Balance total YE2024 11872.8m cited in JR2025; tick813
+bud_vmsw_profit_2025,vmsw,2025,5210443,,,outturn,src_vmsw_jr2025,strong,Net profit 2025 5.210443m; tick813
+bud_vmsw_result_2024,vmsw,2024,-4497038,,,outturn,src_vmsw_jr2025,strong,Result YE2024 -4.497038m cited JR2025; tick813
+bud_vmsw_loans_outstanding_2025,vmsw,2025,11602986211,,,outturn,src_vmsw_jr2025,strong,Uitstaande leningen / loan claims 11602.986m YE2025; tick813
+bud_vmsw_claims_lt_st_2025,vmsw,2025,11640269107,,,outturn,src_vmsw_jr2025,strong,Vorderingen LT+ST 11640.269m YE2025; +364.2m vs 2024; tick813
+bud_vmsw_debt_total_statutory_2025,vmsw,2025,10360779382,,,outturn,src_vmsw_jr2025,strong,Schulden LT+ST statutory 10360.779m; dual CoA ESA debt 3123.4m different perimeter; tick813
+bud_vmsw_debt_banks_2025,vmsw,2025,2424156244,,,outturn,src_vmsw_jr2025,strong,Leningen bij kredietinstellingen 2424.156m YE2025; tick813
+bud_vmsw_debt_other_loans_2025,vmsw,2025,7154154340,,,outturn,src_vmsw_jr2025,strong,Overige leningen 7154.154m (incl Flanders zero-interest systems); tick813
+bud_vmsw_fs3_draw_flanders_2025,vmsw,2025,1000000000,,,outturn,src_vmsw_jr2025,strong,2025 VMSW drew 1bn zero-interest loans from Flanders for FS3; matches CoA new LT loan note; tick813
+bud_vmsw_capital_2025,vmsw,2025,123643247,,,outturn,src_vmsw_jr2025,strong,Maatschappelijk kapitaal 123.643m; tick813
+bud_vmsw_reserves_result_2025,vmsw,2025,877278130,,,outturn,src_vmsw_jr2025,strong,Reserves en resultaat 877.278m YE2025; tick813
+bud_vmsw_capital_subsidies_stock_2025,vmsw,2025,813190051,,,outturn,src_vmsw_jr2025,strong,Kapitaalsubsidies stock 813.190m (no new capital subs for actors since 2016); tick813
+bud_vmsw_credit_risk_provision_2025,vmsw,2025,24900000,,,outturn,src_vmsw_jr2025,strong,Credit-risk provision ~24.9m of 25.488m total provisions; +2.7m 2025; tick813
+bud_vmsw_provisions_total_2025,vmsw,2025,25488364,,,outturn,src_vmsw_jr2025,strong,Provisions risks/costs 25.488m (credit 24.9 + disputes 0.6); tick813
+bud_vmsw_cash_2025,vmsw,2025,349009547,,,outturn,src_vmsw_jr2025,strong,Liquide middelen 349.010m YE2025; tick813
+bud_vmsw_investments_2025,vmsw,2025,262326140,,,outturn,src_vmsw_jr2025,strong,Geldbeleggingen 262.326m YE2025; tick813
+bud_vmsw_deposit_guarantees_2025,vmsw,2025,109404566,,,outturn,src_vmsw_jr2025,strong,Huurwaarborgen RC 109.405m (+9.7m vs 2024); tick813
+bud_vmsw_fs3_ristorno_2025,vmsw,2025,13900000,,,outturn,src_vmsw_jr2025,strong,FS3 ristorno returned to sector YE2025 ~13.9m; tick813
+bud_vmsw_ukraine_units_grant_cum,vmsw,2025,40800000,,,outturn,src_vmsw_jr2025,strong,Ukraine housing units grant received cum 40.8m; 38.1m allocated EOY2024; 2025 ~87k costs no invest; tick813
+bud_vmsw_innov_project_subs_2025,vmsw,2025,23821834,,,outturn,src_vmsw_jr2025,strong,Subsidies innovatieve projecten 23.822m YE2025; tick813
+bud_vmsw_climate_fund_prem_2025,vmsw,2025,25957571,,,outturn,src_vmsw_jr2025,strong,Premies Vlaams Klimaatfonds 25.958m YE2025; tick813
+bud_vmsw_software_invest_2025,vmsw,2025,3900000,,,outturn,src_vmsw_jr2025,strong,Software digitalisation invest 3.9m 2025; tick813
+bud_vmsw_operating_result_2025,vmsw,2025,-8100000,,,outturn,src_vmsw_jr2025,strong,Bedrijfsresultaat -8.1m 2025; tick813
+bud_vmsw_financial_result_2025,vmsw,2025,9900000,,,outturn,src_vmsw_jr2025,strong,Financieel resultaat +9.9m 2025; tick813
+bud_vmsw_bof_loss_before_topup_2025,vmsw,2025,-16800000,,,outturn,src_vmsw_jr2025,strong,BOF financial loss -16.8m before deferred tax to -15.9m; Flanders tops FS3 to -16m since 2023; tick813
+bud_vmsw_gaf_financial_2025,vmsw,2025,26700000,,,outturn,src_vmsw_jr2025,strong,GAF financial profit 26.7m (interest income 28.6 + invest 8.9; interest cost RC 10.8 + loans 9.7); tick813
+bud_vmsw_debt_to_vl_bof_2025,vmsw,2025,10073316,,,outturn,src_vmsw_jr2025,strong,Schuld op Vlaanderen BOF-toelage afrekening 10.073m in favour of Flanders; tick813
+bud_vmsw_rc_st_positive_2025,vmsw,2025,322300000,,,outturn,src_vmsw_jr2025,strong,RC korte termijn positive 322.3m (-130.3m vs YE2024); tick813
+bud_vmsw_rc_lt_invest_2026,vmsw,2026,189600000,,,outturn,src_vmsw_jr2025,strong,For 2026 189.6m invested at VMSW on LT RC; tick813
+bud_dual_vmsw_wal_housing_tick813,gg_belgium,2025,12382615327,,,synthesis,src_dual_vmsw_wal_housing_tick813,strong,Dual VMSW balance 12.38bn vs WAL housing dep class ~0.70bn not additive; tick813

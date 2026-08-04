@@ -9858,3 +9858,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +19; commitments +5; leaderboard +6; sources +5; FOI **gap_mog2_pez_cfd_tariff_l5** prio9 ready + draft; raw PDFs/txt CREG EN/NL/FR; gap_noordzee note update; rq_803=done; spawn **rq_804**; ticks=812
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_804** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 8
+
+## Tick 813 — 2026-08-05T03:30:00Z
+
+- Unit: **rq_804** (FOI-adjacent residual dual — **VMSW Jaarrekening 2025** + WAL housing dual)
+- Found (strong primary VMSW statutory JR2025):
+  - Balance YE2025 **€12,382.6m** (vs **€11,872.8m** 2024)
+  - Profit **€5.210m** (vs **-€4.497m**); operating **-€8.1m** · financial **+€9.9m**
+  - Loan claims outstanding **€11,603.0m**; claims LT+ST **€11,640.3m** (**+€364.2m**)
+  - Debt statutory LT+ST **€10,360.8m** (banks **€2,424.2m** · other **€7,154.2m**) — dual CoA ESA VMSW debt **€3,123.4m** different perimeter
+  - FS3 Flanders zero-interest draw **€1,000m** 2025 · ristorno sector **~€13.9m** · BOF top-up to **-€16m** loss
+  - Capital subsidies stock **€813.2m** · credit-risk provision **~€24.9m** (+€2.7m)
+  - Ukraine units grant cum **€40.8m** (38.1 allocated EOY2024) · innov **€23.8m** · climate prem **€26.0m**
+  - Deposit guarantees **€109.4m** · cash **€349.0m** · investments **€262.3m** · software invest **€3.9m**
+- Dual: WAL SWL+SWCS+FLW dep SEC class **~€702.8m** (prior) vs VMSW mega-book — not TE-additive
+- Wrote: budgets +31; commitments +4; leaderboard +6; sources +2; FOI **gap_vmsw_fs3_wm_matrix_l5** prio8 ready + draft; rq_804=done; spawn **rq_805**; ticks=813
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_805** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 7
