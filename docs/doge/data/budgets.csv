@@ -17522,3 +17522,36 @@ bud_ua_fin_opbr_2025,ua,2025,11601000,,,cash,src_ua_jr2025,strong,Financiele opb
 bud_ua_fin_costs_2025,ua,2025,17580000,,,cash,src_ua_jr2025,strong,Financiele kosten 17.580m; tick839
 bud_ua_project_prepay_2025,ua,2025,74249000,,,stock,src_ua_jr2025,strong,Ontvangen vooruitbetalingen YE2025 74.249m; tick839
 bud_ua_result_2024_jv,ua,2024,2373000,,,outturn,src_ua_jr2025,strong,Resultaat 2024 +2.373m (matches CRC 2024 +2.4m); tick839
+bud_leuven_assets_2025,city_leuven,2025,956966739,,,stock,src_leuven_jr2025,strong,Consol stad+OCMW total assets YE2025 956.967m; tick841
+bud_leuven_equity_2025,city_leuven,2025,502252950,,,stock,src_leuven_jr2025,strong,Nettoactief YE2025 502.253m; tick841
+bud_leuven_debt_total_2025,city_leuven,2025,454713789,,,stock,src_leuven_jr2025,strong,Total schulden YE2025 454.714m; tick841
+bud_leuven_fin_debt_2025,city_leuven,2025,334555963,,,stock,src_leuven_jr2025,strong,Financiele schulden total YE2025 334.556m (LT 308.396 + ST due 13.810 + ST treasury 12.350); +79.8m YoY; tick841
+bud_leuven_fin_debt_lt_2025,city_leuven,2025,308395579,,,stock,src_leuven_jr2025,strong,Financiele schulden LT YE2025 308.396m; tick841
+bud_leuven_fin_debt_st_2025,city_leuven,2025,12350000,,,stock,src_leuven_jr2025,strong,Thesaurie ST YE2025 12.350m (was 29.965m); tick841
+bud_leuven_pension_prov_2025,city_leuven,2025,51503687,,,stock,src_leuven_jr2025,strong,Pensioenvoorzieningen YE2025 51.504m; tick841
+bud_leuven_cash_2025,city_leuven,2025,14843066,,,stock,src_leuven_jr2025,strong,Liquide middelen YE2025 14.843m; tick841
+bud_leuven_cap_subs_2025,city_leuven,2025,61541187,,,stock,src_leuven_jr2025,strong,Kapitaalsubsidies YE2025 61.541m; tick841
+bud_leuven_fva_igs_2025,city_leuven,2025,72017763,,,stock,src_leuven_jr2025,strong,Fin VA IGS 72.018m; tick841
+bud_leuven_expl_rec_2025,city_leuven,2025,331314507,,,cash,src_leuven_jr2025,strong,Exploitatieontvangsten 331.315m; tick841
+bud_leuven_expl_exp_2025,city_leuven,2025,302104355,,,cash,src_leuven_jr2025,strong,Exploitatieuitgaven 302.104m; tick841
+bud_leuven_expl_saldo_2025,city_leuven,2025,29210152,,,cash,src_leuven_jr2025,strong,Exploitatiesaldo +29.210m; tick841
+bud_leuven_invest_exp_2025,city_leuven,2025,90090279,,,cash,src_leuven_jr2025,strong,Investeringsuitgaven 90.090m; tick841
+bud_leuven_invest_rec_2025,city_leuven,2025,21310196,,,cash,src_leuven_jr2025,strong,Investeringsontvangsten 21.310m; tick841
+bud_leuven_invest_saldo_2025,city_leuven,2025,-68780083,,,cash,src_leuven_jr2025,strong,Investeringssaldo -68.780m (net invest ~68.8m narrative); tick841
+bud_leuven_fin_rec_2025,city_leuven,2025,114062618,,,cash,src_leuven_jr2025,strong,Financieringsontvangsten 114.063m (new loans ~108m); tick841
+bud_leuven_fin_exp_2025,city_leuven,2025,31774532,,,cash,src_leuven_jr2025,strong,Financieringsuitgaven 31.775m; tick841
+bud_leuven_new_loans_2025,city_leuven,2025,109464801,,,cash,src_leuven_jr2025,strong,Nieuwe leningen T4 109.465m (KBC 108m + energy pass-through); tick841
+bud_leuven_aflossingen_2025,city_leuven,2025,12010378,,,cash,src_leuven_jr2025,strong,Periodieke aflossingen 12.010m; tick841
+bud_leuven_afm_2025,city_leuven,2025,21590468,,,cash,src_leuven_jr2025,strong,AFM +21.590m (was 2.6m 2024); tick841
+bud_leuven_afm_corr_2025,city_leuven,2025,13223523,,,cash,src_leuven_jr2025,strong,Gecorrigeerde AFM +13.224m; tick841
+bud_leuven_bbr_2025,city_leuven,2025,18758606,,,cash,src_leuven_jr2025,strong,BBR 18.759m after onbeschikbaar Kreglinger 11.206m; tick841
+bud_leuven_budget_result_2025,city_leuven,2025,42718156,,,cash,src_leuven_jr2025,strong,Budgettair resultaat boekjaar +42.718m; tick841
+bud_leuven_pnl_result_2025,city_leuven,2025,3696584,,,cash,src_leuven_jr2025,strong,Vennootschapsresultaat J5 +3.697m (was -33.459m); tick841
+bud_leuven_personnel_2025,city_leuven,2025,117167373,,,cash,src_leuven_jr2025,strong,Personeel excl onderwijs 117.167m (+3.8pct); onderwijs 8.413m pass-through; tick841
+bud_leuven_bezold_2025,city_leuven,2025,125580154,,,cash,src_leuven_jr2025,strong,J5 bezoldigingen 125.580m; tick841
+bud_leuven_toelagen_2025,city_leuven,2025,96286298,,,cash,src_leuven_jr2025,strong,Toegestane werkingssubsidies 96.286m (-7pct; EVA inkanteling); tick841
+bud_leuven_ocmw_aid_2025,city_leuven,2025,26490508,,,cash,src_leuven_jr2025,strong,OCMW individuele hulp 26.491m; tick841
+bud_leuven_fiscal_2025,city_leuven,2025,150884464,,,cash,src_leuven_jr2025,strong,J5 fiscale opbrengsten en boetes 150.884m; tick841
+bud_leuven_werk_subs_rec_2025,city_leuven,2025,135893491,,,cash,src_leuven_jr2025,strong,J5 werkingssubsidies ontvangen 135.893m (gemeentefonds 81.885m); tick841
+bud_leuven_fin_costs_2025,city_leuven,2025,8391756,,,cash,src_leuven_jr2025,strong,J5 financiele kosten 8.392m; tick841
+bud_leuven_kreglinger_escrow_2025,city_leuven,2025,11205634,,,stock,src_leuven_jr2025,strong,Onbeschikbare gelden Kreglinger kantonnement 11.206m; tick841

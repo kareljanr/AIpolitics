@@ -10318,3 +10318,20 @@ Append-only. Each tick adds a short entry.
 - FOI: none new this tick
 - Next: prio5 **rq_831** residual dual L5 (Roeselare/Leuven city/VUB/BELNET/skeyes); deferred **rq_116**; progress@850 in 10
 
+
+## Tick 841 — 2026-08-05T17:30:00Z
+
+- Unit: **rq_831** (FOI-adjacent residual dual — **Stad+OCMW Leuven Jaarrekening 2025** + Brugge dual; VUB PDF encoding blocked)
+- Found (strong primary BBC JR2025 132p, GR 27.04.2026):
+  - Assets **€957.0m** · equity **€502.3m** · debt total **€454.7m** · fin debt **€334.6m** (+79.8m; LT **€308.4m** · ST due **€13.8m** · treasury **€12.4m**)
+  - Pension provisions **€51.5m** · cash **€14.8m** · cap subs **€61.5m** · Kreglinger escrow **€11.2m**
+  - Exploitatie: ontvangsten **€331.3m** · uitgaven **€302.1m** · saldo **+€29.2m**
+  - AFM **+€21.6m** (was **€2.6m** 2024) · BBR **€18.8m** · budget result **+€42.7m** · P&L **+€3.7m**
+  - Personnel excl onderwijs **€117.2m** · toelagen **€96.3m** (−7%) · OCMW aid **€26.5m** · fiscal **€150.9m**
+  - Invest **€90.1m** · new loans **€109.5m** (KBC 40+40+28) · repay **€12.0m**
+- **VUB block:** VL neerlegging PDF 87p FlandersArtSans CID **unreadable** → FOI **gap_vub_jr2025_machine_readable_l5**
+- Dual: Brugge **€1.462bn** / personnel **€189m** / toelagen **€95m** (tick834) — not TE-additive
+- Wrote: budgets +33; commitments +4; leaderboard +7; sources +3; entity city_leuven; FOI ×2 ready; raw Leuven PDF+extract; rq_831=done; spawn **rq_832**; ticks=841
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_832** residual dual L5 (Roeselare/VUB machine-readable/BELNET/skeyes); deferred **rq_116**; progress@850 in 9
+

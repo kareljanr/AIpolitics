@@ -1,0 +1,746 @@
+Leuven JR2025 key extract tick841
+
+===== PAGE 33 =====
+J2: Staat van het financieel evenwicht
+2025
+Journaalvolgnummers: JR Budg. 940402 Alg. 4050670813 / EK 470005
+Stad Leuven (0207.521.503)
+OCMW Leuven (0208.236.927)
+Professor Van Overstraetenplein 1, 3000 Leuven
+Andreas Vesaliussstraat  47, 3000 Leuven
+Algemeen directeur: Geertrui Vanloo
+Financieel directeur: Sofie De Loecker
+Budgettair resultaat
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+29.210.152,19
+7.833.976,02
+a. Ontvangsten
+331.314.507,34
+326.720.346,30
+b. Uitgaven
+302.104.355,15
+318.886.370,28
+II. Investeringssaldo
+-68.780.082,70
+-80.816.677,62
+a. Ontvangsten
+21.310.196,43
+46.567.194,70
+b. Uitgaven
+90.090.279,13
+127.383.872,32
+III. Saldo exploitatie en investeringen
+-39.569.930,51
+-72.982.701,60
+IV. Financieringssaldo
+82.288.086,77
+87.539.095,29
+a. Ontvangsten
+114.062.618,44
+122.902.463,53
+b. Uitgaven
+31.774.531,67
+35.363.368,24
+V. Budgettair resultaat van het boekjaar
+42.718.156,26
+14.556.393,69
+VI. Gecumuleerd budgettair resultaat vorig boekjaar
+-12.753.915,88
+-12.753.915,88
+VII. Gecumuleerd budgettair resultaat
+29.964.240,38
+1.802.477,81
+VIII. Onbeschikbare gelden
+11.205.634,31
+0,00
+IX. Beschikbaar budgettair resultaat
+18.758.606,07
+1.802.477,81
+Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+29.210.152,19
+7.833.976,02
+II. Netto periodieke aflossingen
+7.619.684,16
+7.781.964,98
+a. Periodieke aflossingen conform de verbintenissen
+12.010.378,12
+11.772.099,94
+b. Periodieke terugvordering leningen
+4.390.693,96
+3.990.134,96
+III. Autofinancieringsmarge
+21.590.468,03
+52.011,04
+Gecorrigeerde Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Autofinancieringsmarge
+21.590.468,03
+52.011,04
+II. Correctie op de periodieke aflossingen
+-8.366.945,12
+-8.605.223,30
+a. Periodieke aflossingen conform de verbintenissen
+12.010.378,12
+11.772.099,94
+b. Gecorrigeerde aflossingen o.b.v. de financiële schulden
+20.377.323,24
+20.377.323,24
+III. Gecorrigeerde autofinancieringsmarge
+13.223.522,91
+-8.553.212,26
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Stad Leuven en OCMW Leuven (0207.521.503 / 0208.236.927)
+09/04/2026 10:23
+1 / 2
+30
+
+===== PAGE 38 =====
+J4: Balans
+2025
+Journaalvolgnummers: JR Budg. 940402 Alg. 4050670813 / JR-1 Budg. 904994 Alg. 4048655699
+Stad Leuven (0207.521.503)
+OCMW Leuven (0208.236.927)
+Professor Van Overstraetenplein 1, 3000 Leuven
+Andreas Vesaliussstraat  47, 3000 Leuven
+Algemeen directeur: Geertrui Vanloo
+Financieel directeur: Sofie De Loecker
+2025
+2024
+ACTIVA
+956.966.739,13
+875.468.487,61
+I. Vlottende activa
+102.714.023,23
+75.717.650,63
+A. Liquide middelen en geldbeleggingen
+14.843.066,24
+5.005.488,14
+B. Vorderingen op korte termijn
+83.485.831,10
+66.587.534,76
+1. Vorderingen uit ruiltransacties
+32.016.690,52
+34.285.323,44
+2. Vorderingen uit niet-ruiltransacties
+51.469.140,58
+32.302.211,32
+C. Voorraden en bestellingen in uitvoering
+0,00
+0,00
+D. Overlopende rekeningen van het actief
+378.380,82
+291.323,88
+E. Vorderingen op lange termijn die binnen het jaar vallen
+4.006.745,07
+3.833.303,85
+II. Vaste activa
+854.252.715,90
+799.750.836,98
+A. Vorderingen op lange termijn
+78.262.766,37
+63.269.871,26
+1. Vorderingen uit ruiltransacties
+78.262.766,37
+63.269.871,26
+2. Vorderingen uit niet-ruiltransacties
+0,00
+0,00
+B. Financiële vaste activa
+183.869.844,36
+184.095.224,95
+1. Extern verzelfstandigde agentschappen
+61.836.791,28
+63.695.847,93
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+72.017.762,67
+70.434.341,55
+3. OCMW-verenigingen
+30.350.703,46
+30.350.703,46
+4. Andere financiële vaste activa
+19.664.586,95
+19.614.332,01
+C. Materiële vaste activa
+586.040.052,21
+546.810.416,60
+1. Gemeenschapsgoederen
+480.493.383,23
+440.653.906,10
+a. Terreinen en gebouwen
+170.862.399,26
+146.038.456,74
+b. Wegen en andere infrastructuur
+243.702.042,58
+229.903.327,15
+c. Installaties, machines en uitrusting
+4.565.909,95
+3.823.142,50
+d. Meubilair, kantooruitrusting en rollend materieel
+9.813.368,65
+7.412.187,99
+e. Leasing en soortgelijke rechten
+2.645.783,68
+2.943.213,78
+f. Erfgoed
+48.903.879,11
+50.533.577,94
+2. Bedrijfsmatige materiële vaste activa
+78.843.782,65
+79.816.429,98
+a. Terreinen en gebouwen
+77.444.269,96
+78.314.956,67
+b. Installaties, machines en uitrusting
+1.192.906,39
+1.264.301,28
+c. Meubilair, kantooruitrusting en rollend materieel
+206.606,30
+237.172,03
+d. Leasing en soortgelijke rechten
+0,00
+0,00
+3. Andere materiële vaste activa
+26.702.886,33
+26.340.080,52
+a. Terreinen en gebouwen
+26.700.139,33
+26.336.335,02
+b. Roerende goederen
+2.747,00
+3.745,50
+D. Immateriële vaste activa
+6.080.052,96
+5.575.324,17
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Stad Leuven en OCMW Leuven (0207.521.503 / 0208.236.927)
+07/04/2026 10:35
+1 / 2
+35
+
+===== PAGE 39 =====
+2025
+2024
+PASSIVA
+956.966.739,13
+875.468.487,61
+I. Schulden
+454.713.789,21
+377.827.752,22
+A. Schulden op korte termijn
+94.160.544,21
+106.521.242,30
+1. Schulden uit ruiltransacties
+49.200.903,44
+72.850.277,63
+a. Voorzieningen voor risico's en kosten
+11.479.131,85
+10.744.717,09
+b. Financiële schulden
+12.350.000,00
+29.965.000,00
+c. Niet-financiële schulden uit ruiltransacties
+25.371.771,59
+32.140.560,54
+2. Schulden uit niet-ruiltransacties
+31.149.256,57
+22.757.905,64
+3. Overlopende rekeningen van het passief
+0,00
+0,00
+4. Schulden op lange termijn die binnen het jaar vervallen
+13.810.384,20
+10.913.059,03
+B. Schulden op lange termijn
+360.553.245,00
+271.306.509,92
+1. Schulden uit ruiltransacties
+360.553.245,00
+271.306.509,92
+a. Voorzieningen voor risico's en kosten
+52.157.665,66
+57.468.028,51
+1. Pensioenen en soortgelijke verplichtingen
+51.503.687,06
+56.814.049,91
+2. Andere risico's en kosten
+653.978,60
+653.978,60
+b. Financiële schulden
+308.395.579,34
+213.838.481,41
+c. Niet-financiële schulden uit ruiltransacties
+0,00
+0,00
+2. Schulden uit niet-ruiltransacties
+0,00
+0,00
+II. Nettoactief
+502.252.949,92
+497.640.735,39
+A. Kapitaalssubsidies en schenkingen
+61.541.186,84
+62.215.515,10
+B. Gecumuleerd overschot of tekort
+-14.304.432,61
+-18.001.016,14
+C. Herwaarderingsreserves
+34.222.967,04
+32.633.007,78
+D. Overig nettoactief
+420.793.228,65
+420.793.228,65
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 904994 Alg. 4048655699
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Stad Leuven en OCMW Leuven (0207.521.503 / 0208.236.927)
+07/04/2026 10:35
+2 / 2
+36
+
+===== PAGE 41 =====
+J5: Staat van opbrengsten en kosten
+2025
+Journaalvolgnummers: JR Budg. 940402 Alg. 4050670813 / JR-1 Budg. 904994 Alg. 4048655699
+Stad Leuven (0207.521.503)
+OCMW Leuven (0208.236.927)
+Professor Van Overstraetenplein 1, 3000 Leuven
+Andreas Vesaliussstraat  47, 3000 Leuven
+Algemeen directeur: Geertrui Vanloo
+Financieel directeur: Sofie De Loecker
+2025
+2024
+I. Kosten
+337.656.578,07 349.235.991,28
+A. Operationele kosten
+329.264.822,14
+342.160.200,22
+1. Goederen en diensten
+41.754.937,59
+41.270.795,83
+2. Bezoldigingen, sociale lasten en pensioenen
+125.580.153,95
+121.118.480,86
+3. Afschrijvingen, waardeverminderingen en voorzieningen
+26.722.856,40
+37.847.938,01
+4. Individuele hulpverlening door O.C.M.W.
+26.490.507,79
+24.715.236,69
+5. Toegestane werkingssubsidies
+96.286.298,00
+103.033.973,58
+6. Toegestane investeringssubsidies
+8.911.876,86
+10.792.533,83
+7. Minderwaarden bij de realisatie van vaste activa
+4.546,60
+334.057,48
+8. Andere operationele kosten
+3.513.644,95
+3.047.183,94
+B. Financiële kosten
+8.391.755,93
+7.075.791,06
+II. Opbrengsten
+341.353.161,60 315.776.661,50
+A. Operationele opbrengsten
+332.864.171,22
+306.936.206,34
+1. Opbrengsten uit de werking
+34.606.374,39
+31.012.740,98
+2. Fiscale opbrengsten en boetes
+150.884.463,59
+138.049.195,54
+3. Werkingssubsidies
+135.893.491,27
+130.388.509,18
+a. Algemene werkingssubsidies
+92.684.869,31
+89.931.910,22
+b. Specifieke werkingssubsidies
+43.208.621,96
+40.456.598,96
+4. Recuperatie individuele hulpverlening
+1.649.104,17
+1.578.186,31
+5. Meerwaarden bij de realisatie van vaste activa
+6.796.025,81
+3.240.368,00
+6. Andere operationele opbrengsten
+3.034.711,99
+2.667.206,33
+B. Financiële opbrengsten
+8.488.990,38
+8.840.455,16
+III. Overschot of tekort van het boekjaar
+3.696.583,53
+-33.459.329,78
+A. Operationeel overschot of tekort
+3.599.349,08
+-35.223.993,88
+B. Financieel overschot of tekort
+97.234,45
+1.764.664,10
+IV. Verwerking van het overschot of tekort van het boekjaar
+3.696.583,53
+-33.459.329,78
+A. Rechthebbenden uit het overschot van het boekjaar
+0,00
+0,00
+B. Tussenkomst door derden in het tekort van het boekjaar
+0,00
+0,00
+C. Over te dragen overschot of tekort van het boekjaar
+3.696.583,53
+-33.459.329,78
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 904994 Alg. 4048655699
+JAARREKENING ORIGINEEL 2025 : Staat van opbrengsten en kosten
+2025
+Stad Leuven en OCMW Leuven (0207.521.503 / 0208.236.927)
+07/04/2026 10:35
+1 / 1
+38
+
+===== PAGE 48 =====
+ 
+ 
+1. Het exploitatiesaldo 
+De exploitatie-uitgaven stijgen beperkt ten opzichte van vorig jaar met € +1,9 mio (+1%) tot € 302,1 mio  
+wat overeenstemt met een uitvoering van 95%. De exploitatie-ontvangsten stijgen sterker met € 23,4 mio 
+(+8%) en komt overeen met een uitvoering van 101%. Dit resulteert in een exploitatiesaldo van € 29,2 mio, 
+wat een rechtstreekse en gunstige invloed heeft op de autofinancieringsmarge in 2025.  
+2024
+2025
+2025
+JAARREKENING
+Geboekt
+Budget voor 
+overdracht
+Geboekt
+%Uitv
+Aandeel
+Geboekt 
+verschil met 
+vorig jaar
+Geboekt 
+verschil met 
+vorig jaar (%)
+Exploitatie
+Uitgaven
+300.181.894
+318.886.370
+302.104.355
+95%
+100%
+1.922.461
+1%
+Goederen en diensten
+38.371.152
+45.721.552
+38.500.809
+84%
+13%
+129.657
+0%
+Energiekosten
+2.886.749
+3.586.270
+3.329.021
+93%
+1%
+442.271
+15%
+Personeel
+112.856.098
+125.833.070
+117.167.373
+93%
+39%
+4.311.275
+4%
+Personeel - Onderwijs
+8.262.383
+5.800.000
+8.412.781
+145%
+3%
+150.398
+2%
+Werkingssubsidies
+103.033.974
+102.287.373
+96.286.298
+94%
+32%
+-6.747.676
+-7%
+Steun OCMW
+24.715.237
+24.479.442
+26.490.508
+108%
+9%
+1.775.271
+7%
+Andere werkingsuitgaven
+3.094.133
+3.497.441
+3.568.950
+102%
+1%
+474.817
+15%
+Intresten op schuldfinanciering
+6.962.169
+7.681.222
+8.348.616
+109%
+3%
+1.386.447
+20%
+Ontvangsten
+307.869.219
+326.720.346
+331.314.507
+101%
+100%
+23.445.288
+8%
+Ontvangsten uit de werking
+31.012.741
+33.442.408
+34.606.374
+103%
+10%
+3.593.633
+12%
+Onroerende voorheffing
+68.695.793
+71.579.920
+69.334.734
+97%
+21%
+638.940
+1%
+Aanvullende personenbelasting
+45.209.581
+50.456.064
+53.851.290
+107%
+16%
+8.641.710
+19%
+Andere aanvullende belastingen
+2.135.963
+2.515.303
+1.898.879
+75%
+1%
+-237.084
+-11%
+Lokale belastingen
+15.420.813
+17.563.110
+19.113.219
+109%
+6%
+3.692.406
+24%
+GAS en boetes
+6.587.045
+9.750.501
+6.686.342
+69%
+2%
+99.296
+2%
+Gemeentefonds
+79.414.522
+83.810.229
+81.885.032
+98%
+25%
+2.470.510
+3%
+Werkingssubsidies
+50.973.987
+49.099.282
+54.008.459
+110%
+16%
+3.034.472
+6%
+Steun OCMW
+1.578.186
+1.466.705
+1.649.104
+112%
+0%
+70.918
+4%
+Andere werkingsontvangsten
+6.543.099
+6.753.202
+7.959.235
+118%
+2%
+1.416.137
+22%
+Intresten op schuldfinanciering
+297.488
+283.622
+321.838
+113%
+0%
+24.350
+8%
+Overzicht van de budgettaire impact 
+ 
+1.1. De exploitatie-uitgaven 
+De exploitatie-uitgaven bedragen € 302,1 mio in 2025 en komt overeen met een uitvoering van 95%. Ten 
+opzichte van 2024 betekent dit een beperkte stijging van € + 1,9 mio of 0,6%. Dit betekent dat de kosten 
+in 2026 minder snel stegen dan de inflatie en er bijgevolg in reële waarde sprake is van een kostendaling. 
+Dit wordt verklaard door het feit dat de stijging in personeelskosten (+€4,3 mio), steun OCMW (€+1,8 
+mio) en intresten op schuldfinanciering (€ +1,4 mio) grotendeels gecompenseerd worden door een 
+relatieve sterkere daling in de uitgaven van werkingstoelagen (€ -6,7 mio). 
+Hierna wordt dieper ingegaan op de belangrijkste evoluties in 2025 per type uitgaven en ontvangsten.  
+45
+
+===== PAGE 92 =====
+T4: Evolutie van de financiële schulden
+2025
+Journaalvolgnummers: JR Budg. 940402 Alg. 4050670813
+Stad Leuven (0207.521.503)
+OCMW Leuven (0208.236.927)
+Professor Van Overstraetenplein 1, 3000 Leuven
+Andreas Vesaliussstraat  47, 3000 Leuven
+Algemeen directeur: Geertrui Vanloo
+Financieel directeur: Sofie De Loecker
+Financiële schulden op 31 december
+2020
+2021
+2022
+2023
+2024
+2025
+A. Financiële schulden op lange termijn
+106.240.390,09
+113.632.211,14
+120.448.274,36
+162.350.168,09
+213.838.481,41
+308.395.579,34
+1. Financiële schulden op 1 januari
+97.940.476,68
+106.240.390,09
+113.632.211,14
+120.448.274,36
+162.350.168,09
+213.838.481,41
+2. Nieuwe leningen
+15.300.000,00
+15.500.000,00
+15.000.000,00
+50.746.682,81
+62.675.365,08
+109.464.801,22
+3. Aflossingen
+0,00
+0,00
+0,00
+-30.000,00
+0,00
+0,00
+4. Overboekingen
+-7.000.086,59
+-8.108.178,95
+-8.183.936,78
+-8.814.789,08
+-11.187.051,76
+-14.907.703,29
+5. Andere mutaties
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+7.000.086,59
+8.108.178,95
+8.183.964,55
+8.813.875,92
+10.913.059,03
+13.810.384,20
+1. Financiële schulden op 1 januari
+9.995.736,40
+7.000.086,59
+8.108.178,95
+8.183.964,55
+8.813.875,92
+10.913.059,03
+2. Aflossingen
+-9.995.736,40
+-7.000.086,59
+-8.108.151,18
+-8.184.877,71
+-9.087.868,65
+-12.010.378,12
+3. Overboekingen
+7.000.086,59
+8.108.178,95
+8.183.936,78
+8.814.789,08
+11.187.051,76
+14.907.703,29
+4. Andere mutaties
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+C. Financiële schulden op  korte termijn
+0,00
+0,00
+31.000.000,00
+18.600.000,00
+29.965.000,00
+12.350.000,00
+Totaal financiële schulden
+113.240.476,68
+121.740.390,09
+159.632.238,91
+189.764.044,01
+254.716.540,44
+334.555.963,54
+Andere gebruikte dossiers op dit rapport:
+Meerjarenplan:
+MJP_HERZIENING_9_2025 2025: Alg. 470005
+Jaarrekeningen:
+JR_ORIGINEEL_2020 2020: Budg. 199060 Alg. 4040414770
+JR_ORIGINEEL_2021 2021: Budg. 298466 Alg. 4042458284
+JR_ORIGINEEL_2022 2022: Budg. 436124 Alg. 4044577606
+JR_ORIGINEEL_2023 2023: Budg. 636056 Alg. 4046664404
+JR_ORIGINEEL_2024 2024: Budg. 904994 Alg. 4048655699
+JR_ORIGINEEL_2025 2025: Budg. 940402 Alg. 4050670813
+JAARREKENING ORIGINEEL 2025 : Evolutie van de financiële schulden
+2025
+Stad Leuven en OCMW Leuven (0207.521.503 / 0208.236.927)
+03/04/2026 15:31
+1 / 1
+89

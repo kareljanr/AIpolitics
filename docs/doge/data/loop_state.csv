@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T17:00:00Z,rq_840,840,no,tick840 progress coverage % + waste top10; next rq_831 residual dual L5; progress@850 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T17:30:00Z,rq_831,841,no,tick841 Leuven JR2025 dual Brugge; VUB FOI encoding; next rq_832 residual dual L5; progress@850 in 9; rq_116 deferred
