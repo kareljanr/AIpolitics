@@ -9477,3 +9477,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +9; commitments +6; leaderboard +8; sources +2; FOI **gap_economie_make_procurement_l5** prio7 ready; raw PDF; rq_777=done; spawn **rq_778**; ticks=786
 - FOI: ready only — **do not send**
 - Next: rq_778 residual dual/L5 (Defensie/Asiel/Mobiliteit/local); progress@790 in 4; rq_116 deferred
+
+## Tick 787 — 2026-08-04T14:30:00Z
+
+- Unit: **rq_778** (FOI-adjacent residual — **Kamer DOC 56 1282/022 Beleidsnota Defensie**, 70p)
+- Found (primary 56K1282022):
+  - NATO path to 2035: **3.5% GDP** core military + **1.5% GDP** broader security
+  - EU **SAFE** pool **€150bn** loans; BE provisional allocation **€8.34bn** (EC Sep 2025)
+  - **Paasakkoord**: Ukraine support **€1bn/year** to end legislature
+  - **List** / Ukraine Security Initiative: BE **€100m** (5th pack, Jul 2025)
+  - NGI grant **+€2.58m** 2025; CDSCA housing **+€4m** 2025; holiday centres **>€1.5m**/3yrs
+- Wrote: budgets +10; commitments +5; leaderboard +7; sources +2; FOI **gap_def_safe_ukraine_l5** prio9 ready; raw PDF; rq_778=done; spawn **rq_779**; ticks=787
+- FOI: ready only — **do not send**
+- Next: rq_779 residual dual/L5; progress@790 in 3; rq_116 deferred
