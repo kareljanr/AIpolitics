@@ -16566,3 +16566,22 @@ bud_bozar_vl_cut_107k_2026,bozar,2026,-107000,,,budgeted,src_kamer_beleid_cultuu
 bud_bozar_cyprus_presidency_150k_2026,bozar,2026,150000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar Cypriotisch EU-voorzitterschap collab ~150k H1 2026; tick793
 bud_nob_staff_plus_737k_2026,nob_orchestre,2026,737000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,NOB personeelskost +737k 2026 path; tick793
 bud_dual_fed_culture_3inst_2026,gg_belgium,2026,68714000,,,synthesis,src_dual_fed_culture_tick793,strong,Dual map federal culture 3-inst dots 68.714m IB2026 vs city culture residual; not TE-additive; tick793
+bud_ibz_security_return_provision_0_5bn,fod_ibz,2026,500000000,450000000,500000000,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Provisie Versterking veiligheidsdiensten en terugkeerbeleid nearly half a billion EUR (presque un demi-milliard / bijna een half miljard); exact envelope FOI; tick794 1282/019
+bud_police_material_digital_gt150m_legislature,police_federale,2029,150000000,150000000,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Federal+local police material renewal + digital modernization >150m over legislature; floor figure; tick794
+bud_dsu_renfort_gt30m_legislature,police_federale,2029,30000000,30000000,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,DSU specialized unit renfort >30m additional over path; tick794
+bud_plan_grote_steden_71_3m,fod_ibz,2029,71300000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan Grote Steden / Grandes Villes implementation budget 71.3m; package stated 71m 2025-2029; tick794
+bud_plan_gv_liaison_officers_4_3m,police_federale,2029,4300000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan GV: international liaison officers network 4.3m within 71m package; tick794
+bud_plan_gv_campaigns_1_8m,fod_ibz,2029,1800000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan GV: targeted campaigns grandes villes 1.8m; tick794
+bud_plan_gv_detection_intervention_9m,police_federale,2029,9000000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,"Plan GV: detection/intervention capacities ~9m (specialized dogs, visible vehicles, ammo, DSU equipment); tick794"
+bud_plan_gv_fgp_training_4_8m,police_federale,2029,4800000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan GV: FGP/PJF training and expertise 4.8m; tick794
+bud_plan_gv_special_equipment_11m,police_federale,2029,11000000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan GV: specialized materials acquisition 11m; tick794
+bud_plan_gv_personal_protection_4_9m,police_federale,2029,4900000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan GV: transversal personal protection investments 4.9m; tick794
+bud_plan_gv_judicial_tools_8m,police_federale,2029,8000000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Plan GV: specialized judicial tools 8m; tick794
+bud_cameras_anpr_extra_25m,fod_ibz,2025,25000000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Cameras+ANPR extra 25m under Plan GV; paid to police zones; dual BRU/ANT 7.5 each; tick794
+bud_cameras_bru_7_5m,fod_ibz,2025,7500000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Camera envelope Brussels 7.5m of 25m; tick794
+bud_cameras_antwerp_7_5m,fod_ibz,2025,7500000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Camera envelope Antwerp 7.5m of 25m; tick794
+bud_cameras_five_cities_5m,fod_ibz,2025,5000000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Camera envelope Charleroi+Namur+Gent+Liège+Mons 1m each = 5m of 25m; tick794
+bud_cameras_other_zones_5m,fod_ibz,2025,5000000,,,budgeted,src_kamer_beleid_ibz_1282_019_2026,strong,Camera envelope other police zones 5m by operational cadre size; tick794
+bud_anpr_cameras_stock_5000,police_federale,2026,5000,,,count,src_kamer_beleid_ibz_1282_019_2026,strong,ANPR existing 5000 cameras connecting to platform capacity 10000; amount=count; tick794
+bud_sncb_cameras_access_8000,police_federale,2026,8000,,,count,src_kamer_beleid_ibz_1282_019_2026,strong,SNCB/NMBS 8000 cameras access for local police zones; amount=count; tick794
+bud_dual_ibz_plan_gv_2026,gg_belgium,2026,71300000,,,synthesis,src_dual_ibz_security_tick794,strong,Dual Plan GV 71.3m residual vs prior police GV 43.6m cumul path; not TE-additive; tick794

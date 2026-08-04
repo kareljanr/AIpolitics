@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T17:30:00Z,rq_784,793,no,tick793 Cultuur016 3inst 68.714m Monnaie64.7 Bozar35.6 FOI; next rq_785 Energie041/IBZ019 residual; progress@800 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T18:00:00Z,rq_785,794,no,tick794 IBZ019 provision~0.5bn PlanGV71.3 cameras25 digital>150 FOI; next rq_786 Energie041/Buitenland006 residual; progress@800 in 6; rq_116 deferred

@@ -9574,3 +9574,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +25; commitments +6; leaderboard +8; sources +2; FOI **gap_fed_culture_3inst_l5** prio8 ready; raw PDF; rq_784=done; spawn **rq_785**; ticks=793
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_785** residual Energie041/IBZ019; deferred **rq_116**; progress@800 in 7
+
+## Tick 794 — 2026-08-04T18:00:00Z
+
+- Unit: **rq_785** (FOI-adjacent residual — **Kamer DOC 56 1282/019 Beleidsnota Veiligheid en Binnenlandse Zaken**, 44p)
+- Found (primary 56K1282019):
+  - Provisie **Versterking veiligheidsdiensten en terugkeerbeleid ~€0.5bn** (bijna een half miljard)
+  - Police material+digital **>€150m** over legislature; **DSU renfort >€30m**
+  - **Plan Grote Steden €71.3m** (package €71m 2025–2029): liaison €4.3m · campaigns €1.8m · detection ~€9m · FGP €4.8m · equipment €11m · PPE €4.9m · judicial tools €8m · cameras mass
+  - Cameras+ANPR **€25m paid** to zones: BRU **€7.5m** · ANT **€7.5m** · 5 cities **€1m** each · other zones **€5m**
+  - ANPR 5 000→platform cap 10 000; SNCB **8 000** cameras access; iPolice failure residual; FANC structural dot prep 2026
+- Wrote: budgets +19; commitments +6; leaderboard +7; sources +2; FOI **gap_ibz_plan_grote_steden_l5** prio9 ready; raw PDF; rq_785=done; spawn **rq_786**; ticks=794
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_786** residual Energie041/Buitenland006; deferred **rq_116**; progress@800 in 6
