@@ -10590,3 +10590,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_geraardsbergen; FOI **gap_geraardsbergen_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_848=done; spawn **rq_849**; ticks=858
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_849** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 2
+
+## Tick 859 - 2026-08-06T02:30:00Z
+
+- Unit: **rq_849** (FOI-adjacent residual dual - **Stad+OCMW Aarschot Jaarrekening 2025** + Geraardsbergen dual)
+- Found (strong primary BBC JR2025 200p, GR 21.05.2026 pub 29.05.2026):
+  - Assets **EUR172.2m** · equity **EUR90.3m** · debt total **EUR81.9m** · fin debt **EUR43.3m** (LT **EUR40.7m** · ST due **EUR2.6m**; was **EUR35.8m**)
+  - Pension **EUR27.5m** · cash **EUR6.6m** · cap subs **EUR17.9m** · FVA IGS **EUR27.6m** · onbeschikbaar **EUR0**
+  - Exploitatie: ontvangsten **EUR78.9m** · uitgaven **EUR72.1m** · saldo **+EUR6.8m**
+  - AFM **+EUR5.1m** (gecorr **+EUR4.5m**) · BBR **EUR9.3m** · budget result **-EUR1.2m** · P&L **+EUR1.8m**
+  - Personnel **EUR42.4m** · toelagen **EUR10.1m** (police **EUR5.5m** · fire **EUR1.7m** · AGB **EUR1.4m** · other **EUR1.3m**) · OCMW aid **EUR4.0m** · fiscal **EUR32.3m**
+  - Invest **EUR16.6m** · new loans **EUR9.8m** · gemeentefonds **EUR11.9m**
+- Dual: Geraardsbergen **EUR159m** / fin debt **EUR51m** / AFM **+EUR5.6m** (tick858) - not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_aarschot; FOI **gap_aarschot_debt_loans_l5** prio7 ready + draft; raw PDF+extract; rq_849=done; spawn **rq_860** progress@860 + **rq_861**; ticks=859
+- FOI: ready only - **do not send**
+- Next: **progress@860 NEXT** (prio10 rq_860); then prio5 **rq_861** residual dual L5; deferred **rq_116**

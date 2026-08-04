@@ -18170,3 +18170,41 @@ bud_gb_gemeentefonds_2025,city_geraardsbergen,2025,12235878,,,outturn,src_geraar
 bud_gb_fin_costs_2025,city_geraardsbergen,2025,1366112,,,outturn,src_geraardsbergen_jr2025,strong,J5 financiele kosten 1.366m; tick858
 bud_gb_police_toelage_2025,city_geraardsbergen,2025,5159223,,,outturn,src_geraardsbergen_jr2025,strong,Toelage politiezone 5.159m; tick858
 bud_gb_fire_toelage_2025,city_geraardsbergen,2025,1541570,,,outturn,src_geraardsbergen_jr2025,strong,Toelage hulpverleningszone 1.542m; tick858
+bud_aa_assets_2025,city_aarschot,2025,172190782,,,outturn,src_aarschot_jr2025,strong,Consol stad+OCMW total assets YE2025 172.191m; tick859
+bud_aa_equity_2025,city_aarschot,2025,90340111,,,outturn,src_aarschot_jr2025,strong,Nettoactief YE2025 90.340m; tick859
+bud_aa_debt_total_2025,city_aarschot,2025,81850670,,,outturn,src_aarschot_jr2025,strong,Total schulden YE2025 81.851m; tick859
+bud_aa_fin_debt_2025,city_aarschot,2025,43274240,,,outturn,src_aarschot_jr2025,strong,T4 total financiele schulden YE2025 43.274m (LT 40.661 + ST due 2.614); tick859
+bud_aa_fin_debt_lt_2025,city_aarschot,2025,40660620,,,outturn,src_aarschot_jr2025,strong,Financiele schulden LT YE2025 40.661m; tick859
+bud_aa_fin_debt_st_due_2025,city_aarschot,2025,2613620,,,outturn,src_aarschot_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.614m; tick859
+bud_aa_pension_prov_2025,city_aarschot,2025,27496157,,,outturn,src_aarschot_jr2025,strong,Pensioenvoorzieningen LT YE2025 27.496m; tick859
+bud_aa_cash_2025,city_aarschot,2025,6576384,,,outturn,src_aarschot_jr2025,strong,Liquide middelen YE2025 6.576m; tick859
+bud_aa_cap_subs_2025,city_aarschot,2025,17901949,,,outturn,src_aarschot_jr2025,strong,Kapitaalsubsidies YE2025 17.902m; tick859
+bud_aa_fva_total_2025,city_aarschot,2025,32697238,,,outturn,src_aarschot_jr2025,strong,Financiele vaste activa YE2025 32.697m; tick859
+bud_aa_fva_igs_2025,city_aarschot,2025,27592610,,,outturn,src_aarschot_jr2025,strong,Fin VA IGS YE2025 27.593m; tick859
+bud_aa_mva_2025,city_aarschot,2025,110129206,,,outturn,src_aarschot_jr2025,strong,Materiele vaste activa YE2025 110.129m; tick859
+bud_aa_onbeschikbaar_2025,city_aarschot,2025,0,,,outturn,src_aarschot_jr2025,strong,Onbeschikbare gelden J2 0 (BBR=cum BR); tick859
+bud_aa_expl_rec_2025,city_aarschot,2025,78904207,,,outturn,src_aarschot_jr2025,strong,Exploitatieontvangsten 78.904m; tick859
+bud_aa_expl_exp_2025,city_aarschot,2025,72123411,,,outturn,src_aarschot_jr2025,strong,Exploitatieuitgaven 72.123m; tick859
+bud_aa_expl_saldo_2025,city_aarschot,2025,6780796,,,outturn,src_aarschot_jr2025,strong,Exploitatiesaldo +6.781m; tick859
+bud_aa_invest_exp_2025,city_aarschot,2025,16601343,,,outturn,src_aarschot_jr2025,strong,Investeringsuitgaven J2 16.601m; tick859
+bud_aa_invest_rec_2025,city_aarschot,2025,488126,,,outturn,src_aarschot_jr2025,strong,Investeringsontvangsten J2 0.488m; tick859
+bud_aa_invest_saldo_2025,city_aarschot,2025,-16113217,,,outturn,src_aarschot_jr2025,strong,Investeringssaldo -16.113m; tick859
+bud_aa_fin_rec_2025,city_aarschot,2025,11104651,,,outturn,src_aarschot_jr2025,strong,Financieringsontvangsten 11.105m; tick859
+bud_aa_fin_exp_2025,city_aarschot,2025,2939839,,,outturn,src_aarschot_jr2025,strong,Financieringsuitgaven 2.940m; tick859
+bud_aa_new_loans_2025,city_aarschot,2025,9791855,,,outturn,src_aarschot_jr2025,strong,Nieuwe leningen 9.792m; tick859
+bud_aa_aflossingen_2025,city_aarschot,2025,2290105,,,outturn,src_aarschot_jr2025,strong,Periodieke aflossingen 2.290m; tick859
+bud_aa_afm_2025,city_aarschot,2025,5051757,,,outturn,src_aarschot_jr2025,strong,AFM +5.052m; tick859
+bud_aa_afm_corr_2025,city_aarschot,2025,4477408,,,outturn,src_aarschot_jr2025,strong,Gecorrigeerde AFM +4.477m; tick859
+bud_aa_bbr_2025,city_aarschot,2025,9302520,,,outturn,src_aarschot_jr2025,strong,BBR 9.303m (onbeschikbaar 0); tick859
+bud_aa_budget_result_2025,city_aarschot,2025,-1167610,,,outturn,src_aarschot_jr2025,strong,Budgettair resultaat boekjaar -1.168m; tick859
+bud_aa_cum_br_2025,city_aarschot,2025,9302520,,,outturn,src_aarschot_jr2025,strong,Gecumuleerd budgettair resultaat 9.303m; tick859
+bud_aa_pnl_result_2025,city_aarschot,2025,1843427,,,outturn,src_aarschot_jr2025,strong,Vennootschapsresultaat J5 +1.843m; tick859
+bud_aa_personnel_2025,city_aarschot,2025,42438696,,,outturn,src_aarschot_jr2025,strong,J5/T2 bezoldigingen 42.439m (incl onderwijs other-gov 8.115m); tick859
+bud_aa_toelagen_2025,city_aarschot,2025,10052947,,,outturn,src_aarschot_jr2025,strong,Toegestane werkingssubsidies 10.053m (politie 5.476 fire 1.657 AGB 1.400 other 1.331); tick859
+bud_aa_ocmw_aid_2025,city_aarschot,2025,3994134,,,outturn,src_aarschot_jr2025,strong,OCMW individuele hulp 3.994m; tick859
+bud_aa_fiscal_2025,city_aarschot,2025,32258026,,,outturn,src_aarschot_jr2025,strong,J5 fiscale opbrengsten en boetes 32.258m; tick859
+bud_aa_werk_subs_rec_2025,city_aarschot,2025,32387189,,,outturn,src_aarschot_jr2025,strong,J5 werkingssubsidies ontvangen 32.387m; tick859
+bud_aa_gemeentefonds_2025,city_aarschot,2025,11881729,,,outturn,src_aarschot_jr2025,strong,Gemeentefonds 11.882m; tick859
+bud_aa_fin_costs_2025,city_aarschot,2025,1131077,,,outturn,src_aarschot_jr2025,strong,J5 financiele kosten 1.131m; tick859
+bud_aa_police_toelage_2025,city_aarschot,2025,5475877,,,outturn,src_aarschot_jr2025,strong,Toelage politiezone 5.476m; tick859
+bud_aa_fire_toelage_2025,city_aarschot,2025,1656889,,,outturn,src_aarschot_jr2025,strong,Toelage hulpverleningszone 1.657m; tick859
