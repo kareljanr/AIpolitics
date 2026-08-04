@@ -10224,3 +10224,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_825** residual dual L5/local/CoA (Roeselare/Hasselt/BELNET/skeyes); deferred **rq_116**; progress@840 in 6
 
+
+## Tick 835 — 2026-08-05T14:30:00Z
+
+- Unit: **rq_825** (FOI-adjacent residual dual — **Stad+OCMW Tielt Jaarrekening 2025** + Brugge dual; Hasselt JR scan-blocked)
+- Found (strong primary BBC JR2025 100p, post-fusion perimeter, Markt 13, pop **31.973**):
+  - Assets **€193.1m** · equity **€144.0m** · debt total **€49.0m** · fin debt **€17.8m** (LT **€15.8m** · ST due **€2.0m** · **€557/capita**)
+  - Pension provisions **€16.6m** · cash **€24.6m** · cap subs **€30.4m** · FVA IGS **€32.7m**
+  - Exploitatie: ontvangsten **€66.9m** · uitgaven **€55.4m** · saldo **+€11.5m**
+  - AFM **+€9.46m** (gecorr **+€11.68m**) · BBR **€18.5m** · budget result **−€2.2m** · P&L **+€5.6m**
+  - Personnel **€30.0m** · toelagen **€11.4m** (police **€3.1m** · fire **€1.0m** · IGS **€2.7m**) · fiscal **€29.6m** · werk-subs rec **€27.4m**
+  - Invest **€12.2m** (Tielt Noord lands **€7.0m** via WVI) · fin costs **€0.33m**
+- **Hasselt block:** JR2025 PDF 171MB/362p **scan-only** (0 text pages) → FOI **gap_hasselt_jr2025_ocr_l5** ready; raw not committed (size)
+- Dual: Brugge **€1.462bn** assets / **€419m** expl / **€189m** personnel (tick834) — not TE-additive
+- Wrote: budgets +32; commitments +4; leaderboard +6; sources +3; entities city_tielt (+city_hasselt); FOI **gap_tielt_debt_subs_l5** prio6 + **gap_hasselt_jr2025_ocr_l5** prio7 ready; raw Tielt PDF+extract; rq_825=done; spawn **rq_826**; ticks=835
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_826** residual dual L5 (Roeselare/Leuven/UHasselt JV/BELNET/skeyes); deferred **rq_116**; progress@840 in 5
+

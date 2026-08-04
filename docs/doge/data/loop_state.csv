@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T14:00:00Z,rq_824,834,no,tick834 Brugge JR2025 dual Aalst/Genk; next rq_825 residual dual L5; progress@840 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T14:30:00Z,rq_825,835,no,tick835 Tielt JR2025 dual Brugge; Hasselt scan FOI; next rq_826 residual dual L5; progress@840 in 5; rq_116 deferred

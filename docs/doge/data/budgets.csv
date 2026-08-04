@@ -17382,3 +17382,34 @@ bud_brugge_fiscal_2025,city_brugge,2025,141900000,,,cash,src_brugge_jr2025,stron
 bud_brugge_werk_subs_rec_2025,city_brugge,2025,200600000,,,cash,src_brugge_jr2025,strong,Ontvangen werkingssubsidies kerncijfers 200.6m (+4.2pct); tick834
 bud_brugge_ocmw_cover_2025,city_brugge,2025,22200000,,,cash,src_brugge_jr2025,strong,Stedelijke bijdrage OCMW circa 22.2m (narrative; excl from stad/ocmw budget result split); tick834
 bud_brugge_respo_prov_lt_2025,city_brugge,2025,67100000,,,stock,src_brugge_jr2025,strong,LT voorziening responsabiliseringsbijdrage stad ~67.1m YE2025 (narrative); tick834
+bud_tielt_assets_2025,city_tielt,2025,193086097,,,stock,src_tielt_jr2025,strong,Consol stad+OCMW total assets YE2025 193.086m (post-fusion perimeter); tick835
+bud_tielt_equity_2025,city_tielt,2025,144039796,,,stock,src_tielt_jr2025,strong,Nettoactief YE2025 144.040m; tick835
+bud_tielt_debt_total_2025,city_tielt,2025,49046301,,,stock,src_tielt_jr2025,strong,Total schulden YE2025 49.046m; tick835
+bud_tielt_fin_debt_2025,city_tielt,2025,17812081,,,stock,src_tielt_jr2025,strong,Financiele schulden YE2025 17.812m (LT 15.832 + ST due 1.980; kerncijfers 17.812m; 557 EUR/capita); tick835
+bud_tielt_fin_debt_lt_2025,city_tielt,2025,15832254,,,stock,src_tielt_jr2025,strong,Financiele schulden LT YE2025 15.832m; tick835
+bud_tielt_pension_prov_2025,city_tielt,2025,16633568,,,stock,src_tielt_jr2025,strong,Pensioenvoorzieningen YE2025 16.634m; tick835
+bud_tielt_cash_2025,city_tielt,2025,24554682,,,stock,src_tielt_jr2025,strong,Liquide middelen YE2025 24.555m; tick835
+bud_tielt_cap_subs_2025,city_tielt,2025,30417853,,,stock,src_tielt_jr2025,strong,Kapitaalsubsidies YE2025 30.418m; tick835
+bud_tielt_fva_igs_2025,city_tielt,2025,32714545,,,stock,src_tielt_jr2025,strong,Fin VA IGS 32.715m; tick835
+bud_tielt_expl_rec_2025,city_tielt,2025,66917039,,,cash,src_tielt_jr2025,strong,Exploitatieontvangsten 66.917m; tick835
+bud_tielt_expl_exp_2025,city_tielt,2025,55437290,,,cash,src_tielt_jr2025,strong,Exploitatieuitgaven 55.437m; tick835
+bud_tielt_expl_saldo_2025,city_tielt,2025,11479749,,,cash,src_tielt_jr2025,strong,Exploitatiesaldo +11.480m; tick835
+bud_tielt_invest_exp_2025,city_tielt,2025,12174756,,,cash,src_tielt_jr2025,strong,Investeringsuitgaven 12.175m (Tielt Noord lands 6.97m via WVI); tick835
+bud_tielt_invest_rec_2025,city_tielt,2025,210875,,,cash,src_tielt_jr2025,strong,Investeringsontvangsten 0.211m; tick835
+bud_tielt_invest_saldo_2025,city_tielt,2025,-11963881,,,cash,src_tielt_jr2025,strong,Investeringssaldo -11.964m; tick835
+bud_tielt_fin_rec_2025,city_tielt,2025,879433,,,cash,src_tielt_jr2025,strong,Financieringsontvangsten 0.879m; tick835
+bud_tielt_fin_exp_2025,city_tielt,2025,2588512,,,cash,src_tielt_jr2025,strong,Financieringsuitgaven 2.589m; tick835
+bud_tielt_afm_2025,city_tielt,2025,9460032,,,cash,src_tielt_jr2025,strong,Autofinancieringsmarge AFM +9.460m; tick835
+bud_tielt_afm_corr_2025,city_tielt,2025,11683204,,,cash,src_tielt_jr2025,strong,Gecorrigeerde AFM +11.683m (J2 schema); tick835
+bud_tielt_bbr_2025,city_tielt,2025,18498417,,,cash,src_tielt_jr2025,strong,Beschikbaar budgettair resultaat BBR 18.498m; tick835
+bud_tielt_budget_result_2025,city_tielt,2025,-2193210,,,cash,src_tielt_jr2025,strong,Budgettair resultaat boekjaar -2.193m; tick835
+bud_tielt_pnl_result_2025,city_tielt,2025,5566067,,,cash,src_tielt_jr2025,strong,Vennootschapsresultaat J5 +5.566m; tick835
+bud_tielt_personnel_2025,city_tielt,2025,30003504,,,cash,src_tielt_jr2025,strong,Personeelsuitgaven/J5 bezold 30.004m (incl Agodi onderwijzend 3.641m + Zorg detach 3.121m + respo 0.273m); tick835
+bud_tielt_toelagen_2025,city_tielt,2025,11390556,,,cash,src_tielt_jr2025,strong,Toegestane werkingssubsidies 11.391m (police 3.082 fire 0.982 IGS 2.741 other 3.659 AGB 0.534); tick835
+bud_tielt_police_toelage_2025,city_tielt,2025,3082019,,,cash,src_tielt_jr2025,strong,Werkingstoelage politiezone 3.082m (+invest 0.202m); tick835
+bud_tielt_fire_toelage_2025,city_tielt,2025,981614,,,cash,src_tielt_jr2025,strong,Werkingstoelage hulpverleningszone 0.982m (+invest 0.219m); tick835
+bud_tielt_ocmw_aid_2025,city_tielt,2025,3404615,,,cash,src_tielt_jr2025,strong,Individuele hulpverlening OCMW 3.405m; tick835
+bud_tielt_fiscal_2025,city_tielt,2025,29643836,,,cash,src_tielt_jr2025,strong,J5 fiscale opbrengsten en boetes 29.644m (APB 12.152 OV 15.125); tick835
+bud_tielt_werk_subs_rec_2025,city_tielt,2025,27398795,,,cash,src_tielt_jr2025,strong,Ontvangen werkingssubsidies 27.399m; tick835
+bud_tielt_fin_costs_2025,city_tielt,2025,332142,,,cash,src_tielt_jr2025,strong,J5 financiele kosten 0.332m; tick835
+bud_tielt_population_2025,city_tielt,2025,31973,,,stock,src_tielt_jr2025,strong,Inwoners 1 jan 2025 31973; tick835
