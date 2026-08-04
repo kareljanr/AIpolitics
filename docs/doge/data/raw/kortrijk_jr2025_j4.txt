@@ -1,0 +1,303 @@
+﻿===== PAGE 134 =====
+2.2.4 Balans J4 
+KBO STAD: 0207494678 
+KBO OCMW: 0212189676
+Burgemeester: Ruth VANDENBERGHE
+Algemeen directeur: Carlo DAELMAN
+Financieel directeur: Johan DEJONCKHEERE
+2025
+2024
+ACTIVA
+720.408.434
+688.682.304
+I. Vlottende activa
+61.257.989
+55.516.441
+A. Liquide middelen en geldbeleggingen
+25.413.209
+15.923.083
+B. Vorderingen op korte termijn
+28.953.899
+28.201.698
+1. Vorderingen uit ruiltransacties
+15.306.866
+14.260.005
+2. Vorderingen uit niet-ruiltransacties
+13.647.033
+13.941.694
+C. Voorraden en bestellingen in uitvoering
+4.209.394
+8.789.037
+D. Overlopende rekeningen van het actief
+0
+0
+E. Vorderingen op lange termijn die binnen het jaar vervallen
+2.681.487
+2.602.622
+II. Vaste activa
+659.150.446
+633.165.863
+A. Vorderingen op lange termijn
+36.485.879
+37.762.132
+1. Vorderingen uit ruiltransacties
+35.639.047
+36.629.196
+2. Vorderingen uit niet-ruiltransacties
+846.831
+1.132.936
+B. Financi├½le vaste activa
+118.265.950
+116.736.197
+1. Extern verzelfstandigde agentschappen
+0
+0
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+106.433.987
+104.920.871
+3. OCMW-verenigingen
+414.163
+414.163
+4. Andere financi├½le vaste activa
+11.417.799
+11.401.162
+C. Materi├½le vaste activa
+502.808.080
+477.363.287
+1. Gemeenschapsgoederen
+341.567.632
+311.058.043
+a. Terreinen en gebouwen
+181.260.927
+164.661.262
+b. Wegen en andere infrastructuur
+133.390.579
+121.008.184
+c. Installaties, machines en uitrusting
+1.831.753
+1.796.105
+d. Meubilair, kantooruitrusting en rollend materieel
+5.739.621
+5.522.733
+e. Leasing en soortgelijke rechten
+7.037.694
+5.964.129
+f. Erfgoed
+12.307.058
+12.105.630
+2. Bedrijfsmatige materi├½le vaste activa
+116.583.472
+120.638.241
+a. Terreinen en gebouwen
+113.838.998
+117.733.076
+b. Installaties, machines en uitrusting
+1.602.917
+1.735.973
+c. Meubilair, kantooruitrusting en rollend materieel
+1.010.644
+907.364
+d. Leasing en soortgelijke rechten
+130.914
+261.828
+3. Andere materi├½le vaste activa
+44.656.976
+45.667.003
+a. Terreinen en gebouwen
+44.651.851
+45.661.382
+b. Roerende goederen
+5.124
+5.621
+D. Immateri├½le vaste activa
+1.590.537
+1.304.247
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+financi├½le nota
+134
+
+===== PAGE 135 =====
+2025
+2024
+PASSIVA
+720.408.434
+688.682.304
+I. Schulden
+340.731.169
+332.219.235
+   A. Schulden op korte termijn
+69.663.614
+76.552.409
+      1. Schulden uit ruiltransacties
+43.344.711
+49.954.526
+         a. Voorzieningen voor risico's en kosten
+13.893.182
+15.576.138
+         b. Financi├½le schulden
+0
+0
+         c. Niet-financi├½le schulden uit ruiltransacties
+29.451.529
+34.378.388
+      2. Schulden uit niet-ruiltransacties
+4.812.419
+4.838.337
+      3. Overlopende rekeningen van het passief
+82.947
+40.148
+      4. Schulden op lange termijn die binnen het jaar vervallen
+21.423.537
+21.719.399
+   B. Schulden op lange termijn
+271.067.555
+255.666.827
+      1. Schulden uit ruiltransacties
+271.067.555
+255.666.827
+         a. Voorzieningen voor risico's en kosten
+34.450.620
+45.630.091
+            1. Pensioenen en soortgelijke verplichtingen
+34.450.620
+45.630.091
+            2. Andere risico's en kosten
+0
+0
+         b. Financi├½le schulden
+236.615.135
+210.034.936
+         c. Niet-financi├½le schulden uit ruiltransacties
+1.800
+1.800
+      2. Schulden uit niet-ruiltransacties
+0
+0
+II. Nettoactief
+379.677.266
+356.463.069
+   A. Kapitaalsubsidies en schenkingen
+83.309.693
+72.894.571
+   B. Gecumuleerd overschot of tekort
+73.297.397
+62.264.778
+   C. Herwaarderingsreservers
+39.232.619
+37.466.163
+   D. Overig nettoactief
+183.837.556
+183.837.556
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+Kortrijk - Grote Markt 54
+NIS 34022
+financi├½le nota
+135
+
+===== PAGE 136 =====
+2.2.5 Staat van opbrengsten en kosten J5 
+KBO STAD: 0207494678 
+KBO OCMW: 0212189676
+Burgemeester: Ruth VANDENBERGHE
+Algemeen directeur: Carlo DAELMAN
+Financieel directeur: Johan DEJONCKHEERE
+2025
+2024
+I. Kosten
+274.002.447
+287.678.223
+A. Operationele kosten
+267.071.322
+281.406.299
+1. Goederen en diensten
+84.625.555
+83.533.012
+2. Bezoldigingen, sociale lasten en pensioenen
+102.509.298
+99.793.427
+3. Afschrijvingen, waardeverminderingen en voorzieningen
+16.197.523
+34.120.665
+4. Individuele hulpverlening door het O.C.M.W.
+19.257.158
+19.727.819
+5. Toegestane werkingssubsidies
+39.631.954
+37.363.240
+6. Toegestane Investeringssubsidies
+1.064.220
+3.233.661
+7. Minderwaarden bij de realisatie van vaste activa
+0
+10.182
+8. Andere operationele kosten
+3.785.615
+3.624.294
+B. Financi├½le kosten
+6.931.125
+6.271.924
+II. Opbrengsten
+285.035.066
+279.566.177
+A. Operationele opbrengsten
+276.282.016
+270.039.673
+1. Opbrengsten uit de werking
+67.705.114
+66.160.958
+2. Fiscale opbrengsten en boetes
+89.094.173
+86.286.097
+3. Werkingssubsidies
+112.410.290
+110.936.015
+a. Algemene werkingssubsidies
+68.441.132
+66.932.043
+b. Specifieke werkingssubsidies
+43.969.158
+44.003.971
+4. Recuperatie individuele hulpverlening
+1.083.568
+1.482.330
+5. Meerwaarden bij de realisatie van vaste activa
+888.405
+546.515
+6. Andere operationele opbrengsten
+5.100.467
+4.627.759
+B. Financi├½le opbrengsten
+8.753.050
+9.526.505
+III. Overschot of tekort van het boekjaar
+11.032.619
+-8.112.045
+A. Operationele overschot of tekort
+9.210.693
+-11.366.626
+B. Financieel overschot of tekort
+1.821.926
+3.254.581
+IV. Verwerking van het overschot of tekort van het boekjaar
+11.032.619
+-8.112.045
+A. Rechthebbenden uit het overschot van het boekjaar
+0
+0
+B. Tussenkomst door derden in het tekort van het boekjaar
+0
+0
+C. Over te dragen overschot of tekort van het boekjaar
+11.032.619
+-8.112.045
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+financi├½le nota
+136
+

@@ -17246,3 +17246,36 @@ bud_mechelen_pl_result_2025,city_mechelen,2025,4588920,,,outturn,src_mechelen_jr
 bud_mechelen_hidrogem_2025,city_mechelen,2025,2531434,,,outturn,src_mechelen_jr2025,strong,Toelage HidroGem rioleringsprojecten 2.531m; tick829
 bud_mechelen_ragheno_2025,city_mechelen,2025,1900000,,,outturn,src_mechelen_jr2025,strong,Ragheno verwerving gebouw/perceel 1.9m; tick829
 bud_dual_mechelen_gent_antwerp_tick829,gg_belgium,2025,610767383,,,synthesis,src_dual_mechelen_gent_antwerp_tick829,strong,Dual Mechelen 611m assets vs Gent/Antwerp city residual; not TE-additive; tick829
+bud_kortrijk_assets_2025,city_kortrijk,2025,720408434,,,stock,src_kortrijk_jr2025,strong,Consol stad+OCMW total assets YE2025 720.408m; tick831
+bud_kortrijk_equity_2025,city_kortrijk,2025,379677266,,,stock,src_kortrijk_jr2025,strong,Nettoactief YE2025 379.677m; tick831
+bud_kortrijk_debt_total_2025,city_kortrijk,2025,340731169,,,stock,src_kortrijk_jr2025,strong,Total schulden YE2025 340.731m; tick831
+bud_kortrijk_fin_debt_2025,city_kortrijk,2025,258038673,,,stock,src_kortrijk_jr2025,strong,Financiele schulden YE2025 258.039m (+26.3m YoY); per capita 3194; tick831
+bud_kortrijk_fin_debt_lt_2025,city_kortrijk,2025,236615135,,,stock,src_kortrijk_jr2025,strong,Financiele schulden LT YE2025 236.615m; tick831
+bud_kortrijk_pension_prov_2025,city_kortrijk,2025,34450620,,,stock,src_kortrijk_jr2025,strong,Pensioenvoorzieningen YE2025 34.451m (was 45.630m 2024; Ethias path alignment); tick831
+bud_kortrijk_cash_2025,city_kortrijk,2025,25413209,,,stock,src_kortrijk_jr2025,strong,Liquide middelen YE2025 25.413m; tick831
+bud_kortrijk_cap_subs_2025,city_kortrijk,2025,83309693,,,stock,src_kortrijk_jr2025,strong,Kapitaalsubsidies YE2025 83.310m (+10.4m); tick831
+bud_kortrijk_fva_igs_2025,city_kortrijk,2025,106433987,,,stock,src_kortrijk_jr2025,strong,Fin VA intergemeentelijke samenwerkingsverbanden 106.434m; tick831
+bud_kortrijk_expl_rec_2025,city_kortrijk,2025,279296463,,,cash,src_kortrijk_jr2025,strong,Exploitatieontvangsten 279.296m; tick831
+bud_kortrijk_expl_exp_2025,city_kortrijk,2025,252134945,,,cash,src_kortrijk_jr2025,strong,Exploitatieuitgaven 252.135m; tick831
+bud_kortrijk_expl_saldo_2025,city_kortrijk,2025,27161518,,,cash,src_kortrijk_jr2025,strong,Exploitatiesaldo +27.162m; tick831
+bud_kortrijk_invest_exp_2025,city_kortrijk,2025,56997533,,,cash,src_kortrijk_jr2025,strong,Investeringsuitgaven 56.998m; tick831
+bud_kortrijk_invest_rec_2025,city_kortrijk,2025,17789798,,,cash,src_kortrijk_jr2025,strong,Investeringsontvangsten 17.790m; tick831
+bud_kortrijk_invest_saldo_2025,city_kortrijk,2025,-39207735,,,cash,src_kortrijk_jr2025,strong,Investeringssaldo -39.208m; tick831
+bud_kortrijk_fin_rec_2025,city_kortrijk,2025,51112347,,,cash,src_kortrijk_jr2025,strong,Financieringsontvangsten 51.112m (loans ~48.8m); tick831
+bud_kortrijk_fin_exp_2025,city_kortrijk,2025,23933396,,,cash,src_kortrijk_jr2025,strong,Financieringsuitgaven 23.933m (aflossingen 22.5m); tick831
+bud_kortrijk_new_loans_2025,city_kortrijk,2025,48800000,,,cash,src_kortrijk_jr2025,strong,Nieuwe leningen/leasings 48.8m (45m eigen +1.3m doorgeef PZ +2.5m boekhoud Fluvius/VEA); tick831
+bud_kortrijk_afm_2025,city_kortrijk,2025,7198327,,,cash,src_kortrijk_jr2025,strong,Autofinancieringsmarge AFM 7.198m (interne 6.927m; gecorr 11.186m); tick831
+bud_kortrijk_bbr_2025,city_kortrijk,2025,20200945,,,cash,src_kortrijk_jr2025,strong,Beschikbaar budgettair resultaat BBR 20.201m; tick831
+bud_kortrijk_budget_result_2025,city_kortrijk,2025,15132734,,,cash,src_kortrijk_jr2025,strong,Budgettair resultaat boekjaar +15.133m; tick831
+bud_kortrijk_pnl_result_2025,city_kortrijk,2025,11032619,,,cash,src_kortrijk_jr2025,strong,Vennootschapsresultaat J5 +11.033m; tick831
+bud_kortrijk_loonkost_2025,city_kortrijk,2025,135554000,,,cash,src_kortrijk_jr2025,strong,Totale loonkost intern 135.554m (+2.8% YoY; 1591 VTE); tick831
+bud_kortrijk_bezold_pnl_2025,city_kortrijk,2025,102509298,,,cash,src_kortrijk_jr2025,strong,J5 bezoldigingen/sociale/pensioenen 102.509m; tick831
+bud_kortrijk_respo_2025,city_kortrijk,2025,8031000,,,cash,src_kortrijk_jr2025,strong,Responsabiliseringsbijdrage 8.031m (netto na VL sub ~3.9m); tick831
+bud_kortrijk_goederen_pnl_2025,city_kortrijk,2025,84625555,,,cash,src_kortrijk_jr2025,strong,J5 goederen en diensten 84.626m; tick831
+bud_kortrijk_toelagen_2025,city_kortrijk,2025,39631954,,,cash,src_kortrijk_jr2025,strong,J5 toegestane werkingssubsidies 39.632m (toelagen ~36.8m + regl 2.8m); tick831
+bud_kortrijk_inv_subs_granted_2025,city_kortrijk,2025,1064220,,,cash,src_kortrijk_jr2025,strong,J5 toegestane investeringssubsidies 1.064m; tick831
+bud_kortrijk_ocmw_aid_2025,city_kortrijk,2025,19257158,,,cash,src_kortrijk_jr2025,strong,J5 individuele hulpverlening OCMW 19.257m; tick831
+bud_kortrijk_fiscal_2025,city_kortrijk,2025,89094173,,,cash,src_kortrijk_jr2025,strong,J5 fiscale opbrengsten en boetes 89.094m; tick831
+bud_kortrijk_werk_subs_rec_2025,city_kortrijk,2025,112410290,,,cash,src_kortrijk_jr2025,strong,J5 werkingssubsidies ontvangen 112.410m; tick831
+bud_kortrijk_fin_costs_2025,city_kortrijk,2025,6931125,,,cash,src_kortrijk_jr2025,strong,J5 financiele kosten 6.931m; tick831
+bud_kortrijk_kerkfabriek_2025,city_kortrijk,2025,1400000,,,cash,src_kortrijk_jr2025,strong,Toelage kerkfabrieken 1.4m (-18.1% YoY); tick831

@@ -10158,3 +10158,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_830=done; next **rq_821**; loop_state ticks=830
 - FOI: none new this tick
 - Next: prio5 **rq_821** residual dual L5/local/CoA (VL city/province); deferred **rq_116**; progress@840 in 10
+
+## Tick 831 — 2026-08-05T12:30:00Z
+
+- Unit: **rq_821** (FOI-adjacent residual dual — **Stad+OCMW Kortrijk Jaarrekening 2025** + Mechelen city dual)
+- Found (strong primary BBC JR2025 245p, volgnr 215589, Grote Markt 54 NIS 34022):
+  - Assets **€720.4m** · equity **€379.7m** · debt total **€340.7m** · fin debt **€258.0m** (+26.3m; €3.194/capita) · LT fin **€236.6m**
+  - Pension provisions **€34.5m** (was **€45.6m**; Ethias path vs FPD) · capital subsidies **€83.3m** · cash **€25.4m** · IGS fin VA **€106.4m**
+  - Exploitatie: ontvangsten **€279.3m** · uitgaven **€252.1m** · saldo **+€27.2m**
+  - AFM **+€7.20m** (interne **€6.93m**; gecorr **€11.19m**) · BBR **€20.2m** · budget result **+€15.1m** · P&L **+€11.0m**
+  - Loonkost **€135.6m** (1.591 VTE; +2.8% YoY) · J5 bezold **€102.5m** · respo **€8.0m**
+  - Toelagen/werkingssubsidies granted **€39.6m** · invest **€57.0m** · invest receipts **€17.8m** · new loans **€48.8m** · repay **€22.5m**
+  - Fiscal revenue **€89.1m** · werk-subs received **€112.4m** · OCMW aid **€19.3m** · fin costs **€6.9m**
+- Dual: Mechelen **€610.8m** assets / **€268m** expl / **€113m** personnel (tick829) — not TE-additive
+- Wrote: budgets +33; commitments +4; leaderboard +6; sources +2; entity city_kortrijk; FOI **gap_kortrijk_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extracts; rq_821=done; spawn **rq_822**; ticks=831
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_822** residual dual L5/local/CoA (Aalst/Genk/Roeselare/BELNET/skeyes); deferred **rq_116**; progress@840 in 9
+

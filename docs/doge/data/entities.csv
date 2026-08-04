@@ -575,3 +575,4 @@ province_hainaut,Provincie Henegouwen,Province de Hainaut,Province of Hainaut,pr
 province_brabant_wallon,Provincie Waals-Brabant,Province du Brabant wallon,Province of Walloon Brabant,province,wallonie_gov,fr,https://www.brabantwallon.be,,https://www.brabantwallon.be,CoA BI2026 202.3m ordinary; tick827
 province_luxembourg,Provincie Luxemburg,Province de Luxembourg,Province of Luxembourg (BE),province,wallonie_gov,fr,https://www.province.luxembourg.be,,https://www.province.luxembourg.be,CoA BI2026 136.2m ordinary; tick828
 city_mechelen,Stad Mechelen,Ville de Malines,City of Mechelen,municipality,vlaanderen_gov,nl,https://www.mechelen.be,onthaal@mechelen.be,https://www.mechelen.be,JR2025 assets 610.8m; tick829
+city_kortrijk,Stad Kortrijk,Ville de Courtrai,City of Kortrijk,municipality,vlaanderen_gov,nl,https://www.kortrijk.be,info@kortrijk.be,https://www.kortrijk.be,JR2025 assets 720.4m consol stad+OCMW; tick831

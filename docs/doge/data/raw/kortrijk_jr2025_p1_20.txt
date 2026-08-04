@@ -1,0 +1,2694 @@
+﻿pages 245
+===== PAGE 1 =====
+JAARREKENING 
+2025
+MEERJARENPLAN KORTRIJK 2020-2027
+
+===== PAGE 2 =====
+Inhoudstabel 
+1. Interne rapportering
+4 
+1.1. Inleiding
+5 
+1.2. Kerncijfers
+6 
+1.2.1. BBC evenwichtsvoorwaarden 
+ 
+6 
+1.2.2. Staat van opbrengsten en kosten 
+8 
+1.2.3. Balans & balansratioΓÇÖs  
+9 
+1.2.4. Evolutie Schuld  
+11 
+1.3. Inhoudelijke evaluatie BSV 
+13 
+1.4. Investeringsbudget 
+ 
+14 
+14 
+15 
+17 
+1.4.1. Synthesetabel  
+1.4.2. Grootste investeringsprojecten 2025 
+1.4.3. Toegestane investeringssubsidies 
+1.4.4. Detail lijst alle investeringsprojecten 
+17 
+1.5. Exploitatiebudget 
+23 
+23 
+25 
+27 
+1.5.1. Samenvatting uitgaven & ontvangsten, afwijking tov budget  
+1.5.2. Vergelijking exploitatieresultaat 2025 met rekening 24 en budget 
+1.5.3. Structuur exploitatie-uitgaven & -ontvangsten  
+1.5.4. Specifieke ontvangsten en uitgaven uitgelicht 
+ 
+28 
+1.6. Samenvatting afwijkingen AFM eindbudget - rekening 
+48 
+2. BBC rapportering
+49 
+2.1. Beleidsevaluatie
+51 
+2.2. Financi├½le nota
+126 
+2.2.1. Doelstellingenrekening J1 
+127 
+2.2.2. Staat van het financieel evenwicht J2 
+131 
+2.2.3. Realisatie kredieten J3  
+133 
+2.2.4. Balans J4 
+134 
+2.2.5. Staat van opbrengsten en kosten J5 
+136 
+2.3. Toelichting 
+137 
+2.3.1. Overzicht ontvangsten en uitgaven ΓÇô functioneel T1 
+138 
+2.3.2. Overzicht ontvangsten en uitgaven ΓÇô economisch T2 
+ 
+141 
+2.3.3. Investeringsprojecten ΓÇô per prioritaire actie/actieplan T3 
+147 
+2.3.4. Evolutie financi├½le schulden T4  
+217 
+2.3.5. Toelichting bij de balans T5 
+218 
+2.3.6. Financi├½le risicoΓÇÖs 
+220 
+2.3.7. Waarderingsregels 
+222 
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+2
+
+===== PAGE 3 =====
+2.3.8. Niet in de balans opgenomen rechten en plichten 
+229 
+2.3.9. Verklaring materi├½le verschillen  
+230 
+2.3.10. Kosten, opbrengsten, uitg. & ontv. met buitengewone invloed op resultaat 
+233 
+2.3.11. Overzicht overgedragen kredieten voor investeringen en financiering 
+ 
+234 
+2.4. Documentatie 
+238 
+2.4.1. Totaaloverzicht beleidsdoelstellingen, actieplannen en acties 
+239 
+2.4.2. Toegestane werkings- en investeringssubsidies  
+239 
+2.4.3. Samenstelling beleidsdomeinen  
+240 
+2.4.4. Overzicht verbonden entiteiten  
+243 
+2.4.5. Personeelsinzet  
+244 
+2.4.6. Overzicht jaarlijkse opbrengst per belastingssoort 
+245 
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+Kortrijk - Grote Markt 54
+NIS 34022
+3
+
+===== PAGE 4 =====
+1
+INTERNE RAPPORTERING
+JAARREKENING 2025
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+4
+
+===== PAGE 5 =====
+1.
+Jaarrekening 2025, interne rapportering
+1.1 Inleiding 
+Voorliggende jaarrekening is de zesde jaarrekening nieuwe stijl: 
+-
+Volledig ge├»ntegreerd Stad en OCMW, inclusief de voormalige AGBΓÇÖs en vzwΓÇÖs.
+-
+Opgemaakt volgens het gewijzigd beleidskader BBC2020.
+-
+Zesde jaarevaluatie (inhoudelijk + financieel) van het plan ΓÇ£Beste Stad van VlaanderenΓÇ¥.
+We vergelijken niet alleen met de vorige jaarrekeningen, maar ook met het budget. Aangezien in 2025 alle 
+aandacht ging naar het nieuw meerjarenbudget BRIO 2026-2031 en om verwarring te vermijden, werd geen 6e 
+aanpassing van het BSV-meerjarenplan uitgevoerd. In deze jaarrekening vergelijken we de cijfers dus enkel met 
+het zogenaamd initieel budget 2025 (opgemaakt in najaar 2024 = AMJP5), niet met een tussentijds bijgestuurd 
+of eindbudget (er was geen AMJP6). In functie van een meer zinvolle interpretatie nemen we in de interne 
+rapportering de overdracht 2024-2025 van het investerings- en financieringsbudget mee. In de offici├½le 
+schemaΓÇÖs is dit niet het geval aangezien de software hierop niet voorzien is.   
+Net zoals bij al onze beleidsrapporten, gaan we veel verder dan de minimale verplichte rapportering. De 
+wettelijke BBC-schemaΓÇÖs zijn terug te vinden in deel 2 BBC-rapportering. Met dit eerste deel, de interne 
+rapportering, proberen we maximaal transparant te zijn en tegemoet te komen aan de informatiebehoefte van 
+de Raadsleden.  
+Vooraf geven we enkele afkortingen mee die frequent gebruikt worden in de tabellen: 
+-
+JR = Jaarrekening, JR25 = Jaarrekening 2025, JR24 = Jaarrekening 2024 etc.
+-
+B25 = het budget 2025 uit de 5e aanpassing van het meerjarenplan, opgemaakt in het najaar 2024 en
+goedgekeurd op de Gemeenteraad/OCMW-raad van 18 november 2024.
+-
+AMJP5 = de 5e aanpassing van het meerjarenplan.
+-
+APB = Aanvullende PersonenBelasting
+-
+OV = Onroerende Voorheffing
+-
+SIB = Structurele InvesteringsBudgetten. Het betreft onderhouds- en vervangingsinvesteringen aan het
+bestaande patrimonium, los van de nieuwe projecten.
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+Kortrijk - Grote Markt 54
+NIS 34022
+interne rapportering
+5
+
+===== PAGE 6 =====
+1.2 Kerncijfers 
+1.2.1 BBC-evenwichtsvoorwaarden 
+De Autofinancieringsmarge of AFM is een lange termijn evenwichtsvoorwaarde die nagaat of een bestuur 
+structureel in evenwicht is. De AFM wordt berekend door van het exploitatiebudget (waarin de rentekost al zit) 
+ook nog eens de netto-kapitaalsaflossingen af te trekken (op die manier is de volledige leningslast mee). De 
+AFM gaat dus na of een bestuur voldoende marge genereert uit de courante werking om de leningslasten te 
+dragen. Wettelijk gezien moet de AFM enkel positief zijn in het jaar 2025. 
+Met interne AFM bedoelen we de offici├½le AFM gecorrigeerd voor uitgaven en ontvangsten onroerende 
+goederen die in exploitatie zitten (stadsontwikkelingsprojecten). Die transacties volgen financieel een 
+investeringslogica, maar blijven toch in exploitatie en kunnen grote sprongen maken. Ze be├»nvloeden de 
+offici├½le AFM soms in min (de investeringsfase), soms in plus (de verkoopfase).  
+Het Beschikbaar Budgettair Resultaat of BBR (+/- het vroegere Resultaat op kasbasis) is een korte termijn 
+evenwichtsvoorwaarde of toestandsevenwicht. Het betreft de som van alle uitgaven en ontvangsten in het 
+exploitatie- & investeringsbudget evenals de financiering ervan (leningen). Er wordt ook rekening gehouden 
+met het historisch opgebouwde werkkapitaal. Wettelijk gezien moet het BBR elk jaar positief zijn in budget. 
+De AFM bedraagt 7,2M in 2025. Dat is 4,3M minder dan vorig jaar en 1,8M slechter dan de raming uit AMJP5. 
+Na correctie voor het saldo van onroerende goederen is de interne AFM 6,9M. Het saldo op onroerende 
+goederen dragen we over. De ΓÇ£re├½le bonusΓÇ¥ ten opzichte van AMJP5 is het verschil tussen het budget en de 
+interne AFM ΓÇô die bedraagt 2,2M.  
+Het BBR bedraagt 20,2M in 2025, dat is 15,1M meer dan vorig jaar en ruim 20M beter dan verwacht. 
+De grafiek hieronder toont de evolutie van beide evenwichtsvoorwaarden sinds 2014, waarbij we in de jaren 
+v├│├│r 2019 de gegevens van Stad, OCMW, AGBΓÇÖs en vzwΓÇÖs (excl. Ajko) hebben geconsolideerd. We hebben het 
+BBR ook gecorrigeerd voor de gewijzigde behandeling van bestemde gelden vanaf 2020. 
+Het BBR is gestegen tov 2024. In het kader 
+van schuldbeheersing we willen niet meer 
+lenen dan strikt noodzakelijk. De laatste 
+leningsopname was in juli 2025. Op dit 
+moment werden de investeringsuitgaven 
+hoger, en de investeringsontvangsten iets 
+lager ingeschat dan finaal gerealiseerd in de 
+jaarrekening. Het feit dat geen AMJP6 werd 
+uitgevoerd, speelt hierbij een rol.  
+De AFM was in 2022 negatief ten gevolge 
+van de hyperinflatie die onmiddellijk en 
+onverwacht toesloeg. In 2023 en 2024 was 
+de AFM significant positief, in 2025 is de 
+AFM licht gedaald maar zit op het niveau van 
+voor 2022. 
+JR20
+JR21
+JR22
+JR23
+JR24
+JR25
+JR25-JR24
+B25
+JR25-B25
+BBR
+35.913.052 20.422.389 8.197.128 4.415.919
+5.068.211 20.200.945 15.132.734
+150.595 20.050.350
+AFM
+7.703.321
+3.671.862 -1.042.413 9.444.737 11.469.888
+7.198.327
+-4.271.561
+9.027.166
+-1.828.839
+Interne AFM
+7.827.528
+4.521.808
+8.662 9.161.235
+9.518.092
+6.927.255
+-2.590.837
+4.710.526
+2.216.729
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+6
+
+===== PAGE 7 =====
+Evolutie 2024-2025 
+Na een absoluut ΓÇ£recordΓÇ¥ in 2024, werd in 2025 voor 57M ge├»nvesteerd. Tegenover 2024 is dit een daling van 
+13,3M. De investeringsontvangsten, de som van investeringssubsidies en desinvesteringen, bedroegen 17,8M. 
+Dat is een grote stijging t.o.v. vorig jaar en is vooral dankzij een inhaalbeweging van ontvangen 
+investeringssubsidies. Bijgevolg is het investeringsresultaat, het saldo van ontvangsten en uitgaven, 22M 
+positiever dan vorig jaar en bedraagt -39,2M in de JR25.  
+De exploitatie-uitgaven nemen toe met 2,9%, daar waar de exploitatie-ontvangsten toenemen met 1,6% t.o.v. 
+2024. De inflatie bedroeg 2,5% en verklaart het grootste deel van de groei. De rest is het resultaat van veel 
+verschillende factoren, die zowel inhoudelijk als technisch van aard zijn en mekaar soms compenseren. We 
+komen er later op terug per rubriek. Omdat zowel het absoluut bedrag als de groeivoet van de uitgaven iets 
+hoger ligt dan de ontvangsten, daalt het netto-exploitatieresultaat. Het daalt met 2,7M tot 27,2M in 2025.  
+De financieringsontvangsten bedragen 51,1M. Dit bedrag ligt 4,7M lager dan 2024. In 2025 hebben we voor 
+48,8M leningen opgenomen (eigen leningen + doorgeef + boekhoudkundig). De rest van de ontvangst (ca. 
+2,3M) betreft de aflossing op doorgeefleningen (vnl. politie). De financieringsuitgaven bedragen 23,9M ΓÇô dat is 
+de som van 22,5M aflossingen op lopende leningen + 1,3M nieuwe doorgeefleningen+ noodkoopwoningen en 
+kapitalisatie Pandenfonds.  
+De resultante van de 3 deelbudgetten is een positief budgettair resultaat van het boekjaar van 15,1M. Samen 
+met het saldo van vorige boekjaren bekomen we een BBR van 20,2M.  
+Vergelijking met budget 
+Doordat er geen meerjarenplanwijziging is opgemaakt in 2025, ligt de realisatiegraad van de investeringen 
+lager dan de voorbije jaren. De investeringsuitgaven t.o.v. het eindbudget bedraagt 61,9%. Aan 
+ontvangstenzijde bedraagt de realisatiegraad 60,7%, dat is hoger dan in 2024.  
+Aangezien de onderbesteding aan uitgavenzijde in absolute termen groter is dan die aan ontvangstenzijde 
+(35,1M resp. 11,5M), zijn de netto-investeringen in de jaarrekening minder negatief dan verwacht: -39,2M i.p.v. 
+de raming van -62,8M.   
+Het exploitatieresultaat van +27,2M is 2,1M lager dan het budget. De realisatiegraad op de uitgaven bedraagt 
+99,4%, die van de ontvangsten 98,7%. Ondanks het feit dat er geen meerjarenplanwijziging werd gedaan, kan 
+toch gesteld worden dat de exploitatie goed werd ingeschat, zowel aan uitgaven- als aan ontvangstenzijde.  
+Het financieringsresultaat ligt 4,6M lager dan het budget. De financieringsuitgaven zijn iets lager dan het 
+budget, aan de ontvangstenzijde hebben we een verschil van -5M met het budget. Aangezien de netto-
+investeringsuitgaven lager lagen dan verwacht, werd een in het najaar geplande leningsopname van 5,5M pas 
+BBR
+JR20
+JR21
+JR22
+JR23
+JR24
+JR25
+Γêå %
+Γêå Γé¼
+B25
+Γêå %
+Γêå Γé¼
+Investeringen
+-20,5
+-20,7
+-28,9
+-58,0
+-61,2
+-39,2
+22,0
+-62,8
+23,6
+Uitgaven
+31,0
+37,3
+59,5
+67,9
+70,2
+57,0
+81,1%
+-13,3
+92,1
+61,9%
+-35,1
+Ontvangsten
+10,5
+16,6
+30,7
+9,9
+9,1
+17,8 195,8%
+8,7
+29,3
+60,7%
+-11,5
+Exploitatie
+26,1
+21,6
+16,8
+27,9
+29,9
+27,2
+-2,7
+29,2
+-2,1
+Uitgaven
+181,7
+197,8
+212,4
+234,0
+245,0
+252,1 102,9%
+7,1
+253,7
+99,4%
+-1,6
+Ontvangsten
+207,8
+219,4
+229,2
+261,8
+274,8
+279,3 101,6%
+4,5
+282,9
+98,7%
+-3,6
+Financiering
+-7,8
+-16,4
+-0,2
+26,4
+32,0
+27,2
+-4,8
+31,7
+-4,6
+Uitgaven
+21,4
+20,1
+47,4
+22,3
+23,9
+23,9 100,2%
+0,0
+24,4
+98,1%
+-0,5
+Ontvangsten
+13,5
+3,7
+47,2
+48,7
+55,8
+51,1
+91,5%
+-4,7
+56
+===== PAGE 8 =====
+na nieuwjaar opgenomen. De rest van de afwijking wordt verklaard door de boekhoudkundige leasingschuld 
+t.a.v. Fluvius i.k.v. de verledding van de openbare verlichting en een kleine afwijking op boekhoudkundige 
+schuld noodkoopwoningen en doorgeeflening PZ VLAS.  
+ 
+Het budgettair resultaat van het boekjaar en het BBR zijn respectievelijk 17M en 22M beter dan verwacht. Het 
+beter resultaat op investeringen (23,6M) wordt deels geneutraliseerd door een slechter resultaat op exploitatie 
+(-2,1M) en lagere leningsopnames die resulteren in een minder goed financieringsresultaat (-4,6M).    
+ 
+ 
+ 
+De tabel hierboven bevat 3 AFMΓÇÖs. Het eerste cijfer is de ΓÇ£gewone AFMΓÇ¥, de offici├½le evenwichtsvoorwaarde. 
+De netto-aflossingen van schulden (= totale aflossingen min hetgeen door anderen wordt terugbetaald, vnl. 
+i.k.v. doorgeefleningen) bedroegen 20M in 2025. Dit sluit heel goed aan bij de raming. De lagere AFM tov 
+budget (-1,8M) wordt bijgevolg door het exploitatieresultaat zelf veroorzaakt. Relatief t.o.v. de exploitatie-
+ontvangsten (279,3M) bedraagt de AFM 2,6%.  
+De ΓÇ£interne AFMΓÇ¥ is een variant waarbij we corrigeren voor stadsontwikkelingsprojecten. In 2025 werden 909K 
+uitgaven gedaan en 1,2M verkopen. De interne AFM houdt geen rekening met deze netto-winst en is bijgevolg 
+ca. 0,3M lager dan de offici├½le. Ze bedraagt 6,9M, wat 2,2M beter is dan verwacht.  
+ 
+De gecorrigeerde AFM is een BBC-concept waarbij de re├½le aflossingen worden vervangen door ΓÇ£aangewezen 
+aflossingen o.b.v. de financi├½le schuldenΓÇ¥. Bedoeling is na te gaan of een bestuur de financi├½le lasten niet 
+doorschuift naar een volgende legislatuur door specifieke financieringsconstructies of door te lenen op zeer 
+lange termijn. Het feit dat de gecorrigeerde AFM beduidend beter is dan de gewone AFM, toont aan dat dit 
+niet het geval is in Kortrijk, eerder in tegendeel. De gecorrigeerde AFM bedroeg 11,1M in 2025.  
+ 
+ 
+1.2.2 Staat van opbrengsten en kosten  
+ 
+De BBC-boekhouding omvat ook een luik klassiek boekhouden, waardoor we ook een gewoon boekhoud-
+resultaat of vennootschapsresultaat hebben. In de schemaΓÇÖs is dat terug te vinden in Schema J5 Staat van 
+opbrengsten en kosten. Het resultaat uit de klassieke boekhouding bedraagt 11.032.619 EUR. Dat 
+vennootschapsresultaat is niet onbelangrijk, aangezien het de balans be├»nvloedt (cf. mutatie netto-actief) en 
+bijgevolg de balansratioΓÇÖs die iets zeggen over de algemene financi├½le gezondheid.  
+ 
+De belangrijkste verschillen tussen de AFM en het vennootschapsresultaat zijn:   
+- het vervangen van de netto-kapitaalsaflossingen door afschrijvingen incl. terugname van kapitaalsubsidies 
+- het inbrengen van meer- & minderwaarden op de realisatie van vaste activa 
+- het inbrengen van investeringssubsidies (tellen niet mee in de AFM maar wel in het  vennootschapsresultaat)  
+- voorraadverrichtingen en overlopende rekeningen.  
+ 
+De aansluitingstabel tussen de AFM en het vennootschapsresultaat vind je hieronder.  
+ 
+AFM
+JR20
+JR21
+JR22
+JR23
+JR24
+JR25
+Γêå Γé¼
+B25
+Γêå Γé¼
+Exploitatie-resultaat
+21,6
+21,6
+16,8
+27,9
+29,9
+27,2
+-0,7
+29,2
+-2,1
+Netto aflossingen schulden
+18,4
+18,0
+17,9
+18,4
+18,4
+20,0
+1,6
+20,2
+-0,2
+AFM
+3,2
+3,7
+-1,0
+9,4
+11,5
+7,2
+-2,2
+9,0
+-1,8
+% expl - ontvangsten
+1,5%
+1,7%
+-0,5%
+3,6%
+4,2%
+2,6%
+3,2%
+Saldo vastgoed in exploitatie
+-0,2
+-0,9
+-1,1
+0,3
+2,0
+0,3
+0,0
+4,3
+-4,0
+Interne AFM
+3,4
+4,5
+0,0
+9,2
+9,5
+6,9
+-2,2
+4,7
+2,2
+Gecorrigeerde AFM
+12,0
+8,5
+5,2
+15,3
+15,3
+11,1
+-4,2
+12,2
+-1,1
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnumm
+===== PAGE 9 =====
+Aangezien investeringen deels met desinvesteringen en reserves werden gefinancierd, ligt het bedrag aan 
+kapitaalaflossingen lager dan de afschrijvingen. Dat zorgt ervoor dat het vennootschapsresultaat doorgaans 
+lager ligt dan de AFM. In 2025 is er echter een grote terugname in voorziening pensioenen gebeurd, waardoor 
+het vennootschapsresultaat uitzonderlijk hoger ligt dan de AFM. De raming voor de voorziening van de 
+pensioenen werd afgestemd op het budget voor de responsabiliseringsbijdrage in het meerjarenplan 2026-
+2031. Dat is gebaseerd op een studie van Ethias specifiek op maat van Kortrijk in plaats van de algemene 
+raming van de Federale Pensioendienst.  
+1.2.3 Balans  en balansratioΓÇÖs 
+Het geconsolideerde balanstotaal op 31/12/2025 bedraagt 720,4M, dat is 31,7M meer dan vorig jaar. Aan de 
+actiefzijde zien we een toename van de Vlottende Activa (+5,7M) als resultante van  
+-
+Liquide middelen (+9,5M): in het laatste kwartaal zijn een aantal grote investeringssubsidies
+ontvangen.
+-
+Een daling van de voorraden (-4,6M): verkopen (en dus verminderen van voorraad) van
+stadsontwikkelingsprojecten (waaronder Bouvekerke) en de uitboeking uit voorraad van Sint-
+Vincentius die uiteindelijk niet verkocht werd.
+-
+Een stijging van de KT-vorderingen (+0,8M): dit is een combinatie van vorderingen die op 31/12 nog
+open stonden.
+7.198.327
+19.963.191
++ terugname kapitaalsubsidies
+4.831.520
+   
++ meerwaarde op realisatie vaste activa
+888.405
++ voorraadwijziging
+-4.579.643
++ verschuiving voorraad naar vaste activa (parkwaarde St. Vincentius)
+31.317
+- minderwaarde realisatie vaste activa
+0
+- waardevermindering op vlottende activa
+-4.044
+16.197.523
+- toegestane investeringssubsidies
+1.064.220
+- overlopende rekeningen
+42.800
+= Staat van opbrengsten & kosten
+11.032.619
+AFM
++ netto kapitaalsaflossingen 
+- afschrijvingen, waardeverminderingen, voorzieningen
+ACTIVA (MIO)
+31/12/20
+31/12/21
+31/12/22
+31/12/23
+31/12/24
+31/12/25
+Γêå 25-24
+I. Vlottende activa
+76,5
+65,2
+68,6
+70,0
+55,5
+61,3
+5,7
+A. Liq. middelen en geldbel.
+41,8
+31,1
+23,7
+17,5
+15,9
+25,4
+9,5
+   B+E. Vorderingen KT
+25,5
+25,0
+33,5
+38,4
+30,8
+31,6
+0,8
+C. Voorraden
+9,2
+9,1
+11,5
+14,1
+8,8
+4,2
+-4,6
+II. Vaste activa
+521,0
+528,5
+558,6
+593,1
+633,2
+659,2
+26,0
+A. Vorderingen LT
+40,1
+37,8
+43,8
+37,1
+37,8
+36,5
+-1,3
+B. Financi├½le VA
+116,7
+116,8
+117,7
+117,7
+116,7
+118,3
+1,5
+C. Materi├½le VA
+363,2
+372,8
+396,0
+437,2
+477,4
+502,8
+25,4
+D. Immateri├½le VA
+0,9
+1,1
+1,1
+1,2
+1,3
+1,6
+0,3
+  TOTAAL ACTIVA
+597,4
+593,7
+627,3
+663,1
+688,7
+720,4
+31,7
+PASSIVA (MIO)
+31/12/20
+31/12/21
+31/12/22
+31/12/23
+31/12/24
+31/12/25
+Γêå 25-24
+I. Schulden
+263,0
+248,7
+272,6
+301,1
+332,2
+340,7
+8,5
+A. Financi├½le schulden
+191,1
+172,7
+185,2
+209,8
+231,8
+258,0
+26,3
+B. Overige schulden
+72,0
+76,0
+87,4
+91,2
+100,5
+82,7
+-17,8
+II. Netto-actief
+334,4
+345,1
+354,7
+362,0
+356,5
+379,7
+23,2
+ TOTAAL PASSIVA
+597,4
+593,7
+627,3
+663,1
+688,7
+720,4
+31,7
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+Kortrijk - Grote Markt 54
+NIS 34022
+interne rapportering
+9
+
+===== PAGE 10 =====
+ 
+De grootste toename van de activa ligt evenwel bij de Vaste Activa (+26M) en dan in het bijzonder bij de 
+Materi├½le Vaste Activa (+25,4M) als gevolg van het ambitieuze investeringsprogramma.  
+ 
+Bij de financieringsbronnen (passiva) zien we een toename van de financi├½le schulden met +26,3M. We hebben 
+meer geleend dan afgelost in 2025. De overige schulden dalen met 17,8M. Dit wordt vooral verklaard door de 
+lagere voorzieningen (pensioenen); de schulden uit gewone transacties nemen ook af.  
+Het netto-actief (= eigen vermogen) stijgt met 23,2M. Dat is vooral het gevolg van: 
+- 
+toename kapitaalsubsidies met 10,4M   
+- 
+het positief vennootschapsresultaat van 11M dat wordt toegevoegd aan het gecumuleerd overschot 
+ 
+ 
+Hieronder visualiseren we de samenstelling van de balans per 31/12/25:  
+  
+ 
+ 
+ 
+ 
+Ratio
+Solvabiliteit
+Liquiditeit
+Instandhouding
+2025
+52,7%
+1,0
+2,0
+2024
+51,8%
+0,8
+2,6
+2023
+54,6%
+0,9
+2,9
+2022
+56,5%
+0,9
+2,2
+2021
+58,1%
+1,1
+1,5
+2020
+56,0%
+1,4
+1,6
+2019
+51,1%
+1,3
+1,5
+2018
+53,3%
+1,3
+1,9
+2017
+53,4%
+1,2
+2,1
+2016
+53,2%
+1,9
+1,9
+2015
+49,1%
+2,0
+1,5
+2014
+49,4%
+1,1
+0,8
+Norm
+> 30%
+ΓëÑ 1
+> 1
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+10
+
+===== PAGE 11 =====
+Gehanteerde definities  
+ΓÇó 
+Solvabiliteit = (Netto-actief / totaal vermogen) 
+ΓÇó 
+Liquiditeit = (Vlottend actief - voorraad)/ (KT schulden - voorzieningen) 
+ΓÇó 
+Instandhouding = (Investering Materi├½le Vaste Activa / afschrijving MVA) 
+ 
+De solvabiliteit, de verhouding tussen het eigen en totaal vermogen, stijgt tot 52,7%. Dat is het logisch gevolg 
+van de vaststelling dat het netto-actief meer gestegen is dan de schulden. Dit is zoals de voorbije jaren een 
+goede ratio, beter dan het cijfer aan de start van de BBC. 
+ 
+De liquiditeitsratio gaat na of de aanwezige liquiditeiten volstaan om de verplichtingen op korte termijn na te 
+komen. De ratio ligt met 1,0 op de (theoretische) norm. Het is een bewuste keuze om niet te veel liquide 
+middelen aan te houden om het betalen van overbodige rente te vermijden.  
+ 
+De instandhoudingsinspanning gaat na of er voldoende ge├»nvesteerd wordt in verhouding tot de afschrijvingen, 
+m.a.w. of er geen ontwaarding is van de materi├½le vast activa. Gegeven het fluctuerend verloop van 
+investeringen moet deze ratio over meerdere jaren bekeken worden. De ratio was en blijft goed. 
+Merk op dat de ratio ongenuanceerd is en geen onderscheid maakt tussen investeringen in bestaande 
+infrastructuur en nieuwe projecten. De vele nieuwe projecten (bv. ΓÇÿt Huis, De Warande, Kerk Bissegem, ΓÇª) 
+trekken de ratio mee omhoog. Wanneer we enkel kijken naar ΓÇÿoude activaΓÇÖ dan bedraagt de ratio 1,26.  
+ 
+ 
+1.2.4 Evolutie Schuld  
+ 
+Er werden 48,8 leningen en leasings opgenomen in 2025, als volgt samengesteld:  
+ΓÇó 
+45M eigen leningen Stad op lange termijn   
+ΓÇó 
+1,3M doorgeeflening PZ VLas  
+ΓÇó 
+2,5M ΓÇ£boekhoudkundige leningenΓÇ¥ zonder kasstroom. Dit bestaat uit 2 componenten:  
+o 2.440K Fluvius, gekoppeld aan het verledden van de openbare verlichting 
+o 71K noodkoopwoningen, kredietlijn via het Vlaams Energie Agentschap   
+De ontvangst in het financieringsbudget in de vorm van de opname van een lening wordt budgettair 
+geneutraliseerd, hetzij door een uitgave in het investeringsbudget (Fluvius), hetzij door een uitgave in 
+het financieringsbudget (noodkoop). 
+ 
+De aflossingen bedragen 22,5M. De openstaande schuld stijgt bijgevolg met 26,3M (48,8-22,5) en bedraagt nu 
+in totaal 258M. De tabel hieronder geeft een gedetailleerde evolutie van de totale schuld en de samenstellende 
+onderdelen. 
+ 
+ 
+ 
+Stad, eigen 
+leningen
+Stad, 
+doorgeef 
+Parko & 
+SOK
+OCMW
+Kortrijk
+Kortrijk per 
+inwoner
+Stad, overige 
+doorgeef
+Boekhoud-
+kundige 
+leningen
+Totaal
+Totaal per 
+inwoner
+2025 169.905.350
+42.748.918
+212.654.268
+2.633
+36.191.809
+9.192.596
+258.038.673
+3.194
+2024 141.718.968
+45.380.233
+187.099.200
+2.338
+37.191.655
+7.463.479
+231.754.335
+2.896
+2023 118.720.538
+48.102.429
+166.822.967
+2.116
+36.030.034
+6.981.429
+209.834.430
+2.661
+2022 111.020.959
+30.614.580
+141.635.538
+1.823
+37.178.441
+6.362.492
+185.176.471
+2.383
+2021
+96.285.172
+32.948.516
+129.233.688
+1.674
+37.382.788
+6.108.334
+172.724.810
+2.237
+2020 111.705.402
+35.311.532
+147.016.934
+1.907
+39.248.360
+4.805.680
+191.070.974
+2.478
+2019 101.608.932 20.788.378
+37.308.998
+159.706.308
+2.081
+40.004.621
+199.710.929
+2.603
+2018 105.102.658 20.421.608
+29.191.515
+154.715.781
+2.017
+41.150.271
+195.866.052
+2.554
+2017 108.305.115 21.688.799
+26.209.720
+156.203.634
+2.045
+26.859.664
+183.063.298
+2.397
+2016 126.826.239 22.854.962
+24.229.737
+173.910.938
+2.303
+10.302.459
+184.213.397
+2.440
+2015 138.753.871 17.603.969
+24.951.771
+181.309.611
+2.410
+7.231.341
+188.540.951
+2.507
+2014 143.071.531
+9.132.261
+23.047.992
+175.251.784
+2.333
+6
+===== PAGE 12 =====
+Per 31/12/25 bedraagt de totale openstaande schuld 258M hetzij 3.194 EUR per inwoner. Afgezet t.o.v. de 
+totale exploitatie-ontvangsten van 279,3M bedraagt de schuldgraad 92,4%. Dat is een toename t.o.v. 2024, 
+toen de schuldgraad 84,3% bedroeg.  
+ 
+Als we enkel kijken naar de eigen leningen, en dus de doorgeefleningen (die integraal worden terugbetaald) en 
+de puur boekhoudkundige schulden (waarmee geen enkele kasstroom gepaard gaat) buiten beschouwing 
+laten, bedraagt de schuld 212,6M hetzij 2.633 EUR per inwoner.  
+ 
+De grafieken hiernaast en hieronder 
+geven de evolutie van de schuld per 
+capita sinds 2014, start van de BBC.  
+De totale schuld eind 2025 ligt 770 
+EUR/inw  hoger dan in 2014. Toch zijn  
+er 2 nuances:  
+ 
+1/ De samenstelling van de schuld is 
+significant veranderd door het gebruik 
+van doorgeefleningen en boekhoud-
+kundige schulden. Wanneer we hiervoor 
+corrigeren ligt de ΓÇÿzuivereΓÇÖ Kortrijkse 
+schuld die weegt op de AFM (blauwe lijn 
+hiernaast en balken rood, groen en grijs 
+hieronder) 300 EUR/inw hoger dan in 
+2014. De grote helft van de totale 
+toename wordt dus verklaard door 
+schulden die niet wegen op de AFM.  
+ 
+ 
+2/ E├⌐n miljoen EURO nu is minder waard dan ├⌐├⌐n miljoen EURO vele jaren terug, zeker in tijden van hoge 
+inflatie. De schuldgraad corrigeert hiervoor en relateert de schuld aan het totaal van de exploitatie-
+ontvangsten (die ook meestijgen met de inflatie). De bruine lijn toont de evolutie van de schuldgraad sinds 
+2014. De schuldgraad is gestegen tot 92,4%, maar ligt nog steeds lager dan beginjaren van de BBC.  
+ 
+ 
+ 
+ 
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+Kortrijk/inw
+Totaal/inw
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0
+25.000.000
+50.000.000
+75.000.000
+100.000.000
+125.000.000
+150.000.000
+175.000.000
+200.000.000
+225.000.000
+250.000.000
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Stad, eigen leningen
+Stad, doorgeef Parko & Sok
+OCMW
+Stad, overige doorgeef
+Boekhoudkundig
+Schuldgraad
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+12
+
+===== PAGE 13 =====
+1.3 Inhoudelijke evaluatie BSV 
+In de beleidsevaluatie worden alle acties ├⌐├⌐n voor ├⌐├⌐n ge├½valueerd. We beperken ons hier tot een 
+samenvatting van de inhoudelijke evaluatie. In globo kan gesteld worden dat de uitvoering van het 
+meerjarenplan op schema zit (ten opzichte van AMJP5). 93,8% van de acties is hetzij volledig gerealiseerd, 
+hetzij uitgevoerd/op schema. 4,3% van de projecten is vertraagd. Slechts 0,7% kreeg de status 
+knipperlicht/aandachtspunt.  
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+Kortrijk - Grote Markt 54
+NIS 34022
+interne rapportering
+13
+
+===== PAGE 14 =====
+1.4 Investeringsbudget 
+1.4.1 
+Synthesetabel 
+* IB = AMJP5-raming opgemaakt in najaar 2024, voor de overdracht JR24 -> 2025
+EB = budget na overdracht uit JR24 
+In 2025 werd voor 57M ge├»nvesteerd, dat is 13,2M minder dan in 2024. In de uitgaven 2020-2025 (totale 
+uitgaven 6 boekjaren = 323M) is duidelijk een legislatuurcyclus merkbaar met een piek in 2024 (70,2M). In 
+totaal werden 323M uitgaven gedaan in de volledige planningsperiode 2020-2025.   
+De ontvangsten namen in 2025 toe met 8,7M tot 17,8M. Ook dat is niet abnormaal: om toekende subsidies te 
+kunnen claimen moeten eerst alle achterliggende subsidiabele uitgaven zijn gebeurd. In totaal werden 94,6M 
+ontvangsten ge├»nd in de planningsperiode 2020-2025.   
+De combinatie van lagere uitgaven en hogere ontvangsten in 2025, zorgt voor een forse daling van het saldo 
+tussen beide met 22M, in casu van 61,2M in JR24 tot 39,2M in JR25. In de totale planningsperiode 2020-2025 
+bedraagt het netto-investeringsbudget 228,4M (323M uitgaven min 94,6M ontvangsten).  
+De synthesetabel bovenaan bevat ook de vergelijking met het budget. Het verschil tussen het eindbudget 
+(EB25) en het initieel budget (IB25) is de overdracht naar aanleiding van de jaarrekening 2024. Gezien de 
+jaarrekening ook uitgaven en ontvangsten met betrekking tot die overdracht bevat, is de vergelijking met EB 
+meest zinvol. De realisatiegraad van de uitgaven bedraagt 61,9%; aan ontvangstenzijde is de realisatiegraad 
+ongeveer even groot. Merk op dat de realisatiegraad van de uitgaven lager ligt dan de vorige jaren (toen  
+gemiddeld rond de 80%) aangezien geen AMJP6 werd uitgevoerd.  
+Investerings-
+budget (MIO)
+JR20
+JR21
+JR22
+JR23
+JR24
+JR25
+JR25-
+JR24
+EB25
+JR25/
+EB25
+IB25
+JR25/
+IB25
+Uitgaven
+31,0
+37,3
+59,5
+67,9
+70,2
+57,0
+-13,2
+92,1
+61,9%
+70,2
+81,2%
+Ontvangsten
+10,5
+16,6
+30,7
+9,9
+9,1
+17,8
+8,7
+29,3
+60,8%
+21,9
+81,1%
+Saldo
+-20,5
+-20,7
+-28,9
+-58,0
+-61,2
+-39,2
+22,0
+-62,9
+62,4%
+-48,3
+81,2%
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+14
+
+===== PAGE 15 =====
+Het overgrote deel van de investeringsuitgaven heeft betrekking op Materi├½le Vaste Activa (55,5M). Het betreft 
+alle investeringen in gebouwen, wegenis etc. Het gerealiseerd bedrag ligt ruim 10M lager dan vorig jaar en is 
+goed voor een realisatiegraad van 65%. De investeringen in Immateri├½le Vaste Activa (oa. software & studies) 
+bedragen 0,3M en liggen dicht op de raming. Er is voor 1,1M aan investeringssubsidies gegeven. De grote helft 
+betreft het regulier investeringsbudget Fluvia (596K). Andere significante bedragen hebben betrekking op het 
+jongerenatelier en bolwerk. De re├½le uitgaven aan investeringssubsidies zijn beduidend minder dan verwacht. 
+De verklaring zit vooral bij 2 grote projecten nl. vertraging op de kazernering Fluvia en op de Overeenkomst 
+Kortrijk Voetbalt, in mindere mate ook bij de kerkfabrieken. De detail-lijst van alle investeringssubsidies is terug 
+te vinden in punt 1.4.3.  
+In 2025 zijn voor 17,8M investeringsontvangsten gerealiseerd, dat is bijna dubbel zoveel als in 2024 en 2023. 
+Merk op dat 2022 een atypisch jaar was door de grote desinvestering van Blauwpoort Waregem. 
+Patrimoniumverkopen waren goed voor 1,5M in 2025. Significante verkopen betroffen gronden op de 
+Blekerijsite (555K), Kapittelstraat 14 (518K) en het Breydelhuis (375K).  
+Er werd voor 16,2M subsidies ontvangen in 2025. De grootste subsidies hadden betrekking op het dossier N43 
+(3,8M), Masterplan Bissegem (2,5M), museum Abby (2,2M), heraanleg Bellegemsestraat en Bellegemkerkdreef 
+(1,4M), buitenschil klooster (1,2M) en de renovatie van de schouwburg (1M). De overige subsidies zijn kleiner 
+dan 1M en hebben vooral betrekking op werken openbaar domein ΓÇô zie detaillijst in 1.4.4.   
+Als we vergelijken met het eindbudget, zien we dat de subsidies relatief goed werden ingeschat (realisatiegraad 
+67,3%). De ontvangsten uit verkopen lagen beduidend onder de verwachtingen (realisatiegraad 29,3%). 
+1.4.2 Grootste investeringsprojecten 2025 
+Op 14 investeringsprojecten werd meer dan 1M uitgegeven in 2025. Deze projecten vertegenwoordigen samen 
+meer dan drie kwart van alle uitgaven 2025. De schouwburg was met voorsprong het grootste project in 2025, 
+met 10,6M aan uitgaven. Ook op het Masterplan Bissegem werd meer dan 5M gespendeerd.  
+We merken op dat we hier enkel kijken naar de uitgaven uit de rekening 2025. Op de betreffende projecten 
+kunnen al uitgaven gebeurd zijn in de vorige jaarrekeningen of kunnen er nog volgen in de toekomst.  
+Aan ontvangstenzijde waren er 7 projecten met een bedrag boven het miljoen. Het dossier N43c is het grootste 
+met 3,8M aan investeringssubsidies.   
+Investeringsbudget (MIO)
+JR20
+JR21
+JR22
+JR23
+JR24
+JR25
+JR25-
+JR24
+EB25
+JR25/
+EB25
+IB25
+JR25/
+IB25
+Uitgaven
+31,0
+37,3
+59,5
+67,9
+70,2
+57,0
+-13,2
+92,1
+61,9%
+70,2
+81,2%
+Financi├½le vaste activa
+3,2
+0,3
+0,0
+0,5
+0,0
+0,0
+0,0
+0,0 128,0%
+0,0
+Materi├½le vaste activa
+26,6
+32,0
+56,2
+64,0
+65,6
+55,5
+-10,1
+85,4
+65,0%
+63,3
+87,7%
+Immateri├½le vaste activa
+0,2
+0,7
+0,6
+0,5
+1,4
+0,3
+-1,1
+0,3
+92,3%
+0,9
+32,3%
+Investeringssubsidies
+1,0
+4,3
+2,7
+3,0
+3,2
+1,1
+-2,1
+6,4
+16,6%
+6,0
+17,6%
+Ontvangsten
+10,5
+16,6
+30,7
+9,9
+9,1
+17,8
+8,7
+29,3
+60,8%
+21,9
+81,1%
+IP "verkopen 20-25"
+3,0
+4,4
+27,0
+1,1
+0,5
+1,5
+1,1
+5,2
+29,3%
+5,2
+29,5%
+Subsidies e.a. 
+7,6
+12,2
+3,7
+8,8
+8,6
+16,2
+7,6
+24,1
+67,3%
+14,7
+110,3%
+Netto
+-20,5
+-20,7
+-28,9
+-58,0
+-61,2
+-39,2
+22,0
+-62,9
+62,4%
+-48,3
+81,2%
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+Kortrijk - Grote Markt 54
+NIS 34022
+interne rapportering
+15
+
+===== PAGE 16 =====
+ 
+ 
+ 
+ 
+ 
+Investeringsuitgaven > 1000K
+JR 2025
+Masterplan schouwburg
+10.595
+Masterplan Bissegem
+5.836
+Stationsomgeving: fase 2
+4.019
+SIB gebouwen
+3.643
+Verkeersveiligheidsfonds: Fietsroutes
+3.575
+Vernieuwen straten
+2.756
+Verledding openbare verlichting
+2.441
+Stadsliving, Atelier vd identiteit Groeningeabdij
+2.403
+Bellegembos - aanleg wegenis
+1.963
+Zorgcampus Sint-Jozef
+1.924
+SIB Wagenpark
+1.432
+Centrum Warande 2e fase
+1.308
+Heraanleg historisch centrum
+1.108
+SIB IT
+1.009
+Investeringsontvangsten > 1000K
+JR 2025
+Verkeersveiligheidsfonds: Fietsroutes
+3.802
+Masterplan Bissegem
+2.474
+Stadsliving, Atelier vd identiteit Groeningeabdij
+2.239
+Verkopen 2020-25
+1.524
+Vernieuwen straten
+1.365
+Buitenschil klooster Zrs Augustinessen
+1.226
+Masterplan schouwburg
+1.027
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+16
+
+===== PAGE 17 =====
+1.4.3 Toegestane investeringssubsidies 
+1.4.4 Detail-lijst alle investeringsprojecten 
+In de beleidsevaluatie 2.1 vind je de investeringsuitgaven gekoppeld aan de acties uit het meerjarenplan. Elk 
+investeringsproject gekoppeld aan een prioritaire actie krijgt daarenboven een aparte investeringsfiche in de 
+BBC-schemaΓÇÖs T3 (zie punt 2.3.3). Deze wettelijke rapportering is enerzijds heel uitgebreid, maar mist 
+anderzijds wat overzicht. Verder omvat ze toch niet het volledige investeringsbudget. Niet alle 
+investeringsprojecten zijn immers gekoppeld aan acties, bv. SIBs, investeringstoelagen, afwerken Plan Nieuw 
+KortrijkΓÇª  
+Om aan deze nadelen tegemoet te komen, geven we hieronder een overzicht van het volledige 
+investeringsbudget, met daarbij de realisatie van de uitgaven en ontvangsten 2025. We vergelijken enerzijds 
+met het eindbudget, inclusief overdracht uit de JR24 en kleine budgetverschuivingen (zogenaamde ARAΓÇÖs). We 
+vergelijking ook met het initieel budget (exclusief overdracht en ARAΓÇÖs).  
+Investeringstoelages
+JR20
+JR21
+JR22
+JR23
+JR24
+B25
+JR25
+B25-JR25
+JR25/B25
+Veiligheidsdiensten
+503.010
+    
+2.738.610
+ 
+1.658.070
+ 
+1.773.046
+ 
+2.167.070
+ 
+3.150.170
+ 
+678.381
+    
+2.471.789
+   
+22%
+Dotatie Fluvia
+503.010
+    
+503.010
+    
+540.270
+    
+540.270
+    
+596.160
+    
+596.160
+    
+596.160
+    
+- 
+100%
+Kazerneringsplan Fluvia
+-
+           
+2.235.600
+ 
+1.117.800
+ 
+1.232.776
+ 
+1.570.910
+ 
+2.554.010
+ 
+82.221
+      
+2.471.789
+   
+3%
+Dienstverlening en sociaal beleid
+- 
+64.524
+ 
+- 
+-
+249.922
+ 
+50.078
+      
+-19.274
+ 
+69.353
+        
+-38%
+Investeringstoelage buurtbib 3 Hofsteden
+- 
+64.524
+      
+- 
+-
+           
+-
+           
+-
+           
+- 
+- 
+0%
+Wijkgezondheidscentrum
+-
+           
+-
+           
+-
+           
+-
+           
+249.922
+    
+50.078
+      
+-19.274
+ 
+69.353
+        
+-38%
+Ruimte
+213.657
+    
+1.183.509
+ 
+643.533
+    
+351.494
+    
+448.849
+    
+518.095
+    
+28.569
+ 
+489.525
+      
+6%
+A.A.P. Atypisch Atelier Publiek - tuin
+-
+           
+45.000
+      
+-
+           
+5.000
+        
+-
+           
+-
+           
+-
+           
+- 
+0%
+Bastion Collegebrug
+-
+           
+167.139
+    
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Centraal Kerkbestuur Centrum
+-
+           
+-
+           
+503.985
+    
+186.035
+    
+408.689
+    
+380.650
+    
+28.569
+      
+352.081
+      
+8%
+Centraal Kerkbestuur Rand
+-
+           
+-
+           
+137.048
+    
+138.966
+    
+40.160
+      
+10.376
+      
+-
+           
+10.376
+        
+0%
+Investeringstoelage aanleg terras KFC Marke
+-
+           
+12.500
+      
+2.500
+        
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Investeringstoelage accomodatie sporthal Marke
+278
+          
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Kerkfabrieken St-Amandus
+-
+           
+12.219
+      
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Kerkfabrieken St-Antonius
+-
+           
+38.575
+      
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Kerkfabrieken St-Audomarus
+-
+           
+17.614
+      
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Kerkfabrieken St-Brixius
+-
+           
+20.000
+      
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Kerkfabrieken St-Elisabeth
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+- 
+0%
+Kerkfabrieken St-Eutropius
+-
+           
+9.978
+        
+-
+           
+-
+           
+-
+       
+===== PAGE 18 =====
+Actie
+Project
+IB 2025
+EB 2025
+JR 2025
+IB 2025
+EB 2025
+JR 2025
+2.1.3
+Vernieuwen straten
+3.713.597
+3.894.939
+2.755.604
+732.319
+902.714
+1.365.000
+Heraanleg Bellegemsestraat + Bellegemkerkdreef
+1.462.691
+1.784.117
+126.971
+387.760
+387.760
+1.365.000
+Kleine straten en overige werken openbaar domein
+2.171.127
+2.121.089
+2.574.236
+228.257
+398.652
+0
+Steenstraat Noord + Roeselaarsestraat heraanleg
+65.404
+-128.680
+39.223
+116.302
+116.302
+0
+N8 Studieopdracht
+14.375
+118.413
+15.173
+2.1.4
+Heraanleg historisch centrum
+943.865
+443.734
+1.108.200
+0
+150.000
+150.000
+Heraanleg straten
+943.865
+428.734
+1.108.200
+0
+150.000
+150.000
+Uitbreiding begijnhofpark
+0
+15.000
+0
+2.1.5
+Steenwegenactieplan
+34.063
+50.000
+0
+Studie heraanleg Meensesteenweg
+34.063
+50.000
+0
+2.2.6
+Verkeersveiligheidsfonds: Fietsroutes
+3.458.110
+3.702.113
+3.574.824
+4.748.690
+4.728.257
+3.802.289
+Fietspad Overzetweg - fietsfonds
+125
+900
+0
+Fietspaden en riolering N43 incl parking Don Bosco
+2.396.485
+2.531.103
+2.012.797
+4.748.690
+4.748.690
+3.802.289
+Fietsroutes
+1.004.655
+1.110.840
+1.554.420
+Doorsteek Euroshop
+6.845
+9.270
+7.607
+0
+-20.433
+0
+Fietsp. Baliestr: tss Kleine Marktstr - Ijzerpoort
+50.000
+50.000
+0
+2.2.8
+Verkeersveiligheidsfonds: Fietssnelwegen
+236.291
+1.690.119
+929.961
+57.638
+463.636
+0
+N328 tss spoor en Waterhoennest aanl fiets & groen
+0
+862.584
+829.440
+Toegankelijk maken van de Heulebeekvallei┬á+ N50c
+57.638
+463.636
+0
+Toegankelijkh Heulebeekvallei┬á+ N50c F2 N50c
+213.115
+651.001
+48.468
+Toegankelijkh Heulebeekvallei+N50c F1 Hullebroeckl
+23.176
+176.534
+52.053
+2.3.1
+Fietsambassade
+0
+5.233
+7.522
+2.4.6
+Heraanleg Doorniksew / Doorniksestnwg ifv trambus
+63.955
+31.572
+107.412
+Fase 1 Doorniksewijk incl. kp Kanon
+63.955
+31.572
+107.412
+2.5.2
+Mobiliteitsplan
+0
+28.578
+19.747
+2.5.3
+Parking station
+388.942
+256.846
+39.718
+3.1.1
+NatuurbanK
+78.971
+78.971
+0
+3.1.2
+Preshoekbos
+0
+40.287
+0
+Ecotunnel
+0
+11.932
+0
+Inv toelage inrichting
+0
+28.355
+0
+3.1.3
+Bossen, natuur en beken incl. Groenfonds
+1.139.327
+1.843.463
+78.207
+358.000
+431.304
+198.060
+Water-Land-Schap
+0
+-2.265
+0
+Tombroekvallei - Rollegem
+0
+13.400
+0
+0
+-11.531
+0
+Pluimbeekvallei - stadsgroen Langwater
+0
+387.675
+0
+0
+50.000
+0
+Geen subproject
+1.139.327
+1.444.654
+78.207
+358.000
+392.835
+198.060
+3.2.1
+Stadsgroen Ghellinck
+0
+-248
+0
+Fase 1
+0
+-248
+0
+3.2.2
+Ecologisch park Vlasakker
+0
+-13.958
+661
+3.2.3
+V-tex site
+738.920
+837.104
+81.655
+1.500.000
+1.500.000
+0
+3.2.4
+Stadsgroen Marionetten
+21.448
+259.727
+3.729
+Fase 2
+21.448
+259.727
+3.729
+3.2.6
+Begraafplaatsen
+500.000
+693.388
+347.948
+3.2.7
+Heulepark
+9.000
+310.712
+119.002
+78.500
+157.000
+126.624
+Heulepark fase 3 - heraanleg bosje en paden
+9.000
+119.064
+119.002
+78.500
+157.000
+126.624
+Heulepark fase 4 - restauratie brugjes en hek
+0
+191.648
+0
+3.3.1
+Parken
+152.013
+187.017
+0
+0
+-8.866
+0
+Groenadoptie Herderstraat
+0
+-8.866
+0
+Geen subproject
+152.013
+187.017
+0
+3.4.1
+Energiefonds
+1.825.329
+1.709.111
+655.785
+102.266
+97.419
+1.857
+Zonnepanelen
+0
+142.374
+142.460
+14.450
+14.450
+0
+Energiezorgplan Fluvius
+1.000.000
+587.196
+0
+Geen subproject
+825.329
+979.541
+513.326
+87.816
+82.969
+1.857
+4.1.1
+Opfrissen en vergroenen winkelwandelgebied
+82.612
+250.736
+211.374
+5.6.4
+Deelfabriek
+0
+246.516
+20.018
+0
+0
+-60
+5.7.2
+Zorgcampus Sint-Jozef
+3.598.107
+4.246.687
+1.923.558
+477.833
+191.134
+0
+5.7.4
+Wijkgezondheidscentrum
+0
+88.743
+18.882
+0
+175.000
+174.999
+6.2.2
+Open Sportpark: Wembley
+91.774
+74.008
+1.561
+Publieke ruimte
+0
+-27.766
+1.561
+Sportinfra: uitbreiding & optimal. centraal gebouw
+91.774
+101.774
+0
+6.2.3
+Buitenkleedkamers SC Lange Munte
+0
+169.281
+0
+6.3.1
+Aanleggen cricketpit
+===== PAGE 19 =====
+Actie
+Project
+IB 2025
+EB 2025
+JR 2025
+IB 2025
+EB 2025
+JR 2025
+Uitgave
+Ontvangst
+6.6.6
+Kunst publieke ruimte
+0
+46.731
+75.930
+0
+27.150
+26.880
+Happily Ever After (R. Valdes) ipv Spiegelletters
+0
+37.700
+55.710
+0
+26.880
+26.880
+Basiawen ando karti (Mirga Tas)
+0
+-7.613
+0
+The lamp of Sacrifice - Nathan Coley
+0
+-2.250
+0
+De Sluier
+0
+12.720
+12.720
+Stille Strijd
+0
+7.500
+7.500
+Geen subproject
+0
+-1.326
+0
+0
+270
+0
+6.6.10
+Masterplan Schouwburg fase 1 (publieksgedeelte)
+13.750.000 17.186.021 10.595.459
+2.270.000
+2.270.000
+1.026.552
+6.6.14
+Vernieuwen van het muziekcentrum
+50.000
+127.133
+43.192
+Groengevel muziekcentrum
+50.000
+127.133
+43.192
+6.7.1
+Zusters Augustinessen
+0
+361.817
+157.683
+0
+1.283.574
+1.225.574
+Renovatie buitenschil Klooster Zusters Augustiness
+0
+361.817
+157.683
+0
+1.283.574
+1.225.574
+6.7.3
+Begijnhof - heraanleg fase 10
+0
+2.464
+0
+7.1.4
+Depot Ruimte: site KGM
+0
+288.842
+82.066
+Bouwwerken
+0
+288.842
+82.066
+7.4.5
+Kazerneringsplan Fluvia
+2.554.010
+2.554.010
+82.221
+Investeringstoelage
+2.554.010
+2.554.010
+82.221
+7.6.2
+Camerabewaking
+315.000
+586.491
+136.064
+7.8.3
+Trajectcontrole
+0
+39.569
+0
+7.8.5
+Verkeersveiligheidsfonds: gevaarlijke kruispunten
+336.958
+721.966
+613.976
+-17.786
+10.000
+10.000
+Filips vd Elzaslaan-Toekomststraat-Sint-Denijsestr
+0
+1.541
+0
+-27.786
+0
+0
+Sluis 9
+336.958
+720.425
+613.976
+10.000
+10.000
+10.000
+7.8.6
+Verkeersveiligheidsfonds: schoolomgevingen
+117.250
+-16.795
+45.771
+Steenstraat deel Heulsekasteelstraat (Zuid)
+117.250
+-16.795
+45.771
+8.2.4
+Zwevegemsestraat - Cine Palace
+1.141.976
+1.256.839
+583.941
+550.000
+550.000
+0
+Tattoo Eddy
+0
+-9.273
+2.057
+Woningen
+0
+-11.736
+5.097
+550.000
+550.000
+0
+Cine Palace Fase 1
+0
+-24.332
+23.222
+Cine Palace Fase 2
+1.141.976
+1.302.181
+553.565
+8.4.2
+Compensatie betonstop / planschade-vergoedingen
+986.000
+224.778
+26.314
+8.5.1
+Wijkgroen en volkstuinen
+224.350
+287.449
+123.879
+Overig wijkgroen
+224.350
+287.449
+123.879
+8.5.2
+Aanleggen ravotzones / speelruimte
+625
+103.975
+60.897
+0
+-15.000
+0
+8.6.3
+Energiebesparende maatregelen relance jeugdorganis
+0
+357.966
+117.134
+Geen subproject
+0
+357.966
+117.134
+Masterplan jeugdinfrastructuur
+75.352
+231.672
+158.015
+0
+150.000
+150.000
+Chiro Stine
+29.076
+35.396
+7.562
+Chiro Marke aankoop pand Krinkel
+17.200
+17.200
+454
+Chiro Tandem - Depot Rollegem
+29.076
+29.076
+0
+Forum Bolwerk
+0
+150.000
+150.000
+0
+150.000
+150.000
+8.6.4
+Centrum Warande
+1.078.222
+1.930.700
+1.308.040
+657.695
+352.815
+195.417
+1e fase
+0
+3.573
+1.416
+2e fase
+1.078.222
+1.924.866
+1.304.364
+657.695
+352.815
+195.417
+Geen subproject
+0
+2.260
+2.260
+9.1.1
+Doortrekken verlaagde Leieboorden
+1.653.279
+-63.628
+269.784
+170.341
+851.703
+0
+9.1.2
+Landschapstuin tip Buda
+0
+48.097
+0
+9.1.4
+Stationsomgeving: fase 2
+4.609.023
+6.493.024
+4.018.929
+52.762
+52.762
+22.500
+KOS 15.3 + 2 Omgevingsaanleg boven parking
+3.783.258
+1.430.759
+1.212.191
+52.762
+52.762
+0
+KOS 15.1 Omgevingsaanleg boven parking
+500.000
+2.768.719
+2.268.673
+0
+0
+22.500
+SWO3 Overkoepelend
+0
+1.908
+410.878
+SWO2 Overkoepelend
+71.458
+187.956
+0
+SWO3 Tacklaan heraanleg
+0
+521.485
+0
+KOS 14 Parking / tunnels - rioleringswerken
+254.307
+1.582.196
+127.188
+9.1.5
+Heraanleg Casino- Conservatoriumpl+studie Ramblas
+30.000
+476.238
+425.078
+0
+240.000
+0
+Heraanleg Casino- en Conservatoriumplein
+30.000
+476.238
+425.078
+0
+240.000
+0
+9.1.9
+Groeningelaan - heraanleg parking
+20.000
+160.746
+1.277
+9.1.10
+Masterplan Bissegem
+4.254.932
+6.104.510
+5.835.526
+828.669
+953.669
+2.473.923
+Driekerkenstraat
+838.491
+2.173.572
+1.666.338
+59.626
+59.626
+1.123.338
+Kerk
+3.416.441
+3.912.021
+3.812.714
+125.000
+250.000
+62.500
+SVP Konnector
+644.043
+6
+===== PAGE 20 =====
+Actie
+Project
+IB 2025
+EB 2025
+JR 2025
+IB 2025
+EB 2025
+JR 2025
+Uitgave
+Ontvangst
+22.1.8
+OLV-Kerk: nevenbestemming / scenografie 1302
+0
+9.093
+0
+50.1.2
+SIB aankopen Vrije tijd
+0
+0
+18.876
+50.2.1
+IT Projecten en data
+42.042
+58.850
+146.214
+42.042
+58.850
+0
+50.2.3
+IT Projecten en data
+0
+0
+11.211
+50.2.5
+SHIFT
+0
+13.076
+13.076
+0
+5.059
+10.587
+Geen actie
+Academie
+40.000
+62.184
+9.627
+Tijdelijke huisvesting klaslokalen
+0
+15.000
+1.186
+MP Academie
+40.000
+47.184
+1.186
+Geen subproject
+0
+0
+7.254
+Afwerken PNK 2014-2019
+2.726.770
+4.061.742
+4.825.608
+1.644.179
+3.596.352
+2.398.605
+Aankoop W&Z gronden (Leiewerken)
+0
+-105.120
+0
+Aanleg DWA-riool tss ontdubbelde riool -Lindenlaan
+0
+4.396
+0
+0
+14.838
+0
+Aansl woningen Waterhoennest+afkop Schoonwaterbeek
+119.579
+386.930
+2.955
+70.200
+135.000
+0
+Baggaertshof: studie + herbestemming
+40.000
+40.000
+0
+Bellegembos - aanleg wegenis
+675.704
+790.161
+1.962.615
+737.808
+737.808
+746.000
+Broelkaai - Verzetskaai: fietspad Broeltorens
+13.303
+212.841
+185.024
+Broelkaai - Verzetskaai: Kalkovenbrug
+15.625
+40.000
+0
+Centrale infrastr Kloosterstraat - Baliestraat
+7.535
+42.635
+0
+Cyriel Buyssestraat (afkoppelen RWA)
+0
+0
+11.503
+Disgracht (Guido Gezellel - Heulebeek) RWA leiding
+20.000
+4.922
+3.532
+Fietsdoorsteek St. Amandscollege
+0
+38.489
+0
+Heraanleg Heuleplaats
+0
+18.261
+17.851
+Herinrichting schoolomgeving Pottelberg
+0
+28.383
+0
+0
+889.966
+667.474
+KMO-zone Torkonjestraat groenaanleg
+0
+5.560
+0
+Lange Munte kunstgrasveld
+48.752
+46.444
+31.651
+Persleiding RWA pompst E17-Gr Wallebeek: bufferbek
+29.404
+16.142
+0
+92.064
+57.351
+0
+Persleiding RWA pompst E17-Gr Wallebeek: persleidi
+69.987
+254.720
+201.341
+0
+556.071
+425.000
+Pres. Kennedylaan tss Beneluxlaan - Munkendoornstr
+1.030
+16.473
+0
+Rioleringswerken Beeklaan, Wielewaall., Morinnestr
+1.629
+26.068
+0
+0
+-8.355
+0
+Riool- en wegenwerken Venning
+0
+29.296
+0
+Sanering en herinrichting van Walle
+48.495
+434.850
+0
+127.812
+511.247
+0
+Site De Kien
+5.500
+14.121
+0
+Solidariteitsbijdrage KMO-zone EMDEKA
+0
+7.750
+0
+Subsidie De Weister
+237.578
+237.578
+237.578
+Subsidie lening VMSW
+27.548
+27.548
+27.547
+SVP groen in de stad Tinekesbos en omg. Demeester
+23.441
+122.500
+0
+39.063
+127.500
+0
+Verledding openbare verlichting
+1.632.365
+1.632.365
+2.440.786
+263.355
+263.355
+263.355
+Wijkcompostering
+1.156
+0
+0
+Pres Kennedylaan: aank gronden rotonde +verbreding
+20.565
+0
+0
+Fietsentellers
+1.453
+0
+0
+Beleidsstudies
+676.011
+664.950
+92.827
+0
+0
+13.000
+Diverse studies Afsprakennota 2020-34
+5.715
+39.018
+20.281
+Multimodaal verkeersmodel
+10.000
+10.204
+0
+Projectbegeleiding Kanaal Bossuit- Kortrijk
+1.406
+22.892
+0
+Ruimtelijk beleidsplan
+222.689
+197.536
+0
+RUP KVK Stadion
+132.035
+55.004
+0
+RUP Mewaf
+0
+42.500
+5.864
+RUP Park N50
+0
+0
+1.029
+0
+0
+6.000
+RUP 't Hoge
+0
+0
+7.000
+RUP Weggevoerdenlaan
+1.875
+28.020
+9.904
+Haalbaarheidsstudie Park 17 complex project
+6.250
+0
+0
+Noord-Zuidas
+0
+75.167
+22.758
+Hemelwater en droogteplan
+0
+24.908
+16.708
+Plan MER Weggevoerdenlaan
+120.000
+100.200
+3.678
+Stedenbouwkundige verordening
+20.000
+0
+0
+Projectco├╢rdinatie Weggevoerdenlaan Van Marcke
+0
+49.501
+11.246
+Bomeninventaris en beleidsplan
+24.031
+0
+0
+Kruiskouter - Leiemeersen
+0
+20.000
+1.358
+Geen subproject
+132.010
+0
+0
+Bib Leiestraat
+0
+55.329
+0
+Cafetaria SC Lange Munte
+0
+369
+0
+Dotatie Fluvia
+596.160
+596.160
+596.160
+Kortrijk - Grote Markt 54
+NIS 34022
+Jaarrekening 2025 
+Volgnummer budgettair journaal: 215589
+interne rapportering
+20
+
