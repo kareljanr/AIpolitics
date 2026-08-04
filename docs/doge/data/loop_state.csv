@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T15:00:00Z,rq_826,836,no,tick836 UHasselt JV2025 dual CRC; next rq_827 residual dual L5; progress@840 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T15:30:00Z,rq_827,837,no,tick837 KU Leuven JV2025 dual UHasselt; next rq_828 residual dual L5; progress@840 in 3; rq_116 deferred

@@ -1,0 +1,552 @@
+gap_ambtenaren_centralise_consultancy_l5|9|Federal>Ambtenaren>centralisation_consultance_L5|Cost-benefit analyses and projected/realised savings EUR from support centralisation <500 staff and >500 ETP ratio refor
+gap_asiel_dublin_masterplan_l5|9|Federal>Asiel>Dublin_Masterplan_L5|L5 cash behind 038 residual: 2nd Dublin centre site/capex/opex 2026-29; Fast Track pilot budget and KPIs; aanmeldcentrum
+gap_beliris_metro3_save25_l5|9|Federal>Beliris>Metro3_L5|L5 residual Beliris: cash-by-year recurrent costs of Nord suspension since 2023-03-17; monthly cleanup costs after 126k 
+gap_bosa_provisions_digital_l5|9|Federal>BOSA>provisions_digital_L5|Interdept provision drawdown by receiving department 2024-2026 for justice/damages 630.7 index 485.2 Ukraine 221 securit
+gap_def_safe_ukraine_l5|9|Federal>Defence>SAFE_Ukraine_L5|SAFE BE 8.34bn: programme list, drawdown schedule, interest terms, Strategic Vision mapping; Ukraine 1bn/yr cash path 20
+gap_fed_consultancy_2023_26_update|9|Federal>cross>consultancy_post_CoA_L5|Official cash-by-year consultancy 2023-2026 same perimeter as CoA 137 orgs (IT/non-IT IH vs OO); top20 org L5; Smals bro
+gap_fedasil_oap_loi_org_l5|9|Federal>Fedasil>OAP_LOI_org_L5|Unit cost per federal place behind in-kind 54.6m and capacity 13434; LOI commune list behind 67.1m; org partner ranking 
+gap_fin_vat_demo_sfpim_defence_l5|9|Federal>Finance>taxex_SFPIM_L5|L5 residual Financiën: cash-by-year path to cruise 250m for VAT demo/rebuild and taxpayer volume behind 48k avg; heatpum
+gap_ibz_plan_grote_steden_l5|9|Federal>IBZ>PlanGroteSteden_L5|L5 residual IBZ security: exact EUR for provision Versterking veiligheidsdiensten en terugkeerbeleid (nearly 0.5bn) cash
+gap_isi_bank_inquiry_collection_l5|9|Federal>Finance>AGIsi_bank_L5|AGIsi bank-inquiry established vs collected matrix by year and by direction 2015-2025; aging of open claims on the 2.3bn
+gap_mog2_pez_cfd_tariff_l5|9|Federal>Energy>MOG_II_PEZ_L5|MOG II DC bid prices and confidential CAPEX line breakdown beyond non-conf 7-8bn range; Nautilus Option3 decision path E
+gap_noordzee_pe_zone_faav_l5|9|Federal>Noordzee_Admin>PE_zone_FAAV_L5|PE-zone parcel1 failed award dossier: bid parameters, cost-vs-neighbours analysis results, expected support/CfD or GC pa
+gap_pens_wijninckx_statut_l5|9|Federal>FPD>wijninckx_statut_L5|Absolute euro yield of Wijninckx 12.5pct 2026+; solidarity 4pct above 150k from Jul2027; federal statutory employer pens
+gap_phoenix_cfd_social_energy_l5|9|Federal>Energie>Phoenix_social>L5|CfD strike price and monthly cash 2025-2035; BE-WATT loan terms Shareholder/SDC/WCF amounts by facility; social tariff a
+gap_podmi_rmi_volume_softsave_l5|9|Federal>POD_MI>RMI_volume_softsave_L5|RMI 2085.1m volume vs index split behind +312m YoY; recon Kamer RMI 2085 vs CoA BC 2133 and total OCMW 2309; wet2apr dec
+gap_rail_rer_overrun_l5|9|Federal>Mobiliteit>RER_rail_L5|IF audit report on RER/GEN cost overruns (mission 30 Apr 2025); full cost evolution TUC RAIL/Infrabel analytic accounts;
+gap_regie_nekp_3bn_prison_264m_l5|9|Federal>Regie>NEKP_Justice_L5|L5 residual Regie: multi-year project cash behind NEKP >3bn estimate; investment plan 15yr list of projects >3m each wit
+gap_riziv_corr_tickets_l5|9|Federal>RIZIV>corrections_tickets_L5|Line-by-line drug correction list behind 227.9m; doctor imaging/surgery cuts behind 150m; ticket-moderator tariff schedu
+gap_ss_oisz_recon_fte_l5|9|Federal>SS>OISZ_recon_FTE_L5|Reconcile section24 mega dots ~30.64bn with institutional OISZ budgets (RSZ RSVZ FPD RIZIV FEDRIS) cash 2024-2026 no dou
+gap_sz_tnw_egov_alt_l5|9|Federal>SZ>TNW_eGov_alt_L5|Euro base behind VI/OA TNW envelope 5/7.5/10/15pct 2026-2029; e-Gov 3.0 IT credit annual amounts 2026-2029; IVT alone +2
+gap_werk_unemp_illness_l5|9|Federal>WASO>unemp_illness_L5|RVA unemployment spend cash path pre/post duration-cap reform 2026-2029; OCMW support plan (leefloon reimbursement rate 
+gap_antifraud_method_l5|8|Federal>antifraud>method_yield_L5|Full methodology and measure-level split for 300m fiscal + 300m social antifraud yields 2026-2029; fiscal action plan te
+gap_armoede_davo_hf_l5|8|Federal>Armoede_Grootsteden>DAVO_HF_L5|DAVO/SECAL aggregate cash and caseload 2024-2029 under max path 200→350 EUR/child; L5 split of 24.73m 0.5-line care budg
+gap_aviq_ra2024_residual_l5|8|Wallonie>AViQ>RA2024_residual_L5|Statutory 2024 execution reconciling RA pie 7.155bn to CG initial 6.962bn; divers 391.2m L5; rembours dotation 352.6m ca
+gap_bbi_bank_collection_l5|8|Federal>AABBI>bank_investigations>collection_L5|Cash collection schedule by year 2015-2026 on the 2.3bn assessed in bank-investigation dossiers; CAP completeness metric
+gap_belspo_defence_esa_268m_l5|8|Federal>BELSPO>Defence_ESA_L5|Cash-by-year 2023-2027 for Defence 100m ESA subscription and additional 168m cofinancing; named ESA programme list dual-
+gap_belspo_esa_cm25_fsi_l5|8|Federal>BELSPO>ESA_CM25_FSI>L5|ESA CM25 cash-by-year 2026-2030 Defence 168m + interdept provis 400m + which optional programmes cut by -64m 2026; FSI o
+gap_bpost_beheers_50m_begroting_l5|8|Federal>bpost_Begroting>beheers_package_L5|Named measure list and cash calendar for bpost 50m/yr cost reduction from 2027 (FTE network product mix); signed draft b
+gap_bru_net_primary|8|Bruxelles>HRF>net_primary_exp|Official BCR net primary expenditure growth 2025-2026 vs HRF -0.61pct cap
+gap_bz_dgd_enabel_cso_hum_l5|8|Federal>BZ>DGD_Enabel_CSO_hum_L5|Enabel programme list by partner country behind 169m; CSO beneficiary list and contracts behind liq 175.4m and 2027 eng 
+gap_bz_refi_oda25_l5|8|Federal>BZ>refi_ODA_L5|L5 residual BZ/ODA: cash-by-year 2025-2029 behind FOD BZ complementary refinancing 35m (posts reinforced named list); OD
+gap_caiman_receipts_l5|8|Federal>FPS_Finance>Taxe_Caiman>receipts_L5|Annual Caiman receipts cash-by-year 2015-2025 (IPP/IPM/PM/enrolled/collected); Agisi+AGFisc collection rates post-2022; 
+gap_ccrek_av2025_recs_impl_l5|8|Vlaanderen>Rekenhof>AV2025_recs_impl_L5|Machine-readable L5: (1) full list of 453 recs with status and linked € programmes; (2) cash impact estimate of the 14.2
+gap_ccrek_fed_jv2025_residual_l5|8|Federal>Rekenhof>JV2025_residual_L5|Machine-readable L5: (1) full monitor export of recs with full/in-progress/not-executed status and linked € programmes m
+gap_co2_bijdrage_div_cross_l5|8|Federal>RSZ>CO2_bijdrage>DIV_cross_L5|DIV/KBV vehicle-employer crosswalk protocol status; cash estimate of undeclared CO2 contributions 2020-2025; top-employe
+gap_cocom_bi2026_residual_l5|8|Bruxelles>COCOM>BI2026_residual_L5|Approved general accounts 2019-2024 consolidated SCR+OAA and Samusocial/BrussHelp; justificative budget fiches Iriscare/
+gap_dbfm_fees_full_table_2026|8|Federal>Justitie>DBFM>fees_25y_full|Full 25y cash tables investment+maintenance+facility redevances all DBFM prisons; Antwerp+Dendermonde total engagement; 
+gap_dbfm_justice_redev_path_l5|8|Federal>Justitie>DBFM>redev_path_recon_L5|Per-prison/component split of BA121135 and BA121136 2024-2029; recon to Table41 invest and CoA full stack; 3pct budget m
+gap_debt_interest_implicit_rate_l5|8|Federal>Debt>interest_implicit_rate_L5|Implicit average interest rate by instrument (OLO TC EMTN SURE RRF FIF) 2024-2026; full split of BA 45.10.211001 vs page
+gap_defence_asset_optim_l5|8|Federal>Defence>asset_optim_Belfius_L5|Named asset list and cash-by-year for 3.17bn asset optimisation path (40/30/20/10 2026-29); Belfius 20pct sale process s
+gap_defence_equip_contract_l5|8|Federal>Defensie>equipment_50.2>contract_L5|Named major equipment contracts under eng 13.030bn 2026 with cash-by-year and platform type; munitions stock path vs NAT
+gap_dwv_studies_contractor_l5|8|Vlaanderen>DWV>studieopdrachten>contractors_L5|Named contractors/consortia + cash-by-year 2014-2026 for R0 Noord R0 Oost Brabantnet R4 studies incl OP-posten 9.4m R0N 
+gap_dwv_study_overruns_l5|8|Vlaanderen>MOW>DWV_studies_L5|Full change-order register (verrekeningen/bijakten) EUR by study for R0 Noord/Oost Brabantnet R4 with dates and publicat
+gap_emploi_fte_inspection_rva_l5|8|Federal>Emploi>FTE_inspection_RVA_L5|FTE by OA 21/40/51/52/54/57/58/59 2024-2026 statutair vs contract; controls and recovery yield TSW/TWW/SIOD 2023-2025; f
+gap_energie_etf10_phoenix_l5|8|Federal>Energy>ETF_Phoenix_L5|L5 residual Energie: ETF call9 named 14-project award matrix reconciling 16_970_986.81; ETF 10th call remaining fund exa
+gap_ets_blocked_kyoto_l5|8|Federal>Climate>ETS_blocked_Kyoto|Cash status of 1.8bn SPF Sante ETS waiting account; federal/regional share key 2023-30; CM climate spend ranking for 202
+gap_eu_gni_plastic_tor_mc_l5|8|Federal>EU>GNI_plastic_TOR_MC_L5|Monitoring Committee report 22 Sep 2025 extract for BNI 2026-2029; plastic own resource BE line if any 2024-2029; tradit
+gap_fagg_fees_nat_sciensano_l5|8|Federal>AFMPS>fees_NAT_Sciensano_L5|Fee tariff schedule behind 104.8m; AMM under-collection path vs budget; NAT beneficiary list behind 8.987m; Sciensano co
+gap_fed_cabinets_comms|8|Federal>cabinets+comms|Cabinet and comms official totals
+gap_fed_consultancy_annual_post2022|8|Federal>procurement>consultancy>annual_series|Official annual series 2023-2026 same CoA perimeter (IT/non-IT; IH vs AO; by org top20); BOSA inventory with IT included
+gap_fed_consultancy_inventory_l5|8|Federal>Consultancy>central_inventory_L5|Central exhaustive consultancy inventory 2020-2025 with object procedure award amount duration contractor CPV; annual se
+gap_fed_culture_3inst_l5|8|Federal>Culture>3inst_L5|L5 residual federal culture: signed management contracts 2026-2029 for NOB/Monnaie/Bozar with KPI cash tables; Nationale
+gap_fed_energy_funds_l5|8|Federal>Energie>assignment_funds_L5|L5 cash-by-year 2024-2026 assignment funds to CREG Elia NIRAS Hedera + DG Energie programme split goals; method note for
+gap_fed_skf_cofin_l5|8|Federal>Climate>SKF_cofin_L5|Federal SKF L5: cash-by-year 2026-2032 behind 217m EU share + ~72m cofin; named federal measures and beneficiary classes
+gap_fedasil_save_measures_l5|8|Federal>Fedasil>savings_plan_2026_29>measures_L5|Named 23 additional savings measures cash-by-year 2026-29 (internal 27.1/53.5 core 10.4/32.8 procedure 1.6/134.5) + capa
+gap_finance_ops_fte_it_l5|8|Federal>Financien>ops_IT_FTE_L5|FTE by OA 40/51/52/53/54/61/70 2024-2026; IT vendor top20 under 164m ops; eGov/Smals invoices dual Justice/Police; unit 
+gap_flrbc_ra2025_residual_l5|8|Bruxelles>FLRBC>RA2025_residual_L5|Machine-readable L5: (1) full vs financial-entity BS reconciliation (RA 2.128bn vs CG 1.780bn) and non-financial B2i cas
+gap_fraude_sociale_staff_sanctions_l5|8|Federal>Social_fraud>staff_sanctions_L5|Payroll cash and entity split for 377 fraud staff and 100 social inspection ETP 2026 plus RIZIV ~30 ETP; recovered socia
+gap_fwb_cepage_cost_l5|8|FWB>Enseignement>IT_Cepage>cost_L5|Historical SIE/Gesper/RL10 full costs 2002-25; updated Cepage business case replacing 35.2/95.7m unsubstantiated; RL10 o
+gap_fwb_net_primary|8|FWB>HRF>net_primary_exp|Official FWB net primary expenditure growth 2025-2026 vs HRF 0.74pct cap
+gap_hainaut_asbl_list_2026|8|Hainaut>subsidies>ASBL_entities_ge_50k|Annex budget 2026 listing 199 entities with provincial aids >=50k/yr with amounts and motivation
+gap_ibz_fedasil_fire_astrid_l5|8|Federal>IBZ>Fedasil_fire_Astrid_L5|Fedasil network occupancy/places and cost-per-place behind 702m and declining path to 261m 2029; fire zone list and form
+gap_intsec_dual_use_antifraud_l5|8|Federal>Defence_Police_Finance>intsec_dual_use_antifraud_L5|Named EUR amounts and military-share percentages for internal security items inside sect16 177m (Fed Police helicopter; 
+gap_ipolice_claim_l5|8|Federal>Police>I-Police|I-Police cancel decision + full cash liquidations by year + status of 228.1m vendor claim (esp. 149m lost-gain) + residu
+gap_just_hefboom_childfocus_l5|8|Federal>Justice>Hefboom_Childfocus_L5|Hefboom 21m: FTE fill rate vs 186/1053 vacancies and multi-year cash; Childfocus legal subsidy annual amount and conditi
+gap_justice_digi_l5|8|Federal>Justitie>digitalisering>L5|Cash-by-year 2020-2025 by source (own IDP PHV fine-fund Crossborder) and by actor (SD ICT DTO Crossborder) for all digi 
+gap_justice_legalaid_crossborder_l5|8|Federal>Justitie>legalaid_Crossborder_L5|Legal-aid dossier/point unit costs BA344145-150; Casa Legal KPIs; BOSA 56.32m bpost provis terms and transfer calendar; 
+gap_kanselarij_ncia_ccb_culture_l5|8|Federal>Kanselarij>NCIA_CCB_culture_L5|NCIA construction cash schedule behind eng 137.4m/envelope 137.4m; CCB project list and Smals FTE behind 26.6m; culture 
+gap_kenteken_concessie3_l5|8|Federal>DIV>kentekenplaten>concessie3_L5|Third concession award docs evaluation of concession2; DIV document set refused to CoA 2024; cash-by-year user fees DIV 
+gap_kmo_vat_franchise_skf_l5|8|Federal>SME>VAT_SKF_L5|L5 residual KMO: VAT franchise raise methodology behind 1.48/2.63/4.03/7.02m path and annual impact analyses; Cost Reduc
+gap_metro3_cash_by_year_l5|8|Bruxelles>STIB_Beliris>Metro3>cash_by_year_L5|Cash-by-year spent and committed 2015-2026 by chantier (Constitution Albert Gare du Nord stations lot3 studies); Beliris
+gap_mobility_rail_contract_l5|8|Federal>Mobiliteit>rail_NMBS_Infrabel>L5|NMBS/Infrabel CAPEX project L5 under invest 0.90/1.27bn; ETCS rolling stock BA 511102 cash path; MR savings -65m/+27m al
+gap_natlot_beleid_2026_l5|8|Federal>Nationale_Loterij>verdelingsplan_media_L5|Named L5 top50+ EUR of definitive verdelingsplan 2024 (217.5m) and 2025 (when adopted spring 2026); absolute media/publi
+gap_oap_autonome_credendo_culture_l5|8|Federal>OAP_autonome>Credendo_culture_residual_L5|Credendo claim L5 by country/sector/state-vs-own 2024-26 cash; Monnaie/NOB seat-subsidy TCO and attendance; WHI site uni
+gap_oap_favv_fpb_afd_l5|8|Federal>OAP>FAVV_FPB_AFD_L5|FAVV unit cost BMO/vet behind 45.2m; Smals FTE behind ICT 9.55m; fee vs dot split recon; FPB CM +1.4m purpose; Debt Agen
+gap_otw_dotatie_cash|8|Wallonie>Mobilite>OTW>dotation_cash_by_year|Cash-by-year regional subsidies to OTW/TEC 2023-2026 with budget article codes and perimeter reconciliation Henry 960m v
+gap_phoenix_cfd_strike_l5|8|Federal>Energy>Phoenix_CfD_strike_L5|Strike price (uitoefenprijs) status and cash scenarios 2026-2035 for Phoenix CfD Doel4/Tihange3; Fluxys 100m exceptional
+gap_plan_oxygene_cash|8|Wallonie>CRAC>Plan_Oxygene>cash_by_year|Full Plan Oxygene cash-by-year by commune 2022-2026 and regional interest+capital cost series
+gap_police_fed_budget_l5|8|Federal>Police_federale>budget_2026_residual_L5|Full OA payroll matrix beyond OA40-43; i-Police SSG eval outcome remaining cash; RSR-AC 37.2m project split Focus/Centre
+gap_rail_proc_ypto_tuc_l5|8|Federal>Rail>Ypto_TUC_Infrabel>procurement_L5|Named top contracts cash-by-year Ypto awards >154m class and TUC own-need purchases without tender; regularisation statu
+gap_regie_dots_detentie_l5|8|Federal>Regie>dots_detentiehuizen_DBFM_L5|Detentiehuizen 103.5m site list unit cost; rent dot 492m top landlords; DBFM alt-finance 102.9m by contract recon Antwer
+gap_regie_invest_mp3_l5|8|Federal>Regie>invest_MP3_transit_L5|Merksplas 155.6m contractors places unit cost; MP3 RJI 25.7m status; transit 120m full project list; NOR/Mobius TCO vs N
+gap_rga_prison_cloud_labour_l5|8|Federal>Justitie>RGA>Prison_Cloud_labour_L5|Prison Cloud vendor contracts unit costs; contractor workshop names/margins LI200; welfare project list LI500; dual EPI 
+gap_rsvz_dot_vuln_egov_l5|8|Federal>RSVZ>dot_vuln_egov_L5|Final 2025 and budgeted 2026 evenwichtsdotatie zelfstandigen after Mar 2026 control; vulnerable envelope 25-100m allocat
+gap_saca_eid_consular_fedorest_l5|8|Federal>SACA>eID_consular_FEDOREST_L5|eID/RRN unit cost and Smals/Belnet FTE behind 76.2m; consular passport volume behind 47.6m; FEDOREST meal unit cost/staf
+gap_sante_amu_zorgpersoneel_agency_l5|8|Federal>Sante>AMU_zorgpersoneel_agency_L5|AMU/112 per-service unit costs and operator list behind 239.7m; Zorgpersoneelfonds outcome metrics private/public/Maribe
+gap_secal_recovery_davo_path_l5|8|Federal>SECAL_DAVO>recovery_max_path_L5|Cash-by-year advances and recoveries 2020-2026; projected advance cash under max path 200→350 EUR/child from 2026; recov
+gap_slrb_ra2025_residual_l5|8|Bruxelles>SLRB>RA2025_residual_L5|Machine-readable L5: (1) per-SISP ARS 52.548m and large-family rent cuts 15.272m 2025; (2) per-SISP renovation advances/
+gap_spw_ra2025_residual_l5|8|Wallonie>SPW>RA2025_residual_L5|Machine-readable L5: (1) commune/province split of 2.322bn local financing 2025; (2) top20 prog243 public housing operat
+gap_swcs_ra2025_residual_l5|8|Wallonie>SWCS>RA2025_residual_L5|Machine-readable L5: (1) cash NPL / recovery / write-off for hyp 3.3pct and garantie locative 31pct contentieux 2025; (2
+gap_swl_ra2024_residual_l5|8|Wallonie>SWL>RA2024_residual_L5|Machine-readable L5: (1) cash-by-year drawdown of Plan renovation 1.1675bn grant+zero-loan with PEB outcomes vs 20000 ta
+gap_tv_bc2026_finance_residual_l5|8|Vlaanderen>Lantis>Toekomstverbond>BC2026_finance_residual_L5|Project-bond plafond revision path or alternative equity to cover 2.251bn over-plafond; full bond drawdown cash calendar
+gap_tv_oosterweel_finance_l5|8|Vlaanderen>Lantis>Toekomstverbond>finance_L5|Force majeure/PFAS financing legal framework + cash schedule; BC2026 bond/subloan drawdown by year; Haventrace variant d
+gap_unemp_pay_unit_cost|8|Federal>ONEM>payment channels|L5 split admin compensations ABVV vs ACV vs ACLVB/SYNOVA vs HVW cash-by-year 2022-2026; unit cost per dossier by channel
+gap_vaph_agency_2025_residual_l5|8|Vlaanderen>WVG>VAPH>agency_2025_residual_L5|VEK underexec 52.5m vs waitlist recon; surplus 57m use; RTH 116.8 pilot 20m KPIs; expansion 102.4 named measures; top20 
+gap_vl_cie_l5_beneficiaries|8|Vlaanderen>VLAIO>Carbon_leakage_CIE>beneficiaries_L5|Named CIE/ICL beneficiaries with amounts KBO emission-year 2023-2026 and exception-mechanism list
+gap_vl_cjsm_l5|8|Vlaanderen>CJSM>grants_L5|Top 20 CJSM subsidies
+gap_vl_debt_nonbudget_bridge_l5|8|Vlaanderen>Schuld>nonbudget_debt_bridge_2025|L5 component table bridging ESR vorderingensaldo to Maastricht debt delta 2025 (incl non-budgetary 1069.7m; ESR8/9; Zave
+gap_vl_dienstencheques_tco|8|Vlaanderen>WEWIL>Dienstencheques>TCO|Full annual scheme TCO cash 2023-2026 (user co-pay + VL subsidy + residual federal tax path); recon multi-year measures 
+gap_vl_hernieuwbare_residual_l5|8|Vlaanderen>Energie>Hernieuwbare_residual_L5|Machine-readable L5: (1) annual GSC cash by technology (PV/wind/biomass/biogas/hydro) 2014-2025 and budget-vs-bill split
+gap_vl_persona_agodi_cash|8|Vlaanderen>AGODI>Persona>cash_L5|Persona cash-by-year 2021-26 VAK/VEK vendors FTE; stop audit; extra 10m request; contractor names claims
+gap_vl_wassalon_tender|8|Vlaanderen>Gelijke_Kansen>Het_Wassalon>contractors|Tender specs contractor invoices cash-by-year 2026-2028 and KPI views/listens for Het Wassalon full mediamix; confirm LD
+gap_vmsw_fs3_wm_matrix_l5|8|Vlaanderen>Wonen>VMSW_FS3_L5|FS3 and legacy loan exposures by woonmaatschappij (outstanding, 2025 draws, arrears/NPL); FS3 ristorno calculation detai
+gap_vmsw_jv2025_residual_l5|8|Vlaanderen>VMSW>JV2025_residual_L5|Machine-readable L5: (1) reconciliation of JR total debts 10.499bn vs prior CoA VMSW debt class 3.123bn (which subset / 
+gap_vwf_av2025_residual_l5|8|Vlaanderen>VWF>AV2025_residual_L5|Machine-readable L5: (1) annual euro interest-subsidy residual between lending rate 2.48pct and funding cost ~4.21pct on
+gap_wal_bi2026_l5_matrix|8|Wallonie>Budget>BI2026_L5|Named L5 discretionary matrix BI2026 by DO/programme with CE/CL EUR (culture equality tourism cabinets UAP faculative gr
+gap_wal_fiches_budget_2026|8|Wallonie>budget>fiches_standardisees_2026|Full standardized spend fiches (circulaire 2026/01 annexe 16) initial+aju 2026; DO11-18 programme liquidations; link to 
+gap_wal_forem_aviq_sofico_l5|8|Wallonie>Emploi_Sante_Infra>L5|BI2026 CE/CL split for FOREM programmes 18.102-18.130 titres-services reductions formation; AVIQ financing model review 
+gap_wiv_jv2025_residual_l5|8|Vlaanderen>Wonen>JV2025_residual_L5|Machine-readable L5: (1) structural vacancy 18793 cash cost and renovation backlog by WM; (2) CIR waitlist 215337 vintag
+gap_aging_reform_cash_l5|7|Federal>policy>aging_reforms>cash_delivery_L5|Cash-by-year delivery 2026-2029 of exp control >2.7bn and LT-sick 1.9bn paths; measure list with BGD codes; SCvV update 
+gap_aviq_branch_l5|7|Wallonie>AVIQ>branches_operators_L5|Cash-by-year split inside reglementees 1.849bn and paritaires 1.750bn: handicap vs sante vs aging; top operators EUR 202
+gap_bbbc_l5_cash|7|Federal>PHV>BBBC>cash_L5|Cash-by-year 2021-2026 BBBC components (23.66/1.32/2.3/0.794m) outturn vs plan; named 12 call1 projects amounts and jury
+gap_bosa_provisions_l5_2026|7|Federal>BOSA>provisions_interdept_L5|Full 5-line interdept provision table 2026 with recipient SPF and AB codes; residual justice-divers L5 beyond published 
+gap_bpost_overcomp_claim_89m|7|Federal>bpost>overcomp_claim_receipt|Status of 89.2m overcompensation recovery claim (bank accounts / traffic fines / plates); external legal report; CM vali
+gap_bpost_uso_split|7|Federal>bpost>USO_vs_press|Cash-by-year L5 split inside SGEI rem 227.8m/311.9m: pure USO net cost (if any cash) vs retail network vs cash-at-counte
+gap_bru_efro_l5|7|Bruxelles>FEDER_2021_27>projects_L5|Full L5 list approved Brussels FEDER 2021-27 projects with total cost EU grant co-financing promoter dates
+gap_bru_measures_stib_kanal_l5|7|Bruxelles>Measures_STIB_Kanal_L5|Programme-level L5 table for measures path 297-1186m 2026-29 (receipt detail missing); STIB PPI vs regional credits reco
+gap_bru_mesures_recettes_l5|7|Bruxelles>begroting>mesures_recettes_L5|Cash-by-year L5 split of new recettes measures path 120/263/300/341m 2026-29 (tax recovery cadastral tariffs fraud) + pr
+gap_cheque_te|7|Federal>cheques>TE|FPS official TE inventory euro for meal+eco cheques annual series; eco aggregate; post-2026 face reform full parafiscal
+gap_childcare_dual_vl_one_l5|7|BE>dual>Childcare>VL_FWB_L5|VL KO top operators 2024-2026 cash by trap/inkomenstarief; places vs EUR matrix; FWB ONE top milieux d accueil operators
+gap_cocof_bi2026_residual_l5|7|Bruxelles>COCOF>BI2026_residual_L5|Measures matrix to SEC balance 2029 (art21 notes d'orientation); net primary expenditure path vs CSF 2.88pct; current pu
+gap_cocom_oaa_accounts|7|Bruxelles>COCOM>OAA>accounts_L5|Comptes generaux COCOM 2019-25 + New Samusocial/BrussHelp 2020-25; fiches justificatives Iriscare/Samusocial/BrussHelp 2
+gap_consol_orgs_l5_spend|7|Federal>Consol_orgs>L5_spend_by_entity|Full receipts and expenditure L5 by consolidating institution 2025-2026 (beyond ESA saldo Table2); especially FPIM Heder
+gap_covid_support_outturn_l5|7|Federal>COVID>support_outturn_L5|Final cash outturn 2020-2022 by measure vs CoA 19.40bn/1.15bn estimates; recovery of undue payments and SSC/tax deferral
+gap_customs_vvpr_opcent_l5|7|Federal>Fiscal>customs_VVPR_opcent_L5|Customs e-commerce / handling fee calculation worksheets and import-shift sensitivity; VVPR-bis monthly cash 2025-26 and
+gap_dbfm_maint_facility_fees_l5|7|Federal>Justitie_Regie>DBFM>maint_facility_fees_L5|Annual and 25y maintenance waste laundry catering facility redevances by prison 2014-2051 cash-by-year; Dendermonde inve
+gap_dbfm_vfm_iwms_l5|7|Federal>Regie_Justice>DBFM>VFM_IWMS_L5|VFM calculation workbooks (European school + Vresse + any prison DBFM) with discount rates residual-value assumptions ri
+gap_defence_contract_cash|7|Federal>Defensie>contracts>cash_by_year_L5|Signed contract values and cash-by-year 2018-2034 for F-35 original 34 + extra 11; Camo 18LP100; CAESAR batches; rMCM Be
+gap_e1_measures_delivery_l5|7|Entity_I>measures>delivery_L5_2026_29|Cash-by-year outturn vs Table30/31 measures package 2026-2029; L5 split unallocated (onverdeeld) measures; SPB one-off s
+gap_e1_unallocated_measures_l5|7|Federal>Entity_I>unallocated_measures_L5|Detail of unallocated measures Table6 2025-2026 (1.425bn 2026 class 0.2pct GDP); measure-by-measure cash assignment to r
+gap_economie_make_procurement_l5|7|Federal>Economie>MAKE_procurement_L5|MAKE2025-2030 euro envelope and federal/regional co-financing; FOD Economie total budget L5 2026; public procurement ref
+gap_entity1_pluriannuel_workbook|7|Entity_I>pluriannuel_2026_29>workbook|Full multi-year Entity I financing balance table 2026-2029 (EUR and pct GDP) reconciling expose 31.2bn end vs FPB 36.5bn
+gap_fed_defence_vek_vlk_l5|7|Federal>Defence>VEK_VLK_dual_L5|Multi-year cash schedule reconciling Defence VEK 20.112bn vs VLK 10.770bn 2026 and LPM commitment backlog; BGD article c
+gap_fed_e2_cr_perimeter_l5|7|Federal>Intergov>E2_vs_CR_perimeter_L5|Reconcile Graph1 Entity II transfer 81.5bn vs exposé Table1 C&R 76.810bn 2026 (~4.7bn gap): item list of inclusions/excl
+gap_fed_gas_reduced_firms|7|Federal>FFS>industrial_gas_reduced>firms_L5|Named firms with reduced industrial gas excise permit MWh and EUR 2022-2025
+gap_fed_register_l5_top50|7|Federal>BOSA>register>top50_named_L5|Machine-readable export top 50 named beneficiaries by amount 2024-2025 excl statutory SS benefit lines
+gap_fedasil_l5_partners|7|Federal>Fedasil>third_party_L5|Named partner subsidies EUR 2022-25 for 558.8m third-party line; top30 2024-25; unit cost per place; federal dotation 20
+gap_fwb_economies_l5|7|FWB>begroting>economies_structurelles>L5|Official cash-by-year L5 matrix of gross economies 670m and net 500m path 2026-2029 by sector/programme (confirm 255m ye
+gap_gip_l5_outturn_2025_26|7|Vlaanderen>MOW>GIP>project_outturn_L5|Full GIP project VAK/VEK 2025-26 machine list top50; outstanding commitments stock; bike L5 vs 300m; voorafname lists Q1
+gap_gv_volumes_kpi_l5|7|BE>dual>Gecombineerde_vergunning>volumes_KPI_L5|DEM vs DVZ reconciled annual volumes 2019-2025 (CoA notes DEM-DVZ published figures diverge unexplained); auto-approve c
+gap_inami_art81_l5|7|BE>SS>INAMI>art81_111_L5|Top50 art.81/111 innovative drug conventions cash-by-year 2022-2026 gross compensation net reconcile PROMES 1.97-4.05bn 
+gap_infrabel_state_toelage|7|Federal>Infrabel>state_toelage_L5|Federal toelage/dotation/capital cash-by-year 2020-26; split vs NMBS package; 6.5bn invest plan outturn top20 projects; 
+gap_ipp_reform_aurora_l5|7|Federal>tax>IPP_reform>Aurora_L5|Aurora model code/assumptions; H1 2026 PP deferral cash path; interaction with chomage time-limit and centimes; reconcil
+gap_justice_phv_projects_l5|7|Federal>Justitie>PHV>three_projects_L5|Cash-by-year 2021-2026 vastlegging/vereffening for PHV I-2.05 85m I-2.03 18m I-4.09 12m vs plan; deliverables KPIs; Just
+gap_kmo_venb_control_l5|7|Federal>FPS_Finance>KMO_VenB>control_L5|Timeline to close remaining CoA recs (2 not done + 8 in progress); staff recruitment plan for 383 FTE gap; BasketFisc la
+gap_kuleuven_public_grant_matrix_l5|7|Vlaanderen>Onderwijs>KU_Leuven_L5|Full statutory P&L 2025: werkingsuitkering / first-stream public grant EUR; split research spend 781.88m by public (VL/f
+gap_lantis_oosterweel_cash|7|Vlaanderen>Lantis>Oosterweel_cash_L5|Oosterweel cash-by-year through Lantis 2020-27; recon BO 890m vs GIP 96-277m vs statutory BS; top20 contracts; latest to
+gap_lantis_vastleg_nec4_l5|7|Vlaanderen>Lantis>NEC4_vastlegging_L5|Full NEC4 bid/vastlegging schedule Oosterweelknoop+RO 2024-26; stuurcomité rationale for partial +2158.7 vs needed 4577.
+gap_liege_airport_subsidy_l5|7|Wallonie>Liege_Airport>subsidies_dividends_L5|WAL subsidy cash-by-year 2024-25 + contracts L5; dividends all shareholders 2021-25; 2023 omzet recon 95.6m vs 56m 2024;
+gap_lpm_contract_cash_2026_34|7|Federal>Defence>LPM_contract_cash|Signed/negotiated contract values and cash-by-year 2025-34 for LPM annex II programmes (F-35+11 SBAMD manoeuvre ASWF3 Ca
+gap_lux_asbl_list_2026|7|Luxembourg>subsidies>ASBL_entities_ge_50k|Annex budget 2026 ASBL/FUP aids >=50k with names amounts and evaluation report for 25 management contracts
+gap_mons_budget_l5|7|Mons>budget2026>subsidies_L5|Full official BI2026 PDF ordinaire+extraordinaire+note and third-party subsidy L5 table 2026
+gap_mpkv_measures_l5|7|Vlaanderen>MDK>MPKV>measures_L5|Cash-by-year per 15 MPKV measures 2007-2026 + remaining schedule to 2029; named contractors L5 for open 4 priority proje
+gap_multi_parliaments|7|BE>assemblies>operating_costs|All assemblies operating costs
+gap_mutual_admin_l5|7|SS>RIZIV>mutualities>admin_L5|Cash-by-year admin envelope split by landsbond CM Solidaris Helan Neutral Liberal + HZIV 2023-2026 and Controledienst ac
+gap_nl_nominative_34_l5|7|Federal>NL>nominative_34>cash_matrix|Named L5 list 34 nominative beneficiaries 181.494082m 2024 cash vs plan 2023-2026
+gap_nl_project_calls_l5|7|Federal>Nationale_Loterij>cat4_project_calls>L5|Named L5 winners amounts cash-by-year for cat4.1 G-sport 1m + cat4.2 SDG/Academia 1.5m (68 orgs) + cat4.3 poverty 2.5m (
+gap_nmbs_consol_vs_statutory|7|Federal>NMBS>state_toelage_L5|Federal toelage/PSO cash-by-year 2022-26 split vs Infrabel; consol vs statutory recon omzet/net; CAPEX top15; management
+gap_onem_op_union_l5_2025|7|Federal>ONEM>OP_union_L5_2025|OP indemnisation 233.6m split by union channel 2022-26; unit cost per dossier; recon benefits 6.38bn; UI time-limit case
+gap_organs_unia_igvm_interfed_l5|7|Federal>Organs>UNIA_IGVM_interfed_L5|UNIA full interfederal financing table federal vs regions/communities behind law base 7.84m+index vs federal BA 4.034m; 
+gap_otw_csp_missions_transfer_l5|7|Wallonie>OTW>CSP_missions_transfer_L5|Full revised CSP 2026-2029 signed text with cash-by-year regional compensation tables; official coverage-rate definition
+gap_podmi_ss_save_slip_l5|7|Federal>POD_MI_RIZIV>save_slip_L5|Legal status and revised cash impact 2026-29 for integration amount +5y wait; RIZIV 183m miss compensating measures list
+gap_prov_bw_zs_debt_aviq_l5|7|Wallonie>Provinces>Brabant_wallon_L5|ZS 2026 path gap 1.4m article booking and commune matrix; reconciliation of EA emprunt authorisations 48.4m vs EP 8.6m; 
+gap_prov_hainaut_zs_entities_l5|7|Wallonie>Provinces>Hainaut_L5|ZS commune-level net charge matrix 2026 and full path to 127.3m 2030; reclass schedule for 6m ZS provision; 199 consolid
+gap_prov_liege_zs_entities_l5|7|Wallonie>Provinces>Liege_L5|Zones de secours commune-level net charge matrix 2026 and full path to 89.9m 2030; list of 28 consolidated entities with
+gap_prov_namur_zs_ethias_debt_l5|7|Wallonie>Provinces>Namur_L5|Updated Ethias pension fund projection and on-budget path for debudgeted ~10m+12.5m; ZS commune-level matrix 2026; recon
+gap_regie_dbfm_facility_residual_l5|7|Federal>Regie>DBFM>facility_residual_L5|Facility redevances catering waste laundry by prison cash-by-year after public invest+maint table; Justice vs Regie comp
+gap_royal_justitiehuizen_prison_prefin_l5|7|Federal>Royal_Communities>justitiehuizen_prison_L5|Royal activities full TCO beyond personal dots (police 30/67 residual FTE); Regie royal domain project list; justitiehui
+gap_rtw_invalidite_method_l5|7|SS>INAMI>retour_au_travail>method_L5|Full calculation notes for recontrol 1065.6m and annual-extension 868.8m paths to 2029; legislation status; staff hiring
+gap_rva_unemp_leefloon_l5|7|Federal>RVA_POD_MI>unemp_leefloon_L5|Quarterly cash dual: reform savings realized vs leefloon extra grants by region 2026-29; litigation cost series and Gron
+gap_samusocial_accounts_l5|7|Bruxelles>COCOM>NewSamusocial>accounts_L5|General accounts / jaarrekening 2020-2025 (CoA flagged never transmitted 2020-24); FTE payroll support vs field; cash-by
+gap_secal_recovery_kpi_l5|7|Federal>FPS_Finance>SECAL>recovery_KPI_L5|Cumulative SECAL creances outstanding and recovered cash-by-year 2019-2025 (global rate lost since 2018 29.25pct); recov
+gap_sfpim_l5_stakes|7|Federal>SFPIM>portfolio_L5|Top 50 equity stakes EUR book/fair value 2023-2025; non-recurrent impairments by company; new interests list 2024-25; di
+gap_siod_inspect_net_fte_l5|7|Federal>SS>Inspectie_SIOD>net_FTE_L5|Cash outturn by service year 2021-2025 of 18.283m extra credits vs actual headcount; open 22 RSZ places status; allowanc
+gap_smals_broker_rates_l5|7|Federal>Smals>broker_rates_L5|Cash-by-year broker orders 2022-2025 split Smals vs direct beneficiaries; ranking deviation cases and price vs market da
+gap_sofico_pkpl_pimpt_luwa_l5|7|Wallonie>Mobilite>SOFICO_L5|PKPL exact recettes 2025 EUR and km; shadow toll vs PKPL split of 59.5m receivables; PIMPT vs PsFO CAPEX 265m named chan
+gap_sowaer_stakes_sales_l5|7|Wallonie>Airports>SOWAER_L5|Book values of financial fixed assets 37.9m (BSCA/Liege/other stakes); sales drop explanation 64.8m 2024 to 47.0m 2025 b
+gap_sr_save_delivery_l5|7|Federal>BOSA>spending_reviews>save_delivery_L5|Cash-by-year delivery of CM-approved SR actions 2021-2026 (postal digitalisation 15-67.5m band; Fedasil open 1.1m; retur
+gap_t10_l5_night_rd|7|BE>taxex>T10>night_shift_rd_L5|Top50 named beneficiaries EUR 2022-2026 night/shift + R&D firm wage/tax subsidies reconcile T10 2.12bn+1.48bn 2026 vs FP
+gap_tact_digital_kpi_l5|7|Federal>FPS_Finance>TACT>digital_KPI_L5|Machine-readable TACT declarations multi-year p1-p5 due/perceived/restitutions by intermediary vs self-declarer; CRS for
+gap_tax_measures_outturn_l5|7|Federal>Tax>measures_Table4>outturn_L5|Cash outturn vs Table4 complementary measures 2026 by line (TACT CGT bank VAT hospitality UI tax-free); mid-year Monitor
+gap_tv_leef_modal_haven_l5|7|Vlaanderen>Toekomstverbond>leef_modal_haven_L5|Leefbaarheid: solution for 103.5m task overrun; optim 5.5pct savings realised by park; multi-year ruiter cash need sched
+gap_ugent_public_grant_matrix_l5|7|Vlaanderen>Onderwijs>UGent_L5|Full statutory P&L 2025 with first-stream werkingsuitkering EUR; research spend total and public/private split; 26m wedg
+gap_unemp_leefloon_spillover_l5|7|SS>UI_time_limit>leefloon_spillover_L5|Caseload and cash bridge 2025-2027: unemployment benefit drop 1.82bn vs leefloon +0.31bn; persons moving UI to RIS; resi
+gap_unia_funding_detail|7|BE>Unia>multi_entity_funding|Federal BGD codes cash-by-year 2023-2026; 2025 federated split by entity; exact NL lottery cash outturn 2024-26 vs plan 
+gap_vaph_provider_pvb_l5|7|Vlaanderen>WVG>VAPH>providers_PVB_L5|Top-50 care providers EUR under zorginstellingen 897m + PVB third-party 1.21bn 2024-2026; PAB EUR total; MFC/RTH named; 
+gap_vl_accounts_balance_l5|7|Vlaanderen>Accounts>balance_sheet_L5_2025|Full inventory of zero-valued land/buildings with CoA 1.6bn method; art collection detail and disputed works; Zandvliet 
+gap_vl_armoede_prev_l5|7|Vlaanderen>WVG>Armoede_Preventie>L5|Per-association and 8 samenlevingsopbouw institute EUR 2024-2026; GCF2CB full project L5 + Gezonde Voeding cash path; Pr
+gap_vl_avb_prof_outturn_l5|7|Vlaanderen>Onderwijs>AVB_prof>outturn_L5|Cash-by-year AVB by network/level 2019-2027; induction units use vs 48.7m envelope; AGODI control whether colored AVB ho
+gap_vl_caw_l5_per_centre|7|Vlaanderen>WVG>Welzijnswerk>CAW_L5|Per-CAW cash-by-year 2024-2026 (11 centres) + bisenveloppe split; teleonthaal centres named; residual welzijnsorgs and p
+gap_vl_efro_l5|7|Vlaanderen>VLAIO>EFRO_2021_27>projects_L5|Full L5 list approved EFRO Flanders 2021-27 projects with total cost EU grant co-financing promoter dates
+gap_vl_fio_project_l5|7|Vlaanderen>VLAIO>FIO>project_L5|Machine-readable L5 lists OND/ONTW/ICON/Moonshot/cluster projects with names amounts 2023-2025 (jaarverslag annex + regi
+gap_vl_gelijke_kansen|7|Vlaanderen>gelijke_kansen_integratie>L5|Named L5 EUR for each ABB projectsubs award 2024-2026 (portal names only; envelope 4.361m 2026 known)
+gap_vl_ggz_cgg_l5|7|Vlaanderen>WVG>GGZ>CGG_L5|Per-CGG cash-by-year 2024-2026 under 102.508m envelope; OPZ Geel vs Rekem split; residual vernieuwingsprojecten L5 full 
+gap_vl_kunsten_neg9_cash|7|Vlaanderen>Cultuur>Kunstendecreet>neg_advice_9_cash|Cash-by-year 2023-2027 for 9 werkingssubsidie orgs funded after negative commission advice (6 named CoA: 4Hoog CascoPhil
+gap_vl_non_maastricht_claims|7|Vlaanderen>schuld>non_Maastricht_federal_claims|Multi-year amortisation cash schedule hospital infra 2.184bn + autonomiefactor 0.474bn claims to federal
+gap_vl_odv_mvp_cash|7|Vlaanderen>Energie>ODV_MVP_cash_series|Digit REG GSC WKC net cost series 2021-2026 and Mijn VerbouwPremie total paid by measure; VEKA support table 2024-25 par
+gap_vlaio_recovery_kpi_l5|7|Vlaanderen>VLAIO>recovery_KPI_L5|Machine-readable recoveries/impairments/write-offs by instrument 2020-26; inspection coverage of risk pool; ecologieprem
+gap_vsb_provider_l5|7|Vlaanderen>WVG>VSB>providers_L5|Named top WZC/ROZ providers EUR 2024-2026; RCO/RZH/PVT facility lists; zorgbudget beneficiary counts unit costs; BO2026 
+gap_wal_l5_top_subsidies|7|Wallonie>subsidies>top_L5|Top 20 pure third-party ASBL/facultative grants with EUR (programme UAP L5 filled tick134; residual name-list ASBL)
+gap_we_l5_stakes|7|Wallonie>WE>portfolio_L5|Top50 equity loans EUR 2023-2025; guarantee claims paid recoveries top20; Region capital inject path; dividend split Wal
+gap_we_portfolio_book_l5|7|Wallonie>Economie>WE_portfolio_L5|Named portfolio book values YE2025 by participation (equity-method list: Ethias FN Sonaca SAB NLMK Prayon Duferco etc.);
+gap_youth_protect_dual_vl_fwb_l5|7|BE>dual>Youth_protection>VL_FWB_L5|VL ISE Jeugdhulp BO2026 absolute VEK/VAK same structure as BU2025; top-50 recognized providers/pleegzorg cash 2024-2026;
+gap_ypto_external_l5|7|Federal>NMBS>Ypto>external_contractors_L5|Top-20 external IT contractors via Ypto 2022-2025 with EUR; cash-by-year NMBS recharge to Ypto; reconcile CoA 296.7m cla
+gap_ab_spend_l5|6|Federal>RIZIV>antibiotica_spend_L5|Cash-by-year RIZIV AB EUR+DDD 2019-25; non-reimb volumes FAGG; prescriber split GP/specialist; quinolone/ceph3 outside r
+gap_actiris_reform_cpas_2026|6|Bruxelles>Actiris>reform_CPAS_DEI_2026|Monthly DEI category matrix 2025-27; UI-end-rights flows to CPAS/RIS cash; recon institutional budget vs BCR 648m; top20
+gap_adult_edu_dual_vl_fwb_l5|6|BE>dual>Adult_education>VL_FWB_L5|VL BO2026 ISE absolute VAK/VEK for volwassenenonderwijs and DKO separately (cash-by-year 2023-2026); top CVO/academies L
+gap_agri_dual_l5_cap|6|BE>dual>Agriculture>VL_WAL_CAP_L5|EU CAP cash-by-year dual Flanders betaalorgaan vs OPW 2022-2026 (pillar1/2); top20 scheme envelopes; regional co-finance
+gap_antwerp_subsidies_top20|6|Antwerpen>subsidies>top20|Machine-readable full top20+ third-party subsidies 2024-2026 (ebesluit filled Toneelhuis 2.8m OBV 1.9m deSingel 0.1m Zor
+gap_astrid_toelage_reconcile|6|Federal>IBZ>ASTRID>toelage_vs_contract|Reconcile triple: IBZ 76.517m 2025 vs contract ops 46.5m vs statutory omzet 27.2m â€” other operating income cash path; 
+gap_awv_opex_l5|6|Vlaanderen>AWV>opex_GIP_L5|Full AWV opex+invest 2024-26 beyond GIP envelope; top30 GIP project cash VEK/VAK; outturn vs plan 2023-25; non-GIP trans
+gap_be_space_cm25_cash_l5|6|Federal>BELSPO>ESA>CM25_cash_L5|Cash-by-year 2025-2030 civil Belspo vs MoD for ESA programmes; confirmation of TBA/conditional 79.9m GSTP and 75m PRODEX
+gap_belspo_fwi_l5_cut|6|Federal>BELSPO>FWI_L5_and_cut_path|Cash-by-year 2024-2026 base financing per 10 FWI + Belnet; post-cut outturn after 93m-15pct; free budget article codes; 
+gap_bio_l5_portfolio|6|Federal>BIO>portfolio_L5|Full outstanding investees EUR top50 multi-year; impairments by project; State/DGD capital grants cash path; residual na
+gap_bpost_sgei_2025_mgmt8|6|Federal>bpost>SGEI_2025_and_8th_contract|SGEI cash remuneration 2025 EUR total and L5 components; draft or signed 8th management contract envelope max compensati
+gap_bru_communes_subsidies_top20|6|Bruxelles>communes>Ixelles_Schaerbeek_Anderlecht>subsidies_top20|Full BI2026 ordinary+extra PDFs; ranked top20 third-party ASBL/subsidies with EUR 2025-2026 for Ixelles Schaerbeek Ander
+gap_centimes_impl_l5|6|Federal>indexation_centimes>implementation_L5|AR modalities employer special moderation contribution; ONSS IT development cost; reestimate after pivot Dec2025 and CP2
+gap_cgt_method_l5|6|Federal>tax>plus_values>method_L5|Full parameter set for CGT 120m 2026 / 600m cruise; asset coverage excl crypto gold; opt-out share; intermediary vs decl
+gap_charleroi_subsidies_top20|6|Charleroi>subsidies>top20|BI2026 machine-readable named ASBL/third-party subsidies top20+ with EUR (BI2024 named sample filled tick249: PBA 1.34m 
+gap_chinees_paviljoen_cash|6|BE>Regie>Chinees_Paviljoen>public_private_cash|Public vs private cash split Chinese Palace restoration 2024-2031; Regie budget outturn vs ca 6m; NL 0.5m multi-year dra
+gap_cipal_l5_clients_sale|6|Vlaanderen>local_ICT>Cipal>L5_clients_sale|Machine-readable top municipal/OCMW clients by EUR 2023-2025; full consol NBB perimeter recon statutory 95m vs consol 11
+gap_cocof_phare_vgc_l5|6|Bruxelles>COCOF_VGC>Phare_werksubs_L5|Named Phare operators with EUR 2024-2026; VGC top20 werkingssubsidies machine-readable 2024-2026; COCOF net primary exp 
+gap_company_cars_te_package|6|Federal>taxex>company_cars|Official FPS inventory cash-by-year PIT VAT SSC of company-car package 2022-2026 reconcile FFS 3.14bn with FPB 4.7bn cat
+gap_credendo_l5_claims|6|Federal>Credendo>claims_L5|Claims paid recoveries cash-by-year 2022-2025 top20 by country sector; cover capacity utilisation peak; state guarantee 
+gap_culture_dual_vl_fwb_l5|6|BE>dual>Culture>VL_FWB_L5|VL top-50 Kunstendecreet+erfgoed+SCW beneficiaries 2023-2026 cash; FWB DO20 top-50 operators arts vivants/musiques/terri
+gap_dgd_l5_projects|6|Federal>DGD>Openaid>project_L5_top50|Machine-readable top 50 named projects/programmes by amount 2024-2026 with implementer (Enabel NGO multilateral BIO) cou
+gap_dual_gemengd_l5|6|BE>dual>gemengde_entiteiten_L5|Machine-readable 66 mixed entities cash 2023-26; Viapass VL fee vs 710m collect split; Ethias valuation path; BAC contro
+gap_e1_invest_l5_codes|6|Federal>Invest>E1_Table40>L5_codes|FOD code-7 invest L5 defence vs non-defence cash-by-year 2025-2029; ESA defence correction method series; NMBS investmen
+gap_e1_sensitivity_oneoff_method|6|Entity_I>SPB>sensitivity_oneoff_method|Full methodology note for SPB one-offs vs EC practice; Belfius dividend multi-year policy; Debt Agency rate-shock model 
+gap_ehealth_l5_vendors|6|Federal>eHealth>platform_L5|L5 split e-sante 113.4m + e-health dot 19.1m 2025: Smals vs other vendors cash-by-year; HDA fusion perimeter 2025-27; du
+gap_enabel_dgd_l5|6|Federal>Enabel>DGD_L5|DGD/federal grant cash-by-year 2022-26; machine-readable project list EUR; top20 by envelope/spend; recon statutory omze
+gap_energy_dual_veka_wal_l5|6|BE>dual>Energy_Climate>VEKA_WAL_L5|Named L5 MVP/ICL/retro/Energieleningen/WKK cash-by-year 2023-2026 dual; WAL 16.083+Kyoto+AWAC top projects; reconcile pa
+gap_entity1_functional_l5|6|Entity_I>functional_split_L5|Machine-readable Entity I functional table 2026 matching CoA schematic (social 155.5 eco 9.6 authority 23.2 transfers 66
+gap_equal_brussels_budget_l5|6|Bruxelles>equal.brussels>budget_L5|Full equal.brussels / BCR egalite des chances programme budget 2024-2026 (admin+all calls); named awards from 2026 ~2m s
+gap_etnic_l5_vendors|6|FWB>ETNIC>L5_vendors_FTE_outturn|Cash outturn 2023-2025 vs budget liq/eng; official FTE multi-year; top-20 external contractors/vendors EUR; split dotati
+gap_eyof2029_cash_schedule|6|BE>dual>EYOF2029>multi_level_cash|Full multi-level cash schedule EYOF 2029 Flanders 2025-2029 VL BOIC NL 1m cities residual
+gap_fam_cost_role_l5|6|Federal>RIZIV>FAM>cost_role_L5|Cost accounting by dossier phase 2023-2025; annual indemnity cash series 2019-2025; legal recovery costs series; prevent
+gap_favv_budget_2024_26|6|Federal>FAVV>budget_total_2024_26|Full income outturn 2024-2025 and IB/AB 2026 with split federal dotatie heffingen retributies EU other; reconcile heffin
+gap_fed_aju2026_energy_ch4_l5|6|Federal>Aju2026>Energy_ch4_L5|Elia GSC 552 + CRM 169.9 cash-by-beneficiary; CREG social protected 168.6 L5; NIRAS passiva 258.6+VAT 62.5 line items; P
+gap_fed_vvpr_pillar2_series_l5|6|Federal>tax>VVPRbis_Pillar2_L5|Monthly VVPRbis RV series 2024-2026 by rate band; multi-year reverse risk model after 18pct; Pillar2 filings after 2026-
+gap_fib_bilan_l5|6|Bruxelles>finance_brussels>bilan_L5|Full statutory balance sheet 2023-2025 (total assets equity net result capital stock dividend to BCR) and L5 top50 portf
+gap_fiscal_assignment_l5_2026|6|Federal>Tax>assignment_L5_cash_2026|Cash-by-year L5 of assigned/third-party fiscal receipts by beneficiary (SS / VL / WAL / BRU / EU) 2024-2026; Table11 ben
+gap_flexi_hermes_full_sector_l5|6|Federal>SS>flexi_HERMES_full_sector|Full-sector HERMES/FPS annual tax-expenditure estimate of flexi privilege beyond horeca-only counterfactual; Q1-Q4 wage 
+gap_flexi_te_multiyear|6|BE>SS>flexi_jobs>TE_multiyear|Multi-year 2016-2026 flexi wage mass hours FTE by sector/region + official TE (PIT+SSC foregone vs special employer rate
+gap_fnrs_l5_grants_2024_25|6|FWB>FNRS>grants_L5|Machine-readable full named L5 list of grants/mandates/projects with EUR 2024-2025 (parallel FWO award lists on website;
+gap_fpd_beheer_igo_l5|6|SS>FPD>beheer_IGO_Ethias_L5|FPD beheer EUR L5 2024-2025 (pers/werking/invest/Smals); IGO cash-by-year; Ethias municipal/prov + AO/war rents split in
+gap_fso_top_dossiers_l5|6|SS>FSO>top_closure_dossiers_L5|Top 20 closure dossiers by EUR 2023-2026 (incl Van Hool cash-by-year); per-type compensation matrix multi-year; FTE behe
+gap_fwb_aj_operator_l5|6|FWB>Aide_Jeunesse>operators_L5|Named top residential/AMO/accompagnement services with EUR 2024-2026 inside 264m/63m/41m lines; dual VL youth care perim
+gap_fwb_economies_programme_l5|6|FWB>economies>programme_lines_L5|Programme-level cash-by-year 2026-2029 inside CoA Table3 sectors (edu 87.5 enfance 118 sup 17.9 culture 12.6 FP 8.7 autr
+gap_fwb_egalite_l5|6|FWB>Egalite_chances>operators_L5|Named top ASBL/operators with EUR 2024-2026 for: collectifs violences femmes (CE 2.5m/CL 0.532m); egalite initiatives 33
+gap_fwb_mdj_partner_l5|6|FWB>Maisons_de_Justice>partenaires_L5|Named top partner ASBL with EUR 2024-2026 inside act31 23.5m (6 service classes) + projets 0.6m
+gap_fwb_mdj_personnel_total|6|FWB>Maisons_de_Justice>personnel_DO11|Full AGMJ / Maisons de Justice wage bill and FTE 2024-2026 inside DO11 AB 11.03/11.04 (stock not only 3.4m+share of 5.4m
+gap_h2_rrf_l5_winners|6|Federal>Energy>H2_RRF>L5_winners|Named L5 winners amounts and cash-by-year 2022-2027 for BA 42.50.313203 hydrogen call/backbone plus 313204 import infra 
+gap_hedera_budget_detail_2026|6|Federal>Hedera>budget_ops_L5_2026|Full Hedera 2026 budget table: personnel FTE/lonen; werkings; AIF/ManCo/depositary fees cash; investment allocation actu
+gap_housing_l5_slsp_wm|6|BE>Housing>VL_WM_WAL_SLSP>L5_cash|Per-woonmaatschappij Flanders cash from VMSW/GSC/SSI/budgethuren 2023-2026; per-SLSP Wallonia cash from SWL PEI/PRW/PIVE
+gap_hub_brussels_budget_2025_26|6|Bruxelles>hub.brussels>budget_2025_26|hub.brussels / ABE full budget 2025 and 2026 (dotation + EU/RBC/FEDER + spend split remun/actions/fonct) and EUR amount 
+gap_iefh_funding_detail|6|BE>IEFH>multi_source_funding|Cash-by-year 2025-2026 outturn + BGD codes; residual IEFH after 8.9m CPVS transfer; L5 structural subsidy names 2023-202
+gap_igo_handicap_ris_cash_codes|6|Federal>social_assistance>cash_codes|Official AB codes + cash-by-year 2023-26 for IGO/GRAPA, federal disability ARR/AI, RIS to CPAS; Ukraine envelope split
+gap_infrabel_dotatie_cash|6|Federal>Mobiliteit>Infrabel>subsidies_cash|FPS/BOSA cash-by-year article codes for exploitatiesubsidies and kapitaalsubsidies 2022-2026 reconcile to JV 560.9m/794.
+gap_infrabel_jv2025_l5|6|Federal>Infrabel>JV2025_residual_L5|FPS article cash-by-year recon to staatsdotatie 606m + capital subsidies path; invest 1.27bn project top20; Debt Agency 
+gap_integration_dual_vl_wal_l5|6|BE>dual>Integration>VL_WAL_L5|AgII top L5 contractors projectsubs 2023-2026; Atlas Amal named grants split; WAL DO17/13 CRI+ILI+Setis cash-by-year 202
+gap_interco_dividends_l5|6|BE>Intercommunales>dividends_public_transfers|Municipal dividends Fluvius DSOs 2023-2026; VL PMV equity cash schedule max 1.56bn; Aquafin JV2024 omzet 673m filled tic
+gap_interfed_poverty_budget|6|BE>multi>Interfed_poverty>multi_entity_budget|Approved budget and accounts 2023-2026; multi-entity cash split federal regions communities; NL 200k use-of-funds; host 
+gap_iriscare_l5_2024|6|Bruxelles>COCOM>Iriscare>L5_2024|Machine-readable full L5: private AF caisses EUR under residual ~628m of AF 1.055bn; top MR operators under forfait 346m
+gap_justice_dual_lang_tolk|6|Federal>Justitie>dual_language_tolk_courts|Cash-by-year 2022-2026 for court interpreters sworn translators dual-language publications bilingual court admin; split 
+gap_justice_provisions_l5_2026|6|Federal>Justice>provisions_L5_2026|Named 2026 projects financed from Justice provisions (securite 112.5, surpop 50, infra 259, efficacite 44) and 840m 2026
+gap_liege_subsidies_top20|6|LiÃƒÆ’Ã‚Â¨ge>subsidies>top20|Top 20 third-party subsidies all departments 2025-2026 with amounts (beyond culture sample)
+gap_lov2030_cash_schedule|6|BE>LOV2030>multi_year_cash|Cash-by-year federal/NL LOV2030 2025-2033 recon definitive plan 10.5m 2025 vs bidbook 3m x5 2026-30; VL 30m BGD lines; c
+gap_maribel_l5_split|6|SS>Maribel>sector_funds|Remaining Maribel funds L5 2023-2025 esp PC330 health bulk + all funds FTE; sample filled FSM319.01 90.7m socio 38m FeBi
+gap_mb_pillar2_use_l5|6|Federal>RSZ>mobiliteitsbudget>pillar2_L5|Full pillar2 microdata 2019-2025 amounts by category (public transport bike housing rent mortgage other); modal shift KP
+gap_mdk_opex_l5|6|Vlaanderen>MDK>opex_GIP_L5|Full MDK opex+personnel by DAB 2023-26 beyond GIP invest; top30 GIP project cash VEK/VAK; outturn vs plan; loodsgelden/o
+gap_mutualistes_smr_type3_l5_2025|6|Wallonie>Mutualites>SMR_Type3>L5_2025|Full SEC budgets 2023-2026 for 5 SMR (chretiennes neutres Solidaris liberales libres); staff FTE; dual VL mutualities un
+gap_myrrha_belspo_cash_2019_26|6|Federal>MYRRHA>Belspo_cofinance|Cash-by-year 2019-2026 Belspo/POD Wetenschapsbeleid BA 60.16.41.40.40 Subside SCK CEN Myrrha; reconcile with FPS Economy
+gap_natlot_society_l5|6|Federal>Nationale_Loterij>society_return_L5|L5 split of society return 362.5m 2024 and 2025 definitive when closed: state budget vs federal departments vs communiti
+gap_nl_democracy_fund_l5|6|Federal>NL>KBF>Democracy_Fund>L5|Named L5 list 18 Democracy Fund projects awards 500319 EUR Dec2025 amounts cash channel vs KBF 10.3m statutory
+gap_nl_prestige_l5|6|Federal>Nationale_Loterij>Nationaal_Prestige>L5|Named L5 list Prestige 2025 plan 10.000016m beneficiaries; recon vs 2024 outturn 18.567m 614 dossiers cult/soc/sport spl
+gap_nl_sports_fed_l5|6|Federal>NL>Sports_Federations_5_5>named_L5|Named L5 list 32 sports federations + national teams amounts cash-by-year 2023-2026 Art5.5 note 2.7m
+gap_nmbs_annual_toelage|6|Federal>Mobiliteit>NMBS>exploitatievergoeding|FPS/BOSA budget article codes cash outturn vs ODC Art.116 path and NBB ESA D.31/D.92 2023-2026; specific comps list
+gap_oda_partner_l5|6|Federal>ODA>DGD>partner_country_org_L5|Named L5 partner country and organisation matrix under DGD VLK 1.04bn 2025-2026 with EUR; reconcile multi-actor ODA tabl
+gap_offshore_annual_cash|6|Federal>Energy>offshore_wind>annual|Reconcile CREG support cost (538.5m 2025) vs federal GC OSP Elia financing est (675.7m 2025 / 551.4m 2026) vs NBB ESA D.
+gap_oisz_jaarrekeningen_2024_25|6|SS>OISZ>jaarrekeningen_2024_25|Machine-readable jaarrekeningen/outturns 2024-2025 for OISZ sample (Fedris HZIV RVA HVW RJV FSO RSVZ RSZ FPD RIZIV) with
+gap_one_operator_l5|6|FWB>ONE>subsidies_operators_L5|Top creche/milieux d accueil operators with EUR 2024-2026; split inside 604m main + 550m-class subsidies; institutional 
+gap_onem_region_unit_cost_l5|6|Federal>ONEM>region_unit_cost_L5|Region x instrument cash series; unit cost full UI per region; reform end-rights caseload dual PES; recon vol2 6589 vs v
+gap_onss_gg_transfer_l5|6|SS>ONSS>GG_salaries_transfer_L5|Cash-by-year ONSS GG salaries transfers to each IPSS 2022-25 with budget codes; cotis residual split; equilibre methodol
+gap_onss_mission_l5|6|SS>ONSS>mission_budget_L5|Full mission budget recettes/depenses branch split cash-by-year 2023-2026 (travailleurs locaux Maribel SSOM marins); FPS
+gap_onva_csv_l5|6|SS>ONVA>CSV_L5|Named 9 private CSV holiday funds cash-by-year 2022-25 + admin fees; ONVA beheer 2024-25; FFE 200m loan contract schedul
+gap_other_ss_l5_detail|6|SS>Other_schemes>case_L5|Case-level and cash-code L5 for FSO top closures 2023-2026; medical-accidents case stock/paid; Ex-OSZ beneficiary geogra
+gap_pmv_l5_stakes|6|Vlaanderen>PMV>portfolio_L5|Machine-readable direct stakes loans top50 EUR 2023-2025; Gigarant claims paid recoveries by year and top20; VL capital 
+gap_poab_dividend_capex|6|Vlaanderen>POAB>dividend_CAPEX_L5|Dividend cash-by-year to Antwerp/Bruges 2022-2025; top20 CAPEX; any city/VL capital inject; NBB full filings confirmatio
+gap_police_zones_fed_top50|6|BE>Local_police>federal_and_municipal_by_zone|Machine-readable table all police zones 2024-2026: federal base+extra dotation EUR; municipal contribution EUR; zone tot
+gap_popular_edu_dual_vl_fwb_l5|6|BE>dual>Popular_education>VL_FWB_L5|VL SCW top-30 landelijke/regionale organisaties 2023-2026 cash; FWB EP top-30 associations reconnues decret 2003 2023-20
+gap_proleague_fsr_use|6|Federal>NL>Pro_League>FSR_use_L5|Use-of-funds report for NL 3.5m 2025: L5 split FSR vs veiligheid vs innovatie; cash outturn vs plan; institutional AR/TC
+gap_pubpen_employer_l5|6|SS>Public_pensions>employer_L5|L5 split of Treasury public pensions 17.0bn 2026 by employer class (federal admin military education C&R ministries bpos
+gap_regions_eu_500m_agreement|6|BE>EU_financing>regions_500m_agreement|Status of interfederal agreement on 500m/yr regional contribution to EU MFF from 2028; legal basis; per-entity split VL/
+gap_riziv_partial_objectifs_l5|6|SS>RIZIV>objectifs_partiels_L5|Full partial budget objectives table (annexe 2) with EUR by sector 2024-2026; mid-year delivery of 216.802m corrections;
+gap_riziv_sector_audit_2025|6|Federal>RIZIV>sector_audits_art81_L5|Sector audit reports 2025 over/undershoots; art81/111 cash-by-year top molecules; AB multi-year EUR+DDD; recon RIZIV 39.
+gap_rsvz_cas_admin_l5|6|SS>RSVZ>CAS_admin_L5|RSVZ beheer EUR L5 2024-25; CAS admin fees/commissions per fund 2022-25; unpaid cotisations recovery path vs 1.55bn hors
+gap_sck_dotatie_missions_2023_26|6|Federal>SCK_CEN>dotatie_vs_missions|Cash-by-year 2022-2026 split: (1) algemene werkingsdotatie federal; (2) specifieke Belgische opdrachten MYRRHA/MINERVA R
+gap_smals_l5_members|6|Federal>Smals>member_recharges_L5|Machine-readable recharge/invoice matrix top members by EUR 2023-2025 (RIZIV eHealth RSZ KSZ RVA etc); wage bill cash-by
+gap_ss_andere_ontvangsten_l5|6|SS>Ontvangsten>Andere_ontvangsten_L5|L5 nature x regime matrix for andere ontvangsten / autres recettes: interest investment income recoveries fines third-pa
+gap_ss_branch_l5_detail|6|SS>Protection>branch_L5_detail|L5 split within employees global benefits 63.3bn 2026 (pensions unemployment illness family etc); reconcile healthcare 4
+gap_taxshelter_l5_beneficiaries|6|Federal>taxex>TaxShelter>L5_producers|Top50 Tax Shelter framework contracts certificates by producer intermediary EUR 2022-2025; reconcile FPS TE 212m with CC
+gap_tec_csp_rewrite_l5|6|Wallonie>Mobilite>OTW>CSP_rewrite_L5_2026_29|CSP rewrite cash-by-year 2026-29 (20m opex cut path); farebox path to 14pct; subcontracting volume EUR; recon prog14.045
+gap_territorial_culture_dual_vl_fwb_l5|6|BE>dual>Territorial_culture>VL_FWB_L5|VL Bovenlokaal cultuurdecreet top IGS/project beneficiaries 2023-2026; leenrecht bibliotheken cash path multi-year; FWB 
+gap_vaph_pvb_l5|6|Vlaanderen>VAPH>PVB_operators_L5|Top PVB/zorgaanbieder named EUR cash 2024-2026; waiting list stock EUR class; reconcile VAK 3.151bn vs VEK 2.865bn under
+gap_vgc_jr2025_residual_l5|6|Bruxelles>VGC>JR2025_residual_L5|Top20 werkingssubsidies granted 2024-2025 with EUR and policy domain; PPS Deleers full redevance/cash calendar and resid
+gap_vipa_named_l5|6|Vlaanderen>VIPA>ziekenhuizen>named_L5|Named VIPA hospital awards 2023-2026 with envelopes cash-by-year and BBT codes; reconcile NBB D.92 192-280m; Jessa 500m 
+gap_visit_brussels_budget_full|6|Bruxelles>visit.brussels>budget_full|visit.brussels full ASBL budget recettes/depenses 2024-2026 (beyond Cour prog 302 14.9m BI2024) and EUR amount of 2026 a
+gap_vl_ajh_partner_l5|6|Vlaanderen>Justitie_Handhaving>AJH>partners_L5|Named top operators with EUR 2024-2026 for: herstelgerichte afhandeling 15.907m; subsidies justitieel beleid 2.954m (for
+gap_vl_avb_inductie_spend_l5|6|Vlaanderen>Onderwijs>Aanvangsbegeleiding>spend_L5|AVB+inductie cash-by-year school aggregates; AGODI spend control; lerarenbonus series; professionalisering total vs 120-
+gap_vl_ba2026_fluvius_collapse_l5|6|Vlaanderen>BA2026>Fluvius_Defensiefonds_Lineas_L5|Fluvius: board minutes/decision Apr2026 break-off; conditions for restart (merger structure inspraak); keep-or-cancel ca
+gap_vl_beleid_zorginfra_l5|6|Vlaanderen>WVG>Beleidsondersteuning_Zorginfra>L5|Full GCF2BA residual grant list beyond named sample + component split of 274.513m sociale akkoorden vs GHF2TR 226.8m pat
+gap_vl_eerstelijn_impulseo_l5|6|Vlaanderen>WVG>Eerstelijn>Impulseo_L5|GDF2KA project L5 2024-2026 beyond totals; Impulseo multi-year dossiers by type; Impulsfonds outstanding loans stock via
+gap_vl_gp_gezinsbeleid_l5|6|Vlaanderen>Opgroeien>Groeipakket_Gezinsbeleid>L5|Per-private-UA admin EUR (Kidslife Infino MyFamily Parentia) under 67.082m + benefit channel AGEF2QB vs AGEF2QY cash-by-
+gap_vl_justitiehuizen_spend|6|Vlaanderen>Justitie_Handhaving>Justitiehuizen_spend|Justitiehuizen-only FTE+loon slice inside AJH lonen 164.9m; named L5 operators forensische zorg / justitieel beleid subs
+gap_vl_via_soc_akkoorden_l5|6|Vlaanderen>WVG>VIA_Sociale_akkoorden>L5|GCF2FA full cash outturn by BVR line 2024-2026 vs named table; GHF2TR component split eindeloopbaan/maribel/syndicale; B
+gap_vocational_dual_syntra_ifapme_l5|6|BE>dual>Vocational>Syntra_IFAPME_L5|Syntra per-centre L5 split 2023-2027 (5 SYNTRA vzw + Syntrum); calendar-year cash vs cursusjaar 49.7m; IFAPME top centre
+gap_wal_economies_l5|6|Wallonie>begroting>economies_structurelles>L5|Thematic L5 matrix structural savings 268m 2025 + 270m 2026 cash outturn local impact recon UVCW 95m
+gap_wal_egalite_l5|6|Wallonie>Egalite_chances>operators_L5|Named top operators EUR for DF 094.019 full 19 agrees + 6 facultatives; residual operators inside 094.028; Pack nouveau 
+gap_youth_dual_vl_fwb_l5|6|BE>dual>Youth>VL_FWB_L5|VL top-30 recognised jeugdwerk orgs + jeugdverblijven cash 2023-2026; FWB top-30 organisations de jeunesse + centres de 
+gap_119quater_annex4_pending_l5_2025|5|Wallonie>UAP>119quater_Annex4>pending_L5|467 pending 119quater dossiers by UAP; annual series 2022-2026 recon Annex4 vs footnote Forem/AViQ; CRP offset cash; dua
+gap_119quater_specialty_l5_2025|5|Wallonie>HR_Budget>119quater_specialty>L5_2025|By-UAP 119quater FTE and EUR matrix (Forem AViQ IFAPME SWL others); SPW remaining 1635 conversion schedule; CRP offset c
+gap_actiris_2025_26_l5|5|Bruxelles>Emploi>Actiris>L5_2025_26|L5 budget matrix 2025-2026 same structure as RA2024; reconcile institutional ~730-767m vs BCR programme 648m; detail ins
+gap_adn_df115_digital_l5_2025|5|Wallonie>Numerique>ADN_DF115>L5_2025|ADN BI2025 non-communique; DF115 25.6m CL recon vs ADN e-WBS; top20 digital vendors L5; staff FTE; dual unit-cost Smals 
+gap_afmps_budget_2025_26|5|Federal>AFMPS>budget_2025_26|Outturn 2025 vs DC-CT 141m claim; IB/AB 2026 BMF with fee vs federal dotation split; AMM redevances shortfall root cause
+gap_aide_spge_l5_2025|5|Wallonie>AIDE>SPGE_CSU_L5_2025|CSU SPGE cash envelopes personnel/FG 2024-27; recon CA 78.7m to CSU vs commune/SPW; SPGE lease schedule multi-year; top2
+gap_apaq_ra_campaign_l5_2025|5|Wallonie>APAQ-W>RA_campaign_L5_2025|Activity report + staff ETP + top20 campaign L5 recon dep 14.759m; income mix; dual unit-cost vs VLAM/VL TK
+gap_apefe_budget_total|5|FWB_WAL>APEFE>budget_total|APEFE residual: full institutional recettes/depenses 2024-2026 beyond public fonctionment dots CF 471k + WAL 510/490k; p
+gap_aquafin_tariff_l5_2025|5|Vlaanderen>Aquafin>tariff_public_L5_2025|Tariff vs Minafonds/public cash split 2024-26; top20 municipal/water company counterparties; recon omzet drop 673 to 637
+gap_aseva_2024_accounts_storage_l5|5|Federal>ASEVA>jaarrekening_2024_storage_L5|Full jaarrekening/beleidsverslag 2024: bijdrage opslag tickets resultaat debt stock days VTE; named storage contracts to
+gap_aviq_branch_parlement_l5_2025|5|Wallonie>AViQ_Parlement>L5_2025|AViQ branch L5: Papy-boom bed delivery; priority places list; prevention provision 16.4m projects; non-marchand employer
+gap_aviq_sec_branch_recon_l5_2025|5|Wallonie>AVIQ>SEC_branch_recon_L5_2025|Branch L5 recon CoA SEC dep 7.249bn (handicap/sante/aging/AF); treasury stock path; Table33 vs Table34 gap; dual unit-co
+gap_awac_ra_staff_l5_2025|5|Wallonie>AWAC>RA_staff_L5_2025|Activity report + staff ETP 2024-25; income mix recon to SEC 19.4m; outturn vs BI; dual unit-cost vs VEKA; ETS admin L5
+gap_awap_subs_l5_2025|5|Wallonie>AWaP>subventions_L5_2025|Named top30 subventions 2025 recon to 31.314m eng; multi-year Thermes Spa 8.5m Arlon 7.9m; dual unit-cost vs OE premies;
+gap_awex_ra_staff_l5_2025|5|Wallonie>AWEX>RA_staff_L5_2025|Activity report + staff ETP; SEC 79.4m vs EP package 67.5-76.8m recon; top20 missions L5; dual unit-cost FIT/hub
+gap_awv_sofico_l5|5|BE>dual>Roads>AWV_SOFICO_L5|AWV full opex matrix 2023-2026 (personnel werken goederen toelagen) beyond VAK/VEK totals; named top20 AWV and SOFICO wo
+gap_bac_balance_sheet|5|Federal>Brussels_Airport>balance_sheet_L5|Full statutory/consol annual accounts 2023-2025 total assets equity net debt RAB; CAPEX L5 split 2025; dividend path 201
+gap_be_intergov_meteo_space_l5|5|Federal>BELSPO>intergov>EUMETSAT_ECMWF_ESO|Cash-by-year 2022-2026 Belgium contributions to EUMETSAT ECMWF and ESO separately; budget article codes; reconcile CM25 
+gap_bep_env_comptes_l5_2025|5|Wallonie>BEP_Environnement>comptes_L5_2025|Comptes annuels statutaires 2025 full (CA ventes bilan P and L); commune cotisation matrix 2024-26 recon to 36.3m contri
+gap_boic_institutional_tco|5|Federal>NL>BOIC>institutional_TCO|Full institutional AR/TCO BOIC 2022-2025: total income/exp; L5 split NL plan lines vs Paris/Milano premies vs VL 0.5m vs
+gap_bru_citydev_sau_missions_l5|5|Bruxelles>BI2026>Citydev_SAU_missions_L5|Corrected Citydev missions soldes using table rec 10.514 not 1.113; Citydev SA L5 projects behind solde 9.928; SAU corre
+gap_bru_debt_stib_dual_l5|5|Bruxelles>BI2026>dette_STIB_dual_L5|Multi-year direct+consol debt projection 2026-2029 reconciling +3bn cap and 19.1 path; rate sensitivity table for intere
+gap_bru_emploi_titres_kanal_l5|5|Bruxelles>BI2026>emploi_titres_Kanal_L5|Actiris L5 matrix behind 648.1 and -78.2 vs 2025; titres-services volume/price effect after reform (11.40/14.00 + deduct
+gap_bru_ibge_mission41_env_l5|5|Bruxelles>BI2026>IBGE_Mission41_env_L5|Mission 41 L5 programme matrix behind eng 691.3 liq 690.8 and cut -75.8/-67.2 vs 2025; IBGE corrected budget without rep
+gap_bru_port_innoviris_l5|5|Bruxelles>BI2026>Port_Innoviris_L5|Port de Bruxelles corrected budget without reporté (dep 36.6 solde +1.1) + traffic/CAPEX/ops L5 dual POAB; Innoviris cor
+gap_bru_proprete_slrb_routes_l5|5|Bruxelles>BI2026>proprete_SLRB_routes_L5|Corrected Proprete budget removing Hydria 178.3 double-book and GC 7.7 overstate; personnel moratorium policy for ops co
+gap_bru_receipts_parking_reporte_l5|5|Bruxelles>BI2026>receipts_parking_reporte_L5|L5 tax matrix behind IPP 1257.9 federal fin 1528.2 regional taxes 1355.3 vs fed est 1252.8; games tourist property compo
+gap_bru_siamu_bps_reporte_local_l5|5|Bruxelles>BI2026>SIAMU_BPS_reporte_local_L5|Corrected SIAMU and BPS 2026 budgets without résultat reporté/à reporter with L5 personnel/ops split behind corrected 16
+gap_bru_visit_abe_fbg_l5|5|Bruxelles>BI2026>Visit_ABE_FBG_L5|Visit.brussels corrected budget without reporté (dep 26.0 solde +0.02) + tourism campaign L5 dual TV/VisitWallonia; ABE 
+gap_caf_family_benefits_l5_2025|5|Wallonie>Famille>CAF>L5_2025|CAF private prest vs fonct recon KidsLife 7.7m CoA vs 360m EPCO; unit-cost Parentia/Camille/Infino/Famiwal; Type3 46 non
+gap_cgt_ra_staff_l5_2025|5|Wallonie>CGT>RA_staff_L5_2025|Activity report + staff ETP; SEC 67m vs fonct DO 48.6m vs VISITWallonia 13m recon; top20 tourism awards; dual unit-cost 
+gap_cinematek_digit_l5|5|BE>BELSPO>Cinematek>DIGIT_L5_AR|DIGIT-04 cash share attributable to Cinematek 2019-2026 vs shared 37.63m programme; institutional AR/TCO income exp FTE 
+gap_crac_loanbook_l5_2025|5|Wallonie>CRAC>loanbook_L5_2025|Loan book alt finance L5 recon Table10 13.067m; fonds communes 38.553m top20; Oxygene six cities; staff RA; dual VL Geme
+gap_craw_comptes_l5_2025|5|Wallonie>CRA_W>comptes_L5_2025|Full comptes execution 2024-25 recon to budget 53.4/54.8m; multi-year WAL dotation L5; income mix GW SPW PRW UE; dual un
+gap_craw_sec_recon_l5_2025|5|Wallonie>Agri_Research>CRA_W>SEC_recon_L5_2025|CRA-W annex solde -2.922m vs impact -1.460m vs decret 54.839m dep recon; staff FTE cash; dual unit-cost ILVO; optional F
+gap_creg_crisis_outturn_2022_24|5|Federal>Energy>CREG>crisis_BA_outturn|Cash outturn 2021-2025 BA 21.40.414001 social tariff enlargement and BA 21.40.414003 basisfonds vs Kamer budget tables; 
+gap_crm_osp_series|5|Federal>Energy>CRM>OSP_cash_series|Cash-by-year CRM OSP cost outturn vs estimate 2022-2026 with CREG decision refs; auction clearing cost by delivery year 
+gap_csf_npe_ba2024_emploi_l5_2025|5|Wallonie>CSF_BA2024_Emploi>L5_2025|Pluriannual net primary expenditure series vs CSF Table6 caps 2025-31; actual vs cap control account; BA2024 encours pro
+gap_df114_recherche_l5_2025|5|Wallonie>Recherche>DF114_DF096>L5_2025|DF114 top50 projects 2023-26; Fonds RDI stock 171m unlock plan; DF096 backlog 700 dossiers 32m multi-year + top20; dual 
+gap_dg_aju2026_debt_npe_l5|5|DG>Aju2026>debt_NPE_infra_L5|Multi-year consol debt path 2026-2029 in official simulation; NPE bridge explaining 8.98pct 2026; named cash for 65 infr
+gap_dg_infra_l5_2026|5|DG>Infrastrukturplan>projects_L5|Named L5 list 65 infra projects VE/AE 2026-29 (CoA sample Griesdeck Kaleido CFA St Josef); hospital masterplan cash; mac
+gap_dg_justizhaus_budget|5|DG>Justizhaus>budget_L5|Justizhaus der DG annual expenditure and FTE 2024-2026; partner subsidies if any (federal art47/10 receipt now public 0.
+gap_do10_prw_frr_l5_2025|5|Wallonie>DO10>PRW_FRR>L5_2025|Prog122 DF L5 map (122.001/002/003/074/328); provision 444.1m allocation; FRR 920 + RePower 109.6 milestone status; proj
+gap_do11_personnel_l5_2025|5|Wallonie>DO11>Support_personnel>L5_2025|DO11 DF031.005 SPW remun FTE vs under-index; savings levers CDD pensions; 2nd pillar 12m path; Sepac cabinets ETP by cab
+gap_do14_mobilite_l5_2025|5|Wallonie>DO14>Mobilite>L5_2025|DO14 CSP OTW shortfall recon; quasi-gratuite audit; TramArdent redev series; SEE2.3 cash plan; PIMACI eval; fonds infrac
+gap_do15_agri_nature_l5_2025|5|Wallonie>DO15>Agriculture_nature>L5_2025|DO15 prog058 aides top20; prog060 nature path -15.6m L5; prog061 rural path -20.1m L5; prog062 air-eau-sol; prog057 mili
+gap_do16_logement_l5_2025|5|Wallonie>DO16>Logement>L5_2025|DO16 prog080 prive L5 path -90m recon; 081.052 sans-abri pipeline; Renopack 71.2m volumes SWCS/FLW; prog083 energie top2
+gap_do17_local_social_l5_2025|5|Wallonie>DO17>Pouvoirs_locaux_social>L5_2025|DO17 prog091 Affaires interieures L5 fonds communes; prog093 AViQ Wallonie Sante dots map; 092 residual 6m; integration 
+gap_do18_zae_emploi_l5_2025|5|Wallonie>DO18>ZAE_emploi>L5_2025|Sowafinal3 project list recon cum 330m vs 198m specialty breach DO16; ZAE path -109m; WE 097.014 claimed -45 vs -20; Nor
+gap_do19_dette_l5_2025|5|Wallonie>DO19>Dette>L5_2025|DO19.036 interest vs amort L5; debt stock series 2019-29; rate sensitivity; Coret 3.3bn vs need 3.65bn; indirecte UAP fl
+gap_dual_aju_wave_661_670_l5_2026|5|Belgium>dual>aju_wave_661_670_L5|Cross-entity L5 residual from aju wave: WAL DO17/PRW/FRR/SPW remun/Job+; FWB DO51-55 economies/Piebs/CUR/ONE/Etnic/Ecure
+gap_dual_coa_do_wave_l5_matrix_2025|5|BE>dual>CoA_DO_wave>L5_matrix_2025|Cross-DO L5 matrix DO14 CSP/SEE DO16 prive/Renopack DO17 fonds communes AViQ integration DO18 DF114 backlog fonds stocks
+gap_dual_coa_mega_uap_l5_matrix_2025|5|BE>dual>coa_mega_uap_L5_matrix_2025|Dual unit-cost L5 matrix recon CoA SEC vs RA TCO for AViQ Famiwal Sofico OTW housing WE Sowaer SPAQuE Kyoto; treasury re
+gap_dual_coa_table33_fte_matrix_l5|5|BE>dual>CoA_Table33_wave>FTE_matrix_L5|Multi-entity FTE and unit-cost matrix recon for Forem WBI AWEX CGT IFAPME ISSeP CRAC EAP PACO/PAC vs Flanders dual count
+gap_dual_coa_wave_641_650_l5_2025|5|Wallonie>CoA>wave_641_650>L5_matrix|Residual L5 matrix across DO15/11/18/19/10 UAP encours OCPP FA: project lists debt sensitivity PRW milestones FWCN gap O
+gap_dual_coa_wave_651_660_l5_2025|5|BE>dual>coa_wave_651_660>L5_matrix|Cross-entity dual unit-cost matrix residual for wave 651-660: NPE actual vs CSF caps; 119quater by-UAP; revent log; sous
+gap_dual_wave_671_680_l5_2026|5|Belgium>dual>wave_671_680_L5|Cross-entity L5 still opaque after wave: VL fonds per-fund cash + Klimaat eng table; Energiefonds desaffect 46/56; Phoen
+gap_dvz_ops_cash_2024_26|5|Federal>DVZ>ops_TCO_beyond_personnel|Full DVZ institutional cash 2024-2026 beyond Enveloppe2 personnel 154.8m: werkings/IT/invest by closed-centre vs central
+gap_dwg_accounts_l5_2025|5|Vlaanderen>Drinkwater>DWG>accounts_L5_2025|Full jaarrekening 2024-25 GAAP; omzet split drink vs waste vs other; top20 contractors dist invest 162m; digital meter c
+gap_dwv_accounts_l5_2025|5|Vlaanderen>MOW>DWV>accounts_L5_2025|Statutory jaarrekening 2024-25 receipts/exp L5; recon invest 244.9m to GIP articles; top20 contractor awards; OverBrugge
+gap_eap_ra_staff_l5_2025|5|Wallonie>FWB>EAP>RA_staff_L5_2025|Activity report + staff ETP; dual FWB 35pct vs RW ~4.5m recon; training mix L5; unit-cost
+gap_encours_section_part_l5_2025|5|Wallonie>Encours_SectionPart>L5_2025|Full encours L5 by DO/programme/project 2023-2025; incomplete CRAC/Sowafinal 2.0bn + dechets 77m inclusion; section part
+gap_esa_be_optional_l5|5|Federal>BELSPO>ESA>optional_and_L5|Cash-by-year mandatory vs optional ESA programmes 2022-2026; top20 Belgian beneficiaries EUR contracts multi-year; recon
+gap_etf_project_eur_matrix|5|Federal>Energy>ETF>project_EUR_L5|Machine-readable table of all ETF awards 2017-2026: project name beneficiary KBO call-year awarded EUR cash-by-year paid
+gap_fa_ocpp_requalif_l5_2025|5|Wallonie>FA_OCPP>L5_2025|OCPP line L5 code8 vs non-code8 requalif 125m map; Kyoto/Renopack/PRW/env correction beneficiary lists; CRAC FA/PWI/LT l
+gap_fairwork_tco|5|BE>ASBL>Fairwork>financing_TCO|Institutional TCO 2023-2026 income exp FTE; financing matrix NL 250k + Fedasil + Warmste Week + 11.11.11 + Safe.brussels
+gap_famiwal_sec_unit_cost_l5_2025|5|Wallonie>FAMIWAL>SEC_unit_cost_L5_2025|Dossiers handled and admin cost per dossier 2023-25 recon CoA SEC 1.110bn; prest vs fonct split; dual unit-cost vs Paren
+gap_fanc_budget_2024_26|5|Federal>FANC>budget_outturn|Full FANC institutional budget/outturn 2022-2026: personnel ops invest fees; FTE; dual Bel V 16m recovery rules; sector 
+gap_farys_tariff_l5_2025|5|Vlaanderen>Farys>tariff_public_L5_2025|Tariff vs Minafonds/public cash split 2024-26 drink vs sewer vs sport; top20 munis sewer; Waterunie Operator cash path a
+gap_fed_aju2026_defence_nato_l5|5|Federal>Aju2026>Defence_NATO_L5|Asset optim 3170 cash calendar and 2026 1268 booking status; Belfius 20pct sale process and price basis 2bn; residual ga
+gap_fed_aju2026_multiyear_pension_l5|5|Federal>Aju2026>multiyear_pension_L5|Undivided measures 2026-29 path; interest rate assumptions to 17.5bn; pension law calendar IGO/overleving/split; BOSA fo
+gap_fed_aju2026_nonfiscal_sfpim_l5|5|Federal>Aju2026>Nonfiscal_SFPIM_L5|Nonfiscal middelen L5 line list reconciling 7829 vs cash table 7849; ESA vs non-ESA split behind 6886; RSZ 548 settle de
+gap_fed_aju2026_pod_mi_leefloon_l5|5|Federal>Aju2026>POD_MI_leefloon_L5|OCMW toelagen RMI/wet65 monthly beneficiary counts 2025-26; integratiebedrag law calendar and 100pct federal cost of sub
+gap_fed_aju2026_primary_cells_justice_l5|5|Federal>Aju2026>Primary_cells_Justice_Fedasil_L5|Primary cell L5 line list support/authority/economic/social/specific; Justice ID provisies 259/50/44/546 cash path to 20
+gap_fed_aju2026_return_mantelzorg_l5|5|Federal>Aju2026>Return_75m_Mantelzorg_L5|Return 75m 2026 multi-dept cash attribution matrix (Fedasil DVZ Justice POD MI) with method; IB2027 design draft; POD MI
+gap_fed_aju2026_ss_receipts_l5|5|Federal>Aju2026>SS_receipts_L5|RSZ contribution L5 by sector private/public/local; structural vs targeted reduction beneficiary lists; Plusplannen/hore
+gap_fed_aju2026_ss_riziv_ao_l5|5|Federal>Aju2026>SS_RIZIV_AO_L5|RIZIV care 43.9bn L5 top lines + pharma 145.7 save design; AO versterkte opvolging protocol 1Sep2026; responsabilisering
+gap_fed_culture_contracts_2025|5|Federal>culture>mgmt_contracts_and_cut_outturn|Final 2025-26 federal endowment cash after linear cut for BOZAR Monnaie NOB (2026 rounded path public medium); signed ne
+gap_fed_fossil_subs_2023_24|5|Federal>Energy>fossil_inventory>2023_24|Full Tableau 23 consolidation series 2023-2024 (and provisional 2025) same structure as 2018-2022 bench1+bench2; electri
+gap_fedtwin_cash_profiles_l5|5|Federal>BELSPO>FED-tWIN>cash_and_profiles_L5|Cash-by-year FED-tWIN programme 2019-2026 total and by batch; named list 125 profiles with FSI university EUR start date
+gap_firm_funding_detail|5|BE>FIRM_IFDH>dotatie_codes_L5|Kamer BGD/allocation codes cash-by-year 2023-2026 and L5 exp split personnel/ops/NPM/whistleblower/SLAPP; surplus return
+gap_fiscal_ipp_enregistrement_l5_2025|5|Wallonie>Fiscal>IPP_Enregistrement>L5_2025|IPP dep fiscales 882.8m L5 measure list; enregistrement reform 3pct ex-post vs 245.4m; succession series; SPF vs budget 
+gap_fm_vl_convenant_l5_2025|5|Vlaanderen>Flanders_Make>vl_convenant_L5_2025|Multi-year VL FM convenant recon to 20.876m 2025; ecosystem 134m vs statutory 37.3m perimeter; NBB full jaarrekening ann
+gap_fonds_dechets_l5_2025|5|Wallonie>Environnement>Fonds_dechets>L5_2025|Fonds dechets top50 awards 2023-26; stock 220.8m unlock plan; EPR 1.3m realization series; DO15.064 top20; Fonds protect
+gap_forem_budget|5|Wallonie>Emploi>Forem|FOREM institutional RA/outturn 2024-2025 same structure as 2023 (aides vs fonctionnement FTE); 2026 budget L5 now public
+gap_forem_ra_outturn_2024_25|5|Wallonie>FOREM>RA_outturn_2024_25|Institutional RA/accounts 2024-25 same structure as 2023; recon prog130 2.83bn; unit cost per DEI/DEDA; top20 partners; 
+gap_forem_sec_ra_recon_l5_2025|5|Wallonie>FOREM>SEC_RA_recon_L5_2025|RA/outturn 2024-25 recon CoA SEC BI2025 dep 3033m rec 3003m; reserve stock path; PRW reallocation cash; APE titres top20
+gap_fwb_aju2026_do_debt_l5|5|FWB>Aju2026>DO_debt_L5|DO L5 split enseignement 51-55 economies incidence DP1-3; cabinets FTE; RTBF within DO25; debt interest paid-accrued; CR
+gap_fwb_aju2026_edu_dual_vl_l5|5|FWB>Aju2026>edu_dual_VL_L5|ETP matrix by network/level reconciling +151 ETP with pupil drop -3503; poles territoriaux -4.2 calculation note; HE min
+gap_fwb_aju2026_saca_oap_l5|5|FWB>Aju2026>SACA_OAP_L5|Piebs project list eng 400m; CUR PRR 401m outturn; ONE L5 top beneficiaries; Etnic IT projects; Ecureuil 83.6m reserve b
+gap_fwb_es_sousutil_sec_l5|5|FWB>Aju2026>ES_sousutil_SEC_L5|Per-institution ES sous-estimation/sous-utilisation behind aggregate 117.9 (rec 158.7 dep 40.8 rates -6.0/-1.5); split o
+gap_fwcn_claims_l5_2025|5|Wallonie>FWCN>claims_L5_2025|Claims L5 indemnities 2024-25 recon SEC 73.25m; flood 2021 vs other; outturn vs BI; gov objectif -165m gap; dual VL resi
+gap_fwo_fnrs_l5|5|BE>dual>Research>FWO_FNRS_L5|Machine-readable top awards FWO and FNRS 2023-2025 (projects mandats by institution discipline amount); reconcile federa
+gap_guichets_sociaux_l5_2025|5|Wallonie>Logement>Guichets_sociaux>L5_2025|BA2024 non-communique multi-year path; L5 per-guichet loans arrears FTE 2023-26; recon vs SWCS 215.6m FLW 121m; dual uni
+gap_hda_budget_2024_26|5|Federal>HDA>budget_outturn|Cash-by-year structural federal budget + RRF residual + EU project grants 2023-2026; personnel vs opex; Healthdata.be in
+gap_hr_rail_charge_matrix|5|Federal>Mobiliteit>HR_Rail>charge_matrix|Free official NBB CBSO full jaarrekening PDF 2023-2025; annual staff charge re-invoice official L5 split NMBS vs Infrabe
+gap_hygea_group_ca_l5|5|Wallonie>HYGEA>group_CA_L5|Full HYGEA group CA ventes bilan net 2024-26 (beyond Mons package 7.76m); commune matrix dual COPIDEC; staff ETP; dual u
+gap_ibsa_full_tco_l5_2025|5|Brussels>IBSA>full_TCO_L5_2025|Full TCO IBSA 2024-25 incl Perspective personnel/comms/IT AB recon; multi-year; dual unit-cost vs IWEPS EUR/ETP; eng vs 
+gap_idea_sector_l5_2025|5|Hainaut>IDEA>sector_L5_2025|Full sector P&L recon to ventes 71.9m; commune matrix dividends 11.4m + DDT 23.3m + except 20m; SPGE participation capit
+gap_idelux_env_bilan_l5_2025|5|Wallonie>IDELUX_Environnement>bilan_L5_2025|Comptes annuels statutaires complets 2025 (bilan dettes equity P and L annexes commissaire) recon to CA 66.1m net 3.0m; 
+gap_ifapme_sec_epje_recon_l5_2025|5|Wallonie>IFAPME>SEC_EPJE_recon_L5_2025|Full SEC 142.2m vs EPJE/prog112 ~82-88m perimeter recon; staff ETP; dual unit-cost vs SYNTRA; income mix
+gap_ilvo_total_op_funds_l5_2024|5|Vlaanderen>ILVO>total_op_funds_L5_2024|Absolute total werkingsmiddelen 2024 recon to 29pct basisdotatie; multi-year IVA basisdotatie cash; EV full ESR/statutor
+gap_imec_vl_toelage_l5_2025|5|Vlaanderen>imec>vl_toelage_L5_2025|VL public toelage / beheersbijdrage multi-year recon to consol FS; statutory imec vzw accounts vs consol group; dual uni
+gap_inasep_spge_l5_2025|5|Wallonie>INASEP>SPGE_CSU_L5_2025|CSU SPGE cash envelopes personnel/frais generaux 2024-27; recon works 12.86m to programme 128.7m outturn; top20 works co
+gap_inbw_accounts_l5_2025|5|Wallonie>inBW>accounts_L5_2025|Full statutory total CA 2025 recon sector tables; waste muni debt matrix by commune; UVE reconstruction insurance cash; 
+gap_innoviris_l5_2025_26|5|Bruxelles>Innoviris>L5_2025_26|Full named L5 engagement matrix 2025 (parallel public 2024 xlsx n=325) and 2026 BCR budget codes dotation fonctionnement
+gap_intradel_commune_l5_2025|5|Wallonie>INTRADEL>commune_cotisation_L5_2025|Commune-by-commune cotisation matrix 2024-26 recon to CA 125.1m; sector P&L tables (recyparc collectes UVE CET organique
+gap_ipalle_commune_l5_2025|5|Wallonie>IPALLE>commune_cotisation_L5_2025|Commune-by-commune cotisation matrix 2024-26 recon to CA 83.0m + ventes 128.1m; full sector P and L all 10 sectors; dual
+gap_ire_sck_partnership_smart_cash|5|Federal>Nuclear>IRE_SCK>partnership_SMART|Cash-by-year outturn 2019-2026 BA 42.50.51.11.01 partnership (esp. 2023 39.1m vs 8.1m const path) and BA 42.50.51.11.05/
+gap_issep_client_l5_2024|5|Wallonie>ISSeP>client_L5_2024|Client and mission L5 recon CA 34.8m (SPW ARNE SOWAER GISREAUX third parties); RW dotation vs market sales split; dual V
+gap_issep_sec_ra_recon_l5_2025|5|Wallonie>ISSeP>SEC_RA_recon_L5_2025|Recon CoA SEC BI2024 dep 52.702m / BI2025 46.955m to RA CA 34.8m and DO15 missions 23.8m; codes 0/8/9 neutralisation; ow
+gap_iweps_2025_outturn_l5|5|Wallonie>IWEPS>outturn_L5_2025|2025 execution recon to budget 9.3/17.2m vs 2024 outturn 9.1/11.4m; multi-year dotation; tresorerie transfer policy; dua
+gap_kamer_dotatie_pack_l5|5|Federal>Parlement>dotatie_institutions>L5_pack|Machine-readable multi-year table 2023-2026 for all Kamer-dotatie institutions: kredieten outturn dotatie boni FTE by in
+gap_kce_jaarrekening_2024_26|5|Federal>KCE>jaarrekening_L5|Full jaarrekening/outturn 2024-2025 and BS/AR for 2026 toelage 26.447351m; KCE Trials envelope cash-by-year; reconcile I
+gap_ksz_ict_l5_smals|5|SS>KSZ>ICT_L5_Smals|L5 split werkingsuitgaven informatica 13.4m 2024-2025: Smals vs other vendors cash; eHealth-platform art.18 contribution
+gap_kyoto_wal_project_l5_2025|5|Wallonie>Climat>Fonds_Kyoto>project_L5_2025|Project L5 cash-by-year 2023-26 for Kyoto 200m credits; stock 445m deployment plan; code 8 vs non-code8 mix; burden shar
+gap_meise_final_accounts_l5_2025|5|Vlaanderen>Plantentuin_Meise>final_accounts_L5_2025|Final audited 2025 accounts recon to prelim 33.3/30.0m; multi-year VL+FWB cash; FFEU invest L5; dual staff cost VL vs FW
+gap_myria_other_income|5|BE>Myria>other_income_outturn|Cash outturn vs AB 41.10.414003 2022-2026; confirm whether NL plan 1.077m is inside federal AB or additive; other income
+gap_nature_dual_anb_wal_l5|5|BE>dual>Nature>ANB_WAL_L5|MINAfonds nature ISE cash-by-year 2023-2026 top30 grants partners land purchases; ANB external toelagen L5; WAL DO15 15.
+gap_nl_child_eco_calls_l5|5|Federal>NL>child_poverty_eco_calls_2024>L5|Named L5 winners amounts child poverty 54 dossiers 1.022m + eco-coaching 23 dossiers 115k 2024
+gap_nl_fwi_irpa_l5|5|Federal>NL>FWI_IRPA>project_L5|Named L5 list NL cat3.24 IRPA 400k + cat3.25 FWI projects 500k 2025 beneficiaries amounts; recon vs structural Art pool 
+gap_nl_homeless_l5|5|Federal>NL>homeless_innovation>named_L5|Named L5 list cat3.15 social innovation homelessness transit housing 1.275725m 2025 cities projects amounts cash
+gap_nl_opvang_l5|5|Federal>NL>Opvangtehuizen>named_L5|Named L5 list shelters centres d hebergement cat3.12 495k 2025 amounts cash outturn
+gap_nl_proximity_l5|5|Federal>NL>Proximity_5_6>province_L5|Named L5 list Proximity 1.0m 2025 by province and organisation (Art6 population key); cash outturn vs plan
+gap_nmbs_rrf_ets_l5|5|Federal>NMBS>RRF_ETS_L5_2025_29|RRF 66.2m project cash-by-year; ETS 22m project list 2026-29; recon FPS toelage vs ODC -100m hyp; consol vs statutory
+gap_nonfiscal_we_subs_l5_2025|5|Wallonie>Nonfiscal_WE>L5_2025|Nonfiscal L5: night PP correct forecast; remonte sustainability by UAP; dividends L5 beyond FN Herstal; WE Type3 non-com
+gap_oe_awap_dual_l5|5|BE>dual>Heritage>OE_AWaP_L5|Named top30 OE premie awards 2023-2026; waitlist stock EUR; Herita SWO cash path; AWaP internal L5 top subventions 2023-
+gap_opw_ra_staff_l5_2025|5|Wallonie>OPW>RA_staff_L5_2025|Activity report + staff ETP 2024-25; income/dep mix recon SEC 85m vs BA2025b 87.9m vs DO15 81.8m; dual unit-cost vs VL L
+gap_ores_rab_l5_2025|5|Wallonie>ORES>RAB_invest_L5_2025|RAB hors reval and reval stock eoy2025 EUR; recon invest brut 541m to net 444m and MVA; top20 works contracts; ENZO smar
+gap_otw_ab_series_absolute_l5_2025|5|Wallonie>OTW>AB_series_absolute_L5_2025|Absolute multi-year AB46.01/46.02/66.11.02/PRW cash 2023-26 recon CoA paths; PIMPT+PRW liquidation rates; dual unit-cost
+gap_paco_pac_ra_staff_l5_2025|5|Wallonie>Ports>PACO_PAC>RA_staff_L5_2025|Activity reports comptes execution PACO+PAC 2023-25 recon CoA SEC; staff ETP; concessions L5 top20; PAL/PAN BI2025 budge
+gap_paola_tco|5|BE>ASBL>Reine_Paola>TCO_Pelicano|Audited P&L 2023-2025 income exp result; recon loss 1.1m press; Pelicano cash matrix; NL 260k use-of-funds; 1.5m aides d
+gap_pidpa_tariff_l5_2025|5|Vlaanderen>Pidpa>tariff_public_L5_2025|Tariff vs municipal/public cash split 2024-26; top20 munis sewer; digital meter CAPEX cash path joint Farys/DWG; dual un
+gap_ports_do02_do09_l5_2025|5|Wallonie>Ports_DO02_DO09>L5_2025|PAL/PAN BI2025 SEC budgets non-communique; ports traffic/invest L5; DO02 cabinet L5 lines vs Sepac 21m; DO09 residual L5
+gap_proba3_gstp_prodex_cash|5|Federal>BELSPO>PROBA-3>GSTP_PRODEX_cash|Cash-by-year Belgium PROBA-3 contribution via GSTP and PRODEX 2015-2026; contractor top10 EUR; reconcile 63.4m total wit
+gap_proximus_sfpim_dividend_l5|5|Federal>SFPIM>Proximus>dividend_and_public_cash_L5|Cash dividend received by SFPIM from Proximus 2022-2025 EUR; any federal PSO/public-service or fiber co-financing cash l
+gap_psb_dual_vl_fwb_l5_2026|5|BE>dual>PSB>VRT_RTBF_L5_2026|RTBF cash-by-year ordinary vs complements 2023-2026 reconcile RA; VRT side-envelope L5 beyond basistoelage 296.4m; dual 
+gap_recettes_ste_emilie_l5_2025|5|Wallonie>Recettes>Ste_Emilie_LSF>L5_2025|Ste Emilie L5 by competence recon FWB SP 4.50bn vs 4.67bn hospital net 172m; LSF competences series; facteur autonomie 4
+gap_regie_nl_projects_l5|5|Federal>Regie>NL_patrimonium>projects_L5|Named L5 heritage projects inside NL cat3.13 3.087872m 2025 multi-year cash recon Pavilion Art5.7
+gap_rtbf_complement_split|5|FWB>Media>RTBF>complementary_dots|Full complementary public-dot split 2024 and FWB budget codes 2024-2026; savings plan 132m cash delivery by year
+gap_rva_werking_smals_l5|5|SS>RVA>werking_IT_Smals_L5|Split werkingsuitgaven 65.826m 2025: Smals vs other IT vs ordinary; process full-cost map EUR; FSO budget perimeter insi
+gap_rvs_accounts_l5|5|Federal>IBZ_hosted>Raad_van_State>L5|Multi-year budget/outturn 2022-2026 personnel vs ops vs invest; FTE magistrates and staff; reconcile IBZ hosted line 49.
+gap_s4policy_awards_l5|5|Federal>BELSPO>S4Policy>awards_L5|Named awarded projects Call1 2024-25 with EUR BELSPO vs department cofund; cash-by-year 2025-2028; full programme actual
+gap_sciensano_outturn_l5|5|Federal>Sciensano>outturn_L5|Annual outturn 2024-2025 vs beheersovereenkomst annex (135.7/133.2m) with cash-by-year; L5 split external projects/EU/re
+gap_sck_ire_passive_cash_2023_26|5|Federal>Nuclear>SCK_IRE>passive_cash|Cash-by-year outturn 2022-2026 BA 42.30.41.40.13 SCK technical passive and 42.30.41.40.22/24 IRE passive; fund balances 
+gap_screen_brussels_l5|5|Bruxelles>Economie>screen.brussels>L5|Named L5 awards screen.brussels 2023-2025 with amounts projects producers; BCR budget article codes cash-by-year dotatio
+gap_sibelga_mar_l5_2025|5|Bruxelles>Sibelga>MAR_outturn_L5_2025|Reconcile MAR ex ante 386.1m to statutory turnover 396.7m and regulated result; controllable cost bonus/malus L5 elec/ga
+gap_social_economy_50m_l5|5|Federal>emploi>economie_sociale>places_L5|Cash-by-year 50m social economy adapted-work envelope 2026-2029 by region (VL WAL BRU) and number of places created; leg
+gap_sofico_budget_execution_l5_2025|5|Wallonie>SOFICO>budget_execution_L5_2025|Execution recon CoA BI2025 rec 575.1m dep 570.6m vs comptes CA 503m; SEC objectif after TVA 22.6m; PIMPT/PRW liquidation
+gap_sofico_capex_commit_l5_2025|5|Wallonie>SOFICO>capex_commit_L5|Named project/contractor L5 behind encours engagements acquisition immobilisations EUR 280.022m eoy2025; maturity schedu
+gap_sofico_works_l5_2025|5|Wallonie>Mobilite>SOFICO>works_L5_2025|Top20 works contracts cash 2024-26; services 215.6m split; recon CA 503m to PKPL/toll; multi-year invest vs land acq 246
+gap_solde_fonds_sousutil_l5_2025|5|Wallonie>Solde_Fonds>sousutil_L5_2025|Cash delivery of effort L5 (facultatives 68.9 aides 15 SPW 23.4 communes 15.6 APE freeze 13.5); by-UAP sous-util vs 204m
+gap_sowaer_sec_recon_l5_2025|5|Wallonie>Aeroports>SOWAER>SEC_recon_L5_2025|Sowaer annex solde -28.4m vs secteur impact -28.4m vs comptes assets 492m recon; DF046 90.8m vs SEC dep 81.4m perimeter;
+gap_spaque_sec_recon_l5_2025|5|Wallonie>Sols>SPAQuE>SEC_recon_L5_2025|SPAQuE annex solde -51.5m vs RA2024 assets 534m recon; treasury rembours 40.5m multi-year; missions Sarec Happe-Chapois 
+gap_spaque_site_l5_2024|5|Wallonie>SPAQuE>site_cash_L5_2024|Site-by-site cash 2023-26 recon to dotation 24.4m FEDER 142m Relance 143/219 SAREC; SOWAFINAL capital increase schedule 
+gap_spaque_stakes_chantiers_l5_2024|5|Wallonie>SPAQuE>stakes_chantiers_L5|Book values and dividends for RECYHOC/RECYLIEGE/RECYMEX/VALOREM/RECYDEL/RECYNAM/SEDISOL/TRADECOWALL stakes; named cash b
+gap_sport_vl_adeps_l5|5|BE>dual>Sport>VL_ADEPS_L5|Named L5 federation and club awards Sport Vlaanderen 2024-2026; ADEPS SACA vs ordinaire cash split and Loterie Nationale
+gap_stereo_iv_awards_cash_l5|5|Federal>BELSPO>STEREO_IV>awards_cash_L5|Cash-by-year STEREO IV 2022-2026 outturn vs 28.15m envelope; named thematic network and open-call awards with EUR; share
+gap_swde_rf_l5_2025|5|Wallonie>SWDE>RF_BS_L5_2025|Full Rapport Financier / statutory BS 2025 (equity capital subsidies LT/ST split CA hors assainissement); top20 works co
+gap_swl_swcs_flw_recon_l5_2025|5|Wallonie>Logement>SWL_SWCS_FLW>recon_L5_2025|SWCS annex solde +2.45m vs impact -9.38m recon; SWCS aide exceptionnelle 63.7m cash path; SLSP/loan beneficiary L5 top20
+gap_telecom_airbus_l5|5|Federal>Economy>telecom_Airbus>L5|Named L5 winners amounts 2022-2026 for BA 59.02.32.00.01 telecom connectivity (5G tests / 6G / white zones) and BA 44.40
+gap_tibi_commune_l5_2025|5|Wallonie>Tibi>commune_cotisation_L5_2025|Commune-by-commune cout net matrix 2024-26 recon to 42.738m; ETP exact and personnel L5 by sector; UVE Pont-de-Loup mult
+gap_tour_midi_contracts_l5|5|SS>ONSS>Tour_du_Midi>contracts_L5|Signed contracts and cash-by-year 2026-2031 for Tour du Midi renovation (works 168.8m ONSS); asset sales list funding wo
+gap_traj_debt_aides_l5_2025|5|Wallonie>Trajectoire_Dette_Aides>L5_2025|Cash measures behind Table7 path 2026-29; interest sensitivity full book; hospital 3.9bn allocation schedule; DF096.003 
+gap_tuc_rail_clients_l5|5|Federal>Infrabel>TUC_Rail>clients_L5|Revenue split Infrabel vs other clients (NMBS third-party foreign) 2023-2025; top-20 external subcontractors; multi-year
+gap_uap_sec_consol_l5_2025|5|Wallonie>UAP>SEC_consol>L5_2025|Full entity SEC matrix 146 ICN for BI2025/exec2024; FWCN obj -165 vs budget -63 recon; OTW invest vs amort SEC; type3 an
+gap_univ_per_institution|5|BE>Universities>operating_grants_L5|AHOVOKS exact cash-by-year werkingsuitkering matrix 2023-2026 for UGent UA VUB UHasselt (KUL strong JV; CRC medium rever
+gap_vaf_cca_dual_l5|5|BE>culture>AV_funds>VAF_CCA_L5|Named top20 VAF and CCA awards EUR 2023-2025; Cinematek structural Belspo dot series; Screen Flanders tax-shelter cash i
+gap_vdab_full_budget|5|Vlaanderen>VDAB>budget|Jaarrekening full institutional total EU+own income 2024-2026 vs BBT toelage 750.7m; L5 tender/personnel split
+gap_vdab_jaarrekening_2025|5|Vlaanderen>VDAB>jaarrekening_2025_L5|Full institutional accounts 2024-25 receipts/exp L5; recon BBT 750.7m vs total; savings 20/25/40 matrix by axe+FTE; top2
+gap_veka_staff_fte_l5_2025|5|Vlaanderen>VEKA>staff_FTE_L5_2025|Staff FTE 2023-25 recon to lonen BU 15.853m; multi-year apparaatrek; dual unit-cost vs AWAC; IVA accounts
+gap_vib_vl_grant_l5_2024|5|Vlaanderen>VIB>vl_grant_L5_2024|VL structural grant multi-year recon to grants line 122.9m; dual unit-cost vs imec VITO; spin-off portfolio L5; top20 in
+gap_vito_jaarrekening_l5_2024|5|Vlaanderen>VITO>jaarrekening_L5_2024|Full statutory jaarrekening 2024-25 (balans equity debt) recon to Impactrapport inkomsten 297m; VL toelage L5 multi-year
+gap_vl_ba2026_begrotingsfondsen_l5|5|Vlaanderen>BA2026>Begrotingsfondsen_L5|Per-fund L5 cash 2024-26 Verkeersveiligheid/Klimaat/Energie/Wedden/Andere; Klimaat historic eng table behind cum deficit
+gap_vl_ba2026_debt_t15_l5|5|Vlaanderen>BA2026>debt_T15_RRF_ratings_L5|Corrected RRF/RePower/SKF ESR8 path reconciling 113.5m CoA error (booked 457.2 vs should 374.4 + false ESR9 31.4); debt 
+gap_vl_ba2026_efficient_gov_l5|5|Vlaanderen>BA2026>efficientere_overheid_L5|Full Table IV-13 domain L5 matrix for 79.5m tranche (FB OV WVG CJSM MOW OMG KBBZJ WEWILS Vl.Part + all RP); residual 40.
+gap_vl_ba2026_esr89_t12_l5|5|Vlaanderen>BA2026>ESR8_9_T12_L5|Full ESR 8/9 instrument L5 behind T12/T13: Fluvius equity option choice and cash schedule 1.56/1.1bn; VMSW FS4 loan book
+gap_vl_ba2026_fonds_deep_l5|5|Vlaanderen>BA2026>begrotingsfondsen_deep_L5|Per-fund cash series 2024-26 reconciling T9 begin/rec/exp/desaffect/end for VV Klimaat Energie Wedden Andere; Klimaat hi
+gap_vl_ba2026_gip_lantis_overkap_l5|5|Vlaanderen>BA2026>GIP_Lantis_Overkap_L5|GIP 2026 project list 3685 vs budget articles reconciling shortfall 82.4; monthly advance lists archive; Lantis VAK 2479
+gap_vl_ba2026_he_debt_basiskoten_l5|5|Vlaanderen>BA2026>HE_debt_basiskoten_L5|Purpose+amortisation L5 for UHasselt 50 / KdG 35 / Artevelde 20 (residual HE LT repayments within net +104.9); full HE i
+gap_vl_ba2026_receipts_omgeving_l5|5|Vlaanderen>BA2026>receipts_omgeving_L5|Opcentiemen fiscale uitgaven L5 split; FPB param impact cash; MVP/EPC 88.2 cash on Energiefonds; Klimaatfonds 57.3 PAS c
+gap_vl_ba2026_residual_l5|5|Vlaanderen>BA2026>residual_L5|GIP 82.4m shortfall project list; Digisprong 24m raid destinations; Finocas 177.5/140m status; Viapass 10m save contract
+gap_vl_ba2026_ruiter_t8_l5|5|Vlaanderen>BA2026>ruiter_beleidskredieten_T8_L5|Per-domain ruiter use plan 2026 (planned vastlegging vs idle) for FB571 MOW528 OMG150 CJSM78 OV75.8 KBBZJ6 WEWILS6.8; ES
+gap_vl_ba2026_skf_repower_l5|5|Vlaanderen>BA2026>SKF_REPower_L5|Cash-by-year 2026-2032 behind SKF T7 matrix 958.8 (per measure M1-M12); provisie underbouw missing from algemene toelich
+gap_vl_ba2026_wvg_lantis_l5|5|Vlaanderen>BA2026>WVG_Lantis_L5|WZC CoA gap 35.9 methodology + bed growth; VIPA VEK 63.9 vs 37.3; reserves decree status; Lantis loan 1650 terms + herij
+gap_vl_delijn_rva_unemp_l5|5|Vlaanderen+Federal>DeLijn_RVA_L5|De Lijn absolute werkingstoelage/net rev 2025-26 series; ticket+fine split behind IB +50; exploitanten greening contract
+gap_vl_gip_2026_27_l5|5|Vlaanderen>MOW>GIP_2026_27_L5|1-to-1 map GIP actualisatie2026 3685 financing sources to budget articles and project list; unmotivated raming cut list 
+gap_vl_gip_l5_programmes_exec_2025|5|Vlaanderen>MOW>GIP_L5_programmes_exec|Clean assetmgmt matrix excluding fleet/non-AM/not-high-risk/availability for 2025-27 and actu2026; fiets percentage meth
+gap_vl_gip_large_projects_2026|5|Vlaanderen>MOW>GIP_large_projects|Named large-project table to 2040 with financing form (classic/PPS) and availability path; decree-threshold alignment fo
+gap_vl_gip_monitor_eval_gov_2026|5|Vlaanderen>MOW>GIP_monitor_eval_gov|Public VEK and openstaande-verbintenissen series by programme/entity; annual GIP execution report archive; unpublished b
+gap_vl_groeipakket_bo2026_line|5|Vlaanderen>Opgroeien>Groeipakket>BO2026_GEF2QY|Exact BO2026 VAK/VEK for GB0-1GEF2QX-IS and GB0-1GEF2QY-IS Groeipakket lines; residual multi-year after 2025 BU fill; un
+gap_vl_kunsten_fair_pay_fin_vuln_l5|5|Vlaanderen>Cultuur>KD_fair_pay_fin_vuln_L5|Named list of 35 financially vulnerable WS orgs with indicators; named 17/26 sample orgs under min hourly with pay table
+gap_vliz_jaarrekening_l5_2025|5|Vlaanderen>VLIZ>jaarrekening_L5_2025|Full statutory jaarrekening 2024-25 recon to turnover 19.6m/26.4m; multi-year VL structural vs Flemish grants 11.879m; 2
+gap_vrt_side_envelopes|5|Vlaanderen>Media>VRT>side_envelopes|L5 split all public lines beyond basistoelage 2023-2026 with BBT codes; reconcile basistoelage 258.4/296.4 to gov totals
+gap_wal_af_caf_unit_cost|5|Wallonie>AVIQ>AF>CAF_unit_cost|Dossiers handled and admin cost per dossier by CAF 2023-2026 (Famiwal KidsLife Camille Parentia); reconcile AViQ rem 41.
+gap_wal_aju2026_annex_prog_l5|5|Wallonie>Aju2026>Annex_prog_L5|L5 split cabinets FTE/comms; PRW/FRR top projects CL 1.73bn; DO17 prog093 AViQ L5; AWEX outcomes; DO18 aides invest bene
+gap_wal_aju2026_debt_primes_fonds_l5|5|Wallonie>Aju2026>debt_primes_fonds_L5|PIMPT/RTE-T/PIVH project L5 cash; primes stock liquidation plan by regime 2019/2023/2025; Renopack SWCS gap 23.5m recon;
+gap_wal_aju2026_debt_rating_l5|5|Wallonie>Aju2026>dette_rating_L5|Debt instrument L5 behind direct 32974 and consol 43833; monthly issuance after 31 May vs residual 304.4; sous-util tres
+gap_wal_aju2026_do_matrix_spw_emploi_l5|5|Wallonie>Aju2026>DO_matrix_SPW_emploi_L5|Full DO L5 beneficiary split DO17/18/10/14; SPW remun FTE+pilier2 pension status; digital provision project list+plan di
+gap_wal_aju2026_exp_fonds_perimeter_l5|5|Wallonie>Aju2026>exp_fonds_perimeter_L5|Provision redistrib L5 destinations for PRW/FRR YTD 99.7 CE / 547.2 CL and residual eng 521.6 / liq 1221.7; DO12 digital
+gap_wal_aju2026_local_creches_primes_l5|5|Wallonie>Aju2026>local_creches_primes_L5|Aides compensatoires reform text timeline to 2027 and L5 commune list behind 105.7; non-structural fill PRW20/WE20/water
+gap_wal_aju2026_receipts_l5|5|Wallonie>Aju2026>recettes_L5|IPP taxex L5 behind 813.8; final 2025 AAD outturn reconciling 8.7 vs 20.9; vehicle encours aging doubtful 64.9 pending 6
+gap_wal_aju2026_recettes_otw_l5|5|Wallonie>Aju2026>recettes_otw_L5|Ste-Emilie FWB hospital recon series; OTW e-bus tender delays L5; vehicle tax douteux recovery plan; justice fiscale PCC
+gap_wal_aju2026_residual_l5|5|Wallonie>Aju2026>residual_L5|Fiches standardisees confidential access; PRW/FRR redistrib 547m named DF; Job+ take-up; AViQ 14-month billing recon; en
+gap_wallimage_av_l5_2025|5|Wallonie>Culture_AV>Wallimage>SEC_L5_2025|Wallimage SEC 10.2m vs bilan invest recon; top30 awards coprod/entreprises/gaming 2023-26; dual unit-cost Screen Flander
+gap_wallimage_sf_econ_l5|5|Wallonia+Flanders>Economy>Wallimage_ScreenFlanders_L5|Named L5 awards Wallimage Coprod/Entreprises/Gaming + Screen Flanders Hermes cash path and top awards
+gap_waste_dual_ovam_spaque_l5|5|BE>dual>Waste>OVAM_SPAQuE_L5|OVAM top30 local-gov waste/asbest subsidies 2023-2025; MINA OVAM soil remediation site list cash; UPV/zwerfvuil fonds ca
+gap_wbi_sec_staff_network_l5_2025|5|BE>WBI>SEC_staff_network_L5_2025|Staff ETP HQ+network 2023-25; SEC vs RA liq recon codes 0/8/9; L5 awards/posts abroad; COCOF share; dual unit-cost vs VL
+gap_we_sec_recon_l5_2025|5|Wallonie>Economie>WE>SEC_recon_L5_2025|WE group annex solde -38.6m vs impact -40.2m vs alone -55.8m recon; treasury rembours 110m multi-year; DF097.014 122.2m 
+gap_adg_budget_tco|4|Ostbelgien>ADG>budget_TCO_L5|ADG annual accounts 2023-25; DG dotation path 2024-27; unit cost per jobseeker/vacancy; reform caseload to OSHZ; AktiF p
+gap_belgica_ops_l5|4|Federal>BELSPO>RV_Belgica>ops_and_cash|Cash-by-year CAPEX outturn 2016-2022 vs 54.45m budget and 53.7m award; annual ops cost Genavir management contract 2022-
+gap_belnet_2025_l5|4|Federal>Belnet>2025_accounts_and_member_L5|Full 2025 general accounts when published; budget article codes for institutional transfer 2022-25; top20 member recharg
+gap_cern_return_dk_res_outturn|4|Federal>Energy>CERN_DK_RES|Cash outturn 2022-2026 BA 42.50.35.40.07 CERN vs CHF assessed share; industrial return contracts CHF by year; BA 42.50.3
+gap_creg_bipt_2024_26|4|Federal>Regulators>CREG_BIPT_2024_26|CREG full jaarrekening/AR 2024-2025 and Kamer-approved budgets 2025-2026 line detail; BIPT multi-year 2022-2025 path sam
+gap_de_lijn_dotatie|4|Vlaanderen>MOW>De_Lijn>dotatie|Optional reconcilation: VL cash-code toelage table vs JV omzet tussenkomst 1207.9m + kapitaalsubsidie 247.3m 2025 (JV202
+gap_digit04_fsi_l5|4|Federal>BELSPO>DIGIT-04>FSI_L5|Cash-by-year DIGIT-04 2019-2024 by each of 10 FSI + Cinematek; successor DIGIT path 2025+ envelopes; objects digitized a
+gap_egov_select_budget|4|Federal>IT>Egov_Select>recharges_FTE|Top client FODs by EUR recharge 2023-2025; wage bill vs omzet recon; 2025-26 multi-year; free NBB PDF confirmation
+gap_fit_l5_subsidies|4|Vlaanderen>FIT>L5_subsidie_begunstigden|Top L5 FIT subsidiedotatie awards/begunstigden 2024-2026 with amounts (package totals now public: werkings 52.713 + subs
+gap_fsma_budget_2025_26|4|Federal>FSMA>budget_2025_26|Approved budget 2025 (Raad Dec 2024) line detail vs 112.373m 2024 path; contribution matrix by supervised sector 2023-20
+gap_gba_accounts_l5|4|Federal>Privacy>GBA>jaarrekening_L5|Full jaarrekening 2023-2025: personnel vs ops vs invest split; reserve/boni stock path; Kamer/BOSA BA or allocation code
+gap_icn_edp_oct2026_refresh|4|BE>ICN>EDP_2025_oct_refresh|October 2026 EDP notification refresh of 2025 accounts and first 2026 estimate if published; subsector reconciliation En
+gap_ksc_accounts_2023_25|4|Federal>Justitie>Kansspelcommissie>jaarrekening|Full institutional budget/outturn 2023-2025: personnel ops invest fund balance retributions collected; reconcile derived
+gap_nbb_fte_ops_2024_26|4|Federal>NBB>FTE_ops_L5|Staff FTE multi-year 2022-2026 and explanation of personeelskosten spike 451m 2023 vs 336m 2024; L5 split prudential vs 
+gap_poab_authority_budget_l5|4|Vlaanderen>Haven>POAB>authority_budget_L5|Port Authority annual accounts 2024-26; investment path ECA; public vs commercial cash; dual municipal dividends Antwerp
+gap_skeyes_bs_2025|4|Federal>skeyes>financials_L5|RP3 correction recovery schedule cash-by-year 2024-2030; COVID state loan residual calendar; unit rates En-route Termina
+gap_statbel_statutaire_payroll|4|Federal>Statbel>statutaire_payroll|Cash-by-year 2021-2026 BA 48.01.11.00.03/04 statutaire and non-statutaire personnel and reconcile total institutional bu
+gap_tv_presentation_year_confirm|4|Vlaanderen>Toerisme>BBT_year_stamp|Confirm budget year stamp for Toerisme Vlaanderen presentation (werking 39.357 + invest 32.333) and latest BO2025/BO2026
+gap_fed_ombuds_l5_pnl|3|Federal>Parlement>Federale_Ombudsman>L5_P&L|Full cash outturn table 2023-2025 by littera A/B personnel vs ops vs IT vs invest; multi-year FTE filled vs kader includ
+gap_nbn_antennes_l5|3|Federal>Quality>NBN>antennes_prenorm_L5|Named collective centres / Antennes-Normes recipients with EUR 2022-2026 under BA 46.50.41.40.30 and patent-cell benefic
+gap_rail_facilities_l5|3|Federal>HR_Rail>Rail_Facilities>L5_activity|Activity/product mix L5 2023-2025 (canteen shops insurance other) with EUR; recharge rules to NMBS Infrabel HR; ownershi
+gap_surendettement_unit_cost|3|Federal>Consumer>surendettement>unit_cost|Cash outturn 2021-2025 BA 49.40.12.11.58 and number of collective debt files / mediators paid; average fee per file; dua
+gap_consumer_adr_outturn|2|Federal>Consumer>ADR>cash_outturn|Cash outturn 2021-2025 for BA programme 49 external lines (AB-REOC CEC ombuds ODR CLV patients) vs budget tables; CEC EC

@@ -10257,3 +10257,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_827** residual dual L5 (Roeselare/Leuven/BELNET/skeyes/other uni JV); deferred **rq_116**; progress@840 in 4
 
+
+## Tick 837 — 2026-08-05T15:30:00Z
+
+- Unit: **rq_827** (FOI-adjacent residual dual — **KU Leuven Jaarverslag/Jaarrekening 2025** + UHasselt dual)
+- Found (strong primary JV 167p, RvB 31.03.2026, revisor unqualified):
+  - Assets **€3.386.2m** · equity **€2.519.9m** · debt total **€612.0m** · fin debt **€47.6m** (LT **€43.0m** + ST due **€4.6m**)
+  - Cash+beleggingen **€2.357.0m** · MVA **€775.7m** · provisions **€254.3m** (pension **€12.3m** · groot onderhoud **€195.3m**)
+  - Bedrijfsopbrengsten **€1.565.2m** · bedrijfskosten **€1.432.4m** · bedrijfsoverschot **€132.8m**
+  - **1ste geldstroom €567.9m STRONG** (werking **€536.1m**; +21.4m YoY; matches CRC 2024 **€546.5m**)
+  - 2de **€193.8m** · 3de **€287.8m** · 4de **€247.2m** · tuition **€62.1m**
+  - Bezoldigingen **€917.5m** (+4.5%; VTE **10.160**) · resultaat **€198.8m** · cashview result **€154.2m**
+- Dual: UHasselt assets **€281m** / 1st **€96.8m** / bezold **€118.5m** (tick836) — not TE-additive
+- Wrote: budgets +30; commitments +4; leaderboard +5; sources +2; entity kuleuven; FOI **gap_kuleuven_ahovoks_restricted_l5** prio5 ready + draft; raw PDF+extract; rq_827=done; spawn **rq_828**; ticks=837
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_828** residual dual L5 (Roeselare/Leuven city/UGent-UA-VUB/BELNET/skeyes); deferred **rq_116**; progress@840 in 3
+

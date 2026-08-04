@@ -17442,3 +17442,33 @@ bud_uhasselt_invest_2025,uhasselt,2025,25822201,,,cash,src_uhasselt_jv2025,stron
 bud_uhasselt_aflossing_2025,uhasselt,2025,2600000,,,cash,src_uhasselt_jv2025,strong,Aflossingen leningen 2.6m; tick836
 bud_uhasselt_fin_costs_2025,uhasselt,2025,1829167,,,cash,src_uhasselt_jv2025,strong,Financiele kosten 1.829m; tick836
 bud_uhasselt_1st_stream_2024_jv,uhasselt,2024,94039518,,,outturn,src_uhasselt_jv2025,strong,1ste geldstroom 2024 from JV comparative 94.040m (was medium implied 93.828m CRC); tick836 upgrade
+bud_kuleuven_assets_2025,kuleuven,2025,3386177320,,,stock,src_kuleuven_jv2025,strong,Total assets YE2025 3386.177m (+5.6pct); tick837
+bud_kuleuven_equity_2025,kuleuven,2025,2519857971,,,stock,src_kuleuven_jv2025,strong,Eigen vermogen YE2025 2519.858m; tick837
+bud_kuleuven_bestemde_fondsen_2025,kuleuven,2025,2518136560,,,stock,src_kuleuven_jv2025,strong,Bestemde fondsen YE2025 2518.137m (research 1620.2m); tick837
+bud_kuleuven_cap_subs_2025,kuleuven,2025,1721411,,,stock,src_kuleuven_jv2025,strong,Kapitaalsubsidies YE2025 1.721m; tick837
+bud_kuleuven_debt_total_2025,kuleuven,2025,612018182,,,stock,src_kuleuven_jv2025,strong,Total schulden YE2025 612.018m; tick837
+bud_kuleuven_fin_debt_2025,kuleuven,2025,47555462,,,stock,src_kuleuven_jv2025,strong,Financiele schulden LT 43.005m + ST due 4.550m = 47.555m YE2025; tick837
+bud_kuleuven_fin_debt_lt_2025,kuleuven,2025,43005320,,,stock,src_kuleuven_jv2025,strong,Financiele schulden LT YE2025 43.005m (banks 36.4 lease 6.6); tick837
+bud_kuleuven_provisions_2025,kuleuven,2025,254301167,,,stock,src_kuleuven_jv2025,strong,Voorzieningen YE2025 254.301m (pensioen 12.3 groot onderhoud 195.3); tick837
+bud_kuleuven_pension_prov_2025,kuleuven,2025,12314544,,,stock,src_kuleuven_jv2025,strong,Pensioenvoorzieningen YE2025 12.315m; tick837
+bud_kuleuven_cash_2025,kuleuven,2025,40452363,,,stock,src_kuleuven_jv2025,strong,Liquide middelen YE2025 40.452m; tick837
+bud_kuleuven_geldbeleggingen_2025,kuleuven,2025,2316588562,,,stock,src_kuleuven_jv2025,strong,Geldbeleggingen YE2025 2316.589m; tick837
+bud_kuleuven_cash_beleg_2025,kuleuven,2025,2357040925,,,stock,src_kuleuven_jv2025,strong,Cash+beleggingen YE2025 2357.041m; tick837
+bud_kuleuven_mva_2025,kuleuven,2025,775746242,,,stock,src_kuleuven_jv2025,strong,Materiele vaste activa YE2025 775.746m; tick837
+bud_kuleuven_bedrijfsopbr_2025,kuleuven,2025,1565183111,,,cash,src_kuleuven_jv2025,strong,Bedrijfsopbrengsten 1565.183m (+3.5pct); tick837
+bud_kuleuven_1st_stream_2025,kuleuven,2025,567940708,,,cash,src_kuleuven_jv2025,strong,1ste geldstroom basisfinanciering 567.941m STRONG (+21.4m YoY; matches prior 546.5m 2024); tick837
+bud_kuleuven_werking_2025,kuleuven,2025,536061091,,,cash,src_kuleuven_jv2025,strong,Werkingsuitkeringen 536.061m within 1st stream (+20.9m); tick837
+bud_kuleuven_invest_uitkering_2025,kuleuven,2025,19741757,,,cash,src_kuleuven_jv2025,strong,Investeringsuitkeringen 19.742m within 1st stream; tick837
+bud_kuleuven_2nd_stream_2025,kuleuven,2025,193753782,,,cash,src_kuleuven_jv2025,strong,2de geldstroom 193.754m (BOF 107.7 FWO 80.6); tick837
+bud_kuleuven_3rd_stream_2025,kuleuven,2025,287781953,,,cash,src_kuleuven_jv2025,strong,3de geldstroom 287.782m (+33.9m); tick837
+bud_kuleuven_4th_stream_2025,kuleuven,2025,247230240,,,cash,src_kuleuven_jv2025,strong,4de geldstroom contract/valorisatie 247.230m; tick837
+bud_kuleuven_tuition_2025,kuleuven,2025,62130394,,,cash,src_kuleuven_jv2025,strong,Reguliere inschrijvingsgelden 62.130m; tick837
+bud_kuleuven_bedrijfskosten_2025,kuleuven,2025,1432419711,,,cash,src_kuleuven_jv2025,strong,Bedrijfskosten 1432.420m (+2.9pct); tick837
+bud_kuleuven_bezold_2025,kuleuven,2025,917494684,,,cash,src_kuleuven_jv2025,strong,Bezoldigingen 917.495m (+4.5pct; VTE 10159.6); tick837
+bud_kuleuven_diensten_2025,kuleuven,2025,391787372,,,cash,src_kuleuven_jv2025,strong,Diensten en diverse goederen 391.787m; tick837
+bud_kuleuven_afschr_2025,kuleuven,2025,68360244,,,cash,src_kuleuven_jv2025,strong,Afschrijvingen 68.360m; tick837
+bud_kuleuven_bedrijfs_2025,kuleuven,2025,132763400,,,cash,src_kuleuven_jv2025,strong,Bedrijfsoverschot 132.763m; tick837
+bud_kuleuven_result_2025,kuleuven,2025,198755329,,,cash,src_kuleuven_jv2025,strong,Overschot boekjaar bedrijfsecon 198.755m (was 180.188m); tick837
+bud_kuleuven_result_cashview_2025,kuleuven,2025,154209191,,,cash,src_kuleuven_jv2025,strong,Overschot cashview 154.209m; tick837
+bud_kuleuven_vte_2025,kuleuven,2025,10160,,,outturn,src_kuleuven_jv2025,strong,Verbruiks-VTE 10159.6 2025 (was 10075.2); tick837
+bud_kuleuven_project_prepay_2025,kuleuven,2025,189835604,,,stock,src_kuleuven_jv2025,strong,Ontvangen vooruitbetalingen op projecten YE2025 189.836m; tick837

@@ -1,8 +1,16 @@
 # FOI draft — gap_bbi_bank_collection_l5
 
-**Status:** ready (NOT sent)  
+**Status:** partial (NOT sent) — sweep 2026-08-05  
 **Gap ID:** gap_bbi_bank_collection_l5  
 **Tick:** 506  
+
+### Public fill (strong — CoA 2026_20)
+
+Assessed **€2.3 bn** (2015–24) · collected **€36 m** · ~80% corrections in 5th Directorate (preventive).
+
+### Residual FOI
+
+Cash collection schedule **by year** 2015–2026; CAP foreign/crypto completeness metrics.  
 
 ## Recipient
 

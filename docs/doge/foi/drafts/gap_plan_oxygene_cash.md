@@ -1,6 +1,6 @@
 # FOI draft — gap_plan_oxygene_cash
 
-**Status:** ready (not sent — human only)  
+**Status:** partial (sweep 2026-08-05) — commune sollicité matrix PW annex 3102; residual definitive outturns  
 **Gap:** Full Plan Oxygène multi-year cash-by-year by commune (2022–2026) and regional cost (interest + 15% capital)  
 **Known:** Cumulative requests **€1.791 bn** (34 communes, Collignon Feb 2023); tranche 2022 **€302.1 m** (21 communes); mid-2025 bank lot **€66.1 m** (15 communes, Desquesnes Jul 2025); CRAC **€210 m** borrow for 6 large cities 2025 rights (Desquesnes Dec 2025 CRI); regional annual cost ~**€25 m** (minister); city draws: Namur **€45.7 m** 2026 (DGF), Mons **€27 m** Mag, Charleroi ~**€48 m** press.
 

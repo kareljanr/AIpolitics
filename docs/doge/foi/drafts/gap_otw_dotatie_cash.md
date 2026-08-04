@@ -97,4 +97,4 @@ Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées
 - [ ] Contactgegevens verzoeker ingevuld (mens vóór verzending)  
 - [x] `foi_queue.csv` bijgewerkt  
 
-**Status:** draft complete → `ready` for human send only.
+**Status:** `partial` (sweep 2026-08-05) — BI2026 article path filled from PW annex 3472 (€877.456m); residual multi-year outturn FOI.

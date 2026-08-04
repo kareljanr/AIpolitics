@@ -1,11 +1,28 @@
 # FOI draft — gap_fanc_budget_2024_26
 
-**Status:** ready (not sent)  
+**Status:** partial (not sent) — sweep 2026-08-05  
 **Gap ID:** `gap_fanc_budget_2024_26`  
-**Linked:** `cmt_belv_package_2023_24`, `lb_belv_ops_16m`, `lb_nuclear_dual_fanc_belv_niras`  
-**Tick:** 285  
+**Linked:** `cmt_belv_package_2023_24`, `cmt_fanc_budget_2026`, `lb_belv_ops_16m`, `lb_nuclear_dual_fanc_belv_niras`  
+**Tick:** 285 / filled tick756 / sweep status  
 
-Public fill: Bel V (FANC subsidiary TSO) AR2024 — turnover **EUR 16.016m**, operating charges **15.189m**, wages **12.337m**, staff ~**90**. FANC Jaarverslag 2024 has **no euro financial tables**. NIRAS waste package filled separately (omzet 316m 2025). Residual is parent FANC budget.
+### Public fill (strong)
+
+| Item | EUR | Year | Source |
+|------|----:|------|--------|
+| Bel V turnover | 16.016m | 2024 | Bel V AR |
+| Bel V op charges / wages | 15.189m / 12.337m | 2024 | Bel V AR |
+| FANC personnel | 13.860m outturn · 16.039m budget | 2024 / 2026 | Kamer 56 1281/023 |
+| FANC ops (CE12.11) | 7.291m | 2026 | same |
+| FANC invest material | 1.864m | 2026 | same |
+| FANC fee/tax receipts | 30.781m | 2026 | same |
+| FANC public-sector receipts | 3.893m | 2026 | same |
+
+### Still missing (FOI residual)
+
+1. Full multi-year outturn 2022–2025 (ops/invest/fees series, not only 2024 personnel + 2026 budget)  
+2. FTE by year  
+3. Bel V recovery/oversight cost rules detail  
+4. Statutory jaarrekening if separate from Kamer tables
 
 ---
 

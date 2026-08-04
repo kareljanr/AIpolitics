@@ -1,8 +1,20 @@
 # FOI draft — gap_isi_bank_inquiry_collection_l5
 
-**Status:** ready (NOT sent)  
+**Status:** partial (NOT sent) — sweep 2026-08-05  
 **Gap ID:** gap_isi_bank_inquiry_collection_l5  
 **Tick:** 814  
+
+### Public fill (strong — CoA 2026_20)
+
+| Item | Value |
+|------|------:|
+| Established taxes bank inquiries 2015–2024 | **€2.3 bn** |
+| Effectively collected | **€36 m** (~1.57%) |
+| Inquiries authorised 2024 | ~**700** |
+
+### Residual FOI
+
+Year × direction established-vs-collected matrix; aging of open claims; prevented vs cash-collectible share.  
 
 ## Recipient
 
