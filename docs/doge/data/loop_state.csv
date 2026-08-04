@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T21:30:00Z,rq_792,801,no,tick801 Regie029 NEKP>3bn Justice264/336 DBFM96.5 rent save13.78 FOI; next rq_793 Loterij015/PODMI039 residual; progress@810 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T22:00:00Z,rq_793,802,no,tick802 Loterij015 217.5/200/145 private31.5bn dual PODMI039 300/300/302/342 +26m FOI; next rq_794 residual 1282/*; progress@810 in 8; rq_116 deferred

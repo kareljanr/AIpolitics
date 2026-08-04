@@ -16639,3 +16639,19 @@ bud_regie_justice_capacity_264m_2026,regie_gebouwen,2026,264000000,,,budgeted,sr
 bud_regie_justice_capacity_336m_2028,regie_gebouwen,2028,336000000,,,budgeted,src_kamer_beleid_regie_1282_029_2026,strong,Same Justice capacity path 336m by 2028 for new initiatives and prison/FPC capacity; tick801
 bud_regie_dbfm_prisons_avg_96_5m,regie_gebouwen,2026,96500000,,,budgeted,src_kamer_beleid_regie_1282_029_2026,strong,DBFM prison commitments average annual investment 96.5m EUR; dual prior fee tables; tick801
 bud_dual_regie_prison_capacity_2026,regie_gebouwen,2026,264000000,,,synthesis,src_dual_regie_prison_tick801,strong,Dual Justice capacity 264m residual vs prior prison package 600m 2026-29; not TE-additive; tick801
+bud_natlot_omzet_2024_beleid,nationale_loterij,2024,1553000000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Consolidated omzet 1553m 2024 Beleidsnota 1282/015; dual prior JV; tick802
+bud_natlot_subsidies_definitive_2024,nationale_loterij,2024,217500000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Definitive verdelingsplan 2024 approved 28 Jul 2025: base 200m + exceptional 17.5m = 217.5m; tick802
+bud_natlot_subsidies_extra_17_5m_2024,nationale_loterij,2024,17500000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Exceptional good-causes top-up 17.5m on 2024 results; tick802
+bud_natlot_subsidies_provisional_2025,nationale_loterij,2025,200000000,,,budgeted,src_kamer_beleid_loterij_1282_015_2026,strong,Provisional verdelingsplan 2025 = contract base 200m; definitive spring 2026; tick802
+bud_natlot_contract_base_200m_path,nationale_loterij,2026,200000000,,,commitment,src_kamer_beleid_loterij_1282_015_2026,strong,Beheerscontract 13 Sep 2021 fixed good-causes 200m/yr through 2026; tick802
+bud_natlot_monopolierente_145m_2024,nationale_loterij,2024,145000000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Monopoly rent 145m from 2022 onwards (+10m uplift) subject to results; tick802
+bud_natlot_society_return_2024_recon,nationale_loterij,2024,362500000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Society return recon 217.5 subsidies + 145 monopolierente = 362.5m; dual prior press; tick802
+bud_kansspel_private_stakes_2023,kansspelcommissie,2023,31500000000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Private gambling+sports betting stakes 31.5bn 2023 Kansspelcommissie JV2023 cited in 1282/015; NOT public spend; tick802
+bud_kansspel_private_stakes_delta_2023,kansspelcommissie,2023,4500000000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Private stakes +4.5bn YoY 2022-23 (~3x NL 2024 omzet); market pressure dual; tick802
+bud_natlot_player_accounts_2024,nationale_loterij,2024,2100000,,,outturn,src_kamer_beleid_loterij_1282_015_2026,strong,Player accounts >2.1m (count not EUR); 99.9pct hit no mandatory limits 2024; tick802
+bud_podmi_ocmw_comp_2026_beleid,pod_mi,2026,300000000,,,budgeted,src_kamer_beleid_podmi_1282_039_2026,strong,OCMW compensation unemp duration-cap 300m 2026 Beleidsnota 1282/039 dual CoA; tick802
+bud_podmi_ocmw_comp_2027_beleid,pod_mi,2027,300000000,,,budgeted,src_kamer_beleid_podmi_1282_039_2026,strong,OCMW compensation 300m 2027 Beleidsnota; tick802
+bud_podmi_ocmw_comp_2028_beleid,pod_mi,2028,302000000,,,budgeted,src_kamer_beleid_podmi_1282_039_2026,strong,OCMW compensation 302m 2028 (CoA path 302.3m); tick802
+bud_podmi_ocmw_comp_2029_beleid,pod_mi,2029,342000000,,,budgeted,src_kamer_beleid_podmi_1282_039_2026,strong,OCMW compensation 342m 2029 (CoA 342.6m); tick802
+bud_podmi_bc2025_comp_26m,pod_mi,2025,26000000,,,budgeted,src_kamer_beleid_podmi_1282_039_2026,strong,Budget control 2025 compensation bridge 26m; main extra per-beneficiary from 2026; tick802
+bud_dual_natlot_society_vs_private_2024,gg_belgium,2024,362500000,,,synthesis,src_dual_loterij_podmi_tick802,strong,Dual NL society 362.5m vs private stakes 31.5bn 2023 class; not TE-additive; tick802

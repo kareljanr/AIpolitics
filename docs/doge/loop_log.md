@@ -9684,3 +9684,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +10; commitments +6; leaderboard +6; sources +2; FOI **gap_regie_nekp_3bn_prison_264m_l5** prio9 ready; raw PDF; rq_792=done; spawn **rq_793**; ticks=801
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_793** residual Loterij015/PODMI; deferred **rq_116**; progress@810 in 9
+
+## Tick 802 — 2026-08-04T22:00:00Z
+
+- Unit: **rq_793** (FOI-adjacent residual — **Kamer DOC 56 1282/015 Beleidsnota Nationale Loterij**, 17p; dual **1282/039 POD MI**, 12p)
+- Found (primary 56K1282015):
+  - Beheerscontract 13 Sep 2021: good-causes **€200m**/yr 2021–2026
+  - Omzet 2024 **€1.553bn**; definitive verdelingsplan 2024 (28 Jul 2025): **+€17.5m → €217.5m**
+  - Provisional 2025 **€200m** (definitive spring 2026); monopolierente **€145m**/yr from 2022 (+€10m)
+  - Society recon **€362.5m** (217.5+145); media cap **5% GGR** incl VAT (absolute EUR FOI)
+  - Private gambling stakes **€31.5bn** 2023 (**+€4.5bn** YoY) Kansspelcommissie JV2023 cite
+  - Player accounts **>2.1m**; limit hits 0.13/2.80/0.02%; 101 triple-limit (0.004%)
+- Dual (primary 56K1282039):
+  - OCMW unemp-comp path **€300m** 2026–27 · **€302m** 2028 · **€342m** 2029 (sum **€1.244bn**)
+  - BC2025 bridge **€26m**; bonus-malus GPMI from **2028**; per-beneficiary extra from 2026
+- Wrote: budgets +16; commitments +5; leaderboard +7; sources +3; FOI **gap_natlot_beleid_2026_l5** prio8 ready; raw PDFs+txt; rq_793=done; spawn **rq_794**; ticks=802
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_794** residual 1282/* / local/CoA; deferred **rq_116**; progress@810 in 8
