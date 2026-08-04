@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T09:30:00Z,rq_816,825,no,tick825 CoA Prov Namur BI2026 240m personnel126 ZS30 Ethias debudget dual Liege FOI; next rq_817 residual dual L5/local/CoA; progress@830 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T10:00:00Z,rq_817,826,no,tick826 CoA Prov Hainaut BI2026 878m personnel621 ZS78 path127 dual Liege/Namur FOI; next rq_818 residual dual L5/local/CoA (BW candidate); progress@830 in 4; rq_116 deferred

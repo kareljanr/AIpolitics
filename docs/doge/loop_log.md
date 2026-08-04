@@ -10069,3 +10069,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42; commitments +4; leaderboard +6; sources +2; entity province_namur; FOI **gap_prov_namur_zs_ethias_debt_l5** prio7 ready + draft; raw PDF+txt; rq_816=done; spawn **rq_817**; ticks=825
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_817** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 5
+
+## Tick 826 — 2026-08-05T10:00:00Z
+
+- Unit: **rq_817** (FOI-adjacent residual dual — **CoA Province de Hainaut BI2026** + Liege/Namur dual)
+- Found (strong primary CoA 2026_13, 26p, chambre FR 16 Dec 2025):
+  - Ordinaire EP: rec **€831.2m** · dep **€830.6m** · solde **+€0.5m**
+  - Ordinaire global: rec **€878.3m** · dep **€851.4m** · solde **+€27.0m**
+  - Personnel EP **€621.4m** (subv-trait **€288.5m** · hors-subv **€332.9m**) · fonctionnement **€78.4m** · transferts **€93.6m**
+  - PRI/taxes **€296.1m** · fonds provinces **€71.3m** · compens **€8.4m** · reprises provisions **€22.3m** (ZS **€21.7m**)
+  - ZS: **€78.2m** (+ provision **€6.0m**) · path **€20.6m**(2020)→**€127.3m**(2030)
+  - Pensions: solidarité **€53.6m** · responsabilisation **€19.7m** (shortfall **€2.1m** via fund)
+  - Dette service **€37.2m** · encours **€282.3m** · ratio volume **53.3%** · new loans **€15.2m**
+  - Extraord invest **€22.8m** · Tournai cathedral subside **€3.7m** · global dep **€24.3m**
+  - Provisions YE2025 **€203.8m** · total reserves+prov **€235.3m**
+  - Opacity: **199** entités consolidées sans motivation · **53** contrats gestion eval OK
+- Dual: Liege **€563.6m** / Namur **€239.9m** ordinary (ticks 824-825) — not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +6; sources +2; entity province_hainaut; FOI **gap_prov_hainaut_zs_entities_l5** prio7 ready + draft; raw PDF+txt; rq_817=done; spawn **rq_818** (BW candidate); ticks=826
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_818** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 4

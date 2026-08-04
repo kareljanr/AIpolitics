@@ -17095,3 +17095,41 @@ bud_prov_namur_supracom_personnel_2026,province_namur,2026,700000,,,budgeted,src
 bud_prov_namur_it_hr_software_2026,province_namur,2026,1100000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Frais informatiques +1.1m (HR software 0.5 + comptable 0.4 class); tick825
 bud_dual_prov_namur_liege_tick825,gg_belgium,2026,239882610,,,synthesis,src_dual_prov_namur_liege_tick825,strong,Dual Prov Namur 239.9m vs Liege 563.6m ordinary; not TE-additive; tick825
 bud_prov_namur_debt_ratio_vol_pct_2026,province_namur,2026,20,,,ratio,src_ccrek_2026_14_namur_budget_2026,strong,Ratio volume dette ~20.5pct (max 125pct); amount_eur=20 approx; tick825
+bud_prov_hainaut_ord_rec_ep_2026,province_hainaut,2026,831167239,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Budget ordinaire EP recettes BI2026 831.167m; tick826
+bud_prov_hainaut_ord_dep_ep_2026,province_hainaut,2026,830647769,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Budget ordinaire EP depenses BI2026 830.648m; solde +0.519m; tick826
+bud_prov_hainaut_ord_rec_global_2026,province_hainaut,2026,878323448,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Budget ordinaire global recettes 878.323m; tick826
+bud_prov_hainaut_ord_dep_global_2026,province_hainaut,2026,851363153,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Budget ordinaire global depenses 851.363m; solde +26.960m; tick826
+bud_prov_hainaut_personnel_ep_2026,province_hainaut,2026,621417088,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Depenses personnel EP 621.417m; tick826
+bud_prov_hainaut_personnel_total_2026,province_hainaut,2026,641100000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Personnel total class 641.1m incl EA 19.7m; tick826
+bud_prov_hainaut_subv_traitements_2026,province_hainaut,2026,288500000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Subventions-traitements 288.5m (neutral rec/dep); tick826
+bud_prov_hainaut_personnel_hors_subv_2026,province_hainaut,2026,332900000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Personnel hors subventions-traitements 332.9m; tick826
+bud_prov_hainaut_fonctionnement_ep_2026,province_hainaut,2026,78354840,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Fonctionnement EP 78.355m; tick826
+bud_prov_hainaut_energy_2026,province_hainaut,2026,14500000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Depenses energetiques 14.5m (flat vs BA2025); tick826
+bud_prov_hainaut_transferts_ep_2026,province_hainaut,2026,93644171,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Transferts EP 93.644m; tick826
+bud_prov_hainaut_dette_service_2026,province_hainaut,2026,37231670,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Service dette ordinaire 37.232m (amort 24.405 + interets 9.515 + BT 3.230); tick826
+bud_prov_hainaut_impots_taxes_2026,province_hainaut,2026,296104319,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Impots et taxes 296.104m; tick826
+bud_prov_hainaut_fonds_provinces_2026,province_hainaut,2026,71300000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Fonds des provinces 71.3m (no indexation vs tutelle 72.8m); tick826
+bud_prov_hainaut_compens_wal_2026,province_hainaut,2026,8400000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Compensations regionales 8.4m (PRI 4.9 + Marshall 3.3 + Natura 0.1); tick826
+bud_prov_hainaut_prestations_2026,province_hainaut,2026,18681930,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Recettes prestations 18.682m; tick826
+bud_prov_hainaut_reprises_provisions_2026,province_hainaut,2026,22320873,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Utilisations/reprises provisions 22.321m (dont ZS 21.7m); tick826
+bud_prov_hainaut_zs_78_2m_2026,province_hainaut,2026,78200000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Zones de secours total 78.2m (complement 6.9 + 10pct fonds 7.1 + 90pct 64.2); tick826
+bud_prov_hainaut_zs_complement_2026,province_hainaut,2026,6900000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,ZS budget complementaire RW 6.9m; tick826
+bud_prov_hainaut_zs_provision_extra_2026,province_hainaut,2026,6000000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Provision ZS 6.0m for gradual GW path (not yet reclassed to dotation); tick826
+bud_prov_hainaut_zs_path_2030,province_hainaut,2030,127300000,,,commitment,src_ccrek_2026_13_hainaut_budget_2026,strong,Trajectoire ZS Hainaut 2030 127.3m (CoA figure from 20.6m 2020); tick826
+bud_prov_hainaut_pension_solid_2026,province_hainaut,2026,53571210,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Cotisation solidarite pensions 53.571m (SFP 53.656m); tick826
+bud_prov_hainaut_pension_resp_2026,province_hainaut,2026,19682802,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Cotisation responsabilisation 19.683m (SFP 21.726m shortfall 2.0m via fund); tick826
+bud_prov_hainaut_pension_masse_2026,province_hainaut,2026,143082000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Masse salariale agents nommes SFP 143.082m; tick826
+bud_prov_hainaut_debt_stock_2026,province_hainaut,2026,282349379,,,stock,src_ccrek_2026_13_hainaut_budget_2026,strong,Encours dette estimee 01/01/2026 282.349m (province 279.420 + subsidie 2.929); tick826
+bud_prov_hainaut_debt_amort_2026,province_hainaut,2026,24405374,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Charges amortissements 24.405m; tick826
+bud_prov_hainaut_debt_interest_2026,province_hainaut,2026,9514542,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Charges interets emprunts 9.515m; tick826
+bud_prov_hainaut_emprunt_new_2026,province_hainaut,2026,15171417,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Nouvelles autorisations emprunt EP 2026 15.171m; tick826
+bud_prov_hainaut_extraord_invest_2026,province_hainaut,2026,22774470,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Investissements extraordinaires 22.774m; tick826
+bud_prov_hainaut_extraord_dep_global_2026,province_hainaut,2026,24302283,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Extraordinaire global depenses 24.302m; tick826
+bud_prov_hainaut_tournai_cathedral_2026,province_hainaut,2026,3700000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Subside restauration Cathedrale Notre-Dame Tournai 3.7m (95pct of 3.9m works); tick826
+bud_prov_hainaut_reserves_prov_ye2025,province_hainaut,2025,235300340,,,stock,src_ccrek_2026_13_hainaut_budget_2026,strong,Fonds reserves+provisions YE2025 est 235.300m; tick826
+bud_prov_hainaut_provisions_ye2025,province_hainaut,2025,203793807,,,stock,src_ccrek_2026_13_hainaut_budget_2026,strong,Provisions stock 203.794m YE2025; tick826
+bud_prov_hainaut_provisions_ye2026,province_hainaut,2026,187424761,,,stock,src_ccrek_2026_13_hainaut_budget_2026,strong,Provisions est YE2026 187.425m (-16.4m); tick826
+bud_prov_hainaut_voies_eau_2026,province_hainaut,2026,2300000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Subside ASBL Voies d eau du Hainaut 2.3m (incl 1.8m preavis personnel); tick826
+bud_prov_hainaut_it_o365_2026,province_hainaut,2026,1900000,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Plan strategique IT / Office 365 licences +1.9m; tick826
+bud_prov_hainaut_credits_reserve_2026,province_hainaut,2026,1296823,,,budgeted,src_ccrek_2026_13_hainaut_budget_2026,strong,Credits de reserve cavaliers 1.297m; tick826
+bud_dual_prov_hainaut_liege_namur_tick826,gg_belgium,2026,878323448,,,synthesis,src_dual_prov_hainaut_liege_namur_tick826,strong,Dual Hainaut 878m vs Liege 564m / Namur 240m ordinary; not TE-additive; tick826
