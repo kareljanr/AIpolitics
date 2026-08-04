@@ -10515,3 +10515,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43; commitments +4; leaderboard +7; sources +2; entity city_izegem; FOI **gap_izegem_etiz_loans_l5** prio7 ready + draft; raw PDF+extract+DOC2; rq_843=done; spawn **rq_844**; ticks=853
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_844** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 7
+
+## Tick 854 - 2026-08-06T00:00:00Z
+
+- Unit: **rq_844** (FOI-adjacent residual dual - **Stad+OCMW Waregem Jaarrekening 2025** + Izegem dual)
+- Found (strong primary BBC JR2025 234p, GR 07.07.2026):
+  - Assets **EUR346.0m** · equity **EUR255.8m** · debt total **EUR90.2m** · fin debt **EUR32.7m** (LT **EUR28.9m** · ST due **EUR3.8m**)
+  - Pension **EUR37.1m** (~= fin debt) · cash **EUR24.7m** · cap subs **EUR22.8m** · FVA IGS **EUR46.0m** · onbeschikbaar **EUR4.3m**
+  - Exploitatie: ontvangsten **EUR116.9m** · uitgaven **EUR101.8m** · saldo **+EUR15.0m**
+  - AFM **+EUR11.1m** (gecorr **+EUR12.5m**) · BBR **EUR25.1m** · budget result **+EUR4.7m** · P&L **+EUR2.4m**
+  - Personnel **EUR56.3m** (incl other-gov onderwijs **EUR13.1m**) · toelagen **EUR15.0m** (police **EUR4.7m** · fire **EUR1.3m** · IGS **EUR2.3m** · other **EUR6.5m**) · OCMW aid **EUR4.3m** · fiscal **EUR42.4m**
+  - Invest **EUR15.7m** · new loans **EUR2.7m** · gemeentefonds **EUR15.8m**
+- Dual: Izegem **EUR204m** / fin debt **EUR19m** / AFM **+EUR3.1m** / named DOC2 (tick853) - not TE-additive
+- Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_waregem; FOI **gap_waregem_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_844=done; spawn **rq_845**; ticks=854
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_845** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 6
