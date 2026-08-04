@@ -9718,3 +9718,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +10; commitments +5; leaderboard +6; sources +3; FOI **gap_bpost_beheers_50m_begroting_l5** prio8 ready; raw txt; rq_794=done; spawn **rq_795**; ticks=803
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_795** residual 028/030/031; deferred **rq_116**; progress@810 in 7
+
+## Tick 804 — 2026-08-04T23:00:00Z
+
+- Unit: **rq_795** (FOI-adjacent residual — **Kamer DOC 56 1282/031 Beleidsnota Wetenschapsbeleid**, 37p; dual **1282/030 Digitalisering**, 33p)
+- Found (primary 56K1282031):
+  - Defence credits **€100m** subscribed for BE ESA programmes **2023–2027** (prior ministerial)
+  - Protocol Defensie–BELSPO **Apr 2024** + steering committee
+  - Additional Defence cofinancing **€168m** — protocol update 2026; stack class **€268m**
+  - Dual-use FWI/ESF; ESEC Redu quantum; CTBTO path
+- Dual (primary 56K1282030):
+  - External ICT consultant premium **>€50k/yr** vs internal; progressive reduction
+  - Six building blocks incl. external consultance; federal consultancy inventory + KPI reporting
+  - Smals / eGov / internal pool alternatives
+- Wrote: budgets +5; commitments +4; leaderboard +5; sources +3; FOI **gap_belspo_defence_esa_268m_l5** prio8 ready; raw txt; rq_795=done; spawn **rq_796**; ticks=804
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_796** residual 028/005/036; deferred **rq_116**; progress@810 in 6
