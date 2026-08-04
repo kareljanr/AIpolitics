@@ -10409,3 +10409,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_veurne; FOI **gap_veurne_debt_split_subs_l5** prio7 ready + draft; raw PDF+extract; rq_836=done; spawn **rq_837**; ticks=846
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_837** residual dual L5 (Roeselare/VUB/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 4
+
+## Tick 847 - 2026-08-05T20:30:00Z
+
+- Unit: **rq_837** (FOI-adjacent residual dual - **Stad+OCMW Beringen Jaarrekening 2025** + Veurne dual; BELNET AR2025 narrative-only FOI)
+- Found (strong primary BBC JR2025 353p+toelichting, GR 18.05.2026):
+  - Assets **EUR326.1m** (was **EUR254.5m**) · equity **EUR277.7m** · debt total **EUR48.4m** · fin debt **EUR29.4m** (LT **EUR26.2m** · ST due **EUR3.1m**)
+  - Pension **EUR7.1m** · cash **EUR42.8m** (was **EUR10.0m**) · FVA IGS **EUR91.3m** (was **EUR51.0m**) · herwaard **EUR40.2m**
+  - Exploitatie: ontvangsten **EUR92.4m** · uitgaven **EUR81.4m** · saldo **+EUR11.0m**
+  - Invest rec **EUR40.0m** / exp **EUR14.0m** · saldo **+EUR26.1m** · **meerwaarden EUR36.2m**
+  - AFM **+EUR8.4m** · BBR **EUR45.3m** · budget result **+EUR34.2m** · P&L **+EUR35.3m**
+  - Personnel **EUR45.3m** · toelagen **EUR13.0m** (police **EUR4.1m** · fire **EUR1.9m** · IGS **EUR3.5m**) · OCMW aid **EUR3.4m** · fiscal **EUR44.4m** · gemeentefonds **EUR15.2m**
+- Dual: Veurne **EUR143m** / fin debt **EUR27m** / AFM **+EUR0.9m** (tick846) - not TE-additive
+- BELNET AR2025 EN: narrative/staff only, **no statutory euros** -> FOI **gap_belnet_jr2025_accounts_l5**
+- Wrote: budgets +37; commitments +4; leaderboard +7; sources +3; entity city_beringen; FOI x2 ready + drafts; raw PDF+extract; rq_837=done; spawn **rq_838**; ticks=847
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_838** residual dual L5 (Roeselare/Geel/Lier/VUB/skeyes); deferred **rq_116**; progress@850 in 3

@@ -1,0 +1,30 @@
+Beringen Stad+OCMW Jaarrekening 2025 — extract tick847
+Source: https://www.beringen.be/jaarrekening-2025
+PDF fin nota: https://www.beringen.be/file/download/e324c9dc-e172-4ad1-a98e-02cb2dc1f8d9/...
+Local: docs/doge/data/raw/beringen_jr2025.pdf (353p) + toelichting (278p)
+GR 18.05.2026 · published 19.05.2026
+KSZ Stad 0207.465.281 / OCMW 0212.239.760
+AD Luc Vrijdaghs · FD Koen Berghmans · Collegestraat 1 3580
+
+J2 (p347): Expl +10.954.087 (rec 92.359.215 / exp 81.405.128)
+Invest +26.080.242 (rec 40.049.563 / exp 13.969.322) — large invest receipts
+Fin -2.828.110 (rec 1.339.129 / exp 4.167.239)
+BR +34.206.219 · BBR 45.270.929 · AFM +8.391.178 · gecorr AFM +8.920.569
+
+J4 (p350-351) YE2025 / 2024:
+ACTIVA 326.141.505 / 254.457.865 (+71.7m)
+Kas 42.752.795 (was 9.993.192) · FVA 97.314.049 (IGS 91.311.790 was 50.958)
+MVA 165.131.492 · schulden 48.433.417 · nettoactief 277.708.088
+Pensioen LT 7.083.739 · fin LT 26.247.775 · ST due 3.102.609
+Herwaarderingsreserves 40.243.732 (new)
+T4 fin debt total 29.350.385 · new loans 844.063
+
+J5 (p352): Kosten 97.093.491 (bezold 45.279.839 · toelagen 13.027.947 · OCMW aid 3.360.844)
+Opbrengsten 132.371.632 (fiscal 44.442.985 · werk-subs 37.630.654 · meerwaarden 36.228.068)
+Resultaat +35.278.141
+
+T2: politie 4.074.232 · brand 1.894.951 · IGS toelagen 3.526.981 · gemeentefonds 15.236.258
+BD000002 invest rec 38.081.455 (FOI residual — asset realisation path)
+
+Dual: Veurne assets 143m / fin debt 27m / AFM +0.9m (tick846) — not TE-additive
+BELNET AR2025 narrative PDF has no accounts euros this tick

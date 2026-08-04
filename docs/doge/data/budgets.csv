@@ -17744,3 +17744,40 @@ bud_ve_werk_subs_rec_2025,city_veurne,2025,20073561,,,outturn,src_veurne_jr2025,
 bud_ve_gemeentefonds_2025,city_veurne,2025,5538287,,,outturn,src_veurne_jr2025,strong,Gemeentefonds 5.538m; tick846
 bud_ve_fin_costs_2025,city_veurne,2025,789594,,,outturn,src_veurne_jr2025,strong,J5 financiele kosten 0.790m; tick846
 bud_ve_ag_bbr_2025,city_veurne,2025,1279186,,,outturn,src_veurne_jr2025,strong,AG Veurne BBR 1.279m; tick846
+bud_be_assets_2025,city_beringen,2025,326141505,,,outturn,src_beringen_jr2025,strong,Consol stad+OCMW total assets YE2025 326.142m (was 254.5m); tick847
+bud_be_equity_2025,city_beringen,2025,277708088,,,outturn,src_beringen_jr2025,strong,Nettoactief YE2025 277.708m; tick847
+bud_be_debt_total_2025,city_beringen,2025,48433417,,,outturn,src_beringen_jr2025,strong,Total schulden YE2025 48.433m; tick847
+bud_be_fin_debt_2025,city_beringen,2025,29350385,,,outturn,src_beringen_jr2025,strong,T4 total financiele schulden YE2025 29.350m (LT 26.248 + ST due 3.103); tick847
+bud_be_fin_debt_lt_2025,city_beringen,2025,26247775,,,outturn,src_beringen_jr2025,strong,Financiele schulden LT YE2025 26.248m; tick847
+bud_be_fin_debt_st_due_2025,city_beringen,2025,3102609,,,outturn,src_beringen_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 3.103m; tick847
+bud_be_pension_prov_2025,city_beringen,2025,7083739,,,outturn,src_beringen_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.084m; tick847
+bud_be_cash_2025,city_beringen,2025,42752795,,,outturn,src_beringen_jr2025,strong,Liquide middelen YE2025 42.753m (was 9.993m); tick847
+bud_be_cap_subs_2025,city_beringen,2025,15792155,,,outturn,src_beringen_jr2025,strong,Kapitaalsubsidies YE2025 15.792m; tick847
+bud_be_fva_total_2025,city_beringen,2025,97314049,,,outturn,src_beringen_jr2025,strong,Financiele vaste activa YE2025 97.314m; tick847
+bud_be_fva_igs_2025,city_beringen,2025,91311790,,,outturn,src_beringen_jr2025,strong,Fin VA IGS YE2025 91.312m (was 50.958m; reval path); tick847
+bud_be_mva_2025,city_beringen,2025,165131492,,,outturn,src_beringen_jr2025,strong,Materiele vaste activa YE2025 165.131m; tick847
+bud_be_reval_reserves_2025,city_beringen,2025,40243732,,,outturn,src_beringen_jr2025,strong,Herwaarderingsreserves YE2025 40.244m (new); tick847
+bud_be_expl_rec_2025,city_beringen,2025,92359215,,,outturn,src_beringen_jr2025,strong,Exploitatieontvangsten 92.359m; tick847
+bud_be_expl_exp_2025,city_beringen,2025,81405128,,,outturn,src_beringen_jr2025,strong,Exploitatieuitgaven 81.405m; tick847
+bud_be_expl_saldo_2025,city_beringen,2025,10954087,,,outturn,src_beringen_jr2025,strong,Exploitatiesaldo +10.954m; tick847
+bud_be_invest_exp_2025,city_beringen,2025,13969322,,,outturn,src_beringen_jr2025,strong,Investeringsuitgaven J2 13.969m; tick847
+bud_be_invest_rec_2025,city_beringen,2025,40049563,,,outturn,src_beringen_jr2025,strong,Investeringsontvangsten J2 40.050m (incl BD2 38.081m); tick847
+bud_be_invest_saldo_2025,city_beringen,2025,26080242,,,outturn,src_beringen_jr2025,strong,Investeringssaldo +26.080m (receipts>>spend); tick847
+bud_be_fin_rec_2025,city_beringen,2025,1339129,,,outturn,src_beringen_jr2025,strong,Financieringsontvangsten 1.339m; tick847
+bud_be_fin_exp_2025,city_beringen,2025,4167239,,,outturn,src_beringen_jr2025,strong,Financieringsuitgaven 4.167m; tick847
+bud_be_new_loans_2025,city_beringen,2025,844063,,,outturn,src_beringen_jr2025,strong,Nieuwe leningen 0.844m; tick847
+bud_be_aflossingen_2025,city_beringen,2025,3054236,,,outturn,src_beringen_jr2025,strong,Periodieke aflossingen 3.054m; tick847
+bud_be_afm_2025,city_beringen,2025,8391178,,,outturn,src_beringen_jr2025,strong,AFM +8.391m; tick847
+bud_be_afm_corr_2025,city_beringen,2025,8920569,,,outturn,src_beringen_jr2025,strong,Gecorrigeerde AFM +8.921m; tick847
+bud_be_bbr_2025,city_beringen,2025,45270929,,,outturn,src_beringen_jr2025,strong,BBR 45.271m after onbeschikbaar 1.631m; tick847
+bud_be_budget_result_2025,city_beringen,2025,34206219,,,outturn,src_beringen_jr2025,strong,Budgettair resultaat boekjaar +34.206m; tick847
+bud_be_cum_br_2025,city_beringen,2025,46902408,,,outturn,src_beringen_jr2025,strong,Gecumuleerd budgettair resultaat 46.902m; tick847
+bud_be_pnl_result_2025,city_beringen,2025,35278141,,,outturn,src_beringen_jr2025,strong,Vennootschapsresultaat J5 +35.278m (meerwaarden 36.2m); tick847
+bud_be_meerwaarden_2025,city_beringen,2025,36228068,,,outturn,src_beringen_jr2025,strong,Meerwaarden bij realisatie vaste activa J5 36.228m; tick847
+bud_be_personnel_2025,city_beringen,2025,45279839,,,outturn,src_beringen_jr2025,strong,J5/T2 bezoldigingen 45.280m; tick847
+bud_be_toelagen_2025,city_beringen,2025,13027947,,,outturn,src_beringen_jr2025,strong,Toegestane werkingssubsidies 13.028m (politie 4.074 fire 1.895 IGS 3.527); tick847
+bud_be_ocmw_aid_2025,city_beringen,2025,3360844,,,outturn,src_beringen_jr2025,strong,OCMW individuele hulp 3.361m; tick847
+bud_be_fiscal_2025,city_beringen,2025,44442985,,,outturn,src_beringen_jr2025,strong,J5 fiscale opbrengsten en boetes 44.443m; tick847
+bud_be_werk_subs_rec_2025,city_beringen,2025,37630654,,,outturn,src_beringen_jr2025,strong,J5 werkingssubsidies ontvangen 37.631m; tick847
+bud_be_gemeentefonds_2025,city_beringen,2025,15236258,,,outturn,src_beringen_jr2025,strong,Gemeentefonds 15.236m; tick847
+bud_be_fin_costs_2025,city_beringen,2025,757893,,,outturn,src_beringen_jr2025,strong,J5 financiele kosten 0.758m; tick847
