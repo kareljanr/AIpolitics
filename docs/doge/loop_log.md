@@ -9449,3 +9449,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +13; commitments +6; leaderboard +8; sources +2; FOI **gap_rsvz_dot_vuln_egov_l5** prio8 ready; raw PDF; rq_775=done; spawn **rq_776**; ticks=784
 - FOI: ready only — **do not send**
 - Next: rq_776 residual dual/L5 (Pensioenen 014 / Asiel 038 / …); progress@790 in 6; rq_116 deferred
+
+## Tick 785 — 2026-08-04T13:30:00Z
+
+- Unit: **rq_776** (FOI-adjacent residual — **Kamer DOC 56 1282/014 Beleidsnota Pensioenen**)
+- Found (primary 56K1282014):
+  - Pension spend **11.3% GDP** 2024 (from 8.7% 2005); dual existing ~€72.5bn stack
+  - SCvV Jul2025 Arizona: ageing-cost rise **3.6pp → 1.7pp** GDP 2024–70 (still 27.05% GDP social ageing 2070)
+  - **Wijninckx 3→12.5%** from 2026; solidarity **2→4%** above **€150k** from Jul 2027
+  - High pension index freeze **>€5,250**/mo; Wijninckx ceiling **€8,291** freeze
+  - New federal statutory employer pens contrib to **38%** by 2029 (from Jul 2026)
+  - 2nd pillar target **3%** employer by 2035; POZ insurance tax **4.4%** abolished
+- Wrote: budgets +14; commitments +6; leaderboard +8; sources +2; FOI **gap_pens_wijninckx_statut_l5** prio9 ready; raw PDF; rq_776=done; spawn **rq_777**; ticks=785
+- FOI: ready only — **do not send**
+- Next: rq_777 residual dual/L5; progress@790 in 5; rq_116 deferred
