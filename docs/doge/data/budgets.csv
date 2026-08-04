@@ -17314,3 +17314,41 @@ bud_genk_fiscal_2025,city_genk,2025,63136030,,,cash,src_genk_jr2025,strong,J5 fi
 bud_genk_werk_subs_rec_2025,city_genk,2025,88387129,,,cash,src_genk_jr2025,strong,J5 werkingssubsidies ontvangen 88.387m (gemeentefonds 49.249m); tick832
 bud_genk_fin_costs_2025,city_genk,2025,4450346,,,cash,src_genk_jr2025,strong,J5 financiele kosten 4.450m; tick832
 bud_genk_police_toelage_2025,city_genk,2025,13714659,,,cash,src_genk_jr2025,strong,Toelage politiezone 13.715m; tick832
+bud_aalst_assets_2025,city_aalst,2025,616504271,,,stock,src_aalst_jr2025,strong,Consol stad+OCMW total assets YE2025 616.504m; tick833
+bud_aalst_equity_2025,city_aalst,2025,406799666,,,stock,src_aalst_jr2025,strong,Nettoactief YE2025 406.800m; tick833
+bud_aalst_debt_total_2025,city_aalst,2025,209704606,,,stock,src_aalst_jr2025,strong,Total schulden YE2025 209.705m; tick833
+bud_aalst_fin_debt_2025,city_aalst,2025,164299390,,,stock,src_aalst_jr2025,strong,Financiele schulden total YE2025 164.299m (LT 148.521 + ST due 10.778 + ST treasury 5.000); -15.2m YoY; tick833
+bud_aalst_fin_debt_lt_2025,city_aalst,2025,148521475,,,stock,src_aalst_jr2025,strong,Financiele schulden LT YE2025 148.521m; tick833
+bud_aalst_fin_debt_st_treasury_2025,city_aalst,2025,5000000,,,stock,src_aalst_jr2025,strong,Thesaurie/lening ST YE2025 5.0m (was 10.0m); tick833
+bud_aalst_pension_prov_2025,city_aalst,2025,8592483,,,stock,src_aalst_jr2025,strong,Pensioenvoorzieningen YE2025 8.592m (was 9.196m); dual Genk 312.6m; tick833
+bud_aalst_cash_2025,city_aalst,2025,18493501,,,stock,src_aalst_jr2025,strong,Liquide middelen YE2025 18.494m (was 38.820m); tick833
+bud_aalst_cap_subs_2025,city_aalst,2025,98035666,,,stock,src_aalst_jr2025,strong,Kapitaalsubsidies YE2025 98.036m; tick833
+bud_aalst_fva_igs_2025,city_aalst,2025,70910863,,,stock,src_aalst_jr2025,strong,Fin VA IGS 70.911m; tick833
+bud_aalst_expl_rec_2025,city_aalst,2025,276171685,,,cash,src_aalst_jr2025,strong,Exploitatieontvangsten 276.172m; tick833
+bud_aalst_expl_exp_2025,city_aalst,2025,260234131,,,cash,src_aalst_jr2025,strong,Exploitatieuitgaven 260.234m (+7.1pct YoY cash path); tick833
+bud_aalst_expl_saldo_2025,city_aalst,2025,15937554,,,cash,src_aalst_jr2025,strong,Exploitatiesaldo +15.938m; tick833
+bud_aalst_invest_exp_2025,city_aalst,2025,34537629,,,cash,src_aalst_jr2025,strong,Investeringsuitgaven 34.538m; tick833
+bud_aalst_invest_rec_2025,city_aalst,2025,12373751,,,cash,src_aalst_jr2025,strong,Investeringsontvangsten 12.374m; tick833
+bud_aalst_invest_saldo_2025,city_aalst,2025,-22163877,,,cash,src_aalst_jr2025,strong,Investeringssaldo -22.164m; tick833
+bud_aalst_fin_rec_2025,city_aalst,2025,2806994,,,cash,src_aalst_jr2025,strong,Financieringsontvangsten 2.807m (low new debt year); tick833
+bud_aalst_fin_exp_2025,city_aalst,2025,10805528,,,cash,src_aalst_jr2025,strong,Financieringsuitgaven 10.806m; tick833
+bud_aalst_new_loans_2025,city_aalst,2025,645636,,,cash,src_aalst_jr2025,strong,Nieuwe leningen/leasings 0.646m (low vs plan 35-40m); tick833
+bud_aalst_aflossingen_2025,city_aalst,2025,10805513,,,cash,src_aalst_jr2025,strong,Periodieke aflossingen 10.806m; tick833
+bud_aalst_afm_2025,city_aalst,2025,7985825,,,cash,src_aalst_jr2025,strong,Autofinancieringsmarge AFM +7.986m (gecorr +4.435m); tick833
+bud_aalst_afm_corr_2025,city_aalst,2025,4434597,,,cash,src_aalst_jr2025,strong,Gecorrigeerde AFM +4.435m; tick833
+bud_aalst_bbr_2025,city_aalst,2025,16320776,,,cash,src_aalst_jr2025,strong,Beschikbaar budgettair resultaat BBR 16.321m (177 EUR/inwoner); tick833
+bud_aalst_budget_result_2025,city_aalst,2025,-14224858,,,cash,src_aalst_jr2025,strong,Budgettair resultaat boekjaar -14.225m; tick833
+bud_aalst_pnl_result_2025,city_aalst,2025,850178,,,cash,src_aalst_jr2025,strong,Vennootschapsresultaat J5 +0.850m; tick833
+bud_aalst_bezold_2025,city_aalst,2025,139124117,,,cash,src_aalst_jr2025,strong,J5/T2 bezoldigingen 139.124m (incl onderwijzend 21.058m other-gov; cash own-charge class ~118.1m); tick833
+bud_aalst_goederen_2025,city_aalst,2025,44629280,,,cash,src_aalst_jr2025,strong,J5 goederen en diensten 44.629m; tick833
+bud_aalst_toelagen_2025,city_aalst,2025,51423586,,,cash,src_aalst_jr2025,strong,J5/T2 toegestane werkingssubsidies 51.424m (police 28.052 fire 7.129 AGB 8.598 other 6.559); tick833
+bud_aalst_police_toelage_2025,city_aalst,2025,28051511,,,cash,src_aalst_jr2025,strong,Toelage politiezone 28.052m; tick833
+bud_aalst_fire_toelage_2025,city_aalst,2025,7128523,,,cash,src_aalst_jr2025,strong,Toelage hulpverleningszone 7.129m; tick833
+bud_aalst_agb_toelage_2025,city_aalst,2025,8597680,,,cash,src_aalst_jr2025,strong,Toelage AGB 8.598m; tick833
+bud_aalst_ocmw_aid_2025,city_aalst,2025,15671082,,,cash,src_aalst_jr2025,strong,J5 individuele hulpverlening OCMW 15.671m; tick833
+bud_aalst_ocmw_deficit_cover_2025,city_aalst,2025,15036583,,,cash,src_aalst_jr2025,strong,Tussenkomst stad in OCMW-tekort 15.037m; tick833
+bud_aalst_fiscal_2025,city_aalst,2025,90441741,,,cash,src_aalst_jr2025,strong,J5 fiscale opbrengsten en boetes 90.442m; tick833
+bud_aalst_werk_subs_rec_2025,city_aalst,2025,129218541,,,cash,src_aalst_jr2025,strong,J5 werkingssubsidies ontvangen 129.219m (gemeentefonds 57.070m); tick833
+bud_aalst_fin_costs_2025,city_aalst,2025,3986665,,,cash,src_aalst_jr2025,strong,J5 financiele kosten 3.987m; tick833
+bud_aalst_inv_subs_granted_2025,city_aalst,2025,3627926,,,cash,src_aalst_jr2025,strong,Toegestane investeringssubsidies 3.628m; tick833
+bud_aalst_debt_per_capita_2025,city_aalst,2025,1784,,,stock,src_aalst_jr2025,strong,Openstaande schuld per inwoner 1784 EUR (incl ST); tick833

@@ -10192,3 +10192,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_823** residual dual L5/local/CoA (Aalst/Roeselare/Hasselt/BELNET/skeyes); deferred **rq_116**; progress@840 in 8
 
+
+## Tick 833 — 2026-08-05T13:30:00Z
+
+- Unit: **rq_823** (FOI-adjacent residual dual — **Stad+OCMW Aalst Jaarrekening 2025** + Genk/Kortrijk city dual)
+- Found (strong primary BBC JR2025 260p, publicatiedatum 3 jul 2026, Grote Markt 3 NIS Aalst):
+  - Assets **€616.5m** · equity **€406.8m** · debt total **€209.7m** · fin debt **€164.3m** (−15.2m YoY; LT **€148.5m** · ST due **€10.8m** · treasury **€5.0m**) · **€1.784/capita**
+  - Pension provisions **€8.6m** (low vs Genk **€312.6m** / Mechelen **€134.8m**) · cap subs **€98.0m** · cash **€18.5m** (was **€38.8m**)
+  - Exploitatie: ontvangsten **€276.2m** · uitgaven **€260.2m** · saldo **+€15.9m**
+  - AFM **+€7.99m** (gecorr **+€4.43m**) · BBR **€16.3m** (177 EUR/inwoner) · budget result **−€14.2m** · P&L **+€0.85m**
+  - J5 bezold **€139.1m** (+9.3%; incl onderwijzend other-gov **€21.1m**) · toelagen **€51.4m** (police **€28.1m** · fire **€7.1m** · AGB **€8.6m**) · OCMW aid **€15.7m** · OCMW cover **€15.0m**
+  - Invest **€34.5m** · new loans only **€0.65m** · repay **€10.8m** · fiscal **€90.4m** · werk-subs rec **€129.2m** · fin costs **€4.0m**
+- Dual: Genk **€628.7m** assets / pension **€312.6m** (tick832) · Kortrijk **€720.4m** / loon **€135.6m** (tick831) — not TE-additive
+- Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_aalst; FOI **gap_aalst_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_823=done; spawn **rq_824**; ticks=833
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_824** residual dual L5/local/CoA (Roeselare/Hasselt/BELNET/skeyes); deferred **rq_116**; progress@840 in 7
+
