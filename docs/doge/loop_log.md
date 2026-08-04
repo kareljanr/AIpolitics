@@ -9544,3 +9544,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_783** residual Asiel038/local; deferred **rq_116**; progress@800 in 9
 
+## Tick 792 — 2026-08-04T17:00:00Z
+
+- Unit: **rq_783** (FOI-adjacent residual — **Kamer DOC 56 1282/038 Beleidsnota Asiel**, 26p)
+- Found (primary 56K1282038):
+  - **Almost no euro lines** in policy note (strong opacity residual)
+  - Fedasil theoretical **phase-out**: hotels first, then LOI/local; buffer places retained
+  - **2nd Dublin centre** 2026 (after Zaventem); **Fast Track** pilot centre 2026
+  - New **aanmeldcentrum** dossier to Ministerraad before summer 2026
+  - Meal cheques → **food-only cards** early 2026; contribution duty enforcement for working asylum seekers
+  - Fedasil **budget-framework** exercise continues 2026 (spending review + IF recommendations)
+  - Federal Police escorts **+72** by end-2026; DVZ escorts end-2026/early-2027; Frontex ramp 2026
+  - Masterplan closed centres: Merksplas wing 2025; Steenokkerzeel first stone; **Jabbeke works 2026**
+  - Dual prior Fedasil package **€802.2m** 2026 (dot 702.2 + prov 100) + admin chain ~€244m class
+- Wrote: budgets +10; commitments +8; leaderboard +7; sources +2; FOI **gap_asiel_dublin_masterplan_l5** prio9 ready; raw PDF; rq_783=done; spawn **rq_784**; ticks=792
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_784** residual local/CoA; deferred **rq_116**; progress@800 in 8

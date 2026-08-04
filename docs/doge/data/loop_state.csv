@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T16:30:00Z,rq_782,791,no,user paused=no; next rq_783 Asiel038/local; progress@800 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T17:00:00Z,rq_783,792,no,tick792 Asiel038 euro-opaque dual Fedasil802.2m Dublin2/Masterplan FOI; next rq_784 local/CoA residual; progress@800 in 8; rq_116 deferred
