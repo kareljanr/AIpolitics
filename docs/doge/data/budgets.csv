@@ -8186,13 +8186,11 @@ bud_nloterij_cinematek_2025,nationale_loterij,2025,700000,,,budget,src_nloterij_
 bud_nloterij_sports_fed_2025,nationale_loterij,2025,2700000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Belgian Sports Federations & National Teams 2.7m provisional 2025; tick461
 bud_nloterij_armoede_call_2025,nationale_loterij,2025,2500000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Project call poverty/inclusion 2.5m provisional 2025; tick461
 bud_nloterij_women_sport_2025,nationale_loterij,2025,1000000,,,budget,src_nloterij_kb_voorlopig_2025,strong,Women high-level sport initiatives 1.0m provisional 2025; tick461
-
 bud_cpvs_inami_envelope_2026,riziv,2026,26400000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,CPVS/ZSG total planned annual envelope 26.4m from 2026 (minister Kamer); dual IEFH+NL path; tick462
 bud_cpvs_fonds_blouses_blanches_2026,riziv,2026,11700000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,Transfer 11.7m from Fonds Blouses blanches / Zorgpersoneelfonds via CPVS law; tick462
 bud_cpvs_extra3_centres_2026,riziv,2026,5800000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,Additional 5.8m exogenous cover for 3 extra CPVS (13 total); tick462
 bud_cpvs_iefh_to_inami_transfer_2026,iefh,2026,8900000,,,budgeted,src_kamer_56k0854_037_cpvs,strong,IEFH annual transfer to INAMI 8.9m (dotation currently financing hospital CPVS structures); dual RA 2024 cash 10.926m; tick462
 bud_cpvs_stack_dual_2024_26,iefh,2024,10926000,,,outturn,src_cpvs_dual_recon_tick462,strong,Dual anchor IEFH CPVS cash 10.926m 2024 vs 2026 transfer 8.9m announced; NL SARC separate 1.616 2025; tick462
-
 bud_nloterij_plan_def_2025_total,nationale_loterij,2025,240000000,,,budget,src_nloterij_kb_definitief_2025,strong,Definitive verdelingsplan 2025 TOTAL 240m (KB 5 Jun 2026); +40m vs provisional 200m; tick463
 bud_nloterij_def_vs_prov_uplift_2025,nationale_loterij,2025,40000000,,,derived,src_nl_2025_def_vs_prov_recon,strong,Definitive minus provisional plan total 240-200=40m uplift; tick463
 bud_nloterij_communities_def_2025,nationale_loterij,2025,65856000,,,budget,src_nloterij_kb_definitief_2025,strong,Cat1 federated entities sum: DG 555034 + VL 39842078 + FR 25458888 = 65.856m definitive; tick463
@@ -8221,7 +8219,6 @@ bud_nloterij_myria_def_2025,myria,2025,1077174,,,budget,src_nloterij_kb_definiti
 bud_nloterij_boic_def_2025,boic,2025,2000000,,,budget,src_nloterij_kb_definitief_2025,strong,BOIC werking definitive 2.0m confirmed; tick463
 bud_nloterij_reading_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,Leesbevordering + financial literacy 1.5m definitive Art5 sub residual; tick463
 bud_nloterij_chinese_pavilion_def_2025,nationale_loterij,2025,500000,,,budget,src_nloterij_kb_definitief_2025,strong,Histoire des Belges 2030 Chinese Pavilion 0.5m multi-year to 2031; tick463
-
 bud_lov2030_total_72_5m,lov2030,2030,72500000,,,budgeted,src_lov2030_bidbook_final,strong,LOV2030 total operating budget 72.5m confirmed bidbook (to 2033 growth path); tick464
 bud_lov2030_federal_nl_15m,lov2030,2030,15000000,,,budgeted,src_lov2030_bidbook_final,strong,Federal via National Lottery 15m = 3m x5 years 2026-2030 (CM 17 May 2024); dual NL plan 10.5m 2025; tick464
 bud_lov2030_flanders_30m,lov2030,2030,30000000,,,budgeted,src_lov2030_bidbook_final,strong,Flemish government 30m to winning Flemish ECoC city (spring 2024 + confirmed early summer 2025); tick464
@@ -8233,7 +8230,6 @@ bud_lov2030_private_ambition_10m,lov2030,2030,10000000,,,budgeted,src_lov2030_bi
 bud_lov2030_artistic_47_12m,lov2030,2030,47120000,,,budgeted,src_lov2030_bidbook_final,strong,Total artistic budget 47.12m within 72.5m operating; tick464
 bud_lov2030_nl_plan_vs_bid_recon,lov2030,2025,10500000,,,recon,src_lov2030_dual_recon_tick464,strong,NL definitive 2025 line 10.5m vs bidbook annual 3m from 2026; front-load or multi-year booking residual FOI; tick464
 bud_lov2030_public_stack_ex_private,lov2030,2030,62500000,,,derived,src_lov2030_bidbook_final,strong,Public stack 72.5-10 private = 62.5m (EU1.5+fed15+VL30+prov3+city10+reg3); tick464
-
 bud_proleague_fsr_own_clubs_200k,pro_league,2025,200000,,,outturn,src_proleague_fsr_clubs_200k,strong,Pro League own middelen FSR grants to 28 clubs record 200k (3-13k each) Jul 2025; not public subsidy; dual private layer; tick465
 bud_nloterij_red_courts_def_2025,nationale_loterij,2025,200000,,,budget,src_nloterij_kb_definitief_2025,strong,Belgian football Lotto Red Courts projects 0.2m definitive cat3.29; dual Pro League football stack; tick465
 bud_nl_sport_named_stack_2025,nationale_loterij,2025,14450000,,,derived,src_proleague_dual_recon_tick465,strong,Named sport stack definitive 2025: ProLeague3.5+RedCourts0.2+Women2.0+SportsFed2.7+BOIC2.0+BPC0.45+RoadLA1.1+BeGold1.5+EYOF1.0=14.45m; tick465
@@ -8245,7 +8241,6 @@ bud_beliris_stib_gare_centrale_2025,stib,2025,3500000,,,outturn,src_beliris_subs
 bud_beliris_stib_gare_centrale_total,stib,2025,20000000,,,budgeted,src_beliris_subsides_2025,strong,Beliris STIB Gare Centrale renovation total engagement 20m; tick465
 bud_flagey_public_stack_2025,flagey,2025,3485000,,,derived,src_beliris_flagey_dual_tick465,strong,Flagey dual public class 2025: Beliris 3.235m capex + NL 0.25m opex = 3.485m (different purposes); tick465
 bud_proleague_nl_public_3_5m,pro_league,2025,3500000,,,budget,src_nloterij_kb_definitief_2025,strong,Pro League NL Art5.11 FSR safety innovation 3.5m definitive (entity end-receiver view); tick465
-
 bud_nloterij_chinese_pavilion_def_2025,nationale_loterij,2025,500000,,,budget,src_nloterij_kb_definitief_2025,strong,Histoire des Belges 2030 Chinese Pavilion projects 0.5m definitive Art5.7 multi-year frame to 2031; tick466
 bud_regie_chinees_paviljoen_works_6m,regie_gebouwen,2026,6000000,,,budgeted,src_regie_chinees_paviljoen,strong,Regie restoration works budget raised to ca 6m EUR for Chinese Pavilion Laken; PPP private-led risk same envelope; tick466
 bud_chinees_paviljoen_private_target_6m,chinees_paleis_vzw,2027,6000000,,,budgeted,src_vrt_chinees_paviljoen_2024,medium,Hennebert private fundraising target ~6m (BRUZZ 6-7m); first 1m in medium; not pure public euro; tick466
@@ -8255,7 +8250,6 @@ bud_nloterij_festivals_wal_def_2025,festivals_wallonie,2025,191000,,,budget,src_
 bud_nloterij_festivals_vl_wal_sum_2025,nationale_loterij,2025,450000,,,derived,src_festivals_vl_wal_nl_dual,strong,Dual festivals VL+WAL NL sum 259+191=450k definitive classical music; tick466
 bud_nloterij_classical_music_prog_def_2025,nationale_loterij,2025,560000,,,budget,src_nloterij_kb_definitief_2025,strong,Specific classical music programme projects 560k cat3.32 Art5 sub residual; dual festivals stack; tick466
 bud_chinees_paviljoen_nl_plus_regie_class,chinees_paleis_vzw,2026,6500000,,,derived,src_chinees_paviljoen_dual_tick466,medium,Dual class if additive NL 0.5 + Regie 6m; may overlap PPP envelope FOI; tick466
-
 bud_cinematek_fed_toelage_2023,cinematek,2023,3230000,,,outturn,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2023r 3230 kEUR; tick467
 bud_cinematek_fed_toelage_2024,cinematek,2024,3296000,,,budget,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2024a 3296 kEUR; tick467
 bud_cinematek_fed_toelage_2025,cinematek,2025,3306000,,,budget,src_kamer_56k0855_018_culture,strong,Filmarchief BA 60.36.41.40.01 2025i 3306 kEUR (inflation+linear cut path); tick467
@@ -8270,7 +8264,6 @@ bud_chapelle_reine_elisabeth_2025,chapelle_reine_elisabeth,2025,155000,,,budget,
 bud_cre_prize_gouvernement_2025,concours_reine_elisabeth,2025,20000,,,budget,src_kamer_56k0855_018_culture,strong,BA 61.15.33.00.15 federal government prize 2nd laureate 20 kEUR/yr; tick467
 bud_nloterij_cre_def_2025,concours_reine_elisabeth,2025,220000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art5.2 Internationale Muziekwedstrijd Koningin Elisabeth 220k definitive; tick467
 bud_cre_nl_plus_fed_prize_2025,concours_reine_elisabeth,2025,240000,,,derived,src_reine_elisabeth_dual_tick467,strong,Dual CRE: NL 220k + fed prize 20k = 240k (Chapelle 155k separate entity); tick467
-
 bud_kik_irpa_dot_2023,kik_irpa,2023,6598000,,,outturn,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2023r 6598 kEUR; tick468
 bud_kik_irpa_dot_2024,kik_irpa,2024,6615000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2024a 6615 kEUR; tick468
 bud_kik_irpa_dot_2025,kik_irpa,2025,6573000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,KIK BA 60.34.41.30.22 2025i 6573 kEUR; tick468
@@ -8285,7 +8278,6 @@ bud_nloterij_proximity_def_2025,nationale_loterij,2025,1000000,,,budget,src_nlot
 bud_nloterij_fwi_projects_def_2025,belspo,2025,500000,,,budget,src_nl_fwi_projects_0_5m,strong,Federale wetenschappelijke instellingen projects 0.5m definitive cat3.25; tick468
 bud_nloterij_regie_patrimonium_def_2025,regie_gebouwen,2025,3087872,,,budget,src_nloterij_kb_definitief_2025,strong,Regie der Gebouwen nationaal patrimonium 3.087872m definitive cat3.13; dual Chinese Pavilion residual; tick468
 bud_iccrom_be_contrib_2025,belspo,2025,41000,,,budget,src_kamer_56k0855_018_irpa_artpool,strong,Belgium ICCROM contribution BA 60.35.35.40.10 41 kEUR 2025i; tick468
-
 bud_kbr_dot_2025,kbr,2025,17041000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KBR BA 60.31.41.30.10 2025i 17041 kEUR Documentation pool; tick469
 bud_ara_dot_2025,ara,2025,16114000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,ARA BA 60.31.41.30.11 2025i 16114 kEUR Documentation pool; tick469
 bud_doc_pool_sum_2025,belspo,2025,33155000,,,derived,src_fwi_four_pools_recon_tick469,strong,Documentation pool KBR+ARA 17.041+16.114=33.155m 2025i; tick469
@@ -8301,7 +8293,6 @@ bud_kmma_dot_2025,kmma,2025,11771000,,,budget,src_kamer_56k0855_018_fwi_pools,st
 bud_kbin_belgica_jemu_2025,kbin,2025,4143000,,,budget,src_kamer_56k0855_018_fwi_pools,strong,KBIN Belgica+JEMU+public obs BA 60.33.41.30.25 4143 kEUR 2025i; tick469
 bud_nature_pool_sum_2025,belspo,2025,35396000,,,derived,src_fwi_four_pools_recon_tick469,strong,Nature pool 19.482+11.771+4.143=35.396m 2025i; tick469
 bud_fwi_four_pools_total_2025,belspo,2025,132271000,,,derived,src_fwi_four_pools_recon_tick469,strong,Four FWI pools structural sum Doc33.155+Space30.695+Nature35.396+Art33.025=132.271m 2025i; +NL FWI projects 0.5m; tick469
-
 bud_begold_total_3_5m,begold,2025,3500000,,,budget,src_begold_partners_budget,strong,Be Gold annual total 3.5m dual multi-partner; tick471
 bud_begold_nl_1_5m,begold,2025,1500000,,,budget,src_begold_partners_budget,strong,Be Gold NL share 1.5m (matches plan Art3.26 Be Gold projects); tick471
 bud_begold_boic_0_75m,boic,2025,750000,,,budget,src_begold_partners_budget,strong,Be Gold BOIC share 0.75m dual BOIC sport stack; tick471
@@ -8310,14 +8301,12 @@ bud_begold_adeps_0_5m,adeps,2025,500000,,,budget,src_begold_partners_budget,stro
 bud_begold_dg_0_01m,sec_dg,2025,10000,,,budget,src_begold_partners_budget,strong,Be Gold Ostbelgien/DG share 10k; tick471
 bud_begold_cumulative_2004,begold,2024,49261432,,,outturn,src_begold_partners_budget,strong,Be Gold cumulative financing since 2004 EUR 49261432.08; tick471
 bud_nloterij_begold_def_2025,nationale_loterij,2025,1500000,,,budget,src_nloterij_kb_definitief_2025,strong,NL Art3.26 Be Gold projects 1.5m definitive (entity dual filled tick471); tick471
-
 bud_nloterij_fairwork_def_2025,fairwork_belgium,2025,250000,,,budget,src_nloterij_kb_definitief_2025,strong,Fairwork Belgium projects 250k definitive cat3.35; dual AR NL support confirmed tick472
 bud_nloterij_iarc_def_2025,iarc_lyon,2025,759770,,,budget,src_nloterij_kb_definitief_2025,strong,IARC Lyon International Agency Research Cancer 759770 definitive cat3.10; WHO-linked dual residual federal membership; tick472
 bud_nloterij_antikankerfonds_def_2025,antikankerfonds,2025,300000,,,budget,src_nloterij_kb_definitief_2025,strong,Antikankerfonds My Cancer Navigator 300k definitive cat3.16; tick472
 bud_nloterij_opvangtehuizen_def_2025,nationale_loterij,2025,495000,,,budget,src_nloterij_kb_definitief_2025,strong,Opvangtehuizen Centres d hebergement 495k definitive cat3.12 aggregate shelters; L5 named residual FOI; tick472
 bud_nloterij_holocaust_def_2025,nationale_loterij,2025,370000,,,budget,src_nloterij_kb_definitief_2025,strong,Herdenking Holocaust Memoires 370k definitive cat3.17 Art5 sub-note residual; tick472
 bud_nl_health_human_residual_sum_2025,nationale_loterij,2025,2174770,,,derived,src_nl_residual_health_human_l5_tick472,strong,Sum Fairwork+IARC+Antikanker+Opvang+Holocaust 0.25+0.76+0.3+0.495+0.37=2.175m residual health/human L5 batch; tick472
-
 bud_nloterij_paola_def_2025,fondation_reine_paola,2025,260000,,,budget,src_nloterij_kb_definitief_2025,strong,Stichting Koningin Paola 260k definitive cat3.5; dual AR impact tick473
 bud_paola_pelicano_aid_2025,fondation_reine_paola,2025,1091863,,,derived,src_paola_ar_2025,medium,Pelicano 1431 young x avg 763 EUR = 1.091853m class direct support 2025; tick473
 bud_paola_aides_directes_1_5m,fondation_reine_paola,2025,1500000,,,budgeted,src_paola_ar_2025,strong,AR impact claim 1.5m direct aids distributed 2025 (all programmes class); may include Pelicano; tick473
@@ -8334,7 +8323,6 @@ bud_nloterij_bna_def_2025,nationale_loterij,2025,150000,,,budget,src_nloterij_kb
 bud_nloterij_to_walk_again_def_2025,nationale_loterij,2025,100000,,,budget,src_nloterij_kb_definitief_2025,strong,To Walk Again 100k definitive cat3.36; tick473
 bud_nloterij_wwf_def_2025,nationale_loterij,2025,100000,,,budget,src_nloterij_kb_definitief_2025,strong,WWF Belgium projects 100k definitive cat3.11; tick473
 bud_nl_residual_culture_social_sum_2025,nationale_loterij,2025,3315000,,,derived,src_nl_residual_culture_social_l5_tick473,strong,Sum Paola0.26+Manege0.1+Jardin0.1+UCI0.6+Lees1.5+Poverty0.2+OVK0.205+BNA0.15+Walk0.1+WWF0.1=3.315m residual culture/social L5; tick473
-
 bud_nloterij_homeless_innovation_def_2025,nationale_loterij,2025,1275725,,,budget,src_nl_homeless_innovation_1_275m,strong,Social innovation homelessness transit housing 1.275725m definitive cat3.15; tick474
 bud_nloterij_poverty_call_def_2025,nationale_loterij,2025,2500000,,,budget,src_nloterij_kb_definitief_2025,strong,Project call poverty social inclusion 2.5m definitive cat4.3; winners L5 residual FOI; tick474
 bud_poverty_dual_nl_vl_stack_2025,gg_belgium,2025,2611725,,,derived,src_poverty_dual_stack_tick474,strong,Dual stack class: Interfed NL 200k + BNA NL 150k + VL Netwerk 986k + homeless innov 1.275725m = 2.611725m (not full poverty TE); tick474
@@ -13038,7 +13026,6 @@ bud_pens_reform_save_path_2030_2212m,fpd_pensioenen,2030,2212000000,,,budgeted,s
 bud_pens_gelijkstelling_save_2027_7m,fpd_pensioenen,2027,7000000,,,budgeted,src_ccrek_fed_aju2026_ss_riziv_ao,strong,Gelijkgestelde perioden limit save 7m 2027 (IB 12; older plan 48); 2030 69; tick675
 bud_dual_riziv_care_43_9bn_2026,gg_belgium,2026,43857400000,,,budgeted,src_dual_ss_riziv_ao_tick675,strong,Dual RIZIV care 43.86bn vs VL WVG WZC 2.74 + WAL AViQ 7+ class (not sum); tick675
 bud_dual_ao_14_8bn_2026,gg_belgium,2026,14839400000,,,budgeted,src_dual_ss_riziv_ao_tick675,strong,Dual AO werknemers 14.84bn residual reform slip; tick675
-
 bud_fed_energy_stack_2_6bn_ch4_2026,sec_federal,2026,2600000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,CoA ch4 energy policy ~2.6bn residual tick676 (DG 1.2 + assign funds 1.4); opacity toewijzingsfondsen
 bud_dg_energie_credits_1_2bn_ch4_2026,sec_federal,2026,1200000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,DG Energie FOD Economie credits ~1.2bn of energy stack; CoA ch4 tick676
 bud_energy_assign_funds_1_4bn_2026,sec_federal,2026,1400000000,,,budgeted,src_ccrek_fed_aju2026_energy_ch4,strong,Direct fiscal assign via toewijzingsfondsen to CREG+Elia+NIRAS+Hedera ~1.4bn; CoA opacity; tick676
@@ -13422,7 +13409,7 @@ bud_rva_volume_up_287m_2026,rva,2026,287000000,,,budgeted,src_ccrek_vl_delijn_rv
 bud_rva_full_unemp_units_up_17473_2026,rva,2026,17473,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Fully unemployed benefit recipients +17473 units path (FPB -98k not -116k y/y swing); tick685
 bud_rva_temp_unemp_units_minus_3851_2026,rva,2026,3851,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Temporary unemployment beneficiaries -3851 units; tick685
 bud_rva_spilindex_up_8_2m_2026,rva,2026,8200000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Spilindex Dec2025 path +8.2m; Jun2026 next index not re-estimated by RVA; tick685
-bud_rva_other_minus_96_7m_2026,rva,2026,96700000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Other impact -96.7m (avg daily benefit, arrears, days paid, category shifts); tick685
+bud_rva_other_minus_96_7m_2026,rva,2026,96700000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Other impact -96.7m (avg daily benefit
 bud_fpb_unemp_rate_bc_9_6pct_2026,gg_belgium,2026,96,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,FPB Feb2026 unemployment rate 9.6pct (IB 9.1); storage 96=9.6pct; tick685
 bud_rva_mantelzorg_cost_0_8m_yr,rva,2026,800000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Mantelzorg thematic leave reform RVA est +0.8m/yr from 1 Jul2026; not in budget; half-year 0.4 for 2026; tick685
 bud_rva_mantelzorg_2026_half_0_4m,rva,2026,400000,,,estimate,src_ccrek_vl_delijn_rva_unemp_residual,medium,Half-year 2026 mantelzorg cost ~0.4m if 1 Jul start; unbudgeted; tick685
@@ -13431,7 +13418,7 @@ bud_riziv_unemp_inflow_ziv_2027_94_9m,riziv,2027,94900000,,,budgeted,src_ccrek_v
 bud_riziv_unemp_inflow_ziv_2028_99_2m,riziv,2028,99200000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 99.2m 2028; tick685
 bud_riziv_unemp_inflow_ziv_2029_97_5m,riziv,2029,97500000,,,budgeted,src_ccrek_vl_delijn_rva_unemp_residual,strong,Unemp to ZIV path 97.5m 2029; tick685
 bud_dual_delijn_werking_39_4m_2026,gg_belgium,2026,39400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual De Lijn werking +39.4m path vs WAL OTW; tick685
-bud_dual_rva_unemp_4_84bn_2026,gg_belgium,2026,4836400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual RVA unemp 4.84bn vs leefloon spillover; not TE-additive; tick685bud_vl_efficient_gov_pack_120m_2026,vlaanderen_gov,2026,120000000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,IB 2026 general efficientere overheid save 120.0m parked FB index provisie; tick686
+bud_dual_rva_unemp_4_84bn_2026,gg_belgium,2026,4836400000,,,budgeted,src_dual_delijn_rva_tick685,strong,Dual RVA unemp 4.84bn vs leefloon spillover; not TE-additive; tick685bud_vl_efficient_gov_pack_120m_2026
 bud_vl_efficient_gov_tranche1_79_5m_2026,vlaanderen_gov,2026,79500000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,BA first tranche 79.5m allocated entities via Voorzitterscollege; tick686
 bud_vl_efficient_gov_residual_40_5m_2026,vlaanderen_gov,2026,40500000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Residual 40.5m unallocated; 1:3 staff replace from 1Jul2026; entity impact not in BA; tick686
 bud_vl_centenindex_save_17_9m_2026,vlaanderen_gov,2026,17900000,,,budgeted,src_ccrek_vl_ba2026_efficient_gov,strong,Provisional VL centenindex save 17.9m 2026 (survey Mar2026); CoA underest; unclear if fills 40.5; tick686
@@ -16437,3 +16424,21 @@ bud_riziv_pharma_net_impact_2026,riziv,2026,3000000,,,budgeted,src_kamer_beleid_
 bud_riziv_indoor_air_pilot_2026,riziv,2026,600000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Indoor air quality pilot call 0.6m 2026; tick781
 bud_riziv_fed_budget_help_2028,riziv,2028,40000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Efficiency share to federal budget help 40m 2028; tick781
 bud_riziv_fed_budget_help_2029,riziv,2029,257000000,,,budgeted,src_kamer_beleid_sante_1282_009_2026,strong,Efficiency share to federal budget help 257m 2029 final; tick781
+bud_rsz_alt_finance_delta_198m_2026,rsz,2026,198000000,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,strong,Net +198m alternative financing 2026 (BTW+RV) compensating structural contribution reductions package; tick782 1282/008
+bud_ggmmi_raise_35eur_unit_2026,rsz,2026,35,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,strong,GGMMI +35 EUR/mo gross from 1 Apr 2026 (unit; total fiscal cost Unknown); nets +50 via fiscal workbonus; tick782
+bud_meal_cheque_plus2_unit_2026,rsz,2026,2,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,strong,Meal cheque employer max +2 EUR 2026 (unit; total taxex delta Unknown public in note); tick782
+bud_first_hire_red_q1_2000_2026,rsz,2026,2000,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,strong,First-hire RSZ reduction 2000 EUR/quarter unlimited (was 3100); unit rate; tick782
+bud_first_hire_red_q2_5_1000_2026,rsz,2026,1000,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,strong,2nd-5th hire RSZ reduction 1000 EUR/quarter x12 quarters; unit rate; tick782
+bud_werkhervatting_premium_unit_3k_2026,riziv,2026,3000,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,strong,Work-resumption employer premium raised to 3000 EUR/case (>=3m partial return); total envelope Unknown; tick782
+bud_tnw_oa_envelope_pct_2026,riziv,2026,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,medium,VI/OA TNW responsabilization envelope 5pct of TNW-law base 2026 (7.5 2027 / 10 2028 / 15 from 2029); euro base Unknown; tick782
+bud_tnw_oa_envelope_pct_2027,riziv,2027,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,medium,VI/OA TNW envelope 7.5pct 2027; euro Unknown; tick782
+bud_tnw_oa_envelope_pct_2028,riziv,2028,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,medium,VI/OA TNW envelope 10pct 2028; euro Unknown; tick782
+bud_tnw_oa_envelope_pct_2029,riziv,2029,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,medium,VI/OA TNW envelope 15pct from 2029; euro Unknown; tick782
+bud_ivt_alone_plus2_2026,fod_sociale_zekerheid,2026,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,medium,IVT/ARR alone-living +2pct 2026 (and again 2028); euro fiscal cost Unknown in note; tick782
+bud_ivt_alone_plus2_2028,fod_sociale_zekerheid,2028,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,medium,IVT/ARR alone-living +2pct 2028; euro Unknown; tick782
+bud_illness_target_588k_2030,riziv,2030,,,,target,src_kamer_beleid_sociale_1282_008_2026,medium,Long-term illness stock target 588000 persons by 2030 (~100k below monitoring committee path); not a euro line; tick782
+bud_centenindex_wage_threshold_4k_2026,sec_ss,2026,4000,,,policy,src_kamer_beleid_sociale_1282_008_2026,strong,Centenindex applies to wages above 4000 EUR/mo FT; benefits/pensions above 2000; tick782
+bud_centenindex_benefit_threshold_2k_2026,sec_ss,2026,2000,,,policy,src_kamer_beleid_sociale_1282_008_2026,strong,Centenindex benefits/pensions threshold 2000 EUR/mo; tick782
+bud_egov30_it_credits_2026_29,rsz,2026,,,,budgeted,src_kamer_beleid_sociale_1282_008_2026,weak,e-Gov 3.0 IT credits provided 2026-2029 per 1282/008; annual amounts Unknown public; FOI; tick782
+bud_employer_solidarity_30pct_m2_3_2026,riziv,2026,,,,policy,src_kamer_beleid_sociale_1282_008_2026,strong,Employer solidarity 30pct of benefit months 2-3 (or 18pct gross) firms >50 staff age 18-55; extend m4-5 from 2027; yield partial in prior rows; tick782 cross-ref
+bud_dual_sociale_zaken_map_2026,gg_belgium,2026,198000000,,,synthesis,src_dual_sociale_zaken_tick782,strong,Dual map anchor: alt finance delta 198m as public L5 residual of SZ note; not full TE; tick782

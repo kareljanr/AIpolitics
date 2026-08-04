@@ -9407,3 +9407,18 @@ Append-only. Each tick adds a short entry.
 - 60s watcher recreated with fire_immediately (first tick)
 - loop_state: **paused=no** · mode=**continuous** · sprint=**hole_fill** · ticks=**781**
 - Next: **rq_773**; progress@790 in 9; **rq_116** deferred
+
+## Tick 782 — 2026-08-04T12:05:00Z
+
+- Unit: **rq_773** (FOI-adjacent residual — **Kamer DOC 56 1282/008 Beleidsnota Sociale Zaken**, 32p)
+- Found (primary 56K1282008):
+  - **Alt finance net +€198m** 2026 (BTW+RV) compensating structural RSZ cuts package (Plus Plans, sports cap exclude, horeca5/collective hours stop, GGMMI offset)
+  - **GGMMI +€35/mo** 1 Apr 2026 → **€50 net** via fiscal workbonus
+  - **Meal cheques +€2** employer max 2026 (second +2 later in legislature)
+  - First-hire RSZ red **€2000/q** (was 3100) + **€1000/q ×12** for 2nd–5th
+  - **VI/OA TNW envelope** 5% / 7.5% / 10% / 15% (2026→2029); euro base Unknown
+  - Work-resumption prime **€3000/case**; illness target **588k** by 2030
+  - **IVT alone +2%** 2026 and 2028; centenindex wages>€4k benefits>€2k; e-Gov 3.0 IT credits 2026–29 Unknown €
+- Wrote: budgets +18; commitments +7; leaderboard +9; sources +2; FOI **gap_sz_tnw_egov_alt_l5** prio9 ready; raw PDF; rq_773=done; spawn **rq_774**; ticks=782
+- FOI: ready only — **do not send**
+- Next: rq_774 residual dual/L5; progress@790 in 8; rq_116 deferred
