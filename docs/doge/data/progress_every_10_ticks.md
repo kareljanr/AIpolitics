@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 810** (2026-08-05)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** CoA federal **consultancy ~€0.84bn/yr** class (2.52bn/3y) dual NMBS/Infrabel/BOSA · Regie portfolio dual Justice capacity **€264/336m** · Begroting package **€9.2bn** path · BELSPO/ESA dual retained · prior Beliris/Fedasil/culture stacks retained |
+| **D. L5 named / measure end-lines** | **~60-74%** of TE (generous) | **Gain 800→810 is federal beleidsnota residual + CoA consultancy mega-fill (not near-complete of 348bn):** CoA consultancy **€2.525bn** 2020–22 (IT **€2.03bn** · non-IT **€492m**) · top NMBS **€465m** / Infrabel **€319m** / Fin **€185m** / **BOSA €134m (45% purchases)** / Smals broker spent **€471m** under **€1.8bn** RA · Regie NEKP **>€3bn** / Justice **€264→336m** / rent save **€13.78m** / sales **>€50m** · Loterij definitive **€217.5m** / society **€362.5m** / monopolierente **€145m** · bpost beheers save **€50m/yr from 2027** · Begroting buckets **>€2.7 / €1.9 / €1.3 / €2.1 / €1.0bn** of **€9.2bn** · BELSPO Defence-ESA **€100+€168m** · Digi consultant premium **>€50k/yr** unit · Armoede care **€24.73m** / DAVO path **€200→350** / HF Loterij **€2.5m** · Ambtenaren centralisation + sick **43.7%** psychic · Fraude recruit **377** / **100 ETP** · PE-zone re-tender Q1 2026 · FOI still 2023–26 consultancy update + PE support € + payroll ROI |
+| **E. FOI-ready gaps** | **~536** drafts ready | Human send only; answered **~9**; total FOI rows **~550** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery society redistributor · Tax Shelter · private PPP · equity injections · reform *savings paths* (bpost **€50m/yr**, Kanselarij **1.8%**, Begroting **€9.2bn** package) · **gross financing / OLO** · **debt principal repay** · **SAFE loans €8.34bn BE** · **Entity II HermReg soldes €7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP €15bn** · **Phoenix LTO / CfD** · **Defence eng-liq / SFPIM Defence capital** · **Ukraine multi-year 1bn/yr** · **EU GNI / MFF class** · **housing finance stocks** · **Regie rent/DBFM lock-in** · **Metro3 multi-bn stock** · **private gambling stakes €31.5bn** (market) · **agri-food exports ~€40bn** (market) · Moody/S&P rating actions (not euros).
+
+### Inventory (tick 810)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~16713 |
+| commitments.csv | ~2239 |
+| leaderboard.csv | ~3600 |
+| entities.csv | ~569 |
+| sources.csv | ~1596 |
+| FOI ready | ~536 |
+| FOI answered | ~9 |
+| FOI total rows | ~550 |
+| research_queue open | rq_116 deferred + rq_802 hole-fill after progress |
+
+### What improved since tick 800
+
+- **Regie + Loterij + SOEs (tick801–803):** NEKP **>€3bn** · Justice capacity **€264/336m** · DBFM **€96.5m**/yr · rent save **€13.78m** · Loterij **€217.5m** definitive / society **€362.5m** · private stakes **€31.5bn** market dual · bpost beheers **€50m/yr from 2027** · Begroting package **€9.2bn** L5 buckets.
+- **BELSPO + Digi + Armoede (tick804–805):** Defence-ESA **€100+€168m** stack · Digi consultant premium **>€50k/yr** · DAVO max **€200→350** · care **€24.73m** · Housing First Loterij **€2.5m** · IVT B **+2%**.
+- **Ambtenaren + Fraude + Telecom (tick806–807):** support centralisation **<500 / >500 ETP** · sick psychic **43.7%** · fraud recruit **377** / **100 ETP** · décimes **70→90** · Kanselarij **−1.8%** · gigabit **96.78%** / 5G **>95%** · bpost lockers **1776→2500**.
+- **Noordzee + CoA consultancy (tick808–809):** PE-zone re-tender **Q1 2026** · FAAV **78** measures · CoA consultancy **€2.525bn** 2020–22 · BOSA **45%** purchases · Smals broker **€471m** spent under **€1.8bn** RA · dual Ambtenaren inventory FOI baselined.
+- **Dual map:** consultancy CoA vs Digi/Ambtenaren reduction path · PE-zone vs prior offshore CREG/OSP · Loterij society vs POD MI OCMW **€300m** · bpost save vs SGEI/press residual · Defence-ESA vs civil ESA **€284m**.
+
+---
+
 ## Snapshot at **tick 800** (2026-08-04)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

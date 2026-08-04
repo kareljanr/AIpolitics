@@ -9814,3 +9814,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +14; commitments +3; leaderboard +7; sources +2; FOI **gap_fed_consultancy_2023_26_update** prio9 ready; raw txt; rq_800=done; spawn **rq_801 MANDATORY progress@810** + rq_802; ticks=809
 - FOI: ready only — **do not send**
 - Next: **rq_801 MANDATORY progress@810**; deferred **rq_116**
+
+## Tick 810 — 2026-08-05T02:00:00Z
+
+- Unit: **rq_801** (mandatory **progress@810** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ CoA consultancy ~€0.84bn/yr class · Regie dual Justice 264/336 · Begroting 9.2bn path · BELSPO/ESA dual)
+  - **D L5:** ~**60–74%** generous — gain 800→810: CoA consultancy **€2.525bn** 2020–22 · BOSA **45%** purchases · Smals broker **€471m** · Regie NEKP >3bn / Justice 264–336 · Loterij 217.5/362.5 · bpost 50m/yr from 2027 · Begroting 9.2bn buckets · Defence-ESA 268 · Armoede 24.73 + DAVO path · fraud 377/100 ETP · PE-zone re-tender · FAAV 78
+  - **E FOI ready:** ~**536** (answered ~9; total ~550)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks filtered (Metro3, OWV snowball, SAFE, NEKP, illness, consultancy multi-year as dual residual just outside)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_801=done; next **rq_802**; loop_state ticks=810
+- FOI: none new this tick
+- Next: prio5 **rq_802** residual local/CoA/PE dual; deferred **rq_116**; progress@820 in 10
