@@ -18093,3 +18093,42 @@ bud_lm_gemeentefonds_2025,city_lommel,2025,11251654,,,outturn,src_lommel_jr2025,
 bud_lm_fin_costs_2025,city_lommel,2025,527574,,,outturn,src_lommel_jr2025,strong,J5 financiele kosten 0.528m; tick856
 bud_lm_police_toelage_2025,city_lommel,2025,4720000,,,outturn,src_lommel_jr2025,strong,Toelage politiezone 4.720m; tick856
 bud_lm_fire_toelage_2025,city_lommel,2025,2004692,,,outturn,src_lommel_jr2025,strong,Toelage hulpverleningszone 2.005m; tick856
+bud_hb_assets_2025,city_heist_op_den_berg,2025,232831365,,,outturn,src_heist_jr2025,strong,Consol stad+OCMW total assets YE2025 232.831m; tick857
+bud_hb_equity_2025,city_heist_op_den_berg,2025,165023692,,,outturn,src_heist_jr2025,strong,Nettoactief YE2025 165.024m; tick857
+bud_hb_debt_total_2025,city_heist_op_den_berg,2025,67807673,,,outturn,src_heist_jr2025,strong,Total schulden YE2025 67.808m; tick857
+bud_hb_fin_debt_2025,city_heist_op_den_berg,2025,18267350,,,outturn,src_heist_jr2025,strong,T4 total financiele schulden YE2025 18.267m (LT 16.348 + ST due 1.919); tick857
+bud_hb_fin_debt_lt_2025,city_heist_op_den_berg,2025,16348174,,,outturn,src_heist_jr2025,strong,Financiele schulden LT YE2025 16.348m; tick857
+bud_hb_fin_debt_st_due_2025,city_heist_op_den_berg,2025,1919176,,,outturn,src_heist_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.919m; tick857
+bud_hb_pension_prov_2025,city_heist_op_den_berg,2025,24848037,,,outturn,src_heist_jr2025,strong,Pensioenvoorzieningen LT YE2025 24.848m; tick857
+bud_hb_cash_2025,city_heist_op_den_berg,2025,19951972,,,outturn,src_heist_jr2025,strong,Liquide middelen YE2025 19.952m; tick857
+bud_hb_cap_subs_2025,city_heist_op_den_berg,2025,15037433,,,outturn,src_heist_jr2025,strong,Kapitaalsubsidies YE2025 15.037m; tick857
+bud_hb_fva_total_2025,city_heist_op_den_berg,2025,28057211,,,outturn,src_heist_jr2025,strong,Financiele vaste activa YE2025 28.057m; tick857
+bud_hb_fva_igs_2025,city_heist_op_den_berg,2025,23095516,,,outturn,src_heist_jr2025,strong,Fin VA IGS YE2025 23.096m; tick857
+bud_hb_mva_2025,city_heist_op_den_berg,2025,145707425,,,outturn,src_heist_jr2025,strong,Materiele vaste activa YE2025 145.707m; tick857
+bud_hb_onbeschikbaar_2025,city_heist_op_den_berg,2025,413333,,,outturn,src_heist_jr2025,strong,Onbeschikbare gelden J2 0.413m; tick857
+bud_hb_expl_rec_2025,city_heist_op_den_berg,2025,86109035,,,outturn,src_heist_jr2025,strong,Exploitatieontvangsten 86.109m; tick857
+bud_hb_expl_exp_2025,city_heist_op_den_berg,2025,74702888,,,outturn,src_heist_jr2025,strong,Exploitatieuitgaven 74.703m; tick857
+bud_hb_expl_saldo_2025,city_heist_op_den_berg,2025,11406147,,,outturn,src_heist_jr2025,strong,Exploitatiesaldo +11.406m; tick857
+bud_hb_invest_exp_2025,city_heist_op_den_berg,2025,13923038,,,outturn,src_heist_jr2025,strong,Investeringsuitgaven J2 13.923m; tick857
+bud_hb_invest_rec_2025,city_heist_op_den_berg,2025,1770515,,,outturn,src_heist_jr2025,strong,Investeringsontvangsten J2 1.771m; tick857
+bud_hb_invest_saldo_2025,city_heist_op_den_berg,2025,-12152523,,,outturn,src_heist_jr2025,strong,Investeringssaldo -12.153m; tick857
+bud_hb_fin_rec_2025,city_heist_op_den_berg,2025,2490145,,,outturn,src_heist_jr2025,strong,Financieringsontvangsten 2.490m; tick857
+bud_hb_fin_exp_2025,city_heist_op_den_berg,2025,2914097,,,outturn,src_heist_jr2025,strong,Financieringsuitgaven 2.914m; tick857
+bud_hb_new_loans_2025,city_heist_op_den_berg,2025,573404,,,outturn,src_heist_jr2025,strong,Nieuwe leningen 0.573m; tick857
+bud_hb_aflossingen_2025,city_heist_op_den_berg,2025,1874354,,,outturn,src_heist_jr2025,strong,Periodieke aflossingen 1.874m; tick857
+bud_hb_afm_2025,city_heist_op_den_berg,2025,10773617,,,outturn,src_heist_jr2025,strong,AFM +10.774m (very strong); tick857
+bud_hb_afm_corr_2025,city_heist_op_den_berg,2025,11082508,,,outturn,src_heist_jr2025,strong,Gecorrigeerde AFM +11.083m; tick857
+bud_hb_bbr_2025,city_heist_op_den_berg,2025,12023250,,,outturn,src_heist_jr2025,strong,BBR 12.023m after onbeschikbaar 0.413m; tick857
+bud_hb_budget_result_2025,city_heist_op_den_berg,2025,-1170328,,,outturn,src_heist_jr2025,strong,Budgettair resultaat boekjaar -1.170m; tick857
+bud_hb_cum_br_2025,city_heist_op_den_berg,2025,12436584,,,outturn,src_heist_jr2025,strong,Gecumuleerd budgettair resultaat 12.437m; tick857
+bud_hb_pnl_result_2025,city_heist_op_den_berg,2025,423708,,,outturn,src_heist_jr2025,strong,Vennootschapsresultaat J5 +0.424m; tick857
+bud_hb_personnel_2025,city_heist_op_den_berg,2025,38626174,,,outturn,src_heist_jr2025,strong,J5 bezoldigingen 38.626m (T2 38.639m; incl onderwijs other-gov 6.790m); tick857
+bud_hb_toelagen_2025,city_heist_op_den_berg,2025,13553791,,,outturn,src_heist_jr2025,strong,Toegestane werkingssubsidies 13.554m (politie 6.303 fire 2.104 AGB 2.649 welzijn 1.811 other 0.662); tick857
+bud_hb_invest_subs_granted_2025,city_heist_op_den_berg,2025,5204610,,,outturn,src_heist_jr2025,strong,Toegestane investeringssubsidies J5 5.205m (was 0.588m); tick857
+bud_hb_ocmw_aid_2025,city_heist_op_den_berg,2025,3633944,,,outturn,src_heist_jr2025,strong,OCMW individuele hulp 3.634m; tick857
+bud_hb_fiscal_2025,city_heist_op_den_berg,2025,43746285,,,outturn,src_heist_jr2025,strong,J5 fiscale opbrengsten en boetes 43.746m; tick857
+bud_hb_werk_subs_rec_2025,city_heist_op_den_berg,2025,33358686,,,outturn,src_heist_jr2025,strong,J5 werkingssubsidies ontvangen 33.359m; tick857
+bud_hb_gemeentefonds_2025,city_heist_op_den_berg,2025,12603279,,,outturn,src_heist_jr2025,strong,Gemeentefonds 12.603m; tick857
+bud_hb_fin_costs_2025,city_heist_op_den_berg,2025,439554,,,outturn,src_heist_jr2025,strong,J5 financiele kosten 0.440m; tick857
+bud_hb_police_toelage_2025,city_heist_op_den_berg,2025,6302531,,,outturn,src_heist_jr2025,strong,Toelage politiezone 6.303m; tick857
+bud_hb_fire_toelage_2025,city_heist_op_den_berg,2025,2104124,,,outturn,src_heist_jr2025,strong,Toelage hulpverleningszone 2.104m; tick857

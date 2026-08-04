@@ -10560,3 +10560,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_lommel; FOI **gap_lommel_igs_reval_loans_l5** prio7 ready + draft; raw PDF+extract; rq_846=done; spawn **rq_847**; ticks=856
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_847** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 4
+
+## Tick 857 - 2026-08-06T01:30:00Z
+
+- Unit: **rq_847** (FOI-adjacent residual dual - **Gemeente+OCMW Heist-op-den-Berg Jaarrekening 2025** + Lommel dual)
+- Found (strong primary BBC JR2025 213p, GR 30.06.2026 pub 01-02.07.2026):
+  - Assets **EUR232.8m** · equity **EUR165.0m** · debt total **EUR67.8m** · fin debt **EUR18.3m** (LT **EUR16.3m** · ST due **EUR1.9m**; declining from **EUR19.6m**)
+  - Pension **EUR24.8m** · cash **EUR20.0m** · cap subs **EUR15.0m** · FVA IGS **EUR23.1m** · onbeschikbaar **EUR0.4m**
+  - Exploitatie: ontvangsten **EUR86.1m** · uitgaven **EUR74.7m** · saldo **+EUR11.4m**
+  - AFM **+EUR10.8m** (gecorr **+EUR11.1m**) · BBR **EUR12.0m** · budget result **-EUR1.2m** · P&L **+EUR0.4m**
+  - Personnel **EUR38.6m** · toelagen **EUR13.6m** (police **EUR6.3m** · AGB **EUR2.6m** · fire **EUR2.1m** · welzijn **EUR1.8m**) · invest-subs granted **EUR5.2m** (was **EUR0.6m**) · OCMW aid **EUR3.6m** · fiscal **EUR43.7m**
+  - Invest **EUR13.9m** · new loans **EUR0.6m** · gemeentefonds **EUR12.6m**
+- Dual: Lommel **EUR432m** / cash **EUR29m** / AFM **+EUR5.5m** / FVA IGS reval (tick856) - not TE-additive
+- Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_heist_op_den_berg; FOI **gap_heist_invest_subs_l5** prio7 ready + draft; raw PDF+extract; rq_847=done; spawn **rq_848**; ticks=857
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_848** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 3
