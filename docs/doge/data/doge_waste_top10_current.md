@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **830** (2026-08-05) · **~3703** leaderboard rows  
+**As-of:** tick **840** (2026-08-05) · **~3757** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks (WAL gross **€30.3bn**) · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · debt principal repay · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **BOSA provisions ~€1.71bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **Phoenix multi-year** · **SFPIM Defence capital** · **Regie NEKP >€3bn / DBFM stocks** · **Metro3 multi-bn** · housing finance (VMSW **€11.6bn** loans) · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **provincial debt stocks** · private gambling stakes **€31.5bn** market · university balance sheets · **LUWA PPP €590m** · **Mechelen assets €611m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / UGent **€1.38bn** / Genk pension **€313m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
 
-**Change vs tick 820:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 821–829 (off pure top10 / dual):** WE **€6.38bn** consol / liberations **€613m** / write-downs **€72m** · SOFICO **€3.02bn** / LUWA **€590m** / sales **€503m** · SOWAER **€492m** · **WAL 5 provinces BI2026** ordinary stack Hainaut **€878m** + Liège **€564m** + Namur **€240m** + BW **€202m** + Lux **€136m** · ZS path stack **€78+51+30+16+18m** toward **€127+90+44+27+29m** 2030 · Ethias pension debudget Namur **~€10m** / Lux **€3.1m** · Mechelen personnel **€113m** / toelagen **~€90m** / pension prov **€135m** / AFM recovery **+€2.5m**. Gain is **SOE residual + complete WAL provincial CoA map + VL city L5** more than FFS reshuffle.
+**Change vs tick 830:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 831–839 (off pure top10 / dual):** VL cities Kortrijk **€720m** / Genk **€629m** (pension **€313m**) / Aalst **€617m** / Brugge **€1.46bn** (personnel **€189m** / toelagen **€95m**) / Tielt **€193m** · HE 1st **strong** KUL **€568m** / UHasselt **€97m** · HE bezold KUL **€917m** / UGent **€667m** / UA **€315m** · HE results UGent **+€62m** turnaround / UA **−€5m** · stream opacity FOI UGent/UA. Gain is **VL city L5 + HE statutory residual** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -41,12 +41,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
 | — | `lb_isi_bank_inquiry_collection_gap_2_26bn` | **stock gap** | **8.0** | 2.26bn uncollected class |
 | — | `lb_mog2_capex_7_8bn_2024` | **stock** | **~8.2** | 7–8bn CAPEX |
-| — | `lb_we_write_downs_71_6m_2025` | **72 m** | **~6.0** | **NEW 822** impairments |
-| — | `lb_sofico_luwa_ppp_590m` | **30 m/yr** | **~6.7** | **NEW 823** lighting PPP |
-| — | `lb_prov_hainaut_zs_78_2m_2026` | **78 m** | **~6.0** | **NEW 826** largest WAL ZS |
-| — | `lb_prov_namur_ethias_pension_debudget` | **~10 m** | **~6.5** | **NEW 825** fund exhaust 2031 |
-| — | `lb_mechelen_pension_prov_135m` | **stock** | **~6.2** | **NEW 829** pension provisions |
-| — | `lb_mechelen_toelagen_90m_2025` | **~90 m** | **~5.8** | **NEW 829** partner subsidies |
+| — | `lb_genk_pension_prov_313m` | **stock** | **~6.8** | **NEW 832** largest VL city pension stock |
+| — | `lb_brugge_personnel_189m_2025` | **189 m** | **~5.8** | **NEW 834** largest recent city personnel |
+| — | `lb_kuleuven_1st_568m_2025` | **568 m** | **~5.7** | **NEW 837** strong 1st stream |
+| — | `lb_kuleuven_bezold_917m_2025` | **917 m** | **~6.0** | **NEW 837** HE personnel |
+| — | `lb_ugent_bezold_667m_2025` | **667 m** | **~6.0** | **NEW 838** HE personnel |
+| — | `lb_ua_bezold_315m_2025` | **315 m** | **~5.7** | **NEW 839** HE personnel |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -58,15 +58,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_prov_hainaut_entities_199` | **7.5** | **NEW 826** 199 entities unmotivated |
-| `lb_prov_namur_ethias_pension_debudget` | **7.5** | **NEW 825** Ethias fund drain |
-| `lb_prov_lux_ethias_pension_3_1m` | **7.0** | **NEW 828** Ethias shortfall |
-| `lb_dwv_op_posts_no_competition_9_4m` | **8.5** | OP posts without competition |
-| `lb_bosa_consultancy_45pct_purchases` | **8.5** | BOSA 45% purchases consultancy |
-| `lb_prov_bw_helecine_brasserie_1_3m` | **6.5** | **NEW 827** leisure CAPEX |
+| `lb_genk_pension_prov_313m` | **6.5** | **NEW 832** Genk pension stock vs Kortrijk €35m |
+| `lb_ua_result_minus_5m_2025` | **5.0** | **NEW 839** UA loss after 2024 surplus |
+| `lb_hasselt_jr2025_ocr` class FOI | **n/a** | **NEW 835** public PDF scan-only opacity |
 
 ### Methodology notes
 
-- **Source class:** prefer parliamentary Kamer DOC / CoA / FPB / NBB primary.  
+- **Source class:** prefer parliamentary Kamer DOC / CoA / FPB / NBB / entity JR primary.  
 - **Do not sum** leaderboard annuals into TE coverage.  
 - Stocks and multi-year eng/loans without same-year pure TE cash stay **off pure top10** unless annualised with source.

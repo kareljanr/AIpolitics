@@ -10303,3 +10303,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: **progress@840 NEXT** (prio10); then prio5 **rq_831** residual dual L5; deferred **rq_116**
 
+
+## Tick 840 — 2026-08-05T17:00:00Z
+
+- Unit: **rq_840** (mandatory **progress@840** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh after ticks 831–839):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL cities Brugge **€1.46bn** / Kortrijk **€720m** / Genk **€629m** / Aalst **€617m** / Mechelen **€611m** / Tielt **€193m** · HE KUL **€3.39bn** / UGent **€1.38bn** / UA **€647m** / UHasselt **€281m**)
+  - **D L5:** ~**63–77%** generous — gain 830→840: city personnel **€189/139/136/113/80/30m** · toelagen Brugge **€95m** · Genk pension stock **€313m** · HE 1st **strong** KUL **€568m** / UH **€97m** · HE bezold **€917/667/315/118m** · UGent result turnaround **+€62m** / UA **−€5m**
+  - **E FOI ready:** ~**541** (answered ~9; partial ~27; total ~578)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks filtered (Metro3, OWV, MOG II, WE/SOFICO, uni/city balance sheets, Genk pension)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_840=done; next **rq_831**; loop_state ticks=840
+- FOI: none new this tick
+- Next: prio5 **rq_831** residual dual L5 (Roeselare/Leuven city/VUB/BELNET/skeyes); deferred **rq_116**; progress@850 in 10
+

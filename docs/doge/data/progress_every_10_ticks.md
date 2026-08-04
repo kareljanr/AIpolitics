@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 840** (2026-08-05)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL city JR2025 stack Brugge **€1.46bn** / Kortrijk **€720m** / Genk **€629m** / Aalst **€617m** / Mechelen **€611m** / Tielt **€193m** · HE books KUL **€3.39bn** / UGent **€1.38bn** / UA **€647m** / UHasselt **€281m** · prior WAL provinces / WE / SOFICO / SOWAER retained |
+| **D. L5 named / measure end-lines** | **~63-77%** of TE (generous) | **Gain 830→840 is VL city L5 + HE statutory residual (not near-complete of 348bn):** city personnel Brugge **€189m** / Aalst **€139m** / Kortrijk **€136m** / Mechelen **€113m** / Genk **€80m** / Tielt **€30m** · city toelagen Brugge **€95m** / Aalst **€51m** / Genk **€35m** · pension stocks Genk **€313m** / Mechelen **€135m** / Brugge **€116m** · HE 1st stream **strong** KUL **€568m** / UHasselt **€97m** · HE bezold KUL **€917m** / UGent **€667m** / UA **€315m** / UH **€118m** · HE results UGent **+€62m** / UH **+€5.6m** / UA **−€5.0m** · FOI still Hasselt OCR · stream splits UGent/UA · city debt/pension matrices · AHOVOKS multi-year |
+| **E. FOI-ready gaps** | **~541** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~578** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery society · Tax Shelter · private PPP · equity injections · reform *savings paths* · **gross financing / OLO** · **debt principal repay** · **SAFE loans €8.34bn BE** · **Entity II HermReg soldes €7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP €15bn** · **Phoenix LTO / CfD** · **Defence eng-liq / SFPIM Defence capital** · **Ukraine multi-year** · **EU GNI / MFF** · **housing finance stocks** · **MOG II / PE Island multi-bn grid** · **Regie rent/DBFM** · **Metro3 multi-bn** · **university/SOE/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / UGent **€1.38bn** / WE **€6.4bn** / SOFICO **€3.0bn** not full TE) · **LUWA PPP €590m** · private gambling **€31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 840)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~17523 |
+| commitments.csv | ~2345 |
+| leaderboard.csv | ~3757 |
+| entities.csv | ~581 |
+| sources.csv | ~1658 |
+| FOI ready | ~541 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~578 |
+| research_queue open | rq_116 deferred + rq_831 hole-fill after progress |
+
+### What improved since tick 830
+
+- **VL city JR2025 (tick831–835):** Kortrijk assets **€720m** / loon **€136m** / fin debt **€258m** / toelagen **€40m** · Genk **€629m** / pension **€313m** (largest city stock) / bezold **€80m** · Aalst **€617m** / expl **€276m** / bezold **€139m** / toelagen **€51m** · Brugge **€1.46bn** (Port FVA ~**€539m**) / personnel **€189m** / toelagen **€95m** / AFM **+€31m** · Tielt **€193m** post-fusion / personnel **€30m** / AFM **+€9.5m** · Hasselt JR **scan-only FOI**.
+- **HE statutory fill (tick836–839):** UHasselt 1st **€96.8m STRONG** / bezold **€118m** / result **€5.6m** / invest **€26m** · KU Leuven 1st **€567.9m STRONG** / bezold **€917m** / result **€199m** / cash+beleg **€2.36bn** · UGent omzet **€980m** / bezold **€667m** / result **+€62m** (turnaround from **−€32m**) / assets **€1.38bn** · UA omzet **€423m** / bezold **€315m** / result **−€5.0m** / assets **€647m**.
+- **Dual map:** VL cities Mechelen–Kortrijk–Genk–Aalst–Brugge–Tielt · HE KUL–UH–UGent–UA · city pension stock Genk outlier · HE 1st stream strong vs VO form stream opacity (UGent/UA FOI).
+
+---
+
 ## Snapshot at **tick 830** (2026-08-05)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
