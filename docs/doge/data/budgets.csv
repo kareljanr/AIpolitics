@@ -16684,3 +16684,12 @@ bud_ambtenaren_reborn_unused_61pct,fod_bosa,2025,,,,kpi,src_kamer_beleid_ambtena
 bud_landbouw_export_40bn_2024,favv,2024,40000000000,,,market,src_kamer_beleid_landbouw_1282_005_2026,strong,Agri-food exports nearly 40bn EUR 2024 MARKET not public spend; FAVV certificates dual; tick806
 bud_dual_ambtenaren_consultancy_2026,gg_belgium,2026,,,,synthesis,src_dual_ambtenaren_gelijke_tick806,strong,Dual Ambtenaren consultancy inventory residual vs Digi >50k unit premium; aggregate Unknown FOI; tick806
 bud_consument_ubd_max_60eur,fod_economie,2026,60,,60,unit_cap,src_kamer_beleid_consument_1282_034_2026,strong,Universal bank service (UBD/SBU) manual transactions max 60 EUR reasonable tariff; protocol extension; tick806 dual residual
+bud_fraude_recruit_377_staff,sec_federal,2026,,,,headcount,src_kamer_beleid_fraude_sociale_1282_035_2026,strong,Government decision recruit 377 additional staff for fraud fight (ISI/BBI social fraud judicial police justice); payroll EUR Unknown FOI; tick807
+bud_fraude_social_insp_100_etp_2026,sec_ss,2026,,,,headcount,src_kamer_beleid_fraude_sociale_1282_035_2026,strong,2026 recruit 100 ETP social inspection services ASAP with field training path; payroll FOI; tick807
+bud_riziv_insp_plus30_etp,riziv,2026,,,,headcount,src_kamer_beleid_fraude_sociale_1282_035_2026,strong,RIZIV/INAMI inspection strengthen with ~30 ETP; tick807
+bud_fraude_decimes_70_to_90_2026,sec_ss,2026,,,,sanction,src_kamer_beleid_fraude_sociale_1282_035_2026,strong,Social fine décimes raised 70 to 90 from 2026 (price evolution); revenue impact Unknown FOI; tick807
+bud_kanselarij_linear_save_1_8pct,kanselarij,2026,,,,planned_save,src_kamer_beleid_premier_1282_001_2026,strong,Kanselarij non-security dept linear cut 1.8pct; absolute EUR FOI vs base budget; tick807
+bud_telecom_gigabit_cover_96_78pct,bipt,2025,,,,kpi,src_kamer_beleid_telecom_1282_033_2026,strong,Fixed gigabit-order access 96.78pct population 2025 figures; tick807
+bud_telecom_5g_hh_gt95pct_2025,bipt,2025,,,,kpi,src_kamer_beleid_telecom_1282_033_2026,strong,5G sufficient coverage >95pct households 2025; dual Proximus 99pct target; tick807
+bud_bpost_parcel_lockers_1776_2025,bpost,2025,,,,ops,src_kamer_beleid_telecom_1282_033_2026,strong,bpost parcel lockers 1776 sites 1 Sep 2025 target 2500 EOY2025; tick807 dual bpost
+bud_dual_fraude_377_staff_2026,gg_belgium,2026,,,,synthesis,src_dual_fraude_telecom_tick807,strong,Dual fraud 377 staff + 100 social insp ETP residual vs prior Fin SRFF; payroll FOI; tick807

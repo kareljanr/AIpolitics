@@ -9767,3 +9767,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +8; commitments +6; leaderboard +6; sources +5; FOI **gap_ambtenaren_centralise_consultancy_l5** prio9 ready; raw; rq_797=done; spawn **rq_798**; ticks=806
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_798** residual 035/033; deferred **rq_116**; progress@810 in 4
+
+## Tick 807 — 2026-08-05T00:30:00Z
+
+- Unit: **rq_798** (FOI-adjacent residual — **Kamer DOC 56 1282/035 Socialefraudebestrijding**, 14p; dual **1282/001 Premier** + **1282/033 Telecom/Post**)
+- Found (primary 56K1282035):
+  - RIZIV inspection **~30 ETP**; gov recruit **377** fraud staff (BBI/ISI social fraud judicial police justice)
+  - 2026 hire **100 ETP** social inspection ASAP
+  - Fine décimes **70→90** from 2026; aggravating cases **min 50%** legal max fine
+  - ONSS reduction loss multi-quarter for social fraudsters (2026)
+- Dual (56K1282001 / 033):
+  - Kanselarij linear cut **1.8%** (non-security); CCB transfer Interior by **1 Jan 2027**
+  - Fixed gigabit **96.78%** pop; 5G **>95%** HH 2025; bpost lockers **1776→2500** EOY2025
+  - IBPT train-internet study cost Unknown; CEF Digital 2 2026
+- Wrote: budgets +9; commitments +6; leaderboard +6; sources +4; FOI **gap_fraude_sociale_staff_sanctions_l5** prio8 ready; raw; rq_798=done; spawn **rq_799**; ticks=807
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_799** residual 032/012/018; deferred **rq_116**; progress@810 in 3
