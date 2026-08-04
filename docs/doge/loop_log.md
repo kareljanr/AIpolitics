@@ -9401,3 +9401,9 @@ Append-only. Each tick adds a short entry.
 - loop_state: **paused=yes** · mode=**paused** · ticks=**781** · last **rq_772**
 - Next on resume: **rq_773**; progress@790 in 9; **rq_116** deferred
 - To resume: set paused=no + re-create 60s scheduler (fire_immediately)
+
+### 2026-08-04T12:00:00Z - resume (paused=no)
+- User: **paused=no**
+- 60s watcher recreated with fire_immediately (first tick)
+- loop_state: **paused=no** · mode=**continuous** · sprint=**hole_fill** · ticks=**781**
+- Next: **rq_773**; progress@790 in 9; **rq_116** deferred

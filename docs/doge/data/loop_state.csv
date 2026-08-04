@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,paused,hole_fill,2026-08-03T17:00:00Z,rq_772,781,yes,user paused=yes; cancelled watcher 019fb6df9daa; next on resume rq_773; progress@790 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-03T17:00:00Z,rq_772,781,no,user paused=no; 60s watcher recreated fire_immediately; next rq_773; progress@790 in 9; rq_116 deferred
