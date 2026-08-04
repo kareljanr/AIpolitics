@@ -1,0 +1,45 @@
+Oostende Stad+OCMW Jaarrekening 2025 — extract tick842
+Source: https://www.oostende.be/jaarrekening-2025
+PDF: https://www.oostende.be/file/download/7a6aa632-8fa4-4b8d-98e6-6533ded29df4/g3zMb8ZtOXY1rXi4GdI8Nx2yxc9B00HzmRodhqQ5M3d.pdf
+Local: docs/doge/data/raw/oostende_jaarrekening_2025.pdf (192p, 10.5MB)
+Perimeter: consolidatie Stad + OCMW Oostende (BBC)
+KSZ Stad 0207.436.775 / OCMW 0212.205.118 · NIS 35013
+Burgemeester John Crombez · FD Jürgen Seys · Vindictivelaan 1 8400
+
+KENGETALLEN (p8) GECONSOLIDEERD:
+- Kas 7.751.406 · KT vorderingen 58.184.916 · KT schulden 69.846.441
+- Expl ontvangsten 281.600.513 · expl uitgaven 270.620.232 · saldo +10.980.282
+- Invest 28.893.217 · desinv 1.462.521 · inv-subs rec 6.440.673 · toegestane inv-subs 769.196 · saldo invest -21.759.219
+- Nieuwe leningen 16.370.267 · periodieke aflossingen 17.253.617 · openstaande leningschuld 248.946.895
+- Intresten 7.404.737
+- Budgettair resultaat -13.825.197 · gecumuleerd 28.113.297 · AFM -5.251.562
+- OCMW tussenkomst 20.451.043 · BBR/inw 390 · schuld/inw 3.454 (~72.075 inw)
+
+J2 FINANCIEEL EVENWICHT (p58):
+- Expl 10.980.282 (rec 281.600.513 / exp 270.620.232)
+- Invest -21.759.219 (rec 7.903.194 / exp 29.662.413)
+- Fin -3.046.260 (rec 17.348.506 / exp 20.394.766)
+- BR boekjaar -13.825.197 · BBR 24.277.857 (onbeschikbaar 3.835.441)
+- AFM -5.251.562 · gecorr AFM -8.001.176
+- AG Oostende BBR 11.375.361 · AG AFM 982.285 (ref available data)
+
+J4 BALANS (p62-63) YE2025 / YE2024:
+ACTIVA 642.285.760 / 637.634.114
+- Vlottend 66.926.600 (kas 7.751.406 · KT vord 58.184.916)
+- Vast 575.359.160 (FVA 140.038.532 w.o. EVA 37.350.546 IGS 91.329.680 · MVA 422.294.776 · IVA 1.860.779)
+PASSIVA 642.285.760
+- Schulden 418.517.335 (KT 87.818.158 · LT 330.699.178)
+  - LT pensioenvoorz. 97.069.314 · LT fin schuld 230.975.178 · ST due 17.971.717
+- Nettoactief 223.768.425 (kap-subs 88.508.743 · gecum tekort -27.441.134 · herwaard 21.342.246 · overig 141.358.569)
+
+J5 KOSTEN/OPBRENGSTEN (p64):
+- Kosten 282.451.628 (bezold 128.981.897 · toelagen 59.100.631 · OCMW aid 28.356.051 · G&D 44.219.007 · fin 7.554.554)
+- Opbrengsten 286.030.210 (fiscal 113.877.999 · werk-subs 119.982.649 · werking 35.847.171)
+- Resultaat +3.578.581 (was -22.711.372 2024)
+
+T2 (p98) 2025 detail:
+- Bezold split: politiek 1.551.314 · vast 24.154.875 · niet-vast 92.555.125 · onderwijs derden 4.121.966 · andere 3.542.943 · pensioenen 3.055.674
+- Toelagen: politie 28.611.822 · brandweer 8.031.011 · AGB 1.301.481 · IGS 2.366.697 · eredienst 1.469.046 · andere 17.320.575
+- Gemeentefonds rec 58.452.139
+
+Dual: Leuven assets 957.0m / expl 331m / fin debt 335m / personnel 117m (tick841) — not TE-additive

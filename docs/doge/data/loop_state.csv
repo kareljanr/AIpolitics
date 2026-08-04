@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T17:30:00Z,rq_831,841,no,tick841 Leuven JR2025 dual Brugge; VUB FOI encoding; next rq_832 residual dual L5; progress@850 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T18:00:00Z,rq_832,842,no,tick842 Oostende JR2025 dual Leuven; FOI gap_oostende_debt_pension_subs_l5; next rq_833 residual dual L5; progress@850 in 8; rq_116 deferred

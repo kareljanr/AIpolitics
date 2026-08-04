@@ -17555,3 +17555,42 @@ bud_leuven_fiscal_2025,city_leuven,2025,150884464,,,cash,src_leuven_jr2025,stron
 bud_leuven_werk_subs_rec_2025,city_leuven,2025,135893491,,,cash,src_leuven_jr2025,strong,J5 werkingssubsidies ontvangen 135.893m (gemeentefonds 81.885m); tick841
 bud_leuven_fin_costs_2025,city_leuven,2025,8391756,,,cash,src_leuven_jr2025,strong,J5 financiele kosten 8.392m; tick841
 bud_leuven_kreglinger_escrow_2025,city_leuven,2025,11205634,,,stock,src_leuven_jr2025,strong,Onbeschikbare gelden Kreglinger kantonnement 11.206m; tick841
+bud_oostende_assets_2025,city_oostende,2025,642285760,,,outturn,src_oostende_jr2025,strong,Consol stad+OCMW total assets YE2025 642.286m; tick842
+bud_oostende_equity_2025,city_oostende,2025,223768425,,,outturn,src_oostende_jr2025,strong,Nettoactief YE2025 223.768m; tick842
+bud_oostende_debt_total_2025,city_oostende,2025,418517335,,,outturn,src_oostende_jr2025,strong,Total schulden YE2025 418.517m; tick842
+bud_oostende_fin_debt_2025,city_oostende,2025,248947714,,,outturn,src_oostende_jr2025,strong,Financiele schulden total YE2025 ~248.948m (LT 230.975 + ST due 17.972 + ST 0.001); openstaande leningen 248.947m p8; tick842
+bud_oostende_fin_debt_lt_2025,city_oostende,2025,230975178,,,outturn,src_oostende_jr2025,strong,Financiele schulden LT YE2025 230.975m; tick842
+bud_oostende_fin_debt_st_due_2025,city_oostende,2025,17971717,,,outturn,src_oostende_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 17.972m; tick842
+bud_oostende_pension_prov_2025,city_oostende,2025,97069314,,,outturn,src_oostende_jr2025,strong,Pensioenvoorzieningen LT YE2025 97.069m; tick842
+bud_oostende_provisions_st_2025,city_oostende,2025,19082606,,,outturn,src_oostende_jr2025,strong,Voorzieningen risico KT YE2025 19.083m; tick842
+bud_oostende_cash_2025,city_oostende,2025,7751406,,,outturn,src_oostende_jr2025,strong,Liquide middelen YE2025 7.751m; tick842
+bud_oostende_cap_subs_2025,city_oostende,2025,88508743,,,outturn,src_oostende_jr2025,strong,Kapitaalsubsidies YE2025 88.509m; tick842
+bud_oostende_fva_total_2025,city_oostende,2025,140038532,,,outturn,src_oostende_jr2025,strong,Financiele vaste activa YE2025 140.039m; tick842
+bud_oostende_fva_igs_2025,city_oostende,2025,91329680,,,outturn,src_oostende_jr2025,strong,Fin VA IGS YE2025 91.330m; tick842
+bud_oostende_fva_eva_2025,city_oostende,2025,37350546,,,outturn,src_oostende_jr2025,strong,Fin VA EVA/AG YE2025 37.351m; tick842
+bud_oostende_mva_2025,city_oostende,2025,422294776,,,outturn,src_oostende_jr2025,strong,Materiele vaste activa YE2025 422.295m; tick842
+bud_oostende_expl_rec_2025,city_oostende,2025,281600513,,,outturn,src_oostende_jr2025,strong,Exploitatieontvangsten 281.601m; tick842
+bud_oostende_expl_exp_2025,city_oostende,2025,270620232,,,outturn,src_oostende_jr2025,strong,Exploitatieuitgaven 270.620m; tick842
+bud_oostende_expl_saldo_2025,city_oostende,2025,10980282,,,outturn,src_oostende_jr2025,strong,Exploitatiesaldo +10.980m; tick842
+bud_oostende_invest_exp_2025,city_oostende,2025,29662413,,,outturn,src_oostende_jr2025,strong,Investeringsuitgaven J2 29.662m; tick842
+bud_oostende_invest_rec_2025,city_oostende,2025,7903194,,,outturn,src_oostende_jr2025,strong,Investeringsontvangsten J2 7.903m; tick842
+bud_oostende_invest_saldo_2025,city_oostende,2025,-21759219,,,outturn,src_oostende_jr2025,strong,Investeringssaldo -21.759m; tick842
+bud_oostende_fin_rec_2025,city_oostende,2025,17348506,,,outturn,src_oostende_jr2025,strong,Financieringsontvangsten 17.349m; tick842
+bud_oostende_fin_exp_2025,city_oostende,2025,20394766,,,outturn,src_oostende_jr2025,strong,Financieringsuitgaven 20.395m; tick842
+bud_oostende_new_loans_2025,city_oostende,2025,16370267,,,outturn,src_oostende_jr2025,strong,Nieuwe leningen 16.370m (10m own + 2.9m pass-through + 3.4m leasing); tick842
+bud_oostende_aflossingen_2025,city_oostende,2025,17253617,,,outturn,src_oostende_jr2025,strong,Periodieke aflossingen 17.254m; tick842
+bud_oostende_afm_2025,city_oostende,2025,-5251562,,,outturn,src_oostende_jr2025,strong,AFM -5.252m (was MJP +2.439m); tick842
+bud_oostende_afm_corr_2025,city_oostende,2025,-8001176,,,outturn,src_oostende_jr2025,strong,Gecorrigeerde AFM -8.001m; tick842
+bud_oostende_bbr_2025,city_oostende,2025,24277857,,,outturn,src_oostende_jr2025,strong,BBR 24.278m after onbeschikbaar 3.835m; tick842
+bud_oostende_budget_result_2025,city_oostende,2025,-13825197,,,outturn,src_oostende_jr2025,strong,Budgettair resultaat boekjaar -13.825m; tick842
+bud_oostende_cum_br_2025,city_oostende,2025,28113297,,,outturn,src_oostende_jr2025,strong,Gecumuleerd budgettair resultaat 28.113m; tick842
+bud_oostende_pnl_result_2025,city_oostende,2025,3578581,,,outturn,src_oostende_jr2025,strong,Vennootschapsresultaat J5 +3.579m (was -22.711m); tick842
+bud_oostende_personnel_2025,city_oostende,2025,128981897,,,outturn,src_oostende_jr2025,strong,J5 bezoldigingen sociale lasten pensioenen 128.982m (incl onderwijs derden 4.122m); tick842
+bud_oostende_toelagen_2025,city_oostende,2025,59100631,,,outturn,src_oostende_jr2025,strong,Toegestane werkingssubsidies 59.101m (politie 28.612 fire 8.031); tick842
+bud_oostende_ocmw_aid_2025,city_oostende,2025,28356051,,,outturn,src_oostende_jr2025,strong,OCMW individuele hulp 28.356m; tick842
+bud_oostende_fiscal_2025,city_oostende,2025,113877999,,,outturn,src_oostende_jr2025,strong,J5 fiscale opbrengsten en boetes 113.878m; tick842
+bud_oostende_werk_subs_rec_2025,city_oostende,2025,119982649,,,outturn,src_oostende_jr2025,strong,J5 werkingssubsidies ontvangen 119.983m (gemeentefonds 58.452m); tick842
+bud_oostende_gemeentefonds_2025,city_oostende,2025,58452139,,,outturn,src_oostende_jr2025,strong,Gemeentefonds 58.452m; tick842
+bud_oostende_fin_costs_2025,city_oostende,2025,7554554,,,outturn,src_oostende_jr2025,strong,J5 financiele kosten 7.555m; tick842
+bud_oostende_ocmw_cover_2025,city_oostende,2025,20451043,,,outturn,src_oostende_jr2025,strong,Tussenkomst stad in OCMW-tekort 20.451m; tick842
+bud_oostende_debt_per_capita_2025,city_oostende,2025,3454,,,outturn,src_oostende_jr2025,strong,Openstaande schuld per inwoner 3454 EUR (~72k inw); tick842
