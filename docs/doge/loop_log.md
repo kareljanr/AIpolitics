@@ -10050,3 +10050,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41; commitments +4; leaderboard +6; sources +2; entity province_liege; FOI **gap_prov_liege_zs_entities_l5** prio7 ready + draft; raw PDF+txt; rq_815=done; spawn **rq_816**; ticks=824
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_816** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 6
+
+## Tick 825 — 2026-08-05T09:30:00Z
+
+- Unit: **rq_816** (FOI-adjacent residual dual — **CoA Province de Namur BI2026** + Prov Liège dual)
+- Found (strong primary CoA 2026_14, 27p, chambre FR 25 Nov 2025):
+  - Ordinaire EP: rec **€204.2m** · dep **€204.2m** · solde **+€2.4k**
+  - Ordinaire global: rec **€239.9m** · dep **€209.4m** · solde **+€30.5m**
+  - Personnel **€125.7m** (subv-trait **€38.9m** · **844.9** ETP) · transferts **€45.3m** · fonctionnement **€22.3m**
+  - PRI additionnels **€91.8m** · impôts/taxes **€96.0m** · fonds provinces **~€24.4m** · compens **€1.7m**
+  - ZS: **€30.3m** (dotation **€27.2m** + complément **€3.1m**) · path **€7.4m**(2020)→**€44.0m**(2030)
+  - Pensions: solidarité budget **€11.8m** · responsabilisation SFP **€12.5m** via Ethias · débudget **~€10m** · épuisement fonds ~**2031**
+  - Dette service **€9.3m** · nouveaux emprunts **€9.2m** · charges new **€4.2m** (seuils stabilité dépassés) · ratio volume **20.5%**
+  - Extraord invest **€17.5m** · global dep **€19.3m** · vente CARP **€1.8m**
+  - Réserves+provisions YE2025 **€65.3m** (provisions **€59.6m**) · YE2026 est **€66.6m**
+  - Opacity: **10** entités consolidées (3 sans justification) · discordance emprunts EA **€53.6m**
+- Dual: Prov Liège ordinaire **€563.6m** / personnel **€397.5m** / ZS **€51.4m** (tick824) — not TE-additive
+- Wrote: budgets +42; commitments +4; leaderboard +6; sources +2; entity province_namur; FOI **gap_prov_namur_zs_ethias_debt_l5** prio7 ready + draft; raw PDF+txt; rq_816=done; spawn **rq_817**; ticks=825
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_817** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 5

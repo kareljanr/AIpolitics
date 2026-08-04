@@ -17053,3 +17053,45 @@ bud_prov_liege_credits_reserve_2026,province_liege,2026,1900000,,,budgeted,src_c
 bud_prov_liege_enodia_div_exceptional_2024,province_liege,2024,90300000,,,outturn,src_ccrek_2026_12_liege_budget_2026,strong,Dividende exceptionnel Enodia 90.3m 2024 (cession Nethys/VOO class); tick824
 bud_prov_liege_tourisme_asbl_reprise_2026,province_liege,2026,816000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Reprise ASBL Federation tourisme dissolution +0.816m fonctionnement; tick824
 bud_dual_prov_liege_city_tick824,gg_belgium,2026,563596928,,,synthesis,src_dual_prov_liege_local_tick824,strong,Dual Prov Liege ordinaire 563.6m vs city Liege residual; not TE-additive; tick824
+bud_prov_namur_ord_rec_ep_2026,province_namur,2026,204224474,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Budget ordinaire EP recettes BI2026 204.224m; tick825
+bud_prov_namur_ord_dep_ep_2026,province_namur,2026,204222043,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Budget ordinaire EP depenses BI2026 204.222m; solde +2.4k; tick825
+bud_prov_namur_ord_rec_global_2026,province_namur,2026,239882610,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Budget ordinaire global recettes 239.883m; tick825
+bud_prov_namur_ord_dep_global_2026,province_namur,2026,209398475,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Budget ordinaire global depenses 209.398m; solde +30.484m; tick825
+bud_prov_namur_ord_solde_global_2026,province_namur,2026,30484135,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Solde ordinaire global BI2026 +30.484m; tick825
+bud_prov_namur_personnel_2026,province_namur,2026,125703576,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Depenses personnel EP 125.704m (60.2pct class; incl subv-trait 38.9m); tick825
+bud_prov_namur_subv_traitements_2026,province_namur,2026,38900000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Subventions-traitements 38.9m within personnel (neutral with rec); tick825
+bud_prov_namur_fonctionnement_2026,province_namur,2026,22317387,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Depenses fonctionnement EP 22.317m; tick825
+bud_prov_namur_transferts_2026,province_namur,2026,45339528,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Depenses transferts EP 45.340m (21.8pct class); tick825
+bud_prov_namur_provisions_const_2026,province_namur,2026,1587722,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Constitutions provisions 1.588m (GSM pylones tax risk 1.5m class); tick825
+bud_prov_namur_dette_service_2026,province_namur,2026,9273830,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Service de la dette ordinaire 9.274m; tick825
+bud_prov_namur_prelev_extraord_2026,province_namur,2026,3146266,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Prelevements ordinaire vers extraordinaire 3.146m; tick825
+bud_prov_namur_pri_additionnels_2026,province_namur,2026,91800000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Centimes additionnels PRI 91.8m (Region est 93.1m -1.4pct prudence); tick825
+bud_prov_namur_impots_taxes_2026,province_namur,2026,95951357,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Impots et taxes total EP 95.951m; tick825
+bud_prov_namur_taxes_propres_2026,province_namur,2026,4700000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Taxes provinciales propres 4.7m; tick825
+bud_prov_namur_fonds_provinces_2026,province_namur,2026,24400000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Fonds des provinces ~24.4m (tutelle 24.9m; no indexation decree path); tick825
+bud_prov_namur_compens_wal_2026,province_namur,2026,1700000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Compensations regionales 1.7m (PRI 1.1 + Marshall 0.5 + Natura 0.1); tick825
+bud_prov_namur_prestations_2026,province_namur,2026,6444876,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Recettes prestations 6.445m; tick825
+bud_prov_namur_zs_30_3m_2026,province_namur,2026,30300000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Zones de secours total 30.3m (dotation 27.2 + complement RW 3.1); tick825
+bud_prov_namur_zs_dotation_2026,province_namur,2026,27200000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,ZS dotation zones 27.2m; tick825
+bud_prov_namur_zs_complement_2026,province_namur,2026,3100000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,ZS budget complementaire RW 3.1m; tick825
+bud_prov_namur_zs_path_2030,province_namur,2030,44000000,,,commitment,src_ccrek_2026_14_namur_budget_2026,strong,Trajectoire ZS province Namur 2030 44.0m (CoA figure); tick825
+bud_prov_namur_pension_solid_budget_2026,province_namur,2026,11800000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Cotisation solidarite pensions budgetee 11.8m (SFP est 9.4m); tick825
+bud_prov_namur_pension_resp_sfp_2026,province_namur,2026,12500000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Cotisation responsabilisation SFP est 12.5m via Ethias (debudgeted); tick825
+bud_prov_namur_pension_debudget_2026,province_namur,2026,10000000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Debudgetisation pensions via fonds Ethias ~10.0m (CoA); tick825
+bud_prov_namur_pension_masse_2026,province_namur,2026,24900000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Masse salariale agents nommes SFP 24.9m; tick825
+bud_prov_namur_etp_2025,province_namur,2025,845,,,outturn,src_ccrek_2026_14_namur_budget_2026,strong,Effectifs 844.9 ETP (base traitements juin/juil 2025); tick825
+bud_prov_namur_emprunt_new_2026,province_namur,2026,9202293,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Nouvelles autorisations emprunt EP 2026 9.202m; tick825
+bud_prov_namur_emprunt_charges_new_2026,province_namur,2026,4200000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Charges emprunts a contracter 2026 4.2m (exceeds stabilization thresholds); tick825
+bud_prov_namur_emprunt_auth_discord_2026,province_namur,2026,53587564,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Discordance autorisations emprunt EA calc vs budget 53.588m; tick825
+bud_prov_namur_extraord_dep_global_2026,province_namur,2026,19334888,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Budget extraordinaire global depenses 19.335m; tick825
+bud_prov_namur_extraord_invest_2026,province_namur,2026,17497688,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Investissements extraordinaires 17.498m; tick825
+bud_prov_namur_extraord_rec_global_2026,province_namur,2026,34406707,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Extraordinaire global recettes 34.407m; solde +15.072m; tick825
+bud_prov_namur_vente_carp_2026,province_namur,2026,1800000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Vente Centre adaptation reclassement professionnel ~1.8m; tick825
+bud_prov_namur_reserves_prov_ye2025,province_namur,2025,65251530,,,stock,src_ccrek_2026_14_namur_budget_2026,strong,Fonds reserves+provisions estime YE2025 65.252m; tick825
+bud_prov_namur_reserves_prov_ye2026,province_namur,2026,66577505,,,stock,src_ccrek_2026_14_namur_budget_2026,strong,Fonds reserves+provisions estime YE2026 66.578m; tick825
+bud_prov_namur_provisions_stock_2025,province_namur,2025,59567138,,,stock,src_ccrek_2026_14_namur_budget_2026,strong,Provisions stock 59.567m YE2025; tick825
+bud_prov_namur_credits_reserve_2026,province_namur,2026,1025000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Credits de reserve cavaliers 1.025m; tick825
+bud_prov_namur_supracom_personnel_2026,province_namur,2026,700000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Nouveau service supracommunalite personnel 0.7m; tick825
+bud_prov_namur_it_hr_software_2026,province_namur,2026,1100000,,,budgeted,src_ccrek_2026_14_namur_budget_2026,strong,Frais informatiques +1.1m (HR software 0.5 + comptable 0.4 class); tick825
+bud_dual_prov_namur_liege_tick825,gg_belgium,2026,239882610,,,synthesis,src_dual_prov_namur_liege_tick825,strong,Dual Prov Namur 239.9m vs Liege 563.6m ordinary; not TE-additive; tick825
+bud_prov_namur_debt_ratio_vol_pct_2026,province_namur,2026,20,,,ratio,src_ccrek_2026_14_namur_budget_2026,strong,Ratio volume dette ~20.5pct (max 125pct); amount_eur=20 approx; tick825
