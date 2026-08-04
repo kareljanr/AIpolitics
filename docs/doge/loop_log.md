@@ -10175,3 +10175,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_822** residual dual L5/local/CoA (Aalst/Genk/Roeselare/BELNET/skeyes); deferred **rq_116**; progress@840 in 9
 
+
+## Tick 832 — 2026-08-05T13:00:00Z
+
+- Unit: **rq_822** (FOI-adjacent residual dual — **Stad+OCMW Genk Jaarrekening 2025** + Kortrijk/Mechelen city dual)
+- Found (strong primary BBC JR2025 490p, GR/OCMW 19.05.2026, Stadsplein 1 NIS Genk):
+  - Assets **€628.7m** · equity **€120.1m** · debt total **€508.6m** · fin debt **€174.6m** (+19.2m; LT **€143.2m** · ST due **€10.4m** · treasury **€21.0m**)
+  - Pension provisions **€312.6m** (was **€309.7m**; **largest VL city pension stock** found — dual Mechelen **€134.8m** / Kortrijk **€34.5m**)
+  - Capital subsidies **€34.8m** · cash **€15.4m** · FVA IGS **€84.4m** · FVA EVA **€36.1m**
+  - Exploitatie: ontvangsten **€171.9m** · uitgaven **€162.3m** (−1.4% YoY) · saldo **+€9.6m**
+  - AFM **+€0.49m** (gecorr **−€2.39m**) · BBR **−€4.37m** (treasury booking) · budget result **−€5.9m** · P&L **−€12.4m**
+  - J5 bezold **€79.6m** (−3.1% RSZ-regularisation) · toelagen **€35.3m** (police **€13.7m**) · OCMW aid **€10.9m** · invest **€32.3m** · new loans **€22.8m** · repay **€9.5m**
+  - Fiscal **€63.1m** · werk-subs received **€88.4m** (gemeentefonds **€49.2m**) · fin costs **€4.5m**
+- Dual: Kortrijk **€720.4m** assets / **€279m** expl / **€135.6m** loon (tick831) · Mechelen **€610.8m** / **€268m** / **€113m** (tick829) — not TE-additive
+- Wrote: budgets +35; commitments +4; leaderboard +7; sources +2; entity city_genk; FOI **gap_genk_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_822=done; spawn **rq_823**; ticks=832
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_823** residual dual L5/local/CoA (Aalst/Roeselare/Hasselt/BELNET/skeyes); deferred **rq_116**; progress@840 in 8
+

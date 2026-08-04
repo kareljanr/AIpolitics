@@ -17279,3 +17279,38 @@ bud_kortrijk_fiscal_2025,city_kortrijk,2025,89094173,,,cash,src_kortrijk_jr2025,
 bud_kortrijk_werk_subs_rec_2025,city_kortrijk,2025,112410290,,,cash,src_kortrijk_jr2025,strong,J5 werkingssubsidies ontvangen 112.410m; tick831
 bud_kortrijk_fin_costs_2025,city_kortrijk,2025,6931125,,,cash,src_kortrijk_jr2025,strong,J5 financiele kosten 6.931m; tick831
 bud_kortrijk_kerkfabriek_2025,city_kortrijk,2025,1400000,,,cash,src_kortrijk_jr2025,strong,Toelage kerkfabrieken 1.4m (-18.1% YoY); tick831
+bud_genk_assets_2025,city_genk,2025,628701151,,,stock,src_genk_jr2025,strong,Consol stad+OCMW total assets YE2025 628.701m; tick832
+bud_genk_equity_2025,city_genk,2025,120076206,,,stock,src_genk_jr2025,strong,Nettoactief YE2025 120.076m; tick832
+bud_genk_debt_total_2025,city_genk,2025,508624946,,,stock,src_genk_jr2025,strong,Total schulden YE2025 508.625m; tick832
+bud_genk_fin_debt_2025,city_genk,2025,174612670,,,stock,src_genk_jr2025,strong,Financiele schulden total YE2025 174.613m (LT 143.177 + ST due 10.436 + ST treasury 21.000); tick832
+bud_genk_fin_debt_lt_2025,city_genk,2025,143176727,,,stock,src_genk_jr2025,strong,Financiele schulden LT YE2025 143.177m; tick832
+bud_genk_fin_debt_st_treasury_2025,city_genk,2025,21000000,,,stock,src_genk_jr2025,strong,Thesauriebewijzen ST YE2025 21.0m (was 15.0m); tick832
+bud_genk_pension_prov_2025,city_genk,2025,312599985,,,stock,src_genk_jr2025,strong,Pensioenvoorzieningen YE2025 312.600m (was 309.736m); largest VL city pension stock found to date; tick832
+bud_genk_cash_2025,city_genk,2025,15377286,,,stock,src_genk_jr2025,strong,Liquide middelen YE2025 15.377m; tick832
+bud_genk_cap_subs_2025,city_genk,2025,34783689,,,stock,src_genk_jr2025,strong,Kapitaalsubsidies YE2025 34.784m; tick832
+bud_genk_fva_igs_2025,city_genk,2025,84367663,,,stock,src_genk_jr2025,strong,Fin VA IGS 84.368m; tick832
+bud_genk_fva_eva_2025,city_genk,2025,36082034,,,stock,src_genk_jr2025,strong,Fin VA EVA/AGB 36.082m; tick832
+bud_genk_expl_rec_2025,city_genk,2025,171852184,,,cash,src_genk_jr2025,strong,Exploitatieontvangsten 171.852m; tick832
+bud_genk_expl_exp_2025,city_genk,2025,162256912,,,cash,src_genk_jr2025,strong,Exploitatieuitgaven 162.257m (-1.42pct YoY); tick832
+bud_genk_expl_saldo_2025,city_genk,2025,9595272,,,cash,src_genk_jr2025,strong,Exploitatiesaldo +9.595m; tick832
+bud_genk_invest_exp_2025,city_genk,2025,32345674,,,cash,src_genk_jr2025,strong,Investeringsuitgaven 32.346m; tick832
+bud_genk_invest_rec_2025,city_genk,2025,4863946,,,cash,src_genk_jr2025,strong,Investeringsontvangsten 4.864m; tick832
+bud_genk_invest_saldo_2025,city_genk,2025,-27481728,,,cash,src_genk_jr2025,strong,Investeringssaldo -27.482m; tick832
+bud_genk_fin_rec_2025,city_genk,2025,23236486,,,cash,src_genk_jr2025,strong,Financieringsontvangsten 23.236m; tick832
+bud_genk_fin_exp_2025,city_genk,2025,11247026,,,cash,src_genk_jr2025,strong,Financieringsuitgaven 11.247m; tick832
+bud_genk_new_loans_2025,city_genk,2025,22795186,,,cash,src_genk_jr2025,strong,Nieuwe leningen/leasings 22.795m (20m banks Belfius+BNPPF +2.795m leasing); tick832
+bud_genk_aflossingen_2025,city_genk,2025,9548806,,,cash,src_genk_jr2025,strong,Periodieke aflossingen 9.549m; tick832
+bud_genk_afm_2025,city_genk,2025,487767,,,cash,src_genk_jr2025,strong,Autofinancieringsmarge AFM +0.488m (gecorr -2.393m); tick832
+bud_genk_afm_corr_2025,city_genk,2025,-2392731,,,cash,src_genk_jr2025,strong,Gecorrigeerde AFM -2.393m (8pct debt norm); tick832
+bud_genk_bbr_2025,city_genk,2025,-4374028,,,cash,src_genk_jr2025,strong,Beschikbaar budgettair resultaat BBR -4.374m (treasury booking effect); tick832
+bud_genk_budget_result_2025,city_genk,2025,-5896996,,,cash,src_genk_jr2025,strong,Budgettair resultaat boekjaar -5.897m; tick832
+bud_genk_pnl_result_2025,city_genk,2025,-12384715,,,cash,src_genk_jr2025,strong,Vennootschapsresultaat J5 -12.385m; tick832
+bud_genk_bezold_2025,city_genk,2025,79567002,,,cash,src_genk_jr2025,strong,J5 bezoldigingen/sociale/pensioenen 79.567m (-3.1pct YoY; RSZ regularisation effect); tick832
+bud_genk_goederen_2025,city_genk,2025,31393810,,,cash,src_genk_jr2025,strong,J5 goederen en diensten 31.394m; tick832
+bud_genk_toelagen_2025,city_genk,2025,35315814,,,cash,src_genk_jr2025,strong,J5 toegestane werkingssubsidies 35.316m (police 13.715 fire 3.432 IGS 3.529 AGB 2.515 other 9.531); tick832
+bud_genk_inv_subs_granted_2025,city_genk,2025,6791321,,,cash,src_genk_jr2025,strong,J5/T2 toegestane investeringssubsidies 6.791m (AGB 4.626m); tick832
+bud_genk_ocmw_aid_2025,city_genk,2025,10941986,,,cash,src_genk_jr2025,strong,J5 individuele hulpverlening OCMW 10.942m; tick832
+bud_genk_fiscal_2025,city_genk,2025,63136030,,,cash,src_genk_jr2025,strong,J5 fiscale opbrengsten en boetes 63.136m; tick832
+bud_genk_werk_subs_rec_2025,city_genk,2025,88387129,,,cash,src_genk_jr2025,strong,J5 werkingssubsidies ontvangen 88.387m (gemeentefonds 49.249m); tick832
+bud_genk_fin_costs_2025,city_genk,2025,4450346,,,cash,src_genk_jr2025,strong,J5 financiele kosten 4.450m; tick832
+bud_genk_police_toelage_2025,city_genk,2025,13714659,,,cash,src_genk_jr2025,strong,Toelage politiezone 13.715m; tick832
