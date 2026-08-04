@@ -10545,3 +10545,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_dendermonde; FOI **gap_dendermonde_pension_loans_l5** prio8 ready + draft; raw PDF+extract; rq_845=done; spawn **rq_846**; ticks=855
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_846** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 5
+
+## Tick 856 - 2026-08-06T01:00:00Z
+
+- Unit: **rq_846** (FOI-adjacent residual dual - **Stad+OCMW Lommel Jaarrekening 2025** + Dendermonde dual)
+- Found (strong primary BBC JR2025 274p, known 24.06.2026):
+  - Assets **EUR432.0m** · equity **EUR373.7m** · debt total **EUR58.2m** · fin debt **EUR16.0m** (LT **EUR14.3m** · ST due **EUR1.7m**; was **EUR8.8m**)
+  - Pension **EUR26.7m** · cash **EUR28.9m** · cap subs **EUR44.5m** · FVA IGS **EUR61.2m** (was **EUR29.8m**) · herwaard **EUR31.5m** (was **EUR0.02m**)
+  - Exploitatie: ontvangsten **EUR67.3m** · uitgaven **EUR61.4m** · saldo **+EUR5.9m**
+  - AFM **+EUR5.5m** (gecorr **+EUR6.2m**) · BBR **EUR25.2m** · budget result **-EUR1.9m** · P&L **-EUR4.8m**
+  - Personnel **EUR28.0m** · toelagen **EUR17.9m** (police **EUR4.7m** · AGB **EUR3.0m** · welzijn **EUR3.0m** · other **EUR3.3m** · fire **EUR2.0m**) · OCMW aid **EUR2.4m** · fiscal **EUR33.1m**
+  - Invest **EUR24.8m** · new loans **EUR8.7m** · gemeentefonds **EUR11.3m**
+- Dual: Dendermonde **EUR258m** / fin debt **EUR47m** / AFM **+EUR2.6m** / pension drop **-EUR28.5m** (tick855) - not TE-additive
+- Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_lommel; FOI **gap_lommel_igs_reval_loans_l5** prio7 ready + draft; raw PDF+extract; rq_846=done; spawn **rq_847**; ticks=856
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_847** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@860 in 4
