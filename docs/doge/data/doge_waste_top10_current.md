@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **810** (2026-08-05) · **~3600** leaderboard rows  
+**As-of:** tick **820** (2026-08-05) · **~3650** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,24 +27,25 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · OWV snowball **€27bn** · Oosterweel residual · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · debt principal repay · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **BOSA provisions ~€1.71bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **Phoenix multi-year** · **SFPIM Defence capital** · **Regie NEKP >€3bn / DBFM stocks** · **Metro3 multi-bn** · housing finance · private gambling stakes **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · Hedera CAP · VL/WAL/FWB/BCR debt stocks (WAL gross **€30.3bn** class) · OWV snowball **€27bn** · Oosterweel residual · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · debt principal repay · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **BOSA provisions ~€1.71bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **Phoenix multi-year** · **SFPIM Defence capital** · **Regie NEKP >€3bn / DBFM stocks** · **Metro3 multi-bn** · housing finance (VMSW **€11.6bn** loans) · **MOG II €7–8bn** CAPEX · private gambling stakes **€31.5bn** market · university balance sheets.
 
-**Change vs tick 800:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 801–809 (off pure top10 / dual):** CoA federal consultancy **€2.525bn** 2020–22 (~**€842m**/yr) · IT **€2.03bn** · BOSA **45%** of purchases · Smals broker spent **€471m** under **€1.8bn** RA · Regie Justice **€264/336m** / NEKP **>€3bn** · Loterij society **€362.5m** · Begroting package **€9.2bn** buckets · BELSPO Defence-ESA **€268m** · fraud **377** staff / **100 ETP** · PE-zone re-tender · FAAV **78** measures. Gain is **CoA consultancy mega-map + beleidsnota residual dual** more than FFS reshuffle.
+**Change vs tick 810:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 811–819 (off pure top10 / dual):** SECAL **€452.7m** encours / recovery **26.6%** · MOG II **€7–8bn** / tariff **~€800m/yr** / Elia unilateral **≥€1.57bn** · PEZ CfD **€470–520m/yr** class · ISI bank-inquiry **€2.3bn** established / **€36m** collected (**1.57%**) · DWV studies **~€133.7m** four-pack / R0 **€85.4m** · VMSW **€12.38bn** / FS3 **€1bn** · WAL SEC **−€2.02bn** / debt **€30.3bn** / interest **€1.102bn** / cabinets **€28m** · KU Leuven **€3.4bn**/research **€782m** · UGent **€1.376bn**/personnel **~€667m**/net cash **€643m**. Gain is **energy claim-pipeline + Entity II budget depth + dual universities** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
 | # | ID | Annual € | Priority | Note |
 |---|-----|----------:|---------:|------|
 | — | `lb_metro3_overrun_477pct` | **stock** | **9.05** | STOCK filtered |
-| — | `lb_cons_no_costbenefit_18bn` / `lb_cons_no_inventory` | **governance** | **8.35** | CoA consultancy governance |
-| — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | **NEW 809** CoA 2.525bn/3y |
-| — | `lb_fed_consultancy_it_2_0bn` | **~677 m/yr** | **7.55** | **NEW 809** IT 81% |
-| — | `lb_bosa_consultancy_45pct_purchases` | **~45 m/yr** | **7.15** | **NEW 809** BOSA 45% purchases |
-| — | `lb_nmbs_consultancy_465m` | **~155 m/yr** | **7.00** | **NEW 809** top buyer |
-| — | `lb_smals_broker_1_8bn_ra` | **471 m spent** | **7.00** | **NEW 809** broker RA |
-| — | `lb_noordzee_pe_zone_retender_2026` | **Unknown** | **6.70** | **NEW 808** PE-zone Q1 2026 |
-| — | `lb_regie_justice_capacity_264m_2026` | **264 m** | **6.55** | **NEW 801** dual package |
-| — | `lb_natlot_society_362_5m_2024` | **362.5 m** | **5.70** | **NEW 802** lottery society |
+| — | `lb_isi_bank_inquiry_1_57pct_recovery` | **rate** | **~7.3** | **NEW 814** 1.57% of 2.3bn |
+| — | `lb_isi_bank_inquiry_collection_gap_2_26bn` | **stock gap** | **~8.0** | **NEW 814** 2.26bn uncollected class |
+| — | `lb_mog2_tariff_800m_yr_2034` | **~800 m/yr** | **~7.3** | **NEW 812** tariff path from 2034 |
+| — | `lb_mog2_capex_7_8bn_2024` | **stock** | **~8.2** | **NEW 812** 7–8bn CAPEX |
+| — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
+| — | `lb_dwv_r0_noord_study_2x_overrun` | **study** | **~7.0** | **NEW 815** 85.4m vs 35.7m award |
+| — | `lb_wal_interest_1_102bn_2026` | **1.10 bn** | **~6.8** | **NEW 816** debt service |
+| — | `lb_wal_cabinets_28m_bi2026` | **28 m** | **~5.3** | **NEW 817** dual FWB |
+| — | `lb_kuleuven_stuvo_deficit_10m` | **10 m** | **~5.7** | **NEW 818** costs +60% |
+| — | `lb_ugent_net_cash_643m` | **liquidity** | **~5.8** | **NEW 819** net cash class |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -52,13 +53,14 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |----|----:|------|
 | `lb_metro3_overrun_477pct` | **9.5** | Metro3 cost +477pct |
 | `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast |
+| `lb_isi_bank_inquiry_1_57pct_recovery` | **9.0** | Bank-inquiry recovery 1.57% |
 | `lb_metro3_financing_gap_4bn` | **9.0** | Metro3 BCR financing gap |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_bosa_consultancy_45pct_purchases` | **8.5** | BOSA 45% purchases consultancy |
+| `lb_mog2_elia_unilateral_1_57bn` | **8.0** | Elia unilateral design uplift |
+| `lb_dwv_op_posts_no_competition_9_4m` | **8.5** | OP posts without competition |
 | `lb_fed_consultancy_2_5bn_coa` | **8.0** | CoA no inventory / compliance failures |
-| `lb_ambtenaren_consultancy_opacity` | **7.5** | Structural external consultancy opacity |
-| `lb_beliris_nord_suspension_opaque` | **7.5** | Nord suspended since 2023 |
+| `lb_bosa_consultancy_45pct_purchases` | **8.5** | BOSA 45% purchases consultancy |
 
 ### Methodology notes
 

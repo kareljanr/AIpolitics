@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T06:30:00Z,rq_810,819,no,tick819 UGent 1.376bn equity902 result+62 personnel667 dual KU Leuven FOI; next rq_811 MANDATORY progress@820; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T07:00:00Z,rq_811,820,no,tick820 progress A-E + waste top10; next rq_812 residual dual L5/local/CoA; progress@830 in 10; rq_116 deferred

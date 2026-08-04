@@ -9965,3 +9965,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +23; commitments +3; leaderboard +5; sources +2; FOI **gap_ugent_public_grant_matrix_l5** prio7 ready + draft; finance extract; rq_810=done; spawn **rq_811 MANDATORY progress@820** + rq_812; ticks=819
 - FOI: ready only — **do not send**
 - Next: **rq_811 MANDATORY progress@820**; deferred **rq_116**
+
+## Tick 820 — 2026-08-05T07:00:00Z
+
+- Unit: **rq_811** (mandatory **progress@820** — coverage % layers A–E + waste top10)
+- Found / assessed (no new primary euros this tick — inventory refresh after ticks 811–819):
+  - **A L0:** **100%** (€347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ WAL BI2026 **€21.34bn** / debt **€30.3bn** · VMSW **€12.38bn** · KU Leuven **€3.4bn** · UGent **€1.376bn** · MOG II **€7–8bn** class · prior consultancy ~€0.84bn/yr)
+  - **D L5:** ~**61–75%** generous — gain 810→820: SECAL **€452.7m** / recovery **26.6%** · MOG II tariff **~€800m/yr** · ISI **€2.3bn**/€36m **1.57%** · DWV studies **~€133.7m** · VMSW loans **€11.6bn** · WAL cabinets **€28m** / tourisme **€66m** / encours **€6.83bn** · KU research **€782m** · UGent personnel **~€667m** / net cash **€643m**
+  - **E FOI ready:** ~**545** (answered ~9; total ~559)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2–10; stocks filtered (Metro3, OWV snowball, MOG II CAPEX, VMSW/WAL debt, uni balance sheets)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_811=done; next **rq_812**; loop_state ticks=820
+- FOI: none new this tick
+- Next: prio5 **rq_812** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 10
