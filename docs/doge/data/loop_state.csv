@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T01:00:00Z,rq_799,808,no,tick808 Noordzee018 PE-zone re-tender dual FAAV78 Privacy GBA FOI; next rq_800 residual local/CoA; progress@810 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T01:30:00Z,rq_800,809,no,tick809 CoA consultancy 2.5bn/3y IT2.03 BOSA45pct dual Ambtenaren FOI; next rq_801 MANDATORY progress@810; rq_116 deferred

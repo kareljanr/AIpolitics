@@ -9799,3 +9799,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +5; commitments +7; leaderboard +5; sources +4; FOI **gap_noordzee_pe_zone_faav_l5** prio9 ready; raw; rq_799=done; spawn **rq_800**; ticks=808
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_800** residual local/CoA; deferred **rq_116**; progress@810 in 2
+
+## Tick 809 — 2026-08-05T01:30:00Z
+
+- Unit: **rq_800** (FOI-adjacent hole-fill — **Rekenhof consultancy federal government**, Oct 2025, 140p)
+- Found (strong primary CoA AG 22 Oct 2025, 137 federal orgs, 2020–2022 incl. VAT):
+  - Total consultancy **€2,524.7m** (~**€842m**/yr) · IT **€2,032.3m** (81%) · non-IT **€492.4m**
+  - In-house **€619.2m** (IT 576.9 + non-IT 42.2) · external class ~**€1.9bn**
+  - Top: NMBS **€465.1m** · Infrabel **€318.5m** · Fin **€185.3m** · BOSA **€134.2m** (**45%** of purchases)
+  - NIRAS 129.1 · Smals 126.1 · RIZIV 115.5 · Health 70.1 · Kanselarij 68.2 · Credendo 61.5
+  - 101 contracts **€2.2bn** with serious procurement failures; no central inventory
+  - Smals broker RA est **€1.8bn** excl · spent **€471m** incl; detachments **+48.5%** 2019–24; external IT share Smals turnover **17.8→36%**
+- Dual: Ambtenaren/Digi inventory FOI residual now baselined
+- Wrote: budgets +14; commitments +3; leaderboard +7; sources +2; FOI **gap_fed_consultancy_2023_26_update** prio9 ready; raw txt; rq_800=done; spawn **rq_801 MANDATORY progress@810** + rq_802; ticks=809
+- FOI: ready only — **do not send**
+- Next: **rq_801 MANDATORY progress@810**; deferred **rq_116**

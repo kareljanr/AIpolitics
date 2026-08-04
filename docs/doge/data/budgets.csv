@@ -16698,3 +16698,17 @@ bud_noordzee_pe_zone_retender_2026,fod_economie,2026,,,,policy,src_kamer_beleid_
 bud_noordzee_flagstate_invest_2026,fod_mobiliteit,2026,,,,budgeted,src_kamer_beleid_noordzee_1282_018_2026,strong,Targeted investments 2026 strengthen Flag State Service DG Navigation FPS Mobility; absolute EUR FOI; tick808
 bud_admin_faav_78_measures_2026,sec_federal,2026,,,,policy,src_kamer_beleid_admin_vereenv_1282_012_2026,strong,FAAV 78 targeted admin simplification proposals MR end-2025 from ~600 signals; burden-hour savings EUR Unknown FOI; tick808
 bud_dual_noordzee_offshore_residual_2026,gg_belgium,2026,,,,synthesis,src_dual_noordzee_admin_tick808,strong,Dual PE-zone re-tender residual vs prior offshore support stacks; not TE-additive; tick808
+bud_fed_consultancy_total_2020_22,sec_federal,2022,2524700000,,,outturn,src_ccrek_consultancy_fed_2025,strong,CoA estimated total consultancy 137 federal orgs 2020-2022 incl VAT 2524.7m; tick809
+bud_fed_consultancy_avg_annual_2020_22,sec_federal,2021,841600000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Illustrative annual average 2524.7m/3 = 841.6m/yr 2020-22; tick809
+bud_fed_consultancy_it_2020_22,sec_federal,2022,2032300000,,,outturn,src_ccrek_consultancy_fed_2025,strong,IT consultancy 2032.3m incl VAT 2020-22 (~81pct); of which IH 576.9m AO/OO 1455.4m; tick809
+bud_fed_consultancy_nonit_2020_22,sec_federal,2022,492400000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Non-IT consultancy 492.4m incl VAT 2020-22 (~19pct); IH 42.2m AO 450.1m; tick809
+bud_fed_consultancy_inhouse_619m_2020_22,sec_federal,2022,619200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,In-house consultancy between federal orgs 619.2m incl VAT 2020-22 (IT 576.9 + non-IT 42.2); tick809
+bud_nmbs_consultancy_465m_2020_22,nmbs,2022,465100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,NMBS top buyer 465.1m incl VAT 2020-22 (IH 104.2 + OO 360.9) = 9pct purchase budget; tick809
+bud_infrabel_consultancy_318m_2020_22,infrabel,2022,318500000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Infrabel 318.5m incl VAT 2020-22 (IH 40 + OO 278.5) = 12pct purchases; tick809
+bud_fin_consultancy_185m_2020_22,fod_finance,2022,185300000,,,outturn,src_ccrek_consultancy_fed_2025,strong,FOD Financiën 185.3m incl VAT 2020-22 = 22pct purchases; tick809
+bud_bosa_consultancy_134m_2020_22,fod_bosa,2022,134200000,,,outturn,src_ccrek_consultancy_fed_2025,strong,FOD BOSA 134.2m incl VAT 2020-22 = 45pct of purchase budget (highest share top10); tick809
+bud_niras_consultancy_129m_2020_22,niras,2022,129100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,NIRAS 129.1m incl VAT 2020-22; tick809
+bud_smals_consultancy_126m_2020_22,smals,2022,126100000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Smals as buyer 126.1m incl VAT 2020-22 = 79pct of its purchases; tick809
+bud_riziv_consultancy_115m_2020_22,riziv,2022,115500000,,,outturn,src_ccrek_consultancy_fed_2025,strong,RIZIV 115.5m incl VAT 2020-22 = 48pct purchases; tick809
+bud_smals_broker_spent_471m,smals,2023,471000000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Smals broker RA 2023: initial est 1.8bn excl VAT; spent 471m incl VAT by Dec situation CoA; tick809
+bud_dual_consultancy_coa_tick809,gg_belgium,2021,841600000,,,synthesis,src_dual_consultancy_ambtenaren_tick809,strong,Dual CoA annual avg ~842m vs Ambtenaren inventory FOI residual; not TE-additive double-count; tick809
