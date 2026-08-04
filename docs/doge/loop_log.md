@@ -9560,3 +9560,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +10; commitments +8; leaderboard +7; sources +2; FOI **gap_asiel_dublin_masterplan_l5** prio9 ready; raw PDF; rq_783=done; spawn **rq_784**; ticks=792
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_784** residual local/CoA; deferred **rq_116**; progress@800 in 8
+
+## Tick 793 — 2026-08-04T17:30:00Z
+
+- Unit: **rq_784** (FOI-adjacent residual — **Kamer DOC 56 1282/016 Beleidsnota Federale Culturele Instellingen**, 38p)
+- Found (primary 56K1282016):
+  - Federal dots IB2026: **NOB €10.943m** (2025 total €11.061m); **La Monnaie €42.248m** (2025 €42.755m); **Bozar €15.523m** (2025 €15.660m)
+  - **Sum 3-inst dots €68.714m**; linear economy **1.8%** + index jump less 2026
+  - Nationale Loterij: NOB **€1.75m** + Monnaie **€1.75m** + Bozar **€3.5m** (~€7m class; year split FOI)
+  - Monnaie **TCO €64.7m** 2026 (struct €44.5 / artistic €11.7 / ops €2.5 / Tax Shelter exp €6.0); fed dot 66.2%; Tax Shelter rev **€4.4m**
+  - Bozar ops **€35.6m** 2026 (+€0.9m); 2025 total exp **€37.8m**; commercial path **€13.7m**; VL cut **€107k**; Cyprus collab **~€150k**
+  - NOB staff **+€737k**; management contracts **2026–2029** pending
+- Wrote: budgets +25; commitments +6; leaderboard +8; sources +2; FOI **gap_fed_culture_3inst_l5** prio8 ready; raw PDF; rq_784=done; spawn **rq_785**; ticks=793
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_785** residual Energie041/IBZ019; deferred **rq_116**; progress@800 in 7

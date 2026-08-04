@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T17:00:00Z,rq_783,792,no,tick792 Asiel038 euro-opaque dual Fedasil802.2m Dublin2/Masterplan FOI; next rq_784 local/CoA residual; progress@800 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T17:30:00Z,rq_784,793,no,tick793 Cultuur016 3inst 68.714m Monnaie64.7 Bozar35.6 FOI; next rq_785 Energie041/IBZ019 residual; progress@800 in 7; rq_116 deferred

@@ -16541,3 +16541,28 @@ bud_aanmeldcentrum_dossier_2026_unknown,dvz,2026,,,,policy,src_kamer_beleid_asie
 bud_masterplan_closed_jabbeke_start_2026_unknown,dvz,2026,,,,policy,src_kamer_beleid_asiel_1282_038_2026,strong,Masterplan closed centres: Jabbeke works start 2026; Merksplas extra wing 2025; Steenokkerzeel departure centre first stone; multi-year capex Unknown; tick792
 bud_asiel_food_card_rollout_2026_unknown,fedasil,2026,,,,policy,src_kamer_beleid_asiel_1282_038_2026,strong,Meal cheques -> food-only cards early 2026 (voluntary exit or self-cook centres); programme cost Unknown; tick792
 bud_dual_asiel_admin_chain_244m_class,gg_belgium,2025,243881000,,,synthesis,src_dual_asiel_fedasil_tick792,strong,Dual prior admin chain DVZ+CGVS+RVV ~243.9m 2025 class vs 038 Dublin/CGVS reinforce; not TE-additive; tick792
+bud_nob_dot_2025_total,nob_orchestre,2025,11061000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,NOB/BNO totale federale dotatie 2025 11.061m; tick793 1282/016
+bud_nob_dot_ib2026,nob_orchestre,2026,10943000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,NOB initiële begroting 2026 10.943m (1.8pct linear + index jump less); tick793
+bud_monnaie_dot_2025_total,la_monnaie,2025,42754834,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,La Monnaie/Munt totale federale dotatie 2025 42.754834m; tick793
+bud_monnaie_dot_ib2026,la_monnaie,2026,42248000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,La Monnaie initiële begroting 2026 42.248m; tick793
+bud_bozar_dot_2025_total,bozar,2025,15660000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar/PSK totale federale dotatie 2025 15.660m; tick793
+bud_bozar_dot_ib2026,bozar,2026,15523000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar initiële begroting 2026 15.523m; tick793
+bud_fed_culture_3inst_dots_ib2026,gg_belgium,2026,68714000,,,derived,src_kamer_beleid_cultuur_1282_016_2026,strong,Sum federal dots IB2026 NOB 10.943 + Monnaie 42.248 + Bozar 15.523 = 68.714m; tick793
+bud_nob_loterie_1_75m,nob_orchestre,2025,1750000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,medium,Nationale Loterij subsidy NOB 1.75m from 2024 definitive / 2025 provisional plan figures in 1282/016 (year split residual FOI); tick793
+bud_monnaie_loterie_1_75m,la_monnaie,2025,1750000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,medium,Nationale Loterij subsidy Monnaie 1.75m (plan figures 1282/016); tick793
+bud_bozar_loterie_3_5m,bozar,2025,3500000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,medium,Nationale Loterij subsidy Bozar 3.5m (plan figures 1282/016); tick793
+bud_monnaie_total_exp_64_7m_2026,la_monnaie,2026,64700000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,De Munt totale uitgaven 2026 64.7m; tick793
+bud_monnaie_struct_exp_44_5m_2026,la_monnaie,2026,44500000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Monnaie structurele uitgaven 44.5m 2026; tick793
+bud_monnaie_artistic_exp_11_7m_2026,la_monnaie,2026,11700000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Monnaie artistieke uitgaven 11.7m 2026; tick793
+bud_monnaie_tax_shelter_exp_6m_2026,la_monnaie,2026,6000000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Monnaie Tax Shelter uitgaven 6.0m 2026; tick793
+bud_monnaie_tax_shelter_rev_4_4m_2026,la_monnaie,2026,4400000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Monnaie Tax Shelter inkomsten boekjaar 2026 4.4m (6.8pct); tick793
+bud_monnaie_federal_staff_rev_31_8m_2026,la_monnaie,2026,31800000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Monnaie structurele inkomsten federal staff path 31.8m =49.1pct of total exp; tick793
+bud_monnaie_beliris_building_2_4m_2026,la_monnaie,2026,2400000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Monnaie Beliris gebouw 2.4m 2026 (3.8pct); tick793
+bud_bozar_exp_2025_37_8m,bozar,2025,37800000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar uitgavenbudget 2025 37.8m (ops 34.7 + relance 1.5 + invest 1.6); tick793
+bud_bozar_ops_2025_34_7m,bozar,2025,34700000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar operationele kosten 2025 34.7m; tick793
+bud_bozar_ops_2026_35_6m,bozar,2026,35600000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar werkingsuitgaven 2026 35.6m (+0.9m / +2.6pct); tick793
+bud_bozar_commercial_rev_13_7m_2026,bozar,2026,13700000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar tickets+zaalverhuur+mecenaat path 13.7m 2026 (13.5m 2025); tick793
+bud_bozar_vl_cut_107k_2026,bozar,2026,-107000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Vlaamse Gemeenschap projectsteun Bozar cut 107k 2026; tick793
+bud_bozar_cyprus_presidency_150k_2026,bozar,2026,150000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,Bozar Cypriotisch EU-voorzitterschap collab ~150k H1 2026; tick793
+bud_nob_staff_plus_737k_2026,nob_orchestre,2026,737000,,,budgeted,src_kamer_beleid_cultuur_1282_016_2026,strong,NOB personeelskost +737k 2026 path; tick793
+bud_dual_fed_culture_3inst_2026,gg_belgium,2026,68714000,,,synthesis,src_dual_fed_culture_tick793,strong,Dual map federal culture 3-inst dots 68.714m IB2026 vs city culture residual; not TE-additive; tick793
