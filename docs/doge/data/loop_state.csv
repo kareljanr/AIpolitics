@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T05:30:00Z,rq_808,817,no,tick817 WAL L5 cabinets28 tourisme66 commerce77 encours6.83bn dual FWB FOI; next rq_809 residual dual L5/local; progress@820 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T06:00:00Z,rq_809,818,no,tick818 KU Leuven 3.4bn/782m research VL cut-31.4 Stuvo-10 dual FWB FOI; next rq_810 residual dual L5; progress@820 in 2; rq_116 deferred

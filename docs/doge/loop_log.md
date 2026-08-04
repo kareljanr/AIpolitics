@@ -9935,3 +9935,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +26; commitments +4; leaderboard +6; sources +2; FOI **gap_wal_forem_aviq_sofico_l5** ready + update gap_wal_bi2026_l5_matrix; extract dep pages; rq_808=done; spawn **rq_809**; ticks=817
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_809** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 3
+
+## Tick 818 — 2026-08-05T06:00:00Z
+
+- Unit: **rq_809** (FOI-adjacent residual dual — **KU Leuven Jaarverslag 2025** + FWB higher-ed dual)
+- Found (strong primary KU Leuven JV 2025, 167p):
+  - Balance YE2025 **€3.4bn** (+**€178.6m** · +5.6%) · equity **€2.520bn** · destined funds **€2.518bn**
+  - Debt **€532.1m** · provisions **€254.3m** · fixed assets **€856.2m** · current **€2.530bn**
+  - Research spend **€781.88m** (2024 **€749.2m**) · LRD op rev **€419m** · valorisatie 4th stream **€247.2m**
+  - VL gov savings net impact **−€31.4m** 2025 · mecenat **€26.52m**
+  - Stuvo budget **€43.78m** · result **−€10.09m** · costs **€53.87m** (+60.2%)
+  - Horizon pillar2 lead **€139.5m**/219 projects (HES rank class)
+- Dual: FWB higher-ed personnel class ~**€7.1bn** prior (not TE-additive)
+- Wrote: entity kuleuven; budgets +21; commitments +4; leaderboard +5; sources +2; FOI **gap_kuleuven_public_grant_matrix_l5** prio7 ready + draft; extract p1-25; rq_809=done; spawn **rq_810**; ticks=818
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_810** residual dual L5; deferred **rq_116**; **progress@820 in 2**

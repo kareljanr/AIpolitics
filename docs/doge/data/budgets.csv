@@ -16855,3 +16855,24 @@ bud_wal_encours_eng_2023,wallonie_gov,2023,6839625000,,,outturn,src_wal_expgen_b
 bud_wal_postal_market_review_class,wallonie_gov,2026,7500000,,,estimate,src_wal_expgen_bi2026_l5_tables,medium,Spending review: SPW postal market ~7.5m TVAC/yr; tick817
 bud_wal_tourisme_encours_202511,wallonie_gov,2025,18828000,,,outturn,src_wal_expgen_bi2026_l5_tables,strong,Tourisme encours eng 18828 kEUR at 11.11.2025; tick817
 bud_dual_wal_cabinets_tick817,gg_belgium,2026,28043000,,,synthesis,src_dual_wal_fwb_cabinets_tick817,strong,Dual WAL cabinets 28.043m vs FWB residual; not TE-additive; tick817
+bud_kuleuven_balance_2025,kuleuven,2025,3400000000,,,outturn,src_kuleuven_jv2025,strong,Balance total YE2025 3.4bn (+178.6m +5.6pct); tick818
+bud_kuleuven_balance_delta_2025,kuleuven,2025,178600000,,,outturn,src_kuleuven_jv2025,strong,Balance increase 178.6m 2025; tick818
+bud_kuleuven_equity_2025,kuleuven,2025,2520000000,,,outturn,src_kuleuven_jv2025,strong,Eigen vermogen 2.520bn YE2025 (from 2.321bn); tick818
+bud_kuleuven_destined_funds_2025,kuleuven,2025,2518000000,,,outturn,src_kuleuven_jv2025,strong,Bestemde fondsen 2.518bn YE2025 (from 2.319bn); tick818
+bud_kuleuven_provisions_2025,kuleuven,2025,254300000,,,outturn,src_kuleuven_jv2025,strong,Provisions 254.3m (7.5pct) YE2025 -8.2m YoY; tick818
+bud_kuleuven_debt_2025,kuleuven,2025,532100000,,,outturn,src_kuleuven_jv2025,strong,Schulden 532.1m (15.7pct) YE2025 -4.5m; tick818
+bud_kuleuven_fixed_assets_2025,kuleuven,2025,856200000,,,outturn,src_kuleuven_jv2025,strong,Vaste activa 856.2m +60.9m; tick818
+bud_kuleuven_current_assets_2025,kuleuven,2025,2530000000,,,outturn,src_kuleuven_jv2025,strong,Vlottende activa 2.530bn +117.7m (geldbeleggingen); tick818
+bud_kuleuven_research_spend_2025,kuleuven,2025,781880000,,,outturn,src_kuleuven_jv2025,strong,Onderzoeksuitgaven 781.88m 2025 (incl LRD FWO mandates); tick818
+bud_kuleuven_research_spend_2024,kuleuven,2024,749200000,,,outturn,src_kuleuven_jv2025,strong,Research spend 749.2m 2024; tick818
+bud_kuleuven_lrd_op_rev_2025,kuleuven,2025,419000000,,,outturn,src_kuleuven_jv2025,strong,LRD bedrijfsopbrengsten 419m 2025 (+4m); tick818
+bud_kuleuven_valorisatie_4th_stream_2025,kuleuven,2025,247200000,,,outturn,src_kuleuven_jv2025,strong,4th stream valorisatie after matching 247.2m (private contract 76.8+12.6 etc); tick818
+bud_kuleuven_vl_gov_cut_impact_2025,kuleuven,2025,-31400000,,,estimate,src_kuleuven_jv2025,strong,VL government savings net impact KU Leuven 2025 -31.4m; tick818
+bud_kuleuven_mecenat_2025,kuleuven,2025,26522498,,,outturn,src_kuleuven_jv2025,strong,Mecenat total 26.522m (projects 7.203 funds 3.599 chairs 6.489 legacies 9.232); tick818
+bud_kuleuven_stuvo_budget_2025,kuleuven,2025,43780489,,,budgeted,src_kuleuven_jv2025,strong,Stuvo budget 43.780m (toelagen 18.376 + other 25.404); tick818
+bud_kuleuven_stuvo_result_2025,kuleuven,2025,-10086323,,,outturn,src_kuleuven_jv2025,strong,Stuvo result -10.086m; costs 53.867m (+60.2pct) rev 43.780m; tick818
+bud_kuleuven_stuvo_costs_2025,kuleuven,2025,53866811,,,outturn,src_kuleuven_jv2025,strong,Stuvo total costs 53.867m; tick818
+bud_kuleuven_horizon_pillar2_cum,kuleuven,2025,139500000,,,outturn,src_kuleuven_jv2025,strong,Horizon Europe pillar2 Global challenges 139.5m 219 projects KU lead HES; tick818
+bud_kuleuven_hes_horizon_total_rank,kuleuven,2025,334200000,,,outturn,src_kuleuven_jv2025,medium,HES Horizon Europe ranking total 334.2m 562 projects (system class not all KU); tick818
+bud_kuleuven_basiskoten_new_loans_2025,kuleuven,2025,11000000,,,outturn,src_kuleuven_jv2025,strong,New loans basiskoten +11.0m in debt mutations; tick818
+bud_dual_kuleuven_fwb_he_tick818,gg_belgium,2025,3400000000,,,synthesis,src_dual_kuleuven_fwb_he_tick818,strong,Dual KU Leuven 3.4bn balance vs FWB HE residual; not TE-additive; tick818
