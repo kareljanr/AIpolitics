@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T18:30:00Z,rq_786,795,no,tick795 BZ006 refi35m ODA-25pct dual DGD1.118bn FOI; next rq_787 Energie041/Digi030 residual; progress@800 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T19:00:00Z,rq_787,796,no,tick796 Energie041 ETF call9 16.97m call10 residual Phoenix FOI; next rq_788 KMO024/local residual; progress@800 in 4; rq_116 deferred

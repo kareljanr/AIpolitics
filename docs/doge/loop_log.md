@@ -9600,3 +9600,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +7; commitments +4; leaderboard +5; sources +2; FOI **gap_bz_refi_oda25_l5** prio8 ready; raw PDF; rq_786=done; spawn **rq_787**; ticks=795
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_787** residual Energie041/Digi030; deferred **rq_116**; progress@800 in 5
+
+## Tick 796 — 2026-08-04T19:00:00Z
+
+- Unit: **rq_787** (FOI-adjacent residual — **Kamer DOC 56 1282/041 Beleidsnota Energie**, 22p)
+- Found (primary 56K1282041):
+  - ETF **9th call** (Nov 2024): MR 4 Jul 2025 awards **14 projects = €16,970,986.81**
+  - ETF **10th call**: remaining fund available **2026** (select May 2026; start Sep–Nov 2026; end 2029) — EUR **Unknown**
+  - First 8 ETF calls: **118** projects supported; **70** still ongoing
+  - **Phoenix** Doel 4 / Tihange 3 in **BE-NUC** + financial support mechanism (EUR Unknown)
+  - CRM re-evaluation incl. utility after **2035**; dual prior CRM auction package **€125.4m**
+  - Dual prior ETF BA path **~€24.75m**/yr (eng **€24.56m** 2026)
+- Wrote: budgets +9; commitments +5; leaderboard +5; sources +2; FOI **gap_energie_etf10_phoenix_l5** prio8 ready; raw PDF; rq_787=done; spawn **rq_788**; ticks=796
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_788** residual KMO024/local; deferred **rq_116**; progress@800 in 4
