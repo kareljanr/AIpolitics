@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T22:00:00Z,rq_793,802,no,tick802 Loterij015 217.5/200/145 private31.5bn dual PODMI039 300/300/302/342 +26m FOI; next rq_794 residual 1282/*; progress@810 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T22:30:00Z,rq_794,803,no,tick803 Overheidsbedrijven027 bpost50m dual Begroting011 9.2bn L5 FOI; next rq_795 residual 028/030/031; progress@810 in 7; rq_116 deferred

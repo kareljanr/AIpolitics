@@ -9701,3 +9701,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +16; commitments +5; leaderboard +7; sources +3; FOI **gap_natlot_beleid_2026_l5** prio8 ready; raw PDFs+txt; rq_793=done; spawn **rq_794**; ticks=802
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_794** residual 1282/* / local/CoA; deferred **rq_116**; progress@810 in 8
+
+## Tick 803 — 2026-08-04T22:30:00Z
+
+- Unit: **rq_794** (FOI-adjacent residual — **Kamer DOC 56 1282/027 Beleidsnota Overheidsbedrijven**, 12p; dual **1282/011 Begroting**, 14p)
+- Found (primary 56K1282027):
+  - bpost beheerscontract ends **EOY 2026**; future contract must include cost cut **€50m/yr from 2027**
+  - USO 2nd contract **2024–2028** mid-eval **2026**; universal bank service protocol + NBB/FSMA framework
+  - Proximus: **80% FTTH** + **99% 5G** within 5y (capex EUR Unknown); SFPIM professionalise shareholding
+  - Rail control: DVIS / OOIS / ART (law 8 May 2024) means Unknown
+- Dual (primary 56K1282011 Begroting):
+  - Multi-year measures **€9.2bn** to 2029 of which **€1bn** defence
+  - Spend+care+political wage freeze+limited index **>€2.7bn**
+  - Long-term sick 4th wave **€1.9bn** by 2029; taxshift **€1.3bn**; broad shoulders **€2.1bn**
+  - Line-by-line budget review H1 2026; admin reorg (Chancellerie/SPO/FOD Migration)
+- Wrote: budgets +10; commitments +5; leaderboard +6; sources +3; FOI **gap_bpost_beheers_50m_begroting_l5** prio8 ready; raw txt; rq_794=done; spawn **rq_795**; ticks=803
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_795** residual 028/030/031; deferred **rq_116**; progress@810 in 7
