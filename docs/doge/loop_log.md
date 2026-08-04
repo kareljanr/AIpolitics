@@ -9875,3 +9875,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +31; commitments +4; leaderboard +6; sources +2; FOI **gap_vmsw_fs3_wm_matrix_l5** prio8 ready + draft; rq_804=done; spawn **rq_805**; ticks=813
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_805** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 7
+
+## Tick 814 — 2026-08-05T04:00:00Z
+
+- Unit: **rq_805** (FOI-adjacent residual dual — **CoA 2026_20 AGIsi bank data** + SECAL/fraud dual)
+- Found (strong primary CoA AG 16 Apr 2026, 56p + communique/synthese):
+  - Bank-inquiry dossiers 2015–2024: taxes established **€2.3bn** (12% of AGIsi total **€18.7bn**)
+  - Collected to date only **€36m** (**1.57%**) → gap class **~€2.264bn** (part preventive 5th dir VAT carrousels)
+  - PCC YE2024: **55.3m** national accounts (+49% vs 2015) · ~**62m** holders · **25m** mandataires
+  - 2024: ~**700** bank inquiries authorised (mostly 5th dir); BAF **15,664** (cum 2020–24 **34,352**)
+  - Procedural errors ~**10%** sample · detects undeclared income ~**70%** · productivity **61%** vs AGIsi **54%**
+  - PCC datamining legal from law **18 Dec 2025**; crypto/securities PCC from **1 Dec 2026**
+- Dual: SECAL recovery **26.6%** (tick811) vs bank-inquiry **1.57%** collection — claim-pipeline theme
+- Wrote: budgets +14; commitments +3; leaderboard +5; sources +2; FOI **gap_isi_bank_inquiry_collection_l5** prio9 ready + draft; raw full txt extract; rq_805=done; spawn **rq_806**; ticks=814
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_806** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 6

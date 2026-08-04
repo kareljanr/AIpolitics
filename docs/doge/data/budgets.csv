@@ -16774,3 +16774,17 @@ bud_vmsw_debt_to_vl_bof_2025,vmsw,2025,10073316,,,outturn,src_vmsw_jr2025,strong
 bud_vmsw_rc_st_positive_2025,vmsw,2025,322300000,,,outturn,src_vmsw_jr2025,strong,RC korte termijn positive 322.3m (-130.3m vs YE2024); tick813
 bud_vmsw_rc_lt_invest_2026,vmsw,2026,189600000,,,outturn,src_vmsw_jr2025,strong,For 2026 189.6m invested at VMSW on LT RC; tick813
 bud_dual_vmsw_wal_housing_tick813,gg_belgium,2025,12382615327,,,synthesis,src_dual_vmsw_wal_housing_tick813,strong,Dual VMSW balance 12.38bn vs WAL housing dep class ~0.70bn not additive; tick813
+bud_isi_bank_inquiry_tax_established_2015_24,fod_finance,2024,2300000000,,,outturn,src_ccrek_2026_20_isi_bank,strong,CoA: bank-inquiry dossiers 2015-2024 taxes established 2.3bn; tick814
+bud_isi_bank_inquiry_tax_collected_2015_24,fod_finance,2024,36000000,,,outturn,src_ccrek_2026_20_isi_bank,strong,CoA: of 2.3bn established only 36m collected to date (1.57pct); tick814
+bud_isi_bank_inquiry_collection_gap_2015_24,fod_finance,2024,2264000000,,,outturn,src_ccrek_2026_20_isi_bank,strong,Implied uncollected of established bank-inquiry taxes 2.3bn-36m=2.264bn (timing/preventive 5th dir explain part); tick814
+bud_agisi_total_tax_established_2015_24,fod_finance,2024,18700000000,,,outturn,src_ccrek_2026_20_isi_bank,strong,CoA: AGIsi total taxes established 18.7bn of which bank-inquiry 2.3bn=12pct; tick814
+bud_pcc_national_accounts_2024,nbb,2024,55300000,,,outturn,src_ccrek_2026_20_isi_bank,strong,PCC YE2024 55.3 million national bank accounts (+49pct vs 2015); unit=count not EUR; amount_eur stores count; tick814
+bud_pcc_account_holders_2024,nbb,2024,62000000,,,outturn,src_ccrek_2026_20_isi_bank,strong,PCC ~62 million account holders YE2024; unit=count; tick814
+bud_pcc_mandataires_2024,nbb,2024,25000000,,,outturn,src_ccrek_2026_20_isi_bank,strong,PCC ~25 million mandataires YE2024; unit=count; tick814
+bud_isi_bank_inquiries_authorised_2024,fod_finance,2024,700,,,outturn,src_ccrek_2026_20_isi_bank,strong,~700 bank inquiries authorised AGIsi 2024 mostly 5th dir VAT carrousels; unit=count; tick814
+bud_isi_baf_files_2024,fod_finance,2024,15664,,,outturn,src_ccrek_2026_20_isi_bank,strong,Bank audit files BAF 15664 in 2024; tick814
+bud_isi_baf_files_cum_2020_24,fod_finance,2024,34352,,,outturn,src_ccrek_2026_20_isi_bank,strong,BAF cumulative 2020-2024: 23+3681+4620+10364+15664=34352; tick814
+bud_isi_baf_files_2023,fod_finance,2023,10364,,,outturn,src_ccrek_2026_20_isi_bank,strong,BAF 10364 in 2023; tick814
+bud_isi_baf_files_2022,fod_finance,2022,4620,,,outturn,src_ccrek_2026_20_isi_bank,strong,BAF 4620 in 2022; tick814
+bud_isi_collection_rate_bank_inquiry_pct,fod_finance,2024,157,,,outturn,src_ccrek_2026_20_isi_bank,strong,Collection rate 1.57pct of established bank-inquiry taxes; amount_eur stores bps 157; tick814
+bud_dual_isi_secal_recovery_tick814,gg_belgium,2024,2300000000,36000000,2264000000,synthesis,src_dual_isi_secal_fraud_tick814,strong,Dual ISI 2.3bn established/36m collected vs SECAL recovery residual; not TE-additive; tick814

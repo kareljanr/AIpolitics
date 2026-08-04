@@ -1,0 +1,2504 @@
+---PAGE 1---
+Utilisation de données bancaires 
+par l’Inspection spéciale des impôts
+Rapport de la Cour des comptes transmis à la Chambre des représentants
+Bruxelles, mars 2026
+
+---PAGE 2---
+Utilisation de données bancaires 
+par l’Inspection spéciale des impôts
+Rapport adopté le 18 mars 2026 par l'assemblée générale de la Cour des comptes
+
+---PAGE 3---
+Utilisation de données bancaires 
+par l’Inspection spéciale 
+des impôts 
+L’accès aux données bancaires d’un contribuable est souvent essentiel dans la lutte contre la fraude 
+fiscale. Un « point de contact central des comptes et contrats financiers » (PCC) a été mis en place à 
+la Banque nationale de Belgique en 2011 pour rendre les enquêtes bancaires plus efficientes. Il s’agit 
+d’une banque de données centrale qui contient des informations générales sur les comptes nationaux et 
+l’identité de leurs titulaires.
+Pour garantir une efficacité accrue, les données financières à communiquer obligatoirement au PCC 
+ont ensuite été étendues aux informations relatives aux comptes étrangers de résidents belges (2015), 
+aux soldes des comptes bancaires et de paiement et aux montants de certains contrats financiers et 
+d’assurance-vie (2023) ainsi qu’aux informations relatives aux comptes de crypto-actifs (à partir de 2026).
+L’audit de la Cour des comptes examine si l’Administration générale de l’inspection spéciale des impôts 
+(AGIsi) utilise la banque de données PCC de manière efficace et efficiente pour lutter contre la fraude 
+fiscale. L’audit examine aussi les difficultés et limites auxquelles l’AGIsi est confrontée lorsqu’elle réalise 
+des enquêtes bancaires. Il examine également si l’utilisation de données bancaires fait l’objet d’un suivi 
+et d’une évaluation suffisants.
+Utilisation du PCC
+L’exhaustivité de la banque de données PCC n’est pas garantie jusqu’à présent : alors que les établis­
+sements financiers belges communiquent automatiquement les comptes nationaux au PCC, ils ne le 
+font pas pour les comptes (de crypto-actifs) étrangers, que le contribuable doit déclarer lui-même. 
+De nouvelles évolutions, comme l’émergence de « néobanques » et de divers prestataires de services de 
+paiement, les IBAN virtuels et les comptes de crypto-actifs, compliquent en outre l’identification des 
+contribuables et la traçabilité des transactions financières. Faute d’outils permettant de contrôler sys­
+tématiquement l’exhaustivité du PCC, la tâche de contrôle de l’Administration générale de la trésorerie 
+(AGTrés) pourrait être étendue et renforcée.
+L’exploration de données (datamining) via le PCC (analyses de risques sur la base de la banque de don­
+nées) n’a pas été possible jusqu’à récemment en raison de la procédure stricte et de l’exigence d’indices 
+de fraude spécifiques. Les données du PCC n’ont dès lors pas pu être exploitées pleinement dans le 
+cadre de la lutte contre la fraude fiscale. La loi du 18 décembre 2025 portant des dispositions diverses 
+a changé la donne. La possibilité juridique d’étendre le PCC à des données supplémentaires, comme le 
+nombre de transactions et les fluctuations importantes, peut être envisagée pour continuer à optimi­
+ser le datamining et les contrôles. Une consultation stratifiée du PCC suivant la personne habilitée à 
+recevoir l’information peut aussi l’être. Même en intégrant ces données supplémentaires, le PCC reste 
+limité à des informations générales et ne contient pas d’informations sur des transactions individuelles 
+ni d’historique des transactions. 
+SYNTHÈSE / 2
+
+---PAGE 4---
+Problèmes au niveau de la procédure fiscale
+Aucun ratio legis ne s’avère justifier la différence de procédures entre une enquête bancaire en matière 
+d’impôt sur les revenus et de TVA. Il n’en existe pas davantage pour distinguer une consultation du PCC 
+et une enquête bancaire dans des matières de TVA pure. Dans la pratique, de nombreuses investiga­
+tions fiscales sont par ailleurs polyvalentes et portent tant sur les impôts sur les revenus que sur la TVA. 
+La différence de règles de procédure entraîne dès lors une insécurité juridique et empêche de lutter 
+comme il se doit contre la fraude. Ni la loi ni la jurisprudence n’offre visiblement d’éléments suffisants 
+pour déterminer le fondement juridique exact d’une enquête bancaire légitime dans le cadre d’inves­
+tigations polyvalentes. Une enquête de la Cour des comptes révèle que, dans de telles investigations 
+polyvalentes, c’est en général soit la procédure la plus stricte qui est appliquée, soit les deux procédures 
+conjointement. Le fisc entend ainsi éviter d’être ensuite débouté par le juge.
+Si son examen des dossiers montre que les contrôleurs respectent globalement les règles de procédure 
+fiscale, la Cour des comptes a constaté des erreurs de procédure dans environ 10 % des dossiers exa­
+minés. Elles portaient toutes sur les impôts sur les revenus. Ce constat confirme la nécessité de simpli­
+fier les règles de procédure fiscale qui s’appliquent aux enquêtes bancaires et à la consultation du PCC. 
+Il confirme aussi la nécessité de mieux les harmoniser.
+Optimalisation des contrôles lors de l’utilisation de données bancaires
+Faute de fichier standard type pour l’échange de données bancaires, les établissements financiers et les 
+contribuables fournissent souvent les données demandées dans différents formats, ce qui entrave leur 
+traitement efficient. Il est dès lors souhaitable de développer un type de fichier commun pour encadrer 
+cet échange.
+Lorsque les données bancaires fournies sont trop volumineuses pour y faire des recherches manuelles, 
+les cellules d’e-audit peuvent les convertir en fichier d’audit bancaire (bank audit file – BAF). Le BAF four­
+nit un relevé structuré de toutes les transactions bancaires. Des anomalies qui, autrement, passeraient 
+inaperçues peuvent ainsi être détectées. Une utilisation accrue des BAF renforce dès lors la capacité 
+d’action de l’administration fiscale. 
+L’utilisation des données bancaires et d’outils d’analyse (notamment pour reconnaître des schémas dans 
+les BAF) peut être encore améliorée en renforçant la collaboration et le partage des connaissances entre 
+les différentes cellules d’e-audit de l’AGIsi et l’AGFisc et d’autres services publics nationaux et interna­
+tionaux partenaires de la lutte contre la fraude fiscale.
+Évaluation de l’utilisation des données bancaires
+Une évaluation technique et juridique globale de l’utilisation des données bancaires n’a plus été effec­
+tuée depuis 2018. Elle est pourtant prescrite par la loi.
+Sur la base des chiffres de l’AGIsi, la Cour des comptes a dressé un relevé du nombre d’autorisations et 
+de dossiers qui ont fait l’objet d’enquêtes bancaires, de consultations du PCC ainsi que des principaux 
+indices de fraude sur lesquels les enquêtes bancaires reposent. En 2024, l’AGIsi a ainsi autorisé quelque 
+700 enquêtes bancaires, en majeure partie pour sa 5e direction, notamment chargée de lutter contre les 
+carrousels à la TVA. En collaboration avec la cellule de traitement des informations financières (CTIF) et 
+le parquet fédéral, elle lutte contre les « réseaux de fraude brésiliens », connus pour blanchir des fonds 
+issus d’activités criminelles. Pour cartographier ce patrimoine criminel, il est indispensable de pouvoir 
+SYNTHÈSE / 3
+
+---PAGE 5---
+consulter les comptes bancaires. La direction Bruxelles de l’AGIsi est par ailleurs aussi à l’origine d’une 
+grande partie des autorisations, principalement dans le cadre de la lutte contre la fraude au domicile.
+Pour évaluer les enquêtes bancaires, l’AGIsi se limite surtout à évaluer un seul KPI, qui requiert de 
+chaque direction de recourir à une enquête bancaire dans au moins 10 % de tous les dossiers. On ignore 
+pourquoi cette norme indicative est de 10 %, et aucune mesure n’est prise lorsqu’une direction ne la 
+respecte pas.
+Enfin, les dossiers qui ont fait l’objet d’une enquête bancaire entre 2015 et 2024 n’ont permis de per­
+cevoir que 36 millions d’euros sur 2,3 milliards d’euros d’impôts établis. Ce faible taux de perception 
+s’explique principalement par l’accent mis sur l’approche préventive, en particulier à la 5e direction de 
+l’AGIsi, qui est à l’origine d’environ 80 % de toutes les rectifications en matière d’impôt sur les revenus et 
+de TVA. Si la perception de ces rectifications est seulement limitée, elles jouent un rôle important dans 
+la prévention de la fraude fiscale grave.
+SYNTHÈSE / 4
+
+---PAGE 6---
+5
+Table des matières
+
+---PAGE 7---
+Chapitre 1	
+Introduction 	
+9
+1.1	
+Contexte	
+9
+1.2	
+Audit	
+9
+1.2.1	
+Questions d’audit et délimitation	
+9
+1.2.2	
+Méthode d’audit	
+10
+1.1.3	
+Calendrier de l’audit	
+11
+Chapitre 2	
+Cadre législatif	
+12
+2.1	
+Point de contact central (PCC)	
+12
+2.1.1	
+Cadre légal	
+12
+2.1.2	
+Contrôle de l’exhaustivité du PCC	
+16
+2.1.3	
+Possibilité de datamining	
+19
+2.2	
+Procédures de consultation du PCC et d’enquête bancaire	
+21
+2.2.1	
+Procédure de consultation du PCC	
+21
+2.2.2	 Procédure d’enquête bancaire	
+21
+2.2.3	 Délai de réalisation	
+24
+2.2.4	 Problèmes au niveau de la législation	
+27
+Chapitre 3	
+Contrôle par l’AGIsi 	
+32
+3.1	
+Utilisation d’e-audits	
+32
+3.1.1	
+Absence de type de fichier standard 	
+32
+3.1.2	
+Création d’un fichier d’audit bancaire	
+33
+3.1.3	
+Outils d’analyse et signaux d’alerte	
+34
+3.2	
+Autres problèmes	
+35
+3.2.1	
+Demande de données auprès d’établissements financiers	
+35
+3.2.2	 Non-coopération du contribuable ou de l’établissement financier	
+35
+3.2.3	
+Limitations dans le cadre de la consultation du PCC	
+36
+3.3	
+Examen de dossiers par la Cour des comptes	
+36
+3.3.1	
+Organisation de l’examen des dossiers	
+36
+3.3.2	
+Analyse des dossiers	
+36
+Chapitre 4	
+Évaluation globale	
+40
+4.1	
+Rapport d’évaluation annuel sur les enquêtes bancaires	
+40
+4.2	
+Statistiques	
+41
+4.2.1	 Nombre de consultations du PCC	
+41
+4.2.2	 Nombre d’enquêtes bancaires	
+41
+4.3	
+Indices concrets pour réaliser une enquête bancaire	
+43
+4.4	
+Utilisation de KPI	
+45
+4.5	
+Résultat des enquêtes bancaires	
+46
+4.5.1	
+Productivité	
+46
+4.5.2	 Recettes fiscales	
+46
+Chapitre 5	
+Conclusion et recommandations	
+48
+5.1	
+Conclusion	
+48
+5.1.1	
+Utilisation du PCC	
+48
+5.1.2	
+Problèmes au niveau de la procédure fiscale	
+49
+5.1.3	
+Optimalisation des contrôles lors de l’utilisation de données bancaires	
+50
+5.1.4	
+Évaluation de l’utilisation des données bancaires	
+50
+5.2	
+Recommandations	
+52
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 6
+
+---PAGE 8---
+Abréviations
+AGFisc	
+Administration générale de la fiscalité
+AGIsi	
+Administration générale de l’inspection spéciale des impôts
+AGPR	
+Administration générale de la perception et du recouvrement
+AGTrés	
+Administration générale de la trésorerie
+BAF	
+Bank Audit File ou fichier d’audit bancaire
+BNB	
+Banque nationale de Belgique
+CAF	
+Service de coordination anti-fraude
+CIR 92	
+Code des impôts sur les revenus 1992
+CNC	
+Commission des normes comptables
+Code TVA	
+Code de la taxe sur la valeur ajoutée
+CTIF	
+Cellule de traitement des informations financières
+DAC	
+Directive relative à la coopération administrative dans le domaine fiscal
+Fatca	
+Foreign Account Tax Compliance Act
+FMI	
+Fonds monétaire international
+IBAN	
+International Bank Account Number
+KPI	
+Key Performance Indicator ou indicateur clé de performance
+Loi PCC	
+Loi du 8 juillet 2018 portant organisation d’un point de contact central des comptes 
+et contrats financiers et portant extension de l’accès au fichier central des avis de 
+saisie, de délégation, de cession, de règlement collectif de dettes et de protêt
+NCD	
+Norme commune de déclaration
+OCDE	
+Organisation de coopération et de développement économiques
+Olaf	
+Office européen de lutte antifraude
+PCC	
+Point de contact central
+RGPD	
+Règlement général sur la protection des données
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 7
+
+---PAGE 9---
+8
+Utilisation de données bancaires 
+par l’Inspection spéciale 
+des impôts
+
+---PAGE 10---
+Chapitre 1
+Introduction 
+1.1	
+Contexte
+L’accès aux données bancaires d’un contribuable est un élément essentiel de la lutte contre la 
+fraude fiscale. Un « point de contact central des comptes et contrats financiers » (PCC) a été 
+créé en 2011 auprès de la Banque nationale de Belgique (BNB) pour pouvoir mener les enquêtes 
+bancaires de manière plus efficiente. Au départ, il s’agissait d’une sorte de banque de données 
+centrale de tous les numéros de comptes nationaux et des noms de leurs titulaires. Cette banque 
+de données devait permettre à l’administration fiscale de retrouver rapidement et facilement les 
+numéros de comptes inconnus sans devoir interroger chaque établissement financier séparément. 
+Le nombre de données financières à communiquer obligatoirement au PCC a été étendu par la 
+suite. Ainsi, depuis 2015, le PCC centralise aussi des informations sur les comptes étrangers des 
+habitants du royaume de Belgique1. En 2022, les données à communiquer au PCC ont été étendues 
+pour la dernière fois pour inclure les soldes des comptes bancaires et de paiement ainsi que les 
+montants globalisés de certains contrats financiers et assurances-vie. D’après les travaux parle­
+mentaires préparatoires, l’extension aux soldes des comptes doit accroître la transparence fiscale 
+et aider à lutter de manière efficiente et à moindre coût contre la fraude fiscale2. Dans son arrêt 
+du 8 décembre 2022, la Cour constitutionnelle a rejeté un recours en annulation de l’extension 
+de l’obligation de communiquer ces données au PCC3. À partir du 1er décembre 2026, le PCC sera 
+enrichi d’informations relatives aux comptes de titres et de crypto-actifs nationaux4.
+La consultation du PCC peut constituer un outil important de préparation d’une enquête bancaire, 
+puisque l’administration prend ainsi connaissance des numéros de compte du contribuable. Une 
+enquête bancaire reste toutefois nécessaire pour consulter les transactions individuelles qui ont 
+effectivement eu lieu sur les comptes. 
+1.2	
+Audit
+1.2.1	
+Questions d’audit et délimitation
+L’audit se limite à l’utilisation de données bancaires par l’Administration générale de 
+l’inspection spéciale des impôts (ci-après l’« AGIsi ») dans le cadre de la lutte contre la fraude 
+fiscale. L’utilisation de données bancaires à d’autres fins fiscales ou non fiscales n’est pas auditée. 
+1	
+L’obligation date déjà de 2013, mais, à défaut de modalités d’exécution, les premières déclarations n’ont été effectuées 
+qu’en 2015 (arrêté royal du 3 avril 2015 modifiant l’arrêté royal du 17 juillet 2013 relatif au fonctionnement du point de 
+contact central visé à l’article 322, § 3, du code des impôts sur les revenus 1992).
+2	
+Chambre, 13 octobre 2021, DOC 55 2244/001, Projet de loi modifiant la loi du 8 juillet 2018 portant organisation d’un point de 
+contact central des comptes et contrats financiers et portant extension de l’accès au fichier central des avis de saisie, de déléga­
+tion, de cession, de règlement collectif de dettes et de protêt, p. 6-7, www.lachambre.be. Outre la lutte contre la fraude fiscale, 
+l’extension du PCC de 2022 entendait lutter contre le blanchiment d’argent, le financement du terrorisme et les autres 
+formes de grande criminalité.
+3	
+Cour constitutionnelle, arrêt n° 162/2022 du 8 décembre 2022, www.const-court.be.
+4	
+Loi du 18 décembre 2025 portant des dispositions diverses. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 9
+
+---PAGE 11---
+L’ audit examine uniquement l’utilisation de données bancaires en matière d’impôts sur les 
+revenus et de TVA. Les autres matières fiscales de même que la perception et le recouvrement ne 
+sont pas non plus audités.
+L’audit ne porte pas non plus sur le traitement et l’utilisation par l’administration fiscale belge 
+de données financières étrangères obtenues via l’échange international automatique de données. 
+Les renseignements sur les comptes bancaires étrangers ont déjà fait l’objet de deux audits de la 
+Cour des comptes5.
+Cet audit examine si l’AGIsi utilise la banque de données PCC de manière efficiente et si cette der­
+nière est efficace en matière de lutte contre la fraude fiscale. L’audit analyse aussi si l’AGIsi parvient 
+à utiliser les données bancaires de façon satisfaisante et efficiente dans le cadre de la lutte contre 
+la fraude fiscale ainsi que les difficultés et limites qu’elle rencontre lorsqu’elle effectue une enquête 
+bancaire. Enfin, l’audit examine si l’utilisation de données bancaires est suivie et évaluée.
+Concrètement, la Cour des comptes entend répondre aux deux questions d’audit suivantes :
+1.	 L’ AGIsi parvient-elle à utiliser les données bancaires de façon satisfaisante et efficiente dans le 
+cadre de la lutte contre la fraude fiscale ?
+2.	 Les résultats de l’utilisation de données bancaires sont-ils suivis et évalués ?
+1.2.2	
+Méthode d’audit
+La Cour des comptes a examiné la législation, la doctrine, les instructions internes, les cours et les 
+autres documents administratifs sur la consultation du PCC et la réalisation d’une enquête ban­
+caire. Elle a aussi analysé toutes les données chiffrées que le SPF Finances et la Banque nationale 
+de Belgique (BNB) lui ont communiquées.
+Par ailleurs, la Cour des comptes a mené différents entretiens auprès de l’AGIsi, de l’Adminis­
+tration générale de la trésorerie (AGTrés) et de l’Administration générale de la perception et du 
+recouvrement (AGPR).
+Le service de coordination anti-fraude (CAF)6 a aussi été interrogé sur son audit de 2021 relatif au 
+datamining (exploration de données) dans le cadre de consultations du PCC. La BNB a éventuelle­
+ment aussi été interrogée sur le fonctionnement du PCC.
+La Cour des comptes a également analysé différents dossiers dans lesquels une enquête bancaire 
+avait été menée. 
+Enfin, la Cour des comptes a enquêté auprès des agents de plusieurs directions de l’AGIsi. La Cour 
+entendait ainsi se faire une idée de la manière dont les données bancaires sont collectées dans le 
+cadre de la lutte contre la fraude fiscale, des problèmes que les agents rencontrent sur le terrain 
+et des éventuels points d’amélioration pour y remédier. Elle a envoyé l’enquête à vingt agents, à 
+savoir quatre par direction régionale. Elle a reçu dix-neuf réponses.
+5	
+Cour des comptes, Échange automatique de données fiscales au niveau international. Premier rapport d’évaluation à la 
+demande de la commission Panama, rapport à la Chambre des représentants, décembre 2019, 79 p. ; Échange automatique de 
+données fiscales au niveau international. Second rapport d’évaluation à la demande de la commission Panama, novembre 2020, 
+86 p., courdescomptes.be.
+6	
+Le service CAF est un service autonome qui dépend directement de l’administrateur général de l’AGIsi. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 10
+
+---PAGE 12---
+1.1.3	
+Calendrier de l’audit
+30 octobre 2024
+Annonce de l’audit au ministre des Finances, au président 
+du comité de direction du SPF Finances, à l’administra­
+teur général de l’Inspection spéciale des impôts (AGIsi), à 
+l’administrateur général de l’Administration générale de 
+la fiscalité (AGFisc), à l’administrateur général de l’Admi­
+nistration générale de la perception et du recouvrement 
+(AGPR), à l’administrateur général de l’Administration 
+générale de la trésorerie (AGTrés), à l’administrateur géné­
+ral de l’Administration générale de l’expertise et du support 
+stratégiques (AGESS) et au président de la cellule de traite­
+ment des informations financières (CTIF)
+Novembre 2024 – décembre 2025
+Travaux d’audit et rédaction du projet de rapport
+Janvier 2026
+Envoi du projet de rapport au ministre des Finances, au 
+président du comité de direction du SPF Finances, à l’admi­
+nistrateur général de l’AGIsi, à l’administrateur général de 
+l’AGFisc, à l’administrateur général de l’AGPR, à l’adminis­
+trateur général de l’AGTrés, à l’administrateur général de 
+l’AGESS et au président du CTIF 
+Février 2026
+Réponse conjointe du SPF Finances (AGIsi) et du ministre 
+des Finances, dont les remarques sont intégrées dans le 
+rapport
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 11
+
+---PAGE 13---
+Chapitre 2
+Cadre législatif
+Dans ce chapitre, la Cour des comptes examine si le cadre légal des consultations du PCC et des 
+enquêtes bancaires est suffisamment clair et quels sont les problèmes existants. La Cour analyse 
+si les données reprises dans la banque de données PCC sont correctes et exhaustives et quels 
+contrôles sont effectués sur ces dernières. Enfin, elle examine la possibilité de datamining.
+2.1	
+Point de contact central (PCC)
+2.1.1	
+Cadre légal
+La banque de données PCC donne un aperçu de tous les comptes et contrats financiers existants 
+en Belgique, tant des personnes physiques que des personnes morales. Depuis 2015, les comptes 
+étrangers de résidents belges sont aussi repris dans le PCC7. La loi du 8 juillet 2018 et divers arrêtés 
+royaux déterminent le fonctionnement du PCC8.
+Redevables d’information
+Les comptes nationaux sont automatiquement communiqués par les établissements financiers 
+établis en Belgique9. Dans la pratique, les établissements mentionnés dans la loi ne communiquent 
+pas tous des données au PCC. Tel est par exemple le cas lorsqu’aucun compte bancaire ni contrat 
+belge n’est détenu auprès de l’établissement. Le tableau ci-après donne un aperçu du nombre total 
+de redevables d’information par type et du nombre d’établissements ayant procédé à une commu­
+nication au PCC. 
+7	
+L’obligation date déjà de 2013, mais faute de modalités d’exécution, les premières communications sont seulement inter­
+venues en 2015 (arrêté royal du 3 avril 2015 modifiant l’arrêté royal du 17 juillet 2013 relatif au fonctionnement du point de 
+contact central visé à l’article 322, § 3, du CIR 92).
+8	
+Loi du 8 juillet 2018 portant organisation d’un point de contact central des comptes et contrats financiers et portant exten­
+sion de l’accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt ; 
+arrêté royal du 22 avril 2019 fixant les conditions auxquelles les institutions intervenant pour compte des redevables d’infor­
+mation au point de contact central des comptes et contrats financiers doivent satisfaire pour accéder au Registre national 
+des personnes physiques ; arrêté royal du 7 avril 2019 désignant les organisations centralisatrices et les points de contact 
+uniques au regard du point de contact central des comptes et contrats financiers et arrêté royal du 7 avril 2019 relatif au 
+fonctionnement du point de contact central des comptes et contrats financiers.
+9	
+Article 3 de la loi PCC.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 12
+
+---PAGE 14---
+Tableau 1 – Redevables d’information au PCC
+Type de redevable d’information
+Nombre
+Communication 
+au PCC
+Établissements de crédit
+82
+76
+Sociétés de bourse
+35
+23
+Entreprises d’assurance
+33
+30
+Sociétés de leasing
+103
+87
+Prêteurs
+99
+93
+Établissements de paiement, établissements de 
+monnaie électronique et autres
+41
+20
+Total
+393
+329
+Source : AGTrés au 30 juillet 2024
+La loi du 18 décembre 2025 portant des dispositions diverses introduit, à partir du 1er décembre 2026, 
+une catégorie supplémentaire de redevables d’information10 devant communiquer des données au 
+PCC, à savoir les prestataires nationaux de services sur crypto-actifs11.
+Informations à communiquer
+Les établissements redevables d’information doivent toujours communiquer les informations sui­
+vantes pour chacun de leurs clients :
+•	 l’ouverture ou la fermeture de chaque compte bancaire, de paiement, de titres ou de crypto-
+actifs12 en Belgique et les procurations sur ces comptes ainsi que le solde périodique de ces 
+comptes (au 30 juin et au 31 décembre de chaque année) ;
+•	 l’exécution de certaines transactions financières impliquant des espèces ; 
+•	 l’existence de certains contrats financiers conclus en Belgique et le montant globalisé périodique 
+de certains contrats. Il peut s’agir notamment de la location de coffres, de certains contrats 
+d’assurance-vie, de crédits hypothécaires, de conventions de location-financement (leasing), etc.13. 
+Les données sont ensuite conservées dans le PCC pendant 10 ans.
+L’administration fiscale peut donc demander via le PCC non seulement les numéros de comptes, 
+les contrats financiers et les soldes des comptes d’un contribuable, mais aussi les données d’iden­
+tification d’un numéro de compte découvert pendant l’enquête et dont le contribuable n’iden­
+tifie pas le titulaire. La recherche par compte bancaire n’est actuellement possible que pour les 
+comptes nationaux. 
+10	 L’article 107 de cette loi introduit la nouvelle catégorie de redevables d’information à l’article 3, 9°/1, de la loi PCC.
+11	 Il s’agit des prestataires de services sur crypto-actifs visés dans le règlement (UE) 2023/1114 (règlement Mica), de droit 
+belge ou de droit étranger, qui opèrent en Belgique par la voie d’une succursale.
+12	 Le premier rapportage des soldes de comptes de crypto-actifs est prévu le 31 décembre 2026. À cette même date, les soldes 
+des 31 décembre 2025 et 30 juin 2026 doivent faire l’objet d’un rapportage.
+13	 Article 4 de la loi PCC, modifié en dernier lieu par l’article 108 de la loi du 18 décembre 2025 portant des dispositions diverses.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 13
+
+---PAGE 15---
+Comptes étrangers
+Le contribuable-personne physique doit communiquer au PCC l’existence des comptes de toute 
+nature dont il est titulaire auprès d’un établissement de banque, de change, de crédit ou d’épargne 
+établi à l’étranger14.
+Cette obligation de communication s’applique aussi aux comptes de crypto-actifs étrangers 
+pour autant qu’ils soient détenus auprès d’une entité étrangère ayant la caractéristique d’un 
+établissement de banque, de change, de crédit ou d’épargne. L’obligation s’applique donc 
+uniquement aux portefeuilles de dépôt, dans le cadre desquels un intermédiaire financier ou une 
+plate-forme financière intervient dans la conservation des fonds et la protection du portefeuille de 
+crypto-actifs en stockant les « clés privées ». Cependant, il arrive que les portefeuilles de crypto-
+actifs soient ouverts auprès d’établissements étrangers qui ne prestent pas à titre professionnel 
+de services financiers de même nature que ceux des établissements de banque, de change, de 
+crédit ou d’épargne établis en Belgique. Dans ce cas, ces comptes ou portefeuilles de crypto-
+actifs ne doivent pas être communiqués au PCC15. Les chiffres relatifs aux comptes de crypto-actifs 
+étrangers communiqués au PCC ne sont pas connus.
+Les comptes Paypal, Google et autres ne doivent en principe pas être signalés au PCC, sauf s’ils 
+sont liés à une activité professionnelle ou s’ils contiennent des sommes d’argent pendant une 
+période plus longue que celle strictement nécessaire pour effectuer des transactions16.
+Il n’est pas encore possible d’effectuer une recherche sur le numéro pour les comptes étrangers. 
+Le SPF Finances doit d’abord introduire une demande auprès de la BNB pour développer cette 
+fonctionnalité et la mettre à disposition. La Cour des comptes estime que le PCC doit prévoir cette 
+fonctionnalité, à condition qu’un mécanisme de contrôle soit mis en place pour vérifier l’exactitude 
+des données introduites par le contribuable concernant son compte étranger (voir le point 2.1.2)17.
+Statistiques
+En 2024, les établissements financiers ont déclaré l’ouverture de 11.145.583 comptes nationaux 
+au PCC18. En outre, les contribuables ont encore déclaré eux-mêmes 165.599 comptes étrangers 
+en 2024.
+Le graphique 1 montre le nombre de comptes « nationaux » (actifs) par an depuis 2015 ainsi que 
+le nombre total de titulaires et de mandataires19. Un compte peut avoir un ou plusieurs titulaires 
+et un ou plusieurs mandataires. Fin 2024, le PCC dénombrait 55,3 millions de comptes bancaires 
+14	 Article 307, § 1er/1, alinéa 2, du CIR 92. Cette obligation unique s’ajoute à celle de mentionner le compte étranger chaque 
+année dans la déclaration à l’impôt des personnes physiques, conformément à l’article 307, § 1er/1, alinéa 1er, a), du CIR 92.
+15	 Chambre, 27 juin 2022, QRVA 55/088, Question n° 908 du député K. Verduyckt du 1er mars 2022 au ministre des Finances, chargé 
+de la Coordination de la lutte contre la fraude, p. 170 ; 24 mai 2024, QRVA 55/134, Question n° 1971 du député M. Van Hees 
+du 26 mars 2024 au ministre des Finances, chargé de la Coordination de la lutte contre la fraude, p. 235, www.lachambre.be. 
+16	 Chambre, 15 juin 2015, QRVA 54/029, Question n° 228 de la députée S. Wilmès du 16 mars 2015 au ministre des Finances, 
+chargé de la Lutte contre la fraude fiscale, p. 168, www.lachambre.be. 
+17	 Comme le contribuable doit communiquer lui-même l’existence de son compte étranger au PCC, il n’est pas possible de 
+contrôler l’exactitude des données introduites (par exemple, l’interversion de deux chiffres) et il n’a pas été prévu de stan­
+dardisation non plus pour le format IBAN (par exemple, concernant la longueur du numéro de compte). 
+18	 Il s’agit du nombre de communications de comptes ouverts. L’ouverture d’un compte par plusieurs titulaires et/ou manda­
+taires engendre plusieurs communications.
+19	 Aucun nombre de mandataires pour les années 2015 à 2019 n’est disponible, parce que l’obligation de communication n’est 
+en vigueur que depuis 2020.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 14
+
+---PAGE 16---
+nationaux, soit 49 % de plus qu’en  2015. Les comptes appartiennent à quelque 62  millions de 
+titulaires et 25 millions de mandataires. L’augmentation accrue du nombre de communications à 
+partir de 2020 s’explique par l’adhésion de nouveaux établissements financiers devant faire une 
+déclaration20.
+Graphique 1 – Nombre de comptes bancaires nationaux existants et nombre de titulaires 
+	
+et de mandataires par an21
+0
+10.000.000
+20.000.000
+30.000.000
+40.000.000
+50.000.000
+60.000.000
+70.000.000
+2022
+2023
+2024
+2018
+2019
+2020
+2021
+2017
+2016
+2015
+Comptes
+Titulaires
+Mandataires
+Source : Cour des comptes à partir des chiffres de la BNB
+Le graphique 2 montre le nombre de comptes « étrangers » communiqués par an depuis  2015. 
+Fin 2024, la banque de données PCC comptait environ un million de comptes bancaires étrangers 
+(+137 % par rapport à 2015). Ces comptes appartenaient à environ un demi-million de titulaires 
+ou de personnes physiques22. La hausse importante du nombre de comptes communiqués en 2019 
+résulte d’une campagne de sensibilisation menée par le SPF Finances. L’évolution des dernières 
+années s’explique aussi par des enregistrements doubles de contribuables, qui ne communiquent 
+pas toujours le numéro de compte avec précision lors de modification et/ou suppression23. 
+20	 À la suite d’une modification de la loi PCC, les établissements de paiement ont aussi dû communiquer leurs comptes de 
+paiement au PCC à partir de 2020. En raison de problèmes divers et de discussions, la plupart de ces établissements n’ont 
+entamé ce rapportage que dans le courant des années suivantes, ce qui explique la forte augmentation du nombre de 
+comptes existants à partir de 2020.
+21	 Le graphique comprend le nombre cumulé de comptes nationaux communiqués moins les comptes clôturés et/ou suppri­
+més à la fin de chaque année.
+22	 Le PCC ne dispose pas des mandataires sur les comptes étrangers.
+23	 La BNB ne contrôle pas les enregistrements de comptes étrangers par les contribuables mêmes. Certains communiquent 
+toutefois chaque année l’ouverture du même compte (parce qu’ils le complètent aussi chaque année dans leur déclaration 
+d’impôts). Si le compte est communiqué la première année avec des espaces dans le numéro, l’année suivante avec des 
+tirets et l’année d’après sans espace ni tiret, le compte est considéré à chaque fois comme un compte distinct. Le même 
+problème se pose pour la communication de la fermeture d’un compte. Si le numéro de compte ne correspond pas exacte­
+ment au numéro enregistré à l’ouverture, le compte reste ouvert. Il se peut donc que le nombre total de comptes ouverts 
+comporte des comptes plusieurs fois.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 15
+
+---PAGE 17---
+Graphique 2 – Nombre de comptes bancaires étrangers communiqués par an24
+0
+200.000
+400.000
+600.000
+800.000
+1.000.000
+1.200.000
+2022
+2023
+2024
+2018
+2019
+2020
+2021
+2017
+2016
+2015
+Comptes
+Titulaires
+Source : Cour des comptes à partir des chiffres de la BNB
+2.1.2	
+Contrôle de l’exhaustivité du PCC
+Contrôle par l’AGTrés
+L’Administration générale de la trésorerie (AGTrés) veille à ce que les établissements financiers 
+communiquent certaines informations au PCC25. Pour exercer son contrôle, l’AGTrés a directe­
+ment accès au PCC depuis le 24 décembre 202126. Elle peut uniquement utiliser cet accès pour 
+effectuer des recherches individuelles et non dans le cadre du datamining.
+Pour le moment, seules deux personnes de l’AGTrés sont habilitées à contrôler l’exhaustivité du 
+PCC. Elles effectuent cependant aussi d’autres tâches. Vu le cadre du personnel limité, l’AGTrés a 
+réalisé une analyse de risques concise. Sur cette base, elle a en premier lieu concentré ses contrôles 
+sur les « nouveaux » redevables d’information, qui n’ont encore rien communiqué au PCC. Elle suit 
+environ dix nouveaux redevables de plus près chaque année. Par ailleurs, l’AGTrés reçoit chaque 
+mois de la BNB un relevé de tous les établissements financiers et des comptes communiqués, 
+qui précise aussi (depuis 2021) si un solde a été communiqué ou non. Les anomalies sont ensuite 
+examinées plus avant. Enfin, l’AGTrés reçoit aussi des communications des personnes habilitées à 
+recevoir l’information comme le ministère public, les juges, la police ou le SPF Finances, concer­
+nant des données erronées ou manquantes dans la banque de données PCC27. L’AGTrés a ainsi reçu 
+27 communications en 2023 et 19 en 202428. La plupart étaient liées à des problèmes informatiques 
+ou à la non-communication du numéro de registre national ou d’entreprise. D’après l’AGTrés, il 
+n’était pas question de mauvaise foi ni de fraude dans ces cas.
+24	 Le graphique comprend le nombre cumulé de comptes étrangers communiqués moins les comptes clôturés et/ou suppri­
+més à la fin de chaque année.
+25	 Article 13, § 1er, de la loi PCC.
+26	 Article 8 de la loi du 2 décembre 2021 modifiant la loi du 8 juillet 2018 portant organisation d’un point de contact central des 
+comptes et contrats financiers et portant extension de l’accès au fichier central des avis de saisie, de délégation, de cession, 
+de règlement collectif de dettes et de protêt.
+27	 Les personnes habilitées à recevoir l’information doivent informer le superviseur lorsqu’elles constatent l’existence de don­
+nées erronées ou manquantes dans la banque de données PCC (article 13, § 1er, alinéa 3, de la loi PCC).
+28	 La Cour des comptes n’a reçu aucun chiffre détaillé pour les années 2020 à 2022.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 16
+
+---PAGE 18---
+Si l’AGTrés constate une infraction, elle peut infliger une amende administrative à l’établisse­
+ment financier en infraction. Elle peut toutefois uniquement le faire après avoir entendu l’éta­
+blissement. Le montant de base de l’amende administrative s’élève à 50.000  euros minimum 
+et à 1.000.000 d’euros maximum. Il est proportionnel à la gravité des faits29. Fin 2024, l’AGTrés 
+avait infligé trois amendes de 150.000 euros chacune. Les trois concernaient une communication 
+tardive30.
+L’AGIsi a fait savoir que les recherches sur le numéro de registre national, le numéro d’entreprise 
+ou le nom et la date de naissance ne donnent pas toujours le même résultat. Faute de directives 
+claires, il serait possible d’introduire les noms de plusieurs manières ou de façon erronée (par 
+exemple, sans espaces ou en omettant les particules du nom de famille). Lorsqu’aucun numéro 
+de registre national ou numéro d’entreprise unique n’a été communiqué au PCC, l’AGIsi risque 
+donc de ne pas retrouver un compte lors d’un contrôle fiscal. L’AGTrés a conscience du problème, 
+mais n’est pas en mesure, faute de temps et de personnel, d’effectuer systématiquement de tels 
+contrôles. La BNB confirme toutefois pouvoir détecter les anomalies statistiques et les signaler à 
+l’AGTrés. Il peut s’agir, par exemple, d’un nombre anormalement élevé de comptes identifiés par 
+un établissement financier via la clé à quatre éléments nom/prénom/date de naissance/lieu de 
+naissance pour lesquels ce dernier est la Belgique et non via le numéro de registre national ou 
+d’entreprise. La Cour des comptes recommande dès lors à l’AGTrés de contrôler ces anomalies.
+Faute de moyens de contrôle et d’effectif, l’AGTrés contrôle peu l’exhaustivité du PCC. La Cour des 
+comptes n’exclut donc pas que les informations de la banque de données PCC soient lacunaires, 
+parce que des comptes ou des contrats n’ont pas été communiqués, à tort. La Cour recommande 
+pour cette raison d’examiner quels moyens financiers et en personnel supplémentaires sont néces­
+saires pour renforcer les contrôles de l’AGTrés. Elle constate également que les agents de l’AGIsi 
+n’étaient pas toujours informés de leur obligation légale de signaler les données erronées ou man­
+quantes à l’AGTrés. Il convient donc de sensibiliser davantage. Dans sa réponse au projet de rap­
+port, l’AGIsi fait remarquer que ce sont surtout les données bancaires étrangères à déclarer par 
+les contribuables mêmes qui ne sont pas toujours correctes. Signaler ces données incorrectes ou 
+manquantes à l’AGTrés n’a aucun sens, car cette administration est uniquement compétente pour 
+contrôler l’exactitude des données que les établissements financiers belges fournissent. La BNB 
+n’est pas compétente non plus pour vérifier ces données étrangères ni pour les rectifier d’office si 
+nécessaire.
+Contrôle des comptes étrangers
+La mission de contrôle de l’AGTrés se limite aux établissements financiers belges. L’obligation 
+de déclarer à l’impôt des personnes physiques les comptes bancaires étrangers incombe au 
+contribuable même et l’exhaustivité des déclarations ne peut pas être garantie. La non-déclaration 
+n’est découverte qu’en cas de contrôle de l’AGIsi ou de l’AGFisc. La plupart du temps, la non-
+déclaration n’est pas problématique pour l’administration fiscale, puisqu’elle obtient en général les 
+données via l’échange automatique d’informations financières31 (ci-après les « données NCD » ou 
+l’« échange NCD »). Dans sa réponse, l’AGIsi souligne que l’échange NCD ne couvre pas toutes les 
+données que le contribuable doit déclarer concernant ses comptes étrangers. En outre, les pays ne 
+participent pas tous à l’échange de données NCD.
+29	 Article 13, § 2, de la loi PCC.
+30	 Deux amendes ont été infligées en 2021 et une en 2022. Plus aucune amende n’a été infligée en 2023 et 2024.
+31	 Il s’agit des accords DAC2, NCD ou Fatca conclus respectivement avec l’UE, certains pays non européens et les États-Unis.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 17
+
+---PAGE 19---
+La Cour des comptes constate que l’augmentation des néobanques représente un risque. Il s’agit 
+d’établissements financiers de paiement opérant en ligne sans succursale physique, qui proposent 
+des services ou des contrats à distance aux habitants du royaume de Belgique. Il s’agit souvent 
+d’établissements étrangers, de sorte que les comptes ne sont pas communiqués automatiquement 
+au PCC. La Cellule de traitement des informations financières (CTIF) attire aussi l’attention sur le 
+phénomène des néobanques dans son rapport annuel et souligne qu’elles impliquent « des défis liés 
+à l’identification des utilisateurs et la détection des transactions »32. 
+L’AGTrés ne contrôle pas pour le moment si le contribuable communique de sa propre initiative 
+au PCC les données nécessaires relatives aux comptes étrangers. Comme les agents fiscaux n’ont 
+pas d’accès direct au PCC (voir le point 2.2.1), un contrôle fiscal consiste souvent à vérifier uni­
+quement si un compte étranger identifié a été déclaré à l’impôt des personnes physiques. La Cour 
+des comptes souligne que d’autres organismes publics (comme la CTIF, la police ou la justice) 
+n’ont pas accès aux données NCD reçues, contrairement à l’administration fiscale. Pour ces orga­
+nismes publics, le caractère incomplet du PCC en matière de comptes étrangers est problématique, 
+puisqu’il s’agit de leur seule source d’information. Idéalement, les données NCD devraient être 
+intégrées directement dans le PCC. Selon un avis du service Relations internationales, cette inté­
+gration n’est juridiquement pas possible pour le moment en raison du cadre juridique internatio­
+nal strict ainsi que de la finalité et de la confidentialité des données NCD33.
+IBAN virtuels
+Un autre problème concerne les numéros de comptes bancaires virtuels (IBAN virtuels)34. Un IBAN 
+virtuel a le même format et la même fonctionnalité qu’un IBAN normal, mais ne correspond pas 
+directement à un compte spécifique. En termes simples, tous les paiements entrants effectués via 
+un IBAN virtuel sont automatiquement transférés vers un compte de paiement doté d’un IBAN 
+propre (différent de l’IBAN virtuel), appelé « compte maître ». Seul ce dernier relève du champ 
+d’application matériel de la législation PCC. Comme les IBAN virtuels ne sont pas de véritables 
+comptes bancaires ou de paiement, ils ne doivent pas être communiqués au PCC. L’utilisation 
+d’IBAN virtuels complexifie donc l’identification du titulaire ainsi que le traçage et l’analyse des 
+mouvements financiers au stade de l’enquête bancaire. 
+Comptes de crypto-actifs
+Les comptes de crypto-actifs étrangers qui doivent obligatoirement être communiqués au PCC par 
+le contribuable ne font pas non plus l’objet de contrôles (voir le point 2.1.1). L’échange automatique 
+de cryptodonnées prévu à partir de 2026 (directive DAC 835) ne comblera pas cette lacune, puisque 
+leur utilisation est liée à une finalité, tout comme pour les données NCD. Ces données ne peuvent 
+donc pas être reprises dans le PCC. La directive DAC 8 ne permettra qu’une visibilité partielle 
+des crypto-actifs des contribuables, puisqu’elle ne prévoit l’obligation de déclaration que pour les 
+prestataires de services sur crypto-actifs, alors que des opérations peuvent se réaliser sans ces 
+intermédiaires.
+32	 Cellule de traitement des informations financières (CTIF), Rapport d’activités 2023, p. 28, www.ctif-cfi.be.
+33	 Les données NCD peuvent uniquement être utilisées dans un contexte fiscal spécifique. 
+34	 Autorité bancaire européenne (ABE), Report on Virtual IBANs, EBA/Rep/2024/08, 24 mai 2024, www.eba.europa.eu.
+35	 Directive (UE) 2023/2226 du Conseil du 17 octobre 2023 modifiant la directive 2011/16/UE relative à la coopération adminis­
+trative dans le domaine fiscal, Journal officiel de l’Union européenne L-2023/2226, 24 octobre 2023, www.eur-lex.europa.eu.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 18
+
+---PAGE 20---
+La sixième directive anti-blanchiment étend les données à communiquer au PCC, dont les IBAN 
+virtuels et les comptes de crypto-actifs36. La loi du 18 décembre 2025 portant des dispositions 
+diverses transpose déjà la sixième directive anti-blanchiment en partie, en particulier pour les 
+comptes de titres et de crypto-actifs nationaux37. Les autres dispositions seront transposées 
+ultérieurement38.
+2.1.3	
+Possibilité de datamining
+Jusqu’à la fin de 2025, le PCC pouvait uniquement être consulté dans des cas individuels spéci­
+fiques et dans le respect d’une procédure stricte (voir le point 2.2.1). Le datamining (analyse de 
+risques concernant la banque de données PCC) n’était dès lors pas possible. Les informations 
+reprises dans le PCC ne pouvaient par conséquent pas être pleinement utilisées dans le cadre de 
+la lutte contre la fraude. La loi du 18 décembre 2025 portant des dispositions diverses introduit du 
+changement à ce niveau : il devient possible de croiser de manière pseudonymisée39 les données du 
+PCC avec les données internes du SPF Finances et d’y appliquer le datamining.
+Les données issues du PCC sont conservées dans l’entrepôt de données (datawarehouse) du 
+SPF Finances, qui est déjà utilisé à des fins de datamining40. Le datamining sera effectué par 
+des « agents dataminers » spécifiques, désignés par le ministre des Finances (ou son délégué). En 
+principe, ces agents dataminers ne peuvent pas partager les résultats de l’analyse de risques avec 
+les agents contrôleurs, sauf si les conditions prévues à l’article 322 du CIR 92 sont remplies (voir le 
+point 2.2.1)41.
+Avec cette nouvelle possibilité légale, le gouvernement entend « accroître l’efficacité des analyses 
+de risque du SPF Finances ». L’accès au PCC doit permettre de « détecter les déficits indiciaires, les 
+structures offshore, les comptes dormants ou les mouvements atypiques entre entités liées impli­
+quées dans la fraude grave et organisée liée à la criminalité fiscale, économique et financière »42. 
+Dans une étude précédente du service CAF de 2021, l’AGIsi proposait déjà trois projets concrets de 
+datamining :
+1.	
+une analyse de risques concernant la fraude au domicile et les revenus non déclarés ;
+2.	
+une analyse de risques concernant les sociétés frauduleuses ou les sociétés-écrans ; 
+3.	
+une analyse réseau des comptes bancaires et procurations. 
+36	 Article 16, alinéa 3, d), e) et f), de la directive (UE) 2024/1640 du Parlement européen et du Conseil du 31 mai 2024 relative 
+aux mécanismes à mettre en place par les États membres pour prévenir l’utilisation du système financier aux fins du blan­
+chiment de capitaux ou du financement du terrorisme, modifiant la directive (UE) 2019/1937, et modifiant et abrogeant la 
+directive (UE) 2015/849, Journal officiel de l’Union européenne L-2024/1640, 19 juin 2024, www.eur-lex.europa.eu. Les États 
+membres doivent appliquer cette directive à partir du 10 juillet 2027 au plus tard.
+37	 Articles 106-110.
+38	 Chambre, 17 septembre 2025, DOC 56 0963/005, Projet de loi portant des dispositions diverses, p. 29, www.lachambre.be.
+39	 La pseudonymisation consiste à remplacer les informations d’identification directe (nom, prénom, etc.) par des identifiants 
+indirects (clés techniques, numéros de référence, codes, etc.) permettant une vérification croisée à tout moment (Chambre, 
+17 septembre 2025, DOC 56 0963/005, p. 16, www.lachambre.be).
+40	 Loi du 3 août 2012 portant dispositions relatives aux traitements de données à caractère personnel réalisés par le service 
+public fédéral Finances dans le cadre de ses missions.
+41	 La Cour des comptes observe que l’article 5, § 3, de la loi du 3 août 2012, tel qu’introduit par l’article 105 de la loi du 
+18 décembre 2025 portant des dispositions diverses, réfère uniquement à l’article 322 du CIR 92 et non à l’article 62bis du 
+code de la TVA.
+42	 Chambre, 17 septembre 2025, DOC 56 0963/005, p. 13-14, www.lachambre.be.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 19
+
+---PAGE 21---
+La Cour des comptes recommande à l’AGIsi de réaliser les projets précités dans les limites légales 
+nouvellement fixées et de les ajuster si nécessaire.
+Le datamining du PCC ne signifie pas que l’administration fiscale peut consulter ou utiliser des tran­
+sactions individuelles, car le PCC contient simplement les numéros de compte et les soldes semes­
+triels des comptes. L’enquête menée auprès de plusieurs agents de l’AGIsi révèle que les soldes repris 
+dans le PCC depuis 2022 contiennent encore trop peu d’informations utiles pour déterminer si un 
+compte nécessite une enquête complémentaire ou réaliser une analyse de risques solide. En effet, 
+les soldes représentent un instantané, qui ne dit rien sur le nombre de transactions effectuées, leur 
+montant ou les parties impliquées. Ainsi, un compte présentant deux fois par an un solde peu élevé 
+peut, malgré tout, avoir servi à réaliser des transactions de plusieurs millions d’euros. La Cour des 
+comptes recommande dès lors d’examiner s’il est juridiquement possible d’étendre davantage le PCC 
+afin d’optimiser le datamining et d’accroître l’efficience des contrôles fiscaux.
+Les informations complémentaires (par compte ou contrat et par an) sont par exemple :
+•	 le solde réel lorsque le compte présente un solde négatif43 ;
+•	 la nature du contrat ou du compte (par exemple, compte à vue, compte d’épargne, compte-titres) ;
+•	 le nombre d’opérations entre comptes d’une même banque sur lesquels le contribuable a procu­
+ration (par exemple, partenaire, société, enfants) et le montant total de celles-ci ;
+•	 le nombre d’opérations par an, tant entrantes que sortantes, et leur montant total ;
+•	 le nombre d’opérations depuis et vers des comptes étrangers et leur montant total ;
+•	 le nombre d’opérations consistant en des retraits et dépôts d’argent et leur montant total ;
+•	 les fluctuations importantes des montants des transactions, par exemple, au-dessus d’un certain 
+seuil et dans un délai déterminé.
+Toutes les informations complémentaires ne doivent pas nécessairement être visibles des per­
+sonnes habilitées à recevoir l’information qui consultent le PCC. Le législateur peut décider de 
+différencier les personnes habilitées, de sorte que le SPF Finances puisse par exemple consulter 
+davantage d’informations que d’autres personnes habilitées.
+Enfin, il convient de souligner qu’à l’avenir44, les banques de données PCC européennes seraient 
+reliées entre elles45. Seules les autorités pénales y auront toutefois accès et pas l’administration 
+fiscale, de sorte que cette banque de données européenne ne pourra pas être utilisée à des fins 
+d’analyses de risques ou de contrôles fiscaux.
+43	 Les établissements financiers redevables d’information peuvent actuellement choisir de communiquer le solde négatif ou 
+un solde nul au PCC (article 7, § 2, alinéa 1er, c), de l’arrêté royal du 7 avril 2019, tel que modifié par l’article 4 de l’arrêté royal 
+du 6 juin 2021 modifiant l’arrêté royal du 7 avril 2019). Lorsqu’ils choisissent de communiquer un solde nul, l’administration 
+fiscale peut estimer à tort qu’il s’agit d’un compte dormant.
+44	 Article 17 de la directive (UE) 2024/1640. 
+45	 Baris (Bank Account Registers Interconnection System). 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 20
+
+---PAGE 22---
+2.2	
+Procédures de consultation du PCC et d’enquête bancaire
+2.2.1	
+Procédure de consultation du PCC
+Concernant les impôts sur les revenus 
+En vertu de l’article 322, § 3, du CIR 92, une consultation du PCC peut être effectuée lorsqu’une 
+enquête a révélé un ou plusieurs indices de fraude fiscale. Le PCC peut uniquement être consulté 
+par un agent ayant au moins le grade de conseiller. Dans la pratique, il s’agit toutefois le plus sou­
+vent d’un conseiller général.
+La loi n’impose pas explicitement d’envoyer une demande de renseignements au contribuable 
+avant de consulter le PCC, mais une circulaire administrative l’impose46. La demande doit préciser 
+que l’administration peut consulter le PCC si le contribuable ne répond pas ou en cas de réponse 
+incorrecte ou incomplète (ci-après l’« absence de coopération »). 
+Concernant la TVA
+L’article 62bis, alinéas 2 et 3, du code de la TVA autorise la consultation du PCC uniquement à 
+des conditions strictes. Tout comme pour les impôts sur les revenus, l’administration fiscale doit 
+disposer d’un ou de plusieurs indices de fraude fiscale. La loi explicite en outre qu’une demande de 
+renseignements doit être envoyée au préalable au contribuable en mentionnant que la banque de 
+données PCC sera consultée en l’absence de coopération de sa part. Enfin, une condition d’épui­
+sement stricte s’applique en matière de TVA. Ainsi, le PCC peut uniquement être consulté lorsque 
+tous les autres moyens d’enquête (sauf la visite fiscale) ont été épuisés. Seul un conseiller général 
+peut consulter le PCC. 
+2.2.2	
+Procédure d’enquête bancaire
+Concernant les impôts sur les revenus
+Une enquête bancaire en matière d’impôts sur les revenus est possible uniquement pour les 
+comptes dont le contribuable est titulaire ou cotitulaire. Une telle enquête ne peut donc pas 
+concerner des comptes sur lesquels le contribuable a uniquement procuration, sauf si l’adminis­
+tration dispose d’un indice de fraude pour ces comptes (voir le point 2.2.4).
+L’article 322, § 2, du CIR 92 prévoit une procédure stricte par étapes pour l’enquête bancaire en 
+matière d’impôts sur les revenus :
+1.	 Avant de pouvoir lever le secret bancaire, l’administration doit envoyer au contribuable une de­
+mande de renseignements explicitant qu’une enquête bancaire pourra être réalisée en l’absence 
+de coopération de sa part. 
+2.	 L’administration peut demander les données bancaires manquantes auprès des établissements 
+financiers concernés uniquement en l’absence de coopération du contribuable dans le délai de 
+réponse légal qui est en principe d’un mois47. 
+46	 Circulaire AGFisc n° 35/2014 du 4 septembre 2014, p. 21. Voir aussi le rapport au Roi concernant l’arrêté royal du 17 juil­
+let 2013 relatif au fonctionnement du point de contact central visé à l’article 322, § 3, du CIR 92, abrogé depuis lors par 
+l’arrêté royal du 23 juin 2019. 
+47	 À compter du troisième jour ouvrable qui suit l’envoi de la demande de renseignements, ce délai peut être prolongé pour de 
+justes motifs (article 316 du CIR 92).
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 21
+
+---PAGE 23---
+3.	 Dans ce cas, un agent ayant au moins le grade de conseiller (dans la pratique, il s’agira le plus 
+souvent du conseiller général) peut accorder l’autorisation de réaliser une enquête bancaire à un 
+agent ayant au moins le grade d’attaché. 
+4.	 Cette autorisation peut uniquement être accordée aux conditions suivantes :
+	
+{ L’administration fiscale dispose d’un ou de plusieurs indices de fraude fiscale.
+	
+{ L’administration fiscale a l’intention d’appliquer une taxation indiciaire en vertu de l’ar­
+ticle 341 du CIR 9248.
+	
+{ L’administration fiscale a un ou plusieurs indices que l’obligation de communiquer les 
+constructions transfrontalières49 n’a pas été respectée. 
+5.	 L’administration envoie une demande de renseignements à la banque. 
+Le contribuable en est informé en même temps, sauf lorsque les droits du Trésor sont en péril50.
+Concernant la TVA
+La procédure d’enquête bancaire en matière de TVA est moins stricte qu’en matière d’impôt sur 
+les revenus51. Contrairement à une consultation du PCC, il n’existe pas de principe légal d’épuise­
+ment pour l’enquête bancaire. Il ne faut pas non plus envoyer de demande de renseignements au 
+contribuable et il ne doit pas y avoir d’indices de fraude fiscale. Bien qu’il n’existe pas de condition 
+légale d’épuisement, les directives administratives52 préconisent malgré tout d’essayer d’abord 
+d’obtenir les renseignements via le contribuable. Il faut aussi une autorisation du conseiller géné­
+ral du service concerné53.
+Enquête bancaire à l’étranger
+Lorsqu’il en est requis par l’administration, le contribuable a en principe l’obligation légale de lui 
+communiquer, sans qu’il doive se déplacer, tous les documents relatifs à ses comptes bancaires 
+étrangers, même s’il s’agit purement de comptes privés54. En outre, l’administration peut lui récla­
+mer, sur simple demande, tous les renseignements pertinents sur ses comptes bancaires étrangers.
+Si le contribuable ne collabore pas, il reste une seule option à l’administration, celle de lancer 
+une « demande de coopération internationale » pour obtenir des informations bancaires auprès de 
+l’administration fiscale du pays où l’établissement financier a son siège. En effet, l’administration 
+fiscale belge ne peut jamais envoyer de demande directe à un établissement financier étranger. 
+Une enquête bancaire à l’étranger est plus complexe qu’une enquête nationale, puisqu’il faut 
+48	 Tel est le cas lorsqu’il existe des indices que la fortune réelle et le style de vie du contribuable sont disproportionnés par rapport 
+aux revenus déclarés, par exemple, si le contribuable effectue certaines dépenses considérables, comme l’achat de voitures de 
+luxe, alors qu’il ressort de sa déclaration qu’il n’a, en proportion, que peu de revenus officiels voire qu’il n’en a aucuns.
+49	 À distinguer de la notion de « construction juridique ». Pour plus d’informations à ce sujet, voir Cour des comptes, Taxe 
+Caïman, avril 2023, 65 p., courdescomptes.be.
+50	 Article 333/1, § 1er, alinéas 1 et 2, du CIR 92 : lorsque les droits du Trésor sont en péril, la notification au contribuable ne doit 
+pas être envoyée en même temps que la demande de renseignements adressée aux établissements financiers, mais au plus 
+tard dans les 30 jours.
+51	 Article 62bis, alinéa 1er, du code de la TVA.
+52	 Manuel TVA 569/2 et instruction Afer n° 10/2007 du 6 mars 2007 : « Chaque demande indique clairement les raisons pour les­
+quelles l’information n’a pu être obtenue auprès de l’assujetti, que tous les autres moyens disponibles aux fins d’obtenir l’informa­
+tion correcte ont été épuisés et/ou qu’il existe des doutes sérieux quant au caractère complet des éléments fournis par l’assujetti. »
+53	 Article 1er de l’arrêté ministériel du 29 août 2006 portant désignation du fonctionnaire visé à l’article 62bis du code de la taxe 
+sur la valeur ajoutée et à l’article 318 du code des impôts sur les revenus 1992.
+54	 Article 315, alinéa 2, 1°, du CIR 92 : L’obligation de communication comprend, en ce qui concerne les habitants du royaume, 
+les livres et documents relatifs aux comptes, contrats d’assurance-vie et constructions juridiques visés à l’article 307, § 1er/1, 
+alinéa 1er.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 22
+
+---PAGE 24---
+aussi respecter toutes les exigences internationales55 de l’échange de données international. 
+Une enquête bancaire étrangère prend dès lors beaucoup de temps. Elle dépend de la réponse de 
+l’administration fiscale étrangère à la demande internationale et de la rapidité de celle-ci.
+L’article 322, § 2, du CIR 92 détermine la procédure d’enquête bancaire à l’étranger. Ainsi, le contri­
+buable doit recevoir au préalable une demande de renseignements qui explicite qu’en l’absence de 
+coopération de sa part, une enquête bancaire (à l’étranger) pourra être menée. Ce n’est que si le 
+contribuable ne collabore pas dans le délai de réponse légal qu’une demande officielle peut, avec 
+l’autorisation du conseiller général compétent, être adressée à une administration fiscale étran­
+gère via l’administration centrale de l’AGIsi. Comme pour les enquêtes bancaires nationales, l’ad­
+ministration fiscale doit également disposer d’un ou de plusieurs indices de fraude fiscale ou avoir 
+l’intention d’appliquer une taxation indiciaire en vertu de l’article 341 du CIR 92 ou encore dispo­
+ser d’un ou de plusieurs indices que l’obligation de communiquer les constructions transfronta­
+lières n’a pas été respectée. L’enquête bancaire doit être notifiée au contribuable. L’administration 
+centrale de l’AGIsi doit elle-même signer la notification et l’envoyer au plus tard lors de l’envoi de 
+la demande à l’administration fiscale étrangère.
+La Cour des comptes constate que cette procédure est très laborieuse et chronophage. Or, il n’existe 
+souvent aucune certitude que l’administration fiscale étrangère répondra (de manière exhaustive) 
+et, surtout, que les données seront transmises dans un délai raisonnable. En outre, il n’existe pas 
+de sanction directe si les organismes étrangers ne collaborent pas56. 
+55	 Dont l’existence d’un fondement juridique international et le principe de réciprocité et d’épuisement. 
+56	 Le Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales de l’OCDE effectue régulièrement 
+des examens par les pairs, à l’issue desquels une juridiction est jugée conforme, conforme pour l’essentiel, partiellement 
+conforme ou non conforme.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 23
+
+---PAGE 25---
+2.2.3	
+Délai de réalisation
+Les graphiques ci-après schématisent la procédure de consultation du PCC et d’enquête bancaire 
+en Belgique en matière d’impôts sur les revenus et de TVA. 
+Graphique 3 – Consultation du PCC en matière d’impôts sur les revenus et de TVA suivant la loi
+Consultation du PCC
+Impôts sur les revenus
+TVA
+En cas d’indices de fraude et
+après épuisement des moyens d’enquête
+(sauf la visite ﬁscale)
+En cas d’indices de fraude
+Demande de renseignements 
+préalable au contribuable
+Absence de (pleine) coopération 
+du contribuable 
+Source : Cour des comptes
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 24
+
+---PAGE 26---
+Graphique 4 – Procédure d’enquête bancaire en matière d’impôts sur les revenus et de TVA suivant la loi
+Analyse des données bancaires et rectification éventuelle
+Réponse des établissements financiers
+Autorisation d’enquête bancaire par l’administration fiscale
+Impôts sur les revenus
+TVA
+Demande de renseignements 
+préalable au contribuable
+Absence de (pleine) coopération 
+du contribuable
+En cas d’investigation pendant
+le délai d’investigation 
+étendu : notiﬁcation préalable
+des indices de fraude au contribuable
+Demande de renseignements 
+aux établissements ﬁnanciers
+Demande de renseignements 
+aux établissements ﬁnanciers
+Notiﬁcation de l’enquête 
+bancaire au contribuable
+Source : Cour des comptes
+Impôts sur les revenus
+Il convient de souligner au préalable que, lorsque l’administration souhaite effectuer une enquête 
+bancaire pendant le délai d’investigation étendu57, elle doit envoyer une notification préalable 
+d’indices de fraude au contribuable (voir aussi le point 2.2.4). 
+57	 Le délai d’investigation normal pour les impôts sur les revenus est de 3 ans. En cas de fraude, il peut aller jusqu’à 7 ans.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 25
+
+---PAGE 27---
+Par ailleurs, la collecte d’information par étapes imposée par la loi a pour effet qu’une enquête 
+bancaire nécessite parfois plusieurs séries de questions, ce qui peut allonger le délai de réali­
+sation d’une enquête bancaire en matière d’impôts sur les revenus. Tel est par exemple le cas 
+lorsque la banque transmet toutes les données des transactions à l’administration fiscale, mais que 
+celles-ci ne permettent pas d’identifier le bénéficiaire d’une opération (comme un chèque ou un 
+virement étranger). Si l’administration fiscale veut demander les pièces justificatives sous-jacentes 
+à la banque, elle doit d’abord adresser une nouvelle demande de renseignements au contribuable. 
+Ce n’est, de nouveau, qu’en l’absence de coopération de celui-ci que l’administration fiscale peut 
+réclamer des informations complémentaires via une nouvelle demande de renseignements à l’éta­
+blissement financier. Pour disposer de toutes les informations au sujet d’une transaction bancaire, 
+il faut parfois procéder à plusieurs demandes de renseignements, ce qui prend plusieurs mois. 
+Le délai d’investigation et d’imposition restant à l’administration s’en trouve ainsi réduit. 
+Dans certains cas, le contribuable répond de manière incomplète à une demande de rensei­
+gnements préalable parce qu’il doit lui-même encore requérir certaines données bancaires 
+auprès de ses établissements financiers (par exemple, pour un compte clôturé ou à l’étranger). 
+L’administration ignore alors combien de temps elle devra attendre la réponse complémentaire 
+avec les données manquantes avant de pouvoir entamer une enquête bancaire. D’après la loi, l’ad­
+ministration peut mener une enquête bancaire dès que le délai de réponse de la demande de 
+renseignements préalable est expiré et elle ne doit pas attendre que le contribuable transmette les 
+données manquantes58.
+Le contribuable répond parfois à la demande de renseignements préalable que les données ban­
+caires peuvent être consultées ou récupérées sur place (sur papier). Or, la loi prévoit que les 
+données bancaires doivent ressortir de la réponse à la demande de renseignements, sans que l’ad­
+ministration doive les consulter ou les récupérer sur place59.
+La Cour des comptes fait observer que la notification de l’enquête bancaire peut conduire à des 
+litiges de prétaxation dans le cadre des impôts sur les revenus60. La contestation peut par exemple 
+porter sur l’existence ou non d’un indice de fraude fiscale (voir le point 2.2.4). Comme l’adminis­
+tration est soumise à des délais d’investigation et d’imposition, elle poursuit en principe l’enquête 
+bancaire en cas de litige de prétaxation (sans attendre l’issue du litige). Aucune suspension des 
+délais d’investigation, d’imposition et de conservation n’est prévue pour le moment en cas de 
+litige de prétaxation.
+TVA
+Faute de condition d’épuisement stricte pour mener une enquête bancaire en matière de TVA, ces 
+enquêtes peuvent souvent être plus rapides et plus efficientes.
+58	 Article 322, § 2, alinéa 3, 1°, in fine du CIR 92.
+59	 L’article 322, § 2, alinéa 3, 1°, du CIR 92 renvoie, dans le cadre de la demande de renseignements préalable au contribuable, 
+exclusivement à l’article 316 du CIR 92 (demande de renseignements) et pas simultanément à l’article 315 du CIR 92 (obliga­
+tion de communication). Si le contribuable ne mentionne pas (toutes) les données bancaires dans sa réponse à la demande 
+de renseignements, l’administration est habilitée à lever le secret bancaire. Elle ne doit pas attendre que les données ban­
+caires aient été consultées ou récupérées sur place. Cela ressort aussi du fait que l’administration peut mener une enquête 
+bancaire dès l’expiration du délai de réponse à la demande de renseignements (article 322, § 2, alinéa 3, 1°, in fine du CIR 92). 
+60	 Il s’agit d’un litige que le contribuable porte devant les tribunaux pendant l’enquête, donc avant que l’impôt soit établi, par 
+exemple au sujet d’actes d’investigation, comme une enquête bancaire.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 26
+
+---PAGE 28---
+2.2.4	
+Problèmes au niveau de la législation
+Impôts sur les revenus : motifs de consultation du PCC et de réalisation d’une enquête bancaire 
+Une enquête bancaire en matière d’impôts sur les revenus peut être menée dans trois cas bien 
+précis (voir le point 2.2.2). Pour consulter le PCC, les conditions sont plus strictes : l’administration 
+fiscale n’y est autorisée que s’il existe un indice de fraude. L’article 322, § 3, du CIR 92 ne renvoie 
+donc pas explicitement à l’intention de taxation par « signes et indices » (en vertu de l’article 341 
+du CIR  92). Selon les travaux préparatoires parlementaires et la jurisprudence de la Cour de 
+cassation, les signes et indices constituent un indice de fraude suffisant61. Par ailleurs, le législateur 
+a récemment ajouté le non-respect des règles relatives aux constructions transfrontalières (DAC 6) 
+comme motif explicite de réalisation d’une enquête bancaire62 et non d’une consultation du PCC. 
+Pour accroître la sécurité juridique, la Cour des comptes recommande cependant d’harmoniser les 
+motifs de consultation du PCC et de réalisation d’une enquête bancaire.
+Différence entre les procédures 
+La Cour des comptes constate que les procédures d’investigation en matière d’impôts sur les reve­
+nus et de TVA présentent des différences substantielles, que ce soit pour la consultation du PCC 
+ou l’enquête bancaire.
+La procédure d’enquête bancaire en matière de TVA est moins stricte qu’en matière d’impôts 
+sur les revenus (voir le graphique 4).
+Pour la consultation de la banque de données PCC, c’est en matière de TVA que les règles sont 
+les plus strictes (voir le graphique 3). C’est cette procédure plus stricte qui fait en sorte qu’il est en 
+général opté d’emblée pour une enquête bancaire en matière de TVA63. Cela ressort aussi de l’en­
+quête de la Cour des comptes à laquelle la majorité des participants ont répondu consulter moins 
+rapidement le PCC en matière de TVA en raison du principe d’épuisement (voir le point 2.2.1). Bien 
+qu’il soit en général opportun, pour des raisons d’efficience, de consulter le PCC avant d’entamer 
+une enquête bancaire, la loi ne l’exige pas.
+La Cour des comptes n’a retrouvé aucune ratio legis claire dans les documents parlementaires pour 
+justifier les différences de procédure entre une enquête bancaire en matière de TVA et d’impôts 
+sur les revenus ou entre une consultation du PCC et une enquête bancaire dans les dossiers de 
+TVA pure.
+Investigations polyvalentes
+De nombreuses investigations fiscales sont polyvalentes dans la pratique : l’investigation porte tant 
+sur les impôts sur les revenus que sur la TVA. Les compétences de l’administration sont toutefois 
+liées à une finalité. Sa démarche se justifie dès lors à condition qu’elle pose un acte relevant de sa 
+compétence, accordée par la loi. Lorsque les compétences d’investigation en matière d’impôts sur 
+les revenus et de TVA diffèrent, comme c’est le cas pour les enquêtes bancaires et les consultations 
+61	 Chambre, 2 mars 2011, DOC 53 1208/007, p. 14-15, www.lachambre.be ; Cour de cassation de Belgique, arrêt du 7 avril 2016, 
+rôle n° F.14.0065.N, considérant 6, www.juportal.be. La circulaire administrative n° 2017/C/34 du 8 juin 2017 concernant la 
+notification préalable d’indices de fraude (point 25 in fine) renvoie aussi à cette jurisprudence.
+62	 Article 15 de la loi du 20 décembre 2019 transposant la directive (UE) 2018/822 du Conseil du 25 mai 2018 modifiant la direc­
+tive 2011/16/UE en ce qui concerne l’échange automatique et obligatoire d’informations dans le domaine fiscal en rapport 
+avec les dispositifs transfrontières devant faire l’objet d’une déclaration.
+63	 Consulter le PCC n’est pas toujours nécessaire dans les dossiers de TVA si l’administration dispose déjà des informations 
+pertinentes au sujet des comptes et des contrats. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 27
+
+---PAGE 29---
+du PCC, il convient d’examiner avec soin la législation appliquée en matière de procédure. Ainsi, les 
+données bancaires issues d’une enquête bancaire en matière de TVA ne peuvent pas être utilisées 
+telles quelles pour établir les impôts sur les revenus. Pareille pratique peut en effet être constitutive 
+d’un détournement de pouvoir, ce qui est interdit64. Il y a dès lors lieu de se demander si l’adminis­
+tration doit suivre la procédure applicable aux impôts sur les revenus, celle applicable à la TVA ou 
+les deux dans le cadre d’une investigation polyvalente. Le tableau ci-après esquisse le problème.
+Tableau 2 – Type d’investigation et procédure à suivre pour une enquête bancaire
+Type d’investigation
+Investigation en 
+matière d’impôts sur 
+les revenus
+Investigation
+polyvalente 
+impôts sur les revenus 
+et TVA
+Investigation en 
+matière de TVA
+Exemples
+Signes et indices
+Fraude au domicile
+Fausses factures
+Chiffre d’affaires non 
+déclaré et bénéfices 
+dissimulés
+Restitution
+Carrousel à la TVA
+Procédure à suivre
+Article 322, § 2, du CIR 92
+Article 62bis, al. 1er, 
+du code de la TVA
+Source : Cour des comptes
+Cette confusion procédurale et les problèmes qu’elle engendre sont aussi soulignés dans les 
+travaux parlementaires préparatoires de la prolongation des délais d’investigation et d’imposition 
+concernant les impôts sur les revenus65, laquelle a été limitée par la loi du 18 décembre 2025 
+portant des dispositions diverses66. Cette confusion entraîne aussi de nombreux litiges judiciaires 
+dans lesquels la jurisprudence a adopté des positions divergentes, voire contradictoires67. Cette 
+jurisprudence divisée sur la question empêche l’administration d’énoncer des directives générales 
+pour les enquêtes bancaires et les consultations du PCC dans le cadre d’investigations polyvalentes. 
+La procédure suivie dépend donc de l’évaluation individuelle du dossier et de l’expérience de 
+l’agent concerné. Il n’est pas toujours possible de choisir un fondement juridique68, mais, quand 
+ce choix existe, l’agent concerné doit mettre en balance le risque de perte de temps (lié à l’envoi 
+64	 Il est question de détournement de pouvoir lorsqu’une compétence est utilisée à une autre fin que celle pour laquelle elle a 
+été accordée, comme l’application de règles de TVA plus souples uniquement à des fins d’investigation en matière d’impôts 
+sur les revenus. 
+65	 Chambre, 3 octobre 2022, DOC 55 2899/001, Projet de loi portant des dispositions fiscales et financières diverses. Exposé des 
+motifs, p. 71, www.lachambre.be : « Il est également très incompréhensible et déroutant pour les contribuables qu’il existe une 
+différence procédurale substantielle entre la TVA et les impôts sur les revenus, bien que les deux soient souvent examinés en 
+commun dans les enquêtes de fraude. » Le législateur envisage de supprimer la prolongation des délais d’investigation et 
+d’imposition. L’objectif est de rétablir rétroactivement les dispositions modifiées dans leur version antérieure (Chambre, 
+3 juillet 2025, DOC 56 0963/001, Projet de loi portant des dispositions diverses, p. 38 et suiv., www.lachambre.be).
+66	 Articles 91-102.
+67	 D’une part, la jurisprudence autorise l’investigation via la législation TVA et l’utilisation de ces données pour les impôts 
+sur les revenus (voir Cour d’appel de Gand, arrêts des 4  octobre  2022, rôle n°  2021/AR/148, 20  septembre  2016, rôle 
+n° 2013/AR/239, et 19 mai 2015, rôle n° 2014/AR/413 ; Tribunal de première instance de Bruxelles (NL), 11 janvier 2021, rôle 
+n° 2019/1923/A, www.monkey.be). D’autre part, d’autres jurisprudences exigent que les deux législations soient respec­
+tées simultanément en cas d’investigations polyvalentes (voir Cour d’appel d’Anvers, 21 juin 2022, rôle n° 2020/AR/1936 ; 
+Tribunal de première instance de Gand, 22 octobre 2024, rôle n° 22/558/A, www.monkey.be). Il a été jugé récemment que 
+des compétences en TVA avaient été mobilisées à tort uniquement pour des constats dans le cadre des impôts sur les reve­
+nus (Bruxelles, 26 mars 2025, Le fiscologue 2025, 1878, p. 6, www.fiscoloog.be).
+68	 L’administration doit être cohérente dans le fondement choisi. Si, par exemple, le PCC est consulté sur la base des impôts sur 
+les revenus, l’enquête bancaire doit être réalisée suivant les mêmes règles de procédure. Dans le cas contraire, il peut être 
+question de détournement de pouvoir. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 28
+
+---PAGE 30---
+d’une demande de renseignements préalable) avec une décision judiciaire négative éventuelle 
+pour fondement erroné ou détournement de pouvoir. D’après l’enquête, la plupart des répondants 
+appliquent en général le principe de prudence, utilisant la procédure la plus stricte ou les deux 
+procédures pour éviter les décisions judiciaires négatives. En cas d’enquête bancaire, ils choisiront 
+donc la procédure relative aux impôts sur les revenus, qu’ils combineront ou non à celle à la TVA. 
+La procédure relative aux impôts sur les revenus est toutefois plus stricte, plus chronophage, plus 
+complexe et plus sujette aux erreurs de procédure. La différence de délai de réalisation entre les deux 
+procédures est estimée à 2 mois au moins, mais peut être plus longue encore en fonction du dossier69.
+La mesure dans laquelle les dispositions légales relatives à l’échange d’informations entre agents 
+s’appliquent aux investigations polyvalentes n’est pas claire non plus70. Il en va de même de la dis­
+position selon laquelle toutes les informations qu’un agent a obtenues peuvent être utilisées pour 
+établir tous les impôts fédéraux dus71.
+Pour mettre fin à l’insécurité juridique, la Cour des comptes recommande d’harmoniser et de simpli­
+fier la procédure pour les enquêtes bancaires et les consultations du PCC pour les deux impôts ou, à 
+tout le moins, d’élaborer un cadre procédural clair pour les investigations polyvalentes.
+Utilité d’une demande de renseignements préalable en cas de consultation du PCC
+Comme indiqué (voir le point 2.2.1), la demande de renseignements préalable adressée au contri­
+buable en cas de consultation du PCC en matière d’impôts sur les revenus se fonde sur une cir­
+culaire administrative72 et non explicitement sur le texte de loi. Dans la pratique, le PCC est en 
+général consulté avant une enquête bancaire en matière d’impôts sur les revenus. Comme une 
+demande de renseignements préalable est d’office requise en cas d’enquête bancaire, il y a peu de 
+différence entre une consultation du PCC en matière d’impôts sur les revenus et de TVA.
+D’après l’enquête, certains contribuables demandent les indices de fraude dont l’administration 
+dispose avant de répondre à la demande de renseignements préalable. Cette demande entrave le 
+processus de contrôle. Or, la possibilité n’est pas explicitement prévue par la loi. Le contribuable 
+ne doit pas être informé des indices de fraude, ni au stade de la demande de renseignements pré­
+alable ni à celui de la consultation du PCC73.
+La Cour des comptes a aussi constaté les difficultés pratiques que l’administration rencontre pour 
+savoir si les données bancaires qu’un contribuable fournit en réponse à la demande de rensei­
+gnements préalable sont exhaustives et exactes à moins d’effectuer un contrôle a posteriori par 
+consultation du PCC. L’enquête a montré que ce contrôle a posteriori n’était pas toujours effectué 
+faute de fondement juridique clair74.
+69	 Par exemple, le délai de réponse d’un mois en cas de demande de renseignements préalable, une éventuelle prolongation 
+du délai de réponse pour cette demande, le contribuable qui signale (à tort) que l’administration peut consulter ou récupérer 
+les données bancaires chez lui sur place, une éventuelle prolongation du délai de réponse en cas de demande de renseigne­
+ments préalable adressée aux établissements financiers, etc.
+70	 Article 335, alinéa 2, du CIR 92 et article 93quaterdecies, § 3, alinéa 2, du code de la TVA.
+71	 Article 336 du CIR 92 et article 93quaterdecies, § 2, alinéa 1er, du code de la TVA. 
+72	 Circulaire AGFisc n° 35/2014 du 4 septembre 2014.
+73	 L’administration doit uniquement communiquer les indices de fraude au contribuable quand elle envoie la demande de rensei­
+gnements aux établissements financiers, sauf si l’investigation a lieu pendant le délai étendu (article 333, alinéa 3, du CIR 92).
+74	 L’article 322, § 3, du CIR 92 ne prévoit pas explicitement cette possibilité, mais semble bien la couvrir. L’administration 
+semble aussi autorisée à vérifier l’exactitude des renseignements obtenus dans le cadre de l’article 322 du CIR 92 (article 324 
+du CIR 92).
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 29
+
+---PAGE 31---
+Plus globalement, la Cour des comptes recommande de vérifier l’utilité et la nécessité de la demande 
+de renseignements préalable en cas de consultation du PCC, tant en matière d’impôts sur les revenus 
+que de TVA. Dans la pratique, cette demande entraîne souvent une perte de temps inutile. Si une 
+demande de renseignements préalable est malgré tout effectuée, la Cour recommande de prévoir 
+expressément dans la loi la possibilité de consulter le PCC a posteriori.
+Procédures pour les comptes nationaux et étrangers
+Pour l’instant, la collecte d’informations sur les comptes bancaires nationaux et étrangers dif­
+fère considérablement. Une procédure stricte s’applique aux informations relatives aux comptes 
+nationaux, qui sont repris dans la banque de données PCC. Les informations relatives aux comptes 
+étrangers sont échangées automatiquement et peuvent toujours être consultées dans le cadre d’un 
+contrôle (même sans indice de fraude fiscale). Les informations échangées automatiquement sur 
+les comptes étrangers correspondent en grande partie75, au niveau de leur nature et de leur quan­
+tité, aux informations figurant dans la banque de données PCC, mais elles sont beaucoup plus 
+limitées que celles susceptibles d’être obtenues via une enquête bancaire. 
+La Cour des comptes recommande dès lors d’examiner si les conditions d’une consultation du PCC 
+pourraient être remplies de manière moins stricte que celles d’une enquête bancaire. Une procédure 
+moins stricte diminuerait la nécessité d’une consultation du PCC a posteriori pour vérifier si le contri­
+buable a transmis tous les comptes bancaires (voir le point 2.2.1). Elle mettrait également fin à la 
+différence injustifiée entre la consultation de données financières nationales et étrangères.
+Comptes avec procuration
+En matière d’impôts sur les revenus, une enquête bancaire est possible uniquement pour les 
+comptes dont le contribuable est (co)titulaire. Un contribuable « fraudeur » risque ainsi de faire 
+ouvrir un compte par un prête-nom (par exemple, un membre de sa famille, une société ou un 
+quelconque tiers) ou d’utiliser un compte existant sur lequel il a procuration. Comme l’adminis­
+tration fiscale doit avoir au moins un indice de fraude à l’égard du prête-nom, il n’est pas toujours 
+juridiquement possible d’effectuer une enquête bancaire. Lors de l’enquête, la plupart des parti­
+cipants ont en outre indiqué qu’il est souvent complexe voire impossible de contrôler les données 
+bancaires des comptes avec procuration, de sorte que la fraude fiscale reste parfois inconnue de 
+l’administration fiscale. S’il existe malgré tout un indice de fraude, l’administration doit également 
+mener toute la procédure d’enquête bancaire à l’égard du prête-nom, ce qui ralentit l’investiga­
+tion. La Cour des comptes recommande dès lors d’assouplir la procédure d’enquête bancaire pour les 
+comptes avec procuration du contribuable (dans le chef duquel des indices de fraude sont constatés).
+Pour les comptes belges, les établissements financiers communiquent tant les titulaires que les 
+mandataires au PCC. Pour les comptes étrangers, le PCC ne dispose pas des mandataires, mais 
+contient uniquement un aperçu des titulaires (voir le point 2.2.1). L’administration reçoit chaque 
+année, via l’échange NCD, un aperçu des comptes étrangers détenus par des résidents belges 
+en tant que (co)titulaire ou personne ayant un pouvoir de contrôle76. Un compte étranger avec 
+procuration n’est communiqué que si le titulaire de ce compte est une entité et si le résident-
+mandataire belge est considéré comme une personne ayant un pouvoir de contrôle. Comme ces 
+75	 Les informations échangées via NCD ou DAC 2 contiennent, outre les soldes des comptes, des informations sur les intérêts 
+(bruts), les dividendes (bruts) ou le produit (brut) des ventes ou rachats.
+76	 Une personne ayant un pouvoir de contrôle (controlling person) n’est pas nécessairement quelqu’un qui dispose d’une procu­
+ration sur un compte, mais est assimilée, d’après l’OCDE, au bénéficiaire effectif (beneficial owner). 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 30
+
+---PAGE 32---
+deux conditions ne s’appliquent pas à tous les comptes avec procuration, la Cour des comptes 
+n’exclut pas qu’un contribuable échappe à la surveillance de l’administration s’il utilise un compte 
+étranger avec procuration pour faciliter la fraude fiscale. La Cour des comptes recommande dès lors 
+d’examiner s’il est utile d’obliger légalement le contribuable à aussi communiquer au PCC un compte 
+étranger dont il est mandataire.
+La Cour des comptes observe par ailleurs qu’en matière de TVA, il ne doit pas y avoir d’indices de 
+fraude pour mener une enquête bancaire (voir le point 2.2.2), de sorte qu’une telle enquête peut 
+être menée au sujet de comptes sur lesquels l’assujetti à la TVA a procuration. 
+Indices de fraude fiscale
+Un des principaux points de discorde entre les contribuables et l’administration fiscale concerne 
+les indices de fraude fiscale. Dans le cadre d’une consultation du PCC et d’une enquête bancaire, 
+les « indices de fraude fiscale » doivent être compris dans le sens de la notification de l’extension du 
+délai d’investigation prévue à l’article 333, alinéa 3, du CIR 9277. D’après une circulaire administra­
+tive, un indice ne comporte pas encore de preuve, mais il ne peut pas reposer sur des hypothèses 
+insensées ou vagues. Il doit être suffisamment crédible, une présomption de fraude fiscale étant 
+suffisante78. En outre, un indice de fraude doit être un élément matériel, concret, vérifiable, qui 
+permet à l’agent d’avoir un soupçon raisonnable de fraude79. La circulaire renvoie étonnamment à 
+la fois à une présomption et à un indice de fraude, qui sont deux notions différentes. Les travaux 
+parlementaires préparatoires (de 2010-2011) reprennent une liste non limitative de constats sus­
+ceptibles de constituer un indice de fraude fiscale80. Cependant, ces indices entraînent régulière­
+ment des contestations ou des litiges judiciaires, notamment pour des constats non repris dans 
+la liste. Ainsi, il est par exemple difficile de déterminer si la simple absence de coopération du 
+contribuable peut être considérée comme un indice suffisant de fraude justifiant une consultation 
+du PCC ou une enquête bancaire.
+La Cour des comptes recommande d’ancrer dans la loi que la non-communication ou la communi­
+cation incomplète de comptes ou données bancaires peut être automatiquement considérée comme 
+un indice de fraude, de sorte que les conditions de lancement de la procédure d’enquête bancaire sont 
+d’emblée remplies. 
+Consultation du PCC par un conseiller général
+Enfin, les possibilités de simplifier la consultation peuvent être examinées. Pour le moment, seul 
+un conseiller général consulte la banque de données PCC dans la pratique. Il doit dès lors aussi 
+effectuer lui-même tout le travail de recherche administratif. La Cour des comptes recommande de 
+déléguer le travail de recherche administratif dans le PCC à l’agent contrôleur du service chargé de 
+l’investigation après l’approbation du conseiller général.
+77	 Bien que cette disposition parle d’indices (au pluriel), un seul indice suffit (Cour de cassation, 22  décembre 2023, rôle 
+n° F.22.0053.F, www.juportal.be).
+78	 Commentaire du CIR 92, n° 322/18, inséré par la circulaire Ci.RH.81/616.308 (AGFisc 10/2012) du 5 mars 2012.
+79	 Chambre, 14 mars 2011, DOC 53 1208/012, Projet de loi portant des dispositions diverses, p. 33, www.lachambre.be, cité dans 
+la circulaire Ci.RH.81/616.308.
+80	 Chambre, 2 mars 2011, DOC 53 1208/007, Projet de loi portant des dispositions diverses, p. 14-15, www.lachambre.be. « Il est 
+clair que cette liste n’est pas exhaustive, et que de nouvelles perspectives, techniques et constatations peuvent contribuer à 
+compléter cette liste. » 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 31
+
+---PAGE 33---
+Chapitre 3
+Contrôle par l’AGIsi 
+Dans ce chapitre, la Cour des comptes examine si l’administration fiscale utilise les données ban­
+caires de manière efficiente, notamment par l’intermédiaire d’e-contrôles. La Cour examine par 
+ailleurs comment l’exécution des contrôles peut être davantage optimalisée. Elle vérifie égale­
+ment, au travers d’une analyse de dossiers, si les règles de procédure sont respectées et quelles sont 
+les difficultés pratiques rencontrées lors des contrôles.
+3.1	
+Utilisation d’e-audits
+3.1.1	
+Absence de type de fichier standard 
+Il n’existe actuellement aucun type de fichier standard pour l’échange de données bancaires. 
+Lorsque l’administration fiscale demande des données au contribuable ou à la banque dans le 
+cadre d’une enquête bancaire, le type de fichier dans lequel celles-ci sont fournies varie souvent. 
+La mise en page peut aussi poser problème. Les fichiers peuvent, par exemple, contenir des lignes 
+ou des colonnes vides entre les données dans les feuilles de calcul, différentes données dans une 
+même colonne, des dates au format texte, des chiffres au format texte avec des séparateurs de 
+milliers, des montants uniquement en valeur absolue avec une colonne supplémentaire débit/
+crédit, etc. Des PDF contenant des transactions bancaires sont également fournis dans des cas 
+exceptionnels, en général par des établissements financiers étrangers. Pour les cellules d’e-audit81, 
+cela représente un travail manuel considérable et chronophage de conversion des données dans 
+un type de fichier exploitable et de transmission aux services de contrôle. Il n’est pas rare qu’un 
+script de conversion distinct doive être écrit pour chaque mise en page qu’une banque utilise. 
+Pour l’instant, le SPF Finances a ainsi développé 52 scripts pour traiter les différentes formes de 
+transmission de données par les différents établissements financiers. 
+Dans le cadre d’enquêtes bancaires, certaines banques communiquent également moins d’infor­
+mations que d’autres sur les transactions effectuées. La manipulation (modification) éventuelle 
+de données bancaires, en particulier lorsqu’elles sont fournies par le contribuable même, pose un 
+autre problème.
+La Cour des comptes recommande de développer, en concertation avec le secteur bancaire, un type 
+de fichier commun pour les données bancaires. Idéalement, ce type de fichier contient un code unique 
+pour chaque transaction bancaire, afin que les doublons éventuels auprès de la banque « payante » et 
+de la banque « réceptrice » puissent être facilement supprimés lors de la fusion des différents relevés 
+bancaires. Un type de fichier commun permettrait non seulement de générer des gains d’efficience, 
+mais aussi de garantir l’égalité de traitement des contribuables, puisque le même type de données 
+serait toujours fourni. Les cellules d’e-audit ne seraient en outre plus confrontées à toutes sortes de 
+formats et auraient donc beaucoup moins de modifications manuelles à effectuer. Un avantage sup­
+plémentaire est que les logiciels et les outils d’analyse basés sur cette norme peuvent être échangés au 
+sein du SPF Finances ou avec d’autres services publics. L’AGIsi mène actuellement des entretiens avec 
+81	 Chacune des cinq directions de l’AGIsi dispose d’une cellule d’e-audit. Ces cellules fournissent une assistance technique 
+informatique aux agents de contrôle, par exemple pour le traitement de données bancaires.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 32
+
+---PAGE 34---
+Febelfin afin de créer une interface de programmation d’application (application programming inter­
+face – API), de sorte que l’administration fiscale puisse communiquer directement par voie numérique 
+avec les banques. 
+3.1.2	
+Création d’un fichier d’audit bancaire
+Lorsque les données bancaires fournies sont trop volumineuses pour y effectuer des recherches 
+manuelles, les cellules d’e-audit peuvent, à la demande de l’agent contrôleur, les traiter dans un 
+fichier d’audit bancaire (bank audit file – BAF)82. Un BAF est un relevé de compte électronique de 
+toutes les opérations bancaires sur la base des recettes et des dépenses. Il se présente sous la forme 
+d’une feuille de calcul intégrant des tableaux croisés dynamiques. Les e-auditeurs créent un BAF à 
+l’aide d’un outil spécial développé par le SPF Finances. Les premiers BAF ont été élaborés en 2020 
+et leur utilisation n’a cessé d’augmenter chaque année depuis lors. Le tableau ci-après donne un 
+aperçu du nombre de BAF traités par an pour l’ensemble du SPF Finances83. 
+Tableau 3 – Nombre de BAF par an84
+Année
+Nombre de BAF
+2020
+23
+2021
+3.681
+2022
+4.620
+2023
+10.364
+2024 
+15.664
+Total
+34.352
+Source : AGIsi 
+Une fois traité, le BAF est transmis à l’agent contrôleur compétent pour examen et analyse appro­
+fondis. Un BAF permet à l’agent d’effectuer une recherche automatique dans les données ban­
+caires. Les recettes et les dépenses peuvent ainsi être triées, par exemple par période, par type et 
+par contrepartie, ce qui permet de détecter des anomalies. 
+Par exemple, au niveau des recettes, il peut s’agir de : 
+•	 lacunes dans l’obtention des produits ;
+•	 paiements entrants non facturés aux clients ;
+•	 l’existence d’autres comptes bancaires (professionnels).
+Concernant les dépenses, l’agent peut notamment vérifier automatiquement :
+•	 si le contribuable a réellement payé toutes les dépenses ;
+•	 quelles dépenses peuvent être considérées comme des signes et indices.
+82	 Ce fichier est également appelé FinFile ou financial file.
+83	 Il s’agit de BAF demandés aussi bien par l’AGIsi que par l’AGFisc. Il n’existe pas de chiffres fiables sur le nombre de BAF 
+exclusivement attribuables à l’AGIsi. 
+84	 Les chiffres indiquent le nombre de traitements et non le nombre de dossiers. Certains dossiers sont traités plusieurs fois, 
+par exemple à la suite d’une tentative infructueuse ou parce que plusieurs comptes d’un même contribuable n’ont pas pu 
+être traités en même temps. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 33
+
+---PAGE 35---
+Pour pouvoir analyser la comptabilité de manière efficiente, l’AGFisc a développé un Belgian 
+Standard Audit File (BSAF) pour la plupart des logiciels comptables85. L’AGIsi utilise également 
+cette application dans ses enquêtes. Les données bancaires (via le BAF) peuvent ainsi être auto­
+matiquement croisées avec les données comptables (BSAF).
+La Cour des comptes estime cette approche positive et recommande de continuer à maximiser et à 
+suivre l’utilisation des BAF, qu’ils soient combinés ou non avec les BSAF. Il faut en outre veiller à ce 
+que les BAF soient aussi utilisés de manière efficiente et efficace dans la lutte contre la fraude fiscale. 
+À cet effet, il est nécessaire de sensibiliser les agents contrôleurs et de leur transmettre des connais­
+sances approfondies des possibilités supplémentaires d’enquête et d’analyse que le BAF offre.
+Des formations internes sont actuellement organisées au niveau des directions afin que les agents 
+aussi bien débutants que plus expérimentés puissent utiliser un BAF86. L’enquête révèle que les 
+répondants n’ont pas tous suivi ces formations ou n’en avaient pas été informés. Il est dès lors 
+recommandé d’organiser des formations ciblées et fréquentes, tant sur le BAF que sur l’intégration 
+du BAF dans le BSAF.
+3.1.3	
+Outils d’analyse et signaux d’alerte
+Le BAF permet également d’utiliser toute une série d’outils d’analyse afin de reconnaître des sché­
+mas qui, autrement, ne seraient pas détectés dans la multitude de données. Des retraits d’argent 
+répétés peuvent, par exemple, indiquer l’existence de comptes « hawala »87. Dans un avenir proche, 
+la cellule d’e-audit de la cinquième direction de l’AGIsi (ci-après la « 5e direction »88) souhaite dès 
+lors mettre au point un modèle d’IA en mesure de détecter automatiquement de tels comptes 
+hawala. Les carrousels à la TVA pourraient ainsi également être détectés plus rapidement. Selon 
+l’AGIsi, la puissance de calcul accrue et l’utilisation de l’intelligence artificielle nécessaires à cet 
+effet requièrent des moyens supplémentaires et un soutien TIC.
+La Cour des comptes a également constaté qu’il était nécessaire d’approfondir les connaissances 
+relatives aux signaux d’alerte pouvant indiquer des irrégularités dans les transactions bancaires. 
+La Cour recommande dès lors d’instaurer une collaboration plus étroite et un échange de connais­
+sances plus poussé, tant entre les cellules d’e-audit de l’AGIsi qu’entre les autres administrations du 
+SPF Finances (notamment l’AGFisc et l’AGPR). Afin d’éviter un double travail, il convient également 
+d’examiner si les connaissances peuvent être partagées concernant l’exploitation de données ban­
+caires (par exemple via des protocoles) et l’utilisation d’outils d’analyse : les connaissances peuvent 
+être partagées avec d’autres services publics nationaux chargés d’analyser les transactions bancaires 
+(tels que la CTIF, le SPF Économie et la police) et avec des services publics internationaux, comme 
+l’Office européen de lutte antifraude (Olaf).
+85	 Voir Cour des comptes, E-contrôles de l’Administration générale de la fiscalité, rapport à la Chambre des représentants, sep­
+tembre 2024, 59 p., courdescomptes.be.
+86	 Les chiffres concernant le nombre d’agents de l’AGIsi ayant suivi cette formation ne sont pas tenus à jour. 
+87	 L’hawala est une méthode informelle de transfert de fonds en dehors du système bancaire traditionnel, sans déplacement 
+physique ou numérique de fonds. Une personne dépose dans un point hawala de l’argent qu’une autre personne retire dans 
+un autre point, sans transfert réel ni trace numérique. 
+88	 La 5e direction s’occupe principalement de typologies spécifiques de fraude, telles que les carrousels TVA, les filières brési­
+liennes, les remboursements de la TVA facilités par de fausses factures, etc.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 34
+
+---PAGE 36---
+3.2	
+Autres problèmes
+3.2.1	
+Demande de données auprès d’établissements financiers
+L’enquête a révélé que les contribuables moins familiarisés avec les outils numériques préfèrent 
+parfois que l’administration fiscale demande directement les données auprès des établissements 
+financiers, notamment parce que certaines banques facturent des frais pour fournir ces données 
+à leurs clients. Toutefois, dans l’état actuel de la législation, il est impossible, en matière d’impôts 
+sur les revenus, que l’administration fiscale s’adresse directement aux banques sans appliquer 
+toute la procédure d’enquête bancaire, ce qui entraîne une perte de temps inutile. La Cour des 
+comptes recommande de permettre légalement ces contacts directs, tant pour les enquêtes bancaires 
+nationales qu’étrangères, à condition que le contribuable donne son consentement explicite.
+3.2.2	
+Non-coopération du contribuable ou de l’établissement financier
+La loi prévoit que l’administration peut demander tous les renseignements utiles pour déterminer 
+le montant des revenus imposables du contribuable (article 322, § 2, du CIR 92). L’enquête révèle 
+que les établissements financiers ne fournissent pas toujours les documents mentionnés dans les 
+transactions individuelles (par exemple, les annexes des transactions étrangères). Cette situation 
+retarde l’analyse de l’administration, qui doit alors poser une série de questions supplémentaires 
+au contribuable et à l’établissement financier concernés. 
+Les établissements financiers renvoient parfois aussi l’administration vers les établissements de 
+cartes de crédit pour demander les données bancaires. Or, ce sont ces établissements financiers 
+qui proposent les cartes de crédit. Les clients reçoivent leur relevé de dépenses dans l’environne­
+ment bancaire de l’établissement. Les cartes de crédit sont par ailleurs presque toujours liées à un 
+compte auprès de l’établissement qui les propose. Le fait que l’administration doive s’adresser aux 
+établissements de cartes de crédit l’entrave et la retarde inutilement.
+L’administration note que les sanctions existantes sont insuffisantes lorsqu’un contribuable ou un 
+établissement financier ne coopère pas ou pas pleinement. Actuellement, l’administration peut 
+uniquement infliger une amende administrative limitée89 ou, éventuellement, requérir de la jus­
+tice qu’elle impose le paiement d’une astreinte90. La Cour des comptes recommande d’actualiser les 
+amendes générales et de les adapter régulièrement par la suite (par exemple, via une indexation)91. 
+La Cour a ainsi constaté que les personnes qui ne respectent pas les obligations fiscales de base 
+(telles que la communication de documents et de données) ne peuvent guère être sanctionnées, 
+alors que des sanctions plus sévères existent pour celles qui ne respectent pas des obligations 
+de déclaration spécifiques (par exemple, les constructions juridiques, les prix de transfert)92. 
+La grande majorité des établissements financiers coopèrent correctement. Pour les autres, le déve­
+loppement d’une politique de sanctions appropriée peut toutefois également être envisagé.
+89	 Entre 50 et 1.250 euros (article 445 du CIR 92 et articles 229/1-229/4 de l’AR/CIR 92) ou entre 50 et 5.000 euros (article 70, 
+§ 4, du code de la TVA et arrêté royal n° 44). 
+90	 Article 381 du CIR 92 et article 92ter du code de la TVA. L’accord de coalition fédérale prévoit la suppression de l’astreinte 
+fiscale et l’introduction d’un bénéfice imposable minimal (Chambre, 4 février 2025, DOC 56 0020/001, Déclaration gouver­
+nementale. Accord de gouvernement, p. 265, www.lachambre.be).
+91	 Idéalement, la nature de l’infraction et le montant de l’amende prévus dans le code de la TVA et le CIR  92 devraient 
+correspondre.
+92	 6.250 euros par construction par an (article 445, § 2, du CIR 92). Non-respect des obligations de déclaration en matière de 
+prix de transfert : entre 1.250 et 25.000 euros par infraction (article 445, § 3, du CIR 92).
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 35
+
+---PAGE 37---
+3.2.3	
+Limitations dans le cadre de la consultation du PCC
+Lorsqu’il consulte des comptes bancaires auprès du PCC, le conseiller général voit uniquement 
+le rôle du contribuable concerné (par exemple, titulaire ou mandataire). Pour obtenir des infor­
+mations sur d’autres titulaires ou mandataires de comptes, il doit procéder à une consultation 
+distincte pour chaque numéro de compte. Cette méthode est fastidieuse, surtout lorsqu’il y a 
+une grande quantité de comptes. Idéalement, le rôle d’autres titulaires ou mandataires devrait dès 
+lors également déjà être visible dès la première consultation. Cela permettrait à l’administration de 
+décider plus rapidement et de manière plus efficiente si une enquête bancaire supplémentaire est 
+nécessaire les concernant.
+3.3	
+Examen de dossiers par la Cour des comptes
+3.3.1	
+Organisation de l’examen des dossiers
+La Cour des comptes a examiné une sélection de dossiers dans lesquels les directions de l’AGIsi 
+ont procédé à une enquête bancaire, à une consultation du PCC ou aux deux. Au total, 50 dos­
+siers récents ont été sélectionnés, dont 22 concernaient les impôts sur les revenus et 28 la TVA, 
+qu’il y ait eu ou non rectification. La sélection représente environ 10 % des dossiers dans lesquels 
+une enquête bancaire a été menée. Il s’agissait d’une enquête polyvalente (à la fois sur la TVA et 
+les impôts sur les revenus) dans 5 des 22 dossiers relatifs aux impôts sur les revenus et dans 13 
+des 28 dossiers portant sur la TVA.
+La Cour des comptes a vérifié :
+•	 si des difficultés sont survenues au cours de la procédure ;
+•	 si les règles de procédure ont été respectées93 ;
+•	 pourquoi l’enquête bancaire a été productive ou non. 
+La Cour des comptes a également vérifié l’efficience et l’efficacité de l’enquête bancaire.
+3.3.2	
+Analyse des dossiers
+Demande de renseignements préalable 
+Tous les dossiers contenaient la demande de renseignements préalable obligatoire, via laquelle 
+les données bancaires ou les numéros de comptes bancaires étaient d’abord demandés au contri­
+buable. Sauf dans un dossier, toutes les demandes de renseignements mentionnaient la possibilité 
+de lever le secret bancaire ou de consulter le PCC en cas de non-coopération du contribuable. 
+Demande motivée auprès du PCC
+Dans tous les dossiers où le PCC a été consulté, le gestionnaire de dossier avait préalablement 
+soumis au conseiller général une demande motivée, qui présentait de manière claire et synoptique 
+les faits et indices de fraude fiscale. La Cour des comptes considère cette approche comme une 
+bonne pratique qui permet au conseiller général compétent de juger en connaissance de cause si 
+une consultation du PCC est justifiée. Le PCC a été consulté dans 31 dossiers. Il l’a été nettement 
+moins dans les dossiers relatifs à la TVA que dans ceux concernant les impôts sur les revenus94.
+93	 En raison de la jurisprudence contradictoire, la Cour des comptes ne se prononce pas sur le respect des règles de procédure 
+dans les enquêtes polyvalentes (voir le point 2.2.4).
+94	 Dans 12 des 28 dossiers relatifs à la TVA et dans 19 des 22 dossiers concernant les impôts sur les revenus.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 36
+
+---PAGE 38---
+Autorisations d’enquête bancaire
+Tous les dossiers contenaient les autorisations du conseiller général requises pour réaliser une 
+enquête bancaire. Elles ont été transmises aux établissements financiers avec les demandes de 
+renseignements.
+Notification d’enquête bancaire (impôts sur les revenus)
+Sauf si les droits du Trésor sont en péril, l’administration doit adresser une notification au 
+contribuable en même temps qu’elle envoie les demandes de renseignements aux établissements 
+financiers. La notification mentionne les motifs qui justifient une enquête bancaire. Dans quatre 
+dossiers relatifs aux impôts sur les revenus, elle n’a pas été effectuée dans le même temps, bien que 
+la Cour des comptes n’ait pas pu déduire du dossier que les droits du Trésor étaient en péril. Dans 
+un dossier, la Cour des comptes n’a pu retrouver aucune notification.
+Productivité des enquêtes bancaires
+Dans 70  % des dossiers, l’enquête bancaire a permis de détecter des revenus ou chiffres d’af­
+faires non déclarés, ou des frais ou de la TVA non déductibles, ce qui a donné lieu à une rectifica­
+tion. Ce chiffre ne dit toutefois pas tout sur l’efficacité ou la productivité d’une enquête bancaire. 
+L’examen des données bancaires constitue avant tout un moyen (procédural) et non une fin en soi 
+(voir également le point 4.5.1). Le résultat peut également être conséquent sans qu’il soit question 
+de rectification. Quatre cas de carrousel à la TVA ont ainsi été détectés : la radiation d’office du 
+numéro de TVA a permis d’éviter des pertes plus importantes pour le Trésor. 
+Délai de réalisation d’une enquête bancaire
+La Cour des comptes a calculé deux types de délai (voir le graphique 5) :
+1.	 le délai écoulé entre l’envoi de la demande de renseignements aux établissements financiers et 
+la réponse à celle-ci ;
+2.	 le délai total écoulé entre la demande de renseignements préalable au contribuable et la réponse 
+des établissements financiers.
+Graphique 5 – Délai de réalisation d’une enquête bancaire
+Demande de renseignements préalable 
+au contribuable
+Demande de renseignements 
+aux établissements ﬁnanciers
+Dernière réponse des 
+établissements ﬁnanciers à la 
+demande de renseignements
+Délai de réalisation d’une enquête bancaire 
+Délai au niveau des établissements financiers 
+Délai moyen de réalisation tant pour les impôts sur les revenus que pour la TVA
+Délai moyen de réalisation pour les impôts sur les revenus
+34
+jours
+205
+jours
+Source : Cour des comptes
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 37
+
+---PAGE 39---
+Pour certains dossiers, il n’a pas été possible de calculer un délai précis, par exemple parce que 
+plusieurs séries de questions ont été posées aux établissements financiers ou parce que certaines 
+de leurs réponses ne mentionnaient pas de date. Ces dossiers n’ont pas été intégrés au calcul du 
+délai de réalisation pour éviter de le fausser95.
+Le « délai au niveau des établissements financiers » est en moyenne de 34 jours, avec des pics de 
+116 et 154 jours. L’enquête est ralentie par de tels pics, sur lesquels l’administration n’a toutefois 
+aucune prise.
+Selon plusieurs répondants de l’enquête, ce sont surtout les établissements financiers non tra­
+ditionnels (tels que les établissements de transfert de fonds et les néobanques) qui mettent en 
+moyenne plus de temps à transmettre à l’administration fiscale les données bancaires demandées. 
+En cas de problèmes avec les données reçues, ces établissements étaient aussi plus difficiles à 
+joindre. Le fait qu’ils aient moins d’expérience de ces procédures que les établissements financiers 
+traditionnels semble jouer un rôle à cet égard.
+Le « délai total de réalisation d’une enquête bancaire » est en moyenne de 205 jours, avec des pics 
+de 306 et 420 jours. On peut en déduire qu’il s’écoule une assez longue période entre la demande 
+de renseignements préalable adressée au contribuable et les demandes de renseignements adres­
+sées aux établissements financiers96.
+Erreurs de procédure
+La Cour des comptes a constaté des erreurs de procédure dans cinq dossiers (10 %)97 relatifs aux 
+impôts sur les revenus. Il se peut que la réglementation plus stricte en matière d’impôts sur les 
+revenus rende ces enquêtes bancaires davantage sujettes à des erreurs que celles relatives à la 
+TVA. La Cour des comptes réitère dès lors sa recommandation de simplifier les règles de procédure en 
+harmonisant les deux matières fiscales (voir le point 2.2.3). Dans sa réponse, l’AGIsi souligne qu’elle 
+organise une formation approfondie et actualisée chaque année sur la procédure fiscale. À l’avenir, 
+elle continuera à miser sur cette formation pour éviter de telles erreurs de procédure.
+Enquêtes bancaires et e-audit
+La Cour des comptes constate que la cellule d’e-audit a aidé à traiter les données bancaires dans 
+huit dossiers. Deux dossiers concernaient un BAF, les six autres portaient sur une aide générale, 
+par exemple pour convertir des taux de change ou convertir en une feuille de calcul utilisable.
+95	 Le délai au niveau des établissements financiers a ainsi pu être déterminé dans 34 dossiers (impôts sur les revenus et TVA) 
+et le délai de réalisation d’une enquête bancaire a pu l’être dans 16 dossiers relatifs aux impôts sur les revenus. En matière 
+de TVA, une demande de renseignements préalable n’est pas toujours envoyée au contribuable, de sorte que le délai de 
+réalisation total d’une enquête bancaire en matière de TVA n’est pas représentatif par rapport aux impôts sur les revenus.
+96	 Plusieurs raisons peuvent expliquer la situation, telles que la prolongation du délai de réponse à la demande de renseigne­
+ments préalable adressée au contribuable, le contribuable qui indique (à tort) que l’administration peut consulter ou récu­
+pérer les données bancaires auprès de lui sur place, l’analyse par l’administration sur la base de la réponse du contribuable, 
+le temps nécessaire pour la consultation du PCC ou les autorisations d’enquête bancaire, etc. D’autres raisons sont non 
+procédurales : les nécessités du service ou l’absence de l’agent contrôleur chargé du dossier.
+97	 Plusieurs erreurs de procédure ont été constatées dans un dossier. Six irrégularités procédurales ont été relevées au total : 
+cinq portant sur la notification de l’enquête bancaire et une relative à l’absence, dans la demande de renseignements préa­
+lable, de la mention indiquant que l’administration fiscale peut consulter le PCC en cas de non-coopération du contribuable 
+(voir ci-dessus). 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 38
+
+---PAGE 40---
+Applications internes pour les demandes au PCC et les enquêtes bancaires
+L’AGIsi utilise actuellement deux logiciels internes qui documentent l’ensemble des consultations 
+du PCC et des enquêtes bancaires respectives. Il s’agit d’une bonne pratique, puisqu’elle permet à 
+l’administration de garantir un traitement uniforme des demandes. 
+D’après l’enquête, l’application est globalement satisfaisante pour une demande au PCC, mais 
+des améliorations sont encore possibles. L’application présente toutefois des lacunes sur plusieurs 
+points en ce qui concerne les enquêtes bancaires, tant en termes de facilité d’utilisation que de 
+charge administrative. Les répondants ont formulé plusieurs propositions : 
+•	 saisir automatiquement les informations provenant d’autres applications du SPF Finances et 
+examiner l’intégration dans Stirfraude98 ;
+•	 améliorer les possibilités de charger des documents ;
+•	 supprimer la limite de temps pour éviter de bloquer l’application ;
+•	 regrouper les demandes pour toutes les banques et, si possible, pour tous les contribuables (par 
+exemple, les partenaires imposés conjointement) ;
+•	 faire générer par l’application des documents standard pour les enquêtes bancaires, tels que 
+l’autorisation de l’agent compétent et les demandes de renseignements adressées aux établisse­
+ments financiers ;
+•	 rédiger un manuel simple et accessible pour les utilisateurs occasionnels.
+Rapport d’enquête
+Lors de la clôture d’un dossier, les gestionnaires de dossiers établissent un rapport d’enquête pour 
+chaque matière fiscale examinée. Ils y précisent notamment les aspects et la période analysés 
+ainsi que les enquêtes et les rectifications effectuées. La Cour des comptes constate qu’un modèle 
+de document est utilisé pour établir ce rapport, ce qui favorise l’uniformité et la comparabilité. 
+Comme une grande partie des données contenues dans le rapport figure aussi dans l’application 
+Stirfraude, la Cour des comptes recommande d’examiner s’il est possible d’intégrer ce rapport sous la 
+forme d’un formulaire à compléter dans Stirfraude.
+98	 Base de données de l’AGIsi permettant d’attribuer et de coordonner les enquêtes en matière de fraude.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 39
+
+---PAGE 41---
+Chapitre 4
+Évaluation globale
+Dans ce chapitre, la Cour des comptes examine si l’utilisation des données bancaires par l’admi­
+nistration fait l’objet d’un suivi et d’une évaluation. La Cour examine aussi les instruments de 
+suivi utilisés. L’administration est, en effet, légalement tenue d’établir chaque année un rapport 
+d’évaluation sur l’utilisation des données bancaires.
+Les statistiques relatives au nombre de consultations du PCC et d’enquêtes bancaires ainsi que les 
+indices concrets donnant lieu à une enquête bancaire sont également abordés. La productivité des 
+dossiers faisant l’objet d’une enquête bancaire et les recettes fiscales qui en découlent sont aussi 
+examinées.
+4.1	
+Rapport d’évaluation annuel sur les enquêtes bancaires
+Depuis 2011, l’article 333/1, § 2, du CIR 92 impose de publier un rapport annuel sur les enquêtes 
+bancaires menées par l’administration. Ce rapport comprend notamment :
+•	 le nombre d’enquêtes bancaires ;
+•	 les indices concrets de fraude, répartis en catégories ;
+•	 le nombre de décisions positives et négatives rendues par les conseillers généraux compétents ;
+•	 une évaluation technique et juridique globale.
+Le rapport est publié par le ministre des Finances et transmis à la Chambre des représentants. 
+Le  service Procédure de l’AGFisc coordonne le rapport et rédige un rapport d’évaluation des 
+enquêtes bancaires de l’AGFisc et de l’AGIsi. Le service a établi un rapport pour les années 2011 à 
+2015 et l’a transmis aux cellules stratégiques du ministre de l’époque. Une demande auprès de la 
+Chambre révèle que celle-ci a reçu uniquement les rapports d’évaluation 2011-2012. Les rapports 
+2016-2017 ont été rédigés, mais n’ont pas été officiellement transmis aux cellules stratégiques. Plus 
+aucun nouveau rapport n’a été rédigé depuis 2018. Seules les données statistiques globales sont 
+collectées et utilisées pour intégrer le rapport annuel du SPF Finances. 
+Une évaluation technique et juridique globale n’est donc plus réalisée depuis 2018. Le service 
+Procédure de l’AGFisc invoque à cet égard l’absence de retour d’information sur les premiers 
+rapports. Il souligne également que la rare jurisprudence relative aux enquêtes bancaires était 
+très spécifique, a été analysée à chaque fois et transmise aux services externes (via le conseiller 
+général compétent, le réseau d’experts, des formations, etc.) ; ce n’est que ces dernières années 
+que des modifications législatives ont été apportées, qui ont été commentées dans les circulaires 
+administratives.
+Le service Procédure mentionne comme principal problème les différentes réglementations appli­
+cables à une consultation du PCC et à une enquête bancaire en matière d’impôts sur les revenus et 
+de TVA, comme le note également la Cour des comptes.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 40
+
+---PAGE 42---
+Après avoir analysé la jurisprudence récente, la Cour des comptes a constaté que le principal point 
+épineux était l’existence d’au moins un indice de fraude fiscale, tant dans les litiges en matière de 
+prétaxation99 que dans les litiges quant au fond100. En outre, l’administration doit veiller à mener 
+l’enquête bancaire à l’encontre de la bonne personne (par exemple, le dirigeant de l’entreprise 
+plutôt que les travailleurs101 ou le titulaire du compte plutôt que le mandataire102). Comme la juris­
+prudence n’est pas entièrement accessible au public, il serait préférable de la regrouper et de la 
+diffuser auprès des agents contrôleurs compétents. La Cour des comptes a constaté que l’AGIsi le 
+fait dans le cadre de cours internes actualisés chaque année, ce qui constitue une bonne pratique. 
+4.2	
+Statistiques
+4.2.1	
+Nombre de consultations du PCC
+L’ AGPR collecte, au sein du SPF Finances, les données statistiques relatives aux consultations du 
+PCC. Elle comptabilise à cet effet le nombre de consultations de la BNB pour les différentes admi­
+nistrations (dont l’AGIsi). La Cour des comptes a constaté que ces chiffres ne sont pas entièrement 
+fiables en raison d’un problème informatique interne103. 
+La Cour des comptes a tenté de recalculer le nombre de consultations du PCC sur la base du 
+nombre de dossiers pour lesquels une telle consultation a eu lieu (voir le tableau 4). 
+Ces chiffres montrent une forte augmentation du nombre de consultations du PCC à partir de 2021. 
+Elle est principalement imputable à la 5e direction et est liée au nombre élevé de déclarations de 
+la CTIF concernant des indices sérieux de blanchiment d’argent avec un volet de fraude fiscale, 
+destinées à cette direction. La 5e direction consulte souvent le PCC pour vérifier la précision des 
+données bancaires mentionnées dans la déclaration de la CTIF.
+Tableau 4 – Nombre de consultations du PCC par l’AGIsi
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+95
+187
+210
+78
+81
+127
+242
+353
+212
+Source : calcul de la Cour des comptes à partir du fichier de l’AGIsi
+4.2.2	
+Nombre d’enquêtes bancaires
+Nombre d’autorisations à réaliser une enquête bancaire
+À la demande de la Cour des comptes, l’AGIsi a fourni des chiffres sur le nombre d’autorisations 
+délivrées pour réaliser des enquêtes bancaires. Ils sont ventilés par matière fiscale. En effet, le 
+relevé issu des rapports annuels du SPF Finances n’était pas utilisable, car il incluait également 
+les enquêtes bancaires menées à la demande d’une administration homologue étrangère dans le 
+cadre des Scac104.
+99	 Tribunal d’Anvers, jugements des 22  avril 2022, n° de rôle 21/2764/A, 8  octobre 2021, n° de rôle 21/2764/A  et 
+26 novembre 2021, n° de rôle 21/2269/A ; tribunal de Bruxelles (NL), jugement du 24 mai 2012, n° de rôle 12/625/C.
+100	Cour d’appel de Gand, arrêt du 7 mars 2023, n° de rôle 2021/AR/1919.
+101	Cour d’appel d’Anvers, arrêt du 31 octobre 2023, n° de rôle 2022/1199.
+102	Cour d’appel de Gand, arrêt du 16 mars 2021, n° de rôle 2016/AR/1176.
+103	Ainsi, un grand nombre de consultations n’ont pas pu être correctement attribuées aux différentes administrations fiscales. 
+104	Un formulaire Scac est une procédure standardisée d’échange international de données en matière de TVA.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 41
+
+---PAGE 43---
+Tableau 5 – Nombre d’autorisations à réaliser une enquête bancaire (hors Scac) délivrées par l’AGIsi
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024105
+Total
+Impôts 
+sur les 
+revenus106
+79
+186
+333
+155
+243
+316
+499
+540
+379
+360
+3.090
+TVA
+143
+213
+209
+213
+328
+336
+496
+642
+530
+351
+3.461
+Total
+222
+399
+542
+368
+571
+652
+995
+1.182
+909
+711
+6.551
+Source : AGIsi
+Une autorisation est délivrée par compte bancaire et par contribuable. Plusieurs autorisations 
+peuvent dès lors concerner un seul dossier si un contribuable détient des comptes bancaires auprès 
+de différentes banques. Les chiffres qui précèdent révèlent que les enquêtes bancaires sont plus 
+fréquentes en matière de TVA que d’impôts sur les revenus.
+Comme pour les consultations du PCC (voir le point 4.2.1), c’est surtout la 5e direction qui a réalisé 
+davantage d’enquêtes bancaires depuis 2021. Elle a ainsi lancé un projet avec la CTIF et le parquet 
+afin de lutter contre les réseaux de fraude brésiliens de blanchiment d’argent provenant de diverses 
+activités criminelles (fraude sociale, drogue, escroquerie, trafic d’armes, etc.). Ces réseaux brési­
+liens créent, en peu de temps, de nombreuses sociétés qui se délivrent fréquemment des factures 
+mutuelles afin de rendre moins visibles les flux de transactions douteux. Souvent, l’administration 
+fiscale ne peut pas déterminer et percevoir l’impôt dû à temps, parce que les sociétés ont déjà été 
+dissoutes et que leurs dirigeants ont quitté la Belgique. Grâce à une stratégie consistant à suivre 
+l’argent (follow the money), l’AGIsi tente de briser le modèle économique des fraudeurs. Elle carto­
+graphie tout d’abord les avoirs criminels pour pouvoir ensuite bloquer le plus rapidement possible 
+les comptes bancaires des sociétés nouvellement créées107 et saisir les fonds qui s’y trouvent. L’accès 
+aux comptes bancaires est extrêmement utile à cet égard pour analyser, entre autres, les retraits 
+d’argent liquide et les paiements effectués à diverses entreprises et particuliers. 
+La direction Bruxelles de l’AGIsi réalise également de nombreuses enquêtes bancaires, surtout 
+dans le cadre de la détection de la fraude au domicile. Lorsqu’un contribuable réside dans un pays 
+bénéficiant d’un régime fiscal favorable, mais que l’administration peut prouver, notamment à 
+l’aide de données bancaires, qu’il est établi de manière durable sur le territoire belge, l’intéressé 
+reste soumis à l’impôt des personnes physiques belge et non à l’impôt des non-résidents (ou ne 
+bénéficie pas d’une exonération fiscale totale). Les dossiers de fraude au domicile font souvent 
+l’objet d’une enquête pénale, dans le cadre de laquelle la justice a déjà lancé une enquête bancaire. 
+L’administration fiscale peut alors à son tour utiliser ces données pour mener une enquête ban­
+caire approfondie.
+Nombre de dossiers impliquant une enquête bancaire
+Un dossier d’enquête bancaire est constitué pour chaque contribuable. Un tel dossier comprend 
+en général plusieurs autorisations, en fonction du nombre d’établissements financiers interrogés.
+105	Chiffres jusqu’à la mi-octobre 2024.
+106	Pour les impôts sur les revenus, il s’agit du nombre d’autorisations délivrées pour réaliser une enquête bancaire.
+107	Sur les 145 dossiers pour lesquels la 5e direction a reçu une information de la CTIF en 2023 et 2024, 84 ont déjà conduit à un 
+blocage de comptes bancaires.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 42
+
+---PAGE 44---
+La Cour des comptes a examiné le pourcentage de dossiers dans lesquels l’AGIsi a réalisé une 
+enquête bancaire. Le graphique 6 indique le rapport entre les dossiers ayant impliqué une enquête 
+bancaire et le nombre total de dossiers. 
+Graphique 6 – Pourcentage annuel de dossiers impliquant une enquête bancaire par rapport au nombre 	
+	
+total de dossiers de l’AGIsi 108
+0 %
+5 %
+10 %
+15 %
+2022
+2023
+2024
+2018
+2019
+2020
+2021
+2017
+2016
+2015
+Source : Cour des comptes à partir de données de l’AGIsi
+Alors que le nombre de dossiers impliquant une enquête bancaire était pratiquement nul en 2015, 
+leur part dans le nombre total de dossiers a augmenté constamment jusqu’en 2022. Le type de dos­
+sier détermine en grande partie l’utilité d’une enquête bancaire. Une telle enquête est par exemple 
+très utile dans le cadre d’une fraude au domicile ou d’une taxation indiciaire (voir le point 4.3). 
+Dans d’autres dossiers, elle l’est moins, par exemple lors d’un contrôle de certains postes comp­
+tables d’une société. Les données bancaires d’une société sont en principe reprises sous le poste 
+comptable Liquidités, qu’elle doit justifier à tout moment109. Lorsque la société ne justifie pas les 
+liquidités ou ne coopère pas, une enquête bancaire peut être utile en deuxième instance. Enfin, il 
+se peut également que l’AGIsi ait déjà obtenu les données bancaires grâce à une notification de la 
+CTIF ou du ministère public, ce qui lui évite de devoir réaliser elle-même une enquête bancaire. 
+4.3	
+Indices concrets pour réaliser une enquête bancaire
+Les graphiques 7 et 8 donnent un aperçu des causes les plus fréquentes d’enquête bancaire entre 
+2015 et 2024 : les indices de fraude (pour les impôts sur les revenus) ou les motifs (pour la TVA). 
+Les indices de fraude ou les motifs ont été saisis dans l’application interne de l’AGIsi dans environ 
+60 % des dossiers. Les graphiques ne donnent donc pas une image complète, mais des tendances. 
+Souvent, l’administration fiscale utilise plusieurs indices de fraude ou motifs lorsqu’elle souhaite 
+effectuer une enquête bancaire. Les trois principaux indices en matière d’impôts sur les revenus 
+sont les suivants :
+•	 revenus non déclarés (environ 30 %) ;
+•	 renseignements provenant de l’étranger (environ 20 %) ;
+•	 signes et indices (environ 10 %). 
+108	Les chiffres jusqu’à la mi-octobre 2024. Le graphique indique le nombre de dossiers en cours impliquant une enquête ban­
+caire par rapport au nombre total de dossiers en cours de l’AGIsi.
+109	Article III.86 du code de droit économique en combinaison avec l’article 315, alinéa 1er, du CIR 92 et l’article 61, § 1er, du code 
+de la TVA.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 43
+
+---PAGE 45---
+Les trois principaux motifs en matière de TVA sont les suivants :
+•	 fausses factures (23 %) ;
+•	 déclaration TVA non déposée (12 %) ;
+•	 chiffre d’affaires non déclaré (11 %). 
+La Cour des comptes a également constaté que, dans certains dossiers, la 5e direction réalisait des 
+enquêtes bancaires sur la base de renseignements de la CTIF. 
+Graphique 7 – Indices de fraude fiscale pour entamer des enquêtes bancaires en matière d’impôts 
+	
+sur les revenus110
+0 %
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+Revenus non déclarés
+Renseignements provenant
+de l’étranger
+Signes et indices
+Non-dépôt de déclaration
+Travail au noir
+Non-présentation
+de documents
+Utilisation de comptes
+de passage
+Non-déclaration
+de construction juridique
+Fausses factures
+Blanchiment
+Achats sans facture
+Source : Cour des comptes à partir du fichier des consultations du PCC par l’AGIsi
+110	Le graphique tient uniquement compte des indices qui expliquent 80 % du total des indices. D’autres indices non mention­
+nés sont, par exemple, la fraude au domicile, l’aliénation des fonds d’une société, les renseignements de la CTIF, etc.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 44
+
+---PAGE 46---
+Graphique 8 – Motifs pour entamer des enquêtes bancaires en matière de TVA111
+0 %
+5 %
+10 %
+15 %
+20 %
+25 %
+Fausses factures
+Non-dépôt de déclaration
+Non-déclaration
+du chiﬀre d'aﬀaires
+Factures
+manquantes
+Achats
+sans facture
+Non-présentation
+de la comptabilité
+Non-présentation
+de documents
+Renseignements provenant
+de l’étranger
+Fluctuations inexplicables
+du chiﬀre d’aﬀaires
+Crédits de
+TVA ﬁctifs
+Source : Cour des comptes à partir du fichier des consultations du PCC par l’AGIsi 
+4.4	
+Utilisation de KPI
+Depuis 2023, l’AGIsi utilise un indicateur clé de performance (key performance indicator – KPI) qui 
+mesure, pour chaque année, le ratio entre le nombre de dossiers clôturés112 incluant une enquête 
+bancaire et le nombre total de dossiers clôturés. Il lui permet de mieux évaluer qu’avant 2023, lors­
+qu’elle mesurait le ratio entre le nombre total d’enquêtes bancaires autorisées et le nombre total de 
+dossiers clôturés. À l’époque, le KPI pouvait dépasser 100 % au cours d’une année durant laquelle 
+de nombreuses autorisations avaient été accordées, mais seul un nombre limité de dossiers avaient 
+été clôturés. Une autorisation d’enquête bancaire est en effet requise pour chaque établissement 
+financier et chaque contribuable. Le KPI antérieur à 2023 était donc mesuré de manière erronée, 
+était relativement inutile et ne constituait pas un critère pertinent pour le suivi visé. 
+L’AGIsi a défini une norme de 10 %, mais le choix de ce pourcentage n’est pas clair. La même norme 
+s’applique également à toutes les directions régionales, bien que la Cour des comptes ait constaté 
+que 58 % des enquêtes bancaires sont réalisées par la 5e direction. Celle-ci traite principalement 
+des dossiers liés à la TVA, dans lesquels il est plus rapidement procédé à une enquête bancaire 
+en raison de la procédure moins stricte (voir le point 2.2.2). Jusqu’à présent, l’AGIsi n’a entrepris 
+aucune action lorsque la norme KPI n’était pas atteinte, car le KPI n’était pas mesuré correctement 
+par le passé. La Cour des comptes a constaté qu’en 2023, deux directions régionales n’ont pas 
+atteint la norme KPI de 10 %, tandis que la 5e direction a largement dépassé cette norme. Dans sa 
+111	 Le graphique tient uniquement compte des motifs qui expliquent 80 % du total. D’autres motifs non mentionnés sont, par 
+exemple, la non-déclaration d’acquisitions intracommunautaires et l’utilisation de comptes de passage.
+112	Un dossier compte en général deux volets : TVA et impôts sur les revenus.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 45
+
+---PAGE 47---
+réponse, l’AGIsi précise que le seuil de 10 % est une valeur indicative, qui se base sur les activités 
+observées et sur une évaluation qualitative, et non sur une norme statistique stricte. Ce KPI est 
+conçu comme un outil global et dépendant du contexte : un pourcentage trop élevé peut indiquer 
+une utilisation systématique, tandis qu’un pourcentage trop faible peut présumer une sous-
+utilisation ou une connaissance insuffisante de l’outil.
+Pour un meilleur suivi des consultations du PCC et des enquêtes bancaires, il est utile d’intégrer les 
+applications internes relatives au PCC et aux enquêtes bancaires dans Stirfraude ou, à tout le moins, 
+de les relier entre elles. Il est ainsi possible, par exemple, de vérifier la productivité (voir le point 4.5.1) 
+des enquêtes bancaires ou de mesurer automatiquement le délai de réalisation113. Pour résoudre les 
+problèmes éventuels, il est également possible d’examiner dans quels dossiers plusieurs consultations 
+du PCC ou enquêtes bancaires ont eu lieu, ou si une consultation du PCC a été refusée et pour quelles 
+raisons.
+4.5	
+Résultat des enquêtes bancaires
+4.5.1	
+Productivité
+La productivité114 des dossiers faisant l’objet d’une enquête bancaire (61 %115) est, en général, supé­
+rieure à la productivité totale des dossiers de l’AGIsi (54  %116). Il convient toutefois d’apporter 
+quelques nuances. L’enquête bancaire n’est qu’un des moyens d’enquête dont dispose l’administra­
+tion fiscale pour détecter la fraude fiscale. La productivité des enquêtes bancaires dépend donc du 
+dossier. Ainsi, un dossier dans lequel une enquête bancaire a également été menée peut être pro­
+ductif à la suite d’une visite fiscale et pas tellement du fait de l’enquête bancaire. Ou une enquête 
+bancaire peut ne pas être productive parce que le contribuable utilise d’autres moyens de paiement 
+(espèces, comptes à l’étranger, cryptomonnaies) sans laisser de trace vers un compte bancaire belge.
+En outre, un dossier ayant fait l’objet d’une enquête bancaire peut être lié à un autre dossier dans 
+lequel il y a eu rectification (par exemple, dans le chef du partenaire imposé conjointement ou 
+du dirigeant d’une société). Ou l’enquête bancaire peut révéler que le contribuable est insolvable.
+De plus, la productivité d’une enquête bancaire ne se traduit pas toujours par des recettes fiscales 
+positives. Ainsi, dans le cas des carrousels à la TVA, il importe de mettre fin le plus rapidement 
+possible à la perte pour le Trésor ; il n’est souvent pas possible d’infliger ou de percevoir des impôts 
+(supplémentaires).
+4.5.2	
+Recettes fiscales
+À la demande de la Cour des comptes, l’AGIsi a calculé les résultats des dossiers dans lesquels elle a 
+effectué une enquête bancaire. La Cour note à cet égard que l’année d’établissement des impôts ne 
+coïncide pas nécessairement avec celle de perception ou de recouvrement (ci-après la « perception »). 
+113	 Il s’agit du laps de temps entre la demande de consultation du PCC ou d’enquête bancaire et la clôture du volet dans 
+Stirfraude.
+114	La Cour des comptes a calculé la productivité moyenne par direction de l’AGIsi sur la base des chiffres fournis par celle-ci. 
+115	 Ce pourcentage mesure les dossiers comportant une enquête bancaire et une rectification par rapport à tous les dossiers 
+ayant fait l’objet d’une enquête bancaire entre 2015 et 2024.
+116	Ce pourcentage mesure les dossiers comportant une rectification par rapport à tous les dossiers entre 2015 et 2024. 
+Il englobe les dossiers avec et sans enquête bancaire.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 46
+
+---PAGE 48---
+Le montant établi sera plutôt perçu ultérieurement117, voire ne le sera éventuellement pas118. Par 
+conséquent, il n’y a pratiquement jamais de relation un pour un entre les impôts établis et ceux 
+perçus au cours d’une année donnée.
+Entre 2015 et 2024, les dossiers faisant l’objet d’une enquête bancaire ont permis d’établir des 
+impôts pour un total de 2,3 milliards d’euros119, ce qui représente 12 % de tous les impôts établis 
+par l’AGIsi (18,7 milliards d’euros). Sur ces 2,3 milliards d’euros, 36 millions d’euros ont été perçus 
+jusqu’à présent, soit 1,57 %. 
+Le décalage important entre les impôts établis et perçus s’explique en partie par la mission spéci­
+fique de la 5e direction, qui consiste à lutter contre certains circuits de fraude (principalement la 
+fraude de type carrousel) en bloquant les flux financiers et à éviter d’autres pertes pour le Trésor, 
+par exemple en radiant des numéros de TVA120. À ce moment-là, il est certes mis fin à la fraude, 
+mais il est pratiquement impossible de récupérer les pertes subies121.
+Le tableau 6 présente un aperçu du pourcentage des impôts perçus par rapport à ceux établis. Il 
+distingue la 5e direction des quatre autres directions de l’AGIsi.
+La Cour des comptes recommande d’examiner plus en détail les raisons qui expliquent le montant 
+faible des impôts perçus.
+Tableau 6 – Impôts sur les revenus et TVA établis et perçus (en milliers d’euros)
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Hors 5e direction
+Impôt établi
+3.893
+15.144
+80.118
+17.732
+32.817
+25.538
+19.124
+91.313
+52.178
+24.459
+Impôt perçu
+0
+304
+1.276
+2.722
+5.203
+1.588
+3.076
+11.571
+879
+3.647
+Ratio impôt 
+perçu/établi
+0 %
+2 %
+1,59 % 15,35 % 15,85 %
+6,22 % 16,08 % 12,67 %
+1,68 % 14,91 %
+5e direction
+Impôt établi
+0
+16.892
+24.730 165.353
+78.595 150.783 292.638 450.418 413.507 346.920
+Impôt perçu
+0
+0
+0
+0
+1.471
+409
+908
+1.791
+1.050
+298
+Ratio impôt
+perçu/établi
+_
+0 %
+0 %
+0 %
+1,87 %
+0,27 %
+0,31 %
+0,40 %
+0,2 5%
+0,09 %
+Source : calcul de l’AGIsi
+117	 Par exemple, après avoir conclu un accord avec l’administration, le contribuable ne paie sa dette fiscale que l’année suivant 
+l’établissement de l’impôt, ou ne s’acquitte de sa dette fiscale que des années plus tard, après la phase de contestation ou 
+une décision judiciaire. 
+118	Par exemple, l’administration est déboutée durant la phase de contestation ou par une décision judiciaire.
+119	Il s’agit du total des impôts sur les revenus enrôlés et de la TVA recouvrée de 2015 à octobre 2024. Tous les montants men­
+tionnés dans ce paragraphe concernent les totaux de 2015 à octobre 2024.
+120	L’examen des dossiers a révélé que, dans 3 des 11 dossiers, le numéro de TVA avait été radié d’office.
+121	Cour des comptes, Fraude intracommunautaire à la TVA, rapport à la Chambre des représentants, Bruxelles, mars 2009, 
+69 p., courdescomptes.be.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 47
+
+---PAGE 49---
+Chapitre 5
+Conclusion et recommandations
+5.1	
+Conclusion
+L’accès aux données bancaires d’un contribuable est essentiel à la lutte contre la fraude fiscale. 
+La Cour des comptes a examiné si l’AGIsi utilise la banque de données PCC et les données ban­
+caires de manière efficiente et a constaté des difficultés et des limites. La Cour a aussi vérifié si 
+l’utilisation de données bancaires est suivie et évaluée.
+5.1.1	
+Utilisation du PCC
+Exhaustivité 
+L’exhaustivité de la banque de données PCC n’est pas garantie jusqu’à présent. Si les comptes 
+nationaux et les comptes de crypto-actifs (à partir de 2026) sont communiqués automatiquement 
+au PCC par les établissements financiers belges, ce n’est pas le cas des comptes étrangers ni des 
+comptes de crypto-actifs, que le contribuable doit communiquer lui-même. L’absence de décla­
+ration ne pose en général pas de problème à l’administration fiscale, à condition qu’elle dispose des 
+informations via l’échange automatique d’informations au niveau international (données NCD). 
+Par contre, la non-exhaustivité du PCC en pose un aux organismes publics qui n’ont pas accès aux 
+données NCD (comme la CTIF, la police ou la justice). Pour le moment, le cadre juridique interna­
+tional ne permet pas d’intégrer les données NCD directement dans le PCC.
+L’émergence de néobanques et de divers prestataires de services de paiement constitue un risque 
+supplémentaire, tout comme les IBAN virtuels et les comptes de crypto-actifs. Ces évolutions 
+relativement récentes compliquent l’identification d’un contribuable ainsi que le traçage et 
+l’analyse de mouvements financiers par l’administration fiscale. La directive DAC 8 relative aux 
+crypto-actifs répond en partie à ces évolutions.
+Il n’existe pas d’instruments de contrôle systématique de l’exhaustivité du PCC, de sorte que les 
+lacunes de cette banque de données sont, pour l’instant, uniquement découvertes lors de contrôles 
+occasionnels. La tâche de contrôle de l’AGTrés pourrait dès lors être étendue. 
+Datamining dans le PCC
+Le datamining ou l’analyse de risques était, jusqu’à récemment, impossible concernant la banque 
+de données PCC en raison du caractère strict de la procédure et de l’existence obligatoire d’indices 
+de fraude spécifiques. Les informations du PCC ne pouvaient dès lors pas être exploitées pleine­
+ment dans le cadre de la lutte contre la fraude. La loi du 18 décembre 2025 portant des dispositions 
+diverses donne effet à l'engagement pris dans le cadre de l’accord de coalition fédérale visant à 
+appliquer le datamining au PCC. Toutefois, lors de l’enquête menée dans le cadre de l’audit, de 
+nombreux répondants ont indiqué que les informations contenues dans le PCC étaient insuffi­
+santes à cet effet. Afin d’optimaliser le datamining, il peut être examiné s’il est juridiquement possible 
+d’étendre le PCC à certaines données. Une consultation stratifiée du PCC peut, à cette occasion, être 
+rendue possible en fonction de la personne habilitée à recevoir l’information. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 48
+
+---PAGE 50---
+5.1.2	
+Problèmes au niveau de la procédure fiscale
+Harmonisation des procédures d’enquête bancaire et de consultation du PCC
+Une procédure stricte par étapes régit l’enquête bancaire en matière d’impôts sur les revenus. 
+Les règles légales sont plus souples pour les consultations du PCC, mais une circulaire admi­
+nistrative impose malgré tout l’envoi d’une demande de renseignements préalable au contri­
+buable. La Cour des comptes a constaté que, dans la pratique, il n’existe qu’une seule possibilité 
+de contrôler l’exactitude et l’exhaustivité des numéros de comptes bancaires communiqués par le 
+contribuable, qui est celle de consulter le PCC a posteriori. La Cour remet donc en question l’utilité 
+et la nécessité de la demande de renseignements préalable dans le cadre d’une consultation du 
+PCC. Si une demande de renseignements préalable est malgré tout maintenue, il conviendrait de 
+prévoir expressément dans la loi la possibilité d’une consultation du PCC a posteriori. 
+La Cour des comptes a également constaté que les informations relatives aux comptes bancaires 
+étrangers étaient mises directement à la disposition de l’administration grâce à l’échange auto­
+matique de données bancaires fiscales, ce qui n’est pas le cas pour les informations relatives aux 
+comptes bancaires nationaux. Un assouplissement de la procédure de consultation du PCC per­
+mettrait de créer une équité de traitement entre les comptes bancaires nationaux et étrangers.
+Il n’existe pas de condition d’épuisement stricte pour une enquête bancaire en matière de TVA, 
+de sorte qu’elle se déroule souvent plus rapidement et de manière plus efficiente. Des conditions 
+strictes s’appliquent toutefois à la consultation du PCC, comme une demande de renseignements 
+préalable et l’existence d’indices de fraude. La loi n’exige pas de consulter la banque de données 
+PCC avant de réaliser une enquête bancaire, alors que ce serait plus efficient. L’examen des dos­
+siers montre dès lors que la banque de données PCC est bien moins consultée dans les dossiers de 
+TVA que dans les dossiers d’impôts sur les revenus. 
+Les documents parlementaires ne contiennent pas de ratio legis justifiant la différence de procédure 
+entre une enquête bancaire en matière de TVA et en matière d’impôts sur les revenus. Il n’en existe 
+pas davantage pour distinguer une consultation du PCC et une enquête bancaire dans les matières 
+de TVA pure. Dans la pratique, de nombreuses investigations fiscales sont d’ailleurs polyvalentes : 
+elles portent tant sur les impôts sur les revenus que sur la TVA. La différence de procédure entraîne 
+donc une insécurité juridique et empêche de lutter comme il se doit contre la fraude. Ni la loi 
+ni la jurisprudence n’offre visiblement d’éléments suffisants pour déterminer le fondement juri­
+dique exact d’une enquête bancaire légitime dans le cadre d’investigations polyvalentes. L’enquête 
+de la Cour des comptes, menée dans le cadre de cet audit, révèle que la plupart des participants 
+appliquent le principe de prudence dans de telles investigations polyvalentes et utilisent donc la 
+procédure la plus stricte ou les deux procédures pour éviter d’être déboutés par le juge par la suite.
+L’examen des dossiers montre que les agents contrôleurs respectent globalement bien les règles 
+de procédure. La Cour des comptes a néanmoins constaté des erreurs de procédure dans 10 % 
+des dossiers examinés, qui portaient toutes sur les impôts sur les revenus. Ce constat confirme la 
+nécessité de simplifier les règles de procédure et de les harmoniser.
+La procédure par étapes prévue pour une enquête bancaire en matière d’impôts sur les revenus est 
+chronophage, moins efficiente et permet parfois même au contribuable d’organiser son insolvabi­
+lité. L’examen de seize dossiers en matière d’impôts sur les revenus a ainsi montré que le délai de 
+réalisation d’une enquête bancaire est de 205 jours en moyenne, avec des pics de 306 et 420 jours.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 49
+
+---PAGE 51---
+Comptes avec procuration 
+Réaliser une enquête bancaire en matière d’impôts sur les revenus n’est possible que pour les 
+comptes dont le contribuable est (co)titulaire et non pour les comptes sur lesquels il a seulement 
+procuration. En faisant ouvrir un compte par un prête-nom et en agissant uniquement comme 
+mandataire sur ce compte, un fraudeur peut limiter la capacité d’action de l’administration fiscale, 
+puisqu’elle ne pourra réaliser une enquête bancaire qu’à l’égard du prête-nom titulaire du compte.
+5.1.3	
+Optimalisation des contrôles lors de l’utilisation de données bancaires
+Absence de type de fichier standard
+Aucun type de fichier standard n’existe actuellement pour l’échange de données bancaires, de 
+sorte que les établissements financiers et les contribuables envoient les données demandées dans 
+différents formats. Ces formats entravent le traitement efficient des données bancaires. Développer 
+un type de fichier commun pour les données bancaires pourrait résoudre le problème. 
+Utilisation d’un fichier d’audit bancaire
+Lorsque les données bancaires fournies sont trop volumineuses pour y effectuer des recherches 
+manuelles, les cellules d’e-audit peuvent, à la demande de l’agent contrôleur, les convertir en 
+fichier d’audit bancaire (bank audit file – BAF). Un BAF fournit un relevé de comptes électronique 
+de toutes les opérations bancaires qui permet aux agents contrôleurs de détecter des anomalies 
+qui, autrement, ne seraient jamais mises au jour. Les premiers BAF ont été créés en 2020 et leur 
+nombre n’a cessé d’augmenter chaque année depuis lors. La capacité d’action de l’administration 
+fiscale s’en voit renforcée, surtout en combinaison avec l’utilisation d’un Belgian Standard Audit 
+File (BSAF). 
+Outils d’analyse et clignotants
+Les outils d’analyse permettent de reconnaître des schémas dans les BAF. La 5e direction entend 
+mettre au point à l’avenir un modèle prédictif permettant de détecter automatiquement les 
+comptes hawala et les carrousels à la TVA. Des investissements supplémentaires en matériel 
+informatique sont nécessaires à cette fin. L’exploitation des données bancaires et l’utilisation d’ou­
+tils d’analyse peuvent encore être améliorées en renforçant la collaboration et le partage des 
+connaissances entre les cellules d’e-audit de l’AGIsi et de l’AGFisc et d’autres services publics 
+nationaux et internationaux partenaires de la lutte contre la fraude fiscale, comme la CTIF et 
+l’Olaf.
+Applications internes
+Les deux applications internes que l’administration utilise pour suivre les consultations du PCC 
+et les enquêtes bancaires devraient être liées ou intégrées à l’application Stirfraude. Cela per­
+mettrait un meilleur suivi des dossiers dans lesquels des données bancaires sont utilisées. Cela 
+donnerait aussi un aperçu des délais de réalisation et de la productivité. 
+5.1.4	
+Évaluation de l’utilisation des données bancaires
+Une évaluation technique et juridique globale de l’utilisation des données bancaires, telle que 
+prescrite par la loi, n’a plus été effectuée depuis 2018. Le rapport annuel du SPF Finances men­
+tionne uniquement le nombre d’autorisations délivrées pour réaliser une enquête bancaire.
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 50
+
+---PAGE 52---
+Sur la base des chiffres et fichiers de l’AGIsi, la Cour des comptes a dressé un relevé du nombre 
+d’autorisations et de dossiers liés à des enquêtes bancaires, de consultations du PCC et des princi­
+paux indices de fraude pouvant justifier une enquête bancaire. 
+En 2024, l’AGIsi a autorisé 700 enquêtes bancaires, en grande partie pour la 5e direction, compé­
+tente pour lutter contre les carrousels à la TVA. En collaboration avec la CTIF et le parquet fédéral, 
+elle lutte contre les réseaux de fraude brésiliens, connus pour blanchir des fonds issus de diverses 
+activités criminelles. Pour cartographier le patrimoine criminel, il est indispensable de pouvoir 
+consulter les comptes bancaires. Par ailleurs, la direction Bruxelles représente également une 
+grande partie des autorisations accordées pour réaliser des enquêtes bancaires, principalement en 
+vue de lutter contre la fraude au domicile.
+La Cour des comptes a constaté qu’à l’AGIsi, l’évaluation des enquêtes bancaires se limite princi­
+palement à calculer un indicateur clé de performance (key performance indicator – KPI). Chaque 
+direction doit recourir chaque année à une enquête bancaire dans au moins 10 % de tous les 
+dossiers. La Cour des comptes observe qu’en 2023, deux directions n’ont pas respecté cette norme 
+KPI, tandis que la 5e direction l’a largement dépassée. Aucune information ne permet de justifier 
+le choix de cette norme indicative de 10 %. Aucune action n’est par ailleurs menée lorsqu’une 
+direction ne respecte pas cette norme.
+Entre 2015 et 2024, sur 2,3 milliards d’euros d’impôts établis, seuls 36 millions d’euros ont été 
+effectivement perçus. Le faible taux de perception s’explique principalement par l’accent mis 
+sur une approche préventive, en particulier à la 5e direction. Les taxations de cette direction repré­
+sentent environ 80 % de l’ensemble des impositions et des prélèvements de TVA. Bien que leur 
+perception soit très limitée, elles importent pour prévenir la fraude fiscale grave. 
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 51
+
+---PAGE 53---
+5.2	
+Recommandations
+Thèmes
+Recommandations
+Destinataires
+Voir points
+Législation
+1 
+Renforcer la tâche de contrôle de l’AGTrés à 
+l’égard du PCC, notamment en l’autorisant à 
+utiliser l’analyse statistique de la BNB ; examiner 
+quels sont les besoins supplémentaires de 
+l’AGTrés
+Compléter le PCC, notamment en y 
+reprenant des données sur les néobanques, 
+les prestataires de services de paiement, les 
+IBAN virtuels ainsi que les numéros de registre 
+national et d’entreprise
+Législateur/ 
+SPF Finances
+2.1.2
+2
+Sensibiliser les agents compétents du 
+SPF Finances à la nécessité de signaler à 
+l’AGTrés les données erronées ou manquantes 
+qu’ils constatent dans le PCC 
+SPF Finances
+2.1.2
+3
+Examiner s’il est juridiquement possible 
+d’étendre davantage le PCC afin d’optimaliser 
+le datamining et d’accroître l’efficience des 
+contrôles fiscaux ; prévoir éventuellement une 
+consultation stratifiée du PCC en fonction de la 
+personne habilitée à recevoir l’information
+Législateur/ 
+SPF Finances
+2.1.3
+4
+Harmoniser et simplifier les procédures de 
+consultation du PCC et d’enquête bancaire en 
+matière d’impôts sur les revenus et de TVA
+Prévoir un cadre juridique procédural clair pour 
+les investigations polyvalentes
+Législateur
+2.2.4
+5
+Examiner si les conditions de consultation du 
+PCC peuvent être assouplies, par analogie avec 
+celles applicables à une enquête bancaire ; 
+mettre ainsi fin à la différence injustifiée entre 
+les comptes bancaires nationaux et étrangers
+Examiner l’utilité et la nécessité d’une 
+demande de renseignements préalable en cas 
+de consultation du PCC en matière de TVA ; 
+supprimer, dans la circulaire, la demande de 
+renseignements préalable obligatoire en cas de 
+consultation du PCC en matière d’impôts sur les 
+revenus
+Législateur/ 
+SPF Finances
+2.2.4
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 52
+
+---PAGE 54---
+Thèmes
+Recommandations
+Destinataires
+Voir points
+Législation
+6
+Résoudre au moins les imprécisions légales 
+existantes :
+•	 harmoniser les motifs de la consultation du 
+PCC et de l’enquête bancaire
+•	 prévoir expressément dans la loi la possibi­
+lité de consulter le PCC, y compris après la 
+réponse du contribuable à une demande de 
+renseignements
+•	 examiner si la non-communication de comptes 
+ou données bancaires peut être insérée dans 
+la loi comme indice automatique de fraude 
+fiscale
+Législateur/ 
+SPF Finances
+2.2.4
+7
+Assouplir la procédure d’enquête bancaire 
+pour les comptes sur lesquels le contribuable a 
+procuration
+Législateur
+2.2.4
+8
+Examiner s’il est utile de communiquer les 
+comptes étrangers avec procuration au PCC
+Législateur
+2.2.4
+9
+Prévoir la possibilité de déléguer la consultation 
+du PCC à l’agent qui traite le dossier après 
+approbation (par le conseiller général)
+Législateur
+2.2.4
+Contrôle
+10
+Examiner la possibilité d’instaurer un type de 
+fichier uniforme pour l’échange de données 
+bancaires demandées entre les établissements 
+financiers, via la législation ou un accord avec le 
+secteur financier
+Législateur/ 
+SPF Finances
+3.1
+11
+Examiner s’il est possible pour l’administration 
+fiscale de demander directement des données 
+bancaires aux établissements financiers, à 
+condition que le contribuable donne son accord 
+explicite
+Législateur 
+3.1
+12
+Optimaliser l’utilisation du fichier d’audit 
+bancaire (bank audit file – BAF), si possible 
+en combinaison avec le Belgian Standard 
+Audit File (BSAF) ; organiser des formations 
+supplémentaires sur l’utilisation du BAF en 
+combinaison avec le BSAF
+SPF Finances
+3.1
+13
+Examiner si des moyens supplémentaires et un 
+soutien TIC (notamment pour la 5e direction) 
+sont nécessaires pour améliorer l’analyse 
+automatique des comptes bancaires
+SPF Finances 
+3.1
+14
+Pour les e-audits, miser sur la poursuite de la 
+collaboration et du partage des connaissances 
+entre les directions de l’AGIsi, les autres 
+administrations du SPF Finances et les services 
+publics nationaux et internationaux partenaires 
+de la lutte contre la fraude fiscale (CTIF, 
+SPF Économie, Olaf, police, etc.)
+SPF Finances/ 
+SPF Justice/ 
+SPF Économie/ 
+SPF Intérieur
+3.1
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 53
+
+---PAGE 55---
+Thèmes
+Recommandations
+Destinataires
+Voir points
+Contrôle
+15
+Envisager de renforcer la politique de sanctions 
+à l’égard des contribuables et établissements 
+financiers qui ne collaborent pas ou pas 
+pleinement
+Législateur 
+3.2
+16
+Examiner la possibilité d’intégrer 
+les applications internes relatives au PCC et aux 
+enquêtes bancaires dans Stirfraude, ou lier les 
+applications entre elles
+Rendre les applications internes plus 
+conviviales, en mettant l’accent sur l’application 
+relative aux enquêtes bancaires
+SPF Finances
+3.3
+Évaluation
+17
+Veiller à un meilleur suivi sur la base de critères 
+d’évaluation adaptés
+SPF Finances
+4.4
+18
+Examiner les problèmes qui donnent lieu à une 
+faible perception d’impôts dans les dossiers 
+faisant l’objet d’une enquête bancaire
+SPF Finances
+4.5
+UTILISATION DE DONNÉES BANCAIRES PAR L’INSPECTION SPÉCIALE DES IMPÔTS / 54
+
+---PAGE 56---
+Ce rapport est disponible uniquement en version électronique, 
+en français et en néerlandais, sur courdescomptes.be.
+dépôt légal
+D/2026/1128/08
+photo de couverture
+Shutterstock
+adresse
+Cour des comptes
+Rue de la Régence 2
+1000 Bruxelles
+tél.
++32 2 551 81 11
+courdescomptes.be

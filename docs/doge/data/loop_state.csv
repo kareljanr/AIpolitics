@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T03:30:00Z,rq_804,813,no,tick813 VMSW JR 12.38bn/11.6bn loans FS3 1bn dual WAL FOI; next rq_805 residual dual L5/local; progress@820 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T04:00:00Z,rq_805,814,no,tick814 CoA ISI bank 2.3bn/36m 1.57pct dual SECAL FOI; next rq_806 residual dual L5/local; progress@820 in 6; rq_116 deferred
