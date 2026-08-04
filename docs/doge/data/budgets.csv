@@ -17172,3 +17172,39 @@ bud_prov_bw_provisions_ye2025,province_brabant_wallon,2025,16017904,,,stock,src_
 bud_prov_bw_entities_sub_2026,province_brabant_wallon,2026,10000000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,31 entites consolidees subventions total 10.0m; tick827
 bud_prov_bw_loth_info_div_2026,province_brabant_wallon,2026,200000,,,budgeted,src_ccrek_2026_11_brabant_wallon_budget_2026,strong,Dividende SC Loth-Info 0.2m; tick827
 bud_dual_prov_bw_wal_quartet_tick827,gg_belgium,2026,202312581,,,synthesis,src_dual_prov_bw_wal_quartet_tick827,strong,Dual BW 202m vs Hainaut 878 / Liege 564 / Namur 240 ordinary; not TE-additive; tick827
+bud_prov_lux_ord_rec_ep_2026,province_luxembourg,2026,135214912,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Budget ordinaire EP recettes BI2026 135.215m; tick828
+bud_prov_lux_ord_dep_ep_2026,province_luxembourg,2026,134300069,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Budget ordinaire EP depenses BI2026 134.300m; solde +0.915m; tick828
+bud_prov_lux_ord_rec_global_2026,province_luxembourg,2026,136249116,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Budget ordinaire global recettes 136.249m; tick828
+bud_prov_lux_ord_dep_global_2026,province_luxembourg,2026,134561852,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Budget ordinaire global depenses 134.562m; solde +1.687m; tick828
+bud_prov_lux_personnel_2026,province_luxembourg,2026,79241880,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Depenses personnel EP 79.242m (59.1pct class); tick828
+bud_prov_lux_subv_traitements_2026,province_luxembourg,2026,6700000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Subventions-traitements 6.7m (not ring-fenced articles CoA rec); tick828
+bud_prov_lux_fonctionnement_2026,province_luxembourg,2026,12610774,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Fonctionnement EP 12.611m; tick828
+bud_prov_lux_transferts_2026,province_luxembourg,2026,32321658,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Transferts EP 32.322m; tick828
+bud_prov_lux_provisions_const_2026,province_luxembourg,2026,620000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Constitution provisions GSM pylone tax risk 0.620m; tick828
+bud_prov_lux_dette_service_2026,province_luxembourg,2026,9505757,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Service dette ordinaire 9.506m (amort 7.326 + interets 1.821); tick828
+bud_prov_lux_impots_taxes_2026,province_luxembourg,2026,76368825,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Impots et taxes 76.369m; tick828
+bud_prov_lux_pri_additionnels_2026,province_luxembourg,2026,74400000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Centimes additionnels PRI Region est 74.4m; tick828
+bud_prov_lux_taxes_propres_2026,province_luxembourg,2026,1900000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Taxes provinciales propres 1.9m (incl GSM pylones 0.6m); tick828
+bud_prov_lux_gsm_tax_2026,province_luxembourg,2026,600000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Taxe mats/pylones/antennes GSM 0.6m (disputed Tax on Pylon III); tick828
+bud_prov_lux_fonds_provinces_2026,province_luxembourg,2026,14300000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Fonds des provinces 14.3m (tutelle 5 Sep 2025); tick828
+bud_prov_lux_compens_wal_2026,province_luxembourg,2026,3900000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Compensations regionales 3.9m (PRI 1.1 + Natura 0.4 + Marshall 0.5 + complement 2.0); tick828
+bud_prov_lux_prestations_2026,province_luxembourg,2026,5927928,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Recettes prestations 5.928m; tick828
+bud_prov_lux_zs_18m_2026,province_luxembourg,2026,18000000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Zones de secours total 18.0m (securite civile 16.0 + complement 2.0); tick828
+bud_prov_lux_zs_path_2030,province_luxembourg,2030,28800000,,,commitment,src_ccrek_2026_15_luxembourg_budget_2026,strong,Trajectoire ZS Luxembourg 2030 28.8m (CoA figure from 4.8m 2020); tick828
+bud_prov_lux_zs_soutien_reg_2026,province_luxembourg,2026,1300000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Soutien regional ZS recettes 1.3m; tick828
+bud_prov_lux_amu_zs_2026,province_luxembourg,2026,2100000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Contribution ZS prestations AMU 2.1m; tick828
+bud_prov_lux_pension_budget_2026,province_luxembourg,2026,14902841,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Cotisations pensions budgetees 14.903m (SFP total 18.0m shortfall 3.1m Ethias); tick828
+bud_prov_lux_pension_sfp_total_2026,province_luxembourg,2026,17956500,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,SFP solid+resp total est 17.957m; tick828
+bud_prov_lux_pension_debudget_2026,province_luxembourg,2026,3053659,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Debudgetisation pensions via Ethias ~3.054m; tick828
+bud_prov_lux_debt_stock_2026,province_luxembourg,2026,37930452,,,stock,src_ccrek_2026_15_luxembourg_budget_2026,strong,Encours dette 01/01/2026 37.930m (province 37.027 + subsidie 0.903); tick828
+bud_prov_lux_debt_amort_2026,province_luxembourg,2026,7326052,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Charges amortissements 7.326m; tick828
+bud_prov_lux_emprunt_new_2026,province_luxembourg,2026,5862455,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Nouvelles autorisations emprunt EP 2026 5.862m; tick828
+bud_prov_lux_extraord_invest_2026,province_luxembourg,2026,9374396,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Investissements extraordinaires 9.374m; tick828
+bud_prov_lux_extraord_dep_global_2026,province_luxembourg,2026,13345396,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Extraordinaire global depenses 13.345m; tick828
+bud_prov_lux_arlon_culture_roof_2026,province_luxembourg,2026,2800000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Toiture Maison culture Arlon 2.8m (conditional city cofinance; no proof CoA); tick828
+bud_prov_lux_asset_sales_2026,province_luxembourg,2026,2400500,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Ventes patrimoine 2.401m (Ethe/Marche/Arlon sante/bureaux); tick828
+bud_prov_lux_reserves_prov_ye2025,province_luxembourg,2025,68144429,,,stock,src_ccrek_2026_15_luxembourg_budget_2026,strong,Fonds reserves+provisions YE2025 68.144m; tick828
+bud_prov_lux_provisions_ye2025,province_luxembourg,2025,37687707,,,stock,src_ccrek_2026_15_luxembourg_budget_2026,strong,Provisions fonctionnement 37.688m YE2025; tick828
+bud_prov_lux_entities_sub_2026,province_luxembourg,2026,4300000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Entites consolidees subventions total 4.3m; tick828
+bud_prov_lux_credits_reserve_2026,province_luxembourg,2026,575000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Credits de reserve cavaliers 0.575m; tick828
+bud_dual_prov_lux_wal_quintet_tick828,gg_belgium,2026,136249116,,,synthesis,src_dual_prov_lux_wal_quintet_tick828,strong,Dual Lux 136m vs Hainaut 878 / Liege 564 / Namur 240 / BW 202 ordinary; not TE-additive; tick828

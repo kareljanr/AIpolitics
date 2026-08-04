@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T10:30:00Z,rq_818,827,no,tick827 CoA Prov BW BI2026 202m personnel137 ZS16 debt68pct dual WAL quartet FOI; next rq_819 residual dual L5/local/CoA (Lux/VL/city); progress@830 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T11:00:00Z,rq_819,828,no,tick828 CoA Prov Lux BI2026 136m personnel79 ZS18 Ethias3.1 dual WAL quintet complete FOI; next rq_820 residual dual L5/local/CoA (VL/city); progress@830 in 2; rq_116 deferred

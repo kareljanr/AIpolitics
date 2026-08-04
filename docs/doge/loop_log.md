@@ -10107,3 +10107,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +6; sources +2; entity province_brabant_wallon; FOI **gap_prov_bw_zs_debt_aviq_l5** prio7 ready + draft; raw PDF+txt; rq_818=done; spawn **rq_819**; ticks=827
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_819** residual dual L5/local/CoA (Lux/VL/city); deferred **rq_116**; progress@830 in 3
+
+## Tick 828 — 2026-08-05T11:00:00Z
+
+- Unit: **rq_819** (FOI-adjacent residual dual — **CoA Province de Luxembourg BI2026** + WAL provincial quintet dual)
+- Found (strong primary CoA 2026_15, 28p, chambre FR 19 Nov 2025):
+  - Ordinaire EP: rec **€135.2m** · dep **€134.3m** · solde **+€0.9m**
+  - Ordinaire global: rec **€136.2m** · dep **€134.6m** · solde **+€1.7m**
+  - Personnel **€79.2m** (subv-trait **€6.7m** not ring-fenced) · fonctionnement **€12.6m** · transferts **€32.3m**
+  - PRI **€74.4m** · impôts/taxes **€76.4m** · fonds provinces **€14.3m** · compens **€3.9m**
+  - ZS: **€18.0m** (sécurité **€16.0m** + complément **€2.0m**) · path **€4.8m**(2020)→**€28.8m**(2030)
+  - Pensions: budget **€14.9m** vs SFP **€18.0m** · Ethias shortfall **€3.1m** · fund rate **55.5%** masse
+  - GSM pylône tax **€0.6m** + matching provision (Tax on Pylon III disputed)
+  - Dette service **€9.5m** · encours **€37.9m** · ratio volume **12.5%** (lowest WAL) · new loans **€5.9m**
+  - Extraord invest **€9.4m** · Arlon culture roof **€2.8m** (city cofinance unproven) · asset sales **€2.4m**
+  - Reserves+prov YE2025 **€68.1m** · entities **€4.3m** · **25** contrats gestion
+- Dual: Hainaut **€878m** / Liège **€564m** / Namur **€240m** / BW **€202m** (ticks 824-827) — not TE-additive
+- **WAL 5-province BI2026 primary map complete** (Hainaut+Liège+Namur+BW+Luxembourg)
+- Wrote: budgets +36; commitments +4; leaderboard +6; sources +2; entity province_luxembourg; FOI **gap_prov_lux_zs_ethias_gsm_l5** prio7 ready + draft; raw PDF+txt; rq_819=done; spawn **rq_820**; ticks=828
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_820** residual dual L5/local/CoA (VL provinces/city); deferred **rq_116**; progress@830 in 2
