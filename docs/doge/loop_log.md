@@ -10031,3 +10031,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45; commitments +4; leaderboard +6; sources +2; FOI **gap_sofico_pkpl_pimpt_luwa_l5** prio7 ready + draft; raw PDF+txt; rq_814=done; spawn **rq_815**; ticks=823
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_815** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 7
+
+## Tick 824 — 2026-08-05T09:00:00Z
+
+- Unit: **rq_815** (FOI-adjacent residual dual — **CoA Province de Liège BI2026** + city Liège dual)
+- Found (strong primary CoA 2026_12, 26p, chambre FR 4 Nov 2025):
+  - Ordinaire EP: rec **€558.3m** · dep **€532.0m** · solde **+€26.3m**
+  - Ordinaire global: rec **€563.6m** · dep **€563.6m** · solde **+€23k**
+  - Personnel **€397.5m** (70.6%) · fonctionnement **€52.0m** · transferts **€66.3m** · dette **€16.3m**
+  - PRI additionnels **€258.5m** · fonds provinces **€40.1m** · compens WAL **€6.1m** · Enodia div **€7.2m**
+  - ZS: **€44.4m** + complément **€5.8m** + DG **€1.2m** · path **€15.1m**(2020)→**€89.9m**(2030) · gradual **€5.1m** pending
+  - Pensions: solidarité **€29.7m** (SFP shortfall **€1.0m**) · responsabilisation **€26.1m**
+  - Dette encours **€127.4m** · ratio volume **27.2%** · charges fin **2.8%**
+  - Extraord EP dep **€42.4m** (invest **€33.8m** · CHR Huy **€5.0m**) · prélèvement ord→extra **€30.8m**
+  - Réserves YE2025 **€255.4m** · YE2026 est **€250.1m** · Enodia exceptional 2024 **€90.3m**
+  - Opacity: **51** contrats gestion sans eval en session · **28** entités consolidées sans justification
+- Dual: prior city Liège ~**€700m** class residual (not TE-additive)
+- Wrote: budgets +41; commitments +4; leaderboard +6; sources +2; entity province_liege; FOI **gap_prov_liege_zs_entities_l5** prio7 ready + draft; raw PDF+txt; rq_815=done; spawn **rq_816**; ticks=824
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_816** residual dual L5/local/CoA; deferred **rq_116**; progress@830 in 6

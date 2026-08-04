@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T08:30:00Z,rq_814,823,no,tick823 SOFICO YE2025 3.02bn sales503 net112 LUWA591m dual AWV FOI; next rq_815 residual dual L5/local/CoA; progress@830 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T09:00:00Z,rq_815,824,no,tick824 CoA Prov Liege BI2026 564m personnel397 ZS51 path90 dual city FOI; next rq_816 residual dual L5/local/CoA; progress@830 in 6; rq_116 deferred

@@ -17012,3 +17012,44 @@ bud_sofico_terrains_acq_2025,sofico,2025,245773562,,,outturn,src_sofico_comptes_
 bud_sofico_luwa_ppp_commit,sofico,2039,590460718,,,commitment,src_sofico_comptes_ye2025,strong,PPP LUWA Plan Lumiere engagement total to 14/02/2039 590.461m; tick823
 bud_sofico_luwa_annual_2025,sofico,2025,30271217,,,outturn,src_sofico_comptes_ye2025,strong,LUWA PPP SBD annual charge 30.271m 2025 (29.486m 2024); tick823
 bud_dual_sofico_awv_tick823,gg_belgium,2025,3016660912,,,synthesis,src_dual_sofico_awv_tick823,strong,Dual SOFICO 3.017bn assets vs AWV/VL road residual; not TE-additive; tick823
+bud_prov_liege_ord_rec_ep_2026,province_liege,2026,558302176,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Budget ordinaire exercice propre recettes BI2026 558.302m; tick824
+bud_prov_liege_ord_dep_ep_2026,province_liege,2026,532013959,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Budget ordinaire EP depenses BI2026 532.014m; solde +26.288m; tick824
+bud_prov_liege_ord_solde_ep_2026,province_liege,2026,26288217,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Solde ordinaire EP BI2026 +26.288m; tick824
+bud_prov_liege_ord_rec_global_2026,province_liege,2026,563596928,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Budget ordinaire exercice global recettes 563.597m; tick824
+bud_prov_liege_ord_dep_global_2026,province_liege,2026,563573959,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Budget ordinaire global depenses 563.574m; solde +23k; tick824
+bud_prov_liege_personnel_2026,province_liege,2026,397475385,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Depenses personnel EP 397.475m (70.6pct of EP dep); tick824
+bud_prov_liege_fonctionnement_2026,province_liege,2026,52022047,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Depenses fonctionnement EP 52.022m (9.3pct); tick824
+bud_prov_liege_transferts_2026,province_liege,2026,66253437,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Depenses transferts EP 66.253m (11.8pct); tick824
+bud_prov_liege_dette_service_2026,province_liege,2026,16263090,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Service de la dette ordinaire 16.263m (amort 12.206 + interets 3.946); tick824
+bud_prov_liege_prelev_extraord_2026,province_liege,2026,30760000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Prelevements ordinaire vers extraordinaire 30.760m; tick824
+bud_prov_liege_pri_additionnels_2026,province_liege,2026,258500000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Centimes additionnels precompte immobilier 258.5m (Region est 264.8m -2.4pct prudence); tick824
+bud_prov_liege_fonds_provinces_2026,province_liege,2026,40100000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Dotation fonds des provinces 40.1m (tutelle 5 Sep 2025); tick824
+bud_prov_liege_compens_wal_2026,province_liege,2026,6100000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Compensations regionales 6.1m (PRI forfait 4.3 + Marshall 1.6 + Natura 0.125); tick824
+bud_prov_liege_transferts_resid_rec_2026,province_liege,2026,58200000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Recettes transferts residuelles 58.2m (UE/fed/FWB/WAL + ZS complement); tick824
+bud_prov_liege_prestations_2026,province_liege,2026,16900000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Recettes prestations 16.9m; tick824
+bud_prov_liege_enodia_div_2026,province_liege,2026,7200000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Dividende Enodia SC 7.2m (ex 2024 communication 28 Aug 2025); tick824
+bud_prov_liege_taxes_propres_2026,province_liege,2026,732000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Taxes provinciales propres 0.732m; tick824
+bud_prov_liege_pension_solid_2026,province_liege,2026,29669595,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Cotisation solidarite pensions budgetee 29.670m (SFP est 30.707m shortfall 1.037m); tick824
+bud_prov_liege_pension_resp_2026,province_liege,2026,26076000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Cotisation responsabilisation pensions 2026 26.076m (100pct SFP); tick824
+bud_prov_liege_pension_masse_2026,province_liege,2026,81884000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Masse salariale agents nommes base SFP 81.884m; tick824
+bud_prov_liege_zs_44_4m_2026,province_liege,2026,44400000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Zones de secours intervention circulaire 17/01/2025 44.4m; tick824
+bud_prov_liege_zs_complement_5_8m_2026,province_liege,2026,5800000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Budget complementaire RW zones de secours 5.8m (decret programme 18/12/2024); tick824
+bud_prov_liege_zs_dg_1_2m_2026,province_liege,2026,1200000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Zone secours Communaute germanophone 1.2m; tick824
+bud_prov_liege_zs_path_2030,province_liege,2030,89900000,,,commitment,src_ccrek_2026_12_liege_budget_2026,strong,Trajectoire ZS province Liege 2030 89.9m (CoA figure from WAL path); tick824
+bud_prov_liege_zs_gradual_pending_2026,province_liege,2026,5100000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Intervention graduelle ZS 2026 5.1m not yet booked (pending MB); tick824
+bud_prov_liege_debt_stock_2026,province_liege,2026,127434149,,,stock,src_ccrek_2026_12_liege_budget_2026,strong,Encours dette estimee 01/01/2026 127.434m (emprunts 78.567 + billets 48.867); tick824
+bud_prov_liege_debt_amort_2026,province_liege,2026,12205530,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Charges amortissements dette 12.206m BI2026; tick824
+bud_prov_liege_debt_interest_2026,province_liege,2026,3946310,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Charges interets dette 3.946m BI2026; tick824
+bud_prov_liege_extraord_dep_ep_2026,province_liege,2026,42365502,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Budget extraordinaire EP depenses 42.366m; tick824
+bud_prov_liege_extraord_invest_2026,province_liege,2026,33785501,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Investissements extraordinaires 33.786m (79.8pct EP extraord); tick824
+bud_prov_liege_extraord_transferts_2026,province_liege,2026,3580001,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Transferts investissement extraord 3.580m (dont 1.9m supracommunaux); tick824
+bud_prov_liege_chr_huy_5m_2026,province_liege,2026,5000000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Acquisition participations CHR Huy 5.0m (dette extraord); tick824
+bud_prov_liege_extraord_global_dep_2026,province_liege,2026,68140305,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Extraordinaire global depenses 68.140m (incl report EA 25.750m); tick824
+bud_prov_liege_emprunt_ep_2026,province_liege,2026,10990000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Emprunts EP moyens financement extraord 11.0m; tick824
+bud_prov_liege_reserves_ye2025,province_liege,2025,255409987,,,stock,src_ccrek_2026_12_liege_budget_2026,strong,Fonds reserves+provisions estime 31/12/2025 255.410m; tick824
+bud_prov_liege_reserves_ye2026,province_liege,2026,250149987,,,stock,src_ccrek_2026_12_liege_budget_2026,strong,Fonds reserves estime YE2026 250.150m after 5.26m use; tick824
+bud_prov_liege_fonds_roulement_2026,province_liege,2026,30000000,,,stock,src_ccrek_2026_12_liege_budget_2026,strong,Fonds de roulement 30.0m; tick824
+bud_prov_liege_credits_reserve_2026,province_liege,2026,1900000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Credits de reserves cavaliers 1.9m (was 3.75m BI2025); tick824
+bud_prov_liege_enodia_div_exceptional_2024,province_liege,2024,90300000,,,outturn,src_ccrek_2026_12_liege_budget_2026,strong,Dividende exceptionnel Enodia 90.3m 2024 (cession Nethys/VOO class); tick824
+bud_prov_liege_tourisme_asbl_reprise_2026,province_liege,2026,816000,,,budgeted,src_ccrek_2026_12_liege_budget_2026,strong,Reprise ASBL Federation tourisme dissolution +0.816m fonctionnement; tick824
+bud_dual_prov_liege_city_tick824,gg_belgium,2026,563596928,,,synthesis,src_dual_prov_liege_local_tick824,strong,Dual Prov Liege ordinaire 563.6m vs city Liege residual; not TE-additive; tick824
