@@ -9614,3 +9614,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +9; commitments +5; leaderboard +5; sources +2; FOI **gap_energie_etf10_phoenix_l5** prio8 ready; raw PDF; rq_787=done; spawn **rq_788**; ticks=796
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_788** residual KMO024/local; deferred **rq_116**; progress@800 in 4
+
+## Tick 797 — 2026-08-04T19:30:00Z
+
+- Unit: **rq_788** (FOI-adjacent residual — **Kamer DOC 56 1282/024 Beleidsnota KMO/PME**, 43p)
+- Found (primary 56K1282024):
+  - VAT franchise **€25k → €30k by 2030** (+€1k/yr): budget impact **€1.48m** 2026 · **€2.63m** 2027 · **€4.03m** 2028 · **€7.02m** 2029 (**sum €15.16m**)
+  - Annual accounts filing fee cut small cos/ASBL **€3.571m** from 2026 (Cost Reduction Law envelope)
+  - Central SME federal-benefits info service **€550k** (budget conclave)
+  - SKF dual: BE **€1.659bn** 2026–2032 · federal **13.13% = €218m** · cofin **€72m** · **1/3 ≈ €24m** vulnerable microenterprises
+  - Dual Klima 1282/026 (217m/72m rounding)
+- Wrote: budgets +12; commitments +5; leaderboard +6; sources +2; FOI **gap_kmo_vat_franchise_skf_l5** prio8 ready; raw PDF; rq_788=done; spawn **rq_789**; ticks=797
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_789** residual local/CoA; deferred **rq_116**; progress@800 in 3

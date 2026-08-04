@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-04T19:00:00Z,rq_787,796,no,tick796 Energie041 ETF call9 16.97m call10 residual Phoenix FOI; next rq_788 KMO024/local residual; progress@800 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-04T19:30:00Z,rq_788,797,no,tick797 KMO024 VAT franchise 15.16m accounts 3.571 SKF micro24 FOI; next rq_789 local/CoA residual; progress@800 in 3; rq_116 deferred
