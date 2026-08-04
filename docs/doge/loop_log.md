@@ -9463,3 +9463,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +14; commitments +6; leaderboard +8; sources +2; FOI **gap_pens_wijninckx_statut_l5** prio9 ready; raw PDF; rq_776=done; spawn **rq_777**; ticks=785
 - FOI: ready only — **do not send**
 - Next: rq_777 residual dual/L5; progress@790 in 5; rq_116 deferred
+
+## Tick 786 — 2026-08-04T14:00:00Z
+
+- Unit: **rq_777** (FOI-adjacent residual — **Kamer DOC 56 1282/004 Beleidsnota Economie**)
+- Found (primary 56K1282004):
+  - FPB path 2026: growth **1.1%**, **+38k** jobs, employment **72.6%**, inflation **~1.4%**
+  - **MAKE2025-2030** industrial plan (Jun 2025 launch; € envelope Unknown)
+  - Procurement reform: simplified threshold **€50k** (indexable); direct award **€15k**
+  - Life insurance max rate **3.75%** 2026 (abolish ceiling planned)
+  - CSRD ~**40** BE wave-1 firms; Omnibus EU scope **5.1–7.8k**; CS3D **5k FTE / €1.5bn** turnover
+  - Kansspelcommissie transfer Justice → Economy
+- Wrote: budgets +9; commitments +6; leaderboard +8; sources +2; FOI **gap_economie_make_procurement_l5** prio7 ready; raw PDF; rq_777=done; spawn **rq_778**; ticks=786
+- FOI: ready only — **do not send**
+- Next: rq_778 residual dual/L5 (Defensie/Asiel/Mobiliteit/local); progress@790 in 4; rq_116 deferred
