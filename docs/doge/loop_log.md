@@ -9530,3 +9530,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_780=done; spawn **rq_782**; loop_state ticks=790
 - FOI: none new this tick
 - Next: prio5 **rq_782** residual dual/L5; deferred **rq_116**; progress@800 in 10
+
+## Tick 791 — 2026-08-04T16:30:00Z
+
+- Unit: **rq_782** (FOI-adjacent residual — **Kamer DOC 56 1282/026 Beleidsnota Klimaat**, 50p)
+- Found (primary 56K1282026):
+  - BE **Plan social climat / Sociaal klimaatplan €2.21bn** 2026–2032 (**€1.66bn** CSF 75% + **€0.55bn** BE cofin 25%)
+  - Overlegcomité 6 Oct 2025: federal **13.13% = €217m** of EU SKF share
+  - Federal cofinancing **~€72m** 2026–2032 (budget conclave 2026 notifications)
+  - NEH/NEAP pilot **€600k** hospital single-use reduction (call Sep 2025)
+  - Dual prior tick698 VL SKF 958.8m + BE EU 1656.3m (rounding vs 1.66bn)
+- Wrote: budgets +8; commitments +5; leaderboard +5; sources +2; FOI **gap_fed_skf_cofin_l5** prio8 ready; raw PDF; rq_782=done; spawn **rq_783**; ticks=791
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_783** residual Asiel038/local; deferred **rq_116**; progress@800 in 9
+
