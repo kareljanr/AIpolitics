@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T05:00:00Z,rq_807,816,no,tick816 WAL ExpGen BI2026 21.3bn SEC-2.02bn debt30.3bn dual FWB FOI; next rq_808 residual dual L5/local; progress@820 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T05:30:00Z,rq_808,817,no,tick817 WAL L5 cabinets28 tourisme66 commerce77 encours6.83bn dual FWB FOI; next rq_809 residual dual L5/local; progress@820 in 3; rq_116 deferred

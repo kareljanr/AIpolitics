@@ -16829,3 +16829,29 @@ bud_wal_feder_374_wal_share,wallonie_gov,2025,428000000,,,commitment,src_wal_exp
 bud_wal_structural_funds_3bn_class,wallonie_gov,2027,3000000000,,,commitment,src_wal_expgen_bi2026,medium,Structural funds envelope >3bn cofinanced 2021-2027 (EU+WAL+FWB+COCOF+benef); class; tick816
 bud_wal_rrf_repower_rec_2026,wallonie_gov,2026,834382000,,,budgeted,src_wal_expgen_bi2026,strong,RRF and Repower recettes 834.382m BI2026 (vs 1029.6m 2025); tick816
 bud_dual_wal_fwb_sec_tick816,gg_belgium,2026,-2015736000,,,synthesis,src_dual_wal_fwb_bi2026_tick816,strong,Dual WAL SEC -2015.736m vs FWB residual; not TE-additive; tick816
+bud_wal_ce_total_bi2026,wallonie_gov,2026,21176400000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,TableII/III note CE total 21176400 kEUR BI2026; tick817
+bud_wal_cl_total_bi2026,wallonie_gov,2026,21335748000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,CL total 21335748 kEUR matches depenses BI2026; tick817
+bud_wal_ce_cl_diff_bi2026,wallonie_gov,2026,-159348000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,CE-CL differential -159.348m (liquidations honor past eng); tick817
+bud_wal_cabinets_ce_bi2026,wallonie_gov,2026,28043000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,DO02 cabinets subsistence CE BI2026ini 28043 kEUR; tick817
+bud_wal_parlement_ce_bi2026,wallonie_gov,2026,76254000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,Parlement wallon dotation CE 76254 kEUR; tick817
+bud_wal_mediateur_ce_bi2026,wallonie_gov,2026,1891000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,Mediateur RW CE 1891 kEUR; tick817
+bud_wal_cwape_ce_bi2026,wallonie_gov,2026,9259000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,NEW CWaPE dotation CE 9259 kEUR 2026; tick817
+bud_wal_do01_ce_bi2026,wallonie_gov,2026,87404000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,DO01 total CE 87404 kEUR (parlement+mediateur+CWaPE); tick817
+bud_wal_tourisme_ce_bi2026,wallonie_gov,2026,65632000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,Programme 09.018 Tourisme CE 65632 kEUR BI2026ini; tick817
+bud_wal_commerce_ext_ce_bi2026,wallonie_gov,2026,76843000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,09.020 Commerce exterieur et investisseurs CE 76843 kEUR; tick817
+bud_wal_relations_ext_ce_bi2026,wallonie_gov,2026,30098000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,09.019 Relations exterieures CE 30098 kEUR; tick817
+bud_wal_do09_ce_bi2026,wallonie_gov,2026,211195000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,DO09 total CE 211195 kEUR (gov services non-DO); tick817
+bud_wal_cese_ce_bi2026,wallonie_gov,2026,7858000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,CESE Wallonie CE 7858 kEUR; tick817
+bud_wal_iweps_ce_bi2026,wallonie_gov,2026,7727000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,IWEPS CE 7727 kEUR; tick817
+bud_wal_ceseffb_ce_bi2026,wallonie_gov,2026,8889000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,CeSEFFB new/modified CE 8889 kEUR; tick817
+bud_wal_e_wbs_ce_bi2026,wallonie_gov,2026,1250000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,e-Wallonie-Bruxelles-Simplification CE 1250 kEUR (down from ~4.5m 2025); tick817
+bud_wal_presidence_chanc_ce_bi2026,wallonie_gov,2026,11833000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,10.023 Presidence et Chancellerie CE 11833 kEUR; tick817
+bud_wal_dev_durable_ce_bi2026,wallonie_gov,2026,13255000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,10.085 Developpement durable CE 13255 kEUR; tick817
+bud_wal_prw_frr_ce_bi2026,wallonie_gov,2026,41000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,10.122 PRW+FRR CE collapsed to 41 kEUR 2026ini (from 713.5m 2025ini); tick817
+bud_wal_debt_garanties_ce_bi2026,wallonie_debt,2026,1317296000,,,budgeted,src_wal_expgen_bi2026_l5_tables,strong,19.036 Dettes et garanties CE ~1317.296m class (TableII); dual interest 1102m; tick817
+bud_wal_encours_eng_20251111,wallonie_gov,2025,6832697000,,,outturn,src_wal_expgen_bi2026_l5_tables,strong,Encours engagements 6832.697m at 11.11.2025 TableIV; tick817
+bud_wal_encours_eng_2024,wallonie_gov,2024,7075721000,,,outturn,src_wal_expgen_bi2026_l5_tables,strong,Encours engagements YE2024 7075.721m; tick817
+bud_wal_encours_eng_2023,wallonie_gov,2023,6839625000,,,outturn,src_wal_expgen_bi2026_l5_tables,strong,Encours engagements YE2023 6839.625m; tick817
+bud_wal_postal_market_review_class,wallonie_gov,2026,7500000,,,estimate,src_wal_expgen_bi2026_l5_tables,medium,Spending review: SPW postal market ~7.5m TVAC/yr; tick817
+bud_wal_tourisme_encours_202511,wallonie_gov,2025,18828000,,,outturn,src_wal_expgen_bi2026_l5_tables,strong,Tourisme encours eng 18828 kEUR at 11.11.2025; tick817
+bud_dual_wal_cabinets_tick817,gg_belgium,2026,28043000,,,synthesis,src_dual_wal_fwb_cabinets_tick817,strong,Dual WAL cabinets 28.043m vs FWB residual; not TE-additive; tick817

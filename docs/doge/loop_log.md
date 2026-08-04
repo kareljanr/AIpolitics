@@ -9920,3 +9920,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +27; commitments +4; leaderboard +5; sources +2; FOI **gap_wal_bi2026_l5_matrix** prio8 ready + draft; p1-40 extract; rq_807=done; spawn **rq_808**; ticks=816
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_808** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 4
+
+## Tick 817 — 2026-08-05T05:30:00Z
+
+- Unit: **rq_808** (FOI-adjacent residual dual — **WAL ExpGen BI2026 Table II/III/IV L5** + FWB cabinets dual)
+- Found (strong primary ExpGen residual after tick816 totals):
+  - **Cabinets DO02 CE €28.043m** · Tourisme **€65.632m** · Commerce ext **€76.843m** · CWaPE **€9.259m**
+  - DO01 **€87.404m** · DO09 **€211.195m** · Relations ext **€30.098m** · CeSEFFB **€8.889m**
+  - CE total **€21,176.4m** · CL **€21,335.7m** · **CE−CL −€159.3m** (liquidate past eng)
+  - Encours eng **€6,832.7m** (11.11.2025) vs **€7,075.7m** YE2024 · **€6,839.6m** YE2023
+  - Dettes/garanties prog CE ~**€1,317m** class · PRW/FRR CE collapse **€41k** (from €713.5m 2025ini)
+  - Spending review: postal market ~**€7.5m** TVAC/yr · AVIQ · SOFICO/SPAQuE/SOWAER achats
+- Dual: FWB cabinets ~**€16.8m** prior (not TE-additive)
+- Wrote: budgets +26; commitments +4; leaderboard +6; sources +2; FOI **gap_wal_forem_aviq_sofico_l5** ready + update gap_wal_bi2026_l5_matrix; extract dep pages; rq_808=done; spawn **rq_809**; ticks=817
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_809** residual dual L5/local/CoA; deferred **rq_116**; progress@820 in 3
