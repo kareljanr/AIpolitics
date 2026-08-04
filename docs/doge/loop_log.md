@@ -9503,3 +9503,16 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +8; commitments +5; leaderboard +6; sources +2; FOI **gap_rail_rer_overrun_l5** prio9 ready; raw PDF; rq_779=done; spawn **rq_780 PROGRESS@790** + rq_781; ticks=788
 - FOI: ready only — **do not send**
 - Next: hole-fill residual or progress after +2; progress@790 in 2; rq_116 deferred
+
+## Tick 789 — 2026-08-04T15:30:00Z
+
+- Unit: **rq_781** (FOI-adjacent residual — **Kamer DOC 56 1282/017 Beleidsnota Justitie**, 87p)
+- Found (primary 56K1282017):
+  - **Hefboomplan €21m** magistrates/clerks (186+1053 vacancies)
+  - Courts Brussels/appeals **€6.4m**; fiscal/social fraud stack **€7.2m** + financial prosecutor
+  - Victims commission **€1m** + Childfocus legal subsidy (amount Unknown)
+  - Prison surpop recurrent **€50m** 2026 dual; infra package **€600m** dual; 2025 one-off Justice share **€24.9m** of 55m
+  - Staff safety **€4m** 2025; internees/returns **€5m+€5m**/yr; Regie **€5m**; nationality fee **€1000**
+- Wrote: budgets +11; commitments +5; leaderboard +7; sources +2; FOI **gap_just_hefboom_childfocus_l5** prio8 ready; raw PDF; rq_781=done; ticks=789
+- FOI: ready only — **do not send**
+- Next: **rq_780 MANDATORY progress@790**; rq_116 deferred
