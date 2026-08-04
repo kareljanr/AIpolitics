@@ -9641,3 +9641,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +10; commitments +7; leaderboard +6; sources +2; FOI **gap_fin_vat_demo_sfpim_defence_l5** prio9 ready; raw PDF; rq_789=done; spawn **rq_790**; ticks=798
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_790** residual Beliris020/Regie029; deferred **rq_116**; progress@800 in 2
+
+## Tick 799 — 2026-08-04T20:30:00Z
+
+- Unit: **rq_790** (FOI-adjacent residual — **Kamer DOC 56 1282/020 Beleidsnota Beliris**, 9p)
+- Found (primary 56K1282020):
+  - Budget 2026: imposed **save €25m** on Beliris **metro** credits (delays)
+  - Metro3 **Gare du Nord** works **suspended since 17 Mar 2023**; recurrent costs Unknown
+  - Site cleanup/palisades SM Progrès **€126k** excl VAT (6 Jun 2025); monthly clean ongoing
+  - Surveys **€180k** excl VAT CoA-recommended — **no STIB/BCR agreement** yet
+  - Schuman **canopy ≥€13m** — **not ordered** after BCR refused budgets Feb 2025
+  - Dual prior Metro3 class **€3.44bn** / Beliris financed **€464m** EOY2024
+- Wrote: budgets +6; commitments +5; leaderboard +5; sources +2; FOI **gap_beliris_metro3_save25_l5** prio9 ready; raw PDF; rq_790=done; spawn **rq_791 PROGRESS@800** + rq_792; ticks=799
+- FOI: ready only — **do not send**
+- Next: **rq_791 MANDATORY progress@800**; deferred **rq_116**
