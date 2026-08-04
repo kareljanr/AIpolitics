@@ -10469,3 +10469,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_850=done; next **rq_841**; loop_state ticks=850
 - FOI: none new this tick
 - Next: prio5 **rq_841** residual dual L5 (Roeselare/Lier/VUB/skeyes); deferred **rq_116**; progress@860 in 10
+
+## Tick 851 - 2026-08-05T22:30:00Z
+
+- Unit: **rq_841** (FOI-adjacent residual dual - **Stad+OCMW Ieper Jaarrekening 2025** + Tongeren-Borgloon dual)
+- Found (strong primary BBC JR2025 187p, published 30.06.2026):
+  - Assets **EUR333.5m** · equity **EUR287.5m** · debt total **EUR45.9m** · fin debt **EUR23.9m** (LT **EUR21.4m** · ST due **EUR2.5m**)
+  - Cash **EUR74.2m** (very high) · onbeschikbaar **EUR27.2m** · pension **EUR4.6m** · cap subs **EUR30.3m** · FVA IGS **EUR43.4m**
+  - Exploitatie: ontvangsten **EUR87.3m** · uitgaven **EUR70.0m** · saldo **+EUR17.3m**
+  - AFM **+EUR16.0m** (gecorr **+EUR16.7m**) · BBR **EUR42.6m** · budget result **+EUR2.8m** · P&L **+EUR8.8m**
+  - Personnel **EUR35.6m** · toelagen **EUR11.6m** (police **EUR3.8m** · fire **EUR2.1m** · AGB **EUR3.3m**) · OCMW aid **EUR6.5m** · fiscal **EUR36.4m**
+  - Invest **EUR14.1m** · new loans **EUR4.3m** · gemeentefonds **EUR17.0m**
+- Dual: Tongeren-Borgloon fusion **EUR410m** / fin debt **EUR51m** / AFM **+EUR7.6m** (tick849) - not TE-additive
+- Wrote: budgets +36; commitments +4; leaderboard +7; sources +2; entity city_ieper; FOI **gap_ieper_onbeschikbaar_debt_subs_l5** prio7 ready + draft; raw PDF+extract; rq_841=done; spawn **rq_842**; ticks=851
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_842** residual dual L5 (Roeselare/Landen/Lier/VUB/skeyes); deferred **rq_116**; progress@860 in 9

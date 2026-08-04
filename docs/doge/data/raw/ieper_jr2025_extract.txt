@@ -1,0 +1,28 @@
+Ieper Stad+OCMW Jaarrekening 2025 — extract tick851
+Source: https://www.ieper.be/stad-ocmw
+PDF: https://www.ieper.be/file/download/70166264-87b7-4b3a-aa42-bd566a8fb6f2/... (7.3MB, 187p)
+Published 30.06.2026 · dossier 29.06.2026
+KSZ Stad 0207.484.681 / OCMW 0211.104.959 · NIS 33011
+AD Stefan Depraetere · FD Stefan Deboutte · Grote Markt 34 / Ter Waarde 1 8900
+
+J2: Expl +17.296.106 (rec 87.263.339 / exp 69.967.233)
+Invest -9.610.928 (rec 4.531.392 / exp 14.142.319)
+Fin -4.927.335 (rec 6.224.640 / exp 11.151.975)
+BR +2.757.843 · gecum 69.776.229 · onbeschikbaar 27.205.745 · BBR 42.570.483
+AFM +15.958.538 · gecorr AFM +16.685.801
+AG Vauban BBR 189.225 · Musea Ieper 254.090 · consol BBR 43.013.798
+
+J4 YE2025/2024:
+ACTIVA 333.459.904 / 318.953.916
+Kas 74.209.857 (very high) · FVA 47.495.593 (IGS 43.392.229) · MVA 176.763.326
+Schulden 45.927.747 · nettoactief 287.532.157
+Pensioen LT 4.621.237 · fin LT 21.411.866 · ST due 2.495.224
+T4 fin debt total 23.907.089 · new loans 4.302.892
+
+J5: Kosten 80.342.150 (bezold 35.632.733 · toelagen 11.628.809 · OCMW aid 6.457.148)
+Opbrengsten 89.114.793 (fiscal 36.386.368 · werk-subs 36.119.739) · resultaat +8.772.642
+
+T2: politie 3.769.720 · brand 2.127.432 · AGB 3.336.050 · gemeentefonds 17.041.641
+
+Dual: Tongeren-Borgloon fusion assets 410m / fin debt 51m / AFM +7.6m (tick849) — not TE-additive
+Notable: onbeschikbare gelden 27.2m class residual FOI (cash locked vs BBR)

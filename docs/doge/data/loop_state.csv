@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T22:00:00Z,rq_850,850,no,tick850 progress coverage % + waste top10; next rq_841 residual dual L5; progress@860 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T22:30:00Z,rq_841,851,no,tick851 Ieper JR2025 dual TB; FOI gap_ieper_onbeschikbaar_debt_subs_l5; next rq_842 residual dual L5; progress@860 in 9; rq_116 deferred
