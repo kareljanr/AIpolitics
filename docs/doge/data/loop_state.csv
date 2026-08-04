@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T18:00:00Z,rq_832,842,no,tick842 Oostende JR2025 dual Leuven; FOI gap_oostende_debt_pension_subs_l5; next rq_833 residual dual L5; progress@850 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T18:30:00Z,rq_833,843,no,tick843 SN JR2025 dual Oostende; FOI gap_sn_debt_pension_subs_l5; next rq_834 residual dual L5; progress@850 in 7; rq_116 deferred

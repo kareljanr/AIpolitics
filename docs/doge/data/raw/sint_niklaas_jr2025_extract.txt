@@ -1,0 +1,39 @@
+Sint-Niklaas Stad+OCMW Jaarrekening 2025 — extract tick843
+Source: https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/beleid/jaarrekening
+PDF: https://www.sint-niklaas.be/sites/portaal/files/2026-06/bundel_jaarrekening_2025_stad_en_ocmw.pdf
+Local: docs/doge/data/raw/sint_niklaas_jaarrekening_2025.pdf (181p, 4.6MB)
+Publication: 29-06-2026 · JR dossier 21/05/2026
+Perimeter: consolidatie Stad + OCMW Sint-Niklaas (BBC)
+KSZ Stad 0207.464.192 / OCMW 0212.171.860
+AD Johan Verhulst · FD Bart Foubert · Grote Markt 1 9100
+
+J2 FINANCIEEL EVENWICHT (p64):
+- Expl saldo +15.764.178 (rec 216.793.045 / exp 201.028.866)
+- Invest -52.047.257 (rec 8.004.252 / exp 60.051.510)
+- Fin +32.614.791 (rec 47.999.898 / exp 15.385.106)
+- BR boekjaar -3.668.288 · gecum 19.315.032 · onbeschikbaar 1.994.719 · BBR 17.320.313
+- AFM +2.325.066 · gecorr AFM +680.546
+- Netto periodieke aflossingen 13.439.112 (afl 14.708.347 - terugvord 1.269.235)
+
+J4 BALANS (p69-70) YE2025 / YE2024:
+ACTIVA 646.684.373 / 622.584.812
+- Vlottend 46.973.395 (kas 11.669.541 · KT vord 32.993.624)
+- Vast 599.710.978 (FVA 68.255.114 w.o. IGS 57.024.841 · MVA 524.406.935 · IVA 999.262)
+PASSIVA 646.684.373
+- Schulden 303.627.782 (KT 52.328.699 · LT 251.299.083)
+  - LT pensioenvoorz. 30.416.000 · LT fin 220.879.443 · ST due 15.274.470 · ST fin 1.012
+- Nettoactief 343.056.591 (kap-subs 102.865.254 · gecum tekort -359.809 · herwaard 34.158.249 · overig 206.392.898)
+T4 fin debt total YE2025: 236.154.925 (was 204.410.834)
+
+J5 KOSTEN/OPBRENGSTEN (p72):
+- Kosten 230.022.086 (bezold 96.465.455 · toelagen 44.087.333 · OCMW aid 26.121.008 · G&D 27.324.502 · fin 5.681.170)
+- Opbrengsten 229.787.438 (fiscal 73.797.629 · werk-subs 118.209.770 · werking 18.081.926 · fin opbr 15.711.877)
+- Resultaat -234.648 (was -12.338.182)
+
+T2 (p81-84) 2025:
+- Bezold 96.571.843 (politiek 1.881.528 · vast 31.736.632 · niet-vast 45.246.220 · onderwijs derden 13.099.384 · pens 749.553)
+- Toelagen 44.390.254 (politie 12.917.830 · brand 7.504.902 · welzijn 9.682.871 · IGS 6.437.312 · andere 7.445.919)
+- Gemeentefonds 57.300.333 · fiscal T2 74.755.371
+- Nieuwe leningen 46.730.663 (banken 45.000.000)
+
+Dual: Oostende assets 642.3m / fin debt 249m / AFM -5.3m / personnel 129m (tick842) — not TE-additive

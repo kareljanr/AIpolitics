@@ -10349,3 +10349,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_oostende; FOI **gap_oostende_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_832=done; spawn **rq_833**; ticks=842
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_833** residual dual L5 (Roeselare/Sint-Niklaas/VUB machine-readable/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 8
+
+## Tick 843 - 2026-08-05T18:30:00Z
+
+- Unit: **rq_833** (FOI-adjacent residual dual - **Stad+OCMW Sint-Niklaas Jaarrekening 2025** + Oostende dual)
+- Found (strong primary BBC JR2025 181p, published 29.06.2026):
+  - Assets **EUR646.7m** · equity/nettoactief **EUR343.1m** · debt total **EUR303.6m** · fin debt **EUR236.2m** (LT **EUR220.9m** · ST due **EUR15.3m**; +31.7m YoY)
+  - Pension provisions **EUR30.4m** · cash **EUR11.7m** · cap subs **EUR102.9m** · FVA **EUR68.3m** (IGS **EUR57.0m**)
+  - Exploitatie: ontvangsten **EUR216.8m** · uitgaven **EUR201.0m** · saldo **+EUR15.8m**
+  - AFM **+EUR2.3m** (gecorr **+EUR0.68m**) · BBR **EUR17.3m** · budget result **-EUR3.7m** · P&L **-EUR0.2m**
+  - Personnel **EUR96.5m** · toelagen **EUR44.1m** (police **EUR12.9m** · fire **EUR7.5m** · welzijn **EUR9.7m**) · OCMW aid **EUR26.1m** · fiscal **EUR73.8m**
+  - Invest **EUR60.1m** · new loans **EUR46.7m** (banks **EUR45m**) · gemeentefonds **EUR57.3m**
+- Dual: Oostende **EUR642m** assets / fin debt **EUR249m** / AFM **-EUR5.3m** / personnel **EUR129m** (tick842) - not TE-additive
+- Wrote: budgets +36; commitments +4; leaderboard +7; sources +2; entity city_sint_niklaas; FOI **gap_sn_debt_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_833=done; spawn **rq_834**; ticks=843
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_834** residual dual L5 (Roeselare/VUB machine-readable/BELNET AR2025/skeyes); deferred **rq_116**; progress@850 in 7

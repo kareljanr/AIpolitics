@@ -17594,3 +17594,39 @@ bud_oostende_gemeentefonds_2025,city_oostende,2025,58452139,,,outturn,src_oosten
 bud_oostende_fin_costs_2025,city_oostende,2025,7554554,,,outturn,src_oostende_jr2025,strong,J5 financiele kosten 7.555m; tick842
 bud_oostende_ocmw_cover_2025,city_oostende,2025,20451043,,,outturn,src_oostende_jr2025,strong,Tussenkomst stad in OCMW-tekort 20.451m; tick842
 bud_oostende_debt_per_capita_2025,city_oostende,2025,3454,,,outturn,src_oostende_jr2025,strong,Openstaande schuld per inwoner 3454 EUR (~72k inw); tick842
+bud_sn_assets_2025,city_sint_niklaas,2025,646684373,,,outturn,src_sint_niklaas_jr2025,strong,Consol stad+OCMW total assets YE2025 646.684m; tick843
+bud_sn_equity_2025,city_sint_niklaas,2025,343056591,,,outturn,src_sint_niklaas_jr2025,strong,Nettoactief YE2025 343.057m; tick843
+bud_sn_debt_total_2025,city_sint_niklaas,2025,303627782,,,outturn,src_sint_niklaas_jr2025,strong,Total schulden YE2025 303.628m; tick843
+bud_sn_fin_debt_2025,city_sint_niklaas,2025,236154925,,,outturn,src_sint_niklaas_jr2025,strong,Financiele schulden total T4 YE2025 236.155m (LT 220.879 + ST due 15.274 + ST 0.001); tick843
+bud_sn_fin_debt_lt_2025,city_sint_niklaas,2025,220879443,,,outturn,src_sint_niklaas_jr2025,strong,Financiele schulden LT YE2025 220.879m; tick843
+bud_sn_fin_debt_st_due_2025,city_sint_niklaas,2025,15274470,,,outturn,src_sint_niklaas_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 15.274m; tick843
+bud_sn_pension_prov_2025,city_sint_niklaas,2025,30416000,,,outturn,src_sint_niklaas_jr2025,strong,Pensioenvoorzieningen LT YE2025 30.416m; tick843
+bud_sn_cash_2025,city_sint_niklaas,2025,11669541,,,outturn,src_sint_niklaas_jr2025,strong,Liquide middelen YE2025 11.670m; tick843
+bud_sn_cap_subs_2025,city_sint_niklaas,2025,102865254,,,outturn,src_sint_niklaas_jr2025,strong,Kapitaalsubsidies YE2025 102.865m; tick843
+bud_sn_fva_total_2025,city_sint_niklaas,2025,68255114,,,outturn,src_sint_niklaas_jr2025,strong,Financiele vaste activa YE2025 68.255m; tick843
+bud_sn_fva_igs_2025,city_sint_niklaas,2025,57024841,,,outturn,src_sint_niklaas_jr2025,strong,Fin VA IGS YE2025 57.025m; tick843
+bud_sn_mva_2025,city_sint_niklaas,2025,524406935,,,outturn,src_sint_niklaas_jr2025,strong,Materiele vaste activa YE2025 524.407m; tick843
+bud_sn_expl_rec_2025,city_sint_niklaas,2025,216793045,,,outturn,src_sint_niklaas_jr2025,strong,Exploitatieontvangsten 216.793m; tick843
+bud_sn_expl_exp_2025,city_sint_niklaas,2025,201028866,,,outturn,src_sint_niklaas_jr2025,strong,Exploitatieuitgaven 201.029m; tick843
+bud_sn_expl_saldo_2025,city_sint_niklaas,2025,15764178,,,outturn,src_sint_niklaas_jr2025,strong,Exploitatiesaldo +15.764m; tick843
+bud_sn_invest_exp_2025,city_sint_niklaas,2025,60051510,,,outturn,src_sint_niklaas_jr2025,strong,Investeringsuitgaven J2 60.052m; tick843
+bud_sn_invest_rec_2025,city_sint_niklaas,2025,8004252,,,outturn,src_sint_niklaas_jr2025,strong,Investeringsontvangsten J2 8.004m; tick843
+bud_sn_invest_saldo_2025,city_sint_niklaas,2025,-52047257,,,outturn,src_sint_niklaas_jr2025,strong,Investeringssaldo -52.047m; tick843
+bud_sn_fin_rec_2025,city_sint_niklaas,2025,47999898,,,outturn,src_sint_niklaas_jr2025,strong,Financieringsontvangsten 48.000m; tick843
+bud_sn_fin_exp_2025,city_sint_niklaas,2025,15385106,,,outturn,src_sint_niklaas_jr2025,strong,Financieringsuitgaven 15.385m; tick843
+bud_sn_new_loans_2025,city_sint_niklaas,2025,46730663,,,outturn,src_sint_niklaas_jr2025,strong,Nieuwe leningen 46.731m (banken 45.0m + andere 1.73m); tick843
+bud_sn_aflossingen_2025,city_sint_niklaas,2025,14708347,,,outturn,src_sint_niklaas_jr2025,strong,Periodieke aflossingen 14.708m; tick843
+bud_sn_afm_2025,city_sint_niklaas,2025,2325066,,,outturn,src_sint_niklaas_jr2025,strong,AFM +2.325m; tick843
+bud_sn_afm_corr_2025,city_sint_niklaas,2025,680546,,,outturn,src_sint_niklaas_jr2025,strong,Gecorrigeerde AFM +0.681m; tick843
+bud_sn_bbr_2025,city_sint_niklaas,2025,17320313,,,outturn,src_sint_niklaas_jr2025,strong,BBR 17.320m after onbeschikbaar 1.995m; tick843
+bud_sn_budget_result_2025,city_sint_niklaas,2025,-3668288,,,outturn,src_sint_niklaas_jr2025,strong,Budgettair resultaat boekjaar -3.668m; tick843
+bud_sn_cum_br_2025,city_sint_niklaas,2025,19315032,,,outturn,src_sint_niklaas_jr2025,strong,Gecumuleerd budgettair resultaat 19.315m; tick843
+bud_sn_pnl_result_2025,city_sint_niklaas,2025,-234648,,,outturn,src_sint_niklaas_jr2025,strong,Vennootschapsresultaat J5 -0.235m (was -12.338m); tick843
+bud_sn_personnel_2025,city_sint_niklaas,2025,96465455,,,outturn,src_sint_niklaas_jr2025,strong,J5 bezoldigingen 96.465m (T2 96.572m incl onderwijs derden 13.099m); tick843
+bud_sn_toelagen_2025,city_sint_niklaas,2025,44087333,,,outturn,src_sint_niklaas_jr2025,strong,J5 toegestane werkingssubsidies 44.087m (T2 44.390m; politie 12.918 fire 7.505); tick843
+bud_sn_ocmw_aid_2025,city_sint_niklaas,2025,26121008,,,outturn,src_sint_niklaas_jr2025,strong,OCMW individuele hulp 26.121m; tick843
+bud_sn_fiscal_2025,city_sint_niklaas,2025,73797629,,,outturn,src_sint_niklaas_jr2025,strong,J5 fiscale opbrengsten en boetes 73.798m; tick843
+bud_sn_werk_subs_rec_2025,city_sint_niklaas,2025,118209770,,,outturn,src_sint_niklaas_jr2025,strong,J5 werkingssubsidies ontvangen 118.210m; tick843
+bud_sn_gemeentefonds_2025,city_sint_niklaas,2025,57300333,,,outturn,src_sint_niklaas_jr2025,strong,Gemeentefonds 57.300m; tick843
+bud_sn_fin_costs_2025,city_sint_niklaas,2025,5681170,,,outturn,src_sint_niklaas_jr2025,strong,J5 financiele kosten 5.681m; tick843
+bud_sn_invest_subs_granted_2025,city_sint_niklaas,2025,5117539,,,outturn,src_sint_niklaas_jr2025,strong,Toegestane investeringssubsidies 5.118m; tick843
