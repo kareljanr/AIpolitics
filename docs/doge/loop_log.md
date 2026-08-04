@@ -9783,3 +9783,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +9; commitments +6; leaderboard +6; sources +4; FOI **gap_fraude_sociale_staff_sanctions_l5** prio8 ready; raw; rq_798=done; spawn **rq_799**; ticks=807
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_799** residual 032/012/018; deferred **rq_116**; progress@810 in 3
+
+## Tick 808 — 2026-08-05T01:00:00Z
+
+- Unit: **rq_799** (FOI-adjacent residual — **Kamer DOC 56 1282/018 Noordzee**, 17p; dual **1282/012 Admin Vereenv** + **1282/032 Privacy**)
+- Found (primary 56K1282018):
+  - Current offshore wind = **10%** of household electricity consumption
+  - PE-zone parcel 1 award **stopped**; re-tender **end Q1 2026** after analysis
+  - Navigation corridor parcels 1–2 study; cost-vs-neighbours analysis; energy island CA follow 2026
+  - Repowering framework existing zones; CO2 pipeline Zeebrugge–NO bilateral **H1 2026**
+  - Flag-state service targeted invest 2026 (EUR FOI); tonnage tax multipurpose 2026
+- Dual (56K1282012 / 032):
+  - FAAV **78** measures from **~600** signals (MR end-2025); RIA+AI 2026; Only Once expand; Meldpunt early 2026
+  - GBA organic law reform after Const Court **144/2024**; GDPR enforcement EU reg 26 Nov 2025
+- Wrote: budgets +5; commitments +7; leaderboard +5; sources +4; FOI **gap_noordzee_pe_zone_faav_l5** prio9 ready; raw; rq_799=done; spawn **rq_800**; ticks=808
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_800** residual local/CoA; deferred **rq_116**; progress@810 in 2

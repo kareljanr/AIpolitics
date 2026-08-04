@@ -16693,3 +16693,8 @@ bud_telecom_gigabit_cover_96_78pct,bipt,2025,,,,kpi,src_kamer_beleid_telecom_128
 bud_telecom_5g_hh_gt95pct_2025,bipt,2025,,,,kpi,src_kamer_beleid_telecom_1282_033_2026,strong,5G sufficient coverage >95pct households 2025; dual Proximus 99pct target; tick807
 bud_bpost_parcel_lockers_1776_2025,bpost,2025,,,,ops,src_kamer_beleid_telecom_1282_033_2026,strong,bpost parcel lockers 1776 sites 1 Sep 2025 target 2500 EOY2025; tick807 dual bpost
 bud_dual_fraude_377_staff_2026,gg_belgium,2026,,,,synthesis,src_dual_fraude_telecom_tick807,strong,Dual fraud 377 staff + 100 social insp ETP residual vs prior Fin SRFF; payroll FOI; tick807
+bud_noordzee_offshore_hh_10pct_2025,sec_federal,2025,,,,kpi,src_kamer_beleid_noordzee_1282_018_2026,strong,Current offshore wind parks supply 10pct of household electricity consumption; dual CREG support path; tick808
+bud_noordzee_pe_zone_retender_2026,fod_economie,2026,,,,policy,src_kamer_beleid_noordzee_1282_018_2026,strong,Princess Elisabeth zone parcel1 award stopped; re-tender end Q1 2026 after analysis; cost vs neighbours FOI; tick808
+bud_noordzee_flagstate_invest_2026,fod_mobiliteit,2026,,,,budgeted,src_kamer_beleid_noordzee_1282_018_2026,strong,Targeted investments 2026 strengthen Flag State Service DG Navigation FPS Mobility; absolute EUR FOI; tick808
+bud_admin_faav_78_measures_2026,sec_federal,2026,,,,policy,src_kamer_beleid_admin_vereenv_1282_012_2026,strong,FAAV 78 targeted admin simplification proposals MR end-2025 from ~600 signals; burden-hour savings EUR Unknown FOI; tick808
+bud_dual_noordzee_offshore_residual_2026,gg_belgium,2026,,,,synthesis,src_dual_noordzee_admin_tick808,strong,Dual PE-zone re-tender residual vs prior offshore support stacks; not TE-additive; tick808
