@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 860** (2026-08-06)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL city JR2025 residual 851–859: Ieper **EUR333m** / Landen **EUR101m** / Izegem **EUR204m** / Waregem **EUR346m** / Dendermonde **EUR258m** / Lommel **EUR432m** / Heist-op-den-Berg **EUR233m** / Geraardsbergen **EUR159m** / Aarschot **EUR172m** · prior Leuven **EUR957m** / Oostende **EUR642m** / SN **EUR647m** / Tongeren-Borgloon **EUR410m** / Brugge **EUR1.46bn** retained |
+| **D. L5 named / measure end-lines** | **~65-79%** of TE (generous) | **Gain 850→860 is VL mid-city L5 residual hole-fill (not near-complete of 348bn):** personnel Ieper **EUR36m** / Landen **EUR20m** / Izegem **EUR28m** / Waregem **EUR56m** / Dendermonde **EUR77m** / Lommel **EUR28m** / Heist **EUR39m** / Geraardsbergen **EUR43m** / Aarschot **EUR42m** · AFM spectrum Ieper **+EUR16.0m** / Waregem **+EUR11.1m** / Heist **+EUR10.8m** / Lommel **+EUR5.5m** / Geraardsbergen **+EUR5.6m** / Aarschot **+EUR5.1m** · FOI-adjacent: Ieper onbeschikbaar **EUR27m** · Dendermonde pension drop **EUR60→32m** / P&L **+EUR24m** · Lommel FVA IGS reval **EUR30→61m** · Heist invest-subs out **EUR5.2m** · Geraardsbergen debt intensity **~32%** assets · Aarschot new loans **EUR9.8m** · Izegem named DOC2 toelagen public · Waregem pension **EUR37m** ≈ debt class |
+| **E. FOI-ready gaps** | **~557** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~598** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Lommel **EUR432m** / Waregem **EUR346m** / Ieper **EUR333m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 860)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~18209 |
+| commitments.csv | ~2417 |
+| leaderboard.csv | ~3883 |
+| entities.csv | ~599 |
+| sources.csv | ~1696 |
+| FOI ready | ~557 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~598 |
+| research_queue open | rq_116 deferred + rq_861 hole-fill after progress |
+
+### What improved since tick 850
+
+- **VL city JR2025 residual (tick851–859):** Ieper assets **EUR333m** / cash **EUR74m** / AFM **+EUR16.0m** / onbeschikbaar **EUR27m** · Landen **EUR101m** / fin debt **EUR27m** (~27% assets) / AFM **+EUR2.8m** · Izegem **EUR204m** / Farys debt share **EUR9.8m** / named DOC2 toelagen **EUR12.3m** / ETIZ lag **−EUR4.5m** · Waregem **EUR346m** / AFM **+EUR11.1m** / pension **EUR37m** / other toelagen **EUR6.5m** · Dendermonde **EUR258m** / fin debt **EUR47m** / new loans **EUR10.1m** / **pension drop EUR60→32m** / P&L **+EUR23.8m** · Lommel **EUR432m** / cash **EUR29m** / invest **EUR24.8m** / **FVA IGS reval EUR30→61m** / herwaard **EUR31.5m** · Heist-op-den-Berg **EUR233m** / AFM **+EUR10.8m** / **invest-subs out EUR5.2m** (was **EUR0.6m**) · Geraardsbergen **EUR159m** / fin debt **EUR51m** (~**32%** assets) / new loans **EUR6.3m** · Aarschot **EUR172m** / fin debt **EUR43m** / new loans **EUR9.8m** / invest **EUR16.6m**.
+- **Dual map:** VL mid-cities Ieper–Landen–Izegem–Waregem–Dendermonde–Lommel–Heist–Geraardsbergen–Aarschot · AFM spectrum **+2.8m to +16.0m** · debt intensity outliers Landen/Geraardsbergen/Aarschot · one-off pension release (Dendermonde) · IGS reval (Lommel) · named L5 transparency (Izegem DOC2) vs residual opacity (invest-subs Heist).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1–10.
+
+---
+
 ## Snapshot at **tick 850** (2026-08-05)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

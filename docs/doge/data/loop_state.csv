@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T02:30:00Z,rq_849,859,no,tick859 Aarschot JR2025 dual Geraardsbergen; FOI gap_aarschot_debt_loans_l5; next progress@860 rq_860 THEN rq_861 residual; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T03:00:00Z,rq_860,860,no,tick860 progress@860 coverage % + waste top10; next rq_861 residual dual L5; progress@870 in 10; rq_116 deferred

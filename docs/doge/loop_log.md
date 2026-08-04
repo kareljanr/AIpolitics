@@ -10605,3 +10605,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_aarschot; FOI **gap_aarschot_debt_loans_l5** prio7 ready + draft; raw PDF+extract; rq_849=done; spawn **rq_860** progress@860 + **rq_861**; ticks=859
 - FOI: ready only - **do not send**
 - Next: **progress@860 NEXT** (prio10 rq_860); then prio5 **rq_861** residual dual L5; deferred **rq_116**
+
+## Tick 860 - 2026-08-06T03:00:00Z
+
+- Unit: **rq_860** (mandatory **progress@860** - coverage % layers A-E + waste top10)
+- Found / assessed (no new primary euros this tick - inventory refresh after ticks 851-859):
+  - **A L0:** **100%** (EUR347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL mid-cities Ieper **EUR333m** / Landen **EUR101m** / Izegem **EUR204m** / Waregem **EUR346m** / Dendermonde **EUR258m** / Lommel **EUR432m** / Heist **EUR233m** / Geraardsbergen **EUR159m** / Aarschot **EUR172m**)
+  - **D L5:** ~**65-79%** generous - gain 851-859: city personnel **EUR36/20/28/56/77/28/39/43/42m** · AFM spectrum **+EUR2.8m to +EUR16.0m** · Ieper onbeschikbaar **EUR27m** · Dendermonde pension drop **EUR28.5m** / P&L **+EUR24m** · Lommel IGS reval **EUR30to61m** · Heist invest-subs **EUR5.2m** · Geraardsbergen debt intensity **~32%** · Aarschot new loans **EUR9.8m** · Izegem DOC2 named toelagen
+  - **E FOI ready:** ~**557** (answered ~9; partial ~27; total ~598)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2-10; stocks filtered (Metro3, OWV, MOG II, city/uni balance sheets, pension release, IGS reval, debt stocks)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_860=done; next **rq_861**; loop_state ticks=860
+- FOI: none new this tick
+- Next: prio5 **rq_861** residual dual L5 (Roeselare/Lier portals/VUB/skeyes); deferred **rq_116**; progress@870 in 10
