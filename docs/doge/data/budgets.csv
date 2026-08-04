@@ -17413,3 +17413,32 @@ bud_tielt_fiscal_2025,city_tielt,2025,29643836,,,cash,src_tielt_jr2025,strong,J5
 bud_tielt_werk_subs_rec_2025,city_tielt,2025,27398795,,,cash,src_tielt_jr2025,strong,Ontvangen werkingssubsidies 27.399m; tick835
 bud_tielt_fin_costs_2025,city_tielt,2025,332142,,,cash,src_tielt_jr2025,strong,J5 financiele kosten 0.332m; tick835
 bud_tielt_population_2025,city_tielt,2025,31973,,,stock,src_tielt_jr2025,strong,Inwoners 1 jan 2025 31973; tick835
+bud_uhasselt_assets_2025,uhasselt,2025,281294559,,,stock,src_uhasselt_jv2025,strong,Total assets YE2025 281.295m (was 284.494m); tick836
+bud_uhasselt_equity_2025,uhasselt,2025,240044415,,,stock,src_uhasselt_jv2025,strong,Eigen vermogen YE2025 240.044m; tick836
+bud_uhasselt_cap_subs_2025,uhasselt,2025,41487233,,,stock,src_uhasselt_jv2025,strong,Kapitaalsubsidies YE2025 41.487m; tick836
+bud_uhasselt_bestemde_fondsen_2025,uhasselt,2025,198557182,,,stock,src_uhasselt_jv2025,strong,Bestemde fondsen YE2025 198.557m; tick836
+bud_uhasselt_debt_total_2025,uhasselt,2025,40906144,,,stock,src_uhasselt_jv2025,strong,Total schulden YE2025 40.906m; tick836
+bud_uhasselt_fin_debt_2025,uhasselt,2025,5200000,,,stock,src_uhasselt_jv2025,strong,Financiele schulden LT 2.6m + ST due 2.6m = 5.2m YE2025; tick836
+bud_uhasselt_fin_debt_lt_2025,uhasselt,2025,2600000,,,stock,src_uhasselt_jv2025,strong,Financiele schulden LT kredietinstellingen YE2025 2.6m (was 5.2m); tick836
+bud_uhasselt_cash_2025,uhasselt,2025,10892977,,,stock,src_uhasselt_jv2025,strong,Liquide middelen YE2025 10.893m; tick836
+bud_uhasselt_geldbeleggingen_2025,uhasselt,2025,107816109,,,stock,src_uhasselt_jv2025,strong,Geldbeleggingen YE2025 107.816m; tick836
+bud_uhasselt_cash_beleg_2025,uhasselt,2025,118709086,,,stock,src_uhasselt_jv2025,strong,Cash+beleggingen YE2025 118.709m (was 139.537m); tick836
+bud_uhasselt_mva_2025,uhasselt,2025,142419117,,,stock,src_uhasselt_jv2025,strong,Materiele vaste activa YE2025 142.419m; tick836
+bud_uhasselt_bedrijfsopbr_2025,uhasselt,2025,172383060,,,cash,src_uhasselt_jv2025,strong,Bedrijfsopbrengsten 172.383m (+6.9pct YoY); tick836
+bud_uhasselt_1st_stream_2025,uhasselt,2025,96769951,,,cash,src_uhasselt_jv2025,strong,1ste geldstroom basisfinanciering 96.770m STRONG (upgrades 2024 medium implied 93.8m); tick836
+bud_uhasselt_werking_2025,uhasselt,2025,90872400,,,cash,src_uhasselt_jv2025,strong,Werkingsuitkeringen 90.872m within 1st stream; tick836
+bud_uhasselt_invest_uitkering_2025,uhasselt,2025,2177550,,,cash,src_uhasselt_jv2025,strong,Investeringsuitkeringen 2.178m within 1st stream; tick836
+bud_uhasselt_2nd_stream_2025,uhasselt,2025,17588240,,,cash,src_uhasselt_jv2025,strong,2de geldstroom fundamenteel onderzoek 17.588m (BOF 10.734 FWO/VLAIO 6.854); tick836
+bud_uhasselt_3rd_stream_2025,uhasselt,2025,25279723,,,cash,src_uhasselt_jv2025,strong,3de geldstroom toegepast onderzoek 25.280m; tick836
+bud_uhasselt_4th_stream_2025,uhasselt,2025,5649789,,,cash,src_uhasselt_jv2025,strong,4de geldstroom contractonderzoek prive 5.650m; tick836
+bud_uhasselt_tuition_2025,uhasselt,2025,6056691,,,cash,src_uhasselt_jv2025,strong,Reguliere inschrijvingsgelden 6.057m; tick836
+bud_uhasselt_bedrijfskosten_2025,uhasselt,2025,169865940,,,cash,src_uhasselt_jv2025,strong,Bedrijfskosten 169.866m; tick836
+bud_uhasselt_bezold_2025,uhasselt,2025,118451749,,,cash,src_uhasselt_jv2025,strong,Bezoldigingen 118.452m (+6.5pct; ZAP 26.6 AAP 12.3 ATP 18.1 bursalen 19.9); tick836
+bud_uhasselt_diensten_2025,uhasselt,2025,39684479,,,cash,src_uhasselt_jv2025,strong,Diensten en diverse goederen 39.684m; tick836
+bud_uhasselt_afschr_2025,uhasselt,2025,11265174,,,cash,src_uhasselt_jv2025,strong,Afschrijvingen 11.265m; tick836
+bud_uhasselt_bedrijfs_2025,uhasselt,2025,2517120,,,cash,src_uhasselt_jv2025,strong,Bedrijfsoverschot 2.517m (was 1.041m 2024); tick836
+bud_uhasselt_result_2025,uhasselt,2025,5605805,,,cash,src_uhasselt_jv2025,strong,Overschot boekjaar 5.606m (was 9.543m 2024 CRC strong); tick836
+bud_uhasselt_invest_2025,uhasselt,2025,25822201,,,cash,src_uhasselt_jv2025,strong,Netto investeringen 25.822m (+69pct vs 15.227m 2024); tick836
+bud_uhasselt_aflossing_2025,uhasselt,2025,2600000,,,cash,src_uhasselt_jv2025,strong,Aflossingen leningen 2.6m; tick836
+bud_uhasselt_fin_costs_2025,uhasselt,2025,1829167,,,cash,src_uhasselt_jv2025,strong,Financiele kosten 1.829m; tick836
+bud_uhasselt_1st_stream_2024_jv,uhasselt,2024,94039518,,,outturn,src_uhasselt_jv2025,strong,1ste geldstroom 2024 from JV comparative 94.040m (was medium implied 93.828m CRC); tick836 upgrade

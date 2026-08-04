@@ -10241,3 +10241,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_826** residual dual L5 (Roeselare/Leuven/UHasselt JV/BELNET/skeyes); deferred **rq_116**; progress@840 in 5
 
+
+## Tick 836 — 2026-08-05T15:00:00Z
+
+- Unit: **rq_826** (FOI-adjacent residual dual — **UHasselt Financieel jaarverslag 2025** + CRC 2024 dual)
+- Found (strong primary JV 91p, RvB 19.03.2026):
+  - Assets **€281.3m** · equity **€240.0m** · debt total **€40.9m** · fin debt **€5.2m** (LT **€2.6m** + ST due **€2.6m**)
+  - Cash+beleggingen **€118.7m** (was **€139.5m**) · MVA **€142.4m** · cap subs **€41.5m**
+  - Bedrijfsopbrengsten **€172.4m** · bedrijfskosten **€169.9m** · bedrijfsoverschot **€2.52m**
+  - **1ste geldstroom €96.8m STRONG** (werking **€90.9m**; upgrades CRC 2024 medium implied **€93.8m**; JV 2024 comparative **€94.0m**)
+  - 2de **€17.6m** · 3de **€25.3m** · 4de **€5.6m** · tuition **€6.1m**
+  - Bezoldigingen **€118.5m** (+6.5%; bursalen **€19.9m**) · resultaat **€5.61m** (was **€9.54m**) · invest **€25.8m** (+69%) · aflossing **€2.6m**
+- Dual: CRC 2024 residual (tick163) + CoA HE debt draw **€50m** 2026 path (tick696) — not TE-additive
+- Wrote: budgets +29; commitments +4; leaderboard +5; sources +2; entity uhasselt update; FOI **gap_uhasselt_debt_ahovoks_l5** prio6 ready + draft; raw extract; rq_826=done; spawn **rq_827**; ticks=836
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_827** residual dual L5 (Roeselare/Leuven/BELNET/skeyes/other uni JV); deferred **rq_116**; progress@840 in 4
+
