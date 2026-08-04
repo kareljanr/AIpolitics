@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T11:00:00Z,rq_819,828,no,tick828 CoA Prov Lux BI2026 136m personnel79 ZS18 Ethias3.1 dual WAL quintet complete FOI; next rq_820 residual dual L5/local/CoA (VL/city); progress@830 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T11:30:00Z,rq_820,829,no,tick829 Mechelen JR2025 611m assets expl268 personnel113 AFM+2.5 dual Gent/Antwerp FOI; next rq_821; **progress@830 NEXT**; rq_116 deferred

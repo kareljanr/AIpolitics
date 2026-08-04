@@ -10127,3 +10127,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +36; commitments +4; leaderboard +6; sources +2; entity province_luxembourg; FOI **gap_prov_lux_zs_ethias_gsm_l5** prio7 ready + draft; raw PDF+txt; rq_819=done; spawn **rq_820**; ticks=828
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_820** residual dual L5/local/CoA (VL provinces/city); deferred **rq_116**; progress@830 in 2
+
+## Tick 829 — 2026-08-05T11:30:00Z
+
+- Unit: **rq_820** (FOI-adjacent residual dual — **Stad+OCMW Mechelen Jaarrekening 2025** + Gent/Antwerp city dual)
+- Found (strong primary BBC JR2025 172p, GR 23/06/2026):
+  - Assets **€610.8m** · equity **€111.1m** · debt total **€499.7m** · fin debt LT **€231.2m** · ST **€53.0m**
+  - Pension provisions **€134.8m** · capital subsidies **€49.7m** · cash **€12.2m**
+  - Exploitatie: ontvangsten **€267.9m** · uitgaven **€251.7m** · saldo **+€16.2m**
+  - AFM **+€2.47m** (was **−€4.62m** 2024) · BBR **−€11.2m** · budgettair resultaat **−€13.7m**
+  - Personnel **€112.9m** (+7% YoY; own-charge **€104.4m**; leerwerknemers reclass **€4.2m**)
+  - Responsabilisering **>~€12m** · partner toelagen ~**€90m** · fondsen **€60.6m** · opcentiemen **€88.2m**
+  - Invest patrimony **€26.2m** · invest receipts **€12.6m** · debt repay **€18.6m** · new debt **€2.6m**
+  - P&L costs **€277.3m** · opbrengsten **€272.7m** · result **−€4.6m**
+- Dual: prior Gent/Antwerp city residual maps (not TE-additive)
+- Wrote: budgets +38; commitments +4; leaderboard +6; sources +2; entity city_mechelen; FOI **gap_mechelen_debt_pension_subs_l5** prio7 ready + draft; raw PDF+txt; rq_820=done; spawn **rq_821**; ticks=829
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_821**; **progress@830 NEXT tick**; deferred **rq_116**

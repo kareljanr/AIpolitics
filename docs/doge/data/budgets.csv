@@ -17208,3 +17208,41 @@ bud_prov_lux_provisions_ye2025,province_luxembourg,2025,37687707,,,stock,src_ccr
 bud_prov_lux_entities_sub_2026,province_luxembourg,2026,4300000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Entites consolidees subventions total 4.3m; tick828
 bud_prov_lux_credits_reserve_2026,province_luxembourg,2026,575000,,,budgeted,src_ccrek_2026_15_luxembourg_budget_2026,strong,Credits de reserve cavaliers 0.575m; tick828
 bud_dual_prov_lux_wal_quintet_tick828,gg_belgium,2026,136249116,,,synthesis,src_dual_prov_lux_wal_quintet_tick828,strong,Dual Lux 136m vs Hainaut 878 / Liege 564 / Namur 240 / BW 202 ordinary; not TE-additive; tick828
+bud_mechelen_assets_2025,city_mechelen,2025,610767383,,,stock,src_mechelen_jr2025,strong,Consol stad+OCMW total assets YE2025 610.767m; tick829
+bud_mechelen_equity_2025,city_mechelen,2025,111091053,,,stock,src_mechelen_jr2025,strong,Nettoactief YE2025 111.091m; tick829
+bud_mechelen_debt_total_2025,city_mechelen,2025,499676329,,,stock,src_mechelen_jr2025,strong,Schulden total YE2025 499.676m; tick829
+bud_mechelen_fin_debt_lt_2025,city_mechelen,2025,231156006,,,stock,src_mechelen_jr2025,strong,Financiele schulden LT 231.156m YE2025; tick829
+bud_mechelen_fin_debt_st_2025,city_mechelen,2025,53000000,,,stock,src_mechelen_jr2025,strong,Financiele schulden KT 53.0m (thesauriebewijzen class); tick829
+bud_mechelen_pension_prov_2025,city_mechelen,2025,134847327,,,stock,src_mechelen_jr2025,strong,Voorzieningen pensioenen 134.847m YE2025; tick829
+bud_mechelen_capital_subs_2025,city_mechelen,2025,49721107,,,stock,src_mechelen_jr2025,strong,Kapitaalssubsidies en schenkingen 49.721m YE2025; tick829
+bud_mechelen_cumul_deficit_2025,city_mechelen,2025,172505730,,,stock,src_mechelen_jr2025,strong,Gecumuleerd tekort 172.506m YE2025 (absolute); tick829
+bud_mechelen_cash_2025,city_mechelen,2025,12210812,,,stock,src_mechelen_jr2025,strong,Liquide middelen YE2025 12.211m; tick829
+bud_mechelen_expl_ontvangsten_2025,city_mechelen,2025,267879969,,,outturn,src_mechelen_jr2025,strong,Exploitatieontvangsten 267.880m 2025; tick829
+bud_mechelen_expl_uitgaven_2025,city_mechelen,2025,251715164,,,outturn,src_mechelen_jr2025,strong,Exploitatieuitgaven 251.715m 2025; tick829
+bud_mechelen_expl_saldo_2025,city_mechelen,2025,16164805,,,outturn,src_mechelen_jr2025,strong,Exploitatiesaldo +16.165m 2025; tick829
+bud_mechelen_afm_2025,city_mechelen,2025,2468419,,,outturn,src_mechelen_jr2025,strong,Autofinancieringsmarge +2.468m 2025 (was -4.621m 2024); tick829
+bud_mechelen_budget_result_2025,city_mechelen,2025,13707571,,,outturn,src_mechelen_jr2025,strong,Budgettair resultaat boekjaar -13.708m 2025; tick829
+bud_mechelen_bbr_2025,city_mechelen,2025,11152299,,,outturn,src_mechelen_jr2025,strong,Beschikbaar budgettair resultaat -11.152m YE2025; tick829
+bud_mechelen_invest_saldo_2025,city_mechelen,2025,18987046,,,outturn,src_mechelen_jr2025,strong,Investeringssaldo -18.987m 2025; tick829
+bud_mechelen_fin_saldo_2025,city_mechelen,2025,10885329,,,outturn,src_mechelen_jr2025,strong,Financieringssaldo -10.885m 2025; tick829
+bud_mechelen_personnel_2025,city_mechelen,2025,112895370,,,outturn,src_mechelen_jr2025,strong,Personeelsuitgaven total 112.895m 2025 (+7pct YoY); tick829
+bud_mechelen_personnel_own_2025,city_mechelen,2025,104426638,,,outturn,src_mechelen_jr2025,strong,Personeel ten laste bestuur 104.427m 2025; tick829
+bud_mechelen_leerwerknemers_2025,city_mechelen,2025,4200000,,,outturn,src_mechelen_jr2025,strong,Leerwerknemers lonen reclass to personnel 4.2m 2025; tick829
+bud_mechelen_responsabilisering_2025,city_mechelen,2025,12000000,,,outturn,src_mechelen_jr2025,strong,Responsabiliseringsbijdrage >12m 2025 (doubled vs 2020 6m); tick829
+bud_mechelen_goederen_diensten_2025,city_mechelen,2025,38200000,,,outturn,src_mechelen_jr2025,strong,Goederen en diensten kost 38.2m of 49.1m budget (79pct); tick829
+bud_mechelen_toelagen_partners_2025,city_mechelen,2025,90000000,,,outturn,src_mechelen_jr2025,strong,Werkingssubsidies partners ~90m (95pct realisatie); tick829
+bud_mechelen_fondsen_2025,city_mechelen,2025,60600000,,,outturn,src_mechelen_jr2025,strong,Fondsen (gemeentefonds+stedenfonds class) 60.6m 2025; tick829
+bud_mechelen_opcentiemen_2025,city_mechelen,2025,88200000,,,outturn,src_mechelen_jr2025,strong,Opcentiemen 88.2m 2025 (PB + OV + traffic); tick829
+bud_mechelen_eigen_fiscaliteit_2025,city_mechelen,2025,16200000,,,outturn,src_mechelen_jr2025,strong,Eigen fiscaliteit 16.2m 2025 (+12pct YoY); tick829
+bud_mechelen_overdrachten_2025,city_mechelen,2025,241400000,,,outturn,src_mechelen_jr2025,strong,Overdrachten ontvangsten 241.4m 2025; tick829
+bud_mechelen_prestatie_opbrengsten_2025,city_mechelen,2025,23200000,,,outturn,src_mechelen_jr2025,strong,Prestatieopbrengsten 23.2m 2025; tick829
+bud_mechelen_invest_patrimony_2025,city_mechelen,2025,26200000,,,outturn,src_mechelen_jr2025,strong,Investeringen in patrimonium 26.2m 2025; tick829
+bud_mechelen_invest_ontvangsten_2025,city_mechelen,2025,12600000,,,outturn,src_mechelen_jr2025,strong,Investeringsontvangsten 12.6m 2025 (17pct execution); tick829
+bud_mechelen_debt_repay_2025,city_mechelen,2025,18600000,,,outturn,src_mechelen_jr2025,strong,Periodieke kapitaalaflossingen 18.6m 2025; tick829
+bud_mechelen_new_debt_2025,city_mechelen,2025,2600000,,,outturn,src_mechelen_jr2025,strong,Aangaan financiele schulden 2.6m 2025; tick829
+bud_mechelen_pl_costs_2025,city_mechelen,2025,277256413,,,outturn,src_mechelen_jr2025,strong,Staat kosten total 277.256m 2025; tick829
+bud_mechelen_pl_opbrengsten_2025,city_mechelen,2025,272667493,,,outturn,src_mechelen_jr2025,strong,Staat opbrengsten total 272.667m 2025; tick829
+bud_mechelen_pl_result_2025,city_mechelen,2025,4588920,,,outturn,src_mechelen_jr2025,strong,Boekhoudkundig tekort -4.589m 2025; tick829
+bud_mechelen_hidrogem_2025,city_mechelen,2025,2531434,,,outturn,src_mechelen_jr2025,strong,Toelage HidroGem rioleringsprojecten 2.531m; tick829
+bud_mechelen_ragheno_2025,city_mechelen,2025,1900000,,,outturn,src_mechelen_jr2025,strong,Ragheno verwerving gebouw/perceel 1.9m; tick829
+bud_dual_mechelen_gent_antwerp_tick829,gg_belgium,2025,610767383,,,synthesis,src_dual_mechelen_gent_antwerp_tick829,strong,Dual Mechelen 611m assets vs Gent/Antwerp city residual; not TE-additive; tick829
