@@ -17819,3 +17819,43 @@ bud_ge_gemeentefonds_2025,city_geel,2025,18385302,,,outturn,src_geel_jr2025,stro
 bud_ge_fin_costs_2025,city_geel,2025,2320441,,,outturn,src_geel_jr2025,strong,J5 financiele kosten 2.320m; tick848
 bud_ge_ag_cultuur_bbr_2025,city_geel,2025,2100648,,,outturn,src_geel_jr2025,strong,AG cultuur BBR 2.101m; tick848
 bud_ge_ag_sport_bbr_2025,city_geel,2025,322481,,,outturn,src_geel_jr2025,strong,AG sport BBR 0.322m; tick848
+bud_tb_assets_2025,city_tongeren_borgloon,2025,410108200,,,outturn,src_tongeren_borgloon_jr2025,strong,Consol stad+OCMW total assets YE2025 410.108m (fusion first YE); tick849
+bud_tb_equity_2025,city_tongeren_borgloon,2025,301496045,,,outturn,src_tongeren_borgloon_jr2025,strong,Nettoactief YE2025 301.496m; tick849
+bud_tb_debt_total_2025,city_tongeren_borgloon,2025,108612155,,,outturn,src_tongeren_borgloon_jr2025,strong,Total schulden YE2025 108.612m; tick849
+bud_tb_fin_debt_2025,city_tongeren_borgloon,2025,50746914,,,outturn,src_tongeren_borgloon_jr2025,strong,T3 total financiele schulden YE2025 50.747m (LT 46.724 + ST due 4.020 + ST 0.002); tick849
+bud_tb_fin_debt_lt_2025,city_tongeren_borgloon,2025,46724237,,,outturn,src_tongeren_borgloon_jr2025,strong,Financiele schulden LT YE2025 46.724m; tick849
+bud_tb_fin_debt_st_due_2025,city_tongeren_borgloon,2025,4020265,,,outturn,src_tongeren_borgloon_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 4.020m; tick849
+bud_tb_pension_prov_2025,city_tongeren_borgloon,2025,30535607,,,outturn,src_tongeren_borgloon_jr2025,strong,Pensioenvoorzieningen LT YE2025 30.536m; tick849
+bud_tb_cash_2025,city_tongeren_borgloon,2025,6912043,,,outturn,src_tongeren_borgloon_jr2025,strong,Liquide middelen YE2025 6.912m; tick849
+bud_tb_cap_subs_2025,city_tongeren_borgloon,2025,111067475,,,outturn,src_tongeren_borgloon_jr2025,strong,Kapitaalsubsidies YE2025 111.067m; tick849
+bud_tb_fva_total_2025,city_tongeren_borgloon,2025,100650252,,,outturn,src_tongeren_borgloon_jr2025,strong,Financiele vaste activa YE2025 100.650m; tick849
+bud_tb_fva_igs_2025,city_tongeren_borgloon,2025,96533209,,,outturn,src_tongeren_borgloon_jr2025,strong,Fin VA IGS YE2025 96.533m; tick849
+bud_tb_mva_2025,city_tongeren_borgloon,2025,262456349,,,outturn,src_tongeren_borgloon_jr2025,strong,Materiele vaste activa YE2025 262.456m; tick849
+bud_tb_reval_reserves_2025,city_tongeren_borgloon,2025,50295806,,,outturn,src_tongeren_borgloon_jr2025,strong,Herwaarderingsreserves YE2025 50.296m; tick849
+bud_tb_expl_rec_2025,city_tongeren_borgloon,2025,106470796,,,outturn,src_tongeren_borgloon_jr2025,strong,Exploitatieontvangsten 106.471m; tick849
+bud_tb_expl_exp_2025,city_tongeren_borgloon,2025,96504900,,,outturn,src_tongeren_borgloon_jr2025,strong,Exploitatieuitgaven 96.505m; tick849
+bud_tb_expl_saldo_2025,city_tongeren_borgloon,2025,9965896,,,outturn,src_tongeren_borgloon_jr2025,strong,Exploitatiesaldo +9.966m; tick849
+bud_tb_invest_exp_2025,city_tongeren_borgloon,2025,13673234,,,outturn,src_tongeren_borgloon_jr2025,strong,Investeringsuitgaven J2 13.673m; tick849
+bud_tb_invest_rec_2025,city_tongeren_borgloon,2025,3750114,,,outturn,src_tongeren_borgloon_jr2025,strong,Investeringsontvangsten J2 3.750m; tick849
+bud_tb_invest_saldo_2025,city_tongeren_borgloon,2025,-9923120,,,outturn,src_tongeren_borgloon_jr2025,strong,Investeringssaldo -9.923m; tick849
+bud_tb_fin_rec_2025,city_tongeren_borgloon,2025,1682762,,,outturn,src_tongeren_borgloon_jr2025,strong,Financieringsontvangsten 1.683m; tick849
+bud_tb_fin_exp_2025,city_tongeren_borgloon,2025,4037179,,,outturn,src_tongeren_borgloon_jr2025,strong,Financieringsuitgaven 4.037m; tick849
+bud_tb_new_leases_2025,city_tongeren_borgloon,2025,1200130,,,outturn,src_tongeren_borgloon_jr2025,strong,Opname leasings 1.200m (no bank loans drawn); tick849
+bud_tb_aflossingen_2025,city_tongeren_borgloon,2025,4013276,,,outturn,src_tongeren_borgloon_jr2025,strong,Periodieke aflossingen 4.013m; tick849
+bud_tb_afm_2025,city_tongeren_borgloon,2025,7624577,,,outturn,src_tongeren_borgloon_jr2025,strong,AFM +7.625m; tick849
+bud_tb_afm_corr_2025,city_tongeren_borgloon,2025,7353240,,,outturn,src_tongeren_borgloon_jr2025,strong,Gecorrigeerde AFM +7.353m; tick849
+bud_tb_bbr_2025,city_tongeren_borgloon,2025,13283790,,,outturn,src_tongeren_borgloon_jr2025,strong,BBR 13.284m after onbeschikbaar 0.387m; tick849
+bud_tb_budget_result_2025,city_tongeren_borgloon,2025,-2311641,,,outturn,src_tongeren_borgloon_jr2025,strong,Budgettair resultaat boekjaar -2.312m; tick849
+bud_tb_cum_br_2025,city_tongeren_borgloon,2025,13670457,,,outturn,src_tongeren_borgloon_jr2025,strong,Gecumuleerd budgettair resultaat 13.670m; tick849
+bud_tb_pnl_result_2025,city_tongeren_borgloon,2025,-17480077,,,outturn,src_tongeren_borgloon_jr2025,strong,Vennootschapsresultaat J5 -17.480m (afschr 27.3m); tick849
+bud_tb_personnel_2025,city_tongeren_borgloon,2025,52945840,,,outturn,src_tongeren_borgloon_jr2025,strong,J5/T2 bezoldigingen 52.946m (kern excl onderwijs 46.388m); tick849
+bud_tb_personnel_excl_edu_2025,city_tongeren_borgloon,2025,46387830,,,outturn,src_tongeren_borgloon_jr2025,strong,Personeel excl onderwijs kerncijfers 46.388m; tick849
+bud_tb_toelagen_2025,city_tongeren_borgloon,2025,14679750,,,outturn,src_tongeren_borgloon_jr2025,strong,Toegestane werkingssubsidies 14.680m (politie 5.019 fire 2.067 IGS 2.301); tick849
+bud_tb_ocmw_aid_2025,city_tongeren_borgloon,2025,3872429,,,outturn,src_tongeren_borgloon_jr2025,strong,OCMW individuele hulp 3.872m; tick849
+bud_tb_fiscal_2025,city_tongeren_borgloon,2025,38285818,,,outturn,src_tongeren_borgloon_jr2025,strong,J5 fiscale opbrengsten en boetes 38.286m; tick849
+bud_tb_werk_subs_rec_2025,city_tongeren_borgloon,2025,45631796,,,outturn,src_tongeren_borgloon_jr2025,strong,J5 werkingssubsidies ontvangen 45.632m; tick849
+bud_tb_gemeentefonds_2025,city_tongeren_borgloon,2025,23599896,,,outturn,src_tongeren_borgloon_jr2025,strong,Gemeentefonds 23.600m; tick849
+bud_tb_fin_costs_2025,city_tongeren_borgloon,2025,1219628,,,outturn,src_tongeren_borgloon_jr2025,strong,J5 financiele kosten 1.220m; tick849
+bud_tb_fusion_bonus_debt_2025,city_tongeren_borgloon,2025,21000000,,,outturn,src_tongeren_borgloon_jr2025,medium,VL fusiebonus schuldovername ~21m narrative (approx); FOI residual exact; tick849
+bud_tb_debt_per_capita_2025,city_tongeren_borgloon,2025,1147,,,outturn,src_tongeren_borgloon_jr2025,strong,Financiele schuld per inwoner 1147 EUR YE2025; tick849
+bud_tb_pop_2025,city_tongeren_borgloon,2025,44256,,,outturn,src_tongeren_borgloon_jr2025,strong,Inwoners 31/12/2025 44256 (1/1 44018); tick849

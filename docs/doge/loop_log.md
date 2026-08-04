@@ -10440,3 +10440,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +4; leaderboard +7; sources +2; entity city_geel; FOI **gap_geel_debt_pension_subs_l5** prio7 ready + draft; raw fin nota+toelichting+extract; rq_838=done; spawn **rq_839**; ticks=848
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_839** residual dual L5 (Roeselare/Lier/VUB/skeyes); deferred **rq_116**; progress@850 in 2
+
+## Tick 849 - 2026-08-05T21:30:00Z
+
+- Unit: **rq_839** (FOI-adjacent residual dual - **Stad+OCMW Tongeren-Borgloon Jaarrekening 2025** fusion year + Geel dual)
+- Found (strong primary BBC JR2025 86p, GR 23.06.2026; first full fusion year):
+  - Assets **EUR410.1m** · equity **EUR301.5m** · debt total **EUR108.6m** · fin debt **EUR50.7m** (**EUR1147/capita**; pop **44.256**)
+  - Pension **EUR30.5m** · cash **EUR6.9m** · cap subs **EUR111.1m** · FVA IGS **EUR96.5m** · herwaard **EUR50.3m**
+  - Exploitatie: ontvangsten **EUR106.5m** · uitgaven **EUR96.5m** · saldo **+EUR10.0m**
+  - AFM **+EUR7.6m** · BBR **EUR13.3m** · budget result **-EUR2.3m** · P&L **-EUR17.5m** (afschr **EUR27.3m**)
+  - Personnel **EUR52.9m** (excl onderwijs **EUR46.4m**) · toelagen **EUR14.7m** (police **EUR5.0m** · fire **EUR2.1m**) · OCMW aid **EUR3.9m**
+  - Invest **EUR13.7m** · gemeentefonds **EUR23.6m** · **VL fusiebonus ~EUR21m** debt takeover (medium narrative) · APB cut 7.9→7.1pct
+- Dual: Geel **EUR255m** / fin debt **EUR69.5m** / pension **EUR67.4m** / AFM **+EUR3.7m** (tick848) - not TE-additive
+- Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_tongeren_borgloon; FOI **gap_tb_fusion_debt_subs_l5** prio8 ready + draft; raw PDF+extract; rq_839=done; spawn **rq_850** progress + **rq_841**; ticks=849
+- FOI: ready only - **do not send**
+- Next: **progress@850 NEXT** (prio10 rq_850); then prio5 **rq_841** residual dual L5; deferred **rq_116**
