@@ -9828,3 +9828,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_801=done; next **rq_802**; loop_state ticks=810
 - FOI: none new this tick
 - Next: prio5 **rq_802** residual local/CoA/PE dual; deferred **rq_116**; progress@820 in 10
+
+## Tick 811 — 2026-08-05T02:30:00Z
+
+- Unit: **rq_802** (FOI-adjacent residual — **CoA SECAL follow-up** Nov 2025, 80p; dual **flexi-jobs** CoA+FPB Jan 2026 + **Kustbeveiliging** Jan 2026)
+- Found (primary ccrek_2025_49_secal):
+  - SECAL encours YE2024 **€452.7m** · impairment **€403.3m**
+  - Recovery 12m **26.6%** 2024 (**32.9%** first 8m 2025) — weak vs other claims
+  - Advances paid **€38.8m** 2024 · new dossiers **5,378** · active **~24k** (×2.6 since 2007)
+  - Max advance was **€175**/child dual Armoede path **€200→350**
+- Dual:
+  - Flexi wage mass **€220m** Q4 2024 · **~14m** hours · **184,360** workers
+  - MPKV spent **€321m** residual **≥€144m** · studies **€21m** · Kustvisie CBA **€2–5bn** class
+- Wrote: budgets +12; commitments +4; leaderboard +7; sources +4; FOI **gap_secal_recovery_davo_path_l5** prio8 ready; raw; rq_802=done; spawn **rq_803**; ticks=811
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_803** residual CoA IT/prisons; deferred **rq_116**; progress@820 in 9

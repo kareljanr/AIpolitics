@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T02:00:00Z,rq_801,810,no,tick810 mandatory progress@810 coverage A-E + waste top10 stable GIP/fossil/cars; consultancy 2.5bn residual; next rq_802; progress@820 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T02:30:00Z,rq_802,811,no,tick811 CoA SECAL 452.7m/38.8m recovery26.6 dual flexi220 MPKV321+144 FOI; next rq_803 residual CoA IT/prisons; progress@820 in 9; rq_116 deferred

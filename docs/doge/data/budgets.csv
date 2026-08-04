@@ -16712,3 +16712,15 @@ bud_smals_consultancy_126m_2020_22,smals,2022,126100000,,,outturn,src_ccrek_cons
 bud_riziv_consultancy_115m_2020_22,riziv,2022,115500000,,,outturn,src_ccrek_consultancy_fed_2025,strong,RIZIV 115.5m incl VAT 2020-22 = 48pct purchases; tick809
 bud_smals_broker_spent_471m,smals,2023,471000000,,,outturn,src_ccrek_consultancy_fed_2025,strong,Smals broker RA 2023: initial est 1.8bn excl VAT; spent 471m incl VAT by Dec situation CoA; tick809
 bud_dual_consultancy_coa_tick809,gg_belgium,2021,841600000,,,synthesis,src_dual_consultancy_ambtenaren_tick809,strong,Dual CoA annual avg ~842m vs Ambtenaren inventory FOI residual; not TE-additive double-count; tick809
+bud_secal_encours_452_7m_2024,davo,2024,452700000,,,stock,src_ccrek_secal_suivi_2025,strong,SECAL/Secal accounting stock of claims YE2024 452.7m; not pure annual TE; tick811
+bud_secal_impairment_403_3m_2024,davo,2024,403300000,,,stock,src_ccrek_secal_suivi_2025,strong,Impairment/provision 403.3m on SECAL encours for debtor insolvency YE2024; tick811
+bud_secal_advances_38_8m_2024,davo,2024,38800000,,,outturn,src_ccrek_secal_suivi_2025,strong,SECAL advances paid on maintenance 38.8m 2024; dual Armoede max path raise 2026; tick811
+bud_secal_recovery_rate_12m_2024,davo,2024,,,,kpi,src_ccrek_secal_suivi_2025,strong,SECAL recovery rate after 12 months 26.6pct 2024; 32.9pct first 8 months 2025; below other fiscal/non-fiscal claims; tick811
+bud_secal_dossiers_active_24k_2024,davo,2024,24000,,,ops,src_ccrek_secal_suivi_2025,strong,Active dossiers ~24000 EOY2024; new 5378 in 2024; x2.6 since 2007; tick811
+bud_flexijob_wage_mass_q4_2024,rsz,2024,220000000,,,outturn,src_ccrek_flexijob_fpb_2026,strong,Flexi-job wage mass 220m Q4 2024; hourly 16.38 men / 15 women; tick811
+bud_flexijob_hours_14m_2024,rsz,2024,,,,ops,src_ccrek_flexijob_fpb_2026,strong,Flexi hours ~14m EOY2024 by 184360 workers (from 10548 early 2016 / 418k hours); tick811
+bud_mpkv_spent_321m_eoy2024,vlaanderen_gov,2024,321000000,,,outturn,src_ccrek_kustbeveiliging_2026,strong,Masterplan Kustveiligheid spent 321m to EOY2024; still need >=144m; tick811
+bud_mpkv_residual_ge144m,vlaanderen_gov,2025,144000000,144000000,,estimate,src_ccrek_kustbeveiliging_2026,strong,MPKV residual need at least 144m after 321m spent; tick811
+bud_kustvisie_studies_21m_2014_24,vlaanderen_gov,2024,21000000,,,outturn,src_ccrek_kustbeveiliging_2026,strong,Vlaamse Baaien + Kustvisie studies spend 21m 2014-2024; dual prior kustvisie; tick811
+bud_kustvisie_project_2_5bn_class,vlaanderen_gov,2025,3500000000,2000000000,5000000000,estimate,src_ccrek_kustbeveiliging_2026,medium,Kustvisie project societal CBA NPV class 2-5bn; not approved full plan; stock/plan class; tick811
+bud_dual_secal_advances_2024,gg_belgium,2024,38800000,,,synthesis,src_dual_secal_davo_kust_tick811,strong,Dual SECAL advances 38.8m vs DAVO max path residual; not TE-additive; tick811
