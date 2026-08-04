@@ -17497,3 +17497,28 @@ bud_ugent_result_2025,ugent,2025,61875000,,,cash,src_ugent_jr2025,strong,Resulta
 bud_ugent_fin_opbr_2025,ugent,2025,24245000,,,cash,src_ugent_jr2025,strong,Financiele opbrengsten 24.245m; tick838
 bud_ugent_project_prepay_2025,ugent,2025,189556000,,,stock,src_ugent_jr2025,strong,Ontvangen vooruitbetalingen op bestellingen/projecten YE2025 189.556m; tick838
 bud_ugent_result_2024_jv,ugent,2024,-32276000,,,outturn,src_ugent_jr2025,strong,Resultaat 2024 -32.276m (matches CRC 2024 -32.3m); tick838
+bud_ua_assets_2025,ua,2025,647203000,,,stock,src_ua_jr2025,strong,Total assets YE2025 647.203m (VL neerlegging kEUR); tick839
+bud_ua_equity_2025,ua,2025,483032000,,,stock,src_ua_jr2025,strong,Eigen vermogen YE2025 483.032m; tick839
+bud_ua_reserves_2025,ua,2025,457502000,,,stock,src_ua_jr2025,strong,Reserves/wettelijke YE2025 457.502m (was 393.602m); tick839
+bud_ua_cap_subs_2025,ua,2025,25530000,,,stock,src_ua_jr2025,strong,Kapitaalsubsidies YE2025 25.530m; tick839
+bud_ua_debt_total_2025,ua,2025,154397000,,,stock,src_ua_jr2025,strong,Total schulden YE2025 154.397m; tick839
+bud_ua_fin_debt_2025,ua,2025,7545000,,,stock,src_ua_jr2025,strong,Fin schulden LT 6.961 + ST due 0.584 = 7.545m YE2025; tick839
+bud_ua_fin_debt_lt_2025,ua,2025,6961000,,,stock,src_ua_jr2025,strong,Fin schulden LT overige leningen YE2025 6.961m; tick839
+bud_ua_provisions_2025,ua,2025,9774000,,,stock,src_ua_jr2025,strong,Voorzieningen YE2025 9.774m; tick839
+bud_ua_pension_prov_2025,ua,2025,4500000,,,stock,src_ua_jr2025,strong,Pensioenvoorzieningen YE2025 4.500m; tick839
+bud_ua_cash_2025,ua,2025,119872000,,,stock,src_ua_jr2025,strong,Liquide middelen YE2025 119.872m; tick839
+bud_ua_geldbeleggingen_2025,ua,2025,205926000,,,stock,src_ua_jr2025,strong,Geldbeleggingen YE2025 205.926m; tick839
+bud_ua_cash_beleg_2025,ua,2025,325798000,,,stock,src_ua_jr2025,strong,Cash+beleggingen YE2025 325.798m; tick839
+bud_ua_mva_2025,ua,2025,252712000,,,stock,src_ua_jr2025,strong,Materiele vaste activa YE2025 252.712m; tick839
+bud_ua_bedrijfsopbr_2025,ua,2025,470696000,,,cash,src_ua_jr2025,strong,Bedrijfsopbrengsten 470.696m; 1st stream not split VO form FOI; tick839
+bud_ua_omzet_2025,ua,2025,423198000,,,cash,src_ua_jr2025,strong,Omzet 423.198m; tick839
+bud_ua_bedrijfskosten_2025,ua,2025,469756000,,,cash,src_ua_jr2025,strong,Bedrijfskosten 469.756m; tick839
+bud_ua_bezold_2025,ua,2025,314922000,,,cash,src_ua_jr2025,strong,Bezoldigingen 314.922m (+4.0pct vs 302.915m); tick839
+bud_ua_diensten_2025,ua,2025,101244000,,,cash,src_ua_jr2025,strong,Diensten en diverse goederen 101.244m; tick839
+bud_ua_afschr_2025,ua,2025,25340000,,,cash,src_ua_jr2025,strong,Afschrijvingen 25.340m (was 54.163m); tick839
+bud_ua_bedrijfs_2025,ua,2025,940000,,,cash,src_ua_jr2025,strong,Bedrijfsresultaat +0.940m (was -23.393m); tick839
+bud_ua_result_2025,ua,2025,-5039000,,,cash,src_ua_jr2025,strong,Resultaat boekjaar -5.039m (was +2.373m CRC 2024 match); tick839
+bud_ua_fin_opbr_2025,ua,2025,11601000,,,cash,src_ua_jr2025,strong,Financiele opbrengsten 11.601m; tick839
+bud_ua_fin_costs_2025,ua,2025,17580000,,,cash,src_ua_jr2025,strong,Financiele kosten 17.580m; tick839
+bud_ua_project_prepay_2025,ua,2025,74249000,,,stock,src_ua_jr2025,strong,Ontvangen vooruitbetalingen YE2025 74.249m; tick839
+bud_ua_result_2024_jv,ua,2024,2373000,,,outturn,src_ua_jr2025,strong,Resultaat 2024 +2.373m (matches CRC 2024 +2.4m); tick839

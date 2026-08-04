@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-05T16:00:00Z,rq_828,838,no,tick838 UGent JR2025 dual KUL; next rq_829 residual dual L5; progress@840 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-05T16:30:00Z,rq_829,839,no,tick839 UA JR2025 dual UGent; next progress@840 THEN rq_831 residual; rq_116 deferred
