@@ -18866,3 +18866,41 @@ bud_dlb_gemeentefonds_2025,city_dilbeek,2025,10735099,,,jaarrekening_realized,sr
 bud_dlb_invest_subs_granted_2025,city_dilbeek,2025,657116,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Toegestane investeringssubsidies 0.657m 2025; tick877
 bud_dlb_new_loans_2025,city_dilbeek,2025,5204256,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Nieuwe leningen 5.204m 2025 FOI-adjacent; tick877
 bud_dlb_ocmw_transfer_2025,city_dilbeek,2025,7056598,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Tussenkomst werking OCMW 7.057m 2025; tick877
+bud_lk_assets_2025,city_liedekerke,2025,62607633,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Consol total assets YE2025 62.608m; tick878
+bud_lk_equity_2025,city_liedekerke,2025,36805874,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Nettoactief YE2025 36.806m; tick878
+bud_lk_debt_total_2025,city_liedekerke,2025,25801759,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Schulden total YE2025 25.802m; tick878
+bud_lk_fin_debt_2025,city_liedekerke,2025,18939904,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Financiele schulden total YE2025 18.940m (LT 17.438 + ST due 1.502); tick878
+bud_lk_fin_debt_lt_2025,city_liedekerke,2025,17438324,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Fin schulden LT YE2025 17.438m (declining); tick878
+bud_lk_fin_debt_st_2025,city_liedekerke,2025,1501580,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.502m; tick878
+bud_lk_pension_prov_2025,city_liedekerke,2025,4334797,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Pensioenvoorzieningen YE2025 4.335m (was 3.889m); tick878
+bud_lk_cash_2025,city_liedekerke,2025,9915195,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Liquide middelen YE2025 9.915m; tick878
+bud_lk_cap_subs_2025,city_liedekerke,2025,4358705,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Kapitaalsubsidies YE2025 4.359m; tick878
+bud_lk_fva_igs_2025,city_liedekerke,2025,12617361,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Fin VA IGS YE2025 12.617m; tick878
+bud_lk_cumul_budget_2025,city_liedekerke,2025,11521951,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 11.522m; tick878
+bud_lk_bbr_2025,city_liedekerke,2025,10994187,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Beschikbaar budgettair resultaat YE2025 10.994m; tick878
+bud_lk_expl_rec_2025,city_liedekerke,2025,23558117,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Exploitatieontvangsten 23.558m 2025; tick878
+bud_lk_expl_exp_2025,city_liedekerke,2025,19432679,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Exploitatieuitgaven 19.433m 2025; tick878
+bud_lk_expl_saldo_2025,city_liedekerke,2025,4125438,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Exploitatiesaldo +4.125m 2025; tick878
+bud_lk_invest_exp_2025,city_liedekerke,2025,1922434,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Investeringsuitgaven 1.922m 2025; tick878
+bud_lk_invest_rec_2025,city_liedekerke,2025,2390317,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Investeringsontvangsten 2.390m 2025 (incl asset sales ~2.3m); tick878
+bud_lk_invest_saldo_2025,city_liedekerke,2025,467883,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Investeringssaldo +0.468m 2025; tick878
+bud_lk_fin_saldo_2025,city_liedekerke,2025,-1106701,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Financieringssaldo -1.107m 2025; tick878
+bud_lk_budget_result_2025,city_liedekerke,2025,3486621,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Budgettair resultaat boekjaar +3.487m 2025; tick878
+bud_lk_afm_2025,city_liedekerke,2025,2676704,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Autofinancieringsmarge +2.677m 2025; tick878
+bud_lk_afm_gecorr_2025,city_liedekerke,2025,2613804,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Gecorrigeerde AFM +2.614m 2025; tick878
+bud_lk_pl_2025,city_liedekerke,2025,3765730,,,jaarrekening_realized,src_liedekerke_jr2025,strong,P&L overschot +3.766m 2025; tick878
+bud_lk_personnel_2025,city_liedekerke,2025,9587554,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Bezoldigingen 9.588m 2025 (incl onderwijs other 1.706m); tick878
+bud_lk_personnel_onderwijs_other_2025,city_liedekerke,2025,1705962,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Onderwijzend personeel ten laste van andere 1.706m 2025; tick878
+bud_lk_toelagen_2025,city_liedekerke,2025,3346308,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toegestane werkingssubsidies 3.346m 2025; tick878
+bud_lk_toelagen_police_2025,city_liedekerke,2025,2053944,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toelage politiezone 2.054m 2025; tick878
+bud_lk_toelagen_fire_2025,city_liedekerke,2025,728422,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toelage hulpverleningszone 0.728m 2025; tick878
+bud_lk_toelagen_igs_2025,city_liedekerke,2025,164309,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toelage IGS 0.164m 2025; tick878
+bud_lk_toelagen_other_2025,city_liedekerke,2025,302918,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toelagen andere 0.303m 2025; tick878
+bud_lk_ocmw_aid_2025,city_liedekerke,2025,1327600,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Individuele hulpverlening OCMW 1.328m 2025; tick878
+bud_lk_fiscal_2025,city_liedekerke,2025,12181252,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Fiscale opbrengsten 12.181m 2025; tick878
+bud_lk_fiscal_ov_2025,city_liedekerke,2025,4907440,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Opcentiemen OV 4.907m 2025; tick878
+bud_lk_fiscal_apb_2025,city_liedekerke,2025,6056665,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Aanvullende PB 6.057m 2025; tick878
+bud_lk_gemeentefonds_2025,city_liedekerke,2025,4044986,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Gemeentefonds 4.045m 2025; tick878
+bud_lk_invest_subs_granted_2025,city_liedekerke,2025,153664,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toegestane investeringssubsidies 0.154m 2025; tick878
+bud_lk_new_loans_2025,city_liedekerke,2025,478166,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Nieuwe leningen/leasings 0.478m 2025; tick878
+bud_lk_asset_sales_2025,city_liedekerke,2025,2302224,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Verkoop MVA andere 2.302m 2025 FOI-adjacent; tick878

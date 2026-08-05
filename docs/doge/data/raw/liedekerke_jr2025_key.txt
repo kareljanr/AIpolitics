@@ -1,0 +1,22 @@
+Liedekerke JR2025 (BBC consol)
+Source: https://www.liedekerke.be/system/files/2026-06/bijlage-19_Jaarrekening-2025-Gemeentebestuur-en-OCMW-Liedekerke.pdf
+107p; NIS 23044; GR/OCMW 2026-05-21
+tick878
+
+Assets 62607633 / Equity 36805874 / Debt total 25801759
+Cash 9915195 / Cap subs 4358705
+Fin debt 18939904 (LT 17438324 + ST due 1501580)
+New loans 478166
+Pension 4334797 was 3888923
+FVA IGS 12617361
+Expl rec 23558117 / exp 19432679 / saldo 4125438
+AFM 2676704 / gecorr 2613804
+BBR 10994187 / cumul 11521951
+Budget result 3486621 / P&L 3765730
+Personnel 9587554 (onderwijs other 1705962)
+Toelagen 3346308 (police 2053944 fire 728422 IGS 164309 other 302918)
+OCMW aid 1327600
+Fiscal 12181252 (OV 4907440 APB 6056665)
+Gemeentefonds 4044986
+Invest exp 1922434 / invest rec 2390317 / asset sales MVA 2302224
+Invest-subs granted 153664
