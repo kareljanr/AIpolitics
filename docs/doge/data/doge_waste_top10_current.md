@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1030** (2026-08-10) · **~4996** leaderboard rows  
+**As-of:** tick **1040** (2026-08-10) · **~5076** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Hoogstraten **€186m** / Kontich **€139m** / Arendonk **€142m** / Vosselaar **€82.5m** / Zandhoven **€78m** / dual stack retained) · **AGB dual AFM near-zero/NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Zandhoven new loans €7.88m** / **Kontich BBR −€1.78m +loans €5.00m** / **Vosselaar FVA reval +€14.60m + OCMW cover 0 equity −€4.85m** / **Arendonk OCMW equity −€17.24m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Ravels **€164m** / SZ **€93m** / Grobbendonk **€84m** / Laakdal **€81m** / Herselt **€72m** / dual stack retained) · **AGB dual AFM near-zero/NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Grobbendonk budget −€3.46m +fin debt €13.89m +OCMW cum −€6.58m** / **SZ budget −€1.78m +OCMW cover €3.60m** / **Herselt pension JUMP €5.35m** / **Laakdal pension JUMP €8.74m** / **Vosselaar FVA reval +€14.60m**.
 
-**Change vs tick 1020:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1021–1030 (off pure top10 / dual):** Vosselaar **€82.5m** (FVA IGS **€31.53m JUMP reval +€14.60m**, cash **€14.20m**, BBR **€13.53m**, AFM **+€5.42m**, OCMW cover **0**, equity cum **−€4.85m**, invest **€3.13 vs MJP €12.07m**, MJP bank **€9.5m not taken**) · Zandhoven **€78.2m** (new loans **€7.88m JUMP**, fin debt **€11.89m**, OCMW cover **0** cum **−€5.16m**) · Kontich **€138.8m** (BBR **−€1.78m**, budget **−€1.28m**, loans **€5.00m**, OCMW equity **−€18.05m**) · Arendonk **€142.1m** (OCMW equity **−€17.24m**, cover **0**) · Hoogstraten **€186.4m** / Lint **€54.7m** pension JUMP. Gain is **FVA reval + OCMW cover ZERO cluster + loan JUMP** more than FFS reshuffle.
+**Change vs tick 1030:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1031–1040 (off pure top10 / dual):** Grobbendonk **€84.1m** (budget **−€3.46m NEG HIGH**, BBR **−€1.55m**, fin debt **€13.89m JUMP**, ST **€5.17m**, OCMW cover **€2.08m FULL**, OCMW cum **−€6.58m WORSENING**, WV JUMP **€1.40m**, cash **€1.28m LOW**, invest **€10.10 vs MJP €19.75m**) · SZ **€93.2m** (budget **−€1.78m**, OCMW cover **€3.60m**, FVA IGS **€20.71m**) · Herselt pension JUMP **€5.35m** / OCMW cover **€2.20m** · Laakdal pension JUMP **€8.74m** · Retie P&L **−€4.30m** · Herenthout OCMW cover **0** equity **−€9.34m** · Ravels cash **€25.79m**. Gain is **NEG budget + FULL OCMW cover / deep OCMW cum + WV grant JUMP** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,13 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_vos_fva_igs_reval_31_53m_2025` | **31.5 m stock** | **~6.65** | **NEW 1030** Vosselaar FVA reval |
-| — | `lb_zan_new_loans_7_88m_2025` | **7.88 m** | **~6.65** | **NEW 1029** Zandhoven loans JUMP |
-| — | `lb_vos_ocmw_cover_zero_4_85m_2025` | **4.85 m stock** | **~6.48** | **NEW 1030** Vosselaar OCMW cover 0 |
-| — | `lb_vos_invest_underspend_mjp_9_5m_loans_2025` | **9.5 m planned** | **~6.48** | **NEW 1030** MJP bank not taken |
+| — | `lb_grob_budget_neg_3_46m_2025` | **3.46 m** | **~6.65** | **NEW 1040** Grobbendonk budget NEG HIGH |
+| — | `lb_grob_ocmw_cover_2_08m_2025` | **2.08 m** | **~6.65** | **NEW 1040** OCMW FULL + cum −6.58m |
+| — | `lb_grob_fin_debt_13_89m_2025` | **13.9 m stock** | **~6.48** | **NEW 1040** debt JUMP + ST 5.17m |
+| — | `lb_sz_ocmw_cover_3_60m_2025` | **3.60 m** | **~6.48** | **1038** SZ OCMW cover |
+| — | `lb_vos_fva_igs_reval_31_53m_2025` | **31.5 m stock** | **~6.65** | **1030** Vosselaar FVA reval |
+| — | `lb_zan_new_loans_7_88m_2025` | **7.88 m** | **~6.65** | **1029** Zandhoven loans JUMP |
 | — | `lb_wil_budget_neg_13_40m_2025` | **13.4 m** | **~6.65** | **1020** Willebroek budget NEG HIGH |
-| — | `lb_kon` BBR/debt/OCMW stack | **1.78 m / 5.00 m / 18.05 m** | **~6.3** | **1027** Kontich dual |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,7 +57,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_vos_fva_igs_reval_31_53m_2025` | **8.5** | **NEW 1030** Vosselaar FVA reval +14.6m |
-| `lb_zan_new_loans_7_88m_2025` | **8.5** | **NEW 1029** Zandhoven loans JUMP |
+| `lb_grob_budget_neg_3_46m_2025` | **8.5** | **NEW 1040** Grobbendonk budget −3.46m |
+| `lb_grob_ocmw_cover_2_08m_2025` | **8.5** | **NEW 1040** OCMW cum −6.58m |
+| `lb_vos_fva_igs_reval_31_53m_2025` | **8.5** | **1030** Vosselaar FVA reval +14.6m |
+| `lb_zan_new_loans_7_88m_2025` | **8.5** | **1029** Zandhoven loans JUMP |
 | `lb_wil_budget_neg_13_40m_2025` | **8.5** | Willebroek budget −13.4m |
-| `lb_bee_ocmw_cover_zero` | **8.5** | Beernem OCMW cum cover 0 |

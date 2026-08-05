@@ -13736,3 +13736,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1040** residual dual L5 + **decade progress@1040**; deferred **rq_116**
 
+
+
+### Tick 1040 - 2026-08-10T09:15:00Z
+
+- Unit: **rq_1040** (FOI-adjacent residual dual - **Gemeente+OCMW Grobbendonk Jaarrekening 2025** + Herselt dual residual + **decade progress@1040**)
+- Found (strong primary BBC JR2025 328p portal; KBO 0207.501.806 / OCMW 0212.214.620; Boudewijnstraat 4 NIS 13010; AD Daan Ceulemans FD Kristine Soentjens; pub 01.07.2026):
+  - Assets **EUR84.12m DROP** (was **EUR92.55m**) / equity **EUR60.23m DROP** / debt total **EUR23.89m JUMP** / fin debt **EUR13.89m JUMP** (was **EUR11.85m**; LT **EUR7.85m** / ST due **EUR0.861m** / ST **EUR5.17m HIGH**)
+  - New loans **EUR2.57m JUMP** / MJP fin-rec planned **EUR8.43m** only partly realized / repayments **EUR1.00m**
+  - Cash **EUR1.28m LOW DROP** (was **EUR1.60m**) / pension **EUR1.06m stable** / FVA IGS **EUR20.60m HIGH FOI** / FVA OCMW-ver **EUR-0.452m NEG** / leasing MVA **EUR1.50m**
+  - Exploitatie: ontvangsten **EUR23.77m** / uitgaven **EUR21.79m** / saldo **+EUR1.99m**
+  - AFM **+EUR0.984m** (gecorr **+EUR1.04m**) / BBR **EUR-1.55m NEG HIGH FOI** / budget **EUR-3.46m NEG HIGH FOI** / cum BR **EUR-1.55m** / P&L **EUR-0.164m**
+  - Personnel **EUR11.85m** VTE lokaal **115.13** (GE **84.67** / OCMW **30.46**) / toelagen **EUR3.54m FOI** (WV De Wijngaard **EUR1.40m JUMP** was **EUR0.225m** / police **EUR1.25m** / fire **EUR0.329m** / IGS **EUR0.187m** / other **EUR0.344m**)
+  - Invest **EUR10.10m** vs MJP **EUR19.75m UNDERSPEND** / invest-subs granted **EUR0.227m**
+  - **OCMW cover EUR2.08m FULL FOI** vs gap **EUR-1.13m** / OCMW cum BR **EUR-6.58m WORSENING** (was **EUR-4.39m**) / OCMW budget **EUR-2.19m**
+- Dual: Herselt assets **EUR71.85m** / pension JUMP **EUR5.35m** / OCMW cover **EUR2.20m** (tick1039) - not TE-additive
+- Note: Hulshout residual next; Torhout news-only; Stekene download 404 still; Balen OCR; progress@1050 in 10
+- Wrote: budgets +54 (bud_grob_*); commitments +6; leaderboard +8; sources +1; entity city_grobbendonk; FOI **gap_grob_budget_ocmw_wv_debt_l5** prio9 ready + draft; key only (PDF ~21MB not stored in git); rq_1040=done; spawn **rq_1041**; ticks=1040
+- Progress@1040: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure top10 stable; dual gain NEG budget + FULL OCMW cover / WV JUMP)
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1041** residual dual L5 (Hulshout / Torhout / Stekene if PDF / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1050 in 10
+

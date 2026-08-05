@@ -25783,3 +25783,57 @@ bud_her_lt_receivables_2025,city_herselt,2025,7186600,,,bbc_jr_realized,src_hers
 bud_her_toegestane_leningen_recover_2025,city_herselt,2025,210680,,,bbc_jr_realized,src_herselt_jr2025,strong,Terugvordering toegestane leningen 2025 0.211m; tick1039
 bud_her_mva_buildings_2025,city_herselt,2025,29279152,,,bbc_jr_realized,src_herselt_jr2025,strong,Terreinen en gebouwen YE2025 29.28m; tick1039
 bud_her_mva_roads_2025,city_herselt,2025,10993675,,,bbc_jr_realized,src_herselt_jr2025,strong,Wegen infrastructuur YE2025 10.99m JUMP; tick1039
+bud_grob_assets_2025,city_grobbendonk,2025,84115183,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Assets YE2025 84.12m DROP (was 92.55m); tick1040
+bud_grob_equity_2025,city_grobbendonk,2025,60228422,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Nettoactief YE2025 60.23m DROP (was 71.91m); tick1040
+bud_grob_debt_total_2025,city_grobbendonk,2025,23886762,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Total schulden YE2025 23.89m JUMP (was 20.64m); tick1040
+bud_grob_fin_debt_2025,city_grobbendonk,2025,13886063,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Fin debt total YE2025 13.89m JUMP (was 11.85m T4); tick1040
+bud_grob_fin_debt_lt_2025,city_grobbendonk,2025,7854653,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Fin debt LT YE2025 7.85m JUMP; tick1040
+bud_grob_fin_debt_st_due_2025,city_grobbendonk,2025,861410,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Fin debt ST due YE2025 0.861m; tick1040
+bud_grob_fin_debt_st_2025,city_grobbendonk,2025,5170000,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Fin debt ST YE2025 5.17m HIGH JUMP (was 4.70m); tick1040
+bud_grob_new_loans_2025,city_grobbendonk,2025,2569372,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,New loans/leases 2025 2.57m JUMP FOI; tick1040
+bud_grob_repayments_2025,city_grobbendonk,2025,1003831,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Repayments 2025 1.00m; tick1040
+bud_grob_cash_2025,city_grobbendonk,2025,1283371,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Liquide middelen YE2025 1.28m LOW DROP (was 1.60m); tick1040
+bud_grob_pension_prov_2025,city_grobbendonk,2025,1058670,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.06m stable; tick1040
+bud_grob_fva_total_2025,city_grobbendonk,2025,20330006,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,FVA total YE2025 20.33m; tick1040
+bud_grob_fva_igs_2025,city_grobbendonk,2025,20595477,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,FVA IGS YE2025 20.60m HIGH FOI; tick1040
+bud_grob_fva_ocmw_ver_2025,city_grobbendonk,2025,-452110,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,FVA OCMW-verenigingen YE2025 -0.452m NEG FOI; tick1040
+bud_grob_leasing_mva_2025,city_grobbendonk,2025,1500953,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Leasing MVA YE2025 1.50m (Licht als Dienst); tick1040
+bud_grob_expl_ontvangsten_2025,city_grobbendonk,2025,23772768,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Exploitatie ontvangsten 2025 23.77m; tick1040
+bud_grob_expl_uitgaven_2025,city_grobbendonk,2025,21786960,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Exploitatie uitgaven 2025 21.79m; tick1040
+bud_grob_expl_saldo_2025,city_grobbendonk,2025,1985809,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Exploitatiesaldo 2025 +1.99m; tick1040
+bud_grob_invest_spend_2025,city_grobbendonk,2025,10104706,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Invest uitgaven 2025 10.10m vs MJP 19.75m UNDERSPEND; tick1040
+bud_grob_invest_rec_2025,city_grobbendonk,2025,3088087,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Invest ontvangsten 2025 3.09m; tick1040
+bud_grob_invest_saldo_2025,city_grobbendonk,2025,-7016619,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Investeringssaldo 2025 -7.02m; tick1040
+bud_grob_fin_saldo_2025,city_grobbendonk,2025,1567641,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Financieringssaldo 2025 +1.57m; tick1040
+bud_grob_afm_2025,city_grobbendonk,2025,984078,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,AFM 2025 +0.984m; tick1040
+bud_grob_afm_gecorr_2025,city_grobbendonk,2025,1039867,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Gecorrigeerde AFM 2025 +1.04m; tick1040
+bud_grob_bbr_2025,city_grobbendonk,2025,-1546041,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,BBR YE2025 -1.55m NEG HIGH FOI; tick1040
+bud_grob_budget_result_2025,city_grobbendonk,2025,-3463169,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Budgettair resultaat boekjaar 2025 -3.46m NEG HIGH FOI; tick1040
+bud_grob_cum_budget_2025,city_grobbendonk,2025,-1546041,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Gecumuleerd BR YE2025 -1.55m NEG; tick1040
+bud_grob_pnl_2025,city_grobbendonk,2025,-163583,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,P&L tekort 2025 -0.164m; tick1040
+bud_grob_personnel_2025,city_grobbendonk,2025,11847677,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Personnel 2025 11.85m VTE lokaal 115.13; tick1040
+bud_grob_toelagen_2025,city_grobbendonk,2025,3536339,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Toegestane werkingssubsidies 2025 3.54m FOI; tick1040
+bud_grob_wv_toelage_2025,city_grobbendonk,2025,1397469,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Welzijnsvereniging De Wijngaard toelage 2025 1.40m JUMP FOI (was 0.225m); tick1040
+bud_grob_police_toelage_2025,city_grobbendonk,2025,1252588,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Politiezone toelage 2025 1.25m; tick1040
+bud_grob_fire_toelage_2025,city_grobbendonk,2025,329492,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,HVZ toelage 2025 0.329m; tick1040
+bud_grob_igs_toelage_2025,city_grobbendonk,2025,186707,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,IGS toelage 2025 0.187m; tick1040
+bud_grob_eredienst_toelage_2025,city_grobbendonk,2025,25733,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Eredienst toelage 2025 0.026m; tick1040
+bud_grob_other_toelage_2025,city_grobbendonk,2025,344351,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Andere toelagen 2025 0.344m FOI (was 1.95m reclass); tick1040
+bud_grob_invest_subs_granted_2025,city_grobbendonk,2025,227287,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Toegestane invest-subs 2025 0.227m (WV 0.168 police 0.068); tick1040
+bud_grob_ocmw_cover_2025,city_grobbendonk,2025,2082029,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,OCMW cover tussenkomst 2025 2.08m FULL FOI; tick1040
+bud_grob_ocmw_expl_gap_2025,city_grobbendonk,2025,-1130312,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,OCMW expl saldo 2025 -1.13m; tick1040
+bud_grob_ocmw_cum_budget_2025,city_grobbendonk,2025,-6579421,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,OCMW cum BR YE2025 -6.58m WORSENING (was -4.39m); tick1040
+bud_grob_ocmw_budget_result_2025,city_grobbendonk,2025,-2190991,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,OCMW budget result 2025 -2.19m; tick1040
+bud_grob_ocmw_expl_ont_2025,city_grobbendonk,2025,4482085,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,OCMW expl ontvangsten 2025 4.48m; tick1040
+bud_grob_ocmw_expl_uit_2025,city_grobbendonk,2025,5612397,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,OCMW expl uitgaven 2025 5.61m; tick1040
+bud_grob_gemeente_bbr_2025,city_grobbendonk,2025,5033380,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Gemeente BBR YE2025 5.03m (consol -1.55m); tick1040
+bud_grob_gemeente_budget_2025,city_grobbendonk,2025,-1272178,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Gemeente budget result 2025 -1.27m; tick1040
+bud_grob_fiscal_2025,city_grobbendonk,2025,12983064,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Fiscale opbrengsten en boetes 2025 12.98m; tick1040
+bud_grob_werkingssubsidies_rec_2025,city_grobbendonk,2025,8451320,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Werkingssubsidies received 2025 8.45m; tick1040
+bud_grob_goederen_diensten_2025,city_grobbendonk,2025,5108593,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Goederen en diensten 2025 5.11m; tick1040
+bud_grob_mjp_invest_2025,city_grobbendonk,2025,19752090,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,MJP invest krediet eind 2025 19.75m (realized 10.10m); tick1040
+bud_grob_mjp_fin_rec_2025,city_grobbendonk,2025,8431969,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,MJP fin ontvangsten planned 2025 8.43m (realized 2.57m); tick1040
+bud_grob_bank_loan_stock_2025,city_grobbendonk,2025,7215109,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,Bank loan stock YE2025 7.22m excl lease; tick1040
+bud_grob_vte_ge_2025,city_grobbendonk,2025,8467,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,VTE gemeente YE2025 84.67 (x100 scale); tick1040
+bud_grob_vte_ocmw_2025,city_grobbendonk,2025,3046,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,VTE OCMW YE2025 30.46 (x100 scale); tick1040
+bud_grob_vte_total_2025,city_grobbendonk,2025,11513,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,VTE lokaal bestuur YE2025 115.13 (x100 scale); tick1040

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1040** (2026-08-10)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1031-1040: Ravels **EUR164.3m** / Herenthout **EUR56.7m** / Retie **EUR75.7m** / Laakdal **EUR81.2m** / Scherpenheuvel-Zichem **EUR93.2m** / Herselt **EUR71.9m** / **Grobbendonk EUR84.1m** · prior 1021-1030 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1031-1040 is VL residual dual L5 (not near-complete of 348bn):** personnel SZ **EUR20.45m** / Grobbendonk **EUR11.85m** / Herselt **EUR10.77m** / Laakdal · FOI-adjacent: **Grobbendonk budget −EUR3.46m NEG HIGH** / BBR **−EUR1.55m** / fin debt **EUR13.89m JUMP +loans EUR2.57m ST EUR5.17m** / OCMW cover **EUR2.08m FULL** cum **−EUR6.58m WORSENING** / WV De Wijngaard **EUR1.40m JUMP** / cash **EUR1.28m LOW** / invest **EUR10.10 vs MJP EUR19.75m** · **SZ budget −EUR1.78m** / OCMW cover **EUR3.60m** / FVA IGS **EUR20.71m** · **Herselt pension JUMP EUR5.35m** / OCMW cover **EUR2.20m** · **Laakdal pension JUMP EUR8.74m** / OCMW cover **EUR2.13m** · **Retie P&L −EUR4.30m** / pension JUMP **EUR4.88m** · **Herenthout OCMW cover 0** equity **−EUR9.34m** · **Ravels cash EUR25.79m** / pension JUMP **EUR4.76m** |
+| **E. FOI-ready gaps** | **~690** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~732** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Ravels **EUR164m** / SZ **EUR93m** / Grobbendonk **EUR84m** / Laakdal **EUR81m** / Herselt **EUR72m** / prior dual stack retained not full TE) · **AGB dual AFM near-zero/NEG** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1040)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~25838 |
+| commitments.csv | ~3196 |
+| leaderboard.csv | ~5076 |
+| entities.csv | ~759 |
+| sources.csv | ~1953 |
+| FOI ready | ~690 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~732 |
+| research_queue open | rq_116 deferred + rq_1041 hole-fill after progress |
+
+### What improved since tick 1030
+
+- **VL residual dual JR2025 (tick1031-1040):** Ravels / Herenthout / Retie / Laakdal / Scherpenheuvel-Zichem / Herselt · **Grobbendonk EUR84.1m** / budget **−EUR3.46m NEG HIGH** / BBR **−EUR1.55m** / fin debt **EUR13.89m JUMP** / ST **EUR5.17m** / OCMW cover **EUR2.08m FULL** cum **−EUR6.58m** / WV JUMP **EUR1.40m** / cash **EUR1.28m LOW** · **SZ EUR93.2m** / budget **−EUR1.78m** / OCMW cover **EUR3.60m** / FVA IGS **EUR20.71m** · **Herselt pension JUMP EUR5.35m** / OCMW cover **EUR2.20m** · **Laakdal pension JUMP EUR8.74m** · **Retie P&L −EUR4.30m** · **Herenthout OCMW cover 0** equity **−EUR9.34m** · **Ravels cash EUR25.79m HIGH**.
+- **Dual map:** FULL OCMW-cover cluster (Grobbendonk / SZ / Herselt / Laakdal / Retie) with deep OCMW cum residuals vs ZERO-cover (Herenthout) · large NEG budget year (Grobbendonk **−EUR3.46m** / SZ **−EUR1.78m**) under positive AFM · WV/AGB toelage JUMP path (Grobbendonk WV **EUR1.40m**) · low-cash high-invest (Grobbendonk cash **EUR1.28m** / invest **EUR10.1m**).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1030** (2026-08-10)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
