@@ -15318,3 +15318,25 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45 (bud_zav_* / bud_zavagb_*); commitments +9; leaderboard +12; sources +1; entities city_zaventem + agb_zaventem; FOI **gap_zav_ocmw_toelagen_pension_invest_l5** prio9 ready + draft; PDF primary (not committed ~6.5MB); rq_1118=done; spawn **rq_1119**; ticks=1118
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1119** residual dual L5; deferred **rq_116**; progress@1120 in 2
+
+### Tick 1119 - 2026-08-12T01:00:00Z
+
+- Unit: **rq_1119** (FOI-adjacent residual dual - **AGB Zaventem Jaarrekening 2025** Entity II + Zaventem GE+OCMW dual residual)
+- Found (strong primary BBC JR2025 AGB 151p text; zaventem.be; KBO **0812.315.414**; Diegemstraat 37 1930; AD Kurt Meeus FD Johan Decraene; AGB only — dual after GE+OCMW tick1118):
+  - Assets **EUR27.028m DROP** (was **EUR28.804m**) / equity **EUR2.326m** / debt total **EUR24.701m** / fin debt **EUR23.755m MASSIVE FOI** (LT **EUR22.207m** / ST due **EUR1.549m**; was **EUR24.253m**)
+  - New loans **EUR1.082m FOI** (=GE / other entity; =invest) / repayments **EUR1.580m**
+  - Cash **EUR0.062m CRITICAL DROP FOI** (was **EUR3.208m**; **−EUR3.146m**)
+  - KT vorderingen **EUR1.910m JUMP FOI** (was **EUR0.250m**; niet-ruil **EUR1.693m**)
+  - Exploitatie: ontvangsten **EUR4.167m** / uitgaven **EUR2.974m** / saldo **+EUR1.194m STRONG**
+  - AFM **−EUR0.386m NEG FOI** (gecorr **−EUR0.747m**; MJP was **−EUR0.349m**) / BBR **EUR1.112m** / budget **−EUR0.188m NEG FOI**
+  - P&L/winst **+EUR0.068m DROP** (was **+EUR0.409m**) / **uitgekeerde winst EUR0.250m > winst HIGH FOI**
+  - **Prijssubsidie gemeente EUR2.990m FOI** (GE toelage was **EUR3.230m** recon FOI)
+  - Omzet **EUR4.121m** / goederen **EUR2.541m** / **personeel ~EUR0 ZERO** (outsourcing model FOI)
+  - Invest **EUR1.082m** vs MJP **EUR2.391m UNDERSPEND FOI** / intresten **EUR0.101m**
+  - Kapitaalsvermeerdering city **EUR0.197m** annual FOI
+  - MVA **EUR25.026m** (leasing **EUR3.246m**)
+- Dual: Zaventem GE OCMW cum **−EUR23.87m DEEP** / toelagen **EUR17.3m** / FVA IGS **EUR50.6m** (tick1118) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken residual next; **progress@1120 NEXT**
+- Wrote: budgets +~23 AGB full (bud_zavagb_*); commitments +8; leaderboard +10; sources +1; entity agb_zaventem updated; FOI **gap_zavagb_debt_cash_dividend_prijssub_l5** prio9 ready + draft; PDF primary (not committed ~9.7MB); rq_1119=done; spawn **rq_1120**; ticks=1119
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1120** = **progress@1120 decade refresh** then residual dual L5; deferred **rq_116**
