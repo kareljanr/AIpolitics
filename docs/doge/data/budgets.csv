@@ -27917,3 +27917,56 @@ bud_zou_fiscal_pb_2025,city_zoutleeuw,2025,3416664,,,bbc_jr_realized,src_zoutlee
 bud_zou_gemeentefonds_2025,city_zoutleeuw,2025,2949158,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Gemeentefonds 2.949m; tick1082
 bud_zou_interest_2025,city_zoutleeuw,2025,461212,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Intresten op leningen 0.461m; tick1082
 bud_zou_goederen_2025,city_zoutleeuw,2025,4876477,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Goederen en diensten 4.876m; tick1082
+bud_lin_assets_2025,city_linter,2025,47417079,,,bbc_jr_realized,src_linter_jr2025,strong,Assets YE2025 47.417m (was 44.658m); tick1083
+bud_lin_equity_2025,city_linter,2025,37712320,,,bbc_jr_realized,src_linter_jr2025,strong,Nettoactief YE2025 37.712m (was 35.978m); tick1083
+bud_lin_debt_total_2025,city_linter,2025,9704758,,,bbc_jr_realized,src_linter_jr2025,strong,Total schulden YE2025 9.705m JUMP (was 8.680m); tick1083
+bud_lin_fin_debt_2025,city_linter,2025,3200701,,,bbc_jr_realized,src_linter_jr2025,strong,Fin debt total YE2025 3.201m DECLINE (was 3.517m); tick1083
+bud_lin_fin_debt_lt_2025,city_linter,2025,2736154,,,bbc_jr_realized,src_linter_jr2025,strong,Fin debt LT YE2025 2.736m DECLINE (was 3.076m); tick1083
+bud_lin_fin_debt_st_due_2025,city_linter,2025,464547,,,bbc_jr_realized,src_linter_jr2025,strong,Fin debt ST due YE2025 0.465m; tick1083
+bud_lin_new_loans_2025,city_linter,2025,129022,,,bbc_jr_realized,src_linter_jr2025,strong,Nieuwe leningen 2025 0.129m LOW leasing-heavy; tick1083
+bud_lin_aflossingen_2025,city_linter,2025,445235,,,bbc_jr_realized,src_linter_jr2025,strong,Periodieke aflossingen 2025 0.445m; tick1083
+bud_lin_cash_2025,city_linter,2025,10134521,,,bbc_jr_realized,src_linter_jr2025,strong,Liquide middelen YE2025 10.135m HIGH slight DROP (was 10.880m); tick1083
+bud_lin_pension_2025,city_linter,2025,3736618,,,bbc_jr_realized,src_linter_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.737m DROP (was 3.985m); tick1083
+bud_lin_cap_subs_2025,city_linter,2025,5345956,,,bbc_jr_realized,src_linter_jr2025,strong,Kapitaalsubsidies YE2025 5.346m; tick1083
+bud_lin_fva_total_2025,city_linter,2025,8907547,,,bbc_jr_realized,src_linter_jr2025,strong,FVA total YE2025 8.908m; tick1083
+bud_lin_fva_igs_2025,city_linter,2025,7711864,,,bbc_jr_realized,src_linter_jr2025,strong,FVA IGS YE2025 7.712m; tick1083
+bud_lin_leasing_mva_2025,city_linter,2025,809477,,,bbc_jr_realized,src_linter_jr2025,strong,Leasing MVA YE2025 0.809m; tick1083
+bud_lin_expl_rec_2025,city_linter,2025,13777646,,,bbc_jr_realized,src_linter_jr2025,strong,Exploitatieontvangsten 13.778m; tick1083
+bud_lin_expl_exp_2025,city_linter,2025,11235345,,,bbc_jr_realized,src_linter_jr2025,strong,Exploitatieuitgaven 11.235m; tick1083
+bud_lin_expl_saldo_2025,city_linter,2025,2542301,,,bbc_jr_realized,src_linter_jr2025,strong,Exploitatiesaldo +2.542m STRONG; tick1083
+bud_lin_invest_exp_2025,city_linter,2025,4437459,,,bbc_jr_realized,src_linter_jr2025,strong,Investeringsuitgaven 4.437m vs MJP 11.795m UNDERSPEND FOI; tick1083
+bud_lin_invest_rec_2025,city_linter,2025,152131,,,bbc_jr_realized,src_linter_jr2025,strong,Investeringsontvangsten 0.152m; tick1083
+bud_lin_invest_saldo_2025,city_linter,2025,-4285328,,,bbc_jr_realized,src_linter_jr2025,strong,Investeringssaldo -4.285m; tick1083
+bud_lin_mjp_invest_planned_2025,city_linter,2025,11795012,,,bbc_jr_realized,src_linter_jr2025,strong,MJP invest planned 11.795m vs realized 4.437m UNDERSPEND FOI; tick1083
+bud_lin_invest_mva_2025,city_linter,2025,4437459,,,bbc_jr_realized,src_linter_jr2025,strong,Investeringen gross invest exp 4.437m; tick1083
+bud_lin_invest_subs_granted_2025,city_linter,2025,22621,,,bbc_jr_realized,src_linter_jr2025,strong,Toegestane invest-subs 0.023m; tick1083
+bud_lin_afm_2025,city_linter,2025,2097067,,,bbc_jr_realized,src_linter_jr2025,strong,AFM +2.097m STRONG; tick1083
+bud_lin_afm_corr_2025,city_linter,2025,2260948,,,bbc_jr_realized,src_linter_jr2025,strong,Gecorrigeerde AFM +2.261m STRONG; tick1083
+bud_lin_bbr_2025,city_linter,2025,8974860,,,bbc_jr_realized,src_linter_jr2025,strong,BBR beschikbaar +8.975m HIGH; tick1083
+bud_lin_budget_result_2025,city_linter,2025,-2114881,,,bbc_jr_realized,src_linter_jr2025,strong,Budgettair resultaat -2.115m NEG HIGH FOI invest-driven; tick1083
+bud_lin_cum_br_2025,city_linter,2025,9749074,,,bbc_jr_realized,src_linter_jr2025,strong,Gecumuleerd budgettair resultaat +9.749m; tick1083
+bud_lin_onbeschikbaar_2025,city_linter,2025,774214,,,bbc_jr_realized,src_linter_jr2025,strong,Onbeschikbare gelden 0.774m (toekomstfonds PBE); tick1083
+bud_lin_pnl_2025,city_linter,2025,1758219,,,bbc_jr_realized,src_linter_jr2025,strong,P&L +1.758m; tick1083
+bud_lin_ge_expl_exp_2025,city_linter,2025,9818849,,,bbc_jr_realized,src_linter_jr2025,strong,GE exploitatieuitgaven J3 9.819m; tick1083
+bud_lin_ge_expl_rec_2025,city_linter,2025,12873244,,,bbc_jr_realized,src_linter_jr2025,strong,GE exploitatieontvangsten J3 12.873m; tick1083
+bud_lin_ocmw_expl_exp_2025,city_linter,2025,1416495,,,bbc_jr_realized,src_linter_jr2025,strong,OCMW exploitatieuitgaven J3 1.416m; tick1083
+bud_lin_ocmw_expl_rec_2025,city_linter,2025,904402,,,bbc_jr_realized,src_linter_jr2025,strong,OCMW exploitatieontvangsten J3 0.904m; tick1083
+bud_lin_ocmw_expl_gap_2025,city_linter,2025,-512093,,,bbc_jr_realized,src_linter_jr2025,strong,OCMW expl gap J3 -0.512m; tick1083
+bud_lin_ocmw_cover_2025,city_linter,2025,0,,,bbc_jr_realized,src_linter_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI residual; GE pass-through in specific subsidies residual FOI; tick1083
+bud_lin_equity_cum_2025,city_linter,2025,15940572,,,bbc_jr_realized,src_linter_jr2025,strong,Gecumuleerd equity overschot YE2025 +15.941m; tick1083
+bud_lin_personnel_2025,city_linter,2025,5692474,,,bbc_jr_realized,src_linter_jr2025,strong,Bezoldigingen T2 5.692m incl education pass-through 1.657m; tick1083
+bud_lin_edu_pass_through_2025,city_linter,2025,1656515,,,bbc_jr_realized,src_linter_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.657m; tick1083
+bud_lin_toelagen_2025,city_linter,2025,1984971,,,bbc_jr_realized,src_linter_jr2025,strong,Toegestane werkingssubsidies 1.985m FOI residual; tick1083
+bud_lin_toelagen_police_2025,city_linter,2025,910107,,,bbc_jr_realized,src_linter_jr2025,strong,Toelage politiezone 0.910m; tick1083
+bud_lin_toelagen_fire_2025,city_linter,2025,446283,,,bbc_jr_realized,src_linter_jr2025,strong,Toelage hulpverleningszone 0.446m JUMP; tick1083
+bud_lin_toelagen_igs_2025,city_linter,2025,113232,,,bbc_jr_realized,src_linter_jr2025,strong,Toelage IGS 0.113m JUMP; tick1083
+bud_lin_toelagen_other_2025,city_linter,2025,515349,,,bbc_jr_realized,src_linter_jr2025,strong,Toelage other+eredienst residual 0.515m FOI; tick1083
+bud_lin_ocmw_aid_2025,city_linter,2025,447557,,,bbc_jr_realized,src_linter_jr2025,strong,OCMW individuele hulp 0.448m; tick1083
+bud_lin_fiscal_2025,city_linter,2025,6856473,,,bbc_jr_realized,src_linter_jr2025,strong,Fiscale opbrengsten 6.856m; tick1083
+bud_lin_fiscal_ov_2025,city_linter,2025,2614897,,,bbc_jr_realized,src_linter_jr2025,strong,Opcentiemen OV 2.615m; tick1083
+bud_lin_fiscal_pb_2025,city_linter,2025,3652096,,,bbc_jr_realized,src_linter_jr2025,strong,Aanvullende PB 3.652m; tick1083
+bud_lin_gemeentefonds_2025,city_linter,2025,2179941,,,bbc_jr_realized,src_linter_jr2025,strong,Gemeentefonds 2.180m; tick1083
+bud_lin_interest_2025,city_linter,2025,107024,,,bbc_jr_realized,src_linter_jr2025,strong,Intresten op leningen 0.107m; tick1083
+bud_lin_mjp_debt_2026_2025,city_linter,2025,6349110,,,bbc_jr_realized,src_linter_jr2025,strong,MJP fin debt YE2026 path 6.349m with new loans 3.588m FOI; tick1083
+bud_lin_mjp_debt_2027_2025,city_linter,2025,7734129,,,bbc_jr_realized,src_linter_jr2025,strong,MJP fin debt YE2027 path 7.734m FOI; tick1083
+bud_lin_goederen_2025,city_linter,2025,2940007,,,bbc_jr_realized,src_linter_jr2025,strong,Goederen en diensten 2.940m; tick1083

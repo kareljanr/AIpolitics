@@ -14585,3 +14585,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1083** residual dual L5; deferred **rq_116**; progress@1090 in 7
 
+
+### Tick 1083 - 2026-08-11T07:00:00Z
+
+- Unit: **rq_1083** (FOI-adjacent residual dual - **Lokaal Bestuur Linter Jaarrekening 2025** + Zoutleeuw dual residual)
+- Found (strong primary BBC JR2025 PDF; KBO GE 0207.368.380 / OCMW 0213.327.744; Helen-Bosstraat 43 3350; AD Rina Janssens FD Hans Bergé; GE+OCMW):
+  - Assets **EUR47.417m** / equity **EUR37.712m** / debt total **EUR9.70m JUMP** / fin debt **EUR3.201m DECLINE** (LT **EUR2.736m** / ST due **EUR0.465m**; was **EUR3.517m**)
+  - New loans **EUR0.129m LOW** / repayments **EUR0.445m**
+  - Cash **EUR10.135m HIGH** slight DROP (was **EUR10.880m**) / pension **EUR3.737m DROP** (was **EUR3.985m**) / FVA IGS **EUR7.712m** / leasing MVA **EUR0.809m**
+  - Exploitatie: ontvangsten **EUR13.778m** / uitgaven **EUR11.235m** / saldo **+EUR2.542m STRONG**
+  - AFM **+EUR2.097m STRONG** (gecorr **+EUR2.261m**) / BBR **EUR8.975m HIGH** / budget **EUR-2.115m NEG HIGH FOI** invest-driven / cum BR **EUR9.749m** / P&L **+EUR1.758m**
+  - Personnel **EUR5.692m** (edu pass-through **EUR1.657m**) / toelagen **EUR1.985m FOI** (police **EUR0.910m** / fire **EUR0.446m JUMP** / IGS **EUR0.113m JUMP** / other **EUR0.515m**)
+  - Invest **EUR4.437m** vs MJP **EUR11.795m UNDERSPEND FOI**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW expl gap **-EUR0.512m**
+  - MJP fin debt YE2026 **EUR6.349m** with new loans **EUR3.588m FOI** / YE2027 **EUR7.734m**
+- Dual: Zoutleeuw AFM/BBR NEG EXTREME / ST debt ramp (tick1082) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse residual next; progress@1090 in 6
+- Wrote: budgets +53 (bud_lin_*); commitments +7; leaderboard +8; sources +1; entity city_linter; FOI **gap_lin_budget_invest_mjp_loans_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1083=done; spawn **rq_1084**; ticks=1083
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1084** residual dual L5; deferred **rq_116**; progress@1090 in 6
+
