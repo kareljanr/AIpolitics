@@ -24783,3 +24783,56 @@ bud_mol_gemeentefonds_2025,city_mol,2025,16202903,,,bbc_jr_realized,src_mol_jr20
 bud_mol_fin_opbr_2025,city_mol,2025,2475661,,,bbc_jr_realized,src_mol_jr2025,strong,Financiele opbrengsten J5 2.48m; tick1021
 bud_mol_invest_subs_granted_2025,city_mol,2025,1048291,,,bbc_jr_realized,src_mol_jr2025,strong,Toegestane invest-subs 1.05m; tick1021
 bud_mol_interest_2025,city_mol,2025,1703006,,,bbc_jr_realized,src_mol_jr2025,strong,Intresten op leningen 1.70m; tick1021
+bud_wjn_assets_2025,city_wijnegem,2025,53004822,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Assets YE2025 53.00m (was 53.15m); tick1022
+bud_wjn_equity_2025,city_wijnegem,2025,22527671,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Nettoactief YE2025 22.53m (was 21.65m JUMP); tick1022
+bud_wjn_debt_total_2025,city_wijnegem,2025,30477150,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Total schulden YE2025 30.48m; tick1022
+bud_wjn_fin_debt_2025,city_wijnegem,2025,16181350,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Fin debt total YE2025 16.18m RISING (was 15.81m T4); tick1022
+bud_wjn_fin_debt_lt_2025,city_wijnegem,2025,14318716,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Fin debt LT YE2025 14.32m RISING (was 14.09m); tick1022
+bud_wjn_fin_debt_st_due_2025,city_wijnegem,2025,1862634,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Fin debt ST due YE2025 1.86m; tick1022
+bud_wjn_new_loans_2025,city_wijnegem,2025,2140075,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Nieuwe leningen 2025 2.14m JUMP FOI (was 0.116m); tick1022
+bud_wjn_aflossingen_2025,city_wijnegem,2025,1763932,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Periodieke aflossingen 2025 1.76m; tick1022
+bud_wjn_cash_2025,city_wijnegem,2025,4347404,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Liquide middelen YE2025 4.35m (was 4.24m); tick1022
+bud_wjn_pension_2025,city_wijnegem,2025,9726654,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Pensioenvoorzieningen LT YE2025 9.73m DECLINING (was 10.14m); tick1022
+bud_wjn_cap_subs_2025,city_wijnegem,2025,16237793,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Kapitaalsubsidies YE2025 16.24m; tick1022
+bud_wjn_fva_total_2025,city_wijnegem,2025,8330945,,,bbc_jr_realized,src_wijnegem_jr2025,strong,FVA total YE2025 8.33m; tick1022
+bud_wjn_fva_igs_2025,city_wijnegem,2025,8286889,,,bbc_jr_realized,src_wijnegem_jr2025,strong,FVA IGS YE2025 8.29m; tick1022
+bud_wjn_leasing_mva_2025,city_wijnegem,2025,1488849,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Leasing MVA YE2025 1.49m; tick1022
+bud_wjn_expl_rec_2025,city_wijnegem,2025,27686839,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Exploitatieontvangsten 27.69m; tick1022
+bud_wjn_expl_exp_2025,city_wijnegem,2025,25261986,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Exploitatieuitgaven 25.26m; tick1022
+bud_wjn_expl_saldo_2025,city_wijnegem,2025,2424853,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Exploitatiesaldo +2.42m STRONG; tick1022
+bud_wjn_invest_exp_2025,city_wijnegem,2025,2177310,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Investeringsuitgaven 2.18m vs MJP 3.10m UNDERSPEND FOI; tick1022
+bud_wjn_invest_rec_2025,city_wijnegem,2025,235994,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Investeringsontvangsten 0.236m; tick1022
+bud_wjn_invest_saldo_2025,city_wijnegem,2025,-1941316,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Investeringssaldo -1.94m; tick1022
+bud_wjn_mjp_invest_planned_2025,city_wijnegem,2025,3095576,,,bbc_jr_realized,src_wijnegem_jr2025,strong,MJP invest planned 3.10m vs realized 2.18m underspend FOI; tick1022
+bud_wjn_afm_2025,city_wijnegem,2025,934849,,,bbc_jr_realized,src_wijnegem_jr2025,strong,AFM +0.935m; tick1022
+bud_wjn_afm_corr_2025,city_wijnegem,2025,1434365,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Gecorrigeerde AFM +1.43m; tick1022
+bud_wjn_bbr_2025,city_wijnegem,2025,3838299,,,bbc_jr_realized,src_wijnegem_jr2025,strong,BBR beschikbaar 3.84m; tick1022
+bud_wjn_budget_result_2025,city_wijnegem,2025,1242296,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Budgettair resultaat +1.24m STRONG; tick1022
+bud_wjn_cum_br_2025,city_wijnegem,2025,4024966,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Gecumuleerd budgettair resultaat 4.02m; tick1022
+bud_wjn_onbeschikbaar_2025,city_wijnegem,2025,186667,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Onbeschikbare gelden 0.187m; tick1022
+bud_wjn_pnl_2025,city_wijnegem,2025,1486966,,,bbc_jr_realized,src_wijnegem_jr2025,strong,P&L +1.49m (was -5.55m flip FOI); tick1022
+bud_wjn_ge_expl_exp_2025,city_wijnegem,2025,19513027,,,bbc_jr_realized,src_wijnegem_jr2025,strong,GE exploitatieuitgaven J3 19.51m; tick1022
+bud_wjn_ge_expl_rec_2025,city_wijnegem,2025,23577578,,,bbc_jr_realized,src_wijnegem_jr2025,strong,GE exploitatieontvangsten J3 23.58m; tick1022
+bud_wjn_ocmw_expl_exp_2025,city_wijnegem,2025,5748959,,,bbc_jr_realized,src_wijnegem_jr2025,strong,OCMW exploitatieuitgaven J3 5.75m FOI; tick1022
+bud_wjn_ocmw_expl_rec_2025,city_wijnegem,2025,4109261,,,bbc_jr_realized,src_wijnegem_jr2025,strong,OCMW exploitatieontvangsten J3 4.11m; tick1022
+bud_wjn_ocmw_expl_gap_2025,city_wijnegem,2025,-1639698,,,bbc_jr_realized,src_wijnegem_jr2025,strong,OCMW expl gap J3 -1.64m FOI residual; tick1022
+bud_wjn_ocmw_cover_2025,city_wijnegem,2025,0,,,bbc_jr_realized,src_wijnegem_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1022
+bud_wjn_equity_cum_deficit_2025,city_wijnegem,2025,-12553126,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Gecumuleerd equity tekort YE2025 -12.55m IMPROVING (was -14.04m FOI); tick1022
+bud_wjn_ocmw_equity_cum_2025,city_wijnegem,2025,-10759236,,,bbc_jr_realized,src_wijnegem_jr2025,strong,OCMW equity cum -10.76m WORSENING FOI (was -9.17m; cover 0); tick1022
+bud_wjn_personnel_2025,city_wijnegem,2025,14749413,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Bezoldigingen 14.75m incl education pass-through 4.93m; tick1022
+bud_wjn_edu_pass_through_2025,city_wijnegem,2025,4928760,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Onderwijzend personeel ten laste andere overheden 4.93m; tick1022
+bud_wjn_toelagen_2025,city_wijnegem,2025,3574868,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toegestane werkingssubsidies 3.57m FOI residual; tick1022
+bud_wjn_toelagen_police_2025,city_wijnegem,2025,2097311,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toelage politiezone 2.10m JUMP; tick1022
+bud_wjn_toelagen_fire_2025,city_wijnegem,2025,1033061,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toelage hulpverleningszone 1.03m JUMP; tick1022
+bud_wjn_toelagen_other_2025,city_wijnegem,2025,379496,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toelage andere begunstigden 0.379m DROP FOI (was 0.555m); tick1022
+bud_wjn_toelagen_welzijn_2025,city_wijnegem,2025,39000,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toelage welzijnsverenigingen 0.039m; tick1022
+bud_wjn_toelagen_eredienst_2025,city_wijnegem,2025,26000,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toelage eredienst 0.026m; tick1022
+bud_wjn_ocmw_aid_2025,city_wijnegem,2025,1768753,,,bbc_jr_realized,src_wijnegem_jr2025,strong,OCMW individuele hulp 1.77m; tick1022
+bud_wjn_fiscal_2025,city_wijnegem,2025,12774540,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Fiscale opbrengsten 12.77m; tick1022
+bud_wjn_fiscal_ov_2025,city_wijnegem,2025,8261487,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Opcentiemen OV 8.26m; tick1022
+bud_wjn_fiscal_pb_2025,city_wijnegem,2025,3654255,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Aanvullende PB 3.65m JUMP (was 3.16m); tick1022
+bud_wjn_gemeentefonds_2025,city_wijnegem,2025,2523787,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Gemeentefonds 2.52m; tick1022
+bud_wjn_fin_opbr_2025,city_wijnegem,2025,1222781,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Financiele opbrengsten J5 1.22m; tick1022
+bud_wjn_invest_subs_granted_2025,city_wijnegem,2025,203575,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toegestane invest-subs 0.204m JUMP (was 0.067m); tick1022
+bud_wjn_interest_2025,city_wijnegem,2025,319953,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Intresten op leningen 0.320m; tick1022
+bud_wjn_vorderingen_lt_2025,city_wijnegem,2025,9368233,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Vorderingen LT YE2025 9.37m; tick1022

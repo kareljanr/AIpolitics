@@ -13390,3 +13390,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1022** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Wijnegem / other); deferred **rq_116**; progress@1030 in 8
 
+
+### Tick 1022 - 2026-08-10T00:15:00Z
+
+- Unit: **rq_1022** (FOI-adjacent residual dual - **Gemeente+OCMW Wijnegem Jaarrekening 2025** + Mol dual residual)
+- Found (strong primary BBC JR2025 186p; KBO 0207.533.775 / OCMW 0212.183.540; AD Leen Nagels; FD Katrien Van den Branden; BM Tom Tachelet; Turnhoutsebaan 422; NIS 11050; GR/RMW 26 mei 2026):
+  - Assets **EUR53.00m** / equity **EUR22.53m JUMP** / debt total **EUR30.48m** / fin debt **EUR16.18m** (**RISING** from **EUR15.81m**; LT **EUR14.32m** / ST due **EUR1.86m**)
+  - New loans **EUR2.14m JUMP FOI** (was **EUR0.116m**) / repayments **EUR1.76m**
+  - Cash **EUR4.35m** / pension **EUR9.73m DECLINING** / leasing MVA **EUR1.49m**
+  - FVA IGS **EUR8.29m** / cap subs **EUR16.24m**
+  - Exploitatie: ontvangsten **EUR27.69m** / uitgaven **EUR25.26m** / saldo **+EUR2.42m STRONG**
+  - AFM **+EUR0.935m** (gecorr **+EUR1.43m**) / BBR **EUR3.84m** / budget **+EUR1.24m STRONG** / P&L **+EUR1.49m** (flip from -5.55m)
+  - Personnel **EUR14.75m** (edu pass-through **EUR4.93m**) / toelagen **EUR3.57m FOI** (police **EUR2.10m JUMP** / fire **EUR1.03m JUMP** / other **EUR0.379m DROP**)
+  - Invest **EUR2.18m** vs MJP **EUR3.10m UNDERSPEND FOI** / invest-subs **EUR0.204m** / **OCMW cover EUR0 ZERO FOI** / OCMW expl gap **-EUR1.64m** / equity cum **-EUR12.55m IMPROVING** / OCMW equity cum **-EUR10.76m WORSENING**
+- Dual: Mol **EUR231.15m** / new loans **EUR7.86m** / equity cum **-EUR30.41m** (tick1021) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Oosterzele / Moerbeke residual next optional
+- Wrote: budgets +53 (bud_wjn_*); commitments +6; leaderboard +8; sources +1; entity city_wijnegem; FOI **gap_wjn_ocmw_cover_toelagen_debt_l5** prio9 ready + draft; key only (PDF ~4.0MB not stored in git); rq_1022=done; spawn **rq_1023**; ticks=1022
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1023** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1030 in 7
+
