@@ -12845,3 +12845,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_993** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 8
 
+
+
+### Tick 993 - 2026-08-09T09:45:00Z
+
+- Unit: **rq_993** (FOI-adjacent residual dual - **Gemeente+OCMW Bredene Jaarrekening 2025** + AGB Nieuwpoort dual residual)
+- Found (strong primary BBC JR2025 237p; KBO 0207.435.092 / OCMW 0212.243.621; FD Fabienne Devriendt; AD Jan Eerebout; Centrumplein 1):
+  - Assets **EUR132.36m** / equity **EUR85.30m** / debt total **EUR47.06m** / fin debt **EUR29.97m** (**DECLINING** from **EUR31.49m**; LT **EUR27.86m** / ST due **EUR2.11m**)
+  - New loans **EUR0.542m** / repayments **EUR2.06m**
+  - Cash **EUR24.96m DROP** (was **EUR28.61m**) / pension **EUR9.71m RISING** (was **EUR7.83m**) / leasing MVA **EUR2.15m**
+  - FVA IGS **EUR14.12m** / FVA AGB **EUR1.83m dual** / andere FVA **EUR2.84m** / cap subs **EUR6.70m**
+  - Exploitatie: ontvangsten **EUR51.85m** / uitgaven **EUR47.37m** / saldo **+EUR4.48m STRONG**
+  - AFM **+EUR2.65m STRONG** (gecorr **+EUR2.19m**) / BBR **EUR22.14m HIGH** / budget **-EUR2.10m** / P&L **-EUR2.27m** (GE **+EUR3.35m** / OCMW **-EUR5.62m FOI**)
+  - Personnel **EUR26.88m** / toelagen **EUR6.82m FOI** (police **EUR4.54m** / fire **EUR0.889m** / other **~EUR1.38m FOI**)
+  - Invest **EUR5.95m** vs MJP **EUR10.78m underspend FOI** / **OCMW cover EUR4.41m PARTIAL FOI** / **OCMW cum -EUR2.16m WORSENING** (was -0.95m)
+  - AGB Bredene consol BBR **EUR0.236m** / AFM **EUR0.104m dual FOI**
+- Dual: AGB Nieuwpoort Vrije Tijd **EUR5.83m** / prijssubsidie **EUR2.18m** (tick992) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne image-only (~65MB) skip
+- Wrote: budgets +54 (bud_bred_*); commitments +5; leaderboard +7; sources +1; entity city_bredene; FOI **gap_bred_ocmw_toelagen_pension_cash_l5** prio8 ready + draft; key only (PDF ~24MB not stored in git); rq_993=done; spawn **rq_994**; ticks=993
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_994** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 7
+

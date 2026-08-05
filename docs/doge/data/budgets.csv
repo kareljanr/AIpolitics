@@ -23347,3 +23347,57 @@ bud_agbnp_revenue_j5_2025,agb_nieuwpoort_vrije_tijd,2025,2935274,,,realized,src_
 bud_agbnp_werking_rec_2025,agb_nieuwpoort_vrije_tijd,2025,2909395,,,realized,src_agb_nieuwpoort_jr2025,strong,Ontvangsten uit de werking T2 2.91m (incl prijssubsidie mix FOI); tick992
 bud_agbnp_stock_2025,agb_nieuwpoort_vrije_tijd,2025,33804,,,realized,src_agb_nieuwpoort_jr2025,strong,Voorraden YE2025 0.034m; tick992
 bud_agbnp_mva_bedrijfs_2025,agb_nieuwpoort_vrije_tijd,2025,3547000,,,realized,src_agb_nieuwpoort_jr2025,strong,Bedrijfsmatige MVA YE2025 3.55m (zwembad/infra FOI); tick992
+bud_bred_assets_2025,city_bredene,2025,132357070,,,realized,src_bredene_jr2025,strong,Assets YE2025 132.36m; tick993
+bud_bred_equity_2025,city_bredene,2025,85299886,,,realized,src_bredene_jr2025,strong,Nettoactief YE2025 85.30m; tick993
+bud_bred_debt_total_2025,city_bredene,2025,47057184,,,realized,src_bredene_jr2025,strong,Total schulden YE2025 47.06m; tick993
+bud_bred_fin_debt_2025,city_bredene,2025,29969427,,,realized,src_bredene_jr2025,strong,Fin debt total YE2025 29.97m DECLINING (was 31.49m); tick993
+bud_bred_fin_debt_lt_2025,city_bredene,2025,27856077,,,realized,src_bredene_jr2025,strong,Fin debt LT YE2025 27.86m; tick993
+bud_bred_fin_debt_st_due_2025,city_bredene,2025,2113352,,,realized,src_bredene_jr2025,strong,Fin debt ST due YE2025 2.11m; tick993
+bud_bred_new_loans_2025,city_bredene,2025,541968,,,realized,src_bredene_jr2025,strong,Nieuwe leningen 0.542m; tick993
+bud_bred_repayments_2025,city_bredene,2025,2059921,,,realized,src_bredene_jr2025,strong,Periodieke aflossingen 2.06m; tick993
+bud_bred_cash_2025,city_bredene,2025,24964204,,,realized,src_bredene_jr2025,strong,Liquide middelen YE2025 24.96m DROP (was 28.61m) FOI; tick993
+bud_bred_pension_2025,city_bredene,2025,9713796,,,realized,src_bredene_jr2025,strong,Pensioenvoorzieningen LT YE2025 9.71m RISING (was 7.83m) FOI; tick993
+bud_bred_leasing_mva_2025,city_bredene,2025,2153106,,,realized,src_bredene_jr2025,strong,Leasing MVA YE2025 2.15m FOI; tick993
+bud_bred_fva_total_2025,city_bredene,2025,18788087,,,realized,src_bredene_jr2025,strong,FVA total YE2025 18.79m; tick993
+bud_bred_fva_agb_2025,city_bredene,2025,1831715,,,realized,src_bredene_jr2025,strong,FVA EVA/AGB Bredene YE2025 1.83m dual; tick993
+bud_bred_fva_igs_2025,city_bredene,2025,14121372,,,realized,src_bredene_jr2025,strong,FVA IGS YE2025 14.12m FOI; tick993
+bud_bred_fva_other_2025,city_bredene,2025,2835000,,,realized,src_bredene_jr2025,strong,Andere FVA YE2025 2.84m; tick993
+bud_bred_cap_subs_2025,city_bredene,2025,6700259,,,realized,src_bredene_jr2025,strong,Kapitaalsubsidies YE2025 6.70m; tick993
+bud_bred_herwaard_reserves_2025,city_bredene,2025,2557119,,,realized,src_bredene_jr2025,strong,Herwaarderingsreserves YE2025 2.56m; tick993
+bud_bred_onbeschikbaar_2025,city_bredene,2025,2614473,,,realized,src_bredene_jr2025,strong,Onbeschikbare gelden YE2025 2.61m; tick993
+bud_bred_expl_rec_2025,city_bredene,2025,51852685,,,realized,src_bredene_jr2025,strong,Exploitatieontvangsten 51.85m; tick993
+bud_bred_expl_exp_2025,city_bredene,2025,47370479,,,realized,src_bredene_jr2025,strong,Exploitatieuitgaven 47.37m; tick993
+bud_bred_expl_saldo_2025,city_bredene,2025,4482206,,,realized,src_bredene_jr2025,strong,Exploitatiesaldo +4.48m STRONG; tick993
+bud_bred_invest_exp_2025,city_bredene,2025,5950798,,,realized,src_bredene_jr2025,strong,Investeringsuitgaven 5.95m vs MJP 10.78m underspend FOI; tick993
+bud_bred_invest_rec_2025,city_bredene,2025,661082,,,realized,src_bredene_jr2025,strong,Investeringsontvangsten 0.661m; tick993
+bud_bred_invest_saldo_2025,city_bredene,2025,-5289716,,,realized,src_bredene_jr2025,strong,Investeringssaldo -5.29m; tick993
+bud_bred_mjp_invest_exp_2025,city_bredene,2025,10784297,,,realized,src_bredene_jr2025,strong,MJP investeringsuitgaven 10.78m (realized 5.95m underspend FOI); tick993
+bud_bred_fin_rec_2025,city_bredene,2025,769332,,,realized,src_bredene_jr2025,strong,Financieringsontvangsten 0.769m; tick993
+bud_bred_fin_exp_2025,city_bredene,2025,2059921,,,realized,src_bredene_jr2025,strong,Financieringsuitgaven 2.06m; tick993
+bud_bred_budget_result_2025,city_bredene,2025,-2098100,,,realized,src_bredene_jr2025,strong,Budgettair resultaat -2.10m; tick993
+bud_bred_cum_budget_2025,city_bredene,2025,24759456,,,realized,src_bredene_jr2025,strong,Gecumuleerd budgettair resultaat 24.76m; tick993
+bud_bred_bbr_2025,city_bredene,2025,22144983,,,realized,src_bredene_jr2025,strong,Beschikbaar BBR 22.14m HIGH; tick993
+bud_bred_afm_2025,city_bredene,2025,2649649,,,realized,src_bredene_jr2025,strong,AFM +2.65m STRONG; tick993
+bud_bred_afm_corr_2025,city_bredene,2025,2190579,,,realized,src_bredene_jr2025,strong,Gecorrigeerde AFM +2.19m; tick993
+bud_bred_pnl_2025,city_bredene,2025,-2267068,,,realized,src_bredene_jr2025,strong,P&L -2.27m (GE +3.35m / OCMW -5.62m FOI); tick993
+bud_bred_ge_pnl_2025,city_bredene,2025,3348366,,,realized,src_bredene_jr2025,strong,Gemeente P&L +3.35m; tick993
+bud_bred_ocmw_pnl_neg_2025,city_bredene,2025,-5615434,,,realized,src_bredene_jr2025,strong,OCMW P&L -5.62m FOI residual; tick993
+bud_bred_ocmw_cover_2025,city_bredene,2025,4409287,,,realized,src_bredene_jr2025,strong,OCMW cover 4.41m PARTIAL vs P&L -5.62m FOI residual; tick993
+bud_bred_ocmw_cum_deficit_2025,city_bredene,2025,-2157999,,,realized,src_bredene_jr2025,strong,OCMW cum deficit -2.16m WORSENING (was -0.95m) FOI; tick993
+bud_bred_personnel_2025,city_bredene,2025,26878723,,,realized,src_bredene_jr2025,strong,Bezoldigingen 26.88m FOI; tick993
+bud_bred_goederen_2025,city_bredene,2025,10184041,,,realized,src_bredene_jr2025,strong,Goederen en diensten 10.18m; tick993
+bud_bred_toelagen_2025,city_bredene,2025,6815085,,,realized,src_bredene_jr2025,strong,Toegestane werkingssubsidies 6.82m FOI named; tick993
+bud_bred_toelage_police_2025,city_bredene,2025,4542400,,,realized,src_bredene_jr2025,strong,Toelage politiediensten 4.54m FOI; tick993
+bud_bred_toelage_fire_2025,city_bredene,2025,888742,,,realized,src_bredene_jr2025,strong,Toelage brandweer 0.889m FOI; tick993
+bud_bred_toelage_other_2025,city_bredene,2025,1383943,,,realized,src_bredene_jr2025,strong,Toelage andere named stack residual FOI; tick993
+bud_bred_invest_subs_2025,city_bredene,2025,1402434,,,realized,src_bredene_jr2025,strong,Toegestane investeringssubsidies 1.40m FOI; tick993
+bud_bred_invest_subs_sport_2025,city_bredene,2025,1232652,,,realized,src_bredene_jr2025,strong,Invest subsidie sportinfra 1.23m FOI; tick993
+bud_bred_ocmw_aid_2025,city_bredene,2025,2108034,,,realized,src_bredene_jr2025,strong,Individuele hulp OCMW 2.11m FOI; tick993
+bud_bred_fiscal_2025,city_bredene,2025,24078534,,,realized,src_bredene_jr2025,strong,Fiscale opbrengsten 24.08m; tick993
+bud_bred_werkingsubs_rec_2025,city_bredene,2025,14054356,,,realized,src_bredene_jr2025,strong,Ontvangen werkingssubsidies 14.05m; tick993
+bud_bred_werkingsubs_alg_2025,city_bredene,2025,8464531,,,realized,src_bredene_jr2025,strong,Algemene werkingssubsidies 8.46m; tick993
+bud_bred_werkingsubs_spec_2025,city_bredene,2025,5589824,,,realized,src_bredene_jr2025,strong,Specifieke werkingssubsidies 5.59m; tick993
+bud_bred_costs_j5_2025,city_bredene,2025,54373963,,,realized,src_bredene_jr2025,strong,J5 total kosten 54.37m; tick993
+bud_bred_revenue_j5_2025,city_bredene,2025,52106894,,,realized,src_bredene_jr2025,strong,J5 total opbrengsten 52.11m; tick993
+bud_bred_agb_bbr_consol_2025,city_bredene,2025,235506,,,realized,src_bredene_jr2025,strong,AGB Bredene consol BBR 0.236m dual FOI; tick993
+bud_bred_agb_afm_consol_2025,city_bredene,2025,103981,,,realized,src_bredene_jr2025,strong,AGB Bredene consol AFM 0.104m dual FOI; tick993
