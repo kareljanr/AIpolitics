@@ -18672,3 +18672,43 @@ bud_sc_invest_subs_granted_2025,city_schoten,2025,616546,,,jaarrekening_realized
 bud_sc_new_loans_2025,city_schoten,2025,740603,,,jaarrekening_realized,src_schoten_jr2025,strong,Nieuwe leningen/leasings 0.741m 2025 (no new bank loans; leasing only); tick872
 bud_sc_pop_2025,city_schoten,2025,34926,,,jaarrekening_realized,src_schoten_jr2025,strong,Inwoners 34926 YE/JR2025; tick872
 bud_sc_vte_2025,city_schoten,2025,394,,,jaarrekening_realized,src_schoten_jr2025,strong,Personeel VTE totaal 394.08 YE2025; tick872
+bud_de_assets_2025,city_destelbergen,2025,110043755,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Consol gemeente+OCMW total assets YE2025 110.044m; tick873
+bud_de_equity_2025,city_destelbergen,2025,72194119,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Nettoactief YE2025 72.194m; tick873
+bud_de_debt_total_2025,city_destelbergen,2025,37849636,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Schulden total YE2025 37.850m; tick873
+bud_de_fin_debt_2025,city_destelbergen,2025,19746001,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Financiele schulden total YE2025 19.746m (LT 18.340 + ST due 1.406); tick873
+bud_de_fin_debt_lt_2025,city_destelbergen,2025,18339885,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Financiele schulden LT YE2025 18.340m; tick873
+bud_de_fin_debt_st_2025,city_destelbergen,2025,1406116,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.406m; tick873
+bud_de_pension_prov_2025,city_destelbergen,2025,13634083,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Pensioenvoorzieningen YE2025 13.634m (was 11.524m FOI-adjacent jump); tick873
+bud_de_cash_2025,city_destelbergen,2025,12563220,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Liquide middelen+geldbeleggingen YE2025 12.563m; tick873
+bud_de_cap_subs_2025,city_destelbergen,2025,9263452,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Kapitaalsubsidies YE2025 9.263m; tick873
+bud_de_fva_igs_2025,city_destelbergen,2025,16666631,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Fin VA IGS YE2025 16.667m; tick873
+bud_de_fva_ocmw_ver_2025,city_destelbergen,2025,7021293,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Fin VA OCMW-verenigingen YE2025 7.021m; tick873
+bud_de_cumul_budget_2025,city_destelbergen,2025,14154024,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 14.154m; tick873
+bud_de_bbr_2025,city_destelbergen,2025,13366731,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Beschikbaar budgettair resultaat YE2025 13.367m; tick873
+bud_de_expl_rec_2025,city_destelbergen,2025,36269379,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Exploitatieontvangsten 36.269m 2025; tick873
+bud_de_expl_exp_2025,city_destelbergen,2025,31613919,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Exploitatieuitgaven 31.614m 2025; tick873
+bud_de_expl_saldo_2025,city_destelbergen,2025,4655460,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Exploitatiesaldo +4.655m 2025; tick873
+bud_de_invest_exp_2025,city_destelbergen,2025,5969109,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Investeringsuitgaven 5.969m 2025; tick873
+bud_de_invest_rec_2025,city_destelbergen,2025,361483,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Investeringsontvangsten 0.361m 2025; tick873
+bud_de_invest_saldo_2025,city_destelbergen,2025,-5607625,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Investeringssaldo -5.608m 2025; tick873
+bud_de_fin_saldo_2025,city_destelbergen,2025,-1457554,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Financieringssaldo -1.458m 2025; tick873
+bud_de_budget_result_2025,city_destelbergen,2025,-2409720,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Budgettair resultaat boekjaar -2.410m 2025; tick873
+bud_de_afm_2025,city_destelbergen,2025,3167834,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Autofinancieringsmarge +3.168m 2025; tick873
+bud_de_afm_gecorr_2025,city_destelbergen,2025,3154006,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Gecorrigeerde AFM +3.154m 2025; tick873
+bud_de_pl_2025,city_destelbergen,2025,-1665434,,,jaarrekening_realized,src_destelbergen_jr2025,strong,P&L tekort -1.665m 2025; tick873
+bud_de_personnel_2025,city_destelbergen,2025,15571181,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Bezoldigingen sociale lasten pensioenen 15.571m 2025 (incl onderwijs other-gov 3.589m); tick873
+bud_de_personnel_onderwijs_other_2025,city_destelbergen,2025,3588796,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Onderwijzend personeel ten laste van andere 3.589m 2025; tick873
+bud_de_toelagen_2025,city_destelbergen,2025,6686959,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toegestane werkingssubsidies 6.687m 2025; tick873
+bud_de_toelagen_police_2025,city_destelbergen,2025,2635841,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toelage politiezone 2.636m 2025; tick873
+bud_de_toelagen_fire_2025,city_destelbergen,2025,728590,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toelage hulpverleningszone 0.729m 2025; tick873
+bud_de_toelagen_igs_2025,city_destelbergen,2025,1940909,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toelage IGS 1.941m 2025 (was 2.457m FOI-adjacent); tick873
+bud_de_toelagen_welzijn_2025,city_destelbergen,2025,941061,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toelage welzijnsverenigingen 0.941m 2025; tick873
+bud_de_toelagen_other_2025,city_destelbergen,2025,440558,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toelagen andere begunstigden 0.441m 2025; tick873
+bud_de_ocmw_aid_2025,city_destelbergen,2025,1283281,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Individuele hulpverlening OCMW 1.283m 2025; tick873
+bud_de_fiscal_2025,city_destelbergen,2025,19194653,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Fiscale opbrengsten en boetes 19.195m 2025; tick873
+bud_de_fiscal_ov_2025,city_destelbergen,2025,7103325,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Opcentiemen OV 7.103m 2025; tick873
+bud_de_fiscal_apb_2025,city_destelbergen,2025,10829033,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Aanvullende PB 10.829m 2025; tick873
+bud_de_gemeentefonds_2025,city_destelbergen,2025,3820617,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Gemeentefonds 3.821m 2025; tick873
+bud_de_invest_subs_granted_2025,city_destelbergen,2025,295449,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toegestane investeringssubsidies 0.295m 2025; tick873
+bud_de_new_loans_2025,city_destelbergen,2025,126176,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Nieuwe leningen/leasings 0.126m 2025 (no new bank loans); tick873
+bud_de_pop_2025,city_destelbergen,2025,19091,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Inwoners 19091 op 1 jan 2025; tick873

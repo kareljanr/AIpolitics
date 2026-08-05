@@ -10799,3 +10799,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_schoten; FOI **gap_schoten_pension_toelagen_l5** prio7 ready + draft; raw PDF+extract; rq_872=done; spawn **rq_873**; ticks=872
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_873** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/VUB/skeyes); deferred **rq_116**; progress@880 in 8
+
+## Tick 873 - 2026-08-06T09:30:00Z
+
+- Unit: **rq_873** (FOI-adjacent residual dual - **Gemeente+OCMW Destelbergen Jaarrekening 2025** + Schoten dual)
+- Found (strong primary BBC JR2025 178p):
+  - Assets **EUR110.0m** / equity **EUR72.2m** / debt total **EUR37.8m** / fin debt **EUR19.7m** (LT **EUR18.3m** / ST due **EUR1.4m**; was **EUR21.3m**)
+  - Pension **EUR13.6m** (was **EUR11.5m**) / cash **EUR12.6m** / cap subs **EUR9.3m** / FVA IGS **EUR16.7m** / OCMW-ver **EUR7.0m**
+  - Exploitatie: ontvangsten **EUR36.3m** / uitgaven **EUR31.6m** / saldo **+EUR4.7m**
+  - AFM **+EUR3.2m** (gecorr **+EUR3.2m**) / BBR **EUR13.4m** / budget result **-EUR2.4m** / P&L **-EUR1.7m**
+  - Personnel **EUR15.6m** (onderwijs other-gov **EUR3.6m**) / toelagen **EUR6.7m** (police **EUR2.6m** / fire **EUR0.7m** / IGS **EUR1.9m** / welzijn **EUR0.9m** / other **EUR0.4m**) / OCMW aid **EUR1.3m** / fiscal **EUR19.2m**
+  - Invest **EUR6.0m** / invest-subs granted **EUR0.30m** / new loans **EUR0.13m** / gemeentefonds **EUR3.8m** / pop **19091**
+- Dual: Schoten **EUR176.6m** / pension **EUR47.8m** / AFM **+EUR7.0m** (tick872) - not TE-additive
+- Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_destelbergen; FOI **gap_destelbergen_pension_igs_l5** prio7 ready + draft; raw PDF; rq_873=done; spawn **rq_874**; ticks=873
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_874** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@880 in 7
