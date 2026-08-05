@@ -14104,3 +14104,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1058** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1058 - 2026-08-10T18:15:00Z
+
+- Unit: **rq_1058** (FOI-adjacent residual dual - **Lokaal Bestuur Maldegem Jaarrekening 2025** + Eeklo dual residual)
+- Found (strong primary BBC JR2025 beleidsportaal image schemes; KBO GE 0207.448.554 / OCMW 0212.195.418; Marktstraat 7 9990 Maldegem; AD Britt Schouppe FD Isabelle Dombret; GE+OCMW+AGB consol note):
+  - Assets **EUR134.61m JUMP** / equity **EUR89.28m JUMP** / debt total **EUR45.33m JUMP** / fin debt **EUR21.87m JUMP HIGH FOI** (LT **EUR20.08m** / ST due **EUR1.79m**; was **EUR13.50m**)
+  - New loans **EUR10.15m JUMP HIGH FOI** / repayments **EUR1.66m**
+  - Cash **EUR5.14m JUMP** / pension **EUR13.99m DROP HIGH FOI** (was **EUR17.99m**, -**EUR4.00m**) / FVA IGS **EUR18.45m** / FVA OCMW-ver **EUR6.80m** / leasing MVA **EUR1.21m**
+  - Exploitatie: ontvangsten **EUR45.02m** / uitgaven **EUR40.03m** / saldo **+EUR5.00m STRONG**
+  - AFM **+EUR3.53m VERY STRONG** (gecorr **+EUR4.11m**) / BBR **EUR3.67m** (consol+AGB **EUR3.80m**) / budget **+EUR2.62m** / cum BR **EUR3.86m** / equity-cum delta **+EUR4.49m**
+  - Personnel **EUR20.49m JUMP** / toelagen **EUR7.47m FOI** (police **EUR3.56m JUMP** / welzijn **EUR1.45m** / fire **EUR0.822m** / AGB **EUR0.711m** / other **EUR0.383m**)
+  - Invest **EUR13.16m** vs MJP **EUR13.45m**; invest rec **EUR2.36m** vs MJP **EUR4.80m shortfall FOI**
+  - **OCMW structural gap EUR5.46m HIGH FOI** (J3 exp **EUR11.62m** / rec **EUR6.16m**)
+- Dual: Eeklo assets **EUR137.61m** / Farys fin debt **EUR33.19m** / AFM **EUR-2.19m** (tick1057) - not TE-additive
+- Note: SKW / Torhout / Oosterzele / Nijlen residual next; progress@1060
+- Wrote: budgets +54 (bud_mald_*); commitments +7; leaderboard +8; sources +1; entity city_maldegem; FOI **gap_mald_loans_ocmw_toelagen_pension_l5** prio9 ready + draft; portal image primary (no bulk PDF in git); rq_1058=done; spawn **rq_1059**; ticks=1058
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1059** residual dual L5; deferred **rq_116**; progress@1060
+

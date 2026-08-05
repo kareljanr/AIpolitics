@@ -26703,3 +26703,58 @@ bud_eek_gemeentefonds_2025,city_eeklo,2025,10442959,,,bbc_jr_realized,src_eeklo_
 bud_eek_interest_2025,city_eeklo,2025,880117,,,bbc_jr_realized,src_eeklo_jr2025,strong,Rente/commissies schulden 0.880m JUMP FOI; tick1057
 bud_eek_vorderingen_kt_2025,city_eeklo,2025,9387627,,,bbc_jr_realized,src_eeklo_jr2025,strong,Vorderingen KT YE2025 9.39m; tick1057
 bud_eek_farys_reclass_note_2025,city_eeklo,2025,24127558,,,bbc_jr_realized,src_eeklo_jr2025,strong,Farys sporthal invest-toelage reclass to leasing FOI residual (JR note J2/T4); tick1057
+bud_mald_assets_2025,city_maldegem,2025,134610700,,,bbc_jr_realized,src_maldegem_jr2025,strong,Assets YE2025 134.61m JUMP (was 122.75m); tick1058
+bud_mald_equity_2025,city_maldegem,2025,89278205,,,bbc_jr_realized,src_maldegem_jr2025,strong,Nettoactief YE2025 89.28m JUMP (was 82.86m); tick1058
+bud_mald_debt_total_2025,city_maldegem,2025,45332494,,,bbc_jr_realized,src_maldegem_jr2025,strong,Total schulden YE2025 45.33m JUMP (was 39.89m); tick1058
+bud_mald_fin_debt_2025,city_maldegem,2025,21867160,,,bbc_jr_realized,src_maldegem_jr2025,strong,Fin debt total YE2025 21.87m JUMP HIGH FOI (was 13.50m T4); tick1058
+bud_mald_fin_debt_lt_2025,city_maldegem,2025,20080614,,,bbc_jr_realized,src_maldegem_jr2025,strong,Fin debt LT YE2025 20.08m JUMP HIGH FOI (was 12.04m); tick1058
+bud_mald_fin_debt_st_due_2025,city_maldegem,2025,1786546,,,bbc_jr_realized,src_maldegem_jr2025,strong,Fin debt ST due YE2025 1.79m; tick1058
+bud_mald_fin_debt_st_2025,city_maldegem,2025,0,,,bbc_jr_realized,src_maldegem_jr2025,strong,Fin debt ST treasury YE2025 0; tick1058
+bud_mald_new_loans_2025,city_maldegem,2025,10146053,,,bbc_jr_realized,src_maldegem_jr2025,strong,Nieuwe leningen/leasings 10.15m JUMP HIGH FOI; tick1058
+bud_mald_aflossingen_2025,city_maldegem,2025,1662975,,,bbc_jr_realized,src_maldegem_jr2025,strong,Periodieke aflossingen 1.66m; tick1058
+bud_mald_cash_2025,city_maldegem,2025,5143889,,,bbc_jr_realized,src_maldegem_jr2025,strong,Liquide middelen YE2025 5.14m JUMP (was 2.88m); tick1058
+bud_mald_pension_2025,city_maldegem,2025,13992078,,,bbc_jr_realized,src_maldegem_jr2025,strong,Pensioenvoorzieningen LT YE2025 13.99m DROP HIGH FOI (was 17.99m -4.00m); tick1058
+bud_mald_cap_subs_2025,city_maldegem,2025,22103103,,,bbc_jr_realized,src_maldegem_jr2025,strong,Kapitaalsubsidies YE2025 22.10m; tick1058
+bud_mald_fva_total_2025,city_maldegem,2025,25468812,,,bbc_jr_realized,src_maldegem_jr2025,strong,FVA total YE2025 25.47m; tick1058
+bud_mald_fva_igs_2025,city_maldegem,2025,18453332,,,bbc_jr_realized,src_maldegem_jr2025,strong,FVA IGS YE2025 18.45m; tick1058
+bud_mald_fva_ocmw_ver_2025,city_maldegem,2025,6802991,,,bbc_jr_realized,src_maldegem_jr2025,strong,FVA OCMW-verenigingen YE2025 6.80m HIGH; tick1058
+bud_mald_leasing_mva_2025,city_maldegem,2025,1210613,,,bbc_jr_realized,src_maldegem_jr2025,strong,Leasing MVA YE2025 1.21m; tick1058
+bud_mald_expl_rec_2025,city_maldegem,2025,45023554,,,bbc_jr_realized,src_maldegem_jr2025,strong,Exploitatieontvangsten 45.02m; tick1058
+bud_mald_expl_exp_2025,city_maldegem,2025,40027361,,,bbc_jr_realized,src_maldegem_jr2025,strong,Exploitatieuitgaven 40.03m; tick1058
+bud_mald_expl_saldo_2025,city_maldegem,2025,4996193,,,bbc_jr_realized,src_maldegem_jr2025,strong,Exploitatiesaldo +5.00m STRONG; tick1058
+bud_mald_invest_exp_2025,city_maldegem,2025,13157250,,,bbc_jr_realized,src_maldegem_jr2025,strong,Investeringsuitgaven 13.16m vs MJP 13.45m slight underspend; tick1058
+bud_mald_invest_rec_2025,city_maldegem,2025,2355903,,,bbc_jr_realized,src_maldegem_jr2025,strong,Investeringsontvangsten 2.36m LOW FOI vs MJP 4.80m; tick1058
+bud_mald_invest_saldo_2025,city_maldegem,2025,-10801347,,,bbc_jr_realized,src_maldegem_jr2025,strong,Investeringssaldo -10.80m; tick1058
+bud_mald_mjp_invest_planned_2025,city_maldegem,2025,13452342,,,bbc_jr_realized,src_maldegem_jr2025,strong,MJP invest planned 13.45m vs realized 13.16m; tick1058
+bud_mald_afm_2025,city_maldegem,2025,3526049,,,bbc_jr_realized,src_maldegem_jr2025,strong,AFM +3.53m VERY STRONG; tick1058
+bud_mald_afm_corr_2025,city_maldegem,2025,4108665,,,bbc_jr_realized,src_maldegem_jr2025,strong,Gecorrigeerde AFM +4.11m VERY STRONG; tick1058
+bud_mald_bbr_2025,city_maldegem,2025,3668523,,,bbc_jr_realized,src_maldegem_jr2025,strong,BBR beschikbaar GE+OCMW +3.67m; tick1058
+bud_mald_bbr_consol_2025,city_maldegem,2025,3798512,,,bbc_jr_realized,src_maldegem_jr2025,strong,Consol BBR GE+OCMW+AGB +3.80m; tick1058
+bud_mald_budget_result_2025,city_maldegem,2025,2621362,,,bbc_jr_realized,src_maldegem_jr2025,strong,Budgettair resultaat +2.62m STRONG; tick1058
+bud_mald_cum_br_2025,city_maldegem,2025,3855190,,,bbc_jr_realized,src_maldegem_jr2025,strong,Gecumuleerd budgettair resultaat +3.86m; tick1058
+bud_mald_pnl_2025,city_maldegem,2025,4494982,,,bbc_jr_realized,src_maldegem_jr2025,strong,Equity cum delta +4.49m (cum 27.08 vs 22.58m) proxy P&L STRONG; tick1058
+bud_mald_ge_expl_exp_2025,city_maldegem,2025,28406487,,,bbc_jr_realized,src_maldegem_jr2025,strong,GE exploitatieuitgaven J3 28.41m; tick1058
+bud_mald_ge_expl_rec_2025,city_maldegem,2025,38864610,,,bbc_jr_realized,src_maldegem_jr2025,strong,GE exploitatieontvangsten J3 38.86m; tick1058
+bud_mald_ocmw_expl_exp_2025,city_maldegem,2025,11620874,,,bbc_jr_realized,src_maldegem_jr2025,strong,OCMW exploitatieuitgaven J3 11.62m; tick1058
+bud_mald_ocmw_expl_rec_2025,city_maldegem,2025,6158943,,,bbc_jr_realized,src_maldegem_jr2025,strong,OCMW exploitatieontvangsten J3 6.16m; tick1058
+bud_mald_ocmw_expl_gap_2025,city_maldegem,2025,-5461931,,,bbc_jr_realized,src_maldegem_jr2025,strong,OCMW expl gap -5.46m HIGH FOI residual; tick1058
+bud_mald_ocmw_structural_gap_2025,city_maldegem,2025,5461931,,,bbc_jr_realized,src_maldegem_jr2025,strong,OCMW structural gap 5.46m HIGH FOI residual dual; tick1058
+bud_mald_equity_cum_2025,city_maldegem,2025,27078714,,,bbc_jr_realized,src_maldegem_jr2025,strong,Gecumuleerd overschot YE2025 +27.08m JUMP (was 22.58m); tick1058
+bud_mald_personnel_2025,city_maldegem,2025,20493739,,,bbc_jr_realized,src_maldegem_jr2025,strong,Bezoldigingen 20.49m JUMP FOI; tick1058
+bud_mald_edu_pass_through_2025,city_maldegem,2025,715974,,,bbc_jr_realized,src_maldegem_jr2025,strong,Onderwijzend personeel ten laste andere overheden 0.716m; tick1058
+bud_mald_toelagen_2025,city_maldegem,2025,7466617,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toegestane werkingssubsidies 7.47m FOI residual; tick1058
+bud_mald_toelagen_police_2025,city_maldegem,2025,3563240,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toelage politiezone 3.56m JUMP HIGH FOI; tick1058
+bud_mald_toelagen_fire_2025,city_maldegem,2025,821789,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toelage hulpverleningszone 0.822m; tick1058
+bud_mald_toelagen_agb_2025,city_maldegem,2025,711410,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toelage AGB 0.711m; tick1058
+bud_mald_toelagen_welzijn_2025,city_maldegem,2025,1448148,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toelage welzijnsverenigingen 1.45m HIGH FOI; tick1058
+bud_mald_toelagen_igs_2025,city_maldegem,2025,578515,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toelage IGS 0.579m; tick1058
+bud_mald_toelagen_other_2025,city_maldegem,2025,383122,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toelage andere begunstigden 0.383m FOI residual; tick1058
+bud_mald_ocmw_aid_2025,city_maldegem,2025,2425725,,,bbc_jr_realized,src_maldegem_jr2025,strong,OCMW individuele hulp 2.43m; tick1058
+bud_mald_fiscal_2025,city_maldegem,2025,20946288,,,bbc_jr_realized,src_maldegem_jr2025,strong,Fiscale opbrengsten 20.95m JUMP; tick1058
+bud_mald_fiscal_ov_2025,city_maldegem,2025,10300995,,,bbc_jr_realized,src_maldegem_jr2025,strong,Opcentiemen OV 10.30m; tick1058
+bud_mald_fiscal_pb_2025,city_maldegem,2025,9412750,,,bbc_jr_realized,src_maldegem_jr2025,strong,Aanvullende PB 9.41m JUMP; tick1058
+bud_mald_gemeentefonds_2025,city_maldegem,2025,7753808,,,bbc_jr_realized,src_maldegem_jr2025,strong,Gemeentefonds 7.75m; tick1058
+bud_mald_interest_2025,city_maldegem,2025,695599,,,bbc_jr_realized,src_maldegem_jr2025,strong,Rente/commissies schulden 0.696m JUMP FOI; tick1058
+bud_mald_invest_subs_rec_2025,city_maldegem,2025,2306686,,,bbc_jr_realized,src_maldegem_jr2025,strong,Ontvangen invest-subs 2.31m (VL 2.30m); tick1058
+bud_mald_invest_subs_granted_2025,city_maldegem,2025,489750,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toegestane invest-subs 0.490m; tick1058
+bud_mald_vorderingen_kt_2025,city_maldegem,2025,5846605,,,bbc_jr_realized,src_maldegem_jr2025,strong,Vorderingen KT YE2025 5.85m JUMP; tick1058
