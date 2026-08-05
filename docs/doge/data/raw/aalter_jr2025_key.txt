@@ -1,0 +1,44 @@
+AALTER JR2025 KEY EXTRACT — tick926
+Primary: GR20260615 Jaarrekening.pdf
+https://www.aalter.be/file/download/0d85a796-9d79-4aa9-a1a3-3220c2cfa733/utAZzQrY2bWguFT2peVClo3UZb9l1EzvBkpFnTjQ3d.pdf
+Portal: https://www.aalter.be/vaststellen-jaarrekening-2025
+Local: docs/doge/data/raw/aalter_jr2025.pdf (183p BBC)
+Contact: Europalaan 22 9880 Aalter
+KBO G 0697.608.063 | OCMW 0697.663.491 | NIS 44084
+AD Luc Jolie | FD Vicky Bonte
+GR/RMW/AGB board 15.06.2026 | published 18.06.2026
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 180484763 (178164640)
+Equity 120703629 (120127700)
+Schulden 59781133 (58036940)
+Fin debt T4 40405125 (37955374 RISING)
+  LT T4 37572313 / ST due 2832812 / ST 0
+Cash 7984618 (4247093 JUMP)
+Pension 10575136
+Cap subs 30009284
+FVA 22176180 (IGS 22010086)
+MVA 140559030
+
+J2:
+Expl 52082967 / 44920991 / +7161975
+Invest 822681 / 5884278 / -5061597
+Fin 5241172 / 2718851 / +2522320
+Budget +4622699
+Cum BR 7821668 / onbeschikbaar 2942470 FOI / BBR 4879198
+AFM +4722336 / gecorr +4281579
+Periodieke aflossingen 2594112
+New loans bank 5000000 + other 86700 = 5086700
+MJP bank 2026 6500000
+
+T2/J5:
+Personnel 22059525
+Toelagen 9739975 (police 4623900 / HVZ 1099542 / AGB 912387 / IGS 1621174 FOI / eredienst 164409 / welzijn 193215 / other 1125348 FOI)
+Invest-subs 340852 (IGS 294968 FOI)
+Fiscal 26233022 / gemeentefonds T2 8502871
+P&L +14671
+Invest MVA 5390873
+AGB BBR 580816
+
+FOI: bank 5m; MJP 6.5m; debt rising; toelagen IGS/other; onbeschikbaar; cash rebuild
+Dual: Zulte tick925 assets 115.5m bank 3m Belfius

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T11:15:00Z,rq_925,925,no,tick925 Zulte JR2025 dual Merelbeke-Melle; FOI gap_zul_loans_debt_igs_l5 prio8 bank 3.0m Belfius 3.139pct debt ramp MJP IGS invest-subs 1.18m AFM +2.62m; next residual dual L5 rq_926; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T11:45:00Z,rq_926,926,no,tick926 Aalter JR2025 dual Zulte; FOI gap_aal_loans_toelagen_debt_l5 prio8 bank 5.0m debt 40.4m rising toelagen 9.74m cash recover AFM +4.72m; next residual dual L5 rq_927; rq_116 deferred

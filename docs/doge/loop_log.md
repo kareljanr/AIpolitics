@@ -11640,3 +11640,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_zul_*); commitments +4; leaderboard +7; sources +2; entity city_zulte; FOI **gap_zul_loans_debt_igs_l5** prio8 ready + draft; raw PDF + key; rq_925=done; spawn **rq_926**; ticks=925
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_926** residual dual L5 (Aalter / Lochristi / Kruisem / Kapellen AGB+APB / Roeselare); deferred **rq_116**; progress@930 in 5
+
+### Tick 926 - 2026-08-07T11:45:00Z
+
+- Unit: **rq_926** (FOI-adjacent residual dual - **Gemeente+OCMW Aalter Jaarrekening 2025** + Zulte dual)
+- Found (strong primary BBC JR2025 183p):
+  - Assets **EUR180.5m** / equity **EUR120.7m** / debt total **EUR59.8m** / fin debt **EUR40.4m** (**RISING** from **EUR38.0m**; LT **EUR37.6m** / ST due **EUR2.83m**)
+  - **New bank loans EUR5.000m FOI** / other **EUR0.09m** / repayments **EUR2.59m**
+  - **Cash EUR7.98m was EUR4.25m JUMP FOI** / pension **EUR10.6m** / onbeschikbaar **EUR2.94m FOI**
+  - Exploitatie: ontvangsten **EUR52.1m** / uitgaven **EUR44.9m** / saldo **+EUR7.16m**
+  - AFM **+EUR4.72m** (gecorr **+EUR4.28m**) / BBR **EUR4.88m** / budget result **+EUR4.62m** / P&L **+EUR0.01m**
+  - Personnel **EUR22.1m** / toelagen **EUR9.74m** (police **EUR4.62m** / **IGS EUR1.62m FOI** / other **EUR1.13m FOI** / AGB **EUR0.91m FOI**)
+  - Invest **EUR5.88m** / invest-subs IGS **EUR0.30m FOI** / fiscal **EUR26.2m** / MJP bank 2026 **EUR6.50m FOI**
+- Dual: Zulte **EUR115.5m** / bank Belfius **EUR3.0m** / debt rising (tick925) - not TE-additive
+- Wrote: budgets +51 (bud_aal_*); commitments +4; leaderboard +7; sources +2; entity city_aalter; FOI **gap_aal_loans_toelagen_debt_l5** prio8 ready + draft; raw PDF + key; rq_926=done; spawn **rq_927**; ticks=926
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_927** residual dual L5 (Lochristi / Kruisem / Kapellen AGB+APB / Roeselare); deferred **rq_116**; progress@930 in 4

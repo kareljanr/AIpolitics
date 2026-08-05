@@ -20645,3 +20645,54 @@ bud_zul_mjp_new_loans_bank_2026,city_zulte,2025,3500000,,,jaarrekening_realized,
 bud_zul_mjp_fin_debt_2026,city_zulte,2025,18661221,,,jaarrekening_realized,src_zulte_jr2025,strong,MJP projected fin debt YE2026 18.661m rising; tick925
 bud_zul_mjp_fin_debt_2027,city_zulte,2025,22201115,,,jaarrekening_realized,src_zulte_jr2025,strong,MJP projected fin debt YE2027 22.201m rising FOI; tick925
 bud_zul_pop_debt_per_cap_2025,city_zulte,2025,997,,,count,src_zulte_jr2025,strong,Openstaande schuld per inwoner 997 EUR (narrative); tick925
+bud_aal_assets_2025,city_aalter,2025,180484763,,,jaarrekening_realized,src_aalter_jr2025,strong,Consol gemeente+OCMW total assets YE2025 180.485m; tick926
+bud_aal_equity_2025,city_aalter,2025,120703629,,,jaarrekening_realized,src_aalter_jr2025,strong,Nettoactief YE2025 120.704m; tick926
+bud_aal_debt_total_2025,city_aalter,2025,59781133,,,jaarrekening_realized,src_aalter_jr2025,strong,Total schulden YE2025 59.781m; tick926
+bud_aal_fin_debt_2025,city_aalter,2025,40405125,,,jaarrekening_realized,src_aalter_jr2025,strong,T4 total financiele schulden YE2025 40.405m (RISING from 37.955m); tick926
+bud_aal_fin_debt_lt_2025,city_aalter,2025,37572313,,,jaarrekening_realized,src_aalter_jr2025,strong,Financiele schulden LT T4 YE2025 37.572m; tick926
+bud_aal_fin_debt_st_due_2025,city_aalter,2025,2832812,,,jaarrekening_realized,src_aalter_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.833m; tick926
+bud_aal_fin_debt_2024,city_aalter,2025,37955374,,,jaarrekening_realized,src_aalter_jr2025,strong,T4 fin debt YE2024 37.955m comparator; tick926
+bud_aal_pension_prov_2025,city_aalter,2025,10575136,,,jaarrekening_realized,src_aalter_jr2025,strong,Pensioenvoorzieningen LT YE2025 10.575m; tick926
+bud_aal_cash_2025,city_aalter,2025,7984618,,,jaarrekening_realized,src_aalter_jr2025,strong,Liquide middelen YE2025 7.985m (was 4.247m JUMP FOI); tick926
+bud_aal_cash_2024,city_aalter,2025,4247093,,,jaarrekening_realized,src_aalter_jr2025,strong,Liquide middelen YE2024 4.247m; tick926
+bud_aal_cap_subs_2025,city_aalter,2025,30009284,,,jaarrekening_realized,src_aalter_jr2025,strong,Kapitaalsubsidies YE2025 30.009m; tick926
+bud_aal_fva_total_2025,city_aalter,2025,22176180,,,jaarrekening_realized,src_aalter_jr2025,strong,Financiele vaste activa YE2025 22.176m; tick926
+bud_aal_fva_igs_2025,city_aalter,2025,22010086,,,jaarrekening_realized,src_aalter_jr2025,strong,Fin VA IGS YE2025 22.010m; tick926
+bud_aal_mva_2025,city_aalter,2025,140559030,,,jaarrekening_realized,src_aalter_jr2025,strong,Materiele vaste activa YE2025 140.559m; tick926
+bud_aal_onbeschikbaar_2025,city_aalter,2025,2942470,,,jaarrekening_realized,src_aalter_jr2025,strong,Onbeschikbare gelden J2 2.942m FOI; tick926
+bud_aal_expl_rec_2025,city_aalter,2025,52082967,,,jaarrekening_realized,src_aalter_jr2025,strong,Exploitatieontvangsten 52.083m; tick926
+bud_aal_expl_exp_2025,city_aalter,2025,44920991,,,jaarrekening_realized,src_aalter_jr2025,strong,Exploitatieuitgaven 44.921m; tick926
+bud_aal_expl_saldo_2025,city_aalter,2025,7161975,,,jaarrekening_realized,src_aalter_jr2025,strong,Exploitatiesaldo +7.162m; tick926
+bud_aal_invest_exp_2025,city_aalter,2025,5884278,,,jaarrekening_realized,src_aalter_jr2025,strong,Investeringsuitgaven J2 5.884m FOI; tick926
+bud_aal_invest_rec_2025,city_aalter,2025,822681,,,jaarrekening_realized,src_aalter_jr2025,strong,Investeringsontvangsten J2 0.823m; tick926
+bud_aal_invest_saldo_2025,city_aalter,2025,-5061597,,,jaarrekening_realized,src_aalter_jr2025,strong,Investeringssaldo -5.062m; tick926
+bud_aal_fin_rec_2025,city_aalter,2025,5241172,,,jaarrekening_realized,src_aalter_jr2025,strong,Financieringsontvangsten 5.241m; tick926
+bud_aal_fin_exp_2025,city_aalter,2025,2718851,,,jaarrekening_realized,src_aalter_jr2025,strong,Financieringsuitgaven 2.719m; tick926
+bud_aal_new_loans_2025,city_aalter,2025,5086700,,,jaarrekening_realized,src_aalter_jr2025,strong,Aangaan financiele schulden total 5.087m (bank 5.000m + other 0.087m) FOI; tick926
+bud_aal_new_loans_bank_2025,city_aalter,2025,5000000,,,jaarrekening_realized,src_aalter_jr2025,strong,Opname leningen bij financiele instellingen 5.000m FOI; tick926
+bud_aal_aflossingen_2025,city_aalter,2025,2594112,,,jaarrekening_realized,src_aalter_jr2025,strong,Periodieke aflossingen 2.594m; tick926
+bud_aal_agb_loans_granted_2025,city_aalter,2025,89075,,,jaarrekening_realized,src_aalter_jr2025,strong,Toegestane leningen AGB 0.089m; tick926
+bud_aal_afm_2025,city_aalter,2025,4722336,,,jaarrekening_realized,src_aalter_jr2025,strong,AFM +4.722m (very strong); tick926
+bud_aal_afm_corr_2025,city_aalter,2025,4281579,,,jaarrekening_realized,src_aalter_jr2025,strong,Gecorrigeerde AFM +4.282m; tick926
+bud_aal_bbr_2025,city_aalter,2025,4879198,,,jaarrekening_realized,src_aalter_jr2025,strong,BBR 4.879m after onbeschikbaar 2.942m; tick926
+bud_aal_budget_result_2025,city_aalter,2025,4622699,,,jaarrekening_realized,src_aalter_jr2025,strong,Budgettair resultaat boekjaar +4.623m; tick926
+bud_aal_cum_br_2025,city_aalter,2025,7821668,,,jaarrekening_realized,src_aalter_jr2025,strong,Gecumuleerd budgettair resultaat 7.822m; tick926
+bud_aal_pnl_result_2025,city_aalter,2025,14671,,,jaarrekening_realized,src_aalter_jr2025,strong,Vennootschapsresultaat J5 +0.015m; tick926
+bud_aal_personnel_2025,city_aalter,2025,22059525,,,jaarrekening_realized,src_aalter_jr2025,strong,T2 bezoldigingen 22.060m; tick926
+bud_aal_toelagen_2025,city_aalter,2025,9739975,,,jaarrekening_realized,src_aalter_jr2025,strong,Toegestane werkingssubsidies 9.740m; tick926
+bud_aal_police_toelage_2025,city_aalter,2025,4623900,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelage politiezone 4.624m; tick926
+bud_aal_hvz_toelage_2025,city_aalter,2025,1099542,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelage HVZ 1.100m; tick926
+bud_aal_agb_toelage_2025,city_aalter,2025,912387,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelage AGB 0.912m FOI; tick926
+bud_aal_igs_toelage_2025,city_aalter,2025,1621174,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelage IGS 1.621m FOI; tick926
+bud_aal_eredienst_toelage_2025,city_aalter,2025,164409,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelage eredienst 0.164m; tick926
+bud_aal_welzijn_toelage_2025,city_aalter,2025,193215,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelage welzijnsverenigingen 0.193m; tick926
+bud_aal_toelagen_other_2025,city_aalter,2025,1125348,,,jaarrekening_realized,src_aalter_jr2025,strong,Toelagen andere begunstigden 1.125m FOI; tick926
+bud_aal_invest_subs_granted_2025,city_aalter,2025,340852,,,jaarrekening_realized,src_aalter_jr2025,strong,Toegestane investeringssubsidies 0.341m; tick926
+bud_aal_invest_subs_igs_2025,city_aalter,2025,294968,,,jaarrekening_realized,src_aalter_jr2025,strong,Invest-subs IGS 0.295m FOI; tick926
+bud_aal_ocmw_aid_2025,city_aalter,2025,1712601,,,jaarrekening_realized,src_aalter_jr2025,strong,OCMW individuele hulp 1.713m; tick926
+bud_aal_fiscal_2025,city_aalter,2025,26233022,,,jaarrekening_realized,src_aalter_jr2025,strong,Fiscale opbrengsten en boetes 26.233m; tick926
+bud_aal_gemeentefonds_2025,city_aalter,2025,8502871,,,jaarrekening_realized,src_aalter_jr2025,strong,Gemeentefonds T2 8.503m; tick926
+bud_aal_fin_costs_2025,city_aalter,2025,942239,,,jaarrekening_realized,src_aalter_jr2025,strong,Financiele kosten 0.942m; tick926
+bud_aal_invest_mva_2025,city_aalter,2025,5390873,,,jaarrekening_realized,src_aalter_jr2025,strong,Investeringen MVA 5.391m (buildings 2.490 roads 2.076); tick926
+bud_aal_mjp_new_loans_bank_2026,city_aalter,2025,6500000,,,jaarrekening_realized,src_aalter_jr2025,strong,MJP new bank loans 2026 6.500m FOI; tick926
+bud_aal_agb_bbr_2025,city_aalter,2025,580816,,,jaarrekening_realized,src_aalter_jr2025,strong,AGB Aalter BBR YE2025 0.581m consol evenwicht; tick926
