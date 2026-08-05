@@ -28741,3 +28741,55 @@ bud_peer_responsabilisering_2025,city_peer,2025,585848,,,bbc_jr_realized,src_pee
 bud_peer_borg_vitas_open_2025,city_peer,2025,42939947,,,bbc_jr_realized,src_peer_jr2025,strong,Borgstellingen VitaS openstaand ~42.940m FOI residual contingent; tick1099
 bud_peer_borg_total_open_2025,city_peer,2025,44151030,,,bbc_jr_realized,src_peer_jr2025,strong,Totale IGS borg open 44.151m (VitaS+Fluvius Inter-Aqua); tick1099
 bud_peer_gas5_jump_note_2025,city_peer,2025,810387,,,bbc_jr_realized,src_peer_jr2025,strong,GAS5 boetes +0.810m vs budget FOI residual note (risk report); tick1099
+bud_hee_assets_2025,city_heers,2025,49503953,,,bbc_jr_realized,src_heers_jr2025,strong,Assets YE2025 49.504m JUMP (was 41.650m; FVA herwaard); tick1101
+bud_hee_equity_2025,city_heers,2025,35582885,,,bbc_jr_realized,src_heers_jr2025,strong,Nettoactief YE2025 35.583m JUMP (was 27.258m); tick1101
+bud_hee_debt_total_2025,city_heers,2025,13921068,,,bbc_jr_realized,src_heers_jr2025,strong,Total schulden YE2025 13.921m DECLINE (was 14.392m); tick1101
+bud_hee_fin_debt_2025,city_heers,2025,10068387,,,bbc_jr_realized,src_heers_jr2025,strong,Fin debt total YE2025 10.068m DECLINE (was 10.415m T4); tick1101
+bud_hee_fin_debt_lt_2025,city_heers,2025,9481772,,,bbc_jr_realized,src_heers_jr2025,strong,Fin debt LT YE2025 9.482m DECLINE (was 9.857m); tick1101
+bud_hee_fin_debt_st_2025,city_heers,2025,586616,,,bbc_jr_realized,src_heers_jr2025,strong,Fin debt ST due YE2025 0.587m slight JUMP; tick1101
+bud_hee_new_loans_2025,city_heers,2025,217816,,,bbc_jr_realized,src_heers_jr2025,strong,New loans 0.218m leasing only; bank 0.700m NOT drawn FOI; tick1101
+bud_hee_repayments_2025,city_heers,2025,564379,,,bbc_jr_realized,src_heers_jr2025,strong,Periodieke aflossingen 0.564m; tick1101
+bud_hee_cash_2025,city_heers,2025,7850286,,,bbc_jr_realized,src_heers_jr2025,strong,Cash YE2025 7.850m JUMP FOI (was 5.308m; land sales); tick1101
+bud_hee_pension_lt_2025,city_heers,2025,2942700,,,bbc_jr_realized,src_heers_jr2025,strong,Pension LT 2.943m slight DECLINE (was 3.005m); tick1101
+bud_hee_fva_total_2025,city_heers,2025,12507015,,,bbc_jr_realized,src_heers_jr2025,strong,FVA total YE2025 12.507m MASSIVE JUMP (was 6.225m); tick1101
+bud_hee_fva_igs_2025,city_heers,2025,11315948,,,bbc_jr_realized,src_heers_jr2025,strong,FVA IGS YE2025 11.316m MASSIVE JUMP FOI (was 5.034m); tick1101
+bud_hee_herwaard_2025,city_heers,2025,6281652,,,bbc_jr_realized,src_heers_jr2025,strong,Herwaarderingsreserves YE2025 6.282m MASSIVE JUMP FOI (was 0); tick1101
+bud_hee_leasing_mva_2025,city_heers,2025,867986,,,bbc_jr_realized,src_heers_jr2025,strong,Leasing MVA YE2025 0.868m (Fluvius light); tick1101
+bud_hee_expl_ontvangsten_2025,city_heers,2025,11762867,,,bbc_jr_realized,src_heers_jr2025,strong,Exploitatie ontvangsten 11.763m; tick1101
+bud_hee_expl_uitgaven_2025,city_heers,2025,9881250,,,bbc_jr_realized,src_heers_jr2025,strong,Exploitatie uitgaven 9.881m; tick1101
+bud_hee_expl_saldo_2025,city_heers,2025,1881617,,,bbc_jr_realized,src_heers_jr2025,strong,Exploitatiesaldo +1.882m STRONG; tick1101
+bud_hee_afm_2025,city_heers,2025,1317237,,,bbc_jr_realized,src_heers_jr2025,strong,AFM +1.317m STRONG; tick1101
+bud_hee_afm_gecorr_2025,city_heers,2025,1048420,,,bbc_jr_realized,src_heers_jr2025,strong,AFM gecorrigeerd +1.048m STRONG; tick1101
+bud_hee_bbr_2025,city_heers,2025,5417031,,,bbc_jr_realized,src_heers_jr2025,strong,Beschikbaar budgettair resultaat 5.417m HIGH; tick1101
+bud_hee_onbeschikbaar_2025,city_heers,2025,2514811,,,bbc_jr_realized,src_heers_jr2025,strong,Onbeschikbare gelden 2.515m; tick1101
+bud_hee_budget_result_2025,city_heers,2025,2617719,,,bbc_jr_realized,src_heers_jr2025,strong,Budgettair resultaat boekjaar +2.618m VERY STRONG; tick1101
+bud_hee_cum_br_2025,city_heers,2025,7931842,,,bbc_jr_realized,src_heers_jr2025,strong,Gecumuleerd BR 7.932m; tick1101
+bud_hee_pnl_2025,city_heers,2025,1995055,,,bbc_jr_realized,src_heers_jr2025,strong,P&L overschot +1.995m STRONG JUMP (was 0.894m); tick1101
+bud_hee_fiscal_2025,city_heers,2025,5726436,,,bbc_jr_realized,src_heers_jr2025,strong,Fiscale opbrengsten 5.726m JUMP; tick1101
+bud_hee_pb_2025,city_heers,2025,3043065,,,bbc_jr_realized,src_heers_jr2025,strong,Aanvullende PB 3.043m JUMP; tick1101
+bud_hee_op_2025,city_heers,2025,2047779,,,bbc_jr_realized,src_heers_jr2025,strong,Onroerende voorheffing opcentiemen 2.048m; tick1101
+bud_hee_personnel_2025,city_heers,2025,5217731,,,bbc_jr_realized,src_heers_jr2025,strong,Personeel 5.218m slight JUMP; tick1101
+bud_hee_toelagen_2025,city_heers,2025,1616078,,,bbc_jr_realized,src_heers_jr2025,strong,Toegestane werkingssubsidies 1.616m FOI; tick1101
+bud_hee_toelagen_police_2025,city_heers,2025,0,,,bbc_jr_realized,src_heers_jr2025,strong,Politiezone toelage T2 0 (was 0.590m); reclass into andere FOI; tick1101
+bud_hee_toelagen_fire_2025,city_heers,2025,290154,,,bbc_jr_realized,src_heers_jr2025,strong,Hulpverleningszone 0.290m; tick1101
+bud_hee_toelagen_igs_2025,city_heers,2025,19235,,,bbc_jr_realized,src_heers_jr2025,strong,IGS werkingssubsidies 0.019m LOW; tick1101
+bud_hee_toelagen_other_2025,city_heers,2025,1246542,,,bbc_jr_realized,src_heers_jr2025,strong,Andere begunstigden toelagen 1.247m MASSIVE JUMP FOI (was 0.622m; police reclass?); tick1101
+bud_hee_toelagen_eredienst_2025,city_heers,2025,60146,,,bbc_jr_realized,src_heers_jr2025,strong,Eredienst 0.060m; tick1101
+bud_hee_invest_uitgaven_2025,city_heers,2025,1451561,,,bbc_jr_realized,src_heers_jr2025,strong,Investeringsuitgaven 1.452m vs MJP 1.892m UNDERSPEND; endkredieten path higher FOI; tick1101
+bud_hee_invest_ontvangsten_2025,city_heers,2025,2534227,,,bbc_jr_realized,src_heers_jr2025,strong,Investeringsontvangsten 2.534m JUMP (land sales); tick1101
+bud_hee_invest_saldo_2025,city_heers,2025,1082666,,,bbc_jr_realized,src_heers_jr2025,strong,Investeringssaldo +1.083m POSITIVE (sales-driven); tick1101
+bud_hee_invest_mjp_2025,city_heers,2025,1892379,,,bbc_jr_realized,src_heers_jr2025,strong,MJP invest uitgaven 1.892m; tick1101
+bud_hee_invest_mva_2025,city_heers,2025,1297473,,,bbc_jr_realized,src_heers_jr2025,strong,MVA aankopen 1.297m; tick1101
+bud_hee_land_sales_2025,city_heers,2025,2060947,,,bbc_jr_realized,src_heers_jr2025,strong,Verkoop MVA andere 2.061m MASSIVE (bouwgronden/academie path); tick1101
+bud_hee_ocmw_land_sales_2025,city_heers,2025,1710487,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW landbouwgrond verkoop 1.710m MASSIVE FOI residual; tick1101
+bud_hee_meerwaarden_2025,city_heers,2025,1470137,,,bbc_jr_realized,src_heers_jr2025,strong,Meerwaarden realisatie vaste activa 1.470m MASSIVE JUMP FOI (was 0.185m); tick1101
+bud_hee_ocmw_expl_uit_2025,city_heers,2025,1234183,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW expl uitgaven J3 1.234m; tick1101
+bud_hee_ocmw_expl_ont_2025,city_heers,2025,1027130,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW expl ontvangsten J3 1.027m; tick1101
+bud_hee_ocmw_expl_gap_2025,city_heers,2025,207053,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW expl gap J3 ~0.207m structural FOI; tick1101
+bud_hee_ocmw_cover_2025,city_heers,2025,0,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW cover/tussenkomst 0 ZERO (equity flip via land sales); tick1101
+bud_hee_ocmw_equity_2025,city_heers,2025,3589013,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW nettoactief YE2025 3.589m JUMP (was 2.653m; land sales); tick1101
+bud_hee_ocmw_cum_pnl_2025,city_heers,2025,559140,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW gecum overschot +0.559m FLIP (was -0.389m) cover 0; tick1101
+bud_hee_ocmw_hulp_2025,city_heers,2025,270901,,,bbc_jr_realized,src_heers_jr2025,strong,OCMW individuele hulpverlening 0.271m; tick1101
+bud_hee_goederen_2025,city_heers,2025,2404972,,,bbc_jr_realized,src_heers_jr2025,strong,Goederen en diensten 2.405m DROP; tick1101
+bud_hee_afschrijvingen_2025,city_heers,2025,1682189,,,bbc_jr_realized,src_heers_jr2025,strong,Afschrijvingen/voorzieningen 1.682m; tick1101
+bud_hee_fin_exp_2025,city_heers,2025,316854,,,bbc_jr_realized,src_heers_jr2025,strong,Financiele kosten 0.317m; tick1101

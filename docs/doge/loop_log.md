@@ -14943,3 +14943,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: `progress_every_10_ticks.md` snapshot@1100; `doge_waste_top10_current.md` refresh; rq_1100=done; spawn **rq_1101**; ticks=1100
 - FOI: none new this tick (decade inventory only)
 - Next: prio5 **rq_1101** residual dual L5; deferred **rq_116**; progress@1110 in 9
+
+### Tick 1101 - 2026-08-11T16:00:00Z
+
+- Unit: **rq_1101** (FOI-adjacent residual dual - **Gemeente+OCMW Heers Jaarrekening 2025** + Peer dual residual)
+- Found (strong primary BBC JR2025 PDF; 147p; GR/RMW 29.06.2026 pub 30.06.2026; heers.be; KBO GE 0207.476.862 / OCMW 0212.218.281; Paardskerkhofstraat 20 3870; AD Ivo Carlens FD Eric Schepmans; GE+OCMW):
+  - Assets **EUR49.504m JUMP** (was **EUR41.650m**) / equity **EUR35.583m JUMP** / debt total **EUR13.921m DECLINE** / fin debt **EUR10.068m DECLINE** (LT **EUR9.482m** / ST due **EUR0.587m**)
+  - New loans **EUR0.218m LOW** leasing only / bank **EUR0.700m NOT drawn FOI** / repayments **EUR0.564m**
+  - Cash **EUR7.850m JUMP FOI** (was **EUR5.308m**; land sales) / pension **EUR2.943m** slight DECLINE / FVA IGS **EUR11.316m MASSIVE JUMP FOI** (was **EUR5.034m**) / herwaard **EUR6.282m MASSIVE JUMP FOI** (was **EUR0**) / leasing MVA **EUR0.868m**
+  - Exploitatie: ontvangsten **EUR11.763m** / uitgaven **EUR9.881m** / saldo **+EUR1.882m STRONG**
+  - AFM **+EUR1.317m STRONG** (gecorr **+EUR1.048m**) / BBR **EUR5.417m HIGH** / onbeschikbaar **EUR2.515m** / budget **+EUR2.618m VERY STRONG** / cum BR **EUR7.932m** / P&L **+EUR1.995m STRONG JUMP**
+  - Fiscal **EUR5.726m** / PB **EUR3.043m JUMP** / OP **EUR2.048m**
+  - Personnel **EUR5.218m** / toelagen **EUR1.616m FOI** (police T2 **EUR0** was **EUR0.590m** reclass FOI / andere **EUR1.247m MASSIVE JUMP** / fire **EUR0.290m**)
+  - Invest **EUR1.452m** vs MJP **EUR1.892m UNDERSPEND** / saldo **+EUR1.083m** sales-driven / GE land sales **EUR2.061m** / OCMW land sales **EUR1.710m** / meerwaarden **EUR1.470m MASSIVE**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW equity flip **-EUR0.389m → +EUR0.559m** via land sales / OCMW expl gap J3 **~EUR0.207m**
+- Dual: Peer VitaS/borg/invest (tick1099) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Bornem / Halen / Nieuwerkerken residual next; progress@1110 in 8
+- Wrote: budgets +52 (bud_hee_*); commitments +7; leaderboard +9; sources +1; entity city_heers; FOI **gap_hee_fva_herwaard_toelagen_sales_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1101=done; spawn **rq_1102**; ticks=1101
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1102** residual dual L5; deferred **rq_116**; progress@1110 in 8
