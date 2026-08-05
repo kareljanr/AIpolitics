@@ -24283,3 +24283,62 @@ bud_wic_ge_expl_exp_2025,city_wichelen,2025,16586460,,,bbc_jr_realized,src_wiche
 bud_wic_ocmw_expl_exp_2025,city_wichelen,2025,12548364,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW exploitatieuitgaven J3 12.55m FOI; tick1012
 bud_wic_ocmw_expl_rec_2025,city_wichelen,2025,10320650,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW exploitatieontvangsten J3 10.32m; tick1012
 bud_wic_ocmw_expl_saldo_2025,city_wichelen,2025,-2227714,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW exploitatiesaldo -2.23m FOI residual; tick1012
+bud_tem_assets_2025,city_temse,2025,172599468,,,bbc_jr_realized,src_temse_jr2025,strong,Assets YE2025 172.60m (was 172.50m); tick1013
+bud_tem_equity_2025,city_temse,2025,47968359,,,bbc_jr_realized,src_temse_jr2025,strong,Nettoactief YE2025 47.97m DROP (was 52.97m); tick1013
+bud_tem_debt_total_2025,city_temse,2025,124631109,,,bbc_jr_realized,src_temse_jr2025,strong,Total schulden YE2025 124.63m JUMP (was 119.53m); tick1013
+bud_tem_fin_debt_2025,city_temse,2025,75403595,,,bbc_jr_realized,src_temse_jr2025,strong,Fin debt total YE2025 75.40m DECLINING (was 76.99m T4 FOI); tick1013
+bud_tem_fin_debt_lt_2025,city_temse,2025,68365224,,,bbc_jr_realized,src_temse_jr2025,strong,Fin debt LT YE2025 68.37m DECLINING; tick1013
+bud_tem_fin_debt_st_due_2025,city_temse,2025,4288371,,,bbc_jr_realized,src_temse_jr2025,strong,Fin debt ST due YE2025 4.29m; tick1013
+bud_tem_fin_debt_st_new_2025,city_temse,2025,2750000,,,bbc_jr_realized,src_temse_jr2025,strong,Fin debt ST NEW YE2025 2.75m FOI residual (treasury/short loan); tick1013
+bud_tem_new_loans_2025,city_temse,2025,79741,,,bbc_jr_realized,src_temse_jr2025,strong,Nieuwe leningen 2025 0.080m lease only (bank 3m deferred FOI); tick1013
+bud_tem_aflossingen_2025,city_temse,2025,4414866,,,bbc_jr_realized,src_temse_jr2025,strong,Periodieke aflossingen 2025 4.41m; tick1013
+bud_tem_early_repay_2025,city_temse,2025,328500,,,bbc_jr_realized,src_temse_jr2025,strong,Vervroegde aflossing 2025 0.329m FOI; tick1013
+bud_tem_cash_2025,city_temse,2025,5026293,,,bbc_jr_realized,src_temse_jr2025,strong,Liquide middelen YE2025 5.03m DROP (was 12.50m FOI); tick1013
+bud_tem_pension_2025,city_temse,2025,36180169,,,bbc_jr_realized,src_temse_jr2025,strong,Pensioenvoorzieningen LT YE2025 36.18m JUMP (was 30.31m FOI); tick1013
+bud_tem_cap_subs_2025,city_temse,2025,5456993,,,bbc_jr_realized,src_temse_jr2025,strong,Kapitaalsubsidies YE2025 5.46m; tick1013
+bud_tem_fva_total_2025,city_temse,2025,32415732,,,bbc_jr_realized,src_temse_jr2025,strong,FVA total YE2025 32.42m; tick1013
+bud_tem_fva_igs_2025,city_temse,2025,32226624,,,bbc_jr_realized,src_temse_jr2025,strong,FVA IGS YE2025 32.23m; tick1013
+bud_tem_fva_other_2025,city_temse,2025,189109,,,bbc_jr_realized,src_temse_jr2025,strong,Andere FVA YE2025 0.189m; tick1013
+bud_tem_leasing_mva_2025,city_temse,2025,2591300,,,bbc_jr_realized,src_temse_jr2025,strong,Leasing MVA total YE2025 2.59m; tick1013
+bud_tem_expl_rec_2025,city_temse,2025,59924049,,,bbc_jr_realized,src_temse_jr2025,strong,Exploitatieontvangsten 59.92m; tick1013
+bud_tem_expl_exp_2025,city_temse,2025,53074277,,,bbc_jr_realized,src_temse_jr2025,strong,Exploitatieuitgaven 53.07m; tick1013
+bud_tem_expl_saldo_2025,city_temse,2025,6849772,,,bbc_jr_realized,src_temse_jr2025,strong,Exploitatiesaldo +6.85m STRONG; tick1013
+bud_tem_invest_exp_2025,city_temse,2025,12967609,,,bbc_jr_realized,src_temse_jr2025,strong,Investeringsuitgaven 12.97m vs MJP 16.10m UNDERSPEND FOI; tick1013
+bud_tem_invest_exp_ocmw_2025,city_temse,2025,7005516,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW investeringsuitgaven 7.01m HIGH FOI residual; tick1013
+bud_tem_invest_rec_2025,city_temse,2025,905482,,,bbc_jr_realized,src_temse_jr2025,strong,Investeringsontvangsten 0.905m; tick1013
+bud_tem_invest_saldo_2025,city_temse,2025,-12062126,,,bbc_jr_realized,src_temse_jr2025,strong,Investeringssaldo -12.06m; tick1013
+bud_tem_mjp_invest_planned_2025,city_temse,2025,16098526,,,bbc_jr_realized,src_temse_jr2025,strong,MJP invest planned 16.10m vs realized 12.97m underspend FOI; tick1013
+bud_tem_afm_2025,city_temse,2025,2545934,,,bbc_jr_realized,src_temse_jr2025,strong,AFM +2.55m STRONG; tick1013
+bud_tem_afm_corr_2025,city_temse,2025,801702,,,bbc_jr_realized,src_temse_jr2025,strong,Gecorrigeerde AFM +0.802m THIN FOI residual; tick1013
+bud_tem_bbr_2025,city_temse,2025,13799022,,,bbc_jr_realized,src_temse_jr2025,strong,BBR beschikbaar 13.80m HIGH; tick1013
+bud_tem_budget_result_2025,city_temse,2025,-9436451,,,bbc_jr_realized,src_temse_jr2025,strong,Budgettair resultaat -9.44m NEG HIGH FOI residual; tick1013
+bud_tem_cum_br_2025,city_temse,2025,14137437,,,bbc_jr_realized,src_temse_jr2025,strong,Gecumuleerd budgettair resultaat 14.14m DROP (was 23.57m); tick1013
+bud_tem_pnl_2025,city_temse,2025,-5286302,,,bbc_jr_realized,src_temse_jr2025,strong,P&L -5.29m FOI residual; tick1013
+bud_tem_pnl_ge_2025,city_temse,2025,10075131,,,bbc_jr_realized,src_temse_jr2025,strong,GE P&L +10.08m; tick1013
+bud_tem_pnl_ocmw_2025,city_temse,2025,-15361432,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW P&L -15.36m FOI; tick1013
+bud_tem_ocmw_cover_2025,city_temse,2025,9865130,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW cover 9.87m FULL-ish FOI residual vs OCMW -15.36m; tick1013
+bud_tem_ocmw_cum_deficit_2025,city_temse,2025,-27878061,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW cum tekort YE2025 -27.88m WORSENING (was -22.38m after cover); tick1013
+bud_tem_personnel_2025,city_temse,2025,24077439,,,bbc_jr_realized,src_temse_jr2025,strong,Bezoldigingen 24.08m; tick1013
+bud_tem_toelagen_2025,city_temse,2025,14560110,,,bbc_jr_realized,src_temse_jr2025,strong,Toegestane werkingssubsidies 14.56m FOI residual; tick1013
+bud_tem_toelagen_police_2025,city_temse,2025,4468614,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage politiezone 4.47m; tick1013
+bud_tem_toelagen_fire_2025,city_temse,2025,2159715,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage hulpverleningszone 2.16m; tick1013
+bud_tem_toelagen_agb_2025,city_temse,2025,300000,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage AGB Patrimonium Temse 0.300m dual; tick1013
+bud_tem_toelagen_wvs_2025,city_temse,2025,2570000,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage Welzijnsvereniging Sleutelzorg 2.57m dual FOI; tick1013
+bud_tem_toelagen_igs_2025,city_temse,2025,2268923,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage IGS 2.27m JUMP (was 1.26m FOI); tick1013
+bud_tem_toelagen_eredienst_2025,city_temse,2025,89250,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage eredienst 0.089m; tick1013
+bud_tem_toelagen_other_2025,city_temse,2025,2703608,,,bbc_jr_realized,src_temse_jr2025,strong,Toelage andere begunstigden 2.70m FOI; tick1013
+bud_tem_ocmw_aid_2025,city_temse,2025,3785339,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW individuele hulp 3.79m; tick1013
+bud_tem_fiscal_2025,city_temse,2025,33687247,,,bbc_jr_realized,src_temse_jr2025,strong,Fiscale opbrengsten 33.69m; tick1013
+bud_tem_fiscal_ov_2025,city_temse,2025,12892710,,,bbc_jr_realized,src_temse_jr2025,strong,Opcentiemen OV 12.89m; tick1013
+bud_tem_fiscal_pb_2025,city_temse,2025,14767548,,,bbc_jr_realized,src_temse_jr2025,strong,Aanvullende PB 14.77m JUMP (was 13.54m); tick1013
+bud_tem_gemeentefonds_2025,city_temse,2025,9038938,,,bbc_jr_realized,src_temse_jr2025,strong,Gemeentefonds 9.04m; tick1013
+bud_tem_fin_opbr_2025,city_temse,2025,1148215,,,bbc_jr_realized,src_temse_jr2025,strong,Financiele opbrengsten J5 1.15m; tick1013
+bud_tem_fin_costs_2025,city_temse,2025,2138712,,,bbc_jr_realized,src_temse_jr2025,strong,Financiele kosten 2.14m; tick1013
+bud_tem_invest_subs_granted_2025,city_temse,2025,447890,,,bbc_jr_realized,src_temse_jr2025,strong,Toegestane investeringssubsidies 0.448m; tick1013
+bud_tem_cum_equity_deficit_2025,city_temse,2025,-27624168,,,bbc_jr_realized,src_temse_jr2025,strong,Gecumuleerd equity deficit YE2025 -27.62m WORSENING (was -22.34m FOI); tick1013
+bud_tem_agb_bbr_2025,city_temse,2025,-3009679,,,bbc_jr_realized,src_temse_jr2025,strong,AGB Patrimonium Temse BBR -3.01m NEG dual residual; tick1013
+bud_tem_wvs_bbr_2025,city_temse,2025,-1306117,,,bbc_jr_realized,src_temse_jr2025,strong,WVS Sleutelzorg BBR -1.31m NEG dual residual; tick1013
+bud_tem_ge_expl_exp_2025,city_temse,2025,36054122,,,bbc_jr_realized,src_temse_jr2025,strong,GE exploitatieuitgaven J3 36.05m; tick1013
+bud_tem_ocmw_expl_exp_2025,city_temse,2025,17020155,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW exploitatieuitgaven J3 17.02m FOI; tick1013
+bud_tem_ocmw_expl_rec_2025,city_temse,2025,8672411,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW exploitatieontvangsten J3 8.67m; tick1013
+bud_tem_ocmw_expl_saldo_2025,city_temse,2025,-8354699,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW exploitatiesaldo -8.35m FOI residual; tick1013

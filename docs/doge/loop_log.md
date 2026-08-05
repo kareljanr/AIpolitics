@@ -13213,3 +13213,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1013** residual dual L5 (Torhout / Temse / Stekene / Laarne / Buggenhout / other); deferred **rq_116**; progress@1020 in 8
 
+
+### Tick 1013 - 2026-08-09T19:45:00Z
+
+- Unit: **rq_1013** (FOI-adjacent residual dual - **Gemeente+OCMW Temse Jaarrekening 2025** + Wichelen dual residual)
+- Found (strong primary BBC JR2025 314p LBLOD; KBO 0207.464.588 / OCMW 0212.173.840; FD Leentje Osselaer; AD Nele De Cleen; BM Hugo Maes; Frans Boelplein 1; NIS 46025):
+  - Assets **EUR172.60m** / equity **EUR47.97m DROP** / debt total **EUR124.63m JUMP** / fin debt **EUR75.40m** (**DECLINING** from **EUR76.99m**; LT **EUR68.37m** / ST due **EUR4.29m** / **ST NEW EUR2.75m FOI**)
+  - New loans **EUR0.080m** lease only (bank **EUR3.00m deferred 2026 FOI**) / repayments **EUR4.41m** / early repay **EUR0.329m**
+  - Cash **EUR5.03m DROP** (was **EUR12.50m FOI**) / pension **EUR36.18m JUMP** (was **EUR30.31m FOI**) / leasing MVA **EUR2.59m**
+  - FVA IGS **EUR32.23m** / cap subs **EUR5.46m**
+  - Exploitatie: ontvangsten **EUR59.92m** / uitgaven **EUR53.07m** / saldo **+EUR6.85m STRONG**
+  - AFM **+EUR2.55m STRONG** (gecorr **+EUR0.802m THIN**) / BBR **EUR13.80m HIGH** / budget **-EUR9.44m NEG HIGH FOI** / P&L **-EUR5.29m** (GE **+EUR10.08m** / OCMW **-EUR15.36m FOI**)
+  - Personnel **EUR24.08m** / toelagen **EUR14.56m FOI** (police **EUR4.47m** / fire **EUR2.16m** / WVS Sleutelzorg **EUR2.57m dual** / IGS **EUR2.27m JUMP** was 1.26 / AGB **EUR0.300m** / other **EUR2.70m**)
+  - Invest **EUR12.97m** (OCMW **EUR7.01m HIGH FOI**) vs MJP **EUR16.10m UNDERSPEND** / **OCMW cover EUR9.87m FULL-ish FOI** / OCMW cum **-EUR27.88m WORSENING** (was -22.38m)
+  - Equity deficit **-EUR27.62m WORSENING** / AGB Patrimonium BBR **-EUR3.01m NEG dual** / WVS BBR **-EUR1.31m NEG dual**
+- Dual: Wichelen **EUR61.86m** / pension JUMP **EUR5.65m** / equity deficit **-EUR2.08m** (tick1012) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 last tick; Laarne / Buggenhout / AGB Temse residual next optional
+- Wrote: budgets +59 (bud_tem_*); commitments +6; leaderboard +8; sources +1; entity city_temse; FOI **gap_tem_budget_ocmw_debt_toelagen_l5** prio9 ready + draft; key only (PDF ~25MB not stored in git); rq_1013=done; spawn **rq_1014**; ticks=1013
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1014** residual dual L5 (Torhout / Stekene / Laarne / Buggenhout / other); deferred **rq_116**; progress@1020 in 7
+
