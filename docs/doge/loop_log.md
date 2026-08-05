@@ -14908,3 +14908,25 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +61 (bud_dil_*); commitments +7; leaderboard +9; sources +1; entity city_dilsen_stokkem; FOI **gap_dil_pension_fva_ocmw_cash_invest_l5** prio9 ready + draft; PDF primary d2/d3 (not committed); rq_1098=done; spawn **rq_1099**; ticks=1098
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1099** residual dual L5; deferred **rq_116**; progress@1100 in 1
+
+### Tick 1099 - 2026-08-11T15:00:00Z
+
+- Unit: **rq_1099** (FOI-adjacent residual dual - **Stad+OCMW Peer Jaarrekening 2025** + Dilsen-Stokkem dual residual)
+- Found (strong primary BBC JR2025 PDF; 334p; GR 22.06.2026 pub 29.06.2026; peer.be; KBO GE 0207.474.189 / OCMW 0212.207.888; Zuidervest 2a 3990; AD Jo Sclep FD Bart Francois; Stad+OCMW):
+  - Assets **EUR146.216m** slight DROP / equity **EUR107.150m** / debt total **EUR39.066m** / fin debt **EUR23.124m RISE** (LT **EUR21.047m** / ST due **EUR2.077m**)
+  - New loans **EUR2.285m** (KBC bank **EUR2.000m** @3.20% + Fluvius light-as-service leasing **EUR0.285m**; 2.000m line rolled to 2026) / repayments **EUR1.935m**
+  - Cash **EUR9.121m DECLINE** (was **EUR11.833m**) / onbeschikbaar **EUR2.578m** (Ethias 2e pijler) / pension **EUR11.373m HIGH** (was **EUR10.583m**)
+  - FVA IGS **EUR24.909m STABLE** (was **EUR24.815m**; NO Fluvius-class reval) / herwaard **EUR0.015m** tiny / leasing MVA **EUR1.845m**
+  - Exploitatie: ontvangsten **EUR32.508m** / uitgaven **EUR27.327m** / saldo **+EUR5.181m STRONG**
+  - AFM **+EUR3.457m STRONG** (gecorr **+EUR3.570m**) / BBR **EUR10.109m HIGH** / budget **+EUR0.746m** / cum BR **EUR12.687m** / P&L **+EUR0.341m**
+  - Fiscal **EUR16.880m JUMP** / PB **EUR6.802m** catch-up / OP **EUR6.436m** / other tax+boetes **EUR3.329m** (GAS5 +**EUR0.810m** vs budget)
+  - Personnel **EUR12.243m** / toelagen **EUR4.540m FOI** (police **EUR1.312m** / IGS **EUR0.793m** / brandweer **EUR0.786m** / andere **EUR2.125m HIGH**)
+  - **VitaS** rustoord tussenkomst **EUR1.479m JUMP FOI** (was **EUR1.046m**; 25% advance) / fin costs **EUR2.185m**
+  - Invest **EUR6.421m** vs MJP **EUR20.036m MASSIVE UNDERSPEND FOI** / saldo **-EUR4.847m**
+  - OCMW expl gap J3 **~EUR1.784m** (uit 4.563 / ont 2.779) / OCMW hulp **EUR1.556m**
+  - Contingent: VitaS borg open **~EUR42.94m** / total IGS borg **EUR44.15m**
+- Dual: Dilsen-Stokkem FVA/pension/OCMW zero cover (tick1098) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Bornem / Halen residual next; **progress@1100 NEXT tick decade**
+- Wrote: budgets +55 (bud_peer_*); commitments +7; leaderboard +9; sources +1; entity city_peer; FOI **gap_peer_vitas_borg_invest_pension_toelagen_l5** prio9 ready + draft; PDF primary (not committed 133MB); rq_1099=done; spawn **rq_1100**; ticks=1099
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1100** residual dual L5 + **PROGRESS@1100**; deferred **rq_116**

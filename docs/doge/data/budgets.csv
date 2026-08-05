@@ -28686,3 +28686,58 @@ bud_dil_ocmw_expl_gap_2025,city_dilsen_stokkem,2025,3147031,,,bbc_jr_realized,sr
 bud_dil_fin_exp_2025,city_dilsen_stokkem,2025,274709,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Financiële uitgaven 0.275m; tick1098
 bud_dil_afschrijvingen_2025,city_dilsen_stokkem,2025,5321463,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Afschrijvingen/voorzieningen P&L 5.321m DROP (was 13.520m); tick1098
 bud_dil_debt_per_capita_2025,city_dilsen_stokkem,2025,335,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Schuld per inwoner YE2025 335 EUR (risk note); tick1098
+bud_peer_assets_2025,city_peer,2025,146216107,,,bbc_jr_realized,src_peer_jr2025,strong,Assets YE2025 146.216m slight DROP (was 146.385m); tick1099
+bud_peer_equity_2025,city_peer,2025,107150327,,,bbc_jr_realized,src_peer_jr2025,strong,Nettoactief YE2025 107.150m slight JUMP (was 106.327m); tick1099
+bud_peer_debt_total_2025,city_peer,2025,39065780,,,bbc_jr_realized,src_peer_jr2025,strong,Total schulden YE2025 39.066m slight DROP (was 40.059m); tick1099
+bud_peer_fin_debt_2025,city_peer,2025,23124092,,,bbc_jr_realized,src_peer_jr2025,strong,Fin debt total YE2025 23.124m RISE (was 22.774m); tick1099
+bud_peer_fin_debt_lt_2025,city_peer,2025,21046740,,,bbc_jr_realized,src_peer_jr2025,strong,Fin debt LT YE2025 21.047m RISE (was 18.792m T4); tick1099
+bud_peer_fin_debt_st_2025,city_peer,2025,2077352,,,bbc_jr_realized,src_peer_jr2025,strong,Fin debt ST due YE2025 2.077m DECLINE (was 3.982m T4); tick1099
+bud_peer_new_loans_2025,city_peer,2025,2284539,,,bbc_jr_realized,src_peer_jr2025,strong,New loans 2.285m (bank 2.000m KBC + leasing Fluvius light 0.285m); tick1099
+bud_peer_repayments_2025,city_peer,2025,1934796,,,bbc_jr_realized,src_peer_jr2025,strong,Periodieke aflossingen 1.935m; tick1099
+bud_peer_cash_2025,city_peer,2025,9121046,,,bbc_jr_realized,src_peer_jr2025,strong,Cash/geldbeleggingen YE2025 9.121m DECLINE (was 11.833m); onbeschikbaar 2.578m pension Ethias; tick1099
+bud_peer_pension_lt_2025,city_peer,2025,11373403,,,bbc_jr_realized,src_peer_jr2025,strong,Pension LT voorziening 11.373m HIGH JUMP (was 10.583m); tick1099
+bud_peer_fva_total_2025,city_peer,2025,26786134,,,bbc_jr_realized,src_peer_jr2025,strong,FVA total YE2025 26.786m stable (was 26.693m); tick1099
+bud_peer_fva_igs_2025,city_peer,2025,24909140,,,bbc_jr_realized,src_peer_jr2025,strong,FVA IGS YE2025 24.909m stable (was 24.815m); NO massive reval; tick1099
+bud_peer_herwaard_2025,city_peer,2025,15240,,,bbc_jr_realized,src_peer_jr2025,strong,Herwaarderingsreserves YE2025 0.015m tiny (was 0.005m); tick1099
+bud_peer_leasing_mva_2025,city_peer,2025,1844930,,,bbc_jr_realized,src_peer_jr2025,strong,Leasing MVA YE2025 1.845m (Fluvius light-as-service); tick1099
+bud_peer_expl_ontvangsten_2025,city_peer,2025,32507653,,,bbc_jr_realized,src_peer_jr2025,strong,Exploitatie ontvangsten 32.508m; tick1099
+bud_peer_expl_uitgaven_2025,city_peer,2025,27326788,,,bbc_jr_realized,src_peer_jr2025,strong,Exploitatie uitgaven 27.327m; tick1099
+bud_peer_expl_saldo_2025,city_peer,2025,5180865,,,bbc_jr_realized,src_peer_jr2025,strong,Exploitatiesaldo +5.181m STRONG; tick1099
+bud_peer_afm_2025,city_peer,2025,3456789,,,bbc_jr_realized,src_peer_jr2025,strong,AFM +3.457m STRONG; tick1099
+bud_peer_afm_gecorr_2025,city_peer,2025,3569637,,,bbc_jr_realized,src_peer_jr2025,strong,AFM gecorrigeerd +3.570m STRONG; tick1099
+bud_peer_bbr_2025,city_peer,2025,10108853,,,bbc_jr_realized,src_peer_jr2025,strong,Beschikbaar budgettair resultaat 10.109m HIGH; tick1099
+bud_peer_onbeschikbaar_2025,city_peer,2025,2577727,,,bbc_jr_realized,src_peer_jr2025,strong,Onbeschikbare gelden 2.578m (2nd pillar Ethias mostly); tick1099
+bud_peer_budget_result_2025,city_peer,2025,745935,,,bbc_jr_realized,src_peer_jr2025,strong,Budgettair resultaat boekjaar +0.746m POSITIVE; tick1099
+bud_peer_cum_br_2025,city_peer,2025,12686580,,,bbc_jr_realized,src_peer_jr2025,strong,Gecumuleerd BR 12.687m; tick1099
+bud_peer_pnl_2025,city_peer,2025,340816,,,bbc_jr_realized,src_peer_jr2025,strong,P&L overschot +0.341m; tick1099
+bud_peer_fiscal_2025,city_peer,2025,16880296,,,bbc_jr_realized,src_peer_jr2025,strong,Fiscale opbrengsten 16.880m JUMP (was 14.781m); tick1099
+bud_peer_pb_2025,city_peer,2025,6801868,,,bbc_jr_realized,src_peer_jr2025,strong,Aanvullende PB 6.802m JUMP (was 5.723m; FOD inkohiering catch-up); tick1099
+bud_peer_op_2025,city_peer,2025,6436127,,,bbc_jr_realized,src_peer_jr2025,strong,Onroerende voorheffing opcentiemen 6.436m; tick1099
+bud_peer_other_tax_2025,city_peer,2025,3329272,,,bbc_jr_realized,src_peer_jr2025,strong,Andere belastingen en boetes 3.329m (GAS5 jump FOI residual); tick1099
+bud_peer_personnel_2025,city_peer,2025,12243209,,,bbc_jr_realized,src_peer_jr2025,strong,Personeel 12.243m slight JUMP; tick1099
+bud_peer_toelagen_2025,city_peer,2025,4540247,,,bbc_jr_realized,src_peer_jr2025,strong,Toegestane werkingssubsidies 4.540m FOI; tick1099
+bud_peer_toelagen_police_2025,city_peer,2025,1311703,,,bbc_jr_realized,src_peer_jr2025,strong,Politiezone Kempenland toelage 1.312m (T2; budget not fully drawn); tick1099
+bud_peer_toelagen_igs_2025,city_peer,2025,792759,,,bbc_jr_realized,src_peer_jr2025,strong,IGS werkingssubsidies 0.793m (Limburg.net ~0.789m line); tick1099
+bud_peer_toelagen_fire_2025,city_peer,2025,786054,,,bbc_jr_realized,src_peer_jr2025,strong,Brandweer toelage 0.786m (documentatie; T2 HVZ code 0); tick1099
+bud_peer_toelagen_other_2025,city_peer,2025,2125495,,,bbc_jr_realized,src_peer_jr2025,strong,Andere begunstigden toelagen 2.125m HIGH FOI residual; tick1099
+bud_peer_toelagen_welzijn_2025,city_peer,2025,230289,,,bbc_jr_realized,src_peer_jr2025,strong,Welzijnsverenigingen 0.230m; tick1099
+bud_peer_toelagen_eredienst_2025,city_peer,2025,80001,,,bbc_jr_realized,src_peer_jr2025,strong,Eredienst 0.080m; tick1099
+bud_peer_vitas_2025,city_peer,2025,1479351,,,bbc_jr_realized,src_peer_jr2025,strong,VitaS rustoord tussenkomst 1.479m HIGH JUMP FOI (was 1.046m; 25pct advance); tick1099
+bud_peer_invest_uitgaven_2025,city_peer,2025,6421313,,,bbc_jr_realized,src_peer_jr2025,strong,Investeringsuitgaven 6.421m vs MJP 20.036m MASSIVE UNDERSPEND FOI; tick1099
+bud_peer_invest_ontvangsten_2025,city_peer,2025,1574805,,,bbc_jr_realized,src_peer_jr2025,strong,Investeringsontvangsten 1.575m; tick1099
+bud_peer_invest_saldo_2025,city_peer,2025,-4846508,,,bbc_jr_realized,src_peer_jr2025,strong,Investeringssaldo -4.847m; tick1099
+bud_peer_invest_mjp_2025,city_peer,2025,20035800,,,bbc_jr_realized,src_peer_jr2025,strong,MJP invest uitgaven 20.036m; tick1099
+bud_peer_invest_mva_2025,city_peer,2025,4940158,,,bbc_jr_realized,src_peer_jr2025,strong,MVA aankopen 4.940m; tick1099
+bud_peer_invest_subsidies_granted_2025,city_peer,2025,1374529,,,bbc_jr_realized,src_peer_jr2025,strong,Toegestane investeringssubsidies 1.375m; tick1099
+bud_peer_ocmw_expl_uit_2025,city_peer,2025,4563153,,,bbc_jr_realized,src_peer_jr2025,strong,OCMW expl uitgaven J3 4.563m; tick1099
+bud_peer_ocmw_expl_ont_2025,city_peer,2025,2779173,,,bbc_jr_realized,src_peer_jr2025,strong,OCMW expl ontvangsten J3 2.779m; tick1099
+bud_peer_ocmw_expl_gap_2025,city_peer,2025,1783980,,,bbc_jr_realized,src_peer_jr2025,strong,OCMW expl gap J3 ~1.784m structural FOI residual; tick1099
+bud_peer_ocmw_invest_2025,city_peer,2025,39861,,,bbc_jr_realized,src_peer_jr2025,strong,OCMW invest 0.040m low; tick1099
+bud_peer_ocmw_hulp_2025,city_peer,2025,1555964,,,bbc_jr_realized,src_peer_jr2025,strong,OCMW individuele hulpverlening 1.556m; tick1099
+bud_peer_goederen_2025,city_peer,2025,6657131,,,bbc_jr_realized,src_peer_jr2025,strong,Goederen en diensten 6.657m DROP; tick1099
+bud_peer_afschrijvingen_2025,city_peer,2025,4357115,,,bbc_jr_realized,src_peer_jr2025,strong,Afschrijvingen/voorzieningen 4.357m; tick1099
+bud_peer_fin_exp_2025,city_peer,2025,2184634,,,bbc_jr_realized,src_peer_jr2025,strong,Financiele kosten 2.185m JUMP (VitaS+intrest); tick1099
+bud_peer_responsabilisering_2025,city_peer,2025,585848,,,bbc_jr_realized,src_peer_jr2025,strong,Responsabiliseringsbijdrage 0.586m (VL tussenkomst 0.391m pre-fin 2026); tick1099
+bud_peer_borg_vitas_open_2025,city_peer,2025,42939947,,,bbc_jr_realized,src_peer_jr2025,strong,Borgstellingen VitaS openstaand ~42.940m FOI residual contingent; tick1099
+bud_peer_borg_total_open_2025,city_peer,2025,44151030,,,bbc_jr_realized,src_peer_jr2025,strong,Totale IGS borg open 44.151m (VitaS+Fluvius Inter-Aqua); tick1099
+bud_peer_gas5_jump_note_2025,city_peer,2025,810387,,,bbc_jr_realized,src_peer_jr2025,strong,GAS5 boetes +0.810m vs budget FOI residual note (risk report); tick1099
