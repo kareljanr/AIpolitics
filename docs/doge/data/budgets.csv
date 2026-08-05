@@ -26934,3 +26934,51 @@ bud_ovo_recettes_derden_2025,wv_overo_ronse,2025,1626599,,,bbc_jr_realized,src_o
 bud_ovo_werkingssubsidies_2025,wv_overo_ronse,2025,1818546,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Werkingssubsidies ontvangsten 1.82m 2025 (alg 0.979 + spec 0.840); tick1062
 bud_ovo_goederen_diensten_2025,wv_overo_ronse,2025,23461,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Goederen en diensten 0.023m 2025; tick1062
 bud_ovo_ocmw_cover_2025,wv_overo_ronse,2025,0,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,OCMW tussenkomst in OVERO werking 0 (2021-2025) FOI residual surplus path; tick1062
+bud_beg_assets_2025,city_begijnendijk,2025,58089286,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Assets YE2025 58.09m JUMP (was 47.46m; FVA reval); tick1063
+bud_beg_equity_2025,city_begijnendijk,2025,39207182,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Nettoactief YE2025 39.21m JUMP (was 30.25m); tick1063
+bud_beg_debt_total_2025,city_begijnendijk,2025,18882105,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Total schulden YE2025 18.88m JUMP (was 17.22m); tick1063
+bud_beg_fin_debt_2025,city_begijnendijk,2025,9112708,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Fin debt total YE2025 9.11m JUMP HIGH FOI (was 8.19m T4); tick1063
+bud_beg_fin_debt_lt_2025,city_begijnendijk,2025,8397123,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Fin debt LT YE2025 8.40m JUMP (was 7.54m); tick1063
+bud_beg_fin_debt_st_due_2025,city_begijnendijk,2025,715584,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Fin debt ST due YE2025 0.716m; tick1063
+bud_beg_fin_debt_st_2025,city_begijnendijk,2025,0,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Fin debt ST treasury YE2025 0; tick1063
+bud_beg_new_loans_2025,city_begijnendijk,2025,1605471,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Nieuwe leningen/leasings 1.61m JUMP FOI; tick1063
+bud_beg_aflossingen_2025,city_begijnendijk,2025,659853,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Periodieke aflossingen 0.660m; tick1063
+bud_beg_cash_2025,city_begijnendijk,2025,7620895,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Liquide middelen YE2025 7.62m DROP FOI (was 8.19m); tick1063
+bud_beg_pension_2025,city_begijnendijk,2025,6210383,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.21m JUMP FOI (was 5.70m); tick1063
+bud_beg_cap_subs_2025,city_begijnendijk,2025,3003295,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Kapitaalsubsidies YE2025 3.00m; tick1063
+bud_beg_fva_total_2025,city_begijnendijk,2025,16267797,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,FVA total YE2025 16.27m JUMP (was 8.15m); tick1063
+bud_beg_fva_igs_2025,city_begijnendijk,2025,12312759,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,FVA IGS YE2025 12.31m JUMP reval +8.10m FOI; tick1063
+bud_beg_leasing_mva_2025,city_begijnendijk,2025,0,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Leasing MVA residual in MVA gemeenschap; new loans include leasing 0.105m T2; tick1063
+bud_beg_cumul_budget_2025,city_begijnendijk,2025,8099169,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 8.10m; tick1063
+bud_beg_bbr_2025,city_begijnendijk,2025,7908078,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Beschikbaar budgettair resultaat YE2025 7.91m VERY HIGH FOI; tick1063
+bud_beg_onbeschikbaar_2025,city_begijnendijk,2025,191091,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Onbeschikbare gelden YE2025 0.191m; tick1063
+bud_beg_expl_rec_2025,city_begijnendijk,2025,20080071,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Exploitatieontvangsten 20.08m 2025 (J2); tick1063
+bud_beg_expl_exp_2025,city_begijnendijk,2025,17539582,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Exploitatieuitgaven 17.54m 2025 (J2); tick1063
+bud_beg_expl_saldo_2025,city_begijnendijk,2025,2540490,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Exploitatiesaldo +2.54m STRONG 2025; tick1063
+bud_beg_invest_exp_2025,city_begijnendijk,2025,5017424,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Investeringsuitgaven J2 5.02m vs MJP 3.74m OVERSPEND FOI; tick1063
+bud_beg_invest_rec_2025,city_begijnendijk,2025,968766,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Investeringsontvangsten J2 0.969m; tick1063
+bud_beg_invest_saldo_2025,city_begijnendijk,2025,-4048658,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Investeringssaldo -4.05m 2025; tick1063
+bud_beg_fin_saldo_2025,city_begijnendijk,2025,975988,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Financieringssaldo +0.976m 2025; tick1063
+bud_beg_budget_result_2025,city_begijnendijk,2025,-532180,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Budgettair resultaat boekjaar -0.532m NEG FOI 2025; tick1063
+bud_beg_afm_2025,city_begijnendijk,2025,1914507,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Autofinancieringsmarge +1.91m STRONG 2025; tick1063
+bud_beg_afm_gecorr_2025,city_begijnendijk,2025,1918907,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Gecorrigeerde AFM +1.92m 2025; tick1063
+bud_beg_pl_2025,city_begijnendijk,2025,329168,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,P&L overschot +0.329m 2025; tick1063
+bud_beg_personnel_2025,city_begijnendijk,2025,10686837,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Bezoldigingen 10.69m JUMP 2025 (was 10.42m; onderwijs other 3.43m); tick1063
+bud_beg_personnel_onderwijs_other_2025,city_begijnendijk,2025,3429375,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Onderwijzend personeel ten laste van andere 3.43m 2025; tick1063
+bud_beg_toelagen_2025,city_begijnendijk,2025,1989569,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toegestane werkingssubsidies 1.99m JUMP FOI 2025; tick1063
+bud_beg_toelagen_police_2025,city_begijnendijk,2025,1292136,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toelage politiezone 1.29m JUMP FOI (was 1.02m); tick1063
+bud_beg_toelagen_fire_2025,city_begijnendijk,2025,464586,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toelage hulpverleningszone 0.465m 2025; tick1063
+bud_beg_toelagen_agb_2025,city_begijnendijk,2025,60035,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toelage AGB 0.060m 2025; tick1063
+bud_beg_toelagen_igs_2025,city_begijnendijk,2025,11475,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toelage IGS 0.011m 2025; tick1063
+bud_beg_toelagen_other_2025,city_begijnendijk,2025,161336,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toelagen andere 0.161m FOI 2025; tick1063
+bud_beg_ocmw_aid_2025,city_begijnendijk,2025,529628,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Individuele hulpverlening OCMW 0.530m 2025; tick1063
+bud_beg_ocmw_gap_2025,city_begijnendijk,2025,1497553,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,OCMW structural gap expl 3.05-1.55=1.50m HIGH FOI; tick1063
+bud_beg_ocmw_cover_2025,city_begijnendijk,2025,1405887,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Tussenkomst gemeente in OCMW 1.41m FULL-ish FOI; tick1063
+bud_beg_fiscal_2025,city_begijnendijk,2025,9865990,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Fiscale opbrengsten en boetes 9.87m 2025; tick1063
+bud_beg_fiscal_ov_2025,city_begijnendijk,2025,2701424,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Opcentiemen OV 2.70m 2025; tick1063
+bud_beg_fiscal_pb_2025,city_begijnendijk,2025,5956397,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Aanvullende PB 5.96m 2025; tick1063
+bud_beg_gemeentefonds_2025,city_begijnendijk,2025,2474166,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Gemeentefonds 2.47m 2025; tick1063
+bud_beg_interest_2025,city_begijnendijk,2025,276041,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Rente leningen 0.276m 2025; tick1063
+bud_beg_invest_subs_granted_2025,city_begijnendijk,2025,105630,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toegestane invest-subs 0.106m 2025; tick1063
+bud_beg_vorderingen_kt_2025,city_begijnendijk,2025,3170105,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Vorderingen KT YE2025 3.17m; tick1063
+bud_beg_herwaard_reserves_2025,city_begijnendijk,2025,8564599,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Herwaarderingsreserves YE2025 8.56m JUMP (+8.10m FVA IGS); tick1063

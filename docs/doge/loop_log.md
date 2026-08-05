@@ -14199,3 +14199,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1063** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1063 - 2026-08-10T20:45:00Z
+
+- Unit: **rq_1063** (FOI-adjacent residual dual - **Lokaal Bestuur Begijnendijk Jaarrekening 2025** + OVERO Ronse dual residual)
+- Found (strong primary BBC JR2025 PDF via RMW uittreksel; RMW 18.06.2026 pub 23.06.2026; KBO GE 0207.516.058 / OCMW 0212.238.869; Kerkplein 5 3130; AD Peggy Baeten FD Didier Dascotte BM Bob Michiels; GE+OCMW):
+  - Assets **EUR58.09m JUMP** / equity **EUR39.21m JUMP** / debt total **EUR18.88m JUMP** / fin debt **EUR9.11m JUMP HIGH FOI** (LT **EUR8.40m** / ST due **EUR0.716m**; was **EUR8.19m**)
+  - New loans **EUR1.61m JUMP FOI** / repayments **EUR0.660m**
+  - Cash **EUR7.62m DROP FOI** (was **EUR8.19m**) / pension **EUR6.21m JUMP FOI** (was **EUR5.70m**) / FVA IGS **EUR12.31m JUMP** reval **+EUR8.10m**
+  - Exploitatie: ontvangsten **EUR20.08m** / uitgaven **EUR17.54m** / saldo **+EUR2.54m STRONG**
+  - AFM **+EUR1.91m STRONG** (gecorr **+EUR1.92m**) / BBR **EUR7.91m VERY HIGH FOI** / budget **EUR-0.532m NEG FOI** / cum BR **EUR8.10m** / P&L **+EUR0.329m**
+  - Personnel **EUR10.69m JUMP** / toelagen **EUR1.99m FOI** (police **EUR1.29m JUMP** / fire **EUR0.465m** / AGB **EUR0.060m** / other **EUR0.161m**)
+  - Invest **EUR5.02m** vs MJP **EUR3.74m OVERSPEND FOI**
+  - **OCMW structural gap EUR1.50m** / **cover EUR1.41m FULL-ish FOI**
+- Dual: OVERO Ronse equity **EUR-16.62m NEG** / pension **EUR14.79m** / AFM **EUR-0.383m** (tick1062) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Grimbergen / Ronse city residual next; progress@1070
+- Wrote: budgets +48 (bud_beg_*); commitments +7; leaderboard +8; sources +1; entity city_begijnendijk; FOI **gap_beg_bbr_budget_ocmw_police_loans_l5** prio9 ready + draft; PDF primary (not committed); rq_1063=done; spawn **rq_1064**; ticks=1063
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1064** residual dual L5; deferred **rq_116**; progress@1070
+
