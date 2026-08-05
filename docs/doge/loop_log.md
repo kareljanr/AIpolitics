@@ -14644,3 +14644,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1086** residual dual L5; deferred **rq_116**; progress@1090 in 4
 
+
+
+### Tick 1086 - 2026-08-11T08:30:00Z
+
+- Unit: **rq_1086** (FOI-adjacent residual dual - **Lokaal Bestuur Glabbeek Jaarrekening 2025** + Kortenberg dual residual)
+- Found (strong primary BBC JR2025 PDF; 99p; glabbeek.be; KBO GE 0207.518.335 / OCMW 0212.214.521; Grotestraat 33 3380; AD Wauters Kristine FD Wuestenberghs Nancy; GE+OCMW + AGB dual):
+  - Assets **EUR51.598m** / equity **EUR32.184m** / debt total **EUR19.41m JUMP** / fin debt **EUR14.772m HIGH JUMP** (LT **EUR11.949m** / ST due **EUR2.823m MASSIVE BALLOON**)
+  - New loans **EUR2.310m FOI** / repayments **EUR0.787m**
+  - Cash **EUR3.026m JUMP** (was **EUR2.020m**) / pension **EUR1.895m stable** / FVA IGS **EUR9.621m MASSIVE JUMP FOI** (Fluvius Eek herwaard **EUR5.641m**) / leasing MVA **EUR0.852m** / AGB loan LT **EUR1.510m**
+  - Exploitatie: ontvangsten **EUR12.539m** / uitgaven **EUR11.498m** / saldo **+EUR1.041m STRONG**
+  - AFM **+EUR0.319m** (gecorr **+EUR0.047m LOW**) / BBR **EUR2.818m** / budget **+EUR1.194m POSITIVE** / cum BR **EUR3.569m** / P&L **+EUR0.421m DROP**
+  - Personnel **EUR6.809m JUMP +12%** / toelagen **EUR1.110m FOI** (police **EUR0.510m JUMP** / fire **EUR0.370m** / other **EUR0.200m**)
+  - Invest **EUR2.758m** vs MJP **EUR3.515m UNDERSPEND** / saldo **-EUR1.235m**
+  - OCMW cover **EUR0 ZERO principle FOI**
+  - Dual AGB: consol corrected AFM **EUR-0.169m NEG FOI**
+- Dual: Kortenberg cash DROP / budget NEG invest-driven (tick1085) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse / Hoegaarden residual next; progress@1090 in 3
+- Wrote: budgets +48 (bud_gla_*); commitments +7; leaderboard +8; sources +1; entity city_glabbeek; FOI **gap_gla_st_debt_fva_agb_loans_l5** prio9 ready + draft; PDF primary (not committed); rq_1086=done; spawn **rq_1087**; ticks=1086
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1087** residual dual L5; deferred **rq_116**; progress@1090 in 3

@@ -28074,3 +28074,51 @@ bud_kor_fiscal_pb_2025,city_kortenberg,2025,13587800,,,bbc_jr_realized,src_korte
 bud_kor_gemeentefonds_2025,city_kortenberg,2025,4430533,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Gemeentefonds 4.431m; tick1085
 bud_kor_interest_2025,city_kortenberg,2025,47664,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Intresten op leningen 0.048m LOW; tick1085
 bud_kor_goederen_2025,city_kortenberg,2025,10404670,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Goederen en diensten 10.405m; tick1085
+bud_gla_assets_2025,city_glabbeek,2025,51597776,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Assets YE2025 51.598m (was 43.892m JUMP + herwaard); tick1086
+bud_gla_equity_2025,city_glabbeek,2025,32183858,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Nettoactief YE2025 32.184m JUMP (was 26.194m; herwaard 5.641m); tick1086
+bud_gla_debt_total_2025,city_glabbeek,2025,19413917,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Total schulden YE2025 19.414m JUMP (was 17.698m); tick1086
+bud_gla_fin_debt_2025,city_glabbeek,2025,14772108,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Fin debt total YE2025 14.772m HIGH JUMP (was 13.249m); tick1086
+bud_gla_fin_debt_lt_2025,city_glabbeek,2025,11949000,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Fin debt LT YE2025 11.949m slight DROP (was 12.515m); tick1086
+bud_gla_fin_debt_st_due_2025,city_glabbeek,2025,2823108,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Fin debt ST due YE2025 2.823m MASSIVE BALLOON FOI (was 0.734m); tick1086
+bud_gla_new_loans_2025,city_glabbeek,2025,2310346,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Nieuwe leningen 2025 2.310m FOI; tick1086
+bud_gla_aflossingen_2025,city_glabbeek,2025,787399,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Periodieke aflossingen 2025 0.787m; tick1086
+bud_gla_cash_2025,city_glabbeek,2025,3026406,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Liquide middelen YE2025 3.026m JUMP (was 2.020m); tick1086
+bud_gla_pension_2025,city_glabbeek,2025,1894814,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.895m stable (was 1.873m); tick1086
+bud_gla_cap_subs_2025,city_glabbeek,2025,4136446,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Kapitaalsubsidies YE2025 4.136m; tick1086
+bud_gla_fva_total_2025,city_glabbeek,2025,9704006,,,bbc_jr_realized,src_glabbeek_jr2025,strong,FVA total YE2025 9.704m MASSIVE JUMP FOI (was 4.514m); tick1086
+bud_gla_fva_igs_2025,city_glabbeek,2025,9621057,,,bbc_jr_realized,src_glabbeek_jr2025,strong,FVA IGS YE2025 9.621m MASSIVE JUMP Fluvius herwaard FOI; tick1086
+bud_gla_fva_herwaard_2025,city_glabbeek,2025,5641262,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Herwaarderingsreserves YE2025 5.641m Fluvius Eek FOI; tick1086
+bud_gla_leasing_mva_2025,city_glabbeek,2025,851650,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Leasing MVA YE2025 0.852m JUMP (was 0.580m); tick1086
+bud_gla_agb_loan_lt_2025,city_glabbeek,2025,1509734,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Toegestane lening AGB LT YE2025 1.510m FOI; tick1086
+bud_gla_expl_rec_2025,city_glabbeek,2025,12538920,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Exploitatieontvangsten 12.539m; tick1086
+bud_gla_expl_exp_2025,city_glabbeek,2025,11497684,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Exploitatieuitgaven 11.498m; tick1086
+bud_gla_expl_saldo_2025,city_glabbeek,2025,1041236,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Exploitatiesaldo +1.041m STRONG; tick1086
+bud_gla_invest_exp_2025,city_glabbeek,2025,2758212,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Investeringsuitgaven 2.758m vs MJP 3.515m UNDERSPEND FOI; tick1086
+bud_gla_invest_rec_2025,city_glabbeek,2025,1523133,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Investeringsontvangsten 1.523m; tick1086
+bud_gla_invest_saldo_2025,city_glabbeek,2025,-1235078,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Investeringssaldo -1.235m FOI; tick1086
+bud_gla_mjp_invest_planned_2025,city_glabbeek,2025,3515143,,,bbc_jr_realized,src_glabbeek_jr2025,strong,MJP invest planned 3.515m vs realized 2.758m UNDERSPEND FOI; tick1086
+bud_gla_invest_mva_2025,city_glabbeek,2025,2758212,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Investeringen gross invest exp 2.758m; tick1086
+bud_gla_afm_2025,city_glabbeek,2025,319086,,,bbc_jr_realized,src_glabbeek_jr2025,strong,AFM +0.319m POSITIVE thin FOI; tick1086
+bud_gla_afm_corrected_2025,city_glabbeek,2025,46552,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Gecorrigeerde AFM +0.047m LOW FOI; tick1086
+bud_gla_bbr_2025,city_glabbeek,2025,2818086,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Beschikbaar budgettair resultaat 2.818m (onbeschikbaar 0.751m); tick1086
+bud_gla_budget_result_2025,city_glabbeek,2025,1194353,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Budgettair resultaat boekjaar +1.194m POSITIVE; tick1086
+bud_gla_cum_budget_2025,city_glabbeek,2025,3569279,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Gecumuleerd budgettair resultaat 3.569m; tick1086
+bud_gla_pnl_2025,city_glabbeek,2025,420874,,,bbc_jr_realized,src_glabbeek_jr2025,strong,P&L overschot +0.421m DROP FOI (was +0.922m); tick1086
+bud_gla_personnel_2025,city_glabbeek,2025,6808998,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Bezoldigingen 6.809m JUMP +12% FOI; tick1086
+bud_gla_goods_services_2025,city_glabbeek,2025,2888490,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Goederen en diensten 2.888m; tick1086
+bud_gla_toelagen_2025,city_glabbeek,2025,1110329,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Toegestane werkingssubsidies 1.110m JUMP FOI; tick1086
+bud_gla_police_toelage_2025,city_glabbeek,2025,510232,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Politiezone toelage 0.510m JUMP FOI (was 0.430m); tick1086
+bud_gla_fire_toelage_2025,city_glabbeek,2025,369967,,,bbc_jr_realized,src_glabbeek_jr2025,strong,HVZ toelage 0.370m JUMP; tick1086
+bud_gla_other_toelagen_2025,city_glabbeek,2025,200130,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Andere toelagen 0.200m; tick1086
+bud_gla_eredienst_toelage_2025,city_glabbeek,2025,30000,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Eredienst toelage 0.030m; tick1086
+bud_gla_agb_afm_2025,city_glabbeek,2025,-77475,,,bbc_jr_realized,src_glabbeek_jr2025,strong,AGB AFM -0.077m NEG FOI; tick1086
+bud_gla_agb_afm_corrected_2025,city_glabbeek,2025,-215092,,,bbc_jr_realized,src_glabbeek_jr2025,strong,AGB gecorr AFM -0.215m NEG FOI; tick1086
+bud_gla_consol_afm_corrected_2025,city_glabbeek,2025,-168540,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Consol gecorr AFM -0.169m NEG AGB-drag FOI; tick1086
+bud_gla_fiscal_rec_2025,city_glabbeek,2025,5781504,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Fiscale ontvangsten 5.782m; tick1086
+bud_gla_werkingssubsidies_rec_2025,city_glabbeek,2025,5779223,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Werkingssubsidies ontvangsten 5.779m; tick1086
+bud_gla_ocmw_cover_2025,city_glabbeek,2025,0,,,bbc_jr_realized,src_glabbeek_jr2025,strong,OCMW tussenkomst residual 0 ZERO principle FOI; tick1086
+bud_gla_ocmw_hulp_2025,city_glabbeek,2025,265036,,,bbc_jr_realized,src_glabbeek_jr2025,strong,OCMW individuele hulpverlening 0.265m; tick1086
+bud_gla_fin_exp_2025,city_glabbeek,2025,395348,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Financiële uitgaven 0.395m JUMP; tick1086
+bud_gla_vorderingen_st_2025,city_glabbeek,2025,2731955,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Vorderingen KT 2.732m; tick1086
+bud_gla_onbeschikbaar_2025,city_glabbeek,2025,751192,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Onbeschikbare gelden 0.751m; tick1086
+bud_gla_financieringssaldo_2025,city_glabbeek,2025,1388195,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Financieringssaldo +1.388m (new loans heavy); tick1086
