@@ -21116,3 +21116,50 @@ bud_aag_pnl_result_2025,agb_ardooie,2025,48699,,,jaarrekening_realized,src_ardoo
 bud_aag_goederen_2025,agb_ardooie,2025,256661,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Goederen en diensten 0.257m; tick937
 bud_aag_werking_rec_2025,agb_ardooie,2025,403853,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Ontvangsten uit de werking 0.404m (prijssubsidie embedded FOI); tick937
 bud_aag_city_toelage_dual_2025,agb_ardooie,2025,190689,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Dual city Ardooie AGB toelage 0.191m (AGB books 0 werkingsubsidies; prijssubsidiefactor 10.2 FOI recon GR 23.12.2024); tick937
+bud_aff_assets_2025,city_affligem,2025,47453010,,,jaarrekening_realized,src_affligem_jr2025,strong,Total assets YE2025 47.5m; tick938
+bud_aff_equity_2025,city_affligem,2025,26318749,,,jaarrekening_realized,src_affligem_jr2025,strong,Nettoactief YE2025 26.3m; tick938
+bud_aff_debt_total_2025,city_affligem,2025,21134261,,,jaarrekening_realized,src_affligem_jr2025,strong,Total schulden YE2025 21.1m; tick938
+bud_aff_fin_debt_2025,city_affligem,2025,8376112,,,jaarrekening_realized,src_affligem_jr2025,strong,T4 total financiele schulden YE2025 8.38m DECLINING (LT 7.47 + ST due 0.90); tick938
+bud_aff_fin_debt_lt_2025,city_affligem,2025,7474816,,,jaarrekening_realized,src_affligem_jr2025,strong,Financiele schulden LT YE2025 7.47m; tick938
+bud_aff_fin_debt_st_due_2025,city_affligem,2025,901296,,,jaarrekening_realized,src_affligem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.90m; tick938
+bud_aff_fin_debt_2024,city_affligem,2025,9064560,,,jaarrekening_realized,src_affligem_jr2025,strong,T4 fin debt YE2024 9.06m comparator; tick938
+bud_aff_pension_prov_2025,city_affligem,2025,9933003,,,jaarrekening_realized,src_affligem_jr2025,strong,Pensioenvoorzieningen YE2025 9.93m HIGH RISING FOI; tick938
+bud_aff_cash_2025,city_affligem,2025,3720842,,,jaarrekening_realized,src_affligem_jr2025,strong,Liquide middelen YE2025 3.72m (was 5.32m DROP FOI); tick938
+bud_aff_cash_2024,city_affligem,2025,5317708,,,jaarrekening_realized,src_affligem_jr2025,strong,Liquide middelen YE2024 5.32m; tick938
+bud_aff_cap_subs_2025,city_affligem,2025,2335990,,,jaarrekening_realized,src_affligem_jr2025,strong,Kapitaalssubsidies YE2025 2.34m; tick938
+bud_aff_fva_total_2025,city_affligem,2025,10241823,,,jaarrekening_realized,src_affligem_jr2025,strong,Financiele vaste activa YE2025 10.2m; tick938
+bud_aff_fva_igs_2025,city_affligem,2025,10152889,,,jaarrekening_realized,src_affligem_jr2025,strong,FVA IGS YE2025 10.2m; tick938
+bud_aff_mva_2025,city_affligem,2025,29829722,,,jaarrekening_realized,src_affligem_jr2025,strong,Materiele vaste activa YE2025 29.8m; tick938
+bud_aff_onbeschikbaar_2025,city_affligem,2025,2341694,,,jaarrekening_realized,src_affligem_jr2025,strong,Onbeschikbare gelden 2.34m FOI large vs BBR; tick938
+bud_aff_cum_deficit_equity_2025,city_affligem,2025,5395792,,,jaarrekening_realized,src_affligem_jr2025,strong,Gecumuleerd tekort equity absolute 5.40m FOI (negative stock); tick938
+bud_aff_expl_rec_2025,city_affligem,2025,19083567,,,jaarrekening_realized,src_affligem_jr2025,strong,Exploitatieontvangsten 19.1m; tick938
+bud_aff_expl_exp_2025,city_affligem,2025,16935523,,,jaarrekening_realized,src_affligem_jr2025,strong,Exploitatieuitgaven 16.9m; tick938
+bud_aff_expl_saldo_2025,city_affligem,2025,2148044,,,jaarrekening_realized,src_affligem_jr2025,strong,Exploitatiesaldo +2.15m; tick938
+bud_aff_invest_exp_2025,city_affligem,2025,2424087,,,jaarrekening_realized,src_affligem_jr2025,strong,Investeringsuitgaven 2.42m (MJP planned 3.24m FOI); tick938
+bud_aff_invest_rec_2025,city_affligem,2025,67854,,,jaarrekening_realized,src_affligem_jr2025,strong,Investeringsontvangsten 0.068m; tick938
+bud_aff_invest_saldo_2025,city_affligem,2025,-2356233,,,jaarrekening_realized,src_affligem_jr2025,strong,Investeringssaldo -2.36m; tick938
+bud_aff_fin_rec_2025,city_affligem,2025,230082,,,jaarrekening_realized,src_affligem_jr2025,strong,Financieringsontvangsten 0.23m; tick938
+bud_aff_fin_exp_2025,city_affligem,2025,892287,,,jaarrekening_realized,src_affligem_jr2025,strong,Financieringsuitgaven / aflossingen 0.89m; tick938
+bud_aff_new_loans_2025,city_affligem,2025,203839,,,jaarrekening_realized,src_affligem_jr2025,strong,Nieuwe leningen 0.204m lease/other only (no bank 2025; MJP bank FOI); tick938
+bud_aff_aflossingen_2025,city_affligem,2025,892287,,,jaarrekening_realized,src_affligem_jr2025,strong,Periodieke aflossingen 0.89m; tick938
+bud_aff_afm_2025,city_affligem,2025,1282001,,,jaarrekening_realized,src_affligem_jr2025,strong,AFM +1.28m; tick938
+bud_aff_afm_corr_2025,city_affligem,2025,1449123,,,jaarrekening_realized,src_affligem_jr2025,strong,Gecorrigeerde AFM +1.45m; tick938
+bud_aff_bbr_2025,city_affligem,2025,3149383,,,jaarrekening_realized,src_affligem_jr2025,strong,Beschikbaar budgettair resultaat 3.15m; tick938
+bud_aff_budget_result_2025,city_affligem,2025,-870394,,,jaarrekening_realized,src_affligem_jr2025,strong,Budgettair resultaat boekjaar -0.87m FOI; tick938
+bud_aff_cum_br_2025,city_affligem,2025,5491077,,,jaarrekening_realized,src_affligem_jr2025,strong,Gecumuleerd budgettair resultaat 5.49m; tick938
+bud_aff_pnl_result_2025,city_affligem,2025,-950571,,,jaarrekening_realized,src_affligem_jr2025,strong,P&L boekjaar -0.95m FOI; tick938
+bud_aff_personnel_2025,city_affligem,2025,8156881,,,jaarrekening_realized,src_affligem_jr2025,strong,Personeelskosten 8.16m; tick938
+bud_aff_toelagen_2025,city_affligem,2025,2973930,,,jaarrekening_realized,src_affligem_jr2025,strong,Toegestane werkingssubsidies 2.97m; tick938
+bud_aff_police_toelage_2025,city_affligem,2025,1879568,,,jaarrekening_realized,src_affligem_jr2025,strong,Toelage politiezone 1.88m; tick938
+bud_aff_hvz_toelage_2025,city_affligem,2025,699586,,,jaarrekening_realized,src_affligem_jr2025,strong,Toelage hulpverleningszone 0.70m; tick938
+bud_aff_igs_toelage_2025,city_affligem,2025,65424,,,jaarrekening_realized,src_affligem_jr2025,strong,Toelage IGS 0.065m FOI; tick938
+bud_aff_toelagen_other_2025,city_affligem,2025,277311,,,jaarrekening_realized,src_affligem_jr2025,strong,Toelagen andere begunstigden 0.28m FOI >=50k; tick938
+bud_aff_invest_subs_granted_2025,city_affligem,2025,437667,,,jaarrekening_realized,src_affligem_jr2025,strong,Toegestane investeringssubsidies 0.44m; tick938
+bud_aff_invest_subs_other_2025,city_affligem,2025,272753,,,jaarrekening_realized,src_affligem_jr2025,strong,Invest-subs andere begunstigden 0.273m FOI annual stack; tick938
+bud_aff_ocmw_aid_2025,city_affligem,2025,702155,,,jaarrekening_realized,src_affligem_jr2025,strong,Individuele hulpverlening OCMW 0.70m; tick938
+bud_aff_fiscal_2025,city_affligem,2025,11820432,,,jaarrekening_realized,src_affligem_jr2025,strong,Fiscale opbrengsten 11.8m; tick938
+bud_aff_gemeentefonds_2025,city_affligem,2025,2972248,,,jaarrekening_realized,src_affligem_jr2025,strong,Gemeentefonds 2.97m; tick938
+bud_aff_fin_costs_2025,city_affligem,2025,360107,,,jaarrekening_realized,src_affligem_jr2025,strong,Financiele kosten 0.36m; tick938
+bud_aff_goederen_2025,city_affligem,2025,4547571,,,jaarrekening_realized,src_affligem_jr2025,strong,Goederen en diensten 4.55m; tick938
+bud_aff_mjp_invest_planned_2025,city_affligem,2025,3236319,,,jaarrekening_realized,src_affligem_jr2025,strong,MJP planned invest 3.24m vs realized 2.42m FOI; tick938
+bud_aff_mjp_bank_planned_2025,city_affligem,2025,10000000,,,jaarrekening_realized,src_affligem_jr2025,strong,MJP planned bank draws multi-year residual FOI (0 drawn 2025); tick938

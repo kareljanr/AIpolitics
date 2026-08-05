@@ -1,0 +1,43 @@
+Affligem Gemeente+OCMW Jaarrekening 2025 (BBC 141p)
+PDF: https://www.affligem.be/sites/default/files/2026-06/Jaarrekening-2025_definitief_0.pdf
+Portal: https://www.affligem.be/bestuur-en-diensten/jaarrekening
+KBO gemeente 0207.509.031 / OCMW 0231.884.636
+Goedgekeurd 16.06.2026; publicatie definitief 26.06.2026
+Tick 938
+
+BALANCE J4 YE2025 / YE2024
+assets              47453010 / 48178030
+equity              26318749 / 27322386
+debt total          21134261 / 20855643
+fin debt total      8376112 / 9064560  DECLINING (LT 7474816 + ST due 901296)
+cash                3720842 / 5317708  DROP FOI
+pension             9933003 / 9132173  HIGH RISING
+FVA                 10241823 (IGS 10152889)
+MVA                 29829722
+cap subs            2335990
+onbeschikbaar       2341694 FOI large
+cum overschot/tekort -5395792 / -4445221  DEFICIT FOI
+
+J2 2025
+expl rec/exp/saldo  19083567 / 16935523 / +2148044
+invest exp/rec/saldo 2424087 / 67854 / -2356233
+fin rec/exp/saldo   230082 / 892287 / -662205
+budget result       -870394 FOI
+BBR                 3149383
+AFM                 +1282001
+AFM corr            +1449123
+new loans           203839 (lease/other only; bank 0; MJP planned bank FOI)
+aflossingen         892287
+
+J5/T2
+personnel           8156881
+toelagen            2973930 (police 1879568 / HVZ 699586 / IGS 65424 / other 277311 FOI / welzijn 33289 / ered 18752)
+invest-subs granted 437667 (police 81865 / HVZ 49239 / ered 33809 / other 272753 FOI)
+fiscal              11820432
+gemeentefonds       2972248
+P&L                 -950571 FOI
+goederen            4547571
+fin costs           360107
+VL invest-subs rec  27672
+
+Dual residual tick937: AGB Ardooie assets 2.97m fin debt 2.02m corr AFM -0.068m dividend 0.049m

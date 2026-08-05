@@ -11838,3 +11838,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +25 (bud_aag_*); commitments +4; leaderboard +7; sources +2; entity agb_ardooie; FOI **gap_aag_debt_dividend_prijssubsidie_l5** prio8 ready + draft; raw PDF + key; rq_937=done; spawn **rq_938**; ticks=937
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_938** residual dual L5 (Roeselare / Wingene / Affligem / other unmined VL JR2025); deferred **rq_116**; progress@940 in 3
+
+### Tick 938 - 2026-08-07T17:45:00Z
+
+- Unit: **rq_938** (FOI-adjacent residual dual - **Gemeente+OCMW Affligem Jaarrekening 2025** + AGB Ardooie dual)
+- Found (strong primary BBC JR2025 141p; GR 16.06.2026):
+  - Assets **EUR47.5m** / equity **EUR26.3m** / debt total **EUR21.1m** / fin debt **EUR8.38m** (**DECLINING** from **EUR9.06m**; LT **EUR7.47m** / ST due **EUR0.90m**)
+  - New loans **EUR0.20m** lease only (**no bank 2025**) / repayments **EUR0.89m**
+  - **Cash EUR3.72m was EUR5.32m DROP FOI** / **pension EUR9.93m RISING FOI** / **onbeschikbaar EUR2.34m FOI**
+  - **Cum equity deficit EUR5.40m FOI**
+  - Exploitatie: ontvangsten **EUR19.1m** / uitgaven **EUR16.9m** / saldo **+EUR2.15m**
+  - AFM **+EUR1.28m** (gecorr **+EUR1.45m**) / BBR **EUR3.15m** / budget **-EUR0.87m FOI** / P&L **-EUR0.95m FOI**
+  - Personnel **EUR8.16m** / toelagen **EUR2.97m** (police **EUR1.88m** / HVZ **EUR0.70m** / other **EUR0.28m FOI**)
+  - Invest **EUR2.42m** / invest-subs other **EUR0.273m FOI** annual / fiscal **EUR11.8m**
+- Dual: AGB Ardooie **EUR2.97m** / fin debt **EUR2.02m** / **corr AFM -EUR0.068m** / dividend **EUR0.049m** (tick937) - not TE-additive
+- Wrote: budgets +47 (bud_aff_*); commitments +4; leaderboard +7; sources +2; entity city_affligem; FOI **gap_aff_pension_cash_deficit_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_938=done; spawn **rq_939**; ticks=938
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_939** residual dual L5 (Roeselare / Wingene / Deinze / other unmined VL JR2025); deferred **rq_116**; progress@940 in 2
