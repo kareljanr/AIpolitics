@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T10:15:00Z,rq_923,923,no,tick923 Putte JR2025 dual Diksmuide; FOI gap_put_loans_agb_igs_l5 prio8 bank loans 3.5m AGB flows invest-subs IGS cash recover AFM +2.64m; next residual dual L5 rq_924; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T10:45:00Z,rq_924,924,no,tick924 Merelbeke-Melle JR2025 dual Putte; FOI gap_mm_toelagen_pension_agb_l5 prio8 toelagen 12.9m pension 35.6m AGB loans cash 29.7m AFM +7.04m; next residual dual L5 rq_925; rq_116 deferred

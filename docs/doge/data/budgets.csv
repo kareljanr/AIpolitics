@@ -20543,3 +20543,55 @@ bud_put_invest_mva_2025,city_putte,2025,4919469,,,jaarrekening_realized,src_putt
 bud_put_mjp_new_loans_bank_2026,city_putte,2025,1300000,,,jaarrekening_realized,src_putte_jr2025,strong,MJP new bank loans 2026 1.300m FOI; tick923
 bud_put_mjp_fin_debt_2026,city_putte,2025,18884547,,,jaarrekening_realized,src_putte_jr2025,strong,MJP projected fin debt YE2026 18.885m; tick923
 bud_put_agb_prive_bbr_2025,city_putte,2025,49841,,,jaarrekening_realized,src_putte_jr2025,strong,AGB Prive Domein BBR YE2025 0.050m (consol evenwicht); tick923
+bud_mm_assets_2025,city_merelbeke_melle,2025,260423158,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Consol gemeente+OCMW total assets YE2025 260.423m first fusion year; tick924
+bud_mm_equity_2025,city_merelbeke_melle,2025,178169253,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Nettoactief YE2025 178.169m; tick924
+bud_mm_debt_total_2025,city_merelbeke_melle,2025,82253905,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Total schulden YE2025 82.254m; tick924
+bud_mm_fin_debt_2025,city_merelbeke_melle,2025,33199765,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,T3 total financiele schulden YE2025 33.200m; tick924
+bud_mm_fin_debt_lt_2025,city_merelbeke_melle,2025,27821546,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Financiele schulden LT YE2025 27.822m; tick924
+bud_mm_fin_debt_st_due_2025,city_merelbeke_melle,2025,5361025,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 5.361m; tick924
+bud_mm_fin_debt_st_2025,city_merelbeke_melle,2025,17194,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Financiele schulden ST YE2025 0.017m; tick924
+bud_mm_pension_prov_2025,city_merelbeke_melle,2025,35622271,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Pensioenvoorzieningen LT YE2025 35.622m FOI (incl responsabilisering); tick924
+bud_mm_cash_2025,city_merelbeke_melle,2025,29727412,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Liquide middelen YE2025 29.727m; tick924
+bud_mm_cap_subs_2025,city_merelbeke_melle,2025,47271906,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Kapitaalsubsidies YE2025 47.272m; tick924
+bud_mm_fva_total_2025,city_merelbeke_melle,2025,57596281,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Financiele vaste activa YE2025 57.596m; tick924
+bud_mm_fva_igs_2025,city_merelbeke_melle,2025,29147744,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Fin VA IGS YE2025 29.148m; tick924
+bud_mm_fva_welzijn_2025,city_merelbeke_melle,2025,28223669,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Fin VA Zorgband/welzijn YE2025 28.224m; tick924
+bud_mm_fva_agb_2025,city_merelbeke_melle,2025,25000,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Fin VA AGB kapitaalinbreng YE2025 0.025m; tick924
+bud_mm_mva_2025,city_merelbeke_melle,2025,140988834,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Materiele vaste activa YE2025 140.989m; tick924
+bud_mm_lt_receivables_2025,city_merelbeke_melle,2025,20087446,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Vorderingen LT YE2025 20.087m (AGB renteloze leningen narrative); tick924
+bud_mm_onbeschikbaar_2025,city_merelbeke_melle,2025,6239664,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Onbeschikbare gelden J2 6.240m FOI; tick924
+bud_mm_expl_rec_2025,city_merelbeke_melle,2025,74549586,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Exploitatieontvangsten 74.550m; tick924
+bud_mm_expl_exp_2025,city_merelbeke_melle,2025,62106558,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Exploitatieuitgaven 62.107m; tick924
+bud_mm_expl_saldo_2025,city_merelbeke_melle,2025,12443028,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Exploitatiesaldo +12.443m; tick924
+bud_mm_invest_exp_2025,city_merelbeke_melle,2025,5746887,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Investeringsuitgaven J2 5.747m (MJP planned 23.6m underspend); tick924
+bud_mm_invest_rec_2025,city_merelbeke_melle,2025,522843,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Investeringsontvangsten J2 0.523m; tick924
+bud_mm_invest_saldo_2025,city_merelbeke_melle,2025,-5224044,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Investeringssaldo -5.224m; tick924
+bud_mm_fin_rec_2025,city_merelbeke_melle,2025,1629461,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Financieringsontvangsten 1.629m; tick924
+bud_mm_fin_exp_2025,city_merelbeke_melle,2025,9565670,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Financieringsuitgaven 9.566m; tick924
+bud_mm_new_loans_2025,city_merelbeke_melle,2025,318357,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Aangaan fin schulden leasing only 0.318m (no bank draw); tick924
+bud_mm_aflossingen_2025,city_merelbeke_melle,2025,6627845,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Periodieke aflossingen 6.628m; tick924
+bud_mm_early_repay_2025,city_merelbeke_melle,2025,1619846,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Niet-periodieke aflossingen 1.620m FOI; tick924
+bud_mm_agb_loans_granted_2025,city_merelbeke_melle,2025,1227960,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toegestane leningen AGB 1.228m FOI; tick924
+bud_mm_agb_loans_recover_2025,city_merelbeke_melle,2025,1221084,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Periodieke terugvordering leningen 1.221m; tick924
+bud_mm_afm_2025,city_merelbeke_melle,2025,7036268,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,AFM +7.036m (very strong); tick924
+bud_mm_afm_corr_2025,city_merelbeke_melle,2025,10375160,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Gecorrigeerde AFM +10.375m; tick924
+bud_mm_bbr_2025,city_merelbeke_melle,2025,24386547,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,BBR 24.387m after onbeschikbaar 6.240m; tick924
+bud_mm_budget_result_2025,city_merelbeke_melle,2025,-717225,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Budgettair resultaat boekjaar -0.717m FOI; tick924
+bud_mm_cum_br_2025,city_merelbeke_melle,2025,30626212,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Gecumuleerd budgettair resultaat 30.626m; tick924
+bud_mm_pnl_result_2025,city_merelbeke_melle,2025,1647568,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Vennootschapsresultaat J5 +1.648m; tick924
+bud_mm_personnel_2025,city_merelbeke_melle,2025,31295903,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,T2 bezoldigingen 31.296m (incl onderwijs other-gov 4.598m); tick924
+bud_mm_toelagen_2025,city_merelbeke_melle,2025,12868646,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toegestane werkingssubsidies T2 12.869m; tick924
+bud_mm_police_toelage_2025,city_merelbeke_melle,2025,5238095,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toelage politiezone 5.238m; tick924
+bud_mm_hvz_toelage_2025,city_merelbeke_melle,2025,1548624,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toelage HVZ 1.549m; tick924
+bud_mm_agb_toelage_2025,city_merelbeke_melle,2025,1606974,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toelage AGB 1.607m FOI; tick924
+bud_mm_igs_toelage_2025,city_merelbeke_melle,2025,3250437,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toelage IGS 3.250m FOI; tick924
+bud_mm_eredienst_toelage_2025,city_merelbeke_melle,2025,65483,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toelage eredienst 0.065m; tick924
+bud_mm_toelagen_other_2025,city_merelbeke_melle,2025,1159032,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toelagen andere begunstigden 1.159m FOI; tick924
+bud_mm_invest_subs_granted_2025,city_merelbeke_melle,2025,450594,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Toegestane investeringssubsidies 0.451m; tick924
+bud_mm_ocmw_aid_2025,city_merelbeke_melle,2025,3283278,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,OCMW individuele hulp 3.283m; tick924
+bud_mm_fiscal_2025,city_merelbeke_melle,2025,40266079,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Fiscale opbrengsten en boetes 40.266m; tick924
+bud_mm_gemeentefonds_2025,city_merelbeke_melle,2025,9252377,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Gemeentefonds 9.252m; tick924
+bud_mm_fin_costs_2025,city_merelbeke_melle,2025,479577,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Financiele kosten 0.480m; tick924
+bud_mm_invest_mva_2025,city_merelbeke_melle,2025,5231614,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Investeringen MVA 5.232m (buildings 1.752 roads 2.164); tick924
+bud_mm_pop_2025,city_merelbeke_melle,2025,37369,,,count,src_merelbeke_melle_jr2025,strong,Inwoners 01.01.2025 37369; tick924
+bud_mm_agb_bbr_2025,city_merelbeke_melle,2025,501337,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,AGB Merelbeke-Melle BBR YE2025 0.501m consol evenwicht; tick924

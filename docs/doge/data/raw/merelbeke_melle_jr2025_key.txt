@@ -1,0 +1,45 @@
+MERELBEKE-MELLE JR2025 KEY EXTRACT — tick924
+Primary: Bundel jaarrekening 2025_GEMEENTE_OCMW_.pdf (96p)
+https://www.merelbeke-melle.be/file/download/3f7599cc-bcfa-418b-bca9-e685073291f6/tgAWnf9Kp9UUAZFtKxNF15raiW5LGtSwpWsn41mU3d.pdf
+Portal: https://www.merelbeke-melle.be/jaarrekening-2025-gemeente-ocmw
+Local: docs/doge/data/raw/merelbeke_melle_jr2025.pdf
+Contact: Hundelgemsesteenweg 353 9820 | info@merelbeke-melle.be
+KBO G 1.010.775.830 | OCMW 1.010.776.127
+AD Bénédicte Buylen | FD Frank Vanhove
+GR/RMW 23.06.2026 | published 26.06.2026
+FIRST FUSION YEAR — no 2024 comparables
+Pop 01.01.2025: 37369
+
+BALANCE J4 YE2025:
+Assets 260423158
+Equity 178169253
+Schulden 82253905
+Fin debt T3 33199765 (LT 27821546 + ST due 5361025 + ST 17194)
+Cash 29727412
+Pension 35622271 FOI
+Cap subs 47271906
+FVA 57596281 (IGS 29147744 / welzijn Zorgband 28223669 / AGB 25000)
+MVA 140988834
+LT receivables 20087446 (AGB loans narrative)
+
+J2:
+Expl 74549586 / 62106558 / +12443028
+Invest 522843 / 5746887 / -5224044
+Fin 1629461 / 9565670 / -7936209
+Budget -717225
+Cum BR 30626212 / onbeschikbaar 6239664 FOI / BBR 24386547
+AFM +7036268 / gecorr +10375160
+Periodieke aflossingen 6627845 / early 1619846 FOI
+New loans leasing only 318357 (no bank)
+AGB loans granted 1227960 / recover periodiek 1221084
+
+T2/J5:
+Personnel 31295903
+Toelagen 12868646 (police 5238095 / HVZ 1548624 / AGB 1606974 / IGS 3250437 FOI / eredienst 65483 / other 1159032 FOI)
+Invest-subs 450594
+Fiscal 40266079 / gemeentefonds 9252377
+P&L +1647568
+Invest MVA 5231614
+
+FOI: toelagen IGS/other/AGB; pension 35.6m; AGB loans; onbeschikbaar; early repay
+Dual: Putte tick923 assets 80m bank loans 3.5m

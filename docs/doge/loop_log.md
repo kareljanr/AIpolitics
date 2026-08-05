@@ -11607,3 +11607,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +52 (bud_put_*); commitments +4; leaderboard +7; sources +2; entity city_putte; FOI **gap_put_loans_agb_igs_l5** prio8 ready + draft; raw PDF + key; rq_923=done; spawn **rq_924**; ticks=923
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_924** residual dual L5 (Merelbeke-Melle / Kapellen AGB+APB / Roeselare / Destelbergen); deferred **rq_116**; progress@930 in 7
+
+### Tick 924 - 2026-08-07T10:45:00Z
+
+- Unit: **rq_924** (FOI-adjacent residual dual - **Gemeente+OCMW Merelbeke-Melle Jaarrekening 2025** fusion first year + Putte dual)
+- Found (strong primary BBC JR2025 96p bundel):
+  - Assets **EUR260.4m** / equity **EUR178.2m** / debt total **EUR82.3m** / fin debt **EUR33.2m** (LT **EUR27.8m** / ST due **EUR5.36m**)
+  - No bank new loans / leasing **EUR0.32m** / periodieke **EUR6.63m** / early repay **EUR1.62m FOI**
+  - Cash **EUR29.7m** / pension **EUR35.6m FOI** / onbeschikbaar **EUR6.24m FOI**
+  - Exploitatie: ontvangsten **EUR74.5m** / uitgaven **EUR62.1m** / saldo **+EUR12.44m**
+  - AFM **+EUR7.04m** (gecorr **+EUR10.38m**) / BBR **EUR24.4m** / budget result **-EUR0.72m FOI** / P&L **+EUR1.65m**
+  - Personnel **EUR31.3m** / toelagen **EUR12.87m** (police **EUR5.24m** / **IGS EUR3.25m FOI** / **AGB EUR1.61m FOI** / other **EUR1.16m FOI**)
+  - Invest **EUR5.75m** (MJP planned **EUR23.6m** underspend) / AGB loans granted **EUR1.23m FOI** / fiscal **EUR40.3m** / pop **37369**
+- Dual: Putte **EUR80.0m** / bank loans **EUR3.5m** / AGB flows (tick923) - not TE-additive
+- Wrote: budgets +52 (bud_mm_*); commitments +4; leaderboard +7; sources +2; entity city_merelbeke_melle; FOI **gap_mm_toelagen_pension_agb_l5** prio8 ready + draft; raw PDF + key; rq_924=done; spawn **rq_925**; ticks=924
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_925** residual dual L5 (Kapellen AGB+APB / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@930 in 6
