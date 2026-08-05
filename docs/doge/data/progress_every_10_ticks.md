@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 980** (2026-08-09)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 971-979: Zwevegem **EUR198.9m** / Ingelmunster **EUR78.8m** / Oostrozebeke **EUR72.0m** / Avelgem **EUR64.9m** / AGB Tielt **EUR20.0m** / Zorg Izegem **EUR16.1m** / Zorg Tielt **EUR15.4m** / AGB Zwevegem **EUR3.24m** / W13 **EUR2.80m** · prior 961-969 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 970-980 is VL residual dual L5 + Entity II care/AGB chain (not near-complete of 348bn):** personnel Zwevegem **EUR36.6m** / Zorg Izegem **EUR11.8m** / Ingelmunster **EUR11.4m** / Avelgem **EUR11.7m** / Oostrozebeke **EUR10.3m** / Zorg Tielt **EUR8.78m** · FOI-adjacent: Zwevegem **fin debt EUR37.9m RISING** (+loan **EUR8.31m**) / **OCMW cover EUR1.75m** / **toelagen EUR7.34m** / MJP debt JUMP **EUR43.7m YE2027** / AGB dual **gecorr AFM -EUR0.233m** · AGB Zwevegem **equity NEG** / **lease EUR3.19m** · Avelgem **OCMW cum deficit -EUR5.15m cover 0** / **leasing EUR7.38m** · W13 **AFM -EUR0.203m NEG** / **werkingsubs EUR3.97m** · Ingelmunster **OCMW cover EUR3.0m** / **toelagen EUR3.36m** / sportpark **EUR4.30m** · Zorg Tielt **fin debt EUR4.49m RISING** (+loan **EUR2.335m**) / **OCMW subs EUR2.43m** / detach **EUR3.12m** / sloop minwaarde **EUR0.511m** · AGB Tielt **fin debt EUR11.4m** / **lease MVA EUR9.30m** / **gecorr AFM -EUR0.516m** / **prijssubsidies EUR0.504m** · Zorg Izegem **OCMW EUR1.35m** / poetsdienst **-EUR0.219m** / LDC **-EUR0.213m** · Oostrozebeke **OCMW EUR1.06m** / **pension EUR5.88m rising** |
+| **E. FOI-ready gaps** | **~664** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~706** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Wevelgem **EUR305m** / Menen **EUR263m** / Zwevegem **EUR198.9m** / city_tielt **EUR193m** / city_izegem **EUR204m** / Ingelmunster **EUR78.8m** / Oostrozebeke **EUR72.0m** / Avelgem **EUR64.9m** not full TE) · **AGB Tielt EUR20.0m / debt EUR11.4m** · **Zorg Izegem EUR16.1m** · **Zorg Tielt EUR15.4m** · **AGB Zwevegem EUR3.24m** · **W13 EUR2.80m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 980)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~22853 |
+| commitments.csv | ~2875 |
+| leaderboard.csv | ~4639 |
+| entities.csv | ~701 |
+| sources.csv | ~1895 |
+| FOI ready | ~664 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~706 |
+| research_queue open | rq_116 deferred + rq_981 hole-fill after progress |
+
+### What improved since tick 970
+
+- **VL city/AGB/care JR2025 residual (tick971-979):** Oostrozebeke **EUR72.0m** / fin debt **EUR12.5m declining** / OCMW cover **EUR1.06m** / pension **EUR5.88m rising** · Zwevegem **EUR198.9m** / fin debt **EUR37.9m RISING** (+loan **EUR8.31m**) / OCMW cover **EUR1.75m** / toelagen **EUR7.34m** / cash JUMP **EUR9.52m** / MJP debt JUMP **EUR43.7m YE2027** · AGB Zwevegem Transfo **EUR3.24m** / equity **NEG** / **gecorr AFM -EUR0.233m** / lease **EUR3.19m** · Avelgem **EUR64.9m** / **OCMW cum deficit -EUR5.15m cover 0** / leasing **EUR7.38m** / AFM **+EUR3.31m** · W13 **EUR2.80m** / **AFM -EUR0.203m NEG 2nd yr** / werkingsubs **EUR3.97m** / 14 OCMW+CAW · Ingelmunster **EUR78.8m** / **OCMW cover EUR3.0m** / toelagen **EUR3.36m** (MIDOW/IVIO/DEMAX) / sportpark invest **EUR4.30m** · Zorg Tielt **EUR15.4m** / fin debt **EUR4.49m RISING** (+loan **EUR2.335m** Huyze Ampe) / OCMW subs **EUR2.43m** / city detach **EUR3.12m** / sloop minwaarde **EUR0.511m** · AGB Tielt **EUR20.0m** / fin debt **EUR11.4m** all-to-city / **lease MVA EUR9.30m** / **gecorr AFM -EUR0.516m** / prijssubsidies **EUR0.504m** / dividend **EUR0.161m** · Zorg Izegem **EUR16.1m** / OCMW **EUR1.35m** / personnel **EUR11.8m** / poetsdienst **-EUR0.219m** / LDC **-EUR0.213m** / cash JUMP **EUR4.60m**.
+- **Dual map:** debt-rising duals (Zwevegem / Zorg Tielt loan jump / AGB Tielt slight) vs debt-declining duals (Oostrozebeke / Avelgem / Ingelmunster / Zorg Izegem / AGB Zwevegem) · large OCMW cover duals (Ingelmunster **EUR3.0m** / Zorg Tielt **EUR2.43m** / Zwevegem **EUR1.75m** / Zorg Izegem **EUR1.35m** / Oostrozebeke **EUR1.06m**) vs **Avelgem cover 0 + cum deficit -EUR5.15m** · Entity II AFM-neg chain (AGB Tielt **-EUR0.516m gecorr** / AGB Zwevegem **-EUR0.233m** / W13 **-EUR0.203m**) · lease-heavy duals (AGB Tielt **EUR9.30m** / Avelgem **EUR7.38m** / AGB Zwevegem **EUR3.19m**) · care Entity II residual chain (Zorg Tielt / Zorg Izegem / W13) · structural care losses (Zorg Izegem poetsdienst/LDC) · MJP debt jump (Zwevegem **EUR43.7m YE2027**).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 970** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

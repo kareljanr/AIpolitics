@@ -12612,3 +12612,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_zi_*); commitments +5; leaderboard +7; sources +1; entity zorg_izegem; FOI **gap_zi_ocmw_losses_personnel_l5** prio8 ready + draft; key only (PDF ~3.2MB not stored in git); rq_979=done; spawn **rq_980** progress@980; ticks=979
 - FOI: ready only - **do not send**
 - Next: prio9 **rq_980** mandatory progress@980; deferred **rq_116**; progress@980 in 1
+
+### Tick 980 - 2026-08-09T03:00:00Z
+
+- Unit: **rq_980** (mandatory **progress@980** coverage % layers A-E + waste top10 after VL residual 971-979)
+- Found / assessed (no new primary PDF this tick — decade inventory + ranking refresh):
+  - **A L0:** 100% TE EUR 347.956bn
+  - **B L1:** 100% unconsol. map
+  - **C L2:** ~99% — **+** Zwevegem **EUR198.9m** / Ingelmunster **EUR78.8m** / Oostrozebeke **EUR72.0m** / Avelgem **EUR64.9m** / AGB Tielt **EUR20.0m** / Zorg Izegem **EUR16.1m** / Zorg Tielt **EUR15.4m** / AGB Zwevegem **EUR3.24m** / W13 **EUR2.80m**
+  - **D L5:** ~74-88% TE generous (still not near-complete of 348bn) — OCMW cover stack Ingelmunster **EUR3.0m** / Zorg Tielt **EUR2.43m** / Zwevegem **EUR1.75m** / Zorg Izegem **EUR1.35m** · Avelgem **cover 0 + cum deficit -EUR5.15m** · Entity II AFM-neg (AGB Tielt **-EUR0.516m** / AGB Zwevegem **-EUR0.233m** / W13 **-EUR0.203m**) · lease-heavy AGB Tielt **EUR9.30m** / Avelgem **EUR7.38m** · care losses Zorg Izegem poetsdienst/LDC · Zwevegem debt RISING **EUR37.9m** +loan **EUR8.31m** / MJP JUMP **EUR43.7m YE2027**
+  - **E FOI:** ready **~664** / answered **~9** / partial **~27** / total rows **~706**
+  - Inventory: budgets **~22853** / commitments **~2875** / leaderboard **~4639** / entities **~701** / sources **~1895**
+  - Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@980; doge_waste_top10_current.md as-of 980; rq_980=done; spawn **rq_981** hole_fill; ticks=980
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_981** residual dual L5 (Ardooie / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 10

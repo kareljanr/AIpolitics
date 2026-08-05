@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T02:30:00Z,rq_979,979,no,tick979 Zorg Izegem JR2025 Entity II dual residual; FOI gap_zi_ocmw_losses_personnel_l5 prio8 assets 16.1m fin debt 1.60m declining cash 4.60m AFM +0.732m OCMW 1.35m personnel 11.8m poetsdienst -0.219m LDC -0.213m; next rq_980 progress@980; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T03:00:00Z,rq_980,980,no,tick980 progress@980 coverage A/B 100% C~99% D~74-88% FOI ready ~664; VL residual 971-979 Zwevegem 199m Ingelmunster 79m Oostrozebeke 72m Avelgem 65m AGB Tielt 20m Zorg duals; pure top10 stable; next residual dual L5 rq_981; rq_116 deferred
