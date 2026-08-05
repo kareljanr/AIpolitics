@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **990** (2026-08-09) · **~4702** leaderboard rows  
+**As-of:** tick **1000** (2026-08-09) · **~4765** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Wevelgem **€305m** / Menen **€263m** / Kortemark **€98.7m** / Koekelare **€72.4m** / Ledegem **€71.8m** / Heuvelland **€65.4m** / Deerlijk **€64.4m** / WZBW **€41.6m** / Westtoer **€14.2m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension stocks Koekelare **debt €4.55m RISING** / Kortemark **FVA IGS €30.6m JUMP** / WZBW **cum deficit −€6.28m** / Heuvelland **OCMW −€2.38m cover 0**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Blankenberge **€204.5m** / Nieuwpoort **€190m** / Middelkerke fin debt **€84m** / Bredene **€132m** / Jabbeke **€127m** / Oudenburg **€87m** / Damme **€85m** / Alveringem **€61m** / AGB Nieuwpoort **€5.83m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks Middelkerke **debt €84m HIGH** / Blankenberge **debt €72.7m** / **OCMW cum −€19.2m** / Oudenburg **OCMW cum −€7.36m cover 0** / Jabbeke **FVA IGS €16.1m JUMP**.
 
-**Change vs tick 980:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 981–989 (off pure top10 / dual):** Deerlijk **€64.4m** (OCMW **€1.75m**, debt RISING, leasing **€5.09m**) · Spiere-Helkijn **€13.4m** (OCMW **€0.313m**, named toelagen) · Heuvelland **€65.4m** (**OCMW cum −€2.38m cover 0**, cash DROP, budget **−€2.31m**) · Lo-Reninge **€38.5m** (debt JUMP **€3.48m** +loan **€1.80m**, cash DROP) · Kortemark **€98.7m** (**FVA IGS €30.6m JUMP**, OCMW FULL **€0.969m**, pension RISING) · WZBW **€41.6m** (**AFM −€0.082m**, **cum deficit −€6.28m**, OCMW dual **€1.35m**) · Ledegem **€71.8m** (**FVA IGS herwaard €12.6m**, OCMW **€0.401m**) · Westtoer **€14.2m** (**province €9.93m**, mun pool DROP **€1.34m**) · Koekelare **€72.4m** (debt RISING **€4.55m** +loan **€1.50m**, OCMW FULL **€1.21m**, cash JUMP). Gain is **OCMW cover stack + FVA IGS reval duals + WZBW care AFM-neg/cum deficit + provincial tourism dual + debt-rising small/mid duals** more than FFS reshuffle.
+**Change vs tick 990:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 991–999 (off pure top10 / dual):** Nieuwpoort **€190m** (cash **€55.1m**, OCMW PARTIAL **€3.25m**, AGB dual **€2.27m**) · AGB Nieuwpoort VT **€5.83m** · Bredene **€132.4m** (OCMW PARTIAL **€4.41m**, cum **−€2.16m**) · Jabbeke **€127.2m** (AFM **+€9.73m**, OCMW FULL **€1.81m**, FVA IGS JUMP) · Middelkerke **fin debt €84.0m HIGH** / toelagen **€9.92m** / events Golazo+BOIC · Alveringem **€61.4m** (cover **0**, WZC interim, MJP2026 **+€3.01m** loans) · Oudenburg **€86.9m** (**OCMW cover 0**, cum **−€7.36m WORSENING**) · Blankenberge **€204.5m** (debt **€72.7m**, **gecorr AFM NEG**, OCMW cover **€9.63m**, cum **−€19.2m**, toelagen **€12.0m**) · Damme **€84.5m** (OCMW FULL **€1.19m**, **IVBO €0.91m**, invest underspend vs **€20.6m** MJP). Gain is **coastal high-debt + deep OCMW cum-deficit duals + IVBO/event L5 + Entity II AGB dual** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_wt_prov_dotatie_9_93m_2025` | **9.93 m** | **~6.0** | **NEW 988** Westtoer province dual |
-| — | `lb_wzbw_cum_deficit_6_28m_2025` | **6.28 m stock** | **~6.4** | **NEW 986** WZBW cum P&L deficit |
-| — | `lb_led_fva_igs_17_0m_2025` | **17.0 m stock** | **~6.3** | **NEW 987** Ledegem FVA IGS reval |
-| — | `lb_koe_ocmw_cover_1_21m_2025` | **1.21 m** | **~5.8** | **NEW 989** Koekelare OCMW full cover |
-| — | `lb_dee_ocmw_cover_1_75m_2025` | **1.75 m** | **~5.8** | **NEW 981** Deerlijk OCMW cover |
-| — | `lb_heu_ocmw_cum_deficit_2_38m_2025` | **2.38 m** | **~5.8** | **NEW 983** Heuvelland OCMW uncovered |
+| — | `lb_bla_fin_debt_72_7m_2025` | **72.7 m stock** | **~6.4** | **NEW 998** Blankenberge debt HIGH |
+| — | `lb_mid_fin_debt_84m_2025` | **84.0 m stock** | **~6.2** | **NEW 995** Middelkerke debt HIGH |
+| — | `lb_oud_ocmw_cum_7_36m_2025` | **7.36 m stock** | **~6.4** | **NEW 997** Oudenburg OCMW cum cover 0 |
+| — | `lb_bla_ocmw_cover_9_63m_2025` | **9.63 m** | **~6.2** | **NEW 998** Blankenberge OCMW cover |
+| — | `lb_dam_ivbo_0_91m_2025` | **0.91 m** | **~5.4** | **NEW 999** Damme IVBO toelage |
+| — | `lb_jab_afm` / OCMW FULL stack | **~1.81 m** | **~5.8** | **NEW 994** Jabbeke dual residual |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,10 +56,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_wzbw_afm_neg_0_08m_2025` | **8.0** | **NEW 986** WZBW AFM NEG structural |
-| `lb_heu_ocmw_cum_deficit_2_38m_2025` | **8.0** | **NEW 983** OCMW deficit cover 0 |
-| `lb_wt_spec_subs_drop_2025` | **7.5** | **NEW 988** mun pool DROP 2.76→1.34m |
-| `lb_led_fva_igs_17_0m_2025` | **7.5** | **NEW 987** FVA IGS reval JUMP |
+| `lb_bla_gecorr_afm_neg_2025` | **8.0** | **NEW 998** Blankenberge gecorr AFM NEG |
+| `lb_oud_ocmw_cum_7_36m_2025` | **8.5** | **NEW 997** OCMW cum cover 0 WORSENING |
+| `lb_mid_fin_debt_84m_2025` | **7.5** | **NEW 995** coastal debt HIGH bank+lease |
+| `lb_dam_ivbo_0_91m_2025` | **7.5** | **NEW 999** IVBO toelage residual |
 
 ### Methodology notes
 

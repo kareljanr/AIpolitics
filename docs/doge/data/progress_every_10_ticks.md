@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1000** (2026-08-09)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 991-999 coastal/Westhoek: Blankenberge **EUR204.5m** / Nieuwpoort **EUR190m** / Middelkerke **EUR~145m** / Bredene **EUR132.4m** / Jabbeke **EUR127.2m** / Oudenburg **EUR86.9m** / Damme **EUR84.5m** / Alveringem **EUR61.4m** / AGB Nieuwpoort VT **EUR5.83m** · prior 981-989 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 990-1000 is VL residual dual L5 coastal/Westhoek chain (not near-complete of 348bn):** personnel Blankenberge **EUR42.5m JUMP** / Middelkerke **EUR36.8m** / Nieuwpoort **EUR26.9m** / Bredene **EUR26.9m** / Oudenburg **EUR14.1m** / Damme **EUR10.7m** · FOI-adjacent: **Middelkerke fin debt EUR84.0m HIGH** bank+lease / cash **EUR36.2m** / toelagen **EUR9.92m** / OCMW cover **EUR2.77m** / 2de verblijven **EUR11.2m** · **Blankenberge fin debt EUR72.7m DECLINING -8%** / **gecorr AFM -EUR0.042m NEG** / OCMW cover **EUR9.63m** / cum **-EUR19.2m** / toelagen **EUR12.0m** police **EUR8.57m** / leasing MVA **EUR26.4m** · **Oudenburg OCMW cover 0** / cum **-EUR7.36m WORSENING** / P&L **-EUR1.45m** · **Bredene OCMW cover EUR4.41m PARTIAL** / cum **-EUR2.16m** · **Nieuwpoort cash EUR55.1m HIGH** / OCMW cover **EUR3.25m PARTIAL** / AGB prijssubsidie **EUR2.27m dual** · **Jabbeke AFM +EUR9.73m** / OCMW cover **EUR1.81m FULL** / FVA IGS **EUR16.1m JUMP** / eredienst JUMP · **Damme OCMW cover EUR1.19m FULL** / **IVBO EUR0.91m** / invest **EUR3.68 vs MJP EUR20.6m** · **Alveringem OCMW cover 0** / WZC interim **EUR0.14m** / MJP2026 debt plan **+EUR3.01m** |
+| **E. FOI-ready gaps** | **~682** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~724** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Blankenberge **EUR204.5m** / Middelkerke fin debt **EUR84m** / Nieuwpoort **EUR190m** / Bredene **EUR132m** / Jabbeke **EUR127m** / Oudenburg **EUR87m** / Damme **EUR85m** / Alveringem **EUR61m** not full TE) · **AGB Nieuwpoort VT EUR5.83m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1000)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~23677 |
+| commitments.csv | ~2965 |
+| leaderboard.csv | ~4765 |
+| entities.csv | ~719 |
+| sources.csv | ~1913 |
+| FOI ready | ~682 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~724 |
+| research_queue open | rq_116 deferred + rq_1001 hole-fill after progress |
+
+### What improved since tick 990
+
+- **VL coastal/Westhoek residual dual JR2025 (tick991-999):** Nieuwpoort **EUR190m** / cash **EUR55.1m** / OCMW cover **EUR3.25m PARTIAL** / toelagen **EUR7.71m** · AGB Nieuwpoort Vrije Tijd **EUR5.83m** / prijssubsidie **EUR2.18m** / fin debt **EUR4.48m DECLINING** · Bredene **EUR132.4m** / fin debt **EUR30.0m DECLINING** / OCMW cover **EUR4.41m PARTIAL** / cum **-EUR2.16m** · Jabbeke **EUR127.2m** / fin debt **EUR5.02m DECLINING** / AFM **+EUR9.73m** / OCMW cover **EUR1.81m FULL** / FVA IGS **EUR16.1m JUMP** · Middelkerke documentatie **fin debt EUR84.0m HIGH** / cash **EUR36.2m** / toelagen **EUR9.92m** / OCMW cover **EUR2.77m** / Golazo+BOIC events · Alveringem **EUR61.4m** / fin debt **EUR4.42m DECLINING** / AFM **+EUR2.33m** / OCMW cover **0** / WZC interim **EUR0.14m** / MJP2026 loans **EUR3.01m** · Oudenburg **EUR86.9m** / fin debt **EUR15.1m DECLINING** / **OCMW cover 0** / cum **-EUR7.36m WORSENING** · Blankenberge **EUR204.5m** / fin debt **EUR72.7m DECLINING** / **gecorr AFM NEG** / OCMW cover **EUR9.63m** / cum **-EUR19.2m** / toelagen **EUR12.0m** · Damme **EUR84.5m** / fin debt **EUR5.45m DECLINING** / OCMW cover **EUR1.19m FULL** / **IVBO EUR0.91m** / invest underspend **vs MJP EUR20.6m**.
+- **Dual map:** high-debt coastal stack (Middelkerke **EUR84m** / Blankenberge **EUR72.7m** / Bredene **EUR30m** / Nieuwpoort **EUR21.6m**) vs low-debt hinterland (Jabbeke **EUR5.0m** / Damme **EUR5.5m** / Alveringem **EUR4.4m**) · OCMW cover spectrum FULL (Jabbeke/Damme/Alveringem self-absorb 0 with thin deficit) vs PARTIAL (Nieuwpoort/Bredene) vs **ZERO with deep cum deficit (Oudenburg -EUR7.36m / Blankenberge still -EUR19.2m after cover)** · cash HIGH duals (Nieuwpoort **EUR55m** / Middelkerke **EUR36m** / Bredene **EUR25m** / Damme **EUR13m**) · Entity II dual (AGB Nieuwpoort VT prijssubsidie **EUR2.18m**) · event L5 (Middelkerke Golazo/BOIC) · IVBO waste-adjacent (Damme **EUR0.91m**) · gecorr AFM NEG (Blankenberge).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 990** (2026-08-09)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

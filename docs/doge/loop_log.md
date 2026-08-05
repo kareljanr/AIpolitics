@@ -12974,3 +12974,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_dam_*); commitments +5; leaderboard +7; sources +1; entity city_damme; FOI **gap_dam_ocmw_toelagen_invest_ivbo_l5** prio8 ready + draft; key only (PDF ~6.5MB not stored in git); rq_999=done; spawn **rq_1000**; ticks=999
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1000** progress@1000 + residual dual L5; deferred **rq_116**
+
+### Tick 1000 - 2026-08-09T13:15:00Z
+
+- Unit: **rq_1000** (PROGRESS@1000 coverage % + waste top10 + residual dual map close-out note)
+- Found / assessed:
+  - **A L0:** **100%** NBB/ESA TE **EUR347.956bn**
+  - **B L1:** **100%** unconsol map
+  - **C L2:** **~99%** order-of-magnitude — + coastal dual stack 991-999: Blankenberge **EUR204.5m** / Nieuwpoort **EUR190m** / Middelkerke **~EUR145m** / Bredene **EUR132m** / Jabbeke **EUR127m** / Oudenburg **EUR87m** / Damme **EUR85m** / Alveringem **EUR61m** / AGB NP VT **EUR5.83m**
+  - **D L5:** ~**74-88%** generous — gain 991-999: Middelkerke **fin debt EUR84m HIGH** / Blankenberge **EUR72.7m** + **gecorr AFM NEG** / Oudenburg **OCMW cover 0 cum -EUR7.36m** / Blankenberge OCMW cover **EUR9.63m** cum **-EUR19.2m** / Damme **IVBO EUR0.91m** + invest underspend vs **EUR20.6m** MJP / Jabbeke **AFM +EUR9.73m** OCMW FULL / AGB Nieuwpoort prijssubsidie **EUR2.18m**
+  - **E FOI:** ready **~682** · answered **~9** · partial **~27** · total rows **~724**
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2-10; stocks filtered (Metro3, OWV, city debt/OCMW/FVA/lease stocks)
+- Inventory: budgets **~23677** · commitments **~2965** · leaderboard **~4765** · entities **~719** · sources **~1913**
+- Wrote: progress_every_10_ticks.md (tick1000 snapshot) · doge_waste_top10_current.md (as-of 1000) · rq_1000=done · spawn **rq_1001** · ticks=1000
+- FOI: none new this tick (progress-only primary)
+- Next: prio5 **rq_1001** residual dual L5 (Torhout / Meulebeke / Gistel / AGB De Panne / other); deferred **rq_116**; progress@1010 in 10
