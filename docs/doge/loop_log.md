@@ -10739,3 +10739,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44; commitments +4; leaderboard +7; sources +2; entity city_bocholt; FOI **gap_bocholt_igs_agb_l5** prio7 ready + draft; raw PDF+extract; rq_868=done; spawn **rq_869**; ticks=868
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_869** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Zottegem/VUB/skeyes); deferred **rq_116**; progress@870 in 2
+
+## Tick 869 - 2026-08-06T07:30:00Z
+
+- Unit: **rq_869** (FOI-adjacent residual dual - **Stad+OCMW Zottegem Jaarrekening 2025** + Bocholt dual)
+- Found (strong primary BBC JR2025 589p, pub 09.06.2026):
+  - Assets **EUR167.3m** / equity **EUR76.2m** / debt total **EUR91.1m** / fin debt **EUR50.0m** (LT **EUR43.2m** / ST due **EUR4.1m** / **KT treasury EUR2.75m**; was **EUR51.4m**)
+  - Pension **EUR28.1m** / cash **EUR2.1m** / cap subs **EUR34.2m** / FVA IGS **EUR24.5m** / onbeschikbaar **EUR0.24m** / cumul deficit **EUR21.4m**
+  - Exploitatie: ontvangsten **EUR72.5m** / uitgaven **EUR63.1m** / saldo **+EUR9.4m**
+  - AFM **+EUR6.5m** (gecorr **+EUR6.5m**) / BBR **EUR3.9m** / budget result **-EUR3.3m** / P&L **+EUR0.3m**
+  - Personnel **EUR37.3m** (onderwijs other-gov **EUR5.6m**) / toelagen **EUR7.9m** (police **EUR4.3m** / AGB **EUR1.6m** / other **EUR0.9m** / fire **EUR0.8m**) / OCMW aid **EUR3.7m** / fiscal **EUR28.5m**
+  - Invest **EUR10.1m** / new LT loans **EUR0** / invest-subs granted **EUR2.0m** (eredienst **EUR1.2m**) / gemeentefonds **EUR8.1m**
+- Dual: Bocholt **EUR131m** / fin debt **EUR18m** / AFM **+EUR3.1m** / IGS reval (tick868) - not TE-additive
+- Wrote: budgets +43; commitments +4; leaderboard +7; sources +2; entity city_zottegem; FOI **gap_zottegem_debt_st_l5** prio7 ready + draft; raw PDF+extract; rq_869=done; spawn **rq_870** progress@870 + **rq_871**; ticks=869
+- FOI: ready only - **do not send**
+- Next: **progress@870 NEXT** (prio10 rq_870); then prio5 **rq_871** residual dual L5; deferred **rq_116**

@@ -1,0 +1,1257 @@
+=== p9 ===
+  ZOTTEGEM
+  KENGETALLEN BOEKJAAR 2025
+GECONSOLIDEERD
+STAD
+OCMW
+Liquiditeiten
+Kastoestand per 31/12/2025 
+2 091 594 
+1 356 806 
+734 788 
+Openstaande vorderingen op KT 
+13 290 314 
+8 743 414 
+4 546 900 
+Openstaande schulden op KT 
+15 670 578 
+11 386 748 
+4 283 830 
+Exploitatie
+* Exploitatieontvangsten in het boekjaar 
+72 548 348 
+52 137 613 
+20 410 735 
+* Exploitatieuitgaven in het boekjaar 
+63 146 784 
+37 664 424 
+25 482 359 
+Facturatie tussen stad en OCMW 
+Saldo exploitatie 
+9 401 564 
+14 473 189 
+-5 071 625 
+Investeringen
+Desinvesteringen in het boekjaar 
+Ontvangen investeringssubsidies 
+1 136 822 
+82 054 
+1 054 769 
+Investeringen in het boekjaar 
+8 080 953 
+5 349 224 
+2 731 729 
+Toegestane investeringssubsidies 
+1 970 851 
+1 970 851 
+Saldo investeringen 
+-8 914 982 
+-7 238 021 
+-1 676 960 
+Financiering
+Nieuw aangegane leningen 
+Terugvordering van toegestane leningen 
+406 374 
+406 374 
+Toegestane leningen 
+139 900 
+139 900 
+Vervroegde terugbetaling van toegestane leningen 
+Vervroegde aflossing van leningen 
+Periodieke aflossingen op leningen 
+4 077 136 
+3 405 776 
+671 360 
+Saldo financiering 
+-3 810 661 
+-3 139 301 
+-671 360 
+Openstaande schulden uit leningen 
+47 292 581 
+40 608 847 
+6 683 733 
+Leningen op rekening met vaste termijn 
+2 750 000 
+2 750 000 
+Intresten op leningen 
+992 079 
+829 018 
+163 061 
+Budgettair resultaat van het boekjaar  
+-3 324 079 
+-4 414 133 
+1 090 054 
+Gecumuleerd budgettair resultaat   
+4 121 045 
+824 100 
+3 296 944 
+Autofinancieringsmarge   
+8 158 571 
+4 576 787 
+3 581 784 
+Tussenkomst in het tekort van het OCMW 
+8 510 000 
+Gecumuleerd budgettair resultaat per inwoner 
+146 
+* Openstaande schuld per inwoner 
+1 772 
+* Exclusief interne facturatie en facturatie tussen GE-OC
+* Inclusief de leningen op rekening met vaste termijn
+* Vorderingen/schulden uit ruil en niet-ruil; exclusief interne rekening courant GE-OC
+9
+
+=== p343 ===
+Zottegem
+J2 : Staat van het financieel evenwicht
+Budgettair resultaat
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+(a-b)
+9.401.564
+3.894.562
+  a. Ontvangsten
+72.548.348
+71.142.726
+  b. Uitgaven
+63.146.784
+67.248.164
+II. Investeringssaldo
+(a-b)
+-8.914.982
+-5.435.299
+  a. Ontvangsten
+1.136.822
+4.150.416
+  b. Uitgaven
+10.051.804
+9.585.715
+III. Saldo exploitatie en investeringen
+(I+II)
+486.583
+-1.540.737
+IV. Financieringssaldo
+(a-b)
+-3.810.661
+1.730.330
+  a. Ontvangsten
+406.374
+6.473.698
+  b. Uitgaven
+4.217.036
+4.743.368
+V. Budgettair resultaat van het boekjaar
+(III+IV)
+-3.324.079
+189.593
+VI. Gecumuleerd budgettair resultaat vorig boekjaar
+7.445.123
+370.809
+VII. Gecumuleerd budgettair resultaat
+(V+VI)
+4.121.045
+560.402
+VIII. Onbeschikbare gelden
+240.000
+0
+IX. Beschikbaar budgettair resultaat
+(VII-VIII)
+3.881.045
+560.402
+Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+9.401.564
+3.894.562
+II. Netto periodieke aflossingen
+(a-b)
+2.855.993
+3.023.723
+  a. Periodieke aflossingen conform de verbintenissen
+4.077.136
+4.312.190
+  b. Periodieke terugvordering leningen
+1.221.143
+1.288.467
+III. Autofinancieringsmarge
+(I-II)
+6.545.571
+870.839
+Gecorrigeerde autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Autofinancieringsmarge
+6.545.571
+870.839
+II. Correctie op de periodieke aflossingen
+(a-b)
+-32.441
+202.613
+  a. Periodieke aflossingen conform de verbintenissen
+4.077.136
+4.312.190
+  b. Aangewezen aflossingen o.b.v. de financiële schulden
+4.109.577
+4.109.577
+III. Gecorrigeerde autofinancieringsmarge
+(I+II)
+6.513.130
+1.073.452
+343
+
+=== p352 ===
+Zottegem
+J4 : Balans
+2025
+2024
+ACTIVA
+167.276.770
+164.880.376
+I. Vlottende activa
+16.590.950
+15.176.871
+  A. Liquide middelen en geldbeleggingen
+2.091.594
+1.122.837
+  B. Vorderingen op korte termijn
+13.290.314
+12.848.115
+     1. Vorderingen uit ruiltransacties
+4.374.932
+3.531.893
+     2. Vorderingen uit niet-ruiltransacties
+8.915.382
+9.316.221
+  C. Voorraden en bestellingen in uitvoering
+0
+0
+  D. Overlopende rekeningen van het actief
+0
+0
+  E. Vorderingen op lange termijn die binnen het jaar vervallen
+1.209.042
+1.205.919
+II. Vaste activa
+150.685.820
+149.703.505
+  A. Vorderingen op lange termijn
+13.802.464
+14.886.830
+     1. Vorderingen uit ruiltransacties
+8.913.853
+9.183.450
+     2. Vorderingen uit niet-ruiltransacties
+4.888.611
+5.703.380
+  B. Financiële vaste activa
+24.798.200
+24.692.996
+     1. Extern verzelfstandigde agentschappen
+17.304
+17.304
+     2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+24.462.788
+24.357.584
+     3. OCMW-verenigingen
+0
+0
+     4. Andere financiële vaste activa
+318.108
+318.108
+  C. Materiële vaste activa
+111.367.963
+109.344.388
+     1. Gemeenschapsgoederen
+84.002.203
+81.324.412
+         a. Terreinen en gebouwen
+51.034.642
+50.060.092
+         b. Wegen en andere infrastructuur
+14.993.293
+13.329.275
+         c. Installaties, machines en uitrusting
+873.461
+830.614
+         d. Meubilair, kantooruitrusting en rollend materieel
+2.020.551
+1.526.858
+         e. Leasing en soortgelijke rechten
+10.992.098
+11.511.225
+         f. Erfgoed
+4.088.158
+4.066.347
+     2. Bedrijfsmatige materiële vaste activa
+25.307.862
+25.964.648
+         a. Terreinen en gebouwen
+24.869.844
+25.584.699
+         b. Installaties, machines en uitrusting
+297.457
+243.941
+         c. Meubilair, kantooruitrusting en rollend materieel
+140.562
+136.008
+         d. Leasing en soortgelijke rechten
+0
+0
+     3. Andere materiële vaste activa
+2.057.898
+2.055.328
+         a. Terreinen en gebouwen
+2.057.898
+2.055.328
+         b. Roerende goederen
+0
+0
+  D. Immateriële vaste activa
+717.193
+779.291
+352
+
+=== p353 ===
+Zottegem
+J4 : Balans
+2025
+2024
+PASSIVA
+167.276.770
+164.880.376
+I. Schulden
+91.103.576
+88.185.904
+  A. Schulden op korte termijn
+19.723.364
+14.524.661
+     1. Schulden uit ruiltransacties
+14.227.346
+9.429.755
+         a. Voorzieningen voor risico's en kosten
+4.246.797
+3.655.961
+         b. Financiële schulden
+2.750.000
+0
+         c. Niet-financiële schulden uit ruiltransacties
+7.230.550
+5.773.794
+     2. Schulden uit niet-ruiltransacties
+1.443.232
+1.017.769
+     3. Overlopende rekeningen van het passief
+0
+0
+     4. Schulden op lange termijn die binnen het jaar vervallen
+4.052.786
+4.077.136
+  B. Schulden op lange termijn
+71.380.212
+73.661.243
+     1. Schulden uit ruiltransacties
+71.380.212
+73.661.243
+         a. Voorzieningen voor risico's en kosten
+28.140.418
+26.368.662
+            1. Pensioenen en soortgelijke verplichtingen
+28.140.418
+26.368.662
+            2. Andere risico's en kosten
+0
+0
+         b. Financiële schulden
+43.239.794
+47.292.581
+         c. Niet-financiële schulden uit ruiltransacties
+0
+0
+     2. Schulden uit niet-ruiltransacties
+0
+0
+II. Nettoactief
+76.173.193
+76.694.472
+  A. Kapitaalsubsidies en schenkingen
+34.233.972
+35.197.981
+  B. Gecumuleerd overschot of tekort
+-21.449.068
+-21.789.168
+  C. Herwaarderingsreservers
+5.253.965
+5.151.333
+  D. Overig nettoactief
+58.134.325
+58.134.325
+353
+
+=== p357 ===
+Zottegem
+J5 : Staat van opbrengsten en kosten
+2025
+2024
+I. Kosten
+73.494.311
+81.271.108
+  A. Operationele kosten
+72.500.595
+80.214.368
+     1. Goederen en diensten
+12.567.138
+13.187.995
+     2. Bezoldigingen, sociale lasten en pensioenen
+37.321.210
+35.815.569
+     3. Afschrijvingen, waardeverminderingen en voorzieningen
+8.376.674
+18.052.361
+     4. Individuele hulpverlening door het O.C.M.W.
+3.650.105
+3.633.283
+     5. Toegestane werkingssubsidies
+7.878.581
+7.149.008
+     6. Toegestane Investeringssubsidies
+1.970.851
+1.752.645
+     7. Minderwaarden bij de realisatie van vaste activa
+3
+0
+     8. Andere operationele kosten
+736.033
+623.508
+  B. Financiële kosten
+993.717
+1.056.739
+II. Opbrengsten
+73.834.412
+71.795.955
+  A. Operationele opbrengsten
+71.680.600
+68.987.256
+     1. Opbrengsten uit de werking
+15.532.429
+14.711.457
+     2. Fiscale opbrengsten en boetes
+28.459.234
+26.071.334
+     3. Werkingssubsidies
+26.342.414
+26.670.861
+         a. Algemene werkingssubsidies
+13.847.476
+13.303.488
+         b. Specifieke werkingssubsidies
+12.494.938
+13.367.373
+     4. Recuperatie individuele hulpverlening
+401.768
+427.414
+     5. Meerwaarden bij de realisatie van vaste activa
+0
+322.774
+     6. Andere operationele opbrengsten
+944.757
+783.416
+  B. Financiële opbrengsten
+2.153.811
+2.808.699
+III. Overschot of tekort van het boekjaar
+340.100
+-9.475.153
+  A. Operationele overschot of tekort
+-819.995
+-11.227.113
+  B. Financieel overschot of tekort
+1.160.095
+1.751.960
+IV. Verwerking van het overschot of tekort van het boekjaar
+340.100
+-9.475.153
+  A. Rechthebbenden uit het overschot van het boekjaar
+0
+0
+  B. Tussenkomst door derden in het tekort van het boekjaar
+0
+0
+  C. Over te dragen overschot of tekort van het boekjaar
+340.100
+-9.475.153
+357
+
+=== p370 ===
+Zottegem
+T2 : Ontvangsten en uitgaven naar economische aard
+I. Exploitatieuitgaven
+Rek 2020
+Rek 2021
+Rek 2022
+Rek 2023
+Rek 2024
+Rek 2025
+Mjp 2025
+A. Operationele uitgaven
+47.477.684
+49.565.150
+56.328.331
+59.358.104
+60.396.483
+62.153.067
+65.965.104
+  1. Goederen en diensten
+9.488.292
+10.285.711
+12.578.897
+12.522.569
+13.175.435
+12.567.138
+12.677.215
+  2. Bezoldigingen, sociale lasten en pensioenen
+29.767.265
+30.850.758
+33.552.695
+35.797.100
+35.815.249
+37.321.210
+40.887.279
+     a. Politiek personeel
+524.181
+526.265
+551.082
+591.646
+599.669
+652.355
+616.558
+     b. Vastbenoemd niet-onderwijzend personeel
+8.146.500
+8.187.301
+8.364.062
+8.019.463
+7.675.891
+7.760.380
+8.750.767
+     c. Niet-vastbenoemd niet-onderwijzend personeel
+14.974.904
+15.808.746
+17.764.156
+19.629.962
+19.620.525
+21.568.271
+23.343.286
+     d. Onderwijzend personeel ten laste van het bestuur
+432.480
+473.202
+494.280
+539.531
+554.389
+585.316
+448.743
+     e. Onderwijzend personeel ten laste van andere overheden
+4.850.305
+4.868.927
+5.377.062
+5.928.190
+6.303.854
+5.634.828
+6.412.443
+     f. Andere personeelskosten
+619.841
+742.611
+735.003
+791.454
+740.015
+800.304
+987.085
+     g. Pensioenen
+219.054
+243.705
+267.050
+296.854
+320.906
+319.756
+328.399
+  3. Individuele hulpverlening door het OCMW
+2.209.655
+2.380.039
+3.006.865
+3.494.767
+3.633.283
+3.650.105
+3.747.625
+  4. Toegestane werkingssubsidies
+5.866.926
+5.839.405
+6.893.065
+6.954.433
+7.149.008
+7.878.581
+7.989.897
+     - aan de districten
+0
+0
+0
+0
+0
+0
+0
+     - aan de eigen autonome provinciebedrijven (APB)
+0
+0
+0
+0
+0
+0
+0
+     - aan de eigen autonome gemeentebedrijven (AGB)
+1.419.721
+1.338.305
+1.999.135
+1.833.959
+1.562.356
+1.569.288
+1.426.253
+     - aan welzijnsverenigingen
+0
+0
+0
+0
+0
+0
+0
+     - aan andere OCMW-verenigingen
+0
+0
+0
+0
+0
+0
+0
+     - aan de politiezone
+2.680.569
+2.749.302
+2.749.302
+3.218.745
+3.596.791
+4.291.675
+4.291.675
+     - aan de hulpverleningszone
+644.786
+668.643
+693.383
+731.519
+811.986
+826.210
+826.210
+     - aan intergemeentelijke samenwerkingsverbanden (IGS)
+49.785
+45.408
+24.063
+67.978
+32.552
+32.246
+132.615
+     - aan besturen van de eredienst
+198.853
+166.364
+247.582
+251.379
+255.178
+211.555
+270.000
+     - aan niet-confessionele levensbeschouwelijke gemeenschappen
+0
+0
+0
+0
+0
+0
+0
+     - aan andere begunstigden
+873.211
+871.383
+1.179.601
+850.853
+890.146
+947.607
+1.043.144
+  5. Andere operationele uitgaven
+145.547
+209.236
+296.809
+589.235
+623.508
+736.033
+663.088
+B. Financiële uitgaven
+1.117.712
+1.030.553
+1.004.289
+1.020.692
+1.056.739
+993.717
+1.283.059
+  1. Rente, commissies en kosten verbonden aan schulden
+1.116.519
+1.030.211
+1.002.289
+1.013.945
+1.053.985
+992.079
+1.282.539
+     - aan financiële instellingen
+1.116.519
+1.030.211
+1.002.289
+1.013.945
+1.053.985
+992.079
+1.282.539
+     - aan andere entiteiten
+0
+0
+0
+0
+0
+0
+0
+     2. Andere financiële uitgaven
+1.193
+342
+2.000
+6.747
+2.755
+1.638
+520
+C. Rechthebbenden uit het overschot van het boekjaar
+0
+0
+0
+0
+0
+0
+0
+370
+
+=== p371 ===
+Zottegem
+T2 : Ontvangsten en uitgaven naar economische aard
+II. Exploitatieontvangsten
+Rek 2020
+Rek 2021
+Rek 2022
+Rek 2023
+Rek 2024
+Rek 2025
+Mjp 2025
+A. Operationele ontvangsten
+55.960.346
+56.032.166
+64.253.246
+69.415.700
+68.664.482
+71.680.600
+70.218.884
+  1. Ontvangsten uit de werking
+13.480.802
+12.261.448
+13.898.686
+14.325.464
+14.711.457
+15.532.429
+15.002.283
+  2. Fiscale ontvangsten en boetes
+21.930.151
+21.268.028
+22.230.075
+28.605.936
+26.071.334
+28.459.234
+27.674.879
+     a. Aanvullende belastingen
+20.559.825
+19.930.485
+21.086.131
+27.212.488
+24.802.944
+27.110.204
+26.376.029
+        - Opcentiemen op de onroerende voorheffing
+9.671.632
+9.550.802
+10.005.657
+11.251.769
+12.153.001
+12.287.900
+12.180.601
+        - Aanvullende belasting op de personenbelasting
+10.498.677
+9.974.977
+10.686.023
+15.536.341
+12.209.467
+14.389.674
+13.739.480
+        - Andere aanvullende belastingen
+389.517
+404.707
+394.451
+424.377
+440.476
+432.629
+455.948
+     b. Andere belastingen en boetes
+1.370.325
+1.337.542
+1.143.944
+1.393.449
+1.268.390
+1.349.030
+1.298.850
+  3. Werkingssubsidies
+19.521.720
+21.482.420
+22.941.593
+25.366.829
+26.670.861
+26.342.414
+26.507.080
+     a. Algemene werkingssubsidies
+9.943.140
+10.366.788
+11.037.901
+12.241.378
+13.303.488
+13.847.476
+13.099.112
+        - Gemeentefonds
+6.425.511
+6.800.316
+7.103.640
+7.412.700
+7.788.540
+8.085.465
+7.806.006
+        - Andere algemene werkingssubsidies
+3.517.629
+3.566.472
+3.934.260
+4.828.678
+5.514.947
+5.762.010
+5.293.106
+           - van de federale overheid
+0
+0
+8.018
+0
+0
+0
+0
+           - van de Vlaamse overheid
+3.517.629
+3.564.474
+3.926.242
+4.820.290
+5.506.583
+5.751.912
+5.293.106
+           - van de provincie
+0
+0
+0
+0
+0
+0
+0
+           - van de gemeente
+0
+0
+0
+0
+0
+0
+0
+           - van het OCMW
+0
+0
+0
+0
+0
+0
+0
+           - van andere entiteiten
+0
+1.998
+0
+8.388
+8.364
+10.098
+0
+     b. Specifieke werkingssubsidies
+9.578.580
+11.115.632
+11.903.692
+13.125.451
+13.367.373
+12.494.938
+13.407.968
+           - van de federale overheid
+2.437.668
+2.558.798
+3.154.211
+3.431.478
+3.300.851
+2.951.981
+4.317.697
+           - van de Vlaamse overheid
+6.838.385
+7.890.930
+8.172.290
+9.644.449
+9.585.329
+9.405.979
+8.968.549
+           - van de provincie
+5.750
+100.678
+0
+2.000
+63.319
+3.316
+0
+           - van de gemeente
+0
+29.376
+33.733
+35.650
+196.790
+112.964
+3.500
+           - van het OCMW
+0
+0
+0
+0
+0
+0
+0
+           - van andere entiteiten
+296.777
+535.850
+543.457
+11.874
+221.084
+20.697
+118.222
+  4. Recuperatie individuele hulpverlening
+576.317
+479.604
+554.868
+506.204
+427.414
+401.768
+441.845
+  5. Andere operationele ontvangsten
+451.356
+540.667
+4.628.024
+611.267
+783.416
+944.757
+592.798
+B. Financiële ontvangsten
+1.049.056
+1.185.324
+839.392
+1.236.809
+1.476.226
+867.748
+923.841
+C. Tussenkomst door derden in het tekort van het boekjaar
+0
+0
+0
+0
+0
+0
+0
+III. Exploitatiesaldo
+8.414.005
+6.621.788
+7.760.018
+10.273.714
+8.687.486
+9.401.564
+3.894.562
+371
+
+=== p374 ===
+Zottegem
+T2 : Ontvangsten en uitgaven naar economische aard
+I. Financieringsuitgaven
+Rek 2020
+Rek 2021
+Rek 2022
+Rek 2023
+Rek 2024
+Rek 2025
+Mjp 2025
+A. Vereffening van financiële schulden
+3.930.468
+3.934.689
+3.950.294
+3.929.943
+3.953.785
+4.077.136
+4.312.190
+  1. Periodieke aflossingen van opgenome leningen en leasings
+3.930.468
+3.934.689
+3.950.294
+3.929.943
+3.953.785
+4.077.136
+4.312.190
+  2. Niet-periodieke aflossingen van opgenome leningen en leasings
+0
+0
+0
+0
+0
+0
+0
+B. Vereffening van niet-financiële schulden
+0
+0
+0
+0
+0
+0
+0
+C. Toegestane leningen en betalingsuitstel
+176.195
+111.000
+230.842
+483.774
+538.913
+139.900
+431.178
+  1. Toegestane leningen
+176.195
+111.000
+230.842
+483.774
+538.913
+139.900
+431.178
+        - aan autonome provinciebedrijven (APB)
+0
+0
+0
+0
+0
+0
+0
+        - aan autonome gemeentebedrijven (AGB)
+176.195
+111.000
+230.842
+333.774
+538.913
+139.900
+431.178
+        - aan welzijnsverenigingen
+0
+0
+0
+0
+0
+0
+0
+        - aan andere OCMW-verenigingen
+0
+0
+0
+0
+0
+0
+0
+        - aan de politiezone
+0
+0
+0
+0
+0
+0
+0
+        - aan de hulpverleningzone
+0
+0
+0
+0
+0
+0
+0
+        - aan intergemeentelijke samenwerkingsverbanden (IGS)
+0
+0
+0
+0
+0
+0
+0
+        - aan besturen van de eredienst
+0
+0
+0
+0
+0
+0
+0
+        - aan niet-confessionele levensbeschouwelijke gemeenschappen
+0
+0
+0
+0
+0
+0
+0
+        - aan andere begunstigden
+0
+0
+0
+150.000
+0
+0
+0
+  2. Toegestaan betalingsuitstel
+0
+0
+0
+0
+0
+0
+0
+D. Vooruitbetalingen
+0
+0
+0
+0
+0
+0
+0
+E. Kapitaalsverminderingen
+0
+0
+0
+0
+0
+0
+0
+374
+
+=== p393 ===
+Zottegem
+T4 : Evolutie van de financiële schulden
+Financiële schulden op 31 december
+Rek 2020
+Rek 2021
+Rek 2022
+Rek 2023
+Rek 2024
+Rek 2025
+A. Financiële schulden op lange termijn
+58.203.824
+56.753.445
+52.823.226
+48.869.717
+47.292.581
+43.239.794
+  1. Financiële schulden op 1 januari
+62.138.542
+58.203.824
+56.753.445
+52.823.226
+48.869.717
+47.292.581
+  2. Nieuwe leningen
+0
+2.500.000
+0
+0
+2.500.000
+0
+  3. Aflossingen
+0
+0
+0
+0
+0
+0
+  4. Overboekingen
+-3.934.718
+-3.950.379
+-3.930.219
+-3.953.509
+-4.077.136
+-4.052.786
+  5. Andere mutaties
+0
+0
+0
+0
+0
+0
+B. Financiële schulden op LT die binnen het jaar vervallen
+3.934.604
+3.950.294
+3.930.219
+3.953.785
+4.077.136
+4.052.786
+  1. Financiële schulden op 1 januari
+3.930.355
+3.934.604
+3.950.294
+3.930.219
+3.953.785
+4.077.136
+  2. Aflossingen
+-3.930.468
+-3.934.689
+-3.950.294
+-3.929.943
+-3.953.785
+-4.077.136
+  3. Overboekingen
+3.934.718
+3.950.379
+3.930.219
+3.953.509
+4.077.136
+4.052.786
+  4. Andere mutaties
+0
+0
+0
+0
+0
+0
+C. Financiële schulden op korte termijn
+1.250.000
+0
+0
+0
+0
+2.750.000
+Totaal financiële schulden
+63.388.428
+60.703.739
+56.753.445
+52.823.501
+51.369.717
+50.042.581
+393

@@ -18549,3 +18549,46 @@ bud_bo_agb_bbr_2025,city_bocholt,2025,-2396673,,,outturn,src_bocholt_jr2025,stro
 bud_bo_pl_costs_2025,city_bocholt,2025,26461047,,,outturn,src_bocholt_jr2025,strong,Staat kosten total 26.461m 2025; tick868
 bud_bo_pl_opbrengsten_2025,city_bocholt,2025,26890985,,,outturn,src_bocholt_jr2025,strong,Staat opbrengsten total 26.891m 2025; tick868
 bud_bo_pl_result_2025,city_bocholt,2025,429938,,,outturn,src_bocholt_jr2025,strong,Boekhoudkundig overschot +0.430m 2025; tick868
+bud_zo_assets_2025,city_zottegem,2025,167276770,,,stock,src_zottegem_jr2025,strong,Consol stad+OCMW total assets YE2025 167.277m; tick869
+bud_zo_equity_2025,city_zottegem,2025,76173193,,,stock,src_zottegem_jr2025,strong,Nettoactief YE2025 76.173m; tick869
+bud_zo_debt_total_2025,city_zottegem,2025,91103576,,,stock,src_zottegem_jr2025,strong,Schulden total YE2025 91.104m; tick869
+bud_zo_fin_debt_2025,city_zottegem,2025,50042581,,,stock,src_zottegem_jr2025,strong,Financiele schulden total YE2025 50.043m (LT 43.240 + ST due 4.053 + ST 2.750); tick869
+bud_zo_fin_debt_lt_2025,city_zottegem,2025,43239794,,,stock,src_zottegem_jr2025,strong,Financiele schulden LT YE2025 43.240m; tick869
+bud_zo_fin_debt_st_due_2025,city_zottegem,2025,4052786,,,stock,src_zottegem_jr2025,strong,Fin schulden LT binnen jaar YE2025 4.053m; tick869
+bud_zo_fin_debt_st_2025,city_zottegem,2025,2750000,,,stock,src_zottegem_jr2025,strong,Financiele schulden KT (thesauriebewijzen) YE2025 2.750m; tick869
+bud_zo_pension_prov_2025,city_zottegem,2025,28140418,,,stock,src_zottegem_jr2025,strong,Pensioenvoorzieningen YE2025 28.140m; tick869
+bud_zo_cash_2025,city_zottegem,2025,2091594,,,stock,src_zottegem_jr2025,strong,Liquide middelen YE2025 2.092m; tick869
+bud_zo_cap_subs_2025,city_zottegem,2025,34233972,,,stock,src_zottegem_jr2025,strong,Kapitaalsubsidies YE2025 34.234m; tick869
+bud_zo_fva_igs_2025,city_zottegem,2025,24462788,,,stock,src_zottegem_jr2025,strong,Fin VA IGS YE2025 24.463m; tick869
+bud_zo_onbeschikbaar_2025,city_zottegem,2025,240000,,,stock,src_zottegem_jr2025,strong,Onbeschikbare gelden YE2025 0.240m; tick869
+bud_zo_cumul_deficit_2025,city_zottegem,2025,21449068,,,stock,src_zottegem_jr2025,strong,Gecumuleerd tekort absolute YE2025 21.449m; tick869
+bud_zo_expl_rec_2025,city_zottegem,2025,72548348,,,outturn,src_zottegem_jr2025,strong,Exploitatieontvangsten 72.548m 2025; tick869
+bud_zo_expl_exp_2025,city_zottegem,2025,63146784,,,outturn,src_zottegem_jr2025,strong,Exploitatieuitgaven 63.147m 2025; tick869
+bud_zo_expl_saldo_2025,city_zottegem,2025,9401564,,,outturn,src_zottegem_jr2025,strong,Exploitatiesaldo +9.402m 2025; tick869
+bud_zo_invest_exp_2025,city_zottegem,2025,10051804,,,outturn,src_zottegem_jr2025,strong,Investeringsuitgaven 10.052m 2025; tick869
+bud_zo_invest_rec_2025,city_zottegem,2025,1136822,,,outturn,src_zottegem_jr2025,strong,Investeringsontvangsten 1.137m 2025; tick869
+bud_zo_invest_saldo_2025,city_zottegem,2025,-8914982,,,outturn,src_zottegem_jr2025,strong,Investeringssaldo -8.915m 2025; tick869
+bud_zo_fin_rec_2025,city_zottegem,2025,406374,,,outturn,src_zottegem_jr2025,strong,Financieringsontvangsten 0.406m 2025; tick869
+bud_zo_fin_exp_2025,city_zottegem,2025,4217036,,,outturn,src_zottegem_jr2025,strong,Financieringsuitgaven 4.217m 2025; tick869
+bud_zo_fin_saldo_2025,city_zottegem,2025,-3810661,,,outturn,src_zottegem_jr2025,strong,Financieringssaldo -3.811m 2025; tick869
+bud_zo_budget_result_2025,city_zottegem,2025,-3324079,,,outturn,src_zottegem_jr2025,strong,Budgettair resultaat boekjaar -3.324m 2025; tick869
+bud_zo_bbr_2025,city_zottegem,2025,3881045,,,outturn,src_zottegem_jr2025,strong,Beschikbaar budgettair resultaat 3.881m YE2025; tick869
+bud_zo_afm_2025,city_zottegem,2025,6545571,,,outturn,src_zottegem_jr2025,strong,Autofinancieringsmarge AFM +6.546m 2025 (J2 schema); tick869
+bud_zo_afm_corr_2025,city_zottegem,2025,6513130,,,outturn,src_zottegem_jr2025,strong,Gecorrigeerde AFM +6.513m 2025; tick869
+bud_zo_personnel_2025,city_zottegem,2025,37321210,,,outturn,src_zottegem_jr2025,strong,Personeelsuitgaven/bezold 37.321m 2025 (incl onderwijs other-gov 5.635m); tick869
+bud_zo_personnel_onderwijs_other_2025,city_zottegem,2025,5634828,,,outturn,src_zottegem_jr2025,strong,Onderwijzend personeel ten laste andere overheden 5.635m 2025; tick869
+bud_zo_goederen_diensten_2025,city_zottegem,2025,12567138,,,outturn,src_zottegem_jr2025,strong,Goederen en diensten 12.567m 2025; tick869
+bud_zo_toelagen_2025,city_zottegem,2025,7878581,,,outturn,src_zottegem_jr2025,strong,Toegestane werkingssubsidies 7.879m 2025; tick869
+bud_zo_toelagen_police_2025,city_zottegem,2025,4291675,,,outturn,src_zottegem_jr2025,strong,Toelage politiezone 4.292m 2025; tick869
+bud_zo_toelagen_fire_2025,city_zottegem,2025,826210,,,outturn,src_zottegem_jr2025,strong,Toelage hulpverleningszone 0.826m 2025; tick869
+bud_zo_toelagen_agb_2025,city_zottegem,2025,1569288,,,outturn,src_zottegem_jr2025,strong,Toelage eigen AGB 1.569m 2025; tick869
+bud_zo_toelagen_other_2025,city_zottegem,2025,947607,,,outturn,src_zottegem_jr2025,strong,Toelagen andere begunstigden 0.948m 2025 FOI-adjacent; tick869
+bud_zo_ocmw_aid_2025,city_zottegem,2025,3650105,,,outturn,src_zottegem_jr2025,strong,OCMW individuele hulpverlening 3.650m 2025; tick869
+bud_zo_fiscal_2025,city_zottegem,2025,28459234,,,outturn,src_zottegem_jr2025,strong,Fiscale ontvangsten en boetes 28.459m 2025; tick869
+bud_zo_gemeentefonds_2025,city_zottegem,2025,8085465,,,outturn,src_zottegem_jr2025,strong,Gemeentefonds 8.085m 2025; tick869
+bud_zo_new_loans_lt_2025,city_zottegem,2025,0,,,outturn,src_zottegem_jr2025,strong,Nieuwe LT leningen 0 2025 (debt declining); tick869
+bud_zo_st_treasury_2025,city_zottegem,2025,2750000,,,stock,src_zottegem_jr2025,strong,KT financiele schulden/thesauriebewijzen 2.750m YE2025 FOI-adjacent; tick869
+bud_zo_invest_subs_granted_2025,city_zottegem,2025,1970851,,,outturn,src_zottegem_jr2025,strong,Toegestane investeringssubsidies 1.971m 2025 (eredienst 1.197m FOI-adjacent); tick869
+bud_zo_pl_costs_2025,city_zottegem,2025,73494311,,,outturn,src_zottegem_jr2025,strong,Staat kosten total 73.494m 2025; tick869
+bud_zo_pl_opbrengsten_2025,city_zottegem,2025,73834412,,,outturn,src_zottegem_jr2025,strong,Staat opbrengsten total 73.834m 2025; tick869
+bud_zo_pl_result_2025,city_zottegem,2025,340100,,,outturn,src_zottegem_jr2025,strong,Boekhoudkundig overschot +0.340m 2025; tick869

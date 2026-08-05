@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T07:00:00Z,rq_868,868,no,tick868 Bocholt JR2025 dual Halle; FOI gap_bocholt_igs_agb_l5; next rq_869 residual dual L5; progress@870 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T07:30:00Z,rq_869,869,no,tick869 Zottegem JR2025 dual Bocholt; FOI gap_zottegem_debt_st_l5; next rq_870 progress@870 then rq_871 residual dual L5; rq_116 deferred
