@@ -13619,3 +13619,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1034** residual dual L5 (Ravels / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 6
 
+
+### Tick 1034 - 2026-08-10T06:15:00Z
+
+- Unit: **rq_1034** (FOI-adjacent residual dual - **Gemeente+OCMW Ravels Jaarrekening 2025** + Oud-Turnhout dual residual)
+- Found (strong primary BBC JR2025 267p; KBO 0207.504.378 / OCMW 0212.209.967; AD Chris Bax; FD Isabel Byns; Gemeentelaan 60 / Dreef 19; GR 22.06.2026):
+  - Assets **EUR164.34m HIGH** / equity **EUR153.60m** / debt total **EUR10.74m JUMP** (pension-driven) / fin debt **EUR1.12m LOW** lease-only (was **EUR0.882m**)
+  - New loans **EUR0.353m LOW** lease / repayments **EUR0.114m**
+  - Cash **EUR25.79m VERY HIGH JUMP** (was **EUR21.83m**) / pension **EUR4.76m JUMP VERY HIGH FOI** (was **EUR1.47m** **+EUR3.29m**) / FVA IGS **EUR11.83m** / leasing MVA **EUR1.12m**
+  - Exploitatie: ontvangsten **EUR34.15m** / uitgaven **EUR27.25m** / saldo **+EUR6.90m VERY STRONG**
+  - AFM **+EUR6.86m VERY STRONG** / BBR **EUR22.49m VERY HIGH** / budget **+EUR3.30m STRONG** / cum BR **EUR24.02m** / P&L **-EUR0.327m NEG FOI**
+  - Personnel **EUR15.63m JUMP** (edu pass-through **EUR5.41m JUMP**) / toelagen **EUR2.49m DROP FOI** (police **EUR1.07m DROP** was **EUR1.90m** inhaal **-EUR0.93m** / fire **EUR0.913m** / other **EUR0.465m**)
+  - Invest **EUR4.60m** vs MJP **EUR21.99m UNDERSPEND HIGH FOI** / invest-subs **EUR0.603m** / **TM TaaS trajectcontrole ~EUR0.778m FOI** / andere belastingen **EUR2.91m JUMP FOI** (was **EUR1.52m**)
+  - OCMW expl gap **-EUR0.915m FOI** (cover not extractable from image T5) 
+- Dual: Oud-Turnhout assets **EUR71.64m** / new loans **EUR5.88m** / budget **-EUR2.50m** (tick1033) - not TE-additive
+- Note: Torhout still news-only; Stekene 404; Balen OCR; Vorselaar docs-only; Beerse/Kalmthout/Essen/Oosterzele residual next optional
+- Wrote: budgets +50 (bud_rav_*); commitments +6; leaderboard +8; sources +1; entity city_ravels; FOI **gap_rav_pension_police_invest_tmtaas_l5** prio9 ready + draft; key only (PDF ~11MB not stored in git); rq_1034=done; spawn **rq_1035**; ticks=1034
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1035** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / Kalmthout / other); deferred **rq_116**; progress@1040 in 5
+

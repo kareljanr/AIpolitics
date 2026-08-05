@@ -25450,3 +25450,53 @@ bud_out_agb_capital_inject_2025,city_oud_turnhout,2025,600000,,,bbc_jr_realized,
 bud_out_agb_bbr_2025,city_oud_turnhout,2025,84459,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB BBR 0.084m dual; tick1033
 bud_out_agb_afm_2025,city_oud_turnhout,2025,212017,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB AFM +0.212m dual; tick1033
 bud_out_agb_afm_corr_2025,city_oud_turnhout,2025,212017,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB gecorr AFM +0.212m dual; tick1033
+bud_rav_assets_2025,city_ravels,2025,164338645,,,bbc_jr_realized,src_ravels_jr2025,strong,Assets YE2025 164.34m JUMP HIGH (was 160.90m); tick1034
+bud_rav_equity_2025,city_ravels,2025,153603015,,,bbc_jr_realized,src_ravels_jr2025,strong,Nettoactief YE2025 153.60m slight DROP (was 154.42m); tick1034
+bud_rav_debt_total_2025,city_ravels,2025,10735630,,,bbc_jr_realized,src_ravels_jr2025,strong,Total schulden YE2025 10.74m JUMP (was 6.48m; pension provisions drive); tick1034
+bud_rav_fin_debt_2025,city_ravels,2025,1120947,,,bbc_jr_realized,src_ravels_jr2025,strong,Fin debt total YE2025 1.12m LOW lease-class (was 0.882m T4); tick1034
+bud_rav_fin_debt_lt_2025,city_ravels,2025,997375,,,bbc_jr_realized,src_ravels_jr2025,strong,Fin debt LT YE2025 0.997m; tick1034
+bud_rav_fin_debt_st_due_2025,city_ravels,2025,123572,,,bbc_jr_realized,src_ravels_jr2025,strong,Fin debt ST due YE2025 0.124m; tick1034
+bud_rav_new_loans_2025,city_ravels,2025,353187,,,bbc_jr_realized,src_ravels_jr2025,strong,Nieuwe leningen 2025 0.353m LOW lease-only; tick1034
+bud_rav_aflossingen_2025,city_ravels,2025,114382,,,bbc_jr_realized,src_ravels_jr2025,strong,Periodieke aflossingen 2025 0.114m LOW; tick1034
+bud_rav_cash_2025,city_ravels,2025,25785971,,,bbc_jr_realized,src_ravels_jr2025,strong,Liquide middelen YE2025 25.79m VERY HIGH JUMP (was 21.83m); tick1034
+bud_rav_pension_2025,city_ravels,2025,4758558,,,bbc_jr_realized,src_ravels_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.76m JUMP VERY HIGH FOI (was 1.47m +3.29m); tick1034
+bud_rav_cap_subs_2025,city_ravels,2025,26369809,,,bbc_jr_realized,src_ravels_jr2025,strong,Kapitaalsubsidies YE2025 26.37m; tick1034
+bud_rav_fva_total_2025,city_ravels,2025,11934353,,,bbc_jr_realized,src_ravels_jr2025,strong,FVA total YE2025 11.93m; tick1034
+bud_rav_fva_igs_2025,city_ravels,2025,11833280,,,bbc_jr_realized,src_ravels_jr2025,strong,FVA IGS YE2025 11.83m; tick1034
+bud_rav_leasing_mva_2025,city_ravels,2025,1120947,,,bbc_jr_realized,src_ravels_jr2025,strong,Leasing MVA YE2025 1.12m (=fin debt); tick1034
+bud_rav_expl_rec_2025,city_ravels,2025,34148541,,,bbc_jr_realized,src_ravels_jr2025,strong,Exploitatieontvangsten 34.15m; tick1034
+bud_rav_expl_exp_2025,city_ravels,2025,27247474,,,bbc_jr_realized,src_ravels_jr2025,strong,Exploitatieuitgaven 27.25m; tick1034
+bud_rav_expl_saldo_2025,city_ravels,2025,6901067,,,bbc_jr_realized,src_ravels_jr2025,strong,Exploitatiesaldo +6.90m VERY STRONG; tick1034
+bud_rav_invest_exp_2025,city_ravels,2025,4595436,,,bbc_jr_realized,src_ravels_jr2025,strong,Investeringsuitgaven 4.60m vs MJP 21.99m UNDERSPEND HIGH FOI; tick1034
+bud_rav_invest_rec_2025,city_ravels,2025,444014,,,bbc_jr_realized,src_ravels_jr2025,strong,Investeringsontvangsten 0.444m; tick1034
+bud_rav_invest_saldo_2025,city_ravels,2025,-4151423,,,bbc_jr_realized,src_ravels_jr2025,strong,Investeringssaldo -4.15m; tick1034
+bud_rav_mjp_invest_planned_2025,city_ravels,2025,21988635,,,bbc_jr_realized,src_ravels_jr2025,strong,MJP invest planned 21.99m vs realized 4.60m underspend HIGH FOI; tick1034
+bud_rav_afm_2025,city_ravels,2025,6862794,,,bbc_jr_realized,src_ravels_jr2025,strong,AFM +6.86m VERY STRONG; tick1034
+bud_rav_afm_corr_2025,city_ravels,2025,6906605,,,bbc_jr_realized,src_ravels_jr2025,strong,Gecorrigeerde AFM +6.91m VERY STRONG; tick1034
+bud_rav_bbr_2025,city_ravels,2025,22492947,,,bbc_jr_realized,src_ravels_jr2025,strong,BBR beschikbaar +22.49m VERY HIGH; tick1034
+bud_rav_budget_result_2025,city_ravels,2025,3303671,,,bbc_jr_realized,src_ravels_jr2025,strong,Budgettair resultaat +3.30m STRONG; tick1034
+bud_rav_cum_br_2025,city_ravels,2025,24021833,,,bbc_jr_realized,src_ravels_jr2025,strong,Gecumuleerd budgettair resultaat +24.02m; tick1034
+bud_rav_onbeschikbaar_2025,city_ravels,2025,1528886,,,bbc_jr_realized,src_ravels_jr2025,strong,Onbeschikbare gelden 1.53m; tick1034
+bud_rav_pnl_2025,city_ravels,2025,-327041,,,bbc_jr_realized,src_ravels_jr2025,strong,P&L -0.327m NEG FOI residual (pension provision path); tick1034
+bud_rav_ge_expl_exp_2025,city_ravels,2025,22893993,,,bbc_jr_realized,src_ravels_jr2025,strong,GE exploitatieuitgaven 22.89m; tick1034
+bud_rav_ge_expl_rec_2025,city_ravels,2025,30709785,,,bbc_jr_realized,src_ravels_jr2025,strong,GE exploitatieontvangsten 30.71m; tick1034
+bud_rav_ocmw_expl_exp_2025,city_ravels,2025,4353480,,,bbc_jr_realized,src_ravels_jr2025,strong,OCMW exploitatieuitgaven 4.35m FOI; tick1034
+bud_rav_ocmw_expl_rec_2025,city_ravels,2025,3438756,,,bbc_jr_realized,src_ravels_jr2025,strong,OCMW exploitatieontvangsten 3.44m; tick1034
+bud_rav_ocmw_expl_gap_2025,city_ravels,2025,-914724,,,bbc_jr_realized,src_ravels_jr2025,strong,OCMW expl gap -0.915m HIGH FOI residual (cover not in extractable T5 text); tick1034
+bud_rav_equity_cum_2025,city_ravels,2025,14335328,,,bbc_jr_realized,src_ravels_jr2025,strong,Consol equity cum +14.34m DROP (was 14.66m); tick1034
+bud_rav_personnel_2025,city_ravels,2025,15632774,,,bbc_jr_realized,src_ravels_jr2025,strong,Bezoldigingen 15.63m JUMP incl education pass-through 5.41m JUMP; tick1034
+bud_rav_edu_pass_through_2025,city_ravels,2025,5414915,,,bbc_jr_realized,src_ravels_jr2025,strong,Onderwijzend personeel ten laste andere overheden 5.41m JUMP (was 3.87m); tick1034
+bud_rav_toelagen_2025,city_ravels,2025,2485554,,,bbc_jr_realized,src_ravels_jr2025,strong,Toegestane werkingssubsidies 2.49m DROP FOI residual; tick1034
+bud_rav_toelagen_police_2025,city_ravels,2025,1071787,,,bbc_jr_realized,src_ravels_jr2025,strong,Toelage politiezone 1.07m DROP HIGH FOI (was 1.90m; inhaal -0.93m documented); tick1034
+bud_rav_toelagen_fire_2025,city_ravels,2025,912807,,,bbc_jr_realized,src_ravels_jr2025,strong,Toelage hulpverleningszone 0.913m; tick1034
+bud_rav_toelagen_igs_2025,city_ravels,2025,34629,,,bbc_jr_realized,src_ravels_jr2025,strong,Toelage IGS 0.035m FOI; tick1034
+bud_rav_toelagen_other_2025,city_ravels,2025,465279,,,bbc_jr_realized,src_ravels_jr2025,strong,Toelage andere begunstigden 0.465m FOI; tick1034
+bud_rav_ocmw_aid_2025,city_ravels,2025,1030200,,,bbc_jr_realized,src_ravels_jr2025,strong,OCMW individuele hulp 1.03m; tick1034
+bud_rav_fiscal_2025,city_ravels,2025,13760356,,,bbc_jr_realized,src_ravels_jr2025,strong,Fiscale opbrengsten 13.76m JUMP; tick1034
+bud_rav_fiscal_ov_2025,city_ravels,2025,6029330,,,bbc_jr_realized,src_ravels_jr2025,strong,Opcentiemen OV 6.03m; tick1034
+bud_rav_fiscal_pb_2025,city_ravels,2025,4501481,,,bbc_jr_realized,src_ravels_jr2025,strong,Aanvullende PB 4.50m; tick1034
+bud_rav_fiscal_other_2025,city_ravels,2025,2906081,,,bbc_jr_realized,src_ravels_jr2025,strong,Andere belastingen/boetes 2.91m JUMP HIGH FOI (was 1.52m; trajectcontrole path); tick1034
+bud_rav_gemeentefonds_2025,city_ravels,2025,5916370,,,bbc_jr_realized,src_ravels_jr2025,strong,Gemeentefonds 5.92m; tick1034
+bud_rav_interest_2025,city_ravels,2025,17387,,,bbc_jr_realized,src_ravels_jr2025,strong,Intresten op schulden 0.017m LOW; tick1034
+bud_rav_invest_subs_granted_2025,city_ravels,2025,602574,,,bbc_jr_realized,src_ravels_jr2025,strong,Toegestane invest-subs 0.603m FOI (IGS 0.319 fire 0.192 other 0.091); tick1034
+bud_rav_tm_taas_2025,city_ravels,2025,777971,,,bbc_jr_realized,src_ravels_jr2025,strong,TM TaaS trajectcontrole uitgaven ~0.778m FOI residual (doc toelichting); tick1034
