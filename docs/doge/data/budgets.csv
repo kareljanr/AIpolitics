@@ -29157,3 +29157,30 @@ bud_zel_loans_granted_agb_2025,city_zele,2025,208193,,,bbc_jr_realized,src_zele_
 bud_zel_interest_2025,city_zele,2025,906389,,,bbc_jr_realized,src_zele_jr2025,strong,Intresten op leningen 0.906m 2025; tick1109
 bud_zel_goederen_2025,city_zele,2025,9072064,,,bbc_jr_realized,src_zele_jr2025,strong,Goederen en diensten T2 9.072m 2025; tick1109
 bud_zel_mjp_invest_exp_2025,city_zele,2025,6396954,,,bbc_jr_realized,src_zele_jr2025,strong,MJP investeringsuitgaven 6.397m 2025 vs real 10.331m OVER FOI; tick1109
+bud_schagb_assets_2025,agb_schelle_fluctus,2025,1207624,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,AGB assets YE2025 1.208m slight DROP (was 1.249m); tick1110
+bud_schagb_equity_2025,agb_schelle_fluctus,2025,624259,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Nettoactief YE2025 0.624m JUMP (was 0.544m); tick1110
+bud_schagb_debt_total_2025,agb_schelle_fluctus,2025,583365,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Total schulden YE2025 0.583m DECLINE (was 0.705m); tick1110
+bud_schagb_fin_debt_2025,agb_schelle_fluctus,2025,530865,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Fin debt (leningen) YE2025 0.531m DECLINE FOI (was 0.607m); tick1110
+bud_schagb_fin_debt_lt_2025,agb_schelle_fluctus,2025,406330,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Fin debt LT YE2025 0.406m; tick1110
+bud_schagb_fin_debt_st_2025,agb_schelle_fluctus,2025,124535,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Fin debt ST due YE2025 0.125m; tick1110
+bud_schagb_new_loans_2025,agb_schelle_fluctus,2025,53068,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,New loans 0.053m modest; tick1110
+bud_schagb_repayments_2025,agb_schelle_fluctus,2025,129694,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Periodieke aflossingen 0.130m; tick1110
+bud_schagb_cash_2025,agb_schelle_fluctus,2025,51165,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Cash YE2025 0.051m CRITICAL LOW FOI; tick1110
+bud_schagb_expl_ontvangsten_2025,agb_schelle_fluctus,2025,883586,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Exploitatie ontvangsten 0.884m; tick1110
+bud_schagb_expl_uitgaven_2025,agb_schelle_fluctus,2025,663339,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Exploitatie uitgaven 0.663m; tick1110
+bud_schagb_expl_saldo_2025,agb_schelle_fluctus,2025,220247,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Exploitatiesaldo +0.220m STRONG; tick1110
+bud_schagb_afm_2025,agb_schelle_fluctus,2025,90553,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,AFM +0.091m (was near-zero MJP 0.0003m); tick1110
+bud_schagb_afm_gecorr_2025,agb_schelle_fluctus,2025,171647,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,AFM gecorrigeerd +0.172m VERY STRONG; tick1110
+bud_schagb_bbr_2025,agb_schelle_fluctus,2025,173792,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Beschikbaar budgettair resultaat 0.174m; tick1110
+bud_schagb_budget_result_2025,agb_schelle_fluctus,2025,87636,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Budgettair resultaat +0.088m POS; tick1110
+bud_schagb_pnl_2025,agb_schelle_fluctus,2025,84951,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,P&L overschot +0.085m FLIP FOI (was -0.021m); tick1110
+bud_schagb_personnel_2025,agb_schelle_fluctus,2025,373770,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Personeel 0.374m DECLINE FOI (was 0.513m); tick1110
+bud_schagb_prijssub_2025,agb_schelle_fluctus,2025,565988,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Prijssubsidie gemeente 0.566m FOI residual; tick1110
+bud_schagb_werkingssub_2025,agb_schelle_fluctus,2025,101349,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Werkingssubsidies 0.101m; tick1110
+bud_schagb_invest_uitgaven_2025,agb_schelle_fluctus,2025,53068,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Investeringsuitgaven 0.053m vs MJP 0.206m UNDERSPEND FOI; tick1110
+bud_schagb_invest_mjp_2025,agb_schelle_fluctus,2025,206000,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,MJP invest uitgaven 0.206m; tick1110
+bud_schagb_omzet_2025,agb_schelle_fluctus,2025,708225,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,Omzet 0.708m DROP -15.7pct FOI (was 0.840m); tick1110
+bud_schagb_mjp_debt_2026,agb_schelle_fluctus,2025,1911119,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,MJP fin debt YE2026 1.911m MASSIVE RAMP FOI; tick1110
+bud_schagb_mjp_new_2026,agb_schelle_fluctus,2025,1516000,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,MJP new loans 2026 1.516m MASSIVE FOI; tick1110
+bud_schagb_mjp_debt_2027,agb_schelle_fluctus,2025,5844135,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,MJP fin debt YE2027 5.844m MASSIVE RAMP FOI; tick1110
+bud_schagb_mjp_new_2027,agb_schelle_fluctus,2025,4016000,,,bbc_jr_realized,src_schelle_agb_jr2025,strong,MJP new loans 2027 4.016m MASSIVE FOI; tick1110

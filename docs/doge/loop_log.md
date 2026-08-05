@@ -15128,3 +15128,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1110** progress decade@1110 then residual dual L5; deferred **rq_116**
 
+
+### Tick 1110 - 2026-08-11T20:30:00Z
+
+- Unit: **rq_1110** (**PROGRESS@1110 decade** + FOI-adjacent residual dual - **AGB Fluctus Schelle Jaarrekening 2025** Entity II + Zele dual residual)
+- Progress@1110: refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (layers A–E; inventory; residual 1101-1110 map). Pure annual waste top10 **stable** (GIP/fossil/cars/cheque/reporté).
+- Found (strong primary BBC JR2025 AGB 144p text; schelle.be; GR 18.06.2026 pub 01.07.2026; KBO 0879.775.746; Fabiolalaan 55 2627; AD Leen Wyn FD Nicole Rypens; AGB only — GE+OCMW JR2025 **not public** this tick, JR2024 only on portal):
+  - Assets **EUR1.208m** slight DROP (was **EUR1.249m**) / equity **EUR0.624m JUMP** (was **EUR0.544m**) / debt total **EUR0.583m DECLINE** / fin debt **EUR0.531m DECLINE FOI** (LT **EUR0.406m** / ST due **EUR0.125m**; was **EUR0.607m**)
+  - New loans **EUR0.053m** / repayments **EUR0.130m**
+  - Cash **EUR0.051m CRITICAL LOW FOI** (was **EUR0.052m**)
+  - Exploitatie: ontvangsten **EUR0.884m** / uitgaven **EUR0.663m** / saldo **+EUR0.220m STRONG**
+  - AFM **+EUR0.091m** (gecorr **+EUR0.172m VERY STRONG**; MJP AFM was ~**EUR0.0003m**) / BBR **EUR0.174m** / budget **+EUR0.088m POS** / P&L **+EUR0.085m FLIP FOI** (was **−EUR0.021m**)
+  - Omzet **EUR0.708m DROP −15.7% FOI** (was **EUR0.840m**) / personeel **EUR0.374m DROP FOI** (was **EUR0.513m**)
+  - **Prijssubsidie gemeente EUR0.566m FOI** / werkingssubsidies **EUR0.101m**
+  - Invest **EUR0.053m** vs MJP **EUR0.206m UNDERSPEND FOI**
+  - **MJP T4 debt ramp MASSIVE FOI:** YE2026 fin debt **EUR1.911m** (new **EUR1.516m**) → YE2027 **EUR5.844m** (new **EUR4.016m**) ≈ **11×** 2025 stock
+- Dual: Zele pension/loans/OCMW FULL/AGB JUMP (tick1109) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only (toelagen **EUR2.30m** 2025 partial; no full BBC J2/J4 public) / Kalmthout / Bornem JR2024-only / Schelle GE+OCMW JR2025 if published residual next; progress@1120 in 10
+- Wrote: budgets +27 (bud_schagb_*); commitments +7; leaderboard +9; sources +1; entities agb_schelle_fluctus + city_schelle; FOI **gap_sch_agb_debt_ramp_prijssub_geocmw_l5** prio9 ready + draft; progress@1110 + waste top10; PDF primary (not committed 4.4MB); rq_1110=done; spawn **rq_1111**; ticks=1110
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1111** residual dual L5; deferred **rq_116**; progress@1120 in 10
