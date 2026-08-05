@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T18:45:00Z,rq_940,940,no,tick940 progress@940 after VL residual 931-939 (Deinze 321m MTN 10.8m Ichtegem bank 11m Entity II AGB dual Affligem pension); pure top10 stable; next residual dual L5 rq_941; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T19:15:00Z,rq_941,941,no,tick941 AGB Deinze JR2025 dual city Deinze; FOI gap_agd_loans_phishing_prijssubsidie_l5 prio8 fin debt 14.5m new loans 0.80m phishing fin costs 0.41m P&L -0.19m; next residual dual L5 rq_942; rq_116 deferred

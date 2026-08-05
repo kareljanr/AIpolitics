@@ -1,0 +1,40 @@
+AGB Stad Deinze Jaarrekening 2025 (BBC 254p)
+PDF: https://www.deinze.be/file_uploads/86394.pdf?sc=36A77C1705C059140DADAB7D115A2926
+Portal: https://www.deinze.be/jaarrekening-agb-stad-deinze
+KBO BE 0837.741.785; NIS 44011
+RvB 22.06.2026 / GR 23.06.2026; published 26.06.2026
+Tick 941
+Note: full PDF ~41MB not stored in git; primary URL
+
+BALANCE J4 YE2025 / YE2024
+assets              16807882 / 18139115
+equity              1018039 / 1198515
+debt total          15789843 / 16940600
+fin debt total      14460724 / 14965140  DECLINING (LT 13159777 + ST due 1300947)
+cash                1690162 / 1997208  DROP FOI
+MVA                 14740388
+cap subs            20400
+FVA                 1250
+
+J2 2025
+expl rec/exp/saldo  6585112 / 5234588 / +1350524
+invest exp/rec      796531 / 17850
+fin rec (new loans) 796531
+fin exp (aflossingen) 1300947
+budget result       +67426
+BBR                 1107606
+AFM                 +49576
+AFM corr            +153312
+new loans           796531 FOI (matches invest; MJP planned invest 2.90m underspend)
+
+J5 / T2
+personnel           271727
+goederen            4739621 (J5) / 4725348 (T2)
+werkingssubsidies   212597 (VL specific; gemeente general 0 since 2022)
+prijssubsidie       lower 2025 FOI (narrative; not as werkingsubsidie line)
+P&L                 -185726 FOI
+payout rechthebbenden 7500 (was 315000 2024 FOI)
+fin costs J5        405696 FOI JUMP (Strabag phishing impairment accounting narrative; T2 fin uitg 34530)
+werkingsontvangsten 5689794
+
+Dual city Deinze tick939: assets 321.3m fin debt 56.6m rising new loans 10.8m MTN toelagen 15.3m

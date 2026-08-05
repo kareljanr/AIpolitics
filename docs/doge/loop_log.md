@@ -11891,3 +11891,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@940; doge_waste_top10_current.md as-of 940; rq_940=done; spawn **rq_941** hole_fill; ticks=940
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_941** residual dual L5; deferred **rq_116**; progress@950 in 10
+
+### Tick 941 - 2026-08-07T19:15:00Z
+
+- Unit: **rq_941** (FOI-adjacent residual dual Entity II - **AGB Stad Deinze Jaarrekening 2025** + city Deinze dual)
+- Found (strong primary BBC JR2025 254p; KBO 0837.741.785; RvB/GR 22-23.06.2026):
+  - Assets **EUR16.8m** / equity **EUR1.02m** / debt total **EUR15.8m** / fin debt **EUR14.5m** (**DECLINING** from **EUR15.0m**; LT **EUR13.2m** / ST due **EUR1.30m**)
+  - **New loans EUR0.80m FOI** (matches invest) / repayments **EUR1.30m** / invest **EUR0.80m** (MJP planned **EUR2.90m**)
+  - Cash **EUR1.69m was EUR2.00m DROP**
+  - Exploitatie: ontvangsten **EUR6.59m** / uitgaven **EUR5.23m** / saldo **+EUR1.35m**
+  - AFM **+EUR0.050m** / corr AFM **+EUR0.153m** / BBR **EUR1.11m** / budget **+EUR0.067m**
+  - P&L **-EUR0.186m FOI** / payout **EUR0.0075m** (was **EUR0.315m**)
+  - **J5 fin costs EUR0.406m JUMP FOI** (Strabag **phishing** impairment narrative) / werkingsubsidies VL **EUR0.213m** / prijssubsidie lower FOI
+- Dual: city Deinze **EUR321.3m** / fin debt **EUR56.6m rising** / **new loans EUR10.8m MTN** / toelagen **EUR15.3m** (tick939) - Entity II dual map
+- Wrote: budgets +29 (bud_agd_*); commitments +4; leaderboard +7; sources +2; entity agb_deinze; FOI **gap_agd_loans_phishing_prijssubsidie_l5** prio8 ready + draft; key only (PDF ~41MB not stored); rq_941=done; spawn **rq_942**; ticks=941
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_942** residual dual L5 (Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 9

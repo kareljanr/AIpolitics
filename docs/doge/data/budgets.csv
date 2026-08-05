@@ -21207,3 +21207,32 @@ bud_dei_goederen_2025,city_deinze,2025,17216556,,,jaarrekening_realized,src_dein
 bud_dei_mjp_invest_planned_2025,city_deinze,2025,65679415,,,jaarrekening_realized,src_deinze_jr2025,strong,MJP planned invest 65.7m vs realized 19.2m large underspend FOI; tick939
 bud_dei_agb_bbr_2025,city_deinze,2025,1107606,,,jaarrekening_realized,src_deinze_jr2025,strong,Dual AGB Deinze BBR 1.11m (J2 consol Entity II); tick939
 bud_dei_agb_afm_2025,city_deinze,2025,49576,,,jaarrekening_realized,src_deinze_jr2025,strong,Dual AGB Deinze AFM +0.050m; tick939
+bud_agd_assets_2025,agb_deinze,2025,16807882,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,AGB total assets YE2025 16.8m; tick941
+bud_agd_equity_2025,agb_deinze,2025,1018039,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Nettoactief YE2025 1.02m; tick941
+bud_agd_debt_total_2025,agb_deinze,2025,15789843,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Total schulden YE2025 15.8m; tick941
+bud_agd_fin_debt_2025,agb_deinze,2025,14460724,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,T4 total financiele schulden YE2025 14.5m DECLINING (LT 13.2 + ST due 1.30); tick941
+bud_agd_fin_debt_lt_2025,agb_deinze,2025,13159777,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Financiele schulden LT YE2025 13.2m; tick941
+bud_agd_fin_debt_st_due_2025,agb_deinze,2025,1300947,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.30m; tick941
+bud_agd_fin_debt_2024,agb_deinze,2025,14965140,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,T4 fin debt YE2024 15.0m comparator; tick941
+bud_agd_cash_2025,agb_deinze,2025,1690162,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Liquide middelen YE2025 1.69m (was 2.00m DROP FOI); tick941
+bud_agd_cash_2024,agb_deinze,2025,1997208,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Liquide middelen YE2024 2.00m; tick941
+bud_agd_mva_2025,agb_deinze,2025,14740388,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Materiele vaste activa YE2025 14.7m; tick941
+bud_agd_cap_subs_2025,agb_deinze,2025,20400,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Kapitaalssubsidies YE2025 0.020m; tick941
+bud_agd_expl_rec_2025,agb_deinze,2025,6585112,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Exploitatieontvangsten 6.59m; tick941
+bud_agd_expl_exp_2025,agb_deinze,2025,5234588,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Exploitatieuitgaven 5.23m; tick941
+bud_agd_expl_saldo_2025,agb_deinze,2025,1350524,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Exploitatiesaldo +1.35m; tick941
+bud_agd_invest_exp_2025,agb_deinze,2025,796531,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Investeringsuitgaven 0.80m (MJP planned 2.90m underspend FOI); tick941
+bud_agd_new_loans_2025,agb_deinze,2025,796531,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Nieuwe leningen 0.80m FOI (matches invest financing); tick941
+bud_agd_aflossingen_2025,agb_deinze,2025,1300947,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Periodieke aflossingen 1.30m; tick941
+bud_agd_afm_2025,agb_deinze,2025,49576,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,AFM +0.050m; tick941
+bud_agd_afm_corr_2025,agb_deinze,2025,153312,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Gecorrigeerde AFM +0.153m; tick941
+bud_agd_bbr_2025,agb_deinze,2025,1107606,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Beschikbaar budgettair resultaat 1.11m; tick941
+bud_agd_budget_result_2025,agb_deinze,2025,67426,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Budgettair resultaat boekjaar +0.067m; tick941
+bud_agd_pnl_result_2025,agb_deinze,2025,-185726,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,P&L boekjaar -0.186m FOI; tick941
+bud_agd_dividend_payout_2025,agb_deinze,2025,7500,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Rechthebbenden/winstuitkering 0.0075m (was 0.315m 2024 FOI); tick941
+bud_agd_personnel_2025,agb_deinze,2025,271727,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Personeelskosten 0.272m; tick941
+bud_agd_goederen_2025,agb_deinze,2025,4739621,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Goederen en diensten 4.74m J5; tick941
+bud_agd_werking_rec_2025,agb_deinze,2025,5689794,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Ontvangsten uit de werking 5.69m (tariffs/prijssubsidie path FOI); tick941
+bud_agd_werkingsubsidies_2025,agb_deinze,2025,212597,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,Werkingssubsidies 0.213m (VL specific; gemeente general 0 FOI recon); tick941
+bud_agd_fin_costs_j5_2025,agb_deinze,2025,405696,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,J5 financiele kosten 0.406m JUMP FOI (Strabag phishing impairment narrative); tick941
+bud_agd_mjp_invest_planned_2025,agb_deinze,2025,2896595,,,jaarrekening_realized,src_deinze_agb_jr2025,strong,MJP planned invest 2.90m vs realized 0.80m FOI; tick941
