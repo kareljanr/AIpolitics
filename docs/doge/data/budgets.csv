@@ -26982,3 +26982,54 @@ bud_beg_interest_2025,city_begijnendijk,2025,276041,,,bbc_jr_realized,src_begijn
 bud_beg_invest_subs_granted_2025,city_begijnendijk,2025,105630,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Toegestane invest-subs 0.106m 2025; tick1063
 bud_beg_vorderingen_kt_2025,city_begijnendijk,2025,3170105,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Vorderingen KT YE2025 3.17m; tick1063
 bud_beg_herwaard_reserves_2025,city_begijnendijk,2025,8564599,,,bbc_jr_realized,src_begijnendijk_jr2025,strong,Herwaarderingsreserves YE2025 8.56m JUMP (+8.10m FVA IGS); tick1063
+bud_gri_assets_2025,city_grimbergen,2025,225625441,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Assets YE2025 225.63m JUMP (was 217.27m); tick1064
+bud_gri_equity_2025,city_grimbergen,2025,125643339,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Nettoactief YE2025 125.64m slight DROP (was 125.79m); tick1064
+bud_gri_debt_total_2025,city_grimbergen,2025,99982103,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Total schulden YE2025 99.98m JUMP (was 91.48m); tick1064
+bud_gri_fin_debt_2025,city_grimbergen,2025,63152884,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Fin debt total YE2025 63.15m JUMP HIGH FOI (LT 47.74 + ST due 4.91 + ST 10.50); tick1064
+bud_gri_fin_debt_lt_2025,city_grimbergen,2025,47742431,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Fin debt LT YE2025 47.74m JUMP (was 42.81m); tick1064
+bud_gri_fin_debt_st_due_2025,city_grimbergen,2025,4910453,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Fin debt ST due YE2025 4.91m; tick1064
+bud_gri_fin_debt_st_2025,city_grimbergen,2025,10500000,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Fin debt ST treasury YE2025 10.50m JUMP FOI (was 9.50m); tick1064
+bud_gri_new_loans_2025,city_grimbergen,2025,10000000,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Nieuwe leningen/leasings 10.00m MASSIVE JUMP FOI; tick1064
+bud_gri_aflossingen_2025,city_grimbergen,2025,4817295,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Periodieke aflossingen 4.82m; tick1064
+bud_gri_cash_2025,city_grimbergen,2025,1802103,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Liquide middelen YE2025 1.80m LOW thin FOI (was 1.31m); tick1064
+bud_gri_pension_2025,city_grimbergen,2025,24427806,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Pensioenvoorzieningen LT YE2025 24.43m JUMP FOI (was 22.80m); tick1064
+bud_gri_cap_subs_2025,city_grimbergen,2025,25720447,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Kapitaalsubsidies YE2025 25.72m; tick1064
+bud_gri_fva_total_2025,city_grimbergen,2025,29630510,,,bbc_jr_realized,src_grimbergen_jr2025,strong,FVA total YE2025 29.63m; tick1064
+bud_gri_fva_igs_2025,city_grimbergen,2025,25638649,,,bbc_jr_realized,src_grimbergen_jr2025,strong,FVA IGS YE2025 25.64m; tick1064
+bud_gri_leasing_mva_2025,city_grimbergen,2025,1110892,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Leasing MVA YE2025 ~1.11m (0.301+0.810); tick1064
+bud_gri_cumul_budget_2025,city_grimbergen,2025,-7241349,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 -7.24m NEG HIGH FOI; tick1064
+bud_gri_bbr_2025,city_grimbergen,2025,-7673210,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Beschikbaar budgettair resultaat YE2025 -7.67m NEG VERY HIGH FOI; tick1064
+bud_gri_onbeschikbaar_2025,city_grimbergen,2025,431861,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Onbeschikbare gelden YE2025 0.432m; tick1064
+bud_gri_expl_rec_2025,city_grimbergen,2025,85907784,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Exploitatieontvangsten 85.91m 2025 (J2); tick1064
+bud_gri_expl_exp_2025,city_grimbergen,2025,75951473,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Exploitatieuitgaven 75.95m 2025 (J2); tick1064
+bud_gri_expl_saldo_2025,city_grimbergen,2025,9956311,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Exploitatiesaldo +9.96m VERY STRONG 2025; tick1064
+bud_gri_invest_exp_2025,city_grimbergen,2025,14265201,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Investeringsuitgaven J2 14.27m vs MJP 22.81m UNDERSPEND FOI; tick1064
+bud_gri_invest_rec_2025,city_grimbergen,2025,1646599,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Investeringsontvangsten J2 1.65m; tick1064
+bud_gri_invest_saldo_2025,city_grimbergen,2025,-12618602,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Investeringssaldo -12.62m 2025; tick1064
+bud_gri_fin_saldo_2025,city_grimbergen,2025,3829211,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Financieringssaldo +3.83m (loan-driven) 2025; tick1064
+bud_gri_budget_result_2025,city_grimbergen,2025,1166920,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Budgettair resultaat boekjaar +1.17m 2025; tick1064
+bud_gri_afm_2025,city_grimbergen,2025,5284940,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Autofinancieringsmarge +5.28m VERY STRONG 2025; tick1064
+bud_gri_afm_gecorr_2025,city_grimbergen,2025,5544620,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Gecorrigeerde AFM +5.54m 2025; tick1064
+bud_gri_pl_2025,city_grimbergen,2025,-1601157,,,bbc_jr_realized,src_grimbergen_jr2025,strong,P&L tekort -1.60m FOI 2025; tick1064
+bud_gri_cum_equity_2025,city_grimbergen,2025,-19401866,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Gecumuleerd overschot/tekort equity YE2025 -19.40m WORSENING FOI; tick1064
+bud_gri_personnel_2025,city_grimbergen,2025,42459893,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Bezoldigingen 42.46m MASSIVE JUMP FOI (was 34.69m; onderwijs other 10.41m); tick1064
+bud_gri_personnel_onderwijs_other_2025,city_grimbergen,2025,10405275,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Onderwijzend personeel ten laste van andere 10.41m JUMP FOI 2025; tick1064
+bud_gri_toelagen_2025,city_grimbergen,2025,11415799,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toegestane werkingssubsidies 11.42m FOI 2025; tick1064
+bud_gri_toelagen_police_2025,city_grimbergen,2025,5142331,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelage politiezone 5.14m FOI 2025; tick1064
+bud_gri_toelagen_fire_2025,city_grimbergen,2025,2316080,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelage hulpverleningszone 2.32m 2025; tick1064
+bud_gri_toelagen_agb_2025,city_grimbergen,2025,369361,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelage AGB 0.369m 2025; tick1064
+bud_gri_toelagen_eredienst_2025,city_grimbergen,2025,161858,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelage eredienst 0.162m 2025; tick1064
+bud_gri_toelagen_cc_2025,city_grimbergen,2025,1875980,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelage cultuurcentrum 1.88m FOI 2025; tick1064
+bud_gri_toelagen_heemschut_2025,city_grimbergen,2025,529959,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelage vzw Heemschut 0.530m FOI 2025; tick1064
+bud_gri_toelagen_other_2025,city_grimbergen,2025,3384106,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toelagen andere residual ~3.38m FOI (incl CC/Heemschut in matrix); tick1064
+bud_gri_ocmw_aid_2025,city_grimbergen,2025,4502349,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Individuele hulpverlening OCMW 4.50m 2025; tick1064
+bud_gri_ocmw_gap_2025,city_grimbergen,2025,5037253,,,bbc_jr_realized,src_grimbergen_jr2025,strong,OCMW structural gap expl 16.58-11.54=5.04m HIGH FOI; tick1064
+bud_gri_ocmw_cover_2025,city_grimbergen,2025,6054875,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Tussenkomst gemeente in OCMW 6.05m FULL FOI; tick1064
+bud_gri_fiscal_2025,city_grimbergen,2025,42269394,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Fiscale opbrengsten en boetes 42.27m 2025; tick1064
+bud_gri_fiscal_ov_2025,city_grimbergen,2025,16045156,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Opcentiemen OV 16.05m 2025; tick1064
+bud_gri_fiscal_pb_2025,city_grimbergen,2025,18851157,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Aanvullende PB 18.85m 2025; tick1064
+bud_gri_gemeentefonds_2025,city_grimbergen,2025,9558079,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Gemeentefonds 9.56m 2025; tick1064
+bud_gri_interest_2025,city_grimbergen,2025,1942962,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Rente banken 1.94m 2025; tick1064
+bud_gri_invest_subs_granted_2025,city_grimbergen,2025,1287425,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toegestane invest-subs 1.29m 2025; tick1064
+bud_gri_agb_loans_granted_2025,city_grimbergen,2025,1499418,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toegestane leningen AGB 1.50m JUMP FOI 2025; tick1064
+bud_gri_vorderingen_kt_2025,city_grimbergen,2025,9989160,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Vorderingen KT YE2025 9.99m; tick1064

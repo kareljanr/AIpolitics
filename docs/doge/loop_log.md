@@ -14218,3 +14218,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1064** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1064 - 2026-08-10T21:15:00Z
+
+- Unit: **rq_1064** (FOI-adjacent residual dual - **Lokaal Bestuur Grimbergen Jaarrekening 2025** + Begijnendijk dual residual)
+- Found (strong primary BBC JR2025 official PDF J2/J3/J4/J5/T2 + annexes; GR/RMW 28.05.2026 pub 29.05.2026; KBO GE 0207.508.536 / OCMW 0212.214.224; Prinsenstraat 3 1850; AD Muriel Van Schel FD Jan Pletinckx; GE+OCMW):
+  - Assets **EUR225.63m JUMP** / equity **EUR125.64m slight DROP** / debt total **EUR99.98m JUMP** / fin debt **EUR63.15m JUMP HIGH FOI** (LT **EUR47.74m** / ST due **EUR4.91m** / ST **EUR10.50m**)
+  - New loans **EUR10.00m MASSIVE JUMP FOI** / repayments **EUR4.82m** / AGB loans granted **EUR1.50m JUMP FOI**
+  - Cash **EUR1.80m LOW thin FOI** (was **EUR1.31m**) / pension **EUR24.43m JUMP FOI** (was **EUR22.80m**) / FVA IGS **EUR25.64m**
+  - Exploitatie: ontvangsten **EUR85.91m** / uitgaven **EUR75.95m** / saldo **+EUR9.96m VERY STRONG**
+  - AFM **+EUR5.28m VERY STRONG** (gecorr **+EUR5.54m**) / BBR **EUR-7.67m NEG VERY HIGH FOI** / budget **+EUR1.17m** / cum BR **EUR-7.24m NEG** / P&L **EUR-1.60m** / equity-cum **EUR-19.40m WORSENING**
+  - Personnel **EUR42.46m MASSIVE JUMP FOI** (was **EUR34.69m**; onderwijs other **EUR10.41m JUMP**) / toelagen **EUR11.42m FOI** (police **EUR5.14m** / fire **EUR2.32m** / CC **EUR1.88m** / Heemschut **EUR0.53m** / AGB **EUR0.37m**)
+  - Invest **EUR14.27m** vs MJP **EUR22.81m UNDERSPEND FOI**
+  - **OCMW structural gap EUR5.04m** / **cover EUR6.05m FULL FOI**
+- Dual: Begijnendijk assets **EUR58.09m** / BBR **EUR7.91m** / budget **EUR-0.532m** (tick1063) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Ronse city / Meise residual next; progress@1070
+- Wrote: budgets +51 (bud_gri_*); commitments +8; leaderboard +9; sources +1; entity city_grimbergen; FOI **gap_gri_bbr_neg_loans_ocmw_personnel_l5** prio9 ready + draft; PDF primary (not committed); rq_1064=done; spawn **rq_1065**; ticks=1064
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1065** residual dual L5; deferred **rq_116**; progress@1070
+
