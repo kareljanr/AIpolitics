@@ -15295,3 +15295,26 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_kal_* / bud_kalagb_*); commitments +9; leaderboard +12; sources +1; entities city_kalmthout + agb_kalmthout; FOI **gap_kal_agb_loan_pension_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed ~12+7MB); rq_1117=done; spawn **rq_1118**; ticks=1117
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1118** residual dual L5; deferred **rq_116**; progress@1120 in 3
+
+### Tick 1118 - 2026-08-12T00:30:00Z
+
+- Unit: **rq_1118** (FOI-adjacent residual dual - **Gemeente+OCMW Zaventem Jaarrekening 2025** + AGB dual residual)
+- Found (strong primary BBC JR2025 251p text; zaventem.be; KBO GE **0207.515.068** / OCMW **0212.185.520**; Diegemstraat 37 / H. Henneaulaan 1 1930; AD Kurt Meeus FD Johan Decraene; GE+OCMW + AGB consol dual):
+  - Assets **EUR283.932m JUMP** (was **EUR272.294m**) / equity **EUR216.973m JUMP** / debt total **EUR66.959m DECLINE** / fin debt **EUR20.476m DECLINE FOI** (LT **EUR18.190m** / ST due **EUR2.287m**; was **EUR23.979m**)
+  - New loans/leasing **EUR0.748m FOI** / early repay **EUR2.000m FOI** / periodieke aflossingen **EUR2.250m**
+  - Cash **EUR13.333m JUMP FOI** (was **EUR11.995m**) / pension **EUR29.534m DROP FOI** (was **EUR33.453m**; **−EUR3.920m**)
+  - FVA total **EUR52.259m** (IGS **EUR50.639m MASSIVE FOI** / EVA **EUR1.596m**) / herwaard **EUR12.757m** / leasing MVA **~EUR13.968m**
+  - Exploitatie: ontvangsten **EUR89.539m** / uitgaven **EUR75.907m** / saldo **+EUR13.631m VERY STRONG**
+  - AFM **+EUR12.880m VERY STRONG** (gecorr **+EUR13.160m**; MJP was **+EUR7.046m**) / BBR **EUR11.066m HIGH** / onbeschikbaar **EUR0.283m** / budget **−EUR4.044m NEG FOI** (MJP was **+EUR4.117m**) / P&L **+EUR8.993m FLIP FOI**
+  - Fiscal **EUR50.092m JUMP** / PB **EUR11.900m** / OP **EUR19.389m** / personnel **EUR40.541m**
+  - Toelagen **EUR17.325m MASSIVE FOI** (police **EUR7.313m** / fire **EUR3.814m** / AGB **EUR3.230m** / IGS **EUR2.423m** / andere **EUR0.532m**)
+  - Invest **EUR19.261m** vs MJP **EUR34.338m MASSIVE UNDERSPEND FOI** / invest-subs in **EUR4.815m JUMP** / out **EUR1.213m**
+  - OCMW expl **−EUR6.063m DEEP** / OCMW AFM **−EUR6.654m DEEP** / OCMW budget **−EUR6.899m** / OCMW cum **−EUR23.872m DEEP FOI** (no tussenkomst line) / OCMW hulp **EUR4.935m**
+  - GE budget **+EUR2.855m** / granted loans AGB **EUR1.082m FOI**
+  - AGB dual consol: BBR **EUR1.112m** / AFM **−EUR0.386m NEG FOI** (gecorr **−EUR0.747m**)
+  - Debt/capita **EUR551** / BBR per inwoner **EUR305**
+- Dual: Kalmthout AGB loan MASSIVE / pension JUMP (tick1117) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / Lanaken AGB residual next; progress@1120 in 2
+- Wrote: budgets +45 (bud_zav_* / bud_zavagb_*); commitments +9; leaderboard +12; sources +1; entities city_zaventem + agb_zaventem; FOI **gap_zav_ocmw_toelagen_pension_invest_l5** prio9 ready + draft; PDF primary (not committed ~6.5MB); rq_1118=done; spawn **rq_1119**; ticks=1118
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1119** residual dual L5; deferred **rq_116**; progress@1120 in 2

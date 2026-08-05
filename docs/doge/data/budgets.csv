@@ -29440,3 +29440,48 @@ bud_kalagb_prijssub_2025,agb_kalmthout,2025,463725,,,bbc_jr_realized,src_kalmtho
 bud_kalagb_afm_2025,agb_kalmthout,2025,138896,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB AFM kengetal +0.139m (consol -0.104m); tick1117
 bud_kalagb_budget_2025,agb_kalmthout,2025,136116,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB budget result +0.136m POS; tick1117
 bud_kalagb_dividend_2025,agb_kalmthout,2025,14575,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB uitgekeerde winst/dividend 0.015m FOI; tick1117
+bud_zav_assets_2025,city_zaventem,2025,283932217,,,bbc_jr_realized,src_zaventem_jr2025,strong,Assets total 283.932m JUMP; tick1118
+bud_zav_equity_2025,city_zaventem,2025,216973287,,,bbc_jr_realized,src_zaventem_jr2025,strong,Nettoactief/equity 216.973m JUMP; tick1118
+bud_zav_debt_total_2025,city_zaventem,2025,66958930,,,bbc_jr_realized,src_zaventem_jr2025,strong,Schulden total 66.959m DECLINE; tick1118
+bud_zav_fin_debt_2025,city_zaventem,2025,20476460,,,bbc_jr_realized,src_zaventem_jr2025,strong,Fin debt 20.476m DECLINE FOI (LT 18.190 + ST due 2.287; was 23.979m); tick1118
+bud_zav_new_loans_2025,city_zaventem,2025,747610,,,bbc_jr_realized,src_zaventem_jr2025,strong,New loans/leasing 0.748m FOI; tick1118
+bud_zav_early_repay_2025,city_zaventem,2025,2000000,,,bbc_jr_realized,src_zaventem_jr2025,strong,Vervroegde aflossing 2.000m FOI; tick1118
+bud_zav_loan_repay_2025,city_zaventem,2025,2250127,,,bbc_jr_realized,src_zaventem_jr2025,strong,Periodieke aflossingen 2.250m; tick1118
+bud_zav_cash_2025,city_zaventem,2025,13332662,,,bbc_jr_realized,src_zaventem_jr2025,strong,Cash 13.333m JUMP FOI (was 11.995m); tick1118
+bud_zav_pension_2025,city_zaventem,2025,29533753,,,bbc_jr_realized,src_zaventem_jr2025,strong,Pension LT DROP 29.534m FOI (was 33.453m; -3.920m); tick1118
+bud_zav_fva_total_2025,city_zaventem,2025,52258705,,,bbc_jr_realized,src_zaventem_jr2025,strong,FVA total 52.259m HIGH FOI; tick1118
+bud_zav_fva_igs_2025,city_zaventem,2025,50638960,,,bbc_jr_realized,src_zaventem_jr2025,strong,FVA IGS 50.639m MASSIVE FOI; tick1118
+bud_zav_fva_eva_2025,city_zaventem,2025,1595758,,,bbc_jr_realized,src_zaventem_jr2025,strong,FVA EVA/AGB 1.596m FOI; tick1118
+bud_zav_herwaard_2025,city_zaventem,2025,12756649,,,bbc_jr_realized,src_zaventem_jr2025,strong,Herwaarderingsreserves 12.757m; tick1118
+bud_zav_leasing_mva_2025,city_zaventem,2025,13968249,,,bbc_jr_realized,src_zaventem_jr2025,strong,Leasing MVA gemeenschap+bedrijf ~13.968m; tick1118
+bud_zav_expl_ont_2025,city_zaventem,2025,89538769,,,bbc_jr_realized,src_zaventem_jr2025,strong,Exploitatie ontvangsten 89.539m; tick1118
+bud_zav_expl_uit_2025,city_zaventem,2025,75907369,,,bbc_jr_realized,src_zaventem_jr2025,strong,Exploitatie uitgaven 75.907m; tick1118
+bud_zav_expl_saldo_2025,city_zaventem,2025,13631400,,,bbc_jr_realized,src_zaventem_jr2025,strong,Exploitatiesaldo +13.631m VERY STRONG; tick1118
+bud_zav_afm_2025,city_zaventem,2025,12879767,,,bbc_jr_realized,src_zaventem_jr2025,strong,AFM +12.880m VERY STRONG FOI (MJP was +7.046m); tick1118
+bud_zav_afm_gecorr_2025,city_zaventem,2025,13160092,,,bbc_jr_realized,src_zaventem_jr2025,strong,Gecorrigeerde AFM +13.160m; tick1118
+bud_zav_bbr_2025,city_zaventem,2025,11066367,,,bbc_jr_realized,src_zaventem_jr2025,strong,BBR beschikbaar 11.066m HIGH (onbeschikbaar 0.283m); tick1118
+bud_zav_budget_result_2025,city_zaventem,2025,-4044153,,,bbc_jr_realized,src_zaventem_jr2025,strong,Budget result -4.044m NEG FOI (MJP was +4.117m); tick1118
+bud_zav_pnl_2025,city_zaventem,2025,8992823,,,bbc_jr_realized,src_zaventem_jr2025,strong,P&L +8.993m FLIP FOI (was +0.289m); tick1118
+bud_zav_fiscal_2025,city_zaventem,2025,50092490,,,bbc_jr_realized,src_zaventem_jr2025,strong,Fiscal+boetes 50.092m JUMP FOI; tick1118
+bud_zav_pb_2025,city_zaventem,2025,11899986,,,bbc_jr_realized,src_zaventem_jr2025,strong,Aanvullende PB 11.900m; tick1118
+bud_zav_op_2025,city_zaventem,2025,19389413,,,bbc_jr_realized,src_zaventem_jr2025,strong,OP onroerende voorheffing 19.389m; tick1118
+bud_zav_personnel_2025,city_zaventem,2025,40540806,,,bbc_jr_realized,src_zaventem_jr2025,strong,Personnel total 40.541m FOI; tick1118
+bud_zav_toelagen_2025,city_zaventem,2025,17325176,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toegestane werkingssubsidies 17.325m MASSIVE FOI; tick1118
+bud_zav_toelage_police_2025,city_zaventem,2025,7313194,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toelage politiezone 7.313m FOI; tick1118
+bud_zav_toelage_fire_2025,city_zaventem,2025,3813856,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toelage hulpverleningszone 3.814m FOI; tick1118
+bud_zav_toelage_agb_2025,city_zaventem,2025,3229890,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toelage AGB 3.230m FOI; tick1118
+bud_zav_toelage_igs_2025,city_zaventem,2025,2422606,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toelage IGS 2.423m FOI; tick1118
+bud_zav_toelage_andere_2025,city_zaventem,2025,531769,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toelage andere 0.532m FOI; tick1118
+bud_zav_invest_uit_2025,city_zaventem,2025,19261324,,,bbc_jr_realized,src_zaventem_jr2025,strong,Invest uitgaven 19.261m vs MJP 34.338m MASSIVE UNDERSPEND FOI; tick1118
+bud_zav_invest_subs_in_2025,city_zaventem,2025,4814602,,,bbc_jr_realized,src_zaventem_jr2025,strong,Ontvangen investeringssubsidies 4.815m JUMP; tick1118
+bud_zav_invest_subs_out_2025,city_zaventem,2025,1212659,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toegestane investeringssubsidies 1.213m FOI; tick1118
+bud_zav_ocmw_expl_saldo_2025,city_zaventem,2025,-6062829,,,bbc_jr_realized,src_zaventem_jr2025,strong,OCMW expl saldo -6.063m DEEP FOI; tick1118
+bud_zav_ocmw_afm_2025,city_zaventem,2025,-6654203,,,bbc_jr_realized,src_zaventem_jr2025,strong,OCMW AFM -6.654m DEEP NEG FOI; tick1118
+bud_zav_ocmw_budget_2025,city_zaventem,2025,-6899288,,,bbc_jr_realized,src_zaventem_jr2025,strong,OCMW budget result -6.899m DEEP FOI; tick1118
+bud_zav_ocmw_cum_budget_2025,city_zaventem,2025,-23871616,,,bbc_jr_realized,src_zaventem_jr2025,strong,OCMW cum budget result -23.872m DEEP FOI; tick1118
+bud_zav_ge_budget_2025,city_zaventem,2025,2855134,,,bbc_jr_realized,src_zaventem_jr2025,strong,GE budget result +2.855m POS; tick1118
+bud_zav_granted_loans_2025,city_zaventem,2025,1082273,,,bbc_jr_realized,src_zaventem_jr2025,strong,Toegestane leningen AGB 1.082m FOI; tick1118
+bud_zav_ocmw_hulp_2025,city_zaventem,2025,4935173,,,bbc_jr_realized,src_zaventem_jr2025,strong,OCMW individuele hulpverlening 4.935m FOI; tick1118
+bud_zav_debt_capita_2025,city_zaventem,2025,551,,,bbc_jr_realized,src_zaventem_jr2025,strong,Openstaande schuld per inwoner EUR551; tick1118
+bud_zavagb_bbr_2025,agb_zaventem,2025,1112284,,,bbc_jr_realized,src_zaventem_jr2025,strong,AGB BBR consol 1.112m FOI; tick1118
+bud_zavagb_afm_2025,agb_zaventem,2025,-386055,,,bbc_jr_realized,src_zaventem_jr2025,strong,AGB AFM consol -0.386m NEG FOI; tick1118
