@@ -18463,3 +18463,45 @@ bud_di_mjp2027_new_loans_plan,city_diest,2025,5000000,,,plan,src_diest_jr2025,st
 bud_di_pl_costs_2025,city_diest,2025,64172422,,,outturn,src_diest_jr2025,strong,Staat kosten total 64.172m 2025; tick866
 bud_di_pl_opbrengsten_2025,city_diest,2025,69316732,,,outturn,src_diest_jr2025,strong,Staat opbrengsten total 69.317m 2025; tick866
 bud_di_pl_result_2025,city_diest,2025,5144310,,,outturn,src_diest_jr2025,strong,Boekhoudkundig overschot +5.144m 2025; tick866
+bud_ha_assets_2025,city_halle,2025,289220041,,,stock,src_halle_jr2025,strong,Consol stad+OCMW total assets YE2025 289.220m; tick867
+bud_ha_equity_2025,city_halle,2025,223287162,,,stock,src_halle_jr2025,strong,Nettoactief YE2025 223.287m; tick867
+bud_ha_debt_total_2025,city_halle,2025,65932878,,,stock,src_halle_jr2025,strong,Schulden total YE2025 65.933m; tick867
+bud_ha_fin_debt_2025,city_halle,2025,29811836,,,stock,src_halle_jr2025,strong,Financiele schulden total YE2025 29.812m (LT 25.969 + ST due 3.843); tick867
+bud_ha_fin_debt_lt_2025,city_halle,2025,25969152,,,stock,src_halle_jr2025,strong,Financiele schulden LT YE2025 25.969m; tick867
+bud_ha_fin_debt_st_2025,city_halle,2025,3842684,,,stock,src_halle_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.843m; tick867
+bud_ha_pension_prov_2025,city_halle,2025,22366888,,,stock,src_halle_jr2025,strong,Pensioenvoorzieningen YE2025 22.367m; tick867
+bud_ha_cash_2025,city_halle,2025,23499356,,,stock,src_halle_jr2025,strong,Liquide middelen YE2025 23.499m; tick867
+bud_ha_cap_subs_2025,city_halle,2025,32061997,,,stock,src_halle_jr2025,strong,Kapitaalsubsidies YE2025 32.062m; tick867
+bud_ha_fva_igs_2025,city_halle,2025,42005801,,,stock,src_halle_jr2025,strong,Fin VA IGS YE2025 42.006m; tick867
+bud_ha_onbeschikbaar_2025,city_halle,2025,373333,,,stock,src_halle_jr2025,strong,Onbeschikbare gelden YE2025 0.373m (kinderopvang invest-subs); tick867
+bud_ha_cumul_surplus_2025,city_halle,2025,58200045,,,stock,src_halle_jr2025,strong,Gecumuleerd overschot YE2025 58.200m; tick867
+bud_ha_expl_rec_2025,city_halle,2025,94667237,,,outturn,src_halle_jr2025,strong,Exploitatieontvangsten 94.667m 2025; tick867
+bud_ha_expl_exp_2025,city_halle,2025,80465859,,,outturn,src_halle_jr2025,strong,Exploitatieuitgaven 80.466m 2025; tick867
+bud_ha_expl_saldo_2025,city_halle,2025,14201379,,,outturn,src_halle_jr2025,strong,Exploitatiesaldo +14.201m 2025; tick867
+bud_ha_invest_exp_2025,city_halle,2025,11688701,,,outturn,src_halle_jr2025,strong,Investeringsuitgaven 11.689m 2025; tick867
+bud_ha_invest_rec_2025,city_halle,2025,1843766,,,outturn,src_halle_jr2025,strong,Investeringsontvangsten 1.844m 2025; tick867
+bud_ha_invest_saldo_2025,city_halle,2025,-9844935,,,outturn,src_halle_jr2025,strong,Investeringssaldo -9.845m 2025; tick867
+bud_ha_fin_rec_2025,city_halle,2025,4085763,,,outturn,src_halle_jr2025,strong,Financieringsontvangsten 4.086m 2025; tick867
+bud_ha_fin_exp_2025,city_halle,2025,3814289,,,outturn,src_halle_jr2025,strong,Financieringsuitgaven 3.814m 2025; tick867
+bud_ha_fin_saldo_2025,city_halle,2025,271474,,,outturn,src_halle_jr2025,strong,Financieringssaldo +0.271m 2025; tick867
+bud_ha_budget_result_2025,city_halle,2025,4627918,,,outturn,src_halle_jr2025,strong,Budgettair resultaat boekjaar +4.628m 2025; tick867
+bud_ha_bbr_2025,city_halle,2025,24786786,,,outturn,src_halle_jr2025,strong,Beschikbaar budgettair resultaat 24.787m YE2025; tick867
+bud_ha_afm_2025,city_halle,2025,10982834,,,outturn,src_halle_jr2025,strong,Autofinancieringsmarge AFM +10.983m 2025; tick867
+bud_ha_afm_corr_2025,city_halle,2025,12302641,,,outturn,src_halle_jr2025,strong,Gecorrigeerde AFM +12.303m 2025; tick867
+bud_ha_personnel_2025,city_halle,2025,43995215,,,outturn,src_halle_jr2025,strong,Personeelsuitgaven/bezold 43.995m 2025 (incl onderwijs other-gov 2.311m); tick867
+bud_ha_personnel_onderwijs_other_2025,city_halle,2025,2311276,,,outturn,src_halle_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.311m 2025; tick867
+bud_ha_goederen_diensten_2025,city_halle,2025,21219209,,,outturn,src_halle_jr2025,strong,Goederen en diensten 21.219m 2025; tick867
+bud_ha_toelagen_2025,city_halle,2025,10019419,,,outturn,src_halle_jr2025,strong,Toegestane werkingssubsidies 10.019m 2025; tick867
+bud_ha_toelagen_police_2025,city_halle,2025,4942341,,,outturn,src_halle_jr2025,strong,Toelage politiezone 4.942m 2025; tick867
+bud_ha_toelagen_fire_2025,city_halle,2025,2644629,,,outturn,src_halle_jr2025,strong,Toelage hulpverleningszone 2.645m 2025; tick867
+bud_ha_toelagen_other_2025,city_halle,2025,2018365,,,outturn,src_halle_jr2025,strong,Toelagen andere begunstigden 2.018m 2025 FOI-adjacent; tick867
+bud_ha_ocmw_aid_2025,city_halle,2025,3902205,,,outturn,src_halle_jr2025,strong,OCMW individuele hulpverlening 3.902m 2025; tick867
+bud_ha_fiscal_2025,city_halle,2025,44790622,,,outturn,src_halle_jr2025,strong,Fiscale ontvangsten en boetes 44.791m 2025; tick867
+bud_ha_gemeentefonds_2025,city_halle,2025,16093079,,,outturn,src_halle_jr2025,strong,Gemeentefonds 16.093m 2025; tick867
+bud_ha_new_loans_2025,city_halle,2025,3510097,,,outturn,src_halle_jr2025,strong,Nieuwe financiele schulden 3.510m 2025 (bank 3.0m + other 0.51m); tick867
+bud_ha_new_loans_bank_2025,city_halle,2025,3000000,,,outturn,src_halle_jr2025,strong,Opname leningen bij financiele instellingen 3.000m 2025; tick867
+bud_ha_mjp2026_new_loans_plan,city_halle,2025,8985383,,,plan,src_halle_jr2025,strong,MJP planned new loans 2026 8.985m (bank 8.5m) FOI-adjacent; tick867
+bud_ha_mjp2027_new_loans_plan,city_halle,2025,22985383,,,plan,src_halle_jr2025,strong,MJP planned new loans 2027 22.985m (bank 22.5m) FOI-adjacent; tick867
+bud_ha_pl_costs_2025,city_halle,2025,93004691,,,outturn,src_halle_jr2025,strong,Staat kosten total 93.005m 2025; tick867
+bud_ha_pl_opbrengsten_2025,city_halle,2025,97308155,,,outturn,src_halle_jr2025,strong,Staat opbrengsten total 97.308m 2025; tick867
+bud_ha_pl_result_2025,city_halle,2025,4303464,,,outturn,src_halle_jr2025,strong,Boekhoudkundig overschot +4.303m 2025; tick867
