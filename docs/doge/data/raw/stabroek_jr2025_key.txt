@@ -1,0 +1,38 @@
+Stabroek Gemeente+OCMW Jaarrekening 2025 (BBC 145p) — tick906
+Primary: https://www.stabroek.be/sites/default/files/2026-07/Jaarrekening-2025-officieel-boek.pdf
+Portal: https://www.stabroek.be/bestuur/jaarrekening
+
+BALANCE YE2025 / YE2024
+- Assets: 117,922,651 / 124,966,492
+- Equity: 87,349,930 / 84,430,174
+- Debt total: 30,572,721 / 40,536,317
+- Fin debt total (T4): 20,430,930 / 18,346,565
+  - LT: 17,918,646 / 15,789,024
+  - ST due: 2,512,285 / 2,557,541
+- Pension provision: 6,440,471 / 5,581,307
+- Cash: 7,811,841 / 7,721,574
+- Cap subs: 11,431,534 / 10,017,009
+- FVA IGS: 10,133,990 / 10,188,541
+- FVA total: 10,200,206 / 10,256,027
+
+J2 FLOW 2025
+- Expl rec 30,458,476 / exp 30,223,947 / saldo +234,529
+- Invest rec 16,518,140 / exp 6,916,128 / saldo +9,602,012
+- Fin saldo -11,485,234
+- Budget result -1,648,693
+- Cumul budget 8,351,802 / BBR 8,165,135
+- AFM -2,345,754 / gecorr -1,233,196
+
+J5 / T2
+- Personnel 16,886,952 (pensioenen cash 4,311,406 was 202,350)
+- Toelagen 3,746,685 (police 1,803,870 fire 727,181 other 1,155,842)
+- OCMW aid 1,716,294
+- Fiscal 14,917,375 (OV 6,378,545 APB 8,002,945)
+- Gemeentefonds 4,526,777
+- Invest-subs granted 1,594,046 (IGS 1,337,704 fire 140,570 other 115,772)
+- New loans 4,664,649
+- OCMW deficit cover 1,128,324
+- P&L +1,511,849
+
+DUAL: Beersel assets 174m cash 37m AFM +8.3m (tick905) — not TE-additive
+FOI: gap_stb_afm_pension_loans_l5 prio8 ready

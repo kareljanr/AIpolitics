@@ -19868,3 +19868,42 @@ bud_bee_invest_subs_police_2025,city_beersel,2025,226462,,,jaarrekening_realized
 bud_bee_new_loans_2025,city_beersel,2025,608086,,,jaarrekening_realized,src_beersel_jr2025,strong,Nieuwe leningen/leasings 0.608m 2025 (leasing); tick905
 bud_bee_mjp_fin_debt_2027,city_beersel,2025,14999362,,,jaarrekening_realized,src_beersel_jr2025,strong,MJP fin debt path YE2027 15.000m FOI (new loans 3.52+3.30m); tick905
 bud_bee_mjp_new_loans_2026,city_beersel,2025,3515462,,,jaarrekening_realized,src_beersel_jr2025,strong,MJP new loans 2026 3.515m FOI; tick905
+bud_stb_assets_2025,city_stabroek,2025,117922651,,,jaarrekening_realized,src_stabroek_jr2025,strong,Consol total assets YE2025 117.923m; tick906
+bud_stb_equity_2025,city_stabroek,2025,87349930,,,jaarrekening_realized,src_stabroek_jr2025,strong,Nettoactief YE2025 87.350m; tick906
+bud_stb_debt_total_2025,city_stabroek,2025,30572721,,,jaarrekening_realized,src_stabroek_jr2025,strong,Schulden total YE2025 30.573m; tick906
+bud_stb_fin_debt_2025,city_stabroek,2025,20430930,,,jaarrekening_realized,src_stabroek_jr2025,strong,Fin schulden total YE2025 20.431m (LT 17.919 + ST due 2.512 was 18.347m); tick906
+bud_stb_fin_debt_lt_2025,city_stabroek,2025,17918646,,,jaarrekening_realized,src_stabroek_jr2025,strong,Fin schulden LT YE2025 17.919m; tick906
+bud_stb_fin_debt_st_2025,city_stabroek,2025,2512285,,,jaarrekening_realized,src_stabroek_jr2025,strong,Fin schulden LT binnen jaar YE2025 2.512m; tick906
+bud_stb_pension_prov_2025,city_stabroek,2025,6440471,,,jaarrekening_realized,src_stabroek_jr2025,strong,Pensioenvoorzieningen YE2025 6.440m (was 5.581m); tick906
+bud_stb_cash_2025,city_stabroek,2025,7811841,,,jaarrekening_realized,src_stabroek_jr2025,strong,Liquide middelen YE2025 7.812m; tick906
+bud_stb_cap_subs_2025,city_stabroek,2025,11431534,,,jaarrekening_realized,src_stabroek_jr2025,strong,Kapitaalsubsidies YE2025 11.432m; tick906
+bud_stb_fva_igs_2025,city_stabroek,2025,10133990,,,jaarrekening_realized,src_stabroek_jr2025,strong,Fin VA IGS YE2025 10.134m; tick906
+bud_stb_fva_total_2025,city_stabroek,2025,10200206,,,jaarrekening_realized,src_stabroek_jr2025,strong,Fin VA total YE2025 10.200m; tick906
+bud_stb_cumul_budget_2025,city_stabroek,2025,8351802,,,jaarrekening_realized,src_stabroek_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 8.352m; tick906
+bud_stb_bbr_2025,city_stabroek,2025,8165135,,,jaarrekening_realized,src_stabroek_jr2025,strong,Beschikbaar budgettair resultaat YE2025 8.165m; tick906
+bud_stb_expl_rec_2025,city_stabroek,2025,30458476,,,jaarrekening_realized,src_stabroek_jr2025,strong,Exploitatieontvangsten 30.458m 2025 (J2); tick906
+bud_stb_expl_exp_2025,city_stabroek,2025,30223947,,,jaarrekening_realized,src_stabroek_jr2025,strong,Exploitatieuitgaven 30.224m 2025 (J2); tick906
+bud_stb_expl_saldo_2025,city_stabroek,2025,234529,,,jaarrekening_realized,src_stabroek_jr2025,strong,Exploitatiesaldo +0.235m 2025; tick906
+bud_stb_invest_exp_2025,city_stabroek,2025,6916128,,,jaarrekening_realized,src_stabroek_jr2025,strong,Investeringsuitgaven 6.916m 2025 (incl invest-subs 1.59m FOI); tick906
+bud_stb_invest_rec_2025,city_stabroek,2025,16518140,,,jaarrekening_realized,src_stabroek_jr2025,strong,Investeringsontvangsten 16.518m 2025 (asset sales ~14.6m); tick906
+bud_stb_invest_saldo_2025,city_stabroek,2025,9602012,,,jaarrekening_realized,src_stabroek_jr2025,strong,Investeringssaldo +9.602m 2025; tick906
+bud_stb_fin_saldo_2025,city_stabroek,2025,-11485234,,,jaarrekening_realized,src_stabroek_jr2025,strong,Financieringssaldo -11.485m 2025 FOI; tick906
+bud_stb_budget_result_2025,city_stabroek,2025,-1648693,,,jaarrekening_realized,src_stabroek_jr2025,strong,Budgettair resultaat boekjaar -1.649m 2025; tick906
+bud_stb_afm_2025,city_stabroek,2025,-2345754,,,jaarrekening_realized,src_stabroek_jr2025,strong,Autofinancieringsmarge -2.346m 2025 FOI; tick906
+bud_stb_afm_gecorr_2025,city_stabroek,2025,-1233196,,,jaarrekening_realized,src_stabroek_jr2025,strong,Gecorrigeerde AFM -1.233m 2025 FOI; tick906
+bud_stb_pl_2025,city_stabroek,2025,1511849,,,jaarrekening_realized,src_stabroek_jr2025,strong,P&L overschot +1.512m 2025; tick906
+bud_stb_personnel_2025,city_stabroek,2025,16886952,,,jaarrekening_realized,src_stabroek_jr2025,strong,Bezoldigingen 16.887m 2025 (was 12.620m; pensioen cash 4.311m FOI); tick906
+bud_stb_pension_cash_2025,city_stabroek,2025,4311406,,,jaarrekening_realized,src_stabroek_jr2025,strong,Pensioenen cash-line 4.311m 2025 (was 0.202m FOI); tick906
+bud_stb_toelagen_2025,city_stabroek,2025,3746685,,,jaarrekening_realized,src_stabroek_jr2025,strong,Toegestane werkingssubsidies 3.747m 2025; tick906
+bud_stb_toelagen_police_2025,city_stabroek,2025,1803870,,,jaarrekening_realized,src_stabroek_jr2025,strong,Toelage politiezone 1.804m 2025; tick906
+bud_stb_toelagen_fire_2025,city_stabroek,2025,727181,,,jaarrekening_realized,src_stabroek_jr2025,strong,Toelage hulpverleningszone 0.727m 2025; tick906
+bud_stb_toelagen_other_2025,city_stabroek,2025,1155842,,,jaarrekening_realized,src_stabroek_jr2025,strong,Toelagen andere begunstigden 1.156m 2025 FOI; tick906
+bud_stb_ocmw_aid_2025,city_stabroek,2025,1716294,,,jaarrekening_realized,src_stabroek_jr2025,strong,Individuele hulpverlening OCMW 1.716m 2025; tick906
+bud_stb_fiscal_2025,city_stabroek,2025,14917375,,,jaarrekening_realized,src_stabroek_jr2025,strong,Fiscale opbrengsten en boetes 14.917m 2025; tick906
+bud_stb_fiscal_ov_2025,city_stabroek,2025,6378545,,,jaarrekening_realized,src_stabroek_jr2025,strong,Opcentiemen OV 6.379m 2025; tick906
+bud_stb_fiscal_apb_2025,city_stabroek,2025,8002945,,,jaarrekening_realized,src_stabroek_jr2025,strong,Aanvullende PB 8.003m 2025; tick906
+bud_stb_gemeentefonds_2025,city_stabroek,2025,4526777,,,jaarrekening_realized,src_stabroek_jr2025,strong,Gemeentefonds 4.527m 2025; tick906
+bud_stb_invest_subs_granted_2025,city_stabroek,2025,1594046,,,jaarrekening_realized,src_stabroek_jr2025,strong,Toegestane investeringssubsidies 1.594m 2025 FOI (IGS 1.338m); tick906
+bud_stb_invest_subs_igs_2025,city_stabroek,2025,1337704,,,jaarrekening_realized,src_stabroek_jr2025,strong,Invest-subs IGS 1.338m 2025 FOI; tick906
+bud_stb_new_loans_2025,city_stabroek,2025,4664649,,,jaarrekening_realized,src_stabroek_jr2025,strong,Nieuwe leningen/leasings 4.665m 2025 FOI; tick906
+bud_stb_ocmw_deficit_cover_2025,city_stabroek,2025,1128324,,,jaarrekening_realized,src_stabroek_jr2025,strong,Tussenkomst OCMW tekort 1.128m 2025; tick906

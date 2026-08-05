@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T01:15:00Z,rq_905,905,no,tick905 Beersel JR2025 dual Lier; FOI gap_bee_personnel_eredienst_mjp_l5 prio8 personnel 30.2m cash 37m AFM +8.3m eredienst 0.91m; next rq_906 residual dual L5; progress@910 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T01:45:00Z,rq_906,906,no,tick906 Stabroek JR2025 dual Beersel; FOI gap_stb_afm_pension_loans_l5 prio8 AFM -2.35m pension cash 4.31m new loans 4.66m; next rq_907 residual dual L5; progress@910 in 4; rq_116 deferred

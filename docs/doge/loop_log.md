@@ -11303,3 +11303,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43 (bud_bee_*); commitments +4; leaderboard +7; sources +2; entity city_beersel; FOI **gap_bee_personnel_eredienst_mjp_l5** prio8 ready + draft; raw PDF + key; rq_905=done; spawn **rq_906**; ticks=905
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_906** residual dual L5 (Roeselare/VUB/Stabroek/Rumst); deferred **rq_116**; progress@910 in 5
+
+## Tick 906 - 2026-08-07T01:45:00Z
+
+- Unit: **rq_906** (FOI-adjacent residual dual - **Gemeente+OCMW Stabroek Jaarrekening 2025** + Beersel dual)
+- Found (strong primary BBC JR2025 145p):
+  - Assets **EUR117.9m** / equity **EUR87.3m** / debt total **EUR30.6m** / fin debt **EUR20.4m** (was **EUR18.3m**; LT **EUR17.9m** / ST due **EUR2.51m**)
+  - **New loans EUR4.66m FOI** / pension prov **EUR6.44m** / cash **EUR7.81m**
+  - Exploitatie: ontvangsten **EUR30.5m** / uitgaven **EUR30.2m** / saldo **+EUR0.23m**
+  - **AFM -EUR2.35m FOI** (gecorr **-EUR1.23m**) / BBR **EUR8.17m** / budget result **-EUR1.65m** / P&L **+EUR1.51m**
+  - Personnel **EUR16.9m** (**pensioen cash EUR4.31m was EUR0.20m FOI**) / toelagen **EUR3.75m** (other **EUR1.16m FOI**) / fiscal **EUR14.9m**
+  - Invest exp **EUR6.92m** / invest rec **EUR16.5m** / **invest-subs IGS EUR1.34m of EUR1.59m FOI** / gemeentefonds **EUR4.53m**
+- Dual: Beersel **EUR173.6m** / cash **EUR37.3m** / AFM **+EUR8.3m** (tick905) - not TE-additive
+- Wrote: budgets +39 (bud_stb_*); commitments +4; leaderboard +7; sources +2; entity city_stabroek; FOI **gap_stb_afm_pension_loans_l5** prio8 ready + draft; raw PDF + key; rq_906=done; spawn **rq_907**; ticks=906
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_907** residual dual L5 (Roeselare/VUB/Rumst/Kinrooi); deferred **rq_116**; progress@910 in 4
