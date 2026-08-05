@@ -21666,3 +21666,59 @@ bud_pit_fin_costs_2025,city_pittem,2025,174907,,,realized,src_pittem_jr2025,stro
 bud_pit_goederen_2025,city_pittem,2025,3155753,,,realized,src_pittem_jr2025,strong,Goederen en diensten 3.16m; tick952
 bud_pit_farys_werking_2025,city_pittem,2025,164446,,,realized,src_pittem_jr2025,strong,Farys sport S-divisie werkingstoelage 0.164m FOI dual; tick952
 bud_pit_farys_total_charge_2025,city_pittem,2025,173567,,,realized,src_pittem_jr2025,strong,Farys sport charge total 0.174m (werking+prijssubsidie) FOI; tick952
+bud_hoo_assets_2025,city_hooglede,2025,110003003,,,realized,src_hooglede_jr2025,strong,Total assets YE2025 110.0m; tick953
+bud_hoo_equity_2025,city_hooglede,2025,83130047,,,realized,src_hooglede_jr2025,strong,Nettoactief YE2025 83.1m; tick953
+bud_hoo_debt_total_2025,city_hooglede,2025,26872955,,,realized,src_hooglede_jr2025,strong,Total schulden YE2025 26.9m; tick953
+bud_hoo_fin_debt_2025,city_hooglede,2025,20833731,,,jaarrekening_realized,src_hooglede_jr2025,strong,T4 total financiele schulden YE2025 20.8m RISING (was 18.1m) FOI; tick953
+bud_hoo_fin_debt_lt_2025,city_hooglede,2025,18806364,,,realized,src_hooglede_jr2025,strong,Financiele schulden LT YE2025 18.8m; tick953
+bud_hoo_fin_debt_st_due_2025,city_hooglede,2025,2027367,,,realized,src_hooglede_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.03m; tick953
+bud_hoo_fin_debt_2024,city_hooglede,2025,18105054,,,realized,src_hooglede_jr2025,strong,T4 fin debt YE2024 18.1m comparator; tick953
+bud_hoo_new_loans_2025,city_hooglede,2025,4761659,,,realized,src_hooglede_jr2025,strong,Nieuwe leningen/lease 4.76m (OCMW 3.4m + gem 1.25m + Fluvius lease 0.112m) FOI; tick953
+bud_hoo_aflossingen_2025,city_hooglede,2025,2032982,,,realized,src_hooglede_jr2025,strong,Periodieke aflossingen 2.03m; tick953
+bud_hoo_cash_2025,city_hooglede,2025,4961150,,,realized,src_hooglede_jr2025,strong,Liquide middelen YE2025 4.96m DECLINING FOI; tick953
+bud_hoo_cash_2024,city_hooglede,2025,5864456,,,realized,src_hooglede_jr2025,strong,Liquide middelen YE2024 5.86m comparator; tick953
+bud_hoo_pension_prov_lt_2025,city_hooglede,2025,640906,,,realized,src_hooglede_jr2025,strong,Pensioenvoorzieningen LT YE2025 0.641m; tick953
+bud_hoo_prov_st_2025,city_hooglede,2025,833700,,,realized,src_hooglede_jr2025,strong,Voorzieningen ST YE2025 0.834m; tick953
+bud_hoo_fva_total_2025,city_hooglede,2025,29049241,,,realized,src_hooglede_jr2025,strong,Financiele vaste activa YE2025 29.0m; tick953
+bud_hoo_fva_igs_2025,city_hooglede,2025,27816546,,,realized,src_hooglede_jr2025,strong,FVA IGS YE2025 27.8m FOI; tick953
+bud_hoo_mva_2025,city_hooglede,2025,72211742,,,realized,src_hooglede_jr2025,strong,Materiele vaste activa YE2025 72.2m; tick953
+bud_hoo_cap_subs_2025,city_hooglede,2025,10032285,,,realized,src_hooglede_jr2025,strong,Kapitaalssubsidies YE2025 10.0m; tick953
+bud_hoo_expl_rec_2025,city_hooglede,2025,33806178,,,realized,src_hooglede_jr2025,strong,Exploitatieontvangsten 33.8m; tick953
+bud_hoo_expl_exp_2025,city_hooglede,2025,30149030,,,realized,src_hooglede_jr2025,strong,Exploitatieuitgaven 30.1m; tick953
+bud_hoo_expl_saldo_2025,city_hooglede,2025,3657148,,,realized,src_hooglede_jr2025,strong,Exploitatiesaldo +3.66m; tick953
+bud_hoo_expl_rec_gem_2025,city_hooglede,2025,19150468,,,realized,src_hooglede_jr2025,strong,Expl ontvangsten gemeente 19.2m; tick953
+bud_hoo_expl_exp_gem_2025,city_hooglede,2025,13935889,,,realized,src_hooglede_jr2025,strong,Expl uitgaven gemeente 13.9m; tick953
+bud_hoo_expl_rec_ocmw_2025,city_hooglede,2025,14655710,,,realized,src_hooglede_jr2025,strong,Expl ontvangsten OCMW 14.7m; tick953
+bud_hoo_expl_exp_ocmw_2025,city_hooglede,2025,16213142,,,realized,src_hooglede_jr2025,strong,Expl uitgaven OCMW 16.2m; tick953
+bud_hoo_expl_saldo_ocmw_2025,city_hooglede,2025,-1557431,,,realized,src_hooglede_jr2025,strong,OCMW expl saldo -1.56m RISING tekort FOI; tick953
+bud_hoo_invest_exp_2025,city_hooglede,2025,8136902,,,realized,src_hooglede_jr2025,strong,Investeringsuitgaven 8.14m (MJP 9.94m 82pct) FOI; tick953
+bud_hoo_invest_rec_2025,city_hooglede,2025,517800,,,realized,src_hooglede_jr2025,strong,Investeringsontvangsten 0.52m; tick953
+bud_hoo_invest_saldo_2025,city_hooglede,2025,-7619102,,,realized,src_hooglede_jr2025,strong,Investeringssaldo -7.62m; tick953
+bud_hoo_mjp_invest_planned_2025,city_hooglede,2025,9942634,,,realized,src_hooglede_jr2025,strong,MJP planned invest 9.94m vs realized 8.14m FOI; tick953
+bud_hoo_invest_carryover_2026,city_hooglede,2025,1454104,,,realized,src_hooglede_jr2025,strong,Invest carryover to 2026 1.45m FOI; tick953
+bud_hoo_wzc_b_vleugel_2025,city_hooglede,2025,4356494,,,realized,src_hooglede_jr2025,strong,WZC Ter Linde B-vleugel verbouwing 4.36m FOI major invest; tick953
+bud_hoo_afm_2025,city_hooglede,2025,1640129,,,realized,src_hooglede_jr2025,strong,AFM +1.64m; tick953
+bud_hoo_afm_corr_2025,city_hooglede,2025,2224706,,,realized,src_hooglede_jr2025,strong,Gecorrigeerde AFM +2.22m; tick953
+bud_hoo_bbr_2025,city_hooglede,2025,2577851,,,realized,src_hooglede_jr2025,strong,Beschikbaar budgettair resultaat 2.58m; tick953
+bud_hoo_budget_result_2025,city_hooglede,2025,-1233277,,,realized,src_hooglede_jr2025,strong,Budgettair resultaat boekjaar -1.23m NEG FOI; tick953
+bud_hoo_cum_br_2025,city_hooglede,2025,3739877,,,realized,src_hooglede_jr2025,strong,Gecumuleerd budgettair resultaat 3.74m; tick953
+bud_hoo_onbeschikbaar_2025,city_hooglede,2025,1162026,,,realized,src_hooglede_jr2025,strong,Onbeschikbare gelden 1.16m (eindeopstal Zevekote/Ter Linde) FOI; tick953
+bud_hoo_pnl_result_2025,city_hooglede,2025,311622,,,realized,src_hooglede_jr2025,strong,P&L boekjaar +0.312m; tick953
+bud_hoo_personnel_2025,city_hooglede,2025,19832870,,,realized,src_hooglede_jr2025,strong,Personeelskosten 19.8m (66pct expl); tick953
+bud_hoo_toelagen_2025,city_hooglede,2025,2403467,,,realized,src_hooglede_jr2025,strong,Toegestane werkingssubsidies 2.40m FOI named; tick953
+bud_hoo_toelagen_police_2025,city_hooglede,2025,1562454,,,realized,src_hooglede_jr2025,strong,Toelagen politiezone RIHO 1.56m JUMP +0.45m FOI; tick953
+bud_hoo_toelagen_hvz_2025,city_hooglede,2025,332174,,,realized,src_hooglede_jr2025,strong,Toelagen HVZ Midwest 0.332m; tick953
+bud_hoo_toelagen_kerk_2025,city_hooglede,2025,124885,,,realized,src_hooglede_jr2025,strong,Toelagen kerkfabrieken 0.125m; tick953
+bud_hoo_invest_subs_granted_2025,city_hooglede,2025,167687,,,realized,src_hooglede_jr2025,strong,Toegestane investeringssubsidies 0.168m; tick953
+bud_hoo_invest_subs_rec_2025,city_hooglede,2025,481583,,,realized,src_hooglede_jr2025,strong,Ontvangen investeringssubsidies 0.482m; tick953
+bud_hoo_ocmw_aid_2025,city_hooglede,2025,503390,,,realized,src_hooglede_jr2025,strong,Individuele hulpverlening OCMW 0.503m; tick953
+bud_hoo_ocmw_tussenkomst_2025,city_hooglede,2025,2297850,,,realized,src_hooglede_jr2025,strong,Tussenkomst gemeente aan OCMW 2.30m FOI (T5); tick953
+bud_hoo_fiscal_2025,city_hooglede,2025,10757012,,,realized,src_hooglede_jr2025,strong,Fiscale opbrengsten 10.8m; tick953
+bud_hoo_fin_costs_2025,city_hooglede,2025,552964,,,realized,src_hooglede_jr2025,strong,Financiele kosten 0.553m; tick953
+bud_hoo_goederen_2025,city_hooglede,2025,6617782,,,realized,src_hooglede_jr2025,strong,Goederen en diensten 6.62m; tick953
+bud_hoo_dividends_2025,city_hooglede,2025,1075369,,,realized,src_hooglede_jr2025,strong,Reguliere dividenden 1.08m (no exceptional; 2024 had Publi-T 3.09m); tick953
+bud_hoo_responsabilisering_2025,city_hooglede,2025,67919,,,realized,src_hooglede_jr2025,strong,Eerste responsabiliseringsbijdrage 0.068m FOI; tick953
+bud_hoo_dienstencheques_tekort_2025,city_hooglede,2025,293790,,,realized,src_hooglede_jr2025,strong,Dienstenhuis/dienstencheques kastekort 0.294m FOI; tick953
+bud_hoo_eindeopstal_zevekote,city_hooglede,2025,1437339,,,commitment,src_hooglede_jr2025,strong,Eindeopstal serviceflats Zevekote due 2027 1.44m FOI; tick953
+bud_hoo_eindeopstal_terlinde,city_hooglede,2025,2628799,,,commitment,src_hooglede_jr2025,strong,Eindeopstal serviceflats Ter Linde due 2038 2.63m FOI; tick953
+bud_hoo_financing_saldo_2025,city_hooglede,2025,2728677,,,realized,src_hooglede_jr2025,strong,Financieringssaldo +2.73m; tick953

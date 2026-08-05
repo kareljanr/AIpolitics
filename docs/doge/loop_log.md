@@ -12103,3 +12103,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47 (bud_pit_*); commitments +5; leaderboard +7; sources +2; entity city_pittem; FOI **gap_pit_budget_farys_pension_toelagen_l5** prio8 ready + draft; key only (PDF ~17MB not stored); rq_952=done; spawn **rq_953**; ticks=952
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_953** residual dual L5 (Torhout full BBC if published / Roeselare / Oostrozebeke / Meulebeke / other unmined VL JR2025); deferred **rq_116**; progress@960 in 8
+
+
+### Tick 953 - 2026-08-08T02:00:00Z
+
+- Unit: **rq_953** (FOI-adjacent residual dual - **Gemeente+OCMW Hooglede Jaarrekening 2025** + Pittem dual residual)
+- Found (strong primary BBC JR2025 221p; KBO 0207.490.621 / OCMW 0212.220.360; GR 23.04.2026 pub 28.04.2026):
+  - Assets **EUR110.0m** / equity **EUR83.1m** / debt total **EUR26.9m** / fin debt **EUR20.8m** (**RISING** from **EUR18.1m**; LT **EUR18.8m** / ST due **EUR2.03m**)
+  - New loans/lease **EUR4.76m** (OCMW **EUR3.4m** + gem **EUR1.25m** + Fluvius **EUR0.112m**) / repayments **EUR2.03m**
+  - Cash **EUR4.96m DECLINING** (was EUR5.86m) / pension LT **EUR0.641m** / FVA IGS **EUR27.8m FOI**
+  - Exploitatie: ontvangsten **EUR33.8m** / uitgaven **EUR30.1m** / saldo **+EUR3.66m**
+  - OCMW expl saldo **-EUR1.56m RISING tekort FOI** / tussenkomst **EUR2.30m**
+  - AFM **+EUR1.64m** (gecorr **+EUR2.22m**) / BBR **EUR2.58m** / budget **-EUR1.23m FOI** / P&L **+EUR0.312m**
+  - Personnel **EUR19.8m** / toelagen **EUR2.40m** (police **EUR1.56m JUMP +0.45m FOI** / HVZ **EUR0.33m** / kerk **EUR0.125m**)
+  - Invest **EUR8.14m** vs MJP **EUR9.94m 82pct** / carryover **EUR1.45m FOI** / **WZC B-vleugel EUR4.36m FOI**
+  - Eindeopstal Zevekote **EUR1.44m (2027)** + Ter Linde **EUR2.63m (2038)** FOI / responsabilisering first **EUR0.068m** / dienstenhuis tekort **EUR0.294m**
+- Dual: Pittem **EUR64.7m** / fin debt **EUR4.68m declining** / cash **EUR12.6m** (tick952) - not TE-additive
+- Note: Torhout JR2025 news only (AFM 3.1m / debt 27.2m) - full BBC PDF not yet on beleidsdocumenten page
+- Wrote: budgets +55 (bud_hoo_*); commitments +5; leaderboard +7; sources +2; entity city_hooglede; FOI **gap_hoo_debt_wzc_ocmw_toelagen_l5** prio8 ready + draft; raw PDF 4.3MB; rq_953=done; spawn **rq_954**; ticks=953
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_954** residual dual L5 (Torhout full BBC if published / Roeselare / Meulebeke / Lichtervelde / other unmined VL JR2025); deferred **rq_116**; progress@960 in 7
