@@ -14085,3 +14085,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1057** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1057 - 2026-08-10T17:45:00Z
+
+- Unit: **rq_1057** (FOI-adjacent residual dual - **Lokaal Bestuur Eeklo Jaarrekening 2025** + Denderleeuw dual residual)
+- Found (strong primary BBC JR2025 beleidsportaal; pub 22.06.2026; GE+OCMW; JR note Farys sporthal invest-toelage reclass to leasing):
+  - Assets **EUR137.61m JUMP** / equity **EUR89.85m slight DROP** / debt total **EUR47.76m JUMP** / fin debt **EUR33.19m JUMP HIGH FOI** (LT **EUR30.59m** / ST due **EUR2.60m**; was **EUR16.09m**)
+  - New loans **EUR24.13m MASSIVE JUMP FOI** (bank **EUR9.00m** + other/Farys **EUR15.13m**) / repayments **EUR7.03m JUMP**
+  - Cash **EUR10.49m JUMP** / pension **EUR7.48m JUMP FOI** / FVA IGS **EUR28.92m** / leasing MVA **EUR11.80m JUMP** (was **EUR2.23m**)
+  - Exploitatie: ontvangsten **EUR50.39m** / uitgaven **EUR45.58m** / saldo **+EUR4.82m STRONG**
+  - AFM **EUR-2.19m NEG HIGH FOI** (Farys) / gecorr **+EUR3.56m** / BBR **EUR15.15m VERY HIGH FOI** / budget **+EUR3.03m** / cum BR **EUR15.33m** / equity-cum delta **EUR-1.60m**
+  - Personnel **EUR25.13m JUMP** / toelagen **EUR6.46m FOI** (police **EUR3.53m** / fire **EUR0.800m** / IGS **EUR0.909m** / other **EUR1.17m**)
+  - Invest **EUR21.33m** vs MJP **EUR15.63m OVERSPEND FOI** (Farys-driven)
+  - **OCMW structural gap EUR2.35m HIGH FOI** (J3 exp **EUR12.56m** / rec **EUR10.22m**)
+- Dual: Denderleeuw assets **EUR96.54m** / cash DROP **EUR6.03m** / budget **EUR-4.19m** / OCMW gap **EUR2.84m** (tick1056) - not TE-additive
+- Note: Maldegem / SKW / Torhout / Oosterzele / Nijlen residual next; progress@1060
+- Wrote: budgets +51 (bud_eek_*); commitments +7; leaderboard +8; sources +1; entity city_eeklo; FOI **gap_eek_farys_debt_afm_ocmw_toelagen_bbr_l5** prio9 ready + draft; portal primary; rq_1057=done; spawn **rq_1058**; ticks=1057
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1058** residual dual L5; deferred **rq_116**; progress@1060
+

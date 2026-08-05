@@ -26652,3 +26652,54 @@ bud_den_invest_subs_rec_2025,city_denderleeuw,2025,698605,,,bbc_jr_realized,src_
 bud_den_invest_subs_granted_2025,city_denderleeuw,2025,646134,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toegestane invest-subs 0.646m (police 0.384 fire 0.161); tick1056
 bud_den_vorderingen_kt_2025,city_denderleeuw,2025,6572058,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Vorderingen KT YE2025 6.57m JUMP (was 5.45m); tick1056
 bud_den_cash_drop_2025,city_denderleeuw,2025,6032699,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Cash DROP magnitude 6.03m (10.25to4.21) HIGH FOI residual; tick1056
+bud_eek_assets_2025,city_eeklo,2025,137614728,,,bbc_jr_realized,src_eeklo_jr2025,strong,Assets YE2025 137.61m JUMP (was 121.14m); tick1057
+bud_eek_equity_2025,city_eeklo,2025,89853017,,,bbc_jr_realized,src_eeklo_jr2025,strong,Nettoactief YE2025 89.85m slight DROP (was 90.23m); tick1057
+bud_eek_debt_total_2025,city_eeklo,2025,47761170,,,bbc_jr_realized,src_eeklo_jr2025,strong,Total schulden YE2025 47.76m JUMP HIGH FOI (was 30.91m); tick1057
+bud_eek_fin_debt_2025,city_eeklo,2025,33188095,,,bbc_jr_realized,src_eeklo_jr2025,strong,Fin debt total YE2025 33.19m JUMP HIGH FOI Farys leasing reclass (was 16.09m T4); tick1057
+bud_eek_fin_debt_lt_2025,city_eeklo,2025,30586416,,,bbc_jr_realized,src_eeklo_jr2025,strong,Fin debt LT YE2025 30.59m JUMP HIGH FOI (was 14.54m); tick1057
+bud_eek_fin_debt_st_due_2025,city_eeklo,2025,2601678,,,bbc_jr_realized,src_eeklo_jr2025,strong,Fin debt ST due YE2025 2.60m JUMP; tick1057
+bud_eek_fin_debt_st_2025,city_eeklo,2025,0,,,bbc_jr_realized,src_eeklo_jr2025,strong,Fin debt ST treasury YE2025 0; tick1057
+bud_eek_new_loans_2025,city_eeklo,2025,24127558,,,bbc_jr_realized,src_eeklo_jr2025,strong,Nieuwe leningen/leasings 24.13m MASSIVE JUMP FOI (bank 9.00 + other/Farys 15.13); tick1057
+bud_eek_aflossingen_2025,city_eeklo,2025,7030585,,,bbc_jr_realized,src_eeklo_jr2025,strong,Periodieke aflossingen 7.03m JUMP HIGH FOI (Farys-driven); tick1057
+bud_eek_cash_2025,city_eeklo,2025,10488712,,,bbc_jr_realized,src_eeklo_jr2025,strong,Liquide middelen YE2025 10.49m JUMP (was 9.49m); tick1057
+bud_eek_pension_2025,city_eeklo,2025,7484000,,,bbc_jr_realized,src_eeklo_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.48m JUMP FOI (was 6.40m); tick1057
+bud_eek_cap_subs_2025,city_eeklo,2025,14494700,,,bbc_jr_realized,src_eeklo_jr2025,strong,Kapitaalsubsidies YE2025 14.49m; tick1057
+bud_eek_fva_total_2025,city_eeklo,2025,29153094,,,bbc_jr_realized,src_eeklo_jr2025,strong,FVA total YE2025 29.15m HIGH; tick1057
+bud_eek_fva_igs_2025,city_eeklo,2025,28923254,,,bbc_jr_realized,src_eeklo_jr2025,strong,FVA IGS YE2025 28.92m HIGH FOI; tick1057
+bud_eek_leasing_mva_2025,city_eeklo,2025,11799444,,,bbc_jr_realized,src_eeklo_jr2025,strong,Leasing MVA YE2025 11.80m JUMP HIGH FOI Farys (was 2.23m); tick1057
+bud_eek_expl_rec_2025,city_eeklo,2025,50393552,,,bbc_jr_realized,src_eeklo_jr2025,strong,Exploitatieontvangsten 50.39m; tick1057
+bud_eek_expl_exp_2025,city_eeklo,2025,45577912,,,bbc_jr_realized,src_eeklo_jr2025,strong,Exploitatieuitgaven 45.58m; tick1057
+bud_eek_expl_saldo_2025,city_eeklo,2025,4815641,,,bbc_jr_realized,src_eeklo_jr2025,strong,Exploitatiesaldo +4.82m STRONG; tick1057
+bud_eek_invest_exp_2025,city_eeklo,2025,21328289,,,bbc_jr_realized,src_eeklo_jr2025,strong,Investeringsuitgaven 21.33m vs MJP 15.63m OVERSPEND FOI Farys; tick1057
+bud_eek_invest_rec_2025,city_eeklo,2025,2520801,,,bbc_jr_realized,src_eeklo_jr2025,strong,Investeringsontvangsten 2.52m; tick1057
+bud_eek_invest_saldo_2025,city_eeklo,2025,-18807488,,,bbc_jr_realized,src_eeklo_jr2025,strong,Investeringssaldo -18.81m HIGH FOI; tick1057
+bud_eek_mjp_invest_planned_2025,city_eeklo,2025,15633773,,,bbc_jr_realized,src_eeklo_jr2025,strong,MJP invest planned 15.63m vs realized 21.33m overspend FOI; tick1057
+bud_eek_afm_2025,city_eeklo,2025,-2188064,,,bbc_jr_realized,src_eeklo_jr2025,strong,AFM -2.19m NEG HIGH FOI (Farys reclass note JR); tick1057
+bud_eek_afm_corr_2025,city_eeklo,2025,3555232,,,bbc_jr_realized,src_eeklo_jr2025,strong,Gecorrigeerde AFM +3.56m STRONG flip; tick1057
+bud_eek_bbr_2025,city_eeklo,2025,15146488,,,bbc_jr_realized,src_eeklo_jr2025,strong,BBR beschikbaar +15.15m VERY HIGH FOI residual; tick1057
+bud_eek_budget_result_2025,city_eeklo,2025,3026250,,,bbc_jr_realized,src_eeklo_jr2025,strong,Budgettair resultaat +3.03m STRONG (vs MJP -3.83m); tick1057
+bud_eek_cum_br_2025,city_eeklo,2025,15333155,,,bbc_jr_realized,src_eeklo_jr2025,strong,Gecumuleerd budgettair resultaat +15.33m; tick1057
+bud_eek_pnl_2025,city_eeklo,2025,-1602760,,,bbc_jr_realized,src_eeklo_jr2025,strong,Equity cum delta -1.60m (cum 20.65 vs 22.25m) proxy P&L NEG FOI; tick1057
+bud_eek_ge_expl_exp_2025,city_eeklo,2025,33014448,,,bbc_jr_realized,src_eeklo_jr2025,strong,GE exploitatieuitgaven J3 33.01m; tick1057
+bud_eek_ge_expl_rec_2025,city_eeklo,2025,40175951,,,bbc_jr_realized,src_eeklo_jr2025,strong,GE exploitatieontvangsten J3 40.18m; tick1057
+bud_eek_ocmw_expl_exp_2025,city_eeklo,2025,12563464,,,bbc_jr_realized,src_eeklo_jr2025,strong,OCMW exploitatieuitgaven J3 12.56m; tick1057
+bud_eek_ocmw_expl_rec_2025,city_eeklo,2025,10217601,,,bbc_jr_realized,src_eeklo_jr2025,strong,OCMW exploitatieontvangsten J3 10.22m; tick1057
+bud_eek_ocmw_expl_gap_2025,city_eeklo,2025,-2345863,,,bbc_jr_realized,src_eeklo_jr2025,strong,OCMW expl gap -2.35m HIGH FOI residual; tick1057
+bud_eek_ocmw_structural_gap_2025,city_eeklo,2025,2345863,,,bbc_jr_realized,src_eeklo_jr2025,strong,OCMW structural gap 2.35m HIGH FOI residual dual; tick1057
+bud_eek_equity_cum_2025,city_eeklo,2025,20647768,,,bbc_jr_realized,src_eeklo_jr2025,strong,Gecumuleerd overschot YE2025 +20.65m DROP (was 22.25m); tick1057
+bud_eek_personnel_2025,city_eeklo,2025,25129578,,,bbc_jr_realized,src_eeklo_jr2025,strong,Bezoldigingen 25.13m JUMP HIGH FOI (edu other 2.93m); tick1057
+bud_eek_edu_pass_through_2025,city_eeklo,2025,2927693,,,bbc_jr_realized,src_eeklo_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.93m; tick1057
+bud_eek_toelagen_2025,city_eeklo,2025,6459791,,,bbc_jr_realized,src_eeklo_jr2025,strong,Toegestane werkingssubsidies 6.46m FOI residual; tick1057
+bud_eek_toelagen_police_2025,city_eeklo,2025,3525900,,,bbc_jr_realized,src_eeklo_jr2025,strong,Toelage politiezone 3.53m HIGH FOI; tick1057
+bud_eek_toelagen_fire_2025,city_eeklo,2025,800440,,,bbc_jr_realized,src_eeklo_jr2025,strong,Toelage hulpverleningszone 0.800m; tick1057
+bud_eek_toelagen_igs_2025,city_eeklo,2025,909134,,,bbc_jr_realized,src_eeklo_jr2025,strong,Toelage IGS 0.909m JUMP FOI; tick1057
+bud_eek_toelagen_eredienst_2025,city_eeklo,2025,14805,,,bbc_jr_realized,src_eeklo_jr2025,strong,Toelage erediensten 0.015m; tick1057
+bud_eek_toelagen_other_2025,city_eeklo,2025,1172624,,,bbc_jr_realized,src_eeklo_jr2025,strong,Toelage andere begunstigden 1.17m FOI residual; tick1057
+bud_eek_ocmw_aid_2025,city_eeklo,2025,5094389,,,bbc_jr_realized,src_eeklo_jr2025,strong,OCMW individuele hulp 5.09m JUMP FOI; tick1057
+bud_eek_fiscal_2025,city_eeklo,2025,21595926,,,bbc_jr_realized,src_eeklo_jr2025,strong,Fiscale opbrengsten 21.60m JUMP; tick1057
+bud_eek_fiscal_ov_2025,city_eeklo,2025,8603180,,,bbc_jr_realized,src_eeklo_jr2025,strong,Opcentiemen OV 8.60m; tick1057
+bud_eek_fiscal_pb_2025,city_eeklo,2025,8390129,,,bbc_jr_realized,src_eeklo_jr2025,strong,Aanvullende PB 8.39m JUMP; tick1057
+bud_eek_gemeentefonds_2025,city_eeklo,2025,10442959,,,bbc_jr_realized,src_eeklo_jr2025,strong,Gemeentefonds 10.44m; tick1057
+bud_eek_interest_2025,city_eeklo,2025,880117,,,bbc_jr_realized,src_eeklo_jr2025,strong,Rente/commissies schulden 0.880m JUMP FOI; tick1057
+bud_eek_vorderingen_kt_2025,city_eeklo,2025,9387627,,,bbc_jr_realized,src_eeklo_jr2025,strong,Vorderingen KT YE2025 9.39m; tick1057
+bud_eek_farys_reclass_note_2025,city_eeklo,2025,24127558,,,bbc_jr_realized,src_eeklo_jr2025,strong,Farys sporthal invest-toelage reclass to leasing FOI residual (JR note J2/T4); tick1057
