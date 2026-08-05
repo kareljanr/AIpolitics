@@ -14007,3 +14007,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1053** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1053 - 2026-08-10T15:45:00Z
+
+- Unit: **rq_1053** (FOI-adjacent residual dual - **Lokaal Bestuur Kluisbergen Jaarrekening 2025** + Stekene dual residual)
+- Found (strong primary BBC JR2025 getekend 118p portal; KBO 0207.690.757 / OCMW 0212.334.483; Parklaan 16; AD Lotje Demedts FD Wendy Vernou; GR 08.07.2026):
+  - Assets **EUR40.91m JUMP** / equity **EUR30.32m DROP** / debt total **EUR10.58m JUMP** / fin debt **EUR4.99m JUMP HIGH FOI** (LT **EUR4.63m** / ST due **EUR0.359m**; was ~**EUR2.06m**)
+  - New loans **EUR3.20m VERY HIGH JUMP FOI** / repayments **EUR0.266m**
+  - Cash **EUR3.73m JUMP** / pension **EUR3.84m JUMP FOI** (was **EUR3.21m**) / FVA IGS **EUR9.83m** / leasing MVA **EUR1.22m**
+  - Exploitatie: ontvangsten **EUR12.43m** / uitgaven **EUR11.47m** / saldo **+EUR0.960m STRONG**
+  - AFM **+EUR0.707m STRONG** (gecorr **+EUR0.809m**) / BBR **EUR3.77m HIGH FOI** / budget **+EUR0.977m STRONG flip** / cum BR **EUR3.77m** / P&L **EUR-1.84m NEG HIGH FOI**
+  - Personnel **EUR6.22m JUMP** / toelagen **EUR1.45m FOI** (police net **EUR0.757m** post-fusie refund **-EUR0.116m** / fire **EUR0.226m** / eredienst **EUR0.079m** / other **EUR0.388m**)
+  - Invest **EUR4.45m** vs MJP **EUR7.53m UNDERSPEND FOI** / invest-subs granted **EUR2.12m** (**Aquario EUR1.78m HIGH FOI**) / desinvest **EUR1.43m**
+  - **OCMW structural gap EUR0.647m FOI** (expl saldo **-EUR0.647m**; no classic cover line)
+  - Schuld/inwoner **EUR727**
+- Dual: Stekene assets **EUR117.44m** / pension DROP **EUR4.32m** / OCMW cover **EUR1.54m FULL** / toelagen **EUR7.51m** (tick1052) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Berlaar / Nijlen residual next; progress@1060
+- Wrote: budgets +51 (bud_kluis_*); commitments +6; leaderboard +8; sources +1; entity city_kluisbergen; FOI **gap_kluis_loans_pnl_aquario_toelagen_l5** prio9 ready + draft; key only (PDF ~64MB not stored in git); rq_1053=done; spawn **rq_1054**; ticks=1053
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1054** residual dual L5; deferred **rq_116**; progress@1060
+

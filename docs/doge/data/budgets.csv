@@ -26444,3 +26444,54 @@ bud_stek_invest_subs_rec_2025,city_stekene,2025,1321971,,,bbc_jr_realized,src_st
 bud_stek_invest_subs_granted_2025,city_stekene,2025,309912,,,bbc_jr_realized,src_stekene_jr2025,strong,Toegestane invest-subs 0.310m DROP; tick1052
 bud_stek_ocmw_invest_exp_2025,city_stekene,2025,4568,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW invest uitgaven 0.005m; tick1052
 bud_stek_schuld_per_inwoner_2025,city_stekene,2025,2146,,,bbc_jr_realized,src_stekene_jr2025,strong,Openstaande schuld per inwoner EUR2146; tick1052
+bud_kluis_assets_2025,city_kluisbergen,2025,40906347,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Assets YE2025 40.91m JUMP (was 38.66m); tick1053
+bud_kluis_equity_2025,city_kluisbergen,2025,30321873,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Nettoactief YE2025 30.32m DROP (was 31.76m); tick1053
+bud_kluis_debt_total_2025,city_kluisbergen,2025,10584475,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Total schulden YE2025 10.58m JUMP (was 6.90m); tick1053
+bud_kluis_fin_debt_2025,city_kluisbergen,2025,4993433,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Fin debt total YE2025 4.99m JUMP HIGH FOI (LT 4.63 + ST due 0.36; was ~2.06m); tick1053
+bud_kluis_fin_debt_lt_2025,city_kluisbergen,2025,4633996,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Fin debt LT YE2025 4.63m JUMP (was 1.84m); tick1053
+bud_kluis_fin_debt_st_due_2025,city_kluisbergen,2025,359437,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Fin debt ST due YE2025 0.359m; tick1053
+bud_kluis_fin_debt_st_2025,city_kluisbergen,2025,0,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Fin debt ST treasury YE2025 0; tick1053
+bud_kluis_new_loans_2025,city_kluisbergen,2025,3203071,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Nieuwe leningen 3.20m VERY HIGH JUMP FOI; tick1053
+bud_kluis_aflossingen_2025,city_kluisbergen,2025,265934,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Periodieke aflossingen 0.266m; tick1053
+bud_kluis_cash_2025,city_kluisbergen,2025,3727994,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Liquide middelen YE2025 3.73m JUMP (was 2.63m); tick1053
+bud_kluis_pension_2025,city_kluisbergen,2025,3839426,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.84m JUMP FOI (was 3.21m); tick1053
+bud_kluis_cap_subs_2025,city_kluisbergen,2025,2148967,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Kapitaalsubsidies YE2025 2.15m; tick1053
+bud_kluis_fva_total_2025,city_kluisbergen,2025,9898497,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,FVA total YE2025 9.90m; tick1053
+bud_kluis_fva_igs_2025,city_kluisbergen,2025,9831237,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,FVA IGS YE2025 9.83m; tick1053
+bud_kluis_leasing_mva_2025,city_kluisbergen,2025,1218517,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Leasing MVA YE2025 1.22m; tick1053
+bud_kluis_expl_rec_2025,city_kluisbergen,2025,12428260,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Exploitatieontvangsten 12.43m; tick1053
+bud_kluis_expl_exp_2025,city_kluisbergen,2025,11468013,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Exploitatieuitgaven 11.47m; tick1053
+bud_kluis_expl_saldo_2025,city_kluisbergen,2025,960247,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Exploitatiesaldo +0.960m STRONG; tick1053
+bud_kluis_invest_exp_2025,city_kluisbergen,2025,4446476,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Investeringsuitgaven J2 4.45m vs MJP 7.53m UNDERSPEND FOI; tick1053
+bud_kluis_invest_rec_2025,city_kluisbergen,2025,1513068,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Investeringsontvangsten J2 1.51m; tick1053
+bud_kluis_invest_saldo_2025,city_kluisbergen,2025,-2933408,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Investeringssaldo -2.93m; tick1053
+bud_kluis_mjp_invest_planned_2025,city_kluisbergen,2025,7525274,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,MJP invest planned 7.53m vs realized 4.45m underspend FOI; tick1053
+bud_kluis_afm_2025,city_kluisbergen,2025,707271,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,AFM +0.707m STRONG; tick1053
+bud_kluis_afm_corr_2025,city_kluisbergen,2025,808701,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Gecorrigeerde AFM +0.809m STRONG; tick1053
+bud_kluis_bbr_2025,city_kluisbergen,2025,3768907,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,BBR beschikbaar +3.77m HIGH FOI; tick1053
+bud_kluis_budget_result_2025,city_kluisbergen,2025,976934,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Budgettair resultaat +0.977m STRONG flip vs MJP -0.452m; tick1053
+bud_kluis_cum_br_2025,city_kluisbergen,2025,3768907,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Gecumuleerd budgettair resultaat +3.77m; tick1053
+bud_kluis_pnl_2025,city_kluisbergen,2025,-1835878,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,P&L -1.84m NEG HIGH FOI (was -0.742m); tick1053
+bud_kluis_ge_expl_exp_2025,city_kluisbergen,2025,9839772,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,GE exploitatieuitgaven 9.84m; tick1053
+bud_kluis_ge_expl_rec_2025,city_kluisbergen,2025,11446878,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,GE exploitatieontvangsten 11.45m; tick1053
+bud_kluis_ocmw_expl_exp_2025,city_kluisbergen,2025,1628241,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,OCMW exploitatieuitgaven 1.63m; tick1053
+bud_kluis_ocmw_expl_rec_2025,city_kluisbergen,2025,981382,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,OCMW exploitatieontvangsten 0.981m; tick1053
+bud_kluis_ocmw_expl_gap_2025,city_kluisbergen,2025,-646859,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,OCMW expl gap -0.647m FOI residual; tick1053
+bud_kluis_ocmw_structural_gap_2025,city_kluisbergen,2025,646859,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,OCMW structural gap 0.647m FOI residual (no classic cover line in kengetallen); tick1053
+bud_kluis_equity_cum_2025,city_kluisbergen,2025,1126049,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Gecumuleerd overschot/tekort consol YE2025 +1.13m DROP (was 2.96m); tick1053
+bud_kluis_personnel_2025,city_kluisbergen,2025,6222930,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Bezoldigingen 6.22m JUMP FOI (was 5.89m); tick1053
+bud_kluis_edu_pass_through_2025,city_kluisbergen,2025,1818634,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Onderwijzend personeel syntheselijsten 1.82m; tick1053
+bud_kluis_toelagen_2025,city_kluisbergen,2025,1450364,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Toegestane werkingssubsidies 1.45m FOI residual; tick1053
+bud_kluis_toelagen_police_2025,city_kluisbergen,2025,757228,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Toelage politiezone net 0.757m (incl refund -0.116m post-fusie); tick1053
+bud_kluis_toelagen_fire_2025,city_kluisbergen,2025,226397,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Toelage brandweer werking 0.226m; tick1053
+bud_kluis_toelagen_eredienst_2025,city_kluisbergen,2025,79211,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Toelage erediensten 0.079m; tick1053
+bud_kluis_toelagen_other_2025,city_kluisbergen,2025,387528,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Toelage andere 0.388m FOI residual; tick1053
+bud_kluis_ocmw_aid_2025,city_kluisbergen,2025,580349,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,OCMW individuele hulp 0.580m; tick1053
+bud_kluis_fiscal_2025,city_kluisbergen,2025,4974191,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Fiscale opbrengsten 4.97m JUMP; tick1053
+bud_kluis_gemeentefonds_2025,city_kluisbergen,2025,3010226,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Algemene werkingssubsidies 3.01m; tick1053
+bud_kluis_interest_2025,city_kluisbergen,2025,79719,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Financiele kosten 0.080m JUMP; tick1053
+bud_kluis_invest_subs_rec_2025,city_kluisbergen,2025,85298,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Ontvangen invest-subs 0.085m; tick1053
+bud_kluis_invest_subs_granted_2025,city_kluisbergen,2025,2122754,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Toegestane invest-subs 2.12m VERY HIGH FOI (Aquario 1.78m); tick1053
+bud_kluis_aquario_invest_subs_2025,city_kluisbergen,2025,1775521,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Aquario tekort aanzuivering invest-subs 1.78m HIGH FOI residual; tick1053
+bud_kluis_desinvest_2025,city_kluisbergen,2025,1427770,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Desinvesteringen 1.43m (o.a. woningverkoop); tick1053
+bud_kluis_schuld_per_inwoner_2025,city_kluisbergen,2025,727,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Openstaande schuld per inwoner EUR727; tick1053
