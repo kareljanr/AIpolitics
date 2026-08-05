@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1110** (2026-08-11) · **~5628** leaderboard rows  
+**As-of:** tick **1120** (2026-08-12) · **~5732** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Zele €192m** / Riemst **€128m** / Keerbergen **€75m** / Halen **€64m** / dual stack retained) · **AGB dual AFM near-zero/NEG + Schelle AGB MJP debt ramp €5.84m** · **LUWA PPP €590m** · **Peer VitaS borg ~€43m contingent** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Halen FVA IGS €20.9m + herwaard €10.7m + invest underspend 1.42 vs MJP 8.92** / **Riemst FVA €36.4m + herwaard €17.0m + new loans €3.25m** / **Zele pension €19.7m + new loans €5.42m + invest OVER** / **Keerbergen new loans €5.46m + invest-subs €3.15m** / **Wellen budget NEG + cash DROP + OCMW ZERO** / **Schelle AGB cash CRITICAL €0.05m + prijssub €0.57m + MJP debt YE2027 €5.84m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Knokke-Heist €394m** / **Zaventem €284m** / **Evergem €241m** / **Kalmthout €180m** / dual stack retained) · **AGB dual AFM NEG + debt** (Zaventem AGB **€23.8m** / Schelle MJP ramp **€5.84m** / Lanaken **€2.24m**) · **LUWA PPP €590m** · **Peer VitaS borg ~€43m contingent** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Zaventem OCMW cum −€23.9m** / **Knokke-Heist toelagen €35.7m + new loans €8.4m** / **Zaventem FVA IGS €50.6m + toelagen €17.3m** / **Kalmthout AGB loan €5.32m + pension JUMP** / **Langemark FVA/herwaard MASSIVE** / **AGB cash CRITICAL** (Zaventem **€0.06m** / Schelle **€0.05m**) / **dividend>profit AGB cluster**.
 
-**Change vs tick 1100:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1101–1110 (off pure top10 / dual):** Limburg/Oost-Vl dual stack (Heers→Zele) with **FVA/herwaard JUMP** (Halen/Riemst/Wellen) · **new-loan cluster** (Zele/Keerbergen/Riemst) · **invest OVER vs UNDERSPEND extremes** · OCMW FULL/ZERO split · **Entity II Schelle AGB MJP debt ramp €5.84m** under city prijssubsidie. Gain is **local dual FVA/debt/OCMW/AGB residual** more than FFS reshuffle.
+**Change vs tick 1110:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1111–1120 (off pure top10 / dual):** coastal+airport dual stack (De Haan→Zaventem) with **OCMW DEEP** (Zaventem −23.9m) · **toelagen MASSIVE** (Knokke €35.7m / Zaventem €17.3m) · **AGB debt/cash/dividend** extremes (Zaventem AGB €23.8m debt + cash CRITICAL + dividend>profit; Lanaken AGB dividend despite loss) · **city→AGB loans** (Kalmthout €5.32m) · FVA/herwaard continues. Gain is **local dual OCMW/AGB/toelagen residual** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_schagb_mjp_debt_ramp_5_84m_2027` | **~5.3 m ramp** | **~7.0** | **NEW 1110** AGB MJP debt |
-| — | `lb_hal_fva_igs_20_93m_2025` | **20.9 m stock** | **~7.3** | **1108** FVA MASSIVE |
-| — | `lb_zel_pension` path | **19.7 m stock** | **~7.0** | **1109** pension JUMP |
-| — | `lb_zou_bbr_neg_4_37m_2025` | **4.4 m NEG** | **~7.8** | **1082** BBR NEG EXTREME |
-| — | `lb_peer_borg_vitas_42_94m_2025` | **42.9 m stock** | **~7.2** | **1099** VitaS borg contingent |
-| — | `lb_dil_ocmw_equity_21_03m_2025` | **21.0 m stock** | **~7.2** | **1098** OCMW equity DEEP ZERO cover |
+| — | `lb_kh_mjp_debt_ramp_39_16m_2026` | **~39 m ramp** | **~7.7** | **1112** MJP debt MASSIVE |
+| — | `lb_zav_ocmw_cum_23_87m_2025` | **23.9 m stock** | **~6.5** | **1118** OCMW DEEP |
+| — | `lb_zavagb_fin_debt_23_76m_2025` | **23.8 m stock** | **~7.3** | **1119** AGB debt MASSIVE |
+| — | `lb_zavagb_cash_critical_2025` | **3.1 m drop** | **~7.4** | **1119** cash CRITICAL |
+| — | `lb_schagb_mjp_debt_ramp_5_84m_2027` | **~5.3 m ramp** | **~7.0** | **1110** AGB MJP debt |
+| — | `lb_lanagb_dividend_0_05m_2025` | **0.05 m** | **~5.7** | **NEW 1120** dividend despite loss |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,9 +56,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_zou_bbr_neg_4_37m_2025` | **9.5** | **1082** BBR NEG EXTREME |
-| `lb_schagb_mjp_debt_ramp_5_84m_2027` | **9.0** | **NEW 1110** AGB debt 11× by 2027 |
-| `lb_schagb_cash_0_051m_2025` | **8.5** | **NEW 1110** cash CRITICAL |
-| `lb_hal_fva_igs_20_93m_2025` | **9.0** | **1108** FVA IGS MASSIVE JUMP |
-| `lb_hal_invest_underspend_2025` | **8.5** | **1108** invest 1.42 vs MJP 8.92 |
-| `lb_zel_pension` / loans path | **8.5** | **1109** pension+loans JUMP |
+| `lb_zavagb_cash_critical_2025` | **8.0** | **1119** AGB cash CRITICAL DROP |
+| `lb_zavagb_dividend_0_25m_2025` | **7.0** | **1119** dividend > profit |
+| `lb_lanagb_dividend_0_05m_2025` | **7.0** | **NEW 1120** dividend despite loss |
+| `lb_zav_ocmw_cum_23_87m_2025` | **8.0** | **1118** OCMW cum DEEP |
+| `lb_kh_mjp_debt_ramp_39_16m_2026` | **8.0** | **1112** MJP debt ramp |
+| `lb_schagb_mjp_debt_ramp_5_84m_2027` | **9.0** | **1110** AGB debt 11× by 2027 |

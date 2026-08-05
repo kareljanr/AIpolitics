@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1120** (2026-08-12)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1111-1119 + Entity II 1120: De Haan **EUR150.7m** / Knokke-Heist **EUR393.8m** / Langemark-Poelkapelle **EUR73.2m** / Evergem **EUR241.2m** + AGB / Brakel Najaarszon **EUR5.3m** / Kalmthout **EUR179.9m** + AGB / **Zaventem EUR283.9m** + AGB **EUR27.0m** · **Lanaken AGB EUR6.5m** Entity II · prior 1101-1110 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1111-1120 is VL residual dual L5 (not near-complete of 348bn):** **OCMW DEEP holes** Zaventem cum **−EUR23.87m** / Evergem P&L **−EUR6.30m** · **toelagen MASSIVE** Knokke-Heist **EUR35.7m** / Zaventem **EUR17.3m** · **cash extremes** Evergem **EUR52.2m** / De Haan **EUR34.5m** vs AGB CRITICAL (Zaventem AGB **EUR0.06m** / Schelle **EUR0.05m**) · **FVA/herwaard** Langemark IGS **EUR16.0m** / herwaard **EUR8.8m** / Zaventem FVA IGS **EUR50.6m** · **new loans** Knokke-Heist **EUR8.37m** / Kalmthout AGB loan **EUR5.32m** · **Entity II AGB debt** Zaventem AGB **EUR23.8m** / Lanaken AGB **EUR2.24m** · **dividend > profit** AGB pattern (Zaventem **EUR0.25m>0.07m** / Lanaken **EUR0.05m** despite loss) · **pension JUMP/DROP** Kalmthout **+EUR2.61m** / Zaventem **−EUR3.92m** · invest UNDERSPEND systemic (Knokke / Zaventem / Kalmthout) |
+| **E. FOI-ready gaps** | **~766** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~808** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Knokke-Heist EUR394m** / **Zaventem EUR284m** / **Evergem EUR241m** / **Kalmthout EUR180m** / **De Haan EUR151m** / dual stack retained not full TE) · **AGB dual AFM NEG + debt** (Zaventem AGB **EUR23.8m** / Schelle MJP ramp **EUR5.84m** / Lanaken **EUR2.24m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1120)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~29534 |
+| commitments.csv | ~3732 |
+| leaderboard.csv | ~5732 |
+| entities.csv | ~841 |
+| sources.csv | ~2030 |
+| FOI ready | ~766 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~808 |
+| research_queue open | rq_116 deferred + rq_1121 hole-fill after progress |
+
+### What improved since tick 1110
+
+- **VL residual dual JR2025 (tick1111-1119):** De Haan / Knokke-Heist / Langemark-Poelkapelle / Evergem (+AGB) / Brakel Najaarszon / Kalmthout (+AGB dual) / **Zaventem GE+OCMW+AGB**.
+- **Entity II (tick1120):** **AGB Lanaken** — AFM **−EUR0.11m NEG**, dividend **EUR0.05m** despite P&L loss, toelagen out **EUR0.41m** to andere, fin debt **EUR2.24m** declining; GE+OCMW Lanaken still FOI.
+- **Dual map themes:** **OCMW DEEP** (Zaventem cum −23.9m / Evergem) · **AGB cash CRITICAL + dividend>profit** (Zaventem AGB) · **city→AGB loans** (Kalmthout **EUR5.32m** / Zaventem **EUR1.08m**) · **toelagen/FVA MASSIVE** coastal + airport cities · FVA/herwaard continues (Langemark) · invest UNDERSPEND still systemic · AGB AFM NEG cluster expands (Zaventem / Lanaken / Schelle path).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1110** (2026-08-11)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

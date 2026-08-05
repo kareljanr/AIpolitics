@@ -15340,3 +15340,27 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +~23 AGB full (bud_zavagb_*); commitments +8; leaderboard +10; sources +1; entity agb_zaventem updated; FOI **gap_zavagb_debt_cash_dividend_prijssub_l5** prio9 ready + draft; PDF primary (not committed ~9.7MB); rq_1119=done; spawn **rq_1120**; ticks=1119
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1120** = **progress@1120 decade refresh** then residual dual L5; deferred **rq_116**
+
+### Tick 1120 - 2026-08-12T01:30:00Z
+
+- Unit: **rq_1120** (**progress@1120 decade refresh** + FOI-adjacent residual dual - **AGB Lanaken Jaarrekening 2025** Entity II)
+- **Progress@1120 (mandatory):**
+  - Layers A/B still **100%** of EUR347.956bn TE; C **~99%** OoM; D **~74-88%** generous (not near-complete of 348bn)
+  - Inventory: budgets **~29534** / commitments **~3732** / leaderboard **~5732** / entities **~841** / sources **~2030** / FOI ready **~766** (total **~808**; answered ~9; partial ~27)
+  - Waste top10 pure annual **stable** (GIP / fossil / cars / cheque / reporté #1-10); Metro3/OWV stock-filtered
+  - Gain 1111-1120: coastal+airport dual stack (De Haan→Zaventem) OCMW DEEP / toelagen MASSIVE / AGB debt-cash-dividend extremes + **Lanaken AGB** Entity II
+  - Refreshed: progress_every_10_ticks.md + doge_waste_top10_current.md
+- Found AGB Lanaken (strong primary BBC JR2025 72p text; lanaken.be; KBO **0871.907.561**; NIS 73042; Aan de Engelse Hof 10 bus 4 3620; Dir M. Stylman Voorzitter M. Keulen):
+  - Assets **EUR6.524m DROP** (was **EUR7.109m**) / equity **EUR3.915m** / debt total **EUR2.609m** / fin debt **EUR2.235m DECLINE FOI** (LT **EUR1.921m** / ST due **EUR0.314m**; was **EUR2.560m**)
+  - New loans **EUR0** / repayments **EUR0.325m**
+  - Cash **EUR0.257m JUMP** (was **EUR0.224m**)
+  - Exploitatie: ontvangsten **EUR1.275m** / uitgaven **EUR1.058m** / saldo **+EUR0.217m STRONG**
+  - AFM **−EUR0.105m NEG FOI** (gecorr **+EUR0.015m POS**; MJP was **−EUR0.308m**) / BBR **EUR0.269m** / budget **−EUR0.129m NEG FOI**
+  - P&L **−EUR0.036m** (was **−EUR0.117m**) / **uitgekeerde winst EUR0.050m > loss HIGH FOI**
+  - Toelagen out **EUR0.407m FOI** (andere) / werkingssub in **EUR0.367m FOI** / omzet **EUR0.891m** / goederen **EUR0.535m** / personnel **EUR0.016m LOW**
+  - Invest **EUR0.037m** vs MJP **EUR0.157m UNDERSPEND FOI** / intresten **EUR0.009m**
+- Dual: Zaventem AGB debt MASSIVE / cash CRITICAL / dividend>profit (tick1119) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs full JR / Lanaken GE+OCMW residual next; progress@1130 in 10
+- Wrote: progress@1120 files; budgets +25 (bud_lanagb_*); commitments +7; leaderboard +8; sources +1; entities city_lanaken + agb_lanaken; FOI **gap_lanagb_afm_dividend_toelagen_l5** prio9 ready + draft; PDF primary (not committed ~6.8MB); rq_1120=done; spawn **rq_1121**; ticks=1120
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1121** residual dual L5; deferred **rq_116**; progress@1130 in 10

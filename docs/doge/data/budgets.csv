@@ -29508,3 +29508,28 @@ bud_zavagb_interest_2025,agb_zaventem,2025,101212,,,bbc_jr_realized,src_zaventem
 bud_zavagb_mva_2025,agb_zaventem,2025,25025728,,,bbc_jr_realized,src_zaventem_agb_jr2025,strong,AGB MVA 25.026m (bedrijfsmatig 25.004m); tick1119
 bud_zavagb_leasing_mva_2025,agb_zaventem,2025,3246133,,,bbc_jr_realized,src_zaventem_agb_jr2025,strong,AGB leasing MVA 3.246m; tick1119
 bud_zavagb_kapitaalsverhoging_2025,agb_zaventem,2025,196970,,,bbc_jr_realized,src_zaventem_agb_jr2025,strong,AGB kapitaalsvermeerdering city 0.197m annual FOI; tick1119
+bud_lanagb_assets_2025,agb_lanaken,2025,6523678,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB assets 6.524m DROP FOI; tick1120
+bud_lanagb_equity_2025,agb_lanaken,2025,3914577,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB nettoactief 3.915m; tick1120
+bud_lanagb_debt_total_2025,agb_lanaken,2025,2609101,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB schulden total 2.609m; tick1120
+bud_lanagb_fin_debt_2025,agb_lanaken,2025,2235179,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB fin debt 2.235m DECLINE FOI (LT 1.921 + ST due 0.314; was 2.560m); tick1120
+bud_lanagb_new_loans_2025,agb_lanaken,2025,0,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB new loans 0 in 2025 FOI; tick1120
+bud_lanagb_loan_repay_2025,agb_lanaken,2025,324582,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB periodieke aflossingen 0.325m; tick1120
+bud_lanagb_cash_2025,agb_lanaken,2025,257121,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB cash 0.257m JUMP FOI (was 0.224m); tick1120
+bud_lanagb_expl_ont_2025,agb_lanaken,2025,1275426,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB expl ontvangsten 1.275m; tick1120
+bud_lanagb_expl_uit_2025,agb_lanaken,2025,1058183,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB expl uitgaven 1.058m; tick1120
+bud_lanagb_expl_saldo_2025,agb_lanaken,2025,217243,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB expl saldo +0.217m STRONG; tick1120
+bud_lanagb_afm_2025,agb_lanaken,2025,-105295,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB AFM -0.105m NEG FOI (MJP was -0.308m better); tick1120
+bud_lanagb_afm_gecorr_2025,agb_lanaken,2025,14506,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB gecorr AFM +0.015m POS FOI; tick1120
+bud_lanagb_bbr_2025,agb_lanaken,2025,269039,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB BBR 0.269m; tick1120
+bud_lanagb_budget_2025,agb_lanaken,2025,-129145,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB budget result -0.129m NEG FOI; tick1120
+bud_lanagb_pnl_2025,agb_lanaken,2025,-36050,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB P&L -0.036m improved (was -0.117m); tick1120
+bud_lanagb_dividend_2025,agb_lanaken,2025,50000,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB uitgekeerde winst/dividend 0.050m > P&L loss HIGH FOI; tick1120
+bud_lanagb_toelagen_out_2025,agb_lanaken,2025,407137,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB toegestane werkingssubsidies 0.407m to andere FOI; tick1120
+bud_lanagb_werkingssub_in_2025,agb_lanaken,2025,367137,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB werkingssubsidies received 0.367m specific FOI; tick1120
+bud_lanagb_omzet_2025,agb_lanaken,2025,890993,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB omzet/werking 0.891m; tick1120
+bud_lanagb_goederen_2025,agb_lanaken,2025,535263,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB goederen 0.535m; tick1120
+bud_lanagb_personnel_2025,agb_lanaken,2025,15785,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB personnel 0.016m LOW; tick1120
+bud_lanagb_invest_2025,agb_lanaken,2025,37026,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB invest 0.037m vs MJP 0.157m UNDERSPEND FOI; tick1120
+bud_lanagb_interest_2025,agb_lanaken,2025,8719,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB intresten 0.009m DECLINE; tick1120
+bud_lanagb_mva_2025,agb_lanaken,2025,5888724,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB MVA 5.889m; tick1120
+bud_lanagb_cap_subs_2025,agb_lanaken,2025,2936252,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB kapitaalsubsidies 2.936m; tick1120
