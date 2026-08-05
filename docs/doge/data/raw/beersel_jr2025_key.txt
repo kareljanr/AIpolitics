@@ -1,0 +1,39 @@
+Beersel Gemeente+OCMW Jaarrekening 2025 (BBC 109p) — tick905
+Primary: https://www.beersel.be/file/download/4317a3e7-d89b-4315-910f-73569b20a07a/tqoj60N2eldbr3zpIB8E3IIteOYoOq51fyxX3aAAw3d.pdf
+Portal: https://www.beersel.be/bekendmakingen/detail/330/jaarrekening-gemeente-ocmw-2025
+GR/OCMW: 18/06/2026
+
+BALANCE YE2025 / YE2024
+- Assets: 173,632,508 / 166,935,580
+- Equity: 139,619,424 / 133,254,993
+- Debt total: 34,013,084 / 33,680,587
+- Fin debt total (T4): 10,324,108 / 10,703,715
+  - LT: 9,309,160 / 9,737,404
+  - ST due: 1,014,948 / 966,311
+- Pension: 12,211,614 / 13,049,669
+- Cash: 37,274,270 / 33,399,316
+- Cap subs: 13,895,792 / 12,550,879
+- FVA IGS: 30,503,025 / 30,299,174
+- FVA total: 30,675,244 / 30,459,124
+
+J2 FLOW 2025
+- Expl rec 60,623,008 / exp 51,664,731 / saldo +8,958,277
+- Invest rec 2,866,897 / exp 8,154,263 / saldo -5,287,366
+- Fin saldo -137,189
+- Budget result +3,533,722
+- Cumul budget 34,297,495 / BBR 31,205,939 (onbeschikbaar 3,091,556)
+- AFM +8,332,352 / gecorr +8,463,748
+
+J5 / T2
+- Personnel 30,227,156 (was 24,255,293; onderwijs other 7,511,867 was 3,149,590)
+- Toelagen 6,808,814 (police 3,039,474 fire 1,551,087 AGB 753,802 IGS 53,748 other 1,357,523)
+- OCMW aid 1,180,478
+- Fiscal 31,506,148 (OV 12,531,439 APB 13,173,428)
+- Gemeentefonds 5,697,529
+- Invest-subs granted 1,247,826 (eredienst 909,580 police 226,462 fire 111,784)
+- New loans 608,086 (leasing)
+- MJP fin debt YE2026 12,713,296 YE2027 14,999,362; new loans 2026 3,515,462 / 2027 3,300,000
+- P&L +4,706,171
+
+DUAL: Lier assets 323m invest-subs other 16.8m new loans 32.7m (tick904) — not TE-additive
+FOI: gap_bee_personnel_eredienst_mjp_l5 prio8 ready

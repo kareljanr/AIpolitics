@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T00:45:00Z,rq_904,904,no,tick904 Lier JR2025 dual Mortsel; FOI gap_lir_invest_subs_loans_l5 prio8 invest-subs other 16.8m new loans 32.7m fin debt 106m; next rq_905 residual dual L5; progress@910 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T01:15:00Z,rq_905,905,no,tick905 Beersel JR2025 dual Lier; FOI gap_bee_personnel_eredienst_mjp_l5 prio8 personnel 30.2m cash 37m AFM +8.3m eredienst 0.91m; next rq_906 residual dual L5; progress@910 in 5; rq_116 deferred

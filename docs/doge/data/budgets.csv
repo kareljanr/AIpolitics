@@ -19825,3 +19825,46 @@ bud_lir_invest_subs_other_2025,city_lier,2025,16798936,,,jaarrekening_realized,s
 bud_lir_invest_subs_police_2025,city_lier,2025,500000,,,jaarrekening_realized,src_lier_jr2025,strong,Invest-subs politiezone 0.500m 2025; tick904
 bud_lir_new_loans_2025,city_lier,2025,32684039,,,jaarrekening_realized,src_lier_jr2025,strong,Nieuwe leningen/leasings 32.684m 2025 FOI (bank 32.1m); tick904
 bud_lir_loans_granted_other_2025,city_lier,2025,1500000,,,jaarrekening_realized,src_lier_jr2025,strong,Toegestane leningen andere begunstigden 1.500m 2025 FOI; tick904
+bud_bee_assets_2025,city_beersel,2025,173632508,,,jaarrekening_realized,src_beersel_jr2025,strong,Consol total assets YE2025 173.633m; tick905
+bud_bee_equity_2025,city_beersel,2025,139619424,,,jaarrekening_realized,src_beersel_jr2025,strong,Nettoactief YE2025 139.619m; tick905
+bud_bee_debt_total_2025,city_beersel,2025,34013084,,,jaarrekening_realized,src_beersel_jr2025,strong,Schulden total YE2025 34.013m; tick905
+bud_bee_fin_debt_2025,city_beersel,2025,10324108,,,jaarrekening_realized,src_beersel_jr2025,strong,Fin schulden total YE2025 10.324m (LT 9.309 + ST due 1.015 was 10.704m); tick905
+bud_bee_fin_debt_lt_2025,city_beersel,2025,9309160,,,jaarrekening_realized,src_beersel_jr2025,strong,Fin schulden LT YE2025 9.309m; tick905
+bud_bee_fin_debt_st_2025,city_beersel,2025,1014948,,,jaarrekening_realized,src_beersel_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.015m; tick905
+bud_bee_pension_prov_2025,city_beersel,2025,12211614,,,jaarrekening_realized,src_beersel_jr2025,strong,Pensioenvoorzieningen YE2025 12.212m (was 13.050m); tick905
+bud_bee_cash_2025,city_beersel,2025,37274270,,,jaarrekening_realized,src_beersel_jr2025,strong,Liquide middelen YE2025 37.274m (was 33.399m); tick905
+bud_bee_cap_subs_2025,city_beersel,2025,13895792,,,jaarrekening_realized,src_beersel_jr2025,strong,Kapitaalsubsidies YE2025 13.896m; tick905
+bud_bee_fva_igs_2025,city_beersel,2025,30503025,,,jaarrekening_realized,src_beersel_jr2025,strong,Fin VA IGS YE2025 30.503m; tick905
+bud_bee_fva_total_2025,city_beersel,2025,30675244,,,jaarrekening_realized,src_beersel_jr2025,strong,Fin VA total YE2025 30.675m; tick905
+bud_bee_cumul_budget_2025,city_beersel,2025,34297495,,,jaarrekening_realized,src_beersel_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 34.297m; tick905
+bud_bee_bbr_2025,city_beersel,2025,31205939,,,jaarrekening_realized,src_beersel_jr2025,strong,Beschikbaar budgettair resultaat YE2025 31.206m; tick905
+bud_bee_expl_rec_2025,city_beersel,2025,60623008,,,jaarrekening_realized,src_beersel_jr2025,strong,Exploitatieontvangsten 60.623m 2025 (J2); tick905
+bud_bee_expl_exp_2025,city_beersel,2025,51664731,,,jaarrekening_realized,src_beersel_jr2025,strong,Exploitatieuitgaven 51.665m 2025 (J2); tick905
+bud_bee_expl_saldo_2025,city_beersel,2025,8958277,,,jaarrekening_realized,src_beersel_jr2025,strong,Exploitatiesaldo +8.958m 2025; tick905
+bud_bee_invest_exp_2025,city_beersel,2025,8154263,,,jaarrekening_realized,src_beersel_jr2025,strong,Investeringsuitgaven 8.154m 2025; tick905
+bud_bee_invest_rec_2025,city_beersel,2025,2866897,,,jaarrekening_realized,src_beersel_jr2025,strong,Investeringsontvangsten 2.867m 2025; tick905
+bud_bee_invest_saldo_2025,city_beersel,2025,-5287366,,,jaarrekening_realized,src_beersel_jr2025,strong,Investeringssaldo -5.287m 2025; tick905
+bud_bee_fin_saldo_2025,city_beersel,2025,-137189,,,jaarrekening_realized,src_beersel_jr2025,strong,Financieringssaldo -0.137m 2025; tick905
+bud_bee_budget_result_2025,city_beersel,2025,3533722,,,jaarrekening_realized,src_beersel_jr2025,strong,Budgettair resultaat boekjaar +3.534m 2025; tick905
+bud_bee_afm_2025,city_beersel,2025,8332352,,,jaarrekening_realized,src_beersel_jr2025,strong,Autofinancieringsmarge +8.332m 2025; tick905
+bud_bee_afm_gecorr_2025,city_beersel,2025,8463748,,,jaarrekening_realized,src_beersel_jr2025,strong,Gecorrigeerde AFM +8.464m 2025; tick905
+bud_bee_pl_2025,city_beersel,2025,4706171,,,jaarrekening_realized,src_beersel_jr2025,strong,P&L overschot +4.706m 2025; tick905
+bud_bee_personnel_2025,city_beersel,2025,30227156,,,jaarrekening_realized,src_beersel_jr2025,strong,Bezoldigingen 30.227m 2025 (was 24.255m; onderwijs other 7.512m FOI); tick905
+bud_bee_personnel_onderwijs_other_2025,city_beersel,2025,7511867,,,jaarrekening_realized,src_beersel_jr2025,strong,Onderwijzend personeel ten laste van andere 7.512m 2025 (was 3.150m FOI); tick905
+bud_bee_toelagen_2025,city_beersel,2025,6808814,,,jaarrekening_realized,src_beersel_jr2025,strong,Toegestane werkingssubsidies 6.809m 2025; tick905
+bud_bee_toelagen_police_2025,city_beersel,2025,3039474,,,jaarrekening_realized,src_beersel_jr2025,strong,Toelage politiezone 3.039m 2025; tick905
+bud_bee_toelagen_fire_2025,city_beersel,2025,1551087,,,jaarrekening_realized,src_beersel_jr2025,strong,Toelage hulpverleningszone 1.551m 2025; tick905
+bud_bee_toelagen_agb_2025,city_beersel,2025,753802,,,jaarrekening_realized,src_beersel_jr2025,strong,Toelage AGB 0.754m 2025; tick905
+bud_bee_toelagen_igs_2025,city_beersel,2025,53748,,,jaarrekening_realized,src_beersel_jr2025,strong,Toelage IGS 0.054m 2025; tick905
+bud_bee_toelagen_other_2025,city_beersel,2025,1357523,,,jaarrekening_realized,src_beersel_jr2025,strong,Toelagen andere begunstigden 1.358m 2025 FOI; tick905
+bud_bee_ocmw_aid_2025,city_beersel,2025,1180478,,,jaarrekening_realized,src_beersel_jr2025,strong,Individuele hulpverlening OCMW 1.180m 2025; tick905
+bud_bee_fiscal_2025,city_beersel,2025,31506148,,,jaarrekening_realized,src_beersel_jr2025,strong,Fiscale opbrengsten en boetes 31.506m 2025; tick905
+bud_bee_fiscal_ov_2025,city_beersel,2025,12531439,,,jaarrekening_realized,src_beersel_jr2025,strong,Opcentiemen OV 12.531m 2025; tick905
+bud_bee_fiscal_apb_2025,city_beersel,2025,13173428,,,jaarrekening_realized,src_beersel_jr2025,strong,Aanvullende PB 13.173m 2025; tick905
+bud_bee_gemeentefonds_2025,city_beersel,2025,5697529,,,jaarrekening_realized,src_beersel_jr2025,strong,Gemeentefonds 5.698m 2025; tick905
+bud_bee_invest_subs_granted_2025,city_beersel,2025,1247826,,,jaarrekening_realized,src_beersel_jr2025,strong,Toegestane investeringssubsidies 1.248m 2025 FOI (eredienst 0.910m); tick905
+bud_bee_invest_subs_eredienst_2025,city_beersel,2025,909580,,,jaarrekening_realized,src_beersel_jr2025,strong,Invest-subs eredienst 0.910m 2025 FOI; tick905
+bud_bee_invest_subs_police_2025,city_beersel,2025,226462,,,jaarrekening_realized,src_beersel_jr2025,strong,Invest-subs politiezone 0.226m 2025; tick905
+bud_bee_new_loans_2025,city_beersel,2025,608086,,,jaarrekening_realized,src_beersel_jr2025,strong,Nieuwe leningen/leasings 0.608m 2025 (leasing); tick905
+bud_bee_mjp_fin_debt_2027,city_beersel,2025,14999362,,,jaarrekening_realized,src_beersel_jr2025,strong,MJP fin debt path YE2027 15.000m FOI (new loans 3.52+3.30m); tick905
+bud_bee_mjp_new_loans_2026,city_beersel,2025,3515462,,,jaarrekening_realized,src_beersel_jr2025,strong,MJP new loans 2026 3.515m FOI; tick905
