@@ -23912,3 +23912,52 @@ bud_zui_fin_opbr_2025,city_zuienkerke,2025,497170,,,realized,src_zuienkerke_jr20
 bud_zui_fin_costs_2025,city_zuienkerke,2025,26190,,,realized,src_zuienkerke_jr2025,strong,Financiele kosten 0.026m; tick1005
 bud_zui_invest_subs_granted_2025,city_zuienkerke,2025,174657,,,realized,src_zuienkerke_jr2025,strong,Toegestane investeringssubsidies 0.175m (Aquario 0.150m + HVZ 0.025m FOI); tick1005
 bud_zui_invest_subs_aquario_2025,city_zuienkerke,2025,150000,,,realized,src_zuienkerke_jr2025,strong,Invest-subs Aquario 0.150m FOI residual; tick1005
+bud_brl_assets_2025,city_berlare,2025,81332654,,,realized,src_berlare_jr2025,strong,Assets YE2025 81.33m (was 78.24m); tick1006
+bud_brl_equity_2025,city_berlare,2025,35203517,,,realized,src_berlare_jr2025,strong,Nettoactief YE2025 35.20m (was 35.50m); tick1006
+bud_brl_debt_total_2025,city_berlare,2025,46129138,,,realized,src_berlare_jr2025,strong,Total schulden YE2025 46.13m (was 42.74m); tick1006
+bud_brl_fin_debt_2025,city_berlare,2025,31173781,,,realized,src_berlare_jr2025,strong,Fin debt total YE2025 31.17m RISING (was 26.92m); tick1006
+bud_brl_fin_debt_lt_2025,city_berlare,2025,28678319,,,realized,src_berlare_jr2025,strong,Fin debt LT YE2025 28.68m; tick1006
+bud_brl_fin_debt_st_due_2025,city_berlare,2025,2495462,,,realized,src_berlare_jr2025,strong,Fin debt ST due YE2025 2.50m; tick1006
+bud_brl_new_loans_2025,city_berlare,2025,6554826,,,realized,src_berlare_jr2025,strong,Nieuwe leningen 2025 6.55m (incl bank loan 6.15m @3.364pct 30y FOI); tick1006
+bud_brl_aflossingen_2025,city_berlare,2025,2304427,,,realized,src_berlare_jr2025,strong,Periodieke aflossingen 2025 2.30m; tick1006
+bud_brl_cash_2025,city_berlare,2025,6033395,,,realized,src_berlare_jr2025,strong,Liquide middelen YE2025 6.03m flat (was 6.04m); tick1006
+bud_brl_pension_2025,city_berlare,2025,8369530,,,realized,src_berlare_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.37m RISING (was 7.97m FOI); tick1006
+bud_brl_cap_subs_2025,city_berlare,2025,10256431,,,realized,src_berlare_jr2025,strong,Kapitaalsubsidies YE2025 10.26m; tick1006
+bud_brl_fva_total_2025,city_berlare,2025,8086077,,,realized,src_berlare_jr2025,strong,FVA total YE2025 8.09m; tick1006
+bud_brl_fva_igs_2025,city_berlare,2025,7961570,,,realized,src_berlare_jr2025,strong,FVA IGS YE2025 7.96m; tick1006
+bud_brl_fva_other_2025,city_berlare,2025,118507,,,realized,src_berlare_jr2025,strong,Andere FVA YE2025 0.119m; tick1006
+bud_brl_leasing_mva_2025,city_berlare,2025,9196848,,,realized,src_berlare_jr2025,strong,Leasing MVA total YE2025 9.20m (gemeenschap 2.46 + bedrijfsmatig 6.73 FOI); tick1006
+bud_brl_expl_rec_2025,city_berlare,2025,34188981,,,realized,src_berlare_jr2025,strong,Exploitatieontvangsten 34.19m; tick1006
+bud_brl_expl_exp_2025,city_berlare,2025,30582094,,,realized,src_berlare_jr2025,strong,Exploitatieuitgaven 30.58m; tick1006
+bud_brl_expl_saldo_2025,city_berlare,2025,3606887,,,realized,src_berlare_jr2025,strong,Exploitatiesaldo +3.61m STRONG; tick1006
+bud_brl_invest_exp_2025,city_berlare,2025,6492389,,,realized,src_berlare_jr2025,strong,Investeringsuitgaven 6.49m vs MJP 11.35m UNDERSPEND FOI; tick1006
+bud_brl_invest_rec_2025,city_berlare,2025,709029,,,realized,src_berlare_jr2025,strong,Investeringsontvangsten 0.709m; tick1006
+bud_brl_invest_saldo_2025,city_berlare,2025,-5783360,,,realized,src_berlare_jr2025,strong,Investeringssaldo -5.78m; tick1006
+bud_brl_mjp_invest_planned_2025,city_berlare,2025,11348253,,,realized,src_berlare_jr2025,strong,MJP invest planned 11.35m vs realized 6.49m underspend FOI; tick1006
+bud_brl_afm_2025,city_berlare,2025,1900086,,,realized,src_berlare_jr2025,strong,AFM +1.90m STRONG; tick1006
+bud_brl_afm_corr_2025,city_berlare,2025,2050642,,,realized,src_berlare_jr2025,strong,Gecorrigeerde AFM +2.05m; tick1006
+bud_brl_bbr_2025,city_berlare,2025,7284088,,,realized,src_berlare_jr2025,strong,BBR beschikbaar 7.28m; tick1006
+bud_brl_budget_result_2025,city_berlare,2025,2097925,,,realized,src_berlare_jr2025,strong,Budgettair resultaat +2.10m STRONG; tick1006
+bud_brl_cum_br_2025,city_berlare,2025,7284088,,,realized,src_berlare_jr2025,strong,Gecumuleerd budgettair resultaat 7.28m; tick1006
+bud_brl_pnl_2025,city_berlare,2025,183150,,,realized,src_berlare_jr2025,strong,P&L +0.183m; tick1006
+bud_brl_pnl_ge_2025,city_berlare,2025,2929667,,,realized,src_berlare_jr2025,strong,GE P&L +2.93m; tick1006
+bud_brl_pnl_ocmw_2025,city_berlare,2025,-2746516,,,realized,src_berlare_jr2025,strong,OCMW P&L -2.75m FOI; tick1006
+bud_brl_ocmw_cover_2025,city_berlare,2025,2414443,,,realized,src_berlare_jr2025,strong,OCMW cover 2.41m FULL-ish vs OCMW -2.75m FOI residual; tick1006
+bud_brl_ocmw_cum_deficit_2025,city_berlare,2025,-4008718,,,realized,src_berlare_jr2025,strong,OCMW cum tekort YE2025 -4.01m WORSENING (was -3.68m after cover); tick1006
+bud_brl_personnel_2025,city_berlare,2025,17359666,,,realized,src_berlare_jr2025,strong,Bezoldigingen 17.36m; tick1006
+bud_brl_toelagen_2025,city_berlare,2025,4093132,,,realized,src_berlare_jr2025,strong,Toegestane werkingssubsidies 4.09m; tick1006
+bud_brl_toelagen_police_2025,city_berlare,2025,1917710,,,realized,src_berlare_jr2025,strong,Toelage politiezone Berlare-Zele 1.92m; tick1006
+bud_brl_toelagen_fire_2025,city_berlare,2025,366521,,,realized,src_berlare_jr2025,strong,Toelage hulpverleningszone Oost 0.367m; tick1006
+bud_brl_toelagen_igs_2025,city_berlare,2025,1338434,,,realized,src_berlare_jr2025,strong,Toelage IGS 1.34m JUMP FOI (was 1.12m); tick1006
+bud_brl_toelagen_eredienst_2025,city_berlare,2025,115020,,,realized,src_berlare_jr2025,strong,Toelage eredienst 0.115m; tick1006
+bud_brl_toelagen_other_2025,city_berlare,2025,328947,,,realized,src_berlare_jr2025,strong,Toelage andere begunstigden 0.329m FOI; tick1006
+bud_brl_toelagen_verko_2025,city_berlare,2025,1099842,,,realized,src_berlare_jr2025,strong,VERKO waste processing toelage ~1.10m within IGS/other FOI residual; tick1006
+bud_brl_ocmw_aid_2025,city_berlare,2025,1403954,,,realized,src_berlare_jr2025,strong,OCMW individuele hulp 1.40m; tick1006
+bud_brl_fiscal_2025,city_berlare,2025,13277186,,,realized,src_berlare_jr2025,strong,Fiscale opbrengsten 13.28m; tick1006
+bud_brl_fiscal_ov_2025,city_berlare,2025,5381356,,,realized,src_berlare_jr2025,strong,Opcentiemen OV 5.38m; tick1006
+bud_brl_fiscal_pb_2025,city_berlare,2025,7021138,,,realized,src_berlare_jr2025,strong,Aanvullende PB 7.02m JUMP (was 5.73m); tick1006
+bud_brl_gemeentefonds_2025,city_berlare,2025,4172970,,,realized,src_berlare_jr2025,strong,Gemeentefonds 4.17m; tick1006
+bud_brl_fin_opbr_2025,city_berlare,2025,830444,,,realized,src_berlare_jr2025,strong,Financiele opbrengsten 0.830m; tick1006
+bud_brl_fin_costs_2025,city_berlare,2025,1025187,,,realized,src_berlare_jr2025,strong,Financiele kosten 1.03m; tick1006
+bud_brl_invest_subs_granted_2025,city_berlare,2025,155743,,,realized,src_berlare_jr2025,strong,Toegestane investeringssubsidies 0.156m (police 0.123 + eredienst 0.033); tick1006
+bud_brl_admin_invest_2025,city_berlare,2025,4604577,,,realized,src_berlare_jr2025,strong,Invest administratieve dienstverlening 4.60m large FOI residual; tick1006

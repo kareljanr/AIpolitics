@@ -13079,3 +13079,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47 (bud_zui_*); commitments +5; leaderboard +7; sources +1; entity city_zuienkerke; FOI **gap_zui_ocmw_invest_toelagen_l5** prio8 ready + draft; key only (PDF ~5.5MB not stored in git); rq_1005=done; spawn **rq_1006**; ticks=1005
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1006** residual dual L5 (Torhout / AGB De Panne / other unmined VL JR2025); deferred **rq_116**; progress@1010 in 5
+
+### Tick 1006 - 2026-08-09T16:15:00Z
+
+- Unit: **rq_1006** (FOI-adjacent residual dual - **Gemeente+OCMW Berlare Jaarrekening 2025** + Zuienkerke dual residual)
+- Found (strong primary BBC JR2025 158p; KBO 0207.445.485 / OCMW 0212.239.958; FD Iris Dekeyzer; AD Hilde Van der Jeugt; BM Katja Gabriels; Briel 1; NIS 42003):
+  - Assets **EUR81.33m** / equity **EUR35.20m** / debt total **EUR46.13m** / fin debt **EUR31.17m** (**RISING** from **EUR26.92m**; LT **EUR28.68m** / ST due **EUR2.50m**)
+  - New loans **EUR6.55m** (bank **EUR6.15m @3.364% 30y FOI**) / repayments **EUR2.30m**
+  - Cash **EUR6.03m** flat / pension **EUR8.37m RISING** / leasing MVA **EUR9.20m HIGH**
+  - FVA IGS **EUR7.96m** / cap subs **EUR10.26m**
+  - Exploitatie: ontvangsten **EUR34.19m** / uitgaven **EUR30.58m** / saldo **+EUR3.61m STRONG**
+  - AFM **+EUR1.90m STRONG** (gecorr **+EUR2.05m**) / BBR **EUR7.28m** / budget **+EUR2.10m** / P&L **+EUR0.183m** (GE **+EUR2.93m** / OCMW **-EUR2.75m FOI**)
+  - Personnel **EUR17.36m** / toelagen **EUR4.09m FOI** (police **EUR1.92m** / fire **EUR0.367m** / IGS **EUR1.34m JUMP** / other **EUR0.329m** / eredienst **EUR0.115m**)
+  - Invest **EUR6.49m** vs MJP **EUR11.35m UNDERSPEND FOI** / admin invest **EUR4.60m FOI** / **OCMW cover EUR2.41m FULL-ish FOI** / OCMW cum **-EUR4.01m WORSENING**
+- Dual: Zuienkerke **EUR30.70m** / fin debt **EUR0.94m DECLINING** / invest underspend 0.70 vs 3.28m (tick1005) - not TE-additive
+- Note: Torhout still news-only; Kluisbergen JR2025 PDF image-only (64MB) skip OCR this tick; AGB De Panne residual optional next
+- Wrote: budgets +49 (bud_brl_*); commitments +5; leaderboard +7; sources +1; entity city_berlare; FOI **gap_brl_debt_ocmw_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~7.5MB not stored in git); rq_1006=done; spawn **rq_1007**; ticks=1006
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1007** residual dual L5 (Torhout / AGB De Panne / Kluisbergen OCR / other unmined VL JR2025); deferred **rq_116**; progress@1010 in 4

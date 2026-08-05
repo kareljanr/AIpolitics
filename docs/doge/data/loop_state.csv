@@ -1,3 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T15:45:00Z,rq_1005,1005,no,tick1005 Zuienkerke GE+OCMW JR2025 dual residual; FOI gap_zui_ocmw_invest_toelagen_l5 prio8 assets 30.70m fin debt 0.94m DECLINING cash 7.13m JUMP AFM +0.85m budget +0.46m OCMW cover 0.192m FULL-ish invest underspend 0.70 vs MJP 3.28m Aquario 0.15m toelagen 0.928m police 0.693; next residual dual L5 rq_1006; rq_116 deferred
-
+main,continuous,hole_fill,2026-08-09T16:15:00Z,rq_1006,1006,no,tick1006 Berlare GE+OCMW JR2025 dual residual; FOI gap_brl_debt_ocmw_toelagen_invest_l5 prio8 assets 81.33m fin debt 31.17m RISING +loan 6.55m cash 6.03m AFM +1.90m budget +2.10m OCMW cover 2.41m OCMW cum -4.01m WORSENING toelagen 4.09m police 1.92 IGS 1.34 invest underspend 6.49 vs MJP 11.35m; next residual dual L5 rq_1007; rq_116 deferred
