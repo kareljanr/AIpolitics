@@ -29224,3 +29224,46 @@ bud_dha_ocmw_equity_cum_2025,city_dehaan,2025,-3311764,,,bbc_jr_realized,src_deh
 bud_dha_loans_granted_igs_2025,city_dehaan,2025,237817,,,bbc_jr_realized,src_dehaan_jr2025,strong,Toegestane leningen IGS 0.238m FOI; tick1111
 bud_dha_goederen_2025,city_dehaan,2025,6586181,,,bbc_jr_realized,src_dehaan_jr2025,strong,Goederen en diensten 6.586m; tick1111
 bud_dha_fin_exp_2025,city_dehaan,2025,323128,,,bbc_jr_realized,src_dehaan_jr2025,strong,Financiele kosten 0.323m; tick1111
+bud_kh_assets_2025,city_knokke_heist,2025,393798159,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Assets YE2025 393.798m JUMP (was 372.882m); tick1112
+bud_kh_equity_2025,city_knokke_heist,2025,351420643,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Nettoactief YE2025 351.421m JUMP; tick1112
+bud_kh_debt_total_2025,city_knokke_heist,2025,42377516,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Total schulden YE2025 42.378m JUMP; tick1112
+bud_kh_fin_debt_2025,city_knokke_heist,2025,17014158,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Fin debt YE2025 17.014m JUMP FOI (was 12.247m); tick1112
+bud_kh_fin_debt_lt_2025,city_knokke_heist,2025,14346860,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Fin debt LT YE2025 14.347m (Belfius/KBC/Fluvius lease); tick1112
+bud_kh_fin_debt_st_2025,city_knokke_heist,2025,2667298,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Fin debt ST due YE2025 2.667m; tick1112
+bud_kh_new_loans_2025,city_knokke_heist,2025,8371273,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,New loans 8.371m MASSIVE FOI (KBC 7.000 + Fluvius lease 1.371); tick1112
+bud_kh_repayments_2025,city_knokke_heist,2025,3604405,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Periodieke aflossingen 3.604m; tick1112
+bud_kh_cash_2025,city_knokke_heist,2025,30552512,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Cash YE2025 30.553m JUMP (was 26.750m); tick1112
+bud_kh_pension_lt_2025,city_knokke_heist,2025,10983212,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Pension LT 10.983m DECLINE FOI (was 12.411m); tick1112
+bud_kh_fva_igs_2025,city_knokke_heist,2025,32386006,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,FVA IGS YE2025 32.386m HIGH FOI; tick1112
+bud_kh_fva_eva_2025,city_knokke_heist,2025,24190760,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,FVA EVA/AGSO-class 24.191m FOI; tick1112
+bud_kh_herwaard_2025,city_knokke_heist,2025,11628649,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Herwaarderingsreserves 11.629m; tick1112
+bud_kh_leasing_mva_2025,city_knokke_heist,2025,8124051,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Leasing MVA YE2025 8.124m; tick1112
+bud_kh_expl_ontvangsten_2025,city_knokke_heist,2025,137767511,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Exploitatie ontvangsten 137.768m; tick1112
+bud_kh_expl_uitgaven_2025,city_knokke_heist,2025,109795268,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Exploitatie uitgaven 109.795m; tick1112
+bud_kh_expl_saldo_2025,city_knokke_heist,2025,27972243,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Exploitatiesaldo +27.972m VERY STRONG; tick1112
+bud_kh_afm_2025,city_knokke_heist,2025,24957837,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,AFM +24.958m VERY STRONG; tick1112
+bud_kh_afm_gecorr_2025,city_knokke_heist,2025,27582459,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,AFM gecorrigeerd +27.582m VERY STRONG; tick1112
+bud_kh_bbr_2025,city_knokke_heist,2025,31698701,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,BBR 31.699m VERY HIGH; tick1112
+bud_kh_budget_result_2025,city_knokke_heist,2025,2873054,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Budget +2.873m POS; tick1112
+bud_kh_pnl_2025,city_knokke_heist,2025,13733044,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,P&L +13.733m POS; tick1112
+bud_kh_fiscal_2025,city_knokke_heist,2025,89164766,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Fiscale opbrengsten 89.165m coastal; tick1112
+bud_kh_op_2025,city_knokke_heist,2025,62534722,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Onroerende voorheffing opcentiemen 62.535m; tick1112
+bud_kh_personnel_2025,city_knokke_heist,2025,43865365,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Personeel 43.865m; tick1112
+bud_kh_toelagen_2025,city_knokke_heist,2025,35694984,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Toegestane werkingssubsidies 35.695m MASSIVE FOI; tick1112
+bud_kh_police_2025,city_knokke_heist,2025,16009071,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Politiezone toelage 16.009m FOI; tick1112
+bud_kh_fire_2025,city_knokke_heist,2025,3897701,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,HVZ toelage 3.898m; tick1112
+bud_kh_agb_toelagen_2025,city_knokke_heist,2025,5853392,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,AGB toelagen 5.853m FOI; tick1112
+bud_kh_andere_toelagen_2025,city_knokke_heist,2025,8651386,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Andere toelagen 8.651m HIGH FOI; tick1112
+bud_kh_welzijn_toelagen_2025,city_knokke_heist,2025,742640,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Welzijnsverenigingen toelage 0.743m FOI; tick1112
+bud_kh_hulp_ocmw_2025,city_knokke_heist,2025,2283792,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,OCMW individuele hulp 2.284m; tick1112
+bud_kh_invest_uitgaven_2025,city_knokke_heist,2025,33199034,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Invest 33.199m vs MJP 55.110m MASSIVE UNDERSPEND FOI; tick1112
+bud_kh_invest_mjp_2025,city_knokke_heist,2025,55110326,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,MJP invest uitgaven 55.110m; tick1112
+bud_kh_invest_subs_2025,city_knokke_heist,2025,6879341,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Toegestane invest-subs 6.879m JUMP FOI (AGB 5.769m); tick1112
+bud_kh_ocmw_cover_2025,city_knokke_heist,2025,4415950,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,OCMW cover 4.416m FULL JUMP FOI (was 3.810m); tick1112
+bud_kh_ocmw_pnl_2025,city_knokke_heist,2025,-2985617,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,OCMW P&L -2.986m FOI; tick1112
+bud_kh_ocmw_equity_cum_2025,city_knokke_heist,2025,-5747230,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,OCMW cum equity -5.747m DEEP FOI; tick1112
+bud_kh_agso_bbr_2025,city_knokke_heist,2025,-1086540,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,AGSO BBR consol -1.087m NEG FOI; tick1112
+bud_kh_mjp_debt_2026,city_knokke_heist,2025,39163476,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,MJP fin debt YE2026 39.163m MASSIVE RAMP FOI; tick1112
+bud_kh_mjp_new_2026,city_knokke_heist,2025,25868900,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,MJP new loans 2026 25.869m MASSIVE FOI; tick1112
+bud_kh_goederen_2025,city_knokke_heist,2025,25979854,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Goederen en diensten 25.980m; tick1112
+bud_kh_fin_exp_2025,city_knokke_heist,2025,491907,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Financiele kosten 0.492m; tick1112

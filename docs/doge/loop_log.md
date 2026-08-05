@@ -15169,3 +15169,25 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_dha_*); commitments +8; leaderboard +10; sources +1; entity city_dehaan; FOI **gap_dha_toelagen_pension_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed 4.5MB); rq_1111=done; spawn **rq_1112**; ticks=1111
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1112** residual dual L5; deferred **rq_116**; progress@1120 in 9
+
+### Tick 1112 - 2026-08-11T21:30:00Z
+
+- Unit: **rq_1112** (FOI-adjacent residual dual - **Gemeente+OCMW Knokke-Heist Jaarrekening 2025** + De Haan dual residual)
+- Found (strong primary BBC JR2025 555p text; knokke-heist.be; GR 25.06.2026; KBO GE 0207.691.252 / OCMW 0212.334.582; NIS 31043; AD Miet Gobert FD Stein Moyersons; GE+OCMW + AGSO consol):
+  - Assets **EUR393.798m JUMP** (was **EUR372.882m**) / equity **EUR351.421m JUMP** / debt total **EUR42.378m JUMP** / fin debt **EUR17.014m JUMP FOI** (LT **EUR14.347m** Belfius/KBC/Fluvius / ST due **EUR2.667m**; was **EUR12.247m**)
+  - New loans **EUR8.371m MASSIVE FOI** (KBC **EUR7.000m** + Fluvius lease **EUR1.371m**) / repayments **EUR3.604m**
+  - Cash **EUR30.553m JUMP** (was **EUR26.750m**) / pension **EUR10.983m DECLINE FOI** (was **EUR12.411m**)
+  - FVA IGS **EUR32.386m** / FVA EVA **EUR24.191m** / herwaard **EUR11.629m** / leasing MVA **EUR8.124m**
+  - Exploitatie: ontvangsten **EUR137.768m** / uitgaven **EUR109.795m** / saldo **+EUR27.972m VERY STRONG**
+  - AFM **+EUR24.958m VERY STRONG** (gecorr **+EUR27.582m**) / BBR **EUR31.699m VERY HIGH** / onbeschikbaar **EUR0.191m** / budget **+EUR2.873m POS** / P&L **+EUR13.733m POS**
+  - Fiscal **EUR89.165m** coastal / OP **EUR62.535m** / personnel **EUR43.865m**
+  - Toelagen **EUR35.695m MASSIVE FOI** (police **EUR16.009m** / AGB **EUR5.853m** / andere **EUR8.651m HIGH** / fire **EUR3.898m** / welzijn **EUR0.743m** / eredienst **EUR0.501m**)
+  - Invest **EUR33.199m** vs MJP **EUR55.110m MASSIVE UNDERSPEND FOI** / invest-subs **EUR6.879m JUMP** (AGB **EUR5.769m**)
+  - OCMW cover **EUR4.416m FULL JUMP FOI** (was **EUR3.810m**) / OCMW P&L **−EUR2.986m** / OCMW cum equity **−EUR5.747m DEEP** / OCMW hulp **EUR2.284m**
+  - **AGSO BBR consol −EUR1.087m NEG FOI** (AGSO AFM +1.825m)
+  - **MJP T4 debt ramp MASSIVE FOI:** YE2026 fin debt **EUR39.163m** (new **EUR25.869m**)
+- Dual: De Haan cash VERY HIGH / OCMW FULL (tick1111) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only / Kalmthout / Bornem JR2024-only / Langemark bundel staged / De Panne OCR residual next; progress@1120 in 8
+- Wrote: budgets +43 (bud_kh_*); commitments +8; leaderboard +12; sources +1; entity city_knokke_heist; FOI **gap_kh_loans_toelagen_ocmw_agso_invest_l5** prio9 ready + draft; PDF primary (not committed 9.3MB); rq_1112=done; spawn **rq_1113**; ticks=1112
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1113** residual dual L5; deferred **rq_116**; progress@1120 in 8
