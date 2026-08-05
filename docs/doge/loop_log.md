@@ -15381,3 +15381,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress decade files; budgets bud_lanagb_*; entities city_lanaken + agb_lanaken; FOI **gap_lanagb_afm_dividend_toelagen_l5** prio9 ready + draft; rq_1120=done; spawn **rq_1121**; ticks=1120
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1121** residual dual L5; deferred **rq_116**; progress@1130 in 10
+
+### Tick 1121 - 2026-08-12T02:00:00Z
+
+- Unit: **rq_1121** (FOI-adjacent residual dual - **AGB Gooik Jaarrekening 2025** Entity II + Lanaken AGB dual residual)
+- Found (strong primary BBC JR2025 AGB 65p text; pajottegem.be; KBO **0895.112.436**; Koekoekstraat 2 1755 Gooik; Secretaris Eric Van Snick Fin.beheerder Lieven De Rick; fusion Pajottegem context):
+  - Assets **EUR2.053m DROP** (was **EUR2.180m**) / equity **EUR0.360m** / debt total **EUR1.693m** / fin debt **EUR1.550m DECLINE FOI** (LT **EUR1.448m** / ST due **EUR0.103m**; was **EUR1.641m**)
+  - New loans **EUR0.013m FOI** (=invest) / repayments **EUR0.103m**
+  - Cash **EUR0.012m DROP CRITICAL FOI** (was **EUR0.041m**)
+  - Exploitatie: ontvangsten **EUR0.204m** / uitgaven **EUR0.103m** / saldo **+EUR0.101m STRONG**
+  - AFM **−EUR0.001m NEG FOI** (gecorr **−EUR0.030m NEG**; MJP was **+EUR0.0004m**) / BBR **EUR0.026m** / budget **−EUR0.001m NEG FOI**
+  - P&L **−EUR0.001m FLIP** (was **+EUR0.013m**) / dividend **EUR0** (was **EUR0.012m** 2024)
+  - Omzet/werking **EUR0.204m** (no formal city werkingssub 2025 FOI) / goederen **EUR0.099m** / **personeel EUR0 ZERO** / **intresten EUR0 FOI** despite debt **EUR1.55m**
+  - Invest **EUR0.013m** vs MJP **EUR0.025m UNDERSPEND FOI** / fin income **EUR0.023m**
+- Dual: Lanaken AGB AFM NEG / dividend despite loss (tick1120) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken GE+OCMW / Pajottegem GE residual next; progress@1130 in 9
+- Wrote: budgets +23 (bud_gooagb_*); commitments +7; leaderboard +8; sources +1; entities city_gooik + agb_gooik; FOI **gap_gooagb_afm_cash_debt_interest_l5** prio9 ready + draft; PDF primary (not committed ~2.4MB); rq_1121=done; spawn **rq_1122**; ticks=1121
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1122** residual dual L5; deferred **rq_116**; progress@1130 in 9

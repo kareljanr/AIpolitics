@@ -29533,3 +29533,26 @@ bud_lanagb_invest_2025,agb_lanaken,2025,37026,,,bbc_jr_realized,src_lanaken_agb_
 bud_lanagb_interest_2025,agb_lanaken,2025,8719,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB intresten 0.009m DECLINE; tick1120
 bud_lanagb_mva_2025,agb_lanaken,2025,5888724,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB MVA 5.889m; tick1120
 bud_lanagb_cap_subs_2025,agb_lanaken,2025,2936252,,,bbc_jr_realized,src_lanaken_agb_jr2025,strong,AGB kapitaalsubsidies 2.936m; tick1120
+bud_gooagb_assets_2025,agb_gooik,2025,2052796,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB assets 2.053m DROP FOI; tick1121
+bud_gooagb_equity_2025,agb_gooik,2025,359913,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB nettoactief 0.360m; tick1121
+bud_gooagb_debt_total_2025,agb_gooik,2025,1692883,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB schulden total 1.693m; tick1121
+bud_gooagb_fin_debt_2025,agb_gooik,2025,1550456,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB fin debt 1.550m DECLINE FOI (LT 1.448 + ST due 0.103; was 1.641m); tick1121
+bud_gooagb_new_loans_2025,agb_gooik,2025,12524,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB new loans 0.013m FOI (=invest); tick1121
+bud_gooagb_loan_repay_2025,agb_gooik,2025,102576,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB periodieke aflossingen 0.103m; tick1121
+bud_gooagb_cash_2025,agb_gooik,2025,12237,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB cash 0.012m DROP CRITICAL FOI (was 0.041m); tick1121
+bud_gooagb_expl_ont_2025,agb_gooik,2025,203990,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB expl ontvangsten 0.204m; tick1121
+bud_gooagb_expl_uit_2025,agb_gooik,2025,102826,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB expl uitgaven 0.103m; tick1121
+bud_gooagb_expl_saldo_2025,agb_gooik,2025,101164,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB expl saldo +0.101m STRONG; tick1121
+bud_gooagb_afm_2025,agb_gooik,2025,-1412,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB AFM -0.001m NEG FOI (MJP was +0.0004m); tick1121
+bud_gooagb_afm_gecorr_2025,agb_gooik,2025,-30077,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB gecorr AFM -0.030m NEG FOI; tick1121
+bud_gooagb_bbr_2025,agb_gooik,2025,25823,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB BBR 0.026m; tick1121
+bud_gooagb_budget_2025,agb_gooik,2025,-1412,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB budget result -0.001m NEG FOI; tick1121
+bud_gooagb_pnl_2025,agb_gooik,2025,-1195,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB P&L -0.001m FLIP FOI (was +0.013m); tick1121
+bud_gooagb_omzet_2025,agb_gooik,2025,203990,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB omzet/werking 0.204m (no formal city werkingssub 2025); tick1121
+bud_gooagb_goederen_2025,agb_gooik,2025,99180,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB goederen 0.099m; tick1121
+bud_gooagb_personnel_2025,agb_gooik,2025,0,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB personnel ZERO outsourcing FOI; tick1121
+bud_gooagb_invest_2025,agb_gooik,2025,12524,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB invest 0.013m vs MJP 0.025m UNDERSPEND FOI; tick1121
+bud_gooagb_interest_2025,agb_gooik,2025,0,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB intresten 0 FOI (debt 1.55m interest-free path?); tick1121
+bud_gooagb_fin_income_2025,agb_gooik,2025,22837,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB financiële opbrengsten 0.023m; tick1121
+bud_gooagb_mva_2025,agb_gooik,2025,1988342,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB MVA 1.988m; tick1121
+bud_gooagb_dividend_2025,agb_gooik,2025,0,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB dividend 0 in 2025 (was 0.012m 2024); tick1121
