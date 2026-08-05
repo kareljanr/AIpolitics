@@ -1,0 +1,40 @@
+Mortsel Gemeente+OCMW Jaarrekening 2025 (BBC) — tick903
+Primary PDF: https://mortsel.beleidsportaal.be/Data/6cef2a3d-870a-40fe-ae40-341ba997422d/Public/jaarrekening-2025.pdf
+Portal: https://mortsel.beleidsportaal.be/jaarrekening-2025
+Published: 26/05/2026
+
+BALANCE YE2025 / YE2024
+- Assets: 170,545,469 / 156,979,884
+- Equity (nettoactief): 47,421,644 / 40,036,143
+- Debt total: 123,123,825 / 116,943,741
+- Fin debt total (T4): 71,525,778 / 61,698,543
+  - LT: 57,973,384 / 58,238,792
+  - ST due: 3,577,500 / 3,459,751
+  - ST other: 9,974,894 / 0  ***FOI***
+- Pension: 38,571,710 / 42,450,810
+- Cash: 2,553,169 / 1,715,153
+- Cap subs: 31,601,342 / 30,066,584
+- FVA IGS: 16,395,638 / 16,104,226
+- FVA total: 16,528,623 / 16,233,394
+- Cumul P&L in equity: -26,397,061 / -31,902,914
+
+J2 FLOW 2025
+- Expl rec 77,351,560 / exp 74,757,779 / saldo +2,593,782
+- Invest rec 9,826,688 / exp 11,668,927 / saldo -1,842,239
+- Fin saldo +601,675
+- Budget result +1,353,218
+- Cumul budget / BBR 3,319,589
+- AFM +596,860 / gecorr -853,394 ***FOI***
+
+J5 / T2
+- Personnel 44,999,107 (onderwijs other 15,093,715)
+- Toelagen 9,365,856 (police 5,729,313 fire 1,154,190 AGB 1,059,498 IGS 134,334 eredienst 131,501 other 1,157,020)
+- OCMW aid 4,353,788
+- Fiscal 27,917,479 (OV 12,358,102 APB 11,773,139)
+- Gemeentefonds 6,910,113
+- Invest-subs granted 482,946 (police 155,895 fire 322,370)
+- New loans 3,337,970 (bank 2,350,000 + other 987,970)
+- P&L +5,505,853
+
+DUAL: Tremelo assets 92.2m AGB loan 12.09m fin debt 24.0m (tick902) — not TE-additive
+FOI: gap_mor_st_debt_police_toelagen_l5 prio8 ready

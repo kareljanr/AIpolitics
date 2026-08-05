@@ -19740,3 +19740,46 @@ bud_trm_loans_granted_2025,city_tremelo,2025,13058038,,,jaarrekening_realized,sr
 bud_trm_loans_granted_agb_sporthal_2025,city_tremelo,2025,12092000,,,jaarrekening_realized,src_tremelo_jr2025,strong,AGB erfpacht sporthal toegestane lening 12.092m 2025 FOI; tick902
 bud_trm_ocmw_deficit_cover_2025,city_tremelo,2025,2117534,,,jaarrekening_realized,src_tremelo_jr2025,strong,Tussenkomst OCMW tekort 2.118m 2025; tick902
 bud_trm_herwaard_reserves_2025,city_tremelo,2025,5778590,,,jaarrekening_realized,src_tremelo_jr2025,strong,Herwaarderingsreserves YE2025 5.779m (was 1.333m FOI); tick902
+bud_mor_assets_2025,city_mortsel,2025,170545469,,,jaarrekening_realized,src_mortsel_jr2025,strong,Consol total assets YE2025 170.545m; tick903
+bud_mor_equity_2025,city_mortsel,2025,47421644,,,jaarrekening_realized,src_mortsel_jr2025,strong,Nettoactief YE2025 47.422m; tick903
+bud_mor_debt_total_2025,city_mortsel,2025,123123825,,,jaarrekening_realized,src_mortsel_jr2025,strong,Schulden total YE2025 123.124m; tick903
+bud_mor_fin_debt_2025,city_mortsel,2025,71525778,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fin schulden total YE2025 71.526m (LT 57.973 + ST due 3.578 + ST 9.975 was 61.699m); tick903
+bud_mor_fin_debt_lt_2025,city_mortsel,2025,57973384,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fin schulden LT YE2025 57.973m; tick903
+bud_mor_fin_debt_st_2025,city_mortsel,2025,3577500,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.578m; tick903
+bud_mor_fin_debt_st_other_2025,city_mortsel,2025,9974894,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fin schulden ST YE2025 9.975m FOI (was 0); tick903
+bud_mor_pension_prov_2025,city_mortsel,2025,38571710,,,jaarrekening_realized,src_mortsel_jr2025,strong,Pensioenvoorzieningen YE2025 38.572m (was 42.451m); tick903
+bud_mor_cash_2025,city_mortsel,2025,2553169,,,jaarrekening_realized,src_mortsel_jr2025,strong,Liquide middelen YE2025 2.553m (was 1.715m); tick903
+bud_mor_cap_subs_2025,city_mortsel,2025,31601342,,,jaarrekening_realized,src_mortsel_jr2025,strong,Kapitaalsubsidies YE2025 31.601m; tick903
+bud_mor_fva_igs_2025,city_mortsel,2025,16395638,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fin VA IGS YE2025 16.396m; tick903
+bud_mor_fva_total_2025,city_mortsel,2025,16528623,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fin VA total YE2025 16.529m; tick903
+bud_mor_cumul_budget_2025,city_mortsel,2025,3319589,,,jaarrekening_realized,src_mortsel_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 3.320m; tick903
+bud_mor_bbr_2025,city_mortsel,2025,3319589,,,jaarrekening_realized,src_mortsel_jr2025,strong,Beschikbaar budgettair resultaat YE2025 3.320m; tick903
+bud_mor_expl_rec_2025,city_mortsel,2025,77351560,,,jaarrekening_realized,src_mortsel_jr2025,strong,Exploitatieontvangsten 77.352m 2025 (J2); tick903
+bud_mor_expl_exp_2025,city_mortsel,2025,74757779,,,jaarrekening_realized,src_mortsel_jr2025,strong,Exploitatieuitgaven 74.758m 2025 (J2); tick903
+bud_mor_expl_saldo_2025,city_mortsel,2025,2593782,,,jaarrekening_realized,src_mortsel_jr2025,strong,Exploitatiesaldo +2.594m 2025; tick903
+bud_mor_invest_exp_2025,city_mortsel,2025,11668927,,,jaarrekening_realized,src_mortsel_jr2025,strong,Investeringsuitgaven 11.669m 2025; tick903
+bud_mor_invest_rec_2025,city_mortsel,2025,9826688,,,jaarrekening_realized,src_mortsel_jr2025,strong,Investeringsontvangsten 9.827m 2025; tick903
+bud_mor_invest_saldo_2025,city_mortsel,2025,-1842239,,,jaarrekening_realized,src_mortsel_jr2025,strong,Investeringssaldo -1.842m 2025; tick903
+bud_mor_fin_saldo_2025,city_mortsel,2025,601675,,,jaarrekening_realized,src_mortsel_jr2025,strong,Financieringssaldo +0.602m 2025; tick903
+bud_mor_budget_result_2025,city_mortsel,2025,1353218,,,jaarrekening_realized,src_mortsel_jr2025,strong,Budgettair resultaat boekjaar +1.353m 2025; tick903
+bud_mor_afm_2025,city_mortsel,2025,596860,,,jaarrekening_realized,src_mortsel_jr2025,strong,Autofinancieringsmarge +0.597m 2025; tick903
+bud_mor_afm_gecorr_2025,city_mortsel,2025,-853394,,,jaarrekening_realized,src_mortsel_jr2025,strong,Gecorrigeerde AFM -0.853m 2025 FOI; tick903
+bud_mor_pl_2025,city_mortsel,2025,5505853,,,jaarrekening_realized,src_mortsel_jr2025,strong,P&L overschot +5.506m 2025; tick903
+bud_mor_personnel_2025,city_mortsel,2025,44999107,,,jaarrekening_realized,src_mortsel_jr2025,strong,Bezoldigingen 45.000m 2025 (incl onderwijs other ~15.094m); tick903
+bud_mor_personnel_onderwijs_other_2025,city_mortsel,2025,15093715,,,jaarrekening_realized,src_mortsel_jr2025,strong,Onderwijzend personeel ten laste van andere ~15.094m 2025; tick903
+bud_mor_toelagen_2025,city_mortsel,2025,9365856,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toegestane werkingssubsidies 9.366m 2025; tick903
+bud_mor_toelagen_police_2025,city_mortsel,2025,5729313,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toelage politiezone 5.729m 2025 FOI; tick903
+bud_mor_toelagen_fire_2025,city_mortsel,2025,1154190,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toelage hulpverleningszone 1.154m 2025; tick903
+bud_mor_toelagen_agb_2025,city_mortsel,2025,1059498,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toelage AGB 1.059m 2025; tick903
+bud_mor_toelagen_igs_2025,city_mortsel,2025,134334,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toelage IGS 0.134m 2025; tick903
+bud_mor_toelagen_other_2025,city_mortsel,2025,1157020,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toelagen andere begunstigden 1.157m 2025 FOI; tick903
+bud_mor_ocmw_aid_2025,city_mortsel,2025,4353788,,,jaarrekening_realized,src_mortsel_jr2025,strong,Individuele hulpverlening OCMW 4.354m 2025; tick903
+bud_mor_fiscal_2025,city_mortsel,2025,27917479,,,jaarrekening_realized,src_mortsel_jr2025,strong,Fiscale opbrengsten en boetes 27.917m 2025; tick903
+bud_mor_fiscal_ov_2025,city_mortsel,2025,12358102,,,jaarrekening_realized,src_mortsel_jr2025,strong,Opcentiemen OV 12.358m 2025; tick903
+bud_mor_fiscal_apb_2025,city_mortsel,2025,11773139,,,jaarrekening_realized,src_mortsel_jr2025,strong,Aanvullende PB 11.773m 2025; tick903
+bud_mor_gemeentefonds_2025,city_mortsel,2025,6910113,,,jaarrekening_realized,src_mortsel_jr2025,strong,Gemeentefonds 6.910m 2025; tick903
+bud_mor_invest_subs_granted_2025,city_mortsel,2025,482946,,,jaarrekening_realized,src_mortsel_jr2025,strong,Toegestane investeringssubsidies 0.483m 2025; tick903
+bud_mor_invest_subs_police_2025,city_mortsel,2025,155895,,,jaarrekening_realized,src_mortsel_jr2025,strong,Invest-subs politiezone 0.156m 2025; tick903
+bud_mor_invest_subs_fire_2025,city_mortsel,2025,322370,,,jaarrekening_realized,src_mortsel_jr2025,strong,Invest-subs brandweer 0.322m 2025; tick903
+bud_mor_new_loans_2025,city_mortsel,2025,3337970,,,jaarrekening_realized,src_mortsel_jr2025,strong,Nieuwe leningen/leasings 3.338m 2025 (bank 2.35 + other 0.99); tick903
+bud_mor_cumul_pl_deficit_2025,city_mortsel,2025,-26397061,,,jaarrekening_realized,src_mortsel_jr2025,strong,Gecumuleerd P&L tekort in nettoactief -26.397m YE2025; tick903
