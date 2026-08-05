@@ -28416,3 +28416,56 @@ bud_bre_agb_afm_corr_2025,city_bree,2025,-160273,,,bbc_jr_realized,src_bree_jr20
 bud_bre_financieringssaldo_2025,city_bree,2025,-3602347,,,bbc_jr_realized,src_bree_jr2025,strong,Financieringssaldo -3.602m (incl AGB loan 2.0m); tick1093
 bud_bre_interest_2025,city_bree,2025,791301,,,bbc_jr_realized,src_bree_jr2025,strong,Intresten 0.791m; tick1093
 bud_bre_mjp_new_loans_planned_2025,city_bree,2025,6374920,,,bbc_jr_realized,src_bree_jr2025,strong,MJP new loans planned 6.375m vs realized 0.509m UNDERDRAW FOI; tick1093
+bud_pel_assets_2025,city_pelt,2025,305306411,,,bbc_jr_realized,src_pelt_jr2025,strong,Assets YE2025 305.306m MASSIVE JUMP FOI (was 260.480m; FVA herwaard); tick1094
+bud_pel_equity_2025,city_pelt,2025,256791971,,,bbc_jr_realized,src_pelt_jr2025,strong,Nettoactief YE2025 256.792m JUMP (was 220.571m); tick1094
+bud_pel_debt_total_2025,city_pelt,2025,48514440,,,bbc_jr_realized,src_pelt_jr2025,strong,Total schulden YE2025 48.514m JUMP (was 39.909m); tick1094
+bud_pel_fin_debt_2025,city_pelt,2025,37960511,,,bbc_jr_realized,src_pelt_jr2025,strong,Fin debt total YE2025 37.961m MASSIVE JUMP FOI (was 28.943m); tick1094
+bud_pel_fin_debt_lt_2025,city_pelt,2025,35487255,,,bbc_jr_realized,src_pelt_jr2025,strong,Fin debt LT YE2025 35.487m JUMP; tick1094
+bud_pel_fin_debt_st_due_2025,city_pelt,2025,2473256,,,bbc_jr_realized,src_pelt_jr2025,strong,Fin debt ST due YE2025 2.473m; tick1094
+bud_pel_new_loans_2025,city_pelt,2025,11196477,,,bbc_jr_realized,src_pelt_jr2025,strong,Nieuwe leningen 2025 11.196m MASSIVE FOI (bank 10.000m + leasing 1.196m); tick1094
+bud_pel_aflossingen_2025,city_pelt,2025,2178490,,,bbc_jr_realized,src_pelt_jr2025,strong,Periodieke aflossingen 2025 2.178m; tick1094
+bud_pel_cash_2025,city_pelt,2025,18828306,,,bbc_jr_realized,src_pelt_jr2025,strong,Liquide middelen YE2025 18.828m MASSIVE JUMP (was 11.639m; loan-driven); tick1094
+bud_pel_pension_bal_2025,city_pelt,2025,0,,,bbc_jr_realized,src_pelt_jr2025,strong,Pensioenvoorzieningen LT YE2025 0 ZERO FOI (cash pensioenen 0.875m JUMP); tick1094
+bud_pel_pension_cash_2025,city_pelt,2025,874752,,,bbc_jr_realized,src_pelt_jr2025,strong,Pensioenen cash-line 0.875m JUMP FOI (was 0.331m); tick1094
+bud_pel_cap_subs_2025,city_pelt,2025,28259853,,,bbc_jr_realized,src_pelt_jr2025,strong,Kapitaalsubsidies YE2025 28.260m; tick1094
+bud_pel_fva_total_2025,city_pelt,2025,93201038,,,bbc_jr_realized,src_pelt_jr2025,strong,FVA total YE2025 93.201m MASSIVE JUMP FOI (was 56.825m); tick1094
+bud_pel_fva_igs_2025,city_pelt,2025,85545244,,,bbc_jr_realized,src_pelt_jr2025,strong,FVA IGS YE2025 85.545m MASSIVE JUMP FOI (was 49.170m +36.4m); tick1094
+bud_pel_fva_agb_2025,city_pelt,2025,3610000,,,bbc_jr_realized,src_pelt_jr2025,strong,FVA EVA/AGB YE2025 3.610m; tick1094
+bud_pel_fva_other_2025,city_pelt,2025,4017794,,,bbc_jr_realized,src_pelt_jr2025,strong,Andere FVA YE2025 4.018m; tick1094
+bud_pel_herwaard_2025,city_pelt,2025,36439103,,,bbc_jr_realized,src_pelt_jr2025,strong,Herwaarderingsreserves YE2025 36.439m MASSIVE JUMP FOI (was 0.060m); tick1094
+bud_pel_leasing_mva_2025,city_pelt,2025,3317344,,,bbc_jr_realized,src_pelt_jr2025,strong,Leasing MVA gemeenschaps YE2025 3.317m; tick1094
+bud_pel_expl_rec_2025,city_pelt,2025,53900189,,,bbc_jr_realized,src_pelt_jr2025,strong,Exploitatieontvangsten 53.900m; tick1094
+bud_pel_expl_exp_2025,city_pelt,2025,47697829,,,bbc_jr_realized,src_pelt_jr2025,strong,Exploitatieuitgaven 47.698m; tick1094
+bud_pel_expl_saldo_2025,city_pelt,2025,6202360,,,bbc_jr_realized,src_pelt_jr2025,strong,Exploitatiesaldo +6.202m VERY STRONG; tick1094
+bud_pel_invest_exp_2025,city_pelt,2025,9943932,,,bbc_jr_realized,src_pelt_jr2025,strong,Investeringsuitgaven 9.944m vs MJP 26.550m MASSIVE UNDERSPEND FOI; tick1094
+bud_pel_invest_rec_2025,city_pelt,2025,3834819,,,bbc_jr_realized,src_pelt_jr2025,strong,Investeringsontvangsten 3.835m; tick1094
+bud_pel_invest_saldo_2025,city_pelt,2025,-6109112,,,bbc_jr_realized,src_pelt_jr2025,strong,Investeringssaldo -6.109m FOI; tick1094
+bud_pel_mjp_invest_planned_2025,city_pelt,2025,26550221,,,bbc_jr_realized,src_pelt_jr2025,strong,MJP invest planned 26.550m vs realized 9.944m MASSIVE UNDERSPEND FOI; tick1094
+bud_pel_afm_2025,city_pelt,2025,4309376,,,bbc_jr_realized,src_pelt_jr2025,strong,AFM +4.309m VERY STRONG; tick1094
+bud_pel_afm_corrected_2025,city_pelt,2025,4172464,,,bbc_jr_realized,src_pelt_jr2025,strong,Gecorrigeerde AFM +4.172m VERY STRONG; tick1094
+bud_pel_bbr_2025,city_pelt,2025,14701668,,,bbc_jr_realized,src_pelt_jr2025,strong,Beschikbaar budgettair resultaat 14.702m VERY HIGH; tick1094
+bud_pel_budget_result_2025,city_pelt,2025,9347901,,,bbc_jr_realized,src_pelt_jr2025,strong,Budgettair resultaat boekjaar +9.348m VERY STRONG loan-driven FOI; tick1094
+bud_pel_cum_budget_2025,city_pelt,2025,14901668,,,bbc_jr_realized,src_pelt_jr2025,strong,Gecumuleerd budgettair resultaat 14.902m; tick1094
+bud_pel_onbeschikbaar_2025,city_pelt,2025,200000,,,bbc_jr_realized,src_pelt_jr2025,strong,Onbeschikbare gelden 0.200m; tick1094
+bud_pel_pnl_2025,city_pelt,2025,-457488,,,bbc_jr_realized,src_pelt_jr2025,strong,P&L tekort -0.457m NEG FLIP FOI (was +3.252m); tick1094
+bud_pel_meerwaarden_2025,city_pelt,2025,2359258,,,bbc_jr_realized,src_pelt_jr2025,strong,Meerwaarden vaste activa 2.359m MASSIVE JUMP FOI; tick1094
+bud_pel_personnel_2025,city_pelt,2025,22876566,,,bbc_jr_realized,src_pelt_jr2025,strong,Bezoldigingen 22.877m JUMP; tick1094
+bud_pel_goods_services_2025,city_pelt,2025,7803778,,,bbc_jr_realized,src_pelt_jr2025,strong,Goederen en diensten 7.804m; tick1094
+bud_pel_toelagen_2025,city_pelt,2025,13264856,,,bbc_jr_realized,src_pelt_jr2025,strong,Toegestane werkingssubsidies 13.265m MASSIVE FOI; tick1094
+bud_pel_police_toelage_2025,city_pelt,2025,3398344,,,bbc_jr_realized,src_pelt_jr2025,strong,Politiezone toelage 3.398m JUMP FOI; tick1094
+bud_pel_fire_toelage_2025,city_pelt,2025,1760119,,,bbc_jr_realized,src_pelt_jr2025,strong,HVZ toelage 1.760m; tick1094
+bud_pel_igs_toelage_2025,city_pelt,2025,1840984,,,bbc_jr_realized,src_pelt_jr2025,strong,IGS toelage 1.841m FOI; tick1094
+bud_pel_agb_toelage_2025,city_pelt,2025,2086646,,,bbc_jr_realized,src_pelt_jr2025,strong,AGB toelage 2.087m dual residual FOI; tick1094
+bud_pel_other_toelagen_2025,city_pelt,2025,3450561,,,bbc_jr_realized,src_pelt_jr2025,strong,Andere toelagen 3.451m HIGH FOI residual; tick1094
+bud_pel_welzijn_toelage_2025,city_pelt,2025,588029,,,bbc_jr_realized,src_pelt_jr2025,strong,Welzijn toelage 0.588m; tick1094
+bud_pel_fiscal_rec_2025,city_pelt,2025,26373437,,,bbc_jr_realized,src_pelt_jr2025,strong,Fiscale ontvangsten 26.373m JUMP; tick1094
+bud_pel_fiscal_ov_2025,city_pelt,2025,12803000,,,bbc_jr_realized,src_pelt_jr2025,strong,Opcentiemen OV 12.803m; tick1094
+bud_pel_fiscal_pb_2025,city_pelt,2025,10400530,,,bbc_jr_realized,src_pelt_jr2025,strong,Aanvullende PB 10.401m JUMP; tick1094
+bud_pel_gemeentefonds_2025,city_pelt,2025,10869305,,,bbc_jr_realized,src_pelt_jr2025,strong,Gemeentefonds 10.869m; tick1094
+bud_pel_ocmw_cover_2025,city_pelt,2025,0,,,bbc_jr_realized,src_pelt_jr2025,strong,OCMW tussenkomst 0 ZERO FOI despite equity cum -23.46m WORSENING; tick1094
+bud_pel_ocmw_hulp_2025,city_pelt,2025,2508362,,,bbc_jr_realized,src_pelt_jr2025,strong,OCMW individuele hulpverlening 2.508m; tick1094
+bud_pel_ocmw_equity_cum_2025,city_pelt,2025,-23462787,,,bbc_jr_realized,src_pelt_jr2025,strong,OCMW equity cum -23.463m WORSENING FOI (was -18.699m; cover 0); tick1094
+bud_pel_agb_afm_2025,city_pelt,2025,792164,,,bbc_jr_realized,src_pelt_jr2025,strong,AGB Pelt AFM +0.792m dual residual; tick1094
+bud_pel_agb_bbr_2025,city_pelt,2025,2500625,,,bbc_jr_realized,src_pelt_jr2025,strong,AGB BBR 2.501m dual residual; tick1094
+bud_pel_interest_2025,city_pelt,2025,1152102,,,bbc_jr_realized,src_pelt_jr2025,strong,Intresten 1.152m JUMP FOI (was 0.584m); tick1094
+bud_pel_financieringssaldo_2025,city_pelt,2025,9254654,,,bbc_jr_realized,src_pelt_jr2025,strong,Financieringssaldo +9.255m loan-driven; tick1094

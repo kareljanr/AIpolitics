@@ -14806,3 +14806,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_bre_*); commitments +7; leaderboard +8; sources +1; entity city_bree; FOI **gap_bre_fva_herwaard_police_agb_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1093=done; spawn **rq_1094**; ticks=1093
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1094** residual dual L5; deferred **rq_116**; progress@1100 in 6
+
+
+### Tick 1094 - 2026-08-11T12:30:00Z
+
+- Unit: **rq_1094** (FOI-adjacent residual dual - **Lokaal Bestuur Pelt Jaarrekening 2025** + Bree dual residual)
+- Found (strong primary BBC JR2025 PDF; 166p; GR 28.05.2026 pub 02.06.2026; gemeentepelt.be; fusion KBO GE 0697.609.350 / OCMW 0697.664.976; Oude Markt 2; AD Peter Spooren FD Ineke Vos BM Dennis Fransen; GE+OCMW + AGB dual):
+  - Assets **EUR305.306m MASSIVE JUMP FOI** (was **EUR260.480m**) / equity **EUR256.792m JUMP** / debt total **EUR48.51m JUMP** / fin debt **EUR37.961m MASSIVE JUMP FOI** (LT **EUR35.487m** / ST due **EUR2.473m**; was **EUR28.943m**)
+  - New loans **EUR11.196m MASSIVE FOI** (bank **EUR10.000m** + leasing **EUR1.196m**) / repayments **EUR2.178m**
+  - Cash **EUR18.828m MASSIVE JUMP** (was **EUR11.639m**; loan-driven) / pension bal **EUR0 ZERO FOI** / cash pensioenen **EUR0.875m JUMP** / FVA IGS **EUR85.545m MASSIVE JUMP FOI** (was **EUR49.170m**) / herwaard **EUR36.439m MASSIVE JUMP FOI** (was **EUR0.060m**) / leasing MVA **EUR3.317m**
+  - Exploitatie: ontvangsten **EUR53.900m** / uitgaven **EUR47.698m** / saldo **+EUR6.202m VERY STRONG**
+  - AFM **+EUR4.309m VERY STRONG** (gecorr **+EUR4.172m**) / BBR **EUR14.702m VERY HIGH** / budget **+EUR9.348m VERY STRONG loan-driven FOI** / cum BR **EUR14.902m** / P&L **EUR-0.457m NEG FLIP FOI** (was **+EUR3.252m**)
+  - Personnel **EUR22.877m JUMP** / toelagen **EUR13.265m MASSIVE FOI** (police **EUR3.398m JUMP** / other **EUR3.451m HIGH** / AGB **EUR2.087m** / IGS **EUR1.841m** / fire **EUR1.760m**)
+  - Invest **EUR9.944m** vs MJP **EUR26.550m MASSIVE UNDERSPEND FOI** / meerwaarden **EUR2.359m JUMP**
+  - **OCMW cover EUR0 ZERO FOI** / OCMW equity cum **−EUR23.463m WORSENING** (was **−EUR18.699m**) / OCMW hulp **EUR2.508m**
+  - Dual AGB: AFM **+EUR0.792m** / BBR **EUR2.501m**
+  - Interest **EUR1.152m JUMP** (was **EUR0.584m**)
+- Dual: Bree FVA/herwaard MASSIVE / police JUMP / AGB loan (tick1093) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen / Peer / Tessenderlo residual next; progress@1100 in 5
+- Wrote: budgets +52 (bud_pel_*); commitments +7; leaderboard +8; sources +1; entity city_pelt; FOI **gap_pel_fva_loans_ocmw_equity_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1094=done; spawn **rq_1095**; ticks=1094
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1095** residual dual L5; deferred **rq_116**; progress@1100 in 5
