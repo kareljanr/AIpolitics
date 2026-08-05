@@ -12501,3 +12501,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_974** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 7
 
+
+### Tick 974 - 2026-08-08T23:00:00Z
+
+- Unit: **rq_974** (FOI-adjacent residual dual - **Gemeente+OCMW Avelgem Jaarrekening 2025** + AGB Zwevegem dual residual)
+- Found (strong primary BBC JR2025 199p; KBO 0207.485.770 / OCMW 0212.236.889; FD Geert Boudrez; Leopoldstraat 66):
+  - Assets **EUR64.9m** / equity **EUR53.3m** / debt total **EUR11.6m** / fin debt **EUR4.17m** (**DECLINING** from **EUR4.22m**; LT **EUR3.69m** / ST due **EUR0.480m**)
+  - New loans **EUR0.401m** / repayments **EUR0.454m**
+  - Cash **EUR13.2m HIGH** / pension **EUR3.82m declining** / leasing MVA **EUR7.38m LARGE FOI** (> fin debt) / FVA IGS **EUR6.14m**
+  - Exploitatie: ontvangsten **EUR23.1m** / uitgaven **EUR19.7m** / saldo **+EUR3.43m**
+  - AFM **+EUR3.31m STRONG** (gecorr **+EUR3.42m**) / BBR **EUR12.3m** / budget **-EUR0.460m FOI** / P&L **+EUR1.79m**
+  - Personnel **EUR11.7m** / toelagen **EUR2.30m FOI** / invest-subs **EUR0.125m**
+  - Invest **EUR4.67m** vs MJP **EUR4.14m overshoot FOI** / **OCMW cover EUR0** (T5) / **OCMW cum deficit -EUR5.15m FOI** / OCMW P&L **-EUR1.36m FOI**
+  - Onbeschikbaar **EUR0.656m** / MJP fin debt planned **EUR3.90m (2026)** declining
+- Dual: AGB Zwevegem **EUR3.24m** / equity NEG / gecorr AFM **-EUR0.233m** / lease-heavy (tick973) - not TE-additive
+- Note: Ledegem/Torhout/Meulebeke/WZBW still no extractable full JR2025 this tick
+- Wrote: budgets +47 (bud_ave_*); commitments +5; leaderboard +7; sources +1; entity city_avelgem; FOI **gap_ave_ocmw_deficit_lease_budget_l5** prio8 ready + draft; key only (PDF ~4.5MB not stored in git); rq_974=done; spawn **rq_975**; ticks=974
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_975** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW / Welzijn13); deferred **rq_116**; progress@980 in 6
+

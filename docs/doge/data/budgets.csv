@@ -22594,3 +22594,50 @@ bud_agbz_costs_j5_2025,agb_zwevegem,2025,97388,,,realized,src_agb_zwevegem_jr202
 bud_agbz_revenue_j5_2025,agb_zwevegem,2025,74792,,,realized,src_agb_zwevegem_jr2025,strong,J5 total opbrengsten 0.075m; tick973
 bud_agbz_mjp_fin_debt_2026,agb_zwevegem,2025,3039437,,,realized,src_agb_zwevegem_jr2025,strong,MJP fin debt YE2026 3.04m declining; tick973
 bud_agbz_mjp_fin_debt_2027,agb_zwevegem,2025,3002817,,,realized,src_agb_zwevegem_jr2025,strong,MJP fin debt YE2027 3.00m; tick973
+bud_ave_assets_2025,city_avelgem,2025,64920961,,,realized,src_avelgem_jr2025,strong,Total assets YE2025 64.9m; tick974
+bud_ave_equity_2025,city_avelgem,2025,53296612,,,realized,src_avelgem_jr2025,strong,Nettoactief YE2025 53.3m; tick974
+bud_ave_debt_total_2025,city_avelgem,2025,11624349,,,realized,src_avelgem_jr2025,strong,Total schulden YE2025 11.6m; tick974
+bud_ave_fin_debt_2025,city_avelgem,2025,4171747,,,realized,src_avelgem_jr2025,strong,Fin debt YE2025 4.17m DECLINING from 4.22m; tick974
+bud_ave_fin_debt_lt_2025,city_avelgem,2025,3691584,,,realized,src_avelgem_jr2025,strong,Fin debt LT 3.69m; tick974
+bud_ave_fin_debt_st_due_2025,city_avelgem,2025,480163,,,realized,src_avelgem_jr2025,strong,Fin debt ST due 0.480m; tick974
+bud_ave_fin_debt_2024,city_avelgem,2025,4224882,,,realized,src_avelgem_jr2025,strong,Fin debt YE2024 4.22m; tick974
+bud_ave_new_loans_2025,city_avelgem,2025,400572,,,realized,src_avelgem_jr2025,strong,New loans 0.401m FOI; tick974
+bud_ave_aflossingen_2025,city_avelgem,2025,453707,,,realized,src_avelgem_jr2025,strong,Periodieke aflossingen 0.454m; tick974
+bud_ave_cash_2025,city_avelgem,2025,13219504,,,realized,src_avelgem_jr2025,strong,Liquide middelen 13.2m HIGH; tick974
+bud_ave_cash_2024,city_avelgem,2025,14244441,,,realized,src_avelgem_jr2025,strong,Liquide middelen YE2024 14.2m; tick974
+bud_ave_pension_prov_2025,city_avelgem,2025,3822616,,,realized,src_avelgem_jr2025,strong,Pensioenvoorzieningen 3.82m declining FOI; tick974
+bud_ave_pension_prov_2024,city_avelgem,2025,4122608,,,realized,src_avelgem_jr2025,strong,Pensioenvoorzieningen YE2024 4.12m; tick974
+bud_ave_prov_st_2025,city_avelgem,2025,840131,,,realized,src_avelgem_jr2025,strong,Voorzieningen ST 0.840m; tick974
+bud_ave_fva_total_2025,city_avelgem,2025,6198514,,,realized,src_avelgem_jr2025,strong,FVA total 6.20m; tick974
+bud_ave_fva_igs_2025,city_avelgem,2025,6140434,,,realized,src_avelgem_jr2025,strong,FVA IGS 6.14m; tick974
+bud_ave_mva_2025,city_avelgem,2025,40935313,,,realized,src_avelgem_jr2025,strong,MVA total 40.9m; tick974
+bud_ave_leasing_mva_2025,city_avelgem,2025,7381208,,,realized,src_avelgem_jr2025,strong,Leasing MVA 7.38m LARGE FOI > fin debt; tick974
+bud_ave_cap_subs_2025,city_avelgem,2025,8383679,,,realized,src_avelgem_jr2025,strong,Kapitaalsubsidies 8.38m; tick974
+bud_ave_cum_pnl_2025,city_avelgem,2025,10632495,,,realized,src_avelgem_jr2025,strong,Gecumuleerd overschot 10.6m; tick974
+bud_ave_expl_rec_2025,city_avelgem,2025,23148407,,,realized,src_avelgem_jr2025,strong,Exploitatieontvangsten 23.1m; tick974
+bud_ave_expl_exp_2025,city_avelgem,2025,19716586,,,realized,src_avelgem_jr2025,strong,Exploitatieuitgaven 19.7m; tick974
+bud_ave_expl_saldo_2025,city_avelgem,2025,3431822,,,realized,src_avelgem_jr2025,strong,Exploitatiesaldo +3.43m; tick974
+bud_ave_invest_exp_2025,city_avelgem,2025,4668949,,,realized,src_avelgem_jr2025,strong,Investeringsuitgaven 4.67m overshoot vs MJP 4.14m FOI; tick974
+bud_ave_invest_rec_2025,city_avelgem,2025,830129,,,realized,src_avelgem_jr2025,strong,Investeringsontvangsten 0.830m; tick974
+bud_ave_invest_saldo_2025,city_avelgem,2025,3838820,,,realized,src_avelgem_jr2025,strong,Investeringssaldo -3.84m abs; tick974
+bud_ave_invest_mjp_2025,city_avelgem,2025,4139725,,,realized,src_avelgem_jr2025,strong,MJP invest exp 4.14m; tick974
+bud_ave_afm_2025,city_avelgem,2025,3306307,,,realized,src_avelgem_jr2025,strong,AFM +3.31m STRONG; tick974
+bud_ave_afm_corr_2025,city_avelgem,2025,3422024,,,realized,src_avelgem_jr2025,strong,Gecorr AFM +3.42m; tick974
+bud_ave_bbr_2025,city_avelgem,2025,12341739,,,realized,src_avelgem_jr2025,strong,BBR 12.3m; tick974
+bud_ave_budget_result_2025,city_avelgem,2025,460134,,,realized,src_avelgem_jr2025,strong,Budgettair resultaat -0.460m FOI abs; tick974
+bud_ave_pnl_result_2025,city_avelgem,2025,1788955,,,realized,src_avelgem_jr2025,strong,P&L overschot +1.79m; tick974
+bud_ave_personnel_2025,city_avelgem,2025,11706152,,,realized,src_avelgem_jr2025,strong,Bezoldigingen 11.7m; tick974
+bud_ave_toelagen_2025,city_avelgem,2025,2295720,,,realized,src_avelgem_jr2025,strong,Toegestane werkingssubsidies 2.30m FOI named; tick974
+bud_ave_invest_subs_granted_2025,city_avelgem,2025,125199,,,realized,src_avelgem_jr2025,strong,Toegestane invest-subs 0.125m; tick974
+bud_ave_ocmw_aid_2025,city_avelgem,2025,568609,,,realized,src_avelgem_jr2025,strong,Individuele hulpverlening OCMW 0.569m; tick974
+bud_ave_ocmw_cover_2025,city_avelgem,2025,0,,,realized,src_avelgem_jr2025,strong,OCMW tussenkomst 0 (T5 mutatie) FOI residual; tick974
+bud_ave_ocmw_cum_deficit_2025,city_avelgem,2025,5153418,,,realized,src_avelgem_jr2025,strong,OCMW cum equity deficit -5.15m FOI abs; tick974
+bud_ave_ocmw_pnl_neg_2025,city_avelgem,2025,1363323,,,realized,src_avelgem_jr2025,strong,OCMW P&L -1.36m FOI abs; tick974
+bud_ave_fiscal_2025,city_avelgem,2025,9236972,,,realized,src_avelgem_jr2025,strong,Fiscale opbrengsten 9.24m; tick974
+bud_ave_fin_costs_2025,city_avelgem,2025,74559,,,realized,src_avelgem_jr2025,strong,Financiele kosten J5 0.075m; tick974
+bud_ave_goederen_2025,city_avelgem,2025,4915196,,,realized,src_avelgem_jr2025,strong,Goederen en diensten 4.92m; tick974
+bud_ave_financing_saldo_2025,city_avelgem,2025,53135,,,realized,src_avelgem_jr2025,strong,Financieringssaldo -0.053m abs; tick974
+bud_ave_onbeschikbaar_2025,city_avelgem,2025,656386,,,realized,src_avelgem_jr2025,strong,Onbeschikbare gelden 0.656m; tick974
+bud_ave_mjp_fin_debt_2026,city_avelgem,2025,3895403,,,realized,src_avelgem_jr2025,strong,MJP fin debt YE2026 3.90m declining; tick974
+bud_ave_costs_j5_2025,city_avelgem,2025,21897623,,,realized,src_avelgem_jr2025,strong,J5 total kosten 21.9m; tick974
+bud_ave_revenue_j5_2025,city_avelgem,2025,23686578,,,realized,src_avelgem_jr2025,strong,J5 total opbrengsten 23.7m; tick974
