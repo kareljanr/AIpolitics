@@ -10829,3 +10829,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42; commitments +4; leaderboard +7; sources +2; entity city_nazareth_depinte; FOI **gap_naz_depinte_pension_toelagen_l5** prio7 ready + draft; raw PDF; rq_874=done; spawn **rq_875**; ticks=874
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_875** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/Opwijk/Bever/As/VUB/skeyes); deferred **rq_116**; progress@880 in 6
+
+## Tick 875 - 2026-08-06T10:30:00Z
+
+- Unit: **rq_875** (FOI-adjacent residual dual - **Gemeente+OCMW Bever Jaarrekening 2025** faciliteitengemeente + Destelbergen dual)
+- Found (strong primary BBC JR2025 93p):
+  - Assets **EUR21.3m** / equity **EUR16.1m** / debt total **EUR5.2m** / fin debt **EUR2.5m** (LT **EUR2.2m** was **EUR1.3m** / ST due **EUR0.33m**)
+  - **New loans EUR1.25m** (debt nearly doubled) / pension **EUR2.16m** / cash **EUR4.0m** / cap subs **EUR6.9m**
+  - Exploitatie: ontvangsten **EUR8.1m** / uitgaven **EUR6.8m** / saldo **+EUR1.2m**
+  - AFM **+EUR1.0m** (gecorr **+EUR1.1m**) / BBR **EUR4.4m** / budget result **+EUR0.9m** / P&L **+EUR0.7m**
+  - Personnel **EUR4.9m** / toelagen **EUR0.49m** (police ~**EUR0.28m** / fire ~**EUR0.15m**) / fiscal **EUR2.4m**
+  - Invest **EUR4.0m** / invest rec **EUR2.7m** / gemeentefonds **EUR0.79m** / faciliteiten-subs **EUR0.37m**
+- Dual: Destelbergen **EUR110.0m** / AFM **+EUR3.2m** (tick873) - not TE-additive
+- Wrote: budgets +36; commitments +4; leaderboard +7; sources +2; entity city_bever; FOI **gap_bever_loans_pension_l5** prio7 ready + draft; raw PDF; rq_875=done; spawn **rq_876**; ticks=875
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_876** residual (Opwijk PDF staged/Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@880 in 5

@@ -18754,3 +18754,39 @@ bud_nd_invest_subs_granted_2025,city_nazareth_depinte,2025,509201,,,jaarrekening
 bud_nd_new_loans_2025,city_nazareth_depinte,2025,981651,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Nieuwe leningen/leasings 0.982m 2025 (other entities; no bank stated); tick874
 bud_nd_agb_loan_to_2025,city_nazareth_depinte,2025,4740458,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toegestane lening gemeente aan AGB stock ~4.740m YE2025; tick874
 bud_nd_pop_2025,city_nazareth_depinte,2025,23560,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Inwoners 23560 op 1 jan 2025; tick874
+bud_bv_assets_2025,city_bever,2025,21260994,,,jaarrekening_realized,src_bever_jr2025,strong,Consol gemeente+OCMW total assets YE2025 21.261m; tick875
+bud_bv_equity_2025,city_bever,2025,16105124,,,jaarrekening_realized,src_bever_jr2025,strong,Nettoactief YE2025 16.105m; tick875
+bud_bv_debt_total_2025,city_bever,2025,5155870,,,jaarrekening_realized,src_bever_jr2025,strong,Schulden total YE2025 5.156m; tick875
+bud_bv_fin_debt_2025,city_bever,2025,2496385,,,jaarrekening_realized,src_bever_jr2025,strong,Financiele schulden total YE2025 2.496m (LT 2.170 + ST due 0.327); tick875
+bud_bv_fin_debt_lt_2025,city_bever,2025,2169851,,,jaarrekening_realized,src_bever_jr2025,strong,Financiele schulden LT YE2025 2.170m (was 1.260m); tick875
+bud_bv_fin_debt_st_2025,city_bever,2025,326534,,,jaarrekening_realized,src_bever_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.327m; tick875
+bud_bv_pension_prov_2025,city_bever,2025,2159606,,,jaarrekening_realized,src_bever_jr2025,strong,Pensioenvoorzieningen YE2025 2.160m (was 1.971m); tick875
+bud_bv_cash_2025,city_bever,2025,4008497,,,jaarrekening_realized,src_bever_jr2025,strong,Liquide middelen+geldbeleggingen YE2025 4.008m; tick875
+bud_bv_cap_subs_2025,city_bever,2025,6877805,,,jaarrekening_realized,src_bever_jr2025,strong,Kapitaalsubsidies YE2025 6.878m; tick875
+bud_bv_fva_igs_2025,city_bever,2025,1280542,,,jaarrekening_realized,src_bever_jr2025,strong,Fin VA IGS YE2025 1.281m; tick875
+bud_bv_cumul_budget_2025,city_bever,2025,4438739,,,jaarrekening_realized,src_bever_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 4.439m; tick875
+bud_bv_bbr_2025,city_bever,2025,4438739,,,jaarrekening_realized,src_bever_jr2025,strong,Beschikbaar budgettair resultaat YE2025 4.439m; tick875
+bud_bv_expl_rec_2025,city_bever,2025,8067327,,,jaarrekening_realized,src_bever_jr2025,strong,Exploitatieontvangsten 8.067m 2025; tick875
+bud_bv_expl_exp_2025,city_bever,2025,6825057,,,jaarrekening_realized,src_bever_jr2025,strong,Exploitatieuitgaven 6.825m 2025; tick875
+bud_bv_expl_saldo_2025,city_bever,2025,1242271,,,jaarrekening_realized,src_bever_jr2025,strong,Exploitatiesaldo +1.242m 2025; tick875
+bud_bv_invest_exp_2025,city_bever,2025,4005139,,,jaarrekening_realized,src_bever_jr2025,strong,Investeringsuitgaven 4.005m 2025; tick875
+bud_bv_invest_rec_2025,city_bever,2025,2678951,,,jaarrekening_realized,src_bever_jr2025,strong,Investeringsontvangsten 2.679m 2025; tick875
+bud_bv_invest_saldo_2025,city_bever,2025,-1326189,,,jaarrekening_realized,src_bever_jr2025,strong,Investeringssaldo -1.326m 2025; tick875
+bud_bv_fin_saldo_2025,city_bever,2025,972303,,,jaarrekening_realized,src_bever_jr2025,strong,Financieringssaldo +0.972m 2025; tick875
+bud_bv_budget_result_2025,city_bever,2025,888385,,,jaarrekening_realized,src_bever_jr2025,strong,Budgettair resultaat boekjaar +0.888m 2025; tick875
+bud_bv_afm_2025,city_bever,2025,967851,,,jaarrekening_realized,src_bever_jr2025,strong,Autofinancieringsmarge +0.968m 2025; tick875
+bud_bv_afm_gecorr_2025,city_bever,2025,1120446,,,jaarrekening_realized,src_bever_jr2025,strong,Gecorrigeerde AFM +1.120m 2025; tick875
+bud_bv_pl_2025,city_bever,2025,667495,,,jaarrekening_realized,src_bever_jr2025,strong,P&L overschot +0.667m 2025; tick875
+bud_bv_personnel_2025,city_bever,2025,4881000,,,jaarrekening_realized,src_bever_jr2025,strong,Bezoldigingen sociale lasten pensioenen 4.881m 2025; tick875
+bud_bv_toelagen_2025,city_bever,2025,490160,,,jaarrekening_realized,src_bever_jr2025,strong,Toegestane werkingssubsidies 0.490m 2025; tick875
+bud_bv_toelagen_police_2025,city_bever,2025,282455,,,jaarrekening_realized,src_bever_jr2025,strong,Toelage politiezone ~0.282m 2025 (T2); tick875
+bud_bv_toelagen_fire_2025,city_bever,2025,154343,,,jaarrekening_realized,src_bever_jr2025,strong,Toelage hulpverleningszone ~0.154m 2025 (T2); tick875
+bud_bv_ocmw_aid_2025,city_bever,2025,115571,,,jaarrekening_realized,src_bever_jr2025,strong,Individuele hulpverlening OCMW 0.116m 2025; tick875
+bud_bv_fiscal_2025,city_bever,2025,2353742,,,jaarrekening_realized,src_bever_jr2025,strong,Fiscale opbrengsten en boetes 2.354m 2025; tick875
+bud_bv_fiscal_ov_2025,city_bever,2025,873544,,,jaarrekening_realized,src_bever_jr2025,strong,Opcentiemen OV 0.874m 2025; tick875
+bud_bv_fiscal_apb_2025,city_bever,2025,1202726,,,jaarrekening_realized,src_bever_jr2025,strong,Aanvullende PB 1.203m 2025; tick875
+bud_bv_gemeentefonds_2025,city_bever,2025,794479,,,jaarrekening_realized,src_bever_jr2025,strong,Gemeentefonds 0.794m 2025; tick875
+bud_bv_faciliteiten_subs_2025,city_bever,2025,372425,,,jaarrekening_realized,src_bever_jr2025,strong,Subsidie faciliteitengemeenten <2500 inw 0.372m 2025; tick875
+bud_bv_invest_subs_granted_2025,city_bever,2025,27794,,,jaarrekening_realized,src_bever_jr2025,strong,Toegestane investeringssubsidies 0.028m 2025; tick875
+bud_bv_new_loans_2025,city_bever,2025,1247999,,,jaarrekening_realized,src_bever_jr2025,strong,Nieuwe leningen 1.248m 2025 (fin debt jump FOI-adjacent); tick875
+bud_bv_gemeente_to_ocmw_2025,city_bever,2025,212473,,,jaarrekening_realized,src_bever_jr2025,strong,Bijdrage gemeente naar OCMW 0.212m 2025; tick875
