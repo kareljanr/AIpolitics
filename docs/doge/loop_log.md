@@ -13676,3 +13676,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1037** residual dual L5 (Grobbendonk / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 3
 
+
+### Tick 1037 - 2026-08-10T07:45:00Z
+
+- Unit: **rq_1037** (FOI-adjacent residual dual - **Gemeente+OCMW Laakdal Jaarrekening 2025** + Retie dual residual)
+- Found (strong primary BBC JR2025 123p; KBO 0216.769.066 / OCMW 0216.769.165; AD Jerry Verspreet; FD Anja Verlinden; Markt 19):
+  - Assets **EUR81.24m JUMP** / equity **EUR58.86m** / debt total **EUR22.38m JUMP** / fin debt **EUR8.29m DECLINE** (was **EUR8.85m**; LT **EUR7.14m** / ST due **EUR1.16m**)
+  - New loans **EUR0.580m LOW** lease/other / MJP bank planned **EUR3.84m 2026** + **EUR2.36m 2027 FOI** / repayments **EUR1.14m**
+  - Cash **EUR4.52m** / pension **EUR8.74m JUMP HIGH FOI** (was **EUR7.44m** **+EUR1.30m**) / FVA IGS **EUR8.31m** / leasing MVA **EUR3.28m**
+  - Exploitatie: ontvangsten **EUR32.42m** / uitgaven **EUR27.50m** / saldo **+EUR4.92m VERY STRONG**
+  - AFM **+EUR3.84m STRONG** / BBR **EUR4.36m** / budget **-EUR0.354m NEG FOI** / cum BR **EUR4.54m** / P&L **+EUR0.904m**
+  - Personnel **EUR16.24m** (edu pass-through **EUR2.95m**) / toelagen **EUR3.04m FOI** (police **EUR1.93m** / fire **EUR0.373m** / other **EUR0.680m**)
+  - Invest **EUR5.33m** vs MJP **EUR8.99m UNDERSPEND** / andere MVA invest **EUR1.68m JUMP** / invest-subs **EUR0.332m**
+  - **OCMW cover EUR2.13m FULL FOI** vs gap **-EUR2.06m** / OCMW equity cum **-EUR1.71m WORSENING** / OCMW P&L **-EUR2.63m HIGH**
+- Dual: Retie assets **EUR75.69m** / P&L **-EUR4.30m** / pension JUMP from 0 (tick1036) - not TE-additive
+- Note: Westerlo already mined tick871 (skipped); Grobbendonk/Herselt/Hulshout residual next; Torhout news-only; Stekene 404; Balen OCR
+- Wrote: budgets +56 (bud_laa_*); commitments +6; leaderboard +8; sources +1; entity city_laakdal; FOI **gap_laa_pension_ocmw_mjp_toelagen_l5** prio9 ready + draft; key only (PDF ~5.8MB not stored in git); rq_1037=done; spawn **rq_1038**; ticks=1037
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1038** residual dual L5 (Grobbendonk / Herselt / Hulshout / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 2
+

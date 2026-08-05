@@ -25611,3 +25611,59 @@ bud_ret_interest_2025,city_retie,2025,242377,,,bbc_jr_realized,src_retie_jr2025,
 bud_ret_invest_subs_granted_2025,city_retie,2025,555542,,,bbc_jr_realized,src_retie_jr2025,strong,Toegestane invest-subs 0.556m all IGS FOI; tick1036
 bud_ret_invest_subs_received_vl_2025,city_retie,2025,1199915,,,bbc_jr_realized,src_retie_jr2025,strong,Ontvangen invest-subs Vlaanderen 1.20m JUMP FOI; tick1036
 bud_ret_mjp_bank_loans_2027_2025,city_retie,2025,2900000,,,bbc_jr_realized,src_retie_jr2025,strong,MJP bank loans planned 2.90m 2027 FOI path; tick1036
+bud_laa_assets_2025,city_laakdal,2025,81239929,,,bbc_jr_realized,src_laakdal_jr2025,strong,Assets YE2025 81.24m JUMP (was 78.62m); tick1037
+bud_laa_equity_2025,city_laakdal,2025,58862944,,,bbc_jr_realized,src_laakdal_jr2025,strong,Nettoactief YE2025 58.86m JUMP (was 58.00m); tick1037
+bud_laa_debt_total_2025,city_laakdal,2025,22376985,,,bbc_jr_realized,src_laakdal_jr2025,strong,Total schulden YE2025 22.38m JUMP (was 20.62m); tick1037
+bud_laa_fin_debt_2025,city_laakdal,2025,8292992,,,bbc_jr_realized,src_laakdal_jr2025,strong,Fin debt total YE2025 8.29m DECLINE (was 8.85m T4); tick1037
+bud_laa_fin_debt_lt_2025,city_laakdal,2025,7136593,,,bbc_jr_realized,src_laakdal_jr2025,strong,Fin debt LT YE2025 7.14m DECLINE; tick1037
+bud_laa_fin_debt_st_due_2025,city_laakdal,2025,1156399,,,bbc_jr_realized,src_laakdal_jr2025,strong,Fin debt ST due YE2025 1.16m; tick1037
+bud_laa_new_loans_2025,city_laakdal,2025,579970,,,bbc_jr_realized,src_laakdal_jr2025,strong,Nieuwe leningen 2025 0.580m LOW lease/other (MJP bank 2026 3.84m planned FOI); tick1037
+bud_laa_aflossingen_2025,city_laakdal,2025,1135467,,,bbc_jr_realized,src_laakdal_jr2025,strong,Periodieke aflossingen 2025 1.14m; tick1037
+bud_laa_cash_2025,city_laakdal,2025,4521443,,,bbc_jr_realized,src_laakdal_jr2025,strong,Liquide middelen YE2025 4.52m slight DROP (was 4.65m); tick1037
+bud_laa_pension_2025,city_laakdal,2025,8739938,,,bbc_jr_realized,src_laakdal_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.74m JUMP HIGH FOI (was 7.44m +1.30m); tick1037
+bud_laa_cap_subs_2025,city_laakdal,2025,8176747,,,bbc_jr_realized,src_laakdal_jr2025,strong,Kapitaalsubsidies YE2025 8.18m; tick1037
+bud_laa_fva_total_2025,city_laakdal,2025,8412776,,,bbc_jr_realized,src_laakdal_jr2025,strong,FVA total YE2025 8.41m; tick1037
+bud_laa_fva_igs_2025,city_laakdal,2025,8305638,,,bbc_jr_realized,src_laakdal_jr2025,strong,FVA IGS YE2025 8.31m; tick1037
+bud_laa_leasing_mva_2025,city_laakdal,2025,3275957,,,bbc_jr_realized,src_laakdal_jr2025,strong,Leasing MVA total YE2025 3.28m (gemeenschap 2.62 + bedrijfsmatig 0.65); tick1037
+bud_laa_expl_rec_2025,city_laakdal,2025,32415990,,,bbc_jr_realized,src_laakdal_jr2025,strong,Exploitatieontvangsten 32.42m; tick1037
+bud_laa_expl_exp_2025,city_laakdal,2025,27496907,,,bbc_jr_realized,src_laakdal_jr2025,strong,Exploitatieuitgaven 27.50m; tick1037
+bud_laa_expl_saldo_2025,city_laakdal,2025,4919083,,,bbc_jr_realized,src_laakdal_jr2025,strong,Exploitatiesaldo +4.92m VERY STRONG; tick1037
+bud_laa_invest_exp_2025,city_laakdal,2025,5329482,,,bbc_jr_realized,src_laakdal_jr2025,strong,Investeringsuitgaven 5.33m vs MJP 8.99m UNDERSPEND FOI; tick1037
+bud_laa_invest_rec_2025,city_laakdal,2025,552874,,,bbc_jr_realized,src_laakdal_jr2025,strong,Investeringsontvangsten 0.553m; tick1037
+bud_laa_invest_saldo_2025,city_laakdal,2025,-4776608,,,bbc_jr_realized,src_laakdal_jr2025,strong,Investeringssaldo -4.78m; tick1037
+bud_laa_mjp_invest_planned_2025,city_laakdal,2025,8985221,,,bbc_jr_realized,src_laakdal_jr2025,strong,MJP invest planned 8.99m vs realized 5.33m underspend FOI; tick1037
+bud_laa_afm_2025,city_laakdal,2025,3842479,,,bbc_jr_realized,src_laakdal_jr2025,strong,AFM +3.84m STRONG; tick1037
+bud_laa_afm_corr_2025,city_laakdal,2025,4270067,,,bbc_jr_realized,src_laakdal_jr2025,strong,Gecorrigeerde AFM +4.27m STRONG; tick1037
+bud_laa_bbr_2025,city_laakdal,2025,4355035,,,bbc_jr_realized,src_laakdal_jr2025,strong,BBR beschikbaar +4.36m; tick1037
+bud_laa_budget_result_2025,city_laakdal,2025,-354159,,,bbc_jr_realized,src_laakdal_jr2025,strong,Budgettair resultaat -0.354m NEG FOI residual; tick1037
+bud_laa_cum_br_2025,city_laakdal,2025,4541702,,,bbc_jr_realized,src_laakdal_jr2025,strong,Gecumuleerd budgettair resultaat +4.54m DROP (was 4.90m); tick1037
+bud_laa_onbeschikbaar_2025,city_laakdal,2025,186667,,,bbc_jr_realized,src_laakdal_jr2025,strong,Onbeschikbare gelden 0.187m; tick1037
+bud_laa_pnl_2025,city_laakdal,2025,904066,,,bbc_jr_realized,src_laakdal_jr2025,strong,P&L +0.904m; tick1037
+bud_laa_ge_expl_exp_2025,city_laakdal,2025,20508677,,,bbc_jr_realized,src_laakdal_jr2025,strong,GE exploitatieuitgaven 20.51m; tick1037
+bud_laa_ge_expl_rec_2025,city_laakdal,2025,27487062,,,bbc_jr_realized,src_laakdal_jr2025,strong,GE exploitatieontvangsten 27.49m; tick1037
+bud_laa_ocmw_expl_exp_2025,city_laakdal,2025,6988230,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW exploitatieuitgaven 6.99m FOI; tick1037
+bud_laa_ocmw_expl_rec_2025,city_laakdal,2025,4928928,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW exploitatieontvangsten 4.93m; tick1037
+bud_laa_ocmw_expl_gap_2025,city_laakdal,2025,-2059302,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW expl gap -2.06m HIGH FOI residual; tick1037
+bud_laa_ocmw_cover_2025,city_laakdal,2025,2126882,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW cover tussenkomst 2.13m FULL FOI vs gap 2.06m; tick1037
+bud_laa_ocmw_equity_cum_2025,city_laakdal,2025,-1706112,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW equity cum -1.71m WORSENING FOI (was -1.20m); tick1037
+bud_laa_ocmw_pnl_2025,city_laakdal,2025,-2628182,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW P&L -2.63m HIGH FOI; tick1037
+bud_laa_ge_equity_cum_2025,city_laakdal,2025,14459760,,,bbc_jr_realized,src_laakdal_jr2025,strong,GE equity cum +14.46m; tick1037
+bud_laa_ge_pnl_2025,city_laakdal,2025,3532248,,,bbc_jr_realized,src_laakdal_jr2025,strong,GE P&L +3.53m; tick1037
+bud_laa_equity_cum_2025,city_laakdal,2025,12753648,,,bbc_jr_realized,src_laakdal_jr2025,strong,Consol equity cum +12.75m; tick1037
+bud_laa_personnel_2025,city_laakdal,2025,16237977,,,bbc_jr_realized,src_laakdal_jr2025,strong,Bezoldigingen 16.24m incl education pass-through 2.95m; tick1037
+bud_laa_edu_pass_through_2025,city_laakdal,2025,2949673,,,bbc_jr_realized,src_laakdal_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.95m; tick1037
+bud_laa_toelagen_2025,city_laakdal,2025,3042203,,,bbc_jr_realized,src_laakdal_jr2025,strong,Toegestane werkingssubsidies 3.04m FOI residual; tick1037
+bud_laa_toelagen_police_2025,city_laakdal,2025,1930927,,,bbc_jr_realized,src_laakdal_jr2025,strong,Toelage politiezone 1.93m; tick1037
+bud_laa_toelagen_fire_2025,city_laakdal,2025,373010,,,bbc_jr_realized,src_laakdal_jr2025,strong,Toelage hulpverleningszone 0.373m; tick1037
+bud_laa_toelagen_other_2025,city_laakdal,2025,680009,,,bbc_jr_realized,src_laakdal_jr2025,strong,Toelage andere begunstigden 0.680m FOI; tick1037
+bud_laa_toelagen_igs_2025,city_laakdal,2025,12965,,,bbc_jr_realized,src_laakdal_jr2025,strong,Toelage IGS 0.013m; tick1037
+bud_laa_ocmw_aid_2025,city_laakdal,2025,716956,,,bbc_jr_realized,src_laakdal_jr2025,strong,OCMW individuele hulp 0.717m; tick1037
+bud_laa_fiscal_2025,city_laakdal,2025,15364184,,,bbc_jr_realized,src_laakdal_jr2025,strong,Fiscale opbrengsten 15.36m; tick1037
+bud_laa_fiscal_ov_2025,city_laakdal,2025,5797599,,,bbc_jr_realized,src_laakdal_jr2025,strong,Opcentiemen OV 5.80m; tick1037
+bud_laa_fiscal_pb_2025,city_laakdal,2025,7086756,,,bbc_jr_realized,src_laakdal_jr2025,strong,Aanvullende PB 7.09m; tick1037
+bud_laa_gemeentefonds_2025,city_laakdal,2025,4841486,,,bbc_jr_realized,src_laakdal_jr2025,strong,Gemeentefonds 4.84m; tick1037
+bud_laa_interest_2025,city_laakdal,2025,193806,,,bbc_jr_realized,src_laakdal_jr2025,strong,Intresten op schulden 0.194m; tick1037
+bud_laa_invest_subs_granted_2025,city_laakdal,2025,331792,,,bbc_jr_realized,src_laakdal_jr2025,strong,Toegestane invest-subs 0.332m FOI (police 0.096 fire 0.134 eredienst 0.102); tick1037
+bud_laa_andere_mva_invest_2025,city_laakdal,2025,1682319,,,bbc_jr_realized,src_laakdal_jr2025,strong,Andere MVA invest 1.68m JUMP FOI residual; tick1037
+bud_laa_mjp_bank_loans_2026_2025,city_laakdal,2025,3840000,,,bbc_jr_realized,src_laakdal_jr2025,strong,MJP bank loans planned 3.84m 2026 FOI path; tick1037
+bud_laa_mjp_bank_loans_2027_2025,city_laakdal,2025,2360000,,,bbc_jr_realized,src_laakdal_jr2025,strong,MJP bank loans planned 2.36m 2027 FOI path; tick1037
