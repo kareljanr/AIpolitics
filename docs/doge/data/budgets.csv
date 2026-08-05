@@ -22085,3 +22085,54 @@ bud_wer_fin_costs_2025,city_wervik,2025,1238762,,,realized,src_wervik_jr2025,str
 bud_wer_goederen_2025,city_wervik,2025,5847919,,,realized,src_wervik_jr2025,strong,Goederen en diensten 5.85m; tick961
 bud_wer_financing_saldo_2025,city_wervik,2025,2447490,,,realized,src_wervik_jr2025,strong,Financieringssaldo +2.45m; tick961
 bud_wer_mjp_fin_debt_2027,city_wervik,2025,32252456,,,budgeted,src_wervik_jr2025,strong,MJP planned fin debt YE2027 32.3m JUMP FOI; tick961
+bud_hou_assets_2025,city_houthulst,2025,60544238,,,realized,src_houthulst_jr2025,strong,Total assets YE2025 60.5m; tick962
+bud_hou_equity_2025,city_houthulst,2025,31958343,,,realized,src_houthulst_jr2025,strong,Nettoactief YE2025 32.0m; tick962
+bud_hou_debt_total_2025,city_houthulst,2025,28585895,,,realized,src_houthulst_jr2025,strong,Total schulden YE2025 28.6m; tick962
+bud_hou_fin_debt_2025,city_houthulst,2025,23615611,,,jaarrekening_realized,src_houthulst_jr2025,strong,T4 total financiele schulden YE2025 23.6m DECLINING (was 24.8m) FOI high per capita; tick962
+bud_hou_fin_debt_lt_2025,city_houthulst,2025,22331557,,,realized,src_houthulst_jr2025,strong,Financiele schulden LT YE2025 22.3m; tick962
+bud_hou_fin_debt_st_due_2025,city_houthulst,2025,1284054,,,realized,src_houthulst_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.28m; tick962
+bud_hou_fin_debt_2024,city_houthulst,2025,24808073,,,realized,src_houthulst_jr2025,strong,T4 fin debt YE2024 24.8m comparator; tick962
+bud_hou_debt_per_capita_2025,city_houthulst,2025,2244,,,derived,src_houthulst_jr2025,strong,Openstaande schuld per inwoner 2244 EUR HIGH FOI; tick962
+bud_hou_new_loans_2025,city_houthulst,2025,209847,,,realized,src_houthulst_jr2025,strong,Nieuwe leningen/lease 0.210m FOI; tick962
+bud_hou_aflossingen_2025,city_houthulst,2025,1402309,,,realized,src_houthulst_jr2025,strong,Periodieke aflossingen 1.40m; tick962
+bud_hou_cash_2025,city_houthulst,2025,3296210,,,realized,src_houthulst_jr2025,strong,Liquide middelen YE2025 3.30m; tick962
+bud_hou_cash_2024,city_houthulst,2025,3295696,,,realized,src_houthulst_jr2025,strong,Liquide middelen YE2024 3.30m comparator; tick962
+bud_hou_pension_prov_2025,city_houthulst,2025,2953779,,,realized,src_houthulst_jr2025,strong,Pensioenvoorzieningen YE2025 2.95m RISING FOI; tick962
+bud_hou_pension_prov_2024,city_houthulst,2025,2770702,,,realized,src_houthulst_jr2025,strong,Pensioenvoorzieningen YE2024 2.77m; tick962
+bud_hou_prov_st_2025,city_houthulst,2025,442731,,,realized,src_houthulst_jr2025,strong,Voorzieningen ST YE2025 0.443m; tick962
+bud_hou_fva_total_2025,city_houthulst,2025,17486517,,,realized,src_houthulst_jr2025,strong,Financiele vaste activa YE2025 17.5m; tick962
+bud_hou_fva_igs_2025,city_houthulst,2025,15926108,,,realized,src_houthulst_jr2025,strong,FVA IGS YE2025 15.9m JUMP (herwaard) FOI; tick962
+bud_hou_mva_2025,city_houthulst,2025,38403778,,,realized,src_houthulst_jr2025,strong,Materiele vaste activa YE2025 38.4m; tick962
+bud_hou_leasing_mva_2025,city_houthulst,2025,10802883,,,realized,src_houthulst_jr2025,strong,Leasing MVA gemeenschap 10.8m LARGE FOI; tick962
+bud_hou_cap_subs_2025,city_houthulst,2025,5763099,,,realized,src_houthulst_jr2025,strong,Kapitaalssubsidies YE2025 5.76m; tick962
+bud_hou_cum_pnl_deficit_2025,city_houthulst,2025,-1019773,,,realized,src_houthulst_jr2025,strong,Gecumuleerd overschot/tekort -1.02m DEFICIT FOI; tick962
+bud_hou_expl_rec_2025,city_houthulst,2025,16667016,,,realized,src_houthulst_jr2025,strong,Exploitatieontvangsten 16.7m; tick962
+bud_hou_expl_exp_2025,city_houthulst,2025,14260898,,,realized,src_houthulst_jr2025,strong,Exploitatieuitgaven 14.3m; tick962
+bud_hou_expl_saldo_2025,city_houthulst,2025,2406119,,,realized,src_houthulst_jr2025,strong,Exploitatiesaldo +2.41m; tick962
+bud_hou_invest_exp_2025,city_houthulst,2025,2198121,,,realized,src_houthulst_jr2025,strong,Investeringsuitgaven 2.20m (J2) FOI; tick962
+bud_hou_invest_rec_2025,city_houthulst,2025,1409992,,,realized,src_houthulst_jr2025,strong,Investeringsontvangsten 1.41m HIGH FOI; tick962
+bud_hou_invest_saldo_2025,city_houthulst,2025,-788128,,,realized,src_houthulst_jr2025,strong,Investeringssaldo -0.788m; tick962
+bud_hou_invest_subs_rec_2025,city_houthulst,2025,1378718,,,realized,src_houthulst_jr2025,strong,Ontvangen investeringssubsidies 1.38m FOI; tick962
+bud_hou_afm_2025,city_houthulst,2025,1003809,,,realized,src_houthulst_jr2025,strong,AFM +1.00m; tick962
+bud_hou_afm_corr_2025,city_houthulst,2025,421473,,,realized,src_houthulst_jr2025,strong,Gecorrigeerde AFM +0.421m WEAK FOI (aangewezen aflossingen 1.98m > periodiek 1.40m); tick962
+bud_hou_bbr_2025,city_houthulst,2025,3052191,,,realized,src_houthulst_jr2025,strong,Beschikbaar budgettair resultaat 3.05m; tick962
+bud_hou_budget_result_2025,city_houthulst,2025,425528,,,realized,src_houthulst_jr2025,strong,Budgettair resultaat boekjaar +0.426m POS; tick962
+bud_hou_cum_br_2025,city_houthulst,2025,3238858,,,realized,src_houthulst_jr2025,strong,Gecumuleerd budgettair resultaat 3.24m; tick962
+bud_hou_onbeschikbaar_2025,city_houthulst,2025,186667,,,realized,src_houthulst_jr2025,strong,Onbeschikbare gelden 0.187m; tick962
+bud_hou_pnl_result_2025,city_houthulst,2025,593682,,,realized,src_houthulst_jr2025,strong,P&L boekjaar +0.594m; tick962
+bud_hou_personnel_2025,city_houthulst,2025,7395452,,,realized,src_houthulst_jr2025,strong,Personeelskosten 7.40m; tick962
+bud_hou_toelagen_2025,city_houthulst,2025,2235507,,,realized,src_houthulst_jr2025,strong,Toegestane werkingssubsidies 2.24m FOI named; tick962
+bud_hou_toelagen_police_2025,city_houthulst,2025,863618,,,realized,src_houthulst_jr2025,strong,Toelagen politiezone 0.864m; tick962
+bud_hou_toelagen_hvz_2025,city_houthulst,2025,431870,,,realized,src_houthulst_jr2025,strong,Toelagen HVZ 0.432m; tick962
+bud_hou_toelagen_igs_2025,city_houthulst,2025,484553,,,realized,src_houthulst_jr2025,strong,Toelagen IGS 0.485m JUMP FOI (was 0.396m); tick962
+bud_hou_toelagen_kerk_2025,city_houthulst,2025,166151,,,realized,src_houthulst_jr2025,strong,Toelagen eredienst 0.166m; tick962
+bud_hou_toelagen_welzijn_2025,city_houthulst,2025,132107,,,realized,src_houthulst_jr2025,strong,Toelagen welzijnsverenigingen 0.132m FOI; tick962
+bud_hou_toelagen_other_2025,city_houthulst,2025,157208,,,realized,src_houthulst_jr2025,strong,Toelagen andere begunstigden ~0.157m FOI residual; tick962
+bud_hou_invest_subs_granted_2025,city_houthulst,2025,94042,,,realized,src_houthulst_jr2025,strong,Toegestane investeringssubsidies 0.094m; tick962
+bud_hou_ocmw_aid_2025,city_houthulst,2025,514475,,,realized,src_houthulst_jr2025,strong,Individuele hulpverlening OCMW 0.514m; tick962
+bud_hou_ocmw_cover_2025,city_houthulst,2025,855316,,,realized,src_houthulst_jr2025,strong,Tussenkomst gemeente aan OCMW 0.855m FOI; tick962
+bud_hou_fiscal_2025,city_houthulst,2025,8810408,,,realized,src_houthulst_jr2025,strong,Fiscale opbrengsten 8.81m; tick962
+bud_hou_fin_costs_2025,city_houthulst,2025,965969,,,realized,src_houthulst_jr2025,strong,Financiele kosten 0.966m; tick962
+bud_hou_goederen_2025,city_houthulst,2025,3102847,,,realized,src_houthulst_jr2025,strong,Goederen en diensten 3.10m; tick962
+bud_hou_financing_saldo_2025,city_houthulst,2025,-1192462,,,realized,src_houthulst_jr2025,strong,Financieringssaldo -1.19m; tick962
+bud_hou_herwaardering_reserves_2025,city_houthulst,2025,7147860,,,realized,src_houthulst_jr2025,strong,Herwaarderingsreserves YE2025 7.15m (was 2.03m) FOI; tick962

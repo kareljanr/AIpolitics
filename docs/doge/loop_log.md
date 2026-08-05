@@ -12276,3 +12276,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +52 (bud_wer_*); commitments +5; leaderboard +7; sources +2; entity city_wervik; FOI **gap_wer_debt_wzbw_ocmw_invest_l5** prio8 ready + draft; key only; rq_961=done; spawn **rq_962**; ticks=961
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_962** residual dual L5 (Houthulst / Ledegem / WZBW Entity II / Torhout / Meulebeke); deferred **rq_116**; progress@970 in 9
+
+
+### Tick 962 - 2026-08-08T11:00:00Z
+
+- Unit: **rq_962** (FOI-adjacent residual dual - **Gemeente+OCMW Houthulst Jaarrekening 2025** + Wervik dual residual)
+- Found (strong primary BBC JR2025 194p; KBO 0207.532.092 / OCMW 0212.220.558; GR/OCMW 25.06.2026):
+  - Assets **EUR60.5m** / equity **EUR32.0m** / debt total **EUR28.6m** / fin debt **EUR23.6m** (**DECLINING** from **EUR24.8m**; LT **EUR22.3m** / ST due **EUR1.28m**; **EUR2244/inwoner HIGH FOI**)
+  - New loans/lease **EUR0.210m** / repayments **EUR1.40m**
+  - Cash **EUR3.30m** / pension **EUR2.95m RISING** / **leasing MVA EUR10.8m LARGE FOI** / FVA IGS **EUR15.9m JUMP** (herwaard reserves **EUR7.15m**)
+  - Exploitatie: ontvangsten **EUR16.7m** / uitgaven **EUR14.3m** / saldo **+EUR2.41m**
+  - AFM **+EUR1.00m** / **gecorr AFM +EUR0.421m WEAK FOI** (aangewezen **EUR1.98m** > periodiek **EUR1.40m**) / BBR **EUR3.05m** / budget **+EUR0.426m** / P&L **+EUR0.594m**
+  - **Cum equity deficit -EUR1.02m FOI** / OCMW cover **EUR0.855m FOI**
+  - Personnel **EUR7.40m** / toelagen **EUR2.24m** (police **EUR0.86m** / HVZ **EUR0.43m** / **IGS EUR0.485m JUMP FOI** / other **~EUR0.16m**)
+  - Invest **EUR2.20m** / invest-subs rec **EUR1.38m HIGH FOI**
+- Dual: Wervik **EUR111.0m** / fin debt **EUR19.6m RISING** / cash **EUR6.46m JUMP** / WZBW dual (tick961) - not TE-additive
+- Wrote: budgets +50 (bud_hou_*); commitments +5; leaderboard +7; sources +2; entity city_houthulst; FOI **gap_hou_debt_lease_ocmw_afm_l5** prio8 ready + draft; key only (PDF ~16MB not stored); rq_962=done; spawn **rq_963**; ticks=962
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_963** residual dual L5 (Ledegem / Lendelede / Torhout / Meulebeke / Zonnebeke / WZBW); deferred **rq_116**; progress@970 in 8
