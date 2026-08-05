@@ -28212,3 +28212,52 @@ bud_gee_other_op_exp_2025,city_geetbets,2025,677614,,,bbc_jr_realized,src_geetbe
 bud_gee_fin_exp_2025,city_geetbets,2025,306112,,,bbc_jr_realized,src_geetbets_jr2025,strong,Financiële uitgaven 0.306m; tick1088
 bud_gee_onbeschikbaar_2025,city_geetbets,2025,757159,,,bbc_jr_realized,src_geetbets_jr2025,strong,Onbeschikbare gelden 0.757m; tick1088
 bud_gee_financieringssaldo_2025,city_geetbets,2025,-772856,,,bbc_jr_realized,src_geetbets_jr2025,strong,Financieringssaldo -0.773m; tick1088
+bud_tor_assets_2025,city_torhout,2025,152091141,,,bbc_jr_realized,src_torhout_jr2025,strong,Assets YE2025 152.091m slight DROP (was 152.251m); tick1089
+bud_tor_equity_2025,city_torhout,2025,103116664,,,bbc_jr_realized,src_torhout_jr2025,strong,Nettoactief YE2025 103.117m stable (was 103.093m); tick1089
+bud_tor_debt_total_2025,city_torhout,2025,48974477,,,bbc_jr_realized,src_torhout_jr2025,strong,Total schulden YE2025 48.974m slight DROP (was 49.158m); tick1089
+bud_tor_fin_debt_2025,city_torhout,2025,27332121,,,bbc_jr_realized,src_torhout_jr2025,strong,Fin debt total YE2025 27.332m DECLINE (was 30.090m); tick1089
+bud_tor_fin_debt_lt_2025,city_torhout,2025,24773460,,,bbc_jr_realized,src_torhout_jr2025,strong,Fin debt LT YE2025 24.773m DECLINE (was 27.042m); tick1089
+bud_tor_fin_debt_st_due_2025,city_torhout,2025,2558660,,,bbc_jr_realized,src_torhout_jr2025,strong,Fin debt ST due YE2025 2.559m DROP (was 3.048m); tick1089
+bud_tor_new_loans_2025,city_torhout,2025,298047,,,bbc_jr_realized,src_torhout_jr2025,strong,Nieuwe leningen 2025 0.298m LOW leasing Fluvius verledding; tick1089
+bud_tor_aflossingen_2025,city_torhout,2025,3056078,,,bbc_jr_realized,src_torhout_jr2025,strong,Periodieke aflossingen 2025 3.056m; tick1089
+bud_tor_cash_2025,city_torhout,2025,11655235,,,bbc_jr_realized,src_torhout_jr2025,strong,Liquide middelen YE2025 11.655m DROP FOI (was 14.132m); tick1089
+bud_tor_pension_2025,city_torhout,2025,13492320,,,bbc_jr_realized,src_torhout_jr2025,strong,Pensioenvoorzieningen LT YE2025 13.492m MASSIVE JUMP FOI (was 11.207m +2.285m); tick1089
+bud_tor_cap_subs_2025,city_torhout,2025,14641197,,,bbc_jr_realized,src_torhout_jr2025,strong,Kapitaalsubsidies YE2025 14.641m; tick1089
+bud_tor_fva_total_2025,city_torhout,2025,46203336,,,bbc_jr_realized,src_torhout_jr2025,strong,FVA total YE2025 46.203m JUMP; tick1089
+bud_tor_fva_igs_2025,city_torhout,2025,22471135,,,bbc_jr_realized,src_torhout_jr2025,strong,FVA IGS YE2025 22.471m JUMP (was 21.921m); tick1089
+bud_tor_fva_other_2025,city_torhout,2025,23732201,,,bbc_jr_realized,src_torhout_jr2025,strong,Andere FVA YE2025 23.732m HIGH FOI stock unchanged; tick1089
+bud_tor_herwaard_2025,city_torhout,2025,1066889,,,bbc_jr_realized,src_torhout_jr2025,strong,Herwaarderingsreserves YE2025 1.067m JUMP FOI (was 0.406m +0.661m); tick1089
+bud_tor_leasing_mva_2025,city_torhout,2025,1786527,,,bbc_jr_realized,src_torhout_jr2025,strong,Leasing MVA YE2025 1.787m; tick1089
+bud_tor_expl_rec_2025,city_torhout,2025,55861264,,,bbc_jr_realized,src_torhout_jr2025,strong,Exploitatieontvangsten 55.861m; tick1089
+bud_tor_expl_exp_2025,city_torhout,2025,49707742,,,bbc_jr_realized,src_torhout_jr2025,strong,Exploitatieuitgaven 49.708m; tick1089
+bud_tor_expl_saldo_2025,city_torhout,2025,6153522,,,bbc_jr_realized,src_torhout_jr2025,strong,Exploitatiesaldo +6.154m STRONG; tick1089
+bud_tor_invest_exp_2025,city_torhout,2025,5737220,,,bbc_jr_realized,src_torhout_jr2025,strong,Investeringsuitgaven 5.737m vs MJP 7.533m UNDERSPEND FOI; tick1089
+bud_tor_invest_rec_2025,city_torhout,2025,759333,,,bbc_jr_realized,src_torhout_jr2025,strong,Investeringsontvangsten 0.759m; tick1089
+bud_tor_invest_saldo_2025,city_torhout,2025,-4977888,,,bbc_jr_realized,src_torhout_jr2025,strong,Investeringssaldo -4.978m FOI; tick1089
+bud_tor_mjp_invest_planned_2025,city_torhout,2025,7532700,,,bbc_jr_realized,src_torhout_jr2025,strong,MJP invest planned 7.533m vs realized 5.737m UNDERSPEND FOI; tick1089
+bud_tor_afm_2025,city_torhout,2025,3097444,,,bbc_jr_realized,src_torhout_jr2025,strong,AFM +3.097m STRONG; tick1089
+bud_tor_afm_corrected_2025,city_torhout,2025,3746310,,,bbc_jr_realized,src_torhout_jr2025,strong,Gecorrigeerde AFM +3.746m STRONG; tick1089
+bud_tor_bbr_2025,city_torhout,2025,10737202,,,bbc_jr_realized,src_torhout_jr2025,strong,Beschikbaar budgettair resultaat 10.737m HIGH; tick1089
+bud_tor_budget_result_2025,city_torhout,2025,-1582397,,,bbc_jr_realized,src_torhout_jr2025,strong,Budgettair resultaat boekjaar -1.582m NEG invest-driven FOI (MJP -5.433); tick1089
+bud_tor_cum_budget_2025,city_torhout,2025,12014878,,,bbc_jr_realized,src_torhout_jr2025,strong,Gecumuleerd budgettair resultaat 12.015m; tick1089
+bud_tor_onbeschikbaar_2025,city_torhout,2025,1277675,,,bbc_jr_realized,src_torhout_jr2025,strong,Onbeschikbare gelden 1.278m; tick1089
+bud_tor_pnl_2025,city_torhout,2025,-448730,,,bbc_jr_realized,src_torhout_jr2025,strong,P&L tekort -0.449m NEG FLIP FOI (was +1.925m); tick1089
+bud_tor_personnel_2025,city_torhout,2025,30433538,,,bbc_jr_realized,src_torhout_jr2025,strong,Bezoldigingen 30.434m JUMP incl edu pass-through 3.306m; tick1089
+bud_tor_edu_pass_through_2025,city_torhout,2025,3305955,,,bbc_jr_realized,src_torhout_jr2025,strong,Onderwijzend personeel ten laste andere 3.306m; tick1089
+bud_tor_goods_services_2025,city_torhout,2025,10577376,,,bbc_jr_realized,src_torhout_jr2025,strong,Goederen en diensten 10.577m; tick1089
+bud_tor_toelagen_2025,city_torhout,2025,4675483,,,bbc_jr_realized,src_torhout_jr2025,strong,Toegestane werkingssubsidies 4.675m FOI; tick1089
+bud_tor_police_toelage_2025,city_torhout,2025,2597586,,,bbc_jr_realized,src_torhout_jr2025,strong,Politiezone toelage 2.598m JUMP FOI; tick1089
+bud_tor_fire_toelage_2025,city_torhout,2025,1061676,,,bbc_jr_realized,src_torhout_jr2025,strong,HVZ toelage 1.062m; tick1089
+bud_tor_other_toelagen_2025,city_torhout,2025,863286,,,bbc_jr_realized,src_torhout_jr2025,strong,Andere toelagen 0.863m FOI; tick1089
+bud_tor_eredienst_toelage_2025,city_torhout,2025,152935,,,bbc_jr_realized,src_torhout_jr2025,strong,Eredienst toelage 0.153m DROP; tick1089
+bud_tor_fiscal_rec_2025,city_torhout,2025,19841185,,,bbc_jr_realized,src_torhout_jr2025,strong,Fiscale ontvangsten 19.841m JUMP; tick1089
+bud_tor_fiscal_ov_2025,city_torhout,2025,8587725,,,bbc_jr_realized,src_torhout_jr2025,strong,Opcentiemen OV 8.588m; tick1089
+bud_tor_fiscal_pb_2025,city_torhout,2025,9014240,,,bbc_jr_realized,src_torhout_jr2025,strong,Aanvullende PB 9.014m JUMP; tick1089
+bud_tor_gemeentefonds_2025,city_torhout,2025,7479223,,,bbc_jr_realized,src_torhout_jr2025,strong,Gemeentefonds 7.479m; tick1089
+bud_tor_ocmw_cover_2025,city_torhout,2025,1500000,,,bbc_jr_realized,src_torhout_jr2025,strong,OCMW tussenkomst 1.500m FULL-ish FOI; tick1089
+bud_tor_ocmw_hulp_2025,city_torhout,2025,2818582,,,bbc_jr_realized,src_torhout_jr2025,strong,OCMW individuele hulpverlening 2.819m JUMP FOI (+22% leefloon dossiers); tick1089
+bud_tor_ocmw_equity_cum_2025,city_torhout,2025,-40724,,,bbc_jr_realized,src_torhout_jr2025,strong,OCMW equity cum -0.041m after cover 1.5m FOI residual; tick1089
+bud_tor_interest_2025,city_torhout,2025,706500,,,bbc_jr_realized,src_torhout_jr2025,strong,Intresten op leningen 0.707m; tick1089
+bud_tor_financieringssaldo_2025,city_torhout,2025,-2758031,,,bbc_jr_realized,src_torhout_jr2025,strong,Financieringssaldo -2.758m; tick1089
+bud_tor_debt_per_inhab_2025,city_torhout,2025,1292,,,bbc_jr_realized,src_torhout_jr2025,strong,Openstaande schuld per inwoner EUR1292 (was 1435); tick1089
+bud_tor_st_provisions_2025,city_torhout,2025,2312632,,,bbc_jr_realized,src_torhout_jr2025,strong,ST voorzieningen YE2025 2.313m JUMP (was 2.002m); tick1089

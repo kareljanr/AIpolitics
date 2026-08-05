@@ -14705,3 +14705,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_gee_*); commitments +7; leaderboard +8; sources +1; entity city_geetbets; FOI **gap_gee_fva_herwaard_invest_tax_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1088=done; spawn **rq_1089**; ticks=1088
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1089** residual dual L5; deferred **rq_116**; progress@1090 in 1
+
+
+### Tick 1089 - 2026-08-11T10:00:00Z
+
+- Unit: **rq_1089** (FOI-adjacent residual dual - **Lokaal Bestuur Torhout Jaarrekening 2025** + Geetbets dual residual)
+- Found (strong primary BBC JR2025 PDF; 286p; GR+OR 22.06.2026 pub 23.06.2026; torhout.be; KBO GE 0207.530.609 / OCMW 0212.175.523; Aartrijkestraat 11B 8820; AD Tom Vandenberghe FD Claude Callewaert; GE+OCMW):
+  - Assets **EUR152.091m** / equity **EUR103.117m** / debt total **EUR48.97m** / fin debt **EUR27.332m DECLINE** (LT **EUR24.773m** / ST due **EUR2.559m**; was **EUR30.090m**)
+  - New loans **EUR0.298m LOW** leasing Fluvius verledding / repayments **EUR3.056m**
+  - Cash **EUR11.655m DROP FOI** (was **EUR14.132m**) / pension **EUR13.492m MASSIVE JUMP FOI** (was **EUR11.207m**, +**EUR2.285m**) / FVA IGS **EUR22.471m** / **andere FVA EUR23.732m HIGH FOI** unchanged / leasing MVA **EUR1.787m** / herwaard **EUR1.067m JUMP**
+  - Exploitatie: ontvangsten **EUR55.861m** / uitgaven **EUR49.708m** / saldo **+EUR6.154m STRONG**
+  - AFM **+EUR3.097m STRONG** (gecorr **+EUR3.746m**) / BBR **EUR10.737m VERY HIGH** / budget **EUR-1.582m NEG FOI** invest-driven / cum BR **EUR12.015m** / P&L **EUR-0.449m NEG FLIP FOI** (was **+EUR1.925m**)
+  - Personnel **EUR30.434m** (edu pass-through **EUR3.306m**) / toelagen **EUR4.675m FOI** (police **EUR2.598m JUMP** / fire **EUR1.062m** / other **EUR0.863m** / eredienst **EUR0.153m**)
+  - Invest **EUR5.737m** vs MJP **EUR7.533m UNDERSPEND FOI** / saldo **-EUR4.978m**
+  - OCMW cover **EUR1.500m** / OCMW equity cum **-EUR0.041m** / OCMW hulp **EUR2.819m JUMP** (+22% leefloon dossiers noted)
+  - Debt/inwoner **EUR1292** (was **EUR1435**)
+- Dual: Geetbets FVA/herwaard JUMP invest underspend (tick1088) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse residual next; **progress@1090 THIS next tick decade**
+- Wrote: budgets +49 (bud_tor_*); commitments +7; leaderboard +8; sources +1; entity city_torhout; FOI **gap_tor_pension_cash_afva_budget_l5** prio9 ready + draft; PDF primary (not committed); rq_1089=done; spawn **rq_1090**; ticks=1089
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1090** residual dual L5 **after decade progress refresh**; deferred **rq_116**; progress@1090 decade next
