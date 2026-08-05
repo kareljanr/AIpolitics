@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T23:00:00Z,rq_974,974,no,tick974 Avelgem GE+OCMW JR2025 dual residual; FOI gap_ave_ocmw_deficit_lease_budget_l5 prio8 assets 64.9m fin debt 4.17m declining cash 13.2m AFM +3.31m budget -0.46m OCMW cum deficit -5.15m cover 0 leasing MVA 7.38m; next residual dual L5 rq_975; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T23:45:00Z,rq_975,975,no,tick975 W13 Welzijn13 JR2025 Entity II dual residual; FOI gap_w13_afm_subsidy_bijdrage_l5 prio8 assets 2.80m fin debt 0 cash 1.59m AFM -0.203m NEG budget -0.224m reserves 0.509m werkingsubs 3.97m personnel 2.10m 29.2 VTE; next residual dual L5 rq_976; rq_116 deferred

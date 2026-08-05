@@ -12520,3 +12520,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_975** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW / Welzijn13); deferred **rq_116**; progress@980 in 6
 
+
+### Tick 975 - 2026-08-08T23:45:00Z
+
+- Unit: **rq_975** (FOI-adjacent residual dual Entity II - **Welzijnsvereniging W13 / Welzijn13 Jaarrekening 2025** + Avelgem dual residual)
+- Found (strong primary BBC JR2025 87p; KBO 0630.835.639 NIS 34022; FD/dir Laura Vanslembrouck; chair Lynn Callewaert; Budastraat 35 Kortrijk; 14 OCMWs+CAW ZWVL):
+  - Assets **EUR2.80m** / equity **EUR0.601m** / debt total **EUR2.20m all ST** / fin debt **EUR0**
+  - Cash **EUR1.59m** / receivables ST **EUR1.04m** / MVA **EUR0.045m** / FVA **EUR1.4k**
+  - Exploitatie: ontvangsten **EUR4.35m** / uitgaven **EUR4.55m** / saldo **-EUR0.203m NEG**
+  - AFM **-EUR0.203m NEG** (gecorr **-EUR0.203m**; structural 2nd year after 2024 expl -0.193m) / BBR **EUR0.509m** / budget **-EUR0.224m** / P&L **-EUR0.181m**
+  - Reserves drop **EUR0.732m to EUR0.509m** / sociaal passief **EUR0.211m covered**
+  - Personnel **EUR2.10m** / **29.2 VTE** / goederen **EUR2.45m**
+  - Werkingssubsidies **EUR3.97m FOI** (VL specific **EUR2.60m** / OCMW spec **EUR0.460m** / OCMW alg **EUR0.530m** / fed **EUR0.107m** / gem **EUR0.105m** / andere **EUR0.298m**)
+  - Invest **EUR0.021m** vs MJP **EUR0.049m** / recovery via higher bijdrageregeling 2026 FOI
+- Dual: Avelgem **EUR64.9m** / OCMW cum deficit **-EUR5.15m** cover 0 / leasing **EUR7.38m** (tick974; Avelgem is W13 member OCMW) - not TE-additive
+- Note: Ledegem/Torhout/Meulebeke/WZBW still no extractable full JR2025 this tick
+- Wrote: budgets +40 (bud_w13_*); commitments +5; leaderboard +7; sources +1; entity w13_zwvl; FOI **gap_w13_afm_subsidy_bijdrage_l5** prio8 ready + draft; key only (PDF ~1.7MB not stored in git); rq_975=done; spawn **rq_976**; ticks=975
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_976** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 5
