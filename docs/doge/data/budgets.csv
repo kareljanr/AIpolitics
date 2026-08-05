@@ -23634,3 +23634,45 @@ bud_bla_fin_opbr_2025,city_blankenberge,2025,1320491,,,realized,src_blankenberge
 bud_bla_fin_costs_2025,city_blankenberge,2025,1696802,,,realized,src_blankenberge_jr2025,strong,Financiele kosten 1.70m; tick998
 bud_bla_cum_equity_deficit_2025,city_blankenberge,2025,-12345382,,,realized,src_blankenberge_jr2025,strong,Consol cum overschot/tekort YE2025 -12.35m IMPROVING (was -14.70m); tick998
 bud_bla_invest_subs_granted_2025,city_blankenberge,2025,166470,,,realized,src_blankenberge_jr2025,strong,Toegestane investeringssubsidies 0.166m; tick998
+bud_dam_assets_2025,city_damme,2025,84514309,,,realized,src_damme_jr2025,strong,Assets YE2025 84.51m (was 87.67m); tick999
+bud_dam_equity_2025,city_damme,2025,73956581,,,realized,src_damme_jr2025,strong,Nettoactief YE2025 73.96m (was 75.36m); tick999
+bud_dam_debt_total_2025,city_damme,2025,10557728,,,realized,src_damme_jr2025,strong,Total schulden YE2025 10.56m (was 12.30m); tick999
+bud_dam_fin_debt_2025,city_damme,2025,5453395,,,realized,src_damme_jr2025,strong,Fin debt total YE2025 5.45m DECLINING -13pct (was 6.30m); tick999
+bud_dam_fin_debt_lt_2025,city_damme,2025,4575081,,,realized,src_damme_jr2025,strong,Fin debt LT YE2025 4.58m; tick999
+bud_dam_fin_debt_st_due_2025,city_damme,2025,878314,,,realized,src_damme_jr2025,strong,Fin debt ST due YE2025 0.878m; tick999
+bud_dam_new_loans_2025,city_damme,2025,119424,,,realized,src_damme_jr2025,strong,Financieringsontvangsten/new loans class 0.119m; tick999
+bud_dam_aflossingen_2025,city_damme,2025,930975,,,realized,src_damme_jr2025,strong,Periodieke aflossingen 0.931m (kerncijfers); tick999
+bud_dam_cash_2025,city_damme,2025,13196751,,,realized,src_damme_jr2025,strong,Liquide middelen YE2025 13.20m DROP (was 15.16m); tick999
+bud_dam_pension_2025,city_damme,2025,1833000,,,realized,src_damme_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.83m RISING (was 1.74m); tick999
+bud_dam_cap_subs_2025,city_damme,2025,11240903,,,realized,src_damme_jr2025,strong,Kapitaalsubsidies YE2025 11.24m; tick999
+bud_dam_fva_total_2025,city_damme,2025,10107060,,,realized,src_damme_jr2025,strong,FVA total YE2025 10.11m; tick999
+bud_dam_fva_igs_2025,city_damme,2025,10042179,,,realized,src_damme_jr2025,strong,FVA IGS YE2025 10.04m; tick999
+bud_dam_leasing_mva_2025,city_damme,2025,1484447,,,realized,src_damme_jr2025,strong,Leasing MVA YE2025 1.48m; tick999
+bud_dam_expl_rec_2025,city_damme,2025,22478498,,,realized,src_damme_jr2025,strong,Exploitatieontvangsten 22.48m; tick999
+bud_dam_expl_exp_2025,city_damme,2025,20292796,,,realized,src_damme_jr2025,strong,Exploitatieuitgaven 20.29m; tick999
+bud_dam_expl_saldo_2025,city_damme,2025,2185702,,,realized,src_damme_jr2025,strong,Exploitatiesaldo +2.19m STRONG; tick999
+bud_dam_invest_exp_2025,city_damme,2025,3676094,,,realized,src_damme_jr2025,strong,Investeringsuitgaven 3.68m vs MJP 20.63m LARGE underspend FOI; tick999
+bud_dam_invest_rec_2025,city_damme,2025,837606,,,realized,src_damme_jr2025,strong,Investeringsontvangsten 0.838m; tick999
+bud_dam_invest_saldo_2025,city_damme,2025,-2838488,,,realized,src_damme_jr2025,strong,Investeringssaldo -2.84m; tick999
+bud_dam_mjp_invest_exp_2025,city_damme,2025,20626917,,,realized,src_damme_jr2025,strong,MJP invest uitgaven 20.63m; tick999
+bud_dam_afm_2025,city_damme,2025,1622694,,,realized,src_damme_jr2025,strong,AFM +1.62m STRONG (kerncijfers); tick999
+bud_dam_bbr_cum_2025,city_damme,2025,11650528,,,realized,src_damme_jr2025,strong,Gecumuleerd budgettair resultaat 11.65m HIGH; tick999
+bud_dam_budget_result_2025,city_damme,2025,-1508164,,,realized,src_damme_jr2025,strong,Budgettair resultaat boekjaar -1.51m; tick999
+bud_dam_pnl_result_2025,city_damme,2025,-980321,,,realized,src_damme_jr2025,strong,P&L -0.980m; tick999
+bud_dam_ocmw_cover_2025,city_damme,2025,1190217,,,realized,src_damme_jr2025,strong,OCMW cover 1.19m FULL on OCMW bookkeeping result principle; tick999
+bud_dam_personnel_2025,city_damme,2025,10662439,,,realized,src_damme_jr2025,strong,Bezoldigingen 10.66m (incl onderwijs other-gov ~1.14m); tick999
+bud_dam_toelagen_2025,city_damme,2025,3965143,,,realized,src_damme_jr2025,strong,Toegestane werkingssubsidies 3.97m; tick999
+bud_dam_toelagen_police_2025,city_damme,2025,1399000,,,realized,src_damme_jr2025,strong,Toelage politiezone 1.40m (96k under budget via 2024 boni); tick999
+bud_dam_toelagen_fire_2025,city_damme,2025,495000,,,realized,src_damme_jr2025,strong,Toelage hulpverleningszone 0.495m; tick999
+bud_dam_toelagen_ivbo_2025,city_damme,2025,909000,,,realized,src_damme_jr2025,strong,Toelage IVBO 0.909m FOI residual; tick999
+bud_dam_toelagen_eredienst_2025,city_damme,2025,85000,,,realized,src_damme_jr2025,strong,Toelage kerkfabrieken 0.085m; tick999
+bud_dam_toelagen_other_2025,city_damme,2025,1075143,,,realized,src_damme_jr2025,strong,Other toelagen residual ~1.08m (total 3.97 - named stack); tick999
+bud_dam_ocmw_aid_2025,city_damme,2025,829780,,,realized,src_damme_jr2025,strong,OCMW individuele hulp 0.830m; tick999
+bud_dam_fiscal_2025,city_damme,2025,11826772,,,realized,src_damme_jr2025,strong,Fiscale opbrengsten 11.83m; tick999
+bud_dam_fiscal_ov_2025,city_damme,2025,4645896,,,realized,src_damme_jr2025,strong,Opcentiemen OV 4.65m (aanrekening); tick999
+bud_dam_fiscal_pb_2025,city_damme,2025,5256775,,,realized,src_damme_jr2025,strong,Aanvullende PB 5.26m (aanrekening); tick999
+bud_dam_werk_subs_rec_2025,city_damme,2025,8599719,,,realized,src_damme_jr2025,strong,Werkingssubsidies ontvangen 8.60m; tick999
+bud_dam_fin_opbr_2025,city_damme,2025,1042174,,,realized,src_damme_jr2025,strong,Financiele opbrengsten 1.04m; tick999
+bud_dam_fin_costs_2025,city_damme,2025,228291,,,realized,src_damme_jr2025,strong,Financiele kosten 0.228m; tick999
+bud_dam_invest_subs_granted_2025,city_damme,2025,932583,,,realized,src_damme_jr2025,strong,Toegestane investeringssubsidies 0.933m HIGH FOI; tick999
+bud_dam_fin_exp_2025,city_damme,2025,974803,,,realized,src_damme_jr2025,strong,Financieringsuitgaven 0.975m; tick999

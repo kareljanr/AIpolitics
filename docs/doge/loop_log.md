@@ -12956,3 +12956,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_bla_*); commitments +5; leaderboard +7; sources +1; entity city_blankenberge; FOI **gap_bla_ocmw_toelagen_debt_afm_l5** prio8 ready + draft; key only (PDF ~2.1MB not stored in git); rq_998=done; spawn **rq_999**; ticks=998
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_999** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 2
+
+### Tick 999 - 2026-08-09T12:45:00Z
+
+- Unit: **rq_999** (FOI-adjacent residual dual - **Stad+OCMW Damme Jaarrekening 2025** + Blankenberge dual residual)
+- Found (strong primary BBC JR2025 219p GR bundle; KBO 0207.528.134 / OCMW 0212.244.809; FD Sabine Maes; AD Kristof Schotsmans; Vissersstraat 2A):
+  - Assets **EUR84.51m** / equity **EUR73.96m** / debt total **EUR10.56m** / fin debt **EUR5.45m** (**DECLINING -13%**; LT **EUR4.58m** / ST due **EUR0.878m**)
+  - New loans **EUR0.119m** / repayments **EUR0.931m**
+  - Cash **EUR13.20m DROP** (was **EUR15.16m**) / pension **EUR1.83m RISING** / leasing MVA **EUR1.48m**
+  - FVA IGS **EUR10.04m** / cap subs **EUR11.24m**
+  - Exploitatie: ontvangsten **EUR22.48m** / uitgaven **EUR20.29m** / saldo **+EUR2.19m STRONG**
+  - AFM **+EUR1.62m STRONG** / BBR cum **EUR11.65m HIGH** / budget **-EUR1.51m** / P&L **-EUR0.980m**
+  - Personnel **EUR10.66m** / toelagen **EUR3.97m FOI** (police **EUR1.40m** / fire **EUR0.495m** / **IVBO EUR0.909m** / eredienst **EUR0.085m** / other **~EUR1.08m**)
+  - Invest **EUR3.68m** vs MJP **EUR20.63m LARGE underspend FOI** / **OCMW cover EUR1.19m FULL FOI** / invest-subs granted **EUR0.933m FOI**
+- Dual: Blankenberge **EUR204.47m** / fin debt **EUR72.65m** / OCMW cover **EUR9.63m** (tick998) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne image-only/large skip; next tick **progress@1000**
+- Wrote: budgets +42 (bud_dam_*); commitments +5; leaderboard +7; sources +1; entity city_damme; FOI **gap_dam_ocmw_toelagen_invest_ivbo_l5** prio8 ready + draft; key only (PDF ~6.5MB not stored in git); rq_999=done; spawn **rq_1000**; ticks=999
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1000** progress@1000 + residual dual L5; deferred **rq_116**
