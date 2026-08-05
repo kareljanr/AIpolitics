@@ -12142,3 +12142,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +55 (bud_lic_*); commitments +5; leaderboard +7; sources +2; entity city_lichtervelde; FOI **gap_lic_debt_farys_pension_invest_l5** prio8 ready + draft; key only (PDF ~14MB not stored); rq_954=done; spawn **rq_955**; ticks=954
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_955** residual dual L5 (Torhout full BBC if published / Roeselare / Meulebeke / Staden / other unmined VL JR2025); deferred **rq_116**; progress@960 in 6
+
+
+### Tick 955 - 2026-08-08T04:00:00Z
+
+- Unit: **rq_955** (FOI-adjacent residual dual - **Gemeente+OCMW Staden Jaarrekening 2025** + Lichtervelde dual residual)
+- Found (strong primary BBC JR2025 245p; KBO 0207.488.344 / OCMW 0212.172.949; GR/OCMW 28.05.2026 pub 02.06.2026):
+  - Assets **EUR113.3m** / equity **EUR95.4m** / debt total **EUR17.9m** / fin debt **EUR7.86m** (**DECLINING** from **EUR8.84m**; LT **EUR7.00m** / ST due **EUR0.856m**; **new loans EUR0**)
+  - Cash **EUR30.2m LARGE** / BBR **EUR30.2m LARGE** / onbeschikbaar **EUR0.001m**
+  - **Pension EUR5.32m RISING** (was EUR3.65m **+EUR1.66m FOI**)
+  - FVA IGS **EUR23.7m** (herwaardering **+EUR3.63m FOI**)
+  - Exploitatie: ontvangsten **EUR29.2m** / uitgaven **EUR23.2m** / saldo **+EUR6.05m**
+  - AFM **+EUR5.58m** (gecorr **+EUR5.86m**) / budget **-EUR0.219m FOI** / P&L **+EUR3.47m**
+  - Personnel **EUR15.1m** / toelagen **EUR1.84m** (police **EUR0.88m** / HVZ **EUR0.34m** / other **EUR0.43m FOI**)
+  - Invest **EUR6.15m** vs MJP **EUR8.96m underspend FOI** / invest-subs granted **EUR0.74m** (other **EUR0.42m FOI**)
+  - OCMW cover **EUR1.00m FOI** / fin income **EUR3.29m JUMP** (was EUR1.54m)
+- Dual: Lichtervelde **EUR72.0m** / fin debt **EUR9.67m declining** / cash **EUR10.7m** (tick954) - not TE-additive
+- Note: Torhout still news-only (no full BBC PDF)
+- Wrote: budgets +50 (bud_sta_*); commitments +5; leaderboard +7; sources +2; entity city_staden; FOI **gap_sta_pension_cash_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~14MB not stored); rq_955=done; spawn **rq_956**; ticks=955
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_956** residual dual L5 (Torhout full BBC if published / Roeselare / Meulebeke / Ledegem / other unmined VL JR2025); deferred **rq_116**; progress@960 in 5

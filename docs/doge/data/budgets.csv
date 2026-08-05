@@ -21778,3 +21778,54 @@ bud_lic_goederen_2025,city_lichtervelde,2025,4061550,,,realized,src_lichtervelde
 bud_lic_mjp_fin_debt_2026,city_lichtervelde,2025,14385667,,,budgeted,src_lichtervelde_jr2025,strong,MJP planned fin debt YE2026 14.4m JUMP FOI; tick954
 bud_lic_mjp_fin_debt_2027,city_lichtervelde,2025,19983873,,,budgeted,src_lichtervelde_jr2025,strong,MJP planned fin debt YE2027 20.0m JUMP FOI; tick954
 bud_lic_financing_saldo_2025,city_lichtervelde,2025,-1101798,,,realized,src_lichtervelde_jr2025,strong,Financieringssaldo -1.10m; tick954
+bud_sta_assets_2025,city_staden,2025,113283504,,,realized,src_staden_jr2025,strong,Total assets YE2025 113.3m; tick955
+bud_sta_equity_2025,city_staden,2025,95401359,,,realized,src_staden_jr2025,strong,Nettoactief YE2025 95.4m; tick955
+bud_sta_debt_total_2025,city_staden,2025,17882145,,,realized,src_staden_jr2025,strong,Total schulden YE2025 17.9m; tick955
+bud_sta_fin_debt_2025,city_staden,2025,7856292,,,jaarrekening_realized,src_staden_jr2025,strong,T4 total financiele schulden YE2025 7.86m DECLINING (was 8.84m) FOI; tick955
+bud_sta_fin_debt_lt_2025,city_staden,2025,7000556,,,realized,src_staden_jr2025,strong,Financiele schulden LT YE2025 7.00m; tick955
+bud_sta_fin_debt_st_due_2025,city_staden,2025,855736,,,realized,src_staden_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.856m; tick955
+bud_sta_fin_debt_2024,city_staden,2025,8840552,,,realized,src_staden_jr2025,strong,T4 fin debt YE2024 8.84m comparator; tick955
+bud_sta_new_loans_2025,city_staden,2025,0,,,realized,src_staden_jr2025,strong,Nieuwe leningen 0 (no new draws) FOI; tick955
+bud_sta_aflossingen_2025,city_staden,2025,984260,,,realized,src_staden_jr2025,strong,Periodieke aflossingen 0.984m; tick955
+bud_sta_cash_2025,city_staden,2025,30192987,,,realized,src_staden_jr2025,strong,Liquide middelen YE2025 30.2m LARGE FOI; tick955
+bud_sta_cash_2024,city_staden,2025,30488035,,,realized,src_staden_jr2025,strong,Liquide middelen YE2024 30.5m comparator; tick955
+bud_sta_pension_prov_2025,city_staden,2025,5316910,,,realized,src_staden_jr2025,strong,Pensioenvoorzieningen YE2025 5.32m RISING FOI (was 3.65m); tick955
+bud_sta_pension_prov_2024,city_staden,2025,3654335,,,realized,src_staden_jr2025,strong,Pensioenvoorzieningen YE2024 3.65m; tick955
+bud_sta_prov_st_2025,city_staden,2025,1853507,,,realized,src_staden_jr2025,strong,Voorzieningen ST YE2025 1.85m; tick955
+bud_sta_fva_total_2025,city_staden,2025,25700948,,,realized,src_staden_jr2025,strong,Financiele vaste activa YE2025 25.7m; tick955
+bud_sta_fva_igs_2025,city_staden,2025,23728799,,,realized,src_staden_jr2025,strong,FVA IGS YE2025 23.7m RISE (herwaardering +3.63m) FOI; tick955
+bud_sta_mva_2025,city_staden,2025,51718134,,,realized,src_staden_jr2025,strong,Materiele vaste activa YE2025 51.7m; tick955
+bud_sta_cap_subs_2025,city_staden,2025,9932988,,,realized,src_staden_jr2025,strong,Kapitaalssubsidies YE2025 9.93m; tick955
+bud_sta_expl_rec_2025,city_staden,2025,29208475,,,realized,src_staden_jr2025,strong,Exploitatieontvangsten 29.2m; tick955
+bud_sta_expl_exp_2025,city_staden,2025,23154302,,,realized,src_staden_jr2025,strong,Exploitatieuitgaven 23.2m; tick955
+bud_sta_expl_saldo_2025,city_staden,2025,6054173,,,realized,src_staden_jr2025,strong,Exploitatiesaldo +6.05m; tick955
+bud_sta_invest_exp_2025,city_staden,2025,6153357,,,realized,src_staden_jr2025,strong,Investeringsuitgaven 6.15m (MJP 8.96m underspend FOI); tick955
+bud_sta_invest_rec_2025,city_staden,2025,848516,,,realized,src_staden_jr2025,strong,Investeringsontvangsten 0.85m; tick955
+bud_sta_invest_saldo_2025,city_staden,2025,-5304841,,,realized,src_staden_jr2025,strong,Investeringssaldo -5.30m; tick955
+bud_sta_mjp_invest_planned_2025,city_staden,2025,8955552,,,realized,src_staden_jr2025,strong,MJP planned invest 8.96m vs realized 6.15m FOI; tick955
+bud_sta_invest_mva_2025,city_staden,2025,5282247,,,realized,src_staden_jr2025,strong,Invest MVA aankopen ~5.28m (from T5 mutatiestaat); tick955
+bud_sta_afm_2025,city_staden,2025,5579088,,,realized,src_staden_jr2025,strong,AFM +5.58m STRONG; tick955
+bud_sta_afm_corr_2025,city_staden,2025,5856103,,,realized,src_staden_jr2025,strong,Gecorrigeerde AFM +5.86m; tick955
+bud_sta_bbr_2025,city_staden,2025,30172848,,,realized,src_staden_jr2025,strong,Beschikbaar budgettair resultaat 30.2m LARGE FOI; tick955
+bud_sta_budget_result_2025,city_staden,2025,-219123,,,realized,src_staden_jr2025,strong,Budgettair resultaat boekjaar -0.219m NEG FOI; tick955
+bud_sta_cum_br_2025,city_staden,2025,30173948,,,realized,src_staden_jr2025,strong,Gecumuleerd budgettair resultaat 30.2m; tick955
+bud_sta_onbeschikbaar_2025,city_staden,2025,1100,,,realized,src_staden_jr2025,strong,Onbeschikbare gelden 0.001m; tick955
+bud_sta_pnl_result_2025,city_staden,2025,3471505,,,realized,src_staden_jr2025,strong,P&L boekjaar +3.47m; tick955
+bud_sta_personnel_2025,city_staden,2025,15054161,,,realized,src_staden_jr2025,strong,Personeelskosten 15.1m; tick955
+bud_sta_toelagen_2025,city_staden,2025,1841373,,,realized,src_staden_jr2025,strong,Toegestane werkingssubsidies 1.84m FOI named; tick955
+bud_sta_toelagen_police_2025,city_staden,2025,879344,,,realized,src_staden_jr2025,strong,Toelagen politiezone 0.879m; tick955
+bud_sta_toelagen_hvz_2025,city_staden,2025,343783,,,realized,src_staden_jr2025,strong,Toelagen HVZ 0.344m; tick955
+bud_sta_toelagen_igs_2025,city_staden,2025,94643,,,realized,src_staden_jr2025,strong,Toelagen IGS 0.095m FOI; tick955
+bud_sta_toelagen_kerk_2025,city_staden,2025,91423,,,realized,src_staden_jr2025,strong,Toelagen eredienst 0.091m; tick955
+bud_sta_toelagen_other_2025,city_staden,2025,427976,,,realized,src_staden_jr2025,strong,Toelagen andere begunstigden 0.428m FOI; tick955
+bud_sta_invest_subs_granted_2025,city_staden,2025,735891,,,realized,src_staden_jr2025,strong,Toegestane investeringssubsidies 0.736m FOI (other 0.422m); tick955
+bud_sta_invest_subs_other_2025,city_staden,2025,422000,,,realized,src_staden_jr2025,strong,Invest-subs andere begunstigden 0.422m FOI; tick955
+bud_sta_ocmw_aid_2025,city_staden,2025,842872,,,realized,src_staden_jr2025,strong,Individuele hulpverlening OCMW 0.843m; tick955
+bud_sta_ocmw_cover_2025,city_staden,2025,1000000,,,realized,src_staden_jr2025,strong,Tussenkomst gemeente aan OCMW 1.00m FOI (J5M 6941); tick955
+bud_sta_fiscal_2025,city_staden,2025,11234658,,,realized,src_staden_jr2025,strong,Fiscale opbrengsten 11.2m; tick955
+bud_sta_fin_costs_2025,city_staden,2025,343050,,,realized,src_staden_jr2025,strong,Financiele kosten 0.343m; tick955
+bud_sta_goederen_2025,city_staden,2025,5018314,,,realized,src_staden_jr2025,strong,Goederen en diensten 5.02m; tick955
+bud_sta_fin_income_2025,city_staden,2025,3293107,,,realized,src_staden_jr2025,strong,Financiele opbrengsten 3.29m JUMP (was 1.54m) FOI; tick955
+bud_sta_loan_granted_2025,city_staden,2025,50000,,,realized,src_staden_jr2025,strong,Toegestane lening andere 0.050m FOI; tick955
+bud_sta_financing_saldo_2025,city_staden,2025,-968455,,,realized,src_staden_jr2025,strong,Financieringssaldo -0.968m; tick955
+bud_sta_herwaardering_fva_2025,city_staden,2025,3627719,,,realized,src_staden_jr2025,strong,Herwaardering FVA IGS +3.63m FOI; tick955

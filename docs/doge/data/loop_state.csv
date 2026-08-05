@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T03:00:00Z,rq_954,954,no,tick954 Lichtervelde JR2025 dual residual; FOI gap_lic_debt_farys_pension_invest_l5 prio8 assets 72.0m fin debt 9.67m declining budget -0.24m Farys 0.27m pension 2.82m; next residual dual L5 rq_955; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T04:00:00Z,rq_955,955,no,tick955 Staden JR2025 dual residual; FOI gap_sta_pension_cash_ocmw_toelagen_l5 prio8 assets 113.3m cash 30.2m fin debt 7.86m declining pension 5.32m rising OCMW 1.0m; next residual dual L5 rq_956; rq_116 deferred
