@@ -19907,3 +19907,45 @@ bud_stb_invest_subs_granted_2025,city_stabroek,2025,1594046,,,jaarrekening_reali
 bud_stb_invest_subs_igs_2025,city_stabroek,2025,1337704,,,jaarrekening_realized,src_stabroek_jr2025,strong,Invest-subs IGS 1.338m 2025 FOI; tick906
 bud_stb_new_loans_2025,city_stabroek,2025,4664649,,,jaarrekening_realized,src_stabroek_jr2025,strong,Nieuwe leningen/leasings 4.665m 2025 FOI; tick906
 bud_stb_ocmw_deficit_cover_2025,city_stabroek,2025,1128324,,,jaarrekening_realized,src_stabroek_jr2025,strong,Tussenkomst OCMW tekort 1.128m 2025; tick906
+bud_rum_assets_2025,city_rumst,2025,83209660,,,jaarrekening_realized,src_rumst_jr2025,strong,Consol total assets YE2025 83.210m; tick907
+bud_rum_equity_2025,city_rumst,2025,56716595,,,jaarrekening_realized,src_rumst_jr2025,strong,Nettoactief YE2025 56.717m; tick907
+bud_rum_debt_total_2025,city_rumst,2025,26493064,,,jaarrekening_realized,src_rumst_jr2025,strong,Schulden total YE2025 26.493m; tick907
+bud_rum_fin_debt_2025,city_rumst,2025,17963076,,,jaarrekening_realized,src_rumst_jr2025,strong,Fin schulden total YE2025 17.963m (LT 16.392 + ST due 1.571 was 14.710m); tick907
+bud_rum_fin_debt_lt_2025,city_rumst,2025,16392327,,,jaarrekening_realized,src_rumst_jr2025,strong,Fin schulden LT YE2025 16.392m; tick907
+bud_rum_fin_debt_st_2025,city_rumst,2025,1570749,,,jaarrekening_realized,src_rumst_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.571m; tick907
+bud_rum_pension_prov_2025,city_rumst,2025,4038027,,,jaarrekening_realized,src_rumst_jr2025,strong,Pensioenvoorzieningen YE2025 4.038m; tick907
+bud_rum_cash_2025,city_rumst,2025,2415333,,,jaarrekening_realized,src_rumst_jr2025,strong,Liquide middelen YE2025 2.415m (was 3.591m DROP FOI); tick907
+bud_rum_cap_subs_2025,city_rumst,2025,4977554,,,jaarrekening_realized,src_rumst_jr2025,strong,Kapitaalsubsidies YE2025 4.978m; tick907
+bud_rum_fva_igs_2025,city_rumst,2025,11292472,,,jaarrekening_realized,src_rumst_jr2025,strong,Fin VA IGS YE2025 11.292m; tick907
+bud_rum_fva_total_2025,city_rumst,2025,11381836,,,jaarrekening_realized,src_rumst_jr2025,strong,Fin VA total YE2025 11.382m; tick907
+bud_rum_cumul_budget_2025,city_rumst,2025,3765520,,,jaarrekening_realized,src_rumst_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 3.766m; tick907
+bud_rum_bbr_2025,city_rumst,2025,1773003,,,jaarrekening_realized,src_rumst_jr2025,strong,Beschikbaar budgettair resultaat YE2025 1.773m; tick907
+bud_rum_expl_rec_2025,city_rumst,2025,27062961,,,jaarrekening_realized,src_rumst_jr2025,strong,Exploitatieontvangsten 27.063m 2025 (J2); tick907
+bud_rum_expl_exp_2025,city_rumst,2025,25716500,,,jaarrekening_realized,src_rumst_jr2025,strong,Exploitatieuitgaven 25.717m 2025 (J2); tick907
+bud_rum_expl_saldo_2025,city_rumst,2025,1346461,,,jaarrekening_realized,src_rumst_jr2025,strong,Exploitatiesaldo +1.346m 2025; tick907
+bud_rum_invest_exp_2025,city_rumst,2025,4309795,,,jaarrekening_realized,src_rumst_jr2025,strong,Investeringsuitgaven 4.310m 2025; tick907
+bud_rum_invest_rec_2025,city_rumst,2025,1126121,,,jaarrekening_realized,src_rumst_jr2025,strong,Investeringsontvangsten 1.126m 2025; tick907
+bud_rum_invest_saldo_2025,city_rumst,2025,-3183673,,,jaarrekening_realized,src_rumst_jr2025,strong,Investeringssaldo -3.184m 2025; tick907
+bud_rum_fin_saldo_2025,city_rumst,2025,2710324,,,jaarrekening_realized,src_rumst_jr2025,strong,Financieringssaldo +2.710m 2025; tick907
+bud_rum_budget_result_2025,city_rumst,2025,873112,,,jaarrekening_realized,src_rumst_jr2025,strong,Budgettair resultaat boekjaar +0.873m 2025; tick907
+bud_rum_afm_2025,city_rumst,2025,306314,,,jaarrekening_realized,src_rumst_jr2025,strong,Autofinancieringsmarge +0.306m 2025; tick907
+bud_rum_afm_gecorr_2025,city_rumst,2025,525991,,,jaarrekening_realized,src_rumst_jr2025,strong,Gecorrigeerde AFM +0.526m 2025; tick907
+bud_rum_pl_2025,city_rumst,2025,-1745038,,,jaarrekening_realized,src_rumst_jr2025,strong,P&L tekort -1.745m 2025; tick907
+bud_rum_personnel_2025,city_rumst,2025,12952553,,,jaarrekening_realized,src_rumst_jr2025,strong,Bezoldigingen 12.953m 2025 (incl onderwijs other ~2.934m); tick907
+bud_rum_personnel_onderwijs_other_2025,city_rumst,2025,2933559,,,jaarrekening_realized,src_rumst_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.934m 2025; tick907
+bud_rum_toelagen_2025,city_rumst,2025,4952365,,,jaarrekening_realized,src_rumst_jr2025,strong,Toegestane werkingssubsidies 4.952m 2025; tick907
+bud_rum_toelagen_police_2025,city_rumst,2025,1417500,,,jaarrekening_realized,src_rumst_jr2025,strong,Toelage politiezone 1.418m 2025; tick907
+bud_rum_toelagen_fire_2025,city_rumst,2025,748960,,,jaarrekening_realized,src_rumst_jr2025,strong,Toelage hulpverleningszone 0.749m 2025; tick907
+bud_rum_toelagen_agb_2025,city_rumst,2025,591258,,,jaarrekening_realized,src_rumst_jr2025,strong,Toelage AGB 0.591m 2025; tick907
+bud_rum_toelagen_igs_2025,city_rumst,2025,1725549,,,jaarrekening_realized,src_rumst_jr2025,strong,Toelage IGS 1.726m 2025 FOI; tick907
+bud_rum_toelagen_other_2025,city_rumst,2025,414653,,,jaarrekening_realized,src_rumst_jr2025,strong,Toelagen andere begunstigden 0.415m 2025 FOI; tick907
+bud_rum_ocmw_aid_2025,city_rumst,2025,877407,,,jaarrekening_realized,src_rumst_jr2025,strong,Individuele hulpverlening OCMW 0.877m 2025; tick907
+bud_rum_fiscal_2025,city_rumst,2025,13720072,,,jaarrekening_realized,src_rumst_jr2025,strong,Fiscale opbrengsten en boetes 13.720m 2025; tick907
+bud_rum_fiscal_ov_2025,city_rumst,2025,4306712,,,jaarrekening_realized,src_rumst_jr2025,strong,Opcentiemen OV 4.307m 2025; tick907
+bud_rum_fiscal_apb_2025,city_rumst,2025,7238310,,,jaarrekening_realized,src_rumst_jr2025,strong,Aanvullende PB 7.238m 2025; tick907
+bud_rum_gemeentefonds_2025,city_rumst,2025,3809645,,,jaarrekening_realized,src_rumst_jr2025,strong,Gemeentefonds 3.810m 2025; tick907
+bud_rum_invest_subs_granted_2025,city_rumst,2025,276704,,,jaarrekening_realized,src_rumst_jr2025,strong,Toegestane investeringssubsidies 0.277m 2025; tick907
+bud_rum_new_loans_2025,city_rumst,2025,4650000,,,jaarrekening_realized,src_rumst_jr2025,strong,Nieuwe leningen 4.650m 2025 FOI; tick907
+bud_rum_mjp_new_loans_2026,city_rumst,2025,4225000,,,jaarrekening_realized,src_rumst_jr2025,strong,MJP new loans 2026 4.225m FOI; tick907
+bud_rum_mjp_fin_debt_2026,city_rumst,2025,20615512,,,jaarrekening_realized,src_rumst_jr2025,strong,MJP fin debt path YE2026 20.616m FOI; tick907
+bud_rum_lt_receivables_2025,city_rumst,2025,10085246,,,jaarrekening_realized,src_rumst_jr2025,strong,Vorderingen LT YE2025 10.085m; tick907

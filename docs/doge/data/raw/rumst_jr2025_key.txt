@@ -1,0 +1,40 @@
+Rumst Gemeente+OCMW Jaarrekening 2025 (BBC 90p) — tick907
+Primary: https://www.rumst.be/file/download/680f544f-5b85-4cc1-bd5c-fcf9886de9fb/Jt03wxoV5PGb3qe2c11SbOTU9QDlI3YTI3jOswbe03d.pdf
+Portal: https://www.rumst.be/producten/detail/1560/jaarrekening-2025-lokaal-bestuur
+GR: 18/06/2026 publicatie 24/06/2026
+
+BALANCE YE2025 / YE2024
+- Assets: 83,209,660 / 83,073,944
+- Equity: 56,716,595 / 58,046,105
+- Debt total: 26,493,064 / 25,027,839
+- Fin debt total (T4): 17,963,076 / 14,709,514
+  - LT: 16,392,327 / 13,313,082
+  - ST due: 1,570,749 / 1,396,432
+- Pension: 4,038,027 / 3,896,011
+- Cash: 2,415,333 / 3,591,452 DROP
+- Cap subs: 4,977,554 / 4,489,455
+- FVA IGS: 11,292,472 / 11,365,042
+- FVA total: 11,381,836 / 11,454,406
+- LT receivables: 10,085,246 / 9,488,990
+
+J2 FLOW 2025
+- Expl rec 27,062,961 / exp 25,716,500 / saldo +1,346,461
+- Invest rec 1,126,121 / exp 4,309,795 / saldo -3,183,673
+- Fin saldo +2,710,324
+- Budget result +873,112
+- Cumul budget 3,765,520 / BBR 1,773,003 (onbeschikbaar 1,992,517)
+- AFM +306,314 / gecorr +525,991
+
+J5 / T2
+- Personnel 12,952,553 (onderwijs other 2,933,559)
+- Toelagen 4,952,365 (police 1,417,500 fire 748,960 AGB 591,258 IGS 1,725,549 other 414,653)
+- OCMW aid 877,407
+- Fiscal 13,720,072 (OV 4,306,712 APB 7,238,310)
+- Gemeentefonds 3,809,645
+- Invest-subs granted 276,704
+- New loans 4,650,000
+- MJP fin debt YE2026 20,615,512; new loans 2026 4,225,000
+- P&L -1,745,038
+
+DUAL: Stabroek assets 118m AFM -2.35m pension cash 4.31m (tick906) — not TE-additive
+FOI: gap_rum_loans_igs_toelagen_l5 prio8 ready

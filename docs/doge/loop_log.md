@@ -11318,3 +11318,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39 (bud_stb_*); commitments +4; leaderboard +7; sources +2; entity city_stabroek; FOI **gap_stb_afm_pension_loans_l5** prio8 ready + draft; raw PDF + key; rq_906=done; spawn **rq_907**; ticks=906
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_907** residual dual L5 (Roeselare/VUB/Rumst/Kinrooi); deferred **rq_116**; progress@910 in 4
+
+## Tick 907 - 2026-08-07T02:15:00Z
+
+- Unit: **rq_907** (FOI-adjacent residual dual - **Gemeente+OCMW Rumst Jaarrekening 2025** + Stabroek dual)
+- Found (strong primary BBC JR2025 90p):
+  - Assets **EUR83.2m** / equity **EUR56.7m** / debt total **EUR26.5m** / fin debt **EUR18.0m** (was **EUR14.7m**; LT **EUR16.4m** / ST due **EUR1.57m**)
+  - **New loans EUR4.65m FOI** / pension **EUR4.04m** / **cash EUR2.42m was EUR3.59m DROP FOI**
+  - Exploitatie: ontvangsten **EUR27.1m** / uitgaven **EUR25.7m** / saldo **+EUR1.35m**
+  - AFM **+EUR0.31m** (gecorr **+EUR0.53m**) / BBR **EUR1.77m** / budget result **+EUR0.87m** / P&L **-EUR1.75m**
+  - Personnel **EUR13.0m** / toelagen **EUR4.95m** (**IGS EUR1.73m FOI** / police **EUR1.42m** / other **EUR0.41m FOI**) / fiscal **EUR13.7m**
+  - Invest **EUR4.31m** / invest-subs **EUR0.28m** / gemeentefonds **EUR3.81m**
+  - **MJP fin debt YE2026 EUR20.6m**; new loans **EUR4.23m FOI**
+- Dual: Stabroek **EUR117.9m** / AFM **-EUR2.35m** / pension cash **EUR4.31m** (tick906) - not TE-additive
+- Wrote: budgets +42 (bud_rum_*); commitments +4; leaderboard +7; sources +2; entity city_rumst; FOI **gap_rum_loans_igs_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_907=done; spawn **rq_908**; ticks=907
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_908** residual dual L5 (Roeselare/VUB/Ingelmunster/Zemst); deferred **rq_116**; progress@910 in 3
