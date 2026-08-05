@@ -29392,3 +29392,51 @@ bud_brn_omzet_2025,zorg_brakel_najaarszon,2025,5551823,,,bbc_jr_realized,src_bra
 bud_brn_werkingssub_2025,zorg_brakel_najaarszon,2025,1397500,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Werkingssubsidies 1.398m FOI residual; tick1116
 bud_brn_invest_uitgaven_2025,zorg_brakel_najaarszon,2025,98945,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Invest 0.099m near MJP 0.100m; tick1116
 bud_brn_ocmw_litigation_2025,zorg_brakel_najaarszon,2025,108586,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,OCMW Brakel net claim ~0.109m FOI litigation residual (interest to 1 jun 2026); tick1116
+bud_kal_assets_2025,city_kalmthout,2025,179891980,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Assets total 179.892m JUMP; tick1117
+bud_kal_equity_2025,city_kalmthout,2025,145504601,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Nettoactief/equity 145.505m flat; tick1117
+bud_kal_debt_total_2025,city_kalmthout,2025,34387379,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Schulden total 34.387m; tick1117
+bud_kal_fin_debt_2025,city_kalmthout,2025,19000380,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Fin debt 19.000m DECLINE FOI (was 20.077m); LT 17.846m + ST due 1.155m; tick1117
+bud_kal_new_loans_2025,city_kalmthout,2025,144125,,,bbc_jr_realized,src_kalmthout_jr2025,strong,New loans/leasing 0.144m FOI; tick1117
+bud_kal_loan_repay_2025,city_kalmthout,2025,1220618,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Periodieke aflossingen 1.221m; tick1117
+bud_kal_cash_2025,city_kalmthout,2025,8861598,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Cash 8.862m DROP FOI (was 12.810m; -3.948m); tick1117
+bud_kal_pension_2025,city_kalmthout,2025,9828981,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Pension LT JUMP 9.829m FOI (was 7.217m; +2.612m); tick1117
+bud_kal_fva_total_2025,city_kalmthout,2025,12183071,,,bbc_jr_realized,src_kalmthout_jr2025,strong,FVA total 12.183m; tick1117
+bud_kal_fva_igs_2025,city_kalmthout,2025,310814,,,bbc_jr_realized,src_kalmthout_jr2025,strong,FVA IGS 0.311m DROP FOI (was 0.512m); tick1117
+bud_kal_fva_andere_2025,city_kalmthout,2025,11872133,,,bbc_jr_realized,src_kalmthout_jr2025,strong,FVA andere 11.872m HIGH FOI; tick1117
+bud_kal_herwaard_2025,city_kalmthout,2025,4455098,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Herwaarderingsreserves 4.455m; tick1117
+bud_kal_leasing_mva_2025,city_kalmthout,2025,10221365,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Leasing MVA 10.221m; tick1117
+bud_kal_lt_vorderingen_2025,city_kalmthout,2025,14406740,,,bbc_jr_realized,src_kalmthout_jr2025,strong,LT vorderingen 14.407m JUMP FOI (was 9.511m; AGB loan path); tick1117
+bud_kal_expl_ont_2025,city_kalmthout,2025,54200278,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Exploitatie ontvangsten 54.200m; tick1117
+bud_kal_expl_uit_2025,city_kalmthout,2025,49989823,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Exploitatie uitgaven 49.990m; tick1117
+bud_kal_expl_saldo_2025,city_kalmthout,2025,4210455,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Exploitatiesaldo +4.210m STRONG; tick1117
+bud_kal_afm_2025,city_kalmthout,2025,3463445,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AFM +3.463m STRONG FOI (MJP was +1.623m); tick1117
+bud_kal_afm_gecorr_2025,city_kalmthout,2025,3077914,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Gecorrigeerde AFM +3.078m; tick1117
+bud_kal_bbr_2025,city_kalmthout,2025,7804578,,,bbc_jr_realized,src_kalmthout_jr2025,strong,BBR beschikbaar 7.805m HIGH; tick1117
+bud_kal_budget_result_2025,city_kalmthout,2025,-3380653,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Budget result -3.381m NEG FOI (better than MJP -5.945m); tick1117
+bud_kal_pnl_2025,city_kalmthout,2025,-1336775,,,bbc_jr_realized,src_kalmthout_jr2025,strong,P&L -1.337m improved (was -4.149m); tick1117
+bud_kal_fiscal_2025,city_kalmthout,2025,20422489,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Fiscal+boetes 20.422m; tick1117
+bud_kal_pb_2025,city_kalmthout,2025,10282007,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Aanvullende PB 10.282m; tick1117
+bud_kal_op_2025,city_kalmthout,2025,9006795,,,bbc_jr_realized,src_kalmthout_jr2025,strong,OP onroerende voorheffing 9.007m; tick1117
+bud_kal_personnel_2025,city_kalmthout,2025,30082618,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Personnel total 30.083m (incl onderwijzend 14.703m); tick1117
+bud_kal_toelagen_2025,city_kalmthout,2025,5146134,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toegestane werkingssubsidies 5.146m FOI; tick1117
+bud_kal_toelage_police_2025,city_kalmthout,2025,3155921,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toelage politiezone 3.156m FOI; tick1117
+bud_kal_toelage_fire_2025,city_kalmthout,2025,802646,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toelage hulpverleningszone 0.803m FOI; tick1117
+bud_kal_toelage_agb_2025,city_kalmthout,2025,559986,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toelage AGB 0.560m FOI; tick1117
+bud_kal_toelage_andere_2025,city_kalmthout,2025,610274,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toelage andere begunstigden 0.610m FOI; tick1117
+bud_kal_invest_uit_2025,city_kalmthout,2025,11862675,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Invest uitgaven 11.863m vs MJP 17.449m UNDERSPEND FOI; tick1117
+bud_kal_invest_subs_in_2025,city_kalmthout,2025,2417568,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Ontvangen investeringssubsidies 2.418m; tick1117
+bud_kal_invest_subs_out_2025,city_kalmthout,2025,577668,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toegestane investeringssubsidies 0.578m FOI; tick1117
+bud_kal_ocmw_cover_2025,city_kalmthout,2025,2870258,,,bbc_jr_realized,src_kalmthout_jr2025,strong,OCMW cover/tussenkomst 2.870m FULL FOI; tick1117
+bud_kal_ocmw_expl_saldo_2025,city_kalmthout,2025,-3207807,,,bbc_jr_realized,src_kalmthout_jr2025,strong,OCMW expl saldo -3.208m DEEP FOI; tick1117
+bud_kal_ocmw_afm_2025,city_kalmthout,2025,-357359,,,bbc_jr_realized,src_kalmthout_jr2025,strong,OCMW AFM -0.357m NEG FOI; tick1117
+bud_kal_granted_loans_2025,city_kalmthout,2025,5446898,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Toegestane leningen 5.447m MASSIVE FOI (AGB 5.317m + andere 0.129m); tick1117
+bud_kal_agb_loan_2025,city_kalmthout,2025,5317497,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB renteloze lening turnhal erfpacht 5.317m MASSIVE FOI dual; tick1117
+bud_kal_debt_capita_2025,city_kalmthout,2025,964,,,bbc_jr_realized,src_kalmthout_jr2025,strong,Openstaande schuld per inwoner EUR964; tick1117
+bud_kalagb_cash_2025,agb_kalmthout,2025,132315,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB cash 0.132m LOW FOI; tick1117
+bud_kalagb_fin_debt_2025,agb_kalmthout,2025,6163953,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB fin debt 6.164m JUMP FOI; tick1117
+bud_kalagb_new_loans_2025,agb_kalmthout,2025,5317497,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB new loans 5.317m (=GE granted) MASSIVE FOI; tick1117
+bud_kalagb_invest_2025,agb_kalmthout,2025,5320277,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB invest 5.320m MASSIVE FOI (turnhal); tick1117
+bud_kalagb_prijssub_2025,agb_kalmthout,2025,463725,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB prijssubsidie gemeente 0.464m FOI; tick1117
+bud_kalagb_afm_2025,agb_kalmthout,2025,138896,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB AFM kengetal +0.139m (consol -0.104m); tick1117
+bud_kalagb_budget_2025,agb_kalmthout,2025,136116,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB budget result +0.136m POS; tick1117
+bud_kalagb_dividend_2025,agb_kalmthout,2025,14575,,,bbc_jr_realized,src_kalmthout_jr2025,strong,AGB uitgekeerde winst/dividend 0.015m FOI; tick1117

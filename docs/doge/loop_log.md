@@ -15271,3 +15271,27 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +21 (bud_brn_*); commitments +7; leaderboard +9; sources +1; entities zorg_brakel_najaarszon + city_brakel; FOI **gap_brn_ocmw_litigation_subs_pension_l5** prio9 ready + draft; PDF primary (not committed 4.6MB); rq_1116=done; spawn **rq_1117**; ticks=1116
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1117** residual dual L5; deferred **rq_116**; progress@1120 in 4
+
+### Tick 1117 - 2026-08-12T00:00:00Z
+
+- Unit: **rq_1117** (FOI-adjacent residual dual - **Gemeente+OCMW Kalmthout Jaarrekening 2025** + AGB dual residual)
+- Found (strong primary BBC JR2025 246p text; kalmthout.bestuurlijkeinformatie.nl; KBO GE **0207.540.012** / OCMW **0212.224.815**; Kerkeneind 13 / Heuvel 39 2920; AD Vincent Gabriels FD Kris Sannen; GE+OCMW + AGB dual):
+  - Assets **EUR179.892m** (was **EUR178.293m**) / equity **EUR145.505m** / debt total **EUR34.387m** / fin debt **EUR19.000m DECLINE FOI** (LT **EUR17.846m** / ST due **EUR1.155m**; was **EUR20.077m**)
+  - New loans **EUR0.144m FOI** / repayments **EUR1.221m**
+  - Cash **EUR8.862m DROP FOI** (was **EUR12.810m**; **−EUR3.948m**) / pension **EUR9.829m JUMP FOI** (was **EUR7.217m**; **+EUR2.612m**)
+  - FVA total **EUR12.183m** (IGS **EUR0.311m DROP** / andere **EUR11.872m HIGH FOI**) / herwaard **EUR4.455m** / leasing MVA **EUR10.221m**
+  - LT vorderingen **EUR14.407m JUMP FOI** (was **EUR9.511m**; AGB loan path)
+  - Exploitatie: ontvangsten **EUR54.200m** / uitgaven **EUR49.990m** / saldo **+EUR4.210m STRONG**
+  - AFM **+EUR3.463m STRONG** (gecorr **+EUR3.078m**; MJP was **+EUR1.623m**) / BBR **EUR7.805m HIGH** / budget **−EUR3.381m NEG FOI** (better than MJP **−EUR5.945m**) / P&L **−EUR1.337m** (was **−EUR4.149m**)
+  - Fiscal **EUR20.422m** / PB **EUR10.282m** / OP **EUR9.007m** / personnel **EUR30.083m** (onderwijzend **EUR14.703m**)
+  - Toelagen **EUR5.146m FOI** (police **EUR3.156m** / fire **EUR0.803m** / AGB **EUR0.560m** / andere **EUR0.610m**)
+  - Invest **EUR11.863m** vs MJP **EUR17.449m UNDERSPEND FOI** / invest-subs in **EUR2.418m** / out **EUR0.578m**
+  - OCMW cover **EUR2.870m FULL FOI** / OCMW expl **−EUR3.208m DEEP** / OCMW AFM **−EUR0.357m NEG**
+  - **Toegestane lening AGB EUR5.317m MASSIVE FOI** (turnhal erfpacht renteloos) + andere **EUR0.129m** = **EUR5.447m**
+  - AGB dual: cash **EUR0.132m** / fin debt **EUR6.164m JUMP** / new loans **EUR5.317m** / invest **EUR5.320m** / prijssub **EUR0.464m** / AFM kengetal **+EUR0.139m** (consol **−EUR0.104m**) / dividend **EUR0.015m** / budget **+EUR0.136m**
+  - Debt/capita **EUR964** / BBR per inwoner **EUR396**
+- Dual: Brakel Najaarszon OCMW litigation / pension JUMP (tick1116) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only / Bornem JR2024-only / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW residual next; progress@1120 in 3
+- Wrote: budgets +48 (bud_kal_* / bud_kalagb_*); commitments +9; leaderboard +12; sources +1; entities city_kalmthout + agb_kalmthout; FOI **gap_kal_agb_loan_pension_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed ~12+7MB); rq_1117=done; spawn **rq_1118**; ticks=1117
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1118** residual dual L5; deferred **rq_116**; progress@1120 in 3
