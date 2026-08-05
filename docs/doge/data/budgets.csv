@@ -22985,3 +22985,51 @@ bud_heu_werkingsubs_rec_2025,city_heuvelland,2025,7274914,,,realized,src_heuvell
 bud_heu_kemmel_kerk_invest_2025,city_heuvelland,2025,736605,,,realized,src_heuvelland_jr2025,strong,Sint-Laurentiuskerk Kemmel invest 0.737m FOI residual; tick983
 bud_heu_costs_j5_2025,city_heuvelland,2025,19281370,,,realized,src_heuvelland_jr2025,strong,J5 total kosten 19.3m; tick983
 bud_heu_revenue_j5_2025,city_heuvelland,2025,21551268,,,realized,src_heuvelland_jr2025,strong,J5 total opbrengsten 21.6m; tick983
+bud_lor_assets_2025,city_lo_reninge,2025,38507751,,,realized,src_lo_reninge_jr2025,strong,Assets YE2025 38.51m; tick984
+bud_lor_equity_2025,city_lo_reninge,2025,33037890,,,realized,src_lo_reninge_jr2025,strong,Nettoactief YE2025 33.04m; tick984
+bud_lor_debt_total_2025,city_lo_reninge,2025,5469861,,,realized,src_lo_reninge_jr2025,strong,Total schulden YE2025 5.47m; tick984
+bud_lor_fin_debt_2025,city_lo_reninge,2025,3484224,,,realized,src_lo_reninge_jr2025,strong,Fin debt total YE2025 3.48m RISING (was 1.99m); tick984
+bud_lor_fin_debt_lt_2025,city_lo_reninge,2025,3118565,,,realized,src_lo_reninge_jr2025,strong,Fin debt LT YE2025 3.12m; tick984
+bud_lor_fin_debt_st_due_2025,city_lo_reninge,2025,365658,,,realized,src_lo_reninge_jr2025,strong,Fin debt ST due YE2025 0.366m; tick984
+bud_lor_new_loans_2025,city_lo_reninge,2025,1803166,,,realized,src_lo_reninge_jr2025,strong,Nieuwe leningen 1.80m bank + 3k lease FOI; tick984
+bud_lor_repayments_2025,city_lo_reninge,2025,313590,,,realized,src_lo_reninge_jr2025,strong,Periodieke aflossingen 0.314m; tick984
+bud_lor_cash_2025,city_lo_reninge,2025,1269367,,,realized,src_lo_reninge_jr2025,strong,Liquide middelen YE2025 1.27m DROP (was 2.06m) FOI; tick984
+bud_lor_pension_2025,city_lo_reninge,2025,251517,,,realized,src_lo_reninge_jr2025,strong,Pensioenvoorzieningen LT YE2025 0.252m RISING (was 0.108m); tick984
+bud_lor_leasing_mva_2025,city_lo_reninge,2025,315215,,,realized,src_lo_reninge_jr2025,strong,Leasing MVA YE2025 0.315m FOI; tick984
+bud_lor_fva_igs_2025,city_lo_reninge,2025,2382231,,,realized,src_lo_reninge_jr2025,strong,FVA IGS YE2025 2.38m; tick984
+bud_lor_cap_subs_2025,city_lo_reninge,2025,8954208,,,realized,src_lo_reninge_jr2025,strong,Kapitaalsubsidies YE2025 8.95m; tick984
+bud_lor_onbeschikbaar_2025,city_lo_reninge,2025,538413,,,realized,src_lo_reninge_jr2025,strong,Onbeschikbare gelden 0.538m FOI; tick984
+bud_lor_expl_rec_2025,city_lo_reninge,2025,7761453,,,realized,src_lo_reninge_jr2025,strong,Exploitatieontvangsten 7.76m; tick984
+bud_lor_expl_exp_2025,city_lo_reninge,2025,6537074,,,realized,src_lo_reninge_jr2025,strong,Exploitatieuitgaven 6.54m; tick984
+bud_lor_expl_saldo_2025,city_lo_reninge,2025,1224379,,,realized,src_lo_reninge_jr2025,strong,Exploitatiesaldo +1.22m; tick984
+bud_lor_invest_exp_2025,city_lo_reninge,2025,3611570,,,realized,src_lo_reninge_jr2025,strong,Investeringsuitgaven 3.61m vs MJP 5.09m underspend FOI; tick984
+bud_lor_invest_rec_2025,city_lo_reninge,2025,573483,,,realized,src_lo_reninge_jr2025,strong,Investeringsontvangsten 0.573m; tick984
+bud_lor_invest_saldo_2025,city_lo_reninge,2025,-3038087,,,realized,src_lo_reninge_jr2025,strong,Investeringssaldo -3.04m; tick984
+bud_lor_fin_rec_2025,city_lo_reninge,2025,1803166,,,realized,src_lo_reninge_jr2025,strong,Financieringsontvangsten 1.80m; tick984
+bud_lor_fin_exp_2025,city_lo_reninge,2025,313590,,,realized,src_lo_reninge_jr2025,strong,Financieringsuitgaven 0.314m; tick984
+bud_lor_budget_result_2025,city_lo_reninge,2025,-324132,,,realized,src_lo_reninge_jr2025,strong,Budgettair resultaat -0.324m FOI cash drop invest; tick984
+bud_lor_cum_budget_2025,city_lo_reninge,2025,691736,,,realized,src_lo_reninge_jr2025,strong,Gecumuleerd budgettair resultaat 0.692m; tick984
+bud_lor_bbr_2025,city_lo_reninge,2025,153324,,,realized,src_lo_reninge_jr2025,strong,Beschikbaar BBR 0.153m (onbeschikbaar 0.538m) FOI; tick984
+bud_lor_afm_2025,city_lo_reninge,2025,910789,,,realized,src_lo_reninge_jr2025,strong,AFM +0.911m STRONG; tick984
+bud_lor_afm_corr_2025,city_lo_reninge,2025,1064807,,,realized,src_lo_reninge_jr2025,strong,Gecorrigeerde AFM +1.06m; tick984
+bud_lor_pnl_2025,city_lo_reninge,2025,-106743,,,realized,src_lo_reninge_jr2025,strong,P&L -0.107m (GE +0.087m / OCMW -0.194m FOI); tick984
+bud_lor_personnel_2025,city_lo_reninge,2025,2658956,,,realized,src_lo_reninge_jr2025,strong,Bezoldigingen J5 2.66m FOI; tick984
+bud_lor_goederen_2025,city_lo_reninge,2025,2617311,,,realized,src_lo_reninge_jr2025,strong,Goederen en diensten J5 2.62m; tick984
+bud_lor_toelagen_2025,city_lo_reninge,2025,869012,,,realized,src_lo_reninge_jr2025,strong,Toegestane werkingssubsidies 0.869m FOI named; tick984
+bud_lor_toelage_police_2025,city_lo_reninge,2025,329914,,,realized,src_lo_reninge_jr2025,strong,Toelage politiezone 0.330m FOI; tick984
+bud_lor_toelage_fire_2025,city_lo_reninge,2025,163296,,,realized,src_lo_reninge_jr2025,strong,Toelage HVZ 0.163m FOI; tick984
+bud_lor_toelage_igs_2025,city_lo_reninge,2025,72201,,,realized,src_lo_reninge_jr2025,strong,Toelage IGS 0.072m FOI; tick984
+bud_lor_toelage_other_2025,city_lo_reninge,2025,266392,,,realized,src_lo_reninge_jr2025,strong,Toelage andere begunstigden 0.266m FOI; tick984
+bud_lor_toelage_eredienst_2025,city_lo_reninge,2025,37209,,,realized,src_lo_reninge_jr2025,strong,Toelage besturen eredienst 0.037m; tick984
+bud_lor_ocmw_aid_2025,city_lo_reninge,2025,224516,,,realized,src_lo_reninge_jr2025,strong,Individuele hulp OCMW J5 0.225m FOI; tick984
+bud_lor_ocmw_cover_2025,city_lo_reninge,2025,89938,,,realized,src_lo_reninge_jr2025,strong,OCMW cover 0.090m FOI residual; tick984
+bud_lor_ocmw_pnl_neg_2025,city_lo_reninge,2025,-193659,,,realized,src_lo_reninge_jr2025,strong,OCMW P&L -0.194m FOI residual; tick984
+bud_lor_ocmw_cum_deficit_2025,city_lo_reninge,2025,-51051,,,realized,src_lo_reninge_jr2025,strong,OCMW cum deficit -0.051m (was +0.053m) FOI; tick984
+bud_lor_ge_pnl_2025,city_lo_reninge,2025,86916,,,realized,src_lo_reninge_jr2025,strong,Gemeente P&L +0.087m; tick984
+bud_lor_fiscal_2025,city_lo_reninge,2025,3968684,,,realized,src_lo_reninge_jr2025,strong,Fiscale opbrengsten J5 3.97m; tick984
+bud_lor_werkingsubs_rec_2025,city_lo_reninge,2025,3016994,,,realized,src_lo_reninge_jr2025,strong,Ontvangen werkingssubsidies J5 3.02m; tick984
+bud_lor_gemeentefonds_2025,city_lo_reninge,2025,1877266,,,realized,src_lo_reninge_jr2025,strong,Gemeentefonds 1.88m; tick984
+bud_lor_ac_restauratie_2025,city_lo_reninge,2025,706291,,,realized,src_lo_reninge_jr2025,strong,AC restauratie invest 0.706m FOI residual; tick984
+bud_lor_kerk_uitkijktoren_2025,city_lo_reninge,2025,173570,,,realized,src_lo_reninge_jr2025,strong,Parochiekerk Sint-Petrus uitkijktoren 0.174m FOI; tick984
+bud_lor_costs_j5_2025,city_lo_reninge,2025,8379775,,,realized,src_lo_reninge_jr2025,strong,J5 total kosten 8.38m; tick984
+bud_lor_revenue_j5_2025,city_lo_reninge,2025,8273032,,,realized,src_lo_reninge_jr2025,strong,J5 total opbrengsten 8.27m; tick984

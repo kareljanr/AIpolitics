@@ -12680,3 +12680,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45 (bud_heu_*); commitments +5; leaderboard +7; sources +1; entity city_heuvelland; FOI **gap_heu_ocmw_deficit_cash_toelagen_l5** prio8 ready + draft; key only (PDF ~6.6MB not stored in git); rq_983=done; spawn **rq_984**; ticks=983
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_984** residual dual L5 (Kortemark / Lo-Reninge / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 7
+
+### Tick 984 - 2026-08-09T05:15:00Z
+
+- Unit: **rq_984** (FOI-adjacent residual dual - **Gemeente+OCMW Lo-Reninge Jaarrekening 2025** + Heuvelland dual residual)
+- Found (strong primary BBC JR2025 227p; KBO 0216.769.858 / OCMW 0216.769.957; FD Florian Desmet; AD Lien Vandergucht (wnd); Markt 11):
+  - Assets **EUR38.51m** / equity **EUR33.04m** / debt total **EUR5.47m** / fin debt **EUR3.48m** (**RISING** from **EUR1.99m**; LT **EUR3.12m** / ST due **EUR0.366m**)
+  - New loans **EUR1.803m** (bank **EUR1.80m** + lease **EUR0.003m**) / repayments **EUR0.314m**
+  - Cash **EUR1.27m DROP** (was **EUR2.06m**) / pension **EUR0.252m RISING** / leasing MVA **EUR0.315m FOI** / FVA IGS **EUR2.38m**
+  - Exploitatie: ontvangsten **EUR7.76m** / uitgaven **EUR6.54m** / saldo **+EUR1.22m**
+  - AFM **+EUR0.911m STRONG** (gecorr **+EUR1.06m**) / BBR **EUR0.153m** (onbeschikbaar **EUR0.538m FOI**) / budget **-EUR0.324m FOI** / P&L **-EUR0.107m** (GE **+EUR0.087m** / OCMW **-EUR0.194m FOI**)
+  - Personnel **EUR2.66m** / toelagen **EUR0.869m FOI** (police **EUR0.330m** / fire **EUR0.163m** / IGS **EUR0.072m** / other **EUR0.266m** / eredienst **EUR0.037m**)
+  - Invest **EUR3.61m** vs MJP **EUR5.09m underspend FOI** / AC restauratie **EUR0.706m** / Sint-Petrus uitkijktoren **EUR0.174m** / **OCMW cover EUR0.090m FOI** / OCMW cum **-EUR0.051m**
+- Dual: Heuvelland **EUR65.4m** / OCMW cover **0** / cum deficit **-EUR2.38m** (tick983) - not TE-additive
+- Note: Ledegem/Torhout full BBC / WZBW still no extractable full JR2025 this tick; Kortemark next residual candidate
+- Wrote: budgets +48 (bud_lor_*); commitments +5; leaderboard +7; sources +1; entity city_lo_reninge; FOI **gap_lor_debt_cash_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~2.9MB not stored in git); rq_984=done; spawn **rq_985**; ticks=984
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_985** residual dual L5 (Kortemark / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 6

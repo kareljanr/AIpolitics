@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T04:45:00Z,rq_983,983,no,tick983 Heuvelland GE+OCMW JR2025 dual residual; FOI gap_heu_ocmw_deficit_cash_toelagen_l5 prio8 assets 65.4m fin debt 5.33m declining cash 9.19m DROP AFM +2.42m budget -2.31m OCMW cover 0 cum deficit -2.38m toelagen 1.98m leasing 2.07m; next residual dual L5 rq_984; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T05:15:00Z,rq_984,984,no,tick984 Lo-Reninge GE+OCMW JR2025 dual residual; FOI gap_lor_debt_cash_ocmw_toelagen_l5 prio8 assets 38.51m fin debt 3.48m RISING +loan 1.80m cash 1.27m DROP AFM +0.911m budget -0.324m OCMW cover 0.090m P&L -0.194m toelagen 0.869m; next residual dual L5 rq_985; rq_116 deferred
