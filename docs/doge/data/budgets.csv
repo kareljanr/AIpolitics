@@ -21288,3 +21288,36 @@ bud_wie_agb_bbr_2025,city_wielsbeke,2025,530640,,,jaarrekening_realized,src_wiel
 bud_wie_agb_afm_2025,city_wielsbeke,2025,122757,,,jaarrekening_realized,src_wielsbeke_jr2025,strong,Dual AGB Wielsbeke AFM +0.123m; tick942
 bud_wie_agb_afm_corr_2025,city_wielsbeke,2025,-424202,,,jaarrekening_realized,src_wielsbeke_jr2025,strong,Dual AGB Wielsbeke corr AFM -0.424m FOI negative; tick942
 bud_wie_meerwaarden_mva_2025,city_wielsbeke,2025,1798449,,,jaarrekening_realized,src_wielsbeke_jr2025,strong,J5 meerwaarden realisatie VA 1.80m FOI; tick942
+bud_agw_assets_2025,agb_wielsbeke,2025,14930977,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Total assets YE2025 14.9m; tick943
+bud_agw_equity_2025,agb_wielsbeke,2025,1806095,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Nettoactief YE2025 1.81m; tick943
+bud_agw_debt_total_2025,agb_wielsbeke,2025,13124882,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Total schulden YE2025 13.1m DECLINING (was 13.6m); tick943
+bud_agw_fin_debt_2025,agb_wielsbeke,2025,12778224,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,T4 total financiele schulden YE2025 12.8m DECLINING (LT 12.3 + ST due 0.51); tick943
+bud_agw_fin_debt_lt_2025,agb_wielsbeke,2025,12266193,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Financiele schulden LT YE2025 12.3m; tick943
+bud_agw_fin_debt_st_due_2025,agb_wielsbeke,2025,512031,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.51m; tick943
+bud_agw_fin_debt_2024,agb_wielsbeke,2025,13212490,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,T4 fin debt YE2024 13.2m comparator; tick943
+bud_agw_cash_2025,agb_wielsbeke,2025,169503,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Liquide middelen YE2025 0.170m (was 0.095m); tick943
+bud_agw_cash_2024,agb_wielsbeke,2025,95397,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Liquide middelen YE2024 0.095m; tick943
+bud_agw_mva_2025,agb_wielsbeke,2025,14083820,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Materiele vaste activa YE2025 14.1m (sportcomplex/zwembad); tick943
+bud_agw_leasing_mva_2025,agb_wielsbeke,2025,1915393,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Leasing MVA gemeenschapsgoederen 1.92m; tick943
+bud_agw_cap_subs_2025,agb_wielsbeke,2025,1333293,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Kapitaalssubsidies YE2025 1.33m; tick943
+bud_agw_expl_rec_2025,agb_wielsbeke,2025,1585547,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Exploitatieontvangsten 1.59m; tick943
+bud_agw_expl_exp_2025,agb_wielsbeke,2025,952749,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Exploitatieuitgaven 0.95m; tick943
+bud_agw_expl_saldo_2025,agb_wielsbeke,2025,632798,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Exploitatiesaldo +0.633m; tick943
+bud_agw_invest_exp_2025,agb_wielsbeke,2025,75774,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Investeringsuitgaven 0.076m; tick943
+bud_agw_invest_saldo_2025,agb_wielsbeke,2025,-75774,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Investeringssaldo -0.076m; tick943
+bud_agw_new_loans_2025,agb_wielsbeke,2025,75774,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Nieuwe leningen 0.076m (gemeente/other entities only; no bank); tick943
+bud_agw_aflossingen_2025,agb_wielsbeke,2025,510041,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Periodieke aflossingen 0.51m (matches city loan recoveries); tick943
+bud_agw_afm_2025,agb_wielsbeke,2025,122757,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,AFM +0.123m; tick943
+bud_agw_afm_corr_2025,agb_wielsbeke,2025,-424202,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Gecorrigeerde AFM -0.424m FOI (aangewezen aflossingen 1.057m); tick943
+bud_agw_bbr_2025,agb_wielsbeke,2025,530640,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Beschikbaar budgettair resultaat 0.531m; tick943
+bud_agw_budget_result_2025,agb_wielsbeke,2025,122757,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Budgettair resultaat boekjaar +0.123m; tick943
+bud_agw_cum_br_2025,agb_wielsbeke,2025,531800,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Gecumuleerd budgettair resultaat 0.532m; tick943
+bud_agw_pnl_result_2025,agb_wielsbeke,2025,117600,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,P&L boekjaar +0.118m; tick943
+bud_agw_payout_2025,agb_wielsbeke,2025,12000,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Uitkering rechthebbenden 0.012m (was 0.025m); tick943
+bud_agw_prijssubsidie_2025,agb_wielsbeke,2025,945506,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Prijssubsidie gemeente 0.946m FOI (vs city toelagen AGB 1.10m recon); tick943
+bud_agw_goederen_2025,agb_wielsbeke,2025,799439,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Goederen en diensten 0.80m; tick943
+bud_agw_toelagen_out_2025,agb_wielsbeke,2025,88690,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Toegestane werkingssubsidies andere 0.089m FOI; tick943
+bud_agw_fin_costs_2025,agb_wielsbeke,2025,206,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Financiele kosten 206 EUR (near-zero interest; renteloze gemeente path FOI); tick943
+bud_agw_werkingsubsidies_in_2025,agb_wielsbeke,2025,40,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Werkingssubsidies in 40 EUR (near zero vs prijssubsidie path FOI); tick943
+bud_agw_onbeschikbaar_2025,agb_wielsbeke,2025,1160,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Onbeschikbare gelden 1160 EUR; tick943
+bud_agw_aangewezen_afl_2025,agb_wielsbeke,2025,1056999,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Aangewezen aflossingen o.b.v. fin schulden 1.057m (drives corr AFM neg); tick943
