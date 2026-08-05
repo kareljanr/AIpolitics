@@ -24059,3 +24059,52 @@ bud_sgw_gemeentefonds_2025,city_sint_gillis_waas,2025,5671566,,,realized,src_sgw
 bud_sgw_fin_opbr_2025,city_sint_gillis_waas,2025,786074,,,realized,src_sgw_jr2025,strong,Financiele opbrengsten 0.786m; tick1008
 bud_sgw_fin_costs_2025,city_sint_gillis_waas,2025,873483,,,realized,src_sgw_jr2025,strong,Financiele kosten 0.873m JUMP (was 0.627m); tick1008
 bud_sgw_invest_subs_granted_2025,city_sint_gillis_waas,2025,207164,,,realized,src_sgw_jr2025,strong,Toegestane investeringssubsidies 0.207m; tick1008
+bud_lrd_assets_2025,city_lierde,2025,32737306,,,realized,src_lierde_jr2025,strong,Assets YE2025 32.74m DROP (was 34.36m); tick1009
+bud_lrd_equity_2025,city_lierde,2025,20731603,,,realized,src_lierde_jr2025,strong,Nettoactief YE2025 20.73m (was 20.18m); tick1009
+bud_lrd_debt_total_2025,city_lierde,2025,12005703,,,realized,src_lierde_jr2025,strong,Total schulden YE2025 12.01m DROP (was 14.18m); tick1009
+bud_lrd_fin_debt_2025,city_lierde,2025,7835931,,,realized,src_lierde_jr2025,strong,Fin debt total YE2025 7.84m DECLINING (was 9.54m FOI); tick1009
+bud_lrd_fin_debt_lt_2025,city_lierde,2025,7238161,,,realized,src_lierde_jr2025,strong,Fin debt LT YE2025 7.24m; tick1009
+bud_lrd_fin_debt_st_due_2025,city_lierde,2025,597769,,,realized,src_lierde_jr2025,strong,Fin debt ST due YE2025 0.598m; tick1009
+bud_lrd_new_loans_2025,city_lierde,2025,180458,,,realized,src_lierde_jr2025,strong,Nieuwe leningen 2025 0.180m (Fluvius/Farys lease); tick1009
+bud_lrd_aflossingen_2025,city_lierde,2025,660234,,,realized,src_lierde_jr2025,strong,Periodieke aflossingen 2025 0.660m; tick1009
+bud_lrd_nonperiod_aflossingen_2025,city_lierde,2025,1222997,,,realized,src_lierde_jr2025,strong,Niet-periodieke aflossingen 2025 1.22m Farys V-divisie FOI residual; tick1009
+bud_lrd_cash_2025,city_lierde,2025,1001891,,,realized,src_lierde_jr2025,strong,Liquide middelen YE2025 1.00m JUMP (was 0.729m); tick1009
+bud_lrd_pension_2025,city_lierde,2025,2843672,,,realized,src_lierde_jr2025,strong,Pensioenvoorzieningen LT YE2025 2.84m DECLINING (was 3.06m); tick1009
+bud_lrd_cap_subs_2025,city_lierde,2025,1311096,,,realized,src_lierde_jr2025,strong,Kapitaalsubsidies YE2025 1.31m; tick1009
+bud_lrd_fva_total_2025,city_lierde,2025,5116957,,,realized,src_lierde_jr2025,strong,FVA total YE2025 5.12m; tick1009
+bud_lrd_fva_igs_2025,city_lierde,2025,4657075,,,realized,src_lierde_jr2025,strong,FVA IGS YE2025 4.66m; tick1009
+bud_lrd_fva_other_2025,city_lierde,2025,459882,,,realized,src_lierde_jr2025,strong,Andere FVA YE2025 0.460m; tick1009
+bud_lrd_leasing_mva_2025,city_lierde,2025,2161030,,,realized,src_lierde_jr2025,strong,Leasing MVA YE2025 2.16m DROP (was 3.46m FOI Farys path); tick1009
+bud_lrd_expl_rec_2025,city_lierde,2025,9966857,,,realized,src_lierde_jr2025,strong,Exploitatieontvangsten 9.97m; tick1009
+bud_lrd_expl_exp_2025,city_lierde,2025,7965936,,,realized,src_lierde_jr2025,strong,Exploitatieuitgaven 7.97m; tick1009
+bud_lrd_expl_saldo_2025,city_lierde,2025,2000921,,,realized,src_lierde_jr2025,strong,Exploitatiesaldo +2.00m STRONG; tick1009
+bud_lrd_invest_exp_2025,city_lierde,2025,1042410,,,realized,src_lierde_jr2025,strong,Investeringsuitgaven 1.04m vs MJP 1.42m underspend FOI; tick1009
+bud_lrd_invest_rec_2025,city_lierde,2025,153442,,,realized,src_lierde_jr2025,strong,Investeringsontvangsten 0.153m; tick1009
+bud_lrd_invest_saldo_2025,city_lierde,2025,-888968,,,realized,src_lierde_jr2025,strong,Investeringssaldo -0.889m; tick1009
+bud_lrd_mjp_invest_planned_2025,city_lierde,2025,1419126,,,realized,src_lierde_jr2025,strong,MJP invest planned 1.42m vs realized 1.04m underspend FOI; tick1009
+bud_lrd_afm_2025,city_lierde,2025,1547130,,,realized,src_lierde_jr2025,strong,AFM +1.55m STRONG; tick1009
+bud_lrd_afm_corr_2025,city_lierde,2025,1444268,,,realized,src_lierde_jr2025,strong,Gecorrigeerde AFM +1.44m; tick1009
+bud_lrd_bbr_2025,city_lierde,2025,1140448,,,realized,src_lierde_jr2025,strong,BBR beschikbaar 1.14m; tick1009
+bud_lrd_budget_result_2025,city_lierde,2025,817348,,,realized,src_lierde_jr2025,strong,Budgettair resultaat +0.817m STRONG; tick1009
+bud_lrd_cum_br_2025,city_lierde,2025,1140448,,,realized,src_lierde_jr2025,strong,Gecumuleerd budgettair resultaat 1.14m; tick1009
+bud_lrd_pnl_2025,city_lierde,2025,499437,,,realized,src_lierde_jr2025,strong,P&L +0.499m; tick1009
+bud_lrd_pnl_ge_2025,city_lierde,2025,753804,,,realized,src_lierde_jr2025,strong,GE P&L +0.754m; tick1009
+bud_lrd_pnl_ocmw_2025,city_lierde,2025,-254367,,,realized,src_lierde_jr2025,strong,OCMW P&L -0.254m FOI; tick1009
+bud_lrd_ocmw_cover_2025,city_lierde,2025,0,,,realized,src_lierde_jr2025,strong,OCMW cover ZERO FOI residual vs OCMW -0.254m; tick1009
+bud_lrd_ocmw_cum_deficit_2025,city_lierde,2025,-1088777,,,realized,src_lierde_jr2025,strong,OCMW cum tekort YE2025 -1.09m WORSENING (was -0.834m no cover); tick1009
+bud_lrd_personnel_2025,city_lierde,2025,4069532,,,realized,src_lierde_jr2025,strong,Bezoldigingen 4.07m; tick1009
+bud_lrd_toelagen_2025,city_lierde,2025,1167472,,,realized,src_lierde_jr2025,strong,Toegestane werkingssubsidies 1.17m; tick1009
+bud_lrd_toelagen_police_2025,city_lierde,2025,748510,,,realized,src_lierde_jr2025,strong,Toelage politiezone 0.749m; tick1009
+bud_lrd_toelagen_fire_2025,city_lierde,2025,229526,,,realized,src_lierde_jr2025,strong,Toelage hulpverleningszone 0.230m DROP (was 0.322m); tick1009
+bud_lrd_toelagen_igs_2025,city_lierde,2025,73035,,,realized,src_lierde_jr2025,strong,Toelage IGS 0.073m; tick1009
+bud_lrd_toelagen_eredienst_2025,city_lierde,2025,31084,,,realized,src_lierde_jr2025,strong,Toelage eredienst 0.031m; tick1009
+bud_lrd_toelagen_other_2025,city_lierde,2025,85317,,,realized,src_lierde_jr2025,strong,Toelage andere begunstigden 0.085m FOI; tick1009
+bud_lrd_ocmw_aid_2025,city_lierde,2025,182291,,,realized,src_lierde_jr2025,strong,OCMW individuele hulp 0.182m; tick1009
+bud_lrd_fiscal_2025,city_lierde,2025,5280944,,,realized,src_lierde_jr2025,strong,Fiscale opbrengsten 5.28m; tick1009
+bud_lrd_fiscal_ov_2025,city_lierde,2025,1597791,,,realized,src_lierde_jr2025,strong,Opcentiemen OV 1.60m; tick1009
+bud_lrd_fiscal_pb_2025,city_lierde,2025,3071712,,,realized,src_lierde_jr2025,strong,Aanvullende PB 3.07m JUMP (was 2.72m); tick1009
+bud_lrd_gemeentefonds_2025,city_lierde,2025,2028166,,,realized,src_lierde_jr2025,strong,Gemeentefonds 2.03m; tick1009
+bud_lrd_fin_opbr_2025,city_lierde,2025,159810,,,realized,src_lierde_jr2025,strong,Financiele opbrengsten 0.160m; tick1009
+bud_lrd_fin_costs_2025,city_lierde,2025,234562,,,realized,src_lierde_jr2025,strong,Financiele kosten 0.235m; tick1009
+bud_lrd_invest_subs_granted_2025,city_lierde,2025,227894,,,realized,src_lierde_jr2025,strong,Toegestane investeringssubsidies 0.228m (HVZ 0.184 police 0.034 FOI); tick1009
+bud_lrd_cum_equity_deficit_2025,city_lierde,2025,-2160656,,,realized,src_lierde_jr2025,strong,Gecumuleerd equity deficit YE2025 -2.16m IMPROVING (was -2.66m); tick1009

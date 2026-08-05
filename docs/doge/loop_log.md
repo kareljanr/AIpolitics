@@ -13133,3 +13133,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_sgw_*); commitments +5; leaderboard +7; sources +1; entity city_sint_gillis_waas; FOI **gap_sgw_debt_ocmw_invest_toelagen_l5** prio8 ready + draft; key only (PDF ~14MB not stored in git); rq_1008=done; spawn **rq_1009**; ticks=1008
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1009** residual dual L5 (Torhout / Lebbeke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 2
+
+### Tick 1009 - 2026-08-09T17:45:00Z
+
+- Unit: **rq_1009** (FOI-adjacent residual dual - **Gemeente+OCMW Lierde Jaarrekening 2025** + Sint-Gillis-Waas dual residual)
+- Found (strong primary BBC JR2025 306p; KBO 0216.771.640 / OCMW 0216.771.739; FD Julie De Ruysscher; AD Nathalie Meersman; Nieuwstraat 19):
+  - Assets **EUR32.74m DROP** / equity **EUR20.73m** / debt total **EUR12.01m** / fin debt **EUR7.84m** (**DECLINING** from **EUR9.54m**; LT **EUR7.24m** / ST due **EUR0.598m**)
+  - New loans **EUR0.180m** (lease) / period repayments **EUR0.660m** / **non-period Farys V EUR1.22m FOI**
+  - Cash **EUR1.00m JUMP** (was **EUR0.729m**) / pension **EUR2.84m DECLINING** / leasing MVA **EUR2.16m DROP** (was **EUR3.46m**)
+  - FVA IGS **EUR4.66m** / cap subs **EUR1.31m**
+  - Exploitatie: ontvangsten **EUR9.97m** / uitgaven **EUR7.97m** / saldo **+EUR2.00m STRONG**
+  - AFM **+EUR1.55m STRONG** (gecorr **+EUR1.44m**) / BBR **EUR1.14m** / budget **+EUR0.817m STRONG** / P&L **+EUR0.499m** (GE **+EUR0.754m** / OCMW **-EUR0.254m FOI**)
+  - Personnel **EUR4.07m** / toelagen **EUR1.17m FOI** (police **EUR0.749m** / fire **EUR0.230m DROP** / IGS **EUR0.073m** / other **EUR0.085m** / eredienst **EUR0.031m**)
+  - Invest **EUR1.04m** vs MJP **EUR1.42m UNDERSPEND FOI** / **OCMW cover EUR0 ZERO FOI** / OCMW cum **-EUR1.09m WORSENING** (was -0.834m)
+- Dual: Sint-Gillis-Waas **EUR109.68m** / fin debt **EUR32.51m JUMP** / +loans **EUR14.81m** (tick1008) - not TE-additive
+- Note: Torhout still news-only; Lebbeke / AGB De Panne / Kluisbergen OCR residual next optional
+- Wrote: budgets +50 (bud_lrd_*); commitments +5; leaderboard +7; sources +1; entity city_lierde; FOI **gap_lrd_ocmw_cover_debt_toelagen_l5** prio8 ready + draft; key only (PDF ~16MB not stored in git); rq_1009=done; spawn **rq_1010**; ticks=1009
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1010** residual dual L5 (Torhout / Lebbeke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 1
+
