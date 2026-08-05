@@ -19175,3 +19175,41 @@ bud_wem_invest_subs_granted_2025,city_wemmel,2025,154074,,,jaarrekening_realized
 bud_wem_new_loans_2025,city_wemmel,2025,27985,,,jaarrekening_realized,src_wemmel_jr2025,strong,Nieuwe leningen/leasings 0.028m 2025; MJP ramp 4.0m 2026 + 2.5m 2027 FOI; tick886
 bud_wem_mjp_new_loans_2026,city_wemmel,2026,4000000,,,meerjarenplan,src_wemmel_jr2025,medium,MJP planned new loans 4.0m 2026 FOI-adjacent; tick886
 bud_wem_mjp_new_loans_2027,city_wemmel,2027,2500000,,,meerjarenplan,src_wemmel_jr2025,medium,MJP planned new loans 2.5m 2027 FOI-adjacent; tick886
+bud_zut_assets_2025,city_zutendaal,2025,67106842,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Consol total assets YE2025 67.107m; tick887
+bud_zut_equity_2025,city_zutendaal,2025,52914976,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Nettoactief YE2025 52.915m; tick887
+bud_zut_debt_total_2025,city_zutendaal,2025,14191865,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Schulden total YE2025 14.192m; tick887
+bud_zut_fin_debt_2025,city_zutendaal,2025,4345519,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Fin schulden total YE2025 4.346m (LT 3.830 + ST due 0.515) declining; tick887
+bud_zut_fin_debt_lt_2025,city_zutendaal,2025,3830224,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Fin schulden LT YE2025 3.830m; tick887
+bud_zut_fin_debt_st_2025,city_zutendaal,2025,515295,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.515m; tick887
+bud_zut_pension_prov_2025,city_zutendaal,2025,6733892,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Pensioenvoorzieningen YE2025 6.734m (was 4.023m jump FOI); tick887
+bud_zut_cash_2025,city_zutendaal,2025,4905047,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Liquide middelen YE2025 4.905m; tick887
+bud_zut_cap_subs_2025,city_zutendaal,2025,5569403,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Kapitaalsubsidies YE2025 5.569m; tick887
+bud_zut_fva_igs_2025,city_zutendaal,2025,18160060,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Fin VA IGS YE2025 18.160m (was 9.148m reval FOI); tick887
+bud_zut_fva_total_2025,city_zutendaal,2025,19065069,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Fin VA total YE2025 19.065m; tick887
+bud_zut_herwaard_2025,city_zutendaal,2025,9018163,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Herwaarderingsreserves YE2025 9.018m (was 6.300); tick887
+bud_zut_cumul_budget_2025,city_zutendaal,2025,5044585,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 5.045m; tick887
+bud_zut_bbr_2025,city_zutendaal,2025,5044585,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Beschikbaar budgettair resultaat YE2025 5.045m; tick887
+bud_zut_expl_rec_2025,city_zutendaal,2025,15981401,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Exploitatieontvangsten 15.981m 2025; tick887
+bud_zut_expl_exp_2025,city_zutendaal,2025,12578390,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Exploitatieuitgaven 12.578m 2025; tick887
+bud_zut_expl_saldo_2025,city_zutendaal,2025,3403011,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Exploitatiesaldo +3.403m 2025; tick887
+bud_zut_invest_exp_2025,city_zutendaal,2025,1935454,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Investeringsuitgaven 1.935m 2025; tick887
+bud_zut_invest_rec_2025,city_zutendaal,2025,917065,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Investeringsontvangsten 0.917m 2025; tick887
+bud_zut_invest_saldo_2025,city_zutendaal,2025,-1018389,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Investeringssaldo -1.018m 2025; tick887
+bud_zut_fin_saldo_2025,city_zutendaal,2025,-384434,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Financieringssaldo -0.384m 2025; tick887
+bud_zut_budget_result_2025,city_zutendaal,2025,2000188,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Budgettair resultaat boekjaar +2.000m 2025; tick887
+bud_zut_afm_2025,city_zutendaal,2025,2958693,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Autofinancieringsmarge +2.959m 2025; tick887
+bud_zut_afm_gecorr_2025,city_zutendaal,2025,3130990,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Gecorrigeerde AFM +3.131m 2025; tick887
+bud_zut_pl_2025,city_zutendaal,2025,-870131,,,jaarrekening_realized,src_zutendaal_jr2025,strong,P&L tekort -0.870m 2025 (provisions jump FOI); tick887
+bud_zut_personnel_2025,city_zutendaal,2025,6076936,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Bezoldigingen 6.077m 2025; tick887
+bud_zut_toelagen_2025,city_zutendaal,2025,2893659,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toegestane werkingssubsidies 2.894m 2025; tick887
+bud_zut_toelagen_police_2025,city_zutendaal,2025,1388831,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toelage politiezone 1.389m 2025; tick887
+bud_zut_toelagen_fire_2025,city_zutendaal,2025,324751,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toelage hulpverleningszone 0.325m 2025; tick887
+bud_zut_toelagen_igs_2025,city_zutendaal,2025,434709,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toelage IGS 0.435m 2025; tick887
+bud_zut_toelagen_other_2025,city_zutendaal,2025,654000,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toelagen andere begunstigden 0.654m 2025 FOI; tick887
+bud_zut_ocmw_aid_2025,city_zutendaal,2025,514756,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Individuele hulpverlening OCMW 0.515m 2025; tick887
+bud_zut_fiscal_2025,city_zutendaal,2025,9188288,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Fiscale opbrengsten 9.188m 2025; tick887
+bud_zut_fiscal_ov_2025,city_zutendaal,2025,2910404,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Opcentiemen OV 2.910m 2025; tick887
+bud_zut_fiscal_apb_2025,city_zutendaal,2025,3494051,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Aanvullende PB 3.494m 2025; tick887
+bud_zut_gemeentefonds_2025,city_zutendaal,2025,2293101,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Gemeentefonds 2.293m 2025; tick887
+bud_zut_invest_subs_granted_2025,city_zutendaal,2025,44055,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toegestane investeringssubsidies 0.044m 2025; tick887
+bud_zut_new_loans_2025,city_zutendaal,2025,99665,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Nieuwe leningen/leasings 0.100m 2025; MJP fin rec path ~7.7m FOI; tick887

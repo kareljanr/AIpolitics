@@ -11009,3 +11009,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (bud_wem_*); commitments +4; leaderboard +7; sources +2; entity city_wemmel; FOI **gap_wem_pension_mjp_debt_l5** prio7 ready + draft; raw PDF + key; rq_886=done; spawn **rq_887**; ticks=886
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_887** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@890 in 4
+
+## Tick 887 - 2026-08-06T16:30:00Z
+
+- Unit: **rq_887** (FOI-adjacent residual dual - **Gemeente+OCMW Zutendaal Jaarrekening 2025** + Wemmel dual)
+- Found (strong primary BBC JR2025 214p):
+  - Assets **EUR67.1m** / equity **EUR52.9m** / debt total **EUR14.2m** / fin debt **EUR4.3m** declining (LT **EUR3.8m** / ST due **EUR0.5m**)
+  - New loans **EUR0.10m** / pension **EUR6.7m** (was **EUR4.0m**) / cash **EUR4.9m** / FVA IGS **EUR18.2m** (was **EUR9.1m**) / herwaard **EUR9.0m**
+  - Exploitatie: ontvangsten **EUR16.0m** / uitgaven **EUR12.6m** / saldo **+EUR3.4m**
+  - AFM **+EUR3.0m** (gecorr **+EUR3.1m**) / BBR **EUR5.0m** / budget result **+EUR2.0m** / P&L **-EUR0.87m**
+  - Personnel **EUR6.1m** / toelagen **EUR2.9m** (police **EUR1.4m** / other **EUR0.65m**) / fiscal **EUR9.2m**
+  - Invest **EUR1.9m** / invest-subs **EUR0.04m** / gemeentefonds **EUR2.3m**
+- Dual: Wemmel **EUR86.7m** / AFM **+EUR4.4m** / pension jump + MJP debt ramp (tick886) - not TE-additive
+- Wrote: budgets +38 (bud_zut_*); commitments +4; leaderboard +7; sources +2; entity city_zutendaal; FOI **gap_zut_pension_fva_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_887=done; spawn **rq_888**; ticks=887
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_888** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@890 in 3
