@@ -27033,3 +27033,51 @@ bud_gri_interest_2025,city_grimbergen,2025,1942962,,,bbc_jr_realized,src_grimber
 bud_gri_invest_subs_granted_2025,city_grimbergen,2025,1287425,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toegestane invest-subs 1.29m 2025; tick1064
 bud_gri_agb_loans_granted_2025,city_grimbergen,2025,1499418,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Toegestane leningen AGB 1.50m JUMP FOI 2025; tick1064
 bud_gri_vorderingen_kt_2025,city_grimbergen,2025,9989160,,,bbc_jr_realized,src_grimbergen_jr2025,strong,Vorderingen KT YE2025 9.99m; tick1064
+bud_mei_assets_2025,city_meise,2025,117476114,,,bbc_jr_realized,src_meise_jr2025,strong,Assets YE2025 117.48m JUMP (was 114.49m); tick1065
+bud_mei_equity_2025,city_meise,2025,83728564,,,bbc_jr_realized,src_meise_jr2025,strong,Nettoactief YE2025 83.73m slight JUMP (was 83.47m); tick1065
+bud_mei_debt_total_2025,city_meise,2025,33747550,,,bbc_jr_realized,src_meise_jr2025,strong,Total schulden YE2025 33.75m JUMP (was 31.01m); tick1065
+bud_mei_fin_debt_2025,city_meise,2025,12455113,,,bbc_jr_realized,src_meise_jr2025,strong,Fin debt total YE2025 12.46m DECLINE (was 14.31m T4); tick1065
+bud_mei_fin_debt_lt_2025,city_meise,2025,10577515,,,bbc_jr_realized,src_meise_jr2025,strong,Fin debt LT YE2025 10.58m DECLINE (was 12.46m); tick1065
+bud_mei_fin_debt_st_due_2025,city_meise,2025,1877598,,,bbc_jr_realized,src_meise_jr2025,strong,Fin debt ST due YE2025 1.88m; tick1065
+bud_mei_fin_debt_st_2025,city_meise,2025,0,,,bbc_jr_realized,src_meise_jr2025,strong,Fin debt ST treasury YE2025 0; tick1065
+bud_mei_new_loans_2025,city_meise,2025,0,,,bbc_jr_realized,src_meise_jr2025,strong,Nieuwe leningen/leasings 0; tick1065
+bud_mei_aflossingen_2025,city_meise,2025,1858864,,,bbc_jr_realized,src_meise_jr2025,strong,Periodieke aflossingen 1.86m; tick1065
+bud_mei_cash_2025,city_meise,2025,7384481,,,bbc_jr_realized,src_meise_jr2025,strong,Liquide middelen YE2025 7.38m DROP FOI (was 7.69m); tick1065
+bud_mei_pension_2025,city_meise,2025,12991362,,,bbc_jr_realized,src_meise_jr2025,strong,Pensioenvoorzieningen LT YE2025 12.99m JUMP FOI (was 10.04m +2.95m); tick1065
+bud_mei_cap_subs_2025,city_meise,2025,14209504,,,bbc_jr_realized,src_meise_jr2025,strong,Kapitaalsubsidies YE2025 14.21m JUMP; tick1065
+bud_mei_fva_total_2025,city_meise,2025,12840162,,,bbc_jr_realized,src_meise_jr2025,strong,FVA total YE2025 12.84m; tick1065
+bud_mei_fva_igs_2025,city_meise,2025,10314406,,,bbc_jr_realized,src_meise_jr2025,strong,FVA IGS YE2025 10.31m; tick1065
+bud_mei_leasing_mva_2025,city_meise,2025,3770940,,,bbc_jr_realized,src_meise_jr2025,strong,Leasing MVA YE2025 ~3.77m (1.21+2.56); tick1065
+bud_mei_cumul_budget_2025,city_meise,2025,8102310,,,bbc_jr_realized,src_meise_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 8.10m; tick1065
+bud_mei_bbr_2025,city_meise,2025,6500197,,,bbc_jr_realized,src_meise_jr2025,strong,Beschikbaar budgettair resultaat YE2025 6.50m VERY HIGH FOI; tick1065
+bud_mei_onbeschikbaar_2025,city_meise,2025,1602112,,,bbc_jr_realized,src_meise_jr2025,strong,Onbeschikbare gelden YE2025 1.60m; tick1065
+bud_mei_expl_rec_2025,city_meise,2025,52055603,,,bbc_jr_realized,src_meise_jr2025,strong,Exploitatieontvangsten 52.06m 2025 (J2); tick1065
+bud_mei_expl_exp_2025,city_meise,2025,45395948,,,bbc_jr_realized,src_meise_jr2025,strong,Exploitatieuitgaven 45.40m 2025 (J2); tick1065
+bud_mei_expl_saldo_2025,city_meise,2025,6659655,,,bbc_jr_realized,src_meise_jr2025,strong,Exploitatiesaldo +6.66m VERY STRONG 2025; tick1065
+bud_mei_invest_exp_2025,city_meise,2025,8707265,,,bbc_jr_realized,src_meise_jr2025,strong,Investeringsuitgaven J2 8.71m vs MJP 18.91m MASSIVE UNDERSPEND FOI; tick1065
+bud_mei_invest_rec_2025,city_meise,2025,3731133,,,bbc_jr_realized,src_meise_jr2025,strong,Investeringsontvangsten J2 3.73m; tick1065
+bud_mei_invest_saldo_2025,city_meise,2025,-4976132,,,bbc_jr_realized,src_meise_jr2025,strong,Investeringssaldo -4.98m 2025; tick1065
+bud_mei_fin_saldo_2025,city_meise,2025,-1848156,,,bbc_jr_realized,src_meise_jr2025,strong,Financieringssaldo -1.85m 2025; tick1065
+bud_mei_budget_result_2025,city_meise,2025,-164634,,,bbc_jr_realized,src_meise_jr2025,strong,Budgettair resultaat boekjaar -0.165m slight NEG FOI 2025; tick1065
+bud_mei_afm_2025,city_meise,2025,4811499,,,bbc_jr_realized,src_meise_jr2025,strong,Autofinancieringsmarge +4.81m VERY STRONG 2025; tick1065
+bud_mei_afm_gecorr_2025,city_meise,2025,5525245,,,bbc_jr_realized,src_meise_jr2025,strong,Gecorrigeerde AFM +5.53m 2025; tick1065
+bud_mei_pl_2025,city_meise,2025,-2344460,,,bbc_jr_realized,src_meise_jr2025,strong,P&L tekort -2.34m FOI 2025; tick1065
+bud_mei_personnel_2025,city_meise,2025,28643251,,,bbc_jr_realized,src_meise_jr2025,strong,Bezoldigingen 28.64m JUMP 2025 (was 26.22m; onderwijs other 8.83m); tick1065
+bud_mei_personnel_onderwijs_other_2025,city_meise,2025,8827487,,,bbc_jr_realized,src_meise_jr2025,strong,Onderwijzend personeel ten laste van andere 8.83m 2025; tick1065
+bud_mei_toelagen_2025,city_meise,2025,6243157,,,bbc_jr_realized,src_meise_jr2025,strong,Toegestane werkingssubsidies 6.24m JUMP FOI 2025; tick1065
+bud_mei_toelagen_police_2025,city_meise,2025,3420300,,,bbc_jr_realized,src_meise_jr2025,strong,Toelage politiezone 3.42m FOI 2025; tick1065
+bud_mei_toelagen_fire_2025,city_meise,2025,1227337,,,bbc_jr_realized,src_meise_jr2025,strong,Toelage hulpverleningszone 1.23m 2025; tick1065
+bud_mei_toelagen_igs_2025,city_meise,2025,816067,,,bbc_jr_realized,src_meise_jr2025,strong,Toelage IGS 0.816m JUMP FOI (afval 0.810); tick1065
+bud_mei_toelagen_afval_2025,city_meise,2025,809923,,,bbc_jr_realized,src_meise_jr2025,strong,Toelage ophalen/verwerken afval 0.810m 2025 FOI; tick1065
+bud_mei_toelagen_eredienst_2025,city_meise,2025,228547,,,bbc_jr_realized,src_meise_jr2025,strong,Toelage eredienst 0.229m 2025; tick1065
+bud_mei_toelagen_other_2025,city_meise,2025,489812,,,bbc_jr_realized,src_meise_jr2025,strong,Toelagen andere 0.490m FOI 2025; tick1065
+bud_mei_ocmw_aid_2025,city_meise,2025,950456,,,bbc_jr_realized,src_meise_jr2025,strong,Individuele hulpverlening OCMW 0.950m 2025; tick1065
+bud_mei_ocmw_gap_2025,city_meise,2025,3327105,,,bbc_jr_realized,src_meise_jr2025,strong,OCMW structural gap expl 9.80-6.47=3.33m HIGH FOI; tick1065
+bud_mei_ocmw_cover_2025,city_meise,2025,4062823,,,bbc_jr_realized,src_meise_jr2025,strong,Tussenkomst gemeente in OCMW 4.06m FULL FOI; tick1065
+bud_mei_fiscal_2025,city_meise,2025,24673501,,,bbc_jr_realized,src_meise_jr2025,strong,Fiscale opbrengsten en boetes 24.67m 2025; tick1065
+bud_mei_fiscal_ov_2025,city_meise,2025,8872249,,,bbc_jr_realized,src_meise_jr2025,strong,Opcentiemen OV 8.87m 2025; tick1065
+bud_mei_fiscal_pb_2025,city_meise,2025,12690353,,,bbc_jr_realized,src_meise_jr2025,strong,Aanvullende PB 12.69m 2025; tick1065
+bud_mei_gemeentefonds_2025,city_meise,2025,4329557,,,bbc_jr_realized,src_meise_jr2025,strong,Gemeentefonds 4.33m 2025; tick1065
+bud_mei_interest_2025,city_meise,2025,453720,,,bbc_jr_realized,src_meise_jr2025,strong,Rente leningen 0.454m 2025; tick1065
+bud_mei_invest_subs_granted_2025,city_meise,2025,85852,,,bbc_jr_realized,src_meise_jr2025,strong,Toegestane invest-subs 0.086m 2025; tick1065
+bud_mei_vorderingen_kt_2025,city_meise,2025,6274855,,,bbc_jr_realized,src_meise_jr2025,strong,Vorderingen KT YE2025 6.27m JUMP; tick1065

@@ -14237,3 +14237,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1065** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1065 - 2026-08-10T21:45:00Z
+
+- Unit: **rq_1065** (FOI-adjacent residual dual - **Lokaal Bestuur Meise Jaarrekening 2025** + Grimbergen dual residual)
+- Found (strong primary BBC JR2025 PDF; GR/RMW 19.05.2026 pub 22.05.2026; print 17.04.2026; KBO GE 0207.511.011 / OCMW 0212.197.002; Tramlaan 8 1861; AD Caroline De Ridder FD Liesbeth Scheers BM Gerda Van den Brande; GE+OCMW):
+  - Assets **EUR117.48m JUMP** / equity **EUR83.73m** / debt total **EUR33.75m JUMP** / fin debt **EUR12.46m DECLINE** (LT **EUR10.58m** / ST due **EUR1.88m**; was **EUR14.31m**)
+  - New loans **EUR0** / repayments **EUR1.86m**
+  - Cash **EUR7.38m DROP FOI** (was **EUR7.69m**) / pension **EUR12.99m JUMP FOI** (was **EUR10.04m**, +**EUR2.95m**) / FVA IGS **EUR10.31m** / leasing MVA **EUR3.77m**
+  - Exploitatie: ontvangsten **EUR52.06m** / uitgaven **EUR45.40m** / saldo **+EUR6.66m VERY STRONG**
+  - AFM **+EUR4.81m VERY STRONG** (gecorr **+EUR5.53m**) / BBR **EUR6.50m VERY HIGH FOI** / budget **EUR-0.165m slight NEG FOI** / cum BR **EUR8.10m** / P&L **EUR-2.34m**
+  - Personnel **EUR28.64m JUMP** / toelagen **EUR6.24m FOI** (police **EUR3.42m** / fire **EUR1.23m** / IGS-afval **EUR0.81m** / eredienst **EUR0.23m**)
+  - Invest **EUR8.71m** vs MJP **EUR18.91m MASSIVE UNDERSPEND FOI**
+  - **OCMW structural gap EUR3.33m** / **cover EUR4.06m FULL FOI**
+- Dual: Grimbergen assets **EUR225.63m** / BBR **EUR-7.67m NEG** / loans **EUR10m** (tick1064) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Ronse city / Sint-Pieters-Leeuw residual next; progress@1070
+- Wrote: budgets +48 (bud_mei_*); commitments +7; leaderboard +8; sources +1; entity city_meise; FOI **gap_mei_pension_ocmw_bbr_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1065=done; spawn **rq_1066**; ticks=1065
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1066** residual dual L5; deferred **rq_116**; progress@1070
+
