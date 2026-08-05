@@ -13580,3 +13580,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1032** residual dual L5 (**Rijkevorsel reserved** / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / other); deferred **rq_116**; progress@1040 in 8
 
+
+### Tick 1032 - 2026-08-10T05:15:00Z
+
+- Unit: **rq_1032** (FOI-adjacent residual dual - **Gemeente+OCMW Rijkevorsel Jaarrekening 2025** + Merksplas dual residual)
+- Found (strong primary BBC JR2025 111p; KBO 0207.504.576 / OCMW 0212.210.759; AD Bart Adams; FD Carolien Martens; Molenstraat 5 / Prinsenpad 27; GR/OCMW 22.06.2026):
+  - Assets **EUR81.52m JUMP** / equity **EUR68.84m** / debt total **EUR12.68m** / fin debt **EUR3.89m DECLINE** (was **EUR4.26m**; LT **EUR3.23m** / ST due **EUR0.662m**)
+  - New loans **EUR0.315m LOW** lease-only / MJP bank planned **EUR11.00m NOT taken FOI** / repayments **EUR0.675m**
+  - Cash **EUR2.55m DROP HIGH FOI** (was **EUR6.41m**) / pension **EUR5.44m JUMP FOI** (was **EUR4.19m**) / FVA IGS **EUR8.58m** / leasing MVA **EUR1.16m**
+  - Exploitatie: ontvangsten **EUR25.87m** / uitgaven **EUR22.48m** / saldo **+EUR3.39m STRONG**
+  - AFM **+EUR2.75m STRONG** (gecorr **+EUR3.09m**) / BBR **EUR2.55m** / budget **-EUR3.90m NEG HIGH FOI** (invest-driven) / cum BR **EUR2.55m DROP** (was **EUR6.45m**) / P&L **-EUR0.013m** flip
+  - Personnel **EUR12.57m** (edu pass-through **EUR1.54m**) / toelagen **EUR3.46m JUMP FOI** (police **EUR1.19m** / fire **EUR0.720m** / other **EUR1.34m JUMP** / IGS **EUR0.175m**)
+  - Toegestane leningen **EUR0.375m JUMP FOI** / invest **EUR6.81m** vs MJP **EUR17.28m UNDERSPEND HIGH** / buildings invest **EUR4.40m** / invest-subs **EUR0.240m**
+  - **OCMW cover EUR1.47m FULL-ish FOI** vs gap **-EUR1.15m** / OCMW equity cum **-EUR0.957m IMPROVING** / OCMW P&L **-EUR1.37m**
+- Dual: Merksplas assets **EUR98.94m** / new loans **EUR6.25m** / P&L **-EUR1.92m** (tick1031) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Vorselaar docs-only; Oosterzele / Berlaar / Nijlen / Essen / Beerse residual next optional
+- Wrote: budgets +55 (bud_rkv_*); commitments +6; leaderboard +8; sources +1; entity city_rijkevorsel; FOI **gap_rkv_budget_cash_pension_toelagen_l5** prio9 ready + draft; key only (PDF ~4.8MB not stored in git); rq_1032=done; spawn **rq_1033**; ticks=1032
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1033** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 7
+

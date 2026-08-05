@@ -25333,3 +25333,58 @@ bud_mks_erfgoed_invest_2025,city_merksplas,2025,4999333,,,bbc_jr_realized,src_me
 bud_mks_agb_bbr_2025,city_merksplas,2025,-302019,,,bbc_jr_realized,src_merksplas_jr2025,strong,AGB BBR -0.302m NEG HIGH dual FOI; tick1031
 bud_mks_agb_afm_2025,city_merksplas,2025,36028,,,bbc_jr_realized,src_merksplas_jr2025,strong,AGB AFM +0.036m dual; tick1031
 bud_mks_agb_afm_corr_2025,city_merksplas,2025,137028,,,bbc_jr_realized,src_merksplas_jr2025,strong,AGB gecorr AFM +0.137m dual; tick1031
+bud_rkv_assets_2025,city_rijkevorsel,2025,81516520,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Assets YE2025 81.52m JUMP (was 80.07m); tick1032
+bud_rkv_equity_2025,city_rijkevorsel,2025,68838396,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Nettoactief YE2025 68.84m JUMP (was 67.90m); tick1032
+bud_rkv_debt_total_2025,city_rijkevorsel,2025,12678124,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Total schulden YE2025 12.68m JUMP (was 12.17m); tick1032
+bud_rkv_fin_debt_2025,city_rijkevorsel,2025,3894452,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Fin debt total YE2025 3.89m DECLINE (was 4.26m T4); tick1032
+bud_rkv_fin_debt_lt_2025,city_rijkevorsel,2025,3232403,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Fin debt LT YE2025 3.23m DECLINE; tick1032
+bud_rkv_fin_debt_st_due_2025,city_rijkevorsel,2025,662049,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Fin debt ST due YE2025 0.662m; tick1032
+bud_rkv_new_loans_2025,city_rijkevorsel,2025,314610,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Nieuwe leningen 2025 0.315m LOW lease-only (MJP bank 11.00m NOT taken FOI); tick1032
+bud_rkv_aflossingen_2025,city_rijkevorsel,2025,675448,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Periodieke aflossingen 2025 0.675m; tick1032
+bud_rkv_cash_2025,city_rijkevorsel,2025,2547933,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Liquide middelen YE2025 2.55m DROP HIGH FOI (was 6.41m); tick1032
+bud_rkv_pension_2025,city_rijkevorsel,2025,5441739,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.44m JUMP HIGH FOI (was 4.19m); tick1032
+bud_rkv_cap_subs_2025,city_rijkevorsel,2025,6627730,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Kapitaalsubsidies YE2025 6.63m; tick1032
+bud_rkv_fva_total_2025,city_rijkevorsel,2025,9160776,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,FVA total YE2025 9.16m; tick1032
+bud_rkv_fva_igs_2025,city_rijkevorsel,2025,8577702,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,FVA IGS YE2025 8.58m; tick1032
+bud_rkv_leasing_mva_2025,city_rijkevorsel,2025,1164357,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Leasing MVA YE2025 1.16m; tick1032
+bud_rkv_expl_rec_2025,city_rijkevorsel,2025,25868235,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Exploitatieontvangsten 25.87m; tick1032
+bud_rkv_expl_exp_2025,city_rijkevorsel,2025,22481580,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Exploitatieuitgaven 22.48m; tick1032
+bud_rkv_expl_saldo_2025,city_rijkevorsel,2025,3386655,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Exploitatiesaldo +3.39m STRONG; tick1032
+bud_rkv_invest_exp_2025,city_rijkevorsel,2025,6809900,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Investeringsuitgaven 6.81m vs MJP 17.28m UNDERSPEND HIGH FOI; tick1032
+bud_rkv_invest_rec_2025,city_rijkevorsel,2025,216557,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Investeringsontvangsten 0.217m; tick1032
+bud_rkv_invest_saldo_2025,city_rijkevorsel,2025,-6593342,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Investeringssaldo -6.59m; tick1032
+bud_rkv_mjp_invest_planned_2025,city_rijkevorsel,2025,17280153,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,MJP invest planned 17.28m vs realized 6.81m underspend HIGH FOI; tick1032
+bud_rkv_mjp_bank_loans_planned_2025,city_rijkevorsel,2025,11000000,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,MJP bank loans planned 11.00m 2025 NOT taken (realized new loans only 0.315m lease) FOI; tick1032
+bud_rkv_afm_2025,city_rijkevorsel,2025,2754132,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,AFM +2.75m STRONG; tick1032
+bud_rkv_afm_corr_2025,city_rijkevorsel,2025,3089157,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Gecorrigeerde AFM +3.09m STRONG; tick1032
+bud_rkv_bbr_2025,city_rijkevorsel,2025,2548495,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,BBR beschikbaar +2.55m; tick1032
+bud_rkv_budget_result_2025,city_rijkevorsel,2025,-3899809,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Budgettair resultaat -3.90m NEG HIGH FOI (invest-driven); tick1032
+bud_rkv_cum_br_2025,city_rijkevorsel,2025,2548495,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Gecumuleerd budgettair resultaat +2.55m DROP (was 6.45m); tick1032
+bud_rkv_pnl_2025,city_rijkevorsel,2025,-13166,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,P&L -0.013m near-zero flip FOI (was +1.80m); tick1032
+bud_rkv_ge_expl_exp_2025,city_rijkevorsel,2025,16515461,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,GE exploitatieuitgaven 16.52m; tick1032
+bud_rkv_ge_expl_rec_2025,city_rijkevorsel,2025,21056884,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,GE exploitatieontvangsten 21.06m; tick1032
+bud_rkv_ocmw_expl_exp_2025,city_rijkevorsel,2025,5966120,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW exploitatieuitgaven 5.97m FOI; tick1032
+bud_rkv_ocmw_expl_rec_2025,city_rijkevorsel,2025,4811351,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW exploitatieontvangsten 4.81m; tick1032
+bud_rkv_ocmw_expl_gap_2025,city_rijkevorsel,2025,-1154768,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW expl gap -1.15m HIGH FOI residual; tick1032
+bud_rkv_ocmw_cover_2025,city_rijkevorsel,2025,1469911,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW cover tussenkomst 1.47m FULL-ish FOI vs gap 1.15m; tick1032
+bud_rkv_ocmw_equity_cum_2025,city_rijkevorsel,2025,-956567,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW equity cum -0.957m IMPROVING (was -1.06m); tick1032
+bud_rkv_ocmw_pnl_2025,city_rijkevorsel,2025,-1371054,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW P&L -1.37m FOI; tick1032
+bud_rkv_ge_equity_cum_2025,city_rijkevorsel,2025,24001969,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,GE equity cum +24.00m; tick1032
+bud_rkv_ge_pnl_2025,city_rijkevorsel,2025,1357888,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,GE P&L +1.36m; tick1032
+bud_rkv_equity_cum_2025,city_rijkevorsel,2025,23045402,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Consol equity cum +23.05m; tick1032
+bud_rkv_personnel_2025,city_rijkevorsel,2025,12565943,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Bezoldigingen 12.57m incl education pass-through 1.54m; tick1032
+bud_rkv_edu_pass_through_2025,city_rijkevorsel,2025,1540135,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.54m; tick1032
+bud_rkv_toelagen_2025,city_rijkevorsel,2025,3459334,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toegestane werkingssubsidies 3.46m JUMP FOI residual; tick1032
+bud_rkv_toelagen_police_2025,city_rijkevorsel,2025,1190475,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toelage politiezone 1.19m; tick1032
+bud_rkv_toelagen_fire_2025,city_rijkevorsel,2025,720089,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toelage hulpverleningszone 0.720m; tick1032
+bud_rkv_toelagen_igs_2025,city_rijkevorsel,2025,174668,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toelage IGS 0.175m FOI; tick1032
+bud_rkv_toelagen_other_2025,city_rijkevorsel,2025,1338619,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toelage andere begunstigden 1.34m JUMP HIGH FOI (was 0.774m); tick1032
+bud_rkv_toegestane_leningen_2025,city_rijkevorsel,2025,375208,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toegestane leningen 0.375m JUMP FOI residual; tick1032
+bud_rkv_ocmw_aid_2025,city_rijkevorsel,2025,608075,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,OCMW individuele hulp 0.608m; tick1032
+bud_rkv_fiscal_2025,city_rijkevorsel,2025,11418273,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Fiscale opbrengsten 11.42m; tick1032
+bud_rkv_fiscal_ov_2025,city_rijkevorsel,2025,4985304,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Opcentiemen OV 4.99m; tick1032
+bud_rkv_fiscal_pb_2025,city_rijkevorsel,2025,4734729,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Aanvullende PB 4.73m; tick1032
+bud_rkv_gemeentefonds_2025,city_rijkevorsel,2025,3894666,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Gemeentefonds 3.89m; tick1032
+bud_rkv_interest_2025,city_rijkevorsel,2025,139171,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Intresten op schulden 0.139m; tick1032
+bud_rkv_invest_subs_granted_2025,city_rijkevorsel,2025,240086,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toegestane invest-subs 0.240m (police 0.089 fire 0.152); tick1032
+bud_rkv_buildings_invest_2025,city_rijkevorsel,2025,4404389,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Terreinen en gebouwen invest 4.40m JUMP FOI; tick1032
