@@ -23724,3 +23724,50 @@ bud_gis_fin_opbr_2025,city_gistel,2025,1501418,,,realized,src_gistel_jr2025,stro
 bud_gis_fin_costs_2025,city_gistel,2025,299579,,,realized,src_gistel_jr2025,strong,Financiele kosten 0.300m; tick1001
 bud_gis_invest_subs_hvz_2025,city_gistel,2025,108985,,,realized,src_gistel_jr2025,strong,Invest-subs HVZ 0.109m; tick1001
 bud_gis_new_bank_loan_2025,city_gistel,2025,1500000,,,realized,src_gistel_jr2025,strong,Nieuwe banklening 1.50m; tick1001
+bud_dha_assets_2025,city_de_haan,2025,150723610,,,realized,src_dehaan_jr2025,strong,Assets YE2025 150.72m (was 147.50m); tick1002
+bud_dha_equity_2025,city_de_haan,2025,116904013,,,realized,src_dehaan_jr2025,strong,Nettoactief YE2025 116.90m (was 114.23m); tick1002
+bud_dha_debt_total_2025,city_de_haan,2025,33819596,,,realized,src_dehaan_jr2025,strong,Total schulden YE2025 33.82m (was 33.27m); tick1002
+bud_dha_fin_debt_2025,city_de_haan,2025,12527697,,,realized,src_dehaan_jr2025,strong,Fin debt total YE2025 12.53m DECLINING (was 12.90m); tick1002
+bud_dha_fin_debt_lt_2025,city_de_haan,2025,11006758,,,realized,src_dehaan_jr2025,strong,Fin debt LT YE2025 11.01m; tick1002
+bud_dha_fin_debt_st_due_2025,city_de_haan,2025,1520939,,,realized,src_dehaan_jr2025,strong,Fin debt ST due YE2025 1.52m; tick1002
+bud_dha_new_loans_2025,city_de_haan,2025,1228118,,,realized,src_dehaan_jr2025,strong,Nieuwe leningen 2025 1.23m; tick1002
+bud_dha_aflossingen_2025,city_de_haan,2025,1584416,,,realized,src_dehaan_jr2025,strong,Periodieke aflossingen 2025 1.58m; tick1002
+bud_dha_cash_2025,city_de_haan,2025,34540861,,,realized,src_dehaan_jr2025,strong,Liquide middelen YE2025 34.54m HIGH JUMP (was 33.65m); tick1002
+bud_dha_pension_2025,city_de_haan,2025,14673056,,,realized,src_dehaan_jr2025,strong,Pensioenvoorzieningen LT YE2025 14.67m RISING (was 13.75m); tick1002
+bud_dha_cap_subs_2025,city_de_haan,2025,11102705,,,realized,src_dehaan_jr2025,strong,Kapitaalsubsidies YE2025 11.10m; tick1002
+bud_dha_fva_total_2025,city_de_haan,2025,30163446,,,realized,src_dehaan_jr2025,strong,FVA total YE2025 30.16m; tick1002
+bud_dha_fva_igs_2025,city_de_haan,2025,29999118,,,realized,src_dehaan_jr2025,strong,FVA IGS YE2025 30.00m; tick1002
+bud_dha_leasing_mva_2025,city_de_haan,2025,9152078,,,realized,src_dehaan_jr2025,strong,Leasing MVA YE2025 9.15m; tick1002
+bud_dha_expl_rec_2025,city_de_haan,2025,40162482,,,realized,src_dehaan_jr2025,strong,Exploitatieontvangsten 40.16m; tick1002
+bud_dha_expl_exp_2025,city_de_haan,2025,33417849,,,realized,src_dehaan_jr2025,strong,Exploitatieuitgaven 33.42m; tick1002
+bud_dha_expl_saldo_2025,city_de_haan,2025,6744634,,,realized,src_dehaan_jr2025,strong,Exploitatiesaldo +6.74m STRONG; tick1002
+bud_dha_invest_exp_2025,city_de_haan,2025,5958379,,,realized,src_dehaan_jr2025,strong,Investeringsuitgaven 5.96m vs MJP 7.82m underspend FOI; tick1002
+bud_dha_invest_rec_2025,city_de_haan,2025,1200763,,,realized,src_dehaan_jr2025,strong,Investeringsontvangsten 1.20m; tick1002
+bud_dha_invest_saldo_2025,city_de_haan,2025,-4757617,,,realized,src_dehaan_jr2025,strong,Investeringssaldo -4.76m; tick1002
+bud_dha_mjp_invest_exp_2025,city_de_haan,2025,7819873,,,realized,src_dehaan_jr2025,strong,MJP invest uitgaven 7.82m; tick1002
+bud_dha_afm_2025,city_de_haan,2025,5396434,,,realized,src_dehaan_jr2025,strong,AFM +5.40m STRONG; tick1002
+bud_dha_afm_corr_2025,city_de_haan,2025,5948691,,,realized,src_dehaan_jr2025,strong,Gecorrigeerde AFM +5.95m; tick1002
+bud_dha_bbr_2025,city_de_haan,2025,32730464,,,realized,src_dehaan_jr2025,strong,Beschikbaar BBR 32.73m VERY HIGH; tick1002
+bud_dha_bbr_cum_2025,city_de_haan,2025,32730464,,,realized,src_dehaan_jr2025,strong,Gecumuleerd budgettair resultaat 32.73m; tick1002
+bud_dha_budget_result_2025,city_de_haan,2025,1629117,,,realized,src_dehaan_jr2025,strong,Budgettair resultaat boekjaar +1.63m; tick1002
+bud_dha_pnl_result_2025,city_de_haan,2025,1937058,,,realized,src_dehaan_jr2025,strong,P&L +1.94m STRONG; tick1002
+bud_dha_pnl_ge_2025,city_de_haan,2025,3513851,,,realized,src_dehaan_jr2025,strong,GE P&L +3.51m; tick1002
+bud_dha_pnl_ocmw_2025,city_de_haan,2025,-1576793,,,realized,src_dehaan_jr2025,strong,OCMW P&L -1.58m FOI; tick1002
+bud_dha_ocmw_cover_2025,city_de_haan,2025,1713222,,,realized,src_dehaan_jr2025,strong,OCMW cover 1.71m FULL-ish vs OCMW -1.58m FOI; tick1002
+bud_dha_ocmw_cum_deficit_2025,city_de_haan,2025,-3311764,,,realized,src_dehaan_jr2025,strong,OCMW cum tekort YE2025 -3.31m IMPROVING (was -3.45m); tick1002
+bud_dha_personnel_2025,city_de_haan,2025,16408368,,,realized,src_dehaan_jr2025,strong,Bezoldigingen 16.41m; tick1002
+bud_dha_toelagen_2025,city_de_haan,2025,7817954,,,realized,src_dehaan_jr2025,strong,Toegestane werkingssubsidies 7.82m; tick1002
+bud_dha_toelagen_police_2025,city_de_haan,2025,6038500,,,realized,src_dehaan_jr2025,strong,Toelage politiezone 6.04m; tick1002
+bud_dha_toelagen_fire_2025,city_de_haan,2025,1024651,,,realized,src_dehaan_jr2025,strong,Toelage hulpverleningszone 1.02m; tick1002
+bud_dha_toelagen_igs_2025,city_de_haan,2025,399276,,,realized,src_dehaan_jr2025,strong,Toelage IGS 0.399m; tick1002
+bud_dha_toelagen_eredienst_2025,city_de_haan,2025,51533,,,realized,src_dehaan_jr2025,strong,Toelage eredienst 0.052m; tick1002
+bud_dha_toelagen_other_2025,city_de_haan,2025,303994,,,realized,src_dehaan_jr2025,strong,Toelage andere begunstigden 0.304m; tick1002
+bud_dha_ocmw_aid_2025,city_de_haan,2025,1797046,,,realized,src_dehaan_jr2025,strong,OCMW individuele hulp 1.80m; tick1002
+bud_dha_fiscal_2025,city_de_haan,2025,27014831,,,realized,src_dehaan_jr2025,strong,Fiscale opbrengsten 27.01m; tick1002
+bud_dha_fiscal_ov_2025,city_de_haan,2025,12405996,,,realized,src_dehaan_jr2025,strong,Opcentiemen OV 12.41m; tick1002
+bud_dha_fiscal_pb_2025,city_de_haan,2025,3991933,,,realized,src_dehaan_jr2025,strong,Aanvullende PB 3.99m; tick1002
+bud_dha_fiscal_other_2025,city_de_haan,2025,10401369,,,realized,src_dehaan_jr2025,strong,Andere belastingen en boetes 10.40m FOI (2de verblijven class coastal); tick1002
+bud_dha_gemeentefonds_2025,city_de_haan,2025,4535841,,,realized,src_dehaan_jr2025,strong,Gemeentefonds 4.54m; tick1002
+bud_dha_fin_opbr_2025,city_de_haan,2025,1614727,,,realized,src_dehaan_jr2025,strong,Financiele opbrengsten 1.61m; tick1002
+bud_dha_fin_costs_2025,city_de_haan,2025,323128,,,realized,src_dehaan_jr2025,strong,Financiele kosten 0.323m; tick1002
+bud_dha_invest_subs_granted_2025,city_de_haan,2025,706432,,,realized,src_dehaan_jr2025,strong,Toegestane investeringssubsidies 0.706m; tick1002
