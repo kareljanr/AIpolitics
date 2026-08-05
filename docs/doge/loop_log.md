@@ -13173,3 +13173,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1011** residual dual L5 (Torhout / Lebbeke / Temse / Buggenhout / other); deferred **rq_116**; progress@1020 in 10
 
+
+### Tick 1011 - 2026-08-09T18:45:00Z
+
+- Unit: **rq_1011** (FOI-adjacent residual dual - **Gemeente+OCMW Wetteren Jaarrekening 2025** + Hamme dual residual)
+- Found (strong primary BBC JR2025 138p beleidsrapport; KBO 0207.447.366 / OCMW 0212.182.649; FD Karen Mertens; AD Ward Hollebosch; Rode Heuvel 1; NIS 42025):
+  - Assets **EUR142.82m** / equity **EUR87.14m** / debt total **EUR55.67m** / fin debt **EUR27.43m** (**DECLINING** from **EUR28.13m**; LT **EUR25.91m** / ST due **EUR1.52m**)
+  - New loans **EUR0.768m** / repayments **EUR1.47m**
+  - Cash **EUR9.08m DROP** (was **EUR10.19m**) / pension **EUR16.36m JUMP** (was **EUR14.88m FOI**) / leasing MVA **EUR2.89m**
+  - FVA EVA **EUR2.80m** / FVA IGS **EUR19.14m** / cap subs **EUR16.51m**
+  - Exploitatie: ontvangsten **EUR69.03m** / uitgaven **EUR63.40m** / saldo **+EUR5.64m STRONG**
+  - AFM **+EUR4.56m STRONG** (gecorr **+EUR3.78m**) / BBR **EUR8.61m HIGH** / budget **-EUR2.44m NEG FOI** / P&L **-EUR0.971m** (GE **+EUR6.00m** / OCMW **-EUR6.98m FOI**)
+  - Personnel **EUR36.08m** / toelagen **EUR10.23m FOI** (police **EUR3.65m DROP** / fire **EUR1.60m JUMP** / AGB **EUR1.50m DROP** / IGS **EUR2.75m JUMP** / other **EUR0.509m**)
+  - Invest **EUR8.92m** vs MJP **EUR11.87m UNDERSPEND FOI** / **OCMW cover EUR6.86m FULL-ish FOI** / OCMW cum **-EUR5.89m WORSENING** (was -5.78m)
+  - AGB consol AFM **-EUR0.202m NEG dual** / BBR **EUR1.15m**
+- Dual: Hamme **EUR167.38m** / fin debt **EUR39.78m JUMP** / +bank **EUR9.00m** (tick1010) - not TE-additive
+- Note: Torhout still news-only; Lebbeke 122MB documentatie skip; Stekene GR-OCMW PDF / Temse / Buggenhout residual next optional
+- Wrote: budgets +58 (bud_wet_*); commitments +6; leaderboard +8; sources +1; entity city_wetteren; FOI **gap_wet_budget_ocmw_toelagen_pension_l5** prio8 ready + draft; key only (PDF ~9.3MB not stored in git); rq_1011=done; spawn **rq_1012**; ticks=1011
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1012** residual dual L5 (Torhout / Stekene / Temse / Buggenhout / other); deferred **rq_116**; progress@1020 in 9
+

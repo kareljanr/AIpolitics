@@ -24168,3 +24168,61 @@ bud_hmm_agb_bbr_2025,city_hamme,2025,1730890,,,bbc_jr_realized,src_hamme_jr2025,
 bud_hmm_ge_expl_exp_2025,city_hamme,2025,32575424,,,bbc_jr_realized,src_hamme_jr2025,strong,GE exploitatieuitgaven J3 32.58m; tick1010
 bud_hmm_ocmw_expl_exp_2025,city_hamme,2025,22210831,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW exploitatieuitgaven J3 22.21m FOI; tick1010
 bud_hmm_ocmw_expl_rec_2025,city_hamme,2025,18893952,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW exploitatieontvangsten J3 18.89m; tick1010
+bud_wet_assets_2025,city_wetteren,2025,142818344,,,bbc_jr_realized,src_wetteren_jr2025,strong,Assets YE2025 142.82m (was 141.21m); tick1011
+bud_wet_equity_2025,city_wetteren,2025,87143598,,,bbc_jr_realized,src_wetteren_jr2025,strong,Nettoactief YE2025 87.14m (was 87.24m); tick1011
+bud_wet_debt_total_2025,city_wetteren,2025,55674746,,,bbc_jr_realized,src_wetteren_jr2025,strong,Total schulden YE2025 55.67m (was 53.97m); tick1011
+bud_wet_fin_debt_2025,city_wetteren,2025,27428663,,,bbc_jr_realized,src_wetteren_jr2025,strong,Fin debt total YE2025 27.43m DECLINING (was 28.13m T4); tick1011
+bud_wet_fin_debt_lt_2025,city_wetteren,2025,25907528,,,bbc_jr_realized,src_wetteren_jr2025,strong,Fin debt LT YE2025 25.91m DECLINING; tick1011
+bud_wet_fin_debt_st_due_2025,city_wetteren,2025,1521113,,,bbc_jr_realized,src_wetteren_jr2025,strong,Fin debt ST due YE2025 1.52m; tick1011
+bud_wet_new_loans_2025,city_wetteren,2025,767832,,,bbc_jr_realized,src_wetteren_jr2025,strong,Nieuwe leningen 2025 0.768m (lease/other FOI); tick1011
+bud_wet_aflossingen_2025,city_wetteren,2025,1467989,,,bbc_jr_realized,src_wetteren_jr2025,strong,Periodieke aflossingen 2025 1.47m; tick1011
+bud_wet_cash_2025,city_wetteren,2025,9075544,,,bbc_jr_realized,src_wetteren_jr2025,strong,Liquide middelen YE2025 9.08m DROP (was 10.19m FOI); tick1011
+bud_wet_pension_2025,city_wetteren,2025,16360372,,,bbc_jr_realized,src_wetteren_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.36m JUMP (was 14.88m FOI); tick1011
+bud_wet_cap_subs_2025,city_wetteren,2025,16514737,,,bbc_jr_realized,src_wetteren_jr2025,strong,Kapitaalsubsidies YE2025 16.51m; tick1011
+bud_wet_fva_total_2025,city_wetteren,2025,24254895,,,bbc_jr_realized,src_wetteren_jr2025,strong,FVA total YE2025 24.25m; tick1011
+bud_wet_fva_eva_2025,city_wetteren,2025,2801086,,,bbc_jr_realized,src_wetteren_jr2025,strong,FVA EVA/AGB YE2025 2.80m; tick1011
+bud_wet_fva_igs_2025,city_wetteren,2025,19135161,,,bbc_jr_realized,src_wetteren_jr2025,strong,FVA IGS YE2025 19.14m; tick1011
+bud_wet_fva_ocmw_assoc_2025,city_wetteren,2025,1980000,,,bbc_jr_realized,src_wetteren_jr2025,strong,FVA OCMW-verenigingen YE2025 1.98m; tick1011
+bud_wet_fva_other_2025,city_wetteren,2025,338648,,,bbc_jr_realized,src_wetteren_jr2025,strong,Andere FVA YE2025 0.339m; tick1011
+bud_wet_leasing_mva_2025,city_wetteren,2025,2894694,,,bbc_jr_realized,src_wetteren_jr2025,strong,Leasing MVA YE2025 2.89m DROP (was 3.70m); tick1011
+bud_wet_expl_rec_2025,city_wetteren,2025,69034027,,,bbc_jr_realized,src_wetteren_jr2025,strong,Exploitatieontvangsten 69.03m; tick1011
+bud_wet_expl_exp_2025,city_wetteren,2025,63397734,,,bbc_jr_realized,src_wetteren_jr2025,strong,Exploitatieuitgaven 63.40m; tick1011
+bud_wet_expl_saldo_2025,city_wetteren,2025,5636292,,,bbc_jr_realized,src_wetteren_jr2025,strong,Exploitatiesaldo +5.64m STRONG; tick1011
+bud_wet_invest_exp_2025,city_wetteren,2025,8923550,,,bbc_jr_realized,src_wetteren_jr2025,strong,Investeringsuitgaven 8.92m vs MJP 11.87m UNDERSPEND FOI; tick1011
+bud_wet_invest_rec_2025,city_wetteren,2025,1465951,,,bbc_jr_realized,src_wetteren_jr2025,strong,Investeringsontvangsten 1.47m; tick1011
+bud_wet_invest_saldo_2025,city_wetteren,2025,-7457599,,,bbc_jr_realized,src_wetteren_jr2025,strong,Investeringssaldo -7.46m; tick1011
+bud_wet_mjp_invest_planned_2025,city_wetteren,2025,11872505,,,bbc_jr_realized,src_wetteren_jr2025,strong,MJP invest planned 11.87m vs realized 8.92m underspend FOI; tick1011
+bud_wet_afm_2025,city_wetteren,2025,4561907,,,bbc_jr_realized,src_wetteren_jr2025,strong,AFM +4.56m STRONG; tick1011
+bud_wet_afm_corr_2025,city_wetteren,2025,3779592,,,bbc_jr_realized,src_wetteren_jr2025,strong,Gecorrigeerde AFM +3.78m; tick1011
+bud_wet_bbr_2025,city_wetteren,2025,8611930,,,bbc_jr_realized,src_wetteren_jr2025,strong,BBR beschikbaar 8.61m HIGH; tick1011
+bud_wet_budget_result_2025,city_wetteren,2025,-2443970,,,bbc_jr_realized,src_wetteren_jr2025,strong,Budgettair resultaat -2.44m NEG FOI residual; tick1011
+bud_wet_cum_br_2025,city_wetteren,2025,8806908,,,bbc_jr_realized,src_wetteren_jr2025,strong,Gecumuleerd budgettair resultaat 8.81m DROP (was 11.25m); tick1011
+bud_wet_pnl_2025,city_wetteren,2025,-971484,,,bbc_jr_realized,src_wetteren_jr2025,strong,P&L -0.971m; tick1011
+bud_wet_pnl_ge_2025,city_wetteren,2025,6004290,,,bbc_jr_realized,src_wetteren_jr2025,strong,GE P&L +6.00m; tick1011
+bud_wet_pnl_ocmw_2025,city_wetteren,2025,-6975774,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW P&L -6.98m FOI; tick1011
+bud_wet_ocmw_cover_2025,city_wetteren,2025,6864378,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW cover 6.86m FULL-ish FOI residual vs OCMW -6.98m; tick1011
+bud_wet_ocmw_cum_deficit_2025,city_wetteren,2025,-5889529,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW cum tekort YE2025 -5.89m WORSENING (was -5.78m after cover); tick1011
+bud_wet_personnel_2025,city_wetteren,2025,36078162,,,bbc_jr_realized,src_wetteren_jr2025,strong,Bezoldigingen 36.08m; tick1011
+bud_wet_toelagen_2025,city_wetteren,2025,10228467,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toegestane werkingssubsidies 10.23m FOI residual; tick1011
+bud_wet_toelagen_police_2025,city_wetteren,2025,3646118,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage politiezone 3.65m DROP (was 3.94m); tick1011
+bud_wet_toelagen_fire_2025,city_wetteren,2025,1602538,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage hulpverleningszone 1.60m JUMP (was 1.19m FOI); tick1011
+bud_wet_toelagen_agb_2025,city_wetteren,2025,1503832,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage AGB Wetteren 1.50m DROP (was 1.97m FOI dual); tick1011
+bud_wet_toelagen_igs_2025,city_wetteren,2025,2753246,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage IGS 2.75m JUMP (was 2.27m FOI); tick1011
+bud_wet_toelagen_ocmw_assoc_2025,city_wetteren,2025,157315,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage OCMW-verenigingen 0.157m; tick1011
+bud_wet_toelagen_eredienst_2025,city_wetteren,2025,56035,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage eredienst 0.056m; tick1011
+bud_wet_toelagen_other_2025,city_wetteren,2025,509383,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toelage andere begunstigden 0.509m FOI; tick1011
+bud_wet_ocmw_aid_2025,city_wetteren,2025,4706484,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW individuele hulp 4.71m; tick1011
+bud_wet_fiscal_2025,city_wetteren,2025,30409008,,,bbc_jr_realized,src_wetteren_jr2025,strong,Fiscale opbrengsten 30.41m; tick1011
+bud_wet_fiscal_ov_2025,city_wetteren,2025,12743303,,,bbc_jr_realized,src_wetteren_jr2025,strong,Opcentiemen OV 12.74m; tick1011
+bud_wet_fiscal_pb_2025,city_wetteren,2025,11686908,,,bbc_jr_realized,src_wetteren_jr2025,strong,Aanvullende PB 11.69m JUMP (was 10.40m); tick1011
+bud_wet_gemeentefonds_2025,city_wetteren,2025,8631632,,,bbc_jr_realized,src_wetteren_jr2025,strong,Gemeentefonds 8.63m; tick1011
+bud_wet_fin_opbr_2025,city_wetteren,2025,1675179,,,bbc_jr_realized,src_wetteren_jr2025,strong,Financiele opbrengsten J5 1.68m; tick1011
+bud_wet_fin_costs_2025,city_wetteren,2025,834528,,,bbc_jr_realized,src_wetteren_jr2025,strong,Financiele kosten 0.835m; tick1011
+bud_wet_invest_subs_granted_2025,city_wetteren,2025,558931,,,bbc_jr_realized,src_wetteren_jr2025,strong,Toegestane investeringssubsidies 0.559m (police 0.373 FOI); tick1011
+bud_wet_cum_equity_surplus_2025,city_wetteren,2025,12429142,,,bbc_jr_realized,src_wetteren_jr2025,strong,Gecumuleerd equity surplus YE2025 +12.43m DROP (was 13.40m); tick1011
+bud_wet_agb_consol_afm_2025,city_wetteren,2025,-201906,,,bbc_jr_realized,src_wetteren_jr2025,strong,AGB Wetteren consol AFM -0.202m NEG dual residual; tick1011
+bud_wet_agb_bbr_2025,city_wetteren,2025,1152196,,,bbc_jr_realized,src_wetteren_jr2025,strong,AGB Wetteren BBR 1.15m dual residual; tick1011
+bud_wet_ge_expl_exp_2025,city_wetteren,2025,36824384,,,bbc_jr_realized,src_wetteren_jr2025,strong,GE exploitatieuitgaven J3 36.82m; tick1011
+bud_wet_ocmw_expl_exp_2025,city_wetteren,2025,26573351,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW exploitatieuitgaven J3 26.57m FOI; tick1011
+bud_wet_ocmw_expl_rec_2025,city_wetteren,2025,20504520,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW exploitatieontvangsten J3 20.50m; tick1011
+bud_wet_ocmw_expl_saldo_2025,city_wetteren,2025,-6148885,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW exploitatiesaldo -6.15m FOI residual; tick1011
