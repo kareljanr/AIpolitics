@@ -28982,3 +28982,44 @@ bud_rie_goederen_2025,city_riemst,2025,5756262,,,bbc_jr_realized,src_riemst_jr20
 bud_rie_afschrijvingen_2025,city_riemst,2025,3828289,,,bbc_jr_realized,src_riemst_jr2025,strong,Afschrijvingen/voorzieningen 3.828m DROP; tick1105
 bud_rie_fin_exp_2025,city_riemst,2025,497331,,,bbc_jr_realized,src_riemst_jr2025,strong,Financiele kosten 0.497m; tick1105
 bud_rie_toegelaten_lening_2025,city_riemst,2025,250000,,,bbc_jr_realized,src_riemst_jr2025,strong,Toegestane leningen 0.250m FOI residual; tick1105
+bud_kap_assets_2025,city_kaprijke,2025,51161239,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Assets YE2025 51.161m DROP (was 54.785m); tick1106
+bud_kap_equity_2025,city_kaprijke,2025,38539227,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Nettoactief YE2025 38.539m slight DROP (was 38.880m); tick1106
+bud_kap_debt_total_2025,city_kaprijke,2025,12622013,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Total schulden YE2025 12.622m DROP (was 15.905m); tick1106
+bud_kap_fin_debt_2025,city_kaprijke,2025,7611295,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Fin debt total YE2025 7.611m DECLINE (was 10.676m T4; ST treasury cleared); tick1106
+bud_kap_fin_debt_lt_2025,city_kaprijke,2025,6647575,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Fin debt LT YE2025 6.648m DECLINE; tick1106
+bud_kap_fin_debt_st_2025,city_kaprijke,2025,963720,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Fin debt ST due YE2025 0.964m; tick1106
+bud_kap_new_loans_2025,city_kaprijke,2025,88575,,,bbc_jr_realized,src_kaprijke_jr2025,strong,New loans 0.089m leasing OV only; bank 0; tick1106
+bud_kap_repayments_2025,city_kaprijke,2025,953699,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Periodieke aflossingen 0.954m; tick1106
+bud_kap_cash_2025,city_kaprijke,2025,1551552,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Cash YE2025 1.552m JUMP FOI (was 0.262m critical; +fietstunnel subsidy 0.776m); tick1106
+bud_kap_pension_lt_2025,city_kaprijke,2025,1567554,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Pension LT 1.568m JUMP FOI (was 1.320m); tick1106
+bud_kap_fva_igs_2025,city_kaprijke,2025,7082835,,,bbc_jr_realized,src_kaprijke_jr2025,strong,FVA IGS YE2025 7.083m stable (was 7.053m); tick1106
+bud_kap_herwaard_2025,city_kaprijke,2025,1443708,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Herwaarderingsreserves YE2025 1.444m slight JUMP; tick1106
+bud_kap_leasing_mva_2025,city_kaprijke,2025,1159175,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Leasing MVA YE2025 1.159m (Imewo OV); tick1106
+bud_kap_expl_ontvangsten_2025,city_kaprijke,2025,13201331,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Exploitatie ontvangsten 13.201m; tick1106
+bud_kap_expl_uitgaven_2025,city_kaprijke,2025,12001328,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Exploitatie uitgaven 12.001m; tick1106
+bud_kap_expl_saldo_2025,city_kaprijke,2025,1200003,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Exploitatiesaldo +1.200m STRONG; tick1106
+bud_kap_afm_2025,city_kaprijke,2025,493605,,,bbc_jr_realized,src_kaprijke_jr2025,strong,AFM +0.494m STRONG; tick1106
+bud_kap_afm_gecorr_2025,city_kaprijke,2025,568902,,,bbc_jr_realized,src_kaprijke_jr2025,strong,AFM gecorrigeerd +0.569m STRONG; tick1106
+bud_kap_bbr_2025,city_kaprijke,2025,1497535,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Beschikbaar budgettair resultaat 1.498m; tick1106
+bud_kap_budget_result_2025,city_kaprijke,2025,-470294,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Budgettair resultaat boekjaar -0.470m NEG FOI (better than MJP -1.124m); tick1106
+bud_kap_cum_br_2025,city_kaprijke,2025,1497535,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Gecumuleerd BR 1.498m; tick1106
+bud_kap_pnl_2025,city_kaprijke,2025,-930464,,,bbc_jr_realized,src_kaprijke_jr2025,strong,P&L tekort -0.930m NEG FOI (was +0.541m); tick1106
+bud_kap_fiscal_2025,city_kaprijke,2025,5842415,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Fiscale opbrengsten 5.842m; tick1106
+bud_kap_personnel_2025,city_kaprijke,2025,6270738,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Personeel regular 6.271m; tick1106
+bud_kap_uitzend_2025,city_kaprijke,2025,709337,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Uitzend/consultancy 0.709m HIGH FOI (was 0.817m; WZC heavy); tick1106
+bud_kap_toelagen_2025,city_kaprijke,2025,1613479,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Toegestane werkingssubsidies 1.613m FOI; tick1106
+bud_kap_toelagen_police_2025,city_kaprijke,2025,769797,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Politiezone toelage 0.770m; tick1106
+bud_kap_toelagen_fire_2025,city_kaprijke,2025,225977,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Hulpverleningszone 0.226m; tick1106
+bud_kap_toelagen_agb_2025,city_kaprijke,2025,181017,,,bbc_jr_realized,src_kaprijke_jr2025,strong,AGB prijssubsidie 0.181m FOI residual; tick1106
+bud_kap_invest_uitgaven_2025,city_kaprijke,2025,2202043,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Investeringsuitgaven 2.202m vs MJP 5.704m UNDERSPEND FOI; tick1106
+bud_kap_invest_ontvangsten_2025,city_kaprijke,2025,1357410,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Investeringsontvangsten 1.357m (fietstunnel subsidy large); tick1106
+bud_kap_invest_saldo_2025,city_kaprijke,2025,-844633,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Investeringssaldo -0.845m; tick1106
+bud_kap_invest_mjp_2025,city_kaprijke,2025,5704263,,,bbc_jr_realized,src_kaprijke_jr2025,strong,MJP invest uitgaven 5.704m; tick1106
+bud_kap_ocmw_cover_2025,city_kaprijke,2025,1040900,,,bbc_jr_realized,src_kaprijke_jr2025,strong,OCMW liquidity cover 1.041m JUMP FOI (was 0.528m 2024); tick1106
+bud_kap_ocmw_hulp_2025,city_kaprijke,2025,309572,,,bbc_jr_realized,src_kaprijke_jr2025,strong,OCMW individuele hulpverlening 0.310m; tick1106
+bud_kap_wzc_result_2025,city_kaprijke,2025,-424393,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Woonzorgcentrum budget result -0.424m HIGH FOI residual; tick1106
+bud_kap_wzc_personnel_2025,city_kaprijke,2025,2351471,,,bbc_jr_realized,src_kaprijke_jr2025,strong,WZC personnel 2.351m JUMP FOI; tick1106
+bud_kap_riopact_2025,city_kaprijke,2025,500000,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Riopact invest-toelage 0.500m FOI residual; tick1106
+bud_kap_goederen_2025,city_kaprijke,2025,3526824,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Goederen en diensten 3.527m OVER budget FOI; tick1106
+bud_kap_fin_exp_2025,city_kaprijke,2025,273272,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Financiele kosten 0.273m; tick1106
+bud_kap_debt_per_capita_2025,city_kaprijke,2025,1136,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Schuld per inwoner ~1136 EUR incl Fluvius OV (risk note); tick1106

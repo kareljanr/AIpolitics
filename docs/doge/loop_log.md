@@ -15041,3 +15041,25 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45 (bud_rie_*); commitments +7; leaderboard +9; sources +1; entity city_riemst; FOI **gap_rie_fva_loans_invest_toelagen_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1105=done; spawn **rq_1106**; ticks=1105
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1106** residual dual L5; deferred **rq_116**; progress@1110 in 4
+
+### Tick 1106 - 2026-08-11T18:30:00Z
+
+- Unit: **rq_1106** (FOI-adjacent residual dual - **Gemeente+OCMW Kaprijke Jaarrekening 2025** + Riemst dual residual)
+- Found (strong primary BBC JR2025 PDF; 205p image schemas + text toelichting; kaprijke.be; KBO GE 0207.448.356 / OCMW 0212.223.627; Veld 1 9970; AD Els Van Cleeput FD Frank Trenson; GE+OCMW + AGB dual):
+  - Assets **EUR51.161m DROP** (was **EUR54.785m**) / equity **EUR38.539m** / debt total **EUR12.622m DROP** / fin debt **EUR7.611m DECLINE** (LT **EUR6.648m** / ST due **EUR0.964m**; was **EUR10.676m** with ST treasury 2.2m cleared)
+  - New loans **EUR0.089m** leasing OV only / repayments **EUR0.954m**
+  - Cash **EUR1.552m JUMP FOI** (was **EUR0.262m critical**; +fietstunnel subsidy **EUR0.776m**; mid-2025 ST financing 6m) / pension **EUR1.568m JUMP**
+  - FVA IGS **EUR7.083m stable** / herwaard **EUR1.444m** / leasing MVA **EUR1.159m**
+  - Exploitatie: ontvangsten **EUR13.201m** / uitgaven **EUR12.001m** / saldo **+EUR1.200m STRONG**
+  - AFM **+EUR0.494m** (gecorr **+EUR0.569m**) / BBR **EUR1.498m** / budget **-EUR0.470m NEG FOI** / P&L **-EUR0.930m NEG FOI**
+  - Fiscal **EUR5.842m** / personnel regular **EUR6.271m** / uitzend-consultancy **EUR0.709m HIGH FOI** (WZC heavy)
+  - Toelagen **EUR1.613m FOI** (police **EUR0.770m** / fire **EUR0.226m** / AGB **EUR0.181m** / IVM **EUR0.143m**)
+  - Invest **EUR2.202m** vs MJP **EUR5.704m UNDERSPEND FOI** / ontvangsten **EUR1.357m**
+  - OCMW cover **EUR1.041m JUMP FOI** (liquidity; was **EUR0.528m** 2024) / OCMW hulp **EUR0.310m**
+  - **WZC** budget result **-EUR0.424m HIGH FOI** (94% occupancy; personnel JUMP; uitzend+consultancy)
+  - Riopact invest-toelage **EUR0.500m**
+- Dual: Riemst FVA/loans MASSIVE (tick1105) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Bornem / Halen residual next; progress@1110 in 3
+- Wrote: budgets +41 (bud_kap_*); commitments +7; leaderboard +9; sources +1; entity city_kaprijke; FOI **gap_kap_wzc_ocmw_uitzend_budget_invest_l5** prio9 ready + draft; PDF primary (not committed 91MB); rq_1106=done; spawn **rq_1107**; ticks=1106
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1107** residual dual L5; deferred **rq_116**; progress@1110 in 3
