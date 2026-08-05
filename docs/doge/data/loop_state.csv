@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T08:00:00Z,rq_959,959,no,tick959 Langemark-Poelkapelle JR2025 dual residual; FOI gap_lan_ocmw_budget_fva_pension_l5 prio8 assets 73.2m fin debt 5.44m declining OCMW cover 2.15m budget -0.96m; next progress@960 rq_960; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T09:00:00Z,rq_960,960,no,tick960 progress@960 coverage A/B 100% C~99% D~74-88% FOI ready ~646; VL residual 951-959 Wevelgem/Staden/Hooglede/Kuurne Farys duals; next residual dual L5 rq_961; rq_116 deferred

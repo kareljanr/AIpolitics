@@ -12236,3 +12236,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_lan_*); commitments +5; leaderboard +7; sources +2; entity city_langemark_poelkapelle; FOI **gap_lan_ocmw_budget_fva_pension_l5** prio8 ready + draft; key only; rq_959=done; spawn **rq_960 progress@960 prio10**; ticks=959
 - FOI: ready only - **do not send**
 - Next: **progress@960 NEXT** (prio10 rq_960); then residual dual L5; deferred **rq_116**
+
+
+### Tick 960 - 2026-08-08T09:00:00Z
+
+- Unit: **rq_960** (mandatory **progress@960** - coverage layers A-E + waste top10)
+- Inventory: budgets **~22034** / commitments **~2785** / leaderboard **~4513** / entities **~683** / sources **~1873** / FOI ready **~646** / answered **~9** / partial **~27** / total FOI **~688**
+- Coverage: A/B **100%** · C **~99%** · D **~74-88%** generous (gain = VL residual 951-959 dual L5, not near-complete of EUR348bn) · E FOI-ready **~646**
+- Gain since tick950 (VL JR2025 residual 951-959, dual not TE-additive):
+  - Dentergem **EUR62.5m** / debt **EUR0.69m low** / cash **EUR15.1m**
+  - Pittem **EUR64.7m** / **Farys EUR0.17m** / pension **EUR4.80m rising** / budget **-EUR0.25m**
+  - Hooglede **EUR110m** / debt **EUR20.8m RISING** / **WZC EUR4.36m** / OCMW **EUR2.30m**
+  - Lichtervelde **EUR72m** / **Farys EUR0.27m** / MJP debt jump 2026-27
+  - Staden **EUR113m** / **cash+BBR EUR30.2m** / pension **EUR5.32m rising**
+  - Wevelgem **EUR305m** / **OCMW cover EUR6.93m** / toelagen **EUR8.77m** / FVA herwaard **+EUR23.5m**
+  - Kuurne **EUR97m** / **cash EUR1.70m LOW** / budget **-EUR1.72m** / Farys dual
+  - Moorslede **EUR83m** / invest **38pct** / leefloon **EUR0.57m rising**
+  - Langemark-Poelkapelle **EUR73m** / OCMW cover **EUR2.15m** / budget **-EUR0.96m**
+- Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@960; doge_waste_top10_current.md as-of 960; rq_960=done; spawn **rq_961** hole_fill; ticks=960
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_961** residual dual L5; deferred **rq_116**; progress@970 in 10

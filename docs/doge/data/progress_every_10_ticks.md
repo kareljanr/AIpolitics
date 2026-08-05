@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 960** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 951-959: Wevelgem **EUR305m** / Staden **EUR113m** / Hooglede **EUR110m** / Kuurne **EUR97m** / Moorslede **EUR83m** / Langemark-Poelkapelle **EUR73m** / Lichtervelde **EUR72m** / Pittem **EUR65m** / Dentergem **EUR63m** · prior 941-949 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 950-960 is VL residual dual L5 (not near-complete of 348bn):** personnel Wevelgem **EUR37m** / Staden **EUR15m** / Kuurne **EUR14m** / Langemark **EUR12m** / Lichtervelde **EUR13m** / Hooglede **EUR20m** · FOI-adjacent: Wevelgem **OCMW cover EUR6.93m** / **toelagen EUR8.77m** / **FVA IGS herwaard +EUR23.5m** / fin debt **EUR48.1m declining** · Staden **cash EUR30.2m** / **BBR EUR30.2m** / **pension EUR5.32m rising** · Hooglede **fin debt EUR20.8m rising** / **WZC B-vleugel EUR4.36m** / budget **-EUR1.23m** · Kuurne **cash EUR1.70m LOW** / budget **-EUR1.72m** / **OCMW cover EUR1.92m** / **Farys dual** · Moorslede **invest 38pct** / **OCMW cover EUR0.95m** / **leefloon EUR0.57m rising** · Langemark **OCMW cover EUR2.15m** / budget **-EUR0.96m** / **pension EUR1.22m rising** · Lichtervelde **Farys EUR0.27m** / MJP debt jump 2026-27 · Pittem **Farys EUR0.17m** / pension **EUR4.80m rising** · Dentergem **fin debt EUR0.69m low** / cash **EUR15.1m** |
+| **E. FOI-ready gaps** | **~646** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~688** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Wevelgem **EUR305m** / Staden **EUR113m** / Hooglede **EUR110m** / Kuurne **EUR97m** / Moorslede **EUR83m** / Langemark **EUR73m** / Lichtervelde **EUR72m** / Pittem **EUR65m** / Dentergem **EUR63m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 960)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~22034 |
+| commitments.csv | ~2785 |
+| leaderboard.csv | ~4513 |
+| entities.csv | ~683 |
+| sources.csv | ~1873 |
+| FOI ready | ~646 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~688 |
+| research_queue open | rq_116 deferred + rq_961 hole-fill after progress |
+
+### What improved since tick 950
+
+- **VL city JR2025 residual (tick951-959):** Dentergem **EUR62.5m** / fin debt **EUR0.69m low** / cash **EUR15.1m** / AFM **+EUR2.89m** · Pittem **EUR64.7m** / fin debt **EUR4.68m declining** / **Farys sport EUR0.17m** / pension **EUR4.80m rising** / budget **-EUR0.25m** · Hooglede **EUR110m** / fin debt **EUR20.8m RISING** / new loans **EUR4.76m** / **WZC B-vleugel EUR4.36m** / OCMW cover **EUR2.30m** / budget **-EUR1.23m** · Lichtervelde **EUR72m** / fin debt **EUR9.67m declining** / **Farys EUR0.27m** / pension **EUR2.82m rising** / MJP debt jump 2026-27 · Staden **EUR113m** / **cash EUR30.2m** / **BBR EUR30.2m** / fin debt **EUR7.86m declining** / **pension EUR5.32m rising** / OCMW cover **EUR1.0m** · Wevelgem **EUR305m** / fin debt **EUR48.1m declining** / **OCMW cover EUR6.93m** / **toelagen EUR8.77m** / **FVA IGS herwaard +EUR23.5m** · Kuurne **EUR97m** / **cash EUR1.70m LOW** / budget **-EUR1.72m** / OCMW cover **EUR1.92m** / **Farys dual** · Moorslede **EUR83m** / fin debt **EUR8.73m declining** / cash **EUR11.0m** / **invest 38pct** / OCMW cover **EUR0.95m** / **leefloon EUR0.57m rising** · Langemark-Poelkapelle **EUR73m** / fin debt **EUR5.44m declining** / **OCMW cover EUR2.15m** / budget **-EUR0.96m** / pension **EUR1.22m rising** / FVA herwaard **+EUR6.38m**.
+- **Dual map:** debt-rising invest dual (Hooglede) vs debt-declining cash duals (Staden / Moorslede / Langemark / Lichtervelde / Pittem) · low-cash negative-budget dual (Kuurne **EUR1.70m** / **-EUR1.72m**) vs high-cash dual (Staden **EUR30.2m**) · large OCMW cover dual (Wevelgem **EUR6.93m** / Langemark **EUR2.15m** / Kuurne **EUR1.92m**) · Farys Entity II-like dual chain (Pittem / Lichtervelde / Kuurne / Moorslede zwembad) · pension jump duals (Staden **EUR5.32m** / Pittem **EUR4.80m** / Langemark **EUR1.22m**) · IGS revaluation duals (Wevelgem **+EUR23.5m** / Langemark **+EUR6.38m**).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 950** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
