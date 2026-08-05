@@ -11209,3 +11209,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39 (bud_rot_*); commitments +4; leaderboard +7; sources +2; entity city_rotselaar; FOI **gap_rot_loans_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_899=done; spawn **rq_900 progress@900 prio10**; ticks=899
 - FOI: ready only - **do not send**
 - Next: **progress@900 NEXT** (prio10 rq_900); then residual dual L5; deferred **rq_116**
+
+## Tick 900 - 2026-08-06T23:00:00Z
+
+- Unit: **rq_900** (mandatory **progress@900** - coverage % layers A-E + waste top10)
+- Found / assessed (no new primary euros this tick - inventory refresh after ticks 891-899):
+  - **A L0:** **100%** (EUR347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL residual Olen **EUR70m** / Hove **EUR44m** / Schilde **EUR125m** / Wuustwezel **EUR117m** / Zoersel **EUR109m** / Brecht **EUR165m** / Malle **EUR69m** / Wellen **EUR58m** / Rotselaar **EUR113m**)
+  - **D L5:** ~**69-83%** generous - gain 891-899: Olen **new loans EUR10.2m** / invest **EUR10.7m** · Rotselaar **new loans EUR7.25m** / other toelagen **EUR2.07m** · Schilde **MJP debt ramp EUR44.8m YE2028** · Brecht **MJP loans EUR12m 2027** · Wuustwezel/Zoersel/Malle **pension jumps** · Malle/Zoersel **cash drops** · Wellen **invest EUR6.2m** + **FVA IGS reval** · Hove **loans granted EUR0.72m**
+  - **E FOI ready:** ~**593** (answered ~9; partial ~27; total ~634)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2-10; stocks filtered (MJP/debt/pension/cash/city BS stocks)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_900=done; next **rq_901**; loop_state ticks=900
+- FOI: none new this tick
+- Next: prio5 **rq_901** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@910 in 10

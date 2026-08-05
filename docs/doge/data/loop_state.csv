@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T22:30:00Z,rq_899,899,no,tick899 Rotselaar JR2025 dual Wellen; FOI gap_rot_loans_toelagen_l5 prio8 new loans 7.25m other toelagen 2.07m; next rq_900 progress@900 NEXT; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T23:00:00Z,rq_900,900,no,tick900 progress coverage % + waste top10 after VL residual 891-899; next rq_901 residual dual L5; progress@910 in 10; rq_116 deferred

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 900** (2026-08-06)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 891-899: Olen **EUR70m** / Hove **EUR44m** / Schilde **EUR125m** / Wuustwezel **EUR117m** / Zoersel **EUR109m** / Brecht **EUR165m** / Malle **EUR69m** / Wellen **EUR58m** / Rotselaar **EUR113m** · prior Gavere-Herzele + fusion/enclave stack retained |
+| **D. L5 named / measure end-lines** | **~69-83%** of TE (generous) | **Gain 890-900 is VL mid/small residual hole-fill (not near-complete of 348bn):** personnel Brecht **EUR24m** / Zoersel **EUR22m** / Wuustwezel **EUR19m** / Rotselaar **EUR19m** / Malle **EUR19m** / Schilde **EUR17m** / Olen **EUR13m** / Hove **EUR11m** · AFM spectrum Brecht **+EUR8.9m** / Schilde **+EUR4.9m** / Wuustwezel **+EUR4.7m** / Zoersel **+EUR4.1m** / Olen **+EUR2.2m** / Wellen **+EUR2.6m** / Hove **+EUR2.2m** · FOI-adjacent: Olen **new loans EUR10.2m** / invest **EUR10.7m** · Rotselaar **new loans EUR7.25m** (debt **EUR22.8to27.5m**) / other toelagen **EUR2.07m** · Schilde **MJP debt ramp YE2028 EUR44.8m** (new **EUR14.3+13.4+10.1m**) · Brecht **MJP new loans EUR12m 2027** · Wuustwezel **pension jump EUR11to14.7m** / other toelagen **EUR3.0m** · Zoersel **pension jump EUR11.9to15.1m** / cash **EUR6.7to3.9m** · Malle **cash EUR8.5to2.6m** / budget **-EUR2.57m** / pension jump · Wellen **invest EUR6.2m** / **FVA IGS reval EUR5.9to10.8m** / budget **-EUR3.44m** · Hove **loans granted EUR0.72m** |
+| **E. FOI-ready gaps** | **~593** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~634** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / BKZ **EUR815m** / Brecht **EUR165m** / Schilde **EUR125m** / Rotselaar **EUR113m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 900)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~19652 |
+| commitments.csv | ~2561 |
+| leaderboard.csv | ~4135 |
+| entities.csv | ~635 |
+| sources.csv | ~1768 |
+| FOI ready | ~593 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~634 |
+| research_queue open | rq_116 deferred + rq_901 hole-fill after progress |
+
+### What improved since tick 890
+
+- **VL city JR2025 residual (tick891-899):** Olen assets **EUR70m** / **new loans EUR10.2m** / invest **EUR10.7m** / AFM **+EUR2.2m** · Hove **EUR44m** / cash **EUR9.0m** / **loans granted EUR0.72m** / AFM **+EUR2.2m** · Schilde **EUR125m** / AFM **+EUR4.9m** / BBR **EUR12.4m** / **MJP debt ramp YE2028 EUR44.8m** · Wuustwezel **EUR117m** / **pension jump EUR11to14.7m** / other toelagen **EUR3.0m** / P&L **-EUR2.67m** · Zoersel **EUR109m** / **pension jump EUR11.9to15.1m** / cash **EUR6.7to3.9m** / budget **-EUR0.58m** · Brecht **EUR165m** / AFM **+EUR8.9m** / cash **EUR18.8m** / **no new loans 2025** / **MJP loans EUR12m 2027** · Malle **EUR69m** / **cash EUR8.5to2.6m** / budget **-EUR2.57m** / pension jump · Wellen **EUR58m** / **invest EUR6.2m** / **FVA IGS reval EUR5.9to10.8m** / budget **-EUR3.44m** · Rotselaar **EUR113m** / **new loans EUR7.25m** / other toelagen **EUR2.07m** / BBR recovered from **-EUR1.1m**.
+- **Dual map:** Antwerp north cluster (Hove/Schilde/Wuustwezel/Zoersel/Brecht/Malle) · pension-jump dual (Wuustwezel/Zoersel/Malle) · cash-burn dual (Malle/Zoersel vs Brecht cash-rich) · MJP debt-ramp dual (Schilde/Brecht/Malle) · invest/reval dual (Olen/Wellen) · loan-draw recovery dual (Rotselaar vs stressed Malle/Wellen budgets).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 890** (2026-08-06)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
