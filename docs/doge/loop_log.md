@@ -13272,3 +13272,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1016** residual dual L5 (Torhout / Stekene / Buggenhout / Oosterzele / other); deferred **rq_116**; progress@1020 in 5
 
+
+### Tick 1016 - 2026-08-09T21:15:00Z
+
+- Unit: **rq_1016** (FOI-adjacent residual dual - **Gemeente+OCMW Oudsbergen Jaarrekening 2025** + Sint-Lievens-Houtem dual residual)
+- Found (strong primary BBC JR2025 302p; KBO 0697.609.251 / OCMW 0697.664.382; FD Jan Thijs; AD Joris Neyens; BM Ilse Wevers; Dorpsstraat 44; NIS 72042):
+  - Assets **EUR255.16m JUMP** (was **EUR214.33m**) / equity **EUR231.84m JUMP** / debt total **EUR23.33m** / fin debt **EUR16.07m** (**DECLINING** from **EUR16.80m**; LT **EUR15.03m** / ST due **EUR1.04m**)
+  - New loans **EUR0.301m** lease only (MJP bank **EUR5.76m deferred FOI**) / repayments **EUR1.03m**
+  - Cash **EUR29.42m HIGH DROP** (was **EUR32.37m**) / pension **EUR0 ZERO FOI** / leasing MVA **EUR2.82m**
+  - FVA IGS **EUR71.88m JUMP** (was **EUR36.88m reval FOI**) / herwaardering **+EUR34.99m JUMP FOI** / cap subs **EUR35.29m**
+  - Exploitatie: ontvangsten **EUR40.33m** / uitgaven **EUR33.24m** / saldo **+EUR7.09m STRONG**
+  - AFM **+EUR7.03m STRONG** (gecorr **+EUR6.72m**) / BBR **EUR28.19m VERY HIGH** / budget **-EUR1.27m NEG FOI** / P&L **+EUR0.961m** (GE **+EUR2.79m** / OCMW **-EUR1.83m FOI**)
+  - Personnel **EUR15.32m** / toelagen **EUR9.45m FOI** (police **EUR3.01m DROP** / fire **EUR1.02m** / AGB **EUR1.43m dual** / IGS **EUR1.28m** / other **EUR2.37m JUMP**)
+  - Invest **EUR17.14m** vs MJP **EUR36.69m UNDERSPEND FOI** / desinvest **EUR9.08m HIGH FOI** / **OCMW cover EUR0 ZERO FOI** / OCMW cum **-EUR8.58m WORSENING** (was -6.76m)
+  - AGB consol BBR **EUR1.44m** / AFM **+EUR0.184m dual**
+- Dual: Sint-Lievens-Houtem **EUR47.58m** / fin debt JUMP **EUR9.13m** / +bank **EUR3.50m** (tick1015) - not TE-additive
+- Note: prefix **obg** (not oud=Oudenburg tick997); Torhout still news-only; Stekene/Buggenhout/Oosterzele residual next optional
+- Wrote: budgets +58 (bud_obg_*); commitments +6; leaderboard +8; sources +1; entity city_oudsbergen; FOI **gap_obg_ocmw_fva_toelagen_l5** prio9 ready + draft; key only (PDF ~3MB not stored in git); rq_1016=done; spawn **rq_1017**; ticks=1016
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1017** residual dual L5 (Torhout / Stekene / Buggenhout / Balen / Kasterlee / other); deferred **rq_116**; progress@1020 in 4
+

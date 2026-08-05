@@ -24451,3 +24451,61 @@ bud_slh_ocmw_expl_exp_2025,city_sint_lievens_houtem,2025,2125433,,,bbc_jr_realiz
 bud_slh_ocmw_expl_rec_2025,city_sint_lievens_houtem,2025,1213551,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW exploitatieontvangsten J3 1.21m; tick1015
 bud_slh_ocmw_expl_saldo_2025,city_sint_lievens_houtem,2025,-911882,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW exploitatiesaldo -0.912m FOI residual; tick1015
 bud_slh_loan_to_eredienst_2025,city_sint_lievens_houtem,2025,86637,,,bbc_jr_realized,src_slh_jr2025,strong,Toegestane lening eredienst 0.087m FOI residual; tick1015
+bud_obg_assets_2025,city_oudsbergen,2025,255164980,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Assets YE2025 255.16m JUMP (was 214.33m FVA reval FOI); tick1016
+bud_obg_equity_2025,city_oudsbergen,2025,231837028,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Nettoactief YE2025 231.84m JUMP (was 188.39m); tick1016
+bud_obg_debt_total_2025,city_oudsbergen,2025,23327952,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Total schulden YE2025 23.33m DROP (was 25.95m); tick1016
+bud_obg_fin_debt_2025,city_oudsbergen,2025,16067950,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Fin debt total YE2025 16.07m DECLINING (was 16.80m T4); tick1016
+bud_obg_fin_debt_lt_2025,city_oudsbergen,2025,15027887,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Fin debt LT YE2025 15.03m DECLINING; tick1016
+bud_obg_fin_debt_st_due_2025,city_oudsbergen,2025,1040063,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Fin debt ST due YE2025 1.04m; tick1016
+bud_obg_new_loans_2025,city_oudsbergen,2025,301147,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Nieuwe leningen 2025 0.301m lease only (MJP bank 5.76m deferred FOI); tick1016
+bud_obg_aflossingen_2025,city_oudsbergen,2025,1033432,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Periodieke aflossingen 2025 1.03m; tick1016
+bud_obg_cash_2025,city_oudsbergen,2025,29424727,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Liquide middelen YE2025 29.42m HIGH DROP (was 32.37m FOI); tick1016
+bud_obg_pension_2025,city_oudsbergen,2025,0,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Pensioenvoorzieningen LT YE2025 ZERO (no provision FOI residual); tick1016
+bud_obg_cap_subs_2025,city_oudsbergen,2025,35288271,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Kapitaalsubsidies YE2025 35.29m JUMP; tick1016
+bud_obg_fva_total_2025,city_oudsbergen,2025,75382600,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,FVA total YE2025 75.38m JUMP FOI residual; tick1016
+bud_obg_fva_eva_2025,city_oudsbergen,2025,436250,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,FVA EVA/AGB YE2025 0.436m; tick1016
+bud_obg_fva_igs_2025,city_oudsbergen,2025,71876244,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,FVA IGS YE2025 71.88m JUMP (was 36.88m reval FOI); tick1016
+bud_obg_fva_other_2025,city_oudsbergen,2025,3057607,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Andere FVA YE2025 3.06m; tick1016
+bud_obg_herwaardering_2025,city_oudsbergen,2025,34992431,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Herwaarderingsreserves JUMP +34.99m YE2025 FOI residual; tick1016
+bud_obg_leasing_mva_2025,city_oudsbergen,2025,2823978,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Leasing MVA YE2025 2.82m; tick1016
+bud_obg_expl_rec_2025,city_oudsbergen,2025,40327744,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Exploitatieontvangsten 40.33m; tick1016
+bud_obg_expl_exp_2025,city_oudsbergen,2025,33238247,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Exploitatieuitgaven 33.24m; tick1016
+bud_obg_expl_saldo_2025,city_oudsbergen,2025,7089497,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Exploitatiesaldo +7.09m STRONG; tick1016
+bud_obg_invest_exp_2025,city_oudsbergen,2025,17144057,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Investeringsuitgaven 17.14m vs MJP 36.69m UNDERSPEND FOI; tick1016
+bud_obg_invest_rec_2025,city_oudsbergen,2025,9081612,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Investeringsontvangsten/desinvest 9.08m HIGH FOI residual; tick1016
+bud_obg_invest_saldo_2025,city_oudsbergen,2025,-8062445,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Investeringssaldo -8.06m; tick1016
+bud_obg_mjp_invest_planned_2025,city_oudsbergen,2025,36685530,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,MJP invest planned 36.69m vs realized 17.14m underspend FOI; tick1016
+bud_obg_afm_2025,city_oudsbergen,2025,7034201,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,AFM +7.03m STRONG; tick1016
+bud_obg_afm_corr_2025,city_oudsbergen,2025,6723613,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Gecorrigeerde AFM +6.72m STRONG; tick1016
+bud_obg_bbr_2025,city_oudsbergen,2025,28188556,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,BBR beschikbaar 28.19m VERY HIGH; tick1016
+bud_obg_budget_result_2025,city_oudsbergen,2025,-1271806,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Budgettair resultaat -1.27m NEG FOI residual; tick1016
+bud_obg_cum_br_2025,city_oudsbergen,2025,28188556,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Gecumuleerd budgettair resultaat 28.19m; tick1016
+bud_obg_pnl_2025,city_oudsbergen,2025,961263,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,P&L +0.961m; tick1016
+bud_obg_pnl_ge_2025,city_oudsbergen,2025,2786491,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,GE P&L +2.79m; tick1016
+bud_obg_pnl_ocmw_2025,city_oudsbergen,2025,-1825228,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW P&L -1.83m FOI; tick1016
+bud_obg_ocmw_cover_2025,city_oudsbergen,2025,0,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW cover ZERO FOI residual vs OCMW -1.83m cum WORSENING; tick1016
+bud_obg_ocmw_cum_deficit_2025,city_oudsbergen,2025,-8583278,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW cum tekort YE2025 -8.58m WORSENING (was -6.76m no cover); tick1016
+bud_obg_personnel_2025,city_oudsbergen,2025,15319476,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Bezoldigingen 15.32m DROP; tick1016
+bud_obg_toelagen_2025,city_oudsbergen,2025,9447965,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toegestane werkingssubsidies 9.45m FOI residual; tick1016
+bud_obg_toelagen_police_2025,city_oudsbergen,2025,3014311,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage politiezone 3.01m DROP (was 3.25m); tick1016
+bud_obg_toelagen_fire_2025,city_oudsbergen,2025,1020937,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage hulpverleningszone 1.02m; tick1016
+bud_obg_toelagen_agb_2025,city_oudsbergen,2025,1432421,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage AGB Oudsbergen 1.43m dual residual; tick1016
+bud_obg_toelagen_igs_2025,city_oudsbergen,2025,1283380,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage IGS 1.28m; tick1016
+bud_obg_toelagen_welzijn_2025,city_oudsbergen,2025,195979,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage welzijnsverenigingen 0.196m; tick1016
+bud_obg_toelagen_eredienst_2025,city_oudsbergen,2025,127484,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage eredienst 0.127m; tick1016
+bud_obg_toelagen_other_2025,city_oudsbergen,2025,2373453,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toelage andere begunstigden 2.37m JUMP FOI; tick1016
+bud_obg_ocmw_aid_2025,city_oudsbergen,2025,1473586,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW individuele hulp 1.47m; tick1016
+bud_obg_fiscal_2025,city_oudsbergen,2025,22888801,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Fiscale opbrengsten 22.89m; tick1016
+bud_obg_fiscal_ov_2025,city_oudsbergen,2025,9000382,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Opcentiemen OV 9.00m; tick1016
+bud_obg_fiscal_pb_2025,city_oudsbergen,2025,8148113,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Aanvullende PB 8.15m JUMP (was 7.04m); tick1016
+bud_obg_gemeentefonds_2025,city_oudsbergen,2025,7729315,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Gemeentefonds 7.73m; tick1016
+bud_obg_fin_opbr_2025,city_oudsbergen,2025,2913557,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Financiele opbrengsten J5 2.91m DROP (was 6.69m FOI); tick1016
+bud_obg_fin_costs_2025,city_oudsbergen,2025,486937,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Financiele kosten 0.487m; tick1016
+bud_obg_invest_subs_granted_2025,city_oudsbergen,2025,1150037,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Toegestane investeringssubsidies 1.15m JUMP FOI residual; tick1016
+bud_obg_cum_equity_surplus_2025,city_oudsbergen,2025,35405939,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,Gecumuleerd equity surplus YE2025 +35.41m; tick1016
+bud_obg_agb_bbr_2025,city_oudsbergen,2025,1436227,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,AGB Oudsbergen BBR 1.44m dual residual; tick1016
+bud_obg_agb_afm_2025,city_oudsbergen,2025,184067,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,AGB Oudsbergen AFM +0.184m dual residual; tick1016
+bud_obg_ge_expl_exp_2025,city_oudsbergen,2025,27864890,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,GE exploitatieuitgaven J3 27.86m; tick1016
+bud_obg_ocmw_expl_exp_2025,city_oudsbergen,2025,5373357,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW exploitatieuitgaven J3 5.37m FOI; tick1016
+bud_obg_ocmw_expl_rec_2025,city_oudsbergen,2025,3594284,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW exploitatieontvangsten J3 3.59m; tick1016
+bud_obg_mjp_new_loans_planned_2025,city_oudsbergen,2025,5757570,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,MJP new loans planned 5.76m not drawn FOI residual; tick1016
