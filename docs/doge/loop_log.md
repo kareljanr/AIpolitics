@@ -13252,3 +13252,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1015** residual dual L5 (Torhout / Stekene / Buggenhout / Oosterzele / other); deferred **rq_116**; progress@1020 in 6
 
+
+### Tick 1015 - 2026-08-09T20:45:00Z
+
+- Unit: **rq_1015** (FOI-adjacent residual dual - **Gemeente+OCMW Sint-Lievens-Houtem Jaarrekening 2025** + Laarne dual residual)
+- Found (strong primary BBC JR2025 180p LBLOD; KBO 0207.443.012 / OCMW 0212.171.068; FD Sylvie De Winne; AD Tom Hofman; BM Tim De Knyf; Marktplein 3; NIS 41063):
+  - Assets **EUR47.58m** / equity **EUR32.82m DROP** / debt total **EUR14.76m JUMP** / fin debt **EUR9.13m** (**JUMP** from **EUR5.57m**; LT **EUR8.78m** / ST due **EUR0.348m**)
+  - New loans **EUR3.86m JUMP FOI** (bank **EUR3.50m** / lease **EUR0.356m**) / repayments **EUR0.294m**
+  - Cash **EUR8.88m DROP** (was **EUR9.70m**) / pension **EUR2.30m DECLINING** / leasing MVA **EUR2.04m**
+  - FVA IGS **EUR10.22m** / cap subs **EUR1.78m**
+  - Exploitatie: ontvangsten **EUR18.92m** / uitgaven **EUR17.91m** / saldo **+EUR1.02m**
+  - AFM **+EUR0.761m** (gecorr **+EUR0.610m THIN**) / BBR **EUR8.64m HIGH** / budget **+EUR0.410m STRONG** / P&L **-EUR1.66m** (GE **-EUR0.658m** / OCMW **-EUR1.01m FOI**)
+  - Personnel **EUR9.33m** / toelagen **EUR3.06m JUMP FOI** (police **EUR1.32m JUMP** / fire **EUR0.324m** / IGS **EUR0.374m** / other **EUR1.01m JUMP** was 0.256)
+  - Invest **EUR4.59m** vs MJP **EUR8.32m UNDERSPEND FOI** / invest-subs granted **EUR1.19m HIGH FOI** / **OCMW cover EUR0.923m FULL-ish FOI** / OCMW cum **-EUR0.919m WORSENING**
+  - Toegestane lening eredienst **EUR0.087m FOI**
+- Dual: Laarne **EUR76.37m** / AFM **+EUR2.27m** / invest underspend 3.14 vs 9.02m (tick1014) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Buggenhout / Oosterzele / Moerbeke residual next optional
+- Wrote: budgets +54 (bud_slh_*); commitments +6; leaderboard +8; sources +1; entity city_sint_lievens_houtem; FOI **gap_slh_debt_toelagen_ocmw_l5** prio8 ready + draft; key only (PDF ~8.5MB not stored in git); rq_1015=done; spawn **rq_1016**; ticks=1015
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1016** residual dual L5 (Torhout / Stekene / Buggenhout / Oosterzele / other); deferred **rq_116**; progress@1020 in 5
+

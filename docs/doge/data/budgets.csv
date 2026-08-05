@@ -24397,3 +24397,57 @@ bud_laa_ocmw_expl_exp_2025,city_laarne,2025,6434020,,,bbc_jr_realized,src_laarne
 bud_laa_ocmw_expl_rec_2025,city_laarne,2025,4506235,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW exploitatieontvangsten J3 4.51m; tick1014
 bud_laa_ocmw_expl_saldo_2025,city_laarne,2025,-1927785,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW exploitatiesaldo -1.93m FOI residual; tick1014
 bud_laa_mjp_new_loans_planned_2025,city_laarne,2025,2240622,,,bbc_jr_realized,src_laarne_jr2025,strong,MJP new loans planned 2.24m not drawn FOI residual; tick1014
+bud_slh_assets_2025,city_sint_lievens_houtem,2025,47581951,,,bbc_jr_realized,src_slh_jr2025,strong,Assets YE2025 47.58m (was 46.05m); tick1015
+bud_slh_equity_2025,city_sint_lievens_houtem,2025,32821682,,,bbc_jr_realized,src_slh_jr2025,strong,Nettoactief YE2025 32.82m DROP (was 34.13m); tick1015
+bud_slh_debt_total_2025,city_sint_lievens_houtem,2025,14760269,,,bbc_jr_realized,src_slh_jr2025,strong,Total schulden YE2025 14.76m JUMP (was 11.93m); tick1015
+bud_slh_fin_debt_2025,city_sint_lievens_houtem,2025,9127906,,,bbc_jr_realized,src_slh_jr2025,strong,Fin debt total YE2025 9.13m JUMP (was 5.57m T4 FOI); tick1015
+bud_slh_fin_debt_lt_2025,city_sint_lievens_houtem,2025,8779559,,,bbc_jr_realized,src_slh_jr2025,strong,Fin debt LT YE2025 8.78m JUMP; tick1015
+bud_slh_fin_debt_st_due_2025,city_sint_lievens_houtem,2025,348347,,,bbc_jr_realized,src_slh_jr2025,strong,Fin debt ST due YE2025 0.348m; tick1015
+bud_slh_new_loans_2025,city_sint_lievens_houtem,2025,3855550,,,bbc_jr_realized,src_slh_jr2025,strong,Nieuwe leningen 2025 3.86m JUMP FOI (bank 3.50m + lease 0.356m); tick1015
+bud_slh_new_loans_bank_2025,city_sint_lievens_houtem,2025,3500000,,,bbc_jr_realized,src_slh_jr2025,strong,Bank leningen opname 2025 3.50m FOI residual; tick1015
+bud_slh_aflossingen_2025,city_sint_lievens_houtem,2025,293743,,,bbc_jr_realized,src_slh_jr2025,strong,Periodieke aflossingen 2025 0.294m; tick1015
+bud_slh_cash_2025,city_sint_lievens_houtem,2025,8883137,,,bbc_jr_realized,src_slh_jr2025,strong,Liquide middelen YE2025 8.88m DROP (was 9.70m FOI); tick1015
+bud_slh_pension_2025,city_sint_lievens_houtem,2025,2303236,,,bbc_jr_realized,src_slh_jr2025,strong,Pensioenvoorzieningen LT YE2025 2.30m DECLINING (was 2.49m); tick1015
+bud_slh_cap_subs_2025,city_sint_lievens_houtem,2025,1779114,,,bbc_jr_realized,src_slh_jr2025,strong,Kapitaalsubsidies YE2025 1.78m; tick1015
+bud_slh_fva_total_2025,city_sint_lievens_houtem,2025,10279205,,,bbc_jr_realized,src_slh_jr2025,strong,FVA total YE2025 10.28m; tick1015
+bud_slh_fva_igs_2025,city_sint_lievens_houtem,2025,10223431,,,bbc_jr_realized,src_slh_jr2025,strong,FVA IGS YE2025 10.22m; tick1015
+bud_slh_fva_other_2025,city_sint_lievens_houtem,2025,55774,,,bbc_jr_realized,src_slh_jr2025,strong,Andere FVA YE2025 0.056m; tick1015
+bud_slh_leasing_mva_2025,city_sint_lievens_houtem,2025,2039769,,,bbc_jr_realized,src_slh_jr2025,strong,Leasing MVA YE2025 2.04m; tick1015
+bud_slh_expl_rec_2025,city_sint_lievens_houtem,2025,18921249,,,bbc_jr_realized,src_slh_jr2025,strong,Exploitatieontvangsten 18.92m; tick1015
+bud_slh_expl_exp_2025,city_sint_lievens_houtem,2025,17905495,,,bbc_jr_realized,src_slh_jr2025,strong,Exploitatieuitgaven 17.91m; tick1015
+bud_slh_expl_saldo_2025,city_sint_lievens_houtem,2025,1015754,,,bbc_jr_realized,src_slh_jr2025,strong,Exploitatiesaldo +1.02m; tick1015
+bud_slh_invest_exp_2025,city_sint_lievens_houtem,2025,4588726,,,bbc_jr_realized,src_slh_jr2025,strong,Investeringsuitgaven 4.59m vs MJP 8.32m UNDERSPEND FOI; tick1015
+bud_slh_invest_rec_2025,city_sint_lievens_houtem,2025,468733,,,bbc_jr_realized,src_slh_jr2025,strong,Investeringsontvangsten 0.469m; tick1015
+bud_slh_invest_saldo_2025,city_sint_lievens_houtem,2025,-4119993,,,bbc_jr_realized,src_slh_jr2025,strong,Investeringssaldo -4.12m; tick1015
+bud_slh_mjp_invest_planned_2025,city_sint_lievens_houtem,2025,8315185,,,bbc_jr_realized,src_slh_jr2025,strong,MJP invest planned 8.32m vs realized 4.59m underspend FOI; tick1015
+bud_slh_afm_2025,city_sint_lievens_houtem,2025,761350,,,bbc_jr_realized,src_slh_jr2025,strong,AFM +0.761m; tick1015
+bud_slh_afm_corr_2025,city_sint_lievens_houtem,2025,609805,,,bbc_jr_realized,src_slh_jr2025,strong,Gecorrigeerde AFM +0.610m THIN FOI residual; tick1015
+bud_slh_bbr_2025,city_sint_lievens_houtem,2025,8642414,,,bbc_jr_realized,src_slh_jr2025,strong,BBR beschikbaar 8.64m HIGH; tick1015
+bud_slh_budget_result_2025,city_sint_lievens_houtem,2025,410270,,,bbc_jr_realized,src_slh_jr2025,strong,Budgettair resultaat +0.410m STRONG; tick1015
+bud_slh_cum_br_2025,city_sint_lievens_houtem,2025,8829081,,,bbc_jr_realized,src_slh_jr2025,strong,Gecumuleerd budgettair resultaat 8.83m; tick1015
+bud_slh_pnl_2025,city_sint_lievens_houtem,2025,-1664125,,,bbc_jr_realized,src_slh_jr2025,strong,P&L -1.66m FOI residual; tick1015
+bud_slh_pnl_ge_2025,city_sint_lievens_houtem,2025,-657721,,,bbc_jr_realized,src_slh_jr2025,strong,GE P&L -0.658m FOI; tick1015
+bud_slh_pnl_ocmw_2025,city_sint_lievens_houtem,2025,-1006404,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW P&L -1.01m FOI; tick1015
+bud_slh_ocmw_cover_2025,city_sint_lievens_houtem,2025,922710,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW cover 0.923m FULL-ish FOI residual vs OCMW -1.01m; tick1015
+bud_slh_ocmw_cum_deficit_2025,city_sint_lievens_houtem,2025,-919064,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW cum tekort YE2025 -0.919m WORSENING (was -0.835m after cover); tick1015
+bud_slh_personnel_2025,city_sint_lievens_houtem,2025,9327933,,,bbc_jr_realized,src_slh_jr2025,strong,Bezoldigingen 9.33m; tick1015
+bud_slh_toelagen_2025,city_sint_lievens_houtem,2025,3061615,,,bbc_jr_realized,src_slh_jr2025,strong,Toegestane werkingssubsidies 3.06m JUMP (was 2.11m FOI); tick1015
+bud_slh_toelagen_police_2025,city_sint_lievens_houtem,2025,1321929,,,bbc_jr_realized,src_slh_jr2025,strong,Toelage politiezone 1.32m JUMP (was 1.11m); tick1015
+bud_slh_toelagen_fire_2025,city_sint_lievens_houtem,2025,323534,,,bbc_jr_realized,src_slh_jr2025,strong,Toelage hulpverleningszone 0.324m; tick1015
+bud_slh_toelagen_igs_2025,city_sint_lievens_houtem,2025,373733,,,bbc_jr_realized,src_slh_jr2025,strong,Toelage IGS 0.374m; tick1015
+bud_slh_toelagen_eredienst_2025,city_sint_lievens_houtem,2025,35638,,,bbc_jr_realized,src_slh_jr2025,strong,Toelage eredienst 0.036m; tick1015
+bud_slh_toelagen_other_2025,city_sint_lievens_houtem,2025,1006782,,,bbc_jr_realized,src_slh_jr2025,strong,Toelage andere begunstigden 1.01m JUMP FOI residual; tick1015
+bud_slh_ocmw_aid_2025,city_sint_lievens_houtem,2025,519299,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW individuele hulp 0.519m; tick1015
+bud_slh_fiscal_2025,city_sint_lievens_houtem,2025,11136843,,,bbc_jr_realized,src_slh_jr2025,strong,Fiscale opbrengsten 11.14m; tick1015
+bud_slh_fiscal_ov_2025,city_sint_lievens_houtem,2025,3626707,,,bbc_jr_realized,src_slh_jr2025,strong,Opcentiemen OV 3.63m; tick1015
+bud_slh_fiscal_pb_2025,city_sint_lievens_houtem,2025,6092065,,,bbc_jr_realized,src_slh_jr2025,strong,Aanvullende PB 6.09m JUMP (was 4.93m); tick1015
+bud_slh_gemeentefonds_2025,city_sint_lievens_houtem,2025,2718391,,,bbc_jr_realized,src_slh_jr2025,strong,Gemeentefonds 2.72m; tick1015
+bud_slh_fin_opbr_2025,city_sint_lievens_houtem,2025,342644,,,bbc_jr_realized,src_slh_jr2025,strong,Financiele opbrengsten J5 0.343m; tick1015
+bud_slh_fin_costs_2025,city_sint_lievens_houtem,2025,225925,,,bbc_jr_realized,src_slh_jr2025,strong,Financiele kosten 0.226m JUMP; tick1015
+bud_slh_invest_subs_granted_2025,city_sint_lievens_houtem,2025,1194768,,,bbc_jr_realized,src_slh_jr2025,strong,Toegestane investeringssubsidies 1.19m HIGH FOI residual; tick1015
+bud_slh_cum_equity_surplus_2025,city_sint_lievens_houtem,2025,1727742,,,bbc_jr_realized,src_slh_jr2025,strong,Gecumuleerd equity surplus YE2025 +1.73m DROP (was 3.39m); tick1015
+bud_slh_ge_expl_exp_2025,city_sint_lievens_houtem,2025,15780062,,,bbc_jr_realized,src_slh_jr2025,strong,GE exploitatieuitgaven J3 15.78m; tick1015
+bud_slh_ocmw_expl_exp_2025,city_sint_lievens_houtem,2025,2125433,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW exploitatieuitgaven J3 2.13m FOI; tick1015
+bud_slh_ocmw_expl_rec_2025,city_sint_lievens_houtem,2025,1213551,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW exploitatieontvangsten J3 1.21m; tick1015
+bud_slh_ocmw_expl_saldo_2025,city_sint_lievens_houtem,2025,-911882,,,bbc_jr_realized,src_slh_jr2025,strong,OCMW exploitatiesaldo -0.912m FOI residual; tick1015
+bud_slh_loan_to_eredienst_2025,city_sint_lievens_houtem,2025,86637,,,bbc_jr_realized,src_slh_jr2025,strong,Toegestane lening eredienst 0.087m FOI residual; tick1015
