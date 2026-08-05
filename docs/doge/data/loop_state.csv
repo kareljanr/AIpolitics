@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T03:15:00Z,rq_909,909,no,tick909 Oostkamp JR2025 dual Ingelmunster; FOI gap_osk_loans_toelagen_cash_l5 prio8 new loans 6.07m cash 9.6m AFM +6.3m; next progress@910 prio10; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T03:45:00Z,rq_910,910,no,tick910 progress@910 after VL residual 901-909 (Lier 32.7m loans / invest-subs 16.8m; Stabroek AFM -2.35m; pure top10 stable); next residual dual L5 rq_911; rq_116 deferred

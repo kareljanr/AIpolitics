@@ -11366,3 +11366,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_osk_*); commitments +4; leaderboard +7; sources +2; entity city_oostkamp; FOI **gap_osk_loans_toelagen_cash_l5** prio8 ready + draft; raw PDF + key; rq_909=done; spawn **rq_910 progress@910 prio10**; ticks=909
 - FOI: ready only - **do not send**
 - Next: **progress@910 NEXT** (prio10 rq_910); then residual dual L5; deferred **rq_116**
+
+## Tick 910 - 2026-08-07T03:45:00Z
+
+- Unit: **rq_910** (mandatory **progress@910** — coverage layers A-E + waste top10)
+- Inventory: budgets **~20032** / commitments **~2597** / leaderboard **~4198** / entities **~644** / sources **~1786** / FOI ready **~602** / answered **~9** / partial **~27** / total FOI **~643**
+- Coverage: A/B **100%** · C **~99%** · D **~70-84%** generous (gain = VL residual hole-fill, not near-complete of EUR348bn) · E FOI-ready **~602**
+- Gain since tick900 (VL JR2025 residual 901-909, dual not TE-additive):
+  - Boortmeerbeek **EUR82m** / invest-subs police **EUR2.90m** · Tremelo **EUR92m** / AGB loan **EUR12.09m** · Mortsel **EUR171m** / ST **EUR9.97m** / police **EUR5.73m**
+  - **Lier EUR323m** / **new loans EUR32.7m** / **invest-subs other EUR16.8m** / P&L **-EUR16.2m**
+  - Beersel **EUR174m** / AFM **+EUR8.3m** / personnel **EUR30.2m** · Stabroek **EUR118m** / **AFM -EUR2.35m** / pension cash **EUR4.31m**
+  - Rumst **EUR83m** / loans **EUR4.65m** · Ingelmunster **EUR79m** / sportpark **EUR4.3m** · Oostkamp **EUR140m** / loans **EUR6.07m** / cash jump
+- Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@910; doge_waste_top10_current.md as-of 910; rq_910=done; spawn **rq_911** hole_fill; ticks=910
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_911** residual dual L5; deferred **rq_116**; progress@920 in 10

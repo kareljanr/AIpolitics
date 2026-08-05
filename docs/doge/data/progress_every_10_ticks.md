@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 910** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 901-909: Boortmeerbeek **EUR82m** / Tremelo **EUR92m** / Mortsel **EUR171m** / Lier **EUR323m** / Beersel **EUR174m** / Stabroek **EUR118m** / Rumst **EUR83m** / Ingelmunster **EUR79m** / Oostkamp **EUR140m** · prior Olen-Rotselaar + fusion/enclave stack retained |
+| **D. L5 named / measure end-lines** | **~70-84%** of TE (generous) | **Gain 900-910 is VL mid/small residual hole-fill (not near-complete of 348bn):** personnel Lier **EUR62m** / Mortsel **EUR45m** / Beersel **EUR30m** (was **EUR24m**) / Stabroek **EUR17m** / Oostkamp **EUR14m** / Rumst **EUR13m** / Tremelo **EUR12m** / Boortmeerbeek **EUR11m** / Ingelmunster **EUR11m** · AFM spectrum Beersel **+EUR8.3m** / Oostkamp **+EUR6.3m** / Boortmeerbeek **+EUR4.4m** / Ingelmunster **+EUR3.6m** · **Stabroek AFM −EUR2.35m** · FOI-adjacent: Lier **new loans EUR32.7m** / **invest-subs other EUR16.8m** / cash drop **EUR5.9to1.2m** / P&L **−EUR16.2m** · Mortsel **ST debt EUR9.97m** / police **EUR5.73m** / gecorr **−EUR0.85m** · Tremelo **AGB loan EUR12.09m** / FVA reval **EUR4to8.5m** · Boortmeerbeek **invest-subs police EUR2.90m** · Beersel **personnel jump +EUR5.9m** / **eredienst invest-subs EUR0.91m** · Stabroek **pension cash EUR4.31m** / new loans **EUR4.66m** · Rumst **new loans EUR4.65m** / IGS **EUR1.73m** · Ingelmunster **sportpark EUR4.3m** / **OCMW cover EUR3.0m** · Oostkamp **new loans EUR6.07m** / **cash jump EUR2.9to9.6m** |
+| **E. FOI-ready gaps** | **~602** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~643** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / BKZ **EUR815m** / Lier **EUR323m** / Beersel **EUR174m** / Mortsel **EUR171m** / Oostkamp **EUR140m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 910)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~20032 |
+| commitments.csv | ~2597 |
+| leaderboard.csv | ~4198 |
+| entities.csv | ~644 |
+| sources.csv | ~1786 |
+| FOI ready | ~602 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~643 |
+| research_queue open | rq_116 deferred + rq_911 hole-fill after progress |
+
+### What improved since tick 900
+
+- **VL city JR2025 residual (tick901-909):** Boortmeerbeek assets **EUR82m** / **invest-subs police EUR2.90m** / AFM **+EUR4.4m** · Tremelo **EUR92m** / **AGB loan EUR12.09m** / fin debt **EUR24m** / ST treasury **EUR3.0m** / FVA reval · Mortsel **EUR171m** / fin debt **EUR72m** / **ST EUR9.97m** / police **EUR5.73m** / gecorr **−EUR0.85m** · **Lier EUR323m** / **new loans EUR32.7m** / **invest-subs other EUR16.8m** / cash **EUR1.2m** / P&L **−EUR16.2m** · Beersel **EUR174m** / cash **EUR37m** / AFM **+EUR8.3m** / **personnel EUR30.2m** / eredienst invest-subs **EUR0.91m** · Stabroek **EUR118m** / **AFM −EUR2.35m** / **pension cash EUR4.31m** / new loans **EUR4.66m** · Rumst **EUR83m** / **new loans EUR4.65m** / IGS **EUR1.73m** · Ingelmunster **EUR79m** / AFM **+EUR3.6m** / **sportpark EUR4.3m** / **OCMW cover EUR3.0m** · Oostkamp **EUR140m** / **new loans EUR6.07m** / AFM **+EUR6.3m** / **cash jump EUR2.9to9.6m**.
+- **Dual map:** Antwerp/Mechelen corridor (Mortsel/Lier/Stabroek/Rumst) · high-loan-draw (Lier **EUR32.7m** vs Oostkamp **EUR6.1m** / Rumst-Stabroek **~EUR4.7m**) · AFM stress dual (Stabroek **−EUR2.35m** vs Beersel **+EUR8.3m** / Oostkamp **+EUR6.3m**) · invest-subs opacity (Lier other **EUR16.8m** / Boortmeerbeek police **EUR2.9m**) · AGB/erfpacht dual (Tremelo) · cash jump vs drop (Oostkamp jump vs Lier/Rumst drop) · personnel step-change (Beersel onderwijs).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 900** (2026-08-06)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
