@@ -11239,3 +11239,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_bmb_*); commitments +4; leaderboard +7; sources +2; entity city_boortmeerbeek; FOI **gap_bmb_invest_subs_police_mjp_l5** prio8 ready + draft; raw PDF + key; rq_901=done; spawn **rq_902**; ticks=901
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_902** residual dual L5 (Tremelo/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@910 in 9
+
+## Tick 902 - 2026-08-06T23:45:00Z
+
+- Unit: **rq_902** (FOI-adjacent residual dual - **Gemeente+OCMW Tremelo Jaarrekening 2025** + Boortmeerbeek dual)
+- Found (strong primary BBC JR2025 149p):
+  - Assets **EUR92.2m** / equity **EUR56.0m** / debt total **EUR36.2m** / fin debt **EUR24.0m** (was **EUR19.0m**; LT **EUR19.9m** / ST due **EUR1.13m** / **ST treasury EUR3.0m FOI**)
+  - New loans **EUR3.13m** (bank **EUR2.8m** 30y 3.127% + leasing) / pension **EUR8.7m** / cash **EUR4.9m**
+  - **Toegestane leningen EUR13.06m (AGB erfpacht sporthal EUR12.09m FOI)** / FVA IGS **EUR8.53m was EUR4.09m REVAL**
+  - Exploitatie: ontvangsten **EUR25.5m** / uitgaven **EUR23.6m** / saldo **+EUR1.96m** (drop -1.56m y/y)
+  - AFM **+EUR0.98m** (gecorr **+EUR0.59m**) / BBR **EUR2.87m** / budget result **-EUR1.55m** / P&L **+EUR3.21m**
+  - Personnel **EUR12.0m** / toelagen **EUR3.82m** (police **EUR2.31m +0.50m FOI** / other **EUR0.30m FOI**) / fiscal **EUR15.0m**
+  - Invest exp **EUR6.3m** / invest rec **EUR13.7m** / invest-subs granted **EUR0.25m** / gemeentefonds **EUR2.93m**
+  - OCMW deficit cover **EUR2.12m** / herwaard reserves **EUR5.78m** (was **EUR1.33m**)
+- Dual: Boortmeerbeek **EUR81.6m** / invest-subs police **EUR2.90m** (tick901) - not TE-additive
+- Wrote: budgets +47 (bud_trm_*); commitments +4; leaderboard +7; sources +2; entity city_tremelo; FOI **gap_trm_agb_loan_police_treasury_l5** prio8 ready + draft; raw PDF + key; rq_902=done; spawn **rq_903**; ticks=902
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_903** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@910 in 8

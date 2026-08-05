@@ -1,0 +1,48 @@
+Tremelo Gemeente+OCMW Jaarrekening 2025 (BBC 149p) — tick902
+Primary: https://www.tremelo.be/download.ashx?id=38337
+Portal: https://www.tremelo.be/product/1462/jaarrekeningen
+Published: 30/06/2026
+
+BALANCE YE2025 / YE2024
+- Assets: 92,183,249 / 79,641,597
+- Equity (nettoactief): 56,009,708 / 47,291,175
+- Debt total: 36,173,541 / 32,350,422
+- Fin debt total (T4): 24,030,601 / 19,031,958
+  - LT: 19,900,450 / 17,953,655
+  - ST due: 1,130,151 / 1,078,304
+  - ST treasury: 3,000,000 / 0
+- Pension: 8,702,822 / 8,815,088
+- Cash: 4,916,515 / 5,662,522
+- Cap subs: 7,744,984 / 6,685,461
+- FVA IGS: 8,525,960 / 4,085,452 (REVAL)
+- FVA total: 12,057,269 / 7,616,761
+- LT receivables: 14,565,406 / 1,882,384 (AGB erfpacht 12,092,000)
+- Herwaard reserves: 5,778,590 / 1,332,909
+
+J2 FLOW 2025
+- Expl rec 25,540,516 / exp 23,577,987 / saldo +1,962,530
+- Invest rec 13,651,906 / exp 6,300,888 / saldo +7,351,019
+- Fin saldo -10,861,985
+- Budget result -1,548,437
+- Cumul budget 3,057,735 (was 4,606,171)
+- BBR 2,868,723
+- AFM +977,639 / gecorr +590,737
+
+J5 / T2 P&L
+- Personnel 11,999,267
+- Toelagen 3,822,457 (police 2,313,276 fire 686,518 AGB 398,145 IGS 114,433 other 303,100)
+- OCMW aid 645,282
+- Fiscal 14,976,922 (OV 4,785,356 APB 7,972,282)
+- Gemeentefonds 2,927,098
+- Invest-subs granted 253,849 (police 60,459 fire 135,765)
+- Invest-subs received 1,416,941
+- P&L +3,213,330
+
+FINANCING
+- New loans 3,134,298 (2,800,000 bank 30y 3.127% + 334,298 leasing)
+- Loans granted 13,058,038 (AGB erfpacht sporthal 12,092,000)
+- OCMW deficit cover 2,117,534
+- Openstaande schuld leningen kengetallen 21,034,150; T4 total fin 24,030,601
+
+DUAL: Boortmeerbeek assets 81.6m AFM +4.4m invest-subs police 2.90m (tick901) — not TE-additive
+FOI: gap_trm_agb_loan_police_treasury_l5 prio8 ready

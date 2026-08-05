@@ -19693,3 +19693,50 @@ bud_bmb_invest_subs_police_2025,city_boortmeerbeek,2025,2897698,,,jaarrekening_r
 bud_bmb_new_loans_2025,city_boortmeerbeek,2025,77732,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Nieuwe leningen/leasings 0.078m 2025; tick901
 bud_bmb_mjp_fin_debt_2027,city_boortmeerbeek,2025,9297237,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,MJP fin debt path YE2027 9.297m FOI; tick901
 bud_bmb_mjp_new_loans_2026,city_boortmeerbeek,2025,4067219,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,MJP new loans 2026 4.067m FOI; tick901
+bud_trm_assets_2025,city_tremelo,2025,92183249,,,jaarrekening_realized,src_tremelo_jr2025,strong,Consol total assets YE2025 92.183m; tick902
+bud_trm_equity_2025,city_tremelo,2025,56009708,,,jaarrekening_realized,src_tremelo_jr2025,strong,Nettoactief YE2025 56.010m; tick902
+bud_trm_debt_total_2025,city_tremelo,2025,36173541,,,jaarrekening_realized,src_tremelo_jr2025,strong,Schulden total YE2025 36.174m; tick902
+bud_trm_fin_debt_2025,city_tremelo,2025,24030601,,,jaarrekening_realized,src_tremelo_jr2025,strong,Fin schulden total YE2025 24.031m (LT 19.900 + ST due 1.130 + ST treasury 3.000 was 19.032m); tick902
+bud_trm_fin_debt_lt_2025,city_tremelo,2025,19900450,,,jaarrekening_realized,src_tremelo_jr2025,strong,Fin schulden LT YE2025 19.900m; tick902
+bud_trm_fin_debt_st_2025,city_tremelo,2025,1130151,,,jaarrekening_realized,src_tremelo_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.130m; tick902
+bud_trm_fin_debt_st_treasury_2025,city_tremelo,2025,3000000,,,jaarrekening_realized,src_tremelo_jr2025,strong,Thesaurievoorschotten ST YE2025 3.000m FOI (BTW bridge); tick902
+bud_trm_pension_prov_2025,city_tremelo,2025,8702822,,,jaarrekening_realized,src_tremelo_jr2025,strong,Pensioenvoorzieningen YE2025 8.703m (was 8.815m); tick902
+bud_trm_cash_2025,city_tremelo,2025,4916515,,,jaarrekening_realized,src_tremelo_jr2025,strong,Liquide middelen YE2025 4.917m (was 5.663m); tick902
+bud_trm_cap_subs_2025,city_tremelo,2025,7744984,,,jaarrekening_realized,src_tremelo_jr2025,strong,Kapitaalsubsidies YE2025 7.745m; tick902
+bud_trm_fva_igs_2025,city_tremelo,2025,8525960,,,jaarrekening_realized,src_tremelo_jr2025,strong,Fin VA IGS YE2025 8.526m (was 4.085m REVAL FOI); tick902
+bud_trm_fva_total_2025,city_tremelo,2025,12057269,,,jaarrekening_realized,src_tremelo_jr2025,strong,Fin VA total YE2025 12.057m; tick902
+bud_trm_lt_receivables_2025,city_tremelo,2025,14565406,,,jaarrekening_realized,src_tremelo_jr2025,strong,Vorderingen LT YE2025 14.565m (AGB erfpacht sporthal 12.092m FOI); tick902
+bud_trm_cumul_budget_2025,city_tremelo,2025,3057735,,,jaarrekening_realized,src_tremelo_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 3.058m; tick902
+bud_trm_bbr_2025,city_tremelo,2025,2868723,,,jaarrekening_realized,src_tremelo_jr2025,strong,Beschikbaar budgettair resultaat YE2025 2.869m; tick902
+bud_trm_expl_rec_2025,city_tremelo,2025,25540516,,,jaarrekening_realized,src_tremelo_jr2025,strong,Exploitatieontvangsten 25.541m 2025 (J2); tick902
+bud_trm_expl_exp_2025,city_tremelo,2025,23577987,,,jaarrekening_realized,src_tremelo_jr2025,strong,Exploitatieuitgaven 23.578m 2025 (J2); tick902
+bud_trm_expl_saldo_2025,city_tremelo,2025,1962530,,,jaarrekening_realized,src_tremelo_jr2025,strong,Exploitatiesaldo +1.963m 2025; tick902
+bud_trm_invest_exp_2025,city_tremelo,2025,6300888,,,jaarrekening_realized,src_tremelo_jr2025,strong,Investeringsuitgaven 6.301m 2025; tick902
+bud_trm_invest_rec_2025,city_tremelo,2025,13651906,,,jaarrekening_realized,src_tremelo_jr2025,strong,Investeringsontvangsten 13.652m 2025 (AGB erfpacht ~12.2m); tick902
+bud_trm_invest_saldo_2025,city_tremelo,2025,7351019,,,jaarrekening_realized,src_tremelo_jr2025,strong,Investeringssaldo +7.351m 2025; tick902
+bud_trm_fin_saldo_2025,city_tremelo,2025,-10861985,,,jaarrekening_realized,src_tremelo_jr2025,strong,Financieringssaldo -10.862m 2025 (AGB loan + new loans FOI); tick902
+bud_trm_budget_result_2025,city_tremelo,2025,-1548437,,,jaarrekening_realized,src_tremelo_jr2025,strong,Budgettair resultaat boekjaar -1.548m 2025; tick902
+bud_trm_afm_2025,city_tremelo,2025,977639,,,jaarrekening_realized,src_tremelo_jr2025,strong,Autofinancieringsmarge +0.978m 2025; tick902
+bud_trm_afm_gecorr_2025,city_tremelo,2025,590737,,,jaarrekening_realized,src_tremelo_jr2025,strong,Gecorrigeerde AFM +0.591m 2025; tick902
+bud_trm_pl_2025,city_tremelo,2025,3213330,,,jaarrekening_realized,src_tremelo_jr2025,strong,P&L overschot +3.213m 2025; tick902
+bud_trm_personnel_2025,city_tremelo,2025,11999267,,,jaarrekening_realized,src_tremelo_jr2025,strong,Bezoldigingen 11.999m 2025; tick902
+bud_trm_toelagen_2025,city_tremelo,2025,3822457,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toegestane werkingssubsidies 3.822m 2025; tick902
+bud_trm_toelagen_police_2025,city_tremelo,2025,2313276,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toelage politiezone BRT 2.313m 2025 (+0.502m FOI); tick902
+bud_trm_toelagen_fire_2025,city_tremelo,2025,686518,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toelage hulpverleningszone 0.687m 2025; tick902
+bud_trm_toelagen_agb_2025,city_tremelo,2025,398145,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toelage AGB 0.398m 2025; tick902
+bud_trm_toelagen_igs_2025,city_tremelo,2025,114433,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toelage IGS 0.114m 2025; tick902
+bud_trm_toelagen_other_2025,city_tremelo,2025,303100,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toelagen andere begunstigden 0.303m 2025 FOI; tick902
+bud_trm_ocmw_aid_2025,city_tremelo,2025,645282,,,jaarrekening_realized,src_tremelo_jr2025,strong,Individuele hulpverlening OCMW 0.645m 2025; tick902
+bud_trm_fiscal_2025,city_tremelo,2025,14976922,,,jaarrekening_realized,src_tremelo_jr2025,strong,Fiscale opbrengsten en boetes 14.977m 2025; tick902
+bud_trm_fiscal_ov_2025,city_tremelo,2025,4785356,,,jaarrekening_realized,src_tremelo_jr2025,strong,Opcentiemen OV 4.785m 2025; tick902
+bud_trm_fiscal_apb_2025,city_tremelo,2025,7972282,,,jaarrekening_realized,src_tremelo_jr2025,strong,Aanvullende PB 7.972m 2025; tick902
+bud_trm_gemeentefonds_2025,city_tremelo,2025,2927098,,,jaarrekening_realized,src_tremelo_jr2025,strong,Gemeentefonds 2.927m 2025; tick902
+bud_trm_invest_subs_granted_2025,city_tremelo,2025,253849,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toegestane investeringssubsidies 0.254m 2025; tick902
+bud_trm_invest_subs_police_2025,city_tremelo,2025,60459,,,jaarrekening_realized,src_tremelo_jr2025,strong,Invest-subs politiezone 0.060m 2025; tick902
+bud_trm_invest_subs_fire_2025,city_tremelo,2025,135765,,,jaarrekening_realized,src_tremelo_jr2025,strong,Invest-subs brandweer 0.136m 2025; tick902
+bud_trm_invest_subs_received_2025,city_tremelo,2025,1416941,,,jaarrekening_realized,src_tremelo_jr2025,strong,Ontvangen investeringssubsidies 1.417m 2025; tick902
+bud_trm_new_loans_2025,city_tremelo,2025,3134298,,,jaarrekening_realized,src_tremelo_jr2025,strong,Nieuwe leningen/leasings 3.134m 2025 (2.8m 30y 3.127% + leasing FOI); tick902
+bud_trm_loans_granted_2025,city_tremelo,2025,13058038,,,jaarrekening_realized,src_tremelo_jr2025,strong,Toegestane leningen 13.058m 2025 (AGB erfpacht sporthal 12.092m FOI); tick902
+bud_trm_loans_granted_agb_sporthal_2025,city_tremelo,2025,12092000,,,jaarrekening_realized,src_tremelo_jr2025,strong,AGB erfpacht sporthal toegestane lening 12.092m 2025 FOI; tick902
+bud_trm_ocmw_deficit_cover_2025,city_tremelo,2025,2117534,,,jaarrekening_realized,src_tremelo_jr2025,strong,Tussenkomst OCMW tekort 2.118m 2025; tick902
+bud_trm_herwaard_reserves_2025,city_tremelo,2025,5778590,,,jaarrekening_realized,src_tremelo_jr2025,strong,Herwaarderingsreserves YE2025 5.779m (was 1.333m FOI); tick902

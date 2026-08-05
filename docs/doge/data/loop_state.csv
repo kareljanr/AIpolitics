@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T23:30:00Z,rq_901,901,no,tick901 Boortmeerbeek JR2025 dual Rotselaar; FOI gap_bmb_invest_subs_police_mjp_l5 prio8 invest-subs police 2.90m AFM +4.4m; next rq_902 residual dual L5; progress@910 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T23:45:00Z,rq_902,902,no,tick902 Tremelo JR2025 dual Boortmeerbeek; FOI gap_trm_agb_loan_police_treasury_l5 prio8 AGB loan 12.09m fin debt 24m police 2.31m; next rq_903 residual dual L5; progress@910 in 8; rq_116 deferred
