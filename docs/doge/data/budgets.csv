@@ -27081,3 +27081,50 @@ bud_mei_gemeentefonds_2025,city_meise,2025,4329557,,,bbc_jr_realized,src_meise_j
 bud_mei_interest_2025,city_meise,2025,453720,,,bbc_jr_realized,src_meise_jr2025,strong,Rente leningen 0.454m 2025; tick1065
 bud_mei_invest_subs_granted_2025,city_meise,2025,85852,,,bbc_jr_realized,src_meise_jr2025,strong,Toegestane invest-subs 0.086m 2025; tick1065
 bud_mei_vorderingen_kt_2025,city_meise,2025,6274855,,,bbc_jr_realized,src_meise_jr2025,strong,Vorderingen KT YE2025 6.27m JUMP; tick1065
+bud_spl_assets_2025,city_sint_pieters_leeuw,2025,172563417,,,bbc_jr_realized,src_spl_jr2025,strong,Assets YE2025 172.56m slight DROP (was 173.20m); tick1066
+bud_spl_equity_2025,city_sint_pieters_leeuw,2025,112799358,,,bbc_jr_realized,src_spl_jr2025,strong,Nettoactief YE2025 112.80m JUMP (was 112.07m); tick1066
+bud_spl_debt_total_2025,city_sint_pieters_leeuw,2025,59764059,,,bbc_jr_realized,src_spl_jr2025,strong,Total schulden YE2025 59.76m DECLINE (was 61.14m); tick1066
+bud_spl_fin_debt_2025,city_sint_pieters_leeuw,2025,30357580,,,bbc_jr_realized,src_spl_jr2025,strong,Fin debt total YE2025 30.36m DECLINE (was 32.30m T4); tick1066
+bud_spl_fin_debt_lt_2025,city_sint_pieters_leeuw,2025,27995554,,,bbc_jr_realized,src_spl_jr2025,strong,Fin debt LT YE2025 28.00m DECLINE (was 30.04m); tick1066
+bud_spl_fin_debt_st_due_2025,city_sint_pieters_leeuw,2025,2362027,,,bbc_jr_realized,src_spl_jr2025,strong,Fin debt ST due YE2025 2.36m; tick1066
+bud_spl_fin_debt_st_2025,city_sint_pieters_leeuw,2025,0,,,bbc_jr_realized,src_spl_jr2025,strong,Fin debt ST treasury YE2025 0; tick1066
+bud_spl_new_loans_2025,city_sint_pieters_leeuw,2025,371564,,,bbc_jr_realized,src_spl_jr2025,strong,Nieuwe leningen/leasings 0.372m LOW; tick1066
+bud_spl_aflossingen_2025,city_sint_pieters_leeuw,2025,2311875,,,bbc_jr_realized,src_spl_jr2025,strong,Periodieke aflossingen 2.31m; tick1066
+bud_spl_cash_2025,city_sint_pieters_leeuw,2025,3554180,,,bbc_jr_realized,src_spl_jr2025,strong,Liquide middelen YE2025 3.55m MASSIVE DROP FOI (was 6.83m -3.28m); tick1066
+bud_spl_pension_2025,city_sint_pieters_leeuw,2025,16422017,,,bbc_jr_realized,src_spl_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.42m DROP FOI (was 16.72m); tick1066
+bud_spl_cap_subs_2025,city_sint_pieters_leeuw,2025,19310306,,,bbc_jr_realized,src_spl_jr2025,strong,Kapitaalsubsidies YE2025 19.31m; tick1066
+bud_spl_fva_total_2025,city_sint_pieters_leeuw,2025,34823426,,,bbc_jr_realized,src_spl_jr2025,strong,FVA total YE2025 34.82m; tick1066
+bud_spl_fva_igs_2025,city_sint_pieters_leeuw,2025,32005751,,,bbc_jr_realized,src_spl_jr2025,strong,FVA IGS YE2025 32.01m; tick1066
+bud_spl_leasing_mva_2025,city_sint_pieters_leeuw,2025,4178430,,,bbc_jr_realized,src_spl_jr2025,strong,Leasing MVA YE2025 ~4.18m (4.06+0.12); tick1066
+bud_spl_cumul_budget_2025,city_sint_pieters_leeuw,2025,2280768,,,bbc_jr_realized,src_spl_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 2.28m; tick1066
+bud_spl_bbr_2025,city_sint_pieters_leeuw,2025,2280768,,,bbc_jr_realized,src_spl_jr2025,strong,Beschikbaar budgettair resultaat YE2025 2.28m FOI; tick1066
+bud_spl_expl_rec_2025,city_sint_pieters_leeuw,2025,70320559,,,bbc_jr_realized,src_spl_jr2025,strong,Exploitatieontvangsten 70.32m 2025 (J2); tick1066
+bud_spl_expl_exp_2025,city_sint_pieters_leeuw,2025,64114925,,,bbc_jr_realized,src_spl_jr2025,strong,Exploitatieuitgaven 64.11m 2025 (J2); tick1066
+bud_spl_expl_saldo_2025,city_sint_pieters_leeuw,2025,6205633,,,bbc_jr_realized,src_spl_jr2025,strong,Exploitatiesaldo +6.21m VERY STRONG 2025; tick1066
+bud_spl_invest_exp_2025,city_sint_pieters_leeuw,2025,11084817,,,bbc_jr_realized,src_spl_jr2025,strong,Investeringsuitgaven J2 11.08m vs MJP 28.11m MASSIVE UNDERSPEND FOI; tick1066
+bud_spl_invest_rec_2025,city_sint_pieters_leeuw,2025,3173875,,,bbc_jr_realized,src_spl_jr2025,strong,Investeringsontvangsten J2 3.17m; tick1066
+bud_spl_invest_saldo_2025,city_sint_pieters_leeuw,2025,-7910941,,,bbc_jr_realized,src_spl_jr2025,strong,Investeringssaldo -7.91m 2025; tick1066
+bud_spl_fin_saldo_2025,city_sint_pieters_leeuw,2025,-1904437,,,bbc_jr_realized,src_spl_jr2025,strong,Financieringssaldo -1.90m 2025; tick1066
+bud_spl_budget_result_2025,city_sint_pieters_leeuw,2025,-3609745,,,bbc_jr_realized,src_spl_jr2025,strong,Budgettair resultaat boekjaar -3.61m NEG HIGH FOI 2025; tick1066
+bud_spl_afm_2025,city_sint_pieters_leeuw,2025,4560537,,,bbc_jr_realized,src_spl_jr2025,strong,Autofinancieringsmarge +4.56m VERY STRONG 2025; tick1066
+bud_spl_afm_gecorr_2025,city_sint_pieters_leeuw,2025,4288572,,,bbc_jr_realized,src_spl_jr2025,strong,Gecorrigeerde AFM +4.29m 2025; tick1066
+bud_spl_pl_2025,city_sint_pieters_leeuw,2025,-116143,,,bbc_jr_realized,src_spl_jr2025,strong,P&L tekort -0.116m 2025; tick1066
+bud_spl_personnel_2025,city_sint_pieters_leeuw,2025,37857858,,,bbc_jr_realized,src_spl_jr2025,strong,Bezoldigingen 37.86m JUMP 2025 (was 34.68m; onderwijs other 6.40m); tick1066
+bud_spl_personnel_onderwijs_other_2025,city_sint_pieters_leeuw,2025,6397516,,,bbc_jr_realized,src_spl_jr2025,strong,Onderwijzend personeel ten laste van andere 6.40m 2025; tick1066
+bud_spl_toelagen_2025,city_sint_pieters_leeuw,2025,7518480,,,bbc_jr_realized,src_spl_jr2025,strong,Toegestane werkingssubsidies 7.52m FOI 2025; tick1066
+bud_spl_toelagen_police_2025,city_sint_pieters_leeuw,2025,3908733,,,bbc_jr_realized,src_spl_jr2025,strong,Toelage politiezone 3.91m FOI 2025; tick1066
+bud_spl_toelagen_fire_2025,city_sint_pieters_leeuw,2025,1927446,,,bbc_jr_realized,src_spl_jr2025,strong,Toelage hulpverleningszone 1.93m 2025; tick1066
+bud_spl_toelagen_agb_2025,city_sint_pieters_leeuw,2025,834117,,,bbc_jr_realized,src_spl_jr2025,strong,Toelage AGB 0.834m JUMP FOI 2025; tick1066
+bud_spl_toelagen_igs_2025,city_sint_pieters_leeuw,2025,94500,,,bbc_jr_realized,src_spl_jr2025,strong,Toelage IGS 0.095m 2025; tick1066
+bud_spl_toelagen_eredienst_2025,city_sint_pieters_leeuw,2025,50882,,,bbc_jr_realized,src_spl_jr2025,strong,Toelage eredienst 0.051m 2025; tick1066
+bud_spl_toelagen_other_2025,city_sint_pieters_leeuw,2025,702801,,,bbc_jr_realized,src_spl_jr2025,strong,Toelagen andere 0.703m FOI 2025; tick1066
+bud_spl_ocmw_aid_2025,city_sint_pieters_leeuw,2025,3153741,,,bbc_jr_realized,src_spl_jr2025,strong,Individuele hulpverlening OCMW 3.15m 2025; tick1066
+bud_spl_ocmw_cover_2025,city_sint_pieters_leeuw,2025,0,,,bbc_jr_realized,src_spl_jr2025,strong,Tussenkomst gemeente in OCMW 0 ZERO FOI 2025; tick1066
+bud_spl_ocmw_cum_equity_2025,city_sint_pieters_leeuw,2025,-25563088,,,bbc_jr_realized,src_spl_jr2025,strong,OCMW cum equity YE2025 -25.56m WORSENING FOI (was -20.53m); tick1066
+bud_spl_fiscal_2025,city_sint_pieters_leeuw,2025,30434331,,,bbc_jr_realized,src_spl_jr2025,strong,Fiscale opbrengsten en boetes 30.43m 2025; tick1066
+bud_spl_fiscal_ov_2025,city_sint_pieters_leeuw,2025,12446534,,,bbc_jr_realized,src_spl_jr2025,strong,Opcentiemen OV 12.45m 2025; tick1066
+bud_spl_fiscal_pb_2025,city_sint_pieters_leeuw,2025,13846103,,,bbc_jr_realized,src_spl_jr2025,strong,Aanvullende PB 13.85m 2025; tick1066
+bud_spl_gemeentefonds_2025,city_sint_pieters_leeuw,2025,9552828,,,bbc_jr_realized,src_spl_jr2025,strong,Gemeentefonds 9.55m 2025; tick1066
+bud_spl_interest_2025,city_sint_pieters_leeuw,2025,1126201,,,bbc_jr_realized,src_spl_jr2025,strong,Rente banken+andere 1.13m 2025; tick1066
+bud_spl_invest_subs_granted_2025,city_sint_pieters_leeuw,2025,1003509,,,bbc_jr_realized,src_spl_jr2025,strong,Toegestane invest-subs 1.00m JUMP FOI 2025; tick1066
+bud_spl_vorderingen_kt_2025,city_sint_pieters_leeuw,2025,8383556,,,bbc_jr_realized,src_spl_jr2025,strong,Vorderingen KT YE2025 8.38m; tick1066

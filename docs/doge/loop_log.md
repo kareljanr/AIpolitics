@@ -14256,3 +14256,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1066** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1066 - 2026-08-10T22:15:00Z
+
+- Unit: **rq_1066** (FOI-adjacent residual dual - **Lokaal Bestuur Sint-Pieters-Leeuw Jaarrekening 2025** + Meise dual residual)
+- Found (strong primary BBC JR2025 PDF; KBO GE 0207.513.484 / OCMW 0212.172.058; Pastorijstraat 21 1600; AD Bruno Claessens FD Cindy Van Driessche; GE+OCMW):
+  - Assets **EUR172.56m slight DROP** / equity **EUR112.80m JUMP** / debt total **EUR59.76m DECLINE** / fin debt **EUR30.36m DECLINE** (LT **EUR28.00m** / ST due **EUR2.36m**; was **EUR32.30m**)
+  - New loans **EUR0.372m LOW** / repayments **EUR2.31m**
+  - Cash **EUR3.55m MASSIVE DROP FOI** (was **EUR6.83m**, -**EUR3.28m**) / pension **EUR16.42m DROP FOI** / FVA IGS **EUR32.01m** / leasing MVA **EUR4.18m**
+  - Exploitatie: ontvangsten **EUR70.32m** / uitgaven **EUR64.11m** / saldo **+EUR6.21m VERY STRONG**
+  - AFM **+EUR4.56m VERY STRONG** (gecorr **+EUR4.29m**) / BBR **EUR2.28m** / budget **EUR-3.61m NEG HIGH FOI** / cum BR **EUR2.28m** / P&L **EUR-0.116m**
+  - Personnel **EUR37.86m JUMP** / toelagen **EUR7.52m FOI** (police **EUR3.91m** / fire **EUR1.93m** / AGB **EUR0.834m JUMP** / other **EUR0.70m**)
+  - Invest **EUR11.08m** vs MJP **EUR28.11m MASSIVE UNDERSPEND FOI**
+  - **OCMW cover EUR0 ZERO FOI** / **OCMW cum equity EUR-25.56m WORSENING FOI** (was **EUR-20.53m**; P&L ca. **EUR-5.03m**)
+  - MJP path: new loans 2026 **EUR10.33m** / fin debt YE2027 **EUR39.01m FOI**
+- Dual: Meise assets **EUR117.48m** / pension JUMP **EUR12.99m** / OCMW cover **EUR4.06m FULL** (tick1065) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Ronse city residual next; progress@1070
+- Wrote: budgets +47 (bud_spl_*); commitments +7; leaderboard +8; sources +1; entity city_sint_pieters_leeuw; FOI **gap_spl_budget_cash_ocmw_zero_cover_l5** prio9 ready + draft; PDF primary (not committed); rq_1066=done; spawn **rq_1067**; ticks=1066
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1067** residual dual L5; deferred **rq_116**; progress@1070
+
