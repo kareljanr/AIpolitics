@@ -10783,3 +10783,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_westerlo; FOI **gap_westerlo_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_871=done; spawn **rq_872**; ticks=871
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_872** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/Schoten/VUB/skeyes); deferred **rq_116**; progress@880 in 9
+
+## Tick 872 - 2026-08-06T09:00:00Z
+
+- Unit: **rq_872** (FOI-adjacent residual dual - **Gemeente+OCMW Schoten Jaarrekening 2025** + Westerlo dual)
+- Found (strong primary BBC JR2025 187p):
+  - Assets **EUR176.6m** / equity **EUR91.4m** / debt total **EUR85.2m** / fin debt **EUR22.5m** (LT **EUR20.7m** / ST due **EUR1.8m**; was **EUR25.3m**)
+  - Pension **EUR47.8m** (was **EUR50.9m**) / cash **EUR40.6m** / cap subs **EUR9.3m** / FVA IGS **EUR26.3m**
+  - Exploitatie: ontvangsten **EUR69.3m** / uitgaven **EUR61.0m** / saldo **+EUR8.3m**
+  - AFM **+EUR7.0m** (gecorr **+EUR6.6m**) / BBR **EUR42.3m** / budget result **-EUR4.0m** / P&L **+EUR4.8m**
+  - Personnel **EUR34.3m** (onderwijs other-gov **EUR3.3m**) / toelagen **EUR10.4m** (police **EUR6.6m** / fire **EUR1.4m** / AGB **EUR0.4m** / other **EUR1.8m**) / OCMW aid **EUR3.5m** / fiscal **EUR36.8m**
+  - Invest **EUR10.4m** / invest-subs granted **EUR0.62m** / new loans **EUR0.74m** (leasing only) / gemeentefonds **EUR8.3m**
+  - Pop **34926** / VTE **394**
+- Dual: Westerlo **EUR176.4m** / pension **EUR18.6m** / AFM **+EUR7.6m** (tick871) - not TE-additive; near-identical asset size, pension contrast 48m vs 19m
+- Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_schoten; FOI **gap_schoten_pension_toelagen_l5** prio7 ready + draft; raw PDF+extract; rq_872=done; spawn **rq_873**; ticks=872
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_873** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/VUB/skeyes); deferred **rq_116**; progress@880 in 8

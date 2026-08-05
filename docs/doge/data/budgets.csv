@@ -18632,3 +18632,43 @@ bud_we_invest_subs_granted_2025,city_westerlo,2025,2023180,,,outturn,src_westerl
 bud_we_pl_costs_2025,city_westerlo,2025,67075490,,,outturn,src_westerlo_jr2025,strong,Staat kosten total 67.075m 2025; tick871
 bud_we_pl_opbrengsten_2025,city_westerlo,2025,60241576,,,outturn,src_westerlo_jr2025,strong,Staat opbrengsten total 60.242m 2025; tick871
 bud_we_pl_result_2025,city_westerlo,2025,-6833915,,,outturn,src_westerlo_jr2025,strong,Boekhoudkundig tekort -6.834m 2025 (provisions/pension jump class); tick871
+bud_sc_assets_2025,city_schoten,2025,176641234,,,jaarrekening_realized,src_schoten_jr2025,strong,Consol gemeente+OCMW total assets YE2025 176.641m; tick872
+bud_sc_equity_2025,city_schoten,2025,91429053,,,jaarrekening_realized,src_schoten_jr2025,strong,Nettoactief YE2025 91.429m; tick872
+bud_sc_debt_total_2025,city_schoten,2025,85212181,,,jaarrekening_realized,src_schoten_jr2025,strong,Schulden total YE2025 85.212m; tick872
+bud_sc_fin_debt_2025,city_schoten,2025,22487315,,,jaarrekening_realized,src_schoten_jr2025,strong,Financiele schulden total YE2025 22.487m (LT 20.708 + ST due 1.779); tick872
+bud_sc_fin_debt_lt_2025,city_schoten,2025,20708459,,,jaarrekening_realized,src_schoten_jr2025,strong,Financiele schulden LT YE2025 20.708m; tick872
+bud_sc_fin_debt_st_2025,city_schoten,2025,1778856,,,jaarrekening_realized,src_schoten_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.779m; tick872
+bud_sc_pension_prov_2025,city_schoten,2025,47817673,,,jaarrekening_realized,src_schoten_jr2025,strong,Pensioenvoorzieningen YE2025 47.818m (was 50.870m FOI-adjacent stock); tick872
+bud_sc_cash_2025,city_schoten,2025,40642138,,,jaarrekening_realized,src_schoten_jr2025,strong,Liquide middelen+geldbeleggingen YE2025 40.642m; tick872
+bud_sc_cap_subs_2025,city_schoten,2025,9314089,,,jaarrekening_realized,src_schoten_jr2025,strong,Kapitaalsubsidies YE2025 9.314m; tick872
+bud_sc_fva_igs_2025,city_schoten,2025,26258779,,,jaarrekening_realized,src_schoten_jr2025,strong,Fin VA IGS YE2025 26.259m; tick872
+bud_sc_fva_eva_2025,city_schoten,2025,3216118,,,jaarrekening_realized,src_schoten_jr2025,strong,Fin VA EVA/AGB YE2025 3.216m; tick872
+bud_sc_cumul_budget_2025,city_schoten,2025,42588702,,,jaarrekening_realized,src_schoten_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 42.589m; tick872
+bud_sc_bbr_2025,city_schoten,2025,42335369,,,jaarrekening_realized,src_schoten_jr2025,strong,Beschikbaar budgettair resultaat YE2025 42.335m; tick872
+bud_sc_expl_rec_2025,city_schoten,2025,69268553,,,jaarrekening_realized,src_schoten_jr2025,strong,Exploitatieontvangsten 69.269m 2025; tick872
+bud_sc_expl_exp_2025,city_schoten,2025,60980959,,,jaarrekening_realized,src_schoten_jr2025,strong,Exploitatieuitgaven 60.981m 2025; tick872
+bud_sc_expl_saldo_2025,city_schoten,2025,8287594,,,jaarrekening_realized,src_schoten_jr2025,strong,Exploitatiesaldo +8.288m 2025; tick872
+bud_sc_invest_exp_2025,city_schoten,2025,10406034,,,jaarrekening_realized,src_schoten_jr2025,strong,Investeringsuitgaven 10.406m 2025; tick872
+bud_sc_invest_rec_2025,city_schoten,2025,648100,,,jaarrekening_realized,src_schoten_jr2025,strong,Investeringsontvangsten 0.648m 2025; tick872
+bud_sc_invest_saldo_2025,city_schoten,2025,-9757934,,,jaarrekening_realized,src_schoten_jr2025,strong,Investeringssaldo -9.758m 2025; tick872
+bud_sc_fin_saldo_2025,city_schoten,2025,-2498679,,,jaarrekening_realized,src_schoten_jr2025,strong,Financieringssaldo -2.499m 2025; tick872
+bud_sc_budget_result_2025,city_schoten,2025,-3969019,,,jaarrekening_realized,src_schoten_jr2025,strong,Budgettair resultaat boekjaar -3.969m 2025; tick872
+bud_sc_afm_2025,city_schoten,2025,6950327,,,jaarrekening_realized,src_schoten_jr2025,strong,Autofinancieringsmarge +6.950m 2025; tick872
+bud_sc_afm_gecorr_2025,city_schoten,2025,6620327,,,jaarrekening_realized,src_schoten_jr2025,strong,Gecorrigeerde AFM +6.620m 2025; tick872
+bud_sc_pl_2025,city_schoten,2025,4780517,,,jaarrekening_realized,src_schoten_jr2025,strong,P&L overschot +4.781m 2025 (was -16.686m 2024); tick872
+bud_sc_personnel_2025,city_schoten,2025,34272203,,,jaarrekening_realized,src_schoten_jr2025,strong,Bezoldigingen sociale lasten pensioenen 34.272m 2025 (incl onderwijs other-gov 3.267m); tick872
+bud_sc_personnel_onderwijs_other_2025,city_schoten,2025,3267150,,,jaarrekening_realized,src_schoten_jr2025,strong,Onderwijzend personeel ten laste van andere 3.267m 2025 (was 0 2024); tick872
+bud_sc_toelagen_2025,city_schoten,2025,10440006,,,jaarrekening_realized,src_schoten_jr2025,strong,Toegestane werkingssubsidies 10.440m 2025; tick872
+bud_sc_toelagen_police_2025,city_schoten,2025,6569932,,,jaarrekening_realized,src_schoten_jr2025,strong,Toelage politiezone 6.570m 2025; tick872
+bud_sc_toelagen_fire_2025,city_schoten,2025,1384267,,,jaarrekening_realized,src_schoten_jr2025,strong,Toelage hulpverleningszone 1.384m 2025; tick872
+bud_sc_toelagen_agb_2025,city_schoten,2025,353925,,,jaarrekening_realized,src_schoten_jr2025,strong,Toelage AGB 0.354m 2025; tick872
+bud_sc_toelagen_other_2025,city_schoten,2025,1764595,,,jaarrekening_realized,src_schoten_jr2025,strong,Toelagen andere begunstigden 1.765m 2025; tick872
+bud_sc_ocmw_aid_2025,city_schoten,2025,3468755,,,jaarrekening_realized,src_schoten_jr2025,strong,Individuele hulpverlening OCMW 3.469m 2025; tick872
+bud_sc_fiscal_2025,city_schoten,2025,36847518,,,jaarrekening_realized,src_schoten_jr2025,strong,Fiscale opbrengsten en boetes 36.848m 2025; tick872
+bud_sc_fiscal_ov_2025,city_schoten,2025,14968829,,,jaarrekening_realized,src_schoten_jr2025,strong,Opcentiemen OV 14.969m 2025; tick872
+bud_sc_fiscal_apb_2025,city_schoten,2025,14949896,,,jaarrekening_realized,src_schoten_jr2025,strong,Aanvullende PB 14.950m 2025; tick872
+bud_sc_gemeentefonds_2025,city_schoten,2025,8257150,,,jaarrekening_realized,src_schoten_jr2025,strong,Gemeentefonds 8.257m 2025; tick872
+bud_sc_invest_subs_granted_2025,city_schoten,2025,616546,,,jaarrekening_realized,src_schoten_jr2025,strong,Toegestane investeringssubsidies 0.617m 2025; tick872
+bud_sc_new_loans_2025,city_schoten,2025,740603,,,jaarrekening_realized,src_schoten_jr2025,strong,Nieuwe leningen/leasings 0.741m 2025 (no new bank loans; leasing only); tick872
+bud_sc_pop_2025,city_schoten,2025,34926,,,jaarrekening_realized,src_schoten_jr2025,strong,Inwoners 34926 YE/JR2025; tick872
+bud_sc_vte_2025,city_schoten,2025,394,,,jaarrekening_realized,src_schoten_jr2025,strong,Personeel VTE totaal 394.08 YE2025; tick872
