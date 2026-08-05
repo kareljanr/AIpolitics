@@ -23451,3 +23451,43 @@ bud_jab_fin_opbr_2025,city_jabbeke,2025,4789962,,,realized,src_jabbeke_jr2025,st
 bud_jab_meerwaarden_2025,city_jabbeke,2025,865847,,,realized,src_jabbeke_jr2025,strong,Meerwaarden realisatie VA 0.866m FOI; tick994
 bud_jab_costs_j5_2025,city_jabbeke,2025,23750308,,,realized,src_jabbeke_jr2025,strong,J5 total kosten 23.75m; tick994
 bud_jab_revenue_j5_2025,city_jabbeke,2025,32234468,,,realized,src_jabbeke_jr2025,strong,J5 total opbrengsten 32.23m; tick994
+bud_mid_assets_approx_2025,city_middelkerke,2025,145363055,,,realized,src_middelkerke_jr2025,strong,Assets YE2025 ~145.36m proefbalans consol after elim RC 3.51m MEDIUM (no full J4); tick995
+bud_mid_fin_debt_2025,city_middelkerke,2025,84009204,,,realized,src_middelkerke_jr2025,strong,Fin debt total YE2025 84.01m HIGH bank 56.25+lease 27.76 (Belfius GE open 52.80m + Fortis + OCMW); tick995
+bud_mid_fin_debt_bank_2025,city_middelkerke,2025,56251922,,,realized,src_middelkerke_jr2025,strong,Bank loans consol YE2025 56.25m (Belfius GE residual 52.80m + Fortis + OCMW 0.039m); tick995
+bud_mid_fin_debt_lease_2025,city_middelkerke,2025,27757281,,,realized,src_middelkerke_jr2025,strong,Lease/PPS debt consol YE2025 27.76m (GE ~20.02m + OCMW ~7.74m incl Stille Meers); tick995
+bud_mid_fin_debt_lt_2025,city_middelkerke,2025,80037744,,,realized,src_middelkerke_jr2025,strong,Fin debt LT YE2025 80.04m; tick995
+bud_mid_fin_debt_st_2025,city_middelkerke,2025,3971460,,,realized,src_middelkerke_jr2025,strong,Fin debt ST due YE2025 3.97m; tick995
+bud_mid_cash_2025,city_middelkerke,2025,36203124,,,realized,src_middelkerke_jr2025,strong,Liquide middelen YE2025 36.20m HIGH (term deposits 5+10+3+2+5m class); tick995
+bud_mid_pension_2025,city_middelkerke,2025,20025000,,,realized,src_middelkerke_jr2025,strong,Pensioenvoorzieningen YE2025 20.025m (GE 14.997 + OCMW 5.028); tick995
+bud_mid_bbr_cum_2025,city_middelkerke,2025,34713384,,,realized,src_middelkerke_jr2025,strong,Gecumuleerd budgettair resultaat J2 VII YE2025 34.71m (aansluiting); tick995
+bud_mid_personnel_2025,city_middelkerke,2025,36821517,,,realized,src_middelkerke_jr2025,strong,Bezoldigingen class62 consol 36.82m (GE 27.28 + OCMW 9.54); VTE GE 318.5 OCMW 127.56; tick995
+bud_mid_personnel_ge_2025,city_middelkerke,2025,27282284,,,realized,src_middelkerke_jr2025,strong,GE personnel class62 27.28m VTE 318.5; tick995
+bud_mid_personnel_ocmw_2025,city_middelkerke,2025,9539233,,,realized,src_middelkerke_jr2025,strong,OCMW personnel class62 9.54m VTE 127.56; tick995
+bud_mid_toelagen_2025,city_middelkerke,2025,9922854,,,realized,src_middelkerke_jr2025,strong,Toegestane werkingssubsidies 9.92m named; tick995
+bud_mid_toelagen_police_2025,city_middelkerke,2025,6293083,,,realized,src_middelkerke_jr2025,strong,Toelage politiezone Middelkerke 6.29m; tick995
+bud_mid_toelagen_fire_2025,city_middelkerke,2025,1154830,,,realized,src_middelkerke_jr2025,strong,Toelage brandweerzone HVZ1 1.15m; tick995
+bud_mid_toelagen_verenigingen_2025,city_middelkerke,2025,834196,,,realized,src_middelkerke_jr2025,strong,Toelagen verenigingen 0.834m; tick995
+bud_mid_toelagen_bedrijven_2025,city_middelkerke,2025,300000,,,realized,src_middelkerke_jr2025,strong,Toelagen bedrijven 0.30m (Golazo EK CX 0.25m + BK Beachrace); tick995
+bud_mid_toelagen_eredienst_2025,city_middelkerke,2025,206145,,,realized,src_middelkerke_jr2025,strong,Toelagen kerkfabrieken 0.206m; tick995
+bud_mid_toelagen_agb_2025,city_middelkerke,2025,178570,,,realized,src_middelkerke_jr2025,strong,Prijssubsidies AGB 0.179m dual; tick995
+bud_mid_toelagen_vita_prijs_2025,city_middelkerke,2025,28713,,,realized,src_middelkerke_jr2025,strong,Prijssubsidie VITA 0.029m; tick995
+bud_mid_toelagen_vita_werk_2025,city_middelkerke,2025,434895,,,realized,src_middelkerke_jr2025,strong,Werkingssubsidie VITA zwembad+sporthal 0.435m (list); tick995
+bud_mid_ocmw_cover_2025,city_middelkerke,2025,2769691,,,realized,src_middelkerke_jr2025,strong,OCMW cover tussenkomst 2.77m (6941000/7941000); tick995
+bud_mid_fiscal_2025,city_middelkerke,2025,46819902,,,realized,src_middelkerke_jr2025,strong,Fiscale opbrengsten class73 46.82m; tick995
+bud_mid_fiscal_ov_2025,city_middelkerke,2025,24580611,,,realized,src_middelkerke_jr2025,strong,Opcentiemen OV 24.58m; tick995
+bud_mid_fiscal_pb_2025,city_middelkerke,2025,3070786,,,realized,src_middelkerke_jr2025,strong,Aanvullende PB 3.07m; tick995
+bud_mid_fiscal_2deverblijf_2025,city_middelkerke,2025,11243524,,,realized,src_middelkerke_jr2025,strong,Belasting tweede verblijven 11.24m; tick995
+bud_mid_fiscal_logies_2025,city_middelkerke,2025,3320690,,,realized,src_middelkerke_jr2025,strong,Belasting toeristische logies 3.32m; tick995
+bud_mid_dividends_2025,city_middelkerke,2025,2737848,,,realized,src_middelkerke_jr2025,strong,Dividenden FVA 2.74m; tick995
+bud_mid_gemeentefonds_ge_2025,city_middelkerke,2025,5797420,,,realized,src_middelkerke_jr2025,strong,Gemeentefonds basisdotatie GE 5.80m; tick995
+bud_mid_interest_2025,city_middelkerke,2025,2699688,,,realized,src_middelkerke_jr2025,strong,Financiele kosten class65 consol 2.70m; tick995
+bud_mid_erfpacht_rec_2025,city_middelkerke,2025,23394482,,,realized,src_middelkerke_jr2025,strong,Erfpacht/toegestane leningen class29 23.39m (Marktplein 9.32 Branding 6.92 Kusthistories 3.05 etc); tick995
+bud_mid_fva_2025,city_middelkerke,2025,1016396,,,realized,src_middelkerke_jr2025,strong,FVA consol ~1.02m (low vs erfpacht stock); tick995
+bud_mid_cap_subs_ge_2025,city_middelkerke,2025,43660760,,,realized,src_middelkerke_jr2025,strong,Kapitaalsubsidies GE net ~43.66m; tick995
+bud_mid_pnl_ge_2025,city_middelkerke,2025,-1867227,,,realized,src_middelkerke_jr2025,strong,GE P&L class7-6 -1.87m (includes OCMW cover cost); tick995
+bud_mid_pnl_ocmw_2025,city_middelkerke,2025,-956077,,,realized,src_middelkerke_jr2025,strong,OCMW P&L class7-6 -0.96m; tick995
+bud_mid_belfius_open_ge_2025,city_middelkerke,2025,52798301,,,realized,src_middelkerke_jr2025,strong,Belfius openstaande schuld GE 52.80m YE2025; tick995
+bud_mid_belfius_repay_ge_2025,city_middelkerke,2025,2120162,,,realized,src_middelkerke_jr2025,strong,Belfius aflossingen GE 2025 2.12m; tick995
+bud_mid_ocmw_lease_open_2025,city_middelkerke,2025,3811721,,,realized,src_middelkerke_jr2025,strong,OCMW Belfius lease residual 3.81m (Stille Meers etc); tick995
+bud_mid_golazo_ekcx_2025,city_middelkerke,2025,250000,,,realized,src_middelkerke_jr2025,strong,Golazo Sports NV EK Cyclocross 2025 toelage 0.25m; tick995
+bud_mid_boic_winter_2025,city_middelkerke,2025,150000,,,realized,src_middelkerke_jr2025,strong,BOIC Olympisch Winterfestival 2026 schijven 0.15m; tick995

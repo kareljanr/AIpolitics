@@ -12885,3 +12885,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_jab_*); commitments +5; leaderboard +7; sources +1; entity city_jabbeke; FOI **gap_jab_ocmw_toelagen_fva_invest_l5** prio8 ready + draft; key only (PDF ~2.4MB not stored in git); rq_994=done; spawn **rq_995**; ticks=994
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_995** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 6
+
+### Tick 995 - 2026-08-09T10:45:00Z
+
+- Unit: **rq_995** (FOI-adjacent residual dual - **Gemeente+OCMW Middelkerke Jaarrekening 2025 Documentatie** + Jabbeke dual residual)
+- Found (strong primary BBC documentatie 90p proefbalans+toelagen+Belfius debt; KBO 0207.495.668 / OCMW 0212.199.079; FD Roseline Keereman; AD Jurgen Vergauwe; Spermaliestraat 1):
+  - Assets **~EUR145.36m** (proefbalans consol after elim RC EUR3.51m; MEDIUM no full J4) / fin debt **EUR84.01m HIGH** (bank **EUR56.25m** + lease **EUR27.76m**; Belfius GE open **EUR52.80m**)
+  - LT fin **EUR80.04m** / ST due **EUR3.97m** / Belfius GE repay 2025 **EUR2.12m**
+  - Cash **EUR36.20m HIGH** / pension **EUR20.03m** / BBR cum **EUR34.71m** / FVA **~EUR1.02m** / erfpacht rec **EUR23.39m**
+  - Personnel **EUR36.82m** (GE **EUR27.28m** VTE **318.5** / OCMW **EUR9.54m** VTE **127.56**)
+  - Toelagen **EUR9.92m FOI** (police **EUR6.29m** / fire **EUR1.15m** / verenigingen **EUR0.834m** / bedrijven **EUR0.30m** / eredienst **EUR0.206m** / AGB **EUR0.179m dual** / VITA werk **EUR0.435m** / Golazo EK CX **EUR0.25m** / BOIC **EUR0.15m**)
+  - **OCMW cover EUR2.77m FOI** / fiscal **EUR46.82m** (2de verblijven **EUR11.24m** / OV **EUR24.58m** / logies **EUR3.32m**) / dividends **EUR2.74m**
+  - GE P&L **EUR-1.87m** / OCMW P&L **EUR-0.96m** (class 6/7; full AFM/J1-J5 FOI)
+- Dual: Jabbeke **EUR127.21m** / OCMW cover **EUR1.81m FULL** (tick994) - not TE-additive
+- Note: public file is **documentatie** not full BBC financial note; Torhout still news-only; Meulebeke no full JR2025 PDF; AGB De Panne image-only skip
+- Wrote: budgets +40 (bud_mid_*); commitments +5; leaderboard +7; sources +1; entity city_middelkerke; FOI **gap_mid_bbc_full_toelagen_debt_ocmw_l5** prio8 ready + draft; key only (PDF ~4.8MB not stored in git); rq_995=done; spawn **rq_996**; ticks=995
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_996** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 5
