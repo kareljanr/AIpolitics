@@ -11961,3 +11961,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_zed_*); commitments +4; leaderboard +7; sources +2; entity city_zedelgem; FOI **gap_zed_pension_debt_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~42MB not stored); rq_944=done; spawn **rq_945**; ticks=944
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_945** residual dual L5 (Torhout / Harelbeke / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 6
+
+
+### Tick 945 - 2026-08-07T21:15:00Z
+
+- Unit: **rq_945** (FOI-adjacent residual dual - **Stad+OCMW Harelbeke Jaarrekening 2025** + Zorgbedrijf dual residual)
+- Found (strong primary BBC JR2025 137p; KBO 0207.492.502; GR 18.05.2026):
+  - Assets **EUR191.2m** / equity **EUR155.2m** / debt total **EUR36.1m** / fin debt **EUR15.8m** (**DECLINING** from **EUR16.8m**; LT **EUR14.3m** / ST due **EUR1.52m**)
+  - New loans **EUR0.530m** Fluvius lease only (**no bank**) / repayments **EUR1.50m**
+  - Cash **EUR22.1m** flat / pension **EUR6.56m RISING FOI** / onbeschikbaar **EUR0**
+  - Exploitatie: ontvangsten **EUR63.5m** / uitgaven **EUR56.4m** / saldo **+EUR7.11m**
+  - AFM **+EUR5.64m** (gecorr **+EUR5.79m**) / BBR **EUR23.6m** / budget **-EUR0.749m FOI** / P&L **+EUR3.73m**
+  - Personnel **EUR27.0m** (onderwijs andere **EUR8.35m FOI reclass**) / toelagen **EUR13.0m** (welzijn **EUR4.74m** / police **EUR4.19m** / IGS **EUR1.62m FOI**)
+  - Invest **EUR8.55m** vs MJP **EUR15.94m** + carryover **EUR11.6m FOI** (Bavikhove **EUR4.3m**) / OCMW aid **EUR3.80m** / FVA IGS **EUR62.3m FOI**
+- Dual: Zedelgem **EUR136.6m** / pension **EUR9.23m** (tick944) - not TE-additive; Zorgbedrijf Harelbeke JR2025 residual (FVA **EUR2.72m**)
+- Wrote: budgets +50 (bud_har_*); commitments +4; leaderboard +7; sources +2; entity city_harelbeke; FOI **gap_har_budget_toelagen_invest_fluvius_l5** prio8 ready + draft; key only (PDF ~7MB not stored); rq_945=done; spawn **rq_946**; ticks=945
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_946** residual dual L5 (Zorgbedrijf Harelbeke full BBC / Torhout / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 5

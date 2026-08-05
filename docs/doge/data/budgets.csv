@@ -21369,3 +21369,53 @@ bud_zed_fin_costs_2025,city_zedelgem,2025,571120,,,jaarrekening_realized,src_zed
 bud_zed_goederen_2025,city_zedelgem,2025,7990045,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Goederen en diensten ~8.0m; tick944
 bud_zed_mjp_invest_planned_2025,city_zedelgem,2025,10477900,,,jaarrekening_realized,src_zedelgem_jr2025,strong,MJP planned invest 10.48m vs realized 7.34m underspend FOI; tick944
 bud_zed_leasing_mva_2025,city_zedelgem,2025,2433308,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Leasing MVA 2.43m stock; tick944
+bud_har_assets_2025,city_harelbeke,2025,191217863,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Total assets YE2025 191.2m; tick945
+bud_har_equity_2025,city_harelbeke,2025,155165931,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Nettoactief YE2025 155.2m; tick945
+bud_har_debt_total_2025,city_harelbeke,2025,36051932,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Total schulden YE2025 36.1m RISING slightly (was 34.8m); tick945
+bud_har_fin_debt_2025,city_harelbeke,2025,15826914,,,jaarrekening_realized,src_harelbeke_jr2025,strong,T4 total financiele schulden YE2025 15.8m DECLINING (was 16.8m; LT 14.3 + ST due 1.52); tick945
+bud_har_fin_debt_lt_2025,city_harelbeke,2025,14304417,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Financiele schulden LT YE2025 14.3m; tick945
+bud_har_fin_debt_st_due_2025,city_harelbeke,2025,1522497,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.52m; tick945
+bud_har_fin_debt_2024,city_harelbeke,2025,16795000,,,jaarrekening_realized,src_harelbeke_jr2025,strong,T4 fin debt YE2024 16.8m comparator; tick945
+bud_har_pension_prov_2025,city_harelbeke,2025,6563934,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Pensioenvoorzieningen YE2025 6.56m RISING FOI (was 6.15m); tick945
+bud_har_pension_prov_2024,city_harelbeke,2025,6153820,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Pensioenvoorzieningen YE2024 6.15m; tick945
+bud_har_cash_2025,city_harelbeke,2025,22141146,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Liquide middelen YE2025 22.1m (was 22.1m flat); tick945
+bud_har_cash_2024,city_harelbeke,2025,22059773,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Liquide middelen YE2024 22.1m; tick945
+bud_har_cap_subs_2025,city_harelbeke,2025,16110521,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Kapitaalssubsidies YE2025 16.1m; tick945
+bud_har_fva_total_2025,city_harelbeke,2025,69722329,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Financiele vaste activa YE2025 69.7m; tick945
+bud_har_fva_igs_2025,city_harelbeke,2025,62303990,,,jaarrekening_realized,src_harelbeke_jr2025,strong,FVA IGS YE2025 62.3m FOI residual; tick945
+bud_har_fva_ocmw_ver_2025,city_harelbeke,2025,2716646,,,jaarrekening_realized,src_harelbeke_jr2025,strong,FVA OCMW-verenigingen/Zorgbedrijf dual 2.72m; tick945
+bud_har_mva_2025,city_harelbeke,2025,82978558,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Materiele vaste activa YE2025 83.0m; tick945
+bud_har_leasing_mva_2025,city_harelbeke,2025,3153936,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Leasing MVA Fluvius OV 3.15m; tick945
+bud_har_onbeschikbaar_2025,city_harelbeke,2025,0,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Onbeschikbare gelden 0; tick945
+bud_har_expl_rec_2025,city_harelbeke,2025,63532876,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Exploitatieontvangsten 63.5m (incl onderwijs 3.36m neutral reclass FOI); tick945
+bud_har_expl_exp_2025,city_harelbeke,2025,56424257,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Exploitatieuitgaven 56.4m; tick945
+bud_har_expl_saldo_2025,city_harelbeke,2025,7108620,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Exploitatiesaldo +7.11m; tick945
+bud_har_invest_exp_2025,city_harelbeke,2025,8553565,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Investeringsuitgaven 8.55m (MJP 15.94m + carryover 11.6m underspend FOI); tick945
+bud_har_invest_rec_2025,city_harelbeke,2025,1639303,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Investeringsontvangsten 1.64m; tick945
+bud_har_invest_saldo_2025,city_harelbeke,2025,-6914263,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Investeringssaldo -6.91m; tick945
+bud_har_mjp_invest_planned_2025,city_harelbeke,2025,15944533,,,jaarrekening_realized,src_harelbeke_jr2025,strong,MJP planned invest 15.94m vs realized 8.55m; carryover 11.6m FOI; tick945
+bud_har_invest_carryover_2026,city_harelbeke,2025,11623523,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Invest overdracht 2025->2026 11.6m FOI (Bavikhove 4.3m); tick945
+bud_har_fin_rec_2025,city_harelbeke,2025,554662,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Financieringsontvangsten 0.555m; tick945
+bud_har_fin_exp_2025,city_harelbeke,2025,1497974,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Financieringsuitgaven 1.50m; tick945
+bud_har_new_loans_2025,city_harelbeke,2025,529888,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Nieuwe leningen 0.530m Fluvius lease only (no bank FOI); tick945
+bud_har_aflossingen_2025,city_harelbeke,2025,1497974,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Periodieke aflossingen 1.50m; tick945
+bud_har_loan_recoveries_2025,city_harelbeke,2025,24774,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Periodieke terugvordering leningen 0.025m; tick945
+bud_har_afm_2025,city_harelbeke,2025,5635419,,,jaarrekening_realized,src_harelbeke_jr2025,strong,AFM +5.64m (was ~6.30m excl Publi-T 2024); tick945
+bud_har_afm_corr_2025,city_harelbeke,2025,5789794,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Gecorrigeerde AFM +5.79m; tick945
+bud_har_bbr_2025,city_harelbeke,2025,23555836,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Beschikbaar budgettair resultaat 23.6m; tick945
+bud_har_budget_result_2025,city_harelbeke,2025,-748955,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Budgettair resultaat boekjaar -0.749m FOI; tick945
+bud_har_cum_br_2025,city_harelbeke,2025,23555836,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Gecumuleerd budgettair resultaat 23.6m; tick945
+bud_har_pnl_result_2025,city_harelbeke,2025,3731539,,,jaarrekening_realized,src_harelbeke_jr2025,strong,P&L boekjaar +3.73m; tick945
+bud_har_personnel_2025,city_harelbeke,2025,26980340,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Personeelskosten 27.0m (incl onderwijs andere overladen 8.35m FOI); tick945
+bud_har_onderwijs_other_2025,city_harelbeke,2025,8346066,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Onderwijzend personeel ten laste andere overheden 8.35m FOI reclass; tick945
+bud_har_toelagen_2025,city_harelbeke,2025,13034161,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toegestane werkingssubsidies 13.0m FOI named; tick945
+bud_har_toelagen_welzijn_2025,city_harelbeke,2025,4742745,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toelagen welzijnsverenigingen/Zorgbedrijf 4.74m dual FOI; tick945
+bud_har_toelagen_police_2025,city_harelbeke,2025,4190396,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toelagen politiezone 4.19m; tick945
+bud_har_toelagen_hvz_2025,city_harelbeke,2025,830645,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toelagen hulpverleningszone 0.83m; tick945
+bud_har_toelagen_igs_2025,city_harelbeke,2025,1617887,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toelagen IGS 1.62m FOI; tick945
+bud_har_toelagen_other_2025,city_harelbeke,2025,1338891,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toelagen andere begunstigden 1.34m FOI; tick945
+bud_har_invest_subs_granted_2025,city_harelbeke,2025,649437,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Toegestane investeringssubsidies 0.649m FOI; tick945
+bud_har_ocmw_aid_2025,city_harelbeke,2025,3797780,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Individuele hulpverlening OCMW 3.80m FOI rising; tick945
+bud_har_fiscal_2025,city_harelbeke,2025,28913151,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Fiscale opbrengsten 28.9m; tick945
+bud_har_fin_costs_2025,city_harelbeke,2025,471258,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Financiele kosten 0.47m; tick945
+bud_har_goederen_2025,city_harelbeke,2025,11252155,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Goederen en diensten 11.3m; tick945
