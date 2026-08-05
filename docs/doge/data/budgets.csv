@@ -23215,3 +23215,50 @@ bud_wt_interest_2025,westtoer_apb,2025,78972,,,realized,src_westtoer_jr2025,stro
 bud_wt_costs_j5_2025,westtoer_apb,2025,14899256,,,realized,src_westtoer_jr2025,strong,J5 total kosten 14.90m; tick988
 bud_wt_revenue_j5_2025,westtoer_apb,2025,15552601,,,realized,src_westtoer_jr2025,strong,J5 total opbrengsten 15.55m; tick988
 bud_wt_mjp_invest_exp_2025,westtoer_apb,2025,2951071,,,realized,src_westtoer_jr2025,strong,MJP investeringsuitgaven 2.95m (realized 0.67m underspend FOI); tick988
+bud_koe_assets_2025,city_koekelare,2025,72363883,,,realized,src_koekelare_jr2025,strong,Assets YE2025 72.36m; tick989
+bud_koe_equity_2025,city_koekelare,2025,64482213,,,realized,src_koekelare_jr2025,strong,Nettoactief YE2025 64.48m; tick989
+bud_koe_debt_total_2025,city_koekelare,2025,7881671,,,realized,src_koekelare_jr2025,strong,Total schulden YE2025 7.88m; tick989
+bud_koe_fin_debt_2025,city_koekelare,2025,4552897,,,realized,src_koekelare_jr2025,strong,Fin debt total YE2025 4.55m RISING (was 3.42m); tick989
+bud_koe_fin_debt_lt_2025,city_koekelare,2025,4134030,,,realized,src_koekelare_jr2025,strong,Fin debt LT YE2025 4.13m; tick989
+bud_koe_fin_debt_st_due_2025,city_koekelare,2025,418867,,,realized,src_koekelare_jr2025,strong,Fin debt ST due YE2025 0.419m; tick989
+bud_koe_new_loans_2025,city_koekelare,2025,1500000,,,realized,src_koekelare_jr2025,strong,Nieuwe leningen 1.50m FOI; tick989
+bud_koe_repayments_2025,city_koekelare,2025,365076,,,realized,src_koekelare_jr2025,strong,Periodieke aflossingen 0.365m; tick989
+bud_koe_cash_2025,city_koekelare,2025,7650890,,,realized,src_koekelare_jr2025,strong,Liquide middelen YE2025 7.65m JUMP (was 5.04m); tick989
+bud_koe_pension_2025,city_koekelare,2025,1801065,,,realized,src_koekelare_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.80m RISING (was 1.63m) FOI; tick989
+bud_koe_fva_igs_2025,city_koekelare,2025,10218113,,,realized,src_koekelare_jr2025,strong,FVA IGS YE2025 10.22m FOI; tick989
+bud_koe_fva_other_2025,city_koekelare,2025,9995474,,,realized,src_koekelare_jr2025,strong,Andere FVA YE2025 10.00m FOI; tick989
+bud_koe_cap_subs_2025,city_koekelare,2025,9441696,,,realized,src_koekelare_jr2025,strong,Kapitaalsubsidies YE2025 9.44m; tick989
+bud_koe_expl_rec_2025,city_koekelare,2025,14663166,,,realized,src_koekelare_jr2025,strong,Exploitatieontvangsten 14.66m; tick989
+bud_koe_expl_exp_2025,city_koekelare,2025,12090216,,,realized,src_koekelare_jr2025,strong,Exploitatieuitgaven 12.09m; tick989
+bud_koe_expl_saldo_2025,city_koekelare,2025,2572951,,,realized,src_koekelare_jr2025,strong,Exploitatiesaldo +2.57m STRONG; tick989
+bud_koe_invest_exp_2025,city_koekelare,2025,2183611,,,realized,src_koekelare_jr2025,strong,Investeringsuitgaven 2.18m vs MJP 7.65m LARGE underspend FOI; tick989
+bud_koe_invest_rec_2025,city_koekelare,2025,1754454,,,realized,src_koekelare_jr2025,strong,Investeringsontvangsten 1.75m (sale 1.25m FOI); tick989
+bud_koe_invest_saldo_2025,city_koekelare,2025,-429157,,,realized,src_koekelare_jr2025,strong,Investeringssaldo -0.429m; tick989
+bud_koe_mva_sale_2025,city_koekelare,2025,1250235,,,realized,src_koekelare_jr2025,strong,Verkoop MVA 1.25m FOI residual; tick989
+bud_koe_fin_rec_2025,city_koekelare,2025,1500000,,,realized,src_koekelare_jr2025,strong,Financieringsontvangsten 1.50m new loan; tick989
+bud_koe_fin_exp_2025,city_koekelare,2025,365076,,,realized,src_koekelare_jr2025,strong,Financieringsuitgaven 0.365m; tick989
+bud_koe_budget_result_2025,city_koekelare,2025,3278718,,,realized,src_koekelare_jr2025,strong,Budgettair resultaat +3.28m STRONG; tick989
+bud_koe_cum_budget_2025,city_koekelare,2025,7570589,,,realized,src_koekelare_jr2025,strong,Gecumuleerd budgettair resultaat 7.57m HIGH; tick989
+bud_koe_bbr_2025,city_koekelare,2025,7570589,,,realized,src_koekelare_jr2025,strong,Beschikbaar BBR 7.57m HIGH; tick989
+bud_koe_afm_2025,city_koekelare,2025,2209535,,,realized,src_koekelare_jr2025,strong,AFM +2.21m STRONG; tick989
+bud_koe_afm_corr_2025,city_koekelare,2025,2301173,,,realized,src_koekelare_jr2025,strong,Gecorrigeerde AFM +2.30m; tick989
+bud_koe_pnl_2025,city_koekelare,2025,1088379,,,realized,src_koekelare_jr2025,strong,P&L +1.09m (GE +2.30m / OCMW -1.22m FOI); tick989
+bud_koe_ge_pnl_2025,city_koekelare,2025,2303395,,,realized,src_koekelare_jr2025,strong,Gemeente P&L +2.30m; tick989
+bud_koe_ocmw_pnl_neg_2025,city_koekelare,2025,-1215016,,,realized,src_koekelare_jr2025,strong,OCMW P&L -1.22m FOI residual; tick989
+bud_koe_ocmw_cover_2025,city_koekelare,2025,1213289,,,realized,src_koekelare_jr2025,strong,OCMW cover 1.21m FULL FOI residual; tick989
+bud_koe_ocmw_cum_surplus_2025,city_koekelare,2025,350616,,,realized,src_koekelare_jr2025,strong,OCMW cum surplus 0.351m after full cover; tick989
+bud_koe_personnel_2025,city_koekelare,2025,6400646,,,realized,src_koekelare_jr2025,strong,Bezoldigingen 6.40m FOI; tick989
+bud_koe_goederen_2025,city_koekelare,2025,3667856,,,realized,src_koekelare_jr2025,strong,Goederen en diensten 3.67m; tick989
+bud_koe_toelagen_2025,city_koekelare,2025,1474334,,,realized,src_koekelare_jr2025,strong,Toegestane werkingssubsidies 1.47m FOI named; tick989
+bud_koe_toelage_police_2025,city_koekelare,2025,770683,,,realized,src_koekelare_jr2025,strong,Toelage politiezone 0.771m FOI; tick989
+bud_koe_toelage_fire_2025,city_koekelare,2025,332819,,,realized,src_koekelare_jr2025,strong,Toelage HVZ 0.333m FOI; tick989
+bud_koe_toelage_eredienst_2025,city_koekelare,2025,165517,,,realized,src_koekelare_jr2025,strong,Toelage besturen eredienst 0.166m; tick989
+bud_koe_toelage_other_2025,city_koekelare,2025,205315,,,realized,src_koekelare_jr2025,strong,Toelage andere begunstigden 0.205m FOI; tick989
+bud_koe_ocmw_aid_2025,city_koekelare,2025,301450,,,realized,src_koekelare_jr2025,strong,Individuele hulp OCMW 0.301m FOI; tick989
+bud_koe_fiscal_2025,city_koekelare,2025,6921449,,,realized,src_koekelare_jr2025,strong,Fiscale opbrengsten 6.92m; tick989
+bud_koe_gemeentefonds_2025,city_koekelare,2025,3011832,,,realized,src_koekelare_jr2025,strong,Gemeentefonds 3.01m; tick989
+bud_koe_werkingsubs_rec_2025,city_koekelare,2025,5489947,,,realized,src_koekelare_jr2025,strong,Ontvangen werkingssubsidies 5.49m; tick989
+bud_koe_costs_j5_2025,city_koekelare,2025,13774124,,,realized,src_koekelare_jr2025,strong,J5 total kosten 13.77m; tick989
+bud_koe_revenue_j5_2025,city_koekelare,2025,14862503,,,realized,src_koekelare_jr2025,strong,J5 total opbrengsten 14.86m; tick989
+bud_koe_mjp_invest_exp_2025,city_koekelare,2025,7647390,,,realized,src_koekelare_jr2025,strong,MJP investeringsuitgaven 7.65m (realized 2.18m underspend FOI); tick989
+bud_koe_fin_income_j5_2025,city_koekelare,2025,935079,,,realized,src_koekelare_jr2025,strong,Financiele opbrengsten J5 0.935m DROP FOI (was 3.09m); tick989

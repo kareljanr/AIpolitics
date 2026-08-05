@@ -12773,3 +12773,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_989** residual dual L5 (Torhout / Meulebeke / AGB De Panne if OCR); deferred **rq_116**; progress@990 in 2
 
+
+### Tick 989 - 2026-08-09T07:45:00Z
+
+- Unit: **rq_989** (FOI-adjacent residual dual - **Gemeente+OCMW Koekelare Jaarrekening 2025** + Westtoer dual residual)
+- Found (strong primary BBC JR2025 117p; KBO 0207.532.389 / OCMW 0212.188.587; FD Liesbet Deweerdt; AD wnd Ann Van der Veken; Sint-Maartensplein 19):
+  - Assets **EUR72.36m** / equity **EUR64.48m** / debt total **EUR7.88m** / fin debt **EUR4.55m** (**RISING** from **EUR3.42m**; LT **EUR4.13m** / ST due **EUR0.419m**)
+  - New loans **EUR1.50m** / repayments **EUR0.365m**
+  - Cash **EUR7.65m JUMP** (was **EUR5.04m**) / pension **EUR1.80m RISING** / FVA IGS **EUR10.22m** / andere FVA **EUR10.00m**
+  - Exploitatie: ontvangsten **EUR14.66m** / uitgaven **EUR12.09m** / saldo **+EUR2.57m STRONG**
+  - AFM **+EUR2.21m STRONG** (gecorr **+EUR2.30m**) / BBR **EUR7.57m HIGH** / budget **+EUR3.28m STRONG** / P&L **+EUR1.09m** (GE **+EUR2.30m** / OCMW **-EUR1.22m FOI**)
+  - Personnel **EUR6.40m** / toelagen **EUR1.47m FOI** (police **EUR0.771m** / fire **EUR0.333m** / other **EUR0.205m** / eredienst **EUR0.166m**)
+  - Invest **EUR2.18m** vs MJP **EUR7.65m LARGE underspend FOI** / **MVA sale EUR1.25m FOI** / **OCMW cover EUR1.21m FULL FOI**
+- Dual: Westtoer **EUR14.21m** / province dotatie **EUR9.93m** (tick988) - not TE-additive
+- Note: Torhout still news-only; AGB De Panne image-only; Meulebeke no public JR2025 PDF found this tick
+- Wrote: budgets +47 (bud_koe_*); commitments +5; leaderboard +7; sources +1; entity city_koekelare; FOI **gap_koe_debt_ocmw_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~4.5MB not stored in git); rq_989=done; spawn **rq_990** progress@990; ticks=989
+- FOI: ready only - **do not send**
+- Next: prio9 **rq_990** mandatory progress@990; deferred **rq_116**; progress@990 in 1
+
