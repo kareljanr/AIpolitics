@@ -20031,3 +20031,45 @@ bud_osk_new_loans_2025,city_oostkamp,2025,6069189,,,jaarrekening_realized,src_oo
 bud_osk_mjp_new_loans_2026,city_oostkamp,2025,3677410,,,jaarrekening_realized,src_oostkamp_jr2025,strong,MJP new loans 2026 3.677m FOI; tick909
 bud_osk_mjp_fin_debt_2026,city_oostkamp,2025,31184552,,,jaarrekening_realized,src_oostkamp_jr2025,strong,MJP fin debt path YE2026 31.185m FOI; tick909
 bud_osk_lt_receivables_2025,city_oostkamp,2025,9566363,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Vorderingen LT YE2025 9.566m; tick909
+bud_asse_assets_2025,city_asse,2025,252784835,,,jaarrekening_realized,src_asse_jr2025,strong,Consol total assets YE2025 252.785m; tick911
+bud_asse_equity_2025,city_asse,2025,150504802,,,jaarrekening_realized,src_asse_jr2025,strong,Nettoactief YE2025 150.505m; tick911
+bud_asse_debt_total_2025,city_asse,2025,102280033,,,jaarrekening_realized,src_asse_jr2025,strong,Total schulden YE2025 102.280m; tick911
+bud_asse_fin_debt_2025,city_asse,2025,83628703,,,jaarrekening_realized,src_asse_jr2025,strong,Fin debt total YE2025 83.629m (was 74.0m); tick911
+bud_asse_fin_debt_lt_2025,city_asse,2025,73013852,,,jaarrekening_realized,src_asse_jr2025,strong,Fin debt LT YE2025 73.014m; tick911
+bud_asse_fin_debt_st_due_2025,city_asse,2025,5114851,,,jaarrekening_realized,src_asse_jr2025,strong,Fin debt ST due YE2025 5.115m; tick911
+bud_asse_fin_debt_st_2025,city_asse,2025,5500000,,,jaarrekening_realized,src_asse_jr2025,strong,Fin debt ST treasury YE2025 5.500m (was 0) FOI; tick911
+bud_asse_new_loans_2025,city_asse,2025,16548660,,,jaarrekening_realized,src_asse_jr2025,strong,New loans/leasings 2025 16.549m (bank 15.5m) FOI; tick911
+bud_asse_new_loans_bank_2025,city_asse,2025,15500000,,,jaarrekening_realized,src_asse_jr2025,strong,Bank new loans 2025 15.500m of 16.549m FOI; tick911
+bud_asse_new_loans_other_2025,city_asse,2025,1048660,,,jaarrekening_realized,src_asse_jr2025,strong,Other-entity new loans/leasings 2025 1.049m; tick911
+bud_asse_repayments_2025,city_asse,2025,12417295,,,jaarrekening_realized,src_asse_jr2025,strong,Periodieke aflossingen 2025 12.417m; tick911
+bud_asse_cash_2025,city_asse,2025,7987730,,,jaarrekening_realized,src_asse_jr2025,strong,Liquide middelen YE2025 7.988m (was 8.321m); tick911
+bud_asse_pension_2025,city_asse,2025,9901238,,,jaarrekening_realized,src_asse_jr2025,strong,Pension provisions YE2025 9.901m; tick911
+bud_asse_fva_igs_2025,city_asse,2025,33639956,,,jaarrekening_realized,src_asse_jr2025,strong,FVA IGS YE2025 33.640m (was 33.325m); tick911
+bud_asse_expl_receipts_2025,city_asse,2025,88080308,,,jaarrekening_realized,src_asse_jr2025,strong,Exploitatie ontvangsten 2025 88.080m; tick911
+bud_asse_expl_expenses_2025,city_asse,2025,79320988,,,jaarrekening_realized,src_asse_jr2025,strong,Exploitatie uitgaven 2025 79.321m; tick911
+bud_asse_expl_saldo_2025,city_asse,2025,8759320,,,jaarrekening_realized,src_asse_jr2025,strong,Exploitatiesaldo 2025 +8.759m; tick911
+bud_asse_invest_exp_2025,city_asse,2025,16541554,,,jaarrekening_realized,src_asse_jr2025,strong,Invest uitgaven 2025 16.542m; tick911
+bud_asse_invest_rec_2025,city_asse,2025,964009,,,jaarrekening_realized,src_asse_jr2025,strong,Invest ontvangsten 2025 0.964m; tick911
+bud_asse_invest_saldo_2025,city_asse,2025,-15577546,,,jaarrekening_realized,src_asse_jr2025,strong,Invest saldo 2025 -15.578m; tick911
+bud_asse_fin_receipts_2025,city_asse,2025,17030024,,,jaarrekening_realized,src_asse_jr2025,strong,Financiering ontvangsten 2025 17.030m; tick911
+bud_asse_fin_expenses_2025,city_asse,2025,13657186,,,jaarrekening_realized,src_asse_jr2025,strong,Financiering uitgaven 2025 13.657m; tick911
+bud_asse_budget_result_2025,city_asse,2025,-3445388,,,jaarrekening_realized,src_asse_jr2025,strong,Budgettair resultaat 2025 -3.445m FOI; tick911
+bud_asse_bbr_2025,city_asse,2025,6109397,,,jaarrekening_realized,src_asse_jr2025,strong,Beschikbaar budgettair resultaat YE2025 6.109m; tick911
+bud_asse_afm_2025,city_asse,2025,-3176611,,,jaarrekening_realized,src_asse_jr2025,strong,AFM 2025 -3.177m FOI (negative); tick911
+bud_asse_afm_gecorr_2025,city_asse,2025,3320897,,,jaarrekening_realized,src_asse_jr2025,strong,Gecorrigeerde AFM 2025 +3.321m; tick911
+bud_asse_personnel_2025,city_asse,2025,48122275,,,jaarrekening_realized,src_asse_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 48.122m; tick911
+bud_asse_toelagen_2025,city_asse,2025,9188411,,,jaarrekening_realized,src_asse_jr2025,strong,Toegestane werkingssubsidies 2025 9.188m; tick911
+bud_asse_toelagen_police_2025,city_asse,2025,4148069,,,jaarrekening_realized,src_asse_jr2025,strong,Toelage politiezone AMOW 2025 4.148m; tick911
+bud_asse_toelagen_agb_2025,city_asse,2025,1948128,,,jaarrekening_realized,src_asse_jr2025,strong,Toelage AGB 2025 1.948m; tick911
+bud_asse_toelagen_hvz_2025,city_asse,2025,2429221,,,jaarrekening_realized,src_asse_jr2025,strong,Toelage hulpverleningszone 2025 2.429m; tick911
+bud_asse_toelagen_other_2025,city_asse,2025,515133,,,jaarrekening_realized,src_asse_jr2025,strong,Toelage andere begunstigden 2025 0.515m FOI; tick911
+bud_asse_fiscal_2025,city_asse,2025,39502316,,,jaarrekening_realized,src_asse_jr2025,strong,Fiscale ontvangsten en boetes 2025 39.502m; tick911
+bud_asse_gemeentefonds_2025,city_asse,2025,9895114,,,jaarrekening_realized,src_asse_jr2025,strong,Gemeentefonds 2025 9.895m; tick911
+bud_asse_invest_subs_2025,city_asse,2025,425536,,,jaarrekening_realized,src_asse_jr2025,strong,Toegestane investeringssubsidies 2025 0.426m; tick911
+bud_asse_invest_subs_police_2025,city_asse,2025,173523,,,jaarrekening_realized,src_asse_jr2025,strong,Invest-subs politiezone 2025 0.174m; tick911
+bud_asse_invest_subs_eredienst_2025,city_asse,2025,79513,,,jaarrekening_realized,src_asse_jr2025,strong,Invest-subs eredienst 2025 0.080m; tick911
+bud_asse_loans_granted_agb_2025,city_asse,2025,1239891,,,jaarrekening_realized,src_asse_jr2025,strong,Toegestane leningen AGB 2025 1.240m FOI; tick911
+bud_asse_ocmw_cover_2025,city_asse,2025,4742308,,,jaarrekening_realized,src_asse_jr2025,strong,Gemeente tussenkomst OCMW 2025 4.742m FOI; tick911
+bud_asse_pl_2025,city_asse,2025,-488850,,,jaarrekening_realized,src_asse_jr2025,strong,P&L boekjaar 2025 -0.489m; tick911
+bud_asse_mva_buildings_invest_2025,city_asse,2025,12081049,,,jaarrekening_realized,src_asse_jr2025,strong,Invest terreinen/gebouwen 2025 12.081m of 16.1m MVA; tick911
+bud_asse_new_loans_2024_prior,city_asse,2025,30115897,,,jaarrekening_realized,src_asse_jr2025,strong,Prior-year new loans 2024 30.116m (context dual debt ramp); tick911

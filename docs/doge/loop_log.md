@@ -11381,3 +11381,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@910; doge_waste_top10_current.md as-of 910; rq_910=done; spawn **rq_911** hole_fill; ticks=910
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_911** residual dual L5; deferred **rq_116**; progress@920 in 10
+
+## Tick 911 - 2026-08-07T04:15:00Z
+
+- Unit: **rq_911** (FOI-adjacent residual dual - **Gemeente+OCMW Asse Jaarrekening 2025** + Oostkamp dual)
+- Found (strong primary BBC JR2025 140p):
+  - Assets **EUR252.8m** / equity **EUR150.5m** / debt total **EUR102.3m** / fin debt **EUR83.6m** (was **EUR74.0m**; LT **EUR73.0m** / ST due **EUR5.11m** / **ST EUR5.50m FOI**)
+  - **New loans EUR16.55m FOI** (bank **EUR15.5m** + other **EUR1.05m**); 2024 prior draw **EUR30.1m**
+  - Repayments **EUR12.42m** / pension **EUR9.90m** / cash **EUR7.99m** (was **EUR8.32m**)
+  - Exploitatie: ontvangsten **EUR88.1m** / uitgaven **EUR79.3m** / saldo **+EUR8.76m**
+  - **AFM -EUR3.18m FOI** (gecorr **+EUR3.32m**) / BBR **EUR6.11m** / budget result **-EUR3.45m** / P&L **-EUR0.49m**
+  - Personnel **EUR48.1m** / toelagen **EUR9.19m** (police **EUR4.15m** / HVZ **EUR2.43m** / AGB **EUR1.95m** / other **EUR0.52m FOI**) / fiscal **EUR39.5m**
+  - Invest **EUR16.54m** (buildings **EUR12.08m**) / invest-subs **EUR0.43m** / gemeentefonds **EUR9.90m**
+  - **AGB loans granted EUR1.24m FOI** / **OCMW cover EUR4.74m FOI**
+- Dual: Oostkamp **EUR139.9m** / new loans **EUR6.07m** / AFM **+EUR6.34m** (tick909) - not TE-additive
+- Wrote: budgets +42 (bud_asse_*); commitments +4; leaderboard +7; sources +2; entity city_asse; FOI **gap_asse_loans_afm_agb_l5** prio8 ready + draft; raw PDF + key extracts; rq_911=done; spawn **rq_912**; ticks=911
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_912** residual dual L5 (Zemst/Roeselare/Ninove/Kapellen); deferred **rq_116**; progress@920 in 9
