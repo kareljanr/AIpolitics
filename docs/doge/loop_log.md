@@ -14748,3 +14748,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_1090=done; spawn **rq_1091**; ticks=1090
 - FOI: none new this tick (decade inventory only) - **do not send** backlog without human OK
 - Next: prio5 **rq_1091** residual dual L5; deferred **rq_116**; progress@1100 in 9
+
+
+### Tick 1091 - 2026-08-11T11:00:00Z
+
+- Unit: **rq_1091** (FOI-adjacent residual dual - **Lokaal Bestuur Hamont-Achel Jaarrekening 2025** + Torhout dual residual)
+- Found (strong primary BBC JR2025 PDF; 105p; GR+RMW 25.06.2026 pub 30.06.2026; hamont-achel.be; KBO GE 0216.772.630 / OCMW 0216.772.729; Stad 40 / Michielsplein 1 3930; AD Marnix Goethals FD wd Bart Rutten; GE+OCMW + AGB dual):
+  - Assets **EUR125.969m MASSIVE JUMP FOI** (was **EUR109.233m**) / equity **EUR114.249m JUMP** / debt total **EUR11.72m DROP** / fin debt **EUR1.375m LOW JUMP** (LT **EUR1.226m** / ST due **EUR0.149m**)
+  - New loans **EUR0.422m LOW** leasing / repayments **EUR0.141m** (MJP bank **EUR7.975m NOT drawn FOI**)
+  - Cash **EUR12.706m DROP FOI** (was **EUR13.692m**) / pension **EUR6.632m DROP** / FVA IGS **EUR38.027m MASSIVE JUMP FOI** (was **EUR21.074m**) / herwaard **EUR17.099m MASSIVE JUMP FOI** (was **EUR0.004m**) / leasing MVA **EUR1.300m** / FVA AGB **EUR3.800m**
+  - Exploitatie: ontvangsten **EUR23.247m** / uitgaven **EUR20.559m** / saldo **+EUR2.687m STRONG**
+  - AFM **+EUR2.564m STRONG** (gecorr **+EUR2.618m**) / BBR **EUR13.259m VERY HIGH** / budget **EUR-0.865m NEG FOI** invest-driven / cum BR **EUR14.181m** / P&L **+EUR0.679m DROP**
+  - Personnel **EUR10.783m JUMP** / toelagen **EUR4.460m FOI** (police **EUR1.537m JUMP** / IGS **EUR0.887m** / fire **EUR0.740m** / AGB **EUR0.490m** / other **EUR0.518m**)
+  - Invest **EUR5.003m** vs MJP **EUR26.770m MASSIVE UNDERSPEND FOI** / saldo **-EUR3.851m**
+  - OCMW cover **EUR1.405m FULL** / OCMW equity cum **-EUR0.246m** / OCMW hulp **EUR1.015m**
+  - Dual AGB Stadsontwikkeling: AFM **+EUR0.056m** / BBR **EUR1.026m**
+- Dual: Torhout pension JUMP / andere FVA opaque / cash DROP (tick1089) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen residual next; progress@1100 in 8
+- Wrote: budgets +51 (bud_ham_*); commitments +7; leaderboard +8; sources +1; entity city_hamont_achel; FOI **gap_ham_fva_herwaard_invest_loans_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1091=done; spawn **rq_1092**; ticks=1091
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1092** residual dual L5; deferred **rq_116**; progress@1100 in 8

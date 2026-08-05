@@ -28261,3 +28261,55 @@ bud_tor_interest_2025,city_torhout,2025,706500,,,bbc_jr_realized,src_torhout_jr2
 bud_tor_financieringssaldo_2025,city_torhout,2025,-2758031,,,bbc_jr_realized,src_torhout_jr2025,strong,Financieringssaldo -2.758m; tick1089
 bud_tor_debt_per_inhab_2025,city_torhout,2025,1292,,,bbc_jr_realized,src_torhout_jr2025,strong,Openstaande schuld per inwoner EUR1292 (was 1435); tick1089
 bud_tor_st_provisions_2025,city_torhout,2025,2312632,,,bbc_jr_realized,src_torhout_jr2025,strong,ST voorzieningen YE2025 2.313m JUMP (was 2.002m); tick1089
+bud_ham_assets_2025,city_hamont_achel,2025,125968694,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Assets YE2025 125.969m MASSIVE JUMP FOI (was 109.233m; FVA herwaard); tick1091
+bud_ham_equity_2025,city_hamont_achel,2025,114249436,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Nettoactief YE2025 114.249m MASSIVE JUMP (was 96.758m); tick1091
+bud_ham_debt_total_2025,city_hamont_achel,2025,11719258,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Total schulden YE2025 11.719m DROP (was 12.475m); tick1091
+bud_ham_fin_debt_2025,city_hamont_achel,2025,1374545,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Fin debt total YE2025 1.375m LOW JUMP (was 1.094m); tick1091
+bud_ham_fin_debt_lt_2025,city_hamont_achel,2025,1225815,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Fin debt LT YE2025 1.226m; tick1091
+bud_ham_fin_debt_st_due_2025,city_hamont_achel,2025,148730,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Fin debt ST due YE2025 0.149m; tick1091
+bud_ham_new_loans_2025,city_hamont_achel,2025,422265,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Nieuwe leningen 2025 0.422m LOW leasing (MJP bank 7.975m NOT drawn FOI); tick1091
+bud_ham_aflossingen_2025,city_hamont_achel,2025,141245,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Periodieke aflossingen 2025 0.141m; tick1091
+bud_ham_cash_2025,city_hamont_achel,2025,12705627,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Liquide middelen YE2025 12.706m DROP FOI (was 13.692m); tick1091
+bud_ham_pension_2025,city_hamont_achel,2025,6632482,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.632m DROP (was 6.801m); tick1091
+bud_ham_cap_subs_2025,city_hamont_achel,2025,14100775,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Kapitaalsubsidies YE2025 14.101m; tick1091
+bud_ham_fva_total_2025,city_hamont_achel,2025,43883017,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,FVA total YE2025 43.883m MASSIVE JUMP FOI (was 26.930m); tick1091
+bud_ham_fva_igs_2025,city_hamont_achel,2025,38027302,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,FVA IGS YE2025 38.027m MASSIVE JUMP FOI (was 21.074m +16.95m); tick1091
+bud_ham_fva_agb_2025,city_hamont_achel,2025,3800000,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,FVA EVA/AGB YE2025 3.800m; tick1091
+bud_ham_fva_other_2025,city_hamont_achel,2025,2035536,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Andere FVA YE2025 2.036m; tick1091
+bud_ham_herwaard_2025,city_hamont_achel,2025,17098906,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Herwaarderingsreserves YE2025 17.099m MASSIVE JUMP FOI (was 0.004m); tick1091
+bud_ham_leasing_mva_2025,city_hamont_achel,2025,1299545,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Leasing MVA YE2025 1.300m; tick1091
+bud_ham_expl_rec_2025,city_hamont_achel,2025,23246647,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Exploitatieontvangsten 23.247m; tick1091
+bud_ham_expl_exp_2025,city_hamont_achel,2025,20559223,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Exploitatieuitgaven 20.559m; tick1091
+bud_ham_expl_saldo_2025,city_hamont_achel,2025,2687424,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Exploitatiesaldo +2.687m STRONG; tick1091
+bud_ham_invest_exp_2025,city_hamont_achel,2025,5002891,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Investeringsuitgaven 5.003m vs MJP 26.770m MASSIVE UNDERSPEND FOI; tick1091
+bud_ham_invest_rec_2025,city_hamont_achel,2025,1151755,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Investeringsontvangsten 1.152m; tick1091
+bud_ham_invest_saldo_2025,city_hamont_achel,2025,-3851137,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Investeringssaldo -3.851m FOI; tick1091
+bud_ham_mjp_invest_planned_2025,city_hamont_achel,2025,26769665,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,MJP invest planned 26.770m vs realized 5.003m MASSIVE UNDERSPEND FOI; tick1091
+bud_ham_afm_2025,city_hamont_achel,2025,2564346,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,AFM +2.564m STRONG; tick1091
+bud_ham_afm_corrected_2025,city_hamont_achel,2025,2618109,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Gecorrigeerde AFM +2.618m STRONG; tick1091
+bud_ham_bbr_2025,city_hamont_achel,2025,13258667,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Beschikbaar budgettair resultaat 13.259m VERY HIGH; tick1091
+bud_ham_budget_result_2025,city_hamont_achel,2025,-864525,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Budgettair resultaat boekjaar -0.865m NEG invest-driven FOI (MJP -10.049); tick1091
+bud_ham_cum_budget_2025,city_hamont_achel,2025,14180808,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Gecumuleerd budgettair resultaat 14.181m; tick1091
+bud_ham_onbeschikbaar_2025,city_hamont_achel,2025,922141,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Onbeschikbare gelden 0.922m; tick1091
+bud_ham_pnl_2025,city_hamont_achel,2025,679183,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,P&L overschot +0.679m DROP (was +1.680m); tick1091
+bud_ham_personnel_2025,city_hamont_achel,2025,10783204,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Bezoldigingen 10.783m JUMP; tick1091
+bud_ham_goods_services_2025,city_hamont_achel,2025,4188288,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Goederen en diensten 4.188m; tick1091
+bud_ham_toelagen_2025,city_hamont_achel,2025,4460182,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Toegestane werkingssubsidies 4.460m FOI; tick1091
+bud_ham_police_toelage_2025,city_hamont_achel,2025,1536805,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Politiezone toelage 1.537m JUMP FOI; tick1091
+bud_ham_fire_toelage_2025,city_hamont_achel,2025,740305,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,HVZ toelage 0.740m; tick1091
+bud_ham_igs_toelage_2025,city_hamont_achel,2025,886963,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,IGS toelage 0.887m JUMP FOI; tick1091
+bud_ham_agb_toelage_2025,city_hamont_achel,2025,489910,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,AGB toelage 0.490m dual residual DROP; tick1091
+bud_ham_other_toelagen_2025,city_hamont_achel,2025,517966,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Andere toelagen 0.518m FOI; tick1091
+bud_ham_eredienst_toelage_2025,city_hamont_achel,2025,106235,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Eredienst toelage 0.106m; tick1091
+bud_ham_welzijn_toelage_2025,city_hamont_achel,2025,181998,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Welzijn toelage 0.182m; tick1091
+bud_ham_fiscal_rec_2025,city_hamont_achel,2025,10339512,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Fiscale ontvangsten 10.340m JUMP; tick1091
+bud_ham_fiscal_ov_2025,city_hamont_achel,2025,5249454,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Opcentiemen OV 5.249m; tick1091
+bud_ham_fiscal_pb_2025,city_hamont_achel,2025,3876147,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Aanvullende PB 3.876m JUMP; tick1091
+bud_ham_gemeentefonds_2025,city_hamont_achel,2025,5053298,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Gemeentefonds 5.053m; tick1091
+bud_ham_ocmw_cover_2025,city_hamont_achel,2025,1405000,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,OCMW tussenkomst 1.405m FULL P&L FOI; tick1091
+bud_ham_ocmw_hulp_2025,city_hamont_achel,2025,1014642,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,OCMW individuele hulpverlening 1.015m JUMP; tick1091
+bud_ham_ocmw_equity_cum_2025,city_hamont_achel,2025,-246249,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,OCMW equity cum -0.246m after cover 1.405m FOI residual; tick1091
+bud_ham_agb_afm_2025,city_hamont_achel,2025,55551,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,AGB Stadsontwikkeling AFM +0.056m dual residual; tick1091
+bud_ham_agb_bbr_2025,city_hamont_achel,2025,1026009,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,AGB BBR 1.026m dual residual; tick1091
+bud_ham_financieringssaldo_2025,city_hamont_achel,2025,299188,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Financieringssaldo +0.299m; tick1091
+bud_ham_mjp_new_loans_planned_2025,city_hamont_achel,2025,8227694,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,MJP new loans planned 8.228m vs realized 0.422m UNDERDRAW FOI; tick1091
