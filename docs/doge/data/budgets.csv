@@ -29604,3 +29604,26 @@ bud_aga_interest_2025,agb_asse_aga,2025,7318,,,bbc_jr_realized,src_asse_aga_jr20
 bud_aga_mva_2025,agb_asse_aga,2025,3659354,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA MVA 3.659m JUMP FOI; tick1123
 bud_aga_cum_equity_deficit_2025,agb_asse_aga,2025,-116497,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA gecumuleerd tekort -0.116m FOI; tick1123
 bud_aga_ge_repay_2025,agb_asse_aga,2025,237258,,,bbc_jr_realized,src_asse_aga_jr2025,strong,Aflossing lening aan gemeente 0.237m FOI; tick1123
+bud_ternagb_assets_2025,agb_ternat,2025,834705,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB assets 0.835m DROP FOI; tick1124
+bud_ternagb_equity_2025,agb_ternat,2025,0,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB nettoactief ZERO FOI HIGH; tick1124
+bud_ternagb_debt_total_2025,agb_ternat,2025,834705,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB schulden total 0.835m (=assets); tick1124
+bud_ternagb_fin_debt_2025,agb_ternat,2025,503209,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB fin debt 0.503m DECLINE FOI (LT 0.439 + ST due 0.065; was 0.567m); tick1124
+bud_ternagb_new_loans_2025,agb_ternat,2025,5360,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB new loans 0.005m FOI (=invest); tick1124
+bud_ternagb_loan_repay_2025,agb_ternat,2025,69096,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB periodieke aflossingen 0.069m; tick1124
+bud_ternagb_cash_2025,agb_ternat,2025,267296,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB cash 0.267m JUMP FOI (was 0.234m); tick1124
+bud_ternagb_expl_ont_2025,agb_ternat,2025,752409,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB expl ontvangsten 0.752m; tick1124
+bud_ternagb_expl_uit_2025,agb_ternat,2025,695387,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB expl uitgaven 0.695m; tick1124
+bud_ternagb_expl_saldo_2025,agb_ternat,2025,57022,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB expl saldo +0.057m STRONG; tick1124
+bud_ternagb_afm_2025,agb_ternat,2025,-12074,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB AFM -0.012m NEG FOI (MJP was +0.024m); tick1124
+bud_ternagb_afm_gecorr_2025,agb_ternat,2025,11667,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB gecorr AFM +0.012m POS FOI; tick1124
+bud_ternagb_bbr_2025,agb_ternat,2025,119458,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB BBR 0.119m POS FOI; tick1124
+bud_ternagb_budget_2025,agb_ternat,2025,-12074,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB budget result -0.012m NEG FOI; tick1124
+bud_ternagb_pnl_2025,agb_ternat,2025,21240,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB P&L +0.021m POS; tick1124
+bud_ternagb_dividend_2025,agb_ternat,2025,21240,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB dividend=full profit 0.021m FOI; tick1124
+bud_ternagb_prijssub_2025,agb_ternat,2025,370867,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB prijssubsidie gemeente 0.371m FOI; tick1124
+bud_ternagb_omzet_2025,agb_ternat,2025,758836,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB omzet/werking 0.759m; tick1124
+bud_ternagb_goederen_2025,agb_ternat,2025,639958,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB goederen 0.640m; tick1124
+bud_ternagb_personnel_2025,agb_ternat,2025,0,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB personnel ZERO FOI; tick1124
+bud_ternagb_invest_2025,agb_ternat,2025,5360,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB invest 0.005m vs MJP 0.048m UNDERSPEND FOI; tick1124
+bud_ternagb_interest_2025,agb_ternat,2025,144,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB intresten ~0 FOI near-zero on 0.50m debt; tick1124
+bud_ternagb_mva_2025,agb_ternat,2025,503116,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB MVA 0.503m; tick1124

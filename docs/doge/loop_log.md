@@ -15435,3 +15435,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +25 (bud_aga_*); commitments +8; leaderboard +10; sources +1; entity agb_asse_aga; FOI **gap_aga_bbr_neg_loan_cash_l5** prio9 ready + draft; PDF primary (not committed ~7.2MB); rq_1123=done; spawn **rq_1124**; ticks=1123
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1124** residual dual L5; deferred **rq_116**; progress@1130 in 7
+
+### Tick 1124 - 2026-08-12T03:30:00Z
+
+- Unit: **rq_1124** (FOI-adjacent residual dual - **AGB Ternat Jaarrekening 2025** Entity II + AGA Asse dual residual)
+- Found (strong primary BBC JR2025 AGB 176p text; ternat.be; KBO **0549.931.897**; Gemeentehuisstraat 21 1740; Voorzitter RvB Kris De Meuter / Directiecomité Steven Feys):
+  - Assets **EUR0.835m DROP** (was **EUR0.963m**) / **equity EUR0 ZERO FOI HIGH** / debt total **EUR0.835m** (=assets) / fin debt **EUR0.503m DECLINE FOI** (LT **EUR0.439m** / ST due **EUR0.065m**; was **EUR0.567m**)
+  - New loans **EUR0.005m FOI** (=invest) / repayments **EUR0.069m**
+  - Cash **EUR0.267m JUMP FOI** (was **EUR0.234m**)
+  - Exploitatie: ontvangsten **EUR0.752m** / uitgaven **EUR0.695m** / saldo **+EUR0.057m STRONG**
+  - AFM **−EUR0.012m NEG FOI** (gecorr **+EUR0.012m**; MJP was **+EUR0.024m**) / BBR **EUR0.119m POS** / budget **−EUR0.012m NEG FOI**
+  - P&L **+EUR0.021m** / **dividend = full profit EUR0.021m FOI**
+  - **Prijssubsidie gemeente EUR0.371m FOI** / omzet **EUR0.759m** / goederen **EUR0.640m** / **personeel EUR0** / intresten **~EUR0 FOI**
+  - Invest **EUR0.005m** vs MJP **EUR0.048m UNDERSPEND FOI**
+- Dual: AGA Asse BBR NEG / city renteloze lening EUR1.24m (tick1123) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken GE+OCMW / Pajottegem GE residual next; progress@1130 in 6
+- Wrote: budgets +23 (bud_ternagb_*); commitments +7; leaderboard +8; sources +1; entity agb_ternat; FOI **gap_ternagb_equity_zero_afm_dividend_l5** prio9 ready + draft; PDF primary (not committed ~8.2MB); rq_1124=done; spawn **rq_1125**; ticks=1124
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1125** residual dual L5; deferred **rq_116**; progress@1130 in 6
