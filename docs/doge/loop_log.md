@@ -11557,3 +11557,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@920; doge_waste_top10_current.md as-of 920; rq_920=done; spawn **rq_921** hole_fill; ticks=920
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_921** residual dual L5; deferred **rq_116**; progress@930 in 10
+
+### Tick 921 - 2026-08-07T09:15:00Z
+
+- Unit: **rq_921** (FOI-adjacent residual dual - **Gemeente+OCMW Schoten Jaarrekening 2025** + Wellen dual)
+- Found (strong primary BBC JR2025 187p):
+  - Assets **EUR176.6m** / equity **EUR91.4m** / debt total **EUR85.2m** / fin debt **EUR22.5m** (**DECLINING** from **EUR25.3m**; LT **EUR20.7m** / ST due **EUR1.78m**)
+  - New loans **EUR0.74m FOI** / periodieke aflossingen **EUR1.69m** / early LT repay **EUR1.84m**
+  - **Cash EUR40.6m was EUR45.9m DROP FOI** / pension **EUR47.8m FOI**
+  - Exploitatie: ontvangsten **EUR69.3m** / uitgaven **EUR61.0m** / saldo **+EUR8.29m**
+  - AFM **+EUR6.95m** (gecorr **+EUR6.62m**) / BBR **EUR42.3m** / budget result **-EUR3.97m FOI** / P&L **+EUR4.78m**
+  - Personnel **EUR34.3m** / toelagen **EUR10.4m** (police **EUR6.57m** / HVZ **EUR1.38m** / other **EUR1.76m FOI**) / fiscal **EUR36.8m**
+  - **Invest EUR10.41m FOI** (first year >EUR10m; MVA **EUR9.57m**) / gemeentefonds **EUR8.26m**
+  - MJP new loans 2026 **EUR2.47m FOI**
+- Dual: Wellen **EUR58.2m** / invest **EUR6.20m** / budget **-EUR3.44m** (tick919) - not TE-additive
+- Wrote: budgets +43 (bud_sch_*); commitments +4; leaderboard +7; sources +2; entity city_schoten; FOI **gap_sch_invest_cash_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_921=done; spawn **rq_922**; ticks=921
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_922** residual dual L5 (Heist PDF cached / Kapellen / Roeselare); deferred **rq_116**; progress@930 in 9

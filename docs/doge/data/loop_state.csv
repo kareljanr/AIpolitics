@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T08:45:00Z,rq_920,920,no,tick920 progress@920 after VL residual 911-919 (Asse/Zemst/Ninove/Opwijk/Horebeke/Kinrooi/Bever/Landen/Wellen); pure top10 stable; next residual dual L5 rq_921; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T09:15:00Z,rq_921,921,no,tick921 Schoten JR2025 dual Wellen; FOI gap_sch_invest_cash_toelagen_l5 prio8 invest 10.4m budget -3.97m AFM +6.95m debt declining; next residual dual L5 rq_922; rq_116 deferred

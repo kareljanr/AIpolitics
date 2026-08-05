@@ -1,23 +1,1547 @@
-Schoten JR2025 key figures (BBC consol gemeente+OCMW)
-Source: https://www.schoten.be/sites/default/files/public/documenten/beleidsplannen/2025_jaarrekening_lokaal_bestuur_def.pdf
-Print date 22.04.2026; 187 pages; NIS 11040
-tick872
 
-Pop 34926
-Assets 176641234 / Equity 91429053 / Debt total 85212181
-Cash 40642138 / Cap subs 9314089
-Fin debt 22487315 (LT 20708459 + ST due 1778856) was 25283066
-Pension 47817673 was 50869639
-FVA IGS 26258779 / EVA 3216118
-Expl rec 69268553 / exp 60980959 / saldo 8287594
-AFM 6950327 / gecorr 6620327
-BBR 42335369 / cumul budget 42588702
-Budget result -3969019 / P&L 4780517
-Personnel 34272203 (onderwijs other 3267150)
-Toelagen 10440006 (police 6569932 fire 1384267 AGB 353925 other 1764595)
-OCMW aid 3468755
-Fiscal 36847518 (OV 14968829 APB 14949896)
-Gemeentefonds 8257150
-Invest exp 10406034 / invest-subs granted 616546
-New loans 740603 leasing only
-VTE 394.08
+===== PAGE 36 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+ 
+36  
+                                   Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266 
+ 
+ 
+2 FINANCIËLE NOTA   
+ 
+2.1 Financiële kerncijfers  
+ 
+ 
+JR 2025 
+Aantal inwoners 
+34.926 
+Autofinancieringsmarge 
+6.950.327 
+Beschikbaar budgettair resultaat van het boekjaar 
+-3.969.019 
+Gecumuleerd budgettair resultaat  
+42.588.702 
+Gecumuleerd budgettair resultaat per inwoner  
+1.218 
+Investeringsuitgaven:  
+Materiële vaste activa  
+Immateriële vaste activa  
+Investeringssubsidie 
+ 
+9.572.168 
+217.321 
+616.546 
+Financiële schulden  
+22.487.315 
+Openstaande schuld per inwoner  
+643 
+Loonlasten per inwoner 
+980 
+Toegestane werkingssubsidie  
+10.440.006 
+Toegestane werkingssubsidie brandweer  
+1.384.267 
+Toegestane werkingssubsidie politie  
+6.569.932 
+Personenbelasting  
+6,5% 
+Opcentiemen voor onroerende voorheffing  
+724,18 opcentiemen 
+Ontvangsten aanvullende personenbelasting  
+14.949.896 
+Ontvangsten opcentiemen onroerende voorheffing  
+14.968.829 
+Ontvangsten uit algemene werkingssubsidies  
+13.132.896 
+ 
+
+===== PAGE 41 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+                               Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266  
+ 
+41 
+ 
+2.3 Staat financieel evenwicht (J2)  
+ 
+Het schema J2 geeft een overzicht van de effectieve cijfers naast de vooropgestelde gebudgetteerde cijfers. Het eerste deel van het rapport omvat het 
+budgettair resultaat. De andere drie delen van het rapport omvatten de autofinancieringsmarge, de gecorrigeerde autofinancieringsmarge en tot slot het 
+geconsolideerd financieel evenwicht.  
+In onderstaande tabel worden de gebruikte termen uitgelegd: 
+ 
+ 
+Jaarrekening 
+De effectieve gerealiseerde cijfers. 
+Meerjarenplan 
+De gebudgetteerde cijfers die vooraf opgesteld zijn. 
+Exploitatie 
+De ontvangsten en uitgaven die verband houden met de dagelijkse activiteiten van het lokaal bestuur. Bijvoorbeeld 
+maandelijks medewerkers hun loon betalen, benzine betalen, verzekering betalen, … 
+Investering  
+ 
+De ontvangsten en uitgaven die verband houden met de aanschaf en de vervreemding van duurzame middelen, met inbegrip 
+van investeringssubsidies. Bijvoorbeeld Vlaanderen geeft subsidies voor het verbeteren van fietspaden. Wanneer je dan 
+wegenwerken doet aan deze fietspaden krijg je een investeringsontvangst. 
+Financiering 
+De schulden en vorderingen met betrekking tot leningen. 
+Uitgave 
+Uitgaande gelden. 
+Ontvangst 
+Inkomende gelden. 
+Saldo 
+De ontvangsten minus de uitgaven van dat jaar. 
+Financieringssaldo – ontvangsten  
+O.a. de lening aangegaan door het bestuur. 
+Financieringssaldo – Uitgaven 
+De aflossingen van leningen, de toegestane leningen. 
+Budgettair resultaat 
+Het geraamde resultaat van alle ontvangsten en uitgaven van dat jaar. 
+Gecumuleerd budgettair resultaat 
+De optelling van het geraamde resultaat van dat jaar bij de resultaten van alle voorgaande jaren. 
+Beschikbaar budgettair resultaat 
+Gecumuleerd budgettair resultaat na aftrek van de onbeschikbare gelden. 
+Gecorrigeerde autofinancieringsmarge 
+De financiële toestand van de gemeente op een andere manier getoetst. Een belangrijke indicator zodat je geen leningslasten 
+vooruitschuift. 
+ 
+Wat is er belangrijk in dit schema voor de interpretatie? Het doel van dit schema is om weer te geven per beleidsdoelstelling welke effectieve uitgaven en 
+ontvangsten er gerealiseerd zijn en hoe dit staat ten opzichte van wat gebudgetteerd werd. In dit schema is het belangrijk dat het beschikbaar budgettair 
+resultaat jaarlijks groter dan 0 is. 
+
+===== PAGE 42 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+ 
+42  
+                                   Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266 
+ 
+Resultaten 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Exploitatiesaldo 
+(a-b) 
+8.287.594 
+4.184.239 
+a. Ontvangsten 
+ 
+69.268.553 
+66.881.002 
+b. Uitgaven 
+ 
+60.980.959 
+62.696.763 
+II. Investeringssaldo 
+(a-b) 
+-9.757.934 
+-8.728.100 
+a. Ontvangsten 
+ 
+648.100 
+2.479.758 
+b. Uitgaven 
+ 
+10.406.034 
+11.207.858 
+III. Saldo exploitatie en investeringen 
+(I+II)) 
+-1.470.340 
+-4.543.861 
+IV. Financieringssaldo 
+(a-b) 
+-2.498.679 
+-837.354 
+a. Ontvangsten 
+ 
+1.095.982 
+2.827.001 
+b. Uitgaven 
+ 
+3.594.661 
+3.664.355 
+V. Budgettair resultaat van het boekjaar 
+(III+IV)) 
+-3.969.019 
+-5.381.215 
+VI. Gecumuleerd budgettair resultaat vorig boekjaar 
+ 
+46.557.721 
+46.557.721 
+VII. Gecumuleerd budgettair resultaat 
+(V+VI) 
+42.588.702 
+41.176.506 
+VIII. Onbeschikbare gelden 
+ 
+253.333 
+0 
+IX. Beschikbaar budgettair resultaat 
+(VII-VIII) 
+42.335.369 
+41.176.506 
+ 
+Autofinancieringsmarge 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Exploitatiesaldo 
+ 
+8.287.594 
+4.184.239 
+II. Netto periodieke aflossingen 
+(a-b) 
+1.337.267 
+1.316.472 
+a. Periodieke aflossingen conform de verbintenissen 
+1.692.646 
+1.675.355 
+b. Periodieke terugvordering leningen 
+ 
+355.378 
+358.883 
+III. Autofinancieringsmarge 
+(I-II)) 
+6.950.327 
+2.867.766 
+ 
+Gecorrigeerde autofinancieringsmarge 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Autofinancieringsmarge 
+ 
+6.950.327 
+2.867.766 
+II. Correctie op de periodieke aflossingen 
+(a-b) 
+-329.999 
+-347.290 
+a. Periodieke aflossingen conform de verbintenissen 
+1.692.646 
+1.675.355 
+b. Aangewezen aflossingen o.b.v. de financiële schulden 
+2.022.645 
+2.022.645 
+III. Gecorrigeerde autofinancieringsmarge 
+(I+II)) 
+6.620.327 
+2.520.476 
+ 
+ 
+
+===== PAGE 43 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+                               Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266  
+ 
+43 
+ 
+ 
+Geconsolideerd financieel evenwicht 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Beschikbaar budgettair resultaat 
+ 
+ 
+ 
+• 
+Gemeente en OCMW 
+ 
+42.335.369 
+41.176.506 
+• 
+AGB Schoten 
+ 
+2.133.070 
+2.157.206 
+Totaal beschikbaar budgettair resultaat 
+ 
+44.468.439 
+43.333.712 
+ 
+ 
+ 
+ 
+II. Autofinancieringsmarge 
+ 
+ 
+ 
+• 
+Gemeente en OCMW 
+ 
+6.950.327 
+2.867.766 
+• 
+AGB Schoten 
+ 
+119.601 
+143.737 
+Totale autofinancieringsmarge 
+ 
+7.069.928 
+3.011.504 
+ 
+ 
+ 
+ 
+III. Gecorrigeerde autofinancieringsmarge 
+ 
+ 
+ 
+• 
+Gemeente en OCMW 
+ 
+6.620.327 
+2.520.476 
+• 
+AGB Schoten 
+ 
+199.857 
+227.493 
+Totale gecorrigeerde autofinancieringsmarge 
+ 
+6.820.184 
+2.747.970 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 46 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+ 
+46  
+                                   Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266 
+ 
+ 
+2.4. Balans (J4)  
+ 
+De balans geeft een overzicht van het vermogen van het bestuur op het einde van het boekjaar en van het vermogen op het einde van het vorige boekjaar. 
+Je krijgt een zicht op de middelen die er zijn, en van waar ze komen.  
+ 
+In onderstaande tabel worden de gebruikte termen uitgelegd:  
+ 
+ 
+Vlottende activa 
+Bedrijfsbezittingen die slechts gedurende een beperkte tijd in de onderneming aanwezig zijn. Bijna dagelijks zullen de 
+vlottende activa wijzigen. 
+Vaste activa  
+Middelen die op een duurzame manier zijn verworven en die de onderneming voor de lange termijn gebruikt. 
+Passiva 
+Passiva omvatten de leningen, voorzieningen voor schulden en lasten. 
+Liquide middelen en geldbeleggingen 
+Het geld dat in de kas of op de bankrekening staat. 
+Vorderingen 
+ 
+Openstaande facturen waarvan het verschuldigde bedrag nog mag worden opgeëist door de gemeente/het OCMW. 
+Ruiltransacties 
+Het bestuur geeft of ontvangt een gelijkwaardige economische waarde voor de prestatie die geleverd wordt. Het zijn 
+gebeurtenissen van het type koop/verkoop. Bijvoorbeeld de aankoop van kantoormateriaal. 
+Niet-ruiltransacties 
+ Het bestuur geeft of krijgt geen gelijkwaardige economische waarde in ruil voor de geleverde prestatie. Bijvoorbeeld 
+subsidies. 
+ 
+Wat is er belangrijk in dit schema voor de interpretatie? Wanneer het totaal van de activa gelijk is aan het totaal van de passiva is het boekjaar in balans. 
+Er dient voor gezorgd te worden dat de beschikbare middelen optimaal worden gebruikt, dit kan door vlottende activa te financieren met korte termijn 
+middelen en voor vaste activa meer lange termijn middelen (bv. een lening) in te zetten. 
+ 
+ 
+ 
+
+===== PAGE 47 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+                               Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266  
+ 
+47 
+ 
+ 
+2025 
+2024 
+ACTIVA 
+176.641.234 
+176.117.578 
+I. Vlottende activa 
+51.611.143 
+54.715.549 
+A. Liquide middelen en geldbeleggingen 
+40.642.138 
+45.939.727 
+B. Vorderingen op korte termijn 
+10.619.716 
+8.395.349 
+1. Vorderingen uit ruiltransacties 
+933.000 
+835.569 
+2. Vorderingen uit niet-ruiltransacties 
+9.686.716 
+7.559.781 
+C. Voorraden en bestellingen in uitvoering 
+0 
+0 
+D. Overlopende rekeningen van het actief 
+27.839 
+26.451 
+E. Vorderingen op lange termijn die binnen het jaar vervallen 
+321.450 
+354.021 
+II. Vaste activa 
+125.030.091 
+121.402.029 
+A. Vorderingen op lange termijn 
+4.396.472 
+4.660.973 
+A. Vorderingen uit ruiltransacties 
+4.396.472 
+4.660.973 
+2. Vorderingen uit niet-ruiltransacties 
+0 
+0 
+B. Financiële vaste activa 
+29.700.410 
+29.982.893 
+1. Extern verzelfstandigde agentschappen 
+3.216.118 
+3.216.118 
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke 
+26.258.779 
+26.540.022 
+3. OCMW-Verenigingen 
+124 
+124 
+4; Andere financiële vaste activa 
+225.389 
+226.630 
+C. Materiële vaste activa 
+90.654.462 
+86.586.215 
+1. Gemeenschapsgoederen 
+77.933.899 
+72.944.183 
+a. Terreinen en gebouwen 
+41.636.198 
+39.054.836 
+b. Wegen en andere infrastructuur 
+30.218.297 
+28.008.624 
+c. Installaties, machines en uitrusting 
+256.063 
+305.276 
+d. Meubilair, kantooruitrusting en rollend materieel 
+1.712.007 
+1.791.748 
+e. Leasing en soortgelijke rechten 
+3.659.702 
+3.331.481 
+f. Erfgoed 
+451.632 
+452.219 
+2. Bedrijfsmatige materiële vaste activa 
+7.054.122 
+8.039.301 
+a. Terreinen en gebouwen 
+7.053.601 
+8.038.606 
+b. Installaties, machines en uitrusting 
+0 
+0 
+c. Meubilair, kantooruitrusting en rollend materieel 
+521 
+695 
+d. Leasing en soortgelijke rechten 
+0 
+0 
+3. Andere materiële vaste activa 
+5.666.440 
+5.602.731 
+a. Terreinen en gebouwen 
+5.666.102 
+5.602.053 
+b. Roerende goederen 
+339 
+677 
+D. Immateriële vaste activa 
+278.747 
+171.948 
+ 
+
+===== PAGE 50 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+ 
+50  
+                                   Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266 
+ 
+ 
+2025 
+2024 
+ 
+ 
+ 
+I. Kosten 
+64.976.713 
+80.345.442 
+A. Operationele kosten 
+64.450.496 
+79.821.125 
+1. Goederen en diensten 
+11.812.114 
+11.115.765 
+2. Bezoldigingen, sociale lasten en pensioenen 
+34.272.203 
+29.425.835 
+3. Afschrijvingen, waardeverminderingen en voorzieningen 
+3.370.465 
+24.728.482 
+4. Individuele hulpverlening door het O.C.M.W. 
+3.468.879 
+3.021.832 
+5. Toegestane werkingssubsidies 
+10.440.006 
+10.133.133 
+6. Toegestane investeringssubsidies 
+616.546 
+983.614 
+7. Minderwaarden bij de realisatie van vaste activa 
+272 
+0 
+8. Andere operationele kosten 
+470.011 
+412.465 
+B. Financiële kosten 
+526.217 
+524.316 
+ 
+ 
+ 
+II. Opbrengsten 
+69.757.229 
+63.659.268 
+A. Operationele opbrengsten 
+67.262.813 
+60.749.577 
+1. Opbrengsten uit de werking 
+4.190.892 
+4.266.104 
+2. Fiscale opbrengsten en boetes 
+36.847.518 
+33.761.536 
+3. Werkingssubsidies 
+23.519.819 
+19.947.017 
+a. Algemene werkingssubsidies 
+13.132.896 
+12.966.601 
+b. Specifieke werkingssubsidies 
+10.386.923 
+6.980.416 
+4. Recuperatie individuele hulpverlening 
+1.186.765 
+917.370 
+5. Meerwaarden bij de realisatie van vaste activa 
+0 
+7.289 
+6. Andere operationele opbrengsten 
+1.517.819 
+1.850.262 
+B. Financiële opbrengsten 
+2.494.416 
+2.909.691 
+ 
+ 
+ 
+III. Overschot of tekort van het boekjaar 
+4.780.517 
+-16.686.174 
+A. Operationele overschot of tekort 
+2.812.317 
+-19.071.548 
+B. Financieel overschot of tekort 
+1.968.200 
+2.385.374 
+ 
+ 
+ 
+IV. Verwerking van het overschot of het tekort van het boekjaar 
+4.780.517 
+-16.686.174 
+A. Rechthebbenden uit het overschot van het boekjaar 
+0 
+0 
+B. Tussenkomst door derden in het tekort van het boekjaar 
+0 
+0 
+C. Over te dragen overschot of tekort van het boekjaar 
+4.780.517 
+-16.686.174 
+ 
+ 
+ 
+ 
+
+===== PAGE 55 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+                               Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266  
+ 
+55 
+ 
+I. Exploitatie-uitgaven 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+MJP 2027 
+A. Operationele uitgaven 
+47.380.178 
+46.329.706 
+49.394.841 
+52.822.511 
+54.109.005 
+60.454.742 
+62.248.999 
+61.760.699 
+62.687.481 
+1. Goederen en diensten 
+10.812.848 
+10.005.474 
+10.812.469 
+11.481.425 
+11.115.617 
+11.803.767 
+11.883.783 
+11.093.884 
+11.099.197 
+2. Bezoldigingen, sociale lasten en pensioenen 
+26.144.451 
+25.909.778 
+27.102.086 
+27.845.007 
+29.425.835 
+34.272.203 
+36.149.765 
+36.309.216 
+37.230.596 
+a. Politiek personeel 
+754.350 
+643.055 
+722.091 
+755.026 
+791.355 
+824.950 
+911.919 
+1.037.173 
+1.037.173 
+b. Vastbenoemd niet-onderwijzend personeel 
+12.895.944 
+11.686.048 
+11.691.183 
+12.053.391 
+12.017.544 
+12.180.104 
+13.001.966 
+14.273.086 
+15.194.466 
+c. Niet-vastbenoemd niet-onderwijzend personeel 
+11.330.108 
+12.224.935 
+13.304.803 
+13.604.055 
+15.141.385 
+16.388.526 
+17.511.106 
+16.204.428 
+16.204.428 
+d. Onderwijzend personeel ten laste van het bestuur 
+0 
+90.374 
+100.789 
+98.041 
+85.646 
+89.383 
+89.072 
+106.969 
+106.969 
+e. Onderwijzend personeel ten laste van andere 
+overheden 
+0 
+0 
+0 
+0 
+0 
+3.267.150 
+3.111.000 
+3.111.000 
+3.111.000 
+f. Andere personeelskosten 
+899.759 
+979.193 
+945.192 
+975.738 
+1.016.143 
+1.154.295 
+1.135.990 
+1.139.802 
+1.139.802 
+g. Pensioenen 
+264.292 
+286.174 
+338.028 
+358.756 
+373.762 
+367.793 
+388.712 
+436.759 
+436.759 
+3. Individuele hulpverlening door het OCMW 
+2.279.332 
+2.486.578 
+2.796.847 
+3.080.592 
+3.021.955 
+3.468.755 
+3.101.475 
+3.254.699 
+3.254.699 
+4. Toegestane werkingssubsidies 
+7.878.035 
+7.683.077 
+8.310.689 
+10.013.835 
+10.133.133 
+10.440.006 
+10.815.268 
+10.795.899 
+10.795.989 
+aan de districten 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+aan de eigen autonome provinciebedrijven (APB) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+aan de eigen autonome gemeentebedrijven (AGB) 
+359.111 
+416.639 
+276.950 
+561.616 
+402.434 
+353.925 
+415.129 
+439.350 
+439.440 
+aan welzijnsverenigingen 
+0 
+0 
+38.550 
+885 
+0 
+257.899 
+257.900 
+260.100 
+260.100 
+aan andere OCMW-verenigingen 
+0 
+0 
+0 
+0 
+250.000 
+0 
+0 
+0 
+0 
+aan de politiezone 
+5.000.000 
+5.000.000 
+5.000.000 
+6.312.801 
+6.312.801 
+6.569.932 
+6.569.932 
+6.569.932 
+6.569.932 
+aan de hulpverleningszone 
+1.197.615 
+964.327 
+1.130.238 
+1.359.131 
+1.344.603 
+1.384.267 
+1.534.477 
+1.534.477 
+1.534.477 
+aan intergemeentelijke samenwerkingsverbanden 
+(IGS) 
+55 
+500 
+0 
+798 
+864 
+1.103 
+0 
+0 
+0 
+aan besturen van de eredienst 
+65.685 
+90.430 
+85.504 
+75.637 
+68.475 
+108.285 
+79.800 
+100.451 
+100.451 
+aan niet-confessionele levensbeschouwelijke 
+gemeenschappen 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+aan andere begunstigden 
+1.255.569 
+1.211.181 
+1.779.447 
+1.702.966 
+1.753.956 
+1.764.595 
+1.958.030 
+1.891.589 
+1.891.589 
+5. Andere operationele uitgaven 
+265.510 
+244.799 
+372.749 
+401.652 
+412.465 
+470.011 
+298.709 
+307.000 
+307.000 
+B. Financiële uitgaven 
+485.853 
+468.548 
+432.362 
+458.202 
+524.316 
+526.217 
+447.764 
+416.312 
+416.312 
+1. Rente, commissies en kosten verbonden aan 
+schulden 
+480.933 
+405.027 
+378.149 
+455.200 
+520.059 
+522.378 
+441.547 
+410.762 
+410.762 
+aan financiële instellingen 
+437.454 
+363.169 
+346.184 
+423.350 
+488.209 
+490.528 
+390.224 
+340.342 
+340.342 
+aan andere entiteiten 
+43.479 
+41.858 
+31.965 
+31.850 
+31.850 
+31.850 
+51.323 
+70.420 
+70.420 
+2. Andere financiële uitgaven 
+4.920 
+63.521 
+54.213 
+3.001 
+4.258 
+3.839 
+6.217 
+5.550 
+5.550 
+C. Rechthebbenden uit het overschot van het 
+boekjaar 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+
+===== PAGE 56 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+ 
+56  
+                                   Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266 
+ 
+ 
+II. Exploitatieontvangsten 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+MJP 2027 
+A. Operationele ontvangsten 
+51.897.221 
+50.801.230 
+55.506.910 
+61.274.826 
+60.747.251 
+67.264.981 
+65.099.517 
+65.237.107 
+66.258.639 
+1. Ontvangsten uit de werking 
+4.405.546 
+4.403.348 
+4.428.763 
+4.642.672 
+4.271.067 
+4.192.098 
+3.981.000 
+3.985.010 
+3.944.010 
+2. Fiscale ontvangsten en boetes 
+28.172.570 
+28.609.659 
+30.392.246 
+35.090.714 
+33.761.536 
+36.847.518 
+35.922.856 
+36.633.583 
+37.284.988 
+a. Aanvullende belastingen 
+25.150.043 
+24.825.624 
+26.209.897 
+31.353.453 
+29.226.674 
+30.534.840 
+30.966.562 
+31.877.289 
+32.728.694 
+- 
+Opcentiemen op de onroerende voorheffing 
+12.681.787 
+12.538.511 
+13.001.445 
+14.167.953 
+14.758.858 
+14.968.829 
+15.260.396 
+15.574.242 
+15.883.814 
+- 
+Aanvullende belasting op de personenbelasting 
+11.951.187 
+11.748.665 
+12.694.223 
+16.627.753 
+13.898.672 
+14.949.896 
+15.119.392 
+15.705.122 
+16.236.369 
+- 
+Andere aanvullende belastingen 
+517.068 
+538.449 
+514.229 
+557.748 
+569.145 
+616.115 
+586.774 
+597.925 
+608.511 
+b. Andere belastingen en boetes 
+3.022.527 
+3.784.035 
+4.182.350 
+3.737.260 
+4.534.862 
+6.312.678 
+4.956.294 
+4.756.294 
+4.556.294 
+3. Werkingssubsidies 
+16.017.413 
+14.984.946 
+17.930.781 
+18.964.869 
+19.947.017 
+23.519.819 
+22.486.429 
+21.897.531 
+22.308.658 
+a. Algemene werkingssubsidies 
+10.131.697 
+9.794.501 
+10.785.154 
+11.984.468 
+12.966.601 
+13.132.896 
+12.899.388 
+13.045.475 
+13.456.702 
+Gemeentefonds 
+7.353.511 
+7.391.507 
+7.616.039 
+7.806.481 
+8.010.715 
+8.257.150 
+8.257.980 
+8.323.428 
+8.397.626 
+Andere algemene werkingssubsidies 
+2.778.186 
+2.402.994 
+3.169.115 
+4.177.987 
+4.955.886 
+4.875.746 
+4.641.408 
+4.722.048 
+5.059.076 
+van de federale overheid 
+2.904 
+6.133 
+25.969 
+3.049 
+26.683 
+3.476 
+0 
+0 
+0 
+van de Vlaamse overheid 
+2.775.282 
+2.396.861 
+3.143.146 
+4.151.171 
+4.929.203 
+4.844.109 
+4.641.408 
+4.722.048 
+5.059.076 
+van de provincie 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+van de gemeente 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+van het OCMW 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+van andere entiteiten 
+0 
+0 
+0 
+23.767 
+0 
+28.161 
+0 
+0 
+0 
+b. Specifieke werkingssubsidies 
+5.885.715 
+5.190.444 
+7.145.627 
+6.980.401 
+6.980.416 
+10.386.923 
+9.587.041 
+8.852.056 
+8.851.956 
+van de federale overheid 
+2.165.192 
+1.718.526 
+2.673.295 
+2.663.706 
+2.498.335 
+2.420.840 
+2.690.492 
+2.054.409 
+2.054.409 
+van de Vlaamse overheid 
+2.999.181 
+3.089.664 
+4.089.492 
+3.843.629 
+4.004.793 
+7.552.016 
+6.530.086 
+6.431.184 
+6.431.084 
+van de provincie 
+270.818 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+van de gemeente 
+48.495 
+0 
+80.419 
+173.785 
+74.777 
+83.413 
+80.419 
+80.419 
+80.419 
+van het OCMW 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+van andere entiteiten 
+402.029 
+382.255 
+302.421 
+299.282 
+402.511 
+330.655 
+286.044 
+286.044 
+286.044 
+4. Recuperatie individuele hulpverlening 
+845.642 
+739.291 
+612.577 
+726.597 
+917.370 
+1.187.727 
+982.363 
+981.763 
+981.763 
+5. Andere operationele ontvangsten 
+2.456.050 
+2.063.986 
+2.142.542 
+1.849.973 
+1.850.262 
+1.517.819 
+1.726.869 
+1.739.220 
+1.739.220 
+B. Financiële ontvangsten 
+2.192.177 
+1.940.692 
+1.567.475 
+1.861.841 
+2.406.569 
+2.003.572 
+1.781.485 
+1.527.885 
+1.527.885 
+C. Tussenkomst door derden in het tekort van het 
+boekjaar 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III. Exploitatiesaldo 
+6.223.368 
+5.943.668 
+7.247.181 
+9.855.954 
+8.520.499 
+8.287.594 
+4.184.239 
+4.587.981 
+4.682.731 
+ 
+ 
+
+===== PAGE 78 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+ 
+78  
+                                   Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266 
+ 
+ 
+3.4 Evolutie financiële schulden (T4)  
+Het schema over de financiële schulden moet inzicht verschaffen in de evolutie van de financiële schulden in de periode van 2020 tot 2026. Het bevat de 
+schulden op korte termijn (algemene rekeningen van rubriek 43), de schulden op lange termijn (algemene rekeningen van rubriek 171 tot 174) en de 
+schulden op lange termijn die binnen het jaar vervallen (algemene rekeningen rubriek 421 tot 424). In het schema wordt weergegeven welke bedragen er 
+per jaar van lange naar korte termijn worden overgeboekt alsook de schulden per 1 januari van het boekjaar.  
+ 
+In onderstaande tabel worden de gebruikte termen uitgelegd:  
+ 
+ 
+Aflossingen 
+Een terugbetaling van geleend geld ineens of in termijnen.  
+Overboekingen  
+Jaarlijks wordt het gedeelte van de financiële schuld dat in het lopende jaar dient te worden terugbetaald overgeboekt 
+van lange termijn naar korte termijn.  
+ 
+Wat is er belangrijk in dit schema voor de interpretatie? Welke nieuwe leningen dienen er bijkomend te worden afgesloten om alle geplande acties te 
+financieren en hoe groot wordt de totale financiële schuld hierdoor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 79 =====
+Lokaal bestuur Schoten gemeente, Verbertstraat 3 – KBO: 0206677997  
+  
+ 
+  Burgemeester: M. De Veuster                            
+Lokaal bestuur Schoten OCMW, Verbertstraat 27 – KBO: 0212168001 
+  
+  
+  Algemeen directeur: W. Verhoeven      
+NIS-code 11040  
+ 
+  
+ 
+  Financieel directeur wnd: M. Deruytter    
+                               Jaarrekening 2025 – Afdrukdatum 22.04.2026, volgnummer budgettaire boekhouding: 223548, volgnummer algemene boekhouding: 135266  
+ 
+79 
+ 
+Financiële schulden op 31 december 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2026 
+Mjp 2027 
+A. Financiële schulden op lange 
+termijn 
+26.344.617 
+25.084.151 
+23.454.101 
+25.187.922 
+23.604.268 
+20.708.459 
+19.533.971 
+17.877.031 
+1. Financiële schulden op 1 januari 
+26.818.043 
+26.344.617 
+25.084.151 
+23.454.101 
+25.187.922 
+23.604.268 
+20.708.459 
+19.533.971 
+2. Nieuwe leningen 
+1.715.482 
+1.953.104 
+1.694.522 
+5.120.311 
+714.073 
+740.603 
+2.465.430 
+2.110.000 
+3. Aflossingen 
+-679.212 
+-1.772.513 
+-1.890.007 
+-1.736.496 
+-603.300 
+-1.843.708 
+-1.910.000 
+-1.910.000 
+4. Overboekingen 
+-1.509.695 
+-1.441.058 
+-1.434.565 
+-1.649.993 
+-1.694.428 
+-1.792.704 
+-1.754.387 
+-1.846.940 
+5. Andere mutaties 
+0 
+0 
+0 
+0 
+0 
+0 
+24.469 
+0 
+B. Financiële schulden op lange 
+termijn die binnen het jaar vervallen 
+1.430.875 
+1.422.274 
+1.429.463 
+1.582.993 
+1.678.798 
+1.778.856 
+1.754.387 
+1.846.940 
+1. Financiële schulden op 1 januari 
+1.684.208 
+1.430.875 
+1.422.274 
+1.429.463 
+1.582.993 
+1.678.798 
+1.778.856 
+1.754.387 
+2. Aflossingen 
+-1.763.028 
+-1.449.659 
+-1.427.376 
+-1.496.463 
+-1.598.623 
+-1.692.646 
+-1.754.387 
+-1.754.387 
+3. Overboekingen 
+1.509.695 
+1.441.058 
+1.434.565 
+1.649.993 
+1.694.428 
+1.792.704 
+1.754.387 
+1.846.940 
+4. Andere mutaties 
+0 
+0 
+0 
+0 
+0 
+0 
+-24.469 
+0 
+C. Financiële schulden op korte 
+termijn 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Totaal financiële schulden 
+27.775.492 
+26.506.425 
+24.883.564 
+26.770.915 
+25.283.066 
+22.487.315 
+21.288.358 
+19.733.971 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
