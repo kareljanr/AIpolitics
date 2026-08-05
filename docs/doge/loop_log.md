@@ -13864,3 +13864,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1046** residual dual L5; deferred **rq_116**; progress@1050 in 5
 
+
+
+### Tick 1046 - 2026-08-10T12:15:00Z
+
+- Unit: **rq_1046** (FOI-adjacent residual dual - **Lokaal Bestuur Assenede Jaarrekening 2025** + Lede dual residual)
+- Found (strong primary BBC JR2025 181p portal; KBO 0207.447.861 / OCMW 0212.237.483; Kasteelstraat 1-3 NIS 43002; AD Frederik Willems FD Carla Van Dender):
+  - Assets **EUR84.29m** / equity **EUR66.72m JUMP** / debt total **EUR17.57m DECLINE** / fin debt **EUR5.49m DECLINE** (was **EUR6.75m**; LT **EUR4.19m** / ST due **EUR1.30m**)
+  - New loans **EUR0.062m LOW** / repayments **EUR1.32m HIGH**
+  - Cash **EUR8.99m DROP** (was **EUR10.58m**) / pension **EUR8.72m DROP HIGH FOI** (was **EUR10.15m**) / FVA IGS **EUR13.80m**
+  - Exploitatie: ontvangsten **EUR25.48m** / uitgaven **EUR22.24m** / saldo **+EUR3.24m STRONG**
+  - AFM **+EUR2.13m STRONG** (gecorr **+EUR2.92m**) / BBR **EUR9.45m** / budget **EUR-1.14m NEG FOI** / cum BR **EUR10.25m** / P&L **+EUR2.63m flip**
+  - Personnel **EUR11.18m JUMP** / toelagen **EUR4.39m FOI** (police **EUR2.26m** / fire **EUR0.724m** / AGB **EUR0.350m** / IGS **EUR0.695m** / other **EUR0.293m DROP**)
+  - Invest **EUR3.88m** vs MJP **EUR6.98m UNDERSPEND** / invest-subs **EUR0.230m**
+  - **OCMW cover EUR1.42m FULL FOI** vs gap **EUR-1.34m**
+  - AGB dual: BBR **EUR0.039m** / AFM **EUR-0.013m** / gecorr AFM **EUR-0.456m NEG FOI**
+- Dual: Lede assets **EUR100.06m** / OCMW cover **0** / cum **-EUR8.94m** / MJP debt YE2027 **EUR35.6m** (tick1045) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 in 4
+- Wrote: budgets +48 (bud_ass_*); commitments +6; leaderboard +8; sources +1; entity city_assenede; FOI **gap_ass_budget_ocmw_pension_toelagen_l5** prio9 ready + draft; key only (PDF ~17.7MB not stored in git); rq_1046=done; spawn **rq_1047**; ticks=1046
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1047** residual dual L5; deferred **rq_116**; progress@1050 in 4
+

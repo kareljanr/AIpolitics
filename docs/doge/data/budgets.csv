@@ -26078,3 +26078,51 @@ bud_lede_mjp_fin_debt_2026,city_lede,2025,18841298,,,bbc_jr_realized,src_lede_jr
 bud_lede_mjp_fin_debt_2027,city_lede,2025,35636896,,,bbc_jr_realized,src_lede_jr2025,strong,MJP fin debt YE2027 35.64m JUMP HIGH FOI; tick1045
 bud_lede_mjp_new_loans_2026,city_lede,2025,10295000,,,bbc_jr_realized,src_lede_jr2025,strong,MJP new loans 2026 10.30m HIGH FOI; tick1045
 bud_lede_mjp_new_loans_2027,city_lede,2025,18295000,,,bbc_jr_realized,src_lede_jr2025,strong,MJP new loans 2027 18.30m HIGH FOI; tick1045
+bud_ass_assets_2025,city_assenede,2025,84289316,,,bbc_jr_realized,src_assenede_jr2025,strong,Assets YE2025 84.29m slight JUMP (was 84.05m); tick1046
+bud_ass_equity_2025,city_assenede,2025,66722844,,,bbc_jr_realized,src_assenede_jr2025,strong,Nettoactief YE2025 66.72m JUMP (was 62.90m); tick1046
+bud_ass_debt_total_2025,city_assenede,2025,17566472,,,bbc_jr_realized,src_assenede_jr2025,strong,Total schulden YE2025 17.57m DECLINE (was 21.15m); tick1046
+bud_ass_fin_debt_2025,city_assenede,2025,5485224,,,bbc_jr_realized,src_assenede_jr2025,strong,Fin debt total YE2025 5.49m DECLINE (was 6.75m T4); tick1046
+bud_ass_fin_debt_lt_2025,city_assenede,2025,4186534,,,bbc_jr_realized,src_assenede_jr2025,strong,Fin debt LT YE2025 4.19m DECLINE; tick1046
+bud_ass_fin_debt_st_due_2025,city_assenede,2025,1298690,,,bbc_jr_realized,src_assenede_jr2025,strong,Fin debt ST due YE2025 1.30m; tick1046
+bud_ass_new_loans_2025,city_assenede,2025,61910,,,bbc_jr_realized,src_assenede_jr2025,strong,New loans/leases 2025 0.062m LOW; tick1046
+bud_ass_repayments_2025,city_assenede,2025,1324325,,,bbc_jr_realized,src_assenede_jr2025,strong,Repayments 2025 1.32m HIGH; tick1046
+bud_ass_cash_2025,city_assenede,2025,8991722,,,bbc_jr_realized,src_assenede_jr2025,strong,Liquide middelen YE2025 8.99m DROP (was 10.58m); tick1046
+bud_ass_pension_prov_2025,city_assenede,2025,8716773,,,bbc_jr_realized,src_assenede_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.72m DROP HIGH FOI (was 10.15m); tick1046
+bud_ass_fva_total_2025,city_assenede,2025,16329510,,,bbc_jr_realized,src_assenede_jr2025,strong,FVA total YE2025 16.33m; tick1046
+bud_ass_fva_igs_2025,city_assenede,2025,13797136,,,bbc_jr_realized,src_assenede_jr2025,strong,FVA IGS YE2025 13.80m FOI; tick1046
+bud_ass_leasing_mva_2025,city_assenede,2025,659092,,,bbc_jr_realized,src_assenede_jr2025,strong,Leasing MVA YE2025 0.659m; tick1046
+bud_ass_expl_ontvangsten_2025,city_assenede,2025,25477811,,,bbc_jr_realized,src_assenede_jr2025,strong,Exploitatie ontvangsten 2025 25.48m; tick1046
+bud_ass_expl_uitgaven_2025,city_assenede,2025,22242806,,,bbc_jr_realized,src_assenede_jr2025,strong,Exploitatie uitgaven 2025 22.24m; tick1046
+bud_ass_expl_saldo_2025,city_assenede,2025,3235005,,,bbc_jr_realized,src_assenede_jr2025,strong,Exploitatiesaldo 2025 +3.24m STRONG; tick1046
+bud_ass_invest_spend_2025,city_assenede,2025,3879292,,,bbc_jr_realized,src_assenede_jr2025,strong,Invest uitgaven 2025 3.88m vs MJP 6.98m UNDERSPEND; tick1046
+bud_ass_invest_rec_2025,city_assenede,2025,758135,,,bbc_jr_realized,src_assenede_jr2025,strong,Invest ontvangsten 2025 0.758m; tick1046
+bud_ass_invest_saldo_2025,city_assenede,2025,-3121157,,,bbc_jr_realized,src_assenede_jr2025,strong,Investeringssaldo 2025 -3.12m; tick1046
+bud_ass_fin_saldo_2025,city_assenede,2025,-1251625,,,bbc_jr_realized,src_assenede_jr2025,strong,Financieringssaldo 2025 -1.25m; tick1046
+bud_ass_afm_2025,city_assenede,2025,2131138,,,bbc_jr_realized,src_assenede_jr2025,strong,AFM 2025 +2.13m STRONG; tick1046
+bud_ass_afm_gecorr_2025,city_assenede,2025,2915651,,,bbc_jr_realized,src_assenede_jr2025,strong,Gecorrigeerde AFM 2025 +2.92m; tick1046
+bud_ass_bbr_2025,city_assenede,2025,9451280,,,bbc_jr_realized,src_assenede_jr2025,strong,BBR YE2025 9.45m (onbeschikbaar 0.796m); tick1046
+bud_ass_budget_result_2025,city_assenede,2025,-1137777,,,bbc_jr_realized,src_assenede_jr2025,strong,Budgettair resultaat boekjaar 2025 -1.14m NEG FOI under AFM +2.13m; tick1046
+bud_ass_cum_budget_2025,city_assenede,2025,10247127,,,bbc_jr_realized,src_assenede_jr2025,strong,Gecumuleerd BR YE2025 10.25m; tick1046
+bud_ass_onbeschikbaar_2025,city_assenede,2025,795846,,,bbc_jr_realized,src_assenede_jr2025,strong,Onbeschikbare gelden YE2025 0.796m; tick1046
+bud_ass_pnl_2025,city_assenede,2025,2633633,,,bbc_jr_realized,src_assenede_jr2025,strong,P&L overschot 2025 +2.63m flip (was -2.48m); tick1046
+bud_ass_personnel_2025,city_assenede,2025,11181098,,,bbc_jr_realized,src_assenede_jr2025,strong,Personnel 2025 11.18m JUMP FOI; tick1046
+bud_ass_toelagen_2025,city_assenede,2025,4385174,,,bbc_jr_realized,src_assenede_jr2025,strong,Toegestane werkingssubsidies 2025 4.39m FOI; tick1046
+bud_ass_police_toelage_2025,city_assenede,2025,2261026,,,bbc_jr_realized,src_assenede_jr2025,strong,Politiezone toelage 2025 2.26m; tick1046
+bud_ass_fire_toelage_2025,city_assenede,2025,724077,,,bbc_jr_realized,src_assenede_jr2025,strong,HVZ toelage 2025 0.724m; tick1046
+bud_ass_agb_toelage_2025,city_assenede,2025,350173,,,bbc_jr_realized,src_assenede_jr2025,strong,AGB toelage 2025 0.350m dual FOI; tick1046
+bud_ass_igs_toelage_2025,city_assenede,2025,695068,,,bbc_jr_realized,src_assenede_jr2025,strong,IGS toelage 2025 0.695m FOI; tick1046
+bud_ass_eredienst_toelage_2025,city_assenede,2025,62029,,,bbc_jr_realized,src_assenede_jr2025,strong,Eredienst toelage 2025 0.062m; tick1046
+bud_ass_other_toelage_2025,city_assenede,2025,292801,,,bbc_jr_realized,src_assenede_jr2025,strong,Andere toelagen 2025 0.293m DROP FOI (was 0.520m); tick1046
+bud_ass_invest_subs_granted_2025,city_assenede,2025,229761,,,bbc_jr_realized,src_assenede_jr2025,strong,Toegestane invest-subs 2025 0.230m; tick1046
+bud_ass_ocmw_cover_2025,city_assenede,2025,1422908,,,bbc_jr_realized,src_assenede_jr2025,strong,OCMW cover tussenkomst 2025 1.42m FULL FOI vs gap -1.34m; tick1046
+bud_ass_ocmw_expl_gap_2025,city_assenede,2025,-1339172,,,bbc_jr_realized,src_assenede_jr2025,strong,OCMW expl saldo 2025 -1.34m; tick1046
+bud_ass_ocmw_expl_ont_2025,city_assenede,2025,4357504,,,bbc_jr_realized,src_assenede_jr2025,strong,OCMW expl ontvangsten 2025 4.36m; tick1046
+bud_ass_ocmw_expl_uit_2025,city_assenede,2025,5696676,,,bbc_jr_realized,src_assenede_jr2025,strong,OCMW expl uitgaven 2025 5.70m; tick1046
+bud_ass_fiscal_2025,city_assenede,2025,11895795,,,bbc_jr_realized,src_assenede_jr2025,strong,Fiscale opbrengsten en boetes 2025 11.90m; tick1046
+bud_ass_gemeentefonds_2025,city_assenede,2025,5025165,,,bbc_jr_realized,src_assenede_jr2025,strong,Gemeentefonds 2025 5.03m; tick1046
+bud_ass_interest_2025,city_assenede,2025,191879,,,bbc_jr_realized,src_assenede_jr2025,strong,Intresten op leningen 2025 0.192m; tick1046
+bud_ass_ocmw_aid_2025,city_assenede,2025,1195805,,,bbc_jr_realized,src_assenede_jr2025,strong,Individuele hulpverlening OCMW 2025 1.20m; tick1046
+bud_ass_agb_bbr_2025,city_assenede,2025,39008,,,bbc_jr_realized,src_assenede_jr2025,strong,AGB BBR 2025 0.039m dual; tick1046
+bud_ass_agb_afm_2025,city_assenede,2025,-13418,,,bbc_jr_realized,src_assenede_jr2025,strong,AGB AFM 2025 -0.013m NEG dual FOI; tick1046
+bud_ass_agb_afm_gecorr_2025,city_assenede,2025,-455503,,,bbc_jr_realized,src_assenede_jr2025,strong,AGB gecorr AFM 2025 -0.456m NEG dual FOI; tick1046
+bud_ass_toegestane_leningen_2025,city_assenede,2025,209669,,,bbc_jr_realized,src_assenede_jr2025,strong,Toegestane leningen granted 2025 0.210m FOI; tick1046
