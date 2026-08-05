@@ -15211,3 +15211,25 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37 (bud_lp_*); commitments +8; leaderboard +10; sources +1; entity city_langemark_poelkapelle; FOI **gap_lp_fva_herwaard_budget_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed 4.2MB); rq_1113=done; spawn **rq_1114**; ticks=1113
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1114** residual dual L5; deferred **rq_116**; progress@1120 in 7
+
+### Tick 1114 - 2026-08-11T22:30:00Z
+
+- Unit: **rq_1114** (FOI-adjacent residual dual - **Gemeente+OCMW Evergem Jaarrekening 2025** + Langemark-Poelkapelle dual residual)
+- Found (strong primary BBC JR2025 499p text; evergem.be; GR 22.06.2026; KBO GE 0207.451.128 / OCMW 0212.212.244; NIS 44019; F. De Kokerlaan 11 9940; AD Danny Coene FD Christ Coquyt; GE+OCMW + AGB consol):
+  - Assets **EUR241.167m JUMP** (was **EUR227.675m**) / equity **EUR206.731m JUMP** / debt total **EUR34.436m** / fin debt **EUR4.148m LOW DECLINE FOI** (LT **EUR3.373m** / ST due **EUR0.775m**; was **EUR4.234m**; debt/capita **EUR113 VERY LOW**)
+  - New loans **EUR0.741m** / repayments **EUR0.827m**
+  - Cash **EUR52.227m VERY HIGH** stable (was **EUR52.310m**) / pension **EUR19.387m JUMP FOI** (was **EUR18.187m**)
+  - FVA IGS **EUR28.645m** / FVA EVA **EUR1.300m** / FVA OCMW-ver **EUR3.588m** / herwaard **EUR6.927m** / leasing MVA **EUR3.184m**
+  - Exploitatie: ontvangsten **EUR76.223m** / uitgaven **EUR62.491m** / saldo **+EUR13.732m VERY STRONG**
+  - AFM **+EUR13.453m VERY STRONG** (gecorr **+EUR13.941m**) / BBR **EUR56.969m VERY HIGH** / onbeschikbaar **EUR0.247m** / budget **+EUR1.433m POS** (MJP was **−EUR5.187m**) / P&L **+EUR6.807m FLIP FOI** (was **−EUR3.320m**)
+  - Fiscal **EUR35.483m** / personnel **EUR33.035m**
+  - Toelagen **EUR10.960m FOI** (police **EUR5.828m** / fire **EUR1.925m** / AGB **EUR1.438m** / welzijn **EUR1.023m** / eredienst **EUR0.220m** / andere **EUR0.526m**)
+  - Invest **EUR16.264m** vs MJP **EUR18.562m UNDERSPEND FOI** / invest-subs **EUR0.649m**
+  - OCMW cover **EUR3.667m FULL FOI** / OCMW P&L **−EUR6.299m DEEP FOI** / OCMW total equity **−EUR3.550m DEEP** / OCMW expl gap **−EUR3.068m** / OCMW hulp **EUR2.072m**
+  - AGB BBR consol **EUR3.074m** / AGB AFM **+EUR0.122m**
+  - MJP debt YE2026 **EUR5.358m** / YE2027 **EUR9.068m RAMP FOI** (new **EUR2.141m** / **EUR4.641m**)
+- Dual: Langemark FVA/herwaard MASSIVE / budget NEG (tick1113) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only / Kalmthout / Bornem JR2024-only / De Panne OCR residual next; progress@1120 in 6
+- Wrote: budgets +44 (bud_eve_*); commitments +8; leaderboard +12; sources +1; entity city_evergem; FOI **gap_eve_ocmw_toelagen_pension_invest_l5** prio9 ready + draft; PDF primary (not committed 17.6MB); rq_1114=done; spawn **rq_1115**; ticks=1114
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1115** residual dual L5; deferred **rq_116**; progress@1120 in 6

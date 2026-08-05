@@ -29304,3 +29304,47 @@ bud_lp_ocmw_pnl_2025,city_langemark_poelkapelle,2025,-1008398,,,bbc_jr_realized,
 bud_lp_ocmw_equity_cum_2025,city_langemark_poelkapelle,2025,-214519,,,bbc_jr_realized,src_langemark_jr2025,strong,OCMW cum equity -0.215m FOI (was -1.355m improved); tick1113
 bud_lp_goederen_2025,city_langemark_poelkapelle,2025,3920336,,,bbc_jr_realized,src_langemark_jr2025,strong,Goederen en diensten 3.920m; tick1113
 bud_lp_fin_exp_2025,city_langemark_poelkapelle,2025,269224,,,bbc_jr_realized,src_langemark_jr2025,strong,Financiele kosten 0.269m; tick1113
+bud_eve_assets_2025,city_evergem,2025,241166720,,,bbc_jr_realized,src_evergem_jr2025,strong,Assets YE2025 241.167m JUMP (was 227.675m); tick1114
+bud_eve_equity_2025,city_evergem,2025,206730657,,,bbc_jr_realized,src_evergem_jr2025,strong,Nettoactief YE2025 206.731m JUMP; tick1114
+bud_eve_debt_total_2025,city_evergem,2025,34436063,,,bbc_jr_realized,src_evergem_jr2025,strong,Total schulden YE2025 34.436m JUMP; tick1114
+bud_eve_fin_debt_2025,city_evergem,2025,4147958,,,bbc_jr_realized,src_evergem_jr2025,strong,Fin debt YE2025 4.148m LOW DECLINE FOI (was 4.234m); tick1114
+bud_eve_fin_debt_lt_2025,city_evergem,2025,3373446,,,bbc_jr_realized,src_evergem_jr2025,strong,Fin debt LT YE2025 3.373m; tick1114
+bud_eve_fin_debt_st_2025,city_evergem,2025,774512,,,bbc_jr_realized,src_evergem_jr2025,strong,Fin debt ST due YE2025 0.775m; tick1114
+bud_eve_new_loans_2025,city_evergem,2025,740610,,,bbc_jr_realized,src_evergem_jr2025,strong,New loans 0.741m modest; tick1114
+bud_eve_repayments_2025,city_evergem,2025,826723,,,bbc_jr_realized,src_evergem_jr2025,strong,Periodieke aflossingen 0.827m; tick1114
+bud_eve_cash_2025,city_evergem,2025,52226980,,,bbc_jr_realized,src_evergem_jr2025,strong,Cash YE2025 52.227m VERY HIGH stable; tick1114
+bud_eve_pension_lt_2025,city_evergem,2025,19387493,,,bbc_jr_realized,src_evergem_jr2025,strong,Pension LT 19.387m JUMP FOI (was 18.187m); tick1114
+bud_eve_fva_igs_2025,city_evergem,2025,28644716,,,bbc_jr_realized,src_evergem_jr2025,strong,FVA IGS YE2025 28.645m HIGH FOI; tick1114
+bud_eve_fva_eva_2025,city_evergem,2025,1299678,,,bbc_jr_realized,src_evergem_jr2025,strong,FVA EVA/AGB 1.300m FOI; tick1114
+bud_eve_fva_ocmw_ver_2025,city_evergem,2025,3587974,,,bbc_jr_realized,src_evergem_jr2025,strong,FVA OCMW-verenigingen 3.588m FOI; tick1114
+bud_eve_herwaard_2025,city_evergem,2025,6927462,,,bbc_jr_realized,src_evergem_jr2025,strong,Herwaarderingsreserves 6.927m; tick1114
+bud_eve_leasing_mva_2025,city_evergem,2025,3184388,,,bbc_jr_realized,src_evergem_jr2025,strong,Leasing MVA YE2025 3.184m; tick1114
+bud_eve_expl_ontvangsten_2025,city_evergem,2025,76223374,,,bbc_jr_realized,src_evergem_jr2025,strong,Exploitatie ontvangsten 76.223m; tick1114
+bud_eve_expl_uitgaven_2025,city_evergem,2025,62491238,,,bbc_jr_realized,src_evergem_jr2025,strong,Exploitatie uitgaven 62.491m; tick1114
+bud_eve_expl_saldo_2025,city_evergem,2025,13732135,,,bbc_jr_realized,src_evergem_jr2025,strong,Exploitatiesaldo +13.732m VERY STRONG; tick1114
+bud_eve_afm_2025,city_evergem,2025,13453260,,,bbc_jr_realized,src_evergem_jr2025,strong,AFM +13.453m VERY STRONG; tick1114
+bud_eve_afm_gecorr_2025,city_evergem,2025,13941257,,,bbc_jr_realized,src_evergem_jr2025,strong,AFM gecorrigeerd +13.941m VERY STRONG; tick1114
+bud_eve_bbr_2025,city_evergem,2025,56969420,,,bbc_jr_realized,src_evergem_jr2025,strong,BBR 56.969m VERY HIGH; tick1114
+bud_eve_budget_result_2025,city_evergem,2025,1433447,,,bbc_jr_realized,src_evergem_jr2025,strong,Budget +1.433m POS (MJP was -5.187m); tick1114
+bud_eve_pnl_2025,city_evergem,2025,6807318,,,bbc_jr_realized,src_evergem_jr2025,strong,P&L +6.807m FLIP FOI (was -3.320m); tick1114
+bud_eve_fiscal_2025,city_evergem,2025,35482997,,,bbc_jr_realized,src_evergem_jr2025,strong,Fiscale opbrengsten 35.483m; tick1114
+bud_eve_personnel_2025,city_evergem,2025,33035476,,,bbc_jr_realized,src_evergem_jr2025,strong,Personeel 33.035m; tick1114
+bud_eve_toelagen_2025,city_evergem,2025,10960303,,,bbc_jr_realized,src_evergem_jr2025,strong,Toegestane werkingssubsidies 10.960m FOI; tick1114
+bud_eve_police_2025,city_evergem,2025,5828444,,,bbc_jr_realized,src_evergem_jr2025,strong,Politiezone toelage 5.828m FOI; tick1114
+bud_eve_fire_2025,city_evergem,2025,1924694,,,bbc_jr_realized,src_evergem_jr2025,strong,HVZ toelage 1.925m; tick1114
+bud_eve_agb_toelagen_2025,city_evergem,2025,1438047,,,bbc_jr_realized,src_evergem_jr2025,strong,AGB toelagen 1.438m FOI; tick1114
+bud_eve_welzijn_toelagen_2025,city_evergem,2025,1023091,,,bbc_jr_realized,src_evergem_jr2025,strong,Welzijnsverenigingen toelage 1.023m FOI; tick1114
+bud_eve_andere_toelagen_2025,city_evergem,2025,526217,,,bbc_jr_realized,src_evergem_jr2025,strong,Andere toelagen 0.526m FOI; tick1114
+bud_eve_hulp_ocmw_2025,city_evergem,2025,2071582,,,bbc_jr_realized,src_evergem_jr2025,strong,OCMW individuele hulp 2.072m; tick1114
+bud_eve_invest_uitgaven_2025,city_evergem,2025,16264210,,,bbc_jr_realized,src_evergem_jr2025,strong,Invest 16.264m vs MJP 18.562m UNDERSPEND FOI; tick1114
+bud_eve_invest_capex_2025,city_evergem,2025,15614964,,,bbc_jr_realized,src_evergem_jr2025,strong,Investeringen (capex kengetallen) 15.615m; tick1114
+bud_eve_invest_mjp_2025,city_evergem,2025,18562390,,,bbc_jr_realized,src_evergem_jr2025,strong,MJP invest uitgaven 18.562m; tick1114
+bud_eve_invest_subs_2025,city_evergem,2025,649246,,,bbc_jr_realized,src_evergem_jr2025,strong,Toegestane invest-subs 0.649m; tick1114
+bud_eve_ocmw_cover_2025,city_evergem,2025,3667402,,,bbc_jr_realized,src_evergem_jr2025,strong,OCMW cover 3.667m FULL FOI (OCMW P&L -6.299m DEEP); tick1114
+bud_eve_ocmw_pnl_2025,city_evergem,2025,-6298569,,,bbc_jr_realized,src_evergem_jr2025,strong,OCMW P&L -6.299m DEEP FOI; tick1114
+bud_eve_ocmw_equity_2025,city_evergem,2025,-3549794,,,bbc_jr_realized,src_evergem_jr2025,strong,OCMW total equity -3.550m DEEP FOI; tick1114
+bud_eve_ocmw_expl_gap_2025,city_evergem,2025,3067912,,,bbc_jr_realized,src_evergem_jr2025,strong,OCMW expl saldo -3.068m FOI; tick1114
+bud_eve_agb_bbr_2025,city_evergem,2025,3074040,,,bbc_jr_realized,src_evergem_jr2025,strong,AGB BBR consol 3.074m FOI; tick1114
+bud_eve_mjp_debt_2027,city_evergem,2025,9068389,,,bbc_jr_realized,src_evergem_jr2025,strong,MJP fin debt YE2027 9.068m RAMP FOI; tick1114
+bud_eve_debt_per_capita_2025,city_evergem,2025,113,,,bbc_jr_realized,src_evergem_jr2025,strong,Schuld per inwoner 113 EUR VERY LOW; tick1114
+bud_eve_goederen_2025,city_evergem,2025,15793230,,,bbc_jr_realized,src_evergem_jr2025,strong,Goederen en diensten 15.793m; tick1114
