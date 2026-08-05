@@ -19098,3 +19098,42 @@ bud_stt_gemeentefonds_2025,city_sint_truiden,2025,18092027,,,jaarrekening_realiz
 bud_stt_invest_subs_granted_2025,city_sint_truiden,2025,569004,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toegestane investeringssubsidies 0.569m 2025; tick884
 bud_stt_new_loans_2025,city_sint_truiden,2025,3121309,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Nieuwe leningen/leasings 3.121m 2025 FOI-adjacent; tick884
 bud_stt_ocmw_deficit_cover_2025,city_sint_truiden,2025,1450708,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Tussenkomst tekort OCMW 1.451m 2025; tick884
+bud_knr_assets_2025,city_kinrooi,2025,83436988,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Consol total assets YE2025 83.437m; tick885
+bud_knr_equity_2025,city_kinrooi,2025,56289814,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Nettoactief YE2025 56.290m; tick885
+bud_knr_debt_total_2025,city_kinrooi,2025,27147174,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Schulden total YE2025 27.147m; tick885
+bud_knr_fin_debt_2025,city_kinrooi,2025,16391512,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin schulden total YE2025 16.392m (LT 15.151 + ST due 1.240); tick885
+bud_knr_fin_debt_lt_2025,city_kinrooi,2025,15151375,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin schulden LT YE2025 15.151m declining; tick885
+bud_knr_fin_debt_st_2025,city_kinrooi,2025,1240138,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.240m; tick885
+bud_knr_pension_prov_2025,city_kinrooi,2025,4784538,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Pensioenvoorzieningen YE2025 4.785m (was 3.107m jump FOI); tick885
+bud_knr_cash_2025,city_kinrooi,2025,5874438,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Liquide middelen YE2025 5.874m; tick885
+bud_knr_cap_subs_2025,city_kinrooi,2025,16966243,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Kapitaalsubsidies YE2025 16.966m; tick885
+bud_knr_fva_igs_2025,city_kinrooi,2025,15127730,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin VA IGS YE2025 15.128m; tick885
+bud_knr_fva_total_2025,city_kinrooi,2025,24711734,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin VA total YE2025 24.712m; tick885
+bud_knr_cumul_budget_2025,city_kinrooi,2025,5671672,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 5.672m; tick885
+bud_knr_bbr_2025,city_kinrooi,2025,5671672,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Beschikbaar budgettair resultaat YE2025 5.672m; tick885
+bud_knr_expl_rec_2025,city_kinrooi,2025,31288335,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Exploitatieontvangsten 31.288m 2025; tick885
+bud_knr_expl_exp_2025,city_kinrooi,2025,27010946,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Exploitatieuitgaven 27.011m 2025; tick885
+bud_knr_expl_saldo_2025,city_kinrooi,2025,4277389,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Exploitatiesaldo +4.277m 2025; tick885
+bud_knr_invest_exp_2025,city_kinrooi,2025,2826698,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Investeringsuitgaven 2.827m 2025; tick885
+bud_knr_invest_rec_2025,city_kinrooi,2025,673226,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Investeringsontvangsten 0.673m 2025; tick885
+bud_knr_invest_saldo_2025,city_kinrooi,2025,-2153472,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Investeringssaldo -2.153m 2025; tick885
+bud_knr_fin_saldo_2025,city_kinrooi,2025,-978819,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Financieringssaldo -0.979m 2025; tick885
+bud_knr_budget_result_2025,city_kinrooi,2025,1145098,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Budgettair resultaat boekjaar +1.145m 2025; tick885
+bud_knr_afm_2025,city_kinrooi,2025,3067513,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Autofinancieringsmarge +3.068m 2025; tick885
+bud_knr_afm_gecorr_2025,city_kinrooi,2025,2878651,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gecorrigeerde AFM +2.879m 2025; tick885
+bud_knr_pl_2025,city_kinrooi,2025,241486,,,jaarrekening_realized,src_kinrooi_jr2025,strong,P&L overschot +0.241m 2025; tick885
+bud_knr_personnel_2025,city_kinrooi,2025,17439743,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Bezoldigingen 17.440m 2025 (incl onderwijs other ~2.816m); tick885
+bud_knr_personnel_onderwijs_other_2025,city_kinrooi,2025,2816112,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.816m 2025; tick885
+bud_knr_toelagen_2025,city_kinrooi,2025,3453908,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toegestane werkingssubsidies 3.454m 2025; tick885
+bud_knr_toelagen_police_2025,city_kinrooi,2025,1016970,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage politiezone 1.017m 2025; tick885
+bud_knr_toelagen_fire_2025,city_kinrooi,2025,471538,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage hulpverleningszone 0.472m 2025; tick885
+bud_knr_toelagen_igs_2025,city_kinrooi,2025,885417,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage IGS 0.885m 2025; tick885
+bud_knr_toelagen_agb_2025,city_kinrooi,2025,260121,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage eigen AGB 0.260m 2025; tick885
+bud_knr_toelagen_other_2025,city_kinrooi,2025,738682,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelagen andere begunstigden 0.739m 2025 FOI; tick885
+bud_knr_ocmw_aid_2025,city_kinrooi,2025,556981,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Individuele hulpverlening OCMW 0.557m 2025; tick885
+bud_knr_fiscal_2025,city_kinrooi,2025,10617258,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fiscale opbrengsten 10.617m 2025; tick885
+bud_knr_fiscal_ov_2025,city_kinrooi,2025,3918894,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Opcentiemen OV 3.919m 2025; tick885
+bud_knr_fiscal_apb_2025,city_kinrooi,2025,3760641,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Aanvullende PB 3.761m 2025; tick885
+bud_knr_gemeentefonds_2025,city_kinrooi,2025,4603050,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gemeentefonds 4.603m 2025; tick885
+bud_knr_invest_subs_granted_2025,city_kinrooi,2025,348510,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toegestane investeringssubsidies 0.349m 2025; tick885
+bud_knr_new_loans_2025,city_kinrooi,2025,231056,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Nieuwe leningen/leasings 0.231m 2025; tick885

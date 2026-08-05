@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T15:00:00Z,rq_884,884,no,tick884 Sint-Truiden JR2025 dual BKZ; FOI gap_stt_fva_toelagen_loans_l5; next rq_885 residual dual L5; progress@890 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T15:30:00Z,rq_885,885,no,tick885 Kinrooi JR2025 dual ST; FOI gap_knr_pension_toelagen_l5; next rq_886 residual dual L5; progress@890 in 5; rq_116 deferred

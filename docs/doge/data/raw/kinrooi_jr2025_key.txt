@@ -1,0 +1,21 @@
+Kinrooi JR2025 BBC consol
+Source: https://www.kinrooi.be/file/download/11264/1F6E19C988446D884F90F3AAAA4C3338
+67p; Breeersteenweg 146 3640 Kinrooi; BE 0207.472.904
+tick885
+
+Assets 83436988 / Equity 56289814 / Debt total 27147174
+Cash 5874438 / Cap subs 16966243
+Fin debt 16391512 (LT 15151375 + ST due 1240138) declining
+New loans/leasings 231056
+Pension 4784538 was 3107029
+FVA IGS 15127730 / FVA total 24711734
+Expl rec 31288335 / exp 27010946 / saldo 4277389
+AFM 3067513 / gecorr 2878651
+BBR 5671672 / cumul 5671672
+Budget result 1145098 / P&L 241486
+Personnel 17439743 (onderwijs other ~2816112)
+Toelagen 3453908 (police 1016970 fire 471538 IGS 885417 AGB 260121 other 738682)
+OCMW aid 556981
+Fiscal 10617258 (OV 3918894 APB 3760641)
+Gemeentefonds 4603050
+Invest exp 2826698 / invest-subs 348510

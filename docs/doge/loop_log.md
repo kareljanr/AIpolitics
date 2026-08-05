@@ -10979,3 +10979,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_stt_*); commitments +4; leaderboard +7; sources +2; entity city_sint_truiden; FOI **gap_stt_fva_toelagen_loans_l5** prio7 ready + draft; raw PDF + key; rq_884=done; spawn **rq_885**; ticks=884
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_885** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@890 in 6
+
+## Tick 885 - 2026-08-06T15:30:00Z
+
+- Unit: **rq_885** (FOI-adjacent residual dual - **Gemeente+OCMW Kinrooi Jaarrekening 2025** + Sint-Truiden dual)
+- Found (strong primary BBC JR2025 67p):
+  - Assets **EUR83.4m** / equity **EUR56.3m** / debt total **EUR27.1m** / fin debt **EUR16.4m** declining (LT **EUR15.2m** / ST due **EUR1.2m**)
+  - **New loans/leasings EUR0.23m** / pension **EUR4.8m** (was **EUR3.1m** jump) / cash **EUR5.9m** / FVA IGS **EUR15.1m**
+  - Exploitatie: ontvangsten **EUR31.3m** / uitgaven **EUR27.0m** / saldo **+EUR4.3m**
+  - AFM **+EUR3.1m** (gecorr **+EUR2.9m**) / BBR **EUR5.7m** / budget result **+EUR1.1m** / P&L **+EUR0.24m**
+  - Personnel **EUR17.4m** / toelagen **EUR3.5m** (police **EUR1.0m** / IGS **EUR0.89m** / other **EUR0.74m**) / fiscal **EUR10.6m**
+  - Invest **EUR2.8m** / invest-subs **EUR0.35m** / gemeentefonds **EUR4.6m**
+- Dual: Sint-Truiden **EUR303.4m** / AFM **+EUR5.3m** / FVA IGS reval (tick884) - not TE-additive
+- Wrote: budgets +39 (bud_knr_*); commitments +4; leaderboard +7; sources +2; entity city_kinrooi; FOI **gap_knr_pension_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_885=done; spawn **rq_886**; ticks=885
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_886** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@890 in 5
