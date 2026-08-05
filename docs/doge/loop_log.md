@@ -13409,3 +13409,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1023** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1030 in 7
 
+
+### Tick 1023 - 2026-08-10T00:45:00Z
+
+- Unit: **rq_1023** (FOI-adjacent residual dual - **Gemeente+OCMW Dessel Jaarrekening 2025** + Wijnegem dual residual)
+- Found (strong primary BBC JR2025 62p; KBO 0207.536.943 / OCMW 0212.246.094; AD Luk Nuyts; FD Bart Van Gompel; Hannekestraat 1; GR/RMW 28 mei 2026):
+  - Assets **EUR77.59m JUMP** / equity **EUR72.16m JUMP** / debt total **EUR5.43m LOW** / fin debt **EUR2.66m** (**DECLINING** from **EUR2.94m**; LT **EUR2.21m** / ST due **EUR0.445m**)
+  - New loans **EUR0.324m** lease / repayments **EUR0.610m** / **MJP debt YE2026 EUR9.61m JUMP HIGH FOI** (+new loans **EUR7.63m**) / YE2027 **EUR11.16m**
+  - Cash **EUR8.90m HIGH JUMP** (was **EUR7.21m**) / leasing MVA **EUR2.75m** / FVA IGS **EUR6.67m** / cap subs **EUR6.72m**
+  - Exploitatie: ontvangsten **EUR23.85m** / uitgaven **EUR19.72m** / saldo **+EUR4.13m STRONG**
+  - AFM **+EUR3.52m STRONG** (gecorr **+EUR3.90m**) / BBR **EUR8.74m VERY HIGH** / budget **+EUR2.85m STRONG** / P&L **+EUR2.04m** / equity flip **+EUR1.74m** (was **-EUR0.309m**)
+  - Personnel **EUR12.12m** (edu pass-through **EUR2.99m**) / toelagen **EUR2.02m DROP FOI** (police **EUR0.969m DROP** was 1.33 / fire **EUR0.207m** / other **EUR0.648m**)
+  - Invest **EUR2.75m** vs MJP **EUR8.19m UNDERSPEND HIGH FOI** / invest-subs **EUR0.354m** / OCMW expl gap **-EUR1.76m FOI** / toegestane leningen **EUR0.225m** / meerwaarden **EUR0.875m JUMP FOI**
+- Dual: Wijnegem **EUR53.00m** / OCMW cover **0** / OCMW cum **-EUR10.76m** (tick1022) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Boechout JR2025 PDF reserved next optional; Oosterzele residual
+- Wrote: budgets +53 (bud_dsl_*); commitments +6; leaderboard +8; sources +1; entity city_dessel; FOI **gap_dsl_mjp_debt_invest_ocmw_toelagen_l5** prio9 ready + draft; key only (PDF ~4.2MB not stored in git); rq_1023=done; spawn **rq_1024**; ticks=1023
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1024** residual dual L5 (Torhout / Boechout / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1030 in 6
+

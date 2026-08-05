@@ -24836,3 +24836,56 @@ bud_wjn_fin_opbr_2025,city_wijnegem,2025,1222781,,,bbc_jr_realized,src_wijnegem_
 bud_wjn_invest_subs_granted_2025,city_wijnegem,2025,203575,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Toegestane invest-subs 0.204m JUMP (was 0.067m); tick1022
 bud_wjn_interest_2025,city_wijnegem,2025,319953,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Intresten op leningen 0.320m; tick1022
 bud_wjn_vorderingen_lt_2025,city_wijnegem,2025,9368233,,,bbc_jr_realized,src_wijnegem_jr2025,strong,Vorderingen LT YE2025 9.37m; tick1022
+bud_dsl_assets_2025,city_dessel,2025,77589974,,,bbc_jr_realized,src_dessel_jr2025,strong,Assets YE2025 77.59m (was 75.61m JUMP); tick1023
+bud_dsl_equity_2025,city_dessel,2025,72158831,,,bbc_jr_realized,src_dessel_jr2025,strong,Nettoactief YE2025 72.16m (was 69.49m JUMP); tick1023
+bud_dsl_debt_total_2025,city_dessel,2025,5431142,,,bbc_jr_realized,src_dessel_jr2025,strong,Total schulden YE2025 5.43m LOW; tick1023
+bud_dsl_fin_debt_2025,city_dessel,2025,2655386,,,bbc_jr_realized,src_dessel_jr2025,strong,Fin debt total YE2025 2.66m DECLINING (was 2.94m T4); tick1023
+bud_dsl_fin_debt_lt_2025,city_dessel,2025,2209887,,,bbc_jr_realized,src_dessel_jr2025,strong,Fin debt LT YE2025 2.21m DECLINING (was 2.33m); tick1023
+bud_dsl_fin_debt_st_due_2025,city_dessel,2025,445499,,,bbc_jr_realized,src_dessel_jr2025,strong,Fin debt ST due YE2025 0.445m; tick1023
+bud_dsl_new_loans_2025,city_dessel,2025,324069,,,bbc_jr_realized,src_dessel_jr2025,strong,Nieuwe leningen 2025 0.324m lease; tick1023
+bud_dsl_aflossingen_2025,city_dessel,2025,610026,,,bbc_jr_realized,src_dessel_jr2025,strong,Periodieke aflossingen 2025 0.610m; tick1023
+bud_dsl_mjp_fin_debt_2026,city_dessel,2025,9605037,,,bbc_jr_realized,src_dessel_jr2025,strong,MJP fin debt YE2026 planned 9.61m JUMP HIGH FOI (from 2.66m); tick1023
+bud_dsl_mjp_fin_debt_2027,city_dessel,2025,11160434,,,bbc_jr_realized,src_dessel_jr2025,strong,MJP fin debt YE2027 planned 11.16m JUMP FOI; tick1023
+bud_dsl_mjp_new_loans_2026,city_dessel,2025,7628729,,,bbc_jr_realized,src_dessel_jr2025,strong,MJP new loans 2026 planned 7.63m JUMP HIGH FOI; tick1023
+bud_dsl_cash_2025,city_dessel,2025,8904150,,,bbc_jr_realized,src_dessel_jr2025,strong,Liquide middelen YE2025 8.90m HIGH JUMP (was 7.21m); tick1023
+bud_dsl_cap_subs_2025,city_dessel,2025,6717218,,,bbc_jr_realized,src_dessel_jr2025,strong,Kapitaalsubsidies YE2025 6.72m; tick1023
+bud_dsl_fva_total_2025,city_dessel,2025,6706947,,,bbc_jr_realized,src_dessel_jr2025,strong,FVA total YE2025 6.71m; tick1023
+bud_dsl_fva_igs_2025,city_dessel,2025,6670286,,,bbc_jr_realized,src_dessel_jr2025,strong,FVA IGS YE2025 6.67m; tick1023
+bud_dsl_leasing_mva_2025,city_dessel,2025,2754403,,,bbc_jr_realized,src_dessel_jr2025,strong,Leasing MVA YE2025 2.75m; tick1023
+bud_dsl_expl_rec_2025,city_dessel,2025,23845201,,,bbc_jr_realized,src_dessel_jr2025,strong,Exploitatieontvangsten 23.85m; tick1023
+bud_dsl_expl_exp_2025,city_dessel,2025,19719493,,,bbc_jr_realized,src_dessel_jr2025,strong,Exploitatieuitgaven 19.72m; tick1023
+bud_dsl_expl_saldo_2025,city_dessel,2025,4125709,,,bbc_jr_realized,src_dessel_jr2025,strong,Exploitatiesaldo +4.13m STRONG; tick1023
+bud_dsl_invest_exp_2025,city_dessel,2025,2754936,,,bbc_jr_realized,src_dessel_jr2025,strong,Investeringsuitgaven 2.75m vs MJP 8.19m UNDERSPEND HIGH FOI; tick1023
+bud_dsl_invest_rec_2025,city_dessel,2025,1983692,,,bbc_jr_realized,src_dessel_jr2025,strong,Investeringsontvangsten 1.98m; tick1023
+bud_dsl_invest_saldo_2025,city_dessel,2025,-771244,,,bbc_jr_realized,src_dessel_jr2025,strong,Investeringssaldo -0.771m; tick1023
+bud_dsl_mjp_invest_planned_2025,city_dessel,2025,8188144,,,bbc_jr_realized,src_dessel_jr2025,strong,MJP invest planned 8.19m vs realized 2.75m underspend HIGH FOI; tick1023
+bud_dsl_afm_2025,city_dessel,2025,3521683,,,bbc_jr_realized,src_dessel_jr2025,strong,AFM +3.52m STRONG; tick1023
+bud_dsl_afm_corr_2025,city_dessel,2025,3896401,,,bbc_jr_realized,src_dessel_jr2025,strong,Gecorrigeerde AFM +3.90m STRONG; tick1023
+bud_dsl_bbr_2025,city_dessel,2025,8744809,,,bbc_jr_realized,src_dessel_jr2025,strong,BBR beschikbaar 8.74m VERY HIGH; tick1023
+bud_dsl_budget_result_2025,city_dessel,2025,2849507,,,bbc_jr_realized,src_dessel_jr2025,strong,Budgettair resultaat +2.85m STRONG; tick1023
+bud_dsl_cum_br_2025,city_dessel,2025,8744809,,,bbc_jr_realized,src_dessel_jr2025,strong,Gecumuleerd budgettair resultaat 8.74m (equals BBR); tick1023
+bud_dsl_pnl_2025,city_dessel,2025,2044633,,,bbc_jr_realized,src_dessel_jr2025,strong,P&L +2.04m STRONG (was +0.404m); tick1023
+bud_dsl_equity_cum_2025,city_dessel,2025,1735824,,,bbc_jr_realized,src_dessel_jr2025,strong,Gecumuleerd equity overschot YE2025 +1.74m FLIP (was -0.309m FOI); tick1023
+bud_dsl_ge_expl_exp_2025,city_dessel,2025,14655459,,,bbc_jr_realized,src_dessel_jr2025,strong,GE exploitatieuitgaven J3 14.66m; tick1023
+bud_dsl_ge_expl_rec_2025,city_dessel,2025,20544694,,,bbc_jr_realized,src_dessel_jr2025,strong,GE exploitatieontvangsten J3 20.54m; tick1023
+bud_dsl_ocmw_expl_exp_2025,city_dessel,2025,5064034,,,bbc_jr_realized,src_dessel_jr2025,strong,OCMW exploitatieuitgaven J3 5.06m FOI; tick1023
+bud_dsl_ocmw_expl_rec_2025,city_dessel,2025,3300507,,,bbc_jr_realized,src_dessel_jr2025,strong,OCMW exploitatieontvangsten J3 3.30m; tick1023
+bud_dsl_ocmw_expl_gap_2025,city_dessel,2025,-1763527,,,bbc_jr_realized,src_dessel_jr2025,strong,OCMW expl gap J3 -1.76m FOI residual; tick1023
+bud_dsl_personnel_2025,city_dessel,2025,12116780,,,bbc_jr_realized,src_dessel_jr2025,strong,Bezoldigingen 12.12m incl education pass-through 2.99m; tick1023
+bud_dsl_edu_pass_through_2025,city_dessel,2025,2987210,,,bbc_jr_realized,src_dessel_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.99m; tick1023
+bud_dsl_toelagen_2025,city_dessel,2025,2019990,,,bbc_jr_realized,src_dessel_jr2025,strong,Toegestane werkingssubsidies 2.02m DROP FOI (was 2.34m); tick1023
+bud_dsl_toelagen_police_2025,city_dessel,2025,968876,,,bbc_jr_realized,src_dessel_jr2025,strong,Toelage politiezone 0.969m DROP FOI (was 1.33m); tick1023
+bud_dsl_toelagen_fire_2025,city_dessel,2025,207487,,,bbc_jr_realized,src_dessel_jr2025,strong,Toelage hulpverleningszone 0.207m; tick1023
+bud_dsl_toelagen_igs_2025,city_dessel,2025,165081,,,bbc_jr_realized,src_dessel_jr2025,strong,Toelage IGS 0.165m; tick1023
+bud_dsl_toelagen_other_2025,city_dessel,2025,647808,,,bbc_jr_realized,src_dessel_jr2025,strong,Toelage andere begunstigden 0.648m FOI; tick1023
+bud_dsl_toelagen_welzijn_2025,city_dessel,2025,30738,,,bbc_jr_realized,src_dessel_jr2025,strong,Toelage welzijnsverenigingen 0.031m; tick1023
+bud_dsl_ocmw_aid_2025,city_dessel,2025,1111748,,,bbc_jr_realized,src_dessel_jr2025,strong,OCMW individuele hulp 1.11m; tick1023
+bud_dsl_fiscal_2025,city_dessel,2025,11015808,,,bbc_jr_realized,src_dessel_jr2025,strong,Fiscale opbrengsten 11.02m; tick1023
+bud_dsl_fiscal_ov_2025,city_dessel,2025,3717384,,,bbc_jr_realized,src_dessel_jr2025,strong,Opcentiemen OV 3.72m; tick1023
+bud_dsl_fiscal_pb_2025,city_dessel,2025,3160330,,,bbc_jr_realized,src_dessel_jr2025,strong,Aanvullende PB 3.16m JUMP (was 2.66m); tick1023
+bud_dsl_gemeentefonds_2025,city_dessel,2025,2982153,,,bbc_jr_realized,src_dessel_jr2025,strong,Gemeentefonds 2.98m; tick1023
+bud_dsl_fin_opbr_2025,city_dessel,2025,580240,,,bbc_jr_realized,src_dessel_jr2025,strong,Financiele opbrengsten J5 0.580m; tick1023
+bud_dsl_invest_subs_granted_2025,city_dessel,2025,353626,,,bbc_jr_realized,src_dessel_jr2025,strong,Toegestane invest-subs 0.354m JUMP; tick1023
+bud_dsl_toegestane_leningen_2025,city_dessel,2025,225000,,,bbc_jr_realized,src_dessel_jr2025,strong,Toegestane leningen 0.225m FOI; tick1023
+bud_dsl_interest_2025,city_dessel,2025,99970,,,bbc_jr_realized,src_dessel_jr2025,strong,Intresten op leningen 0.100m JUMP FOI (was 0.047m); tick1023
+bud_dsl_meerwaarden_2025,city_dessel,2025,874564,,,bbc_jr_realized,src_dessel_jr2025,strong,Meerwaarden realisatie VA 0.875m JUMP FOI; tick1023
