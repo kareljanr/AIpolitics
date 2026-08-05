@@ -13657,3 +13657,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1036** residual dual L5 (Retie / Grobbendonk / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 4
 
+
+### Tick 1036 - 2026-08-10T07:15:00Z
+
+- Unit: **rq_1036** (FOI-adjacent residual dual - **Gemeente+OCMW Retie Jaarrekening 2025** + Herenthout dual residual)
+- Found (strong primary BBC JR2025 255p direct URL; KBO 0207.504.477 / OCMW 0212.211.452; AD Roel Slegers; FD Dirk Van Herck; Markt 1):
+  - Assets **EUR75.69m JUMP** / equity **EUR58.53m DROP** / debt total **EUR17.16m JUMP** (pension-driven) / fin debt **EUR8.77m DECLINE** (was **EUR9.34m**; LT **EUR7.82m** / ST due **EUR0.946m**)
+  - New loans **EUR0.372m LOW** lease-only / repayments **EUR0.945m**
+  - Cash **EUR5.81m JUMP** / pension **EUR4.88m JUMP VERY HIGH FOI** (**was EUR0** on YE2024 balance) / FVA IGS **EUR8.33m** / leasing MVA **EUR1.57m**
+  - Exploitatie: ontvangsten **EUR23.09m** / uitgaven **EUR19.89m** / saldo **+EUR3.20m STRONG**
+  - AFM **+EUR2.26m STRONG** / BBR **EUR3.86m** / budget **+EUR0.752m STRONG** / cum BR **EUR5.73m** / onbeschikbaar **EUR1.87m HIGH FOI** / P&L **-EUR4.30m NEG VERY HIGH FOI**
+  - Personnel **EUR11.97m JUMP** (edu pass-through **EUR2.57m JUMP**) / toelagen **EUR1.15m DROP FOI** (police **EUR0.723m DROP** was **EUR1.28m** / fire **EUR0.271m** / other **EUR0.137m**)
+  - Invest **EUR3.28m** vs MJP **EUR6.27m UNDERSPEND** / invest-subs IGS **EUR0.556m** / invest-subs VL received **EUR1.20m**
+  - **OCMW cover EUR1.15m FULL-ish FOI** vs gap **-EUR1.71m** / OCMW equity cum **-EUR0.224m FLIP** (was **+EUR0.869m**) / OCMW P&L **-EUR2.25m** / consol equity cum **EUR1.31m DROP** (was **EUR5.61m**)
+- Dual: Herenthout assets **EUR56.72m** / OCMW cover 0 / equity **-EUR9.34m** (tick1035) - not TE-additive
+- Note: Grobbendonk JR2025 page previously listed; Torhout news-only; Stekene 404; Balen OCR; Vorselaar docs-only; Beerse/Kalmthout/Essen residual optional
+- Wrote: budgets +55 (bud_ret_*); commitments +6; leaderboard +8; sources +1; entity city_retie; FOI **gap_ret_pension_pnl_police_ocmw_l5** prio9 ready + draft; key only (PDF ~16MB not stored in git); rq_1036=done; spawn **rq_1037**; ticks=1036
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1037** residual dual L5 (Grobbendonk / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 3
+

@@ -25556,3 +25556,58 @@ bud_hth_interest_2025,city_herenthout,2025,116674,,,bbc_jr_realized,src_herentho
 bud_hth_invest_subs_granted_2025,city_herenthout,2025,47205,,,bbc_jr_realized,src_herenthout_jr2025,strong,Toegestane invest-subs 0.047m; tick1035
 bud_hth_invest_subs_received_vl_2025,city_herenthout,2025,2005021,,,bbc_jr_realized,src_herenthout_jr2025,strong,Ontvangen invest-subs Vlaanderen 2.01m JUMP FOI; tick1035
 bud_hth_buildings_invest_2025,city_herenthout,2025,6188173,,,bbc_jr_realized,src_herenthout_jr2025,strong,Terreinen en gebouwen invest 6.19m JUMP FOI; tick1035
+bud_ret_assets_2025,city_retie,2025,75688279,,,bbc_jr_realized,src_retie_jr2025,strong,Assets YE2025 75.69m JUMP (was 74.04m); tick1036
+bud_ret_equity_2025,city_retie,2025,58525932,,,bbc_jr_realized,src_retie_jr2025,strong,Nettoactief YE2025 58.53m DROP (was 62.40m); tick1036
+bud_ret_debt_total_2025,city_retie,2025,17162346,,,bbc_jr_realized,src_retie_jr2025,strong,Total schulden YE2025 17.16m JUMP (was 11.64m; pension provisions drive); tick1036
+bud_ret_fin_debt_2025,city_retie,2025,8765751,,,bbc_jr_realized,src_retie_jr2025,strong,Fin debt total YE2025 8.77m DECLINE (was 9.34m T4); tick1036
+bud_ret_fin_debt_lt_2025,city_retie,2025,7819379,,,bbc_jr_realized,src_retie_jr2025,strong,Fin debt LT YE2025 7.82m DECLINE; tick1036
+bud_ret_fin_debt_st_due_2025,city_retie,2025,946372,,,bbc_jr_realized,src_retie_jr2025,strong,Fin debt ST due YE2025 0.946m; tick1036
+bud_ret_new_loans_2025,city_retie,2025,372196,,,bbc_jr_realized,src_retie_jr2025,strong,Nieuwe leningen 2025 0.372m LOW lease-only (MJP bank 1.10m path not fully taken); tick1036
+bud_ret_aflossingen_2025,city_retie,2025,945278,,,bbc_jr_realized,src_retie_jr2025,strong,Periodieke aflossingen 2025 0.945m; tick1036
+bud_ret_cash_2025,city_retie,2025,5808128,,,bbc_jr_realized,src_retie_jr2025,strong,Liquide middelen YE2025 5.81m JUMP (was 5.22m); tick1036
+bud_ret_pension_2025,city_retie,2025,4883418,,,bbc_jr_realized,src_retie_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.88m JUMP VERY HIGH FOI (was 0 in 2024 balance); tick1036
+bud_ret_cap_subs_2025,city_retie,2025,15627312,,,bbc_jr_realized,src_retie_jr2025,strong,Kapitaalsubsidies YE2025 15.63m; tick1036
+bud_ret_fva_total_2025,city_retie,2025,8445683,,,bbc_jr_realized,src_retie_jr2025,strong,FVA total YE2025 8.45m; tick1036
+bud_ret_fva_igs_2025,city_retie,2025,8331217,,,bbc_jr_realized,src_retie_jr2025,strong,FVA IGS YE2025 8.33m; tick1036
+bud_ret_leasing_mva_2025,city_retie,2025,1570269,,,bbc_jr_realized,src_retie_jr2025,strong,Leasing MVA YE2025 1.57m; tick1036
+bud_ret_expl_rec_2025,city_retie,2025,23085814,,,bbc_jr_realized,src_retie_jr2025,strong,Exploitatieontvangsten 23.09m; tick1036
+bud_ret_expl_exp_2025,city_retie,2025,19886342,,,bbc_jr_realized,src_retie_jr2025,strong,Exploitatieuitgaven 19.89m; tick1036
+bud_ret_expl_saldo_2025,city_retie,2025,3199472,,,bbc_jr_realized,src_retie_jr2025,strong,Exploitatiesaldo +3.20m STRONG; tick1036
+bud_ret_invest_exp_2025,city_retie,2025,3279128,,,bbc_jr_realized,src_retie_jr2025,strong,Investeringsuitgaven 3.28m vs MJP 6.27m UNDERSPEND FOI; tick1036
+bud_ret_invest_rec_2025,city_retie,2025,1397071,,,bbc_jr_realized,src_retie_jr2025,strong,Investeringsontvangsten 1.40m; tick1036
+bud_ret_invest_saldo_2025,city_retie,2025,-1882056,,,bbc_jr_realized,src_retie_jr2025,strong,Investeringssaldo -1.88m; tick1036
+bud_ret_mjp_invest_planned_2025,city_retie,2025,6270962,,,bbc_jr_realized,src_retie_jr2025,strong,MJP invest planned 6.27m vs realized 3.28m underspend FOI; tick1036
+bud_ret_afm_2025,city_retie,2025,2261694,,,bbc_jr_realized,src_retie_jr2025,strong,AFM +2.26m STRONG; tick1036
+bud_ret_afm_corr_2025,city_retie,2025,2459865,,,bbc_jr_realized,src_retie_jr2025,strong,Gecorrigeerde AFM +2.46m STRONG; tick1036
+bud_ret_bbr_2025,city_retie,2025,3857992,,,bbc_jr_realized,src_retie_jr2025,strong,BBR beschikbaar +3.86m; tick1036
+bud_ret_budget_result_2025,city_retie,2025,751834,,,bbc_jr_realized,src_retie_jr2025,strong,Budgettair resultaat +0.752m STRONG; tick1036
+bud_ret_cum_br_2025,city_retie,2025,5728197,,,bbc_jr_realized,src_retie_jr2025,strong,Gecumuleerd budgettair resultaat +5.73m; tick1036
+bud_ret_onbeschikbaar_2025,city_retie,2025,1870205,,,bbc_jr_realized,src_retie_jr2025,strong,Onbeschikbare gelden 1.87m HIGH FOI residual; tick1036
+bud_ret_pnl_2025,city_retie,2025,-4303332,,,bbc_jr_realized,src_retie_jr2025,strong,P&L -4.30m NEG VERY HIGH FOI (pension provision path); tick1036
+bud_ret_ge_expl_exp_2025,city_retie,2025,15754094,,,bbc_jr_realized,src_retie_jr2025,strong,GE exploitatieuitgaven 15.75m; tick1036
+bud_ret_ge_expl_rec_2025,city_retie,2025,20660114,,,bbc_jr_realized,src_retie_jr2025,strong,GE exploitatieontvangsten 20.66m; tick1036
+bud_ret_ocmw_expl_exp_2025,city_retie,2025,4132248,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW exploitatieuitgaven 4.13m FOI; tick1036
+bud_ret_ocmw_expl_rec_2025,city_retie,2025,2425699,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW exploitatieontvangsten 2.43m; tick1036
+bud_ret_ocmw_expl_gap_2025,city_retie,2025,-1706548,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW expl gap -1.71m HIGH FOI residual; tick1036
+bud_ret_ocmw_cover_2025,city_retie,2025,1154291,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW cover tussenkomst 1.15m FULL-ish FOI vs gap 1.71m; tick1036
+bud_ret_ocmw_equity_cum_2025,city_retie,2025,-224420,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW equity cum -0.224m FLIP WORSENING FOI (was +0.869m); tick1036
+bud_ret_ocmw_pnl_2025,city_retie,2025,-2247333,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW P&L -2.25m HIGH FOI; tick1036
+bud_ret_ge_equity_cum_2025,city_retie,2025,1535736,,,bbc_jr_realized,src_retie_jr2025,strong,GE equity cum +1.54m DROP FOI (was +4.75m); tick1036
+bud_ret_ge_pnl_2025,city_retie,2025,-2055998,,,bbc_jr_realized,src_retie_jr2025,strong,GE P&L -2.06m FOI; tick1036
+bud_ret_equity_cum_2025,city_retie,2025,1311316,,,bbc_jr_realized,src_retie_jr2025,strong,Consol equity cum +1.31m DROP HIGH FOI (was +5.61m); tick1036
+bud_ret_personnel_2025,city_retie,2025,11970395,,,bbc_jr_realized,src_retie_jr2025,strong,Bezoldigingen 11.97m JUMP incl education pass-through 2.57m JUMP; tick1036
+bud_ret_edu_pass_through_2025,city_retie,2025,2569253,,,bbc_jr_realized,src_retie_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.57m JUMP (was 1.34m); tick1036
+bud_ret_toelagen_2025,city_retie,2025,1153384,,,bbc_jr_realized,src_retie_jr2025,strong,Toegestane werkingssubsidies 1.15m DROP FOI residual; tick1036
+bud_ret_toelagen_police_2025,city_retie,2025,722535,,,bbc_jr_realized,src_retie_jr2025,strong,Toelage politiezone 0.723m DROP HIGH FOI (was 1.28m); tick1036
+bud_ret_toelagen_fire_2025,city_retie,2025,271491,,,bbc_jr_realized,src_retie_jr2025,strong,Toelage hulpverleningszone 0.271m; tick1036
+bud_ret_toelagen_igs_2025,city_retie,2025,20285,,,bbc_jr_realized,src_retie_jr2025,strong,Toelage IGS 0.020m FOI; tick1036
+bud_ret_toelagen_other_2025,city_retie,2025,136765,,,bbc_jr_realized,src_retie_jr2025,strong,Toelage andere begunstigden 0.137m FOI; tick1036
+bud_ret_ocmw_aid_2025,city_retie,2025,1136410,,,bbc_jr_realized,src_retie_jr2025,strong,OCMW individuele hulp 1.14m; tick1036
+bud_ret_fiscal_2025,city_retie,2025,10406163,,,bbc_jr_realized,src_retie_jr2025,strong,Fiscale opbrengsten 10.41m; tick1036
+bud_ret_fiscal_ov_2025,city_retie,2025,4267262,,,bbc_jr_realized,src_retie_jr2025,strong,Opcentiemen OV 4.27m; tick1036
+bud_ret_fiscal_pb_2025,city_retie,2025,4972169,,,bbc_jr_realized,src_retie_jr2025,strong,Aanvullende PB 4.97m; tick1036
+bud_ret_gemeentefonds_2025,city_retie,2025,3777279,,,bbc_jr_realized,src_retie_jr2025,strong,Gemeentefonds 3.78m; tick1036
+bud_ret_interest_2025,city_retie,2025,242377,,,bbc_jr_realized,src_retie_jr2025,strong,Intresten op schulden 0.242m; tick1036
+bud_ret_invest_subs_granted_2025,city_retie,2025,555542,,,bbc_jr_realized,src_retie_jr2025,strong,Toegestane invest-subs 0.556m all IGS FOI; tick1036
+bud_ret_invest_subs_received_vl_2025,city_retie,2025,1199915,,,bbc_jr_realized,src_retie_jr2025,strong,Ontvangen invest-subs Vlaanderen 1.20m JUMP FOI; tick1036
+bud_ret_mjp_bank_loans_2027_2025,city_retie,2025,2900000,,,bbc_jr_realized,src_retie_jr2025,strong,MJP bank loans planned 2.90m 2027 FOI path; tick1036
