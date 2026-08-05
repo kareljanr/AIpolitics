@@ -26284,3 +26284,60 @@ bud_slau_interest_2025,city_sint_laureins,2025,130237,,,bbc_jr_realized,src_sint
 bud_slau_invest_subs_rec_2025,city_sint_laureins,2025,209916,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Investeringssubsidies ontvangen 0.210m (VL 0.197); tick1049
 bud_slau_invest_subs_granted_2025,city_sint_laureins,2025,152113,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toegestane invest-subs 0.152m (police 0.060 IGS 0.070); tick1049
 bud_slau_ocmw_invest_exp_2025,city_sint_laureins,2025,284066,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW invest uitgaven 0.284m; tick1049
+bud_hul_assets_2025,city_hulshout,2025,63738966,,,bbc_jr_realized,src_hulshout_jr2025,strong,Assets YE2025 63.74m JUMP (was 62.74m); tick1050
+bud_hul_equity_2025,city_hulshout,2025,52334579,,,bbc_jr_realized,src_hulshout_jr2025,strong,Nettoactief YE2025 52.33m slight DROP (was 52.56m); tick1050
+bud_hul_debt_total_2025,city_hulshout,2025,11404388,,,bbc_jr_realized,src_hulshout_jr2025,strong,Total schulden YE2025 11.40m JUMP (was 10.18m pension-driven); tick1050
+bud_hul_fin_debt_2025,city_hulshout,2025,1506288,,,bbc_jr_realized,src_hulshout_jr2025,strong,Fin debt total YE2025 1.51m DECLINE (LT 1.09 + ST due 0.42); tick1050
+bud_hul_fin_debt_lt_2025,city_hulshout,2025,1086889,,,bbc_jr_realized,src_hulshout_jr2025,strong,Fin debt LT YE2025 1.09m DECLINE (was 1.40m); tick1050
+bud_hul_fin_debt_st_due_2025,city_hulshout,2025,419399,,,bbc_jr_realized,src_hulshout_jr2025,strong,Fin debt ST due YE2025 0.419m; tick1050
+bud_hul_fin_debt_st_2025,city_hulshout,2025,0,,,bbc_jr_realized,src_hulshout_jr2025,strong,Fin debt ST treasury YE2025 0; tick1050
+bud_hul_new_loans_2025,city_hulshout,2025,0,,,bbc_jr_realized,src_hulshout_jr2025,strong,Nieuwe leningen 2025 0 NO NEW LOANS explicit; tick1050
+bud_hul_aflossingen_2025,city_hulshout,2025,417854,,,bbc_jr_realized,src_hulshout_jr2025,strong,Periodieke aflossingen 2025 0.418m HIGH vs new loans 0; tick1050
+bud_hul_cash_2025,city_hulshout,2025,7658994,,,bbc_jr_realized,src_hulshout_jr2025,strong,Liquide middelen YE2025 7.66m slight JUMP (was 7.55m); tick1050
+bud_hul_pension_2025,city_hulshout,2025,6258366,,,bbc_jr_realized,src_hulshout_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.26m JUMP HIGH FOI (was 5.01m +1.25m); tick1050
+bud_hul_cap_subs_2025,city_hulshout,2025,3626294,,,bbc_jr_realized,src_hulshout_jr2025,strong,Kapitaalsubsidies YE2025 3.63m; tick1050
+bud_hul_fva_total_2025,city_hulshout,2025,6188771,,,bbc_jr_realized,src_hulshout_jr2025,strong,FVA total YE2025 6.19m; tick1050
+bud_hul_fva_igs_2025,city_hulshout,2025,5990560,,,bbc_jr_realized,src_hulshout_jr2025,strong,FVA IGS YE2025 5.99m; tick1050
+bud_hul_leasing_mva_2025,city_hulshout,2025,799553,,,bbc_jr_realized,src_hulshout_jr2025,strong,Leasing MVA YE2025 0.800m; tick1050
+bud_hul_expl_rec_2025,city_hulshout,2025,19619106,,,bbc_jr_realized,src_hulshout_jr2025,strong,Exploitatieontvangsten 19.62m; tick1050
+bud_hul_expl_exp_2025,city_hulshout,2025,16683600,,,bbc_jr_realized,src_hulshout_jr2025,strong,Exploitatieuitgaven 16.68m; tick1050
+bud_hul_expl_saldo_2025,city_hulshout,2025,2935506,,,bbc_jr_realized,src_hulshout_jr2025,strong,Exploitatiesaldo +2.94m STRONG; tick1050
+bud_hul_invest_exp_2025,city_hulshout,2025,2591449,,,bbc_jr_realized,src_hulshout_jr2025,strong,Investeringsuitgaven 2.59m vs MJP 10.74m MASSIVE UNDERSPEND FOI; tick1050
+bud_hul_invest_rec_2025,city_hulshout,2025,149171,,,bbc_jr_realized,src_hulshout_jr2025,strong,Investeringsontvangsten 0.149m; tick1050
+bud_hul_invest_saldo_2025,city_hulshout,2025,-2442278,,,bbc_jr_realized,src_hulshout_jr2025,strong,Investeringssaldo -2.44m; tick1050
+bud_hul_mjp_invest_planned_2025,city_hulshout,2025,10738601,,,bbc_jr_realized,src_hulshout_jr2025,strong,MJP invest planned 10.74m vs realized 2.59m underspend FOI; tick1050
+bud_hul_afm_2025,city_hulshout,2025,2650505,,,bbc_jr_realized,src_hulshout_jr2025,strong,AFM +2.65m STRONG; tick1050
+bud_hul_afm_corr_2025,city_hulshout,2025,2922705,,,bbc_jr_realized,src_hulshout_jr2025,strong,Gecorrigeerde AFM +2.92m STRONG; tick1050
+bud_hul_bbr_2025,city_hulshout,2025,8920230,,,bbc_jr_realized,src_hulshout_jr2025,strong,BBR beschikbaar +8.92m VERY HIGH FOI; tick1050
+bud_hul_budget_result_2025,city_hulshout,2025,321684,,,bbc_jr_realized,src_hulshout_jr2025,strong,Budgettair resultaat +0.322m STRONG flip vs MJP -5.13m; tick1050
+bud_hul_cum_br_2025,city_hulshout,2025,8921270,,,bbc_jr_realized,src_hulshout_jr2025,strong,Gecumuleerd budgettair resultaat (VII) +8.92m; tick1050
+bud_hul_onbeschikbaar_2025,city_hulshout,2025,1040,,,bbc_jr_realized,src_hulshout_jr2025,strong,Onbeschikbare gelden 0.001m; tick1050
+bud_hul_pnl_2025,city_hulshout,2025,-366968,,,bbc_jr_realized,src_hulshout_jr2025,strong,P&L -0.367m NEG FOI (was +0.025m); tick1050
+bud_hul_ge_expl_exp_2025,city_hulshout,2025,13248973,,,bbc_jr_realized,src_hulshout_jr2025,strong,GE exploitatieuitgaven J3 13.25m; tick1050
+bud_hul_ge_expl_rec_2025,city_hulshout,2025,17852840,,,bbc_jr_realized,src_hulshout_jr2025,strong,GE exploitatieontvangsten J3 17.85m; tick1050
+bud_hul_ocmw_expl_exp_2025,city_hulshout,2025,3434627,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW exploitatieuitgaven J3 3.43m FOI residual; tick1050
+bud_hul_ocmw_expl_rec_2025,city_hulshout,2025,1766266,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW exploitatieontvangsten J3 1.77m; tick1050
+bud_hul_ocmw_expl_gap_2025,city_hulshout,2025,-1668361,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW expl gap -1.67m FOI residual (no classic tussenkomst line labelled); tick1050
+bud_hul_ocmw_structural_gap_2025,city_hulshout,2025,1668361,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW structural gap J3 1.67m FOI residual dual (WV Ter Nethe dual); tick1050
+bud_hul_equity_cum_2025,city_hulshout,2025,7029942,,,bbc_jr_realized,src_hulshout_jr2025,strong,Gecumuleerd overschot/tekort consol YE2025 +7.03m; tick1050
+bud_hul_personnel_2025,city_hulshout,2025,9511518,,,bbc_jr_realized,src_hulshout_jr2025,strong,Bezoldigingen 9.51m JUMP (was 8.58m) incl edu 2.09m WV statutair 0.68m; tick1050
+bud_hul_edu_pass_through_2025,city_hulshout,2025,2093703,,,bbc_jr_realized,src_hulshout_jr2025,strong,Gemeentelijk onderwijs personeelskost 2.09m pass-through; tick1050
+bud_hul_wv_personnel_2025,city_hulshout,2025,682584,,,bbc_jr_realized,src_hulshout_jr2025,strong,WV Ter Nethe statutair doorrekening 0.683m; tick1050
+bud_hul_toelagen_2025,city_hulshout,2025,2543686,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toegestane werkingssubsidies 2.54m FOI residual; tick1050
+bud_hul_toelagen_police_2025,city_hulshout,2025,961041,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toelage PZ Zuiderkempen 0.961m; tick1050
+bud_hul_toelagen_fire_2025,city_hulshout,2025,179511,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toelage Brandweerzone Kempen 0.180m; tick1050
+bud_hul_toelagen_wzc_2025,city_hulshout,2025,730000,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toelage woon- en zorgcentra/WV Ter Nethe 0.730m HIGH FOI; tick1050
+bud_hul_toelagen_sport_2025,city_hulshout,2025,348988,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toelage sportsector/AGB path 0.349m; tick1050
+bud_hul_toelagen_eredienst_2025,city_hulshout,2025,55747,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toelage erediensten 0.056m; tick1050
+bud_hul_toelagen_other_2025,city_hulshout,2025,268399,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toelage andere begunstigden 0.268m FOI; tick1050
+bud_hul_ocmw_aid_2025,city_hulshout,2025,575730,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW individuele hulp 0.576m DROP (was 0.653m); tick1050
+bud_hul_fiscal_2025,city_hulshout,2025,10008416,,,bbc_jr_realized,src_hulshout_jr2025,strong,Fiscale opbrengsten 10.01m JUMP; tick1050
+bud_hul_fiscal_ov_2025,city_hulshout,2025,3922086,,,bbc_jr_realized,src_hulshout_jr2025,strong,Opcentiemen OV 3.92m; tick1050
+bud_hul_fiscal_pb_2025,city_hulshout,2025,4324839,,,bbc_jr_realized,src_hulshout_jr2025,strong,Aanvullende PB 4.32m JUMP; tick1050
+bud_hul_gemeentefonds_2025,city_hulshout,2025,2690762,,,bbc_jr_realized,src_hulshout_jr2025,strong,Gemeentefonds basis+aanvullend 2.69m; tick1050
+bud_hul_interest_2025,city_hulshout,2025,56436,,,bbc_jr_realized,src_hulshout_jr2025,strong,Financiele kosten 0.056m LOW (no new loans); tick1050
+bud_hul_invest_subs_rec_2025,city_hulshout,2025,149171,,,bbc_jr_realized,src_hulshout_jr2025,strong,Investeringsontvangsten total 0.149m; tick1050
+bud_hul_invest_subs_granted_2025,city_hulshout,2025,261181,,,bbc_jr_realized,src_hulshout_jr2025,strong,Toegestane invest-subs 0.261m (water 0.107 fire 0.070 police 0.062); tick1050
+bud_hul_ocmw_invest_exp_2025,city_hulshout,2025,3371,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW invest uitgaven 0.003m (zonnepanelen CADO); tick1050
+bud_hul_consol_bbr_2025,city_hulshout,2025,10271292,,,bbc_jr_realized,src_hulshout_jr2025,strong,Consol BBR GE+OCMW+AGB+WV 10.27m; tick1050
+bud_hul_consol_afm_2025,city_hulshout,2025,3108632,,,bbc_jr_realized,src_hulshout_jr2025,strong,Consol AFM GE+OCMW+AGB+WV 3.11m; tick1050

@@ -13947,3 +13947,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1050** residual dual L5 + **progress decade tick**; deferred **rq_116**; progress@1050 next
 
+
+### Tick 1050 - 2026-08-10T14:15:00Z
+
+- Unit: **rq_1050** (FOI-adjacent residual dual - **Lokaal Bestuur Hulshout Jaarrekening 2025** + Sint-Laureins dual residual) + **decade progress**
+- Found (strong primary BBC JR2025 292p meetingburger; KBO 0207.502.497 / OCMW 0212.221.251; Prof. Dr. Vital Celenplein 2; AD Ria Van den Eynde FD Tine Van De Sande; GR/RMW 29.06.2026):
+  - Assets **EUR63.74m JUMP** (was **EUR62.74m**) / equity **EUR52.33m** / debt total **EUR11.40m JUMP** (pension-driven) / fin debt **EUR1.51m DECLINE** (LT **EUR1.09m** / ST due **EUR0.419m**)
+  - New loans **EUR0** (explicit: geen nieuwe leningen) / repayments **EUR0.418m HIGH**
+  - Cash **EUR7.66m** / pension **EUR6.26m JUMP HIGH FOI** (was **EUR5.01m**, **+EUR1.25m**) / FVA IGS **EUR5.99m** / leasing MVA **EUR0.800m**
+  - Exploitatie: ontvangsten **EUR19.62m** / uitgaven **EUR16.68m** / saldo **+EUR2.94m STRONG**
+  - AFM **+EUR2.65m STRONG** (gecorr **+EUR2.92m**) / BBR **EUR8.92m VERY HIGH FOI** / budget **+EUR0.322m STRONG flip** vs MJP **-EUR5.13m** / cum BR **EUR8.92m** / P&L **EUR-0.367m NEG FOI**
+  - Personnel **EUR9.51m JUMP** (was **EUR8.58m**; edu **EUR2.09m** / WV statutair **EUR0.683m**) / toelagen **EUR2.54m FOI** (police **EUR0.961m** / fire **EUR0.180m** / **WZC/WV EUR0.730m** / sport **EUR0.349m** / eredienst **EUR0.056m** / other **EUR0.268m**)
+  - Invest **EUR2.59m** vs MJP **EUR10.74m MASSIVE UNDERSPEND FOI** / invest-subs granted **EUR0.261m**
+  - **OCMW structural gap EUR1.67m FOI** (J3 exp **EUR3.43m** / rec **EUR1.77m**; no classic tussenkomst line) / OCMW aid **EUR0.576m DROP**
+  - Consol BBR **EUR10.27m** / consol AFM **EUR3.11m** (AGB + WV Ter Nethe dual)
+- Dual: Sint-Laureins assets **EUR54.70m** / pension **EUR5.44m** / OCMW cover **EUR0.798m FULL** / BBR **EUR6.78m** (tick1049) - not TE-additive
+- **Decade progress@1050:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md; pure annual top10 stable; residual dual HIGH-BBR/pension/underspend cluster
+- Note: Torhout/Stekene/Balen OCR residual next; progress@1060
+- Wrote: budgets +57 (bud_hul_*); commitments +6; leaderboard +8; sources +1; entity city_hulshout; FOI **gap_hul_pension_bbr_toelagen_ocmw_gap_l5** prio9 ready + draft; key only (PDF ~11MB not stored in git); rq_1050=done; spawn **rq_1051**; ticks=1050
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1051** residual dual L5; deferred **rq_116**; progress@1060
+
