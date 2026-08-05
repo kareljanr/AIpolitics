@@ -21934,3 +21934,54 @@ bud_kuu_lease_sport_farys_2025,city_kuurne,2025,280000,,,realized,src_kuurne_jr2
 bud_kuu_lease_fluvius_2025,city_kuurne,2025,106000,,,realized,src_kuurne_jr2025,strong,Aflossing leasing openbare verlichting Fluvius 0.106m FOI; tick957
 bud_kuu_financing_saldo_2025,city_kuurne,2025,-266353,,,realized,src_kuurne_jr2025,strong,Financieringssaldo -0.266m; tick957
 bud_kuu_classic_loans_not_drawn_2025,city_kuurne,2025,2901000,,,budgeted,src_kuurne_jr2025,strong,Geplande klassieke leningen NIET opgenomen 2.90m FOI; tick957
+bud_moo_assets_2025,city_moorslede,2025,82691374,,,realized,src_moorslede_jr2025,strong,Total assets YE2025 82.7m; tick958
+bud_moo_equity_2025,city_moorslede,2025,64385130,,,realized,src_moorslede_jr2025,strong,Nettoactief YE2025 64.4m; tick958
+bud_moo_debt_total_2025,city_moorslede,2025,18306244,,,realized,src_moorslede_jr2025,strong,Total schulden YE2025 18.3m; tick958
+bud_moo_fin_debt_2025,city_moorslede,2025,8732641,,,jaarrekening_realized,src_moorslede_jr2025,strong,T4 total financiele schulden YE2025 8.73m DECLINING (was 9.09m) FOI; tick958
+bud_moo_fin_debt_lt_2025,city_moorslede,2025,7757844,,,realized,src_moorslede_jr2025,strong,Financiele schulden LT YE2025 7.76m; tick958
+bud_moo_fin_debt_st_due_2025,city_moorslede,2025,974796,,,realized,src_moorslede_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.975m; tick958
+bud_moo_fin_debt_2024,city_moorslede,2025,9094796,,,realized,src_moorslede_jr2025,strong,T4 fin debt YE2024 9.09m comparator; tick958
+bud_moo_new_loans_2025,city_moorslede,2025,725101,,,realized,src_moorslede_jr2025,strong,Nieuwe leningen/lease 0.725m (Fluvius verlichting path FOI); tick958
+bud_moo_aflossingen_2025,city_moorslede,2025,1087256,,,realized,src_moorslede_jr2025,strong,Periodieke aflossingen 1.09m; tick958
+bud_moo_cash_2025,city_moorslede,2025,10995162,,,realized,src_moorslede_jr2025,strong,Liquide middelen YE2025 11.0m; tick958
+bud_moo_cash_2024,city_moorslede,2025,10827999,,,realized,src_moorslede_jr2025,strong,Liquide middelen YE2024 10.8m comparator; tick958
+bud_moo_pension_prov_2025,city_moorslede,2025,6390732,,,realized,src_moorslede_jr2025,strong,Pensioenvoorzieningen YE2025 6.39m; tick958
+bud_moo_pension_prov_2024,city_moorslede,2025,6380372,,,realized,src_moorslede_jr2025,strong,Pensioenvoorzieningen YE2024 6.38m; tick958
+bud_moo_pension_fund_stort_2025,city_moorslede,2025,340000,,,realized,src_moorslede_jr2025,strong,Bijstorting pensioenfondsen 0.340m FOI; tick958
+bud_moo_prov_st_2025,city_moorslede,2025,794879,,,realized,src_moorslede_jr2025,strong,Voorzieningen ST YE2025 0.795m; tick958
+bud_moo_fva_total_2025,city_moorslede,2025,19048455,,,realized,src_moorslede_jr2025,strong,Financiele vaste activa YE2025 19.0m; tick958
+bud_moo_fva_igs_2025,city_moorslede,2025,17062781,,,realized,src_moorslede_jr2025,strong,FVA IGS YE2025 17.1m (herwaard +2.78m) FOI; tick958
+bud_moo_mva_2025,city_moorslede,2025,49061404,,,realized,src_moorslede_jr2025,strong,Materiele vaste activa YE2025 49.1m; tick958
+bud_moo_leasing_mva_2025,city_moorslede,2025,3989949,,,realized,src_moorslede_jr2025,strong,Leasing MVA gemeenschap 3.99m FOI; tick958
+bud_moo_cap_subs_2025,city_moorslede,2025,5682292,,,realized,src_moorslede_jr2025,strong,Kapitaalssubsidies YE2025 5.68m; tick958
+bud_moo_expl_rec_2025,city_moorslede,2025,20498841,,,realized,src_moorslede_jr2025,strong,Exploitatieontvangsten 20.5m; tick958
+bud_moo_expl_exp_2025,city_moorslede,2025,17096688,,,realized,src_moorslede_jr2025,strong,Exploitatieuitgaven 17.1m; tick958
+bud_moo_expl_saldo_2025,city_moorslede,2025,3402153,,,realized,src_moorslede_jr2025,strong,Exploitatiesaldo +3.40m; tick958
+bud_moo_invest_exp_2025,city_moorslede,2025,3007257,,,realized,src_moorslede_jr2025,strong,Investeringsuitgaven 3.01m (MJP 7.83m underspend FOI); tick958
+bud_moo_invest_rec_2025,city_moorslede,2025,163667,,,realized,src_moorslede_jr2025,strong,Investeringsontvangsten 0.164m; tick958
+bud_moo_invest_saldo_2025,city_moorslede,2025,-2843589,,,realized,src_moorslede_jr2025,strong,Investeringssaldo -2.84m; tick958
+bud_moo_mjp_invest_planned_2025,city_moorslede,2025,7833050,,,realized,src_moorslede_jr2025,strong,MJP planned invest 7.83m vs realized 3.01m FOI; tick958
+bud_moo_afm_2025,city_moorslede,2025,2474412,,,realized,src_moorslede_jr2025,strong,AFM +2.47m; tick958
+bud_moo_afm_corr_2025,city_moorslede,2025,2834084,,,realized,src_moorslede_jr2025,strong,Gecorrigeerde AFM +2.83m; tick958
+bud_moo_bbr_2025,city_moorslede,2025,9923533,,,realized,src_moorslede_jr2025,strong,Beschikbaar budgettair resultaat 9.92m; tick958
+bud_moo_budget_result_2025,city_moorslede,2025,339790,,,realized,src_moorslede_jr2025,strong,Budgettair resultaat boekjaar +0.340m POS; tick958
+bud_moo_cum_br_2025,city_moorslede,2025,11015340,,,realized,src_moorslede_jr2025,strong,Gecumuleerd budgettair resultaat 11.0m; tick958
+bud_moo_onbeschikbaar_2025,city_moorslede,2025,1091807,,,realized,src_moorslede_jr2025,strong,Onbeschikbare gelden 1.09m FOI; tick958
+bud_moo_pnl_result_2025,city_moorslede,2025,1273618,,,realized,src_moorslede_jr2025,strong,P&L boekjaar +1.27m; tick958
+bud_moo_personnel_2025,city_moorslede,2025,10041896,,,realized,src_moorslede_jr2025,strong,Personeelskosten 10.0m; tick958
+bud_moo_toelagen_2025,city_moorslede,2025,2019071,,,realized,src_moorslede_jr2025,strong,Toegestane werkingssubsidies 2.02m FOI named; tick958
+bud_moo_toelagen_police_2025,city_moorslede,2025,825826,,,realized,src_moorslede_jr2025,strong,Toelagen politiezone 0.826m; tick958
+bud_moo_toelagen_hvz_2025,city_moorslede,2025,306344,,,realized,src_moorslede_jr2025,strong,Toelagen HVZ 0.306m; tick958
+bud_moo_toelagen_igs_2025,city_moorslede,2025,219612,,,realized,src_moorslede_jr2025,strong,Toelagen IGS 0.220m FOI; tick958
+bud_moo_toelagen_kerk_2025,city_moorslede,2025,341673,,,realized,src_moorslede_jr2025,strong,Toelagen eredienst 0.342m; tick958
+bud_moo_toelagen_other_2025,city_moorslede,2025,312960,,,realized,src_moorslede_jr2025,strong,Toelagen andere begunstigden 0.313m FOI; tick958
+bud_moo_invest_subs_granted_2025,city_moorslede,2025,222192,,,realized,src_moorslede_jr2025,strong,Toegestane investeringssubsidies 0.222m; tick958
+bud_moo_ocmw_aid_2025,city_moorslede,2025,943179,,,realized,src_moorslede_jr2025,strong,Individuele hulpverlening OCMW 0.943m; tick958
+bud_moo_leefloon_2025,city_moorslede,2025,569918,,,realized,src_moorslede_jr2025,strong,Leefloon uitgaven 0.570m RISING (87 dossiers) FOI; tick958
+bud_moo_ocmw_cover_2025,city_moorslede,2025,947087,,,realized,src_moorslede_jr2025,strong,Tussenkomst gemeente aan OCMW 0.947m FOI (T5); tick958
+bud_moo_fiscal_2025,city_moorslede,2025,9470819,,,realized,src_moorslede_jr2025,strong,Fiscale opbrengsten 9.47m; tick958
+bud_moo_fin_costs_2025,city_moorslede,2025,229139,,,realized,src_moorslede_jr2025,strong,Financiele kosten 0.229m; tick958
+bud_moo_goederen_2025,city_moorslede,2025,3806929,,,realized,src_moorslede_jr2025,strong,Goederen en diensten ~3.81m; tick958
+bud_moo_herwaardering_fva_2025,city_moorslede,2025,2781020,,,realized,src_moorslede_jr2025,strong,Herwaardering FVA IGS +2.78m FOI; tick958
+bud_moo_financing_saldo_2025,city_moorslede,2025,-218773,,,realized,src_moorslede_jr2025,strong,Financieringssaldo -0.219m; tick958
+bud_moo_respo_prognose_2031,city_moorslede,2025,336000,,,budgeted,src_moorslede_jr2025,strong,Responsabiliseringsbijdrage prognose 2031 0.336m FOI; tick958

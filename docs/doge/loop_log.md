@@ -12199,3 +12199,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_kuu_*); commitments +5; leaderboard +7; sources +2; entity city_kuurne; FOI **gap_kuu_cash_budget_ocmw_farys_l5** prio8 ready + draft; key only; rq_957=done; spawn **rq_958**; ticks=957
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_958** residual dual L5 (Lendelede if extractable / Ledegem / Torhout / Meulebeke / Moorslede); deferred **rq_116**; progress@960 in 3
+
+
+### Tick 958 - 2026-08-08T07:00:00Z
+
+- Unit: **rq_958** (FOI-adjacent residual dual - **Gemeente+OCMW Moorslede Jaarrekening 2025** + Kuurne dual residual)
+- Found (strong primary BBC JR2025 307p; KBO 0207.431.629 / OCMW 0212.200.663; GR/RMW 25.06.2026):
+  - Assets **EUR82.7m** / equity **EUR64.4m** / debt total **EUR18.3m** / fin debt **EUR8.73m** (**DECLINING** from **EUR9.09m**; LT **EUR7.76m** / ST due **EUR0.975m**)
+  - New loans/lease **EUR0.725m** (Fluvius path) / repayments **EUR1.09m**
+  - Cash **EUR11.0m** / onbeschikbaar **EUR1.09m FOI** / pension **EUR6.39m** / pensioenfonds stort **EUR0.340m FOI**
+  - FVA IGS **EUR17.1m** (herwaard **+EUR2.78m FOI**)
+  - Exploitatie: ontvangsten **EUR20.5m** / uitgaven **EUR17.1m** / saldo **+EUR3.40m**
+  - AFM **+EUR2.47m** (gecorr **+EUR2.83m**) / BBR **EUR9.92m** / budget **+EUR0.340m** / P&L **+EUR1.27m**
+  - Personnel **EUR10.0m** / toelagen **EUR2.02m** (police **EUR0.83m** / HVZ **EUR0.31m** / church **EUR0.34m** / other **EUR0.31m FOI**)
+  - Invest **EUR3.01m** vs MJP **EUR7.83m underspend FOI** (~38pct) / OCMW cover **EUR0.947m FOI** / leefloon **EUR0.570m RISING FOI**
+  - Farys S-divisie zwembad dual FOI (afrekening path)
+- Dual: Kuurne **EUR97.4m** / cash **EUR1.70m LOW** / budget **-EUR1.72m** (tick957) - not TE-additive
+- Wrote: budgets +51 (bud_moo_*); commitments +5; leaderboard +7; sources +2; entity city_moorslede; FOI **gap_moo_invest_ocmw_farys_pension_l5** prio8 ready + draft; key only (PDF ~37MB not stored); rq_958=done; spawn **rq_959**; ticks=958
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_959** residual dual L5 (Ledegem / Lendelede if extractable / Torhout / Meulebeke); deferred **rq_116**; progress@960 in 2
