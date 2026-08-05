@@ -13599,3 +13599,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1033** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 7
 
+
+### Tick 1033 - 2026-08-10T05:45:00Z
+
+- Unit: **rq_1033** (FOI-adjacent residual dual - **Gemeente+OCMW Oud-Turnhout Jaarrekening 2025** + Rijkevorsel dual residual)
+- Found (strong primary BBC JR2025 174p; KBO 0207.503.982 / OCMW 0212.206.801; AD Greet Raeymaekers; FD Marc Nooyens; Dorp 31):
+  - Assets **EUR71.64m JUMP** (was **EUR66.55m**) / equity **EUR54.03m** / debt total **EUR17.61m JUMP** / fin debt **EUR9.34m JUMP** (was **EUR7.03m**; LT **EUR8.50m** / ST due **EUR0.840m**)
+  - New loans **EUR5.88m JUMP HIGH FOI** (bank **EUR5.63m** + other **EUR0.249m**) / periodieke aflossingen **EUR0.752m** / **niet-periodieke aflossingen EUR2.82m JUMP refinance FOI**
+  - Cash **EUR7.05m DROP** (was **EUR9.41m**) / pension **EUR4.75m JUMP HIGH FOI** (was **EUR2.31m**; andere voorzieningen **EUR2.94m->0 FOI reclass**) / FVA EVA **EUR4.00m** (+**EUR0.60m** AGB capital) / FVA IGS **EUR10.46m** / leasing MVA **EUR2.32m**
+  - Exploitatie: ontvangsten **EUR24.33m** / uitgaven **EUR20.73m** / saldo **+EUR3.60m STRONG**
+  - AFM **+EUR2.85m STRONG** (gecorr **+EUR3.04m**) / BBR **EUR5.72m HIGH** / budget **-EUR2.50m NEG HIGH FOI** / cum BR **EUR5.90m DROP** / P&L **+EUR1.86m STRONG flip**
+  - Personnel **EUR10.71m** (edu pass-through **EUR1.77m**) / toelagen **EUR3.60m FOI** (police **EUR1.91m** / fire **EUR0.845m** / AGB **EUR0.386m DROP** / IGS **EUR0.132m** / other **EUR0.318m**)
+  - Invest **EUR9.23m** vs MJP **EUR12.42m UNDERSPEND** / buildings invest **EUR5.80m JUMP** / invest-subs **EUR0.518m**
+  - **OCMW cover EUR0.560m FULL-ish FOI** vs gap **-EUR0.599m** / OCMW equity cum **-EUR0.189m IMPROVING** / OCMW P&L **-EUR0.445m**
+  - AGB dual: BBR **EUR0.084m** / AFM **+EUR0.212m** / capital inject **EUR0.60m**
+- Dual: Rijkevorsel assets **EUR81.52m** / budget **-EUR3.90m** / cash DROP (tick1032) - not TE-additive
+- Note: Ravels 2025 page exists; Torhout news-only; Stekene 404; Balen OCR; Vorselaar docs-only; Beerse/Kalmthout/Essen residual next optional
+- Wrote: budgets +62 (bud_out_*); commitments +6; leaderboard +8; sources +1; entity city_oud_turnhout; FOI **gap_out_loans_budget_pension_refinance_l5** prio9 ready + draft; key only (PDF ~2.3MB not stored in git); rq_1033=done; spawn **rq_1034**; ticks=1033
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1034** residual dual L5 (Ravels / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 6
+

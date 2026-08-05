@@ -25388,3 +25388,65 @@ bud_rkv_gemeentefonds_2025,city_rijkevorsel,2025,3894666,,,bbc_jr_realized,src_r
 bud_rkv_interest_2025,city_rijkevorsel,2025,139171,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Intresten op schulden 0.139m; tick1032
 bud_rkv_invest_subs_granted_2025,city_rijkevorsel,2025,240086,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Toegestane invest-subs 0.240m (police 0.089 fire 0.152); tick1032
 bud_rkv_buildings_invest_2025,city_rijkevorsel,2025,4404389,,,bbc_jr_realized,src_rijkevorsel_jr2025,strong,Terreinen en gebouwen invest 4.40m JUMP FOI; tick1032
+bud_out_assets_2025,city_oud_turnhout,2025,71639748,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Assets YE2025 71.64m JUMP (was 66.55m); tick1033
+bud_out_equity_2025,city_oud_turnhout,2025,54026771,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Nettoactief YE2025 54.03m JUMP (was 51.65m); tick1033
+bud_out_debt_total_2025,city_oud_turnhout,2025,17612977,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Total schulden YE2025 17.61m JUMP (was 14.90m); tick1033
+bud_out_fin_debt_2025,city_oud_turnhout,2025,9338436,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Fin debt total YE2025 9.34m JUMP (was 7.03m T4); tick1033
+bud_out_fin_debt_lt_2025,city_oud_turnhout,2025,8498521,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Fin debt LT YE2025 8.50m JUMP (was 3.84m); tick1033
+bud_out_fin_debt_st_due_2025,city_oud_turnhout,2025,839915,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Fin debt ST due YE2025 0.840m DROP (was 3.19m); tick1033
+bud_out_new_loans_2025,city_oud_turnhout,2025,5875598,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Nieuwe leningen 2025 5.88m JUMP HIGH FOI (bank 5.63m + other 0.249m); tick1033
+bud_out_new_loans_bank_2025,city_oud_turnhout,2025,5626277,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Nieuwe bankleningen 2025 5.63m JUMP HIGH FOI; tick1033
+bud_out_aflossingen_2025,city_oud_turnhout,2025,752082,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Periodieke aflossingen 2025 0.752m; tick1033
+bud_out_aflossingen_nonperiod_2025,city_oud_turnhout,2025,2817639,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Niet-periodieke aflossingen 2025 2.82m JUMP HIGH FOI refinance path; tick1033
+bud_out_cash_2025,city_oud_turnhout,2025,7048636,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Liquide middelen YE2025 7.05m DROP (was 9.41m); tick1033
+bud_out_pension_2025,city_oud_turnhout,2025,4750590,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.75m JUMP HIGH FOI (was 2.31m; andere voorzieningen 2.94m 2024->0 FOI reclass); tick1033
+bud_out_cap_subs_2025,city_oud_turnhout,2025,3572717,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Kapitaalsubsidies YE2025 3.57m; tick1033
+bud_out_fva_total_2025,city_oud_turnhout,2025,14512462,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,FVA total YE2025 14.51m; tick1033
+bud_out_fva_eva_2025,city_oud_turnhout,2025,4000000,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,FVA EVA/AGB YE2025 4.00m JUMP (was 3.40m +0.60m capital); tick1033
+bud_out_fva_igs_2025,city_oud_turnhout,2025,10456987,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,FVA IGS YE2025 10.46m; tick1033
+bud_out_leasing_mva_2025,city_oud_turnhout,2025,2324070,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Leasing MVA YE2025 2.32m; tick1033
+bud_out_expl_rec_2025,city_oud_turnhout,2025,24330072,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Exploitatieontvangsten 24.33m; tick1033
+bud_out_expl_exp_2025,city_oud_turnhout,2025,20726190,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Exploitatieuitgaven 20.73m; tick1033
+bud_out_expl_saldo_2025,city_oud_turnhout,2025,3603882,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Exploitatiesaldo +3.60m STRONG; tick1033
+bud_out_invest_exp_2025,city_oud_turnhout,2025,9227012,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Investeringsuitgaven 9.23m vs MJP 12.42m UNDERSPEND FOI; tick1033
+bud_out_invest_rec_2025,city_oud_turnhout,2025,816140,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Investeringsontvangsten 0.816m; tick1033
+bud_out_invest_saldo_2025,city_oud_turnhout,2025,-8410871,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Investeringssaldo -8.41m; tick1033
+bud_out_mjp_invest_planned_2025,city_oud_turnhout,2025,12416234,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,MJP invest planned 12.42m vs realized 9.23m underspend FOI; tick1033
+bud_out_afm_2025,city_oud_turnhout,2025,2851801,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AFM +2.85m STRONG; tick1033
+bud_out_afm_corr_2025,city_oud_turnhout,2025,3041278,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Gecorrigeerde AFM +3.04m STRONG; tick1033
+bud_out_bbr_2025,city_oud_turnhout,2025,5715291,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,BBR beschikbaar +5.72m HIGH; tick1033
+bud_out_budget_result_2025,city_oud_turnhout,2025,-2501111,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Budgettair resultaat -2.50m NEG HIGH FOI (invest/loan path); tick1033
+bud_out_cum_br_2025,city_oud_turnhout,2025,5901958,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Gecumuleerd budgettair resultaat +5.90m DROP (was 8.40m); tick1033
+bud_out_onbeschikbaar_2025,city_oud_turnhout,2025,186667,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Onbeschikbare gelden 0.187m; tick1033
+bud_out_pnl_2025,city_oud_turnhout,2025,1860044,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,P&L +1.86m STRONG flip (was -1.60m); tick1033
+bud_out_ge_expl_exp_2025,city_oud_turnhout,2025,19059284,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,GE exploitatieuitgaven 19.06m; tick1033
+bud_out_ge_expl_rec_2025,city_oud_turnhout,2025,23261788,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,GE exploitatieontvangsten 23.26m; tick1033
+bud_out_ocmw_expl_exp_2025,city_oud_turnhout,2025,1666905,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW exploitatieuitgaven 1.67m FOI; tick1033
+bud_out_ocmw_expl_rec_2025,city_oud_turnhout,2025,1068284,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW exploitatieontvangsten 1.07m; tick1033
+bud_out_ocmw_expl_gap_2025,city_oud_turnhout,2025,-598621,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW expl gap -0.599m FOI residual; tick1033
+bud_out_ocmw_cover_2025,city_oud_turnhout,2025,560000,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW cover tussenkomst 0.560m FULL-ish FOI vs gap 0.599m; tick1033
+bud_out_ocmw_equity_cum_2025,city_oud_turnhout,2025,-188813,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW equity cum -0.189m IMPROVING (was -0.304m); tick1033
+bud_out_ocmw_pnl_2025,city_oud_turnhout,2025,-444639,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW P&L -0.445m FOI; tick1033
+bud_out_ge_equity_cum_2025,city_oud_turnhout,2025,3996724,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,GE equity cum +4.00m; tick1033
+bud_out_ge_pnl_2025,city_oud_turnhout,2025,2304683,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,GE P&L +2.30m; tick1033
+bud_out_equity_cum_2025,city_oud_turnhout,2025,3807911,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Consol equity cum +3.81m; tick1033
+bud_out_personnel_2025,city_oud_turnhout,2025,10713578,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Bezoldigingen 10.71m incl education pass-through 1.77m; tick1033
+bud_out_edu_pass_through_2025,city_oud_turnhout,2025,1774600,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.77m; tick1033
+bud_out_toelagen_2025,city_oud_turnhout,2025,3602147,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toegestane werkingssubsidies 3.60m FOI residual; tick1033
+bud_out_toelagen_police_2025,city_oud_turnhout,2025,1906145,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toelage politiezone 1.91m; tick1033
+bud_out_toelagen_fire_2025,city_oud_turnhout,2025,845095,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toelage hulpverleningszone 0.845m; tick1033
+bud_out_toelagen_agb_2025,city_oud_turnhout,2025,385803,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toelage AGB 0.386m DROP dual FOI (was 0.734m); tick1033
+bud_out_toelagen_igs_2025,city_oud_turnhout,2025,132448,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toelage IGS 0.132m FOI; tick1033
+bud_out_toelagen_other_2025,city_oud_turnhout,2025,317690,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toelage andere begunstigden 0.318m FOI; tick1033
+bud_out_ocmw_aid_2025,city_oud_turnhout,2025,725486,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,OCMW individuele hulp 0.725m; tick1033
+bud_out_fiscal_2025,city_oud_turnhout,2025,13026344,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Fiscale opbrengsten 13.03m; tick1033
+bud_out_fiscal_ov_2025,city_oud_turnhout,2025,5437427,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Opcentiemen OV 5.44m; tick1033
+bud_out_fiscal_pb_2025,city_oud_turnhout,2025,6154536,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Aanvullende PB 6.15m; tick1033
+bud_out_gemeentefonds_2025,city_oud_turnhout,2025,4062662,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Gemeentefonds 4.06m; tick1033
+bud_out_interest_2025,city_oud_turnhout,2025,153689,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Intresten op schulden 0.154m; tick1033
+bud_out_invest_subs_granted_2025,city_oud_turnhout,2025,518365,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Toegestane invest-subs 0.518m FOI; tick1033
+bud_out_buildings_invest_2025,city_oud_turnhout,2025,5796389,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,Terreinen en gebouwen invest 5.80m JUMP FOI; tick1033
+bud_out_agb_capital_inject_2025,city_oud_turnhout,2025,600000,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB capital inject FVA EVA +0.60m 2025 dual FOI; tick1033
+bud_out_agb_bbr_2025,city_oud_turnhout,2025,84459,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB BBR 0.084m dual; tick1033
+bud_out_agb_afm_2025,city_oud_turnhout,2025,212017,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB AFM +0.212m dual; tick1033
+bud_out_agb_afm_corr_2025,city_oud_turnhout,2025,212017,,,bbc_jr_realized,src_oudturnhout_jr2025,strong,AGB gecorr AFM +0.212m dual; tick1033
