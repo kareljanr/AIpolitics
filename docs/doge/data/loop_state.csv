@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T11:45:00Z,rq_926,926,no,tick926 Aalter JR2025 dual Zulte; FOI gap_aal_loans_toelagen_debt_l5 prio8 bank 5.0m debt 40.4m rising toelagen 9.74m cash recover AFM +4.72m; next residual dual L5 rq_927; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T12:15:00Z,rq_927,927,no,tick927 Lochristi JR2025 dual Aalter; FOI gap_loc_subs_toelagen_ocmw_l5 prio8 invest-subs other 2.39m toelagen 11.3m cash 26.2m Fluvius only AFM +4.82m; next residual dual L5 rq_928; rq_116 deferred

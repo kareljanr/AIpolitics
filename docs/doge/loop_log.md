@@ -11656,3 +11656,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_aal_*); commitments +4; leaderboard +7; sources +2; entity city_aalter; FOI **gap_aal_loans_toelagen_debt_l5** prio8 ready + draft; raw PDF + key; rq_926=done; spawn **rq_927**; ticks=926
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_927** residual dual L5 (Lochristi / Kruisem / Kapellen AGB+APB / Roeselare); deferred **rq_116**; progress@930 in 4
+
+### Tick 927 - 2026-08-07T12:15:00Z
+
+- Unit: **rq_927** (FOI-adjacent residual dual - **Gemeente+OCMW Lochristi Jaarrekening 2025** + Aalter dual)
+- Found (strong primary BBC JR2025 151p):
+  - Assets **EUR165.2m** / equity **EUR145.8m** / debt total **EUR19.4m** / fin debt **EUR3.59m** (**Fluvius OV lease only; NO bank loans**; LT **EUR3.19m** / ST due **EUR0.40m**)
+  - New Fluvius lease **EUR1.08m FOI** / repayments **EUR0.37m**
+  - **Cash EUR26.2m** / pension **EUR10.4m**
+  - Exploitatie: ontvangsten **EUR54.2m** / uitgaven **EUR49.0m** / saldo **+EUR5.16m**
+  - AFM **+EUR4.82m** (gecorr **+EUR4.96m**) / BBR **EUR27.4m** / budget result **+EUR0.08m** / P&L **-EUR1.98m**
+  - Personnel **EUR24.4m** / toelagen **EUR11.34m** (police **EUR4.04m** / **IGS EUR2.94m FOI** / welzijn **EUR1.81m FOI** / other **EUR1.26m FOI**)
+  - Invest **EUR6.24m** / **invest-subs other EUR2.39m FOI** / **OCMW GL cover EUR10.52m FOI** (no cash; first Wachtebeke perimeter) / fiscal **EUR30.3m**
+- Dual: Aalter **EUR180.5m** / bank **EUR5.0m** / debt rising (tick926) - not TE-additive
+- Wrote: budgets +46 (bud_loc_*); commitments +4; leaderboard +7; sources +2; entity city_lochristi; FOI **gap_loc_subs_toelagen_ocmw_l5** prio8 ready + draft; raw PDF + key; rq_927=done; spawn **rq_928**; ticks=927
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_928** residual dual L5 (Kruisem / Kapellen AGB+APB / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@930 in 3

@@ -20696,3 +20696,49 @@ bud_aal_fin_costs_2025,city_aalter,2025,942239,,,jaarrekening_realized,src_aalte
 bud_aal_invest_mva_2025,city_aalter,2025,5390873,,,jaarrekening_realized,src_aalter_jr2025,strong,Investeringen MVA 5.391m (buildings 2.490 roads 2.076); tick926
 bud_aal_mjp_new_loans_bank_2026,city_aalter,2025,6500000,,,jaarrekening_realized,src_aalter_jr2025,strong,MJP new bank loans 2026 6.500m FOI; tick926
 bud_aal_agb_bbr_2025,city_aalter,2025,580816,,,jaarrekening_realized,src_aalter_jr2025,strong,AGB Aalter BBR YE2025 0.581m consol evenwicht; tick926
+bud_loc_assets_2025,city_lochristi,2025,165213419,,,jaarrekening_realized,src_lochristi_jr2025,strong,Consol gemeente+OCMW total assets YE2025 165.213m; tick927
+bud_loc_equity_2025,city_lochristi,2025,145833133,,,jaarrekening_realized,src_lochristi_jr2025,strong,Nettoactief YE2025 145.833m; tick927
+bud_loc_debt_total_2025,city_lochristi,2025,19380286,,,jaarrekening_realized,src_lochristi_jr2025,strong,Total schulden YE2025 19.380m; tick927
+bud_loc_fin_debt_2025,city_lochristi,2025,3585042,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financiele schulden YE2025 3.585m (LT 3.189 + ST due 0.396; Fluvius lease only); tick927
+bud_loc_fin_debt_lt_2025,city_lochristi,2025,3188768,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financiele schulden LT YE2025 3.189m (sale-leaseback OV Fluvius); tick927
+bud_loc_fin_debt_st_due_2025,city_lochristi,2025,396274,,,jaarrekening_realized,src_lochristi_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.396m; tick927
+bud_loc_pension_prov_2025,city_lochristi,2025,10385946,,,jaarrekening_realized,src_lochristi_jr2025,strong,Pensioenvoorzieningen LT YE2025 10.386m (mandatarissen 8.7m + responsabilisering 1.7m); tick927
+bud_loc_cash_2025,city_lochristi,2025,26177956,,,jaarrekening_realized,src_lochristi_jr2025,strong,Liquide middelen YE2025 26.178m (termijn 24.6m + RC 1.5m); tick927
+bud_loc_cap_subs_2025,city_lochristi,2025,20945096,,,jaarrekening_realized,src_lochristi_jr2025,strong,Kapitaalsubsidies YE2025 20.945m; tick927
+bud_loc_fva_total_2025,city_lochristi,2025,29761481,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financiele vaste activa YE2025 29.761m; tick927
+bud_loc_fva_igs_2025,city_lochristi,2025,15733639,,,jaarrekening_realized,src_lochristi_jr2025,strong,Fin VA IGS YE2025 15.734m; tick927
+bud_loc_fva_other_2025,city_lochristi,2025,13957868,,,jaarrekening_realized,src_lochristi_jr2025,strong,Fin VA andere YE2025 13.958m; tick927
+bud_loc_mva_2025,city_lochristi,2025,103130994,,,jaarrekening_realized,src_lochristi_jr2025,strong,Materiele vaste activa YE2025 103.131m; tick927
+bud_loc_onbeschikbaar_2025,city_lochristi,2025,229440,,,jaarrekening_realized,src_lochristi_jr2025,strong,Onbeschikbare gelden J2 0.229m; tick927
+bud_loc_expl_rec_2025,city_lochristi,2025,54173909,,,jaarrekening_realized,src_lochristi_jr2025,strong,Exploitatieontvangsten 54.174m; tick927
+bud_loc_expl_exp_2025,city_lochristi,2025,49011797,,,jaarrekening_realized,src_lochristi_jr2025,strong,Exploitatieuitgaven 49.012m; tick927
+bud_loc_expl_saldo_2025,city_lochristi,2025,5162112,,,jaarrekening_realized,src_lochristi_jr2025,strong,Exploitatiesaldo +5.162m; tick927
+bud_loc_invest_exp_2025,city_lochristi,2025,6237710,,,jaarrekening_realized,src_lochristi_jr2025,strong,Investeringsuitgaven J2 6.238m FOI; tick927
+bud_loc_invest_rec_2025,city_lochristi,2025,417800,,,jaarrekening_realized,src_lochristi_jr2025,strong,Investeringsontvangsten J2 0.418m; tick927
+bud_loc_invest_saldo_2025,city_lochristi,2025,-5819911,,,jaarrekening_realized,src_lochristi_jr2025,strong,Investeringssaldo -5.820m; tick927
+bud_loc_fin_rec_2025,city_lochristi,2025,1105795,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financieringsontvangsten 1.106m; tick927
+bud_loc_fin_exp_2025,city_lochristi,2025,370376,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financieringsuitgaven 0.370m; tick927
+bud_loc_new_loans_2025,city_lochristi,2025,1077795,,,jaarrekening_realized,src_lochristi_jr2025,strong,Aangaan fin schulden 1.078m Fluvius sale-leaseback only (no bank) FOI; tick927
+bud_loc_aflossingen_2025,city_lochristi,2025,370376,,,jaarrekening_realized,src_lochristi_jr2025,strong,Periodieke aflossingen 0.370m; tick927
+bud_loc_afm_2025,city_lochristi,2025,4819737,,,jaarrekening_realized,src_lochristi_jr2025,strong,AFM +4.820m (very strong); tick927
+bud_loc_afm_corr_2025,city_lochristi,2025,4959903,,,jaarrekening_realized,src_lochristi_jr2025,strong,Gecorrigeerde AFM +4.960m; tick927
+bud_loc_bbr_2025,city_lochristi,2025,27402884,,,jaarrekening_realized,src_lochristi_jr2025,strong,BBR 27.403m after onbeschikbaar 0.229m; tick927
+bud_loc_budget_result_2025,city_lochristi,2025,77621,,,jaarrekening_realized,src_lochristi_jr2025,strong,Budgettair resultaat boekjaar +0.078m; tick927
+bud_loc_cum_br_2025,city_lochristi,2025,27632324,,,jaarrekening_realized,src_lochristi_jr2025,strong,Gecumuleerd budgettair resultaat 27.632m; tick927
+bud_loc_pnl_result_2025,city_lochristi,2025,-1983259,,,jaarrekening_realized,src_lochristi_jr2025,strong,Vennootschapsresultaat J5 -1.983m; tick927
+bud_loc_personnel_2025,city_lochristi,2025,24381911,,,jaarrekening_realized,src_lochristi_jr2025,strong,T2 bezoldigingen 24.382m (incl onderwijs other-gov 4.106m); tick927
+bud_loc_toelagen_2025,city_lochristi,2025,11343417,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toegestane werkingssubsidies 11.343m; tick927
+bud_loc_police_toelage_2025,city_lochristi,2025,4036683,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toelage politiezone 4.037m; tick927
+bud_loc_hvz_toelage_2025,city_lochristi,2025,1142024,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toelage HVZ 1.142m; tick927
+bud_loc_igs_toelage_2025,city_lochristi,2025,2940277,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toelage IGS 2.940m FOI; tick927
+bud_loc_welzijn_toelage_2025,city_lochristi,2025,1808333,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toelage welzijnsverenigingen 1.808m FOI; tick927
+bud_loc_eredienst_toelage_2025,city_lochristi,2025,158072,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toelage eredienst 0.158m; tick927
+bud_loc_toelagen_other_2025,city_lochristi,2025,1258029,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toelagen andere begunstigden 1.258m FOI; tick927
+bud_loc_invest_subs_granted_2025,city_lochristi,2025,2778671,,,jaarrekening_realized,src_lochristi_jr2025,strong,Toegestane investeringssubsidies 2.779m FOI; tick927
+bud_loc_invest_subs_other_2025,city_lochristi,2025,2385815,,,jaarrekening_realized,src_lochristi_jr2025,strong,Invest-subs andere begunstigden 2.386m FOI; tick927
+bud_loc_ocmw_aid_2025,city_lochristi,2025,2609933,,,jaarrekening_realized,src_lochristi_jr2025,strong,OCMW individuele hulp 2.610m; tick927
+bud_loc_ocmw_gl_cover_2025,city_lochristi,2025,10522234,,,jaarrekening_realized,src_lochristi_jr2025,strong,OCMW GL tussenkomst gemeente 10.522m (no cash; raadsbesluit 20.01.2025) FOI; tick927
+bud_loc_fiscal_2025,city_lochristi,2025,30253241,,,jaarrekening_realized,src_lochristi_jr2025,strong,Fiscale opbrengsten en boetes 30.253m; tick927
+bud_loc_gemeentefonds_2025,city_lochristi,2025,7949783,,,jaarrekening_realized,src_lochristi_jr2025,strong,Gemeentefonds 7.950m; tick927
+bud_loc_fin_costs_2025,city_lochristi,2025,54281,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financiele kosten 0.054m; tick927
+bud_loc_invest_mva_2025,city_lochristi,2025,3410218,,,jaarrekening_realized,src_lochristi_jr2025,strong,Investeringen MVA 3.410m (buildings 0.778 roads 1.190 leasing 1.078); tick927
