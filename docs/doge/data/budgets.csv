@@ -25096,3 +25096,60 @@ bud_kon_interest_2025,city_kontich,2025,478057,,,bbc_jr_realized,src_kontich_jr2
 bud_kon_agb_bbr_2025,city_kontich,2025,187376,,,bbc_jr_realized,src_kontich_jr2025,strong,AGB BBR 0.187m dual; tick1027
 bud_kon_agb_afm_2025,city_kontich,2025,23267,,,bbc_jr_realized,src_kontich_jr2025,strong,AGB AFM +0.023m dual; tick1027
 bud_kon_agb_afm_corr_2025,city_kontich,2025,-346201,,,bbc_jr_realized,src_kontich_jr2025,strong,AGB gecorr AFM -0.346m NEG dual FOI; tick1027
+bud_are_assets_2025,city_arendonk,2025,142054793,,,bbc_jr_realized,src_arendonk_jr2025,strong,Assets YE2025 142.05m (was 140.77m); tick1028
+bud_are_equity_2025,city_arendonk,2025,103409523,,,bbc_jr_realized,src_arendonk_jr2025,strong,Nettoactief YE2025 103.41m (was 98.50m JUMP); tick1028
+bud_are_debt_total_2025,city_arendonk,2025,38645270,,,bbc_jr_realized,src_arendonk_jr2025,strong,Total schulden YE2025 38.65m DECLINE; tick1028
+bud_are_fin_debt_2025,city_arendonk,2025,23493965,,,bbc_jr_realized,src_arendonk_jr2025,strong,Fin debt total YE2025 23.49m DECLINE (was 24.46m T4); tick1028
+bud_are_fin_debt_lt_2025,city_arendonk,2025,22180672,,,bbc_jr_realized,src_arendonk_jr2025,strong,Fin debt LT YE2025 22.18m DECLINE (was 23.20m); tick1028
+bud_are_fin_debt_st_due_2025,city_arendonk,2025,1313293,,,bbc_jr_realized,src_arendonk_jr2025,strong,Fin debt ST due YE2025 1.31m; tick1028
+bud_are_fin_debt_st_2025,city_arendonk,2025,0,,,bbc_jr_realized,src_arendonk_jr2025,strong,Fin debt ST treasury YE2025 0; tick1028
+bud_are_new_loans_2025,city_arendonk,2025,305443,,,bbc_jr_realized,src_arendonk_jr2025,strong,Nieuwe leningen 2025 0.305m LOW (was 10.24m 2024); tick1028
+bud_are_aflossingen_2025,city_arendonk,2025,1272183,,,bbc_jr_realized,src_arendonk_jr2025,strong,Periodieke aflossingen 2025 1.27m; tick1028
+bud_are_cash_2025,city_arendonk,2025,4164878,,,bbc_jr_realized,src_arendonk_jr2025,strong,Liquide middelen YE2025 4.16m (was 4.04m); tick1028
+bud_are_pension_2025,city_arendonk,2025,9896171,,,bbc_jr_realized,src_arendonk_jr2025,strong,Pensioenvoorzieningen LT YE2025 9.90m DROP FOI (was 11.48m); tick1028
+bud_are_cap_subs_2025,city_arendonk,2025,20848800,,,bbc_jr_realized,src_arendonk_jr2025,strong,Kapitaalsubsidies YE2025 20.85m; tick1028
+bud_are_fva_total_2025,city_arendonk,2025,9968065,,,bbc_jr_realized,src_arendonk_jr2025,strong,FVA total YE2025 9.97m; tick1028
+bud_are_fva_igs_2025,city_arendonk,2025,9887517,,,bbc_jr_realized,src_arendonk_jr2025,strong,FVA IGS YE2025 9.89m; tick1028
+bud_are_leasing_mva_2025,city_arendonk,2025,1178028,,,bbc_jr_realized,src_arendonk_jr2025,strong,Leasing MVA YE2025 1.18m; tick1028
+bud_are_expl_rec_2025,city_arendonk,2025,34411365,,,bbc_jr_realized,src_arendonk_jr2025,strong,Exploitatieontvangsten 34.41m; tick1028
+bud_are_expl_exp_2025,city_arendonk,2025,29909895,,,bbc_jr_realized,src_arendonk_jr2025,strong,Exploitatieuitgaven 29.91m; tick1028
+bud_are_expl_saldo_2025,city_arendonk,2025,4501470,,,bbc_jr_realized,src_arendonk_jr2025,strong,Exploitatiesaldo +4.50m STRONG; tick1028
+bud_are_invest_exp_2025,city_arendonk,2025,4843923,,,bbc_jr_realized,src_arendonk_jr2025,strong,Investeringsuitgaven 4.84m vs MJP 7.27m UNDERSPEND FOI; tick1028
+bud_are_invest_rec_2025,city_arendonk,2025,2471126,,,bbc_jr_realized,src_arendonk_jr2025,strong,Investeringsontvangsten 2.47m; tick1028
+bud_are_invest_saldo_2025,city_arendonk,2025,-2372797,,,bbc_jr_realized,src_arendonk_jr2025,strong,Investeringssaldo -2.37m; tick1028
+bud_are_mjp_invest_planned_2025,city_arendonk,2025,7273917,,,bbc_jr_realized,src_arendonk_jr2025,strong,MJP invest planned 7.27m vs realized 4.84m underspend FOI; tick1028
+bud_are_afm_2025,city_arendonk,2025,3923961,,,bbc_jr_realized,src_arendonk_jr2025,strong,AFM +3.92m STRONG; tick1028
+bud_are_afm_corr_2025,city_arendonk,2025,3239287,,,bbc_jr_realized,src_arendonk_jr2025,strong,Gecorrigeerde AFM +3.24m STRONG; tick1028
+bud_are_bbr_2025,city_arendonk,2025,3093044,,,bbc_jr_realized,src_arendonk_jr2025,strong,BBR beschikbaar +3.09m HIGH; tick1028
+bud_are_budget_result_2025,city_arendonk,2025,1131982,,,bbc_jr_realized,src_arendonk_jr2025,strong,Budgettair resultaat +1.13m STRONG; tick1028
+bud_are_cum_br_2025,city_arendonk,2025,4127471,,,bbc_jr_realized,src_arendonk_jr2025,strong,Gecumuleerd budgettair resultaat +4.13m; tick1028
+bud_are_onbeschikbaar_2025,city_arendonk,2025,1034426,,,bbc_jr_realized,src_arendonk_jr2025,strong,Onbeschikbare gelden 1.03m; tick1028
+bud_are_pnl_2025,city_arendonk,2025,4070424,,,bbc_jr_realized,src_arendonk_jr2025,strong,P&L +4.07m STRONG (was -1.76m flip); tick1028
+bud_are_ge_expl_exp_2025,city_arendonk,2025,24628102,,,bbc_jr_realized,src_arendonk_jr2025,strong,GE exploitatieuitgaven kengetallen 24.63m; tick1028
+bud_are_ge_expl_rec_2025,city_arendonk,2025,30767712,,,bbc_jr_realized,src_arendonk_jr2025,strong,GE exploitatieontvangsten kengetallen 30.77m; tick1028
+bud_are_ocmw_expl_exp_2025,city_arendonk,2025,5281792,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW exploitatieuitgaven 5.28m FOI; tick1028
+bud_are_ocmw_expl_rec_2025,city_arendonk,2025,3643653,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW exploitatieontvangsten 3.64m; tick1028
+bud_are_ocmw_expl_gap_2025,city_arendonk,2025,-1684739,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW expl gap -1.68m HIGH FOI residual; tick1028
+bud_are_ocmw_cover_2025,city_arendonk,2025,0,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1028
+bud_are_ocmw_budget_result_2025,city_arendonk,2025,-1849882,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW budget result -1.85m FOI; tick1028
+bud_are_ocmw_cum_br_2025,city_arendonk,2025,-9579623,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW cum BR -9.58m WORSENING FOI; tick1028
+bud_are_ocmw_equity_cum_2025,city_arendonk,2025,-17235586,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW equity cum -17.24m WORSENING FOI (was -16.12m; cover 0); tick1028
+bud_are_equity_cum_2025,city_arendonk,2025,7351714,,,bbc_jr_realized,src_arendonk_jr2025,strong,Gecumuleerd equity overschot YE2025 +7.35m; tick1028
+bud_are_personnel_2025,city_arendonk,2025,19773470,,,bbc_jr_realized,src_arendonk_jr2025,strong,Bezoldigingen 19.77m incl education pass-through 7.89m; tick1028
+bud_are_edu_pass_through_2025,city_arendonk,2025,7893879,,,bbc_jr_realized,src_arendonk_jr2025,strong,Onderwijzend personeel ten laste andere overheden 7.89m; tick1028
+bud_are_toelagen_2025,city_arendonk,2025,2976755,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toegestane werkingssubsidies 2.98m FOI residual; tick1028
+bud_are_toelagen_police_2025,city_arendonk,2025,963992,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toelage politiezone KENO 0.964m DROP FOI (was 1.71m); tick1028
+bud_are_toelagen_fire_2025,city_arendonk,2025,835980,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toelage HVZ Taxandria 0.836m; tick1028
+bud_are_toelagen_agb_2025,city_arendonk,2025,615238,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toelage AGB Arendonk 0.615m JUMP dual FOI; tick1028
+bud_are_toelagen_igs_2025,city_arendonk,2025,153133,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toelage IGS 0.153m; tick1028
+bud_are_toelagen_other_2025,city_arendonk,2025,408411,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toelage andere begunstigden 0.408m FOI; tick1028
+bud_are_ocmw_aid_2025,city_arendonk,2025,697673,,,bbc_jr_realized,src_arendonk_jr2025,strong,OCMW individuele hulp 0.698m; tick1028
+bud_are_fiscal_2025,city_arendonk,2025,11868496,,,bbc_jr_realized,src_arendonk_jr2025,strong,Fiscale ontvangsten 11.87m; tick1028
+bud_are_fiscal_ov_2025,city_arendonk,2025,5501911,,,bbc_jr_realized,src_arendonk_jr2025,strong,Opcentiemen OV 5.50m; tick1028
+bud_are_fiscal_pb_2025,city_arendonk,2025,4864550,,,bbc_jr_realized,src_arendonk_jr2025,strong,Aanvullende PB 4.86m JUMP; tick1028
+bud_are_gemeentefonds_2025,city_arendonk,2025,4707362,,,bbc_jr_realized,src_arendonk_jr2025,strong,Gemeentefonds 4.71m; tick1028
+bud_are_interest_2025,city_arendonk,2025,773229,,,bbc_jr_realized,src_arendonk_jr2025,strong,Intresten op leningen 0.773m; tick1028
+bud_are_invest_subs_granted_2025,city_arendonk,2025,182778,,,bbc_jr_realized,src_arendonk_jr2025,strong,Toegestane invest-subs 0.183m; tick1028
+bud_are_agb_bbr_2025,city_arendonk,2025,332238,,,bbc_jr_realized,src_arendonk_jr2025,strong,AGB BBR 0.332m dual; tick1028
+bud_are_agb_afm_2025,city_arendonk,2025,44402,,,bbc_jr_realized,src_arendonk_jr2025,strong,AGB AFM +0.044m dual; tick1028
+bud_are_agb_afm_corr_2025,city_arendonk,2025,-460815,,,bbc_jr_realized,src_arendonk_jr2025,strong,AGB gecorr AFM -0.461m NEG dual FOI; tick1028
