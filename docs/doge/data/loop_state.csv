@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T12:00:00Z,rq_963,963,no,tick963 Zonnebeke JR2025 dual residual; FOI gap_zon_ocmw_agb_mjp_invest_l5 prio8 assets 90.2m fin debt 3.78m slight rise cash 11.1m OCMW 1.61m AGB dual AFM corr neg; next residual dual L5 rq_964; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T13:00:00Z,rq_964,964,no,tick964 AGB MMP1917 JR2025 Entity II dual residual; FOI gap_mmp_afm_lease_cash_subsidy_l5 prio8 assets 6.89m fin debt 4.36m declining cash 0.60m DROP leasing 3.83m gecorr AFM -0.20m NEG; next residual dual L5 rq_965; rq_116 deferred

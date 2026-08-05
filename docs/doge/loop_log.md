@@ -12313,3 +12313,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_964** residual dual L5 (Ledegem / Lendelede / Torhout / Meulebeke / AGB MMP1917 / WZBW); deferred **rq_116**; progress@970 in 7
 
+
+### Tick 964 - 2026-08-08T13:00:00Z
+
+- Unit: **rq_964** (FOI-adjacent residual dual Entity II - **AGB MMP1917 Zonnebeke Jaarrekening 2025** + Zonnebeke GE dual residual)
+- Found (strong primary BBC JR2025 140p; KBO 0568.699.815; RvB 30.03.2026 pub 07.04.2026):
+  - Assets **EUR6.89m** / equity **EUR2.41m** / debt total **EUR4.48m** / fin debt **EUR4.36m** (**DECLINING** from **EUR4.41m**; LT **EUR4.31m** / ST due **EUR0.050m**)
+  - New loans **EUR0** / repayments **EUR0.050m LOW** (aangewezen **EUR0.353m** >> periodiek FOI)
+  - Cash **EUR0.602m DROP** (was **EUR1.12m**) / leasing MVA **EUR3.83m LARGE FOI** / erfgoed **EUR0.935m**
+  - Exploitatie: ontvangsten **EUR1.33m** / uitgaven **EUR1.18m** / saldo **+EUR0.150m**
+  - AFM **+EUR0.100m** / **gecorr AFM -EUR0.204m NEG FOI** / BBR **EUR0.619m** / budget **-EUR0.536m FOI** / P&L **+EUR0.030m**
+  - Personnel **EUR0.649m** / goederen **EUR0.488m** / werking rec **EUR1.02m** / subsidies rec **EUR0.297m FOI recon**
+  - Invest **EUR0.636m** vs MJP **EUR0.743m** (museum renewal FOI) / rechthebbenden **EUR0.027m**
+  - MJP fin debt planned **EUR4.31m (2026) / EUR4.26m (2027)** declining path
+- Dual: Zonnebeke GE **EUR90.2m** / fin debt **EUR3.78m low** / OCMW cover **EUR1.61m** / AFM **+EUR3.98m** / AGB toelage **EUR0.133m** (tick963) - not TE-additive
+- Note: Ledegem JR2025 portal listed but PDF not extractable this tick; deferred to residual queue
+- Wrote: budgets +44 (bud_mmp_*); commitments +5; leaderboard +7; sources +2; entity agb_mmp1917_zonnebeke; FOI **gap_mmp_afm_lease_cash_subsidy_l5** prio8 ready + draft; key only (PDF ~4.1MB not stored); rq_964=done; spawn **rq_965**; ticks=964
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_965** residual dual L5 (Ledegem / Lendelede / Torhout / Meulebeke / WZBW); deferred **rq_116**; progress@970 in 6
+

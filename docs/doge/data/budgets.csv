@@ -22192,3 +22192,47 @@ bud_zon_agb_afm_corr_neg_2025,city_zonnebeke,2025,203561,,,realized,src_zonnebek
 bud_zon_agb_bbr_2025,city_zonnebeke,2025,619455,,,realized,src_zonnebeke_jr2025,strong,AGB MMP1917 BBR 0.619m dual; tick963
 bud_zon_mjp_fin_debt_2026,city_zonnebeke,2025,5115179,,,realized,src_zonnebeke_jr2025,strong,MJP fin debt YE2026 5.12m JUMP FOI; tick963
 bud_zon_mjp_fin_debt_2027,city_zonnebeke,2025,4955064,,,realized,src_zonnebeke_jr2025,strong,MJP fin debt YE2027 4.96m; tick963
+bud_mmp_assets_2025,agb_mmp1917_zonnebeke,2025,6886094,,,realized,src_agb_mmp1917_jr2025,strong,Total assets YE2025 6.89m; tick964
+bud_mmp_equity_2025,agb_mmp1917_zonnebeke,2025,2407589,,,realized,src_agb_mmp1917_jr2025,strong,Nettoactief YE2025 2.41m; tick964
+bud_mmp_debt_total_2025,agb_mmp1917_zonnebeke,2025,4478506,,,realized,src_agb_mmp1917_jr2025,strong,Total schulden YE2025 4.48m; tick964
+bud_mmp_fin_debt_2025,agb_mmp1917_zonnebeke,2025,4363871,,,realized,src_agb_mmp1917_jr2025,strong,Fin debt YE2025 4.36m DECLINING; tick964
+bud_mmp_fin_debt_lt_2025,agb_mmp1917_zonnebeke,2025,4314281,,,realized,src_agb_mmp1917_jr2025,strong,Fin debt LT 4.31m; tick964
+bud_mmp_fin_debt_st_due_2025,agb_mmp1917_zonnebeke,2025,49589,,,realized,src_agb_mmp1917_jr2025,strong,Fin debt ST due 0.050m; tick964
+bud_mmp_fin_debt_2024,agb_mmp1917_zonnebeke,2025,4413460,,,realized,src_agb_mmp1917_jr2025,strong,Fin debt YE2024 4.41m; tick964
+bud_mmp_new_loans_2025,agb_mmp1917_zonnebeke,2025,0,,,realized,src_agb_mmp1917_jr2025,strong,New loans 0; tick964
+bud_mmp_aflossingen_2025,agb_mmp1917_zonnebeke,2025,49589,,,realized,src_agb_mmp1917_jr2025,strong,Periodieke aflossingen 0.050m LOW FOI; tick964
+bud_mmp_cash_2025,agb_mmp1917_zonnebeke,2025,601756,,,realized,src_agb_mmp1917_jr2025,strong,Liquide middelen 0.602m DROP FOI; tick964
+bud_mmp_cash_2024,agb_mmp1917_zonnebeke,2025,1122498,,,realized,src_agb_mmp1917_jr2025,strong,Liquide middelen YE2024 1.12m; tick964
+bud_mmp_pension_prov_2025,agb_mmp1917_zonnebeke,2025,0,,,realized,src_agb_mmp1917_jr2025,strong,Pensioenvoorzieningen 0; tick964
+bud_mmp_fva_total_2025,agb_mmp1917_zonnebeke,2025,125,,,realized,src_agb_mmp1917_jr2025,strong,FVA total 125; tick964
+bud_mmp_mva_2025,agb_mmp1917_zonnebeke,2025,5905619,,,realized,src_agb_mmp1917_jr2025,strong,MVA total 5.91m; tick964
+bud_mmp_leasing_mva_2025,agb_mmp1917_zonnebeke,2025,3829766,,,realized,src_agb_mmp1917_jr2025,strong,Leasing MVA gemeenschap 3.83m LARGE FOI; tick964
+bud_mmp_erfgoed_2025,agb_mmp1917_zonnebeke,2025,935497,,,realized,src_agb_mmp1917_jr2025,strong,Erfgoed MVA 0.935m; tick964
+bud_mmp_cap_subs_2025,agb_mmp1917_zonnebeke,2025,87459,,,realized,src_agb_mmp1917_jr2025,strong,Kapitaalsubsidies 0.087m; tick964
+bud_mmp_cum_pnl_2025,agb_mmp1917_zonnebeke,2025,20130,,,realized,src_agb_mmp1917_jr2025,strong,Gecumuleerd overschot 0.020m; tick964
+bud_mmp_overig_netto_2025,agb_mmp1917_zonnebeke,2025,2300000,,,realized,src_agb_mmp1917_jr2025,strong,Overig nettoactief 2.30m; tick964
+bud_mmp_expl_rec_2025,agb_mmp1917_zonnebeke,2025,1333377,,,realized,src_agb_mmp1917_jr2025,strong,Exploitatieontvangsten 1.33m; tick964
+bud_mmp_expl_exp_2025,agb_mmp1917_zonnebeke,2025,1183862,,,realized,src_agb_mmp1917_jr2025,strong,Exploitatieuitgaven 1.18m; tick964
+bud_mmp_expl_saldo_2025,agb_mmp1917_zonnebeke,2025,149516,,,realized,src_agb_mmp1917_jr2025,strong,Exploitatiesaldo +0.150m; tick964
+bud_mmp_invest_exp_2025,agb_mmp1917_zonnebeke,2025,636408,,,realized,src_agb_mmp1917_jr2025,strong,Investeringsuitgaven 0.636m FOI museum; tick964
+bud_mmp_invest_rec_2025,agb_mmp1917_zonnebeke,2025,0,,,realized,src_agb_mmp1917_jr2025,strong,Investeringsontvangsten 0; tick964
+bud_mmp_invest_saldo_2025,agb_mmp1917_zonnebeke,2025,-636408,,,realized,src_agb_mmp1917_jr2025,strong,Investeringssaldo -0.636m; tick964
+bud_mmp_invest_mjp_2025,agb_mmp1917_zonnebeke,2025,743375,,,realized,src_agb_mmp1917_jr2025,strong,MJP invest exp 0.743m; tick964
+bud_mmp_afm_2025,agb_mmp1917_zonnebeke,2025,99926,,,realized,src_agb_mmp1917_jr2025,strong,AFM +0.100m; tick964
+bud_mmp_afm_corr_2025,agb_mmp1917_zonnebeke,2025,-203561,,,realized,src_agb_mmp1917_jr2025,strong,Gecorr AFM -0.204m NEG FOI; tick964
+bud_mmp_aangewezen_aflossingen_2025,agb_mmp1917_zonnebeke,2025,353077,,,realized,src_agb_mmp1917_jr2025,strong,Aangewezen aflossingen 0.353m >> periodiek FOI; tick964
+bud_mmp_bbr_2025,agb_mmp1917_zonnebeke,2025,619455,,,realized,src_agb_mmp1917_jr2025,strong,BBR 0.619m; tick964
+bud_mmp_budget_result_2025,agb_mmp1917_zonnebeke,2025,-536482,,,realized,src_agb_mmp1917_jr2025,strong,Budgettair resultaat -0.536m FOI; tick964
+bud_mmp_cum_br_prev_2025,agb_mmp1917_zonnebeke,2025,1155937,,,realized,src_agb_mmp1917_jr2025,strong,Gecum BR vorig 1.16m; tick964
+bud_mmp_onbeschikbaar_2025,agb_mmp1917_zonnebeke,2025,0,,,realized,src_agb_mmp1917_jr2025,strong,Onbeschikbare gelden 0; tick964
+bud_mmp_pnl_result_2025,agb_mmp1917_zonnebeke,2025,30078,,,realized,src_agb_mmp1917_jr2025,strong,P&L overschot +0.030m; tick964
+bud_mmp_personnel_2025,agb_mmp1917_zonnebeke,2025,649006,,,realized,src_agb_mmp1917_jr2025,strong,Bezoldigingen T2 0.649m; tick964
+bud_mmp_goederen_2025,agb_mmp1917_zonnebeke,2025,488427,,,realized,src_agb_mmp1917_jr2025,strong,Goederen en diensten T2 0.488m; tick964
+bud_mmp_werking_rec_2025,agb_mmp1917_zonnebeke,2025,1019818,,,realized,src_agb_mmp1917_jr2025,strong,Ontvangsten uit de werking 1.02m; tick964
+bud_mmp_subsidies_rec_2025,agb_mmp1917_zonnebeke,2025,296948,,,realized,src_agb_mmp1917_jr2025,strong,Werkingssubsidies rec 0.297m FOI recon GE toelage; tick964
+bud_mmp_subsidies_vl_algemeen_2025,agb_mmp1917_zonnebeke,2025,278343,,,realized,src_agb_mmp1917_jr2025,strong,Algemene werkingssubsidies VL 0.278m; tick964
+bud_mmp_financing_saldo_2025,agb_mmp1917_zonnebeke,2025,-49589,,,realized,src_agb_mmp1917_jr2025,strong,Financieringssaldo -0.050m; tick964
+bud_mmp_fin_costs_2025,agb_mmp1917_zonnebeke,2025,64,,,realized,src_agb_mmp1917_jr2025,strong,Financiele kosten 64; tick964
+bud_mmp_rechthebbenden_2025,agb_mmp1917_zonnebeke,2025,27071,,,realized,src_agb_mmp1917_jr2025,strong,Rechthebbenden uit overschot 0.027m FOI; tick964
+bud_mmp_mjp_fin_debt_2026,agb_mmp1917_zonnebeke,2025,4314281,,,realized,src_agb_mmp1917_jr2025,strong,MJP fin debt YE2026 4.31m declining path; tick964
+bud_mmp_mjp_fin_debt_2027,agb_mmp1917_zonnebeke,2025,4264692,,,realized,src_agb_mmp1917_jr2025,strong,MJP fin debt YE2027 4.26m; tick964
