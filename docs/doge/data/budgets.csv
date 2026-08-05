@@ -23676,3 +23676,51 @@ bud_dam_fin_opbr_2025,city_damme,2025,1042174,,,realized,src_damme_jr2025,strong
 bud_dam_fin_costs_2025,city_damme,2025,228291,,,realized,src_damme_jr2025,strong,Financiele kosten 0.228m; tick999
 bud_dam_invest_subs_granted_2025,city_damme,2025,932583,,,realized,src_damme_jr2025,strong,Toegestane investeringssubsidies 0.933m HIGH FOI; tick999
 bud_dam_fin_exp_2025,city_damme,2025,974803,,,realized,src_damme_jr2025,strong,Financieringsuitgaven 0.975m; tick999
+bud_gis_assets_2025,city_gistel,2025,79296606,,,realized,src_gistel_jr2025,strong,Assets YE2025 79.30m (was 78.92m); tick1001
+bud_gis_equity_2025,city_gistel,2025,59077227,,,realized,src_gistel_jr2025,strong,Nettoactief YE2025 59.08m (was 59.84m); tick1001
+bud_gis_debt_total_2025,city_gistel,2025,20219379,,,realized,src_gistel_jr2025,strong,Total schulden YE2025 20.22m (was 19.08m); tick1001
+bud_gis_fin_debt_2025,city_gistel,2025,12072721,,,realized,src_gistel_jr2025,strong,Fin debt total YE2025 12.07m RISING (was 11.12m); tick1001
+bud_gis_fin_debt_lt_2025,city_gistel,2025,10971537,,,realized,src_gistel_jr2025,strong,Fin debt LT YE2025 10.97m; tick1001
+bud_gis_fin_debt_st_due_2025,city_gistel,2025,1101184,,,realized,src_gistel_jr2025,strong,Fin debt ST due YE2025 1.10m; tick1001
+bud_gis_new_loans_2025,city_gistel,2025,2042243,,,realized,src_gistel_jr2025,strong,Nieuwe leningen 2025 2.04m (bank 1.50m + Farys lease 0.129m + Fluvius 0.413m); tick1001
+bud_gis_aflossingen_2025,city_gistel,2025,1086402,,,realized,src_gistel_jr2025,strong,Periodieke aflossingen 2025 1.09m; tick1001
+bud_gis_cash_2025,city_gistel,2025,5699108,,,realized,src_gistel_jr2025,strong,Liquide middelen YE2025 5.70m DROP (was 6.72m); tick1001
+bud_gis_pension_2025,city_gistel,2025,4460386,,,realized,src_gistel_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.46m RISING (was 3.87m); tick1001
+bud_gis_cap_subs_2025,city_gistel,2025,6268312,,,realized,src_gistel_jr2025,strong,Kapitaalsubsidies YE2025 6.27m; tick1001
+bud_gis_fva_total_2025,city_gistel,2025,26210381,,,realized,src_gistel_jr2025,strong,FVA total YE2025 26.21m; tick1001
+bud_gis_fva_igs_2025,city_gistel,2025,15648678,,,realized,src_gistel_jr2025,strong,FVA IGS YE2025 15.65m; tick1001
+bud_gis_fva_other_2025,city_gistel,2025,10561704,,,realized,src_gistel_jr2025,strong,Andere FVA YE2025 10.56m FOI residual; tick1001
+bud_gis_leasing_mva_2025,city_gistel,2025,4298304,,,realized,src_gistel_jr2025,strong,Leasing MVA YE2025 4.30m; tick1001
+bud_gis_expl_rec_2025,city_gistel,2025,22109964,,,realized,src_gistel_jr2025,strong,Exploitatieontvangsten 22.11m; tick1001
+bud_gis_expl_exp_2025,city_gistel,2025,19266658,,,realized,src_gistel_jr2025,strong,Exploitatieuitgaven 19.27m; tick1001
+bud_gis_expl_saldo_2025,city_gistel,2025,2843306,,,realized,src_gistel_jr2025,strong,Exploitatiesaldo +2.84m STRONG; tick1001
+bud_gis_invest_exp_2025,city_gistel,2025,4449733,,,realized,src_gistel_jr2025,strong,Investeringsuitgaven 4.45m vs MJP 8.31m underspend FOI; tick1001
+bud_gis_invest_rec_2025,city_gistel,2025,465115,,,realized,src_gistel_jr2025,strong,Investeringsontvangsten 0.465m; tick1001
+bud_gis_invest_saldo_2025,city_gistel,2025,-3984618,,,realized,src_gistel_jr2025,strong,Investeringssaldo -3.98m; tick1001
+bud_gis_mjp_invest_exp_2025,city_gistel,2025,8310386,,,realized,src_gistel_jr2025,strong,MJP invest uitgaven 8.31m; tick1001
+bud_gis_afm_2025,city_gistel,2025,1781677,,,realized,src_gistel_jr2025,strong,AFM +1.78m STRONG (MJP 0.829m); tick1001
+bud_gis_afm_corr_2025,city_gistel,2025,1978729,,,realized,src_gistel_jr2025,strong,Gecorrigeerde AFM +1.98m; tick1001
+bud_gis_bbr_2025,city_gistel,2025,5500054,,,realized,src_gistel_jr2025,strong,Beschikbaar BBR 5.50m; tick1001
+bud_gis_bbr_cum_2025,city_gistel,2025,5500054,,,realized,src_gistel_jr2025,strong,Gecumuleerd budgettair resultaat 5.50m; tick1001
+bud_gis_budget_result_2025,city_gistel,2025,-203348,,,realized,src_gistel_jr2025,strong,Budgettair resultaat boekjaar -0.203m; tick1001
+bud_gis_pnl_result_2025,city_gistel,2025,-560701,,,realized,src_gistel_jr2025,strong,P&L -0.561m; tick1001
+bud_gis_pnl_ge_2025,city_gistel,2025,2202361,,,realized,src_gistel_jr2025,strong,GE/Stad P&L +2.20m; tick1001
+bud_gis_pnl_ocmw_2025,city_gistel,2025,-2763062,,,realized,src_gistel_jr2025,strong,OCMW P&L -2.76m FOI; tick1001
+bud_gis_ocmw_cover_2025,city_gistel,2025,2601967,,,realized,src_gistel_jr2025,strong,OCMW cover 2.60m FULL-ish vs OCMW -2.76m FOI; tick1001
+bud_gis_ocmw_cum_deficit_2025,city_gistel,2025,-434795,,,realized,src_gistel_jr2025,strong,OCMW cum tekort YE2025 -0.435m (was -0.274m); tick1001
+bud_gis_personnel_2025,city_gistel,2025,10274205,,,realized,src_gistel_jr2025,strong,Bezoldigingen 10.27m (incl onderwijs other-gov 1.05m); tick1001
+bud_gis_toelagen_2025,city_gistel,2025,3323349,,,realized,src_gistel_jr2025,strong,Toegestane werkingssubsidies 3.32m; tick1001
+bud_gis_toelagen_police_2025,city_gistel,2025,1429225,,,realized,src_gistel_jr2025,strong,Toelage politiezone 1.43m; tick1001
+bud_gis_toelagen_fire_2025,city_gistel,2025,557257,,,realized,src_gistel_jr2025,strong,Toelage hulpverleningszone 0.557m; tick1001
+bud_gis_toelagen_igs_2025,city_gistel,2025,825834,,,realized,src_gistel_jr2025,strong,Toelage IGS 0.826m; tick1001
+bud_gis_toelagen_eredienst_2025,city_gistel,2025,69956,,,realized,src_gistel_jr2025,strong,Toelage eredienst 0.070m; tick1001
+bud_gis_toelagen_other_2025,city_gistel,2025,441077,,,realized,src_gistel_jr2025,strong,Toelage andere begunstigden 0.441m; tick1001
+bud_gis_ocmw_aid_2025,city_gistel,2025,1144883,,,realized,src_gistel_jr2025,strong,OCMW individuele hulp 1.14m; tick1001
+bud_gis_fiscal_2025,city_gistel,2025,10169257,,,realized,src_gistel_jr2025,strong,Fiscale opbrengsten 10.17m; tick1001
+bud_gis_fiscal_ov_2025,city_gistel,2025,4364866,,,realized,src_gistel_jr2025,strong,Opcentiemen OV 4.36m; tick1001
+bud_gis_fiscal_pb_2025,city_gistel,2025,4809619,,,realized,src_gistel_jr2025,strong,Aanvullende PB 4.81m; tick1001
+bud_gis_gemeentefonds_2025,city_gistel,2025,4143654,,,realized,src_gistel_jr2025,strong,Gemeentefonds 4.14m; tick1001
+bud_gis_fin_opbr_2025,city_gistel,2025,1501418,,,realized,src_gistel_jr2025,strong,Financiele opbrengsten J5 1.50m DROP (was 4.22m FOI); tick1001
+bud_gis_fin_costs_2025,city_gistel,2025,299579,,,realized,src_gistel_jr2025,strong,Financiele kosten 0.300m; tick1001
+bud_gis_invest_subs_hvz_2025,city_gistel,2025,108985,,,realized,src_gistel_jr2025,strong,Invest-subs HVZ 0.109m; tick1001
+bud_gis_new_bank_loan_2025,city_gistel,2025,1500000,,,realized,src_gistel_jr2025,strong,Nieuwe banklening 1.50m; tick1001

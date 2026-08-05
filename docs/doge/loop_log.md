@@ -12989,3 +12989,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md (tick1000 snapshot) · doge_waste_top10_current.md (as-of 1000) · rq_1000=done · spawn **rq_1001** · ticks=1000
 - FOI: none new this tick (progress-only primary)
 - Next: prio5 **rq_1001** residual dual L5 (Torhout / Meulebeke / Gistel / AGB De Panne / other); deferred **rq_116**; progress@1010 in 10
+
+### Tick 1001 - 2026-08-09T13:45:00Z
+
+- Unit: **rq_1001** (FOI-adjacent residual dual - **Gemeente+OCMW Gistel Jaarrekening 2025** + progress@1000 residual)
+- Found (strong primary BBC JR2025 179p; KBO 0207.491.413 / OCMW 0212.213.729; FD Greet Lava; AD Joost Mangeleer):
+  - Assets **EUR79.30m** / equity **EUR59.08m** / debt total **EUR20.22m** / fin debt **EUR12.07m** (**RISING** from **EUR11.12m**; LT **EUR10.97m** / ST due **EUR1.10m**)
+  - New loans **EUR2.04m** (bank **EUR1.50m** / Farys **EUR0.129m** / Fluvius **EUR0.413m**) / repayments **EUR1.09m**
+  - Cash **EUR5.70m DROP** (was **EUR6.72m**) / pension **EUR4.46m RISING** / leasing MVA **EUR4.30m**
+  - FVA IGS **EUR15.65m** / **andere FVA EUR10.56m FOI** / cap subs **EUR6.27m**
+  - Exploitatie: ontvangsten **EUR22.11m** / uitgaven **EUR19.27m** / saldo **+EUR2.84m STRONG**
+  - AFM **+EUR1.78m STRONG** (gecorr **+EUR1.98m**) / BBR **EUR5.50m** / budget **-EUR0.203m** / P&L **-EUR0.561m** (GE **+EUR2.20m** / OCMW **-EUR2.76m FOI**)
+  - Personnel **EUR10.27m** / toelagen **EUR3.32m FOI** (police **EUR1.43m** / fire **EUR0.557m** / IGS **EUR0.826m** / other **EUR0.441m** / eredienst **EUR0.070m**)
+  - Invest **EUR4.45m** vs MJP **EUR8.31m underspend FOI** / **OCMW cover EUR2.60m FULL-ish FOI** / fin opbr **EUR1.50m DROP** (was 4.22m FOI)
+- Dual: Damme **EUR84.5m** / OCMW cover **EUR1.19m FULL** / IVBO **EUR0.91m** (tick999) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne large/image skip
+- Wrote: budgets +48 (bud_gis_*); commitments +5; leaderboard +7; sources +1; entity city_gistel; FOI **gap_gis_ocmw_toelagen_debt_fva_l5** prio8 ready + draft; key only (PDF ~7.5MB not stored in git); rq_1001=done; spawn **rq_1002**; ticks=1001
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1002** residual dual L5 (Torhout / Meulebeke / Zuienkerke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 9

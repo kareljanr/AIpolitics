@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T13:15:00Z,rq_1000,1000,no,tick1000 progress@1000 coverage A100 B100 C~99 D~74-88 E FOI ready ~682; waste top10 stable GIP#1; gain 991-999 coastal dual stack Blankenberge 204m Middelkerke debt 84m Oudenburg OCMW cum -7.36m Damme IVBO; next residual dual L5 rq_1001; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T13:45:00Z,rq_1001,1001,no,tick1001 Gistel GE+OCMW JR2025 dual residual; FOI gap_gis_ocmw_toelagen_debt_fva_l5 prio8 assets 79.30m fin debt 12.07m RISING +loans 2.04m cash 5.70m DROP AFM +1.78m OCMW cover 2.60m toelagen 3.32m andere FVA 10.56m; next residual dual L5 rq_1002; rq_116 deferred
