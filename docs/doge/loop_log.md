@@ -14276,3 +14276,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1067** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1067 - 2026-08-10T22:45:00Z
+
+- Unit: **rq_1067** (FOI-adjacent residual dual - **Lokaal Bestuur Sint-Genesius-Rode Jaarrekening 2025** + SPL dual residual)
+- Found (strong primary BBC JR2025 PDF; GR 23.06.2026 RMW 22.06.2026 pub 26.06.2026; KBO GE 0207.505.863 / OCMW 0212.169.682; Dorpsstraat 46/74 1640; AD Jan Buysse FD Tom Van Haelst; GE+OCMW):
+  - Assets **EUR144.31m JUMP** / equity **EUR111.64m JUMP** / debt total **EUR32.67m DECLINE** / fin debt **EUR9.00m DECLINE** (LT **EUR7.90m** / ST due **EUR1.10m**; was **EUR10.16m**)
+  - New loans **EUR0** / repayments **EUR1.16m**
+  - Cash **EUR35.26m MASSIVE DROP FOI** (was **EUR49.61m**, -**EUR14.35m** invest-driven) / pension **EUR10.92m DROP FOI** (was **EUR14.11m**, -**EUR3.20m**) / FVA IGS **EUR11.87m** / leasing MVA **EUR1.26m**
+  - Exploitatie: ontvangsten **EUR52.98m** / uitgaven **EUR43.50m** / saldo **+EUR9.48m VERY STRONG**
+  - AFM **+EUR8.77m VERY STRONG** (gecorr **+EUR9.12m**) / BBR **EUR29.98m VERY HIGH FOI** / budget **EUR-17.65m MASSIVE NEG FOI** / cum BR **EUR30.17m** / P&L **+EUR9.38m**
+  - Personnel **EUR23.15m JUMP** / toelagen **EUR4.54m FOI** (police **EUR2.89m** / fire **EUR1.05m** / other **EUR0.55m**)
+  - Invest **EUR27.74m HIGH FOI** vs MJP **EUR40.77m UNDERSPEND**
+- Dual: SPL assets **EUR172.56m** / budget **EUR-3.61m** / OCMW cover **0** (tick1066) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Ronse city residual next; progress@1070
+- Wrote: budgets +44 (bud_sgr_*); commitments +7; leaderboard +8; sources +1; entity city_sint_genesius_rode; FOI **gap_sgr_budget_cash_invest_bbr_l5** prio9 ready + draft; PDF primary (not committed); rq_1067=done; spawn **rq_1068**; ticks=1067
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1068** residual dual L5; deferred **rq_116**; progress@1070
+
