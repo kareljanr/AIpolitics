@@ -25726,3 +25726,60 @@ bud_sz_agb_bbr_2025,city_scherpenheuvel_zichem,2025,1143679,,,bbc_jr_realized,sr
 bud_sz_agb_afm_2025,city_scherpenheuvel_zichem,2025,-47592,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,AGB AFM -0.048m NEG dual FOI; tick1038
 bud_sz_agb_afm_corr_2025,city_scherpenheuvel_zichem,2025,-5255,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,AGB gecorr AFM -0.005m dual; tick1038
 bud_sz_mjp_bank_loans_2026_2025,city_scherpenheuvel_zichem,2025,7200000,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,MJP bank loans planned 7.20m 2026 FOI path; tick1038
+bud_her_assets_2025,city_herselt,2025,71849404,,,bbc_jr_realized,src_herselt_jr2025,strong,Assets YE2025 71.85m slight JUMP (was 71.57m); tick1039
+bud_her_equity_2025,city_herselt,2025,57902192,,,bbc_jr_realized,src_herselt_jr2025,strong,Nettoactief YE2025 57.90m JUMP (was 57.55m); tick1039
+bud_her_debt_total_2025,city_herselt,2025,13947212,,,bbc_jr_realized,src_herselt_jr2025,strong,Total schulden YE2025 13.95m slight DROP (was 14.02m); tick1039
+bud_her_fin_debt_2025,city_herselt,2025,5530319,,,bbc_jr_realized,src_herselt_jr2025,strong,Fin debt total YE2025 5.53m DECLINE (was 6.01m T4); tick1039
+bud_her_fin_debt_lt_2025,city_herselt,2025,4688397,,,bbc_jr_realized,src_herselt_jr2025,strong,Fin debt LT YE2025 4.69m DECLINE; tick1039
+bud_her_fin_debt_st_2025,city_herselt,2025,841923,,,bbc_jr_realized,src_herselt_jr2025,strong,Fin debt ST due YE2025 0.842m; tick1039
+bud_her_new_loans_2025,city_herselt,2025,322601,,,bbc_jr_realized,src_herselt_jr2025,strong,New loans/leases 2025 0.323m LOW lease-only (MJP bank 2.06m NOT taken); tick1039
+bud_her_repayments_2025,city_herselt,2025,806955,,,bbc_jr_realized,src_herselt_jr2025,strong,Repayments 2025 0.807m; tick1039
+bud_her_cash_2025,city_herselt,2025,10219384,,,bbc_jr_realized,src_herselt_jr2025,strong,Liquide middelen YE2025 10.22m DROP (was 11.12m); tick1039
+bud_her_pension_prov_2025,city_herselt,2025,5350311,,,bbc_jr_realized,src_herselt_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.35m JUMP HIGH FOI (was 4.41m +0.944m); tick1039
+bud_her_fva_total_2025,city_herselt,2025,7724817,,,bbc_jr_realized,src_herselt_jr2025,strong,FVA total YE2025 7.72m; tick1039
+bud_her_fva_igs_2025,city_herselt,2025,7554033,,,bbc_jr_realized,src_herselt_jr2025,strong,FVA IGS YE2025 7.55m FOI; tick1039
+bud_her_leasing_mva_2025,city_herselt,2025,1426549,,,bbc_jr_realized,src_herselt_jr2025,strong,Leasing MVA YE2025 1.43m; tick1039
+bud_her_expl_ontvangsten_2025,city_herselt,2025,24242449,,,bbc_jr_realized,src_herselt_jr2025,strong,Exploitatie ontvangsten 2025 24.24m; tick1039
+bud_her_expl_uitgaven_2025,city_herselt,2025,20254621,,,bbc_jr_realized,src_herselt_jr2025,strong,Exploitatie uitgaven 2025 20.25m; tick1039
+bud_her_expl_saldo_2025,city_herselt,2025,3987827,,,bbc_jr_realized,src_herselt_jr2025,strong,Exploitatiesaldo 2025 +3.99m STRONG; tick1039
+bud_her_afm_2025,city_herselt,2025,3391552,,,bbc_jr_realized,src_herselt_jr2025,strong,AFM 2025 +3.39m STRONG; tick1039
+bud_her_afm_gecorr_2025,city_herselt,2025,3717334,,,bbc_jr_realized,src_herselt_jr2025,strong,Gecorrigeerde AFM 2025 +3.72m; tick1039
+bud_her_bbr_2025,city_herselt,2025,10804098,,,bbc_jr_realized,src_herselt_jr2025,strong,Beschikbaar budgettair resultaat YE2025 10.80m (carry invest 4.02m note); tick1039
+bud_her_budget_result_2025,city_herselt,2025,-118451,,,bbc_jr_realized,src_herselt_jr2025,strong,Budgettair resultaat boekjaar 2025 -0.118m NEG FOI under strong AFM; tick1039
+bud_her_cum_budget_2025,city_herselt,2025,10804098,,,bbc_jr_realized,src_herselt_jr2025,strong,Gecumuleerd BR YE2025 10.80m; tick1039
+bud_her_pnl_2025,city_herselt,2025,662584,,,bbc_jr_realized,src_herselt_jr2025,strong,P&L overschot 2025 +0.663m (was +1.06m); tick1039
+bud_her_personnel_2025,city_herselt,2025,10774696,,,bbc_jr_realized,src_herselt_jr2025,strong,Personnel 2025 10.77m VTE 137.77; tick1039
+bud_her_toelagen_2025,city_herselt,2025,2964695,,,bbc_jr_realized,src_herselt_jr2025,strong,Toegestane werkingssubsidies 2025 2.96m FOI; tick1039
+bud_her_police_toelage_2025,city_herselt,2025,1501430,,,bbc_jr_realized,src_herselt_jr2025,strong,Politiezone toelage 2025 1.50m; tick1039
+bud_her_fire_toelage_2025,city_herselt,2025,275095,,,bbc_jr_realized,src_herselt_jr2025,strong,HVZ toelage 2025 0.275m; tick1039
+bud_her_agb_toelage_2025,city_herselt,2025,926639,,,bbc_jr_realized,src_herselt_jr2025,strong,AGB toelage 2025 0.927m; tick1039
+bud_her_eredienst_toelage_2025,city_herselt,2025,78361,,,bbc_jr_realized,src_herselt_jr2025,strong,Eredienst toelage 2025 0.078m DROP (was 0.148m); tick1039
+bud_her_invest_spend_2025,city_herselt,2025,3951323,,,bbc_jr_realized,src_herselt_jr2025,strong,Invest uitgaven 2025 3.95m vs MJP 9.10m UNDERSPEND; tick1039
+bud_her_invest_subs_granted_2025,city_herselt,2025,133051,,,bbc_jr_realized,src_herselt_jr2025,strong,Toegestane invest-subs 2025 0.133m; tick1039
+bud_her_invest_subs_received_2025,city_herselt,2025,89967,,,bbc_jr_realized,src_herselt_jr2025,strong,Ontvangen invest-subs VL 2025 0.090m LOW; tick1039
+bud_her_ocmw_cover_2025,city_herselt,2025,2203448,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW cover tussenkomst 2025 2.20m FULL JUMP +24pct FOI vs gap 2.12m; tick1039
+bud_her_ocmw_expl_gap_2025,city_herselt,2025,-2115153,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW expl saldo 2025 -2.12m; tick1039
+bud_her_ocmw_equity_cum_2025,city_herselt,2025,809289,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW equity cum YE2025 0.809m DROP (was 0.919m); tick1039
+bud_her_ocmw_pnl_2025,city_herselt,2025,-2313495,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW P&L 2025 -2.31m HIGH FOI; tick1039
+bud_her_ocmw_nettoactief_2025,city_herselt,2025,4507272,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW nettoactief YE2025 4.51m DROP; tick1039
+bud_her_ocmw_expl_ont_2025,city_herselt,2025,3248131,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW expl ontvangsten 2025 3.25m; tick1039
+bud_her_ocmw_expl_uit_2025,city_herselt,2025,5363284,,,bbc_jr_realized,src_herselt_jr2025,strong,OCMW expl uitgaven 2025 5.36m; tick1039
+bud_her_apb_2025,city_herselt,2025,6145802,,,bbc_jr_realized,src_herselt_jr2025,strong,APB 2025 6.15m rate 7.30pct; tick1039
+bud_her_ov_opcentiemen_2025,city_herselt,2025,4808524,,,bbc_jr_realized,src_herselt_jr2025,strong,OV opcentiemen 2025 4.81m rate 850; tick1039
+bud_her_fiscal_total_2025,city_herselt,2025,12797053,,,bbc_jr_realized,src_herselt_jr2025,strong,Fiscal+boetes 2025 12.80m; tick1039
+bud_her_gemeentefonds_2025,city_herselt,2025,4281222,,,bbc_jr_realized,src_herselt_jr2025,strong,Gemeentefonds 2025 4.28m T2; tick1039
+bud_her_werkingssubsidies_2025,city_herselt,2025,8593653,,,bbc_jr_realized,src_herselt_jr2025,strong,Werkingssubsidies total 2025 8.59m; tick1039
+bud_her_goederen_diensten_2025,city_herselt,2025,4901094,,,bbc_jr_realized,src_herselt_jr2025,strong,Goederen en diensten 2025 4.90m; tick1039
+bud_her_interest_cost_2025,city_herselt,2025,227692,,,bbc_jr_realized,src_herselt_jr2025,strong,Financiele kosten 2025 0.228m; tick1039
+bud_her_loan_stock_bank_2025,city_herselt,2025,4103770,,,bbc_jr_realized,src_herselt_jr2025,strong,Bank loan stock YE2025 4.10m (excl lease); tick1039
+bud_her_pension_fund_reserve_2025,city_herselt,2025,4777176,,,bbc_jr_realized,src_herselt_jr2025,strong,Pensioenfondsen netto-reserve YE2025 4.78m; tick1039
+bud_her_mjp_bank_planned_2025,city_herselt,2025,2064000,,,bbc_jr_realized,src_herselt_jr2025,strong,MJP bank loans planned 2025 2.06m NOT taken FOI (own-cash invest); tick1039
+bud_her_agb_bbr_2025,city_herselt,2025,660690,,,bbc_jr_realized,src_herselt_jr2025,strong,AGB Herselt BBR 2025 0.661m dual; tick1039
+bud_her_agb_afm_2025,city_herselt,2025,151628,,,bbc_jr_realized,src_herselt_jr2025,strong,AGB Herselt AFM 2025 +0.152m dual; tick1039
+bud_her_consol_bbr_2025,city_herselt,2025,11464788,,,bbc_jr_realized,src_herselt_jr2025,strong,Geconsolideerd BBR GE+OCMW+AGB 2025 11.46m; tick1039
+bud_her_consol_afm_2025,city_herselt,2025,3543181,,,bbc_jr_realized,src_herselt_jr2025,strong,Geconsolideerd AFM 2025 +3.54m; tick1039
+bud_her_invest_carry_2025,city_herselt,2025,4022517,,,bbc_jr_realized,src_herselt_jr2025,strong,Niet-aangewende invest-budget overdracht 2026 4.02m FOI note; tick1039
+bud_her_lt_receivables_2025,city_herselt,2025,7186600,,,bbc_jr_realized,src_herselt_jr2025,strong,Vorderingen LT YE2025 7.19m (toegestane leningen path); tick1039
+bud_her_toegestane_leningen_recover_2025,city_herselt,2025,210680,,,bbc_jr_realized,src_herselt_jr2025,strong,Terugvordering toegestane leningen 2025 0.211m; tick1039
+bud_her_mva_buildings_2025,city_herselt,2025,29279152,,,bbc_jr_realized,src_herselt_jr2025,strong,Terreinen en gebouwen YE2025 29.28m; tick1039
+bud_her_mva_roads_2025,city_herselt,2025,10993675,,,bbc_jr_realized,src_herselt_jr2025,strong,Wegen infrastructuur YE2025 10.99m JUMP; tick1039

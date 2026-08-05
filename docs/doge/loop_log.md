@@ -13715,3 +13715,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1039** residual dual L5 + **decade progress next tick after 1039**; deferred **rq_116**; progress@1040 in 1
 
+
+### Tick 1039 - 2026-08-10T08:45:00Z
+
+- Unit: **rq_1039** (FOI-adjacent residual dual - **Gemeente+OCMW Herselt Jaarrekening 2025** + Scherpenheuvel-Zichem dual residual)
+- Found (strong primary BBC JR2025 383p meetingburger; KBO 0207.502.103 / OCMW 0212.218.974; Kerkstraat 1; GR 29.06.2026 pub 03.07.2026):
+  - Assets **EUR71.85m** / equity **EUR57.90m JUMP** / debt total **EUR13.95m** / fin debt **EUR5.53m DECLINE** (was **EUR6.01m**; LT **EUR4.69m** / ST due **EUR0.842m**)
+  - New loans **EUR0.323m LOW** lease-only / MJP bank 2025 planned **EUR2.06m NOT taken FOI** (own-cash invest) / repayments **EUR0.807m**
+  - Cash **EUR10.22m DROP** (was **EUR11.12m**) / pension **EUR5.35m JUMP HIGH FOI** (was **EUR4.41m** **+EUR0.944m**) / FVA IGS **EUR7.55m** / leasing MVA **EUR1.43m**
+  - Exploitatie: ontvangsten **EUR24.24m** / uitgaven **EUR20.25m** / saldo **+EUR3.99m STRONG**
+  - AFM **+EUR3.39m STRONG** (gecorr **+EUR3.72m**) / BBR **EUR10.80m** / budget **-EUR0.118m NEG FOI** / cum BR **EUR10.80m** / P&L **+EUR0.663m**
+  - Personnel **EUR10.77m** VTE **137.77** / toelagen **EUR2.96m FOI** (police **EUR1.50m** / fire **EUR0.275m** / AGB **EUR0.927m** / eredienst **EUR0.078m DROP** / other **EUR0.153m**)
+  - Invest **EUR3.95m** vs MJP **EUR9.10m UNDERSPEND** / invest-subs VL received **EUR0.090m** / carry to 2026 **EUR4.02m FOI**
+  - **OCMW cover EUR2.20m FULL JUMP +24.4% FOI** vs gap **-EUR2.12m** / OCMW equity cum **EUR0.809m DROP** / OCMW P&L **-EUR2.31m HIGH**
+  - AGB dual: BBR **EUR0.661m** / AFM **+EUR0.152m** / consol BBR **EUR11.46m** / consol AFM **+EUR3.54m**
+  - Pension funds reserve **EUR4.78m** / bank loan stock **EUR4.10m** (excl lease)
+- Dual: Scherpenheuvel-Zichem assets **EUR93.21m** / budget **-EUR1.78m** / OCMW cover **EUR3.60m** (tick1038) - not TE-additive
+- Note: Grobbendonk/Hulshout residual next; Torhout news-only; Stekene 404; Balen OCR; progress@1040 next tick (decade)
+- Wrote: budgets +57 (bud_her_*); commitments +6; leaderboard +8; sources +1; entity city_herselt; FOI **gap_her_ocmw_pension_budget_toelagen_l5** prio9 ready + draft; key only (PDF ~4.7MB not stored in git); rq_1039=done; spawn **rq_1040**; ticks=1039
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1040** residual dual L5 + **decade progress@1040**; deferred **rq_116**
+
