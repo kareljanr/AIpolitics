@@ -21883,3 +21883,54 @@ bud_wev_fin_income_2025,city_wevelgem,2025,5829917,,,realized,src_wevelgem_jr202
 bud_wev_herwaardering_fva_2025,city_wevelgem,2025,23486097,,,realized,src_wevelgem_jr2025,strong,Herwaardering FVA IGS +23.5m FOI; tick956
 bud_wev_financing_saldo_2025,city_wevelgem,2025,-605369,,,realized,src_wevelgem_jr2025,strong,Financieringssaldo -0.605m; tick956
 bud_wev_debt_per_capita_2025,city_wevelgem,2025,1505,,,derived,src_wevelgem_jr2025,strong,Schuld per inwoner 1505 EUR (risk note; VIPA/Fluvius adj 1275); tick956
+bud_kuu_assets_2025,city_kuurne,2025,97388866,,,realized,src_kuurne_jr2025,strong,Total assets YE2025 97.4m; tick957
+bud_kuu_equity_2025,city_kuurne,2025,60235438,,,realized,src_kuurne_jr2025,strong,Nettoactief YE2025 60.2m; tick957
+bud_kuu_debt_total_2025,city_kuurne,2025,37153428,,,realized,src_kuurne_jr2025,strong,Total schulden YE2025 37.2m; tick957
+bud_kuu_fin_debt_2025,city_kuurne,2025,21960609,,,jaarrekening_realized,src_kuurne_jr2025,strong,T4 total financiele schulden YE2025 22.0m DECLINING (was 22.2m) FOI; tick957
+bud_kuu_fin_debt_lt_2025,city_kuurne,2025,19891426,,,realized,src_kuurne_jr2025,strong,Financiele schulden LT YE2025 19.9m; tick957
+bud_kuu_fin_debt_st_due_2025,city_kuurne,2025,2069183,,,realized,src_kuurne_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.07m; tick957
+bud_kuu_fin_debt_2024,city_kuurne,2025,22182408,,,realized,src_kuurne_jr2025,strong,T4 fin debt YE2024 22.2m comparator; tick957
+bud_kuu_new_loans_2025,city_kuurne,2025,1793114,,,realized,src_kuurne_jr2025,strong,Nieuwe leningen/lease 1.79m (classic 2.9m planned NOT drawn FOI); tick957
+bud_kuu_aflossingen_2025,city_kuurne,2025,2014914,,,realized,src_kuurne_jr2025,strong,Periodieke aflossingen 2.01m; tick957
+bud_kuu_cash_2025,city_kuurne,2025,1700929,,,realized,src_kuurne_jr2025,strong,Liquide middelen YE2025 1.70m LOW DECLINING FOI (was 3.28m); tick957
+bud_kuu_cash_2024,city_kuurne,2025,3280705,,,realized,src_kuurne_jr2025,strong,Liquide middelen YE2024 3.28m comparator; tick957
+bud_kuu_pension_prov_2025,city_kuurne,2025,6426287,,,realized,src_kuurne_jr2025,strong,Pensioenvoorzieningen YE2025 6.43m RISING FOI; tick957
+bud_kuu_pension_prov_2024,city_kuurne,2025,6007275,,,realized,src_kuurne_jr2025,strong,Pensioenvoorzieningen YE2024 6.01m; tick957
+bud_kuu_prov_st_2025,city_kuurne,2025,1399409,,,realized,src_kuurne_jr2025,strong,Voorzieningen ST YE2025 1.40m; tick957
+bud_kuu_fva_total_2025,city_kuurne,2025,20430425,,,realized,src_kuurne_jr2025,strong,Financiele vaste activa YE2025 20.4m; tick957
+bud_kuu_fva_igs_2025,city_kuurne,2025,18031323,,,realized,src_kuurne_jr2025,strong,FVA IGS YE2025 18.0m FOI; tick957
+bud_kuu_mva_2025,city_kuurne,2025,67472292,,,realized,src_kuurne_jr2025,strong,Materiele vaste activa YE2025 67.5m; tick957
+bud_kuu_leasing_mva_2025,city_kuurne,2025,4461053,,,realized,src_kuurne_jr2025,strong,Leasing MVA gemeenschap 4.46m (sport+verlichting) FOI; tick957
+bud_kuu_cap_subs_2025,city_kuurne,2025,12810612,,,realized,src_kuurne_jr2025,strong,Kapitaalssubsidies YE2025 12.8m; tick957
+bud_kuu_expl_rec_2025,city_kuurne,2025,30190795,,,realized,src_kuurne_jr2025,strong,Exploitatieontvangsten 30.2m; tick957
+bud_kuu_expl_exp_2025,city_kuurne,2025,26690456,,,realized,src_kuurne_jr2025,strong,Exploitatieuitgaven 26.7m; tick957
+bud_kuu_expl_saldo_2025,city_kuurne,2025,3500339,,,realized,src_kuurne_jr2025,strong,Exploitatiesaldo +3.50m; tick957
+bud_kuu_invest_exp_2025,city_kuurne,2025,5983458,,,realized,src_kuurne_jr2025,strong,Investeringsuitgaven 5.98m (MJP 7.15m; carryover 2.24m FOI); tick957
+bud_kuu_invest_rec_2025,city_kuurne,2025,1025189,,,realized,src_kuurne_jr2025,strong,Investeringsontvangsten 1.03m; tick957
+bud_kuu_invest_saldo_2025,city_kuurne,2025,-4958269,,,realized,src_kuurne_jr2025,strong,Investeringssaldo -4.96m; tick957
+bud_kuu_mjp_invest_planned_2025,city_kuurne,2025,7146956,,,realized,src_kuurne_jr2025,strong,MJP planned invest 7.15m vs realized 5.98m FOI; tick957
+bud_kuu_invest_carryover_2026,city_kuurne,2025,2240000,,,realized,src_kuurne_jr2025,strong,Invest carryover to 2026 ~2.24m FOI; tick957
+bud_kuu_afm_2025,city_kuurne,2025,1580085,,,realized,src_kuurne_jr2025,strong,AFM +1.58m; tick957
+bud_kuu_afm_corr_2025,city_kuurne,2025,1820406,,,realized,src_kuurne_jr2025,strong,Gecorrigeerde AFM +1.82m; tick957
+bud_kuu_bbr_2025,city_kuurne,2025,1519644,,,realized,src_kuurne_jr2025,strong,Beschikbaar budgettair resultaat 1.52m; tick957
+bud_kuu_budget_result_2025,city_kuurne,2025,-1724283,,,realized,src_kuurne_jr2025,strong,Budgettair resultaat boekjaar -1.72m NEG LARGE FOI; tick957
+bud_kuu_cum_br_2025,city_kuurne,2025,1519644,,,realized,src_kuurne_jr2025,strong,Gecumuleerd budgettair resultaat 1.52m; tick957
+bud_kuu_pnl_result_2025,city_kuurne,2025,429800,,,realized,src_kuurne_jr2025,strong,P&L boekjaar +0.430m; tick957
+bud_kuu_personnel_2025,city_kuurne,2025,14269062,,,realized,src_kuurne_jr2025,strong,Personeelskosten 14.3m; tick957
+bud_kuu_toelagen_2025,city_kuurne,2025,4767587,,,realized,src_kuurne_jr2025,strong,Toegestane werkingssubsidies 4.77m FOI named; tick957
+bud_kuu_toelagen_police_2025,city_kuurne,2025,2335086,,,realized,src_kuurne_jr2025,strong,Toelagen PZ Vlas 2.34m; tick957
+bud_kuu_toelagen_hvz_2025,city_kuurne,2025,493960,,,realized,src_kuurne_jr2025,strong,Toelagen HVZ Fluvia 0.494m; tick957
+bud_kuu_toelagen_igs_2025,city_kuurne,2025,1215557,,,realized,src_kuurne_jr2025,strong,Toelagen IGS 1.22m FOI (IMOG/Farys); tick957
+bud_kuu_toelagen_kerk_2025,city_kuurne,2025,114747,,,realized,src_kuurne_jr2025,strong,Toelagen eredienst 0.115m; tick957
+bud_kuu_toelagen_other_2025,city_kuurne,2025,563053,,,realized,src_kuurne_jr2025,strong,Toelagen andere begunstigden 0.563m FOI; tick957
+bud_kuu_invest_subs_granted_2025,city_kuurne,2025,77196,,,realized,src_kuurne_jr2025,strong,Toegestane investeringssubsidies 0.077m; tick957
+bud_kuu_ocmw_aid_2025,city_kuurne,2025,1447512,,,realized,src_kuurne_jr2025,strong,Individuele hulpverlening OCMW 1.45m; tick957
+bud_kuu_ocmw_cover_2025,city_kuurne,2025,1920326,,,realized,src_kuurne_jr2025,strong,Tussenkomst gemeente aan OCMW 1.92m FOI (BBR OCMW neg); tick957
+bud_kuu_fiscal_2025,city_kuurne,2025,14213020,,,realized,src_kuurne_jr2025,strong,Fiscale opbrengsten 14.2m; tick957
+bud_kuu_fin_costs_2025,city_kuurne,2025,586629,,,realized,src_kuurne_jr2025,strong,Financiele kosten 0.587m; tick957
+bud_kuu_goederen_2025,city_kuurne,2025,5445587,,,realized,src_kuurne_jr2025,strong,Goederen en diensten 5.45m; tick957
+bud_kuu_farys_loan_granted_2025,city_kuurne,2025,139000,,,realized,src_kuurne_jr2025,strong,Toegestane lening Farys invest 0.139m FOI dual; tick957
+bud_kuu_lease_sport_farys_2025,city_kuurne,2025,280000,,,realized,src_kuurne_jr2025,strong,Aflossing leasing sportpark via Farys 0.280m FOI dual; tick957
+bud_kuu_lease_fluvius_2025,city_kuurne,2025,106000,,,realized,src_kuurne_jr2025,strong,Aflossing leasing openbare verlichting Fluvius 0.106m FOI; tick957
+bud_kuu_financing_saldo_2025,city_kuurne,2025,-266353,,,realized,src_kuurne_jr2025,strong,Financieringssaldo -0.266m; tick957
+bud_kuu_classic_loans_not_drawn_2025,city_kuurne,2025,2901000,,,budgeted,src_kuurne_jr2025,strong,Geplande klassieke leningen NIET opgenomen 2.90m FOI; tick957

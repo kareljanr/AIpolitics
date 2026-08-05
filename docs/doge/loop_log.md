@@ -12180,3 +12180,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +53 (bud_wev_*); commitments +5; leaderboard +7; sources +2; entity city_wevelgem; FOI **gap_wev_ocmw_toelagen_fva_debt_l5** prio8 ready + draft; key only (PDF ~8MB not stored); rq_956=done; spawn **rq_957**; ticks=956
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_957** residual dual L5 (Lendelede / Ledegem / Torhout full BBC if published / Meulebeke / Roeselare); deferred **rq_116**; progress@960 in 4
+
+
+### Tick 957 - 2026-08-08T06:00:00Z
+
+- Unit: **rq_957** (FOI-adjacent residual dual - **Gemeente+OCMW Kuurne Jaarrekening 2025** + Wevelgem dual residual)
+- Found (strong primary BBC JR2025 122p; KBO 0207.430.342 / OCMW 0212.190.468; GR/OCMW 30.04.2026 pub 08.05.2026):
+  - Assets **EUR97.4m** / equity **EUR60.2m** / debt total **EUR37.2m** / fin debt **EUR22.0m** (**DECLINING** from **EUR22.2m**; LT **EUR19.9m** / ST due **EUR2.07m**)
+  - New loans/lease **EUR1.79m** / classic loans planned **EUR2.90m NOT drawn FOI** / repayments **EUR2.01m**
+  - Cash **EUR1.70m LOW DECLINING** (was EUR3.28m FOI) / pension **EUR6.43m RISING** / FVA IGS **EUR18.0m**
+  - Exploitatie: ontvangsten **EUR30.2m** / uitgaven **EUR26.7m** / saldo **+EUR3.50m**
+  - AFM **+EUR1.58m** (gecorr **+EUR1.82m**) / BBR **EUR1.52m** / budget **-EUR1.72m LARGE FOI** / P&L **+EUR0.430m**
+  - Personnel **EUR14.3m** / toelagen **EUR4.77m** (PZ Vlas **EUR2.34m** / HVZ **EUR0.49m** / IGS **EUR1.22m** / other **EUR0.56m FOI**)
+  - Invest **EUR5.98m** / carryover **EUR2.24m FOI** / **OCMW cover EUR1.92m FOI**
+  - **Farys dual**: loan granted **EUR0.139m** / sport lease repay **EUR0.280m** / toelage+prijssub jump FOI
+- Dual: Wevelgem **EUR305.1m** / cash **EUR19.3m** / OCMW cover **EUR6.93m** (tick956) - not TE-additive
+- Note: Lendelede JR2025 PDF (~66MB) custom-font garbled extract — skipped; Torhout still no full BBC PDF
+- Wrote: budgets +51 (bud_kuu_*); commitments +5; leaderboard +7; sources +2; entity city_kuurne; FOI **gap_kuu_cash_budget_ocmw_farys_l5** prio8 ready + draft; key only; rq_957=done; spawn **rq_958**; ticks=957
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_958** residual dual L5 (Lendelede if extractable / Ledegem / Torhout / Meulebeke / Moorslede); deferred **rq_116**; progress@960 in 3

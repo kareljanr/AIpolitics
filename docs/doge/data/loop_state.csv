@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T05:00:00Z,rq_956,956,no,tick956 Wevelgem JR2025 dual residual; FOI gap_wev_ocmw_toelagen_fva_debt_l5 prio8 assets 305.1m fin debt 48.1m declining OCMW cover 6.93m toelagen 8.77m FVA IGS herwaard; next residual dual L5 rq_957; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T06:00:00Z,rq_957,957,no,tick957 Kuurne JR2025 dual residual; FOI gap_kuu_cash_budget_ocmw_farys_l5 prio8 assets 97.4m cash 1.70m LOW budget -1.72m OCMW 1.92m Farys dual; next residual dual L5 rq_958; rq_116 deferred
