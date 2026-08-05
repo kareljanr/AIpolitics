@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **860** (2026-08-06) · **~3883** leaderboard rows  
+**As-of:** tick **870** (2026-08-06) · **~3946** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Lommel **€432m** / Waregem **€346m** / Genk pension **€313m** / Dendermonde pension release **€28.5m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt stocks Geraardsbergen **€51m** / Aarschot **€43m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Lokeren **€382m** / Koksijde **€330m** / Diest pension **€115m** / Zottegem debt **€50m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt stocks Poperinge **€46m** / Halle **€30m** / Bocholt IGS reval **€40m**.
 
-**Change vs tick 850:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 851–859 (off pure top10 / dual):** VL mid-cities Ieper **€333m** (AFM **+€16m**, onbeschikbaar **€27m**) / Landen **€101m** (debt intensity **~27%**) / Izegem **€204m** (named DOC2 toelagen, Farys **€9.8m**) / Waregem **€346m** (AFM **+€11m**, pension **€37m**) / Dendermonde **€258m** (pension **€60→32m**, P&L **+€24m**, new loans **€10m**) / Lommel **€432m** (cash **€29m**, FVA IGS reval **€30→61m**, invest **€25m**) / Heist **€233m** (AFM **+€11m**, invest-subs **€5.2m**) / Geraardsbergen **€159m** (debt **~32%** assets) / Aarschot **€172m** (new loans **€9.8m**). Gain is **VL mid-city L5 residual + FOI-adjacent one-offs** more than FFS reshuffle.
+**Change vs tick 860:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 861–869 (off pure top10 / dual):** VL mid-cities Koksijde **€330m** (new loans **€24.5m**, fiscal **€58m**, AFM **+€10.3m**) / Oudenaarde **€279m** (bank new **€12.5m**, AFM **+€1.5m**) / Vilvoorde **€276m** (AFM **+€12.6m**, IGS reval **€32m**) / Poperinge **€188m** (debt **~25%** assets) / Lokeren **€382m** (**AGB loans €16.7m**, BBR **€45m**) / Diest **€212m** (**pension €115m**, IGS reval **€29m**) / Halle **€289m** (AFM **+€11m**, MJP2027 bank plan **€22.5m**) / Bocholt **€131m** (IGS reval **€40m**, AGB BBR **−€2.4m**) / Zottegem **€167m** (fin debt **€50m** declining, ST treasury **€2.75m**). Gain is **VL mid-city L5 residual + FOI-adjacent AGB/IGS/pension/loan-path** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,14 +39,13 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_isi_bank_inquiry_collection_gap_2_26bn` | **stock gap** | **8.0** | 2.26bn uncollected class |
-| — | `lb_mog2_capex_7_8bn_2024` | **stock** | **~8.2** | 7–8bn CAPEX |
-| — | `lb_dd_pension_release_28m_2025` | **one-off stock** | **~6.75** | **NEW 855** Dendermonde pension drop |
-| — | `lb_lm_fva_igs_reval_2025` | **stock reval** | **~6.25** | **NEW 856** Lommel IGS reval |
-| — | `lb_gb_fin_debt_51m_2025` | **stock** | **~6.25** | **NEW 858** Geraardsbergen debt intensity |
-| — | `lb_hb_invest_subs_5m_2025` | **5.2 m** | **~5.75** | **NEW 857** Heist invest-subs jump |
-| — | `lb_aa_fin_debt_43m_2025` | **stock** | **~5.5** | **NEW 859** Aarschot debt + new loans |
-| — | `lb_ie_onbeschikbaar_27m_2025` | **stock** | **~6.0** | **NEW 851** Ieper unavailable funds |
+| — | `lb_lo_agb_loans_17m_2025` | **16.7 m** | **~7.0** | **NEW 865** Lokeren AGB loans |
+| — | `lb_di_pension_115m_2025` | **stock** | **~7.5** | **NEW 866** Diest pension stock |
+| — | `lb_kx_fin_debt_78m_2025` | **stock** | **~6.5** | **NEW 861** Koksijde debt jump |
+| — | `lb_ha_fin_debt_30m_2025` | **stock** | **~6.0** | **NEW 867** Halle + MJP27 path |
+| — | `lb_zo_fin_debt_50m_2025` | **stock** | **~6.25** | **NEW 869** Zottegem elevated debt |
+| — | `lb_bo_igs_reval_40m_2025` | **stock reval** | **~5.75** | **NEW 868** Bocholt IGS reval |
+| — | `lb_vv_igs_reval_32m_2025` | **stock reval** | **~6.0** | **NEW 863** Vilvoorde IGS reval |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -58,11 +57,11 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_dd_pension_release_28m_2025` | **7.0** | **NEW 855** pension release drives P&L |
-| `lb_lm_fva_igs_reval_2025` | **6.5** | **NEW 856** IGS reval jump |
-| `lb_hb_invest_subs_5m_2025` | **6.5** | **NEW 857** invest-subs ~9× YoY |
-| `lb_gb_fin_debt_51m_2025` | **6.5** | **NEW 858** debt ~32% assets |
-| `lb_ie_onbeschikbaar_27m_2025` | **6.5** | **NEW 851** cash 74m vs BBR lock |
+| `lb_di_pension_115m_2025` | **7.0** | **NEW 866** extreme local pension stock |
+| `lb_lo_agb_loans_17m_2025` | **7.0** | **NEW 865** AGB loans drive cash drop |
+| `lb_kx_fin_debt_78m_2025` | **6.5** | **NEW 861** coastal debt jump vs high AFM |
+| `lb_bo_igs_reval_40m_2025` | **5.5** | **NEW 868** IGS reval + AGB BBR gap |
+| `lb_zo_fin_debt_50m_2025` | **6.0** | **NEW 869** elevated debt + ST treasury |
 
 ### Methodology notes
 

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 870** (2026-08-06)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL city JR2025 residual 861-869: Koksijde **EUR330m** / Oudenaarde **EUR279m** / Vilvoorde **EUR276m** / Poperinge **EUR188m** / Lokeren **EUR382m** / Diest **EUR212m** / Halle **EUR289m** / Bocholt **EUR131m** / Zottegem **EUR167m** · prior Ieper-Aarschot stack + large cities retained |
+| **D. L5 named / measure end-lines** | **~66-80%** of TE (generous) | **Gain 860-870 is VL mid-city L5 residual hole-fill (not near-complete of 348bn):** personnel Koksijde **EUR41m** / Oudenaarde **EUR41m** / Vilvoorde **EUR61m** / Poperinge **EUR29m** / Lokeren **EUR51m** / Diest **EUR33m** / Halle **EUR44m** / Bocholt **EUR11m** / Zottegem **EUR37m** · AFM spectrum Vilvoorde **+EUR12.6m** / Halle **+EUR11.0m** / Koksijde **+EUR10.3m** / Lokeren **+EUR8.4m** / Diest **+EUR6.9m** / Zottegem **+EUR6.5m** / Bocholt **+EUR3.1m** / Poperinge **+EUR2.0m** / Oudenaarde **+EUR1.5m** · FOI-adjacent: Koksijde new loans **EUR24.5m** · Lokeren **AGB loans EUR16.7m** / cash drop **EUR50to37m** · Diest **pension EUR115m** / IGS reval **EUR5to29m** · Vilvoorde/Bocholt **IGS reval FVA EUR32m/40m** · Poperinge debt intensity **~25%** · Zottegem fin debt **EUR50m** declining + ST treasury **EUR2.75m** · Halle MJP2027 bank plan **EUR22.5m** · Oudenaarde bank new **EUR12.5m** |
+| **E. FOI-ready gaps** | **~566** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~607** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Lokeren **EUR382m** / Koksijde **EUR330m** / Diest pension **EUR115m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 870)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~18593 |
+| commitments.csv | ~2453 |
+| leaderboard.csv | ~3946 |
+| entities.csv | ~608 |
+| sources.csv | ~1714 |
+| FOI ready | ~566 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~607 |
+| research_queue open | rq_116 deferred + rq_871 hole-fill after progress |
+
+### What improved since tick 860
+
+- **VL city JR2025 residual (tick861-869):** Koksijde assets **EUR330m** / fin debt **EUR78m** / new loans **EUR24.5m** / AFM **+EUR10.3m** / coastal fiscal **EUR58m** · Oudenaarde **EUR279m** / fin debt **EUR42m** / bank new **EUR12.5m** / AFM **+EUR1.5m** · Vilvoorde **EUR276m** / AFM **+EUR12.6m** / **FVA IGS reval EUR0.5to32m** / MJP loans plan **EUR12+5m** · Poperinge **EUR188m** / fin debt **EUR46m** (~**25%** assets) / AFM **+EUR2.0m** / AGB GAFM **EUR-0.6m** · Lokeren **EUR382m** / AFM **+EUR8.4m** / BBR **EUR45m** / **AGB loans granted EUR16.7m** / building sales **EUR20.8m** · Diest **EUR212m** / **pension EUR115m** / IGS reval **EUR5to29m** / AFM **+EUR6.9m** / MJP bank plan **EUR13.5+5m** · Halle **EUR289m** / AFM **+EUR11.0m** / fin debt **EUR30m** / MJP2027 bank plan **EUR22.5m** · Bocholt **EUR131m** / IGS reval **EUR19to40m** / AGB consol BBR **EUR-2.4m** / AFM **+EUR3.1m** · Zottegem **EUR167m** / fin debt **EUR50m** declining / ST treasury **EUR2.75m** / AFM **+EUR6.5m** / no new LT loans.
+- **Dual map:** coastal fiscal/AFM (Koksijde) vs inland modest AFM+loan draw (Oudenaarde) · high AFM+IGS reval (Vilvoorde) vs debt intensity (Poperinge) · AGB intra-group financing (Lokeren) vs pension-heavy equity thinness (Diest) · top-tier AFM+planned loans (Halle) vs IGS reval+AGB BBR gap (Bocholt) · elevated declining debt (Zottegem).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 860** (2026-08-06)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

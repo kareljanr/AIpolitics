@@ -10754,3 +10754,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43; commitments +4; leaderboard +7; sources +2; entity city_zottegem; FOI **gap_zottegem_debt_st_l5** prio7 ready + draft; raw PDF+extract; rq_869=done; spawn **rq_870** progress@870 + **rq_871**; ticks=869
 - FOI: ready only - **do not send**
 - Next: **progress@870 NEXT** (prio10 rq_870); then prio5 **rq_871** residual dual L5; deferred **rq_116**
+
+## Tick 870 - 2026-08-06T08:00:00Z
+
+- Unit: **rq_870** (mandatory **progress@870** - coverage % layers A-E + waste top10)
+- Found / assessed (no new primary euros this tick - inventory refresh after ticks 861-869):
+  - **A L0:** **100%** (EUR347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL mid-cities Koksijde **EUR330m** / Oudenaarde **EUR279m** / Vilvoorde **EUR276m** / Poperinge **EUR188m** / Lokeren **EUR382m** / Diest **EUR212m** / Halle **EUR289m** / Bocholt **EUR131m** / Zottegem **EUR167m**)
+  - **D L5:** ~**66-80%** generous - gain 861-869: city personnel **EUR41/41/61/29/51/33/44/11/37m** · AFM spectrum **+EUR1.5m to +EUR12.6m** · Koksijde new loans **EUR24.5m** / fiscal **EUR58m** · Lokeren AGB loans **EUR16.7m** · Diest pension **EUR115m** · Vilvoorde/Bocholt IGS reval **EUR32m/40m** · Poperinge debt intensity **~25%** · Zottegem debt **EUR50m** declining + ST **EUR2.75m** · Halle MJP2027 bank plan **EUR22.5m**
+  - **E FOI ready:** ~**566** (answered ~9; partial ~27; total ~607)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reportAc #2-10; stocks filtered (Metro3, OWV, city/IGS/pension/AGB loan stocks)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_870=done; next **rq_871**; loop_state ticks=870
+- FOI: none new this tick
+- Next: prio5 **rq_871** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/VUB/skeyes); deferred **rq_116**; progress@880 in 10
