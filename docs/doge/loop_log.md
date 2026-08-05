@@ -14142,3 +14142,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1060** residual dual L5 + decade progress; deferred **rq_116**; progress@1060
 
+
+### Tick 1060 - 2026-08-10T19:15:00Z
+
+- Unit: **rq_1060** (FOI-adjacent residual dual - **Lokaal Bestuur Maasmechelen Jaarrekening 2025** + SKW dual residual; Torhout portal empty / Nijlen login-walled)
+- Found (strong primary BBC JR2025 official PDF; pub 05.06.2026; print 12.05.2026; KBO GE 0207.691.351 / OCMW 0212.335.869; Heirstraat 239 / Binnenhof 2 3630; AD Sabine Bervaes FD Bart Tulleners BM Raf Terwingen; GE+OCMW):
+  - Assets **EUR366.27m JUMP** / equity **EUR263.56m JUMP** / debt total **EUR102.71m JUMP** / fin debt **EUR54.53m JUMP HIGH FOI** (LT **EUR50.09m** / ST due **EUR4.44m**; was **EUR40.55m**)
+  - New loans **EUR18.37m MASSIVE JUMP FOI** (bank **EUR17.34m** + other **EUR1.03m**) / repayments **EUR4.39m**
+  - Cash **EUR18.92m JUMP** / pension **EUR26.06m DROP FOI** (was **EUR30.89m**, -**EUR4.83m**) / FVA IGS **EUR83.18m JUMP** reval **+EUR38.31m** / leasing MVA **EUR6.70m**
+  - Exploitatie: ontvangsten **EUR87.08m** / uitgaven **EUR77.56m** / saldo **+EUR9.52m STRONG**
+  - AFM **+EUR5.51m VERY STRONG** (gecorr **+EUR6.65m**) / BBR **EUR11.68m VERY HIGH FOI** / budget **+EUR3.32m** / cum BR **EUR15.55m** / P&L **+EUR7.94m**
+  - Personnel **EUR40.08m** / toelagen **EUR15.03m FOI** (police **EUR5.97m JUMP** / fire **EUR1.59m** / IGS **EUR2.19m** / other **EUR4.72m** werk **2.27** afval **2.17**)
+  - Invest **EUR22.37m** vs MJP **EUR38.21m UNDERSPEND FOI**
+  - **OCMW structural gap EUR3.71m** / **cover EUR4.04m FULL FOI** (J3 exp **EUR24.53m** / rec **EUR20.81m**)
+- Dual: SKW assets **EUR139.10m** / BBR **EUR12.79m** / OCMW gap **EUR4.78m** (tick1059) - not TE-additive
+- Note: Torhout full BBC (portal empty) / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Grimbergen / Leopoldsburg residual next; **decade progress@1060 done**
+- Wrote: budgets +52 (bud_maa_*); commitments +8; leaderboard +9; sources +1; entity city_maasmechelen; FOI **gap_maa_loans_ocmw_toelagen_bbr_l5** prio9 ready + draft; PDF primary (not committed); rq_1060=done; spawn **rq_1061**; ticks=1060; **progress@1060** refreshed
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1061** residual dual L5; deferred **rq_116**; progress@1070
+

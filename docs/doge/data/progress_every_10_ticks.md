@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1060** (2026-08-10)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1051-1060: Essen / Berlaar / Denderleeuw / Eeklo / Maldegem / SKW **EUR139.1m** / **Maasmechelen EUR366.3m** · prior 1041-1050 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1051-1060 is VL residual dual L5 (not near-complete of 348bn):** personnel Maasmechelen **EUR40.08m** / SKW **EUR23.55m** / Eeklo **EUR25.13m** / Maldegem **EUR20.49m** · FOI-adjacent: **Maasmechelen fin debt EUR54.53m JUMP** / new loans **EUR18.37m MASSIVE** / BBR **EUR11.68m VERY HIGH** / OCMW cover **EUR4.04m FULL** gap **EUR3.71m** / toelagen **EUR15.03m** police **EUR5.97m** / invest **EUR22.37 vs MJP EUR38.21m UNDERSPEND** / pension DROP **EUR26.06m (−4.83m)** / FVA IGS reval **+EUR38.31m** · **SKW BBR EUR12.79m** / OCMW gap **EUR4.78m** / invest **EUR6.65 vs MJP EUR20.73m** · **Maldegem loans EUR10.15m** / OCMW gap **EUR5.46m** · **Eeklo Farys fin debt EUR33.19m** / AFM **−EUR2.19m** / loans **EUR24.13m** · **Denderleeuw cash DROP EUR6.03m** / budget **−EUR4.19m** · **Berlaar BBR EUR10.06m** |
+| **E. FOI-ready gaps** | **~710** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~752** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Maasmechelen EUR366m** / SKW **EUR139m** / Eeklo **EUR138m** / Maldegem **EUR135m** / prior dual stack retained not full TE) · **AGB dual AFM near-zero/NEG** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1060)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~26862 |
+| commitments.csv | ~3325 |
+| leaderboard.csv | ~5237 |
+| entities.csv | ~779 |
+| sources.csv | ~1973 |
+| FOI ready | ~710 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~752 |
+| research_queue open | rq_116 deferred + rq_1061 hole-fill after progress |
+
+### What improved since tick 1050
+
+- **VL residual dual JR2025 (tick1051-1060):** Essen / Berlaar / Denderleeuw / Eeklo / Maldegem / Sint-Katelijne-Waver · **Maasmechelen EUR366.3m** / fin debt JUMP **EUR54.53m** / loans **EUR18.37m** / BBR **EUR11.68m** / OCMW cover **EUR4.04m FULL** / toelagen **EUR15.03m** police **EUR5.97m** / invest underspend **EUR22.37 vs MJP EUR38.21m** / pension DROP **EUR26.06m** · **SKW BBR EUR12.79m** / OCMW gap **EUR4.78m** / invest **EUR6.65 vs MJP EUR20.73m** · **Maldegem loans EUR10.15m** / OCMW gap **EUR5.46m** · **Eeklo Farys debt EUR33.19m** / AFM **−EUR2.19m** · **Denderleeuw cash DROP / budget −EUR4.19m**.
+- **Dual map:** JUMP-loan cluster (Maasmechelen **EUR18.37m** / Eeklo **EUR24.13m** / Maldegem **EUR10.15m**) vs HIGH-BBR low-loan (SKW **EUR12.79m** / Berlaar **EUR10.06m**) · FULL OCMW-cover (Maasmechelen **EUR4.04m**) vs structural-gap-only (SKW **EUR4.78m** / Maldegem **EUR5.46m** / Denderleeuw **EUR2.84m**) · Farys/leasing reclass path (Eeklo).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1050** (2026-08-10)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

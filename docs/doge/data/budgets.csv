@@ -26809,3 +26809,55 @@ bud_skw_gemeentefonds_2025,city_sint_katelijne_waver,2025,5589045,,,bbc_jr_reali
 bud_skw_interest_2025,city_sint_katelijne_waver,2025,191705,,,bbc_jr_realized,src_skw_jr2025,strong,Rente banken+andere ~0.192m (159k+32k); tick1059
 bud_skw_invest_subs_granted_2025,city_sint_katelijne_waver,2025,796535,,,bbc_jr_realized,src_skw_jr2025,strong,Toegestane invest-subs J5 0.797m JUMP; tick1059
 bud_skw_vorderingen_kt_2025,city_sint_katelijne_waver,2025,4202952,,,bbc_jr_realized,src_skw_jr2025,strong,Vorderingen KT YE2025 4.20m; tick1059
+bud_maa_assets_2025,city_maasmechelen,2025,366270109,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Assets YE2025 366.27m JUMP (was 306.49m); tick1060
+bud_maa_equity_2025,city_maasmechelen,2025,263564631,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Nettoactief YE2025 263.56m JUMP (was 217.28m; FVA herwaard +38.31m); tick1060
+bud_maa_debt_total_2025,city_maasmechelen,2025,102705478,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Total schulden YE2025 102.71m JUMP (was 89.21m); tick1060
+bud_maa_fin_debt_2025,city_maasmechelen,2025,54529974,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Fin debt total YE2025 54.53m JUMP HIGH FOI (was 40.55m T4); tick1060
+bud_maa_fin_debt_lt_2025,city_maasmechelen,2025,50089805,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Fin debt LT YE2025 50.09m JUMP (was 36.32m); tick1060
+bud_maa_fin_debt_st_due_2025,city_maasmechelen,2025,4440169,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Fin debt ST due YE2025 4.44m; tick1060
+bud_maa_fin_debt_st_2025,city_maasmechelen,2025,0,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Fin debt ST treasury YE2025 0; tick1060
+bud_maa_new_loans_2025,city_maasmechelen,2025,18374218,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Nieuwe leningen/leasings 18.37m MASSIVE JUMP FOI (bank 17.34 + other 1.03); tick1060
+bud_maa_aflossingen_2025,city_maasmechelen,2025,4389641,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Periodieke aflossingen 4.39m; tick1060
+bud_maa_cash_2025,city_maasmechelen,2025,18917414,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Liquide middelen YE2025 18.92m JUMP (was 13.29m); tick1060
+bud_maa_pension_2025,city_maasmechelen,2025,26062502,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Pensioenvoorzieningen LT YE2025 26.06m DROP FOI (was 30.89m -4.83m); tick1060
+bud_maa_cap_subs_2025,city_maasmechelen,2025,28728005,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Kapitaalsubsidies YE2025 28.73m; tick1060
+bud_maa_fva_total_2025,city_maasmechelen,2025,91092486,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,FVA total YE2025 91.09m JUMP (was 51.92m); tick1060
+bud_maa_fva_igs_2025,city_maasmechelen,2025,83180114,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,FVA IGS YE2025 83.18m JUMP reval +38.31m FOI; tick1060
+bud_maa_fva_agb_2025,city_maasmechelen,2025,2950000,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,FVA AGB YE2025 2.95m (was 2.09m); tick1060
+bud_maa_leasing_mva_2025,city_maasmechelen,2025,6701497,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Leasing MVA YE2025 6.70m; tick1060
+bud_maa_cumul_budget_2025,city_maasmechelen,2025,15545325,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 15.55m; tick1060
+bud_maa_bbr_2025,city_maasmechelen,2025,11684034,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Beschikbaar budgettair resultaat YE2025 11.68m VERY HIGH FOI; tick1060
+bud_maa_onbeschikbaar_2025,city_maasmechelen,2025,3861291,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Onbeschikbare gelden YE2025 3.86m; tick1060
+bud_maa_expl_rec_2025,city_maasmechelen,2025,87082283,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Exploitatieontvangsten 87.08m 2025 (J2); tick1060
+bud_maa_expl_exp_2025,city_maasmechelen,2025,77559110,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Exploitatieuitgaven 77.56m 2025 (J2); tick1060
+bud_maa_expl_saldo_2025,city_maasmechelen,2025,9523173,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Exploitatiesaldo +9.52m STRONG 2025; tick1060
+bud_maa_invest_exp_2025,city_maasmechelen,2025,22374991,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Investeringsuitgaven J2 22.37m (invest 22.15 + invest-subs 0.23) vs MJP 38.21m UNDERSPEND FOI; tick1060
+bud_maa_invest_rec_2025,city_maasmechelen,2025,2484344,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Investeringsontvangsten J2 2.48m vs MJP 8.94m shortfall FOI; tick1060
+bud_maa_invest_saldo_2025,city_maasmechelen,2025,-19890647,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Investeringssaldo -19.89m 2025; tick1060
+bud_maa_fin_saldo_2025,city_maasmechelen,2025,13690790,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Financieringssaldo +13.69m (loan-driven) 2025; tick1060
+bud_maa_budget_result_2025,city_maasmechelen,2025,3323315,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Budgettair resultaat boekjaar +3.32m 2025; tick1060
+bud_maa_afm_2025,city_maasmechelen,2025,5507424,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Autofinancieringsmarge +5.51m VERY STRONG 2025; tick1060
+bud_maa_afm_gecorr_2025,city_maasmechelen,2025,6653433,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Gecorrigeerde AFM +6.65m 2025; tick1060
+bud_maa_pl_2025,city_maasmechelen,2025,7944114,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,P&L overschot +7.94m 2025; tick1060
+bud_maa_personnel_2025,city_maasmechelen,2025,40079601,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Bezoldigingen 40.08m 2025 (was 40.58m slight DROP; onderwijs other 4.74m); tick1060
+bud_maa_personnel_onderwijs_other_2025,city_maasmechelen,2025,4737060,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Onderwijzend personeel ten laste van andere 4.74m 2025; tick1060
+bud_maa_toelagen_2025,city_maasmechelen,2025,15029614,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toegestane werkingssubsidies 15.03m JUMP FOI 2025; tick1060
+bud_maa_toelagen_police_2025,city_maasmechelen,2025,5970944,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelage politiezone 5.97m JUMP FOI (was 5.41m); tick1060
+bud_maa_toelagen_fire_2025,city_maasmechelen,2025,1593358,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelage hulpverleningszone 1.59m 2025; tick1060
+bud_maa_toelagen_igs_2025,city_maasmechelen,2025,2188659,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelage IGS 2.19m 2025; tick1060
+bud_maa_toelagen_eredienst_2025,city_maasmechelen,2025,551925,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelage eredienst 0.552m 2025; tick1060
+bud_maa_toelagen_other_2025,city_maasmechelen,2025,4724728,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelagen andere 4.72m FOI (werkgelegenheid 2.27 + afval 2.17 SUB residual); tick1060
+bud_maa_toelagen_werkgelegenheid_2025,city_maasmechelen,2025,2272770,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelage werkgelegenheid 2.27m SUB 2025 FOI; tick1060
+bud_maa_toelagen_afval_2025,city_maasmechelen,2025,2173105,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toelage ophalen/verwerken afval 2.17m SUB 2025 FOI; tick1060
+bud_maa_ocmw_aid_2025,city_maasmechelen,2025,5958199,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Individuele hulpverlening OCMW 5.96m JUMP 2025; tick1060
+bud_maa_ocmw_gap_2025,city_maasmechelen,2025,3710772,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,OCMW structural gap expl 24.53-20.81=3.71m HIGH FOI; tick1060
+bud_maa_ocmw_cover_2025,city_maasmechelen,2025,4042468,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Tussenkomst gemeente in OCMW 4.04m FULL cover FOI; tick1060
+bud_maa_ocmw_cum_equity_2025,city_maasmechelen,2025,-985974,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,OCMW cum equity YE2025 -0.986m residual FOI; tick1060
+bud_maa_fiscal_2025,city_maasmechelen,2025,34061555,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Fiscale opbrengsten en boetes 34.06m 2025; tick1060
+bud_maa_fiscal_ov_2025,city_maasmechelen,2025,15334314,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Opcentiemen OV 15.33m 2025; tick1060
+bud_maa_fiscal_pb_2025,city_maasmechelen,2025,12148306,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Aanvullende PB 12.15m 2025; tick1060
+bud_maa_gemeentefonds_2025,city_maasmechelen,2025,16467839,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Gemeentefonds 16.47m 2025; tick1060
+bud_maa_interest_2025,city_maasmechelen,2025,1458166,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Rente banken+andere 1.46m 2025; tick1060
+bud_maa_invest_subs_granted_2025,city_maasmechelen,2025,228464,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toegestane invest-subs J5 0.228m 2025; tick1060
+bud_maa_vorderingen_kt_2025,city_maasmechelen,2025,13728185,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Vorderingen KT YE2025 13.73m; tick1060
+bud_maa_herwaard_reserves_2025,city_maasmechelen,2025,39098803,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Herwaarderingsreserves YE2025 39.10m JUMP (+38.31m FVA IGS); tick1060
