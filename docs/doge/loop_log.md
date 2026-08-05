@@ -11054,3 +11054,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_hzl_*); commitments +4; leaderboard +7; sources +2; entity city_herzele; FOI **gap_hzl_bbr_mjp_debt_pension_l5** prio8 ready + draft; raw PDF + key; rq_889=done; spawn **rq_890 progress@890 prio10**; ticks=889
 - FOI: ready only - **do not send**
 - Next: **progress@890 NEXT** (prio10 rq_890); then residual dual L5; deferred **rq_116**
+
+## Tick 890 - 2026-08-06T18:00:00Z
+
+- Unit: **rq_890** (mandatory **progress@890** - coverage % layers A-E + waste top10)
+- Found / assessed (no new primary euros this tick - inventory refresh after ticks 881-889):
+  - **A L0:** **100%** (EUR347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL residual Gavere **EUR84m** / As **EUR66m** / BKZ fusion **EUR815m** / Sint-Truiden **EUR303m** / Kinrooi **EUR83m** / Wemmel **EUR87m** / Zutendaal **EUR67m** / Baarle-Hertog **EUR21m** / Herzele **EUR83m**)
+  - **D L5:** ~**68-82%** generous - gain 881-889: BKZ personnel **EUR95m** / toelagen **EUR48.5m** / new loans **EUR13.3m** · ST FVA IGS reval **EUR56to104m** · Herzele **BBR -EUR2.65m** + **MJP debt ramp EUR5.8+3.8m** · Wemmel cash **EUR18m** + MJP ramp · pension jumps Kinrooi/Wemmel/Zutendaal/Herzele · As Riopact invest-subs · BH enclave cash-rich low-debt dual
+  - **E FOI ready:** ~**584** (answered ~9; partial ~27; total ~625)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reporté #2-10; stocks filtered (Metro3, OWV, city/IGS/pension/MJP/fusion debt stocks)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_890=done; next **rq_891**; loop_state ticks=890
+- FOI: none new this tick
+- Next: prio5 **rq_891** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/Olen/VUB/skeyes); deferred **rq_116**; progress@900 in 10

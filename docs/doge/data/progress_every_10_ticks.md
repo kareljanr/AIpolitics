@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 890** (2026-08-06)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 881-889: Gavere **EUR84m** / As **EUR66m** / BKZ fusion **EUR815m** / Sint-Truiden **EUR303m** / Kinrooi **EUR83m** / Wemmel **EUR87m** / Zutendaal **EUR67m** / Baarle-Hertog enclave **EUR21m** / Herzele **EUR83m** · prior Dilbeek-Lede + large stack retained |
+| **D. L5 named / measure end-lines** | **~68-82%** of TE (generous) | **Gain 880-890 is VL mid/small + fusion + enclave residual (not near-complete of 348bn):** personnel BKZ **EUR95m** / Herzele **EUR22m** / ST **EUR39m** / Wemmel **EUR22m** / Kinrooi **EUR17m** · AFM spectrum BKZ **+EUR25.4m** / Wemmel **+EUR4.4m** / ST **+EUR5.3m** / Kinrooi **+EUR3.1m** / Herzele **+EUR2.1m** (recovered) / As **+EUR2.0m** · FOI-adjacent: BKZ **new loans EUR13.3m** / **toelagen EUR48.5m** (other **EUR9.9m**) / **pension EUR35m** · ST **FVA IGS reval EUR56to104m** / **herwaard EUR48m** · As **FVA IGS reval EUR8to14m** / **Riopact invest-subs EUR0.55m** · Gavere **new loans EUR2.4m** · Kinrooi/Wemmel/Zutendaal/Herzele **pension jumps** · Wemmel **MJP debt ramp EUR4+2.5m** · **Herzele BBR -EUR2.65m** + **MJP debt ramp EUR5.8+3.8m** + cash drop · Zutendaal **P&L -EUR0.87m** / FVA reval · Baarle-Hertog high cash/low debt dual contrast |
+| **E. FOI-ready gaps** | **~584** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~625** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / BKZ **EUR815m** / ST **EUR303m** / Dilbeek **EUR221m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 890)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~19292 |
+| commitments.csv | ~2525 |
+| leaderboard.csv | ~4072 |
+| entities.csv | ~626 |
+| sources.csv | ~1750 |
+| FOI ready | ~584 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~625 |
+| research_queue open | rq_116 deferred + rq_891 hole-fill after progress |
+
+### What improved since tick 880
+
+- **VL city JR2025 residual (tick881-889):** Gavere assets **EUR84m** / new loans **EUR2.4m** / AFM **+EUR2.9m** · As **EUR66m** / **FVA IGS reval EUR8to14m** / **Riopact invest-subs EUR0.55m** / AFM **+EUR2.0m** · **BKZ fusion first-year EUR815m** / fin debt **EUR124m** / **new loans EUR13.3m** / personnel **EUR95m** / toelagen **EUR48.5m** / pension **EUR35m** / AFM **+EUR25.4m** · Sint-Truiden **EUR303m** / fin debt declining **EUR84m** / **FVA IGS reval EUR56to104m** / herwaard **EUR48m** / AFM **+EUR5.3m** · Kinrooi **EUR83m** / **pension jump EUR3.1to4.8m** / AFM **+EUR3.1m** · Wemmel **EUR87m** / cash **EUR18m** / **pension jump EUR7to9m** / **MJP debt ramp EUR4+2.5m** / AFM **+EUR4.4m** · Zutendaal **EUR67m** / **pension jump EUR4to6.7m** / **FVA IGS reval EUR9to18m** / **P&L -EUR0.87m** / AFM **+EUR3.0m** · Baarle-Hertog enclave **EUR21m** / cash **EUR6.7m** / fin debt **EUR0.29m** / AFM **+EUR1.0m** · Herzele **EUR83m** / **BBR -EUR2.65m** / fin debt **EUR32m** / **MJP debt ramp EUR5.8+3.8m** / pension **EUR11.5m** / cash drop **EUR3.3to1.4m** / AFM recovered **+EUR2.1m**.
+- **Dual map:** fusion mega-balance (BKZ) vs Limburg mid (ST) · FVA reval path (As/ST/Zutendaal) · pension jumps cluster · enclave cash-rich low-debt (BH) vs stressed BBR+debt ramp (Herzele) · high-cash Wemmel vs low-cash Herzele.
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 880** (2026-08-06)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

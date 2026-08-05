@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T17:30:00Z,rq_889,889,no,tick889 Herzele JR2025 dual BH; FOI gap_hzl_bbr_mjp_debt_pension_l5 prio8; next progress@890 then residual dual L5; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T18:00:00Z,rq_890,890,no,tick890 progress@890 coverage % + waste top10 after VL residual 881-889; next rq_891 residual dual L5; progress@900 in 10; rq_116 deferred

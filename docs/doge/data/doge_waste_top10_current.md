@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **880** (2026-08-06) · **~4009** leaderboard rows  
+**As-of:** tick **890** (2026-08-06) · **~4072** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Dilbeek **€221m** / Schoten **€177m** / Westerlo **€176m** / Diest pension **€115m** / Lede MJP debt path **€35.6m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt stocks Dilbeek **€27m** / Schoten **€22.5m** / Liedekerke **€19m** / Bever new-loan jump · city pension stocks Schoten **€48m** / Dilbeek **€30m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / BKZ **€815m** / ST **€303m** / Dilbeek **€221m** / Herzele fin debt **€32m** / Schoten pension **€48m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP stocks Herzele **MJP €5.8+3.8m** / Wemmel **MJP €4+2.5m** / Lede **MJP €35.6m** / BKZ **new loans €13.3m** · FVA reval stocks ST/As/Zutendaal · enclave cash stocks Baarle-Hertog **€6.7m**.
 
-**Change vs tick 870:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 871–879 (off pure top10 / dual):** Westerlo **€176m** (pension **€19m** jump) / Schoten **€177m** (**pension €48m**, cash **€41m**, AFM **+€7.0m**) / Destelbergen **€110m** (pension jump + IGS toelagen **€1.9m**) / Nazareth-De Pinte fusion **€166m** (AGB loan **€4.7m**) / Bever facility **€21m** (**new loans €1.25m** debt nearly doubled) / Opwijk **€94m** (**OPcura AFM −€0.42m**) / Dilbeek **€221m** (personnel **€47m**, pension **€30m**, **new loans €5.2m**, police toelage drop) / Liedekerke **€63m** (**MVA sales €2.3m**) / Lede **€100m** (**MJP debt ramp €9.6→35.6m**). Gain is **VL mid-city + fusion + facility L5 residual + FOI-adjacent pension/loan/sales/MJP paths** more than FFS reshuffle.
+**Change vs tick 880:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 881–889 (off pure top10 / dual):** Gavere **€84m** (new loans **€2.4m**) / As **€66m** (**FVA IGS reval €8→14m**, Riopact invest-subs **€0.55m**) / **BKZ fusion €815m** (**new loans €13.3m**, toelagen **€48.5m**, pension **€35m**, AFM **+€25.4m**) / Sint-Truiden **€303m** (**FVA IGS reval €56→104m**, herwaard **€48m**) / Kinrooi **€83m** (pension jump **€3.1→4.8m**) / Wemmel **€87m** (cash **€18m**, pension jump, **MJP debt ramp €4+2.5m**) / Zutendaal **€67m** (pension jump + FVA reval, **P&L −€0.87m**) / Baarle-Hertog enclave **€21m** (cash **€6.7m**, debt **€0.29m**) / **Herzele €83m** (**BBR −€2.65m**, fin debt **€32m**, **MJP ramp €5.8+3.8m**, pension **€11.5m**, cash drop). Gain is **VL fusion mega-balance + FVA reval cluster + stressed BBR/debt-ramp (Herzele) + enclave dual contrast** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_sc_pension_48m_2025` | **stock** | **~7.3** | **NEW 872** Schoten pension ~52% equity |
-| — | `lb_dlb_pension_30m_2025` | **stock** | **~7.0** | **NEW 877** Dilbeek pension + loans |
-| — | `lb_dlb_fin_debt_27m_2025` | **stock** | **~6.3** | **NEW 877** Dilbeek new loans €5.2m |
-| — | `lb_lede_fin_debt_10m_2025` | **stock+plan** | **~6.3** | **NEW 879** MJP ramp to €35.6m |
-| — | `lb_we_pension_19m_2025` | **stock** | **~6.5** | **NEW 871** Westerlo pension jump |
-| — | `lb_bv_fin_debt_2_5m_2025` | **stock** | **~5.8** | **NEW 875** Bever debt-doubling loans |
+| — | `lb_hzl_bbr_neg_2_7m_2025` | **stock/stress** | **~6.4** | **NEW 889** Herzele negative BBR + MJP debt ramp |
+| — | `lb_hzl_fin_debt_32m_2025` | **stock+plan** | **~6.3** | **NEW 889** Herzele MJP €5.8+3.8m |
+| — | `lb_bkz_toelagen_49m_2025` | **48.5 m** | **~6.6** | **NEW 883** BKZ fusion other toelagen €9.9m |
+| — | `lb_bkz_fin_debt_124m_2025` | **stock** | **~6.5** | **NEW 883** BKZ new loans €13.3m |
+| — | `lb_stt_fva_igs_104m_2025` | **stock** | **~6.3** | **NEW 884** ST FVA IGS reval |
+| — | `lb_sc_pension_48m_2025` | **stock** | **~7.3** | Schoten pension ~52% equity |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,11 +56,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_sc_pension_48m_2025` | **7.0** | **NEW 872** extreme mid-city pension stock |
-| `lb_dlb_pension_30m_2025` | **7.0** | **NEW 877** Dilbeek pension + loan path |
-| `lb_lede_fin_debt_10m_2025` | **6.5** | **NEW 879** MJP debt nearly 4× |
-| `lb_bv_fin_debt_2_5m_2025` | **6.0** | **NEW 875** facility debt-doubling |
-| `lb_op_opcura_afm_drag_2025` | **6.0** | **NEW 876** OPcura consol AFM drag |
+| `lb_hzl_bbr_neg_2_7m_2025` | **7.0** | **NEW 889** neg BBR + debt ramp stress |
+| `lb_sc_pension_48m_2025` | **7.0** | Schoten extreme mid-city pension stock |
+| `lb_bkz_toelagen_49m_2025` | **6.5** | **NEW 883** fusion toelagen opacity |
+| `lb_stt_fva_igs_104m_2025` | **6.0** | **NEW 884** IGS reval + herwaard |
 
 ### Methodology notes
 
