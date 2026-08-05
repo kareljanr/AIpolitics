@@ -28313,3 +28313,54 @@ bud_ham_agb_afm_2025,city_hamont_achel,2025,55551,,,bbc_jr_realized,src_hamont_a
 bud_ham_agb_bbr_2025,city_hamont_achel,2025,1026009,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,AGB BBR 1.026m dual residual; tick1091
 bud_ham_financieringssaldo_2025,city_hamont_achel,2025,299188,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,Financieringssaldo +0.299m; tick1091
 bud_ham_mjp_new_loans_planned_2025,city_hamont_achel,2025,8227694,,,bbc_jr_realized,src_hamont_achel_jr2025,strong,MJP new loans planned 8.228m vs realized 0.422m UNDERDRAW FOI; tick1091
+bud_hec_assets_2025,city_hechtel_eksel,2025,71774389,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Assets YE2025 71.774m JUMP (was 70.345m); tick1092
+bud_hec_equity_2025,city_hechtel_eksel,2025,57814165,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Nettoactief YE2025 57.814m JUMP (was 55.304m); tick1092
+bud_hec_debt_total_2025,city_hechtel_eksel,2025,13960224,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Total schulden YE2025 13.960m DROP (was 15.041m); tick1092
+bud_hec_fin_debt_2025,city_hechtel_eksel,2025,10165105,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Fin debt total YE2025 10.165m DECLINE (was 10.714m); tick1092
+bud_hec_fin_debt_lt_2025,city_hechtel_eksel,2025,9473408,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Fin debt LT YE2025 9.473m DECLINE; tick1092
+bud_hec_fin_debt_st_due_2025,city_hechtel_eksel,2025,691697,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Fin debt ST due YE2025 0.692m; tick1092
+bud_hec_new_loans_2025,city_hechtel_eksel,2025,178269,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Nieuwe leningen 2025 0.178m LOW leasing (MJP bank 2.500m NOT drawn FOI); tick1092
+bud_hec_aflossingen_2025,city_hechtel_eksel,2025,727256,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Periodieke aflossingen 2025 0.727m; tick1092
+bud_hec_cash_2025,city_hechtel_eksel,2025,10645627,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Liquide middelen YE2025 10.646m DROP FOI (was 11.279m); tick1092
+bud_hec_pension_2025,city_hechtel_eksel,2025,1010362,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.010m JUMP (was 0.941m); tick1092
+bud_hec_cap_subs_2025,city_hechtel_eksel,2025,3395805,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Kapitaalsubsidies YE2025 3.396m JUMP; tick1092
+bud_hec_fva_total_2025,city_hechtel_eksel,2025,19788178,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,FVA total YE2025 19.788m; tick1092
+bud_hec_fva_igs_2025,city_hechtel_eksel,2025,18080887,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,FVA IGS YE2025 18.081m; tick1092
+bud_hec_fva_other_2025,city_hechtel_eksel,2025,1696041,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Andere FVA YE2025 1.696m FOI; tick1092
+bud_hec_herwaard_2025,city_hechtel_eksel,2025,270929,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Herwaarderingsreserves YE2025 0.271m slight JUMP; tick1092
+bud_hec_leasing_mva_2025,city_hechtel_eksel,2025,2950986,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Leasing MVA YE2025 2.951m HIGH FOI; tick1092
+bud_hec_expl_rec_2025,city_hechtel_eksel,2025,22089797,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Exploitatieontvangsten 22.090m; tick1092
+bud_hec_expl_exp_2025,city_hechtel_eksel,2025,18370427,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Exploitatieuitgaven 18.370m; tick1092
+bud_hec_expl_saldo_2025,city_hechtel_eksel,2025,3719370,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Exploitatiesaldo +3.719m VERY STRONG; tick1092
+bud_hec_invest_exp_2025,city_hechtel_eksel,2025,5363584,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Investeringsuitgaven 5.364m JUMP gemeentehuis FOI (vs MJP-begin 2.203 OVER; T2 overdracht MVA plan 7.396 partial); tick1092
+bud_hec_invest_rec_2025,city_hechtel_eksel,2025,2524971,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Investeringsontvangsten 2.525m JUMP (asset sales 1.664m); tick1092
+bud_hec_invest_saldo_2025,city_hechtel_eksel,2025,-2838613,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Investeringssaldo -2.839m FOI; tick1092
+bud_hec_invest_subs_other_2025,city_hechtel_eksel,2025,711943,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Toegestane invest-subs andere 0.712m JUMP FOI; tick1092
+bud_hec_afm_2025,city_hechtel_eksel,2025,3010738,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,AFM +3.011m VERY STRONG; tick1092
+bud_hec_afm_corrected_2025,city_hechtel_eksel,2025,2880867,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Gecorrigeerde AFM +2.881m VERY STRONG; tick1092
+bud_hec_bbr_2025,city_hechtel_eksel,2025,7769857,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Beschikbaar budgettair resultaat 7.770m HIGH; tick1092
+bud_hec_budget_result_2025,city_hechtel_eksel,2025,350394,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Budgettair resultaat boekjaar +0.350m POSITIVE (MJP -0.280); tick1092
+bud_hec_cum_budget_2025,city_hechtel_eksel,2025,11115123,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Gecumuleerd budgettair resultaat 11.115m; tick1092
+bud_hec_onbeschikbaar_2025,city_hechtel_eksel,2025,3345266,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Onbeschikbare gelden 3.345m HIGH FOI; tick1092
+bud_hec_pnl_2025,city_hechtel_eksel,2025,1834019,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,P&L overschot +1.834m STRONG JUMP (was +0.897m); tick1092
+bud_hec_meerwaarden_2025,city_hechtel_eksel,2025,1049806,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Meerwaarden vaste activa 1.050m MASSIVE JUMP FOI (was 0.012m); tick1092
+bud_hec_personnel_2025,city_hechtel_eksel,2025,10251019,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Bezoldigingen 10.251m incl edu pass-through 1.448m; tick1092
+bud_hec_edu_pass_through_2025,city_hechtel_eksel,2025,1448471,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Onderwijzend personeel ten laste andere 1.448m JUMP; tick1092
+bud_hec_goods_services_2025,city_hechtel_eksel,2025,3260834,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Goederen en diensten 3.261m; tick1092
+bud_hec_toelagen_2025,city_hechtel_eksel,2025,3351575,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Toegestane werkingssubsidies 3.352m FOI; tick1092
+bud_hec_police_toelage_2025,city_hechtel_eksel,2025,769423,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Politiezone toelage 0.769m DROP FOI; tick1092
+bud_hec_fire_toelage_2025,city_hechtel_eksel,2025,569759,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,HVZ toelage 0.570m; tick1092
+bud_hec_igs_toelage_2025,city_hechtel_eksel,2025,1422246,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,IGS toelage 1.422m HIGH JUMP FOI; tick1092
+bud_hec_other_toelagen_2025,city_hechtel_eksel,2025,392317,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Andere toelagen 0.392m FOI; tick1092
+bud_hec_welzijn_toelage_2025,city_hechtel_eksel,2025,161639,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Welzijn toelage 0.162m; tick1092
+bud_hec_fiscal_rec_2025,city_hechtel_eksel,2025,9882412,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Fiscale ontvangsten 9.882m JUMP; tick1092
+bud_hec_fiscal_ov_2025,city_hechtel_eksel,2025,3298921,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Opcentiemen OV 3.299m; tick1092
+bud_hec_fiscal_pb_2025,city_hechtel_eksel,2025,5224550,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Aanvullende PB 5.225m JUMP; tick1092
+bud_hec_gemeentefonds_2025,city_hechtel_eksel,2025,4629927,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Gemeentefonds 4.630m; tick1092
+bud_hec_ocmw_cover_2025,city_hechtel_eksel,2025,1417424,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,OCMW tussenkomst 1.417m FULL P&L FOI; tick1092
+bud_hec_ocmw_hulp_2025,city_hechtel_eksel,2025,1126384,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,OCMW individuele hulpverlening 1.126m; tick1092
+bud_hec_ocmw_equity_cum_2025,city_hechtel_eksel,2025,2336421,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,OCMW equity cum +2.336m after cover FOI; tick1092
+bud_hec_ge_equity_cum_2025,city_hechtel_eksel,2025,-276917,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,GE equity cum -0.277m NEG after OCMW cover FOI residual; tick1092
+bud_hec_financieringssaldo_2025,city_hechtel_eksel,2025,-530363,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Financieringssaldo -0.530m; tick1092
+bud_hec_mjp_new_loans_planned_2025,city_hechtel_eksel,2025,2807407,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,MJP new loans planned 2.807m vs realized 0.178m UNDERDRAW FOI; tick1092
+bud_hec_interest_2025,city_hechtel_eksel,2025,269357,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Intresten 0.269m; tick1092

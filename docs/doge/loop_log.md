@@ -14768,3 +14768,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_ham_*); commitments +7; leaderboard +8; sources +1; entity city_hamont_achel; FOI **gap_ham_fva_herwaard_invest_loans_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1091=done; spawn **rq_1092**; ticks=1091
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1092** residual dual L5; deferred **rq_116**; progress@1100 in 8
+
+
+### Tick 1092 - 2026-08-11T11:30:00Z
+
+- Unit: **rq_1092** (FOI-adjacent residual dual - **Lokaal Bestuur Hechtel-Eksel Jaarrekening 2025** + Hamont-Achel dual residual)
+- Found (strong primary BBC JR2025 PDF; 165p; hechtel-eksel.be; KBO GE 0216.772.828 / OCMW 0216.772.927; Don Boscostraat 5/8 3940; AD Robert Verheyen FD Lies Conderaerts; GE+OCMW):
+  - Assets **EUR71.774m JUMP** / equity **EUR57.814m JUMP** / debt total **EUR13.96m DROP** / fin debt **EUR10.165m DECLINE** (LT **EUR9.473m** / ST due **EUR0.692m**; was **EUR10.714m**)
+  - New loans **EUR0.178m LOW** leasing / repayments **EUR0.727m** (MJP bank **EUR2.500m NOT drawn FOI**)
+  - Cash **EUR10.646m DROP FOI** (was **EUR11.279m**) / pension **EUR1.010m JUMP** / FVA IGS **EUR18.081m** / leasing MVA **EUR2.951m HIGH** / andere FVA **EUR1.696m**
+  - Exploitatie: ontvangsten **EUR22.090m** / uitgaven **EUR18.370m** / saldo **+EUR3.719m VERY STRONG**
+  - AFM **+EUR3.011m VERY STRONG** (gecorr **+EUR2.881m**) / BBR **EUR7.770m HIGH** / onbeschikbaar **EUR3.345m HIGH FOI** / budget **+EUR0.350m POSITIVE** / cum BR **EUR11.115m** / P&L **+EUR1.834m STRONG JUMP**
+  - Personnel **EUR10.251m** (edu pass-through **EUR1.448m JUMP**) / toelagen **EUR3.352m FOI** (IGS **EUR1.422m HIGH JUMP** / police **EUR0.769m DROP** / fire **EUR0.570m** / other **EUR0.392m**)
+  - Invest **EUR5.364m JUMP** gemeentehuis FOI / meerwaarden asset sales **EUR1.050m MASSIVE JUMP FOI** / invest-subs other **EUR0.712m JUMP FOI**
+  - OCMW cover **EUR1.417m FULL** / OCMW equity cum **+EUR2.336m** / **GE equity cum −EUR0.277m NEG FOI** after cover
+- Dual: Hamont-Achel FVA/herwaard MASSIVE JUMP invest underspend (tick1091) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen / Bree residual next; progress@1100 in 7
+- Wrote: budgets +51 (bud_hec_*); commitments +7; leaderboard +8; sources +1; entity city_hechtel_eksel; FOI **gap_hec_igs_invest_onbeschikbaar_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1092=done; spawn **rq_1093**; ticks=1092
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1093** residual dual L5; deferred **rq_116**; progress@1100 in 7
