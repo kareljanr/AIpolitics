@@ -22033,3 +22033,55 @@ bud_lan_goederen_2025,city_langemark_poelkapelle,2025,3920336,,,realized,src_lan
 bud_lan_herwaardering_fva_2025,city_langemark_poelkapelle,2025,6384445,,,realized,src_langemark_jr2025,strong,Herwaardering FVA IGS +6.38m FOI; tick959
 bud_lan_financing_saldo_2025,city_langemark_poelkapelle,2025,-865723,,,realized,src_langemark_jr2025,strong,Financieringssaldo -0.866m; tick959
 bud_lan_mjp_fin_debt_2027,city_langemark_poelkapelle,2025,6038372,,,budgeted,src_langemark_jr2025,strong,MJP planned fin debt YE2027 6.04m JUMP FOI; tick959
+bud_wer_assets_2025,city_wervik,2025,111035711,,,realized,src_wervik_jr2025,strong,Total assets YE2025 111.0m; tick961
+bud_wer_equity_2025,city_wervik,2025,81652779,,,realized,src_wervik_jr2025,strong,Nettoactief YE2025 81.7m; tick961
+bud_wer_debt_total_2025,city_wervik,2025,29382932,,,realized,src_wervik_jr2025,strong,Total schulden YE2025 29.4m; tick961
+bud_wer_fin_debt_2025,city_wervik,2025,19636882,,,jaarrekening_realized,src_wervik_jr2025,strong,T4 total financiele schulden YE2025 19.6m RISING (was 17.2m) FOI; tick961
+bud_wer_fin_debt_lt_2025,city_wervik,2025,18153665,,,realized,src_wervik_jr2025,strong,Financiele schulden LT YE2025 18.2m; tick961
+bud_wer_fin_debt_st_due_2025,city_wervik,2025,1483217,,,realized,src_wervik_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.48m; tick961
+bud_wer_fin_debt_2024,city_wervik,2025,17189392,,,realized,src_wervik_jr2025,strong,T4 fin debt YE2024 17.2m comparator; tick961
+bud_wer_new_loans_2025,city_wervik,2025,3893650,,,realized,src_wervik_jr2025,strong,Nieuwe leningen/lease 3.89m (classic 3.5m spring FOI); tick961
+bud_wer_aflossingen_2025,city_wervik,2025,1446160,,,realized,src_wervik_jr2025,strong,Periodieke aflossingen 1.45m; tick961
+bud_wer_cash_2025,city_wervik,2025,6464496,,,realized,src_wervik_jr2025,strong,Liquide middelen YE2025 6.46m JUMP (was 3.55m) FOI; tick961
+bud_wer_cash_2024,city_wervik,2025,3549737,,,realized,src_wervik_jr2025,strong,Liquide middelen YE2024 3.55m comparator; tick961
+bud_wer_pension_prov_2025,city_wervik,2025,4076815,,,realized,src_wervik_jr2025,strong,Pensioenvoorzieningen YE2025 4.08m RISING FOI; tick961
+bud_wer_pension_prov_2024,city_wervik,2025,3578264,,,realized,src_wervik_jr2025,strong,Pensioenvoorzieningen YE2024 3.58m; tick961
+bud_wer_prov_st_2025,city_wervik,2025,1187730,,,realized,src_wervik_jr2025,strong,Voorzieningen ST YE2025 1.19m; tick961
+bud_wer_fva_total_2025,city_wervik,2025,33182024,,,realized,src_wervik_jr2025,strong,Financiele vaste activa YE2025 33.2m; tick961
+bud_wer_fva_igs_2025,city_wervik,2025,13129518,,,realized,src_wervik_jr2025,strong,FVA IGS YE2025 13.1m FOI; tick961
+bud_wer_fva_ocmw_ver_2025,city_wervik,2025,16549244,,,realized,src_wervik_jr2025,strong,FVA OCMW-verenigingen/WZBW YE2025 16.5m dual FOI stock; tick961
+bud_wer_mva_2025,city_wervik,2025,66673745,,,realized,src_wervik_jr2025,strong,Materiele vaste activa YE2025 66.7m; tick961
+bud_wer_leasing_mva_2025,city_wervik,2025,3957248,,,realized,src_wervik_jr2025,strong,Leasing MVA Virovios+Fluvius verlichting 3.96m FOI; tick961
+bud_wer_cap_subs_2025,city_wervik,2025,8089636,,,realized,src_wervik_jr2025,strong,Kapitaalssubsidies YE2025 8.09m; tick961
+bud_wer_expl_rec_2025,city_wervik,2025,31785420,,,realized,src_wervik_jr2025,strong,Exploitatieontvangsten 31.8m; tick961
+bud_wer_expl_exp_2025,city_wervik,2025,27718868,,,realized,src_wervik_jr2025,strong,Exploitatieuitgaven 27.7m; tick961
+bud_wer_expl_saldo_2025,city_wervik,2025,4066551,,,realized,src_wervik_jr2025,strong,Exploitatiesaldo +4.07m; tick961
+bud_wer_invest_exp_2025,city_wervik,2025,5279329,,,realized,src_wervik_jr2025,strong,Investeringsuitgaven 5.28m (MJP 11.2m underspend FOI); tick961
+bud_wer_invest_rec_2025,city_wervik,2025,1526725,,,realized,src_wervik_jr2025,strong,Investeringsontvangsten 1.53m; tick961
+bud_wer_invest_saldo_2025,city_wervik,2025,-3752604,,,realized,src_wervik_jr2025,strong,Investeringssaldo -3.75m; tick961
+bud_wer_mjp_invest_planned_2025,city_wervik,2025,11166608,,,realized,src_wervik_jr2025,strong,MJP planned invest 11.2m vs realized 5.28m FOI; tick961
+bud_wer_afm_2025,city_wervik,2025,2620392,,,realized,src_wervik_jr2025,strong,AFM +2.62m GE+OCMW; tick961
+bud_wer_afm_corr_2025,city_wervik,2025,2691400,,,realized,src_wervik_jr2025,strong,Gecorrigeerde AFM +2.69m GE+OCMW; tick961
+bud_wer_afm_wzbw_2025,city_wervik,2025,-81950,,,realized,src_wervik_jr2025,strong,WZBW Welzijnsvereniging AFM -0.082m NEG dual FOI; tick961
+bud_wer_bbr_2025,city_wervik,2025,6144024,,,realized,src_wervik_jr2025,strong,BBR GE+OCMW 6.14m; tick961
+bud_wer_bbr_consol_wzbw_2025,city_wervik,2025,10101478,,,realized,src_wervik_jr2025,strong,BBR consol incl WZBW 10.1m FOI; tick961
+bud_wer_budget_result_2025,city_wervik,2025,2761437,,,realized,src_wervik_jr2025,strong,Budgettair resultaat boekjaar +2.76m POS; tick961
+bud_wer_cum_br_2025,city_wervik,2025,6333493,,,realized,src_wervik_jr2025,strong,Gecumuleerd budgettair resultaat 6.33m; tick961
+bud_wer_onbeschikbaar_2025,city_wervik,2025,189469,,,realized,src_wervik_jr2025,strong,Onbeschikbare gelden 0.189m; tick961
+bud_wer_pnl_result_2025,city_wervik,2025,-179370,,,realized,src_wervik_jr2025,strong,P&L boekjaar -0.179m NEG FOI; tick961
+bud_wer_personnel_2025,city_wervik,2025,13626876,,,realized,src_wervik_jr2025,strong,Personeelskosten 13.6m; tick961
+bud_wer_toelagen_2025,city_wervik,2025,5014372,,,realized,src_wervik_jr2025,strong,Toegestane werkingssubsidies 5.01m FOI named; tick961
+bud_wer_toelagen_welzijn_2025,city_wervik,2025,1946828,,,realized,src_wervik_jr2025,strong,Toelagen welzijnsverenigingen/WZBW 1.95m dual FOI; tick961
+bud_wer_toelagen_police_2025,city_wervik,2025,1427414,,,realized,src_wervik_jr2025,strong,Toelagen politiezone 1.43m; tick961
+bud_wer_toelagen_hvz_2025,city_wervik,2025,720150,,,realized,src_wervik_jr2025,strong,Toelagen HVZ 0.720m; tick961
+bud_wer_toelagen_igs_2025,city_wervik,2025,86080,,,realized,src_wervik_jr2025,strong,Toelagen IGS 0.086m FOI; tick961
+bud_wer_toelagen_kerk_2025,city_wervik,2025,224745,,,realized,src_wervik_jr2025,strong,Toelagen eredienst 0.225m; tick961
+bud_wer_toelagen_other_2025,city_wervik,2025,609156,,,realized,src_wervik_jr2025,strong,Toelagen andere begunstigden 0.609m FOI; tick961
+bud_wer_invest_subs_granted_2025,city_wervik,2025,903385,,,realized,src_wervik_jr2025,strong,Toegestane investeringssubsidies 0.903m FOI; tick961
+bud_wer_ocmw_aid_2025,city_wervik,2025,1829926,,,realized,src_wervik_jr2025,strong,Individuele hulpverlening OCMW 1.83m; tick961
+bud_wer_ocmw_cover_2025,city_wervik,2025,2121821,,,realized,src_wervik_jr2025,strong,Tussenkomst stad aan OCMW 2.12m FOI (J2M); tick961
+bud_wer_fiscal_2025,city_wervik,2025,14783444,,,realized,src_wervik_jr2025,strong,Fiscale opbrengsten 14.8m; tick961
+bud_wer_fin_costs_2025,city_wervik,2025,1238762,,,realized,src_wervik_jr2025,strong,Financiele kosten 1.24m; tick961
+bud_wer_goederen_2025,city_wervik,2025,5847919,,,realized,src_wervik_jr2025,strong,Goederen en diensten 5.85m; tick961
+bud_wer_financing_saldo_2025,city_wervik,2025,2447490,,,realized,src_wervik_jr2025,strong,Financieringssaldo +2.45m; tick961
+bud_wer_mjp_fin_debt_2027,city_wervik,2025,32252456,,,budgeted,src_wervik_jr2025,strong,MJP planned fin debt YE2027 32.3m JUMP FOI; tick961

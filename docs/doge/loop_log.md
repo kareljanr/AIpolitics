@@ -12257,3 +12257,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@960; doge_waste_top10_current.md as-of 960; rq_960=done; spawn **rq_961** hole_fill; ticks=960
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_961** residual dual L5; deferred **rq_116**; progress@970 in 10
+
+
+### Tick 961 - 2026-08-08T10:00:00Z
+
+- Unit: **rq_961** (FOI-adjacent residual dual - **Stad+OCMW Wervik Jaarrekening 2025** + Langemark dual residual + WZBW Entity II)
+- Found (strong primary BBC JR2025 189p; KBO 0207.493.391 / OCMW 0212.181.651; bekend 18.05.2026):
+  - Assets **EUR111.0m** / equity **EUR81.7m** / debt total **EUR29.4m** / fin debt **EUR19.6m** (**RISING** from **EUR17.2m**; LT **EUR18.2m** / ST due **EUR1.48m**)
+  - New loans/lease **EUR3.89m** (classic **EUR3.5m** spring FOI) / repayments **EUR1.45m**
+  - Cash **EUR6.46m JUMP** (was EUR3.55m) / pension **EUR4.08m RISING** / FVA IGS **EUR13.1m** / **FVA WZBW EUR16.5m dual FOI**
+  - Exploitatie: ontvangsten **EUR31.8m** / uitgaven **EUR27.7m** / saldo **+EUR4.07m**
+  - AFM **+EUR2.62m** (gecorr **+EUR2.69m**) / BBR **EUR6.14m** / budget **+EUR2.76m** / P&L **-EUR0.179m FOI**
+  - **WZBW dual**: AFM **-EUR0.082m** / BBR share **EUR3.96m** / toelagen welzijn **EUR1.95m FOI**
+  - Personnel **EUR13.6m** / toelagen **EUR5.01m** (police **EUR1.43m** / HVZ **EUR0.72m** / other **EUR0.61m FOI**)
+  - Invest **EUR5.28m** vs MJP **EUR11.2m underspend FOI** (~47pct) / **OCMW cover EUR2.12m FOI**
+  - MJP fin debt planned **EUR24.5m (2026) / EUR32.3m (2027) JUMP FOI**
+- Dual: Langemark-Poelkapelle **EUR73.2m** / fin debt **EUR5.44m declining** / OCMW cover **EUR2.15m** (tick959) - not TE-additive
+- Wrote: budgets +52 (bud_wer_*); commitments +5; leaderboard +7; sources +2; entity city_wervik; FOI **gap_wer_debt_wzbw_ocmw_invest_l5** prio8 ready + draft; key only; rq_961=done; spawn **rq_962**; ticks=961
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_962** residual dual L5 (Houthulst / Ledegem / WZBW Entity II / Torhout / Meulebeke); deferred **rq_116**; progress@970 in 9
