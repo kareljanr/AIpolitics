@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T04:15:00Z,rq_911,911,no,tick911 Asse JR2025 dual Oostkamp; FOI gap_asse_loans_afm_agb_l5 prio8 new loans 16.5m AFM -3.18m fin debt 83.6m; next residual dual L5 rq_912; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T04:45:00Z,rq_912,912,no,tick912 Zemst JR2025 dual Asse; FOI gap_zemst_loans_agb_erfpacht_l5 prio8 new loans 8.7m AGB erfpacht 6.08m fin debt 30.0m; next residual dual L5 rq_913; rq_116 deferred

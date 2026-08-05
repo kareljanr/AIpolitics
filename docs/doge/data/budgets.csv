@@ -20073,3 +20073,48 @@ bud_asse_ocmw_cover_2025,city_asse,2025,4742308,,,jaarrekening_realized,src_asse
 bud_asse_pl_2025,city_asse,2025,-488850,,,jaarrekening_realized,src_asse_jr2025,strong,P&L boekjaar 2025 -0.489m; tick911
 bud_asse_mva_buildings_invest_2025,city_asse,2025,12081049,,,jaarrekening_realized,src_asse_jr2025,strong,Invest terreinen/gebouwen 2025 12.081m of 16.1m MVA; tick911
 bud_asse_new_loans_2024_prior,city_asse,2025,30115897,,,jaarrekening_realized,src_asse_jr2025,strong,Prior-year new loans 2024 30.116m (context dual debt ramp); tick911
+bud_zemst_assets_2025,city_zemst,2025,173753241,,,jaarrekening_realized,src_zemst_jr2025,strong,Consol total assets YE2025 173.753m; tick912
+bud_zemst_equity_2025,city_zemst,2025,119032860,,,jaarrekening_realized,src_zemst_jr2025,strong,Nettoactief YE2025 119.033m; tick912
+bud_zemst_debt_total_2025,city_zemst,2025,54720381,,,jaarrekening_realized,src_zemst_jr2025,strong,Total schulden YE2025 54.720m; tick912
+bud_zemst_fin_debt_2025,city_zemst,2025,30009235,,,jaarrekening_realized,src_zemst_jr2025,strong,Fin debt total YE2025 30.009m (was 24.078m); tick912
+bud_zemst_fin_debt_lt_2025,city_zemst,2025,27085833,,,jaarrekening_realized,src_zemst_jr2025,strong,Fin debt LT YE2025 27.086m; tick912
+bud_zemst_fin_debt_st_due_2025,city_zemst,2025,2923401,,,jaarrekening_realized,src_zemst_jr2025,strong,Fin debt ST due YE2025 2.923m; tick912
+bud_zemst_fin_debt_leasing_2025,city_zemst,2025,2301830,,,jaarrekening_realized,src_zemst_jr2025,strong,Leasing openbare verlichting in fin debt YE2025 2.302m; tick912
+bud_zemst_new_loans_2025,city_zemst,2025,8701386,,,jaarrekening_realized,src_zemst_jr2025,strong,New loans/leasings 2025 8.701m (bank 8.0m + leasing 0.701m) FOI; tick912
+bud_zemst_new_loans_bank_2025,city_zemst,2025,8000000,,,jaarrekening_realized,src_zemst_jr2025,strong,Bank new loan 2025 8.000m of 8.701m FOI; tick912
+bud_zemst_new_loans_leasing_2025,city_zemst,2025,701386,,,jaarrekening_realized,src_zemst_jr2025,strong,Leasing openbare verlichting new 2025 0.701m; tick912
+bud_zemst_repayments_2025,city_zemst,2025,2770447,,,jaarrekening_realized,src_zemst_jr2025,strong,Periodieke aflossingen 2025 2.770m; tick912
+bud_zemst_cash_2025,city_zemst,2025,6050312,,,jaarrekening_realized,src_zemst_jr2025,strong,Liquide middelen YE2025 6.050m (was 5.064m); tick912
+bud_zemst_pension_2025,city_zemst,2025,4038529,,,jaarrekening_realized,src_zemst_jr2025,strong,Pension provisions YE2025 4.039m (was 8.584m DROP FOI); tick912
+bud_zemst_pension_fund_ext_2025,city_zemst,2025,8612697,,,jaarrekening_realized,src_zemst_jr2025,strong,External collectief pensioenfonds reserve YE2025 8.613m; tick912
+bud_zemst_fva_igs_2025,city_zemst,2025,14994459,,,jaarrekening_realized,src_zemst_jr2025,strong,FVA IGS YE2025 14.994m; tick912
+bud_zemst_expl_receipts_2025,city_zemst,2025,50580238,,,jaarrekening_realized,src_zemst_jr2025,strong,Exploitatie ontvangsten 2025 50.580m; tick912
+bud_zemst_expl_expenses_2025,city_zemst,2025,46822698,,,jaarrekening_realized,src_zemst_jr2025,strong,Exploitatie uitgaven 2025 46.823m; tick912
+bud_zemst_expl_saldo_2025,city_zemst,2025,3757540,,,jaarrekening_realized,src_zemst_jr2025,strong,Exploitatiesaldo 2025 +3.758m; tick912
+bud_zemst_invest_exp_2025,city_zemst,2025,7460458,,,jaarrekening_realized,src_zemst_jr2025,strong,Invest uitgaven 2025 7.460m; tick912
+bud_zemst_invest_rec_2025,city_zemst,2025,5595386,,,jaarrekening_realized,src_zemst_jr2025,strong,Invest ontvangsten 2025 5.595m; tick912
+bud_zemst_invest_saldo_2025,city_zemst,2025,-1865072,,,jaarrekening_realized,src_zemst_jr2025,strong,Invest saldo 2025 -1.865m; tick912
+bud_zemst_fin_receipts_2025,city_zemst,2025,8809296,,,jaarrekening_realized,src_zemst_jr2025,strong,Financiering ontvangsten 2025 8.809m; tick912
+bud_zemst_fin_expenses_2025,city_zemst,2025,8877154,,,jaarrekening_realized,src_zemst_jr2025,strong,Financiering uitgaven 2025 8.877m; tick912
+bud_zemst_budget_result_2025,city_zemst,2025,1824610,,,jaarrekening_realized,src_zemst_jr2025,strong,Budgettair resultaat 2025 +1.825m; tick912
+bud_zemst_bbr_2025,city_zemst,2025,10699681,,,jaarrekening_realized,src_zemst_jr2025,strong,Beschikbaar budgettair resultaat YE2025 10.700m; tick912
+bud_zemst_afm_2025,city_zemst,2025,1106936,,,jaarrekening_realized,src_zemst_jr2025,strong,AFM 2025 +1.107m; tick912
+bud_zemst_afm_gecorr_2025,city_zemst,2025,1951119,,,jaarrekening_realized,src_zemst_jr2025,strong,Gecorrigeerde AFM 2025 +1.951m; tick912
+bud_zemst_personnel_2025,city_zemst,2025,27885535,,,jaarrekening_realized,src_zemst_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 27.886m; tick912
+bud_zemst_toelagen_2025,city_zemst,2025,7386648,,,jaarrekening_realized,src_zemst_jr2025,strong,Toegestane werkingssubsidies 2025 7.387m; tick912
+bud_zemst_toelagen_police_2025,city_zemst,2025,3508268,,,jaarrekening_realized,src_zemst_jr2025,strong,Toelage politiezone 2025 3.508m; tick912
+bud_zemst_toelagen_hvz_2025,city_zemst,2025,1264366,,,jaarrekening_realized,src_zemst_jr2025,strong,Toelage hulpverleningszone 2025 1.264m; tick912
+bud_zemst_toelagen_igs_2025,city_zemst,2025,945508,,,jaarrekening_realized,src_zemst_jr2025,strong,Toelage IGS 2025 0.946m FOI; tick912
+bud_zemst_toelagen_agb_2025,city_zemst,2025,353971,,,jaarrekening_realized,src_zemst_jr2025,strong,Toelage AGB 2025 0.354m; tick912
+bud_zemst_toelagen_eredienst_2025,city_zemst,2025,54644,,,jaarrekening_realized,src_zemst_jr2025,strong,Toelage eredienst 2025 0.055m; tick912
+bud_zemst_toelagen_other_2025,city_zemst,2025,1259892,,,jaarrekening_realized,src_zemst_jr2025,strong,Toelage andere begunstigden 2025 1.260m FOI; tick912
+bud_zemst_fiscal_2025,city_zemst,2025,23073843,,,jaarrekening_realized,src_zemst_jr2025,strong,Fiscale ontvangsten en boetes 2025 23.074m; tick912
+bud_zemst_gemeentefonds_2025,city_zemst,2025,4969046,,,jaarrekening_realized,src_zemst_jr2025,strong,Gemeentefonds 2025 4.969m; tick912
+bud_zemst_invest_subs_2025,city_zemst,2025,341227,,,jaarrekening_realized,src_zemst_jr2025,strong,Toegestane investeringssubsidies 2025 0.341m; tick912
+bud_zemst_loans_granted_agb_erfpacht_2025,city_zemst,2025,6076660,,,jaarrekening_realized,src_zemst_jr2025,strong,AGB erfpacht sporthal den Turfput 2025 6.077m FOI (99y repay); tick912
+bud_zemst_loans_granted_agb_invest_2025,city_zemst,2025,30047,,,jaarrekening_realized,src_zemst_jr2025,strong,AGB invest-programma lening 2025 0.030m; tick912
+bud_zemst_ocmw_cover_2025,city_zemst,2025,360525,,,jaarrekening_realized,src_zemst_jr2025,strong,Gemeente tussenkomst OCMW 2025 0.361m; tick912
+bud_zemst_pl_2025,city_zemst,2025,2430293,,,jaarrekening_realized,src_zemst_jr2025,strong,P&L boekjaar 2025 +2.430m; tick912
+bud_zemst_mjp_fin_debt_2026,city_zemst,2025,35330735,,,jaarrekening_realized,src_zemst_jr2025,strong,MJP projected fin debt YE2026 35.331m; tick912
+bud_zemst_mjp_new_loans_2026,city_zemst,2025,8315001,,,jaarrekening_realized,src_zemst_jr2025,strong,MJP new loans 2026 8.315m FOI; tick912
+bud_zemst_old_subsidy_receivables_2025,city_zemst,2025,3021642,,,jaarrekening_realized,src_zemst_jr2025,strong,Open projectsubsidies pre-2013 3.022m FOI; tick912

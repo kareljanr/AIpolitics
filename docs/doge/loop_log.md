@@ -11398,3 +11398,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_asse_*); commitments +4; leaderboard +7; sources +2; entity city_asse; FOI **gap_asse_loans_afm_agb_l5** prio8 ready + draft; raw PDF + key extracts; rq_911=done; spawn **rq_912**; ticks=911
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_912** residual dual L5 (Zemst/Roeselare/Ninove/Kapellen); deferred **rq_116**; progress@920 in 9
+
+### Tick 912 - 2026-08-07T04:45:00Z
+
+- Unit: **rq_912** (FOI-adjacent residual dual - **Gemeente+OCMW Zemst Jaarrekening 2025** + Asse dual)
+- Found (strong primary BBC JR2025 236p):
+  - Assets **EUR173.8m** / equity **EUR119.0m** / debt total **EUR54.7m** / fin debt **EUR30.0m** (was **EUR24.1m**; LT **EUR27.1m** / ST due **EUR2.92m** / leasing OV **EUR2.30m**)
+  - **New loans EUR8.70m FOI** (bank **EUR8.0m** + leasing **EUR0.70m**)
+  - Repayments **EUR2.77m** / cash **EUR6.05m** (was **EUR5.06m**) / pension BS **EUR4.04m** (was **EUR8.58m DROP FOI**) / ext fund **EUR8.61m**
+  - Exploitatie: ontvangsten **EUR50.6m** / uitgaven **EUR46.8m** / saldo **+EUR3.76m**
+  - AFM **+EUR1.11m** (gecorr **+EUR1.95m**) / BBR **EUR10.7m** / budget result **+EUR1.82m** / P&L **+EUR2.43m**
+  - Personnel **EUR27.9m** / toelagen **EUR7.39m** (police **EUR3.51m** / HVZ **EUR1.26m** / **IGS EUR0.95m FOI** / other **EUR1.26m FOI**) / fiscal **EUR23.1m**
+  - Invest **EUR7.46m** / invest-subs **EUR0.34m** / gemeentefonds **EUR4.97m**
+  - **AGB erfpacht Turfput EUR6.08m FOI (99y)** / OCMW cover **EUR0.36m**
+  - **MJP fin debt YE2026 EUR35.3m**; new loans **EUR8.32m FOI**; old subsidy receivables **EUR3.02m FOI**
+- Dual: Asse **EUR252.8m** / new loans **EUR16.55m** / AFM **-EUR3.18m** (tick911) - not TE-additive
+- Wrote: budgets +45 (bud_zemst_*); commitments +4; leaderboard +7; sources +2; entity city_zemst; FOI **gap_zemst_loans_agb_erfpacht_l5** prio8 ready + draft; raw PDF + key; rq_912=done; spawn **rq_913**; ticks=912
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_913** residual dual L5 (Roeselare/Ninove/Kapellen/Opwijk); deferred **rq_116**; progress@920 in 8
