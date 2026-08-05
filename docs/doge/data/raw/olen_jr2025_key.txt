@@ -1,0 +1,21 @@
+Olen JR2025 BBC consol
+Source: https://www.olen.be/file/download/92d70660-a2de-414f-8537-ff8f3260079e/Odp2dKt0rOd1S3xgs21IB5FlscW9KNYcm2uImXxrFo3d
+84p; Dorp 1 2250 Olen; BE 0207.503.784 / 0212.203.930
+tick891
+
+Assets 70393063 / Equity 38399869 / Debt total 31993193
+Cash 14616160 was 6688473 / Cap subs 9520813
+Fin debt 14844402 (LT 14139851 + ST due 704551) was 4869285
+New loans/leasings 10236501 (other entities FOI)
+Pension 7803540 was 7218069
+FVA IGS 9812905 / FVA total 10351495
+Expl rec 25543047 / exp 23082691 / saldo 2460357
+AFM 2228138 / gecorr 2099980
+BBR 9161466 / cumul 9161466
+Budget result 2955812 / P&L -785409
+Personnel 12711021 (onderwijs other ~3208438)
+Toelagen 2708897 (police 1383456 fire 388553 IGS 192166 other 744270)
+OCMW aid 855517
+Fiscal 11436515 (OV 6308268 APB 4544347)
+Gemeentefonds 3210236
+Invest exp 10712122 (buildings 5900878 roads 4011776) / invest-subs 347583

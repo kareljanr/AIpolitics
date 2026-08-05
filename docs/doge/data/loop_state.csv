@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T18:00:00Z,rq_890,890,no,tick890 progress@890 coverage % + waste top10 after VL residual 881-889; next rq_891 residual dual L5; progress@900 in 10; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T18:30:00Z,rq_891,891,no,tick891 Olen JR2025 dual Herzele; FOI gap_oln_loans_invest_toelagen_l5 prio8 new loans 10.2m; next rq_892 residual dual L5; progress@900 in 9; rq_116 deferred

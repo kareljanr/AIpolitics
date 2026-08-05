@@ -19291,3 +19291,42 @@ bud_hzl_invest_subs_granted_2025,city_herzele,2025,607969,,,jaarrekening_realize
 bud_hzl_new_loans_2025,city_herzele,2025,199097,,,jaarrekening_realized,src_herzele_jr2025,strong,Nieuwe leningen 0.199m 2025; MJP ramp 5.76m 2026 + 3.76m 2027 FOI; tick889
 bud_hzl_mjp_new_loans_2026,city_herzele,2026,5760288,,,meerjarenplan,src_herzele_jr2025,medium,MJP planned new loans 5.760m 2026 FOI-adjacent; tick889
 bud_hzl_mjp_new_loans_2027,city_herzele,2027,3760000,,,meerjarenplan,src_herzele_jr2025,medium,MJP planned new loans 3.760m 2027 FOI-adjacent; tick889
+bud_oln_assets_2025,city_olen,2025,70393063,,,jaarrekening_realized,src_olen_jr2025,strong,Consol total assets YE2025 70.393m; tick891
+bud_oln_equity_2025,city_olen,2025,38399869,,,jaarrekening_realized,src_olen_jr2025,strong,Nettoactief YE2025 38.400m; tick891
+bud_oln_debt_total_2025,city_olen,2025,31993193,,,jaarrekening_realized,src_olen_jr2025,strong,Schulden total YE2025 31.993m; tick891
+bud_oln_fin_debt_2025,city_olen,2025,14844402,,,jaarrekening_realized,src_olen_jr2025,strong,Fin schulden total YE2025 14.844m (LT 14.140 + ST due 0.705) was 4.869m; tick891
+bud_oln_fin_debt_lt_2025,city_olen,2025,14139851,,,jaarrekening_realized,src_olen_jr2025,strong,Fin schulden LT YE2025 14.140m (was 4.617m); tick891
+bud_oln_fin_debt_st_2025,city_olen,2025,704551,,,jaarrekening_realized,src_olen_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.705m; tick891
+bud_oln_pension_prov_2025,city_olen,2025,7803540,,,jaarrekening_realized,src_olen_jr2025,strong,Pensioenvoorzieningen YE2025 7.804m (was 7.218m); tick891
+bud_oln_cash_2025,city_olen,2025,14616160,,,jaarrekening_realized,src_olen_jr2025,strong,Liquide middelen YE2025 14.616m (was 6.688m loan draw); tick891
+bud_oln_cap_subs_2025,city_olen,2025,9520813,,,jaarrekening_realized,src_olen_jr2025,strong,Kapitaalsubsidies YE2025 9.521m; tick891
+bud_oln_fva_igs_2025,city_olen,2025,9812905,,,jaarrekening_realized,src_olen_jr2025,strong,Fin VA IGS YE2025 9.813m; tick891
+bud_oln_fva_total_2025,city_olen,2025,10351495,,,jaarrekening_realized,src_olen_jr2025,strong,Fin VA total YE2025 10.351m; tick891
+bud_oln_cumul_budget_2025,city_olen,2025,9161466,,,jaarrekening_realized,src_olen_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 9.161m; tick891
+bud_oln_bbr_2025,city_olen,2025,9161466,,,jaarrekening_realized,src_olen_jr2025,strong,Beschikbaar budgettair resultaat YE2025 9.161m; tick891
+bud_oln_expl_rec_2025,city_olen,2025,25543047,,,jaarrekening_realized,src_olen_jr2025,strong,Exploitatieontvangsten 25.543m 2025; tick891
+bud_oln_expl_exp_2025,city_olen,2025,23082691,,,jaarrekening_realized,src_olen_jr2025,strong,Exploitatieuitgaven 23.083m 2025; tick891
+bud_oln_expl_saldo_2025,city_olen,2025,2460357,,,jaarrekening_realized,src_olen_jr2025,strong,Exploitatiesaldo +2.460m 2025; tick891
+bud_oln_invest_exp_2025,city_olen,2025,10712122,,,jaarrekening_realized,src_olen_jr2025,strong,Investeringsuitgaven 10.712m 2025 FOI (buildings 5.9m roads 4.0m); tick891
+bud_oln_invest_rec_2025,city_olen,2025,1203294,,,jaarrekening_realized,src_olen_jr2025,strong,Investeringsontvangsten 1.203m 2025; tick891
+bud_oln_invest_saldo_2025,city_olen,2025,-9508828,,,jaarrekening_realized,src_olen_jr2025,strong,Investeringssaldo -9.509m 2025; tick891
+bud_oln_fin_saldo_2025,city_olen,2025,10004283,,,jaarrekening_realized,src_olen_jr2025,strong,Financieringssaldo +10.004m 2025; tick891
+bud_oln_budget_result_2025,city_olen,2025,2955812,,,jaarrekening_realized,src_olen_jr2025,strong,Budgettair resultaat boekjaar +2.956m 2025; tick891
+bud_oln_afm_2025,city_olen,2025,2228138,,,jaarrekening_realized,src_olen_jr2025,strong,Autofinancieringsmarge +2.228m 2025; tick891
+bud_oln_afm_gecorr_2025,city_olen,2025,2099980,,,jaarrekening_realized,src_olen_jr2025,strong,Gecorrigeerde AFM +2.100m 2025; tick891
+bud_oln_pl_2025,city_olen,2025,-785409,,,jaarrekening_realized,src_olen_jr2025,strong,P&L tekort -0.785m 2025; tick891
+bud_oln_personnel_2025,city_olen,2025,12711021,,,jaarrekening_realized,src_olen_jr2025,strong,Bezoldigingen 12.711m 2025 (incl onderwijs other ~3.208m); tick891
+bud_oln_personnel_onderwijs_other_2025,city_olen,2025,3208438,,,jaarrekening_realized,src_olen_jr2025,strong,Onderwijzend personeel ten laste van andere ~3.208m 2025; tick891
+bud_oln_toelagen_2025,city_olen,2025,2708897,,,jaarrekening_realized,src_olen_jr2025,strong,Toegestane werkingssubsidies 2.709m 2025; tick891
+bud_oln_toelagen_police_2025,city_olen,2025,1383456,,,jaarrekening_realized,src_olen_jr2025,strong,Toelage politiezone 1.383m 2025; tick891
+bud_oln_toelagen_fire_2025,city_olen,2025,388553,,,jaarrekening_realized,src_olen_jr2025,strong,Toelage hulpverleningszone 0.389m 2025; tick891
+bud_oln_toelagen_igs_2025,city_olen,2025,192166,,,jaarrekening_realized,src_olen_jr2025,strong,Toelage IGS 0.192m 2025; tick891
+bud_oln_toelagen_other_2025,city_olen,2025,744270,,,jaarrekening_realized,src_olen_jr2025,strong,Toelagen andere begunstigden 0.744m 2025 FOI; tick891
+bud_oln_ocmw_aid_2025,city_olen,2025,855517,,,jaarrekening_realized,src_olen_jr2025,strong,Individuele hulpverlening OCMW 0.856m 2025; tick891
+bud_oln_fiscal_2025,city_olen,2025,11436515,,,jaarrekening_realized,src_olen_jr2025,strong,Fiscale opbrengsten 11.437m 2025; tick891
+bud_oln_fiscal_ov_2025,city_olen,2025,6308268,,,jaarrekening_realized,src_olen_jr2025,strong,Opcentiemen OV 6.308m 2025; tick891
+bud_oln_fiscal_apb_2025,city_olen,2025,4544347,,,jaarrekening_realized,src_olen_jr2025,strong,Aanvullende PB 4.544m 2025; tick891
+bud_oln_gemeentefonds_2025,city_olen,2025,3210236,,,jaarrekening_realized,src_olen_jr2025,strong,Gemeentefonds 3.210m 2025; tick891
+bud_oln_invest_subs_granted_2025,city_olen,2025,347583,,,jaarrekening_realized,src_olen_jr2025,strong,Toegestane investeringssubsidies 0.348m 2025; tick891
+bud_oln_new_loans_2025,city_olen,2025,10236501,,,jaarrekening_realized,src_olen_jr2025,strong,Nieuwe leningen/leasings 10.237m 2025 (other entities) FOI-adjacent; debt 4.9to14.8m; tick891
+bud_oln_mjp_bank_loans_plan_2026,city_olen,2026,15000000,,,meerjarenplan,src_olen_jr2025,medium,MJP planned bank loans 15.0m path FOI-adjacent; tick891

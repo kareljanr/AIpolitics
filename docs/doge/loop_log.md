@@ -11068,3 +11068,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_890=done; next **rq_891**; loop_state ticks=890
 - FOI: none new this tick
 - Next: prio5 **rq_891** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/Olen/VUB/skeyes); deferred **rq_116**; progress@900 in 10
+
+## Tick 891 - 2026-08-06T18:30:00Z
+
+- Unit: **rq_891** (FOI-adjacent residual dual - **Gemeente+OCMW Olen Jaarrekening 2025** + Herzele dual)
+- Found (strong primary BBC JR2025 84p):
+  - Assets **EUR70.4m** / equity **EUR38.4m** / debt total **EUR32.0m** / fin debt **EUR14.8m** (was **EUR4.9m**; LT **EUR14.1m** / ST due **EUR0.7m**)
+  - **New loans EUR10.2m** (from **other entities** FOI) / pension **EUR7.8m** / cash **EUR14.6m** (was **EUR6.7m**)
+  - Exploitatie: ontvangsten **EUR25.5m** / uitgaven **EUR23.1m** / saldo **+EUR2.5m**
+  - AFM **+EUR2.2m** (gecorr **+EUR2.1m**) / BBR **EUR9.2m** / budget result **+EUR3.0m** / P&L **-EUR0.79m**
+  - Personnel **EUR12.7m** / toelagen **EUR2.7m** (police **EUR1.4m** / other **EUR0.74m**) / fiscal **EUR11.4m**
+  - **Invest EUR10.7m** (buildings **EUR5.9m** / roads **EUR4.0m**) / invest-subs **EUR0.35m** / gemeentefonds **EUR3.2m**
+  - MJP bank loans path **EUR15m** FOI
+- Dual: Herzele **EUR83.3m** / BBR **-EUR2.65m** / MJP debt ramp (tick889) - not TE-additive
+- Wrote: budgets +39 (bud_oln_*); commitments +4; leaderboard +7; sources +2; entity city_olen; FOI **gap_oln_loans_invest_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_891=done; spawn **rq_892**; ticks=891
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_892** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@900 in 9
