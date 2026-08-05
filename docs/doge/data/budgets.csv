@@ -28838,3 +28838,53 @@ bud_nwk_afschrijvingen_2025,city_nieuwerkerken,2025,1803439,,,bbc_jr_realized,sr
 bud_nwk_fin_exp_2025,city_nieuwerkerken,2025,153739,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Financiele kosten 0.154m; tick1102
 bud_nwk_ferm_2025,city_nieuwerkerken,2025,397465,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,FERM werking tussenkomst ~0.397m FOI residual (trial balance 6159000); tick1102
 bud_nwk_limburgnet_2025,city_nieuwerkerken,2025,392524,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Limburg.net toelage ~0.393m (trial balance 6497000); tick1102
+bud_hds_assets_2025,city_herk_de_stad,2025,74291765,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Assets YE2025 74.292m slight JUMP (was 73.531m); tick1103
+bud_hds_equity_2025,city_herk_de_stad,2025,55496210,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Nettoactief YE2025 55.496m JUMP (was 53.817m); tick1103
+bud_hds_debt_total_2025,city_herk_de_stad,2025,18795555,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Total schulden YE2025 18.796m DECLINE (was 19.713m); tick1103
+bud_hds_fin_debt_2025,city_herk_de_stad,2025,7550421,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Fin debt total YE2025 7.550m DECLINE (was 7.954m T4); tick1103
+bud_hds_fin_debt_lt_2025,city_herk_de_stad,2025,6797820,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Fin debt LT YE2025 6.798m DECLINE; tick1103
+bud_hds_fin_debt_st_2025,city_herk_de_stad,2025,752601,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Fin debt ST due YE2025 0.753m DECLINE; tick1103
+bud_hds_new_loans_2025,city_herk_de_stad,2025,389047,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,New loans 0.389m leasing only; bank 0.500m NOT drawn FOI; tick1103
+bud_hds_repayments_2025,city_herk_de_stad,2025,792221,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Periodieke aflossingen 0.792m; tick1103
+bud_hds_cash_2025,city_herk_de_stad,2025,5094688,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Cash YE2025 5.095m MASSIVE DROP FOI (was 7.263m; -2.169m); tick1103
+bud_hds_pension_lt_2025,city_herk_de_stad,2025,7287031,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Pension LT 7.287m JUMP FOI (was 6.864m); tick1103
+bud_hds_fva_total_2025,city_herk_de_stad,2025,18322503,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,FVA total YE2025 18.323m stable (was 18.265m); tick1103
+bud_hds_fva_igs_2025,city_herk_de_stad,2025,15484911,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,FVA IGS YE2025 15.485m STABLE (was 15.477m); Fluvius reval deferred 2026 FOI; tick1103
+bud_hds_herwaard_2025,city_herk_de_stad,2025,18270,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Herwaarderingsreserves YE2025 0.018m tiny; Fluvius EV reval planned 2026 FOI; tick1103
+bud_hds_leasing_mva_2025,city_herk_de_stad,2025,1320406,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Leasing MVA YE2025 1.320m JUMP (Fluvius light-as-service accelerate); tick1103
+bud_hds_agb_fva_2025,city_herk_de_stad,2025,1000000,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,FVA AGB Herkules YE2025 1.000m; tick1103
+bud_hds_expl_ontvangsten_2025,city_herk_de_stad,2025,22282477,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Exploitatie ontvangsten 22.282m; tick1103
+bud_hds_expl_uitgaven_2025,city_herk_de_stad,2025,18580383,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Exploitatie uitgaven 18.580m; tick1103
+bud_hds_expl_saldo_2025,city_herk_de_stad,2025,3702093,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Exploitatiesaldo +3.702m VERY STRONG; tick1103
+bud_hds_afm_2025,city_herk_de_stad,2025,3009321,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,AFM +3.009m VERY STRONG; tick1103
+bud_hds_afm_gecorr_2025,city_herk_de_stad,2025,3165254,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,AFM gecorrigeerd +3.165m VERY STRONG; tick1103
+bud_hds_bbr_2025,city_herk_de_stad,2025,4741848,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Beschikbaar budgettair resultaat 4.742m HIGH; tick1103
+bud_hds_onbeschikbaar_2025,city_herk_de_stad,2025,0,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Onbeschikbare gelden 0; tick1103
+bud_hds_budget_result_2025,city_herk_de_stad,2025,-1818999,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Budgettair resultaat boekjaar -1.819m NEG HIGH FOI (invest-driven; better than MJP -5.069m); tick1103
+bud_hds_cum_br_2025,city_herk_de_stad,2025,4741848,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Gecumuleerd BR 4.742m; tick1103
+bud_hds_pnl_2025,city_herk_de_stad,2025,1596474,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,P&L overschot +1.596m DROP (was 2.181m Fluvius one-off 2024); tick1103
+bud_hds_fiscal_2025,city_herk_de_stad,2025,11082647,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Fiscale opbrengsten 11.083m JUMP; tick1103
+bud_hds_pb_2025,city_herk_de_stad,2025,5830142,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Aanvullende PB 5.830m JUMP (inkohiering catch-up +0.3m vs raming); tick1103
+bud_hds_op_2025,city_herk_de_stad,2025,3991902,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Onroerende voorheffing opcentiemen 3.992m; tick1103
+bud_hds_personnel_2025,city_herk_de_stad,2025,10932744,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Personeel 10.933m JUMP FOI (+0.5m vakantieregeling one-off public sector); tick1103
+bud_hds_toelagen_2025,city_herk_de_stad,2025,3479569,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Toegestane werkingssubsidies 3.480m FOI; tick1103
+bud_hds_toelagen_police_2025,city_herk_de_stad,2025,1787212,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Politiezone toelage 1.787m JUMP FOI; tick1103
+bud_hds_toelagen_fire_2025,city_herk_de_stad,2025,624477,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Hulpverleningszone 0.624m; tick1103
+bud_hds_toelagen_igs_2025,city_herk_de_stad,2025,653942,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,IGS werkingssubsidies 0.654m; tick1103
+bud_hds_toelagen_agb_2025,city_herk_de_stad,2025,43819,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,AGB Herkules toelage 0.044m; tick1103
+bud_hds_toelagen_eredienst_2025,city_herk_de_stad,2025,108737,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Eredienst 0.109m; tick1103
+bud_hds_toelagen_other_2025,city_herk_de_stad,2025,261382,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Andere begunstigden toelagen 0.261m FOI; tick1103
+bud_hds_invest_uitgaven_2025,city_herk_de_stad,2025,4669556,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Investeringsuitgaven 4.670m vs MJP 8.210m UNDERSPEND FOI; tick1103
+bud_hds_invest_ontvangsten_2025,city_herk_de_stad,2025,0,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Investeringsontvangsten 0; tick1103
+bud_hds_invest_saldo_2025,city_herk_de_stad,2025,-4669556,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Investeringssaldo -4.670m; tick1103
+bud_hds_invest_mjp_2025,city_herk_de_stad,2025,8210181,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,MJP invest uitgaven 8.210m; tick1103
+bud_hds_ocmw_expl_uit_2025,city_herk_de_stad,2025,3525903,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,OCMW expl uitgaven J3 3.526m; tick1103
+bud_hds_ocmw_expl_ont_2025,city_herk_de_stad,2025,2515094,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,OCMW expl ontvangsten J3 2.515m; tick1103
+bud_hds_ocmw_expl_gap_2025,city_herk_de_stad,2025,1010809,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,OCMW expl gap J3 ~1.011m FOI; tick1103
+bud_hds_ocmw_cover_2025,city_herk_de_stad,2025,1144726,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,OCMW cover FULL 1.145m FOI (avoid negative OCMW equity); tick1103
+bud_hds_ocmw_hulp_2025,city_herk_de_stad,2025,670083,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,OCMW individuele hulpverlening 0.670m; tick1103
+bud_hds_herkules_loan_2025,city_herk_de_stad,2025,900000,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Toegestane lening AGB Herkules 0.900m FOI residual; tick1103
+bud_hds_goederen_2025,city_herk_de_stad,2025,3297130,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Goederen en diensten 3.297m DROP; tick1103
+bud_hds_afschrijvingen_2025,city_herk_de_stad,2025,2397380,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Afschrijvingen/voorzieningen 2.397m; tick1103
+bud_hds_fin_exp_2025,city_herk_de_stad,2025,136551,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Financiele kosten 0.137m; tick1103
+bud_hds_vacation_oneoff_2025,city_herk_de_stad,2025,500000,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Vakantieregeling private-to-public one-off ~0.5m FOI residual (narrative); tick1103

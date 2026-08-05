@@ -14980,3 +14980,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45 (bud_nwk_*); commitments +7; leaderboard +9; sources +1; entity city_nieuwerkerken; FOI **gap_nwk_fva_herwaard_invest_ocmw_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1102=done; spawn **rq_1103**; ticks=1102
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1103** residual dual L5; deferred **rq_116**; progress@1110 in 7
+
+### Tick 1103 - 2026-08-11T17:00:00Z
+
+- Unit: **rq_1103** (FOI-adjacent residual dual - **Gemeente+OCMW Herk-de-Stad Jaarrekening 2025** + Nieuwerkerken dual residual)
+- Found (strong primary BBC JR2025 PDF; 111p image tables OCR; herk-de-stad.be; KBO GE 0207.467.162 / OCMW 0212.218.083; Pikkeleerstraat 14 / Dokter Vanweddingenlaan 21 3540; AD Nathalie Creten FD Ive Vanderlee; GE+OCMW + AGB dual):
+  - Assets **EUR74.292m** slight JUMP / equity **EUR55.496m JUMP** / debt total **EUR18.796m DECLINE** / fin debt **EUR7.550m DECLINE** (LT **EUR6.798m** / ST due **EUR0.753m**)
+  - New loans **EUR0.389m** leasing only / bank **EUR0.500m NOT drawn FOI** / repayments **EUR0.792m**
+  - Cash **EUR5.095m MASSIVE DROP FOI** (was **EUR7.263m**; **-EUR2.169m**) / pension **EUR7.287m JUMP FOI** (was **EUR6.864m**)
+  - FVA IGS **EUR15.485m STABLE** (was **EUR15.477m**) / herwaard **EUR0.018m** tiny / **Fluvius EV reval deferred 2026 FOI** / leasing MVA **EUR1.320m JUMP** (light-as-service accelerate)
+  - Exploitatie: ontvangsten **EUR22.282m** / uitgaven **EUR18.580m** / saldo **+EUR3.702m VERY STRONG**
+  - AFM **+EUR3.009m VERY STRONG** (gecorr **+EUR3.165m**) / BBR **EUR4.742m** / budget **-EUR1.819m NEG HIGH FOI** (better than MJP **-EUR5.069m**) / P&L **+EUR1.596m**
+  - Fiscal **EUR11.083m JUMP** / PB **EUR5.830m** catch-up / OP **EUR3.992m**
+  - Personnel **EUR10.933m JUMP FOI** (+**EUR0.5m** vakantieregeling one-off public sector) / toelagen **EUR3.480m FOI** (police **EUR1.787m JUMP** / fire **EUR0.624m** / IGS **EUR0.654m** / andere **EUR0.261m**)
+  - Invest **EUR4.670m** vs MJP **EUR8.210m UNDERSPEND FOI** / ontvangsten **EUR0** / saldo **-EUR4.670m**
+  - OCMW cover **EUR1.145m FULL FOI** (avoid negative OCMW equity) / OCMW expl gap J3 **~EUR1.011m** / OCMW hulp **EUR0.670m**
+  - AGB Herkules toegestane lening **EUR0.900m FOI**
+- Dual: Nieuwerkerken FVA/herwaard MASSIVE / invest underspend (tick1102) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Bornem / Halen residual next; progress@1110 in 6
+- Wrote: budgets +50 (bud_hds_*); commitments +7; leaderboard +9; sources +1; entity city_herk_de_stad; FOI **gap_hds_budget_cash_pension_invest_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1103=done; spawn **rq_1104**; ticks=1103
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1104** residual dual L5; deferred **rq_116**; progress@1110 in 6
