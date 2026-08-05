@@ -27599,3 +27599,55 @@ bud_len_fiscal_pb_2025,city_lennik,2025,6442339,,,bbc_jr_realized,src_lennik_jr2
 bud_len_gemeentefonds_2025,city_lennik,2025,2539369,,,bbc_jr_realized,src_lennik_jr2025,strong,Gemeentefonds 2.539m; tick1075
 bud_len_interest_2025,city_lennik,2025,388989,,,bbc_jr_realized,src_lennik_jr2025,strong,Intresten op leningen 0.389m; tick1075
 bud_len_debt_per_inhab_2025,city_lennik,2025,1220,,,bbc_jr_realized,src_lennik_jr2025,strong,Fin debt per inwoner EUR1220; tick1075
+bud_kam_assets_2025,city_kampenhout,2025,102356542,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Assets YE2025 102.357m (was 99.481m); tick1076
+bud_kam_equity_2025,city_kampenhout,2025,84746702,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Nettoactief YE2025 84.747m (was 79.791m); tick1076
+bud_kam_debt_total_2025,city_kampenhout,2025,17609840,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Total schulden YE2025 17.610m DECLINE (was 19.689m); tick1076
+bud_kam_fin_debt_2025,city_kampenhout,2025,8206115,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Fin debt total YE2025 8.206m DECLINE (was 9.470m); tick1076
+bud_kam_fin_debt_lt_2025,city_kampenhout,2025,6787171,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Fin debt LT YE2025 6.787m DECLINE (was 7.864m); tick1076
+bud_kam_fin_debt_st_due_2025,city_kampenhout,2025,1418945,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Fin debt ST due YE2025 1.419m; tick1076
+bud_kam_new_loans_2025,city_kampenhout,2025,356947,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Nieuwe leningen 2025 0.357m; tick1076
+bud_kam_aflossingen_2025,city_kampenhout,2025,1620493,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Periodieke aflossingen 2025 1.620m; tick1076
+bud_kam_cash_2025,city_kampenhout,2025,3143317,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Liquide middelen YE2025 3.143m MASSIVE DROP FOI (was 8.295m); tick1076
+bud_kam_pension_2025,city_kampenhout,2025,3712227,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.712m slight up (was 3.605m); tick1076
+bud_kam_cap_subs_2025,city_kampenhout,2025,7148476,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Kapitaalsubsidies YE2025 7.148m; tick1076
+bud_kam_fva_total_2025,city_kampenhout,2025,15582726,,,bbc_jr_realized,src_kampenhout_jr2025,strong,FVA total YE2025 15.583m JUMP; tick1076
+bud_kam_fva_igs_2025,city_kampenhout,2025,9666273,,,bbc_jr_realized,src_kampenhout_jr2025,strong,FVA IGS YE2025 9.666m JUMP herwaardering FOI (was 0.933m); tick1076
+bud_kam_leasing_mva_2025,city_kampenhout,2025,1051306,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Leasing MVA YE2025 1.051m; tick1076
+bud_kam_expl_rec_2025,city_kampenhout,2025,31316540,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Exploitatieontvangsten 31.317m; tick1076
+bud_kam_expl_exp_2025,city_kampenhout,2025,27914044,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Exploitatieuitgaven 27.914m; tick1076
+bud_kam_expl_saldo_2025,city_kampenhout,2025,3402496,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Exploitatiesaldo +3.402m STRONG; tick1076
+bud_kam_invest_exp_2025,city_kampenhout,2025,5425421,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Investeringsuitgaven 5.425m vs MJP 8.291m UNDERSPEND FOI; tick1076
+bud_kam_invest_rec_2025,city_kampenhout,2025,116519,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Investeringsontvangsten 0.117m; tick1076
+bud_kam_invest_saldo_2025,city_kampenhout,2025,-5308902,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Investeringssaldo -5.309m; tick1076
+bud_kam_mjp_invest_planned_2025,city_kampenhout,2025,8290937,,,bbc_jr_realized,src_kampenhout_jr2025,strong,MJP invest planned 8.291m vs realized 5.425m underspend FOI; tick1076
+bud_kam_invest_mva_2025,city_kampenhout,2025,4898585,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Investeringen MVA 4.899m; tick1076
+bud_kam_invest_subs_granted_2025,city_kampenhout,2025,522032,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Toegestane invest-subs 0.522m; tick1076
+bud_kam_afm_2025,city_kampenhout,2025,1805655,,,bbc_jr_realized,src_kampenhout_jr2025,strong,AFM +1.806m STRONG; tick1076
+bud_kam_afm_corr_2025,city_kampenhout,2025,2668575,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Gecorrigeerde AFM +2.669m STRONG; tick1076
+bud_kam_bbr_2025,city_kampenhout,2025,4032035,,,bbc_jr_realized,src_kampenhout_jr2025,strong,BBR beschikbaar +4.032m; tick1076
+bud_kam_budget_result_2025,city_kampenhout,2025,-3042050,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Budgettair resultaat -3.042m NEG HIGH FOI; tick1076
+bud_kam_cum_br_2025,city_kampenhout,2025,4032035,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Gecumuleerd budgettair resultaat +4.032m; tick1076
+bud_kam_pnl_2025,city_kampenhout,2025,-3462172,,,bbc_jr_realized,src_kampenhout_jr2025,strong,P&L -3.462m FLIP FOI (was +2.937m); tick1076
+bud_kam_ge_expl_exp_2025,city_kampenhout,2025,17908976,,,bbc_jr_realized,src_kampenhout_jr2025,strong,GE exploitatieuitgaven J3 17.909m; tick1076
+bud_kam_ge_expl_rec_2025,city_kampenhout,2025,23905493,,,bbc_jr_realized,src_kampenhout_jr2025,strong,GE exploitatieontvangsten J3 23.905m; tick1076
+bud_kam_ocmw_expl_exp_2025,city_kampenhout,2025,10005068,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW exploitatieuitgaven J3 10.005m; tick1076
+bud_kam_ocmw_expl_rec_2025,city_kampenhout,2025,7411047,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW exploitatieontvangsten J3 7.411m; tick1076
+bud_kam_ocmw_expl_gap_2025,city_kampenhout,2025,-2594021,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW expl gap J3 -2.594m; tick1076
+bud_kam_ocmw_cover_2025,city_kampenhout,2025,0,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW cover tussenkomst 0.000 ZERO FOI; OCMW equity -4.657m; tick1076
+bud_kam_ocmw_equity_cum_2025,city_kampenhout,2025,-10664935,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW gecumuleerd tekort YE2025 -10.665m WORSENING FOI; tick1076
+bud_kam_ocmw_pnl_2025,city_kampenhout,2025,-3257826,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW P&L -3.258m FOI; tick1076
+bud_kam_equity_cum_2025,city_kampenhout,2025,19461666,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Gecumuleerd equity overschot YE2025 +19.462m; tick1076
+bud_kam_personnel_2025,city_kampenhout,2025,16248163,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Bezoldigingen T2 16.248m incl education pass-through 1.832m; tick1076
+bud_kam_edu_pass_through_2025,city_kampenhout,2025,1831561,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.832m; tick1076
+bud_kam_toelagen_2025,city_kampenhout,2025,3998710,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Toegestane werkingssubsidies 3.999m FOI residual; tick1076
+bud_kam_toelagen_police_2025,city_kampenhout,2025,2010390,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Toelage politiezone 2.010m JUMP; tick1076
+bud_kam_toelagen_fire_2025,city_kampenhout,2025,752069,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Toelage hulpverleningszone 0.752m; tick1076
+bud_kam_toelagen_igs_2025,city_kampenhout,2025,818268,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Toelage IGS 0.818m; tick1076
+bud_kam_toelagen_other_2025,city_kampenhout,2025,417983,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Toelage other+eredienst+welzijn residual 0.418m FOI; tick1076
+bud_kam_ocmw_aid_2025,city_kampenhout,2025,617636,,,bbc_jr_realized,src_kampenhout_jr2025,strong,OCMW individuele hulp 0.618m; tick1076
+bud_kam_fiscal_2025,city_kampenhout,2025,15318835,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Fiscale opbrengsten 15.319m; tick1076
+bud_kam_fiscal_ov_2025,city_kampenhout,2025,6299025,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Opcentiemen OV 6.299m; tick1076
+bud_kam_fiscal_pb_2025,city_kampenhout,2025,7200396,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Aanvullende PB 7.200m; tick1076
+bud_kam_gemeentefonds_2025,city_kampenhout,2025,2783442,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Gemeentefonds 2.783m; tick1076
+bud_kam_interest_2025,city_kampenhout,2025,223239,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Intresten op leningen 0.223m; tick1076
+bud_kam_herwaardering_fva_2025,city_kampenhout,2025,8730049,,,bbc_jr_realized,src_kampenhout_jr2025,strong,Herwaardering FVA/reserves +8.730m FOI; tick1076
