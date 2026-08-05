@@ -20159,3 +20159,47 @@ bud_nin_ocmw_expl_deficit_2025,city_ninove,2025,6598131,,,jaarrekening_realized,
 bud_nin_mjp_fin_debt_2026,city_ninove,2025,43910895,,,jaarrekening_realized,src_ninove_jr2025,strong,MJP projected fin debt YE2026 43.911m; tick913
 bud_nin_mjp_new_loans_2026,city_ninove,2025,1624990,,,jaarrekening_realized,src_ninove_jr2025,strong,MJP new loans 2026 1.625m; tick913
 bud_nin_new_loans_2024_prior,city_ninove,2025,8089696,,,jaarrekening_realized,src_ninove_jr2025,strong,Prior-year new loans 2024 8.090m (debt ramp context); tick913
+bud_opw_assets_2025,city_opwijk,2025,94373264,,,jaarrekening_realized,src_opwijk_jr2025,strong,Consol total assets YE2025 94.373m; tick914
+bud_opw_equity_2025,city_opwijk,2025,72585201,,,jaarrekening_realized,src_opwijk_jr2025,strong,Nettoactief YE2025 72.585m; tick914
+bud_opw_debt_total_2025,city_opwijk,2025,21788062,,,jaarrekening_realized,src_opwijk_jr2025,strong,Total schulden YE2025 21.788m (was 22.695m); tick914
+bud_opw_fin_debt_2025,city_opwijk,2025,11562051,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fin debt total YE2025 11.562m (was 13.212m DECLINING); tick914
+bud_opw_fin_debt_lt_2025,city_opwijk,2025,9861088,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fin debt LT YE2025 9.861m; tick914
+bud_opw_fin_debt_st_due_2025,city_opwijk,2025,1700963,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fin debt ST due YE2025 1.701m; tick914
+bud_opw_new_loans_2025,city_opwijk,2025,153560,,,jaarrekening_realized,src_opwijk_jr2025,strong,New loans/leasings 2025 0.154m only (no bank draw); tick914
+bud_opw_planned_loan_not_drawn_2025,city_opwijk,2025,6500000,,,jaarrekening_realized,src_opwijk_jr2025,strong,Planned bank loan 6.500m NOT drawn 2025 FOI (PFAS delay); tick914
+bud_opw_repayments_2025,city_opwijk,2025,1803733,,,jaarrekening_realized,src_opwijk_jr2025,strong,Periodieke aflossingen 2025 1.804m; tick914
+bud_opw_cash_2025,city_opwijk,2025,7891047,,,jaarrekening_realized,src_opwijk_jr2025,strong,Liquide middelen YE2025 7.891m (was 9.931m); tick914
+bud_opw_pension_2025,city_opwijk,2025,6402054,,,jaarrekening_realized,src_opwijk_jr2025,strong,Pension provisions YE2025 6.402m; tick914
+bud_opw_fva_igs_2025,city_opwijk,2025,7494874,,,jaarrekening_realized,src_opwijk_jr2025,strong,FVA IGS YE2025 7.495m; tick914
+bud_opw_fva_ocmw_verenigingen_2025,city_opwijk,2025,1573290,,,jaarrekening_realized,src_opwijk_jr2025,strong,FVA OCMW-verenigingen YE2025 1.573m (OPcura); tick914
+bud_opw_expl_receipts_2025,city_opwijk,2025,31409682,,,jaarrekening_realized,src_opwijk_jr2025,strong,Exploitatie ontvangsten 2025 31.410m; tick914
+bud_opw_expl_expenses_2025,city_opwijk,2025,26841231,,,jaarrekening_realized,src_opwijk_jr2025,strong,Exploitatie uitgaven 2025 26.841m; tick914
+bud_opw_expl_saldo_2025,city_opwijk,2025,4568450,,,jaarrekening_realized,src_opwijk_jr2025,strong,Exploitatiesaldo 2025 +4.568m; tick914
+bud_opw_invest_exp_2025,city_opwijk,2025,5220403,,,jaarrekening_realized,src_opwijk_jr2025,strong,Invest uitgaven 2025 5.220m; tick914
+bud_opw_invest_rec_2025,city_opwijk,2025,789177,,,jaarrekening_realized,src_opwijk_jr2025,strong,Invest ontvangsten 2025 0.789m; tick914
+bud_opw_invest_saldo_2025,city_opwijk,2025,-4431226,,,jaarrekening_realized,src_opwijk_jr2025,strong,Invest saldo 2025 -4.431m; tick914
+bud_opw_fin_receipts_2025,city_opwijk,2025,171735,,,jaarrekening_realized,src_opwijk_jr2025,strong,Financiering ontvangsten 2025 0.172m; tick914
+bud_opw_fin_expenses_2025,city_opwijk,2025,1803733,,,jaarrekening_realized,src_opwijk_jr2025,strong,Financiering uitgaven 2025 1.804m; tick914
+bud_opw_budget_result_2025,city_opwijk,2025,-1494773,,,jaarrekening_realized,src_opwijk_jr2025,strong,Budgettair resultaat 2025 -1.495m; tick914
+bud_opw_bbr_2025,city_opwijk,2025,5711341,,,jaarrekening_realized,src_opwijk_jr2025,strong,Beschikbaar budgettair resultaat YE2025 5.711m; tick914
+bud_opw_unavailable_2025,city_opwijk,2025,4451861,,,jaarrekening_realized,src_opwijk_jr2025,strong,Onbeschikbare gelden YE2025 4.452m FOI; tick914
+bud_opw_afm_2025,city_opwijk,2025,2809293,,,jaarrekening_realized,src_opwijk_jr2025,strong,AFM 2025 +2.809m; tick914
+bud_opw_afm_gecorr_2025,city_opwijk,2025,3556048,,,jaarrekening_realized,src_opwijk_jr2025,strong,Gecorrigeerde AFM 2025 +3.556m; tick914
+bud_opw_personnel_2025,city_opwijk,2025,15464257,,,jaarrekening_realized,src_opwijk_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 15.464m; tick914
+bud_opw_toelagen_2025,city_opwijk,2025,3535468,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toegestane werkingssubsidies 2025 3.535m; tick914
+bud_opw_toelagen_opcura_2025,city_opwijk,2025,1236287,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage welzijnsvereniging OPcura 2025 1.236m FOI; tick914
+bud_opw_toelagen_police_2025,city_opwijk,2025,1188311,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage politiezone 2025 1.188m; tick914
+bud_opw_toelagen_hvz_2025,city_opwijk,2025,824462,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage hulpverleningszone 2025 0.824m; tick914
+bud_opw_toelagen_eredienst_2025,city_opwijk,2025,23344,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage eredienst 2025 0.023m; tick914
+bud_opw_toelagen_other_2025,city_opwijk,2025,263065,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage andere begunstigden 2025 0.263m FOI; tick914
+bud_opw_fiscal_2025,city_opwijk,2025,15841492,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fiscale ontvangsten en boetes 2025 15.841m; tick914
+bud_opw_gemeentefonds_2025,city_opwijk,2025,3577507,,,jaarrekening_realized,src_opwijk_jr2025,strong,Gemeentefonds 2025 3.578m; tick914
+bud_opw_invest_subs_2025,city_opwijk,2025,157907,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toegestane investeringssubsidies 2025 0.158m; tick914
+bud_opw_ocmw_cover_booked_2025,city_opwijk,2025,0,,,jaarrekening_realized,src_opwijk_jr2025,strong,OCMW tussenkomst geboekt 2025 0 (planned 0.500m not booked) FOI; tick914
+bud_opw_ocmw_cover_planned_2025,city_opwijk,2025,500000,,,jaarrekening_realized,src_opwijk_jr2025,strong,OCMW tussenkomst planned 0.500m not booked 2025 FOI; tick914
+bud_opw_pl_2025,city_opwijk,2025,1048248,,,jaarrekening_realized,src_opwijk_jr2025,strong,P&L boekjaar 2025 +1.048m; tick914
+bud_opw_mjp_new_loans_2026,city_opwijk,2025,19658102,,,jaarrekening_realized,src_opwijk_jr2025,strong,MJP T4 new loans 2026 19.658m FOI; tick914
+bud_opw_planned_loan_2026_narrative,city_opwijk,2025,14000000,,,jaarrekening_realized,src_opwijk_jr2025,strong,Narrative planned bank loan 2026 14.000m (6.5+7.5 deferred) FOI; tick914
+bud_opw_mjp_fin_debt_2026_lt_st,city_opwijk,2025,29201428,,,jaarrekening_realized,src_opwijk_jr2025,strong,MJP fin debt LT+ST YE2026 ~29.201m (26.752+2.450); tick914
+bud_opw_invest_transfer_loods_2026,city_opwijk,2025,4666789,,,jaarrekening_realized,src_opwijk_jr2025,strong,Werkliedenloods credits transferred to 2026 4.667m FOI; tick914
+bud_opw_opcura_afm_2025,city_opwijk,2025,-421452,,,jaarrekening_realized,src_opwijk_jr2025,strong,OPcura AFM 2025 -0.421m (consol incomplete) FOI; tick914

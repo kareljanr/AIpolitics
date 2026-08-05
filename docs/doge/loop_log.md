@@ -11434,3 +11434,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_nin_*); commitments +4; leaderboard +7; sources +2; entity city_ninove; FOI **gap_nin_loans_ocmw_cash_l5** prio8 ready + draft; raw PDF + key; rq_913=done; spawn **rq_914**; ticks=913
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_914** residual dual L5 (Opwijk PDF cached / Kapellen / Roeselare); deferred **rq_116**; progress@920 in 7
+
+### Tick 914 - 2026-08-07T05:45:00Z
+
+- Unit: **rq_914** (FOI-adjacent residual dual - **Gemeente+OCMW Opwijk Jaarrekening 2025** + Ninove dual)
+- Found (strong primary BBC JR2025 648p):
+  - Assets **EUR94.4m** / equity **EUR72.6m** / debt total **EUR21.8m** / fin debt **EUR11.6m** (**DECLINING** from **EUR13.2m**; LT **EUR9.86m** / ST due **EUR1.70m**)
+  - **New loans only EUR0.15m** (leasing); **planned bank EUR6.5m NOT drawn FOI** (PFAS delay werkliedenloods; credits **EUR4.67m** transferred 2026)
+  - Repayments **EUR1.80m** / cash **EUR7.89m** (was **EUR9.93m**) / pension **EUR6.40m**
+  - Exploitatie: ontvangsten **EUR31.4m** / uitgaven **EUR26.8m** / saldo **+EUR4.57m**
+  - AFM **+EUR2.81m** (gecorr **+EUR3.56m**) / BBR **EUR5.71m** / onbeschikbaar **EUR4.45m FOI** / budget result **-EUR1.49m** / P&L **+EUR1.05m**
+  - Personnel **EUR15.5m** / toelagen **EUR3.54m** (**OPcura EUR1.24m FOI** / police **EUR1.19m** / HVZ **EUR0.82m**) / fiscal **EUR15.8m**
+  - Invest **EUR5.22m** / gemeentefonds **EUR3.58m**
+  - OCMW cover planned **EUR0.50m not booked**; OPcura AFM **-EUR0.42m FOI**
+  - **MJP new loans 2026 EUR19.7m FOI** (narrative bank **EUR14.0m**); fin debt YE2026 ~**EUR29.2m**
+- Dual: Ninove **EUR202.5m** / new loans **EUR5.59m** / OCMW cover **EUR7.53m** (tick913) - not TE-additive
+- Wrote: budgets +44 (bud_opw_*); commitments +4; leaderboard +7; sources +2; entity city_opwijk; FOI **gap_opw_mjp_loans_opcura_l5** prio8 ready + draft; raw PDF + key; rq_914=done; spawn **rq_915**; ticks=914
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_915** residual dual L5 (Kapellen/Roeselare/Horebeke); deferred **rq_116**; progress@920 in 6

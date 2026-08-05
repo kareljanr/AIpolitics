@@ -1,23 +1,1826 @@
-Opwijk JR2025 key figures (BBC consol gemeente+OCMW)
-Source: https://opcura.be/sites/default/files/2026-04/Jaarrekening-2025.pdf
-648p; Ringlaan 20 1745 Opwijk
-tick876
 
-Assets 94373264 / Equity 72585201 / Debt total 21788062
-Cash 7891047 / Cap subs 8420823
-Fin debt 11562051 (LT 9861088 + ST due 1700963) was total ~13.2m
-New loans 153560
-Pension 6402054 was 6131258
-FVA IGS 7494874 / OCMW-ver 1573290
-Onbeschikbaar 4451861
-Expl rec 31409682 / exp 26841231 / saldo 4568450
-AFM 2809293 / gecorr 3556048
-BBR 5711341 / cumul budget 10163202
-Budget result -1494773 / P&L 1048248
-Personnel 15464257
-Toelagen 3535468 (police 1236287 fire 1188311 IGS ~824462 other ~263065)
-OCMW aid 930255
-Fiscal 15841492 (OV 5612196 APB 8044904)
-Gemeentefonds 3577507
-Invest exp 5220403 / invest-subs granted 157907
-OPcura AFM -421452
+===== PAGE 2 =====
+Inhoudstafel 
+Inleiding 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        3 
+I. 
+Beleidsevaluatie  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+        7 
+ 
+II. 
+Financiële nota 
+1. 
+Doelstellingenrekening (schema J1)  
+ 
+ 
+ 
+ 
+ 
+ 
+    155 
+2. 
+Staat van het financieel evenwicht (schema J2)  
+ 
+ 
+ 
+ 
+ 
+    159 
+3. 
+Realisatie van de kredieten (schema J3)  
+ 
+ 
+ 
+ 
+   
+    161  
+4. 
+Balans (schema J4)    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 162 
+5. 
+Staat van opbrengsten en Kosten (schema J5)   
+ 
+ 
+              
+                 164
+ 
+   
+III. 
+Toelichting 
+1. Een overzicht van de ontvangsten en uitgaven naar functionele aard (schema T1)                    166 
+2. Een overzicht van de ontvangsten en uitgaven naar economische aard (schema T2)         
+    170 
+3. De investeringsprojecten (schema T3)  
+ 
+ 
+ 
+ 
+ 
+                  181 
+4. De evolutie van de financiële schulden (schema T4)  
+ 
+ 
+ 
+ 
+    423 
+5. De toelichting bij de balans (schema T5)   
+ 
+ 
+ 
+   
+                  425 
+6. Een verklaring van de materiële verschillen tussen de gerealiseerde en geraamde ontvangsten en 
+uitgaven 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+    427 
+7. Een toelichting over de kosten, opbrengsten, uitgaven en ontvangsten die een buitengewone 
+invloed op het budgettair resultaat van het boekjaar en het saldo van het boekjaar hebben 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+    439 
+8. Het overzicht met de gedeeltes van de kredieten voor investeringen en financiering die 
+overgedragen werden.   
+ 
+ 
+ 
+ 
+   
+ 
+   
+    440 
+9. Overzicht van de financiële risico’s 
+ 
+ 
+ 
+ 
+ 
+ 
+    442 
+10. Een verwijzing naar de plaats waar de documentatie beschikbaar is. 
+   
+ 
+    449 
+11. De waarderingsregels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    450 
+12. Niet in de balans opgenomen rechten en verplichtingen  
+ 
+             
+ 
+    460 
+ 
+IV. 
+Documentatie 
+ 
+1. Overzicht van alle beleidsdoelstellingen die in de jaarrekening zijn opgenomen, met de bijhorende 
+actieplannen, acties, ontvangsten en uitgaven (ODAA)    
+ 
+ 
+     
+ 
+    464 
+2. Overzicht van de toegestane werkings- en investeringssubsidies 
+ 
+ 
+ 
+    624 
+3. Overzicht van de beleidsvelden per beleidsdomein 
+ 
+ 
+       
+                 628  
+4. Overzicht van de verbonden entiteiten 
+ 
+ 
+ 
+ 
+ 
+ 
+    631 
+5. Overzicht van de deelnemingen  
+ 
+ 
+ 
+ 
+ 
+ 
+    632 
+6. Overzicht van de personeelsinzet  
+ 
+ 
+ 
+ 
+ 
+ 
+    633 
+7. Overzicht van de jaarlijkse opbrengst van elke door het bestuur geheven belastingsoort 
+    634 
+8. Overzicht van een aantal financiële ratio’s 
+ 
+ 
+ 
+ 
+ 
+    636 
+9. Herraming responsabiliseringsbijdrage 
+ 
+ 
+ 
+ 
+ 
+                  641 
+10. Overzicht pensioenfondsen 
+ 
+ 
+ 
+ 
+ 
+                
+    645 
+ 
+2 / 648
+
+===== PAGE 3 =====
+Inleiding 
+ 
+ 
+De jaarrekening -het gezamenlijke beleidsrapport voor de gemeente en het OCMW- bestaat 
+uit een beleidsevaluatie, een financiële nota, een toelichting en documentatie. 
+ 
+ 
+I. Beleidsevaluatie 
+De beleidsevaluatie beschrijft het gevoerde beleid van de gemeente en het OCMW tijdens 
+het boekjaar. Ze beoordeelt de beleidsdoelstellingen, actieplannen en acties. 
+Er moet enkel gerapporteerd worden over prioritaire acties. Het lokaal bestuur heeft ervoor 
+gekozen alle acties prioritair te maken, zodat over elke actie verslag wordt uitgebracht. Over 
+het gelijkblijvend beleid dat niet onder een actie valt, wordt niet gerapporteerd. 
+ 
+II. Financiële nota 
+De financiële nota geeft de financiële gevolgen weer van het gevoerde beleid in het voorbije 
+jaar. 
+ 
+1. Doelstellingenrekening (schema J1) 
+De doelstellingenrekening bevat: 
+1. De ontvangsten en uitgaven per beleidsdoelstelling met prioritaire acties. 
+2. De ontvangsten en uitgaven van de beleidsdoelstellingen zonder prioritaire acties. 
+3. De ontvangsten en uitgaven zonder beleidsdoelstellingen. 
+ 
+2. Staat van het financieel evenwicht (schema J2) 
+De staat van het financiële evenwicht bevat: 
+1. Een vergelijking van het beschikbaar budgettair resultaat met de laatste aanpassing 
+van het meerjarenplan. 
+2. Een vergelijking van de autofinancieringsmarge met de laatste aanpassing van het 
+meerjarenplan. De autofinancieringsmarge is het verschil tussen het exploitatiesaldo en de 
+netto aflossingen van de gemeente. 
+3. Een vergelijking van de gecorrigeerde autofinancieringsmarge met de laatste aanpassing 
+van het meerjarenplan. De gecorrigeerde autofinancieringsmarge is de 
+autofinancieringsmarge, vermeerderd met de periodieke aflossingen en verminderd met 8% 
+van de totale financiële schuld op 31 december van het vorige boekjaar. 
+ 
+Beschikbaar budgettair resultaat 
+Het budgettair resultaat van het boekjaar 2025 bedraagt € -1.494.773, wat € 3.377.979 beter 
+is dan geraamd.  
+• 
+Het exploitatiesaldo (€ 4.568.450) is € 1.392.777 positiever dan geraamd door de 
+exploitatie-ontvangsten die € 806.512 hoger liggen dan geraamd en de exploitatie-
+uitgaven die € 586.266 lager liggen dan geraamd.  
+• 
+Het investeringssaldo (€ -4.431.226) is € 8.348.409 beter dan geraamd vooral door € 
+8.517.584 minder uitgaven dan geraamd. Het grootste deel van deze niet gebruikte 
+investeringskredieten werd overgedragen naar 2025.  
+€ 169.175 van de voorziene investeringsontvangsten werden niet gerealiseerd. 
+(Verkoop gebouwen – grond)  
+• 
+Het financieringssaldo is € 6.363.208 lager dan geraamd. Dit komt door het niet 
+opnemen van de voorziene lening van € 6.500.000. 
+3 / 648
+
+===== PAGE 4 =====
+Het gecumuleerd budgettair resultaat van 2024 (€ 11.657.975) wordt bij het resultaat van het 
+boekjaar geteld, zodat het beschikbaar budgettair resultaat van 2025, na aftrek van de 
+onbeschikbare gelden (€ 4.451.861) in totaal € 5.711.341 bedraagt. 
+ 
+Autofinancieringsmarge en gecorrigeerde autofinancieringsmarge 
+Door het hogere exploitatiesaldo t.o.v. de raming is de autofinancieringsmarge (AFM) € 
+1.308.195 positiever dan geraamd, namelijk € 2.809.293 
+Het hogere exploitatiesaldo zorgt ook voor een gunstigere gecorrigeerde 
+autofinancieringsmarge (€ 3.556.048).  
+De periodieke aflossingen en de periodieke terugvordering van leningen waren nauwkeurig 
+geraamd. 
+ 
+Geconsolideerd financieel evenwicht 
+De jaarrekening van welzijnsvereniging OPcura is nog niet afgesloten. Gezien de positieve 
+cijfers van het lokaal bestuur en de licht negatieve cijfers van OPcura (€ -421.452) blijven de 
+geconsolideerde cijfers ook ruim positief. 
+ 
+3. Realisatie van de kredieten (schema J3) Dit schema toont de gerealiseerde 
+ontvangsten en uitgaven, samen met de kredieten die voor het boekjaar in het meerjarenplan 
+waren opgenomen. 
+ 
+4. Balans (schema J4) 
+De balans geeft een overzicht van het vermogen van het lokaal bestuur op het einde van het 
+boekjaar en vergelijkt dit met het vermogen van het vorige boekjaar. 
+ 
+5. Staat van opbrengsten en kosten (schema J5) 
+Dit schema vermeldt de opbrengsten en kosten van het boekjaar, naast die van het vorige 
+boekjaar. 
+ 
+III. Toelichting 
+ 
+De toelichting bevat: 
+1. Een overzicht van de ontvangsten en uitgaven naar functionele aard (schema T1). 
+2. Een overzicht van de ontvangsten en uitgaven naar economische aard (schema T2). 
+3. De investeringsprojecten (schema T3). 
+4. De evolutie van de financiële schulden (schema T4). 
+5. De toelichting bij de balans (schema T5). 
+6. Een verklaring van de materiële verschillen tussen de gerealiseerde en geraamde 
+ontvangsten en uitgaven. 
+7. Een toelichting over de kosten, opbrengsten, uitgaven en ontvangsten die een 
+buitengewone invloed op het budgettair resultaat van het boekjaar en het saldo van het 
+boekjaar hebben. 
+8. Het overzicht met de gedeeltes van de kredieten voor investeringen en financiering die 
+overgedragen werden. 
+9. De financiële risico’s. 
+10. Een verwijzing naar de plaats waar de documentatie beschikbaar is:  
+https://www.opwijk.be/jaarrekening-gemeente-ocmw-2025. 
+11. De waarderingsregels. 
+12. De niet in de balans opgenomen rechten en verplichtingen. 
+ 
+IV. Documentatie 
+ 
+1. Overzicht van alle beleidsdoelstellingen die in de jaarrekening zijn opgenomen, met de 
+bijhorende actieplannen, acties, ontvangsten en uitgaven (ODAA). 
+4 / 648
+
+===== PAGE 9 =====
+Prioritaire beleidsdoelstelling: BD-22: Streven naar een efficiënte, moderne en financieel
+gezonde organisatie.
+Kwalitatieve omschrijving: Streven naar een efficiënte, moderne en financieel gezonde organisatie waar een kwalitatieve
+dienstverlening voor de burger centraal staat met aandacht voor het Vlaamse karakter van onze gemeente.
+Van 01/01/2020 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: In kader van een goed financieel beleid werd in 2025 ingezet op het verder digitaliseren
+van de diensten (E-box, Poppol, Qr-code).
+Op vlak van personeelsbeleid werd er verder ingezet op vorming en werd er gewerkt aan een
+feedbackcultuur.
+2025
+Jaarrekening
+Eindkredieten
+Initiële kredieten
+Exploitatie
+Uitgaven
+157.382
+287.600
+277.533
+Ontvangsten
+12.321
+0
+0
+Saldo
+-145.061
+-287.600
+-277.533
+Investeringen
+Uitgaven
+523.091
+604.623
+2.830.000
+Ontvangsten
+0
+0
+0
+Saldo
+-523.091
+-604.623
+-2.830.000
+Financiering
+Uitgaven
+0
+0
+0
+Ontvangsten
+0
+0
+0
+Saldo
+0
+0
+0
+Prioritair actieplan: AP-187: Het voeren van een gezond financieel beleid
+Van 01/01/2020 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: Er werd het nodige gedaan om de financiën van de gemeente gezond te houden:
+- Er werden geen nieuwe leningen aangegaan wat de autofinancieringsmarge ten goede kwam.
+- De schuld per inwoner daalde.
+- Er werd ingezet op het beter innen van openstaande schulden.
+- Er werden systematisch controles uitgevoerd op de uitbetalingen van steun en op de verrichtingen
+in het kader van budgetbeheer.
+Prioritaire actie: ACT-346: Actief schuldbeheer voeren
+Van 01/01/2020 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: Er werden geen nieuwe leningen aangegaan. 1 lening met "Lineair CMS
+spread 30Y-2Y" wordt strikt opgevolgd om een hoge rente te vermijden. Een aanpasing was
+niet nodig. Bij evaluatie van de schuldportefeuille waren er geen opportuniteiten om de
+leningen aan te passen.
+JAARREKENING ORIGINEEL 2025 : Beleidsevaluatie
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+3 / 147
+9 / 648
+
+===== PAGE 10 =====
+Prioritaire actie: ACT-347: Maximaal inzetten op subsidies i.s.m. de verschillende
+diensten
+Van 01/01/2020 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: Bij het opstarten van een dossier wordt er steeds bekeken of er subsidies
+mogelijk zijn. Gezien de gedane investeringen tot nu toe eerder beperkt waren, waren ook de
+subsidies beperkt. In het kader van LEKP (lokaal energie en klimaat pact) wordt volop ingezet
+op het bekomen van subsidie. Ook bij de aanleg van de fietssnelwegen wordt optimaal
+gebruik gemaakt van subsidies. De Top-denderprojecten worden gereäliseerd met subsidies.
+Prioritaire actie: ACT-348: Evalueren en analyseren van belasting- en
+retributiereglementen
+Van 01/01/2023 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: Een overzicht van de bestaande belastngen werd met de bevoegde schepen
+besproken. Tijdens de gemeenteraad van december werden de nieuwe belastingsreglementen
+voorgelegd aan de gemeenteraad.
+Prioritaire actie: ACT-349: Open en transparant communiceren over de financiële
+toestand van de gemeente/ OCMW
+Van 01/01/2020 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: In het infoblad wordt er nuttige informatie voor de inwoners verstrekt over de
+financiën van het lokaal bestuur. Ook bij de opmaak van de jaarrekening en de
+meerjarenplanaanpassingen werd ingezet op het verstrekken van de nodige, duidelijke
+informatie. Per kwartaal werd de kwartaalrapportering voorgelegd aan het college.
+Prioritaire actie: ACT-433: Subsidiereglementen kritisch evalueren en toepassen naar
+hedendaagse noden.
+- Het verbeteren van het huidige subsidiereglement voor erkende sportclubs met extra nadruk op kwaliteitsvolle
+(jeugd)werking.
+- Het behouden van een huurtussenkomst voor erkende sportclubs die gebruik maken van het VKO bij gebrek aan
+plaats in de sporthal Heiveld.
+- Het verbeteren van het subsidiereglement 'infrastructuur compenserende subsidies' voor socio-culturele
+verenigingen.
+Van 01/01/2020 tot 31/12/2027
+Toelichting evaluatie:
+Evaluaties:
+Evaluatie 2025: Er werden geen wijzigingen aangebracht in lopende subsidiereglementen
+tijdens het jaar 2025.
+JAARREKENING ORIGINEEL 2025 : Beleidsevaluatie
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+4 / 147
+10 / 648
+
+===== PAGE 159 =====
+J2: Staat van het financieel evenwicht
+2025
+Journaalvolgnummers: JR Budg. 1156371 Alg. 38884 / EK Budg. 132434 Budg. 20254
+Gemeente (0207.511.803)
+OCMW (0212.206.504)
+Ringlaan  20, 1745 Opwijk
+Ringlaan  20, 1745 Opwijk
+Algemeen directeur:: Christel Ringoot
+Financieel directeur:: Bart Verdoodt
+Budgettair resultaat
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+4.568.450
+3.175.673
+a. Ontvangsten
+31.409.682
+30.603.170
+b. Uitgaven
+26.841.231
+27.427.497
+II. Investeringssaldo
+-4.431.226
+-12.779.635
+a. Ontvangsten
+789.177
+958.352
+b. Uitgaven
+5.220.403
+13.737.987
+III. Saldo exploitatie en investeringen
+137.224
+-9.603.962
+IV. Financieringssaldo
+-1.631.998
+4.731.210
+a. Ontvangsten
+171.735
+6.680.062
+b. Uitgaven
+1.803.733
+1.948.852
+V. Budgettair resultaat van het boekjaar
+-1.494.773
+-4.872.752
+VI. Gecumuleerd budgettair resultaat vorig boekjaar
+11.657.975
+11.657.975
+VII. Gecumuleerd budgettair resultaat
+10.163.202
+6.785.223
+VIII. Onbeschikbare gelden
+4.451.861
+5.692.771
+IX. Beschikbaar budgettair resultaat
+5.711.341
+1.092.451
+Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+4.568.450
+3.175.673
+II. Netto periodieke aflossingen
+1.759.158
+1.746.575
+a. Periodieke aflossingen conform de verbintenissen
+1.803.733
+1.793.852
+b. Periodieke terugvordering leningen
+44.575
+47.277
+III. Autofinancieringsmarge
+2.809.293
+1.429.098
+Gecorrigeerde Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Autofinancieringsmarge
+2.809.293
+1.429.098
+II. Correctie op de periodieke aflossingen
+746.755
+736.874
+a. Periodieke aflossingen conform de verbintenissen
+1.803.733
+1.793.852
+b. Gecorrigeerde aflossingen o.b.v. de financiële schulden
+1.056.978
+1.056.978
+III. Gecorrigeerde autofinancieringsmarge
+3.556.048
+2.165.972
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+1 / 2
+159 / 648
+
+===== PAGE 160 =====
+Geconsolideerd financieel evenwicht
+Jaarrekening
+Meerjarenplan
+I. Beschikbaar budgettair resultaat
+- Gemeente en OCMW
+5.711.341
+1.092.451
+- Welzijnsvereniging
+114.980
+Totaal beschikbaar budgettair resultaat
+5.711.341
+1.207.431
+II. Autofinancieringsmarge
+- Gemeente en OCMW
+2.809.293
+1.429.098
+- Welzijnsvereniging
+-421.452
+Totale Autofinancieringsmarge
+2.809.293
+1.007.646
+III. Gecorrigeerde autofinancieringsmarge
+- Gemeente en OCMW
+3.556.048
+2.165.972
+- Welzijnsvereniging
+-421.452
+Totale gecorrigeerde autofinancieringsmarge
+3.556.048
+1.744.520
+Andere gebruikte dossiers op dit rapport:
+Voorgaande JR dossiers:
+JR_ORIGINEEL_2024 2024: Budg. 1101080 Alg. 39538
+MJP dossiers van andere entiteiten:
+Welzijnsvereniging: MJP_HERZIENING_6_2025 2025: Budg. 20254
+MJP:
+MJP_HERZIENING_12_BEGINKREDIET_2026 2025: Budg. 132434
+Dossiers van andere entiteiten:
+/
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+2 / 2
+160 / 648
+
+===== PAGE 162 =====
+J4: Balans
+2025
+Journaalvolgnummers: JR Budg. 1156371 Alg. 38884 / JR-1 Budg. 1101080 Alg. 39538
+Gemeente (0207.511.803)
+OCMW (0212.206.504)
+Ringlaan  20, 1745 Opwijk
+Ringlaan  20, 1745 Opwijk
+Algemeen directeur:: Christel Ringoot
+Financieel directeur:: Bart Verdoodt
+2025
+2024
+ACTIVA
+94.373.264
+93.885.847
+I. Vlottende activa
+12.548.082
+13.821.606
+A. Liquide middelen en geldbeleggingen
+7.891.047
+9.930.567
+B. Vorderingen op korte termijn
+4.587.318
+3.809.970
+1. Vorderingen uit ruiltransacties
+1.118.573
+1.241.786
+2. Vorderingen uit niet-ruiltransacties
+3.468.745
+2.568.184
+C. Voorraden en bestellingen in uitvoering
+0
+0
+D. Overlopende rekeningen van het actief
+0
+0
+E. Vorderingen op lange termijn die binnen het jaar vallen
+69.718
+81.069
+II. Vaste activa
+81.825.181
+80.064.241
+A. Vorderingen op lange termijn
+536.584
+606.302
+1. Vorderingen uit ruiltransacties
+277.749
+295.924
+2. Vorderingen uit niet-ruiltransacties
+258.835
+310.378
+B. Financiële vaste activa
+13.887.990
+13.805.007
+1. Extern verzelfstandigde agentschappen
+3.918
+3.918
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+7.494.874
+7.414.673
+3. OCMW-verenigingen
+1.573.290
+1.573.320
+4. Andere financiële vaste activa
+4.815.909
+4.813.096
+C. Materiële vaste activa
+66.679.317
+64.914.960
+1. Gemeenschapsgoederen
+65.105.025
+63.228.076
+a. Terreinen en gebouwen
+48.491.611
+46.656.872
+b. Wegen en andere infrastructuur
+13.624.953
+13.503.654
+c. Installaties, machines en uitrusting
+1.000.373
+1.091.267
+d. Meubilair, kantooruitrusting en rollend materieel
+689.391
+652.807
+e. Leasing en soortgelijke rechten
+1.135.881
+1.178.084
+f. Erfgoed
+162.816
+145.392
+2. Bedrijfsmatige materiële vaste activa
+1.345.189
+1.451.197
+a. Terreinen en gebouwen
+1.345.189
+1.451.197
+b. Installaties, machines en uitrusting
+0
+0
+c. Meubilair, kantooruitrusting en rollend materieel
+0
+0
+d. Leasing en soortgelijke rechten
+0
+0
+3. Andere materiële vaste activa
+229.103
+235.687
+a. Terreinen en gebouwen
+229.103
+235.687
+b. Roerende goederen
+0
+0
+D. Immateriële vaste activa
+721.290
+737.972
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+1 / 2
+162 / 648
+
+===== PAGE 163 =====
+2025
+2024
+PASSIVA
+94.373.264
+93.885.847
+I. Schulden
+21.788.062
+22.695.069
+A. Schulden op korte termijn
+5.524.920
+5.151.186
+1. Schulden uit ruiltransacties
+3.733.084
+3.283.533
+a. Voorzieningen voor risico's en kosten
+1.450.311
+1.224.930
+b. Financiële schulden
+0
+0
+c. Niet-financiële schulden uit ruiltransacties
+2.282.772
+2.058.603
+2. Schulden uit niet-ruiltransacties
+32.391
+23.959
+3. Overlopende rekeningen van het passief
+58.483
+44.095
+4. Schulden op lange termijn die binnen het jaar vervallen
+1.700.963
+1.799.599
+B. Schulden op lange termijn
+16.263.142
+17.543.883
+1. Schulden uit ruiltransacties
+16.263.142
+17.543.883
+a. Voorzieningen voor risico's en kosten
+6.402.054
+6.131.258
+1. Pensioenen en soortgelijke verplichtingen
+6.402.054
+6.131.258
+2. Andere risico's en kosten
+0
+0
+b. Financiële schulden
+9.861.088
+11.412.625
+c. Niet-financiële schulden uit ruiltransacties
+0
+0
+2. Schulden uit niet-ruiltransacties
+0
+0
+II. Nettoactief
+72.585.201
+71.190.778
+A. Kapitaalssubsidies en schenkingen
+8.420.823
+8.201.059
+B. Gecumuleerd overschot of tekort
+13.544.434
+12.496.186
+C. Herwaarderingsreserves
+3.074.117
+2.947.705
+D. Overig nettoactief
+47.545.828
+47.545.828
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 1101080 Alg. 39538
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+2 / 2
+163 / 648
+
+===== PAGE 164 =====
+J5: Staat van opbrengsten en kosten
+2025
+Journaalvolgnummers: JR Budg. 1156371 Alg. 38884 / JR-1 Budg. 1101080 Alg. 39538
+Gemeente (0207.511.803)
+OCMW (0212.206.504)
+Ringlaan  20, 1745 Opwijk
+Ringlaan  20, 1745 Opwijk
+Algemeen directeur:: Christel Ringoot
+Financieel directeur:: Bart Verdoodt
+2025
+2024
+I. Kosten
+30.817.513
+32.290.069
+A. Operationele kosten
+30.490.947
+31.923.911
+1. Goederen en diensten
+6.349.622
+6.070.943
+2. Bezoldigingen, sociale lasten en pensioenen
+15.464.257
+14.457.313
+3. Afschrijvingen, waardeverminderingen en voorzieningen
+3.693.518
+6.658.638
+4. Individuele hulpverlening door O.C.M.W.
+930.255
+839.374
+5. Toegestane werkingssubsidies
+3.535.468
+3.476.836
+6. Toegestane investeringssubsidies
+157.907
+137.947
+7. Minderwaarden bij de realisatie van vaste activa
+119.836
+78.684
+8. Andere operationele kosten
+240.085
+204.176
+B. Financiële kosten
+326.566
+366.158
+II. Opbrengsten
+31.865.762
+30.533.360
+A. Operationele opbrengsten
+31.160.568
+29.671.012
+1. Opbrengsten uit de werking
+1.521.103
+1.590.525
+2. Fiscale opbrengsten en boetes
+15.841.492
+14.767.572
+3. Werkingssubsidies
+12.800.359
+12.218.260
+a. Algemene werkingssubsidies
+5.532.207
+5.372.513
+b. Specifieke werkingssubsidies
+7.268.152
+6.845.747
+4. Recuperatie individuele hulpverlening
+99.973
+111.767
+5. Meerwaarden bij de realisatie van vaste activa
+28.880
+138.192
+6. Andere operationele opbrengsten
+868.761
+844.696
+B. Financiële opbrengsten
+705.194
+862.348
+III. Overschot of tekort van het boekjaar
+1.048.248
+-1.756.710
+A. Operationeel overschot of tekort
+669.620
+-2.252.899
+B. Financieel overschot of tekort
+378.628
+496.189
+IV. Verwerking van het overschot of tekort van het boekjaar
+1.048.248
+-1.756.710
+A. Rechthebbenden uit het overschot van het boekjaar
+0
+0
+B. Tussenkomst door derden in het tekort van het boekjaar
+0
+0
+C. Over te dragen overschot of tekort van het boekjaar
+1.048.248
+-1.756.710
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 1101080 Alg. 39538
+JAARREKENING ORIGINEEL 2025 : Staat van opbrengsten en kosten
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+1 / 1
+164 / 648
+
+===== PAGE 170 =====
+T2: Ontvangsten en uitgaven naar economische aard
+2025
+Journaalvolgnummers: JR Budg. 1156371 Alg. 38884 / EK Budg. 132434
+Gemeente (0207.511.803)
+OCMW (0212.206.504)
+Ringlaan  20, 1745 Opwijk
+Ringlaan  20, 1745 Opwijk
+Algemeen directeur:: Christel Ringoot
+Financieel directeur:: Bart Verdoodt
+I. Exploitatie-uitgaven
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele uitgaven
+22.064.425
+22.187.545
+22.275.676
+23.718.837
+25.044.251
+26.514.665
+26.995.975
+1. Goederen en diensten
+5.156.833
+5.428.174
+6.109.115
+6.040.067
+6.070.943
+6.349.622
+7.250.263
+2. Bezoldigingen, sociale lasten en pensioenen
+12.675.468
+12.276.110
+11.970.536
+13.150.906
+14.457.313
+15.464.257
+14.873.135
+a. Politiek personeel
+339.921
+361.875
+382.703
+403.728
+399.931
+403.803
+450.288
+b. Vastbenoemd niet-onderwijzend personeel
+3.286.243
+3.105.008
+3.335.716
+3.445.935
+3.364.184
+3.377.883
+3.536.889
+c. Niet vastbenoemd niet-onderwijzend personeel
+3.505.086
+3.854.676
+3.948.453
+4.669.355
+5.500.845
+6.276.942
+5.813.203
+d. Onderwijzend personeel ten laste van bestuur
+5.215.956
+4.539.404
+3.869.228
+0
+0
+0
+0
+e. Onderwijzend personeel ten laste van andere overheden
+0
+0
+0
+4.165.059
+4.687.264
+4.933.544
+4.572.496
+f. Andere personeelskosten
+195.743
+242.871
+237.306
+261.337
+294.382
+259.200
+287.255
+g. Pensioenen
+132.520
+172.277
+197.131
+205.493
+210.707
+212.884
+213.004
+3. Individuele hulpverlening door het O.C.M.W.
+953.788
+910.639
+941.527
+874.369
+839.374
+930.255
+1.096.000
+4. Toegestane werkingssubsidies
+3.184.089
+3.288.153
+3.025.400
+3.383.742
+3.476.836
+3.535.468
+3.578.577
+- aan de districten
+0
+0
+0
+0
+0
+0
+0
+- aan de eigen autonome provinciebedrijven (APB)
+0
+0
+0
+0
+0
+0
+0
+- aan de eigen autonome gemeentebedrijven (AGB)
+0
+0
+0
+0
+0
+0
+0
+- aan welzijnsverenigingen
+0
+643.500
+1.274.130
+1.261.389
+1.248.775
+1.236.287
+1.236.287
+- aan andere OCMW-verenigingen
+0
+0
+0
+0
+0
+0
+0
+- aan de politiezone
+956.894
+1.138.112
+849.918
+1.097.366
+1.153.546
+1.188.311
+1.188.311
+- aan de hulpverleningszone
+569.146
+610.069
+626.420
+733.633
+775.433
+824.462
+824.462
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+0
+0
+0
+0
+0
+0
+0
+- aan besturen van de eredienst
+27.610
+55.667
+40.986
+57.460
+59.243
+23.344
+23.344
+- aan niet-confessionele levensbeschouwelijke gemeenschappen
+0
+0
+0
+0
+0
+0
+0
+- aan andere begunstigden
+1.630.440
+840.806
+233.945
+233.893
+239.839
+263.065
+306.174
+5. Andere operationele uitgaven
+94.247
+284.469
+229.099
+269.753
+199.785
+235.063
+198.000
+B. Financiële uitgaven
+470.455
+403.645
+372.662
+377.163
+366.158
+326.566
+431.521
+1. Rente, commissies en kosten verbonden aan schulden
+467.836
+400.841
+369.195
+374.767
+361.652
+323.287
+428.321
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+1 / 11
+170 / 648
+
+===== PAGE 171 =====
+I. Exploitatie-uitgaven
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+- aan financiële instellingen
+448.206
+377.753
+349.961
+346.343
+335.343
+304.967
+405.037
+- aan andere entiteiten
+19.629
+23.089
+19.234
+28.424
+26.308
+18.320
+23.285
+2. Andere financiële uitgaven
+2.619
+2.804
+3.467
+2.395
+4.507
+3.279
+3.200
+C. Rechthebbenden uit het overschot van het boekjaar
+0
+0
+0
+0
+0
+0
+0
+I. Exploitatie-uitgaven
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+A. Operationele uitgaven
+27.358.575
+27.887.842
+1. Goederen en diensten
+7.105.216
+7.056.582
+2. Bezoldigingen, sociale lasten en pensioenen
+15.237.559
+15.627.675
+a. Politiek personeel
+459.294
+468.479
+b. Vastbenoemd niet-onderwijzend personeel
+3.722.595
+3.979.875
+c. Niet vastbenoemd niet-onderwijzend personeel
+5.990.394
+6.109.868
+d. Onderwijzend personeel ten laste van bestuur
+0
+0
+e. Onderwijzend personeel ten laste van andere overheden
+4.572.496
+4.572.496
+f. Andere personeelskosten
+279.715
+283.831
+g. Pensioenen
+213.064
+213.125
+3. Individuele hulpverlening door het O.C.M.W.
+1.096.000
+1.095.500
+4. Toegestane werkingssubsidies
+3.721.800
+3.911.115
+- aan de districten
+0
+0
+- aan de eigen autonome provinciebedrijven (APB)
+0
+0
+- aan de eigen autonome gemeentebedrijven (AGB)
+0
+0
+- aan welzijnsverenigingen
+1.236.287
+1.236.287
+- aan andere OCMW-verenigingen
+0
+0
+- aan de politiezone
+1.188.311
+1.188.311
+- aan de hulpverleningszone
+920.751
+1.110.066
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+0
+0
+- aan besturen van de eredienst
+86.967
+86.967
+- aan niet-confessionele levensbeschouwelijke gemeenschappen
+0
+0
+- aan andere begunstigden
+289.484
+289.484
+5. Andere operationele uitgaven
+198.000
+196.970
+B. Financiële uitgaven
+844.632
+1.183.563
+1. Rente, commissies en kosten verbonden aan schulden
+841.432
+1.180.363
+- aan financiële instellingen
+812.619
+1.154.177
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+2 / 11
+171 / 648
+
+===== PAGE 172 =====
+I. Exploitatie-uitgaven
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+- aan andere entiteiten
+28.813
+26.186
+2. Andere financiële uitgaven
+3.200
+3.200
+C. Rechthebbenden uit het overschot van het boekjaar
+0
+0
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele ontvangsten
+26.347.107
+25.685.013
+25.496.169
+29.876.266
+29.532.821
+31.141.054
+30.226.470
+1. Ontvangsten uit de werking
+1.267.049
+1.353.377
+1.495.795
+1.583.005
+1.590.525
+1.521.103
+1.595.696
+2. Fiscale ontvangsten en boetes
+12.218.342
+12.403.389
+12.559.406
+16.173.786
+14.767.572
+15.841.492
+15.418.848
+a. Aanvullende belastingen
+10.890.549
+10.683.426
+10.927.524
+14.414.597
+12.957.746
+13.876.559
+13.685.850
+- Opcentiemen op de onroerende voorheffing
+4.528.116
+4.470.548
+4.680.703
+5.186.790
+5.662.323
+5.612.196
+5.680.063
+- Aanvullende belasting op de personenbelasting
+6.164.276
+6.008.404
+6.049.043
+9.016.083
+7.079.251
+8.044.904
+7.779.696
+- Andere aanvullende belastingen
+198.157
+204.473
+197.778
+211.724
+216.173
+219.459
+226.091
+b. Andere belastingen en boetes
+1.327.793
+1.719.963
+1.631.882
+1.759.189
+1.809.826
+1.964.933
+1.732.998
+3. Werkingssubsidies
+11.961.446
+11.040.070
+10.470.888
+11.181.663
+12.218.260
+12.809.725
+12.235.193
+a. Algemene werkingssubsidies
+4.498.724
+4.364.187
+4.609.307
+5.034.168
+5.372.513
+5.532.207
+5.426.723
+- Gemeentefonds
+3.172.106
+3.233.565
+3.331.102
+3.424.859
+3.484.499
+3.577.507
+3.594.657
+- Andere algemene werkingssubsidies
+1.326.618
+1.130.622
+1.278.205
+1.609.309
+1.888.014
+1.954.700
+1.832.066
+- van de federale overheid
+0
+0
+2.749
+0
+0
+2.997
+0
+- van de Vlaamse overheid
+1.226.789
+1.130.622
+1.275.456
+1.607.040
+1.884.128
+1.951.703
+1.828.004
+- van de provincie
+0
+0
+0
+0
+0
+0
+0
+- van de gemeente
+0
+0
+0
+0
+0
+0
+0
+- van het OCMW
+0
+0
+0
+0
+0
+0
+0
+- van andere entiteiten
+99.829
+0
+0
+2.269
+3.886
+0
+4.063
+b. Specifieke werkingssubsidies
+7.462.722
+6.675.883
+5.861.581
+6.147.495
+6.845.747
+7.277.518
+6.808.470
+- van de federale overheid
+1.101.199
+1.002.540
+995.018
+975.471
+994.166
+979.168
+1.030.050
+- van de Vlaamse overheid
+6.333.554
+5.655.940
+4.861.896
+5.157.118
+5.833.038
+6.283.983
+5.733.266
+- van de provincie
+0
+1.419
+3.588
+4.150
+15.585
+14.366
+45.154
+- van de gemeente
+0
+0
+0
+0
+0
+0
+0
+- van het OCMW
+0
+0
+0
+0
+0
+0
+0
+- van andere entiteiten
+27.969
+15.985
+1.080
+10.755
+2.959
+0
+0
+4. Recuperatie individuele hulpverlening
+139.538
+107.793
+119.999
+80.385
+111.767
+99.973
+109.200
+5. Andere operationele ontvangsten
+760.732
+780.384
+850.081
+857.428
+844.696
+868.761
+867.533
+B. Financiële ontvangsten
+479.183
+495.165
+296.992
+381.233
+391.251
+268.628
+376.700
+C. Tussenkomst door derden in het tekort van het boekjaar
+0
+0
+0
+0
+0
+0
+0
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+3 / 11
+172 / 648
+
+===== PAGE 173 =====
+II. Exploitatieontvangsten
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+A. Operationele ontvangsten
+31.033.640
+31.491.912
+1. Ontvangsten uit de werking
+1.588.593
+1.609.524
+2. Fiscale ontvangsten en boetes
+15.909.675
+16.363.223
+a. Aanvullende belastingen
+14.160.603
+14.597.755
+- Opcentiemen op de onroerende voorheffing
+5.843.775
+6.007.939
+- Aanvullende belasting op de personenbelasting
+8.086.452
+8.355.372
+- Andere aanvullende belastingen
+230.376
+234.444
+b. Andere belastingen en boetes
+1.749.072
+1.765.468
+3. Werkingssubsidies
+12.339.277
+12.578.543
+a. Algemene werkingssubsidies
+5.500.931
+5.632.591
+- Gemeentefonds
+3.639.951
+3.689.127
+- Andere algemene werkingssubsidies
+1.860.980
+1.943.464
+- van de federale overheid
+0
+0
+- van de Vlaamse overheid
+1.858.480
+1.940.964
+- van de provincie
+0
+0
+- van de gemeente
+0
+0
+- van het OCMW
+0
+0
+- van andere entiteiten
+2.500
+2.500
+b. Specifieke werkingssubsidies
+6.838.346
+6.945.953
+- van de federale overheid
+1.093.766
+1.097.166
+- van de Vlaamse overheid
+5.739.580
+5.843.787
+- van de provincie
+5.000
+5.000
+- van de gemeente
+0
+0
+- van het OCMW
+0
+0
+- van andere entiteiten
+0
+0
+4. Recuperatie individuele hulpverlening
+109.200
+109.200
+5. Andere operationele ontvangsten
+1.086.895
+831.421
+B. Financiële ontvangsten
+379.153
+378.786
+C. Tussenkomst door derden in het tekort van het boekjaar
+0
+0
+III. Exploitatiesaldo
+4.291.410
+3.588.987
+3.144.824
+6.161.500
+4.513.662
+4.568.450
+3.175.673
+III. Exploitatiesaldo
+3.209.586
+2.799.292
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+4 / 11
+173 / 648
+
+===== PAGE 423 =====
+T4: Evolutie van de financiële schulden
+2025
+Journaalvolgnummers: JR Budg. 1156371 Alg. 38884
+Gemeente (0207.511.803)
+OCMW (0212.206.504)
+Ringlaan  20, 1745 Opwijk
+Ringlaan  20, 1745 Opwijk
+Algemeen directeur:: Christel Ringoot
+Financieel directeur:: Bart Verdoodt
+Financiële schulden op 31 december
+2020
+2021
+2022
+2023
+2024
+2025
+A. Financiële schulden op lange termijn
+18.727.515
+16.720.121
+14.732.540
+13.019.003
+11.412.625
+9.861.088
+1. Financiële schulden op 1 januari
+20.615.732
+18.727.515
+16.720.121
+14.732.540
+13.019.003
+11.412.625
+2. Nieuwe leningen
+687.638
+210.556
+175.886
+208.016
+203.910
+153.560
+3. Aflossingen
+0
+0
+0
+0
+0
+0
+4. Overboekingen
+-2.575.855
+-2.217.950
+-2.163.468
+-1.921.553
+-1.810.288
+-1.705.097
+5. Andere mutaties
+0
+0
+0
+0
+0
+0
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+2.520.840
+2.286.037
+2.155.042
+1.917.612
+1.799.599
+1.700.963
+1. Financiële schulden op 1 januari
+2.428.605
+2.520.840
+2.286.037
+2.155.042
+1.917.612
+1.799.599
+2. Aflossingen
+-2.483.620
+-2.452.753
+-2.294.463
+-2.158.983
+-1.928.301
+-1.803.733
+3. Overboekingen
+2.575.855
+2.217.950
+2.163.468
+1.921.553
+1.810.288
+1.705.097
+4. Andere mutaties
+0
+0
+0
+0
+0
+0
+C. Financiële schulden op  korte termijn
+168.010
+0
+13.807
+0
+0
+0
+Totaal financiële schulden
+21.416.365
+19.006.159
+16.901.389
+14.936.615
+13.212.224
+11.562.051
+Financiële schulden op 31 december
+2026
+2027
+A. Financiële schulden op lange termijn
+26.751.751
+27.470.193
+1. Financiële schulden op 1 januari
+9.861.088
+26.751.751
+2. Nieuwe leningen
+19.658.102
+3.158.102
+3. Aflossingen
+0
+0
+4. Overboekingen
+-2.767.439
+-2.439.660
+5. Andere mutaties
+0
+0
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+2.449.677
+2.121.898
+1. Financiële schulden op 1 januari
+1.700.963
+2.449.677
+2. Aflossingen
+-2.018.725
+-2.767.439
+JAARREKENING ORIGINEEL 2025 : Evolutie van de financiële schulden
+2025
+Gemeente en OCMW (0207.511.803 / 0212.206.504)
+1 / 2
+423 / 648
