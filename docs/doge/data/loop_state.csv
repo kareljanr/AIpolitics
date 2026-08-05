@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T00:15:00Z,rq_951,951,no,tick951 Dentergem JR2025 dual residual; FOI gap_den_invest_ocmw_toelagen_l5 prio8 assets 62.5m fin debt 0.69m cash 15.1m OCMW 0.74m; next residual dual L5 rq_952; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T01:00:00Z,rq_952,952,no,tick952 Pittem JR2025 dual residual; FOI gap_pit_budget_farys_pension_toelagen_l5 prio8 assets 64.7m fin debt 4.68m budget -0.245m Farys 0.17m pension 4.80m; next residual dual L5 rq_953; rq_116 deferred

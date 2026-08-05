@@ -12085,3 +12085,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43 (bud_den_*); commitments +4; leaderboard +7; sources +2; entity city_dentergem; FOI **gap_den_invest_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~11MB not stored); rq_951=done; spawn **rq_952**; ticks=951
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_952** residual dual L5 (Torhout / Roeselare / Oostrozebeke / Meulebeke / other unmined VL JR2025); deferred **rq_116**; progress@960 in 9
+
+
+### Tick 952 - 2026-08-08T01:00:00Z
+
+- Unit: **rq_952** (FOI-adjacent residual dual - **Gemeente+OCMW Pittem Jaarrekening 2025** + Dentergem dual residual)
+- Found (strong primary BBC JR2025 215p; KBO 0207.432.916 / OCMW 0212.208.482; GR/OCMW 4.05.2026):
+  - Assets **EUR64.7m** / equity **EUR52.8m** / debt total **EUR11.9m** / fin debt **EUR4.68m** (**DECLINING** from **EUR5.03m**; LT **EUR4.04m** / ST due **EUR0.647m**)
+  - New loans/lease **EUR0.311m** / repayments **EUR0.657m** / Farys loan granted **EUR0.241m FOI**
+  - Cash **EUR12.6m** / **pension EUR4.80m RISING** (was EUR4.27m FOI)
+  - Exploitatie: ontvangsten **EUR15.8m** / uitgaven **EUR12.4m** / saldo **+EUR3.39m**
+  - AFM **+EUR2.76m** (gecorr **+EUR3.01m**) / BBR **EUR12.4m** / budget **-EUR0.245m FOI** / P&L **+EUR1.37m**
+  - Personnel **EUR7.33m** / toelagen **EUR1.37m** (police **EUR0.48m** / HVZ **EUR0.23m** / IGS **EUR0.12m FOI** / other **EUR0.54m FOI**)
+  - Invest **EUR3.47m** vs MJP **EUR4.86m underspend FOI** / OCMW cover **EUR0.745m FOI** / fiscal **EUR6.67m**
+  - **Farys sport S-divisie dual**: charge **EUR0.174m** (werking **EUR0.164m** + prijssub **EUR0.009m**) FOI Entity II-like
+- Dual: Dentergem **EUR62.5m** / fin debt **EUR0.69m** / cash **EUR15.1m** (tick951) - not TE-additive
+- Wrote: budgets +47 (bud_pit_*); commitments +5; leaderboard +7; sources +2; entity city_pittem; FOI **gap_pit_budget_farys_pension_toelagen_l5** prio8 ready + draft; key only (PDF ~17MB not stored); rq_952=done; spawn **rq_953**; ticks=952
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_953** residual dual L5 (Torhout full BBC if published / Roeselare / Oostrozebeke / Meulebeke / other unmined VL JR2025); deferred **rq_116**; progress@960 in 8

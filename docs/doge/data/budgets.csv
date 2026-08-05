@@ -21619,3 +21619,50 @@ bud_den_ocmw_tekort_tussenkomst_2025,city_dentergem,2025,737248,,,jaarrekening_r
 bud_den_fiscal_2025,city_dentergem,2025,6856554,,,jaarrekening_realized,src_dentergem_jr2025,strong,Fiscale opbrengsten 6.86m; tick951
 bud_den_fin_costs_2025,city_dentergem,2025,12392,,,jaarrekening_realized,src_dentergem_jr2025,strong,Financiele kosten 0.012m; tick951
 bud_den_goederen_2025,city_dentergem,2025,3141980,,,jaarrekening_realized,src_dentergem_jr2025,strong,Goederen en diensten 3.14m; tick951
+bud_pit_assets_2025,city_pittem,2025,64739829,,,realized,src_pittem_jr2025,strong,Total assets YE2025 64.7m; tick952
+bud_pit_equity_2025,city_pittem,2025,52840969,,,realized,src_pittem_jr2025,strong,Nettoactief YE2025 52.8m; tick952
+bud_pit_debt_total_2025,city_pittem,2025,11898859,,,realized,src_pittem_jr2025,strong,Total schulden YE2025 11.9m; tick952
+bud_pit_fin_debt_2025,city_pittem,2025,4682563,,,realized,src_pittem_jr2025,strong,T4 total financiele schulden YE2025 4.68m DECLINING (was 5.03m); tick952
+bud_pit_fin_debt_lt_2025,city_pittem,2025,4035688,,,realized,src_pittem_jr2025,strong,Financiele schulden LT YE2025 4.04m; tick952
+bud_pit_fin_debt_st_due_2025,city_pittem,2025,646875,,,realized,src_pittem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.647m; tick952
+bud_pit_fin_debt_2024,city_pittem,2025,5028378,,,realized,src_pittem_jr2025,strong,T4 fin debt YE2024 5.03m comparator; tick952
+bud_pit_fin_debt_incl_farys_2025,city_pittem,2025,4441279,,,realized,src_pittem_jr2025,strong,T4 reworked net fin debt incl Farys loan offset 4.44m FOI; tick952
+bud_pit_farys_loan_granted_2025,city_pittem,2025,241283,,,realized,src_pittem_jr2025,strong,Toegestane lening Farys YE2025 0.241m FOI dual; tick952
+bud_pit_pension_prov_2025,city_pittem,2025,4799215,,,realized,src_pittem_jr2025,strong,Pensioenvoorzieningen YE2025 4.80m RISING FOI; tick952
+bud_pit_pension_prov_2024,city_pittem,2025,4269973,,,realized,src_pittem_jr2025,strong,Pensioenvoorzieningen YE2024 4.27m; tick952
+bud_pit_cash_2025,city_pittem,2025,12612132,,,realized,src_pittem_jr2025,strong,Liquide middelen YE2025 12.6m; tick952
+bud_pit_cash_2024,city_pittem,2025,11699822,,,realized,src_pittem_jr2025,strong,Liquide middelen YE2024 11.7m; tick952
+bud_pit_cap_subs_2025,city_pittem,2025,8027096,,,realized,src_pittem_jr2025,strong,Kapitaalssubsidies YE2025 8.03m; tick952
+bud_pit_fva_total_2025,city_pittem,2025,14473341,,,realized,src_pittem_jr2025,strong,Financiele vaste activa YE2025 14.5m; tick952
+bud_pit_fva_igs_2025,city_pittem,2025,13436210,,,realized,src_pittem_jr2025,strong,FVA IGS YE2025 13.4m FOI; tick952
+bud_pit_mva_2025,city_pittem,2025,35988903,,,realized,src_pittem_jr2025,strong,Materiele vaste activa YE2025 36.0m; tick952
+bud_pit_leasing_mva_2025,city_pittem,2025,3045480,,,realized,src_pittem_jr2025,strong,Leasing MVA gemeenschap+bedrijf 3.05m; tick952
+bud_pit_expl_rec_2025,city_pittem,2025,15782400,,,realized,src_pittem_jr2025,strong,Exploitatieontvangsten 15.8m; tick952
+bud_pit_expl_exp_2025,city_pittem,2025,12388872,,,realized,src_pittem_jr2025,strong,Exploitatieuitgaven 12.4m; tick952
+bud_pit_expl_saldo_2025,city_pittem,2025,3393528,,,realized,src_pittem_jr2025,strong,Exploitatiesaldo +3.39m; tick952
+bud_pit_invest_exp_2025,city_pittem,2025,3465841,,,realized,src_pittem_jr2025,strong,Investeringsuitgaven 3.47m (MJP 4.86m underspend FOI); tick952
+bud_pit_invest_rec_2025,city_pittem,2025,176603,,,realized,src_pittem_jr2025,strong,Investeringsontvangsten 0.18m; tick952
+bud_pit_invest_saldo_2025,city_pittem,2025,-3289238,,,realized,src_pittem_jr2025,strong,Investeringssaldo -3.29m; tick952
+bud_pit_mjp_invest_planned_2025,city_pittem,2025,4857237,,,realized,src_pittem_jr2025,strong,MJP planned invest 4.86m vs realized 3.47m FOI; tick952
+bud_pit_new_loans_2025,city_pittem,2025,311411,,,realized,src_pittem_jr2025,strong,Nieuwe leningen/leasings 0.311m FOI; tick952
+bud_pit_aflossingen_2025,city_pittem,2025,657226,,,realized,src_pittem_jr2025,strong,Periodieke aflossingen 0.657m; tick952
+bud_pit_afm_2025,city_pittem,2025,2755327,,,realized,src_pittem_jr2025,strong,AFM +2.76m; tick952
+bud_pit_afm_corr_2025,city_pittem,2025,3010283,,,realized,src_pittem_jr2025,strong,Gecorrigeerde AFM +3.01m; tick952
+bud_pit_bbr_2025,city_pittem,2025,12419574,,,realized,src_pittem_jr2025,strong,Beschikbaar budgettair resultaat 12.4m; tick952
+bud_pit_budget_result_2025,city_pittem,2025,-245084,,,realized,src_pittem_jr2025,strong,Budgettair resultaat boekjaar -0.245m NEG FOI; tick952
+bud_pit_cum_br_2025,city_pittem,2025,12419574,,,realized,src_pittem_jr2025,strong,Gecumuleerd budgettair resultaat 12.4m; tick952
+bud_pit_pnl_result_2025,city_pittem,2025,1370880,,,realized,src_pittem_jr2025,strong,P&L boekjaar +1.37m; tick952
+bud_pit_personnel_2025,city_pittem,2025,7334623,,,realized,src_pittem_jr2025,strong,Personeelskosten 7.33m; tick952
+bud_pit_toelagen_2025,city_pittem,2025,1365016,,,realized,src_pittem_jr2025,strong,Toegestane werkingssubsidies 1.37m FOI named; tick952
+bud_pit_toelagen_police_2025,city_pittem,2025,477978,,,realized,src_pittem_jr2025,strong,Toelagen politiezone 0.478m; tick952
+bud_pit_toelagen_hvz_2025,city_pittem,2025,226980,,,realized,src_pittem_jr2025,strong,Toelagen HVZ 0.227m; tick952
+bud_pit_toelagen_igs_2025,city_pittem,2025,121074,,,realized,src_pittem_jr2025,strong,Toelagen IGS 0.121m FOI; tick952
+bud_pit_toelagen_other_2025,city_pittem,2025,538984,,,realized,src_pittem_jr2025,strong,Toelagen andere+eredienst 0.539m FOI (other 0.487+eredienst 0.051); tick952
+bud_pit_invest_subs_granted_2025,city_pittem,2025,99867,,,realized,src_pittem_jr2025,strong,Toegestane investeringssubsidies 0.100m; tick952
+bud_pit_ocmw_aid_2025,city_pittem,2025,299042,,,realized,src_pittem_jr2025,strong,Individuele hulpverlening OCMW 0.299m; tick952
+bud_pit_ocmw_tekort_tussenkomst_2025,city_pittem,2025,745008,,,realized,src_pittem_jr2025,strong,Tussenkomst tekort OCMW 0.745m FOI; tick952
+bud_pit_fiscal_2025,city_pittem,2025,6666883,,,realized,src_pittem_jr2025,strong,Fiscale opbrengsten 6.67m; tick952
+bud_pit_fin_costs_2025,city_pittem,2025,174907,,,realized,src_pittem_jr2025,strong,Financiele kosten 0.175m; tick952
+bud_pit_goederen_2025,city_pittem,2025,3155753,,,realized,src_pittem_jr2025,strong,Goederen en diensten 3.16m; tick952
+bud_pit_farys_werking_2025,city_pittem,2025,164446,,,realized,src_pittem_jr2025,strong,Farys sport S-divisie werkingstoelage 0.164m FOI dual; tick952
+bud_pit_farys_total_charge_2025,city_pittem,2025,173567,,,realized,src_pittem_jr2025,strong,Farys sport charge total 0.174m (werking+prijssubsidie) FOI; tick952
