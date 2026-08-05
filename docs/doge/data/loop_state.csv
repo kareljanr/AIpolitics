@@ -1,2 +1,3 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T15:15:00Z,rq_1004,1004,no,tick1004 Haaltert GE+OCMW JR2025 dual residual; FOI gap_haa_ocmw_toelagen_debt_pension_l5 prio8 assets 87.95m fin debt 18.58m DECLINING cash 7.16m DROP AFM +3.35m OCMW cover 3.75m FULL pension JUMP 7.42m toelagen 3.94m police 2.49; next residual dual L5 rq_1005; rq_116 deferred
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-09T15:45:00Z,rq_1005,1005,no,tick1005 Zuienkerke GE+OCMW JR2025 dual residual; FOI gap_zui_ocmw_invest_toelagen_l5 prio8 assets 30.70m fin debt 0.94m DECLINING cash 7.13m JUMP AFM +0.85m budget +0.46m OCMW cover 0.192m FULL-ish invest underspend 0.70 vs MJP 3.28m Aquario 0.15m toelagen 0.928m police 0.693; next residual dual L5 rq_1006; rq_116 deferred
+

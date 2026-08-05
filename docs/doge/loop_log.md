@@ -13061,3 +13061,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47 (bud_haa_*); commitments +5; leaderboard +7; sources +1; entity city_haaltert; FOI **gap_haa_ocmw_toelagen_debt_pension_l5** prio8 ready + draft; key only (PDF ~8.4MB not stored in git); rq_1004=done; spawn **rq_1005**; ticks=1004
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1005** residual dual L5 (Torhout / Meulebeke / Zuienkerke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 6
+
+### Tick 1005 - 2026-08-09T15:45:00Z
+
+- Unit: **rq_1005** (FOI-adjacent residual dual - **Gemeente+OCMW Zuienkerke Jaarrekening 2025** + Haaltert dual residual)
+- Found (strong primary BBC JR2025 196p; KBO 0207.531.597 / OCMW 0212.343.985; FD Katrien Debaecke; AD Inez Goderis; BM Annelies Dewulf; Kerkstraat 17; NIS 31042):
+  - Assets **EUR30.70m** / equity **EUR26.32m** / debt total **EUR4.38m** / fin debt **EUR0.940m** (**DECLINING** from **EUR1.023m**; LT **EUR0.820m** / ST due **EUR0.120m**)
+  - New loans **EUR0.035m** (lease only) / repayments **EUR0.118m**
+  - Cash **EUR7.13m JUMP** (was **EUR6.72m**) / pension **EUR1.94m** slight rise / leasing MVA **EUR0.484m**
+  - FVA IGS **EUR3.90m** / cap subs **EUR5.19m**
+  - Exploitatie: ontvangsten **EUR7.53m** / uitgaven **EUR6.57m** / saldo **+EUR0.958m STRONG**
+  - AFM **+EUR0.851m STRONG** (gecorr **+EUR0.888m**) / BBR **EUR6.70m HIGH** / budget **+EUR0.456m** / P&L **+EUR0.089m** (GE **+EUR0.215m** / OCMW **-EUR0.126m FOI**)
+  - Personnel **EUR3.78m** / toelagen **EUR0.928m FOI** (police **EUR0.693m** / fire **EUR0.126m** / other **EUR0.094m** / eredienst **EUR0.015m**)
+  - Invest **EUR0.704m** vs MJP **EUR3.28m UNDERSPEND FOI** / **OCMW cover EUR0.192m FULL-ish FOI** / Aquario invest-subs **EUR0.150m FOI** / OCMW cum **-EUR0.085m IMPROVING**
+- Dual: Haaltert **EUR87.95m** / OCMW cover **EUR3.75m** / pension JUMP **EUR7.42m** (tick1004) - not TE-additive
+- Note: Torhout still news-only; Meulebeke fused into Tielt 2025 (no separate JR); AGB De Panne residual optional next
+- Wrote: budgets +47 (bud_zui_*); commitments +5; leaderboard +7; sources +1; entity city_zuienkerke; FOI **gap_zui_ocmw_invest_toelagen_l5** prio8 ready + draft; key only (PDF ~5.5MB not stored in git); rq_1005=done; spawn **rq_1006**; ticks=1005
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1006** residual dual L5 (Torhout / AGB De Panne / other unmined VL JR2025); deferred **rq_116**; progress@1010 in 5

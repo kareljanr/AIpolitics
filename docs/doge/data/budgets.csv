@@ -23865,3 +23865,50 @@ bud_haa_fin_opbr_2025,city_haaltert,2025,806431,,,realized,src_haaltert_jr2025,s
 bud_haa_fin_costs_2025,city_haaltert,2025,512357,,,realized,src_haaltert_jr2025,strong,Financiele kosten 0.512m; tick1004
 bud_haa_invest_subs_granted_2025,city_haaltert,2025,451575,,,realized,src_haaltert_jr2025,strong,Toegestane investeringssubsidies 0.452m; tick1004
 bud_haa_minwaarden_2025,city_haaltert,2025,335634,,,realized,src_haaltert_jr2025,strong,Minderwaarden realisatie VA 0.336m FOI; tick1004
+bud_zui_assets_2025,city_zuienkerke,2025,30701918,,,realized,src_zuienkerke_jr2025,strong,Assets YE2025 30.70m (was 30.34m); tick1005
+bud_zui_equity_2025,city_zuienkerke,2025,26324668,,,realized,src_zuienkerke_jr2025,strong,Nettoactief YE2025 26.32m (was 26.21m); tick1005
+bud_zui_debt_total_2025,city_zuienkerke,2025,4377249,,,realized,src_zuienkerke_jr2025,strong,Total schulden YE2025 4.38m (was 4.13m); tick1005
+bud_zui_fin_debt_2025,city_zuienkerke,2025,939607,,,realized,src_zuienkerke_jr2025,strong,Fin debt total YE2025 0.940m DECLINING (was 1.023m); tick1005
+bud_zui_fin_debt_lt_2025,city_zuienkerke,2025,820088,,,realized,src_zuienkerke_jr2025,strong,Fin debt LT YE2025 0.820m; tick1005
+bud_zui_fin_debt_st_due_2025,city_zuienkerke,2025,119519,,,realized,src_zuienkerke_jr2025,strong,Fin debt ST due YE2025 0.120m; tick1005
+bud_zui_new_loans_2025,city_zuienkerke,2025,34936,,,realized,src_zuienkerke_jr2025,strong,Nieuwe leningen/leasings 2025 0.035m (lease only); tick1005
+bud_zui_aflossingen_2025,city_zuienkerke,2025,118335,,,realized,src_zuienkerke_jr2025,strong,Periodieke aflossingen 2025 0.118m; tick1005
+bud_zui_cash_2025,city_zuienkerke,2025,7129984,,,realized,src_zuienkerke_jr2025,strong,Liquide middelen YE2025 7.13m JUMP (was 6.72m); tick1005
+bud_zui_pension_2025,city_zuienkerke,2025,1935235,,,realized,src_zuienkerke_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.94m slight rise (was 1.91m); tick1005
+bud_zui_cap_subs_2025,city_zuienkerke,2025,5194581,,,realized,src_zuienkerke_jr2025,strong,Kapitaalsubsidies YE2025 5.19m; tick1005
+bud_zui_fva_total_2025,city_zuienkerke,2025,3936231,,,realized,src_zuienkerke_jr2025,strong,FVA total YE2025 3.94m; tick1005
+bud_zui_fva_igs_2025,city_zuienkerke,2025,3899541,,,realized,src_zuienkerke_jr2025,strong,FVA IGS YE2025 3.90m; tick1005
+bud_zui_fva_other_2025,city_zuienkerke,2025,36690,,,realized,src_zuienkerke_jr2025,strong,Andere FVA YE2025 0.037m; tick1005
+bud_zui_leasing_mva_2025,city_zuienkerke,2025,484478,,,realized,src_zuienkerke_jr2025,strong,Leasing MVA YE2025 0.484m; tick1005
+bud_zui_expl_rec_2025,city_zuienkerke,2025,7527186,,,realized,src_zuienkerke_jr2025,strong,Exploitatieontvangsten 7.53m; tick1005
+bud_zui_expl_exp_2025,city_zuienkerke,2025,6568836,,,realized,src_zuienkerke_jr2025,strong,Exploitatieuitgaven 6.57m; tick1005
+bud_zui_expl_saldo_2025,city_zuienkerke,2025,958350,,,realized,src_zuienkerke_jr2025,strong,Exploitatiesaldo +0.958m STRONG; tick1005
+bud_zui_invest_exp_2025,city_zuienkerke,2025,704029,,,realized,src_zuienkerke_jr2025,strong,Investeringsuitgaven 0.704m vs MJP 3.28m UNDERSPEND FOI; tick1005
+bud_zui_invest_rec_2025,city_zuienkerke,2025,273611,,,realized,src_zuienkerke_jr2025,strong,Investeringsontvangsten 0.274m; tick1005
+bud_zui_invest_saldo_2025,city_zuienkerke,2025,-430418,,,realized,src_zuienkerke_jr2025,strong,Investeringssaldo -0.430m; tick1005
+bud_zui_mjp_invest_planned_2025,city_zuienkerke,2025,3280369,,,realized,src_zuienkerke_jr2025,strong,MJP invest planned 3.28m vs realized 0.704m underspend FOI; tick1005
+bud_zui_afm_2025,city_zuienkerke,2025,851243,,,realized,src_zuienkerke_jr2025,strong,AFM +0.851m STRONG; tick1005
+bud_zui_afm_corr_2025,city_zuienkerke,2025,887737,,,realized,src_zuienkerke_jr2025,strong,Gecorrigeerde AFM +0.888m; tick1005
+bud_zui_bbr_2025,city_zuienkerke,2025,6700392,,,realized,src_zuienkerke_jr2025,strong,BBR beschikbaar 6.70m HIGH relative; tick1005
+bud_zui_budget_result_2025,city_zuienkerke,2025,455761,,,realized,src_zuienkerke_jr2025,strong,Budgettair resultaat +0.456m STRONG; tick1005
+bud_zui_cum_br_2025,city_zuienkerke,2025,6700392,,,realized,src_zuienkerke_jr2025,strong,Gecumuleerd budgettair resultaat 6.70m; tick1005
+bud_zui_pnl_2025,city_zuienkerke,2025,88592,,,realized,src_zuienkerke_jr2025,strong,P&L +0.089m; tick1005
+bud_zui_pnl_ge_2025,city_zuienkerke,2025,214728,,,realized,src_zuienkerke_jr2025,strong,GE P&L +0.215m; tick1005
+bud_zui_pnl_ocmw_2025,city_zuienkerke,2025,-126136,,,realized,src_zuienkerke_jr2025,strong,OCMW P&L -0.126m FOI; tick1005
+bud_zui_ocmw_cover_2025,city_zuienkerke,2025,191842,,,realized,src_zuienkerke_jr2025,strong,OCMW cover 0.192m FULL-ish vs OCMW -0.126m FOI residual; tick1005
+bud_zui_ocmw_cum_deficit_2025,city_zuienkerke,2025,-84811,,,realized,src_zuienkerke_jr2025,strong,OCMW cum tekort YE2025 -0.085m IMPROVING (was -0.151m); tick1005
+bud_zui_personnel_2025,city_zuienkerke,2025,3780200,,,realized,src_zuienkerke_jr2025,strong,Bezoldigingen 3.78m; tick1005
+bud_zui_toelagen_2025,city_zuienkerke,2025,928472,,,realized,src_zuienkerke_jr2025,strong,Toegestane werkingssubsidies 0.928m; tick1005
+bud_zui_toelagen_police_2025,city_zuienkerke,2025,693330,,,realized,src_zuienkerke_jr2025,strong,Toelage politiezone 0.693m; tick1005
+bud_zui_toelagen_fire_2025,city_zuienkerke,2025,126153,,,realized,src_zuienkerke_jr2025,strong,Toelage hulpverleningszone 0.126m; tick1005
+bud_zui_toelagen_eredienst_2025,city_zuienkerke,2025,14720,,,realized,src_zuienkerke_jr2025,strong,Toelage eredienst 0.015m; tick1005
+bud_zui_toelagen_other_2025,city_zuienkerke,2025,94268,,,realized,src_zuienkerke_jr2025,strong,Toelage andere begunstigden 0.094m FOI; tick1005
+bud_zui_ocmw_aid_2025,city_zuienkerke,2025,245072,,,realized,src_zuienkerke_jr2025,strong,OCMW individuele hulp 0.245m; tick1005
+bud_zui_fiscal_2025,city_zuienkerke,2025,3225484,,,realized,src_zuienkerke_jr2025,strong,Fiscale opbrengsten 3.23m; tick1005
+bud_zui_fiscal_ov_2025,city_zuienkerke,2025,1701461,,,realized,src_zuienkerke_jr2025,strong,Opcentiemen OV 1.70m; tick1005
+bud_zui_fiscal_pb_2025,city_zuienkerke,2025,1179983,,,realized,src_zuienkerke_jr2025,strong,Aanvullende PB 1.18m; tick1005
+bud_zui_gemeentefonds_2025,city_zuienkerke,2025,1408502,,,realized,src_zuienkerke_jr2025,strong,Gemeentefonds 1.41m; tick1005
+bud_zui_fin_opbr_2025,city_zuienkerke,2025,497170,,,realized,src_zuienkerke_jr2025,strong,Financiele opbrengsten 0.497m; tick1005
+bud_zui_fin_costs_2025,city_zuienkerke,2025,26190,,,realized,src_zuienkerke_jr2025,strong,Financiele kosten 0.026m; tick1005
+bud_zui_invest_subs_granted_2025,city_zuienkerke,2025,174657,,,realized,src_zuienkerke_jr2025,strong,Toegestane investeringssubsidies 0.175m (Aquario 0.150m + HVZ 0.025m FOI); tick1005
+bud_zui_invest_subs_aquario_2025,city_zuienkerke,2025,150000,,,realized,src_zuienkerke_jr2025,strong,Invest-subs Aquario 0.150m FOI residual; tick1005
