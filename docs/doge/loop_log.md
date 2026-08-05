@@ -13885,3 +13885,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1047** residual dual L5; deferred **rq_116**; progress@1050 in 4
 
+
+
+### Tick 1047 - 2026-08-10T12:45:00Z
+
+- Unit: **rq_1047** (FOI-adjacent residual dual - **Lokaal Bestuur Sint-Gillis-Waas Jaarrekening 2025** + Assenede dual residual)
+- Found (strong primary BBC JR2025 237p portal; GR/OCMW 18.06.2026):
+  - Assets **EUR109.68m JUMP** (was **EUR96.84m**) / equity **EUR65.41m** / debt total **EUR44.27m JUMP** / fin debt **EUR32.51m JUMP HIGH FOI** (was **EUR21.02m**; LT **EUR29.36m** / ST due **EUR3.15m**)
+  - New loans **EUR14.81m VERY HIGH JUMP FOI** (OCMW **EUR11.37m**) / repayments **EUR3.32m HIGH** / interest **EUR0.872m JUMP**
+  - Cash **EUR5.05m JUMP** (was **EUR3.34m**) / pension **EUR7.52m JUMP HIGH FOI** (was **EUR6.10m**) / FVA IGS **EUR21.84m** / buildings **EUR55.80m JUMP +EUR10m**
+  - Exploitatie: ontvangsten **EUR36.40m** / uitgaven **EUR30.70m** / saldo **+EUR5.70m VERY STRONG**
+  - AFM **+EUR2.38m STRONG** (gecorr **+EUR4.02m**) / BBR **EUR5.20m** / budget **+EUR2.90m STRONG loan-driven** / cum BR **EUR5.39m** / P&L **EUR-0.423m NEG FOI**
+  - Personnel **EUR16.02m JUMP** / toelagen **EUR6.20m FOI** (police **EUR1.75m** / fire **EUR1.42m** / IGS **EUR1.56m** / WV **EUR0.60m DROP** was **EUR1.24m** / other **EUR0.80m**)
+  - Invest **EUR14.96m VERY HIGH** (OCMW **EUR11.70m**) / invest-subs **EUR0.207m**
+  - **OCMW cover EUR2.39m FULL HIGH FOI** vs gap **EUR-1.11m**
+  - Schuld/inwoner **EUR1631**
+- Dual: Assenede assets **EUR84.29m** / budget **-EUR1.14m** / OCMW cover **EUR1.42m** (tick1046) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 in 3
+- Wrote: budgets +46 (bud_sgw_*); commitments +6; leaderboard +8; sources +1; entity city_sint_gillis_waas; FOI **gap_sgw_loans_ocmw_invest_pension_l5** prio9 ready + draft; key only (PDF ~13.7MB not stored in git); rq_1047=done; spawn **rq_1048**; ticks=1047
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1048** residual dual L5; deferred **rq_116**; progress@1050 in 3
+

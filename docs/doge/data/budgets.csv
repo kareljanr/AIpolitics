@@ -26126,3 +26126,49 @@ bud_ass_agb_bbr_2025,city_assenede,2025,39008,,,bbc_jr_realized,src_assenede_jr2
 bud_ass_agb_afm_2025,city_assenede,2025,-13418,,,bbc_jr_realized,src_assenede_jr2025,strong,AGB AFM 2025 -0.013m NEG dual FOI; tick1046
 bud_ass_agb_afm_gecorr_2025,city_assenede,2025,-455503,,,bbc_jr_realized,src_assenede_jr2025,strong,AGB gecorr AFM 2025 -0.456m NEG dual FOI; tick1046
 bud_ass_toegestane_leningen_2025,city_assenede,2025,209669,,,bbc_jr_realized,src_assenede_jr2025,strong,Toegestane leningen granted 2025 0.210m FOI; tick1046
+bud_sgw_assets_2025,city_sint_gillis_waas,2025,109679420,,,bbc_jr_realized,src_sgw_jr2025,strong,Assets YE2025 109.68m JUMP HIGH (was 96.84m); tick1047
+bud_sgw_equity_2025,city_sint_gillis_waas,2025,65409353,,,bbc_jr_realized,src_sgw_jr2025,strong,Nettoactief YE2025 65.41m flat; tick1047
+bud_sgw_debt_total_2025,city_sint_gillis_waas,2025,44270067,,,bbc_jr_realized,src_sgw_jr2025,strong,Total schulden YE2025 44.27m JUMP (was 31.43m); tick1047
+bud_sgw_fin_debt_2025,city_sint_gillis_waas,2025,32510024,,,bbc_jr_realized,src_sgw_jr2025,strong,Fin debt total YE2025 32.51m JUMP HIGH FOI (was 21.02m T4); tick1047
+bud_sgw_fin_debt_lt_2025,city_sint_gillis_waas,2025,29358174,,,bbc_jr_realized,src_sgw_jr2025,strong,Fin debt LT YE2025 29.36m JUMP; tick1047
+bud_sgw_fin_debt_st_due_2025,city_sint_gillis_waas,2025,3151850,,,bbc_jr_realized,src_sgw_jr2025,strong,Fin debt ST due YE2025 3.15m JUMP; tick1047
+bud_sgw_new_loans_2025,city_sint_gillis_waas,2025,14812269,,,bbc_jr_realized,src_sgw_jr2025,strong,New loans 2025 14.81m VERY HIGH JUMP FOI (OCMW 11.37m); tick1047
+bud_sgw_repayments_2025,city_sint_gillis_waas,2025,3317882,,,bbc_jr_realized,src_sgw_jr2025,strong,Repayments 2025 3.32m HIGH; tick1047
+bud_sgw_cash_2025,city_sint_gillis_waas,2025,5047602,,,bbc_jr_realized,src_sgw_jr2025,strong,Liquide middelen YE2025 5.05m JUMP (was 3.34m); tick1047
+bud_sgw_pension_prov_2025,city_sint_gillis_waas,2025,7516520,,,bbc_jr_realized,src_sgw_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.52m JUMP HIGH FOI (was 6.10m); tick1047
+bud_sgw_fva_total_2025,city_sint_gillis_waas,2025,22100666,,,bbc_jr_realized,src_sgw_jr2025,strong,FVA total YE2025 22.10m; tick1047
+bud_sgw_fva_igs_2025,city_sint_gillis_waas,2025,21839567,,,bbc_jr_realized,src_sgw_jr2025,strong,FVA IGS YE2025 21.84m HIGH FOI; tick1047
+bud_sgw_leasing_mva_2025,city_sint_gillis_waas,2025,1634650,,,bbc_jr_realized,src_sgw_jr2025,strong,Leasing MVA YE2025 1.63m; tick1047
+bud_sgw_mva_buildings_2025,city_sint_gillis_waas,2025,55798451,,,bbc_jr_realized,src_sgw_jr2025,strong,Terreinen en gebouwen YE2025 55.80m JUMP (was 45.86m +10m); tick1047
+bud_sgw_expl_ontvangsten_2025,city_sint_gillis_waas,2025,36404676,,,bbc_jr_realized,src_sgw_jr2025,strong,Exploitatie ontvangsten 2025 36.40m; tick1047
+bud_sgw_expl_uitgaven_2025,city_sint_gillis_waas,2025,30704287,,,bbc_jr_realized,src_sgw_jr2025,strong,Exploitatie uitgaven 2025 30.70m; tick1047
+bud_sgw_expl_saldo_2025,city_sint_gillis_waas,2025,5700389,,,bbc_jr_realized,src_sgw_jr2025,strong,Exploitatiesaldo 2025 +5.70m VERY STRONG; tick1047
+bud_sgw_invest_spend_2025,city_sint_gillis_waas,2025,14957256,,,bbc_jr_realized,src_sgw_jr2025,strong,Invest uitgaven 2025 14.96m VERY HIGH FOI (OCMW 11.70m); tick1047
+bud_sgw_invest_rec_2025,city_sint_gillis_waas,2025,660374,,,bbc_jr_realized,src_sgw_jr2025,strong,Invest ontvangsten 2025 0.660m; tick1047
+bud_sgw_invest_saldo_2025,city_sint_gillis_waas,2025,-14296882,,,bbc_jr_realized,src_sgw_jr2025,strong,Investeringssaldo 2025 -14.30m; tick1047
+bud_sgw_fin_saldo_2025,city_sint_gillis_waas,2025,11494387,,,bbc_jr_realized,src_sgw_jr2025,strong,Financieringssaldo 2025 +11.49m loan-driven; tick1047
+bud_sgw_afm_2025,city_sint_gillis_waas,2025,2382507,,,bbc_jr_realized,src_sgw_jr2025,strong,AFM 2025 +2.38m STRONG; tick1047
+bud_sgw_afm_gecorr_2025,city_sint_gillis_waas,2025,4019138,,,bbc_jr_realized,src_sgw_jr2025,strong,Gecorrigeerde AFM 2025 +4.02m; tick1047
+bud_sgw_bbr_2025,city_sint_gillis_waas,2025,5198681,,,bbc_jr_realized,src_sgw_jr2025,strong,BBR YE2025 5.20m (onbeschikbaar 0.187m); tick1047
+bud_sgw_budget_result_2025,city_sint_gillis_waas,2025,2897894,,,bbc_jr_realized,src_sgw_jr2025,strong,Budgettair resultaat boekjaar 2025 +2.90m STRONG loan-driven FOI; tick1047
+bud_sgw_cum_budget_2025,city_sint_gillis_waas,2025,5385348,,,bbc_jr_realized,src_sgw_jr2025,strong,Gecumuleerd BR YE2025 5.39m; tick1047
+bud_sgw_onbeschikbaar_2025,city_sint_gillis_waas,2025,186667,,,bbc_jr_realized,src_sgw_jr2025,strong,Onbeschikbare gelden YE2025 0.187m; tick1047
+bud_sgw_pnl_2025,city_sint_gillis_waas,2025,-423280,,,bbc_jr_realized,src_sgw_jr2025,strong,P&L tekort 2025 -0.423m NEG FOI; tick1047
+bud_sgw_personnel_2025,city_sint_gillis_waas,2025,16020574,,,bbc_jr_realized,src_sgw_jr2025,strong,Personnel 2025 16.02m JUMP FOI; tick1047
+bud_sgw_toelagen_2025,city_sint_gillis_waas,2025,6196818,,,bbc_jr_realized,src_sgw_jr2025,strong,Toegestane werkingssubsidies 2025 6.20m FOI; tick1047
+bud_sgw_wv_toelage_2025,city_sint_gillis_waas,2025,599700,,,bbc_jr_realized,src_sgw_jr2025,strong,Welzijnsvereniging toelage 2025 0.600m DROP FOI (was 1.24m); tick1047
+bud_sgw_police_toelage_2025,city_sint_gillis_waas,2025,1754700,,,bbc_jr_realized,src_sgw_jr2025,strong,Politiezone toelage 2025 1.75m; tick1047
+bud_sgw_fire_toelage_2025,city_sint_gillis_waas,2025,1420799,,,bbc_jr_realized,src_sgw_jr2025,strong,HVZ toelage 2025 1.42m; tick1047
+bud_sgw_igs_toelage_2025,city_sint_gillis_waas,2025,1559555,,,bbc_jr_realized,src_sgw_jr2025,strong,IGS toelage 2025 1.56m HIGH FOI; tick1047
+bud_sgw_other_toelage_2025,city_sint_gillis_waas,2025,798588,,,bbc_jr_realized,src_sgw_jr2025,strong,Andere toelagen 2025 0.799m FOI; tick1047
+bud_sgw_invest_subs_granted_2025,city_sint_gillis_waas,2025,207164,,,bbc_jr_realized,src_sgw_jr2025,strong,Toegestane invest-subs 2025 0.207m; tick1047
+bud_sgw_ocmw_cover_2025,city_sint_gillis_waas,2025,2392748,,,bbc_jr_realized,src_sgw_jr2025,strong,OCMW cover tussenkomst 2025 2.39m FULL HIGH FOI vs gap -1.11m; tick1047
+bud_sgw_ocmw_expl_gap_2025,city_sint_gillis_waas,2025,-1107908,,,bbc_jr_realized,src_sgw_jr2025,strong,OCMW expl saldo 2025 -1.11m; tick1047
+bud_sgw_ocmw_expl_ont_2025,city_sint_gillis_waas,2025,2654954,,,bbc_jr_realized,src_sgw_jr2025,strong,OCMW expl ontvangsten 2025 2.65m; tick1047
+bud_sgw_ocmw_expl_uit_2025,city_sint_gillis_waas,2025,3762862,,,bbc_jr_realized,src_sgw_jr2025,strong,OCMW expl uitgaven 2025 3.76m; tick1047
+bud_sgw_ocmw_invest_2025,city_sint_gillis_waas,2025,11695233,,,bbc_jr_realized,src_sgw_jr2025,strong,OCMW invest uitgaven 2025 11.70m VERY HIGH FOI; tick1047
+bud_sgw_ocmw_new_loans_2025,city_sint_gillis_waas,2025,11369082,,,bbc_jr_realized,src_sgw_jr2025,strong,OCMW new loans 2025 11.37m VERY HIGH FOI; tick1047
+bud_sgw_fiscal_2025,city_sint_gillis_waas,2025,20111930,,,bbc_jr_realized,src_sgw_jr2025,strong,Fiscale opbrengsten en boetes 2025 20.11m; tick1047
+bud_sgw_interest_2025,city_sint_gillis_waas,2025,871597,,,bbc_jr_realized,src_sgw_jr2025,strong,Intresten op leningen 2025 0.872m JUMP; tick1047
+bud_sgw_ocmw_aid_2025,city_sint_gillis_waas,2025,2002257,,,bbc_jr_realized,src_sgw_jr2025,strong,Individuele hulpverlening OCMW 2025 2.00m; tick1047
+bud_sgw_debt_per_capita_2025,city_sint_gillis_waas,2025,1631,,,bbc_jr_realized,src_sgw_jr2025,strong,Openstaande schuld per inwoner YE2025 EUR1631 (kengetallen); tick1047
