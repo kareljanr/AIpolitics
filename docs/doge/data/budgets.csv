@@ -29023,3 +29023,43 @@ bud_kap_riopact_2025,city_kaprijke,2025,500000,,,bbc_jr_realized,src_kaprijke_jr
 bud_kap_goederen_2025,city_kaprijke,2025,3526824,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Goederen en diensten 3.527m OVER budget FOI; tick1106
 bud_kap_fin_exp_2025,city_kaprijke,2025,273272,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Financiele kosten 0.273m; tick1106
 bud_kap_debt_per_capita_2025,city_kaprijke,2025,1136,,,bbc_jr_realized,src_kaprijke_jr2025,strong,Schuld per inwoner ~1136 EUR incl Fluvius OV (risk note); tick1106
+bud_kee_assets_2025,city_keerbergen,2025,75363235,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Assets YE2025 75.363m slight JUMP (was 74.441m); tick1107
+bud_kee_equity_2025,city_keerbergen,2025,46450014,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Nettoactief YE2025 46.450m DROP (was 50.326m); tick1107
+bud_kee_debt_total_2025,city_keerbergen,2025,28913221,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Total schulden YE2025 28.913m JUMP (was 24.115m); tick1107
+bud_kee_fin_debt_2025,city_keerbergen,2025,17434141,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Fin debt total YE2025 17.434m JUMP FOI (was 13.617m T4); tick1107
+bud_kee_fin_debt_lt_2025,city_keerbergen,2025,15680376,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Fin debt LT YE2025 15.680m JUMP; tick1107
+bud_kee_fin_debt_st_2025,city_keerbergen,2025,1753765,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Fin debt ST due YE2025 1.754m; tick1107
+bud_kee_new_loans_2025,city_keerbergen,2025,5464362,,,bbc_jr_realized,src_keerbergen_jr2025,strong,New loans 5.464m MASSIVE JUMP FOI; tick1107
+bud_kee_repayments_2025,city_keerbergen,2025,1646912,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Periodieke aflossingen 1.647m; tick1107
+bud_kee_cash_2025,city_keerbergen,2025,5009934,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Cash YE2025 5.010m slight DROP (was 5.184m); tick1107
+bud_kee_pension_lt_2025,city_keerbergen,2025,7656779,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Pension LT 7.657m JUMP FOI (was 6.494m); tick1107
+bud_kee_fva_igs_2025,city_keerbergen,2025,7183014,,,bbc_jr_realized,src_keerbergen_jr2025,strong,FVA IGS YE2025 7.183m slight JUMP (was 6.966m); tick1107
+bud_kee_herwaard_2025,city_keerbergen,2025,2179376,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Herwaarderingsreserves YE2025 2.179m JUMP; tick1107
+bud_kee_leasing_mva_2025,city_keerbergen,2025,1936622,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Leasing MVA YE2025 1.937m; tick1107
+bud_kee_expl_ontvangsten_2025,city_keerbergen,2025,28305265,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Exploitatie ontvangsten 28.305m; tick1107
+bud_kee_expl_uitgaven_2025,city_keerbergen,2025,25124232,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Exploitatie uitgaven 25.124m; tick1107
+bud_kee_expl_saldo_2025,city_keerbergen,2025,3181033,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Exploitatiesaldo +3.181m VERY STRONG; tick1107
+bud_kee_afm_2025,city_keerbergen,2025,2080799,,,bbc_jr_realized,src_keerbergen_jr2025,strong,AFM +2.081m VERY STRONG; tick1107
+bud_kee_afm_gecorr_2025,city_keerbergen,2025,2638376,,,bbc_jr_realized,src_keerbergen_jr2025,strong,AFM gecorrigeerd +2.638m VERY STRONG; tick1107
+bud_kee_bbr_2025,city_keerbergen,2025,5308676,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Beschikbaar budgettair resultaat 5.309m HIGH; tick1107
+bud_kee_budget_result_2025,city_keerbergen,2025,789523,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Budgettair resultaat boekjaar +0.790m POS (MJP was -0.871m); tick1107
+bud_kee_cum_br_2025,city_keerbergen,2025,5314737,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Gecumuleerd BR 5.315m; tick1107
+bud_kee_pnl_2025,city_keerbergen,2025,-3921098,,,bbc_jr_realized,src_keerbergen_jr2025,strong,P&L tekort -3.921m NEG FOI (was -1.971m; invest-subs granted 3.152m); tick1107
+bud_kee_fiscal_2025,city_keerbergen,2025,15643664,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Fiscale opbrengsten 15.644m; tick1107
+bud_kee_personnel_2025,city_keerbergen,2025,13829328,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Personeel 13.829m JUMP FOI; tick1107
+bud_kee_toelagen_2025,city_keerbergen,2025,3814711,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Toegestane werkingssubsidies 3.815m FOI; tick1107
+bud_kee_toelagen_police_2025,city_keerbergen,2025,1604643,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Politiezone toelage 1.605m; tick1107
+bud_kee_toelagen_agb_2025,city_keerbergen,2025,982415,,,bbc_jr_realized,src_keerbergen_jr2025,strong,AGB toelage 0.982m FOI residual; tick1107
+bud_kee_toelagen_fire_2025,city_keerbergen,2025,722735,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Hulpverleningszone 0.723m; tick1107
+bud_kee_toelagen_igs_2025,city_keerbergen,2025,156920,,,bbc_jr_realized,src_keerbergen_jr2025,strong,IGS werkingssubsidies 0.157m; tick1107
+bud_kee_toelagen_andere_2025,city_keerbergen,2025,347998,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Andere toelagen 0.348m; tick1107
+bud_kee_invest_uitgaven_2025,city_keerbergen,2025,6758596,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Investeringsuitgaven 6.759m vs MJP 11.044m UNDERSPEND FOI; tick1107
+bud_kee_invest_ontvangsten_2025,city_keerbergen,2025,196089,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Investeringsontvangsten 0.196m LOW; tick1107
+bud_kee_invest_saldo_2025,city_keerbergen,2025,-6562507,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Investeringssaldo -6.563m; tick1107
+bud_kee_invest_mjp_2025,city_keerbergen,2025,11044463,,,bbc_jr_realized,src_keerbergen_jr2025,strong,MJP invest uitgaven 11.044m; tick1107
+bud_kee_invest_subs_granted_2025,city_keerbergen,2025,3152215,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Toegestane investeringssubsidies 3.152m MASSIVE JUMP FOI (was 0.307m); tick1107
+bud_kee_ocmw_cover_2025,city_keerbergen,2025,889555,,,bbc_jr_realized,src_keerbergen_jr2025,strong,OCMW liquidity cover 0.890m FOI (OCMW cum BR -0.890m); tick1107
+bud_kee_ocmw_expl_gap_2025,city_keerbergen,2025,1743395,,,bbc_jr_realized,src_keerbergen_jr2025,strong,OCMW expl gap J3 ~1.743m FOI (uit 5.092 ont 3.348); tick1107
+bud_kee_ocmw_hulp_2025,city_keerbergen,2025,805732,,,bbc_jr_realized,src_keerbergen_jr2025,strong,OCMW individuele hulpverlening 0.806m; tick1107
+bud_kee_goederen_2025,city_keerbergen,2025,6311640,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Goederen en diensten 6.312m; tick1107
+bud_kee_fin_exp_2025,city_keerbergen,2025,320552,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Financiele kosten 0.321m; tick1107

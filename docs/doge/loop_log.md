@@ -15063,3 +15063,25 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_kap_*); commitments +7; leaderboard +9; sources +1; entity city_kaprijke; FOI **gap_kap_wzc_ocmw_uitzend_budget_invest_l5** prio9 ready + draft; PDF primary (not committed 91MB); rq_1106=done; spawn **rq_1107**; ticks=1106
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1107** residual dual L5; deferred **rq_116**; progress@1110 in 3
+
+### Tick 1107 - 2026-08-11T19:00:00Z
+
+- Unit: **rq_1107** (FOI-adjacent residual dual - **Gemeente+OCMW Keerbergen Jaarrekening 2025** + Kaprijke dual residual)
+- Found (strong primary BBC JR2025 154p text-extractable; keerbergen.be; KBO GE 0207.520.117 / OCMW 0212.223.924; Gemeenteplein 10 3140; AD Luc De boeck FD Kristel Panis; GR/RMW 22.06.2026; GE+OCMW):
+  - Assets **EUR75.363m** (was **EUR74.441m**) / equity **EUR46.450m DROP** (was **EUR50.326m**) / debt total **EUR28.913m JUMP** / fin debt **EUR17.434m JUMP FOI** (LT **EUR15.680m** / ST due **EUR1.754m**; was **EUR13.617m**)
+  - New loans **EUR5.464m MASSIVE FOI** / repayments **EUR1.647m**
+  - Cash **EUR5.010m** slight DROP (was **EUR5.184m**) / pension **EUR7.657m JUMP FOI** (was **EUR6.494m**)
+  - FVA IGS **EUR7.183m** / herwaard **EUR2.179m** / leasing MVA **EUR1.937m**
+  - Exploitatie: ontvangsten **EUR28.305m** / uitgaven **EUR25.124m** / saldo **+EUR3.181m VERY STRONG**
+  - AFM **+EUR2.081m VERY STRONG** (gecorr **+EUR2.638m**) / BBR **EUR5.309m HIGH** / budget **+EUR0.790m POS** (MJP was -0.871m) / P&L **-EUR3.921m NEG FOI** (was -1.971m)
+  - Fiscal **EUR15.644m** / personnel **EUR13.829m JUMP FOI**
+  - Toelagen **EUR3.815m FOI** (police **EUR1.605m** / AGB **EUR0.982m** / fire **EUR0.723m** / IGS **EUR0.157m** / andere **EUR0.348m**)
+  - Invest **EUR6.759m** vs MJP **EUR11.044m UNDERSPEND FOI** / ontvangsten **EUR0.196m**
+  - **Toegestane investeringssubsidies EUR3.152m MASSIVE JUMP FOI** (was **EUR0.307m**) — primary driver of P&L deterioration
+  - OCMW cover **EUR0.890m FOI** (cum BR -0.890m) / OCMW expl gap J3 **~EUR1.743m FOI** / OCMW hulp **EUR0.806m**
+  - Derden tussenkomst in tekort **EUR0**
+- Dual: Kaprijke WZC/OCMW/uitzend (tick1106) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Bornem / Halen residual next; progress@1110 in 2
+- Wrote: budgets +40 (bud_kee_*); commitments +7; leaderboard +10; sources +1; entity city_keerbergen; FOI **gap_kee_loans_investsub_pnl_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed 3.9MB); rq_1107=done; spawn **rq_1108**; ticks=1107
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1108** residual dual L5; deferred **rq_116**; progress@1110 in 2

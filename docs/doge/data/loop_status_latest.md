@@ -1,13 +1,10 @@
-# DOGE loop status (live)
+# DOGE loop status (latest)
 
-**ticks:** 1078 · **paused:** no · **mode:** continuous hole_fill  
-**HEAD:** `e34da6a6` · **next:** rq_1079 · **progress@1080** in 2
-
-## Latest
-
-| Tick | SHA | Unit |
-|------|-----|------|
-| 1072 | `0d5f1106` | Roosdaal — debt JUMP +loans · OCMW cover ZERO |
-| 1078 | `e34da6a6` | **Bonheiden** — AFM +€4.32m · invest underspend €3.8m vs MJP €18.1m · OCMW cover ZERO · FOI prio9 |
-
-FOI: ready drafts only — do not send. rq_116 deferred.
+- **Tick:** 1107
+- **UTC:** 2026-08-11T19:00:00Z
+- **Unit:** rq_1107 Keerbergen GE+OCMW JR2025 dual residual
+- **Mode:** continuous / hole_fill
+- **Paused:** no
+- **FOI:** gap_kee_loans_investsub_pnl_ocmw_invest_l5 ready prio9 (**do not send**)
+- **Next:** rq_1108 residual dual L5; progress@1110 in 2; rq_116 deferred
+- **Highlights:** new loans 5.464m MASSIVE; fin debt 17.434m JUMP; invest-subs granted 3.152m MASSIVE; P&L -3.921m NEG; AFM +2.081m; budget +0.790m; OCMW cover 0.890m
