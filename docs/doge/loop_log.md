@@ -12627,3 +12627,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@980; doge_waste_top10_current.md as-of 980; rq_980=done; spawn **rq_981** hole_fill; ticks=980
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_981** residual dual L5 (Ardooie / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 10
+
+### Tick 981 - 2026-08-09T03:30:00Z
+
+- Unit: **rq_981** (FOI-adjacent residual dual - **Gemeente+OCMW Deerlijk Jaarrekening 2025** + progress@980 residual)
+- Found (strong primary BBC JR2025 126p; KBO 0207.488.443 / OCMW 0212.245.205; FD Arne Desmet; AD Karel Bauters; Harelbekestraat 27):
+  - Assets **EUR64.4m** / equity **EUR56.5m** / debt total **EUR7.89m** / fin debt **EUR5.08m** (**RISING** from **EUR4.36m**; LT **EUR4.54m** / ST due **EUR0.542m**)
+  - New loans **EUR1.27m** (bank **EUR1.0m** + Fluvius lease **EUR0.272m**) / repayments **EUR0.550m**
+  - Cash **EUR3.56m** / pension **EUR1.09m declining** / leasing MVA **EUR5.09m FOI** / FVA IGS **EUR14.1m**
+  - Exploitatie: ontvangsten **EUR30.4m** / uitgaven **EUR27.3m** / saldo **+EUR3.16m**
+  - AFM **+EUR2.61m STRONG** (gecorr **+EUR2.81m**) / BBR **EUR5.73m** / budget **+EUR1.19m** / P&L **+EUR0.825m**
+  - Personnel **EUR16.9m** / toelagen **EUR3.49m FOI** (police **EUR1.61m** / IGS **EUR1.14m** / fire **EUR0.356m** / other **EUR0.299m**)
+  - Invest **EUR4.33m** vs MJP **EUR15.08m LARGE underspend FOI** / **OCMW cover EUR1.75m FOI** (OCMW BBR **-EUR1.71m** / OCMW equity **-EUR0.377m**)
+  - OCMW aid **EUR1.17m**
+- Dual: progress@980 residual stack (Zwevegem **EUR199m** / Ingelmunster OCMW **EUR3.0m** / Zorg duals) - not TE-additive
+- Note: Ardooie already mined tick936; Ledegem/Torhout/WZBW still no extractable full JR2025 this tick; Spiere-Helkijn JR2025 public next residual
+- Wrote: budgets +44 (bud_dee_*); commitments +5; leaderboard +7; sources +1; entity city_deerlijk; FOI **gap_dee_ocmw_debt_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~3.3MB not stored in git); rq_981=done; spawn **rq_982**; ticks=981
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_982** residual dual L5 (Spiere-Helkijn / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 9
