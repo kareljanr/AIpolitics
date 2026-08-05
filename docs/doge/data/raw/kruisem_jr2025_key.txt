@@ -1,0 +1,53 @@
+Kruisem Gemeente+OCMW Jaarrekening 2025 (BBC full boek 280p)
+Source: https://www.kruisem.be/sites/default/files/2026-06/2025-JR-0000-boek-origineel.pdf
+Portal: https://www.kruisem.be/onze-gemeente/bekendmakingen/jaarrekeningen
+Besluit GR/OCMW 2026-06-08; KBO gemeente 0697.608.954 / OCMW 0697.663.788
+Tick 932
+
+BALANCE (J4 YE2025 vs YE2024)
+assets              132960073 / 129116123
+equity/nettoactief  119718739 / 118556305
+debt total (schulden) 13241335 / 10559818
+fin debt total      4942112 / 2315751  RISING (LT 4571522 + ST due 370589)
+fin debt LT         4571522 / 2080126
+fin debt ST due     370589 / 235624
+cash                17583839 / 14185171  JUMP
+pension prov        4212145 / 4132855
+FVA total           21104517 (IGS 20993837)
+MVA                 89145831
+cap subsidies       21987362
+onbeschikbaar       201386
+
+J2 EVENWICHT 2025
+expl rec            30982745
+expl exp            26097951
+expl saldo          +4884794
+invest exp          7074348
+invest rec          3324424
+invest saldo        -3749924
+fin rec             2937954
+fin exp             243518
+budget result       +3829306
+cum BR              17301108
+BBR                 17099722
+AFM                 +4709351
+AFM corr            +4767609
+aflossingen         243518
+new loans total     2869879 (bank 2500000 + other/lease 369879)
+
+J5 P&L
+personnel           12942879
+toelagen werk       3799904 (police 1763924 / HVZ 544280 / IGS 889654 / eredienst 46648 / other 555398)
+invest-subs granted 1912530 (police 0 / HVZ 331600 / IGS 1029580 / eredienst 544850 / other 6500)
+fiscal              14375722
+gemeentefonds       4666722
+P&L result          +505758
+goederen            8424615
+fin costs           37445
+
+T2 notes
+MJP invest planned 15215661 vs realized 7074348 underspend
+Invest-subs received VL 1954014
+Pop ~16000 (JR text "bijna 16000") → fin debt ~€309/cap
+
+Dual residual (tick931): Mercator Parkeer Kapellen assets 0.110m fin debt 0.040m AFM +0.019m

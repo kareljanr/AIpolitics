@@ -20853,3 +20853,56 @@ bud_mrc_pnl_result_2025,apb_mercator_kapellen,2025,23548,,,jaarrekening_realized
 bud_mrc_goederen_2025,apb_mercator_kapellen,2025,32420,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Goederen en diensten 0.032m; tick931
 bud_mrc_mjp_invest_lease_2025,apb_mercator_kapellen,2025,2911118,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,MJP planned invest/lease 2.911m 2025 (not realized; FOI parking garage path); tick931
 bud_mrc_mjp_lease_component_2025,apb_mercator_kapellen,2025,2884888,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,MJP planned leasing component 2.885m FOI; tick931
+bud_kru_assets_2025,city_kruisem,2025,132960073,,,jaarrekening_realized,src_kruisem_jr2025,strong,Total assets YE2025 133.0m; tick932
+bud_kru_equity_2025,city_kruisem,2025,119718739,,,jaarrekening_realized,src_kruisem_jr2025,strong,Nettoactief YE2025 119.7m; tick932
+bud_kru_debt_total_2025,city_kruisem,2025,13241335,,,jaarrekening_realized,src_kruisem_jr2025,strong,Total schulden YE2025 13.2m; tick932
+bud_kru_fin_debt_2025,city_kruisem,2025,4942112,,,jaarrekening_realized,src_kruisem_jr2025,strong,T4 total financiele schulden YE2025 4.94m RISING (LT 4.57 + ST due 0.37); tick932
+bud_kru_fin_debt_lt_2025,city_kruisem,2025,4571522,,,jaarrekening_realized,src_kruisem_jr2025,strong,Financiele schulden LT YE2025 4.57m; tick932
+bud_kru_fin_debt_st_due_2025,city_kruisem,2025,370589,,,jaarrekening_realized,src_kruisem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.37m; tick932
+bud_kru_fin_debt_2024,city_kruisem,2025,2315751,,,jaarrekening_realized,src_kruisem_jr2025,strong,T4 fin debt YE2024 2.32m comparator; tick932
+bud_kru_pension_prov_2025,city_kruisem,2025,4212145,,,jaarrekening_realized,src_kruisem_jr2025,strong,Pensioenvoorzieningen YE2025 4.21m; tick932
+bud_kru_cash_2025,city_kruisem,2025,17583839,,,jaarrekening_realized,src_kruisem_jr2025,strong,Liquide middelen YE2025 17.58m (was 14.19m JUMP FOI); tick932
+bud_kru_cash_2024,city_kruisem,2025,14185171,,,jaarrekening_realized,src_kruisem_jr2025,strong,Liquide middelen YE2024 14.19m; tick932
+bud_kru_cap_subs_2025,city_kruisem,2025,21987362,,,jaarrekening_realized,src_kruisem_jr2025,strong,Kapitaalssubsidies YE2025 22.0m; tick932
+bud_kru_fva_total_2025,city_kruisem,2025,21104517,,,jaarrekening_realized,src_kruisem_jr2025,strong,Financiele vaste activa YE2025 21.1m; tick932
+bud_kru_fva_igs_2025,city_kruisem,2025,20993837,,,jaarrekening_realized,src_kruisem_jr2025,strong,FVA IGS YE2025 21.0m; tick932
+bud_kru_mva_2025,city_kruisem,2025,89145831,,,jaarrekening_realized,src_kruisem_jr2025,strong,Materiele vaste activa YE2025 89.1m; tick932
+bud_kru_onbeschikbaar_2025,city_kruisem,2025,201386,,,jaarrekening_realized,src_kruisem_jr2025,strong,Onbeschikbare gelden 0.20m; tick932
+bud_kru_expl_rec_2025,city_kruisem,2025,30982745,,,jaarrekening_realized,src_kruisem_jr2025,strong,Exploitatieontvangsten 31.0m; tick932
+bud_kru_expl_exp_2025,city_kruisem,2025,26097951,,,jaarrekening_realized,src_kruisem_jr2025,strong,Exploitatieuitgaven 26.1m; tick932
+bud_kru_expl_saldo_2025,city_kruisem,2025,4884794,,,jaarrekening_realized,src_kruisem_jr2025,strong,Exploitatiesaldo +4.88m; tick932
+bud_kru_invest_exp_2025,city_kruisem,2025,7074348,,,jaarrekening_realized,src_kruisem_jr2025,strong,Investeringsuitgaven 7.07m (MJP planned 15.2m underspend FOI); tick932
+bud_kru_invest_rec_2025,city_kruisem,2025,3324424,,,jaarrekening_realized,src_kruisem_jr2025,strong,Investeringsontvangsten 3.32m; tick932
+bud_kru_invest_saldo_2025,city_kruisem,2025,-3749924,,,jaarrekening_realized,src_kruisem_jr2025,strong,Investeringssaldo -3.75m; tick932
+bud_kru_fin_rec_2025,city_kruisem,2025,2937954,,,jaarrekening_realized,src_kruisem_jr2025,strong,Financieringsontvangsten 2.94m; tick932
+bud_kru_fin_exp_2025,city_kruisem,2025,243518,,,jaarrekening_realized,src_kruisem_jr2025,strong,Financieringsuitgaven / periodieke aflossingen 0.24m; tick932
+bud_kru_new_loans_2025,city_kruisem,2025,2869879,,,jaarrekening_realized,src_kruisem_jr2025,strong,Nieuwe leningen 2.87m (bank 2.50m + lease/other 0.37m FOI); tick932
+bud_kru_bank_loans_2025,city_kruisem,2025,2500000,,,jaarrekening_realized,src_kruisem_jr2025,strong,Opname bankleningen 2.50m FOI (lender/terms); tick932
+bud_kru_lease_other_loans_2025,city_kruisem,2025,369879,,,jaarrekening_realized,src_kruisem_jr2025,strong,Opname leasing/andere entiteiten 0.37m FOI; tick932
+bud_kru_aflossingen_2025,city_kruisem,2025,243518,,,jaarrekening_realized,src_kruisem_jr2025,strong,Periodieke aflossingen 0.24m; tick932
+bud_kru_afm_2025,city_kruisem,2025,4709351,,,jaarrekening_realized,src_kruisem_jr2025,strong,AFM +4.71m; tick932
+bud_kru_afm_corr_2025,city_kruisem,2025,4767609,,,jaarrekening_realized,src_kruisem_jr2025,strong,Gecorrigeerde AFM +4.77m; tick932
+bud_kru_bbr_2025,city_kruisem,2025,17099722,,,jaarrekening_realized,src_kruisem_jr2025,strong,Beschikbaar budgettair resultaat 17.1m; tick932
+bud_kru_budget_result_2025,city_kruisem,2025,3829306,,,jaarrekening_realized,src_kruisem_jr2025,strong,Budgettair resultaat boekjaar +3.83m; tick932
+bud_kru_cum_br_2025,city_kruisem,2025,17301108,,,jaarrekening_realized,src_kruisem_jr2025,strong,Gecumuleerd budgettair resultaat 17.3m; tick932
+bud_kru_pnl_result_2025,city_kruisem,2025,505758,,,jaarrekening_realized,src_kruisem_jr2025,strong,P&L boekjaar +0.51m; tick932
+bud_kru_personnel_2025,city_kruisem,2025,12942879,,,jaarrekening_realized,src_kruisem_jr2025,strong,Personeelskosten 12.9m; tick932
+bud_kru_toelagen_2025,city_kruisem,2025,3799904,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toegestane werkingssubsidies 3.80m; tick932
+bud_kru_police_toelage_2025,city_kruisem,2025,1763924,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toelage politiezone 1.76m; tick932
+bud_kru_hvz_toelage_2025,city_kruisem,2025,544280,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toelage hulpverleningszone 0.54m; tick932
+bud_kru_igs_toelage_2025,city_kruisem,2025,889654,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toelage IGS 0.89m FOI named list; tick932
+bud_kru_eredienst_toelage_2025,city_kruisem,2025,46648,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toelage eredienst 0.047m; tick932
+bud_kru_toelagen_other_2025,city_kruisem,2025,555398,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toelagen andere begunstigden 0.56m FOI >=50k; tick932
+bud_kru_invest_subs_granted_2025,city_kruisem,2025,1912530,,,jaarrekening_realized,src_kruisem_jr2025,strong,Toegestane investeringssubsidies 1.91m; tick932
+bud_kru_invest_subs_igs_2025,city_kruisem,2025,1029580,,,jaarrekening_realized,src_kruisem_jr2025,strong,Invest-subs IGS 1.03m FOI; tick932
+bud_kru_invest_subs_eredienst_2025,city_kruisem,2025,544850,,,jaarrekening_realized,src_kruisem_jr2025,strong,Invest-subs eredienst 0.54m FOI; tick932
+bud_kru_invest_subs_hvz_2025,city_kruisem,2025,331600,,,jaarrekening_realized,src_kruisem_jr2025,strong,Invest-subs HVZ 0.33m; tick932
+bud_kru_invest_subs_rec_vl_2025,city_kruisem,2025,1954014,,,jaarrekening_realized,src_kruisem_jr2025,strong,Investeringssubsidies ontvangen VL 1.95m FOI projects; tick932
+bud_kru_ocmw_aid_2025,city_kruisem,2025,835534,,,jaarrekening_realized,src_kruisem_jr2025,strong,Individuele hulpverlening OCMW 0.84m; tick932
+bud_kru_fiscal_2025,city_kruisem,2025,14375722,,,jaarrekening_realized,src_kruisem_jr2025,strong,Fiscale opbrengsten 14.4m; tick932
+bud_kru_gemeentefonds_2025,city_kruisem,2025,4666722,,,jaarrekening_realized,src_kruisem_jr2025,strong,Gemeentefonds 4.67m; tick932
+bud_kru_fin_costs_2025,city_kruisem,2025,37445,,,jaarrekening_realized,src_kruisem_jr2025,strong,Financiele kosten 0.037m; tick932
+bud_kru_goederen_2025,city_kruisem,2025,8424615,,,jaarrekening_realized,src_kruisem_jr2025,strong,Goederen en diensten 8.42m; tick932
+bud_kru_mjp_invest_planned_2025,city_kruisem,2025,15215661,,,jaarrekening_realized,src_kruisem_jr2025,strong,MJP planned invest 15.2m vs realized 7.07m underspend FOI; tick932
+bud_kru_debt_per_cap_2025,city_kruisem,2025,309,,,jaarrekening_realized,src_kruisem_jr2025,strong,Fin debt ~EUR309/capita (~16000 inw JR text); tick932
+bud_kru_bbr_per_cap_2025,city_kruisem,2025,1069,,,jaarrekening_realized,src_kruisem_jr2025,strong,BBR ~EUR1069/capita (~16000 inw); tick932

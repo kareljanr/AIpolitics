@@ -11738,3 +11738,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +27 (bud_mrc_*); commitments +4; leaderboard +7; sources +2; entity apb_mercator_kapellen; FOI **gap_mrc_mjp_lease_dual_l5** prio7 ready + draft; raw PDF + key; rq_931=done; spawn **rq_932**; ticks=931
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_932** residual dual L5 (Kruisem / Haacht / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 9
+
+### Tick 932 - 2026-08-07T14:45:00Z
+
+- Unit: **rq_932** (FOI-adjacent residual dual - **Gemeente+OCMW Kruisem Jaarrekening 2025** + Mercator Kapellen dual)
+- Found (strong primary BBC JR2025 280p full boek):
+  - Assets **EUR133.0m** / equity **EUR119.7m** / debt total **EUR13.2m** / fin debt **EUR4.94m** (**RISING** from **EUR2.32m**; LT **EUR4.57m** / ST due **EUR0.37m**) · ~**EUR309**/capita
+  - **New bank loans EUR2.500m FOI** / lease-other **EUR0.37m** / total new **EUR2.87m** / repayments **EUR0.24m**
+  - **Cash EUR17.58m was EUR14.19m JUMP FOI** / pension **EUR4.21m**
+  - Exploitatie: ontvangsten **EUR31.0m** / uitgaven **EUR26.1m** / saldo **+EUR4.88m**
+  - AFM **+EUR4.71m** (gecorr **+EUR4.77m**) / BBR **EUR17.1m** / budget result **+EUR3.83m** / P&L **+EUR0.51m**
+  - Personnel **EUR12.9m** / toelagen **EUR3.80m** (police **EUR1.76m** / **IGS EUR0.89m FOI** / other **EUR0.56m FOI** / HVZ **EUR0.54m**)
+  - Invest **EUR7.07m** (MJP planned **EUR15.2m** underspend FOI) / invest-subs IGS **EUR1.03m FOI** / eredienst **EUR0.54m FOI** / VL received **EUR1.95m FOI**
+  - Fiscal **EUR14.4m** / gemeentefonds **EUR4.67m**
+- Dual: Mercator Parkeer Kapellen **EUR0.110m** / fin debt **EUR0.040m** / AFM **+EUR0.019m** / MJP lease planned **EUR2.91m** (tick931) - not TE-additive
+- Wrote: budgets +53 (bud_kru_*); commitments +4; leaderboard +7; sources +2; entity city_kruisem; FOI **gap_kru_loans_toelagen_invest_l5** prio8 ready + draft; raw PDF + key; rq_932=done; spawn **rq_933**; ticks=932
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_933** residual dual L5 (Haacht JR / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 8
