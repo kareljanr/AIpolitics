@@ -21419,3 +21419,40 @@ bud_har_ocmw_aid_2025,city_harelbeke,2025,3797780,,,jaarrekening_realized,src_ha
 bud_har_fiscal_2025,city_harelbeke,2025,28913151,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Fiscale opbrengsten 28.9m; tick945
 bud_har_fin_costs_2025,city_harelbeke,2025,471258,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Financiele kosten 0.47m; tick945
 bud_har_goederen_2025,city_harelbeke,2025,11252155,,,jaarrekening_realized,src_harelbeke_jr2025,strong,Goederen en diensten 11.3m; tick945
+bud_zhar_assets_2025,zorg_harelbeke,2025,44217427,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Total assets YE2025 44.2m; tick946
+bud_zhar_equity_2025,zorg_harelbeke,2025,15824538,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Nettoactief YE2025 15.8m; tick946
+bud_zhar_debt_total_2025,zorg_harelbeke,2025,28392888,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Total schulden YE2025 28.4m DECLINING (was 30.5m); tick946
+bud_zhar_fin_debt_2025,zorg_harelbeke,2025,16016465,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,T4 total financiele schulden YE2025 16.0m DECLINING (LT 14.7 + ST due 1.35); tick946
+bud_zhar_fin_debt_lt_2025,zorg_harelbeke,2025,14670623,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Financiele schulden LT YE2025 14.7m; tick946
+bud_zhar_fin_debt_st_due_2025,zorg_harelbeke,2025,1345843,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.35m; tick946
+bud_zhar_fin_debt_2024,zorg_harelbeke,2025,17609151,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,T4 fin debt YE2024 17.6m comparator; tick946
+bud_zhar_pension_prov_2025,zorg_harelbeke,2025,4839020,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Pensioenvoorzieningen YE2025 4.84m DROP FOI (was 5.57m); tick946
+bud_zhar_pension_prov_2024,zorg_harelbeke,2025,5572616,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Pensioenvoorzieningen YE2024 5.57m; tick946
+bud_zhar_cash_2025,zorg_harelbeke,2025,12299360,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Liquide middelen YE2025 12.3m (was 12.0m); tick946
+bud_zhar_cash_2024,zorg_harelbeke,2025,11995266,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Liquide middelen YE2024 12.0m; tick946
+bud_zhar_cap_subs_2025,zorg_harelbeke,2025,10169478,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Kapitaalssubsidies YE2025 10.2m; tick946
+bud_zhar_mva_2025,zorg_harelbeke,2025,23614421,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Materiele vaste activa YE2025 23.6m (WZC stock); tick946
+bud_zhar_overig_netto_2025,zorg_harelbeke,2025,2716646,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Overig nettoactief 2.72m (matches city FVA OCMW-ver dual); tick946
+bud_zhar_nonfin_lt_debt_2025,zorg_harelbeke,2025,3544467,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Niet-financiele LT schulden 3.54m FOI (OCMW werkkapitaal path); tick946
+bud_zhar_expl_rec_2025,zorg_harelbeke,2025,25306151,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Exploitatieontvangsten 25.3m; tick946
+bud_zhar_expl_exp_2025,zorg_harelbeke,2025,23630810,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Exploitatieuitgaven 23.6m; tick946
+bud_zhar_expl_saldo_2025,zorg_harelbeke,2025,1675340,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Exploitatiesaldo +1.68m; tick946
+bud_zhar_invest_exp_2025,zorg_harelbeke,2025,897106,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Investeringsuitgaven 0.90m (MJP 2.40m underspend FOI); tick946
+bud_zhar_invest_rec_2025,zorg_harelbeke,2025,729943,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Investeringsontvangsten 0.73m (VIPA VL); tick946
+bud_zhar_invest_saldo_2025,zorg_harelbeke,2025,-167163,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Investeringssaldo -0.17m; tick946
+bud_zhar_mjp_invest_planned_2025,zorg_harelbeke,2025,2402458,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,MJP planned invest 2.40m vs realized 0.90m FOI; tick946
+bud_zhar_new_loans_2025,zorg_harelbeke,2025,0,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Nieuwe bankleningen 0 (no bank draw 2025; MJP planned 1.55m cancelled FOI); tick946
+bud_zhar_nonfin_new_debt_2025,zorg_harelbeke,2025,150000,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Aangaan niet-financiele schulden 0.15m (city invest-subs path dual); tick946
+bud_zhar_aflossingen_2025,zorg_harelbeke,2025,1592685,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Periodieke aflossingen 1.59m; tick946
+bud_zhar_afm_2025,zorg_harelbeke,2025,811250,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,AFM +0.811m; tick946
+bud_zhar_afm_corr_2025,zorg_harelbeke,2025,995204,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Gecorrigeerde AFM +0.995m; tick946
+bud_zhar_bbr_2025,zorg_harelbeke,2025,12944795,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Beschikbaar budgettair resultaat 12.9m; tick946
+bud_zhar_budget_result_2025,zorg_harelbeke,2025,65492,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Budgettair resultaat boekjaar +0.065m; tick946
+bud_zhar_cum_br_2025,zorg_harelbeke,2025,12944795,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Gecumuleerd budgettair resultaat 12.9m; tick946
+bud_zhar_pnl_result_2025,zorg_harelbeke,2025,1658655,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,P&L boekjaar +1.66m (was -0.22m 2024); tick946
+bud_zhar_personnel_2025,zorg_harelbeke,2025,18591883,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Personeelskosten 18.6m; tick946
+bud_zhar_ocmw_subsidies_2025,zorg_harelbeke,2025,4581093,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Werkingssubsidies van OCMW 4.58m FOI (vs city welzijn toelagen 4.74m recon); tick946
+bud_zhar_werkingsubsidies_total_2025,zorg_harelbeke,2025,8707523,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Totale werkingssubsidies in 8.71m; tick946
+bud_zhar_goederen_2025,zorg_harelbeke,2025,4612799,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Goederen en diensten 4.61m; tick946
+bud_zhar_fin_costs_2025,zorg_harelbeke,2025,384883,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Financiele kosten 0.38m; tick946
+bud_zhar_werking_rec_2025,zorg_harelbeke,2025,16375139,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Ontvangsten uit de werking 16.4m (care tariffs); tick946

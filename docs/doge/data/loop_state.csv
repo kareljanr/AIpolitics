@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T21:15:00Z,rq_945,945,no,tick945 Harelbeke JR2025 dual residual; FOI gap_har_budget_toelagen_invest_fluvius_l5 prio8 assets 191.2m fin debt 15.8m budget -0.75m toelagen 13.0m; next residual dual L5 rq_946; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T21:45:00Z,rq_946,946,no,tick946 Zorgbedrijf Harelbeke JR2025 dual city; FOI gap_zhar_debt_ocmw_subsidy_werkkapitaal_l5 prio8 fin debt 16.0m OCMW subsidies 4.58m AFM +0.81m; next residual dual L5 rq_947; rq_116 deferred

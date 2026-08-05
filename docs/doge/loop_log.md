@@ -11978,3 +11978,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_har_*); commitments +4; leaderboard +7; sources +2; entity city_harelbeke; FOI **gap_har_budget_toelagen_invest_fluvius_l5** prio8 ready + draft; key only (PDF ~7MB not stored); rq_945=done; spawn **rq_946**; ticks=945
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_946** residual dual L5 (Zorgbedrijf Harelbeke full BBC / Torhout / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 5
+
+
+### Tick 946 - 2026-08-07T21:45:00Z
+
+- Unit: **rq_946** (FOI-adjacent residual dual Entity II - **Zorgbedrijf Harelbeke WV Jaarrekening 2025** + city Harelbeke dual)
+- Found (strong primary BBC JR2025 107p; KBO 0684.891.363; afdruk 21.04.2026):
+  - Assets **EUR44.2m** / equity **EUR15.8m** / debt total **EUR28.4m** / fin debt **EUR16.0m** (**DECLINING** from **EUR17.6m**; LT **EUR14.7m** / ST due **EUR1.35m**)
+  - **New bank loans EUR0** (planned **EUR1.55m cancelled FOI**) / repayments **EUR1.59m** / nonfin new **EUR0.15m**
+  - Cash **EUR12.3m** / pension **EUR4.84m was EUR5.57m DROP FOI** / nonfin LT debt **EUR3.54m FOI** (OCMW werkkapitaal)
+  - Exploitatie: ontvangsten **EUR25.3m** / uitgaven **EUR23.6m** / saldo **+EUR1.68m**
+  - AFM **+EUR0.811m** (gecorr **+EUR0.995m**) / BBR **EUR12.9m** / budget **+EUR0.065m** / P&L **+EUR1.66m**
+  - Personnel **EUR18.6m** / OCMW subsidies **EUR4.58m FOI** (vs city welzijn **EUR4.74m** recon) / invest **EUR0.90m** vs MJP **EUR2.40m FOI**
+  - Overig nettoactief **EUR2.72m** matches city FVA OCMW-ver
+- Dual: city Harelbeke **EUR191.2m** / fin debt **EUR15.8m** / budget **-EUR0.75m** / toelagen welzijn **EUR4.74m** (tick945) - Entity II dual map
+- Wrote: budgets +37 (bud_zhar_*); commitments +4; leaderboard +7; sources +1; entity zorg_harelbeke; FOI **gap_zhar_debt_ocmw_subsidy_werkkapitaal_l5** prio8 ready + draft; key only; rq_946=done; spawn **rq_947**; ticks=946
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_947** residual dual L5 (Torhout / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 4
