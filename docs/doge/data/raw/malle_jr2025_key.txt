@@ -1,0 +1,22 @@
+Malle JR2025 BBC consol
+Source: https://www.malle.be/file/download/39699/49D74A5CF37B2669E72793520BD4C2F6
+432p; Antwerpsesteenweg 246 / Blijkerijstraat 53 2390 Malle; BE 0207.537.240 / 0231.999.254
+tick897
+
+Assets 68516906 / Equity 43636233 / Debt total 24880673
+Cash 2572985 was 8548466 DROP FOI / Cap subs 6293709
+Fin debt 10041302 (LT 9085268 + ST due 956035) was 10939240
+New loans/leasings 205072
+Pension 10194029 was 8835063 JUMP +1.36m FOI
+FVA IGS 10786826 / FVA total 10826763
+Expl rec 33944973 / exp 30878917 / saldo 3066056
+AFM 2511337 / gecorr 2584208
+BBR 3032583 / cumul 3320200 (unavailable 287617)
+Budget result -2567435 / P&L -1740192
+Personnel 18874455 (onderwijs other ~1118184)
+Toelagen 3604916 (police 2410753 fire 605580 other 574300 FOI)
+OCMW aid 1291516
+Fiscal 15172243 (OV 6621664 APB 7048039)
+Gemeentefonds 5084116
+Invest exp 5212166 (buildings 1.79 roads 1.51) / invest-subs 544950
+MJP new loans 3.14m/yr 2026-27 FOI; fin debt path YE2027 14.2m

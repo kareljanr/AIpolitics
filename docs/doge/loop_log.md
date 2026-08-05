@@ -11161,3 +11161,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39 (bud_br_*); commitments +4; leaderboard +7; sources +2; entity city_brecht; FOI **gap_br_mjp_loans_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_896=done; spawn **rq_897**; ticks=896
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_897** residual dual L5 (Malle/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 4
+
+## Tick 897 - 2026-08-06T21:30:00Z
+
+- Unit: **rq_897** (FOI-adjacent residual dual - **Gemeente+OCMW Malle Jaarrekening 2025** + Brecht dual)
+- Found (strong primary BBC JR2025 432p):
+  - Assets **EUR68.5m** / equity **EUR43.6m** / debt total **EUR24.9m** / fin debt **EUR10.0m** declining (LT **EUR9.1m** / ST due **EUR1.0m**)
+  - New loans **EUR0.21m** / **pension EUR10.2m was EUR8.8m JUMP +EUR1.36m FOI** / **cash EUR2.6m was EUR8.5m DROP FOI**
+  - Exploitatie: ontvangsten **EUR33.9m** / uitgaven **EUR30.9m** / saldo **+EUR3.1m**
+  - AFM **+EUR2.51m** (gecorr **+EUR2.58m**) / BBR **EUR3.0m** / budget result **-EUR2.57m** / P&L **-EUR1.74m**
+  - Personnel **EUR18.9m** / toelagen **EUR3.6m** (police **EUR2.4m** / other **EUR0.57m FOI**) / fiscal **EUR15.2m**
+  - Invest **EUR5.2m** (buildings **EUR1.8m** roads **EUR1.5m**) / invest-subs **EUR0.54m** / gemeentefonds **EUR5.1m**
+  - **MJP new loans EUR3.14m/yr 2026-27** / fin debt YE2027 **EUR14.2m FOI**
+- Dual: Brecht **EUR165.3m** / AFM **+EUR8.9m** / cash **EUR18.8m** (tick896) - not TE-additive
+- Wrote: budgets +40 (bud_mal_*); commitments +4; leaderboard +7; sources +2; entity city_malle; FOI **gap_mal_cash_pension_budget_l5** prio8 ready + draft; raw PDF + key; rq_897=done; spawn **rq_898**; ticks=897
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_898** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 3

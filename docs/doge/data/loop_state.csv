@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T21:00:00Z,rq_896,896,no,tick896 Brecht JR2025 dual Zoersel; FOI gap_br_mjp_loans_toelagen_l5 prio7 MJP loans 12m 2027 AFM +8.9m cash 18.8m; next rq_897 residual dual L5; progress@900 in 4; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T21:30:00Z,rq_897,897,no,tick897 Malle JR2025 dual Brecht; FOI gap_mal_cash_pension_budget_l5 prio8 cash 8.5to2.6m pension +1.36m budget -2.57m; next rq_898 residual dual L5; progress@900 in 3; rq_116 deferred
