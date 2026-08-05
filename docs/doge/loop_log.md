@@ -15021,3 +15021,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +49 (bud_wel_*); commitments +7; leaderboard +9; sources +1; entity city_wellen; FOI **gap_wel_budget_cash_fva_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1104=done; spawn **rq_1105**; ticks=1104
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1105** residual dual L5; deferred **rq_116**; progress@1110 in 5
+
+### Tick 1105 - 2026-08-11T18:00:00Z
+
+- Unit: **rq_1105** (FOI-adjacent residual dual - **Gemeente+OCMW Riemst Jaarrekening 2025** + Wellen dual residual)
+- Found (strong primary BBC JR2025 fin nota 142p + toelichting 65p; GR/RMW 08.06.2026; riemst.be; KBO GE 0207.480.921 / OCMW 0212.210.660; Maastrichtersteenweg 2b / Paenhuisstraat 15 3770; AD Katrien Lambrechts FD Jo Reekmans; GE+OCMW):
+  - Assets **EUR128.093m MASSIVE JUMP FOI** (was **EUR110.410m**) / equity **EUR97.540m JUMP** / debt total **EUR30.553m** / fin debt **EUR15.254m JUMP FOI** (LT **EUR13.818m** / ST due **EUR1.436m**; was **EUR13.334m**)
+  - New loans **EUR3.246m MASSIVE FOI** / repayments **EUR1.325m**
+  - Cash **EUR11.004m JUMP** (was **EUR9.995m**) / pension **EUR9.217m DECLINE** (was **EUR10.116m**)
+  - FVA IGS **EUR36.353m MASSIVE JUMP FOI** (was **EUR19.326m**) / herwaard **EUR17.025m MASSIVE JUMP FOI** (was **EUR0**) / leasing MVA **EUR2.023m**
+  - Exploitatie: ontvangsten **EUR30.036m** / uitgaven **EUR25.607m** / saldo **+EUR4.429m VERY STRONG**
+  - AFM **+EUR3.245m VERY STRONG** (gecorr **+EUR3.503m**) / BBR **EUR9.720m HIGH** / onbeschikbaar **EUR0.629m** / budget **-EUR0.633m NEG FOI** / P&L **+EUR0.607m**
+  - Fiscal **EUR14.050m JUMP** / personnel **EUR14.230m JUMP FOI** (edu pass-through **EUR3.355m** first actual basis)
+  - Toelagen **EUR4.499m FOI** (police **EUR1.726m JUMP +7%** / fire **EUR0.629m** / IGS **EUR1.105m** / andere **EUR0.716m**)
+  - Invest **EUR7.119m** vs MJP **EUR12.382m UNDERSPEND FOI** / saldo **-EUR6.866m**
+  - OCMW expl gap J3 **~EUR0.950m FOI** / OCMW hulp **EUR0.530m DECLINE**
+- Dual: Wellen budget NEG / FVA herwaard / OCMW ZERO cover (tick1104) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Bornem / Halen residual next; progress@1110 in 4
+- Wrote: budgets +45 (bud_rie_*); commitments +7; leaderboard +9; sources +1; entity city_riemst; FOI **gap_rie_fva_loans_invest_toelagen_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1105=done; spawn **rq_1106**; ticks=1105
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1106** residual dual L5; deferred **rq_116**; progress@1110 in 4

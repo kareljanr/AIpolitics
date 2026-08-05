@@ -28937,3 +28937,48 @@ bud_wel_goederen_2025,city_wellen,2025,2356853,,,bbc_jr_realized,src_wellen_jr20
 bud_wel_afschrijvingen_2025,city_wellen,2025,587924,,,bbc_jr_realized,src_wellen_jr2025,strong,Afschrijvingen/voorzieningen 0.588m MASSIVE DROP FOI (was 4.960m); tick1104
 bud_wel_fin_exp_2025,city_wellen,2025,164031,,,bbc_jr_realized,src_wellen_jr2025,strong,Financiele kosten 0.164m; tick1104
 bud_wel_debt_per_capita_2025,city_wellen,2025,724,,,bbc_jr_realized,src_wellen_jr2025,strong,Schuld per inwoner YE2025 724 EUR (kengetallen); tick1104
+bud_rie_assets_2025,city_riemst,2025,128092759,,,bbc_jr_realized,src_riemst_jr2025,strong,Assets YE2025 128.093m MASSIVE JUMP FOI (was 110.410m; FVA herwaard); tick1105
+bud_rie_equity_2025,city_riemst,2025,97540166,,,bbc_jr_realized,src_riemst_jr2025,strong,Nettoactief YE2025 97.540m JUMP (was 80.006m); tick1105
+bud_rie_debt_total_2025,city_riemst,2025,30552593,,,bbc_jr_realized,src_riemst_jr2025,strong,Total schulden YE2025 30.553m slight JUMP; tick1105
+bud_rie_fin_debt_2025,city_riemst,2025,15254342,,,bbc_jr_realized,src_riemst_jr2025,strong,Fin debt total YE2025 15.254m JUMP FOI (was 13.334m T4); tick1105
+bud_rie_fin_debt_lt_2025,city_riemst,2025,13818155,,,bbc_jr_realized,src_riemst_jr2025,strong,Fin debt LT YE2025 13.818m JUMP; tick1105
+bud_rie_fin_debt_st_2025,city_riemst,2025,1436187,,,bbc_jr_realized,src_riemst_jr2025,strong,Fin debt ST due YE2025 1.436m; tick1105
+bud_rie_new_loans_2025,city_riemst,2025,3245588,,,bbc_jr_realized,src_riemst_jr2025,strong,New loans 3.246m MASSIVE FOI (bank package + leasing); tick1105
+bud_rie_repayments_2025,city_riemst,2025,1325393,,,bbc_jr_realized,src_riemst_jr2025,strong,Periodieke aflossingen 1.325m; tick1105
+bud_rie_cash_2025,city_riemst,2025,11004193,,,bbc_jr_realized,src_riemst_jr2025,strong,Cash YE2025 11.004m JUMP FOI (was 9.995m); tick1105
+bud_rie_pension_lt_2025,city_riemst,2025,9216742,,,bbc_jr_realized,src_riemst_jr2025,strong,Pension LT 9.217m DECLINE FOI (was 10.116m); tick1105
+bud_rie_fva_total_2025,city_riemst,2025,38781231,,,bbc_jr_realized,src_riemst_jr2025,strong,FVA total YE2025 38.781m MASSIVE JUMP (was 21.754m); tick1105
+bud_rie_fva_igs_2025,city_riemst,2025,36352696,,,bbc_jr_realized,src_riemst_jr2025,strong,FVA IGS YE2025 36.353m MASSIVE JUMP FOI (was 19.326m); tick1105
+bud_rie_herwaard_2025,city_riemst,2025,17025101,,,bbc_jr_realized,src_riemst_jr2025,strong,Herwaarderingsreserves YE2025 17.025m MASSIVE JUMP FOI (was 0); tick1105
+bud_rie_leasing_mva_2025,city_riemst,2025,2023406,,,bbc_jr_realized,src_riemst_jr2025,strong,Leasing MVA YE2025 2.023m; tick1105
+bud_rie_expl_ontvangsten_2025,city_riemst,2025,30035824,,,bbc_jr_realized,src_riemst_jr2025,strong,Exploitatie ontvangsten 30.036m; tick1105
+bud_rie_expl_uitgaven_2025,city_riemst,2025,25607260,,,bbc_jr_realized,src_riemst_jr2025,strong,Exploitatie uitgaven 25.607m; tick1105
+bud_rie_expl_saldo_2025,city_riemst,2025,4428564,,,bbc_jr_realized,src_riemst_jr2025,strong,Exploitatiesaldo +4.429m VERY STRONG; tick1105
+bud_rie_afm_2025,city_riemst,2025,3244813,,,bbc_jr_realized,src_riemst_jr2025,strong,AFM +3.245m VERY STRONG; tick1105
+bud_rie_afm_gecorr_2025,city_riemst,2025,3503474,,,bbc_jr_realized,src_riemst_jr2025,strong,AFM gecorrigeerd +3.503m VERY STRONG; tick1105
+bud_rie_bbr_2025,city_riemst,2025,9720043,,,bbc_jr_realized,src_riemst_jr2025,strong,Beschikbaar budgettair resultaat 9.720m HIGH; tick1105
+bud_rie_onbeschikbaar_2025,city_riemst,2025,629187,,,bbc_jr_realized,src_riemst_jr2025,strong,Onbeschikbare gelden 0.629m; tick1105
+bud_rie_budget_result_2025,city_riemst,2025,-633160,,,bbc_jr_realized,src_riemst_jr2025,strong,Budgettair resultaat boekjaar -0.633m NEG FOI (better than MJP -1.978m); tick1105
+bud_rie_cum_br_2025,city_riemst,2025,10349230,,,bbc_jr_realized,src_riemst_jr2025,strong,Gecumuleerd BR 10.349m; tick1105
+bud_rie_pnl_2025,city_riemst,2025,607241,,,bbc_jr_realized,src_riemst_jr2025,strong,P&L overschot +0.607m JUMP (was 0.070m); tick1105
+bud_rie_fiscal_2025,city_riemst,2025,14050011,,,bbc_jr_realized,src_riemst_jr2025,strong,Fiscale opbrengsten 14.050m JUMP; tick1105
+bud_rie_personnel_2025,city_riemst,2025,14229590,,,bbc_jr_realized,src_riemst_jr2025,strong,Personeel 14.230m JUMP FOI (edu pass-through 3.355m first full actual basis); tick1105
+bud_rie_edu_pass_2025,city_riemst,2025,3355130,,,bbc_jr_realized,src_riemst_jr2025,strong,Onderwijzend personeel other-gov pass-through 3.355m JUMP FOI; tick1105
+bud_rie_toelagen_2025,city_riemst,2025,4498514,,,bbc_jr_realized,src_riemst_jr2025,strong,Toegestane werkingssubsidies 4.499m FOI; tick1105
+bud_rie_toelagen_police_2025,city_riemst,2025,1726231,,,bbc_jr_realized,src_riemst_jr2025,strong,Politiezone toelage 1.726m JUMP FOI (+7pct federal grant drop); tick1105
+bud_rie_toelagen_fire_2025,city_riemst,2025,629219,,,bbc_jr_realized,src_riemst_jr2025,strong,Hulpverleningszone 0.629m; tick1105
+bud_rie_toelagen_igs_2025,city_riemst,2025,1105157,,,bbc_jr_realized,src_riemst_jr2025,strong,IGS werkingssubsidies 1.105m; tick1105
+bud_rie_toelagen_eredienst_2025,city_riemst,2025,319943,,,bbc_jr_realized,src_riemst_jr2025,strong,Eredienst 0.320m; tick1105
+bud_rie_toelagen_other_2025,city_riemst,2025,716051,,,bbc_jr_realized,src_riemst_jr2025,strong,Andere begunstigden toelagen 0.716m FOI; tick1105
+bud_rie_invest_uitgaven_2025,city_riemst,2025,7118870,,,bbc_jr_realized,src_riemst_jr2025,strong,Investeringsuitgaven 7.119m vs MJP 12.382m UNDERSPEND FOI; tick1105
+bud_rie_invest_ontvangsten_2025,city_riemst,2025,252409,,,bbc_jr_realized,src_riemst_jr2025,strong,Investeringsontvangsten 0.252m LOW FOI; tick1105
+bud_rie_invest_saldo_2025,city_riemst,2025,-6866461,,,bbc_jr_realized,src_riemst_jr2025,strong,Investeringssaldo -6.866m; tick1105
+bud_rie_invest_mjp_2025,city_riemst,2025,12382220,,,bbc_jr_realized,src_riemst_jr2025,strong,MJP invest uitgaven 12.382m; tick1105
+bud_rie_ocmw_expl_uit_2025,city_riemst,2025,2485665,,,bbc_jr_realized,src_riemst_jr2025,strong,OCMW expl uitgaven J3 2.486m; tick1105
+bud_rie_ocmw_expl_ont_2025,city_riemst,2025,1535314,,,bbc_jr_realized,src_riemst_jr2025,strong,OCMW expl ontvangsten J3 1.535m; tick1105
+bud_rie_ocmw_expl_gap_2025,city_riemst,2025,950351,,,bbc_jr_realized,src_riemst_jr2025,strong,OCMW expl gap J3 ~0.950m FOI residual; tick1105
+bud_rie_ocmw_hulp_2025,city_riemst,2025,530146,,,bbc_jr_realized,src_riemst_jr2025,strong,OCMW individuele hulpverlening 0.530m DECLINE; tick1105
+bud_rie_goederen_2025,city_riemst,2025,5756262,,,bbc_jr_realized,src_riemst_jr2025,strong,Goederen en diensten 5.756m; tick1105
+bud_rie_afschrijvingen_2025,city_riemst,2025,3828289,,,bbc_jr_realized,src_riemst_jr2025,strong,Afschrijvingen/voorzieningen 3.828m DROP; tick1105
+bud_rie_fin_exp_2025,city_riemst,2025,497331,,,bbc_jr_realized,src_riemst_jr2025,strong,Financiele kosten 0.497m; tick1105
+bud_rie_toegelaten_lening_2025,city_riemst,2025,250000,,,bbc_jr_realized,src_riemst_jr2025,strong,Toegestane leningen 0.250m FOI residual; tick1105
