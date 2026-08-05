@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T15:15:00Z,rq_933,933,no,tick933 Haacht JR2025 dual Kruisem; FOI gap_haa_police_subs_toelagen_agb_l5 prio8 police invest-subs 3.45m budget -0.64m AGB corr AFM neg; next residual dual L5 rq_934; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T15:45:00Z,rq_934,934,no,tick934 AGB Haacht JR2025 dual city Haacht; FOI gap_hag_debt_dividend_toelage_l5 prio8 fin debt 8.88m corr AFM -0.063m dividend 0.078m; next residual dual L5 rq_935; rq_116 deferred

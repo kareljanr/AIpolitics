@@ -11772,3 +11772,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +56 (bud_haa_*); commitments +4; leaderboard +7; sources +2; entity city_haacht; FOI **gap_haa_police_subs_toelagen_agb_l5** prio8 ready + draft; raw PDF+toel+key; rq_933=done; spawn **rq_934**; ticks=933
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_934** residual dual L5 (Roeselare / AGB Haacht full BBC / other unmined VL JR2025); deferred **rq_116**; progress@940 in 7
+
+### Tick 934 - 2026-08-07T15:45:00Z
+
+- Unit: **rq_934** (FOI-adjacent residual dual Entity II - **AGB Haacht Jaarrekening 2025** + city Haacht dual)
+- Found (strong primary BBC JR2025 29p + toelichting 53p; RvB/GR 20.04.2026):
+  - Assets **EUR9.49m** / equity **EUR0.353m** / debt total **EUR9.14m** / fin debt **EUR8.88m** (**DECLINING** from **EUR9.52m**; LT **EUR8.20m** / ST due **EUR0.68m**)
+  - New renteloze gemeente loan **EUR0.056m FOI** / repayments **EUR0.690m** / invest **EUR0.056m** (MJP planned **EUR0.55m**)
+  - **Cash EUR0.133m was EUR0.042m JUMP** 
+  - Exploitatie: ontvangsten **EUR1.57m** / uitgaven **EUR0.87m** / saldo **+EUR0.70m**
+  - AFM **+EUR0.008m** / **corr AFM -EUR0.063m FOI** / BBR **EUR0.118m** / budget **+EUR0.008m**
+  - **Dividend payout to city EUR0.078m FOI** (while corr AFM negative)
+  - City dual toelage AGB **EUR0.764m** vs AGB books werkingsubsidies **EUR0** recon FOI
+- Dual: city Haacht **EUR76.3m** / fin debt **EUR12.05m** declining / AFM **+EUR4.63m** / budget **-EUR0.64m** / police invest-subs **EUR3.45m** (tick933) - Entity II dual map
+- Wrote: budgets +28 (bud_hag_*); commitments +4; leaderboard +7; sources +2; entity agb_haacht; FOI **gap_hag_debt_dividend_toelage_l5** prio8 ready + draft; raw PDF+toel+key; rq_934=done; spawn **rq_935**; ticks=934
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_935** residual dual L5 (Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 6
