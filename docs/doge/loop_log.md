@@ -14868,3 +14868,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_tsh_*); commitments +7; leaderboard +8; sources +1; entity city_tessenderlo_ham; FOI **gap_tsh_pension_fva_cash_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1096=done; spawn **rq_1097**; ticks=1096
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1097** residual dual L5; deferred **rq_116**; progress@1100 in 3
+
+
+### Tick 1097 - 2026-08-11T14:00:00Z
+
+- Unit: **rq_1097** (FOI-adjacent residual dual - **Lokaal Bestuur Alken Jaarrekening 2025** + Tessenderlo-Ham dual residual)
+- Found (strong primary BBC JR2025 PDF; 94p; GR+RMW 25.06.2026 pub 02.07.2026; alken.be; KBO GE 0207.474.882 / OCMW 0212.235.307; Hoogdorpsstraat 38 / Papenakkerstraat 5 3570; AD Pascal Giesen FD Anja Stulens; GE+OCMW):
+  - Assets **EUR61.578m JUMP** (was **EUR47.834m**) / equity **EUR40.612m JUMP** / debt total **EUR20.966m** / fin debt **EUR6.271m DECLINE** (LT **EUR5.434m** / ST due **EUR0.836m**)
+  - New loans **EUR0.358m LOW** leasing / repayments **EUR0.879m**
+  - Cash **EUR3.211m** / pension **EUR9.633m HIGH FOI** / FVA IGS **EUR25.887m MASSIVE JUMP FOI** (was **EUR13.111m**) / herwaard **EUR12.782m MASSIVE JUMP FOI** (was **EUR0.006m**; +**EUR12.776m**) / leasing MVA **EUR0.791m**
+  - Exploitatie: ontvangsten **EUR21.571m** / uitgaven **EUR18.972m** / saldo **+EUR2.599m STRONG**
+  - AFM **+EUR1.720m STRONG** (gecorr **+EUR2.055m**) / BBR **EUR2.489m** / budget **-EUR1.649m DEFICIT FOI** / cum BR **EUR2.489m** / P&L **-EUR0.401m** (GE **+EUR1.067m** / OCMW **-EUR1.469m**)
+  - Fiscal **EUR11.056m** / PB **EUR5.135m** (7%) / OP **EUR4.867m** (850)
+  - Personnel **EUR11.456m FOI** / toelagen **EUR3.129m FOI** (police **EUR1.453m** / fire **EUR0.641m** / IGS **EUR0.628m**)
+  - Invest **EUR4.174m** vs MJP **EUR13.517m UNDERSPEND FOI** / saldo **-EUR3.727m** / MVA aankopen **EUR3.383m**
+  - OCMW cover **EUR2.050m FULL FOI** (OCMW equity **-EUR0.677m → -EUR0.096m** after cover)
+- Dual: Tessenderlo-Ham first-fusion cash/pension/FVA (tick1096) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen / Peer / Bornem / Halen residual next; progress@1100 in 2
+- Wrote: budgets +56 (bud_alk_*); commitments +7; leaderboard +9; sources +1; entity city_alken; FOI **gap_alk_pension_fva_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1097=done; spawn **rq_1098**; ticks=1097
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1098** residual dual L5; deferred **rq_116**; progress@1100 in 2
