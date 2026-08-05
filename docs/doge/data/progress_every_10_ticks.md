@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 940** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 931-939: Deinze **EUR321m** / Kruisem **EUR133m** / Ichtegem **EUR94m** / Ardooie **EUR77m** / Haacht **EUR76m** / Affligem **EUR47m** / AGB Haacht **EUR9.5m** / AGB Ardooie **EUR3.0m** / Mercator Kapellen **EUR0.11m** · prior 921-929 stack retained |
+| **D. L5 named / measure end-lines** | **~73-87%** of TE (generous) | **Gain 930-940 is VL residual + Entity II dual (not near-complete of 348bn):** personnel Deinze **EUR49m** / Affligem **EUR8m** / Ichtegem **EUR14m** / Haacht **EUR13m** / Kruisem **EUR13m** / Ardooie **EUR7m** · AFM spectrum Deinze **+EUR6.27m** / Ardooie **+EUR3.03m** / Haacht **+EUR4.63m** / Kruisem **+EUR4.71m** / Ichtegem **+EUR1.26m** / Affligem **+EUR1.28m** · FOI-adjacent: Deinze **new loans EUR10.8m MTN** / fin debt **EUR56.6m rising** / **toelagen EUR15.3m** / invest **EUR19.2m** · Ichtegem **bank EUR11.0m** / debt **EUR24.3m rising** · Kruisem **bank EUR2.5m** / debt **EUR4.94m rising** · Haacht **police invest-subs EUR3.45m** / budget **−EUR0.64m** · Ardooie **cash drop EUR8.8to4.3m** / budget **−EUR3.22m** / **other toelagen EUR1.02m** / near-zero debt · Affligem **pension EUR9.93m** / **onbeschikbaar EUR2.34m** / **cum equity deficit EUR5.4m** / budget **−EUR0.87m** · AGB Haacht **debt EUR8.88m** / **corr AFM −EUR0.063m** / **dividend EUR0.078m** · AGB Ardooie **debt EUR2.02m 99y** / **corr AFM −EUR0.068m** / **dividend EUR0.049m** / **prijssubsidie factor 10.2** · Mercator Kapellen **MJP lease EUR2.91m planned not realized** |
+| **E. FOI-ready gaps** | **~628** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~670** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Deinze **EUR321m** / Kruisem **EUR133m** / Ichtegem **EUR94m** / Ardooie **EUR77m** / Haacht **EUR76m** / Affligem **EUR47m** not full TE) · **AGB Haacht EUR9.5m / debt EUR8.88m** · **AGB Ardooie EUR3.0m / debt EUR2.02m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 940)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~21208 |
+| commitments.csv | ~2705 |
+| leaderboard.csv | ~4387 |
+| entities.csv | ~665 |
+| sources.csv | ~1840 |
+| FOI ready | ~628 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~670 |
+| research_queue open | rq_116 deferred + rq_941 hole-fill after progress |
+
+### What improved since tick 930
+
+- **VL city/AGB JR2025 residual (tick931-939):** Mercator Parkeer Kapellen **EUR0.11m** / **MJP lease EUR2.91m planned** · Kruisem **EUR133m** / **bank EUR2.5m** / debt **EUR4.94m rising** / AFM **+EUR4.71m** · Haacht **EUR76m** / **police invest-subs EUR3.45m** / budget **−EUR0.64m** / AFM **+EUR4.63m** · AGB Haacht **EUR9.5m** / **debt EUR8.88m** / **corr AFM −EUR0.063m** / **dividend EUR0.078m** · Ichtegem **EUR94m** / **bank EUR11.0m** / debt **EUR24.3m rising** / invest **EUR11.6m** · Ardooie **EUR77m** / **near-zero debt** / **cash drop EUR8.8to4.3m** / budget **−EUR3.22m** / **other toelagen EUR1.02m** · AGB Ardooie **EUR3.0m** / **99y renteloze debt EUR2.02m** / **corr AFM −EUR0.068m** / **dividend EUR0.049m** / **prijssubsidie 10.2** · Affligem **EUR47m** / **pension EUR9.93m** / **onbeschikbaar EUR2.34m** / **cum deficit EUR5.4m** / budget **−EUR0.87m** · Deinze **EUR321m** / **new loans EUR10.8m MTN** / debt **EUR56.6m rising** / **toelagen EUR15.3m** / invest **EUR19.2m**.
+- **Dual map:** bank re-leverage duals (Deinze **EUR10.8m** / Ichtegem **EUR11.0m** / Kruisem **EUR2.5m**) vs cash-funded near-zero debt (Ardooie cash drop / budget **−EUR3.22m**) · Entity II absurdity dual (AGB Haacht + AGB Ardooie **corr AFM neg + dividend + city toelage recon**) · pension/onbeschikbaar dual (Affligem **EUR9.93m** / **EUR2.34m**) vs invest-loan dual (Deinze) · police capital spike (Haacht **EUR3.45m**) · micro Entity II (Mercator MJP lease **EUR2.91m** planned).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 930** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

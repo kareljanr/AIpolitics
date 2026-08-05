@@ -11871,3 +11871,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_dei_*); commitments +4; leaderboard +7; sources +2; entity city_deinze; FOI **gap_dei_loans_mtn_toelagen_invest_l5** prio8 ready + draft; key only (full PDFs ~165MB not stored); rq_939=done; spawn **rq_940 progress@940 prio10**; ticks=939
 - FOI: ready only - **do not send**
 - Next: **progress@940 NEXT** (prio10 rq_940); then residual dual L5; deferred **rq_116**
+
+### Tick 940 - 2026-08-07T18:45:00Z
+
+- Unit: **rq_940** (mandatory **progress@940** - coverage layers A-E + waste top10)
+- Inventory: budgets **~21208** / commitments **~2705** / leaderboard **~4387** / entities **~665** / sources **~1840** / FOI ready **~628** / answered **~9** / partial **~27** / total FOI **~670**
+- Coverage: A/B **100%** · C **~99%** · D **~73-87%** generous (gain = VL residual 931-939 + Entity II dual, not near-complete of EUR348bn) · E FOI-ready **~628**
+- Gain since tick930 (VL JR2025 residual 931-939, dual not TE-additive):
+  - Mercator Parkeer Kapellen **EUR0.11m** / **MJP lease EUR2.91m planned**
+  - Kruisem **EUR133m** / **bank EUR2.5m** / debt rising **EUR4.94m** / AFM **+EUR4.71m**
+  - Haacht **EUR76m** / **police invest-subs EUR3.45m** / budget **−EUR0.64m**
+  - AGB Haacht **EUR9.5m** / debt **EUR8.88m** / **corr AFM −EUR0.063m** / **dividend EUR0.078m**
+  - Ichtegem **EUR94m** / **bank EUR11.0m** / debt **EUR24.3m rising** / invest **EUR11.6m**
+  - Ardooie **EUR77m** / near-zero debt / **cash drop** / budget **−EUR3.22m** / **other toelagen EUR1.02m**
+  - AGB Ardooie **EUR3.0m** / **99y debt EUR2.02m** / **corr AFM −EUR0.068m** / **dividend EUR0.049m** / **prijssubsidie 10.2**
+  - Affligem **EUR47m** / **pension EUR9.93m** / **onbeschikbaar EUR2.34m** / **cum deficit EUR5.4m** / budget **−EUR0.87m**
+  - Deinze **EUR321m** / **new loans EUR10.8m MTN** / debt **EUR56.6m rising** / **toelagen EUR15.3m** / invest **EUR19.2m**
+- Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@940; doge_waste_top10_current.md as-of 940; rq_940=done; spawn **rq_941** hole_fill; ticks=940
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_941** residual dual L5; deferred **rq_116**; progress@950 in 10

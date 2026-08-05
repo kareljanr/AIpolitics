@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T18:15:00Z,rq_939,939,no,tick939 Deinze JR2025 dual Affligem; FOI gap_dei_loans_mtn_toelagen_invest_l5 prio8 bank/MTN 10.8m fin debt 56.6m rising toelagen 15.3m; next progress@940 rq_940 prio10; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T18:45:00Z,rq_940,940,no,tick940 progress@940 after VL residual 931-939 (Deinze 321m MTN 10.8m Ichtegem bank 11m Entity II AGB dual Affligem pension); pure top10 stable; next residual dual L5 rq_941; rq_116 deferred
