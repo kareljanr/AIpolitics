@@ -1,0 +1,21 @@
+Rotselaar JR2025 BBC consol
+Source: https://www.rotselaar.be/sites/default/files/2026-06/20260623_doc_geoc_jaarrekening_2025_0.pdf
+145p; Provinciebaan 20 3110 Rotselaar; BE 0207.524.471 / 0212.166.120
+tick899
+
+Assets 113447100 / Equity 66375860 / Debt total 47071240
+Cash 5666532 was 563311 JUMP / Cap subs 9405252
+Fin debt 27466845 (LT 24622999 + ST due 2843846) was 22784265
+New loans/leasings 7250975 FOI (financing rec 7.96m)
+Pension 13762704 was 14228715
+FVA IGS 17588980 / FVA total 20086963
+Expl rec 37243975 / exp 33720957 / saldo 3523018
+AFM 1667567 / gecorr 2413222
+BBR 5210633 / cumul 5407180 (was -1.10m recovered)
+Budget result 6508661 / P&L +1545404
+Personnel 18628501 (onderwijs other ~6097399)
+Toelagen 5571369 (police 2367087 fire 898470 other 2071599 FOI)
+OCMW aid 1357395
+Fiscal 19713221 (OV 7453229 APB 9737938)
+Gemeentefonds 3867183
+Invest exp 3005676 / invest-subs 302434

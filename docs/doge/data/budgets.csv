@@ -19612,3 +19612,42 @@ bud_wel_gemeentefonds_2025,city_wellen,2025,2216012,,,jaarrekening_realized,src_
 bud_wel_new_loans_2025,city_wellen,2025,138625,,,jaarrekening_realized,src_wellen_jr2025,strong,Nieuwe leningen/leasings 0.139m 2025; tick898
 bud_wel_invest_buildings_2025,city_wellen,2025,3103804,,,jaarrekening_realized,src_wellen_jr2025,strong,Invest terreinen/gebouwen 3.104m 2025 FOI; tick898
 bud_wel_invest_roads_2025,city_wellen,2025,2287957,,,jaarrekening_realized,src_wellen_jr2025,strong,Invest wegen 2.288m 2025 FOI; tick898
+bud_rot_assets_2025,city_rotselaar,2025,113447100,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Consol total assets YE2025 113.447m; tick899
+bud_rot_equity_2025,city_rotselaar,2025,66375860,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Nettoactief YE2025 66.376m; tick899
+bud_rot_debt_total_2025,city_rotselaar,2025,47071240,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Schulden total YE2025 47.071m; tick899
+bud_rot_fin_debt_2025,city_rotselaar,2025,27466845,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Fin schulden total YE2025 27.467m (LT 24.623 + ST due 2.844) was 22.784m; tick899
+bud_rot_fin_debt_lt_2025,city_rotselaar,2025,24622999,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Fin schulden LT YE2025 24.623m; tick899
+bud_rot_fin_debt_st_2025,city_rotselaar,2025,2843846,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Fin schulden LT binnen jaar YE2025 2.844m; tick899
+bud_rot_pension_prov_2025,city_rotselaar,2025,13762704,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Pensioenvoorzieningen YE2025 13.763m (was 14.229m); tick899
+bud_rot_cash_2025,city_rotselaar,2025,5666532,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Liquide middelen YE2025 5.667m (was 0.563m loan draw); tick899
+bud_rot_cap_subs_2025,city_rotselaar,2025,9405252,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Kapitaalsubsidies YE2025 9.405m; tick899
+bud_rot_fva_igs_2025,city_rotselaar,2025,17588980,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Fin VA IGS YE2025 17.589m; tick899
+bud_rot_fva_total_2025,city_rotselaar,2025,20086963,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Fin VA total YE2025 20.087m; tick899
+bud_rot_cumul_budget_2025,city_rotselaar,2025,5407180,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 5.407m (was -1.101m); tick899
+bud_rot_bbr_2025,city_rotselaar,2025,5210633,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Beschikbaar budgettair resultaat YE2025 5.211m; tick899
+bud_rot_expl_rec_2025,city_rotselaar,2025,37243975,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Exploitatieontvangsten 37.244m 2025 (J2); tick899
+bud_rot_expl_exp_2025,city_rotselaar,2025,33720957,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Exploitatieuitgaven 33.721m 2025 (J2); tick899
+bud_rot_expl_saldo_2025,city_rotselaar,2025,3523018,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Exploitatiesaldo +3.523m 2025; tick899
+bud_rot_invest_exp_2025,city_rotselaar,2025,3005676,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Investeringsuitgaven 3.006m 2025; tick899
+bud_rot_invest_rec_2025,city_rotselaar,2025,991891,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Investeringsontvangsten 0.992m 2025; tick899
+bud_rot_invest_saldo_2025,city_rotselaar,2025,-2013785,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Investeringssaldo -2.014m 2025; tick899
+bud_rot_fin_saldo_2025,city_rotselaar,2025,4999429,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Financieringssaldo +5.000m 2025 (new loans); tick899
+bud_rot_budget_result_2025,city_rotselaar,2025,6508661,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Budgettair resultaat boekjaar +6.509m 2025; tick899
+bud_rot_afm_2025,city_rotselaar,2025,1667567,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Autofinancieringsmarge +1.668m 2025; tick899
+bud_rot_afm_gecorr_2025,city_rotselaar,2025,2413222,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Gecorrigeerde AFM +2.413m 2025; tick899
+bud_rot_pl_2025,city_rotselaar,2025,1545404,,,jaarrekening_realized,src_rotselaar_jr2025,strong,P&L overschot +1.545m 2025; tick899
+bud_rot_personnel_2025,city_rotselaar,2025,18628501,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Bezoldigingen 18.629m 2025 (incl onderwijs other ~6.097m); tick899
+bud_rot_personnel_onderwijs_other_2025,city_rotselaar,2025,6097399,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Onderwijzend personeel ten laste van andere ~6.097m 2025; tick899
+bud_rot_toelagen_2025,city_rotselaar,2025,5571369,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toegestane werkingssubsidies 5.571m 2025; tick899
+bud_rot_toelagen_police_2025,city_rotselaar,2025,2367087,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toelage politiezone 2.367m 2025; tick899
+bud_rot_toelagen_fire_2025,city_rotselaar,2025,898470,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toelage hulpverleningszone 0.898m 2025; tick899
+bud_rot_toelagen_agb_2025,city_rotselaar,2025,33270,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toelage AGB 0.033m 2025; tick899
+bud_rot_toelagen_igs_2025,city_rotselaar,2025,180095,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toelage IGS 0.180m 2025; tick899
+bud_rot_toelagen_other_2025,city_rotselaar,2025,2071599,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toelagen andere begunstigden 2.072m 2025 FOI; tick899
+bud_rot_ocmw_aid_2025,city_rotselaar,2025,1357395,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Individuele hulpverlening OCMW 1.357m 2025; tick899
+bud_rot_fiscal_2025,city_rotselaar,2025,19713221,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Fiscale opbrengsten en boetes 19.713m 2025; tick899
+bud_rot_fiscal_ov_2025,city_rotselaar,2025,7453229,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Opcentiemen OV 7.453m 2025; tick899
+bud_rot_fiscal_apb_2025,city_rotselaar,2025,9737938,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Aanvullende PB 9.738m 2025; tick899
+bud_rot_gemeentefonds_2025,city_rotselaar,2025,3867183,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Gemeentefonds 3.867m 2025; tick899
+bud_rot_invest_subs_granted_2025,city_rotselaar,2025,302434,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toegestane investeringssubsidies 0.302m 2025; tick899
+bud_rot_new_loans_2025,city_rotselaar,2025,7250975,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Nieuwe leningen/leasings 7.251m 2025 FOI; tick899

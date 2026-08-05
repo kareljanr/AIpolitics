@@ -11193,3 +11193,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39 (bud_wel_*); commitments +4; leaderboard +7; sources +2; entity city_wellen; FOI **gap_wel_invest_fva_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_898=done; spawn **rq_899**; ticks=898
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_899** residual dual L5 (Rotselaar/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 2
+
+## Tick 899 - 2026-08-06T22:30:00Z
+
+- Unit: **rq_899** (FOI-adjacent residual dual - **Gemeente+OCMW Rotselaar Jaarrekening 2025** + Wellen dual)
+- Found (strong primary BBC JR2025 145p):
+  - Assets **EUR113.4m** / equity **EUR66.4m** / debt total **EUR47.1m** / fin debt **EUR27.5m** (was **EUR22.8m**; LT **EUR24.6m** / ST due **EUR2.8m**)
+  - **New loans EUR7.25m FOI** / pension **EUR13.8m** / cash **EUR5.7m** (was **EUR0.56m**)
+  - Exploitatie: ontvangsten **EUR37.2m** / uitgaven **EUR33.7m** / saldo **+EUR3.5m**
+  - AFM **+EUR1.67m** (gecorr **+EUR2.41m**) / BBR **EUR5.2m** / budget result **+EUR6.51m** / P&L **+EUR1.55m**
+  - Cumul recovered from **-EUR1.10m** to **EUR5.41m**
+  - Personnel **EUR18.6m** / toelagen **EUR5.6m** (police **EUR2.4m** / **other EUR2.07m FOI**) / fiscal **EUR19.7m**
+  - Invest **EUR3.0m** / gemeentefonds **EUR3.9m** / OCMW aid **EUR1.4m**
+- Dual: Wellen **EUR58.2m** / invest **EUR6.2m** / FVA IGS reval (tick898) - not TE-additive
+- Wrote: budgets +39 (bud_rot_*); commitments +4; leaderboard +7; sources +2; entity city_rotselaar; FOI **gap_rot_loans_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_899=done; spawn **rq_900 progress@900 prio10**; ticks=899
+- FOI: ready only - **do not send**
+- Next: **progress@900 NEXT** (prio10 rq_900); then residual dual L5; deferred **rq_116**

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T22:00:00Z,rq_898,898,no,tick898 Wellen JR2025 dual Malle; FOI gap_wel_invest_fva_toelagen_l5 prio8 invest 6.2m FVA IGS reval budget -3.44m AFM +2.6m; next rq_899 residual dual L5; progress@900 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T22:30:00Z,rq_899,899,no,tick899 Rotselaar JR2025 dual Wellen; FOI gap_rot_loans_toelagen_l5 prio8 new loans 7.25m other toelagen 2.07m; next rq_900 progress@900 NEXT; rq_116 deferred
