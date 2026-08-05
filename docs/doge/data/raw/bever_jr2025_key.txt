@@ -1,22 +1,1324 @@
-Bever JR2025 key figures (BBC consol gemeente+OCMW; faciliteitengemeente <2500)
-Source: https://www.bever-bievene.be/sites/default/files/2026-07/JR%202025%20-%20zonder%20bijlage.pdf
-93p; NIS 23009; 09/06/2026
-tick875
 
-Assets 21260994 / Equity 16105124 / Debt total 5155870
-Cash 4008497 / Cap subs 6877805
-Fin debt 2496385 (LT 2169851 + ST due 326534) was LT 1259539
-New loans 1247999
-Pension 2159606 was 1970827
-FVA IGS 1280542
-Expl rec 8067327 / exp 6825057 / saldo 1242271
-AFM 967851 / gecorr 1120446
-BBR 4438739 / cumul budget 4438739
-Budget result 888385 / P&L 667495
-Personnel 4881000
-Toelagen 490160 (police ~282455 fire ~154343)
-OCMW aid 115571
-Fiscal 2353742 (OV 873544 APB 1202726)
-Gemeentefonds 794479 / faciliteiten 372425
-Invest exp 4005139 / invest rec 2678951 / invest-subs granted 27794
-Gemeente to OCMW 212473
+===== PAGE 4 =====
+ 
+Gemeente en OCMW Bever - Jaarrekening 2025 
+ 
+6. Bijlage 
+6.1. Proef en saldi balans per 31/12/2025 : Gemeente + OCMW  
+6.2. Proef en saldi balans per 31/12/2025 : Gemeente  
+6.3. Proef en saldi balans per 31/12/2025 : OCMW  
+6.4. 173X : De verantwoording voor AP 
+6.5. Kasboek 31/12/2025 (AR 570000) 
+6.6. Journaalvolgnummers  
+6.7. Overzicht investeringsprojecten  
+6.8. Overzicht van de ﬁnanciële vaste acƟva (deelnemingen)  
+6.9. Overzicht van de lange termijn vorderingen en toegestane leningen  
+6.10. Overzicht van de lange termijn schulden en leningen  
+6.11. Detail van de desinvesteringen en buitengebruikstellingen – Patrimonium en 
+diverse  
+6.12. AansluiƟng werkkapitaal  
+6.13. Jaarlijkse tussenkomst van gemeente in het meerjarenplan van het OCMW  
+6.14. Graﬁeken  
+6.15. UiƩreksels op 31/12/2025 
+6.16. Controletabellen 
+6.17. Verantwoordingstukken : deelnemingen & borgstellingen 
+6.18. De geactualiseerde ﬁche per 31/12/2025 mbt de overname van het OV-net 
+door Fluvius.  
+ 
+ 
+4 / 93
+
+===== PAGE 5 =====
+ 
+Gemeente en OCMW Bever - Jaarrekening 2025 
+ 
+ 
+1. Inleiding : jaarrekening : Gemeente en OCMW 2025 
+ 
+ 
+ 
+  
+GEM + OCMW 
+GEM + OCMW 
+ 
+Gemeente 
+OCMW 
+Budgettair resultaat 
+Jaarrekening 
+Meerjarenplan 
+ 
+Jaarrekening 
+Jaarrekening 
+I. Exploitatiesaldo 
+1.242.271
+712.972 
+1.448.952 
+-206.681
+a. Ontvangsten 
+8.067.327
+8.005.726
+6.898.928
+1.168.399
+b. Uitgaven 
+6.825.057
+7.292.754
+5.449.976
+1.375.080
+II. Investeringssaldo 
+-1.326.189
+-2.348.820 
+-1.321.048 
+-5.141
+a. Ontvangsten 
+2.678.951
+2.408.782
+2.678.951
+0
+b. Uitgaven 
+4.005.139
+4.757.602
+3.999.999
+5.141
+III. Saldo exploitatie en investeringen 
+-83.918
+-1.635.848
+127.904
+-211.822
+IV. Financieringssaldo 
+972.303
+719.115
+972.953
+-651
+a. Ontvangsten 
+1.247.999
+1.051.080
+1.217.999
+30.000
+b. Uitgaven 
+275.697
+331.965
+245.046
+30.651
+V. Budgettair resultaat van het boekjaar 
+888.385
+-916.733 
+1.100.857 
+-212.473
+VI. Gecumuleerd budgettair resultaat 
+vorig boekjaar 
+3.550.355
+3.550.355
+3.550.355 
+0
+VII. Gecumuleerd budgettair resultaat 
+4.438.739
+2.633.622
+4.651.212
+-212.473
+IX. Beschikbaar budgettair resultaat 
+4.438.739
+2.633.622 
+4.651.212 
+-212.473
+  
+  
+  
+   
+  
+Autofinancieringsmarge 
+Jaarrekening 
+Meerjarenplan 
+ Jaarrekening 
+Jaarrekening 
+I. Exploitatiesaldo 
+1.242.271
+712.972
+1.448.952
+-206.681
+II. Netto periodieke aflossingen 
+274.420
+331.965
+245.046
+29.374
+a. Periodieke aflossingen conform de 
+verbintenissen 
+274.420
+331.965 
+245.046 
+29.374
+b. Periodieke terugvordering leningen 
+0
+0
+0
+0
+III. Autofinancieringsmarge 
+967.851
+381.007 
+1.203.906 
+-236.055
+ 
+ 
+ 
+ 
+5 / 93
+
+===== PAGE 6 =====
+ 
+Gemeente en OCMW Bever - Jaarrekening 2025 
+ 
+Woordje uitleg over het resultaat : 
+ 
+Beschikbaar budgeƩair resultaat : 4.438.739€ 
+ 
+ExploitaƟeresultaat : 1.242.271€  
+Het exploitaƟeresultaat is groter dan verwacht door minder hoge uitgaven. 
+ 
+De ontvangsten zijn 1% hoger dan gebudgeƩeerd (61.601€). Dit wordt verspreid op verschillende 
+subsidies en aanvullende personenbelasƟng die hoger waren dan verwacht. 
+De gewoonlijke grote ontvangsten zijn de werkingssubsidies (65%) en fiscale ontvangsten (30%). 
+ 
+De exploitaƟe-uitgaven zijn 7% lager dan gebudgeƩeerd (467.697€).  
+De grootste invloed komt van het pensioenverzekeringsdossier dat nog niet afgerond werd 
+(250.000€).  
+Voor het boeken van de bezoldiging van onderwijzend personeel werden de gegevens pas na het 
+laatste meerjarenplan ontvangen. Dit zorgde op het einde van het boekjaar voor verschillen tussen 
+budget en deﬁniƟeve cijfers. Aangezien dit om een nul transacƟe gaat heeŌ dit geen impact op het 
+eindresultaat.  
+Zoals jaarlijks is er een verschil tussen budget en jaarrekening voor ICT kosten doordat er sommige 
+projecten in het laatste trimester van het jaar werden goedgekeurd en gebudgeƩeerd, maar werden 
+pas in het jaar erop gefactureerd (+/- 50.000€).  
+De grootste uitgaven zijn elk jaar de lonen (72%).  
+De andere grote uitgaven zijn de toelages aan brandweer en poliƟediensten, toelages aan 
+kerkfabrieken, tussenkomst in het OCMW, ICT, Intradura voor de ophaling van huisvuil, … 
+ 
+ 
+Investeringsresultaat : -1.326.189€ 
+Er werd minder uitgegeven en meer ontvangen dan gebudgeƩeerd voor de investeringen.  
+ 
+In 2024 zijn de bouwwerken aan de nieuwe school in Akrenbos 133 gestart.  
+Dit heeŌ tot gevolg een grote investeringsuitgave van 3.684.965€ voor 2025. De ontvangsten van de 
+subsidies voor de bouw van de school bedroegen 2.673.567€ voor 2025.  
+ 
+Er werden daarnaast een aantal wegenwerken en infrastructuurwerken nog niet uitgevoerd. Dit 
+verklaart het verschil in investeringsuitgave van +/- 750.000€ tussen budgetcijfers en 
+jaarrekeningcijfers. 
+ 
+Van de vorige jaren nemen wij het gecumuleerd budgettair resultaat vorig boekjaar (3.550.355€)  
+dat bestaat uit het exploitatie overschot van de vorige jaren en de plattelandsfondsen dat werden 
+opzij gehouden om de bouw van de school te kunnen financieren.  
+ 
+Het Beschikbaar budgettair resultaat is 4.438.739€ en is samengesteld door het resultaat van de 
+vorige jaren en het budgettair resultaat van dit jaar. Dit lijkt een groot resultaat voor onze kleine 
+gemeente, maar de komende jaren staan ambitieuze projecten gepland : renovatie van het 
+gemeentehuis, aankoop van grond en bouw van een nieuwe loods, bouw van nieuwe sociale 
+6 / 93
+
+===== PAGE 21 =====
+J2: Staat van het financieel evenwicht
+2025
+Journaalvolgnummers: JR Budg. 257785 Alg. 23950 / EK Budg. 23827
+Gemeente Bever (0207.539.616)
+OCMW Bever (0212.344.282)
+Plaats 10, 1547 Bever
+Plaats  10, 1547 Bever
+Algemeen directeur: Ann Sevenoo
+Financieel directeur: Elisabeth de Crombrugghe
+Budgettair resultaat
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+1.242.271
+712.972
+a. Ontvangsten
+8.067.327
+8.005.726
+b. Uitgaven
+6.825.057
+7.292.754
+II. Investeringssaldo
+-1.326.189
+-2.348.820
+a. Ontvangsten
+2.678.951
+2.408.782
+b. Uitgaven
+4.005.139
+4.757.602
+III. Saldo exploitatie en investeringen
+-83.918
+-1.635.848
+IV. Financieringssaldo
+972.303
+719.115
+a. Ontvangsten
+1.247.999
+1.051.080
+b. Uitgaven
+275.697
+331.965
+V. Budgettair resultaat van het boekjaar
+888.385
+-916.733
+VI. Gecumuleerd budgettair resultaat vorig boekjaar
+3.550.355
+3.550.355
+VII. Gecumuleerd budgettair resultaat
+4.438.739
+2.633.622
+IX. Beschikbaar budgettair resultaat
+4.438.739
+2.633.622
+Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+1.242.271
+712.972
+II. Netto periodieke aflossingen
+274.420
+331.965
+a. Periodieke aflossingen conform de verbintenissen
+274.420
+331.965
+b. Periodieke terugvordering leningen
+0
+0
+III. Autofinancieringsmarge
+967.851
+381.007
+Gecorrigeerde Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Autofinancieringsmarge
+967.851
+381.007
+II. Correctie op de periodieke aflossingen
+152.596
+210.141
+a. Periodieke aflossingen conform de verbintenissen
+274.420
+331.965
+b. Gecorrigeerde aflossingen o.b.v. de financiële schulden
+121.824
+121.824
+III. Gecorrigeerde autofinancieringsmarge
+1.120.446
+591.148
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+1 / 2
+21 / 93
+
+===== PAGE 22 =====
+Geconsolideerd financieel evenwicht
+Jaarrekening
+Meerjarenplan
+I. Beschikbaar budgettair resultaat
+- Gemeente en OCMW
+4.438.739
+2.633.622
+Totaal beschikbaar budgettair resultaat
+4.438.739
+2.633.622
+II. Autofinancieringsmarge
+- Gemeente en OCMW
+967.851
+381.007
+Totale Autofinancieringsmarge
+967.851
+381.007
+III. Gecorrigeerde autofinancieringsmarge
+- Gemeente en OCMW
+1.120.446
+591.148
+Totale gecorrigeerde autofinancieringsmarge
+1.120.446
+591.148
+Andere gebruikte dossiers op dit rapport:
+Voorgaande JR dossiers:
+JR_ORIGINEEL_2024 2024: Budg. 223000 Alg. 24390
+MJP:
+MJP_HERZIENING_8_2025 2025: Budg. 23827
+Dossiers van andere entiteiten:
+/
+MJP dossiers van andere entiteiten:
+/
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+2 / 2
+22 / 93
+
+===== PAGE 24 =====
+J4: Balans
+2025
+Journaalvolgnummers: JR Budg. 257785 Alg. 23950 / JR-1 Budg. 223000 Alg. 24390
+Gemeente Bever (0207.539.616)
+OCMW Bever (0212.344.282)
+Plaats 10, 1547 Bever
+Plaats  10, 1547 Bever
+Algemeen directeur: Ann Sevenoo
+Financieel directeur: Elisabeth de Crombrugghe
+2025
+2024
+ACTIVA
+21.260.994
+17.463.402
+I. Vlottende activa
+4.697.166
+4.187.739
+A. Liquide middelen en geldbeleggingen
+4.008.497
+3.427.397
+B. Vorderingen op korte termijn
+688.669
+760.341
+1. Vorderingen uit ruiltransacties
+223.980
+189.375
+2. Vorderingen uit niet-ruiltransacties
+464.689
+570.967
+II. Vaste activa
+16.563.828
+13.275.664
+A. Vorderingen op lange termijn
+1.277
+0
+1. Vorderingen uit ruiltransacties
+1.277
+0
+B. Financiële vaste activa
+1.680.807
+1.676.503
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+1.280.542
+1.277.738
+3. OCMW-verenigingen
+474
+474
+4. Andere financiële vaste activa
+399.791
+398.291
+C. Materiële vaste activa
+14.293.451
+11.058.812
+1. Gemeenschapsgoederen
+13.306.944
+10.058.951
+a. Terreinen en gebouwen
+11.611.162
+8.555.755
+b. Wegen en andere infrastructuur
+1.199.490
+1.136.381
+c. Installaties, machines en uitrusting
+195.030
+100.698
+d. Meubilair, kantooruitrusting en rollend materieel
+49.424
+59.317
+e. Leasing en soortgelijke rechten
+251.838
+206.798
+f. Erfgoed
+1
+1
+2. Bedrijfsmatige materiële vaste activa
+99.915
+106.943
+a. Terreinen en gebouwen
+99.915
+106.943
+3. Andere materiële vaste activa
+886.591
+892.919
+a. Terreinen en gebouwen
+886.591
+892.919
+D. Immateriële vaste activa
+588.294
+540.348
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+1 / 2
+24 / 93
+
+===== PAGE 25 =====
+2025
+2024
+PASSIVA
+21.260.994
+17.463.402
+I. Schulden
+5.155.870
+4.367.452
+A. Schulden op korte termijn
+823.914
+1.134.587
+1. Schulden uit ruiltransacties
+483.676
+859.100
+a. Voorzieningen voor risico's en kosten
+238.953
+212.351
+c. Niet-financiële schulden uit ruiltransacties
+244.723
+646.749
+2. Schulden uit niet-ruiltransacties
+13.704
+12.220
+4. Schulden op lange termijn die binnen het jaar vervallen
+326.534
+263.267
+B. Schulden op lange termijn
+4.331.956
+3.232.866
+1. Schulden uit ruiltransacties
+4.331.956
+3.232.866
+a. Voorzieningen voor risico's en kosten
+2.162.106
+1.973.327
+1. Pensioenen en soortgelijke verplichtingen
+2.159.606
+1.970.827
+2. Andere risico's en kosten
+2.500
+2.500
+b. Financiële schulden
+2.169.851
+1.259.539
+II. Nettoactief
+16.105.124
+13.095.950
+A. Kapitaalssubsidies en schenkingen
+6.877.805
+4.544.313
+B. Gecumuleerd overschot of tekort
+3.690.061
+3.022.566
+C. Herwaarderingsreserves
+190.573
+182.385
+D. Overig nettoactief
+5.346.685
+5.346.685
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 223000 Alg. 24390
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+2 / 2
+25 / 93
+
+===== PAGE 26 =====
+J5: Staat van opbrengsten en kosten
+2025
+Journaalvolgnummers: JR Budg. 257785 Alg. 23950 / JR-1 Budg. 223000 Alg. 24390
+Gemeente Bever (0207.539.616)
+OCMW Bever (0212.344.282)
+Plaats 10, 1547 Bever
+Plaats  10, 1547 Bever
+Algemeen directeur: Ann Sevenoo
+Financieel directeur: Elisabeth de Crombrugghe
+2025
+2024
+I. Kosten
+7.739.908
+7.661.383
+A. Operationele kosten
+7.694.730
+7.609.203
+1. Goederen en diensten
+1.241.703
+1.090.357
+2. Bezoldigingen, sociale lasten en pensioenen
+4.881.000
+4.902.862
+3. Afschrijvingen, waardeverminderingen en voorzieningen
+887.058
+960.427
+4. Individuele hulpverlening door O.C.M.W.
+115.571
+89.646
+5. Toegestane werkingssubsidies
+490.160
+488.605
+6. Toegestane investeringssubsidies
+27.794
+26.980
+8. Andere operationele kosten
+51.445
+50.326
+B. Financiële kosten
+45.179
+52.179
+II. Opbrengsten
+8.407.403
+8.023.300
+A. Operationele opbrengsten
+8.029.288
+7.801.527
+1. Opbrengsten uit de werking
+379.539
+365.450
+2. Fiscale opbrengsten en boetes
+2.353.742
+2.240.995
+3. Werkingssubsidies
+5.240.907
+5.050.843
+a. Algemene werkingssubsidies
+1.576.411
+1.555.841
+b. Specifieke werkingssubsidies
+3.664.496
+3.495.002
+4. Recuperatie individuele hulpverlening
+14.427
+20.637
+6. Andere operationele opbrengsten
+40.672
+123.603
+B. Financiële opbrengsten
+378.115
+221.773
+III. Overschot of tekort van het boekjaar
+667.495
+361.918
+A. Operationeel overschot of tekort
+334.558
+192.324
+B. Financieel overschot of tekort
+332.937
+169.594
+IV. Verwerking van het overschot of tekort van het boekjaar
+667.495
+361.918
+C. Over te dragen overschot of tekort van het boekjaar
+667.495
+361.918
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 223000 Alg. 24390
+JAARREKENING ORIGINEEL 2025 : Staat van opbrengsten en kosten
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+1 / 1
+26 / 93
+
+===== PAGE 33 =====
+T2: Ontvangsten en uitgaven naar economische aard
+2025
+Journaalvolgnummers: JR Budg. 257785 Alg. 23950 / EK Budg. 23827
+Gemeente Bever (0207.539.616)
+OCMW Bever (0212.344.282)
+Plaats 10, 1547 Bever
+Plaats  10, 1547 Bever
+Algemeen directeur: Ann Sevenoo
+Financieel directeur: Elisabeth de Crombrugghe
+I. Exploitatie-uitgaven
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele uitgaven
+3.486.025
+3.789.313
+4.129.123
+5.268.451
+6.621.797
+6.779.878
+7.248.048
+1. Goederen en diensten
+698.046
+820.827
+947.195
+1.032.221
+1.090.357
+1.241.703
+1.443.272
+2. Bezoldigingen, sociale lasten en pensioenen
+2.341.826
+2.501.622
+2.650.120
+3.636.694
+4.902.862
+4.881.000
+5.078.139
+a. Politiek personeel
+140.285
+146.327
+159.686
+167.557
+175.852
+172.946
+181.688
+b. Vastbenoemd niet-onderwijzend personeel
+240.106
+216.202
+223.499
+235.057
+221.715
+230.859
+235.140
+c. Niet vastbenoemd niet-onderwijzend personeel
+1.674.415
+1.837.882
+1.952.638
+2.072.899
+2.049.582
+2.046.440
+2.073.266
+e. Onderwijzend personeel ten laste van andere overheden
+130.000
+130.000
+130.000
+983.235
+2.272.623
+2.235.047
+2.134.478
+f. Andere personeelskosten
+108.160
+112.435
+113.861
+101.051
+106.624
+111.836
+368.287
+g. Pensioenen
+48.860
+58.775
+70.436
+76.895
+76.466
+83.872
+85.280
+3. Individuele hulpverlening door het O.C.M.W.
+38.850
+41.990
+79.964
+92.036
+89.646
+115.571
+119.100
+4. Toegestane werkingssubsidies
+359.541
+385.797
+429.479
+466.877
+488.605
+490.160
+522.272
+- aan welzijnsverenigingen
+0
+-6.310
+17.835
+23.671
+24.241
+0
+21.000
+- aan de politiezone
+193.733
+202.757
+212.573
+253.703
+272.015
+282.455
+282.455
+- aan de hulpverleningszone
+107.130
+113.327
+117.134
+138.721
+145.400
+154.343
+155.817
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+0
+-1.157
+0
+0
+0
+0
+0
+- aan besturen van de eredienst
+24.278
+18.368
+22.023
+22.429
+25.065
+23.113
+26.000
+- aan andere begunstigden
+34.400
+58.811
+59.914
+28.353
+21.884
+30.249
+37.000
+5. Andere operationele uitgaven
+47.761
+39.077
+22.365
+40.623
+50.326
+51.445
+85.264
+B. Financiële uitgaven
+84.222
+75.710
+67.629
+59.015
+52.179
+45.179
+44.706
+1. Rente, commissies en kosten verbonden aan schulden
+84.082
+75.592
+67.467
+58.893
+52.098
+45.091
+44.606
+- aan financiële instellingen
+83.916
+75.290
+66.722
+57.969
+49.406
+40.955
+40.956
+- aan andere entiteiten
+166
+302
+745
+924
+2.692
+4.136
+3.650
+2. Andere financiële uitgaven
+140
+118
+162
+122
+81
+88
+100
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+1 / 7
+33 / 93
+
+===== PAGE 34 =====
+I. Exploitatie-uitgaven
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+A. Operationele uitgaven
+7.207.484
+7.317.077
+1. Goederen en diensten
+1.471.611
+1.424.127
+2. Bezoldigingen, sociale lasten en pensioenen
+4.987.868
+5.133.592
+a. Politiek personeel
+188.955
+191.000
+b. Vastbenoemd niet-onderwijzend personeel
+244.812
+253.150
+c. Niet vastbenoemd niet-onderwijzend personeel
+2.172.411
+2.252.332
+e. Onderwijzend personeel ten laste van andere overheden
+2.177.168
+2.220.711
+f. Andere personeelskosten
+204.522
+216.399
+g. Pensioenen
+0
+0
+3. Individuele hulpverlening door het O.C.M.W.
+131.240
+131.485
+4. Toegestane werkingssubsidies
+546.300
+567.813
+- aan welzijnsverenigingen
+21.000
+21.000
+- aan de politiezone
+291.635
+301.113
+- aan de hulpverleningszone
+167.185
+178.250
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+0
+0
+- aan besturen van de eredienst
+27.000
+28.000
+- aan andere begunstigden
+39.480
+39.450
+5. Andere operationele uitgaven
+70.464
+60.060
+B. Financiële uitgaven
+37.504
+30.767
+1. Rente, commissies en kosten verbonden aan schulden
+37.404
+30.667
+- aan financiële instellingen
+32.404
+24.667
+- aan andere entiteiten
+5.000
+6.000
+2. Andere financiële uitgaven
+100
+100
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele ontvangsten
+4.420.872
+4.567.450
+4.663.712
+6.511.631
+7.801.527
+8.029.288
+7.967.126
+1. Ontvangsten uit de werking
+198.336
+225.581
+243.540
+333.710
+365.450
+379.539
+382.932
+2. Fiscale ontvangsten en boetes
+1.778.853
+1.844.755
+1.879.017
+2.351.951
+2.240.995
+2.353.742
+2.281.239
+a. Aanvullende belastingen
+1.534.985
+1.600.688
+1.633.497
+2.121.083
+2.004.357
+2.115.875
+2.029.999
+- Opcentiemen op de onroerende voorheffing
+666.354
+668.729
+721.264
+807.928
+895.291
+873.544
+880.638
+- Aanvullende belasting op de personenbelasting
+834.999
+897.419
+877.551
+1.276.692
+1.069.979
+1.202.726
+1.110.516
+- Andere aanvullende belastingen
+33.631
+34.540
+34.682
+36.463
+39.086
+39.605
+38.845
+b. Andere belastingen en boetes
+243.868
+244.066
+245.520
+230.868
+236.638
+237.867
+251.240
+3. Werkingssubsidies
+2.311.547
+2.404.484
+2.486.628
+3.764.106
+5.050.843
+5.240.907
+5.242.618
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+2 / 7
+34 / 93
+
+===== PAGE 35 =====
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+a. Algemene werkingssubsidies
+1.002.585
+1.040.644
+1.088.702
+1.536.368
+1.555.841
+1.576.411
+1.527.921
+- Gemeentefonds
+690.218
+706.130
+743.631
+760.760
+782.798
+794.479
+809.638
+- Andere algemene werkingssubsidies
+312.366
+334.514
+345.071
+775.607
+773.042
+781.932
+718.283
+- van de Vlaamse overheid
+312.366
+334.514
+345.027
+775.561
+772.969
+781.879
+718.283
+- van andere entiteiten
+0
+0
+43
+46
+73
+54
+0
+b. Specifieke werkingssubsidies
+1.308.963
+1.363.840
+1.397.926
+2.227.738
+3.495.002
+3.664.496
+3.714.696
+- van de federale overheid
+384.915
+535.759
+526.143
+591.776
+513.280
+583.070
+552.947
+- van de Vlaamse overheid
+759.736
+812.454
+834.631
+1.626.284
+2.955.925
+3.081.175
+3.156.749
+- van de gemeente
+0
+0
+20.604
+0
+0
+0
+0
+- van andere entiteiten
+164.313
+15.627
+16.548
+9.678
+25.796
+250
+5.000
+4. Recuperatie individuele hulpverlening
+19.824
+17.873
+13.426
+18.831
+20.637
+14.427
+16.100
+5. Andere operationele ontvangsten
+112.311
+74.758
+41.102
+43.034
+123.603
+40.672
+44.237
+B. Financiële ontvangsten
+29.155
+28.647
+22.960
+48.141
+57.889
+38.040
+38.600
+II. Exploitatieontvangsten
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+A. Operationele ontvangsten
+7.719.981
+7.837.161
+1. Ontvangsten uit de werking
+376.296
+381.569
+2. Fiscale ontvangsten en boetes
+2.396.104
+2.457.091
+a. Aanvullende belastingen
+2.113.504
+2.174.491
+- Opcentiemen op de onroerende voorheffing
+917.433
+946.757
+- Aanvullende belasting op de personenbelasting
+1.156.478
+1.187.300
+- Andere aanvullende belastingen
+39.593
+40.434
+b. Andere belastingen en boetes
+282.600
+282.600
+3. Werkingssubsidies
+4.895.608
+4.944.130
+a. Algemene werkingssubsidies
+1.209.830
+1.242.874
+- Gemeentefonds
+830.266
+851.845
+- Andere algemene werkingssubsidies
+379.564
+391.029
+- van de Vlaamse overheid
+379.564
+391.029
+- van andere entiteiten
+0
+0
+b. Specifieke werkingssubsidies
+3.685.778
+3.701.255
+- van de federale overheid
+562.997
+563.048
+- van de Vlaamse overheid
+3.117.781
+3.133.207
+- van de gemeente
+0
+0
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+3 / 7
+35 / 93
+
+===== PAGE 51 =====
+T4: Evolutie van de financiële schulden
+2025
+Journaalvolgnummers: JR Budg. 257785 Alg. 23950
+Gemeente Bever (0207.539.616)
+OCMW Bever (0212.344.282)
+Plaats 10, 1547 Bever
+Plaats  10, 1547 Bever
+Algemeen directeur: Ann Sevenoo
+Financieel directeur: Elisabeth de Crombrugghe
+Financiële schulden op 31 december
+2020
+2021
+2022
+2023
+2024
+2025
+A. Financiële schulden op lange termijn
+2.104.003
+1.870.763
+1.601.230
+1.374.332
+1.259.539
+2.169.851
+1. Financiële schulden op 1 januari
+2.288.722
+2.104.003
+1.870.763
+1.601.230
+1.374.332
+1.259.539
+2. Nieuwe leningen
+94.030
+36.350
+1.174
+37.487
+150.626
+1.247.999
+4. Overboekingen
+-271.186
+-269.590
+-270.707
+-264.385
+-265.419
+-337.687
+5. Andere mutaties
+-7.563
+0
+0
+0
+0
+0
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+271.186
+275.492
+270.647
+263.208
+263.267
+326.534
+1. Financiële schulden op 1 januari
+260.022
+271.186
+275.492
+270.647
+263.208
+263.267
+2. Aflossingen
+-267.585
+-265.284
+-275.552
+-271.824
+-265.361
+-274.420
+3. Overboekingen
+271.186
+269.590
+270.707
+264.385
+265.419
+337.687
+4. Andere mutaties
+7.563
+0
+0
+0
+0
+0
+Totaal financiële schulden
+2.375.189
+2.146.255
+1.871.877
+1.637.540
+1.522.805
+2.496.385
+Financiële schulden op 31 december
+2026
+2027
+A. Financiële schulden op lange termijn
+1.979.968
+1.811.757
+1. Financiële schulden op 1 januari
+2.169.851
+1.979.968
+2. Nieuwe leningen
+49.000
+49.000
+4. Overboekingen
+-238.883
+-217.211
+5. Andere mutaties
+0
+0
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+240.509
+218.837
+1. Financiële schulden op 1 januari
+326.534
+240.509
+2. Aflossingen
+-324.908
+-238.883
+3. Overboekingen
+238.883
+217.211
+4. Andere mutaties
+0
+0
+Totaal financiële schulden
+2.220.477
+2.030.594
+JAARREKENING ORIGINEEL 2025 : Evolutie van de financiële schulden
+2025
+Gemeente Bever en OCMW Bever (0207.539.616 / 0212.344.282)
+09/06/2026 09:13
+1 / 2
+51 / 93

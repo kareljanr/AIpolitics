@@ -11487,3 +11487,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_kin_*); commitments +4; leaderboard +7; sources +2; entity city_kinrooi; FOI **gap_kin_ocmw_pension_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_916=done; spawn **rq_917**; ticks=916
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_917** residual dual L5 (Bever PDF cached / Kapellen / Roeselare / Landen); deferred **rq_116**; progress@920 in 4
+
+### Tick 917 - 2026-08-07T07:15:00Z
+
+- Unit: **rq_917** (FOI-adjacent residual dual - **Gemeente+OCMW Bever Jaarrekening 2025** + Kinrooi dual)
+- Found (strong primary BBC JR2025 93p):
+  - Assets **EUR21.3m** (was **EUR17.5m**) / equity **EUR16.1m** / debt total **EUR5.16m** / fin debt **EUR2.50m** (was **EUR1.52m**; LT **EUR2.17m** / ST due **EUR0.33m**)
+  - **New loans EUR1.25m FOI** / repayments **EUR0.27m** / cash **EUR4.01m** (was **EUR3.43m**)
+  - Pension **EUR2.16m**
+  - Exploitatie: ontvangsten **EUR8.07m** / uitgaven **EUR6.83m** / saldo **+EUR1.24m**
+  - AFM **+EUR0.97m** (gecorr **+EUR1.12m**) / BBR **EUR4.44m** / budget result **+EUR0.89m** / P&L **+EUR0.67m**
+  - Personnel **EUR4.88m** / toelagen **EUR0.49m** (police **EUR0.28m** / HVZ **EUR0.15m**) / fiscal **EUR2.35m**
+  - Invest **EUR4.01m** / **school Akrenbos EUR3.69m FOI** (subs **EUR2.67m**) / gemeentefonds **EUR0.79m**
+  - **OCMW cover EUR0.21m FOI**
+  - Pipeline narrative: gemeentehuis / loods / sociale woningen Plaats 14
+- Dual: Kinrooi **EUR83.4m** / fin debt **EUR16.4m declining** / OCMW P&L **-EUR2.25m** (tick916) - not TE-additive
+- Wrote: budgets +38 (bud_bev_*); commitments +4; leaderboard +7; sources +2; entity city_bever; FOI **gap_bev_school_loans_pipeline_l5** prio8 ready + draft; raw PDF + key; rq_917=done; spawn **rq_918**; ticks=917
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_918** residual dual L5 (Landen/Kapellen/Roeselare/Wellen); deferred **rq_116**; progress@920 in 3
