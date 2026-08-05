@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T03:30:00Z,rq_1124,1124,no,tick1124 AGB Ternat JR2025 Entity II dual residual; FOI gap_ternagb_equity_zero_afm_dividend_l5 prio9 ready; assets 0.835m equity ZERO fin debt 0.503m AFM -0.012m BBR 0.119m prijssub 0.371m dividend=full profit 0.021m; next residual dual L5 rq_1125; progress@1130 in 6; rq_116 deferred
+main,continuous,hole_fill,2026-08-12T04:00:00Z,rq_1125,1125,no,tick1125 AGB Roosdaal JR2025 Entity II dual residual; FOI gap_rooagb_afm_leasing_debt_cash_l5 prio9 ready; assets 4.581m fin debt 4.299m leasing MVA 4.036m MASSIVE cash 0.182m DROP AFM -0.041m gecorr -0.271m DEEP; next residual dual L5 rq_1126; progress@1130 in 5; rq_116 deferred

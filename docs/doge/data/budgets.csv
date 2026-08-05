@@ -29627,3 +29627,27 @@ bud_ternagb_personnel_2025,agb_ternat,2025,0,,,bbc_jr_realized,src_ternat_agb_jr
 bud_ternagb_invest_2025,agb_ternat,2025,5360,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB invest 0.005m vs MJP 0.048m UNDERSPEND FOI; tick1124
 bud_ternagb_interest_2025,agb_ternat,2025,144,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB intresten ~0 FOI near-zero on 0.50m debt; tick1124
 bud_ternagb_mva_2025,agb_ternat,2025,503116,,,bbc_jr_realized,src_ternat_agb_jr2025,strong,AGB MVA 0.503m; tick1124
+bud_rooagb_assets_2025,agb_roosdaal,2025,4580503,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB assets 4.581m DROP FOI; tick1125
+bud_rooagb_equity_2025,agb_roosdaal,2025,88000,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB nettoactief 0.088m FLAT FOI; tick1125
+bud_rooagb_debt_total_2025,agb_roosdaal,2025,4492503,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB schulden total 4.493m; tick1125
+bud_rooagb_fin_debt_2025,agb_roosdaal,2025,4298684,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB fin debt 4.299m DECLINE FOI (LT 4.178 + ST due 0.121; was 4.334m); tick1125
+bud_rooagb_new_loans_2025,agb_roosdaal,2025,80163,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB new loans 0.080m FOI (=invest); tick1125
+bud_rooagb_loan_repay_2025,agb_roosdaal,2025,115922,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB periodieke aflossingen 0.116m; tick1125
+bud_rooagb_cash_2025,agb_roosdaal,2025,182151,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB cash 0.182m DROP FOI (was 0.276m); tick1125
+bud_rooagb_expl_ont_2025,agb_roosdaal,2025,507980,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB expl ontvangsten 0.508m; tick1125
+bud_rooagb_expl_uit_2025,agb_roosdaal,2025,432614,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB expl uitgaven 0.433m; tick1125
+bud_rooagb_expl_saldo_2025,agb_roosdaal,2025,75366,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB expl saldo +0.075m STRONG; tick1125
+bud_rooagb_afm_2025,agb_roosdaal,2025,-40556,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB AFM -0.041m NEG FOI (MJP was +0.006m); tick1125
+bud_rooagb_afm_gecorr_2025,agb_roosdaal,2025,-271390,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB gecorr AFM -0.271m DEEP NEG FOI (leasing debt 8pct path); tick1125
+bud_rooagb_bbr_2025,agb_roosdaal,2025,194748,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB BBR 0.195m POS FOI; tick1125
+bud_rooagb_budget_2025,agb_roosdaal,2025,-40556,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB budget result -0.041m NEG FOI; tick1125
+bud_rooagb_pnl_2025,agb_roosdaal,2025,17321,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB P&L +0.017m POS; tick1125
+bud_rooagb_dividend_2025,agb_roosdaal,2025,17321,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB dividend=full profit 0.017m FOI; tick1125
+bud_rooagb_omzet_2025,agb_roosdaal,2025,483481,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB omzet/werking 0.483m; tick1125
+bud_rooagb_werkingssub_2025,agb_roosdaal,2025,51143,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB werkingssubsidies specific 0.051m FOI; tick1125
+bud_rooagb_goederen_2025,agb_roosdaal,2025,232872,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB goederen 0.233m; tick1125
+bud_rooagb_personnel_2025,agb_roosdaal,2025,174768,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB personnel 0.175m FOI; tick1125
+bud_rooagb_invest_2025,agb_roosdaal,2025,80163,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB invest 0.080m near MJP 0.086m FOI; tick1125
+bud_rooagb_interest_2025,agb_roosdaal,2025,3040,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB intresten 0.003m LOW FOI vs debt 4.3m; tick1125
+bud_rooagb_leasing_mva_2025,agb_roosdaal,2025,4036395,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB leasing MVA 4.036m MASSIVE FOI; tick1125
+bud_rooagb_mva_2025,agb_roosdaal,2025,4271900,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB MVA total 4.272m; tick1125

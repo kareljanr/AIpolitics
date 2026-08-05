@@ -15453,3 +15453,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +23 (bud_ternagb_*); commitments +7; leaderboard +8; sources +1; entity agb_ternat; FOI **gap_ternagb_equity_zero_afm_dividend_l5** prio9 ready + draft; PDF primary (not committed ~8.2MB); rq_1124=done; spawn **rq_1125**; ticks=1124
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1125** residual dual L5; deferred **rq_116**; progress@1130 in 6
+
+### Tick 1125 - 2026-08-12T04:00:00Z
+
+- Unit: **rq_1125** (FOI-adjacent residual dual - **AGB Roosdaal Jaarrekening 2025** Entity II + AGB Ternat dual residual)
+- Found (strong primary BBC JR2025 AGB 75p text; roosdaal.be; KBO **0896.178.545**; Brusselstraat 15 1760; Coord Geert Vandenhouwe Voorzitter Johan Van Lierde):
+  - Assets **EUR4.581m DROP** (was **EUR4.711m**) / equity **EUR0.088m FLAT** / debt total **EUR4.493m** / fin debt **EUR4.299m DECLINE FOI** (LT **EUR4.178m** / ST due **EUR0.121m**; was **EUR4.334m**)
+  - New loans **EUR0.080m FOI** (=invest) / repayments **EUR0.116m**
+  - Cash **EUR0.182m DROP FOI** (was **EUR0.276m**)
+  - **Leasing MVA EUR4.036m MASSIVE FOI** (drives debt stock)
+  - Exploitatie: ontvangsten **EUR0.508m** / uitgaven **EUR0.433m** / saldo **+EUR0.075m STRONG**
+  - AFM **−EUR0.041m NEG FOI** / **gecorr AFM −EUR0.271m DEEP NEG FOI** (MJP AFM was **+EUR0.006m**) / BBR **EUR0.195m POS** / budget **−EUR0.041m NEG FOI**
+  - P&L **+EUR0.017m** / **dividend = full profit EUR0.017m FOI**
+  - Omzet **EUR0.483m** / werkingssub **EUR0.051m FOI** / goederen **EUR0.233m** / **personeel EUR0.175m FOI** / intresten **EUR0.003m LOW FOI**
+  - Invest **EUR0.080m** near MJP **EUR0.086m**
+- Dual: AGB Ternat equity ZERO / AFM NEG / full dividend (tick1124) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken GE+OCMW / Pajottegem GE residual next; progress@1130 in 5
+- Wrote: budgets +24 (bud_rooagb_*); commitments +7; leaderboard +9; sources +1; entity agb_roosdaal; FOI **gap_rooagb_afm_leasing_debt_cash_l5** prio9 ready + draft; PDF primary (not committed ~11MB); rq_1125=done; spawn **rq_1126**; ticks=1125
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1126** residual dual L5; deferred **rq_116**; progress@1130 in 5
