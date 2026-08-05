@@ -15399,3 +15399,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +23 (bud_gooagb_*); commitments +7; leaderboard +8; sources +1; entities city_gooik + agb_gooik; FOI **gap_gooagb_afm_cash_debt_interest_l5** prio9 ready + draft; PDF primary (not committed ~2.4MB); rq_1121=done; spawn **rq_1122**; ticks=1121
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1122** residual dual L5; deferred **rq_116**; progress@1130 in 9
+
+### Tick 1122 - 2026-08-12T02:30:00Z
+
+- Unit: **rq_1122** (FOI-adjacent residual dual - **AGB Herne Jaarrekening 2025** Entity II + AGB Gooik dual residual)
+- Found (strong primary BBC JR2025 AGB 53p text; pajottegem.be; KBO **0809.154.303**; Centrum 17 1540 Herne; Secretaris Eric Van Snick FD Lieven De Rick; Pajottegem fusion context):
+  - Assets **EUR0.131m DROP** (was **EUR0.136m**) / **equity EUR0 ZERO FOI HIGH** / debt total **EUR0.131m** (=assets) / fin debt **EUR0.060m DECLINE FOI** (LT **EUR0.050m** / ST due **EUR0.010m**; was **EUR0.070m**)
+  - New loans **EUR0** / repayments **EUR0.010m**
+  - Cash **EUR0.047m JUMP FOI** (was **EUR0.038m**)
+  - Exploitatie: ontvangsten **EUR0.118m** / uitgaven **EUR0.107m** / saldo **+EUR0.011m STRONG**
+  - AFM **+EUR0.0008m POS FOI** (gecorr **+EUR0.005m**) / **BBR −EUR0.001m NEG FOI HIGH** (was **−EUR0.0019m**; AGB annual BBR>0 rule) / budget **+EUR0.0008m POS**
+  - P&L **+EUR0.012m** / **dividend = full profit EUR0.012m FOI** (over te dragen **EUR0**)
+  - Omzet **EUR0.118m** (no city werkingssub 2025) / goederen **EUR0.089m** / **personeel EUR0** / **intresten EUR0 FOI**
+  - Invest **EUR0** vs MJP **EUR0.117m MASSIVE UNDERSPEND FOI**
+- Dual: AGB Gooik cash CRITICAL / interest 0 on 1.55m debt (tick1121) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken GE+OCMW / Pajottegem GE / AGB Galmaarden residual next; progress@1130 in 8
+- Wrote: budgets +23 (bud_heragb_*); commitments +7; leaderboard +8; sources +1; entities city_herne + agb_herne; FOI **gap_heragb_bbr_neg_equity_zero_l5** prio9 ready + draft; PDF primary (not committed ~4.3MB); rq_1122=done; spawn **rq_1123**; ticks=1122
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1123** residual dual L5; deferred **rq_116**; progress@1130 in 8

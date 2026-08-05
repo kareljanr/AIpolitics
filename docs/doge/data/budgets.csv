@@ -29556,3 +29556,26 @@ bud_gooagb_interest_2025,agb_gooik,2025,0,,,bbc_jr_realized,src_gooik_agb_jr2025
 bud_gooagb_fin_income_2025,agb_gooik,2025,22837,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB financiële opbrengsten 0.023m; tick1121
 bud_gooagb_mva_2025,agb_gooik,2025,1988342,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB MVA 1.988m; tick1121
 bud_gooagb_dividend_2025,agb_gooik,2025,0,,,bbc_jr_realized,src_gooik_agb_jr2025,strong,AGB dividend 0 in 2025 (was 0.012m 2024); tick1121
+bud_heragb_assets_2025,agb_herne,2025,131373,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB assets 0.131m DROP FOI; tick1122
+bud_heragb_equity_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB nettoactief ZERO FOI HIGH; tick1122
+bud_heragb_debt_total_2025,agb_herne,2025,131373,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB schulden total 0.131m (=assets); tick1122
+bud_heragb_fin_debt_2025,agb_herne,2025,59670,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB fin debt 0.060m DECLINE FOI (LT 0.050 + ST due 0.010; was 0.070m); tick1122
+bud_heragb_new_loans_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB new loans 0 in 2025 FOI; tick1122
+bud_heragb_loan_repay_2025,agb_herne,2025,10022,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB periodieke aflossingen 0.010m; tick1122
+bud_heragb_cash_2025,agb_herne,2025,46617,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB cash 0.047m JUMP FOI (was 0.038m); tick1122
+bud_heragb_expl_ont_2025,agb_herne,2025,117775,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB expl ontvangsten 0.118m; tick1122
+bud_heragb_expl_uit_2025,agb_herne,2025,106909,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB expl uitgaven 0.107m; tick1122
+bud_heragb_expl_saldo_2025,agb_herne,2025,10866,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB expl saldo +0.011m STRONG; tick1122
+bud_heragb_afm_2025,agb_herne,2025,844,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB AFM +0.0008m POS FOI; tick1122
+bud_heragb_afm_gecorr_2025,agb_herne,2025,5290,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB gecorr AFM +0.005m POS; tick1122
+bud_heragb_bbr_2025,agb_herne,2025,-1008,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB BBR -0.001m NEG FOI HIGH (AGB rule annual BBR>0); tick1122
+bud_heragb_budget_2025,agb_herne,2025,844,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB budget result +0.0008m POS; tick1122
+bud_heragb_pnl_2025,agb_herne,2025,12066,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB P&L +0.012m POS; tick1122
+bud_heragb_dividend_2025,agb_herne,2025,12066,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB dividend/full profit payout 0.012m FOI; tick1122
+bud_heragb_omzet_2025,agb_herne,2025,117775,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB omzet/werking 0.118m (no city werkingssub 2025); tick1122
+bud_heragb_goederen_2025,agb_herne,2025,88601,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB goederen 0.089m; tick1122
+bud_heragb_personnel_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB personnel ZERO FOI; tick1122
+bud_heragb_invest_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB invest 0 vs MJP 0.117m MASSIVE UNDERSPEND FOI; tick1122
+bud_heragb_interest_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB intresten 0 FOI on debt 0.060m; tick1122
+bud_heragb_mva_2025,agb_herne,2025,60196,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB MVA 0.060m (installaties); tick1122
+bud_heragb_cum_bbr_prior_2025,agb_herne,2025,-1851,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB cum BBR prior YE2024 -0.0019m FOI path; tick1122

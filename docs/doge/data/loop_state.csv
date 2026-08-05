@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T02:00:00Z,rq_1121,1121,no,tick1121 AGB Gooik JR2025 Entity II dual residual; FOI gap_gooagb_afm_cash_debt_interest_l5 prio9 ready; assets 2.053m cash 0.012m CRITICAL fin debt 1.550m AFM -0.001m gecorr -0.030m interest 0 FOI omzet 0.204m; next residual dual L5 rq_1122; progress@1130 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-12T02:30:00Z,rq_1122,1122,no,tick1122 AGB Herne JR2025 Entity II dual residual; FOI gap_heragb_bbr_neg_equity_zero_l5 prio9 ready; assets 0.131m equity ZERO BBR -0.001m NEG AFM +0.0008m dividend=full profit 0.012m invest 0 vs MJP 0.117m; next residual dual L5 rq_1123; progress@1130 in 8; rq_116 deferred
