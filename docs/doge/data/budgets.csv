@@ -18419,3 +18419,47 @@ bud_lo_building_sales_2025,city_lokeren,2025,20785981,,,outturn,src_lokeren_jr20
 bud_lo_pl_costs_2025,city_lokeren,2025,105660375,,,outturn,src_lokeren_jr2025,strong,Staat kosten total 105.660m 2025; tick865
 bud_lo_pl_opbrengsten_2025,city_lokeren,2025,108406663,,,outturn,src_lokeren_jr2025,strong,Staat opbrengsten total 108.407m 2025; tick865
 bud_lo_pl_result_2025,city_lokeren,2025,2746288,,,outturn,src_lokeren_jr2025,strong,Boekhoudkundig overschot +2.746m 2025; tick865
+bud_di_assets_2025,city_diest,2025,212089133,,,stock,src_diest_jr2025,strong,Consol stad+OCMW total assets YE2025 212.089m; tick866
+bud_di_equity_2025,city_diest,2025,73382241,,,stock,src_diest_jr2025,strong,Nettoactief YE2025 73.382m; tick866
+bud_di_debt_total_2025,city_diest,2025,138706892,,,stock,src_diest_jr2025,strong,Schulden total YE2025 138.707m (pension-dominated); tick866
+bud_di_fin_debt_2025,city_diest,2025,10976374,,,stock,src_diest_jr2025,strong,Financiele schulden total YE2025 10.976m (LT 9.323 + ST due 1.653); tick866
+bud_di_fin_debt_lt_2025,city_diest,2025,9322963,,,stock,src_diest_jr2025,strong,Financiele schulden LT YE2025 9.323m; tick866
+bud_di_fin_debt_st_2025,city_diest,2025,1653411,,,stock,src_diest_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.653m; tick866
+bud_di_pension_prov_2025,city_diest,2025,114652446,,,stock,src_diest_jr2025,strong,Pensioenvoorzieningen YE2025 114.652m FOI-adjacent; tick866
+bud_di_cash_2025,city_diest,2025,20776965,,,stock,src_diest_jr2025,strong,Liquide middelen YE2025 20.777m; tick866
+bud_di_cap_subs_2025,city_diest,2025,19923726,,,stock,src_diest_jr2025,strong,Kapitaalsubsidies YE2025 19.924m; tick866
+bud_di_fva_igs_2025,city_diest,2025,28657246,,,stock,src_diest_jr2025,strong,Fin VA IGS YE2025 28.657m (was 5.446m; reval FOI-adjacent); tick866
+bud_di_reval_reserves_2025,city_diest,2025,25170251,,,stock,src_diest_jr2025,strong,Herwaarderingsreserves YE2025 25.170m (was 1.959m); tick866
+bud_di_onbeschikbaar_2025,city_diest,2025,186667,,,stock,src_diest_jr2025,strong,Onbeschikbare gelden YE2025 0.187m; tick866
+bud_di_cumul_deficit_2025,city_diest,2025,57994537,,,stock,src_diest_jr2025,strong,Gecumuleerd tekort absolute YE2025 57.995m; tick866
+bud_di_expl_rec_2025,city_diest,2025,68052735,,,outturn,src_diest_jr2025,strong,Exploitatieontvangsten 68.053m 2025; tick866
+bud_di_expl_exp_2025,city_diest,2025,59537231,,,outturn,src_diest_jr2025,strong,Exploitatieuitgaven 59.537m 2025; tick866
+bud_di_expl_saldo_2025,city_diest,2025,8515504,,,outturn,src_diest_jr2025,strong,Exploitatiesaldo +8.516m 2025; tick866
+bud_di_invest_exp_2025,city_diest,2025,10862906,,,outturn,src_diest_jr2025,strong,Investeringsuitgaven 10.863m 2025; tick866
+bud_di_invest_rec_2025,city_diest,2025,1681154,,,outturn,src_diest_jr2025,strong,Investeringsontvangsten 1.681m 2025; tick866
+bud_di_invest_saldo_2025,city_diest,2025,-9181752,,,outturn,src_diest_jr2025,strong,Investeringssaldo -9.182m 2025; tick866
+bud_di_fin_rec_2025,city_diest,2025,1083256,,,outturn,src_diest_jr2025,strong,Financieringsontvangsten 1.083m 2025; tick866
+bud_di_fin_exp_2025,city_diest,2025,1952897,,,outturn,src_diest_jr2025,strong,Financieringsuitgaven 1.953m 2025; tick866
+bud_di_fin_saldo_2025,city_diest,2025,-869641,,,outturn,src_diest_jr2025,strong,Financieringssaldo -0.870m 2025; tick866
+bud_di_budget_result_2025,city_diest,2025,-1535890,,,outturn,src_diest_jr2025,strong,Budgettair resultaat boekjaar -1.536m 2025; tick866
+bud_di_bbr_2025,city_diest,2025,25735207,,,outturn,src_diest_jr2025,strong,Beschikbaar budgettair resultaat 25.735m YE2025; tick866
+bud_di_afm_2025,city_diest,2025,6916530,,,outturn,src_diest_jr2025,strong,Autofinancieringsmarge AFM +6.917m 2025; tick866
+bud_di_afm_corr_2025,city_diest,2025,7700490,,,outturn,src_diest_jr2025,strong,Gecorrigeerde AFM +7.700m 2025; tick866
+bud_di_personnel_2025,city_diest,2025,33073612,,,outturn,src_diest_jr2025,strong,Personeelsuitgaven/bezold 33.074m 2025 (incl onderwijs other-gov 6.160m); tick866
+bud_di_personnel_onderwijs_other_2025,city_diest,2025,6160184,,,outturn,src_diest_jr2025,strong,Onderwijzend personeel ten laste andere overheden 6.160m 2025; tick866
+bud_di_goederen_diensten_2025,city_diest,2025,11842823,,,outturn,src_diest_jr2025,strong,Goederen en diensten 11.843m 2025; tick866
+bud_di_toelagen_2025,city_diest,2025,9478864,,,outturn,src_diest_jr2025,strong,Toegestane werkingssubsidies 9.479m 2025; tick866
+bud_di_toelagen_police_2025,city_diest,2025,4792514,,,outturn,src_diest_jr2025,strong,Toelage politiezone 4.793m 2025; tick866
+bud_di_toelagen_fire_2025,city_diest,2025,1520175,,,outturn,src_diest_jr2025,strong,Toelage hulpverleningszone 1.520m 2025; tick866
+bud_di_toelagen_igs_2025,city_diest,2025,1917308,,,outturn,src_diest_jr2025,strong,Toelage IGS 1.917m 2025; tick866
+bud_di_toelagen_agb_2025,city_diest,2025,613862,,,outturn,src_diest_jr2025,strong,Toelage AGB CC Diest 0.614m 2025; tick866
+bud_di_toelagen_other_2025,city_diest,2025,471376,,,outturn,src_diest_jr2025,strong,Toelagen andere begunstigden 0.471m 2025 FOI-adjacent; tick866
+bud_di_ocmw_aid_2025,city_diest,2025,3961302,,,outturn,src_diest_jr2025,strong,OCMW individuele hulpverlening 3.961m 2025; tick866
+bud_di_fiscal_2025,city_diest,2025,30085719,,,outturn,src_diest_jr2025,strong,Fiscale ontvangsten en boetes 30.086m 2025; tick866
+bud_di_gemeentefonds_2025,city_diest,2025,10312062,,,outturn,src_diest_jr2025,strong,Gemeentefonds 10.312m 2025; tick866
+bud_di_new_loans_2025,city_diest,2025,635540,,,outturn,src_diest_jr2025,strong,Nieuwe financiele schulden 0.636m 2025 (leasing/other entities); tick866
+bud_di_mjp2026_new_loans_plan,city_diest,2025,13500000,,,plan,src_diest_jr2025,strong,MJP planned new loans 2026 13.500m bank FOI-adjacent; tick866
+bud_di_mjp2027_new_loans_plan,city_diest,2025,5000000,,,plan,src_diest_jr2025,strong,MJP planned new loans 2027 5.000m bank FOI-adjacent; tick866
+bud_di_pl_costs_2025,city_diest,2025,64172422,,,outturn,src_diest_jr2025,strong,Staat kosten total 64.172m 2025; tick866
+bud_di_pl_opbrengsten_2025,city_diest,2025,69316732,,,outturn,src_diest_jr2025,strong,Staat opbrengsten total 69.317m 2025; tick866
+bud_di_pl_result_2025,city_diest,2025,5144310,,,outturn,src_diest_jr2025,strong,Boekhoudkundig overschot +5.144m 2025; tick866
