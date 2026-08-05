@@ -10664,3 +10664,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47; commitments +4; leaderboard +7; sources +2; entity city_vilvoorde; FOI **gap_vilvoorde_igs_loans_l5** prio7 ready + draft; raw PDF+extract; rq_863=done; spawn **rq_864**; ticks=863
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_864** residual dual L5 (Roeselare/Lier/Poperinge/Sint-Truiden/VUB/skeyes); deferred **rq_116**; progress@870 in 7
+
+## Tick 864 - 2026-08-06T05:00:00Z
+
+- Unit: **rq_864** (FOI-adjacent residual dual - **Stad+OCMW Poperinge Jaarrekening 2025** + Vilvoorde dual)
+- Found (strong primary BBC JR2025 302p, GR/RMW/AGB 01.06.2026 pub 03.06.2026):
+  - Assets **EUR187.7m** / equity **EUR123.7m** / debt total **EUR64.0m** / fin debt **EUR46.2m** (LT **EUR42.7m** / ST due **EUR3.5m**; was **EUR45.9m**)
+  - Pension **EUR6.4m** / cash **EUR10.7m** / cap subs **EUR23.1m** / FVA IGS **EUR17.3m** / AGB FVA **EUR5.0m** / onbeschikbaar **EUR0**
+  - Exploitatie: ontvangsten **EUR52.3m** / uitgaven **EUR46.9m** / saldo **+EUR5.4m**
+  - AFM **+EUR2.0m** (gecorr **+EUR1.8m**) / BBR **EUR10.2m** / budget result **+EUR3.0m** / P&L **+EUR1.4m**
+  - Personnel **EUR29.0m** (onderwijs other-gov **EUR2.2m**) / toelagen **EUR4.7m** (police **EUR1.7m** / fire **EUR0.9m** / AGB **EUR0.8m** / other **EUR0.9m**) / OCMW aid **EUR1.2m** / fiscal **EUR19.3m**
+  - Invest **EUR6.3m** / new loans **EUR3.7m** / gemeentefonds **EUR8.1m** / consol AGB GAFM **EUR-0.6m**
+- Dual: Vilvoorde **EUR276m** / fin debt **EUR16m** / AFM **+EUR12.6m** / IGS FVA **EUR32m** (tick863) - not TE-additive
+- Wrote: budgets +41; commitments +4; leaderboard +7; sources +2; entity city_poperinge; FOI **gap_poperinge_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_864=done; spawn **rq_865**; ticks=864
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_865** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/VUB/skeyes); deferred **rq_116**; progress@870 in 6

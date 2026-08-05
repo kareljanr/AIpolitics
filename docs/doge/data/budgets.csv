@@ -18334,3 +18334,44 @@ bud_vv_pl_costs_2025,city_vilvoorde,2025,126545111,,,outturn,src_vilvoorde_jr202
 bud_vv_pl_opbrengsten_2025,city_vilvoorde,2025,128976868,,,outturn,src_vilvoorde_jr2025,strong,Staat opbrengsten total 128.977m 2025; tick863
 bud_vv_pl_result_2025,city_vilvoorde,2025,2431757,,,outturn,src_vilvoorde_jr2025,strong,Boekhoudkundig overschot +2.432m 2025; tick863
 bud_vv_consol_afm_2025,city_vilvoorde,2025,13788541,,,outturn,src_vilvoorde_jr2025,strong,Consol AFM stad+OCMW+AG+Zorgbedrijf +13.789m 2025; tick863
+bud_po_assets_2025,city_poperinge,2025,187707465,,,stock,src_poperinge_jr2025,strong,Consol stad+OCMW total assets YE2025 187.707m; tick864
+bud_po_equity_2025,city_poperinge,2025,123732524,,,stock,src_poperinge_jr2025,strong,Nettoactief YE2025 123.733m; tick864
+bud_po_debt_total_2025,city_poperinge,2025,63974941,,,stock,src_poperinge_jr2025,strong,Schulden total YE2025 63.975m; tick864
+bud_po_fin_debt_2025,city_poperinge,2025,46168502,,,stock,src_poperinge_jr2025,strong,Financiele schulden total YE2025 46.169m (LT 42.674 + ST due 3.494); tick864
+bud_po_fin_debt_lt_2025,city_poperinge,2025,42674283,,,stock,src_poperinge_jr2025,strong,Financiele schulden LT YE2025 42.674m; tick864
+bud_po_fin_debt_st_2025,city_poperinge,2025,3494219,,,stock,src_poperinge_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.494m; tick864
+bud_po_pension_prov_2025,city_poperinge,2025,6384340,,,stock,src_poperinge_jr2025,strong,Pensioenvoorzieningen YE2025 6.384m; tick864
+bud_po_cash_2025,city_poperinge,2025,10671046,,,stock,src_poperinge_jr2025,strong,Liquide middelen YE2025 10.671m; tick864
+bud_po_cap_subs_2025,city_poperinge,2025,23138215,,,stock,src_poperinge_jr2025,strong,Kapitaalsubsidies YE2025 23.138m; tick864
+bud_po_fva_igs_2025,city_poperinge,2025,17349254,,,stock,src_poperinge_jr2025,strong,Fin VA IGS YE2025 17.349m; tick864
+bud_po_fva_agb_2025,city_poperinge,2025,4974339,,,stock,src_poperinge_jr2025,strong,Fin VA extern verzelfstandigd/AGB class YE2025 4.974m; tick864
+bud_po_onbeschikbaar_2025,city_poperinge,2025,0,,,stock,src_poperinge_jr2025,strong,Onbeschikbare gelden YE2025 0; tick864
+bud_po_cumul_surplus_2025,city_poperinge,2025,111963,,,stock,src_poperinge_jr2025,strong,Gecumuleerd overschot YE2025 0.112m (was deficit 1.312m); tick864
+bud_po_expl_rec_2025,city_poperinge,2025,52267753,,,outturn,src_poperinge_jr2025,strong,Exploitatieontvangsten 52.268m 2025; tick864
+bud_po_expl_exp_2025,city_poperinge,2025,46900410,,,outturn,src_poperinge_jr2025,strong,Exploitatieuitgaven 46.900m 2025; tick864
+bud_po_expl_saldo_2025,city_poperinge,2025,5367343,,,outturn,src_poperinge_jr2025,strong,Exploitatiesaldo +5.367m 2025; tick864
+bud_po_invest_exp_2025,city_poperinge,2025,6279202,,,outturn,src_poperinge_jr2025,strong,Investeringsuitgaven 6.279m 2025; tick864
+bud_po_invest_rec_2025,city_poperinge,2025,3635650,,,outturn,src_poperinge_jr2025,strong,Investeringsontvangsten 3.636m 2025; tick864
+bud_po_invest_saldo_2025,city_poperinge,2025,-2643551,,,outturn,src_poperinge_jr2025,strong,Investeringssaldo -2.644m 2025; tick864
+bud_po_fin_rec_2025,city_poperinge,2025,3751695,,,outturn,src_poperinge_jr2025,strong,Financieringsontvangsten 3.752m 2025; tick864
+bud_po_fin_exp_2025,city_poperinge,2025,3463427,,,outturn,src_poperinge_jr2025,strong,Financieringsuitgaven 3.463m 2025; tick864
+bud_po_fin_saldo_2025,city_poperinge,2025,288268,,,outturn,src_poperinge_jr2025,strong,Financieringssaldo +0.288m 2025; tick864
+bud_po_budget_result_2025,city_poperinge,2025,3012060,,,outturn,src_poperinge_jr2025,strong,Budgettair resultaat boekjaar +3.012m 2025; tick864
+bud_po_bbr_2025,city_poperinge,2025,10152262,,,outturn,src_poperinge_jr2025,strong,Beschikbaar budgettair resultaat 10.152m YE2025; tick864
+bud_po_afm_2025,city_poperinge,2025,1968511,,,outturn,src_poperinge_jr2025,strong,Autofinancieringsmarge AFM +1.969m 2025; tick864
+bud_po_afm_corr_2025,city_poperinge,2025,1756352,,,outturn,src_poperinge_jr2025,strong,Gecorrigeerde AFM +1.756m 2025; tick864
+bud_po_personnel_2025,city_poperinge,2025,28977856,,,outturn,src_poperinge_jr2025,strong,Personeelsuitgaven/bezold 28.978m 2025 (incl onderwijs other-gov 2.242m); tick864
+bud_po_personnel_onderwijs_other_2025,city_poperinge,2025,2242109,,,outturn,src_poperinge_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.242m 2025; tick864
+bud_po_goederen_diensten_2025,city_poperinge,2025,10716366,,,outturn,src_poperinge_jr2025,strong,Goederen en diensten 10.716m 2025; tick864
+bud_po_toelagen_2025,city_poperinge,2025,4675606,,,outturn,src_poperinge_jr2025,strong,Toegestane werkingssubsidies 4.676m 2025; tick864
+bud_po_toelagen_police_2025,city_poperinge,2025,1746615,,,outturn,src_poperinge_jr2025,strong,Toelage politiezone 1.747m 2025; tick864
+bud_po_toelagen_fire_2025,city_poperinge,2025,888848,,,outturn,src_poperinge_jr2025,strong,Toelage hulpverleningszone 0.889m 2025; tick864
+bud_po_toelagen_agb_2025,city_poperinge,2025,788354,,,outturn,src_poperinge_jr2025,strong,Toelage eigen AGB De Kouter 0.788m 2025; tick864
+bud_po_toelagen_other_2025,city_poperinge,2025,916287,,,outturn,src_poperinge_jr2025,strong,Toelagen andere begunstigden 0.916m 2025 FOI-adjacent; tick864
+bud_po_ocmw_aid_2025,city_poperinge,2025,1246876,,,outturn,src_poperinge_jr2025,strong,OCMW individuele hulpverlening 1.247m 2025; tick864
+bud_po_fiscal_2025,city_poperinge,2025,19250175,,,outturn,src_poperinge_jr2025,strong,Fiscale ontvangsten en boetes 19.250m 2025; tick864
+bud_po_gemeentefonds_2025,city_poperinge,2025,8096035,,,outturn,src_poperinge_jr2025,strong,Gemeentefonds 8.096m 2025; tick864
+bud_po_new_loans_2025,city_poperinge,2025,3687100,,,outturn,src_poperinge_jr2025,strong,Nieuwe financiele schulden 3.687m 2025 (bank/leasings); tick864
+bud_po_pl_costs_2025,city_poperinge,2025,53946893,,,outturn,src_poperinge_jr2025,strong,Staat kosten total 53.947m 2025; tick864
+bud_po_pl_opbrengsten_2025,city_poperinge,2025,55371007,,,outturn,src_poperinge_jr2025,strong,Staat opbrengsten total 55.371m 2025; tick864
+bud_po_pl_result_2025,city_poperinge,2025,1424114,,,outturn,src_poperinge_jr2025,strong,Boekhoudkundig overschot +1.424m 2025; tick864

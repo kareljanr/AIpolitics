@@ -1,0 +1,1489 @@
+=== p48 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema J2 : Staat van het financieel evenwicht 
+ 
+Resultaten 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Exploitatiesaldo 
+(a-b) 
+5.367.343,04 
+4.170.868,28 
+a. Ontvangsten 
+ 
+52.267.752,99 
+52.675.791,02 
+b. Uitgaven 
+ 
+46.900.409,95 
+48.504.922,74 
+II. Investeringssaldo 
+(a-b) 
+-2.643.551,49 
+-6.499.211,58 
+a. Ontvangsten 
+ 
+3.635.650,34 
+4.175.841,77 
+b. Uitgaven 
+ 
+6.279.201,83 
+10.675.053,35 
+III. Saldo exploitatie en investeringen 
+(I+II)) 
+2.723.791,55 
+-2.328.343,30 
+IV. Financieringssaldo 
+(a-b) 
+288.268,44 
+111.413,65 
+a. Ontvangsten 
+ 
+3.751.695,27 
+3.562.095,00 
+b. Uitgaven 
+ 
+3.463.426,83 
+3.450.681,35 
+V. Budgettair resultaat van het boekjaar 
+(III+IV)) 
+3.012.059,99 
+-2.216.929,65 
+VI. Gecumuleerd budgettair resultaat vorig boekjaar 
+ 
+7.140.201,77 
+7.140.201,77 
+VII. Gecumuleerd budgettair resultaat 
+(V+VI) 
+10.152.261,76 
+4.923.272,12 
+VIII. Onbeschikbare gelden 
+ 
+0,00 
+0,00 
+IX. Beschikbaar budgettair resultaat 
+(VII-VIII) 
+10.152.261,76 
+4.923.272,12 
+ 
+Autofinancieringsmarge 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Exploitatiesaldo 
+ 
+5.367.343,04 
+4.170.868,28 
+II. Netto periodieke aflossingen 
+(a-b) 
+3.398.831,83 
+3.386.086,35 
+a. Periodieke aflossingen conform de verbintenissen 
+3.463.426,83 
+3.450.681,35 
+b. Periodieke terugvordering leningen 
+ 
+64.595,00 
+64.595,00 
+III. Autofinancieringsmarge 
+(I-II)) 
+1.968.511,21 
+784.781,93 
+ 
+Gecorrigeerde autofinancieringsmarge 
+ 
+Jaarrekening 
+Meerjarenplan 
+I. Autofinancieringsmarge 
+ 
+1.968.511,21 
+784.781,93 
+II. Correctie op de periodieke aflossingen 
+(a-b) 
+-212.159,46 
+-224.904,94 
+a. Periodieke aflossingen conform de verbintenissen 
+3.463.426,83 
+3.450.681,35 
+b. Aangewezen aflossingen o.b.v. de financiële schulden 
+3.675.586,29 
+3.675.586,29 
+III. Gecorrigeerde autofinancieringsmarge 
+(I+II)) 
+1.756.351,75 
+559.876,99 
+ 
+ 
+44
+
+=== p53 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema J4 : Balans 
+ 
+ 
+2025 
+2024 
+ 
+ 
+ 
+ACTIVA 
+187.707.465,23 
+184.782.765,47 
+ 
+ 
+ 
+I. Vlottende activa 
+19.547.520,57 
+15.025.299,75 
+A. Liquide middelen en geldbeleggingen 
+10.671.045,95 
+6.220.908,89 
+B. Vorderingen op korte termijn 
+8.771.755,26 
+8.699.671,50 
+1. Vorderingen uit ruiltransacties 
+4.479.397,19 
+4.468.171,04 
+2. Vorderingen uit niet-ruiltransacties 
+4.292.358,07 
+4.231.500,46 
+C. Voorraden en bestellingen in uitvoering 
+40.124,36 
+40.124,36 
+D. Overlopende rekeningen van het actief 
+0,00 
+0,00 
+E. Vorderingen op lange termijn die binnen het jaar vervallen 
+64.595,00 
+64.595,00 
+ 
+ 
+ 
+II. Vaste activa 
+168.159.944,66 
+169.757.465,72 
+A. Vorderingen op lange termijn 
+5.696.240,00 
+5.760.835,00 
+A. Vorderingen uit ruiltransacties 
+5.696.240,00 
+5.760.835,00 
+2. Vorderingen uit niet-ruiltransacties 
+0,00 
+0,00 
+B. Financiële vaste activa 
+25.567.271,29 
+25.345.593,41 
+1. Extern verzelfstandigde agentschappen 
+4.974.338,84 
+4.974.338,84 
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke 
+17.349.253,96 
+17.125.688,85 
+3. OCMW-Verenigingen 
+0,00 
+0,00 
+4; Andere financiële vaste activa 
+3.243.678,49 
+3.245.565,72 
+C. Materiële vaste activa 
+136.008.216,93 
+137.898.661,67 
+1. Gemeenschapsgoederen 
+111.779.286,43 
+112.291.706,03 
+a. Terreinen en gebouwen 
+53.790.734,76 
+54.901.253,28 
+b. Wegen en andere infrastructuur 
+49.115.794,66 
+49.868.314,43 
+c. Installaties, machines en uitrusting 
+694.431,50 
+679.720,32 
+d. Meubilair, kantooruitrusting en rollend materieel 
+2.027.828,27 
+1.540.322,19 
+e. Leasing en soortgelijke rechten 
+2.230.489,94 
+1.947.732,15 
+f. Erfgoed 
+3.920.007,30 
+3.354.363,66 
+2. Bedrijfsmatige materiële vaste activa 
+15.666.054,32 
+16.824.782,15 
+a. Terreinen en gebouwen 
+15.208.305,06 
+16.400.078,22 
+b. Installaties, machines en uitrusting 
+279.864,96 
+227.535,03 
+c. Meubilair, kantooruitrusting en rollend materieel 
+177.884,30 
+197.168,90 
+d. Leasing en soortgelijke rechten 
+0,00 
+0,00 
+3. Andere materiële vaste activa 
+8.562.876,18 
+8.782.173,49 
+a. Terreinen en gebouwen 
+8.562.876,18 
+8.782.173,49 
+b. Roerende goederen 
+0,00 
+0,00 
+D. Immateriële vaste activa 
+888.216,44 
+752.375,64 
+ 
+ 
+ 
+ 
+ 
+ 
+49
+
+=== p54 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+Schema J4 : Balans 
+ 
+ 
+2025 
+2024 
+ 
+ 
+ 
+PASSIVA 
+187.707.465,23 
+184.782.765,47 
+ 
+ 
+ 
+I. Schulden 
+63.974.941,28 
+62.749.617,49 
+A. Schulden op korte termijn 
+14.916.318,47 
+13.248.274,65 
+1. Schulden uit ruiltransacties 
+8.267.419,13 
+7.569.810,88 
+a. Voorzieningen voor risico’s en kosten 
+2.131.559,76 
+2.016.808,76 
+b. Financiële schulden 
+0,00 
+0,00 
+c. Niet-financiële schulden uit ruiltransacties 
+6.135.859,37 
+5.553.002,12 
+2. Schulden uit niet-ruiltransacties 
+3.154.680,08 
+2.227.376,50 
+3. Overlopende rekeningen van het passief 
+0,00 
+0,00 
+4. Schulden op lange termijn die binnen het jaar vervallen 
+3.494.219,26 
+3.451.087,27 
+B. Schulden op lange termijn 
+49.058.622,81 
+49.501.342,84 
+1. Schulden uit ruiltransacties 
+49.058.622,81 
+49.501.342,84 
+a. Voorzieningen voor risico’s en kosten 
+6.384.340,00 
+7.007.601,48 
+1. Pensioenen en soorgelijke verplichtingen 
+6.384.340,00 
+7.007.601,48 
+2. Andere risico’s en kosten 
+0,00 
+0,00 
+b. Financiële schulden 
+42.674.282,81 
+42.493.741,36 
+c. Niet-financiële schulden uit ruiltransacties 
+0,00 
+0,00 
+2. Schulden uit niet-ruiltransacties 
+0,00 
+0,00 
+ 
+ 
+ 
+II. Nettoactief 
+123.732.523,95 
+122.033.147,98 
+A. Kapitaalsubsidies en schenkingen 
+23.138.215,05 
+23.201.100,95 
+B. Gecumuleerd overschot of tekort 
+111.963,13 
+-1.312.150,75 
+C. Herwaarderingsreserves 
+7.087.993,92 
+6.749.845,93 
+D. Overig nettoactief 
+93.394.351,85 
+93.394.351,85 
+ 
+ 
+ 
+ 
+50
+
+=== p56 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema J5 : Staat van opbrengsten en kosten 
+ 
+ 
+2025 
+2024 
+ 
+ 
+ 
+I. Kosten 
+53.946.892,84 
+55.579.500,20 
+A. Operationele kosten 
+52.893.103,39 
+54.601.088,11 
+1. Goederen en diensten 
+10.716.366,35 
+10.031.870,49 
+2. Bezoldigingen, sociale lasten en pensioenen 
+28.977.856,44 
+27.685.656,12 
+3. Afschrijvingen, waardeverminderingen en voorzieningen 
+5.616.093,66 
+8.137.038,79 
+4. Individuele hulpverlening door het O.C.M.W. 
+1.246.876,48 
+1.474.313,98 
+5. Toegestane werkingssubsidies 
+4.675.606,14 
+4.639.438,59 
+6. Toegestane investeringssubsidies 
+1.272.389,23 
+2.418.883,99 
+7. Minderwaarden bij de realisatie van vaste activa 
+158.000,00 
+0,00 
+8. Andere operationele kosten 
+229.915,09 
+213.886,15 
+B. Financiële kosten 
+1.053.789,45 
+978.412,09 
+ 
+ 
+ 
+II. Opbrengsten 
+55.371.006,72 
+54.127.118,64 
+A. Operationele opbrengsten 
+53.599.528,27 
+51.755.051,29 
+1. Opbrengsten uit de werking 
+12.258.903,80 
+12.017.031,19 
+2. Fiscale opbrengsten en boetes 
+19.250.174,95 
+18.417.812,12 
+3. Werkingssubsidies 
+19.398.810,48 
+19.475.987,87 
+a. Algemene werkingssubsidies 
+11.199.804,49 
+10.972.567,58 
+b. Specifieke werkingssubsidies 
+8.199.005,99 
+8.503.420,29 
+4. Recuperatie individuele hulpverlening 
+159.306,11 
+173.290,58 
+5. Meerwaarden bij de realisatie van vaste activa 
+1.889.949,10 
+784.727,90 
+6. Andere operationele opbrengsten 
+642.383,83 
+886.201,63 
+B. Financiële opbrengsten 
+1.771.478,45 
+2.372.067,35 
+ 
+ 
+ 
+III. Overschot of tekort van het boekjaar 
+1.424.113,88 
+-1.452.381,56 
+A. Operationele overschot of tekort 
+706.424,88 
+-2.846.036,82 
+B. Financieel overschot of tekort 
+717.689,00 
+1.393.655,26 
+ 
+ 
+ 
+IV. Verwerking van het overschot of het tekort van het boekjaar 
+1.424.113,88 
+-1.452.381,56 
+A. Rechthebbenden uit het overschot van het boekjaar 
+0,00 
+0,00 
+B. Tussenkomst door derden in het tekort van het boekjaar 
+0,00 
+0,00 
+C. Over te dragen overschot of tekort van het boekjaar 
+1.424.113,88 
+-1.452.381,56 
+ 
+ 
+ 
+ 
+52
+
+=== p62 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema T2 : Ontvangsten en uitgaven naar economische aard 
+ 
+I. Exploitatie-uitgaven 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Operationele uitgaven 
+34.601.750,56 
+36.792.739,59 
+40.883.386,37 
+42.431.025,08 
+44.045.165,33 
+45.846.620,50 
+47.456.138,87 
+49.040.403,10 
+48.985.350,04 
+1. Goederen en diensten 
+7.039.472,55 
+8.451.571,69 
+9.597.681,08 
+9.973.142,20 
+10.031.870,49 
+10.716.366,35 
+11.273.656,66 
+11.349.140,00 
+10.639.085,00 
+2. Bezoldigingen, sociale lasten en 
+pensioenen 
+20.449.380,89 
+21.542.581,91 
+23.436.017,52 
+25.951.953,24 
+27.685.656,12 
+28.977.856,44 
+29.533.403,60 
+31.027.631,10 
+31.649.945,10 
+a. Politiek personeel 
+370.888,49 
+378.199,00 
+392.244,48 
+444.080,69 
+437.416,55 
+462.020,20 
+468.828,00 
+478.383,00 
+484.821,00 
+b. Vastbenoemd niet-onderwijzend personeel 
+4.887.286,43 
+4.779.372,60 
+4.923.399,63 
+5.026.365,15 
+5.853.347,92 
+5.850.782,23 
+6.233.878,60 
+6.373.496,10 
+6.412.341,10 
+c. Niet-vastbenoemd niet-onderwijzend personeel 
+12.108.064,34 
+12.991.132,16 
+15.022.351,87 
+17.180.527,47 
+18.248.718,14 
+19.413.548,10 
+19.655.952,00 
+20.973.015,00 
+21.541.090,00 
+d. Onderwijzend personeel ten laste van het 
+bestuur 
+3.213,29 
+87.745,71 
+89.581,36 
+92.558,89 
+102.609,15 
+116.143,74 
+112.598,00 
+115.805,00 
+120.040,00 
+e. Onderwijzend personeel ten laste van andere 
+overheden 
+1.336.000,00 
+1.336.000,00 
+1.336.000,00 
+1.336.000,00 
+2.160.562,68 
+2.242.109,03 
+2.165.000,00 
+2.165.000,00 
+2.165.000,00 
+f. Andere personeelskosten 
+659.940,43 
+800.266,70 
+711.377,36 
+755.973,43 
+768.433,52 
+776.009,42 
+779.903,00 
+802.737,00 
+805.474,00 
+g. Pensioenen 
+1.083.987,91 
+1.169.865,74 
+961.062,82 
+1.116.447,61 
+114.568,16 
+117.243,72 
+117.244,00 
+119.195,00 
+121.179,00 
+3. Individuele hulpverlening door het OCMW 
+966.537,72 
+1.060.296,61 
+1.418.765,40 
+1.634.984,97 
+1.474.313,98 
+1.246.876,48 
+1.667.229,00 
+1.647.229,00 
+1.644.729,00 
+4. Toegestane werkingssubsidies 
+6.014.871,94 
+5.600.904,33 
+6.205.405,83 
+4.683.059,28 
+4.639.438,59 
+4.675.606,14 
+4.786.928,61 
+4.861.482,00 
+4.896.669,94 
+- 
+aan de districten 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+aan de eigen autonome provinciebedrijven 
+(APB) 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+aan de eigen autonome gemeentebedrijven 
+(AGB) 
+1.836.990,00 
+1.580.335,91 
+2.298.790,00 
+898.150,72 
+639.706,82 
+788.353,80 
+796.088,00 
+828.325,00 
+828.683,00 
+- 
+aan welzijnsverenigingen 
+0,00 
+4.208,73 
+4.521,87 
+4.908,65 
+5.027,53 
+5.232,61 
+0,00 
+0,00 
+0,00 
+- 
+aan andere OCMW-verenigingen 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+aan de politiezone 
+1.623.940,00 
+1.640.179,00 
+1.664.782,00 
+1.688.458,00 
+1.716.775,00 
+1.746.615,00 
+1.746.615,00 
+1.781.547,00 
+1.817.177,94 
+- 
+aan de hulpverleningszone 
+815.574,00 
+848.961,43 
+778.448,33 
+811.495,69 
+910.475,06 
+888.847,85 
+887.197,00 
+904.941,00 
+923.040,00 
+- 
+aan intergemeentelijke 
+samenwerkingsverbanden (IGS) 
+38.950,85 
+35.096,26 
+67.722,56 
+44.092,44 
+101.097,17 
+148.598,60 
+164.900,00 
+159.900,00 
+159.900,00 
+- 
+aan besturen van de eredienst 
+265.390,80 
+239.054,10 
+266.847,44 
+192.258,72 
+198.226,89 
+181.670,90 
+181.679,00 
+200.216,00 
+200.216,00 
+- 
+aan niet-confessionele 
+levensbeschouwelijke gemeenschappen 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+aan andere begunstigden 
+1.434.026,29 
+1.253.068,90 
+1.124.293,63 
+1.043.695,06 
+1.068.130,12 
+916.287,38 
+1.010.449,61 
+986.553,00 
+967.653,00 
+5. Andere operationele uitgaven 
+131.487,46 
+137.385,05 
+225.516,54 
+187.885,39 
+213.886,15 
+229.915,09 
+194.921,00 
+154.921,00 
+154.921,00 
+B. Financiële uitgaven 
+783.591,47 
+728.708,06 
+786.095,57 
+858.427,76 
+978.412,09 
+1.053.789,45 
+1.048.783,87 
+1.015.618,97 
+1.067.717,71 
+58
+
+=== p64 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema T2 : Ontvangsten en uitgaven naar economische aard 
+ 
+II. Exploitatieontvangsten 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Operationele ontvangsten 
+39.719.119,03 
+41.291.330,68 
+44.541.233,18 
+50.069.854,08 
+50.970.323,39 
+51.709.579,17 
+52.213.190,09 
+53.356.347,33 
+53.550.022,29 
+1. Ontvangsten uit de werking 
+9.677.865,90 
+9.804.107,59 
+11.115.331,58 
+11.865.943,66 
+12.017.031,19 
+12.258.903,80 
+11.933.904,99 
+12.302.122,82 
+12.375.747,93 
+2. Fiscale ontvangsten en boetes 
+14.327.908,93 
+14.827.245,86 
+15.099.411,63 
+18.536.279,54 
+18.417.812,12 
+19.250.174,95 
+19.630.549,12 
+20.338.714,42 
+21.033.378,91 
+a. Aanvullende belastingen 
+13.033.591,76 
+13.281.599,14 
+13.403.195,13 
+16.625.869,88 
+16.443.988,17 
+17.318.018,89 
+17.714.460,95 
+18.394.859,29 
+19.066.752,21 
+- 
+Opcentiemen onroerende voorheffing 
+7.674.329,81 
+7.698.222,66 
+7.753.262,18 
+8.760.050,77 
+10.010.203,86 
+9.912.093,56 
+10.520.724,00 
+10.931.033,00 
+11.357.343,00 
+- 
+Aanvullende belasting personenbelasting 
+5.043.802,52 
+5.254.789,32 
+5.321.037,95 
+7.503.034,45 
+6.064.741,30 
+7.044.556,72 
+6.805.858,74 
+7.068.709,91 
+7.308.366,08 
+- 
+Andere aanvullende belastingen 
+315.459,43 
+328.587,16 
+328.895,00 
+362.784,66 
+369.043,01 
+361.368,61 
+387.878,21 
+395.116,38 
+401.043,13 
+b. Andere belastingen en boetes 
+1.294.317,17 
+1.545.646,72 
+1.696.216,50 
+1.910.409,66 
+1.973.823,95 
+1.932.156,06 
+1.916.088,17 
+1.943.855,13 
+1.966.626,70 
+3. Werkingssubsidies 
+14.954.074,81 
+15.901.497,71 
+16.923.980,89 
+18.378.269,68 
+19.475.987,87 
+19.398.810,48 
+20.000.069,80 
+19.983.597,91 
+19.579.681,27 
+a. Algemene werkingssubsidies 
+8.709.060,72 
+9.143.257,39 
+10.216.669,32 
+10.665.297,88 
+10.972.567,58 
+11.199.804,49 
+11.360.947,34 
+11.580.320,91 
+11.823.904,02 
+- 
+Gemeentefonds 
+7.017.499,98 
+7.300.192,58 
+7.586.032,97 
+7.826.976,97 
+7.948.755,97 
+8.096.034,97 
+8.207.902,97 
+8.351.349,29 
+8.503.997,62 
+- 
+Andere algemene werkingssubsidies 
+1.691.560,74 
+1.843.064,81 
+2.630.636,35 
+2.838.320,91 
+3.023.811,61 
+3.103.769,52 
+3.153.044,37 
+3.228.971,62 
+3.319.906,40 
+- 
+van de federale overheid 
+486,00 
+486,00 
+486,00 
+489,09 
+535,00 
+2.699,70 
+0,00 
+0,00 
+0,00 
+- 
+van de Vlaamse overheid 
+1.691.074,74 
+1.842.578,81 
+2.628.619,64 
+2.837.831,82 
+3.023.276,61 
+3.101.069,82 
+3.153.044,37 
+3.228.971,62 
+3.319.906,40 
+- 
+van de provincie 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+van de gemeente 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+van het OCMW 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+van andere entiteiten 
+0,00 
+0,00 
+1.530,71 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+b. Specifieke werkingssubsidies 
+6.245.014,09 
+6.758.240,32 
+6.707.311,57 
+7.712.971,80 
+8.503.420,29 
+8.199.005,99 
+8.639.122,46 
+8.403.277,00 
+7.755.777,25 
+- 
+van de federale overheid 
+3.621.905,07 
+3.606.225,32 
+3.795.212,36 
+3.625.680,99 
+3.887.652,95 
+2.166.964,94 
+2.787.705,00 
+2.771.455,00 
+2.662.761,25 
+- 
+van de Vlaamse overheid 
+1.402.797,67 
+1.988.221,81 
+1.835.497,18 
+2.980.958,29 
+3.532.368,76 
+4.938.420,89 
+4.542.925,46 
+4.364.650,00 
+3.956.860,00 
+- 
+van de provincie 
+55.446,00 
+4.000,00 
+0,00 
+95.775,00 
+14.839,95 
+10.000,00 
+226.500,00 
+226.500,00 
+68.000,00 
+- 
+van de gemeente 
+134.081,74 
+153.702,29 
+243.678,65 
+266.424,72 
+186.472,08 
+196.622,47 
+715.511,00 
+677.607,00 
+701.809,00 
+- 
+van het OCMW 
+0,00 
+0,00 
+0,00 
+1.150,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+- 
+van andere entiteiten 
+1.030.783,61 
+1.006.090,90 
+832.923,38 
+742.982,80 
+882.086,55 
+886.997,69 
+366.481,00 
+363.065,00 
+366.347,00 
+4. Recuperatie individuele hulpverlening 
+92.632,42 
+94.293,85 
+108.024,40 
+213.392,45 
+173.290,58 
+159.306,11 
+116.270,00 
+116.050,00 
+116.050,00 
+5. Andere operationele ontvangsten 
+666.636,97 
+664.185,67 
+1.294.484,68 
+1.075.968,75 
+886.201,63 
+642.383,83 
+532.396,18 
+615.862,18 
+445.164,18 
+B. Financiële ontvangsten 
+1.063.171,15 
+1.073.004,56 
+800.042,59 
+819.923,40 
+843.303,17 
+558.173,82 
+462.600,93 
+450.198,57 
+450.198,57 
+C. Tussenkomst door derden in het tekort van 
+het boekjaar 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III. Exploitatiesaldo 
+5.396.948,15 
+4.842.887,59 
+3.671.793,83 
+7.600.324,64 
+6.790.049,14 
+5.367.343,04 
+4.170.868,28 
+3.750.523,83 
+3.947.153,11 
+ 
+ 
+60
+
+=== p68 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema T2 : Ontvangsten en uitgaven naar economische aard 
+ 
+II. Financieringsontvangsten 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Aangaan van financiële schulden 
+10.938.501,06 
+139.307,05 
+6.591.481,25 
+3.563.656,58 
+5.502.288,19 
+3.687.100,27 
+3.497.500,00 
+320.879,00 
+2.895.879,00 
+- 
+opname van leningen en leasings bij financiële 
+instellingen 
+9.080.000,00 
+0,00 
+6.500.000,00 
+3.350.000,00 
+5.502.288,19 
+3.687.100,27 
+3.175.000,00 
+0,00 
+2.575.000,00 
+- 
+opname van leningen en leasings bij andere 
+entiteiten 
+1.858.501,06 
+139.307,05 
+91.481,25 
+213.656,58 
+0,00 
+0,00 
+322.500,00 
+320.879,00 
+320.879,00 
+B. Aangaan van niet-financiële schulden 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+C. Vereffening toegestane leningen en betalingsuitstel 
+57.320,07 
+0,00 
+196.000,00 
+0,00 
+5.500,00 
+64.595,00 
+64.595,00 
+64.595,00 
+64.595,00 
+1. Terugvordering van toegestane leningen 
+57.320,07 
+0,00 
+196.000,00 
+0,00 
+5.500,00 
+64.595,00 
+64.595,00 
+64.595,00 
+64.595,00 
+A. Periodieke terugvorderingen 
+57.320,07 
+0,00 
+196.000,00 
+0,00 
+5.500,00 
+64.595,00 
+64.595,00 
+64.595,00 
+64.595,00 
+b. Niet-periodieke terugvorderingen 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+2. Vereffening van betalingsuitstel 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+D. Vereffening van vooruitbetalingen 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+E. Kapitaalsvermeerderingen 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+F. Bijdragen en schenkingen niet gekoppeld aan 
+operationele activiteiten of aan de verwerving van 
+vaste activa 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III. Financieringssaldo 
+7.629.602,77 
+-3.227.134,20 
+3.291.496,03 
+241.100,99 
+-3.654.800,04 
+288.268,44 
+111.413,65 
+-3.093.877,50 
+-537.923,97 
+ 
+Budgettair resultaat van het boekjaar 
+7.600.132,24 
+-3.453.669,29 
+3.098.623,82 
+-214.256,84 
+-1.357.463,50 
+3.012.059,99 
+757.285,16 
+-7.153.961,58 
+-240.054,55 
+64
+
+=== p153 ===
+ 
+STAD Poperinge / OCMW Poperinge 
+Beleidsevaluatie 2025 
+Algemeen directeur: Christophe Oreel 
+Grote Markt 1 
+ 
+Financieel directeur: Thierry Hugues 
+KBO: 0206751837 
+ 
+Burgemeester: Christof Dejaegher 
+NIS-code: 33021 
+ 
+ 
+STAD Poperinge / OCMW Poperinge 
+Schema T4 : Evolutie van de financiële schulden 
+ 
+Financiële schulden op 31 december 
+Rek 2020 
+Rek 2021 
+Rek 2022 
+Rek 2023 
+Rek 2024 
+Rek 2025 
+Mjp 2026 
+Mjp 2027 
+A. Financiële schulden op lange termijn 
+40.111.156,76 
+37.270.369,80 
+40.219.114,35 
+40.458.761,88 
+42.493.741,36 
+42.674.282,81 
+39.511.631,60 
+38.853.313,96 
+1. Financiële schulden op 1 januari 
+33.189.498,71 
+40.111.156,76 
+37.270.369,80 
+40.219.114,35 
+40.458.761,88 
+42.493.741,36 
+42.674.282,81 
+39.511.631,60 
+2. Nieuwe leningen 
+10.938.501,06 
+139.307,05 
+6.591.481,25 
+3.563.656,58 
+5.502.288,19 
+3.687.100,27 
+320.879,00 
+2.895.879,00 
+3. Aflossingen 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4. Overboekingen 
+-4.017.289,54 
+-2.980.094,01 
+-3.642.736,70 
+-3.324.009,05 
+-3.467.308,71 
+-3.506.558,82 
+-3.498.397,97 
+-3.554.196,64 
+5. Andere mutaties 
+446,53 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+14.867,76 
+0,00 
+B. Financiële schulden op lange termijn die binnen 
+het jaar vervallen 
+3.357.579,09 
+3.167.231,85 
+3.313.983,33 
+3.315.436,79 
+3.451.087,27 
+3.494.219,26 
+3.498.397,97 
+3.554.196,64 
+1. Financiële schulden op 1 januari 
+2.706.507,91 
+3.357.579,09 
+3.167.231,85 
+3.313.983,33 
+3.315.436,79 
+3.451.087,27 
+3.494.219,26 
+3.498.397,97 
+2. Aflossingen 
+-3.366.218,36 
+-3.170.441,25 
+-3.495.985,22 
+-3.322.555,59 
+-3.331.658,23 
+-3.463.426,83 
+-3.479.351,50 
+-3.498.397,97 
+3. Overboekingen 
+4.017.289,54 
+2.980.094,01 
+3.642.736,70 
+3.324.009,05 
+3.467.308,71 
+3.506.558,82 
+3.498.397,97 
+3.554.196,64 
+4. Andere mutaties 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+-14.867,76 
+0,00 
+C. Financiële schulden op korte termijn 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+Totaal financiële schulden 
+43.468.735,85 
+40.437.601,65 
+43.533.097,68 
+43.774.198,67 
+45.944.828,63 
+46.168.502,07 
+43.010.029,57 
+42.407.510,60 
+149
