@@ -28888,3 +28888,52 @@ bud_hds_goederen_2025,city_herk_de_stad,2025,3297130,,,bbc_jr_realized,src_herk_
 bud_hds_afschrijvingen_2025,city_herk_de_stad,2025,2397380,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Afschrijvingen/voorzieningen 2.397m; tick1103
 bud_hds_fin_exp_2025,city_herk_de_stad,2025,136551,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Financiele kosten 0.137m; tick1103
 bud_hds_vacation_oneoff_2025,city_herk_de_stad,2025,500000,,,bbc_jr_realized,src_herk_de_stad_jr2025,strong,Vakantieregeling private-to-public one-off ~0.5m FOI residual (narrative); tick1103
+bud_wel_assets_2025,city_wellen,2025,58186036,,,bbc_jr_realized,src_wellen_jr2025,strong,Assets YE2025 58.186m JUMP (was 51.367m; FVA herwaard + MVA invest); tick1104
+bud_wel_equity_2025,city_wellen,2025,45867220,,,bbc_jr_realized,src_wellen_jr2025,strong,Nettoactief YE2025 45.867m JUMP (was 38.493m); tick1104
+bud_wel_debt_total_2025,city_wellen,2025,12318816,,,bbc_jr_realized,src_wellen_jr2025,strong,Total schulden YE2025 12.319m DECLINE (was 12.874m); tick1104
+bud_wel_fin_debt_2025,city_wellen,2025,5417049,,,bbc_jr_realized,src_wellen_jr2025,strong,Fin debt total YE2025 5.417m DECLINE (was 5.717m T4); tick1104
+bud_wel_fin_debt_lt_2025,city_wellen,2025,4982587,,,bbc_jr_realized,src_wellen_jr2025,strong,Fin debt LT YE2025 4.983m DECLINE; tick1104
+bud_wel_fin_debt_st_2025,city_wellen,2025,434462,,,bbc_jr_realized,src_wellen_jr2025,strong,Fin debt ST due YE2025 0.434m; tick1104
+bud_wel_new_loans_2025,city_wellen,2025,138625,,,bbc_jr_realized,src_wellen_jr2025,strong,New loans 0.139m leasing only; tick1104
+bud_wel_repayments_2025,city_wellen,2025,438292,,,bbc_jr_realized,src_wellen_jr2025,strong,Periodieke aflossingen 0.438m; tick1104
+bud_wel_cash_2025,city_wellen,2025,9739340,,,bbc_jr_realized,src_wellen_jr2025,strong,Cash YE2025 9.739m MASSIVE DROP FOI (was 12.863m; -3.124m); tick1104
+bud_wel_pension_lt_2025,city_wellen,2025,4297378,,,bbc_jr_realized,src_wellen_jr2025,strong,Pension LT 4.297m DECLINE FOI (was 5.613m); tick1104
+bud_wel_fva_total_2025,city_wellen,2025,11837921,,,bbc_jr_realized,src_wellen_jr2025,strong,FVA total YE2025 11.838m MASSIVE JUMP (was 6.907m); tick1104
+bud_wel_fva_igs_2025,city_wellen,2025,10833959,,,bbc_jr_realized,src_wellen_jr2025,strong,FVA IGS YE2025 10.834m MASSIVE JUMP FOI (was 5.904m; herwaard +4.929m); tick1104
+bud_wel_herwaard_2025,city_wellen,2025,4929255,,,bbc_jr_realized,src_wellen_jr2025,strong,Herwaarderingsreserves YE2025 4.929m MASSIVE JUMP FOI (was 0); tick1104
+bud_wel_leasing_mva_2025,city_wellen,2025,900163,,,bbc_jr_realized,src_wellen_jr2025,strong,Leasing MVA YE2025 0.900m; tick1104
+bud_wel_expl_ontvangsten_2025,city_wellen,2025,12583712,,,bbc_jr_realized,src_wellen_jr2025,strong,Exploitatie ontvangsten 12.584m; tick1104
+bud_wel_expl_uitgaven_2025,city_wellen,2025,9574022,,,bbc_jr_realized,src_wellen_jr2025,strong,Exploitatie uitgaven 9.574m; tick1104
+bud_wel_expl_saldo_2025,city_wellen,2025,3009690,,,bbc_jr_realized,src_wellen_jr2025,strong,Exploitatiesaldo +3.010m VERY STRONG; tick1104
+bud_wel_afm_2025,city_wellen,2025,2600842,,,bbc_jr_realized,src_wellen_jr2025,strong,AFM +2.601m VERY STRONG; tick1104
+bud_wel_afm_gecorr_2025,city_wellen,2025,2581797,,,bbc_jr_realized,src_wellen_jr2025,strong,AFM gecorrigeerd +2.582m VERY STRONG; tick1104
+bud_wel_bbr_2025,city_wellen,2025,9641463,,,bbc_jr_realized,src_wellen_jr2025,strong,Beschikbaar budgettair resultaat 9.641m VERY HIGH; tick1104
+bud_wel_onbeschikbaar_2025,city_wellen,2025,1816,,,bbc_jr_realized,src_wellen_jr2025,strong,Onbeschikbare gelden 0.002m; tick1104
+bud_wel_budget_result_2025,city_wellen,2025,-3443057,,,bbc_jr_realized,src_wellen_jr2025,strong,Budgettair resultaat boekjaar -3.443m NEG HIGH FOI (invest-driven; better than MJP -7.843m); tick1104
+bud_wel_cum_br_2025,city_wellen,2025,9643279,,,bbc_jr_realized,src_wellen_jr2025,strong,Gecumuleerd BR 9.643m; tick1104
+bud_wel_pnl_2025,city_wellen,2025,2757103,,,bbc_jr_realized,src_wellen_jr2025,strong,P&L overschot +2.757m FLIP FOI (was -0.331m); tick1104
+bud_wel_fiscal_2025,city_wellen,2025,6362278,,,bbc_jr_realized,src_wellen_jr2025,strong,Fiscale opbrengsten 6.362m JUMP; tick1104
+bud_wel_pb_2025,city_wellen,2025,3446061,,,bbc_jr_realized,src_wellen_jr2025,strong,Aanvullende PB 3.446m JUMP; tick1104
+bud_wel_op_2025,city_wellen,2025,2244490,,,bbc_jr_realized,src_wellen_jr2025,strong,Onroerende voorheffing opcentiemen 2.244m; tick1104
+bud_wel_personnel_2025,city_wellen,2025,4791442,,,bbc_jr_realized,src_wellen_jr2025,strong,Personeel 4.791m JUMP; tick1104
+bud_wel_toelagen_2025,city_wellen,2025,1712392,,,bbc_jr_realized,src_wellen_jr2025,strong,Toegestane werkingssubsidies 1.712m FOI; tick1104
+bud_wel_toelagen_police_2025,city_wellen,2025,592000,,,bbc_jr_realized,src_wellen_jr2025,strong,Politiezone toelage 0.592m; tick1104
+bud_wel_toelagen_fire_2025,city_wellen,2025,365425,,,bbc_jr_realized,src_wellen_jr2025,strong,Hulpverleningszone 0.365m; tick1104
+bud_wel_toelagen_igs_2025,city_wellen,2025,403171,,,bbc_jr_realized,src_wellen_jr2025,strong,IGS werkingssubsidies 0.403m JUMP FOI; tick1104
+bud_wel_toelagen_eredienst_2025,city_wellen,2025,78667,,,bbc_jr_realized,src_wellen_jr2025,strong,Eredienst 0.079m; tick1104
+bud_wel_toelagen_other_2025,city_wellen,2025,273130,,,bbc_jr_realized,src_wellen_jr2025,strong,Andere begunstigden toelagen 0.273m FOI; tick1104
+bud_wel_invest_uitgaven_2025,city_wellen,2025,6204451,,,bbc_jr_realized,src_wellen_jr2025,strong,Investeringsuitgaven 6.204m vs MJP 9.686m UNDERSPEND FOI; tick1104
+bud_wel_invest_ontvangsten_2025,city_wellen,2025,21926,,,bbc_jr_realized,src_wellen_jr2025,strong,Investeringsontvangsten 0.022m LOW FOI; tick1104
+bud_wel_invest_saldo_2025,city_wellen,2025,-6182525,,,bbc_jr_realized,src_wellen_jr2025,strong,Investeringssaldo -6.183m; tick1104
+bud_wel_invest_mjp_2025,city_wellen,2025,9686243,,,bbc_jr_realized,src_wellen_jr2025,strong,MJP invest uitgaven 9.686m; tick1104
+bud_wel_invest_mva_2025,city_wellen,2025,5943687,,,bbc_jr_realized,src_wellen_jr2025,strong,MVA aankopen 5.944m HIGH FOI; tick1104
+bud_wel_ocmw_expl_uit_2025,city_wellen,2025,1832383,,,bbc_jr_realized,src_wellen_jr2025,strong,OCMW expl uitgaven J3 1.832m; tick1104
+bud_wel_ocmw_expl_ont_2025,city_wellen,2025,1327481,,,bbc_jr_realized,src_wellen_jr2025,strong,OCMW expl ontvangsten J3 1.327m; tick1104
+bud_wel_ocmw_expl_gap_2025,city_wellen,2025,505708,,,bbc_jr_realized,src_wellen_jr2025,strong,OCMW expl gap J3 ~0.506m FOI (kengetallen); tick1104
+bud_wel_ocmw_cover_2025,city_wellen,2025,0,,,bbc_jr_realized,src_wellen_jr2025,strong,OCMW cover ZERO FOI (kengetallen blank; OCMW cum BR -1.561m); tick1104
+bud_wel_ocmw_cum_br_2025,city_wellen,2025,-1560648,,,bbc_jr_realized,src_wellen_jr2025,strong,OCMW gecumuleerd BR -1.561m DEEP FOI; tick1104
+bud_wel_ocmw_hulp_2025,city_wellen,2025,407092,,,bbc_jr_realized,src_wellen_jr2025,strong,OCMW individuele hulpverlening 0.407m; tick1104
+bud_wel_goederen_2025,city_wellen,2025,2356853,,,bbc_jr_realized,src_wellen_jr2025,strong,Goederen en diensten 2.357m; tick1104
+bud_wel_afschrijvingen_2025,city_wellen,2025,587924,,,bbc_jr_realized,src_wellen_jr2025,strong,Afschrijvingen/voorzieningen 0.588m MASSIVE DROP FOI (was 4.960m); tick1104
+bud_wel_fin_exp_2025,city_wellen,2025,164031,,,bbc_jr_realized,src_wellen_jr2025,strong,Financiele kosten 0.164m; tick1104
+bud_wel_debt_per_capita_2025,city_wellen,2025,724,,,bbc_jr_realized,src_wellen_jr2025,strong,Schuld per inwoner YE2025 724 EUR (kengetallen); tick1104

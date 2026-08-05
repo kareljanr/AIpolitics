@@ -15001,3 +15001,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_hds_*); commitments +7; leaderboard +9; sources +1; entity city_herk_de_stad; FOI **gap_hds_budget_cash_pension_invest_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1103=done; spawn **rq_1104**; ticks=1103
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1104** residual dual L5; deferred **rq_116**; progress@1110 in 6
+
+### Tick 1104 - 2026-08-11T17:30:00Z
+
+- Unit: **rq_1104** (FOI-adjacent residual dual - **Gemeente+OCMW Wellen Jaarrekening 2025** + Herk-de-Stad dual residual)
+- Found (strong primary BBC JR2025 PDF; 178p; GR 26.06.2026; wellen.be; KBO GE 0207.483.691 / OCMW 0212.181.263; Dorpsstraat 25/26B 3830; AD Chiel Herbots FD Pieter Cox; GE+OCMW):
+  - Assets **EUR58.186m JUMP** (was **EUR51.367m**) / equity **EUR45.867m JUMP** / debt total **EUR12.319m DECLINE** / fin debt **EUR5.417m DECLINE** (LT **EUR4.983m** / ST due **EUR0.434m**)
+  - New loans **EUR0.139m LOW** leasing only / repayments **EUR0.438m**
+  - Cash **EUR9.739m MASSIVE DROP FOI** (was **EUR12.863m**; **-EUR3.124m**) / pension **EUR4.297m DECLINE FOI** (was **EUR5.613m**)
+  - FVA IGS **EUR10.834m MASSIVE JUMP FOI** (was **EUR5.904m**) / herwaard **EUR4.929m MASSIVE JUMP FOI** (was **EUR0**) / leasing MVA **EUR0.900m**
+  - Exploitatie: ontvangsten **EUR12.584m** / uitgaven **EUR9.574m** / saldo **+EUR3.010m VERY STRONG**
+  - AFM **+EUR2.601m VERY STRONG** (gecorr **+EUR2.582m**) / BBR **EUR9.641m VERY HIGH** / budget **-EUR3.443m NEG HIGH FOI** (better than MJP **-EUR7.843m**) / P&L **+EUR2.757m FLIP** (was **-EUR0.331m**)
+  - Fiscal **EUR6.362m JUMP** / PB **EUR3.446m** / OP **EUR2.244m**
+  - Personnel **EUR4.791m** / toelagen **EUR1.712m FOI** (police **EUR0.592m** / fire **EUR0.365m** / IGS **EUR0.403m JUMP** / andere **EUR0.273m**)
+  - Invest **EUR6.204m** vs MJP **EUR9.686m UNDERSPEND FOI** / MVA aankopen **EUR5.944m** / saldo **-EUR6.183m**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW cum BR **-EUR1.561m DEEP** / OCMW expl gap **~EUR0.506m** / OCMW hulp **EUR0.407m**
+- Dual: Herk-de-Stad budget NEG / cash DROP / OCMW FULL cover (tick1103) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Bornem / Halen / Riemst residual next; progress@1110 in 5
+- Wrote: budgets +49 (bud_wel_*); commitments +7; leaderboard +9; sources +1; entity city_wellen; FOI **gap_wel_budget_cash_fva_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1104=done; spawn **rq_1105**; ticks=1104
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1105** residual dual L5; deferred **rq_116**; progress@1110 in 5
