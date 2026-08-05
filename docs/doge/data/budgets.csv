@@ -23961,3 +23961,51 @@ bud_brl_fin_opbr_2025,city_berlare,2025,830444,,,realized,src_berlare_jr2025,str
 bud_brl_fin_costs_2025,city_berlare,2025,1025187,,,realized,src_berlare_jr2025,strong,Financiele kosten 1.03m; tick1006
 bud_brl_invest_subs_granted_2025,city_berlare,2025,155743,,,realized,src_berlare_jr2025,strong,Toegestane investeringssubsidies 0.156m (police 0.123 + eredienst 0.033); tick1006
 bud_brl_admin_invest_2025,city_berlare,2025,4604577,,,realized,src_berlare_jr2025,strong,Invest administratieve dienstverlening 4.60m large FOI residual; tick1006
+bud_wsm_assets_2025,city_waasmunster,2025,87862011,,,realized,src_waasmunster_jr2025,strong,Assets YE2025 87.86m (was 86.89m); tick1007
+bud_wsm_equity_2025,city_waasmunster,2025,48488257,,,realized,src_waasmunster_jr2025,strong,Nettoactief YE2025 48.49m (was 47.98m); tick1007
+bud_wsm_debt_total_2025,city_waasmunster,2025,39373754,,,realized,src_waasmunster_jr2025,strong,Total schulden YE2025 39.37m (was 38.92m); tick1007
+bud_wsm_fin_debt_2025,city_waasmunster,2025,31222088,,,realized,src_waasmunster_jr2025,strong,Fin debt total YE2025 31.22m DECLINING (was 31.93m) incl ST 1.00m; tick1007
+bud_wsm_fin_debt_lt_2025,city_waasmunster,2025,28456649,,,realized,src_waasmunster_jr2025,strong,Fin debt LT YE2025 28.46m; tick1007
+bud_wsm_fin_debt_st_due_2025,city_waasmunster,2025,1765439,,,realized,src_waasmunster_jr2025,strong,Fin debt ST due YE2025 1.77m; tick1007
+bud_wsm_fin_debt_st_2025,city_waasmunster,2025,1000000,,,realized,src_waasmunster_jr2025,strong,Fin debt ST (non-due) YE2025 1.00m NEW FOI residual; tick1007
+bud_wsm_new_loans_2025,city_waasmunster,2025,67056,,,realized,src_waasmunster_jr2025,strong,Nieuwe leningen 2025 0.067m lease only; tick1007
+bud_wsm_aflossingen_2025,city_waasmunster,2025,1774540,,,realized,src_waasmunster_jr2025,strong,Periodieke aflossingen 2025 1.77m; tick1007
+bud_wsm_cash_2025,city_waasmunster,2025,4978791,,,realized,src_waasmunster_jr2025,strong,Liquide middelen YE2025 4.98m DROP (was 5.30m FOI); tick1007
+bud_wsm_pension_2025,city_waasmunster,2025,4965606,,,realized,src_waasmunster_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.97m JUMP (was 4.07m FOI); tick1007
+bud_wsm_cap_subs_2025,city_waasmunster,2025,8903690,,,realized,src_waasmunster_jr2025,strong,Kapitaalsubsidies YE2025 8.90m; tick1007
+bud_wsm_fva_total_2025,city_waasmunster,2025,10576245,,,realized,src_waasmunster_jr2025,strong,FVA total YE2025 10.58m; tick1007
+bud_wsm_fva_igs_2025,city_waasmunster,2025,10138109,,,realized,src_waasmunster_jr2025,strong,FVA IGS YE2025 10.14m; tick1007
+bud_wsm_fva_ocmw_assoc_2025,city_waasmunster,2025,332154,,,realized,src_waasmunster_jr2025,strong,FVA OCMW-verenigingen YE2025 0.332m; tick1007
+bud_wsm_leasing_mva_2025,city_waasmunster,2025,4415520,,,realized,src_waasmunster_jr2025,strong,Leasing MVA YE2025 4.42m; tick1007
+bud_wsm_expl_rec_2025,city_waasmunster,2025,23820936,,,realized,src_waasmunster_jr2025,strong,Exploitatieontvangsten 23.82m; tick1007
+bud_wsm_expl_exp_2025,city_waasmunster,2025,20852164,,,realized,src_waasmunster_jr2025,strong,Exploitatieuitgaven 20.85m; tick1007
+bud_wsm_expl_saldo_2025,city_waasmunster,2025,2968772,,,realized,src_waasmunster_jr2025,strong,Exploitatiesaldo +2.97m STRONG; tick1007
+bud_wsm_invest_exp_2025,city_waasmunster,2025,4019977,,,realized,src_waasmunster_jr2025,strong,Investeringsuitgaven 4.02m vs MJP 7.82m UNDERSPEND FOI; tick1007
+bud_wsm_invest_rec_2025,city_waasmunster,2025,905807,,,realized,src_waasmunster_jr2025,strong,Investeringsontvangsten 0.906m; tick1007
+bud_wsm_invest_saldo_2025,city_waasmunster,2025,-3114170,,,realized,src_waasmunster_jr2025,strong,Investeringssaldo -3.11m; tick1007
+bud_wsm_mjp_invest_planned_2025,city_waasmunster,2025,7822254,,,realized,src_waasmunster_jr2025,strong,MJP invest planned 7.82m vs realized 4.02m underspend FOI; tick1007
+bud_wsm_afm_2025,city_waasmunster,2025,1286703,,,realized,src_waasmunster_jr2025,strong,AFM +1.29m; tick1007
+bud_wsm_afm_corr_2025,city_waasmunster,2025,506878,,,realized,src_waasmunster_jr2025,strong,Gecorrigeerde AFM +0.507m (much lower vs raw AFM FOI residual); tick1007
+bud_wsm_bbr_2025,city_waasmunster,2025,3676890,,,realized,src_waasmunster_jr2025,strong,BBR beschikbaar 3.68m; tick1007
+bud_wsm_budget_result_2025,city_waasmunster,2025,-1852882,,,realized,src_waasmunster_jr2025,strong,Budgettair resultaat -1.85m NEG FOI residual; tick1007
+bud_wsm_cum_br_2025,city_waasmunster,2025,3676890,,,realized,src_waasmunster_jr2025,strong,Gecumuleerd budgettair resultaat 3.68m; tick1007
+bud_wsm_pnl_2025,city_waasmunster,2025,-154651,,,realized,src_waasmunster_jr2025,strong,P&L -0.155m; tick1007
+bud_wsm_pnl_ge_2025,city_waasmunster,2025,1388728,,,realized,src_waasmunster_jr2025,strong,GE P&L +1.39m; tick1007
+bud_wsm_pnl_ocmw_2025,city_waasmunster,2025,-1543379,,,realized,src_waasmunster_jr2025,strong,OCMW P&L -1.54m FOI; tick1007
+bud_wsm_ocmw_cover_2025,city_waasmunster,2025,1300000,,,realized,src_waasmunster_jr2025,strong,OCMW cover 1.30m FULL-ish vs OCMW -1.54m FOI residual; tick1007
+bud_wsm_ocmw_cum_deficit_2025,city_waasmunster,2025,-2432277,,,realized,src_waasmunster_jr2025,strong,OCMW cum tekort YE2025 -2.43m WORSENING (was -2.19m); tick1007
+bud_wsm_personnel_2025,city_waasmunster,2025,10137695,,,realized,src_waasmunster_jr2025,strong,Bezoldigingen 10.14m; tick1007
+bud_wsm_toelagen_2025,city_waasmunster,2025,3234572,,,realized,src_waasmunster_jr2025,strong,Toegestane werkingssubsidies 3.23m; tick1007
+bud_wsm_toelagen_police_2025,city_waasmunster,2025,2076685,,,realized,src_waasmunster_jr2025,strong,Toelage politiezone 2.08m; tick1007
+bud_wsm_toelagen_fire_2025,city_waasmunster,2025,790316,,,realized,src_waasmunster_jr2025,strong,Toelage hulpverleningszone 0.790m; tick1007
+bud_wsm_toelagen_eredienst_2025,city_waasmunster,2025,107678,,,realized,src_waasmunster_jr2025,strong,Toelage eredienst 0.108m; tick1007
+bud_wsm_toelagen_other_2025,city_waasmunster,2025,259892,,,realized,src_waasmunster_jr2025,strong,Toelage andere begunstigden 0.260m FOI; tick1007
+bud_wsm_ocmw_aid_2025,city_waasmunster,2025,1331663,,,realized,src_waasmunster_jr2025,strong,OCMW individuele hulp 1.33m; tick1007
+bud_wsm_fiscal_2025,city_waasmunster,2025,13231761,,,realized,src_waasmunster_jr2025,strong,Fiscale opbrengsten 13.23m; tick1007
+bud_wsm_fiscal_ov_2025,city_waasmunster,2025,4882605,,,realized,src_waasmunster_jr2025,strong,Opcentiemen OV 4.88m; tick1007
+bud_wsm_fiscal_pb_2025,city_waasmunster,2025,6367961,,,realized,src_waasmunster_jr2025,strong,Aanvullende PB 6.37m JUMP (was 5.64m); tick1007
+bud_wsm_gemeentefonds_2025,city_waasmunster,2025,2939077,,,realized,src_waasmunster_jr2025,strong,Gemeentefonds 2.94m; tick1007
+bud_wsm_fin_opbr_2025,city_waasmunster,2025,528507,,,realized,src_waasmunster_jr2025,strong,Financiele opbrengsten 0.529m; tick1007
+bud_wsm_fin_costs_2025,city_waasmunster,2025,643367,,,realized,src_waasmunster_jr2025,strong,Financiele kosten 0.643m; tick1007
+bud_wsm_invest_subs_granted_2025,city_waasmunster,2025,278595,,,realized,src_waasmunster_jr2025,strong,Toegestane investeringssubsidies 0.279m FOI; tick1007
+bud_wsm_mjp_debt_jump_2026_2025,city_waasmunster,2025,34702423,,,realized,src_waasmunster_jr2025,strong,MJP planned fin debt YE2026 34.70m JUMP +new loans 6.27m FOI residual; tick1007
