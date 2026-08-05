@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T16:30:00Z,rq_887,887,no,tick887 Zutendaal JR2025 dual Wemmel; FOI gap_zut_pension_fva_toelagen_l5; next rq_888 residual dual L5; progress@890 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T17:00:00Z,rq_888,888,no,tick888 Baarle-Hertog JR2025 dual Zutendaal; FOI gap_bh_invest_subs_sales_l5; next rq_889 residual dual L5; progress@890 in 2; rq_116 deferred

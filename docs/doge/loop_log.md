@@ -11024,3 +11024,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (bud_zut_*); commitments +4; leaderboard +7; sources +2; entity city_zutendaal; FOI **gap_zut_pension_fva_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_887=done; spawn **rq_888**; ticks=887
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_888** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@890 in 3
+
+## Tick 888 - 2026-08-06T17:00:00Z
+
+- Unit: **rq_888** (FOI-adjacent residual dual - **Gemeente+OCMW Baarle-Hertog Jaarrekening 2025** enclave + Zutendaal dual)
+- Found (strong primary BBC JR2025 212p):
+  - Assets **EUR21.1m** / equity **EUR19.9m** / debt total **EUR1.25m** / fin debt **EUR0.29m** (LT **EUR0.26m** / ST due **EUR0.03m**)
+  - New loans **EUR0.03m** / pension **EUR4.9k** / cash **EUR6.7m** / FVA IGS **EUR1.7m**
+  - Exploitatie: ontvangsten **EUR5.9m** / uitgaven **EUR4.9m** / saldo **+EUR1.0m**
+  - AFM **+EUR1.0m** (gecorr **+EUR1.0m**) / BBR **EUR6.5m** / budget result **+EUR0.67m** / P&L **+EUR0.52m**
+  - Personnel **EUR2.2m** / toelagen **EUR0.56m** (police **EUR0.37m** / fire **EUR0.14m**) / fiscal **EUR3.0m**
+  - Invest **EUR0.75m** / invest-subs **EUR0.11m** (other **EUR0.06m**) / asset sales **EUR0.25m** / gemeentefonds **EUR1.2m**
+- Dual: Zutendaal **EUR67.1m** / AFM **+EUR3.0m** / pension+FVA reval (tick887) - not TE-additive
+- Wrote: budgets +37 (bud_bh_*); commitments +4; leaderboard +7; sources +2; entity city_baarle_hertog; FOI **gap_bh_invest_subs_sales_l5** prio6 ready + draft; raw PDF + key; rq_888=done; spawn **rq_889**; ticks=888
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_889** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@890 in 2

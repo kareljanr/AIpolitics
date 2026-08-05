@@ -19213,3 +19213,40 @@ bud_zut_fiscal_apb_2025,city_zutendaal,2025,3494051,,,jaarrekening_realized,src_
 bud_zut_gemeentefonds_2025,city_zutendaal,2025,2293101,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Gemeentefonds 2.293m 2025; tick887
 bud_zut_invest_subs_granted_2025,city_zutendaal,2025,44055,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Toegestane investeringssubsidies 0.044m 2025; tick887
 bud_zut_new_loans_2025,city_zutendaal,2025,99665,,,jaarrekening_realized,src_zutendaal_jr2025,strong,Nieuwe leningen/leasings 0.100m 2025; MJP fin rec path ~7.7m FOI; tick887
+bud_bh_assets_2025,city_baarle_hertog,2025,21135510,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Consol total assets YE2025 21.136m; tick888
+bud_bh_equity_2025,city_baarle_hertog,2025,19885739,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Nettoactief YE2025 19.886m; tick888
+bud_bh_debt_total_2025,city_baarle_hertog,2025,1249771,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Schulden total YE2025 1.250m; tick888
+bud_bh_fin_debt_2025,city_baarle_hertog,2025,289592,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Fin schulden total YE2025 0.290m (LT 0.259 + ST due 0.030); tick888
+bud_bh_fin_debt_lt_2025,city_baarle_hertog,2025,259429,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Fin schulden LT YE2025 0.259m; tick888
+bud_bh_fin_debt_st_2025,city_baarle_hertog,2025,30163,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.030m; tick888
+bud_bh_pension_prov_2025,city_baarle_hertog,2025,4906,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Pensioenvoorzieningen YE2025 4.906 (minimal stock); tick888
+bud_bh_cash_2025,city_baarle_hertog,2025,6734023,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Liquide middelen YE2025 6.734m; tick888
+bud_bh_cap_subs_2025,city_baarle_hertog,2025,3188936,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Kapitaalsubsidies YE2025 3.189m; tick888
+bud_bh_fva_igs_2025,city_baarle_hertog,2025,1724690,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Fin VA IGS YE2025 1.725m; tick888
+bud_bh_fva_total_2025,city_baarle_hertog,2025,1752004,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Fin VA total YE2025 1.752m; tick888
+bud_bh_cumul_budget_2025,city_baarle_hertog,2025,6543043,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 6.543m; tick888
+bud_bh_bbr_2025,city_baarle_hertog,2025,6543043,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Beschikbaar budgettair resultaat YE2025 6.543m; tick888
+bud_bh_expl_rec_2025,city_baarle_hertog,2025,5927039,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Exploitatieontvangsten 5.927m 2025; tick888
+bud_bh_expl_exp_2025,city_baarle_hertog,2025,4901038,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Exploitatieuitgaven 4.901m 2025; tick888
+bud_bh_expl_saldo_2025,city_baarle_hertog,2025,1026001,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Exploitatiesaldo +1.026m 2025; tick888
+bud_bh_invest_exp_2025,city_baarle_hertog,2025,746626,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Investeringsuitgaven 0.747m 2025; tick888
+bud_bh_invest_rec_2025,city_baarle_hertog,2025,304766,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Investeringsontvangsten 0.305m 2025; tick888
+bud_bh_invest_saldo_2025,city_baarle_hertog,2025,-441861,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Investeringssaldo -0.442m 2025; tick888
+bud_bh_fin_saldo_2025,city_baarle_hertog,2025,85772,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Financieringssaldo +0.086m 2025; tick888
+bud_bh_budget_result_2025,city_baarle_hertog,2025,669912,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Budgettair resultaat boekjaar +0.670m 2025; tick888
+bud_bh_afm_2025,city_baarle_hertog,2025,1006303,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Autofinancieringsmarge +1.006m 2025; tick888
+bud_bh_afm_gecorr_2025,city_baarle_hertog,2025,1012379,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Gecorrigeerde AFM +1.012m 2025; tick888
+bud_bh_pl_2025,city_baarle_hertog,2025,523478,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,P&L overschot +0.523m 2025; tick888
+bud_bh_personnel_2025,city_baarle_hertog,2025,2197911,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Bezoldigingen 2.198m 2025; tick888
+bud_bh_toelagen_2025,city_baarle_hertog,2025,560172,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Toegestane werkingssubsidies 0.560m 2025; tick888
+bud_bh_toelagen_police_2025,city_baarle_hertog,2025,370348,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Toelage politiezone 0.370m 2025; tick888
+bud_bh_toelagen_fire_2025,city_baarle_hertog,2025,140632,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Toelage hulpverleningszone 0.141m 2025; tick888
+bud_bh_toelagen_other_2025,city_baarle_hertog,2025,27183,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Toelagen andere begunstigden 0.027m 2025; tick888
+bud_bh_ocmw_aid_2025,city_baarle_hertog,2025,230164,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Individuele hulpverlening OCMW 0.230m 2025; tick888
+bud_bh_fiscal_2025,city_baarle_hertog,2025,3014224,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Fiscale opbrengsten 3.014m 2025; tick888
+bud_bh_fiscal_ov_2025,city_baarle_hertog,2025,1251041,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Opcentiemen OV 1.251m 2025; tick888
+bud_bh_fiscal_apb_2025,city_baarle_hertog,2025,1011470,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Aanvullende PB 1.011m 2025; tick888
+bud_bh_gemeentefonds_2025,city_baarle_hertog,2025,1221314,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Gemeentefonds 1.221m 2025; tick888
+bud_bh_invest_subs_granted_2025,city_baarle_hertog,2025,108628,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Toegestane investeringssubsidies 0.109m 2025 (other 0.060m FOI); tick888
+bud_bh_new_loans_2025,city_baarle_hertog,2025,25470,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Nieuwe leningen/leasings 0.025m 2025; tick888
+bud_bh_asset_sales_2025,city_baarle_hertog,2025,252056,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Verkoop MVA 0.252m 2025 FOI composition; tick888

@@ -1,0 +1,22 @@
+Baarle-Hertog JR2025 BBC consol
+Source: https://www.baarle-hertog.be/file/download/a53ff28e-585f-4065-94fc-519bc184600c/ynKEoROu3cK1KY4u60xqgYpvCi81iH4y4vQljdQJWQk3d
+212p; Parallelweg 1 2387 Baarle-Hertog; BE 0207.509.427 / 0212.237.285
+tick888
+
+Assets 21135510 / Equity 19885739 / Debt total 1249771
+Cash 6734023 / Cap subs 3188936
+Fin debt 289592 (LT 259429 + ST due 30163)
+New loans/leasings 25470
+Pension 4906
+FVA IGS 1724690 / FVA total 1752004
+Expl rec 5927039 / exp 4901038 / saldo 1026001
+AFM 1006303 / gecorr 1012379
+BBR 6543043 / cumul 6543043
+Budget result 669912 / P&L 523478
+Personnel 2197911
+Toelagen 560172 (police 370348 fire 140632 other 27183)
+OCMW aid 230164
+Fiscal 3014224 (OV 1251041 APB 1011470)
+Gemeentefonds 1221314
+Invest exp 746626 / invest-subs 108628 (other 60000)
+Asset sales MVA 252056
