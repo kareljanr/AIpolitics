@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-10T10:15:00Z,rq_1042,1042,no,tick1042 Boom GE+OCMW JR2025 dual residual; FOI gap_boom_ocmw_pension_cash_agb_l5 prio9 ready; assets 85.28m cash 0.619m VERY LOW fin debt 37.23m pension 21.41m OCMW cover 4.01m FULL AGB AFM -5.40m BBR -4.72m personnel 29.01m; next residual dual L5 rq_1043; progress@1050; rq_116 deferred
+main,continuous,hole_fill,2026-08-10T10:45:00Z,rq_1043,1043,no,tick1043 Hemiksem GE+OCMW JR2025 dual residual; FOI gap_hem_ocmw_vl_subs_debt_l5 prio9 ready; assets 79.27m cash 17.00m HIGH fin debt 0.982m JUMP AFM +3.60m BBR 17.31m OCMW cover 0 ZERO cum -1.86m VL subs JUMP 5.62m; next residual dual L5 rq_1044; progress@1050; rq_116 deferred

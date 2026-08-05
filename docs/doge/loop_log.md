@@ -13801,3 +13801,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1043** residual dual L5 (Hulshout / Torhout full BBC / Stekene if PDF / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1050 in 8
 
+
+
+### Tick 1043 - 2026-08-10T10:45:00Z
+
+- Unit: **rq_1043** (FOI-adjacent residual dual - **Gemeente+OCMW Hemiksem Jaarrekening 2025** + Boom dual residual)
+- Found (strong primary BBC JR2025 141p portal; KBO 0207.506.160 / OCMW 0212.217.390; Sint-Bernardusabdij 1; AD Dominique Buytaert FD Danny Maes; pub 20.05.2026):
+  - Assets **EUR79.27m JUMP** / equity **EUR64.09m JUMP** / debt total **EUR15.18m** / fin debt **EUR0.982m JUMP +78pct FOI** (was **EUR0.551m**; LT **EUR0.903m** / ST due **EUR0.079m**)
+  - New loans **EUR0.501m JUMP** / repayments **EUR0.069m LOW**
+  - Cash **EUR17.00m HIGH** slight DROP (was **EUR18.01m**) / pension **EUR10.16m DROP FOI** (was **EUR11.16m**) / FVA IGS **EUR12.24m** / leasing MVA **EUR3.57m**
+  - Exploitatie: ontvangsten **EUR30.14m** / uitgaven **EUR26.48m** / saldo **+EUR3.67m STRONG**
+  - AFM **+EUR3.60m STRONG** (gecorr **+EUR3.62m**) / BBR **EUR17.31m** (onbeschikbaar **EUR4.35m**) / budget **+EUR1.49m** / cum BR **EUR21.67m** / P&L **+EUR2.64m flip**
+  - Personnel **EUR16.51m JUMP +7pct** / toelagen **EUR2.46m FOI** (police **EUR1.12m** / fire **EUR0.557m** / IGS **EUR0.611m** / other **EUR0.168m**)
+  - **Werkingssubsidies received EUR12.45m JUMP +50pct FOI** (VL specific **EUR5.62m JUMP** was **EUR1.62m**)
+  - Invest **EUR4.22m** / invest-subs granted **EUR0.173m**
+  - **OCMW cover EUR0 ZERO FOI** / OCMW gap ca. **EUR-0.70m** / OCMW P&L **EUR-1.43m** / OCMW cum equity **EUR-1.86m WORSENING** (was **EUR-0.43m**)
+- Dual: Boom assets **EUR85.28m** / cash **EUR0.619m VERY LOW** / OCMW cover **EUR4.01m** / AGB AFM **EUR-5.40m** (tick1042) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 in 7
+- Wrote: budgets +46 (bud_hem_*); commitments +6; leaderboard +8; sources +1; entity city_hemiksem; FOI **gap_hem_ocmw_vl_subs_debt_l5** prio9 ready + draft; key only (PDF ~3.1MB not stored in git); rq_1043=done; spawn **rq_1044**; ticks=1043
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1044** residual dual L5; deferred **rq_116**; progress@1050 in 7
+

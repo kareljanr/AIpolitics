@@ -25940,3 +25940,49 @@ bud_boom_agb_afm_2025,city_boom,2025,-5404111,,,bbc_jr_realized,src_boom_jr2025,
 bud_boom_consol_bbr_2025,city_boom,2025,-1191759,,,bbc_jr_realized,src_boom_jr2025,strong,Geconsolideerd BBR GE+OCMW+AGB 2025 -1.19m NEG FOI; tick1042
 bud_boom_consol_afm_2025,city_boom,2025,-2376210,,,bbc_jr_realized,src_boom_jr2025,strong,Geconsolideerd AFM 2025 -2.38m NEG FOI; tick1042
 bud_boom_debt_per_capita_2025,city_boom,2025,1864,,,bbc_jr_realized,src_boom_jr2025,strong,Openstaande schuld per inwoner YE2025 EUR1864 (kengetallen); tick1042
+bud_hem_assets_2025,city_hemiksem,2025,79265521,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Assets YE2025 79.27m JUMP (was 76.72m); tick1043
+bud_hem_equity_2025,city_hemiksem,2025,64085244,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Nettoactief YE2025 64.09m JUMP (was 60.83m); tick1043
+bud_hem_debt_total_2025,city_hemiksem,2025,15180278,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Total schulden YE2025 15.18m DECLINE (was 15.89m); tick1043
+bud_hem_fin_debt_2025,city_hemiksem,2025,982444,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Fin debt total YE2025 0.982m JUMP +78pct FOI (was 0.551m T4); tick1043
+bud_hem_fin_debt_lt_2025,city_hemiksem,2025,903478,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Fin debt LT YE2025 0.903m JUMP; tick1043
+bud_hem_fin_debt_st_due_2025,city_hemiksem,2025,78967,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Fin debt ST due YE2025 0.079m; tick1043
+bud_hem_new_loans_2025,city_hemiksem,2025,500639,,,bbc_jr_realized,src_hemiksem_jr2025,strong,New loans/leases 2025 0.501m JUMP FOI; tick1043
+bud_hem_repayments_2025,city_hemiksem,2025,69254,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Repayments 2025 0.069m LOW; tick1043
+bud_hem_cash_2025,city_hemiksem,2025,17004732,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Liquide middelen YE2025 17.00m HIGH DROP (was 18.01m); tick1043
+bud_hem_pension_prov_2025,city_hemiksem,2025,10159086,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Pensioenvoorzieningen LT YE2025 10.16m DROP FOI (was 11.16m); tick1043
+bud_hem_fva_total_2025,city_hemiksem,2025,12283576,,,bbc_jr_realized,src_hemiksem_jr2025,strong,FVA total YE2025 12.28m; tick1043
+bud_hem_fva_igs_2025,city_hemiksem,2025,12239017,,,bbc_jr_realized,src_hemiksem_jr2025,strong,FVA IGS YE2025 12.24m FOI; tick1043
+bud_hem_leasing_mva_2025,city_hemiksem,2025,3571368,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Leasing MVA YE2025 3.57m (gemeenschap 1.03 + bedrijfs 2.54); tick1043
+bud_hem_expl_ontvangsten_2025,city_hemiksem,2025,30143983,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Exploitatie ontvangsten 2025 30.14m; tick1043
+bud_hem_expl_uitgaven_2025,city_hemiksem,2025,26478538,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Exploitatie uitgaven 2025 26.48m; tick1043
+bud_hem_expl_saldo_2025,city_hemiksem,2025,3665445,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Exploitatiesaldo 2025 +3.67m STRONG; tick1043
+bud_hem_invest_spend_2025,city_hemiksem,2025,4216751,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Invest uitgaven 2025 4.22m vs MJP 3.28m OVERSPEND path; tick1043
+bud_hem_invest_rec_2025,city_hemiksem,2025,1611912,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Invest ontvangsten 2025 1.61m; tick1043
+bud_hem_invest_saldo_2025,city_hemiksem,2025,-2604839,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Investeringssaldo 2025 -2.60m; tick1043
+bud_hem_fin_saldo_2025,city_hemiksem,2025,431385,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Financieringssaldo 2025 +0.431m; tick1043
+bud_hem_afm_2025,city_hemiksem,2025,3596191,,,bbc_jr_realized,src_hemiksem_jr2025,strong,AFM 2025 +3.60m STRONG; tick1043
+bud_hem_afm_gecorr_2025,city_hemiksem,2025,3621358,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Gecorrigeerde AFM 2025 +3.62m; tick1043
+bud_hem_bbr_2025,city_hemiksem,2025,17314751,,,bbc_jr_realized,src_hemiksem_jr2025,strong,BBR YE2025 17.31m (onbeschikbaar 4.35m); tick1043
+bud_hem_budget_result_2025,city_hemiksem,2025,1491990,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Budgettair resultaat boekjaar 2025 +1.49m STRONG; tick1043
+bud_hem_cum_budget_2025,city_hemiksem,2025,21669103,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Gecumuleerd BR YE2025 21.67m; tick1043
+bud_hem_onbeschikbaar_2025,city_hemiksem,2025,4354352,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Onbeschikbare gelden YE2025 4.35m FOI; tick1043
+bud_hem_pnl_2025,city_hemiksem,2025,2635179,,,bbc_jr_realized,src_hemiksem_jr2025,strong,P&L overschot 2025 +2.64m flip (was -2.83m); tick1043
+bud_hem_personnel_2025,city_hemiksem,2025,16506535,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Personnel 2025 16.51m JUMP +7pct FOI; tick1043
+bud_hem_toelagen_2025,city_hemiksem,2025,2458843,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Toegestane werkingssubsidies 2025 2.46m FOI; tick1043
+bud_hem_police_toelage_2025,city_hemiksem,2025,1115100,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Politiezone toelage 2025 1.12m; tick1043
+bud_hem_fire_toelage_2025,city_hemiksem,2025,556548,,,bbc_jr_realized,src_hemiksem_jr2025,strong,HVZ toelage 2025 0.557m; tick1043
+bud_hem_igs_toelage_2025,city_hemiksem,2025,611043,,,bbc_jr_realized,src_hemiksem_jr2025,strong,IGS toelage 2025 0.611m FOI; tick1043
+bud_hem_other_toelage_2025,city_hemiksem,2025,168492,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Andere toelagen 2025 0.168m FOI; tick1043
+bud_hem_invest_subs_granted_2025,city_hemiksem,2025,173182,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Toegestane invest-subs 2025 0.173m; tick1043
+bud_hem_werkingssubsidies_rec_2025,city_hemiksem,2025,12453344,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Werkingssubsidies received 2025 12.45m JUMP +50pct FOI; tick1043
+bud_hem_werkingssubsidies_vl_spec_2025,city_hemiksem,2025,5621586,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Specifieke werkingssubsidies VL 2025 5.62m JUMP HIGH FOI (was 1.62m); tick1043
+bud_hem_ocmw_cover_2025,city_hemiksem,2025,0,,,bbc_jr_realized,src_hemiksem_jr2025,strong,OCMW cover tussenkomst 2025 0 ZERO FOI; tick1043
+bud_hem_ocmw_expl_gap_2025,city_hemiksem,2025,-697812,,,bbc_jr_realized,src_hemiksem_jr2025,strong,OCMW expl saldo 2025 ~-0.698m (uit 8.97 - ont 8.28); tick1043
+bud_hem_ocmw_expl_ont_2025,city_hemiksem,2025,8276879,,,bbc_jr_realized,src_hemiksem_jr2025,strong,OCMW expl ontvangsten 2025 8.28m; tick1043
+bud_hem_ocmw_expl_uit_2025,city_hemiksem,2025,8974691,,,bbc_jr_realized,src_hemiksem_jr2025,strong,OCMW expl uitgaven 2025 8.97m; tick1043
+bud_hem_ocmw_pnl_2025,city_hemiksem,2025,-1431823,,,bbc_jr_realized,src_hemiksem_jr2025,strong,OCMW P&L 2025 -1.43m HIGH FOI; tick1043
+bud_hem_ocmw_cum_equity_2025,city_hemiksem,2025,-1862538,,,bbc_jr_realized,src_hemiksem_jr2025,strong,OCMW cum equity YE2025 -1.86m WORSENING FOI (was -0.431m); tick1043
+bud_hem_fiscal_2025,city_hemiksem,2025,10920718,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Fiscale opbrengsten en boetes 2025 10.92m; tick1043
+bud_hem_gemeentefonds_2025,city_hemiksem,2025,3363469,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Gemeentefonds 2025 3.36m; tick1043
+bud_hem_goederen_diensten_2025,city_hemiksem,2025,6106363,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Goederen en diensten 2025 6.11m JUMP +11pct; tick1043
+bud_hem_ocmw_aid_2025,city_hemiksem,2025,1288130,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Individuele hulpverlening OCMW 2025 1.29m; tick1043
