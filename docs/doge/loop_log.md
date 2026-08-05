@@ -10963,3 +10963,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_bkz_*); commitments +4; leaderboard +7; sources +2; entity city_bkz; FOI **gap_bkz_loans_toelagen_pension_l5** prio7 ready + draft; raw PDF + key; rq_883=done; spawn **rq_884**; ticks=883
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_884** residual dual L5 (Roeselare/Lier portal/Sint-Truiden/Mortsel/VUB/skeyes); deferred **rq_116**; progress@890 in 7
+
+## Tick 884 - 2026-08-06T15:00:00Z
+
+- Unit: **rq_884** (FOI-adjacent residual dual - **Stad+OCMW Sint-Truiden Jaarrekening 2025** + BKZ dual)
+- Found (strong primary BBC JR2025 257p):
+  - Assets **EUR303.4m** / equity **EUR173.0m** / debt total **EUR130.4m** / fin debt **EUR83.7m** declining (LT **EUR76.4m** / ST due **EUR7.3m**; was **EUR92.9m**)
+  - **New loans/leasings EUR3.1m** / pension **EUR34.1m** (was **EUR39.7m**) / cash **EUR12.5m** / FVA IGS **EUR103.7m** (was **EUR56.1m**) / herwaard **EUR47.6m**
+  - Exploitatie: ontvangsten **EUR93.0m** / uitgaven **EUR80.9m** / saldo **+EUR12.1m**
+  - AFM **+EUR5.3m** (gecorr **+EUR5.1m**) / BBR **EUR18.0m** / budget result **+EUR3.8m** / P&L **+EUR14.1m**
+  - Personnel **EUR39.4m** / toelagen **EUR18.1m** (police **EUR5.9m** / fire **EUR2.2m** / other **EUR5.2m**) / fiscal **EUR43.4m**
+  - Invest **EUR10.8m** / invest-subs **EUR0.57m** / gemeentefonds **EUR18.1m** / OCMW deficit cover **EUR1.45m**
+  - Consol AGB AFM drag: AGOST/TRUPARK negative
+- Dual: BKZ **EUR815.4m** / AFM **+EUR25.4m** / new loans **EUR13.3m** (tick883) - not TE-additive
+- Wrote: budgets +41 (bud_stt_*); commitments +4; leaderboard +7; sources +2; entity city_sint_truiden; FOI **gap_stt_fva_toelagen_loans_l5** prio7 ready + draft; raw PDF + key; rq_884=done; spawn **rq_885**; ticks=884
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_885** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@890 in 6

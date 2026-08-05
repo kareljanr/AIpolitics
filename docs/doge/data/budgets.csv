@@ -19057,3 +19057,44 @@ bud_bkz_fiscal_apb_2025,city_bkz,2025,28764767,,,jaarrekening_realized,src_bkz_j
 bud_bkz_gemeentefonds_2025,city_bkz,2025,23653219,,,jaarrekening_realized,src_bkz_jr2025,strong,Gemeentefonds 23.653m 2025; tick883
 bud_bkz_invest_subs_granted_2025,city_bkz,2025,1395763,,,jaarrekening_realized,src_bkz_jr2025,strong,Toegestane investeringssubsidies 1.396m 2025; tick883
 bud_bkz_new_loans_2025,city_bkz,2025,13254320,,,jaarrekening_realized,src_bkz_jr2025,strong,Nieuwe leningen/leasings 13.254m 2025 (loans 13.0m + lease 0.254m) FOI-adjacent; tick883
+bud_stt_assets_2025,city_sint_truiden,2025,303363680,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Consol total assets YE2025 303.364m; tick884
+bud_stt_equity_2025,city_sint_truiden,2025,172950816,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Nettoactief YE2025 172.951m; tick884
+bud_stt_debt_total_2025,city_sint_truiden,2025,130412864,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Schulden total YE2025 130.413m; tick884
+bud_stt_fin_debt_2025,city_sint_truiden,2025,83746697,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Fin schulden total YE2025 83.747m (LT 76.433 + ST due 7.314); tick884
+bud_stt_fin_debt_lt_2025,city_sint_truiden,2025,76432961,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Fin schulden LT YE2025 76.433m (was 80.627m declining); tick884
+bud_stt_fin_debt_st_2025,city_sint_truiden,2025,7313735,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Fin schulden LT binnen jaar YE2025 7.314m; tick884
+bud_stt_pension_prov_2025,city_sint_truiden,2025,34077050,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Pensioenvoorzieningen YE2025 34.077m (was 39.714m declining); tick884
+bud_stt_cash_2025,city_sint_truiden,2025,12492792,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Liquide middelen YE2025 12.493m; tick884
+bud_stt_cap_subs_2025,city_sint_truiden,2025,21708399,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Kapitaalsubsidies YE2025 21.708m; tick884
+bud_stt_fva_igs_2025,city_sint_truiden,2025,103726023,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Fin VA IGS YE2025 103.726m (was 56.145m reval FOI); tick884
+bud_stt_fva_total_2025,city_sint_truiden,2025,130167294,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Fin VA total YE2025 130.167m; tick884
+bud_stt_herwaard_2025,city_sint_truiden,2025,47604811,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Herwaarderingsreserves YE2025 47.605m (was 0.024m); tick884
+bud_stt_cumul_budget_2025,city_sint_truiden,2025,18247647,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 18.248m; tick884
+bud_stt_bbr_2025,city_sint_truiden,2025,17984771,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Beschikbaar budgettair resultaat YE2025 17.985m; tick884
+bud_stt_expl_rec_2025,city_sint_truiden,2025,93022949,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Exploitatieontvangsten 93.023m 2025; tick884
+bud_stt_expl_exp_2025,city_sint_truiden,2025,80876258,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Exploitatieuitgaven 80.876m 2025; tick884
+bud_stt_expl_saldo_2025,city_sint_truiden,2025,12146690,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Exploitatiesaldo +12.147m 2025; tick884
+bud_stt_invest_exp_2025,city_sint_truiden,2025,10786968,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Investeringsuitgaven 10.787m 2025; tick884
+bud_stt_invest_rec_2025,city_sint_truiden,2025,6162953,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Investeringsontvangsten 6.163m 2025; tick884
+bud_stt_invest_saldo_2025,city_sint_truiden,2025,-4624015,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Investeringssaldo -4.624m 2025; tick884
+bud_stt_fin_saldo_2025,city_sint_truiden,2025,-3764567,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Financieringssaldo -3.765m 2025; tick884
+bud_stt_budget_result_2025,city_sint_truiden,2025,3758108,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Budgettair resultaat boekjaar +3.758m 2025; tick884
+bud_stt_afm_2025,city_sint_truiden,2025,5260815,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Autofinancieringsmarge +5.261m 2025; tick884
+bud_stt_afm_gecorr_2025,city_sint_truiden,2025,5113789,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Gecorrigeerde AFM +5.114m 2025; tick884
+bud_stt_pl_2025,city_sint_truiden,2025,14071994,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,P&L overschot +14.072m 2025; tick884
+bud_stt_personnel_2025,city_sint_truiden,2025,39375529,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Bezoldigingen 39.376m 2025 (incl onderwijs other ~4.494m); tick884
+bud_stt_personnel_onderwijs_other_2025,city_sint_truiden,2025,4494447,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Onderwijzend personeel ten laste van andere ~4.494m 2025; tick884
+bud_stt_toelagen_2025,city_sint_truiden,2025,18098991,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toegestane werkingssubsidies 18.099m 2025; tick884
+bud_stt_toelagen_police_2025,city_sint_truiden,2025,5867610,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toelage politiezone 5.868m 2025; tick884
+bud_stt_toelagen_fire_2025,city_sint_truiden,2025,2162890,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toelage hulpverleningszone 2.163m 2025; tick884
+bud_stt_toelagen_agb_2025,city_sint_truiden,2025,1212527,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toelage eigen AGB 1.213m 2025; tick884
+bud_stt_toelagen_welzijn_2025,city_sint_truiden,2025,3183755,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toelage welzijnsverenigingen 3.184m 2025; tick884
+bud_stt_toelagen_other_2025,city_sint_truiden,2025,5192254,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toelagen andere begunstigden 5.192m 2025 FOI; tick884
+bud_stt_ocmw_aid_2025,city_sint_truiden,2025,5812173,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Individuele hulpverlening OCMW 5.812m 2025; tick884
+bud_stt_fiscal_2025,city_sint_truiden,2025,43438162,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Fiscale opbrengsten 43.438m 2025; tick884
+bud_stt_fiscal_ov_2025,city_sint_truiden,2025,19538203,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Opcentiemen OV 19.538m 2025; tick884
+bud_stt_fiscal_apb_2025,city_sint_truiden,2025,17705409,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Aanvullende PB 17.705m 2025; tick884
+bud_stt_gemeentefonds_2025,city_sint_truiden,2025,18092027,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Gemeentefonds 18.092m 2025; tick884
+bud_stt_invest_subs_granted_2025,city_sint_truiden,2025,569004,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Toegestane investeringssubsidies 0.569m 2025; tick884
+bud_stt_new_loans_2025,city_sint_truiden,2025,3121309,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Nieuwe leningen/leasings 3.121m 2025 FOI-adjacent; tick884
+bud_stt_ocmw_deficit_cover_2025,city_sint_truiden,2025,1450708,,,jaarrekening_realized,src_sint_truiden_jr2025,strong,Tussenkomst tekort OCMW 1.451m 2025; tick884
