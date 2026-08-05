@@ -10679,3 +10679,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41; commitments +4; leaderboard +7; sources +2; entity city_poperinge; FOI **gap_poperinge_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_864=done; spawn **rq_865**; ticks=864
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_865** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/VUB/skeyes); deferred **rq_116**; progress@870 in 6
+
+## Tick 865 - 2026-08-06T05:30:00Z
+
+- Unit: **rq_865** (FOI-adjacent residual dual - **Stad+OCMW Lokeren Jaarrekening 2025** + Poperinge dual)
+- Found (strong primary BBC JR2025 368p, GR 29.06.2026 pub 29.06.2026):
+  - Assets **EUR382.0m** / equity **EUR300.5m** / debt total **EUR81.5m** / fin debt **EUR17.2m** (LT **EUR15.9m** / ST due **EUR1.2m**)
+  - Pension **EUR44.9m** / cash **EUR37.1m** (was **EUR50.4m**) / cap subs **EUR53.8m** / FVA IGS **EUR36.8m** / OCMW-ver **EUR14.7m**
+  - Exploitatie: ontvangsten **EUR105.8m** / uitgaven **EUR96.3m** / saldo **+EUR9.5m**
+  - AFM **+EUR8.4m** (gecorr **+EUR7.7m**) / BBR **EUR45.1m** / budget result **-EUR12.7m** / P&L **+EUR2.7m**
+  - Personnel **EUR50.5m** (onderwijs other-gov **EUR11.2m**) / toelagen **EUR18.3m** (police **EUR7.9m** / IGS **EUR5.3m** / other **EUR2.0m** / fire **EUR1.4m** / welzijn **EUR1.4m**) / OCMW aid **EUR6.3m** / fiscal **EUR42.6m**
+  - Invest **EUR31.0m** / building sales **EUR20.8m** / new loans **EUR1.2m** / **AGB loans granted EUR16.7m** / gemeentefonds **EUR20.7m**
+- Dual: Poperinge **EUR188m** / fin debt **EUR46m** / AFM **+EUR2.0m** (tick864) - not TE-additive
+- Wrote: budgets +44; commitments +4; leaderboard +7; sources +2; entity city_lokeren; FOI **gap_lokeren_agb_loans_l5** prio8 ready + draft; raw PDF+extract; rq_865=done; spawn **rq_866**; ticks=865
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_866** residual dual L5 (Roeselare/Lier/Sint-Truiden/Diest/Beveren/VUB/skeyes); deferred **rq_116**; progress@870 in 5

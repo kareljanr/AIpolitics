@@ -18375,3 +18375,47 @@ bud_po_new_loans_2025,city_poperinge,2025,3687100,,,outturn,src_poperinge_jr2025
 bud_po_pl_costs_2025,city_poperinge,2025,53946893,,,outturn,src_poperinge_jr2025,strong,Staat kosten total 53.947m 2025; tick864
 bud_po_pl_opbrengsten_2025,city_poperinge,2025,55371007,,,outturn,src_poperinge_jr2025,strong,Staat opbrengsten total 55.371m 2025; tick864
 bud_po_pl_result_2025,city_poperinge,2025,1424114,,,outturn,src_poperinge_jr2025,strong,Boekhoudkundig overschot +1.424m 2025; tick864
+bud_lo_assets_2025,city_lokeren,2025,382021763,,,stock,src_lokeren_jr2025,strong,Consol stad+OCMW total assets YE2025 382.022m; tick865
+bud_lo_equity_2025,city_lokeren,2025,300541670,,,stock,src_lokeren_jr2025,strong,Nettoactief YE2025 300.542m; tick865
+bud_lo_debt_total_2025,city_lokeren,2025,81480093,,,stock,src_lokeren_jr2025,strong,Schulden total YE2025 81.480m; tick865
+bud_lo_fin_debt_2025,city_lokeren,2025,17155867,,,stock,src_lokeren_jr2025,strong,Financiele schulden total YE2025 17.156m (LT 15.929 + ST due 1.226); tick865
+bud_lo_fin_debt_lt_2025,city_lokeren,2025,15929400,,,stock,src_lokeren_jr2025,strong,Financiele schulden LT YE2025 15.929m; tick865
+bud_lo_fin_debt_st_2025,city_lokeren,2025,1226467,,,stock,src_lokeren_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.226m; tick865
+bud_lo_pension_prov_2025,city_lokeren,2025,44851739,,,stock,src_lokeren_jr2025,strong,Pensioenvoorzieningen YE2025 44.852m; tick865
+bud_lo_cash_2025,city_lokeren,2025,37089418,,,stock,src_lokeren_jr2025,strong,Liquide middelen YE2025 37.089m (was 50.371m); tick865
+bud_lo_cap_subs_2025,city_lokeren,2025,53764788,,,stock,src_lokeren_jr2025,strong,Kapitaalsubsidies YE2025 53.765m; tick865
+bud_lo_fva_igs_2025,city_lokeren,2025,36843807,,,stock,src_lokeren_jr2025,strong,Fin VA IGS YE2025 36.844m; tick865
+bud_lo_fva_ocmw_ver_2025,city_lokeren,2025,14681633,,,stock,src_lokeren_jr2025,strong,Fin VA OCMW-verenigingen YE2025 14.682m; tick865
+bud_lo_onbeschikbaar_2025,city_lokeren,2025,0,,,stock,src_lokeren_jr2025,strong,Onbeschikbare gelden YE2025 0; tick865
+bud_lo_cumul_surplus_2025,city_lokeren,2025,64448693,,,stock,src_lokeren_jr2025,strong,Gecumuleerd overschot YE2025 64.449m; tick865
+bud_lo_expl_rec_2025,city_lokeren,2025,105823027,,,outturn,src_lokeren_jr2025,strong,Exploitatieontvangsten 105.823m 2025; tick865
+bud_lo_expl_exp_2025,city_lokeren,2025,96307700,,,outturn,src_lokeren_jr2025,strong,Exploitatieuitgaven 96.308m 2025; tick865
+bud_lo_expl_saldo_2025,city_lokeren,2025,9515327,,,outturn,src_lokeren_jr2025,strong,Exploitatiesaldo +9.515m 2025; tick865
+bud_lo_invest_exp_2025,city_lokeren,2025,30995834,,,outturn,src_lokeren_jr2025,strong,Investeringsuitgaven 30.996m 2025; tick865
+bud_lo_invest_rec_2025,city_lokeren,2025,25267714,,,outturn,src_lokeren_jr2025,strong,Investeringsontvangsten 25.268m 2025 (incl gebouwverkoop 20.8m); tick865
+bud_lo_invest_saldo_2025,city_lokeren,2025,-5728120,,,outturn,src_lokeren_jr2025,strong,Investeringssaldo -5.728m 2025; tick865
+bud_lo_fin_rec_2025,city_lokeren,2025,714368,,,outturn,src_lokeren_jr2025,strong,Financieringsontvangsten 0.714m 2025; tick865
+bud_lo_fin_exp_2025,city_lokeren,2025,17237741,,,outturn,src_lokeren_jr2025,strong,Financieringsuitgaven 17.238m 2025 (incl AGB loans 16.7m); tick865
+bud_lo_fin_saldo_2025,city_lokeren,2025,-16523373,,,outturn,src_lokeren_jr2025,strong,Financieringssaldo -16.523m 2025; tick865
+bud_lo_budget_result_2025,city_lokeren,2025,-12736165,,,outturn,src_lokeren_jr2025,strong,Budgettair resultaat boekjaar -12.736m 2025; tick865
+bud_lo_bbr_2025,city_lokeren,2025,45115421,,,outturn,src_lokeren_jr2025,strong,Beschikbaar budgettair resultaat 45.115m YE2025; tick865
+bud_lo_afm_2025,city_lokeren,2025,8420934,,,outturn,src_lokeren_jr2025,strong,Autofinancieringsmarge AFM +8.421m 2025; tick865
+bud_lo_afm_corr_2025,city_lokeren,2025,7673506,,,outturn,src_lokeren_jr2025,strong,Gecorrigeerde AFM +7.674m 2025; tick865
+bud_lo_personnel_2025,city_lokeren,2025,50507255,,,outturn,src_lokeren_jr2025,strong,Personeelsuitgaven/bezold 50.507m 2025 (incl onderwijs other-gov 11.166m); tick865
+bud_lo_personnel_onderwijs_other_2025,city_lokeren,2025,11166382,,,outturn,src_lokeren_jr2025,strong,Onderwijzend personeel ten laste andere overheden 11.166m 2025; tick865
+bud_lo_goederen_diensten_2025,city_lokeren,2025,19568573,,,outturn,src_lokeren_jr2025,strong,Goederen en diensten 19.569m 2025; tick865
+bud_lo_toelagen_2025,city_lokeren,2025,18340411,,,outturn,src_lokeren_jr2025,strong,Toegestane werkingssubsidies 18.340m 2025; tick865
+bud_lo_toelagen_police_2025,city_lokeren,2025,7895000,,,outturn,src_lokeren_jr2025,strong,Toelage politiezone 7.895m 2025; tick865
+bud_lo_toelagen_fire_2025,city_lokeren,2025,1394935,,,outturn,src_lokeren_jr2025,strong,Toelage hulpverleningszone 1.395m 2025; tick865
+bud_lo_toelagen_igs_2025,city_lokeren,2025,5298177,,,outturn,src_lokeren_jr2025,strong,Toelage IGS 5.298m 2025; tick865
+bud_lo_toelagen_welzijn_2025,city_lokeren,2025,1432100,,,outturn,src_lokeren_jr2025,strong,Toelage welzijnsverenigingen 1.432m 2025; tick865
+bud_lo_toelagen_other_2025,city_lokeren,2025,2023582,,,outturn,src_lokeren_jr2025,strong,Toelagen andere begunstigden 2.024m 2025 FOI-adjacent; tick865
+bud_lo_ocmw_aid_2025,city_lokeren,2025,6342968,,,outturn,src_lokeren_jr2025,strong,OCMW individuele hulpverlening 6.343m 2025; tick865
+bud_lo_fiscal_2025,city_lokeren,2025,42588956,,,outturn,src_lokeren_jr2025,strong,Fiscale ontvangsten en boetes 42.589m 2025; tick865
+bud_lo_gemeentefonds_2025,city_lokeren,2025,20686857,,,outturn,src_lokeren_jr2025,strong,Gemeentefonds 20.687m 2025; tick865
+bud_lo_new_loans_2025,city_lokeren,2025,1236927,,,outturn,src_lokeren_jr2025,strong,Nieuwe financiele schulden 1.237m 2025 (other entities not banks); tick865
+bud_lo_loans_to_agb_2025,city_lokeren,2025,16721826,,,outturn,src_lokeren_jr2025,strong,Toegestane leningen aan AGB 16.722m 2025 FOI-adjacent; tick865
+bud_lo_building_sales_2025,city_lokeren,2025,20785981,,,outturn,src_lokeren_jr2025,strong,Verkoop terreinen/gebouwen 20.786m 2025; tick865
+bud_lo_pl_costs_2025,city_lokeren,2025,105660375,,,outturn,src_lokeren_jr2025,strong,Staat kosten total 105.660m 2025; tick865
+bud_lo_pl_opbrengsten_2025,city_lokeren,2025,108406663,,,outturn,src_lokeren_jr2025,strong,Staat opbrengsten total 108.407m 2025; tick865
+bud_lo_pl_result_2025,city_lokeren,2025,2746288,,,outturn,src_lokeren_jr2025,strong,Boekhoudkundig overschot +2.746m 2025; tick865

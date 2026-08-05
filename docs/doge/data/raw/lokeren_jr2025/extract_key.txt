@@ -1,0 +1,1272 @@
+=== p54 ===
+ 
+p. 53 – 366 
+Lokeren 
+  
+  
+  
+J2 : Staat van het financieel evenwicht 
+  
+  
+  
+  
+  
+  
+  
+Budgettair resultaat 
+  
+Jaarrekening 
+Meerjarenplan 
+I. Exploitatiesaldo 
+(a-b) 
+9.515.327 
+5.768.305 
+   a. Ontvangsten 
+  
+105.823.027 
+102.463.394 
+   b. Uitgaven 
+  
+96.307.700 
+96.695.089 
+II. Investeringssaldo 
+(a-b) 
+-5.728.120 
+-40.068.009 
+   a. Ontvangsten 
+  
+25.267.714 
+3.506.351 
+   b. Uitgaven 
+  
+30.995.834 
+43.574.361 
+III. Saldo exploitatie en investeringen 
+(I+II) 
+3.787.207 
+-34.299.704 
+IV. Financieringssaldo 
+(a-b) 
+-16.523.373 
+253.726 
+   a. Ontvangsten 
+  
+714.368 
+1.476.579 
+   b. Uitgaven 
+  
+17.237.741 
+1.222.853 
+V. Budgettair resultaat van het boekjaar 
+(III+IV) 
+-12.736.165 
+-34.045.978 
+VI. Gecumuleerd budgettair resultaat vorig boekjaar 
+  
+57.851.587 
+57.851.587 
+VII. Gecumuleerd budgettair resultaat 
+(V+VI) 
+45.115.421 
+23.805.609 
+VIII. Onbeschikbare gelden 
+  
+0 
+0 
+IX. Beschikbaar budgettair resultaat 
+(VII-VIII) 
+45.115.421 
+23.805.609 
+  
+  
+  
+  
+Autofinancieringsmarge 
+  
+Jaarrekening 
+Meerjarenplan 
+I. Exploitatiesaldo 
+  
+9.515.327 
+5.768.305 
+II. Netto periodieke aflossingen 
+(a-b) 
+1.094.393 
+1.060.081 
+   a. Periodieke aflossingen conform de verbintenissen 
+  
+571.834 
+1.156.519 
+   b. Periodieke terugvordering leningen 
+  
+-522.559 
+96.438 
+III. Autofinancieringsmarge 
+(I-II) 
+8.420.934 
+4.708.224 
+  
+  
+  
+  
+Gecorrigeerde autofinancieringsmarge 
+  
+Jaarrekening 
+Meerjarenplan 
+I. Autofinancieringsmarge 
+  
+8.420.934 
+4.708.224 
+II. Correctie op de periodieke aflossingen 
+(a-b) 
+-747.428 
+-162.743 
+   a. Periodieke aflossingen conform de verbintenissen 
+  
+571.834 
+1.156.519 
+   b. Aangewezen aflossingen o.b.v. de financiële schulden 
+1.319.262 
+1.319.262 
+III. Gecorrigeerde autofinancieringsmarge 
+(I+II) 
+7.673.506 
+4.545.481 
+  
+  
+  
+  
+Geconsolideerd financieel evenwicht 
+  
+Jaarrekening 
+Meerjarenplan 
+I. Beschikbaar budgettair resultaat 
+  
+  
+  
+   - Gemeente en OCMW 
+  
+45.115.421 
+23.805.609 
+   - AGB Lokeren 
+  
+114.492 
+0 
+  
+  
+  
+  
+Totaal beschikbaar budgettair resultaat 
+  
+45.229.914 
+23.805.609 
+  
+  
+  
+  
+II. Autofinancieringsmarge 
+  
+  
+  
+   - Gemeente en OCMW 
+  
+8.420.934 
+4.708.224 
+   - AGB Lokeren 
+  
+637.085 
+0 
+  
+  
+  
+  
+Totale autofinancieringsmarge 
+  
+9.058.018 
+4.708.224 
+  
+  
+  
+  
+III. Gecorrigeerde autofinancieringsmarge 
+  
+  
+  
+   - Gemeente en OCMW 
+  
+7.673.506 
+4.545.481 
+   - AGB Lokeren 
+  
+114.525 
+0 
+  
+  
+  
+  
+Totale gecorrigeerde autofinancieringsmarge 
+  
+7.788.031 
+4.545.481 
+
+=== p60 ===
+ 
+p. 59 – 366 
+Lokeren 
+J4 : Balans 
+  
+2025 
+2024 
+  
+  
+  
+ACTIVA 
+382.021.763 
+371.193.623 
+  
+  
+  
+I. Vlottende activa 
+59.657.240 
+63.180.622 
+   A. Liquide middelen en geldbeleggingen 
+37.089.418 
+50.370.984 
+   B. Vorderingen op korte termijn 
+21.955.421 
+12.809.638 
+      1. Vorderingen uit ruiltransacties 
+9.275.430 
+3.552.968 
+      2. Vorderingen uit niet-ruiltransacties 
+12.679.991 
+9.256.670 
+   C. Voorraden en bestellingen in uitvoering 
+0 
+0 
+   D. Overlopende rekeningen van het actief 
+0 
+0 
+   E. Vorderingen op lange termijn die binnen het jaar vervallen 
+612.401 
+0 
+  
+  
+  
+II. Vaste activa 
+322.364.523 
+308.013.001 
+   A. Vorderingen op lange termijn 
+18.201.383 
+1.625.318 
+      1. Vorderingen uit ruiltransacties 
+18.201.383 
+1.625.318 
+      2. Vorderingen uit niet-ruiltransacties 
+0 
+0 
+   B. Financiële vaste activa 
+51.946.339 
+51.873.256 
+      1. Extern verzelfstandigde agentschappen 
+0 
+0 
+      2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten 
+36.843.807 
+36.337.974 
+      3. OCMW-verenigingen 
+14.681.633 
+15.087.682 
+      4. Andere financiële vaste activa 
+420.900 
+447.599 
+   C. Materiële vaste activa 
+250.795.248 
+252.948.156 
+      1. Gemeenschapsgoederen 
+230.741.420 
+232.423.555 
+         a. Terreinen en gebouwen 
+102.290.951 
+111.777.478 
+         b. Wegen en andere infrastructuur 
+104.540.421 
+98.372.835 
+         c. Installaties, machines en uitrusting 
+3.985.548 
+3.789.617 
+         d. Meubilair, kantooruitrusting en rollend materieel 
+3.340.173 
+3.349.105 
+         e. Leasing en soortgelijke rechten 
+16.462.474 
+15.099.232 
+         f. Erfgoed 
+121.853 
+35.287 
+      2. Bedrijfsmatige materiële vaste activa 
+467.033 
+467.033 
+         a. Terreinen en gebouwen 
+467.033 
+467.033 
+         b. Installaties, machines en uitrusting 
+0 
+0 
+         c. Meubilair, kantooruitrusting en rollend materieel 
+0 
+0 
+         d. Leasing en soortgelijke rechten 
+0 
+0 
+      3. Andere materiële vaste activa 
+19.586.795 
+20.057.569 
+         a. Terreinen en gebouwen 
+19.586.795 
+20.057.569 
+         b. Roerende goederen 
+0 
+0 
+   D. Immateriële vaste activa 
+1.421.553 
+1.566.271 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p61 ===
+ 
+p. 60 – 366 
+Lokeren 
+J4 : Balans 
+  
+2025 
+2024 
+  
+  
+  
+PASSIVA 
+382.021.763 
+371.193.623 
+  
+  
+  
+I. Schulden 
+81.480.093 
+75.962.760 
+   A. Schulden op korte termijn 
+20.698.954 
+12.843.600 
+      1. Schulden uit ruiltransacties 
+17.399.036 
+9.503.167 
+         a. Voorzieningen voor risico's en kosten 
+5.538.406 
+6.425.084 
+         b. Financiële schulden 
+0 
+0 
+         c. Niet-financiële schulden uit ruiltransacties 
+11.860.630 
+3.078.083 
+      2. Schulden uit niet-ruiltransacties 
+2.073.452 
+2.255.617 
+      3. Overlopende rekeningen van het passief 
+0 
+0 
+      4. Schulden op lange termijn die binnen het jaar vervallen 
+1.226.467 
+1.084.816 
+   B. Schulden op lange termijn 
+60.781.139 
+63.119.161 
+      1. Schulden uit ruiltransacties 
+60.781.139 
+63.119.161 
+         a. Voorzieningen voor risico's en kosten 
+44.851.739 
+47.713.203 
+            1. Pensioenen en soortgelijke verplichtingen 
+44.851.739 
+47.713.203 
+            2. Andere risico's en kosten 
+0 
+0 
+         b. Financiële schulden 
+15.929.400 
+15.405.958 
+         c. Niet-financiële schulden uit ruiltransacties 
+0 
+0 
+      2. Schulden uit niet-ruiltransacties 
+0 
+0 
+  
+  
+  
+II. Nettoactief 
+300.541.670 
+295.230.863 
+   A. Kapitaalsubsidies en schenkingen 
+53.764.788 
+51.892.858 
+   B. Gecumuleerd overschot of tekort 
+64.448.693 
+61.702.406 
+   C. Herwaarderingsreserves 
+10.752.405 
+10.060.460 
+   D. Overig nettoactief 
+171.575.785 
+171.575.139 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p64 ===
+ 
+p. 63 – 366 
+Lokeren 
+  
+  
+J5 : Staat van opbrengsten en kosten 
+  
+  
+  
+  
+  
+  
+2025 
+2024 
+  
+  
+  
+I. Kosten 
+105.660.375 
+116.066.242 
+   A. Operationele kosten 
+104.990.748 
+115.084.707 
+      1. Goederen en diensten 
+19.568.573 
+16.474.281 
+      2. Bezoldigingen, sociale lasten en pensioenen 
+50.507.255 
+44.644.695 
+      3. Afschrijvingen, waardeverminderingen en voorzieningen 
+7.534.108 
+29.024.754 
+      4. Individuele hulpverlening door het O.C.M.W. 
+6.342.949 
+5.718.547 
+      5. Toegestane werkingssubsidies 
+18.340.411 
+17.572.607 
+      6. Toegestane Investeringssubsidies 
+1.411.849 
+714.345 
+      7. Minderwaarden bij de realisatie van vaste activa 
+406.719 
+0 
+      8. Andere operationele kosten 
+878.884 
+935.477 
+   B. Financiële kosten 
+669.628 
+981.536 
+  
+  
+  
+II. Opbrengsten 
+108.406.663 
+101.819.223 
+   A. Operationele opbrengsten 
+103.280.937 
+96.223.025 
+      1. Opbrengsten uit de werking 
+7.339.209 
+6.251.532 
+      2. Fiscale opbrengsten en boetes 
+42.588.956 
+40.812.147 
+      3. Werkingssubsidies 
+49.506.269 
+46.069.424 
+         a. Algemene werkingssubsidies 
+27.964.684 
+26.675.957 
+         b. Specifieke werkingssubsidies 
+21.541.585 
+19.393.465 
+      4. Recuperatie individuele hulpverlening 
+646.511 
+631.234 
+      5. Meerwaarden bij de realisatie van vaste activa 
+837.435 
+0 
+      6. Andere operationele opbrengsten 
+2.362.556 
+2.458.689 
+   B. Financiële opbrengsten 
+5.125.726 
+5.596.198 
+  
+  
+  
+III. Overschot of tekort van het boekjaar 
+2.746.288 
+-14.247.019 
+   A. Operationele overschot of tekort 
+-1.709.811 
+-18.861.682 
+   B. Financieel overschot of tekort 
+4.456.099 
+4.614.663 
+  
+  
+  
+IV. Verwerking van het overschot of tekort van het boekjaar 
+2.746.288 
+-14.247.019 
+   A. Rechthebbenden uit het overschot van het boekjaar 
+0 
+0 
+   B. Tussenkomst door derden in het tekort van het boekjaar 
+0 
+0 
+   C. Over te dragen overschot of tekort van het boekjaar 
+2.746.288 
+-14.247.019 
+  
+  
+  
+ 
+ 
+
+=== p72 ===
+ 
+p. 71 – 366 
+Lokeren 
+T2 : Ontvangsten en uitgaven naar economische 
+aard 
+I. Exploitatieuitgaven 
+  
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Operationele uitgaven 
+  
+95.638.072 
+96.338.336 
+0 
+0 
+   1. Goederen en diensten 
+  
+19.568.573 
+21.837.654 
+0 
+0 
+   2. Bezoldigingen, sociale lasten en pensioenen 
+  
+50.507.255 
+49.192.424 
+0 
+0 
+      a. Politiek personeel 
+  
+1.412.743 
+1.424.319 
+0 
+0 
+      b. Vastbenoemd niet-onderwijzend personeel 
+  
+11.231.891 
+10.614.517 
+0 
+0 
+      c. Niet-vastbenoemd niet-onderwijzend personeel 
+  
+24.071.828 
+24.540.112 
+0 
+0 
+      d. Onderwijzend personeel ten laste van het bestuur 
+  
+138.868 
+153.382 
+0 
+0 
+      e. Onderwijzend personeel ten laste van andere overheden 
+  
+11.166.382 
+9.816.284 
+0 
+0 
+      f. Andere personeelskosten 
+  
+1.765.446 
+1.925.570 
+0 
+0 
+      g. Pensioenen 
+  
+720.098 
+718.240 
+0 
+0 
+   3. Individuele hulpverlening door het OCMW 
+  
+6.342.968 
+5.866.648 
+0 
+0 
+   4. Toegestane werkingssubsidies 
+  
+18.340.411 
+18.813.668 
+0 
+0 
+      - aan de districten 
+  
+0 
+0 
+0 
+0 
+      - aan de eigen autonome provinciebedrijven (APB) 
+  
+0 
+0 
+0 
+0 
+      - aan de eigen autonome gemeentebedrijven (AGB) 
+  
+99.243 
+0 
+0 
+0 
+      - aan welzijnsverenigingen 
+  
+1.432.100 
+1.432.100 
+0 
+0 
+      - aan andere OCMW-verenigingen 
+  
+0 
+250.000 
+0 
+0 
+      - aan de politiezone 
+  
+7.895.000 
+7.895.000 
+0 
+0 
+      - aan de hulpverleningszone 
+  
+1.394.935 
+1.290.858 
+0 
+0 
+      - aan intergemeentelijke samenwerkingsverbanden (IGS) 
+  
+5.298.177 
+5.157.718 
+0 
+0 
+      - aan besturen van de eredienst 
+  
+197.375 
+198.732 
+0 
+0 
+      - aan niet-confessionele levensbeschouwelijke gemeenschappen   
+0 
+0 
+0 
+0 
+      - aan andere begunstigden 
+  
+2.023.582 
+2.589.259 
+0 
+0 
+   5. Andere operationele uitgaven 
+  
+878.865 
+627.942 
+0 
+0 
+B. Financiële uitgaven 
+  
+669.628 
+356.753 
+0 
+0 
+   1. Rente, commissies en kosten verbonden aan schulden 
+  
+614.243 
+313.491 
+0 
+0 
+      - aan financiële instellingen 
+  
+145.384 
+69.840 
+0 
+0 
+      - aan andere entiteiten 
+  
+468.859 
+243.651 
+0 
+0 
+      2. Andere financiële uitgaven 
+  
+55.385 
+43.262 
+0 
+0 
+C. Rechthebbenden uit het overschot van het boekjaar 
+  
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+
+=== p73 ===
+ 
+p. 72 – 366 
+Lokeren 
+T2 : Ontvangsten en uitgaven naar economische 
+aard 
+II. Exploitatieontvangsten 
+  
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Operationele ontvangsten 
+  102.443.501 
+99.243.477 
+0 
+0 
+   1. Ontvangsten uit de werking 
+  
+7.339.209 
+7.270.382 
+0 
+0 
+   2. Fiscale ontvangsten en boetes 
+  
+42.588.956 
+42.219.937 
+0 
+0 
+      a. Aanvullende belastingen 
+  
+36.492.166 
+36.182.160 
+0 
+0 
+         - Opcentiemen op de onroerende voorheffing 
+  
+16.657.613 
+16.599.625 
+0 
+0 
+         - Aanvullende belasting op de personenbelasting 
+  
+19.001.632 
+18.740.520 
+0 
+0 
+         - Andere aanvullende belastingen 
+  
+832.921 
+842.015 
+0 
+0 
+      b. Andere belastingen en boetes 
+  
+6.096.790 
+6.037.777 
+0 
+0 
+   3. Werkingssubsidies 
+  
+49.506.269 
+47.576.077 
+0 
+0 
+      a. Algemene werkingssubsidies 
+  
+27.964.684 
+27.627.072 
+0 
+0 
+         - Gemeentefonds 
+  
+20.686.857 
+20.566.605 
+0 
+0 
+         - Andere algemene werkingssubsidies 
+  
+7.277.828 
+7.060.466 
+0 
+0 
+            - van de federale overheid 
+  
+0 
+0 
+0 
+0 
+            - van de Vlaamse overheid 
+  
+7.277.828 
+7.060.466 
+0 
+0 
+            - van de provincie 
+  
+0 
+0 
+0 
+0 
+            - van de gemeente 
+  
+0 
+0 
+0 
+0 
+            - van het OCMW 
+  
+0 
+0 
+0 
+0 
+            - van andere entiteiten 
+  
+0 
+0 
+0 
+0 
+      b. Specifieke werkingssubsidies 
+  
+21.541.585 
+19.949.005 
+0 
+0 
+            - van de federale overheid 
+  
+5.155.115 
+4.621.711 
+0 
+0 
+            - van de Vlaamse overheid 
+  
+15.787.626 
+15.288.428 
+0 
+0 
+            - van de provincie 
+  
+10.231 
+5.000 
+0 
+0 
+            - van de gemeente 
+  
+0 
+0 
+0 
+0 
+            - van het OCMW 
+  
+0 
+0 
+0 
+0 
+            - van andere entiteiten 
+  
+588.613 
+33.866 
+0 
+0 
+   4. Recuperatie individuele hulpverlening 
+  
+646.511 
+445.730 
+0 
+0 
+   5. Andere operationele ontvangsten 
+  
+2.362.556 
+1.731.352 
+0 
+0 
+B. Financiële ontvangsten 
+  
+3.379.525 
+3.219.917 
+0 
+0 
+C. Tussenkomst door derden in het tekort van het 
+boekjaar 
+  
+0 
+0 
+0 
+0 
+  
+    
+  
+  
+  
+III. Exploitatiesaldo 
+  
+9.515.327 
+5.768.305 
+0 
+0 
+ 
+ 
+ 
+
+=== p76 ===
+ 
+p. 75 – 366 
+Lokeren 
+T2 : Ontvangsten en uitgaven naar economische aard 
+I. Financieringsuitgaven 
+  
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Vereffening van financiële schulden 
+  
+571.834 
+1.156.519 
+0 
+0 
+   1. Periodieke aflossingen van opgenomen leningen en 
+leasings 
+  
+571.834 
+1.156.519 
+0 
+0 
+   2. Niet-periodieke aflossingen van opgenomen leningen en 
+leasings 
+  
+0 
+0 
+0 
+0 
+B. Vereffening van niet-financiële schulden 
+  
+0 
+0 
+0 
+0 
+C. Toegestane leningen en betalingsuitstel 
+  
+16.665.907 
+34.555.104 -34.488.770 
+0 
+   1. Toegestane leningen 
+  
+16.665.907 
+34.555.104 -34.488.770 
+0 
+         - aan autonome provinciebedrijven (APB) 
+  
+0 
+0 
+0 
+0 
+         - aan autonome gemeentebedrijven (AGB) 
+  
+16.721.826 
+34.488.770 
+-34.488.770 
+0 
+         - aan welzijnsverenigingen 
+  
+0 
+0 
+0 
+0 
+         - aan andere OCMW-verenigingen 
+  
+0 
+0 
+0 
+0 
+         - aan de politiezone 
+  
+0 
+0 
+0 
+0 
+         - aan de hulpverleningszone 
+  
+0 
+0 
+0 
+0 
+         - aan intergemeentelijke samenwerkingsverbanden (IGS) 
+  
+-55.919 
+66.334 
+2.613 
+2.613 
+         - aan besturen van de eredienst 
+  
+0 
+0 
+0 
+0 
+         - aan niet-confessionele levensbeschouwelijke 
+gemeenschappen 
+  
+0 
+0 
+0 
+0 
+         - aan andere begunstigden 
+  
+0 
+0 
+-2.613 
+-2.613 
+   2. Toegestaan betalingsuitstel 
+  
+0 
+0 
+0 
+0 
+D. Vooruitbetalingen 
+  
+0 
+0 
+0 
+0 
+E. Kapitaalsverminderingen 
+  
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+
+=== p77 ===
+ 
+p. 76 – 366 
+Lokeren 
+T2 : Ontvangsten en uitgaven naar economische aard 
+II. Financieringsontvangsten 
+  
+Rek 2025 
+Mjp 2025 
+Mjp 2026 
+Mjp 2027 
+A. Aangaan van financiële schulden 
+  
+1.236.927 
+1.380.141 
+0 
+0 
+      - opname van leningen en leasings bij financiële instellingen 
+  
+0 
+0 
+0 
+0 
+      - opname van leningen en leasings bij andere entiteiten 
+  
+1.236.927 
+1.380.141 
+0 
+0 
+B. Aangaan van niet-financiële schulden 
+  
+0 
+0 
+0 
+0 
+C. Vereffening van toegestane leningen en 
+betalingsuitstel 
+  
+-522.559 
+96.438 
+0 
+0 
+   1. Terugvordering van toegestane leningen 
+  
+-522.559 
+96.438 
+0 
+0 
+      a. Periodieke terugvorderingen 
+  
+-522.559 
+96.438 
+0 
+0 
+      b. Niet-periodieke terugvorderingen 
+  
+0 
+0 
+0 
+0 
+   2. Vereffening van betalingsuitstel 
+  
+0 
+0 
+0 
+0 
+D. Vereffening van vooruitbetalingen 
+  
+0 
+0 
+0 
+0 
+E. Kapitaalsvermeerderingen 
+  
+0 
+0 
+0 
+0 
+F. Bijdragen en schenkingen niet gekoppeld aan 
+operationele activiteiten of aan de verwerving van vaste 
+activa 
+  
+0 
+0 
+0 
+0 
+  
+    
+  
+  
+  
+III. Financieringssaldo 
+  -16.523.373 -34.235.044 
+34.488.770 
+0 
+Budgettair resultaat van het boekjaar 
+  -12.736.165 -55.900.745 
+21.854.767 
+0 
+ 
+ 
+
+=== p83 ===
+ 
+p. 82 – 366 
+ 
+Lokeren 
+T4 : Evolutie van de financiële schulden 
+Financiële schulden op 31 december 
+Rek 2025 
+Mjp 2026 
+Mjp 2027 
+A. Financiële schulden op lange termijn 
+15.929.400 
+17.155.867 
+17.155.867 
+   1. Financiële schulden op 1 januari 
+15.405.958 
+15.929.400 
+17.155.867 
+   2. Nieuwe leningen 
+1.236.927 
+0 
+0 
+   3. Aflossingen 
+0 
+0 
+0 
+   4. Overboekingen 
+-713.485 
+0 
+0 
+   5. Andere mutaties 
+0 
+1.226.467 
+0 
+B. Financiële schulden op lange termijn die binnen het jaar vervallen 
+1.226.467 
+0 
+0 
+   1. Financiële schulden op 1 januari 
+1.084.816 
+1.226.467 
+0 
+   2. Aflossingen 
+-571.834 
+0 
+0 
+   3. Overboekingen 
+713.485 
+0 
+0 
+   4. Andere mutaties 
+0 
+-1.226.467 
+0 
+C. Financiële schulden op korte termijn 
+0 
+0 
+0 
+Totaal financiële schulden 
+17.155.867 
+17.155.867 
+17.155.867 
+ 
+ 
+ 
