@@ -13292,3 +13292,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1017** residual dual L5 (Torhout / Stekene / Buggenhout / Balen / Kasterlee / other); deferred **rq_116**; progress@1020 in 4
 
+
+### Tick 1017 - 2026-08-09T21:45:00Z
+
+- Unit: **rq_1017** (FOI-adjacent residual dual - **Gemeente+OCMW Kasterlee Jaarrekening 2025** + Oudsbergen dual residual)
+- Found (strong primary BBC JR2025 107p; KBO 0207.502.596 / OCMW 0212.223.726; FD Ann Noyens; AD Tom De Munter; Markt 1 / Leistraat 83):
+  - Assets **EUR143.44m** / equity **EUR128.12m** / debt total **EUR15.32m** / fin debt **EUR1.93m LOW** (**RISING** from **EUR1.45m**; LT **EUR1.75m** / ST due **EUR0.177m**)
+  - New loans **EUR0.637m** Fluvius lease (bank **EUR6.00m deferred FOI**, 3m to 2026) / repayments **EUR0.163m**
+  - Cash **EUR23.21m HIGH** / pension **EUR8.82m JUMP** (was **EUR7.95m FOI**) / leasing MVA **EUR1.92m**
+  - FVA IGS **EUR12.39m** / cap subs **EUR15.45m** / **onbeschikbaar EUR6.07m HIGH FOI**
+  - Exploitatie: ontvangsten **EUR36.98m** / uitgaven **EUR30.49m** / saldo **+EUR6.49m STRONG**
+  - AFM **+EUR6.33m STRONG** (gecorr **+EUR6.38m**) / BBR **EUR17.83m HIGH** / budget **+EUR1.14m STRONG** / P&L **+EUR0.646m** (GE **+EUR2.71m** / OCMW **-EUR2.06m FOI**)
+  - Personnel **EUR15.84m** / toelagen **EUR4.68m FOI** (police **EUR2.91m** / fire **EUR1.09m JUMP** / other **EUR0.579m**)
+  - Invest **EUR7.21m** vs MJP **EUR9.79m UNDERSPEND FOI** / **OCMW cover EUR1.78m FULL-ish FOI** / OCMW cum **-EUR1.96m WORSENING**
+- Dual: Oudsbergen **EUR255.16m** / OCMW cover **ZERO** / FVA IGS JUMP **EUR71.88m** (tick1016) - not TE-additive
+- Note: Torhout still news-only; Balen / Stekene / Buggenhout residual next optional
+- Wrote: budgets +54 (bud_kat_*); commitments +6; leaderboard +8; sources +1; entity city_kasterlee; FOI **gap_kat_ocmw_toelagen_pension_l5** prio8 ready + draft; key only (PDF ~5.8MB not stored in git); rq_1017=done; spawn **rq_1018**; ticks=1017
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1018** residual dual L5 (Torhout / Balen / Stekene / Buggenhout / other); deferred **rq_116**; progress@1020 in 3
+

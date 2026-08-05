@@ -24509,3 +24509,57 @@ bud_obg_ge_expl_exp_2025,city_oudsbergen,2025,27864890,,,bbc_jr_realized,src_oud
 bud_obg_ocmw_expl_exp_2025,city_oudsbergen,2025,5373357,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW exploitatieuitgaven J3 5.37m FOI; tick1016
 bud_obg_ocmw_expl_rec_2025,city_oudsbergen,2025,3594284,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,OCMW exploitatieontvangsten J3 3.59m; tick1016
 bud_obg_mjp_new_loans_planned_2025,city_oudsbergen,2025,5757570,,,bbc_jr_realized,src_oudsbergen_jr2025,strong,MJP new loans planned 5.76m not drawn FOI residual; tick1016
+bud_kat_assets_2025,city_kasterlee,2025,143435420,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Assets YE2025 143.44m (was 140.64m); tick1017
+bud_kat_equity_2025,city_kasterlee,2025,128118952,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Nettoactief YE2025 128.12m; tick1017
+bud_kat_debt_total_2025,city_kasterlee,2025,15316468,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Total schulden YE2025 15.32m; tick1017
+bud_kat_fin_debt_2025,city_kasterlee,2025,1928463,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Fin debt total YE2025 1.93m LOW RISING (was 1.45m T4 FOI); tick1017
+bud_kat_fin_debt_lt_2025,city_kasterlee,2025,1751511,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Fin debt LT YE2025 1.75m; tick1017
+bud_kat_fin_debt_st_due_2025,city_kasterlee,2025,176952,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Fin debt ST due YE2025 0.177m; tick1017
+bud_kat_new_loans_2025,city_kasterlee,2025,637493,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Nieuwe leningen 2025 0.637m lease Fluvius (bank 6.00m deferred FOI); tick1017
+bud_kat_aflossingen_2025,city_kasterlee,2025,162899,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Periodieke aflossingen 2025 0.163m; tick1017
+bud_kat_cash_2025,city_kasterlee,2025,23211717,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Liquide middelen YE2025 23.21m HIGH (was 23.41m); tick1017
+bud_kat_pension_2025,city_kasterlee,2025,8815562,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.82m JUMP (was 7.95m FOI); tick1017
+bud_kat_cap_subs_2025,city_kasterlee,2025,15454768,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Kapitaalsubsidies YE2025 15.45m; tick1017
+bud_kat_fva_total_2025,city_kasterlee,2025,12468008,,,bbc_jr_realized,src_kasterlee_jr2025,strong,FVA total YE2025 12.47m; tick1017
+bud_kat_fva_igs_2025,city_kasterlee,2025,12394258,,,bbc_jr_realized,src_kasterlee_jr2025,strong,FVA IGS YE2025 12.39m; tick1017
+bud_kat_fva_other_2025,city_kasterlee,2025,70100,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Andere FVA YE2025 0.070m; tick1017
+bud_kat_leasing_mva_2025,city_kasterlee,2025,1923761,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Leasing MVA YE2025 1.92m; tick1017
+bud_kat_onbeschikbaar_2025,city_kasterlee,2025,6068941,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Onbeschikbare gelden YE2025 6.07m HIGH FOI residual; tick1017
+bud_kat_expl_rec_2025,city_kasterlee,2025,36979761,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Exploitatieontvangsten 36.98m; tick1017
+bud_kat_expl_exp_2025,city_kasterlee,2025,30485726,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Exploitatieuitgaven 30.49m; tick1017
+bud_kat_expl_saldo_2025,city_kasterlee,2025,6494035,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Exploitatiesaldo +6.49m STRONG; tick1017
+bud_kat_invest_exp_2025,city_kasterlee,2025,7209888,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Investeringsuitgaven 7.21m vs MJP 9.79m UNDERSPEND FOI; tick1017
+bud_kat_invest_rec_2025,city_kasterlee,2025,1379421,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Investeringsontvangsten 1.38m; tick1017
+bud_kat_invest_saldo_2025,city_kasterlee,2025,-5830466,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Investeringssaldo -5.83m; tick1017
+bud_kat_mjp_invest_planned_2025,city_kasterlee,2025,9792039,,,bbc_jr_realized,src_kasterlee_jr2025,strong,MJP invest planned 9.79m vs realized 7.21m underspend FOI; tick1017
+bud_kat_afm_2025,city_kasterlee,2025,6331376,,,bbc_jr_realized,src_kasterlee_jr2025,strong,AFM +6.33m STRONG; tick1017
+bud_kat_afm_corr_2025,city_kasterlee,2025,6377965,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Gecorrigeerde AFM +6.38m STRONG; tick1017
+bud_kat_bbr_2025,city_kasterlee,2025,17834714,,,bbc_jr_realized,src_kasterlee_jr2025,strong,BBR beschikbaar 17.83m HIGH; tick1017
+bud_kat_budget_result_2025,city_kasterlee,2025,1138402,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Budgettair resultaat +1.14m STRONG; tick1017
+bud_kat_cum_br_2025,city_kasterlee,2025,23903655,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Gecumuleerd budgettair resultaat 23.90m; tick1017
+bud_kat_pnl_2025,city_kasterlee,2025,646237,,,bbc_jr_realized,src_kasterlee_jr2025,strong,P&L +0.646m; tick1017
+bud_kat_pnl_ge_2025,city_kasterlee,2025,2707463,,,bbc_jr_realized,src_kasterlee_jr2025,strong,GE P&L +2.71m; tick1017
+bud_kat_pnl_ocmw_2025,city_kasterlee,2025,-2061226,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW P&L -2.06m FOI; tick1017
+bud_kat_ocmw_cover_2025,city_kasterlee,2025,1776211,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW cover 1.78m FULL-ish FOI residual vs OCMW -2.06m; tick1017
+bud_kat_ocmw_cum_deficit_2025,city_kasterlee,2025,-1958722,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW cum tekort YE2025 -1.96m WORSENING (was -1.67m after cover); tick1017
+bud_kat_personnel_2025,city_kasterlee,2025,15841738,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Bezoldigingen 15.84m; tick1017
+bud_kat_toelagen_2025,city_kasterlee,2025,4684487,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toegestane werkingssubsidies 4.68m FOI residual; tick1017
+bud_kat_toelagen_police_2025,city_kasterlee,2025,2909805,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toelage politiezone 2.91m JUMP; tick1017
+bud_kat_toelagen_fire_2025,city_kasterlee,2025,1091201,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toelage hulpverleningszone 1.09m JUMP (was 0.953m); tick1017
+bud_kat_toelagen_igs_2025,city_kasterlee,2025,60452,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toelage IGS 0.060m; tick1017
+bud_kat_toelagen_welzijn_2025,city_kasterlee,2025,38046,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toelage welzijnsverenigingen 0.038m; tick1017
+bud_kat_toelagen_eredienst_2025,city_kasterlee,2025,5874,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toelage eredienst 0.006m; tick1017
+bud_kat_toelagen_other_2025,city_kasterlee,2025,579109,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toelage andere begunstigden 0.579m FOI; tick1017
+bud_kat_ocmw_aid_2025,city_kasterlee,2025,1511136,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW individuele hulp 1.51m; tick1017
+bud_kat_fiscal_2025,city_kasterlee,2025,17366072,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Fiscale opbrengsten 17.37m; tick1017
+bud_kat_fiscal_ov_2025,city_kasterlee,2025,6491141,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Opcentiemen OV 6.49m; tick1017
+bud_kat_fiscal_pb_2025,city_kasterlee,2025,8904512,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Aanvullende PB 8.90m JUMP (was 7.73m); tick1017
+bud_kat_gemeentefonds_2025,city_kasterlee,2025,5780911,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Gemeentefonds 5.78m; tick1017
+bud_kat_fin_opbr_2025,city_kasterlee,2025,1668555,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Financiele opbrengsten J5 1.67m; tick1017
+bud_kat_fin_costs_2025,city_kasterlee,2025,25215,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Financiele kosten 0.025m; tick1017
+bud_kat_invest_subs_granted_2025,city_kasterlee,2025,562844,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Toegestane investeringssubsidies 0.563m FOI residual; tick1017
+bud_kat_cum_equity_surplus_2025,city_kasterlee,2025,22028947,,,bbc_jr_realized,src_kasterlee_jr2025,strong,Gecumuleerd equity surplus YE2025 +22.03m; tick1017
+bud_kat_ge_expl_exp_2025,city_kasterlee,2025,26337010,,,bbc_jr_realized,src_kasterlee_jr2025,strong,GE exploitatieuitgaven J3 26.34m; tick1017
+bud_kat_ocmw_expl_exp_2025,city_kasterlee,2025,4148716,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW exploitatieuitgaven J3 4.15m FOI; tick1017
+bud_kat_ocmw_expl_rec_2025,city_kasterlee,2025,2400045,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW exploitatieontvangsten J3 2.40m; tick1017
+bud_kat_mjp_new_loans_planned_2025,city_kasterlee,2025,6000000,,,bbc_jr_realized,src_kasterlee_jr2025,strong,MJP bank loan planned 6.00m not drawn (3m to 2026 FOI); tick1017
