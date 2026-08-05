@@ -14827,3 +14827,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +52 (bud_pel_*); commitments +7; leaderboard +8; sources +1; entity city_pelt; FOI **gap_pel_fva_loans_ocmw_equity_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1094=done; spawn **rq_1095**; ticks=1094
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1095** residual dual L5; deferred **rq_116**; progress@1100 in 5
+
+
+### Tick 1095 - 2026-08-11T13:00:00Z
+
+- Unit: **rq_1095** (FOI-adjacent residual dual - **Lokaal Bestuur Lummen Jaarrekening 2025** + Pelt dual residual)
+- Found (strong primary BBC JR2025 PDF; 84p; GR 22.06.2026; lummen.be; KBO GE 0207.468.350 / OCMW 0212.195.022; Gemeenteplein 13 3560; AD Bart Vissers FD Emmanuel Vandeputte; GE+OCMW):
+  - Assets **EUR147.311m MASSIVE JUMP FOI** (was **EUR118.157m**) / equity **EUR125.457m JUMP** / debt total **EUR21.85m** / fin debt **EUR14.640m DECLINE** (LT **EUR13.649m** / ST due **EUR0.991m**; was **EUR15.055m**)
+  - New loans **EUR0.549m LOW** leasing / repayments **EUR0.965m** (MJP bank package large UNDERDRAW FOI)
+  - Cash **EUR10.076m** slight JUMP / pension **EUR1.986m** / FVA IGS **EUR43.426m MASSIVE JUMP FOI** (was **EUR17.544m**) / herwaard **EUR25.839m MASSIVE JUMP FOI** (was **EUR0.015m**) / leasing MVA **EUR2.338m**
+  - Exploitatie: ontvangsten **EUR34.717m** / uitgaven **EUR29.482m** / saldo **+EUR5.235m VERY STRONG**
+  - AFM **+EUR4.270m VERY STRONG** (gecorr **+EUR4.031m**) / BBR **EUR7.082m HIGH** / onbeschikbaar **EUR2.004m HIGH FOI** / budget **EUR-0.566m NEG FOI** / cum BR **EUR9.087m** / P&L **+EUR2.725m STRONG**
+  - Personnel **EUR18.308m JUMP** (edu pass-through **EUR0.812m**) / toelagen **EUR4.164m FOI** (police **EUR2.214m JUMP** / fire **EUR0.760m** / IGS **EUR0.741m** / other **EUR0.336m**)
+  - Invest **EUR6.836m** vs MJP **EUR17.824m MASSIVE UNDERSPEND FOI** / saldo **-EUR5.388m**
+  - **OCMW cover EUR0 ZERO FOI** / OCMW equity cum **−EUR4.141m WORSENING** (was **−EUR2.700m**) / OCMW hulp **EUR0.707m**
+  - Fluvius reval notes in risico-toelichting (riolering / netactiviteit value jumps)
+- Dual: Pelt OCMW equity −23.5m ZERO cover / loans 11.2m / FVA herwaard 36.4m (tick1094) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen / Peer / Tessenderlo-Ham residual next; progress@1100 in 4
+- Wrote: budgets +48 (bud_lum_*); commitments +7; leaderboard +8; sources +1; entity city_lummen; FOI **gap_lum_fva_herwaard_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1095=done; spawn **rq_1096**; ticks=1095
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1096** residual dual L5; deferred **rq_116**; progress@1100 in 4

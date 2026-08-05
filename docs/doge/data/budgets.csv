@@ -28469,3 +28469,51 @@ bud_pel_agb_afm_2025,city_pelt,2025,792164,,,bbc_jr_realized,src_pelt_jr2025,str
 bud_pel_agb_bbr_2025,city_pelt,2025,2500625,,,bbc_jr_realized,src_pelt_jr2025,strong,AGB BBR 2.501m dual residual; tick1094
 bud_pel_interest_2025,city_pelt,2025,1152102,,,bbc_jr_realized,src_pelt_jr2025,strong,Intresten 1.152m JUMP FOI (was 0.584m); tick1094
 bud_pel_financieringssaldo_2025,city_pelt,2025,9254654,,,bbc_jr_realized,src_pelt_jr2025,strong,Financieringssaldo +9.255m loan-driven; tick1094
+bud_lum_assets_2025,city_lummen,2025,147310704,,,bbc_jr_realized,src_lummen_jr2025,strong,Assets YE2025 147.311m MASSIVE JUMP FOI (was 118.157m; FVA herwaard); tick1095
+bud_lum_equity_2025,city_lummen,2025,125457208,,,bbc_jr_realized,src_lummen_jr2025,strong,Nettoactief YE2025 125.457m JUMP (was 96.043m); tick1095
+bud_lum_debt_total_2025,city_lummen,2025,21853496,,,bbc_jr_realized,src_lummen_jr2025,strong,Total schulden YE2025 21.853m slight DROP (was 22.114m); tick1095
+bud_lum_fin_debt_2025,city_lummen,2025,14639607,,,bbc_jr_realized,src_lummen_jr2025,strong,Fin debt total YE2025 14.640m DECLINE (was 15.055m); tick1095
+bud_lum_fin_debt_lt_2025,city_lummen,2025,13648557,,,bbc_jr_realized,src_lummen_jr2025,strong,Fin debt LT YE2025 13.649m DECLINE; tick1095
+bud_lum_fin_debt_st_due_2025,city_lummen,2025,991051,,,bbc_jr_realized,src_lummen_jr2025,strong,Fin debt ST due YE2025 0.991m; tick1095
+bud_lum_new_loans_2025,city_lummen,2025,549156,,,bbc_jr_realized,src_lummen_jr2025,strong,Nieuwe leningen 2025 0.549m LOW leasing (MJP bank package large UNDERDRAW FOI); tick1095
+bud_lum_aflossingen_2025,city_lummen,2025,964731,,,bbc_jr_realized,src_lummen_jr2025,strong,Periodieke aflossingen 2025 0.965m; tick1095
+bud_lum_cash_2025,city_lummen,2025,10075666,,,bbc_jr_realized,src_lummen_jr2025,strong,Liquide middelen YE2025 10.076m slight JUMP (was 9.994m); tick1095
+bud_lum_pension_2025,city_lummen,2025,1986473,,,bbc_jr_realized,src_lummen_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.986m slight DROP (was 1.993m); tick1095
+bud_lum_cap_subs_2025,city_lummen,2025,15384091,,,bbc_jr_realized,src_lummen_jr2025,strong,Kapitaalsubsidies YE2025 15.384m JUMP; tick1095
+bud_lum_fva_total_2025,city_lummen,2025,45402146,,,bbc_jr_realized,src_lummen_jr2025,strong,FVA total YE2025 45.402m MASSIVE JUMP FOI (was 19.514m); tick1095
+bud_lum_fva_igs_2025,city_lummen,2025,43425635,,,bbc_jr_realized,src_lummen_jr2025,strong,FVA IGS YE2025 43.426m MASSIVE JUMP FOI (was 17.544m +25.88m); tick1095
+bud_lum_fva_other_2025,city_lummen,2025,1976511,,,bbc_jr_realized,src_lummen_jr2025,strong,Andere FVA YE2025 1.977m; tick1095
+bud_lum_herwaard_2025,city_lummen,2025,25839466,,,bbc_jr_realized,src_lummen_jr2025,strong,Herwaarderingsreserves YE2025 25.839m MASSIVE JUMP FOI (was 0.015m); tick1095
+bud_lum_leasing_mva_2025,city_lummen,2025,2337801,,,bbc_jr_realized,src_lummen_jr2025,strong,Leasing MVA YE2025 2.338m; tick1095
+bud_lum_expl_rec_2025,city_lummen,2025,34717329,,,bbc_jr_realized,src_lummen_jr2025,strong,Exploitatieontvangsten 34.717m; tick1095
+bud_lum_expl_exp_2025,city_lummen,2025,29482263,,,bbc_jr_realized,src_lummen_jr2025,strong,Exploitatieuitgaven 29.482m; tick1095
+bud_lum_expl_saldo_2025,city_lummen,2025,5235066,,,bbc_jr_realized,src_lummen_jr2025,strong,Exploitatiesaldo +5.235m VERY STRONG; tick1095
+bud_lum_invest_exp_2025,city_lummen,2025,6835512,,,bbc_jr_realized,src_lummen_jr2025,strong,Investeringsuitgaven 6.836m vs MJP 17.824m MASSIVE UNDERSPEND FOI; tick1095
+bud_lum_invest_rec_2025,city_lummen,2025,1447320,,,bbc_jr_realized,src_lummen_jr2025,strong,Investeringsontvangsten 1.447m; tick1095
+bud_lum_invest_saldo_2025,city_lummen,2025,-5388191,,,bbc_jr_realized,src_lummen_jr2025,strong,Investeringssaldo -5.388m FOI; tick1095
+bud_lum_mjp_invest_planned_2025,city_lummen,2025,17824300,,,bbc_jr_realized,src_lummen_jr2025,strong,MJP invest planned 17.824m vs realized 6.836m MASSIVE UNDERSPEND FOI; tick1095
+bud_lum_afm_2025,city_lummen,2025,4270335,,,bbc_jr_realized,src_lummen_jr2025,strong,AFM +4.270m VERY STRONG; tick1095
+bud_lum_afm_corrected_2025,city_lummen,2025,4030651,,,bbc_jr_realized,src_lummen_jr2025,strong,Gecorrigeerde AFM +4.031m VERY STRONG; tick1095
+bud_lum_bbr_2025,city_lummen,2025,7082326,,,bbc_jr_realized,src_lummen_jr2025,strong,Beschikbaar budgettair resultaat 7.082m HIGH; tick1095
+bud_lum_budget_result_2025,city_lummen,2025,-565795,,,bbc_jr_realized,src_lummen_jr2025,strong,Budgettair resultaat boekjaar -0.566m NEG FOI invest-driven; tick1095
+bud_lum_cum_budget_2025,city_lummen,2025,9086821,,,bbc_jr_realized,src_lummen_jr2025,strong,Gecumuleerd budgettair resultaat 9.087m; tick1095
+bud_lum_onbeschikbaar_2025,city_lummen,2025,2004496,,,bbc_jr_realized,src_lummen_jr2025,strong,Onbeschikbare gelden 2.004m HIGH FOI; tick1095
+bud_lum_pnl_2025,city_lummen,2025,2725486,,,bbc_jr_realized,src_lummen_jr2025,strong,P&L overschot +2.725m STRONG DROP (was +3.998m); tick1095
+bud_lum_personnel_2025,city_lummen,2025,18307744,,,bbc_jr_realized,src_lummen_jr2025,strong,Bezoldigingen 18.308m JUMP incl edu pass-through 0.812m; tick1095
+bud_lum_edu_pass_through_2025,city_lummen,2025,812102,,,bbc_jr_realized,src_lummen_jr2025,strong,Onderwijzend personeel ten laste andere 0.812m; tick1095
+bud_lum_goods_services_2025,city_lummen,2025,6043780,,,bbc_jr_realized,src_lummen_jr2025,strong,Goederen en diensten 6.044m; tick1095
+bud_lum_toelagen_2025,city_lummen,2025,4163703,,,bbc_jr_realized,src_lummen_jr2025,strong,Toegestane werkingssubsidies 4.164m FOI; tick1095
+bud_lum_police_toelage_2025,city_lummen,2025,2213604,,,bbc_jr_realized,src_lummen_jr2025,strong,Politiezone toelage 2.214m JUMP FOI; tick1095
+bud_lum_fire_toelage_2025,city_lummen,2025,759761,,,bbc_jr_realized,src_lummen_jr2025,strong,HVZ toelage 0.760m; tick1095
+bud_lum_igs_toelage_2025,city_lummen,2025,740536,,,bbc_jr_realized,src_lummen_jr2025,strong,IGS toelage 0.741m FOI; tick1095
+bud_lum_other_toelagen_2025,city_lummen,2025,336280,,,bbc_jr_realized,src_lummen_jr2025,strong,Andere toelagen 0.336m FOI; tick1095
+bud_lum_eredienst_toelage_2025,city_lummen,2025,113522,,,bbc_jr_realized,src_lummen_jr2025,strong,Eredienst toelage 0.114m; tick1095
+bud_lum_fiscal_rec_2025,city_lummen,2025,13912261,,,bbc_jr_realized,src_lummen_jr2025,strong,Fiscale ontvangsten 13.912m JUMP; tick1095
+bud_lum_fiscal_ov_2025,city_lummen,2025,6295912,,,bbc_jr_realized,src_lummen_jr2025,strong,Opcentiemen OV 6.296m JUMP; tick1095
+bud_lum_fiscal_pb_2025,city_lummen,2025,6434688,,,bbc_jr_realized,src_lummen_jr2025,strong,Aanvullende PB 6.435m JUMP; tick1095
+bud_lum_gemeentefonds_2025,city_lummen,2025,4472817,,,bbc_jr_realized,src_lummen_jr2025,strong,Gemeentefonds 4.473m; tick1095
+bud_lum_ocmw_cover_2025,city_lummen,2025,0,,,bbc_jr_realized,src_lummen_jr2025,strong,OCMW tussenkomst 0 ZERO FOI; equity cum -4.141m WORSENING; tick1095
+bud_lum_ocmw_hulp_2025,city_lummen,2025,706776,,,bbc_jr_realized,src_lummen_jr2025,strong,OCMW individuele hulpverlening 0.707m; tick1095
+bud_lum_ocmw_equity_cum_2025,city_lummen,2025,-4141080,,,bbc_jr_realized,src_lummen_jr2025,strong,OCMW equity cum -4.141m WORSENING FOI (was -2.700m; cover 0); tick1095
+bud_lum_financieringssaldo_2025,city_lummen,2025,-412670,,,bbc_jr_realized,src_lummen_jr2025,strong,Financieringssaldo -0.413m; tick1095
+bud_lum_interest_2025,city_lummen,2025,295218,,,bbc_jr_realized,src_lummen_jr2025,strong,Intresten 0.295m; tick1095
