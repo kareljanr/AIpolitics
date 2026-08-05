@@ -23124,3 +23124,52 @@ bud_wzbw_costs_j5_2025,wzbw_wervik,2025,20633652,,,realized,src_wzbw_wervik_jr20
 bud_wzbw_revenue_j5_2025,wzbw_wervik,2025,19956835,,,realized,src_wzbw_wervik_jr2025,strong,J5 total opbrengsten 19.96m; tick986
 bud_wzbw_mjp_invest_exp_2025,wzbw_wervik,2025,4404921,,,realized,src_wzbw_wervik_jr2025,strong,MJP investeringsuitgaven 4.40m (realized 0.88m underspend FOI); tick986
 bud_wzbw_respo_2025,wzbw_wervik,2025,67474,,,realized,src_wzbw_wervik_jr2025,strong,Responsabiliseringsbijdrage 0.067m FOI residual; tick986
+bud_led_assets_2025,city_ledegem,2025,71780624,,,realized,src_ledegem_jr2025,strong,Assets YE2025 71.78m JUMP (was 58.57m) FVA reval FOI; tick987
+bud_led_equity_2025,city_ledegem,2025,57394971,,,realized,src_ledegem_jr2025,strong,Nettoactief YE2025 57.39m JUMP reval FOI; tick987
+bud_led_debt_total_2025,city_ledegem,2025,14385653,,,realized,src_ledegem_jr2025,strong,Total schulden YE2025 14.39m; tick987
+bud_led_fin_debt_2025,city_ledegem,2025,8658984,,,realized,src_ledegem_jr2025,strong,Fin debt total YE2025 8.66m DECLINING (was 8.90m); tick987
+bud_led_fin_debt_lt_2025,city_ledegem,2025,7988858,,,realized,src_ledegem_jr2025,strong,Fin debt LT YE2025 7.99m; tick987
+bud_led_fin_debt_st_due_2025,city_ledegem,2025,670125,,,realized,src_ledegem_jr2025,strong,Fin debt ST due YE2025 0.670m; tick987
+bud_led_new_loans_2025,city_ledegem,2025,431235,,,realized,src_ledegem_jr2025,strong,Nieuwe leningen/lease 0.431m FOI; tick987
+bud_led_repayments_2025,city_ledegem,2025,676843,,,realized,src_ledegem_jr2025,strong,Periodieke aflossingen 0.677m; tick987
+bud_led_cash_2025,city_ledegem,2025,2798063,,,realized,src_ledegem_jr2025,strong,Liquide middelen YE2025 2.80m DROP (was 3.06m) FOI; tick987
+bud_led_pension_2025,city_ledegem,2025,3461778,,,realized,src_ledegem_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.46m; tick987
+bud_led_leasing_mva_2025,city_ledegem,2025,1416528,,,realized,src_ledegem_jr2025,strong,Leasing MVA YE2025 1.42m FOI; tick987
+bud_led_fva_igs_2025,city_ledegem,2025,17030027,,,realized,src_ledegem_jr2025,strong,FVA IGS YE2025 17.03m JUMP (was 4.45m) herwaard 12.61m FOI; tick987
+bud_led_fva_other_2025,city_ledegem,2025,10152885,,,realized,src_ledegem_jr2025,strong,Andere FVA YE2025 10.15m; tick987
+bud_led_herwaard_reserves_2025,city_ledegem,2025,12609500,,,realized,src_ledegem_jr2025,strong,Herwaarderingsreserves YE2025 12.61m JUMP FOI; tick987
+bud_led_cap_subs_2025,city_ledegem,2025,4021636,,,realized,src_ledegem_jr2025,strong,Kapitaalsubsidies YE2025 4.02m; tick987
+bud_led_expl_rec_2025,city_ledegem,2025,15321997,,,realized,src_ledegem_jr2025,strong,Exploitatieontvangsten 15.32m; tick987
+bud_led_expl_exp_2025,city_ledegem,2025,13079421,,,realized,src_ledegem_jr2025,strong,Exploitatieuitgaven 13.08m; tick987
+bud_led_expl_saldo_2025,city_ledegem,2025,2242576,,,realized,src_ledegem_jr2025,strong,Exploitatiesaldo +2.24m STRONG; tick987
+bud_led_invest_exp_2025,city_ledegem,2025,3153937,,,realized,src_ledegem_jr2025,strong,Investeringsuitgaven 3.15m vs MJP 6.26m underspend FOI; tick987
+bud_led_invest_rec_2025,city_ledegem,2025,1191470,,,realized,src_ledegem_jr2025,strong,Investeringsontvangsten 1.19m; tick987
+bud_led_invest_saldo_2025,city_ledegem,2025,-1962467,,,realized,src_ledegem_jr2025,strong,Investeringssaldo -1.96m; tick987
+bud_led_fin_rec_2025,city_ledegem,2025,442493,,,realized,src_ledegem_jr2025,strong,Financieringsontvangsten 0.442m; tick987
+bud_led_fin_exp_2025,city_ledegem,2025,676843,,,realized,src_ledegem_jr2025,strong,Financieringsuitgaven 0.677m; tick987
+bud_led_budget_result_2025,city_ledegem,2025,45759,,,realized,src_ledegem_jr2025,strong,Budgettair resultaat +0.046m thin FOI; tick987
+bud_led_cum_budget_2025,city_ledegem,2025,2315520,,,realized,src_ledegem_jr2025,strong,Gecumuleerd budgettair resultaat 2.32m; tick987
+bud_led_bbr_2025,city_ledegem,2025,2315520,,,realized,src_ledegem_jr2025,strong,Beschikbaar BBR 2.32m; tick987
+bud_led_afm_2025,city_ledegem,2025,1576991,,,realized,src_ledegem_jr2025,strong,AFM +1.58m STRONG; tick987
+bud_led_afm_corr_2025,city_ledegem,2025,1541467,,,realized,src_ledegem_jr2025,strong,Gecorrigeerde AFM +1.54m; tick987
+bud_led_pnl_2025,city_ledegem,2025,1161203,,,realized,src_ledegem_jr2025,strong,P&L +1.16m (GE +1.25m / OCMW -0.091m FOI); tick987
+bud_led_ge_pnl_2025,city_ledegem,2025,1252006,,,realized,src_ledegem_jr2025,strong,Gemeente P&L +1.25m; tick987
+bud_led_ocmw_pnl_neg_2025,city_ledegem,2025,-90803,,,realized,src_ledegem_jr2025,strong,OCMW P&L -0.091m FOI residual; tick987
+bud_led_ocmw_cover_2025,city_ledegem,2025,400519,,,realized,src_ledegem_jr2025,strong,OCMW cover 0.401m FOI residual; tick987
+bud_led_ocmw_cum_deficit_2025,city_ledegem,2025,-1769719,,,realized,src_ledegem_jr2025,strong,OCMW cum deficit -1.77m (was -2.08m) FOI; tick987
+bud_led_personnel_2025,city_ledegem,2025,6249402,,,realized,src_ledegem_jr2025,strong,Bezoldigingen 6.25m FOI; tick987
+bud_led_goederen_2025,city_ledegem,2025,3285800,,,realized,src_ledegem_jr2025,strong,Goederen en diensten 3.29m; tick987
+bud_led_toelagen_2025,city_ledegem,2025,1904219,,,realized,src_ledegem_jr2025,strong,Toegestane werkingssubsidies 1.90m FOI named; tick987
+bud_led_toelage_police_2025,city_ledegem,2025,1089089,,,realized,src_ledegem_jr2025,strong,Toelage politiezone 1.09m FOI; tick987
+bud_led_toelage_fire_2025,city_ledegem,2025,271445,,,realized,src_ledegem_jr2025,strong,Toelage HVZ 0.271m FOI; tick987
+bud_led_toelage_igs_2025,city_ledegem,2025,136610,,,realized,src_ledegem_jr2025,strong,Toelage IGS 0.137m FOI; tick987
+bud_led_toelage_eredienst_2025,city_ledegem,2025,126634,,,realized,src_ledegem_jr2025,strong,Toelage besturen eredienst 0.127m; tick987
+bud_led_toelage_other_2025,city_ledegem,2025,280441,,,realized,src_ledegem_jr2025,strong,Toelage andere begunstigden 0.280m FOI; tick987
+bud_led_ocmw_aid_2025,city_ledegem,2025,484252,,,realized,src_ledegem_jr2025,strong,Individuele hulp OCMW 0.484m FOI; tick987
+bud_led_fiscal_2025,city_ledegem,2025,7606263,,,realized,src_ledegem_jr2025,strong,Fiscale opbrengsten 7.61m; tick987
+bud_led_gemeentefonds_2025,city_ledegem,2025,2811862,,,realized,src_ledegem_jr2025,strong,Gemeentefonds 2.81m; tick987
+bud_led_werkingsubs_rec_2025,city_ledegem,2025,4637734,,,realized,src_ledegem_jr2025,strong,Ontvangen werkingssubsidies 4.64m; tick987
+bud_led_costs_j5_2025,city_ledegem,2025,15060445,,,realized,src_ledegem_jr2025,strong,J5 total kosten 15.06m; tick987
+bud_led_revenue_j5_2025,city_ledegem,2025,16221648,,,realized,src_ledegem_jr2025,strong,J5 total opbrengsten 16.22m; tick987
+bud_led_mjp_invest_exp_2025,city_ledegem,2025,6264023,,,realized,src_ledegem_jr2025,strong,MJP investeringsuitgaven 6.26m (realized 3.15m underspend FOI); tick987
+bud_led_pastorie_sale_2025,city_ledegem,2025,456800,,,realized,src_ledegem_jr2025,strong,Verkoop pastorie Ledegem invest rec 0.457m FOI; tick987

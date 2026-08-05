@@ -12735,3 +12735,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_987** residual dual L5 (Ledegem / Torhout / Kuurne / Meulebeke); deferred **rq_116**; progress@990 in 4
 
+
+### Tick 987 - 2026-08-09T06:45:00Z
+
+- Unit: **rq_987** (FOI-adjacent residual dual - **Gemeente+OCMW Ledegem Jaarrekening 2025** long-deferred + WZBW dual residual)
+- Found (strong primary BBC consol JR2025 130p LBLOD; KBO 0207.487.354 / OCMW 0212.192.547; FD Carine Denys; AD Marijn De Vos; Rollegemstraat 132):
+  - Assets **EUR71.78m JUMP** (was **EUR58.57m**) / equity **EUR57.39m** / debt total **EUR14.39m** / fin debt **EUR8.66m** (**DECLINING** from **EUR8.90m**; LT **EUR7.99m** / ST due **EUR0.670m**)
+  - New loans/lease **EUR0.431m** / repayments **EUR0.677m**
+  - Cash **EUR2.80m DROP** (was **EUR3.06m**) / pension **EUR3.46m** / leasing MVA **EUR1.42m FOI**
+  - **FVA IGS EUR17.03m JUMP** (was **EUR4.45m**; herwaard **EUR12.61m FOI**) / herwaard reserves **EUR12.61m JUMP**
+  - Exploitatie: ontvangsten **EUR15.32m** / uitgaven **EUR13.08m** / saldo **+EUR2.24m STRONG**
+  - AFM **+EUR1.58m STRONG** (gecorr **+EUR1.54m**) / BBR **EUR2.32m** / budget **+EUR0.046m thin FOI** / P&L **+EUR1.16m** (GE **+EUR1.25m** / OCMW **-EUR0.091m FOI**)
+  - Personnel **EUR6.25m** / toelagen **EUR1.90m FOI** (police **EUR1.09m** / fire **EUR0.271m** / IGS **EUR0.137m** / other **EUR0.280m** / eredienst **EUR0.127m**)
+  - Invest **EUR3.15m** vs MJP **EUR6.26m underspend FOI** / **OCMW cover EUR0.401m FOI** / OCMW cum **-EUR1.77m** (was -2.08m)
+- Dual: WZBW **EUR41.60m** / AFM **-EUR0.082m** / cum deficit **-EUR6.28m** (tick986) - not TE-additive
+- Note: Torhout still news-only (no full BBC PDF); Meulebeke/AGB De Panne candidates next residual
+- Wrote: budgets +49 (bud_led_*); commitments +5; leaderboard +7; sources +1; entity city_ledegem; FOI **gap_led_fva_ocmw_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~36MB not stored in git); rq_987=done; spawn **rq_988**; ticks=987
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_988** residual dual L5 (Torhout / Meulebeke / AGB De Panne); deferred **rq_116**; progress@990 in 3
+
