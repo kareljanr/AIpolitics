@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T05:45:00Z,rq_985,985,no,tick985 Kortemark GE+OCMW JR2025 dual residual; FOI gap_km_ocmw_fva_pension_toelagen_l5 prio8 assets 98.68m fin debt 9.76m DECLINING cash 5.10m JUMP AFM +6.72m OCMW cover 0.969m FULL toelagen 2.17m pension 5.47m RISING FVA IGS 30.56m JUMP; next residual dual L5 rq_986; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T06:15:00Z,rq_986,986,no,tick986 WZBW Wervik Entity II JR2025 dual residual; FOI gap_wzbw_afm_deficit_ocmw_debt_l5 prio8 assets 41.60m fin debt 17.86m +loan 1.25m AFM -0.082m NEG P&L -0.677m cum deficit -6.28m OCMW subs 1.35m personnel 13.87m; next residual dual L5 rq_987; rq_116 deferred

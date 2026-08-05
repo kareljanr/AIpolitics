@@ -23082,3 +23082,45 @@ bud_km_fin_income_j5_2025,city_kortemark,2025,5170005,,,realized,src_kortemark_j
 bud_km_costs_j5_2025,city_kortemark,2025,22339858,,,realized,src_kortemark_jr2025,strong,J5 total kosten 22.34m; tick985
 bud_km_revenue_j5_2025,city_kortemark,2025,26835289,,,realized,src_kortemark_jr2025,strong,J5 total opbrengsten 26.84m; tick985
 bud_km_mjp_invest_exp_2025,city_kortemark,2025,14067820,,,realized,src_kortemark_jr2025,strong,MJP investeringsuitgaven 14.07m (realized 6.80m underspend FOI); tick985
+bud_wzbw_assets_2025,wzbw_wervik,2025,41595366,,,realized,src_wzbw_wervik_jr2025,strong,Assets YE2025 41.60m; tick986
+bud_wzbw_equity_2025,wzbw_wervik,2025,20659203,,,realized,src_wzbw_wervik_jr2025,strong,Nettoactief YE2025 20.66m DECLINING (was 21.34m); tick986
+bud_wzbw_debt_total_2025,wzbw_wervik,2025,20936164,,,realized,src_wzbw_wervik_jr2025,strong,Total schulden YE2025 20.94m; tick986
+bud_wzbw_fin_debt_2025,wzbw_wervik,2025,17858985,,,realized,src_wzbw_wervik_jr2025,strong,Fin debt total YE2025 17.86m slightly DECLINING (was 18.03m); tick986
+bud_wzbw_fin_debt_lt_2025,wzbw_wervik,2025,16392620,,,realized,src_wzbw_wervik_jr2025,strong,Fin debt LT YE2025 16.39m; tick986
+bud_wzbw_fin_debt_st_due_2025,wzbw_wervik,2025,1466365,,,realized,src_wzbw_wervik_jr2025,strong,Fin debt ST due YE2025 1.47m; tick986
+bud_wzbw_new_loans_2025,wzbw_wervik,2025,1250000,,,realized,src_wzbw_wervik_jr2025,strong,Nieuwe lening 1.25m Belfius 2.79pct 5yr revisable FOI; tick986
+bud_wzbw_repayments_2025,wzbw_wervik,2025,1420659,,,realized,src_wzbw_wervik_jr2025,strong,Periodieke aflossingen 1.42m; tick986
+bud_wzbw_cash_2025,wzbw_wervik,2025,3573750,,,realized,src_wzbw_wervik_jr2025,strong,Liquide middelen YE2025 3.57m JUMP (was 2.93m); tick986
+bud_wzbw_pension_2025,wzbw_wervik,2025,330000,,,realized,src_wzbw_wervik_jr2025,strong,Pensioenvoorzieningen LT YE2025 0.330m flat; tick986
+bud_wzbw_leasing_mva_2025,wzbw_wervik,2025,122535,,,realized,src_wzbw_wervik_jr2025,strong,Leasing MVA YE2025 0.123m FOI; tick986
+bud_wzbw_cap_subs_2025,wzbw_wervik,2025,10485979,,,realized,src_wzbw_wervik_jr2025,strong,Kapitaalsubsidies YE2025 10.49m; tick986
+bud_wzbw_onbeschikbaar_2025,wzbw_wervik,2025,298935,,,realized,src_wzbw_wervik_jr2025,strong,Onbeschikbare gelden 0.299m FOI; tick986
+bud_wzbw_expl_rec_2025,wzbw_wervik,2025,19371865,,,realized,src_wzbw_wervik_jr2025,strong,Exploitatieontvangsten 19.37m; tick986
+bud_wzbw_expl_exp_2025,wzbw_wervik,2025,18572721,,,realized,src_wzbw_wervik_jr2025,strong,Exploitatieuitgaven 18.57m; tick986
+bud_wzbw_expl_saldo_2025,wzbw_wervik,2025,799144,,,realized,src_wzbw_wervik_jr2025,strong,Exploitatiesaldo +0.799m; tick986
+bud_wzbw_invest_exp_2025,wzbw_wervik,2025,881378,,,realized,src_wzbw_wervik_jr2025,strong,Investeringsuitgaven 0.881m vs MJP 4.40m LARGE underspend FOI; tick986
+bud_wzbw_invest_rec_2025,wzbw_wervik,2025,1187785,,,realized,src_wzbw_wervik_jr2025,strong,Investeringsontvangsten 1.19m; tick986
+bud_wzbw_invest_saldo_2025,wzbw_wervik,2025,306408,,,realized,src_wzbw_wervik_jr2025,strong,Investeringssaldo +0.306m; tick986
+bud_wzbw_fin_rec_2025,wzbw_wervik,2025,1250000,,,realized,src_wzbw_wervik_jr2025,strong,Financieringsontvangsten 1.25m new loan; tick986
+bud_wzbw_fin_exp_2025,wzbw_wervik,2025,1420659,,,realized,src_wzbw_wervik_jr2025,strong,Financieringsuitgaven 1.42m; tick986
+bud_wzbw_budget_result_2025,wzbw_wervik,2025,934892,,,realized,src_wzbw_wervik_jr2025,strong,Budgettair resultaat +0.935m; tick986
+bud_wzbw_cum_budget_2025,wzbw_wervik,2025,4256389,,,realized,src_wzbw_wervik_jr2025,strong,Gecumuleerd budgettair resultaat 4.26m; tick986
+bud_wzbw_bbr_2025,wzbw_wervik,2025,3957454,,,realized,src_wzbw_wervik_jr2025,strong,Beschikbaar BBR 3.96m (onbeschikbaar 0.299m); tick986
+bud_wzbw_afm_2025,wzbw_wervik,2025,-81950,,,realized,src_wzbw_wervik_jr2025,strong,AFM -0.082m NEG FOI residual (better than budget -0.587m); tick986
+bud_wzbw_afm_corr_2025,wzbw_wervik,2025,-103663,,,realized,src_wzbw_wervik_jr2025,strong,Gecorrigeerde AFM -0.104m NEG FOI; tick986
+bud_wzbw_pnl_2025,wzbw_wervik,2025,-676818,,,realized,src_wzbw_wervik_jr2025,strong,P&L -0.677m FOI residual (was -0.718m); tick986
+bud_wzbw_cum_deficit_2025,wzbw_wervik,2025,-6281150,,,realized,src_wzbw_wervik_jr2025,strong,Cum P&L deficit -6.28m WORSENING (was -5.60m) FOI; tick986
+bud_wzbw_personnel_2025,wzbw_wervik,2025,13871510,,,realized,src_wzbw_wervik_jr2025,strong,Bezoldigingen 13.87m FOI; tick986
+bud_wzbw_goederen_2025,wzbw_wervik,2025,4111426,,,realized,src_wzbw_wervik_jr2025,strong,Goederen en diensten 4.11m; tick986
+bud_wzbw_werkingsubs_rec_2025,wzbw_wervik,2025,5748681,,,realized,src_wzbw_wervik_jr2025,strong,Ontvangen werkingssubsidies 5.75m FOI; tick986
+bud_wzbw_ocmw_werkingsubs_2025,wzbw_wervik,2025,1350472,,,realized,src_wzbw_wervik_jr2025,strong,OCMW alg werkingsubsidie 1.35m dual FOI; tick986
+bud_wzbw_vl_alg_subs_2025,wzbw_wervik,2025,536091,,,realized,src_wzbw_wervik_jr2025,strong,VL algemene werkingsubsidie 0.536m; tick986
+bud_wzbw_fed_spec_subs_2025,wzbw_wervik,2025,1904837,,,realized,src_wzbw_wervik_jr2025,strong,Fed specifieke werkingsubsidies 1.90m; tick986
+bud_wzbw_vl_spec_subs_2025,wzbw_wervik,2025,1902347,,,realized,src_wzbw_wervik_jr2025,strong,VL specifieke werkingsubsidies 1.90m; tick986
+bud_wzbw_ocmw_invest_subs_2025,wzbw_wervik,2025,550000,,,realized,src_wzbw_wervik_jr2025,strong,OCMW investeringssubsidie 0.550m dual FOI; tick986
+bud_wzbw_werking_rec_2025,wzbw_wervik,2025,13198704,,,realized,src_wzbw_wervik_jr2025,strong,Ontvangsten uit de werking 13.20m; tick986
+bud_wzbw_interest_2025,wzbw_wervik,2025,476461,,,realized,src_wzbw_wervik_jr2025,strong,Rente aan financiele instellingen 0.476m; tick986
+bud_wzbw_costs_j5_2025,wzbw_wervik,2025,20633652,,,realized,src_wzbw_wervik_jr2025,strong,J5 total kosten 20.63m; tick986
+bud_wzbw_revenue_j5_2025,wzbw_wervik,2025,19956835,,,realized,src_wzbw_wervik_jr2025,strong,J5 total opbrengsten 19.96m; tick986
+bud_wzbw_mjp_invest_exp_2025,wzbw_wervik,2025,4404921,,,realized,src_wzbw_wervik_jr2025,strong,MJP investeringsuitgaven 4.40m (realized 0.88m underspend FOI); tick986
+bud_wzbw_respo_2025,wzbw_wervik,2025,67474,,,realized,src_wzbw_wervik_jr2025,strong,Responsabiliseringsbijdrage 0.067m FOI residual; tick986

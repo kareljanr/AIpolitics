@@ -12715,3 +12715,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_986** residual dual L5 (Ledegem / Torhout / WZBW / other unmined VL JR2025); deferred **rq_116**; progress@990 in 5
 
+
+### Tick 986 - 2026-08-09T06:15:00Z
+
+- Unit: **rq_986** (FOI-adjacent residual dual Entity II - **Woon- en Zorgbedrijf Wervik (WZBW) Jaarrekening 2025** + Kortemark dual residual)
+- Found (strong primary BBC JR2025 155p; KBO 0686.537.789; chair Lien Deblaere; AD Dylan Vandewaetere; Steenakker 30):
+  - Assets **EUR41.60m** / equity **EUR20.66m DECLINING** / debt total **EUR20.94m** / fin debt **EUR17.86m** (slight **DECLINING** from **EUR18.03m**; LT **EUR16.39m** / ST due **EUR1.47m**)
+  - New loan **EUR1.25m** (Belfius 2.79pct 5yr revisable) / repayments **EUR1.42m**
+  - Cash **EUR3.57m JUMP** (was **EUR2.93m**) / pension **EUR0.330m flat** / leasing MVA **EUR0.123m FOI** / cap subs **EUR10.49m**
+  - Exploitatie: ontvangsten **EUR19.37m** / uitgaven **EUR18.57m** / saldo **+EUR0.799m**
+  - AFM **-EUR0.082m NEG FOI** (gecorr **-EUR0.104m**; better than budget -0.587m) / BBR **EUR3.96m** / budget **+EUR0.935m** / P&L **-EUR0.677m**
+  - **Cum P&L deficit -EUR6.28m WORSENING FOI** (was -5.60m)
+  - Personnel **EUR13.87m** / goederen **EUR4.11m** / werkingssubs rec **EUR5.75m**
+  - **OCMW dual werkingsubs EUR1.35m FOI** / OCMW invest subs **EUR0.550m** / fed+VL care subs stack
+  - Invest **EUR0.881m** vs MJP **EUR4.40m LARGE underspend FOI** / JR admits borrow-to-cover operating deficit path
+- Dual: city_wervik **EUR111m** / fin debt **EUR19.6m RISING** / FVA WZBW **EUR16.5m** (tick961); Kortemark **EUR98.7m** (tick985) - not TE-additive
+- Note: Ledegem/Torhout still no full extractable BBC JR2025 PDF this tick; Kuurne/Meulebeke candidates next
+- Wrote: budgets +42 (bud_wzbw_*); commitments +5; leaderboard +7; sources +1; entity wzbw_wervik; FOI **gap_wzbw_afm_deficit_ocmw_debt_l5** prio8 ready + draft; key only (PDF ~5.4MB not stored in git); rq_986=done; spawn **rq_987**; ticks=986
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_987** residual dual L5 (Ledegem / Torhout / Kuurne / Meulebeke); deferred **rq_116**; progress@990 in 4
+
