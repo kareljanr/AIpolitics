@@ -11145,3 +11145,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_zoe_*); commitments +4; leaderboard +7; sources +2; entity city_zoersel; FOI **gap_zoe_pension_cash_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_895=done; spawn **rq_896**; ticks=895
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_896** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 5
+
+## Tick 896 - 2026-08-06T21:00:00Z
+
+- Unit: **rq_896** (FOI-adjacent residual dual - **Gemeente+OCMW Brecht Jaarrekening 2025** + Zoersel dual)
+- Found (strong primary BBC JR2025 101p):
+  - Assets **EUR165.3m** / equity **EUR138.0m** / debt total **EUR27.3m** / fin debt **EUR9.2m** declining (LT **EUR7.9m** / ST due **EUR1.2m**)
+  - New loans 2025 **EUR0** (cash-funded) / pension **EUR9.6m** / cash **EUR18.8m** (was **EUR14.1m**)
+  - Exploitatie: ontvangsten **EUR53.6m** / uitgaven **EUR43.3m** / saldo **+EUR10.3m**
+  - AFM **+EUR8.95m** (gecorr **+EUR9.53m**) / BBR **EUR16.7m** / budget result **+EUR5.83m** / P&L **+EUR4.39m**
+  - Personnel **EUR24.2m** / toelagen **EUR5.6m** (police **EUR3.4m** / other **EUR0.99m FOI**) / fiscal **EUR23.6m**
+  - Invest **EUR5.0m** / invest-subs **EUR0.84m** / gemeentefonds **EUR8.0m**
+  - **MJP new loans EUR12m 2027** / fin debt YE2027 **EUR18.4m FOI**
+- Dual: Zoersel **EUR109.4m** / pension jump + cash drop (tick895) - not TE-additive
+- Wrote: budgets +39 (bud_br_*); commitments +4; leaderboard +7; sources +2; entity city_brecht; FOI **gap_br_mjp_loans_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_896=done; spawn **rq_897**; ticks=896
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_897** residual dual L5 (Malle/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 4

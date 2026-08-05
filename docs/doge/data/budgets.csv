@@ -19494,3 +19494,42 @@ bud_zoe_invest_subs_igs_2025,city_zoersel,2025,191829,,,jaarrekening_realized,sr
 bud_zoe_new_loans_2025,city_zoersel,2025,180037,,,jaarrekening_realized,src_zoersel_jr2025,strong,Nieuwe leningen/leasings 0.180m 2025; tick895
 bud_zoe_pension_jump_2025,city_zoersel,2025,3131476,,,jaarrekening_realized,src_zoersel_jr2025,strong,Pension provision jump +3.131m (11.947 to 15.078) FOI; tick895
 bud_zoe_loans_granted_rec_2025,city_zoersel,2025,342458,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toegestane leningen ontvangsten 0.342m 2025 FOI; tick895
+bud_br_assets_2025,city_brecht,2025,165328239,,,jaarrekening_realized,src_brecht_jr2025,strong,Consol total assets YE2025 165.328m; tick896
+bud_br_equity_2025,city_brecht,2025,138047887,,,jaarrekening_realized,src_brecht_jr2025,strong,Nettoactief YE2025 138.048m; tick896
+bud_br_debt_total_2025,city_brecht,2025,27280352,,,jaarrekening_realized,src_brecht_jr2025,strong,Schulden total YE2025 27.280m; tick896
+bud_br_fin_debt_2025,city_brecht,2025,9173478,,,jaarrekening_realized,src_brecht_jr2025,strong,Fin schulden total YE2025 9.173m (LT 7.929 + ST due 1.244) was 10.609m; tick896
+bud_br_fin_debt_lt_2025,city_brecht,2025,7929315,,,jaarrekening_realized,src_brecht_jr2025,strong,Fin schulden LT YE2025 7.929m; tick896
+bud_br_fin_debt_st_2025,city_brecht,2025,1244163,,,jaarrekening_realized,src_brecht_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.244m; tick896
+bud_br_pension_prov_2025,city_brecht,2025,9578743,,,jaarrekening_realized,src_brecht_jr2025,strong,Pensioenvoorzieningen YE2025 9.579m (was 9.743m); tick896
+bud_br_cash_2025,city_brecht,2025,18810572,,,jaarrekening_realized,src_brecht_jr2025,strong,Liquide middelen YE2025 18.811m (was 14.070m); tick896
+bud_br_cap_subs_2025,city_brecht,2025,15389951,,,jaarrekening_realized,src_brecht_jr2025,strong,Kapitaalsubsidies YE2025 15.390m; tick896
+bud_br_fva_igs_2025,city_brecht,2025,17023175,,,jaarrekening_realized,src_brecht_jr2025,strong,Fin VA IGS YE2025 17.023m; tick896
+bud_br_fva_total_2025,city_brecht,2025,17080965,,,jaarrekening_realized,src_brecht_jr2025,strong,Fin VA total YE2025 17.081m; tick896
+bud_br_cumul_budget_2025,city_brecht,2025,18123272,,,jaarrekening_realized,src_brecht_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 18.123m; tick896
+bud_br_bbr_2025,city_brecht,2025,16661429,,,jaarrekening_realized,src_brecht_jr2025,strong,Beschikbaar budgettair resultaat YE2025 16.661m (onbeschikbaar 1.462m); tick896
+bud_br_expl_rec_2025,city_brecht,2025,53580123,,,jaarrekening_realized,src_brecht_jr2025,strong,Exploitatieontvangsten 53.580m 2025 (J2); tick896
+bud_br_expl_exp_2025,city_brecht,2025,43305992,,,jaarrekening_realized,src_brecht_jr2025,strong,Exploitatieuitgaven 43.306m 2025 (J2); tick896
+bud_br_expl_saldo_2025,city_brecht,2025,10274131,,,jaarrekening_realized,src_brecht_jr2025,strong,Exploitatiesaldo +10.274m 2025; tick896
+bud_br_invest_exp_2025,city_brecht,2025,4973946,,,jaarrekening_realized,src_brecht_jr2025,strong,Investeringsuitgaven 4.974m 2025; tick896
+bud_br_invest_rec_2025,city_brecht,2025,1678450,,,jaarrekening_realized,src_brecht_jr2025,strong,Investeringsontvangsten 1.678m 2025; tick896
+bud_br_invest_saldo_2025,city_brecht,2025,-3295496,,,jaarrekening_realized,src_brecht_jr2025,strong,Investeringssaldo -3.295m 2025; tick896
+bud_br_fin_saldo_2025,city_brecht,2025,-1150554,,,jaarrekening_realized,src_brecht_jr2025,strong,Financieringssaldo -1.151m 2025; tick896
+bud_br_budget_result_2025,city_brecht,2025,5828081,,,jaarrekening_realized,src_brecht_jr2025,strong,Budgettair resultaat boekjaar +5.828m 2025; tick896
+bud_br_afm_2025,city_brecht,2025,8946654,,,jaarrekening_realized,src_brecht_jr2025,strong,Autofinancieringsmarge +8.947m 2025; tick896
+bud_br_afm_gecorr_2025,city_brecht,2025,9533629,,,jaarrekening_realized,src_brecht_jr2025,strong,Gecorrigeerde AFM +9.534m 2025; tick896
+bud_br_pl_2025,city_brecht,2025,4393438,,,jaarrekening_realized,src_brecht_jr2025,strong,P&L overschot +4.393m 2025; tick896
+bud_br_personnel_2025,city_brecht,2025,24227954,,,jaarrekening_realized,src_brecht_jr2025,strong,Bezoldigingen 24.228m 2025 (incl onderwijs other ~2.629m); tick896
+bud_br_personnel_onderwijs_other_2025,city_brecht,2025,2629075,,,jaarrekening_realized,src_brecht_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.629m 2025; tick896
+bud_br_toelagen_2025,city_brecht,2025,5550417,,,jaarrekening_realized,src_brecht_jr2025,strong,Toegestane werkingssubsidies 5.550m 2025; tick896
+bud_br_toelagen_police_2025,city_brecht,2025,3423033,,,jaarrekening_realized,src_brecht_jr2025,strong,Toelage politiezone 3.423m 2025; tick896
+bud_br_toelagen_fire_2025,city_brecht,2025,1123098,,,jaarrekening_realized,src_brecht_jr2025,strong,Toelage hulpverleningszone 1.123m 2025; tick896
+bud_br_toelagen_other_2025,city_brecht,2025,985899,,,jaarrekening_realized,src_brecht_jr2025,strong,Toelagen andere begunstigden 0.986m 2025 FOI; tick896
+bud_br_ocmw_aid_2025,city_brecht,2025,1154953,,,jaarrekening_realized,src_brecht_jr2025,strong,Individuele hulpverlening OCMW 1.155m 2025; tick896
+bud_br_fiscal_2025,city_brecht,2025,23591664,,,jaarrekening_realized,src_brecht_jr2025,strong,Fiscale opbrengsten en boetes 23.592m 2025; tick896
+bud_br_fiscal_ov_2025,city_brecht,2025,8410197,,,jaarrekening_realized,src_brecht_jr2025,strong,Opcentiemen OV 8.410m 2025; tick896
+bud_br_fiscal_apb_2025,city_brecht,2025,14106988,,,jaarrekening_realized,src_brecht_jr2025,strong,Aanvullende PB 14.107m 2025; tick896
+bud_br_gemeentefonds_2025,city_brecht,2025,7954998,,,jaarrekening_realized,src_brecht_jr2025,strong,Gemeentefonds 7.955m 2025; tick896
+bud_br_invest_subs_granted_2025,city_brecht,2025,837835,,,jaarrekening_realized,src_brecht_jr2025,strong,Toegestane investeringssubsidies 0.838m 2025; tick896
+bud_br_new_loans_2025,city_brecht,2025,0,,,jaarrekening_realized,src_brecht_jr2025,strong,Nieuwe leningen 0 2025 (no draw; cash-funded invest); tick896
+bud_br_mjp_fin_debt_2027,city_brecht,2025,18361884,,,jaarrekening_realized,src_brecht_jr2025,strong,MJP fin debt path YE2027 18.362m FOI; tick896
+bud_br_mjp_new_loans_2027,city_brecht,2025,12000000,,,jaarrekening_realized,src_brecht_jr2025,strong,MJP new loans 2027 12.000m FOI; tick896
