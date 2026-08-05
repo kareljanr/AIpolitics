@@ -11755,3 +11755,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +53 (bud_kru_*); commitments +4; leaderboard +7; sources +2; entity city_kruisem; FOI **gap_kru_loans_toelagen_invest_l5** prio8 ready + draft; raw PDF + key; rq_932=done; spawn **rq_933**; ticks=932
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_933** residual dual L5 (Haacht JR / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 8
+
+### Tick 933 - 2026-08-07T15:15:00Z
+
+- Unit: **rq_933** (FOI-adjacent residual dual - **Gemeente+OCMW Haacht Jaarrekening 2025** + Kruisem dual + AGB Entity II residual)
+- Found (strong primary BBC JR2025 66p + toelichting 162p; GR besluit 22.06.2026):
+  - Assets **EUR76.3m** / equity **EUR55.2m** / debt total **EUR21.1m** / fin debt **EUR12.05m** (**DECLINING** from **EUR13.00m**; LT **EUR10.83m** / ST due **EUR1.22m**)
+  - New loans **EUR0.25m** lease only (**no bank 2025**; MJP planned bank not drawn FOI) / repayments **EUR1.20m**
+  - **Cash EUR10.16m was EUR11.31m DROP FOI** / pension **EUR5.65m**
+  - Exploitatie: ontvangsten **EUR31.2m** / uitgaven **EUR26.1m** / saldo **+EUR5.12m**
+  - AFM **+EUR4.63m** (gecorr **+EUR4.80m**) / BBR **EUR11.1m** / budget result **-EUR0.64m FOI** / P&L **+EUR0.34m**
+  - Personnel **EUR13.1m** / toelagen **EUR6.42m** (police **EUR1.85m** / **IGS EUR2.52m FOI** / **AGB EUR0.76m FOI** / HVZ **EUR0.88m** / other **EUR0.39m FOI**)
+  - Invest **EUR8.56m** (MJP planned **EUR13.8m**) / **invest-subs police EUR3.45m FOI** (was **EUR0.30m**) / VL received **EUR0.99m**
+  - Dual AGB Haacht: BBR **EUR0.118m** / AFM **+EUR0.008m** / **corr AFM -EUR0.063m FOI**
+- Dual: Kruisem **EUR133.0m** / bank **EUR2.50m** / fin debt rising **EUR4.94m** (tick932) - not TE-additive
+- Wrote: budgets +56 (bud_haa_*); commitments +4; leaderboard +7; sources +2; entity city_haacht; FOI **gap_haa_police_subs_toelagen_agb_l5** prio8 ready + draft; raw PDF+toel+key; rq_933=done; spawn **rq_934**; ticks=933
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_934** residual dual L5 (Roeselare / AGB Haacht full BBC / other unmined VL JR2025); deferred **rq_116**; progress@940 in 7

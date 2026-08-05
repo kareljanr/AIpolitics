@@ -20906,3 +20906,59 @@ bud_kru_goederen_2025,city_kruisem,2025,8424615,,,jaarrekening_realized,src_krui
 bud_kru_mjp_invest_planned_2025,city_kruisem,2025,15215661,,,jaarrekening_realized,src_kruisem_jr2025,strong,MJP planned invest 15.2m vs realized 7.07m underspend FOI; tick932
 bud_kru_debt_per_cap_2025,city_kruisem,2025,309,,,jaarrekening_realized,src_kruisem_jr2025,strong,Fin debt ~EUR309/capita (~16000 inw JR text); tick932
 bud_kru_bbr_per_cap_2025,city_kruisem,2025,1069,,,jaarrekening_realized,src_kruisem_jr2025,strong,BBR ~EUR1069/capita (~16000 inw); tick932
+bud_haa_assets_2025,city_haacht,2025,76281760,,,jaarrekening_realized,src_haacht_jr2025,strong,Total assets YE2025 76.3m; tick933
+bud_haa_equity_2025,city_haacht,2025,55206091,,,jaarrekening_realized,src_haacht_jr2025,strong,Nettoactief YE2025 55.2m; tick933
+bud_haa_debt_total_2025,city_haacht,2025,21075669,,,jaarrekening_realized,src_haacht_jr2025,strong,Total schulden YE2025 21.1m; tick933
+bud_haa_fin_debt_2025,city_haacht,2025,12045692,,,jaarrekening_realized,src_haacht_jr2025,strong,T4 total financiele schulden YE2025 12.05m DECLINING (LT 10.83 + ST due 1.22); tick933
+bud_haa_fin_debt_lt_2025,city_haacht,2025,10825198,,,jaarrekening_realized,src_haacht_jr2025,strong,Financiele schulden LT YE2025 10.83m; tick933
+bud_haa_fin_debt_st_due_2025,city_haacht,2025,1220494,,,jaarrekening_realized,src_haacht_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.22m; tick933
+bud_haa_fin_debt_2024,city_haacht,2025,12996639,,,jaarrekening_realized,src_haacht_jr2025,strong,T4 fin debt YE2024 13.00m comparator; tick933
+bud_haa_pension_prov_2025,city_haacht,2025,5647492,,,jaarrekening_realized,src_haacht_jr2025,strong,Pensioenvoorzieningen YE2025 5.65m; tick933
+bud_haa_cash_2025,city_haacht,2025,10156144,,,jaarrekening_realized,src_haacht_jr2025,strong,Liquide middelen YE2025 10.16m (was 11.31m DROP FOI); tick933
+bud_haa_cash_2024,city_haacht,2025,11314086,,,jaarrekening_realized,src_haacht_jr2025,strong,Liquide middelen YE2024 11.31m; tick933
+bud_haa_cap_subs_2025,city_haacht,2025,11726964,,,jaarrekening_realized,src_haacht_jr2025,strong,Kapitaalssubsidies YE2025 11.7m; tick933
+bud_haa_fva_total_2025,city_haacht,2025,9033446,,,jaarrekening_realized,src_haacht_jr2025,strong,Financiele vaste activa YE2025 9.03m; tick933
+bud_haa_fva_igs_2025,city_haacht,2025,6803864,,,jaarrekening_realized,src_haacht_jr2025,strong,FVA IGS YE2025 6.80m; tick933
+bud_haa_fva_agb_2025,city_haacht,2025,25000,,,jaarrekening_realized,src_haacht_jr2025,strong,FVA AGB Haacht participation 0.025m; tick933
+bud_haa_mva_2025,city_haacht,2025,43505066,,,jaarrekening_realized,src_haacht_jr2025,strong,Materiele vaste activa YE2025 43.5m; tick933
+bud_haa_onbeschikbaar_2025,city_haacht,2025,186667,,,jaarrekening_realized,src_haacht_jr2025,strong,Onbeschikbare gelden 0.19m; tick933
+bud_haa_expl_rec_2025,city_haacht,2025,31201279,,,jaarrekening_realized,src_haacht_jr2025,strong,Exploitatieontvangsten 31.2m; tick933
+bud_haa_expl_exp_2025,city_haacht,2025,26080752,,,jaarrekening_realized,src_haacht_jr2025,strong,Exploitatieuitgaven 26.1m; tick933
+bud_haa_expl_saldo_2025,city_haacht,2025,5120527,,,jaarrekening_realized,src_haacht_jr2025,strong,Exploitatiesaldo +5.12m; tick933
+bud_haa_invest_exp_2025,city_haacht,2025,8562269,,,jaarrekening_realized,src_haacht_jr2025,strong,Investeringsuitgaven 8.56m (MJP planned 13.8m underspend FOI); tick933
+bud_haa_invest_rec_2025,city_haacht,2025,3118966,,,jaarrekening_realized,src_haacht_jr2025,strong,Investeringsontvangsten 3.12m; tick933
+bud_haa_invest_saldo_2025,city_haacht,2025,-5443303,,,jaarrekening_realized,src_haacht_jr2025,strong,Investeringssaldo -5.44m; tick933
+bud_haa_fin_rec_2025,city_haacht,2025,941592,,,jaarrekening_realized,src_haacht_jr2025,strong,Financieringsontvangsten 0.94m; tick933
+bud_haa_fin_exp_2025,city_haacht,2025,1258407,,,jaarrekening_realized,src_haacht_jr2025,strong,Financieringsuitgaven 1.26m; tick933
+bud_haa_new_loans_2025,city_haacht,2025,251606,,,jaarrekening_realized,src_haacht_jr2025,strong,Nieuwe leningen 0.25m lease/other only (no bank 2025 FOI MJP); tick933
+bud_haa_aflossingen_2025,city_haacht,2025,1202553,,,jaarrekening_realized,src_haacht_jr2025,strong,Periodieke aflossingen 1.20m; tick933
+bud_haa_agb_loans_granted_2025,city_haacht,2025,55854,,,jaarrekening_realized,src_haacht_jr2025,strong,Toegestane leningen AGB 0.056m FOI; tick933
+bud_haa_agb_loan_recoveries_2025,city_haacht,2025,689987,,,jaarrekening_realized,src_haacht_jr2025,strong,Terugvordering AGB leningen 0.69m; tick933
+bud_haa_afm_2025,city_haacht,2025,4634266,,,jaarrekening_realized,src_haacht_jr2025,strong,AFM +4.63m; tick933
+bud_haa_afm_corr_2025,city_haacht,2025,4797087,,,jaarrekening_realized,src_haacht_jr2025,strong,Gecorrigeerde AFM +4.80m; tick933
+bud_haa_bbr_2025,city_haacht,2025,11127281,,,jaarrekening_realized,src_haacht_jr2025,strong,Beschikbaar budgettair resultaat 11.1m; tick933
+bud_haa_budget_result_2025,city_haacht,2025,-639590,,,jaarrekening_realized,src_haacht_jr2025,strong,Budgettair resultaat boekjaar -0.64m FOI; tick933
+bud_haa_cum_br_2025,city_haacht,2025,11313948,,,jaarrekening_realized,src_haacht_jr2025,strong,Gecumuleerd budgettair resultaat 11.3m; tick933
+bud_haa_pnl_result_2025,city_haacht,2025,339432,,,jaarrekening_realized,src_haacht_jr2025,strong,P&L boekjaar +0.34m; tick933
+bud_haa_personnel_2025,city_haacht,2025,13105080,,,jaarrekening_realized,src_haacht_jr2025,strong,Personeelskosten 13.1m; tick933
+bud_haa_toelagen_2025,city_haacht,2025,6423026,,,jaarrekening_realized,src_haacht_jr2025,strong,Toegestane werkingssubsidies 6.42m; tick933
+bud_haa_agb_toelage_2025,city_haacht,2025,763884,,,jaarrekening_realized,src_haacht_jr2025,strong,Toelage AGB Haacht 0.76m FOI; tick933
+bud_haa_police_toelage_2025,city_haacht,2025,1850221,,,jaarrekening_realized,src_haacht_jr2025,strong,Toelage politiezone 1.85m; tick933
+bud_haa_hvz_toelage_2025,city_haacht,2025,881111,,,jaarrekening_realized,src_haacht_jr2025,strong,Toelage hulpverleningszone 0.88m; tick933
+bud_haa_igs_toelage_2025,city_haacht,2025,2522158,,,jaarrekening_realized,src_haacht_jr2025,strong,Toelage IGS 2.52m FOI named list; tick933
+bud_haa_eredienst_toelage_2025,city_haacht,2025,18389,,,jaarrekening_realized,src_haacht_jr2025,strong,Toelage eredienst 0.018m; tick933
+bud_haa_toelagen_other_2025,city_haacht,2025,387264,,,jaarrekening_realized,src_haacht_jr2025,strong,Toelagen andere begunstigden 0.39m FOI >=50k; tick933
+bud_haa_invest_subs_granted_2025,city_haacht,2025,3745681,,,jaarrekening_realized,src_haacht_jr2025,strong,Toegestane investeringssubsidies 3.75m; tick933
+bud_haa_invest_subs_police_2025,city_haacht,2025,3448367,,,jaarrekening_realized,src_haacht_jr2025,strong,Invest-subs politiezone 3.45m FOI project; tick933
+bud_haa_invest_subs_hvz_2025,city_haacht,2025,123435,,,jaarrekening_realized,src_haacht_jr2025,strong,Invest-subs HVZ 0.12m; tick933
+bud_haa_invest_subs_igs_2025,city_haacht,2025,20753,,,jaarrekening_realized,src_haacht_jr2025,strong,Invest-subs IGS 0.021m; tick933
+bud_haa_invest_subs_rec_vl_2025,city_haacht,2025,993236,,,jaarrekening_realized,src_haacht_jr2025,strong,Investeringssubsidies ontvangen VL 0.99m FOI; tick933
+bud_haa_ocmw_aid_2025,city_haacht,2025,1469764,,,jaarrekening_realized,src_haacht_jr2025,strong,Individuele hulpverlening OCMW 1.47m; tick933
+bud_haa_fiscal_2025,city_haacht,2025,16704827,,,jaarrekening_realized,src_haacht_jr2025,strong,Fiscale opbrengsten 16.7m; tick933
+bud_haa_gemeentefonds_2025,city_haacht,2025,3792892,,,jaarrekening_realized,src_haacht_jr2025,strong,Gemeentefonds 3.79m; tick933
+bud_haa_fin_costs_2025,city_haacht,2025,324839,,,jaarrekening_realized,src_haacht_jr2025,strong,Financiele kosten 0.32m; tick933
+bud_haa_goederen_2025,city_haacht,2025,4662538,,,jaarrekening_realized,src_haacht_jr2025,strong,Goederen en diensten 4.66m; tick933
+bud_haa_mjp_invest_planned_2025,city_haacht,2025,13800239,,,jaarrekening_realized,src_haacht_jr2025,strong,MJP planned invest 13.8m vs realized 8.56m underspend FOI; tick933
+bud_haa_agb_bbr_2025,city_haacht,2025,118277,,,jaarrekening_realized,src_haacht_jr2025,strong,Dual AGB Haacht BBR 0.118m (J2 consol Entity II); tick933
+bud_haa_agb_afm_2025,city_haacht,2025,8174,,,jaarrekening_realized,src_haacht_jr2025,strong,Dual AGB Haacht AFM +0.008m; tick933
+bud_haa_agb_afm_corr_2025,city_haacht,2025,-63233,,,jaarrekening_realized,src_haacht_jr2025,strong,Dual AGB Haacht gecorr AFM -0.063m FOI; tick933

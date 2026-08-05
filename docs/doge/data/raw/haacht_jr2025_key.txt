@@ -1,0 +1,47 @@
+Haacht Gemeente+OCMW Jaarrekening 2025 (BBC 66p + toelichting 162p + doc 109p)
+PDF: https://raadpleeg-haacht.onlinesmartcities.be/document/6a183adbf3ff5b3596ee1217
+Toel: https://raadpleeg-haacht.onlinesmartcities.be/document/6a183adcf3ff5b3596ee1244
+Portal agenda: https://raadpleeg-haacht.onlinesmartcities.be/zittingen/25.1104.0681.3570/agendapunten/26.0519.0479.1889
+Doc bundel: https://www.haacht.be/file/download/74b367bb-a7c3-4ccb-8056-815396396bc5/0uBMxyngASsVLIUK0zrVuCKo7gwZpg7pbINKoLTA3d.pdf
+Besluit GR 2026-06-22; KBO 0207.518.632 / OCMW 0212.214.917
+Tick 933
+
+BALANCE J4 YE2025 / YE2024
+assets              76281760 / 75660832
+equity              55206091 / 54146028
+debt total          21075669 / 21514804
+fin debt total      12045692 / 12996639  DECLINING (LT 10825198 + ST due 1220494)
+cash                10156144 / 11314086  DROP FOI
+pension             5647492 / 4967911
+FVA                 9033446 (IGS 6803864 + EVA 25000 + other 2204582)
+MVA                 43505066
+cap subs            11726964
+onbeschikbaar       186667
+
+J2 2025
+expl rec/exp/saldo  31201279 / 26080752 / +5120527
+invest exp/rec/saldo 8562269 / 3118966 / -5443303
+fin rec/exp/saldo   941592 / 1258407 / -316814
+budget result       -639590 FOI
+cum BR              11313948
+BBR                 11127281
+AFM                 +4634266
+AFM corr            +4797087
+aflossingen         1202553
+new loans           251606 (lease/other; bank 0 in 2025)
+AGB loans granted   55854
+AGB recoveries      689987
+
+J5 / T2
+personnel           13105080
+toelagen            6423026 (AGB 763884 / police 1850221 / HVZ 881111 / IGS 2522158 / ered 18389 / other 387264)
+invest-subs granted 3745681 (police 3448367 FOI / HVZ 123435 / IGS 20753 / ered 68995 / other 84132)
+fiscal              16704827
+gemeentefonds       3792892
+P&L                 +339432
+goederen            4662538
+fin costs           324839
+
+Dual Entity II AGB Haacht (J2 consol): BBR 118277 / AFM +8174 / corr AFM -63233 FOI
+MJP bank planned ~7m 2025 not drawn; fin debt declining
+Dual residual tick932: Kruisem 133.0m / bank 2.5m / fin debt 4.94m rising
