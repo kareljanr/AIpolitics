@@ -28793,3 +28793,48 @@ bud_hee_ocmw_hulp_2025,city_heers,2025,270901,,,bbc_jr_realized,src_heers_jr2025
 bud_hee_goederen_2025,city_heers,2025,2404972,,,bbc_jr_realized,src_heers_jr2025,strong,Goederen en diensten 2.405m DROP; tick1101
 bud_hee_afschrijvingen_2025,city_heers,2025,1682189,,,bbc_jr_realized,src_heers_jr2025,strong,Afschrijvingen/voorzieningen 1.682m; tick1101
 bud_hee_fin_exp_2025,city_heers,2025,316854,,,bbc_jr_realized,src_heers_jr2025,strong,Financiele kosten 0.317m; tick1101
+bud_nwk_assets_2025,city_nieuwerkerken,2025,55338650,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Assets YE2025 55.339m JUMP (was 45.958m; FVA herwaard); tick1102
+bud_nwk_equity_2025,city_nieuwerkerken,2025,45426617,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Nettoactief YE2025 45.427m JUMP (was 36.178m); tick1102
+bud_nwk_debt_total_2025,city_nieuwerkerken,2025,9912032,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Total schulden YE2025 9.912m slight JUMP (was 9.780m); tick1102
+bud_nwk_fin_debt_2025,city_nieuwerkerken,2025,3828218,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Fin debt total YE2025 3.828m DECLINE (was 3.948m T4); tick1102
+bud_nwk_fin_debt_lt_2025,city_nieuwerkerken,2025,3467325,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Fin debt LT YE2025 3.467m DECLINE; tick1102
+bud_nwk_fin_debt_st_2025,city_nieuwerkerken,2025,360893,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Fin debt ST due YE2025 0.361m; tick1102
+bud_nwk_new_loans_2025,city_nieuwerkerken,2025,225058,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,New loans 0.225m leasing only (no bank draw); tick1102
+bud_nwk_repayments_2025,city_nieuwerkerken,2025,344857,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Periodieke aflossingen 0.345m; tick1102
+bud_nwk_cash_2025,city_nieuwerkerken,2025,7078755,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Cash YE2025 7.079m JUMP FOI (was 5.943m); tick1102
+bud_nwk_pension_lt_2025,city_nieuwerkerken,2025,4543779,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Pension LT 4.544m JUMP FOI (was 4.380m); tick1102
+bud_nwk_fva_total_2025,city_nieuwerkerken,2025,19678416,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,FVA total YE2025 19.678m MASSIVE JUMP (was 11.200m); tick1102
+bud_nwk_fva_igs_2025,city_nieuwerkerken,2025,18681495,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,FVA IGS YE2025 18.681m MASSIVE JUMP FOI (was 10.203m); tick1102
+bud_nwk_herwaard_2025,city_nieuwerkerken,2025,8486499,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Herwaarderingsreserves YE2025 8.486m MASSIVE JUMP FOI (was 0.008m); tick1102
+bud_nwk_leasing_mva_2025,city_nieuwerkerken,2025,2881937,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Leasing MVA YE2025 2.882m (Fluvius light path); tick1102
+bud_nwk_expl_ontvangsten_2025,city_nieuwerkerken,2025,11157625,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Exploitatie ontvangsten 11.158m; tick1102
+bud_nwk_expl_uitgaven_2025,city_nieuwerkerken,2025,8781663,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Exploitatie uitgaven 8.782m; tick1102
+bud_nwk_expl_saldo_2025,city_nieuwerkerken,2025,2375961,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Exploitatiesaldo +2.376m VERY STRONG; tick1102
+bud_nwk_afm_2025,city_nieuwerkerken,2025,2042104,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,AFM +2.042m VERY STRONG; tick1102
+bud_nwk_afm_gecorr_2025,city_nieuwerkerken,2025,2071120,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,AFM gecorrigeerd +2.071m VERY STRONG; tick1102
+bud_nwk_bbr_2025,city_nieuwerkerken,2025,7453935,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Beschikbaar budgettair resultaat 7.454m HIGH (no onbeschikbaar split); tick1102
+bud_nwk_budget_result_2025,city_nieuwerkerken,2025,1582775,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Budgettair resultaat boekjaar +1.583m STRONG; tick1102
+bud_nwk_cum_br_2025,city_nieuwerkerken,2025,7453935,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Gecumuleerd BR 7.454m; tick1102
+bud_nwk_pnl_2025,city_nieuwerkerken,2025,911468,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,P&L overschot +0.911m; tick1102
+bud_nwk_fiscal_2025,city_nieuwerkerken,2025,6007487,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Fiscale opbrengsten 6.007m JUMP; tick1102
+bud_nwk_personnel_2025,city_nieuwerkerken,2025,4248121,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Personeel 4.248m JUMP (incl edu pass-through 0.354m); tick1102
+bud_nwk_toelagen_2025,city_nieuwerkerken,2025,1534141,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Toegestane werkingssubsidies 1.534m FOI; tick1102
+bud_nwk_toelagen_police_2025,city_nieuwerkerken,2025,709276,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Politiezone toelage 0.709m; tick1102
+bud_nwk_toelagen_fire_2025,city_nieuwerkerken,2025,302700,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Hulpverleningszone 0.303m; tick1102
+bud_nwk_toelagen_igs_2025,city_nieuwerkerken,2025,0,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,IGS werkingssubsidies T2 0 (MJP planned 0.414m); tick1102
+bud_nwk_toelagen_other_2025,city_nieuwerkerken,2025,522165,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Andere begunstigden toelagen 0.522m FOI (Limburg.net ~0.393m TB); tick1102
+bud_nwk_invest_uitgaven_2025,city_nieuwerkerken,2025,903707,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Investeringsuitgaven 0.904m vs MJP 3.253m MASSIVE UNDERSPEND FOI; tick1102
+bud_nwk_invest_ontvangsten_2025,city_nieuwerkerken,2025,219320,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Investeringsontvangsten 0.219m; tick1102
+bud_nwk_invest_saldo_2025,city_nieuwerkerken,2025,-684387,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Investeringssaldo -0.684m; tick1102
+bud_nwk_invest_mjp_2025,city_nieuwerkerken,2025,3252964,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,MJP invest uitgaven 3.253m; tick1102
+bud_nwk_invest_mva_2025,city_nieuwerkerken,2025,891499,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,MVA aankopen 0.891m; tick1102
+bud_nwk_ocmw_expl_uit_2025,city_nieuwerkerken,2025,1513057,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,OCMW expl uitgaven J3 1.513m; tick1102
+bud_nwk_ocmw_expl_ont_2025,city_nieuwerkerken,2025,958394,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,OCMW expl ontvangsten J3 0.958m; tick1102
+bud_nwk_ocmw_expl_gap_2025,city_nieuwerkerken,2025,554663,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,OCMW expl gap J3 ~0.555m structural FOI; tick1102
+bud_nwk_ocmw_hulp_2025,city_nieuwerkerken,2025,600402,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,OCMW individuele hulpverlening 0.600m JUMP FOI (was 0.421m); tick1102
+bud_nwk_ocmw_invest_2025,city_nieuwerkerken,2025,7430,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,OCMW invest 0.007m low; tick1102
+bud_nwk_goederen_2025,city_nieuwerkerken,2025,2207055,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Goederen en diensten 2.207m; tick1102
+bud_nwk_afschrijvingen_2025,city_nieuwerkerken,2025,1803439,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Afschrijvingen/voorzieningen 1.803m; tick1102
+bud_nwk_fin_exp_2025,city_nieuwerkerken,2025,153739,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Financiele kosten 0.154m; tick1102
+bud_nwk_ferm_2025,city_nieuwerkerken,2025,397465,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,FERM werking tussenkomst ~0.397m FOI residual (trial balance 6159000); tick1102
+bud_nwk_limburgnet_2025,city_nieuwerkerken,2025,392524,,,bbc_jr_realized,src_nieuwerkerken_jr2025,strong,Limburg.net toelage ~0.393m (trial balance 6497000); tick1102

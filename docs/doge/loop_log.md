@@ -14962,3 +14962,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +52 (bud_hee_*); commitments +7; leaderboard +9; sources +1; entity city_heers; FOI **gap_hee_fva_herwaard_toelagen_sales_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1101=done; spawn **rq_1102**; ticks=1101
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1102** residual dual L5; deferred **rq_116**; progress@1110 in 8
+
+### Tick 1102 - 2026-08-11T16:30:00Z
+
+- Unit: **rq_1102** (FOI-adjacent residual dual - **Gemeente+OCMW Nieuwerkerken Jaarrekening 2025** + Heers dual residual)
+- Found (strong primary BBC JR2025 PDF; 126p; GR+RMW 18.06.2026 pub 23.06.2026; nieuwerkerken.be; KBO GE 0207.469.142 / OCMW 0212.202.148; Kerkstraat 113 3850; AD Evi Jans FD Lobke Vanhees; GE+OCMW):
+  - Assets **EUR55.339m JUMP** (was **EUR45.958m**) / equity **EUR45.427m JUMP** / debt total **EUR9.912m** / fin debt **EUR3.828m DECLINE** (LT **EUR3.467m** / ST due **EUR0.361m**)
+  - New loans **EUR0.225m LOW** leasing only / repayments **EUR0.345m**
+  - Cash **EUR7.079m JUMP FOI** (was **EUR5.943m**) / pension **EUR4.544m JUMP FOI** / FVA IGS **EUR18.681m MASSIVE JUMP FOI** (was **EUR10.203m**) / herwaard **EUR8.486m MASSIVE JUMP FOI** (was **EUR0.008m**) / leasing MVA **EUR2.882m**
+  - Exploitatie: ontvangsten **EUR11.158m** / uitgaven **EUR8.782m** / saldo **+EUR2.376m VERY STRONG**
+  - AFM **+EUR2.042m VERY STRONG** (gecorr **+EUR2.071m**) / BBR **EUR7.454m HIGH** / budget **+EUR1.583m STRONG** / cum BR **EUR7.454m** / P&L **+EUR0.911m**
+  - Fiscal **EUR6.007m JUMP** / personnel **EUR4.248m** / toelagen **EUR1.534m FOI** (police **EUR0.709m** / fire **EUR0.303m** / andere **EUR0.522m** incl Limburg.net ~**EUR0.393m** / IGS T2 **EUR0**)
+  - Invest **EUR0.904m** vs MJP **EUR3.253m MASSIVE UNDERSPEND FOI** / saldo **-EUR0.684m**
+  - OCMW expl gap J3 **~EUR0.555m FOI** / OCMW hulp **EUR0.600m JUMP** (was **EUR0.421m**) / OCMW invest **EUR0.007m**
+- Dual: Heers FVA/herwaard/land sales (tick1101) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Bornem / Halen / Herk-de-Stad residual next; progress@1110 in 7
+- Wrote: budgets +45 (bud_nwk_*); commitments +7; leaderboard +9; sources +1; entity city_nieuwerkerken; FOI **gap_nwk_fva_herwaard_invest_ocmw_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1102=done; spawn **rq_1103**; ticks=1102
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1103** residual dual L5; deferred **rq_116**; progress@1110 in 7
