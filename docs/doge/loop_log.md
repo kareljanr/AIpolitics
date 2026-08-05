@@ -14367,3 +14367,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1072** residual dual L5; deferred **rq_116**; progress@1080
 
+
+### Tick 1072 - 2026-08-11T01:30:00Z
+
+- Unit: **rq_1072** (FOI-adjacent residual dual - **Lokaal Bestuur Roosdaal Jaarrekening 2025** + Lebbeke dual residual)
+- Found (strong primary BBC JR2025 PDF; GR+RMW 28.05.2026 pub 03.06.2026; KBO GE 0207.515.365 / OCMW 0212.166.021; Brusselstraat 15 1760; AD Emma Van der Maelen FD Joos Van Droogenbroeck; GE+OCMW + AGB dual):
+  - Assets **EUR66.737m JUMP** / equity **EUR42.831m JUMP** / debt total **EUR23.91m JUMP** / fin debt **EUR13.979m JUMP** (LT **EUR12.884m** / ST due **EUR1.095m**; was **EUR10.829m**)
+  - New loans **EUR4.196m JUMP FOI** / repayments **EUR1.046m** / MJP new loans **2026 EUR0.118m** / **2027 EUR3.117m**
+  - Cash **EUR4.731m** / pension **EUR6.815m DROP** (was **EUR7.759m**) / FVA IGS **EUR5.641m** / leasing MVA **EUR1.059m**
+  - Exploitatie: ontvangsten **EUR20.130m** / uitgaven **EUR17.219m** / saldo **+EUR2.912m STRONG**
+  - AFM **+EUR1.945m STRONG** (gecorr **+EUR2.125m**) / BBR **EUR5.071m** / budget **+EUR1.995m STRONG** / cum BR **EUR5.612m** / P&L **+EUR2.379m**
+  - Personnel **EUR9.187m** (edu pass-through **EUR2.718m**) / toelagen **EUR3.084m FOI** (police **EUR1.614m JUMP** / fire **EUR0.717m** / AGB **EUR0.323m** / other **EUR0.430m**)
+  - Invest **EUR6.424m** vs MJP **EUR13.701m MASSIVE UNDERSPEND FOI**
+  - **OCMW cover EUR0 ZERO FOI** / OCMW expl gap **-EUR0.887m** / **OCMW equity cum EUR-1.237m WORSENING** (was **-EUR1.112m**)
+  - Dual AGB: AFM **-EUR0.041m** / **corr AFM EUR-0.271m NEG FOI**
+- Dual: Lebbeke assets **EUR108.3m** / MJP loans 2026 **EUR11.28m** / OCMW cover FULL (tick1071) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1080
+- Wrote: budgets +56 (bud_roo_*); commitments +7; leaderboard +8; sources +1; entity city_roosdaal; FOI **gap_roo_ocmw_zero_loans_invest_agb_l5** prio9 ready + draft; PDF primary (not committed); rq_1072=done; spawn **rq_1073**; ticks=1072
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1073** residual dual L5; deferred **rq_116**; progress@1080
+

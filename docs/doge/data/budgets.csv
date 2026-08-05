@@ -27384,3 +27384,60 @@ bud_leb_fiscal_ov_2025,city_lebbeke,2025,7517566,,,bbc_jr_realized,src_lebbeke_j
 bud_leb_fiscal_pb_2025,city_lebbeke,2025,9176428,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Aanvullende PB 9.176m JUMP; tick1071
 bud_leb_gemeentefonds_2025,city_lebbeke,2025,5237119,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Gemeentefonds 5.237m; tick1071
 bud_leb_interest_2025,city_lebbeke,2025,624775,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Intresten op leningen 0.625m; tick1071
+bud_roo_assets_2025,city_roosdaal,2025,66736527,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Assets YE2025 66.737m JUMP (was 61.258m); tick1072
+bud_roo_equity_2025,city_roosdaal,2025,42830881,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Nettoactief YE2025 42.831m JUMP (was 39.312m); tick1072
+bud_roo_debt_total_2025,city_roosdaal,2025,23905646,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Total schulden YE2025 23.906m JUMP (was 21.947m); tick1072
+bud_roo_fin_debt_2025,city_roosdaal,2025,13978949,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Fin debt total YE2025 13.979m JUMP (was 10.829m); tick1072
+bud_roo_fin_debt_lt_2025,city_roosdaal,2025,12884435,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Fin debt LT YE2025 12.884m JUMP (was 9.831m); tick1072
+bud_roo_fin_debt_st_due_2025,city_roosdaal,2025,1094514,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Fin debt ST due YE2025 1.095m; tick1072
+bud_roo_new_loans_2025,city_roosdaal,2025,4196348,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Nieuwe leningen 2025 4.196m JUMP FOI; tick1072
+bud_roo_aflossingen_2025,city_roosdaal,2025,1046243,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Periodieke aflossingen 2025 1.046m; tick1072
+bud_roo_mjp_new_loans_2026,city_roosdaal,2025,118369,,,bbc_jr_realized,src_roosdaal_jr2025,strong,MJP new loans 2026 planned 0.118m; tick1072
+bud_roo_mjp_new_loans_2027,city_roosdaal,2025,3117000,,,bbc_jr_realized,src_roosdaal_jr2025,strong,MJP new loans 2027 planned 3.117m FOI; tick1072
+bud_roo_mjp_fin_debt_2027,city_roosdaal,2025,15127816,,,bbc_jr_realized,src_roosdaal_jr2025,strong,MJP fin debt YE2027 planned 15.128m; tick1072
+bud_roo_cash_2025,city_roosdaal,2025,4730633,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Liquide middelen YE2025 4.731m (was 4.439m); tick1072
+bud_roo_pension_2025,city_roosdaal,2025,6814544,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.815m DROP (was 7.759m); tick1072
+bud_roo_cap_subs_2025,city_roosdaal,2025,7183757,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Kapitaalsubsidies YE2025 7.184m; tick1072
+bud_roo_fva_total_2025,city_roosdaal,2025,7357271,,,bbc_jr_realized,src_roosdaal_jr2025,strong,FVA total YE2025 7.357m; tick1072
+bud_roo_fva_igs_2025,city_roosdaal,2025,5641272,,,bbc_jr_realized,src_roosdaal_jr2025,strong,FVA IGS YE2025 5.641m; tick1072
+bud_roo_leasing_mva_2025,city_roosdaal,2025,1058769,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Leasing MVA YE2025 1.059m; tick1072
+bud_roo_expl_rec_2025,city_roosdaal,2025,20130304,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Exploitatieontvangsten 20.130m; tick1072
+bud_roo_expl_exp_2025,city_roosdaal,2025,17218504,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Exploitatieuitgaven 17.219m; tick1072
+bud_roo_expl_saldo_2025,city_roosdaal,2025,2911801,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Exploitatiesaldo +2.912m STRONG; tick1072
+bud_roo_invest_exp_2025,city_roosdaal,2025,6423521,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Investeringsuitgaven 6.424m vs MJP 13.701m MASSIVE UNDERSPEND FOI; tick1072
+bud_roo_invest_rec_2025,city_roosdaal,2025,2426901,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Investeringsontvangsten 2.427m; tick1072
+bud_roo_invest_saldo_2025,city_roosdaal,2025,-3996620,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Investeringssaldo -3.997m; tick1072
+bud_roo_mjp_invest_planned_2025,city_roosdaal,2025,13700518,,,bbc_jr_realized,src_roosdaal_jr2025,strong,MJP invest planned 13.701m vs realized 6.424m underspend FOI; tick1072
+bud_roo_invest_mva_2025,city_roosdaal,2025,5826074,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Investeringen MVA 5.826m; tick1072
+bud_roo_invest_subs_granted_2025,city_roosdaal,2025,543569,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Toegestane invest-subs 0.544m FOI; tick1072
+bud_roo_afm_2025,city_roosdaal,2025,1945255,,,bbc_jr_realized,src_roosdaal_jr2025,strong,AFM +1.945m STRONG (MJP only 0.088m); tick1072
+bud_roo_afm_corr_2025,city_roosdaal,2025,2125191,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Gecorrigeerde AFM +2.125m STRONG; tick1072
+bud_roo_bbr_2025,city_roosdaal,2025,5071230,,,bbc_jr_realized,src_roosdaal_jr2025,strong,BBR beschikbaar +5.071m; tick1072
+bud_roo_budget_result_2025,city_roosdaal,2025,1994821,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Budgettair resultaat +1.995m STRONG (MJP was -1.206m); tick1072
+bud_roo_cum_br_2025,city_roosdaal,2025,5611994,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Gecumuleerd budgettair resultaat +5.612m; tick1072
+bud_roo_onbeschikbaar_2025,city_roosdaal,2025,540763,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Onbeschikbare gelden 0.541m; tick1072
+bud_roo_pnl_2025,city_roosdaal,2025,2378661,,,bbc_jr_realized,src_roosdaal_jr2025,strong,P&L +2.379m STRONG (was +1.289m); tick1072
+bud_roo_ge_expl_exp_2025,city_roosdaal,2025,15888876,,,bbc_jr_realized,src_roosdaal_jr2025,strong,GE exploitatieuitgaven J3 15.889m; tick1072
+bud_roo_ge_expl_rec_2025,city_roosdaal,2025,19687703,,,bbc_jr_realized,src_roosdaal_jr2025,strong,GE exploitatieontvangsten J3 19.688m; tick1072
+bud_roo_ocmw_expl_exp_2025,city_roosdaal,2025,1329628,,,bbc_jr_realized,src_roosdaal_jr2025,strong,OCMW exploitatieuitgaven J3 1.330m; tick1072
+bud_roo_ocmw_expl_rec_2025,city_roosdaal,2025,442602,,,bbc_jr_realized,src_roosdaal_jr2025,strong,OCMW exploitatieontvangsten J3 0.443m; tick1072
+bud_roo_ocmw_expl_gap_2025,city_roosdaal,2025,-887026,,,bbc_jr_realized,src_roosdaal_jr2025,strong,OCMW expl gap -0.887m HIGH FOI; tick1072
+bud_roo_ocmw_cover_2025,city_roosdaal,2025,0,,,bbc_jr_realized,src_roosdaal_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1072
+bud_roo_equity_cum_2025,city_roosdaal,2025,6213024,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Gecumuleerd equity overschot YE2025 +6.213m JUMP; tick1072
+bud_roo_ocmw_equity_cum_2025,city_roosdaal,2025,-1236587,,,bbc_jr_realized,src_roosdaal_jr2025,strong,OCMW equity cum -1.237m WORSENING FOI (was -1.112m; cover 0); tick1072
+bud_roo_ge_equity_cum_2025,city_roosdaal,2025,7449611,,,bbc_jr_realized,src_roosdaal_jr2025,strong,GE equity cum +7.450m JUMP; tick1072
+bud_roo_personnel_2025,city_roosdaal,2025,9187165,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Bezoldigingen 9.187m incl education pass-through 2.718m; tick1072
+bud_roo_edu_pass_through_2025,city_roosdaal,2025,2717661,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.718m; tick1072
+bud_roo_toelagen_2025,city_roosdaal,2025,3084138,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Toegestane werkingssubsidies 3.084m FOI residual; tick1072
+bud_roo_toelagen_police_2025,city_roosdaal,2025,1614387,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Toelage politiezone 1.614m JUMP (was 1.433m); tick1072
+bud_roo_toelagen_fire_2025,city_roosdaal,2025,717287,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Toelage hulpverleningszone 0.717m; tick1072
+bud_roo_toelagen_agb_2025,city_roosdaal,2025,322740,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Toelage AGB 0.323m dual residual; tick1072
+bud_roo_toelagen_other_2025,city_roosdaal,2025,429724,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Toelage other+eredienst+IGS residual 0.430m FOI; tick1072
+bud_roo_ocmw_aid_2025,city_roosdaal,2025,288307,,,bbc_jr_realized,src_roosdaal_jr2025,strong,OCMW individuele hulp 0.288m; tick1072
+bud_roo_fiscal_2025,city_roosdaal,2025,10417671,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Fiscale opbrengsten 10.418m; tick1072
+bud_roo_fiscal_ov_2025,city_roosdaal,2025,3102344,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Opcentiemen OV 3.102m; tick1072
+bud_roo_fiscal_pb_2025,city_roosdaal,2025,6557114,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Aanvullende PB 6.557m JUMP; tick1072
+bud_roo_gemeentefonds_2025,city_roosdaal,2025,2931880,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Gemeentefonds 2.932m; tick1072
+bud_roo_interest_2025,city_roosdaal,2025,294689,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Intresten op leningen 0.295m; tick1072
+bud_roo_agb_afm_2025,city_roosdaal,2025,-40556,,,bbc_jr_realized,src_roosdaal_jr2025,strong,AGB AFM -0.041m NEG dual residual FOI; tick1072
+bud_roo_agb_afm_corr_2025,city_roosdaal,2025,-271390,,,bbc_jr_realized,src_roosdaal_jr2025,strong,AGB gecorr AFM -0.271m NEG dual residual FOI; tick1072
