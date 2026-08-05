@@ -24617,3 +24617,57 @@ bud_bug_ocmw_nettoactief_2025,city_buggenhout,2025,4069532,,,bbc_jr_realized,src
 bud_bug_periodieke_aflossingen_netto_2025,city_buggenhout,2025,2088033,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Netto periodieke aflossingen AFM 2.09m; tick1018
 bud_bug_fin_ontvangsten_2025,city_buggenhout,2025,3789266,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Financieringsontvangsten 3.79m (incl new loans); tick1018
 bud_bug_fin_uitgaven_2025,city_buggenhout,2025,2543197,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Financieringsuitgaven 2.54m; tick1018
+bud_mht_assets_2025,city_meerhout,2025,71668807,,,bbc_jr_realized,src_meerhout_jr2025,strong,Assets YE2025 71.67m (was 73.43m); tick1019
+bud_mht_equity_2025,city_meerhout,2025,48249125,,,bbc_jr_realized,src_meerhout_jr2025,strong,Nettoactief YE2025 48.25m (was 50.14m DROP); tick1019
+bud_mht_debt_total_2025,city_meerhout,2025,23419683,,,bbc_jr_realized,src_meerhout_jr2025,strong,Total schulden YE2025 23.42m; tick1019
+bud_mht_fin_debt_2025,city_meerhout,2025,9677010,,,bbc_jr_realized,src_meerhout_jr2025,strong,Fin debt total YE2025 9.68m DECLINING (was 10.47m T4); tick1019
+bud_mht_fin_debt_lt_2025,city_meerhout,2025,8654432,,,bbc_jr_realized,src_meerhout_jr2025,strong,Fin debt LT YE2025 8.65m DECLINING (was 9.48m); tick1019
+bud_mht_fin_debt_st_due_2025,city_meerhout,2025,1022578,,,bbc_jr_realized,src_meerhout_jr2025,strong,Fin debt ST due YE2025 1.02m; tick1019
+bud_mht_new_loans_2025,city_meerhout,2025,204825,,,bbc_jr_realized,src_meerhout_jr2025,strong,Nieuwe leningen 2025 0.205m (lease/other FOI); tick1019
+bud_mht_aflossingen_2025,city_meerhout,2025,994340,,,bbc_jr_realized,src_meerhout_jr2025,strong,Periodieke aflossingen 2025 0.994m; tick1019
+bud_mht_cash_2025,city_meerhout,2025,10062198,,,bbc_jr_realized,src_meerhout_jr2025,strong,Liquide middelen YE2025 10.06m HIGH (was 10.40m); tick1019
+bud_mht_pension_2025,city_meerhout,2025,8722013,,,bbc_jr_realized,src_meerhout_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.72m JUMP (was 8.30m FOI); tick1019
+bud_mht_cap_subs_2025,city_meerhout,2025,12912489,,,bbc_jr_realized,src_meerhout_jr2025,strong,Kapitaalsubsidies YE2025 12.91m; tick1019
+bud_mht_fva_total_2025,city_meerhout,2025,6765350,,,bbc_jr_realized,src_meerhout_jr2025,strong,FVA total YE2025 6.77m; tick1019
+bud_mht_fva_igs_2025,city_meerhout,2025,6559474,,,bbc_jr_realized,src_meerhout_jr2025,strong,FVA IGS YE2025 6.56m; tick1019
+bud_mht_fva_other_2025,city_meerhout,2025,205877,,,bbc_jr_realized,src_meerhout_jr2025,strong,Andere FVA YE2025 0.206m; tick1019
+bud_mht_leasing_mva_2025,city_meerhout,2025,2778949,,,bbc_jr_realized,src_meerhout_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 2.78m; tick1019
+bud_mht_expl_rec_2025,city_meerhout,2025,29612549,,,bbc_jr_realized,src_meerhout_jr2025,strong,Exploitatieontvangsten 29.61m; tick1019
+bud_mht_expl_exp_2025,city_meerhout,2025,27520149,,,bbc_jr_realized,src_meerhout_jr2025,strong,Exploitatieuitgaven 27.52m; tick1019
+bud_mht_expl_saldo_2025,city_meerhout,2025,2092400,,,bbc_jr_realized,src_meerhout_jr2025,strong,Exploitatiesaldo +2.09m STRONG; tick1019
+bud_mht_invest_exp_2025,city_meerhout,2025,3468053,,,bbc_jr_realized,src_meerhout_jr2025,strong,Investeringsuitgaven 3.47m vs MJP 7.19m UNDERSPEND FOI; tick1019
+bud_mht_invest_rec_2025,city_meerhout,2025,687443,,,bbc_jr_realized,src_meerhout_jr2025,strong,Investeringsontvangsten 0.687m; tick1019
+bud_mht_invest_saldo_2025,city_meerhout,2025,-2780610,,,bbc_jr_realized,src_meerhout_jr2025,strong,Investeringssaldo -2.78m; tick1019
+bud_mht_mjp_invest_planned_2025,city_meerhout,2025,7188469,,,bbc_jr_realized,src_meerhout_jr2025,strong,MJP invest planned 7.19m vs realized 3.47m underspend FOI; tick1019
+bud_mht_afm_2025,city_meerhout,2025,1566580,,,bbc_jr_realized,src_meerhout_jr2025,strong,AFM +1.57m STRONG; tick1019
+bud_mht_afm_corr_2025,city_meerhout,2025,1723598,,,bbc_jr_realized,src_meerhout_jr2025,strong,Gecorrigeerde AFM +1.72m STRONG; tick1019
+bud_mht_bbr_2025,city_meerhout,2025,9408174,,,bbc_jr_realized,src_meerhout_jr2025,strong,BBR beschikbaar 9.41m HIGH; tick1019
+bud_mht_budget_result_2025,city_meerhout,2025,-1447128,,,bbc_jr_realized,src_meerhout_jr2025,strong,Budgettair resultaat -1.45m NEG FOI (vs MJP -6.33m better); tick1019
+bud_mht_cum_br_2025,city_meerhout,2025,9408174,,,bbc_jr_realized,src_meerhout_jr2025,strong,Gecumuleerd budgettair resultaat 9.41m (equals BBR); tick1019
+bud_mht_pnl_2025,city_meerhout,2025,-1516772,,,bbc_jr_realized,src_meerhout_jr2025,strong,P&L -1.52m NEG FOI (was -4.97m IMPROVING); tick1019
+bud_mht_ge_expl_exp_2025,city_meerhout,2025,16972300,,,bbc_jr_realized,src_meerhout_jr2025,strong,GE exploitatieuitgaven J3 16.97m; tick1019
+bud_mht_ge_expl_rec_2025,city_meerhout,2025,21113820,,,bbc_jr_realized,src_meerhout_jr2025,strong,GE exploitatieontvangsten J3 21.11m; tick1019
+bud_mht_ocmw_expl_exp_2025,city_meerhout,2025,10547848,,,bbc_jr_realized,src_meerhout_jr2025,strong,OCMW exploitatieuitgaven J3 10.55m FOI; tick1019
+bud_mht_ocmw_expl_rec_2025,city_meerhout,2025,8498729,,,bbc_jr_realized,src_meerhout_jr2025,strong,OCMW exploitatieontvangsten J3 8.50m; tick1019
+bud_mht_ocmw_expl_gap_2025,city_meerhout,2025,-2049119,,,bbc_jr_realized,src_meerhout_jr2025,strong,OCMW expl gap J3 -2.05m FOI residual cover path; tick1019
+bud_mht_equity_cum_deficit_2025,city_meerhout,2025,-3755015,,,bbc_jr_realized,src_meerhout_jr2025,strong,Gecumuleerd equity tekort YE2025 -3.76m WORSENING (was -2.24m FOI); tick1019
+bud_mht_personnel_2025,city_meerhout,2025,18183807,,,bbc_jr_realized,src_meerhout_jr2025,strong,Bezoldigingen 18.18m; tick1019
+bud_mht_toelagen_2025,city_meerhout,2025,2531397,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toegestane werkingssubsidies 2.53m FOI residual; tick1019
+bud_mht_toelagen_police_2025,city_meerhout,2025,1342700,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage politiezone 1.34m; tick1019
+bud_mht_toelagen_fire_2025,city_meerhout,2025,271986,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage hulpverleningszone 0.272m; tick1019
+bud_mht_toelagen_igs_2025,city_meerhout,2025,167155,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage IGS 0.167m; tick1019
+bud_mht_toelagen_eredienst_2025,city_meerhout,2025,16632,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage eredienst 0.017m; tick1019
+bud_mht_toelagen_other_2025,city_meerhout,2025,694622,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage andere begunstigden 0.695m JUMP FOI (was 0.457m); tick1019
+bud_mht_toelagen_agb_2025,city_meerhout,2025,1634,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage AGB 1.6k; tick1019
+bud_mht_toelagen_welzijn_2025,city_meerhout,2025,36667,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toelage welzijnsverenigingen 0.037m; tick1019
+bud_mht_ocmw_aid_2025,city_meerhout,2025,1026929,,,bbc_jr_realized,src_meerhout_jr2025,strong,OCMW individuele hulp 1.03m; tick1019
+bud_mht_fiscal_2025,city_meerhout,2025,12108848,,,bbc_jr_realized,src_meerhout_jr2025,strong,Fiscale opbrengsten 12.11m; tick1019
+bud_mht_fiscal_ov_2025,city_meerhout,2025,5427098,,,bbc_jr_realized,src_meerhout_jr2025,strong,Opcentiemen OV 5.43m; tick1019
+bud_mht_fiscal_pb_2025,city_meerhout,2025,4650589,,,bbc_jr_realized,src_meerhout_jr2025,strong,Aanvullende PB 4.65m JUMP (was 4.17m); tick1019
+bud_mht_gemeentefonds_2025,city_meerhout,2025,2888655,,,bbc_jr_realized,src_meerhout_jr2025,strong,Gemeentefonds 2.89m; tick1019
+bud_mht_fin_opbr_2025,city_meerhout,2025,919402,,,bbc_jr_realized,src_meerhout_jr2025,strong,Financiele opbrengsten J5 0.919m; tick1019
+bud_mht_fin_costs_2025,city_meerhout,2025,394298,,,bbc_jr_realized,src_meerhout_jr2025,strong,Financiele kosten 0.394m; tick1019
+bud_mht_invest_subs_granted_2025,city_meerhout,2025,1227061,,,bbc_jr_realized,src_meerhout_jr2025,strong,Toegestane investeringssubsidies 1.23m JUMP FOI (was 0.393m); tick1019
+bud_mht_lt_receivables_2025,city_meerhout,2025,6008911,,,bbc_jr_realized,src_meerhout_jr2025,strong,Vorderingen LT YE2025 6.01m (incl non-ruil 3.70m FOI); tick1019
+bud_mht_fin_saldo_2025,city_meerhout,2025,-758918,,,bbc_jr_realized,src_meerhout_jr2025,strong,Financieringssaldo -0.759m; tick1019
+bud_mht_provisions_st_2025,city_meerhout,2025,1373187,,,bbc_jr_realized,src_meerhout_jr2025,strong,Voorzieningen ST YE2025 1.37m; tick1019

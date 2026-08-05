@@ -13330,3 +13330,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1019** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1020 in 2
 
+
+### Tick 1019 - 2026-08-09T22:45:00Z
+
+- Unit: **rq_1019** (FOI-adjacent residual dual - **Gemeente+OCMW Meerhout Jaarrekening 2025** + Buggenhout dual residual)
+- Found (strong primary BBC JR2025 96p Bundel; KBO 0207.502.992 / OCMW 0212.196.705; AD Flor Boven; Markt 1; NIS 13021; GR 29 jun 2026):
+  - Assets **EUR71.67m** / equity **EUR48.25m DROP** / debt total **EUR23.42m** / fin debt **EUR9.68m** (**DECLINING** from **EUR10.47m**; LT **EUR8.65m** / ST due **EUR1.02m**)
+  - New loans **EUR0.205m** / repayments **EUR0.994m**
+  - Cash **EUR10.06m HIGH** (was **EUR10.40m**) / pension **EUR8.72m JUMP** (was **EUR8.30m FOI**) / leasing MVA **EUR2.78m**
+  - FVA IGS **EUR6.56m** / cap subs **EUR12.91m**
+  - Exploitatie: ontvangsten **EUR29.61m** / uitgaven **EUR27.52m** / saldo **+EUR2.09m STRONG**
+  - AFM **+EUR1.57m STRONG** (gecorr **+EUR1.72m**) / BBR **EUR9.41m HIGH** / budget **-EUR1.45m NEG FOI** / P&L **-EUR1.52m** (improving vs -4.97m)
+  - Personnel **EUR18.18m** / toelagen **EUR2.53m FOI** (police **EUR1.34m** / fire **EUR0.272m** / other **EUR0.695m JUMP**)
+  - Invest **EUR3.47m** vs MJP **EUR7.19m UNDERSPEND FOI** / invest-subs **EUR1.23m JUMP FOI** / OCMW J3 gap **~EUR-2.05m FOI** / equity cum **-EUR3.76m WORSENING**
+- Dual: Buggenhout **EUR85.48m** / new loans JUMP **EUR3.33m** / OCMW cover **EUR2.00m FULL** (tick1018) - not TE-additive
+- Note: Stekene 404 again; Balen still OCR-blocked; Willebroek JR2025 also extractable (180p) reserved next; Torhout still news-only
+- Wrote: budgets +54 (bud_mht_*); commitments +6; leaderboard +8; sources +1; entity city_meerhout; FOI **gap_mht_budget_ocmw_toelagen_l5** prio9 ready + draft; key only (PDF ~3.0MB not stored in git); rq_1019=done; spawn **rq_1020**; ticks=1019
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1020** residual dual L5 + **progress decade refresh**; deferred **rq_116**; progress@1020 in 1
+
