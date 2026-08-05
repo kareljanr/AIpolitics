@@ -12294,3 +12294,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_hou_*); commitments +5; leaderboard +7; sources +2; entity city_houthulst; FOI **gap_hou_debt_lease_ocmw_afm_l5** prio8 ready + draft; key only (PDF ~16MB not stored); rq_962=done; spawn **rq_963**; ticks=962
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_963** residual dual L5 (Ledegem / Lendelede / Torhout / Meulebeke / Zonnebeke / WZBW); deferred **rq_116**; progress@970 in 8
+
+### Tick 963 - 2026-08-08T12:00:00Z
+
+- Unit: **rq_963** (FOI-adjacent residual dual - **Gemeente+OCMW Zonnebeke Jaarrekening 2025** + Houthulst dual residual + AGB MMP1917 Entity II)
+- Found (strong primary BBC JR2025 220p; KBO 0207.432.124 / OCMW 0212.187.203; GR/RMW 30.06.2026 pub 02.07.2026 LBLOD):
+  - Assets **EUR90.2m** / equity **EUR82.2m** / debt total **EUR8.06m** / fin debt **EUR3.78m** (**SLIGHT RISE** from **EUR3.69m**; LT **EUR3.33m** / ST due **EUR0.448m**)
+  - New loans/lease **EUR0.509m** (Fluvius verledding FOI — no classic loans) / repayments **EUR0.424m**
+  - Cash **EUR11.05m HIGH** / pension **EUR1.75m RISING** / leasing MVA **EUR4.56m FOI** / FVA IGS **EUR10.9m**
+  - Exploitatie: ontvangsten **EUR26.7m** / uitgaven **EUR22.4m** / saldo **+EUR4.34m**
+  - AFM **+EUR3.98m STRONG** (gecorr **+EUR4.11m**) / BBR **EUR12.3m** / budget **-EUR0.018m near zero FOI** / P&L **+EUR2.10m**
+  - **AGB MMP1917 dual**: AFM **+EUR0.100m** / **gecorr AFM -EUR0.204m NEG FOI** / BBR share **EUR0.619m** / toelage **EUR0.133m**
+  - Personnel **EUR12.9m** / toelagen **EUR2.19m** (police **EUR0.930m** / HVZ **EUR0.503m** / other **EUR0.443m FOI**)
+  - Invest **EUR5.50m** vs MJP **EUR7.36m underspend FOI** / invest-rec **EUR0.994m** vs MJP **EUR2.52m** / **OCMW cover EUR1.61m LARGE FOI**
+  - MJP fin debt planned **EUR5.12m (2026) JUMP FOI** / **EUR4.96m (2027)**
+- Dual: Houthulst **EUR60.5m** / fin debt **EUR23.6m declining HIGH per capita** / leasing **EUR10.8m** / OCMW **EUR0.86m** (tick962) - not TE-additive
+- Wrote: budgets +56 (bud_zon_*); commitments +5; leaderboard +7; sources +2; entity city_zonnebeke; FOI **gap_zon_ocmw_agb_mjp_invest_l5** prio8 ready + draft; key only (PDF ~7.6MB not stored); rq_963=done; spawn **rq_964**; ticks=963
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_964** residual dual L5 (Ledegem / Lendelede / Torhout / Meulebeke / AGB MMP1917 / WZBW); deferred **rq_116**; progress@970 in 7
+

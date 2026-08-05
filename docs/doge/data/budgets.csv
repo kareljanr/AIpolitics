@@ -22136,3 +22136,59 @@ bud_hou_fin_costs_2025,city_houthulst,2025,965969,,,realized,src_houthulst_jr202
 bud_hou_goederen_2025,city_houthulst,2025,3102847,,,realized,src_houthulst_jr2025,strong,Goederen en diensten 3.10m; tick962
 bud_hou_financing_saldo_2025,city_houthulst,2025,-1192462,,,realized,src_houthulst_jr2025,strong,Financieringssaldo -1.19m; tick962
 bud_hou_herwaardering_reserves_2025,city_houthulst,2025,7147860,,,realized,src_houthulst_jr2025,strong,Herwaarderingsreserves YE2025 7.15m (was 2.03m) FOI; tick962
+bud_zon_assets_2025,city_zonnebeke,2025,90244446,,,realized,src_zonnebeke_jr2025,strong,Total assets YE2025 90.2m; tick963
+bud_zon_equity_2025,city_zonnebeke,2025,82182487,,,realized,src_zonnebeke_jr2025,strong,Nettoactief YE2025 82.2m; tick963
+bud_zon_debt_total_2025,city_zonnebeke,2025,8061959,,,realized,src_zonnebeke_jr2025,strong,Total schulden YE2025 8.06m; tick963
+bud_zon_fin_debt_2025,city_zonnebeke,2025,3778332,,,realized,src_zonnebeke_jr2025,strong,Fin debt YE2025 3.78m SLIGHT RISE (Fluvius lease); tick963
+bud_zon_fin_debt_lt_2025,city_zonnebeke,2025,3329924,,,realized,src_zonnebeke_jr2025,strong,Fin debt LT 3.33m; tick963
+bud_zon_fin_debt_st_due_2025,city_zonnebeke,2025,448408,,,realized,src_zonnebeke_jr2025,strong,Fin debt ST due 0.448m; tick963
+bud_zon_fin_debt_2024,city_zonnebeke,2025,3693013,,,realized,src_zonnebeke_jr2025,strong,Fin debt YE2024 3.69m; tick963
+bud_zon_new_loans_2025,city_zonnebeke,2025,508909,,,realized,src_zonnebeke_jr2025,strong,New loans/lease 0.509m Fluvius verledding FOI; tick963
+bud_zon_aflossingen_2025,city_zonnebeke,2025,423590,,,realized,src_zonnebeke_jr2025,strong,Periodieke aflossingen 0.424m; tick963
+bud_zon_cash_2025,city_zonnebeke,2025,11053271,,,realized,src_zonnebeke_jr2025,strong,Liquide middelen 11.05m HIGH; tick963
+bud_zon_cash_2024,city_zonnebeke,2025,11571667,,,realized,src_zonnebeke_jr2025,strong,Liquide middelen YE2024 11.57m; tick963
+bud_zon_pension_prov_2025,city_zonnebeke,2025,1750000,,,realized,src_zonnebeke_jr2025,strong,Pensioenvoorzieningen 1.75m RISING FOI; tick963
+bud_zon_pension_prov_2024,city_zonnebeke,2025,1580946,,,realized,src_zonnebeke_jr2025,strong,Pensioenvoorzieningen YE2024 1.58m; tick963
+bud_zon_prov_st_2025,city_zonnebeke,2025,703804,,,realized,src_zonnebeke_jr2025,strong,Voorzieningen ST 0.704m; tick963
+bud_zon_fva_total_2025,city_zonnebeke,2025,15439666,,,realized,src_zonnebeke_jr2025,strong,FVA total 15.4m; tick963
+bud_zon_fva_igs_2025,city_zonnebeke,2025,10936711,,,realized,src_zonnebeke_jr2025,strong,FVA IGS 10.9m; tick963
+bud_zon_fva_other_2025,city_zonnebeke,2025,4501717,,,realized,src_zonnebeke_jr2025,strong,FVA andere 4.50m; tick963
+bud_zon_mva_2025,city_zonnebeke,2025,52571229,,,realized,src_zonnebeke_jr2025,strong,MVA total 52.6m; tick963
+bud_zon_leasing_mva_2025,city_zonnebeke,2025,4564689,,,realized,src_zonnebeke_jr2025,strong,Leasing MVA gemeenschap 4.56m FOI; tick963
+bud_zon_cap_subs_2025,city_zonnebeke,2025,10532764,,,realized,src_zonnebeke_jr2025,strong,Kapitaalsubsidies 10.5m; tick963
+bud_zon_cum_pnl_2025,city_zonnebeke,2025,18654524,,,realized,src_zonnebeke_jr2025,strong,Gecumuleerd overschot 18.7m; tick963
+bud_zon_herwaardering_reserves_2025,city_zonnebeke,2025,1317016,,,realized,src_zonnebeke_jr2025,strong,Herwaarderingsreserves 1.32m; tick963
+bud_zon_expl_rec_2025,city_zonnebeke,2025,26732041,,,realized,src_zonnebeke_jr2025,strong,Exploitatieontvangsten 26.7m; tick963
+bud_zon_expl_exp_2025,city_zonnebeke,2025,22392235,,,realized,src_zonnebeke_jr2025,strong,Exploitatieuitgaven 22.4m; tick963
+bud_zon_expl_saldo_2025,city_zonnebeke,2025,4339806,,,realized,src_zonnebeke_jr2025,strong,Exploitatiesaldo +4.34m; tick963
+bud_zon_invest_exp_2025,city_zonnebeke,2025,5498428,,,realized,src_zonnebeke_jr2025,strong,Investeringsuitgaven 5.50m HIGH FOI; tick963
+bud_zon_invest_rec_2025,city_zonnebeke,2025,993824,,,realized,src_zonnebeke_jr2025,strong,Investeringsontvangsten 0.994m FOI underspend vs MJP 2.52m; tick963
+bud_zon_invest_saldo_2025,city_zonnebeke,2025,-4504604,,,realized,src_zonnebeke_jr2025,strong,Investeringssaldo -4.50m; tick963
+bud_zon_invest_mjp_2025,city_zonnebeke,2025,7356942,,,realized,src_zonnebeke_jr2025,strong,MJP invest exp 7.36m (underspend residual); tick963
+bud_zon_afm_2025,city_zonnebeke,2025,3977765,,,realized,src_zonnebeke_jr2025,strong,AFM +3.98m STRONG; tick963
+bud_zon_afm_corr_2025,city_zonnebeke,2025,4105914,,,realized,src_zonnebeke_jr2025,strong,Gecorr AFM +4.11m; tick963
+bud_zon_bbr_2025,city_zonnebeke,2025,12319672,,,realized,src_zonnebeke_jr2025,strong,BBR 12.3m; tick963
+bud_zon_budget_result_2025,city_zonnebeke,2025,-17930,,,realized,src_zonnebeke_jr2025,strong,Budgettair resultaat -0.018m near zero FOI; tick963
+bud_zon_cum_br_2025,city_zonnebeke,2025,12319672,,,realized,src_zonnebeke_jr2025,strong,Gecumuleerd BR = BBR 12.3m; tick963
+bud_zon_onbeschikbaar_2025,city_zonnebeke,2025,0,,,realized,src_zonnebeke_jr2025,strong,Onbeschikbare gelden 0; tick963
+bud_zon_pnl_result_2025,city_zonnebeke,2025,2101508,,,realized,src_zonnebeke_jr2025,strong,P&L overschot +2.10m; tick963
+bud_zon_personnel_2025,city_zonnebeke,2025,12944933,,,realized,src_zonnebeke_jr2025,strong,Bezoldigingen T2 12.94m; tick963
+bud_zon_toelagen_2025,city_zonnebeke,2025,2185126,,,realized,src_zonnebeke_jr2025,strong,Toegestane werkingssubsidies 2.19m; tick963
+bud_zon_toelagen_police_2025,city_zonnebeke,2025,929505,,,realized,src_zonnebeke_jr2025,strong,Toelage politiezone 0.930m; tick963
+bud_zon_toelagen_hvz_2025,city_zonnebeke,2025,502746,,,realized,src_zonnebeke_jr2025,strong,Toelage HVZ 0.503m; tick963
+bud_zon_toelagen_agb_2025,city_zonnebeke,2025,132801,,,realized,src_zonnebeke_jr2025,strong,Toelage AGB MMP1917 0.133m dual FOI; tick963
+bud_zon_toelagen_igs_2025,city_zonnebeke,2025,53500,,,realized,src_zonnebeke_jr2025,strong,Toelage IGS 0.054m; tick963
+bud_zon_toelagen_kerk_2025,city_zonnebeke,2025,123946,,,realized,src_zonnebeke_jr2025,strong,Toelage eredienst 0.124m; tick963
+bud_zon_toelagen_other_2025,city_zonnebeke,2025,442628,,,realized,src_zonnebeke_jr2025,strong,Toelage andere begunstigden 0.443m FOI; tick963
+bud_zon_invest_subs_granted_2025,city_zonnebeke,2025,359288,,,realized,src_zonnebeke_jr2025,strong,Toegestane invest-subs 0.359m; tick963
+bud_zon_ocmw_aid_2025,city_zonnebeke,2025,948219,,,realized,src_zonnebeke_jr2025,strong,Individuele hulpverlening OCMW 0.948m; tick963
+bud_zon_ocmw_cover_2025,city_zonnebeke,2025,1608927,,,realized,src_zonnebeke_jr2025,strong,OCMW tussenkomst 1.61m LARGE FOI; tick963
+bud_zon_ocmw_pnl_2025,city_zonnebeke,2025,-1614612,,,realized,src_zonnebeke_jr2025,strong,OCMW P&L -1.61m FOI; tick963
+bud_zon_fiscal_2025,city_zonnebeke,2025,11481115,,,realized,src_zonnebeke_jr2025,strong,Fiscale opbrengsten 11.5m; tick963
+bud_zon_fin_costs_2025,city_zonnebeke,2025,125725,,,realized,src_zonnebeke_jr2025,strong,Financiele kosten J5 0.126m; tick963
+bud_zon_goederen_2025,city_zonnebeke,2025,4465699,,,realized,src_zonnebeke_jr2025,strong,Goederen en diensten T2 4.47m; tick963
+bud_zon_financing_saldo_2025,city_zonnebeke,2025,146868,,,realized,src_zonnebeke_jr2025,strong,Financieringssaldo +0.147m; tick963
+bud_zon_agb_afm_corr_neg_2025,city_zonnebeke,2025,203561,,,realized,src_zonnebeke_jr2025,strong,AGB MMP1917 gecorr AFM -0.204m NEG dual FOI (abs); tick963
+bud_zon_agb_bbr_2025,city_zonnebeke,2025,619455,,,realized,src_zonnebeke_jr2025,strong,AGB MMP1917 BBR 0.619m dual; tick963
+bud_zon_mjp_fin_debt_2026,city_zonnebeke,2025,5115179,,,realized,src_zonnebeke_jr2025,strong,MJP fin debt YE2026 5.12m JUMP FOI; tick963
+bud_zon_mjp_fin_debt_2027,city_zonnebeke,2025,4955064,,,realized,src_zonnebeke_jr2025,strong,MJP fin debt YE2027 4.96m; tick963

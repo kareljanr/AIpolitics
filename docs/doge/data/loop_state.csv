@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T11:00:00Z,rq_962,962,no,tick962 Houthulst JR2025 dual residual; FOI gap_hou_debt_lease_ocmw_afm_l5 prio8 assets 60.5m fin debt 23.6m declining EUR2244/capita leasing 10.8m OCMW 0.86m; next residual dual L5 rq_963; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T12:00:00Z,rq_963,963,no,tick963 Zonnebeke JR2025 dual residual; FOI gap_zon_ocmw_agb_mjp_invest_l5 prio8 assets 90.2m fin debt 3.78m slight rise cash 11.1m OCMW 1.61m AGB dual AFM corr neg; next residual dual L5 rq_964; rq_116 deferred
