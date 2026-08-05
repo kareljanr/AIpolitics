@@ -12807,3 +12807,22 @@ Append-only. Each tick adds a short entry.
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_991** residual dual L5 (Torhout / Meulebeke / Nieuwpoort / AGB De Panne); deferred **rq_116**; progress@1000 in 10
 
+
+### Tick 991 - 2026-08-09T08:45:00Z
+
+- Unit: **rq_991** (FOI-adjacent residual dual - **Stad+OCMW Nieuwpoort Jaarrekening 2025** + progress@990 residual)
+- Found (strong primary BBC consol JR2025 222p; KBO 0207.485.869 / OCMW 0212.202.445; FD Inge De Bille; AD wnd Jolien Depondt; Marktplein 7):
+  - Assets **EUR190.0m** / equity **EUR141.5m** / debt total **EUR48.5m** / fin debt **EUR21.56m** (**DECLINING** from **EUR23.02m**; LT **EUR19.10m** / ST due **EUR2.46m**)
+  - New loans/lease **EUR1.22m** / repayments **EUR2.68m**
+  - Cash **EUR55.08m HIGH** (was **EUR54.12m**) / pension **EUR15.80m RISING** (was **EUR13.88m**) / leasing MVA **EUR1.22m FOI**
+  - **FVA IGS EUR21.51m JUMP** (was **EUR15.24m**; herwaard **EUR5.39m FOI**) / herwaard reserves **EUR11.36m JUMP**
+  - Exploitatie: ontvangsten **EUR59.38m** / uitgaven **EUR52.40m** / saldo **+EUR6.98m STRONG**
+  - AFM **+EUR5.48m STRONG** (gecorr **+EUR6.32m**) / BBR **EUR53.46m HIGH** / budget **+EUR2.06m** / P&L **-EUR0.460m** (GE **+EUR5.79m** / OCMW **-EUR6.25m FOI**)
+  - Personnel **EUR26.94m** / toelagen **EUR7.71m FOI** (police **EUR3.06m** / **AGB Vrije Tijd EUR2.27m dual** / fire **EUR0.728m** / other **EUR1.38m** / eredienst **EUR0.196m** / IGS **EUR0.076m**)
+  - Invest **EUR7.40m** vs MJP **EUR22.90m LARGE underspend FOI** / **OCMW cover EUR3.25m PARTIAL FOI** / **OCMW cum -EUR4.80m WORSENING** (was -1.80m) / minwaarde VA **EUR1.62m FOI**
+- Dual: progress@990 residual stack + Koekelare **EUR72.4m** OCMW cover **EUR1.21m** (tick989) - not TE-additive; AGB Vrije Tijd separate Entity II next residual
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne image-only
+- Wrote: budgets +51 (bud_nie_*); commitments +5; leaderboard +7; sources +1; entity city_nieuwpoort; FOI **gap_nie_ocmw_toelagen_fva_debt_l5** prio8 ready + draft; key only (PDF ~14.8MB not stored in git); rq_991=done; spawn **rq_992**; ticks=991
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_992** residual dual L5 (AGB Nieuwpoort Vrije Tijd preferred / Torhout / Meulebeke); deferred **rq_116**; progress@1000 in 9
+

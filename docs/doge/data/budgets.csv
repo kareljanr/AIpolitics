@@ -23262,3 +23262,54 @@ bud_koe_costs_j5_2025,city_koekelare,2025,13774124,,,realized,src_koekelare_jr20
 bud_koe_revenue_j5_2025,city_koekelare,2025,14862503,,,realized,src_koekelare_jr2025,strong,J5 total opbrengsten 14.86m; tick989
 bud_koe_mjp_invest_exp_2025,city_koekelare,2025,7647390,,,realized,src_koekelare_jr2025,strong,MJP investeringsuitgaven 7.65m (realized 2.18m underspend FOI); tick989
 bud_koe_fin_income_j5_2025,city_koekelare,2025,935079,,,realized,src_koekelare_jr2025,strong,Financiele opbrengsten J5 0.935m DROP FOI (was 3.09m); tick989
+bud_nie_assets_2025,city_nieuwpoort,2025,189995519,,,realized,src_nieuwpoort_jr2025,strong,Assets YE2025 190.0m; tick991
+bud_nie_equity_2025,city_nieuwpoort,2025,141526742,,,realized,src_nieuwpoort_jr2025,strong,Nettoactief YE2025 141.5m; tick991
+bud_nie_debt_total_2025,city_nieuwpoort,2025,48468777,,,realized,src_nieuwpoort_jr2025,strong,Total schulden YE2025 48.47m; tick991
+bud_nie_fin_debt_2025,city_nieuwpoort,2025,21562872,,,realized,src_nieuwpoort_jr2025,strong,Fin debt total YE2025 21.56m DECLINING (was 23.02m); tick991
+bud_nie_fin_debt_lt_2025,city_nieuwpoort,2025,19101544,,,realized,src_nieuwpoort_jr2025,strong,Fin debt LT YE2025 19.10m; tick991
+bud_nie_fin_debt_st_due_2025,city_nieuwpoort,2025,2461327,,,realized,src_nieuwpoort_jr2025,strong,Fin debt ST due YE2025 2.46m; tick991
+bud_nie_new_loans_2025,city_nieuwpoort,2025,1224931,,,realized,src_nieuwpoort_jr2025,strong,Nieuwe leningen/lease 1.22m FOI; tick991
+bud_nie_repayments_2025,city_nieuwpoort,2025,2679685,,,realized,src_nieuwpoort_jr2025,strong,Periodieke aflossingen 2.68m; tick991
+bud_nie_cash_2025,city_nieuwpoort,2025,55076809,,,realized,src_nieuwpoort_jr2025,strong,Liquide middelen YE2025 55.08m HIGH JUMP (was 54.12m); tick991
+bud_nie_pension_2025,city_nieuwpoort,2025,15804903,,,realized,src_nieuwpoort_jr2025,strong,Pensioenvoorzieningen LT YE2025 15.80m RISING (was 13.88m) FOI; tick991
+bud_nie_leasing_mva_2025,city_nieuwpoort,2025,1216285,,,realized,src_nieuwpoort_jr2025,strong,Leasing MVA YE2025 1.22m FOI; tick991
+bud_nie_fva_igs_2025,city_nieuwpoort,2025,21508901,,,realized,src_nieuwpoort_jr2025,strong,FVA IGS YE2025 21.51m JUMP (was 15.24m) herwaard 5.39m FOI; tick991
+bud_nie_fva_other_2025,city_nieuwpoort,2025,155832,,,realized,src_nieuwpoort_jr2025,strong,Andere FVA YE2025 0.156m; tick991
+bud_nie_herwaard_reserves_2025,city_nieuwpoort,2025,11363104,,,realized,src_nieuwpoort_jr2025,strong,Herwaarderingsreserves YE2025 11.36m JUMP FOI; tick991
+bud_nie_cap_subs_2025,city_nieuwpoort,2025,12398138,,,realized,src_nieuwpoort_jr2025,strong,Kapitaalsubsidies YE2025 12.40m; tick991
+bud_nie_expl_rec_2025,city_nieuwpoort,2025,59377092,,,realized,src_nieuwpoort_jr2025,strong,Exploitatieontvangsten 59.38m; tick991
+bud_nie_expl_exp_2025,city_nieuwpoort,2025,52400765,,,realized,src_nieuwpoort_jr2025,strong,Exploitatieuitgaven 52.40m; tick991
+bud_nie_expl_saldo_2025,city_nieuwpoort,2025,6976327,,,realized,src_nieuwpoort_jr2025,strong,Exploitatiesaldo +6.98m STRONG; tick991
+bud_nie_invest_exp_2025,city_nieuwpoort,2025,7399497,,,realized,src_nieuwpoort_jr2025,strong,Investeringsuitgaven 7.40m vs MJP 22.90m LARGE underspend FOI; tick991
+bud_nie_invest_rec_2025,city_nieuwpoort,2025,3378000,,,realized,src_nieuwpoort_jr2025,strong,Investeringsontvangsten 3.38m; tick991
+bud_nie_invest_saldo_2025,city_nieuwpoort,2025,-4021497,,,realized,src_nieuwpoort_jr2025,strong,Investeringssaldo -4.02m; tick991
+bud_nie_fin_rec_2025,city_nieuwpoort,2025,1943290,,,realized,src_nieuwpoort_jr2025,strong,Financieringsontvangsten 1.94m; tick991
+bud_nie_fin_exp_2025,city_nieuwpoort,2025,2834954,,,realized,src_nieuwpoort_jr2025,strong,Financieringsuitgaven 2.83m; tick991
+bud_nie_budget_result_2025,city_nieuwpoort,2025,2063167,,,realized,src_nieuwpoort_jr2025,strong,Budgettair resultaat +2.06m; tick991
+bud_nie_cum_budget_2025,city_nieuwpoort,2025,53459887,,,realized,src_nieuwpoort_jr2025,strong,Gecumuleerd budgettair resultaat 53.46m HIGH; tick991
+bud_nie_bbr_2025,city_nieuwpoort,2025,53459887,,,realized,src_nieuwpoort_jr2025,strong,Beschikbaar BBR 53.46m HIGH; tick991
+bud_nie_afm_2025,city_nieuwpoort,2025,5478135,,,realized,src_nieuwpoort_jr2025,strong,AFM +5.48m STRONG; tick991
+bud_nie_afm_corr_2025,city_nieuwpoort,2025,6316410,,,realized,src_nieuwpoort_jr2025,strong,Gecorrigeerde AFM +6.32m; tick991
+bud_nie_pnl_2025,city_nieuwpoort,2025,-459703,,,realized,src_nieuwpoort_jr2025,strong,P&L -0.460m (GE +5.79m / OCMW -6.25m FOI); tick991
+bud_nie_ge_pnl_2025,city_nieuwpoort,2025,5787465,,,realized,src_nieuwpoort_jr2025,strong,Gemeente P&L +5.79m; tick991
+bud_nie_ocmw_pnl_neg_2025,city_nieuwpoort,2025,-6247168,,,realized,src_nieuwpoort_jr2025,strong,OCMW P&L -6.25m FOI residual; tick991
+bud_nie_ocmw_cover_2025,city_nieuwpoort,2025,3250000,,,realized,src_nieuwpoort_jr2025,strong,OCMW cover 3.25m PARTIAL vs P&L -6.25m FOI residual; tick991
+bud_nie_ocmw_cum_deficit_2025,city_nieuwpoort,2025,-4796702,,,realized,src_nieuwpoort_jr2025,strong,OCMW cum deficit -4.80m WORSENING (was -1.80m) FOI; tick991
+bud_nie_personnel_2025,city_nieuwpoort,2025,26937008,,,realized,src_nieuwpoort_jr2025,strong,Bezoldigingen 26.94m FOI; tick991
+bud_nie_goederen_2025,city_nieuwpoort,2025,14499753,,,realized,src_nieuwpoort_jr2025,strong,Goederen en diensten 14.50m; tick991
+bud_nie_toelagen_2025,city_nieuwpoort,2025,7705763,,,realized,src_nieuwpoort_jr2025,strong,Toegestane werkingssubsidies 7.71m FOI named; tick991
+bud_nie_toelage_police_2025,city_nieuwpoort,2025,3059548,,,realized,src_nieuwpoort_jr2025,strong,Toelage politiezone 3.06m FOI; tick991
+bud_nie_toelage_agb_2025,city_nieuwpoort,2025,2269164,,,realized,src_nieuwpoort_jr2025,strong,Toelage AGB Vrije Tijd 2.27m dual FOI; tick991
+bud_nie_toelage_fire_2025,city_nieuwpoort,2025,727708,,,realized,src_nieuwpoort_jr2025,strong,Toelage HVZ 0.728m FOI; tick991
+bud_nie_toelage_igs_2025,city_nieuwpoort,2025,76324,,,realized,src_nieuwpoort_jr2025,strong,Toelage IGS 0.076m FOI; tick991
+bud_nie_toelage_eredienst_2025,city_nieuwpoort,2025,195781,,,realized,src_nieuwpoort_jr2025,strong,Toelage besturen eredienst 0.196m; tick991
+bud_nie_toelage_other_2025,city_nieuwpoort,2025,1377238,,,realized,src_nieuwpoort_jr2025,strong,Toelage andere begunstigden 1.38m FOI; tick991
+bud_nie_ocmw_aid_2025,city_nieuwpoort,2025,2230526,,,realized,src_nieuwpoort_jr2025,strong,Individuele hulp OCMW 2.23m FOI; tick991
+bud_nie_fiscal_2025,city_nieuwpoort,2025,32994103,,,realized,src_nieuwpoort_jr2025,strong,Fiscale opbrengsten 32.99m; tick991
+bud_nie_gemeentefonds_2025,city_nieuwpoort,2025,4673461,,,realized,src_nieuwpoort_jr2025,strong,Gemeentefonds 4.67m; tick991
+bud_nie_werkingsubs_rec_2025,city_nieuwpoort,2025,13378738,,,realized,src_nieuwpoort_jr2025,strong,Ontvangen werkingssubsidies 13.38m; tick991
+bud_nie_costs_j5_2025,city_nieuwpoort,2025,60900723,,,realized,src_nieuwpoort_jr2025,strong,J5 total kosten 60.90m; tick991
+bud_nie_revenue_j5_2025,city_nieuwpoort,2025,60441020,,,realized,src_nieuwpoort_jr2025,strong,J5 total opbrengsten 60.44m; tick991
+bud_nie_mjp_invest_exp_2025,city_nieuwpoort,2025,22903712,,,realized,src_nieuwpoort_jr2025,strong,MJP investeringsuitgaven 22.90m (realized 7.40m underspend FOI); tick991
+bud_nie_minwaarde_2025,city_nieuwpoort,2025,1620102,,,realized,src_nieuwpoort_jr2025,strong,Minderwaarden realisatie VA 1.62m FOI residual; tick991
+bud_nie_prijssubsidie_agb_note_2025,city_nieuwpoort,2025,2435263,,,realized,src_nieuwpoort_jr2025,strong,Sport prijssubsidies AGB line note 2.44m FOI dual residual; tick991
