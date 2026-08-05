@@ -15233,3 +15233,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_eve_*); commitments +8; leaderboard +12; sources +1; entity city_evergem; FOI **gap_eve_ocmw_toelagen_pension_invest_l5** prio9 ready + draft; PDF primary (not committed 17.6MB); rq_1114=done; spawn **rq_1115**; ticks=1114
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1115** residual dual L5; deferred **rq_116**; progress@1120 in 6
+
+### Tick 1115 - 2026-08-11T23:00:00Z
+
+- Unit: **rq_1115** (FOI-adjacent residual dual - **AGB Evergem Jaarrekening 2025** Entity II + Evergem GE+OCMW dual residual)
+- Found (strong primary BBC JR2025 AGB 128p text; evergem.be; RvB 15.06.2026; KBO 0878.328.763; F. De Kokerlaan 11 9940; AD Danny Coene FD Christ Coquyt Voorzitter Kenny Ketels; AGB only — dual after GE+OCMW tick1114):
+  - Assets **EUR7.814m JUMP** (was **EUR7.327m**) / equity **EUR3.607m** / debt total **EUR4.207m** / fin debt **EUR2.460m DECLINE FOI** (LT **EUR1.950m** / ST due **EUR0.510m**; was **EUR2.690m**)
+  - New loans **EUR0.302m FOI** (=invest) / repayments **EUR0.531m**
+  - Cash **EUR3.201m JUMP FOI** (was **EUR2.230m**)
+  - Exploitatie: ontvangsten **EUR3.556m** / uitgaven **EUR2.903m** / saldo **+EUR0.653m STRONG**
+  - AFM **+EUR0.122m FLIP FOI** (MJP was **−EUR0.205m**; gecorr **+EUR0.438m**) / BBR **EUR3.074m HIGH** / budget **+EUR0.156m POS** / P&L **+EUR0.232m POS**
+  - Omzet **EUR3.542m** / goederen **EUR2.619m** / **personeel EUR0 ZERO** (outsourcing model FOI)
+  - **Uitgekeerde winst / dividend EUR0.100m FOI**
+  - Invest **EUR0.302m** vs MJP **EUR0.415m UNDERSPEND FOI**
+  - **City AGB toelage from GE EUR1.438m FOI** (GE T2 tick1114)
+- Dual: Evergem GE cash VERY HIGH / OCMW DEEP hole (tick1114) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only / Kalmthout / Bornem JR2024-only / De Panne OCR / Erpe-Mere docs-only 2025 residual next; progress@1120 in 5
+- Wrote: budgets +23 (bud_eveagb_*); commitments +7; leaderboard +9; sources +1; entity agb_evergem; FOI **gap_eve_agb_city_toelage_loans_invest_l5** prio9 ready + draft; PDF primary (not committed 6.5MB); rq_1115=done; spawn **rq_1116**; ticks=1115
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1116** residual dual L5; deferred **rq_116**; progress@1120 in 5

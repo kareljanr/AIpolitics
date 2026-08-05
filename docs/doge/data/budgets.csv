@@ -29348,3 +29348,26 @@ bud_eve_agb_bbr_2025,city_evergem,2025,3074040,,,bbc_jr_realized,src_evergem_jr2
 bud_eve_mjp_debt_2027,city_evergem,2025,9068389,,,bbc_jr_realized,src_evergem_jr2025,strong,MJP fin debt YE2027 9.068m RAMP FOI; tick1114
 bud_eve_debt_per_capita_2025,city_evergem,2025,113,,,bbc_jr_realized,src_evergem_jr2025,strong,Schuld per inwoner 113 EUR VERY LOW; tick1114
 bud_eve_goederen_2025,city_evergem,2025,15793230,,,bbc_jr_realized,src_evergem_jr2025,strong,Goederen en diensten 15.793m; tick1114
+bud_eveagb_assets_2025,agb_evergem,2025,7813612,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,AGB assets YE2025 7.814m JUMP (was 7.327m); tick1115
+bud_eveagb_equity_2025,agb_evergem,2025,3606504,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Nettoactief YE2025 3.607m; tick1115
+bud_eveagb_debt_total_2025,agb_evergem,2025,4207108,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Total schulden YE2025 4.207m; tick1115
+bud_eveagb_fin_debt_2025,agb_evergem,2025,2459726,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Fin debt YE2025 2.460m DECLINE FOI (was 2.690m); tick1115
+bud_eveagb_fin_debt_lt_2025,agb_evergem,2025,1949826,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Fin debt LT YE2025 1.950m; tick1115
+bud_eveagb_fin_debt_st_2025,agb_evergem,2025,509901,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Fin debt ST due YE2025 0.510m; tick1115
+bud_eveagb_new_loans_2025,agb_evergem,2025,301500,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,New loans 0.302m FOI (=invest); tick1115
+bud_eveagb_repayments_2025,agb_evergem,2025,531347,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Periodieke aflossingen 0.531m; tick1115
+bud_eveagb_cash_2025,agb_evergem,2025,3201356,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Cash YE2025 3.201m JUMP FOI (was 2.230m); tick1115
+bud_eveagb_expl_ontvangsten_2025,agb_evergem,2025,3555658,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Exploitatie ontvangsten 3.556m; tick1115
+bud_eveagb_expl_uitgaven_2025,agb_evergem,2025,2902677,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Exploitatie uitgaven 2.903m; tick1115
+bud_eveagb_expl_saldo_2025,agb_evergem,2025,652981,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Exploitatiesaldo +0.653m STRONG; tick1115
+bud_eveagb_afm_2025,agb_evergem,2025,121634,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,AFM +0.122m FLIP FOI (MJP was -0.205m); tick1115
+bud_eveagb_afm_gecorr_2025,agb_evergem,2025,437815,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,AFM gecorrigeerd +0.438m; tick1115
+bud_eveagb_bbr_2025,agb_evergem,2025,3074040,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,BBR 3.074m HIGH; tick1115
+bud_eveagb_budget_result_2025,agb_evergem,2025,155941,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Budget +0.156m POS (MJP was -0.205m); tick1115
+bud_eveagb_pnl_2025,agb_evergem,2025,231511,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,P&L +0.232m POS; tick1115
+bud_eveagb_dividend_2025,agb_evergem,2025,100000,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Uitgekeerde winst 0.100m FOI residual; tick1115
+bud_eveagb_omzet_2025,agb_evergem,2025,3542379,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Omzet/werking 3.542m; tick1115
+bud_eveagb_goederen_2025,agb_evergem,2025,2619186,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Goederen en diensten 2.619m (no personnel); tick1115
+bud_eveagb_invest_uitgaven_2025,agb_evergem,2025,301500,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Invest 0.302m vs MJP 0.415m UNDERSPEND FOI; tick1115
+bud_eveagb_invest_mjp_2025,agb_evergem,2025,414904,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,MJP invest uitgaven 0.415m; tick1115
+bud_eveagb_city_toelage_2025,agb_evergem,2025,1438047,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,City AGB toelage from GE 1.438m FOI residual (GE T2); tick1115
