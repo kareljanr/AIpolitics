@@ -14625,3 +14625,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1085** residual dual L5; deferred **rq_116**; progress@1090 in 5
 
+
+### Tick 1085 - 2026-08-11T08:00:00Z
+
+- Unit: **rq_1085** (FOI-adjacent residual dual - **Lokaal Bestuur Kortenberg Jaarrekening 2025** + Bertem dual residual)
+- Found (strong primary BBC JR2025 PDF; GR 18.05.2026 pub 02.06.2026; KBO GE 0207.520.810 / OCMW 0212.189.478; Dr. V. De Walsplein 30 3070; AD Leen Ceuppens FD Marie-Christine Sunaert; GE+OCMW):
+  - Assets **EUR139.892m** / equity **EUR121.863m** / debt total **EUR18.03m JUMP** / fin debt **EUR2.729m LOW JUMP** (LT **EUR2.328m** / ST due **EUR0.401m**)
+  - New loans **EUR0.739m** / repayments **EUR0.371m**
+  - Cash **EUR17.354m MASSIVE DROP FOI** (was **EUR24.809m**, -**EUR7.455m**) / pension **EUR8.674m MASSIVE JUMP FOI** (was **EUR5.845m**, +**EUR2.829m**) / FVA IGS **EUR12.365m** / leasing MVA **EUR3.510m**
+  - Exploitatie: ontvangsten **EUR46.855m** / uitgaven **EUR39.826m** / saldo **+EUR7.029m VERY STRONG**
+  - AFM **+EUR6.664m VERY STRONG** (gecorr **+EUR6.846m**) / BBR **EUR15.511m VERY HIGH** / budget **EUR-5.573m NEG HIGH FOI** invest-driven / cum BR **EUR17.426m** / P&L **EUR-1.150m NEG FLIP FOI**
+  - Personnel **EUR20.586m** (edu pass-through **EUR7.279m JUMP**) / toelagen **EUR6.712m FOI** (police Herko **EUR2.802m JUMP** / fire **EUR1.233m** / IGS **EUR0.572m JUMP** / other **EUR2.106m**)
+  - Invest **EUR13.706m** vs MJP **EUR19.846m UNDERSPEND** / saldo **-EUR12.976m MASSIVE FOI**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW expl gap **-EUR3.138m HIGH FOI**
+- Dual: Bertem pension JUMP / loans invest (tick1084) - not TE-additive; Herko dual with Herent (tick1081)
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse / Geetbets residual next; progress@1090 in 4
+- Wrote: budgets +51 (bud_kor_*); commitments +7; leaderboard +8; sources +1; entity city_kortenberg; FOI **gap_kor_cash_budget_pension_invest_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1085=done; spawn **rq_1086**; ticks=1085
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1086** residual dual L5; deferred **rq_116**; progress@1090 in 4
+

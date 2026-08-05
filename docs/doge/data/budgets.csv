@@ -28023,3 +28023,54 @@ bud_ber_gemeentefonds_2025,city_bertem,2025,2201475,,,bbc_jr_realized,src_bertem
 bud_ber_interest_2025,city_bertem,2025,382963,,,bbc_jr_realized,src_bertem_jr2025,strong,Intresten op leningen 0.383m; tick1084
 bud_ber_agb_afm_2025,city_bertem,2025,-317,,,bbc_jr_realized,src_bertem_jr2025,strong,AGB Beleko consol AFM residual NEG FOI; tick1084
 bud_ber_goederen_2025,city_bertem,2025,2896255,,,bbc_jr_realized,src_bertem_jr2025,strong,Goederen en diensten 2.896m; tick1084
+bud_kor_assets_2025,city_kortenberg,2025,139892144,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Assets YE2025 139.892m (was 137.326m); tick1085
+bud_kor_equity_2025,city_kortenberg,2025,121863210,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Nettoactief YE2025 121.863m slight DROP (was 122.237m); tick1085
+bud_kor_debt_total_2025,city_kortenberg,2025,18028934,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Total schulden YE2025 18.029m JUMP (was 15.089m); tick1085
+bud_kor_fin_debt_2025,city_kortenberg,2025,2728849,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Fin debt total YE2025 2.729m LOW JUMP (was 2.363m); tick1085
+bud_kor_fin_debt_lt_2025,city_kortenberg,2025,2327834,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Fin debt LT YE2025 2.328m JUMP (was 2.019m); tick1085
+bud_kor_fin_debt_st_due_2025,city_kortenberg,2025,401014,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Fin debt ST due YE2025 0.401m; tick1085
+bud_kor_new_loans_2025,city_kortenberg,2025,739276,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Nieuwe leningen 2025 0.739m leasing-heavy FOI; tick1085
+bud_kor_aflossingen_2025,city_kortenberg,2025,371160,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Periodieke aflossingen 2025 0.371m; tick1085
+bud_kor_cash_2025,city_kortenberg,2025,17353726,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Liquide middelen YE2025 17.354m MASSIVE DROP FOI (was 24.809m); tick1085
+bud_kor_pension_2025,city_kortenberg,2025,8674227,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.674m MASSIVE JUMP FOI (was 5.845m); tick1085
+bud_kor_cap_subs_2025,city_kortenberg,2025,13340505,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Kapitaalsubsidies YE2025 13.341m; tick1085
+bud_kor_fva_total_2025,city_kortenberg,2025,14555228,,,bbc_jr_realized,src_kortenberg_jr2025,strong,FVA total YE2025 14.555m; tick1085
+bud_kor_fva_igs_2025,city_kortenberg,2025,12364562,,,bbc_jr_realized,src_kortenberg_jr2025,strong,FVA IGS YE2025 12.365m; tick1085
+bud_kor_leasing_mva_2025,city_kortenberg,2025,3510411,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Leasing MVA YE2025 3.510m; tick1085
+bud_kor_expl_rec_2025,city_kortenberg,2025,46855073,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Exploitatieontvangsten 46.855m; tick1085
+bud_kor_expl_exp_2025,city_kortenberg,2025,39825599,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Exploitatieuitgaven 39.826m; tick1085
+bud_kor_expl_saldo_2025,city_kortenberg,2025,7029474,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Exploitatiesaldo +7.029m VERY STRONG; tick1085
+bud_kor_invest_exp_2025,city_kortenberg,2025,13706054,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Investeringsuitgaven 13.706m vs MJP 19.846m UNDERSPEND FOI; tick1085
+bud_kor_invest_rec_2025,city_kortenberg,2025,729813,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Investeringsontvangsten 0.730m; tick1085
+bud_kor_invest_saldo_2025,city_kortenberg,2025,-12976240,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Investeringssaldo -12.976m MASSIVE FOI; tick1085
+bud_kor_mjp_invest_planned_2025,city_kortenberg,2025,19845656,,,bbc_jr_realized,src_kortenberg_jr2025,strong,MJP invest planned 19.846m vs realized 13.706m UNDERSPEND FOI; tick1085
+bud_kor_invest_mva_2025,city_kortenberg,2025,13706054,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Investeringen gross invest exp 13.706m; tick1085
+bud_kor_invest_subs_granted_2025,city_kortenberg,2025,87681,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Toegestane invest-subs 0.088m; tick1085
+bud_kor_afm_2025,city_kortenberg,2025,6664314,,,bbc_jr_realized,src_kortenberg_jr2025,strong,AFM +6.664m VERY STRONG; tick1085
+bud_kor_afm_corr_2025,city_kortenberg,2025,6846445,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Gecorrigeerde AFM +6.846m VERY STRONG; tick1085
+bud_kor_bbr_2025,city_kortenberg,2025,15510608,,,bbc_jr_realized,src_kortenberg_jr2025,strong,BBR beschikbaar +15.511m VERY HIGH; tick1085
+bud_kor_budget_result_2025,city_kortenberg,2025,-5572650,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Budgettair resultaat -5.573m NEG HIGH FOI invest-driven; tick1085
+bud_kor_cum_br_2025,city_kortenberg,2025,17425952,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Gecumuleerd budgettair resultaat +17.426m; tick1085
+bud_kor_onbeschikbaar_2025,city_kortenberg,2025,1915345,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Onbeschikbare gelden 1.915m; tick1085
+bud_kor_pnl_2025,city_kortenberg,2025,-1150282,,,bbc_jr_realized,src_kortenberg_jr2025,strong,P&L -1.150m NEG FLIP FOI (was +1.133m); tick1085
+bud_kor_ge_expl_exp_2025,city_kortenberg,2025,33197567,,,bbc_jr_realized,src_kortenberg_jr2025,strong,GE exploitatieuitgaven J3 33.198m; tick1085
+bud_kor_ge_expl_rec_2025,city_kortenberg,2025,43364787,,,bbc_jr_realized,src_kortenberg_jr2025,strong,GE exploitatieontvangsten J3 43.365m; tick1085
+bud_kor_ocmw_expl_exp_2025,city_kortenberg,2025,6628032,,,bbc_jr_realized,src_kortenberg_jr2025,strong,OCMW exploitatieuitgaven J3 6.628m; tick1085
+bud_kor_ocmw_expl_rec_2025,city_kortenberg,2025,3490285,,,bbc_jr_realized,src_kortenberg_jr2025,strong,OCMW exploitatieontvangsten J3 3.490m; tick1085
+bud_kor_ocmw_expl_gap_2025,city_kortenberg,2025,-3137746,,,bbc_jr_realized,src_kortenberg_jr2025,strong,OCMW expl gap J3 -3.138m HIGH FOI; tick1085
+bud_kor_ocmw_cover_2025,city_kortenberg,2025,0,,,bbc_jr_realized,src_kortenberg_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI residual; tick1085
+bud_kor_equity_cum_2025,city_kortenberg,2025,46990050,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Gecumuleerd equity overschot YE2025 +46.990m DROP (was 48.140m); tick1085
+bud_kor_personnel_2025,city_kortenberg,2025,20586306,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Bezoldigingen T2 20.586m incl education pass-through 7.279m; tick1085
+bud_kor_edu_pass_through_2025,city_kortenberg,2025,7278940,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Onderwijzend personeel ten laste andere overheden 7.279m JUMP; tick1085
+bud_kor_toelagen_2025,city_kortenberg,2025,6712153,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Toegestane werkingssubsidies 6.712m FOI residual; tick1085
+bud_kor_toelagen_police_2025,city_kortenberg,2025,2801563,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Toelage politiezone Herko 2.802m JUMP FOI; tick1085
+bud_kor_toelagen_fire_2025,city_kortenberg,2025,1232554,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Toelage hulpverleningszone 1.233m; tick1085
+bud_kor_toelagen_igs_2025,city_kortenberg,2025,571555,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Toelage IGS 0.572m JUMP FOI; tick1085
+bud_kor_toelagen_other_2025,city_kortenberg,2025,2106480,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Toelage other+eredienst residual 2.106m FOI; tick1085
+bud_kor_ocmw_aid_2025,city_kortenberg,2025,1931510,,,bbc_jr_realized,src_kortenberg_jr2025,strong,OCMW individuele hulp 1.932m; tick1085
+bud_kor_fiscal_2025,city_kortenberg,2025,24564429,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Fiscale opbrengsten 24.564m; tick1085
+bud_kor_fiscal_ov_2025,city_kortenberg,2025,8155180,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Opcentiemen OV 8.155m; tick1085
+bud_kor_fiscal_pb_2025,city_kortenberg,2025,13587800,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Aanvullende PB 13.588m; tick1085
+bud_kor_gemeentefonds_2025,city_kortenberg,2025,4430533,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Gemeentefonds 4.431m; tick1085
+bud_kor_interest_2025,city_kortenberg,2025,47664,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Intresten op leningen 0.048m LOW; tick1085
+bud_kor_goederen_2025,city_kortenberg,2025,10404670,,,bbc_jr_realized,src_kortenberg_jr2025,strong,Goederen en diensten 10.405m; tick1085
