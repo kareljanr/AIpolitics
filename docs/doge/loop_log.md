@@ -12938,3 +12938,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +49 (bud_oud_*); commitments +5; leaderboard +7; sources +1; entity city_oudenburg; FOI **gap_oud_ocmw_deficit_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~5.0MB not stored in git); rq_997=done; spawn **rq_998**; ticks=997
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_998** residual dual L5 (Blankenberge / Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 3
+
+### Tick 998 - 2026-08-09T12:15:00Z
+
+- Unit: **rq_998** (FOI-adjacent residual dual - **Gemeente+OCMW Blankenberge Jaarrekening 2025** + Oudenburg dual residual)
+- Found (strong primary BBC JR2025 162p; KBO 0206.684.927 / OCMW 0212.241.542; FD Dirk Plompen; AD Peter Verheyden; J.F. Kennedyplein 1):
+  - Assets **EUR204.47m** / equity **EUR90.70m** / debt total **EUR113.78m** / fin debt **EUR72.65m** (**DECLINING -8%** from **EUR78.66m**; LT **EUR67.74m** / ST due **EUR4.92m**)
+  - New loans **EUR1.11m** / repayments **EUR5.24m**
+  - Cash **EUR5.44m JUMP** (was **EUR4.76m**) / pension **EUR28.73m DROP** (was **EUR33.74m FOI**) / leasing MVA **EUR26.43m HIGH**
+  - FVA IGS **EUR27.55m** / EVA **EUR0.30m** / cap subs **EUR13.78m JUMP**
+  - Exploitatie: ontvangsten **EUR78.81m** / uitgaven **EUR74.11m** / saldo **+EUR4.70m STRONG**
+  - AFM **+EUR1.01m** / **gecorr AFM -EUR0.042m NEG FOI** / BBR **EUR13.61m HIGH** / budget **+EUR0.811m** / P&L **+EUR2.36m STRONG** (GE **+EUR7.78m** / OCMW **-EUR5.42m FOI**)
+  - Personnel **EUR42.53m JUMP +16%** / toelagen **EUR12.04m FOI** (police **EUR8.57m** / fire **EUR0.852m** / IGS **EUR0.805m** / other **EUR1.73m** / eredienst **EUR0.074m**)
+  - Invest **EUR5.24m** vs MJP **EUR7.28m underspend FOI** / **OCMW cover EUR9.63m** (2024 AFM principle FOI) / **OCMW cum -EUR19.16m** (was -23.37m)
+- Dual: Oudenburg **EUR86.93m** / OCMW cover **EUR0** cum **-EUR7.36m** (tick997) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne image-only skip
+- Wrote: budgets +48 (bud_bla_*); commitments +5; leaderboard +7; sources +1; entity city_blankenberge; FOI **gap_bla_ocmw_toelagen_debt_afm_l5** prio8 ready + draft; key only (PDF ~2.1MB not stored in git); rq_998=done; spawn **rq_999**; ticks=998
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_999** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 2

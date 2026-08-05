@@ -23586,3 +23586,51 @@ bud_oud_fin_costs_2025,city_oudenburg,2025,404818,,,realized,src_oudenburg_jr202
 bud_oud_wzc_dagprijs_2025,city_oudenburg,2025,2254138,,,realized,src_oudenburg_jr2025,strong,WZC Riethove dagprijsvergoeding 2.25m (risk note); tick997
 bud_oud_wzc_zorgfin_2025,city_oudenburg,2025,2823162,,,realized,src_oudenburg_jr2025,strong,WZC residentiele zorgfinanciering 2.82m (risk note); tick997
 bud_oud_invest_subs_granted_2025,city_oudenburg,2025,100571,,,realized,src_oudenburg_jr2025,strong,Toegestane investeringssubsidies 0.101m (HVZ 0.081m); tick997
+bud_bla_assets_2025,city_blankenberge,2025,204471157,,,realized,src_blankenberge_jr2025,strong,Assets YE2025 204.47m (was 209.27m); tick998
+bud_bla_equity_2025,city_blankenberge,2025,90695274,,,realized,src_blankenberge_jr2025,strong,Nettoactief YE2025 90.70m (was 84.34m); tick998
+bud_bla_debt_total_2025,city_blankenberge,2025,113775883,,,realized,src_blankenberge_jr2025,strong,Total schulden YE2025 113.78m (was 124.93m); tick998
+bud_bla_fin_debt_2025,city_blankenberge,2025,72654223,,,realized,src_blankenberge_jr2025,strong,Fin debt total YE2025 72.65m DECLINING -8pct (was 78.66m); tick998
+bud_bla_fin_debt_lt_2025,city_blankenberge,2025,67736139,,,realized,src_blankenberge_jr2025,strong,Fin debt LT YE2025 67.74m; tick998
+bud_bla_fin_debt_st_due_2025,city_blankenberge,2025,4918084,,,realized,src_blankenberge_jr2025,strong,Fin debt ST due YE2025 4.92m; tick998
+bud_bla_new_loans_2025,city_blankenberge,2025,1114940,,,realized,src_blankenberge_jr2025,strong,Nieuwe leningen 2025 1.11m; tick998
+bud_bla_aflossingen_2025,city_blankenberge,2025,5235916,,,realized,src_blankenberge_jr2025,strong,Periodieke aflossingen ST 2025 5.24m; tick998
+bud_bla_cash_2025,city_blankenberge,2025,5439514,,,realized,src_blankenberge_jr2025,strong,Liquide middelen YE2025 5.44m JUMP (was 4.76m); tick998
+bud_bla_pension_2025,city_blankenberge,2025,28734000,,,realized,src_blankenberge_jr2025,strong,Pensioenvoorzieningen LT YE2025 28.73m DROP (was 33.74m FOI); tick998
+bud_bla_cap_subs_2025,city_blankenberge,2025,13783487,,,realized,src_blankenberge_jr2025,strong,Kapitaalsubsidies YE2025 13.78m JUMP (was 10.06m); tick998
+bud_bla_fva_total_2025,city_blankenberge,2025,28127983,,,realized,src_blankenberge_jr2025,strong,FVA total YE2025 28.13m; tick998
+bud_bla_fva_igs_2025,city_blankenberge,2025,27549568,,,realized,src_blankenberge_jr2025,strong,FVA IGS YE2025 27.55m; tick998
+bud_bla_fva_eva_2025,city_blankenberge,2025,300000,,,realized,src_blankenberge_jr2025,strong,FVA EVA/AG YE2025 0.30m (was 0.15m); tick998
+bud_bla_leasing_mva_2025,city_blankenberge,2025,26426426,,,realized,src_blankenberge_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 26.43m HIGH; tick998
+bud_bla_expl_rec_2025,city_blankenberge,2025,78807911,,,realized,src_blankenberge_jr2025,strong,Exploitatieontvangsten 78.81m; tick998
+bud_bla_expl_exp_2025,city_blankenberge,2025,74110646,,,realized,src_blankenberge_jr2025,strong,Exploitatieuitgaven 74.11m; tick998
+bud_bla_expl_saldo_2025,city_blankenberge,2025,4697265,,,realized,src_blankenberge_jr2025,strong,Exploitatiesaldo +4.70m STRONG; tick998
+bud_bla_invest_exp_2025,city_blankenberge,2025,5239729,,,realized,src_blankenberge_jr2025,strong,Investeringsuitgaven 5.24m vs MJP 7.28m underspend FOI; tick998
+bud_bla_invest_rec_2025,city_blankenberge,2025,4651100,,,realized,src_blankenberge_jr2025,strong,Investeringsontvangsten 4.65m; tick998
+bud_bla_invest_saldo_2025,city_blankenberge,2025,-588629,,,realized,src_blankenberge_jr2025,strong,Investeringssaldo -0.589m; tick998
+bud_bla_mjp_invest_exp_2025,city_blankenberge,2025,7281313,,,realized,src_blankenberge_jr2025,strong,MJP invest uitgaven 7.28m; tick998
+bud_bla_afm_2025,city_blankenberge,2025,1014763,,,realized,src_blankenberge_jr2025,strong,AFM +1.01m (MJP 0.116m); tick998
+bud_bla_afm_corr_2025,city_blankenberge,2025,-42419,,,realized,src_blankenberge_jr2025,strong,Gecorrigeerde AFM -0.042m NEG FOI (MJP -0.950m); tick998
+bud_bla_bbr_2025,city_blankenberge,2025,13607577,,,realized,src_blankenberge_jr2025,strong,Beschikbaar BBR 13.61m HIGH; tick998
+bud_bla_bbr_cum_2025,city_blankenberge,2025,13794244,,,realized,src_blankenberge_jr2025,strong,Gecumuleerd budgettair resultaat 13.79m; tick998
+bud_bla_budget_result_2025,city_blankenberge,2025,810831,,,realized,src_blankenberge_jr2025,strong,Budgettair resultaat boekjaar +0.811m; tick998
+bud_bla_pnl_result_2025,city_blankenberge,2025,2355866,,,realized,src_blankenberge_jr2025,strong,P&L +2.36m STRONG (was -9.42m); tick998
+bud_bla_pnl_ge_2025,city_blankenberge,2025,7779293,,,realized,src_blankenberge_jr2025,strong,GE/Stad P&L +7.78m; tick998
+bud_bla_pnl_ocmw_2025,city_blankenberge,2025,-5423427,,,realized,src_blankenberge_jr2025,strong,OCMW P&L -5.42m FOI; tick998
+bud_bla_ocmw_cover_2025,city_blankenberge,2025,9630509,,,realized,src_blankenberge_jr2025,strong,OCMW cover 9.63m registered 2025 for 2024 AFM principle FOI residual 2025; tick998
+bud_bla_ocmw_cum_deficit_2025,city_blankenberge,2025,-19159052,,,realized,src_blankenberge_jr2025,strong,OCMW cum tekort YE2025 -19.16m IMPROVING (was -23.37m after cover); tick998
+bud_bla_personnel_2025,city_blankenberge,2025,42532198,,,realized,src_blankenberge_jr2025,strong,Bezoldigingen 42.53m JUMP +16pct (incl onderwijs other-gov 0.970m); tick998
+bud_bla_toelagen_2025,city_blankenberge,2025,12037158,,,realized,src_blankenberge_jr2025,strong,Toegestane werkingssubsidies 12.04m; tick998
+bud_bla_toelagen_police_2025,city_blankenberge,2025,8573562,,,realized,src_blankenberge_jr2025,strong,Toelage politiezone 8.57m; tick998
+bud_bla_toelagen_fire_2025,city_blankenberge,2025,851794,,,realized,src_blankenberge_jr2025,strong,Toelage hulpverleningszone 0.852m; tick998
+bud_bla_toelagen_igs_2025,city_blankenberge,2025,805398,,,realized,src_blankenberge_jr2025,strong,Toelage IGS 0.805m; tick998
+bud_bla_toelagen_eredienst_2025,city_blankenberge,2025,73628,,,realized,src_blankenberge_jr2025,strong,Toelage eredienst 0.074m; tick998
+bud_bla_toelagen_other_2025,city_blankenberge,2025,1732776,,,realized,src_blankenberge_jr2025,strong,Toelage andere begunstigden 1.73m FOI; tick998
+bud_bla_ocmw_aid_2025,city_blankenberge,2025,3693418,,,realized,src_blankenberge_jr2025,strong,OCMW individuele hulp 3.69m; tick998
+bud_bla_fiscal_2025,city_blankenberge,2025,37633097,,,realized,src_blankenberge_jr2025,strong,Fiscale opbrengsten 37.63m; tick998
+bud_bla_fiscal_ov_2025,city_blankenberge,2025,18155602,,,realized,src_blankenberge_jr2025,strong,Opcentiemen OV 18.16m; tick998
+bud_bla_fiscal_pb_2025,city_blankenberge,2025,5506843,,,realized,src_blankenberge_jr2025,strong,Aanvullende PB 5.51m; tick998
+bud_bla_gemeentefonds_2025,city_blankenberge,2025,8659019,,,realized,src_blankenberge_jr2025,strong,Gemeentefonds 8.66m; tick998
+bud_bla_fin_opbr_2025,city_blankenberge,2025,1320491,,,realized,src_blankenberge_jr2025,strong,Financiele opbrengsten J5 1.32m; tick998
+bud_bla_fin_costs_2025,city_blankenberge,2025,1696802,,,realized,src_blankenberge_jr2025,strong,Financiele kosten 1.70m; tick998
+bud_bla_cum_equity_deficit_2025,city_blankenberge,2025,-12345382,,,realized,src_blankenberge_jr2025,strong,Consol cum overschot/tekort YE2025 -12.35m IMPROVING (was -14.70m); tick998
+bud_bla_invest_subs_granted_2025,city_blankenberge,2025,166470,,,realized,src_blankenberge_jr2025,strong,Toegestane investeringssubsidies 0.166m; tick998
