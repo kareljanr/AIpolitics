@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T13:45:00Z,rq_930,930,no,tick930 progress@930 after VL residual 921-929; FOI ready ~624; pure top10 stable; next residual dual L5 rq_931; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T14:15:00Z,rq_931,931,no,tick931 Mercator Parkeer Kapellen JR2025 dual AGB Kapellen; FOI gap_mrc_mjp_lease_dual_l5 prio7 MJP lease 2.91m planned AFM +0.019m dual vs AGB debt 17.5m AFM neg; next residual dual L5 rq_932; rq_116 deferred

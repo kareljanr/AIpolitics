@@ -11724,3 +11724,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@930; doge_waste_top10_current.md as-of 930; rq_930=done; spawn **rq_931** hole_fill; ticks=930
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_931** residual dual L5; deferred **rq_116**; progress@940 in 10
+
+### Tick 931 - 2026-08-07T14:15:00Z
+
+- Unit: **rq_931** (FOI-adjacent residual dual Entity II - **Mercator Parkeerbedrijf Kapellen JR2025** + AGB Kapellen dual)
+- Found (strong primary BBC JR2025 90p Parkeerbedrijf KBO 0784.526.003):
+  - Assets **EUR0.110m** / equity **EUR0.030m** / debt total **EUR0.080m** / fin debt **EUR0.040m** (LT **EUR0.037m** / ST due **EUR0.003m**)
+  - Cash **EUR0.012m was EUR0.045m DROP** / no new loans 2025
+  - Exploitatie: ontvangsten **EUR0.067m** / uitgaven **EUR0.045m** / saldo **+EUR0.022m**
+  - AFM **+EUR0.019m** / BBR **EUR0.030m** / budget **+EUR0.019m** / P&L **+EUR0.024m** / **payout EUR0.005m FOI**
+  - **MJP planned invest/lease EUR2.911m FOI** (leasing **EUR2.885m**) **not realized**
+- Dual: AGB Kapellen **EUR20.1m** / fin debt **EUR17.5m** / **AFM -EUR0.18m** / prijssubsidie **EUR0.70m** / payout **EUR0.30m** (tick929) - Entity II dual map
+- Wrote: budgets +27 (bud_mrc_*); commitments +4; leaderboard +7; sources +2; entity apb_mercator_kapellen; FOI **gap_mrc_mjp_lease_dual_l5** prio7 ready + draft; raw PDF + key; rq_931=done; spawn **rq_932**; ticks=931
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_932** residual dual L5 (Kruisem / Haacht / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 9

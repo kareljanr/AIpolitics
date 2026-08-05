@@ -20826,3 +20826,30 @@ bud_kag_fin_costs_2025,agb_kapellen,2025,20608,,,jaarrekening_realized,src_kapel
 bud_kag_goederen_2025,agb_kapellen,2025,957773,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Goederen en diensten 0.958m; tick929
 bud_kag_mjp_fin_debt_2026,agb_kapellen,2025,17003718,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,MJP projected fin debt YE2026 17.004m; tick929
 bud_kag_gemeente_loan_stock_nbb_2025,agb_kapellen,2025,3149346,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,AGB toegestane leningen van de gemeente stock ~3.149m (renteloos residual FOI); tick929
+bud_mrc_assets_2025,apb_mercator_kapellen,2025,110491,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Parkeerbedrijf total assets YE2025 0.110m; tick931
+bud_mrc_equity_2025,apb_mercator_kapellen,2025,30374,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Nettoactief YE2025 0.030m; tick931
+bud_mrc_debt_total_2025,apb_mercator_kapellen,2025,80117,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Total schulden YE2025 0.080m; tick931
+bud_mrc_fin_debt_2025,apb_mercator_kapellen,2025,40382,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,T4 total financiele schulden YE2025 0.040m (LT 0.037 + ST due 0.003); tick931
+bud_mrc_fin_debt_lt_2025,apb_mercator_kapellen,2025,37157,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Financiele schulden LT YE2025 0.037m; tick931
+bud_mrc_fin_debt_st_due_2025,apb_mercator_kapellen,2025,3225,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.003m; tick931
+bud_mrc_fin_debt_2024,apb_mercator_kapellen,2025,43608,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,T4 fin debt YE2024 0.044m comparator; tick931
+bud_mrc_cash_2025,apb_mercator_kapellen,2025,12214,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Liquide middelen YE2025 0.012m (was 0.045m DROP); tick931
+bud_mrc_cash_2024,apb_mercator_kapellen,2025,45127,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Liquide middelen YE2024 0.045m; tick931
+bud_mrc_mva_2025,apb_mercator_kapellen,2025,40383,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Materiele vaste activa YE2025 0.040m; tick931
+bud_mrc_expl_rec_2025,apb_mercator_kapellen,2025,67485,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Exploitatieontvangsten 0.067m (parking receipts); tick931
+bud_mrc_expl_exp_2025,apb_mercator_kapellen,2025,45421,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Exploitatieuitgaven 0.045m; tick931
+bud_mrc_expl_saldo_2025,apb_mercator_kapellen,2025,22064,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Exploitatiesaldo +0.022m; tick931
+bud_mrc_invest_exp_2025,apb_mercator_kapellen,2025,0,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Investeringsuitgaven 0 (MJP planned 2.911m not realized FOI); tick931
+bud_mrc_fin_exp_2025,apb_mercator_kapellen,2025,3225,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Financieringsuitgaven / periodieke aflossingen 0.003m; tick931
+bud_mrc_new_loans_2025,apb_mercator_kapellen,2025,0,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,No new loans 2025 (MJP planned 2.911m other-entity lease FOI); tick931
+bud_mrc_aflossingen_2025,apb_mercator_kapellen,2025,3225,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Periodieke aflossingen 0.003m; tick931
+bud_mrc_profit_payout_2025,apb_mercator_kapellen,2025,4710,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Uitgekeerde winst aan rechthebbenden 0.005m FOI; tick931
+bud_mrc_afm_2025,apb_mercator_kapellen,2025,18838,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,AFM +0.019m; tick931
+bud_mrc_afm_corr_2025,apb_mercator_kapellen,2025,18575,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Gecorrigeerde AFM +0.019m; tick931
+bud_mrc_bbr_2025,apb_mercator_kapellen,2025,30374,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Beschikbaar budgettair resultaat 0.030m; tick931
+bud_mrc_budget_result_2025,apb_mercator_kapellen,2025,18838,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Budgettair resultaat boekjaar +0.019m; tick931
+bud_mrc_cum_br_2025,apb_mercator_kapellen,2025,30374,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Gecumuleerd budgettair resultaat 0.030m; tick931
+bud_mrc_pnl_result_2025,apb_mercator_kapellen,2025,23548,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,P&L boekjaar +0.024m; tick931
+bud_mrc_goederen_2025,apb_mercator_kapellen,2025,32420,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,Goederen en diensten 0.032m; tick931
+bud_mrc_mjp_invest_lease_2025,apb_mercator_kapellen,2025,2911118,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,MJP planned invest/lease 2.911m 2025 (not realized; FOI parking garage path); tick931
+bud_mrc_mjp_lease_component_2025,apb_mercator_kapellen,2025,2884888,,,jaarrekening_realized,src_kapellen_mercator_jr2025,strong,MJP planned leasing component 2.885m FOI; tick931

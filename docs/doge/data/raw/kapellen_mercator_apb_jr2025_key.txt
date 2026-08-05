@@ -1,0 +1,37 @@
+MERCATOR / PARKEERBEDRIJF KAPELLEN JR2025 — tick931 Entity II dual AGB Kapellen
+Primary: https://www.kapellen.be/file/download/45292/7C4F653B122810A3A8F077DB04A21194
+Portal: https://www.kapellen.be/jaarrekening-2025-mercator-apb-kapellen
+Local: docs/doge/data/raw/kapellen_mercator_apb_jr2025.pdf (90p BBC)
+KBO 0784.526.003 | Bruggeske 1 2950 Kapellen
+Directeur AGB&Mercator: Paula Verhoeven | FD Patsy Lanslots
+Label in PDF: AGB KAPELLEN PARKEERBEDRIJF / Parkeerbedrijf
+
+KENGETALLEN:
+Cash 12214 | fin debt 40383 | expl exp 45421 / rec 67485
+Budget +18838 | cum BR 30374 | AFM +18838
+P&L 23548 | payout 4710 | periodieke 3225
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 110491 (135723)
+Equity 30374 (11535)
+Schulden 80117 (124188)
+Fin debt T4 40382 (43608) = LT 37157 + ST due 3225
+Cash 12214 (45127 DROP)
+MVA 40383
+
+J2:
+Expl 67485 / 45421 / +22064
+Invest 0 / 0 / 0
+Fin 0 / 3225 / -3225
+Budget +18838
+AFM +18838 / gecorr +18575
+BBR 30374
+
+J5:
+Goederen 32420 | afschrijvingen 3225 | other op 8292
+P&L +23548 | payout 4710 | over te dragen 18838
+
+MJP FOI:
+Planned invest 2911118 of which leasing 2884888 NOT realized 2025
+
+Dual: AGB Kapellen tick929 assets 20.1m fin debt 17.5m AFM -0.18m
