@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1100** (2026-08-11)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1091-1099: Hamont-Achel **EUR126.0m** / Hechtel-Eksel **EUR71.8m** / Bree **EUR168.5m** / Pelt **EUR305.3m** / Lummen **EUR147.3m** / Tessenderlo-Ham **EUR312.8m** (first fusion) / Alken **EUR61.6m** / Dilsen-Stokkem **EUR191.0m** / **Peer EUR146.2m** · prior 1081-1090 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1091-1099 is VL residual dual L5 (not near-complete of 348bn):** personnel Bree **EUR14.01m** / Pelt path / Tessenderlo-Ham **EUR31.92m** · FOI-adjacent: **Fluvius-class FVA/herwaard JUMP cluster** (Hamont-Achel herwaard **EUR17.1m** / Bree **EUR23.5m** / Pelt **EUR36.4m** / Lummen **EUR25.8m** / Tessenderlo-Ham **EUR42.1m** / Alken **EUR12.8m** / Dilsen **EUR25.1m**) vs **Peer FVA STABLE** (no reval) · **Pelt fin debt JUMP EUR38.0m** / cash loan-driven **EUR18.8m** / OCMW equity **-EUR23.5m ZERO cover** · **Dilsen OCMW equity -EUR21.0m ZERO cover** · **Tessenderlo-Ham cash EUR43.8m MASSIVE + pension EUR16.8m** · **Peer VitaS EUR1.48m JUMP + borg ~EUR42.9m contingent** · invest underspend extremes (Hamont-Achel 5.0 vs MJP 26.8 / Peer 6.4 vs 20.0) · ZERO-cover cluster expands (Pelt / Lummen / Dilsen) vs FULL (Hamont-Achel / Hechtel-Eksel / Bree **EUR3.3m** / Alken **EUR2.05m**) |
+| **E. FOI-ready gaps** | **~747** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~789** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Tessenderlo-Ham EUR313m** / **Pelt EUR305m** / Dilsen **EUR191m** / Bree **EUR168m** / Peer **EUR146m** / prior dual stack retained not full TE) · **AGB dual AFM near-zero/NEG** · **LUWA PPP EUR590m** · **VitaS/Peer contingent borg ~EUR43m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1100)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~28742 |
+| commitments.csv | ~3583 |
+| leaderboard.csv | ~5536 |
+| entities.csv | ~817 |
+| sources.csv | ~2010 |
+| FOI ready | ~747 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~789 |
+| research_queue open | rq_116 deferred + rq_1101 hole-fill after progress |
+
+### What improved since tick 1090
+
+- **VL residual dual JR2025 (tick1091-1099):** Hamont-Achel / Hechtel-Eksel / Bree / Pelt / Lummen / **Tessenderlo-Ham first fusion EUR312.8m** / Alken / Dilsen-Stokkem / **Peer EUR146.2m**.
+- **Dual map:** **Fluvius FVA/herwaard JUMP wave** across most Limburg duals (Pelt/Lummen/Dilsen/Bree/Alken/Tessenderlo-Ham/Hamont-Achel) vs **Peer stable FVA** · **Pelt + Dilsen deep OCMW equity holes with ZERO cover** (−23.5m / −21.0m) vs FULL cover (Bree **EUR3.3m** / Alken **EUR2.05m** / Hamont / Hechtel) · **Tessenderlo-Ham** fusion cash/pension/FVA extremes · **Peer VitaS loss cover JUMP + multi-bn-class contingent borg** · invest underspend still systemic · Pelt fin-debt JUMP outlier.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1090** (2026-08-11)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
