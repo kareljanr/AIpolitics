@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T04:45:00Z,rq_912,912,no,tick912 Zemst JR2025 dual Asse; FOI gap_zemst_loans_agb_erfpacht_l5 prio8 new loans 8.7m AGB erfpacht 6.08m fin debt 30.0m; next residual dual L5 rq_913; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T05:15:00Z,rq_913,913,no,tick913 Ninove JR2025 dual Zemst; FOI gap_nin_loans_ocmw_cash_l5 prio8 new loans 5.59m OCMW 7.53m budget -5.6m cash drop; next residual dual L5 rq_914; rq_116 deferred

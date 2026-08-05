@@ -20118,3 +20118,44 @@ bud_zemst_pl_2025,city_zemst,2025,2430293,,,jaarrekening_realized,src_zemst_jr20
 bud_zemst_mjp_fin_debt_2026,city_zemst,2025,35330735,,,jaarrekening_realized,src_zemst_jr2025,strong,MJP projected fin debt YE2026 35.331m; tick912
 bud_zemst_mjp_new_loans_2026,city_zemst,2025,8315001,,,jaarrekening_realized,src_zemst_jr2025,strong,MJP new loans 2026 8.315m FOI; tick912
 bud_zemst_old_subsidy_receivables_2025,city_zemst,2025,3021642,,,jaarrekening_realized,src_zemst_jr2025,strong,Open projectsubsidies pre-2013 3.022m FOI; tick912
+bud_nin_assets_2025,city_ninove,2025,202514676,,,jaarrekening_realized,src_ninove_jr2025,strong,Consol total assets YE2025 202.515m; tick913
+bud_nin_equity_2025,city_ninove,2025,114364736,,,jaarrekening_realized,src_ninove_jr2025,strong,Nettoactief YE2025 114.365m; tick913
+bud_nin_debt_total_2025,city_ninove,2025,88149940,,,jaarrekening_realized,src_ninove_jr2025,strong,Total schulden YE2025 88.150m; tick913
+bud_nin_fin_debt_2025,city_ninove,2025,45167931,,,jaarrekening_realized,src_ninove_jr2025,strong,Fin debt total YE2025 45.168m (was 42.654m); tick913
+bud_nin_fin_debt_lt_2025,city_ninove,2025,42028985,,,jaarrekening_realized,src_ninove_jr2025,strong,Fin debt LT YE2025 42.029m; tick913
+bud_nin_fin_debt_st_due_2025,city_ninove,2025,3138946,,,jaarrekening_realized,src_ninove_jr2025,strong,Fin debt ST due YE2025 3.139m; tick913
+bud_nin_new_loans_2025,city_ninove,2025,5591799,,,jaarrekening_realized,src_ninove_jr2025,strong,New loans 2025 5.592m FOI; tick913
+bud_nin_repayments_2025,city_ninove,2025,3077592,,,jaarrekening_realized,src_ninove_jr2025,strong,Periodieke aflossingen 2025 3.078m; tick913
+bud_nin_cash_2025,city_ninove,2025,11994290,,,jaarrekening_realized,src_ninove_jr2025,strong,Liquide middelen YE2025 11.994m (was 17.330m DROP FOI); tick913
+bud_nin_pension_2025,city_ninove,2025,27821150,,,jaarrekening_realized,src_ninove_jr2025,strong,Pension provisions YE2025 27.821m FOI; tick913
+bud_nin_fva_igs_2025,city_ninove,2025,41193204,,,jaarrekening_realized,src_ninove_jr2025,strong,FVA IGS YE2025 41.193m; tick913
+bud_nin_expl_receipts_2025,city_ninove,2025,89392798,,,jaarrekening_realized,src_ninove_jr2025,strong,Exploitatie ontvangsten 2025 89.393m; tick913
+bud_nin_expl_expenses_2025,city_ninove,2025,84459634,,,jaarrekening_realized,src_ninove_jr2025,strong,Exploitatie uitgaven 2025 84.460m; tick913
+bud_nin_expl_saldo_2025,city_ninove,2025,4933164,,,jaarrekening_realized,src_ninove_jr2025,strong,Exploitatiesaldo 2025 +4.933m; tick913
+bud_nin_invest_exp_2025,city_ninove,2025,14007045,,,jaarrekening_realized,src_ninove_jr2025,strong,Invest uitgaven 2025 14.007m (incl invest-subs); tick913
+bud_nin_invest_rec_2025,city_ninove,2025,898703,,,jaarrekening_realized,src_ninove_jr2025,strong,Invest ontvangsten 2025 0.899m; tick913
+bud_nin_invest_saldo_2025,city_ninove,2025,-13108343,,,jaarrekening_realized,src_ninove_jr2025,strong,Invest saldo 2025 -13.108m; tick913
+bud_nin_invest_capex_2025,city_ninove,2025,13342029,,,jaarrekening_realized,src_ninove_jr2025,strong,Capex investeringen 2025 13.342m; tick913
+bud_nin_fin_receipts_2025,city_ninove,2025,5647713,,,jaarrekening_realized,src_ninove_jr2025,strong,Financiering ontvangsten 2025 5.648m; tick913
+bud_nin_fin_expenses_2025,city_ninove,2025,3077592,,,jaarrekening_realized,src_ninove_jr2025,strong,Financiering uitgaven 2025 3.078m; tick913
+bud_nin_budget_result_2025,city_ninove,2025,-5605058,,,jaarrekening_realized,src_ninove_jr2025,strong,Budgettair resultaat 2025 -5.605m FOI; tick913
+bud_nin_bbr_2025,city_ninove,2025,11500923,,,jaarrekening_realized,src_ninove_jr2025,strong,Beschikbaar budgettair resultaat YE2025 11.501m; tick913
+bud_nin_afm_2025,city_ninove,2025,1976977,,,jaarrekening_realized,src_ninove_jr2025,strong,AFM 2025 +1.977m; tick913
+bud_nin_afm_gecorr_2025,city_ninove,2025,1642271,,,jaarrekening_realized,src_ninove_jr2025,strong,Gecorrigeerde AFM 2025 +1.642m; tick913
+bud_nin_personnel_2025,city_ninove,2025,49845823,,,jaarrekening_realized,src_ninove_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 49.846m; tick913
+bud_nin_toelagen_2025,city_ninove,2025,9666303,,,jaarrekening_realized,src_ninove_jr2025,strong,Toegestane werkingssubsidies 2025 9.666m; tick913
+bud_nin_toelagen_police_2025,city_ninove,2025,6230000,,,jaarrekening_realized,src_ninove_jr2025,strong,Toelage politiezone 2025 6.230m; tick913
+bud_nin_toelagen_hvz_2025,city_ninove,2025,1774291,,,jaarrekening_realized,src_ninove_jr2025,strong,Toelage hulpverleningszone 2025 1.774m; tick913
+bud_nin_toelagen_agb_2025,city_ninove,2025,152086,,,jaarrekening_realized,src_ninove_jr2025,strong,Toelage AGB 2025 0.152m; tick913
+bud_nin_toelagen_eredienst_2025,city_ninove,2025,136390,,,jaarrekening_realized,src_ninove_jr2025,strong,Toelage eredienst 2025 0.136m; tick913
+bud_nin_toelagen_other_2025,city_ninove,2025,1373536,,,jaarrekening_realized,src_ninove_jr2025,strong,Toelage andere begunstigden 2025 1.374m FOI; tick913
+bud_nin_fiscal_2025,city_ninove,2025,33648069,,,jaarrekening_realized,src_ninove_jr2025,strong,Fiscale ontvangsten en boetes 2025 33.648m; tick913
+bud_nin_gemeentefonds_2025,city_ninove,2025,12719695,,,jaarrekening_realized,src_ninove_jr2025,strong,Gemeentefonds 2025 12.720m; tick913
+bud_nin_invest_subs_2025,city_ninove,2025,665016,,,jaarrekening_realized,src_ninove_jr2025,strong,Toegestane investeringssubsidies 2025 0.665m; tick913
+bud_nin_ocmw_cover_2025,city_ninove,2025,7531229,,,jaarrekening_realized,src_ninove_jr2025,strong,Gemeente tussenkomst OCMW 2025 7.531m FOI; tick913
+bud_nin_pl_2025,city_ninove,2025,-969055,,,jaarrekening_realized,src_ninove_jr2025,strong,P&L boekjaar 2025 -0.969m; tick913
+bud_nin_interest_2025,city_ninove,2025,1710472,,,jaarrekening_realized,src_ninove_jr2025,strong,Intresten op leningen 2025 1.710m; tick913
+bud_nin_ocmw_expl_deficit_2025,city_ninove,2025,6598131,,,jaarrekening_realized,src_ninove_jr2025,strong,OCMW expl saldo 2025 -6.598m (city +11.531m); tick913
+bud_nin_mjp_fin_debt_2026,city_ninove,2025,43910895,,,jaarrekening_realized,src_ninove_jr2025,strong,MJP projected fin debt YE2026 43.911m; tick913
+bud_nin_mjp_new_loans_2026,city_ninove,2025,1624990,,,jaarrekening_realized,src_ninove_jr2025,strong,MJP new loans 2026 1.625m; tick913
+bud_nin_new_loans_2024_prior,city_ninove,2025,8089696,,,jaarrekening_realized,src_ninove_jr2025,strong,Prior-year new loans 2024 8.090m (debt ramp context); tick913

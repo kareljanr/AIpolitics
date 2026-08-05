@@ -11416,3 +11416,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45 (bud_zemst_*); commitments +4; leaderboard +7; sources +2; entity city_zemst; FOI **gap_zemst_loans_agb_erfpacht_l5** prio8 ready + draft; raw PDF + key; rq_912=done; spawn **rq_913**; ticks=912
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_913** residual dual L5 (Roeselare/Ninove/Kapellen/Opwijk); deferred **rq_116**; progress@920 in 8
+
+### Tick 913 - 2026-08-07T05:15:00Z
+
+- Unit: **rq_913** (FOI-adjacent residual dual - **Stad+OCMW Ninove Jaarrekening 2025** + Zemst dual)
+- Found (strong primary BBC JR2025 173p):
+  - Assets **EUR202.5m** / equity **EUR114.4m** / debt total **EUR88.1m** / fin debt **EUR45.2m** (was **EUR42.7m**; LT **EUR42.0m** / ST due **EUR3.14m**)
+  - **New loans EUR5.59m FOI** (after **EUR8.09m** 2024) / repayments **EUR3.08m**
+  - **Cash EUR12.0m was EUR17.3m DROP FOI** / pension **EUR27.8m FOI**
+  - Exploitatie: ontvangsten **EUR89.4m** / uitgaven **EUR84.5m** / saldo **+EUR4.93m**
+  - AFM **+EUR1.98m** (gecorr **+EUR1.64m**) / BBR **EUR11.5m** / budget result **-EUR5.61m FOI** / P&L **-EUR0.97m**
+  - Personnel **EUR49.8m** / toelagen **EUR9.67m** (police **EUR6.23m** / HVZ **EUR1.77m** / other **EUR1.37m FOI**) / fiscal **EUR33.6m**
+  - Invest **EUR14.0m** (capex **EUR13.3m**) / invest-subs **EUR0.67m** / gemeentefonds **EUR12.7m**
+  - **OCMW cover EUR7.53m FOI** (OCMW expl **-EUR6.60m** / city **+EUR11.5m**)
+  - MJP fin debt YE2026 **EUR43.9m**; new loans **EUR1.62m**
+- Dual: Zemst **EUR173.8m** / new loans **EUR8.70m** / AGB erfpacht **EUR6.08m** (tick912) - not TE-additive
+- Wrote: budgets +41 (bud_nin_*); commitments +4; leaderboard +7; sources +2; entity city_ninove; FOI **gap_nin_loans_ocmw_cash_l5** prio8 ready + draft; raw PDF + key; rq_913=done; spawn **rq_914**; ticks=913
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_914** residual dual L5 (Opwijk PDF cached / Kapellen / Roeselare); deferred **rq_116**; progress@920 in 7
