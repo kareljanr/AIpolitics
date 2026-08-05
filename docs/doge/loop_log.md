@@ -13371,3 +13371,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1021** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Moerbeke / other); deferred **rq_116**; progress@1030 in 9
 
+
+### Tick 1021 - 2026-08-09T23:45:00Z
+
+- Unit: **rq_1021** (FOI-adjacent residual dual - **Gemeente+OCMW Mol Jaarrekening 2025** + Willebroek dual residual)
+- Found (strong primary BBC JR2025 143p; KBO 0207.503.388 / OCMW 0212.199.673; AD Laurens Moubax; FD Karen Berghmans; Molenhoekstraat 2; NIS 13025; GR/RMW 22 jun 2026):
+  - Assets **EUR231.15m** / equity **EUR134.48m DROP** / debt total **EUR96.67m** / fin debt **EUR58.38m** (**JUMP** from **EUR55.88m**; LT **EUR52.76m RISING** / ST due **EUR5.35m** / ST **EUR0.271m**)
+  - New loans **EUR7.86m JUMP HIGH FOI** (incl ~EUR7m LT credit path BBR boost) / repayments **EUR4.97m**
+  - Cash **EUR8.42m DROP** (was **EUR17.77m FOI**) / pension **EUR7.07m DECLINING** / leasing MVA **EUR2.85m**
+  - FVA IGS **EUR24.50m** / cap subs **EUR26.87m**
+  - Exploitatie: ontvangsten **EUR109.13m** / uitgaven **EUR101.37m** / saldo **+EUR7.76m STRONG** (incl education pass-through JUMP)
+  - AFM **+EUR3.57m STRONG** (gecorr **+EUR4.08m**) / BBR **EUR4.32m** (loan-boosted FOI) / budget **-EUR4.10m NEG FOI** / cum BR **EUR5.59m** / P&L **-EUR0.507m**
+  - Personnel **EUR63.00m** (edu pass-through **EUR16.61m JUMP FOI** quasi-null) / toelagen **EUR12.34m FOI** (police **EUR6.70m** / fire **EUR1.21m** / IGS **EUR0.544m DROP** / other **EUR3.66m**)
+  - Invest **EUR15.47m** vs MJP **EUR18.87m UNDERSPEND FOI** / invest-subs **EUR1.05m** / **OCMW cover EUR8.65m FULL FOI** / OCMW expl gap **-EUR7.91m** / equity cum **-EUR30.41m WORSENING** (GE **-EUR33.39m**)
+- Dual: Willebroek **EUR191.33m** / fin debt **EUR62.08m JUMP ST EUR18.14m** / budget **-EUR13.40m** (tick1020) - not TE-additive
+- Note: Torhout still news-only (AFM 3.1m debt 27.2m headline only); Stekene 404 prior; Balen OCR-blocked; Oosterzele / Moerbeke residual; Wijnegem JR2025 PDF downloaded reserved next optional
+- Wrote: budgets +54 (bud_mol_*); commitments +6; leaderboard +8; sources +1; entity city_mol; FOI **gap_mol_budget_debt_ocmw_toelagen_l5** prio9 ready + draft; key only (PDF ~3.8MB not stored in git); rq_1021=done; spawn **rq_1022**; ticks=1021
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1022** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Wijnegem / other); deferred **rq_116**; progress@1030 in 8
+

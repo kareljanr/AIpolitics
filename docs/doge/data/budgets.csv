@@ -24729,3 +24729,57 @@ bud_wil_agb_afm_2025,city_willebroek,2025,-26463,,,bbc_jr_realized,src_willebroe
 bud_wil_agb_afm_corr_2025,city_willebroek,2025,-477341,,,bbc_jr_realized,src_willebroek_jr2025,strong,AGB gecorr AFM -0.477m NEG dual FOI; tick1020
 bud_wil_vorderingen_lt_2025,city_willebroek,2025,26709142,,,bbc_jr_realized,src_willebroek_jr2025,strong,Vorderingen LT YE2025 26.71m JUMP (was 18.23m FOI path toegelaten leningen); tick1020
 bud_wil_desinvest_2025,city_willebroek,2025,1485683,,,bbc_jr_realized,src_willebroek_jr2025,strong,Desinvesteringen 1.49m; tick1020
+bud_mol_assets_2025,city_mol,2025,231147997,,,bbc_jr_realized,src_mol_jr2025,strong,Assets YE2025 231.15m (was 233.07m); tick1021
+bud_mol_equity_2025,city_mol,2025,134482791,,,bbc_jr_realized,src_mol_jr2025,strong,Nettoactief YE2025 134.48m (was 135.59m DROP); tick1021
+bud_mol_debt_total_2025,city_mol,2025,96665206,,,bbc_jr_realized,src_mol_jr2025,strong,Total schulden YE2025 96.67m; tick1021
+bud_mol_fin_debt_2025,city_mol,2025,58380123,,,bbc_jr_realized,src_mol_jr2025,strong,Fin debt total YE2025 58.38m JUMP (was 55.88m T4); tick1021
+bud_mol_fin_debt_lt_2025,city_mol,2025,52760080,,,bbc_jr_realized,src_mol_jr2025,strong,Fin debt LT YE2025 52.76m RISING (was 51.04m); tick1021
+bud_mol_fin_debt_st_due_2025,city_mol,2025,5348636,,,bbc_jr_realized,src_mol_jr2025,strong,Fin debt ST due YE2025 5.35m (T4 B); tick1021
+bud_mol_fin_debt_st_2025,city_mol,2025,271407,,,bbc_jr_realized,src_mol_jr2025,strong,Fin debt ST YE2025 0.271m; tick1021
+bud_mol_new_loans_2025,city_mol,2025,7855498,,,bbc_jr_realized,src_mol_jr2025,strong,Nieuwe leningen 2025 7.86m JUMP HIGH FOI (incl 7m LT credit path); tick1021
+bud_mol_aflossingen_2025,city_mol,2025,4973628,,,bbc_jr_realized,src_mol_jr2025,strong,Periodieke aflossingen T4 4.97m; tick1021
+bud_mol_cash_2025,city_mol,2025,8417123,,,bbc_jr_realized,src_mol_jr2025,strong,Liquide middelen YE2025 8.42m DROP (was 17.77m FOI); tick1021
+bud_mol_pension_2025,city_mol,2025,7073785,,,bbc_jr_realized,src_mol_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.07m DECLINING (was 7.37m); tick1021
+bud_mol_cap_subs_2025,city_mol,2025,26873335,,,bbc_jr_realized,src_mol_jr2025,strong,Kapitaalsubsidies YE2025 26.87m; tick1021
+bud_mol_fva_total_2025,city_mol,2025,26080726,,,bbc_jr_realized,src_mol_jr2025,strong,FVA total YE2025 26.08m; tick1021
+bud_mol_fva_igs_2025,city_mol,2025,24496771,,,bbc_jr_realized,src_mol_jr2025,strong,FVA IGS YE2025 24.50m; tick1021
+bud_mol_leasing_mva_2025,city_mol,2025,2853540,,,bbc_jr_realized,src_mol_jr2025,strong,Leasing MVA YE2025 2.85m; tick1021
+bud_mol_expl_rec_2025,city_mol,2025,109132018,,,bbc_jr_realized,src_mol_jr2025,strong,Exploitatieontvangsten 109.13m (incl education pass-through JUMP); tick1021
+bud_mol_expl_exp_2025,city_mol,2025,101368508,,,bbc_jr_realized,src_mol_jr2025,strong,Exploitatieuitgaven 101.37m (incl education pass-through JUMP); tick1021
+bud_mol_expl_saldo_2025,city_mol,2025,7763510,,,bbc_jr_realized,src_mol_jr2025,strong,Exploitatiesaldo +7.76m STRONG; tick1021
+bud_mol_invest_exp_2025,city_mol,2025,15469202,,,bbc_jr_realized,src_mol_jr2025,strong,Investeringsuitgaven 15.47m vs MJP 18.87m UNDERSPEND FOI; tick1021
+bud_mol_invest_rec_2025,city_mol,2025,1741395,,,bbc_jr_realized,src_mol_jr2025,strong,Investeringsontvangsten 1.74m; tick1021
+bud_mol_invest_saldo_2025,city_mol,2025,-13727807,,,bbc_jr_realized,src_mol_jr2025,strong,Investeringssaldo -13.73m; tick1021
+bud_mol_mjp_invest_planned_2025,city_mol,2025,18871443,,,bbc_jr_realized,src_mol_jr2025,strong,MJP invest planned 18.87m vs realized 15.47m underspend FOI; tick1021
+bud_mol_afm_2025,city_mol,2025,3573738,,,bbc_jr_realized,src_mol_jr2025,strong,AFM +3.57m STRONG; tick1021
+bud_mol_afm_corr_2025,city_mol,2025,4076578,,,bbc_jr_realized,src_mol_jr2025,strong,Gecorrigeerde AFM +4.08m STRONG; tick1021
+bud_mol_bbr_2025,city_mol,2025,4316906,,,bbc_jr_realized,src_mol_jr2025,strong,BBR beschikbaar 4.32m (loan-boosted FOI); tick1021
+bud_mol_budget_result_2025,city_mol,2025,-4102128,,,bbc_jr_realized,src_mol_jr2025,strong,Budgettair resultaat -4.10m NEG FOI; tick1021
+bud_mol_cum_br_2025,city_mol,2025,5592997,,,bbc_jr_realized,src_mol_jr2025,strong,Gecumuleerd budgettair resultaat 5.59m; tick1021
+bud_mol_onbeschikbaar_2025,city_mol,2025,1276091,,,bbc_jr_realized,src_mol_jr2025,strong,Onbeschikbare gelden 1.28m; tick1021
+bud_mol_pnl_2025,city_mol,2025,-507220,,,bbc_jr_realized,src_mol_jr2025,strong,P&L -0.507m (was -1.30m IMPROVING); tick1021
+bud_mol_ge_expl_exp_2025,city_mol,2025,74014627,,,bbc_jr_realized,src_mol_jr2025,strong,GE exploitatieuitgaven J3 74.01m; tick1021
+bud_mol_ge_expl_rec_2025,city_mol,2025,89690615,,,bbc_jr_realized,src_mol_jr2025,strong,GE exploitatieontvangsten J3 89.69m; tick1021
+bud_mol_ocmw_expl_exp_2025,city_mol,2025,27353880,,,bbc_jr_realized,src_mol_jr2025,strong,OCMW exploitatieuitgaven J3 27.35m FOI; tick1021
+bud_mol_ocmw_expl_rec_2025,city_mol,2025,19441403,,,bbc_jr_realized,src_mol_jr2025,strong,OCMW exploitatieontvangsten J3 19.44m; tick1021
+bud_mol_ocmw_expl_gap_2025,city_mol,2025,-7912477,,,bbc_jr_realized,src_mol_jr2025,strong,OCMW expl gap J3 -7.91m FOI residual; tick1021
+bud_mol_ocmw_cover_2025,city_mol,2025,8648000,,,bbc_jr_realized,src_mol_jr2025,strong,OCMW cover tussenkomst 8.65m FULL FOI; tick1021
+bud_mol_equity_cum_deficit_2025,city_mol,2025,-30408101,,,bbc_jr_realized,src_mol_jr2025,strong,Gecumuleerd equity tekort YE2025 -30.41m WORSENING (was -29.90m FOI); tick1021
+bud_mol_ge_equity_cum_2025,city_mol,2025,-33393122,,,bbc_jr_realized,src_mol_jr2025,strong,GE equity cum -33.39m FOI; tick1021
+bud_mol_personnel_2025,city_mol,2025,63003158,,,bbc_jr_realized,src_mol_jr2025,strong,Bezoldigingen 63.00m incl education pass-through 16.61m JUMP FOI; tick1021
+bud_mol_personnel_excl_edu_2025,city_mol,2025,46390528,,,bbc_jr_realized,src_mol_jr2025,strong,Bezoldigingen excl Agodi education approx 46.39m (63.00-16.61); tick1021
+bud_mol_edu_pass_through_2025,city_mol,2025,16612630,,,bbc_jr_realized,src_mol_jr2025,strong,Onderwijzend personeel ten laste andere overheden 16.61m JUMP FOI quasi-null; tick1021
+bud_mol_toelagen_2025,city_mol,2025,12339379,,,bbc_jr_realized,src_mol_jr2025,strong,Toegestane werkingssubsidies 12.34m FOI residual; tick1021
+bud_mol_toelagen_police_2025,city_mol,2025,6700707,,,bbc_jr_realized,src_mol_jr2025,strong,Toelage politiezone 6.70m; tick1021
+bud_mol_toelagen_fire_2025,city_mol,2025,1210729,,,bbc_jr_realized,src_mol_jr2025,strong,Toelage hulpverleningszone 1.21m; tick1021
+bud_mol_toelagen_igs_2025,city_mol,2025,543651,,,bbc_jr_realized,src_mol_jr2025,strong,Toelage IGS 0.544m DROP FOI (was 1.54m); tick1021
+bud_mol_toelagen_eredienst_2025,city_mol,2025,218560,,,bbc_jr_realized,src_mol_jr2025,strong,Toelage eredienst 0.219m JUMP; tick1021
+bud_mol_toelagen_other_2025,city_mol,2025,3659722,,,bbc_jr_realized,src_mol_jr2025,strong,Toelage andere begunstigden 3.66m FOI; tick1021
+bud_mol_ocmw_aid_2025,city_mol,2025,5270598,,,bbc_jr_realized,src_mol_jr2025,strong,OCMW individuele hulp 5.27m; tick1021
+bud_mol_fiscal_2025,city_mol,2025,39695858,,,bbc_jr_realized,src_mol_jr2025,strong,Fiscale opbrengsten 39.70m; tick1021
+bud_mol_fiscal_ov_2025,city_mol,2025,13049375,,,bbc_jr_realized,src_mol_jr2025,strong,Opcentiemen OV 13.05m DROP FOI (was 14.43m); tick1021
+bud_mol_fiscal_pb_2025,city_mol,2025,17190478,,,bbc_jr_realized,src_mol_jr2025,strong,Aanvullende PB 17.19m JUMP (was 14.80m); tick1021
+bud_mol_gemeentefonds_2025,city_mol,2025,16202903,,,bbc_jr_realized,src_mol_jr2025,strong,Gemeentefonds 16.20m; tick1021
+bud_mol_fin_opbr_2025,city_mol,2025,2475661,,,bbc_jr_realized,src_mol_jr2025,strong,Financiele opbrengsten J5 2.48m; tick1021
+bud_mol_invest_subs_granted_2025,city_mol,2025,1048291,,,bbc_jr_realized,src_mol_jr2025,strong,Toegestane invest-subs 1.05m; tick1021
+bud_mol_interest_2025,city_mol,2025,1703006,,,bbc_jr_realized,src_mol_jr2025,strong,Intresten op leningen 1.70m; tick1021
