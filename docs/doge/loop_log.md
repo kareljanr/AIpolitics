@@ -13968,3 +13968,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1051** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1051 - 2026-08-10T14:45:00Z
+
+- Unit: **rq_1051** (FOI-adjacent residual dual - **Lokaal Bestuur Balen Jaarrekening 2025** + Hulshout dual residual)
+- Found (strong primary BBC JR2025 portal balen.be; KBO 0207.537.042 / OCMW 0212.240.552; Vredelaan 1; AD Michel Van Sprengel FD Katleen Geypen; pub 23.06.2026):
+  - Assets **EUR140.53m JUMP** (was **EUR131.77m**) / equity **EUR93.37m** / debt total **EUR47.16m JUMP** / fin debt **EUR33.44m JUMP HIGH FOI** (LT **EUR31.74m** / ST due **EUR1.71m**; was ~**EUR25.9m**)
+  - New loans **EUR9.12m VERY HIGH JUMP FOI** / repayments **EUR1.58m**
+  - Cash **EUR16.36m JUMP** / pension **EUR5.92m** slight JUMP / FVA IGS **EUR12.23m** / leasing MVA **EUR2.57m**
+  - Exploitatie: ontvangsten **EUR53.54m** / uitgaven **EUR47.17m** / saldo **+EUR6.36m STRONG**
+  - AFM **+EUR5.43m VERY STRONG** (gecorr **+EUR4.93m**) / BBR **EUR15.29m VERY HIGH FOI** / budget **+EUR3.42m STRONG flip** vs MJP **-EUR6.25m** / cum BR **EUR15.52m** / P&L **+EUR0.185m**
+  - Personnel **EUR27.91m JUMP** / toelagen **EUR6.48m FOI** (police refund rec **EUR0.935m** prior years) / OCMW aid **EUR2.13m**
+  - Invest **EUR12.89m HIGH** vs MJP **EUR12.71m** slight over / invest-subs granted **EUR1.28m**
+  - **OCMW structural gap EUR3.00m FOI** (J3 exp **EUR15.48m** / rec **EUR12.48m**)
+- Dual: Hulshout assets **EUR63.74m** / pension JUMP **EUR6.26m** / BBR **EUR8.92m** / OCMW gap **EUR1.67m** (tick1050) - not TE-additive
+- Note: Torhout full BBC / Stekene / Oosterzele / Berlaar residual next; progress@1060
+- Wrote: budgets +49 (bud_bal_*); commitments +6; leaderboard +8; sources +1; entity city_balen; FOI **gap_bal_loans_debt_bbr_toelagen_ocmw_l5** prio9 ready + draft; key only (PDF ~140MB not stored in git); rq_1051=done; spawn **rq_1052**; ticks=1051
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1052** residual dual L5; deferred **rq_116**; progress@1060
+

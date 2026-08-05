@@ -26341,3 +26341,52 @@ bud_hul_invest_subs_granted_2025,city_hulshout,2025,261181,,,bbc_jr_realized,src
 bud_hul_ocmw_invest_exp_2025,city_hulshout,2025,3371,,,bbc_jr_realized,src_hulshout_jr2025,strong,OCMW invest uitgaven 0.003m (zonnepanelen CADO); tick1050
 bud_hul_consol_bbr_2025,city_hulshout,2025,10271292,,,bbc_jr_realized,src_hulshout_jr2025,strong,Consol BBR GE+OCMW+AGB+WV 10.27m; tick1050
 bud_hul_consol_afm_2025,city_hulshout,2025,3108632,,,bbc_jr_realized,src_hulshout_jr2025,strong,Consol AFM GE+OCMW+AGB+WV 3.11m; tick1050
+bud_bal_assets_2025,city_balen,2025,140528352,,,bbc_jr_realized,src_balen_jr2025,strong,Assets YE2025 140.53m JUMP (was 131.77m); tick1051
+bud_bal_equity_2025,city_balen,2025,93371110,,,bbc_jr_realized,src_balen_jr2025,strong,Nettoactief YE2025 93.37m slight JUMP (was 92.37m); tick1051
+bud_bal_debt_total_2025,city_balen,2025,47157242,,,bbc_jr_realized,src_balen_jr2025,strong,Total schulden YE2025 47.16m JUMP (was 39.40m); tick1051
+bud_bal_fin_debt_2025,city_balen,2025,33443596,,,bbc_jr_realized,src_balen_jr2025,strong,Fin debt total YE2025 33.44m JUMP HIGH FOI (LT 31.74 + ST due 1.71; was ~25.9m); tick1051
+bud_bal_fin_debt_lt_2025,city_balen,2025,31736458,,,bbc_jr_realized,src_balen_jr2025,strong,Fin debt LT YE2025 31.74m JUMP (was 24.39m); tick1051
+bud_bal_fin_debt_st_due_2025,city_balen,2025,1707138,,,bbc_jr_realized,src_balen_jr2025,strong,Fin debt ST due YE2025 1.71m; tick1051
+bud_bal_fin_debt_st_2025,city_balen,2025,0,,,bbc_jr_realized,src_balen_jr2025,strong,Fin debt ST treasury YE2025 0; tick1051
+bud_bal_new_loans_2025,city_balen,2025,9118402,,,bbc_jr_realized,src_balen_jr2025,strong,Nieuwe leningen/leasings J3 9.12m VERY HIGH JUMP FOI; tick1051
+bud_bal_aflossingen_2025,city_balen,2025,1579714,,,bbc_jr_realized,src_balen_jr2025,strong,Periodieke aflossingen 1.58m; tick1051
+bud_bal_cash_2025,city_balen,2025,16361751,,,bbc_jr_realized,src_balen_jr2025,strong,Liquide middelen YE2025 16.36m JUMP (was 13.22m); tick1051
+bud_bal_pension_2025,city_balen,2025,5916728,,,bbc_jr_realized,src_balen_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.92m slight JUMP FOI (was 5.80m); tick1051
+bud_bal_cap_subs_2025,city_balen,2025,19900337,,,bbc_jr_realized,src_balen_jr2025,strong,Kapitaalsubsidies YE2025 19.90m; tick1051
+bud_bal_fva_total_2025,city_balen,2025,12450221,,,bbc_jr_realized,src_balen_jr2025,strong,FVA total YE2025 12.45m; tick1051
+bud_bal_fva_igs_2025,city_balen,2025,12229857,,,bbc_jr_realized,src_balen_jr2025,strong,FVA IGS YE2025 12.23m; tick1051
+bud_bal_leasing_mva_2025,city_balen,2025,2571437,,,bbc_jr_realized,src_balen_jr2025,strong,Leasing MVA YE2025 2.57m; tick1051
+bud_bal_expl_rec_2025,city_balen,2025,53538109,,,bbc_jr_realized,src_balen_jr2025,strong,Exploitatieontvangsten 53.54m; tick1051
+bud_bal_expl_exp_2025,city_balen,2025,47173674,,,bbc_jr_realized,src_balen_jr2025,strong,Exploitatieuitgaven 47.17m; tick1051
+bud_bal_expl_saldo_2025,city_balen,2025,6364435,,,bbc_jr_realized,src_balen_jr2025,strong,Exploitatiesaldo +6.36m STRONG; tick1051
+bud_bal_invest_exp_2025,city_balen,2025,12894510,,,bbc_jr_realized,src_balen_jr2025,strong,Investeringsuitgaven 12.89m HIGH FOI (near MJP 12.71m); tick1051
+bud_bal_invest_rec_2025,city_balen,2025,2330262,,,bbc_jr_realized,src_balen_jr2025,strong,Investeringsontvangsten 2.33m; tick1051
+bud_bal_invest_saldo_2025,city_balen,2025,-10564247,,,bbc_jr_realized,src_balen_jr2025,strong,Investeringssaldo -10.56m; tick1051
+bud_bal_mjp_invest_planned_2025,city_balen,2025,12714804,,,bbc_jr_realized,src_balen_jr2025,strong,MJP invest planned 12.71m vs realized 12.89m slight over; tick1051
+bud_bal_afm_2025,city_balen,2025,5427341,,,bbc_jr_realized,src_balen_jr2025,strong,AFM +5.43m VERY STRONG; tick1051
+bud_bal_afm_corr_2025,city_balen,2025,4934662,,,bbc_jr_realized,src_balen_jr2025,strong,Gecorrigeerde AFM +4.93m STRONG; tick1051
+bud_bal_bbr_2025,city_balen,2025,15290575,,,bbc_jr_realized,src_balen_jr2025,strong,BBR beschikbaar +15.29m VERY HIGH FOI; tick1051
+bud_bal_budget_result_2025,city_balen,2025,3422325,,,bbc_jr_realized,src_balen_jr2025,strong,Budgettair resultaat +3.42m STRONG flip vs MJP -6.25m; tick1051
+bud_bal_cum_br_2025,city_balen,2025,15517241,,,bbc_jr_realized,src_balen_jr2025,strong,Gecumuleerd budgettair resultaat +15.52m; tick1051
+bud_bal_onbeschikbaar_2025,city_balen,2025,226667,,,bbc_jr_realized,src_balen_jr2025,strong,Onbeschikbare gelden 0.227m VIPA kinderopvang; tick1051
+bud_bal_pnl_2025,city_balen,2025,184651,,,bbc_jr_realized,src_balen_jr2025,strong,P&L +0.185m; tick1051
+bud_bal_ge_expl_exp_2025,city_balen,2025,31694844,,,bbc_jr_realized,src_balen_jr2025,strong,GE exploitatieuitgaven J3 31.69m; tick1051
+bud_bal_ge_expl_rec_2025,city_balen,2025,41057963,,,bbc_jr_realized,src_balen_jr2025,strong,GE exploitatieontvangsten J3 41.06m; tick1051
+bud_bal_ocmw_expl_exp_2025,city_balen,2025,15478830,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW exploitatieuitgaven J3 15.48m FOI residual; tick1051
+bud_bal_ocmw_expl_rec_2025,city_balen,2025,12480146,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW exploitatieontvangsten J3 12.48m; tick1051
+bud_bal_ocmw_expl_gap_2025,city_balen,2025,-2998684,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW expl gap -3.00m FOI residual dual; tick1051
+bud_bal_ocmw_structural_gap_2025,city_balen,2025,2998684,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW structural gap J3 3.00m FOI residual; tick1051
+bud_bal_equity_cum_2025,city_balen,2025,7136700,,,bbc_jr_realized,src_balen_jr2025,strong,Gecumuleerd overschot/tekort consol YE2025 +7.14m; tick1051
+bud_bal_personnel_2025,city_balen,2025,27907506,,,bbc_jr_realized,src_balen_jr2025,strong,Bezoldigingen 27.91m JUMP HIGH FOI (was 26.81m); tick1051
+bud_bal_toelagen_2025,city_balen,2025,6481975,,,bbc_jr_realized,src_balen_jr2025,strong,Toegestane werkingssubsidies 6.48m FOI residual (police refund 0.935m in rec); tick1051
+bud_bal_ocmw_aid_2025,city_balen,2025,2125447,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW individuele hulp 2.13m; tick1051
+bud_bal_fiscal_2025,city_balen,2025,21917245,,,bbc_jr_realized,src_balen_jr2025,strong,Fiscale opbrengsten consol/J5 21.92m JUMP; tick1051
+bud_bal_fiscal_ov_2025,city_balen,2025,8473696,,,bbc_jr_realized,src_balen_jr2025,strong,Opcentiemen OV GE 8.47m; tick1051
+bud_bal_fiscal_pb_2025,city_balen,2025,10118915,,,bbc_jr_realized,src_balen_jr2025,strong,Aanvullende PB GE 10.12m; tick1051
+bud_bal_gemeentefonds_2025,city_balen,2025,6035791,,,bbc_jr_realized,src_balen_jr2025,strong,Gemeentefonds basis+aanvullend 6.04m (5.70+0.335); tick1051
+bud_bal_interest_2025,city_balen,2025,966585,,,bbc_jr_realized,src_balen_jr2025,strong,Financiele kosten 0.967m JUMP FOI (was 0.878m); tick1051
+bud_bal_invest_subs_rec_2025,city_balen,2025,2330262,,,bbc_jr_realized,src_balen_jr2025,strong,Investeringsontvangsten total 2.33m; tick1051
+bud_bal_invest_subs_granted_2025,city_balen,2025,1277171,,,bbc_jr_realized,src_balen_jr2025,strong,Toegestane invest-subs 1.28m; tick1051
+bud_bal_ocmw_invest_exp_2025,city_balen,2025,1970552,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW invest uitgaven 1.97m; tick1051
+bud_bal_fin_rec_loans_2025,city_balen,2025,9118402,,,bbc_jr_realized,src_balen_jr2025,strong,Financieringsontvangsten leningen/leasings 9.12m VERY HIGH; tick1051
+bud_bal_police_toelage_refund_2025,city_balen,2025,934908,,,bbc_jr_realized,src_balen_jr2025,strong,Terugbetaling politiezone toelagen nav rekeningen t/m 2023 0.935m FOI residual; tick1051
