@@ -19017,3 +19017,43 @@ bud_as_fiscal_apb_2025,city_as,2025,3507728,,,jaarrekening_realized,src_as_jr202
 bud_as_gemeentefonds_2025,city_as,2025,2565434,,,jaarrekening_realized,src_as_jr2025,strong,Gemeentefonds 2.565m 2025; tick882
 bud_as_invest_subs_granted_2025,city_as,2025,550000,,,jaarrekening_realized,src_as_jr2025,strong,Toegestane investeringssubsidies 0.550m 2025 (Riopact FOI-adjacent); tick882
 bud_as_new_loans_2025,city_as,2025,281146,,,jaarrekening_realized,src_as_jr2025,strong,Nieuwe leningen/leasings 0.281m 2025; tick882
+bud_bkz_assets_2025,city_bkz,2025,815384061,,,jaarrekening_realized,src_bkz_jr2025,strong,Consol total assets YE2025 815.384m fusion first year; tick883
+bud_bkz_equity_2025,city_bkz,2025,619357190,,,jaarrekening_realized,src_bkz_jr2025,strong,Nettoactief YE2025 619.357m; tick883
+bud_bkz_debt_total_2025,city_bkz,2025,196026872,,,jaarrekening_realized,src_bkz_jr2025,strong,Schulden total YE2025 196.027m; tick883
+bud_bkz_fin_debt_2025,city_bkz,2025,124206427,,,jaarrekening_realized,src_bkz_jr2025,strong,Fin schulden total YE2025 124.206m (LT 112.000 + ST due 12.206); tick883
+bud_bkz_fin_debt_lt_2025,city_bkz,2025,112000317,,,jaarrekening_realized,src_bkz_jr2025,strong,Fin schulden LT YE2025 112.000m; tick883
+bud_bkz_fin_debt_st_2025,city_bkz,2025,12206110,,,jaarrekening_realized,src_bkz_jr2025,strong,Fin schulden LT binnen jaar YE2025 12.206m; tick883
+bud_bkz_pension_prov_2025,city_bkz,2025,35251444,,,jaarrekening_realized,src_bkz_jr2025,strong,Pensioenvoorzieningen YE2025 35.251m FOI composition; tick883
+bud_bkz_cash_2025,city_bkz,2025,79461328,,,jaarrekening_realized,src_bkz_jr2025,strong,Liquide middelen YE2025 79.461m; tick883
+bud_bkz_cap_subs_2025,city_bkz,2025,116237376,,,jaarrekening_realized,src_bkz_jr2025,strong,Kapitaalsubsidies YE2025 116.237m; tick883
+bud_bkz_fva_igs_2025,city_bkz,2025,59149024,,,jaarrekening_realized,src_bkz_jr2025,strong,Fin VA IGS YE2025 59.149m; tick883
+bud_bkz_fva_total_2025,city_bkz,2025,75685099,,,jaarrekening_realized,src_bkz_jr2025,strong,Fin VA total YE2025 75.685m; tick883
+bud_bkz_cumul_budget_2025,city_bkz,2025,82089390,,,jaarrekening_realized,src_bkz_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 82.089m; tick883
+bud_bkz_bbr_2025,city_bkz,2025,79561637,,,jaarrekening_realized,src_bkz_jr2025,strong,Beschikbaar budgettair resultaat YE2025 79.562m; tick883
+bud_bkz_expl_rec_2025,city_bkz,2025,231473328,,,jaarrekening_realized,src_bkz_jr2025,strong,Exploitatieontvangsten 231.473m 2025; tick883
+bud_bkz_expl_exp_2025,city_bkz,2025,195927245,,,jaarrekening_realized,src_bkz_jr2025,strong,Exploitatieuitgaven 195.927m 2025; tick883
+bud_bkz_expl_saldo_2025,city_bkz,2025,35546083,,,jaarrekening_realized,src_bkz_jr2025,strong,Exploitatiesaldo +35.546m 2025; tick883
+bud_bkz_invest_exp_2025,city_bkz,2025,37094422,,,jaarrekening_realized,src_bkz_jr2025,strong,Investeringsuitgaven 37.094m 2025; tick883
+bud_bkz_invest_rec_2025,city_bkz,2025,14407519,,,jaarrekening_realized,src_bkz_jr2025,strong,Investeringsontvangsten 14.408m 2025; tick883
+bud_bkz_invest_saldo_2025,city_bkz,2025,-22686904,,,jaarrekening_realized,src_bkz_jr2025,strong,Investeringssaldo -22.687m 2025; tick883
+bud_bkz_fin_saldo_2025,city_bkz,2025,3124508,,,jaarrekening_realized,src_bkz_jr2025,strong,Financieringssaldo +3.125m 2025; tick883
+bud_bkz_budget_result_2025,city_bkz,2025,15983688,,,jaarrekening_realized,src_bkz_jr2025,strong,Budgettair resultaat boekjaar +15.984m 2025; tick883
+bud_bkz_afm_2025,city_bkz,2025,25418930,,,jaarrekening_realized,src_bkz_jr2025,strong,Autofinancieringsmarge +25.419m 2025; tick883
+bud_bkz_afm_gecorr_2025,city_bkz,2025,28056879,,,jaarrekening_realized,src_bkz_jr2025,strong,Gecorrigeerde AFM +28.057m 2025; tick883
+bud_bkz_pl_2025,city_bkz,2025,9427524,,,jaarrekening_realized,src_bkz_jr2025,strong,P&L overschot +9.428m 2025; tick883
+bud_bkz_personnel_2025,city_bkz,2025,94739936,,,jaarrekening_realized,src_bkz_jr2025,strong,Bezoldigingen 94.740m 2025 (incl onderwijs other ~28.599m); tick883
+bud_bkz_personnel_onderwijs_other_2025,city_bkz,2025,28599274,,,jaarrekening_realized,src_bkz_jr2025,strong,Onderwijzend personeel ten laste van andere ~28.599m 2025; tick883
+bud_bkz_toelagen_2025,city_bkz,2025,48546412,,,jaarrekening_realized,src_bkz_jr2025,strong,Toegestane werkingssubsidies 48.546m 2025 FOI-adjacent; tick883
+bud_bkz_toelagen_police_2025,city_bkz,2025,14598384,,,jaarrekening_realized,src_bkz_jr2025,strong,Toelage politiezone 14.598m 2025; tick883
+bud_bkz_toelagen_fire_2025,city_bkz,2025,9777316,,,jaarrekening_realized,src_bkz_jr2025,strong,Toelage hulpverleningszone 9.777m 2025; tick883
+bud_bkz_toelagen_igs_2025,city_bkz,2025,6536192,,,jaarrekening_realized,src_bkz_jr2025,strong,Toelage IGS 6.536m 2025; tick883
+bud_bkz_toelagen_agb_2025,city_bkz,2025,1090113,,,jaarrekening_realized,src_bkz_jr2025,strong,Toelage eigen AGB 1.090m 2025; tick883
+bud_bkz_toelagen_welzijn_2025,city_bkz,2025,6324647,,,jaarrekening_realized,src_bkz_jr2025,strong,Toelage welzijnsverenigingen 6.325m 2025; tick883
+bud_bkz_toelagen_other_2025,city_bkz,2025,9873031,,,jaarrekening_realized,src_bkz_jr2025,strong,Toelagen andere begunstigden 9.873m 2025 FOI; tick883
+bud_bkz_ocmw_aid_2025,city_bkz,2025,14194588,,,jaarrekening_realized,src_bkz_jr2025,strong,Individuele hulpverlening OCMW 14.195m 2025; tick883
+bud_bkz_fiscal_2025,city_bkz,2025,121829302,,,jaarrekening_realized,src_bkz_jr2025,strong,Fiscale opbrengsten 121.829m 2025; tick883
+bud_bkz_fiscal_ov_2025,city_bkz,2025,63318782,,,jaarrekening_realized,src_bkz_jr2025,strong,Opcentiemen OV 63.319m 2025; tick883
+bud_bkz_fiscal_apb_2025,city_bkz,2025,28764767,,,jaarrekening_realized,src_bkz_jr2025,strong,Aanvullende PB 28.765m 2025; tick883
+bud_bkz_gemeentefonds_2025,city_bkz,2025,23653219,,,jaarrekening_realized,src_bkz_jr2025,strong,Gemeentefonds 23.653m 2025; tick883
+bud_bkz_invest_subs_granted_2025,city_bkz,2025,1395763,,,jaarrekening_realized,src_bkz_jr2025,strong,Toegestane investeringssubsidies 1.396m 2025; tick883
+bud_bkz_new_loans_2025,city_bkz,2025,13254320,,,jaarrekening_realized,src_bkz_jr2025,strong,Nieuwe leningen/leasings 13.254m 2025 (loans 13.0m + lease 0.254m) FOI-adjacent; tick883

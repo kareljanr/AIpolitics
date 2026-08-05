@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T14:00:00Z,rq_882,882,no,tick882 As JR2025 dual Gavere; FOI gap_as_riopact_fva_toelagen_l5; next rq_883 residual dual L5; progress@890 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T14:30:00Z,rq_883,883,no,tick883 BKZ JR2025 dual As; FOI gap_bkz_loans_toelagen_pension_l5; next rq_884 residual dual L5; progress@890 in 7; rq_116 deferred
