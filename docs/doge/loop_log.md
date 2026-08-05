@@ -10919,3 +10919,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_880=done; next **rq_881**; loop_state ticks=880
 - FOI: none new this tick
 - Next: prio5 **rq_881** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/Gavere staged/VUB/skeyes); deferred **rq_116**; progress@890 in 10
+
+## Tick 881 - 2026-08-06T13:30:00Z
+
+- Unit: **rq_881** (FOI-adjacent residual dual - **Gemeente+OCMW Gavere Jaarrekening 2025** + Lede dual)
+- Found (strong primary BBC JR2025 395p; key extract only — full PDF ~66MB not committed):
+  - Assets **EUR84.3m** / equity **EUR64.3m** / debt total **EUR20.0m** / fin debt **EUR11.7m** (LT **EUR10.7m** was **EUR9.3m** / ST due **EUR0.96m**)
+  - **New loans EUR2.43m** / pension **EUR5.1m** / cash **EUR11.4m** / FVA IGS **EUR14.9m**
+  - Exploitatie: ontvangsten **EUR25.2m** / uitgaven **EUR21.6m** / saldo **+EUR3.6m**
+  - AFM **+EUR2.9m** (gecorr **+EUR2.9m**) / BBR **EUR11.0m** / budget result **+EUR2.0m** / P&L **+EUR0.6m**
+  - Personnel **EUR11.9m** / toelagen **EUR2.6m** (police **EUR1.7m** / fire **EUR0.4m** / other **EUR0.3m**) / fiscal **EUR11.8m**
+- Dual: Lede **EUR100.1m** / AFM **+EUR3.7m** / MJP debt ramp (tick879) - not TE-additive
+- Wrote: budgets +36 (ud_gv_*); commitments +4; leaderboard +7; sources +2; entity city_gavere; FOI **gap_gavere_loans_pension_l5** prio7 ready + draft; key extract (no 66MB PDF in git); rq_881=done; spawn **rq_882**; ticks=881
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_882** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@890 in 9

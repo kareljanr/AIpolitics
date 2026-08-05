@@ -1,0 +1,21 @@
+Gavere JR2025 BBC consol
+Source: https://www.gavere.be/sites/default/files/2026-06/2025_JRK_DEFINITIEF.pdf
+395p; Markt 1 9890 Gavere; NIS from PDF
+tick881
+
+Assets 84324342 / Equity 64325009 / Debt total 19999332
+Cash 11406702 / Cap subs 6125295
+Fin debt 11674984 (LT 10716111 + ST due 958873)
+New loans 2430227
+Pension 5080000 was 4774186
+FVA IGS 14862541
+Expl rec 25178309 / exp 21555188 / saldo 3623121
+AFM 2853784 / gecorr 2901708
+BBR 11045191 / cumul 11231858
+Budget result 1952889 / P&L 578447
+Personnel 11896334 (onderwijs other ~3275447)
+Toelagen 2611439 (police 1695530 fire 419935 other 260244)
+OCMW aid 928774
+Fiscal 11809244 (OV 4022910 APB 6834940)
+Gemeentefonds 3393013
+Invest exp 4918655 / invest-subs 529409

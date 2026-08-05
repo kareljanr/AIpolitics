@@ -18942,3 +18942,39 @@ bud_lede_invest_subs_granted_2025,city_lede,2025,525690,,,jaarrekening_realized,
 bud_lede_new_loans_2025,city_lede,2025,801772,,,jaarrekening_realized,src_lede_jr2025,strong,Nieuwe leningen/leasings 0.802m 2025; tick879
 bud_lede_mjp2026_fin_debt_plan,city_lede,2025,18841298,,,jaarrekening_realized,src_lede_jr2025,strong,MJP 2026 planned fin debt ~18.841m FOI-adjacent ramp; tick879
 bud_lede_mjp2027_fin_debt_plan,city_lede,2025,35636896,,,jaarrekening_realized,src_lede_jr2025,strong,MJP 2027 planned fin debt ~35.637m FOI-adjacent ramp; tick879
+bud_gv_assets_2025,city_gavere,2025,84324342,,,jaarrekening_realized,src_gavere_jr2025,strong,Consol total assets YE2025 84.324m; tick881
+bud_gv_equity_2025,city_gavere,2025,64325009,,,jaarrekening_realized,src_gavere_jr2025,strong,Nettoactief YE2025 64.325m; tick881
+bud_gv_debt_total_2025,city_gavere,2025,19999332,,,jaarrekening_realized,src_gavere_jr2025,strong,Schulden total YE2025 20.000m; tick881
+bud_gv_fin_debt_2025,city_gavere,2025,11674984,,,jaarrekening_realized,src_gavere_jr2025,strong,Fin schulden total YE2025 11.675m (LT 10.716 + ST due 0.959); tick881
+bud_gv_fin_debt_lt_2025,city_gavere,2025,10716111,,,jaarrekening_realized,src_gavere_jr2025,strong,Fin schulden LT YE2025 10.716m (was 9.255m); tick881
+bud_gv_fin_debt_st_2025,city_gavere,2025,958873,,,jaarrekening_realized,src_gavere_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.959m; tick881
+bud_gv_pension_prov_2025,city_gavere,2025,5080000,,,jaarrekening_realized,src_gavere_jr2025,strong,Pensioenvoorzieningen YE2025 5.080m (was 4.774m); tick881
+bud_gv_cash_2025,city_gavere,2025,11406702,,,jaarrekening_realized,src_gavere_jr2025,strong,Liquide middelen YE2025 11.407m; tick881
+bud_gv_cap_subs_2025,city_gavere,2025,6125295,,,jaarrekening_realized,src_gavere_jr2025,strong,Kapitaalsubsidies YE2025 6.125m; tick881
+bud_gv_fva_igs_2025,city_gavere,2025,14862541,,,jaarrekening_realized,src_gavere_jr2025,strong,Fin VA IGS YE2025 14.863m; tick881
+bud_gv_cumul_budget_2025,city_gavere,2025,11231858,,,jaarrekening_realized,src_gavere_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 11.232m; tick881
+bud_gv_bbr_2025,city_gavere,2025,11045191,,,jaarrekening_realized,src_gavere_jr2025,strong,Beschikbaar budgettair resultaat YE2025 11.045m; tick881
+bud_gv_expl_rec_2025,city_gavere,2025,25178309,,,jaarrekening_realized,src_gavere_jr2025,strong,Exploitatieontvangsten 25.178m 2025; tick881
+bud_gv_expl_exp_2025,city_gavere,2025,21555188,,,jaarrekening_realized,src_gavere_jr2025,strong,Exploitatieuitgaven 21.555m 2025; tick881
+bud_gv_expl_saldo_2025,city_gavere,2025,3623121,,,jaarrekening_realized,src_gavere_jr2025,strong,Exploitatiesaldo +3.623m 2025; tick881
+bud_gv_invest_exp_2025,city_gavere,2025,4918655,,,jaarrekening_realized,src_gavere_jr2025,strong,Investeringsuitgaven 4.919m 2025; tick881
+bud_gv_invest_rec_2025,city_gavere,2025,1605892,,,jaarrekening_realized,src_gavere_jr2025,strong,Investeringsontvangsten 1.606m 2025; tick881
+bud_gv_invest_saldo_2025,city_gavere,2025,-3312762,,,jaarrekening_realized,src_gavere_jr2025,strong,Investeringssaldo -3.313m 2025; tick881
+bud_gv_fin_saldo_2025,city_gavere,2025,1642530,,,jaarrekening_realized,src_gavere_jr2025,strong,Financieringssaldo +1.643m 2025; tick881
+bud_gv_budget_result_2025,city_gavere,2025,1952889,,,jaarrekening_realized,src_gavere_jr2025,strong,Budgettair resultaat boekjaar +1.953m 2025; tick881
+bud_gv_afm_2025,city_gavere,2025,2853784,,,jaarrekening_realized,src_gavere_jr2025,strong,Autofinancieringsmarge +2.854m 2025; tick881
+bud_gv_afm_gecorr_2025,city_gavere,2025,2901708,,,jaarrekening_realized,src_gavere_jr2025,strong,Gecorrigeerde AFM +2.902m 2025; tick881
+bud_gv_pl_2025,city_gavere,2025,578447,,,jaarrekening_realized,src_gavere_jr2025,strong,P&L overschot +0.578m 2025; tick881
+bud_gv_personnel_2025,city_gavere,2025,11896334,,,jaarrekening_realized,src_gavere_jr2025,strong,Bezoldigingen 11.896m 2025 (incl onderwijs other ~3.275m); tick881
+bud_gv_personnel_onderwijs_other_2025,city_gavere,2025,3275447,,,jaarrekening_realized,src_gavere_jr2025,strong,Onderwijzend personeel ten laste van andere ~3.275m 2025; tick881
+bud_gv_toelagen_2025,city_gavere,2025,2611439,,,jaarrekening_realized,src_gavere_jr2025,strong,Toegestane werkingssubsidies 2.611m 2025; tick881
+bud_gv_toelagen_police_2025,city_gavere,2025,1695530,,,jaarrekening_realized,src_gavere_jr2025,strong,Toelage politiezone 1.696m 2025; tick881
+bud_gv_toelagen_fire_2025,city_gavere,2025,419935,,,jaarrekening_realized,src_gavere_jr2025,strong,Toelage hulpverleningszone 0.420m 2025; tick881
+bud_gv_toelagen_other_2025,city_gavere,2025,260244,,,jaarrekening_realized,src_gavere_jr2025,strong,Toelagen andere 0.260m 2025; tick881
+bud_gv_ocmw_aid_2025,city_gavere,2025,928774,,,jaarrekening_realized,src_gavere_jr2025,strong,Individuele hulpverlening OCMW 0.929m 2025; tick881
+bud_gv_fiscal_2025,city_gavere,2025,11809244,,,jaarrekening_realized,src_gavere_jr2025,strong,Fiscale opbrengsten 11.809m 2025; tick881
+bud_gv_fiscal_ov_2025,city_gavere,2025,4022910,,,jaarrekening_realized,src_gavere_jr2025,strong,Opcentiemen OV 4.023m 2025; tick881
+bud_gv_fiscal_apb_2025,city_gavere,2025,6834940,,,jaarrekening_realized,src_gavere_jr2025,strong,Aanvullende PB 6.835m 2025; tick881
+bud_gv_gemeentefonds_2025,city_gavere,2025,3393013,,,jaarrekening_realized,src_gavere_jr2025,strong,Gemeentefonds 3.393m 2025; tick881
+bud_gv_invest_subs_granted_2025,city_gavere,2025,529409,,,jaarrekening_realized,src_gavere_jr2025,strong,Toegestane investeringssubsidies 0.529m 2025; tick881
+bud_gv_new_loans_2025,city_gavere,2025,2430227,,,jaarrekening_realized,src_gavere_jr2025,strong,Nieuwe leningen 2.430m 2025 FOI-adjacent; tick881
