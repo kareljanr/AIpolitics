@@ -27441,3 +27441,57 @@ bud_roo_gemeentefonds_2025,city_roosdaal,2025,2931880,,,bbc_jr_realized,src_roos
 bud_roo_interest_2025,city_roosdaal,2025,294689,,,bbc_jr_realized,src_roosdaal_jr2025,strong,Intresten op leningen 0.295m; tick1072
 bud_roo_agb_afm_2025,city_roosdaal,2025,-40556,,,bbc_jr_realized,src_roosdaal_jr2025,strong,AGB AFM -0.041m NEG dual residual FOI; tick1072
 bud_roo_agb_afm_corr_2025,city_roosdaal,2025,-271390,,,bbc_jr_realized,src_roosdaal_jr2025,strong,AGB gecorr AFM -0.271m NEG dual residual FOI; tick1072
+bud_ter_assets_2025,city_ternat,2025,81552241,,,bbc_jr_realized,src_ternat_jr2025,strong,Assets YE2025 81.552m JUMP (was 78.225m); tick1073
+bud_ter_equity_2025,city_ternat,2025,47377115,,,bbc_jr_realized,src_ternat_jr2025,strong,Nettoactief YE2025 47.377m JUMP (was 45.705m); tick1073
+bud_ter_debt_total_2025,city_ternat,2025,34175126,,,bbc_jr_realized,src_ternat_jr2025,strong,Total schulden YE2025 34.175m JUMP (was 32.519m); tick1073
+bud_ter_fin_debt_2025,city_ternat,2025,23475372,,,bbc_jr_realized,src_ternat_jr2025,strong,Fin debt total YE2025 23.475m slight JUMP (was 23.220m); tick1073
+bud_ter_fin_debt_lt_2025,city_ternat,2025,21824298,,,bbc_jr_realized,src_ternat_jr2025,strong,Fin debt LT YE2025 21.824m; tick1073
+bud_ter_fin_debt_st_due_2025,city_ternat,2025,1651074,,,bbc_jr_realized,src_ternat_jr2025,strong,Fin debt ST due YE2025 1.651m; tick1073
+bud_ter_new_loans_2025,city_ternat,2025,2311240,,,bbc_jr_realized,src_ternat_jr2025,strong,Nieuwe leningen 2025 2.311m FOI; tick1073
+bud_ter_aflossingen_2025,city_ternat,2025,2055953,,,bbc_jr_realized,src_ternat_jr2025,strong,Periodieke aflossingen 2025 2.056m; tick1073
+bud_ter_cash_2025,city_ternat,2025,4195950,,,bbc_jr_realized,src_ternat_jr2025,strong,Liquide middelen YE2025 4.196m JUMP (was 3.002m); tick1073
+bud_ter_pension_2025,city_ternat,2025,5880860,,,bbc_jr_realized,src_ternat_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.881m DROP (was 6.076m); tick1073
+bud_ter_cap_subs_2025,city_ternat,2025,4163979,,,bbc_jr_realized,src_ternat_jr2025,strong,Kapitaalsubsidies YE2025 4.164m; tick1073
+bud_ter_fva_total_2025,city_ternat,2025,16976025,,,bbc_jr_realized,src_ternat_jr2025,strong,FVA total YE2025 16.976m; tick1073
+bud_ter_fva_igs_2025,city_ternat,2025,15646665,,,bbc_jr_realized,src_ternat_jr2025,strong,FVA IGS YE2025 15.647m; tick1073
+bud_ter_leasing_mva_2025,city_ternat,2025,9294848,,,bbc_jr_realized,src_ternat_jr2025,strong,Leasing MVA YE2025 9.295m HIGH FOI; tick1073
+bud_ter_expl_rec_2025,city_ternat,2025,29811301,,,bbc_jr_realized,src_ternat_jr2025,strong,Exploitatieontvangsten 29.811m; tick1073
+bud_ter_expl_exp_2025,city_ternat,2025,26437314,,,bbc_jr_realized,src_ternat_jr2025,strong,Exploitatieuitgaven 26.437m; tick1073
+bud_ter_expl_saldo_2025,city_ternat,2025,3373987,,,bbc_jr_realized,src_ternat_jr2025,strong,Exploitatiesaldo +3.374m STRONG; tick1073
+bud_ter_invest_exp_2025,city_ternat,2025,4848169,,,bbc_jr_realized,src_ternat_jr2025,strong,Investeringsuitgaven 4.848m vs MJP 5.047m; tick1073
+bud_ter_invest_rec_2025,city_ternat,2025,1156096,,,bbc_jr_realized,src_ternat_jr2025,strong,Investeringsontvangsten 1.156m; tick1073
+bud_ter_invest_saldo_2025,city_ternat,2025,-3692074,,,bbc_jr_realized,src_ternat_jr2025,strong,Investeringssaldo -3.692m; tick1073
+bud_ter_invest_mva_2025,city_ternat,2025,4560598,,,bbc_jr_realized,src_ternat_jr2025,strong,Investeringen MVA 4.561m; tick1073
+bud_ter_invest_subs_granted_2025,city_ternat,2025,251031,,,bbc_jr_realized,src_ternat_jr2025,strong,Toegestane invest-subs 0.251m; tick1073
+bud_ter_afm_2025,city_ternat,2025,1455399,,,bbc_jr_realized,src_ternat_jr2025,strong,AFM +1.455m STRONG; tick1073
+bud_ter_afm_corr_2025,city_ternat,2025,1653745,,,bbc_jr_realized,src_ternat_jr2025,strong,Gecorrigeerde AFM +1.654m STRONG; tick1073
+bud_ter_bbr_2025,city_ternat,2025,3686463,,,bbc_jr_realized,src_ternat_jr2025,strong,BBR beschikbaar +3.686m; tick1073
+bud_ter_budget_result_2025,city_ternat,2025,13009,,,bbc_jr_realized,src_ternat_jr2025,strong,Budgettair resultaat +0.013m THIN FOI (near zero); tick1073
+bud_ter_cum_br_2025,city_ternat,2025,3873130,,,bbc_jr_realized,src_ternat_jr2025,strong,Gecumuleerd budgettair resultaat +3.873m; tick1073
+bud_ter_onbeschikbaar_2025,city_ternat,2025,186667,,,bbc_jr_realized,src_ternat_jr2025,strong,Onbeschikbare gelden 0.187m; tick1073
+bud_ter_pnl_2025,city_ternat,2025,794856,,,bbc_jr_realized,src_ternat_jr2025,strong,P&L +0.795m IMPROVING (was -2.040m); tick1073
+bud_ter_ge_expl_exp_2025,city_ternat,2025,22137490,,,bbc_jr_realized,src_ternat_jr2025,strong,GE exploitatieuitgaven 22.137m; tick1073
+bud_ter_ge_expl_rec_2025,city_ternat,2025,27729808,,,bbc_jr_realized,src_ternat_jr2025,strong,GE exploitatieontvangsten 27.730m; tick1073
+bud_ter_ocmw_expl_exp_2025,city_ternat,2025,4299825,,,bbc_jr_realized,src_ternat_jr2025,strong,OCMW exploitatieuitgaven 4.300m; tick1073
+bud_ter_ocmw_expl_rec_2025,city_ternat,2025,2081493,,,bbc_jr_realized,src_ternat_jr2025,strong,OCMW exploitatieontvangsten 2.081m; tick1073
+bud_ter_ocmw_expl_gap_2025,city_ternat,2025,-2218332,,,bbc_jr_realized,src_ternat_jr2025,strong,OCMW expl gap -2.218m HIGH FOI; tick1073
+bud_ter_ocmw_cover_2025,city_ternat,2025,2295509,,,bbc_jr_realized,src_ternat_jr2025,strong,OCMW cover tussenkomst 2.296m FULL; tick1073
+bud_ter_equity_cum_2025,city_ternat,2025,4645297,,,bbc_jr_realized,src_ternat_jr2025,strong,Gecumuleerd equity overschot YE2025 +4.645m; tick1073
+bud_ter_ocmw_equity_cum_2025,city_ternat,2025,-1565740,,,bbc_jr_realized,src_ternat_jr2025,strong,OCMW equity cum -1.566m WORSENING FOI (was -1.281m; cover full); tick1073
+bud_ter_ge_equity_cum_2025,city_ternat,2025,6211037,,,bbc_jr_realized,src_ternat_jr2025,strong,GE equity cum +6.211m; tick1073
+bud_ter_personnel_2025,city_ternat,2025,14218885,,,bbc_jr_realized,src_ternat_jr2025,strong,Bezoldigingen 14.219m JUMP incl education pass-through 2.891m JUMP; tick1073
+bud_ter_edu_pass_through_2025,city_ternat,2025,2890810,,,bbc_jr_realized,src_ternat_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.891m JUMP (was 2.085m); tick1073
+bud_ter_toelagen_2025,city_ternat,2025,5263093,,,bbc_jr_realized,src_ternat_jr2025,strong,Toegestane werkingssubsidies 5.263m FOI residual; tick1073
+bud_ter_toelagen_police_2025,city_ternat,2025,2487876,,,bbc_jr_realized,src_ternat_jr2025,strong,Toelage politiezone 2.488m JUMP (was 2.208m); tick1073
+bud_ter_toelagen_fire_2025,city_ternat,2025,1045688,,,bbc_jr_realized,src_ternat_jr2025,strong,Toelage hulpverleningszone 1.046m; tick1073
+bud_ter_toelagen_igs_2025,city_ternat,2025,925792,,,bbc_jr_realized,src_ternat_jr2025,strong,Toelage IGS 0.926m FOI; tick1073
+bud_ter_toelagen_agb_2025,city_ternat,2025,385391,,,bbc_jr_realized,src_ternat_jr2025,strong,Toelage AGB 0.385m dual residual; tick1073
+bud_ter_toelagen_other_2025,city_ternat,2025,418346,,,bbc_jr_realized,src_ternat_jr2025,strong,Toelage other+eredienst+welzijn residual 0.418m FOI; tick1073
+bud_ter_ocmw_aid_2025,city_ternat,2025,1750906,,,bbc_jr_realized,src_ternat_jr2025,strong,OCMW individuele hulp 1.751m HIGH; tick1073
+bud_ter_fiscal_2025,city_ternat,2025,16732611,,,bbc_jr_realized,src_ternat_jr2025,strong,Fiscale opbrengsten 16.733m; tick1073
+bud_ter_fiscal_ov_2025,city_ternat,2025,7567001,,,bbc_jr_realized,src_ternat_jr2025,strong,Opcentiemen OV 7.567m; tick1073
+bud_ter_fiscal_pb_2025,city_ternat,2025,7962798,,,bbc_jr_realized,src_ternat_jr2025,strong,Aanvullende PB 7.963m JUMP; tick1073
+bud_ter_gemeentefonds_2025,city_ternat,2025,4358798,,,bbc_jr_realized,src_ternat_jr2025,strong,Gemeentefonds 4.359m; tick1073
+bud_ter_interest_2025,city_ternat,2025,776001,,,bbc_jr_realized,src_ternat_jr2025,strong,Intresten op leningen 0.776m JUMP FOI; tick1073
+bud_ter_agb_afm_2025,city_ternat,2025,-12074,,,bbc_jr_realized,src_ternat_jr2025,strong,AGB AFM -0.012m NEG dual residual FOI; tick1073
+bud_ter_debt_per_inhab_2025,city_ternat,2025,1406,,,bbc_jr_realized,src_ternat_jr2025,strong,Openstaande schuld per inwoner EUR1406; tick1073

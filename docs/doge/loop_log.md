@@ -14387,3 +14387,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1073** residual dual L5; deferred **rq_116**; progress@1080
 
+
+### Tick 1073 - 2026-08-11T02:00:00Z
+
+- Unit: **rq_1073** (FOI-adjacent residual dual - **Lokaal Bestuur Ternat Jaarrekening 2025** + Roosdaal dual residual)
+- Found (strong primary BBC JR2025 PDF; GR+RMW 28.05.2026; KBO GE 0207.514.276 / OCMW 0212.174.434; Gemeentehuisstraat 21 1740; AD Sieglinde De Mulder FD Jorn Buggenhoudt; GE+OCMW + AGB dual):
+  - Assets **EUR81.552m JUMP** / equity **EUR47.377m JUMP** / debt total **EUR34.18m JUMP** / fin debt **EUR23.475m slight JUMP** (LT **EUR21.824m** / ST due **EUR1.651m**)
+  - New loans **EUR2.311m FOI** / repayments **EUR2.056m**
+  - Cash **EUR4.196m JUMP** (was **EUR3.002m**) / pension **EUR5.881m DROP** / FVA IGS **EUR15.647m** / leasing MVA **EUR9.295m HIGH FOI**
+  - Exploitatie: ontvangsten **EUR29.811m** / uitgaven **EUR26.437m** / saldo **+EUR3.374m STRONG**
+  - AFM **+EUR1.455m STRONG** (gecorr **+EUR1.654m**) / BBR **EUR3.686m** / budget **+EUR0.013m THIN FOI** / cum BR **EUR3.873m** / P&L **+EUR0.795m IMPROVING**
+  - Personnel **EUR14.219m JUMP** (edu pass-through **EUR2.891m JUMP**) / toelagen **EUR5.263m FOI** (police **EUR2.488m JUMP** / fire **EUR1.046m** / IGS **EUR0.926m** / AGB **EUR0.385m**)
+  - Invest **EUR4.848m** / interest **EUR0.776m JUMP FOI**
+  - OCMW cover **EUR2.296m FULL** / OCMW expl gap **-EUR2.218m** / **OCMW equity cum EUR-1.566m WORSENING FOI** (was **-EUR1.281m**)
+  - Dual AGB: AFM **-EUR0.012m NEG FOI**
+- Dual: Roosdaal OCMW cover **0 ZERO** / fin debt JUMP (tick1072) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1080
+- Wrote: budgets +54 (bud_ter_*); commitments +7; leaderboard +8; sources +1; entity city_ternat; FOI **gap_ter_ocmw_equity_toelagen_leasing_l5** prio9 ready + draft; PDF primary (not committed); rq_1073=done; spawn **rq_1074**; ticks=1073
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1074** residual dual L5; deferred **rq_116**; progress@1080
+
