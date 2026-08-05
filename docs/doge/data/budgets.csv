@@ -26907,3 +26907,30 @@ bud_leo_interest_2025,city_leopoldsburg,2025,342189,,,bbc_jr_realized,src_leopol
 bud_leo_invest_subs_granted_2025,city_leopoldsburg,2025,196662,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toegestane invest-subs J5 0.197m 2025; tick1061
 bud_leo_vorderingen_kt_2025,city_leopoldsburg,2025,5866229,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Vorderingen KT YE2025 5.87m JUMP; tick1061
 bud_leo_provisions_st_2025,city_leopoldsburg,2025,496526,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Voorzieningen ST YE2025 0.497m; tick1061
+bud_ovo_assets_2025,wv_overo_ronse,2025,3897146,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Assets YE2025 3.90m slight JUMP (was 3.76m; all current); tick1062
+bud_ovo_equity_2025,wv_overo_ronse,2025,-16620596,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Nettoactief YE2025 -16.62m NEG FOI (was -17.15m); tick1062
+bud_ovo_debt_total_2025,wv_overo_ronse,2025,20517743,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Total schulden YE2025 20.52m DECLINE (was 20.91m); tick1062
+bud_ovo_fin_debt_2025,wv_overo_ronse,2025,0,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Fin debt bank/leasing YE2025 0; tick1062
+bud_ovo_pension_lt_2025,wv_overo_ronse,2025,14787000,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Pensioenvoorzieningen LT YE2025 14.79m DROP FOI (was 15.84m); tick1062
+bud_ovo_provisions_st_2025,wv_overo_ronse,2025,2174678,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Voorzieningen ST YE2025 2.17m; tick1062
+bud_ovo_ocmw_treasury_debt_2025,wv_overo_ronse,2025,3455401,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,OCMW thesaurie terbeschikkingstelling ST niet-ruil YE2025 3.46m HIGH FOI; tick1062
+bud_ovo_cash_2025,wv_overo_ronse,2025,234574,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Liquide middelen YE2025 0.235m LOW thin FOI (was 0.182m); tick1062
+bud_ovo_vorderingen_kt_2025,wv_overo_ronse,2025,3662572,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Vorderingen KT YE2025 3.66m; tick1062
+bud_ovo_cumul_budget_2025,wv_overo_ronse,2025,341082,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 0.341m; tick1062
+bud_ovo_bbr_2025,wv_overo_ronse,2025,341082,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Beschikbaar budgettair resultaat YE2025 0.341m; tick1062
+bud_ovo_expl_rec_2025,wv_overo_ronse,2025,3451476,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Exploitatieontvangsten 3.45m 2025 (J2); tick1062
+bud_ovo_expl_exp_2025,wv_overo_ronse,2025,3834645,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Exploitatieuitgaven 3.83m 2025 (J2); tick1062
+bud_ovo_expl_saldo_2025,wv_overo_ronse,2025,-383169,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Exploitatiesaldo -0.383m NEG HIGH FOI 2025; tick1062
+bud_ovo_budget_result_2025,wv_overo_ronse,2025,-383169,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Budgettair resultaat boekjaar -0.383m NEG HIGH FOI 2025; tick1062
+bud_ovo_afm_2025,wv_overo_ronse,2025,-383169,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Autofinancieringsmarge -0.383m NEG HIGH FOI 2025; tick1062
+bud_ovo_afm_gecorr_2025,wv_overo_ronse,2025,-383169,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Gecorrigeerde AFM -0.383m NEG 2025; tick1062
+bud_ovo_pl_2025,wv_overo_ronse,2025,531328,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,P&L overschot +0.531m 2025 (provision release note); tick1062
+bud_ovo_personnel_2025,wv_overo_ronse,2025,3810623,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Bezoldigingen incl respons 3.81m 2025 (was 3.84m); tick1062
+bud_ovo_personnel_excl_respons_2025,wv_overo_ronse,2025,1917920,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Bezoldigingen excl respons ~1.92m 2025 FOI; tick1062
+bud_ovo_responsabilisering_2025,wv_overo_ronse,2025,1859659,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Responsabiliseringsbijdrage cost 1.86m HIGH FOI 2025; tick1062
+bud_ovo_respons_recup_bfm_2025,wv_overo_ronse,2025,833477,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Recuperatie respons via VZW Werken Glorieux BFM 0.833m 2025; tick1062
+bud_ovo_respons_recup_vl_2025,wv_overo_ronse,2025,978959,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Recuperatie respons Vlaamse Overheid 0.979m 2025; tick1062
+bud_ovo_recettes_derden_2025,wv_overo_ronse,2025,1626599,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Tussenkomst prestaties ten laste van derden 1.63m DROP FOI 2025; tick1062
+bud_ovo_werkingssubsidies_2025,wv_overo_ronse,2025,1818546,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Werkingssubsidies ontvangsten 1.82m 2025 (alg 0.979 + spec 0.840); tick1062
+bud_ovo_goederen_diensten_2025,wv_overo_ronse,2025,23461,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,Goederen en diensten 0.023m 2025; tick1062
+bud_ovo_ocmw_cover_2025,wv_overo_ronse,2025,0,,,bbc_jr_realized,src_overo_ronse_jr2025,strong,OCMW tussenkomst in OVERO werking 0 (2021-2025) FOI residual surplus path; tick1062

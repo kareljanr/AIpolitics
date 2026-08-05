@@ -14180,3 +14180,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1062** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1062 - 2026-08-10T20:15:00Z
+
+- Unit: **rq_1062** (FOI-adjacent residual dual - **OVERO Ronse welzijnsvereniging Jaarrekening 2025** + Leopoldsburg dual residual; Torhout/Grimbergen portals empty or oversized; Bornem only JR2024)
+- Found (strong primary BBC JR2025 OVERO PDF; print 09.03.2026; KBO 0480.589.567; NIS 45041; Oscar Delghuststraat 62 9600 Ronse; Secr Jurgen Soetens rekenplichtige Elke Baeke; WV under OCMW Ronse):
+  - Assets **EUR3.90m** (all current) / equity **EUR-16.62m NEG HIGH FOI** (was **EUR-17.15m**) / debt total **EUR20.52m**
+  - Fin debt bank **0** / pension LT **EUR14.79m DROP FOI** (was **EUR15.84m**) / ST provisions **EUR2.17m**
+  - **OCMW treasury advance EUR3.46m HIGH FOI** (niet-ruil KT; thesaurie terbeschikkingstelling)
+  - Cash **EUR0.235m LOW thin FOI** / vorderingen KT **EUR3.66m**
+  - Exploitatie: ontvangsten **EUR3.45m** / uitgaven **EUR3.83m** / saldo **EUR-0.383m NEG HIGH FOI**
+  - AFM **EUR-0.383m NEG HIGH FOI** / BBR **EUR0.341m** / budget **EUR-0.383m** / P&L **+EUR0.531m** (provision release)
+  - Personnel **EUR3.81m** (excl respons ~**EUR1.92m**) / responsabilisering **EUR1.86m HIGH FOI** (recup BFM Glorieux **EUR0.833m** + VL **EUR0.979m**)
+  - Derden-prestaties **EUR1.63m DROP** / **OCMW cover EUR0** (2021-2025) FOI
+- Dual: Leopoldsburg assets **EUR84.33m** / budget **EUR-1.73m** / cash DROP (tick1061) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Grimbergen / Ronse city GE+OCMW residual next; progress@1070
+- Wrote: budgets +27 (bud_ovo_*); commitments +6; leaderboard +7; sources +1; entities city_ronse + wv_overo_ronse; FOI **gap_ovo_pension_afm_ocmw_treasury_l5** prio9 ready + draft; PDF primary (not committed); rq_1062=done; spawn **rq_1063**; ticks=1062
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1063** residual dual L5; deferred **rq_116**; progress@1070
+
