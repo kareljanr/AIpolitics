@@ -15191,3 +15191,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43 (bud_kh_*); commitments +8; leaderboard +12; sources +1; entity city_knokke_heist; FOI **gap_kh_loans_toelagen_ocmw_agso_invest_l5** prio9 ready + draft; PDF primary (not committed 9.3MB); rq_1112=done; spawn **rq_1113**; ticks=1112
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1113** residual dual L5; deferred **rq_116**; progress@1120 in 8
+
+### Tick 1113 - 2026-08-11T22:00:00Z
+
+- Unit: **rq_1113** (FOI-adjacent residual dual - **Gemeente+OCMW Langemark-Poelkapelle Jaarrekening 2025** + Knokke-Heist dual residual)
+- Found (strong primary BBC JR2025 146p text bundel; langemark-poelkapelle.be; KBO GE 0216.770.254 / OCMW 0216.770.353; Kasteelstraat 1 8920; AD Jochen Vermote FD Mireille Cappelle; GE+OCMW):
+  - Assets **EUR73.205m JUMP FOI** (was **EUR65.221m**) / equity **EUR61.810m JUMP** / debt total **EUR11.394m** / fin debt **EUR5.444m DECLINE** (LT **EUR4.359m** / ST due **EUR1.085m**; was **EUR6.313m**)
+  - New loans **EUR0.178m** / repayments **EUR1.047m**
+  - Cash **EUR10.258m DROP FOI** (was **EUR11.080m**) / pension **EUR1.222m JUMP FOI** (was **EUR0.813m**; +**EUR0.408m**)
+  - FVA IGS **EUR15.998m MASSIVE JUMP FOI** (was **EUR10.250m** Fluvius-class) / herwaard **EUR8.786m MASSIVE JUMP FOI** (was **EUR2.496m**; toevoeging **EUR6.384m**) / leasing MVA **EUR0.829m**
+  - Exploitatie: ontvangsten **EUR21.918m** / uitgaven **EUR18.471m** / saldo **+EUR3.447m STRONG**
+  - AFM **+EUR2.715m STRONG** (gecorr **+EUR3.257m**) / BBR **EUR9.198m HIGH** / budget **−EUR0.965m NEG FOI** (better than MJP **−EUR4.469m**) / P&L **+EUR0.979m POS**
+  - Fiscal **EUR7.193m** / PB **EUR3.141m** / OP **EUR3.415m** / personnel **EUR12.316m**
+  - Toelagen **EUR1.304m FOI** (police **EUR0.631m** / fire **EUR0.372m** / IGS **EUR0.053m** / eredienst **EUR0.077m** / andere **EUR0.171m**)
+  - Invest **EUR5.754m** vs MJP **EUR7.643m UNDERSPEND FOI** / invest-subs **EUR0.243m**
+  - OCMW cover **EUR2.149m FULL FOI** / OCMW P&L **−EUR1.008m** / OCMW cum equity **−EUR0.215m** (improved from **−EUR1.355m**) / OCMW hulp **EUR0.513m**
+- Dual: Knokke-Heist loans/toelagen MASSIVE / AGSO NEG (tick1112) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only / Kalmthout / Bornem JR2024-only / De Panne OCR residual next; progress@1120 in 7
+- Wrote: budgets +37 (bud_lp_*); commitments +8; leaderboard +10; sources +1; entity city_langemark_poelkapelle; FOI **gap_lp_fva_herwaard_budget_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed 4.2MB); rq_1113=done; spawn **rq_1114**; ticks=1113
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1114** residual dual L5; deferred **rq_116**; progress@1120 in 7

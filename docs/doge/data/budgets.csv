@@ -29267,3 +29267,40 @@ bud_kh_mjp_debt_2026,city_knokke_heist,2025,39163476,,,bbc_jr_realized,src_knokk
 bud_kh_mjp_new_2026,city_knokke_heist,2025,25868900,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,MJP new loans 2026 25.869m MASSIVE FOI; tick1112
 bud_kh_goederen_2025,city_knokke_heist,2025,25979854,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Goederen en diensten 25.980m; tick1112
 bud_kh_fin_exp_2025,city_knokke_heist,2025,491907,,,bbc_jr_realized,src_knokke_heist_jr2025,strong,Financiele kosten 0.492m; tick1112
+bud_lp_assets_2025,city_langemark_poelkapelle,2025,73204610,,,bbc_jr_realized,src_langemark_jr2025,strong,Assets YE2025 73.205m JUMP FOI (was 65.221m; FVA herwaard); tick1113
+bud_lp_equity_2025,city_langemark_poelkapelle,2025,61810493,,,bbc_jr_realized,src_langemark_jr2025,strong,Nettoactief YE2025 61.810m JUMP; tick1113
+bud_lp_debt_total_2025,city_langemark_poelkapelle,2025,11394118,,,bbc_jr_realized,src_langemark_jr2025,strong,Total schulden YE2025 11.394m stable; tick1113
+bud_lp_fin_debt_2025,city_langemark_poelkapelle,2025,5444011,,,bbc_jr_realized,src_langemark_jr2025,strong,Fin debt YE2025 5.444m DECLINE (was 6.313m); tick1113
+bud_lp_fin_debt_lt_2025,city_langemark_poelkapelle,2025,4359479,,,bbc_jr_realized,src_langemark_jr2025,strong,Fin debt LT YE2025 4.359m; tick1113
+bud_lp_fin_debt_st_2025,city_langemark_poelkapelle,2025,1084532,,,bbc_jr_realized,src_langemark_jr2025,strong,Fin debt ST due YE2025 1.085m; tick1113
+bud_lp_new_loans_2025,city_langemark_poelkapelle,2025,178103,,,bbc_jr_realized,src_langemark_jr2025,strong,New loans 0.178m modest; tick1113
+bud_lp_repayments_2025,city_langemark_poelkapelle,2025,1047105,,,bbc_jr_realized,src_langemark_jr2025,strong,Periodieke aflossingen 1.047m; tick1113
+bud_lp_cash_2025,city_langemark_poelkapelle,2025,10258209,,,bbc_jr_realized,src_langemark_jr2025,strong,Cash YE2025 10.258m DROP FOI (was 11.080m); tick1113
+bud_lp_pension_lt_2025,city_langemark_poelkapelle,2025,1221748,,,bbc_jr_realized,src_langemark_jr2025,strong,Pension LT 1.222m JUMP FOI (was 0.813m); tick1113
+bud_lp_fva_igs_2025,city_langemark_poelkapelle,2025,15998232,,,bbc_jr_realized,src_langemark_jr2025,strong,FVA IGS YE2025 15.998m MASSIVE JUMP FOI (was 10.250m Fluvius-class); tick1113
+bud_lp_herwaard_2025,city_langemark_poelkapelle,2025,8785663,,,bbc_jr_realized,src_langemark_jr2025,strong,Herwaarderingsreserves 8.786m MASSIVE JUMP FOI (was 2.496m); tick1113
+bud_lp_leasing_mva_2025,city_langemark_poelkapelle,2025,828756,,,bbc_jr_realized,src_langemark_jr2025,strong,Leasing MVA YE2025 0.829m; tick1113
+bud_lp_expl_ontvangsten_2025,city_langemark_poelkapelle,2025,21918248,,,bbc_jr_realized,src_langemark_jr2025,strong,Exploitatie ontvangsten 21.918m; tick1113
+bud_lp_expl_uitgaven_2025,city_langemark_poelkapelle,2025,18471400,,,bbc_jr_realized,src_langemark_jr2025,strong,Exploitatie uitgaven 18.471m; tick1113
+bud_lp_expl_saldo_2025,city_langemark_poelkapelle,2025,3446847,,,bbc_jr_realized,src_langemark_jr2025,strong,Exploitatiesaldo +3.447m STRONG; tick1113
+bud_lp_afm_2025,city_langemark_poelkapelle,2025,2715007,,,bbc_jr_realized,src_langemark_jr2025,strong,AFM +2.715m STRONG; tick1113
+bud_lp_afm_gecorr_2025,city_langemark_poelkapelle,2025,3257071,,,bbc_jr_realized,src_langemark_jr2025,strong,AFM gecorrigeerd +3.257m STRONG; tick1113
+bud_lp_bbr_2025,city_langemark_poelkapelle,2025,9198343,,,bbc_jr_realized,src_langemark_jr2025,strong,BBR 9.198m HIGH; tick1113
+bud_lp_budget_result_2025,city_langemark_poelkapelle,2025,-964675,,,bbc_jr_realized,src_langemark_jr2025,strong,Budget -0.965m NEG FOI (better than MJP -4.469m); tick1113
+bud_lp_pnl_2025,city_langemark_poelkapelle,2025,979112,,,bbc_jr_realized,src_langemark_jr2025,strong,P&L +0.979m POS; tick1113
+bud_lp_fiscal_2025,city_langemark_poelkapelle,2025,7193357,,,bbc_jr_realized,src_langemark_jr2025,strong,Fiscale opbrengsten 7.193m; tick1113
+bud_lp_pb_2025,city_langemark_poelkapelle,2025,3141493,,,bbc_jr_realized,src_langemark_jr2025,strong,Personenbelasting 3.141m; tick1113
+bud_lp_op_2025,city_langemark_poelkapelle,2025,3414955,,,bbc_jr_realized,src_langemark_jr2025,strong,Onroerende voorheffing opcentiemen 3.415m; tick1113
+bud_lp_personnel_2025,city_langemark_poelkapelle,2025,12316479,,,bbc_jr_realized,src_langemark_jr2025,strong,Personeel 12.316m; tick1113
+bud_lp_toelagen_2025,city_langemark_poelkapelle,2025,1304067,,,bbc_jr_realized,src_langemark_jr2025,strong,Toegestane werkingssubsidies 1.304m FOI; tick1113
+bud_lp_police_2025,city_langemark_poelkapelle,2025,630535,,,bbc_jr_realized,src_langemark_jr2025,strong,Politiezone toelage 0.631m; tick1113
+bud_lp_fire_2025,city_langemark_poelkapelle,2025,371774,,,bbc_jr_realized,src_langemark_jr2025,strong,HVZ toelage 0.372m; tick1113
+bud_lp_hulp_ocmw_2025,city_langemark_poelkapelle,2025,512959,,,bbc_jr_realized,src_langemark_jr2025,strong,OCMW individuele hulp 0.513m; tick1113
+bud_lp_invest_uitgaven_2025,city_langemark_poelkapelle,2025,5753538,,,bbc_jr_realized,src_langemark_jr2025,strong,Invest 5.754m vs MJP 7.643m UNDERSPEND FOI; tick1113
+bud_lp_invest_mjp_2025,city_langemark_poelkapelle,2025,7643454,,,bbc_jr_realized,src_langemark_jr2025,strong,MJP invest uitgaven 7.643m; tick1113
+bud_lp_invest_subs_2025,city_langemark_poelkapelle,2025,243131,,,bbc_jr_realized,src_langemark_jr2025,strong,Toegestane invest-subs 0.243m; tick1113
+bud_lp_ocmw_cover_2025,city_langemark_poelkapelle,2025,2148891,,,bbc_jr_realized,src_langemark_jr2025,strong,OCMW cover 2.149m FULL FOI (OCMW P&L -1.008m); tick1113
+bud_lp_ocmw_pnl_2025,city_langemark_poelkapelle,2025,-1008398,,,bbc_jr_realized,src_langemark_jr2025,strong,OCMW P&L -1.008m FOI; tick1113
+bud_lp_ocmw_equity_cum_2025,city_langemark_poelkapelle,2025,-214519,,,bbc_jr_realized,src_langemark_jr2025,strong,OCMW cum equity -0.215m FOI (was -1.355m improved); tick1113
+bud_lp_goederen_2025,city_langemark_poelkapelle,2025,3920336,,,bbc_jr_realized,src_langemark_jr2025,strong,Goederen en diensten 3.920m; tick1113
+bud_lp_fin_exp_2025,city_langemark_poelkapelle,2025,269224,,,bbc_jr_realized,src_langemark_jr2025,strong,Financiele kosten 0.269m; tick1113
