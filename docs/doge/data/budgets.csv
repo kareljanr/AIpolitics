@@ -19949,3 +19949,44 @@ bud_rum_new_loans_2025,city_rumst,2025,4650000,,,jaarrekening_realized,src_rumst
 bud_rum_mjp_new_loans_2026,city_rumst,2025,4225000,,,jaarrekening_realized,src_rumst_jr2025,strong,MJP new loans 2026 4.225m FOI; tick907
 bud_rum_mjp_fin_debt_2026,city_rumst,2025,20615512,,,jaarrekening_realized,src_rumst_jr2025,strong,MJP fin debt path YE2026 20.616m FOI; tick907
 bud_rum_lt_receivables_2025,city_rumst,2025,10085246,,,jaarrekening_realized,src_rumst_jr2025,strong,Vorderingen LT YE2025 10.085m; tick907
+bud_ing_assets_2025,city_ingelmunster,2025,78761587,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Consol total assets YE2025 78.762m; tick908
+bud_ing_equity_2025,city_ingelmunster,2025,63956083,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Nettoactief YE2025 63.956m; tick908
+bud_ing_debt_total_2025,city_ingelmunster,2025,14805504,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Schulden total YE2025 14.806m (assets-equity); tick908
+bud_ing_fin_debt_2025,city_ingelmunster,2025,7103999,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Fin schulden total YE2025 7.104m (LT 6.265 + ST due 0.839 was 7.687m); tick908
+bud_ing_fin_debt_lt_2025,city_ingelmunster,2025,6264994,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Fin schulden LT YE2025 6.265m; tick908
+bud_ing_fin_debt_st_2025,city_ingelmunster,2025,839004,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.839m; tick908
+bud_ing_pension_prov_2025,city_ingelmunster,2025,5057641,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Pensioenvoorzieningen YE2025 5.058m (was 5.260m); tick908
+bud_ing_cash_2025,city_ingelmunster,2025,13736110,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Liquide middelen YE2025 13.736m (was 15.339m); tick908
+bud_ing_cap_subs_2025,city_ingelmunster,2025,6684570,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Kapitaalsubsidies YE2025 6.685m; tick908
+bud_ing_fva_igs_2025,city_ingelmunster,2025,15997145,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Fin VA IGS YE2025 15.997m; tick908
+bud_ing_fva_total_2025,city_ingelmunster,2025,17687565,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Fin VA total YE2025 17.688m; tick908
+bud_ing_cumul_budget_2025,city_ingelmunster,2025,15186776,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 15.187m; tick908
+bud_ing_bbr_2025,city_ingelmunster,2025,15000109,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Beschikbaar budgettair resultaat YE2025 15.000m; tick908
+bud_ing_expl_rec_2025,city_ingelmunster,2025,24510602,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Exploitatieontvangsten 24.511m 2025 (J2); tick908
+bud_ing_expl_exp_2025,city_ingelmunster,2025,20031152,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Exploitatieuitgaven 20.031m 2025 (J2); tick908
+bud_ing_expl_saldo_2025,city_ingelmunster,2025,4479450,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Exploitatiesaldo +4.479m 2025; tick908
+bud_ing_invest_exp_2025,city_ingelmunster,2025,6485189,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Investeringsuitgaven 6.485m 2025 (sportpark ~4.3m FOI); tick908
+bud_ing_invest_rec_2025,city_ingelmunster,2025,1334353,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Investeringsontvangsten 1.334m 2025; tick908
+bud_ing_invest_saldo_2025,city_ingelmunster,2025,-5150835,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Investeringssaldo -5.151m 2025; tick908
+bud_ing_fin_saldo_2025,city_ingelmunster,2025,-583411,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Financieringssaldo -0.583m 2025; tick908
+bud_ing_budget_result_2025,city_ingelmunster,2025,-1254796,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Budgettair resultaat boekjaar -1.255m 2025; tick908
+bud_ing_afm_2025,city_ingelmunster,2025,3612729,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Autofinancieringsmarge +3.613m 2025; tick908
+bud_ing_afm_gecorr_2025,city_ingelmunster,2025,3864457,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Gecorrigeerde AFM +3.864m 2025; tick908
+bud_ing_pl_2025,city_ingelmunster,2025,2057421,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,P&L overschot +2.057m 2025; tick908
+bud_ing_personnel_2025,city_ingelmunster,2025,11419716,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Bezoldigingen 11.420m 2025 (incl onderwijs other ~2.521m); tick908
+bud_ing_personnel_onderwijs_other_2025,city_ingelmunster,2025,2521122,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.521m 2025; tick908
+bud_ing_toelagen_2025,city_ingelmunster,2025,3358184,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Toegestane werkingssubsidies 3.358m 2025; tick908
+bud_ing_toelagen_police_2025,city_ingelmunster,2025,1182219,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Toelage politiezone MIDOW 1.182m 2025; tick908
+bud_ing_toelagen_fire_2025,city_ingelmunster,2025,287778,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Toelage hulpverleningszone MIDWEST 0.288m 2025; tick908
+bud_ing_toelagen_igs_2025,city_ingelmunster,2025,1150708,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Toelage IGS 1.151m 2025 (incl IVIO ~0.96m FOI); tick908
+bud_ing_toelagen_other_2025,city_ingelmunster,2025,695904,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Toelagen andere begunstigden 0.696m 2025 FOI; tick908
+bud_ing_ocmw_aid_2025,city_ingelmunster,2025,1271060,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Individuele hulpverlening OCMW 1.271m 2025; tick908
+bud_ing_fiscal_2025,city_ingelmunster,2025,10837629,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Fiscale opbrengsten en boetes 10.838m 2025; tick908
+bud_ing_fiscal_ov_2025,city_ingelmunster,2025,5255523,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Opcentiemen OV 5.256m 2025; tick908
+bud_ing_fiscal_apb_2025,city_ingelmunster,2025,4616401,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Aanvullende PB 4.616m 2025; tick908
+bud_ing_gemeentefonds_2025,city_ingelmunster,2025,3311038,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Gemeentefonds 3.311m 2025; tick908
+bud_ing_invest_subs_granted_2025,city_ingelmunster,2025,194543,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Toegestane investeringssubsidies 0.195m 2025; tick908
+bud_ing_new_loans_2025,city_ingelmunster,2025,283311,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Nieuwe leningen/leasings 0.283m 2025 (OV leasing); tick908
+bud_ing_sportpark_invest_2025,city_ingelmunster,2025,4297680,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Sport/vrijetijdspark invest uitgaven 4.298m 2025 FOI; tick908
+bud_ing_ocmw_deficit_cover_2025,city_ingelmunster,2025,3000000,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Tussenkomst OCMW tekort 3.000m 2025 FOI; tick908
+bud_ing_onbeschikbaar_2025,city_ingelmunster,2025,186667,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Onbeschikbare gelden kinderopvang invest-subs 0.187m 2025; tick908

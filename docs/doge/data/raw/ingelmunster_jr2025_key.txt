@@ -1,0 +1,40 @@
+Ingelmunster Gemeente+OCMW Jaarrekening 2025 — tick908
+Primary fin: https://www.ingelmunster.be/fileadmin/MEDIA/docs/bestuur/Beleidsrapporten/JR2025_beleidsevaluatie_en_financiele_nota.pdf
+Toelichting: https://www.ingelmunster.be/fileadmin/MEDIA/docs/bestuur/Beleidsrapporten/JR2025_toelichting.pdf
+Published: 23/04/2026
+
+BALANCE YE2025 / YE2024
+- Assets: 78,761,587 / 76,861,888
+- Equity: 63,956,083 / 61,227,439
+- Debt total (assets-equity): 14,805,504
+- Fin debt total (T4): 7,103,999 / 7,687,409
+  - LT: 6,264,994 / 6,823,445
+  - ST due: 839,004 / 863,965
+- Pension: 5,057,641 / 5,259,958
+- Cash: 13,736,110 / 15,338,901
+- Cap subs: 6,684,570 / 5,903,185
+- FVA IGS: 15,997,145 / 16,141,323
+- FVA total: 17,687,565 / 17,831,194
+
+J2 FLOW 2025
+- Expl rec 24,510,602 / exp 20,031,152 / saldo +4,479,450
+- Invest rec 1,334,353 / exp 6,485,189 / saldo -5,150,835
+- Fin saldo -583,411
+- Budget result -1,254,796
+- Cumul budget 15,186,776 / BBR 15,000,109 (onbeschikbaar 186,667)
+- AFM +3,612,729 / gecorr +3,864,457
+
+J5 / T2
+- Personnel 11,419,716 (onderwijs other 2,521,122)
+- Toelagen 3,358,184 (police 1,182,219 fire 287,778 IGS 1,150,708 other 695,904)
+- OCMW aid 1,271,060
+- Fiscal 10,837,629 (OV 5,255,523 APB 4,616,401)
+- Gemeentefonds 3,311,038
+- Invest-subs granted 194,543
+- New loans 283,311
+- Sportpark invest 4,297,680 (priority SD3)
+- OCMW deficit cover 3,000,000
+- P&L +2,057,421
+
+DUAL: Rumst assets 83m new loans 4.65m IGS 1.73m (tick907) — not TE-additive
+FOI: gap_ing_ocmw_sportpark_toelagen_l5 prio8 ready

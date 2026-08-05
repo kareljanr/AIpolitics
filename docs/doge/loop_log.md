@@ -11334,3 +11334,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_rum_*); commitments +4; leaderboard +7; sources +2; entity city_rumst; FOI **gap_rum_loans_igs_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_907=done; spawn **rq_908**; ticks=907
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_908** residual dual L5 (Roeselare/VUB/Ingelmunster/Zemst); deferred **rq_116**; progress@910 in 3
+
+## Tick 908 - 2026-08-07T02:45:00Z
+
+- Unit: **rq_908** (FOI-adjacent residual dual - **Gemeente+OCMW Ingelmunster Jaarrekening 2025** + Rumst dual)
+- Found (strong primary BBC fin nota 40p + toelichting T2/T4):
+  - Assets **EUR78.8m** / equity **EUR64.0m** / debt total **EUR14.8m** / fin debt **EUR7.10m** declining (LT **EUR6.26m** / ST due **EUR0.84m**)
+  - New loans **EUR0.28m** / pension **EUR5.06m** / cash **EUR13.7m** (was **EUR15.3m**)
+  - Exploitatie: ontvangsten **EUR24.5m** / uitgaven **EUR20.0m** / saldo **+EUR4.48m**
+  - AFM **+EUR3.61m** (gecorr **+EUR3.86m**) / BBR **EUR15.0m** / budget result **-EUR1.25m** / P&L **+EUR2.06m**
+  - Personnel **EUR11.4m** / toelagen **EUR3.36m** (police **EUR1.18m** / **IGS EUR1.15m FOI** / other **EUR0.70m FOI**) / fiscal **EUR10.8m**
+  - Invest **EUR6.49m** / **sportpark EUR4.30m FOI** / invest-subs **EUR0.19m** / gemeentefonds **EUR3.31m**
+  - **OCMW deficit cover EUR3.00m FOI** / onbeschikbaar kinderopvang **EUR0.19m**
+- Dual: Rumst **EUR83.2m** / new loans **EUR4.65m** / IGS **EUR1.73m** (tick907) - not TE-additive
+- Wrote: budgets +41 (bud_ing_*); commitments +4; leaderboard +7; sources +2; entity city_ingelmunster; FOI **gap_ing_ocmw_sportpark_toelagen_l5** prio8 ready + draft; raw PDFs + key; rq_908=done; spawn **rq_909**; ticks=908
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_909** residual dual L5 (Roeselare/VUB/Zemst/Opwijk); deferred **rq_116**; progress@910 in 2
