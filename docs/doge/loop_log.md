@@ -12046,3 +12046,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +27 (bud_agw2_*); commitments +4; leaderboard +7; sources +1; entity agb_wingene; FOI **gap_agw2_prijssubsidie_invest_payout_l5** prio8 ready + draft; key only; rq_949=done; spawn **rq_950 progress@950 prio10**; ticks=949
 - FOI: ready only - **do not send**
 - Next: **progress@950 NEXT** (prio10 rq_950); then residual dual L5; deferred **rq_116**
+
+
+### Tick 950 - 2026-08-07T23:45:00Z
+
+- Unit: **rq_950** (mandatory **progress@950** - coverage layers A-E + waste top10)
+- Inventory: budgets **~21577** / commitments **~2741** / leaderboard **~4450** / entities **~674** / sources **~1855** / FOI ready **~637** / answered **~9** / partial **~27** / total FOI **~679**
+- Coverage: A/B **100%** · C **~99%** · D **~74-88%** generous (gain = VL residual 941-949 + Entity II dual, not near-complete of EUR348bn) · E FOI-ready **~637**
+- Gain since tick940 (VL JR2025 residual 941-949, dual not TE-additive):
+  - AGB Deinze **EUR16.8m** / **phishing fin costs EUR0.41m** / debt **EUR14.5m**
+  - Wielsbeke **EUR90m** / **cash EUR10.2m JUMP** / debt **EUR24.9m declining** / AFM **+EUR4.55m**
+  - AGB Wielsbeke **EUR14.9m** / debt **EUR12.8m** / **corr AFM -EUR0.42m** / **renteloze path**
+  - Zedelgem **EUR137m** / **pension EUR9.23m** / early repay **EUR0.875m** / debt **EUR19.0m declining**
+  - Harelbeke **EUR191m** / **budget -EUR0.75m** / **toelagen EUR13.0m** / **FVA IGS EUR62.3m** / Fluvius lease / carryover **EUR11.6m**
+  - Zorgbedrijf Harelbeke **EUR44m** / debt **EUR16.0m** / **OCMW subsidies EUR4.58m** / nonfin **EUR3.54m**
+  - Anzegem **EUR108m** / **invest 24pct** / AFM **+EUR3.16m** / debt **EUR11.8m declining**
+  - Wingene fusion **EUR135m** / **pension EUR11.5m** / budget **-EUR3.62m** / cash **EUR19.4m**
+  - AGB Wingene **EUR8.2m** / **zero debt** / **prijssubsidies EUR1.34m** vs city **EUR0.92m**
+- Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@950; doge_waste_top10_current.md as-of 950; rq_950=done; spawn **rq_951** hole_fill; ticks=950
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_951** residual dual L5; deferred **rq_116**; progress@960 in 10

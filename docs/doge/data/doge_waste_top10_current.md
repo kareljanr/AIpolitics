@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **940** (2026-08-07) · **~4387** leaderboard rows  
+**As-of:** tick **950** (2026-08-07) · **~4450** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Deinze **€321m** / Kruisem **€133m** / Ichtegem **€94m** / Ardooie **€77m** / Haacht **€76m** / Affligem **€47m** / AGB Haacht **€9.5m** / AGB Ardooie **€3.0m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan stocks Deinze **new loans €10.8m MTN** / Ichtegem **€11.0m** / Kruisem **€2.5m** / Haacht police invest-subs **€3.45m** / Ardooie cash-funded invest **€8.08m** · Affligem **pension €9.93m** / **onbeschikbaar €2.34m** · AGB dual corr AFM neg + dividend (Haacht **€0.078m** / Ardooie **€0.049m**).
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Harelbeke **€191m** / Wingene **€135m** / Zedelgem **€137m** / Anzegem **€108m** / Wielsbeke **€90m** / Deinze **€321m** / Zorgbedrijf **€44m** / AGB stocks) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension stocks Wingene fusion **pension €11.5m** / Zedelgem **pension €9.23m** / Harelbeke **FVA IGS €62.3m** / **toelagen €13.0m** / AGB Wielsbeke **debt €12.8m renteloze** / Zorg **debt €16.0m**.
 
-**Change vs tick 930:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 931–939 (off pure top10 / dual):** Deinze **€321m** (**new loans €10.8m MTN**, fin debt **€56.6m rising**, **toelagen €15.3m**, invest **€19.2m**) · Ichtegem **€94m** (**bank €11.0m**, debt **€24.3m rising**) · Kruisem **€133m** (**bank €2.5m**, debt **€4.94m rising**) · Haacht **€76m** (**police invest-subs €3.45m**, budget **−€0.64m**) · Ardooie **€77m** (near-zero debt, **cash drop**, budget **−€3.22m**, **other toelagen €1.02m**) · Affligem **€47m** (**pension €9.93m**, **onbeschikbaar €2.34m**, **cum deficit €5.4m**, budget **−€0.87m**) · AGB Haacht **€9.5m** (**debt €8.88m**, **corr AFM −€0.063m**, **dividend €0.078m**) · AGB Ardooie **€3.0m** (**99y debt €2.02m**, **corr AFM −€0.068m**, **dividend €0.049m**, **prijssubsidie 10.2**) · Mercator Kapellen **MJP lease €2.91m planned**. Gain is **large-city MTN/bank re-leverage + Entity II corr AFM neg/dividend duals + cash-funded invest vs debt duals + pension/onbeschikbaar residual** more than FFS reshuffle.
+**Change vs tick 940:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 941–949 (off pure top10 / dual):** AGB Deinze **€16.8m** (**phishing fin costs €0.41m**, debt **€14.5m**) · Wielsbeke **€90m** (**cash JUMP €10.2m**, BBR **€9.49m**, debt **€24.9m declining**) · AGB Wielsbeke **€14.9m** (**debt €12.8m**, **corr AFM −€0.42m**, **renteloze path**) · Zedelgem **€137m** (**pension €9.23m**, early repay **€0.875m**, debt **€19.0m declining**) · Harelbeke **€191m** (**budget −€0.75m**, **toelagen €13.0m**, **FVA IGS €62.3m**, Fluvius lease, invest carryover **€11.6m**) · Zorgbedrijf Harelbeke **€44m** (**debt €16.0m**, **OCMW subsidies €4.58m**, nonfin **€3.54m**, personnel **€18.6m**) · Anzegem **€108m** (**invest 24pct**, AFM **+€3.16m**, debt **€11.8m declining**) · Wingene fusion **€135m** (**pension €11.5m**, budget **−€3.62m**, cash **€19.4m**) · AGB Wingene **€8.2m** (**zero debt**, **prijssubsidies €1.34m** vs city **€0.92m**). Gain is **fusion pension stock + Entity II renteloze/phishing duals + invest underspend + cash/BBR jumps + large-city toelagen/IGS equity** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_dei_fin_debt_56_6m_2025` | **56.6 m stock** | **~6.8** | **NEW 939** large-city debt rising |
-| — | `lb_dei_new_loans_10_8m_2025` | **10.8 m** | **~6.6** | **NEW 939** MTN Belfius path |
-| — | `lb_ich_bank_loans_11m_2025` | **11.0 m** | **~6.8** | **NEW 935** bank re-leverage |
-| — | `lb_aff_pension_9_93m_2025` | **9.93 m stock** | **~6.5** | **NEW 938** pension + deficit residual |
-| — | `lb_haa_invest_subs_police_3_45m_2025` | **3.45 m** | **~6.1** | **NEW 933** police capital jump |
-| — | `lb_ard_toelagen_other_1_02m_2025` | **1.02 m** | **~5.3** | **NEW 936** other toelagen opacity |
+| — | `lb_win_pension_11_5m_2025` | **11.5 m stock** | **~6.7** | **NEW 948** fusion pension residual |
+| — | `lb_har_fva_igs_62_3m_2025` | **62.3 m stock** | **~6.5** | **NEW 945** large IGS equity |
+| — | `lb_anz_invest_underspend_2025` | **2.92 m** | **~6.3** | **NEW 947** invest 24pct of MJP |
+| — | `lb_agw_renteloze_debt_path_2025` | **stock** | **~6.4** | **NEW 943** near-zero interest on €12.8m |
+| — | `lb_zhar_fin_debt_16_0m_2025` | **16.0 m stock** | **~6.2** | **NEW 946** Zorg leverage dual |
+| — | `lb_agd_fin_costs_jump_0_41m_2025` | **0.41 m** | **~** | **NEW 941** phishing impairment |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,12 +56,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_hag_dividend_corr_afm_neg_2025` | **8.5** | **NEW 934** AGB payout while corr AFM neg |
-| `lb_aag_dividend_corr_afm_neg_2025` | **8.5** | **NEW 937** AGB 99y debt + payout + corr AFM neg |
-| `lb_aag_prijssubsidie_recon_0_19m_2025` | **7.5** | **NEW 937** city toelage vs AGB books 0 |
-| `lb_aff_cum_deficit_5_40m_2025` | **8.0** | **NEW 938** cumulative equity deficit |
-| `lb_ard_budget_neg_3_22m_2025` | **8.0** | **NEW 936** cash-funded invest budget neg |
-| `lb_mrc_mjp_lease_2_9m_2025` | **8.0** | **NEW 931** MJP lease 2.91m not realized |
+| `lb_agw_renteloze_debt_path_2025` | **8.0** | **NEW 943** renteloze €12.8m debt path |
+| `lb_agd_fin_costs_jump_0_41m_2025` | **8.0** | **NEW 941** phishing fin costs jump |
+| `lb_anz_invest_underspend_2025` | **8.0** | **NEW 947** invest only 24pct MJP |
+| `lb_win_budget_neg_3_62m_2025` | **7.5** | **NEW 948** budget neg despite AFM +4.75m |
+| `lb_agw2_prijssubsidie_1_34m_2025` | **7.5** | **NEW 949** city toelage vs AGB prijssubsidie recon |
+| `lb_har_budget_neg_0_75m_2025` | **7.5** | **NEW 945** budget neg with BBR 23.6m |
 
 ### Methodology notes
 

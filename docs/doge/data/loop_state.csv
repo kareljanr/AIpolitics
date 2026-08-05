@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T23:15:00Z,rq_949,949,no,tick949 AGB Wingene JR2025 dual city; FOI gap_agw2_prijssubsidie_invest_payout_l5 prio8 assets 8.16m fin debt 0 prijssubsidies 1.34m; next progress@950 rq_950; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T23:45:00Z,rq_950,950,no,tick950 progress@950 coverage % + waste top10 after VL residual 941-949; FOI ready ~637; next residual dual L5 rq_951; rq_116 deferred

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 950** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 941-949: Harelbeke **EUR191m** / Wingene fusion **EUR135m** / Zedelgem **EUR137m** / Anzegem **EUR108m** / Wielsbeke **EUR90m** / AGB Wielsbeke **EUR14.9m** / AGB Deinze **EUR16.8m** / Zorgbedrijf Harelbeke **EUR44m** / AGB Wingene **EUR8.2m** · prior 931-939 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 940-950 is VL residual + Entity II dual (not near-complete of 348bn):** personnel Harelbeke **EUR27m** / Zorg **EUR18.6m** / Wingene **EUR12m** / Zedelgem **EUR14m** / Anzegem **EUR13m** · FOI-adjacent: Harelbeke **budget -EUR0.75m** / **toelagen EUR13.0m** / **FVA IGS EUR62.3m** / Fluvius lease / invest carryover **EUR11.6m** · Zedelgem **pension EUR9.23m** / early repay **EUR0.875m** / fin debt **EUR19.0m declining** · Anzegem **invest 24pct** (EUR2.92m of EUR12.4m) · Wingene fusion **pension EUR11.5m** / budget **-EUR3.62m** / cash **EUR19.4m** · AGB Wielsbeke **fin debt EUR12.8m** / **corr AFM -EUR0.42m** / **renteloze path** · AGB Deinze **phishing fin costs EUR0.41m** / debt **EUR14.5m** · Zorgbedrijf **fin debt EUR16.0m** / **OCMW subsidies EUR4.58m** / nonfin **EUR3.54m** · AGB Wingene **zero debt** / **prijssubsidies EUR1.34m** vs city toelage **EUR0.92m** · Wielsbeke **cash JUMP EUR10.2m** / BBR **EUR9.49m** |
+| **E. FOI-ready gaps** | **~637** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~679** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Harelbeke **EUR191m** / Wingene **EUR135m** / Zedelgem **EUR137m** / Anzegem **EUR108m** / Wielsbeke **EUR90m** / Deinze **EUR321m** not full TE) · **Zorgbedrijf Harelbeke EUR44m** · **AGB Wielsbeke EUR14.9m** · **AGB Deinze EUR16.8m** · **AGB Wingene EUR8.2m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 950)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~21577 |
+| commitments.csv | ~2741 |
+| leaderboard.csv | ~4450 |
+| entities.csv | ~674 |
+| sources.csv | ~1855 |
+| FOI ready | ~637 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~679 |
+| research_queue open | rq_116 deferred + rq_951 hole-fill after progress |
+
+### What improved since tick 940
+
+- **VL city/AGB/Zorg JR2025 residual (tick941-949):** AGB Deinze **EUR16.8m** / fin debt **EUR14.5m declining** / **phishing fin costs EUR0.41m** / new loans **EUR0.80m** · Wielsbeke **EUR90m** / fin debt **EUR24.9m declining 6th year** / **cash EUR10.2m JUMP** / BBR **EUR9.49m** / AFM **+EUR4.55m** · AGB Wielsbeke **EUR14.9m** / fin debt **EUR12.8m** / **corr AFM -EUR0.42m** / **renteloze near-zero interest** / prijssubsidie **EUR0.95m** · Zedelgem **EUR137m** / fin debt **EUR19.0m declining** / **pension EUR9.23m** / early repay **EUR0.875m** / toelagen **EUR5.70m** · Harelbeke **EUR191m** / fin debt **EUR15.8m declining** / **budget -EUR0.75m** / **toelagen EUR13.0m** / **FVA IGS EUR62.3m** / Fluvius lease / invest carryover **EUR11.6m** · Zorgbedrijf Harelbeke **EUR44m** / fin debt **EUR16.0m declining** / **OCMW subsidies EUR4.58m** / nonfin LT **EUR3.54m** / personnel **EUR18.6m** · Anzegem **EUR108m** / fin debt **EUR11.8m declining** / **invest 24pct** (EUR2.92m of EUR12.4m) / AFM **+EUR3.16m** · Wingene fusion **EUR135m** / fin debt **EUR7.09m declining** / **pension EUR11.5m** / budget **-EUR3.62m** / cash **EUR19.4m** / AGB toelage **EUR0.92m** · AGB Wingene **EUR8.2m** / **zero fin debt** / **prijssubsidies EUR1.34m** / invest underspend.
+- **Dual map:** Entity II leverage duals (AGB Deinze phishing / AGB Wielsbeke renteloze / Zorg debt vs city Fluvius) vs debt-free AGB Wingene · cash/BBR jump duals (Wielsbeke) vs budget-neg invest duals (Harelbeke / Wingene / Anzegem underspend) · pension stock duals (Zedelgem **EUR9.23m** / Wingene fusion **EUR11.5m**) · prijssubsidie recon duals (Wielsbeke AGB / Wingene AGB).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 940** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
