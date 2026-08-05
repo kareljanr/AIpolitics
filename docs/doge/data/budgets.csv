@@ -22940,3 +22940,48 @@ bud_sph_werkingsubs_rec_2025,city_spiere_helkijn,2025,1733636,,,realized,src_spi
 bud_sph_mjp_fin_debt_2026,city_spiere_helkijn,2025,1419180,,,realized,src_spiere_helkijn_jr2025,strong,MJP fin debt YE2026 1.42m declining; tick982
 bud_sph_costs_j5_2025,city_spiere_helkijn,2025,4589541,,,realized,src_spiere_helkijn_jr2025,strong,J5 total kosten 4.59m; tick982
 bud_sph_revenue_j5_2025,city_spiere_helkijn,2025,4774696,,,realized,src_spiere_helkijn_jr2025,strong,J5 total opbrengsten 4.77m; tick982
+bud_heu_assets_2025,city_heuvelland,2025,65424557,,,realized,src_heuvelland_jr2025,strong,Assets YE2025 65.4m; tick983
+bud_heu_equity_2025,city_heuvelland,2025,52111120,,,realized,src_heuvelland_jr2025,strong,Nettoactief YE2025 52.1m; tick983
+bud_heu_debt_total_2025,city_heuvelland,2025,13313437,,,realized,src_heuvelland_jr2025,strong,Total schulden YE2025 13.3m; tick983
+bud_heu_fin_debt_2025,city_heuvelland,2025,5332455,,,realized,src_heuvelland_jr2025,strong,Fin debt total YE2025 5.33m DECLINING (was 6.13m); tick983
+bud_heu_fin_debt_lt_2025,city_heuvelland,2025,4390376,,,realized,src_heuvelland_jr2025,strong,Fin debt LT YE2025 4.39m; tick983
+bud_heu_fin_debt_st_due_2025,city_heuvelland,2025,942079,,,realized,src_heuvelland_jr2025,strong,Fin debt ST due YE2025 0.942m; tick983
+bud_heu_new_loans_2025,city_heuvelland,2025,238565,,,realized,src_heuvelland_jr2025,strong,Nieuwe leningen/lease 0.239m FOI Fluvius-type; tick983
+bud_heu_repayments_2025,city_heuvelland,2025,1033037,,,realized,src_heuvelland_jr2025,strong,Periodieke aflossingen 1.03m; tick983
+bud_heu_cash_2025,city_heuvelland,2025,9191942,,,realized,src_heuvelland_jr2025,strong,Liquide middelen YE2025 9.19m DROP (was 12.7m) FOI; tick983
+bud_heu_pension_2025,city_heuvelland,2025,4701360,,,realized,src_heuvelland_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.70m DECLINING; tick983
+bud_heu_leasing_mva_2025,city_heuvelland,2025,2069069,,,realized,src_heuvelland_jr2025,strong,Leasing MVA YE2025 2.07m FOI (0.948+1.121); tick983
+bud_heu_fva_igs_2025,city_heuvelland,2025,10123051,,,realized,src_heuvelland_jr2025,strong,FVA IGS YE2025 10.1m; tick983
+bud_heu_cap_subs_2025,city_heuvelland,2025,9839434,,,realized,src_heuvelland_jr2025,strong,Kapitaalsubsidies YE2025 9.84m; tick983
+bud_heu_erfgoed_2025,city_heuvelland,2025,1846894,,,realized,src_heuvelland_jr2025,strong,Erfgoed MVA YE2025 1.85m FOI; tick983
+bud_heu_expl_rec_2025,city_heuvelland,2025,20784528,,,realized,src_heuvelland_jr2025,strong,Exploitatieontvangsten 20.8m; tick983
+bud_heu_expl_exp_2025,city_heuvelland,2025,17335606,,,realized,src_heuvelland_jr2025,strong,Exploitatieuitgaven 17.3m; tick983
+bud_heu_expl_saldo_2025,city_heuvelland,2025,3448922,,,realized,src_heuvelland_jr2025,strong,Exploitatiesaldo +3.45m STRONG; tick983
+bud_heu_invest_exp_2025,city_heuvelland,2025,5597772,,,realized,src_heuvelland_jr2025,strong,Investeringsuitgaven 5.60m vs MJP 10.72m underspend FOI; tick983
+bud_heu_invest_rec_2025,city_heuvelland,2025,628705,,,realized,src_heuvelland_jr2025,strong,Investeringsontvangsten 0.629m; tick983
+bud_heu_invest_saldo_2025,city_heuvelland,2025,-4969067,,,realized,src_heuvelland_jr2025,strong,Investeringssaldo -4.97m; tick983
+bud_heu_fin_rec_2025,city_heuvelland,2025,238565,,,realized,src_heuvelland_jr2025,strong,Financieringsontvangsten 0.239m; tick983
+bud_heu_fin_exp_2025,city_heuvelland,2025,1033037,,,realized,src_heuvelland_jr2025,strong,Financieringsuitgaven 1.03m; tick983
+bud_heu_budget_result_2025,city_heuvelland,2025,-2314617,,,realized,src_heuvelland_jr2025,strong,Budgettair resultaat -2.31m FOI cash drop invest; tick983
+bud_heu_cum_budget_2025,city_heuvelland,2025,8327187,,,realized,src_heuvelland_jr2025,strong,Gecumuleerd budgettair resultaat 8.33m; tick983
+bud_heu_bbr_2025,city_heuvelland,2025,8327187,,,realized,src_heuvelland_jr2025,strong,Beschikbaar BBR 8.33m HIGH; tick983
+bud_heu_afm_2025,city_heuvelland,2025,2415885,,,realized,src_heuvelland_jr2025,strong,AFM +2.42m STRONG; tick983
+bud_heu_afm_corr_2025,city_heuvelland,2025,2958768,,,realized,src_heuvelland_jr2025,strong,Gecorrigeerde AFM +2.96m; tick983
+bud_heu_pnl_2025,city_heuvelland,2025,2269898,,,realized,src_heuvelland_jr2025,strong,P&L +2.27m (GE +3.17m / OCMW -0.897m FOI); tick983
+bud_heu_personnel_2025,city_heuvelland,2025,10175860,,,realized,src_heuvelland_jr2025,strong,Bezoldigingen 10.2m FOI; tick983
+bud_heu_goederen_2025,city_heuvelland,2025,4707507,,,realized,src_heuvelland_jr2025,strong,Goederen en diensten 4.71m; tick983
+bud_heu_toelagen_2025,city_heuvelland,2025,1983734,,,realized,src_heuvelland_jr2025,strong,Toegestane werkingssubsidies 1.98m FOI named; tick983
+bud_heu_toelage_police_2025,city_heuvelland,2025,720450,,,realized,src_heuvelland_jr2025,strong,Toelage politiezone 0.720m FOI; tick983
+bud_heu_toelage_fire_2025,city_heuvelland,2025,353938,,,realized,src_heuvelland_jr2025,strong,Toelage HVZ 0.354m FOI; tick983
+bud_heu_toelage_igs_2025,city_heuvelland,2025,554882,,,realized,src_heuvelland_jr2025,strong,Toelage IGS 0.555m FOI; tick983
+bud_heu_toelage_other_2025,city_heuvelland,2025,326208,,,realized,src_heuvelland_jr2025,strong,Toelage andere begunstigden 0.326m FOI; tick983
+bud_heu_ocmw_aid_2025,city_heuvelland,2025,177943,,,realized,src_heuvelland_jr2025,strong,Individuele hulp OCMW 0.178m FOI; tick983
+bud_heu_ocmw_cover_2025,city_heuvelland,2025,0,,,realized,src_heuvelland_jr2025,strong,OCMW cover 0 FOI residual (OCMW P&L neg); tick983
+bud_heu_ocmw_pnl_neg_2025,city_heuvelland,2025,-896765,,,realized,src_heuvelland_jr2025,strong,OCMW P&L -0.897m FOI residual; tick983
+bud_heu_ocmw_cum_deficit_2025,city_heuvelland,2025,-2376158,,,realized,src_heuvelland_jr2025,strong,OCMW cum deficit -2.38m FOI residual no cover 2025; tick983
+bud_heu_ge_pnl_2025,city_heuvelland,2025,3166664,,,realized,src_heuvelland_jr2025,strong,Gemeente P&L +3.17m; tick983
+bud_heu_fiscal_2025,city_heuvelland,2025,7617715,,,realized,src_heuvelland_jr2025,strong,Fiscale opbrengsten 7.62m; tick983
+bud_heu_werkingsubs_rec_2025,city_heuvelland,2025,7274914,,,realized,src_heuvelland_jr2025,strong,Ontvangen werkingssubsidies 7.27m; tick983
+bud_heu_kemmel_kerk_invest_2025,city_heuvelland,2025,736605,,,realized,src_heuvelland_jr2025,strong,Sint-Laurentiuskerk Kemmel invest 0.737m FOI residual; tick983
+bud_heu_costs_j5_2025,city_heuvelland,2025,19281370,,,realized,src_heuvelland_jr2025,strong,J5 total kosten 19.3m; tick983
+bud_heu_revenue_j5_2025,city_heuvelland,2025,21551268,,,realized,src_heuvelland_jr2025,strong,J5 total opbrengsten 21.6m; tick983

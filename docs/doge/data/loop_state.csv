@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T04:00:00Z,rq_982,982,no,tick982 Spiere-Helkijn GE+OCMW JR2025 dual residual; FOI gap_sph_ocmw_toelagen_pension_invest_l5 prio8 assets 13.4m fin debt 1.67m declining cash 1.19m AFM +0.421m OCMW cover 0.313m toelagen 0.548m pension 1.24m rising; next residual dual L5 rq_983; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T04:45:00Z,rq_983,983,no,tick983 Heuvelland GE+OCMW JR2025 dual residual; FOI gap_heu_ocmw_deficit_cash_toelagen_l5 prio8 assets 65.4m fin debt 5.33m declining cash 9.19m DROP AFM +2.42m budget -2.31m OCMW cover 0 cum deficit -2.38m toelagen 1.98m leasing 2.07m; next residual dual L5 rq_984; rq_116 deferred

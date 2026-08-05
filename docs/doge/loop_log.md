@@ -12663,3 +12663,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_sph_*); commitments +5; leaderboard +7; sources +1; entity city_spiere_helkijn; FOI **gap_sph_ocmw_toelagen_pension_invest_l5** prio8 ready + draft; key only (PDFs not stored in git); rq_982=done; spawn **rq_983**; ticks=982
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_983** residual dual L5 (Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 8
+
+### Tick 983 - 2026-08-09T04:45:00Z
+
+- Unit: **rq_983** (FOI-adjacent residual dual - **Gemeente+OCMW Heuvelland Jaarrekening 2025** + Spiere-Helkijn dual residual)
+- Found (strong primary BBC JR2025 98p; KBO 0216.770.056 / OCMW 0216.770.155; FD Gudrun Glorieux; AD Ben Hamerlinck; Bergstraat 24):
+  - Assets **EUR65.4m** / equity **EUR52.1m** / debt total **EUR13.3m** / fin debt **EUR5.33m** (**DECLINING** from **EUR6.13m**; LT **EUR4.39m** / ST due **EUR0.942m**)
+  - New loans/lease **EUR0.239m** / repayments **EUR1.03m**
+  - Cash **EUR9.19m DROP** (was **EUR12.7m**) / pension **EUR4.70m DECLINING** / leasing MVA **EUR2.07m FOI** / FVA IGS **EUR10.1m** / erfgoed **EUR1.85m**
+  - Exploitatie: ontvangsten **EUR20.8m** / uitgaven **EUR17.3m** / saldo **+EUR3.45m**
+  - AFM **+EUR2.42m STRONG** (gecorr **+EUR2.96m**) / BBR **EUR8.33m HIGH** / budget **-EUR2.31m FOI** / P&L **+EUR2.27m** (GE **+EUR3.17m** / OCMW **-EUR0.897m FOI**)
+  - Personnel **EUR10.2m** / toelagen **EUR1.98m FOI** (police **EUR0.720m** / IGS **EUR0.555m** / fire **EUR0.354m** / other **EUR0.326m**)
+  - Invest **EUR5.60m** vs MJP **EUR10.72m underspend FOI** / Kemmel church **EUR0.737m** / **OCMW cover EUR0** / **OCMW cum deficit -EUR2.38m FOI** (was -1.48m)
+- Dual: Spiere-Helkijn **EUR13.4m** / OCMW cover **EUR0.313m** / fin debt declining (tick982) - not TE-additive
+- Note: Ledegem/Torhout/WZBW still no extractable full JR2025 this tick; Kortemark/Lo-Reninge JR2025 public next residual
+- Wrote: budgets +45 (bud_heu_*); commitments +5; leaderboard +7; sources +1; entity city_heuvelland; FOI **gap_heu_ocmw_deficit_cash_toelagen_l5** prio8 ready + draft; key only (PDF ~6.6MB not stored in git); rq_983=done; spawn **rq_984**; ticks=983
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_984** residual dual L5 (Kortemark / Lo-Reninge / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 7
