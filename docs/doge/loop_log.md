@@ -13523,3 +13523,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1029** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / other); deferred **rq_116**; progress@1030 in 1
 
+
+### Tick 1029 - 2026-08-10T03:45:00Z
+
+- Unit: **rq_1029** (FOI-adjacent residual dual - **Gemeente+OCMW Zandhoven Jaarrekening 2025** + Arendonk dual residual)
+- Found (strong primary BBC JR2025 159p via echo GR 25.06.2026; KBO 0207.539.220 / OCMW 0212.191.359; AD Annick Smeets; FD wnd Paul Lenaerts; Liersebaan 12):
+  - Assets **EUR78.23m JUMP** (was **EUR66.31m**) / equity **EUR57.17m** / debt total **EUR21.06m JUMP** / fin debt **EUR11.89m JUMP** (was **EUR6.70m**; LT **EUR10.91m** / ST due **EUR0.974m**)
+  - New loans **EUR7.88m JUMP HIGH FOI** / repayments **EUR0.688m**
+  - Cash **EUR7.42m JUMP** (was **EUR5.11m**) / pension **EUR5.60m JUMP FOI** (was **EUR4.60m**) / cap subs **EUR4.09m** / FVA IGS **EUR8.93m JUMP FOI** (was **EUR4.84m**) / leasing MVA **EUR1.23m**
+  - Exploitatie: ontvangsten **EUR23.63m** / uitgaven **EUR20.16m** / saldo **+EUR3.47m STRONG**
+  - AFM **+EUR2.93m STRONG** (gecorr **+EUR3.08m**) / BBR **EUR6.98m VERY HIGH** / budget **+EUR3.67m STRONG** (loan-driven) / cum BR **EUR6.98m** / P&L **+EUR0.959m**
+  - Personnel **EUR10.86m** (edu pass-through **EUR2.89m**) / toelagen **EUR3.14m FOI** (police **EUR2.02m** / fire **EUR0.487m** / AGB **EUR0.295m** / other **EUR0.259m**)
+  - Invest **EUR7.80m** vs MJP **EUR9.75m UNDERSPEND FOI** / invest-subs granted **EUR1.03m JUMP** / **OCMW cover EUR0 ZERO FOI** / OCMW expl gap **-EUR1.01m** / OCMW budget **-EUR0.941m** / OCMW cum BR **-EUR5.16m** / OCMW AFM **-EUR1.05m**
+- Dual: Arendonk assets **EUR142.05m** / OCMW equity **-EUR17.24m** (tick1028) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Ranst only JR2024 published; Vorselaar docs-only residual
+- Wrote: budgets +55 (bud_zan_*); commitments +6; leaderboard +8; sources +1; entity city_zandhoven; FOI **gap_zan_loans_ocmw_toelagen_pension_l5** prio9 ready + draft; key only (PDF ~6.6MB not stored in git); rq_1029=done; spawn **rq_1030**; ticks=1029
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1030** residual dual L5 + **decade progress refresh**; deferred **rq_116**; progress@1030 next tick
+

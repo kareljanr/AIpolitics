@@ -25153,3 +25153,59 @@ bud_are_invest_subs_granted_2025,city_arendonk,2025,182778,,,bbc_jr_realized,src
 bud_are_agb_bbr_2025,city_arendonk,2025,332238,,,bbc_jr_realized,src_arendonk_jr2025,strong,AGB BBR 0.332m dual; tick1028
 bud_are_agb_afm_2025,city_arendonk,2025,44402,,,bbc_jr_realized,src_arendonk_jr2025,strong,AGB AFM +0.044m dual; tick1028
 bud_are_agb_afm_corr_2025,city_arendonk,2025,-460815,,,bbc_jr_realized,src_arendonk_jr2025,strong,AGB gecorr AFM -0.461m NEG dual FOI; tick1028
+bud_zan_assets_2025,city_zandhoven,2025,78231616,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Assets YE2025 78.23m JUMP (was 66.31m); tick1029
+bud_zan_equity_2025,city_zandhoven,2025,57168438,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Nettoactief YE2025 57.17m JUMP (was 52.69m); tick1029
+bud_zan_debt_total_2025,city_zandhoven,2025,21063178,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Total schulden YE2025 21.06m JUMP; tick1029
+bud_zan_fin_debt_2025,city_zandhoven,2025,11887315,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Fin debt total YE2025 11.89m JUMP (was 6.70m T4); tick1029
+bud_zan_fin_debt_lt_2025,city_zandhoven,2025,10913428,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Fin debt LT YE2025 10.91m JUMP (was 4.02m); tick1029
+bud_zan_fin_debt_st_due_2025,city_zandhoven,2025,973887,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Fin debt ST due YE2025 0.974m; tick1029
+bud_zan_fin_debt_st_2025,city_zandhoven,2025,0,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Fin debt ST treasury YE2025 0 (was 2.00m 2024); tick1029
+bud_zan_new_loans_2025,city_zandhoven,2025,7875705,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Nieuwe leningen 2025 7.88m JUMP HIGH FOI; tick1029
+bud_zan_aflossingen_2025,city_zandhoven,2025,687650,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Periodieke aflossingen 2025 0.688m; tick1029
+bud_zan_cash_2025,city_zandhoven,2025,7424086,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Liquide middelen YE2025 7.42m JUMP (was 5.11m); tick1029
+bud_zan_pension_2025,city_zandhoven,2025,5598558,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.60m JUMP FOI (was 4.60m); tick1029
+bud_zan_cap_subs_2025,city_zandhoven,2025,4089628,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Kapitaalsubsidies YE2025 4.09m; tick1029
+bud_zan_fva_total_2025,city_zandhoven,2025,8934894,,,bbc_jr_realized,src_zandhoven_jr2025,strong,FVA total YE2025 8.93m JUMP FOI; tick1029
+bud_zan_fva_igs_2025,city_zandhoven,2025,8926153,,,bbc_jr_realized,src_zandhoven_jr2025,strong,FVA IGS YE2025 8.93m JUMP FOI (was 4.84m); tick1029
+bud_zan_leasing_mva_2025,city_zandhoven,2025,1225283,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Leasing MVA YE2025 1.23m; tick1029
+bud_zan_expl_rec_2025,city_zandhoven,2025,23632495,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Exploitatieontvangsten 23.63m; tick1029
+bud_zan_expl_exp_2025,city_zandhoven,2025,20164692,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Exploitatieuitgaven 20.16m; tick1029
+bud_zan_expl_saldo_2025,city_zandhoven,2025,3467803,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Exploitatiesaldo +3.47m STRONG; tick1029
+bud_zan_invest_exp_2025,city_zandhoven,2025,7798184,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Investeringsuitgaven 7.80m vs MJP 9.75m UNDERSPEND FOI; tick1029
+bud_zan_invest_rec_2025,city_zandhoven,2025,684286,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Investeringsontvangsten 0.684m; tick1029
+bud_zan_invest_saldo_2025,city_zandhoven,2025,-7113897,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Investeringssaldo -7.11m; tick1029
+bud_zan_mjp_invest_planned_2025,city_zandhoven,2025,9748607,,,bbc_jr_realized,src_zandhoven_jr2025,strong,MJP invest planned 9.75m vs realized 7.80m underspend FOI; tick1029
+bud_zan_afm_2025,city_zandhoven,2025,2925761,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AFM +2.93m STRONG; tick1029
+bud_zan_afm_corr_2025,city_zandhoven,2025,3077470,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Gecorrigeerde AFM +3.08m STRONG; tick1029
+bud_zan_bbr_2025,city_zandhoven,2025,6976191,,,bbc_jr_realized,src_zandhoven_jr2025,strong,BBR beschikbaar +6.98m VERY HIGH; tick1029
+bud_zan_budget_result_2025,city_zandhoven,2025,3667538,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Budgettair resultaat +3.67m STRONG (loan-driven); tick1029
+bud_zan_cum_br_2025,city_zandhoven,2025,6976191,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Gecumuleerd budgettair resultaat +6.98m; tick1029
+bud_zan_pnl_2025,city_zandhoven,2025,959005,,,bbc_jr_realized,src_zandhoven_jr2025,strong,P&L +0.959m STRONG; tick1029
+bud_zan_ge_expl_exp_2025,city_zandhoven,2025,17939337,,,bbc_jr_realized,src_zandhoven_jr2025,strong,GE exploitatieuitgaven kengetallen 17.94m; tick1029
+bud_zan_ge_expl_rec_2025,city_zandhoven,2025,22417123,,,bbc_jr_realized,src_zandhoven_jr2025,strong,GE exploitatieontvangsten kengetallen 22.42m; tick1029
+bud_zan_ocmw_expl_exp_2025,city_zandhoven,2025,2225355,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW exploitatieuitgaven 2.23m FOI; tick1029
+bud_zan_ocmw_expl_rec_2025,city_zandhoven,2025,1215373,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW exploitatieontvangsten 1.22m; tick1029
+bud_zan_ocmw_expl_gap_2025,city_zandhoven,2025,-1009983,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW expl gap -1.01m HIGH FOI residual; tick1029
+bud_zan_ocmw_cover_2025,city_zandhoven,2025,0,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1029
+bud_zan_ocmw_budget_result_2025,city_zandhoven,2025,-941174,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW budget result -0.941m FOI; tick1029
+bud_zan_ocmw_cum_br_2025,city_zandhoven,2025,-5155287,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW cum BR -5.16m WORSENING FOI; tick1029
+bud_zan_ocmw_afm_2025,city_zandhoven,2025,-1053684,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW AFM -1.05m NEG FOI; tick1029
+bud_zan_ge_cum_br_2025,city_zandhoven,2025,12131479,,,bbc_jr_realized,src_zandhoven_jr2025,strong,GE cum BR +12.13m; tick1029
+bud_zan_ge_afm_2025,city_zandhoven,2025,3979445,,,bbc_jr_realized,src_zandhoven_jr2025,strong,GE AFM +3.98m; tick1029
+bud_zan_equity_cum_2025,city_zandhoven,2025,6627070,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Gecumuleerd equity overschot YE2025 +6.63m; tick1029
+bud_zan_personnel_2025,city_zandhoven,2025,10862866,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Bezoldigingen 10.86m incl education pass-through 2.89m; tick1029
+bud_zan_edu_pass_through_2025,city_zandhoven,2025,2890244,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.89m; tick1029
+bud_zan_toelagen_2025,city_zandhoven,2025,3141996,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Toegestane werkingssubsidies 3.14m FOI residual; tick1029
+bud_zan_toelagen_police_2025,city_zandhoven,2025,2023747,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Toelage politiezone 2.02m; tick1029
+bud_zan_toelagen_fire_2025,city_zandhoven,2025,487360,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Toelage hulpverleningszone 0.487m; tick1029
+bud_zan_toelagen_agb_2025,city_zandhoven,2025,295421,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Toelage AGB 0.295m dual FOI; tick1029
+bud_zan_toelagen_other_2025,city_zandhoven,2025,259149,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Toelage andere begunstigden 0.259m FOI; tick1029
+bud_zan_ocmw_aid_2025,city_zandhoven,2025,792099,,,bbc_jr_realized,src_zandhoven_jr2025,strong,OCMW individuele hulp 0.792m; tick1029
+bud_zan_fiscal_2025,city_zandhoven,2025,11561809,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Fiscale opbrengsten 11.56m; tick1029
+bud_zan_fiscal_ov_2025,city_zandhoven,2025,4213790,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Opcentiemen OV 4.21m; tick1029
+bud_zan_gemeentefonds_2025,city_zandhoven,2025,3501749,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Gemeentefonds 3.50m; tick1029
+bud_zan_interest_2025,city_zandhoven,2025,284218,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Intresten op leningen 0.284m; tick1029
+bud_zan_invest_subs_granted_2025,city_zandhoven,2025,1032313,,,bbc_jr_realized,src_zandhoven_jr2025,strong,Toegestane invest-subs 1.03m JUMP HIGH FOI; tick1029
+bud_zan_agb_bbr_2025,city_zandhoven,2025,28946,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AGB BBR 0.029m dual; tick1029
+bud_zan_agb_afm_2025,city_zandhoven,2025,-2491,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AGB AFM -0.002m dual; tick1029
+bud_zan_agb_afm_corr_2025,city_zandhoven,2025,-4311,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AGB gecorr AFM -0.004m dual; tick1029
