@@ -13485,3 +13485,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1027** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / other); deferred **rq_116**; progress@1030 in 3
 
+
+### Tick 1027 - 2026-08-10T02:45:00Z
+
+- Unit: **rq_1027** (FOI-adjacent residual dual - **Gemeente+OCMW Kontich Jaarrekening 2025** + Lint dual residual)
+- Found (strong primary BBC JR2025 83p; KBO 0207.536.250 / OCMW 0212.188.983; AD Kizzy Rombaut; FD Kris Versteven; BM Bart Seldeslachts; Gemeenteplein 1 NIS 11024):
+  - Assets **EUR138.81m** / equity **EUR106.10m** / debt total **EUR32.71m JUMP** / fin debt **EUR19.36m JUMP** (was **EUR16.46m**; LT **EUR13.43m** / ST due **EUR2.63m** / ST **EUR3.30m JUMP FOI**)
+  - New loans **EUR5.00m JUMP HIGH FOI** / repayments **EUR2.90m** / MJP new loans 2026 planned **EUR7.80m FOI**
+  - Cash **EUR1.63m LOW** (was **EUR1.45m**) / pension **EUR6.55m** / cap subs **EUR8.61m** / FVA IGS **EUR12.96m** / leasing MVA **EUR1.71m**
+  - Exploitatie: ontvangsten **EUR42.71m** / uitgaven **EUR38.92m** / saldo **+EUR3.79m STRONG**
+  - AFM **+EUR1.85m STRONG** (gecorr **+EUR3.43m**) / BBR **-EUR1.78m NEG HIGH FOI** / budget **-EUR1.28m NEG HIGH FOI** / cum BR **-EUR0.157m** / P&L **-EUR0.223m flip FOI**
+  - Personnel **EUR21.11m** (edu pass-through **EUR1.96m**) / toelagen **EUR5.44m FOI** (police **EUR3.42m JUMP** / fire **EUR0.853m** / AGB **EUR0.650m** / other **EUR0.505m**)
+  - Invest **EUR8.40m** vs MJP **EUR12.66m UNDERSPEND FOI** / **OCMW cover EUR0 ZERO FOI** / OCMW expl gap **-EUR3.22m** / OCMW equity cum **-EUR18.05m WORSENING** (was -14.85m)
+  - AGB dual: BBR **EUR0.187m** / AFM **+EUR0.023m** / gecorr AFM **-EUR0.346m NEG FOI**
+- Dual: Lint assets **EUR54.70m** / OCMW cover 0 / pension JUMP **EUR5.98m** (tick1026) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Arendonk optional residual
+- Wrote: budgets +56 (bud_kon_*); commitments +6; leaderboard +8; sources +1; entity city_kontich; FOI **gap_kon_bbr_debt_ocmw_toelagen_l5** prio9 ready + draft; key only (PDF not stored in git); rq_1027=done; spawn **rq_1028**; ticks=1027
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1028** residual dual L5 (Torhout / Arendonk / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / other); deferred **rq_116**; progress@1030 in 2
+

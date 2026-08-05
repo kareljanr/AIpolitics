@@ -25040,3 +25040,59 @@ bud_lin_fin_opbr_2025,city_lint,2025,568795,,,bbc_jr_realized,src_lint_jr2025,st
 bud_lin_invest_subs_granted_2025,city_lint,2025,178089,,,bbc_jr_realized,src_lint_jr2025,strong,Toegestane invest-subs 0.178m JUMP; tick1026
 bud_lin_toegestane_leningen_2025,city_lint,2025,125000,,,bbc_jr_realized,src_lint_jr2025,strong,Toegestane leningen 0.125m FOI; tick1026
 bud_lin_interest_2025,city_lint,2025,365249,,,bbc_jr_realized,src_lint_jr2025,strong,Intresten op leningen 0.365m; tick1026
+bud_kon_assets_2025,city_kontich,2025,138809120,,,bbc_jr_realized,src_kontich_jr2025,strong,Assets YE2025 138.81m (was 136.40m JUMP); tick1027
+bud_kon_equity_2025,city_kontich,2025,106096451,,,bbc_jr_realized,src_kontich_jr2025,strong,Nettoactief YE2025 106.10m (was 106.40m); tick1027
+bud_kon_debt_total_2025,city_kontich,2025,32712670,,,bbc_jr_realized,src_kontich_jr2025,strong,Total schulden YE2025 32.71m JUMP; tick1027
+bud_kon_fin_debt_2025,city_kontich,2025,19360511,,,bbc_jr_realized,src_kontich_jr2025,strong,Fin debt total YE2025 19.36m JUMP (was 16.46m T4); tick1027
+bud_kon_fin_debt_lt_2025,city_kontich,2025,13433432,,,bbc_jr_realized,src_kontich_jr2025,strong,Fin debt LT YE2025 13.43m JUMP (was 11.19m); tick1027
+bud_kon_fin_debt_st_due_2025,city_kontich,2025,2627079,,,bbc_jr_realized,src_kontich_jr2025,strong,Fin debt ST due YE2025 2.63m; tick1027
+bud_kon_fin_debt_st_2025,city_kontich,2025,3300000,,,bbc_jr_realized,src_kontich_jr2025,strong,Fin debt ST YE2025 3.30m JUMP FOI (was 2.50m treasury); tick1027
+bud_kon_new_loans_2025,city_kontich,2025,5000000,,,bbc_jr_realized,src_kontich_jr2025,strong,Nieuwe leningen 2025 5.00m JUMP HIGH FOI bank; tick1027
+bud_kon_aflossingen_2025,city_kontich,2025,2896871,,,bbc_jr_realized,src_kontich_jr2025,strong,Periodieke aflossingen 2025 2.90m; tick1027
+bud_kon_mjp_new_loans_2026,city_kontich,2025,7800000,,,bbc_jr_realized,src_kontich_jr2025,strong,MJP new loans 2026 planned 7.80m JUMP FOI; tick1027
+bud_kon_cash_2025,city_kontich,2025,1631775,,,bbc_jr_realized,src_kontich_jr2025,strong,Liquide middelen YE2025 1.63m LOW (was 1.45m); tick1027
+bud_kon_pension_2025,city_kontich,2025,6553025,,,bbc_jr_realized,src_kontich_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.55m; tick1027
+bud_kon_cap_subs_2025,city_kontich,2025,8612440,,,bbc_jr_realized,src_kontich_jr2025,strong,Kapitaalsubsidies YE2025 8.61m; tick1027
+bud_kon_fva_total_2025,city_kontich,2025,13263388,,,bbc_jr_realized,src_kontich_jr2025,strong,FVA total YE2025 13.26m; tick1027
+bud_kon_fva_igs_2025,city_kontich,2025,12964789,,,bbc_jr_realized,src_kontich_jr2025,strong,FVA IGS YE2025 12.96m; tick1027
+bud_kon_leasing_mva_2025,city_kontich,2025,1713375,,,bbc_jr_realized,src_kontich_jr2025,strong,Leasing MVA YE2025 1.71m; tick1027
+bud_kon_expl_rec_2025,city_kontich,2025,42709262,,,bbc_jr_realized,src_kontich_jr2025,strong,Exploitatieontvangsten 42.71m; tick1027
+bud_kon_expl_exp_2025,city_kontich,2025,38915536,,,bbc_jr_realized,src_kontich_jr2025,strong,Exploitatieuitgaven 38.92m; tick1027
+bud_kon_expl_saldo_2025,city_kontich,2025,3793725,,,bbc_jr_realized,src_kontich_jr2025,strong,Exploitatiesaldo +3.79m STRONG; tick1027
+bud_kon_invest_exp_2025,city_kontich,2025,8395815,,,bbc_jr_realized,src_kontich_jr2025,strong,Investeringsuitgaven 8.40m vs MJP 12.66m UNDERSPEND FOI; tick1027
+bud_kon_invest_rec_2025,city_kontich,2025,385836,,,bbc_jr_realized,src_kontich_jr2025,strong,Investeringsontvangsten 0.386m; tick1027
+bud_kon_invest_saldo_2025,city_kontich,2025,-8009979,,,bbc_jr_realized,src_kontich_jr2025,strong,Investeringssaldo -8.01m; tick1027
+bud_kon_mjp_invest_planned_2025,city_kontich,2025,12656868,,,bbc_jr_realized,src_kontich_jr2025,strong,MJP invest planned 12.66m vs realized 8.40m underspend FOI; tick1027
+bud_kon_afm_2025,city_kontich,2025,1854415,,,bbc_jr_realized,src_kontich_jr2025,strong,AFM +1.85m STRONG; tick1027
+bud_kon_afm_corr_2025,city_kontich,2025,3434695,,,bbc_jr_realized,src_kontich_jr2025,strong,Gecorrigeerde AFM +3.43m STRONG; tick1027
+bud_kon_bbr_2025,city_kontich,2025,-1778172,,,bbc_jr_realized,src_kontich_jr2025,strong,BBR beschikbaar -1.78m NEG HIGH FOI; tick1027
+bud_kon_budget_result_2025,city_kontich,2025,-1284375,,,bbc_jr_realized,src_kontich_jr2025,strong,Budgettair resultaat -1.28m NEG HIGH FOI; tick1027
+bud_kon_cum_br_2025,city_kontich,2025,-156640,,,bbc_jr_realized,src_kontich_jr2025,strong,Gecumuleerd budgettair resultaat -0.157m NEG FOI; tick1027
+bud_kon_onbeschikbaar_2025,city_kontich,2025,1621533,,,bbc_jr_realized,src_kontich_jr2025,strong,Onbeschikbare gelden 1.62m HIGH FOI; tick1027
+bud_kon_pnl_2025,city_kontich,2025,-222845,,,bbc_jr_realized,src_kontich_jr2025,strong,P&L -0.223m (was +0.854m flip FOI); tick1027
+bud_kon_ge_expl_exp_2025,city_kontich,2025,28749847,,,bbc_jr_realized,src_kontich_jr2025,strong,GE exploitatieuitgaven J3 28.75m; tick1027
+bud_kon_ge_expl_rec_2025,city_kontich,2025,35759413,,,bbc_jr_realized,src_kontich_jr2025,strong,GE exploitatieontvangsten J3 35.76m; tick1027
+bud_kon_ocmw_expl_exp_2025,city_kontich,2025,10165689,,,bbc_jr_realized,src_kontich_jr2025,strong,OCMW exploitatieuitgaven J3 10.17m FOI; tick1027
+bud_kon_ocmw_expl_rec_2025,city_kontich,2025,6949848,,,bbc_jr_realized,src_kontich_jr2025,strong,OCMW exploitatieontvangsten J3 6.95m; tick1027
+bud_kon_ocmw_expl_gap_2025,city_kontich,2025,-3215841,,,bbc_jr_realized,src_kontich_jr2025,strong,OCMW expl gap J3 -3.22m HIGH FOI residual; tick1027
+bud_kon_ocmw_cover_2025,city_kontich,2025,0,,,bbc_jr_realized,src_kontich_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1027
+bud_kon_equity_cum_2025,city_kontich,2025,31467370,,,bbc_jr_realized,src_kontich_jr2025,strong,Gecumuleerd equity overschot YE2025 +31.47m; tick1027
+bud_kon_ocmw_equity_cum_2025,city_kontich,2025,-18052491,,,bbc_jr_realized,src_kontich_jr2025,strong,OCMW equity cum -18.05m WORSENING FOI (was -14.85m; cover 0); tick1027
+bud_kon_personnel_2025,city_kontich,2025,21111399,,,bbc_jr_realized,src_kontich_jr2025,strong,Bezoldigingen 21.11m incl education pass-through 1.96m; tick1027
+bud_kon_edu_pass_through_2025,city_kontich,2025,1960206,,,bbc_jr_realized,src_kontich_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.96m; tick1027
+bud_kon_toelagen_2025,city_kontich,2025,5436102,,,bbc_jr_realized,src_kontich_jr2025,strong,Toegestane werkingssubsidies 5.44m FOI residual; tick1027
+bud_kon_toelagen_police_2025,city_kontich,2025,3415848,,,bbc_jr_realized,src_kontich_jr2025,strong,Toelage politiezone 3.42m JUMP; tick1027
+bud_kon_toelagen_fire_2025,city_kontich,2025,852950,,,bbc_jr_realized,src_kontich_jr2025,strong,Toelage hulpverleningszone 0.853m; tick1027
+bud_kon_toelagen_agb_2025,city_kontich,2025,649549,,,bbc_jr_realized,src_kontich_jr2025,strong,Toelage AGB Kontich 0.650m dual FOI; tick1027
+bud_kon_toelagen_other_2025,city_kontich,2025,504546,,,bbc_jr_realized,src_kontich_jr2025,strong,Toelage andere begunstigden 0.505m FOI; tick1027
+bud_kon_ocmw_aid_2025,city_kontich,2025,2615583,,,bbc_jr_realized,src_kontich_jr2025,strong,OCMW individuele hulp 2.62m; tick1027
+bud_kon_fiscal_2025,city_kontich,2025,23608523,,,bbc_jr_realized,src_kontich_jr2025,strong,Fiscale opbrengsten 23.61m; tick1027
+bud_kon_fiscal_ov_2025,city_kontich,2025,9565720,,,bbc_jr_realized,src_kontich_jr2025,strong,Opcentiemen OV 9.57m; tick1027
+bud_kon_fiscal_pb_2025,city_kontich,2025,9771892,,,bbc_jr_realized,src_kontich_jr2025,strong,Aanvullende PB 9.77m JUMP; tick1027
+bud_kon_gemeentefonds_2025,city_kontich,2025,5369797,,,bbc_jr_realized,src_kontich_jr2025,strong,Gemeentefonds 5.37m; tick1027
+bud_kon_fin_opbr_2025,city_kontich,2025,1183382,,,bbc_jr_realized,src_kontich_jr2025,strong,Financiele opbrengsten J5 1.18m; tick1027
+bud_kon_invest_subs_granted_2025,city_kontich,2025,369153,,,bbc_jr_realized,src_kontich_jr2025,strong,Toegestane invest-subs 0.369m; tick1027
+bud_kon_interest_2025,city_kontich,2025,478057,,,bbc_jr_realized,src_kontich_jr2025,strong,Intresten op leningen 0.478m; tick1027
+bud_kon_agb_bbr_2025,city_kontich,2025,187376,,,bbc_jr_realized,src_kontich_jr2025,strong,AGB BBR 0.187m dual; tick1027
+bud_kon_agb_afm_2025,city_kontich,2025,23267,,,bbc_jr_realized,src_kontich_jr2025,strong,AGB AFM +0.023m dual; tick1027
+bud_kon_agb_afm_corr_2025,city_kontich,2025,-346201,,,bbc_jr_realized,src_kontich_jr2025,strong,AGB gecorr AFM -0.346m NEG dual FOI; tick1027
