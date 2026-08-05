@@ -25667,3 +25667,62 @@ bud_laa_invest_subs_granted_2025,city_laakdal,2025,331792,,,bbc_jr_realized,src_
 bud_laa_andere_mva_invest_2025,city_laakdal,2025,1682319,,,bbc_jr_realized,src_laakdal_jr2025,strong,Andere MVA invest 1.68m JUMP FOI residual; tick1037
 bud_laa_mjp_bank_loans_2026_2025,city_laakdal,2025,3840000,,,bbc_jr_realized,src_laakdal_jr2025,strong,MJP bank loans planned 3.84m 2026 FOI path; tick1037
 bud_laa_mjp_bank_loans_2027_2025,city_laakdal,2025,2360000,,,bbc_jr_realized,src_laakdal_jr2025,strong,MJP bank loans planned 2.36m 2027 FOI path; tick1037
+bud_sz_assets_2025,city_scherpenheuvel_zichem,2025,93214130,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Assets YE2025 93.21m slight DROP (was 93.95m); tick1038
+bud_sz_equity_2025,city_scherpenheuvel_zichem,2025,68230667,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Nettoactief YE2025 68.23m JUMP (was 65.21m); tick1038
+bud_sz_debt_total_2025,city_scherpenheuvel_zichem,2025,24983463,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Total schulden YE2025 24.98m DECLINE (was 28.74m); tick1038
+bud_sz_fin_debt_2025,city_scherpenheuvel_zichem,2025,13998070,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Fin debt total YE2025 14.00m DECLINE (was 16.80m T4); tick1038
+bud_sz_fin_debt_lt_2025,city_scherpenheuvel_zichem,2025,11083390,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Fin debt LT YE2025 11.08m DECLINE; tick1038
+bud_sz_fin_debt_st_due_2025,city_scherpenheuvel_zichem,2025,2914680,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Fin debt ST due YE2025 2.91m; tick1038
+bud_sz_new_loans_2025,city_scherpenheuvel_zichem,2025,437157,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Nieuwe leningen 2025 0.437m LOW lease-only (MJP bank 6.40m 2025 NOT taken FOI); tick1038
+bud_sz_aflossingen_2025,city_scherpenheuvel_zichem,2025,3234402,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Periodieke aflossingen 2025 3.23m HIGH; tick1038
+bud_sz_cash_2025,city_scherpenheuvel_zichem,2025,3182517,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Liquide middelen YE2025 3.18m DROP (was 4.69m); tick1038
+bud_sz_pension_2025,city_scherpenheuvel_zichem,2025,5435871,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.44m DROP FOI (was 6.65m); tick1038
+bud_sz_cap_subs_2025,city_scherpenheuvel_zichem,2025,3287111,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Kapitaalsubsidies YE2025 3.29m; tick1038
+bud_sz_fva_total_2025,city_scherpenheuvel_zichem,2025,24346272,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,FVA total YE2025 24.35m HIGH FOI residual; tick1038
+bud_sz_fva_igs_2025,city_scherpenheuvel_zichem,2025,20711592,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,FVA IGS YE2025 20.71m VERY HIGH FOI residual; tick1038
+bud_sz_leasing_mva_2025,city_scherpenheuvel_zichem,2025,1689346,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Leasing MVA YE2025 1.69m; tick1038
+bud_sz_expl_rec_2025,city_scherpenheuvel_zichem,2025,43624868,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Exploitatieontvangsten 43.62m; tick1038
+bud_sz_expl_exp_2025,city_scherpenheuvel_zichem,2025,37480632,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Exploitatieuitgaven 37.48m; tick1038
+bud_sz_expl_saldo_2025,city_scherpenheuvel_zichem,2025,6144237,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Exploitatiesaldo +6.14m VERY STRONG; tick1038
+bud_sz_invest_exp_2025,city_scherpenheuvel_zichem,2025,5679835,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Investeringsuitgaven 5.68m vs MJP 7.71m UNDERSPEND FOI; tick1038
+bud_sz_invest_rec_2025,city_scherpenheuvel_zichem,2025,476085,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Investeringsontvangsten 0.476m; tick1038
+bud_sz_invest_saldo_2025,city_scherpenheuvel_zichem,2025,-5203750,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Investeringssaldo -5.20m; tick1038
+bud_sz_mjp_invest_planned_2025,city_scherpenheuvel_zichem,2025,7713008,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,MJP invest planned 7.71m vs realized 5.68m underspend FOI; tick1038
+bud_sz_afm_2025,city_scherpenheuvel_zichem,2025,3202478,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,AFM +3.20m STRONG; tick1038
+bud_sz_afm_corr_2025,city_scherpenheuvel_zichem,2025,5093254,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Gecorrigeerde AFM +5.09m VERY STRONG; tick1038
+bud_sz_bbr_2025,city_scherpenheuvel_zichem,2025,2883604,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,BBR beschikbaar +2.88m; tick1038
+bud_sz_budget_result_2025,city_scherpenheuvel_zichem,2025,-1777479,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Budgettair resultaat -1.78m NEG HIGH FOI residual; tick1038
+bud_sz_cum_br_2025,city_scherpenheuvel_zichem,2025,2906161,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Gecumuleerd budgettair resultaat +2.91m DROP (was 4.68m); tick1038
+bud_sz_onbeschikbaar_2025,city_scherpenheuvel_zichem,2025,22557,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Onbeschikbare gelden 0.023m; tick1038
+bud_sz_pnl_2025,city_scherpenheuvel_zichem,2025,2917394,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,P&L +2.92m STRONG flip (was -0.042m); tick1038
+bud_sz_ge_expl_exp_2025,city_scherpenheuvel_zichem,2025,30754300,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Stad exploitatieuitgaven 30.75m; tick1038
+bud_sz_ge_expl_rec_2025,city_scherpenheuvel_zichem,2025,40153967,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Stad exploitatieontvangsten 40.15m; tick1038
+bud_sz_ocmw_expl_exp_2025,city_scherpenheuvel_zichem,2025,6726332,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW exploitatieuitgaven 6.73m FOI; tick1038
+bud_sz_ocmw_expl_rec_2025,city_scherpenheuvel_zichem,2025,3470902,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW exploitatieontvangsten 3.47m; tick1038
+bud_sz_ocmw_expl_gap_2025,city_scherpenheuvel_zichem,2025,-3255430,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW expl gap -3.26m HIGH FOI residual; tick1038
+bud_sz_ocmw_cover_2025,city_scherpenheuvel_zichem,2025,3600000,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW cover tussenkomst 3.60m FULL FOI vs gap 3.26m; tick1038
+bud_sz_ocmw_equity_cum_2025,city_scherpenheuvel_zichem,2025,-1252214,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW equity cum -1.25m IMPROVING FOI (was -2.00m); tick1038
+bud_sz_ocmw_pnl_2025,city_scherpenheuvel_zichem,2025,-2855449,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW P&L -2.86m HIGH FOI; tick1038
+bud_sz_ge_equity_cum_2025,city_scherpenheuvel_zichem,2025,31649297,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Stad equity cum +31.65m; tick1038
+bud_sz_ge_pnl_2025,city_scherpenheuvel_zichem,2025,5772842,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Stad P&L +5.77m; tick1038
+bud_sz_equity_cum_2025,city_scherpenheuvel_zichem,2025,30397084,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Consol equity cum +30.40m; tick1038
+bud_sz_personnel_2025,city_scherpenheuvel_zichem,2025,20445424,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Bezoldigingen 20.45m JUMP incl education pass-through 3.73m; tick1038
+bud_sz_edu_pass_through_2025,city_scherpenheuvel_zichem,2025,3725060,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.73m JUMP (was 2.17m); tick1038
+bud_sz_toelagen_2025,city_scherpenheuvel_zichem,2025,5505439,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toegestane werkingssubsidies 5.51m FOI residual; tick1038
+bud_sz_toelagen_police_2025,city_scherpenheuvel_zichem,2025,3461902,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toelage politiezone 3.46m; tick1038
+bud_sz_toelagen_fire_2025,city_scherpenheuvel_zichem,2025,1097192,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toelage hulpverleningszone 1.10m; tick1038
+bud_sz_toelagen_agb_2025,city_scherpenheuvel_zichem,2025,517896,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toelage AGB 0.518m DROP dual FOI (was 0.791m); tick1038
+bud_sz_toelagen_other_2025,city_scherpenheuvel_zichem,2025,282614,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toelage andere begunstigden 0.283m FOI; tick1038
+bud_sz_toelagen_eredienst_2025,city_scherpenheuvel_zichem,2025,113594,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toelage eredienst 0.114m; tick1038
+bud_sz_ocmw_aid_2025,city_scherpenheuvel_zichem,2025,1635749,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,OCMW individuele hulp 1.64m; tick1038
+bud_sz_fiscal_2025,city_scherpenheuvel_zichem,2025,22534616,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Fiscale opbrengsten 22.53m; tick1038
+bud_sz_fiscal_ov_2025,city_scherpenheuvel_zichem,2025,8103331,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Opcentiemen OV 8.10m; tick1038
+bud_sz_fiscal_pb_2025,city_scherpenheuvel_zichem,2025,11284422,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Aanvullende PB 11.28m; tick1038
+bud_sz_gemeentefonds_2025,city_scherpenheuvel_zichem,2025,6477902,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Gemeentefonds 6.48m; tick1038
+bud_sz_interest_2025,city_scherpenheuvel_zichem,2025,438437,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Intresten op schulden 0.438m; tick1038
+bud_sz_invest_subs_granted_2025,city_scherpenheuvel_zichem,2025,1359123,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toegestane invest-subs 1.36m HIGH FOI (other 0.839 eredienst 0.194 fire 0.217 police 0.109); tick1038
+bud_sz_toegestane_leningen_2025,city_scherpenheuvel_zichem,2025,213364,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,Toegestane leningen 0.213m FOI (AGB 0.153 + other 0.060); tick1038
+bud_sz_agb_bbr_2025,city_scherpenheuvel_zichem,2025,1143679,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,AGB BBR 1.14m dual; tick1038
+bud_sz_agb_afm_2025,city_scherpenheuvel_zichem,2025,-47592,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,AGB AFM -0.048m NEG dual FOI; tick1038
+bud_sz_agb_afm_corr_2025,city_scherpenheuvel_zichem,2025,-5255,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,AGB gecorr AFM -0.005m dual; tick1038
+bud_sz_mjp_bank_loans_2026_2025,city_scherpenheuvel_zichem,2025,7200000,,,bbc_jr_realized,src_scherpenheuvel_zichem_jr2025,strong,MJP bank loans planned 7.20m 2026 FOI path; tick1038
