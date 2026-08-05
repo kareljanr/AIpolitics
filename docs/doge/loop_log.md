@@ -13927,3 +13927,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1049** residual dual L5; deferred **rq_116**; progress@1050 in 2
 
+
+
+### Tick 1049 - 2026-08-10T13:45:00Z
+
+- Unit: **rq_1049** (FOI-adjacent residual dual - **Lokaal Bestuur Sint-Laureins Jaarrekening 2025** + Zelzate dual residual)
+- Found (strong primary BBC JR2025 432p portal; KBO 0207.448.851 / OCMW 0212.170.672; Antonia Van Dammeplein 1/3; AD Melina Van Audenaerde FD Joost Decock; pub 29.06.2026):
+  - Assets **EUR54.70m** slight DROP / equity **EUR39.80m** / debt total **EUR14.90m DECLINE** / fin debt **EUR6.51m DECLINE** (was **EUR7.27m**; LT **EUR5.72m** / ST due **EUR0.790m**)
+  - New loans **EUR0.029m LOW** / repayments **EUR0.789m HIGH** (MJP planned bank loans **EUR1.0m NOT DRAWN**)
+  - Cash **EUR7.03m JUMP** / pension **EUR5.44m JUMP FOI** (was **EUR5.28m**) / FVA IGS **EUR5.30m** / leasing MVA **EUR0.685m**
+  - Exploitatie: ontvangsten **EUR18.10m** / uitgaven **EUR15.66m** / saldo **+EUR2.45m STRONG**
+  - AFM **+EUR1.66m STRONG** (gecorr **+EUR1.87m**) / BBR **EUR6.78m VERY HIGH FOI** / budget **+EUR0.521m STRONG flip** / cum BR **EUR7.29m** / P&L **+EUR0.364m flip**
+  - Personnel **EUR9.69m** / toelagen **EUR1.21m FOI** (police **EUR0.831m** / fire **EUR0.203m** / eredienst **EUR0.006m** / other **EUR0.172m**)
+  - Invest **EUR1.40m** vs MJP **EUR3.25m UNDERSPEND FOI** / invest-subs rec **EUR0.210m**
+  - **OCMW cover EUR0.798m FULL FOI** (policy: no OCMW deficit; cum equity **EUR0**) / OCMW P&L **EUR-0.798m** / expl gap ca. **EUR-0.384m** / WZC Hof van Sente dual
+- Dual: Zelzate assets **EUR59.51m** / pension **EUR11.73m** / OCMW cover **EUR1.64m** / BBR **EUR7.96m** (tick1048) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 **next tick**
+- Wrote: budgets +55 (bud_slau_*); commitments +6; leaderboard +8; sources +1; entity city_sint_laureins; FOI **gap_slau_ocmw_cover_pension_bbr_toelagen_l5** prio9 ready + draft; key only (PDF ~13.2MB not stored in git); rq_1049=done; spawn **rq_1050**; ticks=1049
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1050** residual dual L5 + **progress decade tick**; deferred **rq_116**; progress@1050 next
+

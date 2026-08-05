@@ -26229,3 +26229,58 @@ bud_zel_interest_2025,city_zelzate,2025,125453,,,bbc_jr_realized,src_zelzate_jr2
 bud_zel_invest_subs_rec_2025,city_zelzate,2025,273788,,,bbc_jr_realized,src_zelzate_jr2025,strong,Investeringssubsidies ontvangen 0.274m (VL 0.220 + prov 0.054); tick1048
 bud_zel_ocmw_invest_exp_2025,city_zelzate,2025,19530,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW invest uitgaven 0.020m LOW; tick1048
 bud_zel_treasury_ocmw_2025,city_zelzate,2025,1550000,,,bbc_jr_realized,src_zelzate_jr2025,strong,Thesaurie storting GE->OCMW 1.55m 2025 (toelichting; not BBC flow); tick1048
+bud_slau_assets_2025,city_sint_laureins,2025,54703373,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Assets YE2025 54.70m slight DROP (was 55.04m); tick1049
+bud_slau_equity_2025,city_sint_laureins,2025,39804803,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Nettoactief YE2025 39.80m; tick1049
+bud_slau_debt_total_2025,city_sint_laureins,2025,14898570,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Total schulden YE2025 14.90m DECLINE (was 15.29m); tick1049
+bud_slau_fin_debt_2025,city_sint_laureins,2025,6511799,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Fin debt total YE2025 6.51m DECLINE (was 7.27m T4); tick1049
+bud_slau_fin_debt_lt_2025,city_sint_laureins,2025,5722266,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Fin debt LT YE2025 5.72m DECLINE (was 6.48m); tick1049
+bud_slau_fin_debt_st_due_2025,city_sint_laureins,2025,789533,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Fin debt ST due YE2025 0.790m; tick1049
+bud_slau_fin_debt_st_2025,city_sint_laureins,2025,0,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Fin debt ST treasury YE2025 0; tick1049
+bud_slau_new_loans_2025,city_sint_laureins,2025,28537,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Nieuwe leningen/leasings 2025 0.029m LOW; tick1049
+bud_slau_aflossingen_2025,city_sint_laureins,2025,788867,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Periodieke aflossingen 2025 0.789m HIGH vs new loans; tick1049
+bud_slau_cash_2025,city_sint_laureins,2025,7032161,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Liquide middelen YE2025 7.03m JUMP (was 6.14m); tick1049
+bud_slau_pension_2025,city_sint_laureins,2025,5440592,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.44m JUMP FOI (was 5.28m); tick1049
+bud_slau_cap_subs_2025,city_sint_laureins,2025,7687005,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Kapitaalsubsidies YE2025 7.69m; tick1049
+bud_slau_fva_total_2025,city_sint_laureins,2025,5349402,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,FVA total YE2025 5.35m; tick1049
+bud_slau_fva_igs_2025,city_sint_laureins,2025,5295842,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,FVA IGS YE2025 5.30m; tick1049
+bud_slau_leasing_mva_2025,city_sint_laureins,2025,684512,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Leasing MVA YE2025 0.685m; tick1049
+bud_slau_expl_rec_2025,city_sint_laureins,2025,18104265,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Exploitatieontvangsten 18.10m; tick1049
+bud_slau_expl_exp_2025,city_sint_laureins,2025,15656064,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Exploitatieuitgaven 15.66m; tick1049
+bud_slau_expl_saldo_2025,city_sint_laureins,2025,2448201,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Exploitatiesaldo +2.45m STRONG; tick1049
+bud_slau_invest_exp_2025,city_sint_laureins,2025,1398624,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Investeringsuitgaven 1.40m vs MJP 3.25m UNDERSPEND FOI; tick1049
+bud_slau_invest_rec_2025,city_sint_laureins,2025,231828,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Investeringsontvangsten 0.232m; tick1049
+bud_slau_invest_saldo_2025,city_sint_laureins,2025,-1166796,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Investeringssaldo -1.17m; tick1049
+bud_slau_mjp_invest_planned_2025,city_sint_laureins,2025,3250190,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,MJP invest planned 3.25m vs realized 1.40m underspend FOI; tick1049
+bud_slau_afm_2025,city_sint_laureins,2025,1659333,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,AFM +1.66m STRONG; tick1049
+bud_slau_afm_corr_2025,city_sint_laureins,2025,1866430,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Gecorrigeerde AFM +1.87m STRONG; tick1049
+bud_slau_bbr_2025,city_sint_laureins,2025,6779500,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,BBR beschikbaar +6.78m VERY HIGH FOI; tick1049
+bud_slau_budget_result_2025,city_sint_laureins,2025,521073,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Budgettair resultaat +0.521m STRONG flip vs MJP -1.58m; tick1049
+bud_slau_cum_br_2025,city_sint_laureins,2025,7286031,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Gecumuleerd budgettair resultaat +7.29m; tick1049
+bud_slau_onbeschikbaar_2025,city_sint_laureins,2025,506531,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Onbeschikbare gelden 0.507m; tick1049
+bud_slau_pnl_2025,city_sint_laureins,2025,363984,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,P&L +0.364m flip; tick1049
+bud_slau_ge_pnl_2025,city_sint_laureins,2025,1162353,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,GE P&L +1.16m; tick1049
+bud_slau_ocmw_pnl_2025,city_sint_laureins,2025,-798369,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW P&L -0.798m HIGH FOI; tick1049
+bud_slau_ge_expl_exp_2025,city_sint_laureins,2025,9573320,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,GE exploitatieuitgaven J3 9.57m; tick1049
+bud_slau_ge_expl_rec_2025,city_sint_laureins,2025,12405874,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,GE exploitatieontvangsten J3 12.41m; tick1049
+bud_slau_ocmw_expl_exp_2025,city_sint_laureins,2025,6082744,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW exploitatieuitgaven J3 6.08m FOI (incl WZC); tick1049
+bud_slau_ocmw_expl_rec_2025,city_sint_laureins,2025,5698391,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW exploitatieontvangsten J3 5.70m; tick1049
+bud_slau_ocmw_expl_gap_2025,city_sint_laureins,2025,-384353,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW expl gap -0.384m FOI residual; tick1049
+bud_slau_ocmw_cover_2025,city_sint_laureins,2025,798369,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW cover tussenkomst 0.798m FULL zeros OCMW cum equity (policy no OCMW deficit); tick1049
+bud_slau_ocmw_cum_equity_2025,city_sint_laureins,2025,0,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW cum equity 0 after FULL cover (policy keep zero); tick1049
+bud_slau_ge_cum_equity_2025,city_sint_laureins,2025,4676773,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,GE cum equity overschot YE2025 +4.68m after OCMW transfer; tick1049
+bud_slau_equity_cum_2025,city_sint_laureins,2025,4676773,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Gecumuleerd equity overschot consol YE2025 +4.68m; tick1049
+bud_slau_personnel_2025,city_sint_laureins,2025,9689296,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Bezoldigingen 9.69m incl education pass-through 1.33m; tick1049
+bud_slau_edu_pass_through_2025,city_sint_laureins,2025,1329928,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.33m; tick1049
+bud_slau_toelagen_2025,city_sint_laureins,2025,1211959,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toegestane werkingssubsidies 1.21m FOI residual; tick1049
+bud_slau_toelagen_police_2025,city_sint_laureins,2025,831192,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toelage politiezone 0.831m; tick1049
+bud_slau_toelagen_fire_2025,city_sint_laureins,2025,203265,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toelage hulpverleningszone 0.203m; tick1049
+bud_slau_toelagen_eredienst_2025,city_sint_laureins,2025,5980,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toelage eredienst 0.006m DROP; tick1049
+bud_slau_toelagen_other_2025,city_sint_laureins,2025,171521,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toelage andere begunstigden 0.172m FOI; tick1049
+bud_slau_ocmw_aid_2025,city_sint_laureins,2025,304151,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW individuele hulp 0.304m DROP; tick1049
+bud_slau_fiscal_2025,city_sint_laureins,2025,5369570,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Fiscale opbrengsten 5.37m JUMP; tick1049
+bud_slau_fiscal_ov_2025,city_sint_laureins,2025,2089098,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Opcentiemen OV 2.09m; tick1049
+bud_slau_gemeentefonds_2025,city_sint_laureins,2025,3174369,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Gemeentefonds 3.17m; tick1049
+bud_slau_interest_2025,city_sint_laureins,2025,130237,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Intresten op schulden 0.130m; tick1049
+bud_slau_invest_subs_rec_2025,city_sint_laureins,2025,209916,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Investeringssubsidies ontvangen 0.210m (VL 0.197); tick1049
+bud_slau_invest_subs_granted_2025,city_sint_laureins,2025,152113,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,Toegestane invest-subs 0.152m (police 0.060 IGS 0.070); tick1049
+bud_slau_ocmw_invest_exp_2025,city_sint_laureins,2025,284066,,,bbc_jr_realized,src_sint_laureins_jr2025,strong,OCMW invest uitgaven 0.284m; tick1049
