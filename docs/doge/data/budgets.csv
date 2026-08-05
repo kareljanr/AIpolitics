@@ -24108,3 +24108,63 @@ bud_lrd_fin_opbr_2025,city_lierde,2025,159810,,,realized,src_lierde_jr2025,stron
 bud_lrd_fin_costs_2025,city_lierde,2025,234562,,,realized,src_lierde_jr2025,strong,Financiele kosten 0.235m; tick1009
 bud_lrd_invest_subs_granted_2025,city_lierde,2025,227894,,,realized,src_lierde_jr2025,strong,Toegestane investeringssubsidies 0.228m (HVZ 0.184 police 0.034 FOI); tick1009
 bud_lrd_cum_equity_deficit_2025,city_lierde,2025,-2160656,,,realized,src_lierde_jr2025,strong,Gecumuleerd equity deficit YE2025 -2.16m IMPROVING (was -2.66m); tick1009
+bud_hmm_assets_2025,city_hamme,2025,167382285,,,bbc_jr_realized,src_hamme_jr2025,strong,Assets YE2025 167.38m (was 164.38m); tick1010
+bud_hmm_equity_2025,city_hamme,2025,107673216,,,bbc_jr_realized,src_hamme_jr2025,strong,Nettoactief YE2025 107.67m (was 106.35m); tick1010
+bud_hmm_debt_total_2025,city_hamme,2025,59709069,,,bbc_jr_realized,src_hamme_jr2025,strong,Total schulden YE2025 59.71m (was 58.03m); tick1010
+bud_hmm_fin_debt_2025,city_hamme,2025,39775681,,,bbc_jr_realized,src_hamme_jr2025,strong,Fin debt total YE2025 39.78m JUMP (was 33.12m T4 FOI); tick1010
+bud_hmm_fin_debt_lt_2025,city_hamme,2025,36278313,,,bbc_jr_realized,src_hamme_jr2025,strong,Fin debt LT YE2025 36.28m JUMP (was 30.03m); tick1010
+bud_hmm_fin_debt_st_due_2025,city_hamme,2025,3497368,,,bbc_jr_realized,src_hamme_jr2025,strong,Fin debt ST due YE2025 3.50m; tick1010
+bud_hmm_new_loans_2025,city_hamme,2025,9763974,,,bbc_jr_realized,src_hamme_jr2025,strong,Nieuwe leningen 2025 9.76m JUMP FOI (bank 9.00m + lease/other 0.764m); tick1010
+bud_hmm_new_loans_bank_2025,city_hamme,2025,9000000,,,bbc_jr_realized,src_hamme_jr2025,strong,Bank leningen opname 2025 9.00m FOI residual; tick1010
+bud_hmm_aflossingen_2025,city_hamme,2025,3104391,,,bbc_jr_realized,src_hamme_jr2025,strong,Periodieke aflossingen 2025 3.10m; tick1010
+bud_hmm_cash_2025,city_hamme,2025,6170021,,,bbc_jr_realized,src_hamme_jr2025,strong,Liquide middelen YE2025 6.17m JUMP (was 3.29m); tick1010
+bud_hmm_pension_2025,city_hamme,2025,10586154,,,bbc_jr_realized,src_hamme_jr2025,strong,Pensioenvoorzieningen LT YE2025 10.59m DECLINING (was 11.95m FOI); tick1010
+bud_hmm_cap_subs_2025,city_hamme,2025,27655180,,,bbc_jr_realized,src_hamme_jr2025,strong,Kapitaalsubsidies YE2025 27.66m; tick1010
+bud_hmm_fva_total_2025,city_hamme,2025,18564981,,,bbc_jr_realized,src_hamme_jr2025,strong,FVA total YE2025 18.56m; tick1010
+bud_hmm_fva_eva_2025,city_hamme,2025,681058,,,bbc_jr_realized,src_hamme_jr2025,strong,FVA EVA/AGB YE2025 0.681m DROP (was 2.31m reclass FOI); tick1010
+bud_hmm_fva_igs_2025,city_hamme,2025,16738885,,,bbc_jr_realized,src_hamme_jr2025,strong,FVA IGS YE2025 16.74m JUMP (was 14.81m +reclass); tick1010
+bud_hmm_fva_ocmw_assoc_2025,city_hamme,2025,1068049,,,bbc_jr_realized,src_hamme_jr2025,strong,FVA OCMW-verenigingen YE2025 1.07m; tick1010
+bud_hmm_fva_other_2025,city_hamme,2025,76990,,,bbc_jr_realized,src_hamme_jr2025,strong,Andere FVA YE2025 0.077m; tick1010
+bud_hmm_leasing_mva_total_2025,city_hamme,2025,15492874,,,bbc_jr_realized,src_hamme_jr2025,strong,Leasing MVA total YE2025 15.49m (gemeenschap 2.41 + bedrijfs 13.08 WZC FOI); tick1010
+bud_hmm_leasing_mva_gemeenschap_2025,city_hamme,2025,2410037,,,bbc_jr_realized,src_hamme_jr2025,strong,Leasing gemeenschapsgoederen YE2025 2.41m; tick1010
+bud_hmm_leasing_mva_bedrijf_2025,city_hamme,2025,13082837,,,bbc_jr_realized,src_hamme_jr2025,strong,Leasing bedrijfsmatig YE2025 13.08m WZC FOI residual; tick1010
+bud_hmm_expl_rec_2025,city_hamme,2025,58861434,,,bbc_jr_realized,src_hamme_jr2025,strong,Exploitatieontvangsten 58.86m; tick1010
+bud_hmm_expl_exp_2025,city_hamme,2025,54786254,,,bbc_jr_realized,src_hamme_jr2025,strong,Exploitatieuitgaven 54.79m; tick1010
+bud_hmm_expl_saldo_2025,city_hamme,2025,4075179,,,bbc_jr_realized,src_hamme_jr2025,strong,Exploitatiesaldo +4.08m STRONG; tick1010
+bud_hmm_invest_exp_2025,city_hamme,2025,9785147,,,bbc_jr_realized,src_hamme_jr2025,strong,Investeringsuitgaven 9.79m vs MJP 9.92m; tick1010
+bud_hmm_invest_rec_2025,city_hamme,2025,1502829,,,bbc_jr_realized,src_hamme_jr2025,strong,Investeringsontvangsten 1.50m; tick1010
+bud_hmm_invest_saldo_2025,city_hamme,2025,-8282318,,,bbc_jr_realized,src_hamme_jr2025,strong,Investeringssaldo -8.28m; tick1010
+bud_hmm_mjp_invest_planned_2025,city_hamme,2025,9917207,,,bbc_jr_realized,src_hamme_jr2025,strong,MJP invest planned 9.92m vs realized 9.79m; tick1010
+bud_hmm_afm_2025,city_hamme,2025,2097252,,,bbc_jr_realized,src_hamme_jr2025,strong,AFM +2.10m STRONG; tick1010
+bud_hmm_afm_corr_2025,city_hamme,2025,2552355,,,bbc_jr_realized,src_hamme_jr2025,strong,Gecorrigeerde AFM +2.55m; tick1010
+bud_hmm_bbr_2025,city_hamme,2025,6081529,,,bbc_jr_realized,src_hamme_jr2025,strong,BBR beschikbaar 6.08m HIGH; tick1010
+bud_hmm_budget_result_2025,city_hamme,2025,2767222,,,bbc_jr_realized,src_hamme_jr2025,strong,Budgettair resultaat +2.77m STRONG; tick1010
+bud_hmm_cum_br_2025,city_hamme,2025,7122695,,,bbc_jr_realized,src_hamme_jr2025,strong,Gecumuleerd budgettair resultaat 7.12m; tick1010
+bud_hmm_pnl_2025,city_hamme,2025,1977267,,,bbc_jr_realized,src_hamme_jr2025,strong,P&L +1.98m STRONG; tick1010
+bud_hmm_pnl_ge_2025,city_hamme,2025,4762312,,,bbc_jr_realized,src_hamme_jr2025,strong,GE P&L +4.76m; tick1010
+bud_hmm_pnl_ocmw_2025,city_hamme,2025,-2785045,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW P&L -2.79m FOI; tick1010
+bud_hmm_ocmw_cover_2025,city_hamme,2025,3795380,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW cover 3.80m FULL-ish FOI residual vs OCMW -2.79m; tick1010
+bud_hmm_ocmw_cum_deficit_2025,city_hamme,2025,-4799076,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW cum tekort YE2025 -4.80m IMPROVING (was -5.81m after cover); tick1010
+bud_hmm_personnel_2025,city_hamme,2025,30420743,,,bbc_jr_realized,src_hamme_jr2025,strong,Bezoldigingen 30.42m; tick1010
+bud_hmm_toelagen_2025,city_hamme,2025,9621189,,,bbc_jr_realized,src_hamme_jr2025,strong,Toegestane werkingssubsidies 9.62m FOI residual; tick1010
+bud_hmm_toelagen_police_2025,city_hamme,2025,4808379,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage politiezone 4.81m; tick1010
+bud_hmm_toelagen_fire_2025,city_hamme,2025,593056,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage hulpverleningszone 0.593m; tick1010
+bud_hmm_toelagen_agb_2025,city_hamme,2025,688148,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage AGB HIM 0.688m FOI dual; tick1010
+bud_hmm_toelagen_igs_2025,city_hamme,2025,1963277,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage IGS 1.96m JUMP (was 1.61m FOI); tick1010
+bud_hmm_toelagen_ocmw_assoc_2025,city_hamme,2025,319510,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage OCMW-verenigingen 0.320m; tick1010
+bud_hmm_toelagen_eredienst_2025,city_hamme,2025,144244,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage eredienst 0.144m; tick1010
+bud_hmm_toelagen_other_2025,city_hamme,2025,1104574,,,bbc_jr_realized,src_hamme_jr2025,strong,Toelage andere begunstigden 1.10m FOI; tick1010
+bud_hmm_ocmw_aid_2025,city_hamme,2025,2966563,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW individuele hulp 2.97m; tick1010
+bud_hmm_fiscal_2025,city_hamme,2025,21270492,,,bbc_jr_realized,src_hamme_jr2025,strong,Fiscale opbrengsten 21.27m; tick1010
+bud_hmm_fiscal_ov_2025,city_hamme,2025,8610921,,,bbc_jr_realized,src_hamme_jr2025,strong,Opcentiemen OV 8.61m; tick1010
+bud_hmm_fiscal_pb_2025,city_hamme,2025,11046140,,,bbc_jr_realized,src_hamme_jr2025,strong,Aanvullende PB 11.05m JUMP (was 9.82m); tick1010
+bud_hmm_gemeentefonds_2025,city_hamme,2025,7948283,,,bbc_jr_realized,src_hamme_jr2025,strong,Gemeentefonds 7.95m; tick1010
+bud_hmm_fin_opbr_2025,city_hamme,2025,2078692,,,bbc_jr_realized,src_hamme_jr2025,strong,Financiele opbrengsten J5 2.08m; tick1010
+bud_hmm_fin_costs_2025,city_hamme,2025,775380,,,bbc_jr_realized,src_hamme_jr2025,strong,Financiele kosten 0.775m; tick1010
+bud_hmm_invest_subs_granted_2025,city_hamme,2025,81065,,,bbc_jr_realized,src_hamme_jr2025,strong,Toegestane investeringssubsidies 0.081m; tick1010
+bud_hmm_cum_equity_surplus_2025,city_hamme,2025,15383726,,,bbc_jr_realized,src_hamme_jr2025,strong,Gecumuleerd equity surplus YE2025 +15.38m IMPROVING; tick1010
+bud_hmm_agb_consol_afm_2025,city_hamme,2025,-80034,,,bbc_jr_realized,src_hamme_jr2025,strong,AGB HIM consol AFM -0.080m NEG dual residual; tick1010
+bud_hmm_agb_bbr_2025,city_hamme,2025,1730890,,,bbc_jr_realized,src_hamme_jr2025,strong,AGB HIM BBR 1.73m dual residual; tick1010
+bud_hmm_ge_expl_exp_2025,city_hamme,2025,32575424,,,bbc_jr_realized,src_hamme_jr2025,strong,GE exploitatieuitgaven J3 32.58m; tick1010
+bud_hmm_ocmw_expl_exp_2025,city_hamme,2025,22210831,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW exploitatieuitgaven J3 22.21m FOI; tick1010
+bud_hmm_ocmw_expl_rec_2025,city_hamme,2025,18893952,,,bbc_jr_realized,src_hamme_jr2025,strong,OCMW exploitatieontvangsten J3 18.89m; tick1010

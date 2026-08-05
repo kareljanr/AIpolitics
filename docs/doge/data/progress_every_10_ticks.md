@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1010** (2026-08-09)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1001-1010 inland/OV: De Haan **EUR150.7m** / Sint-Gillis-Waas **EUR109.7m** / Beernem **EUR99.0m** / Haaltert **EUR88.0m** / Waasmunster **EUR87.9m** / Berlare **EUR81.3m** / Hamme **EUR167.4m** / Lierde **EUR32.7m** / Zuienkerke **EUR30.7m** · prior coastal stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1001-1010 is VL residual dual L5 inland/OV chain (not near-complete of 348bn):** personnel Hamme **EUR30.42m** / De Haan **EUR16.41m** / Sint-Gillis-Waas **EUR16.02m** / Berlare **EUR17.36m** / Beernem **EUR13.02m** / Haaltert **EUR11.07m** / Waasmunster **EUR10.14m** · FOI-adjacent: **Hamme fin debt EUR39.78m JUMP** bank loan **EUR9.00m** / cash **EUR6.17m JUMP** / OCMW cover **EUR3.80m FULL-ish** / cum **-EUR4.80m IMPROVING** / toelagen **EUR9.62m** police **EUR4.81m** / AGB HIM dual AFM NEG · **Sint-Gillis-Waas fin debt EUR32.51m JUMP +loans EUR14.81m** (OCMW invest **EUR11.70m**) / cover **EUR2.39m FULL** · **Berlare fin debt EUR31.17m RISING +loan EUR6.55m** / OCMW cum **-EUR4.01m** · **Beernem OCMW cover 0** / cum **-EUR7.69m WORSENING** / pension JUMP · **Lierde OCMW cover 0** / Farys early **EUR1.22m** / cum **-EUR1.09m** · **Waasmunster budget -EUR1.85m** / AFM gap · **De Haan cash EUR34.54m HIGH** / BBR **EUR32.73m** · **Zuienkerke fin debt EUR0.94m DECLINING** / invest underspend |
+| **E. FOI-ready gaps** | **~660** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~702** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Hamme **EUR167.4m** / De Haan **EUR150.7m** / Sint-Gillis-Waas **EUR109.7m** / Beernem **EUR99m** / Haaltert **EUR88m** / Waasmunster **EUR88m** / Berlare **EUR81m** / coastal stack retained not full TE) · **AGB HIM dual** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1010)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~24169 |
+| commitments.csv | ~3016 |
+| leaderboard.csv | ~4836 |
+| entities.csv | ~729 |
+| sources.csv | ~1923 |
+| FOI ready | ~660 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~702 |
+| research_queue open | rq_116 deferred + rq_1011 hole-fill after progress |
+
+### What improved since tick 1000
+
+- **VL inland/OV residual dual JR2025 (tick1001-1010):** De Haan **EUR150.7m** / cash **EUR34.5m** / OCMW cover **EUR1.71m** · Beernem **EUR99.0m** / fin debt **EUR21.6m RISING** / **OCMW cover 0** / cum **-EUR7.69m** · Haaltert **EUR88.0m** / OCMW cover **EUR3.75m FULL** / pension JUMP · Zuienkerke **EUR30.7m** / fin debt **EUR0.94m DECLINING** / invest underspend · Berlare **EUR81.3m** / fin debt **EUR31.2m RISING +loan EUR6.55m** / OCMW cum **-EUR4.01m** · Waasmunster **EUR87.9m** / budget **-EUR1.85m** / OCMW cover **EUR1.30m** · Sint-Gillis-Waas **EUR109.7m** / fin debt **EUR32.5m JUMP +loans EUR14.8m** / OCMW invest **EUR11.7m** / cover **EUR2.39m FULL** · Lierde **EUR32.7m** / **OCMW cover 0** / Farys early **EUR1.22m** / cum **-EUR1.09m** · **Hamme EUR167.4m** / fin debt **EUR39.8m JUMP +bank EUR9.0m** / OCMW cover **EUR3.80m** / toelagen **EUR9.62m** / personnel **EUR30.4m** / AGB HIM dual AFM NEG.
+- **Dual map:** debt JUMP cluster (Hamme **EUR39.8m** / SGW **EUR32.5m** / Berlare **EUR31.2m**) vs low-debt (Zuienkerke **EUR0.94m** / Lierde **EUR7.84m DECLINING**) · OCMW cover spectrum FULL (Haaltert/SGW/Hamme) vs ZERO with cum deficit (Beernem **-EUR7.69m** / Lierde **-EUR1.09m**) · cash HIGH duals (De Haan **EUR34.5m**) · Entity II dual (AGB HIM AFM NEG + toelage **EUR0.69m**) · non-period Farys path (Lierde **EUR1.22m**).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1000** (2026-08-09)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

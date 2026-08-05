@@ -13152,3 +13152,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1010** residual dual L5 (Torhout / Lebbeke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 1
 
+
+### Tick 1010 - 2026-08-09T18:15:00Z
+
+- Unit: **rq_1010** (FOI-adjacent residual dual - **Gemeente+OCMW Hamme Jaarrekening 2025** + Lierde dual residual) **+ progress decade**
+- Found (strong primary BBC JR2025 384p JRK2025.pdf; KBO 0207.445.782 / OCMW 0212.215.907; FD Gunther Scholliers; AD André Reuse; Marktplein 1; NIS 42008):
+  - Assets **EUR167.38m** / equity **EUR107.67m** / debt total **EUR59.71m** / fin debt **EUR39.78m** (**JUMP** from **EUR33.12m**; LT **EUR36.28m** / ST due **EUR3.50m**)
+  - New loans **EUR9.76m JUMP FOI** (bank **EUR9.00m** / other-lease **EUR0.764m**) / repayments **EUR3.10m**
+  - Cash **EUR6.17m JUMP** (was **EUR3.29m**) / pension **EUR10.59m DECLINING** (was **EUR11.95m**) / leasing MVA **EUR15.49m** (WZC bedrijfs **EUR13.08m FOI**)
+  - FVA EVA **EUR0.681m DROP** reclass / FVA IGS **EUR16.74m JUMP** / cap subs **EUR27.66m**
+  - Exploitatie: ontvangsten **EUR58.86m** / uitgaven **EUR54.79m** / saldo **+EUR4.08m STRONG**
+  - AFM **+EUR2.10m STRONG** (gecorr **+EUR2.55m**) / BBR **EUR6.08m HIGH** / budget **+EUR2.77m STRONG** / P&L **+EUR1.98m** (GE **+EUR4.76m** / OCMW **-EUR2.79m FOI**)
+  - Personnel **EUR30.42m** / toelagen **EUR9.62m FOI** (police **EUR4.81m** / fire **EUR0.593m** / AGB HIM **EUR0.688m** / IGS **EUR1.96m JUMP** / other **EUR1.10m** / OCMW-ver **EUR0.320m** / eredienst **EUR0.144m**)
+  - Invest **EUR9.79m** vs MJP **EUR9.92m** / **OCMW cover EUR3.80m FULL-ish FOI** / OCMW cum **-EUR4.80m IMPROVING** (was -5.81m)
+  - AGB HIM consol AFM **-EUR0.080m NEG dual** / BBR **EUR1.73m**
+- Dual: Lierde **EUR32.74m** / OCMW cover **EUR0** / Farys early **EUR1.22m** (tick1009) - not TE-additive
+- Note: Torhout still news-only; Lebbeke only 122MB documentatie this tick; Temse / Buggenhout / AGB De Panne residual next optional
+- Wrote: budgets +60 (bud_hmm_*); commitments +6; leaderboard +8; sources +1; entity city_hamme; FOI **gap_hmm_debt_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~6.4MB not stored in git); rq_1010=done; spawn **rq_1011**; ticks=1010
+- **Progress decade:** refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (pure top10 stable; Hamme/SGW/Beernem duals off pure top10)
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1011** residual dual L5 (Torhout / Lebbeke / Temse / Buggenhout / other); deferred **rq_116**; progress@1020 in 10
+
