@@ -11704,3 +11704,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +34 (bud_kag_*); commitments +4; leaderboard +7; sources +2; entity agb_kapellen; FOI **gap_kag_debt_subsidy_payout_l5** prio8 ready + draft; raw PDF + key; rq_929=done; spawn **rq_930 progress@930 prio10**; ticks=929
 - FOI: ready only - **do not send**
 - Next: **progress@930 NEXT** (prio10 rq_930); then residual dual L5; deferred **rq_116**
+
+### Tick 930 - 2026-08-07T13:45:00Z
+
+- Unit: **rq_930** (mandatory **progress@930** - coverage layers A-E + waste top10)
+- Inventory: budgets **~20827** / commitments **~2669** / leaderboard **~4324** / entities **~656** / sources **~1822** / FOI ready **~624** / answered **~9** / partial **~27** / total FOI **~661**
+- Coverage: A/B **100%** · C **~99%** · D **~72-86%** generous (gain = VL residual hole-fill 921-929 + Entity II AGB, not near-complete of EUR348bn) · E FOI-ready **~624**
+- Gain since tick920 (VL JR2025 residual 921-929, dual not TE-additive):
+  - Schoten **EUR177m** / **invest EUR10.4m** / AFM **+EUR6.95m** / budget **-EUR3.97m**
+  - Diksmuide **EUR184m** / **invest EUR17.3m** / **bank EUR3.125m** / debt rising
+  - Putte **EUR80m** / **Belfius EUR3.5m** / AGB recover **EUR1.68m**
+  - Merelbeke-Melle **EUR260m** / **toelagen EUR12.9m** / **pension EUR35.6m** / cash **EUR29.7m**
+  - Zulte **EUR116m** / **bank EUR3.0m @3.139%** / **IGS invest-subs EUR1.18m**
+  - Aalter **EUR181m** / **bank EUR5.0m** / fin debt **EUR40.4m** / toelagen **EUR9.74m**
+  - Lochristi **EUR165m** / **cash EUR26.2m** / **invest-subs other EUR2.39m** / **OCMW GL EUR10.52m**
+  - Assenede **EUR84m** / **OCMW cover EUR1.42m** / budget **-EUR1.14m**
+  - AGB Kapellen **EUR20m** / **fin debt EUR17.5m** / **AFM -EUR0.18m** / **prijssubsidie EUR0.70m** / **profit payout EUR0.30m**
+- Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@930; doge_waste_top10_current.md as-of 930; rq_930=done; spawn **rq_931** hole_fill; ticks=930
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_931** residual dual L5; deferred **rq_116**; progress@940 in 10

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 930** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 921-929: Merelbeke-Melle **EUR260m** / Diksmuide **EUR184m** / Aalter **EUR181m** / Schoten **EUR177m** / Lochristi **EUR165m** / Zulte **EUR116m** / Assenede **EUR84m** / Putte **EUR80m** / AGB Kapellen **EUR20m** · prior Asse-Wellen stack retained |
+| **D. L5 named / measure end-lines** | **~72-86%** of TE (generous) | **Gain 920-930 is VL mid/small residual + Entity II AGB (not near-complete of 348bn):** personnel Merelbeke-Melle **EUR31m** / Lochristi **EUR24m** / Aalter **EUR22m** / Diksmuide **EUR24m** / Schoten **EUR34m** / Zulte **EUR11m** / Assenede **EUR11m** · AFM spectrum Diksmuide **+EUR8.27m** / Merelbeke-Melle **+EUR7.04m** / Schoten **+EUR6.95m** / Aalter **+EUR4.72m** / Lochristi **+EUR4.82m** · FOI-adjacent: Diksmuide **invest EUR17.3m** / bank **EUR3.125m** / Publi-T FVA **EUR4.42m** · Schoten **invest EUR10.4m** / budget **−EUR3.97m** · Putte **bank EUR3.5m Belfius** / AGB recover **EUR1.68m** · Merelbeke-Melle **toelagen EUR12.9m** / **pension EUR35.6m** / onbeschikbaar **EUR6.24m** · Zulte **bank EUR3.0m @3.139%** / **IGS invest-subs EUR1.18m** / MJP debt **EUR22.2m YE2027** · Aalter **bank EUR5.0m** / fin debt **EUR40.4m rising** / toelagen **EUR9.74m** · Lochristi **cash EUR26.2m** / **invest-subs other EUR2.39m** / **OCMW GL cover EUR10.52m** / fin debt **EUR3.59m Fluvius only** · Assenede **OCMW cover EUR1.42m** / budget **−EUR1.14m** · AGB Kapellen **fin debt EUR17.5m** / **AFM −EUR0.18m** / prijssubsidie **EUR0.70m** / profit payout **EUR0.30m** |
+| **E. FOI-ready gaps** | **~624** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~661** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Merelbeke-Melle **EUR260m** / Diksmuide **EUR184m** / Aalter **EUR181m** / Schoten **EUR177m** / Lochristi **EUR165m** not full TE) · **AGB Kapellen EUR20m / debt EUR17.5m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 930)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~20827 |
+| commitments.csv | ~2669 |
+| leaderboard.csv | ~4324 |
+| entities.csv | ~656 |
+| sources.csv | ~1822 |
+| FOI ready | ~624 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~661 |
+| research_queue open | rq_116 deferred + rq_931 hole-fill after progress |
+
+### What improved since tick 920
+
+- **VL city/AGB JR2025 residual (tick921-929):** Schoten assets **EUR177m** / **invest EUR10.4m** / debt declining / AFM **+EUR6.95m** / budget **−EUR3.97m** · Diksmuide **EUR184m** / **invest EUR17.3m** / **bank EUR3.125m** / debt rising **EUR29.8m** / AFM **+EUR8.27m** · Putte **EUR80m** / **Belfius EUR3.5m** / AGB dual flows · Merelbeke-Melle fusion **EUR260m** / **toelagen EUR12.9m** / **pension EUR35.6m** / cash **EUR29.7m** · Zulte **EUR116m** / **bank EUR3.0m @3.139%** / **IGS invest-subs EUR1.18m** / MJP debt ramp · Aalter **EUR181m** / **bank EUR5.0m** / fin debt **EUR40.4m** / toelagen **EUR9.74m** · Lochristi **EUR165m** / **cash EUR26.2m** / **invest-subs other EUR2.39m** / **OCMW GL cover EUR10.52m** / near-zero bank debt · Assenede **EUR84m** / debt declining / **OCMW cover EUR1.42m** / budget **−EUR1.14m** · AGB Kapellen **EUR20m** / **fin debt EUR17.5m** / **AFM −EUR0.18m** / **prijssubsidie EUR0.70m** / **profit payout EUR0.30m**.
+- **Dual map:** invest stress duals (Diksmuide **EUR17.3m** / Schoten **EUR10.4m**) vs cash-rich low-debt (Lochristi **EUR26.2m** / Fluvius only) · bank re-leverage duals (Aalter **EUR5.0m** / Zulte **EUR3.0m** / Putte **EUR3.5m** / Diksmuide **EUR3.125m**) · OCMW dual (Assenede cover **EUR1.42m** vs Lochristi GL **EUR10.52m** no cash) · Entity II absurdity (AGB Kapellen negative AFM + municipal subsidy + profit payout) · fusion first-year (Merelbeke-Melle pension **EUR35.6m** / toelagen **EUR12.9m**).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 920** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

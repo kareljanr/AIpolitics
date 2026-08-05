@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T13:15:00Z,rq_929,929,no,tick929 AGB Kapellen JR2025 dual Assenede; FOI gap_kag_debt_subsidy_payout_l5 prio8 debt 17.5m AFM -0.18m prijssubsidie 0.70m profit payout 0.30m; next progress@930 rq_930; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T13:45:00Z,rq_930,930,no,tick930 progress@930 after VL residual 921-929; FOI ready ~624; pure top10 stable; next residual dual L5 rq_931; rq_116 deferred
