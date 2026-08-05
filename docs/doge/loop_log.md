@@ -12411,3 +12411,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_969** residual dual L5 (AGB Menen Entity II preferred / Ledegem / Torhout / WZBW / Oostrozebeke); deferred **rq_116**; progress@970 in 2
 
+
+### Tick 969 - 2026-08-08T18:00:00Z
+
+- Unit: **rq_969** (FOI-adjacent residual dual Entity II - **AGB Menen Jaarrekening 2025** + Menen GE dual residual)
+- Found (strong primary BBC JR2025 163p; KBO 0862.941.197; pub 09.07.2026; PDF menen.be):
+  - Assets **EUR35.7m** / equity **EUR3.04m** / debt total **EUR32.6m** / fin debt **EUR28.0m** (**SLIGHT RISE** from **EUR27.7m**; LT **EUR26.7m** / ST due **EUR1.26m**)
+  - New loans **EUR1.27m** (stad renteloos dual) / repayments **EUR0.930m** (aangewezen **EUR2.21m** >> periodiek FOI)
+  - Cash **EUR0.265m JUMP** (was **EUR0.093m**) / voorraden **EUR6.85m LARGE FOI** / leasing MVA **EUR2.39m FOI**
+  - Exploitatie: ontvangsten **EUR4.47m** / uitgaven **EUR3.59m** / saldo **+EUR0.876m**
+  - AFM **-EUR0.053m NEG** / **gecorr AFM -EUR1.34m NEG FOI** / BBR **-EUR3.11m NEG FOI** / budget **-EUR1.05m FOI** / P&L **+EUR0.152m**
+  - Prijssubsidie gemeente **EUR3.12m LARGE FOI** / winstuitkering **EUR0.10m FOI**
+  - Personnel **EUR1.66m** / goederen **EUR1.48m** / invest **EUR2.48m** vs MJP **EUR0.20m overshoot FOI**
+  - MJP fin debt planned **EUR28.0m (2026-27)** stable
+- Dual: Menen GE **EUR263m** / fin debt **EUR42.5m declining** / OCMW cover **EUR8.26m** / AGB dual confirmed (tick968) - not TE-additive
+- Wrote: budgets +41 (bud_agbm_*); commitments +5; leaderboard +7; sources +1; entity agb_menen; FOI **gap_agb_men_afm_bbr_neg_lease_l5** prio8 ready + draft; key only (PDF ~10MB not stored in git); rq_969=done; spawn **rq_970** progress; ticks=969
+- FOI: ready only - **do not send**
+- Next: prio9 **rq_970** progress@970 coverage % + waste top10; deferred **rq_116**; progress@970 in 1
+

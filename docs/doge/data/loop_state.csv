@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T17:00:00Z,rq_968,968,no,tick968 Menen GE+OCMW JR2025 dual residual; FOI gap_men_ocmw_agb_debt_mjp_l5 prio8 assets 263m fin debt 42.5m declining OCMW cover 8.26m AGB gecorr AFM -1.34m MJP debt JUMP 51.5m; next residual dual L5 rq_969 AGB Menen preferred; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T18:00:00Z,rq_969,969,no,tick969 AGB Menen JR2025 Entity II dual residual; FOI gap_agb_men_afm_bbr_neg_lease_l5 prio8 assets 35.7m fin debt 28.0m BBR -3.11m AFM -0.053m gecorr -1.34m NEG prijssubsidie 3.12m; next progress@970 rq_970; rq_116 deferred

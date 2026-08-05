@@ -22419,3 +22419,44 @@ bud_men_costs_j5_2025,city_menen,2025,94589817,,,realized,src_menen_jr2025,stron
 bud_men_revenue_j5_2025,city_menen,2025,91477835,,,realized,src_menen_jr2025,strong,J5 total opbrengsten 91.5m; tick968
 bud_men_debt_per_capita_2025,city_menen,2025,1241,,,realized,src_menen_jr2025,strong,Openstaande schuld per inwoner EUR1241; tick968
 bud_men_loans_to_agb_2025,city_menen,2025,1267923,,,realized,src_menen_jr2025,strong,Toegestane renteloze leningen AGB 1.27m FOI; tick968
+bud_agbm_assets_2025,agb_menen,2025,35665641,,,realized,src_agb_menen_jr2025,strong,Total assets YE2025 35.7m; tick969
+bud_agbm_equity_2025,agb_menen,2025,3043165,,,realized,src_agb_menen_jr2025,strong,Nettoactief YE2025 3.04m; tick969
+bud_agbm_debt_total_2025,agb_menen,2025,32622476,,,realized,src_agb_menen_jr2025,strong,Total schulden YE2025 32.6m; tick969
+bud_agbm_fin_debt_2025,agb_menen,2025,28010764,,,realized,src_agb_menen_jr2025,strong,Fin debt YE2025 28.0m SLIGHT RISE from 27.7m; tick969
+bud_agbm_fin_debt_lt_2025,agb_menen,2025,26747469,,,realized,src_agb_menen_jr2025,strong,Fin debt LT 26.7m; tick969
+bud_agbm_fin_debt_st_due_2025,agb_menen,2025,1263295,,,realized,src_agb_menen_jr2025,strong,Fin debt ST due 1.26m; tick969
+bud_agbm_fin_debt_2024,agb_menen,2025,27672560,,,realized,src_agb_menen_jr2025,strong,Fin debt YE2024 27.7m; tick969
+bud_agbm_new_loans_2025,agb_menen,2025,1267923,,,realized,src_agb_menen_jr2025,strong,New loans 1.27m (stad renteloos dual FOI); tick969
+bud_agbm_aflossingen_2025,agb_menen,2025,929719,,,realized,src_agb_menen_jr2025,strong,Periodieke aflossingen 0.930m; tick969
+bud_agbm_aangewezen_afl_2025,agb_menen,2025,2213805,,,realized,src_agb_menen_jr2025,strong,Aangewezen aflossingen 2.21m FOI AFM driver; tick969
+bud_agbm_cash_2025,agb_menen,2025,264952,,,realized,src_agb_menen_jr2025,strong,Liquide middelen 0.265m JUMP from 0.093m; tick969
+bud_agbm_cash_2024,agb_menen,2025,93213,,,realized,src_agb_menen_jr2025,strong,Liquide middelen YE2024 0.093m; tick969
+bud_agbm_voorraden_2025,agb_menen,2025,6846811,,,realized,src_agb_menen_jr2025,strong,Voorraden 6.85m LARGE FOI (housing stock); tick969
+bud_agbm_leasing_mva_2025,agb_menen,2025,2391686,,,realized,src_agb_menen_jr2025,strong,Leasing MVA gemeenschap 2.39m FOI; tick969
+bud_agbm_mva_2025,agb_menen,2025,27389339,,,realized,src_agb_menen_jr2025,strong,MVA total 27.4m; tick969
+bud_agbm_cap_subs_2025,agb_menen,2025,941960,,,realized,src_agb_menen_jr2025,strong,Kapitaalsubsidies 0.942m; tick969
+bud_agbm_cum_pnl_2025,agb_menen,2025,51756,,,realized,src_agb_menen_jr2025,strong,Gecumuleerd overschot 0.052m; tick969
+bud_agbm_overig_netto_2025,agb_menen,2025,2049449,,,realized,src_agb_menen_jr2025,strong,Overig nettoactief 2.05m (matches GE FVA EVA); tick969
+bud_agbm_expl_rec_2025,agb_menen,2025,4467370,,,realized,src_agb_menen_jr2025,strong,Exploitatieontvangsten 4.47m; tick969
+bud_agbm_expl_exp_2025,agb_menen,2025,3591690,,,realized,src_agb_menen_jr2025,strong,Exploitatieuitgaven 3.59m; tick969
+bud_agbm_expl_saldo_2025,agb_menen,2025,875680,,,realized,src_agb_menen_jr2025,strong,Exploitatiesaldo +0.876m; tick969
+bud_agbm_invest_exp_2025,agb_menen,2025,2477925,,,realized,src_agb_menen_jr2025,strong,Investeringsuitgaven 2.48m HIGH FOI vs MJP 0.20m; tick969
+bud_agbm_invest_rec_2025,agb_menen,2025,208577,,,realized,src_agb_menen_jr2025,strong,Investeringsontvangsten 0.209m; tick969
+bud_agbm_invest_saldo_2025,agb_menen,2025,2269347,,,realized,src_agb_menen_jr2025,strong,Investeringssaldo -2.27m abs; tick969
+bud_agbm_afm_2025,agb_menen,2025,52789,,,realized,src_agb_menen_jr2025,strong,AFM -0.053m NEG FOI abs; tick969
+bud_agbm_afm_corr_2025,agb_menen,2025,1336875,,,realized,src_agb_menen_jr2025,strong,Gecorr AFM -1.34m NEG FOI abs; tick969
+bud_agbm_bbr_2025,agb_menen,2025,3105725,,,realized,src_agb_menen_jr2025,strong,BBR -3.11m NEG FOI abs; tick969
+bud_agbm_budget_result_2025,agb_menen,2025,1054213,,,realized,src_agb_menen_jr2025,strong,Budgettair resultaat -1.05m abs FOI; tick969
+bud_agbm_pnl_result_2025,agb_menen,2025,151756,,,realized,src_agb_menen_jr2025,strong,P&L winst +0.152m; tick969
+bud_agbm_winstuitkering_2025,agb_menen,2025,100000,,,realized,src_agb_menen_jr2025,strong,Rechthebbenden winstuitkering 0.10m FOI; tick969
+bud_agbm_prijssubsidie_2025,agb_menen,2025,3120076,,,realized,src_agb_menen_jr2025,strong,Prijssubsidie gemeente 3.12m LARGE FOI dual; tick969
+bud_agbm_personnel_2025,agb_menen,2025,1656824,,,realized,src_agb_menen_jr2025,strong,Bezoldigingen 1.66m; tick969
+bud_agbm_goederen_2025,agb_menen,2025,1479556,,,realized,src_agb_menen_jr2025,strong,Goederen en diensten 1.48m; tick969
+bud_agbm_depreciation_2025,agb_menen,2025,881328,,,realized,src_agb_menen_jr2025,strong,Afschrijvingen 0.881m; tick969
+bud_agbm_fin_costs_2025,agb_menen,2025,280952,,,realized,src_agb_menen_jr2025,strong,Financiele kosten 0.281m; tick969
+bud_agbm_financing_saldo_2025,agb_menen,2025,339454,,,realized,src_agb_menen_jr2025,strong,Financieringssaldo +0.339m; tick969
+bud_agbm_costs_j5_2025,agb_menen,2025,4358402,,,realized,src_agb_menen_jr2025,strong,J5 total kosten 4.36m; tick969
+bud_agbm_revenue_j5_2025,agb_menen,2025,4510158,,,realized,src_agb_menen_jr2025,strong,J5 total opbrengsten 4.51m; tick969
+bud_agbm_mjp_fin_debt_2026,agb_menen,2025,28010764,,,realized,src_agb_menen_jr2025,strong,MJP fin debt YE2026 28.0m stable; tick969
+bud_agbm_mjp_fin_debt_2027,agb_menen,2025,28010764,,,realized,src_agb_menen_jr2025,strong,MJP fin debt YE2027 28.0m stable; tick969
+bud_agbm_receivables_2025,agb_menen,2025,1142025,,,realized,src_agb_menen_jr2025,strong,Vorderingen KT 1.14m; tick969
