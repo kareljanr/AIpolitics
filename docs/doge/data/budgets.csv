@@ -29063,3 +29063,41 @@ bud_kee_ocmw_expl_gap_2025,city_keerbergen,2025,1743395,,,bbc_jr_realized,src_ke
 bud_kee_ocmw_hulp_2025,city_keerbergen,2025,805732,,,bbc_jr_realized,src_keerbergen_jr2025,strong,OCMW individuele hulpverlening 0.806m; tick1107
 bud_kee_goederen_2025,city_keerbergen,2025,6311640,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Goederen en diensten 6.312m; tick1107
 bud_kee_fin_exp_2025,city_keerbergen,2025,320552,,,bbc_jr_realized,src_keerbergen_jr2025,strong,Financiele kosten 0.321m; tick1107
+bud_hal_assets_2025,city_halen,2025,64077161,,,bbc_jr_realized,src_halen_jr2025,strong,Assets YE2025 64.077m MASSIVE JUMP (was 54.222m; FVA herwaard); tick1108
+bud_hal_equity_2025,city_halen,2025,47693941,,,bbc_jr_realized,src_halen_jr2025,strong,Nettoactief YE2025 47.694m JUMP (was 34.523m); tick1108
+bud_hal_debt_total_2025,city_halen,2025,16383220,,,bbc_jr_realized,src_halen_jr2025,strong,Total schulden YE2025 16.383m DECLINE (was 19.698m); tick1108
+bud_hal_fin_debt_2025,city_halen,2025,10168389,,,bbc_jr_realized,src_halen_jr2025,strong,Fin debt (leningen) YE2025 10.168m slight DECLINE; tick1108
+bud_hal_fin_debt_lt_2025,city_halen,2025,9212813,,,bbc_jr_realized,src_halen_jr2025,strong,Fin debt LT YE2025 9.213m; tick1108
+bud_hal_fin_debt_st_2025,city_halen,2025,955575,,,bbc_jr_realized,src_halen_jr2025,strong,Fin debt ST due YE2025 0.956m; tick1108
+bud_hal_new_loans_2025,city_halen,2025,215578,,,bbc_jr_realized,src_halen_jr2025,strong,New loans 0.216m modest; tick1108
+bud_hal_repayments_2025,city_halen,2025,1182377,,,bbc_jr_realized,src_halen_jr2025,strong,Periodieke aflossingen 1.182m; tick1108
+bud_hal_cash_2025,city_halen,2025,5240601,,,bbc_jr_realized,src_halen_jr2025,strong,Cash YE2025 5.241m stable (was 5.263m); tick1108
+bud_hal_pension_lt_2025,city_halen,2025,3271970,,,bbc_jr_realized,src_halen_jr2025,strong,Pension LT 3.272m DECLINE FOI (was 5.418m); tick1108
+bud_hal_fva_igs_2025,city_halen,2025,20932931,,,bbc_jr_realized,src_halen_jr2025,strong,FVA IGS YE2025 20.933m MASSIVE JUMP FOI (was 10.370m Fluvius-class); tick1108
+bud_hal_fva_total_2025,city_halen,2025,22152346,,,bbc_jr_realized,src_halen_jr2025,strong,FVA total YE2025 22.152m JUMP; tick1108
+bud_hal_herwaard_2025,city_halen,2025,10652218,,,bbc_jr_realized,src_halen_jr2025,strong,Herwaarderingsreserves YE2025 10.652m MASSIVE JUMP FOI (was 0.002m); tick1108
+bud_hal_leasing_mva_2025,city_halen,2025,993883,,,bbc_jr_realized,src_halen_jr2025,strong,Leasing MVA YE2025 0.994m; tick1108
+bud_hal_expl_ontvangsten_2025,city_halen,2025,18243700,,,bbc_jr_realized,src_halen_jr2025,strong,Exploitatie ontvangsten 18.244m; tick1108
+bud_hal_expl_uitgaven_2025,city_halen,2025,15203358,,,bbc_jr_realized,src_halen_jr2025,strong,Exploitatie uitgaven 15.203m; tick1108
+bud_hal_expl_saldo_2025,city_halen,2025,3040342,,,bbc_jr_realized,src_halen_jr2025,strong,Exploitatiesaldo +3.040m VERY STRONG; tick1108
+bud_hal_afm_2025,city_halen,2025,1903385,,,bbc_jr_realized,src_halen_jr2025,strong,AFM +1.903m VERY STRONG; tick1108
+bud_hal_afm_gecorr_2025,city_halen,2025,2194948,,,bbc_jr_realized,src_halen_jr2025,strong,AFM gecorrigeerd +2.195m VERY STRONG; tick1108
+bud_hal_bbr_2025,city_halen,2025,4778223,,,bbc_jr_realized,src_halen_jr2025,strong,Beschikbaar budgettair resultaat 4.778m HIGH; tick1108
+bud_hal_budget_result_2025,city_halen,2025,653129,,,bbc_jr_realized,src_halen_jr2025,strong,Budgettair resultaat boekjaar +0.653m POS; tick1108
+bud_hal_cum_br_2025,city_halen,2025,5548644,,,bbc_jr_realized,src_halen_jr2025,strong,Gecumuleerd BR 5.549m; tick1108
+bud_hal_pnl_2025,city_halen,2025,2813434,,,bbc_jr_realized,src_halen_jr2025,strong,P&L overschot +2.813m POS (was +0.611m); tick1108
+bud_hal_fiscal_2025,city_halen,2025,9379267,,,bbc_jr_realized,src_halen_jr2025,strong,Fiscale opbrengsten ~9.379m; tick1108
+bud_hal_personnel_2025,city_halen,2025,8421499,,,bbc_jr_realized,src_halen_jr2025,strong,Personeel 8.421m; tick1108
+bud_hal_toelagen_2025,city_halen,2025,2955319,,,bbc_jr_realized,src_halen_jr2025,strong,Toegestane werkingssubsidies 2.955m FOI; tick1108
+bud_hal_hulp_ocmw_2025,city_halen,2025,827338,,,bbc_jr_realized,src_halen_jr2025,strong,OCMW individuele hulpverlening 0.827m; tick1108
+bud_hal_invest_uitgaven_2025,city_halen,2025,1416692,,,bbc_jr_realized,src_halen_jr2025,strong,Investeringsuitgaven 1.417m vs MJP 8.921m MASSIVE UNDERSPEND FOI; tick1108
+bud_hal_invest_capex_2025,city_halen,2025,1385693,,,bbc_jr_realized,src_halen_jr2025,strong,Investeringen (capex) 1.386m; tick1108
+bud_hal_invest_ontvangsten_2025,city_halen,2025,2398,,,bbc_jr_realized,src_halen_jr2025,strong,Investeringsontvangsten 0.002m; tick1108
+bud_hal_invest_saldo_2025,city_halen,2025,-1414294,,,bbc_jr_realized,src_halen_jr2025,strong,Investeringssaldo -1.414m; tick1108
+bud_hal_invest_mjp_2025,city_halen,2025,8920998,,,bbc_jr_realized,src_halen_jr2025,strong,MJP invest uitgaven 8.921m; tick1108
+bud_hal_invest_subs_granted_2025,city_halen,2025,30999,,,bbc_jr_realized,src_halen_jr2025,strong,Toegestane investeringssubsidies 0.031m; tick1108
+bud_hal_ocmw_cover_2025,city_halen,2025,594867,,,bbc_jr_realized,src_halen_jr2025,strong,OCMW liquidity cover 0.595m FOI (OCMW expl -0.595m); tick1108
+bud_hal_ocmw_expl_saldo_2025,city_halen,2025,-594867,,,bbc_jr_realized,src_halen_jr2025,strong,OCMW expl saldo -0.595m FOI; tick1108
+bud_hal_goederen_2025,city_halen,2025,2556546,,,bbc_jr_realized,src_halen_jr2025,strong,Goederen en diensten 2.557m; tick1108
+bud_hal_fin_exp_2025,city_halen,2025,353829,,,bbc_jr_realized,src_halen_jr2025,strong,Financiele kosten 0.354m; tick1108
+bud_hal_debt_per_capita_2025,city_halen,2025,1071,,,bbc_jr_realized,src_halen_jr2025,strong,Schuld per inwoner 1071 EUR; tick1108

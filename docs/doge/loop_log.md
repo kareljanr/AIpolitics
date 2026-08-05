@@ -15085,3 +15085,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_kee_*); commitments +7; leaderboard +10; sources +1; entity city_keerbergen; FOI **gap_kee_loans_investsub_pnl_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed 3.9MB); rq_1107=done; spawn **rq_1108**; ticks=1107
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1108** residual dual L5; deferred **rq_116**; progress@1110 in 2
+
+### Tick 1108 - 2026-08-11T19:30:00Z
+
+- Unit: **rq_1108** (FOI-adjacent residual dual - **Stad+OCMW Halen Jaarrekening 2025** + Keerbergen dual residual)
+- Found (strong primary BBC JR2025 292p Moore Public image+text; halen.be; KBO GE 0207.466.766 / OCMW 0212.215.610; Markt 14 3545; AD Ingrid Vrancken FD Kristof Van Pottelbergh; GE+OCMW):
+  - Assets **EUR64.077m MASSIVE JUMP** (was **EUR54.222m**) / equity **EUR47.694m JUMP** (was **EUR34.523m**) / debt total **EUR16.383m DECLINE** / fin debt **EUR10.168m** (LT **EUR9.213m** / ST due **EUR0.956m**)
+  - New loans **EUR0.216m** / repayments **EUR1.182m**
+  - Cash **EUR5.241m** stable / pension **EUR3.272m DECLINE FOI** (was **EUR5.418m**)
+  - FVA IGS **EUR20.933m MASSIVE JUMP FOI** (was **EUR10.370m**) / herwaard **EUR10.652m MASSIVE JUMP FOI** (was **EUR0.002m**) / leasing MVA **EUR0.994m**
+  - Exploitatie: ontvangsten **EUR18.244m** / uitgaven **EUR15.203m** / saldo **+EUR3.040m VERY STRONG**
+  - AFM **+EUR1.903m VERY STRONG** (gecorr **+EUR2.195m**) / BBR **EUR4.778m HIGH** / budget **+EUR0.653m POS** / P&L **+EUR2.813m POS**
+  - Fiscal **~EUR9.379m** / personnel **EUR8.421m** / toelagen **EUR2.955m FOI** / OCMW hulp **EUR0.827m**
+  - Invest **EUR1.417m** vs MJP **EUR8.921m MASSIVE UNDERSPEND FOI** / capex **EUR1.386m** / ontvangsten **EUR0.002m**
+  - OCMW cover **EUR0.595m FOI** / OCMW expl saldo **-EUR0.595m**
+  - Debt per capita **EUR1.071**
+- Dual: Keerbergen new loans/invest-subs (tick1107) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Bornem residual next; progress@1110 in 1
+- Wrote: budgets +38 (bud_hal_*); commitments +7; leaderboard +9; sources +1; entity city_halen; FOI **gap_hal_fva_herwaard_invest_ocmw_toelagen_l5** prio9 ready + draft; PDF primary (not committed 20MB); rq_1108=done; spawn **rq_1109**; ticks=1108
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1109** residual dual L5; deferred **rq_116**; progress@1110 in 1

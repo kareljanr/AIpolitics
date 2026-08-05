@@ -1,10 +1,10 @@
 # DOGE loop status (latest)
 
-- **Tick:** 1107
-- **UTC:** 2026-08-11T19:00:00Z
-- **Unit:** rq_1107 Keerbergen GE+OCMW JR2025 dual residual
+- **Tick:** 1108
+- **UTC:** 2026-08-11T19:30:00Z
+- **Unit:** rq_1108 Halen Stad+OCMW JR2025 dual residual
 - **Mode:** continuous / hole_fill
 - **Paused:** no
-- **FOI:** gap_kee_loans_investsub_pnl_ocmw_invest_l5 ready prio9 (**do not send**)
-- **Next:** rq_1108 residual dual L5; progress@1110 in 2; rq_116 deferred
-- **Highlights:** new loans 5.464m MASSIVE; fin debt 17.434m JUMP; invest-subs granted 3.152m MASSIVE; P&L -3.921m NEG; AFM +2.081m; budget +0.790m; OCMW cover 0.890m
+- **FOI:** gap_hal_fva_herwaard_invest_ocmw_toelagen_l5 ready prio9 (**do not send**)
+- **Next:** rq_1109 residual dual L5; progress@1110 in 1; rq_116 deferred
+- **Highlights:** FVA IGS 20.933m MASSIVE; herwaard 10.652m MASSIVE; invest underspend 1.42 vs MJP 8.92; OCMW cover 0.595m; AFM +1.903m; pension DROP 5.42→3.27m
