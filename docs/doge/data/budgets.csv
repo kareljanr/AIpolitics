@@ -27970,3 +27970,56 @@ bud_lin_interest_2025,city_linter,2025,107024,,,bbc_jr_realized,src_linter_jr202
 bud_lin_mjp_debt_2026_2025,city_linter,2025,6349110,,,bbc_jr_realized,src_linter_jr2025,strong,MJP fin debt YE2026 path 6.349m with new loans 3.588m FOI; tick1083
 bud_lin_mjp_debt_2027_2025,city_linter,2025,7734129,,,bbc_jr_realized,src_linter_jr2025,strong,MJP fin debt YE2027 path 7.734m FOI; tick1083
 bud_lin_goederen_2025,city_linter,2025,2940007,,,bbc_jr_realized,src_linter_jr2025,strong,Goederen en diensten 2.940m; tick1083
+bud_ber_assets_2025,city_bertem,2025,78818624,,,bbc_jr_realized,src_bertem_jr2025,strong,Assets YE2025 78.819m (was 74.045m); tick1084
+bud_ber_equity_2025,city_bertem,2025,53982463,,,bbc_jr_realized,src_bertem_jr2025,strong,Nettoactief YE2025 53.982m (was 53.117m); tick1084
+bud_ber_debt_total_2025,city_bertem,2025,24836161,,,bbc_jr_realized,src_bertem_jr2025,strong,Total schulden YE2025 24.836m JUMP (was 20.928m); tick1084
+bud_ber_fin_debt_2025,city_bertem,2025,13601927,,,bbc_jr_realized,src_bertem_jr2025,strong,Fin debt total YE2025 13.602m JUMP (was 12.288m); tick1084
+bud_ber_fin_debt_lt_2025,city_bertem,2025,12159602,,,bbc_jr_realized,src_bertem_jr2025,strong,Fin debt LT YE2025 12.160m JUMP (was 11.048m); tick1084
+bud_ber_fin_debt_st_due_2025,city_bertem,2025,1442325,,,bbc_jr_realized,src_bertem_jr2025,strong,Fin debt ST due YE2025 1.442m; tick1084
+bud_ber_new_loans_2025,city_bertem,2025,2633741,,,bbc_jr_realized,src_bertem_jr2025,strong,Nieuwe leningen 2025 2.634m (bank 2.500 + leasing LED 0.134) FOI; tick1084
+bud_ber_aflossingen_2025,city_bertem,2025,1319555,,,bbc_jr_realized,src_bertem_jr2025,strong,Periodieke aflossingen 2025 1.320m; tick1084
+bud_ber_cash_2025,city_bertem,2025,1887920,,,bbc_jr_realized,src_bertem_jr2025,strong,Liquide middelen YE2025 1.888m LOW FOI; tick1084
+bud_ber_pension_2025,city_bertem,2025,7372870,,,bbc_jr_realized,src_bertem_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.373m MASSIVE JUMP FOI (was 5.720m); tick1084
+bud_ber_cap_subs_2025,city_bertem,2025,9871180,,,bbc_jr_realized,src_bertem_jr2025,strong,Kapitaalsubsidies YE2025 9.871m; tick1084
+bud_ber_fva_total_2025,city_bertem,2025,11998235,,,bbc_jr_realized,src_bertem_jr2025,strong,FVA total YE2025 11.998m; tick1084
+bud_ber_fva_igs_2025,city_bertem,2025,10595736,,,bbc_jr_realized,src_bertem_jr2025,strong,FVA IGS YE2025 10.596m; tick1084
+bud_ber_leasing_mva_2025,city_bertem,2025,1748251,,,bbc_jr_realized,src_bertem_jr2025,strong,Leasing MVA YE2025 1.748m; tick1084
+bud_ber_expl_rec_2025,city_bertem,2025,20818725,,,bbc_jr_realized,src_bertem_jr2025,strong,Exploitatieontvangsten 20.819m; tick1084
+bud_ber_expl_exp_2025,city_bertem,2025,17211493,,,bbc_jr_realized,src_bertem_jr2025,strong,Exploitatieuitgaven 17.211m; tick1084
+bud_ber_expl_saldo_2025,city_bertem,2025,3607232,,,bbc_jr_realized,src_bertem_jr2025,strong,Exploitatiesaldo +3.607m STRONG; tick1084
+bud_ber_invest_exp_2025,city_bertem,2025,5966919,,,bbc_jr_realized,src_bertem_jr2025,strong,Investeringsuitgaven 5.967m vs MJP 7.550m UNDERSPEND FOI; tick1084
+bud_ber_invest_rec_2025,city_bertem,2025,978470,,,bbc_jr_realized,src_bertem_jr2025,strong,Investeringsontvangsten 0.978m; tick1084
+bud_ber_invest_saldo_2025,city_bertem,2025,-4988449,,,bbc_jr_realized,src_bertem_jr2025,strong,Investeringssaldo -4.988m HEAVY; tick1084
+bud_ber_mjp_invest_planned_2025,city_bertem,2025,7549955,,,bbc_jr_realized,src_bertem_jr2025,strong,MJP invest planned 7.550m vs realized 5.967m; tick1084
+bud_ber_invest_mva_2025,city_bertem,2025,5801771,,,bbc_jr_realized,src_bertem_jr2025,strong,Investeringen MVA 5.802m; tick1084
+bud_ber_invest_subs_granted_2025,city_bertem,2025,148342,,,bbc_jr_realized,src_bertem_jr2025,strong,Toegestane invest-subs 0.148m; tick1084
+bud_ber_afm_2025,city_bertem,2025,2334351,,,bbc_jr_realized,src_bertem_jr2025,strong,AFM +2.334m STRONG; tick1084
+bud_ber_afm_corr_2025,city_bertem,2025,2670887,,,bbc_jr_realized,src_bertem_jr2025,strong,Gecorrigeerde AFM +2.671m STRONG; tick1084
+bud_ber_bbr_2025,city_bertem,2025,1421399,,,bbc_jr_realized,src_bertem_jr2025,strong,BBR/cum BR +1.421m; tick1084
+bud_ber_budget_result_2025,city_bertem,2025,-39680,,,bbc_jr_realized,src_bertem_jr2025,strong,Budgettair resultaat -0.040m NEG thin FOI; tick1084
+bud_ber_cum_br_2025,city_bertem,2025,1421399,,,bbc_jr_realized,src_bertem_jr2025,strong,Gecumuleerd budgettair resultaat +1.421m; tick1084
+bud_ber_onbeschikbaar_2025,city_bertem,2025,0,,,bbc_jr_realized,src_bertem_jr2025,strong,Onbeschikbare gelden 0; tick1084
+bud_ber_pnl_2025,city_bertem,2025,587528,,,bbc_jr_realized,src_bertem_jr2025,strong,P&L +0.588m IMPROVING (was -1.032m); tick1084
+bud_ber_ge_expl_exp_2025,city_bertem,2025,15082153,,,bbc_jr_realized,src_bertem_jr2025,strong,GE exploitatieuitgaven J3 15.082m; tick1084
+bud_ber_ge_expl_rec_2025,city_bertem,2025,19746178,,,bbc_jr_realized,src_bertem_jr2025,strong,GE exploitatieontvangsten J3 19.746m; tick1084
+bud_ber_ocmw_expl_exp_2025,city_bertem,2025,2129340,,,bbc_jr_realized,src_bertem_jr2025,strong,OCMW exploitatieuitgaven J3 2.129m; tick1084
+bud_ber_ocmw_expl_rec_2025,city_bertem,2025,1072547,,,bbc_jr_realized,src_bertem_jr2025,strong,OCMW exploitatieontvangsten J3 1.073m; tick1084
+bud_ber_ocmw_expl_gap_2025,city_bertem,2025,-1056793,,,bbc_jr_realized,src_bertem_jr2025,strong,OCMW expl gap J3 -1.057m; tick1084
+bud_ber_ocmw_cover_2025,city_bertem,2025,0,,,bbc_jr_realized,src_bertem_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI residual; tick1084
+bud_ber_equity_cum_2025,city_bertem,2025,13506757,,,bbc_jr_realized,src_bertem_jr2025,strong,Gecumuleerd equity overschot YE2025 +13.507m; tick1084
+bud_ber_personnel_2025,city_bertem,2025,10155316,,,bbc_jr_realized,src_bertem_jr2025,strong,Bezoldigingen T2 10.155m incl education pass-through 3.119m; tick1084
+bud_ber_edu_pass_through_2025,city_bertem,2025,3119324,,,bbc_jr_realized,src_bertem_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.119m; tick1084
+bud_ber_toelagen_2025,city_bertem,2025,3223285,,,bbc_jr_realized,src_bertem_jr2025,strong,Toegestane werkingssubsidies 3.223m FOI residual; tick1084
+bud_ber_toelagen_police_2025,city_bertem,2025,1062252,,,bbc_jr_realized,src_bertem_jr2025,strong,Toelage politiezone 1.062m; tick1084
+bud_ber_toelagen_fire_2025,city_bertem,2025,591722,,,bbc_jr_realized,src_bertem_jr2025,strong,Toelage hulpverleningszone 0.592m; tick1084
+bud_ber_toelagen_igs_2025,city_bertem,2025,1014743,,,bbc_jr_realized,src_bertem_jr2025,strong,Toelage IGS 1.015m HIGH FOI; tick1084
+bud_ber_toelagen_agb_2025,city_bertem,2025,109277,,,bbc_jr_realized,src_bertem_jr2025,strong,Toelage AGB Beleko 0.109m dual; tick1084
+bud_ber_toelagen_other_2025,city_bertem,2025,445691,,,bbc_jr_realized,src_bertem_jr2025,strong,Toelage other+eredienst residual 0.446m FOI; tick1084
+bud_ber_ocmw_aid_2025,city_bertem,2025,402681,,,bbc_jr_realized,src_bertem_jr2025,strong,OCMW individuele hulp 0.403m; tick1084
+bud_ber_fiscal_2025,city_bertem,2025,11851756,,,bbc_jr_realized,src_bertem_jr2025,strong,Fiscale opbrengsten 11.852m; tick1084
+bud_ber_fiscal_ov_2025,city_bertem,2025,3993402,,,bbc_jr_realized,src_bertem_jr2025,strong,Opcentiemen OV 3.993m; tick1084
+bud_ber_fiscal_pb_2025,city_bertem,2025,6869514,,,bbc_jr_realized,src_bertem_jr2025,strong,Aanvullende PB 6.870m JUMP; tick1084
+bud_ber_gemeentefonds_2025,city_bertem,2025,2201475,,,bbc_jr_realized,src_bertem_jr2025,strong,Gemeentefonds 2.201m; tick1084
+bud_ber_interest_2025,city_bertem,2025,382963,,,bbc_jr_realized,src_bertem_jr2025,strong,Intresten op leningen 0.383m; tick1084
+bud_ber_agb_afm_2025,city_bertem,2025,-317,,,bbc_jr_realized,src_bertem_jr2025,strong,AGB Beleko consol AFM residual NEG FOI; tick1084
+bud_ber_goederen_2025,city_bertem,2025,2896255,,,bbc_jr_realized,src_bertem_jr2025,strong,Goederen en diensten 2.896m; tick1084

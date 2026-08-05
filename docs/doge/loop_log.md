@@ -14605,3 +14605,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1084** residual dual L5; deferred **rq_116**; progress@1090 in 6
 
+
+### Tick 1084 - 2026-08-11T07:30:00Z
+
+- Unit: **rq_1084** (FOI-adjacent residual dual - **Lokaal Bestuur Bertem Jaarrekening 2025** + Linter dual residual)
+- Found (strong primary BBC JR2025 PDF; pub 19.06.2026; KBO GE 0207.516.256 / OCMW 0212.240.057; Tervuursesteenweg 178 3060; AD Bart Devisch FD Kris Philips; GE+OCMW + AGB Beleko dual):
+  - Assets **EUR78.819m** / equity **EUR53.982m** / debt total **EUR24.84m JUMP** / fin debt **EUR13.602m JUMP** (LT **EUR12.160m** / ST due **EUR1.442m**)
+  - New loans **EUR2.634m FOI** (bank **EUR2.500m** + LED leasing **EUR0.134m**) / repayments **EUR1.320m**
+  - Cash **EUR1.888m LOW FOI** / pension **EUR7.373m MASSIVE JUMP FOI** (was **EUR5.720m**, +**EUR1.653m**) / FVA IGS **EUR10.596m** / leasing MVA **EUR1.748m**
+  - Exploitatie: ontvangsten **EUR20.819m** / uitgaven **EUR17.211m** / saldo **+EUR3.607m STRONG**
+  - AFM **+EUR2.334m STRONG** (gecorr **+EUR2.671m**) / BBR **EUR1.421m** / budget **EUR-0.040m NEG thin FOI** / cum BR **EUR1.421m** / P&L **+EUR0.588m IMPROVING**
+  - Personnel **EUR10.155m** (edu pass-through **EUR3.119m**) / toelagen **EUR3.223m FOI** (police **EUR1.062m** / IGS **EUR1.015m HIGH** / fire **EUR0.592m** / AGB **EUR0.109m**)
+  - Invest **EUR5.967m** / saldo **-EUR4.988m HEAVY FOI** vs MJP **EUR7.550m**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW expl gap **-EUR1.057m**
+  - Dual AGB Beleko: consol AFM residual **NEG FOI**
+- Dual: Linter budget NEG invest-driven / MJP loans 2026 (tick1083) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse / Kortenberg residual next; progress@1090 in 5
+- Wrote: budgets +53 (bud_ber_*); commitments +7; leaderboard +8; sources +1; entity city_bertem; FOI **gap_ber_pension_loans_invest_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1084=done; spawn **rq_1085**; ticks=1084
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1085** residual dual L5; deferred **rq_116**; progress@1090 in 5
+
