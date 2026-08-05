@@ -26758,3 +26758,54 @@ bud_mald_interest_2025,city_maldegem,2025,695599,,,bbc_jr_realized,src_maldegem_
 bud_mald_invest_subs_rec_2025,city_maldegem,2025,2306686,,,bbc_jr_realized,src_maldegem_jr2025,strong,Ontvangen invest-subs 2.31m (VL 2.30m); tick1058
 bud_mald_invest_subs_granted_2025,city_maldegem,2025,489750,,,bbc_jr_realized,src_maldegem_jr2025,strong,Toegestane invest-subs 0.490m; tick1058
 bud_mald_vorderingen_kt_2025,city_maldegem,2025,5846605,,,bbc_jr_realized,src_maldegem_jr2025,strong,Vorderingen KT YE2025 5.85m JUMP; tick1058
+bud_skw_assets_2025,city_sint_katelijne_waver,2025,139104120,,,bbc_jr_realized,src_skw_jr2025,strong,Assets YE2025 139.10m JUMP (was 137.97m); tick1059
+bud_skw_equity_2025,city_sint_katelijne_waver,2025,116989551,,,bbc_jr_realized,src_skw_jr2025,strong,Nettoactief YE2025 116.99m JUMP (was 111.86m); tick1059
+bud_skw_debt_total_2025,city_sint_katelijne_waver,2025,22114570,,,bbc_jr_realized,src_skw_jr2025,strong,Total schulden YE2025 22.11m DECLINE (was 26.11m); tick1059
+bud_skw_fin_debt_2025,city_sint_katelijne_waver,2025,6335625,,,bbc_jr_realized,src_skw_jr2025,strong,Fin debt total YE2025 6.34m DECLINE (was 7.57m T4); tick1059
+bud_skw_fin_debt_lt_2025,city_sint_katelijne_waver,2025,5125573,,,bbc_jr_realized,src_skw_jr2025,strong,Fin debt LT YE2025 5.13m DECLINE (was 6.23m); tick1059
+bud_skw_fin_debt_st_due_2025,city_sint_katelijne_waver,2025,1210052,,,bbc_jr_realized,src_skw_jr2025,strong,Fin debt ST due YE2025 1.21m; tick1059
+bud_skw_fin_debt_st_2025,city_sint_katelijne_waver,2025,0,,,bbc_jr_realized,src_skw_jr2025,strong,Fin debt ST treasury YE2025 0; tick1059
+bud_skw_new_loans_2025,city_sint_katelijne_waver,2025,105839,,,bbc_jr_realized,src_skw_jr2025,strong,Nieuwe leningen/leasings 0.106m LOW; tick1059
+bud_skw_aflossingen_2025,city_sint_katelijne_waver,2025,1340916,,,bbc_jr_realized,src_skw_jr2025,strong,Periodieke aflossingen 1.34m; tick1059
+bud_skw_cash_2025,city_sint_katelijne_waver,2025,11891108,,,bbc_jr_realized,src_skw_jr2025,strong,Liquide middelen YE2025 11.89m JUMP (was 10.91m); tick1059
+bud_skw_pension_2025,city_sint_katelijne_waver,2025,10942875,,,bbc_jr_realized,src_skw_jr2025,strong,Pensioenvoorzieningen LT YE2025 10.94m DROP FOI (was 11.99m); tick1059
+bud_skw_cap_subs_2025,city_sint_katelijne_waver,2025,10843480,,,bbc_jr_realized,src_skw_jr2025,strong,Kapitaalsubsidies YE2025 10.84m; tick1059
+bud_skw_fva_total_2025,city_sint_katelijne_waver,2025,13504887,,,bbc_jr_realized,src_skw_jr2025,strong,FVA total YE2025 13.50m; tick1059
+bud_skw_fva_igs_2025,city_sint_katelijne_waver,2025,13425869,,,bbc_jr_realized,src_skw_jr2025,strong,FVA IGS YE2025 13.43m; tick1059
+bud_skw_leasing_mva_2025,city_sint_katelijne_waver,2025,3398306,,,bbc_jr_realized,src_skw_jr2025,strong,Leasing MVA YE2025 3.40m; tick1059
+bud_skw_expl_rec_2025,city_sint_katelijne_waver,2025,50587779,,,bbc_jr_realized,src_skw_jr2025,strong,Exploitatieontvangsten 50.59m; tick1059
+bud_skw_expl_exp_2025,city_sint_katelijne_waver,2025,41965602,,,bbc_jr_realized,src_skw_jr2025,strong,Exploitatieuitgaven 41.97m; tick1059
+bud_skw_expl_saldo_2025,city_sint_katelijne_waver,2025,8622177,,,bbc_jr_realized,src_skw_jr2025,strong,Exploitatiesaldo +8.62m VERY STRONG; tick1059
+bud_skw_invest_exp_2025,city_sint_katelijne_waver,2025,6646966,,,bbc_jr_realized,src_skw_jr2025,strong,Investeringsuitgaven 6.65m vs MJP 20.73m MASSIVE UNDERSPEND FOI; tick1059
+bud_skw_invest_rec_2025,city_sint_katelijne_waver,2025,793825,,,bbc_jr_realized,src_skw_jr2025,strong,Investeringsontvangsten 0.794m; tick1059
+bud_skw_invest_saldo_2025,city_sint_katelijne_waver,2025,-5853141,,,bbc_jr_realized,src_skw_jr2025,strong,Investeringssaldo -5.85m; tick1059
+bud_skw_mjp_invest_planned_2025,city_sint_katelijne_waver,2025,20734111,,,bbc_jr_realized,src_skw_jr2025,strong,MJP invest planned 20.73m vs realized 6.65m underspend FOI; tick1059
+bud_skw_afm_2025,city_sint_katelijne_waver,2025,7556244,,,bbc_jr_realized,src_skw_jr2025,strong,AFM +7.56m VERY STRONG; tick1059
+bud_skw_afm_corr_2025,city_sint_katelijne_waver,2025,8291504,,,bbc_jr_realized,src_skw_jr2025,strong,Gecorrigeerde AFM +8.29m VERY STRONG; tick1059
+bud_skw_bbr_2025,city_sint_katelijne_waver,2025,12786033,,,bbc_jr_realized,src_skw_jr2025,strong,BBR beschikbaar +12.79m VERY HIGH FOI residual; tick1059
+bud_skw_budget_result_2025,city_sint_katelijne_waver,2025,2256363,,,bbc_jr_realized,src_skw_jr2025,strong,Budgettair resultaat +2.26m STRONG; tick1059
+bud_skw_cum_br_2025,city_sint_katelijne_waver,2025,12972699,,,bbc_jr_realized,src_skw_jr2025,strong,Gecumuleerd budgettair resultaat +12.97m; tick1059
+bud_skw_pnl_2025,city_sint_katelijne_waver,2025,4804994,,,bbc_jr_realized,src_skw_jr2025,strong,P&L/J5 overschot +4.80m STRONG flip (was -6.16m); tick1059
+bud_skw_ge_expl_exp_2025,city_sint_katelijne_waver,2025,32863701,,,bbc_jr_realized,src_skw_jr2025,strong,GE exploitatieuitgaven J3 32.86m; tick1059
+bud_skw_ge_expl_rec_2025,city_sint_katelijne_waver,2025,46269975,,,bbc_jr_realized,src_skw_jr2025,strong,GE exploitatieontvangsten J3 46.27m; tick1059
+bud_skw_ocmw_expl_exp_2025,city_sint_katelijne_waver,2025,9101901,,,bbc_jr_realized,src_skw_jr2025,strong,OCMW exploitatieuitgaven J3 9.10m; tick1059
+bud_skw_ocmw_expl_rec_2025,city_sint_katelijne_waver,2025,4317804,,,bbc_jr_realized,src_skw_jr2025,strong,OCMW exploitatieontvangsten J3 4.32m; tick1059
+bud_skw_ocmw_expl_gap_2025,city_sint_katelijne_waver,2025,-4784097,,,bbc_jr_realized,src_skw_jr2025,strong,OCMW expl gap -4.78m HIGH FOI residual; tick1059
+bud_skw_ocmw_structural_gap_2025,city_sint_katelijne_waver,2025,4784097,,,bbc_jr_realized,src_skw_jr2025,strong,OCMW structural gap 4.78m HIGH FOI residual dual; tick1059
+bud_skw_equity_cum_2025,city_sint_katelijne_waver,2025,13200670,,,bbc_jr_realized,src_skw_jr2025,strong,Gecumuleerd overschot YE2025 +13.20m JUMP (was 8.40m); tick1059
+bud_skw_personnel_2025,city_sint_katelijne_waver,2025,23551551,,,bbc_jr_realized,src_skw_jr2025,strong,Bezoldigingen 23.55m JUMP FOI (edu other 7.33m); tick1059
+bud_skw_edu_pass_through_2025,city_sint_katelijne_waver,2025,7329907,,,bbc_jr_realized,src_skw_jr2025,strong,Onderwijzend personeel ten laste andere overheden 7.33m; tick1059
+bud_skw_toelagen_2025,city_sint_katelijne_waver,2025,7140366,,,bbc_jr_realized,src_skw_jr2025,strong,Toegestane werkingssubsidies 7.14m FOI residual; tick1059
+bud_skw_toelagen_police_2025,city_sint_katelijne_waver,2025,2537575,,,bbc_jr_realized,src_skw_jr2025,strong,Toelage politiezone 2.54m DROP FOI (was 3.09m); tick1059
+bud_skw_toelagen_fire_2025,city_sint_katelijne_waver,2025,1026200,,,bbc_jr_realized,src_skw_jr2025,strong,Toelage hulpverleningszone 1.03m flat; tick1059
+bud_skw_toelagen_welzijn_2025,city_sint_katelijne_waver,2025,2434175,,,bbc_jr_realized,src_skw_jr2025,strong,Toelage welzijnsverenigingen 2.43m HIGH FOI; tick1059
+bud_skw_toelagen_igs_2025,city_sint_katelijne_waver,2025,233722,,,bbc_jr_realized,src_skw_jr2025,strong,Toelage IGS 0.234m; tick1059
+bud_skw_toelagen_other_2025,city_sint_katelijne_waver,2025,903712,,,bbc_jr_realized,src_skw_jr2025,strong,Toelage andere begunstigden 0.904m FOI residual; tick1059
+bud_skw_ocmw_aid_2025,city_sint_katelijne_waver,2025,1758546,,,bbc_jr_realized,src_skw_jr2025,strong,OCMW individuele hulp 1.76m; tick1059
+bud_skw_fiscal_2025,city_sint_katelijne_waver,2025,25628140,,,bbc_jr_realized,src_skw_jr2025,strong,Fiscale opbrengsten 25.63m JUMP; tick1059
+bud_skw_fiscal_ov_2025,city_sint_katelijne_waver,2025,10703507,,,bbc_jr_realized,src_skw_jr2025,strong,Opcentiemen OV 10.70m; tick1059
+bud_skw_fiscal_pb_2025,city_sint_katelijne_waver,2025,10980901,,,bbc_jr_realized,src_skw_jr2025,strong,Aanvullende PB 10.98m JUMP; tick1059
+bud_skw_gemeentefonds_2025,city_sint_katelijne_waver,2025,5589045,,,bbc_jr_realized,src_skw_jr2025,strong,Gemeentefonds 5.59m; tick1059
+bud_skw_interest_2025,city_sint_katelijne_waver,2025,191705,,,bbc_jr_realized,src_skw_jr2025,strong,Rente banken+andere ~0.192m (159k+32k); tick1059
+bud_skw_invest_subs_granted_2025,city_sint_katelijne_waver,2025,796535,,,bbc_jr_realized,src_skw_jr2025,strong,Toegestane invest-subs J5 0.797m JUMP; tick1059
+bud_skw_vorderingen_kt_2025,city_sint_katelijne_waver,2025,4202952,,,bbc_jr_realized,src_skw_jr2025,strong,Vorderingen KT YE2025 4.20m; tick1059

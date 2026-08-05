@@ -14123,3 +14123,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1059** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1059 - 2026-08-10T18:45:00Z
+
+- Unit: **rq_1059** (FOI-adjacent residual dual - **Lokaal Bestuur Sint-Katelijne-Waver Jaarrekening 2025** + Maldegem dual residual)
+- Found (strong primary BBC JR2025 beleidsportaal+PDF; pub 15.06.2026; KBO GE 0207.509.724 / OCMW 0212.170.276; Lemanstraat 63 2860; AD Gunter Desmet FD Britt Van den Broeck; GE+OCMW):
+  - Assets **EUR139.10m JUMP** / equity **EUR116.99m JUMP** / debt total **EUR22.11m DECLINE** / fin debt **EUR6.34m DECLINE** (LT **EUR5.13m** / ST due **EUR1.21m**; was **EUR7.57m**)
+  - New loans **EUR0.106m LOW** / repayments **EUR1.34m**
+  - Cash **EUR11.89m JUMP** / pension **EUR10.94m DROP FOI** (was **EUR11.99m**) / FVA IGS **EUR13.43m** / leasing MVA **EUR3.40m**
+  - Exploitatie: ontvangsten **EUR50.59m** / uitgaven **EUR41.97m** / saldo **+EUR8.62m VERY STRONG**
+  - AFM **+EUR7.56m VERY STRONG** (gecorr **+EUR8.29m**) / BBR **EUR12.79m VERY HIGH FOI** / budget **+EUR2.26m** / cum BR **EUR12.97m** / P&L **+EUR4.80m flip**
+  - Personnel **EUR23.55m JUMP** / toelagen **EUR7.14m FOI** (welzijn **EUR2.43m** / police **EUR2.54m DROP** / fire **EUR1.03m** / other **EUR0.904m**)
+  - Invest **EUR6.65m** vs MJP **EUR20.73m MASSIVE UNDERSPEND FOI**
+  - **OCMW structural gap EUR4.78m HIGH FOI** (J3 exp **EUR9.10m** / rec **EUR4.32m**)
+- Dual: Maldegem assets **EUR134.61m** / fin debt JUMP **EUR21.87m** / OCMW gap **EUR5.46m** (tick1058) - not TE-additive
+- Note: Torhout / Oosterzele / Nijlen residual next; **decade progress next at 1060**
+- Wrote: budgets +51 (bud_skw_*); commitments +7; leaderboard +8; sources +1; entity city_sint_katelijne_waver; FOI **gap_skw_bbr_ocmw_toelagen_invest_l5** prio9 ready + draft; portal+PDF primary (PDF not committed); rq_1059=done; spawn **rq_1060**; ticks=1059
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1060** residual dual L5 + decade progress; deferred **rq_116**; progress@1060
+
