@@ -11039,3 +11039,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37 (bud_bh_*); commitments +4; leaderboard +7; sources +2; entity city_baarle_hertog; FOI **gap_bh_invest_subs_sales_l5** prio6 ready + draft; raw PDF + key; rq_888=done; spawn **rq_889**; ticks=888
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_889** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@890 in 2
+
+## Tick 889 - 2026-08-06T17:30:00Z
+
+- Unit: **rq_889** (FOI-adjacent residual dual - **Gemeente+OCMW Herzele Jaarrekening 2025** + Baarle-Hertog dual)
+- Found (strong primary BBC JR2025 214p):
+  - Assets **EUR83.3m** / equity **EUR31.8m** / debt total **EUR51.6m** / fin debt **EUR32.0m** (LT **EUR26.6m** / ST due **EUR2.2m** / ST **EUR3.2m**)
+  - New loans **EUR0.20m** / **MJP debt ramp EUR5.76m (2026) + EUR3.76m (2027)** FOI / pension **EUR11.5m** (was **EUR9.9m**) / cash **EUR1.4m** (was **EUR3.3m**)
+  - Exploitatie: ontvangsten **EUR41.6m** / uitgaven **EUR37.7m** / saldo **+EUR3.8m**
+  - AFM **+EUR2.1m** (gecorr **+EUR1.4m**; recovered from **-EUR2.2m** 2024) / **BBR -EUR2.65m** / budget result **-EUR1.4m** / P&L **-EUR0.09m**
+  - Personnel **EUR22.5m** / toelagen **EUR3.5m** (police **EUR2.4m** / other **EUR0.24m**) / fiscal **EUR17.4m**
+  - Invest **EUR4.2m** / invest-subs **EUR0.61m** / gemeentefonds **EUR5.4m**
+- Dual: Baarle-Hertog **EUR21.1m** / AFM **+EUR1.0m** / cash **EUR6.7m** (tick888) - not TE-additive
+- Wrote: budgets +41 (bud_hzl_*); commitments +4; leaderboard +7; sources +2; entity city_herzele; FOI **gap_hzl_bbr_mjp_debt_pension_l5** prio8 ready + draft; raw PDF + key; rq_889=done; spawn **rq_890 progress@890 prio10**; ticks=889
+- FOI: ready only - **do not send**
+- Next: **progress@890 NEXT** (prio10 rq_890); then residual dual L5; deferred **rq_116**

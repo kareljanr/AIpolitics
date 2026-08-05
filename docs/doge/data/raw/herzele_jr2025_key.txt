@@ -1,0 +1,21 @@
+Herzele JR2025 BBC consol
+Source: https://www.herzele.be/file/download/42406/B1BFA58B41769A5A25A3159204B832BF
+214p; Markt 20 9550 Herzele; BE 0207.439.448 / 0212.222.538
+tick889
+
+Assets 83343654 / Equity 31768481 / Debt total 51575173
+Cash 1444061 was 3254098 / Cap subs 7646320
+Fin debt 31985086 (LT 26563080 + ST due 2222006 + ST 3200000)
+New loans 199097; MJP ramp 5760288 (2026) + 3760000 (2027)
+Pension 11503759 was 9874206
+FVA IGS 8401026 / FVA total 14221511
+Expl rec 41554995 / exp 37713112 / saldo 3841883
+AFM 2086328 / gecorr 1443378
+BBR -2651728 / cumul -2465062
+Budget result -1355891 / P&L -90333
+Personnel 22498888 (onderwijs other ~2055358)
+Toelagen 3480214 (police 2373880 fire 529059 AGB 259631 other 242509)
+OCMW aid 1627548
+Fiscal 17402524 (OV 6308995 APB 8686144)
+Gemeentefonds 5366813
+Invest exp 4246936 / invest-subs 607969

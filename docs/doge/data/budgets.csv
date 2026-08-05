@@ -19250,3 +19250,44 @@ bud_bh_gemeentefonds_2025,city_baarle_hertog,2025,1221314,,,jaarrekening_realize
 bud_bh_invest_subs_granted_2025,city_baarle_hertog,2025,108628,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Toegestane investeringssubsidies 0.109m 2025 (other 0.060m FOI); tick888
 bud_bh_new_loans_2025,city_baarle_hertog,2025,25470,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Nieuwe leningen/leasings 0.025m 2025; tick888
 bud_bh_asset_sales_2025,city_baarle_hertog,2025,252056,,,jaarrekening_realized,src_baarle_hertog_jr2025,strong,Verkoop MVA 0.252m 2025 FOI composition; tick888
+bud_hzl_assets_2025,city_herzele,2025,83343654,,,jaarrekening_realized,src_herzele_jr2025,strong,Consol total assets YE2025 83.344m; tick889
+bud_hzl_equity_2025,city_herzele,2025,31768481,,,jaarrekening_realized,src_herzele_jr2025,strong,Nettoactief YE2025 31.768m; tick889
+bud_hzl_debt_total_2025,city_herzele,2025,51575173,,,jaarrekening_realized,src_herzele_jr2025,strong,Schulden total YE2025 51.575m; tick889
+bud_hzl_fin_debt_2025,city_herzele,2025,31985086,,,jaarrekening_realized,src_herzele_jr2025,strong,Fin schulden total YE2025 31.985m (LT 26.563 + ST due 2.222 + ST 3.200); tick889
+bud_hzl_fin_debt_lt_2025,city_herzele,2025,26563080,,,jaarrekening_realized,src_herzele_jr2025,strong,Fin schulden LT YE2025 26.563m (was 29.195m); tick889
+bud_hzl_fin_debt_st_due_2025,city_herzele,2025,2222006,,,jaarrekening_realized,src_herzele_jr2025,strong,Fin schulden LT binnen jaar YE2025 2.222m; tick889
+bud_hzl_fin_debt_st_2025,city_herzele,2025,3200000,,,jaarrekening_realized,src_herzele_jr2025,strong,Fin schulden ST YE2025 3.200m; tick889
+bud_hzl_pension_prov_2025,city_herzele,2025,11503759,,,jaarrekening_realized,src_herzele_jr2025,strong,Pensioenvoorzieningen YE2025 11.504m (was 9.874m jump FOI); tick889
+bud_hzl_cash_2025,city_herzele,2025,1444061,,,jaarrekening_realized,src_herzele_jr2025,strong,Liquide middelen YE2025 1.444m (was 3.254m drop FOI); tick889
+bud_hzl_cap_subs_2025,city_herzele,2025,7646320,,,jaarrekening_realized,src_herzele_jr2025,strong,Kapitaalsubsidies YE2025 7.646m; tick889
+bud_hzl_fva_igs_2025,city_herzele,2025,8401026,,,jaarrekening_realized,src_herzele_jr2025,strong,Fin VA IGS YE2025 8.401m; tick889
+bud_hzl_fva_total_2025,city_herzele,2025,14221511,,,jaarrekening_realized,src_herzele_jr2025,strong,Fin VA total YE2025 14.222m; tick889
+bud_hzl_cumul_budget_2025,city_herzele,2025,-2465062,,,jaarrekening_realized,src_herzele_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 -2.465m FOI; tick889
+bud_hzl_bbr_2025,city_herzele,2025,-2651728,,,jaarrekening_realized,src_herzele_jr2025,strong,Beschikbaar budgettair resultaat YE2025 -2.652m FOI-adjacent; tick889
+bud_hzl_expl_rec_2025,city_herzele,2025,41554995,,,jaarrekening_realized,src_herzele_jr2025,strong,Exploitatieontvangsten 41.555m 2025; tick889
+bud_hzl_expl_exp_2025,city_herzele,2025,37713112,,,jaarrekening_realized,src_herzele_jr2025,strong,Exploitatieuitgaven 37.713m 2025; tick889
+bud_hzl_expl_saldo_2025,city_herzele,2025,3841883,,,jaarrekening_realized,src_herzele_jr2025,strong,Exploitatiesaldo +3.842m 2025; tick889
+bud_hzl_invest_exp_2025,city_herzele,2025,4246936,,,jaarrekening_realized,src_herzele_jr2025,strong,Investeringsuitgaven 4.247m 2025; tick889
+bud_hzl_invest_rec_2025,city_herzele,2025,689435,,,jaarrekening_realized,src_herzele_jr2025,strong,Investeringsontvangsten 0.689m 2025; tick889
+bud_hzl_invest_saldo_2025,city_herzele,2025,-3557500,,,jaarrekening_realized,src_herzele_jr2025,strong,Investeringssaldo -3.558m 2025; tick889
+bud_hzl_fin_saldo_2025,city_herzele,2025,-1640274,,,jaarrekening_realized,src_herzele_jr2025,strong,Financieringssaldo -1.640m 2025; tick889
+bud_hzl_budget_result_2025,city_herzele,2025,-1355891,,,jaarrekening_realized,src_herzele_jr2025,strong,Budgettair resultaat boekjaar -1.356m 2025 FOI; tick889
+bud_hzl_afm_2025,city_herzele,2025,2086328,,,jaarrekening_realized,src_herzele_jr2025,strong,Autofinancieringsmarge +2.086m 2025 (recovered from -2.2m 2024); tick889
+bud_hzl_afm_gecorr_2025,city_herzele,2025,1443378,,,jaarrekening_realized,src_herzele_jr2025,strong,Gecorrigeerde AFM +1.443m 2025; tick889
+bud_hzl_pl_2025,city_herzele,2025,-90333,,,jaarrekening_realized,src_herzele_jr2025,strong,P&L tekort -0.090m 2025; tick889
+bud_hzl_personnel_2025,city_herzele,2025,22498888,,,jaarrekening_realized,src_herzele_jr2025,strong,Bezoldigingen 22.499m 2025 (incl onderwijs other ~2.055m); tick889
+bud_hzl_personnel_onderwijs_other_2025,city_herzele,2025,2055358,,,jaarrekening_realized,src_herzele_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.055m 2025; tick889
+bud_hzl_toelagen_2025,city_herzele,2025,3480214,,,jaarrekening_realized,src_herzele_jr2025,strong,Toegestane werkingssubsidies 3.480m 2025; tick889
+bud_hzl_toelagen_police_2025,city_herzele,2025,2373880,,,jaarrekening_realized,src_herzele_jr2025,strong,Toelage politiezone 2.374m 2025; tick889
+bud_hzl_toelagen_fire_2025,city_herzele,2025,529059,,,jaarrekening_realized,src_herzele_jr2025,strong,Toelage hulpverleningszone 0.529m 2025; tick889
+bud_hzl_toelagen_agb_2025,city_herzele,2025,259631,,,jaarrekening_realized,src_herzele_jr2025,strong,Toelage eigen AGB 0.260m 2025; tick889
+bud_hzl_toelagen_other_2025,city_herzele,2025,242509,,,jaarrekening_realized,src_herzele_jr2025,strong,Toelagen andere begunstigden 0.243m 2025 FOI; tick889
+bud_hzl_ocmw_aid_2025,city_herzele,2025,1627548,,,jaarrekening_realized,src_herzele_jr2025,strong,Individuele hulpverlening OCMW 1.628m 2025; tick889
+bud_hzl_fiscal_2025,city_herzele,2025,17402524,,,jaarrekening_realized,src_herzele_jr2025,strong,Fiscale opbrengsten 17.403m 2025; tick889
+bud_hzl_fiscal_ov_2025,city_herzele,2025,6308995,,,jaarrekening_realized,src_herzele_jr2025,strong,Opcentiemen OV 6.309m 2025; tick889
+bud_hzl_fiscal_apb_2025,city_herzele,2025,8686144,,,jaarrekening_realized,src_herzele_jr2025,strong,Aanvullende PB 8.686m 2025; tick889
+bud_hzl_gemeentefonds_2025,city_herzele,2025,5366813,,,jaarrekening_realized,src_herzele_jr2025,strong,Gemeentefonds 5.367m 2025; tick889
+bud_hzl_invest_subs_granted_2025,city_herzele,2025,607969,,,jaarrekening_realized,src_herzele_jr2025,strong,Toegestane investeringssubsidies 0.608m 2025; tick889
+bud_hzl_new_loans_2025,city_herzele,2025,199097,,,jaarrekening_realized,src_herzele_jr2025,strong,Nieuwe leningen 0.199m 2025; MJP ramp 5.76m 2026 + 3.76m 2027 FOI; tick889
+bud_hzl_mjp_new_loans_2026,city_herzele,2026,5760288,,,meerjarenplan,src_herzele_jr2025,medium,MJP planned new loans 5.760m 2026 FOI-adjacent; tick889
+bud_hzl_mjp_new_loans_2027,city_herzele,2027,3760000,,,meerjarenplan,src_herzele_jr2025,medium,MJP planned new loans 3.760m 2027 FOI-adjacent; tick889
