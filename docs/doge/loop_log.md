@@ -13638,3 +13638,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1035** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / Kalmthout / other); deferred **rq_116**; progress@1040 in 5
 
+
+### Tick 1035 - 2026-08-10T06:45:00Z
+
+- Unit: **rq_1035** (FOI-adjacent residual dual - **Gemeente+OCMW Herenthout Jaarrekening 2025** + Ravels dual residual)
+- Found (strong primary BBC JR2025 208p; KBO 0207.502.004 / OCMW 0212.217.885; AD Liesbeth Lambaerts; FD Ann Wiemeersch; Bouwelse Steenweg 8/52 NIS 13012; GR 22.06.2026):
+  - Assets **EUR56.72m JUMP** (was **EUR52.24m**) / equity **EUR41.38m** / debt total **EUR15.34m JUMP** / fin debt **EUR7.41m JUMP** (was **EUR4.75m**; LT **EUR6.74m** / ST due **EUR0.669m**)
+  - New loans **EUR3.25m JUMP HIGH FOI** (bank **EUR3.00m** + other **EUR0.251m**) / repayments **EUR0.586m**
+  - Cash **EUR3.97m DROP** (was **EUR4.90m**) / pension **EUR3.82m** / FVA IGS **EUR4.46m** / leasing MVA **EUR1.61m**
+  - Exploitatie: ontvangsten **EUR19.72m** / uitgaven **EUR17.85m** / saldo **+EUR1.87m STRONG**
+  - AFM **+EUR1.33m STRONG** (gecorr **+EUR1.54m**) / BBR **EUR3.03m** / budget **-EUR0.474m NEG FOI** / cum BR **EUR3.03m** / P&L **+EUR0.474m**
+  - Personnel **EUR10.72m** (edu pass-through **EUR2.68m**) / toelagen **EUR1.29m FOI** (police **EUR0.838m** / fire **EUR0.249m** / other **EUR0.174m**)
+  - Invest **EUR7.09m** vs MJP **EUR7.46m** / buildings invest **EUR6.19m JUMP FOI** / invest-subs VL received **EUR2.01m JUMP**
+  - **OCMW cover EUR0 ZERO FOI** vs gap **-EUR1.90m** / OCMW equity cum **-EUR9.34m WORSENING** (was **-EUR7.30m**) / OCMW P&L **-EUR2.03m HIGH** / OCMW nettoactief **-EUR6.06m**
+- Dual: Ravels assets **EUR164.34m** / cash **EUR25.79m** / pension JUMP (tick1034) - not TE-additive
+- Note: Retie / Grobbendonk JR2025 pages exist for next; Torhout news-only; Stekene 404; Balen OCR; Vorselaar docs-only; Beerse/Kalmthout/Essen residual optional
+- Wrote: budgets +56 (bud_hth_*); commitments +6; leaderboard +8; sources +1; entity city_herenthout; FOI **gap_hth_ocmw_loans_budget_buildings_l5** prio9 ready + draft; key only (PDF ~3.9MB not stored in git); rq_1035=done; spawn **rq_1036**; ticks=1035
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1036** residual dual L5 (Retie / Grobbendonk / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1040 in 4
+
