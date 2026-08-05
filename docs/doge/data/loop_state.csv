@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T05:15:00Z,rq_984,984,no,tick984 Lo-Reninge GE+OCMW JR2025 dual residual; FOI gap_lor_debt_cash_ocmw_toelagen_l5 prio8 assets 38.51m fin debt 3.48m RISING +loan 1.80m cash 1.27m DROP AFM +0.911m budget -0.324m OCMW cover 0.090m P&L -0.194m toelagen 0.869m; next residual dual L5 rq_985; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T05:45:00Z,rq_985,985,no,tick985 Kortemark GE+OCMW JR2025 dual residual; FOI gap_km_ocmw_fva_pension_toelagen_l5 prio8 assets 98.68m fin debt 9.76m DECLINING cash 5.10m JUMP AFM +6.72m OCMW cover 0.969m FULL toelagen 2.17m pension 5.47m RISING FVA IGS 30.56m JUMP; next residual dual L5 rq_986; rq_116 deferred

@@ -12697,3 +12697,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_lor_*); commitments +5; leaderboard +7; sources +1; entity city_lo_reninge; FOI **gap_lor_debt_cash_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~2.9MB not stored in git); rq_984=done; spawn **rq_985**; ticks=984
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_985** residual dual L5 (Kortemark / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 6
+
+### Tick 985 - 2026-08-09T05:45:00Z
+
+- Unit: **rq_985** (FOI-adjacent residual dual - **Gemeente+OCMW Kortemark Jaarrekening 2025** + Lo-Reninge dual residual)
+- Found (strong primary BBC JR2025 148p; KBO 0207.532.488 / OCMW 0212.189.280; FD Hans Cromheecke; AD Sara De Meyer; Stationsstraat 68):
+  - Assets **EUR98.68m** / equity **EUR80.50m** / debt total **EUR18.18m** / fin debt **EUR9.76m** (**DECLINING** from **EUR11.39m**; LT **EUR8.37m** / ST due **EUR1.39m**)
+  - New loans **EUR0** / repayments **EUR1.63m**
+  - Cash **EUR5.10m JUMP** (was **EUR3.92m**) / pension **EUR5.47m RISING** (was **EUR4.11m**) / leasing MVA **EUR0.727m FOI** / FVA IGS **EUR30.56m JUMP** (was **EUR16.34m**; reclass **EUR10.81m** + invest **EUR3.34m FOI**)
+  - Exploitatie: ontvangsten **EUR26.20m** / uitgaven **EUR17.89m** / saldo **+EUR8.30m STRONG**
+  - AFM **+EUR6.72m STRONG** (gecorr **+EUR7.44m**) / BBR **EUR4.62m HIGH** / budget **+EUR0.731m** / P&L **+EUR4.50m** (GE **+EUR5.46m** / OCMW **-EUR0.969m FOI**)
+  - Personnel **EUR9.15m** / toelagen **EUR2.17m FOI** (police **EUR1.23m** / fire **EUR0.542m** / other **EUR0.355m** / eredienst **EUR0.044m** / IGS **EUR0**)
+  - Invest **EUR6.80m** vs MJP **EUR14.07m LARGE underspend FOI** / **OCMW cover EUR0.969m FULL FOI** / fin income J5 **EUR5.17m JUMP FOI**
+- Dual: Lo-Reninge **EUR38.51m** / fin debt **EUR3.48m RISING** / OCMW cover **EUR0.090m** (tick984) - not TE-additive
+- Note: Ledegem/Torhout full BBC / WZBW still no extractable full JR2025 this tick; other unmined VL next residual
+- Wrote: budgets +49 (bud_km_*); commitments +5; leaderboard +7; sources +1; entity city_kortemark; FOI **gap_km_ocmw_fva_pension_toelagen_l5** prio8 ready + draft; key only (PDF ~4.9MB not stored in git); rq_985=done; spawn **rq_986**; ticks=985
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_986** residual dual L5 (Ledegem / Torhout / WZBW / other unmined VL JR2025); deferred **rq_116**; progress@990 in 5
+

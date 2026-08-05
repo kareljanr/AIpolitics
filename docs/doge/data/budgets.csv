@@ -23033,3 +23033,52 @@ bud_lor_ac_restauratie_2025,city_lo_reninge,2025,706291,,,realized,src_lo_rening
 bud_lor_kerk_uitkijktoren_2025,city_lo_reninge,2025,173570,,,realized,src_lo_reninge_jr2025,strong,Parochiekerk Sint-Petrus uitkijktoren 0.174m FOI; tick984
 bud_lor_costs_j5_2025,city_lo_reninge,2025,8379775,,,realized,src_lo_reninge_jr2025,strong,J5 total kosten 8.38m; tick984
 bud_lor_revenue_j5_2025,city_lo_reninge,2025,8273032,,,realized,src_lo_reninge_jr2025,strong,J5 total opbrengsten 8.27m; tick984
+bud_km_assets_2025,city_kortemark,2025,98682013,,,realized,src_kortemark_jr2025,strong,Assets YE2025 98.68m; tick985
+bud_km_equity_2025,city_kortemark,2025,80500946,,,realized,src_kortemark_jr2025,strong,Nettoactief YE2025 80.50m; tick985
+bud_km_debt_total_2025,city_kortemark,2025,18181067,,,realized,src_kortemark_jr2025,strong,Total schulden YE2025 18.18m; tick985
+bud_km_fin_debt_2025,city_kortemark,2025,9759693,,,realized,src_kortemark_jr2025,strong,Fin debt total YE2025 9.76m DECLINING (was 11.39m); tick985
+bud_km_fin_debt_lt_2025,city_kortemark,2025,8365083,,,realized,src_kortemark_jr2025,strong,Fin debt LT YE2025 8.37m; tick985
+bud_km_fin_debt_st_due_2025,city_kortemark,2025,1394610,,,realized,src_kortemark_jr2025,strong,Fin debt ST due YE2025 1.39m; tick985
+bud_km_new_loans_2025,city_kortemark,2025,0,,,realized,src_kortemark_jr2025,strong,Nieuwe leningen 0 (no new bank/lease 2025); tick985
+bud_km_repayments_2025,city_kortemark,2025,1627430,,,realized,src_kortemark_jr2025,strong,Periodieke aflossingen 1.63m; tick985
+bud_km_cash_2025,city_kortemark,2025,5103170,,,realized,src_kortemark_jr2025,strong,Liquide middelen YE2025 5.10m JUMP (was 3.92m); tick985
+bud_km_pension_2025,city_kortemark,2025,5466199,,,realized,src_kortemark_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.47m RISING (was 4.11m) FOI; tick985
+bud_km_leasing_mva_2025,city_kortemark,2025,726817,,,realized,src_kortemark_jr2025,strong,Leasing MVA YE2025 0.727m FOI; tick985
+bud_km_fva_igs_2025,city_kortemark,2025,30563235,,,realized,src_kortemark_jr2025,strong,FVA IGS YE2025 30.56m JUMP (was 16.34m) FOI reclass+invest; tick985
+bud_km_fva_other_2025,city_kortemark,2025,1845737,,,realized,src_kortemark_jr2025,strong,Andere FVA YE2025 1.85m (was 12.65m reclass to IGS); tick985
+bud_km_fva_invest_igs_2025,city_kortemark,2025,3335461,,,realized,src_kortemark_jr2025,strong,IGS FVA aankopen 3.34m FOI; tick985
+bud_km_cap_subs_2025,city_kortemark,2025,10106496,,,realized,src_kortemark_jr2025,strong,Kapitaalsubsidies YE2025 10.11m; tick985
+bud_km_expl_rec_2025,city_kortemark,2025,26195586,,,realized,src_kortemark_jr2025,strong,Exploitatieontvangsten 26.20m; tick985
+bud_km_expl_exp_2025,city_kortemark,2025,17893653,,,realized,src_kortemark_jr2025,strong,Exploitatieuitgaven 17.89m; tick985
+bud_km_expl_saldo_2025,city_kortemark,2025,8301933,,,realized,src_kortemark_jr2025,strong,Exploitatiesaldo +8.30m STRONG; tick985
+bud_km_invest_exp_2025,city_kortemark,2025,6803051,,,realized,src_kortemark_jr2025,strong,Investeringsuitgaven 6.80m vs MJP 14.07m LARGE underspend FOI; tick985
+bud_km_invest_rec_2025,city_kortemark,2025,812989,,,realized,src_kortemark_jr2025,strong,Investeringsontvangsten 0.813m; tick985
+bud_km_invest_saldo_2025,city_kortemark,2025,-5990062,,,realized,src_kortemark_jr2025,strong,Investeringssaldo -5.99m; tick985
+bud_km_fin_rec_2025,city_kortemark,2025,46500,,,realized,src_kortemark_jr2025,strong,Financieringsontvangsten 0.047m (loan recovery); tick985
+bud_km_fin_exp_2025,city_kortemark,2025,1627430,,,realized,src_kortemark_jr2025,strong,Financieringsuitgaven 1.63m; tick985
+bud_km_budget_result_2025,city_kortemark,2025,730941,,,realized,src_kortemark_jr2025,strong,Budgettair resultaat +0.731m; tick985
+bud_km_cum_budget_2025,city_kortemark,2025,4617777,,,realized,src_kortemark_jr2025,strong,Gecumuleerd budgettair resultaat 4.62m; tick985
+bud_km_bbr_2025,city_kortemark,2025,4617777,,,realized,src_kortemark_jr2025,strong,Beschikbaar BBR 4.62m HIGH; tick985
+bud_km_afm_2025,city_kortemark,2025,6721003,,,realized,src_kortemark_jr2025,strong,AFM +6.72m STRONG; tick985
+bud_km_afm_corr_2025,city_kortemark,2025,7437463,,,realized,src_kortemark_jr2025,strong,Gecorrigeerde AFM +7.44m; tick985
+bud_km_pnl_2025,city_kortemark,2025,4495431,,,realized,src_kortemark_jr2025,strong,P&L +4.50m (GE +5.46m / OCMW -0.969m FOI); tick985
+bud_km_ge_pnl_2025,city_kortemark,2025,5464701,,,realized,src_kortemark_jr2025,strong,Gemeente P&L +5.46m; tick985
+bud_km_ocmw_pnl_neg_2025,city_kortemark,2025,-969270,,,realized,src_kortemark_jr2025,strong,OCMW P&L -0.969m FOI residual; tick985
+bud_km_ocmw_cover_2025,city_kortemark,2025,969270,,,realized,src_kortemark_jr2025,strong,OCMW cover 0.969m FULL FOI residual; tick985
+bud_km_ocmw_cum_surplus_2025,city_kortemark,2025,356231,,,realized,src_kortemark_jr2025,strong,OCMW cum surplus ~0.356m after full cover; tick985
+bud_km_personnel_2025,city_kortemark,2025,9153081,,,realized,src_kortemark_jr2025,strong,Bezoldigingen T2/J5 9.15m FOI; tick985
+bud_km_goederen_2025,city_kortemark,2025,5523892,,,realized,src_kortemark_jr2025,strong,Goederen en diensten J5 5.52m; tick985
+bud_km_toelagen_2025,city_kortemark,2025,2167966,,,realized,src_kortemark_jr2025,strong,Toegestane werkingssubsidies 2.17m FOI named; tick985
+bud_km_toelage_police_2025,city_kortemark,2025,1227274,,,realized,src_kortemark_jr2025,strong,Toelage politiezone 1.23m FOI; tick985
+bud_km_toelage_fire_2025,city_kortemark,2025,541698,,,realized,src_kortemark_jr2025,strong,Toelage HVZ 0.542m FOI; tick985
+bud_km_toelage_igs_2025,city_kortemark,2025,0,,,realized,src_kortemark_jr2025,strong,Toelage IGS 0 (was non-zero pre-2023); tick985
+bud_km_toelage_eredienst_2025,city_kortemark,2025,44482,,,realized,src_kortemark_jr2025,strong,Toelage besturen eredienst 0.044m; tick985
+bud_km_toelage_other_2025,city_kortemark,2025,354512,,,realized,src_kortemark_jr2025,strong,Toelage andere begunstigden 0.355m FOI; tick985
+bud_km_ocmw_aid_2025,city_kortemark,2025,590307,,,realized,src_kortemark_jr2025,strong,Individuele hulp OCMW 0.590m FOI; tick985
+bud_km_fiscal_2025,city_kortemark,2025,11710915,,,realized,src_kortemark_jr2025,strong,Fiscale opbrengsten 11.71m; tick985
+bud_km_gemeentefonds_2025,city_kortemark,2025,4403575,,,realized,src_kortemark_jr2025,strong,Gemeentefonds 4.40m; tick985
+bud_km_werkingsubs_rec_2025,city_kortemark,2025,8884742,,,realized,src_kortemark_jr2025,strong,Ontvangen werkingssubsidies 8.88m; tick985
+bud_km_fin_income_j5_2025,city_kortemark,2025,5170005,,,realized,src_kortemark_jr2025,strong,Financiele opbrengsten J5 5.17m JUMP FOI; tick985
+bud_km_costs_j5_2025,city_kortemark,2025,22339858,,,realized,src_kortemark_jr2025,strong,J5 total kosten 22.34m; tick985
+bud_km_revenue_j5_2025,city_kortemark,2025,26835289,,,realized,src_kortemark_jr2025,strong,J5 total opbrengsten 26.84m; tick985
+bud_km_mjp_invest_exp_2025,city_kortemark,2025,14067820,,,realized,src_kortemark_jr2025,strong,MJP investeringsuitgaven 14.07m (realized 6.80m underspend FOI); tick985
