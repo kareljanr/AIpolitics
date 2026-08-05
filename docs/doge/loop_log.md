@@ -11223,3 +11223,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_900=done; next **rq_901**; loop_state ticks=900
 - FOI: none new this tick
 - Next: prio5 **rq_901** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@910 in 10
+
+## Tick 901 - 2026-08-06T23:30:00Z
+
+- Unit: **rq_901** (FOI-adjacent residual dual - **Gemeente+OCMW Boortmeerbeek Jaarrekening 2025** + Rotselaar dual)
+- Found (strong primary BBC JR2025 185p):
+  - Assets **EUR81.6m** / equity **EUR69.8m** / debt total **EUR11.8m** / fin debt **EUR3.2m** declining (LT **EUR2.9m** / ST due **EUR0.38m**)
+  - New loans **EUR0.08m** / pension **EUR4.9m** (was **EUR6.0m**) / cash **EUR11.3m**
+  - Exploitatie: ontvangsten **EUR26.1m** / uitgaven **EUR21.4m** / saldo **+EUR4.7m**
+  - AFM **+EUR4.40m** (gecorr **+EUR4.49m**) / BBR **EUR14.9m** / budget result **-EUR0.61m** / P&L **+EUR0.76m**
+  - Personnel **EUR11.1m** / toelagen **EUR3.1m** (police **EUR1.5m** / other **EUR0.21m**) / fiscal **EUR15.7m**
+  - Invest **EUR5.7m** / **invest-subs EUR3.11m (police EUR2.90m FOI)** / gemeentefonds **EUR2.5m**
+  - **MJP fin debt YE2027 EUR9.3m**; new loans **EUR4.07+3.07m FOI**
+- Dual: Rotselaar **EUR113.4m** / new loans **EUR7.25m** (tick899) - not TE-additive
+- Wrote: budgets +42 (bud_bmb_*); commitments +4; leaderboard +7; sources +2; entity city_boortmeerbeek; FOI **gap_bmb_invest_subs_police_mjp_l5** prio8 ready + draft; raw PDF + key; rq_901=done; spawn **rq_902**; ticks=901
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_902** residual dual L5 (Tremelo/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@910 in 9

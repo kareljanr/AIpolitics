@@ -19651,3 +19651,45 @@ bud_rot_fiscal_apb_2025,city_rotselaar,2025,9737938,,,jaarrekening_realized,src_
 bud_rot_gemeentefonds_2025,city_rotselaar,2025,3867183,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Gemeentefonds 3.867m 2025; tick899
 bud_rot_invest_subs_granted_2025,city_rotselaar,2025,302434,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Toegestane investeringssubsidies 0.302m 2025; tick899
 bud_rot_new_loans_2025,city_rotselaar,2025,7250975,,,jaarrekening_realized,src_rotselaar_jr2025,strong,Nieuwe leningen/leasings 7.251m 2025 FOI; tick899
+bud_bmb_assets_2025,city_boortmeerbeek,2025,81630687,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Consol total assets YE2025 81.631m; tick901
+bud_bmb_equity_2025,city_boortmeerbeek,2025,69816077,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Nettoactief YE2025 69.816m; tick901
+bud_bmb_debt_total_2025,city_boortmeerbeek,2025,11814610,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Schulden total YE2025 11.815m; tick901
+bud_bmb_fin_debt_2025,city_boortmeerbeek,2025,3247786,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Fin schulden total YE2025 3.248m (LT 2.869 + ST due 0.378) was 3.546m; tick901
+bud_bmb_fin_debt_lt_2025,city_boortmeerbeek,2025,2869379,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Fin schulden LT YE2025 2.869m; tick901
+bud_bmb_fin_debt_st_2025,city_boortmeerbeek,2025,378408,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.378m; tick901
+bud_bmb_pension_prov_2025,city_boortmeerbeek,2025,4919414,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Pensioenvoorzieningen YE2025 4.919m (was 6.015m); tick901
+bud_bmb_cash_2025,city_boortmeerbeek,2025,11276765,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Liquide middelen YE2025 11.277m (was 12.182m); tick901
+bud_bmb_cap_subs_2025,city_boortmeerbeek,2025,2917331,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Kapitaalsubsidies YE2025 2.917m; tick901
+bud_bmb_fva_igs_2025,city_boortmeerbeek,2025,16136552,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Fin VA IGS YE2025 16.137m; tick901
+bud_bmb_fva_total_2025,city_boortmeerbeek,2025,16528812,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Fin VA total YE2025 16.529m; tick901
+bud_bmb_cumul_budget_2025,city_boortmeerbeek,2025,15110386,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 15.110m; tick901
+bud_bmb_bbr_2025,city_boortmeerbeek,2025,14913539,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Beschikbaar budgettair resultaat YE2025 14.914m; tick901
+bud_bmb_expl_rec_2025,city_boortmeerbeek,2025,26140417,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Exploitatieontvangsten 26.140m 2025 (J2); tick901
+bud_bmb_expl_exp_2025,city_boortmeerbeek,2025,21427747,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Exploitatieuitgaven 21.428m 2025 (J2); tick901
+bud_bmb_expl_saldo_2025,city_boortmeerbeek,2025,4712670,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Exploitatiesaldo +4.713m 2025; tick901
+bud_bmb_invest_exp_2025,city_boortmeerbeek,2025,5683473,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Investeringsuitgaven 5.683m 2025 (incl invest-subs 3.11m FOI); tick901
+bud_bmb_invest_rec_2025,city_boortmeerbeek,2025,599522,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Investeringsontvangsten 0.600m 2025; tick901
+bud_bmb_invest_saldo_2025,city_boortmeerbeek,2025,-5083950,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Investeringssaldo -5.084m 2025; tick901
+bud_bmb_fin_saldo_2025,city_boortmeerbeek,2025,-237903,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Financieringssaldo -0.238m 2025; tick901
+bud_bmb_budget_result_2025,city_boortmeerbeek,2025,-609183,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Budgettair resultaat boekjaar -0.609m 2025; tick901
+bud_bmb_afm_2025,city_boortmeerbeek,2025,4399755,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Autofinancieringsmarge +4.400m 2025; tick901
+bud_bmb_afm_gecorr_2025,city_boortmeerbeek,2025,4491704,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Gecorrigeerde AFM +4.492m 2025; tick901
+bud_bmb_pl_2025,city_boortmeerbeek,2025,756243,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,P&L overschot +0.756m 2025; tick901
+bud_bmb_personnel_2025,city_boortmeerbeek,2025,11078019,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Bezoldigingen 11.078m 2025 (incl onderwijs other ~2.046m); tick901
+bud_bmb_personnel_onderwijs_other_2025,city_boortmeerbeek,2025,2046341,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.046m 2025; tick901
+bud_bmb_toelagen_2025,city_boortmeerbeek,2025,3146886,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toegestane werkingssubsidies 3.147m 2025; tick901
+bud_bmb_toelagen_police_2025,city_boortmeerbeek,2025,1529713,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toelage politiezone 1.530m 2025; tick901
+bud_bmb_toelagen_fire_2025,city_boortmeerbeek,2025,760297,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toelage hulpverleningszone 0.760m 2025; tick901
+bud_bmb_toelagen_agb_2025,city_boortmeerbeek,2025,109017,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toelage AGB 0.109m 2025; tick901
+bud_bmb_toelagen_igs_2025,city_boortmeerbeek,2025,531213,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toelage IGS 0.531m 2025; tick901
+bud_bmb_toelagen_other_2025,city_boortmeerbeek,2025,212771,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toelagen andere begunstigden 0.213m 2025 FOI; tick901
+bud_bmb_ocmw_aid_2025,city_boortmeerbeek,2025,600574,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Individuele hulpverlening OCMW 0.601m 2025; tick901
+bud_bmb_fiscal_2025,city_boortmeerbeek,2025,15659553,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Fiscale opbrengsten en boetes 15.660m 2025; tick901
+bud_bmb_fiscal_ov_2025,city_boortmeerbeek,2025,5965690,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Opcentiemen OV 5.966m 2025; tick901
+bud_bmb_fiscal_apb_2025,city_boortmeerbeek,2025,7646645,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Aanvullende PB 7.647m 2025; tick901
+bud_bmb_gemeentefonds_2025,city_boortmeerbeek,2025,2541615,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Gemeentefonds 2.542m 2025; tick901
+bud_bmb_invest_subs_granted_2025,city_boortmeerbeek,2025,3111333,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Toegestane investeringssubsidies 3.111m 2025 FOI (police 2.90m); tick901
+bud_bmb_invest_subs_police_2025,city_boortmeerbeek,2025,2897698,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Invest-subs politiezone 2.898m 2025 FOI; tick901
+bud_bmb_new_loans_2025,city_boortmeerbeek,2025,77732,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,Nieuwe leningen/leasings 0.078m 2025; tick901
+bud_bmb_mjp_fin_debt_2027,city_boortmeerbeek,2025,9297237,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,MJP fin debt path YE2027 9.297m FOI; tick901
+bud_bmb_mjp_new_loans_2026,city_boortmeerbeek,2025,4067219,,,jaarrekening_realized,src_boortmeerbeek_jr2025,strong,MJP new loans 2026 4.067m FOI; tick901
