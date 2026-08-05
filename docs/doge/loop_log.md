@@ -13822,3 +13822,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1044** residual dual L5; deferred **rq_116**; progress@1050 in 7
 
+
+
+### Tick 1044 - 2026-08-10T11:15:00Z
+
+- Unit: **rq_1044** (FOI-adjacent residual dual - **Lokaal Bestuur Niel Jaarrekening 2025** + Hemiksem dual residual)
+- Found (strong primary BBC JR2025 158p portal; KBO 0207.536.151 / OCMW 0212.203.831; Ridder Berthoutlaan 1 NIS 11030; AD Jo Briers FD Annelies Van Doorslaer; GR 23.06.2026 pub 30.06.2026):
+  - Assets **EUR60.50m JUMP** / equity **EUR14.35m JUMP** thin / debt total **EUR46.15m JUMP** / fin debt **EUR39.99m JUMP HIGH FOI** (was **EUR37.72m**; LT **EUR34.09m** / ST due **EUR1.70m** / ST **EUR4.20m HIGH**)
+  - New loans **EUR3.69m JUMP HIGH FOI** / repayments **EUR1.72m** / interest **EUR1.14m HIGH**
+  - Cash **EUR5.57m JUMP** (was **EUR1.77m**) / pension **EUR3.07m** slight DROP / FVA IGS **EUR11.10m** / leasing MVA **EUR1.07m**
+  - Exploitatie: ontvangsten **EUR17.29m** / uitgaven **EUR14.75m** / saldo **+EUR2.54m STRONG**
+  - AFM **+EUR0.847m** / **gecorr AFM EUR-0.450m NEG HIGH FOI** / BBR **EUR3.16m** (onbeschikbaar **EUR3.75m**) / budget **+EUR3.74m STRONG loan-driven** / cum BR **EUR6.90m** / P&L **+EUR1.40m flip**
+  - Personnel **EUR5.56m** / toelagen **EUR2.28m FOI** (police **EUR1.01m** / fire **EUR0.507m** / **IGS EUR0.420m JUMP was 0** / other **EUR0.330m DROP** was **EUR0.839m**)
+  - Invest **EUR2.45m** vs MJP **EUR2.80m** / invest-subs **EUR0.127m**
+  - **OCMW cover EUR0.271m PARTIAL FOI** vs gap ca. **EUR-0.77m** / OCMW P&L **EUR-0.271m**
+  - MJP new loans 2026 **EUR2.03m FOI path**
+- Dual: Hemiksem assets **EUR79.27m** / cash **EUR17.00m** / OCMW cover **0** / VL subs JUMP **EUR5.62m** (tick1043) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 in 6
+- Wrote: budgets +46 (bud_niel_*); commitments +6; leaderboard +8; sources +1; entity city_niel; FOI **gap_niel_debt_afm_loans_igs_l5** prio9 ready + draft; key only (PDF ~2.2MB not stored in git); rq_1044=done; spawn **rq_1045**; ticks=1044
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1045** residual dual L5; deferred **rq_116**; progress@1050 in 6
+

@@ -25986,3 +25986,49 @@ bud_hem_fiscal_2025,city_hemiksem,2025,10920718,,,bbc_jr_realized,src_hemiksem_j
 bud_hem_gemeentefonds_2025,city_hemiksem,2025,3363469,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Gemeentefonds 2025 3.36m; tick1043
 bud_hem_goederen_diensten_2025,city_hemiksem,2025,6106363,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Goederen en diensten 2025 6.11m JUMP +11pct; tick1043
 bud_hem_ocmw_aid_2025,city_hemiksem,2025,1288130,,,bbc_jr_realized,src_hemiksem_jr2025,strong,Individuele hulpverlening OCMW 2025 1.29m; tick1043
+bud_niel_assets_2025,city_niel,2025,60496953,,,bbc_jr_realized,src_niel_jr2025,strong,Assets YE2025 60.50m JUMP (was 56.53m); tick1044
+bud_niel_equity_2025,city_niel,2025,14345931,,,bbc_jr_realized,src_niel_jr2025,strong,Nettoactief YE2025 14.35m JUMP (was 12.74m) thin vs debt; tick1044
+bud_niel_debt_total_2025,city_niel,2025,46151022,,,bbc_jr_realized,src_niel_jr2025,strong,Total schulden YE2025 46.15m JUMP (was 43.79m); tick1044
+bud_niel_fin_debt_2025,city_niel,2025,39992434,,,bbc_jr_realized,src_niel_jr2025,strong,Fin debt total YE2025 39.99m JUMP HIGH FOI (was 37.72m T4); tick1044
+bud_niel_fin_debt_lt_2025,city_niel,2025,34094627,,,bbc_jr_realized,src_niel_jr2025,strong,Fin debt LT YE2025 34.09m JUMP; tick1044
+bud_niel_fin_debt_st_due_2025,city_niel,2025,1697807,,,bbc_jr_realized,src_niel_jr2025,strong,Fin debt ST due YE2025 1.70m; tick1044
+bud_niel_fin_debt_st_2025,city_niel,2025,4200000,,,bbc_jr_realized,src_niel_jr2025,strong,Fin debt ST YE2025 4.20m HIGH JUMP FOI (was 3.90m); tick1044
+bud_niel_new_loans_2025,city_niel,2025,3694145,,,bbc_jr_realized,src_niel_jr2025,strong,New loans/leases 2025 3.69m JUMP HIGH FOI; tick1044
+bud_niel_repayments_2025,city_niel,2025,1720612,,,bbc_jr_realized,src_niel_jr2025,strong,Repayments 2025 1.72m HIGH; tick1044
+bud_niel_cash_2025,city_niel,2025,5565447,,,bbc_jr_realized,src_niel_jr2025,strong,Liquide middelen YE2025 5.57m JUMP (was 1.77m); tick1044
+bud_niel_pension_prov_2025,city_niel,2025,3071000,,,bbc_jr_realized,src_niel_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.07m slight DROP (was 3.16m); tick1044
+bud_niel_fva_total_2025,city_niel,2025,11111240,,,bbc_jr_realized,src_niel_jr2025,strong,FVA total YE2025 11.11m; tick1044
+bud_niel_fva_igs_2025,city_niel,2025,11096666,,,bbc_jr_realized,src_niel_jr2025,strong,FVA IGS YE2025 11.10m FOI; tick1044
+bud_niel_leasing_mva_2025,city_niel,2025,1069646,,,bbc_jr_realized,src_niel_jr2025,strong,Leasing MVA YE2025 1.07m; tick1044
+bud_niel_expl_ontvangsten_2025,city_niel,2025,17291538,,,bbc_jr_realized,src_niel_jr2025,strong,Exploitatie ontvangsten 2025 17.29m; tick1044
+bud_niel_expl_uitgaven_2025,city_niel,2025,14754058,,,bbc_jr_realized,src_niel_jr2025,strong,Exploitatie uitgaven 2025 14.75m; tick1044
+bud_niel_expl_saldo_2025,city_niel,2025,2537480,,,bbc_jr_realized,src_niel_jr2025,strong,Exploitatiesaldo 2025 +2.54m STRONG; tick1044
+bud_niel_invest_spend_2025,city_niel,2025,2445804,,,bbc_jr_realized,src_niel_jr2025,strong,Invest uitgaven 2025 2.45m vs MJP 2.80m UNDERSPEND; tick1044
+bud_niel_invest_rec_2025,city_niel,2025,1649447,,,bbc_jr_realized,src_niel_jr2025,strong,Invest ontvangsten 2025 1.65m; tick1044
+bud_niel_invest_saldo_2025,city_niel,2025,-796356,,,bbc_jr_realized,src_niel_jr2025,strong,Investeringssaldo 2025 -0.796m; tick1044
+bud_niel_fin_saldo_2025,city_niel,2025,2003469,,,bbc_jr_realized,src_niel_jr2025,strong,Financieringssaldo 2025 +2.00m (loan-driven); tick1044
+bud_niel_afm_2025,city_niel,2025,846804,,,bbc_jr_realized,src_niel_jr2025,strong,AFM 2025 +0.847m; tick1044
+bud_niel_afm_gecorr_2025,city_niel,2025,-450096,,,bbc_jr_realized,src_niel_jr2025,strong,Gecorrigeerde AFM 2025 -0.450m NEG HIGH FOI; tick1044
+bud_niel_bbr_2025,city_niel,2025,3157941,,,bbc_jr_realized,src_niel_jr2025,strong,BBR YE2025 3.16m (onbeschikbaar 3.75m); tick1044
+bud_niel_budget_result_2025,city_niel,2025,3744592,,,bbc_jr_realized,src_niel_jr2025,strong,Budgettair resultaat boekjaar 2025 +3.74m STRONG loan-driven FOI; tick1044
+bud_niel_cum_budget_2025,city_niel,2025,6903733,,,bbc_jr_realized,src_niel_jr2025,strong,Gecumuleerd BR YE2025 6.90m; tick1044
+bud_niel_onbeschikbaar_2025,city_niel,2025,3745792,,,bbc_jr_realized,src_niel_jr2025,strong,Onbeschikbare gelden YE2025 3.75m FOI; tick1044
+bud_niel_pnl_2025,city_niel,2025,1395704,,,bbc_jr_realized,src_niel_jr2025,strong,P&L overschot 2025 +1.40m flip (was -1.14m); tick1044
+bud_niel_pnl_cum_equity_2025,city_niel,2025,-3821640,,,bbc_jr_realized,src_niel_jr2025,strong,Gecumuleerd P&L equity YE2025 -3.82m IMPROVING (was -5.22m); tick1044
+bud_niel_personnel_2025,city_niel,2025,5558780,,,bbc_jr_realized,src_niel_jr2025,strong,Personnel 2025 5.56m; tick1044
+bud_niel_toelagen_2025,city_niel,2025,2275578,,,bbc_jr_realized,src_niel_jr2025,strong,Toegestane werkingssubsidies 2025 2.28m FOI; tick1044
+bud_niel_police_toelage_2025,city_niel,2025,1009410,,,bbc_jr_realized,src_niel_jr2025,strong,Politiezone toelage 2025 1.01m; tick1044
+bud_niel_fire_toelage_2025,city_niel,2025,506893,,,bbc_jr_realized,src_niel_jr2025,strong,HVZ toelage 2025 0.507m; tick1044
+bud_niel_igs_toelage_2025,city_niel,2025,420455,,,bbc_jr_realized,src_niel_jr2025,strong,IGS toelage 2025 0.420m JUMP FOI (was 0); tick1044
+bud_niel_other_toelage_2025,city_niel,2025,329819,,,bbc_jr_realized,src_niel_jr2025,strong,Andere toelagen 2025 0.330m DROP FOI (was 0.839m); tick1044
+bud_niel_invest_subs_granted_2025,city_niel,2025,127300,,,bbc_jr_realized,src_niel_jr2025,strong,Toegestane invest-subs 2025 0.127m (police 0.115); tick1044
+bud_niel_ocmw_cover_2025,city_niel,2025,271178,,,bbc_jr_realized,src_niel_jr2025,strong,OCMW cover tussenkomst 2025 0.271m PARTIAL FOI; tick1044
+bud_niel_ocmw_expl_gap_2025,city_niel,2025,-765671,,,bbc_jr_realized,src_niel_jr2025,strong,OCMW expl saldo 2025 ~-0.766m (uit 2.20 - ont 1.43); tick1044
+bud_niel_ocmw_expl_ont_2025,city_niel,2025,1433331,,,bbc_jr_realized,src_niel_jr2025,strong,OCMW expl ontvangsten 2025 1.43m; tick1044
+bud_niel_ocmw_expl_uit_2025,city_niel,2025,2199002,,,bbc_jr_realized,src_niel_jr2025,strong,OCMW expl uitgaven 2025 2.20m; tick1044
+bud_niel_ocmw_pnl_2025,city_niel,2025,-271178,,,bbc_jr_realized,src_niel_jr2025,strong,OCMW P&L 2025 -0.271m (offset by cover); tick1044
+bud_niel_fiscal_2025,city_niel,2025,10256696,,,bbc_jr_realized,src_niel_jr2025,strong,Fiscale opbrengsten en boetes 2025 10.26m; tick1044
+bud_niel_gemeentefonds_2025,city_niel,2025,3039717,,,bbc_jr_realized,src_niel_jr2025,strong,Gemeentefonds 2025 3.04m; tick1044
+bud_niel_interest_2025,city_niel,2025,1143772,,,bbc_jr_realized,src_niel_jr2025,strong,Financiele kosten 2025 1.14m HIGH; tick1044
+bud_niel_ocmw_aid_2025,city_niel,2025,1277247,,,bbc_jr_realized,src_niel_jr2025,strong,Individuele hulpverlening OCMW 2025 1.28m; tick1044
+bud_niel_mjp_new_loans_2026,city_niel,2025,2026810,,,bbc_jr_realized,src_niel_jr2025,strong,MJP new loans planned 2026 2.03m FOI path; tick1044
