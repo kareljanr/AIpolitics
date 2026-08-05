@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T19:15:00Z,rq_941,941,no,tick941 AGB Deinze JR2025 dual city Deinze; FOI gap_agd_loans_phishing_prijssubsidie_l5 prio8 fin debt 14.5m new loans 0.80m phishing fin costs 0.41m P&L -0.19m; next residual dual L5 rq_942; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T19:45:00Z,rq_942,942,no,tick942 Wielsbeke JR2025 dual AGB residual; FOI gap_wie_cash_debt_toelagen_agb_l5 prio8 assets 90.0m fin debt 24.9m cash 10.2m JUMP AFM +4.55m BBR 9.49m; next residual dual L5 rq_943; rq_116 deferred
