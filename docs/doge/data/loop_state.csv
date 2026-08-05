@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T06:45:00Z,rq_987,987,no,tick987 Ledegem GE+OCMW JR2025 dual residual; FOI gap_led_fva_ocmw_toelagen_invest_l5 prio8 assets 71.78m JUMP FVA IGS reval 12.61m fin debt 8.66m DECLINING cash 2.80m DROP AFM +1.58m OCMW cover 0.401m toelagen 1.90m; next residual dual L5 rq_988; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T07:15:00Z,rq_988,988,no,tick988 Westtoer APB JR2025 Entity II dual residual; FOI gap_wt_dotatie_munpool_personnel_invest_l5 prio8 assets 14.21m cash 11.42m JUMP fin debt 2.60m DECLINING AFM +1.17m province dotatie 9.93m mun pool 1.34m DROP personnel 7.79m; next residual dual L5 rq_989; rq_116 deferred

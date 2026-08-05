@@ -12754,3 +12754,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_988** residual dual L5 (Torhout / Meulebeke / AGB De Panne); deferred **rq_116**; progress@990 in 3
 
+
+### Tick 988 - 2026-08-09T07:15:00Z
+
+- Unit: **rq_988** (FOI-adjacent residual dual Entity II - **Westtoer APB Jaarrekening 2025** + Ledegem dual residual; Torhout/AGB De Panne image-only deferred)
+- Found (strong primary BBC JR2025 124p RVB bundel; KBO 0267.388.418; AD Luc Abbeloos; FD Tim Vanholle; Koning Albert I-laan 120):
+  - Assets **EUR14.21m** / equity **EUR6.27m** / debt total **EUR7.94m** / fin debt **EUR2.60m** (**DECLINING** from **EUR2.75m**; LT **EUR2.45m** / ST due **EUR0.150m**)
+  - New loans **EUR0** / repayments **EUR0.150m** / **loan recoveries EUR0.560m FOI**
+  - Cash **EUR11.42m JUMP HIGH** (was **EUR10.55m**) / non-ruil ST debt **EUR3.13m FOI** / cap subs **EUR0.678m**
+  - Exploitatie: ontvangsten **EUR15.33m** / uitgaven **EUR14.57m** / saldo **+EUR0.764m**
+  - AFM **+EUR1.17m STRONG** (gecorr **+EUR1.10m**) / BBR **EUR7.82m HIGH** / budget **+EUR0.721m** / P&L **+EUR0.653m**
+  - Personnel **EUR7.79m RISING** / goederen **EUR6.59m DROP** (was 8.65m)
+  - **Werkingssubs EUR14.16m**: province alg **EUR9.93m dual FOI** / spec **EUR4.23m DROP** (was 6.41m) incl mun pool **EUR1.34m DROP** (was 2.76m) / prov spec 1.51m
+  - Invest **EUR0.665m** vs MJP **EUR2.95m LARGE underspend FOI**
+- Dual: Ledegem **EUR71.78m** / FVA IGS reval **EUR12.61m** (tick987) - not TE-additive
+- Note: Torhout still news-only; AGB De Panne JR2025 PDF ~65MB image-only (no text layer) this tick
+- Wrote: budgets +42 (bud_wt_*); commitments +5; leaderboard +7; sources +1; entity westtoer_apb; FOI **gap_wt_dotatie_munpool_personnel_invest_l5** prio8 ready + draft; key only (PDF ~6.9MB not stored in git); rq_988=done; spawn **rq_989**; ticks=988
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_989** residual dual L5 (Torhout / Meulebeke / AGB De Panne if OCR); deferred **rq_116**; progress@990 in 2
+

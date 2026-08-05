@@ -23173,3 +23173,45 @@ bud_led_costs_j5_2025,city_ledegem,2025,15060445,,,realized,src_ledegem_jr2025,s
 bud_led_revenue_j5_2025,city_ledegem,2025,16221648,,,realized,src_ledegem_jr2025,strong,J5 total opbrengsten 16.22m; tick987
 bud_led_mjp_invest_exp_2025,city_ledegem,2025,6264023,,,realized,src_ledegem_jr2025,strong,MJP investeringsuitgaven 6.26m (realized 3.15m underspend FOI); tick987
 bud_led_pastorie_sale_2025,city_ledegem,2025,456800,,,realized,src_ledegem_jr2025,strong,Verkoop pastorie Ledegem invest rec 0.457m FOI; tick987
+bud_wt_assets_2025,westtoer_apb,2025,14212272,,,realized,src_westtoer_jr2025,strong,Assets YE2025 14.21m; tick988
+bud_wt_equity_2025,westtoer_apb,2025,6268021,,,realized,src_westtoer_jr2025,strong,Nettoactief YE2025 6.27m; tick988
+bud_wt_debt_total_2025,westtoer_apb,2025,7944251,,,realized,src_westtoer_jr2025,strong,Total schulden YE2025 7.94m; tick988
+bud_wt_fin_debt_2025,westtoer_apb,2025,2600000,,,realized,src_westtoer_jr2025,strong,Fin debt total YE2025 2.60m DECLINING (was 2.75m); tick988
+bud_wt_fin_debt_lt_2025,westtoer_apb,2025,2450000,,,realized,src_westtoer_jr2025,strong,Fin debt LT YE2025 2.45m; tick988
+bud_wt_fin_debt_st_due_2025,westtoer_apb,2025,150000,,,realized,src_westtoer_jr2025,strong,Fin debt ST due YE2025 0.150m; tick988
+bud_wt_new_loans_2025,westtoer_apb,2025,0,,,realized,src_westtoer_jr2025,strong,Nieuwe leningen 0; tick988
+bud_wt_repayments_2025,westtoer_apb,2025,150000,,,realized,src_westtoer_jr2025,strong,Periodieke aflossingen 0.150m; tick988
+bud_wt_loan_recoveries_2025,westtoer_apb,2025,559724,,,realized,src_westtoer_jr2025,strong,Terugvordering toegestane leningen 0.560m FOI portfolio; tick988
+bud_wt_cash_2025,westtoer_apb,2025,11422853,,,realized,src_westtoer_jr2025,strong,Liquide middelen YE2025 11.42m JUMP (was 10.55m) HIGH FOI; tick988
+bud_wt_prov_st_2025,westtoer_apb,2025,818198,,,realized,src_westtoer_jr2025,strong,Voorzieningen ST YE2025 0.818m; tick988
+bud_wt_nonruil_st_debt_2025,westtoer_apb,2025,3125980,,,realized,src_westtoer_jr2025,strong,Niet-ruil ST schulden 3.13m deferred FOI; tick988
+bud_wt_cap_subs_2025,westtoer_apb,2025,678015,,,realized,src_westtoer_jr2025,strong,Kapitaalsubsidies YE2025 0.678m; tick988
+bud_wt_expl_rec_2025,westtoer_apb,2025,15331051,,,realized,src_westtoer_jr2025,strong,Exploitatieontvangsten 15.33m; tick988
+bud_wt_expl_exp_2025,westtoer_apb,2025,14567330,,,realized,src_westtoer_jr2025,strong,Exploitatieuitgaven 14.57m; tick988
+bud_wt_expl_saldo_2025,westtoer_apb,2025,763721,,,realized,src_westtoer_jr2025,strong,Exploitatiesaldo +0.764m; tick988
+bud_wt_invest_exp_2025,westtoer_apb,2025,665366,,,realized,src_westtoer_jr2025,strong,Investeringsuitgaven 0.665m vs MJP 2.95m LARGE underspend FOI; tick988
+bud_wt_invest_rec_2025,westtoer_apb,2025,212476,,,realized,src_westtoer_jr2025,strong,Investeringsontvangsten 0.212m; tick988
+bud_wt_invest_saldo_2025,westtoer_apb,2025,-452890,,,realized,src_westtoer_jr2025,strong,Investeringssaldo -0.453m; tick988
+bud_wt_fin_rec_2025,westtoer_apb,2025,559724,,,realized,src_westtoer_jr2025,strong,Financieringsontvangsten 0.560m loan recoveries; tick988
+bud_wt_fin_exp_2025,westtoer_apb,2025,150000,,,realized,src_westtoer_jr2025,strong,Financieringsuitgaven 0.150m; tick988
+bud_wt_budget_result_2025,westtoer_apb,2025,720555,,,realized,src_westtoer_jr2025,strong,Budgettair resultaat +0.721m; tick988
+bud_wt_cum_budget_2025,westtoer_apb,2025,7816584,,,realized,src_westtoer_jr2025,strong,Gecumuleerd budgettair resultaat 7.82m HIGH; tick988
+bud_wt_bbr_2025,westtoer_apb,2025,7816584,,,realized,src_westtoer_jr2025,strong,Beschikbaar BBR 7.82m HIGH; tick988
+bud_wt_afm_2025,westtoer_apb,2025,1173445,,,realized,src_westtoer_jr2025,strong,AFM +1.17m STRONG; tick988
+bud_wt_afm_corr_2025,westtoer_apb,2025,1103445,,,realized,src_westtoer_jr2025,strong,Gecorrigeerde AFM +1.10m; tick988
+bud_wt_pnl_2025,westtoer_apb,2025,653345,,,realized,src_westtoer_jr2025,strong,P&L +0.653m; tick988
+bud_wt_personnel_2025,westtoer_apb,2025,7790984,,,realized,src_westtoer_jr2025,strong,Bezoldigingen J5 7.79m RISING FOI; tick988
+bud_wt_goederen_2025,westtoer_apb,2025,6589671,,,realized,src_westtoer_jr2025,strong,Goederen en diensten J5 6.59m DROP FOI; tick988
+bud_wt_werkingsubs_rec_2025,westtoer_apb,2025,14157128,,,realized,src_westtoer_jr2025,strong,Ontvangen werkingssubsidies 14.16m FOI; tick988
+bud_wt_prov_alg_dotatie_2025,westtoer_apb,2025,9927528,,,realized,src_westtoer_jr2025,strong,Provincie alg basisdotatie 9.93m dual FOI; tick988
+bud_wt_spec_subs_2025,westtoer_apb,2025,4229600,,,realized,src_westtoer_jr2025,strong,Specifieke werkingssubsidies 4.23m DROP (was 6.41m) FOI; tick988
+bud_wt_spec_prov_2025,westtoer_apb,2025,1513516,,,realized,src_westtoer_jr2025,strong,Spec subsidies van provincie 1.51m FOI; tick988
+bud_wt_spec_mun_2025,westtoer_apb,2025,1339507,,,realized,src_westtoer_jr2025,strong,Spec subsidies van gemeenten 1.34m DROP (was 2.76m) FOI; tick988
+bud_wt_spec_vl_2025,westtoer_apb,2025,188069,,,realized,src_westtoer_jr2025,strong,Spec subsidies Vlaanderen 0.188m; tick988
+bud_wt_spec_fed_2025,westtoer_apb,2025,239997,,,realized,src_westtoer_jr2025,strong,Spec subsidies federale 0.240m; tick988
+bud_wt_spec_other_2025,westtoer_apb,2025,948511,,,realized,src_westtoer_jr2025,strong,Spec subsidies andere entiteiten 0.949m FOI; tick988
+bud_wt_werking_rec_2025,westtoer_apb,2025,531027,,,realized,src_westtoer_jr2025,strong,Ontvangsten uit de werking 0.531m; tick988
+bud_wt_interest_2025,westtoer_apb,2025,78972,,,realized,src_westtoer_jr2025,strong,Rente aan financiele instellingen 0.079m; tick988
+bud_wt_costs_j5_2025,westtoer_apb,2025,14899256,,,realized,src_westtoer_jr2025,strong,J5 total kosten 14.90m; tick988
+bud_wt_revenue_j5_2025,westtoer_apb,2025,15552601,,,realized,src_westtoer_jr2025,strong,J5 total opbrengsten 15.55m; tick988
+bud_wt_mjp_invest_exp_2025,westtoer_apb,2025,2951071,,,realized,src_westtoer_jr2025,strong,MJP investeringsuitgaven 2.95m (realized 0.67m underspend FOI); tick988
