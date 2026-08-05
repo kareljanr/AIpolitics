@@ -14725,3 +14725,26 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +49 (bud_tor_*); commitments +7; leaderboard +8; sources +1; entity city_torhout; FOI **gap_tor_pension_cash_afva_budget_l5** prio9 ready + draft; PDF primary (not committed); rq_1089=done; spawn **rq_1090**; ticks=1089
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1090** residual dual L5 **after decade progress refresh**; deferred **rq_116**; progress@1090 decade next
+
+
+### Tick 1090 - 2026-08-11T10:30:00Z
+
+- Unit: **rq_1090** (mandatory decade progress + residual dual inventory 1081-1089)
+- Found (inventory / coverage only; no new primary PDF this tick):
+  - **A/B:** still **100%** of EUR 347.956bn TE map (NBB/ESA + Eurostat unconsol.)
+  - **C:** ~**99%** OoM entity totals; **+** residual dual 1081-1089:
+    - **Herent** assets **EUR161.8m** / cash **EUR70.05m VERY HIGH** / AFM **+EUR10.34m** / BBR **EUR69.6m EXTREME** / pension JUMP
+    - **Zoutleeuw** AFM **−EUR0.85m NEG** / BBR **−EUR4.37m NEG EXTREME** / ST treasury **EUR5.70m** / cash **EUR0.35m critical**
+    - **Linter** budget **−EUR2.12m** / OCMW **0** · **Bertem** pension JUMP / cash LOW / OCMW **0**
+    - **Kortenberg** cash MASSIVE DROP **EUR17.35m (was 24.81)** / budget **−EUR5.57m** / pension JUMP / OCMW **0**
+    - **Glabbeek** ST debt balloon **EUR2.82m** / Fluvius herwaard **EUR5.64m** / OCMW **0**
+    - **Hoegaarden** balance CLEAR (assets 79→61m) / andere opbr JUMP / P&L FLIP / OCMW **0**
+    - **Geetbets** FVA IGS **EUR10.48m JUMP** / herwaard **EUR7.08m** / invest underspend
+    - **Torhout** assets **EUR152.1m** / pension JUMP **EUR13.49m** / andere FVA **EUR23.73m** / cash DROP / budget **−EUR1.58m** / OCMW cover **EUR1.50m**
+  - **D:** still **~74-88%** generous TE band — local residual dual is **not** near-complete of 348bn
+  - **E:** FOI ready **~738** / answered **~9** / partial **~27** / total **~780**
+- Inventory: budgets ~28262 · commitments ~3520 · leaderboard ~5461 · entities ~808 · sources ~2001
+- Pure annual waste top10: **stable** (GIP #1; fossil/cars/cheque/reporté #2-10)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_1090=done; spawn **rq_1091**; ticks=1090
+- FOI: none new this tick (decade inventory only) - **do not send** backlog without human OK
+- Next: prio5 **rq_1091** residual dual L5; deferred **rq_116**; progress@1100 in 9

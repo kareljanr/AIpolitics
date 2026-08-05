@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1090** (2026-08-11)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1081-1089: **Herent EUR161.8m** / Zoutleeuw **EUR57.0m** / Linter **EUR47.4m** / Bertem **EUR78.8m** / Kortenberg **EUR139.9m** / Glabbeek **EUR51.6m** / Hoegaarden **EUR60.7m** / Geetbets **EUR46.1m** / **Torhout EUR152.1m** · prior 1071-1080 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1081-1089 is VL residual dual L5 (not near-complete of 348bn):** personnel Torhout **EUR30.43m** / Herent path / Kortenberg **EUR20.59m** · FOI-adjacent: **Zoutleeuw AFM −EUR0.85m NEG / BBR −EUR4.37m NEG EXTREME** / ST treasury **EUR5.70m** / cash **EUR0.35m critical** · **Herent cash EUR70.05m VERY HIGH** / AFM **+EUR10.34m** / pension JUMP **EUR11.27m** / BBR **EUR69.6m EXTREME** · **Kortenberg cash MASSIVE DROP EUR17.35m (was 24.81)** / budget **−EUR5.57m** / pension JUMP **+EUR2.83m** / OCMW **0** · **Bertem pension JUMP +EUR1.65m** / cash LOW **EUR1.89m** / OCMW **0** · **Glabbeek ST debt balloon EUR2.82m** / Fluvius herwaard **EUR5.64m** · **Hoegaarden balance CLEAR** (assets 79→61m) / andere opbr JUMP / P&L FLIP · **Geetbets FVA IGS 10.48m JUMP / herwaard 7.08m** · **Torhout pension JUMP EUR13.49m** / andere FVA **EUR23.73m opaque** / cash DROP / budget **−EUR1.58m** · ZERO-cover cluster expands (Zoutleeuw / Linter / Bertem / Kortenberg / Glabbeek / Hoegaarden) vs FULL-ish (Herent path / Torhout **EUR1.50m** / Geetbets **EUR0.20m** principle) |
+| **E. FOI-ready gaps** | **~738** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~780** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Herent EUR162m** / **Torhout EUR152m** / Kortenberg **EUR140m** / prior dual stack retained not full TE) · **AGB dual AFM near-zero/NEG** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1090)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~28262 |
+| commitments.csv | ~3520 |
+| leaderboard.csv | ~5461 |
+| entities.csv | ~808 |
+| sources.csv | ~2001 |
+| FOI ready | ~738 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~780 |
+| research_queue open | rq_116 deferred + rq_1091 hole-fill after progress |
+
+### What improved since tick 1080
+
+- **VL residual dual JR2025 (tick1081-1089):** Herent / Zoutleeuw / Linter / Bertem / Kortenberg / Glabbeek / Hoegaarden / Geetbets / **Torhout EUR152.1m**.
+- **Dual map:** **Zoutleeuw** as AFM/BBR NEG EXTREME + ST-treasury balloon vs **Herent** cash/AFM/BBR VERY HIGH surplus · cash extremes (Herent **EUR70m** vs Zoutleeuw **EUR0.35m** / Kortenberg DROP **−EUR7.5m** / Torhout DROP) · pension JUMP cluster (Herent / Bertem / Kortenberg / Torhout) · FVA reval path (Zoutleeuw / Geetbets / Glabbeek Fluvius) · Hoegaarden one-off balance CLEAR + P&L FLIP · ZERO OCMW-cover still dominant (6/9 explicit zero) vs Torhout FULL **EUR1.50m** / Geetbets principle **EUR0.20m**.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1080** (2026-08-11)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

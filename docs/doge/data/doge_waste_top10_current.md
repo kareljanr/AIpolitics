@@ -1,6 +1,6 @@
-﻿# DOGE waste ranking — current top 10
+# DOGE waste ranking — current top 10
 
-**As-of:** tick **1080** (2026-08-11) · **~5389** leaderboard rows  
+**As-of:** tick **1090** (2026-08-11) · **~5461** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Duffel €143m** / **Lubbeek €104m** / Lebbeke **€108m** / Kampenhout **€102m** / dual stack retained) · **AGB dual AFM near-zero/NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Duffel loans €9.33m + pension JUMP €16.70m + fin debt €39.47m** / **Lubbeek cash DROP €6.04m + budget −€4.16m + OCMW cover 0 + BBR €14.32m** / **Kampenhout cash DROP + budget −€3.04m + OCMW 0** / **Bonheiden invest €3.81 vs MJP €18.07 + OCMW 0** / **Roosdaal OCMW 0 + loans JUMP**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Herent €162m** / **Torhout €152m** / Kortenberg **€140m** / Duffel **€143m** / dual stack retained) · **AGB dual AFM near-zero/NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Zoutleeuw AFM/BBR NEG EXTREME + ST treasury €5.70m + cash €0.35m** / **Herent cash €70.05m + AFM +€10.34m + pension JUMP** / **Kortenberg cash DROP −€7.5m + budget −€5.57m + OCMW 0** / **Torhout pension JUMP €13.49m + andere FVA €23.73m + budget −€1.58m** / **Geetbets FVA/herwaard JUMP** / **Glabbeek ST debt balloon** / **Hoegaarden balance CLEAR**.
 
-**Change vs tick 1070:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1071–1079 (off pure top10 / dual):** Duffel **loans €9.33m MASSIVE** / pension **€16.70m JUMP** / debt **€39.47m** · Lubbeek **cash DROP €11.31m** / budget **−€4.16m** / OCMW **0 ZERO** explicit · Kampenhout cash DROP / budget **−€3.04m** / OCMW **0** · Bonheiden invest MASSIVE underspend + OCMW **0** · Roosdaal OCMW **0** · Hoeilaart cash DROP / pension JUMP. Gain is **JUMP-loan + cash-finance NEG-budget + ZERO-cover cluster** more than FFS reshuffle.
+**Change vs tick 1080:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1081–1089 (off pure top10 / dual):** **Zoutleeuw AFM −€0.85m / BBR −€4.37m NEG EXTREME** / ST treasury balloon / cash critical · **Herent cash €70m / AFM +€10.3m / BBR €69.6m** · **Kortenberg cash DROP + budget −€5.57m + pension JUMP + OCMW 0** · **Bertem pension JUMP + cash LOW + OCMW 0** · **Glabbeek ST balloon + Fluvius herwaard** · **Hoegaarden balance CLEAR + P&L FLIP** · **Geetbets FVA/herwaard MASSIVE JUMP** · **Torhout pension JUMP + andere FVA €23.73m opaque + cash DROP**. Gain is **NEG-AFM outlier + cash extremes + pension JUMP + FVA reval + ZERO-cover cluster** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,14 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_duf_loans_9_33m_2025` | **9.3 m loans** | **~6.5** | **NEW 1077** Duffel loans MASSIVE |
-| — | `lb_lub_budget_neg_4_16m_2025` | **4.2 m** | **~7.0** | **NEW 1079** Lubbeek budget NEG HIGH |
-| — | `lb_lub_cash_drop_6_04m_2025` | **6.0 m drop** | **~6.9** | **NEW 1079** cash MASSIVE DROP |
-| — | `lb_kam_cash_budget_ocmw_zero_l5` | **cash/budget** | **~6.5** | **NEW 1076** Kampenhout cash+budget+OCMW0 |
-| — | `lb_bon_invest_underspend_2025` | **3.8 m / 18 m plan** | **~7.0** | **NEW 1078** Bonheiden invest MASSIVE underspend |
-| — | `lb_ovj_ocmw_cover_zero_17_98m_2025` | **18.0 m stock** | **~6.5** | **1068** Overijse OCMW ZERO |
+| — | `lb_zou_afm_neg_0_85m_2025` | **0.85 m NEG** | **~7.5** | **NEW 1082** Zoutleeuw AFM NEG HIGH |
+| — | `lb_zou_bbr_neg_4_37m_2025` | **4.4 m NEG** | **~7.8** | **NEW 1082** BBR NEG EXTREME |
+| — | `lb_kor_budget_neg_5_57m_2025` | **5.6 m** | **~7.0** | **NEW 1085** Kortenberg budget NEG HIGH |
+| — | `lb_kor_cash_drop_7_46m_2025` | **7.5 m drop** | **~7.0** | **NEW 1085** cash MASSIVE DROP |
+| — | `lb_tor_pension_13_49m_2025` | **13.5 m stock** | **~7.0** | **NEW 1089** pension JUMP |
+| — | `lb_tor_fva_other_23_73m_2025` | **23.7 m stock** | **~7.0** | **NEW 1089** andere FVA opaque |
+| — | `lb_her_afm_10_34m_2025` | **10.3 m AFM+** | **~6.5** | **NEW 1081** Herent AFM VERY STRONG |
+| — | `lb_duf_loans_9_33m_2025` | **9.3 m loans** | **~6.5** | **1077** Duffel loans MASSIVE |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,7 +58,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_bon_invest_underspend_2025` | **9.5** | **NEW 1078** invest 3.81 vs MJP 18.07 |
-| `lb_lub_ocmw_zero_cover_2025` | **9.0** | **NEW 1079** OCMW ZERO explicit stop |
-| `lb_duf_loans_9_33m_2025` | **9.0** | **NEW 1077** loans MASSIVE JUMP |
-| `lb_kam_cash_budget_ocmw_zero_l5` | **8.5** | **NEW 1076** cash DROP + OCMW 0 |
+| `lb_zou_bbr_neg_4_37m_2025` | **9.5** | **NEW 1082** BBR NEG EXTREME |
+| `lb_zou_afm_neg_0_85m_2025` | **9.0** | **NEW 1082** AFM NEG HIGH |
+| `lb_kor_cash_budget_pension_ocmw_l5` | **8.5** | **NEW 1085** cash DROP + budget NEG + OCMW 0 |
+| `lb_tor_fva_other_23_73m_2025` | **8.0** | **NEW 1089** andere FVA €23.73m opaque |
+| `lb_gee_fva_herwaard_7_08m_2025` | **8.0** | **NEW 1088** herwaard MASSIVE JUMP |
+| `lb_bon_invest_underspend_2025` | **9.5** | **1078** invest 3.81 vs MJP 18.07 |
