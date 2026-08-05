@@ -22896,3 +22896,47 @@ bud_dee_werkingsubs_rec_2025,city_deerlijk,2025,15324743,,,realized,src_deerlijk
 bud_dee_invest_mva_2025,city_deerlijk,2025,4138484,,,realized,src_deerlijk_jr2025,strong,Invest MVA 4.14m FOI residual; tick981
 bud_dee_costs_j5_2025,city_deerlijk,2025,30282416,,,realized,src_deerlijk_jr2025,strong,J5 total kosten 30.3m; tick981
 bud_dee_revenue_j5_2025,city_deerlijk,2025,31107209,,,realized,src_deerlijk_jr2025,strong,J5 total opbrengsten 31.1m; tick981
+bud_sph_assets_2025,city_spiere_helkijn,2025,13356684,,,realized,src_spiere_helkijn_jr2025,strong,Assets YE2025 13.4m (was 13.4m); tick982
+bud_sph_equity_2025,city_spiere_helkijn,2025,9688461,,,realized,src_spiere_helkijn_jr2025,strong,Nettoactief YE2025 9.69m; tick982
+bud_sph_debt_total_2025,city_spiere_helkijn,2025,3668223,,,realized,src_spiere_helkijn_jr2025,strong,Total schulden YE2025 3.67m; tick982
+bud_sph_fin_debt_2025,city_spiere_helkijn,2025,1671220,,,realized,src_spiere_helkijn_jr2025,strong,Fin debt total YE2025 1.67m DECLINING (was 1.97m); tick982
+bud_sph_fin_debt_lt_2025,city_spiere_helkijn,2025,1416790,,,realized,src_spiere_helkijn_jr2025,strong,Fin debt LT YE2025 1.42m; tick982
+bud_sph_fin_debt_st_due_2025,city_spiere_helkijn,2025,254431,,,realized,src_spiere_helkijn_jr2025,strong,Fin debt ST due YE2025 0.254m; tick982
+bud_sph_new_loans_2025,city_spiere_helkijn,2025,1015,,,realized,src_spiere_helkijn_jr2025,strong,Nieuwe leningen/lease 0.001m FOI residual; tick982
+bud_sph_repayments_2025,city_spiere_helkijn,2025,295089,,,realized,src_spiere_helkijn_jr2025,strong,Periodieke aflossingen 0.295m; tick982
+bud_sph_cash_2025,city_spiere_helkijn,2025,1190012,,,realized,src_spiere_helkijn_jr2025,strong,Liquide middelen YE2025 1.19m; tick982
+bud_sph_pension_2025,city_spiere_helkijn,2025,1239431,,,realized,src_spiere_helkijn_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.24m RISING FOI; tick982
+bud_sph_leasing_mva_2025,city_spiere_helkijn,2025,351302,,,realized,src_spiere_helkijn_jr2025,strong,Leasing MVA YE2025 0.351m FOI (gemeenschap+bedrijf); tick982
+bud_sph_fva_igs_2025,city_spiere_helkijn,2025,1615357,,,realized,src_spiere_helkijn_jr2025,strong,FVA IGS YE2025 1.62m (Gaselwest herwaard); tick982
+bud_sph_cap_subs_2025,city_spiere_helkijn,2025,2955538,,,realized,src_spiere_helkijn_jr2025,strong,Kapitaalsubsidies YE2025 2.96m; tick982
+bud_sph_cum_deficit_2025,city_spiere_helkijn,2025,-399247,,,realized,src_spiere_helkijn_jr2025,strong,Gecumuleerd tekort -0.399m improving FOI; tick982
+bud_sph_expl_rec_2025,city_spiere_helkijn,2025,4584813,,,realized,src_spiere_helkijn_jr2025,strong,Exploitatieontvangsten 4.58m; tick982
+bud_sph_expl_exp_2025,city_spiere_helkijn,2025,3868865,,,realized,src_spiere_helkijn_jr2025,strong,Exploitatieuitgaven 3.87m; tick982
+bud_sph_expl_saldo_2025,city_spiere_helkijn,2025,715948,,,realized,src_spiere_helkijn_jr2025,strong,Exploitatiesaldo +0.716m; tick982
+bud_sph_invest_exp_2025,city_spiere_helkijn,2025,437567,,,realized,src_spiere_helkijn_jr2025,strong,Investeringsuitgaven 0.438m overshoot vs eindkrediet FOI; tick982
+bud_sph_invest_rec_2025,city_spiere_helkijn,2025,92526,,,realized,src_spiere_helkijn_jr2025,strong,Investeringsontvangsten 0.093m; tick982
+bud_sph_invest_saldo_2025,city_spiere_helkijn,2025,-345041,,,realized,src_spiere_helkijn_jr2025,strong,Investeringssaldo -0.345m; tick982
+bud_sph_fin_exp_2025,city_spiere_helkijn,2025,295089,,,realized,src_spiere_helkijn_jr2025,strong,Financieringsuitgaven 0.295m; tick982
+bud_sph_budget_result_2025,city_spiere_helkijn,2025,76733,,,realized,src_spiere_helkijn_jr2025,strong,Budgettair resultaat +0.077m; tick982
+bud_sph_cum_budget_2025,city_spiere_helkijn,2025,1506172,,,realized,src_spiere_helkijn_jr2025,strong,Gecumuleerd budgettair resultaat 1.51m; tick982
+bud_sph_bbr_2025,city_spiere_helkijn,2025,1506172,,,realized,src_spiere_helkijn_jr2025,strong,Beschikbaar BBR 1.51m; tick982
+bud_sph_afm_2025,city_spiere_helkijn,2025,420859,,,realized,src_spiere_helkijn_jr2025,strong,AFM +0.421m; tick982
+bud_sph_afm_corr_2025,city_spiere_helkijn,2025,558394,,,realized,src_spiere_helkijn_jr2025,strong,Gecorrigeerde AFM +0.558m; tick982
+bud_sph_pnl_2025,city_spiere_helkijn,2025,185155,,,realized,src_spiere_helkijn_jr2025,strong,P&L +0.185m (GE +0.471m / OCMW -0.286m FOI); tick982
+bud_sph_personnel_2025,city_spiere_helkijn,2025,1829181,,,realized,src_spiere_helkijn_jr2025,strong,Bezoldigingen 1.83m FOI; tick982
+bud_sph_goederen_2025,city_spiere_helkijn,2025,1211194,,,realized,src_spiere_helkijn_jr2025,strong,Goederen en diensten 1.21m; tick982
+bud_sph_toelagen_2025,city_spiere_helkijn,2025,548318,,,realized,src_spiere_helkijn_jr2025,strong,Toegestane werkingssubsidies 0.548m FOI named; tick982
+bud_sph_toelage_mira_2025,city_spiere_helkijn,2025,234559,,,realized,src_spiere_helkijn_jr2025,strong,Toelage politiezone MIRA 0.235m FOI; tick982
+bud_sph_toelage_fluvia_2025,city_spiere_helkijn,2025,74560,,,realized,src_spiere_helkijn_jr2025,strong,Toelage brandweer FLUVIA 0.075m FOI; tick982
+bud_sph_toelage_imog_2025,city_spiere_helkijn,2025,155975,,,realized,src_spiere_helkijn_jr2025,strong,Toelage IMOG 0.156m FOI; tick982
+bud_sph_toelage_w13_2025,city_spiere_helkijn,2025,13661,,,realized,src_spiere_helkijn_jr2025,strong,Toelage W13 0.014m dual FOI; tick982
+bud_sph_toelage_kerk_2025,city_spiere_helkijn,2025,31633,,,realized,src_spiere_helkijn_jr2025,strong,Toelage kerkfabriek Helkijn 0.032m; tick982
+bud_sph_ocmw_aid_2025,city_spiere_helkijn,2025,234579,,,realized,src_spiere_helkijn_jr2025,strong,Individuele hulp OCMW 0.235m FOI; tick982
+bud_sph_ocmw_cover_2025,city_spiere_helkijn,2025,313362,,,realized,src_spiere_helkijn_jr2025,strong,OCMW cover/tussenkomst gemeente 0.313m FOI residual; tick982
+bud_sph_ocmw_pnl_neg_2025,city_spiere_helkijn,2025,-285999,,,realized,src_spiere_helkijn_jr2025,strong,OCMW P&L -0.286m FOI residual; tick982
+bud_sph_ge_pnl_2025,city_spiere_helkijn,2025,471154,,,realized,src_spiere_helkijn_jr2025,strong,Gemeente P&L +0.471m; tick982
+bud_sph_fiscal_2025,city_spiere_helkijn,2025,2239698,,,realized,src_spiere_helkijn_jr2025,strong,Fiscale opbrengsten 2.24m; tick982
+bud_sph_werkingsubs_rec_2025,city_spiere_helkijn,2025,1733636,,,realized,src_spiere_helkijn_jr2025,strong,Ontvangen werkingssubsidies 1.73m; tick982
+bud_sph_mjp_fin_debt_2026,city_spiere_helkijn,2025,1419180,,,realized,src_spiere_helkijn_jr2025,strong,MJP fin debt YE2026 1.42m declining; tick982
+bud_sph_costs_j5_2025,city_spiere_helkijn,2025,4589541,,,realized,src_spiere_helkijn_jr2025,strong,J5 total kosten 4.59m; tick982
+bud_sph_revenue_j5_2025,city_spiere_helkijn,2025,4774696,,,realized,src_spiere_helkijn_jr2025,strong,J5 total opbrengsten 4.77m; tick982

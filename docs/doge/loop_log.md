@@ -12645,3 +12645,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_dee_*); commitments +5; leaderboard +7; sources +1; entity city_deerlijk; FOI **gap_dee_ocmw_debt_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~3.3MB not stored in git); rq_981=done; spawn **rq_982**; ticks=981
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_982** residual dual L5 (Spiere-Helkijn / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 9
+
+### Tick 982 - 2026-08-09T04:00:00Z
+
+- Unit: **rq_982** (FOI-adjacent residual dual - **Gemeente+OCMW Spiere-Helkijn Jaarrekening 2025** + Deerlijk dual residual; queue row created this tick after miss-spawn)
+- Found (strong primary BBC JR2025 boekdeel I 106p + II 30p; KBO 0216.770.650 / OCMW 0216.770.749; FD Tim Focquaert; AD Wout Lefebvre; Oudenaardseweg 71):
+  - Assets **EUR13.4m** / equity **EUR9.69m** / debt total **EUR3.67m** / fin debt **EUR1.67m** (**DECLINING** from **EUR1.97m**; LT **EUR1.42m** / ST due **EUR0.254m**)
+  - New loans **EUR0.001m** / repayments **EUR0.295m**
+  - Cash **EUR1.19m** / pension **EUR1.24m RISING** / leasing MVA **EUR0.351m FOI** / FVA IGS **EUR1.62m**
+  - Exploitatie: ontvangsten **EUR4.58m** / uitgaven **EUR3.87m** / saldo **+EUR0.716m**
+  - AFM **+EUR0.421m** (gecorr **+EUR0.558m**) / BBR **EUR1.51m** / budget **+EUR0.077m** / P&L **+EUR0.185m** (GE **+EUR0.471m** / OCMW **-EUR0.286m FOI**)
+  - Personnel **EUR1.83m** / toelagen **EUR0.548m FOI** (MIRA **EUR0.235m** / IMOG **EUR0.156m** / FLUVIA **EUR0.075m** / W13 **EUR0.014m** / kerk **EUR0.032m**)
+  - Invest **EUR0.438m** (krediet overshoot **+EUR0.076m FOI**) / **OCMW cover EUR0.313m FOI** / cum deficit **-EUR0.399m** improving
+  - OCMW aid **EUR0.235m** / MJP fin debt YE2026 **EUR1.42m** declining
+- Dual: Deerlijk **EUR64.4m** / OCMW cover **EUR1.75m** / fin debt RISING (tick981) - not TE-additive
+- Note: Ledegem/Torhout full BBC / WZBW still no extractable full JR2025 this tick
+- Wrote: budgets +44 (bud_sph_*); commitments +5; leaderboard +7; sources +1; entity city_spiere_helkijn; FOI **gap_sph_ocmw_toelagen_pension_invest_l5** prio8 ready + draft; key only (PDFs not stored in git); rq_982=done; spawn **rq_983**; ticks=982
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_983** residual dual L5 (Ledegem / Torhout / WZBW); deferred **rq_116**; progress@990 in 8
