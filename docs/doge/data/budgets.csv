@@ -24889,3 +24889,59 @@ bud_dsl_invest_subs_granted_2025,city_dessel,2025,353626,,,bbc_jr_realized,src_d
 bud_dsl_toegestane_leningen_2025,city_dessel,2025,225000,,,bbc_jr_realized,src_dessel_jr2025,strong,Toegestane leningen 0.225m FOI; tick1023
 bud_dsl_interest_2025,city_dessel,2025,99970,,,bbc_jr_realized,src_dessel_jr2025,strong,Intresten op leningen 0.100m JUMP FOI (was 0.047m); tick1023
 bud_dsl_meerwaarden_2025,city_dessel,2025,874564,,,bbc_jr_realized,src_dessel_jr2025,strong,Meerwaarden realisatie VA 0.875m JUMP FOI; tick1023
+bud_boc_assets_2025,city_boechout,2025,84068817,,,bbc_jr_realized,src_boechout_jr2025,strong,Assets YE2025 84.07m (was 84.51m); tick1024
+bud_boc_equity_2025,city_boechout,2025,47955858,,,bbc_jr_realized,src_boechout_jr2025,strong,Nettoactief YE2025 47.96m (was 49.74m DROP); tick1024
+bud_boc_debt_total_2025,city_boechout,2025,36112959,,,bbc_jr_realized,src_boechout_jr2025,strong,Total schulden YE2025 36.11m JUMP; tick1024
+bud_boc_fin_debt_2025,city_boechout,2025,25028910,,,bbc_jr_realized,src_boechout_jr2025,strong,Fin debt total YE2025 25.03m DECLINING (was 26.10m T4); tick1024
+bud_boc_fin_debt_lt_2025,city_boechout,2025,23437618,,,bbc_jr_realized,src_boechout_jr2025,strong,Fin debt LT YE2025 23.44m DECLINING (was 24.60m); tick1024
+bud_boc_fin_debt_st_due_2025,city_boechout,2025,1591292,,,bbc_jr_realized,src_boechout_jr2025,strong,Fin debt ST due YE2025 1.59m; tick1024
+bud_boc_new_loans_2025,city_boechout,2025,439744,,,bbc_jr_realized,src_boechout_jr2025,strong,Nieuwe leningen 2025 0.440m JUMP (was 0.216m); tick1024
+bud_boc_aflossingen_2025,city_boechout,2025,1506632,,,bbc_jr_realized,src_boechout_jr2025,strong,Periodieke aflossingen 2025 1.51m; tick1024
+bud_boc_cash_2025,city_boechout,2025,5508925,,,bbc_jr_realized,src_boechout_jr2025,strong,Liquide middelen YE2025 5.51m DROP (was 5.98m); tick1024
+bud_boc_pension_2025,city_boechout,2025,5610029,,,bbc_jr_realized,src_boechout_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.61m JUMP FOI (was 4.30m); tick1024
+bud_boc_cap_subs_2025,city_boechout,2025,6151565,,,bbc_jr_realized,src_boechout_jr2025,strong,Kapitaalsubsidies YE2025 6.15m; tick1024
+bud_boc_fva_total_2025,city_boechout,2025,8353688,,,bbc_jr_realized,src_boechout_jr2025,strong,FVA total YE2025 8.35m; tick1024
+bud_boc_fva_igs_2025,city_boechout,2025,8255403,,,bbc_jr_realized,src_boechout_jr2025,strong,FVA IGS YE2025 8.26m; tick1024
+bud_boc_leasing_mva_2025,city_boechout,2025,1568682,,,bbc_jr_realized,src_boechout_jr2025,strong,Leasing MVA YE2025 1.57m; tick1024
+bud_boc_expl_rec_2025,city_boechout,2025,25465038,,,bbc_jr_realized,src_boechout_jr2025,strong,Exploitatieontvangsten 25.47m; tick1024
+bud_boc_expl_exp_2025,city_boechout,2025,22928974,,,bbc_jr_realized,src_boechout_jr2025,strong,Exploitatieuitgaven 22.93m; tick1024
+bud_boc_expl_saldo_2025,city_boechout,2025,2536064,,,bbc_jr_realized,src_boechout_jr2025,strong,Exploitatiesaldo +2.54m STRONG; tick1024
+bud_boc_invest_exp_2025,city_boechout,2025,2140302,,,bbc_jr_realized,src_boechout_jr2025,strong,Investeringsuitgaven 2.14m vs MJP 2.43m UNDERSPEND FOI; tick1024
+bud_boc_invest_rec_2025,city_boechout,2025,665315,,,bbc_jr_realized,src_boechout_jr2025,strong,Investeringsontvangsten 0.665m; tick1024
+bud_boc_invest_saldo_2025,city_boechout,2025,-1474987,,,bbc_jr_realized,src_boechout_jr2025,strong,Investeringssaldo -1.47m; tick1024
+bud_boc_mjp_invest_planned_2025,city_boechout,2025,2432476,,,bbc_jr_realized,src_boechout_jr2025,strong,MJP invest planned 2.43m vs realized 2.14m underspend FOI; tick1024
+bud_boc_afm_2025,city_boechout,2025,1551531,,,bbc_jr_realized,src_boechout_jr2025,strong,AFM +1.55m STRONG; tick1024
+bud_boc_afm_corr_2025,city_boechout,2025,970499,,,bbc_jr_realized,src_boechout_jr2025,strong,Gecorrigeerde AFM +0.970m; tick1024
+bud_boc_bbr_2025,city_boechout,2025,3641954,,,bbc_jr_realized,src_boechout_jr2025,strong,BBR beschikbaar 3.64m; tick1024
+bud_boc_budget_result_2025,city_boechout,2025,509910,,,bbc_jr_realized,src_boechout_jr2025,strong,Budgettair resultaat +0.510m STRONG; tick1024
+bud_boc_cum_br_2025,city_boechout,2025,5426807,,,bbc_jr_realized,src_boechout_jr2025,strong,Gecumuleerd budgettair resultaat 5.43m; tick1024
+bud_boc_onbeschikbaar_2025,city_boechout,2025,1784854,,,bbc_jr_realized,src_boechout_jr2025,strong,Onbeschikbare gelden 1.78m HIGH FOI; tick1024
+bud_boc_pnl_2025,city_boechout,2025,-1420797,,,bbc_jr_realized,src_boechout_jr2025,strong,P&L -1.42m NEG FOI (improving vs -2.27m); tick1024
+bud_boc_ge_expl_exp_2025,city_boechout,2025,19469270,,,bbc_jr_realized,src_boechout_jr2025,strong,GE exploitatieuitgaven J3 19.47m; tick1024
+bud_boc_ge_expl_rec_2025,city_boechout,2025,23102981,,,bbc_jr_realized,src_boechout_jr2025,strong,GE exploitatieontvangsten J3 23.10m; tick1024
+bud_boc_ocmw_expl_exp_2025,city_boechout,2025,3459704,,,bbc_jr_realized,src_boechout_jr2025,strong,OCMW exploitatieuitgaven J3 3.46m FOI; tick1024
+bud_boc_ocmw_expl_rec_2025,city_boechout,2025,2362057,,,bbc_jr_realized,src_boechout_jr2025,strong,OCMW exploitatieontvangsten J3 2.36m; tick1024
+bud_boc_ocmw_expl_gap_2025,city_boechout,2025,-1097647,,,bbc_jr_realized,src_boechout_jr2025,strong,OCMW expl gap -1.10m FOI residual; tick1024
+bud_boc_ocmw_cover_2025,city_boechout,2025,0,,,bbc_jr_realized,src_boechout_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1024
+bud_boc_equity_cum_deficit_2025,city_boechout,2025,-9842330,,,bbc_jr_realized,src_boechout_jr2025,strong,Gecumuleerd equity tekort YE2025 -9.84m WORSENING (was -8.42m FOI); tick1024
+bud_boc_ocmw_equity_cum_2025,city_boechout,2025,-1885907,,,bbc_jr_realized,src_boechout_jr2025,strong,OCMW equity cum -1.89m WORSENING FOI (was -0.949m; cover 0); tick1024
+bud_boc_personnel_2025,city_boechout,2025,11473639,,,bbc_jr_realized,src_boechout_jr2025,strong,Bezoldigingen 11.47m incl education pass-through 1.48m; tick1024
+bud_boc_edu_pass_through_2025,city_boechout,2025,1484794,,,bbc_jr_realized,src_boechout_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.48m; tick1024
+bud_boc_toelagen_2025,city_boechout,2025,3512806,,,bbc_jr_realized,src_boechout_jr2025,strong,Toegestane werkingssubsidies 3.51m FOI residual; tick1024
+bud_boc_toelagen_police_2025,city_boechout,2025,1820107,,,bbc_jr_realized,src_boechout_jr2025,strong,Toelage politiezone 1.82m JUMP; tick1024
+bud_boc_toelagen_fire_2025,city_boechout,2025,541285,,,bbc_jr_realized,src_boechout_jr2025,strong,Toelage hulpverleningszone 0.541m; tick1024
+bud_boc_toelagen_agb_2025,city_boechout,2025,665878,,,bbc_jr_realized,src_boechout_jr2025,strong,Toelage AGB Boechout 0.666m dual FOI; tick1024
+bud_boc_toelagen_other_2025,city_boechout,2025,437597,,,bbc_jr_realized,src_boechout_jr2025,strong,Toelage andere begunstigden 0.438m FOI; tick1024
+bud_boc_toelagen_eredienst_2025,city_boechout,2025,45400,,,bbc_jr_realized,src_boechout_jr2025,strong,Toelage eredienst 0.045m; tick1024
+bud_boc_ocmw_aid_2025,city_boechout,2025,1903867,,,bbc_jr_realized,src_boechout_jr2025,strong,OCMW individuele hulp 1.90m; tick1024
+bud_boc_fiscal_2025,city_boechout,2025,13431259,,,bbc_jr_realized,src_boechout_jr2025,strong,Fiscale opbrengsten 13.43m; tick1024
+bud_boc_fiscal_ov_2025,city_boechout,2025,4844626,,,bbc_jr_realized,src_boechout_jr2025,strong,Opcentiemen OV 4.84m; tick1024
+bud_boc_fiscal_pb_2025,city_boechout,2025,7491266,,,bbc_jr_realized,src_boechout_jr2025,strong,Aanvullende PB 7.49m JUMP (was 6.38m); tick1024
+bud_boc_gemeentefonds_2025,city_boechout,2025,3575379,,,bbc_jr_realized,src_boechout_jr2025,strong,Gemeentefonds 3.58m; tick1024
+bud_boc_fin_opbr_2025,city_boechout,2025,1140747,,,bbc_jr_realized,src_boechout_jr2025,strong,Financiele opbrengsten J5 1.14m; tick1024
+bud_boc_invest_subs_granted_2025,city_boechout,2025,154586,,,bbc_jr_realized,src_boechout_jr2025,strong,Toegestane invest-subs 0.155m; tick1024
+bud_boc_interest_2025,city_boechout,2025,574749,,,bbc_jr_realized,src_boechout_jr2025,strong,Intresten op leningen 0.575m; tick1024
+bud_boc_agb_bbr_2025,city_boechout,2025,288676,,,bbc_jr_realized,src_boechout_jr2025,strong,AGB BBR 0.289m dual; tick1024
+bud_boc_agb_afm_2025,city_boechout,2025,3941,,,bbc_jr_realized,src_boechout_jr2025,strong,AGB AFM +0.004m THIN dual; tick1024
+bud_boc_agb_afm_corr_2025,city_boechout,2025,-90541,,,bbc_jr_realized,src_boechout_jr2025,strong,AGB gecorr AFM -0.091m NEG dual FOI; tick1024
+bud_boc_vorderingen_lt_2025,city_boechout,2025,10304295,,,bbc_jr_realized,src_boechout_jr2025,strong,Vorderingen LT YE2025 10.30m; tick1024
