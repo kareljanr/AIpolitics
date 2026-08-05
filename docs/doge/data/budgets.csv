@@ -27172,3 +27172,56 @@ bud_sgr_gemeentefonds_2025,city_sint_genesius_rode,2025,3149022,,,bbc_jr_realize
 bud_sgr_interest_2025,city_sint_genesius_rode,2025,351707,,,bbc_jr_realized,src_sgr_jr2025,strong,Rente banken 0.352m 2025; tick1067
 bud_sgr_invest_subs_granted_2025,city_sint_genesius_rode,2025,304532,,,bbc_jr_realized,src_sgr_jr2025,strong,Toegestane invest-subs 0.305m 2025; tick1067
 bud_sgr_vorderingen_kt_2025,city_sint_genesius_rode,2025,5454712,,,bbc_jr_realized,src_sgr_jr2025,strong,Vorderingen KT YE2025 5.45m; tick1067
+bud_ovj_assets_2025,city_overijse,2025,208486262,,,bbc_jr_realized,src_overijse_jr2025,strong,Assets YE2025 208.49m (was 207.93m); tick1068
+bud_ovj_equity_2025,city_overijse,2025,148741599,,,bbc_jr_realized,src_overijse_jr2025,strong,Nettoactief YE2025 148.74m (was 146.73m); tick1068
+bud_ovj_debt_total_2025,city_overijse,2025,59744663,,,bbc_jr_realized,src_overijse_jr2025,strong,Total schulden YE2025 59.74m DECLINE (was 61.20m); tick1068
+bud_ovj_fin_debt_2025,city_overijse,2025,27231027,,,bbc_jr_realized,src_overijse_jr2025,strong,Fin debt total YE2025 27.23m DECLINE (was 30.32m T4); tick1068
+bud_ovj_fin_debt_lt_2025,city_overijse,2025,24036810,,,bbc_jr_realized,src_overijse_jr2025,strong,Fin debt LT YE2025 24.04m DECLINE (was 26.91m); tick1068
+bud_ovj_fin_debt_st_due_2025,city_overijse,2025,3194217,,,bbc_jr_realized,src_overijse_jr2025,strong,Fin debt ST due YE2025 3.19m; tick1068
+bud_ovj_new_loans_2025,city_overijse,2025,0,,,bbc_jr_realized,src_overijse_jr2025,strong,Nieuwe leningen 2025 0; tick1068
+bud_ovj_aflossingen_2025,city_overijse,2025,3090582,,,bbc_jr_realized,src_overijse_jr2025,strong,Periodieke aflossingen 2025 3.09m; tick1068
+bud_ovj_mjp_new_loans_2026,city_overijse,2025,9000000,,,bbc_jr_realized,src_overijse_jr2025,strong,MJP new loans 2026 planned 9.00m JUMP FOI; tick1068
+bud_ovj_mjp_new_loans_2027,city_overijse,2025,20000000,,,bbc_jr_realized,src_overijse_jr2025,strong,MJP new loans 2027 planned 20.00m JUMP FOI; tick1068
+bud_ovj_cash_2025,city_overijse,2025,26498984,,,bbc_jr_realized,src_overijse_jr2025,strong,Liquide middelen YE2025 26.50m JUMP (was 22.33m); tick1068
+bud_ovj_pension_2025,city_overijse,2025,24913948,,,bbc_jr_realized,src_overijse_jr2025,strong,Pensioenvoorzieningen LT YE2025 24.91m JUMP FOI (was 23.06m); tick1068
+bud_ovj_cap_subs_2025,city_overijse,2025,22378625,,,bbc_jr_realized,src_overijse_jr2025,strong,Kapitaalsubsidies YE2025 22.38m; tick1068
+bud_ovj_fva_total_2025,city_overijse,2025,19051121,,,bbc_jr_realized,src_overijse_jr2025,strong,FVA total YE2025 19.05m; tick1068
+bud_ovj_fva_igs_2025,city_overijse,2025,15440346,,,bbc_jr_realized,src_overijse_jr2025,strong,FVA IGS YE2025 15.44m; tick1068
+bud_ovj_leasing_mva_2025,city_overijse,2025,7956298,,,bbc_jr_realized,src_overijse_jr2025,strong,Leasing MVA YE2025 7.96m; tick1068
+bud_ovj_expl_rec_2025,city_overijse,2025,67263649,,,bbc_jr_realized,src_overijse_jr2025,strong,Exploitatieontvangsten 67.26m; tick1068
+bud_ovj_expl_exp_2025,city_overijse,2025,55464830,,,bbc_jr_realized,src_overijse_jr2025,strong,Exploitatieuitgaven 55.46m; tick1068
+bud_ovj_expl_saldo_2025,city_overijse,2025,11798819,,,bbc_jr_realized,src_overijse_jr2025,strong,Exploitatiesaldo +11.80m STRONG; tick1068
+bud_ovj_invest_exp_2025,city_overijse,2025,6219323,,,bbc_jr_realized,src_overijse_jr2025,strong,Investeringsuitgaven 6.22m vs MJP 17.32m UNDERSPEND FOI; tick1068
+bud_ovj_invest_rec_2025,city_overijse,2025,4030010,,,bbc_jr_realized,src_overijse_jr2025,strong,Investeringsontvangsten 4.03m; tick1068
+bud_ovj_invest_saldo_2025,city_overijse,2025,-2189313,,,bbc_jr_realized,src_overijse_jr2025,strong,Investeringssaldo -2.19m; tick1068
+bud_ovj_mjp_invest_planned_2025,city_overijse,2025,17324981,,,bbc_jr_realized,src_overijse_jr2025,strong,MJP invest planned 17.32m vs realized 6.22m underspend FOI; tick1068
+bud_ovj_afm_2025,city_overijse,2025,9197015,,,bbc_jr_realized,src_overijse_jr2025,strong,AFM +9.20m STRONG; tick1068
+bud_ovj_afm_corr_2025,city_overijse,2025,9861868,,,bbc_jr_realized,src_overijse_jr2025,strong,Gecorrigeerde AFM +9.86m STRONG; tick1068
+bud_ovj_bbr_2025,city_overijse,2025,29332054,,,bbc_jr_realized,src_overijse_jr2025,strong,BBR beschikbaar +29.33m VERY HIGH; tick1068
+bud_ovj_budget_result_2025,city_overijse,2025,6504523,,,bbc_jr_realized,src_overijse_jr2025,strong,Budgettair resultaat +6.50m STRONG; tick1068
+bud_ovj_cum_br_2025,city_overijse,2025,29518721,,,bbc_jr_realized,src_overijse_jr2025,strong,Gecumuleerd budgettair resultaat +29.52m; tick1068
+bud_ovj_onbeschikbaar_2025,city_overijse,2025,186667,,,bbc_jr_realized,src_overijse_jr2025,strong,Onbeschikbare gelden 0.187m; tick1068
+bud_ovj_pnl_2025,city_overijse,2025,3104738,,,bbc_jr_realized,src_overijse_jr2025,strong,P&L +3.10m STRONG (was -1.86m flip); tick1068
+bud_ovj_ge_expl_exp_2025,city_overijse,2025,44122201,,,bbc_jr_realized,src_overijse_jr2025,strong,GE exploitatieuitgaven J3 44.12m; tick1068
+bud_ovj_ge_expl_rec_2025,city_overijse,2025,59141591,,,bbc_jr_realized,src_overijse_jr2025,strong,GE exploitatieontvangsten J3 59.14m; tick1068
+bud_ovj_ocmw_expl_exp_2025,city_overijse,2025,11342629,,,bbc_jr_realized,src_overijse_jr2025,strong,OCMW exploitatieuitgaven J3 11.34m FOI; tick1068
+bud_ovj_ocmw_expl_rec_2025,city_overijse,2025,8122058,,,bbc_jr_realized,src_overijse_jr2025,strong,OCMW exploitatieontvangsten J3 8.12m; tick1068
+bud_ovj_ocmw_expl_gap_2025,city_overijse,2025,-3220571,,,bbc_jr_realized,src_overijse_jr2025,strong,OCMW expl gap J3 -3.22m HIGH FOI residual; tick1068
+bud_ovj_ocmw_cover_2025,city_overijse,2025,0,,,bbc_jr_realized,src_overijse_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1068
+bud_ovj_equity_cum_2025,city_overijse,2025,26185081,,,bbc_jr_realized,src_overijse_jr2025,strong,Gecumuleerd equity overschot YE2025 +26.19m; tick1068
+bud_ovj_ocmw_equity_cum_2025,city_overijse,2025,-17979978,,,bbc_jr_realized,src_overijse_jr2025,strong,OCMW equity cum -17.98m WORSENING FOI (was -13.99m; cover 0); tick1068
+bud_ovj_ge_equity_cum_2025,city_overijse,2025,44165059,,,bbc_jr_realized,src_overijse_jr2025,strong,GE equity cum +44.17m; tick1068
+bud_ovj_personnel_2025,city_overijse,2025,32429278,,,bbc_jr_realized,src_overijse_jr2025,strong,Bezoldigingen 32.43m incl education pass-through 9.62m; tick1068
+bud_ovj_edu_pass_through_2025,city_overijse,2025,9620427,,,bbc_jr_realized,src_overijse_jr2025,strong,Onderwijzend personeel ten laste andere overheden 9.62m; tick1068
+bud_ovj_toelagen_2025,city_overijse,2025,7834799,,,bbc_jr_realized,src_overijse_jr2025,strong,Toegestane werkingssubsidies 7.83m FOI residual; tick1068
+bud_ovj_toelagen_police_2025,city_overijse,2025,2935697,,,bbc_jr_realized,src_overijse_jr2025,strong,Toelage politiezone 2.94m JUMP (was 1.99m); tick1068
+bud_ovj_toelagen_fire_2025,city_overijse,2025,1449760,,,bbc_jr_realized,src_overijse_jr2025,strong,Toelage hulpverleningszone 1.45m; tick1068
+bud_ovj_toelagen_igs_2025,city_overijse,2025,2668946,,,bbc_jr_realized,src_overijse_jr2025,strong,Toelage IGS 2.67m FOI; tick1068
+bud_ovj_toelagen_other_2025,city_overijse,2025,780396,,,bbc_jr_realized,src_overijse_jr2025,strong,Toelage other+welzijn+eredienst 0.780m FOI; tick1068
+bud_ovj_ocmw_aid_2025,city_overijse,2025,1769147,,,bbc_jr_realized,src_overijse_jr2025,strong,OCMW individuele hulp 1.77m; tick1068
+bud_ovj_fiscal_2025,city_overijse,2025,34118095,,,bbc_jr_realized,src_overijse_jr2025,strong,Fiscale opbrengsten 34.12m; tick1068
+bud_ovj_fiscal_ov_2025,city_overijse,2025,15195918,,,bbc_jr_realized,src_overijse_jr2025,strong,Opcentiemen OV 15.20m; tick1068
+bud_ovj_fiscal_pb_2025,city_overijse,2025,17594276,,,bbc_jr_realized,src_overijse_jr2025,strong,Aanvullende PB 17.59m JUMP; tick1068
+bud_ovj_gemeentefonds_2025,city_overijse,2025,5134817,,,bbc_jr_realized,src_overijse_jr2025,strong,Gemeentefonds 5.13m; tick1068
+bud_ovj_interest_2025,city_overijse,2025,828922,,,bbc_jr_realized,src_overijse_jr2025,strong,Intresten op leningen 0.829m; tick1068
+bud_ovj_invest_subs_granted_2025,city_overijse,2025,286468,,,bbc_jr_realized,src_overijse_jr2025,strong,Toegestane invest-subs 0.286m; tick1068

@@ -13431,7 +13431,7 @@ Append-only. Each tick adds a short entry.
 ### Tick 1024 - 2026-08-10T01:15:00Z
 
 - Unit: **rq_1024** (FOI-adjacent residual dual - **Gemeente+OCMW Boechout Jaarrekening 2025** + Dessel dual residual)
-- Found (strong primary BBC JR2025 76p; KBO 0207.536.448; AD Jan Geudens; FD Cathérine Gabriels; Heuvelstraat 91; GR 18 mei 2026):
+- Found (strong primary BBC JR2025 76p; KBO 0207.536.448; AD Jan Geudens; FD Cathï¿½rine Gabriels; Heuvelstraat 91; GR 18 mei 2026):
   - Assets **EUR84.07m** / equity **EUR47.96m DROP** / debt total **EUR36.11m JUMP** / fin debt **EUR25.03m** (**DECLINING** from **EUR26.10m**; LT **EUR23.44m** / ST due **EUR1.59m**)
   - New loans **EUR0.440m JUMP** (was **EUR0.216m**) / repayments **EUR1.51m**
   - Cash **EUR5.51m DROP** (was **EUR5.98m**) / pension **EUR5.61m JUMP FOI** (was **EUR4.30m**) / leasing MVA **EUR1.57m**
@@ -14293,4 +14293,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_sgr_*); commitments +7; leaderboard +8; sources +1; entity city_sint_genesius_rode; FOI **gap_sgr_budget_cash_invest_bbr_l5** prio9 ready + draft; PDF primary (not committed); rq_1067=done; spawn **rq_1068**; ticks=1067
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1068** residual dual L5; deferred **rq_116**; progress@1070
+
+### Tick 1068 - 2026-08-10T23:15:00Z
+
+- Unit: **rq_1068** (FOI-adjacent residual dual - **Lokaal Bestuur Overijse Jaarrekening 2025** + SGR dual residual)
+- Found (strong primary BBC JR2025 PDF; GR 26.05.2026 pub 01.06.2026; KBO GE 0207.512.001 / OCMW 0212.207.393; Begijnhof 17 3090; AD wnd Aileen Vanden Bosch FD Stefan Tack; GE+OCMW):
+  - Assets **EUR208.49m** / equity **EUR148.74m** / debt total **EUR59.74m DECLINE** / fin debt **EUR27.23m DECLINE** (LT **EUR24.04m** / ST due **EUR3.19m**; was **EUR30.32m**)
+  - New loans **EUR0** / repayments **EUR3.09m** / MJP new loans **2026 EUR9.00m** / **2027 EUR20.00m JUMP FOI**
+  - Cash **EUR26.50m JUMP** (was **EUR22.33m**) / pension **EUR24.91m JUMP FOI** (was **EUR23.06m**) / FVA IGS **EUR15.44m** / leasing MVA **EUR7.96m**
+  - Exploitatie: ontvangsten **EUR67.26m** / uitgaven **EUR55.46m** / saldo **+EUR11.80m VERY STRONG**
+  - AFM **+EUR9.20m VERY STRONG** (gecorr **+EUR9.86m**) / BBR **EUR29.33m VERY HIGH FOI** / budget **+EUR6.50m STRONG** / cum BR **EUR29.52m** / P&L **+EUR3.10m**
+  - Personnel **EUR32.43m** (edu pass-through **EUR9.62m**) / toelagen **EUR7.83m FOI** (police **EUR2.94m JUMP** / fire **EUR1.45m** / IGS **EUR2.67m** / other **EUR0.78m**)
+  - Invest **EUR6.22m** vs MJP **EUR17.32m UNDERSPEND FOI** / OCMW cover **0 ZERO FOI** / OCMW equity cum **EUR-17.98m WORSENING** (was **EUR-13.99m**) / OCMW expl gap **EUR-3.22m**
+- Dual: SGR assets **EUR144.31m** / budget **EUR-17.65m** / cash DROP (tick1067) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Ronse city residual next; progress@1070
+- Wrote: budgets +52 (bud_ovj_*); commitments +7; leaderboard +8; sources +1; entity city_overijse; FOI **gap_ovj_ocmw_pension_bbr_mjp_loans_l5** prio9 ready + draft; PDF primary (not committed); rq_1068=done; spawn **rq_1069**; ticks=1068
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1069** residual dual L5; deferred **rq_116**; progress@1070
 
