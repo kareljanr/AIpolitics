@@ -1,0 +1,40 @@
+Oostkamp Gemeente+OCMW Jaarrekening 2025 (BBC 420p) — tick909
+Primary: https://www.oostkamp.be/file/download/5461c606-af21-4239-9d03-58f444e8d4a1/vCbbsc3x8tkVLsryKSwZjG2tCzkjf4jqk2HNWxoU3d.pdf
+Portal: https://www.oostkamp.be/bekendmakingen/detail/4032/jaarrekening-gemeente-en-ocmw-2025
+GR/OR: 21/05/2026 publicatie 26/05/2026
+
+BALANCE YE2025 / YE2024
+- Assets: 139,907,083 / 131,345,797
+- Equity: 97,579,610 / 93,500,121
+- Debt total: 42,327,473 / 37,845,676
+- Fin debt total (T4): 30,663,506 / 28,066,805
+  - LT: 27,491,838 / 24,795,394
+  - ST due: 3,171,668 / 3,271,410
+- Pension: 5,410,412 / 4,750,665
+- Cash: 9,630,009 / 2,890,099 JUMP
+- Cap subs: 9,476,776 / 9,910,342
+- FVA IGS: 14,562,884 / 14,664,309
+- FVA total: 17,726,427 / 17,829,936
+- LT receivables: 9,566,363 / 9,447,473
+
+J2 FLOW 2025
+- Expl rec 40,863,254 / exp 32,363,680 / saldo +8,499,574
+- Invest rec 2,975,246 / exp 8,093,494 / saldo -5,118,247
+- Fin saldo +2,921,916
+- Budget result +6,303,243
+- Cumul budget 9,156,922 / BBR 9,155,572
+- AFM +6,335,695 / gecorr +7,562,839
+
+J5 / T2
+- Personnel 13,902,019
+- Toelagen 5,784,712 (police 2,398,825 fire 1,020,499 IGS 417,633 other 1,715,484)
+- OCMW aid 1,546,293
+- Fiscal 24,582,765 (OV 10,027,357 APB 12,127,340)
+- Gemeentefonds 6,548,832
+- Invest-subs granted 783,595 (eredienst 332,207 fire 199,416 IGS 149,320 other 102,652)
+- New loans 6,069,189 (bank 5,000,000 + other 1,069,189)
+- MJP fin debt YE2026 31,184,552; new loans 2026 3,677,410
+- P&L +4,513,057
+
+DUAL: Ingelmunster assets 79m AFM +3.6m sportpark 4.3m (tick908) — not TE-additive
+FOI: gap_osk_loans_toelagen_cash_l5 prio8 ready

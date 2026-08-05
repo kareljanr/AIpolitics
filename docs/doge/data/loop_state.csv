@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T02:45:00Z,rq_908,908,no,tick908 Ingelmunster JR2025 dual Rumst; FOI gap_ing_ocmw_sportpark_toelagen_l5 prio8 sportpark 4.3m OCMW cover 3m AFM +3.6m BBR 15m; next rq_909 residual dual L5; progress@910 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T03:15:00Z,rq_909,909,no,tick909 Oostkamp JR2025 dual Ingelmunster; FOI gap_osk_loans_toelagen_cash_l5 prio8 new loans 6.07m cash 9.6m AFM +6.3m; next progress@910 prio10; rq_116 deferred

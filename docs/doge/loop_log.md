@@ -11350,3 +11350,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +41 (bud_ing_*); commitments +4; leaderboard +7; sources +2; entity city_ingelmunster; FOI **gap_ing_ocmw_sportpark_toelagen_l5** prio8 ready + draft; raw PDFs + key; rq_908=done; spawn **rq_909**; ticks=908
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_909** residual dual L5 (Roeselare/VUB/Zemst/Opwijk); deferred **rq_116**; progress@910 in 2
+
+## Tick 909 - 2026-08-07T03:15:00Z
+
+- Unit: **rq_909** (FOI-adjacent residual dual - **Gemeente+OCMW Oostkamp Jaarrekening 2025** + Ingelmunster dual)
+- Found (strong primary BBC JR2025 420p):
+  - Assets **EUR139.9m** / equity **EUR97.6m** / debt total **EUR42.3m** / fin debt **EUR30.7m** (was **EUR28.1m**; LT **EUR27.5m** / ST due **EUR3.17m**)
+  - **New loans EUR6.07m FOI** (bank **EUR5.0m**) / pension **EUR5.41m** / **cash EUR9.63m was EUR2.89m JUMP FOI**
+  - Exploitatie: ontvangsten **EUR40.9m** / uitgaven **EUR32.4m** / saldo **+EUR8.50m**
+  - AFM **+EUR6.34m** (gecorr **+EUR7.56m**) / BBR **EUR9.16m** / budget result **+EUR6.30m** / P&L **+EUR4.51m**
+  - Personnel **EUR13.9m** / toelagen **EUR5.78m** (police **EUR2.40m** / other **EUR1.72m FOI**) / fiscal **EUR24.6m**
+  - Invest **EUR8.09m** / invest-subs **EUR0.78m** (eredienst **EUR0.33m FOI**) / gemeentefonds **EUR6.55m**
+  - **MJP fin debt YE2026 EUR31.2m**; new loans **EUR3.68m FOI**
+- Dual: Ingelmunster **EUR78.8m** / AFM **+EUR3.61m** / sportpark **EUR4.3m** (tick908) - not TE-additive
+- Wrote: budgets +41 (bud_osk_*); commitments +4; leaderboard +7; sources +2; entity city_oostkamp; FOI **gap_osk_loans_toelagen_cash_l5** prio8 ready + draft; raw PDF + key; rq_909=done; spawn **rq_910 progress@910 prio10**; ticks=909
+- FOI: ready only - **do not send**
+- Next: **progress@910 NEXT** (prio10 rq_910); then residual dual L5; deferred **rq_116**

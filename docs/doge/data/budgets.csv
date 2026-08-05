@@ -19990,3 +19990,44 @@ bud_ing_new_loans_2025,city_ingelmunster,2025,283311,,,jaarrekening_realized,src
 bud_ing_sportpark_invest_2025,city_ingelmunster,2025,4297680,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Sport/vrijetijdspark invest uitgaven 4.298m 2025 FOI; tick908
 bud_ing_ocmw_deficit_cover_2025,city_ingelmunster,2025,3000000,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Tussenkomst OCMW tekort 3.000m 2025 FOI; tick908
 bud_ing_onbeschikbaar_2025,city_ingelmunster,2025,186667,,,jaarrekening_realized,src_ingelmunster_jr2025,strong,Onbeschikbare gelden kinderopvang invest-subs 0.187m 2025; tick908
+bud_osk_assets_2025,city_oostkamp,2025,139907083,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Consol total assets YE2025 139.907m; tick909
+bud_osk_equity_2025,city_oostkamp,2025,97579610,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Nettoactief YE2025 97.580m; tick909
+bud_osk_debt_total_2025,city_oostkamp,2025,42327473,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Schulden total YE2025 42.327m; tick909
+bud_osk_fin_debt_2025,city_oostkamp,2025,30663506,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Fin schulden total YE2025 30.664m (LT 27.492 + ST due 3.172 was 28.067m); tick909
+bud_osk_fin_debt_lt_2025,city_oostkamp,2025,27491838,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Fin schulden LT YE2025 27.492m; tick909
+bud_osk_fin_debt_st_2025,city_oostkamp,2025,3171668,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.172m; tick909
+bud_osk_pension_prov_2025,city_oostkamp,2025,5410412,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Pensioenvoorzieningen YE2025 5.410m (was 4.751m); tick909
+bud_osk_cash_2025,city_oostkamp,2025,9630009,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Liquide middelen YE2025 9.630m (was 2.890m JUMP FOI); tick909
+bud_osk_cap_subs_2025,city_oostkamp,2025,9476776,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Kapitaalsubsidies YE2025 9.477m; tick909
+bud_osk_fva_igs_2025,city_oostkamp,2025,14562884,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Fin VA IGS YE2025 14.563m; tick909
+bud_osk_fva_total_2025,city_oostkamp,2025,17726427,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Fin VA total YE2025 17.726m; tick909
+bud_osk_cumul_budget_2025,city_oostkamp,2025,9156922,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 9.157m; tick909
+bud_osk_bbr_2025,city_oostkamp,2025,9155572,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Beschikbaar budgettair resultaat YE2025 9.156m; tick909
+bud_osk_expl_rec_2025,city_oostkamp,2025,40863254,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Exploitatieontvangsten 40.863m 2025 (J2); tick909
+bud_osk_expl_exp_2025,city_oostkamp,2025,32363680,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Exploitatieuitgaven 32.364m 2025 (J2); tick909
+bud_osk_expl_saldo_2025,city_oostkamp,2025,8499574,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Exploitatiesaldo +8.500m 2025; tick909
+bud_osk_invest_exp_2025,city_oostkamp,2025,8093494,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Investeringsuitgaven 8.093m 2025; tick909
+bud_osk_invest_rec_2025,city_oostkamp,2025,2975246,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Investeringsontvangsten 2.975m 2025; tick909
+bud_osk_invest_saldo_2025,city_oostkamp,2025,-5118247,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Investeringssaldo -5.118m 2025; tick909
+bud_osk_fin_saldo_2025,city_oostkamp,2025,2921916,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Financieringssaldo +2.922m 2025; tick909
+bud_osk_budget_result_2025,city_oostkamp,2025,6303243,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Budgettair resultaat boekjaar +6.303m 2025; tick909
+bud_osk_afm_2025,city_oostkamp,2025,6335695,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Autofinancieringsmarge +6.336m 2025; tick909
+bud_osk_afm_gecorr_2025,city_oostkamp,2025,7562839,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Gecorrigeerde AFM +7.563m 2025; tick909
+bud_osk_pl_2025,city_oostkamp,2025,4513057,,,jaarrekening_realized,src_oostkamp_jr2025,strong,P&L overschot +4.513m 2025; tick909
+bud_osk_personnel_2025,city_oostkamp,2025,13902019,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Bezoldigingen 13.902m 2025; tick909
+bud_osk_toelagen_2025,city_oostkamp,2025,5784712,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Toegestane werkingssubsidies 5.785m 2025; tick909
+bud_osk_toelagen_police_2025,city_oostkamp,2025,2398825,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Toelage politiezone 2.399m 2025; tick909
+bud_osk_toelagen_fire_2025,city_oostkamp,2025,1020499,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Toelage hulpverleningszone 1.020m 2025; tick909
+bud_osk_toelagen_igs_2025,city_oostkamp,2025,417633,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Toelage IGS 0.418m 2025; tick909
+bud_osk_toelagen_other_2025,city_oostkamp,2025,1715484,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Toelagen andere begunstigden 1.715m 2025 FOI; tick909
+bud_osk_ocmw_aid_2025,city_oostkamp,2025,1546293,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Individuele hulpverlening OCMW 1.546m 2025; tick909
+bud_osk_fiscal_2025,city_oostkamp,2025,24582765,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Fiscale opbrengsten en boetes 24.583m 2025; tick909
+bud_osk_fiscal_ov_2025,city_oostkamp,2025,10027357,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Opcentiemen OV 10.027m 2025; tick909
+bud_osk_fiscal_apb_2025,city_oostkamp,2025,12127340,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Aanvullende PB 12.127m 2025; tick909
+bud_osk_gemeentefonds_2025,city_oostkamp,2025,6548832,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Gemeentefonds 6.549m 2025; tick909
+bud_osk_invest_subs_granted_2025,city_oostkamp,2025,783595,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Toegestane investeringssubsidies 0.784m 2025 FOI (eredienst 0.332m); tick909
+bud_osk_invest_subs_eredienst_2025,city_oostkamp,2025,332207,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Invest-subs eredienst 0.332m 2025 FOI; tick909
+bud_osk_new_loans_2025,city_oostkamp,2025,6069189,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Nieuwe leningen/leasings 6.069m 2025 FOI (bank 5.0m); tick909
+bud_osk_mjp_new_loans_2026,city_oostkamp,2025,3677410,,,jaarrekening_realized,src_oostkamp_jr2025,strong,MJP new loans 2026 3.677m FOI; tick909
+bud_osk_mjp_fin_debt_2026,city_oostkamp,2025,31184552,,,jaarrekening_realized,src_oostkamp_jr2025,strong,MJP fin debt path YE2026 31.185m FOI; tick909
+bud_osk_lt_receivables_2025,city_oostkamp,2025,9566363,,,jaarrekening_realized,src_oostkamp_jr2025,strong,Vorderingen LT YE2025 9.566m; tick909
