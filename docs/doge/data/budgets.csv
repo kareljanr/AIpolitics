@@ -29651,3 +29651,49 @@ bud_rooagb_invest_2025,agb_roosdaal,2025,80163,,,bbc_jr_realized,src_roosdaal_ag
 bud_rooagb_interest_2025,agb_roosdaal,2025,3040,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB intresten 0.003m LOW FOI vs debt 4.3m; tick1125
 bud_rooagb_leasing_mva_2025,agb_roosdaal,2025,4036395,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB leasing MVA 4.036m MASSIVE FOI; tick1125
 bud_rooagb_mva_2025,agb_roosdaal,2025,4271900,,,bbc_jr_realized,src_roosdaal_agb_jr2025,strong,AGB MVA total 4.272m; tick1125
+bud_paj_assets_2025,city_pajottegem,2025,174336902,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW assets 174.337m first YE (2024=0 opening); tick1126
+bud_paj_equity_2025,city_pajottegem,2025,128838004,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW nettoactief 128.838m; tick1126
+bud_paj_debt_total_2025,city_pajottegem,2025,45498898,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW schulden total 45.499m; tick1126
+bud_paj_fin_debt_2025,city_pajottegem,2025,29937082,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW fin debt 29.937m FOI (LT 28.202 + ST due 1.735; MJP ~32.7m); tick1126
+bud_paj_fin_debt_lt_2025,city_pajottegem,2025,28202491,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW fin debt LT 28.202m; tick1126
+bud_paj_fin_debt_st_2025,city_pajottegem,2025,1734591,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW fin debt ST due 1.735m; tick1126
+bud_paj_leasing_debt_2025,city_pajottegem,2025,16074507,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW leasing debt LT+ST 16.075m MASSIVE FOI (15.518+0.556); tick1126
+bud_paj_bank_debt_2025,city_pajottegem,2025,13155324,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW bank debt LT+ST 13.155m FOI (11.978+1.177); tick1126
+bud_paj_new_loans_2025,city_pajottegem,2025,0,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW new bank loans 0 (MJP 4.0m); tick1126
+bud_paj_new_leasings_2025,city_pajottegem,2025,1717863,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW new leasings 1.718m FOI; tick1126
+bud_paj_loan_repay_2025,city_pajottegem,2025,1678529,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW periodieke aflossingen 1.679m; tick1126
+bud_paj_cash_2025,city_pajottegem,2025,11185257,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW cash 11.185m STRONG; tick1126
+bud_paj_pension_lt_2025,city_pajottegem,2025,7331042,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW pension LT voorziening 7.331m FOI; tick1126
+bud_paj_fva_total_2025,city_pajottegem,2025,41350753,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW FVA total 41.351m; tick1126
+bud_paj_fva_igs_2025,city_pajottegem,2025,30718214,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW FVA IGS 30.718m MASSIVE FOI; tick1126
+bud_paj_fva_other_2025,city_pajottegem,2025,10384370,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW FVA andere 10.384m FOI; tick1126
+bud_paj_fva_agb_2025,city_pajottegem,2025,240000,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW FVA EVA/AGB 0.240m; tick1126
+bud_paj_herwaard_2025,city_pajottegem,2025,18125241,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW herwaarderingsreserves 18.125m; tick1126
+bud_paj_leasing_mva_2025,city_pajottegem,2025,15471704,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW leasing MVA 15.472m MASSIVE FOI; tick1126
+bud_paj_mva_2025,city_pajottegem,2025,97164967,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW MVA total 97.165m; tick1126
+bud_paj_expl_ont_2025,city_pajottegem,2025,54921259,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW expl ontvangsten 54.921m; tick1126
+bud_paj_expl_uit_2025,city_pajottegem,2025,50180555,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW expl uitgaven 50.181m; tick1126
+bud_paj_expl_saldo_2025,city_pajottegem,2025,4740705,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW expl saldo +4.741m VERY STRONG; tick1126
+bud_paj_afm_2025,city_pajottegem,2025,3373015,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW AFM +3.373m VERY STRONG (MJP was +0.166m); tick1126
+bud_paj_afm_gecorr_2025,city_pajottegem,2025,2649758,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW gecorr AFM +2.650m STRONG; tick1126
+bud_paj_bbr_2025,city_pajottegem,2025,15221450,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW BBR 15.221m VERY HIGH (MJP 1.499m); tick1126
+bud_paj_budget_2025,city_pajottegem,2025,-1945804,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW budget -1.946m NEG FOI (better than MJP -14.4m); tick1126
+bud_paj_consol_bbr_2025,city_pajottegem,2025,15246266,,,bbc_jr_realized,src_pajottegem_jr2025,strong,Consol BBR GE+OCMW+AGBs 15.246m; tick1126
+bud_paj_fiscal_2025,city_pajottegem,2025,24555110,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW fiscale opbrengsten 24.555m; tick1126
+bud_paj_pb_2025,city_pajottegem,2025,13148765,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW APB/PB 13.149m (tarief 7.3pct); tick1126
+bud_paj_op_2025,city_pajottegem,2025,9644211,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW OP opcentiemen 9.644m (895); tick1126
+bud_paj_personnel_2025,city_pajottegem,2025,30651591,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW personnel 30.652m FOI (incl onderwijzend other-govt); tick1126
+bud_paj_personnel_onderwijs_other_2025,city_pajottegem,2025,10343540,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW onderwijzend t.l.v. andere overheden 10.344m (T2); tick1126
+bud_paj_toelagen_werking_2025,city_pajottegem,2025,6435579,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW toegestane werkingssubsidies 6.436m FOI; tick1126
+bud_paj_toelage_politie_2025,city_pajottegem,2025,3810831,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW toelage politiezone 3.811m; tick1126
+bud_paj_toelage_brandweer_2025,city_pajottegem,2025,1712050,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW toelage hulpverleningszone 1.712m (kerncijfers); tick1126
+bud_paj_toelage_agb_2025,city_pajottegem,2025,216971,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW toelage eigen AGBs 0.217m FOI; tick1126
+bud_paj_ocmw_hulp_2025,city_pajottegem,2025,1978860,,,bbc_jr_realized,src_pajottegem_jr2025,strong,OCMW individuele hulpverlening 1.979m; tick1126
+bud_paj_invest_2025,city_pajottegem,2025,9313016,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW invest 9.313m vs MJP 23.005m MASSIVE UNDERSPEND FOI; tick1126
+bud_paj_invest_mjp_2025,city_pajottegem,2025,23004773,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW invest MJP 23.005m (realized 9.313); tick1126
+bud_paj_interest_2025,city_pajottegem,2025,876293,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW rente 0.876m FOI; tick1126
+bud_paj_pnl_2025,city_pajottegem,2025,604911,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW P&L overschot +0.605m; tick1126
+bud_paj_werkingssub_alg_2025,city_pajottegem,2025,10080455,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW algemene werkingssubsidies in 10.080m; tick1126
+bud_paj_werkingssub_spec_2025,city_pajottegem,2025,15306875,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW specifieke werkingssubsidies in 15.307m; tick1126
+bud_paj_pop_2025,city_pajottegem,2025,25479,,,bbc_jr_realized,src_pajottegem_jr2025,strong,Inwoners YE2025 25479 (was 25287 01/01); tick1126
+bud_paj_vte_2025,city_pajottegem,2025,238,,,bbc_jr_realized,src_pajottegem_jr2025,strong,Effectief VTE ~237.72 YE2025 FOI; tick1126

@@ -15472,3 +15472,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +24 (bud_rooagb_*); commitments +7; leaderboard +9; sources +1; entity agb_roosdaal; FOI **gap_rooagb_afm_leasing_debt_cash_l5** prio9 ready + draft; PDF primary (not committed ~11MB); rq_1125=done; spawn **rq_1126**; ticks=1125
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1126** residual dual L5; deferred **rq_116**; progress@1130 in 5
+
+### Tick 1126 - 2026-08-12T04:30:00Z
+
+- Unit: **rq_1126** (FOI-adjacent residual dual - **Gemeente+OCMW Pajottegem Jaarrekening 2025** first fusion YE + AGB Gooik/Herne dual residual closed)
+- Found (strong primary BBC JR2025 GE+OCMW text PDF 57/130p; csecho Document/View 73465e49-…; NIS **23106**; KBO GE **1010.784.540** / OCMW **1010.784.738**; Marktplein 17 1570; AD Kristof Andries FD Lieven De Rick; GR 30 jun 2026):
+  - Assets **EUR174.337m** first YE (2024=0 opening) / equity **EUR128.838m** / debt total **EUR45.499m** / fin debt **EUR29.937m FOI** (LT **EUR28.202m** / ST due **EUR1.735m**; MJP ~**EUR32.7m**; leasing debt ~**EUR16.075m** / bank ~**EUR13.155m**)
+  - New bank loans **EUR0** (MJP **EUR4.0m**) / new leasings **EUR1.718m FOI** / repayments **EUR1.679m**
+  - Cash **EUR11.185m STRONG** / pension LT **EUR7.331m FOI** / FVA total **EUR41.351m** (**IGS EUR30.718m MASSIVE FOI** / andere **EUR10.384m** / AGB **EUR0.240m**) / herwaard **EUR18.125m** / **leasing MVA EUR15.472m MASSIVE FOI**
+  - Exploitatie: ontvangsten **EUR54.921m** / uitgaven **EUR50.181m** / saldo **+EUR4.741m VERY STRONG**
+  - AFM **+EUR3.373m VERY STRONG FOI** (MJP was **+EUR0.166m**) / gecorr AFM **+EUR2.650m** / BBR **EUR15.221m VERY HIGH** / consol BBR ~**EUR15.246m** / budget **−EUR1.946m NEG FOI** (better than MJP **−EUR14.4m**)
+  - Fiscal **EUR24.555m** / PB **EUR13.149m** (7.3%) / OP **EUR9.644m** (895) / **personeel EUR30.652m FOI** (onderwijs other-govt **EUR10.344m** T2) / VTE ~**238**
+  - Toelagen werking **EUR6.436m FOI** (politie **EUR3.811m** / brandweer **EUR1.712m** / AGB **EUR0.217m**) / OCMW hulp **EUR1.979m**
+  - **Invest EUR9.313m vs MJP EUR23.005m MASSIVE UNDERSPEND FOI** (~**EUR13.7m** gap)
+  - P&L **+EUR0.605m** / rente **EUR0.876m** / pop YE2025 **25.479**
+- Dual: AGB Gooik cash CRITICAL / interest 0 on 1.55m (tick1121) + AGB Herne BBR NEG / equity ZERO (tick1122) already on board - not TE-additive; GE dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken GE+OCMW / AGB Galmaarden residual next; progress@1130 in 4
+- Wrote: budgets +46 (bud_paj_*); commitments +8; leaderboard +10; sources +1; entity city_pajottegem; FOI **gap_paj_invest_underspend_debt_fva_l5** prio9 ready + draft; PDF primary (not committed ~35MB); rq_1126=done; spawn **rq_1127**; ticks=1126
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1127** residual dual L5; deferred **rq_116**; progress@1130 in 4
