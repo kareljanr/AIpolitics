@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T19:00:00Z,rq_970,970,no,tick970 progress@970 coverage A-E + waste top10; Menen 263m OCMW 8.26m AGB AFM corr -1.34m Wervik/Houthulst/Zonnebeke/Lendelede duals; next residual dual L5 rq_971; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T20:00:00Z,rq_971,971,no,tick971 Oostrozebeke GE+OCMW JR2025 dual residual; FOI gap_oor_ocmw_pension_toelagen_invest_l5 prio8 assets 72m fin debt 12.5m declining cash 9.13m OCMW cover 1.06m pension 5.88m rising; next residual dual L5 rq_972; rq_116 deferred

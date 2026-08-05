@@ -12445,3 +12445,22 @@ Append-only. Each tick adds a short entry.
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_971** residual dual L5; deferred **rq_116**; progress@980 in 10
 
+
+### Tick 971 - 2026-08-08T20:00:00Z
+
+- Unit: **rq_971** (FOI-adjacent residual dual - **Gemeente+OCMW Oostrozebeke Jaarrekening 2025** + progress@970 residual)
+- Found (strong primary BBC bundel 158p + GR extract 04.06.2026; KBO 0207.436.676 / OCMW 0212.205.415; FD Siegfried Masschaele):
+  - Assets **EUR72.0m** / equity **EUR44.1m** / debt total **EUR27.9m** / fin debt **EUR12.5m** (**DECLINING** from **EUR13.2m**; LT **EUR11.6m** / ST due **EUR0.897m**)
+  - New loans **EUR0.189m** (Fluvius verledding) / repayments **EUR0.959m**
+  - Cash **EUR9.13m** / pension **EUR5.88m RISING** (was EUR4.23m) / leasing MVA **EUR0.825m FOI** / FVA IGS **EUR7.11m**
+  - Exploitatie: ontvangsten **EUR20.4m** / uitgaven **EUR17.3m** / saldo **+EUR3.10m**
+  - AFM **+EUR2.17m STRONG** (gecorr **+EUR2.07m**) / BBR **EUR8.58m** / budget **+EUR0.019m near zero FOI** / P&L **-EUR0.296m FOI**
+  - Personnel **EUR10.3m** / toelagen **EUR2.22m FOI** / invest-subs **EUR0.254m**
+  - Invest **EUR3.37m** vs MJP **EUR4.68m underspend FOI** / carryover **EUR0.884m** / **OCMW cover EUR1.06m FOI**
+  - Classic loans residual **EUR11.6m** (excl Fluvius lease) / pension cash reserves **EUR2.20m**
+- Dual: AGB Menen **EUR35.7m** / fin debt **EUR28.0m** / gecorr AFM **-EUR1.34m** / OCMW cover Menen **EUR8.26m** (tick968-969) - not TE-additive
+- Note: Ledegem/Torhout/Meulebeke/WZBW still no extractable full JR2025 this tick
+- Wrote: budgets +46 (bud_oor_*); commitments +5; leaderboard +7; sources +1; entity city_oostrozebeke; FOI **gap_oor_ocmw_pension_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~66MB not stored in git); rq_971=done; spawn **rq_972**; ticks=971
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_972** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 9
+

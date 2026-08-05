@@ -22460,3 +22460,49 @@ bud_agbm_revenue_j5_2025,agb_menen,2025,4510158,,,realized,src_agb_menen_jr2025,
 bud_agbm_mjp_fin_debt_2026,agb_menen,2025,28010764,,,realized,src_agb_menen_jr2025,strong,MJP fin debt YE2026 28.0m stable; tick969
 bud_agbm_mjp_fin_debt_2027,agb_menen,2025,28010764,,,realized,src_agb_menen_jr2025,strong,MJP fin debt YE2027 28.0m stable; tick969
 bud_agbm_receivables_2025,agb_menen,2025,1142025,,,realized,src_agb_menen_jr2025,strong,Vorderingen KT 1.14m; tick969
+bud_oor_assets_2025,city_oostrozebeke,2025,72019916,,,realized,src_oostrozebeke_jr2025,strong,Total assets YE2025 72.0m; tick971
+bud_oor_equity_2025,city_oostrozebeke,2025,44145799,,,realized,src_oostrozebeke_jr2025,strong,Nettoactief YE2025 44.1m; tick971
+bud_oor_debt_total_2025,city_oostrozebeke,2025,27874117,,,realized,src_oostrozebeke_jr2025,strong,Total schulden YE2025 27.9m; tick971
+bud_oor_fin_debt_2025,city_oostrozebeke,2025,12470686,,,realized,src_oostrozebeke_jr2025,strong,Fin debt YE2025 12.5m DECLINING from 13.2m; tick971
+bud_oor_fin_debt_lt_2025,city_oostrozebeke,2025,11573278,,,realized,src_oostrozebeke_jr2025,strong,Fin debt LT 11.6m; tick971
+bud_oor_fin_debt_st_due_2025,city_oostrozebeke,2025,897408,,,realized,src_oostrozebeke_jr2025,strong,Fin debt ST due 0.897m; tick971
+bud_oor_fin_debt_2024,city_oostrozebeke,2025,13240308,,,realized,src_oostrozebeke_jr2025,strong,Fin debt YE2024 13.2m; tick971
+bud_oor_new_loans_2025,city_oostrozebeke,2025,189344,,,realized,src_oostrozebeke_jr2025,strong,New loans 0.189m Fluvius verledding FOI; tick971
+bud_oor_aflossingen_2025,city_oostrozebeke,2025,958966,,,realized,src_oostrozebeke_jr2025,strong,Periodieke aflossingen 0.959m; tick971
+bud_oor_cash_2025,city_oostrozebeke,2025,9134818,,,realized,src_oostrozebeke_jr2025,strong,Liquide middelen 9.13m; tick971
+bud_oor_cash_2024,city_oostrozebeke,2025,8876820,,,realized,src_oostrozebeke_jr2025,strong,Liquide middelen YE2024 8.88m; tick971
+bud_oor_pension_prov_2025,city_oostrozebeke,2025,5881564,,,realized,src_oostrozebeke_jr2025,strong,Pensioenvoorzieningen 5.88m RISING FOI; tick971
+bud_oor_pension_prov_2024,city_oostrozebeke,2025,4232473,,,realized,src_oostrozebeke_jr2025,strong,Pensioenvoorzieningen YE2024 4.23m; tick971
+bud_oor_prov_st_2025,city_oostrozebeke,2025,879517,,,realized,src_oostrozebeke_jr2025,strong,Voorzieningen ST 0.880m; tick971
+bud_oor_fva_total_2025,city_oostrozebeke,2025,8219839,,,realized,src_oostrozebeke_jr2025,strong,FVA total 8.22m; tick971
+bud_oor_fva_igs_2025,city_oostrozebeke,2025,7107009,,,realized,src_oostrozebeke_jr2025,strong,FVA IGS 7.11m; tick971
+bud_oor_mva_2025,city_oostrozebeke,2025,46045494,,,realized,src_oostrozebeke_jr2025,strong,MVA total 46.0m; tick971
+bud_oor_leasing_mva_2025,city_oostrozebeke,2025,824999,,,realized,src_oostrozebeke_jr2025,strong,Leasing MVA gemeenschap 0.825m FOI; tick971
+bud_oor_cap_subs_2025,city_oostrozebeke,2025,8604343,,,realized,src_oostrozebeke_jr2025,strong,Kapitaalsubsidies 8.60m; tick971
+bud_oor_cum_pnl_2025,city_oostrozebeke,2025,1534936,,,realized,src_oostrozebeke_jr2025,strong,Gecumuleerd tekort -1.53m abs FOI; tick971
+bud_oor_expl_rec_2025,city_oostrozebeke,2025,20396703,,,realized,src_oostrozebeke_jr2025,strong,Exploitatieontvangsten 20.4m; tick971
+bud_oor_expl_exp_2025,city_oostrozebeke,2025,17293819,,,realized,src_oostrozebeke_jr2025,strong,Exploitatieuitgaven 17.3m; tick971
+bud_oor_expl_saldo_2025,city_oostrozebeke,2025,3102884,,,realized,src_oostrozebeke_jr2025,strong,Exploitatiesaldo +3.10m; tick971
+bud_oor_invest_exp_2025,city_oostrozebeke,2025,3374111,,,realized,src_oostrozebeke_jr2025,strong,Investeringsuitgaven 3.37m underspend vs MJP 4.68m FOI; tick971
+bud_oor_invest_rec_2025,city_oostrozebeke,2025,1146784,,,realized,src_oostrozebeke_jr2025,strong,Investeringsontvangsten 1.15m; tick971
+bud_oor_invest_saldo_2025,city_oostrozebeke,2025,2227328,,,realized,src_oostrozebeke_jr2025,strong,Investeringssaldo -2.23m abs; tick971
+bud_oor_invest_mjp_2025,city_oostrozebeke,2025,4683963,,,realized,src_oostrozebeke_jr2025,strong,MJP invest exp 4.68m (underspend residual); tick971
+bud_oor_afm_2025,city_oostrozebeke,2025,2167329,,,realized,src_oostrozebeke_jr2025,strong,AFM +2.17m STRONG; tick971
+bud_oor_afm_corr_2025,city_oostrozebeke,2025,2067070,,,realized,src_oostrozebeke_jr2025,strong,Gecorr AFM +2.07m; tick971
+bud_oor_bbr_2025,city_oostrozebeke,2025,8583566,,,realized,src_oostrozebeke_jr2025,strong,BBR 8.58m; tick971
+bud_oor_budget_result_2025,city_oostrozebeke,2025,19345,,,realized,src_oostrozebeke_jr2025,strong,Budgettair resultaat +0.019m near zero FOI; tick971
+bud_oor_pnl_result_2025,city_oostrozebeke,2025,295723,,,realized,src_oostrozebeke_jr2025,strong,P&L tekort -0.296m abs FOI; tick971
+bud_oor_personnel_2025,city_oostrozebeke,2025,10334188,,,realized,src_oostrozebeke_jr2025,strong,Bezoldigingen 10.3m; tick971
+bud_oor_toelagen_2025,city_oostrozebeke,2025,2221216,,,realized,src_oostrozebeke_jr2025,strong,Toegestane werkingssubsidies 2.22m FOI named; tick971
+bud_oor_invest_subs_granted_2025,city_oostrozebeke,2025,253505,,,realized,src_oostrozebeke_jr2025,strong,Toegestane invest-subs 0.254m; tick971
+bud_oor_ocmw_aid_2025,city_oostrozebeke,2025,375517,,,realized,src_oostrozebeke_jr2025,strong,Individuele hulpverlening OCMW 0.376m; tick971
+bud_oor_ocmw_cover_2025,city_oostrozebeke,2025,1055514,,,realized,src_oostrozebeke_jr2025,strong,OCMW tussenkomst 1.06m FOI residual; tick971
+bud_oor_fiscal_2025,city_oostrozebeke,2025,8123601,,,realized,src_oostrozebeke_jr2025,strong,Fiscale opbrengsten 8.12m; tick971
+bud_oor_fin_costs_2025,city_oostrozebeke,2025,355285,,,realized,src_oostrozebeke_jr2025,strong,Financiele kosten J5 0.355m; tick971
+bud_oor_goederen_2025,city_oostrozebeke,2025,3900884,,,realized,src_oostrozebeke_jr2025,strong,Goederen en diensten 3.90m; tick971
+bud_oor_financing_saldo_2025,city_oostrozebeke,2025,856211,,,realized,src_oostrozebeke_jr2025,strong,Financieringssaldo -0.856m abs; tick971
+bud_oor_pension_reserves_2025,city_oostrozebeke,2025,2202738,,,realized,src_oostrozebeke_jr2025,strong,Pension cash reserves 2.20m FOI; tick971
+bud_oor_classic_loans_residual_2025,city_oostrozebeke,2025,11645687,,,realized,src_oostrozebeke_jr2025,strong,Classic loans residual 11.6m (excl Fluvius lease) FOI; tick971
+bud_oor_costs_j5_2025,city_oostrozebeke,2025,21422440,,,realized,src_oostrozebeke_jr2025,strong,J5 total kosten 21.4m; tick971
+bud_oor_revenue_j5_2025,city_oostrozebeke,2025,21126717,,,realized,src_oostrozebeke_jr2025,strong,J5 total opbrengsten 21.1m; tick971
+bud_oor_invest_carryover_2026,city_oostrozebeke,2025,884336,,,realized,src_oostrozebeke_jr2025,strong,Invest carryover to 2026 0.884m FOI; tick971
