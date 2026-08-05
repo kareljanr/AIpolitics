@@ -28517,3 +28517,55 @@ bud_lum_ocmw_hulp_2025,city_lummen,2025,706776,,,bbc_jr_realized,src_lummen_jr20
 bud_lum_ocmw_equity_cum_2025,city_lummen,2025,-4141080,,,bbc_jr_realized,src_lummen_jr2025,strong,OCMW equity cum -4.141m WORSENING FOI (was -2.700m; cover 0); tick1095
 bud_lum_financieringssaldo_2025,city_lummen,2025,-412670,,,bbc_jr_realized,src_lummen_jr2025,strong,Financieringssaldo -0.413m; tick1095
 bud_lum_interest_2025,city_lummen,2025,295218,,,bbc_jr_realized,src_lummen_jr2025,strong,Intresten 0.295m; tick1095
+bud_tsh_assets_2025,city_tessenderlo_ham,2025,312753727,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Assets YE2025 312.754m first fusion year (no 2024 consol comparable); tick1096
+bud_tsh_equity_2025,city_tessenderlo_ham,2025,278450552,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Nettoactief YE2025 278.451m first fusion year; tick1096
+bud_tsh_debt_total_2025,city_tessenderlo_ham,2025,34303175,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Total schulden YE2025 34.303m; tick1096
+bud_tsh_fin_debt_2025,city_tessenderlo_ham,2025,7937328,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Fin debt total YE2025 7.937m LOW relative to assets; tick1096
+bud_tsh_fin_debt_lt_2025,city_tessenderlo_ham,2025,7019437,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Fin debt LT YE2025 7.019m; tick1096
+bud_tsh_fin_debt_st_due_2025,city_tessenderlo_ham,2025,920411,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Fin debt ST due YE2025 0.920m; tick1096
+bud_tsh_new_loans_2025,city_tessenderlo_ham,2025,1458921,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Nieuwe leningen 2025 1.459m leasing only (no bank draw); tick1096
+bud_tsh_aflossingen_2025,city_tessenderlo_ham,2025,909566,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Periodieke aflossingen 2025 0.910m; tick1096
+bud_tsh_cash_2025,city_tessenderlo_ham,2025,43755681,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Liquide middelen YE2025 43.756m MASSIVE HIGH FOI (fusion cash pool); tick1096
+bud_tsh_pension_2025,city_tessenderlo_ham,2025,16800725,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.801m HIGH FOI (catch-up statutair OCMW); tick1096
+bud_tsh_cap_subs_2025,city_tessenderlo_ham,2025,46586681,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Kapitaalsubsidies YE2025 46.587m; tick1096
+bud_tsh_fva_total_2025,city_tessenderlo_ham,2025,85746560,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,FVA total YE2025 85.747m HIGH FOI; tick1096
+bud_tsh_fva_igs_2025,city_tessenderlo_ham,2025,81506864,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,FVA IGS YE2025 81.507m HIGH FOI (Fluvius reval path); tick1096
+bud_tsh_fva_other_2025,city_tessenderlo_ham,2025,4214696,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Andere FVA YE2025 4.215m; tick1096
+bud_tsh_herwaard_2025,city_tessenderlo_ham,2025,42116760,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Herwaarderingsreserves YE2025 42.117m HIGH FOI (Fluvius riolering/elek/gas); tick1096
+bud_tsh_leasing_mva_2025,city_tessenderlo_ham,2025,3395390,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Leasing MVA YE2025 3.395m; tick1096
+bud_tsh_lt_vorderingen_2025,city_tessenderlo_ham,2025,5751446,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Vorderingen LT YE2025 5.751m (incl toegestane leningen 5.498m); tick1096
+bud_tsh_expl_rec_2025,city_tessenderlo_ham,2025,64160775,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Exploitatieontvangsten 64.161m; tick1096
+bud_tsh_expl_exp_2025,city_tessenderlo_ham,2025,53687780,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Exploitatieuitgaven 53.688m; tick1096
+bud_tsh_expl_saldo_2025,city_tessenderlo_ham,2025,10472995,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Exploitatiesaldo +10.473m VERY STRONG; tick1096
+bud_tsh_invest_exp_2025,city_tessenderlo_ham,2025,19024027,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Investeringsuitgaven 19.024m vs MJP 34.015m UNDERSPEND FOI; tick1096
+bud_tsh_invest_rec_2025,city_tessenderlo_ham,2025,3117309,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Investeringsontvangsten 3.117m (incl Fluvius riolering sale 2.157m); tick1096
+bud_tsh_invest_saldo_2025,city_tessenderlo_ham,2025,-15906717,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Investeringssaldo -15.907m FOI; tick1096
+bud_tsh_mjp_invest_planned_2025,city_tessenderlo_ham,2025,34014608,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,MJP invest planned 34.015m vs realized 19.024m UNDERSPEND FOI; tick1096
+bud_tsh_afm_2025,city_tessenderlo_ham,2025,9788990,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,AFM +9.789m VERY STRONG; tick1096
+bud_tsh_afm_corrected_2025,city_tessenderlo_ham,2025,10107519,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Gecorrigeerde AFM +10.108m VERY STRONG; tick1096
+bud_tsh_bbr_2025,city_tessenderlo_ham,2025,46207855,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Beschikbaar budgettair resultaat 46.208m VERY HIGH; tick1096
+bud_tsh_budget_result_2025,city_tessenderlo_ham,2025,-4945901,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Budgettair resultaat boekjaar -4.946m NEG FOI invest-driven (MJP -29.304); tick1096
+bud_tsh_cum_budget_2025,city_tessenderlo_ham,2025,49808963,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Gecumuleerd budgettair resultaat 49.809m (opening fusion pool); tick1096
+bud_tsh_onbeschikbaar_2025,city_tessenderlo_ham,2025,3601108,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Onbeschikbare gelden 3.601m HIGH FOI; tick1096
+bud_tsh_pnl_2025,city_tessenderlo_ham,2025,-884900,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,P&L tekort -0.885m NEG FOI (afschrijving catch-up + pension provision); tick1096
+bud_tsh_meerwaarden_2025,city_tessenderlo_ham,2025,2360208,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Meerwaarden 2.360m FOI (Fluvius riolering uitgiftepremie 2.157m); tick1096
+bud_tsh_personnel_2025,city_tessenderlo_ham,2025,31916111,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Bezoldigingen 31.916m (T2 32.007m); tick1096
+bud_tsh_edu_pass_through_2025,city_tessenderlo_ham,2025,1203263,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Onderwijzend personeel ten laste andere 1.203m; tick1096
+bud_tsh_goods_services_2025,city_tessenderlo_ham,2025,11045325,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Goederen en diensten 11.045m; tick1096
+bud_tsh_toelagen_2025,city_tessenderlo_ham,2025,7909789,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Toegestane werkingssubsidies 7.910m FOI; tick1096
+bud_tsh_police_toelage_2025,city_tessenderlo_ham,2025,2978923,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Politiezone toelage 2.979m FOI; tick1096
+bud_tsh_fire_toelage_2025,city_tessenderlo_ham,2025,1908869,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,HVZ toelage 1.909m; tick1096
+bud_tsh_igs_toelage_2025,city_tessenderlo_ham,2025,1516465,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,IGS toelage 1.516m FOI; tick1096
+bud_tsh_agb_toelage_2025,city_tessenderlo_ham,2025,351428,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,AGB toelage 0.351m dual residual; tick1096
+bud_tsh_other_toelagen_2025,city_tessenderlo_ham,2025,1113736,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Andere toelagen 1.114m HIGH FOI; tick1096
+bud_tsh_fiscal_rec_2025,city_tessenderlo_ham,2025,31272339,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Fiscale ontvangsten 31.272m; tick1096
+bud_tsh_fiscal_ov_2025,city_tessenderlo_ham,2025,14500667,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Opcentiemen OV 14.501m; tick1096
+bud_tsh_fiscal_pb_2025,city_tessenderlo_ham,2025,12510368,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Aanvullende PB 12.510m; tick1096
+bud_tsh_gemeentefonds_2025,city_tessenderlo_ham,2025,8898179,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Gemeentefonds 8.898m; tick1096
+bud_tsh_ocmw_expl_gap_2025,city_tessenderlo_ham,2025,-3159478,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,OCMW expl saldo -3.159m HIGH FOI (J3); cover path FOI residual; tick1096
+bud_tsh_ocmw_hulp_2025,city_tessenderlo_ham,2025,1845648,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,OCMW individuele hulpverlening 1.846m; tick1096
+bud_tsh_agb_afm_2025,city_tessenderlo_ham,2025,29512,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,AGB AFM +0.030m dual residual; tick1096
+bud_tsh_agb_bbr_2025,city_tessenderlo_ham,2025,503688,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,AGB BBR 0.504m dual residual; tick1096
+bud_tsh_interest_2025,city_tessenderlo_ham,2025,171234,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Intresten 0.171m LOW; tick1096
+bud_tsh_financieringssaldo_2025,city_tessenderlo_ham,2025,487821,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Financieringssaldo +0.488m; tick1096
+bud_tsh_afschrijvingen_catchup_2025,city_tessenderlo_ham,2025,14849870,,,bbc_jr_realized,src_tessenderlo_ham_jr2025,strong,Afschrijvingen/voorzieningen 14.850m HIGH FOI (inhaalbeweging + pension catch-up); tick1096

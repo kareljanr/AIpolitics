@@ -14847,3 +14847,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_lum_*); commitments +7; leaderboard +8; sources +1; entity city_lummen; FOI **gap_lum_fva_herwaard_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1095=done; spawn **rq_1096**; ticks=1095
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1096** residual dual L5; deferred **rq_116**; progress@1100 in 4
+
+
+### Tick 1096 - 2026-08-11T13:30:00Z
+
+- Unit: **rq_1096** (FOI-adjacent residual dual - **Lokaal Bestuur Tessenderlo-Ham Jaarrekening 2025 first fusion year** + Lummen dual residual)
+- Found (strong primary BBC JR2025 PDF; 240p; GR+RMW 22.06.2026; tessenderlo-ham.be; first fusion Tessenderlo+Ham BBC3.0; KBO GE 0216.772.234 / OCMW 0216.772.333; Markt 15A 3980; AD Tom Thijsmans FD Karolien Alders; GE+OCMW + AGB dual):
+  - Assets **EUR312.754m** (no 2024 consol comparable) / equity **EUR278.451m** / debt total **EUR34.30m** / fin debt **EUR7.937m LOW** (LT **EUR7.019m** / ST due **EUR0.920m**)
+  - New loans **EUR1.459m** leasing only / repayments **EUR0.910m**
+  - Cash **EUR43.756m MASSIVE HIGH FOI** / pension **EUR16.801m HIGH FOI** (catch-up statutair OCMW) / FVA IGS **EUR81.507m HIGH** / herwaard **EUR42.117m HIGH FOI** (Fluvius riolering **EUR36.881m** + elek/gas) / leasing MVA **EUR3.395m**
+  - Exploitatie: ontvangsten **EUR64.161m** / uitgaven **EUR53.688m** / saldo **+EUR10.473m VERY STRONG**
+  - AFM **+EUR9.789m VERY STRONG** (gecorr **+EUR10.108m**) / BBR **EUR46.208m VERY HIGH** / onbeschikbaar **EUR3.601m HIGH FOI** / budget **EUR-4.946m NEG FOI** invest-driven / cum BR **EUR49.809m** (opening fusion pool) / P&L **EUR-0.885m NEG FOI**
+  - Personnel **EUR31.916m** / toelagen **EUR7.910m FOI** (police **EUR2.979m** / fire **EUR1.909m** / IGS **EUR1.516m** / other **EUR1.114m HIGH** / AGB **EUR0.351m**)
+  - Invest **EUR19.024m** vs MJP **EUR34.015m UNDERSPEND FOI** / meerwaarden Fluvius riolering **EUR2.157m**
+  - OCMW expl gap **EUR-3.159m HIGH FOI** (J3; cover path residual) / OCMW hulp **EUR1.846m**
+  - Dual AGB: AFM **+EUR0.030m** / BBR **EUR0.504m**
+  - Afschrijvingen/voorzieningen **EUR14.850m HIGH FOI** (inhaalbeweging + pension catch-up)
+- Dual: Lummen FVA herwaard 25.8m / OCMW cover 0 equity -4.14m (tick1095) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen / Peer / Bornem residual next; progress@1100 in 3
+- Wrote: budgets +51 (bud_tsh_*); commitments +7; leaderboard +8; sources +1; entity city_tessenderlo_ham; FOI **gap_tsh_pension_fva_cash_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1096=done; spawn **rq_1097**; ticks=1096
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1097** residual dual L5; deferred **rq_116**; progress@1100 in 3
