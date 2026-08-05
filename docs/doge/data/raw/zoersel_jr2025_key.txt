@@ -1,0 +1,22 @@
+Zoersel JR2025 BBC consol
+Source: https://www.zoersel.be/sites/default/files/2026-05/jaarrekening%202025%20gemeente%20en%20ocmw.pdf
+164p; Handelslei 167 2980 Zoersel; BE 0207.499.133 / 0212.186.807
+tick895
+
+Assets 109421935 / Equity 67777682 / Debt total 41644253
+Cash 3938974 was 6692056 DROP FOI / Cap subs 9961476
+Fin debt 20819516 (LT 19035434 + ST due 1784082) was 22416258
+New loans/leasings 180037
+Pension 15078305 was 11946829 JUMP +3.13m FOI
+FVA IGS 12634340 / FVA total 12705063
+Expl rec 43619138 / exp 37821123 / saldo 5798014
+AFM 4121595 / gecorr 4105073
+BBR 4105543 / cumul 5167996 (unavailable 1062453)
+Budget result -580982 / P&L -805496
+Personnel 21584780 (onderwijs other ~5380902)
+Toelagen 4858360 (police 2735691 fire 742737 AGB 241563 other 1130955 FOI)
+OCMW aid 1681953
+Fiscal 19832853 (OV 7584701 APB 10772833)
+Gemeentefonds 4776113
+Invest exp 5690305 / invest-subs 571860 (IGS 191829)
+Loans granted receipts 342458 FOI path

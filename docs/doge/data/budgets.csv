@@ -19453,3 +19453,44 @@ bud_wwz_invest_subs_eredienst_2025,city_wuustwezel,2025,456778,,,jaarrekening_re
 bud_wwz_invest_subs_other_2025,city_wuustwezel,2025,209758,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Invest-subs andere 0.210m 2025 FOI; tick894
 bud_wwz_new_loans_2025,city_wuustwezel,2025,500796,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Nieuwe leningen/leasings 0.501m 2025; tick894
 bud_wwz_pension_jump_2025,city_wuustwezel,2025,3653253,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Pension provision jump +3.653m (10.999 to 14.652) FOI; tick894
+bud_zoe_assets_2025,city_zoersel,2025,109421935,,,jaarrekening_realized,src_zoersel_jr2025,strong,Consol total assets YE2025 109.422m; tick895
+bud_zoe_equity_2025,city_zoersel,2025,67777682,,,jaarrekening_realized,src_zoersel_jr2025,strong,Nettoactief YE2025 67.778m; tick895
+bud_zoe_debt_total_2025,city_zoersel,2025,41644253,,,jaarrekening_realized,src_zoersel_jr2025,strong,Schulden total YE2025 41.644m; tick895
+bud_zoe_fin_debt_2025,city_zoersel,2025,20819516,,,jaarrekening_realized,src_zoersel_jr2025,strong,Fin schulden total YE2025 20.820m (LT 19.035 + ST due 1.784) was 22.416m; tick895
+bud_zoe_fin_debt_lt_2025,city_zoersel,2025,19035434,,,jaarrekening_realized,src_zoersel_jr2025,strong,Fin schulden LT YE2025 19.035m; tick895
+bud_zoe_fin_debt_st_2025,city_zoersel,2025,1784082,,,jaarrekening_realized,src_zoersel_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.784m; tick895
+bud_zoe_pension_prov_2025,city_zoersel,2025,15078305,,,jaarrekening_realized,src_zoersel_jr2025,strong,Pensioenvoorzieningen YE2025 15.078m (was 11.947m JUMP FOI); tick895
+bud_zoe_cash_2025,city_zoersel,2025,3938974,,,jaarrekening_realized,src_zoersel_jr2025,strong,Liquide middelen YE2025 3.939m (was 6.692m DROP FOI); tick895
+bud_zoe_cap_subs_2025,city_zoersel,2025,9961476,,,jaarrekening_realized,src_zoersel_jr2025,strong,Kapitaalsubsidies YE2025 9.961m; tick895
+bud_zoe_fva_igs_2025,city_zoersel,2025,12634340,,,jaarrekening_realized,src_zoersel_jr2025,strong,Fin VA IGS YE2025 12.634m; tick895
+bud_zoe_fva_total_2025,city_zoersel,2025,12705063,,,jaarrekening_realized,src_zoersel_jr2025,strong,Fin VA total YE2025 12.705m; tick895
+bud_zoe_cumul_budget_2025,city_zoersel,2025,5167996,,,jaarrekening_realized,src_zoersel_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 5.168m; tick895
+bud_zoe_bbr_2025,city_zoersel,2025,4105543,,,jaarrekening_realized,src_zoersel_jr2025,strong,Beschikbaar budgettair resultaat YE2025 4.106m (onbeschikbaar 1.062m); tick895
+bud_zoe_expl_rec_2025,city_zoersel,2025,43619138,,,jaarrekening_realized,src_zoersel_jr2025,strong,Exploitatieontvangsten 43.619m 2025 (J2); tick895
+bud_zoe_expl_exp_2025,city_zoersel,2025,37821123,,,jaarrekening_realized,src_zoersel_jr2025,strong,Exploitatieuitgaven 37.821m 2025 (J2); tick895
+bud_zoe_expl_saldo_2025,city_zoersel,2025,5798014,,,jaarrekening_realized,src_zoersel_jr2025,strong,Exploitatiesaldo +5.798m 2025; tick895
+bud_zoe_invest_exp_2025,city_zoersel,2025,5690305,,,jaarrekening_realized,src_zoersel_jr2025,strong,Investeringsuitgaven 5.690m 2025; tick895
+bud_zoe_invest_rec_2025,city_zoersel,2025,647891,,,jaarrekening_realized,src_zoersel_jr2025,strong,Investeringsontvangsten 0.648m 2025; tick895
+bud_zoe_invest_saldo_2025,city_zoersel,2025,-5042414,,,jaarrekening_realized,src_zoersel_jr2025,strong,Investeringssaldo -5.042m 2025; tick895
+bud_zoe_fin_saldo_2025,city_zoersel,2025,-1336582,,,jaarrekening_realized,src_zoersel_jr2025,strong,Financieringssaldo -1.337m 2025; tick895
+bud_zoe_budget_result_2025,city_zoersel,2025,-580982,,,jaarrekening_realized,src_zoersel_jr2025,strong,Budgettair resultaat boekjaar -0.581m 2025; tick895
+bud_zoe_afm_2025,city_zoersel,2025,4121595,,,jaarrekening_realized,src_zoersel_jr2025,strong,Autofinancieringsmarge +4.122m 2025; tick895
+bud_zoe_afm_gecorr_2025,city_zoersel,2025,4105073,,,jaarrekening_realized,src_zoersel_jr2025,strong,Gecorrigeerde AFM +4.105m 2025; tick895
+bud_zoe_pl_2025,city_zoersel,2025,-805496,,,jaarrekening_realized,src_zoersel_jr2025,strong,P&L tekort -0.805m 2025; tick895
+bud_zoe_personnel_2025,city_zoersel,2025,21584780,,,jaarrekening_realized,src_zoersel_jr2025,strong,Bezoldigingen 21.585m 2025 (incl onderwijs other ~5.381m); tick895
+bud_zoe_personnel_onderwijs_other_2025,city_zoersel,2025,5380902,,,jaarrekening_realized,src_zoersel_jr2025,strong,Onderwijzend personeel ten laste van andere ~5.381m 2025; tick895
+bud_zoe_toelagen_2025,city_zoersel,2025,4858360,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toegestane werkingssubsidies 4.858m 2025; tick895
+bud_zoe_toelagen_police_2025,city_zoersel,2025,2735691,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toelage politiezone 2.736m 2025; tick895
+bud_zoe_toelagen_fire_2025,city_zoersel,2025,742737,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toelage hulpverleningszone 0.743m 2025; tick895
+bud_zoe_toelagen_agb_2025,city_zoersel,2025,241563,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toelage AGB 0.242m 2025; tick895
+bud_zoe_toelagen_other_2025,city_zoersel,2025,1130955,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toelagen andere begunstigden 1.131m 2025 FOI; tick895
+bud_zoe_ocmw_aid_2025,city_zoersel,2025,1681953,,,jaarrekening_realized,src_zoersel_jr2025,strong,Individuele hulpverlening OCMW 1.682m 2025; tick895
+bud_zoe_fiscal_2025,city_zoersel,2025,19832853,,,jaarrekening_realized,src_zoersel_jr2025,strong,Fiscale opbrengsten en boetes 19.833m 2025; tick895
+bud_zoe_fiscal_ov_2025,city_zoersel,2025,7584701,,,jaarrekening_realized,src_zoersel_jr2025,strong,Opcentiemen OV 7.585m 2025; tick895
+bud_zoe_fiscal_apb_2025,city_zoersel,2025,10772833,,,jaarrekening_realized,src_zoersel_jr2025,strong,Aanvullende PB 10.773m 2025; tick895
+bud_zoe_gemeentefonds_2025,city_zoersel,2025,4776113,,,jaarrekening_realized,src_zoersel_jr2025,strong,Gemeentefonds 4.776m 2025; tick895
+bud_zoe_invest_subs_granted_2025,city_zoersel,2025,571860,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toegestane investeringssubsidies 0.572m 2025; tick895
+bud_zoe_invest_subs_igs_2025,city_zoersel,2025,191829,,,jaarrekening_realized,src_zoersel_jr2025,strong,Invest-subs IGS 0.192m 2025; tick895
+bud_zoe_new_loans_2025,city_zoersel,2025,180037,,,jaarrekening_realized,src_zoersel_jr2025,strong,Nieuwe leningen/leasings 0.180m 2025; tick895
+bud_zoe_pension_jump_2025,city_zoersel,2025,3131476,,,jaarrekening_realized,src_zoersel_jr2025,strong,Pension provision jump +3.131m (11.947 to 15.078) FOI; tick895
+bud_zoe_loans_granted_rec_2025,city_zoersel,2025,342458,,,jaarrekening_realized,src_zoersel_jr2025,strong,Toegestane leningen ontvangsten 0.342m 2025 FOI; tick895

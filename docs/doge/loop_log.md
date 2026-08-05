@@ -11130,3 +11130,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_wwz_*); commitments +4; leaderboard +7; sources +2; entity city_wuustwezel; FOI **gap_wwz_pension_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_894=done; spawn **rq_895**; ticks=894
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_895** residual dual L5 (Zoersel/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 6
+
+## Tick 895 - 2026-08-06T20:30:00Z
+
+- Unit: **rq_895** (FOI-adjacent residual dual - **Gemeente+OCMW Zoersel Jaarrekening 2025** + Wuustwezel dual)
+- Found (strong primary BBC JR2025 164p):
+  - Assets **EUR109.4m** / equity **EUR67.8m** / debt total **EUR41.6m** / fin debt **EUR20.8m** declining (LT **EUR19.0m** / ST due **EUR1.8m**)
+  - New loans **EUR0.18m** / **pension EUR15.1m was EUR11.9m JUMP +EUR3.13m FOI** / **cash EUR3.9m was EUR6.7m DROP FOI**
+  - Exploitatie: ontvangsten **EUR43.6m** / uitgaven **EUR37.8m** / saldo **+EUR5.8m**
+  - AFM **+EUR4.12m** (gecorr **+EUR4.11m**) / BBR **EUR4.1m** / budget result **-EUR0.58m** / P&L **-EUR0.81m**
+  - Personnel **EUR21.6m** / toelagen **EUR4.9m** (police **EUR2.7m** / other **EUR1.13m FOI**) / fiscal **EUR19.8m**
+  - Invest **EUR5.7m** / invest-subs **EUR0.57m** / gemeentefonds **EUR4.8m** / OCMW aid **EUR1.7m**
+- Dual: Wuustwezel **EUR116.6m** / pension jump **+EUR3.65m** (tick894) - not TE-additive
+- Wrote: budgets +41 (bud_zoe_*); commitments +4; leaderboard +7; sources +2; entity city_zoersel; FOI **gap_zoe_pension_cash_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_895=done; spawn **rq_896**; ticks=895
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_896** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 5
