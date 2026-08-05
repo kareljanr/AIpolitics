@@ -1,0 +1,22 @@
+Schilde JR2025 BBC consol
+Source: https://www.schilde.be/sites/default/files/2026-06/20260617_JR%202025%20gemeente_ocmw.pdf
+213p; Brasschaatsebaan 30 2970 Schilde; BE 0207.501.707 / 0212.167.704
+tick893
+
+Assets 124529291 / Equity 102277227 / Debt total 22252064
+Cash 14316750 was 12738192 / Cap subs 18676014
+Fin debt 11347010 (LT 10355856 + ST due 991155) was 11865554
+New loans/leasings 585255
+Pension 5134554 was 5182395
+FVA IGS 15064683 / FVA total 15340935
+Expl rec 38054129 / exp 32433647 / saldo 5620483
+AFM 4867582 / gecorr 5022136
+BBR 12412401 / cumul 12981493 (unavailable 569092)
+Budget result 1890753 / P&L +978505
+Personnel 17094381 (onderwijs other ~1037915)
+Toelagen 6011141 (police 3234085 fire 941002 AGB 1091481 other 715256)
+OCMW aid 598881
+Fiscal 20795870 (OV 10657525 APB 8882114)
+Gemeentefonds 3766778
+Invest exp 6864029 (material 4572203 invest-subs 1862463) / invest-subs IGS 1440000 FOI
+MJP fin debt path YE: 24.6m 2026 / 36.6m 2027 / 44.8m 2028; new loans 14.3/13.4/10.1m FOI

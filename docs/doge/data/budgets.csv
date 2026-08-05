@@ -19370,3 +19370,46 @@ bud_hove_gemeentefonds_2025,city_hove,2025,1662794,,,jaarrekening_realized,src_h
 bud_hove_invest_subs_granted_2025,city_hove,2025,335055,,,jaarrekening_realized,src_hove_jr2025,strong,Toegestane investeringssubsidies 0.335m 2025; tick892
 bud_hove_new_loans_2025,city_hove,2025,108990,,,jaarrekening_realized,src_hove_jr2025,strong,Nieuwe leningen/leasings 0.109m 2025; tick892
 bud_hove_loans_granted_2025,city_hove,2025,715200,,,jaarrekening_realized,src_hove_jr2025,strong,Toegestane leningen 0.715m 2025 FOI L5; tick892
+bud_sch_assets_2025,city_schilde,2025,124529291,,,jaarrekening_realized,src_schilde_jr2025,strong,Consol total assets YE2025 124.529m; tick893
+bud_sch_equity_2025,city_schilde,2025,102277227,,,jaarrekening_realized,src_schilde_jr2025,strong,Nettoactief YE2025 102.277m; tick893
+bud_sch_debt_total_2025,city_schilde,2025,22252064,,,jaarrekening_realized,src_schilde_jr2025,strong,Schulden total YE2025 22.252m; tick893
+bud_sch_fin_debt_2025,city_schilde,2025,11347010,,,jaarrekening_realized,src_schilde_jr2025,strong,Fin schulden total YE2025 11.347m (LT 10.356 + ST due 0.991) was 11.866m; tick893
+bud_sch_fin_debt_lt_2025,city_schilde,2025,10355856,,,jaarrekening_realized,src_schilde_jr2025,strong,Fin schulden LT YE2025 10.356m; tick893
+bud_sch_fin_debt_st_2025,city_schilde,2025,991155,,,jaarrekening_realized,src_schilde_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.991m; tick893
+bud_sch_pension_prov_2025,city_schilde,2025,5134554,,,jaarrekening_realized,src_schilde_jr2025,strong,Pensioenvoorzieningen YE2025 5.135m (was 5.182m); tick893
+bud_sch_cash_2025,city_schilde,2025,14316750,,,jaarrekening_realized,src_schilde_jr2025,strong,Liquide middelen YE2025 14.317m (was 12.738m); tick893
+bud_sch_cap_subs_2025,city_schilde,2025,18676014,,,jaarrekening_realized,src_schilde_jr2025,strong,Kapitaalsubsidies YE2025 18.676m; tick893
+bud_sch_fva_igs_2025,city_schilde,2025,15064683,,,jaarrekening_realized,src_schilde_jr2025,strong,Fin VA IGS YE2025 15.065m; tick893
+bud_sch_fva_total_2025,city_schilde,2025,15340935,,,jaarrekening_realized,src_schilde_jr2025,strong,Fin VA total YE2025 15.341m; tick893
+bud_sch_cumul_budget_2025,city_schilde,2025,12981493,,,jaarrekening_realized,src_schilde_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 12.981m; tick893
+bud_sch_bbr_2025,city_schilde,2025,12412401,,,jaarrekening_realized,src_schilde_jr2025,strong,Beschikbaar budgettair resultaat YE2025 12.412m (onbeschikbaar 0.569m); tick893
+bud_sch_expl_rec_2025,city_schilde,2025,38054129,,,jaarrekening_realized,src_schilde_jr2025,strong,Exploitatieontvangsten 38.054m 2025 (J2); tick893
+bud_sch_expl_exp_2025,city_schilde,2025,32433647,,,jaarrekening_realized,src_schilde_jr2025,strong,Exploitatieuitgaven 32.434m 2025 (J2); tick893
+bud_sch_expl_saldo_2025,city_schilde,2025,5620483,,,jaarrekening_realized,src_schilde_jr2025,strong,Exploitatiesaldo +5.620m 2025; tick893
+bud_sch_invest_exp_2025,city_schilde,2025,6864029,,,jaarrekening_realized,src_schilde_jr2025,strong,Investeringsuitgaven 6.864m 2025 FOI (invest-subs IGS 1.44m); tick893
+bud_sch_invest_rec_2025,city_schilde,2025,3301945,,,jaarrekening_realized,src_schilde_jr2025,strong,Investeringsontvangsten 3.302m 2025; tick893
+bud_sch_invest_saldo_2025,city_schilde,2025,-3562084,,,jaarrekening_realized,src_schilde_jr2025,strong,Investeringssaldo -3.562m 2025; tick893
+bud_sch_fin_saldo_2025,city_schilde,2025,-167646,,,jaarrekening_realized,src_schilde_jr2025,strong,Financieringssaldo -0.168m 2025; tick893
+bud_sch_budget_result_2025,city_schilde,2025,1890753,,,jaarrekening_realized,src_schilde_jr2025,strong,Budgettair resultaat boekjaar +1.891m 2025; tick893
+bud_sch_afm_2025,city_schilde,2025,4867582,,,jaarrekening_realized,src_schilde_jr2025,strong,Autofinancieringsmarge +4.868m 2025; tick893
+bud_sch_afm_gecorr_2025,city_schilde,2025,5022136,,,jaarrekening_realized,src_schilde_jr2025,strong,Gecorrigeerde AFM +5.022m 2025; tick893
+bud_sch_pl_2025,city_schilde,2025,978505,,,jaarrekening_realized,src_schilde_jr2025,strong,P&L overschot +0.979m 2025; tick893
+bud_sch_personnel_2025,city_schilde,2025,17094381,,,jaarrekening_realized,src_schilde_jr2025,strong,Bezoldigingen 17.094m 2025 (incl onderwijs other ~1.038m); tick893
+bud_sch_personnel_onderwijs_other_2025,city_schilde,2025,1037915,,,jaarrekening_realized,src_schilde_jr2025,strong,Onderwijzend personeel ten laste van andere ~1.038m 2025; tick893
+bud_sch_toelagen_2025,city_schilde,2025,6011141,,,jaarrekening_realized,src_schilde_jr2025,strong,Toegestane werkingssubsidies 6.011m 2025; tick893
+bud_sch_toelagen_police_2025,city_schilde,2025,3234085,,,jaarrekening_realized,src_schilde_jr2025,strong,Toelage politiezone 3.234m 2025; tick893
+bud_sch_toelagen_fire_2025,city_schilde,2025,941002,,,jaarrekening_realized,src_schilde_jr2025,strong,Toelage hulpverleningszone 0.941m 2025; tick893
+bud_sch_toelagen_agb_2025,city_schilde,2025,1091481,,,jaarrekening_realized,src_schilde_jr2025,strong,Toelage AGB 1.091m 2025; tick893
+bud_sch_toelagen_igs_2025,city_schilde,2025,25561,,,jaarrekening_realized,src_schilde_jr2025,strong,Toelage IGS 0.026m 2025; tick893
+bud_sch_toelagen_other_2025,city_schilde,2025,715256,,,jaarrekening_realized,src_schilde_jr2025,strong,Toelagen andere begunstigden 0.715m 2025 FOI; tick893
+bud_sch_ocmw_aid_2025,city_schilde,2025,598881,,,jaarrekening_realized,src_schilde_jr2025,strong,Individuele hulpverlening OCMW 0.599m 2025; tick893
+bud_sch_fiscal_2025,city_schilde,2025,20795870,,,jaarrekening_realized,src_schilde_jr2025,strong,Fiscale opbrengsten en boetes 20.796m 2025; tick893
+bud_sch_fiscal_ov_2025,city_schilde,2025,10657525,,,jaarrekening_realized,src_schilde_jr2025,strong,Opcentiemen OV 10.658m 2025; tick893
+bud_sch_fiscal_apb_2025,city_schilde,2025,8882114,,,jaarrekening_realized,src_schilde_jr2025,strong,Aanvullende PB 8.882m 2025; tick893
+bud_sch_gemeentefonds_2025,city_schilde,2025,3766778,,,jaarrekening_realized,src_schilde_jr2025,strong,Gemeentefonds 3.767m 2025; tick893
+bud_sch_invest_subs_granted_2025,city_schilde,2025,1862463,,,jaarrekening_realized,src_schilde_jr2025,strong,Toegestane investeringssubsidies 1.862m 2025 (IGS 1.440m FOI); tick893
+bud_sch_invest_subs_igs_2025,city_schilde,2025,1440000,,,jaarrekening_realized,src_schilde_jr2025,strong,Invest-subs IGS 1.440m 2025 FOI L5; tick893
+bud_sch_new_loans_2025,city_schilde,2025,585255,,,jaarrekening_realized,src_schilde_jr2025,strong,Nieuwe leningen/leasings 0.585m 2025; tick893
+bud_sch_mjp_fin_debt_2026,city_schilde,2025,24600552,,,jaarrekening_realized,src_schilde_jr2025,strong,MJP fin debt path YE2026 24.601m FOI; tick893
+bud_sch_mjp_fin_debt_2028,city_schilde,2025,44843381,,,jaarrekening_realized,src_schilde_jr2025,strong,MJP fin debt path YE2028 44.843m FOI; tick893
+bud_sch_mjp_new_loans_2026,city_schilde,2025,14269045,,,jaarrekening_realized,src_schilde_jr2025,strong,MJP new loans 2026 14.269m FOI; tick893

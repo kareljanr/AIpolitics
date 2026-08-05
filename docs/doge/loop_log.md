@@ -11099,3 +11099,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_hove_*); commitments +4; leaderboard +7; sources +2; entity city_hove; FOI **gap_hove_loans_granted_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_892=done; spawn **rq_893**; ticks=892
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_893** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@900 in 8
+
+## Tick 893 - 2026-08-06T19:30:00Z
+
+- Unit: **rq_893** (FOI-adjacent residual dual - **Gemeente+OCMW Schilde Jaarrekening 2025** + Hove dual)
+- Found (strong primary BBC JR2025 213p):
+  - Assets **EUR124.5m** / equity **EUR102.3m** / debt total **EUR22.3m** / fin debt **EUR11.3m** declining YE (LT **EUR10.4m** / ST due **EUR1.0m**)
+  - New loans 2025 **EUR0.59m** / pension **EUR5.1m** / cash **EUR14.3m** (was **EUR12.7m**)
+  - Exploitatie: ontvangsten **EUR38.1m** / uitgaven **EUR32.4m** / saldo **+EUR5.6m**
+  - AFM **+EUR4.87m** (gecorr **+EUR5.02m**) / BBR **EUR12.4m** / budget result **+EUR1.89m** / P&L **+EUR0.98m**
+  - Personnel **EUR17.1m** / toelagen **EUR6.0m** (police **EUR3.2m** / other **EUR0.72m** / AGB **EUR1.1m**) / fiscal **EUR20.8m**
+  - Invest **EUR6.9m** / invest-subs **EUR1.86m** (**IGS EUR1.44m FOI**) / gemeentefonds **EUR3.8m**
+  - **MJP fin debt path YE2026 EUR24.6m / 2027 EUR36.6m / 2028 EUR44.8m**; new loans **EUR14.3+13.4+10.1m FOI**
+- Dual: Hove **EUR44.3m** / AFM **+EUR2.2m** / loans granted **EUR0.72m** (tick892) - not TE-additive
+- Wrote: budgets +43 (bud_sch_*); commitments +4; leaderboard +7; sources +2; entity city_schilde; FOI **gap_sch_mjp_debt_invest_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_893=done; spawn **rq_894**; ticks=893
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_894** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@900 in 7
