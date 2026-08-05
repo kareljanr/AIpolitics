@@ -14161,3 +14161,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1061** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1061 - 2026-08-10T19:45:00Z
+
+- Unit: **rq_1061** (FOI-adjacent residual dual - **Lokaal Bestuur Leopoldsburg Jaarrekening 2025** + Maasmechelen dual residual; Torhout portal empty / Nijlen login-walled)
+- Found (strong primary BBC JR2025 official PDF J2/J4/J5/T4 image schemes + documentatie TB/subsidies; pub 08.06.2026; KBO GE 0207.468.152 / OCMW 0212.193.537; Koningin Astridplein 37 3970; AD Joke Lievens FD Pascal Van de Wiele; GE+OCMW):
+  - Assets **EUR84.33m slight JUMP** / equity **EUR66.57m JUMP** / debt total **EUR17.76m DECLINE** / fin debt **EUR12.87m DECLINE** (LT **EUR11.60m** / ST due **EUR1.27m**; was **EUR13.80m**)
+  - New loans **EUR0.293m LOW** / repayments **EUR1.22m**
+  - Cash **EUR9.93m MASSIVE DROP FOI** (was **EUR13.17m**, -**EUR3.23m**) / FVA IGS **EUR12.44m** / leasing MVA **EUR1.17m** (Fluvius)
+  - Exploitatie: ontvangsten **EUR28.08m** / uitgaven **EUR23.91m** / saldo **+EUR4.18m STRONG**
+  - AFM **+EUR2.96m STRONG** (gecorr **+EUR3.08m**) / BBR **EUR8.66m VERY HIGH FOI** / budget **EUR-1.73m NEG HIGH FOI** / cum BR **EUR11.58m** / P&L **+EUR1.33m**
+  - Personnel **EUR11.81m JUMP** / toelagen **EUR4.49m FOI** (police **EUR1.19m** / fire **EUR0.746m** / Limburg.net **EUR0.849m** / VITAS **EUR0.856m JUMP** / eredienst **EUR0.135m**)
+  - Invest **EUR5.05m** vs MJP **EUR7.54m UNDERSPEND FOI**
+  - **OCMW cover EUR2.44m FULL FOI**
+- Dual: Maasmechelen assets **EUR366.27m** / fin debt JUMP **EUR54.53m** / loans **EUR18.37m** (tick1060) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen login / Vorselaar / Kalmthout / Schelle / Aartselaar / Grimbergen residual next; progress@1070
+- Wrote: budgets +46 (bud_leo_*); commitments +7; leaderboard +8; sources +1; entity city_leopoldsburg; FOI **gap_leo_budget_cash_ocmw_toelagen_bbr_l5** prio9 ready + draft; PDF primary (not committed); rq_1061=done; spawn **rq_1062**; ticks=1061
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1062** residual dual L5; deferred **rq_116**; progress@1070
+

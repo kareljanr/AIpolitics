@@ -26861,3 +26861,49 @@ bud_maa_interest_2025,city_maasmechelen,2025,1458166,,,bbc_jr_realized,src_maasm
 bud_maa_invest_subs_granted_2025,city_maasmechelen,2025,228464,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Toegestane invest-subs J5 0.228m 2025; tick1060
 bud_maa_vorderingen_kt_2025,city_maasmechelen,2025,13728185,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Vorderingen KT YE2025 13.73m; tick1060
 bud_maa_herwaard_reserves_2025,city_maasmechelen,2025,39098803,,,bbc_jr_realized,src_maasmechelen_jr2025,strong,Herwaarderingsreserves YE2025 39.10m JUMP (+38.31m FVA IGS); tick1060
+bud_leo_assets_2025,city_leopoldsburg,2025,84332503,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Assets YE2025 84.33m slight JUMP (was 83.65m); tick1061
+bud_leo_equity_2025,city_leopoldsburg,2025,66568840,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Nettoactief YE2025 66.57m JUMP (was 65.28m); tick1061
+bud_leo_debt_total_2025,city_leopoldsburg,2025,17763664,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Total schulden YE2025 17.76m DECLINE (was 18.36m); tick1061
+bud_leo_fin_debt_2025,city_leopoldsburg,2025,12867506,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Fin debt total YE2025 12.87m DECLINE (was 13.80m T4); tick1061
+bud_leo_fin_debt_lt_2025,city_leopoldsburg,2025,11597982,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Fin debt LT YE2025 11.60m DECLINE (was 12.58m); tick1061
+bud_leo_fin_debt_st_due_2025,city_leopoldsburg,2025,1269525,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Fin debt ST due YE2025 1.27m; tick1061
+bud_leo_fin_debt_st_2025,city_leopoldsburg,2025,0,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Fin debt ST treasury YE2025 0; tick1061
+bud_leo_new_loans_2025,city_leopoldsburg,2025,292754,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Nieuwe leningen/leasings 0.293m LOW (fin rec 0.280m); tick1061
+bud_leo_aflossingen_2025,city_leopoldsburg,2025,1222105,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Periodieke aflossingen 1.22m; tick1061
+bud_leo_cash_2025,city_leopoldsburg,2025,9930684,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Liquide middelen YE2025 9.93m MASSIVE DROP FOI (was 13.17m -3.23m); tick1061
+bud_leo_cap_subs_2025,city_leopoldsburg,2025,7082444,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Kapitaalsubsidies YE2025 7.08m; tick1061
+bud_leo_fva_total_2025,city_leopoldsburg,2025,13398648,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,FVA total YE2025 13.40m; tick1061
+bud_leo_fva_igs_2025,city_leopoldsburg,2025,12441688,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,FVA IGS YE2025 12.44m; tick1061
+bud_leo_leasing_mva_2025,city_leopoldsburg,2025,1170558,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Leasing MVA YE2025 1.17m (Fluvius); tick1061
+bud_leo_cumul_budget_2025,city_leopoldsburg,2025,11578820,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 11.58m; tick1061
+bud_leo_bbr_2025,city_leopoldsburg,2025,8661083,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Beschikbaar budgettair resultaat YE2025 8.66m VERY HIGH FOI; tick1061
+bud_leo_onbeschikbaar_2025,city_leopoldsburg,2025,2917737,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Onbeschikbare gelden YE2025 2.92m; tick1061
+bud_leo_expl_rec_2025,city_leopoldsburg,2025,28083433,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Exploitatieontvangsten 28.08m 2025 (J2); tick1061
+bud_leo_expl_exp_2025,city_leopoldsburg,2025,23906958,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Exploitatieuitgaven 23.91m 2025 (J2); tick1061
+bud_leo_expl_saldo_2025,city_leopoldsburg,2025,4176475,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Exploitatiesaldo +4.18m STRONG 2025; tick1061
+bud_leo_invest_exp_2025,city_leopoldsburg,2025,5051919,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Investeringsuitgaven J2 5.05m vs MJP 7.54m UNDERSPEND FOI; tick1061
+bud_leo_invest_rec_2025,city_leopoldsburg,2025,338858,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Investeringsontvangsten J2 0.339m vs MJP 0.896m shortfall FOI; tick1061
+bud_leo_invest_saldo_2025,city_leopoldsburg,2025,-4713061,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Investeringssaldo -4.71m 2025; tick1061
+bud_leo_fin_saldo_2025,city_leopoldsburg,2025,-1192401,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Financieringssaldo -1.19m 2025; tick1061
+bud_leo_budget_result_2025,city_leopoldsburg,2025,-1728988,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Budgettair resultaat boekjaar -1.73m NEG HIGH FOI 2025; tick1061
+bud_leo_afm_2025,city_leopoldsburg,2025,2963370,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Autofinancieringsmarge +2.96m STRONG 2025; tick1061
+bud_leo_afm_gecorr_2025,city_leopoldsburg,2025,3081727,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Gecorrigeerde AFM +3.08m 2025; tick1061
+bud_leo_pl_2025,city_leopoldsburg,2025,1329810,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,P&L overschot +1.33m 2025; tick1061
+bud_leo_personnel_2025,city_leopoldsburg,2025,11814579,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Bezoldigingen 11.81m JUMP 2025 (was 11.11m); tick1061
+bud_leo_toelagen_2025,city_leopoldsburg,2025,4487703,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toegestane werkingssubsidies 4.49m FOI 2025; tick1061
+bud_leo_toelagen_police_2025,city_leopoldsburg,2025,1186614,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toelage politiezone 1.19m 2025 (36.35pct zone); tick1061
+bud_leo_toelagen_fire_2025,city_leopoldsburg,2025,746077,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toelage brandweerzone Noord-Limburg 0.746m 2025; tick1061
+bud_leo_toelagen_afval_2025,city_leopoldsburg,2025,849137,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toelage Limburg.net/afval 0.849m 2025 FOI; tick1061
+bud_leo_toelagen_vitas_2025,city_leopoldsburg,2025,856159,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toelage VITAS WZC tekort 0.856m JUMP FOI 2025; tick1061
+bud_leo_toelagen_eredienst_2025,city_leopoldsburg,2025,135298,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toelage eredienst werk+invest ~0.135m 2025; tick1061
+bud_leo_toelagen_other_2025,city_leopoldsburg,2025,714418,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toelagen andere residual ~0.714m FOI; tick1061
+bud_leo_ocmw_aid_2025,city_leopoldsburg,2025,1034259,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Individuele hulpverlening OCMW 1.03m 2025; tick1061
+bud_leo_ocmw_cover_2025,city_leopoldsburg,2025,2440545,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Tussenkomst gemeente in OCMW 2.44m FULL cover FOI; tick1061
+bud_leo_fiscal_2025,city_leopoldsburg,2025,12696621,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Fiscale opbrengsten en boetes 12.70m 2025; tick1061
+bud_leo_fiscal_ov_2025,city_leopoldsburg,2025,4648709,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Opcentiemen OV 4.65m 2025; tick1061
+bud_leo_fiscal_pb_2025,city_leopoldsburg,2025,6162625,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Aanvullende PB 6.16m 2025; tick1061
+bud_leo_gemeentefonds_2025,city_leopoldsburg,2025,5728856,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Gemeentefonds base+aanvullend ~5.73m 2025; tick1061
+bud_leo_interest_2025,city_leopoldsburg,2025,342189,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Rente leningen ~0.342m 2025; tick1061
+bud_leo_invest_subs_granted_2025,city_leopoldsburg,2025,196662,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Toegestane invest-subs J5 0.197m 2025; tick1061
+bud_leo_vorderingen_kt_2025,city_leopoldsburg,2025,5866229,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Vorderingen KT YE2025 5.87m JUMP; tick1061
+bud_leo_provisions_st_2025,city_leopoldsburg,2025,496526,,,bbc_jr_realized,src_leopoldsburg_jr2025,strong,Voorzieningen ST YE2025 0.497m; tick1061
