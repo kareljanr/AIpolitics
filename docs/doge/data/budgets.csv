@@ -22852,3 +22852,47 @@ bud_zi_mjp_fin_debt_2026,zorg_izegem,2025,1468670,,,realized,src_zorg_izegem_jr2
 bud_zi_costs_j5_2025,zorg_izegem,2025,17524007,,,realized,src_zorg_izegem_jr2025,strong,J5 total kosten 17.5m; tick979
 bud_zi_revenue_j5_2025,zorg_izegem,2025,17713195,,,realized,src_zorg_izegem_jr2025,strong,J5 total opbrengsten 17.7m; tick979
 bud_zi_heads_2025,zorg_izegem,2025,247,,,realized,src_zorg_izegem_jr2025,strong,Personeelskoppen YE2025 247 FOI; tick979
+bud_dee_assets_2025,city_deerlijk,2025,64385509,,,realized,src_deerlijk_jr2025,strong,Assets YE2025 64.4m (was 63.0m); tick981
+bud_dee_equity_2025,city_deerlijk,2025,56500210,,,realized,src_deerlijk_jr2025,strong,Nettoactief YE2025 56.5m; tick981
+bud_dee_debt_total_2025,city_deerlijk,2025,7885298,,,realized,src_deerlijk_jr2025,strong,Total schulden YE2025 7.89m; tick981
+bud_dee_fin_debt_2025,city_deerlijk,2025,5081627,,,realized,src_deerlijk_jr2025,strong,Fin debt total YE2025 5.08m RISING (was 4.36m); tick981
+bud_dee_fin_debt_lt_2025,city_deerlijk,2025,4540098,,,realized,src_deerlijk_jr2025,strong,Fin debt LT YE2025 4.54m; tick981
+bud_dee_fin_debt_st_due_2025,city_deerlijk,2025,541529,,,realized,src_deerlijk_jr2025,strong,Fin debt ST due YE2025 0.542m; tick981
+bud_dee_new_loans_2025,city_deerlijk,2025,1272090,,,realized,src_deerlijk_jr2025,strong,Nieuwe leningen 1.27m FOI (bank 1.0m + lease 0.272m); tick981
+bud_dee_repayments_2025,city_deerlijk,2025,549769,,,realized,src_deerlijk_jr2025,strong,Periodieke aflossingen 0.550m; tick981
+bud_dee_cash_2025,city_deerlijk,2025,3564648,,,realized,src_deerlijk_jr2025,strong,Liquide middelen YE2025 3.56m (was 3.77m); tick981
+bud_dee_pension_2025,city_deerlijk,2025,1088787,,,realized,src_deerlijk_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.09m declining; tick981
+bud_dee_leasing_mva_2025,city_deerlijk,2025,5091586,,,realized,src_deerlijk_jr2025,strong,Leasing MVA YE2025 5.09m FOI; tick981
+bud_dee_fva_igs_2025,city_deerlijk,2025,14076741,,,realized,src_deerlijk_jr2025,strong,FVA IGS YE2025 14.1m; tick981
+bud_dee_cap_subs_2025,city_deerlijk,2025,9472796,,,realized,src_deerlijk_jr2025,strong,Kapitaalsubsidies YE2025 9.47m; tick981
+bud_dee_expl_rec_2025,city_deerlijk,2025,30442709,,,realized,src_deerlijk_jr2025,strong,Exploitatieontvangsten 30.4m; tick981
+bud_dee_expl_exp_2025,city_deerlijk,2025,27284895,,,realized,src_deerlijk_jr2025,strong,Exploitatieuitgaven 27.3m; tick981
+bud_dee_expl_saldo_2025,city_deerlijk,2025,3157814,,,realized,src_deerlijk_jr2025,strong,Exploitatiesaldo +3.16m STRONG; tick981
+bud_dee_invest_exp_2025,city_deerlijk,2025,4327196,,,realized,src_deerlijk_jr2025,strong,Investeringsuitgaven 4.33m vs MJP 15.08m underspend FOI; tick981
+bud_dee_invest_rec_2025,city_deerlijk,2025,1375428,,,realized,src_deerlijk_jr2025,strong,Investeringsontvangsten 1.38m; tick981
+bud_dee_invest_saldo_2025,city_deerlijk,2025,-2951767,,,realized,src_deerlijk_jr2025,strong,Investeringssaldo -2.95m; tick981
+bud_dee_fin_rec_2025,city_deerlijk,2025,1533680,,,realized,src_deerlijk_jr2025,strong,Financieringsontvangsten 1.53m; tick981
+bud_dee_fin_exp_2025,city_deerlijk,2025,553258,,,realized,src_deerlijk_jr2025,strong,Financieringsuitgaven 0.553m; tick981
+bud_dee_budget_result_2025,city_deerlijk,2025,1186469,,,realized,src_deerlijk_jr2025,strong,Budgettair resultaat +1.19m; tick981
+bud_dee_cum_budget_2025,city_deerlijk,2025,5728414,,,realized,src_deerlijk_jr2025,strong,Gecumuleerd budgettair resultaat 5.73m; tick981
+bud_dee_bbr_2025,city_deerlijk,2025,5728414,,,realized,src_deerlijk_jr2025,strong,Beschikbaar BBR 5.73m; tick981
+bud_dee_afm_2025,city_deerlijk,2025,2609638,,,realized,src_deerlijk_jr2025,strong,AFM +2.61m STRONG; tick981
+bud_dee_afm_corr_2025,city_deerlijk,2025,2810663,,,realized,src_deerlijk_jr2025,strong,Gecorrigeerde AFM +2.81m; tick981
+bud_dee_pnl_2025,city_deerlijk,2025,824793,,,realized,src_deerlijk_jr2025,strong,P&L +0.825m; tick981
+bud_dee_personnel_2025,city_deerlijk,2025,16894813,,,realized,src_deerlijk_jr2025,strong,Bezoldigingen 16.9m FOI; tick981
+bud_dee_goederen_2025,city_deerlijk,2025,5354267,,,realized,src_deerlijk_jr2025,strong,Goederen en diensten 5.35m; tick981
+bud_dee_toelagen_2025,city_deerlijk,2025,3491468,,,realized,src_deerlijk_jr2025,strong,Toegestane werkingssubsidies 3.49m FOI named; tick981
+bud_dee_toelage_police_2025,city_deerlijk,2025,1611331,,,realized,src_deerlijk_jr2025,strong,Toelage politiezone 1.61m FOI; tick981
+bud_dee_toelage_fire_2025,city_deerlijk,2025,356490,,,realized,src_deerlijk_jr2025,strong,Toelage HVZ 0.356m FOI; tick981
+bud_dee_toelage_igs_2025,city_deerlijk,2025,1138629,,,realized,src_deerlijk_jr2025,strong,Toelage IGS 1.14m FOI; tick981
+bud_dee_toelage_other_2025,city_deerlijk,2025,298902,,,realized,src_deerlijk_jr2025,strong,Toelage andere begunstigden 0.299m FOI; tick981
+bud_dee_toelage_eredienst_2025,city_deerlijk,2025,70733,,,realized,src_deerlijk_jr2025,strong,Toelage eredienst 0.071m; tick981
+bud_dee_ocmw_aid_2025,city_deerlijk,2025,1168591,,,realized,src_deerlijk_jr2025,strong,Individuele hulp OCMW 1.17m FOI; tick981
+bud_dee_ocmw_cover_2025,city_deerlijk,2025,1750000,,,realized,src_deerlijk_jr2025,strong,OCMW cover/tussenkomst gemeente 1.75m FOI residual; tick981
+bud_dee_ocmw_bbr_neg_2025,city_deerlijk,2025,-1710551,,,realized,src_deerlijk_jr2025,strong,OCMW BBR -1.71m drives cover FOI; tick981
+bud_dee_ocmw_equity_neg_2025,city_deerlijk,2025,-376792,,,realized,src_deerlijk_jr2025,strong,OCMW nettoactief -0.377m FOI residual; tick981
+bud_dee_fiscal_2025,city_deerlijk,2025,12935680,,,realized,src_deerlijk_jr2025,strong,Fiscale opbrengsten 12.9m; tick981
+bud_dee_werkingsubs_rec_2025,city_deerlijk,2025,15324743,,,realized,src_deerlijk_jr2025,strong,Ontvangen werkingssubsidies 15.3m; tick981
+bud_dee_invest_mva_2025,city_deerlijk,2025,4138484,,,realized,src_deerlijk_jr2025,strong,Invest MVA 4.14m FOI residual; tick981
+bud_dee_costs_j5_2025,city_deerlijk,2025,30282416,,,realized,src_deerlijk_jr2025,strong,J5 total kosten 30.3m; tick981
+bud_dee_revenue_j5_2025,city_deerlijk,2025,31107209,,,realized,src_deerlijk_jr2025,strong,J5 total opbrengsten 31.1m; tick981
