@@ -21985,3 +21985,51 @@ bud_moo_goederen_2025,city_moorslede,2025,3806929,,,realized,src_moorslede_jr202
 bud_moo_herwaardering_fva_2025,city_moorslede,2025,2781020,,,realized,src_moorslede_jr2025,strong,Herwaardering FVA IGS +2.78m FOI; tick958
 bud_moo_financing_saldo_2025,city_moorslede,2025,-218773,,,realized,src_moorslede_jr2025,strong,Financieringssaldo -0.219m; tick958
 bud_moo_respo_prognose_2031,city_moorslede,2025,336000,,,budgeted,src_moorslede_jr2025,strong,Responsabiliseringsbijdrage prognose 2031 0.336m FOI; tick958
+bud_lan_assets_2025,city_langemark_poelkapelle,2025,73204610,,,realized,src_langemark_jr2025,strong,Total assets YE2025 73.2m; tick959
+bud_lan_equity_2025,city_langemark_poelkapelle,2025,61810493,,,realized,src_langemark_jr2025,strong,Nettoactief YE2025 61.8m; tick959
+bud_lan_debt_total_2025,city_langemark_poelkapelle,2025,11394118,,,realized,src_langemark_jr2025,strong,Total schulden YE2025 11.4m; tick959
+bud_lan_fin_debt_2025,city_langemark_poelkapelle,2025,5444011,,,jaarrekening_realized,src_langemark_jr2025,strong,T4 total financiele schulden YE2025 5.44m DECLINING (was 6.31m) FOI; tick959
+bud_lan_fin_debt_lt_2025,city_langemark_poelkapelle,2025,4359469,,,realized,src_langemark_jr2025,strong,Financiele schulden LT YE2025 4.36m; tick959
+bud_lan_fin_debt_st_due_2025,city_langemark_poelkapelle,2025,1084532,,,realized,src_langemark_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.08m; tick959
+bud_lan_fin_debt_2024,city_langemark_poelkapelle,2025,6313012,,,realized,src_langemark_jr2025,strong,T4 fin debt YE2024 6.31m comparator; tick959
+bud_lan_new_loans_2025,city_langemark_poelkapelle,2025,178103,,,realized,src_langemark_jr2025,strong,Nieuwe leningen/lease 0.178m FOI; tick959
+bud_lan_aflossingen_2025,city_langemark_poelkapelle,2025,1047105,,,realized,src_langemark_jr2025,strong,Periodieke aflossingen 1.05m; tick959
+bud_lan_cash_2025,city_langemark_poelkapelle,2025,10258209,,,realized,src_langemark_jr2025,strong,Liquide middelen YE2025 10.3m; tick959
+bud_lan_cash_2024,city_langemark_poelkapelle,2025,11080340,,,realized,src_langemark_jr2025,strong,Liquide middelen YE2024 11.1m comparator; tick959
+bud_lan_pension_prov_2025,city_langemark_poelkapelle,2025,1221748,,,realized,src_langemark_jr2025,strong,Pensioenvoorzieningen YE2025 1.22m RISING FOI (was 0.81m); tick959
+bud_lan_pension_prov_2024,city_langemark_poelkapelle,2025,813380,,,realized,src_langemark_jr2025,strong,Pensioenvoorzieningen YE2024 0.813m; tick959
+bud_lan_prov_st_2025,city_langemark_poelkapelle,2025,869473,,,realized,src_langemark_jr2025,strong,Voorzieningen ST YE2025 0.869m; tick959
+bud_lan_fva_total_2025,city_langemark_poelkapelle,2025,17486939,,,realized,src_langemark_jr2025,strong,Financiele vaste activa YE2025 17.5m; tick959
+bud_lan_fva_igs_2025,city_langemark_poelkapelle,2025,15998232,,,realized,src_langemark_jr2025,strong,FVA IGS YE2025 16.0m JUMP (herwaard +6.38m) FOI; tick959
+bud_lan_mva_2025,city_langemark_poelkapelle,2025,40889339,,,realized,src_langemark_jr2025,strong,Materiele vaste activa YE2025 40.9m; tick959
+bud_lan_leasing_mva_2025,city_langemark_poelkapelle,2025,828756,,,realized,src_langemark_jr2025,strong,Leasing MVA gemeenschap 0.829m FOI; tick959
+bud_lan_cap_subs_2025,city_langemark_poelkapelle,2025,11844223,,,realized,src_langemark_jr2025,strong,Kapitaalssubsidies YE2025 11.8m; tick959
+bud_lan_expl_rec_2025,city_langemark_poelkapelle,2025,21918248,,,realized,src_langemark_jr2025,strong,Exploitatieontvangsten 21.9m; tick959
+bud_lan_expl_exp_2025,city_langemark_poelkapelle,2025,18471400,,,realized,src_langemark_jr2025,strong,Exploitatieuitgaven 18.5m; tick959
+bud_lan_expl_saldo_2025,city_langemark_poelkapelle,2025,3446847,,,realized,src_langemark_jr2025,strong,Exploitatiesaldo +3.45m; tick959
+bud_lan_invest_exp_2025,city_langemark_poelkapelle,2025,5753538,,,realized,src_langemark_jr2025,strong,Investeringsuitgaven 5.75m (MJP 7.64m underspend FOI); tick959
+bud_lan_invest_rec_2025,city_langemark_poelkapelle,2025,2207740,,,realized,src_langemark_jr2025,strong,Investeringsontvangsten 2.21m HIGH FOI; tick959
+bud_lan_invest_saldo_2025,city_langemark_poelkapelle,2025,-3545799,,,realized,src_langemark_jr2025,strong,Investeringssaldo -3.55m; tick959
+bud_lan_mjp_invest_planned_2025,city_langemark_poelkapelle,2025,7643454,,,realized,src_langemark_jr2025,strong,MJP planned invest 7.64m vs realized 5.75m FOI; tick959
+bud_lan_afm_2025,city_langemark_poelkapelle,2025,2715007,,,realized,src_langemark_jr2025,strong,AFM +2.72m; tick959
+bud_lan_afm_corr_2025,city_langemark_poelkapelle,2025,3257071,,,realized,src_langemark_jr2025,strong,Gecorrigeerde AFM +3.26m; tick959
+bud_lan_bbr_2025,city_langemark_poelkapelle,2025,9198343,,,realized,src_langemark_jr2025,strong,Beschikbaar budgettair resultaat 9.20m; tick959
+bud_lan_budget_result_2025,city_langemark_poelkapelle,2025,-964675,,,realized,src_langemark_jr2025,strong,Budgettair resultaat boekjaar -0.965m NEG FOI; tick959
+bud_lan_cum_br_2025,city_langemark_poelkapelle,2025,9198343,,,realized,src_langemark_jr2025,strong,Gecumuleerd budgettair resultaat 9.20m; tick959
+bud_lan_pnl_result_2025,city_langemark_poelkapelle,2025,979112,,,realized,src_langemark_jr2025,strong,P&L boekjaar +0.979m; tick959
+bud_lan_personnel_2025,city_langemark_poelkapelle,2025,12316479,,,realized,src_langemark_jr2025,strong,Personeelskosten 12.3m; tick959
+bud_lan_toelagen_2025,city_langemark_poelkapelle,2025,1304067,,,realized,src_langemark_jr2025,strong,Toegestane werkingssubsidies 1.30m FOI named; tick959
+bud_lan_toelagen_police_2025,city_langemark_poelkapelle,2025,630535,,,realized,src_langemark_jr2025,strong,Toelagen PZ ARRO Ieper 0.631m; tick959
+bud_lan_toelagen_hvz_2025,city_langemark_poelkapelle,2025,371774,,,realized,src_langemark_jr2025,strong,Toelagen HVZ Westhoek 0.372m; tick959
+bud_lan_toelagen_igs_2025,city_langemark_poelkapelle,2025,53010,,,realized,src_langemark_jr2025,strong,Toelagen IGS 0.053m FOI; tick959
+bud_lan_toelagen_kerk_2025,city_langemark_poelkapelle,2025,77350,,,realized,src_langemark_jr2025,strong,Toelagen eredienst 0.077m; tick959
+bud_lan_toelagen_other_2025,city_langemark_poelkapelle,2025,171399,,,realized,src_langemark_jr2025,strong,Toelagen andere begunstigden 0.171m FOI; tick959
+bud_lan_invest_subs_granted_2025,city_langemark_poelkapelle,2025,243131,,,realized,src_langemark_jr2025,strong,Toegestane investeringssubsidies 0.243m; tick959
+bud_lan_ocmw_aid_2025,city_langemark_poelkapelle,2025,512959,,,realized,src_langemark_jr2025,strong,Individuele hulpverlening OCMW 0.513m; tick959
+bud_lan_ocmw_cover_2025,city_langemark_poelkapelle,2025,2148891,,,realized,src_langemark_jr2025,strong,Tussenkomst gemeente aan OCMW 2.15m LARGE FOI (T5); tick959
+bud_lan_fiscal_2025,city_langemark_poelkapelle,2025,7193357,,,realized,src_langemark_jr2025,strong,Fiscale opbrengsten 7.19m; tick959
+bud_lan_fin_costs_2025,city_langemark_poelkapelle,2025,269224,,,realized,src_langemark_jr2025,strong,Financiele kosten 0.269m; tick959
+bud_lan_goederen_2025,city_langemark_poelkapelle,2025,3920336,,,realized,src_langemark_jr2025,strong,Goederen en diensten 3.92m; tick959
+bud_lan_herwaardering_fva_2025,city_langemark_poelkapelle,2025,6384445,,,realized,src_langemark_jr2025,strong,Herwaardering FVA IGS +6.38m FOI; tick959
+bud_lan_financing_saldo_2025,city_langemark_poelkapelle,2025,-865723,,,realized,src_langemark_jr2025,strong,Financieringssaldo -0.866m; tick959
+bud_lan_mjp_fin_debt_2027,city_langemark_poelkapelle,2025,6038372,,,budgeted,src_langemark_jr2025,strong,MJP planned fin debt YE2027 6.04m JUMP FOI; tick959

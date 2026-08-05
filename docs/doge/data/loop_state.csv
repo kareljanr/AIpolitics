@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T07:00:00Z,rq_958,958,no,tick958 Moorslede JR2025 dual residual; FOI gap_moo_invest_ocmw_farys_pension_l5 prio8 assets 82.7m cash 11.0m fin debt 8.73m declining invest underspend OCMW 0.95m; next residual dual L5 rq_959; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T08:00:00Z,rq_959,959,no,tick959 Langemark-Poelkapelle JR2025 dual residual; FOI gap_lan_ocmw_budget_fva_pension_l5 prio8 assets 73.2m fin debt 5.44m declining OCMW cover 2.15m budget -0.96m; next progress@960 rq_960; rq_116 deferred

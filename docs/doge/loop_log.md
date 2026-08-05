@@ -12218,3 +12218,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_moo_*); commitments +5; leaderboard +7; sources +2; entity city_moorslede; FOI **gap_moo_invest_ocmw_farys_pension_l5** prio8 ready + draft; key only (PDF ~37MB not stored); rq_958=done; spawn **rq_959**; ticks=958
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_959** residual dual L5 (Ledegem / Lendelede if extractable / Torhout / Meulebeke); deferred **rq_116**; progress@960 in 2
+
+
+### Tick 959 - 2026-08-08T08:00:00Z
+
+- Unit: **rq_959** (FOI-adjacent residual dual - **Gemeente+OCMW Langemark-Poelkapelle Jaarrekening 2025** + Moorslede dual residual)
+- Found (strong primary BBC JR2025 146p; KBO 0216.770.254 / OCMW 0216.770.353; GR 22.06.2026 pub 23.06.2026):
+  - Assets **EUR73.2m** / equity **EUR61.8m** / debt total **EUR11.4m** / fin debt **EUR5.44m** (**DECLINING** from **EUR6.31m**; LT **EUR4.36m** / ST due **EUR1.08m**)
+  - New loans/lease **EUR0.178m** / repayments **EUR1.05m**
+  - Cash **EUR10.3m** / **pension EUR1.22m RISING** (was EUR0.81m FOI) / FVA IGS **EUR16.0m JUMP** (herwaard **+EUR6.38m FOI**)
+  - Exploitatie: ontvangsten **EUR21.9m** / uitgaven **EUR18.5m** / saldo **+EUR3.45m**
+  - AFM **+EUR2.72m** (gecorr **+EUR3.26m**) / BBR **EUR9.20m** / budget **-EUR0.965m FOI** / P&L **+EUR0.979m**
+  - Personnel **EUR12.3m** / toelagen **EUR1.30m** (PZ ARRO Ieper **EUR0.63m** / HVZ Westhoek **EUR0.37m** / other **EUR0.17m FOI**)
+  - Invest **EUR5.75m** vs MJP **EUR7.64m** / invest-rec **EUR2.21m HIGH FOI** / **OCMW cover EUR2.15m LARGE FOI**
+  - MJP fin debt planned **EUR6.04m (2027) JUMP FOI**
+- Dual: Moorslede **EUR82.7m** / fin debt **EUR8.73m declining** / cash **EUR11.0m** / OCMW **EUR0.95m** (tick958) - not TE-additive
+- Wrote: budgets +48 (bud_lan_*); commitments +5; leaderboard +7; sources +2; entity city_langemark_poelkapelle; FOI **gap_lan_ocmw_budget_fva_pension_l5** prio8 ready + draft; key only; rq_959=done; spawn **rq_960 progress@960 prio10**; ticks=959
+- FOI: ready only - **do not send**
+- Next: **progress@960 NEXT** (prio10 rq_960); then residual dual L5; deferred **rq_116**
