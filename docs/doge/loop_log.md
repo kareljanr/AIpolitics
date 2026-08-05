@@ -11452,3 +11452,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_opw_*); commitments +4; leaderboard +7; sources +2; entity city_opwijk; FOI **gap_opw_mjp_loans_opcura_l5** prio8 ready + draft; raw PDF + key; rq_914=done; spawn **rq_915**; ticks=914
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_915** residual dual L5 (Kapellen/Roeselare/Horebeke); deferred **rq_116**; progress@920 in 6
+
+### Tick 915 - 2026-08-07T06:15:00Z
+
+- Unit: **rq_915** (FOI-adjacent residual dual - **Gemeente+OCMW Horebeke Jaarrekening 2025** + Opwijk dual)
+- Found (strong primary BBC JR2025 OCR 185p):
+  - Assets **EUR13.2m** / equity **EUR11.1m** / debt total **EUR2.11m** / fin debt **EUR0.24m** (was **EUR0.13m**; LT **EUR0.22m** / ST due **EUR0.02m**)
+  - **New loans/leasing EUR0.13m FOI** / repayments **EUR0.017m**
+  - **Cash EUR2.14m was EUR3.46m DROP FOI** / pension **EUR1.55m**
+  - Exploitatie: ontvangsten **EUR2.67m** / uitgaven **EUR2.22m** / saldo **+EUR0.45m**
+  - AFM **+EUR0.43m** (gecorr **+EUR0.44m**) / BBR **EUR2.18m** / budget result **-EUR0.99m FOI** / P&L **-EUR0.06m**
+  - Personnel **EUR1.04m** / toelagen **EUR0.60m** (**police EUR0.275m was EUR0.164m SPIKE FOI** / recyclagepark **EUR0.12m** / HVZ **EUR0.08m**) / fiscal **EUR1.65m**
+  - Invest **EUR1.70m FOI** (MVA **EUR1.64m**) / invest-subs **EUR0.06m** / gemeentefonds **EUR0.58m**
+  - OCMW cover **EUR0** (OCMW P&L **-EUR0.09m**)
+- Dual: Opwijk **EUR94.4m** / fin debt **EUR11.6m declining** / MJP loans 2026 **EUR19.7m** (tick914) - not TE-additive
+- Wrote: budgets +38 (bud_hor_*); commitments +4; leaderboard +7; sources +2; entity city_horebeke; FOI **gap_hor_invest_cash_police_l5** prio8 ready + draft; raw PDF + key; rq_915=done; spawn **rq_916**; ticks=915
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_916** residual dual L5 (Kapellen/Roeselare/Bever/Kinrooi); deferred **rq_116**; progress@920 in 5

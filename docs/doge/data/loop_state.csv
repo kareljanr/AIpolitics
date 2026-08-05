@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T05:45:00Z,rq_914,914,no,tick914 Opwijk JR2025 dual Ninove; FOI gap_opw_mjp_loans_opcura_l5 prio8 debt declining 11.6m AFM +2.81m MJP loans 2026 19.7m OPcura 1.24m; next residual dual L5 rq_915; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T06:15:00Z,rq_915,915,no,tick915 Horebeke JR2025 dual Opwijk; FOI gap_hor_invest_cash_police_l5 prio8 invest 1.70m budget -0.99m cash drop police 0.275m; next residual dual L5 rq_916; rq_116 deferred

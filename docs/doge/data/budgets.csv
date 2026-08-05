@@ -20203,3 +20203,41 @@ bud_opw_planned_loan_2026_narrative,city_opwijk,2025,14000000,,,jaarrekening_rea
 bud_opw_mjp_fin_debt_2026_lt_st,city_opwijk,2025,29201428,,,jaarrekening_realized,src_opwijk_jr2025,strong,MJP fin debt LT+ST YE2026 ~29.201m (26.752+2.450); tick914
 bud_opw_invest_transfer_loods_2026,city_opwijk,2025,4666789,,,jaarrekening_realized,src_opwijk_jr2025,strong,Werkliedenloods credits transferred to 2026 4.667m FOI; tick914
 bud_opw_opcura_afm_2025,city_opwijk,2025,-421452,,,jaarrekening_realized,src_opwijk_jr2025,strong,OPcura AFM 2025 -0.421m (consol incomplete) FOI; tick914
+bud_hor_assets_2025,city_horebeke,2025,13229375,,,jaarrekening_realized,src_horebeke_jr2025,strong,Consol total assets YE2025 13.229m; tick915
+bud_hor_equity_2025,city_horebeke,2025,11116531,,,jaarrekening_realized,src_horebeke_jr2025,strong,Nettoactief YE2025 11.117m; tick915
+bud_hor_debt_total_2025,city_horebeke,2025,2112845,,,jaarrekening_realized,src_horebeke_jr2025,strong,Total schulden YE2025 2.113m; tick915
+bud_hor_fin_debt_2025,city_horebeke,2025,236235,,,jaarrekening_realized,src_horebeke_jr2025,strong,Fin debt total YE2025 0.236m (was 0.128m); tick915
+bud_hor_fin_debt_lt_2025,city_horebeke,2025,216216,,,jaarrekening_realized,src_horebeke_jr2025,strong,Fin debt LT YE2025 0.216m; tick915
+bud_hor_fin_debt_st_due_2025,city_horebeke,2025,20019,,,jaarrekening_realized,src_horebeke_jr2025,strong,Fin debt ST due YE2025 0.020m; tick915
+bud_hor_new_loans_2025,city_horebeke,2025,125600,,,jaarrekening_realized,src_horebeke_jr2025,strong,New loans/leasings 2025 0.126m FOI (leasing MVA); tick915
+bud_hor_repayments_2025,city_horebeke,2025,17377,,,jaarrekening_realized,src_horebeke_jr2025,strong,Periodieke aflossingen 2025 0.017m; tick915
+bud_hor_cash_2025,city_horebeke,2025,2140730,,,jaarrekening_realized,src_horebeke_jr2025,strong,Liquide middelen YE2025 2.141m (was 3.458m DROP FOI); tick915
+bud_hor_pension_2025,city_horebeke,2025,1548268,,,jaarrekening_realized,src_horebeke_jr2025,strong,Pension provisions YE2025 1.548m; tick915
+bud_hor_fva_igs_2025,city_horebeke,2025,2553845,,,jaarrekening_realized,src_horebeke_jr2025,strong,FVA IGS YE2025 2.554m; tick915
+bud_hor_expl_receipts_2025,city_horebeke,2025,2665338,,,jaarrekening_realized,src_horebeke_jr2025,strong,Exploitatie ontvangsten 2025 2.665m; tick915
+bud_hor_expl_expenses_2025,city_horebeke,2025,2218333,,,jaarrekening_realized,src_horebeke_jr2025,strong,Exploitatie uitgaven 2025 2.218m; tick915
+bud_hor_expl_saldo_2025,city_horebeke,2025,447005,,,jaarrekening_realized,src_horebeke_jr2025,strong,Exploitatiesaldo 2025 +0.447m; tick915
+bud_hor_invest_exp_2025,city_horebeke,2025,1700917,,,jaarrekening_realized,src_horebeke_jr2025,strong,Invest uitgaven 2025 1.701m FOI; tick915
+bud_hor_invest_rec_2025,city_horebeke,2025,148017,,,jaarrekening_realized,src_horebeke_jr2025,strong,Invest ontvangsten 2025 0.148m; tick915
+bud_hor_invest_saldo_2025,city_horebeke,2025,-1552900,,,jaarrekening_realized,src_horebeke_jr2025,strong,Invest saldo 2025 -1.553m; tick915
+bud_hor_mva_purchases_2025,city_horebeke,2025,1637192,,,jaarrekening_realized,src_horebeke_jr2025,strong,MVA aankopen 2025 1.637m of invest; tick915
+bud_hor_fin_receipts_2025,city_horebeke,2025,131667,,,jaarrekening_realized,src_horebeke_jr2025,strong,Financiering ontvangsten 2025 0.132m; tick915
+bud_hor_fin_expenses_2025,city_horebeke,2025,17377,,,jaarrekening_realized,src_horebeke_jr2025,strong,Financiering uitgaven 2025 0.017m; tick915
+bud_hor_budget_result_2025,city_horebeke,2025,-991604,,,jaarrekening_realized,src_horebeke_jr2025,strong,Budgettair resultaat 2025 -0.992m FOI; tick915
+bud_hor_bbr_2025,city_horebeke,2025,2177717,,,jaarrekening_realized,src_horebeke_jr2025,strong,Beschikbaar budgettair resultaat YE2025 2.178m; tick915
+bud_hor_afm_2025,city_horebeke,2025,433628,,,jaarrekening_realized,src_horebeke_jr2025,strong,AFM 2025 +0.434m; tick915
+bud_hor_afm_gecorr_2025,city_horebeke,2025,440764,,,jaarrekening_realized,src_horebeke_jr2025,strong,Gecorrigeerde AFM 2025 +0.441m; tick915
+bud_hor_personnel_2025,city_horebeke,2025,1043995,,,jaarrekening_realized,src_horebeke_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 1.044m; tick915
+bud_hor_toelagen_2025,city_horebeke,2025,598700,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toegestane werkingssubsidies 2025 0.599m; tick915
+bud_hor_toelagen_police_2025,city_horebeke,2025,275304,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toelage politiediensten 2025 0.275m (was 0.164m SPIKE FOI); tick915
+bud_hor_toelagen_hvz_2025,city_horebeke,2025,81587,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toelage brandweer/HVZ 2025 0.082m; tick915
+bud_hor_toelagen_afval_2025,city_horebeke,2025,115458,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toelage recyclagepark Brakel 2025 0.115m FOI; tick915
+bud_hor_toelagen_kinderopvang_2025,city_horebeke,2025,61293,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toelage BKO/kinderopvang 2025 0.061m; tick915
+bud_hor_toelagen_eredienst_2025,city_horebeke,2025,8631,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toelage eredienst 2025 0.009m; tick915
+bud_hor_fiscal_2025,city_horebeke,2025,1649060,,,jaarrekening_realized,src_horebeke_jr2025,strong,Fiscale ontvangsten en boetes 2025 1.649m; tick915
+bud_hor_gemeentefonds_2025,city_horebeke,2025,577665,,,jaarrekening_realized,src_horebeke_jr2025,strong,Gemeentefonds basis+aanvullend 2025 ~0.578m; tick915
+bud_hor_invest_subs_2025,city_horebeke,2025,56707,,,jaarrekening_realized,src_horebeke_jr2025,strong,Toegestane investeringssubsidies 2025 0.057m; tick915
+bud_hor_ocmw_cover_2025,city_horebeke,2025,0,,,jaarrekening_realized,src_horebeke_jr2025,strong,Gemeente tussenkomst OCMW 2025 0 (OCMW P&L -0.089m); tick915
+bud_hor_pl_2025,city_horebeke,2025,-58565,,,jaarrekening_realized,src_horebeke_jr2025,strong,P&L boekjaar 2025 -0.059m; tick915
+bud_hor_leasing_mva_2025,city_horebeke,2025,236238,,,jaarrekening_realized,src_horebeke_jr2025,strong,Leasing MVA YE2025 0.236m (was 0.128m); tick915
+bud_hor_mjp_fin_debt_2027,city_horebeke,2025,512959,,,jaarrekening_realized,src_horebeke_jr2025,strong,MJP projected fin debt YE2027 ~0.513m; tick915
