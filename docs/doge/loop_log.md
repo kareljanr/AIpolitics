@@ -15105,3 +15105,26 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (bud_hal_*); commitments +7; leaderboard +9; sources +1; entity city_halen; FOI **gap_hal_fva_herwaard_invest_ocmw_toelagen_l5** prio9 ready + draft; PDF primary (not committed 20MB); rq_1108=done; spawn **rq_1109**; ticks=1108
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1109** residual dual L5; deferred **rq_116**; progress@1110 in 1
+
+### Tick 1109 - 2026-08-11T20:00:00Z
+
+- Unit: **rq_1109** (FOI-adjacent residual dual - **Gemeente+OCMW Zele Jaarrekening 2025** + Halen dual residual)
+- Found (strong primary BBC JR2025 288p mixed text; zele.be; pub 01.06.2026; KBO GE 0207.447.663 / OCMW 0212.191.656; Markt 5 / Padweg 4a 9240; AD wnd Stefan Bogaerts FD Katrien De Picker; GE+OCMW + AGB dual):
+  - Assets **EUR192.378m** / equity **EUR127.617m** / debt total **EUR64.761m JUMP** / fin debt **EUR33.164m JUMP FOI** (LT **EUR29.852m** / ST due **EUR3.310m**; was LT **EUR27.878m**)
+  - New loans **EUR5.419m MASSIVE FOI** (bank **EUR4.925m** / other-leasing **EUR0.494m**) / repayments **EUR3.424m**
+  - Cash **EUR6.395m** stable / pension **EUR19.656m MASSIVE JUMP FOI** (was **EUR16.611m**; +**EUR3.045m**)
+  - FVA IGS **EUR15.997m** / herwaard **EUR6.385m** / leasing MVA **EUR2.338m**
+  - Exploitatie: ontvangsten **EUR52.226m** / uitgaven **EUR46.125m** / saldo **+EUR6.102m VERY STRONG**
+  - AFM **+EUR3.909m VERY STRONG** (gecorr **+EUR4.840m**) / BBR **EUR8.455m VERY HIGH** / onbeschikbaar **EUR0.187m** / budget **+EUR0.664m POS** / P&L **-EUR1.983m NEG FOI** (was +1.644m)
+  - Fiscal **EUR20.109m** / PB **EUR8.457m** / OV **EUR8.393m** / personnel **EUR25.285m**
+  - Toelagen **EUR8.240m FOI** (police **EUR2.986m** / IGS **EUR2.044m** / AGB **EUR1.338m JUMP** / andere **EUR1.062m** / fire **EUR0.594m**)
+  - Invest **EUR10.331m OVER** vs MJP **EUR6.397m FOI** / ontvangsten **EUR2.614m** vs MJP **EUR7.075m UNDER** / invest-subs police **EUR0.944m MASSIVE FOI**
+  - OCMW cover **EUR2.767m FULL FOI** / OCMW expl saldo **-EUR2.574m** / OCMW hulp **EUR2.539m**
+  - AGB BBR **EUR0.728m** / AGB AFM **+EUR0.306m** / AGB AFM gecorr **-EUR0.124m NEG FOI**
+  - Debt per capita **EUR1.553**
+- Dual: Halen FVA/herwaard MASSIVE / invest underspend (tick1108) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Bornem residual next; **progress@1110 THIS next tick decade**
+- Wrote: budgets +56 (bud_zel_*); commitments +8; leaderboard +10; sources +1; entity city_zele; FOI **gap_zel_pension_loans_ocmw_agb_toelagen_l5** prio9 ready + draft; PDF primary (not committed 21MB); rq_1109=done; spawn **rq_1110**; ticks=1109
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1110** progress decade@1110 then residual dual L5; deferred **rq_116**
+

@@ -29101,3 +29101,59 @@ bud_hal_ocmw_expl_saldo_2025,city_halen,2025,-594867,,,bbc_jr_realized,src_halen
 bud_hal_goederen_2025,city_halen,2025,2556546,,,bbc_jr_realized,src_halen_jr2025,strong,Goederen en diensten 2.557m; tick1108
 bud_hal_fin_exp_2025,city_halen,2025,353829,,,bbc_jr_realized,src_halen_jr2025,strong,Financiele kosten 0.354m; tick1108
 bud_hal_debt_per_capita_2025,city_halen,2025,1071,,,bbc_jr_realized,src_halen_jr2025,strong,Schuld per inwoner 1071 EUR; tick1108
+bud_zel_assets_2025,city_zele,2025,192378215,,,bbc_jr_realized,src_zele_jr2025,strong,Consol total assets YE2025 192.378m; tick1109
+bud_zel_equity_2025,city_zele,2025,127617108,,,bbc_jr_realized,src_zele_jr2025,strong,Nettoactief YE2025 127.617m; tick1109
+bud_zel_debt_total_2025,city_zele,2025,64761107,,,bbc_jr_realized,src_zele_jr2025,strong,Schulden total YE2025 64.761m; tick1109
+bud_zel_fin_debt_2025,city_zele,2025,33163918,,,bbc_jr_realized,src_zele_jr2025,strong,Fin schulden/openstaande leningen YE2025 33.164m (LT 29.852 + ST due 3.310); tick1109
+bud_zel_fin_debt_lt_2025,city_zele,2025,29851748,,,bbc_jr_realized,src_zele_jr2025,strong,Fin schulden LT YE2025 29.852m (was 27.878m); tick1109
+bud_zel_fin_debt_st_2025,city_zele,2025,3310450,,,bbc_jr_realized,src_zele_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.310m; tick1109
+bud_zel_pension_prov_2025,city_zele,2025,19656389,,,bbc_jr_realized,src_zele_jr2025,strong,Pensioenvoorzieningen YE2025 19.656m JUMP FOI (was 16.611m); tick1109
+bud_zel_cash_2025,city_zele,2025,6395311,,,bbc_jr_realized,src_zele_jr2025,strong,Liquide middelen YE2025 6.395m; tick1109
+bud_zel_cap_subs_2025,city_zele,2025,19150826,,,bbc_jr_realized,src_zele_jr2025,strong,Kapitaalsubsidies YE2025 19.151m; tick1109
+bud_zel_fva_igs_2025,city_zele,2025,15996967,,,bbc_jr_realized,src_zele_jr2025,strong,Fin VA IGS YE2025 15.997m; tick1109
+bud_zel_fva_total_2025,city_zele,2025,19307758,,,bbc_jr_realized,src_zele_jr2025,strong,Fin VA total YE2025 19.308m; tick1109
+bud_zel_herwaard_2025,city_zele,2025,6384881,,,bbc_jr_realized,src_zele_jr2025,strong,Herwaarderingsreserves YE2025 6.385m; tick1109
+bud_zel_cumul_budget_2025,city_zele,2025,8641628,,,bbc_jr_realized,src_zele_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 8.642m; tick1109
+bud_zel_bbr_2025,city_zele,2025,8454961,,,bbc_jr_realized,src_zele_jr2025,strong,Beschikbaar budgettair resultaat YE2025 8.455m; tick1109
+bud_zel_onbeschikbaar_2025,city_zele,2025,186667,,,bbc_jr_realized,src_zele_jr2025,strong,Onbeschikbare gelden YE2025 0.187m; tick1109
+bud_zel_expl_rec_2025,city_zele,2025,52226284,,,bbc_jr_realized,src_zele_jr2025,strong,Exploitatieontvangsten 52.226m 2025; tick1109
+bud_zel_expl_exp_2025,city_zele,2025,46124530,,,bbc_jr_realized,src_zele_jr2025,strong,Exploitatieuitgaven 46.125m 2025; tick1109
+bud_zel_expl_saldo_2025,city_zele,2025,6101754,,,bbc_jr_realized,src_zele_jr2025,strong,Exploitatiesaldo +6.102m VERY STRONG 2025; tick1109
+bud_zel_invest_exp_2025,city_zele,2025,10330982,,,bbc_jr_realized,src_zele_jr2025,strong,Investeringsuitgaven 10.331m 2025 vs MJP 6.397m OVER FOI; tick1109
+bud_zel_invest_rec_2025,city_zele,2025,2614215,,,bbc_jr_realized,src_zele_jr2025,strong,Investeringsontvangsten 2.614m 2025 vs MJP 7.075m UNDER FOI; tick1109
+bud_zel_invest_saldo_2025,city_zele,2025,-7716767,,,bbc_jr_realized,src_zele_jr2025,strong,Investeringssaldo -7.717m 2025; tick1109
+bud_zel_invest_mva_2025,city_zele,2025,8910606,,,bbc_jr_realized,src_zele_jr2025,strong,Investeringen MVA 8.911m 2025; tick1109
+bud_zel_invest_subs_granted_2025,city_zele,2025,948323,,,bbc_jr_realized,src_zele_jr2025,strong,Toegestane investeringssubsidies 0.948m 2025 FOI (police 0.944m); tick1109
+bud_zel_invest_subs_police_2025,city_zele,2025,944443,,,bbc_jr_realized,src_zele_jr2025,strong,Invest-subs politiezone 0.944m 2025 FOI; tick1109
+bud_zel_fin_saldo_2025,city_zele,2025,2279380,,,bbc_jr_realized,src_zele_jr2025,strong,Financieringssaldo +2.279m 2025; tick1109
+bud_zel_budget_result_2025,city_zele,2025,664366,,,bbc_jr_realized,src_zele_jr2025,strong,Budgettair resultaat boekjaar +0.664m 2025; tick1109
+bud_zel_afm_2025,city_zele,2025,3909294,,,bbc_jr_realized,src_zele_jr2025,strong,Autofinancieringsmarge +3.909m VERY STRONG 2025; tick1109
+bud_zel_afm_gecorr_2025,city_zele,2025,4839627,,,bbc_jr_realized,src_zele_jr2025,strong,Gecorrigeerde AFM +4.840m 2025; tick1109
+bud_zel_pl_2025,city_zele,2025,-1983440,,,bbc_jr_realized,src_zele_jr2025,strong,P&L tekort -1.983m NEG FOI 2025 (was +1.644m); tick1109
+bud_zel_personnel_2025,city_zele,2025,25285376,,,bbc_jr_realized,src_zele_jr2025,strong,Bezoldigingen 25.285m 2025; tick1109
+bud_zel_personnel_onderwijs_other_2025,city_zele,2025,2357064,,,bbc_jr_realized,src_zele_jr2025,strong,Onderwijzend personeel ten laste van andere 2.357m 2025; tick1109
+bud_zel_toelagen_2025,city_zele,2025,8240236,,,bbc_jr_realized,src_zele_jr2025,strong,Toegestane werkingssubsidies T2 8.240m 2025 FOI; tick1109
+bud_zel_toelagen_police_2025,city_zele,2025,2985665,,,bbc_jr_realized,src_zele_jr2025,strong,Toelage politiezone 2.986m 2025; tick1109
+bud_zel_toelagen_fire_2025,city_zele,2025,594301,,,bbc_jr_realized,src_zele_jr2025,strong,Toelage hulpverleningszone 0.594m 2025; tick1109
+bud_zel_toelagen_igs_2025,city_zele,2025,2043570,,,bbc_jr_realized,src_zele_jr2025,strong,Toelage IGS 2.044m 2025; tick1109
+bud_zel_toelagen_agb_2025,city_zele,2025,1338240,,,bbc_jr_realized,src_zele_jr2025,strong,Toelage AGB 1.338m JUMP FOI 2025 (was 0.762m); tick1109
+bud_zel_toelagen_eredienst_2025,city_zele,2025,216758,,,bbc_jr_realized,src_zele_jr2025,strong,Toelage eredienst 0.217m 2025; tick1109
+bud_zel_toelagen_other_2025,city_zele,2025,1061701,,,bbc_jr_realized,src_zele_jr2025,strong,Toelagen andere begunstigden 1.062m 2025 FOI; tick1109
+bud_zel_ocmw_aid_2025,city_zele,2025,2538734,,,bbc_jr_realized,src_zele_jr2025,strong,Individuele hulpverlening OCMW 2.539m 2025; tick1109
+bud_zel_fiscal_2025,city_zele,2025,20108801,,,bbc_jr_realized,src_zele_jr2025,strong,Fiscale opbrengsten en boetes 20.109m 2025; tick1109
+bud_zel_fiscal_ov_2025,city_zele,2025,8392627,,,bbc_jr_realized,src_zele_jr2025,strong,Opcentiemen OV 8.393m 2025; tick1109
+bud_zel_fiscal_apb_2025,city_zele,2025,8456838,,,bbc_jr_realized,src_zele_jr2025,strong,Aanvullende PB 8.457m 2025; tick1109
+bud_zel_gemeentefonds_2025,city_zele,2025,6794233,,,bbc_jr_realized,src_zele_jr2025,strong,Gemeentefonds 6.794m 2025; tick1109
+bud_zel_new_loans_2025,city_zele,2025,5419122,,,bbc_jr_realized,src_zele_jr2025,strong,Nieuwe leningen/leasings 5.419m FOI (bank 4.925m) 2025; tick1109
+bud_zel_new_loans_bank_2025,city_zele,2025,4925000,,,bbc_jr_realized,src_zele_jr2025,strong,Nieuwe bankleningen 4.925m 2025 FOI; tick1109
+bud_zel_repayments_2025,city_zele,2025,3423673,,,bbc_jr_realized,src_zele_jr2025,strong,Periodieke aflossingen 3.424m 2025; tick1109
+bud_zel_ocmw_cover_2025,city_zele,2025,2767344,,,bbc_jr_realized,src_zele_jr2025,strong,Gemeente tussenkomst OCMW 2.767m FULL FOI 2025; tick1109
+bud_zel_ocmw_expl_gap_2025,city_zele,2025,-2573958,,,bbc_jr_realized,src_zele_jr2025,strong,OCMW exploitatiesaldo -2.574m 2025 FOI; tick1109
+bud_zel_debt_per_capita_2025,city_zele,2025,1553,,,bbc_jr_realized,src_zele_jr2025,strong,Schuld per inwoner 1553 EUR 2025; tick1109
+bud_zel_agb_bbr_2025,city_zele,2025,728359,,,bbc_jr_realized,src_zele_jr2025,strong,AGB Zele BBR YE2025 0.728m; tick1109
+bud_zel_agb_afm_2025,city_zele,2025,306275,,,bbc_jr_realized,src_zele_jr2025,strong,AGB Zele AFM +0.306m 2025; tick1109
+bud_zel_agb_afm_gecorr_2025,city_zele,2025,-123644,,,bbc_jr_realized,src_zele_jr2025,strong,AGB Zele gecorr AFM -0.124m NEG FOI 2025; tick1109
+bud_zel_loans_granted_agb_2025,city_zele,2025,208193,,,bbc_jr_realized,src_zele_jr2025,strong,Toegestane leningen AGB 0.208m 2025; tick1109
+bud_zel_interest_2025,city_zele,2025,906389,,,bbc_jr_realized,src_zele_jr2025,strong,Intresten op leningen 0.906m 2025; tick1109
+bud_zel_goederen_2025,city_zele,2025,9072064,,,bbc_jr_realized,src_zele_jr2025,strong,Goederen en diensten T2 9.072m 2025; tick1109
+bud_zel_mjp_invest_exp_2025,city_zele,2025,6396954,,,bbc_jr_realized,src_zele_jr2025,strong,MJP investeringsuitgaven 6.397m 2025 vs real 10.331m OVER FOI; tick1109
