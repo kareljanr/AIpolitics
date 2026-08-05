@@ -11788,3 +11788,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +28 (bud_hag_*); commitments +4; leaderboard +7; sources +2; entity agb_haacht; FOI **gap_hag_debt_dividend_toelage_l5** prio8 ready + draft; raw PDF+toel+key; rq_934=done; spawn **rq_935**; ticks=934
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_935** residual dual L5 (Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 6
+
+### Tick 935 - 2026-08-07T16:15:00Z
+
+- Unit: **rq_935** (FOI-adjacent residual dual - **Gemeente+OCMW Ichtegem Jaarrekening 2025** + AGB Haacht dual)
+- Found (strong primary BBC JR2025 154p):
+  - Assets **EUR93.8m** / equity **EUR62.2m** / debt total **EUR31.6m** / fin debt **EUR24.3m** (**RISING** from **EUR14.7m**; LT **EUR22.7m** / ST due **EUR1.57m**)
+  - **New bank loans EUR11.000m FOI** / lease-other **EUR0.28m** / total new **EUR11.28m** / repayments **EUR1.71m**
+  - **Cash EUR9.74m was EUR7.32m JUMP FOI** / pension **EUR2.92m** (declining)
+  - Exploitatie: ontvangsten **EUR26.4m** / uitgaven **EUR23.4m** / saldo **+EUR2.97m**
+  - AFM **+EUR1.26m** (gecorr **+EUR1.79m**) / BBR **EUR9.81m** / budget result **+EUR2.03m** / P&L **+EUR1.11m**
+  - Personnel **EUR13.7m** / toelagen **EUR3.00m** (police **EUR1.45m** / **IGS EUR0.51m FOI** / other **EUR0.34m FOI** / HVZ **EUR0.62m**)
+  - Invest **EUR11.6m** (MVA buildings **EUR9.42m FOI**) / VL invest-subs received **EUR1.01m FOI** / fiscal **EUR11.6m**
+- Dual: AGB Haacht **EUR9.49m** / fin debt **EUR8.88m** / **corr AFM -EUR0.063m** / dividend **EUR0.078m** (tick934) - not TE-additive
+- Wrote: budgets +49 (bud_ich_*); commitments +4; leaderboard +7; sources +2; entity city_ichtegem; FOI **gap_ich_bank_debt_invest_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_935=done; spawn **rq_936**; ticks=935
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_936** residual dual L5 (Ardooie / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 5

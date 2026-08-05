@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T15:45:00Z,rq_934,934,no,tick934 AGB Haacht JR2025 dual city Haacht; FOI gap_hag_debt_dividend_toelage_l5 prio8 fin debt 8.88m corr AFM -0.063m dividend 0.078m; next residual dual L5 rq_935; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T16:15:00Z,rq_935,935,no,tick935 Ichtegem JR2025 dual AGB Haacht; FOI gap_ich_bank_debt_invest_toelagen_l5 prio8 bank 11m fin debt 24.3m rising invest 11.6m; next residual dual L5 rq_936; rq_116 deferred

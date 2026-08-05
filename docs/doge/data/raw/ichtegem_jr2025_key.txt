@@ -1,0 +1,41 @@
+Ichtegem Gemeente+OCMW Jaarrekening 2025 (BBC 154p)
+PDF: https://www.ichtegem.be/file/download/fec70c2a-cfac-4b7a-92dd-90d4484a3789/0nbuF8qFD4t9BYH3aM7dlLkLJ6wSDZvrwPgcoRzng3d.pdf
+Portal: https://www.ichtegem.be/jaarrekening-2025-gemeente-ocmw-ichtegem
+Besluit 25.06.2026 published 26.06.2026
+Tick 935
+
+BALANCE J4 YE2025 / YE2024
+assets              93778581 / 80120392
+equity              62187326 / 58068515
+debt total          31591255 / 22051876
+fin debt total      24288194 / 14712394  RISING (LT 22716002 + ST due 1572192)
+cash                9742576 / 7322089  JUMP FOI
+pension             2921193 / 3926329  declining
+FVA                 22641631 (IGS 20467973)
+MVA                 57573974
+cap subs            8948544
+onbeschikbaar       186667
+
+J2 2025
+expl rec/exp/saldo  26389046 / 23423322 / +2965724
+invest exp/rec/saldo 11593720 / 1085998 / -10507723
+fin rec/exp/saldo   11283127 / 1707326 / +9575800
+budget result       +2033802
+BBR                 9810274
+AFM                 +1258398
+AFM corr            +1788733
+new loans total     11283127 (bank 11000000 + lease/other 283127 FOI)
+aflossingen         1707326
+
+J5/T2
+personnel           13667856
+toelagen            3000486 (police 1450816 / HVZ 623800 / IGS 508197 / ered 81081 / other 336593 FOI)
+invest-subs granted 120070 (HVZ 121908 / IGS -1839)
+fiscal              11600230
+gemeentefonds       4579607
+P&L                 +1106440
+VL invest-subs rec  1007070 FOI
+goederen            5039216
+fin costs           663080
+
+Dual residual tick934: AGB Haacht assets 9.49m fin debt 8.88m corr AFM -0.063m dividend 0.078m
