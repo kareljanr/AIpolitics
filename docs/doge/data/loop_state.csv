@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T20:15:00Z,rq_943,943,no,tick943 AGB Wielsbeke JR2025 dual city; FOI gap_agw_debt_prijssubsidie_corr_afm_l5 prio8 fin debt 12.8m prijssubsidie 0.95m corr AFM -0.42m; next residual dual L5 rq_944; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T20:45:00Z,rq_944,944,no,tick944 Zedelgem JR2025 dual residual; FOI gap_zed_pension_debt_toelagen_invest_l5 prio8 assets 136.6m fin debt 19.0m cash 20.7m pension 9.23m; next residual dual L5 rq_945; rq_116 deferred

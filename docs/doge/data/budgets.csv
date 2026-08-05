@@ -21321,3 +21321,51 @@ bud_agw_fin_costs_2025,agb_wielsbeke,2025,206,,,jaarrekening_realized,src_wielsb
 bud_agw_werkingsubsidies_in_2025,agb_wielsbeke,2025,40,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Werkingssubsidies in 40 EUR (near zero vs prijssubsidie path FOI); tick943
 bud_agw_onbeschikbaar_2025,agb_wielsbeke,2025,1160,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Onbeschikbare gelden 1160 EUR; tick943
 bud_agw_aangewezen_afl_2025,agb_wielsbeke,2025,1056999,,,jaarrekening_realized,src_wielsbeke_agb_jr2025,strong,Aangewezen aflossingen o.b.v. fin schulden 1.057m (drives corr AFM neg); tick943
+bud_zed_assets_2025,city_zedelgem,2025,136573396,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Total assets YE2025 136.6m; tick944
+bud_zed_equity_2025,city_zedelgem,2025,103346410,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Nettoactief YE2025 103.3m; tick944
+bud_zed_debt_total_2025,city_zedelgem,2025,33226986,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Total schulden YE2025 33.2m DECLINING (was 36.0m); tick944
+bud_zed_fin_debt_2025,city_zedelgem,2025,19014738,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Fin debt YE2025 19.0m DECLINING (LT 17.3 + ST due 1.74); tick944
+bud_zed_fin_debt_lt_2025,city_zedelgem,2025,17272374,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Financiele schulden LT YE2025 17.3m; tick944
+bud_zed_fin_debt_st_due_2025,city_zedelgem,2025,1742364,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.74m; tick944
+bud_zed_fin_debt_2024,city_zedelgem,2025,21297852,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Fin debt YE2024 ~21.3m (LT 19.5 + ST due 1.75); tick944
+bud_zed_pension_prov_2025,city_zedelgem,2025,9234553,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Pensioenvoorzieningen YE2025 9.23m FOI (was 9.53m slight drop); tick944
+bud_zed_pension_prov_2024,city_zedelgem,2025,9528488,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Pensioenvoorzieningen YE2024 9.53m; tick944
+bud_zed_cash_2025,city_zedelgem,2025,20720843,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Liquide middelen YE2025 20.7m (was 20.9m slight DROP FOI); tick944
+bud_zed_cash_2024,city_zedelgem,2025,20916025,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Liquide middelen YE2024 20.9m; tick944
+bud_zed_cap_subs_2025,city_zedelgem,2025,7963660,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Kapitaalssubsidies YE2025 7.96m; tick944
+bud_zed_fva_total_2025,city_zedelgem,2025,20349976,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Financiele vaste activa YE2025 20.3m; tick944
+bud_zed_fva_igs_2025,city_zedelgem,2025,11048888,,,jaarrekening_realized,src_zedelgem_jr2025,strong,FVA IGS YE2025 11.0m; tick944
+bud_zed_mva_2025,city_zedelgem,2025,89806626,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Materiele vaste activa YE2025 89.8m; tick944
+bud_zed_onbeschikbaar_2025,city_zedelgem,2025,939848,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Onbeschikbare gelden 0.94m FOI; tick944
+bud_zed_expl_rec_2025,city_zedelgem,2025,38701335,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Exploitatieontvangsten 38.7m; tick944
+bud_zed_expl_exp_2025,city_zedelgem,2025,29795673,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Exploitatieuitgaven 29.8m; tick944
+bud_zed_expl_saldo_2025,city_zedelgem,2025,8905661,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Exploitatiesaldo +8.91m; tick944
+bud_zed_invest_exp_2025,city_zedelgem,2025,7335150,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Investeringsuitgaven 7.34m (MJP planned 10.48m underspend FOI); tick944
+bud_zed_invest_rec_2025,city_zedelgem,2025,2054616,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Investeringsontvangsten 2.05m; tick944
+bud_zed_invest_saldo_2025,city_zedelgem,2025,-5280535,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Investeringssaldo -5.28m; tick944
+bud_zed_invest_subs_rec_2025,city_zedelgem,2025,896116,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Ontvangen investeringssubsidies 0.90m FOI; tick944
+bud_zed_fin_rec_2025,city_zedelgem,2025,364859,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Financieringsontvangsten 0.365m (new loans/lease); tick944
+bud_zed_fin_exp_2025,city_zedelgem,2025,2647972,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Financieringsuitgaven 2.65m (afl 1.77 + early 0.875); tick944
+bud_zed_new_loans_2025,city_zedelgem,2025,364859,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Nieuwe leningen 0.365m FOI (lease path matches MVA leasing invest); tick944
+bud_zed_aflossingen_2025,city_zedelgem,2025,1772972,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Periodieke aflossingen 1.77m; tick944
+bud_zed_early_repay_2025,city_zedelgem,2025,875000,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Niet-periodieke/vervroegde aflossingen 0.875m FOI; tick944
+bud_zed_afm_2025,city_zedelgem,2025,7132690,,,jaarrekening_realized,src_zedelgem_jr2025,strong,AFM +7.13m; tick944
+bud_zed_afm_corr_2025,city_zedelgem,2025,7201833,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Gecorrigeerde AFM +7.20m; tick944
+bud_zed_bbr_2025,city_zedelgem,2025,21325605,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Beschikbaar budgettair resultaat 21.3m; tick944
+bud_zed_budget_result_2025,city_zedelgem,2025,1342013,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Budgettair resultaat boekjaar +1.34m; tick944
+bud_zed_cum_br_2025,city_zedelgem,2025,22265453,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Gecumuleerd budgettair resultaat 22.3m; tick944
+bud_zed_pnl_result_2025,city_zedelgem,2025,4256021,,,jaarrekening_realized,src_zedelgem_jr2025,strong,P&L boekjaar +4.26m; tick944
+bud_zed_personnel_2025,city_zedelgem,2025,14248250,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Personeelskosten 14.2m; tick944
+bud_zed_toelagen_2025,city_zedelgem,2025,5695466,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Toegestane werkingssubsidies ~5.70m FOI named; tick944
+bud_zed_toelagen_police_2025,city_zedelgem,2025,2322642,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Toelagen politiezone 2.32m; tick944
+bud_zed_toelagen_hvz_2025,city_zedelgem,2025,1013439,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Toelagen hulpverleningszone 1.01m; tick944
+bud_zed_toelagen_igs_2025,city_zedelgem,2025,1015355,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Toelagen IGS 1.02m JUMP FOI (was 0.80m); tick944
+bud_zed_toelagen_eredienst_2025,city_zedelgem,2025,139408,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Toelagen eredienst 0.14m; tick944
+bud_zed_invest_subs_granted_2025,city_zedelgem,2025,367405,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Toegestane investeringssubsidies 0.367m FOI; tick944
+bud_zed_ocmw_aid_2025,city_zedelgem,2025,1169589,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Individuele hulpverlening OCMW 1.17m; tick944
+bud_zed_ocmw_tekort_tussenkomst_2025,city_zedelgem,2025,3050000,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Tussenkomst tekort OCMW 3.05m FOI; tick944
+bud_zed_fiscal_2025,city_zedelgem,2025,23816463,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Fiscale opbrengsten 23.8m; tick944
+bud_zed_fin_costs_2025,city_zedelgem,2025,571120,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Financiele kosten 0.57m; tick944
+bud_zed_goederen_2025,city_zedelgem,2025,7990045,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Goederen en diensten ~8.0m; tick944
+bud_zed_mjp_invest_planned_2025,city_zedelgem,2025,10477900,,,jaarrekening_realized,src_zedelgem_jr2025,strong,MJP planned invest 10.48m vs realized 7.34m underspend FOI; tick944
+bud_zed_leasing_mva_2025,city_zedelgem,2025,2433308,,,jaarrekening_realized,src_zedelgem_jr2025,strong,Leasing MVA 2.43m stock; tick944

@@ -11943,3 +11943,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +33 (bud_agw_*); commitments +4; leaderboard +7; sources +1; entity agb_wielsbeke; FOI **gap_agw_debt_prijssubsidie_corr_afm_l5** prio8 ready + draft; key only (PDF ~17MB not stored); rq_943=done; spawn **rq_944**; ticks=943
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_944** residual dual L5 (Torhout / Zedelgem / Harelbeke / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 7
+
+
+### Tick 944 - 2026-08-07T20:45:00Z
+
+- Unit: **rq_944** (FOI-adjacent residual dual - **Gemeente+OCMW Zedelgem Jaarrekening 2025** + AGB Wielsbeke dual residual)
+- Found (strong primary BBC JR2025 230p; KBO 0207.531.302 / OCMW 0212.185.718; afdruk 18.05.2026):
+  - Assets **EUR136.6m** / equity **EUR103.3m** / debt total **EUR33.2m** / fin debt **EUR19.0m** (**DECLINING**; LT **EUR17.3m** / ST due **EUR1.74m**)
+  - New loans **EUR0.365m** (lease path) / repayments **EUR1.77m** / **early repay EUR0.875m FOI**
+  - Cash **EUR20.7m was EUR20.9m slight DROP** / pension **EUR9.23m FOI** / onbeschikbaar **EUR0.94m FOI**
+  - Exploitatie: ontvangsten **EUR38.7m** / uitgaven **EUR29.8m** / saldo **+EUR8.91m**
+  - AFM **+EUR7.13m** (gecorr **+EUR7.20m**) / BBR **EUR21.3m** / budget **+EUR1.34m** / P&L **+EUR4.26m**
+  - Personnel **EUR14.2m** / toelagen **EUR5.70m** (police **EUR2.32m** / HVZ **EUR1.01m** / IGS **EUR1.02m JUMP FOI**)
+  - Invest **EUR7.34m** vs MJP **EUR10.48m underspend FOI** / OCMW tussenkomst **EUR3.05m FOI** / fiscal **EUR23.8m**
+  - No AGB toelagen line (0)
+- Dual: AGB Wielsbeke **EUR14.9m** / fin debt **EUR12.8m** / corr AFM **-EUR0.42m** / prijssubsidie **EUR0.95m** (tick943) - not TE-additive
+- Wrote: budgets +48 (bud_zed_*); commitments +4; leaderboard +7; sources +2; entity city_zedelgem; FOI **gap_zed_pension_debt_toelagen_invest_l5** prio8 ready + draft; key only (PDF ~42MB not stored); rq_944=done; spawn **rq_945**; ticks=944
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_945** residual dual L5 (Torhout / Harelbeke / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 6
