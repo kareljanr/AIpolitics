@@ -27225,3 +27225,58 @@ bud_ovj_fiscal_pb_2025,city_overijse,2025,17594276,,,bbc_jr_realized,src_overijs
 bud_ovj_gemeentefonds_2025,city_overijse,2025,5134817,,,bbc_jr_realized,src_overijse_jr2025,strong,Gemeentefonds 5.13m; tick1068
 bud_ovj_interest_2025,city_overijse,2025,828922,,,bbc_jr_realized,src_overijse_jr2025,strong,Intresten op leningen 0.829m; tick1068
 bud_ovj_invest_subs_granted_2025,city_overijse,2025,286468,,,bbc_jr_realized,src_overijse_jr2025,strong,Toegestane invest-subs 0.286m; tick1068
+bud_aar_assets_2025,city_aartselaar,2025,73995362,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Assets YE2025 73.995m (was 72.073m); tick1069
+bud_aar_equity_2025,city_aartselaar,2025,56841913,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Nettoactief YE2025 56.842m (was 57.099m slight DROP); tick1069
+bud_aar_debt_total_2025,city_aartselaar,2025,17153448,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Total schulden YE2025 17.15m JUMP (was 14.97m pension+debt); tick1069
+bud_aar_fin_debt_2025,city_aartselaar,2025,6008035,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Fin debt total YE2025 6.008m JUMP (was 5.161m after multi-year decline); tick1069
+bud_aar_fin_debt_lt_2025,city_aartselaar,2025,4819469,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Fin debt LT YE2025 4.819m JUMP (was 3.808m); tick1069
+bud_aar_fin_debt_st_due_2025,city_aartselaar,2025,1188565,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Fin debt ST due YE2025 1.189m; tick1069
+bud_aar_new_loans_2025,city_aartselaar,2025,2200000,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Nieuwe leningen 2025 2.20m JUMP FOI (prior years 0); tick1069
+bud_aar_aflossingen_2025,city_aartselaar,2025,1352738,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Periodieke aflossingen 2025 1.353m; tick1069
+bud_aar_mjp_new_loans_2026,city_aartselaar,2025,1400000,,,bbc_jr_realized,src_aartselaar_jr2025,strong,MJP new loans 2026 planned 1.40m; tick1069
+bud_aar_mjp_new_loans_2027,city_aartselaar,2025,2800000,,,bbc_jr_realized,src_aartselaar_jr2025,strong,MJP new loans 2027 planned 2.80m FOI; tick1069
+bud_aar_mjp_fin_debt_2027,city_aartselaar,2025,8141311,,,bbc_jr_realized,src_aartselaar_jr2025,strong,MJP fin debt YE2027 planned 8.14m path FOI; tick1069
+bud_aar_cash_2025,city_aartselaar,2025,9914695,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Liquide middelen YE2025 9.915m (was 9.682m); tick1069
+bud_aar_pension_2025,city_aartselaar,2025,7071097,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.071m JUMP FOI (was 5.318m +1.753m); tick1069
+bud_aar_cap_subs_2025,city_aartselaar,2025,3797175,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Kapitaalsubsidies YE2025 3.797m; tick1069
+bud_aar_fva_total_2025,city_aartselaar,2025,9630838,,,bbc_jr_realized,src_aartselaar_jr2025,strong,FVA total YE2025 9.631m; tick1069
+bud_aar_fva_igs_2025,city_aartselaar,2025,8415799,,,bbc_jr_realized,src_aartselaar_jr2025,strong,FVA IGS YE2025 8.416m; tick1069
+bud_aar_expl_rec_2025,city_aartselaar,2025,29653740,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Exploitatieontvangsten 29.654m; tick1069
+bud_aar_expl_exp_2025,city_aartselaar,2025,25570822,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Exploitatieuitgaven 25.571m; tick1069
+bud_aar_expl_saldo_2025,city_aartselaar,2025,4082918,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Exploitatiesaldo +4.083m STRONG; tick1069
+bud_aar_invest_exp_2025,city_aartselaar,2025,4323726,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Investeringsuitgaven 4.324m vs MJP 7.420m UNDERSPEND FOI; tick1069
+bud_aar_invest_rec_2025,city_aartselaar,2025,454788,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Investeringsontvangsten 0.455m; tick1069
+bud_aar_invest_saldo_2025,city_aartselaar,2025,-3868938,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Investeringssaldo -3.869m; tick1069
+bud_aar_mjp_invest_planned_2025,city_aartselaar,2025,7419881,,,bbc_jr_realized,src_aartselaar_jr2025,strong,MJP invest planned 7.420m vs realized 4.324m underspend FOI; tick1069
+bud_aar_invest_mva_2025,city_aartselaar,2025,3317569,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Investeringen MVA 3.318m; tick1069
+bud_aar_invest_subs_granted_2025,city_aartselaar,2025,1006097,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Toegestane invest-subs 1.006m FOI (regen/afvalwater 0.955m); tick1069
+bud_aar_afm_2025,city_aartselaar,2025,2963751,,,bbc_jr_realized,src_aartselaar_jr2025,strong,AFM +2.964m STRONG (MJP only 0.340m); tick1069
+bud_aar_afm_corr_2025,city_aartselaar,2025,3903627,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Gecorrigeerde AFM +3.904m STRONG; tick1069
+bud_aar_bbr_2025,city_aartselaar,2025,6452569,,,bbc_jr_realized,src_aartselaar_jr2025,strong,BBR beschikbaar +6.453m; tick1069
+bud_aar_budget_result_2025,city_aartselaar,2025,1294814,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Budgettair resultaat +1.295m STRONG (MJP was -3.563m); tick1069
+bud_aar_cum_br_2025,city_aartselaar,2025,9763556,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Gecumuleerd budgettair resultaat +9.764m; tick1069
+bud_aar_onbeschikbaar_2025,city_aartselaar,2025,3310987,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Onbeschikbare gelden 3.311m HIGH FOI; tick1069
+bud_aar_pnl_2025,city_aartselaar,2025,-516918,,,bbc_jr_realized,src_aartselaar_jr2025,strong,P&L -0.517m IMPROVING (was -2.416m; pension jump); tick1069
+bud_aar_ge_expl_exp_2025,city_aartselaar,2025,22810021,,,bbc_jr_realized,src_aartselaar_jr2025,strong,GE exploitatieuitgaven J3 22.810m; tick1069
+bud_aar_ge_expl_rec_2025,city_aartselaar,2025,28005647,,,bbc_jr_realized,src_aartselaar_jr2025,strong,GE exploitatieontvangsten J3 28.006m; tick1069
+bud_aar_ocmw_expl_exp_2025,city_aartselaar,2025,2760802,,,bbc_jr_realized,src_aartselaar_jr2025,strong,OCMW exploitatieuitgaven J3 2.761m; tick1069
+bud_aar_ocmw_expl_rec_2025,city_aartselaar,2025,1648093,,,bbc_jr_realized,src_aartselaar_jr2025,strong,OCMW exploitatieontvangsten J3 1.648m; tick1069
+bud_aar_ocmw_expl_gap_2025,city_aartselaar,2025,-1112708,,,bbc_jr_realized,src_aartselaar_jr2025,strong,OCMW expl gap J3 -1.113m; tick1069
+bud_aar_ocmw_cover_2025,city_aartselaar,2025,1152366,,,bbc_jr_realized,src_aartselaar_jr2025,strong,OCMW cover tussenkomst 1.152m FULL; tick1069
+bud_aar_equity_cum_2025,city_aartselaar,2025,16661327,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Gecumuleerd equity overschot YE2025 +16.661m; tick1069
+bud_aar_ocmw_equity_cum_2025,city_aartselaar,2025,-1683406,,,bbc_jr_realized,src_aartselaar_jr2025,strong,OCMW equity cum -1.683m IMPROVING (was -2.131m; cover full); tick1069
+bud_aar_ge_equity_cum_2025,city_aartselaar,2025,18344733,,,bbc_jr_realized,src_aartselaar_jr2025,strong,GE equity cum +18.345m; tick1069
+bud_aar_personnel_2025,city_aartselaar,2025,14133691,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Bezoldigingen 14.134m incl education pass-through 2.939m; tick1069
+bud_aar_edu_pass_through_2025,city_aartselaar,2025,2938622,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.939m; tick1069
+bud_aar_toelagen_2025,city_aartselaar,2025,3527550,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Toegestane werkingssubsidies 3.528m FOI residual; tick1069
+bud_aar_toelagen_police_2025,city_aartselaar,2025,2529169,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Toelage politiezone 2.529m JUMP (was 2.347m); tick1069
+bud_aar_toelagen_fire_2025,city_aartselaar,2025,705512,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Toelage hulpverleningszone 0.706m flat; tick1069
+bud_aar_toelagen_igs_2025,city_aartselaar,2025,30609,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Toelage IGS 0.031m; tick1069
+bud_aar_toelagen_other_2025,city_aartselaar,2025,262260,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Toelage other+eredienst+welzijn residual 0.262m FOI; tick1069
+bud_aar_ocmw_aid_2025,city_aartselaar,2025,807282,,,bbc_jr_realized,src_aartselaar_jr2025,strong,OCMW individuele hulp 0.807m; tick1069
+bud_aar_fiscal_2025,city_aartselaar,2025,16533581,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Fiscale opbrengsten 16.534m; tick1069
+bud_aar_fiscal_ov_2025,city_aartselaar,2025,7830563,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Opcentiemen OV 7.831m; tick1069
+bud_aar_fiscal_pb_2025,city_aartselaar,2025,5663202,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Aanvullende PB 5.663m JUMP; tick1069
+bud_aar_gemeentefonds_2025,city_aartselaar,2025,3068126,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Gemeentefonds 3.068m; tick1069
+bud_aar_interest_2025,city_aartselaar,2025,108949,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Intresten op leningen 0.109m; tick1069
+bud_aar_invest_subs_water_2025,city_aartselaar,2025,955213,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Invest-subs regen/afvalwater 0.955m of 1.006m FOI; tick1069

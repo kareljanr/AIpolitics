@@ -14311,3 +14311,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1069** residual dual L5; deferred **rq_116**; progress@1070
 
+
+### Tick 1069 - 2026-08-11T00:00:00Z
+
+- Unit: **rq_1069** (FOI-adjacent residual dual - **Lokaal Bestuur Aartselaar Jaarrekening 2025** + Overijse dual residual)
+- Found (strong primary BBC JR2025 PDF; GR+RMW 18.05.2026 pub 20.05.2026; KBO GE 0207.508.932 / OCMW 0212.234.812; Baron van Ertbornstraat 1 2630; AD Peter Van Mechelen FD Arno Van Velsen; GE+OCMW):
+  - Assets **EUR73.995m** / equity **EUR56.842m slight DROP** / debt total **EUR17.15m JUMP** / fin debt **EUR6.008m JUMP** (LT **EUR4.819m** / ST due **EUR1.189m**; was **EUR5.161m** after multi-year decline)
+  - New loans **EUR2.20m JUMP FOI** (prior years 0) / repayments **EUR1.353m** / MJP new loans **2026 EUR1.40m** / **2027 EUR2.80m** (path YE2027 **EUR8.14m**)
+  - Cash **EUR9.915m** / pension **EUR7.071m JUMP FOI** (was **EUR5.318m**, +**EUR1.753m**) / FVA IGS **EUR8.416m**
+  - Exploitatie: ontvangsten **EUR29.654m** / uitgaven **EUR25.571m** / saldo **+EUR4.083m STRONG**
+  - AFM **+EUR2.964m STRONG** (gecorr **+EUR3.904m**; MJP only **EUR0.340m**) / BBR **EUR6.453m** (onbeschikbaar **EUR3.311m**) / budget **+EUR1.295m STRONG** (MJP was **-EUR3.563m**) / cum BR **EUR9.764m** / P&L **-EUR0.517m IMPROVING** (was **-EUR2.416m**)
+  - Personnel **EUR14.134m** (edu pass-through **EUR2.939m**) / toelagen **EUR3.528m FOI** (police **EUR2.529m JUMP** / fire **EUR0.706m** / other **EUR0.262m**)
+  - Invest **EUR4.324m** vs MJP **EUR7.420m UNDERSPEND FOI** / invest-subs **EUR1.006m** (regen/afvalwater **EUR0.955m FOI**)
+  - OCMW cover **EUR1.152m FULL** / OCMW equity cum **-EUR1.683m IMPROVING** (was **-EUR2.131m**) / OCMW expl gap **-EUR1.113m**
+- Dual: Overijse assets **EUR208.49m** / OCMW cover **0** / pension JUMP **EUR24.91m** (tick1068) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1070
+- Wrote: budgets +55 (bud_aar_*); commitments +7; leaderboard +8; sources +1; entity city_aartselaar; FOI **gap_aar_pension_loans_invest_subs_l5** prio9 ready + draft; PDF primary (not committed); rq_1069=done; spawn **rq_1070**; ticks=1069
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1070** residual dual L5 + **progress@1070**; deferred **rq_116**
+
