@@ -28625,3 +28625,64 @@ bud_alk_ocmw_equity_2025,city_alken,2025,-96034,,,bbc_jr_realized,src_alken_jr20
 bud_alk_ge_equity_cum_2025,city_alken,2025,3870719,,,bbc_jr_realized,src_alken_jr2025,strong,GE gecum overschot YE 3.871m after cover; tick1097
 bud_alk_fin_exp_2025,city_alken,2025,221235,,,bbc_jr_realized,src_alken_jr2025,strong,Financiële uitgaven 0.221m; tick1097
 bud_alk_afschrijvingen_2025,city_alken,2025,2672074,,,bbc_jr_realized,src_alken_jr2025,strong,Afschrijvingen/voorzieningen P&L 2.672m; tick1097
+bud_dil_assets_2025,city_dilsen_stokkem,2025,190953600,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Assets YE2025 190.954m JUMP (was 165.865m; FVA herwaard); tick1098
+bud_dil_equity_2025,city_dilsen_stokkem,2025,161547600,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Nettoactief YE2025 161.548m JUMP (was 133.360m); tick1098
+bud_dil_debt_total_2025,city_dilsen_stokkem,2025,29406000,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Total schulden YE2025 29.406m DROP (was 32.506m); tick1098
+bud_dil_fin_debt_2025,city_dilsen_stokkem,2025,7203288,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Fin debt total YE2025 7.203m DECLINE (was 8.014m); tick1098
+bud_dil_fin_debt_lt_2025,city_dilsen_stokkem,2025,5897093,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Fin debt LT YE2025 5.897m DECLINE; tick1098
+bud_dil_fin_debt_st_due_2025,city_dilsen_stokkem,2025,1306195,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Fin debt ST due YE2025 1.306m; tick1098
+bud_dil_new_loans_2025,city_dilsen_stokkem,2025,572421,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Nieuwe leningen/leasing 2025 0.572m LOW; tick1098
+bud_dil_aflossingen_2025,city_dilsen_stokkem,2025,1383478,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Periodieke aflossingen 2025 1.383m; tick1098
+bud_dil_cash_2025,city_dilsen_stokkem,2025,18358941,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Liquide middelen YE2025 18.359m HIGH FOI; tick1098
+bud_dil_pension_2025,city_dilsen_stokkem,2025,16475272,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.475m HIGH FOI; tick1098
+bud_dil_cap_subs_2025,city_dilsen_stokkem,2025,27344587,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Kapitaalsubsidies YE2025 27.345m; tick1098
+bud_dil_fva_total_2025,city_dilsen_stokkem,2025,54837324,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,FVA total YE2025 54.837m MASSIVE JUMP FOI (was 29.711m); tick1098
+bud_dil_fva_igs_2025,city_dilsen_stokkem,2025,51770713,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,FVA IGS YE2025 51.771m MASSIVE JUMP FOI (was 26.648m); tick1098
+bud_dil_fva_other_2025,city_dilsen_stokkem,2025,3066611,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,FVA other YE2025 3.067m; tick1098
+bud_dil_herwaard_2025,city_dilsen_stokkem,2025,25142768,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Herwaarderingsreserves YE2025 25.143m MASSIVE JUMP FOI (was 0.020m); tick1098
+bud_dil_herwaard_add_2025,city_dilsen_stokkem,2025,25123127,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Herwaard FVA IGS toevoeging 2025 25.123m FOI; tick1098
+bud_dil_mva_2025,city_dilsen_stokkem,2025,110082945,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,MVA YE2025 110.083m; tick1098
+bud_dil_leasing_mva_2025,city_dilsen_stokkem,2025,2092143,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Leasing MVA YE2025 2.092m; tick1098
+bud_dil_immaterieel_2025,city_dilsen_stokkem,2025,1871510,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Immateriële VA YE2025 1.872m; tick1098
+bud_dil_expl_rec_2025,city_dilsen_stokkem,2025,70401715,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Exploitatieontvangsten 70.402m; tick1098
+bud_dil_expl_exp_2025,city_dilsen_stokkem,2025,63609334,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Exploitatieuitgaven 63.609m; tick1098
+bud_dil_expl_saldo_2025,city_dilsen_stokkem,2025,6792381,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Exploitatiesaldo +6.792m STRONG; tick1098
+bud_dil_invest_exp_2025,city_dilsen_stokkem,2025,4086695,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Investeringsuitgaven 4.087m vs MJP 6.547m UNDERSPEND FOI; tick1098
+bud_dil_invest_rec_2025,city_dilsen_stokkem,2025,1019761,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Investeringsontvangsten 1.020m; tick1098
+bud_dil_invest_saldo_2025,city_dilsen_stokkem,2025,-3066933,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Investeringssaldo -3.067m FOI; tick1098
+bud_dil_mjp_invest_planned_2025,city_dilsen_stokkem,2025,6546974,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,MJP invest planned 6.547m vs realized 4.087m UNDERSPEND FOI; tick1098
+bud_dil_invest_transfer_2025,city_dilsen_stokkem,2025,3516703,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Invest overdrachten 2024to2025 3.517m (CBS 21.02.2025) FOI context; tick1098
+bud_dil_mva_purchases_2025,city_dilsen_stokkem,2025,3581024,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,MVA aankopen 3.581m (T5); tick1098
+bud_dil_financieringssaldo_2025,city_dilsen_stokkem,2025,-740870,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Financieringssaldo -0.741m; tick1098
+bud_dil_afm_2025,city_dilsen_stokkem,2025,5520181,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,AFM +5.520m STRONG; tick1098
+bud_dil_afm_corrected_2025,city_dilsen_stokkem,2025,6262511,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Gecorrigeerde AFM +6.263m STRONG; tick1098
+bud_dil_bbr_2025,city_dilsen_stokkem,2025,18356599,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Beschikbaar budgettair resultaat 18.357m; tick1098
+bud_dil_onbeschikbaar_2025,city_dilsen_stokkem,2025,1989219,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Onbeschikbare gelden 1.989m; tick1098
+bud_dil_budget_result_2025,city_dilsen_stokkem,2025,2984578,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Budgettair resultaat boekjaar +2.985m POSITIVE; tick1098
+bud_dil_cum_budget_2025,city_dilsen_stokkem,2025,20345818,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Gecumuleerd budgettair resultaat 20.346m; tick1098
+bud_dil_pnl_2025,city_dilsen_stokkem,2025,2856349,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,P&L overschot +2.856m (GE +6.375 OCMW -3.518); tick1098
+bud_dil_pnl_ge_2025,city_dilsen_stokkem,2025,6374518,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,P&L GE overschot +6.375m; tick1098
+bud_dil_pnl_ocmw_2025,city_dilsen_stokkem,2025,-3518170,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,P&L OCMW tekort -3.518m FOI; tick1098
+bud_dil_personnel_2025,city_dilsen_stokkem,2025,46136420,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Bezoldigingen 46.136m incl onderwijzend other-gov FOI; tick1098
+bud_dil_personnel_local_2025,city_dilsen_stokkem,2025,25183717,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Personnel excl onderwijzend other-gov ~25.184m FOI; tick1098
+bud_dil_onderwijs_other_gov_2025,city_dilsen_stokkem,2025,20952703,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Onderwijzend ten laste andere overheden 20.953m pass-through; tick1098
+bud_dil_goods_services_2025,city_dilsen_stokkem,2025,9668341,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Goederen en diensten 9.668m; tick1098
+bud_dil_toelagen_2025,city_dilsen_stokkem,2025,5663715,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Toegestane werkingssubsidies 5.664m FOI; tick1098
+bud_dil_police_toelage_2025,city_dilsen_stokkem,2025,2048314,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Politiezone toelage 2.048m FOI; tick1098
+bud_dil_fire_toelage_2025,city_dilsen_stokkem,2025,893420,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,HVZ toelage 0.893m; tick1098
+bud_dil_igs_toelage_2025,city_dilsen_stokkem,2025,2255438,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,IGS toelage 2.255m FOI; tick1098
+bud_dil_other_toelagen_2025,city_dilsen_stokkem,2025,466543,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Eredienst+andere toelagen 0.467m FOI; tick1098
+bud_dil_invest_subs_granted_2025,city_dilsen_stokkem,2025,285661,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Toegestane investeringssubsidies 0.286m; tick1098
+bud_dil_fiscal_rec_2025,city_dilsen_stokkem,2025,17286173,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Fiscale ontvangsten 17.286m; tick1098
+bud_dil_pb_rec_2025,city_dilsen_stokkem,2025,7836767,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Aanvullende personenbelasting 7.837m; tick1098
+bud_dil_op_rec_2025,city_dilsen_stokkem,2025,7288628,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Opcentiemen OV 7.289m; tick1098
+bud_dil_other_tax_2025,city_dilsen_stokkem,2025,1746976,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Andere belastingen/boetes 1.747m FOI; tick1098
+bud_dil_werkingssubsidies_rec_2025,city_dilsen_stokkem,2025,41376501,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Werkingssubsidies ontvangsten 41.377m; tick1098
+bud_dil_ocmw_cover_2025,city_dilsen_stokkem,2025,0,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,OCMW tussenkomst 0 ZERO despite P&L -3.518m equity -21.034m FOI; tick1098
+bud_dil_ocmw_hulp_2025,city_dilsen_stokkem,2025,1841849,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,OCMW individuele hulpverlening 1.842m; tick1098
+bud_dil_ocmw_equity_2025,city_dilsen_stokkem,2025,-21033748,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,OCMW gecum equity YE -21.034m DEEP FOI (was -17.516m); tick1098
+bud_dil_ge_equity_cum_2025,city_dilsen_stokkem,2025,44630909,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,GE gecum overschot YE 44.631m; tick1098
+bud_dil_ocmw_expl_gap_2025,city_dilsen_stokkem,2025,3147031,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,OCMW expl gap 15.782-12.635=3.147m FOI; tick1098
+bud_dil_fin_exp_2025,city_dilsen_stokkem,2025,274709,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Financiële uitgaven 0.275m; tick1098
+bud_dil_afschrijvingen_2025,city_dilsen_stokkem,2025,5321463,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Afschrijvingen/voorzieningen P&L 5.321m DROP (was 13.520m); tick1098
+bud_dil_debt_per_capita_2025,city_dilsen_stokkem,2025,335,,,bbc_jr_realized,src_dilsen_stokkem_jr2025,strong,Schuld per inwoner YE2025 335 EUR (risk note); tick1098

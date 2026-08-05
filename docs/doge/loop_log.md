@@ -14888,3 +14888,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +56 (bud_alk_*); commitments +7; leaderboard +9; sources +1; entity city_alken; FOI **gap_alk_pension_fva_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed); rq_1097=done; spawn **rq_1098**; ticks=1097
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1098** residual dual L5; deferred **rq_116**; progress@1100 in 2
+
+
+### Tick 1098 - 2026-08-11T14:30:00Z
+
+- Unit: **rq_1098** (FOI-adjacent residual dual - **Stad+OCMW Dilsen-Stokkem Jaarrekening 2025** + Alken dual residual)
+- Found (strong primary BBC JR2025 multi-part PDF; d3 financial clean text; GR+RMW 09.06.2026; dilsen-stokkem.be; KBO GE 0207.471.716 / OCMW 0212.247.381; Europalaan 25 / Arnold-Sauwenlaan 80 3650; AD Patrick Doumen FD Carmen Thevissen; Stad+OCMW):
+  - Assets **EUR190.954m JUMP** (was **EUR165.865m**) / equity **EUR161.548m JUMP** / debt total **EUR29.406m DROP** / fin debt **EUR7.203m DECLINE** (LT **EUR5.897m** / ST due **EUR1.306m**)
+  - New loans **EUR0.572m LOW** leasing / repayments **EUR1.383m** / debt per capita **EUR335**
+  - Cash **EUR18.359m HIGH FOI** / pension **EUR16.475m HIGH FOI** / FVA IGS **EUR51.771m MASSIVE JUMP FOI** (was **EUR26.648m**) / herwaard **EUR25.143m MASSIVE JUMP FOI** (was **EUR0.020m**; +**EUR25.123m**) / leasing MVA **EUR2.092m**
+  - Exploitatie: ontvangsten **EUR70.402m** / uitgaven **EUR63.609m** / saldo **+EUR6.792m STRONG**
+  - AFM **+EUR5.520m STRONG** (gecorr **+EUR6.263m**) / BBR **EUR18.357m** / onbeschikbaar **EUR1.989m** / budget **+EUR2.985m POSITIVE** / cum BR **EUR20.346m** / P&L **+EUR2.856m** (GE **+EUR6.375m** / OCMW **-EUR3.518m**)
+  - Fiscal **EUR17.286m** / PB **EUR7.837m** / OP **EUR7.289m** / andere tax **EUR1.747m**
+  - Personnel **EUR46.136m** (incl onderwijzend other-gov **EUR20.953m** pass-through; local ~**EUR25.184m**) / toelagen **EUR5.664m FOI** (police **EUR2.048m** / IGS **EUR2.255m** / fire **EUR0.893m**)
+  - Invest **EUR4.087m** vs MJP **EUR6.547m UNDERSPEND FOI** (+ overdrachten 2024→2025 **EUR3.517m** context) / saldo **-EUR3.067m**
+  - OCMW cover **EUR0 ZERO FOI** despite OCMW equity **-EUR21.034m DEEP** (was **-EUR17.516m**) and OCMW P&L **-EUR3.518m**
+- Dual: Alken FVA/pension/OCMW cover FULL (tick1097) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Peer / Bornem / Halen residual next; progress@1100 in 1
+- Wrote: budgets +61 (bud_dil_*); commitments +7; leaderboard +9; sources +1; entity city_dilsen_stokkem; FOI **gap_dil_pension_fva_ocmw_cash_invest_l5** prio9 ready + draft; PDF primary d2/d3 (not committed); rq_1098=done; spawn **rq_1099**; ticks=1098
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1099** residual dual L5; deferred **rq_116**; progress@1100 in 1
