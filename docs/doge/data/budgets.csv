@@ -27548,3 +27548,54 @@ bud_hoe_gemeentefonds_2025,city_hoeilaart,2025,2390262,,,bbc_jr_realized,src_hoe
 bud_hoe_interest_2025,city_hoeilaart,2025,541708,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Intresten op leningen 0.542m; tick1074
 bud_hoe_agb_afm_corr_2025,city_hoeilaart,2025,-66042,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,AGB Holar corr AFM -0.066m NEG dual residual FOI; tick1074
 bud_hoe_debt_per_inhab_2025,city_hoeilaart,2025,1461,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Openstaande schuld per inwoner EUR1461; tick1074
+bud_len_assets_2025,city_lennik,2025,53454580,,,bbc_jr_realized,src_lennik_jr2025,strong,Assets YE2025 53.455m (was 53.273m); tick1075
+bud_len_equity_2025,city_lennik,2025,35200324,,,bbc_jr_realized,src_lennik_jr2025,strong,Nettoactief YE2025 35.200m (was 34.932m); tick1075
+bud_len_debt_total_2025,city_lennik,2025,18254256,,,bbc_jr_realized,src_lennik_jr2025,strong,Total schulden YE2025 18.254m slight DECLINE (was 18.341m); tick1075
+bud_len_fin_debt_2025,city_lennik,2025,11461329,,,bbc_jr_realized,src_lennik_jr2025,strong,Fin debt total YE2025 11.461m DECLINE (was 12.541m); tick1075
+bud_len_fin_debt_lt_2025,city_lennik,2025,10286556,,,bbc_jr_realized,src_lennik_jr2025,strong,Fin debt LT YE2025 10.287m DECLINE (was 11.384m); tick1075
+bud_len_fin_debt_st_due_2025,city_lennik,2025,1174772,,,bbc_jr_realized,src_lennik_jr2025,strong,Fin debt ST due YE2025 1.175m; tick1075
+bud_len_new_loans_2025,city_lennik,2025,80892,,,bbc_jr_realized,src_lennik_jr2025,strong,Nieuwe leningen 2025 0.081m LOW; tick1075
+bud_len_aflossingen_2025,city_lennik,2025,1137438,,,bbc_jr_realized,src_lennik_jr2025,strong,Periodieke aflossingen 2025 1.137m; tick1075
+bud_len_cash_2025,city_lennik,2025,2862037,,,bbc_jr_realized,src_lennik_jr2025,strong,Liquide middelen YE2025 2.862m JUMP (was 2.332m); tick1075
+bud_len_pension_2025,city_lennik,2025,3828352,,,bbc_jr_realized,src_lennik_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.828m JUMP FOI (was 3.251m); tick1075
+bud_len_cap_subs_2025,city_lennik,2025,5626870,,,bbc_jr_realized,src_lennik_jr2025,strong,Kapitaalsubsidies YE2025 5.627m; tick1075
+bud_len_fva_total_2025,city_lennik,2025,11673867,,,bbc_jr_realized,src_lennik_jr2025,strong,FVA total YE2025 11.674m; tick1075
+bud_len_fva_igs_2025,city_lennik,2025,10252480,,,bbc_jr_realized,src_lennik_jr2025,strong,FVA IGS YE2025 10.252m; tick1075
+bud_len_leasing_mva_2025,city_lennik,2025,641676,,,bbc_jr_realized,src_lennik_jr2025,strong,Leasing MVA YE2025 0.642m; tick1075
+bud_len_expl_rec_2025,city_lennik,2025,20370636,,,bbc_jr_realized,src_lennik_jr2025,strong,Exploitatieontvangsten 20.371m; tick1075
+bud_len_expl_exp_2025,city_lennik,2025,17658589,,,bbc_jr_realized,src_lennik_jr2025,strong,Exploitatieuitgaven 17.659m; tick1075
+bud_len_expl_saldo_2025,city_lennik,2025,2712048,,,bbc_jr_realized,src_lennik_jr2025,strong,Exploitatiesaldo +2.712m STRONG; tick1075
+bud_len_invest_exp_2025,city_lennik,2025,2055780,,,bbc_jr_realized,src_lennik_jr2025,strong,Investeringsuitgaven 2.056m vs MJP 5.430m MASSIVE UNDERSPEND FOI; tick1075
+bud_len_invest_rec_2025,city_lennik,2025,233298,,,bbc_jr_realized,src_lennik_jr2025,strong,Investeringsontvangsten 0.233m; tick1075
+bud_len_invest_saldo_2025,city_lennik,2025,-1822482,,,bbc_jr_realized,src_lennik_jr2025,strong,Investeringssaldo -1.822m; tick1075
+bud_len_mjp_invest_planned_2025,city_lennik,2025,5429943,,,bbc_jr_realized,src_lennik_jr2025,strong,MJP invest planned 5.430m vs realized 2.056m underspend FOI; tick1075
+bud_len_invest_mva_2025,city_lennik,2025,1875585,,,bbc_jr_realized,src_lennik_jr2025,strong,Investeringen MVA 1.876m; tick1075
+bud_len_invest_subs_granted_2025,city_lennik,2025,66353,,,bbc_jr_realized,src_lennik_jr2025,strong,Toegestane invest-subs 0.066m; tick1075
+bud_len_afm_2025,city_lennik,2025,1574609,,,bbc_jr_realized,src_lennik_jr2025,strong,AFM +1.575m STRONG; tick1075
+bud_len_afm_corr_2025,city_lennik,2025,1708769,,,bbc_jr_realized,src_lennik_jr2025,strong,Gecorrigeerde AFM +1.709m STRONG; tick1075
+bud_len_bbr_2025,city_lennik,2025,1745650,,,bbc_jr_realized,src_lennik_jr2025,strong,BBR beschikbaar +1.746m; tick1075
+bud_len_budget_result_2025,city_lennik,2025,-169981,,,bbc_jr_realized,src_lennik_jr2025,strong,Budgettair resultaat -0.170m NEG FOI; tick1075
+bud_len_cum_br_2025,city_lennik,2025,2243136,,,bbc_jr_realized,src_lennik_jr2025,strong,Gecumuleerd budgettair resultaat +2.243m; tick1075
+bud_len_onbeschikbaar_2025,city_lennik,2025,497486,,,bbc_jr_realized,src_lennik_jr2025,strong,Onbeschikbare gelden 0.497m; tick1075
+bud_len_pnl_2025,city_lennik,2025,317027,,,bbc_jr_realized,src_lennik_jr2025,strong,P&L +0.317m IMPROVING (was -0.653m); tick1075
+bud_len_ge_expl_exp_2025,city_lennik,2025,13900602,,,bbc_jr_realized,src_lennik_jr2025,strong,GE exploitatieuitgaven J3 13.901m; tick1075
+bud_len_ge_expl_rec_2025,city_lennik,2025,17607919,,,bbc_jr_realized,src_lennik_jr2025,strong,GE exploitatieontvangsten J3 17.608m; tick1075
+bud_len_ocmw_expl_exp_2025,city_lennik,2025,3757987,,,bbc_jr_realized,src_lennik_jr2025,strong,OCMW exploitatieuitgaven J3 3.758m; tick1075
+bud_len_ocmw_expl_rec_2025,city_lennik,2025,2762717,,,bbc_jr_realized,src_lennik_jr2025,strong,OCMW exploitatieontvangsten J3 2.763m; tick1075
+bud_len_ocmw_expl_gap_2025,city_lennik,2025,-995270,,,bbc_jr_realized,src_lennik_jr2025,strong,OCMW expl gap J3 -0.995m; tick1075
+bud_len_ocmw_cover_2025,city_lennik,2025,996733,,,bbc_jr_realized,src_lennik_jr2025,strong,OCMW cover tussenkomst 0.997m FULL (budget result principle); tick1075
+bud_len_equity_cum_2025,city_lennik,2025,11594778,,,bbc_jr_realized,src_lennik_jr2025,strong,Gecumuleerd equity overschot YE2025 +11.595m; tick1075
+bud_len_personnel_2025,city_lennik,2025,8841354,,,bbc_jr_realized,src_lennik_jr2025,strong,Bezoldigingen 8.841m incl education pass-through 1.875m; tick1075
+bud_len_edu_pass_through_2025,city_lennik,2025,1874903,,,bbc_jr_realized,src_lennik_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.875m; tick1075
+bud_len_toelagen_2025,city_lennik,2025,2919855,,,bbc_jr_realized,src_lennik_jr2025,strong,Toegestane werkingssubsidies 2.920m FOI residual; tick1075
+bud_len_toelagen_police_2025,city_lennik,2025,1568716,,,bbc_jr_realized,src_lennik_jr2025,strong,Toelage politiezone 1.569m; tick1075
+bud_len_toelagen_fire_2025,city_lennik,2025,679599,,,bbc_jr_realized,src_lennik_jr2025,strong,Toelage hulpverleningszone 0.680m; tick1075
+bud_len_toelagen_igs_2025,city_lennik,2025,33035,,,bbc_jr_realized,src_lennik_jr2025,strong,Toelage IGS 0.033m; tick1075
+bud_len_toelagen_other_2025,city_lennik,2025,638505,,,bbc_jr_realized,src_lennik_jr2025,strong,Toelage other+eredienst+welzijn residual 0.639m FOI; tick1075
+bud_len_ocmw_aid_2025,city_lennik,2025,1037133,,,bbc_jr_realized,src_lennik_jr2025,strong,OCMW individuele hulp 1.037m; tick1075
+bud_len_fiscal_2025,city_lennik,2025,10605555,,,bbc_jr_realized,src_lennik_jr2025,strong,Fiscale opbrengsten 10.606m; tick1075
+bud_len_fiscal_ov_2025,city_lennik,2025,3238750,,,bbc_jr_realized,src_lennik_jr2025,strong,Opcentiemen OV 3.239m; tick1075
+bud_len_fiscal_pb_2025,city_lennik,2025,6442339,,,bbc_jr_realized,src_lennik_jr2025,strong,Aanvullende PB 6.442m JUMP; tick1075
+bud_len_gemeentefonds_2025,city_lennik,2025,2539369,,,bbc_jr_realized,src_lennik_jr2025,strong,Gemeentefonds 2.539m; tick1075
+bud_len_interest_2025,city_lennik,2025,388989,,,bbc_jr_realized,src_lennik_jr2025,strong,Intresten op leningen 0.389m; tick1075
+bud_len_debt_per_inhab_2025,city_lennik,2025,1220,,,bbc_jr_realized,src_lennik_jr2025,strong,Fin debt per inwoner EUR1220; tick1075

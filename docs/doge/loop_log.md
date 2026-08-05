@@ -14427,3 +14427,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1075** residual dual L5; deferred **rq_116**; progress@1080
 
+
+### Tick 1075 - 2026-08-11T03:00:00Z
+
+- Unit: **rq_1075** (FOI-adjacent residual dual - **Lokaal Bestuur Lennik Jaarrekening 2025** + Hoeilaart dual residual)
+- Found (strong primary BBC JR2025 PDF; pub 18.06.2026; KBO GE 0216.769.264 / OCMW 0216.769.363; Markt 18 1750; AD Anaïs Nies FD Patrick Bombaert; GE+OCMW):
+  - Assets **EUR53.455m** / equity **EUR35.200m** / debt total **EUR18.25m** / fin debt **EUR11.461m DECLINE** (LT **EUR10.287m** / ST due **EUR1.175m**; was **EUR12.541m**)
+  - New loans **EUR0.081m LOW** / repayments **EUR1.137m**
+  - Cash **EUR2.862m JUMP** (was **EUR2.332m**) / pension **EUR3.828m JUMP FOI** (was **EUR3.251m**) / FVA IGS **EUR10.252m** / leasing MVA **EUR0.642m**
+  - Exploitatie: ontvangsten **EUR20.371m** / uitgaven **EUR17.659m** / saldo **+EUR2.712m STRONG**
+  - AFM **+EUR1.575m STRONG** (gecorr **+EUR1.709m**) / BBR **EUR1.746m** / budget **EUR-0.170m NEG FOI** / cum BR **EUR2.243m** / P&L **+EUR0.317m IMPROVING**
+  - Personnel **EUR8.841m** (edu pass-through **EUR1.875m**) / toelagen **EUR2.920m FOI** (police **EUR1.569m** / fire **EUR0.680m** / other **EUR0.639m**)
+  - Invest **EUR2.056m** vs MJP **EUR5.430m MASSIVE UNDERSPEND FOI**
+  - OCMW cover **EUR0.997m FULL** (budget-result principle) / OCMW expl gap **-EUR0.995m**
+- Dual: Hoeilaart cash MASSIVE DROP / pension JUMP (tick1074) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1080
+- Wrote: budgets +50 (bud_len_*); commitments +7; leaderboard +8; sources +1; entity city_lennik; FOI **gap_len_invest_pension_budget_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1075=done; spawn **rq_1076**; ticks=1075
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1076** residual dual L5; deferred **rq_116**; progress@1080
+
