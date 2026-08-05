@@ -10860,3 +10860,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_opwijk; FOI **gap_opwijk_opcura_toelagen_l5** prio7 ready + draft; raw PDF; rq_876=done; spawn **rq_877**; ticks=876
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_877** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@880 in 4
+
+## Tick 877 - 2026-08-06T11:30:00Z
+
+- Unit: **rq_877** (FOI-adjacent residual dual - **Gemeente+OCMW Dilbeek Jaarrekening 2025** + Opwijk dual)
+- Found (strong primary BBC JR2025 171p):
+  - Assets **EUR220.6m** / equity **EUR147.3m** / debt total **EUR73.3m** / fin debt **EUR26.7m** (LT **EUR23.4m** / ST due **EUR3.3m**)
+  - Pension **EUR29.7m** / cash **EUR12.7m** / cap subs **EUR19.5m** / FVA IGS **EUR43.2m**
+  - Exploitatie: ontvangsten **EUR94.9m** / uitgaven **EUR82.2m** / saldo **+EUR12.7m**
+  - AFM **+EUR9.4m** (gecorr **+EUR10.9m**) / BBR **EUR13.9m** / budget result **+EUR9.3m** / P&L **+EUR4.9m**
+  - Personnel **EUR47.0m** (onderwijs other-gov **EUR9.1m**) / toelagen **EUR8.9m** (police **EUR5.5m** was **EUR7.6m** / fire **EUR2.5m** / other **EUR0.7m**) / fiscal **EUR48.5m**
+  - Invest **EUR10.0m** / **new loans EUR5.2m** / gemeentefonds **EUR10.7m** / invest-subs **EUR0.66m**
+- Dual: Opwijk **EUR94.4m** / AFM **+EUR2.8m** / OPcura **-EUR0.42m** (tick876) - not TE-additive
+- Wrote: budgets +37; commitments +4; leaderboard +7; sources +2; entity city_dilbeek; FOI **gap_dilbeek_pension_loans_l5** prio7 ready + draft; raw PDF; rq_877=done; spawn **rq_878**; ticks=877
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_878** residual (Liedekerke staged/Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@880 in 3

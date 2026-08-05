@@ -18829,3 +18829,40 @@ bud_op_gemeentefonds_2025,city_opwijk,2025,3577507,,,jaarrekening_realized,src_o
 bud_op_invest_subs_granted_2025,city_opwijk,2025,157907,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toegestane investeringssubsidies 0.158m 2025; tick876
 bud_op_new_loans_2025,city_opwijk,2025,153560,,,jaarrekening_realized,src_opwijk_jr2025,strong,Nieuwe leningen 0.154m 2025; tick876
 bud_op_opcura_afm_2025,city_opwijk,2025,-421452,,,jaarrekening_realized,src_opwijk_jr2025,strong,OPcura welzijnsvereniging AFM -0.421m 2025 consol drag; tick876
+bud_dlb_assets_2025,city_dilbeek,2025,220551006,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Consol GE+OCMW total assets YE2025 220.551m; tick877
+bud_dlb_equity_2025,city_dilbeek,2025,147264488,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Nettoactief YE2025 147.264m; tick877
+bud_dlb_debt_total_2025,city_dilbeek,2025,73286519,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Schulden total YE2025 73.287m; tick877
+bud_dlb_fin_debt_2025,city_dilbeek,2025,26749078,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Financiele schulden total YE2025 26.749m (LT 23.407 + ST due 3.342); tick877
+bud_dlb_fin_debt_lt_2025,city_dilbeek,2025,23407255,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Financiele schulden LT YE2025 23.407m; tick877
+bud_dlb_fin_debt_st_2025,city_dilbeek,2025,3341824,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.342m; tick877
+bud_dlb_pension_prov_2025,city_dilbeek,2025,29654404,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Pensioenvoorzieningen YE2025 29.654m FOI-adjacent stock; tick877
+bud_dlb_cash_2025,city_dilbeek,2025,12715333,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Liquide middelen+geldbeleggingen YE2025 12.715m; tick877
+bud_dlb_cap_subs_2025,city_dilbeek,2025,19504363,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Kapitaalsubsidies YE2025 19.504m; tick877
+bud_dlb_fva_igs_2025,city_dilbeek,2025,43225195,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Fin VA IGS YE2025 43.225m; tick877
+bud_dlb_cumul_budget_2025,city_dilbeek,2025,14316561,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 14.317m; tick877
+bud_dlb_bbr_2025,city_dilbeek,2025,13863228,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Beschikbaar budgettair resultaat YE2025 13.863m; tick877
+bud_dlb_expl_rec_2025,city_dilbeek,2025,94949722,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Exploitatieontvangsten 94.950m 2025; tick877
+bud_dlb_expl_exp_2025,city_dilbeek,2025,82243272,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Exploitatieuitgaven 82.243m 2025; tick877
+bud_dlb_expl_saldo_2025,city_dilbeek,2025,12706450,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Exploitatiesaldo +12.706m 2025; tick877
+bud_dlb_invest_exp_2025,city_dilbeek,2025,9971702,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Investeringsuitgaven 9.972m 2025; tick877
+bud_dlb_invest_rec_2025,city_dilbeek,2025,4807914,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Investeringsontvangsten 4.808m 2025; tick877
+bud_dlb_invest_saldo_2025,city_dilbeek,2025,-5163788,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Investeringssaldo -5.164m 2025; tick877
+bud_dlb_fin_saldo_2025,city_dilbeek,2025,1756219,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Financieringssaldo +1.756m 2025; tick877
+bud_dlb_budget_result_2025,city_dilbeek,2025,9298881,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Budgettair resultaat boekjaar +9.299m 2025; tick877
+bud_dlb_afm_2025,city_dilbeek,2025,9386308,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Autofinancieringsmarge +9.386m 2025; tick877
+bud_dlb_afm_gecorr_2025,city_dilbeek,2025,10901169,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Gecorrigeerde AFM +10.901m 2025; tick877
+bud_dlb_pl_2025,city_dilbeek,2025,4855811,,,jaarrekening_realized,src_dilbeek_jr2025,strong,P&L overschot +4.856m 2025; tick877
+bud_dlb_personnel_2025,city_dilbeek,2025,47015596,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Bezoldigingen 47.016m 2025 (incl onderwijs other-gov 9.061m); tick877
+bud_dlb_personnel_onderwijs_other_2025,city_dilbeek,2025,9061321,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Onderwijzend personeel ten laste van andere 9.061m 2025; tick877
+bud_dlb_toelagen_2025,city_dilbeek,2025,8933043,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Toegestane werkingssubsidies 8.933m 2025 (was 10.950m); tick877
+bud_dlb_toelagen_police_2025,city_dilbeek,2025,5468637,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Toelage politiezone 5.469m 2025 (was 7.621m; terugname PZ resultaat); tick877
+bud_dlb_toelagen_fire_2025,city_dilbeek,2025,2527204,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Toelage hulpverleningszone 2.527m 2025; tick877
+bud_dlb_toelagen_other_2025,city_dilbeek,2025,739629,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Toelagen andere begunstigden 0.740m 2025; tick877
+bud_dlb_ocmw_aid_2025,city_dilbeek,2025,4557414,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Individuele hulpverlening OCMW 4.557m 2025; tick877
+bud_dlb_fiscal_2025,city_dilbeek,2025,48451072,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Fiscale opbrengsten en boetes 48.451m 2025; tick877
+bud_dlb_fiscal_ov_2025,city_dilbeek,2025,20178887,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Opcentiemen OV 20.179m 2025; tick877
+bud_dlb_fiscal_apb_2025,city_dilbeek,2025,21652015,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Aanvullende PB 21.652m 2025; tick877
+bud_dlb_gemeentefonds_2025,city_dilbeek,2025,10735099,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Gemeentefonds 10.735m 2025; tick877
+bud_dlb_invest_subs_granted_2025,city_dilbeek,2025,657116,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Toegestane investeringssubsidies 0.657m 2025; tick877
+bud_dlb_new_loans_2025,city_dilbeek,2025,5204256,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Nieuwe leningen 5.204m 2025 FOI-adjacent; tick877
+bud_dlb_ocmw_transfer_2025,city_dilbeek,2025,7056598,,,jaarrekening_realized,src_dilbeek_jr2025,strong,Tussenkomst werking OCMW 7.057m 2025; tick877
