@@ -26032,3 +26032,49 @@ bud_niel_gemeentefonds_2025,city_niel,2025,3039717,,,bbc_jr_realized,src_niel_jr
 bud_niel_interest_2025,city_niel,2025,1143772,,,bbc_jr_realized,src_niel_jr2025,strong,Financiele kosten 2025 1.14m HIGH; tick1044
 bud_niel_ocmw_aid_2025,city_niel,2025,1277247,,,bbc_jr_realized,src_niel_jr2025,strong,Individuele hulpverlening OCMW 2025 1.28m; tick1044
 bud_niel_mjp_new_loans_2026,city_niel,2025,2026810,,,bbc_jr_realized,src_niel_jr2025,strong,MJP new loans planned 2026 2.03m FOI path; tick1044
+bud_lede_assets_2025,city_lede,2025,100063069,,,bbc_jr_realized,src_lede_jr2025,strong,Assets YE2025 100.06m slight JUMP (was 99.32m); tick1045
+bud_lede_equity_2025,city_lede,2025,80639969,,,bbc_jr_realized,src_lede_jr2025,strong,Nettoactief YE2025 80.64m slight JUMP; tick1045
+bud_lede_debt_total_2025,city_lede,2025,19423100,,,bbc_jr_realized,src_lede_jr2025,strong,Total schulden YE2025 19.42m slight JUMP; tick1045
+bud_lede_fin_debt_2025,city_lede,2025,9636595,,,bbc_jr_realized,src_lede_jr2025,strong,Fin debt total YE2025 9.64m DECLINE (was 9.90m T4); tick1045
+bud_lede_fin_debt_lt_2025,city_lede,2025,8523821,,,bbc_jr_realized,src_lede_jr2025,strong,Fin debt LT YE2025 8.52m DECLINE; tick1045
+bud_lede_fin_debt_st_due_2025,city_lede,2025,1112774,,,bbc_jr_realized,src_lede_jr2025,strong,Fin debt ST due YE2025 1.11m; tick1045
+bud_lede_new_loans_2025,city_lede,2025,801772,,,bbc_jr_realized,src_lede_jr2025,strong,New loans/leases 2025 0.802m JUMP lease; tick1045
+bud_lede_repayments_2025,city_lede,2025,1067980,,,bbc_jr_realized,src_lede_jr2025,strong,Repayments 2025 1.07m; tick1045
+bud_lede_cash_2025,city_lede,2025,14210074,,,bbc_jr_realized,src_lede_jr2025,strong,Liquide middelen YE2025 14.21m HIGH slight DROP (was 14.70m); tick1045
+bud_lede_pension_prov_2025,city_lede,2025,3379000,,,bbc_jr_realized,src_lede_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.38m slight JUMP; tick1045
+bud_lede_fva_total_2025,city_lede,2025,16801873,,,bbc_jr_realized,src_lede_jr2025,strong,FVA total YE2025 16.80m; tick1045
+bud_lede_fva_igs_2025,city_lede,2025,16712722,,,bbc_jr_realized,src_lede_jr2025,strong,FVA IGS YE2025 16.71m FOI; tick1045
+bud_lede_leasing_mva_2025,city_lede,2025,1989273,,,bbc_jr_realized,src_lede_jr2025,strong,Leasing MVA YE2025 1.99m JUMP; tick1045
+bud_lede_expl_ontvangsten_2025,city_lede,2025,39076390,,,bbc_jr_realized,src_lede_jr2025,strong,Exploitatie ontvangsten 2025 39.08m; tick1045
+bud_lede_expl_uitgaven_2025,city_lede,2025,34896762,,,bbc_jr_realized,src_lede_jr2025,strong,Exploitatie uitgaven 2025 34.90m; tick1045
+bud_lede_expl_saldo_2025,city_lede,2025,4179629,,,bbc_jr_realized,src_lede_jr2025,strong,Exploitatiesaldo 2025 +4.18m VERY STRONG; tick1045
+bud_lede_invest_spend_2025,city_lede,2025,5280882,,,bbc_jr_realized,src_lede_jr2025,strong,Invest uitgaven 2025 5.28m vs MJP 8.06m UNDERSPEND; tick1045
+bud_lede_invest_rec_2025,city_lede,2025,599401,,,bbc_jr_realized,src_lede_jr2025,strong,Invest ontvangsten 2025 0.599m; tick1045
+bud_lede_invest_saldo_2025,city_lede,2025,-4681480,,,bbc_jr_realized,src_lede_jr2025,strong,Investeringssaldo 2025 -4.68m; tick1045
+bud_lede_fin_saldo_2025,city_lede,2025,-159231,,,bbc_jr_realized,src_lede_jr2025,strong,Financieringssaldo 2025 -0.159m; tick1045
+bud_lede_afm_2025,city_lede,2025,3674177,,,bbc_jr_realized,src_lede_jr2025,strong,AFM 2025 +3.67m STRONG; tick1045
+bud_lede_afm_gecorr_2025,city_lede,2025,3949933,,,bbc_jr_realized,src_lede_jr2025,strong,Gecorrigeerde AFM 2025 +3.95m; tick1045
+bud_lede_bbr_2025,city_lede,2025,13719234,,,bbc_jr_realized,src_lede_jr2025,strong,BBR YE2025 13.72m; tick1045
+bud_lede_budget_result_2025,city_lede,2025,-661083,,,bbc_jr_realized,src_lede_jr2025,strong,Budgettair resultaat boekjaar 2025 -0.661m NEG FOI under AFM +3.67m; tick1045
+bud_lede_cum_budget_2025,city_lede,2025,13723734,,,bbc_jr_realized,src_lede_jr2025,strong,Gecumuleerd BR YE2025 13.72m; tick1045
+bud_lede_pnl_2025,city_lede,2025,693574,,,bbc_jr_realized,src_lede_jr2025,strong,P&L overschot 2025 +0.694m flip (was -0.361m); tick1045
+bud_lede_personnel_2025,city_lede,2025,20161368,,,bbc_jr_realized,src_lede_jr2025,strong,Personnel 2025 20.16m JUMP FOI; tick1045
+bud_lede_toelagen_2025,city_lede,2025,4138046,,,bbc_jr_realized,src_lede_jr2025,strong,Toegestane werkingssubsidies 2025 4.14m FOI; tick1045
+bud_lede_police_toelage_2025,city_lede,2025,2842235,,,bbc_jr_realized,src_lede_jr2025,strong,Politiezone toelage 2025 2.84m JUMP FOI (was 2.65m); tick1045
+bud_lede_fire_toelage_2025,city_lede,2025,807777,,,bbc_jr_realized,src_lede_jr2025,strong,HVZ toelage 2025 0.808m; tick1045
+bud_lede_eredienst_toelage_2025,city_lede,2025,162119,,,bbc_jr_realized,src_lede_jr2025,strong,Eredienst toelage 2025 0.162m; tick1045
+bud_lede_other_toelage_2025,city_lede,2025,321059,,,bbc_jr_realized,src_lede_jr2025,strong,Andere toelagen 2025 0.321m FOI; tick1045
+bud_lede_invest_subs_granted_2025,city_lede,2025,525690,,,bbc_jr_realized,src_lede_jr2025,strong,Toegestane invest-subs 2025 0.526m DROP (was 1.36m); tick1045
+bud_lede_ocmw_cover_2025,city_lede,2025,0,,,bbc_jr_realized,src_lede_jr2025,strong,OCMW cover tussenkomst 2025 0 ZERO FOI; tick1045
+bud_lede_ocmw_expl_gap_2025,city_lede,2025,-1988719,,,bbc_jr_realized,src_lede_jr2025,strong,OCMW expl saldo 2025 ~-1.99m (uit 12.01 - ont 10.02); tick1045
+bud_lede_ocmw_expl_ont_2025,city_lede,2025,10019238,,,bbc_jr_realized,src_lede_jr2025,strong,OCMW expl ontvangsten 2025 10.02m; tick1045
+bud_lede_ocmw_expl_uit_2025,city_lede,2025,12007957,,,bbc_jr_realized,src_lede_jr2025,strong,OCMW expl uitgaven 2025 12.01m; tick1045
+bud_lede_ocmw_pnl_2025,city_lede,2025,-2284970,,,bbc_jr_realized,src_lede_jr2025,strong,OCMW P&L 2025 -2.28m HIGH FOI; tick1045
+bud_lede_ocmw_cum_equity_2025,city_lede,2025,-8937779,,,bbc_jr_realized,src_lede_jr2025,strong,OCMW cum equity YE2025 -8.94m WORSENING FOI (was -6.65m); tick1045
+bud_lede_fiscal_2025,city_lede,2025,17288260,,,bbc_jr_realized,src_lede_jr2025,strong,Fiscale opbrengsten en boetes 2025 17.29m; tick1045
+bud_lede_goederen_diensten_2025,city_lede,2025,8006180,,,bbc_jr_realized,src_lede_jr2025,strong,Goederen en diensten 2025 8.01m JUMP; tick1045
+bud_lede_ocmw_aid_2025,city_lede,2025,1929325,,,bbc_jr_realized,src_lede_jr2025,strong,Individuele hulpverlening OCMW 2025 1.93m; tick1045
+bud_lede_mjp_fin_debt_2026,city_lede,2025,18841298,,,bbc_jr_realized,src_lede_jr2025,strong,MJP fin debt YE2026 18.84m JUMP path FOI; tick1045
+bud_lede_mjp_fin_debt_2027,city_lede,2025,35636896,,,bbc_jr_realized,src_lede_jr2025,strong,MJP fin debt YE2027 35.64m JUMP HIGH FOI; tick1045
+bud_lede_mjp_new_loans_2026,city_lede,2025,10295000,,,bbc_jr_realized,src_lede_jr2025,strong,MJP new loans 2026 10.30m HIGH FOI; tick1045
+bud_lede_mjp_new_loans_2027,city_lede,2025,18295000,,,bbc_jr_realized,src_lede_jr2025,strong,MJP new loans 2027 18.30m HIGH FOI; tick1045

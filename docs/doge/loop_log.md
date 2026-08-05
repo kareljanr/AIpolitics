@@ -13843,3 +13843,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1045** residual dual L5; deferred **rq_116**; progress@1050 in 6
 
+
+
+### Tick 1045 - 2026-08-10T11:45:00Z
+
+- Unit: **rq_1045** (FOI-adjacent residual dual - **Gemeente+OCMW Lede Jaarrekening 2025** + Niel dual residual)
+- Found (strong primary BBC JR2025 105p portal; KBO 0207.440.438 / OCMW 0212.191.557; Markt 1; AD Pascal Vandermeersch FD wnd Chris De Wolf; GR 18.06.2026 pub 29.06.2026):
+  - Assets **EUR100.06m** / equity **EUR80.64m** / debt total **EUR19.42m** / fin debt **EUR9.64m DECLINE** (was **EUR9.90m**; LT **EUR8.52m** / ST due **EUR1.11m**)
+  - New loans **EUR0.802m** lease / repayments **EUR1.07m**
+  - Cash **EUR14.21m HIGH** slight DROP / pension **EUR3.38m** / FVA IGS **EUR16.71m** / leasing MVA **EUR1.99m JUMP**
+  - Exploitatie: ontvangsten **EUR39.08m** / uitgaven **EUR34.90m** / saldo **+EUR4.18m VERY STRONG**
+  - AFM **+EUR3.67m STRONG** (gecorr **+EUR3.95m**) / BBR **EUR13.72m** / budget **EUR-0.661m NEG FOI** / cum BR **EUR13.72m** / P&L **+EUR0.694m flip**
+  - Personnel **EUR20.16m JUMP** / toelagen **EUR4.14m FOI** (police **EUR2.84m JUMP** / fire **EUR0.808m** / eredienst **EUR0.162m** / other **EUR0.321m**)
+  - Invest **EUR5.28m** vs MJP **EUR8.06m UNDERSPEND** / invest-subs **EUR0.526m DROP** (was **EUR1.36m**)
+  - **OCMW cover EUR0 ZERO FOI** / OCMW gap ca. **EUR-1.99m** / OCMW P&L **EUR-2.28m** / OCMW cum equity **EUR-8.94m WORSENING** (was **EUR-6.65m**)
+  - **MJP fin debt YE2026 EUR18.84m / YE2027 EUR35.64m JUMP HIGH FOI** (new loans **EUR10.3m + EUR18.3m**)
+- Dual: Niel assets **EUR60.50m** / fin debt **EUR39.99m JUMP** / gecorr AFM **EUR-0.45m** (tick1044) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 in 5
+- Wrote: budgets +46 (bud_lede_*); commitments +6; leaderboard +8; sources +1; entity city_lede; FOI **gap_lede_ocmw_budget_mjp_debt_l5** prio9 ready + draft; key only (PDF ~2.9MB not stored in git); rq_1045=done; spawn **rq_1046**; ticks=1045
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1046** residual dual L5; deferred **rq_116**; progress@1050 in 5
+
