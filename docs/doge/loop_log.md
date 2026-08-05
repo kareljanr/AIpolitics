@@ -12370,3 +12370,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_967** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@970 in 4
 
+
+### Tick 967 - 2026-08-08T16:00:00Z
+
+- Unit: **rq_967** (FOI-adjacent residual dual Entity II - **Woondienst Regio Izegem Jaarrekening 2025** + AGL Lendelede dual residual)
+- Found (strong primary BBC JR2025 77p; KBO 0466.193.777; afdruk 11.05.2026; PDF izegem.be):
+  - Assets **EUR1.37m** / equity **EUR1.06m** / debt total **EUR0.314m** / fin debt **EUR0.122m** (**DECLINING** from **EUR0.145m**; LT **EUR0.113m** / ST due **EUR0.008m**)
+  - New loans **EUR0** / repayments **EUR0.008m**
+  - Cash **EUR0.329m DROP** (was **EUR0.644m**) / receivables **EUR0.634m FOI** / MVA **EUR0.316m**
+  - Exploitatie: ontvangsten **EUR2.05m** / uitgaven **EUR2.25m** / saldo **-EUR0.202m NEG**
+  - AFM **-EUR0.210m NEG** (gecorr **-EUR0.213m**) / BBR **EUR0.864m** / budget **-EUR0.257m FOI** / P&L **-EUR0.120m**
+  - Personnel **EUR1.85m RISING** (was EUR1.63m) / goederen **EUR0.388m**
+  - Werkingssubsidies rec **EUR1.66m** (gemeente **EUR0.644m** / VL **EUR0.397m** / fed **EUR0.171m** / andere **EUR0.444m FOI**)
+  - Members (Energiehuis lines): Izegem / Ledegem / Wielsbeke / Oostrozebeke / Ingelmunster
+  - MJP fin debt planned **EUR0.113m (2026) / EUR0.105m (2027)** declining
+- Dual: AGL Lendelede **EUR4.64m** / fin debt **EUR1.83m declining** / leasing **EUR1.77m** / gecorr AFM **-EUR0.128m** (tick966) - not TE-additive
+- Note: Ledegem JR2025 portal listed but PDF not extractable this tick; Torhout policy page only to JR2024; Meulebeke no public JR2025 PDF found
+- Wrote: budgets +40 (bud_wri_*); commitments +5; leaderboard +7; sources +1; entity wri_izegem; FOI **gap_wri_afm_neg_cash_subsidy_l5** prio8 ready + draft; key only (PDF ~2MB not stored in git); rq_967=done; spawn **rq_968**; ticks=967
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_968** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW / Oostrozebeke); deferred **rq_116**; progress@970 in 3
+

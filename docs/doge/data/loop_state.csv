@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T15:00:00Z,rq_966,966,no,tick966 AGL Lendelede JR2025 Entity II dual residual; FOI gap_agl_afm_lease_cash_subsidy_l5 prio8 assets 4.64m fin debt 1.83m declining cash 0.025m DROP leasing 1.77m AFM -0.006m gecorr -0.128m NEG; next residual dual L5 rq_967; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T16:00:00Z,rq_967,967,no,tick967 Woondienst Regio Izegem JR2025 Entity II dual residual; FOI gap_wri_afm_neg_cash_subsidy_l5 prio8 assets 1.37m cash 0.329m DROP AFM -0.210m NEG personnel 1.85m werkingsubs 1.66m; next residual dual L5 rq_968; rq_116 deferred

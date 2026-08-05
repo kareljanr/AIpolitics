@@ -22327,3 +22327,43 @@ bud_agl_financing_saldo_2025,agb_agl_lendelede,2025,26710,,,realized,src_agl_len
 bud_agl_mjp_fin_debt_2026,agb_agl_lendelede,2025,1808148,,,realized,src_agl_lendelede_jr2025,strong,MJP fin debt YE2026 1.81m declining; tick966
 bud_agl_mjp_fin_debt_2027,agb_agl_lendelede,2025,1781248,,,realized,src_agl_lendelede_jr2025,strong,MJP fin debt YE2027 1.78m; tick966
 bud_agl_fva_2025,agb_agl_lendelede,2025,200,,,realized,src_agl_lendelede_jr2025,strong,FVA 0.0002m nominal; tick966
+bud_wri_assets_2025,wri_izegem,2025,1374349,,,realized,src_woondienst_izegem_jr2025,strong,Total assets YE2025 1.37m DROP from 1.64m; tick967
+bud_wri_equity_2025,wri_izegem,2025,1060635,,,realized,src_woondienst_izegem_jr2025,strong,Nettoactief YE2025 1.06m; tick967
+bud_wri_debt_total_2025,wri_izegem,2025,313714,,,realized,src_woondienst_izegem_jr2025,strong,Total schulden YE2025 0.314m; tick967
+bud_wri_fin_debt_2025,wri_izegem,2025,121685,,,realized,src_woondienst_izegem_jr2025,strong,Fin debt YE2025 0.122m DECLINING from 0.145m; tick967
+bud_wri_fin_debt_lt_2025,wri_izegem,2025,113352,,,realized,src_woondienst_izegem_jr2025,strong,Fin debt LT 0.113m; tick967
+bud_wri_fin_debt_st_due_2025,wri_izegem,2025,8333,,,realized,src_woondienst_izegem_jr2025,strong,Fin debt ST due 0.008m; tick967
+bud_wri_fin_debt_2024,wri_izegem,2025,144613,,,realized,src_woondienst_izegem_jr2025,strong,Fin debt YE2024 0.145m; tick967
+bud_wri_new_loans_2025,wri_izegem,2025,0,,,realized,src_woondienst_izegem_jr2025,strong,New loans 0; tick967
+bud_wri_aflossingen_2025,wri_izegem,2025,8333,,,realized,src_woondienst_izegem_jr2025,strong,Periodieke aflossingen 0.008m (fin exp 0.023m incl other); tick967
+bud_wri_cash_2025,wri_izegem,2025,329060,,,realized,src_woondienst_izegem_jr2025,strong,Liquide middelen 0.329m DROP from 0.644m FOI; tick967
+bud_wri_cash_2024,wri_izegem,2025,643667,,,realized,src_woondienst_izegem_jr2025,strong,Liquide middelen YE2024 0.644m; tick967
+bud_wri_mva_2025,wri_izegem,2025,315924,,,realized,src_woondienst_izegem_jr2025,strong,MVA total 0.316m; tick967
+bud_wri_prov_st_2025,wri_izegem,2025,84925,,,realized,src_woondienst_izegem_jr2025,strong,Voorzieningen ST 0.085m; tick967
+bud_wri_expl_rec_2025,wri_izegem,2025,2048202,,,realized,src_woondienst_izegem_jr2025,strong,Exploitatieontvangsten 2.05m; tick967
+bud_wri_expl_exp_2025,wri_izegem,2025,2249967,,,realized,src_woondienst_izegem_jr2025,strong,Exploitatieuitgaven 2.25m; tick967
+bud_wri_expl_saldo_2025,wri_izegem,2025,201764,,,realized,src_woondienst_izegem_jr2025,strong,Exploitatiesaldo -0.202m NEG abs FOI; tick967
+bud_wri_invest_exp_2025,wri_izegem,2025,31976,,,realized,src_woondienst_izegem_jr2025,strong,Investeringsuitgaven 0.032m; tick967
+bud_wri_invest_rec_2025,wri_izegem,2025,0,,,realized,src_woondienst_izegem_jr2025,strong,Investeringsontvangsten 0; tick967
+bud_wri_invest_saldo_2025,wri_izegem,2025,31976,,,realized,src_woondienst_izegem_jr2025,strong,Investeringssaldo -0.032m abs; tick967
+bud_wri_afm_2025,wri_izegem,2025,210098,,,realized,src_woondienst_izegem_jr2025,strong,AFM -0.210m NEG FOI abs; tick967
+bud_wri_afm_corr_2025,wri_izegem,2025,213333,,,realized,src_woondienst_izegem_jr2025,strong,Gecorr AFM -0.213m NEG FOI abs; tick967
+bud_wri_bbr_2025,wri_izegem,2025,863957,,,realized,src_woondienst_izegem_jr2025,strong,BBR 0.864m; tick967
+bud_wri_budget_result_2025,wri_izegem,2025,256668,,,realized,src_woondienst_izegem_jr2025,strong,Budgettair resultaat -0.257m abs FOI; tick967
+bud_wri_pnl_result_2025,wri_izegem,2025,120441,,,realized,src_woondienst_izegem_jr2025,strong,P&L tekort -0.120m abs; tick967
+bud_wri_personnel_2025,wri_izegem,2025,1853407,,,realized,src_woondienst_izegem_jr2025,strong,Bezoldigingen 1.85m RISING FOI; tick967
+bud_wri_goederen_2025,wri_izegem,2025,387624,,,realized,src_woondienst_izegem_jr2025,strong,Goederen en diensten J5 0.388m; tick967
+bud_wri_werk_subs_rec_2025,wri_izegem,2025,1655895,,,realized,src_woondienst_izegem_jr2025,strong,Werkingssubsidies ontvangen 1.66m FOI recon; tick967
+bud_wri_werk_subs_gemeente_2025,wri_izegem,2025,643762,,,realized,src_woondienst_izegem_jr2025,strong,Werkingsubs van gemeenten 0.644m FOI named; tick967
+bud_wri_werk_subs_vl_2025,wri_izegem,2025,397190,,,realized,src_woondienst_izegem_jr2025,strong,Werkingsubs Vlaanderen 0.397m; tick967
+bud_wri_werk_subs_fed_2025,wri_izegem,2025,171257,,,realized,src_woondienst_izegem_jr2025,strong,Werkingsubs federaal 0.171m; tick967
+bud_wri_werk_subs_other_2025,wri_izegem,2025,443685,,,realized,src_woondienst_izegem_jr2025,strong,Werkingsubs andere entiteiten 0.444m FOI; tick967
+bud_wri_werking_rec_2025,wri_izegem,2025,90486,,,realized,src_woondienst_izegem_jr2025,strong,Opbrengsten uit de werking 0.090m; tick967
+bud_wri_other_op_rec_2025,wri_izegem,2025,301822,,,realized,src_woondienst_izegem_jr2025,strong,Andere operationele opbrengsten 0.302m; tick967
+bud_wri_financing_saldo_2025,wri_izegem,2025,22928,,,realized,src_woondienst_izegem_jr2025,strong,Financieringssaldo -0.023m abs; tick967
+bud_wri_costs_j5_2025,wri_izegem,2025,2168643,,,realized,src_woondienst_izegem_jr2025,strong,J5 total kosten 2.17m; tick967
+bud_wri_revenue_j5_2025,wri_izegem,2025,2048202,,,realized,src_woondienst_izegem_jr2025,strong,J5 total opbrengsten 2.05m; tick967
+bud_wri_mjp_fin_debt_2026,wri_izegem,2025,113352,,,realized,src_woondienst_izegem_jr2025,strong,MJP fin debt YE2026 0.113m declining; tick967
+bud_wri_mjp_fin_debt_2027,wri_izegem,2025,105019,,,realized,src_woondienst_izegem_jr2025,strong,MJP fin debt YE2027 0.105m; tick967
+bud_wri_receivables_2025,wri_izegem,2025,634065,,,realized,src_woondienst_izegem_jr2025,strong,Vorderingen KT 0.634m FOI; tick967
+bud_wri_cum_pnl_2025,wri_izegem,2025,843424,,,realized,src_woondienst_izegem_jr2025,strong,Gecumuleerd overschot 0.843m; tick967
