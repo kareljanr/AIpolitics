@@ -12429,3 +12429,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio9 **rq_970** progress@970 coverage % + waste top10; deferred **rq_116**; progress@970 in 1
 
+
+### Tick 970 - 2026-08-08T19:00:00Z
+
+- Unit: **rq_970** (Mandatory progress@970 coverage % layers A-E + waste top10)
+- Found (inventory + dual residual 961-969; no new euros invented):
+  - **A/B:** still **100%** of TE EUR347.956bn L0/L1
+  - **C L2:** ~99% order-of-magnitude; **+** Menen **EUR263m** / Wervik **EUR111m** / Zonnebeke **EUR90m** / Houthulst **EUR60.5m** / Lendelede **EUR43m** / AGB Menen **EUR35.7m** / MMP **EUR6.89m** / AGL **EUR4.64m** / Woondienst **EUR1.37m**
+  - **D L5:** still **~74-88%** generous TE band (NOT near-complete of 348bn); gain is residual dual L5 FOI-adjacent not FFS reshuffle
+  - **E FOI:** ready **~655** / answered **~9** / partial **~27** / total rows **~697**
+  - Inventory: budgets **~22461** / commitments **~2830** / leaderboard **~4576** / entities **~692** / sources **~1886**
+  - Dual highlights: Menen **OCMW cover EUR8.26m** / **pension EUR27.1m** / MJP debt JUMP **EUR51.5m** · AGB Menen **gecorr AFM -EUR1.34m** / **BBR -EUR3.11m** / prijssubsidie **EUR3.12m** · Houthulst **EUR2244/capita debt** / leasing **EUR10.8m** · Wervik debt RISING + WZBW dual · Entity II AFM-neg chain (AGB Menen / MMP / AGL / Woondienst)
+  - Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@970; doge_waste_top10_current.md as-of 970; rq_970=done; spawn **rq_971** hole_fill; ticks=970
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_971** residual dual L5; deferred **rq_116**; progress@980 in 10
+

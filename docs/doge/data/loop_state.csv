@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T18:00:00Z,rq_969,969,no,tick969 AGB Menen JR2025 Entity II dual residual; FOI gap_agb_men_afm_bbr_neg_lease_l5 prio8 assets 35.7m fin debt 28.0m BBR -3.11m AFM -0.053m gecorr -1.34m NEG prijssubsidie 3.12m; next progress@970 rq_970; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T19:00:00Z,rq_970,970,no,tick970 progress@970 coverage A-E + waste top10; Menen 263m OCMW 8.26m AGB AFM corr -1.34m Wervik/Houthulst/Zonnebeke/Lendelede duals; next residual dual L5 rq_971; rq_116 deferred

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 970** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 961-969: Menen **EUR263m** / Wervik **EUR111m** / Zonnebeke **EUR90m** / Houthulst **EUR60.5m** / Lendelede **EUR43m** / AGB Menen **EUR35.7m** / AGB MMP1917 **EUR6.89m** / AGL Lendelede **EUR4.64m** / Woondienst Regio Izegem **EUR1.37m** · prior 951-959 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 960-970 is VL residual dual L5 + Entity II (not near-complete of 348bn):** personnel Menen **EUR48.5m** / Wervik **EUR13.6m** / Zonnebeke **EUR12.9m** / Lendelede **EUR5.60m** / Woondienst **EUR1.85m** · FOI-adjacent: Menen **OCMW cover EUR8.26m** / **toelagen EUR14.5m** / **pension EUR27.1m rising** / MJP debt JUMP **EUR51.5m YE2027** / cash DROP **EUR9.74m** · AGB Menen **BBR -EUR3.11m** / **gecorr AFM -EUR1.34m** / **prijssubsidie EUR3.12m** / fin debt **EUR28.0m** / voorraden **EUR6.85m** · Wervik **fin debt EUR19.6m RISING** / **WZBW FVA EUR16.5m** / OCMW **EUR2.12m** · Houthulst **fin debt EUR23.6m EUR2244/capita** / **leasing EUR10.8m** / OCMW **EUR0.86m** · Zonnebeke **OCMW EUR1.61m** / AGB MMP dual **gecorr AFM -EUR0.20m** · Lendelede **fin debt EUR8.95m RISING** / OCMW **EUR1.0m** / AGL dual · AGL **leasing EUR1.77m** / cash DROP · Woondienst **AFM -EUR0.210m** / cash DROP **EUR0.33m** / werkingsubs **EUR1.66m** |
+| **E. FOI-ready gaps** | **~655** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~697** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Menen **EUR263m** / Wevelgem **EUR305m** / Wervik **EUR111m** / Zonnebeke **EUR90m** / Houthulst **EUR60.5m** / Lendelede **EUR43m** not full TE) · **AGB Menen EUR35.7m / debt EUR28m** · **AGB MMP1917 EUR6.89m** · **AGL Lendelede EUR4.64m** · **Woondienst Regio Izegem EUR1.37m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 970)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~22461 |
+| commitments.csv | ~2830 |
+| leaderboard.csv | ~4576 |
+| entities.csv | ~692 |
+| sources.csv | ~1886 |
+| FOI ready | ~655 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~697 |
+| research_queue open | rq_116 deferred + rq_971 hole-fill after progress |
+
+### What improved since tick 960
+
+- **VL city/AGB/IGS JR2025 residual (tick961-969):** Wervik **EUR111m** / fin debt **EUR19.6m RISING** (+loan **EUR3.89m**) / cash **EUR6.46m JUMP** / OCMW cover **EUR2.12m** / **WZBW FVA EUR16.5m dual AFM neg** · Houthulst **EUR60.5m** / fin debt **EUR23.6m declining HIGH per capita EUR2244** / **leasing EUR10.8m** / OCMW **EUR0.86m** / FVA IGS JUMP · Zonnebeke **EUR90.2m** / fin debt **EUR3.78m low** / OCMW **EUR1.61m** / AGB MMP dual · AGB MMP1917 **EUR6.89m** / fin debt **EUR4.36m declining** / **leasing EUR3.83m** / **gecorr AFM -EUR0.20m** / cash DROP · Lendelede **EUR43.1m** / fin debt **EUR8.95m RISING** / OCMW **EUR1.0m** / AGL dual · AGL Lendelede **EUR4.64m** / fin debt **EUR1.83m declining** / **leasing EUR1.77m** / **gecorr AFM -EUR0.13m** / cash DROP · Woondienst Regio Izegem **EUR1.37m** / **AFM -EUR0.210m** / personnel **EUR1.85m rising** / werkingsubs **EUR1.66m** / cash DROP · Menen **EUR263m** / fin debt **EUR42.5m declining** / **OCMW cover EUR8.26m** / **toelagen EUR14.5m** / **pension EUR27.1m rising** / MJP debt JUMP **EUR51.5m YE2027** / cash DROP · AGB Menen **EUR35.7m** / fin debt **EUR28.0m** / **BBR -EUR3.11m** / **gecorr AFM -EUR1.34m** / **prijssubsidie EUR3.12m** / voorraden **EUR6.85m** / invest overshoot vs MJP.
+- **Dual map:** debt-rising duals (Wervik / Lendelede / Houthulst high per-capita) vs debt-declining large duals (Menen / Houthulst stock still high / AGB MMP) · large OCMW cover duals (Menen **EUR8.26m** / Wervik **EUR2.12m** / Zonnebeke **EUR1.61m** / Lendelede **EUR1.0m**) · Entity II AFM-neg dual chain (AGB Menen **-EUR1.34m gecorr** / AGB MMP **-EUR0.20m** / AGL **-EUR0.13m** / Woondienst **-EUR0.21m**) · lease-heavy duals (Houthulst **EUR10.8m** / AGB MMP **EUR3.83m** / AGL **EUR1.77m** / AGB Menen **EUR2.39m**) · MJP debt jump duals (Menen **EUR51.5m YE2027** / Zonnebeke **EUR5.12m YE2026**) · cash DROP duals (Menen / AGL / Woondienst / MMP) vs cash JUMP (Wervik / AGB Menen from low base).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 960** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

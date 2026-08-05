@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **960** (2026-08-08) · **~4513** leaderboard rows  
+**As-of:** tick **970** (2026-08-08) · **~4576** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Wevelgem **€305m** / Staden **€113m** / Hooglede **€110m** / Kuurne **€97m** / Moorslede **€83m** / Langemark **€73m** / Lichtervelde **€72m** / Pittem **€65m** / Dentergem **€63m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension stocks Staden **pension €5.32m** / Pittem **pension €4.80m** / Wevelgem **FVA IGS €45m herwaard** / Hooglede **debt rising €20.8m** / Kuurne **cash €1.70m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Menen **€263m** / Wevelgem **€305m** / Wervik **€111m** / Zonnebeke **€90m** / Houthulst **€60.5m** / Lendelede **€43m** / AGB Menen **€35.7m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension stocks Menen **pension €27.1m** / **OCMW cover €8.26m** / AGB Menen **debt €28m** / Houthulst **debt €23.6m per capita** / Wervik **debt rising €19.6m**.
 
-**Change vs tick 950:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 951–959 (off pure top10 / dual):** Dentergem **€62.5m** (**debt €0.69m low**, cash **€15.1m**) · Pittem **€64.7m** (**Farys €0.17m**, pension **€4.80m rising**, budget **−€0.25m**) · Hooglede **€110m** (**debt €20.8m RISING**, **WZC €4.36m**, OCMW **€2.30m**, budget **−€1.23m**) · Lichtervelde **€72m** (**Farys €0.27m**, MJP debt jump 2026–27) · Staden **€113m** (**cash/BBR €30.2m**, pension **€5.32m rising**) · Wevelgem **€305m** (**OCMW cover €6.93m**, toelagen **€8.77m**, FVA herwaard **+€23.5m**) · Kuurne **€97m** (**cash €1.70m LOW**, budget **−€1.72m**, Farys dual) · Moorslede **€83m** (**invest 38pct**, leefloon **€0.57m rising**) · Langemark-Poelkapelle **€73m** (**OCMW cover €2.15m**, budget **−€0.96m**, pension **€1.22m rising**). Gain is **OCMW cover stack + Farys dual chain + low-cash/neg-budget vs high-cash dual + debt rising invest dual + IGS revaluation** more than FFS reshuffle.
+**Change vs tick 960:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 961–969 (off pure top10 / dual):** Wervik **€111m** (**debt €19.6m RISING**, WZBW dual, OCMW **€2.12m**) · Houthulst **€60.5m** (**debt €23.6m / €2244 per capita**, leasing **€10.8m**) · Zonnebeke **€90m** (**OCMW €1.61m**, AGB MMP dual) · AGB MMP1917 **€6.89m** (**gecorr AFM −€0.20m**, lease **€3.83m**) · Lendelede **€43m** (**debt €8.95m RISING**, OCMW **€1.0m**, AGL dual) · AGL **€4.64m** (**gecorr AFM −€0.13m**, lease **€1.77m**) · Woondienst Izegem **€1.37m** (**AFM −€0.21m**, personnel **€1.85m**) · Menen **€263m** (**OCMW cover €8.26m**, toelagen **€14.5m**, pension **€27.1m**, MJP debt JUMP **€51.5m YE2027**) · AGB Menen **€35.7m** (**BBR −€3.11m**, **gecorr AFM −€1.34m**, prijssubsidie **€3.12m**, debt **€28m**). Gain is **OCMW cover stack (Menen largest) + Entity II AFM-neg chain + lease-heavy duals + MJP debt jump** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_wev_ocmw_cover_6_93m_2025` | **6.93 m** | **~5.9** | **NEW 956** large OCMW cover |
-| — | `lb_sta_pension_rising_5_32m_2025` | **5.32 m stock** | **~5.8** | **NEW 955** pension jump |
-| — | `lb_kuu_budget_neg_1_72m_2025` | **1.72 m** | **~5.8** | **NEW 957** budget neg + cash low |
-| — | `lb_lan_ocmw_cover_2_15m_2025` | **2.15 m** | **~5.7** | **NEW 959** OCMW cover large |
-| — | `lb_hoo_fin_debt_rising_20_8m_2025` | **20.8 m stock** | **~5.8** | **NEW 953** debt rising dual |
-| — | `lb_moo_invest_underspend_2025` | **3.01 m** | **~5.6** | **NEW 958** invest 38pct MJP |
+| — | `lb_men_ocmw_cover_8_26m_2025` | **8.26 m** | **~6.0** | **NEW 968** largest recent OCMW cover |
+| — | `lb_agbm_afm_corr_neg_1_34m_2025` | **1.34 m** | **~6.0** | **NEW 969** Entity II deep neg AFM |
+| — | `lb_men_toelagen_14_5m_2025` | **14.5 m** | **~5.8** | **NEW 968** named toelagen stack |
+| — | `lb_men_mjp_debt_jump_51m_2027` | **51.5 m stock** | **~5.8** | **NEW 968** MJP debt JUMP |
+| — | `lb_hou_fin_debt_23_6m_capita_2025` | **23.6 m stock** | **~5.8** | **NEW 962** high debt/capita |
+| — | `lb_wri_afm_neg_0_21m_2025` | **0.21 m** | **~5.8** | **NEW 967** IGS AFM neg |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,12 +56,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_kuu_cash_low_1_70m_2025` | **7.5** | **NEW 957** cash LOW residual |
-| `lb_kuu_budget_neg_1_72m_2025` | **7.5** | **NEW 957** budget neg large |
-| `lb_wev_ocmw_cover_6_93m_2025` | **7.5** | **NEW 956** OCMW cover large |
-| `lb_hoo_fin_debt_rising_20_8m_2025` | **7.5** | **NEW 953** debt rising |
-| `lb_lan_ocmw_cover_2_15m_2025` | **7.5** | **NEW 959** OCMW cover |
-| `lb_moo_invest_underspend_2025` | **7.0** | **NEW 958** invest 38pct MJP |
+| `lb_agbm_afm_corr_neg_1_34m_2025` | **8.5** | **NEW 969** AGB Menen gecorr AFM deep neg |
+| `lb_men_ocmw_cover_8_26m_2025` | **8.0** | **NEW 968** OCMW cover large |
+| `lb_agbm_bbr_neg_3_11m_2025` | **8.0** | **NEW 969** BBR cumulative neg |
+| `lb_wri_afm_neg_0_21m_2025` | **8.0** | **NEW 967** Woondienst AFM neg |
+| `lb_mmp_afm_corr_neg_0_20m_2025` | **8.0** | **NEW 964** MMP gecorr AFM neg |
+| `lb_hou_fin_debt_23_6m_capita_2025` | **7.5** | **NEW 962** debt/capita HIGH |
 
 ### Methodology notes
 
