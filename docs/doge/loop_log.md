@@ -13561,3 +13561,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1031** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / other); deferred **rq_116**; progress@1040 in 9
 
+
+### Tick 1031 - 2026-08-10T04:45:00Z
+
+- Unit: **rq_1031** (FOI-adjacent residual dual - **Gemeente+OCMW Merksplas Jaarrekening 2025** + Vosselaar dual residual)
+- Found (strong primary BBC JR2025 71p; KBO 0207.503.190 / OCMW 0212.198.485; AD Dries Couckhuyt; FD Alex Herseele; Markt 1/11; GR 22.06.2026):
+  - Assets **EUR98.94m JUMP** (was **EUR93.92m**) / equity **EUR73.71m DROP** / debt total **EUR25.23m JUMP** / fin debt **EUR15.13m JUMP** (was **EUR11.04m**; LT **EUR13.37m** / ST due **EUR1.26m** / ST treasury **EUR0.50m**)
+  - New loans **EUR6.25m JUMP HIGH FOI** (bank **EUR6.05m** + other **EUR0.195m**) / repayments **EUR1.16m**
+  - Cash **EUR2.26m** / pension **EUR5.43m JUMP FOI** (was **EUR4.43m**) / cap subs **EUR27.93m** / FVA IGS **EUR7.29m** / leasing MVA **EUR2.10m** / erfgoed MVA **EUR20.84m JUMP** (invest **EUR5.00m FOI**)
+  - Exploitatie: ontvangsten **EUR19.10m** / uitgaven **EUR17.89m** / saldo **+EUR1.21m**
+  - AFM **+EUR0.298m LOW-positive** (gecorr **+EUR0.572m**) / BBR **EUR3.06m** / budget **+EUR1.78m STRONG loan-driven** / cum BR **EUR3.06m** / P&L **-EUR1.92m NEG HIGH FOI**
+  - Personnel **EUR11.33m** (edu pass-through **EUR2.34m**) / toelagen **EUR2.13m FOI** (police **EUR0.817m** / fire **EUR0.621m** / AGB **EUR0.196m** / IGS **EUR0.174m** / other **EUR0.314m**)
+  - Invest **EUR7.28m** vs MJP **EUR9.56m UNDERSPEND** / invest-subs **EUR1.36m JUMP FOI** (police **EUR0.615m** / IGS **EUR0.510m**) / **OCMW cover EUR0.190m PARTIAL FOI** vs gap **-EUR1.05m** / OCMW equity cum **+EUR0.563m** / consol equity cum **-EUR0.196m DROP** (was **+EUR1.72m**)
+  - AGB dual: BBR **-EUR0.302m NEG HIGH FOI** / AFM **+EUR0.036m** / gecorr AFM **+EUR0.137m**
+- Dual: Vosselaar assets **EUR82.53m** / FVA reval **+EUR14.60m** / OCMW cover 0 (tick1030) - not TE-additive
+- Note: Rijkevorsel PDF staged (~4.8MB primary ready) for next; Torhout news-only; Stekene 404; Balen OCR; Vorselaar docs-only; Oosterzele/Berlaar/Nijlen/Essen residual optional
+- Wrote: budgets +63 (bud_mks_*); commitments +6; leaderboard +8; sources +1; entity city_merksplas; FOI **gap_mks_loans_pnl_pension_investsubs_l5** prio9 ready + draft; key only (PDF ~5.7MB not stored in git); rq_1031=done; spawn **rq_1032**; ticks=1031
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1032** residual dual L5 (**Rijkevorsel reserved** / Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / other); deferred **rq_116**; progress@1040 in 8
+

@@ -25270,3 +25270,66 @@ bud_vos_invest_subs_hof_2025,city_vosselaar,2025,406698,,,bbc_jr_realized,src_vo
 bud_vos_agb_bbr_2025,city_vosselaar,2025,217948,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AGB BBR 0.218m dual; tick1030
 bud_vos_agb_afm_2025,city_vosselaar,2025,-428,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AGB AFM -0.0004m dual near zero; tick1030
 bud_vos_agb_afm_corr_2025,city_vosselaar,2025,18428,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AGB gecorr AFM +0.018m dual; tick1030
+bud_mks_assets_2025,city_merksplas,2025,98940037,,,bbc_jr_realized,src_merksplas_jr2025,strong,Assets YE2025 98.94m JUMP (was 93.92m); tick1031
+bud_mks_equity_2025,city_merksplas,2025,73712296,,,bbc_jr_realized,src_merksplas_jr2025,strong,Nettoactief YE2025 73.71m DROP (was 74.96m); tick1031
+bud_mks_debt_total_2025,city_merksplas,2025,25227741,,,bbc_jr_realized,src_merksplas_jr2025,strong,Total schulden YE2025 25.23m JUMP (was 18.96m); tick1031
+bud_mks_fin_debt_2025,city_merksplas,2025,15131295,,,bbc_jr_realized,src_merksplas_jr2025,strong,Fin debt total YE2025 15.13m JUMP (was 11.04m T4); tick1031
+bud_mks_fin_debt_lt_2025,city_merksplas,2025,13372970,,,bbc_jr_realized,src_merksplas_jr2025,strong,Fin debt LT YE2025 13.37m JUMP (was 8.51m); tick1031
+bud_mks_fin_debt_st_due_2025,city_merksplas,2025,1258325,,,bbc_jr_realized,src_merksplas_jr2025,strong,Fin debt ST due YE2025 1.26m; tick1031
+bud_mks_fin_debt_st_2025,city_merksplas,2025,500000,,,bbc_jr_realized,src_merksplas_jr2025,strong,Fin debt ST treasury YE2025 0.50m DROP (was 1.50m); tick1031
+bud_mks_new_loans_2025,city_merksplas,2025,6248347,,,bbc_jr_realized,src_merksplas_jr2025,strong,Nieuwe leningen 2025 6.25m JUMP HIGH FOI (bank 6.05m + other 0.195m); tick1031
+bud_mks_new_loans_bank_2025,city_merksplas,2025,6053500,,,bbc_jr_realized,src_merksplas_jr2025,strong,Nieuwe bankleningen 2025 6.05m JUMP HIGH FOI; tick1031
+bud_mks_aflossingen_2025,city_merksplas,2025,1157364,,,bbc_jr_realized,src_merksplas_jr2025,strong,Periodieke aflossingen 2025 1.16m; tick1031
+bud_mks_cash_2025,city_merksplas,2025,2260419,,,bbc_jr_realized,src_merksplas_jr2025,strong,Liquide middelen YE2025 2.26m; tick1031
+bud_mks_pension_2025,city_merksplas,2025,5426441,,,bbc_jr_realized,src_merksplas_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.43m JUMP FOI (was 4.43m); tick1031
+bud_mks_cap_subs_2025,city_merksplas,2025,27927557,,,bbc_jr_realized,src_merksplas_jr2025,strong,Kapitaalsubsidies YE2025 27.93m; tick1031
+bud_mks_fva_total_2025,city_merksplas,2025,13611273,,,bbc_jr_realized,src_merksplas_jr2025,strong,FVA total YE2025 13.61m; tick1031
+bud_mks_fva_eva_2025,city_merksplas,2025,6229075,,,bbc_jr_realized,src_merksplas_jr2025,strong,FVA EVA/AGB YE2025 6.23m; tick1031
+bud_mks_fva_igs_2025,city_merksplas,2025,7292930,,,bbc_jr_realized,src_merksplas_jr2025,strong,FVA IGS YE2025 7.29m; tick1031
+bud_mks_leasing_mva_2025,city_merksplas,2025,2095839,,,bbc_jr_realized,src_merksplas_jr2025,strong,Leasing MVA YE2025 2.10m; tick1031
+bud_mks_erfgoed_mva_2025,city_merksplas,2025,20841634,,,bbc_jr_realized,src_merksplas_jr2025,strong,Erfgoed MVA YE2025 20.84m JUMP (was 15.84m); invest 5.00m FOI; tick1031
+bud_mks_expl_rec_2025,city_merksplas,2025,19101510,,,bbc_jr_realized,src_merksplas_jr2025,strong,Exploitatieontvangsten 19.10m; tick1031
+bud_mks_expl_exp_2025,city_merksplas,2025,17890820,,,bbc_jr_realized,src_merksplas_jr2025,strong,Exploitatieuitgaven 17.89m; tick1031
+bud_mks_expl_saldo_2025,city_merksplas,2025,1210690,,,bbc_jr_realized,src_merksplas_jr2025,strong,Exploitatiesaldo +1.21m; tick1031
+bud_mks_invest_exp_2025,city_merksplas,2025,7283945,,,bbc_jr_realized,src_merksplas_jr2025,strong,Investeringsuitgaven 7.28m vs MJP 9.56m UNDERSPEND FOI; tick1031
+bud_mks_invest_rec_2025,city_merksplas,2025,2512862,,,bbc_jr_realized,src_merksplas_jr2025,strong,Investeringsontvangsten 2.51m; tick1031
+bud_mks_invest_saldo_2025,city_merksplas,2025,-4771083,,,bbc_jr_realized,src_merksplas_jr2025,strong,Investeringssaldo -4.77m; tick1031
+bud_mks_mjp_invest_planned_2025,city_merksplas,2025,9558062,,,bbc_jr_realized,src_merksplas_jr2025,strong,MJP invest planned 9.56m vs realized 7.28m underspend FOI; tick1031
+bud_mks_afm_2025,city_merksplas,2025,298326,,,bbc_jr_realized,src_merksplas_jr2025,strong,AFM +0.298m LOW-positive FOI residual; tick1031
+bud_mks_afm_corr_2025,city_merksplas,2025,572465,,,bbc_jr_realized,src_merksplas_jr2025,strong,Gecorrigeerde AFM +0.572m; tick1031
+bud_mks_bbr_2025,city_merksplas,2025,3061580,,,bbc_jr_realized,src_merksplas_jr2025,strong,BBR beschikbaar +3.06m; tick1031
+bud_mks_budget_result_2025,city_merksplas,2025,1775590,,,bbc_jr_realized,src_merksplas_jr2025,strong,Budgettair resultaat +1.78m STRONG (loan-driven FOI); tick1031
+bud_mks_cum_br_2025,city_merksplas,2025,3061580,,,bbc_jr_realized,src_merksplas_jr2025,strong,Gecumuleerd budgettair resultaat +3.06m; tick1031
+bud_mks_pnl_2025,city_merksplas,2025,-1918429,,,bbc_jr_realized,src_merksplas_jr2025,strong,P&L -1.92m NEG HIGH FOI (was -1.74m); tick1031
+bud_mks_ge_expl_exp_2025,city_merksplas,2025,14718319,,,bbc_jr_realized,src_merksplas_jr2025,strong,GE exploitatieuitgaven 14.72m; tick1031
+bud_mks_ge_expl_rec_2025,city_merksplas,2025,16978206,,,bbc_jr_realized,src_merksplas_jr2025,strong,GE exploitatieontvangsten 16.98m; tick1031
+bud_mks_ocmw_expl_exp_2025,city_merksplas,2025,3172501,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW exploitatieuitgaven 3.17m FOI; tick1031
+bud_mks_ocmw_expl_rec_2025,city_merksplas,2025,2123304,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW exploitatieontvangsten 2.12m; tick1031
+bud_mks_ocmw_expl_gap_2025,city_merksplas,2025,-1049197,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW expl gap -1.05m HIGH FOI residual; tick1031
+bud_mks_ocmw_cover_2025,city_merksplas,2025,190000,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW cover tussenkomst 0.190m PARTIAL FOI vs gap 1.05m; tick1031
+bud_mks_ocmw_equity_cum_2025,city_merksplas,2025,562721,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW equity cum +0.563m (was +0.514m) with cover; tick1031
+bud_mks_ocmw_pnl_2025,city_merksplas,2025,-141584,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW P&L -0.142m FOI; tick1031
+bud_mks_ge_equity_cum_2025,city_merksplas,2025,-758827,,,bbc_jr_realized,src_merksplas_jr2025,strong,GE equity cum -0.759m DROP FOI (was +1.21m); tick1031
+bud_mks_ge_pnl_2025,city_merksplas,2025,-1776845,,,bbc_jr_realized,src_merksplas_jr2025,strong,GE P&L -1.78m FOI; tick1031
+bud_mks_equity_cum_2025,city_merksplas,2025,-196105,,,bbc_jr_realized,src_merksplas_jr2025,strong,Consol equity cum -0.196m DROP FOI (was +1.72m); tick1031
+bud_mks_personnel_2025,city_merksplas,2025,11331894,,,bbc_jr_realized,src_merksplas_jr2025,strong,Bezoldigingen 11.33m incl education pass-through 2.34m; tick1031
+bud_mks_edu_pass_through_2025,city_merksplas,2025,2344270,,,bbc_jr_realized,src_merksplas_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.34m; tick1031
+bud_mks_toelagen_2025,city_merksplas,2025,2128897,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toegestane werkingssubsidies 2.13m FOI residual; tick1031
+bud_mks_toelagen_police_2025,city_merksplas,2025,817063,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toelage politiezone 0.817m; tick1031
+bud_mks_toelagen_fire_2025,city_merksplas,2025,621125,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toelage hulpverleningszone 0.621m; tick1031
+bud_mks_toelagen_agb_2025,city_merksplas,2025,195732,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toelage AGB 0.196m dual FOI; tick1031
+bud_mks_toelagen_igs_2025,city_merksplas,2025,174328,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toelage IGS 0.174m FOI; tick1031
+bud_mks_toelagen_other_2025,city_merksplas,2025,314416,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toelage andere begunstigden 0.314m FOI; tick1031
+bud_mks_ocmw_aid_2025,city_merksplas,2025,517444,,,bbc_jr_realized,src_merksplas_jr2025,strong,OCMW individuele hulp 0.517m; tick1031
+bud_mks_fiscal_2025,city_merksplas,2025,7116663,,,bbc_jr_realized,src_merksplas_jr2025,strong,Fiscale opbrengsten 7.12m; tick1031
+bud_mks_fiscal_ov_2025,city_merksplas,2025,3241959,,,bbc_jr_realized,src_merksplas_jr2025,strong,Opcentiemen OV 3.24m; tick1031
+bud_mks_fiscal_pb_2025,city_merksplas,2025,3118448,,,bbc_jr_realized,src_merksplas_jr2025,strong,Aanvullende PB 3.12m; tick1031
+bud_mks_gemeentefonds_2025,city_merksplas,2025,2815485,,,bbc_jr_realized,src_merksplas_jr2025,strong,Gemeentefonds 2.82m; tick1031
+bud_mks_interest_2025,city_merksplas,2025,335934,,,bbc_jr_realized,src_merksplas_jr2025,strong,Intresten op schulden 0.336m; tick1031
+bud_mks_invest_subs_granted_2025,city_merksplas,2025,1355529,,,bbc_jr_realized,src_merksplas_jr2025,strong,Toegestane invest-subs 1.36m JUMP HIGH FOI (police 0.615 IGS 0.510 fire 0.131 other 0.100); tick1031
+bud_mks_invest_subs_police_2025,city_merksplas,2025,615231,,,bbc_jr_realized,src_merksplas_jr2025,strong,Invest-subs politiezone 0.615m JUMP FOI; tick1031
+bud_mks_invest_subs_igs_2025,city_merksplas,2025,510000,,,bbc_jr_realized,src_merksplas_jr2025,strong,Invest-subs IGS 0.510m JUMP FOI; tick1031
+bud_mks_erfgoed_invest_2025,city_merksplas,2025,4999333,,,bbc_jr_realized,src_merksplas_jr2025,strong,Erfgoed invest uitgaven 5.00m JUMP FOI residual; tick1031
+bud_mks_agb_bbr_2025,city_merksplas,2025,-302019,,,bbc_jr_realized,src_merksplas_jr2025,strong,AGB BBR -0.302m NEG HIGH dual FOI; tick1031
+bud_mks_agb_afm_2025,city_merksplas,2025,36028,,,bbc_jr_realized,src_merksplas_jr2025,strong,AGB AFM +0.036m dual; tick1031
+bud_mks_agb_afm_corr_2025,city_merksplas,2025,137028,,,bbc_jr_realized,src_merksplas_jr2025,strong,AGB gecorr AFM +0.137m dual; tick1031
