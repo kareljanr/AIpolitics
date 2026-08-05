@@ -21576,3 +21576,46 @@ bud_agw2_werking_rec_2025,agb_wingene,2025,1788517,,,jaarrekening_realized,src_w
 bud_agw2_goederen_2025,agb_wingene,2025,1387927,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Goederen en diensten 1.39m; tick949
 bud_agw2_personnel_2025,agb_wingene,2025,0,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Personeelskosten 0 (no AGB staff); tick949
 bud_agw2_fin_costs_2025,agb_wingene,2025,0,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Financiele kosten 0; tick949
+bud_den_assets_2025,city_dentergem,2025,62523142,,,jaarrekening_realized,src_dentergem_jr2025,strong,Total assets YE2025 62.5m; tick951
+bud_den_equity_2025,city_dentergem,2025,59015153,,,jaarrekening_realized,src_dentergem_jr2025,strong,Nettoactief YE2025 59.0m; tick951
+bud_den_debt_total_2025,city_dentergem,2025,3507989,,,jaarrekening_realized,src_dentergem_jr2025,strong,Total schulden YE2025 3.51m DECLINING (was 4.78m); tick951
+bud_den_fin_debt_2025,city_dentergem,2025,693710,,,jaarrekening_realized,src_dentergem_jr2025,strong,T4 total financiele schulden YE2025 0.694m LOW (LT 0.618 + ST due 0.076); tick951
+bud_den_fin_debt_lt_2025,city_dentergem,2025,618116,,,jaarrekening_realized,src_dentergem_jr2025,strong,Financiele schulden LT YE2025 0.618m; tick951
+bud_den_fin_debt_st_due_2025,city_dentergem,2025,75594,,,jaarrekening_realized,src_dentergem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.076m; tick951
+bud_den_fin_debt_2024,city_dentergem,2025,658535,,,jaarrekening_realized,src_dentergem_jr2025,strong,T4 fin debt YE2024 0.659m comparator; tick951
+bud_den_pension_prov_2025,city_dentergem,2025,1074650,,,jaarrekening_realized,src_dentergem_jr2025,strong,Pensioenvoorzieningen YE2025 1.07m (was 1.28m DROP FOI); tick951
+bud_den_pension_prov_2024,city_dentergem,2025,1279330,,,jaarrekening_realized,src_dentergem_jr2025,strong,Pensioenvoorzieningen YE2024 1.28m; tick951
+bud_den_cash_2025,city_dentergem,2025,15064777,,,jaarrekening_realized,src_dentergem_jr2025,strong,Liquide middelen YE2025 15.1m (was 15.2m); tick951
+bud_den_cash_2024,city_dentergem,2025,15169069,,,jaarrekening_realized,src_dentergem_jr2025,strong,Liquide middelen YE2024 15.2m; tick951
+bud_den_onbeschikbaar_2025,city_dentergem,2025,186667,,,jaarrekening_realized,src_dentergem_jr2025,strong,Onbeschikbare gelden 0.187m FOI; tick951
+bud_den_cap_subs_2025,city_dentergem,2025,4923107,,,jaarrekening_realized,src_dentergem_jr2025,strong,Kapitaalssubsidies YE2025 4.92m; tick951
+bud_den_fva_total_2025,city_dentergem,2025,6702891,,,jaarrekening_realized,src_dentergem_jr2025,strong,Financiele vaste activa YE2025 6.70m; tick951
+bud_den_fva_igs_2025,city_dentergem,2025,5687145,,,jaarrekening_realized,src_dentergem_jr2025,strong,FVA IGS YE2025 5.69m; tick951
+bud_den_mva_2025,city_dentergem,2025,38951035,,,jaarrekening_realized,src_dentergem_jr2025,strong,Materiele vaste activa YE2025 39.0m; tick951
+bud_den_leasing_mva_2025,city_dentergem,2025,1037560,,,jaarrekening_realized,src_dentergem_jr2025,strong,Leasing MVA 1.04m; tick951
+bud_den_expl_rec_2025,city_dentergem,2025,16531382,,,jaarrekening_realized,src_dentergem_jr2025,strong,Exploitatieontvangsten 16.5m; tick951
+bud_den_expl_exp_2025,city_dentergem,2025,13557276,,,jaarrekening_realized,src_dentergem_jr2025,strong,Exploitatieuitgaven 13.6m; tick951
+bud_den_expl_saldo_2025,city_dentergem,2025,2974106,,,jaarrekening_realized,src_dentergem_jr2025,strong,Exploitatiesaldo +2.97m; tick951
+bud_den_invest_exp_2025,city_dentergem,2025,2456682,,,jaarrekening_realized,src_dentergem_jr2025,strong,Investeringsuitgaven 2.46m (MJP 4.64m underspend FOI); tick951
+bud_den_invest_rec_2025,city_dentergem,2025,235433,,,jaarrekening_realized,src_dentergem_jr2025,strong,Investeringsontvangsten 0.24m; tick951
+bud_den_invest_saldo_2025,city_dentergem,2025,-2221248,,,jaarrekening_realized,src_dentergem_jr2025,strong,Investeringssaldo -2.22m; tick951
+bud_den_mjp_invest_planned_2025,city_dentergem,2025,4635013,,,jaarrekening_realized,src_dentergem_jr2025,strong,MJP planned invest 4.64m vs realized 2.46m FOI; tick951
+bud_den_new_loans_2025,city_dentergem,2025,119071,,,jaarrekening_realized,src_dentergem_jr2025,strong,Nieuwe leningen 0.119m FOI (lease/other); tick951
+bud_den_aflossingen_2025,city_dentergem,2025,83896,,,jaarrekening_realized,src_dentergem_jr2025,strong,Periodieke aflossingen 0.084m; tick951
+bud_den_afm_2025,city_dentergem,2025,2890210,,,jaarrekening_realized,src_dentergem_jr2025,strong,AFM +2.89m; tick951
+bud_den_afm_corr_2025,city_dentergem,2025,2921423,,,jaarrekening_realized,src_dentergem_jr2025,strong,Gecorrigeerde AFM +2.92m; tick951
+bud_den_bbr_2025,city_dentergem,2025,14973051,,,jaarrekening_realized,src_dentergem_jr2025,strong,Beschikbaar budgettair resultaat 15.0m; tick951
+bud_den_budget_result_2025,city_dentergem,2025,788032,,,jaarrekening_realized,src_dentergem_jr2025,strong,Budgettair resultaat boekjaar +0.79m; tick951
+bud_den_cum_br_2025,city_dentergem,2025,15159718,,,jaarrekening_realized,src_dentergem_jr2025,strong,Gecumuleerd budgettair resultaat 15.2m; tick951
+bud_den_pnl_result_2025,city_dentergem,2025,1012931,,,jaarrekening_realized,src_dentergem_jr2025,strong,P&L boekjaar +1.01m; tick951
+bud_den_personnel_2025,city_dentergem,2025,7911788,,,jaarrekening_realized,src_dentergem_jr2025,strong,Personeelskosten 7.91m; tick951
+bud_den_toelagen_2025,city_dentergem,2025,1293315,,,jaarrekening_realized,src_dentergem_jr2025,strong,Toegestane werkingssubsidies 1.29m FOI named; tick951
+bud_den_toelagen_police_2025,city_dentergem,2025,790187,,,jaarrekening_realized,src_dentergem_jr2025,strong,Toelagen politiezone 0.79m; tick951
+bud_den_toelagen_hvz_2025,city_dentergem,2025,204230,,,jaarrekening_realized,src_dentergem_jr2025,strong,Toelagen HVZ 0.20m; tick951
+bud_den_toelagen_other_2025,city_dentergem,2025,189588,,,jaarrekening_realized,src_dentergem_jr2025,strong,Toelagen andere 0.19m FOI; tick951
+bud_den_invest_subs_granted_2025,city_dentergem,2025,336172,,,jaarrekening_realized,src_dentergem_jr2025,strong,Toegestane investeringssubsidies 0.336m FOI JUMP; tick951
+bud_den_ocmw_aid_2025,city_dentergem,2025,277311,,,jaarrekening_realized,src_dentergem_jr2025,strong,Individuele hulpverlening OCMW 0.28m; tick951
+bud_den_ocmw_tekort_tussenkomst_2025,city_dentergem,2025,737248,,,jaarrekening_realized,src_dentergem_jr2025,strong,Tussenkomst tekort OCMW 0.737m FOI; tick951
+bud_den_fiscal_2025,city_dentergem,2025,6856554,,,jaarrekening_realized,src_dentergem_jr2025,strong,Fiscale opbrengsten 6.86m; tick951
+bud_den_fin_costs_2025,city_dentergem,2025,12392,,,jaarrekening_realized,src_dentergem_jr2025,strong,Financiele kosten 0.012m; tick951
+bud_den_goederen_2025,city_dentergem,2025,3141980,,,jaarrekening_realized,src_dentergem_jr2025,strong,Goederen en diensten 3.14m; tick951

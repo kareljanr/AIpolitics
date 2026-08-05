@@ -12067,3 +12067,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md snapshot@950; doge_waste_top10_current.md as-of 950; rq_950=done; spawn **rq_951** hole_fill; ticks=950
 - FOI: no new gap this tick (progress only) - **do not send**
 - Next: prio5 **rq_951** residual dual L5; deferred **rq_116**; progress@960 in 10
+
+
+### Tick 951 - 2026-08-08T00:15:00Z
+
+- Unit: **rq_951** (FOI-adjacent residual dual - **Gemeente+OCMW Dentergem Jaarrekening 2025** + AGB Wingene dual residual)
+- Found (strong primary BBC JR2025 150p; KBO 0207.434.203 / OCMW 0212.245.995; GR/RMW 17.06.2026):
+  - Assets **EUR62.5m** / equity **EUR59.0m** / debt total **EUR3.51m** / fin debt **EUR0.694m** (**LOW**; LT **EUR0.618m** / ST due **EUR0.076m**)
+  - New loans **EUR0.119m** / repayments **EUR0.084m**
+  - Cash **EUR15.1m** / pension **EUR1.07m was EUR1.28m DROP FOI** / onbeschikbaar **EUR0.187m FOI**
+  - Exploitatie: ontvangsten **EUR16.5m** / uitgaven **EUR13.6m** / saldo **+EUR2.97m**
+  - AFM **+EUR2.89m** (gecorr **+EUR2.92m**) / BBR **EUR15.0m** / budget **+EUR0.79m** / P&L **+EUR1.01m**
+  - Personnel **EUR7.91m** / toelagen **EUR1.29m** (police **EUR0.79m** / HVZ **EUR0.20m**)
+  - Invest **EUR2.46m** vs MJP **EUR4.64m underspend FOI** / invest-subs **EUR0.336m JUMP FOI** / OCMW cover **EUR0.737m FOI** / fiscal **EUR6.86m**
+  - Debt per inwoner only **EUR80**
+- Dual: AGB Wingene **EUR8.2m** / zero debt / prijssubsidies **EUR1.34m** (tick949) - not TE-additive
+- Wrote: budgets +43 (bud_den_*); commitments +4; leaderboard +7; sources +2; entity city_dentergem; FOI **gap_den_invest_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~11MB not stored); rq_951=done; spawn **rq_952**; ticks=951
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_952** residual dual L5 (Torhout / Roeselare / Oostrozebeke / Meulebeke / other unmined VL JR2025); deferred **rq_116**; progress@960 in 9

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T23:45:00Z,rq_950,950,no,tick950 progress@950 coverage % + waste top10 after VL residual 941-949; FOI ready ~637; next residual dual L5 rq_951; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T00:15:00Z,rq_951,951,no,tick951 Dentergem JR2025 dual residual; FOI gap_den_invest_ocmw_toelagen_l5 prio8 assets 62.5m fin debt 0.69m cash 15.1m OCMW 0.74m; next residual dual L5 rq_952; rq_116 deferred
