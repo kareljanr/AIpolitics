@@ -12826,3 +12826,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_992** residual dual L5 (AGB Nieuwpoort Vrije Tijd preferred / Torhout / Meulebeke); deferred **rq_116**; progress@1000 in 9
 
+
+### Tick 992 - 2026-08-09T09:15:00Z
+
+- Unit: **rq_992** (FOI-adjacent residual dual Entity II - **AGB Vrije Tijd Nieuwpoort Jaarrekening 2025** + city_nieuwpoort dual residual)
+- Found (strong primary BBC JR2025 193p; KBO 0894.194.401; FD Inge De Bille; AD wnd Jolien Depondt; Marktplein 7):
+  - Assets **EUR5.83m** / equity **EUR0.279m THIN FOI** / debt total **EUR5.55m** / fin debt **EUR4.48m** (**DECLINING** from **EUR5.21m**; LT **EUR3.67m** / ST due **EUR0.809m**)
+  - New loans **EUR0.155m** / repayments **EUR0.882m** (heavy debt service)
+  - Cash **EUR0.840m JUMP** (was **EUR0.745m**) / pension **EUR0** / cap subs **EUR0.092m** / bedrijfs MVA **EUR3.55m** (zwembad FOI)
+  - Exploitatie: ontvangsten **EUR2.91m** / uitgaven **EUR1.91m** / saldo **+EUR1.00m STRONG**
+  - AFM **+EUR0.122m thin FOI** (gecorr **+EUR0.588m**; better than budget -0.064m) / BBR **EUR0.816m** / budget **+EUR0.044m thin** / P&L **+EUR0.234m**
+  - **Prijssubsidie stad EUR2.18m dual FOI** (city toelage line **EUR2.27m** recon FOI) / **dividend stad EUR0.047m dual FOI**
+  - Personnel **EUR0** (no own staff; city detach FOI) / goederen **EUR1.64m** / interest **EUR0.181m**
+  - Invest **EUR0.233m** slight underspend vs MJP
+- Dual: city_nieuwpoort **EUR190m** / OCMW cover **EUR3.25m PARTIAL** / AGB toelage **EUR2.27m** (tick991) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF; AGB De Panne image-only this tick
+- Wrote: budgets +34 (bud_agbnp_*); commitments +5; leaderboard +7; sources +1; entity agb_nieuwpoort_vrije_tijd; FOI **gap_agbnp_prijssubsidie_debt_afm_detach_l5** prio8 ready + draft; key only (PDF ~15MB not stored in git); rq_992=done; spawn **rq_993**; ticks=992
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_993** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 8
+

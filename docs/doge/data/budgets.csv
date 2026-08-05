@@ -23313,3 +23313,37 @@ bud_nie_revenue_j5_2025,city_nieuwpoort,2025,60441020,,,realized,src_nieuwpoort_
 bud_nie_mjp_invest_exp_2025,city_nieuwpoort,2025,22903712,,,realized,src_nieuwpoort_jr2025,strong,MJP investeringsuitgaven 22.90m (realized 7.40m underspend FOI); tick991
 bud_nie_minwaarde_2025,city_nieuwpoort,2025,1620102,,,realized,src_nieuwpoort_jr2025,strong,Minderwaarden realisatie VA 1.62m FOI residual; tick991
 bud_nie_prijssubsidie_agb_note_2025,city_nieuwpoort,2025,2435263,,,realized,src_nieuwpoort_jr2025,strong,Sport prijssubsidies AGB line note 2.44m FOI dual residual; tick991
+bud_agbnp_assets_2025,agb_nieuwpoort_vrije_tijd,2025,5833194,,,realized,src_agb_nieuwpoort_jr2025,strong,Assets YE2025 5.83m; tick992
+bud_agbnp_equity_2025,agb_nieuwpoort_vrije_tijd,2025,279133,,,realized,src_agb_nieuwpoort_jr2025,strong,Nettoactief YE2025 0.279m THIN FOI; tick992
+bud_agbnp_debt_total_2025,agb_nieuwpoort_vrije_tijd,2025,5554061,,,realized,src_agb_nieuwpoort_jr2025,strong,Total schulden YE2025 5.55m; tick992
+bud_agbnp_fin_debt_2025,agb_nieuwpoort_vrije_tijd,2025,4480542,,,realized,src_agb_nieuwpoort_jr2025,strong,Fin debt total YE2025 4.48m DECLINING (was 5.21m); tick992
+bud_agbnp_fin_debt_lt_2025,agb_nieuwpoort_vrije_tijd,2025,3671995,,,realized,src_agb_nieuwpoort_jr2025,strong,Fin debt LT YE2025 3.67m; tick992
+bud_agbnp_fin_debt_st_due_2025,agb_nieuwpoort_vrije_tijd,2025,808547,,,realized,src_agb_nieuwpoort_jr2025,strong,Fin debt ST due YE2025 0.809m; tick992
+bud_agbnp_new_loans_2025,agb_nieuwpoort_vrije_tijd,2025,155269,,,realized,src_agb_nieuwpoort_jr2025,strong,Nieuwe leningen 0.155m FOI; tick992
+bud_agbnp_repayments_2025,agb_nieuwpoort_vrije_tijd,2025,881969,,,realized,src_agb_nieuwpoort_jr2025,strong,Periodieke aflossingen 0.882m; tick992
+bud_agbnp_cash_2025,agb_nieuwpoort_vrije_tijd,2025,840276,,,realized,src_agb_nieuwpoort_jr2025,strong,Liquide middelen YE2025 0.840m JUMP (was 0.745m); tick992
+bud_agbnp_cap_subs_2025,agb_nieuwpoort_vrije_tijd,2025,92085,,,realized,src_agb_nieuwpoort_jr2025,strong,Kapitaalsubsidies YE2025 0.092m; tick992
+bud_agbnp_expl_rec_2025,agb_nieuwpoort_vrije_tijd,2025,2911681,,,realized,src_agb_nieuwpoort_jr2025,strong,Exploitatieontvangsten 2.91m; tick992
+bud_agbnp_expl_exp_2025,agb_nieuwpoort_vrije_tijd,2025,1907529,,,realized,src_agb_nieuwpoort_jr2025,strong,Exploitatieuitgaven 1.91m; tick992
+bud_agbnp_expl_saldo_2025,agb_nieuwpoort_vrije_tijd,2025,1004152,,,realized,src_agb_nieuwpoort_jr2025,strong,Exploitatiesaldo +1.00m STRONG; tick992
+bud_agbnp_invest_exp_2025,agb_nieuwpoort_vrije_tijd,2025,233033,,,realized,src_agb_nieuwpoort_jr2025,strong,Investeringsuitgaven 0.233m vs MJP 0.254m slight underspend FOI; tick992
+bud_agbnp_invest_rec_2025,agb_nieuwpoort_vrije_tijd,2025,0,,,realized,src_agb_nieuwpoort_jr2025,strong,Investeringsontvangsten 0; tick992
+bud_agbnp_invest_saldo_2025,agb_nieuwpoort_vrije_tijd,2025,-233033,,,realized,src_agb_nieuwpoort_jr2025,strong,Investeringssaldo -0.233m; tick992
+bud_agbnp_fin_rec_2025,agb_nieuwpoort_vrije_tijd,2025,155269,,,realized,src_agb_nieuwpoort_jr2025,strong,Financieringsontvangsten 0.155m; tick992
+bud_agbnp_fin_exp_2025,agb_nieuwpoort_vrije_tijd,2025,881969,,,realized,src_agb_nieuwpoort_jr2025,strong,Financieringsuitgaven 0.882m; tick992
+bud_agbnp_budget_result_2025,agb_nieuwpoort_vrije_tijd,2025,44418,,,realized,src_agb_nieuwpoort_jr2025,strong,Budgettair resultaat +0.044m thin FOI; tick992
+bud_agbnp_cum_budget_2025,agb_nieuwpoort_vrije_tijd,2025,816080,,,realized,src_agb_nieuwpoort_jr2025,strong,Gecumuleerd budgettair resultaat 0.816m; tick992
+bud_agbnp_bbr_2025,agb_nieuwpoort_vrije_tijd,2025,816080,,,realized,src_agb_nieuwpoort_jr2025,strong,Beschikbaar BBR 0.816m; tick992
+bud_agbnp_afm_2025,agb_nieuwpoort_vrije_tijd,2025,122183,,,realized,src_agb_nieuwpoort_jr2025,strong,AFM +0.122m thin FOI (better than budget -0.064m); tick992
+bud_agbnp_afm_corr_2025,agb_nieuwpoort_vrije_tijd,2025,587572,,,realized,src_agb_nieuwpoort_jr2025,strong,Gecorrigeerde AFM +0.588m; tick992
+bud_agbnp_pnl_2025,agb_nieuwpoort_vrije_tijd,2025,233809,,,realized,src_agb_nieuwpoort_jr2025,strong,P&L +0.234m (profit); tick992
+bud_agbnp_dividend_city_2025,agb_nieuwpoort_vrije_tijd,2025,46762,,,realized,src_agb_nieuwpoort_jr2025,strong,Uitgekeerde winst/dividend stad 0.047m dual FOI; tick992
+bud_agbnp_prijssubsidie_2025,agb_nieuwpoort_vrije_tijd,2025,2177165,,,realized,src_agb_nieuwpoort_jr2025,strong,Prijssubsidie gemeente 2.18m dual FOI residual; tick992
+bud_agbnp_personnel_2025,agb_nieuwpoort_vrije_tijd,2025,0,,,realized,src_agb_nieuwpoort_jr2025,strong,Bezoldigingen 0 (no own staff; city detach FOI); tick992
+bud_agbnp_goederen_2025,agb_nieuwpoort_vrije_tijd,2025,1640860,,,realized,src_agb_nieuwpoort_jr2025,strong,Goederen en diensten J5 1.64m FOI; tick992
+bud_agbnp_interest_2025,agb_nieuwpoort_vrije_tijd,2025,180688,,,realized,src_agb_nieuwpoort_jr2025,strong,Rente 0.181m FOI; tick992
+bud_agbnp_costs_j5_2025,agb_nieuwpoort_vrije_tijd,2025,2701465,,,realized,src_agb_nieuwpoort_jr2025,strong,J5 total kosten 2.70m; tick992
+bud_agbnp_revenue_j5_2025,agb_nieuwpoort_vrije_tijd,2025,2935274,,,realized,src_agb_nieuwpoort_jr2025,strong,J5 total opbrengsten 2.94m; tick992
+bud_agbnp_werking_rec_2025,agb_nieuwpoort_vrije_tijd,2025,2909395,,,realized,src_agb_nieuwpoort_jr2025,strong,Ontvangsten uit de werking T2 2.91m (incl prijssubsidie mix FOI); tick992
+bud_agbnp_stock_2025,agb_nieuwpoort_vrije_tijd,2025,33804,,,realized,src_agb_nieuwpoort_jr2025,strong,Voorraden YE2025 0.034m; tick992
+bud_agbnp_mva_bedrijfs_2025,agb_nieuwpoort_vrije_tijd,2025,3547000,,,realized,src_agb_nieuwpoort_jr2025,strong,Bedrijfsmatige MVA YE2025 3.55m (zwembad/infra FOI); tick992
