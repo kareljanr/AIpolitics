@@ -22506,3 +22506,57 @@ bud_oor_classic_loans_residual_2025,city_oostrozebeke,2025,11645687,,,realized,s
 bud_oor_costs_j5_2025,city_oostrozebeke,2025,21422440,,,realized,src_oostrozebeke_jr2025,strong,J5 total kosten 21.4m; tick971
 bud_oor_revenue_j5_2025,city_oostrozebeke,2025,21126717,,,realized,src_oostrozebeke_jr2025,strong,J5 total opbrengsten 21.1m; tick971
 bud_oor_invest_carryover_2026,city_oostrozebeke,2025,884336,,,realized,src_oostrozebeke_jr2025,strong,Invest carryover to 2026 0.884m FOI; tick971
+bud_zwe_assets_2025,city_zwevegem,2025,198906137,,,realized,src_zwevegem_jr2025,strong,Total assets YE2025 198.9m; tick972
+bud_zwe_equity_2025,city_zwevegem,2025,137925430,,,realized,src_zwevegem_jr2025,strong,Nettoactief YE2025 137.9m; tick972
+bud_zwe_debt_total_2025,city_zwevegem,2025,60980708,,,realized,src_zwevegem_jr2025,strong,Total schulden YE2025 61.0m; tick972
+bud_zwe_fin_debt_2025,city_zwevegem,2025,37855310,,,realized,src_zwevegem_jr2025,strong,Fin debt YE2025 37.9m RISING from 33.5m; tick972
+bud_zwe_fin_debt_lt_2025,city_zwevegem,2025,34052095,,,realized,src_zwevegem_jr2025,strong,Fin debt LT 34.1m; tick972
+bud_zwe_fin_debt_st_due_2025,city_zwevegem,2025,3803216,,,realized,src_zwevegem_jr2025,strong,Fin debt ST due 3.80m; tick972
+bud_zwe_fin_debt_2024,city_zwevegem,2025,33479904,,,realized,src_zwevegem_jr2025,strong,Fin debt YE2024 33.5m; tick972
+bud_zwe_new_loans_2025,city_zwevegem,2025,8305838,,,realized,src_zwevegem_jr2025,strong,New loans 8.31m LARGE FOI project list; tick972
+bud_zwe_aflossingen_2025,city_zwevegem,2025,3930432,,,realized,src_zwevegem_jr2025,strong,Periodieke aflossingen 3.93m; tick972
+bud_zwe_cash_2025,city_zwevegem,2025,9515805,,,realized,src_zwevegem_jr2025,strong,Liquide middelen 9.52m JUMP from 3.35m FOI; tick972
+bud_zwe_cash_2024,city_zwevegem,2025,3349110,,,realized,src_zwevegem_jr2025,strong,Liquide middelen YE2024 3.35m; tick972
+bud_zwe_pension_prov_2025,city_zwevegem,2025,14575455,,,realized,src_zwevegem_jr2025,strong,Pensioenvoorzieningen 14.6m DECLINING FOI; tick972
+bud_zwe_pension_prov_2024,city_zwevegem,2025,16200042,,,realized,src_zwevegem_jr2025,strong,Pensioenvoorzieningen YE2024 16.2m; tick972
+bud_zwe_prov_st_2025,city_zwevegem,2025,2623892,,,realized,src_zwevegem_jr2025,strong,Voorzieningen ST 2.62m; tick972
+bud_zwe_fva_total_2025,city_zwevegem,2025,19931659,,,realized,src_zwevegem_jr2025,strong,FVA total 19.9m; tick972
+bud_zwe_fva_igs_2025,city_zwevegem,2025,15635651,,,realized,src_zwevegem_jr2025,strong,FVA IGS 15.6m; tick972
+bud_zwe_mva_2025,city_zwevegem,2025,154918669,,,realized,src_zwevegem_jr2025,strong,MVA total 154.9m; tick972
+bud_zwe_leasing_mva_2025,city_zwevegem,2025,7161163,,,realized,src_zwevegem_jr2025,strong,Leasing MVA total 7.16m FOI (gemeenschap 5.40 + bedrijfs 1.76); tick972
+bud_zwe_cap_subs_2025,city_zwevegem,2025,29996831,,,realized,src_zwevegem_jr2025,strong,Kapitaalsubsidies 30.0m; tick972
+bud_zwe_cum_pnl_2025,city_zwevegem,2025,26318099,,,realized,src_zwevegem_jr2025,strong,Gecumuleerd overschot 26.3m; tick972
+bud_zwe_expl_rec_2025,city_zwevegem,2025,70198114,,,realized,src_zwevegem_jr2025,strong,Exploitatieontvangsten 70.2m; tick972
+bud_zwe_expl_exp_2025,city_zwevegem,2025,60444898,,,realized,src_zwevegem_jr2025,strong,Exploitatieuitgaven 60.4m; tick972
+bud_zwe_expl_saldo_2025,city_zwevegem,2025,9753217,,,realized,src_zwevegem_jr2025,strong,Exploitatiesaldo +9.75m; tick972
+bud_zwe_invest_exp_2025,city_zwevegem,2025,9429131,,,realized,src_zwevegem_jr2025,strong,Investeringsuitgaven 9.43m underspend vs MJP 11.7m FOI ~48pct; tick972
+bud_zwe_invest_rec_2025,city_zwevegem,2025,1131018,,,realized,src_zwevegem_jr2025,strong,Investeringsontvangsten 1.13m; tick972
+bud_zwe_invest_saldo_2025,city_zwevegem,2025,8298113,,,realized,src_zwevegem_jr2025,strong,Investeringssaldo -8.30m abs; tick972
+bud_zwe_invest_mjp_2025,city_zwevegem,2025,11724388,,,realized,src_zwevegem_jr2025,strong,MJP invest exp 11.7m (underspend residual); tick972
+bud_zwe_afm_2025,city_zwevegem,2025,6167329,,,realized,src_zwevegem_jr2025,strong,AFM +6.17m STRONG; tick972
+bud_zwe_afm_corr_2025,city_zwevegem,2025,7419368,,,realized,src_zwevegem_jr2025,strong,Gecorr AFM +7.42m; tick972
+bud_zwe_bbr_2025,city_zwevegem,2025,10584346,,,realized,src_zwevegem_jr2025,strong,BBR 10.6m; tick972
+bud_zwe_budget_result_2025,city_zwevegem,2025,6079310,,,realized,src_zwevegem_jr2025,strong,Budgettair resultaat +6.08m; tick972
+bud_zwe_pnl_result_2025,city_zwevegem,2025,6397997,,,realized,src_zwevegem_jr2025,strong,P&L overschot +6.40m; tick972
+bud_zwe_personnel_2025,city_zwevegem,2025,36583892,,,realized,src_zwevegem_jr2025,strong,Bezoldigingen 36.6m; tick972
+bud_zwe_toelagen_2025,city_zwevegem,2025,7342943,,,realized,src_zwevegem_jr2025,strong,Toegestane werkingssubsidies 7.34m FOI named; tick972
+bud_zwe_toelagen_police_2025,city_zwevegem,2025,2692903,,,realized,src_zwevegem_jr2025,strong,Toelage PZ MIRA 2.69m; tick972
+bud_zwe_toelagen_imog_2025,city_zwevegem,2025,1329199,,,realized,src_zwevegem_jr2025,strong,Toelage IMOG 1.33m; tick972
+bud_zwe_toelagen_hvz_2025,city_zwevegem,2025,796860,,,realized,src_zwevegem_jr2025,strong,Toelage HVZ Fluvia 0.797m; tick972
+bud_zwe_toelagen_kerk_2025,city_zwevegem,2025,198020,,,realized,src_zwevegem_jr2025,strong,Toelage erediensten 0.198m; tick972
+bud_zwe_invest_subs_granted_2025,city_zwevegem,2025,271905,,,realized,src_zwevegem_jr2025,strong,Toegestane invest-subs 0.272m; tick972
+bud_zwe_ocmw_aid_2025,city_zwevegem,2025,2203299,,,realized,src_zwevegem_jr2025,strong,Individuele hulpverlening OCMW 2.20m; tick972
+bud_zwe_ocmw_cover_2025,city_zwevegem,2025,1750000,,,realized,src_zwevegem_jr2025,strong,OCMW tussenkomst 1.75m FOI residual; tick972
+bud_zwe_fiscal_2025,city_zwevegem,2025,25259287,,,realized,src_zwevegem_jr2025,strong,Fiscale opbrengsten 25.3m; tick972
+bud_zwe_fin_costs_2025,city_zwevegem,2025,1179082,,,realized,src_zwevegem_jr2025,strong,Financiele kosten J5 1.18m; tick972
+bud_zwe_goederen_2025,city_zwevegem,2025,12846351,,,realized,src_zwevegem_jr2025,strong,Goederen en diensten 12.8m; tick972
+bud_zwe_financing_saldo_2025,city_zwevegem,2025,4624206,,,realized,src_zwevegem_jr2025,strong,Financieringssaldo +4.62m; tick972
+bud_zwe_agb_bbr_neg_2025,city_zwevegem,2025,124625,,,realized,src_zwevegem_jr2025,strong,AGB Zwevegem BBR -0.125m dual FOI abs; tick972
+bud_zwe_agb_afm_neg_2025,city_zwevegem,2025,20517,,,realized,src_zwevegem_jr2025,strong,AGB Zwevegem AFM -0.021m dual FOI abs; tick972
+bud_zwe_agb_afm_corr_neg_2025,city_zwevegem,2025,232911,,,realized,src_zwevegem_jr2025,strong,AGB Zwevegem gecorr AFM -0.233m NEG dual FOI abs; tick972
+bud_zwe_mjp_fin_debt_2026,city_zwevegem,2025,39174594,,,realized,src_zwevegem_jr2025,strong,MJP fin debt YE2026 39.2m JUMP FOI; tick972
+bud_zwe_mjp_fin_debt_2027,city_zwevegem,2025,43682690,,,realized,src_zwevegem_jr2025,strong,MJP fin debt YE2027 43.7m JUMP FOI; tick972
+bud_zwe_lago_loan_2025,city_zwevegem,2025,1537203,,,realized,src_zwevegem_jr2025,strong,Lening S&R Lago Kortrijk-Zwevegem 1.54m FOI risk; tick972
+bud_zwe_costs_j5_2025,city_zwevegem,2025,65845044,,,realized,src_zwevegem_jr2025,strong,J5 total kosten 65.8m; tick972
+bud_zwe_revenue_j5_2025,city_zwevegem,2025,72243041,,,realized,src_zwevegem_jr2025,strong,J5 total opbrengsten 72.2m; tick972
+bud_zwe_onbeschikbaar_2025,city_zwevegem,2025,239618,,,realized,src_zwevegem_jr2025,strong,Onbeschikbare gelden 0.240m; tick972

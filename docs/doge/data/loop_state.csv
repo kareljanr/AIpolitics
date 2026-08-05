@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T20:00:00Z,rq_971,971,no,tick971 Oostrozebeke GE+OCMW JR2025 dual residual; FOI gap_oor_ocmw_pension_toelagen_invest_l5 prio8 assets 72m fin debt 12.5m declining cash 9.13m OCMW cover 1.06m pension 5.88m rising; next residual dual L5 rq_972; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T21:00:00Z,rq_972,972,no,tick972 Zwevegem GE+OCMW JR2025 dual residual; FOI gap_zwe_debt_ocmw_agb_invest_l5 prio8 assets 198.9m fin debt 37.9m RISING +loan 8.31m cash 9.52m JUMP OCMW cover 1.75m AGB AFM corr neg MJP debt JUMP 43.7m; next residual dual L5 rq_973 AGB Zwevegem preferred; rq_116 deferred

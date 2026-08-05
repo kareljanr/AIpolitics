@@ -12464,3 +12464,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_972** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 9
 
+
+### Tick 972 - 2026-08-08T21:00:00Z
+
+- Unit: **rq_972** (FOI-adjacent residual dual - **Gemeente+OCMW Zwevegem Jaarrekening 2025** + Oostrozebeke dual residual + AGB Zwevegem Entity II)
+- Found (strong primary BBC JR2025 465p; GR 18.05.2026 LBLOD; AGB dual in J2 consol):
+  - Assets **EUR198.9m** / equity **EUR137.9m** / debt total **EUR61.0m** / fin debt **EUR37.9m** (**RISING** from **EUR33.5m**; LT **EUR34.1m** / ST due **EUR3.80m**)
+  - New loans **EUR8.31m LARGE** / repayments **EUR3.93m**
+  - Cash **EUR9.52m JUMP** (was **EUR3.35m**) / pension **EUR14.6m DECLINING** / leasing MVA **EUR7.16m FOI** / FVA IGS **EUR15.6m**
+  - Exploitatie: ontvangsten **EUR70.2m** / uitgaven **EUR60.4m** / saldo **+EUR9.75m**
+  - AFM **+EUR6.17m STRONG** (gecorr **+EUR7.42m**) / BBR **EUR10.6m** / budget **+EUR6.08m** / P&L **+EUR6.40m**
+  - **AGB dual**: BBR **-EUR0.125m** / AFM **-EUR0.021m** / **gecorr AFM -EUR0.233m NEG FOI**
+  - Personnel **EUR36.6m** / toelagen **EUR7.34m** (PZ MIRA **EUR2.69m** / IMOG **EUR1.33m** / HVZ **EUR0.80m**)
+  - Invest **EUR9.43m** vs MJP **EUR11.7m underspend FOI** (~47.9pct) / **OCMW cover EUR1.75m FOI**
+  - Lago loan **EUR1.54m FOI** / MJP fin debt planned **EUR39.2m (2026) / EUR43.7m (2027) JUMP FOI**
+- Dual: Oostrozebeke **EUR72.0m** / fin debt **EUR12.5m declining** / OCMW cover **EUR1.06m** / pension rising (tick971) - not TE-additive
+- Note: Ledegem/Torhout/Meulebeke/WZBW still no extractable full JR2025 this tick; AGB Zwevegem PDF public next residual
+- Wrote: budgets +54 (bud_zwe_*); commitments +5; leaderboard +7; sources +1; entity city_zwevegem; FOI **gap_zwe_debt_ocmw_agb_invest_l5** prio8 ready + draft; key only (PDFs not stored in git); rq_972=done; spawn **rq_973**; ticks=972
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_973** residual dual L5 (AGB Zwevegem preferred / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@980 in 8
+
