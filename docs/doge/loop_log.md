@@ -15364,3 +15364,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress@1120 files; budgets +25 (bud_lanagb_*); commitments +7; leaderboard +8; sources +1; entities city_lanaken + agb_lanaken; FOI **gap_lanagb_afm_dividend_toelagen_l5** prio9 ready + draft; PDF primary (not committed ~6.8MB); rq_1120=done; spawn **rq_1121**; ticks=1120
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1121** residual dual L5; deferred **rq_116**; progress@1130 in 10
+
+### Tick 1120 - 2026-08-12T01:30:00Z
+
+- Unit: **rq_1120** (mandatory **progress@1120** decade refresh + FOI-adjacent residual dual - **AGB Lanaken Jaarrekening 2025** Entity II)
+- Progress@1120: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md
+  - A/B **100%** · C **~99%** OoM · D **~74-88%** generous TE · FOI ready **~766** / answered ~9 / partial ~27 / total ~808
+  - Inventory: budgets ~29534 · commitments ~3732 · leaderboard ~5732 · entities ~841 · sources ~2030
+  - Pure annual waste top10 **stable** (GIP #1; fossil/cars/cheque/reporte #2-10)
+  - Gain 1111-1120: coastal+airport dual stack; OCMW DEEP (Zaventem -23.9m); toelagen MASSIVE (Knokke 35.7m / Zaventem 17.3m); AGB debt/cash/dividend extremes; city-AGB loans (Kalmthout 5.32m)
+- Found AGB Lanaken (strong primary BBC JR2025; KBO 0871.907.561):
+  - Assets **EUR6.524m** / cash **EUR0.257m** / fin debt **EUR2.235m DECLINE**
+  - AFM **-EUR0.105m NEG** / BBR **EUR0.269m** / budget **-EUR0.129m** / dividend **EUR0.050m** despite P&L loss
+  - Toelagen out **EUR0.407m** / werkingssub in **EUR0.367m**
+- Dual: Zaventem AGB cash CRITICAL / debt MASSIVE (tick1119) - not TE-additive
+- Wrote: progress decade files; budgets bud_lanagb_*; entities city_lanaken + agb_lanaken; FOI **gap_lanagb_afm_dividend_toelagen_l5** prio9 ready + draft; rq_1120=done; spawn **rq_1121**; ticks=1120
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1121** residual dual L5; deferred **rq_116**; progress@1130 in 10
