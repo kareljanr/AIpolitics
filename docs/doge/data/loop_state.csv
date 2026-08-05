@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T00:15:00Z,rq_976,976,no,tick976 Ingelmunster GE+OCMW JR2025 dual residual; FOI gap_ing_ocmw_cover_toelagen_invest_l5 prio8 assets 78.8m fin debt 7.10m declining cash 13.7m AFM +3.61m budget -1.25m OCMW cover 3.0m toelagen 3.36m sportpark 4.30m; next residual dual L5 rq_977; rq_116 deferred
+main,continuous,hole_fill,2026-08-09T01:00:00Z,rq_977,977,no,tick977 Zorg Tielt JR2025 Entity II dual residual; FOI gap_zt_debt_ocmw_detach_sloop_l5 prio8 assets 15.4m fin debt 4.49m RISING +loan 2.335m cash 2.16m AFM +0.360m P&L -0.397m sloop 0.511m OCMW subs 2.43m personnel 8.78m detach 3.12m; next residual dual L5 rq_978; rq_116 deferred

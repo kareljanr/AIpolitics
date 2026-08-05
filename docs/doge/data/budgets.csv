@@ -22734,3 +22734,45 @@ bud_ing_mjp_fin_debt_2026,city_ingelmunster,2025,6488026,,,realized,src_ingelmun
 bud_ing_costs_j5_2025,city_ingelmunster,2025,22849520,,,realized,src_ingelmunster_jr2025,strong,J5 total kosten 22.8m; tick976
 bud_ing_revenue_j5_2025,city_ingelmunster,2025,24906941,,,realized,src_ingelmunster_jr2025,strong,J5 total opbrengsten 24.9m; tick976
 bud_ing_boost_carry_2025,city_ingelmunster,2025,121036,,,realized,src_ingelmunster_jr2025,strong,BOOST BOA carryover 0.121m overlopend passief FOI; tick976
+bud_zt_assets_2025,zorg_tielt,2025,15362720,,,realized,src_zorg_tielt_jr2025,strong,Assets YE2025 15.4m (was 13.5m); tick977
+bud_zt_equity_2025,zorg_tielt,2025,9478802,,,realized,src_zorg_tielt_jr2025,strong,Nettoactief YE2025 9.48m (was 9.78m DROP); tick977
+bud_zt_debt_total_2025,zorg_tielt,2025,5883918,,,realized,src_zorg_tielt_jr2025,strong,Total schulden YE2025 5.88m; tick977
+bud_zt_fin_debt_2025,zorg_tielt,2025,4494788,,,realized,src_zorg_tielt_jr2025,strong,Fin debt total YE2025 4.49m RISING (was 2.35m); tick977
+bud_zt_fin_debt_lt_2025,zorg_tielt,2025,4254078,,,realized,src_zorg_tielt_jr2025,strong,Fin debt LT YE2025 4.25m; tick977
+bud_zt_fin_debt_st_due_2025,zorg_tielt,2025,240710,,,realized,src_zorg_tielt_jr2025,strong,Fin debt ST due YE2025 0.241m; tick977
+bud_zt_new_loans_2025,zorg_tielt,2025,2335000,,,realized,src_zorg_tielt_jr2025,strong,Nieuwe leningen 2.335m LARGE FOI Huyze Ampe; tick977
+bud_zt_repayments_2025,zorg_tielt,2025,189658,,,realized,src_zorg_tielt_jr2025,strong,Periodieke aflossingen 0.190m; tick977
+bud_zt_cash_2025,zorg_tielt,2025,2162125,,,realized,src_zorg_tielt_jr2025,strong,Liquide middelen YE2025 2.16m JUMP (was 1.70m); tick977
+bud_zt_leasing_mva_2025,zorg_tielt,2025,219114,,,realized,src_zorg_tielt_jr2025,strong,Leasing MVA YE2025 0.219m declining FOI; tick977
+bud_zt_cap_subs_2025,zorg_tielt,2025,2927578,,,realized,src_zorg_tielt_jr2025,strong,Kapitaalsubsidies YE2025 2.93m; tick977
+bud_zt_expl_rec_2025,zorg_tielt,2025,15371815,,,realized,src_zorg_tielt_jr2025,strong,Exploitatieontvangsten 15.4m; tick977
+bud_zt_expl_exp_2025,zorg_tielt,2025,14822161,,,realized,src_zorg_tielt_jr2025,strong,Exploitatieuitgaven 14.8m; tick977
+bud_zt_expl_saldo_2025,zorg_tielt,2025,549654,,,realized,src_zorg_tielt_jr2025,strong,Exploitatiesaldo +0.550m; tick977
+bud_zt_invest_exp_2025,zorg_tielt,2025,2291344,,,realized,src_zorg_tielt_jr2025,strong,Investeringsuitgaven 2.29m (Huyze Ampe FOI); tick977
+bud_zt_invest_saldo_2025,zorg_tielt,2025,-2291344,,,realized,src_zorg_tielt_jr2025,strong,Investeringssaldo -2.29m; tick977
+bud_zt_fin_rec_2025,zorg_tielt,2025,2335000,,,realized,src_zorg_tielt_jr2025,strong,Financieringsontvangsten 2.335m new loan; tick977
+bud_zt_fin_exp_2025,zorg_tielt,2025,189658,,,realized,src_zorg_tielt_jr2025,strong,Financieringsuitgaven 0.190m; tick977
+bud_zt_budget_result_2025,zorg_tielt,2025,403652,,,realized,src_zorg_tielt_jr2025,strong,Budgettair resultaat +0.404m; tick977
+bud_zt_cum_budget_2025,zorg_tielt,2025,2475358,,,realized,src_zorg_tielt_jr2025,strong,Gecumuleerd budgettair resultaat 2.48m; tick977
+bud_zt_bbr_2025,zorg_tielt,2025,2475358,,,realized,src_zorg_tielt_jr2025,strong,Beschikbaar BBR 2.48m; tick977
+bud_zt_afm_2025,zorg_tielt,2025,359996,,,realized,src_zorg_tielt_jr2025,strong,AFM +0.360m; tick977
+bud_zt_afm_corr_2025,zorg_tielt,2025,361698,,,realized,src_zorg_tielt_jr2025,strong,Gecorrigeerde AFM +0.362m; tick977
+bud_zt_pnl_2025,zorg_tielt,2025,-396800,,,realized,src_zorg_tielt_jr2025,strong,P&L -0.397m NEG FOI (sloop minwaarde); tick977
+bud_zt_minwaarde_sloop_2025,zorg_tielt,2025,510622,,,realized,src_zorg_tielt_jr2025,strong,Minderwaarde sloop Residentie Ampe 0.511m FOI; tick977
+bud_zt_personnel_2025,zorg_tielt,2025,8783002,,,realized,src_zorg_tielt_jr2025,strong,Bezoldigingen 8.78m FOI; tick977
+bud_zt_detach_2025,zorg_tielt,2025,3115337,,,realized,src_zorg_tielt_jr2025,strong,Gedetacheerde personeelsleden 3.12m FOI dual city_tielt; tick977
+bud_zt_goederen_2025,zorg_tielt,2025,5875839,,,realized,src_zorg_tielt_jr2025,strong,Goederen en diensten J5 5.88m; tick977
+bud_zt_toelagen_out_2025,zorg_tielt,2025,33012,,,realized,src_zorg_tielt_jr2025,strong,Toegestane werkingssubsidies 0.033m (thuiszorg partners); tick977
+bud_zt_werkingsubs_rec_2025,zorg_tielt,2025,4453985,,,realized,src_zorg_tielt_jr2025,strong,Ontvangen werkingssubsidies 4.45m FOI; tick977
+bud_zt_ocmw_subs_alg_2025,zorg_tielt,2025,2434124,,,realized,src_zorg_tielt_jr2025,strong,Algemene werkingssubsidies OCMW 2.43m FOI dual cover; tick977
+bud_zt_subs_spec_2025,zorg_tielt,2025,2019861,,,realized,src_zorg_tielt_jr2025,strong,Specifieke werkingssubsidies 2.02m FOI; tick977
+bud_zt_subs_fed_2025,zorg_tielt,2025,807133,,,realized,src_zorg_tielt_jr2025,strong,Specifieke werkingssubsidies federaal 0.807m; tick977
+bud_zt_subs_vl_2025,zorg_tielt,2025,1205828,,,realized,src_zorg_tielt_jr2025,strong,Specifieke werkingssubsidies VL 1.21m; tick977
+bud_zt_riziv_2025,zorg_tielt,2025,5846335,,,realized,src_zorg_tielt_jr2025,strong,RIZIV ontvangsten 5.85m FOI residual; tick977
+bud_zt_werking_rec_2025,zorg_tielt,2025,10871846,,,realized,src_zorg_tielt_jr2025,strong,Ontvangsten uit de werking 10.9m; tick977
+bud_zt_wzc_rec_2025,zorg_tielt,2025,3957661,,,realized,src_zorg_tielt_jr2025,strong,WZC werkingsopbrengsten 3.96m; tick977
+bud_zt_huize_ampe_invest_2025,zorg_tielt,2025,1517489,,,realized,src_zorg_tielt_jr2025,strong,Huyze Ampe gebouwen invest ~1.52m FOI; tick977
+bud_zt_mjp_fin_debt_2026,zorg_tielt,2025,4254078,,,realized,src_zorg_tielt_jr2025,strong,MJP fin debt YE2026 4.25m; tick977
+bud_zt_costs_j5_2025,zorg_tielt,2025,16137435,,,realized,src_zorg_tielt_jr2025,strong,J5 total kosten 16.1m; tick977
+bud_zt_revenue_j5_2025,zorg_tielt,2025,15740635,,,realized,src_zorg_tielt_jr2025,strong,J5 total opbrengsten 15.7m; tick977
+bud_zt_fin_costs_2025,zorg_tielt,2025,120705,,,realized,src_zorg_tielt_jr2025,strong,Financiele kosten 0.121m; tick977

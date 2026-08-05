@@ -12557,3 +12557,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +53 (bud_ing_*); commitments +5; leaderboard +7; sources +1; entity city_ingelmunster; FOI **gap_ing_ocmw_cover_toelagen_invest_l5** prio8 ready + draft; key only (PDFs not stored in git); rq_976=done; spawn **rq_977**; ticks=976
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_977** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 4
+
+### Tick 977 - 2026-08-09T01:00:00Z
+
+- Unit: **rq_977** (FOI-adjacent residual dual Entity II - **Welzijnsvereniging Zorg Tielt Jaarrekening 2025** + Ingelmunster dual residual / city_tielt dual)
+- Found (strong primary BBC JR2025 115p; KBO 0711.824.305; FD Virginie Lakiere; AD Hilde Van Maele; chair Pascale Baert; Deken Darraslaan 17):
+  - Assets **EUR15.4m** / equity **EUR9.48m DROP** / debt total **EUR5.88m** / fin debt **EUR4.49m** (**RISING** from **EUR2.35m**; LT **EUR4.25m** / ST due **EUR0.241m**)
+  - New loans **EUR2.335m LARGE** (Huyze Ampe) / repayments **EUR0.190m**
+  - Cash **EUR2.16m JUMP** / leasing MVA **EUR0.219m declining FOI** / cap subs **EUR2.93m**
+  - Exploitatie: ontvangsten **EUR15.4m** / uitgaven **EUR14.8m** / saldo **+EUR0.550m**
+  - AFM **+EUR0.360m** (gecorr **+EUR0.362m**) / BBR **EUR2.48m** / budget **+EUR0.404m** / P&L **-EUR0.397m NEG FOI**
+  - **Minderwaarde sloop Residentie Ampe EUR0.511m FOI** (drives P&L neg)
+  - Personnel **EUR8.78m** / **detach EUR3.12m FOI dual city_tielt** / goederen **EUR5.88m**
+  - OCMW alg werkingsubs **EUR2.43m FOI dual** / specific **EUR2.02m** / RIZIV **EUR5.85m** / WZC **EUR3.96m**
+  - Invest **EUR2.29m** (Huyze Ampe ~**EUR1.52m**) / Meulebeke LDC+GAW integrate **2026 FOI**
+- Dual: Ingelmunster **EUR78.8m** / OCMW cover **EUR3.0m** (tick976); city_tielt **EUR193m** / AFM **+EUR9.46m** / Zorg detach in city personnel (tick835) - not TE-additive
+- Note: Ledegem/Torhout full BBC / WZBW still no extractable full JR2025 this tick; Meulebeke fused into Tielt
+- Wrote: budgets +42 (bud_zt_*); commitments +5; leaderboard +7; sources +1; entity zorg_tielt; FOI **gap_zt_debt_ocmw_detach_sloop_l5** prio8 ready + draft; key only (PDF ~2.4MB not stored in git); rq_977=done; spawn **rq_978**; ticks=977
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_978** residual dual L5 (Ledegem / Torhout / WZBW / AGB Tielt / Zorg Izegem); deferred **rq_116**; progress@980 in 3
