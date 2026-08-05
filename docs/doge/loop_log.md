@@ -13466,3 +13466,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1026** residual dual L5 (Torhout / Lint / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1030 in 4
 
+
+### Tick 1026 - 2026-08-10T02:15:00Z
+
+- Unit: **rq_1026** (FOI-adjacent residual dual - **Gemeente+OCMW Lint Jaarrekening 2025** + Hoogstraten dual residual)
+- Found (strong primary BBC JR2025 125p; KBO 0207.501.410 / OCMW 0212.197.495; AD Karen Van Looveren; FD Wendy Ceuppens; Koning Albertstraat 41; GR/RMW 26 mei 2026):
+  - Assets **EUR54.70m** / equity **EUR37.16m DROP** / debt total **EUR17.55m JUMP** / fin debt **EUR8.18m** (**DECLINING** from **EUR8.98m**; LT **EUR7.39m** / ST due **EUR0.793m**)
+  - New loans **EUR0.110m** lease / repayments **EUR0.906m**
+  - Cash **EUR8.16m DROP** (was **EUR9.07m**) / pension **EUR5.98m JUMP HIGH FOI** (was **EUR3.60m**) / leasing MVA **EUR1.10m**
+  - FVA IGS **EUR3.64m** / cap subs **EUR11.18m**
+  - Exploitatie: ontvangsten **EUR22.31m** / uitgaven **EUR19.84m** / saldo **+EUR2.47m STRONG**
+  - AFM **+EUR2.02m STRONG** (gecorr **+EUR2.21m**) / BBR **EUR9.14m HIGH** / budget **-EUR0.448m NEG FOI** / P&L **-EUR2.38m NEG HIGH FOI**
+  - Personnel **EUR12.78m** / toelagen **EUR1.58m FOI** (police **EUR1.04m JUMP** / fire **EUR0.326m** / other **EUR0.173m**)
+  - Invest **EUR2.34m** vs MJP **EUR5.01m UNDERSPEND FOI** / **OCMW cover EUR0 ZERO FOI** / OCMW expl gap **-EUR1.00m** / equity cum **+EUR6.39m DROP** / OCMW equity cum **-EUR8.74m WORSENING**
+- Dual: Hoogstraten **EUR186.43m** / cash **EUR40.56m** / BBR **EUR37.52m** (tick1025) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Oosterzele / Berlaar / Nijlen residual next optional
+- Wrote: budgets +49 (bud_lin_*); commitments +6; leaderboard +8; sources +1; entity city_lint; FOI **gap_lin_pension_ocmw_budget_toelagen_l5** prio9 ready + draft; key only (PDF ~3.1MB not stored in git); rq_1026=done; spawn **rq_1027**; ticks=1026
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1027** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / other); deferred **rq_116**; progress@1030 in 3
+

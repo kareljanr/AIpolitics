@@ -24991,3 +24991,52 @@ bud_hog_fiscal_pb_2025,city_hoogstraten,2025,7149544,,,bbc_jr_realized,src_hoogs
 bud_hog_gemeentefonds_2025,city_hoogstraten,2025,7910754,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Gemeentefonds 7.91m; tick1025
 bud_hog_fin_opbr_2025,city_hoogstraten,2025,3713732,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Financiele opbrengsten J5 3.71m; tick1025
 bud_hog_interest_2025,city_hoogstraten,2025,708837,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Financiele kosten 0.709m; tick1025
+bud_lin_assets_2025,city_lint,2025,54702604,,,bbc_jr_realized,src_lint_jr2025,strong,Assets YE2025 54.70m (was 55.50m); tick1026
+bud_lin_equity_2025,city_lint,2025,37156242,,,bbc_jr_realized,src_lint_jr2025,strong,Nettoactief YE2025 37.16m (was 39.56m DROP); tick1026
+bud_lin_debt_total_2025,city_lint,2025,17546362,,,bbc_jr_realized,src_lint_jr2025,strong,Total schulden YE2025 17.55m JUMP; tick1026
+bud_lin_fin_debt_2025,city_lint,2025,8184079,,,bbc_jr_realized,src_lint_jr2025,strong,Fin debt total YE2025 8.18m DECLINING (was 8.98m T4); tick1026
+bud_lin_fin_debt_lt_2025,city_lint,2025,7391007,,,bbc_jr_realized,src_lint_jr2025,strong,Fin debt LT YE2025 7.39m DECLINING (was 8.08m); tick1026
+bud_lin_fin_debt_st_due_2025,city_lint,2025,793073,,,bbc_jr_realized,src_lint_jr2025,strong,Fin debt ST due YE2025 0.793m; tick1026
+bud_lin_new_loans_2025,city_lint,2025,109722,,,bbc_jr_realized,src_lint_jr2025,strong,Nieuwe leningen 2025 0.110m lease; tick1026
+bud_lin_aflossingen_2025,city_lint,2025,905775,,,bbc_jr_realized,src_lint_jr2025,strong,Periodieke aflossingen 2025 0.906m; tick1026
+bud_lin_cash_2025,city_lint,2025,8156169,,,bbc_jr_realized,src_lint_jr2025,strong,Liquide middelen YE2025 8.16m DROP (was 9.07m); tick1026
+bud_lin_pension_2025,city_lint,2025,5984374,,,bbc_jr_realized,src_lint_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.98m JUMP HIGH FOI (was 3.60m); tick1026
+bud_lin_cap_subs_2025,city_lint,2025,11183571,,,bbc_jr_realized,src_lint_jr2025,strong,Kapitaalsubsidies YE2025 11.18m; tick1026
+bud_lin_fva_total_2025,city_lint,2025,3696962,,,bbc_jr_realized,src_lint_jr2025,strong,FVA total YE2025 3.70m; tick1026
+bud_lin_fva_igs_2025,city_lint,2025,3639140,,,bbc_jr_realized,src_lint_jr2025,strong,FVA IGS YE2025 3.64m; tick1026
+bud_lin_leasing_mva_2025,city_lint,2025,1097086,,,bbc_jr_realized,src_lint_jr2025,strong,Leasing MVA YE2025 1.10m; tick1026
+bud_lin_expl_rec_2025,city_lint,2025,22310023,,,bbc_jr_realized,src_lint_jr2025,strong,Exploitatieontvangsten 22.31m; tick1026
+bud_lin_expl_exp_2025,city_lint,2025,19837514,,,bbc_jr_realized,src_lint_jr2025,strong,Exploitatieuitgaven 19.84m; tick1026
+bud_lin_expl_saldo_2025,city_lint,2025,2472509,,,bbc_jr_realized,src_lint_jr2025,strong,Exploitatiesaldo +2.47m STRONG; tick1026
+bud_lin_invest_exp_2025,city_lint,2025,2338669,,,bbc_jr_realized,src_lint_jr2025,strong,Investeringsuitgaven 2.34m vs MJP 5.01m UNDERSPEND FOI; tick1026
+bud_lin_invest_rec_2025,city_lint,2025,482081,,,bbc_jr_realized,src_lint_jr2025,strong,Investeringsontvangsten 0.482m; tick1026
+bud_lin_invest_saldo_2025,city_lint,2025,-1856588,,,bbc_jr_realized,src_lint_jr2025,strong,Investeringssaldo -1.86m; tick1026
+bud_lin_mjp_invest_planned_2025,city_lint,2025,5009280,,,bbc_jr_realized,src_lint_jr2025,strong,MJP invest planned 5.01m vs realized 2.34m underspend FOI; tick1026
+bud_lin_afm_2025,city_lint,2025,2017996,,,bbc_jr_realized,src_lint_jr2025,strong,AFM +2.02m STRONG; tick1026
+bud_lin_afm_corr_2025,city_lint,2025,2205361,,,bbc_jr_realized,src_lint_jr2025,strong,Gecorrigeerde AFM +2.21m STRONG; tick1026
+bud_lin_bbr_2025,city_lint,2025,9136033,,,bbc_jr_realized,src_lint_jr2025,strong,BBR beschikbaar 9.14m HIGH; tick1026
+bud_lin_budget_result_2025,city_lint,2025,-447818,,,bbc_jr_realized,src_lint_jr2025,strong,Budgettair resultaat -0.448m NEG FOI; tick1026
+bud_lin_cum_br_2025,city_lint,2025,9136033,,,bbc_jr_realized,src_lint_jr2025,strong,Gecumuleerd budgettair resultaat 9.14m (equals BBR); tick1026
+bud_lin_pnl_2025,city_lint,2025,-2381524,,,bbc_jr_realized,src_lint_jr2025,strong,P&L -2.38m NEG HIGH FOI (was -0.171m WORSENING); tick1026
+bud_lin_ge_expl_exp_2025,city_lint,2025,10800201,,,bbc_jr_realized,src_lint_jr2025,strong,GE exploitatieuitgaven J3 10.80m; tick1026
+bud_lin_ge_expl_rec_2025,city_lint,2025,14275412,,,bbc_jr_realized,src_lint_jr2025,strong,GE exploitatieontvangsten J3 14.28m; tick1026
+bud_lin_ocmw_expl_exp_2025,city_lint,2025,9037313,,,bbc_jr_realized,src_lint_jr2025,strong,OCMW exploitatieuitgaven J3 9.04m FOI; tick1026
+bud_lin_ocmw_expl_rec_2025,city_lint,2025,8034611,,,bbc_jr_realized,src_lint_jr2025,strong,OCMW exploitatieontvangsten J3 8.03m; tick1026
+bud_lin_ocmw_expl_gap_2025,city_lint,2025,-1002702,,,bbc_jr_realized,src_lint_jr2025,strong,OCMW expl gap J3 -1.00m FOI residual; tick1026
+bud_lin_ocmw_cover_2025,city_lint,2025,0,,,bbc_jr_realized,src_lint_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1026
+bud_lin_equity_cum_2025,city_lint,2025,6388393,,,bbc_jr_realized,src_lint_jr2025,strong,Gecumuleerd equity overschot YE2025 +6.39m DROP (was +8.77m FOI); tick1026
+bud_lin_ocmw_equity_cum_2025,city_lint,2025,-8741952,,,bbc_jr_realized,src_lint_jr2025,strong,OCMW equity cum -8.74m WORSENING FOI (was -7.19m; cover 0); tick1026
+bud_lin_personnel_2025,city_lint,2025,12776735,,,bbc_jr_realized,src_lint_jr2025,strong,Bezoldigingen 12.78m; tick1026
+bud_lin_toelagen_2025,city_lint,2025,1575475,,,bbc_jr_realized,src_lint_jr2025,strong,Toegestane werkingssubsidies 1.58m FOI residual; tick1026
+bud_lin_toelagen_police_2025,city_lint,2025,1044040,,,bbc_jr_realized,src_lint_jr2025,strong,Toelage politiezone 1.04m JUMP; tick1026
+bud_lin_toelagen_fire_2025,city_lint,2025,326100,,,bbc_jr_realized,src_lint_jr2025,strong,Toelage hulpverleningszone 0.326m; tick1026
+bud_lin_toelagen_other_2025,city_lint,2025,173345,,,bbc_jr_realized,src_lint_jr2025,strong,Toelage andere begunstigden 0.173m FOI; tick1026
+bud_lin_toelagen_igs_2025,city_lint,2025,19378,,,bbc_jr_realized,src_lint_jr2025,strong,Toelage IGS 0.019m; tick1026
+bud_lin_ocmw_aid_2025,city_lint,2025,428904,,,bbc_jr_realized,src_lint_jr2025,strong,OCMW individuele hulp 0.429m; tick1026
+bud_lin_fiscal_2025,city_lint,2025,9701181,,,bbc_jr_realized,src_lint_jr2025,strong,Fiscale opbrengsten 9.70m; tick1026
+bud_lin_fiscal_pb_2025,city_lint,2025,5008705,,,bbc_jr_realized,src_lint_jr2025,strong,Aanvullende PB 5.01m; tick1026
+bud_lin_gemeentefonds_2025,city_lint,2025,1911567,,,bbc_jr_realized,src_lint_jr2025,strong,Gemeentefonds 1.91m; tick1026
+bud_lin_fin_opbr_2025,city_lint,2025,568795,,,bbc_jr_realized,src_lint_jr2025,strong,Financiele opbrengsten J5 0.569m; tick1026
+bud_lin_invest_subs_granted_2025,city_lint,2025,178089,,,bbc_jr_realized,src_lint_jr2025,strong,Toegestane invest-subs 0.178m JUMP; tick1026
+bud_lin_toegestane_leningen_2025,city_lint,2025,125000,,,bbc_jr_realized,src_lint_jr2025,strong,Toegestane leningen 0.125m FOI; tick1026
+bud_lin_interest_2025,city_lint,2025,365249,,,bbc_jr_realized,src_lint_jr2025,strong,Intresten op leningen 0.365m; tick1026
