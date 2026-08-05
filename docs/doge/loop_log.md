@@ -15417,3 +15417,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +23 (bud_heragb_*); commitments +7; leaderboard +8; sources +1; entities city_herne + agb_herne; FOI **gap_heragb_bbr_neg_equity_zero_l5** prio9 ready + draft; PDF primary (not committed ~4.3MB); rq_1122=done; spawn **rq_1123**; ticks=1122
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1123** residual dual L5; deferred **rq_116**; progress@1130 in 8
+
+### Tick 1123 - 2026-08-12T03:00:00Z
+
+- Unit: **rq_1123** (FOI-adjacent residual dual - **AGA Asse Jaarrekening 2025** Entity II + AGB Herne dual residual)
+- Found (strong primary BBC JR2025 AGA 95p text; asse.be; KBO **0876.249.005**; Gemeenteplein 1 1730; AD Philippe Van Wichelen FD Bart Verspecht):
+  - Assets **EUR4.605m JUMP** (was **EUR3.876m**) / equity **EUR0.156m DROP FOI** (was **EUR0.276m**) / debt total **EUR4.449m** / fin debt **EUR3.406m JUMP FOI** (LT **EUR2.975m** / ST due **EUR0.351m** / ST fin **EUR0.080m**; was **EUR2.476m**)
+  - **New loans city renteloos EUR1.240m MASSIVE FOI** / repayments **EUR0.314m** (bank **EUR0.076m** + GE **EUR0.237m**)
+  - Cash **EUR0.024m DROP CRITICAL FOI** (was **EUR0.089m**) / KT vorderingen **EUR0.877m FOI**
+  - Exploitatie: ontvangsten **EUR2.594m** / uitgaven **EUR2.371m** / saldo **+EUR0.222m STRONG**
+  - AFM **−EUR0.091m NEG FOI** (gecorr **+EUR0.024m**; MJP was **+EUR0.011m**) / **BBR −EUR0.041m NEG FOI HIGH** (prior cum **+EUR0.211m**) / budget **−EUR0.252m NEG FOI**
+  - P&L **−EUR0.119m FLIP FOI** (was **+EUR0.060m**) / cum equity deficit **−EUR0.116m FOI** / dividend **EUR0**
+  - Omzet **~EUR2.583m** (no city werkingssub 2025) / goederen **EUR2.224m** / **personeel EUR0 ZERO** / bank interest **~EUR0.007m**
+  - Invest **EUR1.400m** (missed planned invest-subs **EUR0.130m FOI**)
+- Dual: AGB Herne BBR NEG / equity ZERO (tick1122) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / Lanaken GE+OCMW / Pajottegem GE residual next; progress@1130 in 7
+- Wrote: budgets +25 (bud_aga_*); commitments +8; leaderboard +10; sources +1; entity agb_asse_aga; FOI **gap_aga_bbr_neg_loan_cash_l5** prio9 ready + draft; PDF primary (not committed ~7.2MB); rq_1123=done; spawn **rq_1124**; ticks=1123
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1124** residual dual L5; deferred **rq_116**; progress@1130 in 7

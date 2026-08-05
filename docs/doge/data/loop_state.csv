@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T02:30:00Z,rq_1122,1122,no,tick1122 AGB Herne JR2025 Entity II dual residual; FOI gap_heragb_bbr_neg_equity_zero_l5 prio9 ready; assets 0.131m equity ZERO BBR -0.001m NEG AFM +0.0008m dividend=full profit 0.012m invest 0 vs MJP 0.117m; next residual dual L5 rq_1123; progress@1130 in 8; rq_116 deferred
+main,continuous,hole_fill,2026-08-12T03:00:00Z,rq_1123,1123,no,tick1123 AGA Asse JR2025 Entity II dual residual; FOI gap_aga_bbr_neg_loan_cash_l5 prio9 ready; assets 4.605m cash 0.024m DROP fin debt 3.406m JUMP BBR -0.041m NEG AFM -0.091m city renteloze lening 1.240m invest 1.400m; next residual dual L5 rq_1124; progress@1130 in 7; rq_116 deferred

@@ -29579,3 +29579,28 @@ bud_heragb_invest_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,s
 bud_heragb_interest_2025,agb_herne,2025,0,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB intresten 0 FOI on debt 0.060m; tick1122
 bud_heragb_mva_2025,agb_herne,2025,60196,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB MVA 0.060m (installaties); tick1122
 bud_heragb_cum_bbr_prior_2025,agb_herne,2025,-1851,,,bbc_jr_realized,src_herne_agb_jr2025,strong,AGB cum BBR prior YE2024 -0.0019m FOI path; tick1122
+bud_aga_assets_2025,agb_asse_aga,2025,4605243,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA assets 4.605m JUMP FOI; tick1123
+bud_aga_equity_2025,agb_asse_aga,2025,155882,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA nettoactief 0.156m DROP FOI (was 0.276m); tick1123
+bud_aga_debt_total_2025,agb_asse_aga,2025,4449361,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA schulden total 4.449m JUMP; tick1123
+bud_aga_fin_debt_2025,agb_asse_aga,2025,3406054,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA fin debt 3.406m JUMP FOI (LT 2.975 + ST due 0.351 + ST fin 0.080; was 2.476m); tick1123
+bud_aga_new_loans_2025,agb_asse_aga,2025,1239891,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA new loans city renteloos 1.240m MASSIVE FOI; tick1123
+bud_aga_loan_repay_2025,agb_asse_aga,2025,313661,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA periodieke aflossingen 0.314m (bank 0.076 + GE 0.237); tick1123
+bud_aga_cash_2025,agb_asse_aga,2025,23543,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA cash 0.024m DROP CRITICAL FOI (was 0.089m); tick1123
+bud_aga_receivables_2025,agb_asse_aga,2025,876633,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA KT vorderingen 0.877m FOI; tick1123
+bud_aga_expl_ont_2025,agb_asse_aga,2025,2593612,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA expl ontvangsten 2.594m; tick1123
+bud_aga_expl_uit_2025,agb_asse_aga,2025,2371277,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA expl uitgaven 2.371m; tick1123
+bud_aga_expl_saldo_2025,agb_asse_aga,2025,222335,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA expl saldo +0.222m STRONG FOI; tick1123
+bud_aga_afm_2025,agb_asse_aga,2025,-91325,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA AFM -0.091m NEG FOI (MJP was +0.011m); tick1123
+bud_aga_afm_gecorr_2025,agb_asse_aga,2025,24274,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA gecorr AFM +0.024m POS FOI; tick1123
+bud_aga_bbr_2025,agb_asse_aga,2025,-40692,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA BBR -0.041m NEG FOI HIGH (AGB rule BBR>0); tick1123
+bud_aga_budget_2025,agb_asse_aga,2025,-251742,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA budget result -0.252m NEG FOI; tick1123
+bud_aga_pnl_2025,agb_asse_aga,2025,-118945,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA P&L -0.119m FLIP FOI (was +0.060m); tick1123
+bud_aga_city_loan_2025,agb_asse_aga,2025,1239891,,,bbc_jr_realized,src_asse_aga_jr2025,strong,City renteloze lening to AGA 1.240m MASSIVE FOI dual; tick1123
+bud_aga_invest_2025,agb_asse_aga,2025,1400308,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA invest 1.400m FOI (missed invest-subs 0.130m planned); tick1123
+bud_aga_omzet_2025,agb_asse_aga,2025,2583315,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA omzet/werking ~2.583m (no city werkingssub 2025); tick1123
+bud_aga_goederen_2025,agb_asse_aga,2025,2224255,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA goederen 2.224m; tick1123
+bud_aga_personnel_2025,agb_asse_aga,2025,0,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA personnel ZERO FOI outsourcing; tick1123
+bud_aga_interest_2025,agb_asse_aga,2025,7318,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA interest to banks ~0.007m (city loan interest 0 FOI); tick1123
+bud_aga_mva_2025,agb_asse_aga,2025,3659354,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA MVA 3.659m JUMP FOI; tick1123
+bud_aga_cum_equity_deficit_2025,agb_asse_aga,2025,-116497,,,bbc_jr_realized,src_asse_aga_jr2025,strong,AGA gecumuleerd tekort -0.116m FOI; tick1123
+bud_aga_ge_repay_2025,agb_asse_aga,2025,237258,,,bbc_jr_realized,src_asse_aga_jr2025,strong,Aflossing lening aan gemeente 0.237m FOI; tick1123
