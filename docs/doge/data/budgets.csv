@@ -23537,3 +23537,52 @@ bud_alv_wzc_interim_2025,city_alveringem,2025,143783,,,realized,src_alveringem_j
 bud_alv_mjp_debt_2026,city_alveringem,2025,6717750,,,realized,src_alveringem_jr2025,strong,MJP planned fin debt YE2026 6.72m JUMP new loans 3.01m FOI; tick996
 bud_alv_mjp_new_loans_2026,city_alveringem,2025,3006052,,,realized,src_alveringem_jr2025,strong,MJP planned new loans 2026 3.01m FOI; tick996
 bud_alv_invest_carryover_2025,city_alveringem,2025,1061775,,,realized,src_alveringem_jr2025,strong,Netto overdracht invest kredieten 1.06m; tick996
+bud_oud_assets_2025,city_oudenburg,2025,86926547,,,realized,src_oudenburg_jr2025,strong,Assets YE2025 86.93m (was 86.91m); tick997
+bud_oud_equity_2025,city_oudenburg,2025,61696457,,,realized,src_oudenburg_jr2025,strong,Nettoactief YE2025 61.70m (was 60.09m); tick997
+bud_oud_debt_total_2025,city_oudenburg,2025,25230090,,,realized,src_oudenburg_jr2025,strong,Total schulden YE2025 25.23m (was 26.82m); tick997
+bud_oud_fin_debt_2025,city_oudenburg,2025,15067430,,,realized,src_oudenburg_jr2025,strong,Fin debt total YE2025 15.07m DECLINING (was 15.55m); tick997
+bud_oud_fin_debt_lt_2025,city_oudenburg,2025,14204402,,,realized,src_oudenburg_jr2025,strong,Fin debt LT YE2025 14.20m; tick997
+bud_oud_fin_debt_st_due_2025,city_oudenburg,2025,862909,,,realized,src_oudenburg_jr2025,strong,Fin debt ST due YE2025 0.863m; tick997
+bud_oud_fin_debt_st_2025,city_oudenburg,2025,119,,,realized,src_oudenburg_jr2025,strong,Fin debt ST treasury YE2025 119 EUR; tick997
+bud_oud_new_loans_2025,city_oudenburg,2025,425485,,,realized,src_oudenburg_jr2025,strong,Nieuwe leningen/lease 2025 0.425m; tick997
+bud_oud_aflossingen_2025,city_oudenburg,2025,912541,,,realized,src_oudenburg_jr2025,strong,Periodieke aflossingen 2025 0.913m; tick997
+bud_oud_cash_2025,city_oudenburg,2025,10393227,,,realized,src_oudenburg_jr2025,strong,Liquide middelen YE2025 10.39m JUMP (was 9.28m); tick997
+bud_oud_pension_2025,city_oudenburg,2025,5925583,,,realized,src_oudenburg_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.93m DROP (was 6.99m FOI); tick997
+bud_oud_cap_subs_2025,city_oudenburg,2025,12133159,,,realized,src_oudenburg_jr2025,strong,Kapitaalsubsidies YE2025 12.13m; tick997
+bud_oud_fva_total_2025,city_oudenburg,2025,17691673,,,realized,src_oudenburg_jr2025,strong,FVA total YE2025 17.69m; tick997
+bud_oud_fva_igs_2025,city_oudenburg,2025,16046952,,,realized,src_oudenburg_jr2025,strong,FVA IGS YE2025 16.05m slight drop (was 16.15m); tick997
+bud_oud_leasing_mva_2025,city_oudenburg,2025,1689880,,,realized,src_oudenburg_jr2025,strong,Leasing MVA YE2025 1.69m (was 1.42m); tick997
+bud_oud_expl_rec_2025,city_oudenburg,2025,25295715,,,realized,src_oudenburg_jr2025,strong,Exploitatieontvangsten 25.30m; tick997
+bud_oud_expl_exp_2025,city_oudenburg,2025,22319666,,,realized,src_oudenburg_jr2025,strong,Exploitatieuitgaven 22.32m; tick997
+bud_oud_expl_saldo_2025,city_oudenburg,2025,2976049,,,realized,src_oudenburg_jr2025,strong,Exploitatiesaldo +2.98m STRONG; tick997
+bud_oud_invest_exp_2025,city_oudenburg,2025,1540156,,,realized,src_oudenburg_jr2025,strong,Investeringsuitgaven 1.54m vs MJP 3.93m LARGE underspend FOI; tick997
+bud_oud_invest_rec_2025,city_oudenburg,2025,582937,,,realized,src_oudenburg_jr2025,strong,Investeringsontvangsten 0.583m; tick997
+bud_oud_invest_saldo_2025,city_oudenburg,2025,-957219,,,realized,src_oudenburg_jr2025,strong,Investeringssaldo -0.957m; tick997
+bud_oud_mjp_invest_exp_2025,city_oudenburg,2025,3929241,,,realized,src_oudenburg_jr2025,strong,MJP invest uitgaven 3.93m; tick997
+bud_oud_afm_2025,city_oudenburg,2025,2484146,,,realized,src_oudenburg_jr2025,strong,AFM +2.48m STRONG (MJP 1.69m); tick997
+bud_oud_afm_corr_2025,city_oudenburg,2025,2152337,,,realized,src_oudenburg_jr2025,strong,Gecorrigeerde AFM +2.15m; tick997
+bud_oud_bbr_2025,city_oudenburg,2025,11312790,,,realized,src_oudenburg_jr2025,strong,Beschikbaar BBR 11.31m HIGH; tick997
+bud_oud_bbr_cum_2025,city_oudenburg,2025,11321757,,,realized,src_oudenburg_jr2025,strong,Gecumuleerd budgettair resultaat 11.32m; tick997
+bud_oud_budget_result_2025,city_oudenburg,2025,1531774,,,realized,src_oudenburg_jr2025,strong,Budgettair resultaat boekjaar +1.53m; tick997
+bud_oud_pnl_result_2025,city_oudenburg,2025,1809792,,,realized,src_oudenburg_jr2025,strong,P&L +1.81m STRONG; tick997
+bud_oud_pnl_ge_2025,city_oudenburg,2025,3259274,,,realized,src_oudenburg_jr2025,strong,GE/Stad P&L +3.26m; tick997
+bud_oud_pnl_ocmw_2025,city_oudenburg,2025,-1449483,,,realized,src_oudenburg_jr2025,strong,OCMW P&L -1.45m FOI; tick997
+bud_oud_ocmw_cover_2025,city_oudenburg,2025,0,,,realized,src_oudenburg_jr2025,strong,OCMW cover tussenkomst 0 ZERO while OCMW P&L -1.45m FOI; tick997
+bud_oud_ocmw_cum_deficit_2025,city_oudenburg,2025,-7361036,,,realized,src_oudenburg_jr2025,strong,OCMW cum overschot/tekort YE2025 -7.36m WORSENING (was -5.91m FOI); tick997
+bud_oud_personnel_2025,city_oudenburg,2025,14106552,,,realized,src_oudenburg_jr2025,strong,Bezoldigingen 14.11m; tick997
+bud_oud_toelagen_2025,city_oudenburg,2025,2398138,,,realized,src_oudenburg_jr2025,strong,Toegestane werkingssubsidies 2.40m; tick997
+bud_oud_toelagen_police_2025,city_oudenburg,2025,978993,,,realized,src_oudenburg_jr2025,strong,Toelage politiezone 0.979m; tick997
+bud_oud_toelagen_fire_2025,city_oudenburg,2025,412767,,,realized,src_oudenburg_jr2025,strong,Toelage hulpverleningszone 0.413m; tick997
+bud_oud_toelagen_igs_2025,city_oudenburg,2025,391196,,,realized,src_oudenburg_jr2025,strong,Toelage IGS 0.391m; tick997
+bud_oud_toelagen_eredienst_2025,city_oudenburg,2025,268276,,,realized,src_oudenburg_jr2025,strong,Toelage eredienst 0.268m; tick997
+bud_oud_toelagen_other_2025,city_oudenburg,2025,346907,,,realized,src_oudenburg_jr2025,strong,Toelage andere begunstigden 0.347m; tick997
+bud_oud_ocmw_aid_2025,city_oudenburg,2025,990632,,,realized,src_oudenburg_jr2025,strong,OCMW individuele hulp 0.991m; tick997
+bud_oud_fiscal_2025,city_oudenburg,2025,9215362,,,realized,src_oudenburg_jr2025,strong,Fiscale opbrengsten 9.22m; tick997
+bud_oud_fiscal_ov_2025,city_oudenburg,2025,3644392,,,realized,src_oudenburg_jr2025,strong,Opcentiemen OV 3.64m; tick997
+bud_oud_fiscal_pb_2025,city_oudenburg,2025,4080153,,,realized,src_oudenburg_jr2025,strong,Aanvullende PB 4.08m; tick997
+bud_oud_gemeentefonds_2025,city_oudenburg,2025,3420543,,,realized,src_oudenburg_jr2025,strong,Gemeentefonds 3.42m; tick997
+bud_oud_fin_opbr_2025,city_oudenburg,2025,1310165,,,realized,src_oudenburg_jr2025,strong,Financiele opbrengsten J5 1.31m DROP (was 3.02m FOI); tick997
+bud_oud_fin_costs_2025,city_oudenburg,2025,404818,,,realized,src_oudenburg_jr2025,strong,Financiele kosten 0.405m; tick997
+bud_oud_wzc_dagprijs_2025,city_oudenburg,2025,2254138,,,realized,src_oudenburg_jr2025,strong,WZC Riethove dagprijsvergoeding 2.25m (risk note); tick997
+bud_oud_wzc_zorgfin_2025,city_oudenburg,2025,2823162,,,realized,src_oudenburg_jr2025,strong,WZC residentiele zorgfinanciering 2.82m (risk note); tick997
+bud_oud_invest_subs_granted_2025,city_oudenburg,2025,100571,,,realized,src_oudenburg_jr2025,strong,Toegestane investeringssubsidies 0.101m (HVZ 0.081m); tick997
