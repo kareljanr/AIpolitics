@@ -12866,3 +12866,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_994** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 7
 
+
+
+### Tick 994 - 2026-08-09T10:15:00Z
+
+- Unit: **rq_994** (FOI-adjacent residual dual - **Gemeente+OCMW Jabbeke Jaarrekening 2025** + Bredene dual residual)
+- Found (strong primary BBC JR2025 114p; KBO 0207.528.629 / OCMW 0212.222.340; FD Bart Demey; AD Goele Brouckaert; Dorpsstraat 3):
+  - Assets **EUR127.21m** / equity **EUR113.19m HIGH** / debt total **EUR14.02m** / fin debt **EUR5.02m** (**DECLINING** from **EUR6.16m**; LT **EUR3.83m** / ST due **EUR1.19m**)
+  - New loans **EUR0.340m** / repayments **EUR1.48m**
+  - Cash **EUR12.23m JUMP** (was **EUR11.45m**) / pension **EUR5.14m** slight drop / leasing MVA **EUR1.53m**
+  - **FVA IGS EUR16.06m JUMP** (was **EUR12.84m FOI**) / andere FVA **EUR10.74m** / cap subs **EUR8.21m**
+  - Exploitatie: ontvangsten **EUR31.09m** / uitgaven **EUR20.02m** / saldo **+EUR11.08m STRONG**
+  - AFM **+EUR9.73m STRONG** (gecorr **+EUR10.72m**) / BBR **EUR11.79m HIGH** / budget **+EUR0.959m** / P&L **+EUR8.48m STRONG** (GE **+EUR10.30m** / OCMW **-EUR1.81m FOI**)
+  - Personnel **EUR9.79m** / toelagen **EUR3.26m FOI +20%** (police **EUR1.54m** / fire **EUR0.629m** / **eredienst EUR0.581m JUMP** was 0.183m / other **EUR0.505m**)
+  - Invest **EUR12.54m** vs MJP **EUR9.38m OVERSPEND FOI** / **OCMW cover EUR1.81m FULL FOI** / **fin opbrengsten EUR4.79m JUMP** (was 1.53m FOI) / meerwaarden **EUR0.866m**
+- Dual: Bredene **EUR132.36m** / OCMW cover **EUR4.41m PARTIAL** (tick993) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne image-only skip
+- Wrote: budgets +50 (bud_jab_*); commitments +5; leaderboard +7; sources +1; entity city_jabbeke; FOI **gap_jab_ocmw_toelagen_fva_invest_l5** prio8 ready + draft; key only (PDF ~2.4MB not stored in git); rq_994=done; spawn **rq_995**; ticks=994
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_995** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 6

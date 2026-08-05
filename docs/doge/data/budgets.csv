@@ -23401,3 +23401,53 @@ bud_bred_costs_j5_2025,city_bredene,2025,54373963,,,realized,src_bredene_jr2025,
 bud_bred_revenue_j5_2025,city_bredene,2025,52106894,,,realized,src_bredene_jr2025,strong,J5 total opbrengsten 52.11m; tick993
 bud_bred_agb_bbr_consol_2025,city_bredene,2025,235506,,,realized,src_bredene_jr2025,strong,AGB Bredene consol BBR 0.236m dual FOI; tick993
 bud_bred_agb_afm_consol_2025,city_bredene,2025,103981,,,realized,src_bredene_jr2025,strong,AGB Bredene consol AFM 0.104m dual FOI; tick993
+bud_jab_assets_2025,city_jabbeke,2025,127205203,,,realized,src_jabbeke_jr2025,strong,Assets YE2025 127.21m; tick994
+bud_jab_equity_2025,city_jabbeke,2025,113185035,,,realized,src_jabbeke_jr2025,strong,Nettoactief YE2025 113.19m HIGH; tick994
+bud_jab_debt_total_2025,city_jabbeke,2025,14020168,,,realized,src_jabbeke_jr2025,strong,Total schulden YE2025 14.02m; tick994
+bud_jab_fin_debt_2025,city_jabbeke,2025,5015941,,,realized,src_jabbeke_jr2025,strong,Fin debt total YE2025 5.02m DECLINING (was 6.16m); tick994
+bud_jab_fin_debt_lt_2025,city_jabbeke,2025,3826757,,,realized,src_jabbeke_jr2025,strong,Fin debt LT YE2025 3.83m; tick994
+bud_jab_fin_debt_st_due_2025,city_jabbeke,2025,1189184,,,realized,src_jabbeke_jr2025,strong,Fin debt ST due YE2025 1.19m; tick994
+bud_jab_new_loans_2025,city_jabbeke,2025,339666,,,realized,src_jabbeke_jr2025,strong,Nieuwe leningen 0.340m; tick994
+bud_jab_repayments_2025,city_jabbeke,2025,1482605,,,realized,src_jabbeke_jr2025,strong,Periodieke aflossingen 1.48m; tick994
+bud_jab_cash_2025,city_jabbeke,2025,12225660,,,realized,src_jabbeke_jr2025,strong,Liquide middelen YE2025 12.23m JUMP (was 11.45m); tick994
+bud_jab_pension_2025,city_jabbeke,2025,5139235,,,realized,src_jabbeke_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.14m slight DROP (was 5.31m); tick994
+bud_jab_leasing_mva_2025,city_jabbeke,2025,1525411,,,realized,src_jabbeke_jr2025,strong,Leasing MVA YE2025 1.53m FOI; tick994
+bud_jab_fva_igs_2025,city_jabbeke,2025,16055938,,,realized,src_jabbeke_jr2025,strong,FVA IGS YE2025 16.06m JUMP (was 12.84m) FOI; tick994
+bud_jab_fva_other_2025,city_jabbeke,2025,10744514,,,realized,src_jabbeke_jr2025,strong,Andere FVA YE2025 10.74m; tick994
+bud_jab_cap_subs_2025,city_jabbeke,2025,8205610,,,realized,src_jabbeke_jr2025,strong,Kapitaalsubsidies YE2025 8.21m; tick994
+bud_jab_herwaard_reserves_2025,city_jabbeke,2025,4154379,,,realized,src_jabbeke_jr2025,strong,Herwaarderingsreserves YE2025 4.15m; tick994
+bud_jab_expl_rec_2025,city_jabbeke,2025,31093645,,,realized,src_jabbeke_jr2025,strong,Exploitatieontvangsten 31.09m; tick994
+bud_jab_expl_exp_2025,city_jabbeke,2025,20018559,,,realized,src_jabbeke_jr2025,strong,Exploitatieuitgaven 20.02m; tick994
+bud_jab_expl_saldo_2025,city_jabbeke,2025,11075086,,,realized,src_jabbeke_jr2025,strong,Exploitatiesaldo +11.08m STRONG; tick994
+bud_jab_invest_exp_2025,city_jabbeke,2025,12544717,,,realized,src_jabbeke_jr2025,strong,Investeringsuitgaven 12.54m vs MJP 9.38m OVERSPEND FOI; tick994
+bud_jab_invest_rec_2025,city_jabbeke,2025,3429531,,,realized,src_jabbeke_jr2025,strong,Investeringsontvangsten 3.43m; tick994
+bud_jab_invest_saldo_2025,city_jabbeke,2025,-9115186,,,realized,src_jabbeke_jr2025,strong,Investeringssaldo -9.12m; tick994
+bud_jab_mjp_invest_exp_2025,city_jabbeke,2025,9381500,,,realized,src_jabbeke_jr2025,strong,MJP investeringsuitgaven 9.38m (realized 12.54m overspend FOI); tick994
+bud_jab_fin_rec_2025,city_jabbeke,2025,482026,,,realized,src_jabbeke_jr2025,strong,Financieringsontvangsten 0.482m; tick994
+bud_jab_fin_exp_2025,city_jabbeke,2025,1482605,,,realized,src_jabbeke_jr2025,strong,Financieringsuitgaven 1.48m; tick994
+bud_jab_budget_result_2025,city_jabbeke,2025,959321,,,realized,src_jabbeke_jr2025,strong,Budgettair resultaat +0.959m; tick994
+bud_jab_cum_budget_2025,city_jabbeke,2025,11786102,,,realized,src_jabbeke_jr2025,strong,Gecumuleerd budgettair resultaat 11.79m; tick994
+bud_jab_bbr_2025,city_jabbeke,2025,11786102,,,realized,src_jabbeke_jr2025,strong,Beschikbaar BBR 11.79m HIGH; tick994
+bud_jab_afm_2025,city_jabbeke,2025,9734841,,,realized,src_jabbeke_jr2025,strong,AFM +9.73m STRONG; tick994
+bud_jab_afm_corr_2025,city_jabbeke,2025,10724735,,,realized,src_jabbeke_jr2025,strong,Gecorrigeerde AFM +10.72m STRONG; tick994
+bud_jab_pnl_2025,city_jabbeke,2025,8484160,,,realized,src_jabbeke_jr2025,strong,P&L +8.48m STRONG (GE +10.30m / OCMW -1.81m FOI); tick994
+bud_jab_ge_pnl_2025,city_jabbeke,2025,10298906,,,realized,src_jabbeke_jr2025,strong,Gemeente P&L +10.30m STRONG; tick994
+bud_jab_ocmw_pnl_neg_2025,city_jabbeke,2025,-1814747,,,realized,src_jabbeke_jr2025,strong,OCMW P&L -1.81m FOI residual; tick994
+bud_jab_ocmw_cover_2025,city_jabbeke,2025,1814747,,,realized,src_jabbeke_jr2025,strong,OCMW cover 1.81m FULL matching P&L FOI residual; tick994
+bud_jab_ocmw_cum_2025,city_jabbeke,2025,599770,,,realized,src_jabbeke_jr2025,strong,OCMW cum result +0.600m STABLE after full cover; tick994
+bud_jab_personnel_2025,city_jabbeke,2025,9793573,,,realized,src_jabbeke_jr2025,strong,Bezoldigingen 9.79m FOI; tick994
+bud_jab_goederen_2025,city_jabbeke,2025,6248952,,,realized,src_jabbeke_jr2025,strong,Goederen en diensten 6.25m; tick994
+bud_jab_toelagen_2025,city_jabbeke,2025,3264414,,,realized,src_jabbeke_jr2025,strong,Toegestane werkingssubsidies 3.26m FOI named +20pct; tick994
+bud_jab_toelage_police_2025,city_jabbeke,2025,1540383,,,realized,src_jabbeke_jr2025,strong,Toelage politiezone 1.54m FOI; tick994
+bud_jab_toelage_fire_2025,city_jabbeke,2025,629103,,,realized,src_jabbeke_jr2025,strong,Toelage HVZ 0.629m FOI; tick994
+bud_jab_toelage_eredienst_2025,city_jabbeke,2025,580973,,,realized,src_jabbeke_jr2025,strong,Toelage eredienst 0.581m JUMP (was 0.183m) FOI; tick994
+bud_jab_toelage_igs_2025,city_jabbeke,2025,8680,,,realized,src_jabbeke_jr2025,strong,Toelage IGS 0.009m FOI; tick994
+bud_jab_toelage_other_2025,city_jabbeke,2025,505275,,,realized,src_jabbeke_jr2025,strong,Toelage andere begunstigden 0.505m FOI; tick994
+bud_jab_invest_subs_2025,city_jabbeke,2025,122925,,,realized,src_jabbeke_jr2025,strong,Toegestane investeringssubsidies 0.123m FOI; tick994
+bud_jab_ocmw_aid_2025,city_jabbeke,2025,457591,,,realized,src_jabbeke_jr2025,strong,Individuele hulp OCMW 0.458m FOI; tick994
+bud_jab_fiscal_2025,city_jabbeke,2025,15460611,,,realized,src_jabbeke_jr2025,strong,Fiscale opbrengsten 15.46m; tick994
+bud_jab_werkingsubs_rec_2025,city_jabbeke,2025,8025735,,,realized,src_jabbeke_jr2025,strong,Ontvangen werkingssubsidies 8.03m; tick994
+bud_jab_fin_opbr_2025,city_jabbeke,2025,4789962,,,realized,src_jabbeke_jr2025,strong,Financiele opbrengsten 4.79m JUMP (was 1.53m) FOI; tick994
+bud_jab_meerwaarden_2025,city_jabbeke,2025,865847,,,realized,src_jabbeke_jr2025,strong,Meerwaarden realisatie VA 0.866m FOI; tick994
+bud_jab_costs_j5_2025,city_jabbeke,2025,23750308,,,realized,src_jabbeke_jr2025,strong,J5 total kosten 23.75m; tick994
+bud_jab_revenue_j5_2025,city_jabbeke,2025,32234468,,,realized,src_jabbeke_jr2025,strong,J5 total opbrengsten 32.23m; tick994
