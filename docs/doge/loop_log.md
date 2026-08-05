@@ -11821,3 +11821,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +52 (bud_ard_*); commitments +4; leaderboard +7; sources +2; entity city_ardooie; FOI **gap_ard_toelagen_cash_invest_agb_l5** prio8 ready + draft; raw PDF + key; rq_936=done; spawn **rq_937**; ticks=936
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_937** residual dual L5 (Roeselare / AGB Ardooie full BBC / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@940 in 4
+
+### Tick 937 - 2026-08-07T17:15:00Z
+
+- Unit: **rq_937** (FOI-adjacent residual dual Entity II - **AGB Ardooie Jaarrekening 2025** + city Ardooie dual)
+- Found (strong primary BBC JR2025 100p; KBO 0878.654.407):
+  - Assets **EUR2.97m** / equity **EUR0.872m** / debt total **EUR2.10m** / fin debt **EUR2.02m** (**DECLINING** from **EUR2.05m**; LT **EUR1.99m** / ST due **EUR0.026m**)
+  - **No new loans** / repayments **EUR0.026m** (99y renteloze gemeente FOI) / invest **EUR0.085m**
+  - Cash **EUR0.170m was EUR0.191m DROP**
+  - Exploitatie: ontvangsten **EUR0.413m** / uitgaven **EUR0.317m** / saldo **+EUR0.096m**
+  - AFM **+EUR0.070m** / **corr AFM -EUR0.068m FOI** / BBR **EUR0.120m** / budget **-EUR0.015m FOI**
+  - **Payout rechthebbenden EUR0.049m FOI** (while corr AFM negative)
+  - City dual toelage AGB **EUR0.191m** vs AGB books werkingsubsidies **EUR0**; **prijssubsidiefactor 10.2 FOI**
+  - Capital raise 2022 debt conversion **EUR0.804m** residual
+- Dual: city Ardooie **EUR77.0m** / fin debt near-zero / cash drop / budget **-EUR3.22m** / other toelagen **EUR1.02m** (tick936) - Entity II dual map
+- Wrote: budgets +25 (bud_aag_*); commitments +4; leaderboard +7; sources +2; entity agb_ardooie; FOI **gap_aag_debt_dividend_prijssubsidie_l5** prio8 ready + draft; raw PDF + key; rq_937=done; spawn **rq_938**; ticks=937
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_938** residual dual L5 (Roeselare / Wingene / Affligem / other unmined VL JR2025); deferred **rq_116**; progress@940 in 3

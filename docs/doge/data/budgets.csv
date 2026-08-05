@@ -21091,3 +21091,28 @@ bud_ard_mjp_invest_planned_2025,city_ardooie,2025,10932548,,,jaarrekening_realiz
 bud_ard_agb_bbr_2025,city_ardooie,2025,120272,,,jaarrekening_realized,src_ardooie_jr2025,strong,Dual AGB Ardooie BBR 0.120m (J2 consol Entity II); tick936
 bud_ard_agb_afm_2025,city_ardooie,2025,70448,,,jaarrekening_realized,src_ardooie_jr2025,strong,Dual AGB Ardooie AFM +0.070m; tick936
 bud_ard_agb_afm_corr_2025,city_ardooie,2025,-67623,,,jaarrekening_realized,src_ardooie_jr2025,strong,Dual AGB Ardooie gecorr AFM -0.068m FOI; tick936
+bud_aag_assets_2025,agb_ardooie,2025,2971110,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,AGB total assets YE2025 2.97m; tick937
+bud_aag_equity_2025,agb_ardooie,2025,871757,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Nettoactief YE2025 0.872m; tick937
+bud_aag_debt_total_2025,agb_ardooie,2025,2099353,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Total schulden YE2025 2.10m; tick937
+bud_aag_fin_debt_2025,agb_ardooie,2025,2019927,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,T4 total financiele schulden YE2025 2.02m DECLINING (LT 1.99 + ST due 0.026); tick937
+bud_aag_fin_debt_lt_2025,agb_ardooie,2025,1994358,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Financiele schulden LT YE2025 1.99m; tick937
+bud_aag_fin_debt_st_due_2025,agb_ardooie,2025,25569,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.026m; tick937
+bud_aag_fin_debt_2024,agb_ardooie,2025,2045496,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,T4 fin debt YE2024 2.05m comparator; tick937
+bud_aag_cash_2025,agb_ardooie,2025,169799,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Liquide middelen YE2025 0.170m (was 0.191m DROP FOI); tick937
+bud_aag_cash_2024,agb_ardooie,2025,190817,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Liquide middelen YE2024 0.191m; tick937
+bud_aag_mva_2025,agb_ardooie,2025,2766839,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Materiele vaste activa YE2025 2.77m; tick937
+bud_aag_expl_rec_2025,agb_ardooie,2025,412881,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Exploitatieontvangsten 0.413m; tick937
+bud_aag_expl_exp_2025,agb_ardooie,2025,316865,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Exploitatieuitgaven 0.317m; tick937
+bud_aag_expl_saldo_2025,agb_ardooie,2025,96017,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Exploitatiesaldo +0.096m; tick937
+bud_aag_invest_exp_2025,agb_ardooie,2025,85237,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Investeringsuitgaven 0.085m; tick937
+bud_aag_new_loans_2025,agb_ardooie,2025,0,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,No new loans 2025; tick937
+bud_aag_aflossingen_2025,agb_ardooie,2025,25569,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Periodieke aflossingen renteloze gemeente 0.026m FOI 99y path; tick937
+bud_aag_afm_2025,agb_ardooie,2025,70448,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,AFM +0.070m; tick937
+bud_aag_afm_corr_2025,agb_ardooie,2025,-67623,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Gecorrigeerde AFM -0.068m FOI (negative); tick937
+bud_aag_bbr_2025,agb_ardooie,2025,120272,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Beschikbaar budgettair resultaat 0.120m; tick937
+bud_aag_budget_result_2025,agb_ardooie,2025,-14789,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Budgettair resultaat boekjaar -0.015m FOI; tick937
+bud_aag_dividend_payout_2025,agb_ardooie,2025,48699,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Rechthebbenden/winstuitkering 0.049m FOI while corr AFM neg; tick937
+bud_aag_pnl_result_2025,agb_ardooie,2025,48699,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,P&L boekjaar +0.049m (= payout); tick937
+bud_aag_goederen_2025,agb_ardooie,2025,256661,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Goederen en diensten 0.257m; tick937
+bud_aag_werking_rec_2025,agb_ardooie,2025,403853,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Ontvangsten uit de werking 0.404m (prijssubsidie embedded FOI); tick937
+bud_aag_city_toelage_dual_2025,agb_ardooie,2025,190689,,,jaarrekening_realized,src_ardooie_agb_jr2025,strong,Dual city Ardooie AGB toelage 0.191m (AGB books 0 werkingsubsidies; prijssubsidiefactor 10.2 FOI recon GR 23.12.2024); tick937

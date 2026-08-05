@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T16:45:00Z,rq_936,936,no,tick936 Ardooie JR2025 dual Ichtegem; FOI gap_ard_toelagen_cash_invest_agb_l5 prio8 other toelagen 1.02m cash drop budget -3.22m AGB corr AFM neg; next residual dual L5 rq_937; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T17:15:00Z,rq_937,937,no,tick937 AGB Ardooie JR2025 dual city Ardooie; FOI gap_aag_debt_dividend_prijssubsidie_l5 prio8 fin debt 2.02m corr AFM -0.068m dividend 0.049m prijs 10.2; next residual dual L5 rq_938; rq_116 deferred

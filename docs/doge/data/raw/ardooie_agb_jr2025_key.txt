@@ -1,0 +1,30 @@
+AGB Ardooie Jaarrekening 2025 (BBC 100p)
+KBO/BTW BE 0878.654.407
+PDF: https://ardooie.be/systems/file_download.ashx?pg=6504&ver=1
+Portal: https://ardooie.be/over-ardooie/publicaties-bekendmakingen/autonoom-gemeentebedrijf/jaarrekening-agb/jaarrekening-2025-agb
+Tick 937
+
+BALANCE J4 YE2025 / YE2024
+assets              2971110 / 2989911
+equity              871757 / 871758
+debt total          2099353 / 2118153
+fin debt total      2019927 / 2045496  DECLINING (LT 1994358 + ST due 25569)
+cash                169799 / 190817  DROP
+MVA                 2766839 (bedrijfsmatig buildings 2724421)
+
+J2 2025
+expl rec/exp/saldo  412881 / 316865 / +96017
+invest exp          85237
+fin exp (aflossingen) 25569
+fin rec             0
+budget result       -14789 FOI
+BBR                 120272
+AFM                 +70448
+AFM corr            -67623 FOI
+P&L / payout rechthebbenden 48699 FOI (while corr AFM neg)
+
+T2/T4 notes
+New loans 0; renteloze gemeente loan 99-year path residual FOI
+City AGB toelage 190689 (tick936) vs AGB werkingsubsidies 0; prijssubsidiefactor 10.2 FOI recon
+Goederen 256661; no personnel on AGB
+Dual city Ardooie tick936: assets 77m fin debt near-zero cash drop budget -3.22m other toelagen 1.02m
