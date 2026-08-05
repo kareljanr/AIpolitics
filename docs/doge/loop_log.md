@@ -10768,3 +10768,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_870=done; next **rq_871**; loop_state ticks=870
 - FOI: none new this tick
 - Next: prio5 **rq_871** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/VUB/skeyes); deferred **rq_116**; progress@880 in 10
+
+## Tick 871 - 2026-08-06T08:30:00Z
+
+- Unit: **rq_871** (FOI-adjacent residual dual - **Gemeente+OCMW Westerlo Jaarrekening 2025** + Zottegem dual)
+- Found (strong primary BBC JR2025 159p):
+  - Assets **EUR176.4m** / equity **EUR136.4m** / debt total **EUR40.0m** / fin debt **EUR14.3m** (LT **EUR12.7m** / ST due **EUR1.6m**; was **EUR15.3m**)
+  - Pension **EUR18.6m** (was **EUR11.7m**) / cash **EUR16.7m** / cap subs **EUR26.6m** / FVA IGS **EUR18.5m**
+  - Exploitatie: ontvangsten **EUR59.1m** / uitgaven **EUR50.9m** / saldo **+EUR8.2m**
+  - AFM **+EUR7.6m** (gecorr **+EUR7.9m**) / BBR **EUR20.1m** / budget result **+EUR4.9m** / P&L **-EUR6.8m**
+  - Personnel **EUR31.7m** (onderwijs other-gov **EUR5.9m**) / toelagen **EUR5.1m** (police **EUR2.8m** / fire **EUR0.8m** / AGB **EUR0.6m** / other **EUR0.5m**) / OCMW aid **EUR1.9m** / fiscal **EUR23.3m**
+  - Invest **EUR7.6m** / invest-subs granted **EUR2.0m** / new loans **EUR0.42m** / gemeentefonds **EUR7.3m**
+- Dual: Zottegem **EUR167m** / fin debt **EUR50m** / AFM **+EUR6.5m** (tick869) - not TE-additive
+- Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_westerlo; FOI **gap_westerlo_pension_subs_l5** prio7 ready + draft; raw PDF+extract; rq_871=done; spawn **rq_872**; ticks=871
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_872** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/Schoten/VUB/skeyes); deferred **rq_116**; progress@880 in 9

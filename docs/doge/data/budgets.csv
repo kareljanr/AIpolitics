@@ -18592,3 +18592,43 @@ bud_zo_invest_subs_granted_2025,city_zottegem,2025,1970851,,,outturn,src_zottege
 bud_zo_pl_costs_2025,city_zottegem,2025,73494311,,,outturn,src_zottegem_jr2025,strong,Staat kosten total 73.494m 2025; tick869
 bud_zo_pl_opbrengsten_2025,city_zottegem,2025,73834412,,,outturn,src_zottegem_jr2025,strong,Staat opbrengsten total 73.834m 2025; tick869
 bud_zo_pl_result_2025,city_zottegem,2025,340100,,,outturn,src_zottegem_jr2025,strong,Boekhoudkundig overschot +0.340m 2025; tick869
+bud_we_assets_2025,city_westerlo,2025,176408822,,,stock,src_westerlo_jr2025,strong,Consol gemeente+OCMW total assets YE2025 176.409m; tick871
+bud_we_equity_2025,city_westerlo,2025,136447865,,,stock,src_westerlo_jr2025,strong,Nettoactief YE2025 136.448m; tick871
+bud_we_debt_total_2025,city_westerlo,2025,39960957,,,stock,src_westerlo_jr2025,strong,Schulden total YE2025 39.961m; tick871
+bud_we_fin_debt_2025,city_westerlo,2025,14257900,,,stock,src_westerlo_jr2025,strong,Financiele schulden total YE2025 14.258m (LT 12.701 + ST due 1.557); tick871
+bud_we_fin_debt_lt_2025,city_westerlo,2025,12700648,,,stock,src_westerlo_jr2025,strong,Financiele schulden LT YE2025 12.701m; tick871
+bud_we_fin_debt_st_2025,city_westerlo,2025,1557252,,,stock,src_westerlo_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.557m; tick871
+bud_we_pension_prov_2025,city_westerlo,2025,18559719,,,stock,src_westerlo_jr2025,strong,Pensioenvoorzieningen YE2025 18.560m (was 11.735m FOI-adjacent); tick871
+bud_we_cash_2025,city_westerlo,2025,16683422,,,stock,src_westerlo_jr2025,strong,Liquide middelen YE2025 16.683m; tick871
+bud_we_cap_subs_2025,city_westerlo,2025,26616197,,,stock,src_westerlo_jr2025,strong,Kapitaalsubsidies YE2025 26.616m; tick871
+bud_we_fva_igs_2025,city_westerlo,2025,18542999,,,stock,src_westerlo_jr2025,strong,Fin VA IGS YE2025 18.543m; tick871
+bud_we_cumul_surplus_2025,city_westerlo,2025,12716702,,,stock,src_westerlo_jr2025,strong,Gecumuleerd overschot YE2025 12.717m (was 19.551m); tick871
+bud_we_expl_rec_2025,city_westerlo,2025,59055486,,,outturn,src_westerlo_jr2025,strong,Exploitatieontvangsten 59.055m 2025; tick871
+bud_we_expl_exp_2025,city_westerlo,2025,50895291,,,outturn,src_westerlo_jr2025,strong,Exploitatieuitgaven 50.895m 2025; tick871
+bud_we_expl_saldo_2025,city_westerlo,2025,8160195,,,outturn,src_westerlo_jr2025,strong,Exploitatiesaldo +8.160m 2025; tick871
+bud_we_invest_exp_2025,city_westerlo,2025,7557996,,,outturn,src_westerlo_jr2025,strong,Investeringsuitgaven 7.558m 2025; tick871
+bud_we_invest_rec_2025,city_westerlo,2025,5322194,,,outturn,src_westerlo_jr2025,strong,Investeringsontvangsten 5.322m 2025; tick871
+bud_we_invest_saldo_2025,city_westerlo,2025,-2235802,,,outturn,src_westerlo_jr2025,strong,Investeringssaldo -2.236m 2025; tick871
+bud_we_fin_rec_2025,city_westerlo,2025,677154,,,outturn,src_westerlo_jr2025,strong,Financieringsontvangsten 0.677m 2025; tick871
+bud_we_fin_exp_2025,city_westerlo,2025,1706968,,,outturn,src_westerlo_jr2025,strong,Financieringsuitgaven 1.707m 2025; tick871
+bud_we_fin_saldo_2025,city_westerlo,2025,-1029814,,,outturn,src_westerlo_jr2025,strong,Financieringssaldo -1.030m 2025; tick871
+bud_we_budget_result_2025,city_westerlo,2025,4894579,,,outturn,src_westerlo_jr2025,strong,Budgettair resultaat boekjaar +4.895m 2025; tick871
+bud_we_bbr_2025,city_westerlo,2025,20054298,,,outturn,src_westerlo_jr2025,strong,Beschikbaar budgettair resultaat 20.054m YE2025; tick871
+bud_we_afm_2025,city_westerlo,2025,7586489,,,outturn,src_westerlo_jr2025,strong,Autofinancieringsmarge AFM +7.586m 2025; tick871
+bud_we_afm_corr_2025,city_westerlo,2025,7851042,,,outturn,src_westerlo_jr2025,strong,Gecorrigeerde AFM +7.851m 2025; tick871
+bud_we_personnel_2025,city_westerlo,2025,31698662,,,outturn,src_westerlo_jr2025,strong,Personeelsuitgaven/bezold 31.699m 2025 (incl onderwijs other-gov 5.907m); tick871
+bud_we_personnel_onderwijs_other_2025,city_westerlo,2025,5907049,,,outturn,src_westerlo_jr2025,strong,Onderwijzend personeel ten laste andere overheden 5.907m 2025; tick871
+bud_we_goederen_diensten_2025,city_westerlo,2025,11628031,,,outturn,src_westerlo_jr2025,strong,Goederen en diensten 11.628m 2025; tick871
+bud_we_toelagen_2025,city_westerlo,2025,5061749,,,outturn,src_westerlo_jr2025,strong,Toegestane werkingssubsidies 5.062m 2025; tick871
+bud_we_toelagen_police_2025,city_westerlo,2025,2789119,,,outturn,src_westerlo_jr2025,strong,Toelage politiezone 2.789m 2025; tick871
+bud_we_toelagen_fire_2025,city_westerlo,2025,803526,,,outturn,src_westerlo_jr2025,strong,Toelage hulpverleningszone 0.804m 2025; tick871
+bud_we_toelagen_agb_2025,city_westerlo,2025,611166,,,outturn,src_westerlo_jr2025,strong,Toelage eigen AGB 0.611m 2025; tick871
+bud_we_toelagen_other_2025,city_westerlo,2025,473880,,,outturn,src_westerlo_jr2025,strong,Toelagen andere begunstigden 0.474m 2025 FOI-adjacent; tick871
+bud_we_ocmw_aid_2025,city_westerlo,2025,1866599,,,outturn,src_westerlo_jr2025,strong,OCMW individuele hulpverlening 1.867m 2025; tick871
+bud_we_fiscal_2025,city_westerlo,2025,23261605,,,outturn,src_westerlo_jr2025,strong,Fiscale ontvangsten en boetes 23.262m 2025; tick871
+bud_we_gemeentefonds_2025,city_westerlo,2025,7348292,,,outturn,src_westerlo_jr2025,strong,Gemeentefonds 7.348m 2025; tick871
+bud_we_new_loans_2025,city_westerlo,2025,421478,,,outturn,src_westerlo_jr2025,strong,Nieuwe financiele schulden 0.421m 2025 (leasing/other entities; no bank); tick871
+bud_we_invest_subs_granted_2025,city_westerlo,2025,2023180,,,outturn,src_westerlo_jr2025,strong,Toegestane investeringssubsidies 2.023m 2025 FOI-adjacent; tick871
+bud_we_pl_costs_2025,city_westerlo,2025,67075490,,,outturn,src_westerlo_jr2025,strong,Staat kosten total 67.075m 2025; tick871
+bud_we_pl_opbrengsten_2025,city_westerlo,2025,60241576,,,outturn,src_westerlo_jr2025,strong,Staat opbrengsten total 60.242m 2025; tick871
+bud_we_pl_result_2025,city_westerlo,2025,-6833915,,,outturn,src_westerlo_jr2025,strong,Boekhoudkundig tekort -6.834m 2025 (provisions/pension jump class); tick871
