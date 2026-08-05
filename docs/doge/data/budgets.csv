@@ -27330,3 +27330,57 @@ bud_sml_fiscal_ov_2025,city_sint_martens_latem,2025,4081296,,,bbc_jr_realized,sr
 bud_sml_fiscal_pb_2025,city_sint_martens_latem,2025,4532170,,,bbc_jr_realized,src_sml_jr2025,strong,Aanvullende PB 4.532m JUMP; tick1070
 bud_sml_gemeentefonds_2025,city_sint_martens_latem,2025,1332014,,,bbc_jr_realized,src_sml_jr2025,strong,Gemeentefonds 1.332m; tick1070
 bud_sml_interest_2025,city_sint_martens_latem,2025,507883,,,bbc_jr_realized,src_sml_jr2025,strong,Intresten op leningen 0.508m JUMP FOI; tick1070
+bud_leb_assets_2025,city_lebbeke,2025,108341280,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Assets YE2025 108.341m JUMP (was 104.758m); tick1071
+bud_leb_equity_2025,city_lebbeke,2025,70124009,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Nettoactief YE2025 70.124m (was 69.620m); tick1071
+bud_leb_debt_total_2025,city_lebbeke,2025,38217270,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Total schulden YE2025 38.217m JUMP (was 35.138m); tick1071
+bud_leb_fin_debt_2025,city_lebbeke,2025,23735746,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Fin debt total YE2025 23.736m JUMP (was 22.024m); tick1071
+bud_leb_fin_debt_lt_2025,city_lebbeke,2025,21562546,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Fin debt LT YE2025 21.563m JUMP (was 19.684m); tick1071
+bud_leb_fin_debt_st_due_2025,city_lebbeke,2025,2173200,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Fin debt ST due YE2025 2.173m; tick1071
+bud_leb_new_loans_2025,city_lebbeke,2025,4195377,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Nieuwe leningen 2025 4.195m JUMP FOI (bank 3.0m + leasing); tick1071
+bud_leb_aflossingen_2025,city_lebbeke,2025,2483731,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Periodieke aflossingen 2025 2.484m; tick1071
+bud_leb_mjp_new_loans_2026,city_lebbeke,2025,11279156,,,bbc_jr_realized,src_lebbeke_jr2025,strong,MJP new loans 2026 planned 11.279m MASSIVE JUMP FOI; tick1071
+bud_leb_mjp_fin_debt_2026,city_lebbeke,2025,32622677,,,bbc_jr_realized,src_lebbeke_jr2025,strong,MJP fin debt YE2026 planned 32.623m FOI path; tick1071
+bud_leb_cash_2025,city_lebbeke,2025,6138214,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Liquide middelen YE2025 6.138m JUMP (was 5.496m); tick1071
+bud_leb_pension_2025,city_lebbeke,2025,7210438,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.210m JUMP FOI (was 6.595m); tick1071
+bud_leb_cap_subs_2025,city_lebbeke,2025,4145865,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Kapitaalsubsidies YE2025 4.146m; tick1071
+bud_leb_fva_total_2025,city_lebbeke,2025,18462813,,,bbc_jr_realized,src_lebbeke_jr2025,strong,FVA total YE2025 18.463m; tick1071
+bud_leb_fva_igs_2025,city_lebbeke,2025,18236722,,,bbc_jr_realized,src_lebbeke_jr2025,strong,FVA IGS YE2025 18.237m; tick1071
+bud_leb_leasing_mva_2025,city_lebbeke,2025,16140582,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Leasing MVA YE2025 16.141m HIGH FOI; tick1071
+bud_leb_expl_rec_2025,city_lebbeke,2025,42088489,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Exploitatieontvangsten 42.088m; tick1071
+bud_leb_expl_exp_2025,city_lebbeke,2025,37515846,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Exploitatieuitgaven 37.516m; tick1071
+bud_leb_expl_saldo_2025,city_lebbeke,2025,4572643,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Exploitatiesaldo +4.573m STRONG; tick1071
+bud_leb_invest_exp_2025,city_lebbeke,2025,6332609,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Investeringsuitgaven 6.333m vs MJP 9.584m UNDERSPEND FOI; tick1071
+bud_leb_invest_rec_2025,city_lebbeke,2025,683510,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Investeringsontvangsten 0.684m; tick1071
+bud_leb_invest_saldo_2025,city_lebbeke,2025,-5649098,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Investeringssaldo -5.649m; tick1071
+bud_leb_mjp_invest_planned_2025,city_lebbeke,2025,9583551,,,bbc_jr_realized,src_lebbeke_jr2025,strong,MJP invest planned 9.584m vs realized 6.333m underspend FOI; tick1071
+bud_leb_invest_mva_2025,city_lebbeke,2025,5636432,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Investeringen MVA 5.636m; tick1071
+bud_leb_invest_subs_granted_2025,city_lebbeke,2025,592092,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Toegestane invest-subs 0.592m (police 0.432m) FOI; tick1071
+bud_leb_afm_2025,city_lebbeke,2025,2227964,,,bbc_jr_realized,src_lebbeke_jr2025,strong,AFM +2.228m STRONG (MJP only 0.130m); tick1071
+bud_leb_afm_corr_2025,city_lebbeke,2025,2949766,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Gecorrigeerde AFM +2.950m STRONG; tick1071
+bud_leb_bbr_2025,city_lebbeke,2025,4947196,,,bbc_jr_realized,src_lebbeke_jr2025,strong,BBR beschikbaar +4.947m; tick1071
+bud_leb_budget_result_2025,city_lebbeke,2025,638983,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Budgettair resultaat +0.639m STRONG (MJP was -2.555m); tick1071
+bud_leb_cum_br_2025,city_lebbeke,2025,5133863,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Gecumuleerd budgettair resultaat +5.134m; tick1071
+bud_leb_onbeschikbaar_2025,city_lebbeke,2025,186667,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Onbeschikbare gelden 0.187m; tick1071
+bud_leb_pnl_2025,city_lebbeke,2025,274841,,,bbc_jr_realized,src_lebbeke_jr2025,strong,P&L +0.275m IMPROVING (was -1.723m); tick1071
+bud_leb_ge_expl_exp_2025,city_lebbeke,2025,25784192,,,bbc_jr_realized,src_lebbeke_jr2025,strong,GE exploitatieuitgaven J3 25.784m; tick1071
+bud_leb_ge_expl_rec_2025,city_lebbeke,2025,31682223,,,bbc_jr_realized,src_lebbeke_jr2025,strong,GE exploitatieontvangsten J3 31.682m; tick1071
+bud_leb_ocmw_expl_exp_2025,city_lebbeke,2025,11731654,,,bbc_jr_realized,src_lebbeke_jr2025,strong,OCMW exploitatieuitgaven J3 11.732m; tick1071
+bud_leb_ocmw_expl_rec_2025,city_lebbeke,2025,10406266,,,bbc_jr_realized,src_lebbeke_jr2025,strong,OCMW exploitatieontvangsten J3 10.406m; tick1071
+bud_leb_ocmw_expl_gap_2025,city_lebbeke,2025,-1325388,,,bbc_jr_realized,src_lebbeke_jr2025,strong,OCMW expl gap J3 -1.325m; tick1071
+bud_leb_ocmw_cover_2025,city_lebbeke,2025,1690347,,,bbc_jr_realized,src_lebbeke_jr2025,strong,OCMW cover tussenkomst 1.690m FULL; tick1071
+bud_leb_equity_cum_2025,city_lebbeke,2025,12025156,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Gecumuleerd equity overschot YE2025 +12.025m; tick1071
+bud_leb_ocmw_equity_cum_2025,city_lebbeke,2025,-3585349,,,bbc_jr_realized,src_lebbeke_jr2025,strong,OCMW equity cum -3.585m still NEG FOI (was -3.507m; cover full); tick1071
+bud_leb_ge_equity_cum_2025,city_lebbeke,2025,15610505,,,bbc_jr_realized,src_lebbeke_jr2025,strong,GE equity cum +15.611m; tick1071
+bud_leb_personnel_2025,city_lebbeke,2025,22653351,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Bezoldigingen 22.653m JUMP incl education pass-through 3.226m JUMP; tick1071
+bud_leb_edu_pass_through_2025,city_lebbeke,2025,3226200,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.226m JUMP (was 1.370m); tick1071
+bud_leb_toelagen_2025,city_lebbeke,2025,6682828,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Toegestane werkingssubsidies 6.683m FOI residual; tick1071
+bud_leb_toelagen_police_2025,city_lebbeke,2025,3138055,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Toelage politiezone 3.138m; tick1071
+bud_leb_toelagen_fire_2025,city_lebbeke,2025,492706,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Toelage hulpverleningszone 0.493m; tick1071
+bud_leb_toelagen_igs_2025,city_lebbeke,2025,2537078,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Toelage IGS 2.537m HIGH FOI; tick1071
+bud_leb_toelagen_other_2025,city_lebbeke,2025,514989,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Toelage other+eredienst+welzijn residual 0.515m FOI; tick1071
+bud_leb_ocmw_aid_2025,city_lebbeke,2025,1143512,,,bbc_jr_realized,src_lebbeke_jr2025,strong,OCMW individuele hulp 1.144m JUMP; tick1071
+bud_leb_fiscal_2025,city_lebbeke,2025,18853748,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Fiscale opbrengsten 18.854m; tick1071
+bud_leb_fiscal_ov_2025,city_lebbeke,2025,7517566,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Opcentiemen OV 7.518m; tick1071
+bud_leb_fiscal_pb_2025,city_lebbeke,2025,9176428,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Aanvullende PB 9.176m JUMP; tick1071
+bud_leb_gemeentefonds_2025,city_lebbeke,2025,5237119,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Gemeentefonds 5.237m; tick1071
+bud_leb_interest_2025,city_lebbeke,2025,624775,,,bbc_jr_realized,src_lebbeke_jr2025,strong,Intresten op leningen 0.625m; tick1071

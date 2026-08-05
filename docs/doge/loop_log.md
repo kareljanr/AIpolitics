@@ -14349,3 +14349,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1071** residual dual L5; deferred **rq_116**; progress@1080
 
+
+### Tick 1071 - 2026-08-11T01:00:00Z
+
+- Unit: **rq_1071** (FOI-adjacent residual dual - **Lokaal Bestuur Lebbeke Jaarrekening 2025** + SML dual residual)
+- Found (strong primary BBC JR2025 PDF; GR 03.06.2026 pub 09.06.2026; KBO GE 0207.446.079 / OCMW 0212.192.151; Flor Hofmanslaan 1 9280; AD Luc Vermeir FD Jeroen Bosman BM Jan Vanderstraeten; GE+OCMW):
+  - Assets **EUR108.341m JUMP** / equity **EUR70.124m** / debt total **EUR38.22m JUMP** / fin debt **EUR23.736m JUMP** (LT **EUR21.563m** / ST due **EUR2.173m**; was **EUR22.024m**)
+  - New loans **EUR4.195m JUMP FOI** (bank **EUR3.0m** + leasing Fluvius/Farys/kerk) / repayments **EUR2.484m** / MJP new loans **2026 EUR11.279m MASSIVE FOI** (path YE2026 **EUR32.623m**)
+  - Cash **EUR6.138m JUMP** / pension **EUR7.210m JUMP FOI** (was **EUR6.595m**) / FVA IGS **EUR18.237m** / leasing MVA **EUR16.141m HIGH FOI**
+  - Exploitatie: ontvangsten **EUR42.088m** / uitgaven **EUR37.516m** / saldo **+EUR4.573m STRONG**
+  - AFM **+EUR2.228m STRONG** (gecorr **+EUR2.950m**) / BBR **EUR4.947m** / budget **+EUR0.639m STRONG** (MJP was **-EUR2.555m**) / cum BR **EUR5.134m** / P&L **+EUR0.275m IMPROVING**
+  - Personnel **EUR22.653m JUMP** (edu pass-through **EUR3.226m JUMP**) / toelagen **EUR6.683m FOI** (police **EUR3.138m** / fire **EUR0.493m** / IGS **EUR2.537m HIGH** / other **EUR0.515m**)
+  - Invest **EUR6.333m** vs MJP **EUR9.584m UNDERSPEND FOI** / OCMW cover **EUR1.690m FULL** / OCMW equity cum **-EUR3.585m still NEG FOI**
+- Dual: SML assets **EUR64.2m** / corr AFM **-EUR0.41m NEG** / equity cum **-EUR6.21m** (tick1070) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1080
+- Wrote: budgets +54 (bud_leb_*); commitments +7; leaderboard +8; sources +1; entity city_lebbeke; FOI **gap_leb_mjp_loans_pension_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1071=done; spawn **rq_1072**; ticks=1071
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1072** residual dual L5; deferred **rq_116**; progress@1080
+
