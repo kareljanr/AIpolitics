@@ -28364,3 +28364,55 @@ bud_hec_ge_equity_cum_2025,city_hechtel_eksel,2025,-276917,,,bbc_jr_realized,src
 bud_hec_financieringssaldo_2025,city_hechtel_eksel,2025,-530363,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Financieringssaldo -0.530m; tick1092
 bud_hec_mjp_new_loans_planned_2025,city_hechtel_eksel,2025,2807407,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,MJP new loans planned 2.807m vs realized 0.178m UNDERDRAW FOI; tick1092
 bud_hec_interest_2025,city_hechtel_eksel,2025,269357,,,bbc_jr_realized,src_hechtel_eksel_jr2025,strong,Intresten 0.269m; tick1092
+bud_bre_assets_2025,city_bree,2025,168476246,,,bbc_jr_realized,src_bree_jr2025,strong,Assets YE2025 168.476m MASSIVE JUMP FOI (was 140.971m; FVA herwaard); tick1093
+bud_bre_equity_2025,city_bree,2025,130179976,,,bbc_jr_realized,src_bree_jr2025,strong,Nettoactief YE2025 130.180m MASSIVE JUMP (was 101.837m); tick1093
+bud_bre_debt_total_2025,city_bree,2025,38296270,,,bbc_jr_realized,src_bree_jr2025,strong,Total schulden YE2025 38.296m DROP (was 39.134m); tick1093
+bud_bre_fin_debt_2025,city_bree,2025,28516399,,,bbc_jr_realized,src_bree_jr2025,strong,Fin debt total YE2025 28.516m DECLINE (was 30.406m); tick1093
+bud_bre_fin_debt_lt_2025,city_bree,2025,26142580,,,bbc_jr_realized,src_bree_jr2025,strong,Fin debt LT YE2025 26.143m DECLINE; tick1093
+bud_bre_fin_debt_st_due_2025,city_bree,2025,2373819,,,bbc_jr_realized,src_bree_jr2025,strong,Fin debt ST due YE2025 2.374m; tick1093
+bud_bre_new_loans_2025,city_bree,2025,509101,,,bbc_jr_realized,src_bree_jr2025,strong,Nieuwe leningen 2025 0.509m LOW leasing (MJP bank 6.000m NOT drawn FOI); tick1093
+bud_bre_aflossingen_2025,city_bree,2025,2398969,,,bbc_jr_realized,src_bree_jr2025,strong,Periodieke aflossingen 2025 2.399m; tick1093
+bud_bre_cash_2025,city_bree,2025,12642983,,,bbc_jr_realized,src_bree_jr2025,strong,Liquide middelen YE2025 12.643m DROP FOI (was 13.549m); tick1093
+bud_bre_pension_2025,city_bree,2025,6478379,,,bbc_jr_realized,src_bree_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.478m stable; tick1093
+bud_bre_cap_subs_2025,city_bree,2025,16297984,,,bbc_jr_realized,src_bree_jr2025,strong,Kapitaalsubsidies YE2025 16.298m JUMP; tick1093
+bud_bre_fva_total_2025,city_bree,2025,48132560,,,bbc_jr_realized,src_bree_jr2025,strong,FVA total YE2025 48.133m MASSIVE JUMP FOI (was 24.624m); tick1093
+bud_bre_fva_igs_2025,city_bree,2025,42730137,,,bbc_jr_realized,src_bree_jr2025,strong,FVA IGS YE2025 42.730m MASSIVE JUMP FOI (was 19.224m +23.5m); tick1093
+bud_bre_fva_agb_2025,city_bree,2025,2824672,,,bbc_jr_realized,src_bree_jr2025,strong,FVA EVA/AGB YE2025 2.825m; tick1093
+bud_bre_fva_other_2025,city_bree,2025,2443531,,,bbc_jr_realized,src_bree_jr2025,strong,Andere FVA YE2025 2.444m; tick1093
+bud_bre_herwaard_2025,city_bree,2025,23507870,,,bbc_jr_realized,src_bree_jr2025,strong,Herwaarderingsreserves YE2025 23.508m MASSIVE JUMP FOI (was 0.021m); tick1093
+bud_bre_leasing_mva_2025,city_bree,2025,1928818,,,bbc_jr_realized,src_bree_jr2025,strong,Leasing MVA YE2025 1.929m; tick1093
+bud_bre_lt_vorderingen_2025,city_bree,2025,8401335,,,bbc_jr_realized,src_bree_jr2025,strong,Vorderingen LT YE2025 8.401m JUMP FOI (was 6.697m; AGB loans); tick1093
+bud_bre_expl_rec_2025,city_bree,2025,33149923,,,bbc_jr_realized,src_bree_jr2025,strong,Exploitatieontvangsten 33.150m; tick1093
+bud_bre_expl_exp_2025,city_bree,2025,25489528,,,bbc_jr_realized,src_bree_jr2025,strong,Exploitatieuitgaven 25.490m; tick1093
+bud_bre_expl_saldo_2025,city_bree,2025,7660395,,,bbc_jr_realized,src_bree_jr2025,strong,Exploitatiesaldo +7.660m VERY STRONG; tick1093
+bud_bre_invest_exp_2025,city_bree,2025,7620719,,,bbc_jr_realized,src_bree_jr2025,strong,Investeringsuitgaven 7.621m vs MJP 11.159m UNDERSPEND FOI; tick1093
+bud_bre_invest_rec_2025,city_bree,2025,2042798,,,bbc_jr_realized,src_bree_jr2025,strong,Investeringsontvangsten 2.043m; tick1093
+bud_bre_invest_saldo_2025,city_bree,2025,-5577921,,,bbc_jr_realized,src_bree_jr2025,strong,Investeringssaldo -5.578m FOI; tick1093
+bud_bre_mjp_invest_planned_2025,city_bree,2025,11159027,,,bbc_jr_realized,src_bree_jr2025,strong,MJP invest planned 11.159m vs realized 7.621m UNDERSPEND FOI; tick1093
+bud_bre_afm_2025,city_bree,2025,5548947,,,bbc_jr_realized,src_bree_jr2025,strong,AFM +5.549m VERY STRONG; tick1093
+bud_bre_afm_corrected_2025,city_bree,2025,5515415,,,bbc_jr_realized,src_bree_jr2025,strong,Gecorrigeerde AFM +5.515m VERY STRONG; tick1093
+bud_bre_bbr_2025,city_bree,2025,12654730,,,bbc_jr_realized,src_bree_jr2025,strong,Beschikbaar budgettair resultaat 12.655m VERY HIGH; tick1093
+bud_bre_budget_result_2025,city_bree,2025,-1519873,,,bbc_jr_realized,src_bree_jr2025,strong,Budgettair resultaat boekjaar -1.520m NEG FOI (invest/financing; MJP -6.710); tick1093
+bud_bre_cum_budget_2025,city_bree,2025,12654730,,,bbc_jr_realized,src_bree_jr2025,strong,Gecumuleerd budgettair resultaat 12.655m; tick1093
+bud_bre_pnl_2025,city_bree,2025,4160441,,,bbc_jr_realized,src_bree_jr2025,strong,P&L overschot +4.160m STRONG DROP (was +6.325m); tick1093
+bud_bre_personnel_2025,city_bree,2025,14007737,,,bbc_jr_realized,src_bree_jr2025,strong,Bezoldigingen 14.008m JUMP; tick1093
+bud_bre_goods_services_2025,city_bree,2025,3935115,,,bbc_jr_realized,src_bree_jr2025,strong,Goederen en diensten 3.935m; tick1093
+bud_bre_toelagen_2025,city_bree,2025,5663266,,,bbc_jr_realized,src_bree_jr2025,strong,Toegestane werkingssubsidies 5.663m JUMP FOI; tick1093
+bud_bre_police_toelage_2025,city_bree,2025,2040796,,,bbc_jr_realized,src_bree_jr2025,strong,Politiezone toelage 2.041m MASSIVE JUMP FOI (was 1.462m); tick1093
+bud_bre_fire_toelage_2025,city_bree,2025,815881,,,bbc_jr_realized,src_bree_jr2025,strong,HVZ toelage 0.816m; tick1093
+bud_bre_igs_toelage_2025,city_bree,2025,938094,,,bbc_jr_realized,src_bree_jr2025,strong,IGS toelage 0.938m JUMP FOI; tick1093
+bud_bre_agb_toelage_2025,city_bree,2025,796610,,,bbc_jr_realized,src_bree_jr2025,strong,AGB toelage 0.797m dual residual; tick1093
+bud_bre_other_toelagen_2025,city_bree,2025,718619,,,bbc_jr_realized,src_bree_jr2025,strong,Andere toelagen 0.719m JUMP FOI; tick1093
+bud_bre_eredienst_toelage_2025,city_bree,2025,245063,,,bbc_jr_realized,src_bree_jr2025,strong,Eredienst toelage 0.245m; tick1093
+bud_bre_fiscal_rec_2025,city_bree,2025,17392132,,,bbc_jr_realized,src_bree_jr2025,strong,Fiscale ontvangsten 17.392m JUMP; tick1093
+bud_bre_fiscal_ov_2025,city_bree,2025,7957388,,,bbc_jr_realized,src_bree_jr2025,strong,Opcentiemen OV 7.957m DROP; tick1093
+bud_bre_fiscal_pb_2025,city_bree,2025,6713744,,,bbc_jr_realized,src_bree_jr2025,strong,Aanvullende PB 6.714m JUMP; tick1093
+bud_bre_gemeentefonds_2025,city_bree,2025,5871447,,,bbc_jr_realized,src_bree_jr2025,strong,Gemeentefonds 5.871m; tick1093
+bud_bre_ocmw_cover_2025,city_bree,2025,3300000,,,bbc_jr_realized,src_bree_jr2025,strong,OCMW tussenkomst 3.300m FULL MASSIVE FOI; tick1093
+bud_bre_ocmw_hulp_2025,city_bree,2025,968999,,,bbc_jr_realized,src_bree_jr2025,strong,OCMW individuele hulpverlening 0.969m; tick1093
+bud_bre_agb_loan_granted_2025,city_bree,2025,2000000,,,bbc_jr_realized,src_bree_jr2025,strong,Toegestane lening aan AGB 2.000m FOI dual; tick1093
+bud_bre_agb_afm_2025,city_bree,2025,-8798,,,bbc_jr_realized,src_bree_jr2025,strong,AGB Bree AFM -0.009m NEG dual residual FOI; tick1093
+bud_bre_agb_afm_corr_2025,city_bree,2025,-160273,,,bbc_jr_realized,src_bree_jr2025,strong,AGB corr AFM -0.160m NEG dual residual FOI; tick1093
+bud_bre_financieringssaldo_2025,city_bree,2025,-3602347,,,bbc_jr_realized,src_bree_jr2025,strong,Financieringssaldo -3.602m (incl AGB loan 2.0m); tick1093
+bud_bre_interest_2025,city_bree,2025,791301,,,bbc_jr_realized,src_bree_jr2025,strong,Intresten 0.791m; tick1093
+bud_bre_mjp_new_loans_planned_2025,city_bree,2025,6374920,,,bbc_jr_realized,src_bree_jr2025,strong,MJP new loans planned 6.375m vs realized 0.509m UNDERDRAW FOI; tick1093

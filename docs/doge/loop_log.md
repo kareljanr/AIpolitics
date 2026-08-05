@@ -14787,3 +14787,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +51 (bud_hec_*); commitments +7; leaderboard +8; sources +1; entity city_hechtel_eksel; FOI **gap_hec_igs_invest_onbeschikbaar_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1092=done; spawn **rq_1093**; ticks=1092
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1093** residual dual L5; deferred **rq_116**; progress@1100 in 7
+
+
+### Tick 1093 - 2026-08-11T12:00:00Z
+
+- Unit: **rq_1093** (FOI-adjacent residual dual - **Lokaal Bestuur Bree Jaarrekening 2025** + Hechtel-Eksel dual residual)
+- Found (strong primary BBC JR2025 PDF; 43p; pub 23.06.2026; bree.be; KBO GE 0207.471.617 / OCMW 0212.243.720; Vrijthof 10 / Stadsplein 1 3960; AD Stefan Goclon FD Sven Meermans; GE+OCMW + AGB dual):
+  - Assets **EUR168.476m MASSIVE JUMP FOI** (was **EUR140.971m**) / equity **EUR130.180m JUMP** / debt total **EUR38.30m DROP** / fin debt **EUR28.516m DECLINE** (LT **EUR26.143m** / ST due **EUR2.374m**; was **EUR30.406m**)
+  - New loans **EUR0.509m LOW** leasing / repayments **EUR2.399m** (MJP bank **EUR6.000m NOT drawn FOI**)
+  - Cash **EUR12.643m DROP FOI** (was **EUR13.549m**) / pension **EUR6.478m stable** / FVA IGS **EUR42.730m MASSIVE JUMP FOI** (was **EUR19.224m**) / herwaard **EUR23.508m MASSIVE JUMP FOI** (was **EUR0.021m**) / leasing MVA **EUR1.929m** / LT vorderingen **EUR8.401m JUMP** (AGB loans)
+  - Exploitatie: ontvangsten **EUR33.150m** / uitgaven **EUR25.490m** / saldo **+EUR7.660m VERY STRONG**
+  - AFM **+EUR5.549m VERY STRONG** (gecorr **+EUR5.515m**) / BBR **EUR12.655m VERY HIGH** / budget **EUR-1.520m NEG FOI** / cum BR **EUR12.655m** / P&L **+EUR4.160m STRONG DROP**
+  - Personnel **EUR14.008m JUMP** / toelagen **EUR5.663m JUMP FOI** (police **EUR2.041m MASSIVE JUMP** / IGS **EUR0.938m** / fire **EUR0.816m** / AGB **EUR0.797m** / other **EUR0.719m JUMP**)
+  - Invest **EUR7.621m** vs MJP **EUR11.159m UNDERSPEND FOI** / saldo **-EUR5.578m**
+  - OCMW cover **EUR3.300m FULL MASSIVE** / AGB loan granted **EUR2.000m FOI** / AGB AFM **-EUR0.009m NEG** / corr AFM **-EUR0.160m NEG**
+- Dual: Hechtel-Eksel IGS/invest onbeschikbaar / GE equity NEG after cover (tick1092) - not TE-additive
+- Note: Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Kaprijke / Dilsen / Bornem residual next; progress@1100 in 6
+- Wrote: budgets +51 (bud_bre_*); commitments +7; leaderboard +8; sources +1; entity city_bree; FOI **gap_bre_fva_herwaard_police_agb_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1093=done; spawn **rq_1094**; ticks=1093
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1094** residual dual L5; deferred **rq_116**; progress@1100 in 6
