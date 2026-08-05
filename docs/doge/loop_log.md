@@ -14565,3 +14565,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1082** residual dual L5; deferred **rq_116**; progress@1090 in 8
 
+
+### Tick 1082 - 2026-08-11T06:30:00Z
+
+- Unit: **rq_1082** (FOI-adjacent residual dual - **Lokaal Bestuur Zoutleeuw Jaarrekening 2025** + Herent dual residual)
+- Found (strong primary BBC JR2025 PDF; pub 01.07.2026; KBO GE 0207.527.540 / OCMW 0212.187.401; Aen den Hoorn 1 / Prins Leopoldplaats 3; AD Sandra Blockx FD Peter Vanmechelen; GE+OCMW):
+  - Assets **EUR57.038m JUMP** (FVA reval) / equity **EUR34.045m** / debt total **EUR22.99m JUMP** / fin debt **EUR14.968m JUMP FOI** (LT **EUR8.464m** / ST due **EUR0.804m** / **ST treasury EUR5.700m MASSIVE JUMP** was **EUR4.116m**)
+  - New loans **EUR0.394m** (leasing) / repayments **EUR0.834m**
+  - Cash **EUR0.348m VERY LOW critical FOI** (was **EUR0.081m**) / pension **EUR4.438m JUMP FOI** (was **EUR3.574m**) / FVA IGS **EUR14.329m JUMP reval** (was **EUR6.725m**) / herwaard reserves **EUR7.592m NEW** / leasing MVA **EUR2.153m**
+  - Exploitatie: ontvangsten **EUR20.336m** / uitgaven **EUR20.350m** / saldo **EUR-0.014m NEG**
+  - AFM **EUR-0.847m NEG HIGH FOI** (gecorr **EUR-1.120m NEG**) / BBR **EUR-4.365m NEG EXTREME FOI** / budget **EUR-1.579m NEG HIGH** / cum BR **EUR-4.365m** / P&L **EUR-1.891m NEG FLIP**
+  - Personnel **EUR11.546m** / toelagen **EUR2.168m FOI** (police **EUR1.198m** / fire **EUR0.531m JUMP** / other **EUR0.440m**)
+  - Fiscal **EUR8.054m DROP FOI** (was **EUR9.362m**; PB **EUR3.417m DROP**)
+  - Invest **EUR1.328m** vs MJP **EUR2.626m UNDERSPEND FOI**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW expl gap **-EUR1.616m**
+- Dual: Herent cash VERY HIGH / invest MASSIVE underspend / pension JUMP (tick1081) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse / Linter residual next; progress@1090 in 7
+- Wrote: budgets +52 (bud_zou_*); commitments +7; leaderboard +8; sources +1; entity city_zoutleeuw; FOI **gap_zou_afm_bbr_st_debt_cash_l5** prio9 ready + draft; PDF primary (not committed); rq_1082=done; spawn **rq_1083**; ticks=1082
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1083** residual dual L5; deferred **rq_116**; progress@1090 in 7
+

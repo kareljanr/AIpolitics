@@ -27865,3 +27865,55 @@ bud_her_interest_2025,city_herent,2025,429672,,,bbc_jr_realized,src_herent_jr202
 bud_her_agb_afm_2025,city_herent,2025,742733,,,bbc_jr_realized,src_herent_jr2025,strong,AGB De Kouter AFM +0.743m dual; tick1081
 bud_her_agb_bbr_2025,city_herent,2025,21116,,,bbc_jr_realized,src_herent_jr2025,strong,AGB De Kouter BBR +0.021m dual; tick1081
 bud_her_goederen_2025,city_herent,2025,10508249,,,bbc_jr_realized,src_herent_jr2025,strong,Goederen en diensten 10.508m; tick1081
+bud_zou_assets_2025,city_zoutleeuw,2025,57037526,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Assets YE2025 57.038m JUMP (was 48.885m) FVA reval; tick1082
+bud_zou_equity_2025,city_zoutleeuw,2025,34045180,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Nettoactief YE2025 34.045m (was 28.548m reval-boosted); tick1082
+bud_zou_debt_total_2025,city_zoutleeuw,2025,22992346,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Total schulden YE2025 22.992m JUMP (was 20.337m); tick1082
+bud_zou_fin_debt_2025,city_zoutleeuw,2025,14968360,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Fin debt total YE2025 14.968m JUMP FOI (was 13.832m); tick1082
+bud_zou_fin_debt_lt_2025,city_zoutleeuw,2025,8464218,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Fin debt LT YE2025 8.464m DECLINE (was 8.895m); tick1082
+bud_zou_fin_debt_st_due_2025,city_zoutleeuw,2025,804137,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Fin debt ST due YE2025 0.804m; tick1082
+bud_zou_fin_debt_st_treasury_2025,city_zoutleeuw,2025,5700005,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Fin debt ST treasury YE2025 5.700m MASSIVE JUMP FOI (was 4.116m); tick1082
+bud_zou_new_loans_2025,city_zoutleeuw,2025,393731,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Nieuwe leningen 2025 0.394m leasing-heavy; tick1082
+bud_zou_aflossingen_2025,city_zoutleeuw,2025,833553,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Periodieke aflossingen 2025 0.834m; tick1082
+bud_zou_cash_2025,city_zoutleeuw,2025,348387,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Liquide middelen YE2025 0.348m VERY LOW critical FOI (was 0.081m); tick1082
+bud_zou_pension_2025,city_zoutleeuw,2025,4438006,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.438m JUMP FOI (was 3.574m); tick1082
+bud_zou_cap_subs_2025,city_zoutleeuw,2025,6061966,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Kapitaalsubsidies YE2025 6.062m; tick1082
+bud_zou_fva_total_2025,city_zoutleeuw,2025,15723039,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,FVA total YE2025 15.723m MASSIVE JUMP reval FOI (was 8.120m); tick1082
+bud_zou_fva_igs_2025,city_zoutleeuw,2025,14328881,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,FVA IGS YE2025 14.329m JUMP reval (was 6.725m); tick1082
+bud_zou_reval_reserves_2025,city_zoutleeuw,2025,7592415,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Herwaarderingsreserves YE2025 7.592m NEW FOI; tick1082
+bud_zou_leasing_mva_2025,city_zoutleeuw,2025,2152988,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Leasing MVA YE2025 2.153m (gemeenschap 1.023 + bedrijfsmatig 1.130); tick1082
+bud_zou_expl_rec_2025,city_zoutleeuw,2025,20335942,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Exploitatieontvangsten 20.336m; tick1082
+bud_zou_expl_exp_2025,city_zoutleeuw,2025,20349649,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Exploitatieuitgaven 20.350m; tick1082
+bud_zou_expl_saldo_2025,city_zoutleeuw,2025,-13707,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Exploitatiesaldo -0.014m NEG FOI; tick1082
+bud_zou_invest_exp_2025,city_zoutleeuw,2025,1327982,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Investeringsuitgaven 1.328m vs MJP 2.626m UNDERSPEND FOI; tick1082
+bud_zou_invest_rec_2025,city_zoutleeuw,2025,246362,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Investeringsontvangsten 0.246m; tick1082
+bud_zou_invest_saldo_2025,city_zoutleeuw,2025,-1081621,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Investeringssaldo -1.082m; tick1082
+bud_zou_mjp_invest_planned_2025,city_zoutleeuw,2025,2626305,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,MJP invest planned 2.626m vs realized 1.328m underspend FOI; tick1082
+bud_zou_invest_mva_2025,city_zoutleeuw,2025,1268127,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Investeringen MVA 1.268m; tick1082
+bud_zou_invest_subs_granted_2025,city_zoutleeuw,2025,18135,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Toegestane invest-subs 0.018m; tick1082
+bud_zou_afm_2025,city_zoutleeuw,2025,-847260,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,AFM -0.847m NEG HIGH FOI; tick1082
+bud_zou_afm_corr_2025,city_zoutleeuw,2025,-1120229,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Gecorrigeerde AFM -1.120m NEG HIGH FOI; tick1082
+bud_zou_bbr_2025,city_zoutleeuw,2025,-4364561,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,BBR beschikbaar -4.365m NEG EXTREME FOI; tick1082
+bud_zou_budget_result_2025,city_zoutleeuw,2025,-1578922,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Budgettair resultaat -1.579m NEG HIGH FOI; tick1082
+bud_zou_cum_br_2025,city_zoutleeuw,2025,-4364561,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Gecumuleerd budgettair resultaat -4.365m NEG EXTREME FOI; tick1082
+bud_zou_onbeschikbaar_2025,city_zoutleeuw,2025,0,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Onbeschikbare gelden 0; tick1082
+bud_zou_pnl_2025,city_zoutleeuw,2025,-1890912,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,P&L -1.891m NEG FLIP FOI (was +0.683m); tick1082
+bud_zou_ge_expl_exp_2025,city_zoutleeuw,2025,12337649,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,GE exploitatieuitgaven J3 12.338m; tick1082
+bud_zou_ge_expl_rec_2025,city_zoutleeuw,2025,13940411,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,GE exploitatieontvangsten J3 13.940m; tick1082
+bud_zou_ocmw_expl_exp_2025,city_zoutleeuw,2025,8012000,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,OCMW exploitatieuitgaven J3 8.012m; tick1082
+bud_zou_ocmw_expl_rec_2025,city_zoutleeuw,2025,6395531,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,OCMW exploitatieontvangsten J3 6.396m; tick1082
+bud_zou_ocmw_expl_gap_2025,city_zoutleeuw,2025,-1616469,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,OCMW expl gap J3 -1.616m; tick1082
+bud_zou_ocmw_cover_2025,city_zoutleeuw,2025,0,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI residual; tick1082
+bud_zou_equity_cum_2025,city_zoutleeuw,2025,3047056,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Gecumuleerd equity overschot YE2025 +3.047m DROP (was 4.938m); tick1082
+bud_zou_personnel_2025,city_zoutleeuw,2025,11546128,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Bezoldigingen T2 11.546m incl education pass-through 0.421m; tick1082
+bud_zou_edu_pass_through_2025,city_zoutleeuw,2025,421034,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Onderwijzend personeel ten laste andere overheden 0.421m; tick1082
+bud_zou_toelagen_2025,city_zoutleeuw,2025,2168469,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Toegestane werkingssubsidies 2.168m FOI residual; tick1082
+bud_zou_toelagen_police_2025,city_zoutleeuw,2025,1198074,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Toelage politiezone 1.198m; tick1082
+bud_zou_toelagen_fire_2025,city_zoutleeuw,2025,530564,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Toelage hulpverleningszone 0.531m JUMP; tick1082
+bud_zou_toelagen_other_2025,city_zoutleeuw,2025,439831,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Toelage other+eredienst residual 0.440m FOI; tick1082
+bud_zou_ocmw_aid_2025,city_zoutleeuw,2025,738558,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,OCMW individuele hulp 0.739m; tick1082
+bud_zou_fiscal_2025,city_zoutleeuw,2025,8053957,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Fiscale opbrengsten 8.054m DROP FOI (was 9.362m); tick1082
+bud_zou_fiscal_ov_2025,city_zoutleeuw,2025,3283536,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Opcentiemen OV 3.284m; tick1082
+bud_zou_fiscal_pb_2025,city_zoutleeuw,2025,3416664,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Aanvullende PB 3.417m DROP FOI (was 4.530m); tick1082
+bud_zou_gemeentefonds_2025,city_zoutleeuw,2025,2949158,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Gemeentefonds 2.949m; tick1082
+bud_zou_interest_2025,city_zoutleeuw,2025,461212,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Intresten op leningen 0.461m; tick1082
+bud_zou_goederen_2025,city_zoutleeuw,2025,4876477,,,bbc_jr_realized,src_zoutleeuw_jr2025,strong,Goederen en diensten 4.876m; tick1082
