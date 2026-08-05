@@ -12593,3 +12593,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +36 (bud_agbt_*); commitments +5; leaderboard +7; sources +1; entity agb_tielt; FOI **gap_agbt_debt_erfpacht_prijssubsidie_l5** prio8 ready + draft; key only (PDF ~2.7MB not stored in git); rq_978=done; spawn **rq_979**; ticks=978
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_979** residual dual L5 (Ledegem / Torhout / WZBW / Zorg Izegem); deferred **rq_116**; progress@980 in 2
+
+### Tick 979 - 2026-08-09T02:30:00Z
+
+- Unit: **rq_979** (FOI-adjacent residual dual Entity II - **Welzijnsvereniging Zorg Izegem Jaarrekening 2025** + AGB Tielt dual residual)
+- Found (strong primary BBC JR2025 146p; KBO 0683.771.509 NIS 36008; FD Arne Lamaire; AD Bart Desimpel; chair Nadia Staes; Kokelarestraat 2):
+  - Assets **EUR16.1m** / equity **EUR12.0m** / debt total **EUR4.07m** / fin debt **EUR1.60m** (**DECLINING** from **EUR1.76m**; LT **EUR1.47m** / ST due **EUR0.132m**)
+  - New loans **EUR0** / repayments **EUR0.155m**
+  - Cash **EUR4.60m JUMP** (was **EUR3.50m**) / cap subs **EUR1.77m**
+  - Exploitatie: ontvangsten **EUR17.5m** / uitgaven **EUR16.6m** / saldo **+EUR0.887m**
+  - AFM **+EUR0.732m STRONG** (gecorr **+EUR0.747m**) / BBR **EUR4.60m HIGH** / budget **+EUR0.512m** / P&L **+EUR0.189m**
+  - Personnel **EUR11.8m** / **~247 koppen** / goederen **EUR4.77m**
+  - OCMW alg werkingsubs **EUR1.35m FOI dual** / specific **EUR1.14m** / tewerkstelling **EUR1.63m FOI**
+  - Structural losses FOI: poetsdienst **-EUR0.219m** / LDC De Leest **-EUR0.213m** / Okido **-EUR0.094m** / DVC **-EUR0.082m** / maaltijd **-EUR0.066m** / WZC Plataan **-EUR0.009m**
+  - Invest **EUR0.220m** vs MJP **EUR0.315m underspend FOI**
+- Dual: AGB Tielt **EUR20.0m** / fin debt **EUR11.4m** / gecorr AFM **-EUR0.516m** (tick978); city_izegem **EUR204m** (tick853) - not TE-additive
+- Note: Ledegem/Torhout full BBC / WZBW still no extractable full JR2025 this tick; Ardooie JR2025 listed public next residual
+- Wrote: budgets +40 (bud_zi_*); commitments +5; leaderboard +7; sources +1; entity zorg_izegem; FOI **gap_zi_ocmw_losses_personnel_l5** prio8 ready + draft; key only (PDF ~3.2MB not stored in git); rq_979=done; spawn **rq_980** progress@980; ticks=979
+- FOI: ready only - **do not send**
+- Next: prio9 **rq_980** mandatory progress@980; deferred **rq_116**; progress@980 in 1

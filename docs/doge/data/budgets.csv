@@ -22812,3 +22812,43 @@ bud_agbt_access_fees_2025,agb_tielt,2025,150147,,,realized,src_agb_tielt_jr2025,
 bud_agbt_costs_j5_2025,agb_tielt,2025,961521,,,realized,src_agb_tielt_jr2025,strong,J5 total kosten 0.962m; tick978
 bud_agbt_revenue_j5_2025,agb_tielt,2025,1282841,,,realized,src_agb_tielt_jr2025,strong,J5 total opbrengsten 1.28m; tick978
 bud_agbt_dep_2025,agb_tielt,2025,324311,,,realized,src_agb_tielt_jr2025,strong,Afschrijvingen 0.324m; tick978
+bud_zi_assets_2025,zorg_izegem,2025,16082606,,,realized,src_zorg_izegem_jr2025,strong,Assets YE2025 16.1m (was 16.5m); tick979
+bud_zi_equity_2025,zorg_izegem,2025,12011685,,,realized,src_zorg_izegem_jr2025,strong,Nettoactief YE2025 12.0m; tick979
+bud_zi_debt_total_2025,zorg_izegem,2025,4070921,,,realized,src_zorg_izegem_jr2025,strong,Total schulden YE2025 4.07m; tick979
+bud_zi_fin_debt_2025,zorg_izegem,2025,1601154,,,realized,src_zorg_izegem_jr2025,strong,Fin debt total YE2025 1.60m DECLINING (was 1.76m); tick979
+bud_zi_fin_debt_lt_2025,zorg_izegem,2025,1468670,,,realized,src_zorg_izegem_jr2025,strong,Fin debt LT YE2025 1.47m; tick979
+bud_zi_fin_debt_st_due_2025,zorg_izegem,2025,132483,,,realized,src_zorg_izegem_jr2025,strong,Fin debt ST due YE2025 0.132m; tick979
+bud_zi_new_loans_2025,zorg_izegem,2025,0,,,realized,src_zorg_izegem_jr2025,strong,Nieuwe leningen 0; tick979
+bud_zi_repayments_2025,zorg_izegem,2025,155339,,,realized,src_zorg_izegem_jr2025,strong,Periodieke aflossingen 0.155m; tick979
+bud_zi_cash_2025,zorg_izegem,2025,4600520,,,realized,src_zorg_izegem_jr2025,strong,Liquide middelen YE2025 4.60m JUMP (was 3.50m); tick979
+bud_zi_cap_subs_2025,zorg_izegem,2025,1770317,,,realized,src_zorg_izegem_jr2025,strong,Kapitaalsubsidies YE2025 1.77m; tick979
+bud_zi_expl_rec_2025,zorg_izegem,2025,17485911,,,realized,src_zorg_izegem_jr2025,strong,Exploitatieontvangsten 17.5m; tick979
+bud_zi_expl_exp_2025,zorg_izegem,2025,16598600,,,realized,src_zorg_izegem_jr2025,strong,Exploitatieuitgaven 16.6m; tick979
+bud_zi_expl_saldo_2025,zorg_izegem,2025,887311,,,realized,src_zorg_izegem_jr2025,strong,Exploitatiesaldo +0.887m STRONG; tick979
+bud_zi_invest_exp_2025,zorg_izegem,2025,219878,,,realized,src_zorg_izegem_jr2025,strong,Investeringsuitgaven 0.220m vs MJP 0.315m underspend FOI; tick979
+bud_zi_invest_saldo_2025,zorg_izegem,2025,-219878,,,realized,src_zorg_izegem_jr2025,strong,Investeringssaldo -0.220m; tick979
+bud_zi_fin_exp_2025,zorg_izegem,2025,155339,,,realized,src_zorg_izegem_jr2025,strong,Financieringsuitgaven 0.155m; tick979
+bud_zi_budget_result_2025,zorg_izegem,2025,512094,,,realized,src_zorg_izegem_jr2025,strong,Budgettair resultaat +0.512m; tick979
+bud_zi_cum_budget_2025,zorg_izegem,2025,4604881,,,realized,src_zorg_izegem_jr2025,strong,Gecumuleerd budgettair resultaat 4.60m; tick979
+bud_zi_bbr_2025,zorg_izegem,2025,4604881,,,realized,src_zorg_izegem_jr2025,strong,Beschikbaar BBR 4.60m HIGH; tick979
+bud_zi_afm_2025,zorg_izegem,2025,731972,,,realized,src_zorg_izegem_jr2025,strong,AFM +0.732m STRONG; tick979
+bud_zi_afm_corr_2025,zorg_izegem,2025,746791,,,realized,src_zorg_izegem_jr2025,strong,Gecorrigeerde AFM +0.747m; tick979
+bud_zi_pnl_2025,zorg_izegem,2025,189188,,,realized,src_zorg_izegem_jr2025,strong,P&L +0.189m; tick979
+bud_zi_personnel_2025,zorg_izegem,2025,11799439,,,realized,src_zorg_izegem_jr2025,strong,Bezoldigingen 11.8m FOI; ~247 heads; tick979
+bud_zi_goederen_2025,zorg_izegem,2025,4765501,,,realized,src_zorg_izegem_jr2025,strong,Goederen en diensten 4.77m; tick979
+bud_zi_werkingsubs_rec_2025,zorg_izegem,2025,2492757,,,realized,src_zorg_izegem_jr2025,strong,Ontvangen werkingssubsidies 2.49m FOI; tick979
+bud_zi_ocmw_subs_alg_2025,zorg_izegem,2025,1353854,,,realized,src_zorg_izegem_jr2025,strong,Algemene werkingssubsidies OCMW 1.35m FOI dual cover; tick979
+bud_zi_subs_spec_2025,zorg_izegem,2025,1136403,,,realized,src_zorg_izegem_jr2025,strong,Specifieke werkingssubsidies 1.14m FOI; tick979
+bud_zi_subs_vl_spec_2025,zorg_izegem,2025,1132370,,,realized,src_zorg_izegem_jr2025,strong,Specifieke werkingssubsidies VL 1.13m; tick979
+bud_zi_werking_rec_2025,zorg_izegem,2025,13150492,,,realized,src_zorg_izegem_jr2025,strong,Ontvangsten uit de werking 13.2m; tick979
+bud_zi_tewerkstelling_subs_2025,zorg_izegem,2025,1629259,,,realized,src_zorg_izegem_jr2025,strong,Tewerkstellingssubsidies 1.63m FOI; tick979
+bud_zi_loss_poetsdienst_2025,zorg_izegem,2025,-219249,,,realized,src_zorg_izegem_jr2025,strong,Poetsdienst P&L -0.219m NEG FOI residual; tick979
+bud_zi_loss_ldc_2025,zorg_izegem,2025,-212901,,,realized,src_zorg_izegem_jr2025,strong,LDC De Leest P&L -0.213m NEG FOI residual; tick979
+bud_zi_loss_okido_2025,zorg_izegem,2025,-93928,,,realized,src_zorg_izegem_jr2025,strong,Okido kinderopvang P&L -0.094m FOI residual; tick979
+bud_zi_loss_dvc_2025,zorg_izegem,2025,-81981,,,realized,src_zorg_izegem_jr2025,strong,Dagverzorgingscentrum P&L -0.082m FOI residual; tick979
+bud_zi_loss_maaltijd_2025,zorg_izegem,2025,-65505,,,realized,src_zorg_izegem_jr2025,strong,Maaltijdverdeelpunten P&L -0.066m FOI residual; tick979
+bud_zi_wzc_plataan_pnl_2025,zorg_izegem,2025,-8512,,,realized,src_zorg_izegem_jr2025,strong,WZC De Plataan P&L -0.009m FOI residual; tick979
+bud_zi_mjp_fin_debt_2026,zorg_izegem,2025,1468670,,,realized,src_zorg_izegem_jr2025,strong,MJP fin debt YE2026 1.47m declining; tick979
+bud_zi_costs_j5_2025,zorg_izegem,2025,17524007,,,realized,src_zorg_izegem_jr2025,strong,J5 total kosten 17.5m; tick979
+bud_zi_revenue_j5_2025,zorg_izegem,2025,17713195,,,realized,src_zorg_izegem_jr2025,strong,J5 total opbrengsten 17.7m; tick979
+bud_zi_heads_2025,zorg_izegem,2025,247,,,realized,src_zorg_izegem_jr2025,strong,Personeelskoppen YE2025 247 FOI; tick979
