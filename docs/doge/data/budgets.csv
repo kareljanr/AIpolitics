@@ -20363,3 +20363,40 @@ bud_lan_mjp_new_loans_2027,city_landen,2025,5433568,,,jaarrekening_realized,src_
 bud_lan_mjp_fin_debt_2027,city_landen,2025,28162445,,,jaarrekening_realized,src_landen_jr2025,strong,MJP projected fin debt YE2027 28.162m; tick918
 bud_lan_agb_bbr_2025,city_landen,2025,138951,,,jaarrekening_realized,src_landen_jr2025,strong,AGB BBR YE2025 0.139m; tick918
 bud_lan_individual_aid_2025,city_landen,2025,2244031,,,jaarrekening_realized,src_landen_jr2025,strong,Individuele hulpverlening OCMW 2025 2.244m; tick918
+bud_wel_assets_2025,city_wellen,2025,58186036,,,jaarrekening_realized,src_wellen_jr2025,strong,Consol total assets YE2025 58.186m (was 51.367m); tick919
+bud_wel_equity_2025,city_wellen,2025,45867220,,,jaarrekening_realized,src_wellen_jr2025,strong,Nettoactief YE2025 45.867m; tick919
+bud_wel_debt_total_2025,city_wellen,2025,12318816,,,jaarrekening_realized,src_wellen_jr2025,strong,Total schulden YE2025 12.319m; tick919
+bud_wel_fin_debt_2025,city_wellen,2025,5417049,,,jaarrekening_realized,src_wellen_jr2025,strong,Fin debt total YE2025 5.417m (was 5.717m DECLINING); tick919
+bud_wel_fin_debt_lt_2025,city_wellen,2025,4982587,,,jaarrekening_realized,src_wellen_jr2025,strong,Fin debt LT YE2025 4.983m; tick919
+bud_wel_fin_debt_st_due_2025,city_wellen,2025,434462,,,jaarrekening_realized,src_wellen_jr2025,strong,Fin debt ST due YE2025 0.434m; tick919
+bud_wel_new_loans_2025,city_wellen,2025,138625,,,jaarrekening_realized,src_wellen_jr2025,strong,New loans/leasings 2025 0.139m; tick919
+bud_wel_repayments_2025,city_wellen,2025,438292,,,jaarrekening_realized,src_wellen_jr2025,strong,Periodieke aflossingen 2025 0.438m; tick919
+bud_wel_cash_2025,city_wellen,2025,9739340,,,jaarrekening_realized,src_wellen_jr2025,strong,Liquide middelen YE2025 9.739m (was 12.863m DROP FOI); tick919
+bud_wel_pension_2025,city_wellen,2025,4297378,,,jaarrekening_realized,src_wellen_jr2025,strong,Pension provisions YE2025 4.297m (was 5.613m); tick919
+bud_wel_fva_igs_2025,city_wellen,2025,10833959,,,jaarrekening_realized,src_wellen_jr2025,strong,FVA IGS YE2025 10.834m (was 5.904m JUMP FOI); tick919
+bud_wel_reval_reserves_2025,city_wellen,2025,4929255,,,jaarrekening_realized,src_wellen_jr2025,strong,Herwaarderingsreserves YE2025 4.929m (new); tick919
+bud_wel_expl_receipts_2025,city_wellen,2025,12583712,,,jaarrekening_realized,src_wellen_jr2025,strong,Exploitatie ontvangsten 2025 12.584m; tick919
+bud_wel_expl_expenses_2025,city_wellen,2025,9574022,,,jaarrekening_realized,src_wellen_jr2025,strong,Exploitatie uitgaven 2025 9.574m; tick919
+bud_wel_expl_saldo_2025,city_wellen,2025,3009690,,,jaarrekening_realized,src_wellen_jr2025,strong,Exploitatiesaldo 2025 +3.010m; tick919
+bud_wel_invest_exp_2025,city_wellen,2025,6204451,,,jaarrekening_realized,src_wellen_jr2025,strong,Invest uitgaven 2025 6.204m FOI; tick919
+bud_wel_invest_mva_2025,city_wellen,2025,5943687,,,jaarrekening_realized,src_wellen_jr2025,strong,MVA invest 2025 5.944m (buildings 3.104m roads 2.288m); tick919
+bud_wel_invest_rec_2025,city_wellen,2025,21926,,,jaarrekening_realized,src_wellen_jr2025,strong,Invest ontvangsten 2025 0.022m; tick919
+bud_wel_invest_saldo_2025,city_wellen,2025,-6182525,,,jaarrekening_realized,src_wellen_jr2025,strong,Invest saldo 2025 -6.183m; tick919
+bud_wel_fin_receipts_2025,city_wellen,2025,168070,,,jaarrekening_realized,src_wellen_jr2025,strong,Financiering ontvangsten 2025 0.168m; tick919
+bud_wel_fin_expenses_2025,city_wellen,2025,438292,,,jaarrekening_realized,src_wellen_jr2025,strong,Financiering uitgaven 2025 0.438m; tick919
+bud_wel_budget_result_2025,city_wellen,2025,-3443057,,,jaarrekening_realized,src_wellen_jr2025,strong,Budgettair resultaat 2025 -3.443m FOI; tick919
+bud_wel_bbr_2025,city_wellen,2025,9641463,,,jaarrekening_realized,src_wellen_jr2025,strong,Beschikbaar budgettair resultaat YE2025 9.641m; tick919
+bud_wel_afm_2025,city_wellen,2025,2600842,,,jaarrekening_realized,src_wellen_jr2025,strong,AFM 2025 +2.601m; tick919
+bud_wel_afm_gecorr_2025,city_wellen,2025,2581797,,,jaarrekening_realized,src_wellen_jr2025,strong,Gecorrigeerde AFM 2025 +2.582m; tick919
+bud_wel_personnel_2025,city_wellen,2025,4791442,,,jaarrekening_realized,src_wellen_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 4.791m; tick919
+bud_wel_toelagen_2025,city_wellen,2025,1712392,,,jaarrekening_realized,src_wellen_jr2025,strong,Toegestane werkingssubsidies 2025 1.712m; tick919
+bud_wel_toelagen_police_2025,city_wellen,2025,592000,,,jaarrekening_realized,src_wellen_jr2025,strong,Toelage politiezone 2025 0.592m; tick919
+bud_wel_toelagen_igs_2025,city_wellen,2025,403171,,,jaarrekening_realized,src_wellen_jr2025,strong,Toelage IGS 2025 0.403m FOI; tick919
+bud_wel_toelagen_hvz_2025,city_wellen,2025,365425,,,jaarrekening_realized,src_wellen_jr2025,strong,Toelage hulpverleningszone 2025 0.365m; tick919
+bud_wel_toelagen_other_2025,city_wellen,2025,273130,,,jaarrekening_realized,src_wellen_jr2025,strong,Toelage andere begunstigden 2025 0.273m FOI; tick919
+bud_wel_toelagen_eredienst_2025,city_wellen,2025,78667,,,jaarrekening_realized,src_wellen_jr2025,strong,Toelage eredienst 2025 0.079m; tick919
+bud_wel_fiscal_2025,city_wellen,2025,6362278,,,jaarrekening_realized,src_wellen_jr2025,strong,Fiscale ontvangsten en boetes 2025 6.362m; tick919
+bud_wel_gemeentefonds_2025,city_wellen,2025,2216012,,,jaarrekening_realized,src_wellen_jr2025,strong,Gemeentefonds 2025 2.216m; tick919
+bud_wel_ocmw_cover_2025,city_wellen,2025,0,,,jaarrekening_realized,src_wellen_jr2025,strong,Gemeente tussenkomst OCMW 2025 0 FOI; tick919
+bud_wel_ocmw_expl_deficit_2025,city_wellen,2025,505708,,,jaarrekening_realized,src_wellen_jr2025,strong,OCMW expl saldo 2025 -0.506m; tick919
+bud_wel_pl_2025,city_wellen,2025,2757103,,,jaarrekening_realized,src_wellen_jr2025,strong,P&L boekjaar 2025 +2.757m; tick919

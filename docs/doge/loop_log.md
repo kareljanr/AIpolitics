@@ -11522,3 +11522,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_lan_*); commitments +4; leaderboard +7; sources +2; entity city_landen; FOI **gap_lan_plopsa_toelagen_mjp_l5** prio8 ready + draft; raw PDF + key; rq_918=done; spawn **rq_919**; ticks=918
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_919** residual dual L5 (Wellen PDF cached / Kapellen / Roeselare); deferred **rq_116**; progress@920 in 2
+
+### Tick 919 - 2026-08-07T08:15:00Z
+
+- Unit: **rq_919** (FOI-adjacent residual dual - **Gemeente+OCMW Wellen Jaarrekening 2025** + Landen dual)
+- Found (strong primary BBC JR2025 178p):
+  - Assets **EUR58.2m** (was **EUR51.4m**) / equity **EUR45.9m** / debt total **EUR12.3m** / fin debt **EUR5.42m** (**DECLINING** from **EUR5.72m**; LT **EUR4.98m** / ST due **EUR0.43m**)
+  - New loans **EUR0.14m** / repayments **EUR0.44m** / **cash EUR9.74m was EUR12.86m DROP FOI**
+  - Pension **EUR4.30m** (was **EUR5.61m**) / **FVA IGS EUR10.83m was EUR5.90m JUMP FOI** / reval reserves **EUR4.93m**
+  - Exploitatie: ontvangsten **EUR12.6m** / uitgaven **EUR9.57m** / saldo **+EUR3.01m**
+  - AFM **+EUR2.60m** (gecorr **+EUR2.58m**) / BBR **EUR9.64m** / budget result **-EUR3.44m FOI** / P&L **+EUR2.76m**
+  - Personnel **EUR4.79m** / toelagen **EUR1.71m** (police **EUR0.59m** / **IGS EUR0.40m FOI** / HVZ **EUR0.37m** / other **EUR0.27m FOI**) / fiscal **EUR6.36m**
+  - **Invest EUR6.20m FOI** (MVA **EUR5.94m**: buildings **EUR3.10m** / roads **EUR2.29m**) / gemeentefonds **EUR2.22m**
+  - OCMW cover **EUR0** (OCMW expl **-EUR0.51m**)
+- Dual: Landen **EUR101.3m** / fin debt **EUR27.0m declining** / Plopsa **EUR0.52m** (tick918) - not TE-additive
+- Wrote: budgets +37 (bud_wel_*); commitments +4; leaderboard +7; sources +2; entity city_wellen; FOI **gap_wel_invest_cash_igs_l5** prio8 ready + draft; raw PDF + key; rq_919=done; spawn **rq_920 progress@920 prio10**; ticks=919
+- FOI: ready only - **do not send**
+- Next: **progress@920 NEXT** (prio10 rq_920); then residual dual L5; deferred **rq_116**

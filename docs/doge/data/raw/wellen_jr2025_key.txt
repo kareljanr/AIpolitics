@@ -1,22 +1,1101 @@
-Wellen JR2025 BBC consol
-Source: https://www.wellen.be/sites/default/files/Jaarrekening%202025.pdf
-178p; Dorpsstraat 25/26B 3830 Wellen; BE 0207.483.691 / 0212.181.263
-tick898
 
-Assets 58186036 / Equity 45867220 / Debt total 12318816
-Cash 9739340 was 12862896 / Cap subs 9107111
-Fin debt 5417049 (LT 4982587 + ST due 434462) was 5716716
-New loans/leasings 138625
-Pension 4297378 was 5613322 declining
-FVA IGS 10833959 was 5903504 REVAL +4.93m FOI / FVA total 11837921
-Herwaard reserves 4929255 (was 0) FOI
-Expl rec 12583712 / exp 9574022 / saldo 3009690
-AFM 2600842 / gecorr 2581797
-BBR 9641463 / cumul 9643279
-Budget result -3443057 / P&L +2757103
-Personnel 4791442
-Toelagen 1712392 (police 592000 fire 365425 IGS 403171 other 273130 FOI)
-OCMW aid 407092
-Fiscal 6362278 (OV 2244490 APB 3446061)
-Gemeentefonds 2216012
-Invest exp 6204451 (buildings 3.10 roads 2.29) FOI heavy year
+===== PAGE 5 =====
+  WELLEN
+  KENGETALLEN BOEKJAAR 2025
+GECONSOLIDEERD
+GEMEENTE
+OCMW
+Liquiditeiten
+Kastoestand per 31/12/2025 
+9.739.340 
+9.554.455 
+184.884 
+Openstaande vorderingen op KT 
+1.935.802 
+1.688.058 
+247.744 
+Openstaande schulden op KT 
+2.604.389 
+2.107.839 
+496.550 
+Exploitatie
+* Exploitatieontvangsten in het boekjaar 
+12.583.712 
+11.256.231 
+1.327.481 
+* Exploitatieuitgaven in het boekjaar 
+9.574.022 
+7.741.639 
+1.832.383 
+Facturatie tussen gemeente en OCMW 
+806 
+-806 
+Saldo exploitatie 
+3.009.690 
+3.515.398 
+-505.708 
+Investeringen
+Desinvesteringen in het boekjaar 
+150 
+150 
+Ontvangen investeringssubsidies 
+21.776 
+21.776 
+Investeringen in het boekjaar 
+6.204.451 
+6.089.737 
+114.714 
+Toegestane investeringssubsidies 
+Saldo investeringen 
+-6.182.525 
+-6.067.811 
+-114.714 
+Financiering
+Nieuw aangegane leningen 
+138.625 
+138.625 
+Terugvordering van toegestane leningen 
+29.445 
+29.445 
+Toegestane leningen 
+Vervroegde terugbetaling van toegestane leningen 
+Vervroegde aflossing van leningen 
+Periodieke aflossingen op leningen 
+438.292 
+418.579 
+19.713 
+Saldo financiering 
+-270.222 
+-250.509 
+-19.713 
+Openstaande schulden uit leningen 
+5.417.049 
+5.197.538 
+219.511 
+Leningen op rekening met vaste termijn 
+Intresten op leningen 
+164.031 
+160.648 
+3.383 
+Budgettair resultaat van het boekjaar  
+-3.443.057 
+-2.802.923 
+-640.135 
+Gecumuleerd budgettair resultaat   
+9.643.279 
+11.203.927 
+-1.560.648 
+Autofinancieringsmarge   
+2.600.842 
+3.126.263 
+-525.421 
+Tussenkomst in het tekort van het OCMW 
+Gecumuleerd budgettair resultaat per inwoner 
+1.289 
+* Openstaande schuld per inwoner 
+724 
+* Exclusief interne facturatie en facturatie tussen GE-OC
+* Inclusief de leningen op rekening met vaste termijn
+* Vorderingen/schulden uit ruil en niet-ruil; exclusief interne rekening courant GE-OC
+
+===== PAGE 22 =====
+J2: Staat van het financieel evenwicht
+2025
+Journaalvolgnummers: JR Budg. 125906 Alg. 4050032269 / EK 62920
+Wellen Gemeente (0207.483.691)
+Wellen OCMW (0212.181.263)
+Dorpsstraat  25, 3830 Wellen
+Dorpsstraat 26 B, 3830 Wellen
+Algemeen directeur:: Chiel Herbots
+Financieel directeur:: Pieter Cox
+Budgettair resultaat
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+3.009.689,85
+685.299,07
+a. Ontvangsten
+12.583.712,13
+11.946.219,63
+b. Uitgaven
+9.574.022,28
+11.260.920,56
+II. Investeringssaldo
+-6.182.525,11
+-8.240.223,57
+a. Ontvangsten
+21.925,60
+1.446.019,20
+b. Uitgaven
+6.204.450,71
+9.686.242,77
+III. Saldo exploitatie en investeringen
+-3.172.835,26
+-7.554.924,50
+IV. Financieringssaldo
+-270.222,22
+-288.137,00
+a. Ontvangsten
+168.069,89
+141.242,00
+b. Uitgaven
+438.292,11
+429.379,00
+V. Budgettair resultaat van het boekjaar
+-3.443.057,48
+-7.843.061,50
+VI. Gecumuleerd budgettair resultaat vorig boekjaar
+13.086.336,26
+13.086.336,26
+VII. Gecumuleerd budgettair resultaat
+9.643.278,78
+5.243.274,76
+VIII. Onbeschikbare gelden
+1.815,83
+0,00
+IX. Beschikbaar budgettair resultaat
+9.641.462,95
+5.243.274,76
+Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+3.009.689,85
+685.299,07
+II. Netto periodieke aflossingen
+408.847,61
+399.934,00
+a. Periodieke aflossingen conform de verbintenissen
+438.292,11
+429.379,00
+b. Periodieke terugvordering leningen
+29.444,50
+29.445,00
+III. Autofinancieringsmarge
+2.600.842,24
+285.365,07
+Gecorrigeerde Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Autofinancieringsmarge
+2.600.842,24
+285.365,07
+II. Correctie op de periodieke aflossingen
+-19.045,14
+-27.958,25
+a. Periodieke aflossingen conform de verbintenissen
+438.292,11
+429.379,00
+b. Gecorrigeerde aflossingen o.b.v. de financiële schulden
+457.337,25
+457.337,25
+III. Gecorrigeerde autofinancieringsmarge
+2.581.797,10
+257.406,82
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+1 / 2
+
+===== PAGE 23 =====
+Geconsolideerd financieel evenwicht
+Jaarrekening
+Meerjarenplan
+I. Beschikbaar budgettair resultaat
+- Gemeente en OCMW
+9.641.462,95
+5.243.274,76
+Totaal beschikbaar budgettair resultaat
+9.641.462,95
+5.243.274,76
+II. Autofinancieringsmarge
+- Gemeente en OCMW
+2.600.842,24
+285.365,07
+Totale Autofinancieringsmarge
+2.600.842,24
+285.365,07
+III. Gecorrigeerde autofinancieringsmarge
+- Gemeente en OCMW
+2.581.797,10
+257.406,82
+Totale gecorrigeerde autofinancieringsmarge
+2.581.797,10
+257.406,82
+Andere gebruikte dossiers op dit rapport:
+Voorgaande JR dossiers:
+JR_ORIGINEEL_2024 2024: Budg. 120842 Alg. 4048035730
+MJP:
+MJP_HERZIENING_8_2025 2025: Alg. 62920
+Dossiers van andere entiteiten:
+/
+MJP dossiers van andere entiteiten:
+/
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+2 / 2
+
+===== PAGE 25 =====
+J4: Balans
+2025
+Journaalvolgnummers: JR Budg. 125906 Alg. 4050032269 / JR-1 Budg. 120842 Alg. 4048035730
+Wellen Gemeente (0207.483.691)
+Wellen OCMW (0212.181.263)
+Dorpsstraat  25, 3830 Wellen
+Dorpsstraat 26 B, 3830 Wellen
+Algemeen directeur:: Chiel Herbots
+Financieel directeur:: Pieter Cox
+2025
+2024
+ACTIVA
+58.186.035,89
+51.367.061,16
+I. Vlottende activa
+11.704.586,48
+14.138.177,21
+A. Liquide middelen en geldbeleggingen
+9.739.339,63
+12.862.895,91
+B. Vorderingen op korte termijn
+1.935.802,35
+1.245.836,80
+1. Vorderingen uit ruiltransacties
+678.396,16
+512.340,61
+2. Vorderingen uit niet-ruiltransacties
+1.257.406,19
+733.496,19
+E. Vorderingen op lange termijn die binnen het jaar vallen
+29.444,50
+29.444,50
+II. Vaste activa
+46.481.449,41
+37.228.883,95
+A. Vorderingen op lange termijn
+471.112,00
+500.556,50
+1. Vorderingen uit ruiltransacties
+471.112,00
+500.556,50
+B. Financiële vaste activa
+11.837.921,17
+6.907.466,19
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+10.833.958,90
+5.903.503,92
+4. Andere financiële vaste activa
+1.003.962,27
+1.003.962,27
+C. Materiële vaste activa
+33.124.051,75
+28.860.377,47
+1. Gemeenschapsgoederen
+30.760.098,52
+26.381.551,44
+a. Terreinen en gebouwen
+12.038.784,30
+9.410.615,97
+b. Wegen en andere infrastructuur
+16.926.307,90
+15.425.337,14
+c. Installaties, machines en uitrusting
+235.537,13
+226.084,13
+d. Meubilair, kantooruitrusting en rollend materieel
+563.061,90
+308.852,66
+e. Leasing en soortgelijke rechten
+900.163,09
+915.117,34
+f. Erfgoed
+96.244,20
+95.544,20
+2. Bedrijfsmatige materiële vaste activa
+1.803.740,80
+1.901.538,92
+a. Terreinen en gebouwen
+1.788.538,59
+1.880.644,99
+b. Installaties, machines en uitrusting
+9.368,72
+12.491,63
+c. Meubilair, kantooruitrusting en rollend materieel
+5.833,49
+8.402,30
+3. Andere materiële vaste activa
+560.212,43
+577.287,11
+a. Terreinen en gebouwen
+560.212,43
+577.287,11
+D. Immateriële vaste activa
+1.048.364,49
+960.483,79
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+1 / 2
+
+===== PAGE 26 =====
+2025
+2024
+PASSIVA
+58.186.035,89
+51.367.061,16
+I. Schulden
+12.318.816,20
+12.873.943,61
+A. Schulden op korte termijn
+3.038.850,86
+1.978.334,95
+1. Schulden uit ruiltransacties
+2.185.573,32
+1.420.580,96
+a. Voorzieningen voor risico's en kosten
+572.525,90
+521.509,97
+c. Niet-financiële schulden uit ruiltransacties
+1.613.047,42
+899.070,99
+2. Schulden uit niet-ruiltransacties
+418.815,78
+123.325,46
+4. Schulden op lange termijn die binnen het jaar vervallen
+434.461,76
+434.428,53
+B. Schulden op lange termijn
+9.279.965,34
+10.895.608,66
+1. Schulden uit ruiltransacties
+9.279.965,34
+10.895.608,66
+a. Voorzieningen voor risico's en kosten
+4.297.378,20
+5.613.321,57
+1. Pensioenen en soortgelijke verplichtingen
+4.297.378,20
+5.613.321,57
+b. Financiële schulden
+4.982.587,14
+5.282.287,09
+II. Nettoactief
+45.867.219,69
+38.493.117,55
+A. Kapitaalssubsidies en schenkingen
+9.107.111,09
+9.419.367,20
+B. Gecumuleerd overschot of tekort
+12.867.859,32
+10.110.756,05
+C. Herwaarderingsreserves
+4.929.254,98
+0,00
+D. Overig nettoactief
+18.962.994,30
+18.962.994,30
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 120842 Alg. 4048035730
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+2 / 2
+
+===== PAGE 27 =====
+J5: Staat van opbrengsten en kosten
+2025
+Journaalvolgnummers: JR Budg. 125906 Alg. 4050032269 / JR-1 Budg. 120842 Alg. 4048035730
+Wellen Gemeente (0207.483.691)
+Wellen OCMW (0212.181.263)
+Dorpsstraat  25, 3830 Wellen
+Dorpsstraat 26 B, 3830 Wellen
+Algemeen directeur:: Chiel Herbots
+Financieel directeur:: Pieter Cox
+2025
+2024
+I. Kosten
+10.161.946,10
+14.151.142,08
+A. Operationele kosten
+9.997.915,37
+13.976.136,84
+1. Goederen en diensten
+2.356.853,24
+2.344.409,74
+2. Bezoldigingen, sociale lasten en pensioenen
+4.791.441,84
+4.491.219,09
+3. Afschrijvingen, waardeverminderingen en voorzieningen
+587.923,82
+4.959.716,99
+4. Individuele hulpverlening door O.C.M.W.
+407.091,92
+356.466,43
+5. Toegestane werkingssubsidies
+1.712.392,30
+1.587.391,26
+6. Toegestane investeringssubsidies
+0,00
+35.750,00
+7. Minderwaarden bij de realisatie van vaste activa
+0,00
+35.939,95
+8. Andere operationele kosten
+142.212,25
+165.243,38
+B. Financiële kosten
+164.030,73
+175.005,24
+II. Opbrengsten
+12.919.049,37
+13.819.991,16
+A. Operationele opbrengsten
+11.928.454,79
+11.104.050,40
+1. Opbrengsten uit de werking
+1.062.024,93
+992.308,41
+2. Fiscale opbrengsten en boetes
+6.362.277,72
+5.822.436,01
+3. Werkingssubsidies
+4.309.463,03
+4.093.466,00
+a. Algemene werkingssubsidies
+3.267.142,41
+3.152.557,06
+b. Specifieke werkingssubsidies
+1.042.320,62
+940.908,94
+4. Recuperatie individuele hulpverlening
+125.479,67
+121.077,74
+5. Meerwaarden bij de realisatie van vaste activa
+105,53
+2.522,11
+6. Andere operationele opbrengsten
+69.103,91
+72.240,13
+B. Financiële opbrengsten
+990.594,58
+2.715.940,76
+III. Overschot of tekort van het boekjaar
+2.757.103,27
+-331.150,92
+A. Operationeel overschot of tekort
+1.930.539,42
+-2.872.086,44
+B. Financieel overschot of tekort
+826.563,85
+2.540.935,52
+IV. Verwerking van het overschot of tekort van het boekjaar
+2.757.103,27
+-331.150,92
+C. Over te dragen overschot of tekort van het boekjaar
+2.757.103,27
+-331.150,92
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 120842 Alg. 4048035730
+JAARREKENING ORIGINEEL 2025 : Staat van opbrengsten en kosten
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+1 / 1
+
+===== PAGE 36 =====
+T2: Ontvangsten en uitgaven naar economische aard
+2025
+Journaalvolgnummers: JR Budg. 125906 Alg. 4050032269 / EK 62920
+Wellen Gemeente (0207.483.691)
+Wellen OCMW (0212.181.263)
+Dorpsstraat  25, 3830 Wellen
+Dorpsstraat 26 B, 3830 Wellen
+Algemeen directeur:: Chiel Herbots
+Financieel directeur:: Pieter Cox
+I. Exploitatie-uitgaven
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele uitgaven
+7.054.170,62
+7.293.561,03
+8.170.671,99
+8.912.118,39
+8.944.729,90
+9.409.991,55
+11.067.240,54
+1. Goederen en diensten
+1.543.041,64
+1.727.456,65
+2.289.001,40
+2.352.701,76
+2.344.409,74
+2.356.853,24
+3.291.614,10
+2. Bezoldigingen, sociale lasten en pensioenen
+3.680.632,04
+3.702.248,20
+3.831.430,34
+4.442.567,09
+4.491.219,09
+4.791.441,84
+5.214.212,20
+a. Politiek personeel
+249.011,50
+255.997,85
+268.570,77
+281.419,27
+295.432,40
+287.151,52
+310.452,57
+b. Vastbenoemd niet-onderwijzend personeel
+1.295.551,94
+1.264.667,22
+1.162.074,84
+976.817,15
+797.446,55
+1.039.516,69
+1.095.874,00
+c. Niet vastbenoemd niet-onderwijzend personeel
+1.915.857,38
+1.977.331,36
+2.163.360,06
+2.936.236,77
+3.150.669,00
+3.218.541,27
+3.515.038,45
+f. Andere personeelskosten
+123.412,48
+107.375,77
+128.928,71
+132.829,09
+142.145,07
+141.474,63
+185.330,00
+g. Pensioenen
+96.798,74
+96.876,00
+108.495,96
+115.264,81
+105.526,07
+104.757,73
+107.517,18
+3. Individuele hulpverlening door het O.C.M.W.
+290.658,19
+325.437,50
+502.474,65
+434.617,93
+356.466,43
+407.091,92
+599.686,00
+4. Toegestane werkingssubsidies
+1.426.205,28
+1.425.626,58
+1.440.537,96
+1.546.988,94
+1.587.391,26
+1.712.392,30
+1.735.427,24
+- aan de politiezone
+499.441,92
+551.475,00
+556.989,75
+573.699,44
+590.910,43
+592.000,00
+592.000,00
+- aan de hulpverleningszone
+298.895,70
+305.036,37
+292.996,65
+333.367,44
+359.932,54
+365.424,54
+367.131,49
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+372.484,70
+334.740,45
+362.897,60
+309.394,89
+298.679,50
+403.170,94
+425.871,42
+- aan besturen van de eredienst
+37.578,88
+22.528,03
+19.934,96
+83.115,25
+62.818,00
+78.667,13
+52.487,00
+- aan andere begunstigden
+217.804,08
+211.846,73
+207.719,00
+247.411,92
+275.050,79
+273.129,69
+297.937,33
+5. Andere operationele uitgaven
+113.633,47
+112.792,10
+107.227,64
+135.242,67
+165.243,38
+142.212,25
+226.301,00
+B. Financiële uitgaven
+209.418,44
+194.714,27
+181.388,36
+185.328,57
+175.005,24
+164.030,73
+193.680,02
+1. Rente, commissies en kosten verbonden aan schulden
+208.390,38
+194.260,85
+180.618,56
+184.644,55
+174.924,41
+164.030,73
+164.229,02
+- aan financiële instellingen
+208.388,65
+192.938,87
+177.587,43
+178.728,13
+166.290,95
+152.707,23
+153.148,02
+- aan andere entiteiten
+1,73
+1.321,98
+3.031,13
+5.916,42
+8.633,46
+11.323,50
+11.081,00
+2. Andere financiële uitgaven
+1.028,06
+453,42
+769,80
+684,02
+80,83
+0,00
+29.451,00
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele ontvangsten
+9.352.949,55
+9.093.394,85
+9.802.456,09
+11.502.079,74
+11.101.528,29
+11.927.149,26
+11.412.837,83
+1. Ontvangsten uit de werking
+1.042.919,26
+703.489,82
+861.466,43
+849.106,99
+992.308,41
+1.062.024,93
+763.604,09
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+1 / 4
+
+===== PAGE 37 =====
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+2. Fiscale ontvangsten en boetes
+4.862.879,85
+4.832.845,68
+4.996.332,10
+6.490.884,44
+5.822.436,01
+6.362.277,72
+6.239.560,28
+a. Aanvullende belastingen
+4.376.957,97
+4.344.793,49
+4.503.889,29
+5.989.403,25
+5.284.299,55
+5.843.229,10
+5.713.920,28
+- Opcentiemen op de onroerende voorheffing
+1.829.175,85
+1.791.827,47
+1.867.272,15
+2.110.740,91
+2.257.841,08
+2.244.490,29
+2.271.140,00
+- Aanvullende belasting op de personenbelasting
+2.421.534,64
+2.421.799,62
+2.507.875,15
+3.739.012,16
+2.877.443,22
+3.446.061,34
+3.291.916,28
+- Andere aanvullende belastingen
+126.247,48
+131.166,40
+128.741,99
+139.650,18
+149.015,25
+152.677,47
+150.864,00
+b. Andere belastingen en boetes
+485.921,88
+488.052,19
+492.442,81
+501.481,19
+538.136,46
+519.048,62
+525.640,00
+3. Werkingssubsidies
+3.300.144,28
+3.398.904,14
+3.756.414,57
+3.964.566,31
+4.093.466,00
+4.309.463,03
+4.171.030,46
+a. Algemene werkingssubsidies
+2.966.582,57
+2.603.830,38
+2.813.895,64
+2.958.926,86
+3.152.557,06
+3.267.142,41
+3.291.390,86
+- Gemeentefonds
+1.935.375,85
+2.058.170,41
+2.109.492,40
+2.163.103,40
+2.159.251,40
+2.216.012,40
+2.228.799,96
+- Andere algemene werkingssubsidies
+1.031.206,72
+545.659,97
+704.403,24
+795.823,46
+993.305,66
+1.051.130,01
+1.062.590,90
+- van de federale overheid
+35.184,39
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+- van de Vlaamse overheid
+989.890,98
+545.659,97
+701.184,18
+792.168,65
+992.631,65
+1.050.447,92
+1.052.590,90
+- van andere entiteiten
+6.131,35
+0,00
+3.219,06
+3.654,81
+674,01
+682,09
+10.000,00
+b. Specifieke werkingssubsidies
+333.561,71
+795.073,76
+942.518,93
+1.005.639,45
+940.908,94
+1.042.320,62
+879.639,60
+- van de federale overheid
+303.775,77
+358.021,93
+521.977,61
+485.528,16
+374.078,31
+392.594,59
+383.402,59
+- van de Vlaamse overheid
+29.785,94
+434.912,52
+415.196,69
+480.675,15
+528.331,63
+647.606,70
+496.237,01
+- van de provincie
+0,00
+0,00
+0,00
+0,00
+4.571,17
+0,00
+0,00
+- van de gemeente
+0,00
+0,00
+0,00
+33.435,00
+29.622,42
+0,00
+0,00
+- van andere entiteiten
+0,00
+2.139,31
+5.344,63
+6.001,14
+4.305,41
+2.119,33
+0,00
+4. Recuperatie individuele hulpverlening
+85.256,35
+85.241,76
+128.869,02
+120.155,66
+121.077,74
+125.479,67
+175.777,00
+5. Andere operationele ontvangsten
+61.749,81
+72.913,45
+59.373,97
+77.366,34
+72.240,13
+67.903,91
+62.866,00
+B. Financiële ontvangsten
+617.205,40
+489.003,67
+462.524,58
+551.375,66
+2.383.267,55
+656.562,87
+533.381,80
+III. Exploitatiesaldo
+2.706.565,89
+2.094.123,22
+1.912.920,32
+2.956.008,44
+4.365.060,70
+3.009.689,85
+685.299,07
+I. Investeringsuitgaven
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Investeringen in financiële vaste activa
+162.430,69
+0,00
+0,00
+545,59
+1.722.129,94
+0,00
+0,00
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+162.430,69
+0,00
+0,00
+25,00
+1.722.129,94
+0,00
+0,00
+4. Andere financiële vaste activa
+0,00
+0,00
+0,00
+520,59
+0,00
+0,00
+0,00
+B. Investeringen in materiële vaste activa
+904.127,99
+1.430.601,80
+4.433.637,82
+1.121.083,15
+1.241.784,46
+5.943.687,09
+8.860.862,84
+1. Gemeenschapsgoederen en bedrijfsmatige materiële vaste activa
+904.127,99
+1.430.601,80
+4.433.637,82
+1.121.083,15
+1.241.784,46
+5.943.687,09
+8.860.862,84
+a. Terreinen en gebouwen
+393.530,65
+16.586,99
+2.302.885,50
+700.460,25
+243.815,96
+3.103.804,25
+4.269.528,09
+b. Wegen en andere infrastructuur
+379.678,61
+594.622,62
+1.803.696,25
+213.391,93
+766.912,51
+2.287.956,70
+3.845.579,75
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+2 / 4
+
+===== PAGE 48 =====
+T4: Evolutie van de financiële schulden
+2025
+Journaalvolgnummers: JR Budg. 125906 Alg. 4050032269
+Wellen Gemeente (0207.483.691)
+Wellen OCMW (0212.181.263)
+Dorpsstraat  25, 3830 Wellen
+Dorpsstraat 26 B, 3830 Wellen
+Algemeen directeur:: Chiel Herbots
+Financieel directeur:: Pieter Cox
+Financiële schulden op 31 december
+2020
+2021
+2022
+2023
+2024
+2025
+A. Financiële schulden op lange termijn
+5.727.577,81
+5.707.987,58
+5.869.775,84
+5.546.211,51
+5.282.287,09
+4.982.587,14
+1. Financiële schulden op 1 januari
+6.178.330,58
+5.727.577,81
+5.707.987,58
+5.869.775,84
+5.546.211,51
+5.282.287,09
+2. Nieuwe leningen
+0,00
+518.920,23
+639.078,74
+173.771,92
+175.097,49
+138.625,39
+4. Overboekingen
+-450.752,77
+-538.510,46
+-477.290,48
+-497.336,25
+-439.021,91
+-438.325,34
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+450.752,77
+498.900,07
+476.927,67
+491.902,90
+434.428,53
+434.461,76
+1. Financiële schulden op 1 januari
+457.210,38
+450.752,77
+498.900,07
+476.927,67
+491.902,90
+434.428,53
+2. Aflossingen
+-457.210,38
+-490.363,16
+-499.262,88
+-482.361,02
+-496.496,28
+-438.292,11
+3. Overboekingen
+450.752,77
+538.510,46
+477.290,48
+497.336,25
+439.021,91
+438.325,34
+Totaal financiële schulden
+6.178.330,58
+6.206.887,65
+6.346.703,51
+6.038.114,41
+5.716.715,62
+5.417.048,90
+Andere gebruikte dossiers op dit rapport:
+Meerjarenplan:
+MJP_HERZIENING_8_2025 2025: Alg. 62920
+Jaarrekeningen:
+JR_ORIGINEEL_2020 2020: Budg. 24912 Alg. 4040031521
+JR_ORIGINEEL_2021 2021: Budg. 38364 Alg. 4042031512
+JR_ORIGINEEL_2022 2022: Budg. 53648 Alg. 4044034376
+JR_ORIGINEEL_2023 2023: Budg. 90940 Alg. 4046036117
+JR_ORIGINEEL_2024 2024: Budg. 120842 Alg. 4048035730
+JR_ORIGINEEL_2025 2025: Budg. 125906 Alg. 4050032269
+JAARREKENING ORIGINEEL 2025 : Evolutie van de financiële schulden
+2025
+Wellen Gemeente en Wellen OCMW (0207.483.691 / 0212.181.263)
+1 / 1

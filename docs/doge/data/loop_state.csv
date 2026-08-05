@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T07:45:00Z,rq_918,918,no,tick918 Landen JR2025 dual Bever; FOI gap_lan_plopsa_toelagen_mjp_l5 prio8 Plopsa 0.52m debt declining 27m AFM +2.77m BBR 15m; next residual dual L5 rq_919; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T08:15:00Z,rq_919,919,no,tick919 Wellen JR2025 dual Landen; FOI gap_wel_invest_cash_igs_l5 prio8 invest 6.20m budget -3.44m cash drop FVA IGS 10.8m; next progress@920 rq_920 prio10; rq_116 deferred
