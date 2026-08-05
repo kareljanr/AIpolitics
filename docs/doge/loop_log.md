@@ -11469,3 +11469,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (bud_hor_*); commitments +4; leaderboard +7; sources +2; entity city_horebeke; FOI **gap_hor_invest_cash_police_l5** prio8 ready + draft; raw PDF + key; rq_915=done; spawn **rq_916**; ticks=915
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_916** residual dual L5 (Kapellen/Roeselare/Bever/Kinrooi); deferred **rq_116**; progress@920 in 5
+
+### Tick 916 - 2026-08-07T06:45:00Z
+
+- Unit: **rq_916** (FOI-adjacent residual dual - **Gemeente+OCMW Kinrooi Jaarrekening 2025** + Horebeke dual)
+- Found (strong primary BBC JR2025 67p):
+  - Assets **EUR83.4m** / equity **EUR56.3m** / debt total **EUR27.1m** / fin debt **EUR16.4m** (**DECLINING** from **EUR17.5m**; LT **EUR15.2m** / ST due **EUR1.24m**)
+  - New loans **EUR0.23m** / repayments **EUR1.21m** / cash **EUR5.87m** (was **EUR4.82m UP**)
+  - Pension **EUR4.79m** (was **EUR3.11m JUMP FOI**)
+  - Exploitatie: ontvangsten **EUR31.3m** / uitgaven **EUR27.0m** / saldo **+EUR4.28m**
+  - AFM **+EUR3.07m** (gecorr **+EUR2.88m**) / BBR **EUR5.67m** / budget result **+EUR1.15m** / P&L **+EUR0.24m**
+  - Personnel **EUR17.4m** / toelagen **EUR3.45m** (police **EUR1.02m** / **IGS EUR0.89m FOI** / other **EUR0.74m FOI** / HVZ **EUR0.47m** / AGB **EUR0.26m**) / fiscal **EUR10.6m**
+  - Invest **EUR2.83m** / invest-subs **EUR0.35m** / gemeentefonds **EUR4.60m**
+  - **OCMW cover EUR0 FOI** / **OCMW P&L -EUR2.25m FOI** / OCMW equity **-EUR0.82m FOI**
+  - FVA EVA/AGB **EUR7.35m** / AGB BBR **EUR0.50m**
+- Dual: Horebeke **EUR13.2m** / invest **EUR1.70m** / budget **-EUR0.99m** (tick915) - not TE-additive
+- Wrote: budgets +42 (bud_kin_*); commitments +4; leaderboard +7; sources +2; entity city_kinrooi; FOI **gap_kin_ocmw_pension_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_916=done; spawn **rq_917**; ticks=916
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_917** residual dual L5 (Bever PDF cached / Kapellen / Roeselare / Landen); deferred **rq_116**; progress@920 in 4

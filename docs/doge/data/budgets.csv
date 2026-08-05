@@ -20241,3 +20241,45 @@ bud_hor_ocmw_cover_2025,city_horebeke,2025,0,,,jaarrekening_realized,src_horebek
 bud_hor_pl_2025,city_horebeke,2025,-58565,,,jaarrekening_realized,src_horebeke_jr2025,strong,P&L boekjaar 2025 -0.059m; tick915
 bud_hor_leasing_mva_2025,city_horebeke,2025,236238,,,jaarrekening_realized,src_horebeke_jr2025,strong,Leasing MVA YE2025 0.236m (was 0.128m); tick915
 bud_hor_mjp_fin_debt_2027,city_horebeke,2025,512959,,,jaarrekening_realized,src_horebeke_jr2025,strong,MJP projected fin debt YE2027 ~0.513m; tick915
+bud_kin_assets_2025,city_kinrooi,2025,83436988,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Consol total assets YE2025 83.437m; tick916
+bud_kin_equity_2025,city_kinrooi,2025,56289814,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Nettoactief YE2025 56.290m; tick916
+bud_kin_debt_total_2025,city_kinrooi,2025,27147174,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Total schulden YE2025 27.147m; tick916
+bud_kin_fin_debt_2025,city_kinrooi,2025,16391512,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin debt total YE2025 16.392m (was 17.484m DECLINING); tick916
+bud_kin_fin_debt_lt_2025,city_kinrooi,2025,15151375,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin debt LT YE2025 15.151m; tick916
+bud_kin_fin_debt_st_due_2025,city_kinrooi,2025,1240138,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fin debt ST due YE2025 1.240m; tick916
+bud_kin_new_loans_2025,city_kinrooi,2025,231056,,,jaarrekening_realized,src_kinrooi_jr2025,strong,New loans/leasings 2025 0.231m; tick916
+bud_kin_repayments_2025,city_kinrooi,2025,1209876,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Periodieke aflossingen 2025 1.210m; tick916
+bud_kin_cash_2025,city_kinrooi,2025,5874438,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Liquide middelen YE2025 5.874m (was 4.816m UP); tick916
+bud_kin_pension_2025,city_kinrooi,2025,4784538,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Pension provisions YE2025 4.785m (was 3.107m JUMP FOI); tick916
+bud_kin_fva_ags_2025,city_kinrooi,2025,7351043,,,jaarrekening_realized,src_kinrooi_jr2025,strong,FVA EVA/AGB YE2025 7.351m; tick916
+bud_kin_fva_igs_2025,city_kinrooi,2025,15127730,,,jaarrekening_realized,src_kinrooi_jr2025,strong,FVA IGS YE2025 15.128m; tick916
+bud_kin_expl_receipts_2025,city_kinrooi,2025,31288335,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Exploitatie ontvangsten 2025 31.288m; tick916
+bud_kin_expl_expenses_2025,city_kinrooi,2025,27010946,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Exploitatie uitgaven 2025 27.011m; tick916
+bud_kin_expl_saldo_2025,city_kinrooi,2025,4277389,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Exploitatiesaldo 2025 +4.277m; tick916
+bud_kin_invest_exp_2025,city_kinrooi,2025,2826698,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Invest uitgaven 2025 2.827m; tick916
+bud_kin_invest_rec_2025,city_kinrooi,2025,673226,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Invest ontvangsten 2025 0.673m; tick916
+bud_kin_invest_saldo_2025,city_kinrooi,2025,-2153472,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Invest saldo 2025 -2.153m; tick916
+bud_kin_fin_receipts_2025,city_kinrooi,2025,231056,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Financiering ontvangsten 2025 0.231m; tick916
+bud_kin_fin_expenses_2025,city_kinrooi,2025,1209876,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Financiering uitgaven 2025 1.210m; tick916
+bud_kin_budget_result_2025,city_kinrooi,2025,1145098,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Budgettair resultaat 2025 +1.145m; tick916
+bud_kin_bbr_2025,city_kinrooi,2025,5671672,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Beschikbaar budgettair resultaat YE2025 5.672m; tick916
+bud_kin_afm_2025,city_kinrooi,2025,3067513,,,jaarrekening_realized,src_kinrooi_jr2025,strong,AFM 2025 +3.068m; tick916
+bud_kin_afm_gecorr_2025,city_kinrooi,2025,2878651,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gecorrigeerde AFM 2025 +2.879m; tick916
+bud_kin_personnel_2025,city_kinrooi,2025,17439743,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 17.440m; tick916
+bud_kin_toelagen_2025,city_kinrooi,2025,3453908,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toegestane werkingssubsidies 2025 3.454m; tick916
+bud_kin_toelagen_police_2025,city_kinrooi,2025,1016970,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage politiezone 2025 1.017m; tick916
+bud_kin_toelagen_igs_2025,city_kinrooi,2025,885417,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage IGS 2025 0.885m FOI; tick916
+bud_kin_toelagen_other_2025,city_kinrooi,2025,738682,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage andere begunstigden 2025 0.739m FOI; tick916
+bud_kin_toelagen_hvz_2025,city_kinrooi,2025,471538,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage hulpverleningszone 2025 0.472m; tick916
+bud_kin_toelagen_agb_2025,city_kinrooi,2025,260121,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage AGB 2025 0.260m; tick916
+bud_kin_toelagen_eredienst_2025,city_kinrooi,2025,81181,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toelage eredienst 2025 0.081m; tick916
+bud_kin_fiscal_2025,city_kinrooi,2025,10617258,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Fiscale ontvangsten en boetes 2025 10.617m; tick916
+bud_kin_gemeentefonds_2025,city_kinrooi,2025,4603050,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gemeentefonds 2025 4.603m; tick916
+bud_kin_invest_subs_2025,city_kinrooi,2025,348510,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toegestane investeringssubsidies 2025 0.349m; tick916
+bud_kin_ocmw_cover_2025,city_kinrooi,2025,0,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gemeente tussenkomst OCMW 2025 0 FOI; tick916
+bud_kin_ocmw_pl_2025,city_kinrooi,2025,-2247980,,,jaarrekening_realized,src_kinrooi_jr2025,strong,OCMW P&L 2025 -2.248m FOI (no cover booked); tick916
+bud_kin_ocmw_equity_2025,city_kinrooi,2025,-823157,,,jaarrekening_realized,src_kinrooi_jr2025,strong,OCMW nettoactief YE2025 -0.823m FOI; tick916
+bud_kin_pl_2025,city_kinrooi,2025,241486,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Consol P&L boekjaar 2025 +0.241m; tick916
+bud_kin_provisions_expense_2025,city_kinrooi,2025,4107568,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Afschrijvingen/voorzieningen 2025 4.108m (jump); tick916
+bud_kin_mjp_fin_debt_2026,city_kinrooi,2025,15359125,,,jaarrekening_realized,src_kinrooi_jr2025,strong,MJP projected fin debt YE2026 15.359m; tick916
+bud_kin_agb_bbr_2025,city_kinrooi,2025,500465,,,jaarrekening_realized,src_kinrooi_jr2025,strong,AGB BBR YE2025 0.500m (consol); tick916

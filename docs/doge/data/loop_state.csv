@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T06:15:00Z,rq_915,915,no,tick915 Horebeke JR2025 dual Opwijk; FOI gap_hor_invest_cash_police_l5 prio8 invest 1.70m budget -0.99m cash drop police 0.275m; next residual dual L5 rq_916; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T06:45:00Z,rq_916,916,no,tick916 Kinrooi JR2025 dual Horebeke; FOI gap_kin_ocmw_pension_toelagen_l5 prio8 OCMW -2.25m cover 0 AFM +3.07m debt declining; next residual dual L5 rq_917; rq_116 deferred

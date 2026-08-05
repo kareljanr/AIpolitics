@@ -1,21 +1,1354 @@
-Kinrooi JR2025 BBC consol
-Source: https://www.kinrooi.be/file/download/11264/1F6E19C988446D884F90F3AAAA4C3338
-67p; Breeersteenweg 146 3640 Kinrooi; BE 0207.472.904
-tick885
 
-Assets 83436988 / Equity 56289814 / Debt total 27147174
-Cash 5874438 / Cap subs 16966243
-Fin debt 16391512 (LT 15151375 + ST due 1240138) declining
-New loans/leasings 231056
-Pension 4784538 was 3107029
-FVA IGS 15127730 / FVA total 24711734
-Expl rec 31288335 / exp 27010946 / saldo 4277389
-AFM 3067513 / gecorr 2878651
-BBR 5671672 / cumul 5671672
-Budget result 1145098 / P&L 241486
-Personnel 17439743 (onderwijs other ~2816112)
-Toelagen 3453908 (police 1016970 fire 471538 IGS 885417 AGB 260121 other 738682)
-OCMW aid 556981
-Fiscal 10617258 (OV 3918894 APB 3760641)
-Gemeentefonds 4603050
-Invest exp 2826698 / invest-subs 348510
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JAARREKENING 
+2025 
+Gemeentebestuur Kinrooi 
+ 
+ 
+ 
+ 
+ 
+ 
+Breeërsteenweg 146 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3640 KINROOI  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NIS : 72018 
+Algemeen directeur : Johan Kusters 
+Financieel directeur : Wendy Bekkers
+1 / 67
+
+===== PAGE 2 =====
+Beleidsevaluatie
+2025
+Journaalvolgnummers: JR Budg. 1032059 Alg. 93881 / EK Budg. 68859 IK Budg. 68030
+Gemeente (0207.472.904)
+OCMW (0207.472.904)
+Breeërsteenweg 146, 3640 Kinrooi
+Breeërsteenweg 146, 3640 Kinrooi
+Algemeen directeur: Johan Kusters
+Financieel directeur: Wendy Bekkers
+Prioritaire beleidsdoelstelling: BD-1: Investeren in Kinrooi, een aangename en
+betaalbare gemeente om in te wonen
+Kwalitatieve omschrijving: Het is de hoogste beleidsprioriteit om verder in te zetten op de optimale ruimtelijke ontwikkeling van
+Kinrooi in al haar facetten zoals daar zijn wonen, recreatie en natuur (met bijzondere aandacht voor klimaat en duurzaamheid).
+We denken hier onder andere aan het voorzien van betaalbare bouwplaatsen  voor de burger alsook aan het creëren van een
+aangename, verkeersveilige leefomgeving met voldoende recreatiemogelijkheden en groene ruimte.
+2025
+Jaarrekening
+Eindkredieten
+Initiële kredieten
+Exploitatie
+Investeringen
+Uitgaven
+356.254
+511.000
+300.000
+Ontvangsten
+155.319
+136.000
+360.000
+Saldo
+-200.935
+-375.000
+60.000
+Financiering
+Prioritair actieplan: AP-1: Investeren in aangenaam en betaalbaar wonen
+Naar gelang de woonbehoeften worden er 'nieuwe' woongebieden aangesneden en zullen er betaalbare bouwplaatsen
+worden aangeboden. Ook de creatie van woonmogelijkheden onder de vorm van ontwikkeling van appartementen wordt
+gefaciliteerd. De verdere ruimtelijke ontwikkeling van Kinrooi op vlak van recreatie en natuur wordt hier eveneens in
+opgenomen.
+Het woonuitbreidingsgebied Molenbeersel komt in de finale fase, er zijn nog enkele percelen beschikbaar waarvan de
+verkoopwaarde in de budgetcijfers van 2023 werden opgenomen.
+Het woonuitbreidingsgebied Kessenich werd in de ruilovereenkomst met Landwaarts opgenomen en zal niet meer door het
+gemeentebestuur zelf ontwikkeld worden maar door de huisvestingsmaatschappij Landwaarts.
+2025
+Jaarrekening
+Eindkredieten
+Initiële kredieten
+Exploitatie
+Investeringen
+Uitgaven
+354.145
+508.891
+300.000
+Ontvangsten
+0
+0
+360.000
+Saldo
+-354.145
+-508.891
+60.000
+Financiering
+JAARREKENING ORIGINEEL 2025 : Beleidsevaluatie
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+1 / 6
+2 / 67
+
+===== PAGE 10 =====
+J2: Staat van het financieel evenwicht
+2025
+Journaalvolgnummers: JR Budg. 1032059 Alg. 93881 / EK Budg. 68859 Budg. 3377 Budg. 116620 Alg. 2202
+Gemeente (0207.472.904)
+OCMW (0207.472.904)
+Breeërsteenweg 146, 3640 Kinrooi
+Breeërsteenweg 146, 3640 Kinrooi
+Algemeen directeur: Johan Kusters
+Financieel directeur: Wendy Bekkers
+Budgettair resultaat
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+4.277.389
+1.240.297
+a. Ontvangsten
+31.288.335
+30.537.455
+b. Uitgaven
+27.010.946
+29.297.159
+II. Investeringssaldo
+-2.153.472
+-2.569.349
+a. Ontvangsten
+673.226
+938.281
+b. Uitgaven
+2.826.698
+3.507.630
+III. Saldo exploitatie en investeringen
+2.123.917
+-1.329.052
+IV. Financieringssaldo
+-978.819
+-995.507
+a. Ontvangsten
+231.056
+223.292
+b. Uitgaven
+1.209.876
+1.218.799
+V. Budgettair resultaat van het boekjaar
+1.145.098
+-2.324.560
+VI. Gecumuleerd budgettair resultaat vorig boekjaar
+4.526.574
+4.526.574
+VII. Gecumuleerd budgettair resultaat
+5.671.672
+2.202.015
+IX. Beschikbaar budgettair resultaat
+5.671.672
+2.202.015
+Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Exploitatiesaldo
+4.277.389
+1.240.297
+II. Netto periodieke aflossingen
+1.209.876
+1.218.799
+a. Periodieke aflossingen conform de verbintenissen
+1.209.876
+1.218.799
+b. Periodieke terugvordering leningen
+0
+0
+III. Autofinancieringsmarge
+3.067.513
+21.497
+Gecorrigeerde Autofinancieringsmarge
+Jaarrekening
+Meerjarenplan
+I. Autofinancieringsmarge
+3.067.513
+21.497
+II. Correctie op de periodieke aflossingen
+-188.862
+-179.938
+a. Periodieke aflossingen conform de verbintenissen
+1.209.876
+1.218.799
+b. Gecorrigeerde aflossingen o.b.v. de financiële schulden
+1.398.738
+1.398.738
+III. Gecorrigeerde autofinancieringsmarge
+2.878.651
+-158.441
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+1 / 2
+10 / 67
+
+===== PAGE 11 =====
+Geconsolideerd financieel evenwicht
+Jaarrekening
+Meerjarenplan
+I. Beschikbaar budgettair resultaat
+- Gemeente en OCMW
+5.671.672
+2.202.015
+- Autonoom gemeentebedrijf
+500.465
+350.353
+Totaal beschikbaar budgettair resultaat
+6.172.137
+2.552.367
+II. Autofinancieringsmarge
+- Gemeente en OCMW
+3.067.513
+21.497
+- Autonoom gemeentebedrijf
+171.561
+51.436
+Totale Autofinancieringsmarge
+3.239.075
+72.933
+III. Gecorrigeerde autofinancieringsmarge
+- Gemeente en OCMW
+2.878.651
+-158.441
+- Autonoom gemeentebedrijf
+171.561
+51.436
+Totale gecorrigeerde autofinancieringsmarge
+3.050.213
+-107.005
+Andere gebruikte dossiers op dit rapport:
+Dossiers van andere entiteiten:
+Autonoom gemeentebedrijf: JR_ORIGINEEL_2025 2025: Budg. 116620 Alg. 2202
+MJP dossiers van andere entiteiten:
+Autonoom gemeentebedrijf: MJP_HERZIENING_7_2025 2025: Budg. 3377
+MJP:
+MJP_HERZIENING_12_2025 2025: Budg. 68859
+Voorgaande JR dossiers:
+JR_ORIGINEEL_2024 2024: Budg. 919496 Alg. 86609
+JAARREKENING ORIGINEEL 2025 : Staat van het financieel evenwicht
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+2 / 2
+11 / 67
+
+===== PAGE 13 =====
+J4: Balans
+2025
+Journaalvolgnummers: JR Budg. 1032059 Alg. 93881 / JR-1 Budg. 919496 Alg. 86609
+Gemeente (0207.472.904)
+OCMW (0207.472.904)
+Breeërsteenweg 146, 3640 Kinrooi
+Breeërsteenweg 146, 3640 Kinrooi
+Algemeen directeur: Johan Kusters
+Financieel directeur: Wendy Bekkers
+2025
+2024
+ACTIVA
+83.436.988
+84.523.704
+I. Vlottende activa
+10.450.449
+11.720.310
+A. Liquide middelen en geldbeleggingen
+5.874.438
+4.815.763
+B. Vorderingen op korte termijn
+4.576.012
+6.904.548
+1. Vorderingen uit ruiltransacties
+978.823
+1.552.753
+2. Vorderingen uit niet-ruiltransacties
+3.597.189
+5.351.795
+II. Vaste activa
+72.986.539
+72.803.394
+B. Financiële vaste activa
+24.711.734
+24.703.454
+1. Extern verzelfstandigde agentschappen
+7.351.043
+7.351.043
+2. Intergemeentelijke samenwerkingsverbanden en soortgelijke entiteiten
+15.127.730
+15.127.730
+4. Andere financiële vaste activa
+2.232.961
+2.224.681
+C. Materiële vaste activa
+48.165.291
+47.987.722
+1. Gemeenschapsgoederen
+33.816.744
+33.302.960
+a. Terreinen en gebouwen
+19.777.235
+19.958.735
+b. Wegen en andere infrastructuur
+12.113.133
+12.035.040
+c. Installaties, machines en uitrusting
+215.908
+239.289
+d. Meubilair, kantooruitrusting en rollend materieel
+535.739
+108.217
+e. Leasing en soortgelijke rechten
+1.174.729
+961.679
+2. Bedrijfsmatige materiële vaste activa
+10.067.677
+10.403.892
+a. Terreinen en gebouwen
+9.594.531
+10.020.286
+b. Installaties, machines en uitrusting
+225.221
+47.577
+c. Meubilair, kantooruitrusting en rollend materieel
+247.925
+336.029
+3. Andere materiële vaste activa
+4.280.870
+4.280.870
+a. Terreinen en gebouwen
+4.280.870
+4.280.870
+D. Immateriële vaste activa
+109.514
+112.217
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+1 / 2
+13 / 67
+
+===== PAGE 14 =====
+2025
+2024
+PASSIVA
+83.436.988
+84.523.704
+I. Schulden
+27.147.174
+28.736.353
+A. Schulden op korte termijn
+7.211.261
+9.459.631
+1. Schulden uit ruiltransacties
+3.565.225
+3.475.569
+a. Voorzieningen voor risico's en kosten
+1.182.582
+1.023.240
+b. Financiële schulden
+0
+113.890
+c. Niet-financiële schulden uit ruiltransacties
+2.382.643
+2.338.439
+2. Schulden uit niet-ruiltransacties
+2.405.898
+4.783.424
+4. Schulden op lange termijn die binnen het jaar vervallen
+1.240.138
+1.200.639
+B. Schulden op lange termijn
+19.935.913
+19.276.722
+1. Schulden uit ruiltransacties
+19.935.913
+19.276.722
+a. Voorzieningen voor risico's en kosten
+4.784.538
+3.107.029
+1. Pensioenen en soortgelijke verplichtingen
+4.784.538
+3.107.029
+b. Financiële schulden
+15.151.375
+16.169.693
+II. Nettoactief
+56.289.814
+55.787.351
+A. Kapitaalssubsidies en schenkingen
+16.966.243
+16.713.545
+B. Gecumuleerd overschot of tekort
+9.031.651
+8.790.165
+C. Herwaarderingsreserves
+46.905
+38.625
+D. Overig nettoactief
+30.245.015
+30.245.015
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 919496 Alg. 86609
+JAARREKENING ORIGINEEL 2025 : Balans
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+2 / 2
+14 / 67
+
+===== PAGE 15 =====
+J5: Staat van opbrengsten en kosten
+2025
+Journaalvolgnummers: JR Budg. 1032059 Alg. 93881 / JR-1 Budg. 919496 Alg. 86609
+Gemeente (0207.472.904)
+OCMW (0207.472.904)
+Breeërsteenweg 146, 3640 Kinrooi
+Breeërsteenweg 146, 3640 Kinrooi
+Algemeen directeur: Johan Kusters
+Financieel directeur: Wendy Bekkers
+2025
+2024
+I. Kosten
+31.467.023
+28.477.778
+A. Operationele kosten
+30.899.018
+27.888.745
+1. Goederen en diensten
+4.914.015
+4.753.067
+2. Bezoldigingen, sociale lasten en pensioenen
+17.439.743
+15.866.513
+3. Afschrijvingen, waardeverminderingen en voorzieningen
+4.107.568
+2.483.890
+4. Individuele hulpverlening door O.C.M.W.
+556.981
+721.824
+5. Toegestane werkingssubsidies
+3.453.908
+3.703.824
+6. Toegestane investeringssubsidies
+348.510
+177.665
+8. Andere operationele kosten
+78.294
+181.962
+B. Financiële kosten
+568.006
+589.033
+II. Opbrengsten
+31.708.509
+30.305.818
+A. Operationele opbrengsten
+30.569.484
+27.322.915
+1. Opbrengsten uit de werking
+6.553.563
+6.268.717
+2. Fiscale opbrengsten en boetes
+10.617.258
+9.257.927
+3. Werkingssubsidies
+13.066.428
+11.466.772
+a. Algemene werkingssubsidies
+6.724.247
+6.250.599
+b. Specifieke werkingssubsidies
+6.342.181
+5.216.174
+4. Recuperatie individuele hulpverlening
+80.510
+97.882
+5. Meerwaarden bij de realisatie van vaste activa
+95.947
+108.000
+6. Andere operationele opbrengsten
+155.779
+123.616
+B. Financiële opbrengsten
+1.139.025
+2.982.903
+III. Overschot of tekort van het boekjaar
+241.486
+1.828.040
+A. Operationeel overschot of tekort
+-329.533
+-565.830
+B. Financieel overschot of tekort
+571.019
+2.393.870
+IV. Verwerking van het overschot of tekort van het boekjaar
+241.486
+1.828.040
+C. Over te dragen overschot of tekort van het boekjaar
+241.486
+1.828.040
+Andere gebruikte dossiers op dit rapport:
+JR dossier, voorgaand jaar:
+JR_ORIGINEEL_2024 2024: Budg. 919496 Alg. 86609
+JAARREKENING ORIGINEEL 2025 : Staat van opbrengsten en kosten
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+1 / 1
+15 / 67
+
+===== PAGE 22 =====
+T2: Ontvangsten en uitgaven naar economische aard
+2025
+Journaalvolgnummers: JR Budg. 1032059 Alg. 93881 / EK Budg. 68859
+Gemeente (0207.472.904)
+OCMW (0207.472.904)
+Breeërsteenweg 146, 3640 Kinrooi
+Breeërsteenweg 146, 3640 Kinrooi
+Algemeen directeur: Johan Kusters
+Financieel directeur: Wendy Bekkers
+I. Exploitatie-uitgaven
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele uitgaven
+19.294.874
+20.119.884
+22.704.412
+23.255.063
+25.227.190
+26.442.940
+28.730.184
+1. Goederen en diensten
+3.329.401
+3.576.665
+4.609.481
+4.277.025
+4.753.067
+4.914.015
+5.997.287
+2. Bezoldigingen, sociale lasten en pensioenen
+12.665.685
+13.157.106
+14.381.808
+14.881.634
+15.866.513
+17.439.743
+17.996.797
+a. Politiek personeel
+345.142
+348.130
+418.589
+401.887
+416.274
+472.434
+497.784
+b. Vastbenoemd niet-onderwijzend personeel
+2.475.441
+2.576.274
+2.565.208
+2.480.420
+2.967.438
+2.571.457
+2.532.873
+c. Niet vastbenoemd niet-onderwijzend personeel
+7.965.998
+8.294.007
+9.456.476
+10.038.516
+10.482.149
+10.919.890
+11.432.451
+e. Onderwijzend personeel ten laste van andere overheden
+1.440.000
+1.440.000
+1.440.000
+1.440.000
+1.439.500
+2.816.112
+2.816.112
+f. Andere personeelskosten
+277.957
+338.456
+333.217
+343.136
+381.145
+410.419
+452.983
+g. Pensioenen
+161.147
+160.240
+168.318
+177.676
+180.008
+249.431
+264.594
+3. Individuele hulpverlening door het O.C.M.W.
+540.343
+548.598
+632.082
+741.453
+721.824
+556.981
+717.587
+4. Toegestane werkingssubsidies
+2.647.224
+2.789.734
+3.043.244
+3.312.920
+3.703.824
+3.453.908
+3.895.602
+- aan de eigen autonome gemeentebedrijven (AGB)
+186.662
+300.000
+441.783
+430.000
+506.759
+260.121
+400.000
+- aan de politiezone
+644.932
+677.178
+718.419
+919.188
+824.293
+1.016.970
+1.035.770
+- aan de hulpverleningszone
+427.064
+434.104
+443.775
+456.153
+467.966
+471.538
+471.538
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+848.482
+880.610
+813.665
+871.012
+934.741
+885.417
+344.286
+- aan besturen van de eredienst
+72.646
+86.996
+89.333
+94.311
+86.346
+81.181
+81.181
+- aan andere begunstigden
+467.438
+410.846
+536.270
+542.256
+883.720
+738.682
+1.562.828
+5. Andere operationele uitgaven
+112.222
+47.781
+37.796
+42.032
+181.962
+78.294
+122.910
+B. Financiële uitgaven
+621.574
+596.954
+590.691
+600.579
+589.033
+568.006
+566.975
+1. Rente, commissies en kosten verbonden aan schulden
+616.975
+590.806
+588.409
+597.208
+581.186
+552.086
+549.475
+- aan financiële instellingen
+616.975
+588.326
+583.613
+582.754
+560.607
+524.760
+524.760
+- aan andere entiteiten
+0
+2.480
+4.796
+14.454
+20.579
+27.326
+24.715
+2. Andere financiële uitgaven
+4.598
+6.147
+2.283
+3.371
+7.847
+15.920
+17.500
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+1 / 7
+22 / 67
+
+===== PAGE 23 =====
+I. Exploitatie-uitgaven
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+A. Operationele uitgaven
+28.048.122
+28.346.615
+1. Goederen en diensten
+4.819.587
+4.869.587
+2. Bezoldigingen, sociale lasten en pensioenen
+18.774.865
+19.048.086
+a. Politiek personeel
+494.193
+499.137
+b. Vastbenoemd niet-onderwijzend personeel
+2.908.213
+3.052.712
+c. Niet vastbenoemd niet-onderwijzend personeel
+12.007.511
+12.127.581
+e. Onderwijzend personeel ten laste van andere overheden
+2.816.112
+2.816.112
+f. Andere personeelskosten
+281.596
+282.632
+g. Pensioenen
+267.240
+269.912
+3. Individuele hulpverlening door het O.C.M.W.
+711.887
+711.887
+4. Toegestane werkingssubsidies
+3.681.208
+3.656.480
+- aan de eigen autonome gemeentebedrijven (AGB)
+400.000
+400.000
+- aan de politiezone
+784.961
+784.961
+- aan de hulpverleningszone
+471.538
+471.538
+- aan intergemeentelijke samenwerkingsverbanden (IGS)
+344.286
+344.286
+- aan besturen van de eredienst
+81.181
+81.181
+- aan andere begunstigden
+1.599.243
+1.574.515
+5. Andere operationele uitgaven
+60.575
+60.575
+B. Financiële uitgaven
+538.958
+502.373
+1. Rente, commissies en kosten verbonden aan schulden
+535.458
+498.873
+- aan financiële instellingen
+489.310
+452.725
+- aan andere entiteiten
+46.148
+46.148
+2. Andere financiële uitgaven
+3.500
+3.500
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+A. Operationele ontvangsten
+21.575.112
+21.879.591
+23.614.143
+26.208.798
+27.214.915
+30.473.538
+29.823.351
+1. Ontvangsten uit de werking
+4.923.692
+5.085.105
+5.800.344
+6.015.712
+6.268.717
+6.553.563
+6.447.261
+2. Fiscale ontvangsten en boetes
+6.635.663
+6.706.886
+6.937.190
+8.699.038
+9.257.927
+10.617.258
+10.298.125
+a. Aanvullende belastingen
+5.597.974
+5.550.695
+5.756.599
+7.104.212
+6.795.346
+7.891.526
+7.644.650
+- Opcentiemen op de onroerende voorheffing
+2.931.436
+2.922.126
+3.060.194
+3.330.803
+3.702.314
+3.918.894
+3.936.093
+- Aanvullende belasting op de personenbelasting
+2.420.319
+2.403.045
+2.467.751
+3.524.535
+2.837.775
+3.760.641
+3.440.371
+- Andere aanvullende belastingen
+246.219
+225.524
+228.654
+248.873
+255.257
+211.990
+268.186
+b. Andere belastingen en boetes
+1.037.689
+1.156.191
+1.180.590
+1.594.827
+2.462.581
+2.725.732
+2.653.475
+3. Werkingssubsidies
+9.761.227
+9.851.335
+10.508.114
+11.247.382
+11.466.772
+13.066.428
+12.964.394
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+2 / 7
+23 / 67
+
+===== PAGE 24 =====
+II. Exploitatieontvangsten
+2020
+2021
+2022
+2023
+2024
+2025
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Jaarrekening
+Meerjarenplan
+a. Algemene werkingssubsidies
+5.107.222
+5.106.634
+5.760.336
+6.212.904
+6.250.599
+6.724.247
+6.532.484
+- Gemeentefonds
+3.909.558
+4.031.285
+4.282.463
+4.345.957
+4.445.228
+4.603.050
+4.588.574
+- Andere algemene werkingssubsidies
+1.197.664
+1.075.349
+1.477.872
+1.866.947
+1.805.370
+2.121.197
+1.943.910
+- van de federale overheid
+94.070
+1.217
+7.829
+0
+0
+0
+15.000
+- van de Vlaamse overheid
+1.083.895
+1.048.931
+1.470.044
+1.861.528
+1.805.370
+2.087.301
+1.928.910
+- van de gemeente
+17.640
+25.200
+0
+0
+0
+22.576
+0
+- van andere entiteiten
+2.059
+0
+0
+5.419
+0
+11.320
+0
+b. Specifieke werkingssubsidies
+4.654.006
+4.744.701
+4.747.779
+5.034.478
+5.216.174
+6.342.181
+6.431.910
+- van de federale overheid
+1.619.367
+1.482.677
+1.977.181
+1.596.038
+1.389.298
+1.386.628
+2.364.362
+- van de Vlaamse overheid
+3.008.754
+3.208.932
+2.725.199
+3.401.433
+3.705.966
+4.914.487
+4.013.762
+- van de provincie
+0
+10.718
+0
+2.040
+0
+0
+200
+- van de gemeente
+2.320
+0
+7.497
+0
+77.608
+2.800
+2.800
+- van andere entiteiten
+23.564
+42.374
+37.902
+34.967
+43.301
+38.266
+50.786
+4. Recuperatie individuele hulpverlening
+120.304
+125.785
+119.609
+108.608
+97.882
+80.510
+16.600
+5. Andere operationele ontvangsten
+134.226
+110.479
+248.885
+138.057
+123.616
+155.779
+96.971
+B. Financiële ontvangsten
+668.482
+724.782
+927.603
+826.697
+2.655.640
+814.797
+714.105
+II. Exploitatieontvangsten
+2026
+2027
+Meerjarenplan
+Meerjarenplan
+A. Operationele ontvangsten
+29.951.534
+30.144.552
+1. Ontvangsten uit de werking
+6.242.258
+6.242.258
+2. Fiscale ontvangsten en boetes
+10.859.939
+11.002.008
+a. Aanvullende belastingen
+8.245.311
+8.496.595
+- Opcentiemen op de onroerende voorheffing
+4.088.696
+4.207.454
+- Aanvullende belasting op de personenbelasting
+3.883.651
+4.011.300
+- Andere aanvullende belastingen
+272.964
+277.841
+b. Andere belastingen en boetes
+2.614.628
+2.505.413
+3. Werkingssubsidies
+12.735.800
+12.786.551
+a. Algemene werkingssubsidies
+6.498.537
+6.626.029
+- Gemeentefonds
+4.645.711
+4.707.916
+- Andere algemene werkingssubsidies
+1.852.827
+1.918.113
+- van de federale overheid
+15.000
+15.000
+- van de Vlaamse overheid
+1.837.827
+1.903.113
+- van de gemeente
+0
+0
+JAARREKENING ORIGINEEL 2025 : Ontvangsten en uitgaven naar economische aard
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+3 / 7
+24 / 67
+
+===== PAGE 37 =====
+T4: Evolutie van de financiële schulden
+2025
+Journaalvolgnummers: JR Budg. 1032059 Alg. 93881
+Gemeente (0207.472.904)
+OCMW (0207.472.904)
+Breeërsteenweg 146, 3640 Kinrooi
+Breeërsteenweg 146, 3640 Kinrooi
+Algemeen directeur: Johan Kusters
+Financieel directeur: Wendy Bekkers
+Financiële schulden op 31 december
+2020
+2021
+2022
+2023
+2024
+2025
+A. Financiële schulden op lange termijn
+17.880.453
+17.374.483
+18.260.427
+17.274.703
+16.169.692
+15.151.374
+1. Financiële schulden op 1 januari
+19.039.021
+17.880.453
+17.374.483
+18.260.427
+17.274.703
+16.169.692
+2. Nieuwe leningen
+0
+815.420
+2.296.455
+185.300
+97.393
+231.056
+4. Overboekingen
+-1.158.568
+-1.321.390
+-1.410.511
+-1.171.025
+-1.202.405
+-1.249.374
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+1.158.568
+1.257.208
+1.405.231
+1.175.665
+1.200.639
+1.240.138
+1. Financiële schulden op 1 januari
+1.131.389
+1.158.568
+1.257.208
+1.405.231
+1.175.665
+1.200.639
+2. Aflossingen
+-1.131.389
+-1.222.750
+-1.262.487
+-1.400.591
+-1.177.431
+-1.209.876
+3. Overboekingen
+1.158.568
+1.321.390
+1.410.511
+1.171.025
+1.202.405
+1.249.374
+C. Financiële schulden op  korte termijn
+376.240
+139.622
+0
+0
+113.890
+0
+Totaal financiële schulden
+19.415.261
+18.771.313
+19.665.659
+18.450.368
+17.484.220
+16.391.512
+Financiële schulden op 31 december
+2026
+2027
+A. Financiële schulden op lange termijn
+14.087.028
+12.957.696
+1. Financiële schulden op 1 januari
+15.151.374
+14.087.028
+2. Nieuwe leningen
+223.292
+223.292
+4. Overboekingen
+-1.287.638
+-1.352.624
+B. Financiële schulden op lange termijn die
+binnen het jaar vervallen
+1.272.096
+1.337.083
+1. Financiële schulden op 1 januari
+1.240.138
+1.272.096
+2. Aflossingen
+-1.255.679
+-1.287.638
+3. Overboekingen
+1.287.638
+1.352.624
+C. Financiële schulden op  korte termijn
+0
+0
+Totaal financiële schulden
+15.359.125
+14.294.779
+JAARREKENING ORIGINEEL 2025 : Evolutie van de financiële schulden
+2025
+Gemeente en OCMW (0207.472.904 / 0207.472.904)
+1 / 2
+37 / 67
+
+===== PAGE 40 =====
+2. De mutatiestaat van het nettoactief
+A. Kapitaalssubsidies en schenkingen
+Boekwaarde
+op 1/1
+Toevoeging
+Verrekening
+Andere
+mutaties
+Boekwaarde
+op 31/12
+Gemeente
+€ 9.491.692,65
+€ 576.925,91
+€ 276.878,95
+€ 0,00
+€ 9.791.739,61
+OCMW
+€ 7.221.852,54
+€ 0,00
+€ 47.349,20
+€ 0,00
+€ 7.174.503,34
+Totaal
+€ 16.713.545,19
+€ 576.925,91
+€ 324.228,15
+€ 0,00 € 16.966.242,95
+B. Gecumuleerd overschot of tekort
+Boekwaarde
+op 1/1
+Overschot of
+tekort van het
+boekjaar
+Tussenkomst
+gemeente aan
+OCMW
+Andere
+mutaties
+Boekwaarde
+op 31/12
+Gemeente
+€ 16.067.124,22
+€ 2.489.466,43
+€ 0,00
+€ 0,00 € 18.556.590,65
+OCMW
+€ -7.276.959,08 € -2.247.980,48
+€ 0,00
+€ 0,00 € -9.524.939,56
+Totaal
+€ 8.790.165,14
+€ 241.485,95
+€ 0,00
+€ 0,00
+€ 9.031.651,09
+C. Herwaarderingsreserves
+Boekwaarde
+op 1/1
+Toevoeging
+Terugneming
+Andere
+mutaties
+Boekwaarde
+op 31/12
+Gemeente
+€ 38.624,98
+€ 8.280,00
+€ 0,00
+€ 0,00
+€ 46.904,98
+OCMW
+€ 0,00
+€ 0,00
+€ 0,00
+€ 0,00
+€ 0,00
+Totaal
+€ 38.624,98
+€ 8.280,00
+€ 0,00
+€ 0,00
+€ 46.904,98
+D. Overig nettoactief
+Boekwaarde
+op 1/1
+Wijziging
+kapitaal
+Andere
+mutaties
+Boekwaarde
+op 31/12
+Gemeente
+€ 28.717.736,52
+€ 0,00
+€ 0,00 € 28.717.736,52
+OCMW
+€ 1.527.278,93
+€ 0,00
+€ 0,00
+€ 1.527.278,93
+Totaal
+€ 30.245.015,45
+€ 0,00
+€ 0,00 € 30.245.015,45
+Totaal nettoactief
+Boekwaarde
+op 1/1
+Mutatie
+Boekwaarde
+op 31/12
+Gemeente
+€ 54.315.178,37
+€ 2.797.793,39 € 57.112.971,76
+OCMW
+€ 1.472.172,39
+€ -2.295.329,68
+€ -823.157,29
+Totaal
+€ 55.787.350,76
+€ 502.463,71 € 56.289.814,47
+Schema T5: De toelichting bij de balans
+2025
+17/04/2026 10:54
+2/ 2
+40 / 67
