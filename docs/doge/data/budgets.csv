@@ -26495,3 +26495,55 @@ bud_kluis_invest_subs_granted_2025,city_kluisbergen,2025,2122754,,,bbc_jr_realiz
 bud_kluis_aquario_invest_subs_2025,city_kluisbergen,2025,1775521,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Aquario tekort aanzuivering invest-subs 1.78m HIGH FOI residual; tick1053
 bud_kluis_desinvest_2025,city_kluisbergen,2025,1427770,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Desinvesteringen 1.43m (o.a. woningverkoop); tick1053
 bud_kluis_schuld_per_inwoner_2025,city_kluisbergen,2025,727,,,bbc_jr_realized,src_kluisbergen_jr2025,strong,Openstaande schuld per inwoner EUR727; tick1053
+bud_ess_assets_2025,city_essen,2025,125218981,,,bbc_jr_realized,src_essen_jr2025,strong,Assets YE2025 125.22m JUMP (was 121.24m); tick1054
+bud_ess_equity_2025,city_essen,2025,106014977,,,bbc_jr_realized,src_essen_jr2025,strong,Nettoactief YE2025 106.01m JUMP (was 102.46m); tick1054
+bud_ess_debt_total_2025,city_essen,2025,19204004,,,bbc_jr_realized,src_essen_jr2025,strong,Total schulden YE2025 19.20m slight JUMP (was 18.78m); tick1054
+bud_ess_fin_debt_2025,city_essen,2025,6330589,,,bbc_jr_realized,src_essen_jr2025,strong,Fin debt total YE2025 6.33m DECLINE (LT 5.39 + ST due 0.94; was ~7.28m); tick1054
+bud_ess_fin_debt_lt_2025,city_essen,2025,5393444,,,bbc_jr_realized,src_essen_jr2025,strong,Fin debt LT YE2025 5.39m DECLINE (was 6.31m); tick1054
+bud_ess_fin_debt_st_due_2025,city_essen,2025,937145,,,bbc_jr_realized,src_essen_jr2025,strong,Fin debt ST due YE2025 0.937m; tick1054
+bud_ess_fin_debt_st_2025,city_essen,2025,0,,,bbc_jr_realized,src_essen_jr2025,strong,Fin debt ST treasury YE2025 0; tick1054
+bud_ess_new_loans_2025,city_essen,2025,215097,,,bbc_jr_realized,src_essen_jr2025,strong,Nieuwe leningen/leasings J3 0.215m LOW; tick1054
+bud_ess_aflossingen_2025,city_essen,2025,1161870,,,bbc_jr_realized,src_essen_jr2025,strong,Periodieke aflossingen 1.16m HIGH vs new loans; tick1054
+bud_ess_cash_2025,city_essen,2025,12793045,,,bbc_jr_realized,src_essen_jr2025,strong,Liquide middelen YE2025 12.79m DROP (was 13.51m); tick1054
+bud_ess_pension_2025,city_essen,2025,5971000,,,bbc_jr_realized,src_essen_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.97m DROP FOI (was 6.08m); tick1054
+bud_ess_cap_subs_2025,city_essen,2025,5149238,,,bbc_jr_realized,src_essen_jr2025,strong,Kapitaalsubsidies YE2025 5.15m; tick1054
+bud_ess_fva_total_2025,city_essen,2025,36606818,,,bbc_jr_realized,src_essen_jr2025,strong,FVA total YE2025 36.61m HIGH FVA; tick1054
+bud_ess_fva_igs_2025,city_essen,2025,36605295,,,bbc_jr_realized,src_essen_jr2025,strong,FVA IGS YE2025 36.61m VERY HIGH FOI residual; tick1054
+bud_ess_leasing_mva_2025,city_essen,2025,3107138,,,bbc_jr_realized,src_essen_jr2025,strong,Leasing MVA YE2025 3.11m; tick1054
+bud_ess_expl_rec_2025,city_essen,2025,36763142,,,bbc_jr_realized,src_essen_jr2025,strong,Exploitatieontvangsten 36.76m; tick1054
+bud_ess_expl_exp_2025,city_essen,2025,31172989,,,bbc_jr_realized,src_essen_jr2025,strong,Exploitatieuitgaven 31.17m; tick1054
+bud_ess_expl_saldo_2025,city_essen,2025,5590153,,,bbc_jr_realized,src_essen_jr2025,strong,Exploitatiesaldo +5.59m VERY STRONG; tick1054
+bud_ess_invest_exp_2025,city_essen,2025,6775417,,,bbc_jr_realized,src_essen_jr2025,strong,Investeringsuitgaven 6.78m vs MJP 8.03m UNDERSPEND FOI; tick1054
+bud_ess_invest_rec_2025,city_essen,2025,628427,,,bbc_jr_realized,src_essen_jr2025,strong,Investeringsontvangsten 0.628m; tick1054
+bud_ess_invest_saldo_2025,city_essen,2025,-6146989,,,bbc_jr_realized,src_essen_jr2025,strong,Investeringssaldo -6.15m; tick1054
+bud_ess_mjp_invest_planned_2025,city_essen,2025,8027789,,,bbc_jr_realized,src_essen_jr2025,strong,MJP invest planned 8.03m vs realized 6.78m underspend FOI; tick1054
+bud_ess_afm_2025,city_essen,2025,4721616,,,bbc_jr_realized,src_essen_jr2025,strong,AFM +4.72m VERY STRONG; tick1054
+bud_ess_afm_corr_2025,city_essen,2025,5301298,,,bbc_jr_realized,src_essen_jr2025,strong,Gecorrigeerde AFM +5.30m VERY STRONG; tick1054
+bud_ess_bbr_2025,city_essen,2025,9673034,,,bbc_jr_realized,src_essen_jr2025,strong,BBR beschikbaar +9.67m VERY HIGH FOI; tick1054
+bud_ess_budget_result_2025,city_essen,2025,-1316892,,,bbc_jr_realized,src_essen_jr2025,strong,Budgettair resultaat -1.32m NEG FOI (vs MJP -7.29m better); tick1054
+bud_ess_cum_br_2025,city_essen,2025,11166708,,,bbc_jr_realized,src_essen_jr2025,strong,Gecumuleerd budgettair resultaat +11.17m; tick1054
+bud_ess_onbeschikbaar_2025,city_essen,2025,1493674,,,bbc_jr_realized,src_essen_jr2025,strong,Onbeschikbare gelden 1.49m; tick1054
+bud_ess_pnl_2025,city_essen,2025,3363562,,,bbc_jr_realized,src_essen_jr2025,strong,P&L +3.36m STRONG; tick1054
+bud_ess_ge_expl_exp_2025,city_essen,2025,27673946,,,bbc_jr_realized,src_essen_jr2025,strong,GE exploitatieuitgaven J3 27.67m; tick1054
+bud_ess_ge_expl_rec_2025,city_essen,2025,34430462,,,bbc_jr_realized,src_essen_jr2025,strong,GE exploitatieontvangsten J3 34.43m; tick1054
+bud_ess_ocmw_expl_exp_2025,city_essen,2025,3499043,,,bbc_jr_realized,src_essen_jr2025,strong,OCMW exploitatieuitgaven J3 3.50m; tick1054
+bud_ess_ocmw_expl_rec_2025,city_essen,2025,2332680,,,bbc_jr_realized,src_essen_jr2025,strong,OCMW exploitatieontvangsten J3 2.33m; tick1054
+bud_ess_ocmw_expl_gap_2025,city_essen,2025,-1166363,,,bbc_jr_realized,src_essen_jr2025,strong,OCMW expl gap -1.17m FOI residual; tick1054
+bud_ess_ocmw_cover_2025,city_essen,2025,1255841,,,bbc_jr_realized,src_essen_jr2025,strong,OCMW cover tussenkomst 1.26m FULL FOI residual (policy budgettair tekort); tick1054
+bud_ess_equity_cum_2025,city_essen,2025,32560079,,,bbc_jr_realized,src_essen_jr2025,strong,Gecumuleerd overschot/tekort consol YE2025 +32.56m JUMP; tick1054
+bud_ess_personnel_2025,city_essen,2025,16393554,,,bbc_jr_realized,src_essen_jr2025,strong,Bezoldigingen 16.39m JUMP FOI (was 15.46m); tick1054
+bud_ess_edu_pass_through_2025,city_essen,2025,3509969,,,bbc_jr_realized,src_essen_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.51m; tick1054
+bud_ess_toelagen_2025,city_essen,2025,4783688,,,bbc_jr_realized,src_essen_jr2025,strong,Toegestane werkingssubsidies 4.78m FOI residual; tick1054
+bud_ess_toelagen_police_2025,city_essen,2025,2702466,,,bbc_jr_realized,src_essen_jr2025,strong,Toelage politiezone 2.70m JUMP FOI; tick1054
+bud_ess_toelagen_fire_2025,city_essen,2025,680243,,,bbc_jr_realized,src_essen_jr2025,strong,Toelage hulpverleningszone 0.680m; tick1054
+bud_ess_toelagen_agb_2025,city_essen,2025,294323,,,bbc_jr_realized,src_essen_jr2025,strong,Toelage AGB Essen 0.294m; tick1054
+bud_ess_toelagen_eredienst_2025,city_essen,2025,75704,,,bbc_jr_realized,src_essen_jr2025,strong,Toelage erediensten 0.076m DROP; tick1054
+bud_ess_toelagen_other_2025,city_essen,2025,1030953,,,bbc_jr_realized,src_essen_jr2025,strong,Toelage andere begunstigden 1.03m FOI residual; tick1054
+bud_ess_ocmw_aid_2025,city_essen,2025,1798557,,,bbc_jr_realized,src_essen_jr2025,strong,OCMW individuele hulp 1.80m; tick1054
+bud_ess_fiscal_2025,city_essen,2025,17094229,,,bbc_jr_realized,src_essen_jr2025,strong,Fiscale opbrengsten 17.09m JUMP; tick1054
+bud_ess_fiscal_ov_2025,city_essen,2025,7411384,,,bbc_jr_realized,src_essen_jr2025,strong,Opcentiemen OV 7.41m; tick1054
+bud_ess_fiscal_pb_2025,city_essen,2025,8103022,,,bbc_jr_realized,src_essen_jr2025,strong,Aanvullende PB 8.10m JUMP; tick1054
+bud_ess_gemeentefonds_2025,city_essen,2025,5486572,,,bbc_jr_realized,src_essen_jr2025,strong,Gemeentefonds 5.49m; tick1054
+bud_ess_interest_2025,city_essen,2025,193957,,,bbc_jr_realized,src_essen_jr2025,strong,Financiele kosten 0.194m DECLINE; tick1054
+bud_ess_invest_subs_rec_2025,city_essen,2025,199926,,,bbc_jr_realized,src_essen_jr2025,strong,Ontvangen invest-subs VL 0.200m; tick1054
+bud_ess_invest_subs_granted_2025,city_essen,2025,1648613,,,bbc_jr_realized,src_essen_jr2025,strong,Toegestane invest-subs 1.65m (police 0.136 fire 0.348); tick1054

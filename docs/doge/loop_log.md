@@ -14027,3 +14027,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1054** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1054 - 2026-08-10T16:15:00Z
+
+- Unit: **rq_1054** (FOI-adjacent residual dual - **Lokaal Bestuur Essen Jaarrekening 2025** + Kluisbergen dual residual)
+- Found (strong primary BBC JR2025 161p portal; KBO 0207.537.438 / OCMW 0212.212.640; Heuvelplein 23; AD Ivan Kockx FD Bieke Van Schoors BM Geert Vandekeybus; pub 01.07.2026):
+  - Assets **EUR125.22m JUMP** / equity **EUR106.01m JUMP** / debt total **EUR19.20m** / fin debt **EUR6.33m DECLINE** (LT **EUR5.39m** / ST due **EUR0.937m**)
+  - New loans **EUR0.215m LOW** / repayments **EUR1.16m HIGH**
+  - Cash **EUR12.79m DROP** / pension **EUR5.97m DROP FOI** (was **EUR6.08m**) / FVA IGS **EUR36.61m VERY HIGH FOI** / leasing MVA **EUR3.11m**
+  - Exploitatie: ontvangsten **EUR36.76m** / uitgaven **EUR31.17m** / saldo **+EUR5.59m VERY STRONG**
+  - AFM **+EUR4.72m VERY STRONG** (gecorr **+EUR5.30m**) / BBR **EUR9.67m VERY HIGH FOI** / budget **EUR-1.32m NEG FOI** (vs MJP **-EUR7.29m**) / cum BR **EUR11.17m** / P&L **+EUR3.36m**
+  - Personnel **EUR16.39m JUMP** / toelagen **EUR4.78m FOI** (police **EUR2.70m JUMP** / fire **EUR0.680m** / AGB **EUR0.294m** / eredienst **EUR0.076m** / other **EUR1.03m**)
+  - Invest **EUR6.78m** vs MJP **EUR8.03m UNDERSPEND FOI** / invest-subs granted **EUR1.65m**
+  - **OCMW cover EUR1.26m FULL FOI** (policy budgettair tekort dienstjaar) vs gap **EUR-1.17m**
+- Dual: Kluisbergen assets **EUR40.91m** / new loans **EUR3.20m** / P&L **-EUR1.84m** / Aquario **EUR1.78m** (tick1053) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Berlaar / Nijlen residual next; progress@1060
+- Wrote: budgets +53 (bud_ess_*); commitments +7; leaderboard +8; sources +1; entity city_essen; FOI **gap_ess_bbr_fva_toelagen_ocmw_budget_l5** prio9 ready + draft; key only (PDF ~4.8MB not stored in git); rq_1054=done; spawn **rq_1055**; ticks=1054
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1055** residual dual L5; deferred **rq_116**; progress@1060
+
