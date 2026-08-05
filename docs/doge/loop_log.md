@@ -11623,3 +11623,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +52 (bud_mm_*); commitments +4; leaderboard +7; sources +2; entity city_merelbeke_melle; FOI **gap_mm_toelagen_pension_agb_l5** prio8 ready + draft; raw PDF + key; rq_924=done; spawn **rq_925**; ticks=924
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_925** residual dual L5 (Kapellen AGB+APB / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@930 in 6
+
+### Tick 925 - 2026-08-07T11:15:00Z
+
+- Unit: **rq_925** (FOI-adjacent residual dual - **Gemeente+OCMW Zulte Jaarrekening 2025** + Merelbeke-Melle dual)
+- Found (strong primary BBC JR2025 146p):
+  - Assets **EUR115.5m** / equity **EUR92.6m** / debt total **EUR22.9m** / fin debt **EUR16.2m** (**RISING** from **EUR14.2m**; LT **EUR14.8m** / ST due **EUR1.38m**) · **EUR997**/capita
+  - **Bank Belfius EUR3.000m June 2025 @ 3.139pct FOI** / Fluvius leasing **EUR0.25m** / repayments **EUR1.24m**
+  - Cash **EUR6.37m** (was **EUR6.93m**) / pension **EUR3.66m**
+  - Exploitatie: ontvangsten **EUR26.3m** / uitgaven **EUR22.4m** / saldo **+EUR3.84m**
+  - AFM **+EUR2.62m** (gecorr **+EUR2.73m**) / BBR **EUR6.49m** / budget result **+EUR0.14m** / P&L **-EUR0.91m**
+  - Personnel **EUR11.5m** / toelagen **EUR2.89m** (police **EUR1.56m** / other **EUR0.42m FOI**) / fiscal **EUR11.9m**
+  - **Invest EUR6.78m FOI** / invest-subs **EUR1.70m** (**IGS EUR1.18m FOI**)
+  - MJP bank 2026 **EUR3.50m FOI** / fin debt YE2027 **EUR22.2m rising FOI**
+- Dual: Merelbeke-Melle **EUR260.4m** / toelagen **EUR12.9m** / pension **EUR35.6m** (tick924) - not TE-additive
+- Wrote: budgets +50 (bud_zul_*); commitments +4; leaderboard +7; sources +2; entity city_zulte; FOI **gap_zul_loans_debt_igs_l5** prio8 ready + draft; raw PDF + key; rq_925=done; spawn **rq_926**; ticks=925
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_926** residual dual L5 (Aalter / Lochristi / Kruisem / Kapellen AGB+APB / Roeselare); deferred **rq_116**; progress@930 in 5

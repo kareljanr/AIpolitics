@@ -1,0 +1,41 @@
+ZULTE JR2025 KEY EXTRACT — tick925
+Primary: https://www.zulte.be/sites/default/files/2026-06/Jaarrekening-Zulte-2025.pdf
+Portal: https://www.zulte.be/jaarrekening
+Local: docs/doge/data/raw/zulte_jr2025.pdf (146p BBC)
+Contact: Centrumstraat 8 9870 Zulte | OCMW Staatsbaan 148
+KBO G 0207.456.868 | OCMW 0212.187.597
+AD Sylvie Bohez | FD Annelies Demeurie
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 115500282 (112917517)
+Equity 92590595 (92743744)
+Schulden 22909686 (20173773)
+Fin debt T4 16189685 (14181789 RISING) — 997 EUR/inwoner
+  LT 14814248 / ST due 1375437
+Cash 6365643 (6930520)
+Pension 3663656 (was 2922799)
+Cap subs 12152206
+FVA 18700821 (IGS 18571664)
+MVA 87293502
+
+J2:
+Expl 26289578 / 22448004 / +3841574
+Invest 1040201 / 6775867 / -5735666
+Fin 3277889 / 1243449 / +2034440
+Budget +140348
+Cum BR 6675737 / onbeschikbaar 189742 / BBR 6485995
+AFM +2624669 / gecorr +2733575
+Periodieke aflossingen 1243449
+New loans bank Belfius 3000000 @ 3.139% fixed June 2025 + leasing Fluvius 251345 = 3251345
+
+T2/J5:
+Personnel 11492791
+Toelagen 2888367 (police 1556162 / HVZ 519155 / IGS 351070 / eredienst 44317 / other 417663)
+Invest-subs 1696274 (IGS 1182062 FOI / police 108830 / HVZ 45995 / eredienst 97711 / other 261676)
+Fiscal 11889914 / gemeentefonds 4380079
+P&L -914885
+Invest MVA 5051475
+MJP bank 2026 3500000 / fin debt YE2026 18661221 YE2027 22201115 rising
+
+FOI: Belfius schedule; debt ramp; IGS invest-subs; invest list; other toelagen
+Dual: Merelbeke-Melle tick924 assets 260.4m toelagen 12.9m

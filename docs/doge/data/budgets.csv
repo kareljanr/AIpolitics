@@ -20595,3 +20595,53 @@ bud_mm_fin_costs_2025,city_merelbeke_melle,2025,479577,,,jaarrekening_realized,s
 bud_mm_invest_mva_2025,city_merelbeke_melle,2025,5231614,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,Investeringen MVA 5.232m (buildings 1.752 roads 2.164); tick924
 bud_mm_pop_2025,city_merelbeke_melle,2025,37369,,,count,src_merelbeke_melle_jr2025,strong,Inwoners 01.01.2025 37369; tick924
 bud_mm_agb_bbr_2025,city_merelbeke_melle,2025,501337,,,jaarrekening_realized,src_merelbeke_melle_jr2025,strong,AGB Merelbeke-Melle BBR YE2025 0.501m consol evenwicht; tick924
+bud_zul_assets_2025,city_zulte,2025,115500282,,,jaarrekening_realized,src_zulte_jr2025,strong,Consol gemeente+OCMW total assets YE2025 115.500m; tick925
+bud_zul_equity_2025,city_zulte,2025,92590595,,,jaarrekening_realized,src_zulte_jr2025,strong,Nettoactief YE2025 92.591m; tick925
+bud_zul_debt_total_2025,city_zulte,2025,22909686,,,jaarrekening_realized,src_zulte_jr2025,strong,Total schulden YE2025 22.910m; tick925
+bud_zul_fin_debt_2025,city_zulte,2025,16189685,,,jaarrekening_realized,src_zulte_jr2025,strong,T4 total financiele schulden YE2025 16.190m (RISING from 14.182m); tick925
+bud_zul_fin_debt_lt_2025,city_zulte,2025,14814248,,,jaarrekening_realized,src_zulte_jr2025,strong,Financiele schulden LT YE2025 14.814m; tick925
+bud_zul_fin_debt_st_due_2025,city_zulte,2025,1375437,,,jaarrekening_realized,src_zulte_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.375m; tick925
+bud_zul_fin_debt_2024,city_zulte,2025,14181789,,,jaarrekening_realized,src_zulte_jr2025,strong,T4 fin debt YE2024 14.182m comparator; tick925
+bud_zul_pension_prov_2025,city_zulte,2025,3663656,,,jaarrekening_realized,src_zulte_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.664m; tick925
+bud_zul_cash_2025,city_zulte,2025,6365643,,,jaarrekening_realized,src_zulte_jr2025,strong,Liquide middelen YE2025 6.366m (thesaurie note 6.379m); tick925
+bud_zul_cash_2024,city_zulte,2025,6930520,,,jaarrekening_realized,src_zulte_jr2025,strong,Liquide middelen YE2024 6.931m; tick925
+bud_zul_cap_subs_2025,city_zulte,2025,12152206,,,jaarrekening_realized,src_zulte_jr2025,strong,Kapitaalsubsidies YE2025 12.152m; tick925
+bud_zul_fva_total_2025,city_zulte,2025,18700821,,,jaarrekening_realized,src_zulte_jr2025,strong,Financiele vaste activa YE2025 18.701m; tick925
+bud_zul_fva_igs_2025,city_zulte,2025,18571664,,,jaarrekening_realized,src_zulte_jr2025,strong,Fin VA IGS YE2025 18.572m; tick925
+bud_zul_mva_2025,city_zulte,2025,87293502,,,jaarrekening_realized,src_zulte_jr2025,strong,Materiele vaste activa YE2025 87.294m; tick925
+bud_zul_onbeschikbaar_2025,city_zulte,2025,189742,,,jaarrekening_realized,src_zulte_jr2025,strong,Onbeschikbare gelden J2 0.190m; tick925
+bud_zul_expl_rec_2025,city_zulte,2025,26289578,,,jaarrekening_realized,src_zulte_jr2025,strong,Exploitatieontvangsten 26.290m; tick925
+bud_zul_expl_exp_2025,city_zulte,2025,22448004,,,jaarrekening_realized,src_zulte_jr2025,strong,Exploitatieuitgaven 22.448m; tick925
+bud_zul_expl_saldo_2025,city_zulte,2025,3841574,,,jaarrekening_realized,src_zulte_jr2025,strong,Exploitatiesaldo +3.842m; tick925
+bud_zul_invest_exp_2025,city_zulte,2025,6775867,,,jaarrekening_realized,src_zulte_jr2025,strong,Investeringsuitgaven J2 6.776m FOI; tick925
+bud_zul_invest_rec_2025,city_zulte,2025,1040201,,,jaarrekening_realized,src_zulte_jr2025,strong,Investeringsontvangsten J2 1.040m; tick925
+bud_zul_invest_saldo_2025,city_zulte,2025,-5735666,,,jaarrekening_realized,src_zulte_jr2025,strong,Investeringssaldo -5.736m; tick925
+bud_zul_fin_rec_2025,city_zulte,2025,3277889,,,jaarrekening_realized,src_zulte_jr2025,strong,Financieringsontvangsten 3.278m; tick925
+bud_zul_fin_exp_2025,city_zulte,2025,1243449,,,jaarrekening_realized,src_zulte_jr2025,strong,Financieringsuitgaven 1.243m; tick925
+bud_zul_new_loans_2025,city_zulte,2025,3251345,,,jaarrekening_realized,src_zulte_jr2025,strong,Aangaan financiele schulden total 3.251m (bank 3.000m + leasing 0.251m) FOI; tick925
+bud_zul_new_loans_bank_2025,city_zulte,2025,3000000,,,jaarrekening_realized,src_zulte_jr2025,strong,Banklening Belfius juni 2025 3.000m vaste rente 3.139pct FOI; tick925
+bud_zul_aflossingen_2025,city_zulte,2025,1243449,,,jaarrekening_realized,src_zulte_jr2025,strong,Periodieke aflossingen 1.243m; tick925
+bud_zul_afm_2025,city_zulte,2025,2624669,,,jaarrekening_realized,src_zulte_jr2025,strong,AFM +2.625m (strong); tick925
+bud_zul_afm_corr_2025,city_zulte,2025,2733575,,,jaarrekening_realized,src_zulte_jr2025,strong,Gecorrigeerde AFM +2.734m; tick925
+bud_zul_bbr_2025,city_zulte,2025,6485995,,,jaarrekening_realized,src_zulte_jr2025,strong,BBR 6.486m after onbeschikbaar 0.190m; tick925
+bud_zul_budget_result_2025,city_zulte,2025,140348,,,jaarrekening_realized,src_zulte_jr2025,strong,Budgettair resultaat boekjaar +0.140m; tick925
+bud_zul_cum_br_2025,city_zulte,2025,6675737,,,jaarrekening_realized,src_zulte_jr2025,strong,Gecumuleerd budgettair resultaat 6.676m; tick925
+bud_zul_pnl_result_2025,city_zulte,2025,-914885,,,jaarrekening_realized,src_zulte_jr2025,strong,Vennootschapsresultaat J5 -0.915m; tick925
+bud_zul_personnel_2025,city_zulte,2025,11492791,,,jaarrekening_realized,src_zulte_jr2025,strong,J5/T2 bezoldigingen 11.493m; tick925
+bud_zul_toelagen_2025,city_zulte,2025,2888367,,,jaarrekening_realized,src_zulte_jr2025,strong,Toegestane werkingssubsidies 2.888m; tick925
+bud_zul_police_toelage_2025,city_zulte,2025,1556162,,,jaarrekening_realized,src_zulte_jr2025,strong,Toelage politiezone 1.556m; tick925
+bud_zul_hvz_toelage_2025,city_zulte,2025,519155,,,jaarrekening_realized,src_zulte_jr2025,strong,Toelage HVZ 0.519m; tick925
+bud_zul_igs_toelage_2025,city_zulte,2025,351070,,,jaarrekening_realized,src_zulte_jr2025,strong,Toelage IGS 0.351m; tick925
+bud_zul_eredienst_toelage_2025,city_zulte,2025,44317,,,jaarrekening_realized,src_zulte_jr2025,strong,Toelage eredienst 0.044m; tick925
+bud_zul_toelagen_other_2025,city_zulte,2025,417663,,,jaarrekening_realized,src_zulte_jr2025,strong,Toelagen andere begunstigden 0.418m FOI; tick925
+bud_zul_invest_subs_granted_2025,city_zulte,2025,1696274,,,jaarrekening_realized,src_zulte_jr2025,strong,Toegestane investeringssubsidies 1.696m; tick925
+bud_zul_invest_subs_igs_2025,city_zulte,2025,1182062,,,jaarrekening_realized,src_zulte_jr2025,strong,Invest-subs IGS 1.182m FOI; tick925
+bud_zul_ocmw_aid_2025,city_zulte,2025,1202823,,,jaarrekening_realized,src_zulte_jr2025,strong,OCMW individuele hulp 1.203m; tick925
+bud_zul_fiscal_2025,city_zulte,2025,11889914,,,jaarrekening_realized,src_zulte_jr2025,strong,Fiscale opbrengsten en boetes 11.890m; tick925
+bud_zul_gemeentefonds_2025,city_zulte,2025,4380079,,,jaarrekening_realized,src_zulte_jr2025,strong,Gemeentefonds 4.380m; tick925
+bud_zul_fin_costs_2025,city_zulte,2025,537371,,,jaarrekening_realized,src_zulte_jr2025,strong,Financiele kosten 0.537m; tick925
+bud_zul_invest_mva_2025,city_zulte,2025,5051475,,,jaarrekening_realized,src_zulte_jr2025,strong,Investeringen MVA 5.051m (buildings 2.775 roads 1.742); tick925
+bud_zul_mjp_new_loans_bank_2026,city_zulte,2025,3500000,,,jaarrekening_realized,src_zulte_jr2025,strong,MJP new bank loans 2026 3.500m FOI; tick925
+bud_zul_mjp_fin_debt_2026,city_zulte,2025,18661221,,,jaarrekening_realized,src_zulte_jr2025,strong,MJP projected fin debt YE2026 18.661m rising; tick925
+bud_zul_mjp_fin_debt_2027,city_zulte,2025,22201115,,,jaarrekening_realized,src_zulte_jr2025,strong,MJP projected fin debt YE2027 22.201m rising FOI; tick925
+bud_zul_pop_debt_per_cap_2025,city_zulte,2025,997,,,count,src_zulte_jr2025,strong,Openstaande schuld per inwoner 997 EUR (narrative); tick925
