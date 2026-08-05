@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T13:00:00Z,rq_964,964,no,tick964 AGB MMP1917 JR2025 Entity II dual residual; FOI gap_mmp_afm_lease_cash_subsidy_l5 prio8 assets 6.89m fin debt 4.36m declining cash 0.60m DROP leasing 3.83m gecorr AFM -0.20m NEG; next residual dual L5 rq_965; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T14:00:00Z,rq_965,965,no,tick965 Lendelede GE+OCMW JR2025 dual residual; FOI gap_len_ocmw_debt_agb_toelagen_l5 prio8 assets 43.1m fin debt 8.95m RISING +loan 1.13m cash 3.77m OCMW cover 1.0m AGL AFM neg; next residual dual L5 rq_966; rq_116 deferred

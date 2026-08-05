@@ -22236,3 +22236,56 @@ bud_mmp_fin_costs_2025,agb_mmp1917_zonnebeke,2025,64,,,realized,src_agb_mmp1917_
 bud_mmp_rechthebbenden_2025,agb_mmp1917_zonnebeke,2025,27071,,,realized,src_agb_mmp1917_jr2025,strong,Rechthebbenden uit overschot 0.027m FOI; tick964
 bud_mmp_mjp_fin_debt_2026,agb_mmp1917_zonnebeke,2025,4314281,,,realized,src_agb_mmp1917_jr2025,strong,MJP fin debt YE2026 4.31m declining path; tick964
 bud_mmp_mjp_fin_debt_2027,agb_mmp1917_zonnebeke,2025,4264692,,,realized,src_agb_mmp1917_jr2025,strong,MJP fin debt YE2027 4.26m; tick964
+bud_len_assets_2025,city_lendelede,2025,43062556,,,realized,src_lendelede_jr2025,strong,Total assets YE2025 43.1m; tick965
+bud_len_equity_2025,city_lendelede,2025,27835125,,,realized,src_lendelede_jr2025,strong,Nettoactief YE2025 27.8m; tick965
+bud_len_debt_total_2025,city_lendelede,2025,15227431,,,realized,src_lendelede_jr2025,strong,Total schulden YE2025 15.2m; tick965
+bud_len_fin_debt_2025,city_lendelede,2025,8947629,,,realized,src_lendelede_jr2025,strong,Fin debt YE2025 8.95m RISING from 8.58m; tick965
+bud_len_fin_debt_lt_2025,city_lendelede,2025,8143949,,,realized,src_lendelede_jr2025,strong,Fin debt LT 8.14m; tick965
+bud_len_fin_debt_st_due_2025,city_lendelede,2025,803680,,,realized,src_lendelede_jr2025,strong,Fin debt ST due 0.804m; tick965
+bud_len_fin_debt_2024,city_lendelede,2025,8579800,,,realized,src_lendelede_jr2025,strong,Fin debt YE2024 8.58m; tick965
+bud_len_new_loans_2025,city_lendelede,2025,1129095,,,realized,src_lendelede_jr2025,strong,New loans/lease 1.13m FOI project list; tick965
+bud_len_aflossingen_2025,city_lendelede,2025,761266,,,realized,src_lendelede_jr2025,strong,Periodieke aflossingen 0.761m; tick965
+bud_len_cash_2025,city_lendelede,2025,3765779,,,realized,src_lendelede_jr2025,strong,Liquide middelen 3.77m; tick965
+bud_len_cash_2024,city_lendelede,2025,3439739,,,realized,src_lendelede_jr2025,strong,Liquide middelen YE2024 3.44m; tick965
+bud_len_pension_prov_2025,city_lendelede,2025,4849826,,,realized,src_lendelede_jr2025,strong,Pensioen+responsabilisering voorzieningen LT 4.85m FOI FPD volatility; tick965
+bud_len_pension_prov_2024,city_lendelede,2025,5310897,,,realized,src_lendelede_jr2025,strong,Pensioenvoorzieningen YE2024 5.31m; tick965
+bud_len_prov_st_2025,city_lendelede,2025,474841,,,realized,src_lendelede_jr2025,strong,Voorzieningen ST 0.475m; tick965
+bud_len_fva_total_2025,city_lendelede,2025,15088821,,,realized,src_lendelede_jr2025,strong,FVA total 15.1m; tick965
+bud_len_fva_igs_2025,city_lendelede,2025,6743024,,,realized,src_lendelede_jr2025,strong,FVA IGS 6.74m; tick965
+bud_len_fva_other_2025,city_lendelede,2025,8345798,,,realized,src_lendelede_jr2025,strong,FVA andere 8.35m (Efin/Fluvius stack); tick965
+bud_len_mva_2025,city_lendelede,2025,23002551,,,realized,src_lendelede_jr2025,strong,MVA total 23.0m; tick965
+bud_len_leasing_mva_2025,city_lendelede,2025,732392,,,realized,src_lendelede_jr2025,strong,Leasing MVA gemeenschap 0.732m FOI; tick965
+bud_len_cap_subs_2025,city_lendelede,2025,3007143,,,realized,src_lendelede_jr2025,strong,Kapitaalsubsidies 3.01m; tick965
+bud_len_cum_pnl_2025,city_lendelede,2025,4417596,,,realized,src_lendelede_jr2025,strong,Gecumuleerd overschot 4.42m; tick965
+bud_len_expl_rec_2025,city_lendelede,2025,11797833,,,realized,src_lendelede_jr2025,strong,Exploitatieontvangsten 11.8m; tick965
+bud_len_expl_exp_2025,city_lendelede,2025,10145442,,,realized,src_lendelede_jr2025,strong,Exploitatieuitgaven 10.1m; tick965
+bud_len_expl_saldo_2025,city_lendelede,2025,1652391,,,realized,src_lendelede_jr2025,strong,Exploitatiesaldo +1.65m; tick965
+bud_len_invest_exp_2025,city_lendelede,2025,1600513,,,realized,src_lendelede_jr2025,strong,Investeringsuitgaven 1.60m underspend vs MJP 3.28m FOI; tick965
+bud_len_invest_rec_2025,city_lendelede,2025,120976,,,realized,src_lendelede_jr2025,strong,Investeringsontvangsten 0.121m; tick965
+bud_len_invest_saldo_2025,city_lendelede,2025,-1479537,,,realized,src_lendelede_jr2025,strong,Investeringssaldo -1.48m; tick965
+bud_len_invest_mjp_2025,city_lendelede,2025,3284291,,,realized,src_lendelede_jr2025,strong,MJP invest exp 3.28m (underspend residual); tick965
+bud_len_afm_2025,city_lendelede,2025,891125,,,realized,src_lendelede_jr2025,strong,AFM +0.891m STRONG; tick965
+bud_len_afm_corr_2025,city_lendelede,2025,966007,,,realized,src_lendelede_jr2025,strong,Gecorr AFM +0.966m; tick965
+bud_len_bbr_2025,city_lendelede,2025,3996467,,,realized,src_lendelede_jr2025,strong,BBR 4.00m; tick965
+bud_len_budget_result_2025,city_lendelede,2025,540683,,,realized,src_lendelede_jr2025,strong,Budgettair resultaat +0.541m; tick965
+bud_len_cum_br_2025,city_lendelede,2025,3996467,,,realized,src_lendelede_jr2025,strong,Gecumuleerd BR = BBR 4.00m; tick965
+bud_len_pnl_result_2025,city_lendelede,2025,762589,,,realized,src_lendelede_jr2025,strong,P&L overschot +0.763m; tick965
+bud_len_personnel_2025,city_lendelede,2025,5603874,,,realized,src_lendelede_jr2025,strong,Bezoldigingen 5.60m; tick965
+bud_len_toelagen_2025,city_lendelede,2025,1739691,,,realized,src_lendelede_jr2025,strong,Toegestane werkingssubsidies 1.74m FOI named matrix; tick965
+bud_len_invest_subs_granted_2025,city_lendelede,2025,147294,,,realized,src_lendelede_jr2025,strong,Toegestane invest-subs 0.147m; tick965
+bud_len_ocmw_aid_2025,city_lendelede,2025,566837,,,realized,src_lendelede_jr2025,strong,Individuele hulpverlening OCMW 0.567m; tick965
+bud_len_ocmw_cover_2025,city_lendelede,2025,1000000,,,realized,src_lendelede_jr2025,strong,OCMW tussenkomst 1.00m LARGE FOI; tick965
+bud_len_ocmw_bbr_neg_2025,city_lendelede,2025,1033825,,,realized,src_lendelede_jr2025,strong,OCMW BBR -1.03m abs FOI residual; tick965
+bud_len_ocmw_equity_2025,city_lendelede,2025,736835,,,realized,src_lendelede_jr2025,strong,OCMW nettoactief 0.737m; tick965
+bud_len_fiscal_2025,city_lendelede,2025,5719426,,,realized,src_lendelede_jr2025,strong,Fiscale opbrengsten 5.72m; tick965
+bud_len_fin_costs_2025,city_lendelede,2025,287862,,,realized,src_lendelede_jr2025,strong,Financiele kosten J5 0.288m; tick965
+bud_len_goederen_2025,city_lendelede,2025,1915450,,,realized,src_lendelede_jr2025,strong,Goederen en diensten 1.92m; tick965
+bud_len_financing_saldo_2025,city_lendelede,2025,367829,,,realized,src_lendelede_jr2025,strong,Financieringssaldo +0.368m; tick965
+bud_len_guarantees_2025,city_lendelede,2025,1256830,,,realized,src_lendelede_jr2025,strong,Borgstellingen AGL/Leiedal/Psilon/kerk 1.26m FOI; tick965
+bud_len_agl_afm_neg_2025,city_lendelede,2025,6184,,,realized,src_lendelede_jr2025,strong,AGL Entity II AFM -0.006m dual FOI abs; tick965
+bud_len_agl_afm_corr_neg_2025,city_lendelede,2025,128407,,,realized,src_lendelede_jr2025,strong,AGL gecorr AFM -0.128m NEG dual FOI abs; tick965
+bud_len_agl_bbr_2025,city_lendelede,2025,51625,,,realized,src_lendelede_jr2025,strong,AGL BBR 0.052m dual; tick965
+bud_len_mjp_fin_debt_2026,city_lendelede,2025,8265933,,,realized,src_lendelede_jr2025,strong,MJP fin debt YE2026 8.27m declining path; tick965
+bud_len_mjp_fin_debt_2027,city_lendelede,2025,7624989,,,realized,src_lendelede_jr2025,strong,MJP fin debt YE2027 7.62m; tick965
+bud_len_costs_j5_2025,city_lendelede,2025,11143355,,,realized,src_lendelede_jr2025,strong,J5 total kosten 11.14m; tick965
+bud_len_revenue_j5_2025,city_lendelede,2025,11905944,,,realized,src_lendelede_jr2025,strong,J5 total opbrengsten 11.91m; tick965

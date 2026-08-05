@@ -12332,3 +12332,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_965** residual dual L5 (Ledegem / Lendelede / Torhout / Meulebeke / WZBW); deferred **rq_116**; progress@970 in 6
 
+
+### Tick 965 - 2026-08-08T14:00:00Z
+
+- Unit: **rq_965** (FOI-adjacent residual dual - **Gemeente+OCMW Lendelede Jaarrekening 2025** + AGB MMP1917 dual residual + AGL Entity II)
+- Found (strong primary BBC JR2025 107p; KBO 0207.491.710 / OCMW 0212.192.745; intern rapport 05.05.2026; PDF media/28626):
+  - Assets **EUR43.1m** / equity **EUR27.8m** / debt total **EUR15.2m** / fin debt **EUR8.95m** (**RISING** from **EUR8.58m**; LT **EUR8.14m** / ST due **EUR0.804m**)
+  - New loans/lease **EUR1.13m** / repayments **EUR0.761m**
+  - Cash **EUR3.77m** / pension+resp prov **EUR4.85m** (declining from EUR5.31m FPD FOI) / leasing MVA **EUR0.732m FOI** / FVA **EUR15.1m** (IGS EUR6.74m)
+  - Exploitatie: ontvangsten **EUR11.8m** / uitgaven **EUR10.1m** / saldo **+EUR1.65m**
+  - AFM **+EUR0.891m STRONG** (gecorr **+EUR0.966m**) / BBR **EUR4.00m** / budget **+EUR0.541m** / P&L **+EUR0.763m**
+  - **AGL dual**: AFM **-EUR0.006m** / **gecorr AFM -EUR0.128m NEG FOI** / BBR **EUR0.052m**
+  - Personnel **EUR5.60m** / toelagen **EUR1.74m FOI named** / invest-subs **EUR0.147m**
+  - Invest **EUR1.60m** vs MJP **EUR3.28m underspend FOI** (~51pct) / **OCMW cover EUR1.00m LARGE FOI** (OCMW BBR **-EUR1.03m**)
+  - Guarantees **EUR1.26m FOI** / MJP fin debt planned **EUR8.27m (2026) / EUR7.62m (2027)** declining after 2025 peak
+- Dual: AGB MMP1917 **EUR6.89m** / fin debt **EUR4.36m declining** / leasing **EUR3.83m** / gecorr AFM **-EUR0.20m** (tick964) - not TE-additive
+- Note: Ledegem JR2025 portal listed but extract deferred; Torhout news-only (no full BBC PDF this tick)
+- Wrote: budgets +53 (bud_len_*); commitments +5; leaderboard +7; sources +1; entity city_lendelede; FOI **gap_len_ocmw_debt_agb_toelagen_l5** prio8 ready + draft; key only (PDF ~63MB not stored); rq_965=done; spawn **rq_966**; ticks=965
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_966** residual dual L5 (Ledegem / Meulebeke / Torhout / AGL Lendelede / WZBW); deferred **rq_116**; progress@970 in 5
+
