@@ -27705,3 +27705,57 @@ bud_duf_gemeentefonds_2025,city_duffel,2025,4663454,,,bbc_jr_realized,src_duffel
 bud_duf_interest_2025,city_duffel,2025,1511567,,,bbc_jr_realized,src_duffel_jr2025,strong,Intresten op leningen 1.512m; tick1077
 bud_duf_agb_afm_corr_2025,city_duffel,2025,-367780,,,bbc_jr_realized,src_duffel_jr2025,strong,AGB Duffel corr AFM -0.368m NEG FOI; tick1077
 bud_duf_consol_afm_corr_2025,city_duffel,2025,3088100,,,bbc_jr_realized,src_duffel_jr2025,strong,Consol GE+OCMW+AGB corr AFM +3.088m; tick1077
+bud_bon_assets_2025,city_bonheiden,2025,81650422,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Assets YE2025 81.650m (was 79.337m); tick1078
+bud_bon_equity_2025,city_bonheiden,2025,63309822,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Nettoactief YE2025 63.310m (was 61.918m); tick1078
+bud_bon_debt_total_2025,city_bonheiden,2025,18340599,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Total schulden YE2025 18.341m slight up (was 17.419m); tick1078
+bud_bon_fin_debt_2025,city_bonheiden,2025,7089729,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Fin debt total YE2025 7.090m DECLINE (was 7.425m); tick1078
+bud_bon_fin_debt_lt_2025,city_bonheiden,2025,6436540,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Fin debt LT YE2025 6.437m DECLINE (was 6.703m); tick1078
+bud_bon_fin_debt_st_due_2025,city_bonheiden,2025,653190,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Fin debt ST due YE2025 0.653m; tick1078
+bud_bon_new_loans_2025,city_bonheiden,2025,358636,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Nieuwe leningen 2025 0.359m LOW (leasing-heavy); tick1078
+bud_bon_aflossingen_2025,city_bonheiden,2025,693914,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Periodieke aflossingen 2025 0.694m; tick1078
+bud_bon_cash_2025,city_bonheiden,2025,8068264,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Liquide middelen YE2025 8.068m JUMP (was 6.564m); tick1078
+bud_bon_pension_2025,city_bonheiden,2025,7650424,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.650m JUMP FOI (was 6.593m); tick1078
+bud_bon_cap_subs_2025,city_bonheiden,2025,6153634,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Kapitaalsubsidies YE2025 6.154m; tick1078
+bud_bon_fva_total_2025,city_bonheiden,2025,7818277,,,bbc_jr_realized,src_bonheiden_jr2025,strong,FVA total YE2025 7.818m; tick1078
+bud_bon_fva_igs_2025,city_bonheiden,2025,7788774,,,bbc_jr_realized,src_bonheiden_jr2025,strong,FVA IGS YE2025 7.789m; tick1078
+bud_bon_leasing_mva_2025,city_bonheiden,2025,1379766,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Leasing MVA YE2025 1.380m; tick1078
+bud_bon_expl_rec_2025,city_bonheiden,2025,31558340,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Exploitatieontvangsten 31.558m; tick1078
+bud_bon_expl_exp_2025,city_bonheiden,2025,26586905,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Exploitatieuitgaven 26.587m; tick1078
+bud_bon_expl_saldo_2025,city_bonheiden,2025,4971435,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Exploitatiesaldo +4.971m STRONG; tick1078
+bud_bon_invest_exp_2025,city_bonheiden,2025,3811768,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Investeringsuitgaven 3.812m vs MJP 18.070m MASSIVE UNDERSPEND FOI; tick1078
+bud_bon_invest_rec_2025,city_bonheiden,2025,482157,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Investeringsontvangsten 0.482m; tick1078
+bud_bon_invest_saldo_2025,city_bonheiden,2025,-3329611,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Investeringssaldo -3.330m; tick1078
+bud_bon_mjp_invest_planned_2025,city_bonheiden,2025,18070462,,,bbc_jr_realized,src_bonheiden_jr2025,strong,MJP invest planned 18.070m vs realized 3.812m MASSIVE underspend FOI; tick1078
+bud_bon_invest_mva_2025,city_bonheiden,2025,3536663,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Investeringen MVA 3.537m; tick1078
+bud_bon_invest_subs_granted_2025,city_bonheiden,2025,229705,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Toegestane invest-subs 0.230m; tick1078
+bud_bon_afm_2025,city_bonheiden,2025,4322398,,,bbc_jr_realized,src_bonheiden_jr2025,strong,AFM +4.322m STRONG; tick1078
+bud_bon_afm_corr_2025,city_bonheiden,2025,4422311,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Gecorrigeerde AFM +4.422m STRONG; tick1078
+bud_bon_bbr_2025,city_bonheiden,2025,8164215,,,bbc_jr_realized,src_bonheiden_jr2025,strong,BBR beschikbaar +8.164m; tick1078
+bud_bon_budget_result_2025,city_bonheiden,2025,1351423,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Budgettair resultaat +1.351m STRONG; tick1078
+bud_bon_cum_br_2025,city_bonheiden,2025,8350881,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Gecumuleerd budgettair resultaat +8.351m; tick1078
+bud_bon_onbeschikbaar_2025,city_bonheiden,2025,186667,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Onbeschikbare gelden 0.187m; tick1078
+bud_bon_pnl_2025,city_bonheiden,2025,1160952,,,bbc_jr_realized,src_bonheiden_jr2025,strong,P&L +1.161m IMPROVING (was -0.624m); tick1078
+bud_bon_ge_expl_exp_2025,city_bonheiden,2025,22791479,,,bbc_jr_realized,src_bonheiden_jr2025,strong,GE exploitatieuitgaven J3 22.791m; tick1078
+bud_bon_ge_expl_rec_2025,city_bonheiden,2025,29049867,,,bbc_jr_realized,src_bonheiden_jr2025,strong,GE exploitatieontvangsten J3 29.050m; tick1078
+bud_bon_ocmw_expl_exp_2025,city_bonheiden,2025,3795426,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW exploitatieuitgaven J3 3.795m; tick1078
+bud_bon_ocmw_expl_rec_2025,city_bonheiden,2025,2508473,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW exploitatieontvangsten J3 2.508m; tick1078
+bud_bon_ocmw_expl_gap_2025,city_bonheiden,2025,-1286953,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW expl gap J3 -1.287m; tick1078
+bud_bon_ocmw_cover_2025,city_bonheiden,2025,0,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW cover tussenkomst 0.000 ZERO FOI; OCMW equity -4.370m; tick1078
+bud_bon_ocmw_equity_cum_2025,city_bonheiden,2025,-5866450,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW gecumuleerd tekort YE2025 -5.866m WORSENING FOI; tick1078
+bud_bon_ocmw_pnl_2025,city_bonheiden,2025,-1383491,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW P&L -1.383m FOI; tick1078
+bud_bon_equity_cum_2025,city_bonheiden,2025,6921088,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Gecumuleerd equity overschot YE2025 +6.921m; tick1078
+bud_bon_personnel_2025,city_bonheiden,2025,14645287,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Bezoldigingen T2 14.645m incl education pass-through 2.598m; tick1078
+bud_bon_edu_pass_through_2025,city_bonheiden,2025,2597807,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.598m JUMP; tick1078
+bud_bon_toelagen_2025,city_bonheiden,2025,5733328,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Toegestane werkingssubsidies 5.733m FOI residual; tick1078
+bud_bon_toelagen_police_2025,city_bonheiden,2025,1950590,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Toelage politiezone 1.951m DROP (was 2.372m); tick1078
+bud_bon_toelagen_fire_2025,city_bonheiden,2025,734478,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Toelage hulpverleningszone 0.734m; tick1078
+bud_bon_toelagen_igs_2025,city_bonheiden,2025,1678936,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Toelage IGS 1.679m; tick1078
+bud_bon_toelagen_other_2025,city_bonheiden,2025,1367858,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Toelage other+eredienst residual 1.368m FOI; tick1078
+bud_bon_ocmw_aid_2025,city_bonheiden,2025,1270488,,,bbc_jr_realized,src_bonheiden_jr2025,strong,OCMW individuele hulp 1.270m; tick1078
+bud_bon_fiscal_2025,city_bonheiden,2025,19432882,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Fiscale opbrengsten 19.433m; tick1078
+bud_bon_fiscal_ov_2025,city_bonheiden,2025,5337204,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Opcentiemen OV 5.337m; tick1078
+bud_bon_fiscal_pb_2025,city_bonheiden,2025,10346305,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Aanvullende PB 10.346m; tick1078
+bud_bon_gemeentefonds_2025,city_bonheiden,2025,3399994,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Gemeentefonds 3.400m; tick1078
+bud_bon_interest_2025,city_bonheiden,2025,141717,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Intresten op leningen 0.142m; tick1078
+bud_bon_agb_afm_corr_2025,city_bonheiden,2025,-10410,,,bbc_jr_realized,src_bonheiden_jr2025,strong,AGB Bonheiden corr AFM -0.010m NEG FOI; tick1078
+bud_bon_agb_bbr_2025,city_bonheiden,2025,-5420,,,bbc_jr_realized,src_bonheiden_jr2025,strong,AGB BBR -0.005m NEG FOI; tick1078
