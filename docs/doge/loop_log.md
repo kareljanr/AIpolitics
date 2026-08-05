@@ -13115,3 +13115,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_wsm_*); commitments +5; leaderboard +7; sources +1; entity city_waasmunster; FOI **gap_wsm_budget_ocmw_debt_toelagen_l5** prio8 ready + draft; key only (PDF ~8.4MB not stored in git); rq_1007=done; spawn **rq_1008**; ticks=1007
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1008** residual dual L5 (Torhout / Sint-Gillis-Waas / AGB De Panne / other); deferred **rq_116**; progress@1010 in 3
+
+### Tick 1008 - 2026-08-09T17:15:00Z
+
+- Unit: **rq_1008** (FOI-adjacent residual dual - **Gemeente+OCMW Sint-Gillis-Waas Jaarrekening 2025** + Waasmunster dual residual)
+- Found (strong primary BBC JR2025 237p; KBO 0207.464.093 / OCMW 0212.169.781; FD Karl Buytaert; AD Vicky Van Daele; BM Koen Daniels; Burgemeester Omer De Meyplein 1; NIS 46020):
+  - Assets **EUR109.68m JUMP** / equity **EUR65.41m** / debt total **EUR44.27m** / fin debt **EUR32.51m** (**JUMP** from **EUR21.02m**; LT **EUR29.36m** / ST due **EUR3.15m**)
+  - New loans **EUR14.81m JUMP FOI** (GE **EUR3.44m** / OCMW **EUR11.37m**) / repayments **EUR3.32m**
+  - Cash **EUR5.05m JUMP** (was **EUR3.34m**) / pension **EUR7.52m JUMP** (was **EUR6.10m FOI**) / leasing MVA **EUR1.63m**
+  - FVA IGS **EUR21.84m** / cap subs **EUR5.42m**
+  - Exploitatie: ontvangsten **EUR36.40m** / uitgaven **EUR30.70m** / saldo **+EUR5.70m STRONG**
+  - AFM **+EUR2.38m STRONG** (gecorr **+EUR4.02m**) / BBR **EUR5.20m** / budget **+EUR2.90m STRONG** / P&L **-EUR0.423m** (GE **+EUR1.91m** / OCMW **-EUR2.33m FOI**)
+  - Personnel **EUR16.02m** / toelagen **EUR6.20m FOI** (police **EUR1.75m** / fire **EUR1.42m** / IGS **EUR1.56m** / welfare **EUR0.600m DROP** was 1.24m / other **EUR0.799m**)
+  - Invest **EUR14.96m HIGH** (OCMW **EUR11.70m FOI**) vs MJP **EUR15.84m** / **OCMW cover EUR2.39m FULL FOI** / OCMW cum **+EUR2.82m**
+- Dual: Waasmunster **EUR87.86m** / budget **-EUR1.85m** / OCMW cum **-EUR2.43m** (tick1007) - not TE-additive
+- Note: Torhout still news-only; Lebbeke / AGB De Panne / Kluisbergen OCR residual next optional
+- Wrote: budgets +50 (bud_sgw_*); commitments +5; leaderboard +7; sources +1; entity city_sint_gillis_waas; FOI **gap_sgw_debt_ocmw_invest_toelagen_l5** prio8 ready + draft; key only (PDF ~14MB not stored in git); rq_1008=done; spawn **rq_1009**; ticks=1008
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1009** residual dual L5 (Torhout / Lebbeke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 2
