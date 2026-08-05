@@ -13987,3 +13987,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1052** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1052 - 2026-08-10T15:15:00Z
+
+- Unit: **rq_1052** (FOI-adjacent residual dual - **Lokaal Bestuur Stekene Jaarrekening 2025** + Balen dual residual)
+- Found (strong primary BBC JR2025 GR/RMW 23.06.2026 bundel; KBO 0207.464.489 / OCMW 0212.173.444; Stadionstraat 2; AD Wim Mommaers FD Jerry Kegels; pub 26.06.2026):
+  - Assets **EUR117.44m JUMP** / equity **EUR61.57m JUMP** / debt total **EUR55.87m DECLINE** / fin debt **EUR42.41m** (LT **EUR40.07m** / ST due **EUR2.34m**)
+  - New loans **EUR4.22m HIGH FOI** / repayments **EUR2.23m**
+  - Cash **EUR4.68m DROP** (was **EUR6.64m**) / pension **EUR4.32m DROP HIGH FOI** (was **EUR8.43m**, **-EUR4.1m**) / FVA IGS **EUR12.39m** / leasing MVA **EUR1.70m**
+  - Exploitatie: ontvangsten **EUR35.12m** / uitgaven **EUR31.06m** / saldo **+EUR4.06m STRONG**
+  - AFM **+EUR1.82m STRONG** (gecorr **+EUR0.825m**) / BBR **EUR5.71m HIGH FOI** / budget **+EUR2.85m STRONG flip** vs MJP **-EUR2.73m** / cum BR **EUR5.89m** / P&L **+EUR3.98m flip**
+  - Personnel **EUR13.76m JUMP** / toelagen **EUR7.51m FOI** (**Zorg Stekene EUR2.11m** / police **EUR1.74m** / fire **EUR1.31m** / **MIWA EUR1.42m** / eredienst **EUR0.044m** / other **EUR0.89m**)
+  - Invest **EUR4.57m** / invest-subs rec **EUR1.32m**
+  - **OCMW cover EUR1.54m FULL FOI** vs gap **EUR-1.42m**
+  - Schuld/inwoner **EUR2146**
+- Dual: Balen assets **EUR140.53m** / new loans **EUR9.12m** / fin debt **EUR33.44m JUMP** / BBR **EUR15.29m** (tick1051) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Berlaar / Nijlen residual next; progress@1060
+- Wrote: budgets +54 (bud_stek_*); commitments +8; leaderboard +8; sources +1; entity city_stekene; FOI **gap_stek_pension_toelagen_ocmw_loans_l5** prio9 ready + draft; key only (PDF ~27MB not stored in git); rq_1052=done; spawn **rq_1053**; ticks=1052
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1053** residual dual L5; deferred **rq_116**; progress@1060
+

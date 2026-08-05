@@ -26390,3 +26390,57 @@ bud_bal_invest_subs_granted_2025,city_balen,2025,1277171,,,bbc_jr_realized,src_b
 bud_bal_ocmw_invest_exp_2025,city_balen,2025,1970552,,,bbc_jr_realized,src_balen_jr2025,strong,OCMW invest uitgaven 1.97m; tick1051
 bud_bal_fin_rec_loans_2025,city_balen,2025,9118402,,,bbc_jr_realized,src_balen_jr2025,strong,Financieringsontvangsten leningen/leasings 9.12m VERY HIGH; tick1051
 bud_bal_police_toelage_refund_2025,city_balen,2025,934908,,,bbc_jr_realized,src_balen_jr2025,strong,Terugbetaling politiezone toelagen nav rekeningen t/m 2023 0.935m FOI residual; tick1051
+bud_stek_assets_2025,city_stekene,2025,117441971,,,bbc_jr_realized,src_stekene_jr2025,strong,Assets YE2025 117.44m JUMP (was 114.90m); tick1052
+bud_stek_equity_2025,city_stekene,2025,61573636,,,bbc_jr_realized,src_stekene_jr2025,strong,Nettoactief YE2025 61.57m JUMP (was 56.74m); tick1052
+bud_stek_debt_total_2025,city_stekene,2025,55868335,,,bbc_jr_realized,src_stekene_jr2025,strong,Total schulden YE2025 55.87m DECLINE (was 58.15m); tick1052
+bud_stek_fin_debt_2025,city_stekene,2025,42413760,,,bbc_jr_realized,src_stekene_jr2025,strong,Fin debt total YE2025 42.41m (LT 40.07 + ST due 2.34; openstaande leningen 42.42m); tick1052
+bud_stek_fin_debt_lt_2025,city_stekene,2025,40068772,,,bbc_jr_realized,src_stekene_jr2025,strong,Fin debt LT YE2025 40.07m JUMP (was 38.28m); tick1052
+bud_stek_fin_debt_st_due_2025,city_stekene,2025,2344988,,,bbc_jr_realized,src_stekene_jr2025,strong,Fin debt ST due YE2025 2.34m; tick1052
+bud_stek_fin_debt_st_2025,city_stekene,2025,0,,,bbc_jr_realized,src_stekene_jr2025,strong,Fin debt ST treasury YE2025 0; tick1052
+bud_stek_new_loans_2025,city_stekene,2025,4217039,,,bbc_jr_realized,src_stekene_jr2025,strong,Nieuwe leningen 4.22m HIGH FOI; tick1052
+bud_stek_aflossingen_2025,city_stekene,2025,2234980,,,bbc_jr_realized,src_stekene_jr2025,strong,Periodieke aflossingen 2.23m; tick1052
+bud_stek_cash_2025,city_stekene,2025,4677646,,,bbc_jr_realized,src_stekene_jr2025,strong,Liquide middelen YE2025 4.68m DROP (was 6.64m); tick1052
+bud_stek_pension_2025,city_stekene,2025,4322496,,,bbc_jr_realized,src_stekene_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.32m DROP HIGH FOI (was 8.43m -4.1m); tick1052
+bud_stek_cap_subs_2025,city_stekene,2025,9833127,,,bbc_jr_realized,src_stekene_jr2025,strong,Kapitaalsubsidies YE2025 9.83m; tick1052
+bud_stek_fva_total_2025,city_stekene,2025,13975629,,,bbc_jr_realized,src_stekene_jr2025,strong,FVA total YE2025 13.98m; tick1052
+bud_stek_fva_igs_2025,city_stekene,2025,12392917,,,bbc_jr_realized,src_stekene_jr2025,strong,FVA IGS YE2025 12.39m; tick1052
+bud_stek_leasing_mva_2025,city_stekene,2025,1699069,,,bbc_jr_realized,src_stekene_jr2025,strong,Leasing MVA YE2025 1.70m; tick1052
+bud_stek_expl_rec_2025,city_stekene,2025,35118048,,,bbc_jr_realized,src_stekene_jr2025,strong,Exploitatieontvangsten 35.12m; tick1052
+bud_stek_expl_exp_2025,city_stekene,2025,31058487,,,bbc_jr_realized,src_stekene_jr2025,strong,Exploitatieuitgaven 31.06m; tick1052
+bud_stek_expl_saldo_2025,city_stekene,2025,4059560,,,bbc_jr_realized,src_stekene_jr2025,strong,Exploitatiesaldo +4.06m STRONG; tick1052
+bud_stek_invest_exp_2025,city_stekene,2025,4568125,,,bbc_jr_realized,src_stekene_jr2025,strong,Investeringsuitgaven 4.57m vs MJP 4.49m; tick1052
+bud_stek_invest_rec_2025,city_stekene,2025,1375241,,,bbc_jr_realized,src_stekene_jr2025,strong,Investeringsontvangsten 1.38m; tick1052
+bud_stek_invest_saldo_2025,city_stekene,2025,-3192883,,,bbc_jr_realized,src_stekene_jr2025,strong,Investeringssaldo -3.19m; tick1052
+bud_stek_mjp_invest_planned_2025,city_stekene,2025,4485614,,,bbc_jr_realized,src_stekene_jr2025,strong,MJP invest planned 4.49m vs realized 4.57m; tick1052
+bud_stek_afm_2025,city_stekene,2025,1824580,,,bbc_jr_realized,src_stekene_jr2025,strong,AFM +1.82m STRONG; tick1052
+bud_stek_afm_corr_2025,city_stekene,2025,825024,,,bbc_jr_realized,src_stekene_jr2025,strong,Gecorrigeerde AFM +0.825m; tick1052
+bud_stek_bbr_2025,city_stekene,2025,5706888,,,bbc_jr_realized,src_stekene_jr2025,strong,BBR beschikbaar +5.71m HIGH FOI; tick1052
+bud_stek_budget_result_2025,city_stekene,2025,2848737,,,bbc_jr_realized,src_stekene_jr2025,strong,Budgettair resultaat +2.85m STRONG flip vs MJP -2.73m; tick1052
+bud_stek_cum_br_2025,city_stekene,2025,5893555,,,bbc_jr_realized,src_stekene_jr2025,strong,Gecumuleerd budgettair resultaat +5.89m; tick1052
+bud_stek_onbeschikbaar_2025,city_stekene,2025,186667,,,bbc_jr_realized,src_stekene_jr2025,strong,Onbeschikbare gelden 0.187m; tick1052
+bud_stek_pnl_2025,city_stekene,2025,3980651,,,bbc_jr_realized,src_stekene_jr2025,strong,P&L +3.98m STRONG flip (was -4.25m); tick1052
+bud_stek_ge_expl_exp_2025,city_stekene,2025,26710099,,,bbc_jr_realized,src_stekene_jr2025,strong,GE exploitatieuitgaven J3 26.71m; tick1052
+bud_stek_ge_expl_rec_2025,city_stekene,2025,32186432,,,bbc_jr_realized,src_stekene_jr2025,strong,GE exploitatieontvangsten J3 32.19m; tick1052
+bud_stek_ocmw_expl_exp_2025,city_stekene,2025,4348388,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW exploitatieuitgaven J3 4.35m; tick1052
+bud_stek_ocmw_expl_rec_2025,city_stekene,2025,2931615,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW exploitatieontvangsten J3 2.93m; tick1052
+bud_stek_ocmw_expl_gap_2025,city_stekene,2025,-1416773,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW expl gap -1.42m FOI residual; tick1052
+bud_stek_ocmw_cover_2025,city_stekene,2025,1536905,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW cover tussenkomst 1.54m FULL FOI residual; tick1052
+bud_stek_equity_cum_2025,city_stekene,2025,239883,,,bbc_jr_realized,src_stekene_jr2025,strong,Gecumuleerd overschot/tekort consol YE2025 +0.240m flip (was -3.74m); tick1052
+bud_stek_personnel_2025,city_stekene,2025,13761525,,,bbc_jr_realized,src_stekene_jr2025,strong,Bezoldigingen 13.76m JUMP FOI (was 12.94m); tick1052
+bud_stek_edu_pass_through_2025,city_stekene,2025,2026604,,,bbc_jr_realized,src_stekene_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.03m; tick1052
+bud_stek_toelagen_2025,city_stekene,2025,7512241,,,bbc_jr_realized,src_stekene_jr2025,strong,Toegestane werkingssubsidies 7.51m FOI residual; tick1052
+bud_stek_toelagen_zorg_2025,city_stekene,2025,2109439,,,bbc_jr_realized,src_stekene_jr2025,strong,Toelage Zorg Stekene WV 2.11m HIGH FOI; tick1052
+bud_stek_toelagen_police_2025,city_stekene,2025,1738697,,,bbc_jr_realized,src_stekene_jr2025,strong,Toelage PZ Scheldewaas 1.74m; tick1052
+bud_stek_toelagen_fire_2025,city_stekene,2025,1309560,,,bbc_jr_realized,src_stekene_jr2025,strong,Toelage HVZ Waasland 1.31m; tick1052
+bud_stek_toelagen_miwa_2025,city_stekene,2025,1415925,,,bbc_jr_realized,src_stekene_jr2025,strong,Bijdrage MIWA 1.42m FOI residual; tick1052
+bud_stek_toelagen_eredienst_2025,city_stekene,2025,44492,,,bbc_jr_realized,src_stekene_jr2025,strong,Toelage erediensten 0.044m; tick1052
+bud_stek_toelagen_other_2025,city_stekene,2025,894128,,,bbc_jr_realized,src_stekene_jr2025,strong,Toelage andere 0.894m FOI residual; tick1052
+bud_stek_ocmw_aid_2025,city_stekene,2025,2893835,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW individuele hulp 2.89m JUMP; tick1052
+bud_stek_fiscal_2025,city_stekene,2025,18349760,,,bbc_jr_realized,src_stekene_jr2025,strong,Fiscale opbrengsten 18.35m JUMP; tick1052
+bud_stek_fiscal_ov_pb_2025,city_stekene,2025,16310490,,,bbc_jr_realized,src_stekene_jr2025,strong,OV+PB combined 16.31m; tick1052
+bud_stek_gemeentefonds_2025,city_stekene,2025,7456529,,,bbc_jr_realized,src_stekene_jr2025,strong,Gemeentefonds+algemene werkingssubsidies 7.46m; tick1052
+bud_stek_interest_2025,city_stekene,2025,1208797,,,bbc_jr_realized,src_stekene_jr2025,strong,Financiele kosten/intresten 1.21m JUMP FOI; tick1052
+bud_stek_invest_subs_rec_2025,city_stekene,2025,1321971,,,bbc_jr_realized,src_stekene_jr2025,strong,Ontvangen invest-subs 1.32m; tick1052
+bud_stek_invest_subs_granted_2025,city_stekene,2025,309912,,,bbc_jr_realized,src_stekene_jr2025,strong,Toegestane invest-subs 0.310m DROP; tick1052
+bud_stek_ocmw_invest_exp_2025,city_stekene,2025,4568,,,bbc_jr_realized,src_stekene_jr2025,strong,OCMW invest uitgaven 0.005m; tick1052
+bud_stek_schuld_per_inwoner_2025,city_stekene,2025,2146,,,bbc_jr_realized,src_stekene_jr2025,strong,Openstaande schuld per inwoner EUR2146; tick1052
